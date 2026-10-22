@@ -1,0 +1,84 @@
+# https://pre-commit.com
+
+# Two stages. At commit (the pre-commit stage) the fixers rewrite what they can. `kaphtor gate` runs the manual
+# stage, which only checks: the fixers are left out of it and their check-only twins below stand in, so the gate
+# never changes the working tree. A hook with no `stages` runs at both.
+
+# Nothing a hook may rewrite: the datasets (their bytes are what the datasheets and the ledger describe), the
+# generated wiki (the builder writes it, and the gate rebuilds it with an empty-diff rule), the frozen code
+# (tools/core/frozen/ is pinned by its sha256) and the licence texts, kept as published.
+exclude: |
+  (?x)
+  ^data/
+  |^wiki/
+  |^tools/core/frozen/
+  |^(LICENSE|LICENSE-CC-BY-4\.0|assets/fonts/OFL\.txt)$
+
+repos:
+  - repo: local
+    hooks:
+      - id: reject-forbidden-files
+        name: reject forbidden file patterns
+        entry: reject
+        language: fail
+        files: \.(rej|orig|bak)$
+      # every top-level entry the layout holds; a new one is added here deliberately
+      - id: reject-paths-outside-the-layout
+        name: reject files outside the repository's top-level layout
+        entry: outside the repository's top-level layout
+        language: fail
+        exclude: |
+          (?x)
+          ^(\.claude-plugin|\.github|\.wiki|assets|data|docs|skills|tests|tools|wiki)/
+          |^(_index\.md|\.gitattributes|\.gitignore|\.lfsconfig|\.pre-commit-config\.yaml|\.python-version)$
+          |^(AGENTS\.md|CITATION\.cff|CLAUDE\.md|CONTRIBUTING\.md|LICENSE|LICENSE-CC-BY-4\.0|NOTICE)$
+          |^(README\.md|SECURITY\.md|pyproject\.toml|uv\.lock)$
+      # private paths, private source ids and model credits never ship; this hook checks and rewrites nothing
+      - id: reject-private-traces
+        name: reject private paths, source ids and model credits
+        language: pygrep
+        entry: '/Users/|~/\.claude/|\bsrc_\d{3}\b|&\s*Claude|Claude \((Opus|Fable|Sonnet)'
+        types: [text]
+        exclude: ^(\.pre-commit-config\.yaml|tests/)
+      # the check-only twin of trailing-whitespace: a line ending in whitespace before its \n or \r\n
+      - id: check-trailing-whitespace
+        name: check for trailing whitespace
+        language: pygrep
+        entry: '(?:[ \t\x0b\x0c]|\r(?!\n\Z))(?:\r\n|\n)?\Z'
+        types: [text]
+        stages: [manual]
+      # the check-only twin of end-of-file-fixer: no final line break, more than one, or nothing but line breaks
+      - id: check-end-of-file
+        name: check for exactly one line break at end of file
+        language: pygrep
+        entry: '[^\r\n]\Z|\A[\r\n]+\Z|(?<![\r\n])(?!\r\n\Z)[\r\n]{2,}\Z'
+        args: [--multiline]
+        types: [text]
+        stages: [manual]
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-json
+      - id: check-toml
+      - id: check-yaml
+      - id: trailing-whitespace
+        stages: [pre-commit]
+      - id: end-of-file-fixer
+        stages: [pre-commit]
+      - id: check-merge-conflict
+      - id: debug-statements
+        exclude: ^(?!(tools|tests)/)
+      - id: detect-private-key
+  # the rules and excludes are [tool.ruff] in pyproject.toml; no formatter
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.8
+    hooks:
+      - id: ruff-check
+        exclude: ^(?!(tools|tests)/)
+        args:
+          - --fix
+        stages: [pre-commit]
+      # the gate's ruff: the same rules, reported and not fixed
+      - id: ruff-check
+        exclude: ^(?!(tools|tests)/)
+        stages: [manual]

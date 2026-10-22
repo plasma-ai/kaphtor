@@ -1,0 +1,42 @@
+---
+name: wiki/semitic-roots/b/2619_to_abound_be_abundant_become_more
+title: "*bzḫ: 'to abound, be abundant, become more'"
+desc: "Proto-Semitic *bzḫ, 'to abound, be abundant, become more': reflexes in 6 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "2619"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *bzḫ: 'to abound, be abundant, become more'
+
+[[wiki/semitic-roots/b/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*bzḫ |
+| Meaning | 'to abound, be abundant, become more' |
+| Basis | SED |
+| SED | SEDonline semet 3154 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Tigre | bǝzuḥ |  | gloss withheld |
+| East Ethiopic | Wol. bēzzä ( according to LGur 168, from Kambatta bīzza), bǝžži | LGur 168 | gloss withheld |
+| Geez | bǝzuḫ |  | gloss withheld |
+| Amharic | bǝzu |  | gloss withheld |
+| Harari | bäǯīḥ |  | gloss withheld |
+| Tigrinya | bǝzuḥ |  | gloss withheld |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

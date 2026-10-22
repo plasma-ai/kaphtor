@@ -1,0 +1,37 @@
+---
+name: wiki/semitic-roots/t/537_squeeze_in
+title: "*tVmVš-: 'squeeze in'"
+desc: "Proto-Semitic *tVmVš-, 'squeeze in': reflexes in 1 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "537"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *tVmVš-: 'squeeze in'
+
+[[wiki/semitic-roots/t/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*tVmVš- |
+| Meaning | 'squeeze in' |
+| Basis | SED |
+| SED | SEDonline semet 511 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Tigre | tämsä |  |  |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

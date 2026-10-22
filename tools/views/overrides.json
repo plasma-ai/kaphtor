@@ -1,0 +1,12 @@
+{
+  "description": "Presentation only, never data: where a page goes when the general rule misplaces it. series maps a corpus key to its [site, series] folders, for keys the series pattern cannot read (an empty series files the key directly under its site); slugs maps a form or key to its file name; descs gives a folder its desc by hand, where the generated one would mislead.",
+  "series": {
+    "PKZbX": ["PK", "PKZb"],
+    "KNsceau": ["KN", "misc"],
+    "LMP-Spell33": ["LMP", ""]
+  },
+  "slugs": {},
+  "descs": {
+    "wiki/linear-a/inscriptions/LMP": "The Keftiu incantation of the London Medical Papyrus (BM 10059), written in Egyptian group-writing, not Linear A."
+  }
+}

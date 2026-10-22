@@ -1,0 +1,3624 @@
+{
+  "schema_version": 2,
+  "description": "Sign-value table for Linear A. Syllabograms (in 'signs') map to phonetic readings with confidence scores. Logograms (in 'logograms') are commodity ideograms used standalone with quantities, and fractions (in 'fractions') are the A700-series klasmatograms. resolution_summary lists the resolved and proposed values.",
+  "neutralization_classes": {
+    "K": {
+      "phonemes": [
+        "k",
+        "g",
+        "q"
+      ],
+      "note": "Linear A K-signs neutralize velar voicing and emphasis. KA can represent /ka/, /ga/, or /qa/."
+    },
+    "P": {
+      "phonemes": [
+        "p",
+        "b"
+      ],
+      "note": "Labial voicing neutralized. PA can represent /pa/ or /ba/."
+    },
+    "T": {
+      "phonemes": [
+        "t",
+        "d"
+      ],
+      "note": "Dental voicing neutralized. TA can represent /ta/ or /da/. Also covers interdentals ṯ/ḏ."
+    },
+    "S": {
+      "phonemes": [
+        "s",
+        "z",
+        "sh",
+        "ts"
+      ],
+      "note": "Sibilant series. SA may represent /sa/, /sha/, or /tsa/. SA-SA digraph = single /sh/."
+    },
+    "R": {
+      "phonemes": [
+        "r",
+        "l"
+      ],
+      "note": "Liquid interchange. RA = /ra/ or /la/. RA2 (AB76) specifically marks /la/. JU marks /lu/ (or /la/ in alternate contexts); √d-l-t and √š-l-ṭ show it (DE-JU-KU is a personal name, not √d-l-q)."
+    }
+  },
+  "linear_b_notes": {
+    "authority": "Ventris 1952 grid, confirmed by Linear B decipherment",
+    "ab_to_b_rule": "Standard syllabic signs share AB numbers: AB XX in Linear A = B XX in Linear B, same phonetic value",
+    "novel_signs": "Signs with linear_b: null are Linear A innovations with no Linear B counterpart—they fill phonemic gaps needed by the substrate language(s)",
+    "ab16_note": "AB16 is assigned to both QA and ZA in this file—in Linear B, B 16 = qa₂"
+  },
+  "resolution_summary": {
+    "_note": "The resolved sign count. phonemic, logograms and fractions list resolved values only: support independent of a Semitic match (a Linear B value, balancing arithmetic, or a spelling variant of the same word). proposed lists the other values of CANDIDATE or above, with their evidence where it is given; the tier is in the sign's own record. Speculative values sit in their records only.",
+    "phonemic": [
+      "AU=au (Linear B *85; SUS as logogram)",
+      "TA2=ta₂ (Linear B *66)"
+    ],
+    "logograms": [
+      "*308=pressed oil derivative",
+      "A559=MA+RU wool (Linear B *145 LANA; Salgarella 2022; Nosch & Weilhartner 2026)",
+      "*118=talent (standalone before a numeral; Linear B *118 L; Bartoněk 2003, 126; Killen 2024, 141; HT24b ratio 10 to the talent, Del Freo 2020, 56)"
+    ],
+    "phonemic_count": 2,
+    "logogram_count": 3,
+    "total": 5,
+    "fractions": [
+      "J=1/2",
+      "E=1/4",
+      "F=1/8"
+    ],
+    "fraction_count": 3,
+    "note_fractions": "Fraction signs counted separately from phonemic/logogram totals; metrological class, never syllabic.",
+    "proposed": {
+      "phonemic": [
+        {
+          "entry": "*306=ʿA",
+          "evidence": "ʿ leads by one word (7/7 against 6/7 for p, r, l, n, m, w); the anchor *306-QE-DU (KH21) is read *306 · 100[ in GORILA"
+        },
+        {
+          "entry": "*21F=HA",
+          "evidence": "h 4/10 word types, ∅ 6/10, m 7/10; *21F-TU-NE yields no root under h"
+        },
+        {
+          "entry": "*314=ḤA",
+          "evidence": "DU-*314-RE (KOZa1) stands in formula slot 2, where HTZb160 writes DU-PU₂-RE. bu and ḥa about even (bu KA-*314-SI, ḥa RA-*314-RA, tie *314-TA-MA); DU and RE dotted on KOZa1, so ḥa stays"
+        },
+        {
+          "entry": "*118=ṬA",
+          "evidence": "t and r 8/12, ṭ 4/12; QA-*118-SA and *118-MI need plain d; QA-QA-DA on PE2. Without the DA and TA doublets: ṭ reads QA-*118-RA-RE, I-QA-*118, QA-*118 and *21F-*118; d only QA-*118-SA"
+        },
+        {
+          "entry": "*86=NA",
+          "evidence": "four syllabic word types; n ties with 9 consonants"
+        },
+        {
+          "entry": "PA₃=BA",
+          "evidence": "b 14/20, p 12/20, and p yields a root for every cited word; a labial, voicing unproven"
+        },
+        {
+          "entry": "JU=/lu/",
+          "evidence": "l and d 17/20, r 15/20; the /ra/ elimination assumes no repeated sign, against SA-RA-RA (HT30). l reads all 4 context words; yu possible in JU-KU-NA (KNZc6) and the endings"
+        },
+        {
+          "entry": "ZU=/ṯu/, /zu/",
+          "evidence": "ṯ 15/21, n and m 16/21; A-ZU-RA yields a root under every rival. ṯ reads 6 of 8 context words, z reads RU-ZU-NA (PS *z), so ZU writes both"
+        },
+        {
+          "entry": "*310=IN",
+          "evidence": "n 5/6 with 13 consonants tied; /ni/ and /in/ give one skeleton"
+        },
+        {
+          "entry": "*34=QI",
+          "evidence": "Linear B *34 = ai₂ points to a vowel; ∅ 4/5, q 3/5; QI is already written by AB21. Without the H, ʿ, K and MI-NA doublets: qi reads *34-TI-RI, U-*34-SI and SI-DU-*34-KU-MI; ai possible in PI-*34-TE"
+        },
+        {
+          "entry": "*28B=JI",
+          "evidence": "one word, *28B-NU-MA-RE, on three Zakros lists"
+        },
+        {
+          "entry": "*301=NA",
+          "evidence": "*301 fills the NA slot of A-TA-I-*301-WA-JA at five peak sanctuaries and of every site variant (TA-NA-I-*301-U-TI-NU, JA-TA-I-*301-U-JA, A-TA-I-*301-DE-KA), and writes the n of √n-w-y in A-NA-TI-*301-WA-JA (IOZa8); 236 of 286 tokens stand alone, as the NWY logogram"
+        },
+        {
+          "entry": "*305=ḎA",
+          "evidence": "ḏ 1/7, d 5/7; ḏ is taken from the logogram reading ḎABBĀḤŪ. Without the DA, TA and *118 doublets: ḏ reads *305-RU, ṯ KA-*305; ṯa possible"
+        }
+      ],
+      "logograms": [
+        {
+          "entry": "*49=PALM/TREE (semantic reading; TAMIR and syllabic /mi/ remain CANDIDATE; U-*49 may be u- 'and' + palm produce, while HT120/PE2 require possible syllabic use)",
+          "evidence": "all four tokens stand inside words (HT120, HT126a, PE2, ZA10b); none stands alone"
+        },
+        {
+          "entry": "*188=BUṬNU",
+          "evidence": "the commodity class holds (26 of 32); the one onset witness, PA₃-*188 (HT8b), is prefixed"
+        },
+        {
+          "entry": "*307=DUBUR",
+          "evidence": "*307-PU₂-RE (PKZa8) ~ DU-PU₂-RE (PKZa15) supports a DU- onset, not the sense 'sanctuary'"
+        },
+        {
+          "entry": "*516=SIPRU",
+          "evidence": "0 of 9 standalone tokens precede a numeral; one prefixed SI-*516 (HT34)"
+        },
+        {
+          "entry": "*312=KITNU (flax/linen, CANDIDATE; writes KI in *312-TE-TE)",
+          "evidence": "TELA+*312 (HT38) fits; *312 1 sits in a name list (HT49a)"
+        },
+        {
+          "entry": "*406VAS=KĀS",
+          "evidence": "the rider KE needs an unattested *kēs; the attested forms are kâsu, ks, kōs"
+        },
+        {
+          "entry": "*401=RUQQÛ",
+          "evidence": "three riders (RU, RO, RA); +RA (KH91, MI2) unexplained"
+        },
+        {
+          "entry": "*412=ʔIGĀN",
+          "evidence": "*412+E beside *659 = *412VAS+F (MA10a/c): the slot takes a fraction sign"
+        },
+        {
+          "entry": "TI=TIʔIN",
+          "evidence": "TI 7 is summed with persons in the KU-RO of HT119; TI-NI is rejected"
+        },
+        {
+          "entry": "QE=QÊ",
+          "evidence": "3 of 4 QE + numeral are broken word-ends; QE 21 is summed with persons (HT27a)"
+        },
+        {
+          "entry": "GRA=DAGĀN",
+          "evidence": "the meaning is given; one GRA+DA (HT133) among 36 syllabic riders"
+        },
+        {
+          "entry": "VIN=WAYN",
+          "evidence": "the meaning is given; no *wayn- record (Ugaritic yn), and Hittite wiyan- is an equal rival"
+        },
+        {
+          "entry": "OLE=ŠAMNU",
+          "evidence": "the meaning is given; no SA rider in about 100"
+        },
+        {
+          "entry": "OLIV=ZAYT",
+          "evidence": "the meaning is given; no Linear A rider"
+        },
+        {
+          "entry": "*23M=MŪRU",
+          "evidence": "cattle holds (6 of 6 integers; Linear B BOS); Akkadian mūru is 'foal; calf'"
+        },
+        {
+          "entry": "A646=A341+PI (Salgarella et al. 2025)",
+          "evidence": "one token, HT33 *341+PI 100; A341 occurs only inside it"
+        },
+        {
+          "entry": "*301=NWY"
+        },
+        {
+          "entry": "*305=DABBĀḤŪ"
+        },
+        {
+          "entry": "*317=LIQḤU"
+        },
+        {
+          "entry": "QA2+[?]+PU=precious liquid (aromatic-oil class), unidentified"
+        },
+        {
+          "entry": "QA2+[?]+RE=precious liquid (aromatic-oil class), unidentified"
+        }
+      ],
+      "fractions": [
+        {
+          "entry": "D=1/6",
+          "evidence": "no balancing total tests it; Corazza optimality"
+        },
+        {
+          "entry": "B=1/5",
+          "evidence": "no balancing total tests it; KH 7a fits B = 1/5 in part"
+        },
+        {
+          "entry": "K=1/10",
+          "evidence": "no balancing total tests it; Corazza optimality"
+        },
+        {
+          "entry": "H=1/16",
+          "evidence": "the one test, the *308 total on HT123+124a, does not balance under either value set"
+        },
+        {
+          "entry": "A=1/24",
+          "evidence": "the one test, the *308 total on HT123+124a, does not balance under either value set"
+        },
+        {
+          "entry": "L2=1/20",
+          "evidence": "no balancing total tests it; Corazza optimality"
+        },
+        {
+          "entry": "L3=1/30",
+          "evidence": "no balancing total tests it; Corazza optimality"
+        },
+        {
+          "entry": "L4=1/40",
+          "evidence": "no balancing total tests it; Corazza optimality"
+        },
+        {
+          "entry": "L6=1/60",
+          "evidence": "no balancing total tests it; Corazza optimality"
+        },
+        {
+          "entry": "X=1/12",
+          "evidence": "its one arithmetic context (KI-RO 6, HT123+124a) does not balance for any X < 1"
+        },
+        {
+          "entry": "W=2/5",
+          "evidence": "rests on its identification with BB"
+        }
+      ],
+      "phonemic_count": 13,
+      "logogram_count": 21,
+      "fraction_count": 11
+    }
+  },
+  "signs": {
+    "A": {
+      "ab_number": "AB08",
+      "primary": {
+        "consonant": null,
+        "vowel": "a",
+        "confidence": 0.99
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "pure vowel—identical form in Linear B"
+      ],
+      "linear_b": {
+        "sign_number": "B 08",
+        "value": "a",
+        "unicode": "U+10000",
+        "unicode_glyph": "𐀀",
+        "unicode_name": "LINEAR B SYLLABLE B008 A",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB08"
+    },
+    "E": {
+      "ab_number": "AB38",
+      "primary": {
+        "consonant": null,
+        "vowel": "e",
+        "confidence": 0.99
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "pure vowel—identical form in Linear B"
+      ],
+      "linear_b": {
+        "sign_number": "B 38",
+        "value": "e",
+        "unicode": "U+10001",
+        "unicode_glyph": "𐀁",
+        "unicode_name": "LINEAR B SYLLABLE B038 E",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB38"
+    },
+    "I": {
+      "ab_number": "AB28",
+      "primary": {
+        "consonant": null,
+        "vowel": "i",
+        "confidence": 0.99
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "pure vowel—identical form in Linear B"
+      ],
+      "linear_b": {
+        "sign_number": "B 28",
+        "value": "i",
+        "unicode": "U+10002",
+        "unicode_glyph": "𐀂",
+        "unicode_name": "LINEAR B SYLLABLE B028 I",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB28"
+    },
+    "O": {
+      "ab_number": "AB61",
+      "primary": {
+        "consonant": null,
+        "vowel": "o",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "rare in Linear A—O-vowel problem supports non-Greek language"
+      ],
+      "linear_b": {
+        "sign_number": "B 61",
+        "value": "o",
+        "unicode": "U+10003",
+        "unicode_glyph": "𐀃",
+        "unicode_name": "LINEAR B SYLLABLE B061 O",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB61"
+    },
+    "U": {
+      "ab_number": "AB10",
+      "primary": {
+        "consonant": null,
+        "vowel": "u",
+        "confidence": 0.99
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "pure vowel—identical form in Linear B",
+        "U = 'and' (Gordon 1966 §163)"
+      ],
+      "linear_b": {
+        "sign_number": "B 10",
+        "value": "u",
+        "unicode": "U+10004",
+        "unicode_glyph": "𐀄",
+        "unicode_name": "LINEAR B SYLLABLE B010 U",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB10"
+    },
+    "PA": {
+      "ab_number": "AB03",
+      "primary": {
+        "consonant": "p",
+        "vowel": "a",
+        "confidence": 0.95
+      },
+      "alternates": [
+        {
+          "consonant": "b",
+          "vowel": "a",
+          "confidence": 0.4,
+          "evidence": [
+            "P-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "P",
+      "confirmed_by": [
+        "PA-I-TO = Phaistos (Gordon CONFIRMED)",
+        "PA-DA-SU (Gordon PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 03",
+        "value": "pa",
+        "unicode": "U+1001E",
+        "unicode_glyph": "𐀞",
+        "unicode_name": "LINEAR B SYLLABLE B003 PA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB03"
+    },
+    "PE": {
+      "ab_number": "AB72",
+      "primary": {
+        "consonant": "p",
+        "vowel": "e",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "b",
+          "vowel": "e",
+          "confidence": 0.3,
+          "evidence": [
+            "P-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "P",
+      "confirmed_by": [
+        "Linear B projection"
+      ],
+      "linear_b": {
+        "sign_number": "B 72",
+        "value": "pe",
+        "unicode": "U+1001F",
+        "unicode_glyph": "𐀟",
+        "unicode_name": "LINEAR B SYLLABLE B072 PE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB72"
+    },
+    "PI": {
+      "ab_number": "AB39",
+      "primary": {
+        "consonant": "p",
+        "vowel": "i",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "b",
+          "vowel": "i",
+          "confidence": 0.3,
+          "evidence": [
+            "P-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "P",
+      "confirmed_by": [
+        "I-PI-NA-MA = ipinama (libation-formula term; Gordon's no-x-na-ma)"
+      ],
+      "linear_b": {
+        "sign_number": "B 39",
+        "value": "pi",
+        "unicode": "U+10020",
+        "unicode_glyph": "𐀠",
+        "unicode_name": "LINEAR B SYLLABLE B039 PI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB39"
+    },
+    "PO": {
+      "ab_number": "AB11",
+      "primary": {
+        "consonant": "p",
+        "vowel": "o",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": "P",
+      "confirmed_by": [
+        "Linear B projection—rare in Linear A"
+      ],
+      "linear_b": {
+        "sign_number": "B 11",
+        "value": "po",
+        "unicode": "U+10021",
+        "unicode_glyph": "𐀡",
+        "unicode_name": "LINEAR B SYLLABLE B011 PO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB11"
+    },
+    "PU": {
+      "ab_number": "AB50",
+      "primary": {
+        "consonant": "p",
+        "vowel": "u",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "b",
+          "vowel": "u",
+          "confidence": 0.5,
+          "evidence": [
+            "PU-RA₂ = Bōlu/Baʿal (Gordon: ʿayin shift b-ʿ-l → bōl)"
+          ]
+        }
+      ],
+      "neutralization_class": "P",
+      "confirmed_by": [
+        "PU-RA₂ compared with Bōlu/Baʿal by Gordon (candidate lexical identification)"
+      ],
+      "linear_b": {
+        "sign_number": "B 50",
+        "value": "pu",
+        "unicode": "U+10022",
+        "unicode_glyph": "𐀢",
+        "unicode_name": "LINEAR B SYLLABLE B050 PU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB50"
+    },
+    "TA": {
+      "ab_number": "AB59",
+      "primary": {
+        "consonant": "t",
+        "vowel": "a",
+        "confidence": 0.95
+      },
+      "alternates": [
+        {
+          "consonant": "d",
+          "vowel": "a",
+          "confidence": 0.3,
+          "evidence": [
+            "T-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "TA-NU-A-TI = tanuʾati (Gordon: 'I set up')",
+        "KI-RE-TA-NA = Kretana"
+      ],
+      "linear_b": {
+        "sign_number": "B 59",
+        "value": "ta",
+        "unicode": "U+10032",
+        "unicode_glyph": "𐀲",
+        "unicode_name": "LINEAR B SYLLABLE B059 TA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB59"
+    },
+    "TE": {
+      "ab_number": "AB04",
+      "primary": {
+        "consonant": "t",
+        "vowel": "e",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "d",
+          "vowel": "e",
+          "confidence": 0.3,
+          "evidence": [
+            "T-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "MI-NU-TE = minut (CANDIDATE: Minut)"
+      ],
+      "linear_b": {
+        "sign_number": "B 04",
+        "value": "te",
+        "unicode": "U+10033",
+        "unicode_glyph": "𐀳",
+        "unicode_name": "LINEAR B SYLLABLE B004 TE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB04",
+      "logographic_value": {
+        "reading": "terūmā",
+        "meaning": "offering/contribution",
+        "confidence": "CONFIRMED",
+        "root": "r-w-m"
+      }
+    },
+    "TI": {
+      "ab_number": "AB37",
+      "primary": {
+        "consonant": "t",
+        "vowel": "i",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "d",
+          "vowel": "i",
+          "confidence": 0.3,
+          "evidence": [
+            "T-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "TI-NI-TA = Tinit (Gordon CONFIRMED)",
+        "TA-NU-A-TI (-TI feminine suffix)"
+      ],
+      "linear_b": {
+        "sign_number": "B 37",
+        "value": "ti",
+        "unicode": "U+10034",
+        "unicode_glyph": "𐀴",
+        "unicode_name": "LINEAR B SYLLABLE B037 TI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB37"
+    },
+    "TO": {
+      "ab_number": "AB05",
+      "primary": {
+        "consonant": "t",
+        "vowel": "o",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "PA-I-TO = Phaistos"
+      ],
+      "linear_b": {
+        "sign_number": "B 05",
+        "value": "to",
+        "unicode": "U+10035",
+        "unicode_glyph": "𐀵",
+        "unicode_name": "LINEAR B SYLLABLE B005 TO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB05"
+    },
+    "TU": {
+      "ab_number": "AB69",
+      "primary": {
+        "consonant": "t",
+        "vowel": "u",
+        "confidence": 0.85
+      },
+      "alternates": [
+        {
+          "consonant": "d",
+          "vowel": "u",
+          "confidence": 0.3,
+          "evidence": [
+            "T-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "KU-PA-NA-TU = Kupanatu (Gordon: fem.)"
+      ],
+      "linear_b": {
+        "sign_number": "B 69",
+        "value": "tu",
+        "unicode": "U+10036",
+        "unicode_glyph": "𐀶",
+        "unicode_name": "LINEAR B SYLLABLE B069 TU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB69",
+      "logographic_value": {
+        "reading": "ṯawr",
+        "meaning": "bull",
+        "confidence": "CONFIRMED",
+        "root": "ṯ-w-r"
+      }
+    },
+    "DA": {
+      "ab_number": "AB01",
+      "primary": {
+        "consonant": "d",
+        "vowel": "a",
+        "confidence": 0.95
+      },
+      "alternates": [
+        {
+          "consonant": "t",
+          "vowel": "a",
+          "confidence": 0.2,
+          "evidence": [
+            "T-class neutralization (less likely for DA)"
+          ]
+        }
+      ],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "DA-KU-SE-NE = Dakušenni (Hurrian PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 01",
+        "value": "da",
+        "unicode": "U+10005",
+        "unicode_glyph": "𐀅",
+        "unicode_name": "LINEAR B SYLLABLE B001 DA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB01"
+    },
+    "DE": {
+      "ab_number": "AB45",
+      "primary": {
+        "consonant": "d",
+        "vowel": "e",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "QE-DE-MI-NU (SPECULATIVE: Kadmīnu)",
+        "PA-DE = Padi (Gordon PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 45",
+        "value": "de",
+        "unicode": "U+10006",
+        "unicode_glyph": "𐀆",
+        "unicode_name": "LINEAR B SYLLABLE B045 DE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB45"
+    },
+    "DI": {
+      "ab_number": "AB07",
+      "primary": {
+        "consonant": "d",
+        "vowel": "i",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "Linear B projection",
+        "KN Zg 57 attested"
+      ],
+      "linear_b": {
+        "sign_number": "B 07",
+        "value": "di",
+        "unicode": "U+10007",
+        "unicode_glyph": "𐀇",
+        "unicode_name": "LINEAR B SYLLABLE B007 DI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB07"
+    },
+    "DO": {
+      "ab_number": "AB14",
+      "primary": {
+        "consonant": "d",
+        "vowel": "o",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "KA-U-DO-NI (Gordon PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 14",
+        "value": "do",
+        "unicode": "U+10008",
+        "unicode_glyph": "𐀈",
+        "unicode_name": "LINEAR B SYLLABLE B014 DO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB14"
+    },
+    "DU": {
+      "ab_number": "AB51",
+      "primary": {
+        "consonant": "d",
+        "vowel": "u",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": "T",
+      "confirmed_by": [
+        "DU = 'that of' (Gordon 1966 §163)",
+        "A-DU = Addu (Gordon: storm god)"
+      ],
+      "linear_b": {
+        "sign_number": "B 51",
+        "value": "du",
+        "unicode": "U+10009",
+        "unicode_glyph": "𐀉",
+        "unicode_name": "LINEAR B SYLLABLE B051 DU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB51",
+      "logographic_value": {
+        "reading": "du",
+        "meaning": "that, of (relative pronoun)",
+        "confidence": "CONFIRMED",
+        "root": "d"
+      }
+    },
+    "KA": {
+      "ab_number": "AB77",
+      "primary": {
+        "consonant": "k",
+        "vowel": "a",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "g",
+          "vowel": "a",
+          "confidence": 0.4,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        },
+        {
+          "consonant": "q",
+          "vowel": "a",
+          "confidence": 0.3,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "A-KA-NU = agānu (Gordon: 'bowl')",
+        "KA-RO-PA = karpu (Gordon: 'vase')",
+        "KA-DU-MA-NE (Gordon PN)"
+      ],
+      "note": "No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara et al. 2022)",
+      "linear_b": {
+        "sign_number": "B 77",
+        "value": "ka",
+        "unicode": "U+1000F",
+        "unicode_glyph": "𐀏",
+        "unicode_name": "LINEAR B SYLLABLE B077 KA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB77",
+      "logographic_value": {
+        "reading": "kapp",
+        "meaning": "palm (measure)",
+        "confidence": "CONFIRMED",
+        "root": "k-p-p"
+      }
+    },
+    "KE": {
+      "ab_number": "AB44",
+      "primary": {
+        "consonant": "k",
+        "vowel": "e",
+        "confidence": 0.85
+      },
+      "alternates": [
+        {
+          "consonant": "g",
+          "vowel": "e",
+          "confidence": 0.3,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "Linear B projection"
+      ],
+      "linear_b": {
+        "sign_number": "B 44",
+        "value": "ke",
+        "unicode": "U+10010",
+        "unicode_glyph": "𐀐",
+        "unicode_name": "LINEAR B SYLLABLE B044 KE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB44"
+    },
+    "KI": {
+      "ab_number": "AB67",
+      "primary": {
+        "consonant": "k",
+        "vowel": "i",
+        "confidence": 0.8
+      },
+      "alternates": [
+        {
+          "consonant": "k",
+          "vowel": "u",
+          "confidence": 0.3,
+          "evidence": [
+            "Gordon reads AB67 as KU in KI-RO = kuro 'total'; his only evidence is that reading of KI-RO, which is 'owed/outstanding'."
+          ]
+        },
+        {
+          "consonant": "g",
+          "vowel": "i",
+          "confidence": 0.2,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        },
+        {
+          "consonant": "q",
+          "vowel": "i",
+          "confidence": 0.2,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "KI-RE-TA-NA = Kretana (6x HT)",
+        "KI-RO = kiro 'owed/outstanding' (not Gordon's kuro 'total')"
+      ],
+      "note": "No CH ancestor—Linear A innovation (Ferrara et al. 2022). Gordon disputed: reads as KU.",
+      "linear_b": {
+        "sign_number": "B 67",
+        "value": "ki",
+        "unicode": "U+10011",
+        "unicode_glyph": "𐀑",
+        "unicode_name": "LINEAR B SYLLABLE B067 KI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB67"
+    },
+    "KO": {
+      "ab_number": "AB70",
+      "primary": {
+        "consonant": "k",
+        "vowel": "o",
+        "confidence": 0.8
+      },
+      "alternates": [],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "Linear B projection—rare in Linear A"
+      ],
+      "linear_b": {
+        "sign_number": "B 70",
+        "value": "ko",
+        "unicode": "U+10012",
+        "unicode_glyph": "𐀒",
+        "unicode_name": "LINEAR B SYLLABLE B070 KO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB70"
+    },
+    "KU": {
+      "ab_number": "AB81",
+      "primary": {
+        "consonant": "k",
+        "vowel": "u",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "g",
+          "vowel": "u",
+          "confidence": 0.5,
+          "evidence": [
+            "KU-PA-NU = Gupanu (Gordon: g-p-n 'vine')"
+          ]
+        },
+        {
+          "consonant": "q",
+          "vowel": "u",
+          "confidence": 0.3,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "KU-NI-SU = kunāshu (Gordon CONFIRMED: emmer wheat)",
+        "KU-PA-NU = Kupānu/Gupanu (Gordon CONFIRMED)",
+        "KU-DO-NI (Gordon PN)"
+      ],
+      "note": "No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrara et al. 2022)",
+      "linear_b": {
+        "sign_number": "B 81",
+        "value": "ku",
+        "unicode": "U+10013",
+        "unicode_glyph": "𐀓",
+        "unicode_name": "LINEAR B SYLLABLE B081 KU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB81",
+      "logographic_value": {
+        "reading": "kull",
+        "meaning": "all, total",
+        "confidence": "CONFIRMED",
+        "root": "k-l-l"
+      }
+    },
+    "SA": {
+      "ab_number": "AB31",
+      "primary": {
+        "consonant": "s",
+        "vowel": "a",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "sh",
+          "vowel": "a",
+          "confidence": 0.5,
+          "evidence": [
+            "SA-SA digraph = single /sh/ in JA-SA-SA-RA-ME (Gordon)"
+          ]
+        },
+        {
+          "consonant": "z",
+          "vowel": "a",
+          "confidence": 0.2,
+          "evidence": [
+            "S-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "JA-SA-SA-RA-ME = yasharamu (Gordon CONFIRMED: libation formula)",
+        "KU-NI-SU (-SU as /su/)"
+      ],
+      "linear_b": {
+        "sign_number": "B 31",
+        "value": "sa",
+        "unicode": "U+1002D",
+        "unicode_glyph": "𐀭",
+        "unicode_name": "LINEAR B SYLLABLE B031 SA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB31"
+    },
+    "SE": {
+      "ab_number": "AB09",
+      "primary": {
+        "consonant": "s",
+        "vowel": "e",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "DA-KU-SE-NE = Dakušenni (Gordon: Hurrian PN)",
+        "SU-KI-RI-TE-SE-JA (Gordon: Tešub hyp.)"
+      ],
+      "linear_b": {
+        "sign_number": "B 09",
+        "value": "se",
+        "unicode": "U+1002E",
+        "unicode_glyph": "𐀮",
+        "unicode_name": "LINEAR B SYLLABLE B009 SE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB09"
+    },
+    "SI": {
+      "ab_number": "AB41",
+      "primary": {
+        "consonant": "s",
+        "vowel": "i",
+        "confidence": 0.8
+      },
+      "alternates": [],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "U-NA-KA-NA-SI (CANDIDATE: √k-n-s gathering)"
+      ],
+      "note": "No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara et al. 2022)",
+      "linear_b": {
+        "sign_number": "B 41",
+        "value": "si",
+        "unicode": "U+1002F",
+        "unicode_glyph": "𐀯",
+        "unicode_name": "LINEAR B SYLLABLE B041 SI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB41",
+      "logographic_value": {
+        "reading": "šay",
+        "meaning": "tribute, gift",
+        "confidence": "CANDIDATE",
+        "root": "š-y"
+      }
+    },
+    "SO": {
+      "ab_number": "AB12",
+      "primary": {
+        "consonant": "s",
+        "vowel": "o",
+        "confidence": 0.75
+      },
+      "alternates": [],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "Linear B projection—rare in Linear A",
+        "A363/A364 = SO proposed: CH 043 > LA 363 (= 364) > B12 so (Ferrara, Montecchi & Valério 2022: 84, 87–88, 98; Valério apud Younger). Unresolved against ṮA and ʾA. The corpus encodes the two tokens as *363: ZA14 PU-NI-KA-*363, ZA15a *363-KE-MA-SE."
+      ],
+      "linear_b": {
+        "sign_number": "B 12",
+        "value": "so",
+        "unicode": "U+10030",
+        "unicode_glyph": "𐀰",
+        "unicode_name": "LINEAR B SYLLABLE B012 SO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB12"
+    },
+    "SU": {
+      "ab_number": "AB58",
+      "primary": {
+        "consonant": "s",
+        "vowel": "u",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "SU-PA-RA = supāra (Gordon: 'pot')",
+        "SU-PU = sapu (Gordon: 'jar')",
+        "KU-NI-SU"
+      ],
+      "linear_b": {
+        "sign_number": "B 58",
+        "value": "su",
+        "unicode": "U+10031",
+        "unicode_glyph": "𐀱",
+        "unicode_name": "LINEAR B SYLLABLE B058 SU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB58",
+      "logographic_value": {
+        "reading": "šaḫū",
+        "meaning": "pig (livestock commodity)",
+        "confidence": "CANDIDATE",
+        "root": "š-ḫ-w"
+      }
+    },
+    "ZA": {
+      "ab_number": "AB16",
+      "primary": {
+        "consonant": "z",
+        "vowel": "a",
+        "confidence": 0.75
+      },
+      "alternates": [
+        {
+          "consonant": "q",
+          "vowel": "a",
+          "confidence": 0.3,
+          "evidence": [
+            "QA/ZA shared sign number in some analyses"
+          ]
+        }
+      ],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "Linear B projection"
+      ],
+      "linear_b": {
+        "sign_number": "B 17",
+        "value": "za",
+        "unicode": "U+10023",
+        "unicode_glyph": "𐀣",
+        "unicode_name": "LINEAR B SYLLABLE B016 QA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB17"
+    },
+    "ZE": {
+      "ab_number": "AB74",
+      "primary": {
+        "consonant": "z",
+        "vowel": "e",
+        "confidence": 0.75
+      },
+      "alternates": [],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "Linear B projection"
+      ],
+      "linear_b": {
+        "sign_number": "B 74",
+        "value": "ze",
+        "unicode": "U+1003D",
+        "unicode_glyph": "𐀽",
+        "unicode_name": "LINEAR B SYLLABLE B074 ZE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB74"
+    },
+    "RA": {
+      "ab_number": "AB60",
+      "primary": {
+        "consonant": "r",
+        "vowel": "a",
+        "confidence": 0.95
+      },
+      "alternates": [
+        {
+          "consonant": "l",
+          "vowel": "a",
+          "confidence": 0.3,
+          "evidence": [
+            "R-class liquid interchange; but RA2=AB76 exists for /la/"
+          ]
+        }
+      ],
+      "neutralization_class": "R",
+      "confirmed_by": [
+        "JA-SA-SA-RA-ME",
+        "SU-PA-RA",
+        "A-RA-NA-RE (Gordon: Egyptian PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 60",
+        "value": "ra",
+        "unicode": "U+10028",
+        "unicode_glyph": "𐀨",
+        "unicode_name": "LINEAR B SYLLABLE B060 RA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB60"
+    },
+    "RE": {
+      "ab_number": "AB27",
+      "primary": {
+        "consonant": "r",
+        "vowel": "e",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "l",
+          "vowel": "e",
+          "confidence": 0.6,
+          "evidence": [
+            "RE = le- 'to, for' (Gordon 1966 §163)—/l/ reading is primary for this particle"
+          ]
+        }
+      ],
+      "neutralization_class": "R",
+      "confirmed_by": [
+        "RE = le- 'to, for, as' (Gordon 1966 §163)",
+        "KI-RE-TA-NA = Kretana",
+        "A-RE, DA-RE, NA-DA-RE (Gordon: Egyptian PNs with -Re)"
+      ],
+      "linear_b": {
+        "sign_number": "B 27",
+        "value": "re",
+        "unicode": "U+10029",
+        "unicode_glyph": "𐀩",
+        "unicode_name": "LINEAR B SYLLABLE B027 RE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB27",
+      "logogram_survey": {
+        "reason": "All 16 standalone occurrences read grammatically as preposition le- 'to, for' introducing allocation quantities. 62% numeral-following rate is a syntactic artifact, not a commodity signal. No dual logogram function.",
+        "key_evidence": [
+          "HT27b: 3× RE + numeral in wine allocation list",
+          "HT32: OLE+NE RE 104 = 'libation oil for 104'"
+        ]
+      }
+    },
+    "RI": {
+      "ab_number": "AB53",
+      "primary": {
+        "consonant": "r",
+        "vowel": "i",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": "R",
+      "confirmed_by": [
+        "KI-RI-TA₂ (Gordon: variant of Kret; HT 114a, 121)",
+        "NE-TU-RI-RE (Gordon: Egyptian PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 53",
+        "value": "ri",
+        "unicode": "U+1002A",
+        "unicode_glyph": "𐀪",
+        "unicode_name": "LINEAR B SYLLABLE B053 RI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB53"
+    },
+    "RO": {
+      "ab_number": "AB02",
+      "primary": {
+        "consonant": "r",
+        "vowel": "o",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": "R",
+      "confirmed_by": [
+        "KI-RO = kiru/kulo (Gordon: total)",
+        "KA-RO-PA = karpu (Gordon: vase)"
+      ],
+      "linear_b": {
+        "sign_number": "B 02",
+        "value": "ro",
+        "unicode": "U+1002B",
+        "unicode_glyph": "𐀫",
+        "unicode_name": "LINEAR B SYLLABLE B002 RO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB02"
+    },
+    "RU": {
+      "ab_number": "AB26",
+      "primary": {
+        "consonant": "r",
+        "vowel": "u",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": "R",
+      "confirmed_by": [
+        "A-KA-RU = Ugāru (Gordon: Baal's messenger)"
+      ],
+      "linear_b": {
+        "sign_number": "B 26",
+        "value": "ru",
+        "unicode": "U+1002C",
+        "unicode_glyph": "𐀬",
+        "unicode_name": "LINEAR B SYLLABLE B026 RU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB26"
+    },
+    "MA": {
+      "ab_number": "AB80",
+      "primary": {
+        "consonant": "m",
+        "vowel": "a",
+        "confidence": 0.95
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "KNZa10 JA-SA-SA-RA-MA-NA: MA securely read within the uninterrupted graphic group",
+        "MA-KA-WE-TE (Gordon PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 80",
+        "value": "ma",
+        "unicode": "U+10014",
+        "unicode_glyph": "𐀔",
+        "unicode_name": "LINEAR B SYLLABLE B080 MA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB80"
+    },
+    "ME": {
+      "ab_number": "AB13",
+      "primary": {
+        "consonant": "m",
+        "vowel": "e",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "JA-SA-SA-RA-ME (Gordon: libation formula terminal)"
+      ],
+      "linear_b": {
+        "sign_number": "B 13",
+        "value": "me",
+        "unicode": "U+10015",
+        "unicode_glyph": "𐀕",
+        "unicode_name": "LINEAR B SYLLABLE B013 ME",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB13"
+    },
+    "MI": {
+      "ab_number": "AB73",
+      "primary": {
+        "consonant": "m",
+        "vowel": "i",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "MI-NU-TE = minut (CANDIDATE: Minut)",
+        "JA-MI-DA-RE (Gordon: Egyptian PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 73",
+        "value": "mi",
+        "unicode": "U+10016",
+        "unicode_glyph": "𐀖",
+        "unicode_name": "LINEAR B SYLLABLE B073 MI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB73"
+    },
+    "MO": {
+      "ab_number": "AB15",
+      "primary": {
+        "consonant": "m",
+        "vowel": "o",
+        "confidence": 0.8
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "Linear B projection—less common in Linear A"
+      ],
+      "linear_b": {
+        "sign_number": "B 15",
+        "value": "mo",
+        "unicode": "U+10017",
+        "unicode_glyph": "𐀗",
+        "unicode_name": "LINEAR B SYLLABLE B015 MO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB15"
+    },
+    "MU": {
+      "ab_number": "AB23",
+      "primary": {
+        "consonant": "m",
+        "vowel": "u",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "KNZa10 ]TA-NU-MU-TI: GORILA IV identifies AB23 MU; lexical analysis remains CANDIDATE"
+      ],
+      "linear_b": {
+        "sign_number": "B 23",
+        "value": "mu",
+        "unicode": "U+10018",
+        "unicode_glyph": "𐀘",
+        "unicode_name": "LINEAR B SYLLABLE B023 MU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB23"
+    },
+    "NA": {
+      "ab_number": "AB06",
+      "primary": {
+        "consonant": "n",
+        "vowel": "a",
+        "confidence": 0.95
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "KU-PA-NA-TU (Gordon: fem. Kupānu)",
+        "A-KA-NU, KI-RE-TA-NA"
+      ],
+      "linear_b": {
+        "sign_number": "B 06",
+        "value": "na",
+        "unicode": "U+10019",
+        "unicode_glyph": "𐀙",
+        "unicode_name": "LINEAR B SYLLABLE B006 NA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB06",
+      "logographic_value": {
+        "reading": "nā",
+        "meaning": "please, pray (precative particle)",
+        "confidence": "CANDIDATE",
+        "root": "n-ʾ"
+      }
+    },
+    "NE": {
+      "ab_number": "AB24",
+      "primary": {
+        "consonant": "n",
+        "vowel": "e",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "DA-KU-SE-NE (Gordon: Hurrian PN)"
+      ],
+      "linear_b": {
+        "sign_number": "B 24",
+        "value": "ne",
+        "unicode": "U+1001A",
+        "unicode_glyph": "𐀚",
+        "unicode_name": "LINEAR B SYLLABLE B024 NE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB24",
+      "logographic_value": {
+        "reading": "nēder",
+        "meaning": "vow",
+        "confidence": "CONFIRMED",
+        "root": "n-d-r"
+      }
+    },
+    "NI": {
+      "ab_number": "AB30",
+      "primary": {
+        "consonant": "n",
+        "vowel": "i",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "TI-NI-TA = Tinit (Gordon CONFIRMED)",
+        "KU-NI-SU = kunāshu (Gordon CONFIRMED)",
+        "KA-U-DO-NI, KU-DO-NI (Gordon PNs)"
+      ],
+      "linear_b": {
+        "sign_number": "B 30",
+        "value": "ni",
+        "unicode": "U+1001B",
+        "unicode_glyph": "𐀛",
+        "unicode_name": "LINEAR B SYLLABLE B030 NI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB30",
+      "logographic_value": {
+        "reading": "*nikuleon",
+        "meaning": "figs (FIC commodity ideogram)",
+        "confidence": "CONFIRMED",
+        "root": "substrate—Hesychius νικύλεον 'fig' (Cretan); acrophonic /ni/",
+        "note": "Commodity identity CONFIRMED on four lines—LB ideogram continuity (su-za = σῦκον descriptor, KN F 841; Fs ration series HORD+NI+OLE+VIN), acrophony (*nikuleon exact; honey candidates predict NU/NO), small-fraction food-measure metrology (20 NI+fraction co-occurrences), botanical pictograph (AB30 fig leaf/plant). Not nūb(at) 'honey' (a bee→honey metonymy): no Northwest Semitic inscription supports the metonymy."
+      }
+    },
+    "NO": {
+      "ab_number": "AB52",
+      "primary": {
+        "consonant": "n",
+        "vowel": "o",
+        "confidence": 0.0
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [],
+      "linear_b": {
+        "sign_number": "B 52",
+        "value": "no",
+        "unicode": "U+1001C",
+        "unicode_glyph": "𐀜",
+        "unicode_name": "LINEAR B SYLLABLE B052 NO",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB52",
+      "attested_in_linear_a": false,
+      "note": "NOT A LINEAR A SIGN. AB52 NO occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB052; the value no is Linear B's. Its two former confirmations were Gordon's misreadings of I: JA-TA-NO (= JA-TA-I-*301-U-JA, AP Za 1) and NO-X-NA-MA (= I-PI-NA-MA, AP Za 2). Do not propose NO in Linear A spellings."
+    },
+    "NU": {
+      "ab_number": "AB55",
+      "primary": {
+        "consonant": "n",
+        "vowel": "u",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "KU-PA-NU = Kupānu (Gordon CONFIRMED)",
+        "MI-NU-TE = minut (CANDIDATE)",
+        "TA-NU-A-TI (Gordon: 'I set up')"
+      ],
+      "linear_b": {
+        "sign_number": "B 55",
+        "value": "nu",
+        "unicode": "U+1001D",
+        "unicode_glyph": "𐀝",
+        "unicode_name": "LINEAR B SYLLABLE B055 NU",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB55"
+    },
+    "QA": {
+      "ab_number": "AB16",
+      "primary": {
+        "consonant": "q",
+        "vowel": "a",
+        "confidence": 0.7
+      },
+      "alternates": [
+        {
+          "consonant": "z",
+          "vowel": "a",
+          "confidence": 0.3,
+          "evidence": [
+            "shared with ZA in some analyses"
+          ]
+        }
+      ],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "QA-PA = kapu (Gordon: 'vessel')"
+      ],
+      "linear_b": {
+        "sign_number": "B 16",
+        "value": "qa",
+        "unicode": "U+10023",
+        "unicode_glyph": "𐀣",
+        "unicode_name": "LINEAR B SYLLABLE B016 QA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB16"
+    },
+    "QE": {
+      "ab_number": "AB78",
+      "primary": {
+        "consonant": "q",
+        "vowel": "e",
+        "confidence": 0.7
+      },
+      "alternates": [
+        {
+          "consonant": "k",
+          "vowel": "e",
+          "confidence": 0.3,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "QE-DE-MI-NU (SPECULATIVE: Kadmīnu √q-d-m)"
+      ],
+      "linear_b": {
+        "sign_number": "B 78",
+        "value": "qe",
+        "unicode": "U+10024",
+        "unicode_glyph": "𐀤",
+        "unicode_name": "LINEAR B SYLLABLE B078 QE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB78"
+    },
+    "JA": {
+      "ab_number": "AB57",
+      "primary": {
+        "consonant": "y",
+        "vowel": "a",
+        "confidence": 0.95
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "JA-SA-SA-RA-ME = yasharamu (Gordon CONFIRMED)"
+      ],
+      "linear_b": {
+        "sign_number": "B 57",
+        "value": "ja",
+        "unicode": "U+1000A",
+        "unicode_glyph": "𐀊",
+        "unicode_name": "LINEAR B SYLLABLE B057 JA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB57"
+    },
+    "JE": {
+      "ab_number": "AB46",
+      "primary": {
+        "consonant": "y",
+        "vowel": "e",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "Linear B projection"
+      ],
+      "linear_b": {
+        "sign_number": "B 46",
+        "value": "je",
+        "unicode": "U+1000B",
+        "unicode_glyph": "𐀋",
+        "unicode_name": "LINEAR B SYLLABLE B046 JE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB46"
+    },
+    "WA": {
+      "ab_number": "AB54",
+      "primary": {
+        "consonant": "w",
+        "vowel": "a",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "A-TA-I-*301-WA-JA (libation formula verb)"
+      ],
+      "linear_b": {
+        "sign_number": "B 54",
+        "value": "wa",
+        "unicode": "U+10037",
+        "unicode_glyph": "𐀷",
+        "unicode_name": "LINEAR B SYLLABLE B054 WA",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB54"
+    },
+    "WE": {
+      "ab_number": "AB75",
+      "primary": {
+        "consonant": "w",
+        "vowel": "e",
+        "confidence": 0.0
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [],
+      "linear_b": {
+        "sign_number": "B 75",
+        "value": "we",
+        "unicode": "U+10038",
+        "unicode_glyph": "𐀸",
+        "unicode_name": "LINEAR B SYLLABLE B075 WE",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB75",
+      "note": "NOT A LINEAR A SIGN. AB75 WE occurs nowhere in the Linear A corpus or SigLA, and Unicode's Linear A block has no AB075; the value we is Linear B's. Gordon's two WE words are GORILA RI: DA-WE-DA = DA-RI-DA (HT 10a, 85a), MA-KA-WE-TE = MA-KA-RI-TE (HT 87). Do not propose WE in Linear A spellings.",
+      "attested_in_linear_a": false
+    },
+    "WI": {
+      "ab_number": "AB40",
+      "primary": {
+        "consonant": "w",
+        "vowel": "i",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "Linear B projection",
+        "KN Zg 57 attested"
+      ],
+      "linear_b": {
+        "sign_number": "B 40",
+        "value": "wi",
+        "unicode": "U+10039",
+        "unicode_glyph": "𐀹",
+        "unicode_name": "LINEAR B SYLLABLE B040 WI",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB40"
+    },
+    "RA2": {
+      "ab_number": "AB76",
+      "primary": {
+        "consonant": "l",
+        "vowel": "a",
+        "confidence": 0.85
+      },
+      "alternates": [],
+      "neutralization_class": "R",
+      "confirmed_by": [
+        "PU-RA₂ compared with Bōlu/Baʿal by Gordon (candidate lexical identification)",
+        "RA2 specifically marks /la/ distinct from RA = /ra/"
+      ],
+      "note": "The only sign that reliably distinguishes /l/ from /r/ in Linear A.",
+      "linear_b": {
+        "sign_number": "B 76",
+        "value": "ra₂",
+        "unicode": "U+10048",
+        "unicode_glyph": "𐁈",
+        "unicode_name": "LINEAR B SYLLABLE B076 RA2",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB76"
+    },
+    "*314": {
+      "ab_number": "A314",
+      "primary": {
+        "consonant": "ḥ",
+        "vowel": "a",
+        "confidence": 0.65
+      },
+      "alternates": [
+        {
+          "consonant": "ḫ",
+          "vowel": "a",
+          "confidence": 0.5,
+          "evidence": [
+            "RA-ḤA-RA = Egyptian Rꜥ-Ḥr; ARKH3b […]-PI-*314(?) is broken at its start and does not independently attest Luwian piḫa-"
+          ]
+        },
+        {
+          "consonant": "p",
+          "vowel": "u",
+          "confidence": 0.6,
+          "evidence": [
+            "Variant of PU₂ (BU): DU-*314-RE (KOZa1) = DU-PU₂-RE dubur 'sanctuary' (PKZa15, HTZb160), giving dubur ʾIda 'the sanctuary of Ida'",
+            "Facchetti (1999, 132), Owens (1999), Valério, Davis (2013, 44 n. 46), Thomas (2020, 8); Younger transcribes *314 as PU₃; Soldani 2013 (46 n. 3): A314 'sostituisce forse A29' in du-bu-re"
+          ]
+        }
+      ],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "DU-*314-RE (KOZa1) is read as a PU₂ variant, dubur (see alternates); du ḥōr(e) withdrawn",
+        "*314-TA-MA = ḥatam 'seal' on roundel PHWc38 (√ḥ-t-m pan-Semitic)",
+        "RA-*314-RA = Egyptian Rꜥ-Ḥr 'Ra-Horus' (HTWc3006 theophoric name)"
+      ],
+      "note": "Candidate pharyngeal/velar fricative sign, with a competing PU₃/PU₂ value. *314-TA-MA and RA-*314-RA motivate /ḥa/ or /ḫa/ provisionally; DU-*314-RE instead supports PU. ARKH3b […]-PI-*314(?) is broken before PI, PI overlies an erasure, and the sign is conventionally PU₃, so it supplies no independent support for Luwian piḫa-. || bu, a PU₂ variant, is another possible value: DU-*314-RE takes the slot of DU-PU₂-RE, but GORILA IV 20 dots DU and RE; KA-*314-SI kabsi 'young ram' (CAD K 23) and *314-TA-MA bṭm 'pistachio' (DULAT 249; TA dotted) read under it.",
+      "linear_b": null,
+      "sign_number": "A314"
+    },
+    "*118": {
+      "ab_number": "AB118",
+      "primary": {
+        "consonant": "ṭ",
+        "vowel": "a",
+        "confidence": 0.7
+      },
+      "alternates": [
+        {
+          "consonant": "ḍ",
+          "vowel": "a",
+          "confidence": 0.7,
+          "evidence": [
+            "Emphatic/interdental dental—could be ṭ, ḍ, or ḏ. The sign neutralizes emphatic dental variants not covered by standard DA/TA."
+          ]
+        }
+      ],
+      "neutralization_class": "emphatic_dental",
+      "confirmed_by": [
+        "]QA-*118-SA (HT70, broken before) = qaṭʿ-ša 'its portion'; qadaša 'holy' needs d",
+        "QA-*118-RA-RE = qaṭara (√q-ṭ-r \"incense\") at HT96b",
+        "*118-MI = dami (\"blood\", Hebrew dam) at ZA21a, a counted entry on a tablet",
+        "A-SU-MI-*118 = Ašu-mitta (Hurrian -mitta \"gave\") at ARKH1a"
+      ],
+      "note": "Emphatic dental sign, filling the gap between DA and TA in the standard syllabary. The Aegean script neutralizes voicing (DA/TA both cover /da/ and /ta/) but provides no sign for emphatic /ṭ/, which Semitic languages require. *118 covers emphatic and marked dentals (ṭ, ḍ, ḏ), beside *314 = ḤA in the pharyngeal gap. QA-*118 (5 attestations) never appears as QA-DA, and DA-SI-*118 uses both signs in one word. 26 occurrences across 8 sites. || Standing alone with a quantity (HT12 '*118 5', HT24b ×3 with fractions 1¾/1¾/1, KN2 '*118 3'), *118 is the weight logogram, the talent, as Linear B *118 L (Bartoněk 2003, 126; Killen 2024, 141); the syllabic reading applies only inside words and ligatures. || d is possible only in QA-*118-SA qōdeš 'holy portion' (HT70; HALOT 1076), ṯ in QA-*118 quṯṯāʾ 'cucumber' (HALOT 1151) and *21F-*118 ḥṯ 'unleavened bread' (DULAT 373).",
+      "linear_b": {
+        "sign_number": "B 118",
+        "value": "talent (L)",
+        "note": "The talent, L, the largest weight unit (Bartoněk 2003, 126; Killen 2024, 141); no syllabic value",
+        "unicode": "",
+        "unicode_glyph": "",
+        "unicode_name": "",
+        "unicode_block": "none",
+        "unicode_status": "REVIEW_REQUIRED",
+        "unicode_source_refs": []
+      },
+      "sign_number": "AB118"
+    },
+    "*86": {
+      "ab_number": "AB86",
+      "primary": {
+        "consonant": "n",
+        "vowel": "a",
+        "confidence": 0.7
+      },
+      "alternates": [
+        {
+          "consonant": "ṇ",
+          "vowel": "a",
+          "confidence": 0.6,
+          "note": "Emphatic nasal. No test separates it from na, and Proto-Semitic has no emphatic nasal."
+        }
+      ],
+      "neutralization_class": "N",
+      "confirmed_by": [
+        "Sign proposer rank 1 (score 0.799, perfect positional and cognate scores)",
+        "Mutation control stack promotion to PROBABLE",
+        "Without HT11b (where *86 and the logogram KA are separate signs, *86 · KA 40): every cognate is a plain-n root; no word is spelled with both *86 and NA, and no environment contrasts them; Proto-Semitic has no emphatic nasal. With the reading hidden, na ranks first (0.795), ahead of ro (0.769) and da (0.767)."
+      ],
+      "linear_b": {
+        "sign_number": "B 86",
+        "value": null,
+        "note": "Listed in AB catalog but not attested with confirmed value in Linear B",
+        "unicode": "U+1005C",
+        "unicode_glyph": "𐁜",
+        "unicode_name": "LINEAR B SYMBOL B086",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
+      "sign_number": "AB86",
+      "note": "Plain /na/, a doublet of NA (AB06) beside *301, which also writes na. The emphatic ṇa stays an alternate; no test separates it from na. Syllabic witnesses are few: *86-SI-NI (HT140); *86-RO, *86 on face a and RO on face g of KHWa1013–1016, one scribe; RE-*86 (MILZb4), the second sign incomplete. In *86-SI-*118-KA (HT140) *86 lies in the break. The other tokens are standalone *86 with a numeral or the *86+*188 ligature. HT11b gives no co-occurrence proof: there *86 stands before the logogram KA and its numeral. Linear B *86 survives at 6 attestations, mostly in substrate toponyms, with no value."
+    },
+    "JU": {
+      "ab_number": null,
+      "primary": {
+        "consonant": "l",
+        "vowel": "u",
+        "confidence": 0.9
+      },
+      "alternates": [
+        {
+          "consonant": "l",
+          "vowel": "a",
+          "confidence": 0.85,
+          "evidence": [
+            "Vowel coloring uncertain—root identification confirms /l/ regardless of inherent vowel"
+          ]
+        },
+        {
+          "consonant": "y",
+          "vowel": "u",
+          "confidence": 0.5,
+          "evidence": [
+            "Another possible value: KNZc6 JU-KU-NA = yukūna 'shall be established' (√k-w-n, DULAT 442); Linear B *65 = ju (Melena 43–44). l stays primary."
+          ]
+        }
+      ],
+      "neutralization_class": "R",
+      "confirmed_by": [
+        "DA-JU-TE = dalate \"door\" (√d-l-t)—unique to /l/, no alternative consonant produces a root",
+        "SU-JU-TA = šalāṭa \"to rule\" (√š-l-ṭ)—unique to /l/",
+        "Co-occurrence proof: JU ≠ RA (JU-RA in same word, HT80); JU ≠ RU (PI-RU-E-JU, PH2)"
+      ],
+      "note": "Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /la/, JU = /lu/. Both fill the L/R distinction gap needed by Semitic substrate. || Position rule: (a) standalone JU + numeral/fraction in a list (ARKH4a, HT68, HT97a, HT108, ZA11a) = commodity ABBREVIATION, gloss 'flour (commodity)' CANDIDATE—a GORILA positional gloss, not acrophonic (no Semitic flour word is /l/-initial); mark '[commodity?]' where ambiguous. (b) standalone JU without quantity, separator-delimited votive context (KNZb4 'JU 𐄁 JA-SI 𐄁 SI') = syllabic /lu/—dedicatory preposition l(u) 'to/for' or asseverative lū, CANDIDATE. (c) word-internal JU = /lu/ or /yu/ (below). *ḳamḥ- 'flour' for KE-JU-MI stays rejected (unaccounted l). || yu is another possible value (Linear B *65 = ju, Melena 43–44): the verb prefix in KNZc6 JU-KU-NA yukūna 'shall be established' (√k-w-n, DULAT 442) and the endings -iyyu, -y (KU-RE-JU beside KU-RE).",
+      "linear_b": null,
+      "sign_number": "AB65"
+    },
+    "*306": {
+      "ab_number": null,
+      "primary": {
+        "consonant": "ʿ",
+        "vowel": "a",
+        "confidence": 0.92
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "*306-TI-KA-A-RE = ʿatīq+are \"the ancient/noble\" (√ʿ-t-q)—unique to ʿayin",
+        "*306+MI = ʿammī \"my people\" (√ʿ-m-m)—core NWS onomastic compound, unique to ʿayin",
+        "*306-QE-DU = ʿāqēd \"the binder\" (√ʿ-q-d, *ʕVḳid- in PS database)—unique to ʿayin. QE-DU is SigLA's reading of KH21 line 3; GORILA III 55 reads *306 · 100[, so this witness is uncertain",
+        "Co-occurrence: *306 and SI share 7 tablets but never same word—different phonemes"
+      ],
+      "note": "Voiced pharyngeal fricative. Fills the highest-priority gap in the phonemic inventory (ayin). 23 occurrences across Haghia Triada, Khania, Arkhanes, Fourni. 8 standalone occurrences at Khania suggest acrophonic/abbreviatory administrative use.",
+      "linear_b": null,
+      "sign_number": "A306"
+    },
+    "*21F": {
+      "ab_number": null,
+      "primary": {
+        "consonant": "h",
+        "vowel": "a",
+        "confidence": 0.9
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "TU-*21F-RI-NA = ṭuhārī-nā \"our purification\" (√ṭ-h-r)—unique to /h/, no other C fits ṭ-X-r",
+        "*21F-JA-DU = ḥayya-Addu \"Addu lives\" (√ḥ-y-y; cf. Amorite ḪAJJ-A + DN names, Gelb AS 21 nos. 1651–1653)",
+        "*21F-TU-NE = ḥātān \"bridegroom\" (HT 7b, 87, 117b)",
+        "JA-*21F = Yāh, beside PU-RA₂ on HT 28b",
+        "*21F-*118 = ḥṭt \"wheat\" (KH 88 before figs; ZA 5a with wine), if *118 = ṭa"
+      ],
+      "note": "An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes West Semitic ḥ and ḫ alike. H is ordinarily unwritten, as in Linear B, where a₂ (ha) is optional: pa-we-a 88 times, pa-we-a₂ 9. The syllabic use did not pass into Linear B, which kept *21 as qi and the sheep ideograms. Standing alone with a numeral, *21F is the logogram OVISf (ewe): HT 132, ZA 9, ZA 26a. No word is yet attested both with and without *21F.",
+      "linear_b": null,
+      "sign_number": "A21F"
+    },
+    "PA₃": {
+      "consonant": "b",
+      "vowel": "a",
+      "reading": "BA",
+      "ipa": "ba",
+      "confidence": 0.9,
+      "notes": "Voiced bilabial stop. Fills the P/B voicing gap in the standard grid. PA covers /pa/, PA₃ covers /ba/. Overrides Gordon's 1966 identification of PA₃ as allograph of PA.",
+      "confirmed_by": [
+        "PA₃-KA-RA-TI = baqarāti √b-q-r 'cattle' (HT8a)",
+        "A-PA₃ = ʾab √ʾ-b 'father' (PH28a)",
+        "A-PA₃-DI = ʿabadī √ʿ-b-d 'my servant' (PKZb?)",
+        "PA₃-NI-NA = banīna √b-n-y 'our builder' (HT6b, HT93a)",
+        "KU-PA₃-PA₃ = Kubaba, Anatolian Mother Goddess (HT88)"
+      ],
+      "replaces": "Gordon 1966 treated PA₃ as PA allograph (Gupanu reading). PA₃=/ba/ fills a structural gap and produces 4+ independent Semitic roots.",
+      "sign_number": "AB56"
+    },
+    "ZU": {
+      "consonant": "ṯ",
+      "vowel": "u",
+      "reading": "ṮU",
+      "ipa": "θu",
+      "confidence": 0.74,
+      "notes": "PROBABLE. Revalued from /zu/ to /ṯu/ (voiceless interdental + /u/). The evidence is cross-script: (1) A-ZU-RA = ʾAṯirat on KNZc7 incantation bowl—primary anchor; (2) Linear B Z-series has ZA/ZE/ZO but no deciphered ZU; B79 survives as one of 14 undeciphered syllabograms (Judson 2020) with only 3–4 attestations—extreme rarity predicted if value is interdental; (3) No known /ṯ/→/z/ merger in any Semitic language; (4) ZA already covers /za/; (5) Complementary distribution confirmed: ZA-SI-ZU (ARKH4b) places ZA and ZU in same word; (6) MA-ZU = maṯu 'child/male' (PS #1702) on HT102—supportive match; (7) Cross-script parallel: Linear B ma-*79 (PY En 74+, PY Eo 276) = same sign sequence, same commodity (grain), same qty (3) as Linear A MA-ZU (HT102); (8) Linear B a-*79 (KN Ap 618+, MY Oe 123) may = PS *ʾanṯ-/ʾaṯt- 'female/woman'—women's personnel + wool contexts. Open issues: (a) Vowel mismatch in Aṯirat; (b) /zu/ gap. Blind rescoring gives 3:1:17 TH/ZU/neutral; the /zu/ gap is no obstacle; complementary distribution holds on 18 of 32 tablets; onomastic parallels run 4:3 TH/ZU. KU-ZU-NI = Ugaritic PN Kuṯinu/Kṯn (DULAT p.467; syllabic vocalization ku-ši-nu, PRU 3 195, UVST 231). ZU-DI-RA = /ṯudira/ (Ugaritic ṯdr 'waitress/girl', Hurro-Hittite loan from šiduri; contact layer). Phonetic range note: ZU covers [θ ~ s̪] zone (native NWS /ṯ/ and borrowed Hurrian /š/ both render as ṯ in Ugaritic orthography), not a point value. || Two values, as SA writes s and š: ZU is the u-member of the Z-row and writes zu as well as ṯu. ṯ reads A-ZU-RA, MA-ZU, ZU-DI-RA, ZU-RI-NI-MA, DU-ZU-WA and KU-ZU-NI; z reads RU-ZU-NA rāzin 'dignitary' (Heb. rōzēn, HALOT 1210; Ar. razuna, Lane 1079, PS *z); ZU-DU and ZU-DI read 'breast' under both (ṯd, zd: DULAT 886, 983). Linear B *79 stands in the z-row.",
+      "alternate_value": {
+        "reading": "ZU",
+        "ipa": "zu",
+        "confidence": 0.5,
+        "rationale": "Second value of the same sign, not a rival: RU-ZU-NA = rāzin 'dignitary' (Heb. rōzēn, HALOT 1210), PS *z. ṯ stays primary."
+      },
+      "confirmed_by": [
+        "A-ZU-RA = ʾAṯirat (KNZc7 incantation bowl)—divine name on ritual vessel",
+        "Linear B Z-series lacks ZU; B79 undeciphered with 3–4 attestations (Judson 2020)—predicted if interdental value",
+        "No ṯ→z merger in Semitic typology—/zu/ cannot approximate /ṯ/",
+        "Phonemic gap: interdental /ṯ/ is open; /z/ already covered by ZA",
+        "Complementary distribution: ZA-SI-ZU (ARKH4b)—ZA and ZU in same word, proving different phonemic classes",
+        "MA-ZU = maṯu 'child/male' (HT102)—supportive PS #1702 match",
+        "Cross-script parallel: Linear B ma-*79 ↔ Linear A MA-ZU—potential independent confirmation",
+        "KU-ZU-NI = Kuṯinu (HT 13, HT 85a), the Ugaritic personal name kṯn, syll. ku-ši-nu (DULAT 467)"
+      ],
+      "sign_number": "AB79",
+      "logographic_value": {
+        "reading": "ṯūm",
+        "meaning": "garlic",
+        "confidence": "CANDIDATE",
+        "root": "ṯ-w-m"
+      }
+    },
+    "AU": {
+      "consonant": "ʾ",
+      "vowel": "aw",
+      "reading": "AU",
+      "ipa": "ʔaw",
+      "confidence": 0.75,
+      "sign_type": "diphthong",
+      "notes": "Diphthong sign /aw/, not a standard CV syllabogram, from the Linear B grid correspondence (B85 au). Dual function: syllabic /aw/ in AU-RE-TE = ʾawrēt 'luminous one' (√ʾ-w-r, KH6) and SE-WA-AU-DE (ZAZg35), and AU after the divider that follows A-TA-I-*301-WA-JA on IOZa3; the pig logogram SUS at HT38 and HT118, and with SI set above it on PH(?)31a.3 and b.4. AU-TA in KO(?)Zf2 is excluded as confirmation because that inscription has no word dividers. The /aw/ diphthong is productive in archaic NWS (*ʾawr 'light', *ʾawt 'sign', *ṯawr 'bull') and monophthongizes to /ō/ in later Canaanite. Cross-syllabary parallel: Linear B a₃ (AB16) = /ai/, a dedicated diphthong sign for word-initial /ai/ (Judson 2016; Palaima 2018)—the daughter script retains a non-CV sign where Greek requires one, just as Linear A has AU=/aw/ where NWS requires one. Skeleton-search convention for AU-bearing words: run the tool default (AU → w) and check two variants—(b) ʾ-transparent (AU → ʾw, initial ʾ dropping word-initially), (c) monophthong (AU → vowel only, no consonant contribution); report which variant any claimed match rests on. SE-WA-AU-DE (ZAZg35): swwd gives *zayad- d=0.35 (null-model band), the variants give nothing; lexicon SPECULATIVE 0.25.",
+      "confirmed_by": [
+        "AU-RE-TE = ʾawrēt 'luminous' (√ʾ-w-r 'to shine') on KH6",
+        "KO(?)Zf2 contains AU within an undivided sequence; AU-TA is not admitted as an independent confirming witness"
+      ],
+      "sign_number": "AB85",
+      "cross_syllabary_parallels": [
+        "LB a₃ (AB16) = /ai/ diphthong doublet (Judson 2016, ch. 2; Palaima 2018)",
+        "LB *34 = /ai/ allograph of a₃, confirmed by same-hand H2 allography at Pylos (Melena; Judson 2016)",
+        "LB dwo/twe/nwa = CCV complex signs breaking CV pattern (Ventris & Chadwick 1956)",
+        "Ugaritic three-aleph system (ʾa/ʾi/ʾu)—vowel-sensitive signs in an otherwise consonantal script (Pardee 2003)"
+      ]
+    },
+    "*310": {
+      "ab_number": null,
+      "primary": {
+        "consonant": "n",
+        "vowel": "i",
+        "confidence": 0.7
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "sign_type": "vc_syllable",
+      "reading": "IN",
+      "ipa": "in",
+      "confirmed_by": [
+        "KI-*310-RE = kinnare \"lyre\" (Hebrew kinnōr כִּנּוֹר) on HT37—qty 1 matches single instrument",
+        "QA-*310-I = qaynī \"smith/cultic administrator\" (√q-y-n)—4x at Haghia Triada as a recurring occupational or recipient label",
+        "PI-*310-A = pīnā \"face/portion\" (√p-n-y) on ZA11a—same root as I-PI-NA-MA (ipinama)",
+        "QA-NI (standard CV) never appears in corpus despite NI being freely used elsewhere—proves *310 ≠ /ni/"
+      ],
+      "note": "VC (vowel-consonant) sign /in/, NOT a standard CV syllabogram. Structural parallel to AU=/aw/: both are VC signs that close syllables rather than open them. IN handles the coda /n/ in closed syllables: QA-IN-I = /qayn-ī/ (where IN provides the syllable-closing /n/ that standard NI cannot). The script has at least two VC signs (AU=/aw/, *310=/in/) alongside its CV core, reflecting adaptation for Semitic closed-syllable morphology. 10 occurrences across Haghia Triada, Knossos, Zakros. KI-IN-RE = kinnare is the anchor reading—the ancient lyre, cognate with Hebrew kinnōr.",
+      "linear_b": null,
+      "sign_number": "A310"
+    },
+    "*34": {
+      "ab_number": "AB34",
+      "primary": {
+        "consonant": "q",
+        "vowel": "i",
+        "confidence": 0.7
+      },
+      "alternates": [
+        {
+          "consonant": "k",
+          "vowel": "i",
+          "confidence": 0.3,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        },
+        {
+          "consonant": "g",
+          "vowel": "i",
+          "confidence": 0.2,
+          "evidence": [
+            "K-class neutralization"
+          ]
+        }
+      ],
+      "neutralization_class": "K",
+      "confirmed_by": [
+        "SI-DU-QI-KU-MI = ṣidqī-kummī \"Seat of Righteousness\" (√ṣ-d-q + Hurrian -kummi)—HT110a",
+        "PI-*34-TE may be piqitti \"delivery/inspection\" (√p-q-d) if *34 = QI—supporting but not independent evidence from HT116a",
+        "QI-TI-RI = qiṭrī \"my incense\" (√q-ṭ-r)—KNZc6 stone libation vessel"
+      ],
+      "note": "Completes the Q-series (QA, QE, QI). 8 occurrences across 7 tablets. Co-occurrence elimination: *34 appears with SI, KI, SE, QA, ZU on same tablets—all eliminated as candidates. No complementary distribution conflict (QI is a new phonemic value). || Linear B writes the same sign as a₅ /hai/ (Melena 16, 21), so ai is another possible value: PI-*34-TE bayti 'house' (HT116a; DULAT 243), *34-TI-RI ʿaiṭirī 'my fragrance' (HALOT 905).",
+      "linear_b": null,
+      "sign_number": "AB34"
+    },
+    "*47": {
+      "ab_number": "AB47",
+      "primary": {
+        "consonant": "s",
+        "vowel": "o",
+        "confidence": 0.3
+      },
+      "alternates": [
+        {
+          "consonant": "m",
+          "vowel": "o",
+          "confidence": 0.25,
+          "evidence": [
+            "*47-KU-NA mōgun- 'regalement, gift', /m-g-n/ 'to wine and dine, regale' (DULAT 525); AB15 MO is absent from Linear A"
+          ]
+        },
+        {
+          "consonant": "d",
+          "vowel": "o",
+          "confidence": 0.15,
+          "evidence": [
+            "*47-KU-NA Dagan (DULAT 265), the shape of DA-KU-NA (HT103)"
+          ]
+        }
+      ],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "*47-KU-NA (ZA15a, heading of a wine issue) = sōkina 'prefect': Canaanite su₂-ki-na, glossed in EA 362 (ORACC aemw/amarna P270873); Ug. śkn 'prefect, governor; administrator' (DULAT 746); sākinu (CAD S 76); Heb. sōkēn (HALOT 755)"
+      ],
+      "note": "SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. *47-KU-NA, heading the ZA 15a wine issue, is sōkina 'prefect', with the vowels of the Canaanite gloss su₂-ki-na (EA 362) and the ō of the Canaanite shift. Linear A writes no other so; *324 claims it only at SPECULATIVE 0.30. *47-NU-RA-JA (HT 115a) is a gentilic heading in -aya whose base is unread. mo, from the AB15 gap, reads *47-KU-NA as mōgun- 'regalement'; do reads it as Dagan. PA₃-SI-*47 (MIL Zb 1) has no edition; HT 127a *304+PA-DA-*47-KU is unsegmented. Co-occurrence with MA, MI, ME and MU excludes those four values only.",
+      "linear_b": {
+        "sign_number": "B 47",
+        "value": null,
+        "note": "No accepted value; Linear B keeps *47 apart from B 15 mo."
+      },
+      "sign_number": "AB47"
+    },
+    "*802": {
+      "ab_number": "A802",
+      "primary": {
+        "consonant": "r",
+        "vowel": "a",
+        "confidence": 0.5
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "A-SA-SA-*802-ME (PRZa1, Prassa stone vessel, GORILA IV 48) ~ A-SA-SA-RA-ME (IOZb10, Iouktas clay vessel, GORILA V p.87)—the confirmed ʾasaramu libation formula with A802 substituting for RA at the identical formula position",
+        "Same lemma (IOZb10 ʾasaramu); same genre and slot (both inscribed ritual vessels); different sites, no shared hand; phonologically coherent"
+      ],
+      "note": "CANDIDATE, not resolved: LA supplies no direct strict calibration set of known same-word syllabographic variants; the operative prior is now the ḤAFAR LB administrative strict bound of 3/35 = 8.57% (95% Wilson [2.96%, 22.38%]), which replaces the uninformative [0,1] interval but transfers as a prior only, so the two spellings are possibly one word. Falsifiers: a second syllabic A802 context incompatible with /ra/; a role or edition correction on PRZa1; proof the two formula slots are distinct. GORILA IV 48 itself normalizes the PRZa1 sign as RA: A802 there is RA drawn reversed in the drawing and facsimile, and the corpus now reads A-SA-SA-RA-ME.",
+      "linear_b": null,
+      "sign_number": "A802"
+    },
+    "*28B": {
+      "ab_number": "AB28B",
+      "primary": {
+        "consonant": "y",
+        "vowel": "i",
+        "confidence": 0.5
+      },
+      "alternates": [
+        {
+          "consonant": "w",
+          "vowel": "e",
+          "confidence": 0.3,
+          "evidence": [
+            "*28B-NU-MA-RE (ZA4a, ZA5b, ZA15a) = wēnu-mārē \"wine stewards\", wēnu < *wayn with ay > ē: as good a fit as yīnu-mārē, and the w- onset agrees with VIN+WA on HT27b (the house reading of wine as *wayn)",
+            "AB75 WE is not a Linear A sign, so the value /we/ is unclaimed",
+            "Against: *28B-TI (HT62+73) gives no Semitic form as WE-TI, and the sign is a graphic variant of I (AB28)"
+          ]
+        },
+        {
+          "consonant": "ʾ",
+          "vowel": "u",
+          "confidence": 0.2,
+          "evidence": [
+            "A second aleph sign on the Ugaritic three-aleph model, with U also writing /w/: *28B-TI = Ugaritic ud 'payment' (DULAT 16)",
+            "Against: *28B-NU-MA-RE unread; ZA6b writes the initial /ʾu/ of ʾukulti with I"
+          ]
+        },
+        {
+          "consonant": "",
+          "vowel": "ē",
+          "confidence": 0.2,
+          "evidence": [
+            "Soldani 2013 (125, 162) reads A28b as aj, the value of Linear B *43 (a₃), a non-CV sign absent from Cypro-Minoan",
+            "ē < *ay, as Ugaritic {ỉ} writes /ʾê/ (Huehnergard 2012 §II.F, 21): (y)ēnu 'wine' (Amarna ye-nu)",
+            "Against: overlaps E, which ZA4a also uses"
+          ]
+        },
+        {
+          "consonant": "n",
+          "vowel": "o",
+          "confidence": 0.2,
+          "evidence": [
+            "A 28b, 'drawn with a marked thumb placed on the right-hand side', as the graphic source of Linear B *52 no (Salgarella 2020, 294–295 fig. 36, 337), followed by Montecchi 2024 (173, fig. 9.1) and Coleman & Owens 2017",
+            "Against: no *28B word reads with /no/, Salgarella notes the change of vocalic series, and Soldani 2013 (162) rejects the link because Cypro-Minoan CM017 no is an innovation"
+          ]
+        }
+      ],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "JI-NU-MA-RE = yīnu-mārē 'wine-lords/wine-stewards' (√y-y-n + mārē)—3× on Zakros distribution tablets (ZA4a, ZA5b, ZA15a); CANDIDATE, and Negri (SMEA 43/1, 2001, 82) reads i-nu-ma-re as a personal name",
+        "JI-TI = yittī 'he gave / given portion' (√y-t-n)—HT62+73; SPECULATIVE, yittī matches no G-stem form",
+        "J-series gap-fill: JA, JE, JU exist—no JI in standard grid (weakened: the house reads JU = /lu/)",
+        "Wine-tablet association: 4 of 5 tablets carry VIN (ZA4a via verso ZA4b, ZA15a, HT62+73, ZA6b)",
+        "Competitors open: WE, ʾu, ay/ē, and the published /no/ and /aj/ links (see alternates)",
+        "Co-occurrence proof: JA appears on ZA4a alongside *28B—proves distinct signs",
+        "√y-t-n attested independently in JE-TA-NA = Yatana (HTWa1020); JI-TI = yittī is a second form of the root"
+      ],
+      "note": "I (AB28) with an added thumb at top right; working value JI (/yi/), CANDIDATE. GORILA V (p. XXXIII) and Salgarella 2020 (160, 162) file it as a variant of I, but the scribes contrast the two in one word (ZA6b) and on one tablet (ZA5b, ZA15a), across two Zakros hands. The value rests on JI-NU-MA-RE = yīnu-mārē 'wine-stewards' (√y-y-n + mārē), which WE reads equally well; JI-TI = yittī is SPECULATIVE. WI is excluded because AB40 WI is attested; WE and NO are unclaimed in Linear A and stay open, with ʾu and ay/ē (Soldani's aj, see alternates). The ZA6b token may stand apart before GRA+PA, as Younger reads it (see I-KU-JU-TI).",
+      "linear_b": {
+        "sign_number": null,
+        "value": null,
+        "note": "No direct Linear B equivalent identified. Linear B does not distinguish JI from I in most contexts. Salgarella 2020 (294–295, 337) proposes A 28b as the graphic source of Linear B *52 no; Soldani 2013 (125, 162) links it to *43 a₃ (aj) instead."
+      },
+      "sign_number": "AB28b"
+    },
+    "*325": {
+      "ab_number": "A325",
+      "primary": {
+        "consonant": "b",
+        "vowel": "u",
+        "confidence": 0.4
+      },
+      "alternates": [
+        {
+          "consonant": "t",
+          "vowel": "a",
+          "confidence": 0.25,
+          "evidence": [
+            "VC /at/: its discriminating evidence was POZc1, whose last sign RILA-S1 leaves unread",
+            "Against: the script's VC signs never follow a vowel sign (AU, *310: 0 of 18); *325 does in all four tokens"
+          ]
+        },
+        {
+          "consonant": "t",
+          "vowel": "u",
+          "confidence": 0.1,
+          "evidence": [
+            "CV dentals (ti/tu/ṭu/ṯa): sign_proposer's top ranks; no lexical match"
+          ]
+        }
+      ],
+      "neutralization_class": null,
+      "sign_type": "cv_syllable",
+      "reading": "BU",
+      "ipa": "bu",
+      "confirmed_by": [
+        "U-*325-ZA / A-*325-ZA = ʾubūs / ʾabūs 'stall, storehouse' (PS *ʾabūs-; Akk. abūsu, Heb. ʾēbûs), PS *s = [ts] in the Z-series",
+        "The U-/A- onset matches Akk. ubsātu beside abūsātu (CAD A/1 92); bēl abūsi 'overseer of the storehouse' at Ras Shamra (CAD A/1 93)",
+        "A standing unit beside DA-RI-DA and DA-RE (HT10a, HT85a); PE2 fraction list",
+        "Orthography: V-CV-CV, the script's default",
+        "Grid: fills the open /bu/ CV slot (PA₃ = /ba/ beside PA = /pa/)",
+        "Allographs: the 4 incised tokens are one grapheme"
+      ],
+      "note": "CANDIDATE /bu/, not resolved: one word, four tokens, no ideogram. RILA-S1 leaves POZc1's last sign unread, which removed /at/'s only discriminating evidence. Every open grid value tested on the four tokens: /bu/ alone fits the spelling rules and an administrative noun. Rival: /ḫu/, ʾuḫuzza(t) 'holding' (Heb. ʾăḥuzzâ, HALOT 32), which needs ZA for PS *ḏ."
+    },
+    "*301": {
+      "ab_number": null,
+      "primary": {
+        "consonant": "n",
+        "vowel": "a",
+        "confidence": 0.8
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "A-TA-I-*301-WA-JA = ataināwayā—11× across 5 peak sanctuary sites (IO, KO, PK, SY, TL)",
+        "TA-NA-I-*301-U-TI-NU (IOZa6)—variant with consistent NA position",
+        "JA-TA-I-*301-U-JA (APZa1)—Apodoulou variant",
+        "A-NA-TI-*301-WA-JA (IOZa8)—ʿAnatī nawaya 'my Anat, my abode', *301 in the NA of √n-w-y",
+        "A-TA-I-*301-DE-KA (ZAZb3)—Zakros variant",
+        "*301 consistently occupies the NA position in the libation formula word across all site-specific variants"
+      ],
+      "note": "Allograph of NA (AB06). Second sign writing /na/. 288 total corpus occurrences (238 standalone across 4 sites: 230 HT, 5 KH, 2 KN, 1 ZA; predominantly roundels). 27 unique word forms. Identified from peak sanctuary libation formula evidence: *301 always fills the NA slot in A-TA-I-*301-WA-JA and its variants.",
+      "linear_b": null,
+      "sign_number": "A301"
+    },
+    "*305": {
+      "ab_number": null,
+      "primary": {
+        "consonant": "ḏ",
+        "vowel": "a",
+        "confidence": 0.65
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "*305-RU (HT10a) = ḏarʿ- 'seed'; Ugaritic √dr 'group' also matches",
+        "Logographic ḎABBĀḤŪ 'sacrificers' (√ḏ-b-ḥ); the acrophony argument for syllabic /ḏa/ is circular (it derives the value from the logogram)",
+        "Interdental pair symmetry: ZU=/ṯu/ beside *305=/ḏa/",
+        "*305 ≠ DA proven structurally: co-occurrence on 5 tablets, never word-internal alternation; DA + ZU + *305 all on HT79+83"
+      ],
+      "note": "Dual-function. Standing alone with a quantity, *305 is the logogram ḎABBĀḤŪ 'sacrificers' (personnel category): HT89 *305 23 in 23+22+24+13+5 = 87 = KU-RO; HT100 VIR+KA sub-category; √ḏ-b-ḥ cross-Semitically exact. The syllabic value /ḏa/ has a live /da/ rival (D₂A): 0 of 8 syllabic cells favor ḏ over d and 4 of 8 favor plain d, so the /da/ alternative is recorded wherever the syllabic value is used. Settling tests: a repeated embedded cell requiring a ḏ-root with no plain-d rival; *305 ↔ Z-class spelling alternation matching *ḏ→z reflexes; a repeated administrative pair in a confirmed voiced-interdental slot. || ḏa reads *305-RU ḏrʕ 'seed-grain' (HT10a; DULAT 277–278) and KA-*305 ka-ḏā 'thus, likewise' (HT9b; Lane 948). ṯa is another possible value: KA-*305 kṯ 'flask, jar' (DULAT 466).",
+      "linear_b": null,
+      "sign_number": "A305",
+      "logographic_value": {
+        "reading": "ḎABBĀḤŪ",
+        "meaning": "sacrificers",
+        "confidence": "PROBABLE",
+        "root": "ḏ-b-ḥ"
+      }
+    },
+    "TA2": {
+      "ab_number": "AB66",
+      "primary": {
+        "consonant": "t",
+        "vowel": "a",
+        "confidence": 0.65
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "Linear B *66 = ta₂",
+        "Same word with TA₂ and TA: *312-TA₂ GRA+PA 40 (ZA6b) ~ *312-TA 6 ¹⁄₂ (HT10b)",
+        "KI-RE-TA₂ = krt 'Kret' (Crete, d=0.000)",
+        "Palaeographic split confirmed: TA₂ and TA co-occur in TA₂-TA-RE on PK1",
+        "Sign proposer: /ta/ tied for top at 0.821"
+      ],
+      "note": "Palaeographic split with TA confirmed by PK1 co-occurrence. A t- value is secure; /ta/ against Linear B /tja/ is open (possibly palatalized, emphatic, or interdental).",
+      "linear_b": {
+        "sign_number": "B 66",
+        "value": "ta₂"
+      },
+      "sign_number": "AB66"
+    },
+    "*324": {
+      "ab_number": null,
+      "primary": {
+        "consonant": "s",
+        "vowel": "o",
+        "confidence": 0.3
+      },
+      "alternates": [
+        {
+          "consonant": "ʾ",
+          "vowel": "a",
+          "confidence": 0.2,
+          "evidence": [
+            "*324-DI-RA = ʾaddīr \"noble, mighty\" (√ʾ-d-r)—PS *ʔaddīr-, Hebrew אַדִּיר (Ps 8:2, 93:4), Ugaritic adr (KTU 1.4 V 3); plain A already writes /ʔa/"
+          ]
+        }
+      ],
+      "neutralization_class": "S",
+      "confirmed_by": [
+        "Linear A has no SO sign (0 SO tokens; Linear B *12 so has no Linear A form)",
+        "CH 043 > LA 324 (= 370) / LA 363 (= 364); LA 324 only at Haghia Triada and LA 363/364 only at Zakros, so LA 324 may be a regional variant of either (Ferrara, Montecchi & Valério 2022, 88)",
+        "LA 363/364 compared with Linear B B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98)",
+        "*324-DI-RA = sōdir 'one who sets in order' (√s-d-r; Akk. sadāru, CAD S 11), DI for d: a recipient among names and titles in the HT9a/HT9b wine lists and HT122a; šōṭēr 'officer' would need DI for ṭ"
+      ],
+      "note": "SPECULATIVE (0.30). Only 1 word attested (*324-DI-RA, 3 occ at HT). Distinct from ZU (SigLA crops: ladder/frame form against lens-on-stem). On the SigLA crops *324 is closest to *364 (ZA15a): both have a hooked, sinuous left stroke and two strokes running to a right member; *364's strokes spread diagonally to an enclosing arc. *363 (ZA14) differs in construction. Remains LOW_OCCURRENCE_BLOCKED for formal resolution until a second word context appears.",
+      "linear_b_cognate": null
+    },
+    "*82": {
+      "ab_number": "AB082",
+      "primary": {
+        "consonant": "s",
+        "vowel": "i",
+        "confidence": 0.25
+      },
+      "alternates": [],
+      "neutralization_class": null,
+      "confirmed_by": [
+        "SPECULATIVE: SI2, a duplicate sibilant (standard SI = AB41 remains in use).",
+        "E-*82 (ZA4a, 50-unit bulk slot in the Zakros wine dossier) = 'asi(s) 'new wine, must'—E carries guttural onset 'a-, SI2 carries /sis/ with final sibilant unwritten",
+        "Standalone *82 on KHWa 1003/1004 nodules = commodity logogram abbreviating 'asis (guttural-skipping abbreviation: first consonantal sign, NI-for-figs dual-function pattern)",
+        "PROMOTION TEMPLATE (GRA+KU complementary distribution): full spelling E-*82 in ledger context, bare *82 on sealings, never co-occurring—CANDIDATE->PROBABLE if the two gates below pass",
+        "Rival value: a pha-type labial aspirate (pe-re-*82 = *Perspha, Persephatta stem; Linear A E-*82 then reads epa 'ephah measure')",
+        "Cross-script picture: LB *82 = swa (Chadwick, Minos 9, 1968) refined by Melena to {twa} with tw>sw assibilation (On the Structure of the Mycenaean Linear B Syllabary I, section 16)—NON-CIRCULAR support from the pi-*82 ~ pi-sa-wa-ta doublet and the toponym family (Pitwa>Pisa, Krithwa>Krisa, Litwa>Lisa); the sibilant/dental family is coherent with SI2 and weighs AGAINST the pha rival in LB (Judson's circularity note applies only to the Persephone-based argument)"
+      ]
+    }
+  },
+  "logograms": {
+    "_note": "Commodity ideograms—standalone signs paired with quantities to denote goods. Classified separately from syllabograms. Some signs have rare word-embedded occurrences that may indicate acrophonic syllabographic potential. Gendered livestock system: *21F/M=sheep, *22F/M=goat, *23M=cattle.",
+    "*22F": {
+      "commodity": "CAPf",
+      "gloss": "she-goat",
+      "semitic_terms": [
+        {
+          "term": "*ʿanz-/*ʿinz-",
+          "root": "√ʿ-n-z",
+          "gloss": "she-goat (primary pan-Semitic term)",
+          "reflexes": "Hebrew ʿēz, Akkadian enzu, Ugaritic ʿz, Phoenician ʿz, Arabic ʿanz, Aramaic ʿnz/ʿz, Syriac ʿezzā, Geez ʿǝz, Mehri ḥōz, Soqotri ʿoz",
+          "starling_id": "#1961",
+          "acrophonic": "ʿe (from *ʿēz) or ʿa (from *ʿanz-)"
+        },
+        {
+          "term": "*ʿanāq-",
+          "root": "√ʿ-n-q",
+          "gloss": "young she-goat / female kid",
+          "reflexes": "Hebrew ʿanāqā, Arabic ʿanāq, Syriac ʿnaqqā",
+          "acrophonic": "ʿa (from *ʿanāq-)"
+        },
+        {
+          "term": "*gady-",
+          "root": "√g-d-y",
+          "gloss": "kid (young goat, either sex)",
+          "reflexes": "Hebrew gᵉdī, Arabic jady, Akkadian gadû",
+          "acrophonic": "ga (would duplicate KA under K-class neutralization)"
+        }
+      ],
+      "note_male_terms": "*tayš- (he-goat), *ʿat(t)ūd- (he-goat) excluded—inapplicable to female-marked logogram. No d-q root for goat exists in any Semitic branch (Starling DB, Tsammalex confirmed).",
+      "standalone_count": 14,
+      "embedded_count": 1,
+      "embedded_contexts": [
+        "ZU-*22F-DI"
+      ],
+      "rebus_hypothesis": {
+        "value": "zu",
+        "confidence": "SPECULATIVE",
+        "principle": "Rebus extraction from the final syllable of a Semitic name, comparable to the still-candidate *49/TAMIR hypothesis (ta-MI-r → /mi/). PS *ʿanz- is sibilant *z (confirmed, not interdental *ḏ). Akkadian enzu syllabified in Linear A CV script: E-NI-ZU. Final syllable → /zu/.",
+        "gap_filled": "Would fill /zu/ gap created by ZU (AB79) revaluation to /ṯu/.",
+        "test_case": "ZU-*22F-DI on HT101 (commodity allocation, Haghia Triada). If *22F=/zu/ and ZU=/du/ (T-class neutralization): du-zu-dī. Inconclusive—could be PN, toponym, or opaque.",
+        "supersedes": "Acrophonic /ʿe/ (from *ʿēz) and /ʿa/ (from *ʿanz-)—weaker because they duplicate *306=/ʿa/ territory; the proposed TAMIR comparison is supporting analogy, not independent proof."
+      },
+      "sites": [
+        "Haghia Triada",
+        "Knossos",
+        "Phaistos",
+        "Zakros"
+      ],
+      "sign_number": "*22F",
+      "syllabogram_candidate": false,
+      "syllabogram_exclusion_note": "AB22 (CAP) was listed among 6 'unresolved standard syllabograms' but functions purely as a commodity logogram in Linear A. 14× standalone *22F, 5× standalone CAP, 3× standalone *22M, with only 1 embedded occurrence (ZU-*22F-DI on HT101 — possible acrophonic rebus /ʿe/). Linear B also uses AB22 as an ideogram (CAPf/CAPm), not a syllabogram. Formally excluded from unresolved syllabogram count."
+    },
+    "*21M": {
+      "commodity": "OVISm",
+      "gloss": "ram",
+      "standalone_count": "multiple",
+      "embedded_count": 0,
+      "note": "Male sheep logogram. Part of gendered livestock pair (*21F=ewe/OVISf, *21M=ram/OVISm). WARNING: *21F in the 'signs' section is the /ha/ syllabogram—different physical sign, AB number collision.",
+      "sites": [
+        "Haghia Triada",
+        "Knossos"
+      ],
+      "sign_number": "*21M"
+    },
+    "*22M": {
+      "commodity": "CAPm",
+      "gloss": "he-goat",
+      "semitic_term": "*tayš- (PS), Hebrew tayiš, Arabic tays",
+      "standalone_count": "multiple",
+      "embedded_count": 1,
+      "embedded_contexts": [
+        "rare word-internal occurrence—potential acrophonic use"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Knossos"
+      ],
+      "sign_number": "*22M",
+      "syllabogram_candidate": false,
+      "syllabogram_exclusion_note": "See *22F note. AB22 functions as commodity logogram pair (*22F=CAPf, *22M=CAPm), not a syllabogram."
+    },
+    "*23M": {
+      "commodity": "BOSm",
+      "gloss": "young bull, head of cattle (live livestock)",
+      "semitic_term": "*mūru (PS *muhr- / *mVrVʔ- √m-r-ʾ), Akkadian mūru 'foal; calf' (OAkk. on, CAD M2 229), mīru 'young bull' (OB-SB, CAD M2 109), Ugaritic mru, Hebrew mǝrīʾ 'fatted steer'",
+      "starling_ids": [
+        "#2243",
+        "#2245",
+        "#1084"
+      ],
+      "standalone_count": 7,
+      "embedded_count": 0,
+      "note": "Live head-count logogram: whole numbers only (1-5), never fractions. Complementary to TU = ṯawr 'cattle products' (fractional quantities: 1/16, 1/4, 3/4). Zero tablet overlap between *23M and TU. MU = /mu/ spells mūru's /ū/; mūru keeps its calf sense through Middle and Neo-Assyrian (CAD M2 229–30), so no equine/bovine split is needed. The MU (AB23) base sign abbreviates the onset syllable /mu/ of *mūru.",
+      "sites": [
+        "Haghia Triada",
+        "Gournia",
+        "Khania"
+      ],
+      "sign_number": "*23M"
+    },
+    "*131C": {
+      "commodity": "ACETUM",
+      "gloss": "vinegar",
+      "standalone_count": "multiple",
+      "embedded_count": 0,
+      "sites": [
+        "Haghia Triada"
+      ],
+      "sign_number": "*131C"
+    },
+    "*401": {
+      "commodity": "RUQQÛ",
+      "gloss": "aromatic preparation, perfumed oil",
+      "root": "r-q-ḥ",
+      "semitic_term": "*rVqVḥ- (PS S15), Akkadian ruqqû/rāqiḫu, Hebrew rōqēaḥ/riqqūḥīm, Ugaritic rqḥ/mrqḥt, Phoenician rqḥ",
+      "standalone_count": 0,
+      "embedded_count": 0,
+      "compound_forms": [
+        "*401+RU (×7, Khania)",
+        "*401+RO (×3, KH31/KH91/MI2)",
+        "*401+*304 (×2, HT33/KH12)",
+        "*401+[ ] (×3, broken complement)"
+      ],
+      "sites": [
+        "Khania",
+        "Haghia Triada",
+        "Milos"
+      ],
+      "confidence": 0.5,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "Never standalone—always appears with phonetic complement (+RU, +RO) or compound modifier (+*304). +RU = ruqqû \"perfumed/refined oil\" (initial ru-); +RO = rōqēaḥ \"compounded ointment\" (initial rō-). Both subtypes on KH91 prove distinct products. +*304(pidru) = fat-based aromatic. Co-occurs with CYP, OLE, *308(šamnu), *304(pidru) in aromatic/oil register. Fractional quantities (¹⁄₅, ¹⁄₁₆). 13/15 at Khania. Mutation testing: INERT/CONTEXTUAL_MARK = non-syllabic confirmed.",
+      "sign_number": "*401"
+    },
+    "A319": {
+      "commodity": "unidentified",
+      "gloss": "unidentified commodity or transaction logogram",
+      "legacy_alias": "*904",
+      "unicode": "U+1066B",
+      "unicode_glyph": "𐙫",
+      "total_secure_occurrences": 5,
+      "quantity_associated_count": 3,
+      "sequence_final_count": 2,
+      "contexts": [
+        "HT132: after A-SE and before quantity 5",
+        "HTZd156: twice with quantities 2¼ and 3⅜",
+        "HTZd155: after NA-MA-MA-TI-TI",
+        "HTZd157: after WI-JA-SU-MA-TI-TI"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "status": "UNRESOLVED",
+      "phonetic_value": null,
+      "note": "A319 is the standard designation; *904 is a legacy alias. Never initial or medial in a word: it closes MA-TI-TI (HT Zd 155, 157) or stands before a number (HT 132.1 A319 5; HT Zd 156 A319 2¼, A319 3⅜). A logogram with no sound value, on HT 132 'a probable transaction sign' (Steele 2024, 103). Not *171 (curved top, stem crossbar, forked foot) and not Linear B T (no fractions). Cretan Hieroglyphic comparandum CH 065 (Meissner & Salgarella in Civitillo, Ferrara & Meissner 2024, Table 7.2, p. 152).",
+      "sign_number": "A319"
+    },
+    "*307": {
+      "commodity": "DUBUR",
+      "gloss": "sanctuary, inner sanctum",
+      "root": "d-b-r",
+      "semitic_term": "*dubur- (PS √d-b-r), Akkadian duburu, Hebrew dəbîr",
+      "standalone_count": 17,
+      "confidence": 0.75,
+      "tier": 3,
+      "status": "PROBABLE",
+      "note": "Value from a spelling variant: JA-DI-KI-TE-TE-*307-PU₂-RE (PK Za 8) and JA-DI-KI-TE-TE-DU-PU₂-RE (PK Za 15), *307 in the place of DU. 8/0/0 inscription test (0 LESS READABLE). Forms: VIR+*307 (sanctuary personnel; KH 9, 14, 19), OLE *307 1½ (PE Wy 5, two signs), KU-RO *307 156 (HT 127b), and *307 doubled (A 638) heading the personnel lists HT 85a and HT 97a and HT 36. Montecchi 2008, 315–16 reads A 307 as a transaction sign for distributing rations or payments, A 638 its doubled variant; Uchitel 2006, 75–76 as a general qualification of personnel groups.",
+      "sign_number": "*307"
+    },
+    "*304": {
+      "commodity": "PIDRU",
+      "gloss": "fat, lard, tallow (animal fat)",
+      "root": "p-d-r",
+      "semitic_term": "*pidr- (PS), Akkadian pidrū, Hebrew peder",
+      "standalone_count": 42,
+      "confidence": 0.55,
+      "tier": 2,
+      "status": "SUSPENDED",
+      "note": "+PA complement (6×) confirms /pa/ initial. Commodity ideogram in oil register between OLE and OLIV. || SUSPENDED: the HT82 three-way conflict (transliteratedWords says *304+[ ], the tablet's own glyph is A628 not A653, SigLA reads the position as A653=*401+*304 ligature — a different sign) shows the PIDRU reading rested on the siglum, not the glyph. *304 is read by glyph. The commodity/gloss/root/semitic_term below are the retired PIDRU hypothesis, kept for reference; not an active reading until a facsimile check of the A653/A628 mismatch.",
+      "sign_number": "*304"
+    },
+    "*49": {
+      "commodity": "PALM/TREE",
+      "gloss": "palm/tree or palm produce; TAMIR and phonetic /mi/ are candidate identifications",
+      "root": "t-m-r",
+      "semitic_term": "Hebrew tāmār, Akkadian gišimmaru",
+      "standalone_count": 4,
+      "confidence": 0.45,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "Semantic reading: PALM/TREE, based on the pictorial form and counted administrative contexts. TAMIR is the proposed Semitic lexical name, and /mi/ its proposed syllabic use. Both are speculative: TO-*49-RE yields t-m-r only after /mi/ is assumed, while Linear B tu-*49-mi places *49 beside ordinary MI. Dawmi for HT120 is a contingent name reading.",
+      "sign_number": "*49"
+    },
+    "*188": {
+      "commodity": "BUṬNU",
+      "gloss": "terebinth/pistachio products (resin, mastic, nuts)",
+      "root": "b-ṭ-n",
+      "semitic_term": "*buṭn- (PS), Akkadian buṭnu, Hebrew boṭnâ",
+      "standalone_count": 29,
+      "confidence": 0.72,
+      "tier": 3,
+      "status": "PROBABLE",
+      "note": "High frequency (29×). Compound forms: SU-PU₂-*188 (jar of terebinth), PA₃-*188 (phonetic complement), *188-*308 (terebinth oil).",
+      "sign_number": "*188"
+    },
+    "*308": {
+      "commodity": "pressed oil derivative",
+      "gloss": "pressed oil, oil derivative modifier",
+      "standalone_count": 9,
+      "confidence": 0.45,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "Oil derivative modifier. Appears in compound *188-*308 (terebinth oil). HT123+124a converts OLIV into *308 at about one quarter in four parallel entries (31 → 8 ¹⁄₄, 31 ¹⁄₂ → 8 ³⁄₄, 16 → 4, 15 → 4 ¹⁄₄). Word proposed: šamnu (√š-m-n; PS *šamn-, Akkadian šamnu, Hebrew šemen), which OLE also carries.",
+      "sign_number": "*308"
+    },
+    "*301": {
+      "commodity": "NWY",
+      "gloss": "dwelling, habitation",
+      "root": "n-w-y",
+      "semitic_terms": {
+        "ugaritic": "nawu \"pasture, dwelling\"",
+        "hebrew": "nāweh (נָוֶה) \"habitation, pasture-land\"",
+        "arabic": "nawā \"to settle, dwell\""
+      },
+      "rebus_hypothesis": "*301 logogram yields phonetic /na/ from initial radical of √n-w-y. Logograms can represent any sound within their source word.",
+      "standalone_count": 256,
+      "embedded_count": 32,
+      "embedded_contexts": [
+        "A-TA-I-*301-WA-JA (libation formula verb, 11 att., 5 peak sanctuary sites)",
+        "TA-NA-I-*301-U-TI-NU (3fs + energic variant, IOZa6)",
+        "TA-NA-I-*301-(TI/E) (disputed final sign; PSZa2)",
+        "JA-TA-I-*301-U-JA (3ms variant, APZa1)",
+        "A-NA-TI-*301-WA-JA (IOZa8; ʿAnatī nawaya 'my Anat, my abode', √n-w-y noun)",
+        "*301-WA = nawa \"dwelling\" (independent noun, IOZa4)",
+        "NA-TU-*301-NE (SKOZc1, Skoteino Cave PN)",
+        "TE-*301 (HT8a, HT98a administrative)",
+        "*301-U-RA (HT115a)",
+        "*301+*311 (KH roundels, 10 att.)",
+        "*307+*301 (KH42, sanctuary compound)"
+      ],
+      "confidence": 0.92,
+      "tier": 4,
+      "status": "CONFIRMED",
+      "sites": [
+        "Haghia Triada",
+        "Iouktas",
+        "Khania",
+        "Knossos",
+        "Kophinas",
+        "Palaikastro",
+        "Psykhro",
+        "Skoteino Cave",
+        "Syme",
+        "Tiryns",
+        "Troullos",
+        "Tylissos",
+        "Zakros",
+        "Apodoulou",
+        "Arkhanes",
+        "Armenoi"
+      ],
+      "note": "Core logogram of the peak sanctuary libation formula. 288 total occurrences across 16 sites (256 standalone, 32 embedded). Root √n-w-y \"to dwell, settle\"—the libation verb A-TA-I-*301-WA-JA = ʾata-inawaya \"I make myself a dwelling\" is CONFIRMED across 5 peak sanctuary sites. Independent noun *301-WA = nawa \"dwelling\" at IOZa4. Phonetic value /na/ derived from initial radical. Compare the candidate *49 PALM/TREE → TAMIR → /mi/ hypothesis and the stronger *307=DUBUR complement pattern.",
+      "sign_number": "*301"
+    },
+    "*317": {
+      "commodity": "LIQḤU",
+      "gloss": "receipt(s), offering(s)",
+      "root": "l-q-ḥ",
+      "semitic_term": "Akkadian liqtu, Ugaritic lqḥ, Hebrew miqqāḥ",
+      "standalone_count": 5,
+      "confidence": 0.45,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "5 occurrences across 4 tablets (3 sites). JU+*317+QE on HT89 brackets with /lu/+/qe/ yielding l-...-q frame.",
+      "sign_number": "*317"
+    },
+    "*305": {
+      "commodity": "DABBĀḤŪ",
+      "gloss": "sacrificers (sanctuary personnel)",
+      "root": "d-b-ḥ",
+      "semitic_term": "*ḏabiḥ- (PS √ḏ-b-ḥ), Hebrew zeḇaḥ, Ugaritic dbḥ",
+      "standalone_count": 12,
+      "embedded_count": 8,
+      "confidence": 0.75,
+      "tier": 3,
+      "status": "PROBABLE",
+      "note": "Dual-function: logogram (60%, standalone with quantities 1-90) + syllabogram /da/ (40%, word-embedded). Acrophonic: /da/ → √d-b-ḥ → dabbāḥū. || The logographic reading *305 = DABBĀḤŪ 'sacrificers' stands at PROBABLE 0.75, as in the lexicon; the syllabic value /ḏa/ is speculative.",
+      "sign_number": "*305"
+    },
+    "*516": {
+      "commodity": "SIPRU",
+      "gloss": "account, record, register",
+      "root": "s-p-r",
+      "semitic_term": "*sipru (PS √s-p-r), Akkadian šipru, Hebrew sēper/sōpēr",
+      "standalone_count": 0,
+      "embedded_count": 2,
+      "embedded_contexts": [
+        "SI-*516 (phonetic complement + logogram)",
+        "ZA11b: E-TO-RI · *516 (Zakros accounting context)"
+      ],
+      "confidence": 0.55,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "sites": [
+        "Zakros"
+      ],
+      "note": "Administrative logogram. √s-p-r \"to count, record\"—Hebrew sēper/sōpēr \"book/scribe\", Akkadian šipru \"sending, message\". Phonetic complement SI- confirms initial /s/.",
+      "sign_number": "*516"
+    },
+    "*312": {
+      "commodity": "KITNU (flax/linen)",
+      "gloss": "flax/linen (√k-t-n); inside a word it writes KI, the first syllable of kitnu",
+      "root": "k-t-n",
+      "semitic_term": "*kitn- (PS), Ugaritic ktn, Akkadian kitû, Hebrew kuttōnet, Greek χιτών (loanword)",
+      "standalone_count": 4,
+      "embedded_count": 1,
+      "embedded_contexts": [
+        "TELA+*312 (HT38)"
+      ],
+      "rebus_hypothesis": "KI (acrophonic, first syllable of kitnu)—*312-TE-TE = KI-TE-TE kitītu on HT26a; SPECULATIVE",
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Arkhanes",
+        "Zakros"
+      ],
+      "confidence": 0.45,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "9 corpus contexts: 4 standalone (HT49a, HT123+124b, KH8, ARKH3a), 4 in words (*312-TA, *312-TE-TE, MU-*312, *312-TA₂), 1 compound (TELA+*312, HT38), which ties the sign to cloth. KI-TA-NA 'linen' is spelled out on PEZb3. In *312-TE-TE (HT26a) the logogram writes KI, the first syllable of kitnu, as *307 writes DU in *307-PU₂-RE: KI-TE-TE = Akk. kitītu (CAD K 466). Standard KI beside standalone *312 on HT49a does not block this, since *312 stands for its syllable only inside a word. ZA6b *312-TA₂ GRA+PA 40 is an entry receiving grain, set out like I-KU-JU-TI-*28B GRA+PA 50¼ above it, not a grain heading. MU-*312 (HT78) stands alone on a fragment. Alternative: MANÛ 'measure/portion' (√m-n-y).",
+      "sign_number": "*312"
+    },
+    "*406VAS": {
+      "commodity": "KĀS",
+      "gloss": "cup, drinking vessel (specific vessel type)",
+      "root": "k-ʾ-s",
+      "semitic_term": "*kaʾs- (PS #297), Akkadian kāsu, Hebrew kōs, Arabic kaʾs",
+      "standalone_count": 1,
+      "embedded_count": 0,
+      "compound_forms": [
+        "*406VAS+KE (HT26a, HT26b)"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "confidence": 0.45,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "Pictographic vessel ideogram. Always appears with +KE phonetic complement on HT26 (both sides, as tablet header). Bare form *406-VS on HT93a (alongside DA-RI-DA, qty 2). KE complement indicates initial syllable of vessel word: PS *kaʾs- \"vessel for beer, bowl\" → NWS *kēs (vowel fronting from medial aleph) → KE. KA-SI on HTWa1027 nodule may be the syllabic spelling of the same word (skeleton k-s, distance 0.000).",
+      "sign_number": "*406VAS"
+    },
+    "*412": {
+      "commodity": "ʔIGĀN",
+      "gloss": "bowl, basin (large open vessel for liquids)",
+      "root": "ʔ-g-n",
+      "semitic_term": "*ʔigān- (PS #1358), Akkadian agannu, Hebrew ʔaggān, Arabic ʔiggānat-",
+      "standalone_count": 0,
+      "embedded_count": 0,
+      "compound_forms": [
+        "*412+E (×3, MA10a/b/c Malia)",
+        "TI+*412VAS (×1, MA10b Malia)",
+        "*412-VS-VIN (×1, PH9b Phaistos)"
+      ],
+      "sites": [
+        "Malia",
+        "Phaistos"
+      ],
+      "confidence": 0.45,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "Commodity ideogram on MA10 4-sided bar (all 4 faces) alongside *413+SU, *405+Ω, *402+A, *414+F—a catalog of complemented ideograms. PS *ʔigān- 'cup, bowl': Arabic preserves /i/-class vowel (ʔiggānat-); NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/. Hebrew shifted to /a/ (ʔaggān, Exod 24:6, Song 7:3, Isa 22:24). PH9b *412-VS-VIN = wine bowl. Distinct from *406VAS=KĀS (cup)—ʔaggān is larger basin type. TI+*412VAS = subtype (TI prefix, cf. Linear B variety marking).",
+      "sign_number": "*412"
+    },
+    "*316": {
+      "commodity": "KIŠŠANU",
+      "gloss": "bean, legume (food commodity in ration allocations)",
+      "root": "k-š-n",
+      "semitic_term": "*kiššanu (Akkadian, CAD K 454)",
+      "standalone_count": 4,
+      "embedded_count": 0,
+      "compound_forms": [
+        "*316+KI (×2, KHWa1001/1002 Khania nodules)"
+      ],
+      "sites": [
+        "Khania",
+        "Phaistos"
+      ],
+      "confidence": 0.25,
+      "tier": 1,
+      "status": "SPECULATIVE",
+      "note": "Commodity ideogram *316 (6 att., Khania + Phaistos). KI complement on nodules KHWa1001/1002 gives initial syllable /ki/. On KH91, positioned between VIN (wine) and NI (figs) in a rations list alongside GRA and *401+RU/RO—food commodity context. On PH1a, allocated to named individuals with CYP. Akkadian kiššanu 'bean' (CAD K 454); no Hebrew or Ugaritic reflexes confirmed.",
+      "sign_number": "*316"
+    },
+    "SI+SE": {
+      "commodity": "UNIDENTIFIED_ENTITY_OR_CATEGORY",
+      "gloss": "administrative entity or category; speculative comparison with Ugaritic Šapšu",
+      "root": "š-p-š",
+      "semitic_term": "Šapšu (Ugaritic špš 'sun; Sun, DN', DULAT 824)",
+      "standalone_count": 2,
+      "embedded_count": 0,
+      "compound_forms": [
+        "SI+SE-NI (×1, HT99b — -NI gentilic suffix)",
+        "SI+SE-RA+KA (×1, HTWa1021 — morphological extension)"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "confidence": 0.3,
+      "tier": 1,
+      "status": "SPECULATIVE",
+      "note": "The exact standalone ligature occurs on HT116a and HT42+59 as a quantified administrative entity or category. The expanded forms SI+SE-NI and SI+SE-RA+KA are separate morphological evidence and do not prove a standalone logographic value. Ugaritic Šapšu remains a speculative comparison, because the proposed outer-consonant abbreviation š…š omits medial /p/ and is not independently established for SI+SE. Oil allocations do not by themselves identify a solar deity or cultic context.",
+      "sign_number": "SI+SE"
+    },
+    "E": {
+      "commodity": "ḥemʾat",
+      "gloss": "butter, ghee, cream (dairy fat)",
+      "standalone_count": 10,
+      "embedded_count": 0,
+      "compound_forms": [
+        "CYP+E (14×)",
+        "OLE+E (4×)",
+        "GRA+E (2×)"
+      ],
+      "semitic_terms": [
+        {
+          "term": "*ḥemʾat-",
+          "root": "√ḥ-m-ʾ",
+          "gloss": "butter, ghee, cream",
+          "reflexes": "Hebrew ḥemʾā (Gen 18:8, Deut 32:14, Judg 5:25, Isa 7:15), Ugaritic ḥmʾt (KTU 1.4 III), Akkadian ḫimētu (palace ration lists, Ur III–NB), Arabic ḥamʾa",
+          "phonology": "Initial ḥ drops (guttural dropping) → /emʾat/ → E as logographic abbreviation"
+        }
+      ],
+      "confidence": "CANDIDATE",
+      "note": "Pure vowel sign — no consonant skeleton, so standard root-matching inapplicable. Identified via distributional analysis: 80% numeral-following (8/10), 3 sites (HT, KN, ZA), late position in oil-heavy commodity sequences. Cross-commodity modifier (CYP+E, OLE+E, GRA+E) consistent with dairy fat as parallel fat category to olive oil. Cognate attested across all major Semitic branches. Deut 32:14 ḥemʾat bāqār is the exact construct form this logogram would abbreviate. Clarified butter (ghee) is the natural stored dairy commodity in warm-climate palace economies."
+    },
+    "TI": {
+      "commodity": "TIʔIN",
+      "gloss": "figs (abbreviation of TI-NI)",
+      "root": "t-ʔ-n",
+      "semitic_term": "*tiʔin- (PS SED I #260), Akkadian tittu/tiʔittu/tīnātu, Ugaritic tʔn, Hebrew tǝʔēnā, Arabic tīn-, Phoenician (unvocalized)",
+      "standalone_count": 12,
+      "embedded_count": 0,
+      "compound_forms": [],
+      "sites": [
+        "Haghia Triada",
+        "Malia",
+        "Phaistos",
+        "Palaikastro",
+        "Pyrgos",
+        "Zakros"
+      ],
+      "confidence": 0.4,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone with quantities. Abbreviation of TI-NI = tiʔin 'figs' (CANDIDATE, lexicon). 12 standalone across 11 tablets, 6 sites. 58% followed by numerals. Quantities: ¼, 1, 2, 7, 13, 13, 100. Key evidence: ZA12a/b commodity cluster (TI 13 on both faces alongside PA and RU); PH30 fractional quantity (TI ¼); HT154 bulk quantity (*516 TI 100). Pan-Semitic *tiʔin- attestation (Akk, Ug, Heb, Ar, Phoen) confirms figs as inherited core vocabulary. Appears in Deut 8:8 Seven Species. Pictographic evidence absent (AB04 is not botanical), but the TI-NI compound provides the semantic anchor.",
+      "sign_number": "AB04"
+    },
+    "QE": {
+      "commodity": "QÊ",
+      "gloss": "measure unit (qê, Akkadian genitive of qû ≈ 1.2 liters)",
+      "root": "q-b-b",
+      "semitic_term": "PS *qab(b)- → Akkadian qû (CAD Q 294), gen. qê; Hebrew qab (HALOT 1060, 2 Kgs 6:25)",
+      "standalone_count": 7,
+      "embedded_count": 8,
+      "embedded_contexts": [
+        "KU-MI-NA-QE (cumin-measure, 2x)",
+        "KA-PA-QE (1x)",
+        "SA-RO-QE (1x)",
+        "PA-NU-QE (1x)",
+        "*402-VS-PA-TA-QE (1x)",
+        "JA-QE (1x)",
+        "E-TA₂-QE (1x)"
+      ],
+      "rebus_hypothesis": "Metrological logogram borrowed from Akkadian administrative register. Akkadian gen. form qê is the construct-chain form heard in ration texts (\"5 qê šamni\" = \"5 measures of oil\"). Functions both as standalone logogram (QE + numeral) and as bound suffix on commodity nouns (NOUN-QE = \"a qê-measure of NOUN\").",
+      "sites": [
+        "Haghia Triada",
+        "Khania",
+        "Palaikastro",
+        "Zakros"
+      ],
+      "confidence": 0.45,
+      "tier": 2,
+      "status": "CANDIDATE",
+      "note": "Dual-function sign: syllabogram /qe/ (AB78) + metrological logogram QÊ when standalone or suffixed to commodity nouns. 7 standalone across 5 tablets (4 sites), always followed by numerals (3, 17, 21, 30). 8 suffix attestations on 7 distinct words. Key evidence: HTWc3014 roundel KU-MI-NA-QE + CAP = \"a measure of cumin + goats\" (commodity transaction tag). Suffixal behavior distinguishes QÊ from other commodity logograms — it modifies the preceding noun rather than standing alone as a commodity category. PS *qab(b)- \"dry/liquid measure\" (Starling #2827, domain: Metrology).",
+      "sign_number": "AB78"
+    },
+    "GRA": {
+      "logographic_value": {
+        "reading": "dagān",
+        "meaning": "grain, cereal",
+        "confidence": "CANDIDATE",
+        "evidence": "GRA+DA phonetic complement (HT133); 4× A-DU co-occurrence; pan-Semitic *dagān"
+      }
+    },
+    "VIN": {
+      "logographic_value": {
+        "reading": "wayn",
+        "meaning": "wine",
+        "confidence": "PROBABLE",
+        "evidence": "VIN+WA phonetic complement (HT27b); pan-Semitic *wayn-. Independently validated by Salgarella 2022 (Mix and Match): confirms VIN+WA as phonetic complement and proposes Minoan word for wine began with /wa/, consistent with Semitic *wayn-."
+      }
+    },
+    "OLE": {
+      "logographic_value": {
+        "reading": "šamnu",
+        "meaning": "oil, olive oil",
+        "confidence": "CANDIDATE",
+        "evidence": "*308 = ŠAMNU (pressed oil derivative) confirms š-m-n root; 18 compound sub-types; pan-Semitic *šamnu"
+      }
+    },
+    "OLIV": {
+      "logographic_value": {
+        "reading": "zayt",
+        "meaning": "olive (fruit)",
+        "confidence": "CANDIDATE",
+        "evidence": "OLIV distinct from OLE (fruit vs oil) on same tablets; HT123+124a olive processing; pan-Semitic *zayt"
+      }
+    },
+    "A341": {
+      "logographic_value": {
+        "reading": "RADix",
+        "meaning": "plant root (base logogram in composite signs, never attested independently)",
+        "confidence": "CANDIDATE",
+        "evidence": "Salgarella et al. 2025: lower S-shaped element shared by LA A646 and LB *157. Functions as base logogram for 'root' in composites. Acrophonic principle: upper syllabogram abbreviates commodity word."
+      }
+    },
+    "A646": {
+      "logographic_value": {
+        "reading": "A341+PI",
+        "meaning": "root commodity (spice/root product); acrophonic PI indicates Minoan word for 'root' began with /pi/",
+        "confidence": "CANDIDATE",
+        "evidence": "Salgarella et al. 2025, HT 33: composite of A341 (RADix base) + PI (upper syllabogram). LB parallel *157 = A341 + AB40/wi (abbreviating wi-ri-za 'root'). LA uses PI instead, indexing the Minoan word."
+      }
+    },
+    "A559": {
+      "logographic_value": {
+        "reading": "MARU",
+        "meaning": "wool",
+        "confidence": "CANDIDATE",
+        "evidence": "Salgarella 2022 (Mix and Match): A559 = MA+RU composite. Bottom-up reading (biggest sign = MA, then RU). The same ligature is the Linear B wool logogram *145 LANA. Nosch & Weilhartner 2026 confirm wool logogram. 9 tokens: HT12, HT24a (×4), KH43, PH3a, THE8."
+      }
+    },
+    "*131B": {
+      "commodity": "TIRŌŠU",
+      "gloss": "must/new wine (unfermented or partially fermented grape juice)",
+      "root": "t-r-š",
+      "semitic_term": "Hebrew tīrōš (תִּירוֹשׁ), Ugaritic trṯ 'new wine' (DULAT 867)",
+      "standalone_count": 4,
+      "embedded_count": 0,
+      "sites": [
+        "Arkhanes",
+        "Zakros"
+      ],
+      "confidence": 0.3,
+      "tier": 1,
+      "status": "SPECULATIVE",
+      "note": "Wine-variant logogram. AB131 family: VIN (AB131) = wine (*wayn*), *131B = must (*tirōšu*), *131C = vinegar (ACETUM). 4 attestations: ARKH2, ARKH3a, ARKH5, ZA10b. Consistently paired with quantities in allocation lists alongside GRA and OLIV, mirroring the biblical dāgān-tīrōš-yiṣhār triad (Deut 7:13). Modest quantities (2–6 units) fit must as a less-abundant commodity than standard wine. Recurs in the Arkhanes ration formula (recipient + GRA/*131B + quantity): ARKH2 and ARKH5, beside GRA on ARKH5. No syllabic spelling of the word is known, and Ugaritic has trṯ, not trš. Rival: SigLA codes all four tokens VINb, a variant of VIN.",
+      "sign_number": "*131B"
+    },
+    "*322": {
+      "commodity": "PIRRI",
+      "gloss": "fruit",
+      "root": "p-r-y",
+      "semitic_term": "*pir- (PS #756), Hebrew pǝrī, Ugaritic pr, Phoenician pr, Arabic θamar (semantic parallel)",
+      "standalone_count": 3,
+      "confidence": 0.2,
+      "tier": 1,
+      "status": "SPECULATIVE",
+      "note": "3× standalone on Khania roundels (KHWc2026, KHWc2027, KHWc2098) = commodity logogram behavior. 1× syllabic *322-RI on HT11a = phonetic complement confirming word ends in /-ri/. PS *pir- 'fruit' (Hebrew pǝrī, Ugaritic pr) is the strongest NWS commodity ending in -rī. Compare DUBUR and BUṬNU; *49 PALM/TREE → TAMIR is only a candidate parallel. HT11a context: land-allocation tablet alongside A-RU-RA 'arable land' and KA-RO-NA 'horn'—fruit fits agricultural allocation.",
+      "sign_number": "*322"
+    },
+    "*309": {
+      "commodity": "KIKKARU",
+      "gloss": "round (loaf/disc/talent-weight); on TY2 most plausibly bread-rounds in ration quantities",
+      "root": "k-k-r",
+      "semitic_term": "Hebrew kikkār 'round loaf, talent, disc' (kikkar leḥem Exod 29:23, 1 Sam 2:36); Akkadian kakkaru; Ugaritic kkr 'talent'",
+      "standalone_count": 3,
+      "embedded_count": 8,
+      "compound_forms": [
+        "*309B-*34-PU-PI (500)",
+        "*309B-KI-PU (50)",
+        "*309-DA-PU-[?] (10; lost sign after PU, GORILA I 325)",
+        "*309-RU-JU-KI (100, after PA-DA; RU written on top of *309, GORILA I 325)",
+        "*309-RI-JU",
+        "*309C-DA-[?]-JU (17[ ]; middle sign lost, GORILA I 325)",
+        "*309C-[?]-RU-KA (30; AB53 hook on top of *309C unread, GORILA I 325)",
+        "*309-[?]-WA-JU (about 160 in GORILA's facsimile transcription, 80 normalized)",
+        "*309B-[?]-JU (250; lost sign above *309B, GORILA I 325)"
+      ],
+      "sites": [
+        "Tylissos"
+      ],
+      "confidence": 0.35,
+      "tier": 1,
+      "status": "SPECULATIVE",
+      "note": "Circle-based sign family, site-unique to TY2 (11 tokens): plain circle = *309, interior-marked variants = *309B/*309C (SigLA drawing). Pictograph matches the word's core sense—kikkār is 'a round.' Phonetic-spelling anchor: KE-KI-RU = kikkaru PROBABLE 0.7 at HT94b. B carries the largest counts (500, 250); C takes 17[ ] and 30, but plain *309 takes the smallest counts (10, 6), so the variants are not a size grade on this evidence. Ration arithmetic sane: Σ*309 = 1,413 rounds (1,333 if line 5 reads 80) vs VIR+[?] 84 ≈ 17 per man; as metal talents 500 units ≈ 15 tons, implausible at Tylissos. Suffix strings form two families (-PU set: *34-PU-PI/KI-PU/DA-PU; -JU set: JU-KI/RI-JU/DA-[?]-JU/[?]-WA-JU), qualifiers unresolved. Prior v3 phonetic solver: no signal.",
+      "sign_number": "*309"
+    },
+    "*118": {
+      "commodity": "talent, the largest weight unit",
+      "gloss": "talent",
+      "standalone_count": 3,
+      "embedded_count": 26,
+      "embedded_contexts": [
+        "word-internal = syllabic ṬA (speculative); a dual-function sign, read by position"
+      ],
+      "sites": [
+        "Haghia Triada",
+        "Knossos"
+      ],
+      "confidence": 0.75,
+      "status": "PROBABLE",
+      "sign_number": "*118",
+      "note": "Standalone arm only: after a commodity sign and before a numeral (HT12 wool, HT24b ×3 with 1¾, HT38, KN2), the talent, as Linear B *118 L (Bartoněk 2003, 126; Killen 2024, 141). HT24b totals 4½; the recto wool total, restored as 45, gives the Linear B ratio of 10 to the talent (Del Freo 2020, 56)."
+    },
+    "QA2+[?]+PU": {
+      "commodity": "precious liquid (aromatic-oil class), unidentified",
+      "gloss": "[paired precious-liquid commodity logogram]",
+      "standalone_count": 6,
+      "embedded_count": 0,
+      "sites": [
+        "Haghia Triada"
+      ],
+      "attestations": [
+        "HT23b",
+        "HT30",
+        "HT32",
+        "HT34",
+        "HT35",
+        "HT60"
+      ],
+      "confidence": 0.5,
+      "status": "CANDIDATE",
+      "note": "Coordinated pair with QA2+[?]+RE — 14/14 occurrences in Villa Magazine liquid registers, adjacent slots on HT23b/HT32/HT34/HT60, small-fraction-only metrology (1/16–1/24); + QA2+[?]+RE+PU ×3 (HT33, HT45b). Middle ligature unread; specific commodity NO READING. Firming test: GORILA Vol. 1 facsimile of the ligature."
+    },
+    "QA2+[?]+RE": {
+      "commodity": "precious liquid (aromatic-oil class), unidentified",
+      "gloss": "[paired precious-liquid commodity logogram]",
+      "standalone_count": 5,
+      "embedded_count": 0,
+      "sites": [
+        "Haghia Triada"
+      ],
+      "attestations": [
+        "HT23b",
+        "HT32",
+        "HT33",
+        "HT34",
+        "HT60"
+      ],
+      "confidence": 0.5,
+      "status": "CANDIDATE",
+      "note": "Coordinated pair with QA2+[?]+PU — 14/14 occurrences in Villa Magazine liquid registers, adjacent slots on HT23b/HT32/HT34/HT60, small-fraction-only metrology (1/16–1/24); + QA2+[?]+RE+PU ×3 (HT33, HT45b). Middle ligature unread; specific commodity NO READING. Firming test: GORILA Vol. 1 facsimile of the ligature."
+    }
+  },
+  "fractions": {
+    "description": "A700-series klasmatogram values, from a blind arithmetic constraint-solve on 11 anchor tablets, reconciled against Corazza, Ferrara, Montecchi, Tamburini & Valério 2021 (JAS 125:105214). Composites are additive; every attested composite < 1.",
+    "signs": {
+      "J": {
+        "a_number": "A707",
+        "value": "1/2",
+        "status": "CONFIRMED",
+        "tier": 4,
+        "confidence": 0.95,
+        "note": "Pinned uniquely by anchor arithmetic (HT104: 94+2J=95) across all co-optimal assignments; independently Corazza et al. 2021 C1/consensus."
+      },
+      "E": {
+        "a_number": "A704",
+        "value": "1/4",
+        "status": "PROBABLE",
+        "tier": 3,
+        "confidence": 0.8,
+        "note": "Corazza C1 consensus; anchors indeterminate (HT9a residual = -(J+E), omitted-entry class)."
+      },
+      "F": {
+        "a_number": "A705",
+        "value": "1/8",
+        "status": "PROBABLE",
+        "tier": 3,
+        "confidence": 0.8,
+        "note": "Corazza C1 consensus; HT Zd 156 halving series."
+      },
+      "D": {
+        "a_number": "A703",
+        "value": "1/6",
+        "status": "PROBABLE",
+        "tier": 3,
+        "confidence": 0.75,
+        "note": "Corazza optimal (28/28 best solutions); DD=1/3, DDDD=2/3. Supersedes GORILA 1/5 rendering and 'double mina' gloss for DD."
+      },
+      "B": {
+        "a_number": "A702",
+        "value": "1/5",
+        "status": "PROBABLE",
+        "tier": 3,
+        "confidence": 0.75,
+        "note": "Corazza optimal; KH 7a proportion B:4=J:10. Supersedes GORILA 1/3 rendering."
+      },
+      "K": {
+        "a_number": "A708",
+        "value": "1/10",
+        "status": "PROBABLE",
+        "tier": 3,
+        "confidence": 0.7,
+        "note": "Corazza strong; decimal-sexagesimal subset; LB *112/T shape parallel."
+      },
+      "H": {
+        "a_number": "A706",
+        "value": "1/16",
+        "status": "CANDIDATE",
+        "tier": 2,
+        "confidence": 0.5,
+        "note": "DISPUTED: HT123+124a *308-column (damaged) demands H=A+1/4, incompatible with Corazza top-28 space. Adopted provisionally; resolve via source-image re-read."
+      },
+      "A": {
+        "a_number": "A701",
+        "value": "1/24",
+        "status": "CANDIDATE",
+        "tier": 2,
+        "confidence": 0.5,
+        "note": "DISPUTED: paired with H in the *308-column conflict. Corazza tentative (AA=1/12 sexagesimal)."
+      },
+      "L2": {
+        "a_number": "A709-2",
+        "value": "1/20",
+        "status": "PROBABLE",
+        "tier": 3,
+        "confidence": 0.7,
+        "note": "Divisive L-series (Corazza C6)."
+      },
+      "L3": {
+        "a_number": "A709-3",
+        "value": "1/30",
+        "status": "CANDIDATE",
+        "tier": 2,
+        "confidence": 0.6,
+        "note": "L-series relation; 3 attestations."
+      },
+      "L4": {
+        "a_number": "A709-4",
+        "value": "1/40",
+        "status": "CANDIDATE",
+        "tier": 2,
+        "confidence": 0.6,
+        "note": "L-series relation; 2 attestations."
+      },
+      "L6": {
+        "a_number": "A709-6",
+        "value": "1/60",
+        "status": "CANDIDATE",
+        "tier": 2,
+        "confidence": 0.6,
+        "note": "L-series relation; 2 attestations."
+      },
+      "X": {
+        "a_number": "A711",
+        "value": "1/12",
+        "status": "CANDIDATE",
+        "tier": 2,
+        "confidence": 0.55,
+        "note": "Probably ligature AA (LB *116/N=1/12 shape). Our KI-RO-column structure independently infeasible for X as large fraction."
+      },
+      "W": {
+        "a_number": "A710",
+        "value": "2/5",
+        "status": "SPECULATIVE",
+        "tier": 1,
+        "confidence": 0.4,
+        "note": "Probably ligature BB."
+      },
+      "L": {
+        "a_number": "A709",
+        "value": null,
+        "status": "REJECTED",
+        "tier": 0,
+        "confidence": null,
+        "note": "Corazza statistical exclusion (Spearman + chi-squared); single anomalous attestation."
+      },
+      "Y": {
+        "a_number": "A712",
+        "value": null,
+        "status": "OPEN",
+        "tier": 0,
+        "confidence": null,
+        "note": "4 attestations, MM II only; EYYY implies Y<1/4."
+      },
+      "OMEGA": {
+        "a_number": "A713",
+        "value": null,
+        "status": "OPEN",
+        "tier": 0,
+        "confidence": null,
+        "note": "Single doubtful CH/LA attestation (MA 10b); possibly CH fraction 304."
+      }
+    },
+    "composites_attested": {
+      "JE": "3/4",
+      "DD": "1/3",
+      "DDDD": "2/3",
+      "BB": "2/5",
+      "EF": "3/8",
+      "KL2": "3/20",
+      "EL2": "3/10",
+      "JB": "7/10",
+      "JEL2": "4/5",
+      "JL2": "11/20",
+      "AA": "1/12"
+    },
+    "source": "di Mino"
+  }
+}

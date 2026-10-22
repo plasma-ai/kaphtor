@@ -1,0 +1,2723 @@
+{
+  "schema_version": 1,
+  "source": "Huehnergard 2019, Table 3.2 (p. 51)",
+  "notation": "Traditional notation; *ṯ=*θ, *ḏ=*ð, *ẓ=*θʼ, *š=*s, *s=*ʦ, *z=*ʣ, *ṣ=*ʦʼ, *ś=*ɬ, *ṣ́=*(t)ɬʼ. '?' marks Huehnergard's own uncertainty; 'Ø' is loss; 'x > y' gives an earlier and a later reflex.",
+  "disputed_phonemes": [
+    "*x̣"
+  ],
+  "branches": [
+    "Akkadian",
+    "Ugaritic",
+    "Hebrew",
+    "Aramaic",
+    "Arabic",
+    "Sabaic",
+    "Geez",
+    "Mehri"
+  ],
+  "proxies": {
+    "Eblaitic": "Akkadian",
+    "Phoenician": "Hebrew",
+    "Punic": "Hebrew",
+    "Canaanite": "Hebrew",
+    "Amorite": "Hebrew",
+    "Aramaic": "Aramaic",
+    "Biblical Aramaic": "Aramaic",
+    "Judaic Aramaic": "Aramaic",
+    "Syrian Aramaic": "Aramaic",
+    "Mandaic Aramaic": "Aramaic",
+    "Modern Aramaic": "Aramaic",
+    "Modern Arabic": "Arabic",
+    "Epigraphic South Arabian": "Sabaic",
+    "Tigre": "Geez",
+    "Tigrinya": "Geez",
+    "Amharic": "Geez",
+    "Harari": "Geez",
+    "Argobba": "Geez",
+    "Gafat": "Geez",
+    "Gurage": "Geez",
+    "East Ethiopic": "Geez",
+    "Jibbali": "Mehri",
+    "Harsusi": "Mehri",
+    "Soqotri": "Mehri"
+  },
+  "proxy_note": "Approximation: the language is checked against the named column. Known divergences are not modelled (e.g. Phoenician/Punic merge ś with š; Aramaic dialects after Syriac; Ethiopian and Modern South Arabian languages beyond Gəʿəz and Mehri).",
+  "forward": {
+    "*ʾ": {
+      "Akkadian": {
+        "printed": "Ø/ʾ",
+        "alternants": [
+          "Ø",
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ʾ",
+        "alternants": [
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ʾ",
+        "alternants": [
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ʾ",
+        "alternants": [
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ʾ",
+        "alternants": [
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ʾ",
+        "alternants": [
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ʾ",
+        "alternants": [
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "Ø",
+        "alternants": [
+          "Ø"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ʿ": {
+      "Akkadian": {
+        "printed": "Ø/ʾ",
+        "alternants": [
+          "Ø",
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ʿ/ʾ",
+        "alternants": [
+          "ʿ",
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*b": {
+      "Akkadian": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "b",
+        "alternants": [
+          "b"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*d": {
+      "Akkadian": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ḏ": {
+      "Akkadian": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "d/ḏ",
+        "alternants": [
+          "d",
+          "ḏ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "d",
+        "alternants": [
+          "d"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ḏ",
+        "alternants": [
+          "ḏ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ḏ",
+        "alternants": [
+          "ḏ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ḏ",
+        "alternants": [
+          "ḏ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*z": {
+      "Akkadian": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "z",
+        "alternants": [
+          "z"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*g": {
+      "Akkadian": {
+        "printed": "g",
+        "alternants": [
+          "g"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "g",
+        "alternants": [
+          "g"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "g",
+        "alternants": [
+          "g"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "g",
+        "alternants": [
+          "g"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ǧ",
+        "alternants": [
+          "ǧ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "g",
+        "alternants": [
+          "g"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "g",
+        "alternants": [
+          "g"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "g",
+        "alternants": [
+          "g"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ġ": {
+      "Akkadian": {
+        "printed": "Ø/ʾ/ḫ",
+        "alternants": [
+          "Ø",
+          "ʾ",
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ġ",
+        "alternants": [
+          "ġ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ġ",
+        "alternants": [
+          "ġ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ġ",
+        "alternants": [
+          "ġ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ġ",
+        "alternants": [
+          "ġ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*h": {
+      "Akkadian": {
+        "printed": "Ø/ʾ",
+        "alternants": [
+          "Ø",
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ḥ": {
+      "Akkadian": {
+        "printed": "Ø/ʾ",
+        "alternants": [
+          "Ø",
+          "ʾ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*y": {
+      "Akkadian": {
+        "printed": "Ø/ʾ/y",
+        "alternants": [
+          "Ø",
+          "ʾ",
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "y",
+        "alternants": [
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "y",
+        "alternants": [
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "y",
+        "alternants": [
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "y",
+        "alternants": [
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "y",
+        "alternants": [
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "y",
+        "alternants": [
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "y",
+        "alternants": [
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*k": {
+      "Akkadian": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "k",
+        "alternants": [
+          "k"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*q": {
+      "Akkadian": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "q",
+        "alternants": [
+          "q"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*l": {
+      "Akkadian": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "l",
+        "alternants": [
+          "l"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ś": {
+      "Akkadian": {
+        "printed": "š",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "š?",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": true
+      },
+      "Hebrew": {
+        "printed": "ś",
+        "alternants": [
+          "ś"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "š",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "s₂",
+        "alternants": [
+          "s₂"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ś > s",
+        "alternants": [
+          "ś",
+          "s"
+        ],
+        "later": "s",
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ś",
+        "alternants": [
+          "ś"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ṣ́": {
+      "Akkadian": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ṣ?",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": true
+      },
+      "Hebrew": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ʿ",
+        "alternants": [
+          "ʿ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ḍ",
+        "alternants": [
+          "ḍ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ṣ́",
+        "alternants": [
+          "ṣ́"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ḍ > ṣ",
+        "alternants": [
+          "ḍ",
+          "ṣ"
+        ],
+        "later": "ṣ",
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ź",
+        "alternants": [
+          "ź"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*m": {
+      "Akkadian": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "m",
+        "alternants": [
+          "m"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*n": {
+      "Akkadian": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "n",
+        "alternants": [
+          "n"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*p": {
+      "Akkadian": {
+        "printed": "p",
+        "alternants": [
+          "p"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "p",
+        "alternants": [
+          "p"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "p",
+        "alternants": [
+          "p"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "p",
+        "alternants": [
+          "p"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "f",
+        "alternants": [
+          "f"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "f",
+        "alternants": [
+          "f"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "f",
+        "alternants": [
+          "f"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "f",
+        "alternants": [
+          "f"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*r": {
+      "Akkadian": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "r",
+        "alternants": [
+          "r"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*š": {
+      "Akkadian": {
+        "printed": "š",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "š?",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": true
+      },
+      "Hebrew": {
+        "printed": "š",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "š",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "s₁",
+        "alternants": [
+          "s₁"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "h",
+        "alternants": [
+          "h"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*t": {
+      "Akkadian": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ṭ": {
+      "Akkadian": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*s": {
+      "Akkadian": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "s?",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": true
+      },
+      "Hebrew": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "s₃",
+        "alternants": [
+          "s₃"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ṣ": {
+      "Akkadian": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ṣ?",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": true
+      },
+      "Hebrew": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ṯ": {
+      "Akkadian": {
+        "printed": "š",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ṯ?",
+        "alternants": [
+          "ṯ"
+        ],
+        "later": null,
+        "uncertain": true
+      },
+      "Hebrew": {
+        "printed": "š",
+        "alternants": [
+          "š"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "t",
+        "alternants": [
+          "t"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ṯ",
+        "alternants": [
+          "ṯ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ṯ",
+        "alternants": [
+          "ṯ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "s",
+        "alternants": [
+          "s"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ṯ",
+        "alternants": [
+          "ṯ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ẓ": {
+      "Akkadian": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ẓ/ġ",
+        "alternants": [
+          "ẓ",
+          "ġ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ṭ",
+        "alternants": [
+          "ṭ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ẓ",
+        "alternants": [
+          "ẓ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ẓ",
+        "alternants": [
+          "ẓ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ṣ",
+        "alternants": [
+          "ṣ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ḏ̣",
+        "alternants": [
+          "ḏ̣"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*w": {
+      "Akkadian": {
+        "printed": "w",
+        "alternants": [
+          "w"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "w/y",
+        "alternants": [
+          "w",
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "w/y",
+        "alternants": [
+          "w",
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "w/y",
+        "alternants": [
+          "w",
+          "y"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "w",
+        "alternants": [
+          "w"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "w",
+        "alternants": [
+          "w"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "w",
+        "alternants": [
+          "w"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "w",
+        "alternants": [
+          "w"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*ḫ": {
+      "Akkadian": {
+        "printed": "ḫ",
+        "alternants": [
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ḫ",
+        "alternants": [
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ḫ",
+        "alternants": [
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ḫ",
+        "alternants": [
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ḫ",
+        "alternants": [
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ḫ",
+        "alternants": [
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    },
+    "*x̣": {
+      "Akkadian": {
+        "printed": "ḫ",
+        "alternants": [
+          "ḫ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Ugaritic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Hebrew": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Aramaic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Arabic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Sabaic": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Geez": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      },
+      "Mehri": {
+        "printed": "ḥ",
+        "alternants": [
+          "ḥ"
+        ],
+        "later": null,
+        "uncertain": false
+      }
+    }
+  },
+  "reverse": {
+    "Akkadian": {
+      "Ø": [
+        "*ʾ",
+        "*ʿ",
+        "*ġ",
+        "*h",
+        "*ḥ",
+        "*y"
+      ],
+      "ʾ": [
+        "*ʾ",
+        "*ʿ",
+        "*ġ",
+        "*h",
+        "*ḥ",
+        "*y"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d"
+      ],
+      "z": [
+        "*ḏ",
+        "*z"
+      ],
+      "g": [
+        "*g"
+      ],
+      "ḫ": [
+        "*ġ",
+        "*ḫ",
+        "*x̣"
+      ],
+      "y": [
+        "*y"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "š": [
+        "*ś",
+        "*š",
+        "*ṯ"
+      ],
+      "ṣ": [
+        "*ṣ́",
+        "*ṣ",
+        "*ẓ"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "p": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "t": [
+        "*t"
+      ],
+      "ṭ": [
+        "*ṭ"
+      ],
+      "s": [
+        "*s"
+      ],
+      "w": [
+        "*w"
+      ]
+    },
+    "Ugaritic": {
+      "ʾ": [
+        "*ʾ"
+      ],
+      "ʿ": [
+        "*ʿ"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d",
+        "*ḏ"
+      ],
+      "ḏ": [
+        "*ḏ"
+      ],
+      "z": [
+        "*z"
+      ],
+      "g": [
+        "*g"
+      ],
+      "ġ": [
+        "*ġ",
+        "*ẓ"
+      ],
+      "h": [
+        "*h"
+      ],
+      "ḥ": [
+        "*ḥ",
+        "*x̣"
+      ],
+      "y": [
+        "*y",
+        "*w"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "š": [
+        "*ś",
+        "*š"
+      ],
+      "ṣ": [
+        "*ṣ́",
+        "*ṣ"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "p": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "t": [
+        "*t"
+      ],
+      "ṭ": [
+        "*ṭ"
+      ],
+      "s": [
+        "*s"
+      ],
+      "ṯ": [
+        "*ṯ"
+      ],
+      "ẓ": [
+        "*ẓ"
+      ],
+      "w": [
+        "*w"
+      ],
+      "ḫ": [
+        "*ḫ"
+      ]
+    },
+    "Hebrew": {
+      "ʾ": [
+        "*ʾ"
+      ],
+      "ʿ": [
+        "*ʿ",
+        "*ġ"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d"
+      ],
+      "z": [
+        "*ḏ",
+        "*z"
+      ],
+      "g": [
+        "*g"
+      ],
+      "h": [
+        "*h"
+      ],
+      "ḥ": [
+        "*ḥ",
+        "*ḫ",
+        "*x̣"
+      ],
+      "y": [
+        "*y",
+        "*w"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "ś": [
+        "*ś"
+      ],
+      "ṣ": [
+        "*ṣ́",
+        "*ṣ",
+        "*ẓ"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "p": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "š": [
+        "*š",
+        "*ṯ"
+      ],
+      "t": [
+        "*t"
+      ],
+      "ṭ": [
+        "*ṭ"
+      ],
+      "s": [
+        "*s"
+      ],
+      "w": [
+        "*w"
+      ]
+    },
+    "Aramaic": {
+      "ʾ": [
+        "*ʾ"
+      ],
+      "ʿ": [
+        "*ʿ",
+        "*ġ",
+        "*ṣ́"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d",
+        "*ḏ"
+      ],
+      "z": [
+        "*z"
+      ],
+      "g": [
+        "*g"
+      ],
+      "h": [
+        "*h"
+      ],
+      "ḥ": [
+        "*ḥ",
+        "*ḫ",
+        "*x̣"
+      ],
+      "y": [
+        "*y",
+        "*w"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "s": [
+        "*ś",
+        "*s"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "p": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "š": [
+        "*š"
+      ],
+      "t": [
+        "*t",
+        "*ṯ"
+      ],
+      "ṭ": [
+        "*ṭ",
+        "*ẓ"
+      ],
+      "ṣ": [
+        "*ṣ"
+      ],
+      "w": [
+        "*w"
+      ]
+    },
+    "Arabic": {
+      "ʾ": [
+        "*ʾ"
+      ],
+      "ʿ": [
+        "*ʿ"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d"
+      ],
+      "ḏ": [
+        "*ḏ"
+      ],
+      "z": [
+        "*z"
+      ],
+      "ǧ": [
+        "*g"
+      ],
+      "ġ": [
+        "*ġ"
+      ],
+      "h": [
+        "*h"
+      ],
+      "ḥ": [
+        "*ḥ",
+        "*x̣"
+      ],
+      "y": [
+        "*y"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "š": [
+        "*ś"
+      ],
+      "ḍ": [
+        "*ṣ́"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "f": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "s": [
+        "*š",
+        "*s"
+      ],
+      "t": [
+        "*t"
+      ],
+      "ṭ": [
+        "*ṭ"
+      ],
+      "ṣ": [
+        "*ṣ"
+      ],
+      "ṯ": [
+        "*ṯ"
+      ],
+      "ẓ": [
+        "*ẓ"
+      ],
+      "w": [
+        "*w"
+      ],
+      "ḫ": [
+        "*ḫ"
+      ]
+    },
+    "Sabaic": {
+      "ʾ": [
+        "*ʾ"
+      ],
+      "ʿ": [
+        "*ʿ"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d"
+      ],
+      "ḏ": [
+        "*ḏ"
+      ],
+      "z": [
+        "*z"
+      ],
+      "g": [
+        "*g"
+      ],
+      "ġ": [
+        "*ġ"
+      ],
+      "h": [
+        "*h"
+      ],
+      "ḥ": [
+        "*ḥ",
+        "*x̣"
+      ],
+      "y": [
+        "*y"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "s₂": [
+        "*ś"
+      ],
+      "ṣ́": [
+        "*ṣ́"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "f": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "s₁": [
+        "*š"
+      ],
+      "t": [
+        "*t"
+      ],
+      "ṭ": [
+        "*ṭ"
+      ],
+      "s₃": [
+        "*s"
+      ],
+      "ṣ": [
+        "*ṣ"
+      ],
+      "ṯ": [
+        "*ṯ"
+      ],
+      "ẓ": [
+        "*ẓ"
+      ],
+      "w": [
+        "*w"
+      ],
+      "ḫ": [
+        "*ḫ"
+      ]
+    },
+    "Geez": {
+      "ʾ": [
+        "*ʾ"
+      ],
+      "ʿ": [
+        "*ʿ",
+        "*ġ"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d"
+      ],
+      "z": [
+        "*ḏ",
+        "*z"
+      ],
+      "g": [
+        "*g"
+      ],
+      "h": [
+        "*h"
+      ],
+      "ḥ": [
+        "*ḥ",
+        "*x̣"
+      ],
+      "y": [
+        "*y"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "ś": [
+        "*ś"
+      ],
+      "s": [
+        "*ś",
+        "*š",
+        "*s",
+        "*ṯ"
+      ],
+      "ḍ": [
+        "*ṣ́"
+      ],
+      "ṣ": [
+        "*ṣ́",
+        "*ṣ",
+        "*ẓ"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "f": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "t": [
+        "*t"
+      ],
+      "ṭ": [
+        "*ṭ"
+      ],
+      "w": [
+        "*w"
+      ],
+      "ḫ": [
+        "*ḫ"
+      ]
+    },
+    "Mehri": {
+      "Ø": [
+        "*ʾ"
+      ],
+      "ʿ": [
+        "*ʿ"
+      ],
+      "ʾ": [
+        "*ʿ"
+      ],
+      "b": [
+        "*b"
+      ],
+      "d": [
+        "*d"
+      ],
+      "ḏ": [
+        "*ḏ"
+      ],
+      "z": [
+        "*z"
+      ],
+      "g": [
+        "*g"
+      ],
+      "ġ": [
+        "*ġ"
+      ],
+      "h": [
+        "*h",
+        "*š"
+      ],
+      "ḥ": [
+        "*ḥ",
+        "*x̣"
+      ],
+      "y": [
+        "*y"
+      ],
+      "k": [
+        "*k"
+      ],
+      "q": [
+        "*q"
+      ],
+      "l": [
+        "*l"
+      ],
+      "ś": [
+        "*ś"
+      ],
+      "ź": [
+        "*ṣ́"
+      ],
+      "m": [
+        "*m"
+      ],
+      "n": [
+        "*n"
+      ],
+      "f": [
+        "*p"
+      ],
+      "r": [
+        "*r"
+      ],
+      "t": [
+        "*t"
+      ],
+      "ṭ": [
+        "*ṭ"
+      ],
+      "s": [
+        "*s"
+      ],
+      "ṣ": [
+        "*ṣ"
+      ],
+      "ṯ": [
+        "*ṯ"
+      ],
+      "ḏ̣": [
+        "*ẓ"
+      ],
+      "w": [
+        "*w"
+      ],
+      "ḫ": [
+        "*ḫ"
+      ]
+    }
+  }
+}

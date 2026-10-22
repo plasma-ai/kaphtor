@@ -1,0 +1,6287 @@
+{
+ "description": "Shoresh gold set v3 (ref §6 amendments A1-A4). Positives were found by the pre-Shoresh matcher, so they measure recall only; false-positive rates come from the controls and the Linear B negatives. Criteria 2-5 use informative rows only (>= 3 consonants). Lexicon spellings of campaign values are rewritten in corpus signs (QI → *34); `lexicon_word` keeps the lexicon's spelling.",
+ "counts": {
+  "positives": 77,
+  "positives_informative": 51,
+  "positives_lb_values_only": 55,
+  "negatives": 30,
+  "controls": 126,
+  "control_gaps": 28,
+  "lb_negatives": 197,
+  "lb_loans": 4,
+  "lb_shuffles": 201,
+  "excluded": 155
+ },
+ "rules": {
+  "informative_min_consonants": 3,
+  "campaign_resolved_signs": [
+   "*118",
+   "*21F",
+   "*28B",
+   "*301",
+   "*305",
+   "*306",
+   "*310",
+   "*314",
+   "*324",
+   "*34",
+   "*86",
+   "AU",
+   "JU",
+   "PA3",
+   "PA₃",
+   "QI",
+   "TA2",
+   "ZU"
+  ],
+  "lb_negative_cap": 200,
+  "lb_semitic_loans": {
+   "ku-ru-so": "ḫurāṣu / ḥrṣ 'gold'",
+   "ki-to": "kitû, ktn 'linen, tunic'",
+   "ku-mi-no": "kamūnu 'cumin'",
+   "sa-sa-ma": "šamaššammū 'sesame'"
+  },
+  "lexicon_sign_aliases": {
+   "QI": "*34"
+  }
+ },
+ "positives": [
+  {
+   "word": "A-KA-NU",
+   "root": "ʾ-g-n",
+   "meaning": "cup, bowl",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "kn",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "ʾ-g-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-KA-RU",
+   "root": "ʾ-g-r",
+   "meaning": "Field, deified (Ugaru; heads an account beside A-DU, Addu, on HT86a)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "kr",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "ʾ-g-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-MI-TA",
+   "root": "ʾ-m-t",
+   "meaning": "handmaid (of the goddess)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "mt",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "ʾ-m-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-PA₃",
+   "root": "ʾ-b",
+   "meaning": "father—fundamental kinship term; also common PN element in theophoric compounds (A-PA₃-DI = ʿabdī)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "b",
+   "skeleton_len": 1,
+   "informative": false,
+   "lb_values_only": false,
+   "root_keys": [
+    "ʾ-b"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-PA₃-DI",
+   "root": "ʿ-b-d",
+   "meaning": "my servant",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "bd",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "root_keys": [
+    "ʿ-b-d"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-SA-MU-NE",
+   "root": "ʾ-š-m-n",
+   "meaning": "Eshmun (healing deity)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "smn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "ʾ-š-m-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-SA-SA-RA-ME",
+   "root": "y-š-r",
+   "meaning": "uprightly (variant of yaš(š)aram, ʾa- for ya-)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "ssrm",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-š-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-TA-I-*301-WA-E",
+   "root": "n-w-y",
+   "meaning": "I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "tnw",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "n-w-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-TA-I-*301-WA-JA",
+   "root": "n-w-y",
+   "meaning": "I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "tnwy",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "n-w-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-TA-NA",
+   "root": "ʾ-t-n",
+   "meaning": "Atanā (Athena)—divine name, feminine of √y-t-n 'to give' with regular I-y > ʾ weakening",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "tn",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "ʾ-t-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "AU-RE-TE",
+   "root": "ʾ-w-r",
+   "meaning": "luminous one (feminine)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "wrt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "ʾ-w-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "DA-KU-NA",
+   "root": "d-g-n",
+   "meaning": "Dagon (divine name / personal name)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "dkn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "d-g-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "DA-RE",
+   "root": "d-r",
+   "meaning": "dwelling, granary",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "dr",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "d-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "DI-DE-RU",
+   "root": "ʾ-d-r",
+   "meaning": "nobles, assembly of elders, council",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ddr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "ʾ-d-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "DU-PU₂-RE",
+   "root": "d-b-r",
+   "meaning": "sanctuary, inner sanctum (dubur)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "dpr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "d-b-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "DU-RA-RE",
+   "root": "d-r-r",
+   "meaning": "freedom, release",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "drr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "d-r-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "I-DA",
+   "root": "y-d",
+   "meaning": "Ida, 'the Hand' (sacred mountain—toponym/theonym)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "d",
+   "skeleton_len": 1,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-d"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "I-DA-A",
+   "root": "y-d",
+   "meaning": "of Ida (preferred diptotic genitive after DU-*314-RE); alternatively, toward Ida",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "d",
+   "skeleton_len": 1,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-d"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "I-PI-NA-MA",
+   "root": "p-n-m",
+   "meaning": "face, presence (of)—ritual formula element",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "pnm",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "p-n-m"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "JA-DI-KI-TU",
+   "root": "d-q-q",
+   "meaning": "O Diktu! (vocative invocation of the goat-goddess Diqet/Diktu)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ydkt",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "d-q-q"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "JA-SA-SA-RA-ME",
+   "root": "y-š-r",
+   "meaning": "uprightly (accusative -am of √y-š-r; rival: substantivized \"the upright/proper [thing]\" in an object slot). Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "yssrm",
+   "skeleton_len": 5,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-š-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "JE-TA-NA",
+   "root": "y-t-n",
+   "meaning": "He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same formation as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yattan-Dagan",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ytn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-t-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KA-DU-MA-NE",
+   "root": "q-d-m",
+   "meaning": "Cadmos + -ān suffix",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "kdmn",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "q-d-m"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KA-NU-TI",
+   "root": "k-n-t",
+   "meaning": "emmer (cereal grain)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "knt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-n-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KA-RO-PA₃",
+   "root": "k-r-p",
+   "meaning": "carafe, drinking vessel (Akkadian karpatu; Ugaritic krpn)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "krb",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "k-r-p"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KE-KI-RU",
+   "root": "k-k-r",
+   "meaning": "talent, disk, encirclement (unit of weight/value)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "kkr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-k-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KI-*310-RE",
+   "root": "k-n-r",
+   "meaning": "lyre (Hebrew kinnōr כִּנּוֹר)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "knr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "k-n-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KI-DA-RO",
+   "root": "ḳ-d-r",
+   "meaning": "personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "kdr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-d-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KI-MA-RU",
+   "root": "k-m-r",
+   "meaning": "priest",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "kmr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-m-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KI-RE-TA₂",
+   "root": "k-r-t",
+   "meaning": "Kret (eponym of Crete)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-r-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KI-RE-TA-NA",
+   "root": "k-r-t",
+   "meaning": "Cretan (gentilic: 'of Crete')",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "krtn",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-r-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KI-RI-TA₂",
+   "root": "k-r-t",
+   "meaning": "Kret (variant spelling)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-r-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KI-RO",
+   "root": "k-l-ʾ",
+   "meaning": "owed, outstanding balance (deficit)—transaction term heading deficit sections",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "kr",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-l-ʾ"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KU-MA-RO",
+   "root": "k-m-r",
+   "meaning": "priest",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "kmr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-m-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KU-MI-NA",
+   "root": "k-m-n",
+   "meaning": "cumin (Cuminum cyminum)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "kmn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-m-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KU-NI-SU",
+   "root": "k-n-sh",
+   "meaning": "emmer wheat",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "kns",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-n-š"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KU-RO",
+   "root": "k-l-l?",
+   "meaning": "total, sum (accounting term)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "kr",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-l-l"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KU-RU-MA",
+   "root": "k-r-m",
+   "meaning": "vineyard / mountain with vineyard",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "krm",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-r-m"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "MA-KA-RI-TE",
+   "root": "m-k-r",
+   "meaning": "merchants, trade agents (heading of personnel lists)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "mkrt",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "m-k-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "MI-NU-TE",
+   "root": "m-n-t",
+   "meaning": "fate, allotted portion—the goddess Minut (cognate Arabic Manāt) or common noun 'allotment'",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "mnt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "m-n-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "MI-TU",
+   "root": "m-w-t",
+   "meaning": "dead one, death (personal name or ritual category)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "mt",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "m-w-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "NA-DA-RE",
+   "root": "n-d-r",
+   "meaning": "vow / votive (or Egyptian PN: of-the-hand-of-Re)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ndr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "n-d-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "NA-TU-*301-NE",
+   "root": "n-t-n",
+   "meaning": "Dual reading: (A) the dedicated one (passive participle qatūl of √n-t-n 'to give' + -ān suffix); (B) the giver (active participle qātāl + -ān), a theophanic title parallel to A-TA-NA = ʾatanā 'She-who-gives' (Athena)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ntnn",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "n-t-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "PA₃-KA-RA-TI",
+   "root": "b-q-r",
+   "meaning": "cattle, heifers (fem.pl.)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "bkrt",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "b-q-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "PA₃-NI-NA",
+   "root": "b-n-y",
+   "meaning": "our builder",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "bnn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "b-n-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "PA₃-SI-MO",
+   "root": "b-ś-m",
+   "meaning": "balsam, spice (aromatic resin)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "bsm",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "b-ś-m"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "PI-*34-TE",
+   "root": "p-q-d",
+   "meaning": "the appointed, the garrison (toponym/category)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "pqt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "lexicon_word": "PI-QI-TE",
+   "root_keys": [
+    "p-q-d"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "PU-RA₂",
+   "root": "b-ʿ-l",
+   "meaning": "Baal (Lord)—ʿayin shift: baʿl → bōl",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "pl",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "b-ʿ-l"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "QA-*118-RA-RE",
+   "root": "q-ṭ-r",
+   "meaning": "incense, incense-offering (Semitic cultic term)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "qṭrr",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "q-ṭ-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "QA-*118-SA",
+   "root": "q-d-š",
+   "meaning": "holy, consecrated; or \"he sanctified\" (Semitic liturgical term)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "qṭs",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "q-d-š"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "QA-*310-I",
+   "root": "q-y-n / q-n-y",
+   "meaning": "Kenite, smith, possessor—personal name/title from the Cain/Qayin complex",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "qn",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "root_keys": [
+    "q-y-n",
+    "q-n-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "QA-PA₃",
+   "root": "q-b-ʿ",
+   "meaning": "goblet, cup (vessel term on HT31 inventory)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "qb",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "root_keys": [
+    "q-b-ʿ"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "QE-RA₂-U",
+   "root": "q-r-y",
+   "meaning": "city, town (oblique/genitive form)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ql",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "q-r-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "QE-SI-TE",
+   "root": "k-s-ʾ",
+   "meaning": "throne, seat (architectural label)—from PS *kussīʾu 'chair, throne'; Akk. kussû, Ug. ksu, Heb. kissēʾ. Alternate reading: √q-š-t *qaštu 'bow' (Ugaritic—weapon Kothar fashions for Aqhat). Architectural context strongly favors throne/seat.",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "qst",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-s-ʾ"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "*34-TI-RI",
+   "root": "q-ṭ-r",
+   "meaning": "my incense (ritual term)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "qtr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "lexicon_word": "QI-TI-RI",
+   "root_keys": [
+    "q-ṭ-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "RA-TE",
+   "root": "r-ṣ-y",
+   "meaning": "acceptance, favor (or verbal form: 'accept!')",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "rt",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "r-ṣ-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "SA-RU",
+   "root": "š-r-r",
+   "meaning": "king, prince (administrative title/category)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "sr",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "š-r-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "SA-SA-RA-ME",
+   "root": "y-š-r",
+   "meaning": "uprightly (= JA-SA-SA-RA-ME with JA- prefix dropped in Palaikastro dialect)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ssrm",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-š-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "SE-KA-NA-SI",
+   "root": "k-n-s",
+   "meaning": "that of the gathering—relative construction replacing presentative U-NA in Syme dialect",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "skns",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-n-s"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "SI-RU-TE",
+   "root": "š-y-r",
+   "meaning": "sacred song, hymnody (proposed abstract in -ūt of √š-y-r \"sing\"); secondary: šīrōt \"songs\"",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "srt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "š-y-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "SU-PA₃-RA",
+   "root": "s-p-l",
+   "meaning": "vessel (pot)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "sbr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "s-p-l"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "SU-PU",
+   "root": "s-p-p",
+   "meaning": "bowl, basin (the vessel named on HT31)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "sp",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "s-p-p"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "TA-NA-RA-TE-U-TI-NU",
+   "root": "r-ṣ-y",
+   "meaning": "may you (f.) be favorable toward us (N-stem of √r-ṣ-y + linking -u + analogical 2fs subject clitic -tī + 1cp object -n; energic -n the alternative)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "tnrttn",
+   "skeleton_len": 6,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "r-ṣ-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "TE-*301",
+   "root": "t-ʾ-n",
+   "meaning": "fig (commodity term on accounting tablets)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "tn",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "root_keys": [
+    "t-ʾ-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "TI-NI-TA",
+   "root": "t-n-t",
+   "meaning": "Tinit (goddess, = Phoenician Tanit)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "tnt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "t-n-t"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "TU-*21F-RI-NA",
+   "root": "ṭ-h-r",
+   "meaning": "the purification (noun + definite article -na)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "thrn",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "ṭ-h-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "TU-ME-I",
+   "root": "t-m-m",
+   "meaning": "my wholeness, my completeness (noun *tumm- + 1cs -ī)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "tm",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "t-m-m"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "U-NA-KA-NA-SI",
+   "root": "k-n-s",
+   "meaning": "and behold, my gathering! (conjunction + presentative + G verbal noun kanāsī + 1cs -ī)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "nkns",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-n-s"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "ZU-DI",
+   "root": "ṯ-d",
+   "meaning": "breast (√ṯ-d-y, PS *ṯad-); at IOZa6 first member of ZU-DI SI-KA (ṯudī-šiqā)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "ṯd",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "root_keys": [
+    "ṯ-d"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "A-DI-KI-TE-TE",
+   "root": "d-q-q",
+   "meaning": "O Dikte, she of [the Dubur] (name + determinative de)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "dktt",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "d-q-q"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "MA-DI",
+   "root": "m-ʿ-d",
+   "meaning": "festival allocation, appointed portion (administrative accounting term)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "md",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "m-ʿ-d"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "DI-NA",
+   "root": "d-y-n",
+   "meaning": "judge (short form beside Dīnāyu)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "dn",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "d-y-n"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "I-MI-SA-RA",
+   "root": "y-š-r",
+   "meaning": "Divine Justice / ʾĪ-Mīšaru—theophoric compound: ʾī- (divine prefix) + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "msr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-š-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "TE-RI",
+   "root": "t-w-r",
+   "meaning": "return, balance, carried-forward goods (administrative section heading for returned/surplus allocations)",
+   "tier": 3,
+   "language_layer": "Akkadian loanword",
+   "skeleton": "tr",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "t-w-r"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "KA-DI",
+   "root": "k-d-d",
+   "meaning": "jar, jug (liquid container)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "kd",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "root_keys": [
+    "k-d-d"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "TA-NA-I-*301-U-TI-NU",
+   "root": "ʿ-n-y",
+   "meaning": "may you (f.) answer us (N-stem of √ʿ-n-y in the TA-NA-[X]-U-TI-NU frame: 2fs prefix + subject clitic -tī + 1cp object -n)",
+   "tier": 3,
+   "language_layer": "NWS",
+   "skeleton": "tnntn",
+   "skeleton_len": 5,
+   "informative": true,
+   "lb_values_only": false,
+   "root_keys": [
+    "ʿ-n-y"
+   ],
+   "unparsed_alternatives": []
+  },
+  {
+   "word": "JA-SA-SA",
+   "root": "y-š-r",
+   "meaning": "The Righteous One (substantivized adjective)",
+   "tier": 4,
+   "language_layer": "NWS",
+   "skeleton": "yss",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "root_keys": [
+    "y-š-r"
+   ],
+   "unparsed_alternatives": []
+  }
+ ],
+ "negatives": [
+  {
+   "word": "A-RA-NA-RE",
+   "root": null,
+   "meaning": "Great-is-the-name-of-Re (Egyptian theophoric)",
+   "tier": 3,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "rnr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "A-TA-NO",
+   "root": "y-t-n",
+   "meaning": "Pre-GORILA ghost reading—superseded by A-TA-I-*301-WA-JA",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "tn",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "AU-SI-RE",
+   "root": "wsỉr (Egyptian)",
+   "meaning": "Osiris (Egyptian deity name)",
+   "tier": 3,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "wsr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "DA-KU-SE-NE",
+   "root": null,
+   "meaning": "probable Hurrian-style personal name; compare Ugaritic Taki-šenni",
+   "tier": 3,
+   "language_layer": "Hurrian",
+   "skeleton": "dksn",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "DA-NA-NE",
+   "root": "d-n-n",
+   "meaning": "Pre-GORILA ghost reading—superseded by DA-NA-SI",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "dnn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "DA-WE-DA",
+   "root": "d-w-d",
+   "meaning": "Pre-GORILA ghost reading—superseded by DA-RI-DA",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "dwd",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "JA-MI-DA-RE",
+   "root": null,
+   "meaning": "He-from-the-hand-of-Re (Egyptian theophoric)",
+   "tier": 3,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "ymdr",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "JA-MU",
+   "root": "y-m",
+   "meaning": "Pre-GORILA ghost reading—superseded by JA-*21F",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "ym",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "JA-NE",
+   "root": "y-y-n",
+   "meaning": "Pre-GORILA ghost reading—superseded by JA-SI",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "yn",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "JA-TA-NO",
+   "root": "y-t-n",
+   "meaning": "Pre-GORILA ghost reading—superseded by JA-TA-I-*301-U-JA",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "ytn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "KA-*314-SI",
+   "root": null,
+   "meaning": "personal name ('the Ka is praised'—Egyptian theophoric)",
+   "tier": 2,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "kḥs",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "KI-RE-JA-TU",
+   "root": "q-r-y",
+   "meaning": "Pre-GORILA ghost reading—not in the corpus",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "kryt",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "KU-ME-TA",
+   "root": "Egyptian Kmt",
+   "meaning": "Egypt (Egyptian self-name, 'the black land')",
+   "tier": 2,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "kmt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "MA-I-MI",
+   "root": "Anatolian māi-/miya-?",
+   "meaning": "grown people or adults; Anatolian personnel qualification",
+   "tier": 2,
+   "language_layer": "Anatolian candidate",
+   "skeleton": "mm",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "MA-KA-I-TA",
+   "root": "mk.t",
+   "meaning": "magical protection, protective amulet/rite (Egyptian loanword)",
+   "tier": 2,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "mkt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "MI-NA-NE",
+   "root": "m-n",
+   "meaning": "Pre-GORILA ghost reading—superseded by U-MI-NA-SI",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "mnn",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "MI-TA",
+   "root": null,
+   "meaning": "personal name (Hurrian: -mitta 'gave', bare hypocoristic)",
+   "tier": 2,
+   "language_layer": "Hurrian",
+   "skeleton": "mt",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "O-SU-QA-RE",
+   "root": "s-k-r",
+   "meaning": "Sokar—Egyptian chthonic craftsman-judge deity, enforcer of Ma'at/yasaramu (Troullos peak sanctuary invocation)",
+   "tier": 2,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "sqr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "PA-JA-RE",
+   "root": null,
+   "meaning": "He-of-Re (Egyptian theophoric)",
+   "tier": 3,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "pyr",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "PA-TA-DA",
+   "root": "p-t-ḥ",
+   "meaning": "Ptah-theophoric personal name: Ptaḥ-di(w) 'Ptah-gives/Ptah-given'",
+   "tier": 2,
+   "language_layer": "Middle Egyptian",
+   "skeleton": "ptd",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "PI-*314",
+   "root": null,
+   "meaning": "Piḫa ('bright, radiant'—Luwian personal name element)",
+   "tier": 2,
+   "language_layer": "Anatolian",
+   "skeleton": "pḥ",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "SA-RA-ME",
+   "root": "y-š-r",
+   "meaning": "RECLASSIFIED: not independent. Line-break split of JA-SA-SA-RA-ME at IOZa12.",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "srm",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "TA-NU-A-TI",
+   "root": "t-n-ʾ",
+   "meaning": "I gave (Gordon's original reading—SUPERSEDED by TA-NU-MU-TI)",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "tnt",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "TA-TI",
+   "root": null,
+   "meaning": "father (Luwian tati-)",
+   "tier": 2,
+   "language_layer": "Anatolian",
+   "skeleton": "tt",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "TE-TE-PI",
+   "root": "ṭ-y-b",
+   "meaning": "Pre-GORILA ghost reading—superseded by JA-DI-KI-TE-TE-*307-PU₂-RE",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "ttp",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "TU-SU-PU₂",
+   "root": null,
+   "meaning": "Teshub (Hurrian storm god theophoric PN)",
+   "tier": 2,
+   "language_layer": "Hurrian",
+   "skeleton": "tsp",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "PI-TA-KE-SI",
+   "root": null,
+   "meaning": "Place of the Throne (Hurrian compound PN)",
+   "tier": 2,
+   "language_layer": "Hurrian",
+   "skeleton": "ptks",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "DI-KI-SE",
+   "root": null,
+   "meaning": "The Beautiful One (Hurrian relational adjective PN)",
+   "tier": 2,
+   "language_layer": "Hurrian",
+   "skeleton": "dks",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "non_semitic_layer"
+  },
+  {
+   "word": "A-SA-SA-RA-*325",
+   "root": "y-š-r",
+   "meaning": "the Upright One (f.), feminine -at on the √y-š-r formula base (cf. A-SA-SA-RA-ME, JA-SA-SA-RA-ME)",
+   "tier": 0,
+   "language_layer": "NWS",
+   "skeleton": "ssrb",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "kind": "rejected"
+  },
+  {
+   "word": "A-NA-TI-*301-WA-JA",
+   "root": null,
+   "meaning": "RECLASSIFIED: edge-damaged sequence, not a securely complete word; untranslated",
+   "tier": 0,
+   "language_layer": "undetermined",
+   "skeleton": "ntnwy",
+   "skeleton_len": 5,
+   "informative": true,
+   "lb_values_only": false,
+   "kind": "rejected"
+  }
+ ],
+ "controls": [
+  {
+   "word": "NU-KA-A",
+   "kind": "sign_shuffle",
+   "source": "A-KA-NU",
+   "skeleton": "nk",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "O-TA-KE",
+   "kind": "fabricated",
+   "source": "A-KA-NU",
+   "skeleton": "tk",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RU-A-KA",
+   "kind": "sign_shuffle",
+   "source": "A-KA-RU",
+   "skeleton": "rk",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "A-DU-SI",
+   "kind": "fabricated",
+   "source": "A-KA-RU",
+   "skeleton": "ds",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "A-TE",
+   "kind": "fabricated",
+   "source": "A-PA₃",
+   "skeleton": "t",
+   "skeleton_len": 1,
+   "informative": false
+  },
+  {
+   "word": "DI-PA₃-A",
+   "kind": "sign_shuffle",
+   "source": "A-PA₃-DI",
+   "skeleton": "db",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "A-SI-NA",
+   "kind": "fabricated",
+   "source": "A-PA₃-DI",
+   "skeleton": "sn",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "MU-SA-NE-A",
+   "kind": "sign_shuffle",
+   "source": "A-SA-MU-NE",
+   "skeleton": "msn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "U-RI-PI-RO",
+   "kind": "fabricated",
+   "source": "A-SA-MU-NE",
+   "skeleton": "rpr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "SA-RA-A-ME-SA",
+   "kind": "sign_shuffle",
+   "source": "A-SA-SA-RA-ME",
+   "skeleton": "srms",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "KI-WA-NA-ZU-QE",
+   "kind": "fabricated",
+   "source": "A-SA-SA-RA-ME",
+   "skeleton": "kwnṯq",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "E-A-TA-WA-*301-I",
+   "kind": "sign_shuffle",
+   "source": "A-TA-I-*301-WA-E",
+   "skeleton": "twn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "U-I-KU-DA-I-RA₂",
+   "kind": "fabricated",
+   "source": "A-TA-I-*301-WA-E",
+   "skeleton": "kdl",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "JA-*301-TA-A-WA-I",
+   "kind": "sign_shuffle",
+   "source": "A-TA-I-*301-WA-JA",
+   "skeleton": "yntw",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "A-KI-TI-JU-*310-E",
+   "kind": "fabricated",
+   "source": "A-TA-I-*301-WA-JA",
+   "skeleton": "ktln",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "NA-TA-A",
+   "kind": "sign_shuffle",
+   "source": "A-TA-NA",
+   "skeleton": "nt",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "JA-TA-SE",
+   "kind": "fabricated",
+   "source": "A-TA-NA",
+   "skeleton": "yts",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RE-TE-AU",
+   "kind": "sign_shuffle",
+   "source": "AU-RE-TE",
+   "skeleton": "rtw",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KU-DA-NA",
+   "kind": "sign_shuffle",
+   "source": "DA-KU-NA",
+   "skeleton": "kdn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "SI-RA-MI",
+   "kind": "fabricated",
+   "source": "DA-KU-NA",
+   "skeleton": "srm",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RE-DA",
+   "kind": "sign_shuffle",
+   "source": "DA-RE",
+   "skeleton": "rd",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "PA-TE",
+   "kind": "fabricated",
+   "source": "DA-RE",
+   "skeleton": "pt",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RU-DI-DE",
+   "kind": "sign_shuffle",
+   "source": "DI-DE-RU",
+   "skeleton": "rdd",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TU-KU-TE",
+   "kind": "fabricated",
+   "source": "DI-DE-RU",
+   "skeleton": "tkt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RE-DU-PU₂",
+   "kind": "sign_shuffle",
+   "source": "DU-PU₂-RE",
+   "skeleton": "rdp",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RU-NI-DI",
+   "kind": "fabricated",
+   "source": "DU-PU₂-RE",
+   "skeleton": "rnd",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RA-RE-DU",
+   "kind": "sign_shuffle",
+   "source": "DU-RA-RE",
+   "skeleton": "rrd",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RO-NE-RA₂",
+   "kind": "fabricated",
+   "source": "DU-RA-RE",
+   "skeleton": "rnl",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "I-RU",
+   "kind": "fabricated",
+   "source": "I-DA",
+   "skeleton": "r",
+   "skeleton_len": 1,
+   "informative": false
+  },
+  {
+   "word": "A-E-MA",
+   "kind": "fabricated",
+   "source": "I-DA-A",
+   "skeleton": "m",
+   "skeleton_len": 1,
+   "informative": false
+  },
+  {
+   "word": "NA-I-MA-PI",
+   "kind": "sign_shuffle",
+   "source": "I-PI-NA-MA",
+   "skeleton": "nmp",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TI-PI-A-MI",
+   "kind": "fabricated",
+   "source": "I-PI-NA-MA",
+   "skeleton": "tpm",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "DI-TU-KI-JA",
+   "kind": "sign_shuffle",
+   "source": "JA-DI-KI-TU",
+   "skeleton": "dtky",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "SI-DU-MI-TI",
+   "kind": "fabricated",
+   "source": "JA-DI-KI-TU",
+   "skeleton": "sdmt",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "ME-SA-SA-JA-RA",
+   "kind": "sign_shuffle",
+   "source": "JA-SA-SA-RA-ME",
+   "skeleton": "mssyr",
+   "skeleton_len": 5,
+   "informative": true
+  },
+  {
+   "word": "KU-NI-RE-SU-NE",
+   "kind": "fabricated",
+   "source": "JA-SA-SA-RA-ME",
+   "skeleton": "knrsn",
+   "skeleton_len": 5,
+   "informative": true
+  },
+  {
+   "word": "NA-TA-JE",
+   "kind": "sign_shuffle",
+   "source": "JE-TA-NA",
+   "skeleton": "nty",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "JA-MA-SE",
+   "kind": "fabricated",
+   "source": "JE-TA-NA",
+   "skeleton": "yms",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KA-NE-DU-MA",
+   "kind": "sign_shuffle",
+   "source": "KA-DU-MA-NE",
+   "skeleton": "kndm",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "KA-DA-SA-ME",
+   "kind": "fabricated",
+   "source": "KA-DU-MA-NE",
+   "skeleton": "kdsm",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "KA-TI-NU",
+   "kind": "sign_shuffle",
+   "source": "KA-NU-TI",
+   "skeleton": "ktn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "QA-RA-*301",
+   "kind": "fabricated",
+   "source": "KA-NU-TI",
+   "skeleton": "qrn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RO-PA₃-KA",
+   "kind": "sign_shuffle",
+   "source": "KA-RO-PA₃",
+   "skeleton": "rbk",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "*306-NA-RI",
+   "kind": "fabricated",
+   "source": "KA-RO-PA₃",
+   "skeleton": "ʿnr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KE-RU-KI",
+   "kind": "sign_shuffle",
+   "source": "KE-KI-RU",
+   "skeleton": "krk",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TU-PA₃-RA",
+   "kind": "fabricated",
+   "source": "KE-KI-RU",
+   "skeleton": "tbr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RE-*310-KI",
+   "kind": "sign_shuffle",
+   "source": "KI-*310-RE",
+   "skeleton": "rnk",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KI-RO-DA",
+   "kind": "sign_shuffle",
+   "source": "KI-DA-RO",
+   "skeleton": "krd",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RU-KI-MA",
+   "kind": "sign_shuffle",
+   "source": "KI-MA-RU",
+   "skeleton": "rkm",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KU-RI-JA",
+   "kind": "fabricated",
+   "source": "KI-MA-RU",
+   "skeleton": "kry",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TA₂-KI-RE",
+   "kind": "sign_shuffle",
+   "source": "KI-RE-TA₂",
+   "skeleton": "tkr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "PA-DA-RA",
+   "kind": "fabricated",
+   "source": "KI-RE-TA₂",
+   "skeleton": "pdr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RE-NA-KI-TA",
+   "kind": "sign_shuffle",
+   "source": "KI-RE-TA-NA",
+   "skeleton": "rnkt",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "SI-RI-*301-MI",
+   "kind": "fabricated",
+   "source": "KI-RE-TA-NA",
+   "skeleton": "srnm",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "RI-KI-TA₂",
+   "kind": "sign_shuffle",
+   "source": "KI-RI-TA₂",
+   "skeleton": "rkt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "PI-TI-DA",
+   "kind": "fabricated",
+   "source": "KU-MA-RO",
+   "skeleton": "ptd",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "NA-MI-KU",
+   "kind": "sign_shuffle",
+   "source": "KU-MI-NA",
+   "skeleton": "nmk",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "MA-RA-MI",
+   "kind": "fabricated",
+   "source": "KU-MI-NA",
+   "skeleton": "mrm",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "SU-KU-NI",
+   "kind": "sign_shuffle",
+   "source": "KU-NI-SU",
+   "skeleton": "skn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KI-PI-TI",
+   "kind": "fabricated",
+   "source": "KU-NI-SU",
+   "skeleton": "kpt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "WA-TU",
+   "kind": "fabricated",
+   "source": "KU-RO",
+   "skeleton": "wt",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "MA-KU-RU",
+   "kind": "sign_shuffle",
+   "source": "KU-RU-MA",
+   "skeleton": "mkr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "DA-RI-TA",
+   "kind": "fabricated",
+   "source": "KU-RU-MA",
+   "skeleton": "drt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TE-MA-RI-KA",
+   "kind": "sign_shuffle",
+   "source": "MA-KA-RI-TE",
+   "skeleton": "tmrk",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "JA-KI-PA-WI",
+   "kind": "fabricated",
+   "source": "MA-KA-RI-TE",
+   "skeleton": "ykpw",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "TE-MI-NU",
+   "kind": "sign_shuffle",
+   "source": "MI-NU-TE",
+   "skeleton": "tmn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "QE-SA-RE",
+   "kind": "fabricated",
+   "source": "MI-NU-TE",
+   "skeleton": "qsr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KI-ME",
+   "kind": "fabricated",
+   "source": "MI-TU",
+   "skeleton": "km",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RE-DA-NA",
+   "kind": "sign_shuffle",
+   "source": "NA-DA-RE",
+   "skeleton": "rdn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "DA-NU-RE",
+   "kind": "fabricated",
+   "source": "NA-DA-RE",
+   "skeleton": "dnr",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "NA-*301-NE-TU",
+   "kind": "sign_shuffle",
+   "source": "NA-TU-*301-NE",
+   "skeleton": "nnnt",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "PA-TA-PA-*301",
+   "kind": "fabricated",
+   "source": "NA-TU-*301-NE",
+   "skeleton": "ptpn",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "PA₃-TI-KA-RA",
+   "kind": "sign_shuffle",
+   "source": "PA₃-KA-RA-TI",
+   "skeleton": "btkr",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "PI-*34-DA-RI",
+   "kind": "fabricated",
+   "source": "PA₃-KA-RA-TI",
+   "skeleton": "pqdr",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "NA-PA₃-NI",
+   "kind": "sign_shuffle",
+   "source": "PA₃-NI-NA",
+   "skeleton": "nbn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "KA-TE-*305",
+   "kind": "fabricated",
+   "source": "PA₃-NI-NA",
+   "skeleton": "ktḏ",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "MO-PA₃-SI",
+   "kind": "sign_shuffle",
+   "source": "PA₃-SI-MO",
+   "skeleton": "mbs",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "*34-PI-TE",
+   "kind": "sign_shuffle",
+   "source": "PI-*34-TE",
+   "skeleton": "qpt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "NI-PA-MA",
+   "kind": "fabricated",
+   "source": "PI-*34-TE",
+   "skeleton": "npm",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RA₂-PU",
+   "kind": "sign_shuffle",
+   "source": "PU-RA₂",
+   "skeleton": "lp",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "PA-NA",
+   "kind": "fabricated",
+   "source": "PU-RA₂",
+   "skeleton": "pn",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RA-QA-*118-RE",
+   "kind": "sign_shuffle",
+   "source": "QA-*118-RA-RE",
+   "skeleton": "rqṭr",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "WI-PA-KI-*301",
+   "kind": "fabricated",
+   "source": "QA-*118-RA-RE",
+   "skeleton": "wpkn",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "QA-SA-*118",
+   "kind": "sign_shuffle",
+   "source": "QA-*118-SA",
+   "skeleton": "qsṭ",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "I-*310-QA",
+   "kind": "sign_shuffle",
+   "source": "QA-*310-I",
+   "skeleton": "nq",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "I-TA-PI",
+   "kind": "fabricated",
+   "source": "QA-*310-I",
+   "skeleton": "tp",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "PA₃-QA",
+   "kind": "sign_shuffle",
+   "source": "QA-PA₃",
+   "skeleton": "bq",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RA₂-U-QE",
+   "kind": "sign_shuffle",
+   "source": "QE-RA₂-U",
+   "skeleton": "lq",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "SI-TE-QE",
+   "kind": "sign_shuffle",
+   "source": "QE-SI-TE",
+   "skeleton": "stq",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TI-PA-TE",
+   "kind": "fabricated",
+   "source": "QE-SI-TE",
+   "skeleton": "tpt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RI-*34-TI",
+   "kind": "sign_shuffle",
+   "source": "*34-TI-RI",
+   "skeleton": "rqt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "DA-AU-TI",
+   "kind": "fabricated",
+   "source": "*34-TI-RI",
+   "skeleton": "dwt",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "JA-NE",
+   "kind": "fabricated",
+   "source": "RA-TE",
+   "skeleton": "yn",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RU-SA",
+   "kind": "sign_shuffle",
+   "source": "SA-RU",
+   "skeleton": "rs",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "QA-SE",
+   "kind": "fabricated",
+   "source": "SA-RU",
+   "skeleton": "qs",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "RA-SA-SA-ME",
+   "kind": "sign_shuffle",
+   "source": "SA-SA-RA-ME",
+   "skeleton": "rssm",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "RE-PA-JA-RA",
+   "kind": "fabricated",
+   "source": "SA-SA-RA-ME",
+   "skeleton": "rpyr",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "SI-SE-NA-KA",
+   "kind": "sign_shuffle",
+   "source": "SE-KA-NA-SI",
+   "skeleton": "ssnk",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "PI-TI-NA-SE",
+   "kind": "fabricated",
+   "source": "SE-KA-NA-SI",
+   "skeleton": "ptns",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "SI-TE-RU",
+   "kind": "sign_shuffle",
+   "source": "SI-RU-TE",
+   "skeleton": "str",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TA-KU-JU",
+   "kind": "fabricated",
+   "source": "SI-RU-TE",
+   "skeleton": "tkl",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "RA-PA₃-SU",
+   "kind": "sign_shuffle",
+   "source": "SU-PA₃-RA",
+   "skeleton": "rbs",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "DU-RA-SU",
+   "kind": "fabricated",
+   "source": "SU-PA₃-RA",
+   "skeleton": "drs",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "PU-SU",
+   "kind": "sign_shuffle",
+   "source": "SU-PU",
+   "skeleton": "ps",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "*86-RE",
+   "kind": "fabricated",
+   "source": "SU-PU",
+   "skeleton": "ṇr",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "TA-NU-TE-TI-RA-U-NA",
+   "kind": "sign_shuffle",
+   "source": "TA-NA-RA-TE-U-TI-NU",
+   "skeleton": "tnttrn",
+   "skeleton_len": 6,
+   "informative": true
+  },
+  {
+   "word": "I-MI-WA-PA-NI-SU-JA",
+   "kind": "fabricated",
+   "source": "TA-NA-RA-TE-U-TI-NU",
+   "skeleton": "mwpnsy",
+   "skeleton_len": 6,
+   "informative": true
+  },
+  {
+   "word": "TI-TA-NI",
+   "kind": "sign_shuffle",
+   "source": "TI-NI-TA",
+   "skeleton": "ttn",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "SE-KA-SE",
+   "kind": "fabricated",
+   "source": "TI-NI-TA",
+   "skeleton": "sks",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "TU-RI-NA-*21F",
+   "kind": "sign_shuffle",
+   "source": "TU-*21F-RI-NA",
+   "skeleton": "trnh",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "RI-TA-*301-TA",
+   "kind": "fabricated",
+   "source": "TU-*21F-RI-NA",
+   "skeleton": "rtnt",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "A-DA-WA",
+   "kind": "fabricated",
+   "source": "TU-ME-I",
+   "skeleton": "dw",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "NA-U-SI-NA-KA",
+   "kind": "sign_shuffle",
+   "source": "U-NA-KA-NA-SI",
+   "skeleton": "nsnk",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "A-SA-MI-ZU-JU",
+   "kind": "fabricated",
+   "source": "U-NA-KA-NA-SI",
+   "skeleton": "smṯl",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "DI-ZU",
+   "kind": "sign_shuffle",
+   "source": "ZU-DI",
+   "skeleton": "dṯ",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "KI-TE-DI-A-TE",
+   "kind": "sign_shuffle",
+   "source": "A-DI-KI-TE-TE",
+   "skeleton": "ktdt",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "NU-TI-DU-O-ZU",
+   "kind": "fabricated",
+   "source": "A-DI-KI-TE-TE",
+   "skeleton": "ntdṯ",
+   "skeleton_len": 4,
+   "informative": true
+  },
+  {
+   "word": "DI-MA",
+   "kind": "sign_shuffle",
+   "source": "MA-DI",
+   "skeleton": "dm",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "NA-DI",
+   "kind": "sign_shuffle",
+   "source": "DI-NA",
+   "skeleton": "nd",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "TA-SU-MI-ZU",
+   "kind": "fabricated",
+   "source": "I-MI-SA-RA",
+   "skeleton": "tsmṯ",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "DA-TI",
+   "kind": "fabricated",
+   "source": "TE-RI",
+   "skeleton": "dt",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "DI-KA",
+   "kind": "sign_shuffle",
+   "source": "KA-DI",
+   "skeleton": "dk",
+   "skeleton_len": 2,
+   "informative": false
+  },
+  {
+   "word": "NA-NU-TA-*301-U-I-TI",
+   "kind": "sign_shuffle",
+   "source": "TA-NA-I-*301-U-TI-NU",
+   "skeleton": "nntnt",
+   "skeleton_len": 5,
+   "informative": true
+  },
+  {
+   "word": "JA-A-RE-KU-TI-U-NA",
+   "kind": "fabricated",
+   "source": "TA-NA-I-*301-U-TI-NU",
+   "skeleton": "yrktn",
+   "skeleton_len": 5,
+   "informative": true
+  },
+  {
+   "word": "SA-JA-SA",
+   "kind": "sign_shuffle",
+   "source": "JA-SA-SA",
+   "skeleton": "sys",
+   "skeleton_len": 3,
+   "informative": true
+  },
+  {
+   "word": "WI-RE-KU",
+   "kind": "fabricated",
+   "source": "JA-SA-SA",
+   "skeleton": "wrk",
+   "skeleton_len": 3,
+   "informative": true
+  }
+ ],
+ "control_gaps": [
+  {
+   "source": "A-MI-TA",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "A-MI-TA",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "A-PA₃",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "AU-RE-TE",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "I-DA",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "I-DA-A",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "KI-*310-RE",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "KI-DA-RO",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "KI-RI-TA₂",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "KI-RO",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "KI-RO",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "KU-MA-RO",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "KU-RO",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "MI-TU",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "PA₃-SI-MO",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "QA-*118-SA",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "QA-PA₃",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "QE-RA₂-U",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "RA-TE",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "TE-*301",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "TE-*301",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "TU-ME-I",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "ZU-DI",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "MA-DI",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "DI-NA",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  },
+  {
+   "source": "I-MI-SA-RA",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "TE-RI",
+   "kind": "sign_shuffle",
+   "reason": "no new-skeleton order"
+  },
+  {
+   "source": "KA-DI",
+   "kind": "fabricated",
+   "reason": "no distinct match in 500 draws"
+  }
+ ],
+ "lb_negatives": [
+  {
+   "word": "A-KA-RA-NO",
+   "lb_lemma": "a-ka-ra-no",
+   "skeleton": "krn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KE-RE-MO",
+   "lb_lemma": "a-ke-re-mo",
+   "skeleton": "krm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KE-RE-MO-NO",
+   "lb_lemma": "a-ke-re-mo-no",
+   "skeleton": "krmn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KE-RE-SE",
+   "lb_lemma": "a-ke-re-se",
+   "skeleton": "krs",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KE-TI-RA",
+   "lb_lemma": "a-ke-ti-ra",
+   "skeleton": "ktr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KI-TI-TO",
+   "lb_lemma": "a-ki-ti-to",
+   "skeleton": "ktt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KO-RO-WE",
+   "lb_lemma": "a-ko-ro-we",
+   "skeleton": "krw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KO-SO-NE",
+   "lb_lemma": "a-ko-so-ne",
+   "skeleton": "ksn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-KO-TO-NO",
+   "lb_lemma": "a-ko-to-no",
+   "skeleton": "ktn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-MO-I-JE-TO",
+   "lb_lemma": "a-mo-i-je-to",
+   "skeleton": "myt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-MO-RA-MA",
+   "lb_lemma": "a-mo-ra-ma",
+   "skeleton": "mrm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-MO-TE-RE",
+   "lb_lemma": "a-mo-te-re",
+   "skeleton": "mtr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-MO-TE-WI-JA",
+   "lb_lemma": "a-mo-te-wi-ja",
+   "skeleton": "mtwy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-NA-MO-TO",
+   "lb_lemma": "a-na-mo-to",
+   "skeleton": "nmt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-NE-TA-DE",
+   "lb_lemma": "a-ne-ta-de",
+   "skeleton": "ntd",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-NU-WI-KO",
+   "lb_lemma": "a-nu-wi-ko",
+   "skeleton": "nwk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-PI-PO-RE-WE",
+   "lb_lemma": "a-pi-po-re-we",
+   "skeleton": "pprw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-PO-RE-WE",
+   "lb_lemma": "a-po-re-we",
+   "skeleton": "prw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-PO-TE-RO-TE",
+   "lb_lemma": "a-po-te-ro-te",
+   "skeleton": "ptrt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-PU-DO-KE",
+   "lb_lemma": "a-pu-do-ke",
+   "skeleton": "pdk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-PU-DO-SI",
+   "lb_lemma": "a-pu-do-si",
+   "skeleton": "pds",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-RA-RO-MO-TE-ME-NA",
+   "lb_lemma": "a-ra-ro-mo-te-me-na",
+   "skeleton": "rrmtmn",
+   "skeleton_len": 6,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-RA-RU-JA",
+   "lb_lemma": "a-ra-ru-ja",
+   "skeleton": "rry",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-RE-SA-NI-E",
+   "lb_lemma": "a-re-sa-ni-e",
+   "skeleton": "rsn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "A-TE-RE-TE-A",
+   "lb_lemma": "a-te-re-te-a",
+   "skeleton": "trt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DA-KO-RO-I",
+   "lb_lemma": "da-ko-ro-i",
+   "skeleton": "dkr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DA-MO-DE-MI",
+   "lb_lemma": "da-mo-de-mi",
+   "skeleton": "dmdm",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DA-MO-KO-RO",
+   "lb_lemma": "da-mo-ko-ro",
+   "skeleton": "dmkr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-DE-ME-NO",
+   "lb_lemma": "de-de-me-no",
+   "skeleton": "ddmn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-DI-KU-JA",
+   "lb_lemma": "de-di-ku-ja",
+   "skeleton": "ddky",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-KA-SA-TO",
+   "lb_lemma": "de-ka-sa-to",
+   "skeleton": "dkst",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-MA-SI",
+   "lb_lemma": "de-ma-si",
+   "skeleton": "dms",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-ME-O-TE",
+   "lb_lemma": "de-me-o-te",
+   "skeleton": "dmt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-MI-NI-JA",
+   "lb_lemma": "de-mi-ni-ja",
+   "skeleton": "dmny",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-SO-MO",
+   "lb_lemma": "de-so-mo",
+   "skeleton": "dsm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DE-WA-PI",
+   "lb_lemma": "de-wa-pi",
+   "skeleton": "dwp",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DI-DA-KA-RE",
+   "lb_lemma": "di-da-ka-re",
+   "skeleton": "ddkr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DI-DO-SI",
+   "lb_lemma": "di-do-si",
+   "skeleton": "dds",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DO-SO-MO",
+   "lb_lemma": "do-so-mo",
+   "skeleton": "dsm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "DU-RU-TO-MO",
+   "lb_lemma": "du-ru-to-mo",
+   "skeleton": "drtm",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-KA-RA-E-WE",
+   "lb_lemma": "e-ka-ra-e-we",
+   "skeleton": "krw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-KA-TE-RE-TA",
+   "lb_lemma": "e-ka-te-re-ta",
+   "skeleton": "ktrt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-NE-ME-NA",
+   "lb_lemma": "e-ne-me-na",
+   "skeleton": "nmn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-NE-RE-JA",
+   "lb_lemma": "e-ne-re-ja",
+   "skeleton": "nry",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-PI-DA-TO",
+   "lb_lemma": "e-pi-da-to",
+   "skeleton": "pdt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-PI-DE-DA-TO",
+   "lb_lemma": "e-pi-de-da-to",
+   "skeleton": "pddt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-PI-KE-RE",
+   "lb_lemma": "e-pi-ke-re",
+   "skeleton": "pkr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-PI-KI-TO-NI-JA",
+   "lb_lemma": "e-pi-ki-to-ni-ja",
+   "skeleton": "pktny",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-PI-RO-PA-JA",
+   "lb_lemma": "e-pi-ro-pa-ja",
+   "skeleton": "prpy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RA-PE-ME-NA",
+   "lb_lemma": "e-ra-pe-me-na",
+   "skeleton": "rpmn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RE-U-TE-RE",
+   "lb_lemma": "e-re-u-te-re",
+   "skeleton": "rtr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RE-U-TE-RO",
+   "lb_lemma": "e-re-u-te-ro",
+   "skeleton": "rtr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RE-U-TE-RO-SE",
+   "lb_lemma": "e-re-u-te-ro-se",
+   "skeleton": "rtrs",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RO-PA-KE-JA",
+   "lb_lemma": "e-ro-pa-ke-ja",
+   "skeleton": "rpky",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RO-PA-KE-U",
+   "lb_lemma": "e-ro-pa-ke-u",
+   "skeleton": "rpk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RU-MI-NI-JA",
+   "lb_lemma": "e-ru-mi-ni-ja",
+   "skeleton": "rmny",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-RU-TA-RA",
+   "lb_lemma": "e-ru-ta-ra",
+   "skeleton": "rtr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-TE-DO-MO",
+   "lb_lemma": "e-te-do-mo",
+   "skeleton": "tdm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-TE-RE-TA",
+   "lb_lemma": "e-te-re-ta",
+   "skeleton": "trt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-TO-KI-JA",
+   "lb_lemma": "e-to-ki-ja",
+   "skeleton": "tky",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "E-WE-PE-SE-SO-ME-NA",
+   "lb_lemma": "e-we-pe-se-so-me-na",
+   "skeleton": "wpssmn",
+   "skeleton_len": 6,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "I-ZA-A-TO-MO-I",
+   "lb_lemma": "i-za-a-to-mo-i",
+   "skeleton": "ztm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-DA-MI-JA",
+   "lb_lemma": "ka-da-mi-ja",
+   "skeleton": "kdmy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-KE-JA-PI",
+   "lb_lemma": "ka-ke-ja-pi",
+   "skeleton": "kkyp",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-KO-DE-TA",
+   "lb_lemma": "ka-ko-de-ta",
+   "skeleton": "kkdt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-NA-KO",
+   "lb_lemma": "ka-na-ko",
+   "skeleton": "knk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-NA-PE-U",
+   "lb_lemma": "ka-na-pe-u",
+   "skeleton": "knp",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-RA-A-PI",
+   "lb_lemma": "ka-ra-a-pi",
+   "skeleton": "krp",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-RA-KO",
+   "lb_lemma": "ka-ra-ko",
+   "skeleton": "krk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-RA-RE-WE",
+   "lb_lemma": "ka-ra-re-we",
+   "skeleton": "krrw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-RA-TO",
+   "lb_lemma": "ka-ra-to",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-RA-WE",
+   "lb_lemma": "ka-ra-we",
+   "skeleton": "krw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-RA-WI-PO-RO",
+   "lb_lemma": "ka-ra-wi-po-ro",
+   "skeleton": "krwpr",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-RU-KE",
+   "lb_lemma": "ka-ru-ke",
+   "skeleton": "krk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-SI-KO-NO",
+   "lb_lemma": "ka-si-ko-no",
+   "skeleton": "kskn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KA-TA-RO",
+   "lb_lemma": "ka-ta-ro",
+   "skeleton": "ktr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-KE-ME-NA",
+   "lb_lemma": "ke-ke-me-na",
+   "skeleton": "kkmn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-RA-I-JA-PI",
+   "lb_lemma": "ke-ra-i-ja-pi",
+   "skeleton": "kryp",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-RA-JA-PI",
+   "lb_lemma": "ke-ra-ja-pi",
+   "skeleton": "kryp",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-RI-MI-JA",
+   "lb_lemma": "ke-ri-mi-ja",
+   "skeleton": "krmy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-RO-SI-JA",
+   "lb_lemma": "ke-ro-si-ja",
+   "skeleton": "krsy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-RO-TA",
+   "lb_lemma": "ke-ro-ta",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-RO-TE",
+   "lb_lemma": "ke-ro-te",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KE-U-PO-DA",
+   "lb_lemma": "ke-u-po-da",
+   "skeleton": "kpd",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KI-RI-SE-WE",
+   "lb_lemma": "ki-ri-se-we",
+   "skeleton": "krsw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KI-RI-TA",
+   "lb_lemma": "ki-ri-ta",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KI-TI-ME-NA",
+   "lb_lemma": "ki-ti-me-na",
+   "skeleton": "ktmn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KI-TI-TA",
+   "lb_lemma": "ki-ti-ta",
+   "skeleton": "ktt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-KI-RE-JA",
+   "lb_lemma": "ko-ki-re-ja",
+   "skeleton": "kkry",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-NO-NI-PI",
+   "lb_lemma": "ko-no-ni-pi",
+   "skeleton": "knnp",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-RE-TE",
+   "lb_lemma": "ko-re-te",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-RE-TE-RE",
+   "lb_lemma": "ko-re-te-re",
+   "skeleton": "krtr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-RE-TE-RI",
+   "lb_lemma": "ko-re-te-ri",
+   "skeleton": "krtr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-RO-NO-WE-SA",
+   "lb_lemma": "ko-ro-no-we-sa",
+   "skeleton": "krnws",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-RO-TO",
+   "lb_lemma": "ko-ro-to",
+   "skeleton": "krt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-RU-WE-JA",
+   "lb_lemma": "ko-ru-we-ja",
+   "skeleton": "krwy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-SO-NI-JA",
+   "lb_lemma": "ko-so-ni-ja",
+   "skeleton": "ksny",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-TO-NA",
+   "lb_lemma": "ko-to-na",
+   "skeleton": "ktn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-TO-NE-TA",
+   "lb_lemma": "ko-to-ne-ta",
+   "skeleton": "ktnt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-TO-NE-WE",
+   "lb_lemma": "ko-to-ne-we",
+   "skeleton": "ktnw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-TO-NO-KO",
+   "lb_lemma": "ko-to-no-ko",
+   "skeleton": "ktnk",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KO-TO-NO-O-KO",
+   "lb_lemma": "ko-to-no-o-ko",
+   "skeleton": "ktnk",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KU-NA-JA",
+   "lb_lemma": "ku-na-ja",
+   "skeleton": "kny",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KU-PA-RI-SE-JA",
+   "lb_lemma": "ku-pa-ri-se-ja",
+   "skeleton": "kprsy",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KU-RE-WE",
+   "lb_lemma": "ku-re-we",
+   "skeleton": "krw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KU-SU-PA",
+   "lb_lemma": "ku-su-pa",
+   "skeleton": "ksp",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "KU-TE-RE-U-PI",
+   "lb_lemma": "ku-te-re-u-pi",
+   "skeleton": "ktrp",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "MA-RA-TE-U",
+   "lb_lemma": "ma-ra-te-u",
+   "skeleton": "mrt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "MA-RA-TE-WE",
+   "lb_lemma": "ma-ra-te-we",
+   "skeleton": "mrtw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ME-NO-E-JA",
+   "lb_lemma": "me-no-e-ja",
+   "skeleton": "mny",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ME-RE-TI-RI-JA",
+   "lb_lemma": "me-re-ti-ri-ja",
+   "skeleton": "mrtry",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ME-RE-U-RO",
+   "lb_lemma": "me-re-u-ro",
+   "skeleton": "mrr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ME-RI-DA-MA-TE",
+   "lb_lemma": "me-ri-da-ma-te",
+   "skeleton": "mrdmt",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ME-SA-TO",
+   "lb_lemma": "me-sa-to",
+   "skeleton": "mst",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ME-TA-KE-KU-ME-NA",
+   "lb_lemma": "me-ta-ke-ku-me-na",
+   "skeleton": "mtkkmn",
+   "skeleton_len": 6,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ME-TA-KI-TI-TA",
+   "lb_lemma": "me-ta-ki-ti-ta",
+   "skeleton": "mtktt",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "MI-KA-TA",
+   "lb_lemma": "mi-ka-ta",
+   "skeleton": "mkt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "MI-TO-WE-SA",
+   "lb_lemma": "mi-to-we-sa",
+   "skeleton": "mtws",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "MI-TO-WE-SA-E",
+   "lb_lemma": "mi-to-we-sa-e",
+   "skeleton": "mtws",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "NA-U-DO-MO",
+   "lb_lemma": "na-u-do-mo",
+   "skeleton": "ndm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-DA-KE-WE-TA",
+   "lb_lemma": "o-da-ke-we-ta",
+   "skeleton": "dkwt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-DA-SA-TO",
+   "lb_lemma": "o-da-sa-to",
+   "skeleton": "dst",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-DA-TU-WE-TA",
+   "lb_lemma": "o-da-tu-we-ta",
+   "skeleton": "dtwt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-NU-KE-JA-O",
+   "lb_lemma": "o-nu-ke-ja-o",
+   "skeleton": "nky",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-PI-KE-RE-MI-NI-JA",
+   "lb_lemma": "o-pi-ke-re-mi-ni-ja",
+   "skeleton": "pkrmny",
+   "skeleton_len": 6,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-PI-ME-NE",
+   "lb_lemma": "o-pi-me-ne",
+   "skeleton": "pmn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-RE-NE-JA",
+   "lb_lemma": "o-re-ne-ja",
+   "skeleton": "rny",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "O-RO-ME-NO",
+   "lb_lemma": "o-ro-me-no",
+   "skeleton": "rmn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PA-RA-JA",
+   "lb_lemma": "pa-ra-ja",
+   "skeleton": "pry",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PA-RA-KE-TE-E-WE",
+   "lb_lemma": "pa-ra-ke-te-e-we",
+   "skeleton": "prktw",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PA-TA-JA",
+   "lb_lemma": "pa-ta-ja",
+   "skeleton": "pty",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PA-WE-PI",
+   "lb_lemma": "pa-we-pi",
+   "skeleton": "pwp",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PA-WE-SI",
+   "lb_lemma": "pa-we-si",
+   "skeleton": "pws",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PE-KO-TO",
+   "lb_lemma": "pe-ko-to",
+   "skeleton": "pkt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PE-NE-WE-TA",
+   "lb_lemma": "pe-ne-we-ta",
+   "skeleton": "pnwt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PE-NE-WE-TE",
+   "lb_lemma": "pe-ne-we-te",
+   "skeleton": "pnwt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PE-RE-KE",
+   "lb_lemma": "pe-re-ke",
+   "skeleton": "prk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PE-RE-KU-TA",
+   "lb_lemma": "pe-re-ku-ta",
+   "skeleton": "prkt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PE-RU-SI-NU",
+   "lb_lemma": "pe-ru-si-nu",
+   "skeleton": "prsn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PE-TE-RE-WA",
+   "lb_lemma": "pe-te-re-wa",
+   "skeleton": "ptrw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PI-RI-JE",
+   "lb_lemma": "pi-ri-je",
+   "skeleton": "pry",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PI-RI-JE-TE",
+   "lb_lemma": "pi-ri-je-te",
+   "skeleton": "pryt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-KU-TA",
+   "lb_lemma": "po-ku-ta",
+   "skeleton": "pkt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-KU-TE-RO",
+   "lb_lemma": "po-ku-te-ro",
+   "skeleton": "pktr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-RI-WA",
+   "lb_lemma": "po-ri-wa",
+   "skeleton": "prw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-RO-E-KE",
+   "lb_lemma": "po-ro-e-ke",
+   "skeleton": "prk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-RO-KO-RE-TE",
+   "lb_lemma": "po-ro-ko-re-te",
+   "skeleton": "prkrt",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-RO-KO-RE-TE-RE",
+   "lb_lemma": "po-ro-ko-re-te-re",
+   "skeleton": "prkrtr",
+   "skeleton_len": 6,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-RO-KO-WA",
+   "lb_lemma": "po-ro-ko-wa",
+   "skeleton": "prkw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-RO-TO",
+   "lb_lemma": "po-ro-to",
+   "skeleton": "prt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PO-SI-KE-TE-RE",
+   "lb_lemma": "po-si-ke-te-re",
+   "skeleton": "psktr",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PU-KA-TA-RI-JA",
+   "lb_lemma": "pu-ka-ta-ri-ja",
+   "skeleton": "pktry",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PU-RA-U-TO-RO",
+   "lb_lemma": "pu-ra-u-to-ro",
+   "skeleton": "prtr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PU-TA-RI-JA",
+   "lb_lemma": "pu-ta-ri-ja",
+   "skeleton": "ptry",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "PU-TE-RI-JA",
+   "lb_lemma": "pu-te-ri-ja",
+   "skeleton": "ptry",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "QE-RA-SI-JA",
+   "lb_lemma": "qe-ra-si-ja",
+   "skeleton": "qrsy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "RA-KA-TE-RA",
+   "lb_lemma": "ra-ka-te-ra",
+   "skeleton": "rktr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "RA-WI-JA-JA-O",
+   "lb_lemma": "ra-wi-ja-ja-o",
+   "skeleton": "rwyy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "RE-PO-TO",
+   "lb_lemma": "re-po-to",
+   "skeleton": "rpt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "RI-NA-KO-RO",
+   "lb_lemma": "ri-na-ko-ro",
+   "skeleton": "rnkr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "RI-NE-JA",
+   "lb_lemma": "ri-ne-ja",
+   "skeleton": "rny",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "SU-RA-SE",
+   "lb_lemma": "su-ra-se",
+   "skeleton": "srs",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "SU-RA-TE",
+   "lb_lemma": "su-ra-te",
+   "skeleton": "srt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TA-NA-WA",
+   "lb_lemma": "ta-na-wa",
+   "skeleton": "tnw",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TA-PA-E-O-TE",
+   "lb_lemma": "ta-pa-e-o-te",
+   "skeleton": "tpt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TA-RA-NU",
+   "lb_lemma": "ta-ra-nu",
+   "skeleton": "trn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TA-RA-SI-JA",
+   "lb_lemma": "ta-ra-si-ja",
+   "skeleton": "trsy",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TA-TE-RE",
+   "lb_lemma": "ta-te-re",
+   "skeleton": "ttr",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TA-TO-MO",
+   "lb_lemma": "ta-to-mo",
+   "skeleton": "ttm",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TE-KO-TO-A-PE",
+   "lb_lemma": "te-ko-to-a-pe",
+   "skeleton": "tktp",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TE-KO-TO-NA-PE",
+   "lb_lemma": "te-ko-to-na-pe",
+   "skeleton": "tktnp",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TE-KO-TO-NE",
+   "lb_lemma": "te-ko-to-ne",
+   "skeleton": "tktn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TE-PE-JA-O",
+   "lb_lemma": "te-pe-ja-o",
+   "skeleton": "tpy",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TE-RE-JA-E",
+   "lb_lemma": "te-re-ja-e",
+   "skeleton": "try",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TE-RE-TE-WE",
+   "lb_lemma": "te-re-te-we",
+   "skeleton": "trtw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TE-U-TA-RA-KO-RO",
+   "lb_lemma": "te-u-ta-ra-ko-ro",
+   "skeleton": "ttrkr",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TI-RI-PO",
+   "lb_lemma": "ti-ri-po",
+   "skeleton": "trp",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TI-RI-PO-DI-KO",
+   "lb_lemma": "ti-ri-po-di-ko",
+   "skeleton": "trpdk",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TO-PE-ZA",
+   "lb_lemma": "to-pe-za",
+   "skeleton": "tpz",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TO-RA-KE",
+   "lb_lemma": "to-ra-ke",
+   "skeleton": "trk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TU-KA-TE-RE",
+   "lb_lemma": "tu-ka-te-re",
+   "skeleton": "tktr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TU-RA-TE-U-SI",
+   "lb_lemma": "tu-ra-te-u-si",
+   "skeleton": "trts",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "TU-RA-TE-WE",
+   "lb_lemma": "tu-ra-te-we",
+   "skeleton": "trtw",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WA-NA-KA",
+   "lb_lemma": "wa-na-ka",
+   "skeleton": "wnk",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WA-NA-KA-TE",
+   "lb_lemma": "wa-na-ka-te",
+   "skeleton": "wnkt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WA-NA-KA-TE-RA",
+   "lb_lemma": "wa-na-ka-te-ra",
+   "skeleton": "wnktr",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WA-NA-SE-WI-JA",
+   "lb_lemma": "wa-na-se-wi-ja",
+   "skeleton": "wnswy",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WA-NO-SO-I",
+   "lb_lemma": "wa-no-so-i",
+   "skeleton": "wns",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WE-A-RE-JA",
+   "lb_lemma": "we-a-re-ja",
+   "skeleton": "wry",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WE-KA-TA",
+   "lb_lemma": "we-ka-ta",
+   "skeleton": "wkt",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WE-KE-I-JA",
+   "lb_lemma": "we-ke-i-ja",
+   "skeleton": "wky",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WE-RE-KA-RA",
+   "lb_lemma": "we-re-ka-ra",
+   "skeleton": "wrkr",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WE-TE-I-WE-TE-I",
+   "lb_lemma": "we-te-i-we-te-i",
+   "skeleton": "wtwt",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WE-WE-SI-JE-JA",
+   "lb_lemma": "we-we-si-je-ja",
+   "skeleton": "wwsyy",
+   "skeleton_len": 5,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "WI-RI-NE-O",
+   "lb_lemma": "wi-ri-ne-o",
+   "skeleton": "wrn",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ZE-SO-ME-NO",
+   "lb_lemma": "ze-so-me-no",
+   "skeleton": "zsmn",
+   "skeleton_len": 4,
+   "kind": "lb_greek"
+  },
+  {
+   "word": "ZE-U-KE-U-SI",
+   "lb_lemma": "ze-u-ke-u-si",
+   "skeleton": "zks",
+   "skeleton_len": 3,
+   "kind": "lb_greek"
+  }
+ ],
+ "lb_loans": [
+  {
+   "word": "KI-TO",
+   "lb_lemma": "ki-to",
+   "source": "kitû, ktn 'linen, tunic'",
+   "skeleton": "kt",
+   "skeleton_len": 2,
+   "kind": "lb_semitic_loan"
+  },
+  {
+   "word": "KU-MI-NO",
+   "lb_lemma": "ku-mi-no",
+   "source": "kamūnu 'cumin'",
+   "skeleton": "kmn",
+   "skeleton_len": 3,
+   "kind": "lb_semitic_loan"
+  },
+  {
+   "word": "KU-RU-SO",
+   "lb_lemma": "ku-ru-so",
+   "source": "ḫurāṣu / ḥrṣ 'gold'",
+   "skeleton": "krs",
+   "skeleton_len": 3,
+   "kind": "lb_semitic_loan"
+  },
+  {
+   "word": "SA-SA-MA",
+   "lb_lemma": "sa-sa-ma",
+   "source": "šamaššammū 'sesame'",
+   "skeleton": "ssm",
+   "skeleton_len": 3,
+   "kind": "lb_semitic_loan"
+  }
+ ],
+ "lb_shuffles": [
+  {
+   "word": "NO-A-RA-KA",
+   "kind": "lb_shuffle",
+   "source": "A-KA-RA-NO",
+   "skeleton": "nrk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MO-KE-RE-A",
+   "kind": "lb_shuffle",
+   "source": "A-KE-RE-MO",
+   "skeleton": "mkr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KE-NO-A-RE-MO",
+   "kind": "lb_shuffle",
+   "source": "A-KE-RE-MO-NO",
+   "skeleton": "knrm",
+   "skeleton_len": 4
+  },
+  {
+   "word": "RE-A-KE-SE",
+   "kind": "lb_shuffle",
+   "source": "A-KE-RE-SE",
+   "skeleton": "rks",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TI-A-RA-KE",
+   "kind": "lb_shuffle",
+   "source": "A-KE-TI-RA",
+   "skeleton": "trk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TI-KI-TO-A",
+   "kind": "lb_shuffle",
+   "source": "A-KI-TI-TO",
+   "skeleton": "tkt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RO-A-KO-WE",
+   "kind": "lb_shuffle",
+   "source": "A-KO-RO-WE",
+   "skeleton": "rkw",
+   "skeleton_len": 2
+  },
+  {
+   "word": "KO-A-NE-SO",
+   "kind": "lb_shuffle",
+   "source": "A-KO-SO-NE",
+   "skeleton": "kns",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TO-KO-NO-A",
+   "kind": "lb_shuffle",
+   "source": "A-KO-TO-NO",
+   "skeleton": "tkn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "JE-TO-I-MO-A",
+   "kind": "lb_shuffle",
+   "source": "A-MO-I-JE-TO",
+   "skeleton": "ytm",
+   "skeleton_len": 3
+  },
+  {
+   "word": "A-RA-MO-MA",
+   "kind": "lb_shuffle",
+   "source": "A-MO-RA-MA",
+   "skeleton": "rmm",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MO-RE-A-TE",
+   "kind": "lb_shuffle",
+   "source": "A-MO-TE-RE",
+   "skeleton": "mrt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-JA-MO-A-WI",
+   "kind": "lb_shuffle",
+   "source": "A-MO-TE-WI-JA",
+   "skeleton": "tymw",
+   "skeleton_len": 4
+  },
+  {
+   "word": "NA-TO-A-MO",
+   "kind": "lb_shuffle",
+   "source": "A-NA-MO-TO",
+   "skeleton": "ntm",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TA-A-DE-NE",
+   "kind": "lb_shuffle",
+   "source": "A-NE-TA-DE",
+   "skeleton": "tdn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "A-NU-KO-WI",
+   "kind": "lb_shuffle",
+   "source": "A-NU-WI-KO",
+   "skeleton": "nkw",
+   "skeleton_len": 2
+  },
+  {
+   "word": "PI-PO-A-WE-RE",
+   "kind": "lb_shuffle",
+   "source": "A-PI-PO-RE-WE",
+   "skeleton": "ppwr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "A-RE-WE-PO",
+   "kind": "lb_shuffle",
+   "source": "A-PO-RE-WE",
+   "skeleton": "rwp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "A-TE-TE-RO-PO",
+   "kind": "lb_shuffle",
+   "source": "A-PO-TE-RO-TE",
+   "skeleton": "ttrp",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KE-DO-PU-A",
+   "kind": "lb_shuffle",
+   "source": "A-PU-DO-KE",
+   "skeleton": "kdp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PU-SI-DO-A",
+   "kind": "lb_shuffle",
+   "source": "A-PU-DO-SI",
+   "skeleton": "psd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "A-ME-NA-MO-RO-TE-RA",
+   "kind": "lb_shuffle",
+   "source": "A-RA-RO-MO-TE-ME-NA",
+   "skeleton": "mnmrtr",
+   "skeleton_len": 6
+  },
+  {
+   "word": "A-JA-RU-RA",
+   "kind": "lb_shuffle",
+   "source": "A-RA-RU-JA",
+   "skeleton": "yrr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "SA-NI-RE-A-E",
+   "kind": "lb_shuffle",
+   "source": "A-RE-SA-NI-E",
+   "skeleton": "snr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "A-RE-TE-TE-A",
+   "kind": "lb_shuffle",
+   "source": "A-TE-RE-TE-A",
+   "skeleton": "rtt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KO-RO-I-DA",
+   "kind": "lb_shuffle",
+   "source": "DA-KO-RO-I",
+   "skeleton": "krd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MO-DE-DA-MI",
+   "kind": "lb_shuffle",
+   "source": "DA-MO-DE-MI",
+   "skeleton": "mddm",
+   "skeleton_len": 4
+  },
+  {
+   "word": "DA-KO-RO-MO",
+   "kind": "lb_shuffle",
+   "source": "DA-MO-KO-RO",
+   "skeleton": "dkrm",
+   "skeleton_len": 4
+  },
+  {
+   "word": "ME-DE-DE-NO",
+   "kind": "lb_shuffle",
+   "source": "DE-DE-ME-NO",
+   "skeleton": "mddn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "JA-DE-DI-KU",
+   "kind": "lb_shuffle",
+   "source": "DE-DI-KU-JA",
+   "skeleton": "yddk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "SA-KA-TO-DE",
+   "kind": "lb_shuffle",
+   "source": "DE-KA-SA-TO",
+   "skeleton": "sktd",
+   "skeleton_len": 4
+  },
+  {
+   "word": "MA-DE-SI",
+   "kind": "lb_shuffle",
+   "source": "DE-MA-SI",
+   "skeleton": "mds",
+   "skeleton_len": 3
+  },
+  {
+   "word": "O-ME-DE-TE",
+   "kind": "lb_shuffle",
+   "source": "DE-ME-O-TE",
+   "skeleton": "mdt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MI-NI-JA-DE",
+   "kind": "lb_shuffle",
+   "source": "DE-MI-NI-JA",
+   "skeleton": "mnyd",
+   "skeleton_len": 4
+  },
+  {
+   "word": "MO-SO-DE",
+   "kind": "lb_shuffle",
+   "source": "DE-SO-MO",
+   "skeleton": "msd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PI-WA-DE",
+   "kind": "lb_shuffle",
+   "source": "DE-WA-PI",
+   "skeleton": "pwd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KA-DA-RE-DI",
+   "kind": "lb_shuffle",
+   "source": "DI-DA-KA-RE",
+   "skeleton": "kdrd",
+   "skeleton_len": 4
+  },
+  {
+   "word": "DO-SI-DI",
+   "kind": "lb_shuffle",
+   "source": "DI-DO-SI",
+   "skeleton": "dsd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MO-SO-DO",
+   "kind": "lb_shuffle",
+   "source": "DO-SO-MO",
+   "skeleton": "msd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RU-TO-DU-MO",
+   "kind": "lb_shuffle",
+   "source": "DU-RU-TO-MO",
+   "skeleton": "rtdm",
+   "skeleton_len": 4
+  },
+  {
+   "word": "E-E-WE-KA-RA",
+   "kind": "lb_shuffle",
+   "source": "E-KA-RA-E-WE",
+   "skeleton": "wkr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "E-TE-KA-TA-RE",
+   "kind": "lb_shuffle",
+   "source": "E-KA-TE-RE-TA",
+   "skeleton": "tktr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "NE-E-NA-ME",
+   "kind": "lb_shuffle",
+   "source": "E-NE-ME-NA",
+   "skeleton": "nnm",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RE-NE-E-JA",
+   "kind": "lb_shuffle",
+   "source": "E-NE-RE-JA",
+   "skeleton": "rny",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PI-TO-DA-E",
+   "kind": "lb_shuffle",
+   "source": "E-PI-DA-TO",
+   "skeleton": "ptd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "E-DA-TO-DE-PI",
+   "kind": "lb_shuffle",
+   "source": "E-PI-DE-DA-TO",
+   "skeleton": "dtdp",
+   "skeleton_len": 4
+  },
+  {
+   "word": "E-KE-RE-PI",
+   "kind": "lb_shuffle",
+   "source": "E-PI-KE-RE",
+   "skeleton": "krp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "JA-NI-E-TO-PI-KI",
+   "kind": "lb_shuffle",
+   "source": "E-PI-KI-TO-NI-JA",
+   "skeleton": "yntpk",
+   "skeleton_len": 5
+  },
+  {
+   "word": "RO-E-JA-PI-PA",
+   "kind": "lb_shuffle",
+   "source": "E-PI-RO-PA-JA",
+   "skeleton": "rypp",
+   "skeleton_len": 4
+  },
+  {
+   "word": "NA-E-RA-PE-ME",
+   "kind": "lb_shuffle",
+   "source": "E-RA-PE-ME-NA",
+   "skeleton": "nrpm",
+   "skeleton_len": 4
+  },
+  {
+   "word": "U-TE-RE-E-RE",
+   "kind": "lb_shuffle",
+   "source": "E-RE-U-TE-RE",
+   "skeleton": "trr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-U-RE-E-RO",
+   "kind": "lb_shuffle",
+   "source": "E-RE-U-TE-RO",
+   "skeleton": "trr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "E-SE-RE-RO-TE-U",
+   "kind": "lb_shuffle",
+   "source": "E-RE-U-TE-RO-SE",
+   "skeleton": "srrt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "JA-E-KE-PA-RO",
+   "kind": "lb_shuffle",
+   "source": "E-RO-PA-KE-JA",
+   "skeleton": "ykpr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "U-KE-RO-E-PA",
+   "kind": "lb_shuffle",
+   "source": "E-RO-PA-KE-U",
+   "skeleton": "krp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "E-MI-RU-NI-JA",
+   "kind": "lb_shuffle",
+   "source": "E-RU-MI-NI-JA",
+   "skeleton": "mrny",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TA-E-RU-RA",
+   "kind": "lb_shuffle",
+   "source": "E-RU-TA-RA",
+   "skeleton": "trr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MO-DO-E-TE",
+   "kind": "lb_shuffle",
+   "source": "E-TE-DO-MO",
+   "skeleton": "mdt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "E-RE-TE-TA",
+   "kind": "lb_shuffle",
+   "source": "E-TE-RE-TA",
+   "skeleton": "rtt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "JA-KI-TO-E",
+   "kind": "lb_shuffle",
+   "source": "E-TO-KI-JA",
+   "skeleton": "ykt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "SO-WE-E-PE-NA-SE-ME",
+   "kind": "lb_shuffle",
+   "source": "E-WE-PE-SE-SO-ME-NA",
+   "skeleton": "swpnsm",
+   "skeleton_len": 6
+  },
+  {
+   "word": "MO-ZA-TO-I-A-I",
+   "kind": "lb_shuffle",
+   "source": "I-ZA-A-TO-MO-I",
+   "skeleton": "mzt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MI-DA-KA-JA",
+   "kind": "lb_shuffle",
+   "source": "KA-DA-MI-JA",
+   "skeleton": "mdky",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KE-JA-PI-KA",
+   "kind": "lb_shuffle",
+   "source": "KA-KE-JA-PI",
+   "skeleton": "kypk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "DE-KO-KA-TA",
+   "kind": "lb_shuffle",
+   "source": "KA-KO-DE-TA",
+   "skeleton": "dkkt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KA-KO-NA",
+   "kind": "lb_shuffle",
+   "source": "KA-NA-KO",
+   "skeleton": "kkn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "U-KA-PE-NA",
+   "kind": "lb_shuffle",
+   "source": "KA-NA-PE-U",
+   "skeleton": "kpn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RA-PI-KA-A",
+   "kind": "lb_shuffle",
+   "source": "KA-RA-A-PI",
+   "skeleton": "rpk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RA-KO-KA",
+   "kind": "lb_shuffle",
+   "source": "KA-RA-KO",
+   "skeleton": "rkk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RE-WE-RA-KA",
+   "kind": "lb_shuffle",
+   "source": "KA-RA-RE-WE",
+   "skeleton": "rwrk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KA-TO-RA",
+   "kind": "lb_shuffle",
+   "source": "KA-RA-TO",
+   "skeleton": "ktr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RA-WE-KA",
+   "kind": "lb_shuffle",
+   "source": "KA-RA-WE",
+   "skeleton": "rwk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RA-WI-KA-PO-RO",
+   "kind": "lb_shuffle",
+   "source": "KA-RA-WI-PO-RO",
+   "skeleton": "rwkpr",
+   "skeleton_len": 5
+  },
+  {
+   "word": "KA-KE-RU",
+   "kind": "lb_shuffle",
+   "source": "KA-RU-KE",
+   "skeleton": "kkr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "SI-NO-KO-KA",
+   "kind": "lb_shuffle",
+   "source": "KA-SI-KO-NO",
+   "skeleton": "snkk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TA-KA-RO",
+   "kind": "lb_shuffle",
+   "source": "KA-TA-RO",
+   "skeleton": "tkr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KE-ME-KE-NA",
+   "kind": "lb_shuffle",
+   "source": "KE-KE-ME-NA",
+   "skeleton": "kmkn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KE-PI-I-JA-RA",
+   "kind": "lb_shuffle",
+   "source": "KE-RA-I-JA-PI",
+   "skeleton": "kpyr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "PI-JA-RA-KE",
+   "kind": "lb_shuffle",
+   "source": "KE-RA-JA-PI",
+   "skeleton": "pyrk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "MI-KE-JA-RI",
+   "kind": "lb_shuffle",
+   "source": "KE-RI-MI-JA",
+   "skeleton": "mkyr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "SI-JA-KE-RO",
+   "kind": "lb_shuffle",
+   "source": "KE-RO-SI-JA",
+   "skeleton": "sykr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KE-TA-RO",
+   "kind": "lb_shuffle",
+   "source": "KE-RO-TA",
+   "skeleton": "ktr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RO-TE-KE",
+   "kind": "lb_shuffle",
+   "source": "KE-RO-TE",
+   "skeleton": "rtk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "U-PO-KE-DA",
+   "kind": "lb_shuffle",
+   "source": "KE-U-PO-DA",
+   "skeleton": "pkd",
+   "skeleton_len": 3
+  },
+  {
+   "word": "SE-KI-WE-RI",
+   "kind": "lb_shuffle",
+   "source": "KI-RI-SE-WE",
+   "skeleton": "skwr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TA-RI-KI",
+   "kind": "lb_shuffle",
+   "source": "KI-RI-TA",
+   "skeleton": "trk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KI-ME-NA-TI",
+   "kind": "lb_shuffle",
+   "source": "KI-TI-ME-NA",
+   "skeleton": "kmnt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TI-TA-KI",
+   "kind": "lb_shuffle",
+   "source": "KI-TI-TA",
+   "skeleton": "ttk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RE-JA-KO-KI",
+   "kind": "lb_shuffle",
+   "source": "KO-KI-RE-JA",
+   "skeleton": "rykk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "PI-KO-NI-NO",
+   "kind": "lb_shuffle",
+   "source": "KO-NO-NI-PI",
+   "skeleton": "pknn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KO-TE-RE",
+   "kind": "lb_shuffle",
+   "source": "KO-RE-TE",
+   "skeleton": "ktr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-RE-RE-KO",
+   "kind": "lb_shuffle",
+   "source": "KO-RE-TE-RE",
+   "skeleton": "trrk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "RE-RI-TE-KO",
+   "kind": "lb_shuffle",
+   "source": "KO-RE-TE-RI",
+   "skeleton": "rrtk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "NO-WE-KO-RO-SA",
+   "kind": "lb_shuffle",
+   "source": "KO-RO-NO-WE-SA",
+   "skeleton": "nwkrs",
+   "skeleton_len": 5
+  },
+  {
+   "word": "RO-TO-KO",
+   "kind": "lb_shuffle",
+   "source": "KO-RO-TO",
+   "skeleton": "rtk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "JA-KO-RU-WE",
+   "kind": "lb_shuffle",
+   "source": "KO-RU-WE-JA",
+   "skeleton": "ykrw",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KO-SO-JA-NI",
+   "kind": "lb_shuffle",
+   "source": "KO-SO-NI-JA",
+   "skeleton": "ksyn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "NA-KO-TO",
+   "kind": "lb_shuffle",
+   "source": "KO-TO-NA",
+   "skeleton": "nkt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "NE-TO-KO-TA",
+   "kind": "lb_shuffle",
+   "source": "KO-TO-NE-TA",
+   "skeleton": "ntkt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TO-WE-KO-NE",
+   "kind": "lb_shuffle",
+   "source": "KO-TO-NE-WE",
+   "skeleton": "twkn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KO-NO-KO-TO",
+   "kind": "lb_shuffle",
+   "source": "KO-TO-NO-KO",
+   "skeleton": "knkt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TO-KO-O-KO-NO",
+   "kind": "lb_shuffle",
+   "source": "KO-TO-NO-O-KO",
+   "skeleton": "tkkn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "JA-NA-KU",
+   "kind": "lb_shuffle",
+   "source": "KU-NA-JA",
+   "skeleton": "ynk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KU-SE-PA-JA-RI",
+   "kind": "lb_shuffle",
+   "source": "KU-PA-RI-SE-JA",
+   "skeleton": "kspyr",
+   "skeleton_len": 5
+  },
+  {
+   "word": "KU-WE-RE",
+   "kind": "lb_shuffle",
+   "source": "KU-RE-WE",
+   "skeleton": "kwr",
+   "skeleton_len": 2
+  },
+  {
+   "word": "PA-KU-SU",
+   "kind": "lb_shuffle",
+   "source": "KU-SU-PA",
+   "skeleton": "pks",
+   "skeleton_len": 3
+  },
+  {
+   "word": "U-RE-KU-PI-TE",
+   "kind": "lb_shuffle",
+   "source": "KU-TE-RE-U-PI",
+   "skeleton": "rkpt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "MA-TE-U-RA",
+   "kind": "lb_shuffle",
+   "source": "MA-RA-TE-U",
+   "skeleton": "mtr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RA-MA-WE-TE",
+   "kind": "lb_shuffle",
+   "source": "MA-RA-TE-WE",
+   "skeleton": "rmwt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "E-NO-JA-ME",
+   "kind": "lb_shuffle",
+   "source": "ME-NO-E-JA",
+   "skeleton": "nym",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RI-ME-JA-RE-TI",
+   "kind": "lb_shuffle",
+   "source": "ME-RE-TI-RI-JA",
+   "skeleton": "rmyrt",
+   "skeleton_len": 5
+  },
+  {
+   "word": "RO-RE-ME-U",
+   "kind": "lb_shuffle",
+   "source": "ME-RE-U-RO",
+   "skeleton": "rrm",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RI-ME-TE-DA-MA",
+   "kind": "lb_shuffle",
+   "source": "ME-RI-DA-MA-TE",
+   "skeleton": "rmtdm",
+   "skeleton_len": 5
+  },
+  {
+   "word": "SA-ME-TO",
+   "kind": "lb_shuffle",
+   "source": "ME-SA-TO",
+   "skeleton": "smt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "NA-KE-ME-TA-KU-ME",
+   "kind": "lb_shuffle",
+   "source": "ME-TA-KE-KU-ME-NA",
+   "skeleton": "nkmtkm",
+   "skeleton_len": 6
+  },
+  {
+   "word": "TA-TI-ME-KI-TA",
+   "kind": "lb_shuffle",
+   "source": "ME-TA-KI-TI-TA",
+   "skeleton": "ttmkt",
+   "skeleton_len": 5
+  },
+  {
+   "word": "MI-TA-KA",
+   "kind": "lb_shuffle",
+   "source": "MI-KA-TA",
+   "skeleton": "mtk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "WE-MI-TO-SA",
+   "kind": "lb_shuffle",
+   "source": "MI-TO-WE-SA",
+   "skeleton": "wmts",
+   "skeleton_len": 3
+  },
+  {
+   "word": "E-TO-SA-MI-WE",
+   "kind": "lb_shuffle",
+   "source": "MI-TO-WE-SA-E",
+   "skeleton": "tsmw",
+   "skeleton_len": 3
+  },
+  {
+   "word": "MO-U-DO-NA",
+   "kind": "lb_shuffle",
+   "source": "NA-U-DO-MO",
+   "skeleton": "mdn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "O-KE-DA-WE-TA",
+   "kind": "lb_shuffle",
+   "source": "O-DA-KE-WE-TA",
+   "skeleton": "kdwt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TO-DA-SA-O",
+   "kind": "lb_shuffle",
+   "source": "O-DA-SA-TO",
+   "skeleton": "tds",
+   "skeleton_len": 3
+  },
+  {
+   "word": "DA-WE-O-TU-TA",
+   "kind": "lb_shuffle",
+   "source": "O-DA-TU-WE-TA",
+   "skeleton": "dwtt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "O-KE-JA-NU-O",
+   "kind": "lb_shuffle",
+   "source": "O-NU-KE-JA-O",
+   "skeleton": "kyn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PI-O-RE-JA-KE-MI-NI",
+   "kind": "lb_shuffle",
+   "source": "O-PI-KE-RE-MI-NI-JA",
+   "skeleton": "prykmn",
+   "skeleton_len": 6
+  },
+  {
+   "word": "NE-O-ME-PI",
+   "kind": "lb_shuffle",
+   "source": "O-PI-ME-NE",
+   "skeleton": "nmp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "JA-NE-O-RE",
+   "kind": "lb_shuffle",
+   "source": "O-RE-NE-JA",
+   "skeleton": "ynr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RO-O-NO-ME",
+   "kind": "lb_shuffle",
+   "source": "O-RO-ME-NO",
+   "skeleton": "rnm",
+   "skeleton_len": 3
+  },
+  {
+   "word": "JA-PA-RA",
+   "kind": "lb_shuffle",
+   "source": "PA-RA-JA",
+   "skeleton": "ypr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PA-KE-RA-WE-E-TE",
+   "kind": "lb_shuffle",
+   "source": "PA-RA-KE-TE-E-WE",
+   "skeleton": "pkrwt",
+   "skeleton_len": 5
+  },
+  {
+   "word": "PA-JA-TA",
+   "kind": "lb_shuffle",
+   "source": "PA-TA-JA",
+   "skeleton": "pyt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PA-PI-WE",
+   "kind": "lb_shuffle",
+   "source": "PA-WE-PI",
+   "skeleton": "ppw",
+   "skeleton_len": 3
+  },
+  {
+   "word": "WE-PA-SI",
+   "kind": "lb_shuffle",
+   "source": "PA-WE-SI",
+   "skeleton": "wps",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PE-TO-KO",
+   "kind": "lb_shuffle",
+   "source": "PE-KO-TO",
+   "skeleton": "ptk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "NE-WE-PE-TA",
+   "kind": "lb_shuffle",
+   "source": "PE-NE-WE-TA",
+   "skeleton": "nwpt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TE-WE-PE-NE",
+   "kind": "lb_shuffle",
+   "source": "PE-NE-WE-TE",
+   "skeleton": "twpn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KE-RE-PE",
+   "kind": "lb_shuffle",
+   "source": "PE-RE-KE",
+   "skeleton": "krp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PE-KU-TA-RE",
+   "kind": "lb_shuffle",
+   "source": "PE-RE-KU-TA",
+   "skeleton": "pktr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "RU-NU-PE-SI",
+   "kind": "lb_shuffle",
+   "source": "PE-RU-SI-NU",
+   "skeleton": "rnps",
+   "skeleton_len": 4
+  },
+  {
+   "word": "PE-RE-TE-WA",
+   "kind": "lb_shuffle",
+   "source": "PE-TE-RE-WA",
+   "skeleton": "prtw",
+   "skeleton_len": 4
+  },
+  {
+   "word": "JE-RI-PI",
+   "kind": "lb_shuffle",
+   "source": "PI-RI-JE",
+   "skeleton": "yrp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RI-TE-PI-JE",
+   "kind": "lb_shuffle",
+   "source": "PI-RI-JE-TE",
+   "skeleton": "rtpy",
+   "skeleton_len": 4
+  },
+  {
+   "word": "KU-TA-PO",
+   "kind": "lb_shuffle",
+   "source": "PO-KU-TA",
+   "skeleton": "ktp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KU-RO-PO-TE",
+   "kind": "lb_shuffle",
+   "source": "PO-KU-TE-RO",
+   "skeleton": "krpt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "WA-RI-PO",
+   "kind": "lb_shuffle",
+   "source": "PO-RI-WA",
+   "skeleton": "wrp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PO-E-KE-RO",
+   "kind": "lb_shuffle",
+   "source": "PO-RO-E-KE",
+   "skeleton": "pkr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PO-TE-KO-RE-RO",
+   "kind": "lb_shuffle",
+   "source": "PO-RO-KO-RE-TE",
+   "skeleton": "ptkrr",
+   "skeleton_len": 5
+  },
+  {
+   "word": "TE-RO-PO-KO-RE-RE",
+   "kind": "lb_shuffle",
+   "source": "PO-RO-KO-RE-TE-RE",
+   "skeleton": "trpkrr",
+   "skeleton_len": 6
+  },
+  {
+   "word": "RO-WA-PO-KO",
+   "kind": "lb_shuffle",
+   "source": "PO-RO-KO-WA",
+   "skeleton": "rwpk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "PO-TO-RO",
+   "kind": "lb_shuffle",
+   "source": "PO-RO-TO",
+   "skeleton": "ptr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "PO-TE-RE-SI-KE",
+   "kind": "lb_shuffle",
+   "source": "PO-SI-KE-TE-RE",
+   "skeleton": "ptrsk",
+   "skeleton_len": 5
+  },
+  {
+   "word": "JA-TA-PU-RI-KA",
+   "kind": "lb_shuffle",
+   "source": "PU-KA-TA-RI-JA",
+   "skeleton": "ytprk",
+   "skeleton_len": 5
+  },
+  {
+   "word": "TO-PU-RO-RA-U",
+   "kind": "lb_shuffle",
+   "source": "PU-RA-U-TO-RO",
+   "skeleton": "tprr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "RI-TA-PU-JA",
+   "kind": "lb_shuffle",
+   "source": "PU-TA-RI-JA",
+   "skeleton": "rtpy",
+   "skeleton_len": 4
+  },
+  {
+   "word": "PU-TE-JA-RI",
+   "kind": "lb_shuffle",
+   "source": "PU-TE-RI-JA",
+   "skeleton": "ptyr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "QE-JA-SI-RA",
+   "kind": "lb_shuffle",
+   "source": "QE-RA-SI-JA",
+   "skeleton": "qysr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "RA-TE-RA-KA",
+   "kind": "lb_shuffle",
+   "source": "RA-KA-TE-RA",
+   "skeleton": "rtrk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "JA-O-RA-JA-WI",
+   "kind": "lb_shuffle",
+   "source": "RA-WI-JA-JA-O",
+   "skeleton": "yryw",
+   "skeleton_len": 4
+  },
+  {
+   "word": "PO-TO-RE",
+   "kind": "lb_shuffle",
+   "source": "RE-PO-TO",
+   "skeleton": "ptr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KO-RO-NA-RI",
+   "kind": "lb_shuffle",
+   "source": "RI-NA-KO-RO",
+   "skeleton": "krnr",
+   "skeleton_len": 4
+  },
+  {
+   "word": "JA-NE-RI",
+   "kind": "lb_shuffle",
+   "source": "RI-NE-JA",
+   "skeleton": "ynr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "SU-SE-RA",
+   "kind": "lb_shuffle",
+   "source": "SU-RA-SE",
+   "skeleton": "ssr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-SU-RA",
+   "kind": "lb_shuffle",
+   "source": "SU-RA-TE",
+   "skeleton": "tsr",
+   "skeleton_len": 2
+  },
+  {
+   "word": "NA-WA-TA",
+   "kind": "lb_shuffle",
+   "source": "TA-NA-WA",
+   "skeleton": "nwt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "O-TE-TA-PA-E",
+   "kind": "lb_shuffle",
+   "source": "TA-PA-E-O-TE",
+   "skeleton": "ttp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "NU-RA-TA",
+   "kind": "lb_shuffle",
+   "source": "TA-RA-NU",
+   "skeleton": "nrt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TA-SI-RA-JA",
+   "kind": "lb_shuffle",
+   "source": "TA-RA-SI-JA",
+   "skeleton": "tsry",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-RE-TA",
+   "kind": "lb_shuffle",
+   "source": "TA-TE-RE",
+   "skeleton": "trt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TA-MO-TO",
+   "kind": "lb_shuffle",
+   "source": "TA-TO-MO",
+   "skeleton": "tmt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KO-A-TO-TE-PE",
+   "kind": "lb_shuffle",
+   "source": "TE-KO-TO-A-PE",
+   "skeleton": "kttp",
+   "skeleton_len": 4
+  },
+  {
+   "word": "PE-KO-TE-TO-NA",
+   "kind": "lb_shuffle",
+   "source": "TE-KO-TO-NA-PE",
+   "skeleton": "pkttn",
+   "skeleton_len": 5
+  },
+  {
+   "word": "NE-TE-TO-KO",
+   "kind": "lb_shuffle",
+   "source": "TE-KO-TO-NE",
+   "skeleton": "nttk",
+   "skeleton_len": 4
+  },
+  {
+   "word": "O-JA-PE-TE",
+   "kind": "lb_shuffle",
+   "source": "TE-PE-JA-O",
+   "skeleton": "ypt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-E-JA-RE",
+   "kind": "lb_shuffle",
+   "source": "TE-RE-JA-E",
+   "skeleton": "tyr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-RE-WE-TE",
+   "kind": "lb_shuffle",
+   "source": "TE-RE-TE-WE",
+   "skeleton": "trwt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "RO-TE-KO-RA-TA-U",
+   "kind": "lb_shuffle",
+   "source": "TE-U-TA-RA-KO-RO",
+   "skeleton": "rtkrt",
+   "skeleton_len": 5
+  },
+  {
+   "word": "RI-TI-PO",
+   "kind": "lb_shuffle",
+   "source": "TI-RI-PO",
+   "skeleton": "rtp",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KO-RI-DI-PO-TI",
+   "kind": "lb_shuffle",
+   "source": "TI-RI-PO-DI-KO",
+   "skeleton": "krdpt",
+   "skeleton_len": 5
+  },
+  {
+   "word": "ZA-PE-TO",
+   "kind": "lb_shuffle",
+   "source": "TO-PE-ZA",
+   "skeleton": "zpt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RA-KE-TO",
+   "kind": "lb_shuffle",
+   "source": "TO-RA-KE",
+   "skeleton": "rkt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RE-KA-TU-TE",
+   "kind": "lb_shuffle",
+   "source": "TU-KA-TE-RE",
+   "skeleton": "rktt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TU-SI-RA-TE-U",
+   "kind": "lb_shuffle",
+   "source": "TU-RA-TE-U-SI",
+   "skeleton": "tsrt",
+   "skeleton_len": 3
+  },
+  {
+   "word": "WE-TE-RA-TU",
+   "kind": "lb_shuffle",
+   "source": "TU-RA-TE-WE",
+   "skeleton": "wtrt",
+   "skeleton_len": 4
+  },
+  {
+   "word": "NA-WA-KA",
+   "kind": "lb_shuffle",
+   "source": "WA-NA-KA",
+   "skeleton": "nwk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TE-WA-KA-NA",
+   "kind": "lb_shuffle",
+   "source": "WA-NA-KA-TE",
+   "skeleton": "twkn",
+   "skeleton_len": 4
+  },
+  {
+   "word": "WA-RA-TE-KA-NA",
+   "kind": "lb_shuffle",
+   "source": "WA-NA-KA-TE-RA",
+   "skeleton": "wrtkn",
+   "skeleton_len": 5
+  },
+  {
+   "word": "NA-JA-SE-WA-WI",
+   "kind": "lb_shuffle",
+   "source": "WA-NA-SE-WI-JA",
+   "skeleton": "nysww",
+   "skeleton_len": 5
+  },
+  {
+   "word": "SO-WA-I-NO",
+   "kind": "lb_shuffle",
+   "source": "WA-NO-SO-I",
+   "skeleton": "swn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RE-A-WE-JA",
+   "kind": "lb_shuffle",
+   "source": "WE-A-RE-JA",
+   "skeleton": "rwy",
+   "skeleton_len": 3
+  },
+  {
+   "word": "KA-TA-WE",
+   "kind": "lb_shuffle",
+   "source": "WE-KA-TA",
+   "skeleton": "ktw",
+   "skeleton_len": 3
+  },
+  {
+   "word": "WE-JA-KE-I",
+   "kind": "lb_shuffle",
+   "source": "WE-KE-I-JA",
+   "skeleton": "wyk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "RE-KA-RA-WE",
+   "kind": "lb_shuffle",
+   "source": "WE-RE-KA-RA",
+   "skeleton": "rkrw",
+   "skeleton_len": 4
+  },
+  {
+   "word": "TE-I-TE-I-WE-WE",
+   "kind": "lb_shuffle",
+   "source": "WE-TE-I-WE-TE-I",
+   "skeleton": "ttww",
+   "skeleton_len": 4
+  },
+  {
+   "word": "JA-WE-JE-WE-SI",
+   "kind": "lb_shuffle",
+   "source": "WE-WE-SI-JE-JA",
+   "skeleton": "ywyws",
+   "skeleton_len": 5
+  },
+  {
+   "word": "O-RI-WI-NE",
+   "kind": "lb_shuffle",
+   "source": "WI-RI-NE-O",
+   "skeleton": "rwn",
+   "skeleton_len": 3
+  },
+  {
+   "word": "ZE-SO-NO-ME",
+   "kind": "lb_shuffle",
+   "source": "ZE-SO-ME-NO",
+   "skeleton": "zsnm",
+   "skeleton_len": 4
+  },
+  {
+   "word": "U-ZE-SI-KE-U",
+   "kind": "lb_shuffle",
+   "source": "ZE-U-KE-U-SI",
+   "skeleton": "zsk",
+   "skeleton_len": 3
+  },
+  {
+   "word": "TO-KI",
+   "kind": "lb_shuffle",
+   "source": "KI-TO",
+   "skeleton": "tk",
+   "skeleton_len": 2
+  },
+  {
+   "word": "KU-NO-MI",
+   "kind": "lb_shuffle",
+   "source": "KU-MI-NO",
+   "skeleton": "knm",
+   "skeleton_len": 3
+  },
+  {
+   "word": "SO-KU-RU",
+   "kind": "lb_shuffle",
+   "source": "KU-RU-SO",
+   "skeleton": "skr",
+   "skeleton_len": 3
+  },
+  {
+   "word": "SA-MA-SA",
+   "kind": "lb_shuffle",
+   "source": "SA-SA-MA",
+   "skeleton": "sms",
+   "skeleton_len": 3
+  }
+ ],
+ "excluded": [
+  {
+   "word": "*188",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "*301",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "*308",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "*401",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "*516",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "A-DI-KI-TE",
+   "reason": "root not parseable: None"
+  },
+  {
+   "word": "A-DU",
+   "reason": "root not parseable: None"
+  },
+  {
+   "word": "A-DU *307+*387",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "DU",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "U-NA",
+   "reason": "root not parseable: 'w + h-n'"
+  },
+  {
+   "word": "KI-DE-MA-*323-NA",
+   "reason": "unmapped sign ['*323']"
+  },
+  {
+   "word": "KU-PA₃-PA₃",
+   "reason": "root not parseable: None"
+  },
+  {
+   "word": "MI+*301",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "NO-X-NA-MA",
+   "reason": "unmapped sign ['X']"
+  },
+  {
+   "word": "OLE-*307",
+   "reason": "unmapped sign ['OLE', '*307']"
+  },
+  {
+   "word": "PA-I-TO",
+   "reason": "root not parseable: None"
+  },
+  {
+   "word": "PO-TO-KU-RO",
+   "reason": "root not parseable: 'b-t + k-l'"
+  },
+  {
+   "word": "RE",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "SI",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "SI-DU-*34-KU-MI",
+   "reason": "root not parseable: 'ṣ-d-q + Hurrian -kummi'"
+  },
+  {
+   "word": "TAMIR",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "TI-NI-TA *307",
+   "reason": "unmapped sign ['TA *307']"
+  },
+  {
+   "word": "VIR+*307",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "SU",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "DI",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "I",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "QE",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "GRA",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "VIN",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "OLE",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "OLIV",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "*23M",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "RO",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "YM'N",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "Y3-Y-D33",
+   "reason": "unmapped sign ['Y3', 'Y', 'D33']"
+  },
+  {
+   "word": "HW-N-M'-K3-TW",
+   "reason": "unmapped sign ['HW', 'N', \"M'\", 'K3', 'TW']"
+  },
+  {
+   "word": "RP-33-Y",
+   "reason": "unmapped sign ['RP', '33', 'Y']"
+  },
+  {
+   "word": "GRA+KU",
+   "reason": "not a syllabic sign group"
+  },
+  {
+   "word": "A-KA-WI-JA",
+   "reason": "root not parseable: 'ʾ-ḫ(ʷ)'"
+  },
+  {
+   "word": "A-DU-KU-MI-NA",
+   "reason": "root not parseable: 'ʾ-d-d + k-m-n'"
+  },
+  {
+   "word": "A-JA-ME-NO",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "A-KO-RA-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "A-MO-TE-JO-NA-DE",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "A-MO-TE-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "A-NO-WO-TO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "A-PI-QO-RO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "A-PI-QO-TO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "A-PU-KO-WO-KO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "A-RA-RU-WO-A",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "A-RE-PA-ZO-O",
+   "reason": "unmapped ['ZO']"
+  },
+  {
+   "word": "A-RO-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "A-SI-TO-PO-QO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "A-TA-RA-SI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "A-TO-PO-QO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "A-TO-RO-QO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "DA-MI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "DI-PTE-RA-PO-RO",
+   "reason": "unmapped ['PTE']"
+  },
+  {
+   "word": "DO-WE-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "E-KE-JO-TO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "E-NE-WOPE-ZA",
+   "reason": "unmapped ['WOPE']"
+  },
+  {
+   "word": "E-NE-WOPE-ZO",
+   "reason": "unmapped ['WOPE', 'ZO']"
+  },
+  {
+   "word": "E-PI-KO-RU-SI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "E-PI-KO-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "E-PI-ZO-TA",
+   "reason": "unmapped ['ZO']"
+  },
+  {
+   "word": "E-RE-PA-TE-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "E-TO-NI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "E-TO-WO-KO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "E-WI-SU-ZO-KO",
+   "reason": "unmapped ['ZO']"
+  },
+  {
+   "word": "I-JE-RO-WO-KO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "I-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "I-JO-TE",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "I-KU-WO-I-PI",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "I-QI-JA",
+   "reason": "unmapped ['QI']"
+  },
+  {
+   "word": "I-QO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "I-QO-E-QE",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "JO-E-KE-TO-QO",
+   "reason": "unmapped ['JO', 'QO']"
+  },
+  {
+   "word": "KA-KI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "KA-RA-TI-RI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "KE-ME-RI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "KE-SE-NU-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "KO-NI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "KO-RI-JA-DO-NO",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "KO-WI-RO-WO-KO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "KO-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "KU-PA-RO",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "KU-PA-RO-WE",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "KU-RU-SO-WO-KO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "KU-SI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "KU-WA-NO",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "MA-RA-TU-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "ME-RI-TE-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "ME-U-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "ME-U-JO-E",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "ME-WI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "ME-WI-JO-E",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "ME-ZO-E",
+   "reason": "unmapped ['ZO']"
+  },
+  {
+   "word": "MO-RI-WO-DO",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "MU-JO-ME-NO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "NA-WI-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "NE-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "NO-RI-WO-KO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "O-RO-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "O-WO-ZE",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "PA-RA-WA-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "PA-RA-WE-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "PA-TA-JO-I",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "PA-WO-KE",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "PE-RE-QO-TA",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "PE-RU-SI-NU-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "PE-RU-SI-NWA",
+   "reason": "unmapped ['NWA']"
+  },
+  {
+   "word": "PO-NI-KI-JA",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "PO-NI-KI-JO",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "PO-NI-KI-PI",
+   "reason": "loan or foreign wording in V&C"
+  },
+  {
+   "word": "PO-RO-KO-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "PO-RO-WI-TO-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "PO-RU-QO-TO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "PO-TI-NI-JA-WE-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "PO-TI-NI-JA-WE-JO-JO",
+   "reason": "unmapped ['JO', 'JO']"
+  },
+  {
+   "word": "PU-KA-WO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "QE-QI-NO-ME-NO",
+   "reason": "unmapped ['QI']"
+  },
+  {
+   "word": "QE-QI-NO-TO",
+   "reason": "unmapped ['QI']"
+  },
+  {
+   "word": "QO-O",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "QO-QO-TA-O",
+   "reason": "unmapped ['QO', 'QO']"
+  },
+  {
+   "word": "QO-U-KA-RA",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "QO-U-KO-RO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "QO-U-QO-TA",
+   "reason": "unmapped ['QO', 'QO']"
+  },
+  {
+   "word": "QO-WI-JA",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "RA-PTE-RE",
+   "reason": "unmapped ['PTE']"
+  },
+  {
+   "word": "RA-WA-KE-SI-JO-JO",
+   "reason": "unmapped ['JO', 'JO']"
+  },
+  {
+   "word": "RE-QO-ME-NO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "RE-WO-PI",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "RE-WO-TE-JO",
+   "reason": "unmapped ['WO', 'JO']"
+  },
+  {
+   "word": "RE-WO-TE-RE-JO",
+   "reason": "unmapped ['WO', 'JO']"
+  },
+  {
+   "word": "RE-WO-TO-RO-KO-WO",
+   "reason": "unmapped ['WO', 'WO']"
+  },
+  {
+   "word": "TE-O-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "TE-TU-KO-WO-A",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "TI-RI-JO-WE",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "TO-QI-DE-JO",
+   "reason": "unmapped ['QI', 'JO']"
+  },
+  {
+   "word": "TO-RO-NO-WO-KO",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "TO-RO-QE-JO-ME-NO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "TO-RO-QO",
+   "reason": "unmapped ['QO']"
+  },
+  {
+   "word": "TO-SO-JO",
+   "reason": "unmapped ['JO']"
+  },
+  {
+   "word": "WO-RA-WE-SA",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "WO-RO-KI-JO-NE-JO",
+   "reason": "unmapped ['WO', 'JO', 'JO']"
+  },
+  {
+   "word": "WO-RO-NE-JA",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "WO-WI-JA",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "WO-WO",
+   "reason": "unmapped ['WO', 'WO']"
+  },
+  {
+   "word": "WO-ZE",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "WO-ZE-E",
+   "reason": "unmapped ['WO']"
+  },
+  {
+   "word": "WO-ZO",
+   "reason": "unmapped ['WO', 'ZO']"
+  },
+  {
+   "word": "WO-ZO-E",
+   "reason": "unmapped ['WO', 'ZO']"
+  },
+  {
+   "word": "WO-ZO-ME-NA",
+   "reason": "unmapped ['WO', 'ZO']"
+  },
+  {
+   "word": "WO-ZO-ME-NO",
+   "reason": "unmapped ['WO', 'ZO']"
+  },
+  {
+   "word": "WO-ZO-TE",
+   "reason": "unmapped ['WO', 'ZO']"
+  },
+  {
+   "word": "ZO-A",
+   "reason": "unmapped ['ZO']"
+  }
+ ],
+ "primary_index_exclusions": {
+  "1232": "no_semitic_reflex",
+  "1240": "no_semitic_reflex",
+  "2461": "no_semitic_reflex",
+  "S66": "no_semitic_reflex",
+  "S67": "no_semitic_reflex",
+  "S69": "no_semitic_reflex",
+  "S71": "no_semitic_reflex",
+  "S74": "no_semitic_reflex",
+  "S80": "no_semitic_reflex",
+  "S82": "no_semitic_reflex",
+  "S106": "no_semitic_reflex",
+  "S109": "no_semitic_reflex",
+  "S110": "no_semitic_reflex",
+  "S111": "no_semitic_reflex",
+  "S113": "no_semitic_reflex",
+  "S114": "no_semitic_reflex",
+  "S115": "no_semitic_reflex",
+  "S117": "no_semitic_reflex",
+  "S118": "no_semitic_reflex",
+  "S119": "no_semitic_reflex",
+  "S121": "no_semitic_reflex",
+  "S122": "no_semitic_reflex",
+  "S124": "no_semitic_reflex",
+  "S125": "no_semitic_reflex",
+  "2964": "campaign_addition",
+  "2965": "campaign_addition",
+  "2966": "campaign_addition",
+  "2967": "campaign_addition",
+  "2968": "campaign_addition",
+  "2969": "campaign_addition",
+  "2970": "campaign_addition",
+  "2971": "campaign_addition",
+  "2972": "campaign_addition",
+  "2973": "campaign_addition",
+  "2974": "campaign_addition",
+  "2975": "campaign_addition",
+  "2976": "campaign_addition",
+  "2977": "campaign_addition",
+  "2978": "campaign_addition",
+  "2979": "campaign_addition",
+  "2980": "campaign_addition",
+  "2981": "campaign_addition",
+  "2982": "campaign_addition",
+  "2983": "campaign_addition",
+  "2984": "campaign_addition",
+  "2985": "campaign_addition",
+  "2986": "campaign_addition",
+  "2987": "campaign_addition",
+  "2988": "campaign_addition",
+  "2989": "campaign_addition",
+  "2990": "campaign_addition",
+  "2991": "campaign_addition",
+  "2992": "campaign_addition",
+  "2993": "campaign_addition",
+  "2994": "campaign_addition",
+  "2995": "campaign_addition",
+  "2996": "campaign_addition",
+  "2997": "campaign_addition",
+  "2998": "campaign_addition"
+ },
+ "provenance": {
+  "generated_at": "2026-10-16T21:13:16+00:00",
+  "generator": "scripts/validation/root_match_phase0.py",
+  "git_head": "bb0e8c837c7b76ebb0c6d61939530909f8a57cde",
+  "seed": 20261016,
+  "input_sha256": {
+   "data/semitic_roots.json": "42167a4ee41e63985a8b530e78d4f18e3739429170ddbeec70082976bc06fc6e",
+   "data/lexicon.json": "3d7e7cd9682479a39dc9af84e5b6c8ca9838ed0267550ae827acc91b7461edf1",
+   "data/corpus.json": "a57893ce09ae5961dfb764b18eff3b238af7aeeae972f3fcc5a09272f5c17edd",
+   "data/gordon.json": "5bb31f8ce05e9bd1121a5ef0c177b9bb8d398898cccea26cba54b65b5820b62c",
+   "data/luwian_roots.json": "b9195c02fdfd8ba607859f9afb39e14e0b478d5b5f05ba1a27222b50d01b8898",
+   "data/egyptian_roots.json": "5b55da6e2dc1ec68c9d199949c65cf5b707186f0a4ce21f30a55756d2e8bf012",
+   "data/compound_morphemes.json": "e6b4710475943c36a3f7175c52ac18d89999166232c8c9bf031c5f2cbfb0b0bf",
+   "data/verb_templates.json": "535b5d2394767f81f9c02a2e30f96b548480353775d92592482b72c3b85b4591",
+   "data/sign-registry.json": "ac07e0082eafedf7fd8833096be3c882cc73a58505dec9b620f80aba1af48440",
+   "data/sign_values.json": "bcba47eeddbaddd43be97211a21e015c5cb15f712b4e643eb0f0e8ff03b0117b",
+   "data/linear_b_vc1956_glosses.json": "7776803395bf56ca46aa7f5f5b8bafd7c34d28b895c5fb2d3ca2d76237ac4cc8",
+   "scripts/cognate_search.py": "2a5730a6a1b3f4e8fb9d9f96b0bd2b1ce95600317039281949f887dc1d4cfa4a",
+   "scripts/validation/null_model_audit.py": "f02fc88eb94bda8db1616fb9ce4d76c9ccd23cfcea5f0512f64d5acad7832aad",
+   "lib/phonetics.py": "93d8a520deae0367fd87140a0ba1fa663e3e4fce2952430179f10e2018fa7194",
+   "lib/skeleton.py": "565393a47299e10d56ea72e0071b53af130a06cd5b32abb2cb54b7fe852b2702",
+   "lib/verb_morphology.py": "7aa42593118e5858a6770daf71671e430d47d756d588c53c75928184af4f9eaa",
+   "lib/semitic_morphology.py": "343d0c0d30589d4251c310f8c9b1c296609aa0073b07e0442bb8a43d26b19fdc",
+   "lib/normalization.py": "fec0038665ee402cfd6c2088bf7da9ff9d2bdbb438d9e308636215fc8f01ff7e",
+   "lib/greek_spelling.py": "d484fdbf29cbaa2fd858bfbeac4dc37be05292ff20523b9807487904e84c7095",
+   "lib/types.py": "0458eff6bea38ad416a3da02e0b6dfab292be77a2193194c69034f018f397a63",
+   "lib/root_index.py": "d3ae6e48dfcb7d8a2669263f141fed8f4e6ba7b120a5f7f55c04b49fd705ca8a",
+   "lib/semitic_root_schema.py": "06b6758873c81a2b1f351868df451bb012adb30934787e657906c8c25796952c",
+   "lib/semitic_notation.py": "2353ae8ae0761963d8f6b0023bfbe4afd9e093c79c134bd798fb47de15b87450",
+   "data/semitic_correspondences.json": "999c07b21488a1c49f89f65d38c2a25350b70d5d8ece3c32d6ed833a94343970",
+   "data/contact/akkadian_lexicon.jsonl": "576cb0b838846be8c2c0d6d2a059bf96b91c2a7dd6a73f2c9c5ac008f6ca3dab",
+   "data/contact/amarna_canaanite.jsonl": "f578f85e0cae5d0f54f174fdebbb32b311100bb3435df760a283348031e7636b",
+   "data/contact/amorite_onomasticon.jsonl": "3b02814613b7de3979a9f944095285141d74c01f424998d684ca8c4f4fa2616f",
+   "data/contact/amorite_vocabulary.jsonl": "b9115d2fa6b73db31db4a89bcc5b975c216110ce6c718d5982c18d2e7a26fda0",
+   "data/contact/anatolian_lexicon.jsonl": "34d1a55dc9287af42699a95ae158026ed9be9eb737b6ac16cd114fefd0e2bbc4",
+   "data/contact/anchor_bible_phoenician.jsonl": "fcd569a20723d2e61017cb1415e2fe7ccd4922b1c3a198ffaf8e486e9ea9dcaf",
+   "data/contact/aramaic_lexicon.jsonl": "8c98ba9f147e8924990779520e08e2e451016a426232a2b82602090bc7f7237b",
+   "data/contact/cad_headwords.jsonl": "8fdea21e0850b90134c74e875283fff254a908135dd5b67bc3fae9906ce24150",
+   "data/contact/cultic_register.jsonl": "7325917137528f48202de221ff750f4c3e5e739622b035675e5cbf686d97d8a5",
+   "data/contact/egyptian_execration_toponyms.jsonl": "7b9766b65bd2c98332790a800f18defd94b3d7386c7f95b21f73d57164fc1640",
+   "data/contact/egyptian_lexicon.jsonl": "8e7390afc5cdb7ef6d5ec8b920ff9e344365dfd1423423ec4da6a68d0461189b",
+   "data/contact/geez_lexicon.bak-20260722_222816.jsonl": "55787fcf613fe16a85e15cbf38099e8e231e25f5dc77efa3dc2374afd725bdb3",
+   "data/contact/geez_lexicon.jsonl": "d63c755514fe8256232b4d3e5f1a25e49fcdefa91f4265fa7adeddd9507450b1",
+   "data/contact/greek_lexicon.jsonl": "14622e6f97b421224454ef0c33ba8a4d3d38057d3c623e38866f0838dc46659a",
+   "data/contact/hebrew_lexicon.jsonl": "1b45aa7e0c6445082a2063185ae174f20f02184f31f199c52cbc6bc066b78c01",
+   "data/contact/huehnergard_glossary.jsonl": "5d6c11bb3ec89f2b2be0778228ea00e1b597f3717fd11326bc098f459bb9bbac",
+   "data/contact/hurrian_lexicon.jsonl": "84699b313c7f5de3a1131ad7e97624df42230fb649090c1835925513ac98ddef",
+   "data/contact/krahmalkov_glossary.jsonl": "3e8d28b9cb3d869eca00265c96e870edf8e45031a20fef01532a5b0df1c6282d",
+   "data/contact/mari_onomastics.jsonl": "9e81a84588d07260bbbe0feec739239c2a4bdc4a33977e5016fbb00f34ee02b8",
+   "data/contact/phoenician_lexicon.jsonl": "3eb4bab79ad9258e3efb98749d7a7b551bd56754ecc54707c6b749f5be77e925",
+   "data/contact/phoenician_onomasticon.jsonl": "42af4ddcfd971467102a8caa5c20f4af50e38fb5beebc853774828de76154277",
+   "data/contact/south_arabian_lexicon.jsonl": "7d43eb26fd9633b1a50875d665ae7e234b1f6c76b381a1687696916fd9251e52",
+   "data/contact/syriac_lexicon.jsonl": "f30950adebdab7ef58cedf5b2fd121c245a38be6467a6b5eb6fea4fac2de5e41",
+   "data/contact/tomback_extracted.jsonl": "9085dba225e4afe00653760b04d855b3d8b88582988ab242d5e33709cbf75c02",
+   "data/contact/ugaritic_lexicon.jsonl": "66fde9cedc9639bc721ae63e684b073ffbcc30af3236e1cf8a3fef8ff9eb0bd4",
+   "../ancient-near-east-research/data/arabian_onomasticon.jsonl": "001e1c0d61670415c6987fc08d2619316c6de2cabd1aeca6a4d0c124327caf37"
+  }
+ }
+}

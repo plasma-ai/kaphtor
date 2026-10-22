@@ -1,0 +1,1068 @@
+{
+ "description": "Pre-Shoresh baseline of cognate_search's Proto-Semitic layer on gold v3 (ref §6): expected ranks under random tie-breaking over the full PS list, bootstrap 95% intervals (2,000 seeded resamples), and the Linear A vs Linear B real-minus-shuffled margins.",
+ "recovery": {
+  "all": {
+   "exact": {
+    "n": 77,
+    "hit@1": 0.234,
+    "hit@5": 0.429,
+    "hit@20": 0.506,
+    "mrr": 0.313,
+    "truncated_tie_groups": 0
+   },
+   "folded": {
+    "n": 77,
+    "hit@1": 0.299,
+    "hit@5": 0.519,
+    "hit@20": 0.558,
+    "mrr": 0.399,
+    "truncated_tie_groups": 0
+   }
+  },
+  "informative": {
+   "exact": {
+    "n": 51,
+    "hit@1": 0.333,
+    "hit@5": 0.471,
+    "hit@20": 0.549,
+    "mrr": 0.394,
+    "truncated_tie_groups": 0
+   },
+   "folded": {
+    "n": 51,
+    "hit@1": 0.333,
+    "hit@5": 0.549,
+    "hit@20": 0.569,
+    "mrr": 0.418,
+    "truncated_tie_groups": 0
+   }
+  },
+  "informative_lb_values_only": {
+   "exact": {
+    "n": 35,
+    "hit@1": 0.371,
+    "hit@5": 0.486,
+    "hit@20": 0.543,
+    "mrr": 0.425,
+    "truncated_tie_groups": 0
+   },
+   "folded": {
+    "n": 35,
+    "hit@1": 0.371,
+    "hit@5": 0.571,
+    "hit@20": 0.571,
+    "mrr": 0.455,
+    "truncated_tie_groups": 0
+   }
+  }
+ },
+ "discrimination_best_ps_distance": {
+  "fabricated": {
+   "n": 45,
+   "share_with_match_d_lt_0.3": 0.489,
+   "auc_vs_informative_positives": {
+    "estimate": 0.649,
+    "ci95": [
+     0.535,
+     0.753
+    ]
+   }
+  },
+  "lb_loans": {
+   "n": 4,
+   "share_with_match_d_lt_0.3": 0.75,
+   "auc_vs_informative_positives": {
+    "estimate": 0.424,
+    "ci95": [
+     0.186,
+     0.686
+    ]
+   }
+  },
+  "lb_negatives": {
+   "n": 197,
+   "share_with_match_d_lt_0.3": 0.482,
+   "auc_vs_informative_positives": {
+    "estimate": 0.645,
+    "ci95": [
+     0.562,
+     0.72
+    ]
+   }
+  },
+  "lb_shuffles": {
+   "n": 201,
+   "share_with_match_d_lt_0.3": 0.443,
+   "auc_vs_informative_positives": {
+    "estimate": 0.662,
+    "ci95": [
+     0.579,
+     0.739
+    ]
+   }
+  },
+  "non_semitic_layer": {
+   "n": 12,
+   "share_with_match_d_lt_0.3": 0.667,
+   "auc_vs_informative_positives": {
+    "estimate": 0.556,
+    "ci95": [
+     0.403,
+     0.72
+    ]
+   }
+  },
+  "rejected": {
+   "n": 10,
+   "share_with_match_d_lt_0.3": 0.7,
+   "auc_vs_informative_positives": {
+    "estimate": 0.467,
+    "ci95": [
+     0.275,
+     0.678
+    ]
+   }
+  },
+  "sign_shuffle": {
+   "n": 49,
+   "share_with_match_d_lt_0.3": 0.449,
+   "auc_vs_informative_positives": {
+    "estimate": 0.607,
+    "ci95": [
+     0.497,
+     0.716
+    ]
+   }
+  },
+  "positives_informative": {
+   "n": 51,
+   "share_with_match_d_lt_0.3": 0.686
+  }
+ },
+ "real_minus_shuffled": {
+  "linear_a": {
+   "n_real": 51,
+   "n_shuffled": 49,
+   "margin": 0.237
+  },
+  "linear_b": {
+   "n_real": 197,
+   "n_shuffled": 197,
+   "margin": 0.046
+  },
+  "difference_a_minus_b": {
+   "estimate": 0.192,
+   "ci95": [
+    -0.028,
+    0.395
+   ]
+  }
+ },
+ "per_word": [
+  {
+   "word": "A-KA-NU",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 11.0,
+   "expected_rank_folded": 5.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 194,
+   "best_distance": 0.0
+  },
+  {
+   "word": "A-KA-RU",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 28.333333333333332,
+   "expected_rank_folded": 6.6,
+   "tie_group_truncated": false,
+   "n_ps_matches": 502,
+   "best_distance": 0.0
+  },
+  {
+   "word": "A-MI-TA",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 3.5,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 216,
+   "best_distance": 0.0
+  },
+  {
+   "word": "A-PA₃",
+   "skeleton_len": 1,
+   "informative": false,
+   "lb_values_only": false,
+   "expected_rank": 5.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 60,
+   "best_distance": 0.0
+  },
+  {
+   "word": "A-PA₃-DI",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "expected_rank": 6.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 284,
+   "best_distance": 0.0
+  },
+  {
+   "word": "A-SA-MU-NE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": 2.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 181,
+   "best_distance": 0.1
+  },
+  {
+   "word": "A-SA-SA-RA-ME",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 4,
+   "best_distance": 1.0
+  },
+  {
+   "word": "A-TA-I-*301-WA-E",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 113,
+   "best_distance": 0.35
+  },
+  {
+   "word": "A-TA-I-*301-WA-JA",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 3.0,
+   "expected_rank_folded": 3.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 9,
+   "best_distance": 1.0
+  },
+  {
+   "word": "A-TA-NA",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 3.5,
+   "expected_rank_folded": 1.4,
+   "tie_group_truncated": false,
+   "n_ps_matches": 165,
+   "best_distance": 0.1
+  },
+  {
+   "word": "AU-RE-TE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 11.666666666666668,
+   "expected_rank_folded": 4.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 286,
+   "best_distance": 0.1
+  },
+  {
+   "word": "DA-KU-NA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 2.2,
+   "expected_rank_folded": 2.2,
+   "tie_group_truncated": false,
+   "n_ps_matches": 182,
+   "best_distance": 0.0
+  },
+  {
+   "word": "DA-RE",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 323,
+   "best_distance": 0.0
+  },
+  {
+   "word": "DI-DE-RU",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 17.0,
+   "expected_rank_folded": 4.2,
+   "tie_group_truncated": false,
+   "n_ps_matches": 196,
+   "best_distance": 0.1
+  },
+  {
+   "word": "DU-PU₂-RE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 2.2,
+   "expected_rank_folded": 2.2,
+   "tie_group_truncated": false,
+   "n_ps_matches": 305,
+   "best_distance": 0.0
+  },
+  {
+   "word": "DU-RA-RE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 236,
+   "best_distance": 0.0
+  },
+  {
+   "word": "I-DA",
+   "skeleton_len": 1,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 4.0,
+   "expected_rank_folded": 4.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 68,
+   "best_distance": 0.1
+  },
+  {
+   "word": "I-DA-A",
+   "skeleton_len": 1,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 4.0,
+   "expected_rank_folded": 4.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 68,
+   "best_distance": 0.1
+  },
+  {
+   "word": "I-PI-NA-MA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 44,
+   "best_distance": 1.0
+  },
+  {
+   "word": "JA-DI-KI-TU",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 83,
+   "best_distance": 0.45
+  },
+  {
+   "word": "JA-SA-SA-RA-ME",
+   "skeleton_len": 5,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 0,
+   "best_distance": null
+  },
+  {
+   "word": "JE-TA-NA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 149,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KA-DU-MA-NE",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 167,
+   "best_distance": 0.2
+  },
+  {
+   "word": "KA-NU-TI",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 222,
+   "best_distance": 0.2
+  },
+  {
+   "word": "KA-RO-PA₃",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 4.666666666666667,
+   "expected_rank_folded": 4.666666666666667,
+   "tie_group_truncated": false,
+   "n_ps_matches": 313,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KE-KI-RU",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 269,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KI-*310-RE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 229,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KI-DA-RO",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 312,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KI-MA-RU",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 264,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KI-RE-TA₂",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 494,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KI-RE-TA-NA",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 314,
+   "best_distance": 0.2
+  },
+  {
+   "word": "KI-RI-TA₂",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 494,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KI-RO",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 43.5,
+   "expected_rank_folded": 36.54545454545455,
+   "tie_group_truncated": false,
+   "n_ps_matches": 408,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KU-MA-RO",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 264,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KU-MI-NA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 192,
+   "best_distance": 0.2
+  },
+  {
+   "word": "KU-NI-SU",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 207,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KU-RO",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 239.5,
+   "expected_rank_folded": 239.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 408,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KU-RU-MA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 266,
+   "best_distance": 0.0
+  },
+  {
+   "word": "MA-KA-RI-TE",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 203,
+   "best_distance": 0.2
+  },
+  {
+   "word": "MI-NU-TE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 155,
+   "best_distance": 0.0
+  },
+  {
+   "word": "MI-TU",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 40.5,
+   "expected_rank_folded": 40.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 166,
+   "best_distance": 0.0
+  },
+  {
+   "word": "NA-DA-RE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 193,
+   "best_distance": 0.0
+  },
+  {
+   "word": "NA-TU-*301-NE",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 94,
+   "best_distance": 0.2
+  },
+  {
+   "word": "PA₃-KA-RA-TI",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 306,
+   "best_distance": 0.0
+  },
+  {
+   "word": "PA₃-NI-NA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 26.5,
+   "expected_rank_folded": 26.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 120,
+   "best_distance": 0.0
+  },
+  {
+   "word": "PA₃-SI-MO",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 103,
+   "best_distance": 0.2
+  },
+  {
+   "word": "PI-*34-TE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 1.0,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 203,
+   "best_distance": 0.1
+  },
+  {
+   "word": "PU-RA₂",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 25.666666666666668,
+   "expected_rank_folded": 11.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 329,
+   "best_distance": 0.0
+  },
+  {
+   "word": "QA-*118-RA-RE",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 9,
+   "best_distance": 1.15
+  },
+  {
+   "word": "QA-*118-SA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 138,
+   "best_distance": 0.3
+  },
+  {
+   "word": "QA-*310-I",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "expected_rank": 22.0,
+   "expected_rank_folded": 22.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 59,
+   "best_distance": 0.1
+  },
+  {
+   "word": "QA-PA₃",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "expected_rank": 1.5,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 162,
+   "best_distance": 0.1
+  },
+  {
+   "word": "QE-RA₂-U",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 99.5,
+   "expected_rank_folded": 99.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 236,
+   "best_distance": 0.1
+  },
+  {
+   "word": "QE-SI-TE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 7.5,
+   "expected_rank_folded": 2.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 164,
+   "best_distance": 0.15
+  },
+  {
+   "word": "*34-TI-RI",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 224,
+   "best_distance": 0.15
+  },
+  {
+   "word": "RA-TE",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 208,
+   "best_distance": 0.1
+  },
+  {
+   "word": "SA-RU",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 165.0,
+   "expected_rank_folded": 165.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 346,
+   "best_distance": 0.0
+  },
+  {
+   "word": "SA-SA-RA-ME",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 4,
+   "best_distance": 1.0
+  },
+  {
+   "word": "SE-KA-NA-SI",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 5.0,
+   "expected_rank_folded": 5.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 139,
+   "best_distance": 0.2
+  },
+  {
+   "word": "SI-RU-TE",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 307.0,
+   "expected_rank_folded": 307.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 413,
+   "best_distance": 0.15
+  },
+  {
+   "word": "SU-PA₃-RA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 6.666666666666667,
+   "expected_rank_folded": 6.666666666666667,
+   "tie_group_truncated": false,
+   "n_ps_matches": 385,
+   "best_distance": 0.0
+  },
+  {
+   "word": "SU-PU",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 71.5,
+   "expected_rank_folded": 71.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 238,
+   "best_distance": 0.0
+  },
+  {
+   "word": "TA-NA-RA-TE-U-TI-NU",
+   "skeleton_len": 6,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 0,
+   "best_distance": null
+  },
+  {
+   "word": "TE-*301",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "expected_rank": 3.5,
+   "expected_rank_folded": 1.4,
+   "tie_group_truncated": false,
+   "n_ps_matches": 116,
+   "best_distance": 0.1
+  },
+  {
+   "word": "TI-NI-TA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 189,
+   "best_distance": 0.3
+  },
+  {
+   "word": "TU-*21F-RI-NA",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": 2.5,
+   "expected_rank_folded": 2.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 183,
+   "best_distance": 0.3
+  },
+  {
+   "word": "TU-ME-I",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 52.0,
+   "expected_rank_folded": 52.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 176,
+   "best_distance": 0.1
+  },
+  {
+   "word": "U-NA-KA-NA-SI",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 2.0,
+   "expected_rank_folded": 2.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 111,
+   "best_distance": 1.0
+  },
+  {
+   "word": "ZU-DI",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": false,
+   "expected_rank": null,
+   "expected_rank_folded": 1.0,
+   "tie_group_truncated": false,
+   "n_ps_matches": 168,
+   "best_distance": 0.1
+  },
+  {
+   "word": "A-DI-KI-TE-TE",
+   "skeleton_len": 4,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 140,
+   "best_distance": 0.5
+  },
+  {
+   "word": "MA-DI",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 3.3333333333333335,
+   "expected_rank_folded": 1.1111111111111112,
+   "tie_group_truncated": false,
+   "n_ps_matches": 173,
+   "best_distance": 0.1
+  },
+  {
+   "word": "DI-NA",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 41.66666666666667,
+   "expected_rank_folded": 41.66666666666667,
+   "tie_group_truncated": false,
+   "n_ps_matches": 124,
+   "best_distance": 0.0
+  },
+  {
+   "word": "I-MI-SA-RA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 73.5,
+   "expected_rank_folded": 73.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 216,
+   "best_distance": 0.3
+  },
+  {
+   "word": "TE-RI",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": 73.75,
+   "expected_rank_folded": 73.75,
+   "tie_group_truncated": false,
+   "n_ps_matches": 313,
+   "best_distance": 0.0
+  },
+  {
+   "word": "KA-DI",
+   "skeleton_len": 2,
+   "informative": false,
+   "lb_values_only": true,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 248,
+   "best_distance": 0.0
+  },
+  {
+   "word": "TA-NA-I-*301-U-TI-NU",
+   "skeleton_len": 5,
+   "informative": true,
+   "lb_values_only": false,
+   "expected_rank": null,
+   "expected_rank_folded": null,
+   "tie_group_truncated": false,
+   "n_ps_matches": 10,
+   "best_distance": 0.2
+  },
+  {
+   "word": "JA-SA-SA",
+   "skeleton_len": 3,
+   "informative": true,
+   "lb_values_only": true,
+   "expected_rank": 21.5,
+   "expected_rank_folded": 21.5,
+   "tie_group_truncated": false,
+   "n_ps_matches": 78,
+   "best_distance": 0.45
+  }
+ ],
+ "provenance": {
+  "generated_at": "2026-10-16T21:15:54+00:00",
+  "generator": "scripts/validation/root_match_phase0.py",
+  "git_head": "bb0e8c837c7b76ebb0c6d61939530909f8a57cde",
+  "seed": 20261016,
+  "input_sha256": {
+   "data/semitic_roots.json": "42167a4ee41e63985a8b530e78d4f18e3739429170ddbeec70082976bc06fc6e",
+   "data/lexicon.json": "3d7e7cd9682479a39dc9af84e5b6c8ca9838ed0267550ae827acc91b7461edf1",
+   "data/corpus.json": "a57893ce09ae5961dfb764b18eff3b238af7aeeae972f3fcc5a09272f5c17edd",
+   "data/gordon.json": "5bb31f8ce05e9bd1121a5ef0c177b9bb8d398898cccea26cba54b65b5820b62c",
+   "data/luwian_roots.json": "b9195c02fdfd8ba607859f9afb39e14e0b478d5b5f05ba1a27222b50d01b8898",
+   "data/egyptian_roots.json": "5b55da6e2dc1ec68c9d199949c65cf5b707186f0a4ce21f30a55756d2e8bf012",
+   "data/compound_morphemes.json": "e6b4710475943c36a3f7175c52ac18d89999166232c8c9bf031c5f2cbfb0b0bf",
+   "data/verb_templates.json": "535b5d2394767f81f9c02a2e30f96b548480353775d92592482b72c3b85b4591",
+   "data/sign-registry.json": "ac07e0082eafedf7fd8833096be3c882cc73a58505dec9b620f80aba1af48440",
+   "data/sign_values.json": "bcba47eeddbaddd43be97211a21e015c5cb15f712b4e643eb0f0e8ff03b0117b",
+   "data/linear_b_vc1956_glosses.json": "7776803395bf56ca46aa7f5f5b8bafd7c34d28b895c5fb2d3ca2d76237ac4cc8",
+   "scripts/cognate_search.py": "2a5730a6a1b3f4e8fb9d9f96b0bd2b1ce95600317039281949f887dc1d4cfa4a",
+   "scripts/validation/null_model_audit.py": "f02fc88eb94bda8db1616fb9ce4d76c9ccd23cfcea5f0512f64d5acad7832aad",
+   "lib/phonetics.py": "93d8a520deae0367fd87140a0ba1fa663e3e4fce2952430179f10e2018fa7194",
+   "lib/skeleton.py": "565393a47299e10d56ea72e0071b53af130a06cd5b32abb2cb54b7fe852b2702",
+   "lib/verb_morphology.py": "7aa42593118e5858a6770daf71671e430d47d756d588c53c75928184af4f9eaa",
+   "lib/semitic_morphology.py": "343d0c0d30589d4251c310f8c9b1c296609aa0073b07e0442bb8a43d26b19fdc",
+   "lib/normalization.py": "fec0038665ee402cfd6c2088bf7da9ff9d2bdbb438d9e308636215fc8f01ff7e",
+   "lib/greek_spelling.py": "d484fdbf29cbaa2fd858bfbeac4dc37be05292ff20523b9807487904e84c7095",
+   "lib/types.py": "0458eff6bea38ad416a3da02e0b6dfab292be77a2193194c69034f018f397a63",
+   "lib/root_index.py": "d3ae6e48dfcb7d8a2669263f141fed8f4e6ba7b120a5f7f55c04b49fd705ca8a",
+   "lib/semitic_root_schema.py": "06b6758873c81a2b1f351868df451bb012adb30934787e657906c8c25796952c",
+   "lib/semitic_notation.py": "2353ae8ae0761963d8f6b0023bfbe4afd9e093c79c134bd798fb47de15b87450",
+   "data/semitic_correspondences.json": "999c07b21488a1c49f89f65d38c2a25350b70d5d8ece3c32d6ed833a94343970",
+   "data/contact/akkadian_lexicon.jsonl": "576cb0b838846be8c2c0d6d2a059bf96b91c2a7dd6a73f2c9c5ac008f6ca3dab",
+   "data/contact/amarna_canaanite.jsonl": "f578f85e0cae5d0f54f174fdebbb32b311100bb3435df760a283348031e7636b",
+   "data/contact/amorite_onomasticon.jsonl": "3b02814613b7de3979a9f944095285141d74c01f424998d684ca8c4f4fa2616f",
+   "data/contact/amorite_vocabulary.jsonl": "b9115d2fa6b73db31db4a89bcc5b975c216110ce6c718d5982c18d2e7a26fda0",
+   "data/contact/anatolian_lexicon.jsonl": "34d1a55dc9287af42699a95ae158026ed9be9eb737b6ac16cd114fefd0e2bbc4",
+   "data/contact/anchor_bible_phoenician.jsonl": "fcd569a20723d2e61017cb1415e2fe7ccd4922b1c3a198ffaf8e486e9ea9dcaf",
+   "data/contact/aramaic_lexicon.jsonl": "8c98ba9f147e8924990779520e08e2e451016a426232a2b82602090bc7f7237b",
+   "data/contact/cad_headwords.jsonl": "8fdea21e0850b90134c74e875283fff254a908135dd5b67bc3fae9906ce24150",
+   "data/contact/cultic_register.jsonl": "7325917137528f48202de221ff750f4c3e5e739622b035675e5cbf686d97d8a5",
+   "data/contact/egyptian_execration_toponyms.jsonl": "7b9766b65bd2c98332790a800f18defd94b3d7386c7f95b21f73d57164fc1640",
+   "data/contact/egyptian_lexicon.jsonl": "8e7390afc5cdb7ef6d5ec8b920ff9e344365dfd1423423ec4da6a68d0461189b",
+   "data/contact/geez_lexicon.bak-20260722_222816.jsonl": "55787fcf613fe16a85e15cbf38099e8e231e25f5dc77efa3dc2374afd725bdb3",
+   "data/contact/geez_lexicon.jsonl": "d63c755514fe8256232b4d3e5f1a25e49fcdefa91f4265fa7adeddd9507450b1",
+   "data/contact/greek_lexicon.jsonl": "14622e6f97b421224454ef0c33ba8a4d3d38057d3c623e38866f0838dc46659a",
+   "data/contact/hebrew_lexicon.jsonl": "1b45aa7e0c6445082a2063185ae174f20f02184f31f199c52cbc6bc066b78c01",
+   "data/contact/huehnergard_glossary.jsonl": "5d6c11bb3ec89f2b2be0778228ea00e1b597f3717fd11326bc098f459bb9bbac",
+   "data/contact/hurrian_lexicon.jsonl": "84699b313c7f5de3a1131ad7e97624df42230fb649090c1835925513ac98ddef",
+   "data/contact/krahmalkov_glossary.jsonl": "3e8d28b9cb3d869eca00265c96e870edf8e45031a20fef01532a5b0df1c6282d",
+   "data/contact/mari_onomastics.jsonl": "9e81a84588d07260bbbe0feec739239c2a4bdc4a33977e5016fbb00f34ee02b8",
+   "data/contact/phoenician_lexicon.jsonl": "3eb4bab79ad9258e3efb98749d7a7b551bd56754ecc54707c6b749f5be77e925",
+   "data/contact/phoenician_onomasticon.jsonl": "42af4ddcfd971467102a8caa5c20f4af50e38fb5beebc853774828de76154277",
+   "data/contact/south_arabian_lexicon.jsonl": "7d43eb26fd9633b1a50875d665ae7e234b1f6c76b381a1687696916fd9251e52",
+   "data/contact/syriac_lexicon.jsonl": "f30950adebdab7ef58cedf5b2fd121c245a38be6467a6b5eb6fea4fac2de5e41",
+   "data/contact/tomback_extracted.jsonl": "9085dba225e4afe00653760b04d855b3d8b88582988ab242d5e33709cbf75c02",
+   "data/contact/ugaritic_lexicon.jsonl": "66fde9cedc9639bc721ae63e684b073ffbcc30af3236e1cf8a3fef8ff9eb0bd4",
+   "../ancient-near-east-research/data/arabian_onomasticon.jsonl": "001e1c0d61670415c6987fc08d2619316c6de2cabd1aeca6a4d0c124327caf37"
+  }
+ }
+}

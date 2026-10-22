@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use kaphtor, please cite it as below."
+title: "kaphtor: tools and data for Linear A research and comparative Semitics"
+type: software
+authors:
+  - family-names: "di Mino"
+    given-names: "Tom"
+repository-code: "https://github.com/plasma-ai/kaphtor"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+  - CC-BY-SA-4.0
+  - CC-BY-NC-SA-4.0

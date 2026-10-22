@@ -1,0 +1,12 @@
+{
+  "name": "kaphtor",
+  "version": "0.1.0",
+  "description": "Linear A research and ancient Near East research: two agent skills over the kaphtor record and its query tools.",
+  "author": {
+    "name": "Tom di Mino"
+  },
+  "homepage": "https://github.com/plasma-ai/kaphtor",
+  "repository": "https://github.com/plasma-ai/kaphtor",
+  "license": "Apache-2.0 AND CC-BY-4.0 AND CC-BY-SA-4.0 AND CC-BY-NC-SA-4.0",
+  "keywords": ["linear-a", "minoan", "semitic", "ancient-near-east", "epigraphy"]
+}

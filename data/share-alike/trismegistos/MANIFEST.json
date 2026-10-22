@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "epistemic_boundary": "These records identify places. They are identity controls and are never primary linguistic attestations.",
+  "authorities": {
+    "Trismegistos Geo": {
+      "license": "CC BY-SA 4.0",
+      "source": "data/ingest/place-authorities/trismegistos/tm-geo.csv",
+      "sha256": "fc535201fe12e13bdd26173114536c2892d047a40dbec2f34a05f62fcc4d1af3",
+      "count": 65130
+    }
+  },
+  "outputs": {
+    "trismegistos": "data/share-alike/trismegistos/trismegistos_places.jsonl"
+  }
+}

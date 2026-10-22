@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "epistemic_boundary": "These datasets identify places. They are identity controls and are never primary linguistic attestations.",
+  "matching_rule": "Name-only search results remain unlinked candidates.",
+  "authorities": {
+    "Pleiades": {
+      "license": "CC BY 3.0",
+      "source": "data/ingest/place-authorities/pleiades/pleiades-places-latest.json.gz",
+      "sha256": "75ecc48a25d26c943adac49af386f4b0795450e1c525b157a6eca09626d10e7a",
+      "count": 42388
+    }
+  },
+  "outputs": {
+    "pleiades": "data/ane/place-authorities/pleiades_places.jsonl"
+  },
+  "not_shipped": {
+    "iDAI.gazetteer": "publishes no licence for its place data; query it one page at a time with tools/ane/query_idai_gazetteer.py"
+  },
+  "see_also": {
+    "Trismegistos Geo": "data/share-alike/trismegistos/MANIFEST.json"
+  }
+}

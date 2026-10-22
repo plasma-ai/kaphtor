@@ -1,0 +1,63 @@
+[project]
+name = "kaphtor"
+version = "0.1.0"
+description = "Tools and data for Linear A research and comparative Semitics"
+readme = "README.md"
+requires-python = ">=3.11,<3.15"
+license = "Apache-2.0 AND CC-BY-4.0"
+license-files = ["LICENSE", "LICENSE-CC-BY-4.0"]
+authors = [{ name = "Tom di Mino" }]
+# The query tools run on the standard library alone. An extra joins as the code that needs it is ported.
+dependencies = []
+
+[project.optional-dependencies]
+# The portal clients use certifi's CA bundle when it is installed, and the system's otherwise.
+# httpx: the SigLA drawing mirror (tools/linear_a/fetch_sigla_drawings.py).
+fetch = ["certifi", "httpx>=0.27,<1"]
+# Pillow: the sign charts (tools/linear_a/render_sign_chart.py).
+render = ["pillow>=11,<13"]
+# lq's SQL views over the Linear A data (tools/linear_a/lq.py).
+sql = ["duckdb>=1.5,<3"]
+
+[project.scripts]
+kaphtor = "tools.cli.main:main"
+
+[project.urls]
+Repository = "https://github.com/plasma-ai/kaphtor"
+
+[dependency-groups]
+# duckdb, so the suite runs lq's tests too.
+dev = ["pytest>=9,<10", "pre-commit>=4,<5", "duckdb>=1.5,<3"]
+# The version the wiki builder and its toy-wiki trial were checked against.
+lint = ["plasma-wiki==1.2.0"]
+
+[build-system]
+requires = ["uv_build>=0.9.21,<0.10"]
+build-backend = "uv_build"
+
+# The project is installed in place (editable), so `uv run kaphtor` works; the import name is `tools`, at the root.
+[tool.uv.build-backend]
+module-name = "tools"
+module-root = ""
+
+# https://docs.astral.sh/ruff: ruff's default rules, at the line length the code is written to; no formatter.
+[tool.ruff]
+line-length = 120
+include = ["tools/**/*.py", "tests/**/*.py"]
+# tools/core/frozen/ is pinned by its sha256; shoresh_nulls.py is the pre-registered nulls, copied unchanged.
+extend-exclude = ["tools/core/frozen", "tools/core/shoresh_nulls.py"]
+# pre-commit passes file names: without this, a named file would be checked and fixed despite the excludes.
+force-exclude = true
+
+[tool.ruff.lint.per-file-ignores]
+# A test runs a command to assert on its exit code, so a failing command must not raise.
+"tests/**" = ["PLW1510"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--strict-markers -p pytester"
+markers = [
+    "unit: inline inputs only; runs on a fresh clone",
+    "data: reads the shipped datasets under data/",
+    "maintainer: needs data that is not shipped, and skips without it",
+]

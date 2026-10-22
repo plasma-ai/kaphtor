@@ -1,0 +1,37 @@
+---
+name: wiki/semitic-roots/d/1371_spear
+title: "*daʾim-: 'spear'"
+desc: "Proto-Semitic *daʾim-, 'spear': reflexes in 1 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "1371"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *daʾim-: 'spear'
+
+[[wiki/semitic-roots/d/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*daʾim- |
+| Meaning | 'spear' |
+| Basis | SED |
+| SED | SEDonline semet 1449 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Akkadian | daʔimu JB LL AHw 150 | AHw 150 |  |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

@@ -1,0 +1,14 @@
+{
+  "name": "plasma",
+  "owner": {
+    "name": "Plasma AI"
+  },
+  "description": "Plasma AI's research plugins.",
+  "plugins": [
+    {
+      "name": "kaphtor",
+      "source": "./",
+      "description": "Linear A research and ancient Near East research: two agent skills over the kaphtor record and its query tools."
+    }
+  ]
+}

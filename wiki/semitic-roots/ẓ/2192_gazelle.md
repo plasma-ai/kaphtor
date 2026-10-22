@@ -1,0 +1,48 @@
+---
+name: wiki/semitic-roots/ẓ/2192_gazelle
+title: "*ṯ̣aby(-at)-: 'gazelle'"
+desc: "Proto-Semitic *ṯ̣aby(-at)-, 'gazelle': reflexes in 12 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "2192"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *ṯ̣aby(-at)-: 'gazelle'
+
+[[wiki/semitic-roots/ẓ/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*ṯ̣aby(-at)- |
+| Meaning | 'gazelle' |
+| Basis | SED |
+| SED | SEDonline semet 2418 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Arabic | ḏ̣aby- 'gazelle (male or female)', ḏ̣abyat- 'female gazelle; cow, ewe' \[BK 2 132\], \[Fr. III 86\], \[Lane 1908\], \[LA XV 23\]. More details on the use of this term in Arab literature v. in \[Hommel 270ff.\]. | BK 2 132; Fr. III 86; Lane 1908; LA XV 23; Hommel 270ff |  |
+| Akkadian | ṣabītu OB on \[CAD ṣ 42\], \[AHw. 1071\] | CAD ṣ 42; AHw. 1071; Firmage 1141ff; Salonen Jagd 255ff; Lansberger Fauna 100 | gloss withheld |
+| Eblaitic | za-ba-a-tum /ẓabaytum/ = DÀRA.MAS̆.DÀ \[MEE 4 1191\] | MEE 4 1191; Kreb. 42; Civil Ebla 90 |  |
+| Mandaic Aramaic | ṭabia \[DM 173\]. | DM 173 | gloss withheld |
+| Ugaritic | ṯ̣by \[DLU 551\] | DLU 551; Del Olmo Mitos 306 | gloss withheld |
+| Hebrew | ṣǝbī (HALOT 998), ṣǝbiyyā (ibid.); pB. ṣǝbī, ṣǝbiyyā \[Ja. 1258\] | HALOT 998; ibid.; Ja. 1258; Miller 185; Sasson 419 | gloss withheld |
+| Epigraphic South Arabian | Sab. ṣby \[SD 141\]. Hdr. ṣby (Ja 949/2) \[Sima 168\] | SD 141; Ja 949/2; Sima 168; Sima 168; Sima 168ff; Biella 233; SD 171; Lane 1908; Sima 15; LA 1956 62 22 | gloss withheld |
+| Judaic Aramaic | ṭabyā \[Ja. 516\], \[Levy WT I 293\], \[Levy WTM II 134\], ṭby det. ṭbyyh \[Sok. 220\], ṭbyyh, det. ṭbyth \[ibid.\]. Sam. ṭby \[Tal 302\]. | Ja. 516; Levy WT I 293; Levy WTM II 134; Sok. 220; ibid.; Tal 302 | gloss withheld |
+| Syrian Aramaic | ṭabyā, ṭǝbītā 'gazella dorcas' \[Brock. 266\], \[PS 1425\]. | Brock. 266; PS 1425 |  |
+| Aramaic | Anc. ṣby \[HJ 958\] | HJ 958; KAI 222; Fitzmyer 90; HJ 419; PY 47; Kott. 205; Nyberg 71 | gloss withheld |
+| Modern Aramaic | NSyr. ṭôyâ, ṭwitâ, NAssyr. ṭōya, Tlk. ṭōya (SED II 311) | SED II 311 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ẓby (Al-Jallad–Jaworska, 143) | Al-Jallad–Jaworska 143 | gloss withheld |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

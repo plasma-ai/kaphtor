@@ -1,0 +1,462 @@
+{
+  "schema_version": 1,
+  "description": "Eteocretan inscription database — alphabetic Greek texts from Crete (7th-3rd c. BCE) preserving the pre-Greek Minoan language. 10 records: 2 Dreros bilinguals, 6 Praisos texts (4 substantive + 2 fragments), 1 PROVEN FAKE (Psychro/Epioi — Kritzas 2005), 1 Eteocypriote control.",
+  "provenance": "Gordon 1966 'Evidence for the Minoan Language' §§19-50, §§113, 124; Ray Brown Eteocretan Language Pages; Duhoux 1982; Guarducci IC III",
+  "inscriptions": [
+    {
+      "id": "ETEOCRETAN_DREROS_1",
+      "common_name": "First Dreros bilingual / isaluria inscription",
+      "site": "Dreros",
+      "object_type": "grey schist block",
+      "date": "late 7th or early 6th century BCE",
+      "script": "archaic Cretan alphabet / Greek alphabetic",
+      "direction": "Eteocretan lines sinistrorse; Greek boustrophedon",
+      "current_transliteration": [
+        "--.ρμαϜ|ετ|ισαλαβρε|̣κομν",
+        "--.δ|μεν|ιναι|ισαλυρια|λμο vac.",
+        "--..τοντυρονμηα.οαοιεϜαδ",
+        "ετυρο...μ̣υνα.οα.ενη̣--",
+        "--ματριταια--"
+      ],
+      "greek_parallel_text": "Fragmentary Greek lines; Gordon associates TON TYRON with cheese and MATRI with mother.",
+      "gordon_transliteration": [
+        "]RMAW . ET . ISAAABR ET KOMN",
+        "]D . MEN . INAI . ISAATRIA . AMO"
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "AMO",
+          "meaning": "for his mother",
+          "basis": "Greek MATRI parallel",
+          "constraint": "bilingual"
+        },
+        {
+          "form": "ET",
+          "meaning": "accusative marker",
+          "basis": "Greek TON TYRON",
+          "constraint": "bilingual/contextual"
+        },
+        {
+          "form": "KOMN",
+          "meaning": "cheese",
+          "basis": "Greek TYRON",
+          "constraint": "bilingual"
+        },
+        {
+          "form": "MEN",
+          "meaning": "from",
+          "basis": "Semitic comparison",
+          "constraint": "contextual"
+        },
+        {
+          "form": "INAI",
+          "meaning": "eyes/presence",
+          "basis": "Semitic comparison",
+          "constraint": "contextual"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §§19-50, §§113, 124",
+        "Ray Brown Eteocretan Language Pages",
+        "Duhoux 1982 L'Étéocrétois",
+        "Guarducci, Inscriptiones Creticae",
+        "van Effenterre 1946"
+      ],
+      "relationship_to_linear_a": "comparandum_only",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "id": "ETEOCRETAN_DREROS_2",
+      "common_name": "Second Dreros bilingual / purification inscription",
+      "site": "Dreros",
+      "object_type": "grey schist block",
+      "date": "late 7th or early 6th century BCE",
+      "script": "archaic Cretan alphabet plus Greek",
+      "direction": "first line sinistrorse; Greek boustrophedon",
+      "current_transliteration": [
+        "--Σ|ΤΥΠΡΜΗΡΙΗΙΑομο",
+        "σαιδαπερενορκιοισι|α--",
+        "--καθαρονγενοιτο"
+      ],
+      "greek_parallel_text": "--καθαρον γενοιτο",
+      "gordon_transliteration": [
+        "]S . TUPR MHP IHIA"
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "IHIA",
+          "meaning": "it will be",
+          "basis": "Greek genoito",
+          "constraint": "bilingual"
+        },
+        {
+          "form": "TUPR",
+          "meaning": "purity",
+          "basis": "Greek katharon",
+          "constraint": "contextual/bilingual"
+        },
+        {
+          "form": "MHP",
+          "meaning": "quickly?",
+          "basis": "Hebrew maher comparison",
+          "constraint": "speculative"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §§19-50, §§113, 124",
+        "Ray Brown Eteocretan Language Pages",
+        "Duhoux 1982 L'Étéocrétois",
+        "Guarducci, Inscriptiones Creticae",
+        "van Effenterre BCH 70, 1946"
+      ],
+      "relationship_to_linear_a": "comparandum_only",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "id": "ETEOCRETAN_PRAISOS_1",
+      "common_name": "Early/First Praisos text",
+      "site": "Praisos",
+      "object_type": "stone inscription",
+      "date": "late 7th or early 6th century BCE",
+      "script": "archaic Cretan alphabet",
+      "direction": "boustrophedon",
+      "current_transliteration": [
+        "Full line transcription not extracted; Ray Brown page gives object metadata and bibliography."
+      ],
+      "greek_parallel_text": "",
+      "gordon_transliteration": [
+        "Fragmentary; Gordon identifies MIT, BAPZE, KA, KAPK, ET, ME, and other forms."
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "MIT",
+          "meaning": "died",
+          "basis": "recurrent Praisos opening",
+          "constraint": "contextual"
+        },
+        {
+          "form": "BAPZE",
+          "meaning": "in this land",
+          "basis": "b + arq + ze",
+          "constraint": "morphological"
+        },
+        {
+          "form": "KA",
+          "meaning": "all/every",
+          "basis": "Semitic kull",
+          "constraint": "contextual"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §§19-50, §§113, 124",
+        "Ray Brown Eteocretan Language Pages",
+        "Duhoux 1982 L'Étéocrétois",
+        "Guarducci IC III"
+      ],
+      "relationship_to_linear_a": "comparandum_only",
+      "status": "PARTIAL",
+      "notes": "Transcription not yet checked against Duhoux 1982 or Guarducci (IC III)."
+    },
+    {
+      "id": "ETEOCRETAN_PRAISOS_2",
+      "common_name": "Second Praisos text",
+      "site": "Praisos",
+      "object_type": "stone inscription",
+      "date": "probably 4th century BCE",
+      "script": "standard Ionian alphabet with old Cretan lambda",
+      "direction": "dextrorse",
+      "current_transliteration": [
+        "--ο̣ναδεσιεμετεπιμιτσφα",
+        "--δο..ιαραλαφ̣ραισοιιναι vac.",
+        "--ρ̣εστνμτορσαρδοφσανο",
+        "--σατοισστεφ̣.σατ̣ι̣υν vac.",
+        "--α̣νιμεστεπαλυνε̣υτατ vac."
+      ],
+      "greek_parallel_text": "",
+      "gordon_transliteration": [
+        "Gordon identifies MIT, DOPH after numerals, ZANO, MOZEA, and other fragments."
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "MIT",
+          "meaning": "died",
+          "basis": "parallel Praisos usage",
+          "constraint": "contextual"
+        },
+        {
+          "form": "ZANO",
+          "meaning": "this",
+          "basis": "Eteocypriote sa-na / Semitic demonstrative",
+          "constraint": "morphological"
+        },
+        {
+          "form": "MOZEA",
+          "meaning": "ruler",
+          "basis": "Hebrew moshel",
+          "constraint": "lexical"
+        },
+        {
+          "form": "SFA/TSAA/SAR",
+          "meaning": "7/9/10",
+          "basis": "Semitic numerals",
+          "constraint": "contextual"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §§19-50, §§113, 124",
+        "Ray Brown Eteocretan Language Pages",
+        "Duhoux 1982 pp. 68-75",
+        "Guarducci IC III pp. 139-140"
+      ],
+      "relationship_to_linear_a": "comparandum_only",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "id": "ETEOCRETAN_PRAISOS_3",
+      "common_name": "Third Praisos text",
+      "site": "Praisos",
+      "object_type": "stone inscription",
+      "date": "probably 3rd century BCE",
+      "script": "standard Ionian alphabet plus digamma",
+      "direction": "dextrorse",
+      "current_transliteration": [
+        "--ξ̣.ν̣νυμιτ",
+        "--α̣ταρκομν v",
+        "--.ηδησδεα v",
+        "--σ̣ωπειραρι v",
+        "--ε̣ν τασετϜσευ",
+        "--ννασιρουκλεσ",
+        "--ιρερμηι̣αμαρφ",
+        "--ε̣ιρερφινσδαν",
+        "--μαμδεδικαρκ",
+        "--ρισραιραριφ",
+        "--.ν̣"
+      ],
+      "greek_parallel_text": "",
+      "gordon_transliteration": [
+        "Gordon identifies MIT, KARK, NA(S), IP, TAPI... and related terms."
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "MIT",
+          "meaning": "died",
+          "basis": "opening context",
+          "constraint": "contextual"
+        },
+        {
+          "form": "KARK",
+          "meaning": "town",
+          "basis": "Semitic krk",
+          "constraint": "lexical"
+        },
+        {
+          "form": "IP",
+          "meaning": "city",
+          "basis": "Semitic ʿir",
+          "constraint": "lexical"
+        },
+        {
+          "form": "NAS",
+          "meaning": "people",
+          "basis": "Aramaic/Arabic nas",
+          "constraint": "lexical"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §§19-50, §§113, 124",
+        "Ray Brown Eteocretan Language Pages",
+        "Duhoux 1982 pp. 75-79",
+        "Guarducci IC III pp. 140-141"
+      ],
+      "relationship_to_linear_a": "comparandum_only",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "id": "ETEOCRETAN_PRAISOS_4",
+      "common_name": "Fourth Praisos fragment",
+      "site": "Praisos",
+      "object_type": "fragmentary stone inscription",
+      "date": "unknown",
+      "script": "Greek alphabetic",
+      "direction": "uncertain",
+      "current_transliteration": [
+        "Not located in current web extraction; represented from Gordon only pending source review."
+      ],
+      "greek_parallel_text": "",
+      "gordon_transliteration": [
+        "]ΑΡΤΙΑ̣[",
+        "]Ε[ ]ΑΤ[",
+        "]Α[",
+        "]ΘΕΡΤ[",
+        "(blank)",
+        "]Κ̣ΟΣΑ[",
+        "]ΤΕΡΝ[",
+        "]ΚΟΜΝΕ[",
+        "]ΑΤΑΤΕ[",
+        "]ΔΕΑΡΣ[",
+        "(blank)"
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "KOMN",
+          "meaning": "cheese?",
+          "basis": "Praisos/Dreros comparison",
+          "constraint": "weak contextual"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §44",
+        "Duhoux/Guarducci source access required"
+      ],
+      "relationship_to_linear_a": "comparandum_only",
+      "status": "SOURCE_BLOCKED",
+      "notes": "Text known only from Gordon 1966 §44 (Plate VI); not yet checked against Guarducci (IC III) or Duhoux 1982."
+    },
+    {
+      "id": "ETEOCRETAN_PSYCHRO",
+      "common_name": "Psychro/Epioi text — PROVEN FAKE",
+      "site": "Psychro / Dictaean Cave area",
+      "object_type": "engraved stone",
+      "date": "uncertain",
+      "script": "Greek alphabetic plus old syllabary repetition according to Gordon",
+      "direction": "uncertain",
+      "current_transliteration": [
+        "No full source-backed transcription extracted. Later articles (1976, Kritzas 2005) debate genuineness."
+      ],
+      "greek_parallel_text": "",
+      "gordon_transliteration": [
+        "EPIΘI Z HΘANΘH ... with old-syllabary i-pi-ti repetition"
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "E",
+          "meaning": "the (article)",
+          "basis": "Semitic article",
+          "constraint": "morphological"
+        },
+        {
+          "form": "EPIΘI / PI-TE",
+          "meaning": "engraved monument",
+          "basis": "Linear A PI-TE continuity; Phoenician ptḥ",
+          "constraint": "cross-script comparandum"
+        },
+        {
+          "form": "Z",
+          "meaning": "this/which",
+          "basis": "Minoan ZA / Phoenician z",
+          "constraint": "lexical"
+        },
+        {
+          "form": "HΘANΘH",
+          "meaning": "I have given/set",
+          "basis": "√y-t-n with infixed-t reflexive",
+          "constraint": "morphological"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §§45-49, §124",
+        "Kritzas 2005 (genuineness dispute)",
+        "1976 Psychro article (unresolved)"
+      ],
+      "relationship_to_linear_a": "comparandum_only",
+      "status": "PROVEN_FAKE",
+      "notes": "PROVEN FAKE per Kritzas 2005, confirmed by Ray Brown. Gordon (1966 §§45-49) included this before the debunking. All word readings from this inscription are quarantined.",
+      "forgery_evidence": {
+        "debunker": "Ch. B. Kritzas",
+        "publication": "Kritzas 2005",
+        "confirmation": "Ray Brown, Eteocretan Language Pages (carolandray.epizy.com/Epioi.html): 'This biscript inscription, which has now been shown to be a modern fake'",
+        "impact": "4 word analysis entries (E, EPIΘI/PI-TE, Z, HΘANΘH) are CONTAMINATED. The HΘANΘH → √y-t-n continuity claim and EPIΘI → PI-TE cross-script bridge are invalidated as Eteocretan evidence. Note: the Linear A readings JE-TA-NA = Yatana (√y-t-n) and PI-TE remain independently valid from LA corpus attestations — only the Eteocretan survival claim is affected."
+      }
+    },
+    {
+      "id": "ETEOCRETAN_PRAISOS_5",
+      "common_name": "Fifth Praisos fragment (Duhoux PRA 5)",
+      "site": "Praisos",
+      "object_type": "stone fragment",
+      "date": "6th century BCE (archaic alphabet)",
+      "script": "archaic Cretan alphabet",
+      "direction": "sinistrorse",
+      "current_transliteration": [
+        "--..ụọ--",
+        "--.oit||s--",
+        "--pʰ|ṛas|.--",
+        "---iṣ--"
+      ],
+      "greek_parallel_text": "",
+      "gordon_transliteration": [],
+      "gordon_word_readings": [],
+      "source_refs": [
+        "Guarducci 1942, Inscriptiones Creticae III, p. 141",
+        "Duhoux 1982, L'Étéocrétois, pp. 82-85",
+        "Ray Brown 1984, Pre-Greek Speech on Crete, pp. 231-232",
+        "Ray Brown, carolandray.epizy.com/Others.html"
+      ],
+      "relationship_to_linear_a": "none_established",
+      "status": "SOURCE_BACKED",
+      "notes": "Found 1924 by Italian Archaeological Mission at Paravoli. Now lost. 4 sinistrorse lines in archaic Cretan alphabet. Very fragmentary."
+    },
+    {
+      "id": "ETEOCRETAN_PRAISOS_6",
+      "common_name": "Sixth Praisos fragment (Duhoux *PRA γ — uncertain Eteocretan)",
+      "site": "Praisos",
+      "object_type": "stone fragment",
+      "date": "uncertain",
+      "script": "Greek alphabetic",
+      "direction": "uncertain",
+      "current_transliteration": [],
+      "greek_parallel_text": "",
+      "gordon_transliteration": [],
+      "gordon_word_readings": [],
+      "source_refs": [
+        "Guarducci 1942, Inscriptiones Creticae III, p. 142",
+        "Duhoux 1982, L'Étéocrétois, ch. 'Textes de caractère étéocrétois non assuré'",
+        "Ray Brown, carolandray.epizy.com/Others.html"
+      ],
+      "relationship_to_linear_a": "none_established",
+      "status": "UNCERTAIN_ETEOCRETAN",
+      "notes": "Classified by Duhoux as uncertain Eteocretan (*PRA γ). May be Greek. Listed by Guarducci in IC III p. 142."
+    },
+    {
+      "id": "ETEOCYPRIOTE_AMATHUS_CONTROL",
+      "common_name": "Amathus bilingual control",
+      "site": "Amathus, Cyprus",
+      "object_type": "black marble slab",
+      "date": "Hellenistic",
+      "script": "Cypriote syllabary plus Greek",
+      "direction": "syllabic text; Greek parallel",
+      "current_transliteration": [
+        "a-na . ma-to-ri . u-mi-e-s[a]-i mu-ku-la-i la-sa-na ..."
+      ],
+      "greek_parallel_text": "The city of the Amathusians honored noble Ariston son of Aristonax.",
+      "gordon_transliteration": [
+        "a-na ma-to-ri ... la-sa-na ... a-lo ... ka-i-li-po-ti"
+      ],
+      "gordon_word_readings": [
+        {
+          "form": "a-na",
+          "meaning": "the/this",
+          "basis": "Greek city phrase",
+          "constraint": "bilingual"
+        },
+        {
+          "form": "la-sa-na",
+          "meaning": "for this one",
+          "basis": "Semitic l + zana",
+          "constraint": "bilingual/contextual"
+        },
+        {
+          "form": "a-lo",
+          "meaning": "over him",
+          "basis": "monument setting",
+          "constraint": "contextual"
+        }
+      ],
+      "source_refs": [
+        "Gordon 1966 §§3-18"
+      ],
+      "relationship_to_linear_a": "eteocypriote_control_only",
+      "status": "PARTIAL",
+      "notes": "Control text. Not Cretan, not Linear A. Useful for syllabic Semitic comparisons only."
+    }
+  ]
+}

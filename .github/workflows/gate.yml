@@ -1,0 +1,30 @@
+# Runs `kaphtor gate` on every push and pull request. The Git LFS objects are cached between runs, so a run fetches
+# only the objects its commit adds.
+name: gate
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/cache@v4
+        with:
+          path: .git/lfs
+          key: lfs-${{ github.sha }}
+          restore-keys: lfs-
+      - run: git lfs pull
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --all-groups --locked
+      - run: uv run --no-sync kaphtor gate

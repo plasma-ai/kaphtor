@@ -1,0 +1,37 @@
+kaphtor
+Copyright © Tom di Mino. Published by Plasma AI.
+
+The code is licensed under the Apache License 2.0 (LICENSE). Unless otherwise noted, the original data and writing
+are licensed under Creative Commons Attribution 4.0 International (LICENSE-CC-BY-4.0).
+
+This repository includes third-party material under its own terms. Each dataset's datasheet or manifest, beside it
+in data/, records its source and licence.
+
+Linear A corpus (data/linear-a/corpus.json)
+  Builds on SigLA (https://sigla.phis.me), by Ester Salgarella and Simon Castellan, CC BY-NC-SA 4.0, and on
+  lineara.xyz (https://github.com/mwenge/lineara.xyz), by Rob Hogan, which states no licence. Our corrections and
+  added layers are CC BY 4.0; the underlying texts keep their sources' terms.
+
+Semitic root reflexes (data/semitic-roots/semitic_roots.json)
+  903 reflexes come from Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
+  doi:10.5281/zenodo.14160276, CC BY 4.0; each cites it. The consonant correspondences
+  (data/semitic-roots/semitic_correspondences.json) follow Huehnergard 2019, Table 3.2 (p. 51), as cited facts.
+
+Akkadian literary glossary (data/ane/akkadian_literary.jsonl)
+  From ORACC CAMS/GKAB, CC0 1.0.
+
+Persons and Names of the Middle Kingdom, version 6 (data/ane/pnm-v6/)
+  Zenodo, doi:10.5281/zenodo.15806808, CC BY 4.0.
+
+Pleiades places (data/ane/place-authorities/pleiades_places.jsonl)
+  Pleiades (https://pleiades.stoa.org), CC BY 3.0.
+
+ORAEC/TLA Egyptian documents (data/share-alike/egyptian/)
+  ORAEC republication of Thesaurus Linguae Aegyptiae records, CC BY-SA 4.0. Anything derived from these files
+  carries the same terms.
+
+Trismegistos Geo places (data/share-alike/trismegistos/)
+  Trismegistos Geo, CC BY-SA 4.0. Anything derived from these files carries the same terms.
+
+Noto Sans Linear A, Noto Sans Linear B and Noto Sans Cypro-Minoan (assets/fonts/)
+  SIL Open Font License 1.1 (assets/fonts/OFL.txt).

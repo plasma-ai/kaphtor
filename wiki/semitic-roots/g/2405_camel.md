@@ -1,0 +1,54 @@
+---
+name: wiki/semitic-roots/g/2405_camel
+title: "*gam(a)l-: 'camel'"
+desc: "Proto-Semitic *gam(a)l-, 'camel': reflexes in 18 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "2405"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *gam(a)l-: 'camel'
+
+[[wiki/semitic-roots/g/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*gam(a)l- |
+| Meaning | 'camel' |
+| Basis | SED |
+| SED | SEDonline semet 2663 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Arabic | ǯaml- 'camel' \[BK 1 330\], ǯamal- id. \[ibid.\], ǯāmil- 'camels, herd of camels' \[ibid.\], ǯamālat- 'herd of camels; horses' \[ibid.\]. \[LA XI 123ff.\], \[Lane 460\] (the monosyllabic form is said to be rare). Cf. further \[Hommel 144ff.\] | BK 1 330; ibid.; ibid.; ibid.; LA XI 123ff; Lane 460; Hommel 144ff |  |
+| Soqotri | gimál (gemal) \[LS 111\], gemél \[ibid.\] | LS 111; ibid. | gloss withheld |
+| Tigre | gämäl \[LH 567\] | LH 567 | gloss withheld |
+| Mandaic Aramaic | gumla \[DM 83\] | DM 83 | gloss withheld |
+| East Ethiopic | Sel. gāmēla, Wol. gamelä, Zwy. gāla \[LGur. 277\] | LGur. 277 | gloss withheld |
+| Geez | gamal \[LGz. 194\] | LGz. 194 | gloss withheld |
+| Gurage | End. Sod. gǝmäl, Muh. Msq. Gog. gamela, Cha. Eža gamera, Enn. Gye. gamēra \[LGur. 277\] | LGur. 277 | gloss withheld |
+| Jibbali | gũl (pl. gmíhl) \[JJ 76\] | JJ 76 | gloss withheld |
+| Hebrew | gāmāl (HALOT 197), pB. \[Ja. 253\] | HALOT 197; Ja. 253 | gloss withheld |
+| Amharic | gǝmäl, gämäl \[K 1908\] | K 1908 | gloss withheld |
+| Epigraphic South Arabian | Sab. gml \[SD 49\] | SD 49; Biella 72; Sima 92-4 | gloss withheld |
+| Judaic Aramaic | gamlā \[Ja. 253\], \[Levy WTM I 341\]; gml (det. gamlā) id. \[Sok. 131\], gmwlh (det. gmwlth) \[ibid. 131\], gǝmaltā \[Ja. 254\]. // Sam. gml \[Tal 150\]. | Ja. 253; Levy WTM I 341; Sok. 131; ibid. 131; Ja. 254; Tal 150 | gloss withheld |
+| Harari | gāmäla, gāmila \[LHar. 72\] | LHar. 72 | gloss withheld |
+| Syrian Aramaic | gamlā 'camelus' \[Brock. 120\] | Brock. 120 |  |
+| Aramaic | Off. gml \[HJ 226\] (cf. \[PY XXIX\], \[Kott. 195\]). // Nab. gml \[HJ 226\] (cf. \[Cant. II 79\]). // Plm. gml \[HJ 226\] (cf. \[PAT 353\]). | HJ 226; PY XXIX; Kott. 195; HJ 226; HJ 226; PAT 353 | gloss withheld |
+| Tigrinya | gämäl 'camel, dromedary' \[Bass. 820\] | Bass. 820 |  |
+| Modern Aramaic | Maʕl. ɣamla, Hrt. gumla, Jil. gumla, Krd. gumla, NSyr. gümla, NAssyr. gʸümlä, gumla, JNA gumla, Tlk. gumla, Tur. gamlo, M.Mnd. gomlā (SED II 116) | SED II 116 |  |
+| Pre-Islamic North Arabian | Safaitic gml (Al-Jallad–Jaworska, 72) | Al-Jallad–Jaworska 72 | gloss withheld |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

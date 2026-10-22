@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "description": "Analyzed Eteocretan vocabulary with constraint types and Gordon readings. Each entry marks whether the word is bilingual-proven, contextually inferred, morphologically parsed, or speculative.",
+  "provenance": "Gordon 1966 'Evidence for the Minoan Language' §§19-50, §§113, 124; Ray Brown Eteocretan Language Pages; Duhoux 1982; Guarducci IC III",
+  "constraint_type_key": {
+    "bilingual": "Meaning fixed by Greek parallel text (strongest constraint)",
+    "contextual/bilingual": "Meaning supported by Greek context but not word-for-word",
+    "contextual": "Meaning inferred from repeated formulaic position or genre",
+    "morphological": "Parsed via Semitic morphology (prefixes, suffixes, root patterns)",
+    "lexical": "Compared to known Semitic vocabulary without structural proof",
+    "cross-script comparandum": "Linked to Linear A form by Gordon (LA → Eteocretan continuity claim)",
+    "speculative": "Gordon's own tentative suggestion"
+  },
+  "words": [
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_1",
+      "site": "Dreros",
+      "form": "AMO",
+      "gordon_meaning": "for his mother",
+      "root": "*ʾumm-ō",
+      "basis": "Greek MATRI parallel",
+      "constraint_type": "bilingual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_1",
+      "site": "Dreros",
+      "form": "ET",
+      "gordon_meaning": "accusative marker",
+      "root": "ʾēt (Hebrew)",
+      "basis": "Greek TON TYRON",
+      "constraint_type": "bilingual/contextual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_1",
+      "site": "Dreros",
+      "form": "KOMN",
+      "gordon_meaning": "cheese",
+      "root": "unknown (substrate?)",
+      "basis": "Greek TYRON",
+      "constraint_type": "bilingual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_1",
+      "site": "Dreros",
+      "form": "MEN",
+      "gordon_meaning": "from",
+      "root": "√m-n (Semitic min)",
+      "basis": "Semitic comparison",
+      "constraint_type": "contextual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_1",
+      "site": "Dreros",
+      "form": "INAI",
+      "gordon_meaning": "eyes/presence",
+      "root": "√ʿ-y-n (Hebrew ʿēnayim)",
+      "basis": "Semitic comparison",
+      "constraint_type": "contextual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_2",
+      "site": "Dreros",
+      "form": "IHIA",
+      "gordon_meaning": "it will be / let it be",
+      "root": "√y-h-y (Hebrew hāyāh)",
+      "basis": "Greek genoito",
+      "constraint_type": "bilingual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_2",
+      "site": "Dreros",
+      "form": "TUPR",
+      "gordon_meaning": "purity",
+      "root": "√ṭ-h-r (Gordon's claim)",
+      "basis": "Greek katharon",
+      "constraint_type": "contextual/bilingual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_DREROS_2",
+      "site": "Dreros",
+      "form": "MHP",
+      "gordon_meaning": "quickly?",
+      "root": "√m-h-r (Hebrew māhēr, tentative)",
+      "basis": "Hebrew maher comparison",
+      "constraint_type": "speculative",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_1",
+      "site": "Praisos",
+      "form": "MIT",
+      "gordon_meaning": "died",
+      "root": "√m-w-t (Hebrew mēt)",
+      "basis": "recurrent Praisos opening (3 texts)",
+      "constraint_type": "contextual",
+      "status": "PARTIAL"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_1",
+      "site": "Praisos",
+      "form": "BAPZE",
+      "gordon_meaning": "in this land",
+      "root": "b- + ʾarq + -ze",
+      "basis": "b + arq + ze (morphological parse)",
+      "constraint_type": "morphological",
+      "status": "PARTIAL"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_1",
+      "site": "Praisos",
+      "form": "KA",
+      "gordon_meaning": "all/every",
+      "root": "√k-l-l (Semitic kull)",
+      "basis": "Semitic kull",
+      "constraint_type": "contextual",
+      "status": "PARTIAL"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_2",
+      "site": "Praisos",
+      "form": "MIT",
+      "gordon_meaning": "died",
+      "root": "√m-w-t",
+      "basis": "parallel Praisos usage",
+      "constraint_type": "contextual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_2",
+      "site": "Praisos",
+      "form": "ZANO",
+      "gordon_meaning": "this",
+      "root": "Semitic demonstrative + emphatic suffix",
+      "basis": "Eteocypriote sa-na / Semitic demonstrative",
+      "constraint_type": "morphological",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_2",
+      "site": "Praisos",
+      "form": "MOZEA",
+      "gordon_meaning": "ruler",
+      "root": "√m-š-l (Hebrew mōšēl)",
+      "basis": "Hebrew moshel",
+      "constraint_type": "lexical",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_2",
+      "site": "Praisos",
+      "form": "SFA/TSAA/SAR",
+      "gordon_meaning": "7/9/10",
+      "root": "šabʿa / tisʿa / ʿasara",
+      "basis": "Semitic numeral skeletons",
+      "constraint_type": "contextual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_3",
+      "site": "Praisos",
+      "form": "MIT",
+      "gordon_meaning": "died",
+      "root": "√m-w-t",
+      "basis": "opening context",
+      "constraint_type": "contextual",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_3",
+      "site": "Praisos",
+      "form": "KARK",
+      "gordon_meaning": "town",
+      "root": "*kark- (Assyrian kāru, Aramaic karkā)",
+      "basis": "Semitic krk",
+      "constraint_type": "lexical",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_3",
+      "site": "Praisos",
+      "form": "IP",
+      "gordon_meaning": "city",
+      "root": "√ʿ-y-r (Hebrew ʿīr)",
+      "basis": "Semitic ʿir",
+      "constraint_type": "lexical",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_3",
+      "site": "Praisos",
+      "form": "NAS",
+      "gordon_meaning": "people",
+      "root": "Aramaic/Arabic nās",
+      "basis": "Aramaic/Arabic nas",
+      "constraint_type": "lexical",
+      "status": "SOURCE_BACKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PRAISOS_4",
+      "site": "Praisos",
+      "form": "KOMN",
+      "gordon_meaning": "cheese?",
+      "root": "unknown (substrate?)",
+      "basis": "Praisos/Dreros comparison",
+      "constraint_type": "weak contextual",
+      "status": "SOURCE_BLOCKED"
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PSYCHRO",
+      "site": "Psychro / Dictaean Cave area",
+      "form": "E",
+      "gordon_meaning": "the (article)",
+      "root": "Semitic definite article (ha- → e?)",
+      "basis": "Semitic article",
+      "constraint_type": "morphological",
+      "status": "CONTAMINATED_FORGERY",
+      "forgery_note": "Source inscription PROVEN FAKE (Kritzas 2005, confirmed by Ray Brown). This word analysis is quarantined."
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PSYCHRO",
+      "site": "Psychro / Dictaean Cave area",
+      "form": "EPIΘI / PI-TE",
+      "gordon_meaning": "engraved monument",
+      "root": "√p-t-ḥ (Phoenician ptḥ 'to open/engrave')",
+      "basis": "Linear A PI-TE continuity",
+      "constraint_type": "cross-script comparandum",
+      "status": "CONTAMINATED_FORGERY",
+      "forgery_note": "Source inscription PROVEN FAKE (Kritzas 2005, confirmed by Ray Brown). This word analysis is quarantined."
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PSYCHRO",
+      "site": "Psychro / Dictaean Cave area",
+      "form": "Z",
+      "gordon_meaning": "this/which",
+      "root": "Phoenician z / Minoan ZA",
+      "basis": "Minoan ZA / Phoenician z",
+      "constraint_type": "lexical",
+      "status": "CONTAMINATED_FORGERY",
+      "forgery_note": "Source inscription PROVEN FAKE (Kritzas 2005, confirmed by Ray Brown). This word analysis is quarantined."
+    },
+    {
+      "inscription_id": "ETEOCRETAN_PSYCHRO",
+      "site": "Psychro / Dictaean Cave area",
+      "form": "HΘANΘH",
+      "gordon_meaning": "I have given/set",
+      "root": "√y-t-n with infixed-t reflexive",
+      "basis": "ytn/tnt morphology",
+      "constraint_type": "morphological",
+      "status": "CONTAMINATED_FORGERY",
+      "forgery_note": "Source inscription PROVEN FAKE (Kritzas 2005, confirmed by Ray Brown). This word analysis is quarantined."
+    },
+    {
+      "inscription_id": "ETEOCYPRIOTE_AMATHUS_CONTROL",
+      "site": "Amathus, Cyprus",
+      "form": "a-na",
+      "gordon_meaning": "the/this",
+      "root": "demonstrative/article",
+      "basis": "Greek city phrase",
+      "constraint_type": "bilingual",
+      "status": "PARTIAL"
+    },
+    {
+      "inscription_id": "ETEOCYPRIOTE_AMATHUS_CONTROL",
+      "site": "Amathus, Cyprus",
+      "form": "la-sa-na",
+      "gordon_meaning": "for this one",
+      "root": "l- (prep) + sa-na (demonstrative)",
+      "basis": "Semitic l + zana",
+      "constraint_type": "bilingual/contextual",
+      "status": "PARTIAL"
+    },
+    {
+      "inscription_id": "ETEOCYPRIOTE_AMATHUS_CONTROL",
+      "site": "Amathus, Cyprus",
+      "form": "a-lo",
+      "gordon_meaning": "over him",
+      "root": "ʿal- + pronominal suffix",
+      "basis": "monument setting",
+      "constraint_type": "contextual",
+      "status": "PARTIAL"
+    }
+  ]
+}

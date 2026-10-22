@@ -1,0 +1,37 @@
+---
+name: wiki/semitic-roots/p/K0270_narrow
+title: "*pašāq-: 'narrow'"
+desc: "Proto-Semitic *pašāq-, 'narrow': reflexes in 2 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "K0270"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *pašāq-: 'narrow'
+
+[[wiki/semitic-roots/p/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*pašāq- |
+| Meaning | 'narrow' |
+| Basis | project |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Akkadian | pašāqu 'be(come) narrow' | Anderson–Moser 2024 root pšq |  |
+| Aramaic | PŠQ 'easy' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

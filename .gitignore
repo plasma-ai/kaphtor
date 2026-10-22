@@ -1,0 +1,29 @@
+__pycache__/
+.pytest_cache/
+.venv/
+# The wiki tool's derived counts, rebuilt on each run.
+.wiki/cache/
+*.bak
+*.bak-*
+*.sqlite
+.tmp_*.py
+progress.json
+.subdaimon-output/
+.DS_Store
+# Copies the view tools take before they rewrite a page or a generated block.
+backups/
+
+# A user's own downloads, and the large indexes rebuilt from them, stay local: the fetchers write raw acquisitions
+# under data/ingest/; the ORACC occurrences (about 200 MB) and the Aramaic index (about 1 GB, licences mixed) are
+# rebuilt from them.
+data/ingest/
+data/ane/oracc/
+data/ane/aramaic_texts.*
+
+# Query caches of remote databases: their terms reserve redistribution. The clients write them under
+# $XDG_CACHE_HOME/kaphtor (tools/paths.py); this catches any older in-repo cache.
+**/*-query-cache/
+
+# Built locally from sources whose terms bar redistribution (TraCES is CC BY-NC-ND).
+data/ane/traces-geez/
+data/ane/evidence-bank/

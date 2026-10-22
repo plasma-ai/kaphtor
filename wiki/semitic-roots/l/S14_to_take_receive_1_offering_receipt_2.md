@@ -1,0 +1,46 @@
+---
+name: wiki/semitic-roots/l/S14_to_take_receive_1_offering_receipt_2
+title: "*lVḳVḥ-: 'to take, receive' 1, 'offering, receipt' 2"
+desc: "Proto-Semitic *lVḳVḥ-, 'to take, receive' 1, 'offering, receipt' 2: reflexes in 11 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "S14"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *lVḳVḥ-: 'to take, receive' 1, 'offering, receipt' 2
+
+[[wiki/semitic-roots/l/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*lVḳVḥ- |
+| Meaning | 'to take, receive' 1, 'offering, receipt' 2 |
+| Basis | project |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Arabic | laqiḥa "to conceive" (BK 2, 1008); laqqaḥa "to pollinate" | BK 2, 1008 |  |
+| Akkadian | leqû, laqû (CAD L, 138; AHw., 547); liqtu | CAD L, 138; AHw. 547 | gloss withheld |
+| Ugaritic | lqḥ (DUL, 505); /laqāḥu/? (UVST, 143) | DUL 505; UVST 143 | gloss withheld |
+| Geez | laqḥa (LGz., 312) | LGz. 312 | gloss withheld |
+| Phoenician | lqḥ (DNWSI, 589; T, 160) | DNWSI 589; T 160 | gloss withheld |
+| Hebrew | lāqaḥ (BDB 542; HALOT 534); leqaḥ; miqqāḥ | BDB 542; HALOT 534 | gloss withheld |
+| Epigraphic South Arabian | lqḥ (SD, 83) | SD 83 | gloss withheld |
+| Judaic Aramaic | lqḥ "to take" (Ja., 717) | Ja. 717 |  |
+| Aramaic | LQḤ 'take' | Anderson–Moser 2024 root lqḥ |  |
+| Punic | lqḥ 'take' | Anderson–Moser 2024 root lqḥ |  |
+| Canaanite | Moab lḳḥ (DNWSI 581 apud SEDonline 886) | DNWSI 581; SEDonline 886 | gloss withheld |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

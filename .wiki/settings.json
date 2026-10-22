@@ -1,0 +1,7 @@
+{
+  "exclude": {
+    "patterns": ["/README.md", "/tools/", "/tests/", "/skills/", "/.github/", "/.claude-plugin/",
+                 "/backups/", "/AGENTS.md", "/CLAUDE.md", "/CONTRIBUTING.md", "/SECURITY.md", "/LICENSE",
+                 "/LICENSE-CC-BY-4.0", "/NOTICE", "/CITATION.cff", "/pyproject.toml", "/uv.lock"]
+  }
+}

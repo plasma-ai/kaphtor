@@ -1,0 +1,41 @@
+---
+name: wiki/semitic-roots/r/2826_spread_out
+title: "*rVqVʿ-: 'spread out'"
+desc: "Proto-Semitic *rVqVʿ-, 'spread out': reflexes in 6 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "2826"
+created: 2026-10-22T17:38:31Z
+updated: 2026-10-22T17:38:31Z
+---
+
+# *rVqVʿ-: 'spread out'
+
+[[wiki/semitic-roots/r/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*rVqVʿ- |
+| Meaning | 'spread out' |
+| Basis | project |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Hebrew | r-q-ʿ 'beat out, spread out, stretch' (BDB 955); rqyʿ 'expanse' (BDB 956) | BDB 955; BDB 956 |  |
+| Arabic | raqqaʿa 'patch, spread out' (Aramaic Root Atlas 0775) | Aramaic Root Atlas 0775 |  |
+| Judaic Aramaic | rəqaʿ (HALOT 1291) | HALOT 1291 |  |
+| Phoenician | mrqʿ (HALOT 1291) | HALOT 1291 |  |
+| Syrian Aramaic | rəqaʿ (HALOT 1291) | HALOT 1291 |  |
+| Tigrinya | raqqēʿe (HALOT 1291) | HALOT 1291 |  |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

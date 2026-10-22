@@ -1,0 +1,889 @@
+{
+  "description": "The corpus documents against the published census (GORILA 1,427 + RILA-S1 107 = 1,534). Every document falls in exactly one class, taken in this order: outside the Linear A area (by site), RILA-S1 accepted, RILA-S1 doubtful, RILA-S1 listed but not counted, published after 2023, outside both editions, GORILA labelled (source_provenance), GORILA unlabelled, unresolved. RILA-S1 sets are keyed by RILA-S1's own sigla (Del Freo & Zurbach 2024, pp. xxvii–xxxv, xlv–xlvii) and list the corpus keys holding each; an empty list means the corpus does not hold it. The document sets hold document ids (sides folded). gorila_unlabelled records GORILA V's general concordance for documents held under no GORILA label; an id that has since gained a label is counted as labelled. merged maps a second record of an object to the record it was folded into. gorila_v records how GORILA V's general concordance (pp. 83–113) falls into the classes: the GORILA documents RILA-S1 edits again among its accepted 107 or its doubtful list, and the records that hold two GORILA sigla.",
+  "gorila_v": {
+    "documents": 1427,
+    "rila_s1_accepted": [
+      "KHWc2059",
+      "KHWc2070",
+      "KNZb27",
+      "SYZa3"
+    ],
+    "rila_s1_doubtful": [
+      "KNZb36",
+      "KNZb37"
+    ],
+    "records_holding_two_sigla": [
+      "HTZd157+156"
+    ]
+  },
+  "outside_area_sites": [
+    "Margiana",
+    "Troy"
+  ],
+  "rila_s1_accepted": {
+    "ARKH Zc 8": {
+      "keys": [
+        "ARKHZc8"
+      ],
+      "note": ""
+    },
+    "ARKH Zf 9": {
+      "keys": [
+        "ARKHZf9"
+      ],
+      "note": ""
+    },
+    "CR (?) Zg 4": {
+      "keys": [
+        "CRZg4"
+      ],
+      "note": ""
+    },
+    "GO 2": {
+      "keys": [
+        "GO2r",
+        "GO2v"
+      ],
+      "note": ""
+    },
+    "GO Wc 3": {
+      "keys": [
+        "GOWc3"
+      ],
+      "note": ""
+    },
+    "HT Zb 162": {
+      "keys": [
+        "HTZb162"
+      ],
+      "note": "HTZb162bis (DA) unexplained"
+    },
+    "HT Zg 163": {
+      "keys": [
+        "HTZg163"
+      ],
+      "note": ""
+    },
+    "HT Wc 3024": {
+      "keys": [
+        "HTWc3024"
+      ],
+      "note": ""
+    },
+    "IO Za 11": {
+      "keys": [
+        "IOZa11"
+      ],
+      "note": ""
+    },
+    "IO Za 12": {
+      "keys": [
+        "IOZa12"
+      ],
+      "note": ""
+    },
+    "IO Za 13": {
+      "keys": [
+        "IOZa13"
+      ],
+      "note": ""
+    },
+    "IO Za 14": {
+      "keys": [
+        "IOZa14"
+      ],
+      "note": ""
+    },
+    "IO Za 15": {
+      "keys": [
+        "IOZa15"
+      ],
+      "note": ""
+    },
+    "IO Za 16": {
+      "keys": [
+        "IOZa16"
+      ],
+      "note": ""
+    },
+    "KKH Zb 1": {
+      "keys": [
+        "KKHZb1"
+      ],
+      "note": ""
+    },
+    "KE 6": {
+      "keys": [
+        "KE6"
+      ],
+      "note": ""
+    },
+    "KH 92": {
+      "keys": [
+        "KH92"
+      ],
+      "note": ""
+    },
+    "KH 93": {
+      "keys": [
+        "KH93"
+      ],
+      "note": ""
+    },
+    "KH 94": {
+      "keys": [
+        "KH94"
+      ],
+      "note": ""
+    },
+    "KH 95": {
+      "keys": [
+        "KH95"
+      ],
+      "note": ""
+    },
+    "KH 96": {
+      "keys": [
+        "KH96"
+      ],
+      "note": ""
+    },
+    "KH 101": {
+      "keys": [
+        "KH101"
+      ],
+      "note": ""
+    },
+    "KH 102": {
+      "keys": [
+        "KH102"
+      ],
+      "note": ""
+    },
+    "KH 103": {
+      "keys": [
+        "KH103"
+      ],
+      "note": ""
+    },
+    "KH 104": {
+      "keys": [
+        "KH104"
+      ],
+      "note": ""
+    },
+    "KH 105": {
+      "keys": [
+        "KH105"
+      ],
+      "note": ""
+    },
+    "KH 97": {
+      "keys": [
+        "KH97a",
+        "KH97b",
+        "KH97"
+      ],
+      "note": "KH97a/b = faces a, b (Andreadaki-Vlasaki & Hallager 2007: 8–10; RILA-S1's sign index cites KH 97b, s.v. 306); KH97 is SigLA's 'KH 97' (fractions + BOS), which does not match the 2007 drawing: unresolved"
+    },
+    "KH Zb 98": {
+      "keys": [
+        "KHZb98"
+      ],
+      "note": "= KH Zb 1 of Andreadaki-Vlasaki & Hallager 2007"
+    },
+    "KH 99": {
+      "keys": [
+        "KH99"
+      ],
+      "note": "= KH 98 of 2007"
+    },
+    "KH 100": {
+      "keys": [
+        "KH100"
+      ],
+      "note": "= KH 99 of 2007"
+    },
+    "KH Zc 106": {
+      "keys": [
+        "KHZc106"
+      ],
+      "note": ""
+    },
+    "KH Wc 2059 [+] 2091 [+] 2092": {
+      "keys": [
+        "KHWc2059",
+        "KHWc2091",
+        "KHWc2092"
+      ],
+      "note": "one roundel, three records"
+    },
+    "KH Wc 2088 [+] 2089 [+] fr.": {
+      "keys": [
+        "KHWc2088",
+        "KHWc2089"
+      ],
+      "note": "one roundel, two records"
+    },
+    "KH Wc 2070": {
+      "keys": [
+        "KHWc2070"
+      ],
+      "note": ""
+    },
+    "KH Wc 2074": {
+      "keys": [
+        "KHWc2074"
+      ],
+      "note": ""
+    },
+    "KH Wc 2079": {
+      "keys": [
+        "KHWc2079"
+      ],
+      "note": ""
+    },
+    "KH Wc 2095": {
+      "keys": [
+        "KHWc2095"
+      ],
+      "note": ""
+    },
+    "KH Wc 2121": {
+      "keys": [
+        "KHWc2121"
+      ],
+      "note": ""
+    },
+    "KH Wc 2122": {
+      "keys": [
+        "KHWc2122"
+      ],
+      "note": ""
+    },
+    "KH Wc 2123": {
+      "keys": [
+        "KHWc2123"
+      ],
+      "note": ""
+    },
+    "KH Wc 2124": {
+      "keys": [
+        "KHWc2124"
+      ],
+      "note": ""
+    },
+    "KN Zb 27": {
+      "keys": [
+        "KNZb27"
+      ],
+      "note": ""
+    },
+    "KN Wc 42": {
+      "keys": [
+        "KNWc42"
+      ],
+      "note": ""
+    },
+    "KN Wc 48": {
+      "keys": [
+        "KNWc48"
+      ],
+      "note": ""
+    },
+    "KN 49": {
+      "keys": [
+        "KN49"
+      ],
+      "note": ""
+    },
+    "KN Wa 50": {
+      "keys": [
+        "KNWa50"
+      ],
+      "note": "KNWb50 merged into it"
+    },
+    "KN Wa 51": {
+      "keys": [
+        "KNWa51"
+      ],
+      "note": "KNWb51 merged into it"
+    },
+    "KN Zb 52": {
+      "keys": [
+        "KNZb52"
+      ],
+      "note": ""
+    },
+    "KN Zb <53>": {
+      "keys": [
+        "KNZb56"
+      ],
+      "note": "held as KNZb56 (names KNZ36, KNZb<53>); CTLA KN Z 36"
+    },
+    "KN 54": {
+      "keys": [
+        "KN54"
+      ],
+      "note": ""
+    },
+    "KN Zg 55": {
+      "keys": [
+        "KNZg55"
+      ],
+      "note": ""
+    },
+    "KY Za 2": {
+      "keys": [
+        "KYZa2"
+      ],
+      "note": ""
+    },
+    "MA Zb 15": {
+      "keys": [
+        "MAZb15"
+      ],
+      "note": ""
+    },
+    "MIL Zb 1": {
+      "keys": [
+        "MILZb1"
+      ],
+      "note": ""
+    },
+    "MIL Zb 2": {
+      "keys": [
+        "MILZb2"
+      ],
+      "note": ""
+    },
+    "MIL Zb 3": {
+      "keys": [
+        "MILZb3"
+      ],
+      "note": ""
+    },
+    "MIL Zb 4": {
+      "keys": [
+        "MILZb4"
+      ],
+      "note": ""
+    },
+    "MO Zf 1": {
+      "keys": [
+        "MOZf1"
+      ],
+      "note": ""
+    },
+    "PK Zb 19": {
+      "keys": [
+        "PKZb19"
+      ],
+      "note": ""
+    },
+    "PK Za 20": {
+      "keys": [
+        "PKZa20"
+      ],
+      "note": ""
+    },
+    "PK Zb 21": {
+      "keys": [
+        "PKZb21"
+      ],
+      "note": ""
+    },
+    "PK Wy 22": {
+      "keys": [
+        "PKZg22"
+      ],
+      "note": "held as Zg 'Stone object'; RILA-S1 classes it Wy (sealed object)"
+    },
+    "PK Zb 24": {
+      "keys": [
+        "PKZb24"
+      ],
+      "note": ""
+    },
+    "PK Zb 25": {
+      "keys": [
+        "PKZb25"
+      ],
+      "note": ""
+    },
+    "PK Zb 26": {
+      "keys": [
+        "PKZb26"
+      ],
+      "note": ""
+    },
+    "PK Za 27": {
+      "keys": [
+        "PKZa27"
+      ],
+      "note": ""
+    },
+    "PK Za 28": {
+      "keys": [
+        "PKZa28"
+      ],
+      "note": ""
+    },
+    "PE 1": {
+      "keys": [
+        "PE1"
+      ],
+      "note": ""
+    },
+    "PE 2": {
+      "keys": [
+        "PE2"
+      ],
+      "note": ""
+    },
+    "PE Zb 3": {
+      "keys": [
+        "PEZb3"
+      ],
+      "note": ""
+    },
+    "PE Zc <4>": {
+      "keys": [
+        "PEZc4"
+      ],
+      "note": ""
+    },
+    "PE Wy 5": {
+      "keys": [
+        "PEWy5"
+      ],
+      "note": ""
+    },
+    "PE 6": {
+      "keys": [
+        "PE6"
+      ],
+      "note": ""
+    },
+    "PE Zb 7": {
+      "keys": [
+        "PEZb7"
+      ],
+      "note": ""
+    },
+    "PH Wa 52": {
+      "keys": [
+        "PHWa52"
+      ],
+      "note": ""
+    },
+    "PH 54": {
+      "keys": [
+        "PH54"
+      ],
+      "note": ""
+    },
+    "PO Zg 1": {
+      "keys": [
+        "POZc1"
+      ],
+      "note": "held as Zc 'Inked inscription' (alias PORZg1)"
+    },
+    "PO Zf 2": {
+      "keys": [
+        "PORZf2"
+      ],
+      "note": "key prefix PORZf"
+    },
+    "PSE Zb 1": {
+      "keys": [
+        "PSIZa1"
+      ],
+      "note": "held as PSIZa1 (names PSEZb1); site and support mislabelled Psykhro, stone vessel"
+    },
+    "PYR Wc 4": {
+      "keys": [
+        "PYRWc4"
+      ],
+      "note": ""
+    },
+    "SA We 3": {
+      "keys": [
+        "SAMWa1"
+      ],
+      "note": "CMS V Suppl. 1B no. 327, 'Wa 1' in CMS; key superseded"
+    },
+    "SA We 4": {
+      "keys": [
+        "SAMWe4"
+      ],
+      "note": ""
+    },
+    "SKO Zc 1": {
+      "keys": [
+        "SKOZc1"
+      ],
+      "note": ""
+    },
+    "SKO Zc 2": {
+      "keys": [
+        "SKOZc2"
+      ],
+      "note": ""
+    },
+    "SY Za 3 + frs (2)": {
+      "keys": [
+        "SYZa3"
+      ],
+      "note": "GORILA V SY Za 3, completed with two fragments"
+    },
+    "SY Za 4": {
+      "keys": [
+        "SYZa4"
+      ],
+      "note": ""
+    },
+    "SY Za 5": {
+      "keys": [
+        "SYZa5"
+      ],
+      "note": ""
+    },
+    "SY Za 6": {
+      "keys": [
+        "SYZa6"
+      ],
+      "note": ""
+    },
+    "SY Za 8": {
+      "keys": [
+        "SYZa8"
+      ],
+      "note": ""
+    },
+    "SY Za 9": {
+      "keys": [
+        "SYZa9"
+      ],
+      "note": ""
+    },
+    "SY Za 10": {
+      "keys": [
+        "SYZa10"
+      ],
+      "note": ""
+    },
+    "SY Za 11": {
+      "keys": [
+        "SYZa11"
+      ],
+      "note": ""
+    },
+    "SY Za 12": {
+      "keys": [
+        "SYZa12"
+      ],
+      "note": ""
+    },
+    "SY Zb 7": {
+      "keys": [
+        "SYZb7"
+      ],
+      "note": ""
+    },
+    "THE Zg 5": {
+      "keys": [
+        "THEZg5"
+      ],
+      "note": ""
+    },
+    "THE Zb 6": {
+      "keys": [
+        "THEZb6"
+      ],
+      "note": ""
+    },
+    "THE 7": {
+      "keys": [
+        "THE7a",
+        "THE7b"
+      ],
+      "note": ""
+    },
+    "THE 8": {
+      "keys": [
+        "THE8"
+      ],
+      "note": ""
+    },
+    "THE 9": {
+      "keys": [
+        "THE9"
+      ],
+      "note": ""
+    },
+    "THE 10": {
+      "keys": [
+        "THE10"
+      ],
+      "note": ""
+    },
+    "THE 11": {
+      "keys": [
+        "THE11"
+      ],
+      "note": ""
+    },
+    "THE 12": {
+      "keys": [
+        "THE12"
+      ],
+      "note": ""
+    },
+    "THE Zb 13": {
+      "keys": [
+        "THEZb13"
+      ],
+      "note": ""
+    },
+    "ZA Zg 35": {
+      "keys": [
+        "ZAZg35"
+      ],
+      "note": ""
+    },
+    "ZA Wa 36": {
+      "keys": [
+        "ZAWa36"
+      ],
+      "note": ""
+    },
+    "ZA Wb 37": {
+      "keys": [
+        "ZAWb37"
+      ],
+      "note": ""
+    },
+    "ZA Wa 38": {
+      "keys": [
+        "ZAWa38"
+      ],
+      "note": ""
+    }
+  },
+  "rila_s1_doubtful": {
+    "D 1 KN Wc 23": [
+      "KNWc23"
+    ],
+    "D 2 KN Wc 43": [
+      "KNWc43"
+    ],
+    "D 3 TY Wc 5": [
+      "TYWc5"
+    ],
+    "D 4 NE Za 1": [
+      "NEZa1"
+    ],
+    "D 5 LACH Za 1": [
+      "LACHZa1"
+    ],
+    "D 6 VRY Za 4": [],
+    "D 7 INA Zb 1": [
+      "INZb1"
+    ],
+    "D 8 KN Zb 36a-d (GORILA Zb <36>, <37>)": [
+      "KNZb36",
+      "KNZb37"
+    ],
+    "D 9 MI Zb 3": [
+      "MIZb3"
+    ],
+    "D 10 PK Zb <23>": [
+      "PKZb23"
+    ],
+    "D 11 PH fr. vase (2017)": [],
+    "D 12 PYR Zb 5": [
+      "PYRZb5"
+    ],
+    "D 13 HAR Zb 1": [
+      "TELZb1"
+    ],
+    "D 14 THE fr. vase (TE Z 4, THE Zb 14)": [
+      "THEZb7"
+    ],
+    "D 15 THE Zb 14 (formerly THE Zb 15)": [
+      "THEZb15"
+    ],
+    "D 16 TI Zb 1": [
+      "TIZb1"
+    ],
+    "D 17 VRY Zb 2": [
+      "VRYZb2"
+    ],
+    "D 18 VRY Zb 3": [
+      "VRYZb3"
+    ],
+    "D 19 PH fr. vase (1965-66)": [],
+    "D 20 KN Ze <56>": [
+      "KNZe56"
+    ],
+    "D 21 HT bronze figurine": [
+      "HTZf(HM767)"
+    ],
+    "D 22 ARM Zg 1": [
+      "ARMZg1"
+    ],
+    "D 23 CR (?) Zg 3": [
+      "CRZg3"
+    ],
+    "D 24 DRA Zg 1": [
+      "DRAZg1"
+    ],
+    "D 25 KN amygdaloid seal (Cn 12)": [
+      "KNsceau"
+    ],
+    "D 26 THE Zg 15": [
+      "THEZg15"
+    ]
+  },
+  "rila_s1_listed_not_counted": {
+    "{HT Wc 3023} uninscribed": [
+      "HTWc3023"
+    ],
+    "(PE Zb 8) isolated sign": [
+      "PEZb8"
+    ],
+    "(PSE Zb 2) isolated sign": [
+      "PSIZa2"
+    ],
+    "{PH Wb 53} uninscribed (Minoan Roundel II: PH Wb 55)": [
+      "PHWb55"
+    ],
+    "{CR Wc 2} uninscribed": [],
+    "{MA Wc 12–14} uninscribed": []
+  },
+  "published_after_2023": [
+    "KNZg57",
+    "KNZg58"
+  ],
+  "outside_editions": [
+    "ANZb1",
+    "ARGZg1",
+    "CRZf5",
+    "HTW231",
+    "HTWb229",
+    "HTZb162bis",
+    "HTZf163",
+    "HTZf164",
+    "HTZf165",
+    "HTZf166",
+    "HTZf167",
+    "HTZf168",
+    "HTZf169",
+    "IOZa<1>",
+    "KAMZb1",
+    "KANZa1",
+    "KEZb6",
+    "KEZb7",
+    "KNWc<25>",
+    "KNZd46",
+    "KNZe44",
+    "KNZe45",
+    "KNZe49",
+    "MOZb2?",
+    "MOZb3?",
+    "MYZf2",
+    "MYZg1",
+    "PK3",
+    "PKZbX",
+    "SEZf1",
+    "THEZb5",
+    "THEZg16",
+    "TRYZb1",
+    "ZAZb39",
+    "ZAZg34",
+    "ZO1",
+    "ZOZa1"
+  ],
+  "gorila_unlabelled": [
+    "GOWc1",
+    "HT113ter",
+    "HT123+124",
+    "HT154.",
+    "HT42+59",
+    "HT62+73",
+    "HT79+83",
+    "HTWa1021bis",
+    "HTWa1146",
+    "HTWa1147",
+    "HTWa1148",
+    "HTWa1149",
+    "HTWa1150",
+    "HTWa1151",
+    "HTWa1152",
+    "HTWa1153",
+    "HTWa1154",
+    "HTWa1155",
+    "HTWa1156",
+    "HTWa1157",
+    "HTWa1158",
+    "HTWa1159",
+    "HTWa1160",
+    "HTWa1161",
+    "HTWa1162",
+    "HTWa1163",
+    "HTWa1164",
+    "HTWa1165",
+    "HTWa1166",
+    "HTWa1167",
+    "HTWa1168",
+    "HTWa1169",
+    "HTWa1170",
+    "HTWc3022(?)",
+    "HTWc<3018>",
+    "HTWd1617",
+    "HTWd1663",
+    "HTZd157+156",
+    "KH68+71",
+    "KNWb33",
+    "KO(?)Zf2",
+    "LAZb1(bis)",
+    "MAWc<5>",
+    "PH(?)31",
+    "PH29",
+    "PH30",
+    "PHWb33",
+    "PHWb34",
+    "PHWb35",
+    "PHWb36",
+    "PHWg45",
+    "PHWy42",
+    "PHZb<47>",
+    "PYR1",
+    "TY2",
+    "TY3",
+    "ZA1"
+  ],
+  "unresolved": [
+    "PETSWc",
+    "PEWs",
+    "PEZb"
+  ],
+  "merged": {
+    "FOZc1": "ARKHZc8",
+    "HTWa1845+1733": "HTWa1733",
+    "KHWc2096": "KHWc2044",
+    "KNWb50": "KNWa50",
+    "KNWb51": "KNWa51",
+    "MYZf1": "MYZf2",
+    "THEfr.1": "THE10",
+    "THEfr2": "THE11",
+    "THEfr3": "THE12",
+    "THEtab.4": "THE7",
+    "THEtab.5": "THE9",
+    "THEtab.6": "THE8",
+    "KNWc<24a>": "HTWc3004",
+    "KNWc<24b>": "HTWc3004",
+    "KH79": "KH79+89"
+  }
+}
