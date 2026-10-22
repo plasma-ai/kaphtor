@@ -1073,7 +1073,7 @@
       "root": "ʾ-y \"island\"",
       "cognates": {
         "Hebrew": "ʾī (אִי) \"island, coastland\"",
-        "Ugaritic": "ʾiy \"island\""
+        "Ugaritic": "iht (pl.) \"islands, coastal region\" (KTU 1.3 VI 8)"
       },
       "tier": 2,
       "confidence": "CANDIDATE",
@@ -2361,7 +2361,7 @@
       "root": "ʾ-y \"island\"",
       "cognates": {
         "Hebrew": "ʾī (אִי) \"island, coastland\" (BDB 15); pl. ʾiyyîm",
-        "Ugaritic": "ʾiy \"island\" (DUL 3)",
+        "Ugaritic": "iht (pl. cstr.) \"islands, coastal region\" (KTU 1.3 VI 8)",
         "Phoenician": "ʾy \"island\" (KAI 14.18)"
       },
       "tier": 2,
@@ -4978,6 +4978,27 @@
       ],
       "note": "4× at Haghia Triada in administrative lists. QA-*310-I = QA-IN-I /qaynī/, using the proposed VC sign *310=/in/. Arabic qayn means 'smith, artisan'; Sabaic qyn denotes an 'administrator, governor,' including an administrator of a god or king (Biella 1982, 454). The Linear A distribution therefore supports a recurring occupational or administrative title. Hebrew qēnî 'Kenite' is formally comparable, but the historical relation among the smith, administrator and ethnonymic senses is not established; 'possessor' from √q-n-y is not required.",
       "source": "di Mino"
+    },
+    {
+      "word": "QA-KI-SE-NU-TI",
+      "reading": "Kaki-šenni-ti",
+      "meaning": "personal name, Hurrian type in -šenni 'brother'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "šena 'brother' + article -ni, onomastic -šenni (Laroche 1980, 225–26): Adal-šenni (RS 11.0839, a-dal-ŠEŠ) and Tulbi-šenni (RS 19.0063+, tul₂-bi-ŠEŠ) at Ugarit; Aku-šenni at Nuzi (NPN, s.v.)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "CRZf1",
+        "KNWb33"
+      ],
+      "note": "CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE. The name stands before the 1cs verb A-TA-DE, as the one who makes the pin ready. The second sign is KI, with GORILA IV 146–47, Younger and the photograph; it is not DE. KN Wb 33 joins QA-KI[ (a) and NU-SE (b, read leftward) as QA-KI-SE-NU-[ (Younger, Linear A Texts, other texts). Pattern of DA-KU-SE-NE /Takušenni?/ (HT 103) beside DA-KU-SE-NE-TI (HT 104), with the same final -TI; the first element is unexplained. Rival: Amorite two-element name, kakka + sanati.",
+      "source": "di Mino; Younger, Linear A Texts; Laroche 1980; Gelb, Purves, and MacRae 1943"
     },
     {
       "word": "QA-KI-TI",

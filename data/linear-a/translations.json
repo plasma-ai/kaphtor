@@ -13483,10 +13483,10 @@
         },
         {
           "linear_a": "QA-KI-SE-NU-TI",
-          "reading": null,
-          "gloss": "unread",
-          "confidence": null,
-          "note": "GORILA IV 145–147 reads KI, on shallow incision. With DE, QA-DE-SE-NU-TI would be √q-d-š, yiqaddišannūtī 'may He sanctify you (f.)'. No reading."
+          "reading": "Kaki-šenni-ti",
+          "gloss": "personal name (the dedicant)",
+          "confidence": "SPECULATIVE",
+          "note": "Hurrian type in -šenni 'brother' (Adal-šenni, Tulbi-šenni at Ugarit); cf. DA-KU-SE-NE (HT 103) and DA-KU-SE-NE-TI (HT 104). Also on KN Wb 33 as QA-KI-SE-NU-[ (Younger). Rival: Amorite kakka + sanati."
         },
         {
           "linear_a": "A-TA-DE",
@@ -13496,8 +13496,8 @@
           "note": "1cs prefix form of √ʿ-t-d 'be ready, prepare', ʿ unwritten (Hebrew ʿātîd 'ready, prepared'; Arabic ʿatada 'prepare'). A suffix-form 1cs would need -t- (Hebrew ʿātadtî)."
         }
       ],
-      "translation": "Strong One, Creator of the Sea — island — QA-KI-SE-NU-TI — I make (this) ready.",
-      "notes": "Context: Gold pin invoking El by two epithets (Strong One, Creator of the Sea), then naming the island. Both A-MA-WA-SI (-ī adjectival) and KA-NI-JA-MI (masculine construct participle) are grammatically masculine, pointing to El rather than Athirat. QA-KI-SE-NU-TI is unread: GORILA reads KI; with DE it would be √q-d-š. Closes with a 1cs verb, 'I make ready'.\n\nUnprovenanced gold pin with shallow incision. Word 4 is unread — the second sign is catalogued as KI (AB67) but GORILA Vol 5 omits it from the KI variant table; a dental (DE/DI) would yield √q-d-š. Word 5 is a 1cs prefix form of √ʿ-t-d.",
+      "translation": "Strong One, Creator of the Sea — island — Kaki-šenni — I make (this) ready.",
+      "notes": "Context: Gold pin invoking El by two epithets (Strong One, Creator of the Sea), then naming the island. Both A-MA-WA-SI (-ī adjectival) and KA-NI-JA-MI (masculine construct participle) are grammatically masculine, pointing to El rather than Athirat. QA-KI-SE-NU-TI names the dedicant, a Hurrian-type name in -šenni. Closes with a 1cs verb, 'I make ready'.\n\nUnprovenanced gold pin with shallow incision. Word 4 reads QA-KI-SE-NU-TI, KI as in GORILA IV 146–47 and the photograph. Word 5 is a 1cs prefix form of √ʿ-t-d.",
       "source": {
         "di Mino": [
           "A-MA-WA-SI",

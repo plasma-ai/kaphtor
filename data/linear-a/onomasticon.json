@@ -39,12 +39,12 @@
       "akkadian_contact": 1,
       "anatolian": 2,
       "egyptian": 8,
-      "hurrian": 7,
+      "hurrian": 8,
       "hurrian_semitic_hybrid": 1,
       "semitic": 166,
       "unknown": {
-        "total": 156,
-        "intact": 141,
+        "total": 155,
+        "intact": 140,
         "fragmentary": 0,
         "edge_damaged": 14,
         "no_witness": 1,
@@ -52,11 +52,11 @@
       }
     },
     "by_provenance": {
-      "auto": 118,
-      "manual": 223
+      "auto": 117,
+      "manual": 224
     },
-    "manual_count": 223,
-    "auto_count": 118,
+    "manual_count": 224,
+    "auto_count": 117,
     "total_entries": 341
   },
   "entries": [
@@ -10700,13 +10700,13 @@
       "normalized": "qakisenuti",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
+      "affiliation": "hurrian",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "QA-KI-SE-NU-TI",
+      "reading": "Kaki-šenni-ti",
+      "meaning": "personal name, Hurrian type in -šenni 'brother'",
       "frequency": 1,
       "attestations": [
         "CRZf1"
@@ -10725,10 +10725,10 @@
         "heads_document": 0
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "Hurrian-type name in -šenni, after DA-KU-SE-NE /Takušenni?/ and DA-KU-SE-NE-TI; also KN Wb 33 QA-KI-SE-NU-[ (Younger)."
     },
     {
       "token": "QA-KU-RE",

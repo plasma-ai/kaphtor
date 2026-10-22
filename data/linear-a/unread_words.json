@@ -8,17 +8,17 @@
   },
   "stats": {
     "corpus_words": 748,
-    "read": 416,
-    "unread_listed": 501,
+    "read": 417,
+    "unread_listed": 498,
     "by_status": {
       "edge_overlap": 50,
       "unread": 144,
-      "role_only": 307
+      "role_only": 304
     },
-    "hapax": 474,
+    "hapax": 471,
     "repeated": 27,
     "cross_site": 7,
-    "surface_damaged": 266,
+    "surface_damaged": 264,
     "excluded_tokens": {
       "single-sign": 1426,
       "numeral/punct": 1550,
@@ -4620,26 +4620,6 @@
       "note": "PK Zc 13 ]-NU-RỊ-JA[, broken on both sides, the word running into the break before NU, RI dotted (GORILA IV 127). Sole attestation. Not readable."
     },
     {
-      "word": "NU-SE",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "KNWb33"
-      ],
-      "sites": [
-        "Knossos"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "KNWb33": [
-          "end"
-        ]
-      },
-      "note": "KN Wb 33 b NU-SE-[, broken after SE, the word running into the break (GORILA II 82). Sole attestation. Not readable."
-    },
-    {
       "word": "O-DA",
       "signs": 2,
       "status": "unread",
@@ -5205,41 +5185,6 @@
         ]
       },
       "note": "Incomplete: QA-*305-[?], QA and *305 dotted, a further sign lost (GORILA IV 95). Not readable."
-    },
-    {
-      "word": "QA-KI",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "KNWb33"
-      ],
-      "sites": [
-        "Knossos"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "KNWb33": [
-          "end"
-        ]
-      },
-      "note": "KN Wb 33 a QA-KỊ[, KI dotted, broken after (GORILA II 82). QA-KI-SE-NU-TI (CR(?) Zf 1) and the damaged ]QẠ-KỊ-TỊ[ (SKO Zc 1) begin the same way (Younger, Linear A Texts, other texts). Sole attestation. Not readable."
-    },
-    {
-      "word": "QA-KI-SE-NU-TI",
-      "signs": 5,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "CRZf1"
-      ],
-      "sites": [
-        "Crete"
-      ],
-      "cross_site": false,
-      "note": "CR Zf 1, a gold pin: · QA-KI-SE-NU-TI · between I-JA and A-TA-DE; GORILA IV 145–147 reads KI, on shallow incision. With DE, QA-DE-SE-NU-TI would be √q-d-š, yiqaddišannūtī 'may He sanctify you (f.)'. No reading."
     },
     {
       "word": "QA-KU-RE",
