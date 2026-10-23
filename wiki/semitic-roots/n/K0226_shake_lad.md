@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | nʿr 'young' | Anderson–Moser 2024 root nʿr |  |
 | Ugaritic | nʿr 'shake'; nʿr 'boy' | Anderson–Moser 2024 root nʿr |  |
 | Arabic | naʿara (HALOT 707) | HALOT 707 |  |
-| Phoenician | nʿr (T, 212) | T 212 | gloss withheld |
+| Phoenician | nʿr (T 212) | T 212 | gloss withheld |
 | Canaanite | Amm. nʕr (DNWSI 739 apud SEDonline 246) | DNWSI 739; SEDonline 246 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

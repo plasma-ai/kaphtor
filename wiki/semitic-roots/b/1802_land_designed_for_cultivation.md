@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | bawr- 'land not yet fit to be sown; fallow land' (BK 1, 177) | BK 1, 177 |  |
-| Akkadian | aburru OB on | CAD A1, 90; AHw 9 | gloss withheld |
-| Syrian Aramaic | būr- 'uncultivated land' (Brock., 63) | Brock. 63 |  |
+| Akkadian | aburru OB on | CAD A/1 90; AHw 9 | gloss withheld |
+| Syrian Aramaic | būr- 'uncultivated land' (Brock. 63) | Brock. 63 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -37,11 +37,11 @@ updated: 2026-10-22T17:38:31Z
 | Geez | boʔa 2 |  |  |
 | Phoenician | bʔ 2 |  |  |
 | Hebrew | b(w)ʔ 3 |  |  |
-| Epigraphic South Arabian | bʔw 3 \| Sab bhʾ, pp. (SD, 27) | SD 27 | gloss withheld |
+| Epigraphic South Arabian | bʔw 3 \| Sab bhʾ, pp. (SD 27) | SD 27 | gloss withheld |
 | Harari | bōʔa 2 |  |  |
 | Tigrinya | boʔe 2 |  |  |
 | Punic | bʾ 'come' | Anderson–Moser 2024 root bwʾ |  |
-| Gurage | bʷəyä (LGz., 115) | LGz. 115 | gloss withheld |
+| Gurage | bʷəyä (LGz. 115) | LGz. 115 | gloss withheld |
 | Amorite | bwʾ: jabāʾ, jibāʾ, bāʾum, ʾubāʾ (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

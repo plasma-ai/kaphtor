@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Geez | g-d-f 'reject, repudiate, reproach' (Dillmann 08703; Dillmann 08704) | Dillmann 08703; Dillmann 08704 |  |
 | Aramaic | gdp 'revile, blaspheme' (Aramaic Root Atlas 0377) | Aramaic Root Atlas 0377 |  |
 | Hebrew | giddēp 'revile, blaspheme' (BDB 154) | BDB 154 |  |
-| Syrian Aramaic | gaddep̱ (LGz., 181) | LGz. 181 |  |
-| Tigre | gädfa (LGz., 181) | LGz. 181 | gloss withheld |
-| Tigrinya | gädäfä (LGz., 181) | LGz. 181 | gloss withheld |
-| Amharic | gäddäfä (LGz., 181) | LGz. 181 | gloss withheld |
-| Gurage | gädäfä (LGz., 181) | LGz. 181 | gloss withheld |
+| Syrian Aramaic | gaddep̱ (LGz. 181) | LGz. 181 |  |
+| Tigre | gädfa (LGz. 181) | LGz. 181 | gloss withheld |
+| Tigrinya | gädäfä (LGz. 181) | LGz. 181 | gloss withheld |
+| Amharic | gäddäfä (LGz. 181) | LGz. 181 | gloss withheld |
+| Gurage | gädäfä (LGz. 181) | LGz. 181 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

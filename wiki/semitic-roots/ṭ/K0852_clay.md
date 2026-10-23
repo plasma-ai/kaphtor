@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭīdu (CAD Ṭ, 109) | CAD Ṭ, 109 | gloss withheld |
+| Akkadian | ṭīdu (CAD Ṭ 109) | CAD Ṭ 109 | gloss withheld |
 | Hebrew | ṭīṭ (HALOT 374) | HALOT 374 | gloss withheld |
-| Ugaritic | ṭt (DULAT, 877) | DULAT 877 | gloss withheld |
+| Ugaritic | ṭt (DULAT 877) | DULAT 877 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

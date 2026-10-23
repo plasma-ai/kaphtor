@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | zalafa 'drip' | Anderson–Moser 2024 root zlp |  |
-| Syrian Aramaic | zəlap̲ (LGz., 637) | LGz. 637 |  |
+| Syrian Aramaic | zəlap̲ (LGz. 637) | LGz. 637 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

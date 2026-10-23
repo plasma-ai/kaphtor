@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | balaḳ- 1 |  |  |
 | Geez | balaḳ- 1 |  |  |
-| Epigraphic South Arabian | blḳ 2 |  |  |
+| Epigraphic South Arabian | blḳ 2 (Sabaweb lemma 3094) | Sabaweb lemma 3094 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

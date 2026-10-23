@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ypʕ |  |  |
-| Ugaritic | ypʿ (CUC; DULAT, 958) | CUC; DULAT 958 | gloss withheld |
+| Ugaritic | ypʿ (CUC; DULAT 958) | CUC; DULAT 958 | gloss withheld |
 | Amorite | jpʿ: ja(j)paʿ, jāpaʿ, japaʿ, jāpiʿ (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

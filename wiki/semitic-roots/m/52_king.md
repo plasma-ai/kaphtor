@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/52_king
 title: "*malik-: 'king'"
-desc: "Proto-Semitic *malik-, 'king': reflexes in 18 language(s)."
+desc: "Proto-Semitic *malik-, 'king': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "52"
@@ -32,27 +32,24 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | malk-, malik- (Kogan 2015, ch. 2 §4.2 no. 38) | Kogan 2015, ch. 2 §4.2 no. 38 |  |
 | Akkadian | malku, maliku |  |  |
-| Ugaritic | mlk (DUL, 548); mlk (DULAT, 543); /malku/ (UVST, 147) | DUL 548; DULAT 543; UVST 147 | gloss withheld |
-| Phoenician | mlk (Krahmalkov, 285) | Krahmalkov 285 | gloss withheld |
+| Ugaritic | mlk (DULAT 544); mlk (DULAT 543); /malku/ (UVST 147) | DULAT 544; DULAT 543; UVST 147 | gloss withheld |
+| Phoenician | mlk (Krahmalkov 285) | Krahmalkov 285 | gloss withheld |
 | Hebrew | mäläk (Kogan 2015, ch. 2 §4.2 no. 38) | Kogan 2015, ch. 2 §4.2 no. 38 |  |
 | Amorite | Ma-la-ak-i-lī (OLA80 §38.10) | OLA80 §38.10 | gloss withheld |
 | Amharic | malik (OLA80 §31.34) | OLA80 §31.34 | gloss withheld |
 | Moabite | mlkty (OLA80 §40.6) | OLA80 §40.6 | gloss withheld |
 | Aramaic | malkā (HALOT 591; Qumran 140 apud CAL) | HALOT 591; CAL |  |
-| Geez | malaka (LGz., 343); ʾamlāk (LGz., 344) | LGz. 343; LGz. 344 | gloss withheld |
-| Jibbali | šimlak (LGz., 343) | LGz. 343 | gloss withheld |
-| Syrian Aramaic | məlaḵ (LGz., 343; Payne Smith 277) | LGz. 343; Payne Smith 277 | gloss withheld |
-| Mandaic Aramaic | mlk (LGz., 343; Drower/Macuch 273a apud CAL) | LGz. 343; Macuch 273a; CAL | gloss withheld |
-| Tigre | mälka (LGz., 343) | LGz. 343 | gloss withheld |
-| Tigrinya | mäläḵä (LGz., 343) | LGz. 343 | gloss withheld |
-| Punic | mlk (Krahmalkov, 285); mmlkt, mmlkʾt (T, 184) | Krahmalkov 285; T 184 | gloss withheld |
+| Geez | malaka (LGz. 343); ʾamlāk (LGz. 344) | LGz. 343; LGz. 344 | gloss withheld |
+| Jibbali | šimlak (LGz. 343) | LGz. 343 | gloss withheld |
+| Syrian Aramaic | məlaḵ (LGz. 343; Payne Smith 277) | LGz. 343; Payne Smith 277 | gloss withheld |
+| Mandaic Aramaic | mlk (LGz. 343; Drower/Macuch 273a apud CAL) | LGz. 343; Macuch 273a; CAL | gloss withheld |
+| Tigre | mälka (LGz. 343) | LGz. 343 | gloss withheld |
+| Tigrinya | mäläḵä (LGz. 343) | LGz. 343 | gloss withheld |
+| Punic | mlk (Krahmalkov 285); mmlkt, mmlkʾt (T 184) | Krahmalkov 285; T 184 | gloss withheld |
 | Epigraphic South Arabian | Sab mlk (Kogan 2015, ch. 2 §4.2 no. 38) | Kogan 2015, ch. 2 §4.2 no. 38 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic mlk (Al-Jallad–Jaworska, 97) | Al-Jallad–Jaworska 97 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mlk (Al-Jallad–Jaworska 97) | Al-Jallad–Jaworska 97 | gloss withheld |
+| Eblaitic | ma-li-gú-um /malikum/ (VE 1088; Krebernik 1983, 38) | VE 1088; Krebernik 1983, 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-Canonical consolidation of duplicate \*malik- records 52 and 107; nominal and verbal reflexes are retained with source-separated glosses.
 
 <!-- END kaphtor:record -->

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ʕumba \[DM 344\] | DM 344 | gloss withheld |
 | Modern Arabic | Cf. ʕubb- 'hollow of the armpit; breast' in \[Belot 468\] marked as a (Syro-Palestinian) dialectal form (not in \[BK\]) | Belot 468 |  |
 | Amharic | ǝmbiya \[K 1330\]. | K 1330 | gloss withheld |
-| Judaic Aramaic | ʕubbā \[Ja 1046\], ʕwb, det. ʕubbā \[Sok 397\] | Ja 1046; Sok 397 | gloss withheld |
+| Judaic Aramaic | ʕubbā \[Ja 1046\], ʕwb, det. ʕubbā \[DJPA 397a apud CAL\] | Ja 1046; DJPA 397a; CAL | gloss withheld |
 | Syrian Aramaic | ʕūb(b)ā 'sinus' \[Brock 503\] | Brock 503 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

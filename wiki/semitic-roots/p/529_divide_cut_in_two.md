@@ -31,19 +31,19 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | flg u/i,1,26 |  |  |
-| Phoenician | plg (Krahmalkov, 396) | Krahmalkov 396 | gloss withheld |
-| Ugaritic | plg (CUC; DULAT, 660) | CUC; DULAT 660 | gloss withheld |
+| Phoenician | plg (Krahmalkov 396) | Krahmalkov 396 | gloss withheld |
+| Ugaritic | plg (CUC; DULAT 660) | CUC; DULAT 660 | gloss withheld |
 | Hebrew | pālag (HALOT 928) | HALOT 928 |  |
-| Geez | falaga (LGz., 159) | LGz. 159 | gloss withheld |
-| Syrian Aramaic | pəlag (LGz., 159; Payne Smith 446) | LGz. 159; Payne Smith 446 |  |
-| Mehri | felēg (LGz., 159) | LGz. 159 | gloss withheld |
-| Epigraphic South Arabian | m-flg (LGz., 159) | LGz. 159 | gloss withheld |
-| Akkadian | palgu (LGz., 159) | LGz. 159 | gloss withheld |
-| Tigre | fäläg (LGz., 159) | LGz. 159 | gloss withheld |
-| Tigrinya | fäläg (LGz., 159) | LGz. 159 | gloss withheld |
+| Geez | falaga (LGz. 159) | LGz. 159 | gloss withheld |
+| Syrian Aramaic | pəlag (LGz. 159; Payne Smith 446) | LGz. 159; Payne Smith 446 |  |
+| Mehri | felēg (LGz. 159) | LGz. 159 | gloss withheld |
+| Epigraphic South Arabian | m-flg (LGz. 159) | LGz. 159 | gloss withheld |
+| Akkadian | palgu (LGz. 159) | LGz. 159 | gloss withheld |
+| Tigre | fäläg (LGz. 159) | LGz. 159 | gloss withheld |
+| Tigrinya | fäläg (LGz. 159) | LGz. 159 | gloss withheld |
 | Jibbali | fɔ́lɔ́g (JL 57 apud SEDonline 1805) | JL 57; SEDonline 1805 | gloss withheld |
-| Aramaic | plgh (T, 264) | T 264 |  |
-| Mandaic Aramaic | plugtaʾ (T, 264) | T 264 |  |
+| Aramaic | plgh (T 264) | T 264 |  |
+| Mandaic Aramaic | plugtaʾ (T 264) | T 264 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

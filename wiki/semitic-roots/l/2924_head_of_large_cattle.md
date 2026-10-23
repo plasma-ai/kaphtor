@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | littu (lītu), pl. liātu, lâtu (SED II 191) | SED II 191 | gloss withheld |
-| Eblaitic | liʔattum (SED II 191) | SED II 191 |  |
+| Eblaitic | lí-a-núm, lí-a-nu-um = Sum. ALIM; lí-a-tum = Sum. ALIM.SAL, /liʔattum/ or /liʔatum/ (SED II 191) | SED II 191 |  |
 | Arabic | lāʔaⁿ, laʔāt- (SED II 191) | SED II 191 |  |
 | Mehri | ləháytən (SED II 191) | SED II 191 |  |
 | Harsusi | ləhētəh (SED II 191) | SED II 191 |  |
 | Jibbali | léʔ, lhóti (SED II 191) | SED II 191 |  |
-| Soqotri | ʔélheh, ʔeléheh (SED II 191) | SED II 191 |  |
+| Soqotri | ʔélheh (ʔeléheh, ʔeléhoh) (SED II 191); éľľehe (SLOnline 3097) | SED II 191 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṣʕq 1 |  |  |
 | Epigraphic South Arabian | ṣʕq 2 |  |  |
 | Judaic Aramaic | ṣʕq 1 |  |  |
-| Aramaic | ṣʿq (HALOT 1042) | HALOT 1042 |  |
+| Aramaic | ṣʿq (HALOT 1042); ṢʿQ (DNWSI 971 apud CAL) | HALOT 1042; DNWSI 971; CAL | gloss withheld |
 | Mehri | ṣāḳ 1 (Kogan 2015, ch. 2 §5.2.2.3 no. 10) | Kogan 2015, ch. 2 §5.2.2.3 no. 10 |  |
 | Soqotri | ṣáʕaḳ 1 (Kogan 2015, ch. 2 §5.2.2.3 no. 10) | Kogan 2015, ch. 2 §5.2.2.3 no. 10 |  |
 

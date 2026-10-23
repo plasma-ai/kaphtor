@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | masawa 'melt' | Anderson–Moser 2024 root mšw |  |
-| Arabic | (ta)māsawa (LGz., 368) | LGz. 368 | gloss withheld |
-| Syrian Aramaic | məsā (msw) (LGz., 368) | LGz. 368 | gloss withheld |
+| Arabic | (ta)māsawa (LGz. 368) | LGz. 368 | gloss withheld |
+| Syrian Aramaic | məsā (msw) (LGz. 368) | LGz. 368 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Leslau keeps masawa 'melt' apart from masya 'become evening' (LGz., 368); the 'evening' forms are 1345.
+Leslau keeps masawa 'melt' apart from masya 'become evening' (LGz. 368); the 'evening' forms are 1345.
 
 <!-- END kaphtor:record -->

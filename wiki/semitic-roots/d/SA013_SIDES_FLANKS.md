@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab drf (Biella, 86; SD, 42) | Biella 86; SD 42 | gloss withheld |
-| Arabic | Ar darf id. (Biella, 86) | Biella 86 |  |
+| Epigraphic South Arabian | Sab drf (Biella 86; SD 42) | Biella 86; SD 42 | gloss withheld |
+| Arabic | Ar darf id. (Biella 86) | Biella 86 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

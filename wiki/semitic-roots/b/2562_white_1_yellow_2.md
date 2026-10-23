@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | bǝč̣a 2 |  |  |
 | Argobba | bǝč̣a 2 |  |  |
 | Tigrinya | bič̣a 2 |  |  |
-| Tigre | bäyyäṣa (LGz., 116) | LGz. 116 | gloss withheld |
+| Tigre | bäyyäṣa (LGz. 116) | LGz. 116 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

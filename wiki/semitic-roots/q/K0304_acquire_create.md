@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0304_acquire_create
 title: "*qVnVy-: 'acquire, create'"
-desc: "Proto-Semitic *qVnVy-, 'acquire, create': reflexes in 16 language(s)."
+desc: "Proto-Semitic *qVnVy-, 'acquire, create': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0304"
@@ -35,16 +35,15 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qanah 'get' | Anderson–Moser 2024 root qny |  |
 | Punic | qny 'acquire' | Anderson–Moser 2024 root qny |  |
 | Ugaritic | qny (Leslau CDG 437) | Leslau CDG 437 | gloss withheld |
-| Epigraphic South Arabian | Sab qny (SD, 106; Biella, 458, 459) | SD 106; Biella 458, 459 | gloss withheld |
+| Epigraphic South Arabian | Sab qny (SD 106; Biella 458, 459) | SD 106; Biella 458, 459 | gloss withheld |
 | Judaic Aramaic | qənā (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Phoenician | qnh (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Syrian Aramaic | qənā (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Mandaic Aramaic | QNA (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Arabic | qanā, qnw, qny (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Amorite | qnj: jaqnī, qanij(ān)um, qanijatum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
-| Eblaitic | ḳá-nu-wu (Kogan 2011, 201) | Kogan 2011, 201 |  |
 | Soqotri | qénho; qanínhin (Kogan 2015, ch. 2 §4.2 no. 34, fn. 266) | Kogan 2015, ch. 2 §4.2 no. 34, fn. 266 | gloss withheld |
-| Biblical Aramaic | qenaʾ (T, 290) | T 290 |  |
+| Biblical Aramaic | qenaʾ (T 290) | T 290 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

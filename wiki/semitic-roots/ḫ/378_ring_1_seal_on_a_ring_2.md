@@ -32,18 +32,18 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫatm- 1, 2 |  |  |
 | Harsusi | ḫotem 1 |  |  |
-| Phoenician | ḥtm (Krahmalkov, 200) | Krahmalkov 200 | gloss withheld |
+| Phoenician | ḥtm (Krahmalkov 200) | Krahmalkov 200 | gloss withheld |
 | Jibbali | ḫotem 1 |  |  |
 | Hebrew | ḥotēm 1, 2 |  |  |
 | Tigre | kətəm (OLA80 §31.33) | OLA80 §31.33 | gloss withheld |
-| Geez | ḫatama (LGz., 267) | LGz. 267 | gloss withheld |
-| Aramaic | ḥăṯam (v.) (LGz., 268) | LGz. 268 | gloss withheld |
-| Syrian Aramaic | ḥəṯam (LGz., 268) | LGz. 268 |  |
-| Mandaic Aramaic | htm (LGz., 268) | LGz. 268 |  |
-| Tigrinya | ḥatämä (v.) (LGz., 268) | LGz. 268 | gloss withheld |
-| Argobba | hattäma (v.) (LGz., 268) | LGz. 268 | gloss withheld |
-| Amharic | attämä (v.) (LGz., 268) | LGz. 268 | gloss withheld |
-| Gurage | atämä (v.) (LGz., 268) | LGz. 268 | gloss withheld |
+| Geez | ḫatama (LGz. 267) | LGz. 267 | gloss withheld |
+| Aramaic | ḥăṯam (v.) (LGz. 268) | LGz. 268 | gloss withheld |
+| Syrian Aramaic | ḥəṯam (LGz. 268) | LGz. 268 |  |
+| Mandaic Aramaic | htm (LGz. 268) | LGz. 268 |  |
+| Tigrinya | ḥatämä (v.) (LGz. 268) | LGz. 268 | gloss withheld |
+| Argobba | hattäma (v.) (LGz. 268) | LGz. 268 | gloss withheld |
+| Amharic | attämä (v.) (LGz. 268) | LGz. 268 | gloss withheld |
+| Gurage | atämä (v.) (LGz. 268) | LGz. 268 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,11 +31,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | zwʕ |  |  |
-| Aramaic | zāʿ (LGz., 645) | LGz. 645 |  |
-| Syrian Aramaic | zāʿ (LGz., 645) | LGz. 645 |  |
-| Mandaic Aramaic | zha (zuh) (LGz., 645) | LGz. 645 |  |
-| Arabic | zaʿzaʿa (LGz., 645) | LGz. 645 | gloss withheld |
-| Tigrinya | zaʿ bälä (LGz., 645) | LGz. 645 | gloss withheld |
+| Aramaic | zāʿ (LGz. 645) | LGz. 645 |  |
+| Syrian Aramaic | zāʿ (LGz. 645) | LGz. 645 |  |
+| Mandaic Aramaic | zha (zuh) (LGz. 645) | LGz. 645 |  |
+| Arabic | zaʿzaʿa (LGz. 645) | LGz. 645 | gloss withheld |
+| Tigrinya | zaʿ bälä (LGz. 645) | LGz. 645 | gloss withheld |
 | Judaic Aramaic | zōʿătā, zīʿătā, zyʿtʾ (HALOT 267) | HALOT 267 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

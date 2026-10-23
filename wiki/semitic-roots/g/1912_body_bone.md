@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | garmā \[Ja 270\]; gǝräm, det. garmā \[DJPA 136a apud CAL\]. | Ja 270; DJPA 136a; CAL | gloss withheld |
 | Syrian Aramaic | garmā 'bone; crab shell', gǝrūmā 'bone, kernel; seed' \[Brock 133\]. | Brock 133 |  |
 | Aramaic | OFF grm (in grmyk - pl.suff.) \[HJ 235\] | HJ 235 | gloss withheld |
-| Modern Arabic | Yem. Daṯ. garm (Biella, 76) | Biella 76 |  |
+| Modern Arabic | Yem. Daṯ. garm (Biella 76) | Biella 76 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,8 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Harari | ḥss 2 |  |  |
 | Argobba | ḥšš 2 |  |  |
 | Tigrinya | ḥss 1 |  |  |
-| Arabic | ḥassasa (LGz., 246) | LGz. 246 | gloss withheld |
-| Gurage | äšäšä (LGz., 246) | LGz. 246 | gloss withheld |
+| Arabic | ḥassasa (LGz. 246) | LGz. 246 | gloss withheld |
+| Gurage | äšäšä (LGz. 246) | LGz. 246 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥǝṣāṣā |  |  |
 | Tigrinya | ḥuṣa |  |  |
 | Judaic Aramaic | ḥṣṣʾ (HALOT 344) | HALOT 344 |  |
-| Amharic | hač̣a (LGz., 267) | LGz. 267 | gloss withheld |
+| Amharic | hač̣a (LGz. 267) | LGz. 267 | gloss withheld |
 | Mehri | ḥəṣṣáyt (Kogan 2011, 190) | Kogan 2011, 190 | gloss withheld |
 | Ugaritic | ḥṣ (Kogan 2015, ch. 2 §4.2 no. 24) | Kogan 2015, ch. 2 §4.2 no. 24 | gloss withheld |
 

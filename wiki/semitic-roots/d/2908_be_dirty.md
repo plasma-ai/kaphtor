@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | danasa ‘be dirty, defiled’ (Dillmann 08046–08050) | Dillmann 08046–08050 |  |
-| Arabic | danisa (LGz., 138) | LGz. 138 | gloss withheld |
-| Tigre | dännäsa (LGz., 138) | LGz. 138 | gloss withheld |
-| Tigrinya | dännäsä (LGz., 138) | LGz. 138 | gloss withheld |
+| Arabic | danisa (LGz. 138) | LGz. 138 | gloss withheld |
+| Tigre | dännäsa (LGz. 138) | LGz. 138 | gloss withheld |
+| Tigrinya | dännäsä (LGz. 138) | LGz. 138 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

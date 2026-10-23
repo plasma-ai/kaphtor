@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ḏ̣élaʕ \[JJ 49\] | JJ 49 | gloss withheld |
 | Hebrew | ṣlʕ (HALOT 1030) | HALOT 1030 | gloss withheld |
 | Judaic Aramaic | ṭlʕ (Ithpeʕ) \[Ja 538\], \[Sok 225\] | Ja 538; Sok 225 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ẓlʿ (Al-Jallad–Jaworska, 144) | Al-Jallad–Jaworska 144 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ẓlʿ (Al-Jallad–Jaworska 144) | Al-Jallad–Jaworska 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

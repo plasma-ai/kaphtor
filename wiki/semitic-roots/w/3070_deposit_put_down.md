@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | mustawdaʿ (Lane 3051); wadaʿa (Biella, 122) | Lane 3051; Biella 122 | gloss withheld |
-| Epigraphic South Arabian | Sab wdʿ (Biella, 122) | Biella 122 | gloss withheld |
+| Arabic | mustawdaʿ (Lane 3051); wadaʿa (Biella 122) | Lane 3051; Biella 122 | gloss withheld |
+| Epigraphic South Arabian | Sab wdʿ (Biella 122) | Biella 122 | gloss withheld |
 | Hebrew | ydʿ II (HALOT 392) | HALOT 392 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

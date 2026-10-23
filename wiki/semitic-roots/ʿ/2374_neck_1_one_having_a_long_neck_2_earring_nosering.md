@@ -43,8 +43,4 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
-## Notes
-
-Tigrinya ʔangät 1 LGz 65 (not in LH); ʔ- instead of the expected \*ʕ- (according to Bass 537, &lt; Amh).
-
 <!-- END kaphtor:record -->

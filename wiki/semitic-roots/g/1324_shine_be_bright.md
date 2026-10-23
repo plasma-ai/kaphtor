@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ghh |  |  |
-| Arabic | (ǧahiya), ʾaǧhā (LGz., 186) | LGz. 186 | gloss withheld |
-| Amharic | gäha (LGz., 186) | LGz. 186 | gloss withheld |
+| Arabic | (ǧahiya), ʾaǧhā (LGz. 186) | LGz. 186 | gloss withheld |
+| Amharic | gäha (LGz. 186) | LGz. 186 | gloss withheld |
 | Syrian Aramaic | ʔagah 'to shine; await morning light' (Payne Smith 3) | Payne Smith 3 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

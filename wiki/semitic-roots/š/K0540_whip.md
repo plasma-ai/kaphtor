@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šôṭ (HALOT 1440) | HALOT 1440 | gloss withheld |
 | Syrian Aramaic | šawṭā (HALOT 1440; Payne Smith 564) | HALOT 1440; Payne Smith 564 |  |
 | Mandaic Aramaic | š(a)uṭa (HALOT 1440) | HALOT 1440 |  |
-| Arabic | sāṭa (swṭ), sawṭ (LGz., 521) | LGz. 521 | gloss withheld |
-| Tigre | šäwwäṭa (LGz., 521) | LGz. 521 | gloss withheld |
-| Tigrinya | šäwwäṭä (LGz., 521) | LGz. 521 |  |
-| Amharic | šoṭṭ adärrägä (v.) (LGz., 521) | LGz. 521 | gloss withheld |
+| Arabic | sāṭa (swṭ), sawṭ (LGz. 521) | LGz. 521 | gloss withheld |
+| Tigre | šäwwäṭa (LGz. 521) | LGz. 521 | gloss withheld |
+| Tigrinya | šäwwäṭä (LGz. 521) | LGz. 521 |  |
+| Amharic | šoṭṭ adärrägä (v.) (LGz. 521) | LGz. 521 | gloss withheld |
 | Harari | šäṭ āša \[LHar 147\] | LHar 147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

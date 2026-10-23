@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ḫâlu SB \[CAD ḫ 55\], OB on \[AHw 342\]; ḫīlū (pl.t.) NA, SB \[CAD ḫ 189\], \[AHw 346\]; ḫayyāltu SB \[CAD ḫ 32\], \[AHw 309\] | CAD ḫ 55; AHw 342; CAD ḫ 189; AHw 346; CAD ḫ 32; AHw 309 | gloss withheld |
-| Phoenician | (?) ḥl \[JH 87\]. | JH 87 | gloss withheld |
-| Ugaritic | ḫl \[DLU 190\], ḫllt \[ibid. 192\] | DLU 190; ibid. 192 | gloss withheld |
+| Phoenician | (?) ḥl (DISO 87 apud HALOT 310). | DISO 87; HALOT 310 | gloss withheld |
+| Ugaritic | ḫl \[DULAT 384\], ḫllt \[DULAT 387\] | DULAT 384; DULAT 387 | gloss withheld |
 | East Ethiopic | ZWY alu \[LGur 37\] | LGur 37 | gloss withheld |
 | Jibbali | maḫtél \[JJ 310\]. | JJ 310 | gloss withheld |
 | Hebrew | ḥyl (HALOT 310); also ḥīl, ḥīlā (HALOT 312) | HALOT 310; HALOT 312 | gloss withheld |

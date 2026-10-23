@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | šāḥ (HALOT 1477) | HALOT 1477 | gloss withheld |
 | Aramaic | CPArm. šwḥ (HALOT 1477; CAL s.v. šwḥ) | HALOT 1477; CAL s.v. šwḥ |  |
 | Arabic | sāḥa (syḥ) (HALOT 1477) | HALOT 1477 | gloss withheld |
-| Amharic | səyyah (LGz., 522) | LGz. 522 | gloss withheld |
+| Amharic | səyyah (LGz. 522) | LGz. 522 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

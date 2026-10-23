@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | brʔ \[-a-\] |  | gloss withheld |
-| Phoenician | brʔ (Krahmalkov, 125) | Krahmalkov 125 | gloss withheld |
+| Phoenician | brʔ (Krahmalkov 125) | Krahmalkov 125 | gloss withheld |
 | Hebrew | brʔ/y; \*bārūt (HALOT 154, 155); pB brʔ | HALOT 154, 155 | gloss withheld |
-| Epigraphic South Arabian | bry |  | gloss withheld |
+| Epigraphic South Arabian | bry (Sabaweb lemma 1288) | Sabaweb lemma 1288 | gloss withheld |
 | Judaic Aramaic | brʔ, bry |  | gloss withheld |
 | Aramaic | CP brē |  | gloss withheld |
 

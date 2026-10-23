@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ʕnt (DUL, 172) | DUL 172 | gloss withheld |
+| Ugaritic | ʕnt (DULAT 167) | DULAT 167 | gloss withheld |
 | Egyptian | ʕnt (TLA lemma 38980, ꜥnt) | TLA lemma 38980, ꜥnt | gloss withheld |
 | Akkadian | a-na-tum (RS 20.24:20; Hvidberg-Hansen, I, 103; II, 144 n. 351); Anatu, Antu in personal names from Ugarit (abdi-a-na-ti RS 15.139:7, abdi-an-ti RS 16.257 iii 39) (Hvidberg-Hansen, II, 144 n. 351) |  | gloss withheld |
 

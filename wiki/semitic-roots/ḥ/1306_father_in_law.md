@@ -38,11 +38,11 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ḥm (HALOT 324) | HALOT 324 |  |
 | Hebrew | \*ḥām; \*ḥᵃmōt (HALOT 324, 327) | HALOT 324, 327 | gloss withheld |
 | Judaic Aramaic | \*ḥāmā (HALOT 324; DJPA 204a apud CAL) | HALOT 324; DJPA 204a; CAL |  |
-| Mandaic Aramaic | ham (LGz., 235; Drower/Macuch 123b apud CAL) | LGz. 235; Macuch 123b; CAL |  |
-| Tigrinya | ḥamu (LGz., 235) | LGz. 235 |  |
-| Argobba | hamač (LGz., 235) | LGz. 235 |  |
-| Harari | ḥamāči (LGz., 235) | LGz. 235 |  |
-| Gafat | amʷä (LGz., 235) | LGz. 235 |  |
+| Mandaic Aramaic | ham (LGz. 235; Drower/Macuch 123b apud CAL) | LGz. 235; Macuch 123b; CAL |  |
+| Tigrinya | ḥamu (LGz. 235) | LGz. 235 |  |
+| Argobba | hamač (LGz. 235) | LGz. 235 |  |
+| Harari | ḥamāči (LGz. 235) | LGz. 235 |  |
+| Gafat | amʷä (LGz. 235) | LGz. 235 |  |
 | Amorite | ḥamum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
 | Mehri | ḥaym, ḥəmáyt (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
 | Soqotri | ḥam, ḥámit (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |

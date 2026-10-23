@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sanā 'brightness, splendor' (BK 1, 1111) | BK 1, 1111 |  |
-| Akkadian | šinītu (CAD Š3, 47) | CAD Š3, 47 | gloss withheld |
-| Phoenician | šnt (Krahmalkov, 475) | Krahmalkov 475 | gloss withheld |
+| Arabic | sanā 'brightness, splendor' (BK 1, 1154) | BK 1, 1154 |  |
+| Akkadian | šinītu (CAD Š/3 47) | CAD Š/3 47 | gloss withheld |
+| Phoenician | šnt (Krahmalkov 475) | Krahmalkov 475 | gloss withheld |
 | Hebrew | šānī (HALOT 1603) | HALOT 1603 | gloss withheld |
-| Ugaritic | ṯn (DULAT, 908) | DULAT 908 | gloss withheld |
+| Ugaritic | ṯn (DULAT 908) | DULAT 908 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

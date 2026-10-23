@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | pšˁ (DUL 686 apud SEDonline 278) | DUL 686; SEDonline 278 | gloss withheld |
+| Ugaritic | pšˁ (DULAT 675) | DULAT 675 | gloss withheld |
 | Hebrew | päšaˁ (HALOT 981 apud SEDonline 278) | HALOT 981; SEDonline 278 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

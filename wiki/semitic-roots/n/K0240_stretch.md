@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | naṭā 'far' | Anderson–Moser 2024 root nṭy |  |
 | Hebrew | naṭah 'stretch' | Anderson–Moser 2024 root nṭy |  |
 | Akkadian | naṭû (HALOT 692) | HALOT 692 |  |
-| Phoenician | mṭ (T, 173) | T 173 | gloss withheld |
+| Phoenician | mṭ (T 173) | T 173 | gloss withheld |
 | Judaic Aramaic | JPA nṭy (DJPA 348 apud SEDonline 245) | DJPA 348; SEDonline 245 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

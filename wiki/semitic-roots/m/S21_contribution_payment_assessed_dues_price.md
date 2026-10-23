@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | mšʾ; mšt (Krahmalkov, 314); KAI 69 temple payment rules; KAI 119 civic compensation | Krahmalkov 314; KAI 69; KAI 119 | gloss withheld |
+| Phoenician | mšʾ; mšt (Krahmalkov 314); KAI 69 temple payment rules; KAI 119 civic compensation | Krahmalkov 314; KAI 69; KAI 119 | gloss withheld |
 | Hebrew | maśśāʾ (HALOT 639); maśʾēt (Gen 43:34; HALOT 640) | HALOT 639; HALOT 640 | gloss withheld |
 | Punic | mśʾt (HALOT 640) | HALOT 640 |  |
 

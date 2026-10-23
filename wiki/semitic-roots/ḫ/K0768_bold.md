@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫabala 'maddened' | Anderson–Moser 2024 root ḫbl |  |
 | Geez | ḫabala 'dare' | Anderson–Moser 2024 root ḫbl |  |
-| Tigrinya | habara (LGz., 256) | LGz. 256 | gloss withheld |
+| Tigrinya | habara (LGz. 256) | LGz. 256 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

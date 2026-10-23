@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕaraǧa 'mounted' (Lane 1995) | Lane 1995 |  |
 | Geez | ʿarga 'ascend' (Dillmann 07042) | Dillmann 07042 |  |
-| Hebrew | ʿārag (LGz., 70) | LGz. 70 |  |
-| Tigrinya | ʿarägä (LGz., 70) | LGz. 70 |  |
-| Amharic | arrägä (LGz., 70) | LGz. 70 |  |
-| Gurage | arägä (LGz., 70) | LGz. 70 | gloss withheld |
+| Hebrew | ʿārag (LGz. 70) | LGz. 70 |  |
+| Tigrinya | ʿarägä (LGz. 70) | LGz. 70 |  |
+| Amharic | arrägä (LGz. 70) | LGz. 70 |  |
+| Gurage | arägä (LGz. 70) | LGz. 70 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

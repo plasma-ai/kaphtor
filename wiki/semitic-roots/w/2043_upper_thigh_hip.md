@@ -42,10 +42,10 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | irs̃ét \[JJ 292\] | JJ 292 | gloss withheld |
 | Hebrew | yārēk (HALOT 439); \*yǝrēkā (in yarkatō, etc.) (ibid.) | HALOT 439; ibid. | gloss withheld |
 | Amharic | wärč \[K 1507\] | K 1507 | gloss withheld |
-| Epigraphic South Arabian | SAB wrk \[SD 162\] | SD 162 | gloss withheld |
-| Judaic Aramaic | yǝrak, yarḵā, yīrāk, yarḵūnā \[Ja 597\]; yrk, det. yarḵā \[Sok 245\] | Ja 597; Sok 245 | gloss withheld |
+| Epigraphic South Arabian | SAB wrk \[SD 162; Sabaweb lemma 5429\] | SD 162; Sabaweb lemma 5429 | gloss withheld |
+| Judaic Aramaic | yǝrak, yarḵā, yīrāk, yarḵūnā \[Ja 597\]; yrk, det. yarḵā \[DJPA 245b apud CAL\] | Ja 597; DJPA 245b; CAL | gloss withheld |
 | Tigrinya | wäräkät 'the bone of slaughtered animals, especially of chickens, which is a morsel reserved for the lady of the house' \[Bass 642\] | Bass 642 |  |
-| Eblaitic | wa-rí-gú-um, wa-rí⟨-gú⟩-um (SED I 258) | SED I 258 |  |
+| Eblaitic | wa-rí-gú-um, wa-rí⟨-gú⟩-um (SED I 258; VE 864; Krebernik 1983, 33) | SED I 258; VE 864; Krebernik 1983, 33 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | grgr, ʔangargara, nagargar LGz 202 | LGz 202 | gloss withheld |
 | Amharic | nägärgar id. |  |  |
 | Tigrinya | ʔangärgärä |  | gloss withheld |
-| Ugaritic | t-grgr (LGz., 202) | LGz. 202 | gloss withheld |
+| Ugaritic | t-grgr (LGz. 202) | LGz. 202 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

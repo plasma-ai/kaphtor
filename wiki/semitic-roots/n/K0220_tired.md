@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | nazafa 'exhausted' | Anderson–Moser 2024 root nzp |  |
 | Geez | nazafa 'exhaust' | Anderson–Moser 2024 root nzp |  |
-| Soqotri | nezof (LGz., 411) | LGz. 411 | gloss withheld |
-| Tigre | näzfa (LGz., 411) | LGz. 411 | gloss withheld |
+| Soqotri | nezof (LGz. 411) | LGz. 411 | gloss withheld |
+| Tigre | näzfa (LGz. 411) | LGz. 411 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

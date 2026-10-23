@@ -37,13 +37,13 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | prq 3 |  |  |
 | Syrian Aramaic | prq 2 |  |  |
 | Mehri | ferōq 2 | SEDonline semet 1856 |  |
-| Epigraphic South Arabian | frq, t-frq (LGz., 166) | LGz. 166 | gloss withheld |
-| Aramaic | pəraq (LGz., 166) | LGz. 166 | gloss withheld |
-| Tigre | färqa (LGz., 166) | LGz. 166 | gloss withheld |
-| Tigrinya | färräqä (LGz., 166) | LGz. 166 | gloss withheld |
-| Amharic | färräqä (LGz., 166) | LGz. 166 | gloss withheld |
-| Gurage | fəräqa (LGz., 166) | LGz. 166 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic frq (Al-Jallad–Jaworska, 70) | Al-Jallad–Jaworska 70 | gloss withheld |
+| Epigraphic South Arabian | frq, t-frq (LGz. 166) | LGz. 166 | gloss withheld |
+| Aramaic | pəraq (LGz. 166) | LGz. 166 | gloss withheld |
+| Tigre | färqa (LGz. 166) | LGz. 166 | gloss withheld |
+| Tigrinya | färräqä (LGz. 166) | LGz. 166 | gloss withheld |
+| Amharic | färräqä (LGz. 166) | LGz. 166 | gloss withheld |
+| Gurage | fəräqa (LGz. 166) | LGz. 166 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic frq (Al-Jallad–Jaworska 70) | Al-Jallad–Jaworska 70 | gloss withheld |
 | East Ethiopic | Sel. firäḳa, Wol. fräḳa (EDG 243 apud SEDonline 1746) | EDG 243; SEDonline 1746 | gloss withheld |
 | Jibbali | efúrḳ (JL 61 apud SEDonline 1746) | JL 61; SEDonline 1746 | gloss withheld |
 

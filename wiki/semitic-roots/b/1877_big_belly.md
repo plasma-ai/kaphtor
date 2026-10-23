@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | bǝṭēn 'conceived (in the womb)' \[Brock 67\], baṭnā 'conception, fetus' \[ibid.\] | Brock 67; ibid. |  |
 | Aramaic | OFF bṭn \[HJ 151\] | HJ 151 | gloss withheld |
 | Modern Arabic | Iraqi boṭn (HALOT 121) | HALOT 121 |  |
-| Punic | bʾṭnʾ (Neo-Punic; Krahmalkov, 100; T, 45) | Krahmalkov 100; T 45 | gloss withheld |
+| Punic | bʾṭnʾ (Neo-Punic; Krahmalkov 100; T 45) | Krahmalkov 100; T 45 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

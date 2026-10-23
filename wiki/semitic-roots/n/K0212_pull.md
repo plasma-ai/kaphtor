@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | nataqa 'pull' | Anderson–Moser 2024 root ntq |  |
-| Hebrew | nātaq (LGz., 407) | LGz. 407 | gloss withheld |
-| Syrian Aramaic | nətaq (LGz., 407) | LGz. 407 |  |
-| Tigrinya | näṭäqä (LGz., 407) | LGz. 407 | gloss withheld |
-| Amharic | näṭṭäqä (LGz., 407) | LGz. 407 | gloss withheld |
-| Argobba | näṭṭäqa (LGz., 407) | LGz. 407 | gloss withheld |
-| Gurage | näṭäqä (LGz., 407) | LGz. 407 | gloss withheld |
+| Hebrew | nātaq (LGz. 407) | LGz. 407 | gloss withheld |
+| Syrian Aramaic | nətaq (LGz. 407) | LGz. 407 |  |
+| Tigrinya | näṭäqä (LGz. 407) | LGz. 407 | gloss withheld |
+| Amharic | näṭṭäqä (LGz. 407) | LGz. 407 | gloss withheld |
+| Argobba | näṭṭäqa (LGz. 407) | LGz. 407 | gloss withheld |
+| Gurage | näṭäqä (LGz. 407) | LGz. 407 | gloss withheld |
 | Arabic | ntq (HALOT 736) | HALOT 736 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

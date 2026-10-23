@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕakābir- \[Fr. III 199\], \[TA XIII 122\], \[Q II 95\]. | Fr. III 199; TA XIII 122; Q II 95; Hommel 338; GD 2315 | gloss withheld |
 | Akkadian | akbaru (akkabaru) OB on \[CAD a1 265\], \[AHw. 28\] | CAD a1 265; AHw. 28; Landsberger Fauna 109; Salonen Jagd 237 | gloss withheld |
-| Phoenician | ʿkbr (Krahmalkov, 366–367) | Krahmalkov 366–367 | gloss withheld |
+| Phoenician | ʿkbr (Krahmalkov 366–367) | Krahmalkov 366–367 | gloss withheld |
 | Hebrew | ʕakbār (HALOT 823), pB. \[Ja. 1078\] | HALOT 823; Ja. 1078 | gloss withheld |
-| Judaic Aramaic | ʕakbār (ʕakbǝrā) \[Ja. 1078\], \[Levy WT II 215\], \[Levy WTM III 645\], ʕkbr (det. ʕkbrh, ʕwkbrh) \[Sok. 406\], ʕkbrh \[Sok. 406\] // Sam. ʕkbr \[Tal 634\] | Ja. 1078; Levy WT II 215; Levy WTM III 645; Sok. 406; Sok. 406; Tal 634; CCPA I 280; Ja. 1078 | gloss withheld |
+| Judaic Aramaic | ʕakbār (ʕakbǝrā) \[Ja. 1078\], \[Levy WT II 215\], \[Levy WTM III 645\], ʕkbr (det. ʕkbrh, ʕwkbrh) \[DJPA 406a apud CAL\], ʕkbrh \[Sok. 406\] // Sam. ʕkbr \[Tal 634\] | Ja. 1078; Levy WT II 215; Levy WTM III 645; DJPA 406a; CAL; Sok. 406; Tal 634; CCPA I 280; Ja. 1078 | gloss withheld |
 | Syrian Aramaic | ʿagbᵉrā, ʿuqbᵉrā (HALOT 823) | HALOT 823 |  |
 | Modern Aramaic | NAssyr. uḳbra, NSyr. ʕâḳübrâ, ʕüḳbʼrâ, Tlk. ʕaḳubra, Ass. ʔāḳubra, JNA ʔaḳubra (SED II 48) | SED II 48 |  |
 

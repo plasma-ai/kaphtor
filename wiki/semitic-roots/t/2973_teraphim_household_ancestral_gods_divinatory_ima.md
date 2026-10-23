@@ -35,6 +35,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Plurale tantum, no singular attested. Hebrew term of uncertain etymology, no Semitic cognates. HALOT 1794 lists Hittite-Hurrian tarpiš (CHD T, 181: 'substitute figure, spirit of the dead') as the most cited external parallel, an Indo-European word and not a genetic Semitic relation. Other proposals, none established: √r-p-ʔ 'to heal' (healing images), √t-r-p 'nourish'.
+Plurale tantum, no singular attested. Hebrew term of uncertain etymology, no Semitic cognates. HALOT 1794 lists Hittite-Hurrian tarpiš (CHD T 181: 'substitute figure, spirit of the dead') as the most cited external parallel, an Indo-European word and not a genetic Semitic relation. Other proposals, none established: √r-p-ʔ 'to heal' (healing images), √t-r-p 'nourish'.
 
 <!-- END kaphtor:record -->

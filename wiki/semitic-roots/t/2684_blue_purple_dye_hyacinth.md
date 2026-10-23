@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | takiltu (CAD T, 70) | CAD T, 70 | gloss withheld |
+| Akkadian | takiltu (CAD T 70) | CAD T 70 | gloss withheld |
 | Hebrew | tǝkēlet (HALOT 1732) | HALOT 1732 | gloss withheld |
 | Judaic Aramaic | təkīltā, tiklā (HALOT 1732) | HALOT 1732 |  |
 | Syrian Aramaic | teklᵉtā (HALOT 1732) | HALOT 1732 |  |

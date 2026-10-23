@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | fūl- (Lane 2463) | Lane 2463 |  |
 | Hebrew | pōl |  |  |
-| Phoenician | pl (T, 264) | T 264 | gloss withheld |
+| Phoenician | pl (T 264) | T 264 | gloss withheld |
 | Judaic Aramaic | pōlā (HALOT 918) | HALOT 918 |  |
-| Punic | pl (T, 264) | T 264 | gloss withheld |
+| Punic | pl (T 264) | T 264 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

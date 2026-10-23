@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nḍʿ, tnḍʿ; n. nḍʿ, tnḍʿt, tḍʿ (SD, 92); v., tp. tnḍʿ, n. nḍʿ, mnḍʿ (Biella, 314, 315) | SD 92; Biella 314, 315 | gloss withheld |
+| Epigraphic South Arabian | Sab nḍʿ, tnḍʿ; n. nḍʿ, tnḍʿt, tḍʿ (SD 92; Sabaweb lemma 1653); v., tp. tnḍʿ, n. nḍʿ, mnḍʿ (Biella 314, 315) | SD 92; Sabaweb lemma 1653; Biella 314, 315 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

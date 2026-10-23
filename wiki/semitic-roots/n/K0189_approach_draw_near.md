@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nagāšu (CAD N1, 108) | CAD N1, 108 | gloss withheld |
+| Akkadian | nagāšu (CAD N/1 108) | CAD N/1 108 | gloss withheld |
 | Hebrew | nagaš 'draw near, approach' (BDB 620) | BDB 620 |  |
 | Ugaritic | ngš 'approach' | Anderson–Moser 2024 root ngš |  |
 | Judaic Aramaic | nᵉgīšā (HALOT 670) | HALOT 670 |  |

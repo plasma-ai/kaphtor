@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/1443_greenish_1_yellow_2_leaf_3
 title: "*waraḳ-: 'greenish' 1, 'yellow' 2, 'leaf' 3"
-desc: "Proto-Semitic *waraḳ-, 'greenish' 1, 'yellow' 2, 'leaf' 3: reflexes in 17 language(s)."
+desc: "Proto-Semitic *waraḳ-, 'greenish' 1, 'yellow' 2, 'leaf' 3: reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1443"
@@ -41,12 +41,13 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | YRQ (Aramaic Root Atlas; CAL s.v. yrq#2) | Aramaic Root Atlas; CAL s.v. yrq#2 | gloss withheld |
 | Geez | warq; waraqrūq (HALOT 441) | HALOT 441 | gloss withheld |
 | Epigraphic South Arabian | wrq (HALOT 441) | HALOT 441 | gloss withheld |
-| Amharic | wärq (LGz., 618) | LGz. 618 | gloss withheld |
-| Argobba | wärq (LGz., 618) | LGz. 618 | gloss withheld |
-| Gurage | wärq (LGz., 618) | LGz. 618 | gloss withheld |
-| Tigrinya | wärqi (LGz., 618) | LGz. 618 | gloss withheld |
-| Tigre | wärq (LGz., 618) | LGz. 618 | gloss withheld |
+| Amharic | wärq (LGz. 618) | LGz. 618 | gloss withheld |
+| Argobba | wärq (LGz. 618) | LGz. 618 | gloss withheld |
+| Gurage | wärq (LGz. 618) | LGz. 618 | gloss withheld |
+| Tigrinya | wärqi (LGz. 618) | LGz. 618 | gloss withheld |
+| Tigre | wärq (LGz. 618) | LGz. 618 | gloss withheld |
 | Judaic Aramaic | yǝrōqā (HALOT 437) | HALOT 437 |  |
+| Eblaitic | su-da-ra-gu /śutawraḳum/ (Š) (VE 618; Krebernik 1983, 24) | VE 618; Krebernik 1983, 24 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

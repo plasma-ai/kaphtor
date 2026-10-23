@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šarû (CAD Š2, 131) | CAD Š2, 131 | gloss withheld |
-| Arabic | šaraḥa (LGz., 533) | LGz. 533 | gloss withheld |
-| Epigraphic South Arabian | s₂rḥ (LGz., 533) | LGz. 533 | gloss withheld |
-| Hebrew | šāraḥ (LGz., 533) | LGz. 533 | gloss withheld |
+| Akkadian | šarû (CAD Š/2 131) | CAD Š/2 131 | gloss withheld |
+| Arabic | šaraḥa (LGz. 533) | LGz. 533 | gloss withheld |
+| Epigraphic South Arabian | s₂rḥ (LGz. 533) | LGz. 533 | gloss withheld |
+| Hebrew | šāraḥ (LGz. 533) | LGz. 533 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

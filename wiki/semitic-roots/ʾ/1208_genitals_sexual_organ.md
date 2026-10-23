@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʔabāl |  |  |
 | Gurage | \*abal |  |  |
 | Amharic | abal |  |  |
-| Tigrinya | ʾabal (LGz., 3) | LGz. 3 | gloss withheld |
+| Tigrinya | ʾabal (LGz. 3) | LGz. 3 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

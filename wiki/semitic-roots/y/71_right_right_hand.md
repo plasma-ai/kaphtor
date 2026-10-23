@@ -40,11 +40,11 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | (?) iñ \[LS 64\]. | LS 64 | gloss withheld |
 | Hebrew | yāmīn (HALOT 415); yəmānī. | HALOT 415 | gloss withheld |
 | Amharic | yäman \[K 1691\]. | K 1691 |  |
-| Epigraphic South Arabian | SAB ymn \[SD 168\] | SD 168 | gloss withheld |
+| Epigraphic South Arabian | SAB ymn \[SD 168; Sabaweb lemma 5507\] | SD 168; Sabaweb lemma 5507 | gloss withheld |
 | Judaic Aramaic | yammīnā, yǝmīnā \[Ja 580\]; yammīn \[Sok 242\] | Ja 580; Sok 242 | gloss withheld |
-| Syrian Aramaic | yammīnā adj. 'dexter', n. 'dextra' \[Brock 303\] | Brock 303 |  |
+| Syrian Aramaic | yammīnā adj. 'right', n. 'right hand' \[Brock 303\] | Brock 303 |  |
 | Aramaic | OFF ymn PLM NBT ymyn \[HJ 461\] | HJ 461 | gloss withheld |
-| Eblaitic | a-me-núm /yaminum/, a-me-tum /yamittum/, i-me-tum /yimittum/ (SED I 263) | SED I 263 |  |
+| Eblaitic | a-me-núm /yaminum/, a-me-tum /yamittum/, i-me-tum /yimittum/ (SED I 263; VE 534; Krebernik 1983, 20) | SED I 263; VE 534; Krebernik 1983, 20 |  |
 | Amorite | jaminum (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
 | Mehri | ḥáyməl (Kogan 2011, 197) | Kogan 2011, 197 | gloss withheld |
 | Soqotri | ʾímhel (Kogan 2011, 197) | Kogan 2011, 197 | gloss withheld |

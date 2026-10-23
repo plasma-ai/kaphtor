@@ -30,23 +30,23 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥasaba 'to compute, reckon' (BK 1, 423) | BK 1, 423 |  |
-| Phoenician | ḥšb (Krahmalkov, 199) | Krahmalkov 199 | gloss withheld |
+| Phoenician | ḥšb (Krahmalkov 199) | Krahmalkov 199 | gloss withheld |
 | Hebrew | ḥāšab (HALOT 359) | HALOT 359 | gloss withheld |
 | Harsusi | ḥesōb | SEDonline semet 1230 |  |
 | Geez | ḥsb | SEDonline semet 1230 |  |
 | Syrian Aramaic | ḥsb | SEDonline semet 1230 |  |
 | Judaic Aramaic | ḥušbᵉnā (HALOT 360) | HALOT 360 |  |
-| Aramaic | ḥšbn (HALOT 360); ḥăšeḇ (LGz., 245) | HALOT 360; LGz. 245 |  |
-| Punic | ḥšb; mḥšb (T, 172) | T 172 | gloss withheld |
-| Soqotri | ḥoseb (LGz., 245) | LGz. 245 | gloss withheld |
-| Tigrinya | ḥasäbä (LGz., 245) | LGz. 245 | gloss withheld |
-| Tigre | ḥasba (LGz., 245) | LGz. 245 | gloss withheld |
-| Argobba | hassäba (LGz., 245) | LGz. 245 | gloss withheld |
-| Harari | ḥēsäba (LGz., 245) | LGz. 245 | gloss withheld |
-| Amharic | assäbä (LGz., 245) | LGz. 245 | gloss withheld |
-| Gafat | issäbä (LGz., 245) | LGz. 245 | gloss withheld |
-| Gurage | asäbä (LGz., 245) | LGz. 245 | gloss withheld |
-| Mandaic Aramaic | ḥšb (LGz., 245) | LGz. 245 |  |
+| Aramaic | ḥšbn (HALOT 360); ḥăšeḇ (LGz. 245) | HALOT 360; LGz. 245 |  |
+| Punic | ḥšb; mḥšb (T 172) | T 172 | gloss withheld |
+| Soqotri | ḥoseb (LGz. 245) | LGz. 245 | gloss withheld |
+| Tigrinya | ḥasäbä (LGz. 245) | LGz. 245 | gloss withheld |
+| Tigre | ḥasba (LGz. 245) | LGz. 245 | gloss withheld |
+| Argobba | hassäba (LGz. 245) | LGz. 245 | gloss withheld |
+| Harari | ḥēsäba (LGz. 245) | LGz. 245 | gloss withheld |
+| Amharic | assäbä (LGz. 245) | LGz. 245 | gloss withheld |
+| Gafat | issäbä (LGz. 245) | LGz. 245 | gloss withheld |
+| Gurage | asäbä (LGz. 245) | LGz. 245 | gloss withheld |
+| Mandaic Aramaic | ḥšb (LGz. 245) | LGz. 245 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

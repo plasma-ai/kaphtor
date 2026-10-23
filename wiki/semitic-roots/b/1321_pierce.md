@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Ethiopic bär(r) 'passage, entrance' is 3155 \*bärr-; Leslau files it under brr III 'pierce, penetrate' (LGz., 107).
+Ethiopic bär(r) 'passage, entrance' is 3155 \*bärr-; Leslau files it under brr III 'pierce, penetrate' (LGz. 107).
 
 <!-- END kaphtor:record -->

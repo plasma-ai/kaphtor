@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1923_urethra_q
 title: "*ḥil(Vl)-: 'urethra (?)'"
-desc: "Proto-Semitic *ḥil(Vl)-, 'urethra (?)': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḥil(Vl)-, 'urethra (?)': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1923"
@@ -31,7 +31,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔiḥlīl- 'channel of the udder or of the penis' \[BK 1 474\]. | BK 1 474 |  |
-| Syrian Aramaic | ḥeltā 'vagina' \[Brock 232\] | Brock 232 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

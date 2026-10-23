@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | BLY (Aramaic Root Atlas; DNWSI 165 apud CAL) | Aramaic Root Atlas; DNWSI 165; CAL | gloss withheld |
 | Geez | balya 'old' | Anderson–Moser 2024 root bly |  |
 | Hebrew | balah 'wear' | Anderson–Moser 2024 root bly |  |
-| Syrian Aramaic | bəlā (LGz., 98) | LGz. 98 |  |
-| Mandaic Aramaic | bla (LGz., 98) | LGz. 98 |  |
-| Ugaritic | bly-m (LGz., 98) | LGz. 98 | gloss withheld |
-| Akkadian | balû, belû (LGz., 98) | LGz. 98 | gloss withheld |
-| Tigrinya | bäläyä (LGz., 98) | LGz. 98 |  |
-| Tigre | bäla (LGz., 98) | LGz. 98 |  |
-| Amharic | bäläbbälä (LGz., 95) | LGz. 95 | gloss withheld |
+| Syrian Aramaic | bəlā (LGz. 98) | LGz. 98 |  |
+| Mandaic Aramaic | bla (LGz. 98) | LGz. 98 |  |
+| Ugaritic | bly-m (LGz. 98) | LGz. 98 | gloss withheld |
+| Akkadian | balû, belû (LGz. 98) | LGz. 98 | gloss withheld |
+| Tigrinya | bäläyä (LGz. 98) | LGz. 98 |  |
+| Tigre | bäla (LGz. 98) | LGz. 98 |  |
+| Amharic | bäläbbälä (LGz. 95) | LGz. 95 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

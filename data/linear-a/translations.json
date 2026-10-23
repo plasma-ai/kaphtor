@@ -92,7 +92,7 @@
           "reading": "tan-raṣē-u-tī-n(u)",
           "gloss": "May you be favorable toward us",
           "confidence": "PROBABLE",
-          "note": "N-stem √r-ṣ-y: TA- 2fs prefix, NA- N-stem, RA-TE raṣē, U linking vowel, TI archaic 2fs subject clitic (analogical), NU 1cp object \"us\" (energic -n the alternative). Same TA-NA-[X]-U-TI-NU frame as IO Za 6."
+          "note": "N-stem √r-ṣ-y: TA- 2fs prefix, NA- N-stem, RA-TE raṣē, U indicative -u, TI archaic 2fs subject clitic (analogical), NU 1cp object \"us\" (energic -n the alternative). Same TA-NA-[X]-U-TI-NU frame as IO Za 6."
         },
         {
           "linear_a": "I-DA-[?]",
@@ -697,7 +697,7 @@
         {
           "linear_a": "A-PA-RA-NE",
           "reading": "ʿabrāne / bārāʾāne",
-          "gloss": "heading name, also on HT96b; 'the crosser' (√ʿ-b-r) or 'creator' (√b-r-ʾ); rival the Amorite name ʾAPR-AN",
+          "gloss": "heading name, also on HT96b; 'the crosser' (√ʿ-b-r) or 'creator' (√b-r-ʾ); Amorite comparison Ḥa-pí-ra-an, *ʿapir-* (Huffmon, APNM p. 36)",
           "confidence": "CANDIDATE",
           "note": "Short form PA-RA-NE on HT115a–b."
         },
@@ -710,7 +710,7 @@
         {
           "linear_a": "SI-MI-TA",
           "reading": "Simitta",
-          "gloss": "recipient of grain 5; Hurrian name in -mitta",
+          "gloss": "recipient of grain 5; Hurrian-type name (cf. MI-TA)",
           "confidence": "SPECULATIVE"
         },
         {
@@ -782,7 +782,7 @@
         {
           "linear_a": "A-PA-RA-NE",
           "reading": "ʿabrāne / bārāʾāne",
-          "gloss": "heading name, also on HT96a; rival the Amorite name ʾAPR-AN",
+          "gloss": "heading name, also on HT96a; Amorite comparison Ḥa-pí-ra-an, *ʿapir-* (Huffmon, APNM p. 36)",
           "confidence": "CANDIDATE"
         },
         {
@@ -2194,9 +2194,9 @@
         {
           "linear_a": "I-DA",
           "reading": "ʾIda",
-          "gloss": "Ida (sacred mountain—toponym)",
-          "confidence": "CANDIDATE",
-          "note": "I-DA is the inscription's only complete group: it is bounded by dividers despite the breaks on both outer edges. The proposed identification is Mount Ida (Psiloritis), the sacred mountain of central Crete."
+          "gloss": "Ida, 'the Hand' (sacred mountain—toponym/theonym)",
+          "confidence": "PROBABLE",
+          "note": "I-DA is the inscription's only complete group: it is bounded by dividers despite the breaks on both outer edges. Mount Ida (Psiloritis), the sacred mountain of central Crete; the name is 'the Hand', PS *yad- ~ *ʾid- (semitic_roots 2046), with the Idaean Daktyls, 'fingers', as the Greek doublet (di Mino, Ya Diktu p. 19 n. 34)."
         },
         {
           "linear_a": "JA-JA-[…]",
@@ -2768,7 +2768,7 @@
           "linear_a": "GRA+PA",
           "reading": "[ideogram]",
           "reading_type": "IDEOGRAM",
-          "gloss": "grain subtype PA (wheat?)"
+          "gloss": "parīsu, the half-gur grain measure"
         },
         {
           "linear_a": "DA-U-*49",
@@ -3275,8 +3275,8 @@
           "linear_a": "GRA+PA",
           "reading": "[ideogram]",
           "reading_type": "IDEOGRAM",
-          "gloss": "grain subtype or processed grain",
-          "note": "The proposed comparison with Akkadian parsu 'portion, ration' remains an etymological hypothesis; PA alone does not establish the whole phonographic reading."
+          "gloss": "parīsu, the half-gur grain measure",
+          "note": "CAD P 186 parīsu B 'one-half of a gur'; Ugaritic prś (DULAT 671–672)."
         },
         {
           "linear_a": "]VIR",
@@ -3692,9 +3692,9 @@
         {
           "linear_a": "GRA+PA 20",
           "reading": "[compound logogram]",
-          "gloss": "PA-type grain: 20",
+          "gloss": "grain, 20 parīsu (half-gur measures)",
           "confidence": "CANDIDATE",
-          "note": "A distinct grain category is secure; PA does not by itself establish the proposed phonographic expansion parsu."
+          "note": "CAD P 186 parīsu B 'one-half of a gur'; Ugaritic prś (DULAT 671–672)."
         },
         {
           "linear_a": "GRA+F 7½",
@@ -4215,10 +4215,10 @@
         },
         {
           "linear_a": "PI-TA-KE-SI",
-          "reading": "Pedi-kešši",
-          "gloss": "PN: 'Place of the Throne' (Hurrian)",
+          "reading": "Pidi-kešḫi",
+          "gloss": "PN, Hurrian type; second element kešḫi 'throne'",
           "confidence": "CANDIDATE",
-          "note": "Hurrian compound: pedi 'place' + kešši 'throne.' Hurrian voiced/voiceless interchange: PI writes /be/ or /pe/ (p/b neutralized in Linear A); cf. Nuzi PNs Pedi-Tilla ~ Bedi-Tilla (HSS 5, 9). Third Hurrian name on this tablet alongside KU-PA₃-NU and TU-SU-PU₂ (cf. HT49a). 1 unit."
+          "note": "Hurrian-type compound: kešḫi 'throne' (Laroche 1980, 143–44) after a first element matching the unglossed pidi/u- forms (Laroche 1980, 200). Third Hurrian name on this tablet alongside KU-PA₃-NU and TU-SU-PU₂ (cf. HT49a). 1 unit."
         },
         {
           "linear_a": "JA-RE-MI",
@@ -4232,7 +4232,7 @@
           "reading": "Dikise",
           "gloss": "personal name; possibly Hurrian",
           "confidence": "CANDIDATE",
-          "note": "Cf. Hurrian tagi 'beautiful' and tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche, Glossaire hourrite, pp. 250–51). Tagi is also an attested Hurrian personal name in EA 264–66. The comparison requires Linear A stop and sibilant neutralization; keep the name untranslated. 1 unit."
+          "note": "Cf. Hurrian tagi 'beautiful' and tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche, Glossaire hourrite, pp. 249–50). Tagi is also an attested Hurrian personal name in EA 264–66. The comparison requires Linear A stop and sibilant neutralization; keep the name untranslated. 1 unit."
         },
         {
           "linear_a": "QE-SU-PU",
@@ -4256,9 +4256,9 @@
           "note": "GORILA I 137 .5 A-RA-[·]-A-TU 1̣: the third sign is lost, no divider; GORILA's alternative is A-RA-[·] 1̣ A-TU 1̣. Not readable."
         }
       ],
-      "translation": "Bridegroom category; merchants: Pedi-kešši 1; Yarīm 1; Dikise 1; Qaššāpu 1; Kurkū 1; A-RA-[…]-A-TU 1.",
+      "translation": "Bridegroom category; merchants: Pidi-kešḫi 1; Yarīm 1; Dikise 1; Qaššāpu 1; Kurkū 1; A-RA-[…]-A-TU 1.",
       "confidence": "CANDIDATE",
-      "notes": "Context: personnel register with no commodity logograms. Six entries of 1 unit follow the *21F-TU-NE and MA-KA-RI-TE rubrics. MA-KA-RI-TE is 'merchants', as on HT 117a (Ugaritic mkrm, DULAT 537); rival makritu 'red' (CAD M/1 138). Possible Hurrian names include Pedi-kešši and Dikise; for the latter compare Laroche's directly attested tagiše/tegiše 'beautiful' or 'beauty' and the Amarna personal name Tagi. One entry, A-RA-[?]-A-TU, is damaged.",
+      "notes": "Context: personnel register with no commodity logograms. Six entries of 1 unit follow the *21F-TU-NE and MA-KA-RI-TE rubrics. MA-KA-RI-TE is 'merchants', as on HT 117a (Ugaritic mkrm, DULAT 537); rival makritu 'red' (CAD M/1 138). Possible Hurrian names include Pidi-kešḫi and Dikise; for the latter compare Laroche's directly attested tagiše/tegiše 'beautiful' or 'beauty' and the Amarna personal name Tagi. One entry, A-RA-[?]-A-TU, is damaged.",
       "source": {
         "di Mino": [
           "*21F-TU-NE",
@@ -4991,7 +4991,7 @@
           "linear_a": "TA-NA-TE",
           "reading": "Tanāt(ē)",
           "gloss": "Tanāt—Serpent-Goddess (= Punic Tanit/TNT). Distinct from A-TA-NA-TE (Athena) on same tablet.",
-          "root": "√ṯ-n-n",
+          "root": "√t-n-n",
           "position": 1,
           "quantity": 2,
           "confidence": "CANDIDATE",
@@ -5025,7 +5025,7 @@
           "position": 4,
           "quantity": 1,
           "confidence": "SPECULATIVE",
-          "confidence_score": 0.4
+          "confidence_score": 0.3
         },
         {
           "linear_a": "A-MI-DA-U",
@@ -5613,7 +5613,7 @@
         {
           "linear_a": "DU-SU-NI",
           "reading": "Dišon",
-          "gloss": "personal name, 'antelope'; rival Hurrian Tuš(š)-enni",
+          "gloss": "personal name, 'antelope'; rival a Hurrian name in -nni",
           "confidence": "SPECULATIVE"
         },
         {
@@ -5634,7 +5634,7 @@
       "translation": "Cretan (gentilic): 1 man. Grain 70. — Dānīlu: 2. Dišon: 4[…]. […]-RA₂-TI: 10. JU-[…",
       "confidence": "CANDIDATE",
       "status": "incomplete",
-      "notes": "Grain allocation roster. Header KI-RE-TA-NA (Cretan gentilic) + VIR 1, then GRA+H 70 (GRA+H = fraction rider, grain in 1/16 measure), divider, three recipients: DI-NA-RO (2), DU-SU-NI (4[, a trace after the numeral), [?]-RA₂-TI (10). JU-[ on .3 opens a word broken at the edge (GORILA I 175). DU-SU-NI: Dišon, as Hebrew Dîšôn 'antelope'; rival Hurrian Tuš(š)-enni. Remains incomplete: VIR+[?] damaged, [?]-RA₂-TI and JU-[ broken.",
+      "notes": "Grain allocation roster. Header KI-RE-TA-NA (Cretan gentilic) + VIR 1, then GRA+H 70 (GRA+H = fraction rider, grain in 1/16 measure), divider, three recipients: DI-NA-RO (2), DU-SU-NI (4[, a trace after the numeral), [?]-RA₂-TI (10). JU-[ on .3 opens a word broken at the edge (GORILA I 175). DU-SU-NI: Dišon, as Hebrew Dîšôn 'antelope'; rival a Hurrian name in -nni. Remains incomplete: VIR+[?] damaged, [?]-RA₂-TI and JU-[ broken.",
       "source": "di Mino"
     },
     "PKZa4": {
@@ -10679,10 +10679,10 @@
         },
         {
           "linear_a": "SA-RA-DI",
-          "reading": null,
-          "gloss": "unread entry, 5",
-          "confidence": null,
-          "note": "Broken before (Younger). No reading."
+          "reading": "šalardi",
+          "gloss": "group of daughters, 5",
+          "confidence": "CANDIDATE",
+          "note": "Broken before (Younger). Hurrian šāl(a)=ardi, šāla 'daughter' with the collective -ardi (Wilhelm, \"Hurrian,\" 103; Laroche 1980, 213), a counted row in the tally; the break allows a longer compound."
         },
         {
           "linear_a": "KU-RO",
@@ -10709,7 +10709,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "Tinit of the Sanctuary (TI-NI-TA · *307): men 90. 50. *86 51. RE 20[. I-MI-SA-RA 43[. QE 21. KI-DA-[…]. […]KI-*310 · KU-*305[…]. […]SA-RA-DI 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.",
+      "translation": "Tinit of the Sanctuary (TI-NI-TA · *307): men 90. 50. *86 51. RE 20[. I-MI-SA-RA 43[. QE 21. KI-DA-[…]. […]KI-*310 · KU-*305[…]. […] group of daughters (]SA-RA-DI) 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.",
       "confidence": "CANDIDATE",
       "status": "incomplete",
       "notes": "Personnel account with a ration triad after the total, the format of HT89; Montecchi (2011) reads HT27, 89, 94 and 100 as lists of participants and provisions for feasts. KU-RO 335 (GORILA, Younger) or 35̣5̣ (Montecchi); the preserved entries sum to 322, and the remainder lies in the breaks. *86 51 and RE 20 are not shown to be persons.",
@@ -12882,7 +12882,7 @@
           "reading": "Dikise",
           "gloss": "personal name; possibly Hurrian",
           "confidence": "CANDIDATE",
-          "note": "Cf. Hurrian tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche, pp. 250–51), and the personal name Tagi in EA 264–66. Also on HT87 under the same rubric; keep untranslated."
+          "note": "Cf. Hurrian tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche, pp. 249–50), and the personal name Tagi in EA 264–66. Also on HT87 under the same rubric; keep untranslated."
         }
       ],
       "translation": "Bridegroom/in-law category: Kulelu 1; Dikise 1.",
@@ -13097,7 +13097,7 @@
       "translation": "May that which is poured out glorify (her).",
       "confidence": "CANDIDATE",
       "coverage": "1/1 words (100%)",
-      "notes": "Context: Peak sanctuary; sole word inscription (LM IA)\n\nThe sole word of the Syme inscription (editions: Metaxa-Muhly, Kadmos 23 [1984] 124–35; Muhly & Olivier 2008, 212–13—transcription only). The libation is the grammatical subject: what goes out of the vessel glorifies the goddess—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי \"to beautify the place of my sanctuary\", and the hitpaʿel prayer register (Isa 60:21, 61:3; Ben Sira 50:20). √p-ʾ-r also gives pəʾēr \"diadem\" and tipʾart \"splendor\".",
+      "notes": "Context: Peak sanctuary; sole word inscription (LM IA)\n\nThe sole word of the Syme inscription (first edition, transcription only: Muhly & Olivier 2008, 212–13, HM 5585, found 1987). The libation is the grammatical subject: what goes out of the vessel glorifies the goddess—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי \"to beautify the place of my sanctuary\", and the hitpaʿel prayer register (Isa 60:21, 61:3; Ben Sira 50:20). √p-ʾ-r also gives pəʾēr \"diadem\" and tipʾart \"splendor\".",
       "source": {
         "di Mino": [
           "JA-PA-RA-JA-SE"

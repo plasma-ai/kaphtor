@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | laʕleʕä 4 |  |  |
 | Hebrew | lʕʕ 1 (HALOT 533) | HALOT 533 |  |
 | Geez | lāʿleʿa (HALOT 533) | HALOT 533 |  |
-| Tigrinya | laʿläʿe (LGz., 304) | LGz. 304 |  |
+| Tigrinya | laʿläʿe (LGz. 304) | LGz. 304 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

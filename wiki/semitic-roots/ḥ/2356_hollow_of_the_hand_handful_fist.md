@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥupnā, ḥopnā \[Ja 492\]; ḥpn (det. ḥwpnh) do. \[Sok 212\] | Ja 492; Sok 212 | gloss withheld |
 | Syrian Aramaic | ḥupnā 'handful, small fistful' \[Brock 250\] | Brock 250 |  |
 | Aramaic | OFF ḥpn, certain measure of capacity \[HJ 395\] | HJ 395 |  |
-| Geez | ḥafana (LGz., 227) | LGz. 227 | gloss withheld |
+| Geez | ḥafana (LGz. 227) | LGz. 227 | gloss withheld |
 | Tigrinya | ḥəfni, ḥəfənti (SED I 114) | SED I 114 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

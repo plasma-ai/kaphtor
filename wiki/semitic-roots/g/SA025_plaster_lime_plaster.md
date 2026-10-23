@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab gyr (SD, 52; Biella, 71) | SD 52; Biella 71 | gloss withheld |
-| Arabic | Ar jayr (Biella, 71) | Biella 71 | gloss withheld |
-| Geez | gayara (LGz., 208) | LGz. 208 | gloss withheld |
-| Hebrew | gīr (LGz., 208) | LGz. 208 | gloss withheld |
+| Epigraphic South Arabian | Sab gyr (SD 52; Biella 71; Sabaweb lemma 4184) | SD 52; Biella 71; Sabaweb lemma 4184 | gloss withheld |
+| Arabic | Ar jayr (Biella 71) | Biella 71 | gloss withheld |
+| Geez | gayara (LGz. 208) | LGz. 208 | gloss withheld |
+| Hebrew | gīr (LGz. 208) | LGz. 208 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

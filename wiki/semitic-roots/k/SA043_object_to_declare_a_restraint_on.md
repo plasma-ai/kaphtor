@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab kbḥ (SD, 76; Biella, 239) | SD 76; Biella 239 | gloss withheld |
-| Arabic | Ar kbḥ (BeSt1/89; Biella, 239). | Biella 239 | gloss withheld |
+| Epigraphic South Arabian | Sab kbḥ (SD 76; Biella 239; Sabaweb lemma 4440) | SD 76; Biella 239; Sabaweb lemma 4440 | gloss withheld |
+| Arabic | Ar kbḥ (BeSt1/89; Biella 239). | Biella 239 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

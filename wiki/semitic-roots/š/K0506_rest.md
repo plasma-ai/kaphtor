@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | sabata 'rested' (Lane 1287) | Lane 1287 |  |
 | Aramaic | ŠBT (Aramaic Root Atlas; CAL s.v. šbt) | Aramaic Root Atlas; CAL s.v. šbt | gloss withheld |
 | Hebrew | šabat 'cease' (BDB 991) | BDB 991 |  |
-| Punic | šbt: wlšbt (T, 313) | T 313 | gloss withheld |
+| Punic | šbt: wlšbt (T 313) | T 313 | gloss withheld |
 | Ugaritic | šbt 'stop' | Anderson–Moser 2024 root šbt |  |
-| Phoenician | šbt (T, 313) | T 313 | gloss withheld |
+| Phoenician | šbt (T 313) | T 313 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | saraǧa 'lied' (Lane 1343) | Lane 1343 |  |
 | Aramaic | SRG (Aramaic Root Atlas; CAL s.v. srg) | Aramaic Root Atlas; CAL s.v. srg | gloss withheld |
 | Geez | sarga 'intertwine' | Anderson–Moser 2024 root srg |  |
-| Mandaic Aramaic | SRG (HALOT 1353; Drower/Macuch 337a apud CAL); srk (LGz., 512) | HALOT 1353; Macuch 337a; CAL; LGz. 512 |  |
-| Hebrew | śrg (puʿal) (LGz., 512) | LGz. 512 | gloss withheld |
-| Syrian Aramaic | sərag (LGz., 512; Payne Smith 389) | LGz. 512; Payne Smith 389 |  |
+| Mandaic Aramaic | SRG (HALOT 1353; Drower/Macuch 337a apud CAL); srk (LGz. 512) | HALOT 1353; Macuch 337a; CAL; LGz. 512 |  |
+| Hebrew | śrg (puʿal) (LGz. 512) | LGz. 512 | gloss withheld |
+| Syrian Aramaic | sərag (LGz. 512; Payne Smith 389) | LGz. 512; Payne Smith 389 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

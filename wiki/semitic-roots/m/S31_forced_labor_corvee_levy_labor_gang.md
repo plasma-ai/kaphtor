@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Amarna: {lu₂-meš}ma-as-sa₃.MEŠ (ORACC aemw/amarna qca; 3 instances). Moran describes corvée obligations (EA intro) and corvée furnishing (EA 365). | ORACC aemw/amarna qca | gloss withheld |
+| Akkadian | Amarna: {lu₂-meš}ma-as-sa₃.MEŠ, massu a collective, EA 365 (Moran 1992, 363 and n. 1) | Moran 1992, 363 and n. 1 | gloss withheld |
 | Hebrew | mas (HALOT 603; 1 Kgs 5:27—Solomon's corvée; Josh 16:10; Judg 1:28–35) | HALOT 603 | gloss withheld |
 | Judaic Aramaic | missā (HALOT 603) | HALOT 603 | gloss withheld |
 | Canaanite | mazza (HALOT 603) | HALOT 603 |  |

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ṣpn (DULAT, 777) | DULAT 777 | gloss withheld |
-| Phoenician | ṣpn (T, 279) | T 279 | gloss withheld |
+| Ugaritic | ṣpn (DULAT 777) | DULAT 777 | gloss withheld |
+| Phoenician | ṣpn (T 279) | T 279 | gloss withheld |
 | Hebrew | ṣāpōn (HALOT 1046) | HALOT 1046 | gloss withheld |
 | Judaic Aramaic | ṣəfōnā (HALOT 1046) | HALOT 1046 |  |
 

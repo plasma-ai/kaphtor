@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | qḏr \[-a-, -u-\] (Lane 2498) | Lane 2498 |  |
 | Hebrew | qdr (HALOT 1072) | HALOT 1072 | gloss withheld |
-| Judaic Aramaic | qdr (HALOT 1072) | HALOT 1072 |  |
-| Mandaic Aramaic | qdr (HALOT 1072) | HALOT 1072 |  |
+| Judaic Aramaic | qdr (HALOT 1072) | HALOT 1072 | gloss withheld |
+| Mandaic Aramaic | qdr pan'el (Drower/Macuch 405a apud HALOT 1072) | Macuch 405a; HALOT 1072 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

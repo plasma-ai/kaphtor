@@ -29,13 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭarādu (CAD Ṭ, 50) | CAD Ṭ, 50 | gloss withheld |
-| Ugaritic | ṭrd (DULAT, 876) | DULAT 876 | gloss withheld |
+| Akkadian | ṭarādu (CAD Ṭ 50) | CAD Ṭ 50 | gloss withheld |
+| Ugaritic | ṭrd (DULAT 876) | DULAT 876 | gloss withheld |
 | Hebrew | ṭārad (HALOT 379) | HALOT 379 | gloss withheld |
 | Arabic | ṭrd \[-u-\] 'drive away' (Lane 1838) | Lane 1838 |  |
 | Syrian Aramaic | ṭrad 'drive away, expel' (Payne Smith 181) | Payne Smith 181 |  |
-| Pre-Islamic North Arabian | Safaitic ṭrd (Al-Jallad–Jaworska, 137) | Al-Jallad–Jaworska 137 | gloss withheld |
-| Epigraphic South Arabian | Sab ṭrd (SD 153 apud SEDonline 1614) | SD 153; SEDonline 1614 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṭrd (Al-Jallad–Jaworska 137) | Al-Jallad–Jaworska 137 | gloss withheld |
+| Epigraphic South Arabian | Sab ṭrd (SD 153 apud SEDonline 1614; Sabaweb lemma 2866) | SD 153; SEDonline 1614; Sabaweb lemma 2866 | gloss withheld |
 | Soqotri | ṭérod (LS 208; CSOL I 688; CSOL II 621; Naumkin et al. 2016b:69 apud SEDonline 1614) | LS 208; SEDonline 1614 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

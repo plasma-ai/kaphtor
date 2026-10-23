@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | mêsu 'hurl down' | Anderson–Moser 2024 root mḥs |  |
 | Geez | maḥasa 'extirpate' | Anderson–Moser 2024 root mḥs |  |
-| Tigrinya | mäḥasä (LGz., 337) | LGz. 337 | gloss withheld |
-| Amharic | masä (LGz., 337) | LGz. 337 | gloss withheld |
-| Gurage | masä (LGz., 337) | LGz. 337 | gloss withheld |
+| Tigrinya | mäḥasä (LGz. 337) | LGz. 337 | gloss withheld |
+| Amharic | masä (LGz. 337) | LGz. 337 | gloss withheld |
+| Gurage | masä (LGz. 337) | LGz. 337 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -40,11 +40,11 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | rwy, \*rwy (HALOT 1194, 1195) | HALOT 1194, 1195 |  |
 | Mandaic Aramaic | RWA (HALOT 1194) | HALOT 1194 |  |
 | Tigrinya | rawā, rāwī (HALOT 1194, 1195) | HALOT 1194, 1195 |  |
-| Tigre | räwa (LGz., 478) | LGz. 478 |  |
+| Tigre | räwa (LGz. 478) | LGz. 478 |  |
 | Amorite | rwj: jārwī (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
 | Mehri | ráywi (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
 | Jibbali | rē (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic rwy (Al-Jallad–Jaworska, 118) | Al-Jallad–Jaworska 118 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rwy (Al-Jallad–Jaworska 118) | Al-Jallad–Jaworska 118 | gloss withheld |
 | Harsusi | rewō or rewī (HL 106 apud SEDonline 11) | HL 106; SEDonline 11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

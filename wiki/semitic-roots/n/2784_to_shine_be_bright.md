@@ -39,13 +39,13 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ənghɔ́t (Kogan 2011, 196) | Kogan 2011, 196 | gloss withheld |
 | Soqotri | nigóhoh (Kogan 2011, 196) | Kogan 2011, 196 | gloss withheld |
 | Syrian Aramaic | ngah (Kogan 2015, ch. 2 §4.2 no. 41) | Kogan 2015, ch. 2 §4.2 no. 41 | gloss withheld |
-| Mandaic Aramaic | nga, nihga (LGz., 391) | LGz. 391 |  |
-| Tigre | nägha (LGz., 391) | LGz. 391 |  |
-| Tigrinya | näghe (LGz., 391) | LGz. 391 |  |
-| Amharic | nägga, nägä (LGz., 391) | LGz. 391 |  |
-| Gurage | nägga, nägä (LGz., 391) | LGz. 391 |  |
-| Argobba | nägga, näg (LGz., 391) | LGz. 391 |  |
-| Gafat | näg (LGz., 391) | LGz. 391 |  |
+| Mandaic Aramaic | nga, nihga (LGz. 391) | LGz. 391 |  |
+| Tigre | nägha (LGz. 391) | LGz. 391 |  |
+| Tigrinya | näghe (LGz. 391) | LGz. 391 |  |
+| Amharic | nägga, nägä (LGz. 391) | LGz. 391 |  |
+| Gurage | nägga, nägä (LGz. 391) | LGz. 391 |  |
+| Argobba | nägga, näg (LGz. 391) | LGz. 391 |  |
+| Gafat | näg (LGz. 391) | LGz. 391 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

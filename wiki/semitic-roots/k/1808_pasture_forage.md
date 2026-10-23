@@ -31,12 +31,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | klʔ 'to abound in fodder (said of a country)' (BK 2, 919), kalaʔ- 'fodder (dry or green)' (Ibid. 920) | BK 2, 919; Ibid. 920 |  |
-| Akkadian | ukullû OB on (AHw, 1406; &lt;\*kwVllāʔ- ?) | AHw 1406 | gloss withheld |
-| Tigre | mäklay (LGz., 339) | LGz. 339 | gloss withheld |
-| Geez | kʷālawa (LGz., 284), makala, makkola (Ibid. 339) | LGz. 284; Ibid. 339 | gloss withheld |
+| Akkadian | ukullû OB on (AHw 1406; &lt;\*kwVllāʔ- ?) | AHw 1406 | gloss withheld |
+| Tigre | mäklay (LGz. 339) | LGz. 339 | gloss withheld |
+| Geez | kʷālawa (LGz. 284), makala, makkola (Ibid. 339) | LGz. 284; Ibid. 339 | gloss withheld |
 | Amharic | kǝlkǝl (Kane 1990; Reinisch 1884, 376; redupl.) | Kane 1990 | gloss withheld |
-| Tigrinya | mäḵälä (LGz., 339) | LGz. 339 | gloss withheld |
-| Epigraphic South Arabian | Sab. klʾ (SD, 77) | SD 77 | gloss withheld |
+| Tigrinya | mäḵälä (LGz. 339) | LGz. 339 | gloss withheld |
+| Epigraphic South Arabian | Sab. klʾ (SD 77) | SD 77 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

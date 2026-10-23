@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | MLḤS nḥiro \[J Mlah 184\] NASS naḫīra \[Tser 0138\] MMND neḫīra \[M MND 512\] | J Mlah 184; Tser 0138 | gloss withheld |
 | Jibbali | naḫrér do. \[JJ 199\] | JJ 199 |  |
 | Hebrew | \*nǝḥīrayim (dual suff. nǝḥīrāw) (HALOT 686) | HALOT 686 | gloss withheld |
-| Judaic Aramaic | nǝḥīrā \[Ja 894\]; nḥwr, det. nwḥrh; nḥyr \[Sok 346\] | Ja 894; Sok 346 | gloss withheld |
+| Judaic Aramaic | nǝḥīrā \[Ja 894\]; nḥwr, det. nwḥrh; nḥyr \[DJPA 346a apud CAL\] | Ja 894; DJPA 346a; CAL | gloss withheld |
 | Syrian Aramaic | nǝḥīrē (pl.) 'nares' \[Brock 424\] | Brock 424 |  |
 | Aramaic | Dem. mnḥr \[HJ 1260\] | HJ 1260 | gloss withheld |
 

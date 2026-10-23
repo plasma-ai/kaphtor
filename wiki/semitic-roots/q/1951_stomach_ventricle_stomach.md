@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | (?) kukkubātu, kukkubānu, ḳuḳḳubātu, ḳuḳḳubānu LL \[CAD k 499\]. | CAD k 499 | gloss withheld |
 | Tigre | ḳäbbät \[LH 250\]. | LH 250 | gloss withheld |
 | Hebrew | ḳēbā (HALOT 1060) | HALOT 1060 | gloss withheld |
-| Judaic Aramaic | ḳēbǝtā \[Ja 1313\], ḳybh \[Sok 489\] | Ja 1313; Sok 489 | gloss withheld |
+| Judaic Aramaic | ḳēbǝtā \[Ja 1313\], ḳybh \[DJPA 489a apud CAL\] | Ja 1313; DJPA 489a; CAL | gloss withheld |
 | Tigrinya | ḳobo 'hernia' \[Bass 262\] | Bass 262 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,16 +30,16 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | rmḍ (LGz., 470) | LGz. 470 | gloss withheld |
+| Arabic | rmḍ (LGz. 470) | LGz. 470 | gloss withheld |
 | Mehri | ramẓ̂ |  |  |
 | Tigre | rämmäč̣a, rämäč̣ |  | gloss withheld |
-| Geez | ramaḍa (LGz., 470) | LGz. 470 | gloss withheld |
+| Geez | ramaḍa (LGz. 470) | LGz. 470 | gloss withheld |
 | Jibbali | rɛmĉ̣ |  |  |
 | Hebrew | pB rmṣ 'roll or bake in hot ashes', rämäṣ 'hot ashes, embers' Ja. 1483 | Ja. 1483 |  |
 | Amharic | rämmäṭä |  | gloss withheld |
 | Syrian Aramaic | rǝmūʕ- |  | gloss withheld |
 | Tigrinya | rämäṣä |  | gloss withheld |
-| Gurage | (a)rämmäṭä (LGz., 470) | LGz. 470 | gloss withheld |
+| Gurage | (a)rämmäṭä (LGz. 470) | LGz. 470 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

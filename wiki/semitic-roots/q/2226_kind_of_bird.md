@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḳāʔāt (ḳāʔat) (HALOT 1059), pB. ḳāʔāt (pl. ḳāʔōt) \[Ja. 1307\] | HALOT 1059; Ja. 1307 | gloss withheld |
 | Judaic Aramaic | ḳātā, ḳā(ʔ)tā \[Ja. 1434\] | Ja. 1434; Ja. 1306; ibid. 1340; ibid. 1409; ibid. 1409; Sok. 501 | gloss withheld |
 | Syrian Aramaic | ḳāḳā 'pelecanus' \[Brock. 688\], \[PS 3708\]. | Brock. 688; PS 3708 |  |
-| Modern Aramaic | NSyr. ḳāḳā; Tlk., Ass. ḳaḳwāna; Tur. ḳaḳwonīṯo (SED II 172) | SED II 172 |  |
+| Modern Aramaic | NSyr. ḳāḳā; Tlk., Ass. ḳaḳwāna; Tur. ḳaḳwonīṯo (SED II 172–173) | SED II 172–173 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

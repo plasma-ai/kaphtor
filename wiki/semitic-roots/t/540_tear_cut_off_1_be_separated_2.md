@@ -32,11 +32,11 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | trr \[-u, i-\] 2 (Lane 299) | Lane 299 |  |
 | Hebrew | ntr (HALOT 737) | HALOT 737 | gloss withheld |
-| Geez | matara (LGz., 372) | LGz. 372 | gloss withheld |
-| Tigrinya | mätärä (LGz., 372) | LGz. 372 | gloss withheld |
-| Gurage | mätärä (LGz., 372) | LGz. 372 | gloss withheld |
-| Amharic | mättärä (LGz., 372) | LGz. 372 | gloss withheld |
-| Tigre | mätra (LGz., 372) | LGz. 372 | gloss withheld |
+| Geez | matara (LGz. 372) | LGz. 372 | gloss withheld |
+| Tigrinya | mätärä (LGz. 372) | LGz. 372 | gloss withheld |
+| Gurage | mätärä (LGz. 372) | LGz. 372 | gloss withheld |
+| Amharic | mättärä (LGz. 372) | LGz. 372 | gloss withheld |
+| Tigre | mätra (LGz. 372) | LGz. 372 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

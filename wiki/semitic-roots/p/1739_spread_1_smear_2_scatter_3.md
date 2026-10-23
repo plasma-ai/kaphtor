@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | fss 1 |  |  |
 | Judaic Aramaic | psy 1 |  |  |
 | Tigrinya | fss 1 |  |  |
-| Epigraphic South Arabian | Sab fs₂ʾ (Biella, 412) | Biella 412 | gloss withheld |
+| Epigraphic South Arabian | Sab fs₂ʾ (Biella 412; Sabaweb lemma 3136) | Biella 412; Sabaweb lemma 3136 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

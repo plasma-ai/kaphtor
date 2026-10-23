@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ʔdr 1; /ʾaduru/? (UVST, 104) | UVST 104 | gloss withheld |
+| Ugaritic | ʔdr 1; /ʾaduru/? (UVST 104) | UVST 104 | gloss withheld |
 | Geez | ʔadirot 3 LGz 8 | LGz 8 |  |
 | Phoenician | ʔdr 2 |  |  |
 | Hebrew | ʔaddīr 2; ʔdr (HALOT 16 apud SEDonline 208) | HALOT 16; SEDonline 208 | gloss withheld |
-| Judaic Aramaic | ʾadiraʾ 2 (T, 6) | T 6 |  |
+| Judaic Aramaic | ʾadiraʾ 2 (T 6) | T 6 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

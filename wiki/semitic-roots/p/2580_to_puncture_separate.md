@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fyz 'se séparer, se détacher' BK 2 653 | BK 2 653 |  |
+| Arabic | fyz 'separate, come apart' BK 2 653 | BK 2 653 |  |
 | Canaanite | \*p(y)z |  |  |
 | Phoenician |  |  | source's text withheld |
 | Jibbali | fzz JJ 68 | JJ 68 | gloss withheld |

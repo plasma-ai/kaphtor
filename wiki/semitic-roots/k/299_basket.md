@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | kǝlūb |  |  |
 | Canaanite | kilubu (HALOT 478) | HALOT 478 |  |
 | Geez | karabō (HALOT 478) | HALOT 478 |  |
-| Punic | kwlb (T, 140) | T 140 | gloss withheld |
+| Punic | kwlb (T 140) | T 140 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

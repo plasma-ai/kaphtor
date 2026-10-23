@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2806_divination
 title: "*ḳVsVm-: 'divination'"
-desc: "Proto-Semitic *ḳVsVm-, 'divination': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḳVsVm-, 'divination': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2806"
@@ -30,7 +30,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | miqsām 'divination' (BDB 890) | BDB 890 |  |
-| Ugaritic | qsm (ug_codex_0040) | ug_codex 0040 | gloss withheld |
 | Geez | maqsem (HALOT 1116) | HALOT 1116 | gloss withheld |
 | Judaic Aramaic | qismā (HALOT 1115) | HALOT 1115 |  |
 | Aramaic | qsm, qsmʾ (HALOT 1115) | HALOT 1115 |  |

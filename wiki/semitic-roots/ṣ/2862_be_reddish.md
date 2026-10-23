@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʾaṣḥaru (HALOT 1019) | HALOT 1019 | gloss withheld |
 | Syrian Aramaic | ṣåḥar; ṣuḥḥār (HALOT 1019) | HALOT 1019 | gloss withheld |
-| Ugaritic | ṣ-ḥ-r-r (CUC; DULAT, 771; HALOT 1019) | CUC; DULAT 771; HALOT 1019 | gloss withheld |
+| Ugaritic | ṣ-ḥ-r-r (CUC; DULAT 771; HALOT 1019) | CUC; DULAT 771; HALOT 1019 | gloss withheld |
 | Hebrew | \*ṣḥr, \*ṣāḥōr (HALOT 1019) | HALOT 1019 | gloss withheld |
 | Mandaic Aramaic | ṣḥr, ṣaḥur, ṣuhar (HALOT 1019) | HALOT 1019 |  |
 

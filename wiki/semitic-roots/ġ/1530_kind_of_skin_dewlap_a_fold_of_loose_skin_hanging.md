@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ɣarɣar-at-, ɣurɣur-at- 'bird's gizzard' \[BK 2 457\]; cf. ɣarr-at-, ɣurr-at- 'a fold (of a skin, of a fabric)' \[ibid. 446\] | BK 2 457; ibid. 446 |  |
 | Mehri | ɣǝrɣār, ɣǝrɣǝrōt \[JM 141\] | JM 141 | gloss withheld |
 | Akkadian | (?) āru OA \[CAD a2 318\] | CAD a2 318; AHw 72 | gloss withheld |
-| Ugaritic | ɣr \[DLU 159\]. | DLU 159 | gloss withheld |
+| Ugaritic | ɣr \[DULAT 320\]. | DULAT 320 | gloss withheld |
 | Phoenician | \*ʕr (only pl. ʕrt; cf. HBR) \[T 256\] | T 256 | gloss withheld |
 | Jibbali | ɣɔrɣɔ́rɔ́t, ɣarɣɔ́rɔ́t \[JJ 88\] | JJ 88 | gloss withheld |
 | Hebrew | ʕōr, pl. ʕōrōt (HALOT 803). | HALOT 803 | gloss withheld |

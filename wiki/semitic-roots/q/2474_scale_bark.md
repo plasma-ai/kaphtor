@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳišr- (LGz., 448) | LGz. 448 | gloss withheld |
-| Geez | ḳaŝŝara, ḳǝŝŝār (LGz., 448) | LGz. 448 | gloss withheld |
+| Arabic | ḳišr- (LGz. 448) | LGz. 448 | gloss withheld |
+| Geez | ḳaŝŝara, ḳǝŝŝār (LGz. 448) | LGz. 448 | gloss withheld |
 | Modern Arabic | Leb ʔišri, Mec gišra, Syr ḳišr |  |  |
 | Jibbali | ḳaŝrot |  | gloss withheld |
 | Modern South Arabian | Bathari ḳəŝərēt (Gasparini - Morris 2025 91 apud SEDonline 1908) | SEDonline 1908 | gloss withheld |

@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | ʾp 'moreover' | Anderson–Moser 2024 root ʾp |  |
-| Phoenician | ʾp (T, 27) | T 27 | gloss withheld |
+| Phoenician | ʾp (T 27) | T 27 | gloss withheld |
 | Syrian Aramaic | ʔāp 'also, and, truly, even' (Payne Smith 25) | Payne Smith 25 |  |
 | Hebrew | ʾp (HALOT 76) | HALOT 76 |  |
 | Ugaritic | ap (HALOT 76) | HALOT 76 |  |
-| Aramaic | ʾp (T, 27) | T 27 |  |
-| Biblical Aramaic | ʾap (T, 27) | T 27 |  |
-| Judaic Aramaic | ʾap (T, 27) | T 27 |  |
-| Mandaic Aramaic | ʾap (T, 27) | T 27 |  |
+| Aramaic | ʾp (T 27) | T 27 |  |
+| Biblical Aramaic | ʾap (T 27) | T 27 |  |
+| Judaic Aramaic | ʾap (T 27) | T 27 |  |
+| Mandaic Aramaic | ʾap (T 27) | T 27 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

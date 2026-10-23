@@ -33,16 +33,16 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | mdd u 'spread' (Lane 2695), mudd- 'measure' (Lane 2697) | Lane 2695; Lane 2697 |  |
 | Akkadian | madād- |  | gloss withheld |
 | Tigre | mädda |  | gloss withheld |
-| Ugaritic | mdd; /maddatu/? (UVST, 145) | UVST 145 | gloss withheld |
+| Ugaritic | mdd; /maddatu/? (UVST 145) | UVST 145 | gloss withheld |
 | Geez | madada |  | gloss withheld |
-| Phoenician | mdt (Krahmalkov, 272) | Krahmalkov 272 | gloss withheld |
-| Punic | mdd (T, 166) | T 166 | gloss withheld |
+| Phoenician | mdt (Krahmalkov 272) | Krahmalkov 272 | gloss withheld |
+| Punic | mdd (T 166) | T 166 | gloss withheld |
 | Hebrew | mādad, mdd hitpo |  | gloss withheld |
 | Amharic | mädämmädä |  | gloss withheld |
-| Epigraphic South Arabian | Sab md-t |  | gloss withheld |
+| Epigraphic South Arabian | Sab md-t (Sabaweb lemma 4513) | Sabaweb lemma 4513 | gloss withheld |
 | Tigrinya | mädmädä |  | gloss withheld |
-| Amorite | mdd (Huffmon APNM, 229) | Huffmon APNM 229 | gloss withheld |
-| Soqotri | med (T, 166) | T 166 |  |
+| Amorite | mdd (Huffmon APNM 229) | Huffmon APNM 229 | gloss withheld |
+| Soqotri | med (T 166) | T 166 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

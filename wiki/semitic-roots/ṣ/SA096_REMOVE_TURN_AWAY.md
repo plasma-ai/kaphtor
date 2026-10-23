@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ṣbn (SD, 140; Biella, 416) | SD 140; Biella 416 | gloss withheld |
-| Arabic | Ar ṣabana (Lane 1649; Biella, 416) id. | Lane 1649; Biella 416 |  |
+| Epigraphic South Arabian | Sab ṣbn (SD 140; Biella 416); (Sabaweb lemma 2945) | SD 140; Biella 416; Sabaweb lemma 2945 | gloss withheld |
+| Arabic | Ar ṣabana (Lane 1649; Biella 416) id. | Lane 1649; Biella 416 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | abru OB, SB \[CAD a1 64\], \[AHw 7\] | CAD a1 64; AHw 7 | gloss withheld |
 | Mandaic Aramaic | ʕbra \[DM 341\] | DM 341 | gloss withheld |
-| Ugaritic | ʔibr \[DLU 5\]. | DLU 5 | gloss withheld |
+| Ugaritic | ʔibr \[DULAT 12\]. | DULAT 12 | gloss withheld |
 | Hebrew | ʔäbrā, ʔēbär (HALOT 9) | HALOT 9 | gloss withheld |
 | Judaic Aramaic | ʔēbārā, ʔēbǝrā 'arm, wing, pinion' \[Ja 44\] | Ja 44 |  |
 | Syrian Aramaic | ʔebrā 'feather' \[Brock 3\] | Brock 3 |  |

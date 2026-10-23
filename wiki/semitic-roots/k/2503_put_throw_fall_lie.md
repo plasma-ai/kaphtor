@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | karāru A (CAD K, 207) | CAD K, 207 | gloss withheld |
+| Akkadian | karāru A (CAD K 207) | CAD K 207 | gloss withheld |
 | Tigre | karära, ʔǝ-krur hälla |  | gloss withheld |
 | Geez | krr |  | gloss withheld |
 | Amharic | (tän)karrärä |  | gloss withheld |

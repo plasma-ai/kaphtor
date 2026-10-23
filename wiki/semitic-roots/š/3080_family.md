@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | špḥ (DUL 835 apud SEDonline 782); /šapḥu/ (UVST, 183) | DUL 835; SEDonline 782; UVST 183 | gloss withheld |
+| Ugaritic | špḥ (DULAT 823); /šapḥu/ (UVST 183) | DULAT 823; UVST 183 | gloss withheld |
 | Phoenician | špḥ (DNWSI 1181 apud SEDonline 782) | DNWSI 1181; SEDonline 782 | gloss withheld |
 | Hebrew | mišpāḥā (HALOT 651 apud SEDonline 782) | HALOT 651; SEDonline 782 | gloss withheld |
 

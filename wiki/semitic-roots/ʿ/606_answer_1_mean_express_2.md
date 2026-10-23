@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕny 2 i,1,19 (Lane 2180) | Lane 2180 |  |
 | Hebrew | ʕny 1 |  |  |
-| Ugaritic | ʿny (CUC; DULAT, 169) | CUC; DULAT 169 | gloss withheld |
-| Aramaic | ʿNY 'respond' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Ugaritic | ʿny (CUC; DULAT 169) | CUC; DULAT 169 | gloss withheld |
+| Aramaic | ʿNY (Aramaic Root Atlas; DNWSI 875 apud CAL) | Aramaic Root Atlas; DNWSI 875; CAL | gloss withheld |
 | Syrian Aramaic | ʕnā 'answer; hearken; converse; sing' (Payne Smith 419) | Payne Smith 419 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

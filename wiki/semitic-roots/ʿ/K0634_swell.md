@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | elēṣu 'swell' | Anderson–Moser 2024 root ʿlṣ |  |
 | Hebrew | ʿalaṣ 'rejoice' | Anderson–Moser 2024 root ʿlṣ |  |
 | Punic | ʿlṣ 'exult' | Anderson–Moser 2024 root ʿlṣ |  |
-| Phoenician | ʿlṣ (T, 246) | T 246 | gloss withheld |
+| Phoenician | ʿlṣ (T 246) | T 246 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fṣḥ a |  | gloss withheld |
-| Akkadian | peṣû AHw |  | gloss withheld |
+| Akkadian | peṣû (CAD P 328) | CAD P 328 | gloss withheld |
 | Mandaic Aramaic | pṣih- |  | gloss withheld |
 | Hebrew | pṣḥ (HALOT 953) | HALOT 953 | gloss withheld |
 | Judaic Aramaic | pṣḥ pa., pǝṣīḥ- |  | gloss withheld |

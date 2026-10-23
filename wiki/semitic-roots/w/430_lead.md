@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/430_lead
 title: "*wVbVl-: 'lead'"
-desc: "Proto-Semitic *wVbVl-, 'lead': reflexes in 7 language(s)."
+desc: "Proto-Semitic *wVbVl-, 'lead': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "430"
@@ -36,7 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | (w)abālu, babālu, tabālu; EA ubil (HALOT 383) | HALOT 383 |  |
 | Syrian Aramaic | ʾaubel (HALOT 383) | HALOT 383 |  |
 | Amorite | \*ybl (HALOT 383) | HALOT 383 |  |
-| Pre-Islamic North Arabian | Safaitic tbl (Al-Jallad–Jaworska, 131) | Al-Jallad–Jaworska 131 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic tbl (Al-Jallad–Jaworska 131) | Al-Jallad–Jaworska 131 | gloss withheld |
+| Eblaitic | wa-ba-lu /wabālu(m)/ (VE 979; Krebernik 1983, 35) | VE 979; Krebernik 1983, 35 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

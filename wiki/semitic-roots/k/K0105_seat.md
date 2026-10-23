@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | kussû 'chair' | Anderson–Moser 2024 root ksʾ |  |
 | Hebrew | kisseʾ 'seat' | Anderson–Moser 2024 root ksʾ |  |
 | Ugaritic | ksu 'seat' | Anderson–Moser 2024 root ksʾ |  |
-| Punic | mksʾ (T, 176) | T 176 | gloss withheld |
+| Punic | mksʾ (T 176) | T 176 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Soqotri | šeḳaḳ 2 |  |  |
+| Soqotri | šeḳaḳ 2; ʸheḳ (SLOnline 2673) |  | gloss withheld |
 | Harari | šiḳāḳ 1 |  |  |
 | Jibbali | šɛḳ (JL 261 apud SEDonline 1918) | JL 261; SEDonline 1918 | gloss withheld |
 

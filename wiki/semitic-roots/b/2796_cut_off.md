@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | bāṣaʿ (BDB 130; HALOT 147) | BDB 130; HALOT 147 | gloss withheld |
-| Ugaritic | bṣʿ (HALOT 147; DULAT, 238) | HALOT 147; DULAT 238 | gloss withheld |
+| Ugaritic | bṣʿ (HALOT 147; DULAT 238) | HALOT 147; DULAT 238 | gloss withheld |
 | Geez | b-ṣ-ʿ 'cut, sever' (Dillmann 04202) | Dillmann 04202 |  |
 | Epigraphic South Arabian | bḍʿ (HALOT 147) | HALOT 147 | gloss withheld |
 | Arabic | baḍʿa (HALOT 147) | HALOT 147 | gloss withheld |

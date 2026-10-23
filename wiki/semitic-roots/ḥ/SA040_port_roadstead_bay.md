@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ḥyq (SD, 74; Biella, 174) | SD 74; Biella 174 | gloss withheld |
-| Arabic | Ar ḥāqa (y or w) (Biella, 174) | Biella 174 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥyq (SD 74; Biella 174; Sabaweb lemma 4420) | SD 74; Biella 174; Sabaweb lemma 4420 | gloss withheld |
+| Arabic | Ar ḥāqa (y or w) (Biella 174) | Biella 174 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

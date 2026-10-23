@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ġafara 'covered' (Lane 2273) | Lane 2273 |  |
 | Aramaic | ʿPR 'put' | Anderson–Moser 2024 root ġpr |  |
 | Geez | ʿafara 'cover' | Anderson–Moser 2024 root ġpr |  |
-| Syrian Aramaic | ʿappar (LGz., 58) | LGz. 58 | gloss withheld |
+| Syrian Aramaic | ʿappar (LGz. 58) | LGz. 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

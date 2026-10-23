@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Geez | fḥq |  |  |
 | Harari | fēḥaqa \[LHar 62\] | LHar 62 | gloss withheld |
 | Tigrinya | fähaqʷä |  |  |
-| Tigre | fäḥaqa (LGz., 157) | LGz. 157 | gloss withheld |
-| Argobba | fähaqa (LGz., 157) | LGz. 157 | gloss withheld |
-| Gurage | faqä (LGz., 157) | LGz. 157 |  |
+| Tigre | fäḥaqa (LGz. 157) | LGz. 157 | gloss withheld |
+| Argobba | fähaqa (LGz. 157) | LGz. 157 | gloss withheld |
+| Gurage | faqä (LGz. 157) | LGz. 157 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

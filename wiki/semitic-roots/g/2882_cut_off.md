@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǧaraza (HALOT 187) | HALOT 187 | gloss withheld |
 | Hebrew | gāraz 'cut, cut off' (BDB 173) | BDB 173 |  |
-| Geez | garaza (LGz., 204) | LGz. 204 | gloss withheld |
-| Tigre | gärza (LGz., 204) | LGz. 204 | gloss withheld |
-| Tigrinya | gäräzä (LGz., 204) | LGz. 204 | gloss withheld |
-| Amharic | gärräzä (LGz., 204) | LGz. 204 | gloss withheld |
-| Gafat | gärräzä (LGz., 204) | LGz. 204 | gloss withheld |
-| Harari | gēräza (LGz., 204) | LGz. 204 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic grz (Al-Jallad–Jaworska, 73) | Al-Jallad–Jaworska 73 | gloss withheld |
+| Geez | garaza (LGz. 204) | LGz. 204 | gloss withheld |
+| Tigre | gärza (LGz. 204) | LGz. 204 | gloss withheld |
+| Tigrinya | gäräzä (LGz. 204) | LGz. 204 | gloss withheld |
+| Amharic | gärräzä (LGz. 204) | LGz. 204 | gloss withheld |
+| Gafat | gärräzä (LGz. 204) | LGz. 204 | gloss withheld |
+| Harari | gēräza (LGz. 204) | LGz. 204 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic grz (Al-Jallad–Jaworska 73) | Al-Jallad–Jaworska 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

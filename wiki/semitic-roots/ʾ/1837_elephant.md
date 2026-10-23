@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | ʔabot name of an elephant (poet.) LT 367 |  |  |
+| Tigre | ʔabot name of an elephant (poet.) LH 367 | LH 367 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

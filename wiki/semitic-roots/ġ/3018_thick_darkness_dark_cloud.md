@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʿărāpel (HALOT 888) | HALOT 888 | gloss withheld |
-| Ugaritic | ġrpl; ġrplt (DULAT, 322) | DULAT 322 | gloss withheld |
+| Ugaritic | ġrpl; ġrplt (DULAT 322) | DULAT 322 | gloss withheld |
 | Judaic Aramaic | ʿarpᵉlā, ʿarpîlā (HALOT 888) | HALOT 888 |  |
 | Syrian Aramaic | ʕarpel, ʕarpelā 'dark fog, thick darkness; eye-film' (Payne Smith 429) | Payne Smith 429 |  |
 

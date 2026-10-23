@@ -30,16 +30,16 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | naṣala 'detach' | Anderson–Moser 2024 root nṣl |  |
-| Jibbali | nṣel (LGz., 406) | LGz. 406 | gloss withheld |
-| Aramaic | nṣl (LGz., 406) | LGz. 406 |  |
-| Phoenician | nṣl (nifʿal) (LGz., 406) | LGz. 406 | gloss withheld |
-| Syrian Aramaic | nəṣal (LGz., 406) | LGz. 406 | gloss withheld |
-| Tigre | näṣla (LGz., 406) | LGz. 406 | gloss withheld |
-| Tigrinya | näṣälä (LGz., 406) | LGz. 406 | gloss withheld |
-| Amharic | näṭṭälä (LGz., 406) | LGz. 406 | gloss withheld |
-| Gurage | näṭṭälä (LGz., 406) | LGz. 406 | gloss withheld |
-| Hebrew | nṣl (hifʿil), (piʿel) (LGz., 406) | LGz. 406 | gloss withheld |
-| Arabic | naṣala (LGz., 405) | LGz. 405 | gloss withheld |
+| Jibbali | nṣel (LGz. 406) | LGz. 406 | gloss withheld |
+| Aramaic | nṣl (LGz. 406) | LGz. 406 |  |
+| Phoenician | nṣl (nifʿal) (LGz. 406) | LGz. 406 | gloss withheld |
+| Syrian Aramaic | nəṣal (LGz. 406) | LGz. 406 | gloss withheld |
+| Tigre | näṣla (LGz. 406) | LGz. 406 | gloss withheld |
+| Tigrinya | näṣälä (LGz. 406) | LGz. 406 | gloss withheld |
+| Amharic | näṭṭälä (LGz. 406) | LGz. 406 | gloss withheld |
+| Gurage | näṭṭälä (LGz. 406) | LGz. 406 | gloss withheld |
+| Hebrew | nṣl (hifʿil), (piʿel) (LGz. 406) | LGz. 406 | gloss withheld |
+| Arabic | naṣala (LGz. 405) | LGz. 405 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

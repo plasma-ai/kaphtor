@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab hrk (SD, 57; Biella, 117) | SD 57; Biella 117 | gloss withheld |
-| Geez | māhraka (LGz., 334) | LGz. 334 | gloss withheld |
-| Tigre | maräka (LGz., 334) | LGz. 334 |  |
-| Tigrinya | maräḵä (LGz., 334) | LGz. 334 |  |
-| Amharic | marräkä (LGz., 334) | LGz. 334 |  |
-| Argobba | marräka (LGz., 334) | LGz. 334 |  |
-| Gurage | maräkä (LGz., 334) | LGz. 334 |  |
-| Harari | maräxa (LGz., 334) | LGz. 334 |  |
+| Epigraphic South Arabian | Sab hrk (SD 57; Biella 117) | SD 57; Biella 117 | gloss withheld |
+| Geez | māhraka (LGz. 334) | LGz. 334 | gloss withheld |
+| Tigre | maräka (LGz. 334) | LGz. 334 |  |
+| Tigrinya | maräḵä (LGz. 334) | LGz. 334 |  |
+| Amharic | marräkä (LGz. 334) | LGz. 334 |  |
+| Argobba | marräka (LGz. 334) | LGz. 334 |  |
+| Gurage | maräkä (LGz. 334) | LGz. 334 |  |
+| Harari | maräxa (LGz. 334) | LGz. 334 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

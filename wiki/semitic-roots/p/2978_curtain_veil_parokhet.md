@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | pārōket (HALOT 968) | HALOT 968 | gloss withheld |
-| Akkadian | parāku (HALOT 968; CAD P, 154) | HALOT 968; CAD P, 154 | gloss withheld |
+| Akkadian | parāku (HALOT 968; CAD P 154) | HALOT 968; CAD P 154 | gloss withheld |
 | Syrian Aramaic | prūktā 'veil, curtain' (Payne Smith 458) | Payne Smith 458 |  |
 | Phoenician | prkm (HALOT 968) | HALOT 968 |  |
 

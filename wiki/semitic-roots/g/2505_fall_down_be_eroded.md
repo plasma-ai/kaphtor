@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | cf. ǯadaš- 'hard ground', ǯadis- 'hard and firm; uncultivated ground; erased (track, trace)' BK 1 264 | BK 1 264 |  |
 | Mehri | ǝngǝrdōŝ, gǝrdīŝ JM 124 | JM 124 | gloss withheld |
 | Harsusi | agerdōŝ, engerdōŝ, gerdīŝ |  | gloss withheld |
-| Ugaritic | grdš DLU 150 | DLU 150 | gloss withheld |
+| Ugaritic | grdš (DULAT 304) | DULAT 304 | gloss withheld |
 | Jibbali | ǝngɛrdéŝ, gɛrdés JJ 78 | JJ 78 | gloss withheld |
 | Syrian Aramaic | gardeš, etpa. Br 132 |  | gloss withheld |
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | râṣu 1 |  |  |
 | Mandaic Aramaic | rhṭ 2 (Drower/Macuch 426b apud CAL) | Macuch 426b; CAL |  |
-| Ugaritic | rẓ 2 DLU 396 | DLU 396 |  |
+| Ugaritic | rẓ 2 DULAT 738 | DULAT 738 |  |
 | Geez | roṣa 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 26) | Kogan 2015, ch. 2 §5.2.2.1 no. 26 |  |
 | Hebrew | rwṣ 2 |  |  |
 | Amharic | roṭä 2 |  |  |

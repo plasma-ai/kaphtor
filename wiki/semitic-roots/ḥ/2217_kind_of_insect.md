@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ḥsn \[DLU 182\] | DLU 182 | gloss withheld |
+| Ugaritic | ḥsn \[DULAT 368\] | DULAT 368 | gloss withheld |
 | Geez | ḥasen \[LGz. 245\]. | LGz. 245 | gloss withheld |
 | Amharic | ašän, ašen \[K 1181\]. | K 1181 | gloss withheld |
 | Tigrinya | ḥasen \[LGz. 245\]. | LGz. 245 | gloss withheld |

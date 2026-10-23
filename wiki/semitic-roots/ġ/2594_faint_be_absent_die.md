@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ɣǝyōb (JM 146) | JM 146 | gloss withheld |
 | Harsusi | ɣāb, ɣeyōb JH 48 | JH 48 | gloss withheld |
 | Jibbali | E. Jib. ɣáb (JM 146) | JM 146 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic nġbt (Al-Jallad–Jaworska, 104) | Al-Jallad–Jaworska 104 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nġbt (Al-Jallad–Jaworska 104) | Al-Jallad–Jaworska 104 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

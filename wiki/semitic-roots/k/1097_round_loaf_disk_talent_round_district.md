@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | kakkaru |  |  |
 | Hebrew | kikkār |  |  |
 | Punic | kkr 'talent' | Anderson–Moser 2024 root kkr |  |
-| Ugaritic | kkr /kakkaru/ (UVST, 136) | UVST 136 | gloss withheld |
+| Ugaritic | kkr /kakkaru/ (UVST 136) | UVST 136 | gloss withheld |
 | Syrian Aramaic | kakrā 'talent (weight, money)' (Payne Smith 214) | Payne Smith 214 |  |
-| Phoenician | kkr (T, 141) | T 141 | gloss withheld |
+| Phoenician | kkr (T 141) | T 141 | gloss withheld |
 | Aramaic | EgArm. kkr, knkr (HALOT 473) | HALOT 473 |  |
-| Epigraphic South Arabian | Sab krkr (Biella, 252; HALOT 473) | Biella 252; HALOT 473 | gloss withheld |
-| Judaic Aramaic | kakraʾ (T, 141) | T 141 |  |
+| Epigraphic South Arabian | Sab krkr (Biella 252; HALOT 473; Sabaweb lemma 4474) | Biella 252; HALOT 473; Sabaweb lemma 4474 | gloss withheld |
+| Judaic Aramaic | kakraʾ (T 141) | T 141 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

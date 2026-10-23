@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ḥrn (DULAT, 363) | DULAT 363 | gloss withheld |
-| Phoenician | ḥrn (DNWSI, 376) | DNWSI 376 | gloss withheld |
+| Ugaritic | ḥrn (DULAT 363) | DULAT 363 | gloss withheld |
+| Phoenician | ḥwrn (KAI 27:16 apud HALOT 1752) | KAI 27:16; HALOT 1752 | gloss withheld |
 | Hebrew | bêt-ḥōrôn (HALOT 126) | HALOT 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

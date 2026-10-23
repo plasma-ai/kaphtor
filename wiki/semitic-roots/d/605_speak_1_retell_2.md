@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | dbr \[-u-\] 2 (Lane 844) | Lane 844 |  |
-| Akkadian | dabābu (CAD D, 2) | CAD D, 2 | gloss withheld |
-| Ugaritic | dbr (DULAT, 261) | DULAT 261 | gloss withheld |
+| Akkadian | dabābu (CAD D 2) | CAD D 2 | gloss withheld |
+| Ugaritic | dbr (DULAT 261) | DULAT 261 | gloss withheld |
 | Phoenician | dbr 1 |  |  |
 | Hebrew | dbr 1 |  |  |
 

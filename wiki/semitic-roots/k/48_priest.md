@@ -31,15 +31,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | kumru OA, Mari; kumirtu (f.) (HALOT 482) | HALOT 482 |  |
-| Phoenician | kmr; kmr (T, 144) | T 144 | gloss withheld |
+| Phoenician | kmr; kmr (T 144) | T 144 | gloss withheld |
 | Hebrew | komär |  |  |
 | Aramaic | kmr |  |  |
 | Canaanite | kamiru (HALOT 482) | HALOT 482 | gloss withheld |
 | Syrian Aramaic | kumrā (HALOT 482) | HALOT 482 |  |
 | Amorite | kumrum (Gelb AS 21, 23) | Gelb AS 21 23 | gloss withheld |
-| Judaic Aramaic | kūmraʾ (T, 144) | T 144 |  |
-| Mandaic Aramaic | kumraʾ (T, 144) | T 144 |  |
-| Ugaritic | /kumru/? (UVST, 137) | UVST 137 | gloss withheld |
+| Judaic Aramaic | kūmraʾ (T 144) | T 144 |  |
+| Mandaic Aramaic | kumraʾ (T 144) | T 144 |  |
+| Ugaritic | /kumru/? (UVST 137) | UVST 137 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

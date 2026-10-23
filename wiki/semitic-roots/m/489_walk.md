@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | mšy i,1 (Lane 3020) | Lane 3020 |  |
 | Modern Arabic | Leb māša, Mec mišiy, Mlt meša |  |  |
-| Epigraphic South Arabian | Sab ms2y (SD 87 apud SEDonline 2133) | SD 87; SEDonline 2133 | gloss withheld |
+| Epigraphic South Arabian | Sab ms2y (SD 87 apud SEDonline 2133; Sabaweb lemma 4563) | SD 87; SEDonline 2133; Sabaweb lemma 4563 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

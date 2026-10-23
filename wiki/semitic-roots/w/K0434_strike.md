@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | waqʿa 'strike' | Anderson–Moser 2024 root wqʿ |  |
-| Arabic | waqaʿa (LGz., 615) | LGz. 615 |  |
-| Hebrew | yāqaʿ (LGz., 615) | LGz. 615 | gloss withheld |
-| Tigre | wäqʿa (LGz., 615) | LGz. 615 | gloss withheld |
-| Tigrinya | wäqʿe (LGz., 615) | LGz. 615 |  |
-| Amharic | wäqqa (LGz., 615) | LGz. 615 |  |
-| Argobba | wäqqa (LGz., 615) | LGz. 615 |  |
-| Gurage | wäq(q)a (LGz., 615) | LGz. 615 |  |
+| Arabic | waqaʿa (LGz. 615) | LGz. 615 |  |
+| Hebrew | yāqaʿ (LGz. 615) | LGz. 615 | gloss withheld |
+| Tigre | wäqʿa (LGz. 615) | LGz. 615 | gloss withheld |
+| Tigrinya | wäqʿe (LGz. 615) | LGz. 615 |  |
+| Amharic | wäqqa (LGz. 615) | LGz. 615 |  |
+| Argobba | wäqqa (LGz. 615) | LGz. 615 |  |
+| Gurage | wäq(q)a (LGz. 615) | LGz. 615 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

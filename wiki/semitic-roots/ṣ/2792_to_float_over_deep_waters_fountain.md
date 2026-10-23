@@ -31,15 +31,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | miṣwāl- |  | gloss withheld |
-| Ugaritic | mṣlt (Gibson CML 151 apud DULAT, 578); (DLU 298) | DULAT 578; DLU 298 | gloss withheld |
+| Ugaritic | mṣlt (Gibson CML 151 apud DULAT 579); (DULAT 579) | DULAT 579; DULAT 579 | gloss withheld |
 | Hebrew | ṣll (HALOT 1027); mǝṣūlā (HALOT 623) | HALOT 1027; HALOT 623 | gloss withheld |
 | Judaic Aramaic | mᵉṣūlā (HALOT 623) | HALOT 623 | gloss withheld |
 | Geez | ṣalala (HALOT 1027) | HALOT 1027 |  |
 | Syrian Aramaic | ṣal (HALOT 1027) | HALOT 1027 | gloss withheld |
-| Akkadian | ṣalālu (LGz., 555) | LGz. 555 | gloss withheld |
-| Tigrinya | ṣälälä (LGz., 555) | LGz. 555 | gloss withheld |
-| Amharic | č̣ällälä (LGz., 555) | LGz. 555 | gloss withheld |
-| Gurage | č̣äläll bälä (LGz., 555) | LGz. 555 | gloss withheld |
+| Akkadian | ṣalālu (LGz. 555) | LGz. 555 | gloss withheld |
+| Tigrinya | ṣälälä (LGz. 555) | LGz. 555 | gloss withheld |
+| Amharic | č̣ällälä (LGz. 555) | LGz. 555 | gloss withheld |
+| Gurage | č̣äläll bälä (LGz. 555) | LGz. 555 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

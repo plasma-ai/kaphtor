@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔalyā (HALOT 55) | HALOT 55 | gloss withheld |
 | Amharic | lat \[K 84\] | K 84 | gloss withheld |
 | Judaic Aramaic | ʔalyǝtā, ʔallītā \[Ja 70\]; ʔlyyh, det. ʔlyyth do. \[Sok 59-60\] | Ja 70; Sok 59-60 | gloss withheld |
-| Syrian Aramaic | ʔellītā 'cauda' \[Brock 21\] | Brock 21 |  |
+| Syrian Aramaic | ʔellītā 'tail' \[Brock 21\] | Brock 21 |  |
 | Modern Arabic | Syr. líyye \[Maʕṣarānī–Segal 446\] |  | gloss withheld |
 | Harari | lǟt \[LHar. 101\] | LHar. 101 | gloss withheld |
 

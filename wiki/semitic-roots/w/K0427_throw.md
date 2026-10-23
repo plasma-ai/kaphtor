@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 | Geez | wadaya 'add' | Anderson–Moser 2024 root wdy |  |
 | Hebrew | yadah 'throw' | Anderson–Moser 2024 root wdy |  |
 | Ugaritic | ydy 'throw' | Anderson–Moser 2024 root wdy |  |
-| Arabic | ʾawdā (wdy) (LGz., 605) | LGz. 605 | gloss withheld |
-| Aramaic | ʾāḏi, yəḏi (LGz., 605) | LGz. 605 |  |
-| Tigre | wäda (LGz., 605) | LGz. 605 | gloss withheld |
-| Tigrinya | wädäyä (LGz., 605) | LGz. 605 | gloss withheld |
+| Arabic | ʾawdā (wdy) (LGz. 605) | LGz. 605 | gloss withheld |
+| Aramaic | ʾāḏi, yəḏi (LGz. 605) | LGz. 605 |  |
+| Tigre | wäda (LGz. 605) | LGz. 605 | gloss withheld |
+| Tigrinya | wädäyä (LGz. 605) | LGz. 605 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

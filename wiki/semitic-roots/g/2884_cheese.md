@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gəbīnā 'cheese, curd' (BDB 148) | BDB 148 |  |
 | Aramaic | gubnā (HALOT 173) | HALOT 173 | gloss withheld |
 | Syrian Aramaic | gubnē (HALOT 173) | HALOT 173 |  |
-| Mehri | ǧiben (LGz., 178) | LGz. 178 |  |
-| Akkadian | gubnatu, gabān (LGz., 178) | LGz. 178 |  |
+| Mehri | ǧiben (LGz. 178) | LGz. 178 |  |
+| Akkadian | gubnatu, gabān (LGz. 178) | LGz. 178 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

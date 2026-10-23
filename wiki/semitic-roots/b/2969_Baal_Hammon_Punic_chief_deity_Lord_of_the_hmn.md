@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Phoenician | bʕl ḥmn (KAI 24, Kilamuwa Stela, c. 838 BCE) | KAI 24, Kilamuwa Stela, c. 838 BCE | gloss withheld |
-| Punic | bʕl ḥmn (Krahmalkov, 113, s.v. BʿLḤMN; KAI 78.2/4); consort of Tanit | Krahmalkov 113, s.v. BʿLḤMN; KAI 78.2/4 | gloss withheld |
+| Punic | bʕl ḥmn (Krahmalkov 113, s.v. BʿLḤMN; KAI 78.2/4); consort of Tanit | Krahmalkov 113, s.v. BʿLḤMN; KAI 78.2/4 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

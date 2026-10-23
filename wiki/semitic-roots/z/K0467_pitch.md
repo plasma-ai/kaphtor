@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ziptu 'pitch' | Anderson–Moser 2024 root zpt |  |
 | Arabic | zift (HALOT 277) | HALOT 277 |  |
 | Judaic Aramaic | zptʾ (HALOT 277; DJPA 181a apud CAL) | HALOT 277; DJPA 181a; CAL |  |
-| Hebrew | zẹpẹt (LGz., 632) | LGz. 632 |  |
-| Syrian Aramaic | zeptā, zeḇtā (LGz., 632; Payne Smith 119) | LGz. 632; Payne Smith 119 |  |
-| Tigre | zəft (LGz., 632) | LGz. 632 | gloss withheld |
-| Amharic | zəft (LGz., 632) | LGz. 632 | gloss withheld |
+| Hebrew | zẹpẹt (LGz. 632) | LGz. 632 |  |
+| Syrian Aramaic | zeptā, zeḇtā (LGz. 632; Payne Smith 119) | LGz. 632; Payne Smith 119 |  |
+| Tigre | zəft (LGz. 632) | LGz. 632 | gloss withheld |
+| Amharic | zəft (LGz. 632) | LGz. 632 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

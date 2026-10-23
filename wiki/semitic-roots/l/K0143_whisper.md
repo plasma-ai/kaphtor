@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | lḫšt 'chatter' | Anderson–Moser 2024 root lḫš |  |
 | Mandaic Aramaic | lhš, nhš (HALOT 527) | HALOT 527 | gloss withheld |
 | Phoenician | lḥš (HALOT 527) | HALOT 527 |  |
-| Geez | laḥosasa, ʾalḥosasa (LGz., 311) | LGz. 311 | gloss withheld |
-| Syrian Aramaic | ləḥeš (LGz., 311; Payne Smith 240) | LGz. 311; Payne Smith 240 |  |
-| Tigrinya | loḥsäsä, läḥosäsä (LGz., 311) | LGz. 311 |  |
+| Geez | laḥosasa, ʾalḥosasa (LGz. 311) | LGz. 311 | gloss withheld |
+| Syrian Aramaic | ləḥeš (LGz. 311; Payne Smith 240) | LGz. 311; Payne Smith 240 |  |
+| Tigrinya | loḥsäsä, läḥosäsä (LGz. 311) | LGz. 311 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

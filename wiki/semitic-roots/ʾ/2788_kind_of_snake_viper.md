@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔafʕan 'viper' (BK 2, 616); ʔafʕawān- \[BK 2 616\] | BK 2, 616; BK 2 616 |  |
-| Ugaritic | ʔapʕ \[DLU 43\] | DLU 43 | gloss withheld |
+| Ugaritic | ʔapʕ \[DULAT 85\] | DULAT 85 | gloss withheld |
 | Hebrew | ʔäpʕǟ (HALOT 79) | HALOT 79 | gloss withheld |
 | Geez | ʔafʕot \[LGz. 9\] | LGz. 9 |  |
 | Tigre | ʔafʕot \[LH 389\] | LH 389 |  |

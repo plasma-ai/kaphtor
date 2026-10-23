@@ -40,10 +40,10 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | gabbā 'back, body' \[Ja 203\]; cf. gōnǝbā, gǝnūbtā 'tail' \[ibid. 257\]; gōb; gūb | Ja 203; ibid. 257 |  |
 | Syrian Aramaic | gabbā, st. abs. and cstr. genb 'side' \[Brock 123\] | Brock 123 |  |
 | Aramaic | OLD PLM gb \[HJ 207\] | HJ 207 | gloss withheld |
-| Epigraphic South Arabian | Sab gnb (SD, 50) | SD 50 | gloss withheld |
-| Geez | gabo (LGz., 176) | LGz. 176 | gloss withheld |
+| Epigraphic South Arabian | Sab gnb (SD 50; Sabaweb lemma 1257) | SD 50; Sabaweb lemma 1257 | gloss withheld |
+| Geez | gabo (LGz. 176) | LGz. 176 | gloss withheld |
 | Ugaritic | gb (SED I 79) | SED I 79 |  |
-| Harsusi | yanb (SED I 79) | SED I 79 |  |
+| Harsusi | yanb (SED I 80) | SED I 80 |  |
 | Tigrinya | gobo (SED I 80) | SED I 80 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

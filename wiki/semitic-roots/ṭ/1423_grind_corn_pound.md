@@ -32,20 +32,20 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṭḥn \[-a-\] |  |  |
 | Mehri | ṭeḥan |  |  |
-| Soqotri | ṭaḥan |  |  |
+| Soqotri | ṭaḥan; ṭáḥan (SLOnline 7383) |  | gloss withheld |
 | Harsusi | ṭeḥan |  |  |
 | Jibbali | ṭaḥan |  |  |
 | Hebrew | ṭḥn |  |  |
-| Geez | ṭaḥana 'grind' | Anderson–Moser 2024 root ṭḥn |  |
-| Ugaritic | ṭḥn 'grind' | Anderson–Moser 2024 root ṭḥn |  |
+| Geez | ṭaḥana (LGz. 590) | LGz. 590 | gloss withheld |
+| Ugaritic | ṭḥn (DULAT 875) | DULAT 875 | gloss withheld |
 | Epigraphic South Arabian | ṭḥn (HALOT 374) | HALOT 374 |  |
 | Akkadian | ṭēnu (HALOT 374) | HALOT 374 |  |
-| Aramaic | ṭəḥan (LGz., 590) | LGz. 590 |  |
-| Syrian Aramaic | ṭəḥen (LGz., 590) | LGz. 590 |  |
-| Tigrinya | ṭäḥanä (LGz., 590) | LGz. 590 |  |
-| Tigre | ṭäḥana (LGz., 590) | LGz. 590 |  |
-| Harari | ṭäḥana (LGz., 590) | LGz. 590 |  |
-| Eblaitic | ṭa-ʾà-nu-um (Kogan 2011, 241) | Kogan 2011, 241 |  |
+| Aramaic | ṭəḥan (LGz. 590) | LGz. 590 |  |
+| Syrian Aramaic | ṭəḥen (LGz. 590) | LGz. 590 |  |
+| Tigrinya | ṭäḥanä (LGz. 590) | LGz. 590 |  |
+| Tigre | ṭäḥana (LGz. 590) | LGz. 590 |  |
+| Harari | ṭäḥana (LGz. 590) | LGz. 590 |  |
+| Eblaitic | ṭa-ʾà-nu-um (Kogan 2011, 241; VE 656; Krebernik 1983, 25) | Kogan 2011, 241; VE 656; Krebernik 1983, 25 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

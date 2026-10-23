@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | nwḥ |  |  |
 | Syrian Aramaic | nwḥ |  |  |
 | Tigrinya | näwwiḥ |  | gloss withheld |
-| Phoenician | nḥ (Krahmalkov, 327); mnḥ (T, 186) | Krahmalkov 327; T 186 | gloss withheld |
+| Phoenician | nḥ (Krahmalkov 327); mnḥ (T 186) | Krahmalkov 327; T 186 | gloss withheld |
 | Amorite | nwḫ: janūḫ, nāḫum, nīḫum, nīḫatum (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
 | Judaic Aramaic | nwḥ (HALOT 679) | HALOT 679 | gloss withheld |
 | Canaanite | nuḫti (HALOT 679) | HALOT 679 |  |

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʾwl (SD, 10; Biella, 9) | SD 10; Biella 9 | gloss withheld |
-| Arabic | Ar ʾāla (w) (Lane 125) D (Lane 126; Biella, 9) | Lane 125; Lane 126; Biella 9 | gloss withheld |
+| Epigraphic South Arabian | Sab ʾwl (SD 10; Biella 9; Sabaweb lemma 1612) | SD 10; Biella 9; Sabaweb lemma 1612 | gloss withheld |
+| Arabic | Ar ʾāla (w) (Lane 125) D (Lane 126; Biella 9) | Lane 125; Lane 126; Biella 9 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

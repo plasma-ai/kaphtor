@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | nagaḥ 'push' (BDB 618) | BDB 618 |  |
 | Arabic | ngḥ (HALOT 667) | HALOT 667 |  |
 | Judaic Aramaic | nagḥānā (HALOT 667) | HALOT 667 | gloss withheld |
-| Ugaritic | ngḥ (DUL 622 apud SEDonline 770) | DUL 622; SEDonline 770 | gloss withheld |
+| Ugaritic | ngḥ (DULAT 614) | DULAT 614 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

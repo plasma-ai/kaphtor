@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | dalaḳ- 'stone marten' \[BK 1 725\] | BK 1 725 |  |
-| Tigre | dǝḳala (also dogala, däḳala ?) hǝmum LT 524-5; dǝḳala ḥayät, pl. dǝḳalatat ḥayät LT 525 |  | gloss withheld |
+| Tigre | dǝḳala (also dogala, däḳala ?) hǝmum LH 524-5; dǝḳala ḥayät, pl. dǝḳalatat ḥayät LH 525 | LH 524; LH 525 | gloss withheld |
 | Geez | ʔǝllǝdku LGz 18 | LGz 18 | gloss withheld |
 | Amharic | dalga anbäsa K 1716 | K 1716 | gloss withheld |
 | Tigrinya | dalga ʔanbäsa |  | gloss withheld |

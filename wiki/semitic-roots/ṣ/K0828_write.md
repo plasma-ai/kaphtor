@@ -32,12 +32,12 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ṣuppu 'decorate' | Anderson–Moser 2024 root ṣḥp |  |
 | Arabic | ṣaḥafa (Leslau CDG 552) | Leslau CDG 552 | gloss withheld |
 | Geez | ṣaḥafa 'write' | Anderson–Moser 2024 root ṣḥp |  |
-| Epigraphic South Arabian | Sab ṣḥf (SD, 142; Biella, 421) | SD 142; Biella 421 | gloss withheld |
-| Tigre | ṣäḥfa (LGz., 552) | LGz. 552 |  |
-| Tigrinya | ṣäḥafä (LGz., 552) | LGz. 552 |  |
-| Gurage | ṣafä (LGz., 552) | LGz. 552 |  |
-| Amharic | ṣafä, ṭafä (LGz., 552) | LGz. 552 |  |
-| Argobba | ṭafa (LGz., 552) | LGz. 552 |  |
+| Epigraphic South Arabian | Sab ṣḥf (SD 142; Biella 421; Sabaweb lemma 5184) | SD 142; Biella 421; Sabaweb lemma 5184 | gloss withheld |
+| Tigre | ṣäḥfa (LGz. 552) | LGz. 552 |  |
+| Tigrinya | ṣäḥafä (LGz. 552) | LGz. 552 |  |
+| Gurage | ṣafä (LGz. 552) | LGz. 552 |  |
+| Amharic | ṣafä, ṭafä (LGz. 552) | LGz. 552 |  |
+| Argobba | ṭafa (LGz. 552) | LGz. 552 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

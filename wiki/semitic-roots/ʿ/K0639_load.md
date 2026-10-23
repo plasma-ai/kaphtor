@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʿamisa (HALOT 846) | HALOT 846 |  |
 | Tigre | ʿamsa (HALOT 846) | HALOT 846 |  |
 | Amorite | ʿms: jaʿmus, jāʿmis (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
-| Phoenician | ʿms: yʿmsn (T, 250) | T 250 | gloss withheld |
+| Phoenician | ʿms: yʿmsn (T 250) | T 250 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

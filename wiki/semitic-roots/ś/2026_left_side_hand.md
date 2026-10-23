@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ŝǝmō(ʔ)l (HALOT 1332, 1333). | HALOT 1332, 1333 | gloss withheld |
 | Judaic Aramaic | sǝmālā 'left side' \[Ja 1002\]. | Ja 1002 |  |
 | Syrian Aramaic | sǝmālā 'left (side)', adj. 'left' \[Brock 481\] | Brock 481 |  |
-| Epigraphic South Arabian | Sab šʾml (Biella, 510); Sab. s₂ʔm \[SD 130\], Min. s₂ʔm \[LM 85\] | Biella 510; SD 130; LM 85 | gloss withheld |
+| Epigraphic South Arabian | Sab šʾml (Biella 510); Sab. s₂ʔm \[SD 130\], Min. s₂ʔm \[LM 85\] | Biella 510; SD 130; LM 85 | gloss withheld |
 | Aramaic | smʾl 'left' | Anderson–Moser 2024 root śml |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

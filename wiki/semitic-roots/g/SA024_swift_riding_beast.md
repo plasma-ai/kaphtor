@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab gwd (SD, 51; Biella, 67) | SD 51; Biella 67 | gloss withheld |
-| Arabic | Ar jawād (Biella, 67) | Biella 67 | gloss withheld |
+| Epigraphic South Arabian | Sab gwd (SD 51; Biella 67; Sabaweb lemma 4174) | SD 51; Biella 67; Sabaweb lemma 4174 | gloss withheld |
+| Arabic | Ar jawād (Biella 67) | Biella 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

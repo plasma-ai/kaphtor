@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/61_friend_associate_with
 title: "*rīʕ-: 'friend', 'associate with'"
-desc: "Proto-Semitic *rīʕ-, 'friend', 'associate with': reflexes in 11 language(s)."
+desc: "Proto-Semitic *rīʕ-, 'friend', 'associate with': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "61"
@@ -33,14 +33,15 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | rūʔu |  | gloss withheld |
 | Hebrew | rēaʕ \| rʕy II (HALOT 1262) | HALOT 1262 | gloss withheld |
 | Geez | raʿawa 'yoke' | Anderson–Moser 2024 root rʿ |  |
-| Ugaritic | rʿ (CUC; DULAT, 715) | CUC; DULAT 715 | gloss withheld |
+| Ugaritic | rʿ (CUC; DULAT 715) | CUC; DULAT 715 | gloss withheld |
 | Aramaic | rʿh, rʿyn (HALOT 1253) | HALOT 1253 |  |
 | Judaic Aramaic | rəʿūtā (HALOT 1265) | HALOT 1265 | gloss withheld |
 | Amorite | riʿum (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
-| Phoenician | rʿ (root rʿy) (B, 409) | B 409 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic rʿ (Al-Jallad–Jaworska, 113) | Al-Jallad–Jaworska 113 | gloss withheld |
+| Phoenician | rʿ (root rʿy) (B 409) | B 409 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rʿ (Al-Jallad–Jaworska 113) | Al-Jallad–Jaworska 113 | gloss withheld |
 | Tigre | räwʕa (Leslau CDG 459) | Leslau CDG 459 | gloss withheld |
 | Tigrinya | räwʕe (Leslau CDG 459) | Leslau CDG 459 | gloss withheld |
+| Eblaitic | la-ù-um /raʕum/ (VE 1061; Krebernik 1983, 38) | VE 1061; Krebernik 1983, 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

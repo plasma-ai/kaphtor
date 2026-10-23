@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nfš \[-u-\] (Lane 2829) | Lane 2829 |  |
-| Akkadian | napāšu B (CAD N1, 291) | CAD N1, 291 | gloss withheld |
+| Akkadian | napāšu B (CAD N/1 291) | CAD N/1 291 | gloss withheld |
 | Syrian Aramaic | npas 'hackle, card wool' (Payne Smith 345) | Payne Smith 345 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

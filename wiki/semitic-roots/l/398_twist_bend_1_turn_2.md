@@ -34,11 +34,11 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | lewō 2 |  |  |
 | Harsusi | lewō 2 |  |  |
 | Jibbali | lwy 2 |  |  |
-| Geez | lawaya (LGz., 322); lawawa (LGz., 321) | LGz. 322; LGz. 321 | gloss withheld |
-| Hebrew | lūlāʾōṯ, liwyā (LGz., 322) | LGz. 322 | gloss withheld |
-| Akkadian | lawû (LGz., 322) | LGz. 322 | gloss withheld |
-| Tigrinya | läwäyä (LGz., 322) | LGz. 322 |  |
-| Tigre | läwla, läwya (LGz., 322) | LGz. 322 | gloss withheld |
+| Geez | lawaya (LGz. 322); lawawa (LGz. 321) | LGz. 322; LGz. 321 | gloss withheld |
+| Hebrew | lūlāʾōṯ, liwyā (LGz. 322) | LGz. 322 | gloss withheld |
+| Akkadian | lawû (LGz. 322) | LGz. 322 | gloss withheld |
+| Tigrinya | läwäyä (LGz. 322) | LGz. 322 |  |
+| Tigre | läwla, läwya (LGz. 322) | LGz. 322 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

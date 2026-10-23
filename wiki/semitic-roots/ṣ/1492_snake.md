@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/1492_snake
 title: "*ṣV[ʕ]Vr-: 'snake'"
-desc: "Proto-Semitic *ṣV[ʕ]Vr-, 'snake': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ṣV[ʕ]Vr-, 'snake': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1492"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ṣēru |  |  |
+| Eblaitic | za-rí-um /ṢāriHum/ (VE 740); a-za-ra(-ra)-rí-tum (VE 741) (Krebernik 1983, 28) | VE 740; VE 741; Krebernik 1983, 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

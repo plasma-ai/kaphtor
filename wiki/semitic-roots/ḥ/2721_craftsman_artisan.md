@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ḥrš (DUL, 366) | DUL 366 | gloss withheld |
-| Phoenician | ḥrš (Krahmalkov, 198); ḥrš (B, 318; T, 114) | Krahmalkov 198; B 318; T 114 | gloss withheld |
+| Ugaritic | ḥrš (DULAT 366); /ḥarră̄šu/ (UVST 126) | DULAT 366; UVST 126 | gloss withheld |
+| Phoenician | ḥrš (Krahmalkov 198); ḥrš (B 318; T 114) | Krahmalkov 198; B 318; T 114 | gloss withheld |
 | Hebrew | ḥārāš (HALOT 358) | HALOT 358 | gloss withheld |
 | Akkadian | eršu (HALOT 358) | HALOT 358 | gloss withheld |
 

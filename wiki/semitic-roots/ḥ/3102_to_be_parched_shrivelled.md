@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ḫamadīru (CAD Ḫ 57, AHw. 315 apud SEDonline 1599) | CAD Ḫ 57, AHw. 315; SEDonline 1599 | gloss withheld |
-| Ugaritic | ḥmdrt (DUL 362, Watson 2007: 85 apud SEDonline 1599) | DUL 362, Watson 2007: 85; SEDonline 1599 | gloss withheld |
+| Ugaritic | ḥmdrt (DULAT 357; Watson 2007: 85 apud SEDonline 1599) | DULAT 357; SEDonline 1599 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

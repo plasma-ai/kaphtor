@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḥaḳw-, ḥiḳw- 'that part of the body which is at the bottom of the ribs; belt/waist' \[BK 1 469\] | BK 1 469 |  |
 | Soqotri | (?) QALAN-V ḥanṣ̌ǝ̄ḳɔh d-rhɛy (d-ṭā́deʕ) \[SSL 4 95\]. | SSL 4 95 | gloss withheld |
 | Tigre | ḥǝḳäḳ (pl.) \[LH 77\]. | LH 77 | gloss withheld |
-| Ugaritic | /ḥēḳu/ (UVST, 124) (alphabetically not attested) | UVST 124 | gloss withheld |
+| Ugaritic | /ḥēḳu/ (UVST 124) (alphabetically not attested) | UVST 124 | gloss withheld |
 | East Ethiopic | SEL anč̣ä, ZWY anč̣i do. \[LGur 56\] | LGur 56 |  |
 | Geez | ḥaḳʷe (also ḥawḳe, ḥawḳʷe) \[LGz 239\]. | LGz 239 | gloss withheld |
 | Gurage | MSQ anḳ'ä do. \[LGur 72\] | LGur 72 |  |

@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Geez | l-w-z 'almond tree' (Dillmann 00405) | Dillmann 00405 |  |
 | Arabic | lauz (HALOT 522) | HALOT 522 |  |
 | Tigre | lauz (HALOT 522) | HALOT 522 |  |
-| Syrian Aramaic | lūz, lūzā (LGz., 322) | LGz. 322 |  |
-| Mandaic Aramaic | luza (LGz., 322) | LGz. 322 |  |
+| Syrian Aramaic | lūz, lūzā (LGz. 322) | LGz. 322 |  |
+| Mandaic Aramaic | luza (LGz. 322) | LGz. 322 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

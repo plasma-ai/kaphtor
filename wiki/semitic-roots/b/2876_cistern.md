@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | birkat (Lane 194; HALOT 161) | Lane 194; HALOT 161 | gloss withheld |
-| Ugaritic | brkt/y (DULAT, 235) | DULAT 235 | gloss withheld |
-| Epigraphic South Arabian | brkt (SD, 31) | SD 31 | gloss withheld |
+| Ugaritic | brkt/y (DULAT 235) | DULAT 235 | gloss withheld |
+| Epigraphic South Arabian | brkt (SD 31; Sabaweb lemma 3968) | SD 31; Sabaweb lemma 3968 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

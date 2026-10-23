@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḍmm \[-u-\] |  |  |
 | Geez | ḍmm |  |  |
-| Tigre | ṣämma (LGz., 150) | LGz. 150 | gloss withheld |
-| Amharic | č̣ämäč̣č̣ämä, ṭämäṭṭämä (LGz., 150) | LGz. 150 | gloss withheld |
+| Tigre | ṣämma (LGz. 150) | LGz. 150 | gloss withheld |
+| Amharic | č̣ämäč̣č̣ämä, ṭämäṭṭämä (LGz. 150) | LGz. 150 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

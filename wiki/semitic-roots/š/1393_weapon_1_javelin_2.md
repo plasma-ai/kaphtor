@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | šlḥ 2 \| šlḥ (KTU 1.6 vi 18) | KTU 1.6 vi 18 | gloss withheld |
 | Hebrew | šelaḥ 2 |  |  |
 | Aramaic | šilḥa 1 |  |  |
-| Pre-Islamic North Arabian | Safaitic slḥ (Al-Jallad–Jaworska, 147) | Al-Jallad–Jaworska 147 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic slḥ (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

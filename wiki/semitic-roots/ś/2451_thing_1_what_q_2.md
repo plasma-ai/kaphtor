@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | šayʔ- 1, 2 |  |  |
 | Mehri | ŝī, obl. ŝīǝn, -ŝǝn, hɛ̄ŝǝn 2 |  | gloss withheld |
-| Soqotri | ŝī, ŝiʔ 1 |  |  |
+| Soqotri | ŝī, ŝiʔ 1; ŝi (SLOnline 7488) |  | gloss withheld |
 | Harsusi | ŝī, ŝǝy |  |  |
 | Jibbali | ŝé 1 |  |  |
 

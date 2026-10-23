@@ -34,16 +34,16 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | iy, ay (HALOT 37) | HALOT 37 | gloss withheld |
 | Epigraphic South Arabian | ʾy (HALOT 37) | HALOT 37 |  |
 | Arabic | ʾayyu (HALOT 38) | HALOT 38 |  |
-| Hebrew | ʾayye, meʾayin (LGz., 51) | LGz. 51 | gloss withheld |
-| Aramaic | ʾe, ʾayye (LGz., 51) | LGz. 51 | gloss withheld |
-| Syrian Aramaic | ʾay-kā (LGz., 51) | LGz. 51 | gloss withheld |
-| Tigre | ʾaya, ʾəttäya, ʾatäy (LGz., 51) | LGz. 51 | gloss withheld |
-| Tigrinya | ʾay in ʾabäy, ʾayti (LGz., 51) | LGz. 51 | gloss withheld |
-| Amharic | yät (LGz., 51) | LGz. 51 | gloss withheld |
-| Argobba | yed (LGz., 51) | LGz. 51 | gloss withheld |
-| Gurage | et (LGz., 51) | LGz. 51 | gloss withheld |
+| Hebrew | ʾayye, meʾayin (LGz. 51) | LGz. 51 | gloss withheld |
+| Aramaic | ʾe, ʾayye (LGz. 51) | LGz. 51 | gloss withheld |
+| Syrian Aramaic | ʾay-kā (LGz. 51) | LGz. 51 | gloss withheld |
+| Tigre | ʾaya, ʾəttäya, ʾatäy (LGz. 51) | LGz. 51 | gloss withheld |
+| Tigrinya | ʾay in ʾabäy, ʾayti (LGz. 51) | LGz. 51 | gloss withheld |
+| Amharic | yät (LGz. 51) | LGz. 51 | gloss withheld |
+| Argobba | yed (LGz. 51) | LGz. 51 | gloss withheld |
+| Gurage | et (LGz. 51) | LGz. 51 | gloss withheld |
 | Amorite | ʾajja, ʾajjan, ʾajji, ʾijja (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
-| Phoenician | ʾy (B, 265) | B 265 | gloss withheld |
+| Phoenician | ʾy (B 265) | B 265 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

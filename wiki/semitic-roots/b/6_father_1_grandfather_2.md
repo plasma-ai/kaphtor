@@ -31,11 +31,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | bābā 1 (BK 1, 78) | BK 1, 78 |  |
-| Soqotri | bébe (bāba) 1 (LS, 80) | LS 80 |  |
+| Soqotri | bébe (bāba) 1 (LS 80) | LS 80 |  |
 | Mandaic Aramaic | baba 1 (DM 45) | DM 45 |  |
-| Gurage | Eža bʷäbbo, bäbbo (LGur, 129) | LGur 129 | gloss withheld |
+| Gurage | Eža bʷäbbo, bäbbo (LGur 129) | LGur 129 | gloss withheld |
 | Modern Aramaic | bâbâ 1 (Maclean 24) | Maclean 24 |  |
-| Harari | bāb (in address: bābā) 2 (LHar, 39) | LHar 39 |  |
+| Harari | bāb (in address: bābā) 2 (LHar 39) | LHar 39 |  |
 | Syrian Aramaic | bābā 1 (Brock 57) | Brock 57 |  |
 | Akkadian | Abba (OLA80 §32.6) | OLA80 §32.6 | gloss withheld |
 | Hebrew | ʔabbā (OLA80 §28.13) | OLA80 §28.13 | gloss withheld |

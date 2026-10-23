@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Punic | šmr 'keep' | Anderson–Moser 2024 root šmr |  |
 | Hebrew | mišmār; mišmeret (HALOT 649); šmr (HALOT 1581) | HALOT 649; HALOT 1581 | gloss withheld |
-| Phoenician | šmr (T, 325) | T 325 | gloss withheld |
+| Phoenician | šmr (T 325) | T 325 | gloss withheld |
 | Judaic Aramaic | šmr (itpa.) (HALOT 1581) | HALOT 1581 | gloss withheld |
 | Ugaritic | ḏmr (HALOT 1581) | HALOT 1581 | gloss withheld |
 | Epigraphic South Arabian | ḏmr (HALOT 1581) | HALOT 1581 | gloss withheld |

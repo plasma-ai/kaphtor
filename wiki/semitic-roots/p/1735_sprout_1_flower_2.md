@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | farḫ- 1 (Lane 2362) | Lane 2362 |  |
 | Akkadian | perʔu 1 (rather &lt;\*pVr-) |  |  |
-| Ugaritic | prḫ (DULAT, 669) | DULAT 669 | gloss withheld |
+| Ugaritic | prḫ (DULAT 669) | DULAT 669 | gloss withheld |
 | Geez | farḫa 1 |  |  |
 | Hebrew | peraḥ 2 |  |  |
 | Syrian Aramaic | parḥ- 2 |  |  |

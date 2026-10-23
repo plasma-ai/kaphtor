@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | kamasa 'austere' | Anderson–Moser 2024 root kmš |  |
 | Geez | kamosasa 'serious' | Anderson–Moser 2024 root kmš |  |
-| Tigre | kəmsəs bela (LGz., 286) | LGz. 286 | gloss withheld |
-| Tigrinya | kəmass bälä, (ʾa)ḵmäsmäsä (LGz., 286) | LGz. 286 | gloss withheld |
+| Tigre | kəmsəs bela (LGz. 286) | LGz. 286 | gloss withheld |
+| Tigrinya | kəmass bälä, (ʾa)ḵmäsmäsä (LGz. 286) | LGz. 286 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

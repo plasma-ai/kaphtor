@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | gʷaro 3 |  |  |
 | Aramaic | Eg ʔgr 1 (DNWSI 12 apud CAL) | DNWSI 12; CAL |  |
 | Tigrinya | gʷaro 3 Kane 2251 |  |  |
-| Geez | māʾəgar (LGz., 323) | LGz. 323 | gloss withheld |
+| Geez | māʾəgar (LGz. 323) | LGz. 323 | gloss withheld |
 | Syrian Aramaic | ʔegārā 'roof, house-top; altar top' (Payne Smith 3) | Payne Smith 3 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

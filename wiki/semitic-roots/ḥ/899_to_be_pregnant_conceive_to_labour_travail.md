@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | hamblat (under HBL, HMBL paʕ), mhambla \[DM 129\]. | DM 129 | gloss withheld |
 | Hebrew | ḥbl (piʕ) (HALOT 286) | HALOT 286 | gloss withheld |
 | Judaic Aramaic | ḥăbal 'to travail' \[Ja 420\] | Ja 420 |  |
-| Syrian Aramaic | ḥǝbal 'parturivit; concepit' \[Brock 210\] | Brock 210 |  |
+| Syrian Aramaic | ḥǝbal 'gave birth; conceived' \[Brock 210\] | Brock 210 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

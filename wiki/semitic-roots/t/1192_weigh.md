@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/1192_weigh
 title: "*tVkVn-: 'weigh'"
-desc: "Proto-Semitic *tVkVn-, 'weigh': reflexes in 3 language(s)."
+desc: "Proto-Semitic *tVkVn-, 'weigh': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1192"
@@ -30,8 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šakānu (CAD Š1, 116) | CAD Š1, 116 | gloss withheld |
-| Ugaritic | tkn (DULAT, 854) | DULAT 854 | gloss withheld |
+| Ugaritic | tkn (DULAT 854) | DULAT 854 | gloss withheld |
 | Hebrew | tkn |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kamāsum (CAD K, 114) | CAD K, 114 | gloss withheld |
+| Akkadian | kamāsum (CAD K 114) | CAD K 114 | gloss withheld |
 | Hebrew | k-m-s 'store up' (BDB 485) | BDB 485 |  |
 | Amorite | kms (Gelb AS 21, 23) | Gelb AS 21 23 | gloss withheld |
-| Punic | kmst (Neo-Punic; Krahmalkov, 232) | Krahmalkov 232 | gloss withheld |
+| Punic | kmst (Neo-Punic; Krahmalkov 232) | Krahmalkov 232 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

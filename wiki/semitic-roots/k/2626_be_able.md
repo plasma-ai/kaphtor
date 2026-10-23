@@ -33,14 +33,14 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Wol. čalä |  | gloss withheld |
 | Gurage | Sod. šalä, Chaha ḵaräm |  | gloss withheld |
 | Gafat | šalä |  | gloss withheld |
-| Epigraphic South Arabian | Sab khl (SD, 77; Biella, 241) | SD 77; Biella 241 | gloss withheld |
-| Geez | kəhla (LGz., 277) | LGz. 277 | gloss withheld |
-| Arabic | (Dat) kahil, kāhil, kahala (LGz., 277) | LGz. 277 | gloss withheld |
-| Soqotri | khel (LGz., 277) | LGz. 277 | gloss withheld |
-| Aramaic | khel (LGz., 277; DNWSI 489 apud CAL) | LGz. 277; DNWSI 489; CAL |  |
-| Tigre | kähala (LGz., 277) | LGz. 277 |  |
-| Tigrinya | käʾalä (LGz., 277) | LGz. 277 |  |
-| Argobba | čahala (LGz., 277) | LGz. 277 |  |
+| Epigraphic South Arabian | Sab khl (SD 77; Biella 241) | SD 77; Biella 241 | gloss withheld |
+| Geez | kəhla (LGz. 277) | LGz. 277 | gloss withheld |
+| Arabic | (Dat) kahil, kāhil, kahala (LGz. 277) | LGz. 277 | gloss withheld |
+| Soqotri | khel (LGz. 277) | LGz. 277 | gloss withheld |
+| Aramaic | khel (LGz. 277; DNWSI 489 apud CAL) | LGz. 277; DNWSI 489; CAL |  |
+| Tigre | kähala (LGz. 277) | LGz. 277 |  |
+| Tigrinya | käʾalä (LGz. 277) | LGz. 277 |  |
+| Argobba | čahala (LGz. 277) | LGz. 277 |  |
 | Jibbali | khɛl (Kogan 2015, ch. 2 §4.2 no. 29) | Kogan 2015, ch. 2 §4.2 no. 29 | gloss withheld |
 | Mehri | kəhēl (Kogan 2015, ch. 2 §4.2 no. 29) | Kogan 2015, ch. 2 §4.2 no. 29 | gloss withheld |
 

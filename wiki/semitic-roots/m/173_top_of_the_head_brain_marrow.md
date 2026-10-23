@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | muḫḫ- 'moelle, cervelle' \[BK 2 1071\]; nuḫḫ-, naḫāḫat- 'moelle' \[BK 2 1219\]. \| muḫḫ 'marrow' (Lane 2692) | BK 2 1071; BK 2 1219; Lane 2692 |  |
+| Arabic | muḫḫ- 'marrow, brain' \[BK 2 1071\]; nuḫḫ-, naḫāḫat- 'marrow' \[BK 2 1219\]. \| muḫḫ 'marrow' (Lane 2692) | BK 2 1071; BK 2 1219; Lane 2692 |  |
 | Akkadian | muḫḫu OAkk on \[CAD m2 172\], \[AHw 667\] | CAD m2 172; AHw 667 | gloss withheld |
 | Eblaitic | mu-ḫu-um /muḫḫum/ \[Kr 12; Fr 173; Bl E No. 70\] | Kr 12; Fr 173 | gloss withheld |
 | Mandaic Aramaic | muha \[DM 260\] | DM 260 | gloss withheld |
@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | MMND mōx al-rīša \[M MND 494\] AZRB moxa \[Garb 320\] | Garb 320 | gloss withheld |
 | Hebrew | mōăḥ (HALOT 567) | HALOT 567 | gloss withheld |
 | Judaic Aramaic | mōăḥ (mōḥā) \[Ja 740\]; mwḥ \[Sok 294\] | Ja 740; Sok 294 | gloss withheld |
-| Syrian Aramaic | muḥḥā 'cerebrum, medulla' \[Brock 379\] | Brock 379 |  |
+| Syrian Aramaic | muḥḥā 'brain, marrow' \[Brock 379\] | Brock 379 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Pun. bmḥsp 'pottery', JA ḥaspā and Mand. haspā (T, 171), BA ḥăsap (LGz., 552), with s, and Ar. ḫazaf (T, 171; LGz., 552), with z, are irregular for \*ṣ. LGz. 552 compares Gz. ṣāḥb 'vessel, jar, bowl' (metathesis).
+Pun. bmḥsp 'pottery', JA ḥaspā and Mand. haspā (T 171), BA ḥăsap (LGz. 552), with s, and Ar. ḫazaf (T 171; LGz. 552), with z, are irregular for \*ṣ. LGz. 552 compares Gz. ṣāḥb 'vessel, jar, bowl' (metathesis).
 
 <!-- END kaphtor:record -->

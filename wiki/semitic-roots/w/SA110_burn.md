@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wfṭ (SD, 158; Biella, 137) | SD 158; Biella 137 | gloss withheld |
-| Geez | wafaṭa (LGz., 607) | LGz. 607 | gloss withheld |
+| Epigraphic South Arabian | Sab wfṭ (SD 158; Biella 136-7; Sabaweb lemma 5375) | SD 158; Biella 136-7; Sabaweb lemma 5375 | gloss withheld |
+| Geez | wafaṭa (LGz. 607) | LGz. 607 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

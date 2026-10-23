@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | bhʔr 1 |  |  |
 | Hebrew | bāhīr 1, bhr 2 |  |  |
 | Aramaic | (Palest) ša-bhar 2 |  |  |
-| Syrian Aramaic | (ša)bhar (LGz., 103) | LGz. 103 | gloss withheld |
-| Harari | zənāb bāra (LGz., 103) | LGz. 103 | gloss withheld |
+| Syrian Aramaic | (ša)bhar (LGz. 103) | LGz. 103 | gloss withheld |
+| Harari | zənāb bāra (LGz. 103) | LGz. 103 | gloss withheld |
 | Gurage | Muh. Gog. Sod. barrä, Msq. baňňä (EDG 150 apud SEDonline 1380) | EDG 150; SEDonline 1380 | gloss withheld |
 | East Ethiopic | Sel. bāre, Wol. bare, Zwy. bārī (EDG 150 apud SEDonline 1380) | EDG 150; SEDonline 1380 | gloss withheld |
 

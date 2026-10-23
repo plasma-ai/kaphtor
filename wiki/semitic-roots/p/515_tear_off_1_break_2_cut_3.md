@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | parāru 1 |  |  |
 | Hebrew | prr, pwr 2 |  |  |
 | Judaic Aramaic | prr 2 |  |  |
-| Ugaritic | pr (CUC; DULAT, 670) | CUC; DULAT 670 | gloss withheld |
+| Ugaritic | pr (CUC; DULAT 670) | CUC; DULAT 670 | gloss withheld |
 | Aramaic | DA prr (DNWSI 944 apud SEDonline 1321) | DNWSI 944; SEDonline 1321 | gloss withheld |
 | Mehri | frōr (ML 97 apud SEDonline 1321) | ML 97; SEDonline 1321 | gloss withheld |
 

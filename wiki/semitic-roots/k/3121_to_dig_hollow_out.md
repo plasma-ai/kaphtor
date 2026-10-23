@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | karaya (LGz., 294) | LGz. 294 | gloss withheld |
-| Arabic | karā (LGz., 295); krw (HALOT 496) | LGz. 295; HALOT 496 |  |
-| Hebrew | kārā (HALOT 496); kārā (LGz., 295) | HALOT 496; LGz. 295 | gloss withheld |
-| Mandaic Aramaic | kra (LGz., 295) | LGz. 295 |  |
-| Ugaritic | kry (LGz., 295) | LGz. 295 |  |
-| Tigre | kära (LGz., 295) | LGz. 295 |  |
-| Amharic | käräyyä (LGz., 295) | LGz. 295 |  |
-| Gurage | käre (LGz., 295) | LGz. 295 |  |
+| Geez | karaya (LGz. 294) | LGz. 294 | gloss withheld |
+| Arabic | karā (LGz. 295); krw (HALOT 496) | LGz. 295; HALOT 496 |  |
+| Hebrew | kārā (HALOT 496); kārā (LGz. 295) | HALOT 496; LGz. 295 | gloss withheld |
+| Mandaic Aramaic | kra (LGz. 295) | LGz. 295 |  |
+| Ugaritic | kry (LGz. 295) | LGz. 295 |  |
+| Tigre | kära (LGz. 295) | LGz. 295 |  |
+| Amharic | käräyyä (LGz. 295) | LGz. 295 |  |
+| Gurage | käre (LGz. 295) | LGz. 295 |  |
 | East Ethiopic | Sel. käre \[LHar 97\] | LHar 97 |  |
 | Harari | xara \[LHar 97\] | LHar 97 | gloss withheld |
 

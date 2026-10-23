@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Punic | ṣmq (T, 278) | T 278 | gloss withheld |
+| Punic | ṣmq (T 278) | T 278 | gloss withheld |
 | Judaic Aramaic | ṣəmūqā (HALOT 1033) | HALOT 1033 |  |
 | Ugaritic | ṣmq(m) (HALOT 1033) | HALOT 1033 |  |
 | Hebrew | ṣimmūḳīm (HALOT 1033 apud SEDonline 286) | HALOT 1033; SEDonline 286 | gloss withheld |

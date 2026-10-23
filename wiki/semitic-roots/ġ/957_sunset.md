@@ -43,12 +43,12 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʕrb, ʕärä̆b |  | gloss withheld |
 | Syrian Aramaic | ʕǝreb |  |  |
 | Tigrinya | ʕaräbä |  | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ġrb (Al-Jallad–Jaworska, 75) | Al-Jallad–Jaworska 75 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ġrb (Al-Jallad–Jaworska 75) | Al-Jallad–Jaworska 75 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Ug. ʕrb, Akk. erēbu and Sab. mʕrb continue \*ʕrb 'enter' (2675); Hebrew, Aramaic and Geʿez ʕ cannot tell \*ʕ from \*ɣ. Harari artu, ōrtu 'night' either &lt; Cu, or &lt;ʕrb 'with disappearance of b" LHar 32.
+Ug. ʕrb, Akk. erēbu and Sab. mʕrb continue \*ʕrb 'enter' (2675); Hebrew, Aramaic and Geʿez ʕ cannot tell \*ʕ from \*ɣ. Harari artu, ōrti 'night' either &lt; Cu, or &lt;ʕrb 'with disappearance of b" LHar 32.
 
 <!-- END kaphtor:record -->

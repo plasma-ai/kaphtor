@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | muġlanbin (Lane 2280); ġalaba (Biella, 395) | Lane 2280; Biella 395 | gloss withheld |
-| Epigraphic South Arabian | Sab ġlb (SD, 53); (Biella, 395) | SD 53; Biella 395 | gloss withheld |
+| Arabic | muġlanbin (Lane 2280); ġalaba (Biella 395) | Lane 2280; Biella 395 | gloss withheld |
+| Epigraphic South Arabian | Sab ġlb (SD 53; Sabaweb lemma 4199); (Biella 395) | SD 53; Sabaweb lemma 4199; Biella 395 | gloss withheld |
 | Syrian Aramaic | ʕlab 'overreach, defraud; surpass, exceed' (Payne Smith 414) | Payne Smith 414 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/2519_night
 title: "*layl-: 'night'"
-desc: "Proto-Semitic *layl-, 'night': reflexes in 19 language(s)."
+desc: "Proto-Semitic *layl-, 'night': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2519"
@@ -42,13 +42,14 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | Urm layl- |  |  |
 | Hebrew | laylā |  |  |
 | Amharic | let |  |  |
-| Epigraphic South Arabian | lly |  |  |
+| Epigraphic South Arabian | lly (Sabaweb lemma 2056) | Sabaweb lemma 2056 | gloss withheld |
 | Harari | läyl-i, lēl-i |  |  |
 | Syrian Aramaic | lely- |  |  |
 | Gafat | litä |  |  |
 | Aramaic | Pal lēlē |  |  |
 | Tigrinya | läyt-i |  |  |
-| Pre-Islamic North Arabian | Safaitic ll (Al-Jallad–Jaworska, 92) | Al-Jallad–Jaworska 92 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ll (Al-Jallad–Jaworska 92) | Al-Jallad–Jaworska 92 | gloss withheld |
+| Soqotri | ľéľhe (LS 233; SLOnline 7783) | LS 233 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

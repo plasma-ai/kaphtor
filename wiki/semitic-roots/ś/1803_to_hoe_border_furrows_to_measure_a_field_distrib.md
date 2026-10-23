@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šadādu OAkk. on (CAD Š1, 27; AHw, 1121) | CAD Š1, 27; AHw 1121 | gloss withheld |
-| Gurage | \*sādä (LGur., 535) | LGur. 535 | gloss withheld |
-| Hebrew | ŝdd (pi.) (HALOT 1306), pB. ŝad (Ja., 1523) | HALOT 1306; Ja. 1523 | gloss withheld |
+| Akkadian | šadādu OAkk. on (CAD Š/1 27; AHw 1121) | CAD Š/1 27; AHw 1121 | gloss withheld |
+| Gurage | \*sādä (LGur. 535) | LGur. 535 | gloss withheld |
+| Hebrew | ŝdd (pi.) (HALOT 1306), pB. ŝad (Ja. 1523) | HALOT 1306; Ja. 1523 | gloss withheld |
 | Judaic Aramaic | sdd (pa.) (HALOT 1306) | HALOT 1306 | gloss withheld |
 | Harari | seʔada, šiǯa (-ǯ- &lt;\*-d-) |  | gloss withheld |
 | Ugaritic | šdd (HALOT 1306) | HALOT 1306 |  |

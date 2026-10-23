@@ -34,12 +34,12 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | gly 1 |  |  |
 | Hebrew | gly 2,3 |  |  |
 | Aramaic | gly 2,3 |  |  |
-| Phoenician | gly (T, 65) | T 65 | gloss withheld |
+| Phoenician | gly (T 65) | T 65 | gloss withheld |
 | Geez | galaya 'reveal, uncover' (Dillmann 08258) | Dillmann 08258 |  |
-| Syrian Aramaic | gəlā (gly) (LGz., 193); glag 3 (Payne Smith 70); galleg (LGz., 190) | LGz. 193; Payne Smith 70; LGz. 190 | gloss withheld |
-| Mandaic Aramaic | gla (gly) (LGz., 193) | LGz. 193 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic glw (Al-Jallad–Jaworska, 72) | Al-Jallad–Jaworska 72 | gloss withheld |
-| Judaic Aramaic | gālūt (HALOT 193); gelaʾ (T, 65) | HALOT 193; T 65 | gloss withheld |
+| Syrian Aramaic | gəlā (gly) (LGz. 193); glag 3 (Payne Smith 70); galleg (LGz. 190) | LGz. 193; Payne Smith 70; LGz. 190 | gloss withheld |
+| Mandaic Aramaic | gla (gly) (LGz. 193) | LGz. 193 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic glw (Al-Jallad–Jaworska 72) | Al-Jallad–Jaworska 72 | gloss withheld |
+| Judaic Aramaic | gālūt (HALOT 193); gelaʾ (T 65) | HALOT 193; T 65 | gloss withheld |
 | Biblical Aramaic | gālūt (HALOT 193) | HALOT 193 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

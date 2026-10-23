@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | slḥ (HALOT 757) | HALOT 757 | gloss withheld |
 | Judaic Aramaic | slḥ (HALOT 757) | HALOT 757 | gloss withheld |
-| Amorite | slḥ: Ya-as-la-a\[ḫ-\] (Huffmon APNM, 246) | Huffmon APNM 246 | gloss withheld |
+| Amorite | slḥ: Ya-as-la-a\[ḫ-\] (Huffmon APNM 246) | Huffmon APNM 246 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

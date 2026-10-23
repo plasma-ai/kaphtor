@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1863_tendon_muscle_vein_nerve_root
 title: "*ʕa/irḳ-: 'tendon, muscle, vein, nerve; root'"
-desc: "Proto-Semitic *ʕa/irḳ-, 'tendon, muscle, vein, nerve; root': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʕa/irḳ-, 'tendon, muscle, vein, nerve; root': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1863"
@@ -36,7 +36,6 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ʔarḳ, ʔāreḳ \[JH 10\] | JH 10 | gloss withheld |
 | Tigre | ʕäräḳ \[LH 459\] | LH 459 | gloss withheld |
 | Epigraphic South Arabian | SAB ʕrḳ \[SD 19\] | SD 19; Biella 385 | gloss withheld |
-| Harari | (?) ḥaräq \[LHar 86\]. | LHar 86 | gloss withheld |
 | Jibbali | ʕarḳ (SED I 22) | SED I 22 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -43,12 +43,12 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ḥdr 'chamber' | Anderson–Moser 2024 root ḥḍr |  |
 | Judaic Aramaic | ḥuṭrā (HALOT 345; DJBA 450a apud CAL) | HALOT 345; DJBA 450a; CAL |  |
 | Aramaic | ḥyrtʾ (HALOT 345) | HALOT 345 |  |
-| Tigrinya | ḥaṣärä (LGz., 247) | LGz. 247 | gloss withheld |
-| Argobba | haṭṭära (LGz., 247) | LGz. 247 | gloss withheld |
-| Harari | ḥēṭära (LGz., 247) | LGz. 247 | gloss withheld |
-| Amharic | aṭṭärä (LGz., 247) | LGz. 247 | gloss withheld |
-| Gurage | aṭärä (LGz., 247) | LGz. 247 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥḍr (Al-Jallad–Jaworska, 84) | Al-Jallad–Jaworska 84 | gloss withheld |
+| Tigrinya | ḥaṣärä (LGz. 247) | LGz. 247 | gloss withheld |
+| Argobba | haṭṭära (LGz. 247) | LGz. 247 | gloss withheld |
+| Harari | ḥēṭära (LGz. 247) | LGz. 247 | gloss withheld |
+| Amharic | aṭṭärä (LGz. 247) | LGz. 247 | gloss withheld |
+| Gurage | aṭärä (LGz. 247) | LGz. 247 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥḍr (Al-Jallad–Jaworska 84) | Al-Jallad–Jaworska 84 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

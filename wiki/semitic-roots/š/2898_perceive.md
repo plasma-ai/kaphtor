@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | šʿr (Biella, 521) | Biella 521 | gloss withheld |
+| Epigraphic South Arabian | šʿr (Biella 521) | Biella 521 | gloss withheld |
 | Hebrew | šʿr 'reason out, calculate, reckon' (BDB 1045) | BDB 1045 |  |
 | Judaic Aramaic | səʿar (HALOT 1344) | HALOT 1344 |  |
 | Mandaic Aramaic | SAR, SUR (HALOT 1344) | HALOT 1344 |  |

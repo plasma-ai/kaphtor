@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | tnt (Krahmalkov, 495, s.v. TNT-ʿŠTRT) | Krahmalkov 495, s.v. TNT-ʿŠTRT | gloss withheld |
-| Punic | tnt (Krahmalkov, 415, s.v. ṢD-TNT); tnt pn bʕl | Krahmalkov 415, s.v. ṢD-TNT | gloss withheld |
-| Greek | Θινιθ, Θεννειθ (Krahmalkov, 495, s.v. TNT-PNBʿL) | Krahmalkov 495, s.v. TNT-PNBʿL |  |
+| Phoenician | tnt (Krahmalkov 495, s.v. TNT-ʿŠTRT) | Krahmalkov 495, s.v. TNT-ʿŠTRT | gloss withheld |
+| Punic | tnt (Krahmalkov 415, s.v. ṢD-TNT); tnt pn bʕl | Krahmalkov 415, s.v. ṢD-TNT | gloss withheld |
+| Greek | Θινιθ, Θεννειθ (Krahmalkov 495, s.v. TNT-PNBʿL) | Krahmalkov 495, s.v. TNT-PNBʿL |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

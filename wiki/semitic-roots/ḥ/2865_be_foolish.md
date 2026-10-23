@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḥamiqa, ḥamuqa (HALOT 330) | HALOT 330 | gloss withheld |
 | Geez | ḥ-m-q 'be foolish, mentally troubled' (Dillmann 00564–00565) | Dillmann 00564–00565 |  |
 | Tigre | ḥamqa (HALOT 330) | HALOT 330 | gloss withheld |
-| Tigrinya | ḥamäqä (LGz., 234) | LGz. 234 | gloss withheld |
+| Tigrinya | ḥamäqä (LGz. 234) | LGz. 234 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

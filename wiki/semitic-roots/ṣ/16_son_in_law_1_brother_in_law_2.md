@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Soqotri ṣéher 1 (LS, 347) (Arabism?).
+Soqotri ṣéher 1 (LS 347) (Arabism?).
 
 <!-- END kaphtor:record -->

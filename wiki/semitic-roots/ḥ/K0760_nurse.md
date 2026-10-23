@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫaṣānu; (?) ḫuṣannu (SED I 117) | SED I 117 | gloss withheld |
 | Aramaic | ḤʿN 'clasp' | Anderson–Moser 2024 root ḥḍn |  |
 | Geez | ḥaḍana; ḥəḍn (SED I 117) | SED I 117 | gloss withheld |
-| Hebrew | ḥeṣen; ḥōṣän, with suffixes ḥoṣn-, ḥiṣn- (SED I 117) | SED I 117 | gloss withheld |
+| Hebrew | ḥeṣen; ḥōṣän (SED I 117); suff. ḥoṣn- (HALOT 344) | SED I 117; HALOT 344 | gloss withheld |
 | Judaic Aramaic | ḥēnā (SED I 117) | SED I 117 | gloss withheld |
 | Arabic | ḥiḍn- (SED I 117) | SED I 117 | gloss withheld |
 | Tigre | ḥaṣən (SED I 118) | SED I 118 | gloss withheld |

@@ -29,13 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | sadaqa (yəsdəq) (LGz., 486) | LGz. 486 | gloss withheld |
-| Gurage | sädäqä (LGz., 486) | LGz. 486 |  |
+| Geez | sadaqa (yəsdəq) (LGz. 486) | LGz. 486 | gloss withheld |
+| Gurage | sädäqä (LGz. 486) | LGz. 486 |  |
 | East Ethiopic | Sel. Wol. Zwy. sädäqä, Wol. sädäʾä \[LHar 137\] | LHar 137 |  |
 | Harari | sēdäqa \[LHar 137\] | LHar 137 | gloss withheld |
-| Hebrew | pB. sedeq (LGz., 486) | LGz. 486 |  |
-| Syrian Aramaic | sdeq (Payne Smith 361); sədaq (LGz., 486) | Payne Smith 361; LGz. 486 | gloss withheld |
-| Mandaic Aramaic | sdq (LGz., 486) | LGz. 486 |  |
+| Hebrew | pB. sedeq (LGz. 486) | LGz. 486 |  |
+| Syrian Aramaic | sdeq (Payne Smith 361); sədaq (LGz. 486) | Payne Smith 361; LGz. 486 | gloss withheld |
+| Mandaic Aramaic | sdq (LGz. 486) | LGz. 486 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

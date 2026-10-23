@@ -29,18 +29,18 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz., 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
-| Tigrinya | bärri (TED 1110 apud SEDonline 1972) \| bärri (LGz., 107) | TED 1110; SEDonline 1972; LGz. 107 | gloss withheld |
+| Tigre | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz. 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
+| Tigrinya | bärri (TED 1110 apud SEDonline 1972) \| bärri (LGz. 107) | TED 1110; SEDonline 1972; LGz. 107 | gloss withheld |
 | Amharic | bärr (AED 875 apud SEDonline 1972) | AED 875; SEDonline 1972 | gloss withheld |
-| Argobba | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz., 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
-| Gafat | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz., 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
-| Gurage | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz., 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
-| Harari | bäri (LGz., 107) | LGz. 107 |  |
+| Argobba | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz. 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
+| Gafat | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz. 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
+| Gurage | bär, var. bärr (EDG 149 apud SEDonline 1972) \| bär(r) (LGz. 107) | EDG 149; SEDonline 1972; LGz. 107 | gloss withheld |
+| Harari | bäri (LGz. 107) | LGz. 107 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Proto-Ethiopian (SEDonline 1972). Cf. 650 \*birr- (Akk. birru 'kind of door or window'). \| Leslau files these nouns under brr III 'pierce, penetrate' (LGz., 107); see 1321.
+Proto-Ethiopian (SEDonline 1972). Cf. 650 \*birr- (Akk. birru 'kind of door or window'). \| Leslau files these nouns under brr III 'pierce, penetrate' (LGz. 107); see 1321.
 
 <!-- END kaphtor:record -->

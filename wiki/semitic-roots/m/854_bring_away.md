@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mtʕ a,1,12 |  |  |
-| Ugaritic | mtʿ (CUC; DULAT, 591) | CUC; DULAT 591 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic mtʿ (Al-Jallad–Jaworska, 100) | Al-Jallad–Jaworska 100 | gloss withheld |
+| Ugaritic | mtʿ (CUC; DULAT 591) | CUC; DULAT 591 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mtʿ (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

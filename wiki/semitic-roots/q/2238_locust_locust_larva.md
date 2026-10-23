@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳaṣam- 'grasshopper eggs' \[BK 2 755\], \[Fr. III 457\], \[Q II 166\], ḳaṣām- 'locust' \[Dozy II 360\] (only in Saadiya's translation of Ps 78.46, = Hbr. ḥāsīl). | BK 2 755; Fr. III 457; Q II 166; Dozy II 360 |  |
-| Ugaritic | ḳṣm \[DLU 375\] | DLU 375; DLU | gloss withheld |
+| Ugaritic | ḳṣm \[DULAT 705\] | DULAT 705; DLU | gloss withheld |
 | Amharic | ḳǝč̣am \[K 844\]; ḳʷəč̣ač̣ (K 846). | K 844; K 846 | gloss withheld |
 | Tigre | ḳäṣ, ḳäč̣ (LH 264) | LH 264 | gloss withheld |
 

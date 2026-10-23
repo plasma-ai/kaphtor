@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ḥanep (HALOT 335) | HALOT 335 | gloss withheld |
-| Ugaritic | ḫnp (DULAT, 393) | DULAT 393 | gloss withheld |
+| Ugaritic | ḫnp (DULAT 393) | DULAT 393 | gloss withheld |
 | Amorite | ḫanpatum (Gelb AS 21, 20) | Gelb AS 21 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fanaqa 'reared' | Anderson–Moser 2024 root pnq |  |
-| Aramaic | PNQ 'pamper' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | PNQ (Aramaic Root Atlas; CAL s.v. pnq) | Aramaic Root Atlas; CAL s.v. pnq | gloss withheld |
 | Hebrew | panaq 'indulge' (BDB 819) | BDB 819 |  |
 | Syrian Aramaic | paneq 'pamper, indulge; live luxuriously' (Payne Smith 451) | Payne Smith 451 |  |
 

@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | zwb 2 (otherwise &lt;\*zwb, cf. 1585) |  |  |
 | Judaic Aramaic | dwb 1 (DJPA 140b apud CAL) | DJPA 140b; CAL |  |
 | Syrian Aramaic | dwb 1 (Payne Smith 84) | Payne Smith 84 |  |
-| Epigraphic South Arabian | mḏb (HALOT 266) | HALOT 266 | gloss withheld |
+| Epigraphic South Arabian | mḏb (HALOT 266; Sabaweb lemma 4056) | HALOT 266; Sabaweb lemma 4056 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

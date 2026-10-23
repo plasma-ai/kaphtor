@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0162_weigh_scales
 title: "*mVzVn-: 'weigh; scales'"
-desc: "Proto-Semitic *mVzVn-, 'weigh; scales': reflexes in 10 language(s)."
+desc: "Proto-Semitic *mVzVn-, 'weigh; scales': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0162"
@@ -31,14 +31,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | mazzana 'weigh' | Anderson–Moser 2024 root mzn |  |
 | Ugaritic | mzn 'weight' | Anderson–Moser 2024 root mzn |  |
-| Arabic | mīzān (LGz., 379) | LGz. 379 | gloss withheld |
-| Punic | mʾzn: mʾznm (T, 163) | T 163 | gloss withheld |
+| Arabic | mīzān (LGz. 379) | LGz. 379 | gloss withheld |
+| Punic | mʾzn: mʾznm (T 163) | T 163 | gloss withheld |
 | Hebrew | mōʾzᵉnayim (HALOT 539) | HALOT 539 | gloss withheld |
 | Judaic Aramaic | mwznyʾ (HALOT 539) | HALOT 539 |  |
 | Aramaic | EgArm. mwznʾ (HALOT 539) | HALOT 539 |  |
 | Mandaic Aramaic | muzane (HALOT 539) | HALOT 539 |  |
-| Syrian Aramaic | mozneyaʾ (T, 163) | T 163 |  |
-| Biblical Aramaic | mʾoznaiaʾ (T, 163) | T 163 |  |
+| Syrian Aramaic | mozneyaʾ (T 163) | T 163 |  |
+| Biblical Aramaic | mʾoznaiaʾ (T 163) | T 163 |  |
+| Eblaitic | wa-za-núm, wa-za-nu-um /waz(a)num/ (VE 409a; Krebernik 1983, 16) | VE 409a; Krebernik 1983, 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

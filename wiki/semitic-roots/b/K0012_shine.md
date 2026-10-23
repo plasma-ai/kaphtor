@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | bahiqa 'affected' | Anderson–Moser 2024 root bhq |  |
-| Aramaic | BHQ (C) 'to shine' (Ja., 143) | Ja. 143 |  |
+| Aramaic | BHQ (C) 'to shine' (Ja. 143) | Ja. 143 |  |
 | Syrian Aramaic | ʔabheq 'shine white, glitter' (Payne Smith 36) | Payne Smith 36 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

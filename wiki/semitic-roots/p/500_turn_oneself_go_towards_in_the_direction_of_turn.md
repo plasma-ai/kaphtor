@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fnn \[-u-\] 'drive (camels)' (Lane 2446) | Lane 2446 |  |
-| Soqotri | fini |  | gloss withheld |
+| Soqotri | fini; fíni (SLOnline 3707) |  | gloss withheld |
 | Akkadian | panû |  | gloss withheld |
 | Tigre | fäna |  | gloss withheld |
 | Mandaic Aramaic | pna |  | gloss withheld |

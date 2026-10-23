@@ -31,12 +31,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṭbʕ \[-a-\] (Lane 1823) | Lane 1823 |  |
-| Akkadian | ṭebû (CAD Ṭ, 67) | CAD Ṭ, 67 | gloss withheld |
-| Phoenician | ṭbʿt (Krahmalkov, 201) | Krahmalkov 201 | gloss withheld |
+| Akkadian | ṭebû (CAD Ṭ 67) | CAD Ṭ 67 | gloss withheld |
+| Phoenician | ṭbʿt (Krahmalkov 201) | Krahmalkov 201 | gloss withheld |
 | Hebrew | ṭābaʕ (HALOT 370) | HALOT 370 | gloss withheld |
 | Aramaic | ṬBʿ (Aramaic Root Atlas; DNWSI 419 apud CAL) | Aramaic Root Atlas; DNWSI 419; CAL | gloss withheld |
 | Syrian Aramaic | ṭbaʕ 'sink, be immersed; imprint, seal, coin' (Payne Smith 166) | Payne Smith 166 |  |
-| Judaic Aramaic | ṭebaʿ (T, 119) | T 119 |  |
+| Judaic Aramaic | ṭebaʿ (T 119) | T 119 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

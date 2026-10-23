@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mnḥ \[-a-, -i-\] 'give, offer' (BK 2 1156) | BK 2 1156 |  |
-| Ugaritic | mnḥ DLU 282-283 | DLU 282 | gloss withheld |
-| Phoenician | mnḥt (Krahmalkov, 295) | Krahmalkov 295 | gloss withheld |
+| Ugaritic | mnḥ (DULAT 555) | DULAT 555 | gloss withheld |
+| Phoenician | mnḥt (Krahmalkov 295) | Krahmalkov 295 | gloss withheld |
 | Hebrew | minḥā (HALOT 601) | HALOT 601 | gloss withheld |
 | Tigre | mannaḥa (HALOT 601) | HALOT 601 |  |
 | Judaic Aramaic | minḥātā (HALOT 601) | HALOT 601 |  |

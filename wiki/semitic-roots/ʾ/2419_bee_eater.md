@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | warwār- 'bee-eater (bird)' (BK 2 1526, Fr. IV 459) | BK 2 1526, Fr. IV 459 |  |
-| Akkadian | arru MB on (CAD A2, 305; AHw. 71) | CAD A2, 305; AHw. 71 | gloss withheld |
+| Akkadian | arru MB on (CAD A/2 305; AHw. 71) | CAD A/2 305; AHw. 71 | gloss withheld |
 | Tigrinya | ʔirir, ʔǝrir (K Tna 1439-40) | K Tna 1439-40 | gloss withheld |
-| Punic | ʾrr: ʾrrm (T, 33) | T 33 | gloss withheld |
+| Punic | ʾrr: ʾrrm (T 33) | T 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

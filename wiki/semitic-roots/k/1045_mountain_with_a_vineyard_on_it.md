@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | karm- (HALOT 498) after AHw; (it will turn into tells and ruins) CAD K 218; karāmu ibid. 201 | HALOT 498; CAD K 218 | gloss withheld |
 | Harsusi | kermaym |  | gloss withheld |
 | Ugaritic | krm (Kogan 2015, ch. 3 §5.2 no. 31) | Kogan 2015, ch. 3 §5.2 no. 31 | gloss withheld |
-| Phoenician | krm (Krahmalkov, 242) | Krahmalkov 242 | gloss withheld |
+| Phoenician | krm (Krahmalkov 242) | Krahmalkov 242 | gloss withheld |
 | Hebrew | käräm (Kogan 2015, ch. 3 §5.2 no. 31) | Kogan 2015, ch. 3 §5.2 no. 31 | gloss withheld |
 | Syrian Aramaic | karm- |  | gloss withheld |
 | Aramaic | karm- |  | gloss withheld |

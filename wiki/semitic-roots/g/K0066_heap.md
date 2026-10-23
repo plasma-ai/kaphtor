@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | gabasa 'gather' | Anderson–Moser 2024 root gbš |  |
-| Aramaic | gəḇaš (LGz., 179) | LGz. 179 | gloss withheld |
-| Akkadian | gupšu (LGz., 179) | LGz. 179 | gloss withheld |
-| Amharic | gäbbäsä (LGz., 179) | LGz. 179 | gloss withheld |
+| Aramaic | gəḇaš (LGz. 179) | LGz. 179 | gloss withheld |
+| Akkadian | gupšu (LGz. 179) | LGz. 179 | gloss withheld |
+| Amharic | gäbbäsä (LGz. 179) | LGz. 179 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | marīr- (Lane 2701) | Lane 2701 |  |
 | Akkadian | marmaru |  |  |
-| Phoenician | mrr ? (B, 354) | B 354 | gloss withheld |
+| Phoenician | mrr ? (B 354) | B 354 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

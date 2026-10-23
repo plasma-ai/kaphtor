@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | hădōm (Isa 66:1; Ps 110:1; HALOT 239) | HALOT 239 | gloss withheld |
-| Ugaritic | hdm (HALOT 239; DULAT, 329) | HALOT 239; DULAT 329 | gloss withheld |
+| Ugaritic | hdm (HALOT 239; DULAT 329) | HALOT 239; DULAT 329 | gloss withheld |
 | Aramaic | EgArm. hdmw, hadmu (HALOT 239) | HALOT 239 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

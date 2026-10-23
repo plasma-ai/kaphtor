@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šamāṭu (CAD Š1, 308) | CAD Š1, 308 | gloss withheld |
+| Akkadian | šamāṭu (CAD Š/1 308) | CAD Š/1 308 | gloss withheld |
 | Hebrew | šāmaṭ (HALOT 1557) | HALOT 1557 | gloss withheld |
 | Arabic | samaṭa (HALOT 1557) | HALOT 1557 |  |
 | Syrian Aramaic | šmaṭ (Payne Smith 583); šᵉmaṭ (HALOT 1557) | Payne Smith 583; HALOT 1557 | gloss withheld |

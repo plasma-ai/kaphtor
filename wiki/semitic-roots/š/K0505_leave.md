@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Aramaic | ŠBQ (Aramaic Root Atlas; DNWSI 1104 apud CAL) | Aramaic Root Atlas; DNWSI 1104; CAL | gloss withheld |
 | Geez | sabaqa 'leave' | Anderson–Moser 2024 root šbq |  |
-| Syrian Aramaic | šəḇaq (LGz., 484; Payne Smith 557) | LGz. 484; Payne Smith 557 |  |
+| Syrian Aramaic | šəḇaq (LGz. 484; Payne Smith 557) | LGz. 484; Payne Smith 557 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

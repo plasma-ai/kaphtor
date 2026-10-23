@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṭff \[-u-\] 1 |  |  |
-| Soqotri | ṭef 2, ṭayif 2 |  |  |
+| Soqotri | ṭef 2, ṭayif 2; ṭef (SLOnline 3171) |  | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

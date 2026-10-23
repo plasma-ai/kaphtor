@@ -32,20 +32,20 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṣyd \[-i-, -a-\] (Lane 1752) | Lane 1752 |  |
 | Mehri | c̣ayd 2 |  |  |
-| Soqotri | ṣode 2 |  |  |
+| Soqotri | ṣode 2; ṣóde (SLOnline 7560) |  | gloss withheld |
 | Akkadian | ṣâdu |  |  |
 | Harsusi | ṣayd 2 |  |  |
 | Ugaritic | ṣd (Kogan 2015, ch. 3 §5.3 no. 30) | Kogan 2015, ch. 3 §5.3 no. 30 |  |
 | Jibbali | c̣od 2 |  |  |
 | Hebrew | ṣwd (Kogan 2015, ch. 3 §5.3 no. 30) | Kogan 2015, ch. 3 §5.3 no. 30 |  |
-| Epigraphic South Arabian | Sab ṣyd (SD, 146; Biella, 421, 422) | SD 146; Biella 421, 422 | gloss withheld |
+| Epigraphic South Arabian | Sab ṣyd (SD 146; Biella 421, 422) | SD 146; Biella 421, 422 | gloss withheld |
 | Aramaic | ṢWD (Aramaic Root Atlas; CAL s.v. ṣwd); ṣyd (Aramaic Root Atlas) | Aramaic Root Atlas; CAL s.v. ṣwd; Aramaic Root Atlas | gloss withheld |
-| Punic | ṣd; ṣd (T, 276) | T 276 | gloss withheld |
+| Punic | ṣd; ṣd (T 276) | T 276 | gloss withheld |
 | Judaic Aramaic | mᵉṣūdᵉtā (HALOT 622); ṣēdā (HALOT 1020) | HALOT 622; HALOT 1020 | gloss withheld |
 | Syrian Aramaic | mṣīdtā (HALOT 622); ṣād, ṣwd, ṣaydā (HALOT 1010, 1020) | HALOT 622; HALOT 1010, 1020 | gloss withheld |
 | Mandaic Aramaic | ṢUD, ṣaid (HALOT 1010, 1020) | HALOT 1010, 1020 |  |
 | Amorite | ṣjd: ṣājidum, ṣājidatum, ṣajjādum, jāṣīd (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ṣyd (Al-Jallad–Jaworska, 130) | Al-Jallad–Jaworska 130 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṣyd (Al-Jallad–Jaworska 130) | Al-Jallad–Jaworska 130 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

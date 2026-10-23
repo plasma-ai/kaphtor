@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | early Canaanite sa=ra=ḳu₂ (Kogan 2011, 194) | Kogan 2011, 194 | gloss withheld |
 | Jibbali | ṯalg (Kogan 2011, 194) | Kogan 2011, 194 | gloss withheld |
 | Syrian Aramaic | talgā 'snow' (Payne Smith 613) | Payne Smith 613 |  |
-| Pre-Islamic North Arabian | Safaitic ṯlg (Al-Jallad–Jaworska, 135) | Al-Jallad–Jaworska 135 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṯlg (Al-Jallad–Jaworska 135) | Al-Jallad–Jaworska 135 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

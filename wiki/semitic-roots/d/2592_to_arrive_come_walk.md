@@ -35,9 +35,9 @@ updated: 2026-10-22T17:38:31Z
 | Harari | dīǧa \[LHar 55\] | LHar 55 | gloss withheld |
 | Hebrew | ddy hitpa (HALOT 214) | HALOT 214 | gloss withheld |
 | Judaic Aramaic | ddy pa., hitp. | SEDonline semet 3024 | gloss withheld |
-| Geez | dedaya (LGz., 124) | LGz. 124 | gloss withheld |
-| Amharic | dadde (LGz., 124) | LGz. 124 | gloss withheld |
-| Tigre | däddəʾa (LGz., 124) | LGz. 124 | gloss withheld |
+| Geez | dedaya (LGz. 124) | LGz. 124 | gloss withheld |
+| Amharic | dadde (LGz. 124) | LGz. 124 | gloss withheld |
+| Tigre | däddəʾa (LGz. 124) | LGz. 124 | gloss withheld |
 | Epigraphic South Arabian | dʔw (Müller 50 apud HALOT 214) | HALOT 214 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

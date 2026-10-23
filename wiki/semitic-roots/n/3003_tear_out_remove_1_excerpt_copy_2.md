@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nasāḫu (CAD N2, 1) | CAD N2, 1 | gloss withheld |
+| Akkadian | nasāḫu (CAD N/2 1) | CAD N/2 1 | gloss withheld |
 | Hebrew | nāsaḥ qal (Pr 15:25), (Ps 52:7); nif. (Dt 28:63) (HALOT 702) | HALOT 702 | gloss withheld |
 | Arabic | nasaḫa (HALOT 702); nansaḫ (Q 2:106) | HALOT 702; Q 2:106 | gloss withheld |
 

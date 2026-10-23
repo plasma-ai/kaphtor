@@ -42,10 +42,10 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ḳwl |  | gloss withheld |
 | Syrian Aramaic | ḳāl- 1 (Payne Smith 505) | Payne Smith 505 |  |
 | Tigrinya | ḳal 4 |  |  |
-| Punic | ql 'voice' | Anderson–Moser 2024 root qwl |  |
+| Punic | ql (Krahmalkov 426–427) | Krahmalkov 426–427 | gloss withheld |
 | Judaic Aramaic | qālā (HALOT 1083; DJPA 492b apud CAL) | HALOT 1083; DJPA 492b; CAL |  |
 | Amorite | qwl: qāla, qālum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ql (Al-Jallad–Jaworska, 110) | Al-Jallad–Jaworska 110 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ql (Al-Jallad–Jaworska 110) | Al-Jallad–Jaworska 110 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

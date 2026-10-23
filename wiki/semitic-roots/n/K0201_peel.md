@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | naqafa 'peel' | Anderson–Moser 2024 root nqp |  |
-| Soqotri | neqof (LGz., 399) | LGz. 399 | gloss withheld |
-| Hebrew | nqp (nif'al) (LGz., 399) | LGz. 399 | gloss withheld |
-| Syrian Aramaic | nūqāpā (n.) (LGz., 399) | LGz. 399 | gloss withheld |
-| Tigre | näqfa (LGz., 399) | LGz. 399 | gloss withheld |
-| Tigrinya | näqäfä (LGz., 399) | LGz. 399 | gloss withheld |
-| Amharic | näqqäfä (LGz., 399) | LGz. 399 | gloss withheld |
-| Gurage | näqäfä (LGz., 399) | LGz. 399 | gloss withheld |
+| Soqotri | neqof (LGz. 399) | LGz. 399 | gloss withheld |
+| Hebrew | nqp (nif'al) (LGz. 399) | LGz. 399 | gloss withheld |
+| Syrian Aramaic | nūqāpā (n.) (LGz. 399) | LGz. 399 | gloss withheld |
+| Tigre | näqfa (LGz. 399) | LGz. 399 | gloss withheld |
+| Tigrinya | näqäfä (LGz. 399) | LGz. 399 | gloss withheld |
+| Amharic | näqqäfä (LGz. 399) | LGz. 399 | gloss withheld |
+| Gurage | näqäfä (LGz. 399) | LGz. 399 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

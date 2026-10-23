@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | qāʾu 2 |  |  |
 | Hebrew | qwy 2 |  |  |
 | Syrian Aramaic | qwʔ 1, 2 |  |  |
-| Epigraphic South Arabian | Sab qyw 2 (SD, 112; Biella, 453) | SD 112; Biella 453 | gloss withheld |
-| Arabic | qwy D 2 (Biella, 453) | Biella 453 | gloss withheld |
+| Epigraphic South Arabian | Sab qyw 2 (SD 112; Biella 453; Sabaweb lemma 4841) | SD 112; Biella 453; Sabaweb lemma 4841 | gloss withheld |
+| Arabic | qwy D 2 (Biella 453) | Biella 453 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

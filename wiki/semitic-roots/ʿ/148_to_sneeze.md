@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ʔáwṭǝh (yāṭāh) \[JM 34\] | JM 34 |  |
 | Soqotri | ʕéṭoš \[LS 306\] | LS 306 |  |
 | East Ethiopic | SEL anṭǝšš \*balä-, WOL ǝnṭiššo balä-, ZWY haṭṭišo bālä- \[LGur 109\] | LGur 109 |  |
-| Geez | ʕṭs; ʕaṭasa (LGz., 77) | LGz. 77 | gloss withheld |
+| Geez | ʕṭs; ʕaṭasa (LGz. 77) | LGz. 77 | gloss withheld |
 | Gurage | CHA äṭiššä barä-, EŽA ǝṭṭǝš amännä-, GYE aṭǝšä barä-, at-reṭäsä, ENN ä~ṭšä barä-, at-rǟṭäsä, END anṭiššu barä-, haṭṭiššu barä-, MUH anṭǝšš \*balä-, at-näṭṭäsä-, MSQ ǝnṭǝšše barä-, GOG anṭǝšš \*balä-, at-näṭṭäsä-, SOD at-niṭṭäsä, EZ̆A at-räṭṭäsä, CHA at-rätäsä- \[ibid.\] |  |  |
 | Jibbali | ʕɔṭɔš (yʕéṭǝš) \[JJ 19\] | JJ 19 |  |
 | Hebrew | ʕăṭīšā (HALOT 814) | HALOT 814 | gloss withheld |
@@ -43,9 +43,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕăṭāšā 'sneeze' \[Brock 521\] | Brock 521 |  |
 | Aramaic | ʿṬŠ (CAL s.v. ʿṭš) | CAL s.v. ʿṭš | gloss withheld |
 | Harsusi | ʔaṭōš (yāṭeš) (SED I 275) | SED I 275 |  |
-| Tigre | ḥaṭṭäša, ḥanṭäša (LGz., 77) | LGz. 77 |  |
-| Tigrinya | haṭäsä, hanṭäšä, ʾənṭəšo bälä (LGz., 77) | LGz. 77 |  |
-| Harari | ḥaṭṭiš bāya (LGz., 77) | LGz. 77 |  |
+| Tigre | ḥaṭṭäša, ḥanṭäša (LGz. 77) | LGz. 77 |  |
+| Tigrinya | haṭäsä, hanṭäšä, ʾənṭəšo bälä (LGz. 77) | LGz. 77 |  |
+| Harari | ḥaṭṭiš bāya (LGz. 77) | LGz. 77 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

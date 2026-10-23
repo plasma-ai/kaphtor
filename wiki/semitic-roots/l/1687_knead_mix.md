@@ -37,13 +37,13 @@ updated: 2026-10-22T17:38:31Z
 | Geez | lōš/sa (HALOT 525) | HALOT 525 |  |
 | Tigre | lōš/sa (HALOT 525) | HALOT 525 |  |
 | Judaic Aramaic | lyš; lēšā (HALOT 525) | HALOT 525 | gloss withheld |
-| Syrian Aramaic | lāš (lwš) (LGz., 321) | LGz. 321 |  |
-| Mandaic Aramaic | luš (LGz., 321) | LGz. 321 |  |
-| Tigrinya | läwwäsä (LGz., 321) | LGz. 321 |  |
-| Amharic | läwwäsä (LGz., 321) | LGz. 321 |  |
-| Argobba | lewwäsa (LGz., 321) | LGz. 321 |  |
-| Gafat | liwwäsä (LGz., 321) | LGz. 321 |  |
-| Gurage | lawäsä (LGz., 321) | LGz. 321 |  |
+| Syrian Aramaic | lāš (lwš) (LGz. 321) | LGz. 321 |  |
+| Mandaic Aramaic | luš (LGz. 321) | LGz. 321 |  |
+| Tigrinya | läwwäsä (LGz. 321) | LGz. 321 |  |
+| Amharic | läwwäsä (LGz. 321) | LGz. 321 |  |
+| Argobba | lewwäsa (LGz. 321) | LGz. 321 |  |
+| Gafat | liwwäsä (LGz. 321) | LGz. 321 |  |
+| Gurage | lawäsä (LGz. 321) | LGz. 321 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

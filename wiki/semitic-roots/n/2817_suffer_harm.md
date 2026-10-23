@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Aramaic | n-z-q 'suffer, suffer loss' (BDB 1102) | BDB 1102 |  |
-| Ugaritic | n-z-q (CUC; DULAT, 645) | CUC; DULAT 645 | gloss withheld |
+| Ugaritic | n-z-q (CUC; DULAT 645) | CUC; DULAT 645 | gloss withheld |
 | Akkadian | n-z-q; nazāqu (Huehnergard 1997, 510; HALOT 684) | Huehnergard 1997 510; HALOT 684 | gloss withheld |
-| Phoenician | nzq (Krahmalkov, 326) | Krahmalkov 326 | gloss withheld |
+| Phoenician | nzq (Krahmalkov 326) | Krahmalkov 326 | gloss withheld |
 | Hebrew | nēzeq 'injury, damage' (BDB 634) | BDB 634 |  |
 | Judaic Aramaic | nizqā (HALOT 684) | HALOT 684 | gloss withheld |
 

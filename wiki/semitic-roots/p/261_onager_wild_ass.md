@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | parû OB on \[AHw. 837\] | AHw. 837; Durand 1997 338; Salonen Hippologica 74-5 | gloss withheld |
 | Ugaritic | pri |  |  |
 | Hebrew | pärä(ʔ) (HALOT 961) (with an orthographic variant pärä(h) in Jr 2.24), pB. \[Ja. 1213\] | HALOT 961; Ja. 1213; Pope 83; Pope 48 | gloss withheld |
-| Epigraphic South Arabian | Sab. ʔ-frʔ (pl.) \[Robin-Gajda 116\] | Sima 59ff | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic frʾ (Al-Jallad–Jaworska, 69) | Al-Jallad–Jaworska 69 | gloss withheld |
+| Epigraphic South Arabian | Sab. ʔ-frʔ (pl.) \[Robin-Gajda 116; Sabaweb lemma 3046\] | Sabaweb lemma 3046; Sima 59ff | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic frʾ (Al-Jallad–Jaworska 69) | Al-Jallad–Jaworska 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

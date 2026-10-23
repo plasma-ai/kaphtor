@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | pihla \[DM 370\]. | DM 370 | gloss withheld |
 | Jibbali | fáḥǝl do. \[JJ 54\] | JJ 54 |  |
 | Syrian Aramaic | pāḥǝlātā 'testicles' \[Brock 562\] | Brock 562 |  |
-| Ugaritic | pḥl (Tropper UG, 138) | Tropper UG 138 | gloss withheld |
+| Ugaritic | pḥl (Tropper UG 138) | Tropper UG 138 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

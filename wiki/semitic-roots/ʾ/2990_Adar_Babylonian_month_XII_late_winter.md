@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Addaru (HALOT 16; CAD A1, 110) | HALOT 16; CAD A1, 110 | gloss withheld |
+| Akkadian | Addaru (HALOT 16; CAD A/1 110) | HALOT 16; CAD A/1 110 | gloss withheld |
 | Hebrew | ʔĂdār (HALOT 16) | HALOT 16 | gloss withheld |
 | Biblical Aramaic | ʾdr (HALOT 16) | HALOT 16 |  |
 

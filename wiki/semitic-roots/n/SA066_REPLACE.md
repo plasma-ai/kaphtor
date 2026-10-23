@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nwb (Biella, 296; SD, 101) | Biella 296; SD 101 | gloss withheld |
-| Arabic | Ar nāba (w) id. (Biella, 296) | Biella 296 |  |
+| Epigraphic South Arabian | Sab nwb (Biella 296; SD 101); (Sabaweb lemma 2975) | Biella 296; SD 101; Sabaweb lemma 2975 | gloss withheld |
+| Arabic | Ar nāba (w) id. (Biella 296) | Biella 296 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

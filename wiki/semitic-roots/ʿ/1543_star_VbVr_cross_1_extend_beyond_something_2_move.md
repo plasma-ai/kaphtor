@@ -33,22 +33,22 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕbr \[-u-\] 1, 3; ʕubr- 5 |  |  |
 | Mehri | ʔābōr 1 |  |  |
 | Akkadian | ebēru 1 (water), 2 |  |  |
-| Ugaritic | ʕbr 1; mʿbr /maʿbaru/ (UVST, 158) | UVST 158 | gloss withheld |
-| Phoenician | ʿbr (Krahmalkov, 359) | Krahmalkov 359 | gloss withheld |
+| Ugaritic | ʕbr 1; mʿbr /maʿbaru/ (UVST 158) | UVST 158 | gloss withheld |
+| Phoenician | ʿbr (Krahmalkov 359) | Krahmalkov 359 | gloss withheld |
 | Jibbali | ʕɔ̄r 1, 6 (caus. aʕbér) JJ 6 | JJ 6 |  |
 | Hebrew | ʕbr 3, ʕäbär 5 |  |  |
 | Epigraphic South Arabian | ʕbr 1 |  |  |
 | Syrian Aramaic | ʕbr 1, 4 (Payne Smith 398) | Payne Smith 398 |  |
 | Judaic Aramaic | ʿibrā (HALOT 781) | HALOT 781 | gloss withheld |
-| Modern Arabic | E. Yem. ʿabr (Biella, 350) | Biella 350 |  |
-| Aramaic | ʿbr (T, 237) | T 237 |  |
-| Soqotri | ʿbr (T, 237) | T 237 |  |
-| Mandaic Aramaic | ʿbr (T, 237) | T 237 |  |
+| Modern Arabic | E. Yem. ʿabr (Biella 350) | Biella 350 |  |
+| Aramaic | ʿbr (T 237) | T 237 |  |
+| Soqotri | ʿbr (T 237); áˁber (SLOnline 24705) | T 237 | gloss withheld |
+| Mandaic Aramaic | ʿbr (T 237) | T 237 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-From 2777: Arabic: ʕabara 'to cross, traverse' (BK 2, 184); Akkadian: ebēru 'to cross over' (CAD E, 10); Ugaritic: ʕbr 'to cross, pass' (DULAT, 141); Phoenician: ʿbr 'trans-riverine region' (Krahmalkov 2000); Hebrew: ʕābar 'to cross over, pass' (HALOT 778); Epigraphic South Arabian: Sab ʿbr 'inf./pp.? ʿbr-m transgress, pass a boundary' (SD, 11; Biella, 350, 351)
+From 2777: Arabic: ʕabara 'to cross, traverse' (BK 2, 184); Akkadian: ebēru 'to cross over' (CAD E 10); Ugaritic: ʕbr 'to cross, pass' (DULAT 141); Phoenician: ʿbr 'trans-riverine region' (Krahmalkov 2000); Hebrew: ʕābar 'to cross over, pass' (HALOT 778); Epigraphic South Arabian: Sab ʿbr 'inf./pp.? ʿbr-m transgress, pass a boundary' (SD 11; Biella 350, 351)
 
 <!-- END kaphtor:record -->

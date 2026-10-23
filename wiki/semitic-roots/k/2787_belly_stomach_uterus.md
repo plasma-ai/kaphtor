@@ -31,18 +31,18 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kariš- 'stomach, belly, uterus' (BK 2, 885) | BK 2, 885 |  |
-| Akkadian | karšu (CAD K, 223) | CAD K, 223 | gloss withheld |
+| Akkadian | karšu (CAD K 223) | CAD K 223 | gloss withheld |
 | Ugaritic | krs \[Aist 157\], \[Del Olmo 568\] | Aist 157 | gloss withheld |
 | Hebrew | kārēś (HALOT 500) | HALOT 500 | gloss withheld |
 | Tigre | karšat, kəraš (OLA80 §31.31) | OLA80 §31.31 | gloss withheld |
 | Argobba | kārsa/u (OLA80 §36.12) | OLA80 §36.12 | gloss withheld |
-| Geez | karś (LGz., 294) | LGz. 294 | gloss withheld |
+| Geez | karś (LGz. 294) | LGz. 294 | gloss withheld |
 | Eblaitic | gàr-su-um, gàr-su /karśum/ \[Kreb. 22\], \[Bla. Ebl. No. 53\] | Kreb. 22; Bla. Ebl. No. 53 |  |
 | Judaic Aramaic | karsā, kərēsā \[Ja. 672\]; krs, det. krsh, krysh \[Sok. 270\] | Ja. 672; Sok. 270 | gloss withheld |
 | Syrian Aramaic | karsā 'venter, uterus' \[Brock. 347\] | Brock. 347 |  |
 | Mandaic Aramaic | karsa \[DM 201\] | DM 201 | gloss withheld |
 | Modern Aramaic | M. Mnd. kars, det. karsa \[Macuch 493, 521, 524\]; Hrt. karsa \[J Hert. 190\]; NAssyr. kīsä \[Tser. 0144\]; Azr. kasa \[Garb. 314\] | Macuch 493, 521, 524; J Hert. 190; Tser. 0144; Garb. 314 | gloss withheld |
-| Tigrinya | kärsi 'ventre, seno' \[Bass. 591\] | Bass. 591 |  |
+| Tigrinya | kärsi 'belly, bosom' \[Bass. 591\] | Bass. 591 |  |
 | Amharic | kärs \[K 1387\] | K 1387 | gloss withheld |
 | Harari | kärsi \[LHar. 94\] | LHar. 94 | gloss withheld |
 | Gurage | Sod. kärs, Enn. End. käs id. \[LGur. 351\] | LGur. 351 |  |
@@ -50,7 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | kēreŝ \[JH 70\] | JH 70 | gloss withheld |
 | Jibbali | s̃irŝ \[JJ 135\] | JJ 135; JH 70; SSL 2 223 | gloss withheld |
 | Soqotri | šéreŝ \[LS 423\], \[SSL LS 1461\] | LS 423; SSL LS 1461 | gloss withheld |
-| Gafat | ərsä (LGz., 295) | LGz. 295 |  |
+| Gafat | ərsä (LGz. 295) | LGz. 295 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,16 +30,16 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | safara 'to write, travel' (BK 1, 1097) | BK 1, 1097 |  |
-| Akkadian | šapāru (CAD Š1, 440) | CAD Š1, 440 | gloss withheld |
-| Ugaritic | spr (DULAT, 755) | DULAT 755 | gloss withheld |
-| Phoenician | spr (Krahmalkov, 347) | Krahmalkov 347 | gloss withheld |
+| Akkadian | šapāru (CAD Š/1 440) | CAD Š/1 440 | gloss withheld |
+| Ugaritic | spr (DULAT 755) | DULAT 755 | gloss withheld |
+| Phoenician | spr (Krahmalkov 347) | Krahmalkov 347 | gloss withheld |
 | Hebrew | sāpar (HALOT 765) | HALOT 765 | gloss withheld |
 | Syrian Aramaic | sefrā; safrūtā (HALOT 766, 768) | HALOT 766, 768 | gloss withheld |
 | Aramaic | siprā; spr, sfirā (HALOT 766, 767; DNWSI 799 apud CAL; DNWSI 798 apud CAL) | HALOT 766, 767; DNWSI 799; CAL; DNWSI 798; CAL | gloss withheld |
 | Mandaic Aramaic | aspar, sipra (HALOT 766; Drower/Macuch 335a apud CAL) | HALOT 766; Macuch 335a; CAL |  |
 | Judaic Aramaic | siprā (HALOT 767; DJPA 386b apud CAL) | HALOT 767; DJPA 386b; CAL | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic sfr (Al-Jallad–Jaworska, 120) | Al-Jallad–Jaworska 120 | gloss withheld |
-| Biblical Aramaic | sᵉfar (HALOT 768); sāpraʾ (T, 232) | HALOT 768; T 232 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sfr (Al-Jallad–Jaworska 120) | Al-Jallad–Jaworska 120 | gloss withheld |
+| Biblical Aramaic | sᵉfar (HALOT 768); sāpraʾ (T 232) | HALOT 768; T 232 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

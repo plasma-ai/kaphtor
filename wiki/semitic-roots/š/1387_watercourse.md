@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Ed sǝwel, Cha Eža Enn sǝwer, etc. LGur 568 | LGur 568 | gloss withheld |
 | Jibbali | sɛ̄l |  | gloss withheld |
 | Hebrew | šǝʔōl (HALOT 1368, 1369) | HALOT 1368, 1369 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic sl, mslt (Al-Jallad–Jaworska, 121, 99) | Al-Jallad–Jaworska 121, 99 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sl, mslt (Al-Jallad–Jaworska 121, 99) | Al-Jallad–Jaworska 121, 99 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

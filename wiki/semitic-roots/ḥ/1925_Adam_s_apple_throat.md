@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | QALAN-V ḥɛlḳɔ̄́moh \[SSL 4 95\], QADHUB ḥalḳámoh \[SSL LS 1459\]; QADHUB ḥɛnṣ̌əḳɔh \[SSL LS 1459\]. | SSL 4 95; SSL LS 1459; SSL LS 1459 | gloss withheld |
 | Akkadian | (?) \*a/elī/āḳu in līḳ (laḳ, aliḳ, elaḳ) pî OB on \[CAD l 205\], \[AHw 555\] (lit.) | CAD l 205; AHw 555 | gloss withheld |
 | Harsusi | ḥelḳemōt do. \[JH 59\] | JH 59 |  |
-| Ugaritic | (?) ḥlḳ \[DLU 176\]. | DLU 176 | gloss withheld |
+| Ugaritic | (?) ḥlḳ \[DULAT 356\]. | DULAT 356 | gloss withheld |
 | Geez | ḥǝlḳ \[LGz 230\] | LGz 230 | gloss withheld |
 | Jibbali | ḥalḳũt (&lt;\*ḥalḳum-t) do. \[JJ 110\] | JJ 110 |  |
 | Amharic | ǝllǝḳt \[K 1108\] | K 1108 | gloss withheld |

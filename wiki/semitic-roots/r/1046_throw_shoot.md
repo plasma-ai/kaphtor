@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | rmy \[-i-\] |  |  |
 | Akkadian | ramû |  |  |
 | Hebrew | rmh |  |  |
-| Ugaritic | rmy (CUC; DULAT, 730) | CUC; DULAT 730 | gloss withheld |
+| Ugaritic | rmy (CUC; DULAT 730) | CUC; DULAT 730 | gloss withheld |
 | Judaic Aramaic | rəmā (HALOT 1239) | HALOT 1239 |  |
 | Biblical Aramaic | rmh (HALOT 1239) | HALOT 1239 |  |
-| Mandaic Aramaic | rma (LGz., 472) | LGz. 472 |  |
+| Mandaic Aramaic | rma (LGz. 472) | LGz. 472 |  |
 | Syrian Aramaic | rmā 'put, place, cast, throw' (Payne Smith 542) | Payne Smith 542 |  |
-| Pre-Islamic North Arabian | Safaitic rmy (Al-Jallad–Jaworska, 117) | Al-Jallad–Jaworska 117 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rmy (Al-Jallad–Jaworska 117) | Al-Jallad–Jaworska 117 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

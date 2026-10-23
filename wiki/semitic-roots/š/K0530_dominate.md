@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | safana 'prevail' | Anderson–Moser 2024 root špn |  |
-| Akkadian | sapānu (LGz., 488) | LGz. 488 | gloss withheld |
-| Amharic | säffänä (LGz., 488) | LGz. 488 |  |
+| Akkadian | sapānu (LGz. 488) | LGz. 488 | gloss withheld |
+| Amharic | säffänä (LGz. 488) | LGz. 488 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

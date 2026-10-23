@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | qaṣura 'short' (Lane 2532) | Lane 2532 |  |
 | Hebrew | qaṣar (HALOT 1126; BDB 894) | HALOT 1126; BDB 894 | gloss withheld |
-| Ugaritic | qṣr (CUC; DULAT, 706) | CUC; DULAT 706 | gloss withheld |
+| Ugaritic | qṣr (CUC; DULAT 706) | CUC; DULAT 706 | gloss withheld |
 | Aramaic | CPArm. qṣr (Kogan 2015, ch. 2 §5.2.2.3 no. 4) | Kogan 2015, ch. 2 §5.2.2.3 no. 4 | gloss withheld |
 | Jibbali | qóṣór (Kogan 2015, ch. 2 §5.2.2.3 no. 4) | Kogan 2015, ch. 2 §5.2.2.3 no. 4 | gloss withheld |
 | Mehri | qəṣawr (Kogan 2015, ch. 2 §5.2.2.3 no. 4) | Kogan 2015, ch. 2 §5.2.2.3 no. 4 | gloss withheld |

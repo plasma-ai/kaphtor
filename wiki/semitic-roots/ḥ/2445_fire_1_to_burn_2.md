@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḥaw (haw) |  |  |
 | Jibbali | e-nḥé 2 |  |  |
 | Tigrinya | ḥawwi |  |  |
-| Tigre | ḥaw, haya (LGz., 248) | LGz. 248 | gloss withheld |
+| Tigre | ḥaw, haya (LGz. 248) | LGz. 248 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

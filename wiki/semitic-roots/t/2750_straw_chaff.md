@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | tibn- 'straw' (BK 1, 192) | BK 1, 192 |  |
-| Akkadian | tibnu (CAD T, 385) | CAD T, 385 | gloss withheld |
+| Akkadian | tibnu (CAD T 385) | CAD T 385 | gloss withheld |
 | Ugaritic | \[ti-i\]b-nu (syllabic) (HALOT 1685) | HALOT 1685 | gloss withheld |
 | Hebrew | teben (HALOT 1685) | HALOT 1685 | gloss withheld |
 | Judaic Aramaic | tibnā (HALOT 1685; DJPA 574b apud CAL) | HALOT 1685; DJPA 574b; CAL |  |

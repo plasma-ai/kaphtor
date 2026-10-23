@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šāpēl (HALOT 1631) | HALOT 1631 | gloss withheld |
 | Judaic Aramaic | šᵉpal, šᵉpil; af. (HALOT 1631; DJPA 564a apud CAL) | HALOT 1631; DJPA 564a; CAL | gloss withheld |
 | Syrian Aramaic | špal (SEDRA 3290) | SEDRA 3290 | gloss withheld |
-| Ugaritic | špl (DULAT, 823) | DULAT 823 | gloss withheld |
+| Ugaritic | špl (DULAT 823) | DULAT 823 | gloss withheld |
 | Akkadian | šapālu(m) (HALOT 1631); šaplu(m) (HALOT 1632) | HALOT 1631; HALOT 1632 | gloss withheld |
 | Arabic | safala, safila (HALOT 1631); suflī (HALOT 1632) | HALOT 1631; HALOT 1632 | gloss withheld |
 | Epigraphic South Arabian | Sab s1fl (HALOT 1631) | HALOT 1631 | gloss withheld |

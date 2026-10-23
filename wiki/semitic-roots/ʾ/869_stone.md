@@ -31,23 +31,23 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ḥaubīn (Kogan 2015, ch. 1 §1.3 no. 81) | Kogan 2015, ch. 1 §1.3 no. 81 |  |
-| Soqotri | ʔoben |  |  |
+| Soqotri | ʔoben; óˀoben, óben (SLOnline 3023) |  | gloss withheld |
 | Akkadian | abnu (Kogan 2015, ch. 1 §1.3 no. 81) | Kogan 2015, ch. 1 §1.3 no. 81 |  |
 | Tigre | ʔǝbn |  |  |
 | Mandaic Aramaic | abn- (Drower/Macuch 4b apud CAL) | Macuch 4b; CAL |  |
 | Ugaritic | ʔabn |  |  |
 | Geez | ʔǝbn (Kogan 2015, ch. 1 §1.3 no. 81) | Kogan 2015, ch. 1 §1.3 no. 81 |  |
-| Phoenician | ʔbn (T, 2) | T 2 | gloss withheld |
+| Phoenician | ʔbn (T 2) | T 2 | gloss withheld |
 | Hebrew | ʔĕbĕn |  |  |
-| Epigraphic South Arabian | ʔbn |  |  |
+| Epigraphic South Arabian | ʔbn (Sabaweb lemma 3455) | Sabaweb lemma 3455 | gloss withheld |
 | Harari | un (Kogan 2015, ch. 7 §2.2 no. 81) | Kogan 2015, ch. 7 §2.2 no. 81 |  |
 | Syrian Aramaic | ʔabn- Br 2 Js 65:3, 1 Petr 2:27 |  | gloss withheld |
 | Aramaic | (Emp) ʔbn (DNWSI 6 apud CAL) | DNWSI 6; CAL |  |
 | Tigrinya | ʔǝmni (Kogan 2015, ch. 7 §2.2 no. 81) | Kogan 2015, ch. 7 §2.2 no. 81 |  |
-| Gurage | əmən (LGz., 4) | LGz. 4 |  |
+| Gurage | əmən (LGz. 4) | LGz. 4 |  |
 | Amorite | ʾabnum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
-| Punic | ʾbn, hbn, ʿbn (T, 2) | T 2 | gloss withheld |
-| Judaic Aramaic | ʾabnaʾ (T, 2) | T 2 |  |
+| Punic | ʾbn, hbn, ʿbn (T 2) | T 2 | gloss withheld |
+| Judaic Aramaic | ʾabnaʾ (T 2) | T 2 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ṣītu 'exit' | Anderson–Moser 2024 root ṣʾt |  |
 | Ugaritic | ṣat 'issue' | Anderson–Moser 2024 root ṣʾt |  |
-| Phoenician | mṣʾ (T, 192) | T 192 | gloss withheld |
-| Hebrew | mōṣāʾ (T, 192) | T 192 |  |
+| Phoenician | mṣʾ (T 192) | T 192 | gloss withheld |
+| Hebrew | mōṣāʾ (T 192) | T 192 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

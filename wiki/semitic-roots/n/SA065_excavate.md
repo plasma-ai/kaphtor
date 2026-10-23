@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nql (SD, 97; Biella, 316, 317) | SD 97; Biella 316, 317 | gloss withheld |
-| Arabic | Ar naqil naqal ModHad, Dat manqal Ar naqīl (Biella, 316) | Biella 316 | gloss withheld |
+| Epigraphic South Arabian | Sab nql (SD 97; Biella 316, 317) | SD 97; Biella 316, 317 | gloss withheld |
+| Arabic | Ar naqil naqal ModHad, Dat manqal Ar naqīl (Biella 316) | Biella 316 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

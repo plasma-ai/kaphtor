@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | miṭṭu (mēṭu, mīṭu) OB on \[CAD m2 147\] \[AHw 664\] | CAD m2 147; AHw 664 | gloss withheld |
 | Tigre | mǝṭ ʔabälä \[LH 143\] | LH 143 | gloss withheld |
 | Eblaitic | ma-ṭì-um = gišgu-RUurudu and gišgu-RU-kakurudu (references in \[TD VIII 241-5\]) |  |  |
-| Ugaritic | mṭ \[DLU 307\] | DLU 307 | gloss withheld |
+| Ugaritic | mṭ \[DULAT 594\] | DULAT 594 | gloss withheld |
 | Gurage | CHA EZHA ENN GYE mʷǝṭa, MUH GOG SEL muṭa, END muṭä |  | gloss withheld |
 | Hebrew | maṭṭǟ (HALOT 573), \[TD VIII 241-5\] | HALOT 573 | gloss withheld |
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ḥādal (HALOT 292) | HALOT 292 | gloss withheld |
-| Epigraphic South Arabian | ḫdl (HALOT 292) | HALOT 292 |  |
+| Epigraphic South Arabian | ḫdl (HALOT 292), a misreading of ḫdg (Sabaweb lemma 7314) | HALOT 292; Sabaweb lemma 7314 | gloss withheld |
 | Akkadian | ḫadālu (HALOT 292) | HALOT 292 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

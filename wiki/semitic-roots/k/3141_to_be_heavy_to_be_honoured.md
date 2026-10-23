@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | kbd (HALOT 455) | HALOT 455 | gloss withheld |
 | Akkadian | kabātu (Bab.), kabādu (Ass.), D (HALOT 455) | HALOT 455 | gloss withheld |
-| Ugaritic | kbd (HALOT 455); \*/kubuddatu/?, pl. /kubuddātu/ (UVST, 135) | HALOT 455; UVST 135 | gloss withheld |
+| Ugaritic | kbd (HALOT 455); \*/kubuddatu/?, pl. /kubuddātu/ (UVST 135) | HALOT 455; UVST 135 | gloss withheld |
 | Canaanite | EA kabātu (HALOT 455) | HALOT 455 |  |
 | Phoenician | kbd (HALOT 455) | HALOT 455 |  |
 | Amorite | kbd: kabidum, kabida, kabdum (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |

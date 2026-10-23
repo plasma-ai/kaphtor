@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | būru (pūru) OB on \[CAD b 340\], \[AHw 141\], burtu (purtu) OB on \[CAD b 334\], \[AHw 141\] | CAD b 340; AHw 141; CAD b 334; AHw 141 | gloss withheld |
 | Harsusi | ḥe-byār \[JH 14\] (semantically doubtful) | JH 14 | gloss withheld |
 | Tigre | bara \[LH 274\] | LH 274 | gloss withheld |
-| Ugaritic | cf. ibr; syllabic /ʔa/ib(b)īru/ in personal names (DULAT, 11) | DULAT 11 | gloss withheld |
+| Ugaritic | cf. ibr; syllabic /ʔa/ib(b)īru/ in personal names (DULAT 11) | DULAT 11 | gloss withheld |
 | East Ethiopic | Wol. barä, Zwy. būrä \[LGur. 150\] | LGur. 150 | gloss withheld |
 | Gurage | Cha. Eža Muh. Msq. Gog. Sod. bora, Gye. bawra, End. bawrä, Enn. bawǝra \[LGur. 150\], Muh. bäre \[ibid. 149\] (or &lt;\*bʕr) | LGur. 150; ibid. 149 | gloss withheld |
 | Modern Arabic | Yem. bārah \[Piamenta 44\] | Piamenta 44 | gloss withheld |

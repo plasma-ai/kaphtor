@@ -32,12 +32,12 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕall- 1, 2; ʕll 3 |  |  |
 | Geez | ʕalʕala 4, lāʕl 1 |  |  |
-| Phoenician | ʿl (Krahmalkov, 368–369) | Krahmalkov 368–369 | gloss withheld |
+| Phoenician | ʿl (Krahmalkov 368–369) | Krahmalkov 368–369 | gloss withheld |
 | Hebrew | ʕal 1 (HALOT 824, 825) | HALOT 824, 825 |  |
-| Epigraphic South Arabian | ʿl, ʿlw, ʿly (OLA80 §48.15) | OLA80 §48.15 | gloss withheld |
-| Akkadian | eli 1 (CAD E, 89); el 1 (CAD E, 73) | CAD E, 89; CAD E, 73 | gloss withheld |
+| Epigraphic South Arabian | ʿl, ʿlw, ʿly (OLA80 §48.15; Sabaweb lemma 3708) | OLA80 §48.15; Sabaweb lemma 3708 | gloss withheld |
+| Akkadian | eli 1 (CAD E 89); el 1 (CAD E 73) | CAD E 89; CAD E 73 | gloss withheld |
 | Syrian Aramaic | ʕal 'upon, to, because of, against' (Payne Smith 413) | Payne Smith 413 |  |
-| Pre-Islamic North Arabian | Safaitic ʿl (Al-Jallad–Jaworska, 51) | Al-Jallad–Jaworska 51 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿl (Al-Jallad–Jaworska 51) | Al-Jallad–Jaworska 51 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

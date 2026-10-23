@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | pelek 'whirl' | Anderson–Moser 2024 root plk |  |
 | Ugaritic | plk 'spindle' | Anderson–Moser 2024 root plk |  |
 | Judaic Aramaic | pilkā (HALOT 933; DJBA 900b apud CAL) | HALOT 933; DJBA 900b; CAL |  |
-| Phoenician | plk (T, 264) | T 264 | gloss withheld |
+| Phoenician | plk (T 264) | T 264 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

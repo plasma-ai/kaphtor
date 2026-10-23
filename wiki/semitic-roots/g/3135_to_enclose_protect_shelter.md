@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ganānu (CAD G, 40) | CAD G, 40 | gloss withheld |
+| Akkadian | ganānu (CAD G 40) | CAD G 40 | gloss withheld |
 | Hebrew | gnn (HALOT 199) | HALOT 199 | gloss withheld |
 | Judaic Aramaic | gnn (HALOT 199) | HALOT 199 | gloss withheld |
 | Aramaic | EgArm., Palm. gnn (HALOT 199) | HALOT 199 | gloss withheld |
 | Syrian Aramaic | gnn (aph.) (LSyr. 122, SL 248 apud SEDonline 1175) | LSyr. 122, SL 248; SEDonline 1175 | gloss withheld |
-| Phoenician | gnn (B, 297) | B 297 | gloss withheld |
+| Phoenician | gnn (B 297) | B 297 | gloss withheld |
 | Arabic | ǯnn (Lane 462 apud SEDonline 1175) | Lane 462; SEDonline 1175 | gloss withheld |
 | Epigraphic South Arabian | Sab gnʾ, gnʾ (SD 50 apud SEDonline 1175); Min gnʾ (ML 36 apud SEDonline 1175); Qat gnʾ (LIQ 39 apud SEDonline 1175); gnn (IV), gnt (HALOT 199) | SD 50; SEDonline 1175; ML 36; SEDonline 1175; LIQ 39; SEDonline 1175; HALOT 199 | gloss withheld |
 | Mehri | hegnē JM 121; gōna (ML 122 apud SEDonline 1175) | JM 121; ML 122; SEDonline 1175 | gloss withheld |

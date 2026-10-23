@@ -37,9 +37,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | sūgārā (HALOT 742) | HALOT 742 |  |
 | Arabic | sājūr, sajara (HALOT 742) | HALOT 742 |  |
 | Akkadian | sekēru; šigaru (HALOT 742) | HALOT 742 | gloss withheld |
-| Phoenician | sgr (T, 225) | T 225 | gloss withheld |
-| Mandaic Aramaic | sgr (T, 225) | T 225 |  |
-| Amharic | saggʷara (T, 225) | T 225 | gloss withheld |
+| Phoenician | sgr (T 225) | T 225 | gloss withheld |
+| Mandaic Aramaic | sgr (T 225) | T 225 |  |
+| Amharic | saggʷara (T 225) | T 225 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

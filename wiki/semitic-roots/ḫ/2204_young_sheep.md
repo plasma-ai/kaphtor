@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫurāpu OB on \[CAD ḫ 245\], \[AHw. 357\] | CAD ḫ 245; AHw. 357 | gloss withheld |
 | Harsusi | ḫerefōt \[JH 142\] | JH 142 | gloss withheld |
 | Mandaic Aramaic | hurpa \[DM 138\]. | DM 138 | gloss withheld |
-| Ugaritic | ḫpr-t \[DLU 196\] (metathesis) | DLU 196; Del Olmo Sheep 185-6 | gloss withheld |
+| Ugaritic | ḫpr-t \[DULAT 396\] (metathesis) | DULAT 396; Del Olmo Sheep 185-6 | gloss withheld |
 | Epigraphic South Arabian | Qat. ḫrwf (pl.) \[Ricks 76\]. Min. ḫrf-m \[LM 44\] | Ricks 76; LM 44; Sima 101 | gloss withheld |
 | Judaic Aramaic | ḥurpā 'a young lamb' \[Ja. 440\] (also ḥorpītā 'early conceiving, vigorous sheep' \[ibid. 505\]). | Ja. 440; ibid. 505 |  |
 | Syrian Aramaic | ḥurpā 'yearling, one year old (sheep)' \[Brock. 258\], \[PS 1380\]. | Brock. 258; PS 1380 |  |

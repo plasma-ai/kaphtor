@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Tigre | gǝrguma, gǝrgǝmmät \[LH 578\] | LH 578 | gloss withheld |
 | Mandaic Aramaic | gurgma \[DM 85\] | DM 85 | gloss withheld |
-| Modern Arabic | MGHR garǧūma 'throat' \[Dozy 2 325\]; g(a)rāǧǝm 'tonsil' \[ibid.\] | Dozy 2 325; ibid. |  |
+| Modern Arabic | MGHR garǧūma 'throat' \[Dozy 2 325\]; pl. g(a)rāǧǝm 'throat, inside of the throat' \[ibid.\] | Dozy 2 325; ibid. |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

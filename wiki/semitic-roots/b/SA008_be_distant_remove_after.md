@@ -29,16 +29,16 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab bʿd (Biella, 49) | Biella 49 | gloss withheld |
-| Arabic | Ar bʿd D id. (Biella, 49); baʿuda, baʿda (LGz., 83) | Biella 49; LGz. 83 | gloss withheld |
-| Geez | baʿada (LGz., 83) | LGz. 83 | gloss withheld |
-| Soqotri | baʿad (LGz., 83) | LGz. 83 | gloss withheld |
-| Syrian Aramaic | (ʾa)bʿed (LGz., 83) | LGz. 83 | gloss withheld |
-| Tigrinya | baʿdi (LGz., 83) | LGz. 83 | gloss withheld |
-| Tigre | baʿəd (LGz., 83) | LGz. 83 | gloss withheld |
-| Amharic | badä (LGz., 83) | LGz. 83 | gloss withheld |
-| Gurage | bada (LGz., 83) | LGz. 83 |  |
-| Pre-Islamic North Arabian | Safaitic bʿd (Al-Jallad–Jaworska, 58) | Al-Jallad–Jaworska 58 | gloss withheld |
+| Epigraphic South Arabian | Sab bʿd (Biella 49) | Biella 49 | gloss withheld |
+| Arabic | Ar bʿd D id. (Biella 49); baʿuda, baʿda (LGz. 83) | Biella 49; LGz. 83 | gloss withheld |
+| Geez | baʿada (LGz. 83) | LGz. 83 | gloss withheld |
+| Soqotri | baʿad (LGz. 83); báˁad (SLOnline 3473) | LGz. 83 | gloss withheld |
+| Syrian Aramaic | (ʾa)bʿed (LGz. 83) | LGz. 83 | gloss withheld |
+| Tigrinya | baʿdi (LGz. 83) | LGz. 83 | gloss withheld |
+| Tigre | baʿəd (LGz. 83) | LGz. 83 | gloss withheld |
+| Amharic | badä (LGz. 83) | LGz. 83 | gloss withheld |
+| Gurage | bada (LGz. 83) | LGz. 83 |  |
+| Pre-Islamic North Arabian | Safaitic bʿd (Al-Jallad–Jaworska 58) | Al-Jallad–Jaworska 58 | gloss withheld |
 | Mandaic Aramaic | baʕad (MD 49 apud SEDonline 1249) | MD 49; SEDonline 1249 | gloss withheld |
 | Mehri | bād (ML 40 apud SEDonline 1249) | ML 40; SEDonline 1249 | gloss withheld |
 | Jibbali | baʕd (JL 21 apud SEDonline 1249) | JL 21; SEDonline 1249 | gloss withheld |

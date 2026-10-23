@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | nabīlat- 'corpse, carrion' \[BK 2 1189\] | BK 2 1189 |  |
 | Akkadian | nabultu SB on \[AHw 700\]; nap/bultu \[CAD n1 328\] | AHw 700; ibid.; CAD n1 328; ibid. | gloss withheld |
 | Hebrew | nǝbēlā (HALOT 664) | HALOT 664 | gloss withheld |
-| Judaic Aramaic | nǝbēltā \[Ja 870\]; nbylh, det. nblth \[Sok 339\] | Ja 870; Sok 339 | gloss withheld |
+| Judaic Aramaic | nǝbēltā \[Ja 870\]; nbylh, det. nblth \[DJPA 339b apud CAL\] | Ja 870; DJPA 339b; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

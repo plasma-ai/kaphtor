@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | natafa 'tear' | Anderson–Moser 2024 root ntp |  |
-| Jibbali | ntef (LGz., 407) | LGz. 407 | gloss withheld |
-| Syrian Aramaic | nətap (LGz., 407) | LGz. 407 | gloss withheld |
-| Tigre | nätfa (LGz., 407) | LGz. 407 | gloss withheld |
-| Amharic | nättäfä (LGz., 407) | LGz. 407 | gloss withheld |
-| Akkadian | naṭāpu (natāpu); IV (CAD N2, 128) | CAD N2, 128 | gloss withheld |
+| Jibbali | ntef (LGz. 407) | LGz. 407 | gloss withheld |
+| Syrian Aramaic | nətap (LGz. 407) | LGz. 407 | gloss withheld |
+| Tigre | nätfa (LGz. 407) | LGz. 407 | gloss withheld |
+| Amharic | nättäfä (LGz. 407) | LGz. 407 | gloss withheld |
+| Akkadian | naṭāpu (natāpu); IV (CAD N/2 128) | CAD N/2 128 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

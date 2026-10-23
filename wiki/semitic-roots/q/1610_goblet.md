@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | qbʿ (HALOT 1062) | HALOT 1062 |  |
 | Syrian Aramaic | qubʿā (HALOT 1062) | HALOT 1062 |  |
 | Arabic | qubʿat (HALOT 1062) | HALOT 1062 |  |
-| Hebrew | qubaʿat (T, 283) | T 283 |  |
+| Hebrew | qubaʿat (T 283) | T 283 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

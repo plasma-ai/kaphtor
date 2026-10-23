@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | leʾû 'be able' | Anderson–Moser 2024 root lʾy |  |
 | Ugaritic | lʾy 'conquer' | Anderson–Moser 2024 root lʾy |  |
-| Amorite | lʾy: laʾiy- (Huffmon APNM, 224) | Huffmon APNM 224 | gloss withheld |
+| Amorite | lʾy: laʾiy- (Huffmon APNM 224) | Huffmon APNM 224 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

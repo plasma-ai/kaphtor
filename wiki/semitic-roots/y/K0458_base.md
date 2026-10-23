@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | išdu 'foundation' | Anderson–Moser 2024 root yśd |  |
 | Aramaic | ysd 'foundation' | Anderson–Moser 2024 root yśd |  |
-| Epigraphic South Arabian | Sab ws3d (SD, 163) | SD 163 | gloss withheld |
+| Epigraphic South Arabian | Sab ws3d (SD 163) | SD 163 | gloss withheld |
 | Ugaritic | ysd (HALOT 417) | HALOT 417 |  |
 | Hebrew | yəsōd (HALOT 417) | HALOT 417 | gloss withheld |
-| Phoenician | ysd (Krahmalkov, 211) | Krahmalkov 211 | gloss withheld |
+| Phoenician | ysd (Krahmalkov 211) | Krahmalkov 211 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

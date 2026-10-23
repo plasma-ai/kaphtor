@@ -31,15 +31,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | gamāmu |  |  |
-| Geez | gammama (LGz., 194) | LGz. 194 | gloss withheld |
-| Tigrinya | gämʿe (LGz., 193); gʷaʿmämä (LGz., 194) | LGz. 193; LGz. 194 | gloss withheld |
-| Arabic | ǧamma (LGz., 194) | LGz. 194 | gloss withheld |
-| Syrian Aramaic | gam (gmm) (LGz., 194) | LGz. 194 | gloss withheld |
-| Aramaic | gəmam (LGz., 194) | LGz. 194 | gloss withheld |
-| Mandaic Aramaic | gumma (LGz., 194) | LGz. 194 | gloss withheld |
-| Tigre | gamäma (LGz., 194) | LGz. 194 | gloss withheld |
-| Amharic | gämmämä (LGz., 194) | LGz. 194 | gloss withheld |
-| Gurage | gämämä (LGz., 194) | LGz. 194 | gloss withheld |
+| Geez | gammama (LGz. 194) | LGz. 194 | gloss withheld |
+| Tigrinya | gämʿe (LGz. 193); gʷaʿmämä (LGz. 194) | LGz. 193; LGz. 194 | gloss withheld |
+| Arabic | ǧamma (LGz. 194) | LGz. 194 | gloss withheld |
+| Syrian Aramaic | gam (gmm) (LGz. 194) | LGz. 194 | gloss withheld |
+| Aramaic | gəmam (LGz. 194) | LGz. 194 | gloss withheld |
+| Mandaic Aramaic | gumma (LGz. 194) | LGz. 194 | gloss withheld |
+| Tigre | gamäma (LGz. 194) | LGz. 194 | gloss withheld |
+| Amharic | gämmämä (LGz. 194) | LGz. 194 | gloss withheld |
+| Gurage | gämämä (LGz. 194) | LGz. 194 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

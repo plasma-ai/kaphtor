@@ -30,18 +30,18 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʾaflata, ʾaflaṭa (LGz., 161) | LGz. 161 | gloss withheld |
-| Syrian Aramaic | pəlaṭ (LGz., 161) | LGz. 161 | gloss withheld |
-| Mandaic Aramaic | plṭ (LGz., 161) | LGz. 161 | gloss withheld |
+| Arabic | ʾaflata, ʾaflaṭa (LGz. 161) | LGz. 161 | gloss withheld |
+| Syrian Aramaic | pəlaṭ (LGz. 161) | LGz. 161 | gloss withheld |
+| Mandaic Aramaic | plṭ (LGz. 161) | LGz. 161 | gloss withheld |
 | Hebrew | palaṭ 'escape' (BDB 812) | BDB 812 |  |
 | Punic | plṭ 'deliver' | Anderson–Moser 2024 root plṭ |  |
-| Phoenician | plṭ (B, 390) | B 390 | gloss withheld |
-| Ugaritic | plṭ (Fronzaroli 1965b: 250 apud SEDonline 1593); /pullaṭu/ (UVST, 168) | SEDonline 1593; UVST 168 | gloss withheld |
+| Phoenician | plṭ (B 390) | B 390 | gloss withheld |
+| Ugaritic | plṭ (Fronzaroli 1965b: 250 apud SEDonline 1593); /pullaṭu/ (UVST 168) | SEDonline 1593; UVST 168 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-LGz. 161 derives Ar. ʾaflata 'save, rescue' from 'cleave, split, separate'; Ethiopic falaṭa 'separate, split' is in 1320; Tna. fäläṭä 'know, understand' (&lt; 'discern, distinguish'), SAr. flṭ 'assign land' (Müller 1983:279 apud LGz., 161).
+LGz. 161 derives Ar. ʾaflata 'save, rescue' from 'cleave, split, separate'; Ethiopic falaṭa 'separate, split' is in 1320; Tna. fäläṭä 'know, understand' (&lt; 'discern, distinguish'), SAr. flṭ 'assign land' (Müller 1983:279 apud LGz. 161).
 
 <!-- END kaphtor:record -->

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | baqaš 'seek' | Anderson–Moser 2024 root bqṯ |  |
 | Punic | bqš 'request' | Anderson–Moser 2024 root bqṯ |  |
 | Ugaritic | bqṯ 'search' | Anderson–Moser 2024 root bqṯ |  |
-| Phoenician | bqš (T, 54) | T 54 | gloss withheld |
+| Phoenician | bqš (T 54) | T 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

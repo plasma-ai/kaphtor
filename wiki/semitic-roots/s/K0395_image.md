@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | semel (HALOT 760) | HALOT 760 |  |
-| Phoenician | sml (Krahmalkov, 345; T, 230); \*smlt (T, 230) | Krahmalkov 345; T 230; T 230 | gloss withheld |
+| Phoenician | sml (Krahmalkov 345; T 230); \*smlt (T 230) | Krahmalkov 345; T 230; T 230 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

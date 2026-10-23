@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | hnd (II) 'to not have the strength to do something, to be very slow to do something' \[BK 2 1452\] | BK 2 1452 |  |
 | Mehri | hōnǝd \[JM 158\] | JM 158 | gloss withheld |
-| Soqotri | hénod \[LS 145\] | LS 145 | gloss withheld |
+| Soqotri | hénod \[LS 145\]; ʸhéned, ʸhénod (SLOnline 4029) | LS 145 | gloss withheld |
 | Harsusi | hēned do. \[JH 52\] | JH 52 |  |
 | Tigre | hǝnǝd gäʔa, tähannädä \[LH 19\]. | LH 19 | gloss withheld |
 | Jibbali | ohúnd do. \[JJ 97\] | JJ 97 |  |

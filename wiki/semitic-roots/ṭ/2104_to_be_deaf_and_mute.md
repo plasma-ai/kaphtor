@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ṭummum- OB on \[AHw 1394\], ṭummumu (D-stem) SB \[ibid.\] | AHw 1394; ibid. | gloss withheld |
 | Hebrew | ʔṭm (HALOT 37) | HALOT 37 | gloss withheld |
-| Syrian Aramaic | ʔaṭṭīmā 'deaf' \[Brock 14\], ʔeṭṭam 'he turned out deaf'; ṭǝmīmā 'mute' \[ibid.\] | Brock 14; ibid. |  |
+| Syrian Aramaic | ʔaṭṭīmā 'deaf' \[Brock 14\], ʔeṭṭam 'he turned out deaf'; ṭǝmīmā 'mute' \[Brock 279\] | Brock 14; Brock 279 |  |
 | Tigrinya | ṭämämä 'to close the eyes and mouth of a dying person' \[Bass 894\] | Bass 894 |  |
-| Soqotri | ʔiṭéreh (f.) \[LS 57\] | LS 57 |  |
+| Soqotri |  | LS 57 | source's text withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

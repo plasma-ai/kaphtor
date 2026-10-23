@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sarīr- 'royal dignity, kingship' (BK 1, 1076), sarw- 'chief, prince', srw 'be generous and of a manly character' (BK 1, 1085) | BK 1, 1076; BK 1, 1085 |  |
-| Tigre | sǝrot, pl. särwat (LH, 178) | LH 178 | gloss withheld |
-| Ugaritic | Cf. srn (DUL, 770) | DUL 770 | gloss withheld |
-| East Ethiopic | Zwy. ṭor särawit (LGur, 563) | LGur 563 | gloss withheld |
-| Geez | sarwe (LGz., 515) | LGz. 515 | gloss withheld |
-| Gurage | End ṭōr särawit, So sǝrayǝt (LGur, 563) | LGur 563 | gloss withheld |
+| Tigre | sǝrot, pl. särwat (LH 178) | LH 178 | gloss withheld |
+| Ugaritic | Cf. srn (DULAT 759) | DULAT 759 | gloss withheld |
+| East Ethiopic | Zwy. ṭor särawit (LGur 563) | LGur 563 | gloss withheld |
+| Geez | sarwe (LGz. 515) | LGz. 515 | gloss withheld |
+| Gurage | End ṭōr särawit, So sǝrayǝt (LGur 563) | LGur 563 | gloss withheld |
 | Hebrew | Cf. sǝrānīm (pl.) (HALOT 770) | HALOT 770 | gloss withheld |
-| Tigrinya | särawit (KT, 678) | KT 678 | gloss withheld |
+| Tigrinya | särawit (KT 678) | KT 678 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | PB ḥisḥūs 'the cartilages forming the ear, helix, etc.' \[Ja 486-7\] | Ja 486-7 |  |
 | Judaic Aramaic | ḥăsīsā, ḥasḥāsūt 'the system of cartilages of the ear, helix and antihelix' \[Ja 487\], ḥisḥūs 'the cartilages forming the ear' \[ibid.\] | Ja 487; ibid. |  |
 | Syrian Aramaic | ḥasḥūsē (pl.) 'cartilages' \[Brock 245\] | Brock 245 |  |
-| Eblaitic | ḫa-zi-zu-um /ḫasīsum/ \[Fron. Ebl. 167\], \[Kreb. 15\] | Fron. Ebl. 167; Kreb. 15 | gloss withheld |
+| Eblaitic | ḫa-zi-zu-um /ḫasīsum/ \[Fron. Ebl. 167\], \[Kreb. 15\]; haₓ(ḪAL)-zu-um /ḫassum/ (VE 1253; Krebernik 1983, 42) | Fron. Ebl. 167; Kreb. 15; VE 1253; Krebernik 1983, 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

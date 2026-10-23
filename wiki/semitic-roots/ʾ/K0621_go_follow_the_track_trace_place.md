@@ -33,14 +33,18 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ašāru, ašru (HALOT 97) | HALOT 97 | gloss withheld |
 | Arabic | ʾaṯar, ʾiṯr (HALOT 97) | HALOT 97 | gloss withheld |
 | Tigre | ʾasra (HALOT 97) | HALOT 97 | gloss withheld |
-| Epigraphic South Arabian | ʾṯr (HALOT 97) | HALOT 97 | gloss withheld |
-| Soqotri | ʾihor (LGz., 45) | LGz. 45 | gloss withheld |
-| Aramaic | ʾăṯar (LGz., 45) | LGz. 45 | gloss withheld |
-| Syrian Aramaic | ʾaṯrā (LGz., 45) | LGz. 45 | gloss withheld |
-| Mandaic Aramaic | atra (LGz., 45) | LGz. 45 | gloss withheld |
-| Phoenician | ʾšr (T, 36) | T 36 | gloss withheld |
-| Judaic Aramaic | ʾatraʾ (T, 36) | T 36 |  |
+| Epigraphic South Arabian | ʾṯr (HALOT 97); Sab. brṯ (SD 32; Biella 60–61), from b- + ʾṯr (Rendsburg 2022, 322–323) | HALOT 97; SD 32; Biella 60–61; Rendsburg 2022, 322–323 | gloss withheld |
+| Soqotri | ʾihor (LGz. 45); éʸhor (SLOnline 3177) | LGz. 45 | gloss withheld |
+| Aramaic | ʾăṯar (LGz. 45) | LGz. 45 | gloss withheld |
+| Syrian Aramaic | ʾaṯrā (LGz. 45) | LGz. 45 | gloss withheld |
+| Mandaic Aramaic | atra (LGz. 45) | LGz. 45 | gloss withheld |
+| Phoenician | ʾšr (T 36) | T 36 | gloss withheld |
+| Judaic Aramaic | ʾatraʾ (T 36) | T 36 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Rendsburg 2022, 332–333 and n. 76: Sabaic (4×) and Minaic (1×) ʾrṯt, the name of a sanctuary, is the feminine of ʾṯr 'place' with the same metathesis, beside Akkadian aširtu 'sanctuary'; South Arabian ʾṯrt is the name of the goddess Asherah (3× Minaic, 41× Qatabanian), not 'sanctuary'.
 
 <!-- END kaphtor:record -->

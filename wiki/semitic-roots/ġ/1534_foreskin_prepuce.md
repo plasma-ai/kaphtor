@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ɣurlat- 'a large, uncircumcised penis' \[BK 2 461\]. | BK 2 461 |  |
+| Arabic | ɣurlat- 'foreskin' \[BK 2 460\]. | BK 2 460 |  |
 | Akkadian | urullu \[AHw 1436\] | AHw 1436 | gloss withheld |
 | Canaanite | EG SYLL ḳu4-r=na=ta /\*ɣurlata, ɣurlōta/ \[Hoch 302\] | Hoch 302 | gloss withheld |
 | Hebrew | ʕorlā (HALOT 886) | HALOT 886 | gloss withheld |

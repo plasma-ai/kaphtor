@@ -37,12 +37,12 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qālā (HALOT 1101) | HALOT 1101 | gloss withheld |
 | Judaic Aramaic | qəlā (HALOT 1101) | HALOT 1101 |  |
 | Syrian Aramaic | qəlā (HALOT 1101) | HALOT 1101 |  |
-| Soqotri | qale (LGz., 431) | LGz. 431 |  |
-| Tigrinya | qäläwä (LGz., 431) | LGz. 431 |  |
-| Tigre | qäla (qly) (LGz., 431) | LGz. 431 |  |
-| Amharic | qʷälla (LGz., 431) | LGz. 431 | gloss withheld |
-| Argobba | qʷälla (LGz., 431) | LGz. 431 | gloss withheld |
-| Gafat | qollä (LGz., 431) | LGz. 431 |  |
+| Soqotri | qale (LGz. 431) | LGz. 431 |  |
+| Tigrinya | qäläwä (LGz. 431) | LGz. 431 |  |
+| Tigre | qäla (qly) (LGz. 431) | LGz. 431 |  |
+| Amharic | qʷälla (LGz. 431) | LGz. 431 | gloss withheld |
+| Argobba | qʷälla (LGz. 431) | LGz. 431 | gloss withheld |
+| Gafat | qollä (LGz. 431) | LGz. 431 |  |
 | Harari | qala \[LHar 123\] | LHar 123 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

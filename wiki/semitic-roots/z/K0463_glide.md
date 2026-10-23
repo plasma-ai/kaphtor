@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | zalaga 'flow' | Anderson–Moser 2024 root zlg |  |
-| Arabic | zalaǧa (LGz., 637) | LGz. 637 | gloss withheld |
-| Tigrinya | zälägg bälä (LGz., 637) | LGz. 637 | gloss withheld |
+| Arabic | zalaǧa (LGz. 637) | LGz. 637 | gloss withheld |
+| Tigrinya | zälägg bälä (LGz. 637) | LGz. 637 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

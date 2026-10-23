@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | suādu, suʔādu, sumādu, sumandu, ṣumādu OB CAD s 338 | CAD s 338 |  |
-| Syrian Aramaic | suʿdā (seʿdā) (CAD S, 339) | CAD S, 339 | gloss withheld |
-| Arabic | suʿd (CAD S, 339) | CAD S, 339 | gloss withheld |
+| Syrian Aramaic | suʿdā (seʿdā) (CAD S 339) | CAD S 339 | gloss withheld |
+| Arabic | suʿd (CAD S 339) | CAD S 339 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

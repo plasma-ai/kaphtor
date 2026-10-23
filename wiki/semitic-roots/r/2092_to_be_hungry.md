@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | rʿb (CAL s.v. rʿb) | CAL s.v. rʿb | gloss withheld |
 | Judaic Aramaic | rʿb (HALOT 1256; DJPA 527a apud CAL) | HALOT 1256; DJPA 527a; CAL |  |
 | Harari | räḥaba-, raḥab (SED I 316) | SED I 316 | gloss withheld |
-| Tigrinya | räḥabä-, räḥab (LGz., 468) | LGz. 468 | gloss withheld |
-| Argobba | rähaw (LGz., 468) | LGz. 468 | gloss withheld |
+| Tigrinya | räḥabä-, räḥab (LGz. 468) | LGz. 468 | gloss withheld |
+| Argobba | rähaw (LGz. 468) | LGz. 468 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ḫyr (DULAT, 411; HALOT 266); /ḫiyyāru/ (UVST, 128) | DULAT 411; HALOT 266; UVST 128 | gloss withheld |
-| Phoenician | ḥyr (Krahmalkov, 183, citing KAI 40.1) | Krahmalkov 183, citing KAI 40.1 | gloss withheld |
-| Punic | ḥyr (Krahmalkov, 183, citing KAI 81.5) | Krahmalkov 183, citing KAI 81.5 |  |
+| Ugaritic | ḫyr (DULAT 411; HALOT 266); /ḫiyyāru/ (UVST 128) | DULAT 411; HALOT 266; UVST 128 | gloss withheld |
+| Phoenician | ḥyr (Krahmalkov 183, citing KAI 40.1) | Krahmalkov 183, citing KAI 40.1 | gloss withheld |
+| Punic | ḥyr (Krahmalkov 183, citing KAI 81.5) | Krahmalkov 183, citing KAI 81.5 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

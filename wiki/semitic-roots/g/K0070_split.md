@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | galʿa 'split' | Anderson–Moser 2024 root glʿ |  |
-| Arabic | ǧalaʿa (LGz., 189) | LGz. 189 | gloss withheld |
-| Hebrew | glʿ (hitpael), PbH. gālaʿ (LGz., 189) | LGz. 189 | gloss withheld |
-| Syrian Aramaic | gəlaʿ &gt; (LGz., 189) | LGz. 189 | gloss withheld |
-| Tigre | gälʿa (LGz., 189) | LGz. 189 | gloss withheld |
-| Tigrinya | gälləʿe (LGz., 189) | LGz. 189 |  |
+| Arabic | ǧalaʿa (LGz. 189) | LGz. 189 | gloss withheld |
+| Hebrew | glʿ (hitpael), PbH. gālaʿ (LGz. 189) | LGz. 189 | gloss withheld |
+| Syrian Aramaic | gəlaʿ &gt; (LGz. 189) | LGz. 189 | gloss withheld |
+| Tigre | gälʿa (LGz. 189) | LGz. 189 | gloss withheld |
+| Tigrinya | gälləʿe (LGz. 189) | LGz. 189 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

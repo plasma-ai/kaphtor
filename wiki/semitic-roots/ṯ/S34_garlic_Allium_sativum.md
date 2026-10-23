@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṯūm (ثوم) "garlic" (BK 1, 279; Lane, 365) | BK 1, 279; Lane 365 |  |
-| Akkadian | šūmu (CAD Š3, 298; AHw., 1278) | CAD Š3, 298; AHw. 1278 | gloss withheld |
+| Arabic | ṯūm (ثوم) "garlic" (BK 1, 279; Lane 365) | BK 1, 279; Lane 365 |  |
+| Akkadian | šūmu (CAD Š/3 298; AHw. 1278) | CAD Š/3 298; AHw. 1278 | gloss withheld |
 | Hebrew | šūm (שׁוּם) (HALOT 1442; Num 11:5 haššūmīm) | HALOT 1442 | gloss withheld |
-| Judaic Aramaic | tūmā (תּוּמָא) "garlic" (Ja., 1654) | Ja. 1654 |  |
-| Syrian Aramaic | tūmā "garlic" (Brock., 819) | Brock. 819 |  |
+| Judaic Aramaic | tūmā (תּוּמָא) "garlic" (Ja. 1654) | Ja. 1654 |  |
+| Syrian Aramaic | tūmā "garlic" (Brock. 819) | Brock. 819 |  |
 | Aramaic | Sml. šmy (HALOT 1442) | HALOT 1442 | gloss withheld |
 | Mandaic Aramaic | tum (HALOT 1442) | HALOT 1442 | gloss withheld |
 | Mehri | ṯəmēt (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |

@@ -32,17 +32,17 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | fṣl 2 (Lane 2405) | Lane 2405 |  |
 | Tigre | flṣ 3 |  |  |
-| Geez | flṣ 3; falaṭa (LGz., 161) | LGz. 161 | gloss withheld |
-| Amharic | flṣ 3; fälläṭä (LGz., 161) | LGz. 161 | gloss withheld |
+| Geez | flṣ 3; falaṭa (LGz. 161) | LGz. 161 | gloss withheld |
+| Amharic | flṣ 3; fälläṭä (LGz. 161) | LGz. 161 | gloss withheld |
 | Aramaic | pǝṣal 1 |  |  |
 | Tigrinya | flṣ 3 |  |  |
-| Hebrew | piṣṣel (LGz., 111, 161) | LGz. 111, 161 | gloss withheld |
-| Mandaic Aramaic | pṣl (LGz., 111, 161) | LGz. 111, 161 |  |
-| Syrian Aramaic | pəṣal (LGz., 161) | LGz. 161 | gloss withheld |
+| Hebrew | piṣṣel (LGz. 111, 161) | LGz. 111, 161 | gloss withheld |
+| Mandaic Aramaic | pṣl (LGz. 111, 161) | LGz. 111, 161 |  |
+| Syrian Aramaic | pəṣal (LGz. 161) | LGz. 161 | gloss withheld |
 | Gurage | Muh. Gog. Sod. fälläṭä (EDG 232 apud SEDonline 1315) | EDG 232; SEDonline 1315 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. fäläṭä (EDG 232 apud SEDonline 1315) | EDG 232; SEDonline 1315 | gloss withheld |
 | Harari | fäläṭa (EDH 63 apud SEDonline 1315) | EDH 63; SEDonline 1315 | gloss withheld |
-| Argobba | fälläṭa (LGz., 161) | LGz. 161 |  |
+| Argobba | fälläṭa (LGz. 161) | LGz. 161 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

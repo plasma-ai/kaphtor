@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ṣəriᵃḥ (LGz., 563) | LGz. 563 | gloss withheld |
-| Aramaic | ṣərīḥā (LGz., 563) | LGz. 563 | gloss withheld |
-| Tigrinya | ṣərḥi (LGz., 563) | LGz. 563 | gloss withheld |
+| Hebrew | ṣəriᵃḥ (LGz. 563) | LGz. 563 | gloss withheld |
+| Aramaic | ṣərīḥā (LGz. 563) | LGz. 563 | gloss withheld |
+| Tigrinya | ṣərḥi (LGz. 563) | LGz. 563 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

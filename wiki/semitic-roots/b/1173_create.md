@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | bra |  |  |
 | Hebrew | brʔ |  |  |
 | Aramaic | bǝrā |  |  |
-| Epigraphic South Arabian | Sab brʾ (B. Ašwal 1/2, 3; SD, 30; Biella, 54) | SD 30; Biella 54 | gloss withheld |
-| Punic | brʾ (Biella, 54) | Biella 54 |  |
-| Judaic Aramaic | beraʾ (T, 55) | T 55 |  |
+| Epigraphic South Arabian | Sab brʾ (B. Ašwal 1/2, 3; SD 30; Biella 54) | SD 30; Biella 54 | gloss withheld |
+| Punic | brʾ (Biella 54) | Biella 54 |  |
+| Judaic Aramaic | beraʾ (T 55) | T 55 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

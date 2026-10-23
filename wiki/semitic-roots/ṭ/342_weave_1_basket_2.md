@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ṭenû 1 |  |  |
 | Hebrew | ṭänä(ʔ) 2 (HALOT 377) | HALOT 377 |  |
-| Phoenician | ṭnʾ (T, 121) | T 121 | gloss withheld |
+| Phoenician | ṭnʾ (T 121) | T 121 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | tullû |  |  |
-| Phoenician | tly (Krahmalkov, 492) | Krahmalkov 492 | gloss withheld |
+| Phoenician | tly (Krahmalkov 492) | Krahmalkov 492 | gloss withheld |
 | Hebrew | tlh |  |  |
 | Judaic Aramaic | təlā (HALOT 1738) | HALOT 1738 |  |
 | Aramaic | tly, tlʾ (HALOT 1738) | HALOT 1738 |  |

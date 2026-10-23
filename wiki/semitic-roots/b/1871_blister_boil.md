@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | CHA ǝmbʷäpʷä, EZHA MSQ GOG ǝmbʷäbbʷä, END ǝmbʷäppä, MUH ǝmbʷäbʷä, ǝmbʷäwä, SOD ǝmbobbo do. \[ibid.\]. |  |  |
 | Hebrew | ʔăbaʕbūʕōt (HALOT 9); PB biʕbūăʕ \[Ja 180\] (also) | HALOT 9; Ja 180 | gloss withheld |
 | Judaic Aramaic | būʕā 'swelling, abscess, mostly applied to tubercles of the lungs' \[Ja 147\], būʕătā, būtā 'abscess' \[ibid. 147\], ʔăbaʕbūʕīn (pl.) 'blains, pustules' \[ibid. 8\] | Ja 147; ibid. 147; ibid. 8 |  |
-| Syrian Aramaic | note ʔabbūbā 'fistula' \[Brock 1\]; likely related, with a dropped \*-ʕ- (cf. JUD būtā, above) | Brock 1 |  |
+| Syrian Aramaic | note ʔabbūbā 'pipe, reed; catheter' \[Brock 1\]; likely related, with a dropped \*-ʕ- (cf. JUD būtā, above) | Brock 1 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

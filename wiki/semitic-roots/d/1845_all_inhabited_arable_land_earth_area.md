@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | daymūm-, daymūmat- 'vast waterless desert' \[BK 1 729\]; ʔadīm- 'earth; the whole expanse of sky and earth that the eye can take in' \[BK 1 19\], ʔīdāmat- 'hard ground, without stones or pebbles; surface of the earth' \[ibid. 20\] | BK 1 729; BK 1 19; ibid. 20 |  |
 | Akkadian | (OB on) dadmū pl. tant. \[CAD d 18\]; \[AHw 149\] (&lt;\*damdam-); cf. dimatu | CAD d 18; AHw 149 | gloss withheld |
-| Ugaritic | dm-t; (?) udm NL DLU, 9 | DLU 9 | gloss withheld |
+| Ugaritic | dm-t; (?) udm NL (DULAT 18) | DULAT 18 | gloss withheld |
 | Geez | ʔadyām \[LGz 146\] | LGz 146 | gloss withheld |
 | Punic | ʔdmt \[Estañol 60\] |  | gloss withheld |
 | Hebrew | ʔădāmā (HALOT 15); also ʔādām, ʕēn ʔ. (HALOT 14, 15) (in: Zech 9:1, Jr 32:20, etc.) | HALOT 15; HALOT 14, 15 | gloss withheld |

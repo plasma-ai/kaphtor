@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ḫdʿ, mḫdʿ (SD, 58, 59; Biella, 197) | SD 58, 59; Biella 197 | gloss withheld |
-| Arabic | Ar xadaʿa xadaʿat al-sūq (Irv/221; Biella, 197) | Biella 197 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫdʿ, mḫdʿ (SD 58, 59; Biella 197) | SD 58, 59; Biella 197 | gloss withheld |
+| Arabic | Ar xadaʿa xadaʿat al-sūq (Irvine 1962, 221 apud Biella 197) | Irvine 1962, 221; Biella 197 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

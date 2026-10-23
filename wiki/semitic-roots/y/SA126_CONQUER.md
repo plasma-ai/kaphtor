@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab yhr (Biella, 230; SD, 168) | Biella 230; SD 168 | gloss withheld |
+| Epigraphic South Arabian | Sab yhr (Biella 230; SD 168); (Sabaweb lemma 2106) | Biella 230; SD 168; Sabaweb lemma 2106 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

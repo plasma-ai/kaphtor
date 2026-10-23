@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | špṭ |  |  |
-| Ugaritic | ṯpṭ (DULAT, 912); ṯpṭ (title of Yaríḫ, KTU 1.24:25) | DULAT 912; KTU 1 | gloss withheld |
-| Phoenician | špṭ; špṭ (T, 329) | T 329 | gloss withheld |
+| Ugaritic | ṯpṭ (DULAT 912); ṯpṭ (title of Yaríḫ, KTU 1.24:25) | DULAT 912; KTU 1 | gloss withheld |
+| Phoenician | špṭ; špṭ (T 329) | T 329 | gloss withheld |
 | Hebrew | šāpaṭ; šōpēṭ; mišpāṭ |  | gloss withheld |
 | Punic | špṭ 'judge' | Anderson–Moser 2024 root ṯpṭ |  |
 | Epigraphic South Arabian | Sab. ṯpṭ (HALOT 1622) | HALOT 1622 |  |

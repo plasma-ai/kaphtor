@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | cf. ibr; syllabic /ʔa/ib(b)īru/ in personal names (DULAT, 11) | DULAT 11 | gloss withheld |
+| Ugaritic | cf. ibr; syllabic /ʔa/ib(b)īru/ in personal names (DULAT 11) | DULAT 11 | gloss withheld |
 | Hebrew | ʔabbīr (HALOT 6) | HALOT 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

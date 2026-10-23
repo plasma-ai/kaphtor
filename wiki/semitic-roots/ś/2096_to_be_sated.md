@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | šbʕ (a) 'to be satiated' \[BK 1 1184\] | BK 1 1184 |  |
 | Mehri | ŝība \[JM 370\] | JM 370 | gloss withheld |
-| Soqotri | ŝíbaḥ \[LS 425\] | LS 425 | gloss withheld |
+| Soqotri | ŝíbaḥ \[LS 425\]; ŝébaˁ (SLOnline 7481) | LS 425 | gloss withheld |
 | Akkadian | šebû OB on \[CAD š2 251\], \[AHw 1207\] | CAD š2 251; AHw 1207 | gloss withheld |
 | Harsusi | ŝōba \[JH 118\] | JH 118 | gloss withheld |
 | Mandaic Aramaic | SBA \[DM 316\] | DM 316 | gloss withheld |

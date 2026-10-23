@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | aššatu, aššāti (HALOT 93) | HALOT 93 |  |
 | Arabic | ʾunṯā (HALOT 93) | HALOT 93 | gloss withheld |
 | Geez | ʾanest (HALOT 93) | HALOT 93 |  |
-| Epigraphic South Arabian | ʾnṯt (HALOT 93) | HALOT 93 |  |
+| Epigraphic South Arabian | ʾnṯt (HALOT 93; Sabaweb lemma 1336) | HALOT 93; Sabaweb lemma 1336 | gloss withheld |
 | Tigrinya | ʾanəsti (Kogan 2011, 233) | Kogan 2011, 233 | gloss withheld |
 | Gurage | SOD ənəst, ənšəttatä (Kogan 2011, 233) | Kogan 2011, 233 | gloss withheld |
 | Amorite | ʾ-n-ṯ: taʾnīṯ- (George and Krebernik 2022, 126, 155) | Krebernik 2022 | gloss withheld |

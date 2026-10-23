@@ -51,7 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Egyptian | nšp (OLA80 §2.16, §49.19) | OLA80 §2.16, §49.19 | gloss withheld |
 | Aramaic | NPḤ (Qumran 158 apud CAL) | CAL | gloss withheld |
 | Eblaitic | na-ba-ḫu-um /napāḫum/ (= Sum. KA.DIRI, VE 229) | VE 229 |  |
-| Ugaritic | \*npḥ in mpḥm (LGz., 388; DULAT, 559) | LGz. 388; DULAT 559 | gloss withheld |
+| Ugaritic | \*npḥ in mpḥm (LGz. 388; DULAT 559) | LGz. 388; DULAT 559 | gloss withheld |
 | Amorite | npḫ: jippiḫ (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | END mǝnǝʔ do. \[LGur 422\]; SOD ərəmmač̣ä \[LGur. I 1044\]; GOG əmburḳəyä \[LGur. 45\]. | LGur 422; LGur. I 1044; LGur. 45 |  |
 | Hebrew | yrḳ (HALOT 440), rḳḳ (HALOT 1292), rōḳ (HALOT 1287); PB rḳḳ, rwḳ \[Ja 1497\] | HALOT 440; HALOT 1292; HALOT 1287; Ja 1497 | gloss withheld |
 | Amharic | mǝraḳ \[K 182\] | K 182 | gloss withheld |
-| Judaic Aramaic | yrḳ \[Ja 597\], \[Sok 246\], rwḳ, rḳḳ, ryḳ \[Ja 1498\], rḳḳ \[Sok 530\], rōḳā \[Ja 1463\], rwḳ do. \[Sok 520\] | Ja 597; Sok 246; Ja 1498; Sok 530; Ja 1463; Sok 520 | gloss withheld |
+| Judaic Aramaic | yrḳ \[Ja 597\], \[DJPA 246a apud CAL\], rwḳ, rḳḳ, ryḳ \[Ja 1498\], rḳḳ \[DJPA 530a apud CAL\], rōḳā \[Ja 1463\], rwḳ do. \[Sok 520\] | Ja 597; DJPA 246a; CAL; Ja 1498; DJPA 530a; CAL; Ja 1463; Sok 520 | gloss withheld |
 | Aramaic | OFF rwḳ \[HJ 1064\] | HJ 1064 |  |
 | Tigrinya | mǝrraḳ 'saliva' \[Bass 83\] | Bass 83 |  |
 | Syrian Aramaic | raḳ; reḳḳā, ruḳḳā \[Brock. 743\] | Brock. 743 |  |

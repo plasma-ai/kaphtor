@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ganetā, gānetā (LGz., 199) | LGz. 199 | gloss withheld |
+| Geez | ganetā, gānetā (LGz. 199) | LGz. 199 | gloss withheld |
 | Gurage | gäňä (S), gäňňä (W), gäňňǝt (So), gäňňa (Ms,Go) LGur 286 | LGur 286 | gloss withheld |
-| Amharic | gaňňa, geňňa LGz., 199 | LGz. 199 | gloss withheld |
+| Amharic | gaňňa, geňňa LGz. 199 | LGz. 199 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

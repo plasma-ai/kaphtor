@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫulmittu (ḫulmiddu, ḫulmiṭṭu) SB \[CAD ḫ 230\], ḫulmiṭṭu \[AHw. 354\] | CAD ḫ 230; AHw. 354; Landsberger Fauna 62- | gloss withheld |
 | Hebrew | ḥōmäṭ (HALOT 327, 328) | HALOT 327, 328 | gloss withheld |
 | Judaic Aramaic | ḥumṭā 'a lizard (chamoeleon)' \[Ja. 435\]. | Ja. 435 |  |
-| Ugaritic | ḫlmṯ̣ ( doubtful; DUL 392–3) | DUL 392–3 | gloss withheld |
+| Ugaritic | ḫlmṯ̣, epithet or emblem of the goddess ʔušḫr (DULAT 387) | DULAT 387 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

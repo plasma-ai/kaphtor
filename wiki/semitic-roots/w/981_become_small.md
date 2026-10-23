@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | w/yks | SEDonline semet 1006 |  |
+| Arabic | wks \[-i-\] 'become deficient; diminish, decrease' (Lane 2964) | Lane 2964 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

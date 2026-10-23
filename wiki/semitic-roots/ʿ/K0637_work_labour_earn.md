@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕamila 'worked' (Lane 2158) | Lane 2158 |  |
-| Aramaic | ʿML 'labor' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | ʿML (Aramaic Root Atlas; CAL s.v. ʿml) | Aramaic Root Atlas; CAL s.v. ʿml | gloss withheld |
 | Hebrew | ʿamal 'labour' | Anderson–Moser 2024 root ʿml |  |
 | Ugaritic | ʿml 'earn' | Anderson–Moser 2024 root ʿml |  |
 | Syrian Aramaic | ʕmal 'labour, toil; weary' (Payne Smith 417) | Payne Smith 417 |  |
 | Judaic Aramaic | JBA ʕamlā (DJBA 870 apud SEDonline 1391) | DJBA 870; SEDonline 1391 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿml (Biella, 371) | Biella 371 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿml (Biella 371) | Biella 371 | gloss withheld |
 | Akkadian | nēmelu (HALOT 845) | HALOT 845 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

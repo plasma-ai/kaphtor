@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | laṯaɣat- 'mouth, lips' \[BK 2 965\]; laṯʕat- 'le bas des lèvres à l'intérieur' \[BK 2 965\]. | BK 2 965; BK 2 965 |  |
+| Arabic | laṯaɣat- 'mouth, lips' \[BK 2 965\]; laṯʕat- 'the lower part of the lips, on the inside' \[BK 2 965\]. | BK 2 965; BK 2 965 |  |
 | Akkadian | lašḫu, laḫšu (metathetic) SB \[CAD l 108\], \[AHw 539\] (note -ḫ- &lt;\*-ɣ-) | CAD l 108; AHw 539 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

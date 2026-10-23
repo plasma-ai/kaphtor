@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Punic | tmk (T, 342) | T 342 | gloss withheld |
+| Punic | tmk (T 342) | T 342 | gloss withheld |
 | Hebrew | tmk (HALOT 1751) | HALOT 1751 | gloss withheld |
 | Judaic Aramaic | tmk (HALOT 1751) | HALOT 1751 |  |
 | Phoenician | tmk (HALOT 1751) | HALOT 1751 |  |

@@ -35,6 +35,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Not a Proto-Semitic reconstruction. Root comparanda for √m-n-y 'to apportion' (see 2703): Hebrew mānâ 'to count, divide, appoint' (HALOT 599), Mǝnî 'Meni, god of fate' (Isa 65:11; HALOT 602), Akkadian manû 'to count, reckon' (CAD M1, 221), Manāt (see 2966). Minos confers with Zeus 'each ninth year' (Od. 19.172–179).
+Not a Proto-Semitic reconstruction. Root comparanda for √m-n-y 'to apportion' (see 2703): Hebrew mānâ 'to count, divide, appoint' (HALOT 599), Mǝnî 'Meni, god of fate' (Isa 65:11; HALOT 602), Akkadian manû 'to count, reckon' (CAD M/1 221), Manāt (see 2966). Minos confers with Zeus 'each ninth year' (Od. 19.172–179).
 
 <!-- END kaphtor:record -->

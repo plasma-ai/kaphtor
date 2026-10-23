@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | məsḥāl (LGz., 493) | LGz. 493 | gloss withheld |
-| Arabic | saḥala (LGz., 493) | LGz. 493 | gloss withheld |
-| Akkadian | šêlu (LGz., 493) | LGz. 493 | gloss withheld |
+| Geez | məsḥāl (LGz. 493) | LGz. 493 | gloss withheld |
+| Arabic | saḥala (LGz. 493) | LGz. 493 | gloss withheld |
+| Akkadian | šêlu (LGz. 493) | LGz. 493 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

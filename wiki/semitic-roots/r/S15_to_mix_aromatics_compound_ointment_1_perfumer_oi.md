@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ruqqû (CAD R, 420); raqqû (rāqû) (CAD R, 173) | CAD R, 420; CAD R, 173 | gloss withheld |
-| Ugaritic | rqḥ (DULAT, 734); mrqḥt | DULAT 734 | gloss withheld |
-| Phoenician | rqḥ (Krahmalkov, 447) | Krahmalkov 447 | gloss withheld |
+| Akkadian | ruqqû (CAD R 420); raqqû (rāqû) (CAD R 173) | CAD R 420; CAD R 173 | gloss withheld |
+| Ugaritic | rqḥ (DULAT 734); mrqḥt | DULAT 734 | gloss withheld |
+| Phoenician | rqḥ (Krahmalkov 447) | Krahmalkov 447 | gloss withheld |
 | Hebrew | rōqēaḥ 'perfumer, apothecary' (BDB 955); riqqūḥīm 'spices, perfumes' (Song 8:2); mereqāḥōt 'ointment preparations' (Ex. 30:25) | BDB 955 |  |
 | Punic | rqḥ 'mix ointments' | Anderson–Moser 2024 root rqḥ |  |
 | Judaic Aramaic | mrqḥtʾ (HALOT 638) | HALOT 638 |  |

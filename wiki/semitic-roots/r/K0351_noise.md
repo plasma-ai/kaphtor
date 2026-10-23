@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ranna 'moaned' | Anderson–Moser 2024 root rnn |  |
-| Aramaic | RNN 'mumble' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | RNN (Aramaic Root Atlas; CAL s.v. rnn) | Aramaic Root Atlas; CAL s.v. rnn | gloss withheld |
 | Hebrew | rannen 'cry' (BDB 943) | BDB 943 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

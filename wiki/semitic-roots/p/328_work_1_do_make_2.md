@@ -36,9 +36,9 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | fʕl 1 |  |  |
 | Syrian Aramaic | pʕl 1 (Payne Smith 453) | Payne Smith 453 |  |
 | Ugaritic | pʿl (HALOT 950) | HALOT 950 |  |
-| Punic | pʿlt, pʾlt (T, 268) | T 268 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic fʿl (Al-Jallad–Jaworska, 68) | Al-Jallad–Jaworska 68 | gloss withheld |
-| Judaic Aramaic | peʿūlta (T, 268) | T 268 |  |
+| Punic | pʿlt, pʾlt (T 268) | T 268 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic fʿl (Al-Jallad–Jaworska 68) | Al-Jallad–Jaworska 68 | gloss withheld |
+| Judaic Aramaic | peʿūlta (T 268) | T 268 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

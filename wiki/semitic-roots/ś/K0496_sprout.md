@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | śawḥa 'green' | Anderson–Moser 2024 root śwḥ |  |
-| Tigrinya | säwḥe (LGz., 539) | LGz. 539 | gloss withheld |
+| Tigrinya | säwḥe (LGz. 539) | LGz. 539 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

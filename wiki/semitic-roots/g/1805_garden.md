@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mandaic Aramaic | ginta (DM, 91) | DM 91 | gloss withheld |
-| Ugaritic | gn (DLU, 148) | DLU 148 | gloss withheld |
+| Mandaic Aramaic | ginta (DM 91) | DM 91 | gloss withheld |
+| Ugaritic | gn (DULAT 299) | DULAT 299 | gloss withheld |
 | Hebrew | gan (HALOT 198), gannā, \*ginnā (HALOT 199) | HALOT 198; HALOT 199 | gloss withheld |
-| Epigraphic South Arabian | Sab. gnt (SD, 50) | SD 50 | gloss withheld |
-| Judaic Aramaic | gīnnǝtā, gīnā (Ja., 240) id. | Ja. 240 |  |
-| Syrian Aramaic | gannǝtā 'garden' (Brock., 122) | Brock. 122 |  |
+| Epigraphic South Arabian | Sab. gnt (SD 50; Sabaweb lemma 4162) | SD 50; Sabaweb lemma 4162 | gloss withheld |
+| Judaic Aramaic | gīnnǝtā, gīnā (Ja. 240) id. | Ja. 240 |  |
+| Syrian Aramaic | gannǝtā 'garden' (Brock. 122) | Brock. 122 |  |
 | Aramaic | gn (Cohen et al. 1970-, 147) | Cohen et al. 1970- 147 |  |
-| Pre-Islamic North Arabian | Safaitic gnt (Al-Jallad–Jaworska, 72) | Al-Jallad–Jaworska 72 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic gnt (Al-Jallad–Jaworska 72) | Al-Jallad–Jaworska 72 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

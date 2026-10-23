@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ṣriy 'balsam' | Anderson–Moser 2024 root ẓrw |  |
-| Ugaritic | ẓrw; /ẓurwu/? or /ṣurwu/? (UVST, 131) | UVST 131 | gloss withheld |
+| Ugaritic | ẓrw; /ẓurwu/? or /ṣurwu/? (UVST 131) | UVST 131 | gloss withheld |
 | Akkadian | zu-ur-wa, ṣurwa (HALOT 1055) | HALOT 1055 |  |
-| Epigraphic South Arabian | Sab. ḍrw (HALOT 1055) | HALOT 1055 |  |
+| Epigraphic South Arabian | Sab. ḍrw (HALOT 1055; Sabaweb lemma 3077) | HALOT 1055; Sabaweb lemma 3077 | gloss withheld |
 | Syrian Aramaic | ṣarwā (HALOT 1055) | HALOT 1055 |  |
 | Arabic | ḍarw (HALOT 1055) | HALOT 1055 |  |
 

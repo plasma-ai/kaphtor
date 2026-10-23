@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ŝōm 2, ŝḗtǝm 1 |  |  |
-| Soqotri | sʔm 2 |  |  |
+| Soqotri | sʔm 2; ŝóˀom (SLOnline 7487) |  | gloss withheld |
 | Akkadian | šâmu 1 |  |  |
 | Jibbali | ŝɛm 2 |  |  |
 | Epigraphic South Arabian | s2ʔm 1 |  |  |

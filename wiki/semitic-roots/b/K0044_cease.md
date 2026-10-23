@@ -35,11 +35,11 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | baṭel 'cease' (BDB 105) | BDB 105 |  |
 | Tigre | baṭ(a)la (HALOT 121) | HALOT 121 |  |
 | Epigraphic South Arabian | blṭ (HALOT 121) | HALOT 121 | gloss withheld |
-| Jibbali | bṭol (LGz., 113) | LGz. 113 | gloss withheld |
-| Syrian Aramaic | bəṭel (LGz., 113) | LGz. 113 |  |
-| Mandaic Aramaic | biṭil (LGz., 113) | LGz. 113 |  |
-| Amharic | bäṭṭälä (LGz., 113) | LGz. 113 | gloss withheld |
-| Harari | abäṭäla (LGz., 113) | LGz. 113 | gloss withheld |
+| Jibbali | bṭol (LGz. 113) | LGz. 113 | gloss withheld |
+| Syrian Aramaic | bəṭel (LGz. 113) | LGz. 113 |  |
+| Mandaic Aramaic | biṭil (LGz. 113) | LGz. 113 |  |
+| Amharic | bäṭṭälä (LGz. 113) | LGz. 113 | gloss withheld |
+| Harari | abäṭäla (LGz. 113) | LGz. 113 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

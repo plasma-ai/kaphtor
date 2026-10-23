@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | bašû from OAkk. on (CAD B, 144; AHw, 112) | CAD B, 144; AHw 112 |  |
+| Akkadian | bašû from OAkk. on (CAD B 144; AHw 112) | CAD B 144; AHw 112 |  |
 | Phoenician | bšy |  |  |
 | Amorite | bśj: jabaśśī (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
 

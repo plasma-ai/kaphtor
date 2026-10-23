@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab whr (Biella, 124; SD, 159) | Biella 124; SD 159 | gloss withheld |
-| Arabic | Had mawhar (LaH/738; Biella, 124). | Biella 124 | gloss withheld |
+| Epigraphic South Arabian | Sab whr (Biella 124; SD 159) | Biella 124; SD 159 | gloss withheld |
+| Arabic | Had mawhar (Landberg 1901, 738 apud Biella 124). | Landberg 1901, 738; Biella 124 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Proto-MSA \*ṯḥr 'to wound' (SEDonline 1547). Krebernik compares Sargonic Akk. šaʾāru 'to conquer, to win, to destroy' (CAD Š1, 2).
+Proto-MSA \*ṯḥr 'to wound' (SEDonline 1547). Krebernik (personal communication apud SEDonline 1547) compares Sargonic Akk. šaʾāru 'to conquer, to win, to destroy' (CAD Š/1 2).
 
 <!-- END kaphtor:record -->

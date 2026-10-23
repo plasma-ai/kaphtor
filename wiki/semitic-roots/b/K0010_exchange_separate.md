@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-GEZ badala 'exchange' is from Ar. badala (LGz., 86).
+GEZ badala 'exchange' is from Ar. badala (LGz. 86). HALOT 110 sets Hebrew bdl 'divide, withdraw' beside Arabic badala 'substitute', II 'change, exchange', and Ugaritic bdlm 'merchants' under one root.
 
 <!-- END kaphtor:record -->

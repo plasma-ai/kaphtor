@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǧalaǧat- 'skull; head' \[BK 1 311\] (&lt; \*ǧalǧal-at-?) | BK 1 311 |  |
 | Akkadian | gulgullu, gulgullatu Bab, NA \[CAD g 127\], \[AHw 297\] | CAD g 127; AHw 297 |  |
 | Hebrew | gulgōlät (HALOT 191) | HALOT 191 |  |
-| Judaic Aramaic | gulgultā, gulgaltā (also) \[Ja 221\]; gwlglh, det. gwlglth \[Sok 123\] | Ja 221; Sok 123 | gloss withheld |
+| Judaic Aramaic | gulgultā, gulgaltā (also) \[Ja 221\]; gwlglh, det. gwlglth \[DJPA 123a apud CAL\] | Ja 221; DJPA 123a; CAL | gloss withheld |
 | Aramaic | gulgultā (OLA80 §29.13) | OLA80 §29.13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

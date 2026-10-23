@@ -30,20 +30,20 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kāna (كان) yakūnu "to be, to exist" — primary existential verb. kawwana (II) "to form, create." kawn "being, existence." makān "place" (&lt; \*ma-kwn). (Lane 3004). | Lane 3004 |  |
-| Akkadian | kânu(m) G D kunnû Š šukūnu Adj. kīnu (CAD K, 159–171, 389; AHw 440–441) | CAD K, 159–171, 389; AHw 440–441 | gloss withheld |
-| Ugaritic | kwn G D mknt (cf. Heb. mākôn). (DUL 449–450). PN: yknʿil | DUL 449–450 | gloss withheld |
-| Phoenician | kwn hkn (Causative). mkn PNs: YKNMLK (Krahmalkov PPGP 222; T, 140, 176). | Krahmalkov PPGP 222; T 140, 176 | gloss withheld |
+| Akkadian | kânu(m) G D kunnû Š šukūnu Adj. kīnu (CAD K 159–171, 389; AHw 440–441) | CAD K 159–171, 389; AHw 440–441 | gloss withheld |
+| Ugaritic | kwn (/k-n/) G L mknt (cf. Heb. mākôn). (DULAT 442, 537). PN: yknʿil | DULAT 442, 537 | gloss withheld |
+| Phoenician | kn, niph'al (Krahmalkov 232–234); kwn (yiph.) (T 140); mkn (T 176), NPu. mʾkn (Krahmalkov 281) | Krahmalkov 232–234; T 140; T 176; Krahmalkov 281 | gloss withheld |
 | Hebrew | kūn (כּוּן). Niphal nākôn (Gen 41:32 כִּי נָכוֹן הַדָּבָר; Ps 93:2). Hiphil hēkîn (Ps 24:2). Polel kônēn (Ps 87:5). Nouns: mākôn (מָכוֹן) (1 Kgs 8:39); tᵉkûnā PNs: Yakhin (יָכִין, 1 Kgs 7:21), Yᵉkonyāhū (יְכָנְיָהוּ). (HALOT 464–467). | HALOT 464–467 | gloss withheld |
 | Epigraphic South Arabian | SAB kwn mkwn (SD 82). | SD 82 | gloss withheld |
-| Judaic Aramaic | kūn Adj. kayyān (Ja. 616; Sokoloff DJPA 253). | Ja. 616; Sokoloff DJPA 253 | gloss withheld |
+| Judaic Aramaic | kūn Pa. "to direct, aim"; pass. part. "straight, firm, upright" (Ja. 622). | Ja. 622 |  |
 | Amorite | Ia-ki-in- (OLA80 §44.13) | OLA80 §44.13 | gloss withheld |
-| Geez | Geʿez kona (ኮነ) Causative ʾakvana (LGz., 288–289). | LGz. 288–289 | gloss withheld |
-| Amharic | honä (&lt; \*kwn with regular k &gt; h) (LGz., 288–289) | LGz. 288–289 | gloss withheld |
-| Mandaic Aramaic | kan (LGz., 300) | LGz. 300 |  |
-| Argobba | hona (LGz., 300) | LGz. 300 |  |
-| Harari | xāna (LGz., 300) | LGz. 300 |  |
+| Geez | Geʿez kona (ኮነ) Causative ʾakvana (LGz. 288–289). | LGz. 288–289 | gloss withheld |
+| Amharic | honä (&lt; \*kwn with regular k &gt; h) (LGz. 288–289) | LGz. 288–289 | gloss withheld |
+| Mandaic Aramaic | kan (LGz. 300) | LGz. 300 |  |
+| Argobba | hona (LGz. 300) | LGz. 300 |  |
+| Harari | xāna (LGz. 300) | LGz. 300 |  |
 | Syrian Aramaic | kān 'be, exist; happen, occur' (Payne Smith 209) | Payne Smith 209 |  |
-| Pre-Islamic North Arabian | Safaitic mykn (Al-Jallad–Jaworska, 101) | Al-Jallad–Jaworska 101 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mykn (Al-Jallad–Jaworska 101) | Al-Jallad–Jaworska 101 | gloss withheld |
 | Canaanite | kuna (HALOT 464) | HALOT 464 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

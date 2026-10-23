@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/K0494_mislead
-title: "*śVtVy-: 'mislead'"
-desc: "Proto-Semitic *śVtVy-, 'mislead': reflexes in 1 language(s)."
+title: "*śVṭVy-: 'mislead'"
+desc: "Proto-Semitic *śVṭVy-, 'mislead': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0494"
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*śVtVy- |
+| Reconstruction | \*śVṭVy- |
 | Meaning | 'mislead' |
 | Basis | project |
 
@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | śaṭaya 'drink' | Anderson–Moser 2024 root śty |  |
+| Geez | śaṭaya; taśaṭya; śaṭyat (LGz. 538) | LGz. 538 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

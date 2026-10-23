@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | pl. kälawǝʔ, kälawi, kälwät (metath.) \[LH 392\] | LH 392 |  |
 | Canaanite | EG SYLL ga=ra=ta /\*kalyā́ta/ \[Hoch 352-353\] | Hoch 352-353 |  |
 | Mandaic Aramaic | kulaia \[DM 207\] | DM 207 |  |
-| Ugaritic | klyt \[DLU 217\] | DLU 217 |  |
+| Ugaritic | klyt \[DULAT 438\] | DULAT 438 |  |
 | East Ethiopic | SEL kilāyo, WOL kǝlayo, ZWY hǝlāyo \[LGur 342\] | LGur 342 |  |
 | Geez | kʷǝlīt |  |  |
 | Gurage | GOG SOD kǝlayo \[LGur 342\] | LGur 342 |  |
@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | kuźɛ́t \[JJ 131\] | JJ 131 |  |
 | Hebrew | kilyā (HALOT 479) | HALOT 479 |  |
 | Amharic | kulit, pl. kulalit \[K 1368, 1371\] | K 1368, 1371 |  |
-| Judaic Aramaic | kulyā (also) \[Ja 620\]; kwlyyh \[Sok 254\] | Ja 620; Sok 254 | gloss withheld |
+| Judaic Aramaic | kulyā (also) \[Ja 620\]; kwlyyh \[DJPA 254a apud CAL\] | Ja 620; DJPA 254a; CAL | gloss withheld |
 | Syrian Aramaic | kūlītā \[Brock 329\] | Brock 329 |  |
 | Gafat | kullalit \[LGaf 209\] | LGaf 209 |  |
 | Tigrinya | kʷəlit (SED I 141) | SED I 141 |  |

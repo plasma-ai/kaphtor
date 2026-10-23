@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | Dūzu, Duʔūzu (HALOT 1745) | HALOT 1745 | gloss withheld |
 | Hebrew | tammûz (Ezek 8:14; HALOT 1745) | HALOT 1745 | gloss withheld |
 | Aramaic | tammūz (HALOT 1745) | HALOT 1745 |  |
-| Syrian Aramaic | tammûz 'July' (Brock., 840) | Brock. 840 |  |
+| Syrian Aramaic | tammûz 'July' (Brock. 827) | Brock. 827 |  |
 | Arabic | tammūz 'July' (Lane 318) | Lane 318 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

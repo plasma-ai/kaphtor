@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | wǯʕ \[-a-\] 'feel a pain' BK 2 1492 | BK 2 1492 |  |
 | Akkadian | egû 1 |  |  |
 | Hebrew | ygʕ 1, 2 |  |  |
-| Pre-Islamic North Arabian | Safaitic wgʿ (Al-Jallad–Jaworska, 139) | Al-Jallad–Jaworska 139 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wgʿ (Al-Jallad–Jaworska 139) | Al-Jallad–Jaworska 139 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

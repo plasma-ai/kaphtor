@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | haras \[LArg. 206\] | LArg. 206 | gloss withheld |
 | Gafat | aras \[LGaf 182\] | LGaf 182 | gloss withheld |
 | Tigrinya | ḥaräsä 'to give birth' \[Bass 43\] | Bass 43 |  |
-| Harari | ḥarās (LGz., 264) | LGz. 264 | gloss withheld |
+| Harari | ḥarās (LGz. 264) | LGz. 264 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

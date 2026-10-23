@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | laqiḥa "to conceive" (BK 2, 1008); laqqaḥa "to pollinate" | BK 2, 1008 |  |
-| Akkadian | leqû, laqû (CAD L, 138; AHw., 547); liqtu | CAD L, 138; AHw. 547 | gloss withheld |
-| Ugaritic | lqḥ (DUL, 505); /laqāḥu/? (UVST, 143) | DUL 505; UVST 143 | gloss withheld |
-| Geez | laqḥa (LGz., 312) | LGz. 312 | gloss withheld |
-| Phoenician | lqḥ (DNWSI, 589; T, 160) | DNWSI 589; T 160 | gloss withheld |
+| Arabic | laqiḥa "to conceive" (BK 2, 1012); laqqaḥa "to pollinate" | BK 2, 1012 |  |
+| Akkadian | leqû, laqû (CAD L 138; AHw. 547); liqtu | CAD L 138; AHw. 547 | gloss withheld |
+| Ugaritic | lqḥ (DULAT 496); /laqāḥu/? (UVST 143) | DULAT 496; UVST 143 | gloss withheld |
+| Geez | laqḥa (LGz. 312) | LGz. 312 | gloss withheld |
+| Phoenician | lqḥ (T 160) | T 160 | gloss withheld |
 | Hebrew | lāqaḥ (BDB 542; HALOT 534); leqaḥ; miqqāḥ | BDB 542; HALOT 534 | gloss withheld |
-| Epigraphic South Arabian | lqḥ (SD, 83) | SD 83 | gloss withheld |
-| Judaic Aramaic | lqḥ "to take" (Ja., 717) | Ja. 717 |  |
+| Epigraphic South Arabian | lqḥ (SD 82) | SD 82 | gloss withheld |
+| Judaic Aramaic | lqḥ "to take" (Ja. 717) | Ja. 717 |  |
 | Aramaic | LQḤ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Punic | lqḥ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Canaanite | Moab lḳḥ (DNWSI 581 apud SEDonline 886) | DNWSI 581; SEDonline 886 | gloss withheld |

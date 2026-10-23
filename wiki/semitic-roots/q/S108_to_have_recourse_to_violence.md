@@ -35,6 +35,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-OLA80 63.5. Tuareg -kkərāḍ- confirms single root (not two homonymous roots). Ugr. ḳrd 'hero, powerful one' (DUL 709); the areal Akk.-Ugr. \*ḳrd 'to be heroic' has no reliable cognate elsewhere (Kogan 2015: 337), apud SEDonline 2122.
+OLA80 63.5. Tuareg -kkərāḍ- confirms single root (not two homonymous roots). Ugr. ḳrd 'hero, powerful one' (DULAT 699); the areal Akk.-Ugr. \*ḳrd 'to be heroic' has no reliable cognate elsewhere (Kogan 2015: 337), apud SEDonline 2122.
 
 <!-- END kaphtor:record -->

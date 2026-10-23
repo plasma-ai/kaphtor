@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḥamḍa (HALOT 329) | HALOT 329 |  |
 | Judaic Aramaic | ḥmʿ (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
 | Mehri | ḥāməẑ (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
-| Eblaitic | ʾà-me-ṣu, ʾà-mi-ṣu-um (Kogan 2011, 239) | Kogan 2011, 239 |  |
+| Eblaitic | ʾà-me-ṣu, ʾà-mi-ṣu-um (Kogan 2011, 239; VE 128; Krebernik 1983, 3) | Kogan 2011, 239; VE 128; Krebernik 1983, 3 |  |
 | Syrian Aramaic | ḥmʿ (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
 | Soqotri | ḥémaẓ̂ (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
 | Aramaic | CPArm. ḥmʿ (HALOT 329) | HALOT 329 |  |

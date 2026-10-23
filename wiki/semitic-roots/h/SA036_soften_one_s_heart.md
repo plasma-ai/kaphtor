@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab hwn (SD, 57; Biella, 106) | SD 57; Biella 106 | gloss withheld |
-| Arabic | Ar hwn D hawn Ar hīnaᵗ id. (Biella, 106) | Biella 106 | gloss withheld |
+| Epigraphic South Arabian | Sab hwn (SD 57; Biella 106; Sabaweb lemma 2205) | SD 57; Biella 106; Sabaweb lemma 2205 | gloss withheld |
+| Arabic | Ar hwn D hawn Ar hīnaᵗ id. (Biella 106) | Biella 106 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

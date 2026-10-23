@@ -32,15 +32,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | napālu |  |  |
 | Ugaritic | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015, ch. 3 §5.2 no. 41 |  |
-| Phoenician | npl (Krahmalkov, 333) | Krahmalkov 333 | gloss withheld |
+| Phoenician | npl (Krahmalkov 333) | Krahmalkov 333 | gloss withheld |
 | Hebrew | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015, ch. 3 §5.2 no. 41 |  |
 | Syrian Aramaic | nfl |  |  |
 | Aramaic | B nfl |  |  |
-| Epigraphic South Arabian | Sab nfl (SD, 92; Biella, 309) | SD 92; Biella 309 | gloss withheld |
+| Epigraphic South Arabian | Sab nfl (SD 92; Biella 309; Sabaweb lemma 4613) | SD 92; Biella 309; Sabaweb lemma 4613 | gloss withheld |
 | Canaanite | nupul (HALOT 709) | HALOT 709 |  |
 | Arabic | nafala (HALOT 709) | HALOT 709 |  |
-| Mandaic Aramaic | npl (T, 218) | T 218 |  |
-| Judaic Aramaic | nepal (T, 218) | T 218 |  |
+| Mandaic Aramaic | npl (T 218) | T 218 |  |
+| Judaic Aramaic | nepal (T 218) | T 218 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

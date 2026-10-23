@@ -39,14 +39,14 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥalǝb- 1, ḥelb- 3 (Payne Smith 142) | Payne Smith 142 |  |
 | Aramaic | ḥlb (Aramaic Root Atlas; CAL s.v. ḥlb) | Aramaic Root Atlas; CAL s.v. ḥlb | gloss withheld |
 | Punic | ḥlb 'milk' | Anderson–Moser 2024 root ḥlb |  |
-| Soqotri | ḥelob (v.) (LGz., 229) | LGz. 229 | gloss withheld |
-| Mandaic Aramaic | halba (LGz., 229) | LGz. 229 |  |
-| Tigrinya | ḥaläbä (v.) (LGz., 229) | LGz. 229 | gloss withheld |
-| Tigre | ḥalba (v.) (LGz., 229) | LGz. 229 | gloss withheld |
-| Argobba | halläba (v.), hayu (n.) (LGz., 229) | LGz. 229 | gloss withheld |
-| Harari | ḥaläba (v.), ḥay (LGz., 229) | LGz. 229 | gloss withheld |
-| Amharic | alläbä (v.) (LGz., 229) | LGz. 229 | gloss withheld |
-| Gurage | aläbä (v.), eb (LGz., 229) | LGz. 229 | gloss withheld |
+| Soqotri | ḥelob (v.) (LGz. 229) | LGz. 229 | gloss withheld |
+| Mandaic Aramaic | halba (LGz. 229) | LGz. 229 |  |
+| Tigrinya | ḥaläbä (v.) (LGz. 229) | LGz. 229 | gloss withheld |
+| Tigre | ḥalba (v.) (LGz. 229) | LGz. 229 | gloss withheld |
+| Argobba | halläba (v.), hayu (n.) (LGz. 229) | LGz. 229 | gloss withheld |
+| Harari | ḥaläba (v.), ḥay (LGz. 229) | LGz. 229 | gloss withheld |
+| Amharic | alläbä (v.) (LGz. 229) | LGz. 229 | gloss withheld |
+| Gurage | aläbä (v.), eb (LGz. 229) | LGz. 229 | gloss withheld |
 | Mehri | ḥəlūb (Kogan 2011, 240) | Kogan 2011, 240 | gloss withheld |
 | Jibbali | ḥɔ́lɔ́b (Kogan 2011, 240) | Kogan 2011, 240 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. aläbä (EDG 38 apud SEDonline 1057) | EDG 38; SEDonline 1057 | gloss withheld |

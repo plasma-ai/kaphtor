@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | gdd |  |  |
 | Syrian Aramaic | gdd (Payne Smith 60) | Payne Smith 60 |  |
-| Geez | gəddu (LGz., 180) | LGz. 180 | gloss withheld |
-| Arabic | ǧadda (LGz., 180) | LGz. 180 |  |
-| Hebrew | gdd (in hitgōḏeḏ) (LGz., 180) | LGz. 180 | gloss withheld |
-| Aramaic | gəḏaḏ (LGz., 180; CAL s.v. gdd) | LGz. 180; CAL s.v. gdd |  |
-| Akkadian | gadādu (LGz., 180) | LGz. 180 | gloss withheld |
-| Tigre | gädda (gdy) (LGz., 180) | LGz. 180 | gloss withheld |
-| Amharic | gəd (LGz., 180) | LGz. 180 | gloss withheld |
+| Geez | gəddu (LGz. 180) | LGz. 180 | gloss withheld |
+| Arabic | ǧadda (LGz. 180) | LGz. 180 |  |
+| Hebrew | gdd (in hitgōḏeḏ) (LGz. 180) | LGz. 180 | gloss withheld |
+| Aramaic | gəḏaḏ (LGz. 180; CAL s.v. gdd) | LGz. 180; CAL s.v. gdd |  |
+| Akkadian | gadādu (LGz. 180) | LGz. 180 | gloss withheld |
+| Tigre | gädda (gdy) (LGz. 180) | LGz. 180 | gloss withheld |
+| Amharic | gəd (LGz. 180) | LGz. 180 | gloss withheld |
 | Gurage | Cha. Ezha gädädä, Ezha Muh. Msq. Gog. Sod. gäddädä, End. gättädä, Enn. gätädä (EDG 262 apud SEDonline 39) | EDG 262; SEDonline 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

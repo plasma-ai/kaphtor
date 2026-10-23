@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | mīrānu (mūrānu) OAkk. on \[CAD m2 105\], \[AHw. 658\] | CAD m2 105; AHw. 658; AHw. | gloss withheld |
-| Ugaritic | ʔinr \[DLU 40\], also a metathetic form ʔirn \[ibid. 50\] | DLU 40; ibid. 50; Del Olmo Mitos 309 | gloss withheld |
+| Ugaritic | ʔinr \[DULAT 79\], also a metathetic form ʔirn \[DULAT 100\] | DULAT 79; DULAT 100; Del Olmo Mitos 309 | gloss withheld |
 | Amharic | anär \[K 1211\]. | K 1211 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḏubāb- 'fly; bee' \[BK 1 762\], \[Fr. II 79\], \[Lane 952\], \[LA I 382\]. | BK 1 762; Fr. II 79; Lane 952; LA I 382 |  |
 | Hebrew | zǝbūb (HALOT 261), pB. \[Ja. 378\] | HALOT 261; Ja. 378; HALOT 261 | gloss withheld |
 | Syrian Aramaic | dabbābā, debbābā 'fly', dabbābītā 'gadfly' \[Brock. 138\], \[PS 805\] (also debbā 'fly'). | Brock. 138; PS 805 |  |
-| Aramaic | dībābā 'fly' \[Ja. 294\], \[Levy WTM I 371\], 'fly, horsefly' \[Levy WT I 159\]. | Ja. 294; Levy WTM I 371; Levy WT I 159 |  |
+| Judaic Aramaic | dībābā 'fly' \[Ja. 294\], \[Levy WTM I 371\], 'fly, horsefly' \[Levy WT I 159\]. | Ja. 294; Levy WTM I 371; Levy WT I 159 |  |
 | Mehri | ḏǝbbēt \[JM 79\]. | JM 79 | gloss withheld |
 | Soqotri | ʔedbíboh id. \[LS 121\]. | LS 121 |  |
 | Akkadian | zumbu (zubbu, zunbu) OB on \[CAD z 154\], \[AHw. 1535-6\] | CAD z 154; AHw. 1535-6 | gloss withheld |
@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | zǝmbä \[LGaf. 249\]. | LGaf. 249 | gloss withheld |
 | Argobba | zǝmb \[LArg. 227\] | LArg. 227 |  |
 | Tigrinya | zǝnbi 'fly' \[Bass. 735\]. | Bass. 735 |  |
-| Modern Aramaic | Maʕl. ḏappōpa, Mlḥ. dedve, Krd. didwa, NSyr. didwâ, JNA dɨdwā, dɨdūṯa, Tlk. dɨdwa, Ass. dɨdwa, Tur. didwōno (SED II 108) | SED II 108 |  |
+| Modern Aramaic | Maʕl. ḏappōpa, Mlḥ. dedve, Krd. didwa, NSyr. didwâ, JNA dɨdwā, dɨdūṯa, Tlk. dɨdwa, Ass. dɨdwa, Tur. didwōno (SED II 109) | SED II 109 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,11 +34,11 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ṯkm \[Aist 334\]. | Aist 334 | gloss withheld |
 | Hebrew | šǝkäm (HALOT 1494, 1495) | HALOT 1494, 1495 | gloss withheld |
 | Arabic | ṯuknat- \[BK 1 231 apud SED I 251\] | BK 1 231; SED I 251 |  |
-| Geez | sakama (LGz., 496) | LGz. 496 | gloss withheld |
-| Tigrinya | täsäkämä, täšäkämä (LGz., 496) | LGz. 496 | gloss withheld |
-| Amharic | tašäkkämä (LGz., 496) | LGz. 496 |  |
-| Gafat | täsikkämä (LGz., 496) | LGz. 496 |  |
-| Punic | škm (Neo-Punic; Krahmalkov, 460) | Krahmalkov 460 | gloss withheld |
+| Geez | sakama (LGz. 496) | LGz. 496 | gloss withheld |
+| Tigrinya | täsäkämä, täšäkämä (LGz. 496) | LGz. 496 | gloss withheld |
+| Amharic | tašäkkämä (LGz. 496) | LGz. 496 |  |
+| Gafat | täsikkämä (LGz. 496) | LGz. 496 |  |
+| Punic | škm (Neo-Punic; Krahmalkov 460) | Krahmalkov 460 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

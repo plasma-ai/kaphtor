@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔiskat- 'lip of a woman's vagina' \[BK 1 33\] | BK 1 33 |  |
 | Akkadian | išku OB on \[CAD i 250\], \[AHw 396\] | CAD i 250; AHw 396 |  |
 | Eblaitic | iš-gúm /ʔiškum/ \[Fr 152; Bl E No. 4\] | Fr 152 |  |
-| Ugaritic | ʔušk \[DLU 56\] | DLU 56 |  |
+| Ugaritic | ʔušk \[DULAT 113\] | DULAT 113 | gloss withheld |
 | Geez | ʔǝskit \[LGz 43\] | LGz 43 | gloss withheld |
 | Hebrew | ʔäšäk (HALOT 95) &lt;\*ʔašk-. PB ʔōšäk do. (HALOT 95, apud Porath); not in \[Ja\] where only ʔäšäk is quoted (&lt;\*ʔušk-, cf. -u- in UGR) | HALOT 95; HALOT 95 |  |
-| Judaic Aramaic | ʔškh \[Sok 78\] | Sok 78 |  |
+| Judaic Aramaic | ʔškh \[DJPA 78a apud CAL\] | DJPA 78a; CAL |  |
 | Syrian Aramaic | ʔeškǝtā \[Brock 52\] | Brock 52 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

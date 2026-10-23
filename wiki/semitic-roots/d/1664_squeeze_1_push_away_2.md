@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | dfr 2 |  |  |
-| Akkadian | duppuru 2 (CAD D, 186) | CAD D, 186 | gloss withheld |
+| Akkadian | duppuru 2 (CAD D 186) | CAD D 186 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | kipper (HALOT 493); kappōret (HALOT 495); kōper (HALOT 495) | HALOT 493; HALOT 495; HALOT 495 | gloss withheld |
 | Arabic | kafara (HALOT 493); kaffārat (HALOT 495) | HALOT 493; HALOT 495 |  |
 | Akkadian | kapāru (HALOT 493) | HALOT 493 |  |
-| Epigraphic South Arabian | Sab kfr (Biella, 250) | Biella 250 | gloss withheld |
+| Epigraphic South Arabian | Sab kfr (Biella 250) | Biella 250 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

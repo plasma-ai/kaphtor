@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǧaraša 'ground' (Lane 410) | Lane 410 |  |
 | Geez | garaśa 'eat' | Anderson–Moser 2024 root grś |  |
 | Hebrew | geres 'crushing' | Anderson–Moser 2024 root grś |  |
-| Syrian Aramaic | gəras (LGz., 203) | LGz. 203 | gloss withheld |
-| Amharic | (a)gʷärräsä (LGz., 203) | LGz. 203 | gloss withheld |
+| Syrian Aramaic | gəras (LGz. 203) | LGz. 203 | gloss withheld |
+| Amharic | (a)gʷärräsä (LGz. 203) | LGz. 203 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

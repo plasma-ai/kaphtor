@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | qmḥ (Aramaic Root Atlas; DNWSI 1013 apud CAL) | Aramaic Root Atlas; DNWSI 1013; CAL | gloss withheld |
 | Ugaritic | qmḥ 'flour' | Anderson–Moser 2024 root qmḥ |  |
 | Tigre | ḳəḥəm (WTS 236 apud SEDonline 1067) | WTS 236; SEDonline 1067 | gloss withheld |
-| Eblaitic | ḳá-ma-u₉, ḳá-ma-um (VE 169; Krebernik 1983: 6 apud SEDonline 1067) | VE 169; Krebernik 1983: 6; SEDonline 1067 | gloss withheld |
+| Eblaitic | ḳá-ma-u₉, ḳá-ma-um (Sum. MA₈) (VE 169; Krebernik 1983: 6 apud SEDonline 1067); /qamāḫum/ (Krebernik 1983, 6) | VE 169; Krebernik 1983: 6; SEDonline 1067; Krebernik 1983, 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

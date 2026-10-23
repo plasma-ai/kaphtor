@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | mayyana 'deceive' | Anderson–Moser 2024 root myn |  |
-| Arabic | māna (myn) (LGz., 376) | LGz. 376 | gloss withheld |
+| Arabic | māna (myn) (LGz. 376) | LGz. 376 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

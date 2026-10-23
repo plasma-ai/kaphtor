@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | kay 'now, indeed, verily, truly' (Payne Smith 212) | Payne Smith 212 |  |
 | Hebrew | kī (HALOT 470) | HALOT 470 | gloss withheld |
 | Ugaritic | k, ky (HALOT 470) | HALOT 470 |  |
-| Phoenician | k (HALOT 470); k (T, 135) | HALOT 470; T 135 | gloss withheld |
+| Phoenician | k (HALOT 470); k (T 135) | HALOT 470; T 135 | gloss withheld |
 | Punic | chy (HALOT 470) | HALOT 470 |  |
 | Aramaic | EgArm. ky (HALOT 470) | HALOT 470 |  |
 
@@ -41,6 +41,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-LGz., 271 compares Heb. kī 'surely, yea, then', Ug. Ph. k, Aram. Akk. kī. Syr. kay has -ay against kī.
+LGz. 271 compares Heb. kī 'surely, yea, then', Ug. Ph. k, Aram. Akk. kī. Syr. kay has -ay against kī.
 
 <!-- END kaphtor:record -->

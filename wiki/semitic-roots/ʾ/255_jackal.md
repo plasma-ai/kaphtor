@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Cha. Eža Enm. End. Gyt. Muh. awi (LGur. 110) | LGur. 110 | gloss withheld |
 | Hebrew | ʔī (HALOT 38) | HALOT 38 | gloss withheld |
 | Amharic | awu (K 1266) | K 1266 | gloss withheld |
-| Harari | āy in āyzägädu (LHar. 38); cf. Sel. zägädo id. (LGur. 704) | LHar. 38; LGur. 704 | gloss withheld |
+| Harari | āy in āyzägādu (LHar. 38); cf. Sel. zägädo id. (LGur. 704) | LHar. 38; LGur. 704 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

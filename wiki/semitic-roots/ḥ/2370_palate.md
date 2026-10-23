@@ -40,8 +40,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥenkā \[HALOT 313\] | HALOT 313 | gloss withheld |
 | Harsusi | ḥénnek, pl. ḥenōket \[JH 60\] | JH 60 | gloss withheld |
 | Argobba | haññäha \[LArg 206\] | LArg 206 | gloss withheld |
-| Geez | ḥanaka (LGz., 237) | LGz. 237 | gloss withheld |
-| Amharic | aňňäkä (LGz., 237) | LGz. 237 | gloss withheld |
+| Geez | ḥanaka (LGz. 237) | LGz. 237 | gloss withheld |
+| Amharic | aňňäkä (LGz. 237) | LGz. 237 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

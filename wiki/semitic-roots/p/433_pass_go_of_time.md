@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fwt \[-u-\] (Lane 2454) | Lane 2454 |  |
-| Pre-Islamic North Arabian | Safaitic ft (Al-Jallad–Jaworska, 70) | Al-Jallad–Jaworska 70 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ft (Al-Jallad–Jaworska 70) | Al-Jallad–Jaworska 70 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -42,8 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ḳiẑifɔ́t \[JJ 145\] | JJ 145 | gloss withheld |
 | Judaic Aramaic | ḳalp̄ā, ḳilp̄ā \[Ja 1381\]; ḳlph, det. ḳlpth \[Sok 495\], ḳlpy, det. ḳlpyth do. \[ibid.\] | Ja 1381; Sok 495; ibid. | gloss withheld |
 | Syrian Aramaic | ḳǝlāpǝtā 'bark, scale, shell' \[Brock 670\] | Brock 670 |  |
-| Hebrew | pB. ḳäläp, ḳlp (SED I 147) | SED I 147 |  |
-| Aramaic | qəlap (LGz., 427; CAL s.v. qlp) | LGz. 427; CAL s.v. qlp | gloss withheld |
+| Hebrew | pB. ḳäläp, ḳlp (SED I 147) | SED I 147 | gloss withheld |
+| Aramaic | qəlap (LGz. 427; CAL s.v. qlp) | LGz. 427; CAL s.v. qlp | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

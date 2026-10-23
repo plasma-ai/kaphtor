@@ -30,16 +30,16 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | Gamir-Haddu (OLA80 §45.8) | OLA80 §45.8 |  |
-| Geez | ʾagmara (LGz., 194) | LGz. 194 | gloss withheld |
+| Geez | ʾagmara (LGz. 194) | LGz. 194 | gloss withheld |
 | Akkadian | gamārum (Huehnergard 1997 GAk, 496; OLA80 §45.8) | Huehnergard 1997 GAk, 496; OLA80 §45.8 | gloss withheld |
 | Arabic | ǧammara (HALOT 197) | HALOT 197 | gloss withheld |
-| Hebrew | gāmar (LGz., 195) | LGz. 195 | gloss withheld |
-| Syrian Aramaic | gəmar (LGz., 195) | LGz. 195 |  |
-| Tigre | gämmärä (LGz., 195) | LGz. 195 | gloss withheld |
+| Hebrew | gāmar (LGz. 195) | LGz. 195 | gloss withheld |
+| Syrian Aramaic | gəmar (LGz. 195) | LGz. 195 |  |
+| Tigre | gämmärä (LGz. 195) | LGz. 195 | gloss withheld |
 | Amorite | gmr: jagmur, gamir(ān)um, jīgmir (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
-| Phoenician | gmr: mgmr (T, 66) | T 66 | gloss withheld |
-| Judaic Aramaic | gemar (T, 66) | T 66 |  |
-| Biblical Aramaic | gamar (T, 66) | T 66 |  |
+| Phoenician | gmr: mgmr (T 66) | T 66 | gloss withheld |
+| Judaic Aramaic | gemar (T 66) | T 66 |  |
+| Biblical Aramaic | gamar (T 66) | T 66 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

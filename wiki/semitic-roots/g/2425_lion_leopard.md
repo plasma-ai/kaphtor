@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | Cf. ǯarwal- DRS 184 (without reference) | DRS 184 | gloss withheld |
-| Akkadian | girru SB (CAD G, 94); gerru (AHw. 285), a rendering SED II calls hardly justified, after Landsberger 1934, 77 and Salonen 1976, 200 (SED II 122) | CAD G, 94; AHw. 285; Landsberger 1934 77; Salonen 1976 200; SED II 122 | gloss withheld |
+| Akkadian | girru SB (CAD G 94); gerru (AHw. 285), a rendering SED II calls hardly justified, after Landsberger 1934, 77 and Salonen 1976, 200 (SED II 122) | CAD G 94; AHw. 285; Landsberger 1934 77; Salonen 1976 200; SED II 122 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

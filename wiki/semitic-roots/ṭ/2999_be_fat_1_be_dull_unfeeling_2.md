@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭapāšu; ṭapšu; ṭuppušu (CAD Ṭ, 49, 150) | CAD Ṭ, 49, 150 | gloss withheld |
+| Akkadian | ṭapāšu; ṭapšu; ṭuppušu (CAD Ṭ 49, 150) | CAD Ṭ 49, 150 | gloss withheld |
 | Hebrew | ṭāpaš (Ps 119:70); cj. (Job 33:25) (HALOT 379) | HALOT 379 | gloss withheld |
 | Judaic Aramaic | ṭpš pa. (HALOT 379) | HALOT 379 | gloss withheld |
 | Arabic | ṭafisa (HALOT 379) | HALOT 379 | gloss withheld |

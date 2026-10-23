@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | hyd 1 |  |  |
 | Amharic | hedä 2 |  |  |
-| Arabic | hāda (hyd) (LGz., 220) | LGz. 220 | gloss withheld |
-| Tigrinya | hayädä (LGz., 221) | LGz. 221 | gloss withheld |
+| Arabic | hāda (hyd) (LGz. 220) | LGz. 220 | gloss withheld |
+| Tigrinya | hayädä (LGz. 221) | LGz. 221 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

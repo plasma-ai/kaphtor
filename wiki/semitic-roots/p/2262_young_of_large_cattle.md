@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | pr \[DLU 353\], prt \[ibid.\] | DLU 353; ibid.; KTU 1; HALOT 1604 | gloss withheld |
+| Ugaritic | pr \[DULAT 667\], prt \[DULAT 673\] | DULAT 667; DULAT 673; KTU 1; HALOT 1604 | gloss withheld |
 | Hebrew | par (HALOT 960), pārā (HALOT 964); pB. pār, par \[Ja. 1212\], pārā \[ibid.\] | HALOT 960; HALOT 964; Ja. 1212; ibid. | gloss withheld |
 | Aramaic | Sam. pr, prh \[Tal 710\]. V. the remarks on Jud. prh above. | Tal 710 | gloss withheld |
 | Akkadian | parru, parratu (HALOT 960) | HALOT 960 |  |

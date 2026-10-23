@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫabaṭa (HALOT 285) | HALOT 285 | gloss withheld |
-| Epigraphic South Arabian | ḫbṭ (HALOT 285); Sab ḫbṭ (SD, 58) | HALOT 285; SD 58 | gloss withheld |
+| Epigraphic South Arabian | ḫbṭ (HALOT 285); Sab ḫbṭ (SD 58; Sabaweb lemma 4241) | HALOT 285; SD 58; Sabaweb lemma 4241 | gloss withheld |
 | Syrian Aramaic | ḥbaṭ 'beat down, thrash; dash down' (Payne Smith 123) | Payne Smith 123 |  |
 | Hebrew | ḥbṭ (HALOT 285) | HALOT 285 | gloss withheld |
 

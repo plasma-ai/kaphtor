@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Canaanite | Eg.-Syll. ʔa=-r \[\*ʔarê\] \[Hoch 28\] | Hoch 28; ibid. 20-21 | gloss withheld |
 | Mandaic Aramaic | aria (pl. ariauata) \[DM 37\]. | DM 37 | gloss withheld |
-| Ugaritic | ʔarw \[DLU 53\] | DLU 53 | gloss withheld |
+| Ugaritic | ʔarw \[DULAT 107\] | DULAT 107 | gloss withheld |
 | Geez | ʔarwe \[LGz. 40\]. | LGz. 40 | gloss withheld |
 | Gurage | Gyt. Msq. Gog. Sod. Wol. awre (metatesis), Muh. or \[LGur. 114\]. | LGur. 114 | gloss withheld |
 | Biblical Aramaic | ʔaryē (pl. ʔaryāwātā) 'lion' (BDB 1082). // In Dan 7.4 (the winged lion) and 6.8-28 (the lions' pit). | BDB 1082 |  |

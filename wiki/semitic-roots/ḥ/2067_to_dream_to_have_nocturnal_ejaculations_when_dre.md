@@ -37,13 +37,13 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḥalmä, täḥallämä \[LH 53\] | LH 53 | gloss withheld |
 | Phoenician | ḥlm \[T 105\] | T 105 | gloss withheld |
 | Mandaic Aramaic | HLM \[DM 149\], also (ethpa.) \[ibid.\] | DM 149; ibid. | gloss withheld |
-| Ugaritic | ḥlm \[DLU 176\] | DLU 176 | gloss withheld |
+| Ugaritic | ḥlm \[DULAT 356\] | DULAT 356 | gloss withheld |
 | Geez | ḥalama \[LGz 230\] | LGz 230 | gloss withheld |
 | Jibbali | ḥélm (yaḥlúm) \[JJ 110\]; ḥɔ́tlǝm, aḥtélím \[ibid.\] | JJ 110; ibid. | gloss withheld |
 | Hebrew | ḥlm (HALOT 320). | HALOT 320 | gloss withheld |
 | Amharic | allämä. |  | gloss withheld |
 | Epigraphic South Arabian | SAB ḥlm \[SD 68\]; ḥlmt \[ibid.\]; Sab. mḥtlm \[Bron 75\] | SD 68; ibid.; Bron 75 | gloss withheld |
-| Judaic Aramaic | ḥălam, ḥălīm; ḥălēm (n.) \[Ja 468\]; ḥălēm, det. ḥylmh, pl. ḥälmīn \[Sok 203\]; ḥlm \[ibid.\] | Ja 468; Sok 203; ibid. | gloss withheld |
+| Judaic Aramaic | ḥălam, ḥălīm; ḥălēm (n.) \[Ja 468\]; ḥălēm, det. ḥylmh, pl. ḥälmīn \[Sok 203\]; ḥlm \[DJPA 203b apud CAL\] | Ja 468; Sok 203; DJPA 203b; CAL | gloss withheld |
 | Syrian Aramaic | ḥəlam 'he dreamed' \[Brock 234\], ʔetḥəlamlam 'he suffered from nocturnal emissions' \[ibid.\] | Brock 234; ibid. |  |
 | Aramaic | OLD OFF HTR ḥlm \[HJ 375-6\] | HJ 375-6 | gloss withheld |
 | Tigrinya | ḥalämä 'to dream' \[Bass 33\]; cf. ḥǝlǝmḥǝlǝm bälä 'to be shy, to be timid and bashful, e.g. a boy in front of strangers' \[ibid. 34\] | Bass 33; ibid. 34 |  |

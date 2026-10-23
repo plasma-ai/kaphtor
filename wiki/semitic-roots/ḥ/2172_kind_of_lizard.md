@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥardōnā id. \[Ja. 499\]. | Ja. 499 |  |
 | Harari | arǯūni \[LHar. 31\]. | LHar. 31 | gloss withheld |
 | Syrian Aramaic | ḥardānā 'starred agama (falsely \[called\] crocodile)' \[Brock. 255\], \[PS 1368\]. | Brock. 255; PS 1368 |  |
-| Modern Aramaic | Maʕl. ḥarḏōna 'Eidechse' (Berg. 40) | Berg. 40 |  |
+| Modern Aramaic | Maʕl. ḥarḏōna 'lizard' (Berg. 40) | Berg. 40 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

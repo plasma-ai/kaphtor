@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | dibra \[DM 106\] | DM 106 | gloss withheld |
 | Phoenician |  | KAI 173.5 | source's text withheld |
 | Amharic | žǝbär \[K 1864\]. | K 1864 | gloss withheld |
-| Geez | tadabbara (LGz., 121) | LGz. 121 | gloss withheld |
-| Tigrinya | (tä)däbärä (LGz., 121) | LGz. 121 | gloss withheld |
-| Tigre | (tə)däbbära (LGz., 121) | LGz. 121 | gloss withheld |
+| Geez | tadabbara (LGz. 121) | LGz. 121 | gloss withheld |
+| Tigrinya | (tä)däbärä (LGz. 121) | LGz. 121 | gloss withheld |
+| Tigre | (tə)däbbära (LGz. 121) | LGz. 121 | gloss withheld |
 | Hebrew | dǝbīr (HALOT 208) | HALOT 208 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

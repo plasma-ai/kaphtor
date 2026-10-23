@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | pʿʿ (HALOT 954) | HALOT 954 |  |
 | Judaic Aramaic | pʿʿ (HALOT 954) | HALOT 954 |  |
 | Syrian Aramaic | pʿʿ (HALOT 954) | HALOT 954 |  |
-| Akkadian | paʾāṣu (pêṣu) (CAD P, 1) | CAD P, 1 | gloss withheld |
+| Akkadian | paʾāṣu (pêṣu) (CAD P 1) | CAD P 1 | gloss withheld |
 | Gurage | Cha. End. Enn. Gye. fəṭäfäṭä, Ezha Muh. Msq. Gog. Sod. fəṭäffäṭä (EDG 250 apud SEDonline 1325) | EDG 250; SEDonline 1325 | gloss withheld |
 | East Ethiopic | Sel. fiṭäfäṭä, Wol. fəṭäfäṭä (EDG 250 apud SEDonline 1325) | EDG 250; SEDonline 1325 | gloss withheld |
 | Amharic | fäṭäffäṭä (AED 2345 apud SEDonline 1325) | AED 2345; SEDonline 1325 | gloss withheld |

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | ʾgrt (Krahmalkov, 32); KAI 69.12: priests receive 10 ʾgrt for bird/oil/game sacrifices | Krahmalkov 32; KAI 69 | gloss withheld |
+| Phoenician | ʾgrt (Krahmalkov 32); KAI 69.12: priests receive 10 ʾgrt for bird/oil/game sacrifices | Krahmalkov 32; KAI 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

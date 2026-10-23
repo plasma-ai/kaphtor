@@ -29,15 +29,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wdq, dqt (SD, 156; Biella, 122) | SD 156; Biella 122 | gloss withheld |
-| Geez | wadqa, wadaqa (LGz., 604) | LGz. 604 |  |
-| Arabic | wadaqa (LGz., 604) | LGz. 604 | gloss withheld |
-| Tigre | wädqa (LGz., 604) | LGz. 604 |  |
-| Tigrinya | wädäqä (LGz., 604) | LGz. 604 |  |
-| Amharic | wäddäqä (LGz., 604) | LGz. 604 |  |
-| Argobba | wäddäqa (LGz., 604) | LGz. 604 |  |
-| Harari | wädäqa (LGz., 604) | LGz. 604 |  |
-| Gurage | wädäqä (LGz., 604) | LGz. 604 |  |
+| Epigraphic South Arabian | Sab wdq, dqt (SD 156; Biella 122-3; Sabaweb lemma 2672) | SD 156; Biella 122-3; Sabaweb lemma 2672 | gloss withheld |
+| Geez | wadqa, wadaqa (LGz. 604) | LGz. 604 |  |
+| Arabic | wadaqa (LGz. 604) | LGz. 604 | gloss withheld |
+| Tigre | wädqa (LGz. 604) | LGz. 604 |  |
+| Tigrinya | wädäqä (LGz. 604) | LGz. 604 |  |
+| Amharic | wäddäqä (LGz. 604) | LGz. 604 |  |
+| Argobba | wäddäqa (LGz. 604) | LGz. 604 |  |
+| Harari | wädäqa (LGz. 604) | LGz. 604 |  |
+| Gurage | wädäqä (LGz. 604) | LGz. 604 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

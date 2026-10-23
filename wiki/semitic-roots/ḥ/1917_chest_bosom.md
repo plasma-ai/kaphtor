@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥawbāʔ- 'chest' \[BK 1 507\] | BK 1 507 |  |
 | Hebrew | PB ḥōb 'bosom' \[Ja 429\]. | Ja 429 |  |
-| Judaic Aramaic | ḥubbā \[Ja 429\]; ḥwb \[Sok 189\] | Ja 429; Sok 189 | gloss withheld |
+| Judaic Aramaic | ḥubbā \[Ja 429\]; ḥwb \[DJPA 189a apud CAL\] | Ja 429; DJPA 189a; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

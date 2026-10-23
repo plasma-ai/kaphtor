@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | qšḥ (HALOT 1153) | HALOT 1153 | gloss withheld |
 | Arabic | qasaḥa (Lane 2522); qasaḥa (HALOT 1153) | Lane 2522; HALOT 1153 | gloss withheld |
-| Epigraphic South Arabian | Sab qšḥ (HALOT 1153); qs1ḥ (SD, 108); (Biella, 462) | HALOT 1153; SD 108; Biella 462 | gloss withheld |
-| Phoenician | (Punic) qšḥ (B, 407) | B 407 | gloss withheld |
+| Epigraphic South Arabian | Sab qšḥ (HALOT 1153); qs1ḥ (SD 108); (Biella 462; Sabaweb lemma 4796) | HALOT 1153; SD 108; Biella 462; Sabaweb lemma 4796 | gloss withheld |
+| Phoenician | (Punic) qšḥ (B 407) | B 407 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

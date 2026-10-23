@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ḫfr 'shy' | Anderson–Moser 2024 root ḫpr |  |
-| Arabic | ḫafira (LGz., 259) | LGz. 259 | gloss withheld |
-| Aramaic | ḥăpar (LGz., 259) | LGz. 259 | gloss withheld |
-| Syrian Aramaic | ḥəpar (LGz., 259; Payne Smith 154) | LGz. 259; Payne Smith 154 | gloss withheld |
-| Tigrinya | ḥafärä (LGz., 260) | LGz. 260 | gloss withheld |
-| Tigre | ḥafra (LGz., 260) | LGz. 260 | gloss withheld |
-| Amharic | affärä (LGz., 260) | LGz. 260 | gloss withheld |
-| Argobba | affära (LGz., 260) | LGz. 260 |  |
+| Arabic | ḫafira (LGz. 259) | LGz. 259 | gloss withheld |
+| Aramaic | ḥăpar (LGz. 259) | LGz. 259 | gloss withheld |
+| Syrian Aramaic | ḥəpar (LGz. 259; Payne Smith 154) | LGz. 259; Payne Smith 154 | gloss withheld |
+| Tigrinya | ḥafärä (LGz. 260) | LGz. 260 | gloss withheld |
+| Tigre | ḥafra (LGz. 260) | LGz. 260 | gloss withheld |
+| Amharic | affärä (LGz. 260) | LGz. 260 | gloss withheld |
+| Argobba | affära (LGz. 260) | LGz. 260 |  |
 | Hebrew | ḥpr (HALOT 340) | HALOT 340 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED II No. 51. Cf., possibly related with suffixed -n, Hbr. ʕozniyyā 'an unclean bird (sea eagle, osprey or vulture)', Syr. ʕznʔ (a Hebraism?), Arb. ʕanz- 'female eagle or vulture'. SED also weighs Akk. anzû 'mythological eagle-like creature', usually taken as a Sumerian loan (SED II 71–72).
+SED II No. 51. Cf., possibly related with suffixed -n, Hbr. ʕozniyyā 'an unclean bird (sea eagle, osprey or vulture)', Syr. ʕznʔ (a Hebraism?), Arb. ʕanz- 'female eagle or vulture'. SED also weighs Akk. anzû 'mythological eagle-like creature', universally taken as a Sumerian loan (SED II 71–72).
 
 <!-- END kaphtor:record -->

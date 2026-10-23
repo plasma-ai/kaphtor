@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | rtʿ (Biella, 497) | Biella 497 | gloss withheld |
+| Epigraphic South Arabian | rtʿ (Biella 497) | Biella 497 | gloss withheld |
 | Geez | r-t-ʿ 'be established, well-ordered; establish' (Dillmann 02197; Dillmann 02198) | Dillmann 02197; Dillmann 02198 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

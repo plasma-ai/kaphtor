@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | lasd 'butter' | Anderson–Moser 2024 root lsd |  |
-| Tigrinya | läsdi, läsda, lästa (LGz., 318) | LGz. 318 |  |
+| Tigrinya | läsdi, läsda, lästa (LGz. 318) | LGz. 318 |  |
 | Akkadian | lišdu (Kogan 2011, 240) | Kogan 2011, 240 | gloss withheld |
 | Hebrew | ləšad (Kogan 2011, 240) | Kogan 2011, 240 | gloss withheld |
 

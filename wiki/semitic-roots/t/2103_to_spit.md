@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | tff 'to spit' \[Dozy 1 147\]; also mtfft (non-vocalized) 'spit, spittle' \[ibid.\] (not in \[BK\]). | Dozy 1 147; ibid. |  |
+| Arabic | tff 'to spit' \[Dozy 1 147\]; also mtfft (non-vocalized) 'spittoon' \[ibid.\] (not in \[BK\]). | Dozy 1 147; ibid. |  |
 | Tigre | täfʔa \[LH 322 apud Munzinger\]; cf. also tǝf bälä \[ibid.\] | LH 322; ibid. | gloss withheld |
 | East Ethiopic | WOL tuf balä, SEL tuff balä, ZWY tǝf-um bālä do. \[LGur 592\] | LGur 592 |  |
 | Harari | tuf bāya (SED I 328) | SED I 328 |  |

@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | gēr |  |  |
-| Phoenician | gr (B, 298) | B 298 | gloss withheld |
-| Geez | gayyara, gəyyur (LGz., 208) | LGz. 208 | gloss withheld |
+| Phoenician | gr (B 298) | B 298 | gloss withheld |
+| Geez | gayyara, gəyyur (LGz. 208) | LGz. 208 | gloss withheld |
 | Syrian Aramaic | giyūrā 'an alien, stranger; proselyte' (Payne Smith 68) | Payne Smith 68 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

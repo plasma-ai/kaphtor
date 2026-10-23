@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫwr a/u,4,18 |  |  |
-| Geez | ḫəwwər, ḫəwwur (LGz., 269) | LGz. 269 | gloss withheld |
-| Mehri | ḫawr (LGz., 269) | LGz. 269 | gloss withheld |
-| Hebrew | ḥwr in ḥāru (Is. 24:6) (LGz., 269) | LGz. 269 | gloss withheld |
-| Tigre | ḥawära (LGz., 269) | LGz. 269 | gloss withheld |
+| Geez | ḫəwwər, ḫəwwur (LGz. 269) | LGz. 269 | gloss withheld |
+| Mehri | ḫawr (LGz. 269) | LGz. 269 | gloss withheld |
+| Hebrew | ḥwr in ḥāru (Is. 24:6) (LGz. 269) | LGz. 269 | gloss withheld |
+| Tigre | ḥawära (LGz. 269) | LGz. 269 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

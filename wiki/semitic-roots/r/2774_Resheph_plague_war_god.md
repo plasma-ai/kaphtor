@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2774_Resheph_plague_war_god
 title: "*rašp-: 'Resheph (plague/war god)'"
-desc: "Proto-Semitic *rašp-, 'Resheph (plague/war god)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rašp-, 'Resheph (plague/war god)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2774"
@@ -29,11 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ršp (DUL, 745) | DUL 745 | gloss withheld |
+| Ugaritic | ršp (DULAT 736) | DULAT 736 | gloss withheld |
 | Egyptian | ršpw (TLA lemma 96230, Ršp) | TLA lemma 96230, Ršp | gloss withheld |
-| Phoenician | ršp (Krahmalkov, 448) | Krahmalkov 448 | gloss withheld |
+| Phoenician | ršp (Krahmalkov 448) | Krahmalkov 448 | gloss withheld |
 | Hebrew | rešep (HALOT 1298) | HALOT 1298 | gloss withheld |
 | Amorite | rśp: jarśap (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Eblaitic | ra-sa-ab /rašap/ DN (= ᵈNÈ.UNU) (VE 806; Krebernik 1983, 31) | VE 806; Krebernik 1983, 31 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab s1qf (SD, 127) | SD 127 | gloss withheld |
+| Epigraphic South Arabian | Sab s1qf (SD 127) | SD 127 | gloss withheld |
 | Arabic | Ar saqafa 'roof (a house)' (Lane 1382) | Lane 1382 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

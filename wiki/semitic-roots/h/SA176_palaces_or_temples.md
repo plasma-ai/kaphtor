@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab hykl (SD, 58; Biella, 108) | SD 58; Biella 108 | gloss withheld |
-| Arabic | Ar haykal (Biella, 108) | Biella 108 | gloss withheld |
+| Epigraphic South Arabian | Sab hykl (SD 58; Biella 108) | SD 58; Biella 108 | gloss withheld |
+| Arabic | Ar haykal (Biella 108) | Biella 108 | gloss withheld |
 | Ugaritic | hkl (HALOT 244) | HALOT 244 |  |
 | Syrian Aramaic | haiklā (HALOT 244) | HALOT 244 |  |
 

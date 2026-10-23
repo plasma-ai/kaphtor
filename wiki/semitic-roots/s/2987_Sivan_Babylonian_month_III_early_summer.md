@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Simānu (CAD S, 271) | CAD S, 271 | gloss withheld |
+| Akkadian | Simānu (CAD S 271) | CAD S 271 | gloss withheld |
 | Hebrew | Sîwān (HALOT 750) | HALOT 750 | gloss withheld |
 | Mandaic Aramaic | sywn (HALOT 750) | HALOT 750 |  |
 

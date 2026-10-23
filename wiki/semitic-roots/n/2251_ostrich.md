@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | naʕămītā (nāʕāmītā, nǝʕāmā) \[Ja. 920\], \[Levy WTM III 413\], nʕmy (det. nʕmyth) id. \[Sok. 354\]. | Ja. 920; Levy WTM III 413; Sok. 354 | gloss withheld |
 | Syrian Aramaic | naʕāmā 'ostrich' \[Brock. 435\] (also bǝnāt naʕāmē = Hbr. bǝnōt yaʕănā), \[PS 2405\]. | Brock. 435; PS 2405 |  |
 | Aramaic | Sam. nʕmy \[Tal 536\]. | Tal 536 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic nʿm (Al-Jallad–Jaworska, 102) | Al-Jallad–Jaworska 102 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nʿm (Al-Jallad–Jaworska 102) | Al-Jallad–Jaworska 102 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥāśak (HALOT 359) | HALOT 359 | gloss withheld |
 | Ugaritic | ḥšk (HALOT 359) | HALOT 359 | gloss withheld |
 | Arabic | ḥašaka; ḥišāk, šiḥāk (HALOT 359) | HALOT 359 | gloss withheld |
-| Epigraphic South Arabian | ḥškt; mḥškt (HALOT 359) | HALOT 359 | gloss withheld |
+| Epigraphic South Arabian | ḥškt; mḥškt (HALOT 359; Sabaweb lemma 4388); mḥškt (Sabaweb lemma 4386) | HALOT 359; Sabaweb lemma 4388; Sabaweb lemma 4386 | gloss withheld |
 | Judaic Aramaic | ḥśk, ḥsk (HALOT 359) | HALOT 359 |  |
 | Syrian Aramaic | ḥsak 'keep back, withhold; spare' (Payne Smith 151) | Payne Smith 151 |  |
 

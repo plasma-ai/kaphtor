@@ -51,7 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | ŝābē (pl. constr.), ŝābayyā (det.) 'grey-head; elder' (BDB 1114) | BDB 1114 |  |
 | Tigrinya | säyyäbä, šäyyäbä 'to turn grey(-haired)', šǝbät 'greying (of hair)' \[Bass 237\] | Bass 237 |  |
 | Eblaitic | si-bù-um /šībum/ (VE 108) | VE 108 |  |
-| Argobba | šəbäd (LGz., 539) | LGz. 539 | gloss withheld |
+| Argobba | šəbäd (LGz. 539) | LGz. 539 | gloss withheld |
 | Amorite | śībum, śībatum, śībtum (Gelb AS 21, 31) | Gelb AS 21 31 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṣwt \[-a-, -u-\] (Lane 1742) | Lane 1742 |  |
 | Geez | ṣwt |  |  |
-| Soqotri | ṣot (LGz., 567) | LGz. 567 | gloss withheld |
-| Syrian Aramaic | ṣawtā (LGz., 567) | LGz. 567 | gloss withheld |
+| Soqotri | ṣot (LGz. 567) | LGz. 567 | gloss withheld |
+| Syrian Aramaic | ṣawtā (LGz. 567) | LGz. 567 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

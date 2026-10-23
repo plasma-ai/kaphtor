@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1277_oak_tree
 title: "*ʾaly-ān-: '(oak)tree'"
-desc: "Proto-Semitic *ʾaly-ān-, '(oak)tree': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʾaly-ān-, '(oak)tree': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1277"
@@ -30,14 +30,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | aliānu OAkk on CAD A1 354 | CAD A1 354 | gloss withheld |
+| Akkadian | aliānu OAkk on CAD A/1 354 | CAD A/1 354 | gloss withheld |
 | Mandaic Aramaic | alan- |  | gloss withheld |
-| Ugaritic | alt DLU 32; iln, pl. ilnym (HALOT 54); aln (DULAT, 56) | DLU 32; HALOT 54; DULAT 56 | gloss withheld |
+| Ugaritic | alt (DULAT 63); iln, pl. ilnym (HALOT 54); aln (DULAT 56) | DULAT 63; HALOT 54; DULAT 56 | gloss withheld |
 | Biblical Aramaic | ʔīlān |  | gloss withheld |
 | Modern Aramaic | Urm ʔīlān- |  | gloss withheld |
 | Hebrew | ʔēl-īm pl. (HALOT 40); ʔallā (HALOT 52), ʔallōn, pB (HALOT 54) | HALOT 40; HALOT 52; HALOT 54 | gloss withheld |
 | Syrian Aramaic | ʔīlān- |  | gloss withheld |
 | Aramaic | Pal ʔīlān |  | gloss withheld |
+| Eblaitic | ʔaₓ(NI)-a-la-nu, ʔaₓ(NI)-la-núm /ʔaylānum/ (VE 496; Krebernik 1983, 18) | VE 496; Krebernik 1983, 18 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

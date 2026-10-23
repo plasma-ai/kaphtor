@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ṣwmʾ (HALOT 1012; DJPA 460a apud CAL) | HALOT 1012; DJPA 460a; CAL |  |
 | Syrian Aramaic | ṣaumā (HALOT 1012) | HALOT 1012 |  |
 | Mandaic Aramaic | ṣuma (HALOT 1012) | HALOT 1012 |  |
-| Soqotri | ṣiyom (LGz., 566) | LGz. 566 |  |
+| Soqotri | ṣiyom (LGz. 566) | LGz. 566 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

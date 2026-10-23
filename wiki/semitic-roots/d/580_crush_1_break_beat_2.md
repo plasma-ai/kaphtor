@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | dqq \[-u-\] 2 (Lane 895) | Lane 895 |  |
 | Hebrew | dqq 1 |  |  |
-| Akkadian | duqququ 1 (CAD D, 190) | CAD D, 190 |  |
+| Akkadian | duqququ 1 (CAD D 190) | CAD D 190 |  |
 | Syrian Aramaic | ʔadeq 'to break to pieces' (Payne Smith 4) | Payne Smith 4 |  |
 | Jibbali | s̃ədḳéḳ (JL 38 apud SEDonline 2004) | JL 38; SEDonline 2004 | gloss withheld |
-| Mehri | daqq (LGz., 140) | LGz. 140 | gloss withheld |
+| Mehri | daqq (LGz. 140) | LGz. 140 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | ṣdq (Krahmalkov, 414) | Krahmalkov 414 | gloss withheld |
+| Phoenician | ṣdq (Krahmalkov 414) | Krahmalkov 414 | gloss withheld |
 | Epigraphic South Arabian | Sab. ṣdḳ ? |  | gloss withheld |
-| Geez | ṣādəq (OLA80 §42.13); ṣadqa (LGz., 548) | OLA80 §42.13; LGz. 548 | gloss withheld |
+| Geez | ṣādəq (OLA80 §42.13); ṣadqa (LGz. 548) | OLA80 §42.13; LGz. 548 | gloss withheld |
 | Hebrew | ṣdq, ṣaddīq, ṣədāqā (HALOT 1001, 1003, 1006) | HALOT 1001, 1003, 1006 | gloss withheld |
 | Amorite | yaṣduqum, ṣaduq (HALOT 1003) | HALOT 1003 |  |
 | Canaanite | ṣaduq (HALOT 1003) | HALOT 1003 |  |
@@ -43,9 +43,9 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | zadiq(a), ṣadiq(a), zidqa (HALOT 1001, 1004; Drower/Macuch 157a apud CAL; Drower/Macuch 165b apud CAL) | HALOT 1001, 1004; Macuch 157a; CAL; Macuch 165b; CAL |  |
 | Arabic | ṣidq; ṣadīq (HALOT 1001, 1004) | HALOT 1001, 1004 | gloss withheld |
 | Biblical Aramaic | ṣidqā (HALOT 1006) | HALOT 1006 |  |
-| Mehri | ṣādəq, ṣadiq (LGz., 548) | LGz. 548 | gloss withheld |
-| Tigrinya | ṣädäqä (LGz., 548) | LGz. 548 |  |
-| Amharic | ṣäddäqä (LGz., 548) | LGz. 548 |  |
+| Mehri | ṣādəq, ṣadiq (LGz. 548) | LGz. 548 | gloss withheld |
+| Tigrinya | ṣädäqä (LGz. 548) | LGz. 548 |  |
+| Amharic | ṣäddäqä (LGz. 548) | LGz. 548 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

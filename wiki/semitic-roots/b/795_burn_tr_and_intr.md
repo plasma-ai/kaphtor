@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | bʕr |  |  |
 | Hebrew | bʕr |  |  |
 | Aramaic | (Palest) bǝʕar (DJPA 109a apud CAL) | DJPA 109a; CAL |  |
-| Punic | bʿr 'burn' | Anderson–Moser 2024 root bʿr |  |
+| Punic | bʿr, reading problematic (Krahmalkov 121) | Krahmalkov 121 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

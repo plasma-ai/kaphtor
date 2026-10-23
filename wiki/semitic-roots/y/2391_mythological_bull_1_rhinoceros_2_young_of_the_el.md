@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | alû (elû) 1 Bogh, SB, Akkadogr. in Hitt. CAD a1, 377 | CAD a1, 377 | gloss withheld |
-| Tigre | ʕǝwal 3 \[LH, 477\], ʔäwal \[ibid., apud Munz.\] ? | LH 477; ibid.; LH 450 | gloss withheld |
+| Tigre | ʕǝwal 3 \[LH 477\], ʔäwal \[ibid., apud Munz.\] ? | LH 477; ibid.; LH 450 | gloss withheld |
 | Syrian Aramaic | yaʕlā 2 'unicorn, rhinoceros' \[Brock 305\] | Brock 305 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

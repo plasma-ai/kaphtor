@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | luwn 'lodge' (BDB 533) | BDB 533 |  |
-| Punic | lyn (T, 157) | T 157 | gloss withheld |
+| Punic | lyn (T 157) | T 157 | gloss withheld |
 | Ugaritic | ln 'sleep' | Anderson–Moser 2024 root lwn |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

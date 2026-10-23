@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḍabb- 'lizard, particularly the lizard of Africa (which certain tribes eat)', ḍabb-at- 'female lizard', ḍabīb-at- 'lizard of Africa' \[BK 2 3\], \[LA I 538\]. | BK 2 3; LA I 538 |  |
 | Mehri | ẑǝbbīt \[JM 472\]; ẑōb \[JM 472\]; ẑobb \[Jahn 174\]; ẑôb \[Jahn 175\]. | JM 472; JM 472; Jahn 174; Jahn 175 | gloss withheld |
 | Harsusi | ẑebbēt id. \[JH 151\]; ẑōb \[JH 151\]. | JH 151; JH 151 | gloss withheld |
-| Jibbali | ẑ_ɔb (pl. z_̂ēt) id. \[JJ 322\]; ẕ̂obb, ẕ̂ab(b)ón \[Bittner 25\]. | JJ 322; Bittner 25 |  |
+| Jibbali | ẕ̂ɔb (pl. ẕ̂ēt) id. \[JJ 322\]; ẕ̂obb, ẕ̂ab(b)ón \[Bittner 25\]. | JJ 322; Bittner 25 |  |
 | Hebrew | ṣāb (HALOT 994), pB. \[Ja. 1257\] | HALOT 994; Ja. 1257 | gloss withheld |
 | Syrian Aramaic | ʕabbā 'fish sauce, whip-tailed lizard' \[Brock. 503\], \[PS 2763\]. | Brock. 503; PS 2763 |  |
 

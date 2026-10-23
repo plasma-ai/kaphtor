@@ -31,14 +31,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | damḳ- |  | gloss withheld |
-| Geez | ʾadmaqa; dəmuq (LGz., 135) | LGz. 135 | gloss withheld |
-| Ugaritic | dmq (LGz., 135) | LGz. 135 | gloss withheld |
-| Tigrinya | dämäqä (LGz., 135) | LGz. 135 | gloss withheld |
-| Tigre | dämqa (LGz., 135) | LGz. 135 | gloss withheld |
-| Amharic | dämmäqä (LGz., 135) | LGz. 135 | gloss withheld |
-| Argobba | dämmäqa (LGz., 135) | LGz. 135 | gloss withheld |
-| Gurage | dämäqä (LGz., 135) | LGz. 135 |  |
-| Harari | dämäqa (LGz., 135) | LGz. 135 | gloss withheld |
+| Geez | ʾadmaqa; dəmuq (LGz. 135) | LGz. 135 | gloss withheld |
+| Ugaritic | dmq (LGz. 135) | LGz. 135 | gloss withheld |
+| Tigrinya | dämäqä (LGz. 135) | LGz. 135 | gloss withheld |
+| Tigre | dämqa (LGz. 135) | LGz. 135 | gloss withheld |
+| Amharic | dämmäqä (LGz. 135) | LGz. 135 | gloss withheld |
+| Argobba | dämmäqa (LGz. 135) | LGz. 135 | gloss withheld |
+| Gurage | dämäqä (LGz. 135) | LGz. 135 |  |
+| Harari | dämäqa (LGz. 135) | LGz. 135 | gloss withheld |
 | Amorite | dmq: damqum, damqatum, damiqtum, damqa (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

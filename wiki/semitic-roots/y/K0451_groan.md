@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | yabbaba 'jubilate' | Anderson–Moser 2024 root ybb |  |
-| Arabic | ʾabbaba (LGz., 625) | LGz. 625 | gloss withheld |
-| Hebrew | yibbeḇ (LGz., 625) | LGz. 625 | gloss withheld |
-| Aramaic | yəḇaḇ (LGz., 625) | LGz. 625 | gloss withheld |
-| Syrian Aramaic | yabbeḇ (LGz., 625) | LGz. 625 | gloss withheld |
-| Mandaic Aramaic | ybb (LGz., 625) | LGz. 625 | gloss withheld |
+| Arabic | ʾabbaba (LGz. 625) | LGz. 625 | gloss withheld |
+| Hebrew | yibbeḇ (LGz. 625) | LGz. 625 | gloss withheld |
+| Aramaic | yəḇaḇ (LGz. 625) | LGz. 625 | gloss withheld |
+| Syrian Aramaic | yabbeḇ (LGz. 625) | LGz. 625 | gloss withheld |
+| Mandaic Aramaic | ybb (LGz. 625) | LGz. 625 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

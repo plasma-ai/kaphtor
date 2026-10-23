@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | ṣamat 'put an end to, exterminate' (BDB 856) | BDB 856 |  |
 | Ugaritic | ṣmt 'destroy' | Anderson–Moser 2024 root ṣmt |  |
-| Geez | ṣammit (LGz., 558) | LGz. 558 | gloss withheld |
-| Tigre | ṣämta (LGz., 558) | LGz. 558 |  |
-| Amharic | ṭämmätä, aṭammätä (LGz., 558) | LGz. 558 | gloss withheld |
+| Geez | ṣammit (LGz. 558) | LGz. 558 | gloss withheld |
+| Tigre | ṣämta (LGz. 558) | LGz. 558 |  |
+| Amharic | ṭämmätä, aṭammätä (LGz. 558) | LGz. 558 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

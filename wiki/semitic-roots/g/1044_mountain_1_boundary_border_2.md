@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | gbl 2 |  |  |
 | Hebrew | gǝbūl 1, 2 |  |  |
 | Aramaic | Old gbl 2 |  |  |
-| Epigraphic South Arabian | gblt (HALOT 171) | HALOT 171 |  |
+| Epigraphic South Arabian | gblt (HALOT 171; Sabaweb lemma 4145) | HALOT 171; Sabaweb lemma 4145 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

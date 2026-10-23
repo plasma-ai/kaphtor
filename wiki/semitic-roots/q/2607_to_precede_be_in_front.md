@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḳadam- 'the first step; step; foot' (BK 2, 690); qadīm- 'ancient, old' (BK 2, 691) | BK 2, 690; BK 2, 691 |  |
 | Modern Arabic | Mec. gadam &lt; \*ḳadam |  | gloss withheld |
-| Geez | qadama (LGz., 421) | LGz. 421 | gloss withheld |
-| Akkadian | qudmu (qudumu, qadmu) (CAD Q, 295); qudmû (CAD Q, 296) | CAD Q, 295; CAD Q, 296 | gloss withheld |
+| Geez | qadama (LGz. 421) | LGz. 421 | gloss withheld |
+| Akkadian | qudmu (qudumu, qadmu) (CAD Q 295); qudmû (CAD Q 296) | CAD Q 295; CAD Q 296 | gloss withheld |
 | Punic | qdm 'ancient' | Anderson–Moser 2024 root qdm |  |
 | Ugaritic | qdm (Tropper UG §73.233.4) | Tropper UG §73.233.4 | gloss withheld |
 | Hebrew | qdm, qadmā, qadmōnī (HALOT 1068, 1070, 1071); qedem (HALOT 1069) | HALOT 1068, 1070, 1071; HALOT 1069 | gloss withheld |
@@ -42,12 +42,12 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | qaddama (HALOT 1068) | HALOT 1068 |  |
 | Syrian Aramaic | qadmā, qudmā (HALOT 1069); qədīmā (HALOT 1067) | HALOT 1069; HALOT 1067 | gloss withheld |
 | Mandaic Aramaic | qadamta, qadumia (HALOT 1069); qdim(a) (HALOT 1067) | HALOT 1069; HALOT 1067 |  |
-| Tigrinya | qädämä (LGz., 421) | LGz. 421 |  |
-| Gurage | qädämä (LGz., 421) | LGz. 421 |  |
-| Argobba | qäddäma (LGz., 421) | LGz. 421 |  |
-| Amharic | qäddämä (LGz., 421) | LGz. 421 |  |
-| Harari | qädäma (LGz., 421) | LGz. 421 |  |
-| Phoenician | qdm (Krahmalkov, 424); qdm (T, 284) | Krahmalkov 424; T 284 | gloss withheld |
+| Tigrinya | qädämä (LGz. 421) | LGz. 421 |  |
+| Gurage | qädämä (LGz. 421) | LGz. 421 |  |
+| Argobba | qäddäma (LGz. 421) | LGz. 421 |  |
+| Amharic | qäddämä (LGz. 421) | LGz. 421 |  |
+| Harari | qädäma (LGz. 421) | LGz. 421 |  |
+| Phoenician | qdm (Krahmalkov 424); qdm (T 284) | Krahmalkov 424; T 284 | gloss withheld |
 | Epigraphic South Arabian | Sab. qdm, qdmy (HALOT 1067) | HALOT 1067 |  |
 | Amorite | qdm: qadimatum, qadm(ān)um, qidm(ān)um, qudmum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. ḳädä (EDG 473 apud SEDonline 331) | EDG 473; SEDonline 331 | gloss withheld |

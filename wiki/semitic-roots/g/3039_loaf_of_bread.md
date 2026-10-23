@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | gariṣtu (giriṣātu, giraṣēte) NA, NB (CAD G, 51) | CAD G, 51 | gloss withheld |
-| Syrian Aramaic | grīṣtā (Payne Smith 78); gᵉrīṣtā (CAD G, 51) | Payne Smith 78; CAD G, 51 | gloss withheld |
+| Akkadian | gariṣtu (giriṣātu, giraṣēte) NA, NB (CAD G 51) | CAD G 51 | gloss withheld |
+| Syrian Aramaic | grīṣtā (Payne Smith 78); gᵉrīṣtā (CAD G 51) | Payne Smith 78; CAD G 51 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

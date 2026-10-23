@@ -44,8 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Bib Pal yhb (DJPA 235b apud CAL) | DJPA 235b; CAL |  |
 | Argobba | hawa (Kogan 2015, ch. 7 §2.3 no. 33) | Kogan 2015, ch. 7 §2.3 no. 33 |  |
 | Tigrinya | habä (Kogan 2015, ch. 7 §2.3 no. 33) | Kogan 2015, ch. 7 §2.3 no. 33 |  |
-| Ugaritic | whb (Tropper UG, 274) | Tropper UG 274 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic whb (Al-Jallad–Jaworska, 139) | Al-Jallad–Jaworska 139 | gloss withheld |
+| Ugaritic | whb (Tropper UG 274) | Tropper UG 274 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic whb (Al-Jallad–Jaworska 139) | Al-Jallad–Jaworska 139 | gloss withheld |
 | Soqotri | hábe (LS 140; CSOL I 550; CSOL II 470 apud SEDonline 340) | LS 140; SEDonline 340 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

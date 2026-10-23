@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | d-l-ḥ 'stir up, make turbid' (BDB 195) | BDB 195 |  |
-| Ugaritic | dlḥt (CUC; DULAT, 268) | CUC; DULAT 268 | gloss withheld |
+| Ugaritic | dlḥt (CUC; DULAT 268) | CUC; DULAT 268 | gloss withheld |
 | Arabic | dullāḥ (HALOT 222) | HALOT 222 | gloss withheld |
 | Akkadian | dalāḫu (HALOT 222) | HALOT 222 |  |
 

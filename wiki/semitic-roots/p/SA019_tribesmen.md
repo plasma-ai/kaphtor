@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab fyḥ (SD, 47; Biella, 403) | SD 47; Biella 403 | gloss withheld |
-| Arabic | Ar fayāḥ (Lane 2469; Biella, 403) | Lane 2469; Biella 403 | gloss withheld |
+| Epigraphic South Arabian | Sab fyḥ (SD 47; Biella 403; Sabaweb lemma 4138) | SD 47; Biella 403; Sabaweb lemma 4138 | gloss withheld |
+| Arabic | Ar fayāḥ (Lane 2469; Biella 403) | Lane 2469; Biella 403 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | (?) akkann-, akkān- Nuzi, SB, NA CAD a1, 274; MB, SB; LL; AHw., p.29; Meissner, MAOG II/I | CAD a1, 274 | gloss withheld |
-| Judaic Aramaic | hōgānā, hōgǝnā \[Ja 337\]; hwgn \[Sok 160\] | Ja 337; Sok 160 | gloss withheld |
+| Judaic Aramaic | hōgānā, hōgǝnā \[Ja 337\]; hwgn \[DJPA 160a apud CAL\] | Ja 337; DJPA 160a; CAL | gloss withheld |
 | Syrian Aramaic | hūgnō gamlō 1) 'dromedary'; 2) in fabul. aram. 'donkey' Brock. 171a | Brock. 171a |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

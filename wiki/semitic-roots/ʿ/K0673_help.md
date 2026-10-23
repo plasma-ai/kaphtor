@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ʿazzaba 'assist' | Anderson–Moser 2024 root ʿzb |  |
-| Akkadian | azibatu (CAD A2, 527) | CAD A2, 527 |  |
+| Akkadian | azibatu (CAD A/2 527) | CAD A/2 527 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

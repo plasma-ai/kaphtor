@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ṣáyleḥ, ṣáyleḥ and haṣlēḥ (JM 363) | JM 363 | gloss withheld |
 | Harsusi | ṣáyleḥ |  | gloss withheld |
 | Hebrew | ṣlḥ (HALOT 1025) | HALOT 1025 | gloss withheld |
-| Judaic Aramaic | ṣlḥ (HALOT 1025) | HALOT 1025 |  |
-| Phoenician | ṣlḥ (HALOT 1025) | HALOT 1025 |  |
-| Punic | ṣlḥ (HALOT 1025) | HALOT 1025 |  |
-| Aramaic | ṣlḥ (HALOT 1025) | HALOT 1025 |  |
+| Judaic Aramaic | ṣlḥ af. (HALOT 1025) | HALOT 1025 | gloss withheld |
+| Phoenician | ṣlḥ in personal names (HALOT 1025) | HALOT 1025 | gloss withheld |
+| Punic | ṣlḥ in personal names (HALOT 1025) | HALOT 1025 | gloss withheld |
+| Biblical Aramaic | ṣlḥ 'prosper' (BDB 1109) | BDB 1109 |  |
 | Syrian Aramaic | ṣəlaḥ (HALOT 1025) | HALOT 1025 |  |
 | Epigraphic South Arabian | Sab. ṣlḥ (HALOT 1025) | HALOT 1025 |  |
 | Arabic | ṣalaḥa (HALOT 1025) | HALOT 1025 |  |

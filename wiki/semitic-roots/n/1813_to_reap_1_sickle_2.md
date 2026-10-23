@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nǯl 'to reap (cereals), to plough (the earth)' (Belot 1929, 807), minǯal- 'reaper's sickle' (BK 2, 1208) | Belot 1929, 807; BK 2, 1208 |  |
-| Akkadian | niggallu, ningallu OB, OA on | CAD N2, 213; AHw 787 | gloss withheld |
-| Mandaic Aramaic | manglia (DM, 247) | DM 247 | gloss withheld |
+| Akkadian | niggallu, ningallu OB, OA on | CAD N/2 213; AHw 787 | gloss withheld |
+| Mandaic Aramaic | manglia (DM 247) | DM 247 | gloss withheld |
 | Hebrew | maggāl 2 (HALOT 545) | HALOT 545 |  |
 | Judaic Aramaic | maggǝlā 2 (HALOT 545) | HALOT 545 |  |
 | Syrian Aramaic | maggaltā 2 (HALOT 545) | HALOT 545 |  |

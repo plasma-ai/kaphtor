@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫyl \[-a-\] 1 (Lane 833) | Lane 833 |  |
 | Geez | ḫly 2 |  |  |
-| Hebrew | ḥālā (ḥly) (LGz., 262) | LGz. 262 | gloss withheld |
-| Gurage | atyanä (LGz., 262) | LGz. 262 | gloss withheld |
+| Hebrew | ḥālā (ḥly) (LGz. 262) | LGz. 262 | gloss withheld |
+| Gurage | atyanä (LGz. 262) | LGz. 262 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

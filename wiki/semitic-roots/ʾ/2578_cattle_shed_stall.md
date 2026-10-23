@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔariy-, ʔiry- 'stable, manger/crib' (cattle-shed, stall; crip, manger), ʔry 'ê. attaché et placé dans la même étable avec d'autres bètes; ê. constantement à l'étable (se dit des bestiaux)' BK 1 27 | BK 1 27 |  |
+| Arabic | ʔariy-, ʔiry- 'stable, manger/crib' (cattle-shed, stall; crip, manger), ʔry 'be tied and kept in the same stable as other beasts; be always in the stable (said of livestock)' BK 1 27 | BK 1 27 |  |
 | Akkadian | urû (urrû, mA urāʔu) Bab, m/nA AHw 1435 | AHw 1435 | gloss withheld |
 | Gurage | äre, ire, äray, areʔ (cf. yäre yǝfte etc. - yǝftät) |  | gloss withheld |
 | Judaic Aramaic | ʔūryā |  |  |

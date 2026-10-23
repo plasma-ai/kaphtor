@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʔi-gnin |  | gloss withheld |
 | Mandaic Aramaic | gna |  | gloss withheld |
 | Syrian Aramaic | gǝnā |  | gloss withheld |
-| Geez | ganaya (LGz., 199) | LGz. 199 | gloss withheld |
+| Geez | ganaya (LGz. 199) | LGz. 199 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

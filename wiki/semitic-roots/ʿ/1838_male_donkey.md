@@ -34,11 +34,11 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ḥayr \[JM 198\], ḥīrīt \[ibid.\]. | JM 198; ibid. | gloss withheld |
 | Harsusi | ḥayr \[JH 65\], ḥayrēt \[ibid.\]. | JH 65; ibid. | gloss withheld |
 | Tigre | ʕayro, fig. \[LH 480\]. | LH 480 | gloss withheld |
-| Ugaritic | ʕr \[DLU 87\] | DLU 87 | gloss withheld |
+| Ugaritic | ʕr \[DULAT 175\] | DULAT 175 | gloss withheld |
 | Jibbali | (Kathīri) aḥyɛ́r id. \[JH 65\]. | JH 65 |  |
 | Hebrew | ʕayir (HALOT 822), pB. ʕayir \[Ja. 1720\], ʕīr \[ibid.\] | HALOT 822; Ja. 1720; ibid. | gloss withheld |
 | Judaic Aramaic | \*ʕayir \[Ja. 1075\], \[Levy WTM III 643\]. // Sam. ʕyr \[Tal 634\]. | Ja. 1075; Levy WTM III 643; Tal 634 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿr (Al-Jallad–Jaworska, 54) | Al-Jallad–Jaworska 54 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿr (Al-Jallad–Jaworska 54) | Al-Jallad–Jaworska 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

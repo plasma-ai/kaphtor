@@ -39,15 +39,15 @@ updated: 2026-10-22T17:38:31Z
 | Modern Arabic | DAṮ kirʕān 'tibia of man and leg of the beast' \[GD 2568\]. | GD 2568 |  |
 | Hebrew | kǝrāʕayim (dual) (HALOT 500) | HALOT 500 | gloss withheld |
 | Amharic | kǝrn \[K 1393\] | K 1393 | gloss withheld |
-| Epigraphic South Arabian | SAB krʕ \[SD 78\] | SD 78 | gloss withheld |
+| Epigraphic South Arabian | SAB krʕ \[SD 78; Sabaweb lemma 4466\] | SD 78; Sabaweb lemma 4466 | gloss withheld |
 | Judaic Aramaic | karʕā \[Ja 673\]; krʕ (pl. krʕyn, kwrʕn) \[Sok 270\] | Ja 673; Sok 270 | gloss withheld |
 | Harari | kuruʔ \[LHar 93\] | LHar 93 | gloss withheld |
 | Syrian Aramaic | kǝrāʕā 'leg' \[Brock 348\] | Brock 348 |  |
 | Tigrinya | kʷǝrnaʕ 'elbow' \[Bass 622\] | Bass 622 |  |
 | Ugaritic | krʕ (HALOT 499) | HALOT 499 |  |
 | Argobba | kərra, kərn (SED I 142) | SED I 142 | gloss withheld |
-| Soqotri | šerʿehan (LGz., 293) | LGz. 293 | gloss withheld |
-| Mehri | kurāʕ (Biella, 252) | Biella 252 | gloss withheld |
+| Soqotri | šerʿehan (LGz. 293) | LGz. 293 | gloss withheld |
+| Mehri | kurāʕ (Biella 252) | Biella 252 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | HRT zapta \[J Hert 202\]. | J Hert 202 | gloss withheld |
 | Hebrew | PB zayip 'bristles; eye-brows' \[Ja 395\] | Ja 395 |  |
 | Judaic Aramaic | zaypā, zēpā 'eye-brow' \[Ja 395\] | Ja 395 |  |
-| Syrian Aramaic | zappǝtā, zeppǝtā, zeppātā 'capillus' \[Brock 203\]. | Brock 203 |  |
+| Syrian Aramaic | zappǝtā, zeppǝtā, zeppātā 'hair (of the head)' \[Brock 203\]. | Brock 203 |  |
 | Amharic | ǯofǯoffe, ǯoffa (SED I 268) | SED I 268 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

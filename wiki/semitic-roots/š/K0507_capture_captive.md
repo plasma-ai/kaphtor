@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ŠBA (HALOT 1382) | HALOT 1382 |  |
 | Epigraphic South Arabian | Sab. sby (HALOT 1382) | HALOT 1382 |  |
 | Amorite | śbj: jaśbī (Gelb AS 21, 31) | Gelb AS 21 31 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic sby (Al-Jallad–Jaworska, 120) | Al-Jallad–Jaworska 120 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sby (Al-Jallad–Jaworska 120) | Al-Jallad–Jaworska 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

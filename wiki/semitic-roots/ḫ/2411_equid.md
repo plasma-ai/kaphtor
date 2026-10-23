@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫayl- 'chevaux; cavalerie' \[BK 1 657\]; ḫayyāl-at- 'herd of horses; horsemen' | BK 1 657 |  |
+| Arabic | ḫayl- 'horses; cavalry' \[BK 1 657\]; ḫayyāl-at- 'herd of horses; horsemen' | BK 1 657 |  |
 | Harsusi | ḫeyōl horses \[JH 145\] | JH 145 |  |
 | Tigrinya | ḫawle (ḫ?) Bass. 431, TA 36 | Bass. 431; TA 36 | gloss withheld |
 | Jibbali | aḫyél JJ 311 | JJ 311 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḫl (Al-Jallad–Jaworska, 80) | Al-Jallad–Jaworska 80 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫl (Al-Jallad–Jaworska 80) | Al-Jallad–Jaworska 80 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

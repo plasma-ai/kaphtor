@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | danānu |  |  |
 | Eblaitic | da-nu-nu (OLA80 §29.11) | OLA80 §29.11 | gloss withheld |
-| Ugaritic | dn (LGz., 136) | LGz. 136 | gloss withheld |
+| Ugaritic | dn (LGz. 136) | LGz. 136 | gloss withheld |
 | Amorite | dnn: dannum, dannatum, dunnum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | nsf 'clean, winnow the grain; overturn a building from top to bottom' \[BK 2 1250\]. | BK 2 1250 |  |
 | Akkadian | našāpu (u/u) OB on \[CAD n2 56\], \[AHw 758\] | CAD n2 56; AHw 758 | gloss withheld |
 | Hebrew | nšp (HALOT 730) | HALOT 730 | gloss withheld |
-| Judaic Aramaic | nǝšap \[Ja 941\]; \[Sok 361\] | Ja 941; Sok 361 | gloss withheld |
+| Judaic Aramaic | nǝšap \[Ja 941\]; \[DJPA 361b apud CAL\] | Ja 941; DJPA 361b; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

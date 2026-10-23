@@ -36,11 +36,11 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ply 2; palah |  | gloss withheld |
 | Amharic | fälläl 3 |  |  |
 | Judaic Aramaic | ply 2 |  |  |
-| Ugaritic | pl (CUC; DULAT, 661) | CUC; DULAT 661 | gloss withheld |
-| Epigraphic South Arabian | Sab fll (Biella, 404) | Biella 404 | gloss withheld |
-| Aramaic | pəlā (ply) (LGz., 161) | LGz. 161 | gloss withheld |
-| Mandaic Aramaic | pla (LGz., 161) | LGz. 161 |  |
-| Tigrinya | fäläyä (LGz., 161) | LGz. 161 | gloss withheld |
+| Ugaritic | pl (CUC; DULAT 661) | CUC; DULAT 661 | gloss withheld |
+| Epigraphic South Arabian | Sab fll (Biella 404) | Biella 404 | gloss withheld |
+| Aramaic | pəlā (ply) (LGz. 161) | LGz. 161 | gloss withheld |
+| Mandaic Aramaic | pla (LGz. 161) | LGz. 161 |  |
+| Tigrinya | fäläyä (LGz. 161) | LGz. 161 | gloss withheld |
 | Harari | filäfäla (EDH 62 apud SEDonline 1890) | EDH 62; SEDonline 1890 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

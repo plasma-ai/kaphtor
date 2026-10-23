@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šaqāru |  |  |
-| Geez | sqʷr; saqʷara (LGz., 510) | LGz. 510 | gloss withheld |
+| Geez | sqʷr; saqʷara (LGz. 510) | LGz. 510 | gloss withheld |
 | Tigrinya | säqʷärä |  |  |
-| Soqotri | śuqahar (LGz., 510) | LGz. 510 | gloss withheld |
-| Amharic | säqqʷärä (LGz., 510) | LGz. 510 |  |
+| Soqotri | śuqahar (LGz. 510) | LGz. 510 | gloss withheld |
+| Amharic | säqqʷärä (LGz. 510) | LGz. 510 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

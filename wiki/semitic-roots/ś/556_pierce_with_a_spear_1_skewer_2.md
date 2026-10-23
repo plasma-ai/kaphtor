@@ -33,14 +33,14 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | škk \[-u-\] 1 (Lane 1582) | Lane 1582 |  |
 | Jibbali | ŝekk 2 |  |  |
 | Hebrew | \*śkk (HALOT 1328) | HALOT 1328 | gloss withheld |
-| Geez | sakʿa (LGz., 495) | LGz. 495 | gloss withheld |
-| Tigre | säkʿa (LGz., 495) | LGz. 495 | gloss withheld |
-| Tigrinya | säḵʷʿe, säḵʿe (LGz., 495) | LGz. 495 |  |
-| Amharic | säkka; säkkäkä (LGz., 495) | LGz. 495 | gloss withheld |
-| Syrian Aramaic | sakkeḵ (LGz., 495) | LGz. 495 | gloss withheld |
-| Akkadian | sikkatu (LGz., 495) | LGz. 495 | gloss withheld |
-| Harari | säkäka (LGz., 495) | LGz. 495 | gloss withheld |
-| Gurage | säkkäkä (LGz., 495) | LGz. 495 | gloss withheld |
+| Geez | sakʿa (LGz. 495) | LGz. 495 | gloss withheld |
+| Tigre | säkʿa (LGz. 495) | LGz. 495 | gloss withheld |
+| Tigrinya | säḵʷʿe, säḵʿe (LGz. 495) | LGz. 495 |  |
+| Amharic | säkka; säkkäkä (LGz. 495) | LGz. 495 | gloss withheld |
+| Syrian Aramaic | sakkeḵ (LGz. 495) | LGz. 495 | gloss withheld |
+| Akkadian | sikkatu (LGz. 495) | LGz. 495 | gloss withheld |
+| Harari | säkäka (LGz. 495) | LGz. 495 | gloss withheld |
+| Gurage | säkkäkä (LGz. 495) | LGz. 495 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

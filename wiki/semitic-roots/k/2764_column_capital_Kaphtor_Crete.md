@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Kaptara (Mari; KAV 92:41) (HALOT 495; Astour, Hellenosemitica, 327 n. 4); kaptarû (fem. kaptarītu) (Mari) (CAD K, 191) | HALOT 495; CAD K, 191 | gloss withheld |
-| Ugaritic | kptr (DUL, 448) | DUL 448 | gloss withheld |
+| Akkadian | Kaptara (Mari; KAV 92:41) (HALOT 495; Astour 1965, 327 n. 4); kaptarû (fem. kaptarītu) (Mari) (CAD K 191) | HALOT 495; Astour 1965, 327 n. 4; CAD K 191 | gloss withheld |
+| Ugaritic | kptr (DULAT 448) | DULAT 448 | gloss withheld |
 | Hebrew | kaptôr (HALOT 496) | HALOT 496 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

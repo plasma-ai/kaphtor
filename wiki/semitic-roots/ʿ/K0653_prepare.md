@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʿrk 'prepare' | Anderson–Moser 2024 root ʿrk |  |
 | Judaic Aramaic | ʿrk (HALOT 884) | HALOT 884 | gloss withheld |
 | Arabic | ʿaraka, ʿarika (HALOT 884) | HALOT 884 |  |
-| Phoenician | ʿrk (T, 257) | T 257 | gloss withheld |
+| Phoenician | ʿrk (T 257) | T 257 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | fḥr |  |  |
 | Geez | fḥr |  |  |
 | Amharic | farä |  |  |
-| Tigrinya | fäḥarä (LGz., 157) | LGz. 157 | gloss withheld |
+| Tigrinya | fäḥarä (LGz. 157) | LGz. 157 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

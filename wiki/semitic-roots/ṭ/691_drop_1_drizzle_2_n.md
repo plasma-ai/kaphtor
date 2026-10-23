@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṭipp- 1 |  |  |
 | Aramaic | B ṭipp- 1 |  |  |
 | Tigrinya | ṭifṭif 2 |  |  |
-| Syrian Aramaic | ṭawpəṯā (LGz., 587) | LGz. 587 |  |
+| Syrian Aramaic | ṭawpəṯā (LGz. 587) | LGz. 587 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

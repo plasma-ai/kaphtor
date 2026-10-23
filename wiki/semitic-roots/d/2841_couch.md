@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | dargīš (CAD D, 112) | CAD D, 112 | gloss withheld |
-| Hebrew | pB dargēš (Ja. 321a; CAD D, 112) | Ja. 321a; CAD D, 112 | gloss withheld |
-| Syrian Aramaic | darguštā (Brock., 165b; CAD D, 112) | Brock. 165b; CAD D, 112 | gloss withheld |
+| Akkadian | dargīš (CAD D 112) | CAD D 112 | gloss withheld |
+| Hebrew | pB dargēš (Ja. 321a; CAD D 112) | Ja. 321a; CAD D 112 | gloss withheld |
+| Syrian Aramaic | darguštā (Brock. 165b; CAD D 112) | Brock. 165b; CAD D 112 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

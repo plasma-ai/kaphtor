@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ẓwr (SD, 173; Biella, 224) | SD 173; Biella 224 | gloss withheld |
+| Epigraphic South Arabian | Sab ẓwr (SD 173; Biella 224) | SD 173; Biella 224 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

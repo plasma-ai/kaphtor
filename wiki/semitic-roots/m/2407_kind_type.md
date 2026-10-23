@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | mn (DUL, 554) | DUL 554 | gloss withheld |
+| Ugaritic | mn (DULAT 554) | DULAT 554 | gloss withheld |
 | Hebrew | mīn |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

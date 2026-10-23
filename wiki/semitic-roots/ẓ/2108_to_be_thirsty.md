@@ -32,11 +32,11 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḏ̣mʔ (a) \[BK 2 142\] | BK 2 142 |  |
 | Mehri | ḏ̣áyma, ḏ̣áwma \[JM 84\] | JM 84 | gloss withheld |
-| Soqotri | ṭéme \[LS 205\] | LS 205 |  |
+| Soqotri | ṭéme \[LS 205\]; ṭími, ṭéme (SLOnline 7369) | LS 205 | gloss withheld |
 | Akkadian | ṣamû (u/u) OB-SB \[CAD ṣ 95\], \[AHw 1081\] | CAD ṣ 95; AHw 1081 |  |
 | Harsusi | ḏ̣áyma \[JH 30\], ḏ̣éma \[ibid.\] | JH 30; ibid. | gloss withheld |
 | Tigre | ṣämʔa \[LH 635\] | LH 635 |  |
-| Ugaritic | ẓmʔa \[Aist 272\]; ɣmʔ \[DLU 158\]. | Aist 272; DLU 158 |  |
+| Ugaritic | ẓmʔa \[Aist 272\]; ɣmʔ \[DULAT 318\]. | Aist 272; DULAT 318 |  |
 | East Ethiopic | ZWY ṭäma, WOL ṭēmä, SEL ṭēmä \[LGur 619\] | LGur 619 |  |
 | Geez | ṣamʔa \[LGz 557\] | LGz 557 |  |
 | Gurage | CHA ENN GYE ṭäma, EZ̆A MUH MSQ GOG SOD ṭämma, END ṭammā \[LGur 619\] | LGur 619 |  |
@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | ṣämmä \[LGaf 235\] | LGaf 235 |  |
 | Tigrinya | ṣämʔe \[Bass 954\] | Bass 954 |  |
 | Argobba | tamma- (OLA80 §13.12); ṭämma (SED I 333) | OLA80 §13.12; SED I 333 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ẓmʾ (Al-Jallad–Jaworska, 144) | Al-Jallad–Jaworska 144 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ẓmʾ (Al-Jallad–Jaworska 144) | Al-Jallad–Jaworska 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

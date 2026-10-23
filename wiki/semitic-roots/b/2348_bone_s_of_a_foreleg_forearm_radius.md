@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | MUH bärrä, GOG SOD bǝrrä \[LGur 149\]; Cha. bänä, Eža bännä, Enn. Gye. bäñä, End. Msq. bäññä \[LGur. 149\]. | LGur 149; LGur. 149 | gloss withheld |
 | Hebrew | pB. ʔēbär |  | gloss withheld |
 | Amharic | bǝrri \[K 875\] | K 875 | gloss withheld |
-| Syrian Aramaic | ʔebrā 'membrum' \[Brock 3\] | Brock 3 |  |
+| Syrian Aramaic | ʔebrā 'limb' \[Brock 3\] | Brock 3 |  |
 | Judaic Aramaic | ʔēbārā, ʔēbərā \[Ja. 44\]; ʔbr \[DJPA 33b apud CAL\] | Ja. 44; DJPA 33b; CAL | gloss withheld |
 | Mandaic Aramaic | ʕbra \[DM 341\] | DM 341 | gloss withheld |
 

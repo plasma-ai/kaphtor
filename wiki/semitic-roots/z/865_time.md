@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/865_time
 title: "*zaman-: 'time'"
-desc: "Proto-Semitic *zaman-, 'time': reflexes in 13 language(s)."
+desc: "Proto-Semitic *zaman-, 'time': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "865"
@@ -32,7 +32,6 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | zamān-, zaman- (Lane 1253) (zmn a,8,11 'be ill with a chronic disease') | Lane 1253 |  |
 | Mehri | zemōn, zubōn |  |  |
-| Soqotri | zem, zman |  |  |
 | Tigre | zäbän |  |  |
 | Mandaic Aramaic | zaman, zban |  |  |
 | Geez | zaman |  |  |
@@ -45,5 +44,9 @@ updated: 2026-10-22T17:38:31Z
 | Harari | zämān \[LHar 166\] | LHar 166 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Soqotri zem, zman; zɛm 'time, season' (SLOnline 7239), from Arabic zaman-, zamān- 'time'.
 
 <!-- END kaphtor:record -->

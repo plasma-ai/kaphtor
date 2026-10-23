@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | č̣ǝmm alä \[K 2204\] | K 2204 | gloss withheld |
 | Syrian Aramaic | ṣammā 'deaf-mute' \[Brock 631\] | Brock 631 |  |
 | Tigrinya | ṣämämä 'to deafen' \[Bass 952\] | Bass 952 |  |
-| Pre-Islamic North Arabian | Safaitic ṣm (Al-Jallad–Jaworska, 129) | Al-Jallad–Jaworska 129 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṣm (Al-Jallad–Jaworska 129) | Al-Jallad–Jaworska 129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

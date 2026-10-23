@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | glḥ \[-a-\] 2 |  |  |
 | Geez | gʷalḥa 3 |  |  |
 | Hebrew | glḥ 1 |  |  |
-| Aramaic | gallaḥ (LGz., 191) | LGz. 191 | gloss withheld |
-| Tigre | gälḥa (LGz., 191) | LGz. 191 | gloss withheld |
-| Tigrinya | gʷälḥayä (LGz., 191) | LGz. 191 | gloss withheld |
+| Aramaic | gallaḥ (LGz. 191) | LGz. 191 | gloss withheld |
+| Tigre | gälḥa (LGz. 191) | LGz. 191 | gloss withheld |
+| Tigrinya | gʷälḥayä (LGz. 191) | LGz. 191 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

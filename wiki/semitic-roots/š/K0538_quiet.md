@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Ug. štk 'to leave, go backwards, cease' (?) is compared with Hb. štq (DULAT, 838; Tropper UG, 97).
+Ug. štk 'to leave, go backwards, cease' (?) is compared with Hb. štq (DULAT 838; Tropper UG 97).
 
 <!-- END kaphtor:record -->

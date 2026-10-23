@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/240_insect_reptile
 title: "*hāmm-: 'insect, reptile'"
-desc: "Proto-Semitic *hāmm-, 'insect, reptile': reflexes in 2 language(s)."
+desc: "Proto-Semitic *hāmm-, 'insect, reptile': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "240"
@@ -31,7 +31,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | hāmm-at- |  |  |
-| Hebrew | homeț (OLA80 §23.8) | OLA80 §23.8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

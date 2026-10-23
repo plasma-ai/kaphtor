@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | fqr 'love' | Anderson–Moser 2024 root pqr |  |
-| Tigrinya | ʾafqärä (LGz., 164) | LGz. 164 |  |
-| Amharic | afäqqärä (LGz., 164) | LGz. 164 |  |
+| Tigrinya | ʾafqärä (LGz. 164) | LGz. 164 |  |
+| Amharic | afäqqärä (LGz. 164) | LGz. 164 |  |
 | Gurage | Sod. fäḳḳärä, afäḳḳärä (EDG 239 apud SEDonline 1904) | EDG 239; SEDonline 1904 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kann-at- 'daughter-in-law, wife of the son; sister-in-law, wife of the brother' (BK 2, 932) | BK 2, 932 |  |
-| Akkadian | kinattu, from OB on (CAD K, 381; AHw, 479); kinītu (concubine) SB (=qinītu LL (CAD Q, 254)) | CAD K, 381; AHw 479; AHw 480, not in CAD; CAD Q, 254 | gloss withheld |
-| Tigre | kǝnto (LH, 416) | LH 416 | gloss withheld |
+| Akkadian | kinattu, from OB on (CAD K 381; AHw 479); kinītu (concubine) SB (=qinītu LL (CAD Q 254)) | CAD K 381; AHw 479; AHw 480, not in CAD; CAD Q 254 | gloss withheld |
+| Tigre | kǝnto (LH 416) | LH 416 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | qdd 1 (CAL s.v. qdd) | CAL s.v. qdd |  |
 | Argobba | qdd 2 |  |  |
 | Tigrinya | qdd 2 |  |  |
-| Gafat | quddä (LGz., 420) | LGz. 420 | gloss withheld |
+| Gafat | quddä (LGz. 420) | LGz. 420 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | wḍn, Quranic participle (QAC وضن) | QAC وضن | gloss withheld |
-| Geez | w-ḍ-n (LGz., 606) | LGz. 606 | gloss withheld |
-| Tigre | wäṣna (LGz., 606) | LGz. 606 | gloss withheld |
+| Geez | w-ḍ-n (LGz. 606) | LGz. 606 | gloss withheld |
+| Tigre | wäṣna (LGz. 606) | LGz. 606 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

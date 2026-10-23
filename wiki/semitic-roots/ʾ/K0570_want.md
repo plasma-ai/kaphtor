@@ -34,10 +34,10 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʾabaya 'refuse' | Anderson–Moser 2024 root ʾby |  |
 | Hebrew | ʾabah 'willing' | Anderson–Moser 2024 root ʾby |  |
 | Tigre | ʾabaya (HALOT 3) | HALOT 3 | gloss withheld |
-| Epigraphic South Arabian | tʾby (HALOT 3) | HALOT 3 | gloss withheld |
-| Tigrinya | ʾabäyä (LGz., 6) | LGz. 6 | gloss withheld |
-| Amharic | abbäyä (LGz., 6) | LGz. 6 | gloss withheld |
-| Gurage | ebbä (LGz., 6) | LGz. 6 | gloss withheld |
+| Epigraphic South Arabian | tʾby (HALOT 3); (Sabaweb lemma 3461) | HALOT 3; Sabaweb lemma 3461 | gloss withheld |
+| Tigrinya | ʾabäyä (LGz. 6) | LGz. 6 | gloss withheld |
+| Amharic | abbäyä (LGz. 6) | LGz. 6 | gloss withheld |
+| Gurage | ebbä (LGz. 6) | LGz. 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

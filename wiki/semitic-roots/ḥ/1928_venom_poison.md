@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥumat- 'poison of the scorpion' \[BK 1 498\] (another meaning, 'ardor, heat', may go back to ḥmy 'brûler' \[ibid. 497\]); ḥummat- 'poison of the scorpion' \[ibid. 486\] (also 'fever', rather from ḥmm 'to heat' \[ibid. 485\]) | BK 1 498; ibid. 497; ibid. 486; ibid. 485 |  |
+| Arabic | ḥumat- 'poison of the scorpion' \[BK 1 498\] (another meaning, 'ardor, heat', may go back to ḥmy 'burn' \[ibid. 497\]); ḥummat- 'poison of the scorpion' \[ibid. 486\] (also 'fever', rather from ḥmm 'to heat' \[ibid. 485\]) | BK 1 498; ibid. 497; ibid. 486; ibid. 485 |  |
 | Akkadian | imtu OB \[CAD i 139\], \[AHw 379\] | CAD i 139; AHw 379 | gloss withheld |
-| Ugaritic | ḥmt \[DLU 178\] | DLU 178 | gloss withheld |
+| Ugaritic | ḥmt \[DULAT 360\] | DULAT 360 | gloss withheld |
 | East Ethiopic | ZWY amūt do. \[LGur 53\] | LGur 53 |  |
 | Geez | ḥamot \[LGz 235\] | LGz 235 | gloss withheld |
 | Gurage | END amot, MSQ SOD amota, CHA EŽA ENN GYE MUH GOG amʷäta do. \[LGur 53\] | LGur 53 |  |

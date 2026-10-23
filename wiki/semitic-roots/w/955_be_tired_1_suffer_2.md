@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | wgʕ a,4 |  |  |
 | Hebrew | ygʕ |  |  |
-| Geez | wakʿa 'tired' | Anderson–Moser 2024 root wgʿ |  |
+| Geez | wakʿa (LGz. 611) | LGz. 611 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

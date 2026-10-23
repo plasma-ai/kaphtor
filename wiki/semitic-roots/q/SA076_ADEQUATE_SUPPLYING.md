@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab qnʿ (Biella, 461) | Biella 461 | gloss withheld |
-| Arabic | Ar qnʿ D and h; Dat qanaʿa (Biella, 461) | Biella 461 | gloss withheld |
+| Epigraphic South Arabian | Sab qnʿ (Biella 461) | Biella 461 | gloss withheld |
+| Arabic | Ar qnʿ D and h; Dat qanaʿa (Biella 461) | Biella 461 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

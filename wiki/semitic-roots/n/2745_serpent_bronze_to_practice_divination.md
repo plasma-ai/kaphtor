@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | naḥasa 'to be unlucky' (BK 2, 1255) | BK 2, 1255 |  |
-| Ugaritic | nḥš (DULAT, 619) | DULAT 619 | gloss withheld |
-| Phoenician | nḥšt (Krahmalkov, 327) | Krahmalkov 327 | gloss withheld |
+| Arabic | naḥisa 'to be unlucky' (BK 2, 1214) | BK 2, 1214 |  |
+| Ugaritic | nḥš (DULAT 619) | DULAT 619 | gloss withheld |
+| Phoenician | nḥšt (Krahmalkov 327) | Krahmalkov 327 | gloss withheld |
 | Hebrew | nāḥāš (HALOT 690) | HALOT 690 | gloss withheld |
-| Geez | nāḥs (LGz., 395) | LGz. 395 | gloss withheld |
+| Geez | nāḥs (LGz. 395) | LGz. 395 | gloss withheld |
 | Syrian Aramaic | neḥšā (HALOT 690) | HALOT 690 |  |
 | Judaic Aramaic | naḥšā (HALOT 690) | HALOT 690 | gloss withheld |
 | Mandaic Aramaic | nhʾšʾ (HALOT 690) | HALOT 690 |  |

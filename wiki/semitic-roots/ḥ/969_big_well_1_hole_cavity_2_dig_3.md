@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḥafr- 1, ḥfr i, 3 |  |  |
 | Jibbali | ḥfǝr-et 2 |  |  |
 | Akkadian | -ḫapāru (OLA80 §19.9) | OLA80 §19.9 | gloss withheld |
-| Epigraphic South Arabian | Sab ḥfr (SD, 59, 60; Biella, 182) | SD 59, 60; Biella 182 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥfr (SD 59, 60; Biella 182) | SD 59, 60; Biella 182 | gloss withheld |
 | Hebrew | ḥpr (HALOT 340) | HALOT 340 |  |
 | Geez | ḫafara (HALOT 340) | HALOT 340 |  |
-| Mandaic Aramaic | hpr (LGz., 157) | LGz. 157 | gloss withheld |
-| Tigre | ḥafra (LGz., 157) | LGz. 157 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥfr (Al-Jallad–Jaworska, 84) | Al-Jallad–Jaworska 84 | gloss withheld |
+| Mandaic Aramaic | hpr (LGz. 157) | LGz. 157 | gloss withheld |
+| Tigre | ḥafra (LGz. 157) | LGz. 157 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥfr (Al-Jallad–Jaworska 84) | Al-Jallad–Jaworska 84 | gloss withheld |
 | Syrian Aramaic | ḥpar 'dig, burrow' (Payne Smith 154) | Payne Smith 154 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

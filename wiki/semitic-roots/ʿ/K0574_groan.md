@@ -1,17 +1,14 @@
 ---
-name: wiki/semitic-roots/ʾ/K0574_groan
-title: "*ʾVgVm-: 'groan'"
-desc: "Proto-Semitic *ʾVgVm-, 'groan': reflexes in 1 language(s)."
+title: "*ʿVgVm-: 'groan'"
+desc: "Proto-Semitic *ʿVgVm-, 'groan': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0574"
-created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
 ---
 
-# *ʾVgVm-: 'groan'
+# *ʿVgVm-: 'groan'
 
-[[wiki/semitic-roots/ʾ/_index|..]]
+[[wiki/semitic-roots/ʿ/_index|..]]
 
 ***
 
@@ -21,7 +18,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*ʾVgVm- |
+| Reconstruction | \*ʿVgVm- |
 | Meaning | 'groan' |
 | Basis | project |
 

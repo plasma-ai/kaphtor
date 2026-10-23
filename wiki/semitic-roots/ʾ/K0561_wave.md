@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | abūbu 'flood' | Anderson–Moser 2024 root ʾabāb |  |
 | Geez | ʾababi 'flow' | Anderson–Moser 2024 root ʾabāb |  |
-| Arabic | ʾubāb (LGz., 2) | LGz. 2 | gloss withheld |
+| Arabic | ʾubāb (LGz. 2) | LGz. 2 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

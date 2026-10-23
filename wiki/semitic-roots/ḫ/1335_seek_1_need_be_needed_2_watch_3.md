@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫašāḫu 2 |  |  |
 | Tigre | ḥss 3 |  |  |
 | Geez | ḫśś 1 |  |  |
-| Syrian Aramaic | ḥšaḥ 'be fit, suitable, useful' 2 (Payne Smith 161) | Payne Smith 161 |  |
+| Syrian Aramaic | ḥšaḥ 2 (Payne Smith 161); ḥəšaḥ (LGz. 266) | Payne Smith 161; LGz. 266 | gloss withheld |
 | Tigrinya | ḥss 1 |  |  |
-| Amharic | assäsä (LGz., 266) | LGz. 266 | gloss withheld |
-| Harari | xaša (LGz., 266) | LGz. 266 | gloss withheld |
-| Gurage | käše (LGz., 266) | LGz. 266 | gloss withheld |
+| Amharic | assäsä (LGz. 266) | LGz. 266 | gloss withheld |
+| Harari | xaša (LGz. 266) | LGz. 266 | gloss withheld |
+| Gurage | käše (LGz. 266) | LGz. 266 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

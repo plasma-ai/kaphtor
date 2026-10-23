@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | pašāqu 'be(come) narrow' | Anderson–Moser 2024 root pšq |  |
-| Aramaic | PŠQ 'easy' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | PŠQ (Aramaic Root Atlas; CAL s.v. pšq) | Aramaic Root Atlas; CAL s.v. pšq | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

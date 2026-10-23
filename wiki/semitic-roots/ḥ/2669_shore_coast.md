@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ḫp (DULAT, 395); /ḫupp(at)u/?, pl. /ḫuppātu/? (UVST, 129) | DULAT 395; UVST 129 | gloss withheld |
+| Ugaritic | ḫp (DULAT 395); /ḫupp(at)u/?, pl. /ḫuppātu/? (UVST 129) | DULAT 395; UVST 129 | gloss withheld |
 | Hebrew | ḥōp (HALOT 298) | HALOT 298 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

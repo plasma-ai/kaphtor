@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Tigre | ʕeš (LH 481), ʕayyäša (Ibid.) | LH 481; Ibid. | gloss withheld |
 | Hebrew | pB. ʕīsā 'started dough, quantity of flour used for one person's meal' (Ja. 1072), ʕăsāsīt 'pounded wheat or peas' (Ibid. 1098) | Ja. 1072; Ibid. 1098 |  |
-| Epigraphic South Arabian | Sab ʿys₂ (Biella, 363) | Biella 363 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿys₂ (Biella 363) | Biella 363 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

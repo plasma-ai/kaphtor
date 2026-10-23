@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǧšʔ (a) 'roter' \[BK 1 295\]; DAṮ taǧaššaʕ do. \[GD 283\]. | BK 1 295; GD 283 |  |
 | Mehri | gǝŝō \[JM 126\] | JM 126 | gloss withheld |
-| Soqotri | gšʕ \[LS 117\] | LS 117 | gloss withheld |
+| Soqotri | gšʕ \[LS 117\]; góŝe, géŝe (SLOnline 4146) | LS 117 | gloss withheld |
 | Akkadian | gešû (u) SB \[CAD G 64\], \[AHw 287\] | CAD G 64; AHw 287 | gloss withheld |
 | Harsusi | geŝō \[JH 42\] | JH 42 | gloss withheld |
 | Tigre | gäsʕa \[LH 580\] | LH 580 | gloss withheld |

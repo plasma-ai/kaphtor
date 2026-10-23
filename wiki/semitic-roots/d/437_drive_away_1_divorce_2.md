@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | dḥr \[-a-\] 1 (Lane 855) | Lane 855 |  |
 | Geez | dḥr 2 |  |  |
-| Tigre | (tə)däḥara (LGz., 128) | LGz. 128 | gloss withheld |
+| Tigre | (tə)däḥara (LGz. 128) | LGz. 128 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

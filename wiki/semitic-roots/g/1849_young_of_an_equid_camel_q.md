@@ -38,9 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | gǝlgäl \[K 1898\] | K 1898 | gloss withheld |
 | Harari | ? gīgi \[LHar. 70\] (&lt;\*gilgil?) | LHar. 70 | gloss withheld |
 | Tigrinya | gǝlgǝl 'foal of a horse or mule, not yet broken in' \[Bass. 815\] | Bass. 815 |  |
-| Geez | ʾagʷil (LGz., 11) | LGz. 11 | gloss withheld |
-| Argobba | gəlgäl (LGz., 11) | LGz. 11 | gloss withheld |
-| Gafat | gəlgäl (LGz., 11) | LGz. 11 | gloss withheld |
+| Geez | ʾagʷil (LGz. 11) | LGz. 11 | gloss withheld |
+| Argobba | gəlgäl (LGz. 11) | LGz. 11 | gloss withheld |
+| Gafat | gəlgäl (LGz. 11) | LGz. 11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

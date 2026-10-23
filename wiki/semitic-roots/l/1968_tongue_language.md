@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | lǝs(s)an \[LH 36\], nǝssal \[ibid. 325\] | LH 36; ibid. 325 |  |
 | Eblaitic | li-sa-nu /lišānu(m)/ \[Kr 7-8; Bl E No. 66\] | Kr 7-8 |  |
 | Mandaic Aramaic | lišana \[DM 237\] | DM 237 |  |
-| Ugaritic | lšn \[DLU 249\]; /lašānu/ (UVST, 143) | DLU 249; UVST 143 |  |
+| Ugaritic | lšn \[DULAT 501\]; /lašānu/ (UVST 143) | DULAT 501; UVST 143 |  |
 | Geez | lǝssan \[LGz 318\]. | LGz 318 |  |
 | Biblical Aramaic | liššānā (BDB 1099) | BDB 1099 |  |
 | Phoenician | lasoun \[HJ 584\] (in Diosc.) | HJ 584 |  |
@@ -46,8 +46,8 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ɛls̃ɛ́n \[JJ 165\] | JJ 165 |  |
 | Hebrew | lāšōn (HALOT 536) | HALOT 536 |  |
 | Amharic | lǝs(s)an \[K 58\] | K 58 |  |
-| Epigraphic South Arabian | SAB ls1n \[SD 83\] | SD 83 |  |
-| Judaic Aramaic | līšānā \[Ja 710\]; läššān (lyšn) \[Sok 282\] | Ja 710; Sok 282 |  |
+| Epigraphic South Arabian | SAB ls1n \[SD 83; Sabaweb lemma 1580\] | SD 83; Sabaweb lemma 1580 | gloss withheld |
+| Judaic Aramaic | līšānā \[Ja 710\]; läššān (lyšn) \[DJPA 282b apud CAL\] | Ja 710; DJPA 282b; CAL |  |
 | Syrian Aramaic | leššānā \[Brock 371\] | Brock 371 |  |
 | Aramaic | SAMAL OLD DAL OFF lšn (WARKA li-iš-šá-an) \[HJ 584\] | HJ 584 | gloss withheld |
 | Tigrinya | lǝs(s)an \[Bass 20\] | Bass 20 |  |

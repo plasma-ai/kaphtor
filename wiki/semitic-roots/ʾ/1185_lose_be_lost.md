@@ -32,17 +32,17 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mandaic Aramaic | abad |  |  |
 | Ugaritic | ʔbd |  |  |
-| Phoenician | yʔbd; ʔbd (T, 2) | T 2 | gloss withheld |
+| Phoenician | yʔbd; ʔbd (T 2) | T 2 | gloss withheld |
 | Hebrew | ʔbd |  |  |
 | Aramaic | (Epigr) ʔbd, (Palest) ʔ.bad |  |  |
 | Akkadian | abātu 'destroy' | Anderson–Moser 2024 root ʾbd |  |
 | Geez | ʾabda 'insane' | Anderson–Moser 2024 root ʾbd |  |
 | Punic | ʾbd 'destroy' | Anderson–Moser 2024 root ʾbd |  |
 | Arabic | ʾabada (HALOT 2) | HALOT 2 | gloss withheld |
-| Syrian Aramaic | ʾebaḏ (LGz., 2) | LGz. 2 |  |
-| Tigre | ʾabbäda (LGz., 2) | LGz. 2 | gloss withheld |
-| Tigrinya | ʾabbädä, ʿabädä (LGz., 2) | LGz. 2 | gloss withheld |
-| Amharic | abbädä (LGz., 2) | LGz. 2 | gloss withheld |
+| Syrian Aramaic | ʾebaḏ (LGz. 2) | LGz. 2 |  |
+| Tigre | ʾabbäda (LGz. 2) | LGz. 2 | gloss withheld |
+| Tigrinya | ʾabbädä, ʿabädä (LGz. 2) | LGz. 2 | gloss withheld |
+| Amharic | abbädä (LGz. 2) | LGz. 2 | gloss withheld |
 | Soqotri | šɛʔɛ́bid (CSOL I 464 apud SEDonline 1992) | SEDonline 1992 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

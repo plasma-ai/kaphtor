@@ -37,8 +37,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | špk 'spill' | Anderson–Moser 2024 root špk |  |
 | Judaic Aramaic | špk (HALOT 1629; DJPA 563b apud CAL) | HALOT 1629; DJPA 563b; CAL |  |
 | Syrian Aramaic | šepak (HALOT 1629; Payne Smith 591) | HALOT 1629; Payne Smith 591 |  |
-| Tigre | (tə)säbbäka (LGz., 484) | LGz. 484 | gloss withheld |
-| Amorite | špk: sibk- (Huffmon APNM, 252) | Huffmon APNM 252 | gloss withheld |
+| Tigre | (tə)säbbäka (LGz. 484) | LGz. 484 | gloss withheld |
+| Amorite | špk: sibk- (Huffmon APNM 252) | Huffmon APNM 252 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

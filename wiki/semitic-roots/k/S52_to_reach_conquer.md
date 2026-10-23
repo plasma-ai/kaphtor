@@ -35,6 +35,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-OLA80 §38.3. Used as paradigm verb for preterite tense illustration. Ugr. kšd 'to search for, to reach' (DUL 467) and probably Arb. kāšid- 'one who earns, obtains much' (LA 3 466), apud SEDonline 2062, an areal \*kš/ŝd 'to reach'.
+OLA80 §38.3. Used as paradigm verb for preterite tense illustration. Ugr. kšd 'to search for, to reach' (DULAT 462) and probably Arb. kāšid- 'one who earns, obtains much' (LA 3 466), apud SEDonline 2062, an areal \*kš/ŝd 'to reach'.
 
 <!-- END kaphtor:record -->

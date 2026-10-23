@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | díye |  | gloss withheld |
 | Ugaritic | dy /dayyu/ (Huehnergard 2012, 145) | Huehnergard 2012 145 | gloss withheld |
 | Hebrew | \*day (HALOT 219) | HALOT 219 | gloss withheld |
-| Phoenician | d: md (T, 69) | T 69 | gloss withheld |
+| Phoenician | d: md (T 69) | T 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

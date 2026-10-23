@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qrḥ \[-a-\] |  |  |
-| Epigraphic South Arabian | Sab qrḥ; n. qrḥ (SD, 107) | SD 107 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic qrḥ (Al-Jallad–Jaworska, 111) | Al-Jallad–Jaworska 111 | gloss withheld |
+| Epigraphic South Arabian | Sab qrḥ; n. qrḥ (SD 107) | SD 107 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qrḥ (Al-Jallad–Jaworska 111) | Al-Jallad–Jaworska 111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

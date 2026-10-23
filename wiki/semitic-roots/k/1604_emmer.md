@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-From 2692: Akkadian: kunāšu 'emmer' (CAD K, 538); Hebrew: kussemmet 'spelt/emmer' (HALOT 490)
+From 2692: Akkadian: kunāšu 'emmer' (CAD K 538); Hebrew: kussemmet 'spelt/emmer' (HALOT 490)
 
 <!-- END kaphtor:record -->

@@ -43,20 +43,20 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Cha šǝm |  |  |
 | Biblical Aramaic | šum (CAL s.v. šm) | CAL s.v. šm |  |
 | Modern Arabic | Leb ʔǝsǝm, Mec ism, Mlt isem |  |  |
-| Phoenician | šm (T, 321) | T 321 | gloss withheld |
+| Phoenician | šm (T 321) | T 321 | gloss withheld |
 | Modern Aramaic | Urm šimm- |  |  |
 | Jibbali | šum |  |  |
 | Hebrew | šēm |  |  |
 | Amharic | sǝm |  |  |
-| Epigraphic South Arabian | s1m |  |  |
+| Epigraphic South Arabian | s1m (Sabaweb lemma 5018) | Sabaweb lemma 5018 | gloss withheld |
 | Harari | sum |  |  |
 | Syrian Aramaic | šǝm (Payne Smith 583) | Payne Smith 583 |  |
 | Gafat | sǝmʷä |  |  |
 | Aramaic | Pal šēm, šwm (DJPA 555b apud CAL) | DJPA 555b; CAL |  |
 | Argobba | sǝm |  |  |
 | Tigrinya | sǝm \| šəm (OLA80 §14.9) | OLA80 §14.9 | gloss withheld |
-| Punic | šm, šʿm (T, 321) | T 321 | gloss withheld |
-| Eblaitic | su-mu-um /šumum/ (VE 1144, Kogan–Krebernik 2021b: 684 apud SEDonline 37) | VE 1144, Kogan–Krebernik 2021b: 684; SEDonline 37 | gloss withheld |
+| Punic | šm, šʿm (T 321) | T 321 | gloss withheld |
+| Eblaitic | su-mu-um /šumum/ (VE 1144, Kogan–Krebernik 2021b: 684 apud SEDonline 37; Krebernik 1983, 40) | VE 1144, Kogan–Krebernik 2021b: 684; SEDonline 37; Krebernik 1983, 40 | gloss withheld |
 | Amorite | šum- (OLA80 §63.5) | OLA80 §63.5 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | māšu 2 |  |  |
-| Ugaritic | mṯ 1 ( DLU 309) | DLU 309 | gloss withheld |
+| Ugaritic | mṯ 1 ( DULAT 595-6) | DULAT 595 | gloss withheld |
 | East Ethiopic | miš |  | gloss withheld |
 | Gurage | miss |  | gloss withheld |
 | Harari | miš |  | gloss withheld |

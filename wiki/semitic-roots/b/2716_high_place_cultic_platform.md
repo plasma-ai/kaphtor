@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | bāmtu (CAD B, 77) | CAD B, 77 | gloss withheld |
-| Ugaritic | bmt (DULAT, 221) | DULAT 221 | gloss withheld |
+| Akkadian | bāmtu (CAD B 77) | CAD B 77 | gloss withheld |
+| Ugaritic | bmt (DULAT 221) | DULAT 221 | gloss withheld |
 | Hebrew | bāmā (HALOT 136) | HALOT 136 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

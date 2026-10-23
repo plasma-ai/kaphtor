@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kāru (kāratu) (CAD K, 231) | CAD K, 231 | gloss withheld |
+| Akkadian | kāru (kāratu) (CAD K 231) | CAD K 231 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

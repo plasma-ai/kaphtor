@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ḫmat (DULAT, 390) | DULAT 390 | gloss withheld |
+| Ugaritic | ḫmat (DULAT 390) | DULAT 390 | gloss withheld |
 | Hebrew | ḥemʔā (HALOT 325) | HALOT 325 | gloss withheld |
 | Akkadian | ḫimētu (Bab.), ḫimātu (Ass.) (HALOT 325) | HALOT 325 |  |
 | Judaic Aramaic | ḥemʾătā (HALOT 325) | HALOT 325 |  |

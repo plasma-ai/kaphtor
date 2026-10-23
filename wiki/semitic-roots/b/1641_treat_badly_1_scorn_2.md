@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | buzzuʔu 1 |  |  |
 | Hebrew | bzy 2 |  |  |
 | Aramaic | (Palest) bazzē 2 |  |  |
-| Geez | bazbaza (LGz., 117) | LGz. 117 | gloss withheld |
+| Geez | bazbaza (LGz. 117) | LGz. 117 | gloss withheld |
 | Syrian Aramaic | bzh (HALOT 117) | HALOT 117 |  |
 | Mandaic Aramaic | bzh (HALOT 117) | HALOT 117 |  |
-| Arabic | bazā (LGz., 117) | LGz. 117 |  |
+| Arabic | bazā (LGz. 117) | LGz. 117 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

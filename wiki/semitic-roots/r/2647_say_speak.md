@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | rǯm, trǯm |  |  |
 | Akkadian | ragāmu |  |  |
-| Ugaritic | rgm /ragāmu/? (UVST, 177) | UVST 177 | gloss withheld |
+| Ugaritic | rgm /ragāmu/? (UVST 177) | UVST 177 | gloss withheld |
 | Aramaic | trgm |  |  |
 | Amorite | rgm: ʾargam, rigm(ān)um (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
 

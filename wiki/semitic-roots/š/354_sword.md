@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | sayf- (Lane 1485) | Lane 1485 |  |
 | Harsusi | sēf |  |  |
-| Pre-Islamic North Arabian | Safaitic sf (Al-Jallad–Jaworska, 120) | Al-Jallad–Jaworska 120 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sf (Al-Jallad–Jaworska 120) | Al-Jallad–Jaworska 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

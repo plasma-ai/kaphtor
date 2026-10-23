@@ -42,8 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab. bkr(t) \[SD 28\] | SD 28; Sima 43 | gloss withheld |
 | Syrian Aramaic | bǝkūrē 'young camels' \[Brock. 74\], bakkūrē \[PS 525\]. | Brock. 74; PS 525 |  |
 | Aramaic | D.-Alla bkr \[HJ 164\] (pl. bkrn) | HJ 164; ibid. | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic bkr (Al-Jallad–Jaworska, 60) | Al-Jallad–Jaworska 60 | gloss withheld |
-| Modern Arabic | Yem. bakrah (Biella, 42) | Biella 42 |  |
+| Pre-Islamic North Arabian | Safaitic bkr (Al-Jallad–Jaworska 60) | Al-Jallad–Jaworska 60 | gloss withheld |
+| Modern Arabic | Yem. bakrah (Biella 42) | Biella 42 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

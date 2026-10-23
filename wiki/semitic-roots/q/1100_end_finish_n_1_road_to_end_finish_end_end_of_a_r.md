@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | qiṣtā, qəṣāt (HALOT 1127; Jastrow 1409 apud CAL) | HALOT 1127; Jastrow 1409; CAL |  |
 | Aramaic | qṣt (HALOT 1127; DNWSI 1023 apud CAL) | HALOT 1127; DNWSI 1023; CAL |  |
 | Biblical Aramaic | \*qəṣāt (HALOT 1127) | HALOT 1127 |  |
-| Punic | qṣʾ (T, 291) | T 291 | gloss withheld |
+| Punic | qṣʾ (T 291) | T 291 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

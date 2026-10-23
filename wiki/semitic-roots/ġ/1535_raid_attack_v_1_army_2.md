@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ɣwr 1, ɣar- 2 |  |  |
 | Harsusi | šewɣor 1 |  |  |
-| Epigraphic South Arabian | Sab ġwr (Biella, 392); Sab ġwr (SD, 54) | Biella 392; SD 54 | gloss withheld |
+| Epigraphic South Arabian | Sab ġwr (Biella 392); Sab ġwr (SD 54) | Biella 392; SD 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | nušaq, nišuqtā (HALOT 729; Drower/Macuch 307b apud CAL) | HALOT 729; Macuch 307b; CAL |  |
 | Akkadian | našāqu (HALOT 730) | HALOT 730 |  |
 | Amorite | n-š-q (George and Krebernik 2022, 156) | Krebernik 2022 | gloss withheld |
-| Eblaitic | ne-sa-gu, ne-sa-gu-um /nišāḳu(m)/ (VE 849 apud SEDonline 1850) | VE 849; SEDonline 1850 | gloss withheld |
+| Eblaitic | ne-sa-gu, ne-sa-gu-um /nišāḳu(m)/ (VE 849 apud SEDonline 1850; Krebernik 1983, 33) | VE 849; SEDonline 1850; Krebernik 1983, 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

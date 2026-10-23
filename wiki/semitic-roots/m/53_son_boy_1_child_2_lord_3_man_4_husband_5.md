@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | marʔ-, murʔ- 4, 5 |  |  |
 | Mehri | ḥǝ-mrō 2 (pl.) |  |  |
 | Akkadian | māru 1 |  |  |
-| Epigraphic South Arabian | Sab, Qat mrʔ 2, Sab 3, 4 |  |  |
+| Epigraphic South Arabian | Sab, Qat mrʔ 2, Sab 3, 4; Sab mrʔ (Sabaweb lemma 1207) | Sabaweb lemma 1207 | gloss withheld |
 | Syrian Aramaic | mārā 3 |  |  |
-| Pre-Islamic North Arabian | Safaitic mrʾ (Al-Jallad–Jaworska, 98) | Al-Jallad–Jaworska 98 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mrʾ (Al-Jallad–Jaworska 98) | Al-Jallad–Jaworska 98 | gloss withheld |
 | Amharic | mära (AED 168 apud SEDonline 105) | AED 168; SEDonline 105 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

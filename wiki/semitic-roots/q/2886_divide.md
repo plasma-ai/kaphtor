@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | qs³mt (SD, 109) | SD 109 | gloss withheld |
+| Epigraphic South Arabian | qs³mt (SD 109; Sabaweb lemma 4808) | SD 109; Sabaweb lemma 4808 | gloss withheld |
 | Arabic | qasama; qism (HALOT 1115; HALOT 1116) | HALOT 1115; HALOT 1116 | gloss withheld |
 | Geez | q-s-m ‘divide’ (Dillmann 03377) | Dillmann 03377 |  |
 

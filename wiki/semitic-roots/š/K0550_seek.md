@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | šeʾû 'seek (out)' | Anderson–Moser 2024 root šʿy |  |
 | Hebrew | šaʿah 'look' | Anderson–Moser 2024 root šʿy |  |
 | Soqotri | šiʿi (HALOT 1609) | HALOT 1609 |  |
-| Phoenician | \*šʿy: tšʿm (T, 328) | T 328 | gloss withheld |
+| Phoenician | \*šʿy: tšʿm (T 328) | T 328 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

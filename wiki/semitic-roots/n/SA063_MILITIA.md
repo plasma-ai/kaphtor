@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nkf (Biella, 305; SD, 95) | Biella 305; SD 95 | gloss withheld |
-| Arabic | Dat.ModHad nkf (Biella, 305) | Biella 305 | gloss withheld |
+| Epigraphic South Arabian | Sab nkf (Biella 305); (SD 95; Sabaweb lemma 2630) | Biella 305; SD 95; Sabaweb lemma 2630 | gloss withheld |
+| Arabic | Dat.ModHad nkf (Biella 305) | Biella 305 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

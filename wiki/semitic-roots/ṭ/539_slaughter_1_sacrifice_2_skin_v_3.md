@@ -43,10 +43,10 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ṭäbḥa 3 |  |  |
 | Arabic | ṭabaḫa 'cook' (Lane 1821) | Lane 1821 |  |
 | Punic | ṭbḥ 'slaughter' | Anderson–Moser 2024 root ṭbḫ |  |
-| Epigraphic South Arabian | ṭbḫ (HALOT 368) | HALOT 368 |  |
-| Harsusi | ṭebōḫ (LGz., 586) | LGz. 586 | gloss withheld |
-| Judaic Aramaic | ṭabbāḥaʾ (T, 119) | T 119 |  |
-| Mandaic Aramaic | ṭabahaʾ (T, 119) | T 119 |  |
+| Epigraphic South Arabian | ṭbḫ (HALOT 368; Sabaweb lemma 5310) | HALOT 368; Sabaweb lemma 5310 | gloss withheld |
+| Harsusi | ṭebōḫ (LGz. 586) | LGz. 586 | gloss withheld |
+| Judaic Aramaic | ṭabbāḥaʾ (T 119) | T 119 |  |
+| Mandaic Aramaic | ṭabahaʾ (T 119) | T 119 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

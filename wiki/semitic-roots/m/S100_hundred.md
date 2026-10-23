@@ -32,15 +32,15 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | mi-at/me-at (OLA80 §35.20) | OLA80 §35.20 |  |
 | Phoenician | mʾtm (HALOT 538) | HALOT 538 | gloss withheld |
 | Mandaic Aramaic | mʾ (HALOT 538) | HALOT 538 |  |
-| Epigraphic South Arabian | mʾt (HALOT 538) | HALOT 538 |  |
-| Geez | məʾət (LGz., 324) | LGz. 324 |  |
-| Soqotri | miʾe (LGz., 324) | LGz. 324 |  |
-| Syrian Aramaic | m(ʾ)ā (LGz., 324) | LGz. 324 |  |
-| Tigrinya | məʾti (LGz., 324) | LGz. 324 |  |
-| Amharic | mäto (LGz., 324) | LGz. 324 |  |
-| Argobba | mäto (LGz., 324) | LGz. 324 |  |
-| Gurage | mäto (LGz., 324) | LGz. 324 |  |
-| Pre-Islamic North Arabian | Safaitic mʾt (Al-Jallad–Jaworska, 94) | Al-Jallad–Jaworska 94 | gloss withheld |
+| Epigraphic South Arabian | mʾt (HALOT 538; Sabaweb lemma 1468) | HALOT 538; Sabaweb lemma 1468 | gloss withheld |
+| Geez | məʾət (LGz. 324) | LGz. 324 |  |
+| Soqotri | miʾe (LGz. 324) | LGz. 324 |  |
+| Syrian Aramaic | m(ʾ)ā (LGz. 324) | LGz. 324 |  |
+| Tigrinya | məʾti (LGz. 324) | LGz. 324 |  |
+| Amharic | mäto (LGz. 324) | LGz. 324 |  |
+| Argobba | mäto (LGz. 324) | LGz. 324 |  |
+| Gurage | mäto (LGz. 324) | LGz. 324 |  |
+| Pre-Islamic North Arabian | Safaitic mʾt (Al-Jallad–Jaworska 94) | Al-Jallad–Jaworska 94 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

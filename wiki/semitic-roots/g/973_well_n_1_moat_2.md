@@ -43,9 +43,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | gubb-, gūb- 1 |  |  |
 | Aramaic | gubb- 2 |  |  |
 | Modern South Arabian | ā-garb (OLA80 §33.8) | OLA80 §33.8 | gloss withheld |
-| Amharic | gəbb (LGz., 176) | LGz. 176 |  |
-| Harari | gäb (LGz., 176) | LGz. 176 |  |
-| Pre-Islamic North Arabian | Safaitic gb (Al-Jallad–Jaworska, 70) | Al-Jallad–Jaworska 70 | gloss withheld |
+| Amharic | gəbb (LGz. 176) | LGz. 176 |  |
+| Harari | gäb (LGz. 176) | LGz. 176 |  |
+| Pre-Islamic North Arabian | Safaitic gb (Al-Jallad–Jaworska 70) | Al-Jallad–Jaworska 70 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

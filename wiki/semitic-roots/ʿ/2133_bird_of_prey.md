@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔaʕwar-, dim. ʕuwayr- 'corbeau' \[BK 2 406\], \[LA IV 614\] (a number of folk-etymological explanations in the last source). | BK 2 406; LA IV 614 |  |
+| Arabic | ʔaʕwar-, dim. ʕuwayr- 'raven' \[BK 2 406\], \[LA IV 614\] (a number of folk-etymological explanations in the last source). | BK 2 406; LA IV 614 |  |
 | Akkadian | erû (arû) OB on \[CAD e 324\], \[AHw. 247\] | CAD e 324; AHw. 247 | gloss withheld |
 | Judaic Aramaic | ʕar 'a bird of prey, perhaps Lammergeyer' \[Ja. 1109\], ʕaryā id. \[ibid. 1116\], 'a kind of eagle, eagle' \[Levy TW 239\]. // Detailed information on this term can be found in \[Aharoni ʕar\] (derivation of the Biblical toponym ʕār mōʔāb from the present term is suggested). | Ja. 1109; ibid. 1116; Levy TW 239 |  |
 | Aramaic | (?) Anc. ʕr \[HJ 884\] | HJ 884; KAI 222 | gloss withheld |

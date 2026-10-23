@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mrṭ 'to pull out the hair/fur' (BK 2 1092); cf. also marīṭ- 'that is not yet fitted with feathers (arrow)' (ibid.) | BK 2 1092; ibid. |  |
-| Akkadian | marāṭu (CAD M1, 276) with a meaning shift? | CAD M1, 276 | gloss withheld |
+| Akkadian | marāṭu (CAD M/1 276) with a meaning shift? | CAD M/1 276 | gloss withheld |
 | Hebrew | mrṭ (HALOT 634, 635) | HALOT 634, 635 | gloss withheld |
 | Syrian Aramaic | merṭ- 'feather' (Payne Smith 301) | Payne Smith 301 |  |
 | Judaic Aramaic | mrṭ (HALOT 634; DJPA 329b apud CAL) | HALOT 634; DJPA 329b; CAL |  |
-| Geez | maraṭa (LGz., 361) | LGz. 361 | gloss withheld |
-| Harari | märäṭa (LGz., 361) | LGz. 361 | gloss withheld |
-| Gurage | märäṭä (LGz., 361) | LGz. 361 | gloss withheld |
+| Geez | maraṭa (LGz. 361) | LGz. 361 | gloss withheld |
+| Harari | märäṭa (LGz. 361) | LGz. 361 | gloss withheld |
+| Gurage | märäṭä (LGz. 361) | LGz. 361 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

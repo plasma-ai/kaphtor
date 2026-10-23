@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥattā (OLA80 §59.2) | OLA80 §59.2 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥt (Al-Jallad–Jaworska, 87) | Al-Jallad–Jaworska 87 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥt (Al-Jallad–Jaworska 87) | Al-Jallad–Jaworska 87 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

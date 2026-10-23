@@ -30,16 +30,16 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʿāmm- 'general, common' (Lane 2150); ʿamm- 'paternal uncle' (Lane 2149) | Lane 2150; Lane 2149 |  |
-| Akkadian | ummānu (CAD U/W, 106) | CAD U/W, 106 | gloss withheld |
-| Ugaritic | ʿm (DULAT, 160) | DULAT 160 | gloss withheld |
-| Phoenician | ʿm (T, 249) | T 249 | gloss withheld |
+| Akkadian | ummānu (CAD U/W 106) | CAD U/W 106 | gloss withheld |
+| Ugaritic | ʿm (DULAT 160) | DULAT 160 | gloss withheld |
+| Phoenician | ʿm (T 249) | T 249 | gloss withheld |
 | Hebrew | ʿam (HALOT 837). ʿammī | HALOT 837 | gloss withheld |
 | Syrian Aramaic | ʕam 'people, nation; Gentiles; crowd' (Payne Smith 416) | Payne Smith 416 |  |
 | Punic | ʿm 'people' | Anderson–Moser 2024 root ʿm |  |
-| Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska, 53) | Al-Jallad–Jaworska 53 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿmm (Biella, 372) | Biella 372 | gloss withheld |
-| Aramaic | ʿm (T, 249) | T 249 |  |
-| Judaic Aramaic | ʿamaʾ (T, 249) | T 249 |  |
+| Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53) | Al-Jallad–Jaworska 53 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿmm (Biella 372) | Biella 372 | gloss withheld |
+| Aramaic | ʿm (T 249) | T 249 |  |
+| Judaic Aramaic | ʿamaʾ (T 249) | T 249 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

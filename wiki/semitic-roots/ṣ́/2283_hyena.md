@@ -35,9 +35,9 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | dpʔ (Sok. B 347) | Sok. B 347 |  |
 | Hebrew | ṣābūăʕ (HALOT 997), pB. \[Ja. 1257\] | HALOT 997; Ja. 1257; HALOT 999; HALOT 997 | gloss withheld |
 | Aramaic | D.-Alla ḳbʕ \[Hackett 133\] | Hackett 133; HJ 983 | gloss withheld |
-| Syrian Aramaic | ʾapʿā (LGz., 147) | LGz. 147 | gloss withheld |
+| Syrian Aramaic | ʾapʿā (LGz. 147) | LGz. 147 | gloss withheld |
 | Akkadian | būṣu (Kogan 2011, 208) | Kogan 2011, 208 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḍbʿ (Al-Jallad–Jaworska, 67) | Al-Jallad–Jaworska 67 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḍbʿ (Al-Jallad–Jaworska 67) | Al-Jallad–Jaworska 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

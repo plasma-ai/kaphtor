@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | bqr 'cattle' | Anderson–Moser 2024 root bqr |  |
 | Modern Aramaic | Krd. buḳra; NSyr. biḳrâ, bŭḳrâ; NAssyr. bıḳra, buḳra; Tlk. buḳra; Ass. bɨḳra; Tur. baḳro (SED II 83) | SED II 83 |  |
 | Egyptian | Eg.-Syll. pa₂=ra=ku \[Hoch 179\] | Hoch 179 |  |
-| Pre-Islamic North Arabian | Safaitic bqr (Al-Jallad–Jaworska, 61) | Al-Jallad–Jaworska 61 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bqr (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

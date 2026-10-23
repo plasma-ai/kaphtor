@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | rǝkeb 'he mounted, he had intercourse with (a female)' \[Brock 730\] | Brock 730 |  |
 | Amorite | rkb: jirkab, jarkab, rukābatum, jārkib (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
 | Modern South Arabian | Bathari rēkəb (Gasparini - Morris 2025 191 apud SEDonline 897) | SEDonline 897 | gloss withheld |
-| Hebrew | rékeb (Biella, 488) | Biella 488 |  |
+| Hebrew | rékeb (Biella 488) | Biella 488 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,16 +29,16 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | balu (balum, bali, bala, bal) (CAD B, 70) | CAD B, 70 | gloss withheld |
+| Akkadian | balu (balum, bali, bala, bal) (CAD B 70) | CAD B 70 | gloss withheld |
 | Hebrew | bal 'not' | Anderson–Moser 2024 root bal |  |
 | Punic | bl 'not' | Anderson–Moser 2024 root bal |  |
 | Ugaritic | bl 'without' | Anderson–Moser 2024 root bal |  |
-| Epigraphic South Arabian | Sab bltn, blty, bly (SD, 28) | SD 28 | gloss withheld |
+| Epigraphic South Arabian | Sab bltn, blty, bly (SD 28) | SD 28 | gloss withheld |
 | Amorite | balte (HALOT 136) | HALOT 136 |  |
-| Soqotri | di-bal (LGz., 27) | LGz. 27 |  |
-| Syrian Aramaic | bəlay (LGz., 27; Payne Smith 46) | LGz. 27; Payne Smith 46 |  |
-| Tigre | ʾəmbäl (LGz., 27) | LGz. 27 |  |
-| Tigrinya | ʾənbälä (LGz., 27) | LGz. 27 |  |
+| Soqotri | di-bal (LGz. 27) | LGz. 27 |  |
+| Syrian Aramaic | bəlay (LGz. 27; Payne Smith 46) | LGz. 27; Payne Smith 46 |  |
+| Tigre | ʾəmbäl (LGz. 27) | LGz. 27 |  |
+| Tigrinya | ʾənbälä (LGz. 27) | LGz. 27 |  |
 | East Ethiopic | Zwy. balä (EDG 138 apud SEDonline 1126) | EDG 138; SEDonline 1126 | gloss withheld |
 | Arabic | bilā (Lane 142 apud SEDonline 1126) | Lane 142; SEDonline 1126 | gloss withheld |
 

@@ -29,12 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | siparru (CAD S, 296) | CAD S, 296 | gloss withheld |
+| Akkadian | siparru (CAD S 296) | CAD S 296 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-CAD S, 296: Sum.(?) lw. HALOT 767 calls the derivation of Heb. II sēper 'bronze' from siparru outmoded.
+CAD S 296: Sum.(?) lw. HALOT 767 calls the derivation of Heb. II sēper 'bronze' from siparru outmoded.
 
 <!-- END kaphtor:record -->

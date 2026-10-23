@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED I No. 253: scarce, Arabic and Ethiopic only, and neither separates \*š from \*s. MSA Mhr. sār, Hrs. sār, ser, Jib. sér 'behind, back', Soq. sar (seri) 'derrière' are likely related with a meaning shift. Cf. Amh. šə(r)rət 'fin of a fish' (SED I 223).
+SED I No. 253: scarce, Arabic and Ethiopic only, and neither separates \*š from \*s. MSA Mhr. sār, Hrs. sār, ser, Jib. sér 'behind, back', Soq. sar (seri) 'backside' are likely related with a meaning shift. Cf. Amh. šə(r)rət 'fin of a fish' (SED I 223).
 
 <!-- END kaphtor:record -->

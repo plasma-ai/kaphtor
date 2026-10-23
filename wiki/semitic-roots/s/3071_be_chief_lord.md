@@ -29,13 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | istādū (Lane 1461); sāda, sayyid (Biella, 329) | Lane 1461; Biella 329 | gloss withheld |
-| Epigraphic South Arabian | Sab s₁wd (Biella, 329); (SD, 129) | Biella 329; SD 129 | gloss withheld |
+| Arabic | istādū (Lane 1461); sāda, sayyid (Biella 329) | Lane 1461; Biella 329 | gloss withheld |
+| Epigraphic South Arabian | Sab s₁wd (Biella 329); (SD 129) | Biella 329; SD 129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Sab. s₁ = Ar. s (\*š). Homonym of 929 \*šVwad- 'be black'; Sab. s₃wd 'clan-heads; council' (Biella, 502) is another root.
+Sab. s₁ = Ar. s (\*š). Homonym of 929 \*šVwad- 'be black'; Sab. s₃wd 'clan-heads; council' (Biella 502) is another root.
 
 <!-- END kaphtor:record -->

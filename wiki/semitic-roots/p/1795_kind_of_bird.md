@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | fǝrfǝrt \[LGz. 165\]. | LGz. 165 | gloss withheld |
 | Judaic Aramaic | parwā 'name of an unclean bird' \[Ja. 1217\], pōrītā 'birds of prey' \[Ja. 1147\]. | Ja. 1217; Ja. 1147 |  |
 | Syrian Aramaic | parpūrā 'sparrow (?)' \[Brock. 605\], 'partridge' \[PS 3288\]. | Brock. 605; PS 3288 |  |
-| Hebrew | parpar (LGz., 165) | LGz. 165 | gloss withheld |
+| Hebrew | parpar (LGz. 165) | LGz. 165 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

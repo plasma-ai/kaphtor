@@ -30,15 +30,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mawt- 'death' (BK 2, 1165) | BK 2, 1165 |  |
-| Akkadian | mūtu (CAD M2, 313) | CAD M2, 313 | gloss withheld |
-| Ugaritic | mt (DUL, 590) | DUL 590 | gloss withheld |
-| Phoenician | mt (T, 204) | T 204 | gloss withheld |
+| Akkadian | mūtu (CAD M/2 313) | CAD M/2 313 | gloss withheld |
+| Ugaritic | mt (DULAT 589) | DULAT 589 | gloss withheld |
+| Phoenician | mt (T 204) | T 204 | gloss withheld |
 | Hebrew | māwet (HALOT 563) | HALOT 563 | gloss withheld |
 | Greek | Μουθ (OLA80 §21.9,13) | OLA80 §21.9,13 | gloss withheld |
-| Epigraphic South Arabian | Sab mwt (SD, 89; Biella, 269, 270) | SD 89; Biella 269, 270 | gloss withheld |
-| Geez | māwtā (LGz., 376) | LGz. 376 | gloss withheld |
+| Epigraphic South Arabian | Sab mwt (SD 89; Biella 269, 270) | SD 89; Biella 269, 270 | gloss withheld |
+| Geez | māwtā (LGz. 376) | LGz. 376 | gloss withheld |
 | Syrian Aramaic | mīt 'dead' (Payne Smith 269) | Payne Smith 269 |  |
-| Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska, 100) | Al-Jallad–Jaworska 100 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nēberu; nēbertu (CAD N2, 145) | CAD N2, 145 | gloss withheld |
-| Ugaritic | mʕbr (DULAT, 514) | DULAT 514 | gloss withheld |
+| Akkadian | nēberu; nēbertu (CAD N/2 145) | CAD N/2 145 | gloss withheld |
+| Ugaritic | mʕbr (DULAT 514) | DULAT 514 | gloss withheld |
 | Hebrew | maʕăbārā (HALOT 609) | HALOT 609 | gloss withheld |
 | Judaic Aramaic | maʿbartā (HALOT 609) | HALOT 609 |  |
-| Punic | mʿbr (Neo-Punic; Krahmalkov, 300) | Krahmalkov 300 | gloss withheld |
+| Punic | mʿbr (Neo-Punic; Krahmalkov 300) | Krahmalkov 300 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

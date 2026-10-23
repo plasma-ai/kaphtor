@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ašratu (CAD A2, 454) | CAD A2, 454 | gloss withheld |
-| Ugaritic | aṯrt (DUL, 130) | DUL 130 | gloss withheld |
-| Phoenician | ʔšrt (T, 36) | T 36 | gloss withheld |
+| Akkadian | ašratu (CAD A/2 454) | CAD A/2 454 | gloss withheld |
+| Ugaritic | aṯrt (DULAT 125) | DULAT 125 | gloss withheld |
+| Phoenician | ʔšrt (T 36) | T 36 | gloss withheld |
 | Hebrew | ʔăšērā (HALOT 99) | HALOT 99 | gloss withheld |
 | Epigraphic South Arabian | ʾṯrt (HALOT 99) | HALOT 99 |  |
 

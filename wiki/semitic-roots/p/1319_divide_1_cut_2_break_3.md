@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | fṣḥ 2,3 |  |  |
 | Hebrew | pṣḥ 3 |  |  |
 | Tigrinya | fṣḥ 3 |  |  |
-| Tigre | fənṣāḥat gaʾa (intr.), fənč̣əḥ bälä (LGz., 169) | LGz. 169 | gloss withheld |
+| Tigre | fənṣāḥat gaʾa (intr.), fənč̣əḥ bälä (LGz. 169) | LGz. 169 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

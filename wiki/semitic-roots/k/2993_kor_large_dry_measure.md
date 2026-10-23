@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | kur(r)u (HALOT 496) | HALOT 496 |  |
 | Syrian Aramaic | kūra (HALOT 496) | HALOT 496 |  |
 | Arabic | kurr (HALOT 496) | HALOT 496 |  |
-| Phoenician | kr (T, 148) | T 148 | gloss withheld |
-| Aramaic | kr (T, 148) | T 148 |  |
+| Phoenician | kr (T 148) | T 148 | gloss withheld |
+| Aramaic | kr (T 148) | T 148 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

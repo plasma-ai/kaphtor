@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | eqlu |  |  |
 | Geez | ḥaql |  |  |
 | Syrian Aramaic | ḥaql- |  |  |
-| Epigraphic South Arabian | Sab ḥql (SD, 69; Biella, 186) | SD 69; Biella 186 | gloss withheld |
-| Aramaic | ḥăqal (LGz., 240) | LGz. 240 |  |
-| Mandaic Aramaic | haqal (LGz., 240) | LGz. 240 |  |
+| Epigraphic South Arabian | Sab ḥql (SD 69; Biella 186; Sabaweb lemma 1554) | SD 69; Biella 186; Sabaweb lemma 1554 | gloss withheld |
+| Aramaic | ḥăqal (LGz. 240) | LGz. 240 |  |
+| Mandaic Aramaic | haqal (LGz. 240) | LGz. 240 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kisibirru (kusibirru, kissibirru, kisibarru) (CAD K, 420) | CAD K, 420 | gloss withheld |
+| Akkadian | kisibirru (kusibirru, kissibirru, kisibarru) (CAD K 420) | CAD K 420 | gloss withheld |
 | Syrian Aramaic | kūsbartā 'coriander' (Payne Smith 210) | Payne Smith 210 |  |
 | Amorite | kisibir(r)atum (Gelb AS 21, 23) | Gelb AS 21 23 |  |
 

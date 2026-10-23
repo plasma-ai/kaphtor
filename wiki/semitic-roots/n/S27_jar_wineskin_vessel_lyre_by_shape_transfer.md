@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nablu B, NA, reading uncertain (CAD N1, 27) | CAD N1, 27 | gloss withheld |
-| Ugaritic | nbl (?) (DULAT, 609) | DULAT 609 | gloss withheld |
-| Phoenician | nbl; nbl (T, 209) | Krahmalkov PPOD 316; KAI 137: four metal vessels for sanctuaries, including cups/goblets, delivered to priests; T 209 | gloss withheld |
+| Akkadian | nablu B, NA, reading uncertain (CAD N/1 27) | CAD N/1 27 | gloss withheld |
+| Ugaritic | nbl (?) (DULAT 609) | DULAT 609 | gloss withheld |
+| Punic | nbl (Krahmalkov 324); nbl nskt (T 209) | Krahmalkov 324; T 209 | gloss withheld |
 | Hebrew | nēbel (HALOT 664; 1 Sam 10:3, Isa 30:14) | HALOT 664 | gloss withheld |
 | Syrian Aramaic | nbl, nʾbl (HALOT 664) | HALOT 664 |  |
 | Geez | nēbāl, nēbēl (HALOT 664) | HALOT 664 |  |
@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Distinct from 915 \*nVbVl- 'treat with disdain'.
+Distinct from 915 \*nVbVl- 'treat with disdain'. Punic nbl is attested only in Neo-Punic KAI 137.5/7 (Bir Bou-Rekba), metal cups made for the sanctuaries and delivered to the priests (Krahmalkov 324; T 209).
 
 <!-- END kaphtor:record -->

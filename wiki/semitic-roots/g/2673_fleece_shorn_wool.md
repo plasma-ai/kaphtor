@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | gazāzu (CAD G, 59); gizz- | CAD G, 59 | gloss withheld |
-| Ugaritic | gzz (DULAT, 311); gzz (LGz., 212) | DULAT 311; LGz. 212 | gloss withheld |
+| Akkadian | gazāzu (CAD G 59); gizz- | CAD G 59 | gloss withheld |
+| Ugaritic | gzz (DULAT 311); gzz (LGz. 212) | DULAT 311; LGz. 212 | gloss withheld |
 | Hebrew | gēz (HALOT 185); gizzā | HALOT 185 | gloss withheld |
 | Arabic | ǯzz 'to cut hair/fur, hair, wool, etc.; to shear (sheep)' BK 1 285 | BK 1 285 |  |
 | Mandaic Aramaic | gyztʔ |  | gloss withheld |
-| Syrian Aramaic | gezzā 'shearing', gezzǝtā 'vellus' fleece, shorn wool \[Brock 111\] | Brock 111 |  |
+| Syrian Aramaic | gezzā 'shearing', gezzǝtā 'fleece, shorn wool' \[Brock 111\] | Brock 111 |  |
 | Amorite | gzz?: gaziz(ān)um, gizzum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
-| Punic | \*gz (T, 63) | T 63 | gloss withheld |
+| Punic | \*gz (T 63) | T 63 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

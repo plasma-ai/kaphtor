@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʔrg |  |  |
-| Punic | ʾrg; ʾrg (T, 29) | T 29 | gloss withheld |
+| Punic | ʾrg; ʾrg (T 29) | T 29 | gloss withheld |
 | Syrian Aramaic | rgātā 'wallet; fodder-bag; plaited basket' (Payne Smith 528) | Payne Smith 528 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

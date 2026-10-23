@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṣapan 'hide' | Anderson–Moser 2024 root ẓpn |  |
 | Ugaritic | ẓpn 'hide' | Anderson–Moser 2024 root ẓpn |  |
 | Aramaic | hṣpn (HALOT 1049) | HALOT 1049 | gloss withheld |
-| Geez | ṣafana, ʾaṣfana (LGz., 548) | LGz. 548 | gloss withheld |
-| Tigrinya | č̣äffänä (LGz., 548) | LGz. 548 | gloss withheld |
-| Amharic | č̣äffänä, ṭäffänä (LGz., 548) | LGz. 548 | gloss withheld |
+| Geez | ṣafana, ʾaṣfana (LGz. 548) | LGz. 548 | gloss withheld |
+| Tigrinya | č̣äffänä (LGz. 548) | LGz. 548 | gloss withheld |
+| Amharic | č̣äffänä, ṭäffänä (LGz. 548) | LGz. 548 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

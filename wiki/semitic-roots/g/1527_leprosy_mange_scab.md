@@ -39,11 +39,11 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | NSYR gerba \[MP 34\] | MP 34 | gloss withheld |
 | Jibbali | gɛ́rb \[JJ 78\] | JJ 78 | gloss withheld |
 | Hebrew | gārāb (HALOT 201) | HALOT 201 | gloss withheld |
-| Judaic Aramaic | gārāb (garbā) \[Ja 264\]; grb \[Sok 135\] | Ja 264; Sok 135 | gloss withheld |
+| Judaic Aramaic | gārāb (garbā) \[Ja 264\]; grb \[DJPA 135a apud CAL\] | Ja 264; DJPA 135a; CAL | gloss withheld |
 | Syrian Aramaic | garbā 'leprosy; scabies' \[Brock 130\] | Brock 130 |  |
 | Harsusi | garb \[JH 41\] | JH 41 | gloss withheld |
 | Amharic | gʷärräbä, gʷärba gʷärba alä \[K 1934\] | K 1934 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic grb (Al-Jallad–Jaworska, 73) | Al-Jallad–Jaworska 73 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic grb (Al-Jallad–Jaworska 73) | Al-Jallad–Jaworska 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

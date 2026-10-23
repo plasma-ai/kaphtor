@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | šiābu 'be(come)-old' | Anderson–Moser 2024 root śʾb |  |
 | Aramaic | SʾB (Qumran 246 apud CAL) | CAL | gloss withheld |
 | Geez | śeʾba 'soil' | Anderson–Moser 2024 root śʾb |  |
-| Syrian Aramaic | sayyeḇ (LGz., 524) | LGz. 524 | gloss withheld |
-| Mandaic Aramaic | sub (LGz., 524) | LGz. 524 | gloss withheld |
+| Syrian Aramaic | sayyeḇ (LGz. 524) | LGz. 524 | gloss withheld |
+| Mandaic Aramaic | sub (LGz. 524) | LGz. 524 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

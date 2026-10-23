@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Eblaitic | ra-ba-gu-um /rapāḳu(m)/ (VE 248, Kogan–Krebernik 2021b: 696 apud SEDonline 2046) | VE 248, Kogan–Krebernik 2021b: 696; SEDonline 2046 | gloss withheld |
+| Eblaitic | ra-ba-gu-um /rapāḳu(m)/ (VE 248, Kogan–Krebernik 2021b: 696 apud SEDonline 2046; Krebernik 1983, 11) | VE 248, Kogan–Krebernik 2021b: 696; SEDonline 2046; Krebernik 1983, 11 | gloss withheld |
 | Hebrew | rpḳ (HALOT 1279 apud SEDonline 2046) | HALOT 1279; SEDonline 2046 | gloss withheld |
 | Arabic | rfq (BK 1 899, Lane 1125 apud SEDonline 2046) | BK 1 899, Lane 1125; SEDonline 2046 | gloss withheld |
 | Geez | rafaḳa (CDG 463 apud SEDonline 2046) | CDG 463; SEDonline 2046 | gloss withheld |

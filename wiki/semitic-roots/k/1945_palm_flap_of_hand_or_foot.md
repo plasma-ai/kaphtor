@@ -36,12 +36,12 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | kǝf do. \[JH 67\] | JH 67 |  |
 | Canaanite | EG SYLL ka=pa /\*kappa/ \[Hoch 318\] | Hoch 318 | gloss withheld |
 | Mandaic Aramaic | kapa \[DM 200\] | DM 200 | gloss withheld |
-| Ugaritic | kp \[DLU 221\] | DLU 221 | gloss withheld |
+| Ugaritic | kp \[DULAT 447\] | DULAT 447 | gloss withheld |
 | Geez | (?) kāf \[LGz 276\]. | LGz 276 | gloss withheld |
 | Modern Aramaic | MAL kaffa 'palm of the hand' \[Berg 49: "Aram. arab."\] | Berg 49: "Aram. arab." |  |
 | Jibbali | kɛf do. \[JJ 127\] | JJ 127 |  |
 | Hebrew | kap (HALOT 491), \*ʔäkäp in ʔakp-ī (HALOT 47) | HALOT 491; HALOT 47 | gloss withheld |
-| Judaic Aramaic | kap (kappā) \[Ja 657\]; \[Sok 266\] | Ja 657; Sok 266 | gloss withheld |
+| Judaic Aramaic | kap (kappā) \[Ja 657\]; \[DJPA 266b apud CAL\] | Ja 657; DJPA 266b; CAL | gloss withheld |
 | Syrian Aramaic | kappā 'palm (of the hand)' \[Brock 339\] | Brock 339 |  |
 | Aramaic | DRA OFF kp \[HJ 528\] | HJ 528 | gloss withheld |
 

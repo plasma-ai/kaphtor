@@ -30,19 +30,19 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḏī / ḏū 'possessor of, he who' (Lane 986) (m.sg) | Lane 986 |  |
-| Epigraphic South Arabian | ḏy (SD, 37; ASA, Hadramitic, Minaic, Qatabanic, Sabaic) | SD 37 |  |
+| Epigraphic South Arabian | ḏy (SD 37; ASA, Hadramitic, Minaic, Qatabanic, Sabaic) | SD 37 |  |
 | Ugaritic | d, ḏ (HALOT 1365) | HALOT 1365 |  |
 | Biblical Aramaic | dī (HALOT 1365) | HALOT 1365 |  |
-| Mehri | ḏe, de (LGz., 629) | LGz. 629 |  |
-| Soqotri | di (LGz., 629) | LGz. 629 |  |
-| Hebrew | zū, zẹ (LGz., 629) | LGz. 629 |  |
-| Aramaic | d, dī, zī (LGz., 629) | LGz. 629 |  |
-| Tigrinya | zə (LGz., 629) | LGz. 629 |  |
-| Harari | zi (LGz., 629) | LGz. 629 |  |
-| Phoenician | z (T, 89) | T 89 | gloss withheld |
-| Amorite | zu (Huffmon APNM, 186; HALOT 264) | Huffmon APNM 186; HALOT 264 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḏ (Al-Jallad–Jaworska, 65) | Al-Jallad–Jaworska 65 | gloss withheld |
-| Modern Arabic | Yem. ḏi (Biella, 89) | Biella 89 |  |
+| Mehri | ḏe, de (LGz. 629) | LGz. 629 |  |
+| Soqotri | di (LGz. 629) | LGz. 629 |  |
+| Hebrew | zū, zẹ (LGz. 629) | LGz. 629 |  |
+| Aramaic | d, dī, zī (LGz. 629) | LGz. 629 |  |
+| Tigrinya | zə (LGz. 629) | LGz. 629 |  |
+| Harari | zi (LGz. 629) | LGz. 629 |  |
+| Phoenician | z (T 89) | T 89 | gloss withheld |
+| Amorite | zu (Huffmon APNM 186; HALOT 264) | Huffmon APNM 186; HALOT 264 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḏ (Al-Jallad–Jaworska 65) | Al-Jallad–Jaworska 65 | gloss withheld |
+| Modern Arabic | Yem. ḏi (Biella 89) | Biella 89 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

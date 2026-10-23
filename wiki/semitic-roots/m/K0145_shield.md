@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | mgn 'shield' | Anderson–Moser 2024 root mgn |  |
-| Phoenician | mgn (T, 165) | T 165 | gloss withheld |
+| Phoenician | mgn (T 165) | T 165 | gloss withheld |
 | Arabic | miǧann 'shield' (Lane 464) | Lane 464 |  |
 | Syrian Aramaic | mgen 'a short buckler, round shield' (Payne Smith 251) | Payne Smith 251 |  |
-| Ugaritic | mgn (T, 165) | T 165 |  |
-| Judaic Aramaic | meginaʾ (T, 165) | T 165 |  |
+| Ugaritic | mgn (T 165) | T 165 |  |
+| Judaic Aramaic | meginaʾ (T 165) | T 165 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

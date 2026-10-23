@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | mutu OAkk (CAD M2, 313) | CAD M2, 313 | gloss withheld |
+| Akkadian | mutu OAkk (CAD M/2 313) | CAD M/2 313 | gloss withheld |
 | Tigre | mit |  | gloss withheld |
 | Ugaritic | mt |  | gloss withheld |
 | Geez | mǝt LGz 371 | LGz 371 | gloss withheld |

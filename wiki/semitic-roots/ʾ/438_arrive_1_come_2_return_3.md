@@ -38,8 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ʔtw 2 |  |  |
 | Aramaic | ʔty 2 (DNWSI 133 apud CAL) | DNWSI 133; CAL |  |
 | Amorite | ʾtj?: ʾatā (Gelb AS 21, 14) | Gelb AS 21 14 | gloss withheld |
-| Punic | ʾtʾ (T, 39) | T 39 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾtw (Al-Jallad–Jaworska, 49) | Al-Jallad–Jaworska 49 | gloss withheld |
+| Punic | ʾtʾ (T 39) | T 39 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾtw (Al-Jallad–Jaworska 49) | Al-Jallad–Jaworska 49 | gloss withheld |
 | Argobba | ˀatt (Wetter 2010:77 apud SEDonline 326) | Wetter 2010:77; SEDonline 326 | gloss withheld |
 | Tigre | ˀatā (WTS 370 apud SEDonline 326) | WTS 370; SEDonline 326 | gloss withheld |
 | Tigrinya | ˀatäwä (TED 1469 apud SEDonline 326) | TED 1469; SEDonline 326 | gloss withheld |

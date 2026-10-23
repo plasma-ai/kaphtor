@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | akukūtu (also; CAD A1, 285) | CAD A1, 285 | gloss withheld |
-| Geez | wākaya, etc. (LGz., 612) | LGz. 612 | gloss withheld |
+| Akkadian | akukūtu (also; CAD A/1 285) | CAD A/1 285 | gloss withheld |
+| Geez | wākaya, etc. (LGz. 612) | LGz. 612 | gloss withheld |
 | Gurage | wäḵe | LGur 650; ibid. 646 | gloss withheld |
-| Soqotri | ʾughe (LGz., 612) | LGz. 612 | gloss withheld |
+| Soqotri | ʾughe (LGz. 612) | LGz. 612 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

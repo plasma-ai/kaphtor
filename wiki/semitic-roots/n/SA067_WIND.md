@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nwd (SD, 101; Biella, 297) | SD 101; Biella 297 | gloss withheld |
-| Arabic | Dat nawd, ModYem nowd id (RycMus88/201,203; Biella, 297). | Biella 297 |  |
+| Epigraphic South Arabian | Sab nwd (SD 101; Biella 297) | SD 101; Biella 297 | gloss withheld |
+| Arabic | Dat nawd, ModYem nowd id (Ryckmans 1975, 201, 203 apud Biella 297). | Ryckmans 1975, 201, 203; Biella 297 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

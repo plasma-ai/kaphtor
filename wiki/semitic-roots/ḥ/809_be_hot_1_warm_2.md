@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ḤMM (Aramaic Root Atlas; DNWSI 381 apud CAL) | Aramaic Root Atlas; DNWSI 381; CAL | gloss withheld |
 | Phoenician | ḥmm (HALOT 325) | HALOT 325 |  |
 | Judaic Aramaic | ḥūmᵉtā (HALOT 326) | HALOT 326 | gloss withheld |
-| Eblaitic | a-PI-mu ʾà-mu-tum, ma-wu ʾà-mu-tum (Kogan 2011, 195) | Kogan 2011, 195 |  |
+| Eblaitic | a-PI-mu ʾà-mu-tum, ma-wu ʾà-mu-tum (Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30) | Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ɣayṯ- 2 (Lane 2314) | Lane 2314 |  |
 | Soqotri | ʕeto 1 |  |  |
 | Hebrew | ʕāšān 1 |  |  |
-| Pre-Islamic North Arabian | Safaitic ġṯt 2 (Al-Jallad–Jaworska, 75) | Al-Jallad–Jaworska 75 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ġṯt 2 (Al-Jallad–Jaworska 75) | Al-Jallad–Jaworska 75 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

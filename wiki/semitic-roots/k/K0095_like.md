@@ -37,11 +37,11 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | kama (HALOT 481) | HALOT 481 |  |
 | Epigraphic South Arabian | km (HALOT 481) | HALOT 481 |  |
 | Tigre | kem (HALOT 481) | HALOT 481 |  |
-| Phoenician | km (T, 143) | T 143 | gloss withheld |
-| Hebrew | kəmō (LGz., 285) | LGz. 285 |  |
-| Tigrinya | käm (LGz., 285) | LGz. 285 | gloss withheld |
-| Argobba | kämäy (lit.) (LGz., 285) | LGz. 285 | gloss withheld |
-| Gurage | (yä)--käma, (yä)--kom (LGz., 285) | LGz. 285 |  |
+| Phoenician | km (T 143) | T 143 | gloss withheld |
+| Hebrew | kəmō (LGz. 285) | LGz. 285 |  |
+| Tigrinya | käm (LGz. 285) | LGz. 285 | gloss withheld |
+| Argobba | kämäy (lit.) (LGz. 285) | LGz. 285 | gloss withheld |
+| Gurage | (yä)--käma, (yä)--kom (LGz. 285) | LGz. 285 |  |
 | East Ethiopic | Zwy. hum (EDG 342 apud SEDonline 1389) | EDG 342; SEDonline 1389 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

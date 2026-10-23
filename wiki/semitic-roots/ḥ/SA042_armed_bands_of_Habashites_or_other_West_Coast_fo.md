@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ḥzb (SD, 75; Biella, 170) | SD 75; Biella 170 | gloss withheld |
-| Arabic | Ar ḥizb, p ʾaḥzāb (Biella, 170) | Biella 170 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥzb (SD 75; Biella 170; Sabaweb lemma 1518) | SD 75; Biella 170; Sabaweb lemma 1518 | gloss withheld |
+| Arabic | Ar ḥizb, p ʾaḥzāb (Biella 170) | Biella 170 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

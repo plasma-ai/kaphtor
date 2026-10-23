@@ -39,12 +39,12 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | bälla 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015, ch. 7 §2.4 no. 23 |  |
 | Aramaic | (Mand) bla 1 (Drower/Macuch 65a apud CAL); BLʿ (Aramaic Root Atlas; DNWSI 167 apud CAL) | Macuch 65a; CAL; Aramaic Root Atlas; DNWSI 167; CAL | gloss withheld |
 | Tigrinya | bälʕe 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015, ch. 7 §2.4 no. 23 |  |
-| Ugaritic | blʿ (CUC; DULAT, 219) (Kogan 2015, ch. 2 §4.2 no. 11) | CUC; DULAT 219; Kogan 2015, ch. 2 §4.2 no. 11 | gloss withheld |
-| Jibbali | belaʿ (LGz., 94) | LGz. 94 |  |
-| Syrian Aramaic | bəlaʿ (LGz., 94; Payne Smith 47) | LGz. 94; Payne Smith 47 |  |
-| Gafat | bällä (LGz., 94) | LGz. 94 |  |
-| Harari | bälaʾa (LGz., 94) | LGz. 94 |  |
-| Gurage | bäla (LGz., 94) | LGz. 94 |  |
+| Ugaritic | blʿ (CUC; DULAT 219) (Kogan 2015, ch. 2 §4.2 no. 11) | CUC; DULAT 219; Kogan 2015, ch. 2 §4.2 no. 11 | gloss withheld |
+| Jibbali | belaʿ (LGz. 94) | LGz. 94 |  |
+| Syrian Aramaic | bəlaʿ (LGz. 94; Payne Smith 47) | LGz. 94; Payne Smith 47 |  |
+| Gafat | bällä (LGz. 94) | LGz. 94 |  |
+| Harari | bälaʾa (LGz. 94) | LGz. 94 |  |
+| Gurage | bäla (LGz. 94) | LGz. 94 |  |
 | Argobba | bälla, bälläˁa, bällaˁ, wällaˁ (Leslau 1997:195, AAD 207 apud SEDonline 802) | Leslau 1997:195, AAD 207; SEDonline 802 | gloss withheld |
 | East Ethiopic | Sel. bäla, Wol. Zwy. bälä (EDG 138 apud SEDonline 802) | EDG 138; SEDonline 802 | gloss withheld |
 

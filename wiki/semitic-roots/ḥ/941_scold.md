@@ -1,17 +1,14 @@
 ---
-name: wiki/semitic-roots/h/941_scold
-title: "*hVsVd-: 'scold'"
-desc: "Proto-Semitic *hVsVd-, 'scold': reflexes in 1 language(s)."
+title: "*ḥVsVd-: 'scold'"
+desc: "Proto-Semitic *ḥVsVd-, 'scold': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "941"
-created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
 ---
 
-# *hVsVd-: 'scold'
+# *ḥVsVd-: 'scold'
 
-[[wiki/semitic-roots/h/_index|..]]
+[[wiki/semitic-roots/ḥ/_index|..]]
 
 ***
 
@@ -21,10 +18,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*hVsVd- |
+| Reconstruction | \*ḥVsVd- |
 | Meaning | 'scold' |
-| Basis | SED |
-| SED | SEDonline semet 962 |
+| Basis | project |
 
 ## Reflexes
 

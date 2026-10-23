@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED II, additions to SED I (unnumbered): Common Semitic. A distant tie to the verb \*kpl 'divide, double' is possible (SED II 332); see S96 \*kpl 'double'. Akk. kabbartu (Adamson's kabbaltu) is another word.
+SED II, additions to SED I (unnumbered): Common Semitic. A distant tie to the verb \*kpl 'divide, double' is possible (SED II 332); see S96 \*kpl 'double'. Adamson 1993 takes kappaltu as a synonym of kabbartu ('ankle joint' in his reading) and writes it kabbaltu, a transcription SED rejects on etymological grounds (Adamson 1993, 158–159 apud SED II 332).
 
 <!-- END kaphtor:record -->

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ḫabātu A (CAD Ḫ, 9) | CAD Ḫ, 9 | gloss withheld |
-| Ugaritic | ḫbt (CUC; DULAT, 380) | CUC; DULAT 380 | gloss withheld |
+| Ugaritic | ḫbt (CUC; DULAT 380) | CUC; DULAT 380 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

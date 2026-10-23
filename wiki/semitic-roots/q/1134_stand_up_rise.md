@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1134_stand_up_rise
 title: "*ḳVwVm-: 'stand (up), rise'"
-desc: "Proto-Semitic *ḳVwVm-, 'stand (up), rise': reflexes in 17 language(s)."
+desc: "Proto-Semitic *ḳVwVm-, 'stand (up), rise': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1134"
@@ -31,9 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳwm \[-u-\] |  |  |
-| Akkadian | ḳamām- AHw (LGz) | LGz | gloss withheld |
 | Mandaic Aramaic | ḳwm (Drower/Macuch 407a apud CAL) | Macuch 407a; CAL |  |
-| Ugaritic | ḳm DLU 367 | DLU 367 | gloss withheld |
+| Ugaritic | ḳm (DULAT 692) | DULAT 692 | gloss withheld |
 | Geez | ḳwm |  | gloss withheld |
 | Gurage | Sod ḳomäm, Cha ḳʷämäm |  |  |
 | Biblical Aramaic | ḳwm (CAL s.v. qwm) | CAL s.v. qwm |  |
@@ -46,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | ḳoma, oma |  |  |
 | Tigrinya | ḳomä |  |  |
 | Amorite | qwm: jaqūm, qāma, qāmum, jāqīm (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
-| Phoenician | qwm (B, 404) | B 404 | gloss withheld |
+| Phoenician | qwm (B 404) | B 404 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

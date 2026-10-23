@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Ulūlu (CAD U/W, 90) | CAD U/W, 90 | gloss withheld |
+| Akkadian | Ulūlu (CAD U/W 90) | CAD U/W 90 | gloss withheld |
 | Hebrew | ʔĔlūl (HALOT 54) | HALOT 54 | gloss withheld |
 | Arabic | ʾailūl (HALOT 54) | HALOT 54 |  |
 

@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | šyr; šr /šīru/ (UVST, 181) | UVST 181 | gloss withheld |
+| Ugaritic | šyr; šr /šīru/ (UVST 181) | UVST 181 | gloss withheld |
 | Hebrew | šyr |  |  |
 | Aramaic | šyr (CAL s.v. šyr) | CAL s.v. šyr |  |
 | Akkadian | šēru(m) (HALOT 1481) | HALOT 1481 | gloss withheld |
-| Phoenician | šr: šrm (T, 332) | T 332 | gloss withheld |
+| Phoenician | šr: šrm (T 332) | T 332 | gloss withheld |
 | Syrian Aramaic | šayar 'to sing' (Payne Smith 575) | Payne Smith 575 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

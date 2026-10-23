@@ -35,10 +35,10 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab. ṣyw (in: ys1tṣyn) \[SD 147\] | SD 147 | gloss withheld |
 | Judaic Aramaic | ṣā(ʔ)tā 'filth, turpitude' \[Ja 1257\] | Ja 1257 |  |
 | Syrian Aramaic | ṣyʔ 'he turned out impure' \[Brock 619\] | Brock 619 |  |
-| Jibbali | ḍeʾ (LGz., 567) | LGz. 567 | gloss withheld |
-| Tigre | ṣäyʾa, ṣäyʿa (LGz., 567) | LGz. 567 | gloss withheld |
-| Tigrinya | č̣äʾe, ṣäyʾe (LGz., 567) | LGz. 567 | gloss withheld |
-| Gurage | č̣əyä (LGz., 567); Ezha č̣əyyä, Enn. č̣iyǟ, Gog. č̣iyä (EDG 192 apud SEDonline 991) | LGz. 567; EDG 192; SEDonline 991 | gloss withheld |
+| Jibbali | ḍeʾ (LGz. 567) | LGz. 567 | gloss withheld |
+| Tigre | ṣäyʾa, ṣäyʿa (LGz. 567) | LGz. 567 | gloss withheld |
+| Tigrinya | č̣äʾe, ṣäyʾe (LGz. 567) | LGz. 567 | gloss withheld |
+| Gurage | č̣əyä (LGz. 567); Ezha č̣əyyä, Enn. č̣iyǟ, Gog. č̣iyä (EDG 192 apud SEDonline 991) | LGz. 567; EDG 192; SEDonline 991 | gloss withheld |
 | Argobba | č̣eˀ (Wetter 2010:78 apud SEDonline 991) | Wetter 2010:78; SEDonline 991 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

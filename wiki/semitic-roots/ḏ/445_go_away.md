@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḏhb \[-a-\] (Lane 982) | Lane 982 |  |
-| Pre-Islamic North Arabian | Safaitic ḏhb (Al-Jallad–Jaworska, 66) | Al-Jallad–Jaworska 66 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḏhb (Al-Jallad–Jaworska 66) | Al-Jallad–Jaworska 66 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

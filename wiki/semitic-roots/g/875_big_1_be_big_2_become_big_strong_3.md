@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǯādil- 1, ǯdl 3 |  |  |
 | Ugaritic | gdl 1 |  |  |
-| Phoenician | gdl (Krahmalkov, 137) | Krahmalkov 137 | gloss withheld |
+| Phoenician | gdl (Krahmalkov 137) | Krahmalkov 137 | gloss withheld |
 | Hebrew | gdl 2, gādōl 1 |  |  |
 | Aramaic | gǝdal 2 |  |  |
-| Soqotri | godil (LGz., 182) | LGz. 182 |  |
+| Soqotri | godil (LGz. 182) | LGz. 182 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

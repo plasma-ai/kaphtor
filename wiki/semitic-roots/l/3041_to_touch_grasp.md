@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | labaka (LGz., 305) | LGz. 305 | gloss withheld |
-| Arabic | labaka (LGz., 305) | LGz. 305 |  |
-| Tigre | läbbäka (LGz., 305) | LGz. 305 |  |
-| Syrian Aramaic | lbak (Payne Smith 234); ləḇaḵ (LGz., 305) | Payne Smith 234; LGz. 305 | gloss withheld |
+| Geez | labaka (LGz. 305) | LGz. 305 | gloss withheld |
+| Arabic | labaka (LGz. 305) | LGz. 305 |  |
+| Tigre | läbbäka (LGz. 305) | LGz. 305 |  |
+| Syrian Aramaic | lbak (Payne Smith 234); ləḇaḵ (LGz. 305) | Payne Smith 234; LGz. 305 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

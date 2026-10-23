@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šīru (šēru, širru) OA, OB on \[CAD š3 113\], \[AHw 1248\] | CAD š3 113; AHw 1248 | gloss withheld |
-| Ugaritic | šiʔr \[Aist 299\], /šiʔru/ (UVST, 180) | Aist 299; UVST 180 | gloss withheld |
+| Ugaritic | šiʔr \[Aist 299\], /šiʔru/ (UVST 180) | Aist 299; UVST 180 | gloss withheld |
 | Phoenician | šʔr \[T 311\] | T 311 | gloss withheld |
 | Hebrew | šǝʔēr (HALOT 1378, 1379) | HALOT 1378, 1379 | gloss withheld |
 | Punic | šʾr (HALOT 1378) | HALOT 1378 |  |

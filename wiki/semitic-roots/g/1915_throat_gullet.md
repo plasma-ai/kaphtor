@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | (?) si(g)gaggurītu, singanga/urītu OB, SB \[AHw 1039\]. | AHw 1039 | gloss withheld |
 | Mandaic Aramaic | (pl.) gangarata, gangariata \[DM 77\]. | DM 77 | gloss withheld |
-| Ugaritic | grgr \[DLU 151\] | DLU 151 | gloss withheld |
+| Ugaritic | grgr (?) \[DULAT 304\] | DULAT 304 | gloss withheld |
 | Gurage | CHA EŽA MUH MSQ SOD GOG gʷärärä \[LGur 295\] | LGur 295 | gloss withheld |
 | Modern Aramaic | ZKH gürgǝrta \[R Zakho 106\] MMND goengoerāṯa \[M MND 523, 504\] |  | gloss withheld |
 | Hebrew | gargǝrōt (HALOT 201, 202); PB gargärät \[Ja 265\] | HALOT 201, 202; Ja 265 | gloss withheld |
@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | gaggartā 'throat' \[Brock 103\] | Brock 103 |  |
 | Gafat | gurarä do. \[LGur 295\] | LGur 295 |  |
 | Tigrinya | gʷǝrgʷǝrit 'crop' \[Bass 870\]; gʷäräro 'throat, trachea' \[Bass 869\] | Bass 870; Bass 869 |  |
-| Geez | gʷərʿe, gurʿe (LGz., 200) | LGz. 200 | gloss withheld |
-| Tigre | gərəʿ (LGz., 201) | LGz. 201 | gloss withheld |
+| Geez | gʷərʿe, gurʿe (LGz. 200) | LGz. 200 | gloss withheld |
+| Tigre | gərəʿ (LGz. 201) | LGz. 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

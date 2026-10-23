@@ -37,10 +37,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | CPArm. šṭḥ (HALOT 1474; CAL s.v. šṭḥ) | HALOT 1474; CAL s.v. šṭḥ | gloss withheld |
 | Mandaic Aramaic | ŠṬA (HALOT 1474) | HALOT 1474 | gloss withheld |
 | Arabic | saṭaḥa (HALOT 1474) | HALOT 1474 |  |
-| Tigre | säṭḥa (LGz., 518) | LGz. 518 |  |
-| Tigrinya | säṭḥe (LGz., 518) | LGz. 518 |  |
-| Amharic | (a)säṭa (LGz., 518) | LGz. 518 |  |
-| Gurage | (a)säṭa (LGz., 518) | LGz. 518 |  |
+| Tigre | säṭḥa (LGz. 518) | LGz. 518 |  |
+| Tigrinya | säṭḥe (LGz. 518) | LGz. 518 |  |
+| Amharic | (a)säṭa (LGz. 518) | LGz. 518 |  |
+| Gurage | (a)säṭa (LGz. 518) | LGz. 518 |  |
 | Amorite | ś?ṭ?ḥ?: jaśṭiḥ, śāṭiḥum, śaṭūḥum (Gelb AS 21, 33) | Gelb AS 21 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

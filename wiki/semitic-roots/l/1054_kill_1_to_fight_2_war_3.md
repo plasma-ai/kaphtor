@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | lḥm \[-u-\] 1 BK 2 977, malḥamat- 3, laḥmat- 'fierce hand-to-hand combat' BK 2 978 | BK 2 977; BK 2 978 |  |
 | Canaanite | Moab lḥm |  | gloss withheld |
 | Mandaic Aramaic | šlhm DM 467 | DM 467 | gloss withheld |
-| Phoenician | lḥm (Krahmalkov, 254) | Krahmalkov 254 | gloss withheld |
+| Phoenician | lḥm (Krahmalkov 254) | Krahmalkov 254 | gloss withheld |
 | Hebrew | lḥm 2, milḥāmā 3 (HALOT 526, 589) | HALOT 526, 589 |  |
-| Ugaritic | lḥm (DUL 497 apud SEDonline 1572); mlḥmt (DUL 548 apud SEDonline 1572) | DUL 497; SEDonline 1572; DUL 548; SEDonline 1572 | gloss withheld |
+| Ugaritic | lḥm (DULAT 492); mlḥmt (DULAT 542) | DULAT 492; DULAT 542 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

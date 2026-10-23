@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | riǧl- 'foot' \[BK 1 830\], raǯul- 'man' | BK 1 830 |  |
-| Ugaritic | /riglu/ (UVST, 176) (unattested alphabetically) | UVST 176 | gloss withheld |
+| Ugaritic | /riglu/ (UVST 176) (unattested alphabetically) | UVST 176 | gloss withheld |
 | Biblical Aramaic | \*rǝgal or \*rǝgēl (only raglayin, du.) 'foot' (BDB 1112) | BDB 1112 |  |
 | Modern Aramaic | MAL reɣra \[Berg 75\] TUR raɣlo \[R Ṭūrōyo 118\] MLH \*reɣlo (c. suff. reɣlav) \[J Mlah 188\] | Berg 75; J Mlah 188 | gloss withheld |
 | Hebrew | rägäl (HALOT 1184); raglī (HALOT 1186) | HALOT 1184; HALOT 1186 | gloss withheld |
@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | SML lgr, OFF rgl, lgl, ngr, PLM rgl \[HJ 1060\]; SamP riggālāʔi; Dem. lgr \[HJ 1259\] | HJ 1060; HJ 1259 | gloss withheld |
 | Gurage | əngər (OLA80 §43.5) | OLA80 §43.5 | gloss withheld |
 | Mandaic Aramaic | ligra \[DM 235\] | DM 235 | gloss withheld |
-| Punic | mrgl (T, 198) | T 198 | gloss withheld |
+| Punic | mrgl (T 198) | T 198 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

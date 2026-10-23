@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | gady-at- 1, gudd- 2 |  |  |
 | Mandaic Aramaic | gada, gida 1 |  |  |
 | Hebrew | gādā 1 (HSED 869) | HSED 869 |  |
-| Pre-Islamic North Arabian | Safaitic gd (Al-Jallad–Jaworska, 71) | Al-Jallad–Jaworska 71 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic gd (Al-Jallad–Jaworska 71) | Al-Jallad–Jaworska 71 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

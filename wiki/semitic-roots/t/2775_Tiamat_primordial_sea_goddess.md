@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tiāmtum (CAD T, 150) | CAD T, 150 | gloss withheld |
+| Akkadian | tiāmtum (CAD T 150) | CAD T 150 | gloss withheld |
 | Hebrew | tehôm (HALOT 1690) | HALOT 1690 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

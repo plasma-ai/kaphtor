@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | bähamä \[LH 267\] | LH 267 | gloss withheld |
 | Geez | bǝhma \[LGz 89\] | LGz 89 | gloss withheld |
 | Tigrinya | bähamä 'to become mute' \[Bass 303\]. | Bass 303 |  |
-| Hebrew | bəhemā (LGz., 89) | LGz. 89 | gloss withheld |
+| Hebrew | bəhemā (LGz. 89) | LGz. 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

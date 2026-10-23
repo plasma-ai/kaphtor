@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | \*ḥōr (HALOT 348) | HALOT 348 |  |
 | Judaic Aramaic | bar ḥōrāyā; ḥērūtā (HALOT 348) | HALOT 348 | gloss withheld |
 | Aramaic | ḥrʾ (HALOT 348) | HALOT 348 |  |
-| Epigraphic South Arabian | ḥr (HALOT 348) | HALOT 348 |  |
+| Epigraphic South Arabian | ḥr (HALOT 348; Sabaweb lemma 1613) | HALOT 348; Sabaweb lemma 1613 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

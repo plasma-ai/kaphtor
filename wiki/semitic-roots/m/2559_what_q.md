@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2559_what_q
 title: "*min: 'what?'"
-desc: "Proto-Semitic *min, 'what?': reflexes in 13 language(s)."
+desc: "Proto-Semitic *min, 'what?': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2559"
@@ -41,8 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | mǝn, mǝni |  |  |
 | Argobba | mǝn |  |  |
 | Tigrinya | mǝntay (mǝnǝw) |  | gloss withheld |
-| Amorite | ma-a (OLA80 §36.58) | OLA80 §36.58 | gloss withheld |
-| Ugaritic | mn (CUC; DULAT, 553) | CUC; DULAT 553 | gloss withheld |
+| Ugaritic | mn (CUC; DULAT 553) | CUC; DULAT 553 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

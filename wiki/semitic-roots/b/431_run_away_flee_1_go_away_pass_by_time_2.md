@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | brḥ \[-u-\] 2 |  |  |
-| Ugaritic | brḥ 1; \*/bariḥu/?, fem. /bariḥtu/ (UVST, 114) | UVST 114 | gloss withheld |
-| Phoenician | brḥ 1 (T, 55) | T 55 | gloss withheld |
+| Ugaritic | brḥ 1; \*/bariḥu/?, fem. /bariḥtu/ (UVST 114) | UVST 114 | gloss withheld |
+| Phoenician | brḥ 1 (T 55) | T 55 | gloss withheld |
 | Hebrew | brḥ 1 |  |  |
 | Syrian Aramaic | brḥ 1 |  |  |
 | Punic | brḥ 'depart' | Anderson–Moser 2024 root brḥ |  |
-| Pre-Islamic North Arabian | Safaitic brḥ (Al-Jallad–Jaworska, 62) | Al-Jallad–Jaworska 62 | gloss withheld |
-| Geez | barrəḥa (LGz., 104) | LGz. 104 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic brḥ (Al-Jallad–Jaworska 62) | Al-Jallad–Jaworska 62 | gloss withheld |
+| Geez | barrəḥa (LGz. 104) | LGz. 104 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab gbḏ, gbz (SD, 48; Biella, 64) | SD 48; Biella 64 | gloss withheld |
+| Epigraphic South Arabian | Sab gbḏ, gbz (SD 48; Biella 64); gbz misread for gbḏ (Sabaweb lemmas 2787, 2786) | SD 48; Biella 64; Sabaweb lemmas 2787, 2786 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

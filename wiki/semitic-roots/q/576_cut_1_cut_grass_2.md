@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | qṭṭ \[-u-\] 1 (Lane 2539) | Lane 2539 |  |
 | Geez | qʷṭṭ 2 |  |  |
 | Amharic | qʷṭṭ 1 |  |  |
-| Tigre | qärṭäṭa (LGz., 455) | LGz. 455 | gloss withheld |
-| Epigraphic South Arabian | Sab qṭṭ (Biella, 452) | Biella 452 | gloss withheld |
+| Tigre | qärṭäṭa (LGz. 455) | LGz. 455 | gloss withheld |
+| Epigraphic South Arabian | Sab qṭṭ (Biella 452; Sabaweb lemma 4818) | Biella 452; Sabaweb lemma 4818 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

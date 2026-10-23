@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫazama 'pierced' (Lane 733) | Lane 733 |  |
-| Aramaic | ḤZM 'slice' | Anderson–Moser 2024 root ḥḏm |  |
+| Aramaic | ḥzīm (CAL s.v. ḥzym) | CAL s.v. ḥzym | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

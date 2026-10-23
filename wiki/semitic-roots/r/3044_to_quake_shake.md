@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | rāʿaš (HALOT 1271) | HALOT 1271 | gloss withheld |
 | Arabic | raʿasa, raʿaša (HALOT 1271) | HALOT 1271 |  |
 | Epigraphic South Arabian | rʿš (HALOT 1271) | HALOT 1271 |  |
-| Punic | ieresan (Krahmalkov, 446); rʿš (T, 305) | Krahmalkov 446; T 305 | gloss withheld |
+| Punic | ieresan (Krahmalkov 446); rʿš (T 305) | Krahmalkov 446; T 305 | gloss withheld |
 | Syrian Aramaic | rʕaš (Payne Smith 547); rəʿāš (HALOT 1271) | Payne Smith 547; HALOT 1271 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

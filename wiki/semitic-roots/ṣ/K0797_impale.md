@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṣalaba 'crucified' | Anderson–Moser 2024 root ṣlb |  |
 | Aramaic | ṢLB (Aramaic Root Atlas; CAL s.v. ṣlb) | Aramaic Root Atlas; CAL s.v. ṣlb | gloss withheld |
 | Geez | ṣalaba 'crucify' (Dillmann 09150) | Dillmann 09150 |  |
-| Syrian Aramaic | ṣəlaḇ (LGz., 555; Payne Smith 478) | LGz. 555; Payne Smith 478 |  |
-| Pre-Islamic North Arabian | Safaitic ṣlb (Al-Jallad–Jaworska, 129) | Al-Jallad–Jaworska 129 | gloss withheld |
+| Syrian Aramaic | ṣəlaḇ (LGz. 555; Payne Smith 478) | LGz. 555; Payne Smith 478 |  |
+| Pre-Islamic North Arabian | Safaitic ṣlb (Al-Jallad–Jaworska 129) | Al-Jallad–Jaworska 129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

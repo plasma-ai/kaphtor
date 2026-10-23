@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥazaqa 'to be narrow, tight' (Lane 560) (semantic narrowing) | Lane 560 |  |
-| Akkadian | ? ešqu (CAD E, 367) | CAD E, 367 | gloss withheld |
+| Akkadian | ? ešqu (CAD E 367) | CAD E 367 | gloss withheld |
 | Amorite | ḥzq: jaḥzuq, ḥazaqum, ḥaziqum, ḥazuqa(ān) (Gelb AS 21, 20) | Gelb AS 21 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

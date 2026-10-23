@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/K0443_advise
-title: "*wVʿVṣ-: 'advise'"
-desc: "Proto-Semitic *wVʿVṣ-, 'advise': reflexes in 3 language(s)."
+title: "*wVʿVṯ̣-: 'advise'"
+desc: "Proto-Semitic *wVʿVṯ̣-, 'advise': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0443"
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*wVʿVṣ- |
+| Reconstruction | \*wVʿVṯ̣- |
 | Meaning | 'advise' |
 | Basis | project |
 
@@ -29,9 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | YʿṢ (DNWSI 464 apud CAL) | DNWSI 464; CAL | gloss withheld |
-| Hebrew | yaʿaṣ 'advise' | Anderson–Moser 2024 root wʿṣ |  |
+| Aramaic | YʿṢ (DNWSI 464 apud CAL); ʿWṢ (CAL s.v. ʿwṣ) | DNWSI 464; CAL; CAL s.v. ʿwṣ | gloss withheld |
+| Hebrew | yaʿaṣ; alternative form ʿwṣ (HALOT 421) | HALOT 421 | gloss withheld |
 | Arabic | waʿaẓa (HALOT 421) | HALOT 421 | gloss withheld |
+| Epigraphic South Arabian | ʿẓt (HALOT 421, 866; Sabaweb lemma 5344) | HALOT 421, 866; Sabaweb lemma 5344 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

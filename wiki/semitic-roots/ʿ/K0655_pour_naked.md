@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | arû 'vomit'; erû 'naked' | Anderson–Moser 2024 root ʿry |  |
 | Aramaic | ʿRY (CAL s.v. ʿry#2) | CAL s.v. ʿry#2 | gloss withheld |
 | Punic | ʿry 'empty' | Anderson–Moser 2024 root ʿry |  |
-| Ugaritic | ʿry (CUC; DULAT, 182) | CUC; DULAT 182 | gloss withheld |
+| Ugaritic | ʿry (CUC; DULAT 182) | CUC; DULAT 182 | gloss withheld |
 | Hebrew | ʿrh (HALOT 881) | HALOT 881 |  |
 | Phoenician | ʿry (HALOT 881) | HALOT 881 |  |
 | Syrian Aramaic | ʿaryat (HALOT 881) | HALOT 881 |  |

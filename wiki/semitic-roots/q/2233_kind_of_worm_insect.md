@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḳuḳyānē \[Ja. 1340\], ḳūḳā(ʔ)nē, ḳūḳānā \[Levy WTM IV 274\] | Ja. 1340; Levy WTM IV 274; AHw. 928 | gloss withheld |
 | Harari | ḳǝñḳiñ \[LHar. 127\]. | LHar. 127 | gloss withheld |
 | Arabic | ḳawḳan- (Dozy II 428 apud SED II 180) | Dozy II 428; SED II 180 |  |
-| Tigrinya | qʷənqʷən (LGz., 435) | LGz. 435 | gloss withheld |
+| Tigrinya | qʷənqʷən (LGz. 435) | LGz. 435 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

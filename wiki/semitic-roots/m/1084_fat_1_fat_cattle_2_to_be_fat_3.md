@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Soqotri | mer |  | gloss withheld |
-| Akkadian | marû 1 (marû); marû A (CAD M1, 307) | CAD M1, 307 | gloss withheld |
+| Akkadian | marû 1 (marû); marû A (CAD M/1 307) | CAD M/1 307 | gloss withheld |
 | Ugaritic | mru 2 |  |  |
 | East Ethiopic | Wol morä |  |  |
 | Hebrew | mǝrīʔ 2 |  |  |

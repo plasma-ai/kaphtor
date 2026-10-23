@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | pištā (HALOT 983); pešet | HALOT 983 | gloss withheld |
-| Phoenician | pšt (T, 272) | T 272 | gloss withheld |
-| Ugaritic | pṯt (DULAT, 677) | DULAT 677 | gloss withheld |
+| Phoenician | pšt (T 272) | T 272 | gloss withheld |
+| Ugaritic | pṯt (DULAT 677) | DULAT 677 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

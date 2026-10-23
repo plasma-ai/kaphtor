@@ -23,8 +23,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ŝxabar- |
 | Meaning | 'grain' |
-| Basis | reconstruction SED, corrected; meaning SED |
-| SED | SEDonline semet 2573 |
+| Basis | project |
 
 ## Reflexes
 
@@ -34,5 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šäbär, Sam. šabru, šabrimma id. (HALOT 1405, 1406) | HALOT 1405, 1406 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Cf. Tna. šǝmbǝra, Amh. Arg. Har. šumbura, Gur šǝmbura 'chickpea' (LGur. 579; must be Cushitisms)
 
 <!-- END kaphtor:record -->

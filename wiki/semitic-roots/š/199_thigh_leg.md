@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sāḳ- 'jambe, tibia' \[BK 1 1167\] | BK 1 1167 |  |
+| Arabic | sāḳ- 'leg, shin' \[BK 1 1167\] | BK 1 1167 |  |
 | Akkadian | sīḳu MA on \[AHw 1049\], \[CAD s 305\]; sāḳu SB (LL) \[AHw 1028\], OA (?), SB \[CAD s 169\] | AHw 1049; CAD s 305; AHw 1028; CAD s 169 | gloss withheld |
 | Tigre | sǝḳuḳa \[LH 182\]. | LH 182 | gloss withheld |
 | Mandaic Aramaic | šaḳa \[DM 445\] | DM 445 | gloss withheld |
@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Arabic | Malt siʔ &lt;\*siḳ |  | gloss withheld |
 | Modern Aramaic | MLH čoḳo \[J Mlah 171\] MMND šāḳa \[M MND 509\] | J Mlah 171 | gloss withheld |
 | Hebrew | šōḳ (HALOT 1448, 1449) | HALOT 1448, 1449 | gloss withheld |
-| Judaic Aramaic | šāḳā, šaḳḳā, šōḳā \[Ja 1620\]; \[Sok 564\] | Ja 1620; Sok 564 | gloss withheld |
+| Judaic Aramaic | šāḳā, šaḳḳā, šōḳā \[Ja 1620\]; \[DJPA 564b apud CAL\] | Ja 1620; DJPA 564b; CAL | gloss withheld |
 | Syrian Aramaic | šāḳā 'femur, crus' \[Brock 765\] | Brock 765 |  |
 | Geez | (?) ṣakʷ, ṣak, ṣok; also ḍakʷ, ḍākʷ, ḍako (SED I 213) | SED I 213 | gloss withheld |
 

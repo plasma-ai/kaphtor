@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | gōrāl (BDB 174; HALOT 185) | BDB 174; HALOT 185 | gloss withheld |
-| Phoenician | g-r-l (Krahmalkov, 143) | Krahmalkov 143 | gloss withheld |
+| Phoenician | g-r-l (Krahmalkov 143) | Krahmalkov 143 | gloss withheld |
 | Arabic | ǧaral (HALOT 203) | HALOT 203 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

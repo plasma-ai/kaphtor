@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | byn i,1,26 (Lane 285) | Lane 285 |  |
-| Epigraphic South Arabian | Sab byn (SD, 34; Biella, 40, 41) | SD 34; Biella 40, 41 | gloss withheld |
+| Epigraphic South Arabian | Sab byn (SD 34; Biella 40, 41) | SD 34; Biella 40, 41 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

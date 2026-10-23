@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳatīn- (LGz., 453) | LGz. 453 | gloss withheld |
+| Arabic | ḳatīn- (LGz. 453) | LGz. 453 | gloss withheld |
 | Mehri | ḳáyṭen JM 245 | JM 245 | gloss withheld |
 | Soqotri | ḳǝ́ṭhɔn |  | gloss withheld |
 | Akkadian | ḳatān- |  | gloss withheld |
@@ -42,15 +42,15 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab ḳṭn |  | gloss withheld |
 | Syrian Aramaic | ḳṭn 'grow thin' (Payne Smith 501) | Payne Smith 501 |  |
 | Aramaic | QṬN (Aramaic Root Atlas; CAL s.v. qṭn) | Aramaic Root Atlas; CAL s.v. qṭn | gloss withheld |
-| Punic | qṭn; qṭn (T, 287) | T 287 | gloss withheld |
+| Punic | qṭn; qṭn (T 287) | T 287 | gloss withheld |
 | Tigre | qaṭna (HALOT 1092) | HALOT 1092 |  |
 | Judaic Aramaic | qəṭīnā (HALOT 1092; DJPA 486a apud CAL) | HALOT 1092; DJPA 486a; CAL |  |
 | Ugaritic | qṭn (HALOT 1092) | HALOT 1092 |  |
-| Tigrinya | qäṭänä (LGz., 453) | LGz. 453 |  |
-| Amharic | qäṭṭänä (LGz., 453) | LGz. 453 |  |
-| Argobba | qäṭṭäna (LGz., 453) | LGz. 453 |  |
-| Gurage | qäṭänä (LGz., 453) | LGz. 453 |  |
-| Phoenician | qṭn (B, 403) | B 403 | gloss withheld |
+| Tigrinya | qäṭänä (LGz. 453) | LGz. 453 |  |
+| Amharic | qäṭṭänä (LGz. 453) | LGz. 453 |  |
+| Argobba | qäṭṭäna (LGz. 453) | LGz. 453 |  |
+| Gurage | qäṭänä (LGz. 453) | LGz. 453 |  |
+| Phoenician | qṭn (B 403) | B 403 | gloss withheld |
 | Harari | qäṭäna \[LHar 131\] | LHar 131 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | bukru (CAD B 309, AHw. 137 apud SEDonline 503) | CAD B 309, AHw. 137; SEDonline 503 | gloss withheld |
-| Eblaitic | bù-ku₁₇-lu, bù-kà-lu, bù-kà-ru₁₂ (VE 270; Krebernik 1983: 13 apud SEDonline 503) | VE 270; Krebernik 1983: 13; SEDonline 503 | gloss withheld |
-| Ugaritic | bkr (DUL 210 apud SEDonline 503) | DUL 210; SEDonline 503 | gloss withheld |
+| Eblaitic | bù-ku₁₇-lu, bù-kà-lu, bù-kà-ru₁₂ (VE 270; Krebernik 1983: 13 apud SEDonline 503); ba-ga-lu(-um) (VE 243; Krebernik 1983, 13) | VE 270; Krebernik 1983: 13; SEDonline 503; VE 243; Krebernik 1983, 13 | gloss withheld |
+| Ugaritic | bkr (DULAT 217) | DULAT 217 | gloss withheld |
 | Phoenician | bkr (DNWSI 164 apud SEDonline 503) | DNWSI 164; SEDonline 503 | gloss withheld |
 | Hebrew | bəkōr (HALOT 131 apud SEDonline 503) | HALOT 131; SEDonline 503 | gloss withheld |
 | Syrian Aramaic | bukrā (LSyr. 73, SL 126 apud SEDonline 503) | LSyr. 73, SL 126; SEDonline 503 | gloss withheld |

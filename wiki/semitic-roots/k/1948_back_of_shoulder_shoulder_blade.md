@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | kǝtf, pl. ǝktōf \[JH 71\] | JH 71 | gloss withheld |
 | Tigre | mäktäf \[LH 415\] | LH 415 | gloss withheld |
 | Mandaic Aramaic | (?) kadpa \[DM 195\]. | DM 195 | gloss withheld |
-| Ugaritic | ktp \[DLU 230\] | DLU 230 | gloss withheld |
+| Ugaritic | ktp \[DULAT 465\] | DULAT 465 | gloss withheld |
 | Geez | matkaf, matkaft \[LGz 372\] (metathesis) | LGz 372 | gloss withheld |
 | Modern Aramaic | MAL ḫaffta \[Berg 43\] HRT kepta \[J Hert 190\]MLH kespo \[J Mlah 179\] | Berg 43; J Hert 190; J Mlah 179 | gloss withheld |
 | Jibbali | kɛtf do. \[JJ 137\] | JJ 137 |  |

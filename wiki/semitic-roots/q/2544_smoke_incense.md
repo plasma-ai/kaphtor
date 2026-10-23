@@ -39,10 +39,10 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḳtr, ḳǝttār(e) LGz 452 | LGz 452 | gloss withheld |
 | Hebrew | ḳṭr (pi), ḳǝṭōrät (&gt;Eg NK ḳdrt) |  | gloss withheld |
 | Amharic | ḳäṭṭärä, ḳättärä |  | gloss withheld |
-| Epigraphic South Arabian | Sab m-ḳṭr SD 109 | SD 109 | gloss withheld |
+| Epigraphic South Arabian | Sab m-ḳṭr (SD 109; Sabaweb lemma 1803) | SD 109; Sabaweb lemma 1803 | gloss withheld |
 | Judaic Aramaic | ḳiṭr- (DJBA 1009 apud CAL) | DJBA 1009; CAL | gloss withheld |
-| Phoenician | qṭr (Krahmalkov, 426) | Krahmalkov 426 | gloss withheld |
-| Punic | qṭrt (Krahmalkov, 426); qṭrt, ktrt (T, 287) | Krahmalkov 426; T 287 | gloss withheld |
+| Phoenician | qṭr (Krahmalkov 426) | Krahmalkov 426 | gloss withheld |
+| Punic | qṭrt (Krahmalkov 426); qṭrt, ktrt (T 287) | Krahmalkov 426; T 287 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | zll 'stupid'; zalala 'move' | Anderson–Moser 2024 root zll |  |
-| Jibbali | eztelel (LGz., 637) | LGz. 637 | gloss withheld |
-| Amharic | ǧälä (žälä) (LGz., 637); zällälä (LGz., 638) | LGz. 637; LGz. 638 | gloss withheld |
-| Arabic | zalla, zalzala (LGz., 638) | LGz. 638 | gloss withheld |
-| Syrian Aramaic | zūnzālā (LGz., 638) | LGz. 638 | gloss withheld |
-| Tigrinya | zälälä (LGz., 638) | LGz. 638 | gloss withheld |
-| Gurage | zällälä (LGz., 638) | LGz. 638 |  |
-| Argobba | zälläla (LGz., 638) | LGz. 638 |  |
-| Harari | zäläla (LGz., 638) | LGz. 638 |  |
+| Jibbali | eztelel (LGz. 637) | LGz. 637 | gloss withheld |
+| Amharic | ǧälä (žälä) (LGz. 637); zällälä (LGz. 638) | LGz. 637; LGz. 638 | gloss withheld |
+| Arabic | zalla, zalzala (LGz. 638) | LGz. 638 | gloss withheld |
+| Syrian Aramaic | zūnzālā (LGz. 638) | LGz. 638 | gloss withheld |
+| Tigrinya | zälälä (LGz. 638) | LGz. 638 | gloss withheld |
+| Gurage | zällälä (LGz. 638) | LGz. 638 |  |
+| Argobba | zälläla (LGz. 638) | LGz. 638 |  |
+| Harari | zäläla (LGz. 638) | LGz. 638 |  |
 | Hebrew | zll (HALOT 272) | HALOT 272 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

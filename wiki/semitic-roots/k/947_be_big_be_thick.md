@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kbr \[-u-\]; kabīr- |  | gloss withheld |
 | Akkadian | kabāru |  |  |
 | Modern Arabic | Leb kbeyr, Mec kabiyr, Malt kbīr |  | gloss withheld |
-| Epigraphic South Arabian | Sab kbr SD |  | gloss withheld |
+| Epigraphic South Arabian | Sab kbr; kbr (SD 76) | SD 76 | gloss withheld |
 | Syrian Aramaic | kbr Br 316 |  | gloss withheld |
 | Amorite | Yakba/urum (PN) (HALOT 459) | HALOT 459 |  |
-| Phoenician | kbr (Krahmalkov, 223) | Krahmalkov 223 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic kbr (Al-Jallad–Jaworska, 89) | Al-Jallad–Jaworska 89 | gloss withheld |
+| Phoenician | kbr (Krahmalkov 223) | Krahmalkov 223 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic kbr (Al-Jallad–Jaworska 89) | Al-Jallad–Jaworska 89 | gloss withheld |
 | Hebrew | kbr (HALOT 459 apud SEDonline 354); kabbīr (HALOT 458 apud SEDonline 354) | HALOT 459; SEDonline 354; HALOT 458; SEDonline 354 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

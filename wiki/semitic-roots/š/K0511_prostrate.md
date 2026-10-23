@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | sagada 'bow' | Anderson–Moser 2024 root šgd |  |
 | Arabic | sajada (HALOT 741) | HALOT 741 |  |
-| Syrian Aramaic | səgeḏ (LGz., 490) | LGz. 490 | gloss withheld |
-| Hebrew | sāgaḏ (LGz., 490) | LGz. 490 |  |
-| Tigrinya | sägädä (LGz., 490) | LGz. 490 |  |
-| Tigre | sägda (LGz., 490) | LGz. 490 |  |
-| Amharic | säggädä (LGz., 490) | LGz. 490 |  |
-| Harari | sägäda (LGz., 490) | LGz. 490 |  |
-| Gurage | sägädä (LGz., 490) | LGz. 490 |  |
+| Syrian Aramaic | səgeḏ (LGz. 490) | LGz. 490 | gloss withheld |
+| Hebrew | sāgaḏ (LGz. 490) | LGz. 490 |  |
+| Tigrinya | sägädä (LGz. 490) | LGz. 490 |  |
+| Tigre | sägda (LGz. 490) | LGz. 490 |  |
+| Amharic | säggädä (LGz. 490) | LGz. 490 |  |
+| Harari | sägäda (LGz. 490) | LGz. 490 |  |
+| Gurage | sägädä (LGz. 490) | LGz. 490 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

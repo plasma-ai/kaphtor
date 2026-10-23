@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | pat, pit (HALOT 907) | HALOT 907 |  |
 | Judaic Aramaic | pāʾtā (HALOT 907) | HALOT 907 |  |
 | Syrian Aramaic | paʾtā, patā (HALOT 907) | HALOT 907 |  |
-| Geez | fe (LGz., 154) | LGz. 154 | gloss withheld |
+| Geez | fe (LGz. 154) | LGz. 154 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | gäzzä; gǝzzä |  | gloss withheld |
 | Argobba | gäzza, gīzi LGur 305 | LGur 305 | gloss withheld |
 | Tigrinya | gäzʔa |  | gloss withheld |
-| Epigraphic South Arabian | Sab gwz (SD, 51; Biella, 67) | SD 51; Biella 67 | gloss withheld |
+| Epigraphic South Arabian | Sab gwz (SD 51; Biella 67) | SD 51; Biella 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

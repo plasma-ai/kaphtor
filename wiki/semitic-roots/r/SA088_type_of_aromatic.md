@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab rnd (SD, 117; Biella, 489) | SD 117; Biella 489 | gloss withheld |
-| Arabic | Ar rand id (Biella, 489) | Biella 489 |  |
+| Epigraphic South Arabian | Sab rnd (SD 117; Biella 489; Sabaweb lemma 3085) | SD 117; Biella 489; Sabaweb lemma 3085 | gloss withheld |
+| Arabic | Ar rand id (Biella 489) | Biella 489 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

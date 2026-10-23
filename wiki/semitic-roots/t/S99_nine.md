@@ -31,17 +31,17 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | tišʿā (OLA80 §35.2, §35.14); tešaʿ | OLA80 §35.2, §35.14 | gloss withheld |
 | Arabic | tisʿa (OLA80 §35.2, §35.14) | OLA80 §35.2, §35.14 |  |
-| Akkadian | tiše (CAD T, 432); tišīt (OLA80 §35.2, §35.14) | CAD T, 432; OLA80 §35.2, §35.14 | gloss withheld |
+| Akkadian | tiše (CAD T 432); tišīt (OLA80 §35.2, §35.14) | CAD T 432; OLA80 §35.2, §35.14 | gloss withheld |
 | Aramaic | tšʿ (Aramaic Root Atlas; DNWSI 1235 apud CAL) | Aramaic Root Atlas; DNWSI 1235; CAL | gloss withheld |
-| Punic | tšʿ, tšʿm (T, 345) | T 345 | gloss withheld |
-| Ugaritic | tšʿ (DULAT, 868) | DULAT 868 | gloss withheld |
-| Epigraphic South Arabian | Sab tsʿ (SD, 148; Biella, 535) | SD 148; Biella 535 | gloss withheld |
+| Punic | tšʿ, tšʿm (T 345) | T 345 | gloss withheld |
+| Ugaritic | tšʿ (DULAT 868) | DULAT 868 | gloss withheld |
+| Epigraphic South Arabian | Sab tsʿ (SD 148; Biella 535) | SD 148; Biella 535 | gloss withheld |
 | Judaic Aramaic | tēšaʿ (HALOT 1802; DJPA 593b apud CAL) | HALOT 1802; DJPA 593b; CAL |  |
 | Syrian Aramaic | tᵉšaʿ (HALOT 1802; Payne Smith 622) | HALOT 1802; Payne Smith 622 |  |
 | Geez | tasʿū/tesʿū (HALOT 1802) | HALOT 1802 |  |
 | Tigre | sĕʿ (HALOT 1802) | HALOT 1802 |  |
-| Soqotri | seʿeh (LGz., 581) | LGz. 581 |  |
-| Mandaic Aramaic | tša (LGz., 581; Drower/Macuch 491b apud CAL) | LGz. 581; Macuch 491b; CAL |  |
+| Soqotri | seʿeh (LGz. 581) | LGz. 581 |  |
+| Mandaic Aramaic | tša (LGz. 581; Drower/Macuch 491b apud CAL) | LGz. 581; Macuch 491b; CAL |  |
 | Modern South Arabian | Bathari saˁēt (Gasparini - Morris 2025 162 apud SEDonline 859) | SEDonline 859 | gloss withheld |
 | Tigrinya | təšəˁattä, täsˁattä (TED 1254 apud SEDonline 859) | TED 1254; SEDonline 859 | gloss withheld |
 | Jibbali | sɔʕ (JL 220 apud SEDonline 859) | JL 220; SEDonline 859 | gloss withheld |

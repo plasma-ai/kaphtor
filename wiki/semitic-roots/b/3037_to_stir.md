@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | beʾēšu (baʾāšu, baḫāšu) (CAD B, 185) | CAD B, 185 | gloss withheld |
+| Akkadian | beʾēšu (baʾāšu, baḫāšu) (CAD B 185) | CAD B 185 | gloss withheld |
 | Syrian Aramaic | bḥaš 'stir, shake, agitate; hasten' (Payne Smith 41) | Payne Smith 41 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

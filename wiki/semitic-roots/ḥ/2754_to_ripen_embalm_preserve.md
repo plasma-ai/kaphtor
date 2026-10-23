@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥanaṭa 'to ripen, embalm' (BK 1, 503) | BK 1, 503 |  |
 | Hebrew | ḥānaṭ (HALOT 333) | HALOT 333 | gloss withheld |
-| Geez | ḥanaṭa (LGz., 238) | LGz. 238 | gloss withheld |
+| Geez | ḥanaṭa (LGz. 238) | LGz. 238 | gloss withheld |
 | Phoenician | ḥnwṭym (HALOT 333) | HALOT 333 | gloss withheld |
-| Aramaic | ḥănaṭ (LGz., 238) | LGz. 238 |  |
-| Syrian Aramaic | ḥənaṭ (LGz., 238) | LGz. 238 |  |
+| Aramaic | ḥănaṭ (LGz. 238) | LGz. 238 |  |
+| Syrian Aramaic | ḥənaṭ (LGz. 238) | LGz. 238 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

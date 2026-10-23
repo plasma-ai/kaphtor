@@ -31,14 +31,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | šrb (Lane 1525) | Lane 1525 |  |
-| Geez | śaraba (LGz., 533) | LGz. 533 | gloss withheld |
-| Syrian Aramaic | sərap (LGz., 533) | LGz. 533 | gloss withheld |
-| Mandaic Aramaic | srp (LGz., 533) | LGz. 533 |  |
-| Tigre | särba (LGz., 533) | LGz. 533 | gloss withheld |
-| Tigrinya | šäräbä, säräbä (LGz., 533) | LGz. 533 |  |
+| Geez | śaraba (LGz. 533) | LGz. 533 | gloss withheld |
+| Syrian Aramaic | sərap (LGz. 533) | LGz. 533 | gloss withheld |
+| Mandaic Aramaic | srp (LGz. 533) | LGz. 533 |  |
+| Tigre | särba (LGz. 533) | LGz. 533 | gloss withheld |
+| Tigrinya | šäräbä, säräbä (LGz. 533) | LGz. 533 |  |
 | Akkadian | sarāpu (Kogan 2011, 238) | Kogan 2011, 238 | gloss withheld |
 | Hebrew | pB ŝrp (Kogan 2011, 238) | Kogan 2011, 238 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic śrb (Al-Jallad–Jaworska, 126) | Al-Jallad–Jaworska 126 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śrb (Al-Jallad–Jaworska 126) | Al-Jallad–Jaworska 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

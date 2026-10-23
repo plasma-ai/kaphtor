@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṭabba (Leslau CDG 585) | Leslau CDG 585 | gloss withheld |
 | Aramaic | ṬBB 'well-informed' | Anderson–Moser 2024 root ṭbb |  |
 | Geez | ṭbb 'wise' | Anderson–Moser 2024 root ṭbb |  |
-| Soqotri | ṭeb (LGz., 585) | LGz. 585 | gloss withheld |
-| Syrian Aramaic | ṭab, ṭebbā (LGz., 585) | LGz. 585 | gloss withheld |
-| Tigrinya | ṭäbäbä (LGz., 585) | LGz. 585 | gloss withheld |
-| Tigre | ṭäbba (LGz., 585) | LGz. 585 |  |
-| Amharic | ṭäbbäbä, ṭəbäb (LGz., 585) | LGz. 585 | gloss withheld |
-| Harari | ṭəbäb (LGz., 585) | LGz. 585 | gloss withheld |
-| Gurage | ṭəbäb (LGz., 585) | LGz. 585 | gloss withheld |
+| Soqotri | ṭeb (LGz. 585) | LGz. 585 | gloss withheld |
+| Syrian Aramaic | ṭab, ṭebbā (LGz. 585) | LGz. 585 | gloss withheld |
+| Tigrinya | ṭäbäbä (LGz. 585) | LGz. 585 | gloss withheld |
+| Tigre | ṭäbba (LGz. 585) | LGz. 585 |  |
+| Amharic | ṭäbbäbä, ṭəbäb (LGz. 585) | LGz. 585 | gloss withheld |
+| Harari | ṭəbäb (LGz. 585) | LGz. 585 | gloss withheld |
+| Gurage | ṭəbäb (LGz. 585) | LGz. 585 | gloss withheld |
 | Hebrew | ṭbb (HALOT 367) | HALOT 367 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

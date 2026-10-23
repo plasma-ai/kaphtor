@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | pǟ (HALOT 914); st. constr. pī | HALOT 914 | gloss withheld |
 | Amharic | ʔaf \[K 1346\] | K 1346 | gloss withheld |
 | Epigraphic South Arabian | SAB f \[SD 43\]. | SD 43 | gloss withheld |
-| Judaic Aramaic | pūmā \[Ja 1142\]; note \[Sok 437\] päm, det. pymh | Ja 1142; Sok 437 |  |
+| Judaic Aramaic | pūmā \[Ja 1142\]; note \[DJPA 437a apud CAL\] päm, det. pymh | Ja 1142; DJPA 437a; CAL |  |
 | Harari | af \[LHar 19\] | LHar 19 |  |
 | Syrian Aramaic | pūmā 'mouth, beak (of a bird), edge (of the sword)' \[Brock 577\] | Brock 577 |  |
 | Aramaic | SML OLD OFF pm (WARKA pu-um-mi-e), NAB pwm \[HJ 916-917\]; Dem. pm \[HJ 1263\] | HJ 916-917; HJ 1263 |  |

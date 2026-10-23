@@ -40,9 +40,9 @@ updated: 2026-10-22T17:38:31Z
 | Harari | məšēt 4 \[LHar 114\] | LHar 114 | gloss withheld |
 | Gafat | mǝsätä 4 |  |  |
 | Tigrinya | mǝsät 4 |  |  |
-| Eblaitic | am-sa-a (OLA80 §47.2) | OLA80 §47.2 | gloss withheld |
-| Soqotri | imšin (LGz., 368) | LGz. 368 |  |
-| Argobba | mäšša (LGz., 368) | LGz. 368 | gloss withheld |
+| Eblaitic | mu-šum /mūšum/, me-su /mīšu(m)/ (VE 816a, 817; Krebernik 1983, 31–32); am-sa-a (OLA80 §47.2) | VE 816a, 817; Krebernik 1983, 31–32; OLA80 §47.2 | gloss withheld |
+| Soqotri | imšin (LGz. 368) | LGz. 368 |  |
+| Argobba | mäšša (LGz. 368) | LGz. 368 | gloss withheld |
 | Modern South Arabian | Bathari ˀimšī (Gasparini - Morris 2025 65 apud SEDonline 1855) | SEDonline 1855 | gloss withheld |
 | Jibbali | ʔəms̃ín (JL 3 apud SEDonline 1855) | JL 3; SEDonline 1855 | gloss withheld |
 

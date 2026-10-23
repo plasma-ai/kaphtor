@@ -40,11 +40,11 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʕly/w 1 (CAL s.v. ʿly) | CAL s.v. ʿly |  |
 | Greek | Ελιουν (Elioun) (Philo of Byblos; Semitic epithet ʿElyōn; OLA80 §65.5) | OLA80 §65.5 | gloss withheld |
 | Punic | ʿly 'go' | Anderson–Moser 2024 root ʿly |  |
-| Phoenician | ʿly (T, 244) | T 244 | gloss withheld |
+| Phoenician | ʿly (T 244) | T 244 | gloss withheld |
 | Amorite | ʿalijum, ʿalijatum, ʿalītum, ʿalija (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿly (Al-Jallad–Jaworska, 52) | Al-Jallad–Jaworska 52 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿly (Al-Jallad–Jaworska 52) | Al-Jallad–Jaworska 52 | gloss withheld |
 | Biblical Aramaic | ʕillāyā (HALOT 1948 apud SEDonline 268) | HALOT 1948; SEDonline 268 | gloss withheld |
-| Soqotri | ʕíľi (LS 309–310; CSOL I 491; CSOL II 409 apud SEDonline 268) | LS 309–310; SEDonline 268 | gloss withheld |
+| Soqotri | ʕíľi (LS 309–310; CSOL I 491; CSOL II 409 apud SEDonline 268); šáˁḷe (LS 309–310; SLOnline 26015) | LS 309–310; SEDonline 268; LS 309–310 | gloss withheld |
 | Syrian Aramaic | ʕlā 'raise, exalt; be exalted, excel' (Payne Smith 413) | Payne Smith 413 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

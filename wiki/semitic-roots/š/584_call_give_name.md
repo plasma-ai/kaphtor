@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | smy/w \[-u-\] |  |  |
 | Mehri | hmō |  |  |
 | Harsusi | hēm |  |  |
-| Epigraphic South Arabian | Sab smy (Biella, 337) | Biella 337 | gloss withheld |
-| Geez | samaya (LGz., 504) | LGz. 504 |  |
-| Tigre | säma (LGz., 504) | LGz. 504 |  |
+| Epigraphic South Arabian | Sab smy (Biella 337) | Biella 337 | gloss withheld |
+| Geez | samaya (LGz. 504) | LGz. 504 |  |
+| Tigre | säma (LGz. 504) | LGz. 504 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

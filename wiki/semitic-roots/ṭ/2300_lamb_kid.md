@@ -39,8 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ṭalyā 'lamb' \[Levy TW I 303\] ("nur in den jer. Trgg."). Likely a Hebraism with this meaning (see below on this root in Arm.). | Levy TW I 303 |  |
 | Harari | ṭāy \[LHar 157\]. | LHar 157 | gloss withheld |
 | Tigrinya | ṭel 'goat' \[Bass. 887\]. | Bass. 887 |  |
-| Syrian Aramaic | ṭalyā (LGz., 590) | LGz. 590 |  |
-| Mandaic Aramaic | ṭalia (LGz., 590) | LGz. 590 |  |
+| Syrian Aramaic | ṭalyā (LGz. 590) | LGz. 590 |  |
+| Mandaic Aramaic | ṭalia (LGz. 590) | LGz. 590 |  |
 | Modern Aramaic | NSyr. ṭalye (SED II 297) | SED II 297 | gloss withheld |
 | Argobba | ṭay, ṭel, ṭaˀi, ṭaya (Leslau 1997:224, AAD 500 apud SEDonline 602) | Leslau 1997:224, AAD 500; SEDonline 602 | gloss withheld |
 

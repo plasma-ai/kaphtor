@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | šǝman (šumnā) \[Ja 1536, 1597\]; šwmn \[Sok 541\] | Ja 1536, 1597; Sok 541 | gloss withheld |
 | Syrian Aramaic | šumnā 'fat, fatness' \[Brock 786\] | Brock 786 |  |
 | Aramaic | OFF PLM šmn \[HJ 1163\] | HJ 1163 | gloss withheld |
-| Eblaitic | sa-ma-nu (OLA80 §29.5) | OLA80 §29.5 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic smn (Al-Jallad–Jaworska, 122) | Al-Jallad–Jaworska 122 | gloss withheld |
+| Eblaitic | sa-ma-nu (OLA80 §29.5; VE 883; Krebernik 1983, 34) | OLA80 §29.5; VE 883; Krebernik 1983, 34 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic smn (Al-Jallad–Jaworska 122) | Al-Jallad–Jaworska 122 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

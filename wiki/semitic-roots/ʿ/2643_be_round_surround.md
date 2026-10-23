@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Soqotri | gáʕlhel (met.) |  | gloss withheld |
-| Geez | ʕagala (LGz., 59) | LGz. 59 | gloss withheld |
+| Geez | ʕagala (LGz. 59) | LGz. 59 | gloss withheld |
 | Hebrew | ʕāgōl |  | gloss withheld |
 | Judaic Aramaic | ʕgl, ʕrgl (DJPA 395a apud CAL) | DJPA 395a; CAL |  |
 | Syrian Aramaic | ʕgl (pa.) 'he/she/it rolled, turned' (Brock 510), + 'cart, chariot' (also ʕrgl) | Brock 510 |  |

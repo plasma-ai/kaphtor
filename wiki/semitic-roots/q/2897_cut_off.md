@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | CPArm. qṭʿ (HALOT 1124; CAL s.v. qṭʿ) | HALOT 1124; CAL s.v. qṭʿ |  |
 | Geez | qaḍʿa (HALOT 1124) | HALOT 1124 |  |
 | Tigre | qaṭʿa (HALOT 1124) | HALOT 1124 |  |
-| Pre-Islamic North Arabian | Safaitic qṣʿ (Al-Jallad–Jaworska, 111) | Al-Jallad–Jaworska 111 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qṣʿ (Al-Jallad–Jaworska 111) | Al-Jallad–Jaworska 111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

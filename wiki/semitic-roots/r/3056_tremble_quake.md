@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | riʿdat 'a tremour, quivering, quaking, shivering, or commotion' (Lane 1105) | Lane 1105 |  |
 | Hebrew | rʿd (HALOT 1258) | HALOT 1258 | gloss withheld |
 | Judaic Aramaic | rᵉʿad (HALOT 1258) | HALOT 1258 |  |
-| Geez | rəʿda (LGz., 459) | LGz. 459 | gloss withheld |
+| Geez | rəʿda (LGz. 459) | LGz. 459 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

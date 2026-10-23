@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kunukku (CAD K, 544) | CAD K, 544 | gloss withheld |
+| Akkadian | kunukku (CAD K 544) | CAD K 544 | gloss withheld |
 | Amorite | kanakum, kanikum (Gelb AS 21, 23) | Gelb AS 21 23 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

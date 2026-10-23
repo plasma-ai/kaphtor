@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | šebdēt \[JH 123\] | JH 123 |  |
 | Tigre | käbǝd \[LH 411\] | LH 411 | gloss withheld |
 | Mandaic Aramaic | kabda, kabada \[DM 195, 194\] | DM 195, 194 | gloss withheld |
-| Ugaritic | kbd \[DLU 207\]; /kabidu ?/ (UVST, 135) | DLU 207; UVST 135 | gloss withheld |
+| Ugaritic | kbd \[DULAT 420\]; /kabidu ?/ (UVST 135) | DULAT 420; UVST 135 | gloss withheld |
 | East Ethiopic | SEL käbd, WOL häbd \[LGur 333\] | LGur 333 | gloss withheld |
 | Geez | kabd \[LGz 273\] | LGz 273 | gloss withheld |
 | Gurage | MUH MSQ häbǝd, EŽA ḫäbǝd, CHA ḫäpt do. \[ibid.\] |  |  |
@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | s̃ubdét \[JJ 266\] | JJ 266 |  |
 | Hebrew | kābēd (HALOT 456) | HALOT 456 | gloss withheld |
 | Amharic | hod \[K 29\] | K 29 | gloss withheld |
-| Judaic Aramaic | kabdā \[Ja 607\]; kbd do. \[Sok 249\] | Ja 607; Sok 249 | gloss withheld |
+| Judaic Aramaic | kabdā \[Ja 607\]; kbd do. \[DJPA 249a apud CAL\] | Ja 607; DJPA 249a; CAL | gloss withheld |
 | Harari | kūd \[LHar 90\] | LHar 90 | gloss withheld |
 | Syrian Aramaic | kabdā 'liver; anger' \[Brock 315\] | Brock 315 |  |
 | Tigrinya | käbdi 'belly, stomach, liver' \[Bass 601\] | Bass 601 |  |

@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | katafa 'bind' | Anderson–Moser 2024 root kpt |  |
-| Soqotri | ktf (LGz., 297) | LGz. 297 |  |
-| Syrian Aramaic | kəpaṯ (LGz., 297) | LGz. 297 | gloss withheld |
-| Mandaic Aramaic | kpt (LGz., 297) | LGz. 297 | gloss withheld |
-| Akkadian | kapātu (LGz., 297) | LGz. 297 | gloss withheld |
+| Soqotri | ktf (LGz. 297) | LGz. 297 |  |
+| Syrian Aramaic | kəpaṯ (LGz. 297) | LGz. 297 | gloss withheld |
+| Mandaic Aramaic | kpt (LGz. 297) | LGz. 297 | gloss withheld |
+| Akkadian | kapātu (LGz. 297) | LGz. 297 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

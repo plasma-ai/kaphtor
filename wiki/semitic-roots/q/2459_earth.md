@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḳāʕ- (ḳwʕ) 'plain, flat ground; low ground where water remains stagnant' BK 2 835 | BK 2 835 |  |
 | Mehri | ḳāʕ |  |  |
 | Harsusi | ḳā |  | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic qʿt (Al-Jallad–Jaworska, 109) | Al-Jallad–Jaworska 109 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qʿt (Al-Jallad–Jaworska 109) | Al-Jallad–Jaworska 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

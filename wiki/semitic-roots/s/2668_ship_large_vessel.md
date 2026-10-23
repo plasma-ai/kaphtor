@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | sapīnatu (CAD S, 164) | CAD S, 164 | gloss withheld |
+| Akkadian | sapīnatu (CAD S 164) | CAD S 164 | gloss withheld |
 | Hebrew | sǝpīnā (HALOT 764) | HALOT 764 | gloss withheld |
 | Judaic Aramaic | sᵉpintā (HALOT 764) | HALOT 764 |  |
 | Arabic | safīnat (HALOT 764) | HALOT 764 |  |

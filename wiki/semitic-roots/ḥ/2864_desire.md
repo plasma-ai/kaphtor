@@ -30,11 +30,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥafiẓa (HALOT 340) | HALOT 340 | gloss withheld |
-| Epigraphic South Arabian | ḥfẓ (HALOT 340 #3089, citing Ryckmans 2:62) | HALOT 340 #3089, citing Ryckmans 2:62 | gloss withheld |
+| Epigraphic South Arabian | ḥfẓ, a man's name (Ryckmans 2:62 apud HALOT 340) | Ryckmans 2:62; HALOT 340 |  |
 | Hebrew | ḥpṣ (HALOT 339) | HALOT 339 |  |
 | Phoenician | mḥpṣ (HALOT 339) | HALOT 339 |  |
 | Syrian Aramaic | ḥfaṭ (HALOT 339) | HALOT 339 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 340 sets Arabic ḥafiẓa 'to keep, to take care' beside Hebrew ḥpṣ 'to take pleasure in, desire'; the senses differ.
 
 <!-- END kaphtor:record -->

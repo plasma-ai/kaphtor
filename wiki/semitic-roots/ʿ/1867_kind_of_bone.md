@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕuḍāḍ-, ʕaḍḍāḍ- 'the top of the nose, where the eyebrows part' \[BK 2 277\]; according to \[Belot 501\], the same two words mean 'bone, cartilage' | BK 2 277; Belot 501 |  |
 | Mehri | ʔāẑáyẑ, pl. ʔāẑáwẑ \[JM 39\] | JM 39 | gloss withheld |
 | Harsusi | ʔāẑāyẑ \[JH 14\]; cf. also ʔaẑáyl do. \[ibid.\] | JH 14; ibid. | gloss withheld |
-| Jibbali | ʕíẑ_ɛ́ẑ_, pl. ʕɔ́ẑ_ɔ́ẑ_ \[JJ 21\]; EAST JIB ʕáyẑǝ́ẑ do. \[ibid.\] | JJ 21; ibid. | gloss withheld |
+| Jibbali | ʕíẕ̂ɛ́ẕ̂, pl. ʕɔ́ẕ̂ɔ́ẕ̂ \[JJ 21\]; EAST JIB ʕáyẑǝ́ẑ do. \[ibid.\] | JJ 21; ibid. | gloss withheld |
 | Soqotri | ʕáẑeẑ (SED I 24) | SED I 24 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

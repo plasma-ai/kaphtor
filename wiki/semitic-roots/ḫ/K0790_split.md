@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ḫaṣawa 'castrate' | Anderson–Moser 2024 root ḫṣw |  |
-| Arabic | ḫaṣā (ḫṣy), ḫaṣīy (LGz., 267) | LGz. 267 | gloss withheld |
+| Arabic | ḫaṣā (ḫṣy), ḫaṣīy (LGz. 267) | LGz. 267 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

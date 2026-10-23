@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔly \[-i-\] |  |  |
 | Hebrew | ʔly |  |  |
-| Epigraphic South Arabian | ʔlh |  |  |
+| Epigraphic South Arabian | ʔlh (Sabaweb lemma 2390) | Sabaweb lemma 2390 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

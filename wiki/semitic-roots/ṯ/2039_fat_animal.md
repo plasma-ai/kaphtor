@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | CHA EŽA MUH MSQ GOG SOD säräba, GYE säräḇä do. \[ibid.\] |  |  |
 | Phoenician | tbrt |  | gloss withheld |
 | Modern Aramaic | NASS tarba \[Tser 0222\] MMND terbā \[M MND 502\] | Tser 0222 | gloss withheld |
-| Judaic Aramaic | tǝrāb, tǝrēb, tarbā \[Ja 1694\]; trb \[Sok 590\] | Ja 1694; Sok 590 | gloss withheld |
+| Judaic Aramaic | tǝrāb, tǝrēb, tarbā \[Ja 1694\]; trb \[DJPA 590b apud CAL\] | Ja 1694; DJPA 590b; CAL | gloss withheld |
 | Harari | särba \[LHar 142\] | LHar 142 | gloss withheld |
 | Syrian Aramaic | tarbā 'fat; flesh (of fruit)' \[Brock 833\] | Brock 833 |  |
 | Gafat | (?) buššǝra |  | gloss withheld |

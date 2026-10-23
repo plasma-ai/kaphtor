@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | wṣy (Lane 3055) | Lane 3055 |  |
 | Hebrew | ṣwh (HALOT 1010) | HALOT 1010 | gloss withheld |
-| Punic | mṣwt (Krahmalkov, 305) | Krahmalkov 305 | gloss withheld |
+| Punic | mṣwt (Krahmalkov 305) | Krahmalkov 305 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

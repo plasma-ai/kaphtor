@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | tarru MB, SB \[AHw. 1331\] | AHw. 1331 | gloss withheld |
-| Ugaritic | tr \[DLU 473\] | DLU 473 | gloss withheld |
+| Ugaritic | tr \[DULAT 863\] | DULAT 863 | gloss withheld |
 | Hebrew | tōr (HALOT 1709, 1710), pB. \[Ja. 1656\] | HALOT 1709, 1710; Ja. 1656 | gloss withheld |
 | Syrian Aramaic | tar 'swallow' \[Brock. 833\], \[PS 4492\]. | Brock. 833; PS 4492 |  |
 

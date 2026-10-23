@@ -38,10 +38,10 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | gašša LGur 299 | LGur 299 | gloss withheld |
 | Tigrinya | gašša LGur 299 | LGur 299 | gloss withheld |
 | Syrian Aramaic | gaysā 'band of robbers; foray' (Payne Smith 69) | Payne Smith 69 |  |
-| Pre-Islamic North Arabian | Safaitic gś (Al-Jallad–Jaworska, 73) | Al-Jallad–Jaworska 73 | gloss withheld |
-| Judaic Aramaic | gaysā (Biella, 72) | Biella 72 |  |
-| Mehri | giyôś (Biella, 72) | Biella 72 |  |
-| Modern Arabic | ǧaysh, geǧš (Biella, 72) | Biella 72 |  |
+| Pre-Islamic North Arabian | Safaitic gś (Al-Jallad–Jaworska 73) | Al-Jallad–Jaworska 73 | gloss withheld |
+| Judaic Aramaic | gaysā (Biella 72) | Biella 72 |  |
+| Mehri | giyôś (Biella 72) | Biella 72 |  |
+| Modern Arabic | ǧaysh, geǧš (Biella 72) | Biella 72 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

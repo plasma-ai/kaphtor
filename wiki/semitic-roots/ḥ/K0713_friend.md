@@ -29,16 +29,16 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ḥbr 'comrade' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | ḥbr (Aramaic Root Atlas; DNWSI 346 apud CAL) | Aramaic Root Atlas; DNWSI 346; CAL | gloss withheld |
 | Geez | ḫabara 'connected' | Anderson–Moser 2024 root ḥbr |  |
-| Punic | ḥbr (T, 97) | T 97 | gloss withheld |
+| Punic | ḥbr (T 97) | T 97 | gloss withheld |
 | Ugaritic | ḥbr 'companion' | Anderson–Moser 2024 root ḥbr |  |
-| Akkadian | ibru (CAD I/J, 5) | CAD I/J, 5 | gloss withheld |
-| Hebrew | ḥāḇar, ḥāḇer (LGz., 256) | LGz. 256 | gloss withheld |
-| Syrian Aramaic | ḥabbar (ʿam) (LGz., 256) | LGz. 256 | gloss withheld |
-| Mandaic Aramaic | hbr (LGz., 257) | LGz. 257 |  |
-| Judaic Aramaic | ḥabrūtā (HALOT 288); ḥabraʾ (T, 97) | HALOT 288; T 97 | gloss withheld |
-| Biblical Aramaic | ḥabar (T, 97) | T 97 |  |
+| Akkadian | ibru (CAD I/J 5) | CAD I/J 5 | gloss withheld |
+| Hebrew | ḥāḇar, ḥāḇer (LGz. 256) | LGz. 256 | gloss withheld |
+| Syrian Aramaic | ḥabbar (ʿam) (LGz. 256) | LGz. 256 | gloss withheld |
+| Mandaic Aramaic | hbr (LGz. 257) | LGz. 257 |  |
+| Judaic Aramaic | ḥabrūtā (HALOT 288); ḥabraʾ (T 97) | HALOT 288; T 97 | gloss withheld |
+| Biblical Aramaic | ḥabar (T 97) | T 97 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

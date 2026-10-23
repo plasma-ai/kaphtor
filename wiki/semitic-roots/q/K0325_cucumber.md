@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Punic | qšʾ 'cucumber' | Anderson–Moser 2024 root qšʾ |  |
 | Hebrew | miqšâ (HALOT 629); \*qiššuʾā (HALOT 1151) | HALOT 629; HALOT 1151 | gloss withheld |
 | Judaic Aramaic | miqšā (HALOT 629) | HALOT 629 |  |
-| Geez | qʷəsāy, qʷasyā (LGz., 447) | LGz. 447 |  |
-| Arabic | quttāʾ, qittāʾ (LGz., 447) | LGz. 447 |  |
-| Aramaic | qaṭṭayyā (LGz., 447) | LGz. 447 |  |
-| Syrian Aramaic | qaṭṭūṯā (LGz., 447) | LGz. 447 |  |
-| Amharic | qʷasa (LGz., 447) | LGz. 447 |  |
+| Geez | qʷəsāy, qʷasyā (LGz. 447) | LGz. 447 |  |
+| Arabic | quttāʾ, qittāʾ (LGz. 447) | LGz. 447 |  |
+| Aramaic | qaṭṭayyā (LGz. 447) | LGz. 447 |  |
+| Syrian Aramaic | qaṭṭūṯā (LGz. 447) | LGz. 447 |  |
+| Amharic | qʷasa (LGz. 447) | LGz. 447 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

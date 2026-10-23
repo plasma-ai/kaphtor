@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | gmʕ \[-a-\] |  |  |
 | Mehri | gatmaʔ |  |  |
 | Harsusi | egtōma |  |  |
-| Epigraphic South Arabian | Sab gmʿ (SD, 49; Biella, 72) | SD 49; Biella 72 | gloss withheld |
+| Epigraphic South Arabian | Sab gmʿ (SD 49; Biella 72) | SD 49; Biella 72 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

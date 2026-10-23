@@ -36,16 +36,16 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ḥrṯ 2 |  |  |
 | Geez | ḥarasa 2 |  |  |
 | Gurage | aräsä 2 |  |  |
-| Phoenician | ḥrš 2 (T, 115) | T 115 | gloss withheld |
+| Phoenician | ḥrš 2 (T 115) | T 115 | gloss withheld |
 | Hebrew | ḥrš 2 |  |  |
 | Amharic | arräsä 2 |  |  |
-| Epigraphic South Arabian | Sab m-ḥrṯ-t 3 |  |  |
+| Epigraphic South Arabian | Sab m-ḥrṯ-t 3 (Sabaweb lemma 4379) | Sabaweb lemma 4379 | gloss withheld |
 | Syrian Aramaic | ḥrt |  |  |
 | Gafat | arräsä 2 |  |  |
 | Tigrinya | ḥaräsä 2 |  |  |
-| Mandaic Aramaic | hrt (LGz., 243) | LGz. 243 | gloss withheld |
-| Harari | ḥaräsa (LGz., 243) | LGz. 243 |  |
-| Argobba | harräsa (LGz., 243) | LGz. 243 |  |
+| Mandaic Aramaic | hrt (LGz. 243) | LGz. 243 | gloss withheld |
+| Harari | ḥaräsa (LGz. 243) | LGz. 243 |  |
+| Argobba | harräsa (LGz. 243) | LGz. 243 |  |
 | Judaic Aramaic | ḥrt (HALOT 357) | HALOT 357 | gloss withheld |
 | Canaanite | a/iḫrišu (HALOT 357) | HALOT 357 |  |
 

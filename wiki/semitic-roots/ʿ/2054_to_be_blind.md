@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ʔáwer (yāwōr) do. \[JH 12\] | JH 12 |  |
 | Tigre | ʕorä \[LH 477\] | LH 477 | gloss withheld |
 | Mandaic Aramaic | ʕuira \[DM 343\] (cf. ʕbira \[ibid. 340\]) | DM 343; ibid. 340 | gloss withheld |
-| Ugaritic | ʕwr \[DLU 95\] | DLU 95 | gloss withheld |
+| Ugaritic | ʕwr \[DULAT 192\] | DULAT 192 | gloss withheld |
 | East Ethiopic | SEL ūr \[LGur 83\] | LGur 83 | gloss withheld |
 | Geez | ʕora (-u-) \[LGz 79\]. | LGz 79 | gloss withheld |
 | Gurage | MUH GOG (t)awwärä \[ibid. 114\]. |  | gloss withheld |
@@ -52,8 +52,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | (?) ʕwr (SED I 276) | SED I 276 | gloss withheld |
 | Modern Aramaic | MAL ʕwr (SED I 276) | SED I 276 | gloss withheld |
 | Argobba | əwwər (SED I 276) | SED I 276 |  |
-| Gafat | əwwərä (LGz., 79) | LGz. 79 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿwr (Al-Jallad–Jaworska, 57) | Al-Jallad–Jaworska 57 | gloss withheld |
+| Gafat | əwwərä (LGz. 79) | LGz. 79 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿwr (Al-Jallad–Jaworska 57) | Al-Jallad–Jaworska 57 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

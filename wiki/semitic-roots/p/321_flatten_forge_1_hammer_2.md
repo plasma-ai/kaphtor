@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | paṭṭis- 2 |  |  |
 | Syrian Aramaic | paṭšā, parṭūša (HALOT 924) | HALOT 924 |  |
 | Punic | pṭš (HALOT 924) | HALOT 924 |  |
-| Phoenician | ptš (B, 390) | B 390 | gloss withheld |
+| Phoenician | ptš (B 390) | B 390 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

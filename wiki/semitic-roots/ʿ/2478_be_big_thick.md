@@ -30,18 +30,18 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕby II (LGz., 55), ʔaɣbā; wʕb BK 2 1565 | LGz. 55; BK 2 1565 | gloss withheld |
-| Akkadian | ebû (LGz., 55) | LGz. 55 | gloss withheld |
+| Arabic | ʕby II (LGz. 55), ʔaɣbā; wʕb BK 2 1565 | LGz. 55; BK 2 1565 | gloss withheld |
+| Akkadian | ebû (LGz. 55) | LGz. 55 | gloss withheld |
 | Tigre | ʕäbi |  | gloss withheld |
 | Mandaic Aramaic | aba |  | gloss withheld |
-| Ugaritic | ɣb-n (LGz., 55) | LGz. 55 | gloss withheld |
-| Geez | ʕabiy (LGz., 55) | LGz. 55 | gloss withheld |
-| Hebrew | ʕby (LGz., 55) | LGz. 55 | gloss withheld |
+| Ugaritic | ɣb-n (LGz. 55) | LGz. 55 | gloss withheld |
+| Geez | ʕabiy (LGz. 55) | LGz. 55 | gloss withheld |
+| Hebrew | ʕby (LGz. 55) | LGz. 55 | gloss withheld |
 | Syrian Aramaic | ʕǝbā |  | gloss withheld |
 | Tigrinya | ʕabiy |  | gloss withheld |
 | Aramaic | ʿBY 'thick' | Anderson–Moser 2024 root ʿby |  |
-| Amharic | t-abbäyä (LGz., 55) | LGz. 55 | gloss withheld |
-| Gurage | abbä (LGz., 55) | LGz. 55 | gloss withheld |
+| Amharic | t-abbäyä (LGz. 55) | LGz. 55 | gloss withheld |
+| Gurage | abbä (LGz. 55) | LGz. 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

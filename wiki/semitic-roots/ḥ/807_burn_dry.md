@@ -43,8 +43,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | arrärä |  | gloss withheld |
 | Judaic Aramaic | ḥrḥr ? |  | gloss withheld |
 | Tigrinya | ḥarärä |  | gloss withheld |
-| Punic | ḥrt (Krahmalkov, 199) | Krahmalkov 199 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥr (Al-Jallad–Jaworska, 86) | Al-Jallad–Jaworska 86 | gloss withheld |
+| Punic | ḥrt (Krahmalkov 199) | Krahmalkov 199 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥr (Al-Jallad–Jaworska 86) | Al-Jallad–Jaworska 86 | gloss withheld |
 | Harari | ḥarära \[LHar 86\] | LHar 86 | gloss withheld |
 | Syrian Aramaic | ḥar 'be dry, husky' (Payne Smith 155) | Payne Smith 155 |  |
 

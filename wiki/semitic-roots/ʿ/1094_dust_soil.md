@@ -37,11 +37,11 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ʔāfor (sic!), ʔafer |  | gloss withheld |
 | Tigre | ʕäfär LH 492 | LH 492 | gloss withheld |
 | Ugaritic | ʕpr |  |  |
-| Phoenician | ʿpr (Krahmalkov, 384) | Krahmalkov 384 | gloss withheld |
+| Phoenician | ʿpr (Krahmalkov 384) | Krahmalkov 384 | gloss withheld |
 | Jibbali | ʕɔ́fɔ́r, ʕafor (&lt;); ʕofer |  | gloss withheld |
 | Hebrew | ʕapār; ʔēper (HALOT 80) | HALOT 80 | gloss withheld |
 | Syrian Aramaic | ʕapr- (Payne Smith 422) | Payne Smith 422 |  |
-| Geez | ʾafar (LGz., 10) | LGz. 10 | gloss withheld |
+| Geez | ʾafar (LGz. 10) | LGz. 10 | gloss withheld |
 | Gurage | afär | SEDonline semet 3002 | gloss withheld |
 | Amharic | afär LGz 10, (inf.) | LGz 10 | gloss withheld |
 | Harari | afär | SEDonline semet 3002 | gloss withheld |
@@ -57,6 +57,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-From 2468: Initial ayin is explicit in Hebrew עפר (ʿpr). Dillmann (LLA 808) considers Geʿez ʾafar an Amharic loanword, unless it goes with Hebrew ʾēper (LGz., 10). See HALOT 80.
+From 2468: Initial ayin is explicit in Hebrew עפר (ʿpr). Dillmann (LLA 808) considers Geʿez ʾafar an Amharic loanword, unless it goes with Hebrew ʾēper (LGz. 10). See HALOT 80.
 
 <!-- END kaphtor:record -->

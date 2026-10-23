@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫarida (HALOT 350) | HALOT 350 | gloss withheld |
 | Hebrew | ḥrd (HALOT 350) | HALOT 350 |  |
-| Punic | ḥrdt (Neo-Punic; Krahmalkov, 196) | Krahmalkov 196 | gloss withheld |
+| Punic | ḥrdt (Neo-Punic; Krahmalkov 196) | Krahmalkov 196 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

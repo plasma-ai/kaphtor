@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʕăṣrā 'holiday, celebration, festive assembly'; pB ʕăṣärät esp. 'festive gathering for a conclusion of a festive season' Ja 1103 (contamination with homon. ʕṣr '(to press), close up, detain') | Ja 1103 |  |
 | Judaic Aramaic | ʕăṣarǝtt- 'Feast of Weeks' Ja 1104 | Ja 1104 |  |
 | Syrian Aramaic | ʕāṣart- Br 540: &lt; Hbr (unlikely: diff. meanings) |  | gloss withheld |
-| Geez | ʿaṣara (LGz., 75) | LGz. 75 | gloss withheld |
+| Geez | ʿaṣara (LGz. 75) | LGz. 75 | gloss withheld |
 | Aramaic | ʿᵃṣartā (HALOT 871) | HALOT 871 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

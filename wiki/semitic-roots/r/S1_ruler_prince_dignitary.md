@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | rzn (Krahmalkov, 442); rzn (T, 303) | Krahmalkov 442; T 303 | gloss withheld |
+| Phoenician | rzn (Krahmalkov 442); rzn (T 303) | Krahmalkov 442; T 303 | gloss withheld |
 | Hebrew | rōzēn (HALOT 1199) | HALOT 1199 | gloss withheld |
 | Tigre | räzna (HALOT 1210) | HALOT 1210 |  |
 | Harari | rēzäna (HALOT 1210) | HALOT 1210 |  |

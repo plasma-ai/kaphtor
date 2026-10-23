@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | sabä |  |  |
 | Argobba | säḥaba |  |  |
 | Tigrinya | säḥabä |  |  |
-| Epigraphic South Arabian | Sab s₃ḥb (Kogan 2015, ch. 2 §4.2 no. 56) | Kogan 2015, ch. 2 §4.2 no. 56 |  |
+| Epigraphic South Arabian | Sab s₃ḥb (Kogan 2015, ch. 2 §4.2 no. 56; Sabaweb lemma 5142) | Kogan 2015, ch. 2 §4.2 no. 56; Sabaweb lemma 5142 | gloss withheld |
 | Jibbali | sḥab (Kogan 2015, ch. 2 §4.2 no. 56) | Kogan 2015, ch. 2 §4.2 no. 56 |  |
 | Mehri | səḥāb (Kogan 2015, ch. 2 §4.2 no. 56) | Kogan 2015, ch. 2 §4.2 no. 56 | gloss withheld |
 

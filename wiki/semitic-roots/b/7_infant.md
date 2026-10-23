@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | baw- 'young of a camel' (BK 1, 174); babbat- 'stammering of a child; fat, chubby young boy' (BK 1, 81) | BK 1, 174; BK 1, 81 |  |
-| Akkadian | bābu (syn. list.) (CAD B, 27); (AHw, 95) | CAD B, 27; AHw 95 |  |
+| Akkadian | bābu (syn. list.) (CAD B 27); (AHw 95) | CAD B 27; AHw 95 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

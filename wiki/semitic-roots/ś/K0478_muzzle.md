@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | šabama 'gagged' | Anderson–Moser 2024 root śbm |  |
-| Ugaritic | šbm (Gt) (DULAT, 793; Tropper UG 572) | DULAT 793; Tropper UG 572 | gloss withheld |
+| Ugaritic | šbm (Gt) (DULAT 793; Tropper UG 572) | DULAT 793; Tropper UG 572 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

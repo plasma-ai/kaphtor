@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kibtu OAkk. on (CAD K, 340) | CAD K, 340 | gloss withheld |
-| Tigre | käbbä (LH, 411) | LH 411 | gloss withheld |
+| Akkadian | kibtu OAkk. on (CAD K 340) | CAD K 340 | gloss withheld |
+| Tigre | käbbä (LH 411) | LH 411 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

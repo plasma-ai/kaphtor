@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/803_burn_be_hot_1_set_fire_2_warm_v_3_spark_4_be_dry
 title: "*ŝxVbVb- 1, 2, 3, 5 ~ *ŝxa(m)bib- 4: 'burn, be hot' 1, 'set fire' 2, 'warm' (v.) 3, 'spark' 4, 'be dry, arid' 5"
-desc: "Proto-Semitic *ŝxVbVb- 1, 2, 3, 5 ~ *ŝxa(m)bib- 4, 'burn, be hot' 1, 'set fire' 2, 'warm' (v.) 3, 'spark' 4, 'be dry, arid' 5: reflexes in 7 language(s)."
+desc: "Proto-Semitic *ŝxVbVb- 1, 2, 3, 5 ~ *ŝxa(m)bib- 4, 'burn, be hot' 1, 'set fire' 2, 'warm' (v.) 3, 'spark' 4, 'be dry, arid' 5: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "803"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šbb 1, \*šābīb 4 |  |  |
 | Judaic Aramaic | šābīb- 4 |  |  |
 | Syrian Aramaic | šāb- 5 |  |  |
+| Eblaitic | sa-ba-ba-bù(-um) /šabbābum/ (VE 776; Krebernik 1983, 29) | VE 776; Krebernik 1983, 29 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

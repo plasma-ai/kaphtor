@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | NSyr. téshâ (M 320); Tlk. tēs; Ass. tayša, tēša (Kuip. 117); Tur. tayšo, tayso (Kuip. 117), taiso (Ritter 494) | M 320; Kuip. 117; Kuip. 117; Ritter 494 | gloss withheld |
 | Aramaic | \*tyš (HALOT 1729; Qumran 253 apud CAL) | HALOT 1729; CAL |  |
 | Akkadian | d/taššu (George and Krebernik 2022, 153) | Krebernik 2022 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ts (Al-Jallad–Jaworska, 134) | Al-Jallad–Jaworska 134 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ts (Al-Jallad–Jaworska 134) | Al-Jallad–Jaworska 134 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

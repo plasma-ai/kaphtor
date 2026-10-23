@@ -35,18 +35,18 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | šínoh \[LS 419\]; míšin \[LS 252\] | LS 419; LS 252 | gloss withheld |
 | Akkadian | šittu (&lt;\*šintu) OB, SB \[CAD š 3 140\], \[AHw 1252\]; also šuttu (&lt;\*šuntu) OA, OB on \[CAD š3 405\], \[AHw 1292-1293\] | CAD š 3 140; AHw 1252; CAD š3 405; AHw 1292-1293 | gloss withheld |
 | Harsusi | šenēt \[JH 124\] | JH 124 | gloss withheld |
-| Eblaitic | si-tum, šit-t-um (sic!) (HALOT 1601, 1602) (apud Fronzaroli) | HALOT 1601, 1602 |  |
+| Eblaitic | si-tum, šit-t-um (sic!) (HALOT 1601, 1602) (apud Fronzaroli); si-tum /šittum/ (VE 1131; Krebernik 1983, 40) | HALOT 1601, 1602; VE 1131; Krebernik 1983, 40 | gloss withheld |
 | Mandaic Aramaic | šinta \[DM 462\] | DM 462 | gloss withheld |
 | Ugaritic | yšn \[Aist 137-138\], šnt \[ibid.\] | Aist 137-138; ibid. | gloss withheld |
 | Jibbali | s̃ónút \[JJ 293\] | JJ 293 | gloss withheld |
 | Hebrew | yšn (ḳal) (HALOT 447), šēnā (HALOT 1601) | HALOT 447; HALOT 1601 | gloss withheld |
 | Epigraphic South Arabian | SAB s1nt \[SD 163\] | SD 163 | gloss withheld |
-| Judaic Aramaic | šēntā, šēnā, šintā; šǝnā (šäntā) (n.) \[Ja 1564\], \[Sok 560\] | Ja 1564; Sok 560 | gloss withheld |
+| Judaic Aramaic | šēntā, šēnā, šintā; šǝnā (šäntā) (n.) \[Ja 1564\], \[DJPA 560a apud CAL\] | Ja 1564; DJPA 560a; CAL | gloss withheld |
 | Syrian Aramaic | šentā 'sleep' \[Brock 789\] | Brock 789 |  |
 | Aramaic | SAMAL šnh \[HJ 1155\] | HJ 1155 | gloss withheld |
 | Biblical Aramaic | suff. šint- 'sleep' (BDB 1096) | BDB 1096 |  |
 | Geez | ʔaswana \[LGz. 520\] | LGz. 520 |  |
-| Pre-Islamic North Arabian | Safaitic wsn (Al-Jallad–Jaworska, 147) | Al-Jallad–Jaworska 147 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wsn (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

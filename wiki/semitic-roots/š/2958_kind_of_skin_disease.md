@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED II, additions to SED I (unnumbered). Arb. šaʕaf- 'a disease that makes she-camels lose their lashes' is a variant root with š. Cf. Ethiopic \*šf(f): Amh. šəffəta, Har. šəfti, WOL šəfto, ZWY šufutu, Tna. šuf bälä (SED II 334).
+SED II, additions to SED I (unnumbered). Arb. šaʕaf- 'a disease that makes she-camels lose their lashes' is a possible variant root with š. Cf. Ethiopic \*šf(f): Amh. šəffəta, Har. šəfti, WOL šəfto, ZWY šufutu, Tna. šuf bälä (SED II 334).
 
 <!-- END kaphtor:record -->

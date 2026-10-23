@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ṣǝʕīr-, ṣǝʕar |  | gloss withheld |
 | Mandaic Aramaic | ṢAR, ṢUR (HALOT 1043) | HALOT 1043 |  |
 | Jibbali | s̃əṣɣér (JL 237 apud SEDonline 1578) | JL 237; SEDonline 1578 | gloss withheld |
-| Punic | ṣʕr (DLU 415; HALOT 1041) | DLU 415; HALOT 1041 | gloss withheld |
+| Punic | ṣʕr (DULAT 769; HALOT 1041) | DULAT 769; HALOT 1041 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

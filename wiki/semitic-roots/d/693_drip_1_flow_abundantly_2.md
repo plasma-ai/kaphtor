@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | drr \[-u-, -i-\] 2 \[BK 1 681 apud SED I 55\] | BK 1 681; SED I 55 |  |
+| Arabic | drr 2 \[BK 1 681 apud SED I 55\] | BK 1 681; SED I 55 |  |
 | Hebrew | drr 1 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

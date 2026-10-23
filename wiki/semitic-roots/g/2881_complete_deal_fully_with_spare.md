@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǧamala (HALOT 197) | HALOT 197 | gloss withheld |
 | Hebrew | gāmal 'deal fully with, recompense' (BDB 168) | BDB 168 |  |
 | Aramaic | gml 'repay' (Aramaic Root Atlas 0269) | Aramaic Root Atlas 0269 |  |
-| Akkadian | gamālu (CAD G, 21) | CAD G, 21 | gloss withheld |
+| Akkadian | gamālu (CAD G 21) | CAD G 21 | gloss withheld |
 | Amorite | gml: gamil?, guml, gamilum, gamlum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

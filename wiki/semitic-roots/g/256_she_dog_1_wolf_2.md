@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔabū ǯaʕdat- 'loup' Belot 63; ǯadlāʔ- 'chienne' (BK 1 266) | Belot 63; BK 1 266 |  |
+| Arabic | ʔabū ǯaʕdat- 'wolf' Belot 63; ǯadlāʔ- 'she-dog' (BK 1 266) | Belot 63; BK 1 266 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

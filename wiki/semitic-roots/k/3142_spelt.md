@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | kussemet (HALOT 490) | HALOT 490 | gloss withheld |
-| Ugaritic | ksm, pl. ksmn (HALOT 490); /kussumu/ (UVST, 139) | HALOT 490; UVST 139 | gloss withheld |
+| Ugaritic | ksm, pl. ksmn (HALOT 490); /kussumu/ (UVST 139) | HALOT 490; UVST 139 | gloss withheld |
 | Akkadian | ? kismu (HALOT 490) | HALOT 490 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

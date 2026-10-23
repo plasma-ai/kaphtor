@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔiwazz- \[BK 1 68\], wazz- 'goose' \[BK 2 1527\] (\[LA V 428-9\]). | BK 1 68; BK 2 1527; LA V 428-9 |  |
 | Mandaic Aramaic | auaza \[DM 9\]. | DM 9 | gloss withheld |
-| Ugaritic | ʔuz \[DLU 66\] | DLU 66 | gloss withheld |
+| Ugaritic | ʔuz \[DULAT 132\] | DULAT 132 | gloss withheld |
 | Hebrew | PB ʔāwāz 'goose' \[Ja. 23\]. | Ja. 23 |  |
 | Judaic Aramaic | ʔawzā, ʔăwāzā 'goose' \[Ja. 23\], \[Levy WTM I 38\]; ʔăwazzā \[Ja. 23\]. | Ja. 23; Levy WTM I 38; Ja. 23 |  |
 | Syrian Aramaic | wazzā 'anser' \[Brock. 184\], \[PS 1060\] (also wāzā). | Brock. 184; PS 1060 |  |

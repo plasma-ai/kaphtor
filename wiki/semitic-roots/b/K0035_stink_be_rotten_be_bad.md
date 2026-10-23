@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Sel. bāsä (EDG 129 apud SEDonline 1108) | EDG 129; SEDonline 1108 | gloss withheld |
 | Amharic | basä (AED 895 apud SEDonline 1108) | AED 895; SEDonline 1108 | gloss withheld |
 | Tigrinya | bäˀasä (TED 1167 apud SEDonline 1108) | TED 1167; SEDonline 1108 | gloss withheld |
-| Ugaritic | bʔš (HALOT 107 apud SEDonline 1108); bʔišt (DUL 204 apud SEDonline 1108) | HALOT 107; SEDonline 1108; DUL 204; SEDonline 1108 | gloss withheld |
-| Tigre | bəʾəsa (LGz., 82) | LGz. 82 |  |
+| Ugaritic | bʔš (HALOT 107 apud SEDonline 1108); bʔišt, of unknown meaning (DULAT 202) | HALOT 107; SEDonline 1108; DULAT 202 | gloss withheld |
+| Tigre | bəʾəsa (LGz. 82) | LGz. 82 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

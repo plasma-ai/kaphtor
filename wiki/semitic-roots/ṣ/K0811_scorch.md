@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Aramaic | ṢRB (Aramaic Root Atlas; CAL s.v. ṣrb) | Aramaic Root Atlas; CAL s.v. ṣrb | gloss withheld |
 | Hebrew | ṣarab 'burn' (BDB 863) | BDB 863 |  |
-| Epigraphic South Arabian | Sab mṣrb(n) (Biella, 428) | Biella 428 | gloss withheld |
+| Epigraphic South Arabian | Sab mṣrb(n) (Biella 428); (Sabaweb lemma 5210) | Biella 428; Sabaweb lemma 5210 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

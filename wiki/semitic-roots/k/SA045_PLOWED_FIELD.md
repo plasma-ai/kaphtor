@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab kdn (SD, 76; Biella, 241) | SD 76; Biella 241 | gloss withheld |
-| Arabic | Ar kadana kadnaᵗ (JSIMB/62; Biella, 241). | Biella 241 | gloss withheld |
+| Epigraphic South Arabian | Sab kdn (SD 76; Biella 241); (Sabaweb lemma 4449) | SD 76; Biella 241; Sabaweb lemma 4449 | gloss withheld |
+| Arabic | Ar kadana kadnaᵗ (Jamme 1962, 62 apud Biella 241). | Jamme 1962, 62; Biella 241 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

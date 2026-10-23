@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṭalasa 'effaced' (Lane 1866) | Lane 1866 |  |
 | Aramaic | ṬLŠ 'stained' | Anderson–Moser 2024 root ṭlš |  |
 | Geez | ṭalsa 'charred' | Anderson–Moser 2024 root ṭlš |  |
-| Amharic | ṭälläsä (LGz., 592) | LGz. 592 | gloss withheld |
+| Amharic | ṭälläsä (LGz. 592) | LGz. 592 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | warā (HALOT 436) | HALOT 436 |  |
 | Arabic | wry (HALOT 436) | HALOT 436 |  |
 | Amharic | warra (HALOT 436) | HALOT 436 |  |
-| Syrian Aramaic | ʾōraytā (LGz., 40) | LGz. 40 | gloss withheld |
+| Syrian Aramaic | ʾōraytā (LGz. 40) | LGz. 40 | gloss withheld |
 | Judaic Aramaic | yrh (HALOT 436) | HALOT 436 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

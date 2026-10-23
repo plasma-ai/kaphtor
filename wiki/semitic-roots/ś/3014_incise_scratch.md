@@ -35,10 +35,10 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | sirṭā (HALOT 1355) | HALOT 1355 |  |
 | Syrian Aramaic | sraṭ 'scratch, incise; write down' (Payne Smith 391) | Payne Smith 391 |  |
 | Mandaic Aramaic | sarṭata (HALOT 1355) | HALOT 1355 |  |
-| Tigrinya | säṭärä (LGz., 537) | LGz. 537 |  |
-| Harari | sēṭära (LGz., 537) | LGz. 537 |  |
-| Gurage | šäṭärä, sənäṭärä (LGz., 537) | LGz. 537 |  |
-| Amharic | sənṭər, sənəṭṭar, šənṭər (LGz., 537) | LGz. 537 |  |
+| Tigrinya | säṭärä (LGz. 537) | LGz. 537 |  |
+| Harari | sēṭära (LGz. 537) | LGz. 537 |  |
+| Gurage | šäṭärä, sənäṭärä (LGz. 537) | LGz. 537 |  |
+| Amharic | sənṭər, sənəṭṭar, šənṭər (LGz. 537) | LGz. 537 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

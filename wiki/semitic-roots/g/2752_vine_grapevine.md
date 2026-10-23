@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǧafn- 'vine, grapevine' (BK 1, 306) | BK 1, 306 |  |
-| Ugaritic | gpn (DUL, 306) | DUL 306 | gloss withheld |
+| Ugaritic | gpn (DULAT 301) | DULAT 301 | gloss withheld |
 | Hebrew | gepen (HALOT 200) | HALOT 200 | gloss withheld |
 | Syrian Aramaic | gufnā (HALOT 200) | HALOT 200 |  |
 | Epigraphic South Arabian | gpnt (HALOT 200) | HALOT 200 |  |

@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | gʿr 'reproach' | Anderson–Moser 2024 root gʿr |  |
 | Tigre | gaʿara (HALOT 199) | HALOT 199 |  |
 | Syrian Aramaic | gʕar 'chide, reprove, rebuke' (Payne Smith 76) | Payne Smith 76 |  |
-| Tigrinya | gäʿarä (LGz., 174) | LGz. 174 |  |
-| Amharic | garä (LGz., 174) | LGz. 174 |  |
+| Tigrinya | gäʿarä (LGz. 174) | LGz. 174 |  |
+| Amharic | garä (LGz. 174) | LGz. 174 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

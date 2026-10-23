@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | (?) AMM \[DM 22\]. | DM 22 | gloss withheld |
 | Syrian Aramaic | ʔitʕammī (Itpa) 'he was blinded' \[Brock 529\] | Brock 529 |  |
 | Tigrinya | ʕammätä 'to blindfold, to cover the eyes' \[Bass 675\] | Bass 675 |  |
-| Pre-Islamic North Arabian | Safaitic ʿmy (Al-Jallad–Jaworska, 53) | Al-Jallad–Jaworska 53 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿmy (Al-Jallad–Jaworska 53) | Al-Jallad–Jaworska 53 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

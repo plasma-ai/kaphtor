@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕdl \[-i-\] (Lane 1972) | Lane 1972 |  |
 | Hebrew | \*ʿdl (HALOT 792) | HALOT 792 |  |
-| Punic | ʿdl (T, 239) | T 239 | gloss withheld |
+| Punic | ʿdl (T 239) | T 239 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

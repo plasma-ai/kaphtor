@@ -37,10 +37,10 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | dobär |  | gloss withheld |
 | Judaic Aramaic | dabr- |  | gloss withheld |
 | Syrian Aramaic | dabr- |  | gloss withheld |
-| Tigrinya | däbri (LGz., 121) | LGz. 121 | gloss withheld |
-| Gafat | däbrä (LGz., 121) | LGz. 121 | gloss withheld |
-| Gurage | däbər (LGz., 121) | LGz. 121 | gloss withheld |
-| Amharic | däbər (LGz., 121) | LGz. 121 | gloss withheld |
+| Tigrinya | däbri (LGz. 121) | LGz. 121 | gloss withheld |
+| Gafat | däbrä (LGz. 121) | LGz. 121 | gloss withheld |
+| Gurage | däbər (LGz. 121) | LGz. 121 | gloss withheld |
+| Amharic | däbər (LGz. 121) | LGz. 121 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

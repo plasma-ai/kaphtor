@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mallāḥ- 'sailor' (BK 2, 1145) | BK 2, 1145 |  |
-| Akkadian | malāḫu (CAD M1, 153) | CAD M1, 153 | gloss withheld |
+| Akkadian | malāḫu (CAD M/1 153) | CAD M/1 153 | gloss withheld |
 | Hebrew | mallāḥ (HALOT 588) | HALOT 588 | gloss withheld |
-| Phoenician | mlḥ (T, 179) | T 179 | gloss withheld |
+| Phoenician | mlḥ (T 179) | T 179 | gloss withheld |
 | Syrian Aramaic | malāḥā 'sailor, mariner' (Payne Smith 276) | Payne Smith 276 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

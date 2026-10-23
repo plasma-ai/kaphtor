@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | nsʕ |  |  |
 | Hebrew | nsʕ |  |  |
 | Aramaic | nsʕ |  |  |
-| Phoenician | nsʿ (T, 215) | T 215 | gloss withheld |
+| Phoenician | nsʿ (T 215) | T 215 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

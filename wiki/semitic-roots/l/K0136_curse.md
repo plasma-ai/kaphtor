@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | laʕana 'cursed' | Anderson–Moser 2024 root lʿn |  |
 | Aramaic | LʿN (DNWSI 579 apud CAL) | DNWSI 579; CAL | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic lʿn (Al-Jallad–Jaworska, 92) | Al-Jallad–Jaworska 92 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic lʿn (Al-Jallad–Jaworska 92) | Al-Jallad–Jaworska 92 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

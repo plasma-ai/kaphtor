@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | zamāru 'sing' | Anderson–Moser 2024 root ḏmr |  |
 | Geez | zammara 'sing' | Anderson–Moser 2024 root ḏmr |  |
 | Hebrew | zamar 'sing' | Anderson–Moser 2024 root ḏmr |  |
-| Ugaritic | ḏmr (Gpass./Dpass.) (DULAT, 284) | DULAT 284 | gloss withheld |
+| Ugaritic | ḏmr (Gpass./Dpass.) (DULAT 284) | DULAT 284 | gloss withheld |
 | Arabic | zamara (HALOT 273) | HALOT 273 |  |
-| Syrian Aramaic | zəmar (LGz., 639; Payne Smith 117) | LGz. 639; Payne Smith 117 |  |
-| Mandaic Aramaic | zmar (LGz., 639; Drower/Macuch 169b apud CAL) | LGz. 639; Macuch 169b; CAL |  |
+| Syrian Aramaic | zəmar (LGz. 639; Payne Smith 117) | LGz. 639; Payne Smith 117 |  |
+| Mandaic Aramaic | zmar (LGz. 639; Drower/Macuch 169b apud CAL) | LGz. 639; Macuch 169b; CAL |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

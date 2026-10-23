@@ -35,14 +35,14 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Sod näč̣č̣ä |  | gloss withheld |
 | Hebrew | nēṣaḥ (HALOT 716) | HALOT 716 | gloss withheld |
 | Amharic | näč̣č̣ |  | gloss withheld |
-| Epigraphic South Arabian | nṣḥt |  | gloss withheld |
+| Epigraphic South Arabian | nṣḥt (Sabaweb lemma 4691) | Sabaweb lemma 4691 | gloss withheld |
 | Harari | näč̣īḥ \[LHar 117\] | LHar 117 | gloss withheld |
 | Syrian Aramaic | nṣḥ |  | gloss withheld |
 | Gafat | nǝṣwä |  | gloss withheld |
 | Aramaic | NṢḤ (Aramaic Root Atlas; CAL s.v. nṣḥ) | Aramaic Root Atlas; CAL s.v. nṣḥ | gloss withheld |
-| Soqotri | minṣaḥ (LGz., 405) | LGz. 405 | gloss withheld |
-| Tigre | läṣḥa, ləṣuḥ (LGz., 405) | LGz. 405 | gloss withheld |
-| Tigrinya | näṣḥe, nəṣuḥ (LGz., 405) | LGz. 405 | gloss withheld |
+| Soqotri | minṣaḥ (LGz. 405) | LGz. 405 | gloss withheld |
+| Tigre | läṣḥa, ləṣuḥ (LGz. 405) | LGz. 405 | gloss withheld |
+| Tigrinya | näṣḥe, nəṣuḥ (LGz. 405) | LGz. 405 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

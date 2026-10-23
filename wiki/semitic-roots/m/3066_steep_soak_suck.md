@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | marṯat (Lane 2704); marata, marasa (LGz., 360) | Lane 2704; LGz. 360 | gloss withheld |
-| Geez | marasa (LGz., 360) | LGz. 360 | gloss withheld |
+| Arabic | marṯat (Lane 2704); marata, marasa (LGz. 360) | Lane 2704; LGz. 360 | gloss withheld |
+| Geez | marasa (LGz. 360) | LGz. 360 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

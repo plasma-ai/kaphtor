@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez norā 3 'chalk, lime' (LGz., 401) (&lt; Arb. nūra, directly or via Amh. nora). Akkadian narû 1, 2 OA, OB CAD n1 364 Sum lw.
+Geez norā 3 'chalk, lime' (LGz. 401) (&lt; Arb. nūra, directly or via Amh. nora). Akkadian narû 1, 2 OA, OB CAD n1 364 Sum lw.
 
 <!-- END kaphtor:record -->

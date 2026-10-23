@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Nisannu (CAD N2, 265) | CAD N2, 265 | gloss withheld |
+| Akkadian | Nisannu (CAD N/2 265) | CAD N/2 265 | gloss withheld |
 | Hebrew | Nīsān (HALOT 696) | HALOT 696 | gloss withheld |
 | Syrian Aramaic | nīsān 'Nisan, the month' (Payne Smith 338) | Payne Smith 338 |  |
 

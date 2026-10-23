@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0712_embrace
 title: "*ḥabaq-: 'embrace'"
-desc: "Proto-Semitic *ḥabaq-, 'embrace': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḥabaq-, 'embrace': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0712"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḥafqa (Wb. 77b, Leslau 19 apud HALOT 287) | HALOT 287 |  |
 | Geez | ḥfq, ḥqf \[HALOT 287\] | HALOT 287 | gloss withheld |
 | Arabic | ḥabaqa \[HALOT 287\] | HALOT 287 | gloss withheld |
+| Eblaitic | ʔà-ba-gú-um /ḥabāḳum/ (VE 1184; Krebernik 1983, 42) | VE 1184; Krebernik 1983, 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

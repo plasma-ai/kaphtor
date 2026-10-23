@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | gof (also) \[LH 594\]; hardly from ARB ǧawf-, because of a wide scope of meanings in TGR only partly coinciding with ARB | LH 594 | gloss withheld |
 | Jibbali | mgɔffɔ́t \[JJ 72\] | JJ 72 | gloss withheld |
 | Hebrew | gūpā (HALOT 184). | HALOT 184 | gloss withheld |
-| Judaic Aramaic | gūpā (also) \[Ja 225\]; gwp \[Sok 124\] | Ja 225; Sok 124 | gloss withheld |
+| Judaic Aramaic | gūpā (also) \[Ja 225\]; gwp \[DJPA 124a apud CAL\] | Ja 225; DJPA 124a; CAL | gloss withheld |
 | Aramaic | HTR gwp \[HJ 23\] | HJ 23 | gloss withheld |
 | Modern South Arabian | gawf, gawaft (OLA80 §31.30) | OLA80 §31.30 | gloss withheld |
 | Harsusi | gawf; megefōt (SED I 95) | SED I 95 | gloss withheld |

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gōzāl (HALOT 182), pB. \[Ja. 220\] | HALOT 182; Ja. 220 | gloss withheld |
 | Judaic Aramaic | gōzālā 'brood, chick, esp. pigeon' \[Ja. 220\], gōzāl 'young bird' \[ibid. 122\], \[Levy WTM I 318\]. | Ja. 220; ibid. 122; Levy WTM I 318 |  |
 | Syrian Aramaic | zūgallā 'young pigeon' \[Brock. 188\], \[PS 1081\] (metathesis). | Brock. 188; PS 1081 |  |
-| Punic | gozol (Krahmalkov, 138) | Krahmalkov 138 | gloss withheld |
+| Punic | gozol (Krahmalkov 138) | Krahmalkov 138 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

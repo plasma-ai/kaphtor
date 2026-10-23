@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | lǝbb \[LH 39\] | LH 39 |  |
 | Eblaitic | li-bù /libbu(m)/ \[Kr 22; Bl E No. 65\] | Kr 22 |  |
 | Mandaic Aramaic | liba, lub, lbab (abs., constr.) \[DM 232, 234\] | DM 232, 234 | gloss withheld |
-| Ugaritic | lb \[DLU 240\] | DLU 240 |  |
+| Ugaritic | lb \[DULAT 485\] | DULAT 485 |  |
 | Geez | lǝbb (also) \[LGz 304\] | LGz 304 | gloss withheld |
 | Gurage | MUH SOD GOG lǝbb \[LGur 373\] | LGur 373 |  |
 | Biblical Aramaic | \*lēb (with suff. libb-), \*lǝbab (with suff. libǝb-) (BDB 1098) | BDB 1098 |  |
@@ -48,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ubbǝ́tǝ, ɛbbǝ́tǝ \[JJ 159\] (&lt;\*lVbb-ǝt) | JJ 159 |  |
 | Hebrew | lēb (HALOT 513), lēbāb (HALOT 516) | HALOT 513; HALOT 516 |  |
 | Amharic | lǝbb (also) \[K 71\] | K 71 | gloss withheld |
-| Epigraphic South Arabian | SAB lb \[SD 81\]; lbb \[ibid.\]; MIN lb \[LM 56\] | SD 81; ibid.; LM 56 | gloss withheld |
+| Epigraphic South Arabian | SAB lb \[SD 81; Sabaweb lemma 1287\]; lbb \[ibid.; Sabaweb lemma 4498\]; MIN lb \[LM 56\] | SD 81; Sabaweb lemma 1287; ibid.; Sabaweb lemma 4498; LM 56 | gloss withheld |
 | Judaic Aramaic | libbā, lǝbābā, libǝbā (also \[Ja 686\]); lb, det. läbbā, lybh, pl. lbbyn \[Sok 273\] | Ja 686; Sok 273 | gloss withheld |
 | Syrian Aramaic | lebbā \[Brock 354\] | Brock 354 |  |
 | Aramaic | OFF lb \[HJ 561\] | HJ 561 |  |

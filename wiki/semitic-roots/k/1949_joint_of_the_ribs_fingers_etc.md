@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ḳṣrt \[T 292\]. | T 292 | gloss withheld |
 | Judaic Aramaic | ḳiṭrā 'joint' \[Ja 1358\]. | Ja 1358 |  |
 | Syrian Aramaic | ḳǝṭartā 'joint (of a finger etc.)' \[Brock 662\] | Brock 662 |  |
-| Eblaitic | gi-zi-lu-um /ḳiṣrum/ (SED I 139) | SED I 139 |  |
+| Eblaitic | gi-zi-lu-um /ḳiṣrum/ (SED I 139; VE 992; Krebernik 1983, 36) | SED I 139; VE 992; Krebernik 1983, 36 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

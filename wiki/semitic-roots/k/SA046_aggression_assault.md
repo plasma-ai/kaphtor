@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab kfḥ (SD, 76; Biella, 250) | SD 76; Biella 250 | gloss withheld |
-| Arabic | Ar kafaḥa (Lane/2619C; Biella, 250). | Biella 250 | gloss withheld |
+| Epigraphic South Arabian | Sab kfḥ (SD 76; Biella 250) | SD 76; Biella 250 | gloss withheld |
+| Arabic | Ar kafaḥa (Lane 2619; Biella 250). | Lane 2619; Biella 250 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

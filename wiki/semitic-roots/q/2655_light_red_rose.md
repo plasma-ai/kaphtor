@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2655_light_red_rose
 title: "*ḳḥ: 'light red, rose'"
-desc: "Proto-Semitic *ḳḥ, 'light red, rose': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ḳḥ, 'light red, rose': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2655"
@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳuḥḥ- 'pure, straightforward, unmixed (speaking of drinks); unripe/immature (speaking of a quality, a virtue, a vice, etc.)' (BK II 677), ḳayḥ- 'pus (that is not mixed with blood)' (ibid. 844) | BK II 677; ibid. 844 |  |
-| Akkadian | (?) ḳû (gû) (CAD Q, 291) | CAD Q, 291 | gloss withheld |
+| Akkadian | (?) ḳû (gû) (CAD Q 291) | CAD Q 291 | gloss withheld |
 | Tigre | ḳäyǝḥ (Kogan 2015, ch. 7 §2.5 no. 66) | Kogan 2015, ch. 7 §2.5 no. 66 | gloss withheld |
 | Geez | ḳayyiḥ |  | gloss withheld |
 | Amharic | ḳäyy (Kogan 2015, ch. 7 §2.5 no. 66) | Kogan 2015, ch. 7 §2.5 no. 66 | gloss withheld |
@@ -41,8 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | ḳäyä (Kogan 2015, ch. 7 §2.5 no. 66) | Kogan 2015, ch. 7 §2.5 no. 66 | gloss withheld |
 | Argobba | ḳäyyǝh |  | gloss withheld |
 | Tigrinya | ḳäyyiḥ |  | gloss withheld |
-| Greek | βρόδον (OLA80 §65.5) | OLA80 §65.5 | gloss withheld |
-| Gurage | qäy (LGz., 456) | LGz. 456 | gloss withheld |
+| Gurage | qäy (LGz. 456) | LGz. 456 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

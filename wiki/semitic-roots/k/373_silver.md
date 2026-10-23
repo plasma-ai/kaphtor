@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | kaspu |  |  |
-| Ugaritic | ksp (DUL, 460); /kaspu/ (UVST, 139) | DUL 460; UVST 139 | gloss withheld |
-| Phoenician | ksp (DNWSI, 539); ksp (T, 147) | DNWSI 539; T 147 | gloss withheld |
+| Ugaritic | ksp (DULAT 458); /kaspu/ (UVST 139) | DULAT 458; UVST 139 | gloss withheld |
+| Phoenician | ksp (DNWSI 524 apud SEDonline 2008); ksp (T 147) | DNWSI 524; SEDonline 2008; T 147 | gloss withheld |
 | Hebrew | käsäp |  |  |
 | Syrian Aramaic | kespā (HALOT 490; Payne Smith 221) | HALOT 490; Payne Smith 221 |  |
-| Aramaic | kspʾ (T, 147) | T 147 |  |
-| Judaic Aramaic | kaspaʾ (T, 147) | T 147 |  |
-| Mandaic Aramaic | kaspaʾ (T, 147) | T 147 |  |
+| Aramaic | kspʾ (T 147) | T 147 |  |
+| Judaic Aramaic | kaspaʾ (T 147) | T 147 |  |
+| Mandaic Aramaic | kaspaʾ (T 147) | T 147 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

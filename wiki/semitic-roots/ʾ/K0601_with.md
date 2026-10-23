@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | ʾt 'with' | Anderson–Moser 2024 root ʾt |  |
-| Ugaritic | \*/ʾit/ (UVST, 111) | UVST 111 | gloss withheld |
+| Ugaritic | \*/ʾit/ (UVST 111) | UVST 111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

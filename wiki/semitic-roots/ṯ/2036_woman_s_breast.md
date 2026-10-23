@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ṯd \[Aist 332\]. | Aist 332 | gloss withheld |
 | Jibbali | ṯɔ́dɛʔ \[JJ 283\] | JJ 283 | gloss withheld |
 | Hebrew | šād (du. šādayim) (HALOT 1416, 1417), šōd (HALOT 1418) | HALOT 1416, 1417; HALOT 1418 | gloss withheld |
-| Judaic Aramaic | taddā \[Ja 1647\]; td (pl. tdyn, tddyn) \[Sok 575\] | Ja 1647; Sok 575 | gloss withheld |
+| Judaic Aramaic | taddā \[Ja 1647\]; td (pl. tdyn, tddyn) \[DJPA 575b apud CAL\] | Ja 1647; DJPA 575b; CAL | gloss withheld |
 | Syrian Aramaic | tǝdā 'breast' \[Brock 816\] | Brock 816 |  |
 | Aramaic | tādā (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
 

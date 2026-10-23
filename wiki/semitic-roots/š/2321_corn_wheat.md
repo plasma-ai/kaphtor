@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | mǝ-hnoy (JM, 159) | JM 159 | gloss withheld |
-| Soqotri | šáne, héne (LS, 145) | LS 145 | gloss withheld |
-| Akkadian | ašnanu OB on (AHw, 82; &lt;\*ʔa-šnan-, with prefixed ʔa-) | AHw 82 | gloss withheld |
-| Jibbali | mǝ-šnuʔ, ešné (JJ, 263) | JJ 263 | gloss withheld |
+| Mehri | mǝ-hnoy (JM 159) | JM 159 | gloss withheld |
+| Soqotri | šáne, héne (LS 145); ʸhéne (SLOnline 7253) | LS 145 | gloss withheld |
+| Akkadian | ašnanu OB on (AHw 82; &lt;\*ʔa-šnan-, with prefixed ʔa-) | AHw 82 | gloss withheld |
+| Jibbali | mǝ-šnuʔ, ešné (JJ 263) | JJ 263 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

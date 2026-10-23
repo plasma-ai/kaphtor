@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḳuppǝdā 'hedgehog' \[Brock. 682\], \[PS 3687\]. | Brock. 682; PS 3687 |  |
 | Aramaic | Sam. ḳpd \[Tal 789\], ḳnpd id. \[ibid. 787\]. | Tal 789; ibid. 787 | gloss withheld |
 | Tigrinya | ḳǝnfǝz 'porcupine' \[Bass. 272\]. | Bass. 272 |  |
-| Modern Aramaic | Tur. ḳuvdo, ḳubḏo (SED II 181) | SED II 181 |  |
+| Modern Aramaic | Tur. ḳuvdo, ḳubḏo (SED II 182) | SED II 182 |  |
 | Phoenician | qpd (HALOT 1117) | HALOT 1117 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

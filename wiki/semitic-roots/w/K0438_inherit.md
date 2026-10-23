@@ -33,20 +33,20 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | YRT (DNWSI 471 apud CAL) | DNWSI 471; CAL | gloss withheld |
 | Hebrew | yaraš; yᵉruššā (HALOT 442) | HALOT 442 | gloss withheld |
 | Ugaritic | yrṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015, ch. 2 §4.2 no. 66 | gloss withheld |
-| Epigraphic South Arabian | Sab wrṯ (SD, 162; Biella, 150) | SD 162; Biella 150 | gloss withheld |
-| Soqotri | ʾeret (HALOT 441) | HALOT 441 |  |
+| Epigraphic South Arabian | Sab wrṯ (SD 162; Biella 150) | SD 162; Biella 150 | gloss withheld |
+| Soqotri | ʾeret (HALOT 441); éret (SLOnline 3139) | HALOT 441 | gloss withheld |
 | Tigre | war(a)sa (HALOT 441) | HALOT 441 |  |
 | Syrian Aramaic | īret (HALOT 441) | HALOT 441 |  |
-| Geez | warasa (LGz., 618) | LGz. 618 |  |
-| Tigrinya | wäräsä (LGz., 618) | LGz. 618 |  |
-| Gurage | wäräsä (LGz., 618) | LGz. 618 |  |
-| Amharic | wärräsä (LGz., 618) | LGz. 618 |  |
-| Gafat | wärräsä (LGz., 618) | LGz. 618 |  |
-| Argobba | wärräsa (LGz., 618) | LGz. 618 |  |
-| Harari | wäräsa (LGz., 618) | LGz. 618 |  |
+| Geez | warasa (LGz. 618) | LGz. 618 |  |
+| Tigrinya | wäräsä (LGz. 618) | LGz. 618 |  |
+| Gurage | wäräsä (LGz. 618) | LGz. 618 |  |
+| Amharic | wärräsä (LGz. 618) | LGz. 618 |  |
+| Gafat | wärräsä (LGz. 618) | LGz. 618 |  |
+| Argobba | wärräsa (LGz. 618) | LGz. 618 |  |
+| Harari | wäräsa (LGz. 618) | LGz. 618 |  |
 | Jibbali | erɔ́ṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015, ch. 2 §4.2 no. 66 | gloss withheld |
 | Mehri | wīrəṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015, ch. 2 §4.2 no. 66 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic wrṯ (Al-Jallad–Jaworska, 141) | Al-Jallad–Jaworska 141 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wrṯ (Al-Jallad–Jaworska 141) | Al-Jallad–Jaworska 141 | gloss withheld |
 | Judaic Aramaic | yrt (HALOT 441) | HALOT 441 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḳerbu, OB on \[CAD ḳ 216\], \[AHw 914-915\] | CAD ḳ 216; AHw 914-915 | gloss withheld |
 | Ugaritic | ḳrb \[Aist 282\] | Aist 282 | gloss withheld |
 | Hebrew | ḳäräb (HALOT 1135) | HALOT 1135 | gloss withheld |
-| Eblaitic | (?) kir-buₓ /ḳirbu(m)/ (SED I 149) | SED I 149 |  |
+| Eblaitic | (?) kir-buₓ /ḳirbu(m)/ (SED I 149; VE 586; Krebernik 1983, 22) | SED I 149; VE 586; Krebernik 1983, 22 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

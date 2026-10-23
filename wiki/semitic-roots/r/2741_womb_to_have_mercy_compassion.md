@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | raḥima 'to have mercy' (BK 1, 838) | BK 1, 838 |  |
-| Akkadian | rēmu (CAD R, 259) | CAD R, 259 | gloss withheld |
-| Ugaritic | rḥm (DULAT, 725) | DULAT 725 | gloss withheld |
+| Akkadian | rēmu (CAD R 259) | CAD R 259 | gloss withheld |
+| Ugaritic | rḥm (DULAT 725) | DULAT 725 | gloss withheld |
 | Hebrew | reḥem (HALOT 1217) | HALOT 1217 | gloss withheld |
-| Epigraphic South Arabian | Sab rḥm (SD, 116, 117; Biella, 481, 485) | SD 116, 117; Biella 481, 485 | gloss withheld |
+| Epigraphic South Arabian | Sab rḥm (SD 116, 117; Biella 481, 485) | SD 116, 117; Biella 481, 485 | gloss withheld |
 | Mehri | raḥm \[JM 321\]; also mǝrḥām do. \[ibid. 322\] | JM 321; ibid. 322 | gloss withheld |
 | Tigre | rǝḥm \[LH 146\]. | LH 146 | gloss withheld |
 | Eblaitic | rí-ʔex(EN)-mu, rí-mu-um /reḥmum/ \[Kr 14; Bl E No. 80\] | Kr 14 | gloss withheld |
@@ -48,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | maḥara, mĕḥĕra (metathesized \*mḥr) (HALOT 1216) | HALOT 1216 |  |
 | Tigrinya | mäḥarä; rəḥm-u (SED I 204) | SED I 204 | gloss withheld |
 | Harsusi | reḥām (SED I 204) | SED I 204 | gloss withheld |
-| Amharic | marä (SED I 204) | SED I 204 | gloss withheld |
+| Amharic | marä (SED I 204–205) | SED I 204–205 | gloss withheld |
 | East Ethiopic | WOL marä, SEL ZWY mārä (SED I 205) | SED I 205 | gloss withheld |
 | Amorite | rḥm: jirḥam, jarḥam, raḥimum, raḥima (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
 

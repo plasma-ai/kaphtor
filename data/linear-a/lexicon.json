@@ -981,7 +981,6 @@
       "cognates": {
         "Ugaritic": "hd(d) 'Haddu (Hadad), storm god' (see A-DU)",
         "Akkadian": "Addu (= Adad) 'storm god'",
-        "Amarna Canaanite": "dabru 'sanctuary, holy place' (EA 244, Moran p. 304; see DU-PU₂-RE)",
         "Hebrew": "dəvîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5)"
       },
       "tier": 3,
@@ -1253,7 +1252,7 @@
         "HT96a",
         "HT96b"
       ],
-      "note": "HT96a+b (Scribe 8, Casa Room 7, LMIB). HT96b heads major institutional allocation: QA-*118-RA-RE (qaṭara 'incense') + *516 (SIPRU) + GRA 40¾ + OLE+U 4 + NI 2. Short form PA-RA-NE attested on HT115a/b (same scribe) || TWO COMPETING ETYMOLOGIES: (1) √ʿ-b-r + -āne agentive = 'the crosser/one from beyond' (= ʿibrī 'Hebrew'). Dual reading requires PA→BA neutralization. (2) √b-r-ʾ + -āne = 'creator' (aleph drops) || REJECTED: Aaron (ʾAhărōn)—PA ≠ /ha/, fatal mismatch || Amorite Ḥa-pí-ra-an (Huffmon APNM p. 36; element ḤPR ḥapir-, *ʿapir- = the ʿApiru/Ḥabiru word, p. 202) and ʾAPR-AN AP-RA-AN (Gelb AS 21 no. 863) match A-PA-RA-NE (initial A = ʿa) with -ān; cuneiform ḫ writes ʿ. Root disputed: Borger (via Huffmon p. 202) derives ʿapīru from ʿ-p-r 'dust', not ʿ-b-r 'cross'; PA writes p and b alike.",
+      "note": "HT96a+b (Scribe 8, Casa Room 7, LMIB). HT96b heads major institutional allocation: QA-*118-RA-RE (qaṭara 'incense') + *516 (SIPRU) + GRA 40¾ + OLE+U 4 + NI 2. Short form PA-RA-NE attested on HT115a/b (same scribe) || TWO COMPETING ETYMOLOGIES: (1) √ʿ-b-r + -āne agentive = 'the crosser/one from beyond' (= ʿibrī 'Hebrew'). Dual reading requires PA→BA neutralization. (2) √b-r-ʾ + -āne = 'creator' (aleph drops) || REJECTED: Aaron (ʾAhărōn)—PA ≠ /ha/, fatal mismatch || Amorite Ḥa-pí-ra-an (Huffmon APNM p. 36; element ḤPR ḥapir-, *ʿapir- = the ʿApiru/Ḥabiru word, p. 202) matches A-PA-RA-NE (initial A = ʿa) with -ān; cuneiform ḫ writes ʿ. AP-RA-AN (Gelb AS 21 no. 863) is a separate name, normalized ʾApran; cuneiform AP- writes ʾ and ʿ alike. Root disputed: Borger (via Huffmon p. 202) derives ʿapīru from ʿ-p-r 'dust', not ʿ-b-r 'cross'; PA writes p and b alike.",
       "source": "di Mino"
     },
     {
@@ -1555,9 +1554,9 @@
     },
     {
       "word": "A-TA-NA",
-      "reading": "ʾatanā",
-      "meaning": "Atanā (Athena)—divine name, feminine of √y-t-n 'to give' with regular I-y > ʾ weakening",
-      "root": "ʾ-t-n",
+      "reading": "ʾAtanat",
+      "meaning": "ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with regular I-y > ʾ weakening; the etymon of Athena (di Mino, Ya Diktu p. 20)",
+      "root": "y-t-n",
       "cognates": {
         "Linear B": "a-ta-na-po-ti-ni-ja (KN V 52)—divine offering list alongside e-nu-wa-ri-jo, pa-ja-wo-ne, po-se-da-o-ne",
         "Greek": "Ἀθάνα (Doric), Ἀθήνη (Ionic/Attic)—universally pre-Greek, no established etymology (Beekes 2010)",
@@ -1575,7 +1574,7 @@
       "attestations": [
         "ZA9"
       ],
-      "note": "Root √ʾ-t-n (lexicalized divine name from √y-t-n after y > ʾ weakening). Feminine participle *yātanāt > *ʾātanā. Phoenician preserves the y-initial verbal form: BʿLYTN = Baʿal-yatōn 'Baʿal has given' (KAI). Greek receives the post-weakened form: Mycenaean a-ta-na-po-ti-ni-ja (KN V 52), Classical Ἀθάνα (Doric) / Ἀθήνη (Ionic). Beekes (EDG 2010): no IE etymology, classified pre-Greek. Founding myth preserves the etymology: Athena wins Athens by GIVING the olive tree. Six √y-t-n / √n-t-n forms across the corpus (JA-TA-NO and A-TA-NO are Gordon's misreadings of the formula verb and do not count). A-TA-NA = ʾatanā 'the giver (f.)'. The A-/∅ alternation (A-TA-NA-TE vs TA-NA-TE on ZA10a) follows the same scribal convention as 4 other corpus pairs (A-PA-RA-NE/PA-RA-NE, A-MI-TA/MI-TA, A-SA-SA-RA-ME/SA-SA-RA-ME, A-DU/DU). ZA9, the only witness, reads A-TA-NA-[·] (GORILA III 166–67: \"A-TA-NA-TE possible\"): the last sign is lost and no divider follows NA, so ZA9 most likely writes A-TA-NA-TE as on ZA10a, and the bare stem stands only inside A-TA-NA-TE and A-TA-NA-JE. || CONTEXT: A-TA-NA-TE on ZA10a and A-TA-NA-JE on THEZb6 have their own entries. ZA9 is a personnel list under NU-TI—RO-SI-RA QI+SI 4, A-TA-NA-[·] QI+SI 2, [·]-MA-JU *21F 2, WI-RA-RE-MI-TE *21F 1—where the name reads most naturally as a person named for the goddess, not the goddess herself.",
+      "note": "Root √ʾ-t-n (lexicalized divine name from √y-t-n after y > ʾ weakening). Feminine *yātanat > ʾAtanat. Phoenician preserves the y-initial verbal form: BʿLYTN = Baʿal-yatōn 'Baʿal has given' (KAI). Greek receives the post-weakened form: Mycenaean a-ta-na-po-ti-ni-ja (KN V 52), Classical Ἀθάνα (Doric) / Ἀθήνη (Ionic). Beekes (EDG 2010): no IE etymology, classified pre-Greek. Founding myth preserves the etymology: Athena wins Athens by GIVING the olive tree. Six √y-t-n / √n-t-n forms across the corpus (JA-TA-NO and A-TA-NO are Gordon's misreadings of the formula verb and do not count). ZA9 reads /ʾAtanat/ 'She-who-gives' (di Mino, Ya Diktu p. 20). The A-/∅ alternation (A-TA-NA-TE vs TA-NA-TE on ZA10a) follows the same scribal convention as 4 other corpus pairs (A-PA-RA-NE/PA-RA-NE, A-MI-TA/MI-TA, A-SA-SA-RA-ME/SA-SA-RA-ME, A-DU/DU). ZA9, the only witness, reads A-TA-NA-[·] (GORILA III 166–67: \"A-TA-NA-TE possible\"): the last sign is lost and no divider follows NA, so ZA9 most likely writes A-TA-NA-TE as on ZA10a, and the bare stem stands only inside A-TA-NA-TE and A-TA-NA-JE. || CONTEXT: A-TA-NA-TE on ZA10a and A-TA-NA-JE on THEZb6 have their own entries. ZA9 lists names with QI+SI and *21F amounts under NU-TI—RO-SI-RA QI+SI 4, A-TA-NA-[·] QI+SI 2, [·]-MA-JU *21F 2, WI-RA-RE-MI-TE *21F 1—where the name reads most naturally as a person named for the goddess, not the goddess herself.",
       "source": "di Mino",
       "related_forms": [
         "A-TA-NA-TE (ZA10a, SPECULATIVE)",
@@ -1696,10 +1695,9 @@
         "HTWa1002",
         "HTWa1003",
         "HTWa1004",
-        "HTWa1005",
-        "SEZf1"
+        "HTWa1005"
       ],
-      "note": "5× sole word on HT nodules = commodity label; DA-KU variant at Selakanos; Heb. דָּג, Ug. dg; g→KA standard voicing neutralization.",
+      "note": "5× sole word on HT nodules = commodity label; Heb. דָּג, Ug. dg; g→KA standard voicing neutralization.",
       "source": "di Mino"
     },
     {
@@ -1733,8 +1731,8 @@
       "attestations": [
         "HT103"
       ],
-      "note": "No exact Dakušenni is attested in the Nuzi Personal Names corpus. Nuzi does attest Aku-šenni, Takku (Ta-ak-ku, Ta-a-ku, Ta-ku, Ta-gu), and Takuja (Ta-ku-ia; variant Da-ku-a-a): Gelb, Purves, and MacRae 1943, s.vv. AKU-ŠENNI, TAKKU, TAKUJA. The closest full compound is Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, analyzed as Hurrian Taki-šenni (NPN p. 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35). Hurrian šena ‘brother’ with the article -ni accounts for the onomastic element -šenni (Laroche 1980, 225–26); the first element remains unexplained. Linear A DA-KU can spell /ta.ku/ under stop neutralization, but the vowel differs; /Takušenni/ is therefore a comparative reconstruction, not an exact external attestation. HT 103 .4–5 DA-KU-SE-NE 1 (on .2–3 a break follows NE) and extended DA-KU-SE-NE-TI on HT104 support an entity or name. The pair favors suffixation, but GORILA I 171 allows final TI to be an ideogram or classifier; Finkelberg 2002/03, 96–97 instead proposes a dative/recipient function.",
-      "source": "Gordon 1966; Gelb, Purves, and MacRae 1943; Tropper 2000; Laroche 1980"
+      "note": "No exact Dakušenni is attested in the Nuzi Personal Names corpus. Nuzi does attest Aku-šenni, Takku (Ta-ak-ku, Ta-a-ku, Ta-ku, Ta-gu), and Takuja (Ta-ku-ia; variant Da-ku-a-a): Gelb, Purves, and MacRae 1943, s.vv. AKU-ŠENNI, TAKKU, TAKUJA. The closest full compound is Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, analyzed as Hurrian Taki-šenni (NPN p. 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35). Hurrian šēna ‘brother’ with the individualizing -ni, šen=ni, accounts for the onomastic element -šenni (Giorgieri 2000, 199, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26, s.v. šeni); the first element remains unexplained. Linear A DA-KU can spell /ta.ku/ under stop neutralization, but the vowel differs; /Takušenni/ is therefore a comparative reconstruction, not an exact external attestation. HT 103 .4–5 DA-KU-SE-NE 1 (on .2–3 a break follows NE) and extended DA-KU-SE-NE-TI on HT104 support an entity or name. The pair favors suffixation, but GORILA I 171 allows final TI to be an ideogram or classifier; Finkelberg 2002/03, 96–97 instead proposes a dative/recipient function.",
+      "source": "Gordon 1966; Gelb, Purves, and MacRae 1943; Tropper 2000; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian"
     },
     {
       "word": "DA-ME",
@@ -2020,7 +2018,7 @@
       "attestations": [
         "KOZa1"
       ],
-      "note": "Preferred as a word-specific variant of DU-PU₂-RE, attested in the same ritual corpus at PKZa15 and HTZb160. Facchetti (1999, 132) and Davis (2013, 44 n. 46) identify *314 here as an orthographic variant of PU₂; Thomas (2020, 8) cautiously accepts the comparison. On di Mino's Semitic reading, dubur means 'sanctuary, inner sanctum' (√d-b-r; cf. Hebrew dəbīr and Amarna Canaanite dabru), forming dubur ʾIda, 'the sanctuary of Ida.' This is a word-specific equation, not a value assigned to every *314. The former du ḥōr(e) is withdrawn. RI would yield √d-r-r comparanda but no secure contextual parse. GORILA IV 20 dots DU and RE; *314 is whole.",
+      "note": "Preferred as a word-specific variant of DU-PU₂-RE, attested in the same ritual corpus at PKZa15 and HTZb160. Facchetti (1999, 132) and Davis (2013, 44 n. 46) identify *314 here as an orthographic variant of PU₂; Thomas (2020, 8) cautiously accepts the comparison. On di Mino's Semitic reading, dubur means 'sanctuary, inner sanctum' (√d-b-r; cf. Hebrew dəbīr), forming dubur ʾIda, 'the sanctuary of Ida.' This is a word-specific equation, not a value assigned to every *314. RI would yield √d-r-r comparanda but no secure contextual parse. GORILA IV 20 dots DU and RE; *314 is whole.",
       "source": "Facchetti 1999, 132; Davis 2013, 44 n. 46; Thomas 2020, 8; di Mino"
     },
     {
@@ -2029,16 +2027,8 @@
       "meaning": "sanctuary, inner sanctum (dubur)",
       "root": "d-b-r",
       "cognates": {
-        "Amarna": {
-          "form": "dabru",
-          "meaning": "sanctuary, holy place",
-          "root": "√d-b-r",
-          "ea_references": [
-            "EA 244 n.5"
-          ],
-          "moran_page": "p. 304",
-          "note": "Canaanite gloss in Megiddo letter. Convergent attestation: Moran independently identifies dabru as WS \"sanctuary\" in 14th-c. Egyptian diplomatic corpus; we independently read DU-PU₂-RE as *dubur from 15th–19th c. Aegean script."
-        }
+        "Hebrew": "dəbîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5)",
+        "Linear B": "da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702), identified with λαβύρινθος (Chadwick–Baumbach 1963, p. 216)"
       },
       "tier": 3,
       "confidence": "PROBABLE",
@@ -2052,8 +2042,8 @@
         "HTZb160",
         "PKZa8"
       ],
-      "note": "di Mino's hypothesis linking three orthographic strategies: *307 alone, *307-PU₂-RE, and DU-PU₂-RE. The phonetic spelling and Amarna Canaanite dabru 'sanctuary' make /dubur/ or /dabru/ a strong candidate, with Hebrew dəbîr as a later cognate. The equivalence is not epigraphically automatic in every *307 occurrence: on HT89, *307 is an uncomplemented heading sign and does not independently establish 'sanctuary.' No independent evidence shows that the three spellings are semantically identical. DU-PU₂-RE never stands alone: it is written inside JA-DI-KI-TE-TE-DU-PU₂-RE (PK Za 15) and PA-TA-DA-DU-PU₂-RE (HT Zb 160). PK Za 11 reads A-DI-KI-TE-TE-[··]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15.",
-      "source": "di Mino; Amarna Canaanite dabru; Facchetti 1999; Thomas 2020"
+      "note": "di Mino's hypothesis linking three orthographic strategies: *307 alone, *307-PU₂-RE, and DU-PU₂-RE. The phonetic spelling, Hebrew dəbîr 'inner sanctuary' and Linear B da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702) make /dubur/ a strong candidate. The equivalence is not epigraphically automatic in every *307 occurrence: on HT89, *307 is an uncomplemented heading sign and does not independently establish 'sanctuary.' No independent evidence shows that the three spellings are semantically identical. DU-PU₂-RE never stands alone: it is written inside JA-DI-KI-TE-TE-DU-PU₂-RE (PK Za 15) and PA-TA-DA-DU-PU₂-RE (HT Zb 160). PK Za 11 reads A-DI-KI-TE-TE-[··]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15.",
+      "source": "di Mino; Facchetti 1999; Thomas 2020"
     },
     {
       "word": "DU-RA-RE",
@@ -2120,9 +2110,9 @@
     },
     {
       "word": "GRA+PA",
-      "reading": "parsu?",
-      "meaning": "grain subtype or processed-grain allocation",
-      "root": "p-r-s?",
+      "reading": "parīsu",
+      "meaning": "parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś)",
+      "root": "p-r-s",
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.45,
@@ -2145,7 +2135,7 @@
         "ZA18a",
         "ZA28"
       ],
-      "note": "GRA ideogram + PA adjunct, attested at four sites and often assigned large dry-measure quantities. The corpus securely establishes a distinct grain category; PA alone does not establish the full phonographic reading parsu. Compare Akkadian parsu 'portion, ration, share' (CAD P 196) and Biblical Aramaic pĕrēs 'half-portion' (Dan 5:28), provisionally. HT102 has PA₃-NI GRA+PA 33 and, after a lacuna, VIR GRA+PA 33; the source reads ]VIR, not VIR+[?]. HT120 distinguishes GRA+PA from GRA+K+L and GRA+B.",
+      "note": "GRA ideogram + PA, the initial of parīsu, attested at four sites and often assigned large dry-measure quantities: Akkadian parīsu B '(a measure of capacity) one-half of a gur' (CAD P 186), Ugaritic prś/prs, a dry measure of half a gur (DULAT 671–72), and Biblical Aramaic pĕrēs 'half-portion' (Dan 5:28). HT102 has PA₃-NI GRA+PA 33 and, after a lacuna, VIR GRA+PA 33; the source reads ]VIR, not VIR+[?]. HT120 distinguishes GRA+PA from GRA+K+L and GRA+B.",
       "source": "di Mino"
     },
     {
@@ -2224,10 +2214,10 @@
       "reading": "ʾidamat",
       "meaning": "the tower (DA-MA-TE with prothetic I-)",
       "root": "d-m-t",
-      "cognates": "Cf. Ugaritic dmt \"tower\" and dmtqdš \"Tower\" (DULAT 272); Akkadian dimtu \"tower; fortified area, settlement; district\" (CAD D, 144–147; Huehnergard 1997). The unprefixed DA-MA-TE is independently attested at KY Za 2.",
+      "cognates": "Cf. Ugaritic dmt \"tower\", in \"the tower of the mother of(?) the god[s(?)\" (KTU 2.31:46), and dmtqdš \"Tower\" (DULAT 272); Akkadian dimtu \"tower; fortified area, settlement; district\" (CAD D, 144–147; Huehnergard 1997). The unprefixed DA-MA-TE is independently attested at KY Za 2.",
       "tier": 2,
       "confidence": "CANDIDATE",
-      "confidence_score": 0.65,
+      "confidence_score": 0.6,
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
@@ -2256,7 +2246,7 @@
       "attestations": [
         "KYZa2"
       ],
-      "note": "KY Za 2, a stone vessel from Kythera, DA-MA-TE alone. The base of I-DA-MA-TE (AR Zf 1, 2), read 'the tower': Ug. dmt (I) 'tower' (DULAT 272), Akk. dimtu 'tower; fortified area; district' (CAD D 144–147). Rival: a personal name. One attestation.",
+      "note": "KY Za 2, a stone vessel from Kythera, DA-MA-TE alone. The base of I-DA-MA-TE (AR Zf 1, 2), read 'the tower': Ug. dmt (I) 'tower', in 'the tower of the mother of(?) the god[s(?)' (KTU 2.31:46; DULAT 272), Akk. dimtu 'tower; fortified area; district' (CAD D 144–147). Rival: a personal name. One attestation.",
       "source": "di Mino"
     },
     {
@@ -3716,7 +3706,7 @@
       "meaning": "devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group",
       "root": "Kubaba + -ān- + -at-",
       "cognates": {
-        "Anatolian/North Syrian": "Kubaba, divine name (Ugarit, Carchemish); Hurrian Kubaba (Laroche, GLH 75)",
+        "Anatolian/North Syrian": "Kubaba, divine name (Ugarit, Carchemish); Hurrian Kubaba (Laroche 1980, 150)",
         "Amorite": "Kupapa, fem. DN (Gelb glossary); ʾAlli-Kupapa, Baʿli-Kupapa (nos. 708, 2094); short base in Kubb-ān-um (no. 4148) and Kuba-ʾEl (nos. 4099–4100), which Gelb segments kubb-, kuʾb-",
         "Akkadian": "ištarītu 'a priestess', named from Ištar; Kubabat (Old Assyrian); rival gubnatu 'cheese made from sheep milk', CAD G 117, Late Babylonian and labeled an Aramaic loanword",
         "Hebrew": "rival gəbīnā 'cheese, curds' (Job 10:10)",
@@ -3734,7 +3724,7 @@
         "HT119"
       ],
       "note": "Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT88, where KU-PA₃-NU also stands). HT119 KU-RO 160 includes *327 34 and VIR 68, so KU-PA₃-NA-TU 7 counts persons. HT47a KU-PA₃-NA-TU 20[ is broken. Amorite has the short base with the same -ān- in Kubb-ān-um (Gelb, AS 21, no. 4148), and in Kuba-ʾEl (nos. 4099–4100), so the name need not write Kubaba's second BA. Akkadian ištarītu, a priestess named from Ištar, is the same type. APZa2 I-KU-PA₃-NA-TU-NA-TE carries the stem. Rival: gubnatu 'cheese(s)', which HT119's personnel total excludes there.",
-      "source": "di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, GLH 75; CAD G, 117, s.v. gubnatu; Leslau 1987, 178; Thomas 2020, 10–11; Furumark 1988, 63, 67 (cited by Sucharski 2002, 28); Jiménez Delgado 2024, 439",
+      "source": "di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, 150; CAD G, 117, s.v. gubnatu; Leslau 1987, 178; Thomas 2020, 10–11; Furumark 1988, 63, 67 (cited by Sucharski 2002, 28); Jiménez Delgado 2024, 439",
       "parallels": {
         "linear_a": "Both administrative attestations are quantified: 20 on broken HT47a and 7 on HT119, where KU-RO 160 includes *327 34 and VIR 68, so the entry counts persons. The base KU-PA₃- takes -NU (KU-PA₃-NU), -NA-TU and -RI-JA (KU-PA₃-RI-JA); HT88 has KU-PA₃-PA₃ Kubaba beside KU-PA₃-NU. Thomas treats the longer APZa2 sequence as an inflectional variant of this base.",
         "semitic": "With PA₃ = /ba/ and K-series voicing left open, KU-PA₃-NA-TU can spell /gubnatu/: KU = /gu/, BA closes /gub/ with a dead vowel, followed by NA-TU. CAD records Akkadian gubnatu 'cheese (made from sheep milk)' in explicitly numbered allocations.",
@@ -4160,23 +4150,23 @@
     {
       "word": "MI-TA",
       "reading": "mitta",
-      "meaning": "personal name (Hurrian: -mitta 'gave', bare hypocoristic)",
+      "meaning": "personal name (Mitanni Indo-Aryan type)",
       "root": null,
       "cognates": {
-        "Hurrian": "mitta- 'to give' (Laroche GLH p. 172; Wegner 2007 p. 136)",
-        "Nuzi": "Ari-mitta, Unap-mitta, Kelip-mitta, Ḫašip-mitta (Gelb, Purves, MacRae NPN)"
+        "Nuzi": "Mittar-atti (Mi-it-ta-ra-at-ti), name element mittar- (Gelb, Purves, and MacRae 1943, s.v. MITTAR-ATTI)",
+        "Amarna": "Ša-mitta, filed with Indo-Aryan su- (Gelb, Purves, and MacRae 1943, element list, s.v. šu)"
       },
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.5,
       "semantic_field": "personnel",
       "category": "personal_name",
-      "language_layer": "Hurrian",
+      "language_layer": "Indo-Aryan",
       "attestations": [
         "HT128a"
       ],
-      "note": "Bare Hurrian -mitta hypocoristic PN: cf. Ari-mitta, Unap-mitta, Kelip-mitta at Nuzi/Boğazköy. Verbal element mitta- 'gave' (Laroche GLH p. 172). Bare MI-TA occurs only on HT128a; SI-MI-TA (HT96a), A-MI-TA (ZA10b) and the Troy whorls contain the string but are separate words. At HT128a appears with GRAIN commodity. Cross-reference: SI-MI-TA (compound with -mitta), MI-DA (t/d fluidity variant), A-MI-DA-O (compound with MI-DA).",
-      "source": "di Mino"
+      "note": "Personal name on HT128a, with GRAIN. The closest name is Nuzi Mittar-atti, element mittar- (Gelb, Purves, and MacRae 1943, s.v. MITTAR-ATTI), which Gelb sets among the non-Hurrian names with apparent Kassite features (ibid., 196) and Gentile analyses as Mitanni Indo-Aryan *mitra-atthi- 'having Mitra [or a friend] as his guest' (Gentile 2019, 157); no Kassite element list has mittar- (Clay 1912, 36–41; Pinches 1917, 111–113). Rival: Indo-Aryan -mitta, as Amarna Ša-mitta (Gelb, Purves, and MacRae 1943, element list, s.v. šu). Bare MI-TA occurs only on HT128a; SI-MI-TA (HT96a), A-MI-TA (ZA10b) and the Troy whorls contain the string but are separate words. Cross-reference: SI-MI-TA, MI-DA (t/d variant), A-MI-DA-O.",
+      "source": "di Mino; Gelb, Purves, and MacRae 1943; Gentile 2019; Clay 1912; Pinches 1917"
     },
     {
       "word": "MI-TU",
@@ -4499,7 +4489,6 @@
       "cognates": {
         "Ugaritic": "šmn 'oil' (see OLE)",
         "Akkadian": "šamnu 'oil, fat' (see OLE)",
-        "Amarna Canaanite": "dabru 'sanctuary, holy place' (EA 244, Moran p. 304; see DU-PU₂-RE)",
         "Hebrew": "dəvîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5)"
       },
       "tier": 3,
@@ -4985,7 +4974,7 @@
       "meaning": "personal name, Hurrian type in -šenni 'brother'",
       "root": null,
       "cognates": {
-        "Hurrian": "šena 'brother' + article -ni, onomastic -šenni (Laroche 1980, 225–26): Adal-šenni (RS 11.0839, a-dal-ŠEŠ) and Tulbi-šenni (RS 19.0063+, tul₂-bi-ŠEŠ) at Ugarit; Aku-šenni at Nuzi (NPN, s.v.)"
+        "Hurrian": "šēna 'brother' with the individualizing -ni, šen=ni, onomastic -šenni (Giorgieri 2000, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26): Adal-šenni (RS 11.0839, a-dal-ŠEŠ) and Tulbi-šenni (RS 19.0063+, tul₂-bi-ŠEŠ) at Ugarit; Aku-šenni at Nuzi (NPN, s.v.)"
       },
       "tier": 1,
       "confidence": "SPECULATIVE",
@@ -4997,8 +4986,8 @@
         "CRZf1",
         "KNWb33"
       ],
-      "note": "CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE. The name stands before the 1cs verb A-TA-DE, as the one who makes the pin ready. The second sign is KI, with GORILA IV 146–47, Younger and the photograph; it is not DE. KN Wb 33 joins QA-KI[ (a) and NU-SE (b, read leftward) as QA-KI-SE-NU-[ (Younger, Linear A Texts, other texts). Pattern of DA-KU-SE-NE /Takušenni?/ (HT 103) beside DA-KU-SE-NE-TI (HT 104), with the same final -TI; the first element is unexplained. Rival: Amorite two-element name, kakka + sanati.",
-      "source": "di Mino; Younger, Linear A Texts; Laroche 1980; Gelb, Purves, and MacRae 1943"
+      "note": "CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE. The name stands before the 1cs verb A-TA-DE, as the one who makes the pin ready. The second sign is KI, with GORILA IV 146–47, Younger and the photograph; it is not DE. KN Wb 33 joins QA-KI[ (a) and NU-SE (b, read leftward) as QA-KI-SE-NU-[ (Younger, Linear A Texts, other texts). Pattern of DA-KU-SE-NE /Takušenni?/ (HT 103) beside DA-KU-SE-NE-TI (HT 104), with the same final -TI; the first element is unexplained, and QA, for a /q/ Hurrian lacks (Wilhelm, \"Hurrian,\" 98–99), puts it outside Hurrian: a mixed name with Hurrian -šenni. Rival: Amorite two-element name, kakka + sanati.",
+      "source": "di Mino; Younger, Linear A Texts; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian; Gelb, Purves, and MacRae 1943"
     },
     {
       "word": "QA-KI-TI",
@@ -5245,16 +5234,7 @@
       "meaning": "my incense (ritual term)",
       "root": "q-ṭ-r",
       "cognates": {
-        "Amarna": {
-          "form": "qāṭīr",
-          "meaning": "incense-burner",
-          "root": "√q-ṭ-r",
-          "ea_references": [
-            "EA 244 n.1"
-          ],
-          "moran_page": "p. 304",
-          "note": "WS gloss in Megiddo letter (same tablet as dabru). Validates ritual register of √q-ṭ-r in Bronze Age Canaanite."
-        }
+        "Hebrew": "qiṭṭēr 'to burn incense', qəṭōret 'incense'"
       },
       "tier": 3,
       "confidence": "PROBABLE",
@@ -5823,21 +5803,22 @@
       "word": "SI-DU-QI-KU-MI",
       "reading": "ṣidqī-kummī",
       "meaning": "Seat of Righteousness (toponym/institutional name)",
-      "root": "ṣ-d-q + Hurrian -kummi",
+      "root": "ṣ-d-q + Akkadian kummu",
       "cognates": {
-        "Hurrian": "kummi 'seat/foundation of Tešub' (Laroche, Glossaire hourrite, p. 77)"
+        "Akkadian": "kummu A 'cella, private room (of a temple or palace)' (CAD K 533)",
+        "Hurrian": "Kummi, the city of Tešub (Hitt. Kummiyaš); Kummeni, epithet of Tešub (Laroche 1980, 154)"
       },
-      "tier": 3,
-      "confidence": "PROBABLE",
-      "confidence_score": 0.7,
+      "tier": 2,
+      "confidence": "CANDIDATE",
+      "confidence_score": 0.5,
       "semantic_field": "toponym",
       "category": "toponym",
-      "language_layer": "NWS + Hurrian hybrid",
+      "language_layer": "NWS + Akkadian",
       "attestations": [
         "HT110a"
       ],
-      "note": "NWS √ṣ-d-q 'righteous' (SI=ṣi via S-class neutralization) + Hurrian -kummi 'seat, shrine'. Hybrid institutional name at Haghia Triada. *34=QI (K-class: covers /qi/, /gi/, /ki/). Cross-cultural compound: Semitic moral concept + Hurrian architectural suffix. || Huehnergard: Ug ṣdq /ṣidqu/ \"rightness, legitimacy\"; qiCCu noun pattern. ṣdqh /ṣidqi-hū/ \"his legitimate/rightful\". BH cognate: ṣēdeq \"righteousness\" (Ug. i/u vowels vs. BH development) (Huehnergard 2012, p. 87) || Hybrid Hurro-Semitic formation parallels: Abdi-Ḫeba (NWS ʿabdi + Hurrian Ḫebat, EA 285–290), Ilī-Šarruma (Akkadian ilu + Hurrian Šarruma), ʿabdi-hybrids at Taanach (Lipiński). Kummi: Tešub cult city (Wilhelm, Kumme und *Kumar), Ullikummi theophoric, Akkadian loan kummu \"cella\" (ORACC). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo Sydyk)—theophoric \"Shrine of Ṣedeq\" also possible.",
-      "source": "di Mino",
+      "note": "NWS √ṣ-d-q 'righteous' (SI=ṣi via S-class neutralization) + Akkadian kummu A 'cella, private room (of a temple or palace)' (CAD K 533). Institutional name at Haghia Triada. *34=QI (K-class: covers /qi/, /gi/, /ki/). || Huehnergard: Ug ṣdq /ṣidqu/ \"rightness, legitimacy\"; qiCCu noun pattern. ṣdqh /ṣidqi-hū/ \"his legitimate/rightful\". BH cognate: ṣēdeq \"righteousness\" (Ug. i/u vowels vs. BH development) (Huehnergard 2012, p. 87) || Rival: 'Ṣidq of Kummi', with Kummi the city of Tešub, Hitt. Kummiyaš, and Kummeni his epithet (Laroche 1980, 154). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo Sydyk)—theophoric \"Shrine of Ṣedeq\" also possible.",
+      "source": "di Mino; CAD K; Laroche 1980; Huehnergard 2012",
       "corpus_forms": [
         "SI-DU-*34-KU-MI"
       ]
@@ -6072,7 +6053,7 @@
     {
       "word": "TA-NA-RA-TE-U-TI-NU",
       "reading": "tan-raṣē-u-tī-n(u)",
-      "meaning": "may you (f.) be favorable toward us (N-stem of √r-ṣ-y + linking -u + analogical 2fs subject clitic -tī + 1cp object -n; energic -n the alternative)",
+      "meaning": "may you (f.) be favorable toward us (N-stem of √r-ṣ-y + indicative -u + analogical 2fs subject clitic -tī + 1cp object -n; energic -n the alternative)",
       "root": "r-ṣ-y",
       "cognates": {
         "Hebrew": "rāṣāh (רָצָה) 'to be pleased with, accept favorably' (Lev 1:4, Ps 19:15, Mal 1:8, Ezek 20:40–41, 43:27); rāṣōn (רָצוֹן) 'favor, acceptance, goodwill' (Prov 11:1, Ps 5:13); √r-ṣ-y 'to accept, be pleased'",
@@ -6088,7 +6069,7 @@
       "attestations": [
         "IOZa2"
       ],
-      "note": "IOZa2 line 2, in the frame TA-NA-[X]-U-TI-NU shared with IO Za 6 (X = I-*301) and IO Za 11 (]U-TI-NU). TA- = 2fs prefix; -NA- = N-stem n-, unassimilated before /r/ (later Hebrew תֵּרָצֶה tērāṣeh; Lipiński §41.16); RA-TE = √r-ṣ-y 'be acceptable' (Hebrew Niphal, Lev 1:4; TE = ṣ unproved); U = linking or long-form vowel, the least secure element; TI = archaic 2fs nominative subject clitic, extended analogically to a finite host; NU = 1cp object 'us' (PS *-na, Ugaritic -n/-nā), energic n-extension the alternative. Controls: Enūma eliš I 119–20 ul taremmināsi 'you (f.) do not love us'; Josh 2:18 hôradtēnû; Ugaritic tšqy-n (KTU 1.19 IV 53). Principal objection: ordinary 2fs *taqtulīna.",
+      "note": "IOZa2 line 2, in the frame TA-NA-[X]-U-TI-NU shared with IO Za 6 (X = I-*301) and IO Za 11 (]U-TI-NU). TA- = 2fs prefix; -NA- = N-stem n-, unassimilated before /r/ (later Hebrew תֵּרָצֶה tērāṣeh; Lipiński §41.16); RA-TE = √r-ṣ-y 'be acceptable' (Hebrew Niphal, Lev 1:4; TE = ṣ unproved); U = indicative -u of the yaqtulu conjugation, preceding the subject pronoun (Ugaritic ʾargmk /ʾargumu-kī/, KTU 1.3 III 21), the least secure element; TI = archaic 2fs nominative subject clitic, extended analogically to a finite host; NU = 1cp object 'us' (PS *-na, Ugaritic -n/-nā), energic n-extension the alternative. Controls: Enūma eliš I 119–20 ul taremmināsi 'you (f.) do not love us'; Josh 2:18 hôradtēnû; Ugaritic tšqy-n (KTU 1.19 IV 53). Principal objection: ordinary 2fs *taqtulīna.",
       "source": "di Mino"
     },
     {
@@ -6406,7 +6387,6 @@
       "cognates": {
         "Phoenician": "tnt 'Tanit' (Sarepta, KAI 285)",
         "Punic in Greek letters": "ΘΙΝΙΘ Thinith 'Tinnit' (El-Hofra stele)",
-        "Amarna Canaanite": "dabru 'sanctuary, holy place' (EA 244, Moran p. 304; see DU-PU₂-RE)",
         "Hebrew": "dəvîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5)"
       },
       "tier": 3,
@@ -6533,9 +6513,9 @@
       "meaning": "Teshub (Hurrian storm god theophoric PN)",
       "root": null,
       "cognates": {
-        "Hurrian": "Teššub/Tešub 'storm god'—supreme deity of Hurrian pantheon (Laroche, Glossaire hourrite, p. 133; Hittite Tarhunt)",
+        "Hurrian": "Teššub/Tešub 'storm god'—supreme deity of Hurrian pantheon (Laroche 1980, 263; Hittite Tarhunt)",
         "Hittite": "Tarhunna (functional equivalent)",
-        "Ugaritic": "tṯpb (Hurrian loanword in Ugaritic texts)",
+        "Ugaritic": "tṯb, the Hurrian storm god in Ugaritic texts (DULAT 870)",
         "Linear A": "TE-SU predicted form"
       },
       "tier": 2,
@@ -6720,7 +6700,6 @@
       "meaning": "sanctuary personnel",
       "root": "d-b-r",
       "cognates": {
-        "Amarna Canaanite": "dabru 'sanctuary, holy place' (EA 244, Moran p. 304; see DU-PU₂-RE)",
         "Hebrew": "dəvîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5)"
       },
       "tier": 3,
@@ -7244,11 +7223,11 @@
     },
     {
       "word": "PI-TA-KE-SI",
-      "reading": "Pedi-kešši",
-      "meaning": "Place of the Throne (Hurrian compound PN)",
+      "reading": "Pidi-kešḫi",
+      "meaning": "Hurrian-type compound personal name; second element kešḫi 'throne'",
       "root": null,
       "cognates": {
-        "Hurrian": "pedi 'place' + kešši 'throne' (Laroche, Glossaire hourrite, pp. 100, 72)"
+        "Hurrian": "kešḫi 'siège, trône', ki-iš-hi = Akk. kussû (Laroche 1980, 143–44); pidi/u-, forms without a gloss (Laroche 1980, 200; Richter 2012, 319)"
       },
       "tier": 2,
       "confidence": "CANDIDATE",
@@ -7258,8 +7237,8 @@
       "attestations": [
         "HT87"
       ],
-      "note": "Hurrian compound: pedi 'place' + kešši 'throne.' Voiced/voiceless interchange: PI writes /be/ or /pe/ (p/b neutralized in Linear A); cf. Nuzi PNs Pedi-Tilla ~ Bedi-Tilla (HSS 5, 9). Part of a Hurrian-heavy personnel register on HT87 alongside DI-KI-SE (Dikise; cf. Hurrian tagiše/tegiše) and related KU-PA₃-NU, TU-SU-PU₂ on HT49a.",
-      "source": "di Mino"
+      "note": "Hurrian-type compound. Second element kešḫi 'throne' (ki-iš-hi = Akk. kussû; Laroche 1980, 143–44), with the cluster šḫ written by SI. The first element matches the pidi/u- forms Laroche collects without a gloss (1980, 200; Richter 2012, 319); TA writes the dental under stop neutralization. Part of a Hurrian-heavy personnel register on HT87 alongside DI-KI-SE (Dikise; cf. Hurrian tagiše/tegiše) and related KU-PA₃-NU, TU-SU-PU₂ on HT49a.",
+      "source": "di Mino; Laroche 1980; Richter 2012"
     },
     {
       "word": "DI-KI-SE",
@@ -7267,7 +7246,7 @@
       "meaning": "Dikise (personal name; possibly related to Hurrian tagiše/tegiše 'beautiful; beauty')",
       "root": null,
       "cognates": {
-        "Hurrian": "tagi 'beautiful'; tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche, Glossaire hourrite, pp. 250–51)",
+        "Hurrian": "tagi 'beautiful'; tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche, Glossaire hourrite, pp. 249–50)",
         "Amarna": "Tagi (EA 264–66), mayor of Gintikirmil—Hurrian name, same root"
       },
       "tier": 2,
@@ -7280,8 +7259,68 @@
         "HT87",
         "HT117b"
       ],
-      "note": "Personal-name candidate. Laroche directly records Hurrian tagi 'beautiful' and the theme tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Glossaire hourrite, pp. 250–51). These forms are closer controls than an internally reconstructed tagi + -šše analysis. DI-KI-SE can approximate tagiše/tegiše through Linear A stop and sibilant neutralization, though its vowels are not exact. Tagi is independently attested as a Hurrian personal name in EA 264–66. Keep Dikise untranslated as a name.",
+      "note": "Personal-name candidate. Laroche directly records Hurrian tagi 'beautiful' and the theme tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Glossaire hourrite, pp. 249–50). These forms are closer controls than an internally reconstructed tagi + -šše analysis. DI-KI-SE can approximate tagiše/tegiše through Linear A stop and sibilant neutralization, though its vowels are not exact. Tagi is independently attested as a Hurrian personal name in EA 264–66. Keep Dikise untranslated as a name.",
       "source": "di Mino"
+    },
+    {
+      "word": "SA-RA-DI",
+      "reading": "šalardi",
+      "meaning": "group of daughters (Hurrian collective)",
+      "root": null,
+      "cognates": {
+        "Hurrian": "šāl=ardi 'group of daughters' (Wilhelm, \"Hurrian,\" 103); šalardi 'qualité de fille', ša-la-ar-di, Mari 5, 11; RS h. 5, 12 (Laroche 1980, 213); šal(a)=arde 'Tochterschaft' (Wegner 2000, 51; Richter 2012, 344)"
+      },
+      "tier": 2,
+      "confidence": "CANDIDATE",
+      "confidence_score": 0.4,
+      "semantic_field": "personnel",
+      "category": "noun",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT27a"
+      ],
+      "note": "HT 27a .5 ]SA-RA-DI 5, broken directly before SA (GORILA I 49), a counted row in the personnel tally under TI-NI-TA · *307 (KU-RO 335). Hurrian šāl(a)=ardi, šāla 'daughter' with the collective -ardi, the thematic vowel lost before it: šāl=ardi 'group of daughters' (Wilhelm, \"Hurrian,\" 103); ša-la-ar-di at Mari and Ugarit (Laroche 1980, 213); šal(a)=arde 'Tochterschaft' (Wegner 2000, 51). ša-la-ar-di gives SA-RA-DI sign for sign: coda r unwritten, RA for /la/. Laroche and Wegner gloss an abstract, 'qualité de fille,' 'Tochterschaft'; Wilhelm's collective fits a counted row. The break allows a longer compound, as Mari sindišalardi 'Siebentochterschaft' (Richter 2012, 388). One witness.",
+      "source": "di Mino; Wilhelm, Hurrian; Laroche 1980; Wegner 2000; Richter 2012"
+    },
+    {
+      "word": "I-RU-JA",
+      "reading": "Iruja",
+      "meaning": "Iruja (personal name; Hurrian hypocoristic of Irup-tešup)",
+      "root": null,
+      "cognates": {
+        "Nuzi": "Iruja (I-ru-ia, E-ru-ú-ia, I-ru-ú-ia), hypocoristic of Irup-tešup (Gelb, Purves, and MacRae 1943, s.v. IRUJA; 220)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT7a"
+      ],
+      "note": "HT 7a .2 I-RU-JA 3, all three signs whole and undotted, the first entry under .1 QE-TI · VIR+[?], before DU-JA 4 (GORILA I 15). Nuzi Iruja, I-ru-ia, var. E-ru-ú-ia, I-ru-ú-ia: the son of Ziqaya bears both Iruja and Irup-tešup, and the element list gives iruja as the \"Hypocoristic for Irup-tešup\" (Gelb, Purves, and MacRae 1943, s.v. IRUJA, IRUP-TEŠUP; 220). The element ir- is Hurrian; Speiser's gloss 'aid' is uncertain (ibid., 220). I-ru-ia gives I-RU-JA sign for sign. A three-sign match with one witness; chance is a live alternative.",
+      "source": "di Mino; Gelb, Purves, and MacRae 1943"
+    },
+    {
+      "word": "I-PA-SA-JA",
+      "reading": "Ipšaja",
+      "meaning": "Ipšaja (personal name; Hurrian hypocoristic)",
+      "root": null,
+      "cognates": {
+        "Nuzi": "Ipšaja (Ip-ša-a-a, Ip-šá-a-a), probably hypocoristic of Ipša-halu (Gelb, Purves, and MacRae 1943, 220)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "KH10"
+      ],
+      "note": "KH 10 .3 I-PA-SA-JẠ · QA-*118, JA dotted on both copies, before A-KI-PI-E-TE GRA 90 (GORILA III 37). Nuzi Ipšaja, Ip-ša-a-a, Ip-šá-a-a, \"Probably hypocoristic for Ipša-halu\" (Gelb, Purves, and MacRae 1943, 220); the element ipš- is Hurrian (ibid., 220). The coda p takes a dead A: Ip-ša-a-a gives I-PA-SA-JA. JA is dotted and there is one witness.",
+      "source": "di Mino; Gelb, Purves, and MacRae 1943"
     },
     {
       "word": "QE-SU-PU",
@@ -7293,7 +7332,7 @@
         "Hebrew": "mǝkaššēp 'sorcerer' (Exod 22:17, 7:11); mǝkaššēfīm = palace cult specialists (Exod 7:11); qōšēp (Deut 18:10)",
         "Ugaritic": "kšp 'sorcery' (KTU 1.96)",
         "Amarna": "Not attested as Canaanite gloss; but cf. EA 35:26 kaššāpu in Akkadian matrix",
-        "Hurrian": "kashshapte 'sorcery' (Akkadian loan into Hurrian; Laroche, Glossaire hourrite, p. 69)"
+        "Hurrian": "kaššapte 'magie', a transcription of Akkadian kaššaptu (Laroche 1980, 138)"
       },
       "tier": 2,
       "confidence": "CANDIDATE",
@@ -7725,11 +7764,11 @@
       "word": "TA-NA-TE",
       "reading": "Tanāt(ē)",
       "meaning": "Tanāt—the Serpent-Goddess (= Punic Tanit/TNT). Feminine of *tannīn* with -t suffix; or related to A-TA-NA-TE (ʾAtanat, √y-t-n), which follows it on ZA10a.",
-      "root": "ṯ-n-n",
+      "root": "t-n-n",
       "cognates": {
         "Punic": "TNT (Tanit/Tinnit); Greek transliteration Θινιθ/Θεννειθ at El-Hofra",
         "Hebrew": "tannīn תַּנִּין \"dragon/sea-serpent\"",
-        "Ugaritic": "ṯnn \"serpent/dragon\" (Litanu/Lotan context)",
+        "Ugaritic": "tnn \"dragon\" (KTU 1.3 III 40; DULAT p. 860)",
         "Greek": "θύννος \"tunny\" (BDB: Phoenician loanword from same root)"
       },
       "tier": 2,
@@ -7741,7 +7780,7 @@
       "attestations": [
         "ZA10a"
       ],
-      "note": "Cf. LB ta-na-to (KN De 1618). Related to A-TA-NA-TE (ʾAtanat, √y-t-n), or else √ṯ-n-n (Tinit) (di Mino, Ya Diktu). The a-vocalization (*Tanāt*) reflects the archaic form; TI-NI-TA (*Tinnīt*) reflects the Punic vowel-raising shift (*a > i* in geminate -nn- environment), attested in El-Hofra Greek-Punic bilinguals (Θεννειθ alongside Θινιθ). Three TNT-family forms now span both HT and ZA, dissolving the prior site-confinement argument.",
+      "note": "Cf. LB ta-na-to (KN De 1618). Related to A-TA-NA-TE (ʾAtanat, √y-t-n), or else √t-n-n (Tinit) (di Mino, Ya Diktu, there ṯ-n-n); Ugaritic tnn and Punic tnt write t, and Linear A writes ṯ with ZU. The a-vocalization (*Tanāt*) reflects the archaic form; TI-NI-TA (*Tinnīt*) reflects the Punic vowel-raising shift (*a > i* in geminate -nn- environment), attested in El-Hofra Greek-Punic bilinguals (Θεννειθ alongside Θινιθ). Three TNT-family forms span HT and ZA.",
       "source": "di Mino",
       "related_forms": [
         "TI-NI-TA (HT27a, CONFIRMED)—i-vocalization (*Tinnīt*)",
@@ -7769,7 +7808,7 @@
       "attestations": [
         "ZA10a"
       ],
-      "note": "Feminine reflex of √y-t-n 'to give', final E a dead vowel after /t/; the etymon of Greek Ἀθήνα; cf. LB a-ta-na-po-ti-ni-ja (KN V 52) (di Mino, Ya Diktu). ZA9 A-TA-NA-[·] (GORILA III 166–67: \"A-TA-NA-TE possible\") is probably the same word. On ZA10a it follows TA-NA-TE, related to it or else √ṯ-n-n (Tinit).",
+      "note": "Feminine reflex of √y-t-n 'to give', final E a dead vowel after /t/; the etymon of Greek Ἀθήνα; cf. LB a-ta-na-po-ti-ni-ja (KN V 52) (di Mino, Ya Diktu). ZA9 A-TA-NA-[·] (GORILA III 166–67: \"A-TA-NA-TE possible\") is probably the same word. On ZA10a it follows TA-NA-TE, related to it or else √t-n-n (Tinit).",
       "source": "di Mino",
       "related_forms": [
         "A-TA-NA (PROBABLE; ZA9 reads A-TA-NA-[·])",
@@ -9786,7 +9825,7 @@
       "attestations": [
         "ZA10a"
       ],
-      "note": "Kinship-theophoric sentence name: ʿammī 'my kinsman (as divine epithet)' + dāʿ (√y-d-ʿ 'know'). Both elements independently productive—ʿammī- in ʿAmmîšaddāy (Num 1:12), ʿAmmînādāb (Exod 6:23), ʿAmmîhûd (Num 1:10), Amorite royal Ammi-ditana/Ammi-ṣaduqa; -dāʿ in ʾĂbîdāʿ and ʾEldāʿā (both Gen 25:4), ʾElyādāʿ (2 Sam 5:16), Ugaritic ydʿ attested as personal/divine name. The abī-/aḫī-/ʿammī- rotation (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab—all on one base) makes ʿAmmī-dāʿ a predicted paradigm cell beside attested ʾĂbî-dāʿ. Initial ʿa- > A per guttural dropping; qty 1 on ZA10a among personal names. A-MI-DA-O (PH(?) 31b.5) is broken at the start, ]A-MI-DA-O (GORILA I 319), and is not counted. RIVAL: Hurrian a-mitta name element (cf. MI-TA). Cf. JA-DA-SU (yadaʿšu), same verbal root. Howard (JSS 68.1, 2023) tabulates the ʿAmmī+verb sentence-name template in the appendix (ʿAmmi-yepuʿ, kings of Talhayum, attested Mari/Terqa/Šeḥna), with ʾIli-yepaʿ at Alalah showing the first-element rotation in cuneiform.",
+      "note": "Kinship-theophoric sentence name: ʿammī 'my kinsman (as divine epithet)' + dāʿ (√y-d-ʿ 'know'). Both elements independently productive—ʿammī- in ʿAmmîšaddāy (Num 1:12), ʿAmmînādāb (Exod 6:23), ʿAmmîhûd (Num 1:10), Amorite royal Ammi-ditana/Ammi-ṣaduqa; -dāʿ in ʾĂbîdāʿ and ʾEldāʿā (both Gen 25:4), ʾElyādāʿ (2 Sam 5:16), Ugaritic ydʿ attested as personal/divine name. The abī-/aḫī-/ʿammī- rotation (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab—all on one base) makes ʿAmmī-dāʿ a predicted paradigm cell beside attested ʾĂbî-dāʿ. Initial ʿa- > A per guttural dropping; qty 1 on ZA10a among personal names. A-MI-DA-O (PH(?) 31b.5) is broken at the start, ]A-MI-DA-O (GORILA I 319), and is not counted. RIVAL: a Hurrian-layer name (cf. MI-TA). Cf. JA-DA-SU (yadaʿšu), same verbal root. Howard (JSS 68.1, 2023) tabulates the ʿAmmī+verb sentence-name template in the appendix (ʿAmmi-yepuʿ, kings of Talhayum, attested Mari/Terqa/Šeḥna), with ʾIli-yepaʿ at Alalah showing the first-element rotation in cuneiform.",
       "source": "di Mino"
     },
     {
@@ -10090,7 +10129,7 @@
       "attestations": [
         "MAWc<5>"
       ],
-      "note": "SA=ṣ, KA=q via emphatic neutralization. Amorite PN şadaqa (√ṣ-d-q). Mallia roundels, administrative grain context. Cf. Zadok, Zedekiah, Melchizedek."
+      "note": "SA=ṣ, KA=q via emphatic neutralization. Amorite PN şadaqa (√ṣ-d-q). Mallia roundels, administrative grain context. Cf. Zadok, Zedekiah, Melchizedek. The initial A- needs a prothetic vowel. Rival: Hurrian aštaga 'woman', the diminutive in -(a)ga of ašte 'woman' (Wilhelm, \"Hurrian,\" 103; Laroche 1980, 61–62), written aš-ta-ka (Meskene) and aš-da-a-ga-bi (KUB XXIX 8 IV 23): coda š with a dead A, as A-SA-MU-NE, accounts for every sign."
     },
     {
       "word": "A-MA-RA-NE",
@@ -10415,7 +10454,7 @@
     {
       "word": "TA-NA-I-*301-U-TI-NU",
       "reading": "tan-ʿinā-u-tī-n(u)",
-      "meaning": "may you (f.) answer us (N-stem of √ʿ-n-y in the TA-NA-[X]-U-TI-NU frame: 2fs prefix + subject clitic -tī + 1cp object -n)",
+      "meaning": "may you (f.) answer us (N-stem of √ʿ-n-y in the TA-NA-[X]-U-TI-NU frame: 2fs prefix + indicative -u + subject clitic -tī + 1cp object -n)",
       "root": "ʿ-n-y",
       "cognates": "Hebrew עָנָה (ʿānāh) 'answer'; Ugaritic ʿny 'answer'; Amarna Canaanite ʿ-n-y forms",
       "tier": 3,
@@ -10557,7 +10596,7 @@
       "sites": [
         "Syme"
       ],
-      "note": "The Syme sanctuary's one otherwise unread word (transcription only in the editions: Metaxa-Muhly, Kadmos 23 [1984] 124–35; Muhly & Olivier 2008, 212–13—no prior semantic interpretation). Segmentation JA-PA-RA | JA-SE: two words, every morpheme attested elsewhere in the lexicon. (1) JA-PA-RA = yapʾara, ya- 3ms prefix conjugation + √p-ʾ-r with unwritten ʾ—spelling parallel JA-PA-QA = yapqaḥ (PKZa11/12, three signs write y-p-q-ḥ). Final -A = volitive yaqtula, apt in prayer. (2) JA-SE = yāṣē, identical to the yāṣē of SI-JA-SE (šī-yāṣē \"which goes out\", HTZb159/PEZb3)—administrative disbursement marker there, the outpoured libation here. || Verb-first NWS syntax: \"may that which is poured out glorify (her)\"—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי \"to beautify the place of my sanctuary\"; hitpaʿel liturgical register Isa 60:21, 61:3; Ben Sira 50:20 (MS B) ובשם ייי התפאר. || Rivals: Ugaritic pʿr \"proclaim (a name)\" (ypʿr šmthm, KTU 1.2 IV 11, 18) is orthographically identical (ʿ drops like ʾ) but attested only with šm \"name\" as complement, absent here; PS *wpr \"pilgrimage\" has a nominal gloss, no attested denominal verb, and an initial-w assimilation problem. || A hapax: √p-ʾ-r has no second corpus attestation yet. Support comes from yāṣē (×2 sites) and the ya- prefix paradigm. || √p-ʾ-r also gives pəʾēr \"diadem\" and tipʾart \"splendor\".",
+      "note": "The Syme sanctuary's one otherwise unread word (first edition, transcription only: Muhly & Olivier 2008, 212–13, HM 5585, found 1987—no prior semantic interpretation). Segmentation JA-PA-RA | JA-SE: two words, every morpheme attested elsewhere in the lexicon. (1) JA-PA-RA = yapʾara, ya- 3ms prefix conjugation + √p-ʾ-r with unwritten ʾ—spelling parallel JA-PA-QA = yapqaḥ (PKZa11/12, three signs write y-p-q-ḥ). Final -A = volitive yaqtula, apt in prayer. (2) JA-SE = yāṣē, identical to the yāṣē of SI-JA-SE (šī-yāṣē \"which goes out\", HTZb159/PEZb3)—administrative disbursement marker there, the outpoured libation here. || Verb-first NWS syntax: \"may that which is poured out glorify (her)\"—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי \"to beautify the place of my sanctuary\"; hitpaʿel liturgical register Isa 60:21, 61:3; Ben Sira 50:20 (MS B) ובשם ייי התפאר. || Rivals: Ugaritic pʿr \"proclaim (a name)\" (ypʿr šmthm, KTU 1.2 IV 11, 18) is orthographically identical (ʿ drops like ʾ) but attested only with šm \"name\" as complement, absent here; PS *wpr \"pilgrimage\" has a nominal gloss, no attested denominal verb, and an initial-w assimilation problem. || A hapax: √p-ʾ-r has no second corpus attestation yet. Support comes from yāṣē (×2 sites) and the ya- prefix paradigm. || √p-ʾ-r also gives pəʾēr \"diadem\" and tipʾart \"splendor\".",
       "source": "di Mino",
       "root_meaning": "to glorify, beautify, adorn + to go out"
     },
@@ -11096,7 +11135,7 @@
         "HT119",
         "HT122a"
       ],
-      "note": "*306 = ʿA; TU writes -tu with the geminate unwritten. A recipient on three documents: the HT 9a/9b wine roster (10; 8), the same roster on HT 122a (1[, beside PA-DE and *324-DI-RA), and HT 119 (2, before *327-JU 8 and KU-RO 160). The name slot is secure; the etymology rests on two consonants. Two independent lists: the HT 9a/9b roster (recopied on HT 122a) and the HT 119 personnel count (KU-RO 160). With ʿ the Hurrian attai 'father' (Laroche, GLH 62) is excluded. *306-TU-JA (HT 115b) is the same name with hypocoristic -ya.",
+      "note": "*306 = ʿA; TU writes -tu with the geminate unwritten. A recipient on three documents: the HT 9a/9b wine roster (10; 8), the same roster on HT 122a (1[, beside PA-DE and *324-DI-RA), and HT 119 (2, before *327-JU 8 and KU-RO 160). The name slot is secure; the etymology rests on two consonants. Two independent lists: the HT 9a/9b roster (recopied on HT 122a) and the HT 119 personnel count (KU-RO 160). With ʿ the Hurrian attai 'father' (Laroche 1980, 63) is excluded. *306-TU-JA (HT 115b) is the same name with hypocoristic -ya.",
       "source": "di Mino"
     },
     {
@@ -11530,7 +11569,7 @@
       "cognates": {
         "Akkadian": "apu B 'hole, opening in the ground', NA ritual pit for offerings to the dead (CAD A/2 201)",
         "Hebrew": "II ʾôb 'spirit of the dead' (HALOT s.v.); baʿălat ʾôb (1 Sam 28:7)",
-        "Hurrian": "abi 'pit' (Laroche 1980, 26)",
+        "Hurrian": "abi 'trou, fosse' (Laroche 1980, 34)",
         "Hittite": "a-a-pi 'sacrificial pit' (HALOT s.v. II ʾôb, after Rabin)"
       },
       "tier": 1,
@@ -11542,7 +11581,7 @@
       "attestations": [
         "KNZe16"
       ],
-      "note": "KN Ze 16, the only word, incised at eye level on the last block of the dromos of the Kephala tholos, before the burial chamber (GORILA IV 138; Owens 1998–99, 148–149). A and PI clear; nothing before A or after PI, and the divider Owens reports after PI is not drawn. Akkadian apu B 'hole, opening in the ground', the NA ritual pit where food for the spirits of the dead is laid and honey, oil, beer and wine poured (CAD A/2 201); at Emar an offering is made before the abū (Milgrom 2000, 1768); Hebrew II ʾôb 'spirit of the dead', which Rabin derives from Hittite a-a-pi 'sacrificial pit' (HALOT s.v.; baʿălat ʾôb, 1 Sam 28:7). The word travels (Hurrian abi, Laroche 1980, 26; Hittite a-a-pi; Luwian āpit-), so it names the pit, not the writer's language; final I matches abi and needs the genitive -i in Akkadian. Rival: a personal name. Hapax.",
+      "note": "KN Ze 16, the only word, incised at eye level on the last block of the dromos of the Kephala tholos, before the burial chamber (GORILA IV 138; Owens 1998–99, 148–149). A and PI clear; nothing before A or after PI, and the divider Owens reports after PI is not drawn. Akkadian apu B 'hole, opening in the ground', the NA ritual pit where food for the spirits of the dead is laid and honey, oil, beer and wine poured (CAD A/2 201); at Emar an offering is made before the abū (Milgrom 2000, 1768); Hebrew II ʾôb 'spirit of the dead', which Rabin derives from Hittite a-a-pi 'sacrificial pit' (HALOT s.v.; baʿălat ʾôb, 1 Sam 28:7). The word travels (Hurrian abi, Laroche 1980, 34; Hittite a-a-pi; Luwian āpit-), so it names the pit, not the writer's language; final I matches abi and needs the genitive -i in Akkadian. Rival: a personal name. Hapax.",
       "source": "di Mino"
     },
     {
@@ -11681,7 +11720,7 @@
       "attestations": [
         "HT108"
       ],
-      "note": "HT 108 .2 DI-NA-RO 2 DU-SU-NI 4[, whole and undotted, a recipient in the grain list under KI-RE-TA-NA (GORILA I 175). Hebrew Dîšôn and Dîšān, clans of Seir (Gen 36:21), and dîšôn 'antelope' (Deut 14:5). Rival: Hurrian Tuš(š)-enni, √tušš- with -enni. One document.",
+      "note": "HT 108 .2 DI-NA-RO 2 DU-SU-NI 4[, whole and undotted, a recipient in the grain list under KI-RE-TA-NA (GORILA I 175). Hebrew Dîšôn and Dîšān, clans of Seir (Gen 36:21), and dîšôn 'antelope' (Deut 14:5). Rival: a Hurrian name in -nni, as DA-KU-SE-NE. One document.",
       "source": "di Mino"
     },
     {

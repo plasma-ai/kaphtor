@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | kinfirat- 'tip of the nose' \[Fraytag 4 65\] (not in \[BK\]) | Fraytag 4 65 |  |
+| Arabic | kinfirat- 'tip of the nose' \[Fr. IV 65\] (not in \[BK\]) | Fr. IV 65 |  |
 | Tigre | känfär, kämfär \[LH 418\] | LH 418 | gloss withheld |
 | Geez | kanfar \[LGz 287\]. | LGz 287 | gloss withheld |
 | Gurage | CHA EŽA ENN GYE MUH MSQ GOG SOD känfär, END käfär \[LGur 345\] | LGur 345 | gloss withheld |

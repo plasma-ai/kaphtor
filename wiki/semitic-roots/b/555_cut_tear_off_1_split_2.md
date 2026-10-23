@@ -34,11 +34,11 @@ updated: 2026-10-22T17:38:31Z
 | Geez | bqq 1 |  |  |
 | Hebrew | bqʕ 2 |  |  |
 | Aramaic | BQʿ (Aramaic Root Atlas; CAL s.v. bqʿ) | Aramaic Root Atlas; CAL s.v. bqʿ | gloss withheld |
-| Ugaritic | bqʿ 'split' | Anderson–Moser 2024 root bqʿ |  |
+| Ugaritic | bqʿ (DULAT 231) | DULAT 231 | gloss withheld |
 | Tigre | baqʿa (HALOT 149) | HALOT 149 | gloss withheld |
-| Amharic | bäqqäqä (LGz., 101) | LGz. 101 | gloss withheld |
-| Tigrinya | bärqʷäqʷä (LGz., 101) | LGz. 101 | gloss withheld |
-| Gurage | bʷäqäqa (LGz., 101) | LGz. 101 | gloss withheld |
+| Amharic | bäqqäqä (LGz. 101) | LGz. 101 | gloss withheld |
+| Tigrinya | bärqʷäqʷä (LGz. 101) | LGz. 101 | gloss withheld |
+| Gurage | bʷäqäqa (LGz. 101) | LGz. 101 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

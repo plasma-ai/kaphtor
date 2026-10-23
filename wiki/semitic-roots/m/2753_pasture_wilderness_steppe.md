@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | mdbr (DULAT, 520) | DULAT 520 | gloss withheld |
+| Ugaritic | mdbr (DULAT 520) | DULAT 520 | gloss withheld |
 | Hebrew | midbār (HALOT 547) | HALOT 547 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

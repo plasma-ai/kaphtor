@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | tōren (HALOT 1794) | HALOT 1794 | gloss withheld |
-| Ugaritic | trn (HALOT 1794; DULAT, 866) | HALOT 1794; DULAT 866 | gloss withheld |
-| Akkadian | tarnu (HALOT 1794; CAD T, 239) | HALOT 1794; CAD T, 239 | gloss withheld |
+| Ugaritic | trn (HALOT 1794; DULAT 866) | HALOT 1794; DULAT 866 | gloss withheld |
+| Akkadian | tarnu (HALOT 1794; CAD T 239) | HALOT 1794; CAD T 239 | gloss withheld |
 | Judaic Aramaic | tarnā (HALOT 1794) | HALOT 1794 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

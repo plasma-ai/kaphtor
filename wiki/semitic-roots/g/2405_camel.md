@@ -40,14 +40,14 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | gũl (pl. gmíhl) \[JJ 76\] | JJ 76 | gloss withheld |
 | Hebrew | gāmāl (HALOT 197), pB. \[Ja. 253\] | HALOT 197; Ja. 253 | gloss withheld |
 | Amharic | gǝmäl, gämäl \[K 1908\] | K 1908 | gloss withheld |
-| Epigraphic South Arabian | Sab. gml \[SD 49\] | SD 49; Biella 72; Sima 92-4 | gloss withheld |
-| Judaic Aramaic | gamlā \[Ja. 253\], \[Levy WTM I 341\]; gml (det. gamlā) id. \[Sok. 131\], gmwlh (det. gmwlth) \[ibid. 131\], gǝmaltā \[Ja. 254\]. // Sam. gml \[Tal 150\]. | Ja. 253; Levy WTM I 341; Sok. 131; ibid. 131; Ja. 254; Tal 150 | gloss withheld |
+| Epigraphic South Arabian | Sab. gml \[SD 49; Sabaweb lemma 2539\] | SD 49; Sabaweb lemma 2539; Biella 72; Sima 92-4 | gloss withheld |
+| Judaic Aramaic | gamlā \[Ja. 253\], \[Levy WTM I 341\]; gml (det. gamlā) id. \[DJPA 131b apud CAL\], gmwlh (det. gmwlth) \[ibid. 131\], gǝmaltā \[Ja. 254\]. // Sam. gml \[Tal 150\]. | Ja. 253; Levy WTM I 341; DJPA 131b; CAL; ibid. 131; Ja. 254; Tal 150 | gloss withheld |
 | Harari | gāmäla, gāmila \[LHar. 72\] | LHar. 72 | gloss withheld |
-| Syrian Aramaic | gamlā 'camelus' \[Brock. 120\] | Brock. 120 |  |
+| Syrian Aramaic | gamlā 'camel' \[Brock. 120\] | Brock. 120 |  |
 | Aramaic | Off. gml \[HJ 226\] (cf. \[PY XXIX\], \[Kott. 195\]). // Nab. gml \[HJ 226\] (cf. \[Cant. II 79\]). // Plm. gml \[HJ 226\] (cf. \[PAT 353\]). | HJ 226; PY XXIX; Kott. 195; HJ 226; HJ 226; PAT 353 | gloss withheld |
 | Tigrinya | gämäl 'camel, dromedary' \[Bass. 820\] | Bass. 820 |  |
-| Modern Aramaic | Maʕl. ɣamla, Hrt. gumla, Jil. gumla, Krd. gumla, NSyr. gümla, NAssyr. gʸümlä, gumla, JNA gumla, Tlk. gumla, Tur. gamlo, M.Mnd. gomlā (SED II 116) | SED II 116 |  |
-| Pre-Islamic North Arabian | Safaitic gml (Al-Jallad–Jaworska, 72) | Al-Jallad–Jaworska 72 | gloss withheld |
+| Modern Aramaic | Maʕl. ɣamla, Hrt. gumla, Jil. gumla, Krd. gumla, NSyr. gümla, NAssyr. gʸümlä, gumla, JNA gumla, Tlk. gumla, Tur. gamlo, M.Mnd. gomlā (SED II 116–117) | SED II 116–117 |  |
+| Pre-Islamic North Arabian | Safaitic gml (Al-Jallad–Jaworska 72) | Al-Jallad–Jaworska 72 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

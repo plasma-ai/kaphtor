@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʿs3n (SD, 21) | SD 21 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿs3n (SD 21); a variant of ʿsn (Sabaweb lemma 3852) | SD 21; Sabaweb lemma 3852 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

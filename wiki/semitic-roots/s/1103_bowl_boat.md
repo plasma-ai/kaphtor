@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | sēpĕl |  |  |
-| Ugaritic | spl, saplu (HALOT 764); /saplu/ (UVST, 157) | HALOT 764; UVST 157 | gloss withheld |
-| Akkadian | saplu (sapalu) (CAD S, 165) | CAD S, 165 | gloss withheld |
+| Ugaritic | spl, saplu (HALOT 764); /saplu/ (UVST 157) | HALOT 764; UVST 157 | gloss withheld |
+| Akkadian | saplu (sapalu) (CAD S 165) | CAD S 165 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

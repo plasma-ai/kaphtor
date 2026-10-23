@@ -34,12 +34,12 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | lḥm 3 |  | gloss withheld |
 | Hebrew | leḥem 1 |  |  |
 | Syrian Aramaic | laḥm- 1 (Payne Smith 240) | Payne Smith 240 |  |
-| Punic | lḥm (T, 157) | T 157 | gloss withheld |
+| Punic | lḥm (T 157) | T 157 | gloss withheld |
 | Aramaic | laḥmā (HALOT 526; DNWSI 572 apud CAL) | HALOT 526; DNWSI 572; CAL |  |
 | Amorite | laḥm- (George and Krebernik 2022, 155); \*laḥm- (Golinets 2025, 893) | Krebernik 2022; Golinets 2025, 893 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic lḥm (Al-Jallad–Jaworska, 92) | Al-Jallad–Jaworska 92 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic lḥm (Al-Jallad–Jaworska 92) | Al-Jallad–Jaworska 92 | gloss withheld |
 | Akkadian | lêmu (CAD L 126, AHw. 543 apud SEDonline 787) | CAD L 126, AHw. 543; SEDonline 787 | gloss withheld |
-| Judaic Aramaic | laḥmaʾ (T, 157) | T 157 |  |
+| Judaic Aramaic | laḥmaʾ (T 157) | T 157 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

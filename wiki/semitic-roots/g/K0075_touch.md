@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | GŠŠ (CAL s.v. gšš) | CAL s.v. gšš | gloss withheld |
 | Geez | gasasa 'touch' | Anderson–Moser 2024 root gss |  |
 | Hebrew | gašaš 'feel' | Anderson–Moser 2024 root gss |  |
-| Tigre | (tə)gasäsa (LGz., 204) | LGz. 204 | gloss withheld |
+| Tigre | (tə)gasäsa (LGz. 204) | LGz. 204 | gloss withheld |
 | Syrian Aramaic | gūš (Payne Smith 66); gšš (HALOT 206) | Payne Smith 66; HALOT 206 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

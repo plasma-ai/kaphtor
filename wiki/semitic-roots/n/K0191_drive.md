@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | nahaga 'pasture' | Anderson–Moser 2024 root nhg |  |
-| Hebrew | nhg (HALOT 675) | HALOT 675 |  |
-| Judaic Aramaic | nhg (HALOT 675) | HALOT 675 |  |
+| Hebrew | nhg (HALOT 675) | HALOT 675 | gloss withheld |
+| Judaic Aramaic | nhg (HALOT 675) | HALOT 675 | gloss withheld |
 | Arabic | nahaja (HALOT 675) | HALOT 675 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

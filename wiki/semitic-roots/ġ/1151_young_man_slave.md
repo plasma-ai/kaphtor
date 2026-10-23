@@ -38,8 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʿᵃlīmā, ʿelēmā (HALOT 835) | HALOT 835 |  |
 | Punic | alma (HALOT 835) | HALOT 835 | gloss withheld |
 | Aramaic | ʿwlymtʾ (HALOT 835) | HALOT 835 | gloss withheld |
-| Epigraphic South Arabian | Sab ɣlm (Kogan 2015, ch. 3 §5.2 no. 16) | Kogan 2015, ch. 3 §5.2 no. 16 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ġlmt (Al-Jallad–Jaworska, 74) | Al-Jallad–Jaworska 74 | gloss withheld |
+| Epigraphic South Arabian | Sab ɣlm (Kogan 2015, ch. 3 §5.2 no. 16; Sabaweb lemma 1334) | Kogan 2015, ch. 3 §5.2 no. 16; Sabaweb lemma 1334 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ġlmt (Al-Jallad–Jaworska 74) | Al-Jallad–Jaworska 74 | gloss withheld |
 | Eblaitic | ḫa-la-mi-im /ɣalm-im/ (Fronzaroli 1984: 142 apud SEDonline 295) | SEDonline 295 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

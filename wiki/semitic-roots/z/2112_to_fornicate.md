@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | zenō \[JH 149\] | JH 149 | gloss withheld |
 | Tigre | zäna \[LH 501\] | LH 501 | gloss withheld |
 | Mandaic Aramaic | ZNA \[DM 169\] | DM 169 | gloss withheld |
-| Ugaritic | dnt \[DLU 135\] | DLU 135 | gloss withheld |
+| Ugaritic | dnt \[DULAT 274\] | DULAT 274 | gloss withheld |
 | Geez | zanaya \[LGz 642\], zǝnyat \[ibid.\] | LGz 642; ibid. | gloss withheld |
 | Jibbali | zíni \[JJ 320\] | JJ 320 | gloss withheld |
 | Hebrew | zānā (HALOT 275) | HALOT 275 | gloss withheld |

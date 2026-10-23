@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | brq 1 |  |  |
 | Syrian Aramaic | barq- 1 (Payne Smith 56) | Payne Smith 56 |  |
 | Tigrinya | bärqi 1 |  |  |
-| Phoenician | brq (B, 292) | B 292 | gloss withheld |
+| Phoenician | brq (B 292) | B 292 | gloss withheld |
 | Aramaic | BRQ (Aramaic Root Atlas; CAL s.v. brq); brq (Aramaic Root Atlas; DNWSI 203 apud CAL) | Aramaic Root Atlas; CAL s.v. brq; Aramaic Root Atlas; DNWSI 203; CAL | gloss withheld |
 | Soqotri | brq 2 (HALOT 162) | HALOT 162 |  |
 | Amorite | brq: jabruq, burq(ān)um, burqatum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
@@ -49,7 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | End. Sod. bəraˀ, Muh. Msq. Sod. bəraḳ (EDG 155 apud SEDonline 543) | EDG 155; SEDonline 543 | gloss withheld |
 | East Ethiopic | Sel. bərāḳ, Wol. bərāḳ, bərāˀ, Zwy. bərrəḳat (EDG 155 apud SEDonline 543) | EDG 155; SEDonline 543 | gloss withheld |
 | Harari | bərāḳ (EDH 46 apud SEDonline 543) | EDH 46; SEDonline 543 | gloss withheld |
-| Mandaic Aramaic | brq 2 (LGz., 106) | LGz. 106 |  |
+| Mandaic Aramaic | brq 2 (LGz. 106) | LGz. 106 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

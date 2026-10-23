@@ -34,10 +34,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | DLY (CAL s.v. dly) | CAL s.v. dly | gloss withheld |
 | Geez | dalawa 'weigh' (Dillmann 07802) | Dillmann 07802 |  |
 | Hebrew | dalah 'draw' | Anderson–Moser 2024 root dlw |  |
-| Soqotri | dele (LGz., 132) | LGz. 132 |  |
-| Syrian Aramaic | dəlā (LGz., 132) | LGz. 132 | gloss withheld |
-| Tigrinya | däläwä (LGz., 132) | LGz. 132 |  |
-| Amharic | dälla (LGz., 132) | LGz. 132 | gloss withheld |
+| Soqotri | dele (LGz. 132) | LGz. 132 |  |
+| Syrian Aramaic | dəlā (LGz. 132) | LGz. 132 | gloss withheld |
+| Tigrinya | däläwä (LGz. 132) | LGz. 132 |  |
+| Amharic | dälla (LGz. 132) | LGz. 132 | gloss withheld |
 | Amorite | dlw: jadlū (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
 | Jibbali | délé (JL 39 apud SEDonline 1054) | JL 39; SEDonline 1054 | gloss withheld |
 

@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ġamma 'grieved' | Anderson–Moser 2024 root ġmm |  |
 | Aramaic | ʿMM 'dull' | Anderson–Moser 2024 root ġmm |  |
 | Hebrew | ʿamam 'dim' | Anderson–Moser 2024 root ġmm |  |
-| Ugaritic | ʿmm (CUC; DULAT, 161) | CUC; DULAT 161 | gloss withheld |
+| Ugaritic | ʿmm (CUC; DULAT 161) | CUC; DULAT 161 | gloss withheld |
 | Judaic Aramaic | ʿmm (HALOT 846) | HALOT 846 | gloss withheld |
-| Geez | ʿamama (LGz., 63) | LGz. 63 |  |
+| Geez | ʿamama (LGz. 63) | LGz. 63 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

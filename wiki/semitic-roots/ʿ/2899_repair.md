@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2899_repair
-title: "*ʿVdVb-: 'repair'"
-desc: "Proto-Semitic *ʿVdVb-, 'repair': reflexes in 3 language(s)."
+title: "*ʿVḏVb-: 'repair'"
+desc: "Proto-Semitic *ʿVḏVb-, 'repair': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2899"
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*ʿVdVb- |
+| Reconstruction | \*ʿVḏVb- |
 | Meaning | 'repair' |
 | Basis | project |
 
@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | ʿḏb (SD, 12) | SD 12 | gloss withheld |
+| Epigraphic South Arabian | ʿḏb (SD 12) | SD 12 | gloss withheld |
 | Ugaritic | ʿdb (HALOT 807) | HALOT 807 | gloss withheld |
 | Hebrew | ʿzb II (HALOT 807) | HALOT 807 | gloss withheld |
 

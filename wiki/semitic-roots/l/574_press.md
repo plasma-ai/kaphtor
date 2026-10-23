@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | lḥṣ | SEDonline semet 552 |  |
+| Hebrew | lḥṣ (HALOT 527) | HALOT 527 | gloss withheld |
 | Aramaic | LḤṢ (Aramaic Root Atlas; CAL s.v. lḥṣ) | Aramaic Root Atlas; CAL s.v. lḥṣ | gloss withheld |
 | Arabic | laḥaṣa (HALOT 527) | HALOT 527 |  |
 | Soqotri | laḥaṣ (HALOT 527) | HALOT 527 |  |

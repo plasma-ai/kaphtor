@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | dāgôn (Judg 16:23; 1 Sam 5:2–7; HALOT 213) | HALOT 213 | gloss withheld |
-| Ugaritic | dgn DN (DULAT, 265; HALOT 213) | DULAT 265; HALOT 213 |  |
+| Ugaritic | dgn DN (DULAT 265; HALOT 213) | DULAT 265; HALOT 213 |  |
 | Phoenician | dgn (HALOT 213) | HALOT 213 |  |
 | Akkadian | Dagana, Daguna (Babylonian; HALOT 213) | HALOT 213 |  |
 

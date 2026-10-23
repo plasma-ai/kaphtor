@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | gdʕ 1 |  |  |
 | Argobba | gʷdd 4 |  |  |
 | Tigrinya | gʷdʔ 3, 4 |  |  |
-| Phoenician | gdʿ (B, 295) | B 295 | gloss withheld |
+| Phoenician | gdʿ (B 295) | B 295 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

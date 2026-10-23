@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Šabāṭu (HALOT 1390; CAD Š1, 8) | HALOT 1390; CAD Š1, 8 | gloss withheld |
+| Akkadian | Šabāṭu (HALOT 1390; CAD Š/1 8) | HALOT 1390; CAD Š/1 8 | gloss withheld |
 | Hebrew | Šǝbāṭ (HALOT 1390) | HALOT 1390 | gloss withheld |
 | Aramaic | EgArm. šbṭ (HALOT 1390) | HALOT 1390 |  |
 | Syrian Aramaic | šᵉbaṭ (HALOT 1390) | HALOT 1390 |  |

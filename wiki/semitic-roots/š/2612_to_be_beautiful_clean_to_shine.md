@@ -30,18 +30,18 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | špr (Krahmalkov, 479) | Krahmalkov 479 | gloss withheld |
+| Punic | NPu. špʾr (Krahmalkov 479) | Krahmalkov 479 | gloss withheld |
 | Modern Aramaic | Urm. šapīr- |  |  |
 | Syrian Aramaic | šappīr- |  |  |
 | Aramaic | šappīr (OLA80 §29.11) | OLA80 §29.11 | gloss withheld |
 | Biblical Aramaic | špr (HALOT 1635) | HALOT 1635 |  |
 | Arabic | safara (HALOT 1635) | HALOT 1635 |  |
-| Amorite | špr (Huffmon APNM, 252) | Huffmon APNM 252 | gloss withheld |
+| Amorite | špr (Huffmon APNM 252) | Huffmon APNM 252 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-OB Š-stem ašapparakkim 'I shall write to you' — epistolary usage for correspondence/sending messages (Lipiński OLA80 §58.9).
+Hebrew šāpar qal 'to please' (Ps 16:6) is an Aramaism (HALOT 1635).
 
 <!-- END kaphtor:record -->

@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Ugaritic ksm 'part, share' (DULAT, 457), which DULAT compares with Akk. kasāmu 'to cut down trees, to cut herbs'.
+Ugaritic ksm 'part, share' (DULAT 457), which DULAT compares with Akk. kasāmu 'to cut down trees, to cut herbs'.
 
 <!-- END kaphtor:record -->

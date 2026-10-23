@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | parāṣu 1 AHw 832 | AHw 832 | gloss withheld |
 | Hebrew | prṣ 2 |  |  |
 | Judaic Aramaic | prṣ 2 (DJBA 937b apud CAL) | DJBA 937b; CAL |  |
-| Geez | faraṣa (LGz., 167) | LGz. 167 | gloss withheld |
-| Mandaic Aramaic | prṣ (LGz., 167) | LGz. 167 | gloss withheld |
-| Ugaritic | prṣ (DUL 672 apud SEDonline 1828) | DUL 672; SEDonline 1828 | gloss withheld |
+| Geez | faraṣa (LGz. 167) | LGz. 167 | gloss withheld |
+| Mandaic Aramaic | prṣ (LGz. 167) | LGz. 167 | gloss withheld |
+| Ugaritic | prṣ (DULAT 672) | DULAT 672 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

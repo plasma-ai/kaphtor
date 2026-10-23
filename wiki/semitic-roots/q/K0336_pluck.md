@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qāṭap (HALOT 1094) | HALOT 1094 | gloss withheld |
 | Syrian Aramaic | qəṭap (HALOT 1094; Payne Smith 502) | HALOT 1094; Payne Smith 502 |  |
 | Aramaic | qṭp (HALOT 1094; CAL s.v. qṭp) | HALOT 1094; CAL s.v. qṭp |  |
-| Tigrinya | qänṭäfä (LGz., 453) | LGz. 453 | gloss withheld |
-| Amharic | qäṭṭäfä (LGz., 453) | LGz. 453 | gloss withheld |
+| Tigrinya | qänṭäfä (LGz. 453) | LGz. 453 | gloss withheld |
+| Amharic | qäṭṭäfä (LGz. 453) | LGz. 453 | gloss withheld |
 | Arabic | qṭf (LA 9 340 apud SEDonline 1605) | LA 9 340; SEDonline 1605 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

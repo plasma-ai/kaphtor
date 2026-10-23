@@ -36,13 +36,13 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | qbl (HALOT 1061; DNWSI 979 apud CAL) | HALOT 1061; DNWSI 979; CAL |  |
 | Arabic | qabila (HALOT 1061) | HALOT 1061 |  |
 | Syrian Aramaic | qəbal (HALOT 1061; Payne Smith 487) | HALOT 1061; Payne Smith 487 |  |
-| Harsusi | qaybel (LGz., 419) | LGz. 419 |  |
-| Tigrinya | (tä)qäbbälä (LGz., 419) | LGz. 419 |  |
-| Amharic | (tä)qäbbälä (LGz., 419) | LGz. 419 |  |
-| Gafat | (tä)qibbälä (LGz., 419) | LGz. 419 |  |
-| Argobba | əqqebbäla (LGz., 419) | LGz. 419 |  |
-| Harari | (tä)qebäla (LGz., 419) | LGz. 419 |  |
-| Gurage | (tä)qibbälä (LGz., 419) | LGz. 419 |  |
+| Harsusi | qaybel (LGz. 419) | LGz. 419 |  |
+| Tigrinya | (tä)qäbbälä (LGz. 419) | LGz. 419 |  |
+| Amharic | (tä)qäbbälä (LGz. 419) | LGz. 419 |  |
+| Gafat | (tä)qibbälä (LGz. 419) | LGz. 419 |  |
+| Argobba | əqqebbäla (LGz. 419) | LGz. 419 |  |
+| Harari | (tä)qebäla (LGz. 419) | LGz. 419 |  |
+| Gurage | (tä)qibbälä (LGz. 419) | LGz. 419 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

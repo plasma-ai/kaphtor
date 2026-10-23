@@ -30,24 +30,24 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | quds- 'holiness' (BK 2, 687) | BK 2, 687 |  |
-| Akkadian | qadištu (CAD Q, 48); qadāšu, D quddušu (CAD Q, 46) | CAD Q, 48; CAD Q, 46 | gloss withheld |
-| Ugaritic | qdš (DUL, 700); /qadiš(a)/, /qidšu/ (UVST, 173) | DUL 700; UVST 173 | gloss withheld |
-| Phoenician | qdš (DNWSI, 991) | DNWSI 991 | gloss withheld |
+| Akkadian | qadištu (CAD Q 48); qadāšu, D quddušu (CAD Q 46) | CAD Q 48; CAD Q 46 | gloss withheld |
+| Ugaritic | qdš (DULAT 685-6); /qadiš(a)/, /qidšu/ (UVST 173) | DULAT 685-6; UVST 173 | gloss withheld |
+| Phoenician | qdš (DNWSI 995 apud SEDonline 1864) | DNWSI 995; SEDonline 1864 | gloss withheld |
 | Hebrew | qādōš (HALOT 1066) | HALOT 1066 | gloss withheld |
 | Tigre | qədussām kətubām (OLA80 §31.12) | OLA80 §31.12 | gloss withheld |
-| Aramaic | QDŠ 'holy' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | QDŠ (Aramaic Root Atlas; CAL s.v. qdš) | Aramaic Root Atlas; CAL s.v. qdš | gloss withheld |
 | Geez | qaddasa 'sanctify' | Anderson–Moser 2024 root qdš |  |
-| Punic | qdš; kdš (T, 138) | T 138 | gloss withheld |
+| Punic | qdš; kdš (T 138) | T 138 | gloss withheld |
 | Judaic Aramaic | maqdᵉšā (HALOT 625); qdš, qudšā (HALOT 1072, 1076) | HALOT 625; HALOT 1072, 1076 |  |
 | Syrian Aramaic | maqdᵉšā (HALOT 625; Payne Smith 296); qudšā (HALOT 1076) | HALOT 625; Payne Smith 296; HALOT 1076 |  |
 | Epigraphic South Arabian | Sab. qds (HALOT 1066, 1076) | HALOT 1066, 1076 |  |
 | Mandaic Aramaic | qadiša, qaduš, qudša (HALOT 1066, 1076) | HALOT 1066, 1076 |  |
-| Harsusi | qeds (LGz., 423) | LGz. 423 | gloss withheld |
-| Tigrinya | qäddäsä (LGz., 423) | LGz. 423 | gloss withheld |
-| Amharic | qäddäsä (LGz., 423) | LGz. 423 | gloss withheld |
-| Gurage | qiddäsä (LGz., 423) | LGz. 423 | gloss withheld |
+| Harsusi | qeds (LGz. 423) | LGz. 423 | gloss withheld |
+| Tigrinya | qäddäsä (LGz. 423) | LGz. 423 | gloss withheld |
+| Amharic | qäddäsä (LGz. 423) | LGz. 423 | gloss withheld |
+| Gurage | qiddäsä (LGz. 423) | LGz. 423 | gloss withheld |
 | Amorite | qdś: qadiśum, qudāśum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
-| Eblaitic | ga-ti-šum /ḳadišum/ (VE 100, Kogan–Krebernik 2021b: 684 apud SEDonline 1864) | VE 100, Kogan–Krebernik 2021b: 684; SEDonline 1864 | gloss withheld |
+| Eblaitic | ga-ti-šum /ḳadišum/ (VE 100, Kogan–Krebernik 2021b: 684 apud SEDonline 1864; Krebernik 1983, 4) | VE 100, Kogan–Krebernik 2021b: 684; SEDonline 1864; Krebernik 1983, 4 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

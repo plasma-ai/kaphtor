@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | medawwer3 |  |  |
 | Modern Arabic | Leb m-dawar, Mec mu-dawwar |  |  |
 | Hebrew | drdr 1, 2 |  |  |
-| Amorite | dwr: madar- (Huffmon APNM, 183) | Huffmon APNM 183 | gloss withheld |
+| Amorite | dwr: madar- (Huffmon APNM 183) | Huffmon APNM 183 | gloss withheld |
 | Amharic | däwwärä (AED 1821 apud SEDonline 2020) | AED 1821; SEDonline 2020 | gloss withheld |
 | Tigre | dorä (WTS 536 apud SEDonline 2020) | WTS 536; SEDonline 2020 | gloss withheld |
 | Akkadian | duāru (AHw. 1551 apud SEDonline 2020) | AHw. 1551; SEDonline 2020 | gloss withheld |

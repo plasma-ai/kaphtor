@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | nassaha, nassāhna (OLA80 §45.17) | OLA80 §45.17 |  |
-| Gurage | nəssa (LGz., 402) | LGz. 402 | gloss withheld |
+| Gurage | nəssa (LGz. 402) | LGz. 402 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

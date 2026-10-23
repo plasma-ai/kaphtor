@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ilulayu OB (i-lu-la-a-a LL) \[AHw 1563\] | AHw 1563 | gloss withheld |
 | Harsusi | me-ḥeleyōt |  | gloss withheld |
-| Tigre | ḥele LH, 52 | LH 52 | gloss withheld |
+| Tigre | ḥele LH 52 | LH 52 | gloss withheld |
 | Tigrinya | ḥawla K 258 | K 258 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

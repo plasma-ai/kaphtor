@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | NTŠ 'tear' | Anderson–Moser 2024 root ntś |  |
 | Geez | naśata 'destroy' | Anderson–Moser 2024 root ntś |  |
 | Hebrew | nataš 'pull' | Anderson–Moser 2024 root ntś |  |
-| Syrian Aramaic | nətaš (LGz., 404) | LGz. 404 |  |
-| Tigre | näšta (LGz., 404) | LGz. 404 | gloss withheld |
-| Tigrinya | näsätä (LGz., 404) | LGz. 404 | gloss withheld |
-| Amharic | nässätä (LGz., 404) | LGz. 404 |  |
+| Syrian Aramaic | nətaš (LGz. 404) | LGz. 404 |  |
+| Tigre | näšta (LGz. 404) | LGz. 404 | gloss withheld |
+| Tigrinya | näsätä (LGz. 404) | LGz. 404 | gloss withheld |
+| Amharic | nässätä (LGz. 404) | LGz. 404 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

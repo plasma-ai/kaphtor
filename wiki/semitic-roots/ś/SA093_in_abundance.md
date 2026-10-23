@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab s2fq (SD, 131) | SD 131 | gloss withheld |
-| Hebrew | śāpaq (Biella, 522) | Biella 522 |  |
+| Epigraphic South Arabian | Sab s2fq (SD 131) | SD 131 | gloss withheld |
+| Hebrew | śāpaq (Biella 522) | Biella 522 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

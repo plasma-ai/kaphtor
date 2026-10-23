@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṯinn- (Lane 356) | Lane 356 |  |
-| Pre-Islamic North Arabian | Safaitic ṯnt (Al-Jallad–Jaworska, 136) | Al-Jallad–Jaworska 136 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṯnt (Al-Jallad–Jaworska 136) | Al-Jallad–Jaworska 136 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | abūsu |  |  |
 | Hebrew | ʔebūs |  |  |
-| Phoenician | ʔbst (T, 3) | T 3 | gloss withheld |
-| Ugaritic | ibsn (DULAT, 14) | DULAT 14 | gloss withheld |
+| Phoenician | ʔbst (T 3) | T 3 | gloss withheld |
+| Ugaritic | ibsn (DULAT 14) | DULAT 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

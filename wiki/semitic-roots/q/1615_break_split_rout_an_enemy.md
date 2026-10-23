@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qyḍ \[-i-\] |  |  |
-| Epigraphic South Arabian | Sab qtḍ (inf.) (SD, 110), (Biella, 455) | SD 110; Biella 455 | gloss withheld |
+| Epigraphic South Arabian | Sab qtḍ (inf.) (SD 110), (Biella 455) | SD 110; Biella 455 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

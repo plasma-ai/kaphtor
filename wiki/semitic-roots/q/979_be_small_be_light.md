@@ -38,14 +38,14 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | qallīlā, qll (HALOT 1100, 1103) | HALOT 1100, 1103 |  |
 | Syrian Aramaic | qallīlā (HALOT 1100) | HALOT 1100 |  |
 | Mandaic Aramaic | qalil (HALOT 1100) | HALOT 1100 |  |
-| Tigrinya | qälälä (LGz., 428) | LGz. 428 | gloss withheld |
-| Gurage | qälälä (LGz., 428) | LGz. 428 | gloss withheld |
-| Tigre | qälla (LGz., 428) | LGz. 428 |  |
-| Harari | qäläla (LGz., 428) | LGz. 428 |  |
-| Amharic | qällälä (LGz., 428) | LGz. 428 |  |
-| Argobba | qälläla (LGz., 428) | LGz. 428 |  |
-| Gafat | qälliyä (LGz., 428) | LGz. 428 | gloss withheld |
-| Geez | qalla (LGz., 428) | LGz. 428 | gloss withheld |
+| Tigrinya | qälälä (LGz. 428) | LGz. 428 | gloss withheld |
+| Gurage | qälälä (LGz. 428) | LGz. 428 | gloss withheld |
+| Tigre | qälla (LGz. 428) | LGz. 428 |  |
+| Harari | qäläla (LGz. 428) | LGz. 428 |  |
+| Amharic | qällälä (LGz. 428) | LGz. 428 |  |
+| Argobba | qälläla (LGz. 428) | LGz. 428 |  |
+| Gafat | qälliyä (LGz. 428) | LGz. 428 | gloss withheld |
+| Geez | qalla (LGz. 428) | LGz. 428 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

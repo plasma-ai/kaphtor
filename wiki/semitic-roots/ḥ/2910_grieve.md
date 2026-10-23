@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ḥazana (LGz., 254) | LGz. 254 | gloss withheld |
-| Arabic | ḥazina (LGz., 254) | LGz. 254 | gloss withheld |
-| Tigrinya | ḥazänä (LGz., 254) | LGz. 254 | gloss withheld |
-| Tigre | ḥazna (LGz., 254) | LGz. 254 | gloss withheld |
-| Argobba | hazzäna (LGz., 254) | LGz. 254 | gloss withheld |
-| Amharic | azzänä (LGz., 254) | LGz. 254 | gloss withheld |
-| Gurage | azänä (LGz., 254) | LGz. 254 | gloss withheld |
-| Harari | ḥuzni (LGz., 254) | LGz. 254 | gloss withheld |
+| Geez | ḥazana (LGz. 254) | LGz. 254 | gloss withheld |
+| Arabic | ḥazina (LGz. 254) | LGz. 254 | gloss withheld |
+| Tigrinya | ḥazänä (LGz. 254) | LGz. 254 | gloss withheld |
+| Tigre | ḥazna (LGz. 254) | LGz. 254 | gloss withheld |
+| Argobba | hazzäna (LGz. 254) | LGz. 254 | gloss withheld |
+| Amharic | azzänä (LGz. 254) | LGz. 254 | gloss withheld |
+| Gurage | azänä (LGz. 254) | LGz. 254 | gloss withheld |
+| Harari | ḥuzni (LGz. 254) | LGz. 254 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | ṣmd /ṣimdu/ (Huehnergard 2012, 156) | Huehnergard 2012 156 | gloss withheld |
 | Hebrew | ṣmd; ṣemed 'couple' (BDB 855) | BDB 855 |  |
-| Akkadian | ṣimdu (CAD Ṣ, 196); ṣamādum (Huehnergard 1997 GAk, 519) | CAD Ṣ, 196; Huehnergard 1997 GAk, 519 | gloss withheld |
+| Akkadian | ṣimdu (CAD Ṣ 196); ṣamādum (Huehnergard 1997 GAk, 519) | CAD Ṣ 196; Huehnergard 1997 GAk, 519 | gloss withheld |
 | Aramaic | ṣmd (Aramaic Root Atlas; CAL s.v. ṣmd) | Aramaic Root Atlas; CAL s.v. ṣmd | gloss withheld |
 | Syrian Aramaic | ṣəmad (HALOT 1032) | HALOT 1032 |  |
 | Mandaic Aramaic | ṢMD (HALOT 1032) | HALOT 1032 |  |

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʿăqôlā (HALOT 874) | HALOT 874 |  |
 | Syrian Aramaic | ʕql 'twist awry, entangle, confuse'; ʔetʕqalqal (Payne Smith 425) | Payne Smith 425 |  |
 | Tigrinya | ˁeḳʷälä (TED 1866 apud SEDonline 1244) | TED 1866; SEDonline 1244 | gloss withheld |
-| Ugaritic | ʕḳltn (DUL 177 apud SEDonline 1244) | DUL 177; SEDonline 1244 | gloss withheld |
+| Ugaritic | ʕḳltn (DULAT 174) | DULAT 174 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | samm- (Lane 1419), simm-, summ- | Lane 1419 |  |
 | Mehri | sem |  |  |
 | Soqotri | sam |  |  |
-| Akkadian | (šammu &lt; Kogan Add. to HSED 2, 2185) | HSED 2, 2185 | gloss withheld |
+| Akkadian | šammu (HSED 2185); &lt; (Kogan Add. to HSED 2, 2185) | HSED 2185; Kogan Add. to HSED 2, 2185 | gloss withheld |
 | Harsusi | sem |  |  |
-| Ugaritic | smm (DULAT, 751) | DULAT 751 | gloss withheld |
+| Ugaritic | smm (DULAT 751) | DULAT 751 | gloss withheld |
 | Hebrew | pB sam(mā) Ja 998 | Ja 998 |  |
 | Judaic Aramaic | sam(mā) Ja 998 | Ja 998 |  |
 | Harari | summi |  |  |

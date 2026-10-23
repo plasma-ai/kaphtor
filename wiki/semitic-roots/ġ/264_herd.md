@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ɣadīrat- 'animal that stayed behind the main body of the herd; ewe, she-camel, etc., left behind' BK 2 439; cf. ɣdr 'to stay behind someone, behind the herd; to be satiated, having eaten a lot of plants from the beginning of spring (said of herds)' ibid. 438-9 | BK 2 439 |  |
-| Phoenician | ʕdr (T, 239) | T 239 | gloss withheld |
+| Phoenician | ʕdr (T 239) | T 239 | gloss withheld |
 | Hebrew | ʕēdär (HALOT 793) | HALOT 793 | gloss withheld |
 | Judaic Aramaic | ʕädrā id. (HALOT 793) | HALOT 793 |  |
 | Aramaic | SamP., Eg.-Arm. ʕdr id. (HALOT 793) | HALOT 793 |  |

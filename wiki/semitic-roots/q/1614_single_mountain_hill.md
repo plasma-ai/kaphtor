@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qār-at- (Lane 2574) | Lane 2574 |  |
-| Pre-Islamic North Arabian | Safaitic qrt (Al-Jallad–Jaworska, 111) | Al-Jallad–Jaworska 111 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qrt (Al-Jallad–Jaworska 111) | Al-Jallad–Jaworska 111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

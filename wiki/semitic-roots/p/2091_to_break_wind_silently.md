@@ -39,8 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | fässa \[K 2291\] | K 2291 | gloss withheld |
 | Tigrinya | fäsäwä 'to make, let out farts' \[Bass 994\] | Bass 994 |  |
 | Harari | fäs āša (SED I 315) | SED I 315 |  |
-| Gafat | fʷäsa (LGz., 168) | LGz. 168 |  |
-| Pre-Islamic North Arabian | Safaitic fsy (Al-Jallad–Jaworska, 70) | Al-Jallad–Jaworska 70 | gloss withheld |
+| Gafat | fʷäsa (LGz. 168) | LGz. 168 |  |
+| Pre-Islamic North Arabian | Safaitic fsy (Al-Jallad–Jaworska 70) | Al-Jallad–Jaworska 70 | gloss withheld |
 | Argobba | fässa (Leslau 1997: 200 apud SEDonline 1024) | Leslau 1997: 200; SEDonline 1024 | gloss withheld |
 | Jibbali | šeff (JL 260 apud SEDonline 1024) | JL 260; SEDonline 1024 | gloss withheld |
 

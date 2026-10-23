@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ɣǝllēt (JM 136) | JM 136 | gloss withheld |
 | Soqotri | ʕalíloh |  | gloss withheld |
 | Jibbali | ɣíẑɔ́t (JM 136) | JM 136 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ġll (Al-Jallad–Jaworska, 74) | Al-Jallad–Jaworska 74 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ġll (Al-Jallad–Jaworska 74) | Al-Jallad–Jaworska 74 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

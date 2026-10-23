@@ -34,21 +34,21 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | dḳḳ 2 |  |  |
 | Akkadian | daḳḳ- OAKK CAD D 107, daḳāḳu 1 | CAD D 107 | gloss withheld |
 | Mandaic Aramaic | dirdiḳy- |  | gloss withheld |
-| Ugaritic | dḳ DLU 135 | DLU 135 | gloss withheld |
+| Ugaritic | dḳ (DULAT 275) | DULAT 275 | gloss withheld |
 | East Ethiopic | Sel Wol ṭit, Zw ṭīt &lt;\*ṭḳ-t=Ar dḳḳ? |  |  |
 | Geez | daḳiḳ, dḳḳ; ṭǝḳḳat LGz 596 | LGz 596 | gloss withheld |
-| Phoenician | dq (Krahmalkov, 151) | Krahmalkov 151 | gloss withheld |
+| Phoenician | dq (Krahmalkov 151) | Krahmalkov 151 | gloss withheld |
 | Amharic | ṭǝḳit LGur 635 | LGur 635 | gloss withheld |
 | Harari | ṭīt |  | gloss withheld |
 | Syrian Aramaic | daḳdǝḳ-, dardǝḳ- 'young children' (Payne Smith 96) | Payne Smith 96 |  |
 | Aramaic | Pal dḳyḳ; DQQ (Aramaic Root Atlas; CAL s.v. dqq) | Aramaic Root Atlas; CAL s.v. dqq | gloss withheld |
 | Hebrew | daq (HALOT 229) | HALOT 229 | gloss withheld |
-| Epigraphic South Arabian | dqq (LGz., 140) | LGz. 140 | gloss withheld |
-| Tigrinya | däqäqä, däqqi (LGz., 140) | LGz. 140 | gloss withheld |
-| Tigre | däqqa (LGz., 140) | LGz. 140 |  |
-| Argobba | (a)däqqäqa (LGz., 140) | LGz. 140 | gloss withheld |
-| Gurage | däqäqä (LGz., 140) | LGz. 140 | gloss withheld |
-| Judaic Aramaic | daqqaʾ (T, 74) | T 74 |  |
+| Epigraphic South Arabian | dqq (LGz. 140; Sabaweb lemma 4015) | LGz. 140; Sabaweb lemma 4015 | gloss withheld |
+| Tigrinya | däqäqä, däqqi (LGz. 140) | LGz. 140 | gloss withheld |
+| Tigre | däqqa (LGz. 140) | LGz. 140 |  |
+| Argobba | (a)däqqäqa (LGz. 140) | LGz. 140 | gloss withheld |
+| Gurage | däqäqä (LGz. 140) | LGz. 140 | gloss withheld |
+| Judaic Aramaic | daqqaʾ (T 74) | T 74 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

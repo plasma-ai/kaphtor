@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | raṣādu 'watch' | Anderson–Moser 2024 root rṣd |  |
 | Hebrew | raṣad 'watch' (BDB 952) | BDB 952 |  |
-| Epigraphic South Arabian | Sab rṣd (SD, 118) | SD 118 | gloss withheld |
+| Epigraphic South Arabian | Sab rṣd (SD 118; Sabaweb lemma 1779) | SD 118; Sabaweb lemma 1779 | gloss withheld |
 | Arabic | raṣada 'watch, lie in wait for' (Lane 1092) | Lane 1092 |  |
 | Judaic Aramaic | rəṣad (HALOT 1280) | HALOT 1280 |  |
 

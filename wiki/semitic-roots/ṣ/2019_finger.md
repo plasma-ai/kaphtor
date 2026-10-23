@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔaṣbaʕ-, ʔiṣbaʕ-, ʔaṣbiʕ-, ʔaṣbuʕ, ʔiṣbiʕ-, ʔiṣbuʕ-, ʔuṣbuʕ-, ʔuṣbiʕ-, ʔuṣbūʕ- \[BK 1 1307\] | BK 1 1307 |  |
 | Mehri | ṣ̌ǝbáʔ (also) \[JM 397\] | JM 397 | gloss withheld |
-| Soqotri | ʔéṣbaḥ \[LS 70\], ṣóbeḥ \[ibid. 345\]. | LS 70; ibid. 345 |  |
+| Soqotri | ʔéṣbaḥ \[LS 70\], ṣóbeḥ \[ibid. 345\]; éṣbeˁ (SLOnline 3144). | LS 70; ibid. 345 | gloss withheld |
 | Akkadian | neṣbettu \[CAD n2 190\], \[AHw 782\]. | CAD n2 190; AHw 782 |  |
 | Harsusi | ḥaṣ̌báʔ \[JH 126\] (&lt;\*ḥa-ṣibaʕ) | JH 126 |  |
 | Tigre | č̣ǝbʕǝt \[LH 627\] | LH 627 |  |
-| Eblaitic | iš-ba-um, ìsa-ba-um, iš11-ba-ḫum /ʔiṣbaʕum/ \[Kr 18; Bl E No. 20\]; iṣ-ba-um (OLA80 §27.17) | Kr 18; OLA80 §27.17 | gloss withheld |
+| Eblaitic | iš-ba-um, ì-sa-ba-um, iš11-ba-ḫum /ʔiṣbaʕum/ \[Kr 18; Bl E No. 20\]; iṣ-ba-um (OLA80 §27.17) | Kr 18; OLA80 §27.17 | gloss withheld |
 | Mandaic Aramaic | ṣibita, ʕṣba (also) \[DM 355\] | DM 355 | gloss withheld |
-| Ugaritic | ʔuṣbʕ \[DLU 55\] | DLU 55 | gloss withheld |
+| Ugaritic | ʔuṣbʕ \[DULAT 111\] | DULAT 111 | gloss withheld |
 | East Ethiopic | SEL ZWY ǝnṭābit, WOL ǝnṭabit \[LGur 108\] | LGur 108 |  |
 | Geez | ʔaṣbāʕ(ǝ)t (also) \[LGz 45\] | LGz 45 | gloss withheld |
 | Gurage | MUH MSQ GOG atebät, SOD aṭabät, GYE aṭayḇä, ENN END GYE ateyä, END aṭe, CHA EŽA MUH atebät, CHA EŽA atebä \[ibid.\] |  |  |
@@ -57,7 +57,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʔaṣabǝʕti (pl.) \[Bass 580\] | Bass 580 |  |
 | Modern South Arabian | Śḥeri, Soqoṭri ʾəṣbaʿ (OLA80 §14.8) | OLA80 §14.8 | gloss withheld |
 | Egyptian | ḏbʿ (OLA80 §2.5) | OLA80 §2.5 | gloss withheld |
-| Epigraphic South Arabian | SAB ʔṣbʕ; MIN ṣbʕ (SED I 228) | SED I 228 | gloss withheld |
+| Epigraphic South Arabian | SAB ʔṣbʕ (Sabaweb lemma 5171); MIN ṣbʕ (SED I 228) | Sabaweb lemma 5171; SED I 228 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

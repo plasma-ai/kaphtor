@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | maks- 'customs duty, toll' (BK 2, 1138) | BK 2, 1138 |  |
-| Akkadian | mākisu (CAD M1, 129) | CAD M1, 129 | gloss withheld |
-| Phoenician | mks (Krahmalkov, 281); RCL 1966: hmks... šql mḥtt; mkst (T, 177) | Krahmalkov 281; T 177 | gloss withheld |
+| Akkadian | mākisu (CAD M/1 129) | CAD M/1 129 | gloss withheld |
+| Phoenician | mks (Krahmalkov 281); RCL 1966: hmks... šql mḥtt; mkst (T 177) | Krahmalkov 281; T 177 | gloss withheld |
 | Hebrew | mekes (Num 31:28, 37–41; HALOT 581) | HALOT 581 | gloss withheld |
 | Aramaic | māksā 'customs, tax; tax collector' (Jastrow 784) | Jastrow 784 |  |
 | Syrian Aramaic | mākes 'publican, tax-gatherer', maksā 'tribute, toll, tax' (Payne Smith 272) | Payne Smith 272 |  |

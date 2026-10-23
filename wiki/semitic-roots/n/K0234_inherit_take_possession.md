@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | nḥl 'inherit' | Anderson–Moser 2024 root nḫl |  |
 | Arabic | nḥl, niḥlat- (Kogan 2015, ch. 3 §5.3 no. 23) | Kogan 2015, ch. 3 §5.3 no. 23 | gloss withheld |
 | Epigraphic South Arabian | Sab nḥl, nḥlt (Kogan 2015, ch. 3 §5.3 no. 23) | Kogan 2015, ch. 3 §5.3 no. 23 | gloss withheld |
-| Ugaritic | nḥl, nḥlt (DULAT, 619) | DULAT 619 | gloss withheld |
+| Ugaritic | nḥl, nḥlt (DULAT 619) | DULAT 619 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

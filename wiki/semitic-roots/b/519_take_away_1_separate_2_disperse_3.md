@@ -35,12 +35,12 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | bd 1 |  |  |
 | Hebrew | bdd 2 |  |  |
 | Aramaic | (Emp) bdd 3 |  |  |
-| Phoenician | bdd (T, 44) | T 44 | gloss withheld |
-| Geez | badada, badda (LGz., 86) | LGz. 86 | gloss withheld |
-| Arabic | badda (LGz., 86) | LGz. 86 |  |
-| Akkadian | badādu (LGz., 86) | LGz. 86 | gloss withheld |
-| Tigre | bädäd bela (LGz., 86) | LGz. 86 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic bd (Al-Jallad–Jaworska, 59) | Al-Jallad–Jaworska 59 | gloss withheld |
+| Phoenician | bdd (T 44) | T 44 | gloss withheld |
+| Geez | badada, badda (LGz. 86) | LGz. 86 | gloss withheld |
+| Arabic | badda (LGz. 86) | LGz. 86 |  |
+| Akkadian | badādu (LGz. 86) | LGz. 86 | gloss withheld |
+| Tigre | bädäd bela (LGz. 86) | LGz. 86 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bd (Al-Jallad–Jaworska 59) | Al-Jallad–Jaworska 59 | gloss withheld |
 | Jibbali | bedd (JL 22 apud SEDonline 1311) | JL 22; SEDonline 1311 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

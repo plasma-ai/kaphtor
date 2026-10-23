@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ngš (HALOT 670) | HALOT 670 |  |
 | Canaanite | nagāšu (HALOT 670) | HALOT 670 |  |
 | Akkadian | nagāšu (HALOT 670) | HALOT 670 |  |
-| Tigrinya | nägäsä (LGz., 392) | LGz. 392 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ngś (Al-Jallad–Jaworska, 104) | Al-Jallad–Jaworska 104 | gloss withheld |
+| Tigrinya | nägäsä (LGz. 392) | LGz. 392 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ngś (Al-Jallad–Jaworska 104) | Al-Jallad–Jaworska 104 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

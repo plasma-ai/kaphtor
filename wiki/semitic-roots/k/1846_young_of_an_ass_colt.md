@@ -23,17 +23,16 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*kurr- |
 | Meaning | 'young of an ass, colt' |
-| Basis | reconstruction SED, corrected; meaning SED |
-| SED | SEDonline semet 1987 |
+| Basis | project |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | (dial.) kurr- 'donkey foal, foal' Belot, 687 | Belot 687 |  |
-| East Ethiopic | Cf. W. kurkur LGur., 349 | LGur. 349 | gloss withheld |
-| Amharic | Cf. kʷǝrkʷǝr LGur., 349 | LGur. 349 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic kr (Al-Jallad–Jaworska, 90) | Al-Jallad–Jaworska 90 | gloss withheld |
+| East Ethiopic | Cf. W. kurkur LGur. 349 | LGur. 349 | gloss withheld |
+| Amharic | Cf. kʷǝrkʷǝr LGur. 349 | LGur. 349 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic kr (Al-Jallad–Jaworska 90) | Al-Jallad–Jaworska 90 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

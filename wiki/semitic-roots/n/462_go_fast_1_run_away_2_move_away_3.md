@@ -39,9 +39,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | nadʾa (HALOT 671, 672) | HALOT 671, 672 |  |
 | Mandaic Aramaic | ndh (HALOT 672) | HALOT 672 |  |
 | Akkadian | nadû (HALOT 672) | HALOT 672 |  |
-| Tigrinya | nädʾe (LGz., 385) | LGz. 385 | gloss withheld |
-| Amharic | nädda (LGz., 385) | LGz. 385 | gloss withheld |
-| Harari | nadaʾa (LGz., 385) | LGz. 385 | gloss withheld |
+| Tigrinya | nädʾe (LGz. 385) | LGz. 385 | gloss withheld |
+| Amharic | nädda (LGz. 385) | LGz. 385 | gloss withheld |
+| Harari | nadaʾa (LGz. 385) | LGz. 385 | gloss withheld |
 | Amorite | nwd: janūd, nūd(at)um (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

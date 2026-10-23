@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | pB ḥammār |  | gloss withheld |
 | Amharic | hamär |  | gloss withheld |
 | Tigrinya | ḥamär |  | gloss withheld |
-| Epigraphic South Arabian | ḥmr-t (?) (LGz., 234) | LGz. 234 | gloss withheld |
+| Epigraphic South Arabian | ḥmr-t (?) (LGz. 234) | LGz. 234 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

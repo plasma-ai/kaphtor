@@ -32,15 +32,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | rḥb a/u,3,4 (Lane 1051) | Lane 1051 |  |
 | Ugaritic | rḥb /raḥabu/ (Huehnergard 2012, 155) | Huehnergard 2012 155 | gloss withheld |
-| Phoenician | rḥb (Krahmalkov, 443) | Krahmalkov 443 | gloss withheld |
+| Phoenician | rḥb (Krahmalkov 443) | Krahmalkov 443 | gloss withheld |
 | Hebrew | rḥb (Kogan 2015, ch. 2 §4.2 no. 50) | Kogan 2015, ch. 2 §4.2 no. 50 |  |
 | Punic | rḥb 'enlarge' | Anderson–Moser 2024 root rḥb |  |
 | Mandaic Aramaic | RHB (HALOT 1210) | HALOT 1210 |  |
 | Tigre | raḥaba, rĕḥīb (HALOT 1210) | HALOT 1210 |  |
 | Judaic Aramaic | rḥb (HALOT 1211) | HALOT 1211 |  |
 | Aramaic | OArm. rḥbh (HALOT 1211) | HALOT 1211 |  |
-| Epigraphic South Arabian | h-rḥb (LGz., 466) | LGz. 466 | gloss withheld |
-| Tigrinya | räḥabä (LGz., 466) | LGz. 466 |  |
+| Epigraphic South Arabian | h-rḥb (LGz. 466) | LGz. 466 | gloss withheld |
+| Tigrinya | räḥabä (LGz. 466) | LGz. 466 |  |
 | Amorite | rḥb: jarḥab, raḥabum, raḥibum, ruḥbatum (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
 | Soqotri | ráḥab (Kogan 2015, ch. 2 §4.2 no. 50) | Kogan 2015, ch. 2 §4.2 no. 50 | gloss withheld |
 

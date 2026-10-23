@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕelaḳtā, ʕalūḳā 'leech, bloodsucker' \[Brock. 528\], \[PS 2903\] (also ʕalḳā). | Brock. 528; PS 2903 |  |
 | Tigrinya | ʕaläḳti 'leech (mignatta)' \[Bass. 670\]. | Bass. 670 |  |
 | Aramaic | ʿlwqh (Aramaic Root Atlas; CAL s.v. ʿlwqh) | Aramaic Root Atlas; CAL s.v. ʿlwqh | gloss withheld |
-| Argobba | haläqit (LGz., 61) | LGz. 61 |  |
+| Argobba | haläqit (LGz. 61) | LGz. 61 |  |
 | Modern Aramaic | NSyr. ʕalûḳâ, Tur. ʕalḳe (pl.), ʕalḳo (SED II 51) | SED II 51 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

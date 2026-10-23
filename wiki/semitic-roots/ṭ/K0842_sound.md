@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ṭaqʿa 'sound' | Anderson–Moser 2024 root ṭqʿ |  |
-| Hebrew | tāqaʿ (LGz., 595; HALOT 1785) | LGz. 595; HALOT 1785 | gloss withheld |
-| Aramaic | təqaʿ (LGz., 595) | LGz. 595 |  |
-| Arabic | (Syria) ṭaqaʿ (LGz., 595) | LGz. 595 | gloss withheld |
-| Tigre | ṭaqʿa (LGz., 595) | LGz. 595 | gloss withheld |
-| Tigrinya | ṭäqʿe (LGz., 595) | LGz. 595 | gloss withheld |
-| Amharic | ṭäqqa (LGz., 595) | LGz. 595 | gloss withheld |
+| Hebrew | tāqaʿ (LGz. 595; HALOT 1785) | LGz. 595; HALOT 1785 | gloss withheld |
+| Aramaic | təqaʿ (LGz. 595) | LGz. 595 |  |
+| Arabic | (Syria) ṭaqaʿ (LGz. 595) | LGz. 595 | gloss withheld |
+| Tigre | ṭaqʿa (LGz. 595) | LGz. 595 | gloss withheld |
+| Tigrinya | ṭäqʿe (LGz. 595) | LGz. 595 | gloss withheld |
+| Amharic | ṭäqqa (LGz. 595) | LGz. 595 | gloss withheld |
 | Judaic Aramaic | tᵉqaʿ (HALOT 1785) | HALOT 1785 |  |
 | Ugaritic | tqʿ (HALOT 1785) | HALOT 1785 |  |
 
@@ -43,6 +43,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Leslau takes tqʿ as original, ṭqʿ by assimilation (LGz., 595).
+Leslau takes tqʿ as original, ṭqʿ by assimilation (LGz. 595).
 
 <!-- END kaphtor:record -->

@@ -37,12 +37,12 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šḥṭ |  |  |
 | Geez | saḥaṭa 'wound' | Anderson–Moser 2024 root šḥṭ |  |
 | Judaic Aramaic | šəḥaṭ (HALOT 1458; DJBA 1127a apud CAL) | HALOT 1458; DJBA 1127a; CAL | gloss withheld |
-| Ugaritic | šḫṭ (DULAT, 802) | DULAT 802 | gloss withheld |
+| Ugaritic | šḫṭ (DULAT 802) | DULAT 802 | gloss withheld |
 | Syrian Aramaic | šaḥḥeṭ (HALOT 1458) | HALOT 1458 | gloss withheld |
-| Tigre | säḥaṭa (LGz., 494) | LGz. 494 | gloss withheld |
-| Harari | sēḥaṭa (LGz., 494) | LGz. 494 | gloss withheld |
-| Amharic | saṭä, šaṭä (LGz., 494) | LGz. 494 | gloss withheld |
-| Gurage | saṭä (LGz., 494) | LGz. 494 | gloss withheld |
+| Tigre | säḥaṭa (LGz. 494) | LGz. 494 | gloss withheld |
+| Harari | sēḥaṭa (LGz. 494) | LGz. 494 | gloss withheld |
+| Amharic | saṭä, šaṭä (LGz. 494) | LGz. 494 | gloss withheld |
+| Gurage | saṭä (LGz. 494) | LGz. 494 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

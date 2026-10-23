@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | tēl |  |  |
 | Syrian Aramaic | tell- |  |  |
 | Oromo | tullū (OLA80 §63.6) | OLA80 §63.6 | gloss withheld |
-| Punic | tyl (T, 338) | T 338 | gloss withheld |
+| Punic | tyl (T 338) | T 338 | gloss withheld |
 | Judaic Aramaic | tillā (HALOT 1735) | HALOT 1735 |  |
 | Aramaic | tl, tlʾ (HALOT 1735) | HALOT 1735 |  |
 | Mandaic Aramaic | talilia, tallia (HALOT 1735) | HALOT 1735 |  |

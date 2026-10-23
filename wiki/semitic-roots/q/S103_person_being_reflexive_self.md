@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Aramaic | qīqn- (OLA80 §36.28) | OLA80 §36.28 |  |
-| Phoenician | qnm reflexive pronoun (T, 290) | T 290 |  |
-| Punic | qnʾm (T, 290) | T 290 | gloss withheld |
+| Phoenician | qnm reflexive pronoun (T 290) | T 290 |  |
+| Punic | qnʾm (T 290) | T 290 | gloss withheld |
 | Syrian Aramaic | qnūm 'hypostasis, substance, person' (Payne Smith 509) | Payne Smith 509 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

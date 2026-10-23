@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | c̣ōr (trans. eṣbér) |  |  |
 | Amharic | ṭorä |  | gloss withheld |
 | Tigrinya | ṣorä |  | gloss withheld |
-| Argobba | ṭora (LGz., 567) | LGz. 567 | gloss withheld |
+| Argobba | ṭora (LGz. 567) | LGz. 567 | gloss withheld |
 | Harari | ṭōra \[LHar 155\] | LHar 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

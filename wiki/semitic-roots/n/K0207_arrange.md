@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | nasaqa 'pave' | Anderson–Moser 2024 root nsq |  |
-| Akkadian | nasāqu (Št-stem) (LGz., 403) | LGz. 403 | gloss withheld |
-| Tigre | näsqa (LGz., 403) | LGz. 403 | gloss withheld |
+| Akkadian | nasāqu (Št-stem) (LGz. 403) | LGz. 403 | gloss withheld |
+| Tigre | näsqa (LGz. 403) | LGz. 403 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

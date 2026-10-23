@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Soqotri | ḥte &lt;\*ʕVt-? |  | gloss withheld |
+| Soqotri | ḥte &lt;\*ʕVt-?; ḥteʰ (SLOnline 161) |  | gloss withheld |
 | Hebrew | ʕēt (HALOT 899, 900) | HALOT 899, 900 | gloss withheld |
 | Argobba | Cf. etta, yet (no rel. etym. in LArg) |  | gloss withheld |
 | Phoenician | ʿt (HALOT 899) | HALOT 899 |  |

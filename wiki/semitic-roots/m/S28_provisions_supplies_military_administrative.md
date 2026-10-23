@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Amarna: maṭniʾu / ma-aṭ-ni-a (EA 337; Moran 1992, 370). West Semitic gloss in Akkadian letter. |  | gloss withheld |
-| Phoenician | mṭnʾ (DNWSI 618; cf. Krahmalkov, PPOD s.v.) | DNWSI 618 | gloss withheld |
+| Akkadian | Amarna: maṭniʾu / ma-aṭ-ni-a (EA 337; Moran 1992, 358). West Semitic gloss in Akkadian letter. | Moran 1992, 358 | gloss withheld |
+| Phoenician | mṭnʾ (Krahmalkov 279), compared with the Amarna gloss ma-aṭ-ni-a (Moran 1992, 358 n. 1) | Krahmalkov 279; Moran 1992, 358 n. 1 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

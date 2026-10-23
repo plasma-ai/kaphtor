@@ -36,9 +36,9 @@ updated: 2026-10-22T17:38:31Z
 | Punic | yn 'wine' | Anderson–Moser 2024 root yyn |  |
 | Ugaritic | yn (Kogan 2011, 241) | Kogan 2011, 241 | gloss withheld |
 | Arabic | wain (HALOT 409) | HALOT 409 | gloss withheld |
-| Epigraphic South Arabian | wyn, yyn (HALOT 409); SAB QAT wyn (Kogan 2011, 241) | HALOT 409; Kogan 2011, 241 | gloss withheld |
-| Tigrinya | wäyni (LGz., 623) | LGz. 623 | gloss withheld |
-| Amharic | wäyn (LGz., 623) | LGz. 623 |  |
+| Epigraphic South Arabian | wyn, yyn (HALOT 409); SAB QAT wyn (Kogan 2011, 241; Sabaweb lemma 3076) | HALOT 409; Kogan 2011, 241; Sabaweb lemma 3076 | gloss withheld |
+| Tigrinya | wäyni (LGz. 623) | LGz. 623 | gloss withheld |
+| Amharic | wäyn (LGz. 623) | LGz. 623 |  |
 | Amorite | yayn- (George and Krebernik 2022, 155); \*yayn (Golinets 2025, 890) | Krebernik 2022; Golinets 2025, 890 | gloss withheld |
 | Phoenician | yn (Golinets 2025, 892) | Golinets 2025, 892 | gloss withheld |
 | Canaanite | ye-nu (Kogan 2011, 241; Golinets 2025, 892), Amm. yn (Golinets 2025, 892) | Kogan 2011, 241; Golinets 2025, 892; Golinets 2025, 892 | gloss withheld |

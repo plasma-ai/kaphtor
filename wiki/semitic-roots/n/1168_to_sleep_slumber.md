@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | nwm \[Ja 887\]; \[Sok 314\] | Ja 887; Sok 314 | gloss withheld |
 | Syrian Aramaic | nwm 'dozed' \[Brock 420\] | Brock 420 |  |
 | Aramaic | CHR-PAL nhm 'slept' \[Schulthess 119\], Jud-Pal nwm | Schulthess 119 |  |
-| Pre-Islamic North Arabian | Safaitic nym (Al-Jallad–Jaworska, 108) | Al-Jallad–Jaworska 108 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nym (Al-Jallad–Jaworska 108) | Al-Jallad–Jaworska 108 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

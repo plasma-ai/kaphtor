@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ṣr (DULAT, 779) | DULAT 779 | gloss withheld |
-| Phoenician | ṣr (Krahmalkov, 421) | Krahmalkov 421 | gloss withheld |
+| Ugaritic | ṣr (DULAT 779) | DULAT 779 | gloss withheld |
+| Phoenician | ṣr (Krahmalkov 421) | Krahmalkov 421 | gloss withheld |
 | Hebrew | ṣūr (HALOT 1016) | HALOT 1016 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

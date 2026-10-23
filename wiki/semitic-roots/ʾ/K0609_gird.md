@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔazara; ʾizār (HALOT 27) | HALOT 27 | gloss withheld |
 | Hebrew | ʾazar 'gird' | Anderson–Moser 2024 root ʾzr |  |
 | Punic | ʾzr 'gird' | Anderson–Moser 2024 root ʾzr |  |
-| Ugaritic | ʾzr (CUC; DULAT, 134); mizrtm (HALOT 27); /maʾzaru/?, pl. /maʾzarūma/? (UVST, 105) | CUC; DULAT 134; HALOT 27; UVST 105 | gloss withheld |
+| Ugaritic | ʾzr (CUC; DULAT 134); mizrtm (HALOT 27); /maʾzaru/?, pl. /maʾzarūma/? (UVST 105) | CUC; DULAT 134; HALOT 27; UVST 105 | gloss withheld |
 | Syrian Aramaic | ʔīzrā 'a linen girdle' (Payne Smith 12) | Payne Smith 12 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

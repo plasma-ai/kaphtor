@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | rasūl (QAC rsl) | QAC rsl | gloss withheld |
-| Epigraphic South Arabian | rs1l (SD, 117; Biella, 490; DASI) | SD 117; Biella 490 | gloss withheld |
+| Epigraphic South Arabian | rs1l (SD 117; Biella 490; DASI; Sabaweb lemma 4914) | SD 117; Biella 490; Sabaweb lemma 4914 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

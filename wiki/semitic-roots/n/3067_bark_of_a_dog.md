@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | nabaḥa (HALOT 660) | HALOT 660 |  |
 | Hebrew | nbḥ (HALOT 660) | HALOT 660 | gloss withheld |
 | Akkadian | nabāḫu (HALOT 660) | HALOT 660 |  |
-| Geez | nabḥa (LGz., 383) | LGz. 383 | gloss withheld |
+| Geez | nabḥa (LGz. 383) | LGz. 383 | gloss withheld |
 | Syrian Aramaic | nbaḥ 'bark; metaph. speak roughly' (Payne Smith 326) | Payne Smith 326 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

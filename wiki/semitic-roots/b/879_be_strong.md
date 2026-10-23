@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | bʔs \[-u-\] (Lane 146) | Lane 146 |  |
-| Geez | bəʾsa (LGz., 83) | LGz. 83 | gloss withheld |
+| Geez | bəʾsa (LGz. 83) | LGz. 83 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

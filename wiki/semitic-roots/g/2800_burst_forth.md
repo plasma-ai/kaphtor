@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Geez | g-ḥ 'burst forth, dawn' (Dillmann 08544) | Dillmann 08544 |  |
 | Tigre | gōḥa (HALOT 189) | HALOT 189 | gloss withheld |
 | Arabic | jāḥa (HALOT 189) | HALOT 189 |  |
-| Tigrinya | gaḥ, gaḥgaḥ (LGz., 207) | LGz. 207 | gloss withheld |
-| Amharic | goh, gʷäh (LGz., 207) | LGz. 207 | gloss withheld |
-| Gurage | ga balä, gaʾat (LGz., 207) | LGz. 207 | gloss withheld |
+| Tigrinya | gaḥ, gaḥgaḥ (LGz. 207) | LGz. 207 | gloss withheld |
+| Amharic | goh, gʷäh (LGz. 207) | LGz. 207 | gloss withheld |
+| Gurage | ga balä, gaʾat (LGz. 207) | LGz. 207 | gloss withheld |
 | Amorite | gjḥ: jagīḥ (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
 | Syrian Aramaic | gāḥ 'gush out, pour forth' (Payne Smith 63) | Payne Smith 63 |  |
 

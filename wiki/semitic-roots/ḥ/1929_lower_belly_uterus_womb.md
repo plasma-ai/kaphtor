@@ -40,8 +40,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥōmäš (HALOT 331) | HALOT 331 | gloss withheld |
 | Amharic | ǝms \[K 1126\] | K 1126 | gloss withheld |
 | Syrian Aramaic | ḥumšā 'abdomen, omasum' \[Brock 242\]. | Brock 242 |  |
-| Tigrinya | ḥəmsi (LGz., 235) | LGz. 235 |  |
-| Ugaritic | ḥmṯ 'belly' | Anderson–Moser 2024 root ḥmṯ |  |
+| Tigrinya | ḥəmsi (LGz. 235) | LGz. 235 |  |
+| Ugaritic | ḥmṯ (DULAT 360) | DULAT 360 | gloss withheld |
 | Argobba | həms (AAD 312 apud SEDonline 724) | SEDonline 724 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

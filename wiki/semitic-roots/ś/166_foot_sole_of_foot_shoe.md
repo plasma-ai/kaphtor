@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | (?) ENN GYE čämba, END čämbä \[LGur 173\]. | LGur 173 | gloss withheld |
 | Jibbali | ŝɛf, pl. ɛŝfɔ́f \[JJ 246\] | JJ 246 | gloss withheld |
 | Amharic | šǝbšäba (redupl.) \[K 637\] | K 637 | gloss withheld |
-| Syrian Aramaic | šēpā 'scapus (caligae); mucro nasi' \[Brock 794\] (with š- instead of the expected s-) | Brock 794 |  |
+| Syrian Aramaic | šēpā 'shaft (of a boot); tip of the nose' \[Brock 794\] (with š- instead of the expected s-) | Brock 794 |  |
 | Aramaic | Off. šp \[HJ 1181\] | HJ 1181 | gloss withheld |
 | Harsusi | ŝēf \[JH 119\] | JH 119 | gloss withheld |
 | Modern South Arabian | ʕAbd-el-Kuri ŝɔf, sāf \[SSL 4 97\] | SSL 4 97 | gloss withheld |

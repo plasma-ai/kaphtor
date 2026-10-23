@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šʔb 2 |  |  |
 | Aramaic | šʔb 2 |  |  |
 | Ugaritic | šʾb 'draw' | Anderson–Moser 2024 root šʾb |  |
-| Epigraphic South Arabian | Sab s1ʾb (SD, 121) | SD 121 | gloss withheld |
+| Epigraphic South Arabian | Sab s1ʾb (SD 121) | SD 121 | gloss withheld |
 | Akkadian | sâbu (CAD S 9, AHw. 1000 apud SEDonline 1053) | CAD S 9, AHw. 1000; SEDonline 1053 | gloss withheld |
 | Jibbali | šɛ̄b (JL 265 apud SEDonline 1053) | JL 265; SEDonline 1053 | gloss withheld |
 

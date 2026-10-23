@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḏbḥ 1, 2 (Lane 953) | Lane 953 |  |
 | Akkadian | zebû NB 1, 2 |  |  |
 | Tigre | zbḥ |  |  |
-| Ugaritic | dbḥ 1; /dabḥu/ (UVST, 117) | UVST 117 | gloss withheld |
+| Ugaritic | dbḥ 1; /dabḥu/ (UVST 117) | UVST 117 | gloss withheld |
 | Geez | zbḥ 1,2 |  |  |
 | Biblical Aramaic | dbḥ 2 (CAL s.v. dbḥ) | CAL s.v. dbḥ |  |
 | Phoenician | zbḥ 1 |  |  |
@@ -44,8 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | debḥā (HALOT 262; Payne Smith 82) | HALOT 262; Payne Smith 82 |  |
 | Judaic Aramaic | dbḥʾ (HALOT 262; DJPA 138a apud CAL) | HALOT 262; DJPA 138a; CAL |  |
 | Amorite | ḏ-b-ḥ (George and Krebernik 2022, 155); \*ḏabāḥ (Golinets 2025, 885) | Krebernik 2022; Golinets 2025, 885 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḏbḥ (Al-Jallad–Jaworska, 66) | Al-Jallad–Jaworska 66 | gloss withheld |
-| Modern Arabic | Daṯ. ḏabīḥa (Biella, 90) | Biella 90 |  |
+| Pre-Islamic North Arabian | Safaitic ḏbḥ (Al-Jallad–Jaworska 66) | Al-Jallad–Jaworska 66 | gloss withheld |
+| Modern Arabic | Daṯ. ḏabīḥa (Biella 90) | Biella 90 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

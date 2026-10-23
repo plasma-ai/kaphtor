@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | efḫāḏ \[JH 37\] | JH 37 | gloss withheld |
 | Jibbali | faḫḏ \[JJ 67\] | JJ 67 | gloss withheld |
 | Hebrew | paḥad (HALOT 923). | HALOT 923 | gloss withheld |
-| Epigraphic South Arabian | SAB fḫḏ \[SD 43\] | SD 43 | gloss withheld |
+| Epigraphic South Arabian | SAB fḫḏ \[SD 43; Sabaweb lemma 3111\] | SD 43; Sabaweb lemma 3111 | gloss withheld |
 | Judaic Aramaic | paḥdīn (pl.) 'testicles' \[Ja 1151\]. | Ja 1151 |  |
 | Syrian Aramaic | puḥdā (-u- &lt; \*a in the vicinity of p ?) 'thigh, buttock' \[Brock 562\] | Brock 562 |  |
 | Egyptian | ḫpd (usually dual), metathesis (Wb III 270-271 apud Takács 2018, 282) | Takács 2018, 282 | gloss withheld |

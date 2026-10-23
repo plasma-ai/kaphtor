@@ -35,6 +35,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-DULAT, 631 dates nql Oct.–Nov.
+DULAT 631 dates nql Oct.–Nov.
 
 <!-- END kaphtor:record -->

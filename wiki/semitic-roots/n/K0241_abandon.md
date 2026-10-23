@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | naṭaš 'leave' (BDB 643) | BDB 643 |  |
 | Judaic Aramaic | nṭš (HALOT 695; DJPA 349a apud CAL) | HALOT 695; DJPA 349a; CAL |  |
 | Akkadian | naṭāšu (HALOT 695) | HALOT 695 |  |
-| Epigraphic South Arabian | Sab nṭs₂ (Biella, 303) | Biella 303 | gloss withheld |
+| Epigraphic South Arabian | Sab nṭs₂ (Biella 303); (Sabaweb lemma 8411) | Biella 303; Sabaweb lemma 8411 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

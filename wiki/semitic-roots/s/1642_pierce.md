@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Tigre | sägʷʿe |  |  |
 | Geez | sagʷʿa |  |  |
-| Tigrinya | sägʷʿe, šägʷʿe (LGz., 490) | LGz. 490 | gloss withheld |
+| Tigrinya | sägʷʿe, šägʷʿe (LGz. 490) | LGz. 490 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

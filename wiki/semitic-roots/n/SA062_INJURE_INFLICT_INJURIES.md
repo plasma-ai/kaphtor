@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nhk (SD, 94; Biella, 295) | SD 94; Biella 295 | gloss withheld |
-| Arabic | Ar nahaka (Biella, 295) | Biella 295 | gloss withheld |
+| Epigraphic South Arabian | Sab nhk (SD 94; Biella 295; Sabaweb lemma 1742) | SD 94; Biella 295; Sabaweb lemma 1742 | gloss withheld |
+| Arabic | Ar nahaka (Biella 295) | Biella 295 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

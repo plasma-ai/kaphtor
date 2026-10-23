@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015, ch. 7 §4.2 no. 18 |  |
 | Geez | maret LGz 361 | LGz 361 | gloss withheld |
 | Amharic | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015, ch. 7 §4.2 no. 18 |  |
-| Epigraphic South Arabian | Sab mrt-m ? LGz., 361 | LGz. 361 | gloss withheld |
+| Epigraphic South Arabian | Sab mrt-m ? LGz. 361 | LGz. 361 | gloss withheld |
 | Argobba | märet |  |  |
 | Tigrinya | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015, ch. 7 §4.2 no. 18 |  |
 

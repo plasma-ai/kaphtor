@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | naḥula (LGz., 396) | LGz. 396 | gloss withheld |
-| Hebrew | naḥălā (Is. 17:11) (LGz., 396) | LGz. 396 | gloss withheld |
-| Syrian Aramaic | nəḥal (LGz., 396) | LGz. 396 | gloss withheld |
-| Tigrinya | nähalä, näḥalä (LGz., 396) | LGz. 396 | gloss withheld |
+| Arabic | naḥula (LGz. 396) | LGz. 396 | gloss withheld |
+| Hebrew | naḥălā (Is. 17:11) (LGz. 396) | LGz. 396 | gloss withheld |
+| Syrian Aramaic | nəḥal (LGz. 396) | LGz. 396 | gloss withheld |
+| Tigrinya | nähalä, näḥalä (LGz. 396) | LGz. 396 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

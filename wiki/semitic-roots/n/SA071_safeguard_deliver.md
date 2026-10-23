@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nẓm (SD, 102; Biella, 126) | SD 102; Biella 126 | gloss withheld |
-| Arabic | Ar waṣama (IrvBSOAS30/287-8; Biella, 126). | Biella 126 | gloss withheld |
+| Epigraphic South Arabian | Sab nẓm (SD 102; Biella 126; Sabaweb lemma 2139) | SD 102; Biella 126; Sabaweb lemma 2139 | gloss withheld |
+| Arabic | Ar waṣama (Irvine 1967, 287–288 apud Biella 126). | Irvine 1967, 287–288; Biella 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

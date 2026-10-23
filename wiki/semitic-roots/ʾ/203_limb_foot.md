@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | wḳl 'to lift one foot in the air while placing the other on the ground' (BK 2 1591) | BK 2 1591 |  |
 | Modern Aramaic | Urm. ʔaḳl- |  | gloss withheld |
-| Syrian Aramaic | ʔaḳlān- 'armilla, brachiale' (Brock. 44) | Brock. 44 |  |
+| Syrian Aramaic | ʔaḳlān- 'bracelet, armlet' (Brock. 44) | Brock. 44 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

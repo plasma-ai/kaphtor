@@ -30,20 +30,20 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | lubān- 'frankincense' (BK 2, 968) | BK 2, 968 |  |
+| Arabic | lubān- 'frankincense' (BK 2, 962) | BK 2, 962 |  |
 | Mehri | lbōn |  |  |
-| Soqotri | libn-on |  |  |
-| Akkadian | lubbunu (CAD L, 231) | CAD L, 231 | gloss withheld |
-| Ugaritic | lbn /labanu/ (UVST, 142) | UVST 142 | gloss withheld |
-| Phoenician | lbn (T, 155) | T 155 | gloss withheld |
+| Soqotri | libn-on; ḷébhon (SLOnline 7795) |  | gloss withheld |
+| Akkadian | lubbunu (CAD L 231) | CAD L 231 | gloss withheld |
+| Ugaritic | lbn /labanu/ (UVST 142) | UVST 142 | gloss withheld |
+| Phoenician | lbn (T 155) | T 155 | gloss withheld |
 | Jibbali | lūn |  |  |
 | Hebrew | lābān |  |  |
 | Epigraphic South Arabian | lbnt (HALOT 518) | HALOT 518 | gloss withheld |
 | Mandaic Aramaic | lubana (HALOT 518) | HALOT 518 | gloss withheld |
 | Tigre | lebān (HALOT 518) | HALOT 518 | gloss withheld |
 | Amorite | lbn: labanum, labnum, labbinum (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
-| Judaic Aramaic | labnaʾ (T, 155); lebūntaʾ (T, 156) | T 155; T 156 | gloss withheld |
-| Syrian Aramaic | lebuntaʾ (T, 156) | T 156 | gloss withheld |
+| Judaic Aramaic | labnaʾ (T 155); lebūntaʾ (T 156) | T 155; T 156 | gloss withheld |
+| Syrian Aramaic | lebuntaʾ (T 156) | T 156 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

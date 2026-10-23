@@ -34,11 +34,11 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | bähar |  |  |
 | Geez | bāḥr |  |  |
 | Amharic | bahǝr |  |  |
-| Epigraphic South Arabian | bḥr |  |  |
+| Epigraphic South Arabian | bḥr (Sabaweb lemma 1509) | Sabaweb lemma 1509 | gloss withheld |
 | Syrian Aramaic | baḥr- (LS2 136\[66\] apud CAL) | CAL |  |
 | Tigrinya | baḥri |  |  |
-| Harari | bäḥar (LGz., 91) | LGz. 91 |  |
-| Argobba | bähar (LGz., 91) | LGz. 91 |  |
+| Harari | bäḥar (LGz. 91) | LGz. 91 |  |
+| Argobba | bähar (LGz. 91) | LGz. 91 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

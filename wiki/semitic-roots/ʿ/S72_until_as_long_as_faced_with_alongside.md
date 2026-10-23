@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | adi; qadu(m) (OLA80 §58.11) | OLA80 §58.11 | gloss withheld |
 | Ugaritic | ʿd (OLA80 §58.11) | OLA80 §58.11 | gloss withheld |
 | Geez | ʾəm-qədma (OLA80 §58.11) | OLA80 §58.11 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿd (SD, 12; Biella, 378) | SD 12; Biella 378 | gloss withheld |
-| Punic | ʿd (T, 238) | T 238 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿd (SD 12; Biella 378) | SD 12; Biella 378 | gloss withheld |
+| Punic | ʿd (T 238) | T 238 | gloss withheld |
 | Hebrew | ʿad (HALOT 786) | HALOT 786 |  |
-| Phoenician | ʿd (T, 238) | T 238 | gloss withheld |
+| Phoenician | ʿd (T 238) | T 238 | gloss withheld |
 | Syrian Aramaic | ʕad 'while, until; as far as' (Payne Smith 400) | Payne Smith 400 |  |
-| Mandaic Aramaic | ʾad (T, 238) | T 238 |  |
-| Judaic Aramaic | ʿad (T, 238) | T 238 |  |
+| Mandaic Aramaic | ʾad (T 238) | T 238 |  |
+| Judaic Aramaic | ʿad (T 238) | T 238 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

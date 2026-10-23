@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔḥs i/u,1; ḥassa (HALOT 300) | HALOT 300 | gloss withheld |
-| Aramaic | ḤWŠ 'sense' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | ḤWŠ (Aramaic Root Atlas; CAL s.v. ḥwš) | Aramaic Root Atlas; CAL s.v. ḥwš | gloss withheld |
 | Syrian Aramaic | ḥaš 'suffer; be sad; feel pity' (Payne Smith 160) | Payne Smith 160 |  |
 | Hebrew | ḥwš (HALOT 300) | HALOT 300 | gloss withheld |
 

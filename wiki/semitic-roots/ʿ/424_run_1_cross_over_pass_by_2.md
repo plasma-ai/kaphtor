@@ -34,17 +34,17 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʕdy 2 |  |  |
 | Geez | ʕdw 2 |  |  |
 | Hebrew | ʕdy 2 |  |  |
-| Epigraphic South Arabian | ʕdw/y (SD, 12) | SD 12 | gloss withheld |
+| Epigraphic South Arabian | ʕdw/y (SD 12) | SD 12 | gloss withheld |
 | Syrian Aramaic | ʕdy 2 |  |  |
 | Aramaic | ʿdy (HALOT 789) | HALOT 789 |  |
 | Judaic Aramaic | ʿdy (HALOT 789) | HALOT 789 |  |
 | Mandaic Aramaic | ʿdʾ (HALOT 789) | HALOT 789 |  |
 | Ugaritic | ʿdy (HALOT 789) | HALOT 789 |  |
-| Tigre | ʿada (LGz., 56) | LGz. 56 | gloss withheld |
-| Gafat | adda (LGz., 56) | LGz. 56 |  |
-| Harari | ada (LGz., 56) | LGz. 56 |  |
-| Gurage | ode (LGz., 56) | LGz. 56 |  |
-| Pre-Islamic North Arabian | Safaitic ʿdy (Al-Jallad–Jaworska, 50) | Al-Jallad–Jaworska 50 | gloss withheld |
+| Tigre | ʿada (LGz. 56) | LGz. 56 | gloss withheld |
+| Gafat | adda (LGz. 56) | LGz. 56 |  |
+| Harari | ada (LGz. 56) | LGz. 56 |  |
+| Gurage | ode (LGz. 56) | LGz. 56 |  |
+| Pre-Islamic North Arabian | Safaitic ʿdy (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 50 | gloss withheld |
 | East Ethiopic | Sel. Wol. ode (EDG 14 apud SEDonline 1924) | EDG 14; SEDonline 1924 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

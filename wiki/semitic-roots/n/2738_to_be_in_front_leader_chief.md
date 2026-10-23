@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | naǧada 'to be brave, noble' (BK 2, 1224) | BK 2, 1224 |  |
+| Arabic | naǧuda 'to be brave, courageous' (BK 2, 1200) | BK 2, 1200 |  |
 | Hebrew | nāgīd (HALOT 667) | HALOT 667 | gloss withheld |
 | Syrian Aramaic | nāgōdā (HALOT 665) | HALOT 665 |  |
 

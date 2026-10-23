@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | bll \[-u-\] 2 (Lane 242) | Lane 242 |  |
 | Akkadian | bll 3 |  |  |
 | Aramaic | bll 1 |  |  |
-| Phoenician | bll (T, 46) | T 46 | gloss withheld |
-| Hebrew | bālal (LGz., 96) | LGz. 96 |  |
-| Syrian Aramaic | bal (bll) (LGz., 96) | LGz. 96 |  |
-| Epigraphic South Arabian | Sab bll (Biella, 44) | Biella 44 | gloss withheld |
+| Phoenician | bll (T 46) | T 46 | gloss withheld |
+| Hebrew | bālal (LGz. 96) | LGz. 96 |  |
+| Syrian Aramaic | bal (bll) (LGz. 96) | LGz. 96 |  |
+| Epigraphic South Arabian | Sab bll (Biella 44) | Biella 44 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

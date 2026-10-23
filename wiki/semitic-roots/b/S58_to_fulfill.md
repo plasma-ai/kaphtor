@@ -1,17 +1,14 @@
 ---
-name: wiki/semitic-roots/h/S58_to_fulfill
-title: "*hbr: 'to fulfill'"
-desc: "Proto-Semitic *hbr, 'to fulfill': reflexes in 3 language(s)."
+title: "*brr: 'to fulfill'"
+desc: "Proto-Semitic *brr, 'to fulfill': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S58"
-created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
 ---
 
-# *hbr: 'to fulfill'
+# *brr: 'to fulfill'
 
-[[wiki/semitic-roots/h/_index|..]]
+[[wiki/semitic-roots/b/_index|..]]
 
 ***
 
@@ -21,7 +18,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*hbr |
+| Reconstruction | \*brr |
 | Meaning | 'to fulfill' |
 | Basis | project |
 

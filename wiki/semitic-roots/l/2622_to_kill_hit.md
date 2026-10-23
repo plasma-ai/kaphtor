@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | lt/dɣ |  | gloss withheld |
 | Mehri | lutōɣ |  | gloss withheld |
-| Soqotri | ḷataʕ |  | gloss withheld |
+| Soqotri | ḷataʕ; ḷátaˁ (SLOnline 7777) |  | gloss withheld |
 | Harsusi | letōɣ |  | gloss withheld |
 | Jibbali | letǝɣ |  | gloss withheld |
 

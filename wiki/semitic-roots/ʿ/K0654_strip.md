@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʿrq (HALOT 888) | HALOT 888 |  |
 | Arabic | ʿrq (HALOT 888) | HALOT 888 |  |
 | Ugaritic | ʿrq (HALOT 888) | HALOT 888 |  |
-| Tigrinya | ʿaräqä (LGz., 70) | LGz. 70 |  |
-| Amharic | arräqä (LGz., 70) | LGz. 70 |  |
-| Gurage | əndəraq (LGz., 70) | LGz. 70 | gloss withheld |
+| Tigrinya | ʿaräqä (LGz. 70) | LGz. 70 |  |
+| Amharic | arräqä (LGz. 70) | LGz. 70 |  |
+| Gurage | əndəraq (LGz. 70) | LGz. 70 | gloss withheld |
 | Tigre | ʿarqa (Kogan 2015, ch. 7 §4.1 no. 1) | Kogan 2015, ch. 7 §4.1 no. 1 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -41,14 +41,14 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | bet |  |  |
 | Hebrew | bayit |  |  |
 | Amharic | bēt |  |  |
-| Epigraphic South Arabian | byt |  |  |
+| Epigraphic South Arabian | byt (Sabaweb lemma 1285) | Sabaweb lemma 1285 | gloss withheld |
 | Aramaic | (Palest) bayt-, bet-, (Nab, Palm) byt |  |  |
 | Tigrinya | bet |  |  |
 | Modern South Arabian | a-batk (OLA80 §33.9) | OLA80 §33.9 | gloss withheld |
 | Greek | Βυτυλλιον (OLA80 §21.9) | OLA80 §21.9 | gloss withheld |
 | Gurage | bet (OLA80 §31.17) | OLA80 §31.17 | gloss withheld |
 | Argobba | bedu (OLA80 §32.28) | OLA80 §32.28 | gloss withheld |
-| Punic | bt, byt (T, 58) | T 58 | gloss withheld |
+| Punic | bt, byt (T 58) | T 58 | gloss withheld |
 | Canaanite | Moab bt (DNWSI 156 apud SEDonline 1383) | DNWSI 156; SEDonline 1383 | gloss withheld |
 | Eblaitic | ba-du (VE 336; Krebernik 1983: 14 apud SEDonline 1383) | VE 336; Krebernik 1983: 14; SEDonline 1383 | gloss withheld |
 | Syrian Aramaic | baytā (Payne Smith 43) | Payne Smith 43 |  |

@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḳirr-, ḳurr-, ḳarr-at-, ḳirr-at-, ḳurr-at- 'frog' \[BK 2 699\], \[LA V 91\]. | BK 2 699; LA V 91 |  |
 | Geez | ḳāḳer \[LGz. 439\] | LGz. 439 | gloss withheld |
-| Syrian Aramaic | yaḳrūrā 'rana' \[Brock. 308\], \[PS 1627\]. On ya- prefixation v. Introduction, 3.3.1.6, p. LXXV. Cf. also ḳārītā 'testudo; locustae species' \[Brock. 696\], \[PS 3717\] (possibly related with meaning shifts). | Brock. 308; PS 1627; Brock. 696; PS 3717 |  |
+| Syrian Aramaic | yaḳrūrā 'frog' \[Brock. 308\], \[PS 1627\]. On ya- prefixation v. Introduction, 3.3.1.6, p. LXXV. Cf. also ḳārītā 'grain weevil; tortoise' \[Brock. 696\], 'a kind of locust' \[PS 3717\] (possibly related with meaning shifts). | Brock. 308; PS 1627; Brock. 696; PS 3717 |  |
 | Amharic | ənq'ərarit (OLA80 §29.27) | OLA80 §29.27 | gloss withheld |
-| Judaic Aramaic | ʾaqrōqtā (LGz., 442); ʔaḳrūḳā, ʔaḳrūḳətā (SED II 186) | LGz. 442; SED II 186 |  |
-| Tigre | ʾənqorəʿ, qorəʿ (LGz., 442) | LGz. 442 |  |
-| Tigrinya | ənqoroʿ, qʷərʿo (LGz., 443) | LGz. 443 |  |
-| Harari | anqurārahti (LGz., 443) | LGz. 443 |  |
-| Punic | kurur (Krahmalkov, 433) | Krahmalkov 433 | gloss withheld |
+| Judaic Aramaic | ʾaqrōqtā (LGz. 442); ʔaḳrūḳā, ʔaḳrūḳətā (SED II 186) | LGz. 442; SED II 186 |  |
+| Tigre | ʾənqorəʿ, qorəʿ (LGz. 442) | LGz. 442 |  |
+| Tigrinya | ənqoroʿ, qʷərʿo (LGz. 443) | LGz. 443 |  |
+| Harari | anqurārahti (LGz. 443) | LGz. 443 |  |
+| Punic | kurur (Krahmalkov 433) | Krahmalkov 433 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

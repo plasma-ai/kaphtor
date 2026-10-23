@@ -31,20 +31,20 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | tīn- (coll.) 'fig', tīnu-l-ʔafranǯi 'a kind of cactus' (BK 1, 213) | BK 1, 213 |  |
-| Akkadian | tittu, tiʔittu, pl. tīnātu lex., tiʔu SB (AHw, 1363) | AHw 1363 | gloss withheld |
-| Mandaic Aramaic | tina (DM, 486) | DM 486 | gloss withheld |
+| Akkadian | tittu, tiʔittu, pl. tīnātu lex., tiʔu SB (AHw 1363) | AHw 1363 | gloss withheld |
+| Mandaic Aramaic | tina (DM 486) | DM 486 | gloss withheld |
 | Hebrew | tǝʔēnā (HALOT 1675) | HALOT 1675 | gloss withheld |
 | Judaic Aramaic | tēnǝtā (HALOT 1675) | HALOT 1675 | gloss withheld |
 | Syrian Aramaic | teʔttā, pl. tēʔnē (HALOT 1675) | HALOT 1675 | gloss withheld |
-| Phoenician | tyn (T, 339) | T 339 | gloss withheld |
+| Phoenician | tyn (T 339) | T 339 | gloss withheld |
 | Aramaic | CPArm. tynʾ (HALOT 1675) | HALOT 1675 |  |
-| Eblaitic | ti-ì-tum (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Ugaritic | /tiʾnatu/ (UVST, 184) (unattested alphabetically) | UVST 184 | gloss withheld |
+| Eblaitic | ti-ì-tum (Kogan 2011, 204; VE 368a; Krebernik 1983, 14) | Kogan 2011, 204; VE 368a; Krebernik 1983, 14 |  |
+| Ugaritic | /tiʾnatu/ (UVST 184) (unattested alphabetically) | UVST 184 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Harari tīn, tīni 'fruit of cactus' (Leslau 1963, 150; acc. to Leslau, from Arb. tīn 'fig' of Aramaic origin; probably from Cu.).
+Harari tīn, tīni 'fruit of cactus' (Leslau 1963, 150; acc. to Leslau, from Arb. tīn 'fig' of Aramaic origin; also in Ga. tīni, Som. tin).
 
 <!-- END kaphtor:record -->

@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | säfa 3 |  |  |
 | Argobba | säffa 3 |  |  |
 | Tigrinya | säfa 3 |  |  |
-| Jibbali | śfe (śfw) (LGz., 490) | LGz. 490 | gloss withheld |
+| Jibbali | śfe (śfw) (LGz. 490) | LGz. 490 | gloss withheld |
 | Gurage | sefä 3 (HSED 2312) | HSED 2312 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

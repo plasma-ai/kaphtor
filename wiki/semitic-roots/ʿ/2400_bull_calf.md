@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕulǯūm- 'old bull' \[BK 2 339\] | BK 2 339 |  |
 | Tigrinya | läggǝʕe, lägaʕ |  | gloss withheld |
-| Epigraphic South Arabian | Sab lgʿ (Biella, 257) | Biella 257 | gloss withheld |
+| Epigraphic South Arabian | Sab lgʿ (Biella 257) | Biella 257 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

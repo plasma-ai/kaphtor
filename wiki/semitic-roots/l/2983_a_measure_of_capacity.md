@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ltḥ (HALOT 537; DULAT, 501) | HALOT 537; DULAT 501 | gloss withheld |
+| Ugaritic | ltḥ (HALOT 537; DULAT 501) | HALOT 537; DULAT 501 | gloss withheld |
 | Syrian Aramaic | ltek 'dry measure, half cor' (Payne Smith 245) | Payne Smith 245 |  |
 | Hebrew | letek (HALOT 537) | HALOT 537 |  |
 | Akkadian | litiktu (HALOT 537) | HALOT 537 |  |

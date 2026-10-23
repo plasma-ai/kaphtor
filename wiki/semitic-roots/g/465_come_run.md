@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | gyʔ \[-i-\] |  |  |
 | Soqotri | ge |  | gloss withheld |
 | Geez | gʷayya, gʷagʷǝʔa |  | gloss withheld |
-| Amharic | gʷäggʷa (LGz., 184); (ən)gʷəy (LGz., 209) | LGz. 184; LGz. 209 | gloss withheld |
-| Gurage | gʷägʷä (LGz., 184) | LGz. 184 |  |
-| Syrian Aramaic | gəhā (LGz., 209) | LGz. 209 | gloss withheld |
-| Mandaic Aramaic | gha (LGz., 209) | LGz. 209 | gloss withheld |
-| Tigrinya | gʷäyäyä (LGz., 209) | LGz. 209 | gloss withheld |
-| Gafat | gʷiǧǧä (LGz., 209) | LGz. 209 |  |
+| Amharic | gʷäggʷa (LGz. 184); (ən)gʷəy (LGz. 209) | LGz. 184; LGz. 209 | gloss withheld |
+| Gurage | gʷägʷä (LGz. 184) | LGz. 184 |  |
+| Syrian Aramaic | gəhā (LGz. 209) | LGz. 209 | gloss withheld |
+| Mandaic Aramaic | gha (LGz. 209) | LGz. 209 | gloss withheld |
+| Tigrinya | gʷäyäyä (LGz. 209) | LGz. 209 | gloss withheld |
+| Gafat | gʷiǧǧä (LGz. 209) | LGz. 209 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

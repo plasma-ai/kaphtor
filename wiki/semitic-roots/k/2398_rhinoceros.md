@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | karkaddan-, karkadann- \[BK 2 888\] | BK 2 888 |  |
-| Geez | karkand (LGz., 291) | LGz. 291 | gloss withheld |
+| Geez | karkand (LGz. 291) | LGz. 291 | gloss withheld |
 | Syrian Aramaic | karkǝdonō Brock. 346b | Brock. 346b |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/749_root
 title: "*ŝVrVŝ-: 'root'"
-desc: "Proto-Semitic *ŝVrVŝ-, 'root': reflexes in 21 language(s)."
+desc: "Proto-Semitic *ŝVrVŝ-, 'root': reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "749"
@@ -51,11 +51,12 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | šoršā, šūršā (HALOT 1659; DJPA 568a apud CAL) | HALOT 1659; DJPA 568a; CAL |  |
 | Epigraphic South Arabian | šrs (HALOT 1659) | HALOT 1659 | gloss withheld |
 | Soqotri | ŝeraḥ (HSED 551) | HSED 551 |  |
+| Eblaitic | (?) si-li-sa-a, si-li-sa /ŠirŠay/ (= AN.KI) (VE 781; Krebernik 1983, 30) | VE 781; Krebernik 1983, 30 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-From 2755: Akkadian: šuršu 'root' (CAD Š3, 363); Ugaritic: šrš 'root' (DUL, 844); Phoenician: šrš 'root, stock' (Krahmalkov 2000); šrš 'stock' (T, 332); Hebrew: šōreš 'root' (HALOT 1659)
+From 2755: Akkadian: šuršu 'root' (CAD Š/3 363); Ugaritic: šrš 'root' (DULAT 832); Phoenician: šrš 'root, stock' (Krahmalkov 2000); šrš 'stock' (T 332); Hebrew: šōreš 'root' (HALOT 1659)
 
 <!-- END kaphtor:record -->

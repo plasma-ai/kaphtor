@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | šaynā 'peace, happiness', šayyen 'to satisfy, soothe' (Payne Smith 575) | Payne Smith 575 |  |
 | Tigrinya | (tä)sanäyä |  | gloss withheld |
 | Epigraphic South Arabian | Sab. snʾ (HALOT 1374) | HALOT 1374 |  |
-| Phoenician | šʾn (B, 412) | B 412 | gloss withheld |
+| Phoenician | šʾn (B 412) | B 412 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kaḏaba 'lie' (Lane 2597) | Lane 2597 |  |
 | Aramaic | KDB 'lie' | Anderson–Moser 2024 root kḏb |  |
 | Hebrew | kazab 'lie' | Anderson–Moser 2024 root kḏb |  |
-| Amorite | kḏb (Huffmon APNM, 221) | Huffmon APNM 221 | gloss withheld |
-| Canaanite | EA kazābu, kazbūtu, ki-zi-ib-tu (Kogan 2015, ch. 3 §5.2 no. 32, fn. 549); kazābu (CAD K, 309) | Kogan 2015, ch. 3 §5.2 no. 32, fn. 549; CAD K, 309 | gloss withheld |
+| Amorite | kḏb (Huffmon APNM 221) | Huffmon APNM 221 | gloss withheld |
+| Canaanite | EA kazābu, kazbūtu, ki-zi-ib-tu (Kogan 2015, ch. 3 §5.2 no. 32, fn. 549); kazābu (CAD K 309) | Kogan 2015, ch. 3 §5.2 no. 32, fn. 549; CAD K 309 | gloss withheld |
 | Syrian Aramaic | kdb (Kogan 2015, ch. 3 §5.2 no. 32) | Kogan 2015, ch. 3 §5.2 no. 32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

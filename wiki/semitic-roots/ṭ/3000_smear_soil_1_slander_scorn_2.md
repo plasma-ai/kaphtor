@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/3000_smear_soil_1_slander_scorn_2
 title: "*ṭVpVl-: 'smear, soil' 1, 'slander, scorn' 2"
-desc: "Proto-Semitic *ṭVpVl-, 'smear, soil' 1, 'slander, scorn' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ṭVpVl-, 'smear, soil' 1, 'slander, scorn' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3000"
@@ -32,8 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṭāpal (Ps 119:69, Job 13:4) (HALOT 378) | HALOT 378 | gloss withheld |
 | Judaic Aramaic | ṭpl (HALOT 378) | HALOT 378 | gloss withheld |
 | Syrian Aramaic | ṭpīlā 'defiled, corrupt'; ṭpīlūtā 'corruption of manners, depravity' (Payne Smith 180) | Payne Smith 180 |  |
-| Akkadian | ṭapālu; ṭaplu; ṭiplu, ṭuplu (CAD Ṭ, 47, 49, 112, 126) | CAD Ṭ, 47, 49, 112, 126 | gloss withheld |
+| Akkadian | ṭapālu; ṭaplu; ṭiplu, ṭuplu (CAD Ṭ 47, 49, 112, 126) | CAD Ṭ 47, 49, 112, 126 | gloss withheld |
 | Arabic | ṭufāl (HALOT 378) | HALOT 378 | gloss withheld |
+| Soqotri | ṭéfoḷ (SLOnline 7389) |  | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,8 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ḥqq (HALOT 347) | HALOT 347 |  |
 | Arabic | ḥaqqa, ḥaqq (HALOT 347) | HALOT 347 |  |
 | Epigraphic South Arabian | ḥqq (HALOT 347) | HALOT 347 |  |
-| Syrian Aramaic | ḥuqqā (LGz., 240) | LGz. 240 | gloss withheld |
-| Tigrinya | ḥaqqi (LGz., 240) | LGz. 240 | gloss withheld |
+| Syrian Aramaic | ḥuqqā (LGz. 240) | LGz. 240 | gloss withheld |
+| Tigrinya | ḥaqqi (LGz. 240) | LGz. 240 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

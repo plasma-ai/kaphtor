@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | slt; solet ḥtm (Krahmalkov, PPOD 345; CIS i 145) | Krahmalkov PPOD 345 | gloss withheld |
-| Hebrew | sōlet (HALOT 758; Ex 29:2, Lev 2:1—primary offering ingredient) | HALOT 758 | gloss withheld |
+| Phoenician | slt; \[s\]lt ḥt\[m\], CIS i 145.1/2 (Krahmalkov 345) | Krahmalkov 345 | gloss withheld |
+| Hebrew | sōlet (HALOT 758; Ex 29:2, Lev 2:1) | HALOT 758 | gloss withheld |
 | Judaic Aramaic | sōltā (HALOT 758) | HALOT 758 |  |
 | Arabic | sult (HALOT 758) | HALOT 758 |  |
 | Akkadian | siltu (HALOT 758) | HALOT 758 |  |

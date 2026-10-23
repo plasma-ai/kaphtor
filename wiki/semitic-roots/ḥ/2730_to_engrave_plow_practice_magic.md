@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥaraṯa 'to plow' (BK 1, 403) | BK 1, 403 |  |
-| Akkadian | erēšu (CAD E, 284) | CAD E, 284 | gloss withheld |
-| Ugaritic | /ḥ-r-š/ (DULAT, 365); ḥrš (DULAT, 366) | DULAT 365; DULAT 366 | gloss withheld |
-| Phoenician | ḥrš (Krahmalkov, 198) | Krahmalkov 198 | gloss withheld |
+| Akkadian | erēšu (CAD E 284) | CAD E 284 | gloss withheld |
+| Ugaritic | /ḥ-r-š/ (DULAT 365); ḥrš (DULAT 366) | DULAT 365; DULAT 366 | gloss withheld |
+| Phoenician | ḥrš (Krahmalkov 198) | Krahmalkov 198 | gloss withheld |
 | Hebrew | ḥāraš (HALOT 357) | HALOT 357 | gloss withheld |
-| Punic | ḥrt (T, 115) | T 115 | gloss withheld |
+| Punic | ḥrt (T 115) | T 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

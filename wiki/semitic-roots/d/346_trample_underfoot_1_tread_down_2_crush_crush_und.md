@@ -39,9 +39,9 @@ updated: 2026-10-22T17:38:31Z
 | Geez | dsy 1, 4 |  |  |
 | Hebrew | dwš, dyš 1, 2 |  |  |
 | Syrian Aramaic | dwš | SEDonline semet 517 |  |
-| Tigrinya | däḥasä (LGz., 128) | LGz. 128 | gloss withheld |
-| Amharic | dasä (LGz., 128) | LGz. 128 | gloss withheld |
-| Gurage | dasä (LGz., 128) | LGz. 128 | gloss withheld |
+| Tigrinya | däḥasä (LGz. 128) | LGz. 128 | gloss withheld |
+| Amharic | dasä (LGz. 128) | LGz. 128 | gloss withheld |
+| Gurage | dasä (LGz. 128) | LGz. 128 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

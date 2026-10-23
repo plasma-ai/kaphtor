@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2739_to_serve_work_servant
 title: "*ʕVbd-: 'to serve, work; servant'"
-desc: "Proto-Semitic *ʕVbd-, 'to serve, work; servant': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ʕVbd-, 'to serve, work; servant': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2739"
@@ -30,18 +30,19 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕabd- 'servant, slave' (BK 2, 150) | BK 2, 150 |  |
-| Akkadian | wardu (CAD A2, 243) | CAD A2, 243 | gloss withheld |
-| Ugaritic | ʕbd (DUL, 139); /ʿabdu/ (UVST, 158) | DUL 139; UVST 158 | gloss withheld |
-| Phoenician | ʿbd (Krahmalkov, 351) | Krahmalkov 351 | gloss withheld |
+| Akkadian | wardu (CAD A/2 243) | CAD A/2 243 | gloss withheld |
+| Ugaritic | ʕbd (DULAT 136); /ʿabdu/ (UVST 158) | DULAT 136; UVST 158 | gloss withheld |
+| Phoenician | ʿbd (Krahmalkov 351) | Krahmalkov 351 | gloss withheld |
 | Hebrew | ʕebed (HALOT 774) | HALOT 774 | gloss withheld |
 | Greek | Αβδαδουσαρος (OLA80 §32.5) | OLA80 §32.5 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿbd (SD, 11) | SD 11 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿbd (SD 11; Sabaweb lemma 1400) | SD 11; Sabaweb lemma 1400 | gloss withheld |
 | Aramaic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
 | Punic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
 | Amorite | ʿabdum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿbd (Al-Jallad–Jaworska, 50) | Al-Jallad–Jaworska 50 | gloss withheld |
-| Mandaic Aramaic | ʾabd (T, 235) | T 235 |  |
-| Judaic Aramaic | ʿabad (T, 235) | T 235 |  |
+| Pre-Islamic North Arabian | Safaitic ʿbd (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 50 | gloss withheld |
+| Mandaic Aramaic | ʾabd (T 235) | T 235 |  |
+| Judaic Aramaic | ʿabad (T 235) | T 235 |  |
+| Eblaitic | íb-tum, ì-ba-tum /ʕebdum/ (VE 253a, 1428; Krebernik 1983, 12) | VE 253a, 1428; Krebernik 1983, 12 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

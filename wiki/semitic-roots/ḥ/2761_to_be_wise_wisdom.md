@@ -32,15 +32,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥakama 'to judge, be wise' (BK 1, 470); ḥakīm- 'knowing, wise' (Lane 618) | BK 1, 470; Lane 618 |  |
 | Akkadian | ḫakāmu (CAD Ḫ, 33) | CAD Ḫ, 33 | gloss withheld |
-| Ugaritic | ḥkm (DULAT, 353) | DULAT 353 | gloss withheld |
-| Phoenician | ḥkmt (Krahmalkov, 183) | Krahmalkov 183 | gloss withheld |
+| Ugaritic | ḥkm (DULAT 353) | DULAT 353 | gloss withheld |
+| Phoenician | ḥkmt (Krahmalkov 183) | Krahmalkov 183 | gloss withheld |
 | Hebrew | ḥākām (HALOT 314) | HALOT 314 | gloss withheld |
 | Amorite | ḥkm: jaḥkum, ḥakamum, ḥakamatum (Gelb AS 21, 20) | Gelb AS 21 20 | gloss withheld |
 | Aramaic | Pal. ḥkm |  | gloss withheld |
 | Syrian Aramaic | ḥkam (Payne Smith 141); ḥekmᵉtā (HALOT 314) | Payne Smith 141; HALOT 314 | gloss withheld |
 | Biblical Aramaic | ḥakkīm (HALOT 314) | HALOT 314 | gloss withheld |
 | Mandaic Aramaic | hkwm; hukumta (HALOT 313, 314) | HALOT 313, 314 | gloss withheld |
-| Judaic Aramaic | ḥukmetaʾ (T, 104) | T 104 |  |
+| Judaic Aramaic | ḥukmetaʾ (T 104) | T 104 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

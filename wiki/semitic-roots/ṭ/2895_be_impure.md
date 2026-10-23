@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | hṭmʾt (Biella, 219) | Biella 219 | gloss withheld |
+| Epigraphic South Arabian | hṭmʾt (Biella 219) | Biella 219 | gloss withheld |
 | Hebrew | ṭmʾ ‘be impure; impurity’ (BDB 379, 380) | BDB 379, 380 |  |
 | Aramaic | ṭ-m-ʾ ‘be unclean’ (Aramaic Root Atlas 0440) | Aramaic Root Atlas 0440 |  |
 | Syrian Aramaic | ṭma (Kogan 2015, ch. 3 §5.2 no. 62) | Kogan 2015, ch. 3 §5.2 no. 62 | gloss withheld |

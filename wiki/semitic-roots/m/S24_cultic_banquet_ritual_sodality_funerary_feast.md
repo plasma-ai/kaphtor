@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | mrzḥ (DUL 579); KTU 1.114 describes El's marzeaḥ; KTU 3.9 lists the men of the mrzḥ | DUL 579; KTU 1; KTU 3 | gloss withheld |
-| Phoenician | mrzḥ ʾlm (Krahmalkov, 311); goblet dedicated to the mrzḥ of Šemeš; KAI 69 lists mrzḥ ʾlm among sacrificing groups | Krahmalkov 311; KAI 69 | gloss withheld |
+| Ugaritic | mrzḥ (DULAT 574); KTU 1.114 describes El's marzeaḥ; KTU 3.9 lists the men of the mrzḥ | DULAT 574; KTU 1; KTU 3 | gloss withheld |
+| Phoenician | mrzḥ ʾlm (Krahmalkov 311); goblet dedicated to the mrzḥ of Šemeš; KAI 69 lists mrzḥ ʾlm among sacrificing groups | Krahmalkov 311; KAI 69 | gloss withheld |
 | Hebrew | marzēaḥ (Jer 16:5; Amos 6:7; HALOT 634) | HALOT 634 | gloss withheld |
-| Aramaic | marzḥā (DNWSI 669) | DNWSI 669 | gloss withheld |
+| Aramaic | marzḥā (DNWSI 691 apud CAL) | DNWSI 691; CAL | gloss withheld |
 | Judaic Aramaic | marzᵉḥā (HALOT 634) | HALOT 634 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

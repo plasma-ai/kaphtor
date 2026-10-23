@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | šamšu 1 |  |  |
 | Tigre | šämš 1 |  |  |
 | Ugaritic | špš /šapšu/ (Huehnergard 2012, 157) | Huehnergard 2012 157 | gloss withheld |
-| Phoenician | šmš (Krahmalkov, 472); šmš (T, 325) | Krahmalkov 472; T 325 | gloss withheld |
+| Phoenician | šmš (Krahmalkov 472); šmš (T 325) | Krahmalkov 472; T 325 | gloss withheld |
 | Hebrew | šemeš 1; (?) pl. šǝbīs-īm (HALOT 1392, 1393) | HALOT 1392, 1393 | gloss withheld |
 | Epigraphic South Arabian | šmŝ 1 |  |  |
 | Syrian Aramaic | šemš- 1 (Payne Smith 586) | Payne Smith 586 |  |

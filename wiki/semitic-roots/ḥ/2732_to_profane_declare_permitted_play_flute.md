@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥalāl- 'permitted, lawful' (BK 1, 474) | BK 1, 474 |  |
-| Ugaritic | ḥll (DULAT, 355) | DULAT 355 | gloss withheld |
+| Ugaritic | ḥll (DULAT 355) | DULAT 355 | gloss withheld |
 | Tigre | ḥalāl (Wb. 52b; HALOT 315); ḥel (Wb. 52b; HALOT 318) | HALOT 315; HALOT 318 | gloss withheld |
 | Syrian Aramaic | ḥullā \[HALOT 315\] | HALOT 315 | gloss withheld |
-| Phoenician | ḥll: mḥll (T, 105) | T 105 | gloss withheld |
+| Phoenician | ḥll: mḥll (T 105) | T 105 | gloss withheld |
 | Epigraphic South Arabian | Sab ḥll (Kogan 2015, ch. 3 §5.2 no. 24) | Kogan 2015, ch. 3 §5.2 no. 24 | gloss withheld |
 | Hebrew | ḥll (Kogan 2015, ch. 3 §5.2 no. 24) | Kogan 2015, ch. 3 §5.2 no. 24 | gloss withheld |
 | Judaic Aramaic | ḥlylʾ (HALOT 318) | HALOT 318 | gloss withheld |

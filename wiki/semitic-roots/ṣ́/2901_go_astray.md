@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | ḍll (HALOT 1027) | HALOT 1027 | gloss withheld |
 | Arabic | ḍll (QAC ضلل; HALOT 1027) | QAC ضلل; HALOT 1027 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾḍll (Al-Jallad–Jaworska, 39) | Al-Jallad–Jaworska 39 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾḍll (Al-Jallad–Jaworska 39) | Al-Jallad–Jaworska 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

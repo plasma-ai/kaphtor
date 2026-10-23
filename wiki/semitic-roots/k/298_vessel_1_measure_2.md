@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | kǝlī 1 |  |  |
 | Epigraphic South Arabian | kl 2 |  |  |
 | Syrian Aramaic | kayl- 2 |  |  |
-| Mehri | kiyôl (Biella, 245) | Biella 245 |  |
+| Mehri | kiyôl (Biella 245) | Biella 245 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | šr \[Del Olmo 632\] |  | gloss withheld |
 | Modern Aramaic | MMND šorra \[M MND 512\] |  | gloss withheld |
 | Hebrew | šōr (HALOT 1650); PB šārār \[Ja 1634\] | HALOT 1650; Ja 1634 | gloss withheld |
-| Judaic Aramaic | šōrā \[Ja 1542\]; šwr \[Sok 542\] | Ja 1542; Sok 542 | gloss withheld |
+| Judaic Aramaic | šōrā \[Ja 1542\]; šwr \[DJPA 542b apud CAL\] | Ja 1542; DJPA 542b; CAL | gloss withheld |
 | Syrian Aramaic | šerrā, šurtā 'umbilicus' \[Brock 802\] | Brock 802 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

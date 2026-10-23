@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | śamʿ (LGz., 530) | LGz. 530 | gloss withheld |
-| Arabic | šamʿ (LGz., 530; Lane 1598) | LGz. 530; Lane 1598 |  |
-| Tigre | šäməʿ (LGz., 530) | LGz. 530 |  |
-| Tigrinya | šämʿi, sämʿi (LGz., 530) | LGz. 530 |  |
-| Amharic | säm (LGz., 530) | LGz. 530 |  |
-| Argobba | säm (LGz., 530) | LGz. 530 |  |
-| Gurage | säm (LGz., 530) | LGz. 530 |  |
-| Gafat | sämä (LGz., 530) | LGz. 530 |  |
+| Geez | śamʿ (LGz. 530) | LGz. 530 | gloss withheld |
+| Arabic | šamʿ (LGz. 530; Lane 1598) | LGz. 530; Lane 1598 |  |
+| Tigre | šäməʿ (LGz. 530) | LGz. 530 |  |
+| Tigrinya | šämʿi, sämʿi (LGz. 530) | LGz. 530 |  |
+| Amharic | säm (LGz. 530) | LGz. 530 |  |
+| Argobba | säm (LGz. 530) | LGz. 530 |  |
+| Gurage | säm (LGz. 530) | LGz. 530 |  |
+| Gafat | sämä (LGz. 530) | LGz. 530 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | GRŠ (Aramaic Root Atlas; CAL s.v. grš) | Aramaic Root Atlas; CAL s.v. grš | gloss withheld |
 | Hebrew | garaš 'drive' (BDB 176) | BDB 176 |  |
 | Punic | grš 'expel' | Anderson–Moser 2024 root grš |  |
-| Phoenician | grš (T, 68) | T 68 | gloss withheld |
+| Phoenician | grš (T 68) | T 68 | gloss withheld |
 | Syrian Aramaic | graš 'drag, trail; protract; drive out' (Payne Smith 79) | Payne Smith 79 |  |
 | Canaanite | Moab grš (DNWSI 236 apud SEDonline 1522) | DNWSI 236; SEDonline 1522 | gloss withheld |
-| Ugaritic | /g-r-š/ (DULAT, 305) | DULAT 305 | gloss withheld |
+| Ugaritic | /g-r-š/ (DULAT 305) | DULAT 305 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

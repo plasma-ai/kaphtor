@@ -35,11 +35,11 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥelqā (HALOT 323) | HALOT 323 |  |
 | Mandaic Aramaic | hlaq (HALOT 323) | HALOT 323 |  |
 | Biblical Aramaic | ḥᵃlāqā (HALOT 323) | HALOT 323 |  |
-| Syrian Aramaic | ḥəlaq, ḥəlqā (LGz., 261) | LGz. 261 | gloss withheld |
-| Tigrinya | ḥəlqʷ (LGz., 261) | LGz. 261 | gloss withheld |
-| Amharic | əlq, əlqo (LGz., 261) | LGz. 261 | gloss withheld |
-| Harari | ḥēläqa (LGz., 261) | LGz. 261 | gloss withheld |
-| Gurage | eläqä (LGz., 261) | LGz. 261 | gloss withheld |
+| Syrian Aramaic | ḥəlaq, ḥəlqā (LGz. 261) | LGz. 261 | gloss withheld |
+| Tigrinya | ḥəlqʷ (LGz. 261) | LGz. 261 | gloss withheld |
+| Amharic | əlq, əlqo (LGz. 261) | LGz. 261 | gloss withheld |
+| Harari | ḥēläqa (LGz. 261) | LGz. 261 | gloss withheld |
+| Gurage | eläqä (LGz. 261) | LGz. 261 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

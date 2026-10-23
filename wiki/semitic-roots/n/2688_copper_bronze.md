@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nuḥās- 'copper, brass' (BK 2, 1214) | BK 2, 1214 |  |
-| Phoenician | nḥšt (Krahmalkov, 327) | Krahmalkov 327 | gloss withheld |
+| Phoenician | nḥšt (Krahmalkov 327) | Krahmalkov 327 | gloss withheld |
 | Hebrew | nǝḥōšet (HALOT 691) | HALOT 691 | gloss withheld |
 | Canaanite | nuḥuštum (HALOT 691) | HALOT 691 |  |
 | Biblical Aramaic | nᵉḥāš (HALOT 691) | HALOT 691 |  |
 | Tigre | neḥās (HALOT 691) | HALOT 691 |  |
 | Syrian Aramaic | nḥāšā 'brass' (Payne Smith 336) | Payne Smith 336 |  |
-| Judaic Aramaic | neḥašaʾ (T, 212) | T 212 |  |
+| Judaic Aramaic | neḥašaʾ (T 212) | T 212 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

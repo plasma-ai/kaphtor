@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Culture word (plant name). HALOT 4 also cites MHeb. baṭṭīaḥ, Syr. paṭṭīḥā and Arb. \*ba/iṭṭīḫ (Fraenkel 140). LGz., 113 takes Gz. baṭṭiḫ 'melon, squash' from Arabic, of Syriac origin, and finds the root also in Heb. ʔăbaṭṭīaḥ. Syriac p against b.
+Culture word (plant name). HALOT 4 also cites MHeb. baṭṭīaḥ, Syr. paṭṭīḥā and Arb. \*ba/iṭṭīḫ (Fraenkel 140). LGz. 113 takes Gz. baṭṭiḫ 'melon, squash' from Arabic, of Syriac origin, and finds the root also in Heb. ʔăbaṭṭīaḥ. Syriac p against b.
 
 <!-- END kaphtor:record -->

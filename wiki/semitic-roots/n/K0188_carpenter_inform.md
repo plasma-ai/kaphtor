@@ -31,12 +31,12 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | nagāru 'joiner'; nāgiru '(town) crier' | Anderson–Moser 2024 root ngr |  |
 | Geez | nagara 'say' (Dillmann 05195) | Dillmann 05195 |  |
-| Punic | ngr (T, 210) | T 210 | gloss withheld |
-| Tigre | nägra (LGz., 392) | LGz. 392 | gloss withheld |
-| Tigrinya | nägärä (LGz., 392) | LGz. 392 |  |
-| Amharic | näggärä (LGz., 392) | LGz. 392 |  |
-| Argobba | nägär (LGz., 392) | LGz. 392 | gloss withheld |
-| Gurage | nägär (LGz., 392) | LGz. 392 | gloss withheld |
+| Punic | ngr (T 210) | T 210 | gloss withheld |
+| Tigre | nägra (LGz. 392) | LGz. 392 | gloss withheld |
+| Tigrinya | nägärä (LGz. 392) | LGz. 392 |  |
+| Amharic | näggärä (LGz. 392) | LGz. 392 |  |
+| Argobba | nägär (LGz. 392) | LGz. 392 | gloss withheld |
+| Gurage | nägär (LGz. 392) | LGz. 392 | gloss withheld |
 | Arabic | naǧǧār 'carpenter' (Lane 2769) | Lane 2769 |  |
 | Syrian Aramaic | nagār 'workman, carpenter' (Payne Smith 328) | Payne Smith 328 |  |
 

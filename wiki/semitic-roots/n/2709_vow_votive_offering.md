@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | naḏara 'to vow, dedicate' (BK 2, 1231) | BK 2, 1231 |  |
-| Akkadian | nazāru (CAD N2, 139) | CAD N2, 139 | gloss withheld |
-| Ugaritic | ndr (DULAT, 613) | DULAT 613 | gloss withheld |
-| Phoenician | ndr (Krahmalkov, 326) | Krahmalkov 326 | gloss withheld |
+| Akkadian | nazāru (CAD N/2 139) | CAD N/2 139 | gloss withheld |
+| Ugaritic | ndr (DULAT 613) | DULAT 613 | gloss withheld |
+| Phoenician | ndr (Krahmalkov 326) | Krahmalkov 326 | gloss withheld |
 | Hebrew | neder (HALOT 674) | HALOT 674 | gloss withheld |
-| Epigraphic South Arabian | Sab nḏr (SD, 91; Biella, 99, 294) | SD 91; Biella 99, 294 | gloss withheld |
+| Epigraphic South Arabian | Sab nḏr (SD 91; Biella 99, 294) | SD 91; Biella 99, 294 | gloss withheld |
 | Judaic Aramaic | nidrā; ndr (HALOT 674; DJPA 342a apud CAL) | HALOT 674; DJPA 342a; CAL |  |
 | Punic | ndr; ναδωρ (HALOT 674) | HALOT 674 |  |
 | Aramaic | ndr (HALOT 674; DNWSI 717 apud CAL) | HALOT 674; DNWSI 717; CAL |  |
@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | naddara (HALOT 674) | HALOT 674 |  |
 | Tigre | naddara (HALOT 674) | HALOT 674 |  |
 | Amorite | ndr (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
-| Mandaic Aramaic | ndr (T, 210) | T 210 |  |
+| Mandaic Aramaic | ndr (T 210) | T 210 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

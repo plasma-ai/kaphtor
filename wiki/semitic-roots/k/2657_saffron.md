@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | kurkǝmā, kurḳǝmā 'saffron' (Ja. 625) | Ja. 625 |  |
 | Syrian Aramaic | kurkǝmā 'crocus sativus', kurkǝmūtā 'saffron color', mǝkarkǝmat gawnā 'saffron-colored', kurkǝmānā 'saffron-colored; pl. saffron-colored garments', ʔetkarkam 'it turned red / it blushed' (Brock. 346) | Brock. 346 |  |
 | Mandaic Aramaic | karkum (HALOT 498) | HALOT 498 |  |
-| Akkadian | kurkānû (CAD K, 560) | CAD K, 560 | gloss withheld |
+| Akkadian | kurkānû (CAD K 560) | CAD K 560 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

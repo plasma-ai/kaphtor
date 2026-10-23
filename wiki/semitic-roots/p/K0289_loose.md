@@ -33,14 +33,14 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | faṭara 'split' (Lane 2415) | Lane 2415 |  |
 | Aramaic | PṬR (Aramaic Root Atlas; CAL s.v. pṭr) | Aramaic Root Atlas; CAL s.v. pṭr | gloss withheld |
 | Hebrew | paṭar 'separate' (BDB 809) | BDB 809 |  |
-| Ugaritic | pṭr (HALOT 924); /piṭru/ (UVST, 167) | HALOT 924; UVST 167 | gloss withheld |
+| Ugaritic | pṭr (HALOT 924); /piṭru/ (UVST 167) | HALOT 924; UVST 167 | gloss withheld |
 | Mandaic Aramaic | pṭr (HALOT 924) | HALOT 924 |  |
-| Phoenician | pṭr (B, 390) | B 390 | gloss withheld |
+| Phoenician | pṭr (B 390) | B 390 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Ethiopian \*fṭr 'to shape, create' (SEDonline 1331): Geez faṭara 'create', Tigre faṭra 'to create' (HALOT 925); Tigrinya fäṭärä 'create', Amharic fäṭṭärä 'create, invent, lie', Gurage fäṭärä 'create' (LGz., 172).
+Ethiopian \*fṭr 'to shape, create' (SEDonline 1331): Geez faṭara 'create', Tigre faṭra 'to create' (HALOT 925); Tigrinya fäṭärä 'create', Amharic fäṭṭärä 'create, invent, lie', Gurage fäṭärä 'create' (LGz. 172).
 
 <!-- END kaphtor:record -->

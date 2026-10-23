@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | adamu (AHw. 10), syn. list (CAD A1, 95); ʔadnātu NB | AHw. 10; CAD A1, 95 | gloss withheld |
+| Akkadian | adamu (AHw. 10), syn. list (CAD A/1 95); ʔadnātu NB | AHw. 10; CAD A/1 95 | gloss withheld |
 | Tigre | ʔaddam, ʔaddamatat; ʔaddemay |  | gloss withheld |
 | Ugaritic | adm |  |  |
 | Modern Arabic | Hdr ʔawādim; Daṯ ʔawādim |  | gloss withheld |
-| Phoenician | ʔdm (T, 4) | T 4 | gloss withheld |
+| Phoenician | ʔdm (T 4) | T 4 | gloss withheld |
 | Hebrew | ʔādām |  |  |
-| Epigraphic South Arabian | Sab ʔdm, ʔdwm-t, ʔdym; Min ʔdm id.; Qat ʔdm (Kogan 2011, 232) | Kogan 2011, 232 | gloss withheld |
+| Epigraphic South Arabian | Sab ʔdm, ʔdwm-t, ʔdym; Min ʔdm id.; Qat ʔdm (Kogan 2011, 232; Sabaweb lemma 1293) | Kogan 2011, 232; Sabaweb lemma 1293 | gloss withheld |
 | Punic | ʾdm 'person' | Anderson–Moser 2024 root ʾdm |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

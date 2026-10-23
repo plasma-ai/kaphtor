@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | sakāku 1 |  |  |
 | Jibbali | sekk 2 |  |  |
 | Hebrew | skk 2 (HALOT 754) | HALOT 754 |  |
-| Judaic Aramaic | sᵉkāk (HALOT 754) \| skk (HALOT 754) | HALOT 754; HALOT 754 | gloss withheld |
+| Judaic Aramaic | skk pa. 1, 2 (HALOT 754) | HALOT 754 | gloss withheld |
 | Aramaic | SKK 'to cover, screen' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

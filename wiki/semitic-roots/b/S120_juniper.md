@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | burāšu (HALOT 155) | HALOT 155 |  |
-| Hebrew | bərōš (LGz., 107) | LGz. 107 | gloss withheld |
-| Eblaitic | ba-ra-su-um (Kogan 2011, 202) | Kogan 2011, 202 |  |
+| Hebrew | bərōš (LGz. 107) | LGz. 107 | gloss withheld |
+| Eblaitic | ba-ra-su-um (Kogan 2011, 202; VE 374; Krebernik 1983, 14) | Kogan 2011, 202; VE 374; Krebernik 1983, 14 |  |
 | Syrian Aramaic | brātā (Kogan 2011, 202) | Kogan 2011, 202 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḥora (Kogan 2015, ch. 7 §4.2 no. 7) | Kogan 2015, ch. 7 §4.2 no. 7 | gloss withheld |
 | Gurage | \*wärä |  | gloss withheld |
 | Harari | ḥāra (Kogan 2015, ch. 7 §4.2 no. 7) | Kogan 2015, ch. 7 §4.2 no. 7 | gloss withheld |
-| Gafat | (a)horä (LGz., 250) | LGz. 250 |  |
-| Pre-Islamic North Arabian | Safaitic ḥwr (Al-Jallad–Jaworska, 88) | Al-Jallad–Jaworska 88 | gloss withheld |
+| Gafat | (a)horä (LGz. 250) | LGz. 250 |  |
+| Pre-Islamic North Arabian | Safaitic ḥwr (Al-Jallad–Jaworska 88) | Al-Jallad–Jaworska 88 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

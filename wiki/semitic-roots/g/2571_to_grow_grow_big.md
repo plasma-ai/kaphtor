@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǯdr 's'élever au-dessus du sol (se dit des plantes); se former (se dit des certain fruits)' (BK 1 263) | BK 1 263 |  |
+| Arabic | ǯdr 'rise above the ground (said of plants); form (said of certain fruits)' (BK 1 263) | BK 1 263 |  |
 | East Ethiopic | Wol. gädärä, Wol Zway gädärä |  | gloss withheld |
 | Gurage | Sod. gǝddǝr (also) |  | gloss withheld |
 | Amharic | (tä)gäddärä |  | gloss withheld |

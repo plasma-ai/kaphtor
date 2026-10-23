@@ -29,12 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | nabaʔa 'to inform, announce' (BK 2, 1203) | BK 2, 1203 |  |
-| Akkadian | nabû (CAD N1, 32) | CAD N1, 32 | gloss withheld |
+| Arabic | nabaʔa 'to inform, announce' (BK 2, 1179) | BK 2, 1179 |  |
+| Akkadian | nabû (CAD N/1 32) | CAD N/1 32 | gloss withheld |
 | Hebrew | nābīʔ (HALOT 661) | HALOT 661 | gloss withheld |
 | Judaic Aramaic | nᵉbiyyā; nᵉbīʾātā (HALOT 661, 662) | HALOT 661, 662 | gloss withheld |
 | Mandaic Aramaic | ʿnbyhʾ (HALOT 662) | HALOT 662 | gloss withheld |
-| Syrian Aramaic | nəḇiyā (LGz., 385; Payne Smith 326) | LGz. 385; Payne Smith 326 |  |
+| Syrian Aramaic | nəḇiyā (LGz. 385; Payne Smith 326) | LGz. 385; Payne Smith 326 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

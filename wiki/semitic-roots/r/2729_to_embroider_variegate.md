@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | raqama 'to write, embroider, variegate' (BK 1, 909) | BK 1, 909 |  |
-| Phoenician | rqm (Krahmalkov, 447); rqm (T, 307) | Krahmalkov 447; T 307 | gloss withheld |
+| Phoenician | rqm (Krahmalkov 447); rqm (T 307) | Krahmalkov 447; T 307 | gloss withheld |
 | Hebrew | rāqam (HALOT 1290) | HALOT 1290 | gloss withheld |
-| Geez | raqama (LGz., 473) | LGz. 473 |  |
-| Aramaic | riqməṯā (LGz., 473) | LGz. 473 | gloss withheld |
-| Syrian Aramaic | tarqəmāṯā (LGz., 473) | LGz. 473 | gloss withheld |
+| Geez | raqama (LGz. 473) | LGz. 473 |  |
+| Aramaic | riqməṯā (LGz. 473) | LGz. 473 | gloss withheld |
+| Syrian Aramaic | tarqəmāṯā (LGz. 473) | LGz. 473 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

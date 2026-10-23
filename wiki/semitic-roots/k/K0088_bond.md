@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kabala (HALOT 458) | HALOT 458 | gloss withheld |
 | Akkadian | kabālu (HALOT 458) | HALOT 458 | gloss withheld |
 | Syrian Aramaic | kabla (HALOT 458) | HALOT 458 |  |
-| Mandaic Aramaic | kublia (LGz., 274) | LGz. 274 | gloss withheld |
+| Mandaic Aramaic | kublia (LGz. 274) | LGz. 274 | gloss withheld |
 | Hebrew | kebel (HALOT 458) | HALOT 458 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Soqotri | dengo (LS, 130). | LS 130 | gloss withheld |
-| Ugaritic | dgn (DLU, 130) | DLU 130 | gloss withheld |
+| Soqotri | dengo (LS 130). | LS 130 | gloss withheld |
+| Ugaritic | dgn (DULAT 265) | DULAT 265 | gloss withheld |
 | Phoenician | dgn (HALOT 214) | HALOT 214 | gloss withheld |
 | Hebrew | dāgān (HALOT 214) | HALOT 214 | gloss withheld |
 | Aramaic | Arm.-Eg. dgn (HALOT 214) | HALOT 214 | gloss withheld |
-| Judaic Aramaic | degānaʾ (T, 70) | T 70 |  |
+| Judaic Aramaic | degānaʾ (T 70) | T 70 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

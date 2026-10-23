@@ -29,13 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ʿaṣaba/ʿaṣba (LGz., 74) | LGz. 74 | gloss withheld |
+| Geez | ʿaṣaba/ʿaṣba (LGz. 74) | LGz. 74 | gloss withheld |
 | Arabic | ʿaṣaba "bind, tighten" (Lane 2057) | Lane 2057 |  |
 | Hebrew | ʿṣb (Leslau CDG 74) | Leslau CDG 74 | gloss withheld |
 | Aramaic | ʿṣp; ʿṢB (Aramaic Root Atlas; CAL s.v. ʿṣb#2) | Aramaic Root Atlas; CAL s.v. ʿṣb#2 | gloss withheld |
 | Judaic Aramaic | ʿuṣbā (HALOT 865) | HALOT 865 |  |
-| Tigrinya | ʿaṣäbä (LGz., 74) | LGz. 74 | gloss withheld |
-| Amharic | aṭṭäbä (LGz., 74) | LGz. 74 | gloss withheld |
+| Tigrinya | ʿaṣäbä (LGz. 74) | LGz. 74 | gloss withheld |
+| Amharic | aṭṭäbä (LGz. 74) | LGz. 74 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

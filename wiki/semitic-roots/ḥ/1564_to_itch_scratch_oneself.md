@@ -48,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | hakkäka \[LArg. 204\] | LArg. 204 |  |
 | Tigrinya | ḥakäkä \[Bass. 60\] | Bass. 60 |  |
 | Harari | ḥakäka (SED I 288) | SED I 288 | gloss withheld |
-| Gafat | ənkʷakʷä (LGz., 228) | LGz. 228 | gloss withheld |
+| Gafat | ənkʷakʷä (LGz. 228) | LGz. 228 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

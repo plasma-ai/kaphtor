@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | sadd- |  |  |
 | Akkadian | šadû |  | gloss withheld |
 | Ugaritic | šd |  | gloss withheld |
-| Phoenician | šdʾ, deity or divine epithet (B, 414) | B 414 | gloss withheld |
+| Phoenician | šdʾ, deity or divine epithet (B 414) | B 414 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,9 +36,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | qallaʿ, qelʿā (HALOT 1105, 1106; Payne Smith 507) | HALOT 1105, 1106; Payne Smith 507 |  |
 | Arabic | qalaʿa (HALOT 1105) | HALOT 1105 |  |
 | Ugaritic | qlʿ (HALOT 1106) | HALOT 1106 |  |
-| Aramaic | qilʿā (LGz., 426; CAL s.v. qlʿ#2) | LGz. 426; CAL s.v. qlʿ#2 |  |
-| Tigrinya | qälʿe (LGz., 426) | LGz. 426 | gloss withheld |
-| Amharic | qälla (LGz., 426) | LGz. 426 | gloss withheld |
+| Aramaic | qilʿā (LGz. 426; CAL s.v. qlʿ#2) | LGz. 426; CAL s.v. qlʿ#2 |  |
+| Tigrinya | qälʿe (LGz. 426) | LGz. 426 | gloss withheld |
+| Amharic | qälla (LGz. 426) | LGz. 426 | gloss withheld |
 | Soqotri | qáḷaʿ (Kogan 2015, ch. 2 §4.2 no. 32) | Kogan 2015, ch. 2 §4.2 no. 32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

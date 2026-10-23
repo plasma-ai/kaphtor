@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | khn \[-a-, -u-\] |  |  |
 | Ugaritic | khn 3 (Kogan 2015, ch. 3 §5.3 no. 16) | Kogan 2015, ch. 3 §5.3 no. 16 |  |
-| Phoenician | khn 3; khn (T, 138) | T 138 | gloss withheld |
+| Phoenician | khn 3; khn (T 138) | T 138 | gloss withheld |
 | Hebrew | khn pi. 1, kōhēn 3 (Kogan 2015, ch. 3 §5.3 no. 16) | Kogan 2015, ch. 3 §5.3 no. 16 |  |
 | Judaic Aramaic | khn 3 (DJPA 252a apud CAL) | DJPA 252a; CAL |  |
 | Syrian Aramaic | khn 1 (Payne Smith 206) | Payne Smith 206 |  |
-| Mandaic Aramaic | kahna (LGz., 278) | LGz. 278 |  |
-| Punic | khn (Krahmalkov, 224); khn, kḥn, kʿn (T, 138); khnt, knt, kʿnt (T, 139) | Krahmalkov 224; T 138; T 139 | gloss withheld |
-| Aramaic | khn, khnʾ (T, 138) | T 138 |  |
+| Mandaic Aramaic | kahna (LGz. 278) | LGz. 278 |  |
+| Punic | khn (Krahmalkov 224); khn, kḥn, kʿn (T 138); khnt, knt, kʿnt (T 139) | Krahmalkov 224; T 138; T 139 | gloss withheld |
+| Aramaic | khn, khnʾ (T 138) | T 138 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

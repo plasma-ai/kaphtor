@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | tnr 'furnace' | Anderson–Moser 2024 root tnr |  |
-| Hebrew | tannūr (LGz., 408) | LGz. 408 |  |
+| Hebrew | tannūr (LGz. 408) | LGz. 408 |  |
 | Syrian Aramaic | tanūrā 'furnace, oven; lamp-bowl; breastplate' (Payne Smith 616) | Payne Smith 616 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

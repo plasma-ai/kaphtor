@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | bezār 2 |  |  |
 | Harsusi | bezār 2 |  |  |
 | Aramaic | (Pehl) bzr 1, (Palest) bizr- 1 (Jastrow 154 apud CAL) | Jastrow 154; CAL |  |
-| Jibbali | beḏər (LGz., 118) | LGz. 118 |  |
+| Jibbali | beḏər (LGz. 118) | LGz. 118 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

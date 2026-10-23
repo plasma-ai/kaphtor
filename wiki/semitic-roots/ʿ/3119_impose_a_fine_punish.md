@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʿnš; ʿōneš (HALOT 859) | HALOT 859 | gloss withheld |
 | Judaic Aramaic | ʿnš; ʿunšā (HALOT 859) | HALOT 859 |  |
 | Biblical Aramaic | \*ʿănāš (HALOT 859) | HALOT 859 |  |
-| Punic | wʿnš (Krahmalkov, 382); bʿnšm (Krahmalkov, 383); wʿnš (T, 253) | Krahmalkov 382; Krahmalkov 383; T 253 | gloss withheld |
+| Punic | wʿnš (Krahmalkov 382); bʿnšm (Krahmalkov 383); wʿnš (T 253) | Krahmalkov 382; Krahmalkov 383; T 253 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

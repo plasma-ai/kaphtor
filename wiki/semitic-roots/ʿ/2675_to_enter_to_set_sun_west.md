@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | erēbu (CAD E, 258) | CAD E, 258 | gloss withheld |
-| Ugaritic | ʕrb (DUL, 178) | DUL 178 | gloss withheld |
+| Akkadian | erēbu (CAD E 258) | CAD E 258 | gloss withheld |
+| Ugaritic | ʕrb (DULAT 176) | DULAT 176 | gloss withheld |
 | Hebrew | ʕereb (HALOT 877) | HALOT 877 | gloss withheld |
-| Epigraphic South Arabian | Sab mʿrb, mʿrbyt (SD, 18, 19; Biella, 381, 382) | SD 18, 19; Biella 381, 382 | gloss withheld |
+| Epigraphic South Arabian | Sab mʿrb, mʿrbyt (SD 18, 19; Biella 382; Sabaweb lemmas 3807, 3808) | SD 18, 19; Biella 382; Sabaweb lemmas 3807, 3808 | gloss withheld |
 | Aramaic | ʿRB (Qumran 187 apud CAL) | CAL | gloss withheld |
 | Judaic Aramaic | maʿarbā (HALOT 615) | HALOT 615 |  |
 | Syrian Aramaic | ʿreb (HALOT 877) | HALOT 877 |  |

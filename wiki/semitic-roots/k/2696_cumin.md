@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kammūn- 'cumin' (BK 2, 931) | BK 2, 931 |  |
-| Akkadian | kamūnu (CAD K, 131) | CAD K, 131 | gloss withheld |
-| Ugaritic | kmn (DUL, 447) | DUL 447 | gloss withheld |
+| Akkadian | kamūnu (CAD K 131) | CAD K 131 | gloss withheld |
+| Ugaritic | kmn (DULAT 441) | DULAT 441 | gloss withheld |
 | Hebrew | kammōn (HALOT 481) | HALOT 481 | gloss withheld |
-| Phoenician | kmn (T, 144) | T 144 | gloss withheld |
+| Phoenician | kmn (T 144) | T 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kbw 2 |  |  |
 | Akkadian | kabābu 1 |  |  |
 | Hebrew | kby 2 |  |  |
-| Epigraphic South Arabian | Sab kby (Biella, 239) | Biella 239 | gloss withheld |
+| Epigraphic South Arabian | Sab kby (Biella 239) | Biella 239 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

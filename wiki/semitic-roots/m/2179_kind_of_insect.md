@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | minanat-, manūnat- 'spider' \[BK 2 1155\], \[Fr. IV 212\], \[LA 13 419\]. | BK 2 1155; Fr. IV 212; LA 13 419 |  |
 | Akkadian | mūnu SB, NA \[CAD m2 207\], \[AHw. 673\] | CAD m2 207; AHw. 673 | gloss withheld |
 | Geez | tomni \[LGz. 576\] | LGz. 576 | gloss withheld |
-| Syrian Aramaic | mǝnīnā 'curculio; cynips, musca' \[Brock. 394\], \[PS 2165\]. | Brock. 394; PS 2165 |  |
+| Syrian Aramaic | mǝnīnā 'weevil; gall wasp, fly' \[Brock. 394\], \[PS 2165\]. | Brock. 394; PS 2165 |  |
 | Eblaitic | mu-núm (SED II 204) | SED II 204 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

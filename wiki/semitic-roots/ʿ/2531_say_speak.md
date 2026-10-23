@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕmr II |  | gloss withheld |
 | Mehri | ʕamūr |  | gloss withheld |
-| Soqotri | ʕemor |  | gloss withheld |
+| Soqotri | ʕemor; ˁö́mor (SLOnline 3270) |  | gloss withheld |
 | Harsusi | ʕamōr |  | gloss withheld |
 | Jibbali | ʕõr |  | gloss withheld |
 

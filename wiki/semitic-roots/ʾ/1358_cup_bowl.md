@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔiggān-at- |  |  |
 | Akkadian | agannu |  |  |
 | Hebrew | ʔaggān |  |  |
-| Phoenician | ʔgnn (T, 3) | T 3 | gloss withheld |
+| Phoenician | ʔgnn (T 3) | T 3 | gloss withheld |
 | Syrian Aramaic | ʔagānā 'large bowl, wine vessel; crater' (Payne Smith 3) | Payne Smith 3 |  |
-| Ugaritic | ʾgn (T, 3) | T 3 |  |
-| Judaic Aramaic | ʾaggānaʾ (T, 3) | T 3 |  |
-| Geez | ʾaygan (T, 3) | T 3 |  |
+| Ugaritic | ʾgn (T 3) | T 3 |  |
+| Judaic Aramaic | ʾaggānaʾ (T 3) | T 3 |  |
+| Geez | ʾaygan (T 3) | T 3 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

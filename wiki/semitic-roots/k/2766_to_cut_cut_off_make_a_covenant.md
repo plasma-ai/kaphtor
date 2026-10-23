@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | karātu (CAD K, 215) | CAD K, 215 | gloss withheld |
-| Phoenician | krt (Krahmalkov, 243); krt (T, 149) | Krahmalkov 243; T 149 | gloss withheld |
+| Akkadian | karātu (CAD K 215) | CAD K 215 | gloss withheld |
+| Phoenician | krt (Krahmalkov 243); krt (T 149) | Krahmalkov 243; T 149 | gloss withheld |
 | Hebrew | kārat (HALOT 500) | HALOT 500 | gloss withheld |
 | Tigre | kartata (HALOT 500) | HALOT 500 |  |
 | Tigrinya | karata (HALOT 500) | HALOT 500 |  |

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | gugā, gʷǝgā |  | gloss withheld |
 | Gurage | gʷwängʷä |  |  |
 | Amharic | gʷägga, gʷǝgʷǝt |  |  |
-| Tigrinya | gʷəggʷa, guggʷa (LGz., 184) | LGz. 184 |  |
+| Tigrinya | gʷəggʷa, guggʷa (LGz. 184) | LGz. 184 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

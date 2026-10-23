@@ -23,21 +23,20 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ḥiṭṭ-at- |
 | Meaning | 'wheat' |
-| Basis | SED, corrected |
-| SED | SEDonline semet 2568 |
+| Basis | project |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥinṭa 'wheat' (BK 1, 503) | BK 1, 503 |  |
-| Akkadian | uṭṭatu (CAD U/W, 352) | CAD U/W, 352 | gloss withheld |
-| Ugaritic | ḥṭt (DULAT, 372) | DULAT 372 | gloss withheld |
-| Phoenician | ḥṭm (Krahmalkov, 181) | Krahmalkov 181 | gloss withheld |
+| Akkadian | uṭṭatu (CAD U/W 352) | CAD U/W 352 | gloss withheld |
+| Ugaritic | ḥṭt (DULAT 372) | DULAT 372 | gloss withheld |
+| Phoenician | ḥṭm (Krahmalkov 181) | Krahmalkov 181 | gloss withheld |
 | Hebrew | ḥiṭṭā (HALOT 307) | HALOT 307 | gloss withheld |
 | Aramaic | ḥiṭitā (OLA80 §29.49) | OLA80 §29.49 | gloss withheld |
 | Soqotri | ḥinṭǝh (HALOT 307) | HALOT 307 | gloss withheld |
-| Jibbali | ḥiṭ (JJ, 119) | JJ 119 | gloss withheld |
+| Jibbali | ḥiṭ (JJ 119) | JJ 119 | gloss withheld |
 | Judaic Aramaic | ḥinṭǝtā (HALOT 307) | HALOT 307 | gloss withheld |
 | Syrian Aramaic | ḥeṭṭǝtā (HALOT 307) | HALOT 307 | gloss withheld |
 | Geez | ḥeṭat \[HALOT 307\] | HALOT 307 | gloss withheld |

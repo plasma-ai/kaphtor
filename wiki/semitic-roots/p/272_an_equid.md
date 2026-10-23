@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | perdum \[AHw. 855\] | AHw. 855; Veenhof 1989 520-1; Durand 1998 487 | gloss withheld |
-| Ugaritic | prd \[DLU 354\] | DLU 354 | gloss withheld |
+| Ugaritic | prd \[DULAT 668\] | DULAT 668 | gloss withheld |
 | Hebrew | päräd (HALOT 963), pirdā (HALOT 963); pB. \[Ja. 1215\]. | HALOT 963; HALOT 963; Ja. 1215 | gloss withheld |
 | Aramaic | pərad (HALOT 963) | HALOT 963 | gloss withheld |
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | mādu 1; mâdu |  | gloss withheld |
-| Ugaritic | mʔud; \*/maʾdu/?, pl. /maʾ(a)dūma/ (UVST, 144) | UVST 144 | gloss withheld |
+| Ugaritic | mʔud; \*/maʾdu/?, pl. /maʾ(a)dūma/ (UVST 144) | UVST 144 | gloss withheld |
 | Hebrew | mǝʔōd 2 |  |  |
 | Amorite | mʾd: maʾdum, miʾd(ān)um, jāmʾid (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
 

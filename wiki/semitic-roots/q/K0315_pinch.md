@@ -34,16 +34,16 @@ updated: 2026-10-22T17:38:31Z
 | Geez | qaraṣa 'incise' | Anderson–Moser 2024 root qrṣ |  |
 | Hebrew | qaraṣ 'nip, pinch' (BDB 902) | BDB 902 |  |
 | Ugaritic | qrṣ 'nibble' | Anderson–Moser 2024 root qrṣ |  |
-| Amharic | qʷärräṭä (LGz., 444) | LGz. 444 | gloss withheld |
-| Jibbali | qeroḍ (LGz., 444) | LGz. 444 |  |
-| Syrian Aramaic | qəraṣ (LGz., 444) | LGz. 444 | gloss withheld |
-| Mandaic Aramaic | grṣ (LGz., 444) | LGz. 444 | gloss withheld |
-| Tigrinya | qäräṣä, qʷäräṣä (LGz., 444) | LGz. 444 | gloss withheld |
-| Tigre | qärṣa, qärč̣a (LGz., 444) | LGz. 444 | gloss withheld |
-| Argobba | qorräṭä (LGz., 444) | LGz. 444 | gloss withheld |
-| Harari | (a)qäräṭa (LGz., 444) | LGz. 444 | gloss withheld |
-| Gurage | aqqʷarräṭä (LGz., 444) | LGz. 444 | gloss withheld |
-| Gafat | qəraṣä (LGz., 444) | LGz. 444 | gloss withheld |
+| Amharic | qʷärräṭä (LGz. 444) | LGz. 444 | gloss withheld |
+| Jibbali | qeroḍ (LGz. 444) | LGz. 444 |  |
+| Syrian Aramaic | qəraṣ (LGz. 444) | LGz. 444 | gloss withheld |
+| Mandaic Aramaic | grṣ (LGz. 444) | LGz. 444 | gloss withheld |
+| Tigrinya | qäräṣä, qʷäräṣä (LGz. 444) | LGz. 444 | gloss withheld |
+| Tigre | qärṣa, qärč̣a (LGz. 444) | LGz. 444 | gloss withheld |
+| Argobba | qorräṭä (LGz. 444) | LGz. 444 | gloss withheld |
+| Harari | (a)qäräṭa (LGz. 444) | LGz. 444 | gloss withheld |
+| Gurage | aqqʷarräṭä (LGz. 444) | LGz. 444 | gloss withheld |
+| Gafat | qəraṣä (LGz. 444) | LGz. 444 | gloss withheld |
 | Judaic Aramaic | qəraṣ (HALOT 1147) | HALOT 1147 |  |
 | Aramaic | CPArm. qrṣ (HALOT 1147) | HALOT 1147 |  |
 

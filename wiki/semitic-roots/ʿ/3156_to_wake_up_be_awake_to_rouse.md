@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʕûr; hif. (HALOT 802) | HALOT 802 | gloss withheld |
-| Ugaritic | /ʕ-r/, (DULAT, 175) | DULAT 175 | gloss withheld |
-| Akkadian | êru (CAD E, 326) | CAD E, 326 | gloss withheld |
+| Ugaritic | /ʕ-r/, (DULAT 175) | DULAT 175 | gloss withheld |
+| Akkadian | êru (CAD E 326) | CAD E 326 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

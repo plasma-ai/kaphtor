@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ebūru |  |  |
 | Hebrew | \*ʕăbūr 2 |  |  |
 | Judaic Aramaic | ʕăbūrā 3 |  |  |
-| Punic | \*ʿbr: šʿbrʾ (Neo-Punic; T, 237) | T 237 | gloss withheld |
+| Punic | \*ʿbr: šʿbrʾ (Neo-Punic; T 237) | T 237 | gloss withheld |
 | Syrian Aramaic | ʕbūrā 'a crop, produce, corn, food' (Payne Smith 398) | Payne Smith 398 |  |
-| Aramaic | ʿbr (T, 237) | T 237 |  |
-| Mandaic Aramaic | ʿburiaʾ (T, 237) | T 237 |  |
+| Aramaic | ʿbr (T 237) | T 237 |  |
+| Mandaic Aramaic | ʿburiaʾ (T 237) | T 237 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

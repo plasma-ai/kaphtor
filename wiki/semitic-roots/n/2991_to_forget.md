@@ -32,16 +32,16 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | nāšâ (HALOT 728); mǝnašše (HALOT 603) | HALOT 728; HALOT 603 | gloss withheld |
 | Ugaritic | nšy (HALOT 728) | HALOT 728 | gloss withheld |
 | Arabic | nasiya (HALOT 728) | HALOT 728 | gloss withheld |
-| Phoenician | nšy (B, 363) | B 363 | gloss withheld |
-| Geez | nāḥsaya (LGz., 395) | LGz. 395 | gloss withheld |
-| Epigraphic South Arabian | ns₁y-m (LGz., 395); ns₁y (LGz., 403) | LGz. 395; LGz. 403 | gloss withheld |
-| Soqotri | neše (LGz., 395) | LGz. 395 |  |
-| Syrian Aramaic | nəšā (LGz., 395) | LGz. 395 |  |
-| Mandaic Aramaic | nša (LGz., 395) | LGz. 395 |  |
-| Tigrinya | ʾanaḥsäyä (LGz., 395) | LGz. 395 | gloss withheld |
-| Mehri | nehū (LGz., 403) | LGz. 403 |  |
-| Jibbali | nše (LGz., 403) | LGz. 403 |  |
-| Akkadian | mašû (CAD M1, 397) | CAD M1, 397 | gloss withheld |
+| Phoenician | nšy (B 363) | B 363 | gloss withheld |
+| Geez | nāḥsaya (LGz. 395) | LGz. 395 | gloss withheld |
+| Epigraphic South Arabian | ns₁y-m (LGz. 395); ns₁y (LGz. 403) | LGz. 395; LGz. 403 | gloss withheld |
+| Soqotri | neše (LGz. 395) | LGz. 395 |  |
+| Syrian Aramaic | nəšā (LGz. 395) | LGz. 395 |  |
+| Mandaic Aramaic | nša (LGz. 395) | LGz. 395 |  |
+| Tigrinya | ʾanaḥsäyä (LGz. 395) | LGz. 395 | gloss withheld |
+| Mehri | nehū (LGz. 403) | LGz. 403 |  |
+| Jibbali | nše (LGz. 403) | LGz. 403 |  |
+| Akkadian | mašû (CAD M/1 397) | CAD M/1 397 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

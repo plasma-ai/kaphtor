@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | qaḏara 'was unclean, dirty' (Lane 2498) | Lane 2498 |  |
 | Aramaic | QDR (CAL s.v. qdr) | CAL s.v. qdr | gloss withheld |
-| Ugaritic | qdr (CUC; DULAT, 685) | CUC; DULAT 685 | gloss withheld |
+| Ugaritic | qdr (CUC; DULAT 685) | CUC; DULAT 685 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

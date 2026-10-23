@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔarḍ- |  |  |
 | Akkadian | erṣetu |  |  |
 | Mandaic Aramaic | arq-, ard- |  |  |
-| Ugaritic | ʔarṣ /ʾarṣu/ (UVST, 110) | UVST 110 | gloss withheld |
+| Ugaritic | ʔarṣ /ʾarṣu/ (UVST 110) | UVST 110 | gloss withheld |
 | Phoenician | ʔrṣ |  |  |
 | Jibbali | ʔerḍ |  |  |
 | Hebrew | ʔereṣ |  |  |
-| Epigraphic South Arabian | ʔrḍ |  |  |
+| Epigraphic South Arabian | ʔrḍ (Sabaweb lemma 1284) | Sabaweb lemma 1284 | gloss withheld |
 | Syrian Aramaic | (Palest, Syr) ʔarʕ- |  |  |
 | Aramaic | (Emp) ʔrq, (Nab, Palm) ʔrʕ, (Bibl) ʔăraʕ (BDB 1083) | BDB 1083 |  |
 

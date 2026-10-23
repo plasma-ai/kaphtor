@@ -35,11 +35,11 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ḳefet 2 |  |  |
 | Akkadian | quppu 1, qappatu 2 |  |  |
 | Geez | qafo 2 |  |  |
-| Harsusi | qefet (LGz., 424) | LGz. 424 |  |
-| Tigrinya | qʷäfo (LGz., 424) | LGz. 424 | gloss withheld |
-| Tigre | qäfo (LGz., 424) | LGz. 424 | gloss withheld |
-| Amharic | qäfo (LGz., 424) | LGz. 424 | gloss withheld |
-| Gurage | qäfo (LGz., 424) | LGz. 424 | gloss withheld |
+| Harsusi | qefet (LGz. 424) | LGz. 424 |  |
+| Tigrinya | qʷäfo (LGz. 424) | LGz. 424 | gloss withheld |
+| Tigre | qäfo (LGz. 424) | LGz. 424 | gloss withheld |
+| Amharic | qäfo (LGz. 424) | LGz. 424 | gloss withheld |
+| Gurage | qäfo (LGz. 424) | LGz. 424 | gloss withheld |
 | Syrian Aramaic | qūpī 'basket' (Payne Smith 497) | Payne Smith 497 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

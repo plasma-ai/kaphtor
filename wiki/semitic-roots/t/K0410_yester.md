@@ -34,10 +34,10 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ʾitmal (HALOT 103) | HALOT 103 |  |
 | Hebrew | təmôl (HALOT 1746) | HALOT 1746 | gloss withheld |
 | Judaic Aramaic | təmālī (HALOT 1746) | HALOT 1746 |  |
-| Aramaic | ʾiṯmāl (LGz., 575) | LGz. 575 |  |
-| Tigre | tämale, mali (LGz., 576) | LGz. 576 |  |
-| Tigrinya | təmali (LGz., 576) | LGz. 576 |  |
-| Argobba | təmay (LGz., 576) | LGz. 576 |  |
+| Aramaic | ʾiṯmāl (LGz. 575) | LGz. 575 |  |
+| Tigre | tämale, mali (LGz. 576) | LGz. 576 |  |
+| Tigrinya | təmali (LGz. 576) | LGz. 576 |  |
+| Argobba | təmay (LGz. 576) | LGz. 576 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

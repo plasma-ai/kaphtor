@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | erp-et- |  |  |
 | Ugaritic | ʕrpt |  |  |
 | Hebrew | ʕrp (HALOT 887) (cf. ʕărāpäl) | HALOT 887 | gloss withheld |
-| Geez | ḥarafa (LGz., 241) | LGz. 241 | gloss withheld |
+| Geez | ḥarafa (LGz. 241) | LGz. 241 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wqh (SD, 161; Biella, 144, 145) | SD 161; Biella 144, 145 | gloss withheld |
-| Arabic | Ar ittaqah (root WQH) (Biella, 145) | Biella 145 | gloss withheld |
+| Epigraphic South Arabian | Sab wqh (SD 161; Biella 144, 145) | SD 161; Biella 144, 145 | gloss withheld |
+| Arabic | Ar ittaqah (root WQH) (Biella 145) | Biella 145 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

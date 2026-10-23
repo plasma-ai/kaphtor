@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | miṣr- 'city, metropolis; Egypt' (BK 2, 1116) | BK 2, 1116 |  |
-| Akkadian | miṣru (CAD M2, 113) | CAD M2, 113 | gloss withheld |
-| Ugaritic | mṣrm (DULAT, 580) | DULAT 580 | gloss withheld |
+| Akkadian | miṣru (CAD M/2 113) | CAD M/2 113 | gloss withheld |
+| Ugaritic | mṣrm (DULAT 580) | DULAT 580 | gloss withheld |
 | Hebrew | miṣrayim (HALOT 625) | HALOT 625 | gloss withheld |
 | Aramaic | mṣry (HALOT 624) | HALOT 624 | gloss withheld |
 | Judaic Aramaic | miṣrāyā (HALOT 624) | HALOT 624 | gloss withheld |

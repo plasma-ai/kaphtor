@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | ḏt (SD, 37; Biella, 99; ASA, Hadramitic, Minaic, Qatabanic, Sabaic) | SD 37; Biella 99 |  |
+| Epigraphic South Arabian | ḏt (SD 37; Biella 99; Sabaweb lemma 1563; ASA, Hadramitic, Minaic, Qatabanic, Sabaic) | SD 37; Biella 99; Sabaweb lemma 1563 |  |
 | Hebrew | zōʾt (fem.) (HALOT 260) | HALOT 260 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,17 +30,17 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | nfq 'tear' | Anderson–Moser 2024 root npq |  |
-| Arabic | nafiqa (LGz., 388) | LGz. 388 | gloss withheld |
-| Syrian Aramaic | nəpaq (LGz., 388) | LGz. 388 | gloss withheld |
-| Mandaic Aramaic | npaq (LGz., 388) | LGz. 388 |  |
-| Gurage | näffäqä (LGz., 388) | LGz. 388 | gloss withheld |
-| Phoenician | \*npq (T, 218) | T 218 | gloss withheld |
+| Arabic | nafiqa (LGz. 388) | LGz. 388 | gloss withheld |
+| Syrian Aramaic | nəpaq (LGz. 388) | LGz. 388 | gloss withheld |
+| Mandaic Aramaic | npaq (LGz. 388) | LGz. 388 |  |
+| Gurage | näffäqä (LGz. 388) | LGz. 388 | gloss withheld |
+| Phoenician | \*npq (T 218) | T 218 | gloss withheld |
 | Aramaic | DA npḳ (DNWSI 741 apud SEDonline 258) | DNWSI 741; SEDonline 258 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Ug. npq 'go out' (LGz., 388) is Dietrich–Loretz's reading; DULAT, 666 files the forms under /p-q/ 'to obtain'.
+Ug. npq 'go out' (LGz. 388) is Dietrich–Loretz's reading; DULAT 666 files the forms under /p-q/ 'to obtain'.
 
 <!-- END kaphtor:record -->

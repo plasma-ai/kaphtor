@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥalaš (BDB 325; HALOT 324) | BDB 325; HALOT 324 | gloss withheld |
 | Syrian Aramaic | ḥallāš (HALOT 324) | HALOT 324 |  |
 | Tigre | ḥalsa (HALOT 324) | HALOT 324 |  |
-| Pre-Islamic North Arabian | Safaitic ḥls (Al-Jallad–Jaworska, 85) | Al-Jallad–Jaworska 85 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥls (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/2542_be_small
 title: "*zVʕVr-: 'be small'"
-desc: "Proto-Semitic *zVʕVr-, 'be small': reflexes in 6 language(s)."
+desc: "Proto-Semitic *zVʕVr-, 'be small': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2542"
@@ -31,7 +31,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | zʕr 'to be sparse, scanty (hair, feathers)' (Lane 1231) | Lane 1231 |  |
-| Canaanite | Amarna zirti Br 202 |  |  |
 | Biblical Aramaic | zǝʕēr |  | gloss withheld |
 | Modern Aramaic | Urm zǝʕōr- |  |  |
 | Syrian Aramaic | zǝʕōr- (Payne Smith 118) | Payne Smith 118 |  |
@@ -41,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Hebrew zāʕīr 'a little' &lt; Aram? HAL 276.
+Hebrew zāʕīr 'a little' &lt; Aram? HAL 276. HALOT 277 compares Amarna zi-ir-ti (?), EA 127:34; Moran reads the gloss ṣí-ir-ti, Canaanite ṣūr 'to confine, besiege' (Moran 1992, 207, 208 n. 9).
 
 <!-- END kaphtor:record -->

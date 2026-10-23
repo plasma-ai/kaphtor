@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | yʿr 'thicket' | Anderson–Moser 2024 root wʿr |  |
 | Hebrew | yaʿar 'forest' | Anderson–Moser 2024 root wʿr |  |
 | Ugaritic | yʿr 'wood' | Anderson–Moser 2024 root wʿr |  |
-| Geez | waʿara (LGz., 603) | LGz. 603 | gloss withheld |
-| Phoenician | \*yʿr: šyr (T, 127) | T 127 | gloss withheld |
+| Geez | waʿara (LGz. 603) | LGz. 603 | gloss withheld |
+| Phoenician | \*yʿr: šyr (T 127) | T 127 | gloss withheld |
 | Syrian Aramaic | yaʕrā 'thicket, briar; vine sucker' (Payne Smith 194) | Payne Smith 194 |  |
-| Judaic Aramaic | yʿaraʾ (T, 127) | T 127 |  |
+| Judaic Aramaic | yʿaraʾ (T 127) | T 127 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

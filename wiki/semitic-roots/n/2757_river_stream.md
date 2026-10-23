@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nahr- 'river' (BK 2, 1354) | BK 2, 1354 |  |
-| Akkadian | nāru (CAD N1, 370) | CAD N1, 370 | gloss withheld |
-| Ugaritic | nhr (DULAT, 618) | DULAT 618 | gloss withheld |
+| Akkadian | nāru (CAD N/1 370) | CAD N/1 370 | gloss withheld |
+| Ugaritic | nhr (DULAT 618) | DULAT 618 | gloss withheld |
 | Hebrew | nāhār (HALOT 676) | HALOT 676 | gloss withheld |
 | Judaic Aramaic | nahᵃrā (HALOT 676; DJPA 343a apud CAL) | HALOT 676; DJPA 343a; CAL |  |
-| Syrian Aramaic | nahrā (LGz., 394; Payne Smith 330) | LGz. 394; Payne Smith 330 | gloss withheld |
+| Syrian Aramaic | nahrā (LGz. 394; Payne Smith 330) | LGz. 394; Payne Smith 330 | gloss withheld |
 | Amorite | nahrum (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
 | Epigraphic South Arabian | SAB nhr (Kogan 2011, 191) | Kogan 2011, 191 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic nhr (Al-Jallad–Jaworska, 105) | Al-Jallad–Jaworska 105 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nhr (Al-Jallad–Jaworska 105) | Al-Jallad–Jaworska 105 | gloss withheld |
 | Phoenician | nhrm (HALOT 676) | HALOT 676 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

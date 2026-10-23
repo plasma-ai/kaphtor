@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | rʿ 'shepherd' | Anderson–Moser 2024 root rʿy |  |
 | Judaic Aramaic | rəʿā, rāʿăyā, rāʿītā (HALOT 1258) | HALOT 1258 |  |
 | Amorite | rʿj: jarʿī (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic rʿy (Al-Jallad–Jaworska, 114) | Al-Jallad–Jaworska 114 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rʿy (Al-Jallad–Jaworska 114) | Al-Jallad–Jaworska 114 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

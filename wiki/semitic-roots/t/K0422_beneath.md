@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | tḥt 'beneath' | Anderson–Moser 2024 root tḥt |  |
-| Epigraphic South Arabian | Sab tḥt (SD, 147; Biella, 533) | SD 147; Biella 533 | gloss withheld |
+| Epigraphic South Arabian | Sab tḥt (SD 147; Biella 533) | SD 147; Biella 533 | gloss withheld |
 | Amorite | taḥtu, taḥtun (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
 | Arabic | taḥt 'beneath, under' (Lane 298) | Lane 298 |  |
 | Geez | tāḥta (Kogan 2015, ch. 2 §5.2.2.1 no. 34) | Kogan 2015, ch. 2 §5.2.2.1 no. 34 | gloss withheld |
@@ -44,9 +44,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | täḥat (WTS 305 apud SEDonline 255) | WTS 305; SEDonline 255 | gloss withheld |
 | Tigrinya | təḥti (TED 1227 apud SEDonline 255) | TED 1227; SEDonline 255 | gloss withheld |
 | Phoenician | tḥt (Tomback 1978:338 apud SEDonline 255) | Tomback 1978:338; SEDonline 255 | gloss withheld |
-| Mandaic Aramaic | tit (T, 338) | T 338 |  |
-| Biblical Aramaic | teḥōt (T, 338) | T 338 |  |
-| Judaic Aramaic | teḥōt (T, 338) | T 338 |  |
+| Mandaic Aramaic | tit (T 338) | T 338 |  |
+| Biblical Aramaic | teḥōt (T 338) | T 338 |  |
+| Judaic Aramaic | teḥōt (T 338) | T 338 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | mhyr |  |  |
-| Akkadian | māru (CAD M1, 308) | CAD M1, 308 | gloss withheld |
-| Ugaritic | mhr |  |  |
-| Geez | mhyr |  |  |
-| Phoenician | mhyr |  |  |
-| Hebrew | mhyr |  |  |
-| Aramaic | mhyr |  |  |
+| Arabic | māhir 'skilled, skilful' (Lane 2740) | Lane 2740 |  |
+| Akkadian | māru (CAD M/1 308) | CAD M/1 308 | gloss withheld |
+| Ugaritic | mhr; (DULAT 529–530) | DULAT 529–530 | gloss withheld |
+| Geez | məhur (LGz. 334) | LGz. 334 | gloss withheld |
+| Phoenician | mhr in PNN, (DN-)mhr(-DN) (Benz 340f. apud DULAT 530) | DULAT 530 |  |
+| Hebrew | māhîr (HALOT 552) | HALOT 552 | gloss withheld |
+| Aramaic | mhyr (DNWSI 602 apud DULAT 530) | DNWSI 602; DULAT 530 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

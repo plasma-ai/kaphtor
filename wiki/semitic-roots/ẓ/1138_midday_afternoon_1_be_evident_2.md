@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṣohŏrayim (HALOT 1008) 1 | HALOT 1008 | gloss withheld |
 | Judaic Aramaic | ṭihărā 'midday' \[Ja 530\] 1 | Ja 530 |  |
 | Syrian Aramaic | ṭahrā 'midday, noon' \[Brock 269\] | Brock 269 |  |
-| Pre-Islamic North Arabian | Safaitic ẓhr (Al-Jallad–Jaworska, 144) | Al-Jallad–Jaworska 144 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ẓhr (Al-Jallad–Jaworska 144) | Al-Jallad–Jaworska 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

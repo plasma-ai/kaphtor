@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕatīq- 'old, ancient, noble' (BK 2, 165) | BK 2, 165 |  |
 | Hebrew | ʕātîq (HALOT 903) | HALOT 903 | gloss withheld |
-| Aramaic | ʕattîq (DJPA 409) | DJPA 409 | gloss withheld |
-| Ugaritic | ʿtq (CUC; DULAT, 189) | CUC; DULAT 189 | gloss withheld |
+| Aramaic | ʕattîq (DJPA 422b apud CAL) | DJPA 422b; CAL | gloss withheld |
+| Ugaritic | ʿtq (CUC; DULAT 189) | CUC; DULAT 189 | gloss withheld |
 | Akkadian | etēqu 'go past' | Anderson–Moser 2024 root ʿtq |  |
 | Judaic Aramaic | ʿattīq; ʿtq (HALOT 903, 904) | HALOT 903, 904 | gloss withheld |
 | Syrian Aramaic | ʿtyq; ʿtq (HALOT 903, 904; Payne Smith 431) | HALOT 903, 904; Payne Smith 431 |  |

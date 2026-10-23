@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ḥyk 'chew' | Anderson–Moser 2024 root ḥyk |  |
-| Harari | ḥeka (LGz., 251) | LGz. 251 |  |
+| Harari | ḥeka (LGz. 251) | LGz. 251 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

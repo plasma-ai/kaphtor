@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | kny \[-i-\] |  |  |
 | Hebrew | kny |  |  |
-| Phoenician | kny (T, 145) | T 145 | gloss withheld |
+| Phoenician | kny (T 145) | T 145 | gloss withheld |
 | Syrian Aramaic | kanī 'give a name, call' (Payne Smith 217) | Payne Smith 217 |  |
-| Mandaic Aramaic | knʾ (T, 145) | T 145 |  |
-| Judaic Aramaic | kanni (T, 145) | T 145 |  |
+| Mandaic Aramaic | knʾ (T 145) | T 145 |  |
+| Judaic Aramaic | kanni (T 145) | T 145 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

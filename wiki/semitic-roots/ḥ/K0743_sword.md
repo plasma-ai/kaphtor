@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥereb 'sword' (BDB 352) | BDB 352 |  |
 | Ugaritic | ḥrb (Kogan 2015, ch. 3 §5.3 no. 13) | Kogan 2015, ch. 3 §5.3 no. 13 | gloss withheld |
 | Judaic Aramaic | ḥarbā (HALOT 349; DJPA 213b apud CAL) | HALOT 349; DJPA 213b; CAL |  |
-| Soqotri | ḥarib (LGz., 241) | LGz. 241 | gloss withheld |
-| Mandaic Aramaic | harba (LGz., 241; Drower/Macuch 126b apud CAL) | LGz. 241; Macuch 126b; CAL |  |
+| Soqotri | ḥarib (LGz. 241) | LGz. 241 | gloss withheld |
+| Mandaic Aramaic | harba (LGz. 241; Drower/Macuch 126b apud CAL) | LGz. 241; Macuch 126b; CAL |  |
 | Epigraphic South Arabian | Sab ḥrb (Kogan 2015, ch. 3 §5.3 no. 13) | Kogan 2015, ch. 3 §5.3 no. 13 | gloss withheld |
 | Syrian Aramaic | ḥarbā (Kogan 2015, ch. 3 §5.3 no. 13) | Kogan 2015, ch. 3 §5.3 no. 13 | gloss withheld |
 

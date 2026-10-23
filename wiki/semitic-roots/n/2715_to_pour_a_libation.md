@@ -30,20 +30,20 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nasāku (CAD N2, 15) | CAD N2, 15 | gloss withheld |
-| Ugaritic | nsk (DULAT, 635) | DULAT 635 | gloss withheld |
+| Akkadian | nasāku (CAD N/2 15) | CAD N/2 15 | gloss withheld |
+| Ugaritic | nsk (DULAT 635) | DULAT 635 | gloss withheld |
 | Hebrew | nāsak (HALOT 703) | HALOT 703 | gloss withheld |
-| Phoenician | nsk (T, 214) | T 214 | gloss withheld |
+| Phoenician | nsk (T 214) | T 214 | gloss withheld |
 | Judaic Aramaic | niskā (HALOT 702, 703) | HALOT 702, 703 | gloss withheld |
 | Syrian Aramaic | neskᵉtā, nsīkā, nsākā (HALOT 702, 703) | HALOT 702, 703 | gloss withheld |
 | Punic | nskh (HALOT 703) | HALOT 703 | gloss withheld |
-| Aramaic | nsk (T, 214) | T 214 |  |
-| Biblical Aramaic | nesak (T, 214) | T 214 |  |
+| Aramaic | nsk (T 214) | T 214 |  |
+| Biblical Aramaic | nesak (T 214) | T 214 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Arabic nasaka 'he worshipped', nasīkaᵗ (Lane 3032); 'être pieux, dévot', 'consacrer', 'victime immolée en offrande' (BK 2, 1251): the cultic sense, not 'to pour'.
+Arabic nasaka 'he worshipped', nasīkaᵗ (Lane 3032); 'be pious, devout', 'consecrate', 'victim sacrificed as an offering' (BK 2, 1251): the cultic sense, not 'to pour'.
 
 <!-- END kaphtor:record -->

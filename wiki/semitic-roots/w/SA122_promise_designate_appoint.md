@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wʿd (SD, 155) | SD 155 | gloss withheld |
-| Arabic | Ar waʿada (Lane 2952; Biella, 134); III, VIII (HALOT 419) | Lane 2952; Biella 134; HALOT 419 | gloss withheld |
+| Epigraphic South Arabian | Sab wʿd (SD 155) | SD 155 | gloss withheld |
+| Arabic | Ar waʿada (Lane 2952; Biella 134); III, VIII (HALOT 419) | Lane 2952; Biella 134; HALOT 419 | gloss withheld |
 | Hebrew | yʿd (HALOT 419) | HALOT 419 | gloss withheld |
-| Phoenician | yʿd (B, 324) | B 324 | gloss withheld |
+| Phoenician | yʿd (B 324) | B 324 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

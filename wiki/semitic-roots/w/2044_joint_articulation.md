@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | yṣlt \[T 128\] | T 128 | gloss withheld |
 | Hebrew | ʔaṣṣīl (HALOT 81) | HALOT 81 | gloss withheld |
 | Judaic Aramaic | ʔṣyl \[Sok 72\] | Sok 72 | gloss withheld |
-| Syrian Aramaic | yaṣṣīlā 'cubitus' \[Brock 306\] | Brock 306 |  |
+| Syrian Aramaic | yaṣṣīlā 'elbow' \[Brock 306\] | Brock 306 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

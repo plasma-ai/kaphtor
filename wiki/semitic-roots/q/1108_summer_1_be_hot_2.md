@@ -37,13 +37,13 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | qoẓ 1 |  |  |
 | Hebrew | qayiṣ 1 |  |  |
 | Aramaic | qayṭ- 1 (DNWSI 1021 apud CAL) | DNWSI 1021; CAL |  |
-| Ugaritic | qẓ 'summer' | Anderson–Moser 2024 root qyẓ |  |
-| Epigraphic South Arabian | Sab qyẓ (SD, 112; Biella, 453) | SD 112; Biella 453 | gloss withheld |
+| Ugaritic | qẓ (DULAT 711) | DULAT 711 | gloss withheld |
+| Epigraphic South Arabian | Sab qyẓ (SD 112; Biella 453; Sabaweb lemma 1733) | SD 112; Biella 453; Sabaweb lemma 1733 | gloss withheld |
 | Syrian Aramaic | qayyeṭ, qaiṭā (HALOT 1098) | HALOT 1098 | gloss withheld |
 | Judaic Aramaic | qayṭā, qēṭā (HALOT 1098; DJPA 490a apud CAL) | HALOT 1098; DJPA 490a; CAL |  |
 | Canaanite | EA qēṣi (HALOT 1098) | HALOT 1098 |  |
-| Pre-Islamic North Arabian | Safaitic qyẓ (Al-Jallad–Jaworska, 113) | Al-Jallad–Jaworska 113 | gloss withheld |
-| Modern Arabic | Yem. gayẓ, giyaẓ (Biella, 453) | Biella 453 |  |
+| Pre-Islamic North Arabian | Safaitic qyẓ (Al-Jallad–Jaworska 113) | Al-Jallad–Jaworska 113 | gloss withheld |
+| Modern Arabic | Yem. gayẓ, giyaẓ (Biella 453) | Biella 453 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕrg \[-a-\] |  |  |
-| Pre-Islamic North Arabian | Safaitic ʿrg (Al-Jallad–Jaworska, 55) | Al-Jallad–Jaworska 55 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿrg (Al-Jallad–Jaworska 55) | Al-Jallad–Jaworska 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

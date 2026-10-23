@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | pgrm (pagrūma) (Pardee 2002, 25) |  | gloss withheld |
-| Akkadian | pagru (CAD P, 17) | CAD P, 17 | gloss withheld |
+| Akkadian | pagru (CAD P 17) | CAD P 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

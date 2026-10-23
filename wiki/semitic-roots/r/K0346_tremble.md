@@ -36,8 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | rgz (HALOT 1182) | HALOT 1182 |  |
 | Arabic | rajaza (HALOT 1182) | HALOT 1182 |  |
 | Syrian Aramaic | rgez 'be wroth, angry; provoke to anger' (Payne Smith 528) | Payne Smith 528 |  |
-| Aramaic | rgz (T, 302) | T 302 |  |
-| Mandaic Aramaic | rgz (T, 302) | T 302 |  |
+| Aramaic | rgz (T 302) | T 302 |  |
+| Mandaic Aramaic | rgz (T 302) | T 302 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

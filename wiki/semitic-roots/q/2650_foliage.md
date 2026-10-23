@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳiṣl- 'part that is thrown away when cleaning the grain', ḳaṣīl 'green fodder cut for horses', ḳaṣlat- 'tender and flexible (tree); sheaf (of harvested cereals)' (BK II 755) | BK II 755 |  |
-| Geez | ḳʷaṣl (LGz., 450) | LGz. 450 | gloss withheld |
+| Geez | ḳʷaṣl (LGz. 450) | LGz. 450 | gloss withheld |
 | Amharic | ḳǝṭal (K 829) | K 829 | gloss withheld |
 | Tigrinya | ḳʷäṣli (KT 1059) | KT 1059 | gloss withheld |
 | Harari | ḳuṭṭi (Kogan 2015, ch. 7 §2.5 no. 46) | Kogan 2015, ch. 7 §2.5 no. 46 | gloss withheld |

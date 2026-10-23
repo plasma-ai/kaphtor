@@ -29,15 +29,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | wagʾa (LGz., 607) | LGz. 607 | gloss withheld |
-| Arabic | waǧaʾa (LGz., 607) | LGz. 607 |  |
-| Soqotri | ʾoge (LGz., 607) | LGz. 607 |  |
-| Jibbali | wgʿ (LGz., 607) | LGz. 607 |  |
-| Tigre | wägʾa, wägʿa (LGz., 607) | LGz. 607 |  |
-| Tigrinya | wägʿe (LGz., 607) | LGz. 607 |  |
-| Amharic | wägga (LGz., 607) | LGz. 607 |  |
-| Argobba | wägga (LGz., 607) | LGz. 607 |  |
-| Gurage | wägga, aǧǧä (LGz., 607) | LGz. 607 |  |
+| Geez | wagʾa (LGz. 607) | LGz. 607 | gloss withheld |
+| Arabic | waǧaʾa (LGz. 607) | LGz. 607 |  |
+| Soqotri | ʾoge (LGz. 607); ége (SLOnline 3046) | LGz. 607 | gloss withheld |
+| Jibbali | wgʿ (LGz. 607) | LGz. 607 |  |
+| Tigre | wägʾa, wägʿa (LGz. 607) | LGz. 607 |  |
+| Tigrinya | wägʿe (LGz. 607) | LGz. 607 |  |
+| Amharic | wägga (LGz. 607) | LGz. 607 |  |
+| Argobba | wägga (LGz. 607) | LGz. 607 |  |
+| Gurage | wägga, aǧǧä (LGz. 607) | LGz. 607 |  |
 | East Ethiopic | Sel. Wol. aǧe, Zwy. aǧī \[LHar 81\] | LHar 81 |  |
 | Harari | ḥaǧa \[LHar 81\] | LHar 81 | gloss withheld |
 

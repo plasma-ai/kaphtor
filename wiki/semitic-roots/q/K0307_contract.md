@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | KBṢ (HALOT 1118) | HALOT 1118 |  |
 | Geez | qabṣa (HALOT 1118) | HALOT 1118 |  |
 | Arabic | qafaṣa (HALOT 1118) | HALOT 1118 |  |
-| Eblaitic | ga-ba-zú /kapāṣu/ (VE 557, Kogan–Krebernik 2021b: 686 apud SEDonline 2005) | VE 557, Kogan–Krebernik 2021b: 686; SEDonline 2005 | gloss withheld |
+| Eblaitic | ga-ba-zú /kapāṣu/ (VE 557, Kogan–Krebernik 2021b: 686 apud SEDonline 2005; Krebernik 1983, 21) | VE 557, Kogan–Krebernik 2021b: 686; SEDonline 2005; Krebernik 1983, 21 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ḥn 'grace' | Anderson–Moser 2024 root ḥn |  |
 | Judaic Aramaic | ḥinnā (HALOT 332) | HALOT 332 |  |
 | Arabic | ḥannat; ḥanīn (HALOT 332, 333) | HALOT 332, 333 |  |
-| Phoenician | ḥn (T, 108) | T 108 | gloss withheld |
-| Aramaic | ḥn (T, 108) | T 108 |  |
+| Phoenician | ḥn (T 108) | T 108 | gloss withheld |
+| Aramaic | ḥn (T 108) | T 108 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

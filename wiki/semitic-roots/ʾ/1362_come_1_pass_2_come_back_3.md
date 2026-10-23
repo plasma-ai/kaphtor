@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔty 1 |  |  |
-| Soqotri | ʔete 2 |  |  |
+| Soqotri | ʔete 2; éte (SLOnline 3162) |  | gloss withheld |
 | Tigre | ʔata 3 |  |  |
 | Mandaic Aramaic | ata 1 |  |  |
 | Ugaritic | ʔatw 1 |  |  |

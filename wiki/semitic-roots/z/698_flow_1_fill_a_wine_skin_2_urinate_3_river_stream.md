@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | zwb 1, zbb \[-u-\] 2 (Lane 1208), ʔzb 1 \[i\] 1 (Lane 52) | Lane 1208; Lane 52 |  |
 | Mandaic Aramaic | zaba 4 |  |  |
-| Geez | ʔazaba; ʔastaʔazaba (LGz., 52) | LGz. 52 | gloss withheld |
-| Amharic | azaba (LGz., 52) | LGz. 52 |  |
+| Geez | ʔazaba; ʔastaʔazaba (LGz. 52) | LGz. 52 | gloss withheld |
+| Amharic | azaba (LGz. 52) | LGz. 52 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

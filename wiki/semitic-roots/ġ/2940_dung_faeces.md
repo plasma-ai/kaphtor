@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ɣōb, ɣəb (SED I 98) | SED I 98 | gloss withheld |
 | Harsusi | ɣeb (SED I 98) | SED I 98 | gloss withheld |
 | Jibbali | ɣɔb, ɣebb (SED I 98) | SED I 98 | gloss withheld |
-| Soqotri | ʕéb, ʕeb(b) (SED I 98) | SED I 98 | gloss withheld |
+| Soqotri | ʕéb, ʕeb(b) (SED I 98); ˁob, ˁeb (SLOnline 3195, 22402) | SED I 98 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

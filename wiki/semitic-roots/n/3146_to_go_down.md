@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | nḥt (DUL 628, Tropper 1995b:60 apud SEDonline 1416) | DUL 628, Tropper 1995b:60; SEDonline 1416 | gloss withheld |
+| Ugaritic | nḥt (DULAT 620; Tropper 1995b:60 apud SEDonline 1416) | DULAT 620; SEDonline 1416 | gloss withheld |
 | Aramaic | OAram. nḥt (DNWSI 726 apud SEDonline 254) | DNWSI 726; SEDonline 254 | gloss withheld |
 | Biblical Aramaic | nḥt (HALOT 1929 apud SEDonline 254) | HALOT 1929; SEDonline 254 | gloss withheld |
 | Judaic Aramaic | JPA nḥt (DJPA 346 apud SEDonline 254); JBA nḥt (DJBA 742 apud SEDonline 254) | DJPA 346; SEDonline 254; DJBA 742; SEDonline 254 | gloss withheld |

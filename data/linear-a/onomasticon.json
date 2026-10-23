@@ -8,6 +8,7 @@
     "luwian",
     "anatolian",
     "hurrian",
+    "indo_aryan",
     "canaanite",
     "hurrian_semitic_hybrid",
     "egyptian_nws_hybrid",
@@ -26,10 +27,10 @@
     "auto"
   ],
   "stats": {
-    "total": 341,
+    "total": 342,
     "by_type": {
       "gentilic": 7,
-      "personal_name": 260,
+      "personal_name": 261,
       "theonym": 29,
       "title": 25,
       "toponym": 17,
@@ -39,12 +40,12 @@
       "akkadian_contact": 1,
       "anatolian": 2,
       "egyptian": 8,
-      "hurrian": 8,
-      "hurrian_semitic_hybrid": 1,
-      "semitic": 166,
+      "hurrian": 9,
+      "indo_aryan": 1,
+      "semitic": 167,
       "unknown": {
-        "total": 155,
-        "intact": 140,
+        "total": 154,
+        "intact": 139,
         "fragmentary": 0,
         "edge_damaged": 14,
         "no_witness": 1,
@@ -53,11 +54,11 @@
     },
     "by_provenance": {
       "auto": 117,
-      "manual": 224
+      "manual": 225
     },
-    "manual_count": 224,
+    "manual_count": 225,
     "auto_count": 117,
-    "total_entries": 341
+    "total_entries": 342
   },
   "entries": [
     {
@@ -5244,8 +5245,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "A-TA-NA",
-      "reading": "ʾatanā",
-      "meaning": "Atanā (Athena)—divine name, feminine of √y-t-n 'to give' with regular I-y > ʾ weakening",
+      "reading": "ʾAtanat",
+      "meaning": "ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with regular I-y > ʾ weakening; the etymon of Athena (di Mino, Ya Diktu p. 20)",
       "frequency": 1,
       "attestations": [
         "ZA9"
@@ -5283,7 +5284,7 @@
           "distance": 0.1
         }
       ],
-      "note": "ZA 9, a personnel list: A-TA-NA-[·] QI+SI 2, the last sign lost (GORILA III 166–67: \"A-TA-NA-TE possible\"), probably A-TA-NA-TE as on ZA 10a. ʾAtanā 'the giver (f.)', √y-t-n with y > ʾ, the goddess of Mycenaean a-ta-na-po-ti-ni-ja (KN V 52); on ZA 9 most likely a person named for her. Rival: a pre-Greek name, Hurrian Nuzi atana lacking Hurrian morphology."
+      "note": "ZA 9, names with QI+SI and *21F amounts: A-TA-NA-[·] QI+SI 2, the last sign lost (GORILA III 166–67: \"A-TA-NA-TE possible\"), probably A-TA-NA-TE as on ZA 10a. ʾAtanat 'She-who-gives' (di Mino, Ya Diktu p. 20), √y-t-n with y > ʾ, the goddess of Mycenaean a-ta-na-po-ti-ni-ja (KN V 52); on ZA 9 most likely a person named for her. Rival: a pre-Greek name, Hurrian Nuzi atana lacking Hurrian morphology."
     },
     {
       "token": "A-TA-NA-JE",
@@ -5369,7 +5370,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "ZA 10a, a name list headed by TA-NA-TE 2: A-TA-NA-TE 1, between A-KU-MI-NA and A-MI-DA-U. ʾAtanat 'she who gives', feminine of √y-t-n with y > ʾ, final E a dead vowel after /t/; cf. LB a-ta-na-po-ti-ni-ja (KN V 52) (di Mino, Ya Diktu). ZA 9 A-TA-NA-[·] is probably the same word. TA-NA-TE is either the same word without A- or a form of √ṯ-n-n (Tinit)."
+      "note": "ZA 10a, a name list headed by TA-NA-TE 2: A-TA-NA-TE 1, between A-KU-MI-NA and A-MI-DA-U. ʾAtanat 'she who gives', feminine of √y-t-n with y > ʾ, final E a dead vowel after /t/; cf. LB a-ta-na-po-ti-ni-ja (KN V 52) (di Mino, Ya Diktu). ZA 9 A-TA-NA-[·] is probably the same word. TA-NA-TE is either the same word without A- or a form of √t-n-n (Tinit)."
     },
     {
       "token": "A-TI-RU",
@@ -7265,17 +7266,59 @@
       "note": ""
     },
     {
+      "token": "I-PA-SA-JA",
+      "normalized": "ipasaja",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "hurrian",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "I-PA-SA-JA",
+      "reading": "Ipšaja",
+      "meaning": "personal name; Hurrian hypocoristic, probably of Ipša-halu",
+      "frequency": 1,
+      "attestations": [
+        "KH10"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [
+        {
+          "word": "QA-*118",
+          "reading": "qaṭṭ(u)",
+          "meaning": "flax, linseed—field-crop commodity",
+          "category": "vocabulary"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "Nuzi Ipšaja, Ip-ša-a-a, Ip-šá-a-a, \"Probably hypocoristic for Ipša-halu\", element ipš- Hurrian (Gelb, Purves, and MacRae 1943, 220); JA dotted, one witness."
+    },
+    {
       "token": "I-RU-JA",
       "normalized": "iruja",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
+      "affiliation": "hurrian",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "I-RU-JA",
+      "reading": "Iruja",
+      "meaning": "personal name; Hurrian hypocoristic of Irup-tešup",
       "frequency": 1,
       "attestations": [
         "HT7a"
@@ -7320,7 +7363,7 @@
           "distance": 0.1
         }
       ],
-      "note": ""
+      "note": "Nuzi Iruja, I-ru-ia, the hypocoristic of Irup-tešup (Gelb, Purves, and MacRae 1943, s.v. IRUJA; 220); one witness, a three-sign match."
     },
     {
       "token": "JA-*345",
@@ -10554,8 +10597,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "PI-TA-KE-SI",
-      "reading": "Pedi-kešši",
-      "meaning": "Place of the Throne (Hurrian compound PN)",
+      "reading": "Pidi-kešḫi",
+      "meaning": "Hurrian-type compound personal name; second element kešḫi 'throne'",
       "frequency": 1,
       "attestations": [
         "HT87"
@@ -13120,7 +13163,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Tanāt (√ṯ-n-n), the Serpent-Goddess = Punic Tanit/TNT. Distinct from A-TA-NA-TE (Athena) per ZA10a co-occurrence."
+      "note": "Tanāt (√t-n-n), the Serpent-Goddess = Punic Tanit/TNT. Distinct from A-TA-NA-TE (Athena) per ZA10a co-occurrence."
     },
     {
       "token": "TA-RI-NA",
@@ -14812,7 +14855,7 @@
       "normalized": "sidu34kumi",
       "type": "toponym",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "hurrian_semitic_hybrid",
+      "affiliation": "semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
@@ -14840,7 +14883,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Hurro-Semitic hybrid: NWS √ṣ-d-q + Hurrian kummi 'seat/shrine'. Formation type parallels: Abdi-Ḫeba (EA 285–290), Ilī-Šarruma (Turin), ʿabdi-hybrids at Taanach (Lipiński). Kummi solid: Tešub's cult city (Wilhelm, Kumme und *Kumar), Ullikummi theophoric, Akkadian loan kummu 'cella' (ORACC). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo's Sydyk)—theophoric 'Shrine of Ṣedeq' also possible. HT110a writes *34; the reading takes it as QI, against Linear B *34 = ai₂."
+      "note": "NWS √ṣ-d-q + Akkadian kummu A 'cella, private room (of a temple or palace)' (CAD K 533). Rival: 'Ṣidq of Kummi', with Kummi the city of Tešub and Kummeni his epithet (Laroche 1980, 154). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo's Sydyk)—theophoric 'Shrine of Ṣedeq' also possible. HT110a writes *34; the reading takes it as QI, against Linear B *34 = ai₂."
     },
     {
       "token": "A-JA",
@@ -15758,7 +15801,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "√ṣ-d-q \"to be just, righteous\". SA=ṣ and KA=q via emphatic neutralization in Linear A syllabary. Direct Amorite PN parallel: şadaqa (the same consonants). Cf. Hebrew Zadok (צָדוֹק), Zedekiah, Melchizedek. Attested on the Malia roundel MAWc<5> with the grain logogram GRA+E—administrative PN context."
+      "note": "√ṣ-d-q \"to be just, righteous\". SA=ṣ and KA=q via emphatic neutralization in Linear A syllabary. Direct Amorite PN parallel: şadaqa (the same consonants). Cf. Hebrew Zadok (צָדוֹק), Zedekiah, Melchizedek. Attested on the Malia roundel MAWc<5> with the grain logogram GRA+E—administrative PN context. Rival: Hurrian aštaga 'woman', diminutive of ašte (Wilhelm, \"Hurrian,\" 103; Laroche 1980, 61–62), which accounts for the initial A-."
     },
     {
       "token": "DU-SU-NI",
@@ -15800,7 +15843,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "A recipient in the HT 108 grain list under KI-RE-TA-NA, DU-SU-NI 4[. Dišon 'antelope', as Hebrew Dîšôn. Rival: Hurrian Tuš(š)-enni."
+      "note": "A recipient in the HT 108 grain list under KI-RE-TA-NA, DU-SU-NI 4[. Dišon 'antelope', as Hebrew Dîšôn. Rival: a Hurrian name in -nni."
     },
     {
       "token": "A-RI-NI-TA",
@@ -16619,13 +16662,13 @@
       "normalized": "mita",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "hurrian",
+      "affiliation": "indo_aryan",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
-      "contact_ref": "hur:name_element:mitta:001",
+      "contact_ref": null,
       "lexicon_ref": "MI-TA",
       "reading": "mitta",
-      "meaning": "personal name (Hurrian: -mitta 'gave', bare hypocoristic)",
+      "meaning": "personal name (Mitanni Indo-Aryan type)",
       "frequency": 1,
       "attestations": [
         "HT128a"
@@ -16648,7 +16691,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Hurrian -mitta name element; direct morpheme match"
+      "note": "Compare Nuzi Mittar-atti, element mittar- (Gelb, Purves, and MacRae 1943, s.v. MITTAR-ATTI), Mitanni Indo-Aryan *mitra-atthi- 'having Mitra [or a friend] as his guest' (Gentile 2019, 157). Rival: Indo-Aryan -mitta, as Amarna Ša-mitta."
     },
     {
       "token": "SI-MI-TA",
@@ -16661,7 +16704,7 @@
       "contact_ref": null,
       "lexicon_ref": null,
       "reading": "Si-mitta",
-      "meaning": "compound Hurrian PN with -mitta element",
+      "meaning": "personal name containing MI-TA",
       "frequency": 1,
       "attestations": [
         "HT96a"
@@ -16683,14 +16726,14 @@
         {
           "word": "MI-TA",
           "reading": "mitta",
-          "meaning": "bare -mitta PN",
+          "meaning": "personal name (Hurrian type)",
           "category": "personal_name"
         }
       ],
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Hurrian compound with -mitta element"
+      "note": "Contains MI-TA; compare Nuzi Mittar-atti (Gelb, Purves, and MacRae 1943, s.v. MITTAR-ATTI)."
     },
     {
       "token": "MA-TI-ZA-I-TE",
@@ -16725,7 +16768,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Hapax on PK1 personnel list (13 names, each allocated 1). Compound PN: Hurrian matti- (\"man of\", cf. Mattiwaza, Matti-Tešup at Nuzi) + Semitic *zayt \"olive\" + -e ending. Hybrid Hurrian-Semitic compound parallels Palaikastro contact-layer evidence. Alternative: Semitic matāʿ-zayte \"olive goods/property\" (PS *matāʕ-) less likely given personnel-list context."
+      "note": "Hapax on PK1 personnel list (13 names, each allocated 1). Compound PN: MA-TI- as the first element of Nuzi Matip-tešup and Mat-teja, unglossed (Gelb, Purves, and MacRae 1943, 234) + Semitic *zayt \"olive\" + -e ending. Hybrid Hurrian-Semitic compound parallels Palaikastro contact-layer evidence. Alternative: Semitic matāʿ-zayte \"olive goods/property\" (PS *matāʕ-) less likely given personnel-list context."
     },
     {
       "token": "KU-ZU-NI",

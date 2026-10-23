@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʿṢR (Aramaic Root Atlas; CAL s.v. ʿṣr) | Aramaic Root Atlas; CAL s.v. ʿṣr | gloss withheld |
 | Geez | ʿaṣara 'press' | Anderson–Moser 2024 root ʿṣr |  |
 | Hebrew | ʿaṣar 'restrain' | Anderson–Moser 2024 root ʿṣr |  |
-| Canaanite | EA ʿaṣīri \[ḫa-ṣí-ri\] (Krahmalkov, 385) | Krahmalkov 385 | gloss withheld |
+| Canaanite | EA ʿaṣīri \[ḫa-ṣí-ri\] (Krahmalkov 385) | Krahmalkov 385 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

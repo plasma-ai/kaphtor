@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | dallu 2 |  |  |
-| Ugaritic | dl 2; /dallu/ (UVST, 118) | UVST 118 | gloss withheld |
+| Ugaritic | dl 2; /dallu/ (UVST 118) | UVST 118 | gloss withheld |
 | Phoenician | dl 3 |  |  |
 | Hebrew | dal 2 |  |  |
 | Syrian Aramaic | dallīl (HALOT 221) | HALOT 221 | gloss withheld |

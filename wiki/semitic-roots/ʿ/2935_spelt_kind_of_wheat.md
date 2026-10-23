@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ʕālas (LGz., 61) | LGz. 61 | gloss withheld |
-| Arabic | ʕalas (LGz., 61) | LGz. 61 |  |
-| Tigrinya | ʕaläs (LGz., 61) | LGz. 61 |  |
+| Geez | ʕālas (LGz. 61) | LGz. 61 | gloss withheld |
+| Arabic | ʕalas (LGz. 61) | LGz. 61 |  |
+| Tigrinya | ʕaläs (LGz. 61) | LGz. 61 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

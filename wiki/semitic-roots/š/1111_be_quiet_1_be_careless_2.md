@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | šlh 2 |  |  |
 | Judaic Aramaic | šəlēwā (HALOT 1505) | HALOT 1505 |  |
 | Biblical Aramaic | šəlē (HALOT 1505) | HALOT 1505 | gloss withheld |
-| Geez | śāhlawa (LGz., 528) | LGz. 528 | gloss withheld |
-| Syrian Aramaic | šəlā (šlw) (LGz., 528) | LGz. 528 |  |
+| Geez | śāhlawa (LGz. 528) | LGz. 528 | gloss withheld |
+| Syrian Aramaic | šəlā (šlw) (LGz. 528) | LGz. 528 |  |
 | Ugaritic | šlw (Kogan 2015, ch. 3 §5.2 no. 53) | Kogan 2015, ch. 3 §5.2 no. 53 | gloss withheld |
 | Mandaic Aramaic | šalia (HALOT 1524) | HALOT 1524 |  |
 

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | (?) ilṣu in SynLists only \[CAD i 88\], \[AHw 373\] | CAD i 88; AHw 373 | gloss withheld |
 | Mandaic Aramaic | halṣa \[DM 122\] | DM 122 | gloss withheld |
 | Hebrew | ḥălāṣayim (dual, &lt;\*ḥVlaṣ-) (HALOT 322) | HALOT 322 | gloss withheld |
-| Judaic Aramaic | ḥlṣyn (du.) \[Sok 204\] | Sok 204 | gloss withheld |
+| Judaic Aramaic | ḥlṣyn (du.) \[DJPA 204a apud CAL\] | DJPA 204a; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

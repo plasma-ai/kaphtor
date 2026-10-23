@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | nḫɔḫ \[JJ 199\] | JJ 199 | gloss withheld |
 | Syrian Aramaic | naḥnaḥtā 'tonsils' \[Brock 423\] (redupl.) | Brock 423 |  |
 | Geez | naḫāʔ, naʔaḫ \[LGz. 396\] | LGz. 396 | gloss withheld |
-| Tigre | (tə)nāḥnəḥa (LGz., 396) | LGz. 396 | gloss withheld |
+| Tigre | (tə)nāḥnəḥa (LGz. 396) | LGz. 396 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

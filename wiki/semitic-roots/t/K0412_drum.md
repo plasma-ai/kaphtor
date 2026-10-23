@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | tp 'drum' | Anderson–Moser 2024 root tp |  |
 | Judaic Aramaic | tuppā (HALOT 1771) | HALOT 1771 |  |
 | Aramaic | \*tp (HALOT 1771) | HALOT 1771 |  |
-| Phoenician | tpp (T, 344) | T 344 | gloss withheld |
+| Phoenician | tpp (T 344) | T 344 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

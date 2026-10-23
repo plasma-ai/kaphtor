@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | baṯan- \[BK 1 85\], \[Fr. I 84\], buṯn- \[Blachère 376\]. | BK 1 85; Fr. I 84 | gloss withheld |
-| Eblaitic | ba-ša-nu-um \[MEE IV 0031\] | MEE IV 0031; DLU 123 |  |
-| Ugaritic | bṯn, bṯnt \[DLU 123\] | DLU 123 | gloss withheld |
+| Eblaitic | ba-ša-nu-um \[MEE IV 0031\] | MEE IV 0031; DULAT 250 |  |
+| Ugaritic | bṯn, bṯnt \[DULAT 250\] | DULAT 250 | gloss withheld |
 | Aramaic | OArm. btn (HALOT 990) | HALOT 990 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

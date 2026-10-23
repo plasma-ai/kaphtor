@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2576_to_herd_tend_cattle_1_pasture_2_produce_plants_s
 title: "*gyŝ-/*gŝy ~ *gVŝiŝ- ~ *gŝʾ: 'to herd, tend cattle' 1, 'pasture' 2, 'produce plants (soil); emigrate (tribe)' 3"
-desc: "Proto-Semitic *gyŝ-/*gŝy ~ *gVŝiŝ- ~ *gŝʾ, 'to herd, tend cattle' 1, 'pasture' 2, 'produce plants (soil); emigrate (tribe)' 3: reflexes in 5 language(s)."
+desc: "Proto-Semitic *gyŝ-/*gŝy ~ *gVŝiŝ- ~ *gŝʾ, 'to herd, tend cattle' 1, 'pasture' 2, 'produce plants (soil); emigrate (tribe)' 3: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2576"
@@ -32,7 +32,6 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǯšʔ; iǯtašša |  | gloss withheld |
 | Soqotri | geŝ LS 117, géŝiŝ 118 | LS 117 | gloss withheld |
-| Tigre | (?) gʷasa |  | gloss withheld |
 | Gurage | Endegeñ gǝsä LGur 298 | LGur 298 | gloss withheld |
 | Tigrinya | gʷasäyä LGz 205 | LGz 205 | gloss withheld |
 
@@ -40,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez gʷāsaya 'tend cattle' LGz 205: &lt;Tna?.
+Geez gʷāsaya 'tend cattle' LGz 205: &lt;Tna?. SED adds Tigre (?) gʷasa 'shepherd' from the compiler's files (not in LH, LGz, LGur).
 
 <!-- END kaphtor:record -->

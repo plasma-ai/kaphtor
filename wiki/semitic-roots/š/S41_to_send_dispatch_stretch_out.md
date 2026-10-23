@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šalāḫu 1 (CAD Š1, 193) | CAD Š1, 193 | gloss withheld |
-| Ugaritic | šlḥ (DUL, 818); yšlḥ (KTU 2.10:11) | DUL 818; KTU 2.10:11 | gloss withheld |
-| Phoenician | šlḥ (T, 317); šlḥ (Krahmalkov, 461–462) | T 317; Krahmalkov 461–462 | gloss withheld |
+| Akkadian | šalāḫu 1 (CAD Š/1 193) | CAD Š/1 193 | gloss withheld |
+| Ugaritic | šlḥ (DULAT 805); yšlḥ (KTU 2.10:11) | DULAT 805; KTU 2.10:11 | gloss withheld |
+| Phoenician | šlḥ (T 317); šlḥ (Krahmalkov 461–462) | T 317; Krahmalkov 461–462 | gloss withheld |
 | Amorite | ślḥ: jaślaḥ, śaliḥum, śaliḥa, śulāḥ(ān)um (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
 | Syrian Aramaic | šlaḥ 'send; strip off, put off' (Payne Smith 578) | Payne Smith 578 |  |
 | Epigraphic South Arabian | Hdr s1lḥ (Pirenne 1990:107 apud SEDonline 1426) | Pirenne 1990:107; SEDonline 1426 | gloss withheld |
 | Judaic Aramaic | šᵉlaḥ, šᵉlîḥā (HALOT 1512) | HALOT 1512 |  |
-| Aramaic | šlḥ (T, 317) | T 317 | gloss withheld |
+| Aramaic | šlḥ (T 317) | T 317 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

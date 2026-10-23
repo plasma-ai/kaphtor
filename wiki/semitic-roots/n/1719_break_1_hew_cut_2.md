@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ngf \[-u-\] 2 |  |  |
 | Geez | ngf |  |  |
 | Hebrew | ngp 1 |  |  |
-| Soqotri | negof (LGz., 391) | LGz. 391 | gloss withheld |
-| Tigrinya | nägäfä (LGz., 391) | LGz. 391 | gloss withheld |
+| Soqotri | negof (LGz. 391) | LGz. 391 | gloss withheld |
+| Tigrinya | nägäfä (LGz. 391) | LGz. 391 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

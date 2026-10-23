@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Aramaic | ʿQM 'make' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
 | Geez | ʿaqqama 'delimit' (Dillmann 07091) | Dillmann 07091 |  |
-| Arabic | ʿaqīm (LGz., 67) | LGz. 67 | gloss withheld |
-| Tigre | ʿaqqäma (LGz., 67) | LGz. 67 | gloss withheld |
+| Arabic | ʿaqīm (LGz. 67) | LGz. 67 | gloss withheld |
+| Tigre | ʿaqqäma (LGz. 67) | LGz. 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

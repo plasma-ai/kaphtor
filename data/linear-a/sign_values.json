@@ -2280,7 +2280,7 @@
         "]QA-*118-SA (HT70, broken before) = qaṭʿ-ša 'its portion'; qadaša 'holy' needs d",
         "QA-*118-RA-RE = qaṭara (√q-ṭ-r \"incense\") at HT96b",
         "*118-MI = dami (\"blood\", Hebrew dam) at ZA21a, a counted entry on a tablet",
-        "A-SU-MI-*118 = Ašu-mitta (Hurrian -mitta \"gave\") at ARKH1a"
+        "A-SU-MI-*118 = Ašu-mitta at ARKH1a"
       ],
       "note": "Emphatic dental sign, filling the gap between DA and TA in the standard syllabary. The Aegean script neutralizes voicing (DA/TA both cover /da/ and /ta/) but provides no sign for emphatic /ṭ/, which Semitic languages require. *118 covers emphatic and marked dentals (ṭ, ḍ, ḏ), beside *314 = ḤA in the pharyngeal gap. QA-*118 (5 attestations) never appears as QA-DA, and DA-SI-*118 uses both signs in one word. 26 occurrences across 8 sites. || Standing alone with a quantity (HT12 '*118 5', HT24b ×3 with fractions 1¾/1¾/1, KN2 '*118 3'), *118 is the weight logogram, the talent, as Linear B *118 L (Bartoněk 2003, 126; Killen 2024, 141); the syllabic reading applies only inside words and ligatures. || d is possible only in QA-*118-SA qōdeš 'holy portion' (HT70; HALOT 1076), ṯ in QA-*118 quṯṯāʾ 'cucumber' (HALOT 1151) and *21F-*118 ḥṯ 'unleavened bread' (DULAT 373).",
       "linear_b": {
@@ -2528,7 +2528,7 @@
       ],
       "neutralization_class": "K",
       "confirmed_by": [
-        "SI-DU-QI-KU-MI = ṣidqī-kummī \"Seat of Righteousness\" (√ṣ-d-q + Hurrian -kummi)—HT110a",
+        "SI-DU-QI-KU-MI = ṣidqī-kummī \"Seat of Righteousness\" (√ṣ-d-q + Akkadian kummu)—HT110a",
         "PI-*34-TE may be piqitti \"delivery/inspection\" (√p-q-d) if *34 = QI—supporting but not independent evidence from HT116a",
         "QI-TI-RI = qiṭrī \"my incense\" (√q-ṭ-r)—KNZc6 stone libation vessel"
       ],

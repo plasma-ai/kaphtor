@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | radafa 'followed' | Anderson–Moser 2024 root rdp |  |
 | Aramaic | RDP (Aramaic Root Atlas; DNWSI 1061 apud CAL) | Aramaic Root Atlas; DNWSI 1061; CAL | gloss withheld |
 | Hebrew | radap (HALOT 1191; BDB 922) | HALOT 1191; BDB 922 | gloss withheld |
-| Epigraphic South Arabian | Sab rdf (Biella, 481–482) | Biella 481–482 | gloss withheld |
+| Epigraphic South Arabian | Sab rdf (Biella 481–482) | Biella 481–482 | gloss withheld |
 | Syrian Aramaic | rədap (HALOT 1191; Payne Smith 530) | HALOT 1191; Payne Smith 530 |  |
-| Pre-Islamic North Arabian | Safaitic rdf (Al-Jallad–Jaworska, 114) | Al-Jallad–Jaworska 114 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rdf (Al-Jallad–Jaworska 114) | Al-Jallad–Jaworska 114 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Huffmon APNM, 255 reads puls- as 'level' (Heb., Phoen.) or 'view, consider' (Akk.); B, 391 glosses pls 'to watch, level'.
+Huffmon APNM 255 reads puls- as 'level' (Heb., Phoen.) or 'view, consider' (Akk.); B 391 glosses pls 'to watch, level'.
 
 <!-- END kaphtor:record -->

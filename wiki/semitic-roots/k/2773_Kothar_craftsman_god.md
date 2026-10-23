@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | kṯr (DULAT, 467) | DULAT 467 | gloss withheld |
+| Ugaritic | kṯr (DULAT 467) | DULAT 467 | gloss withheld |
 | Hebrew | kōšēr (HALOT 503) | HALOT 503 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

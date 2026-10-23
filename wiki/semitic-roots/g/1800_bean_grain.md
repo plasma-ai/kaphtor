@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǯarǯar-, ǯirǯir- 'bean' (BK 1, 275) | BK 1, 275 |  |
-| Hebrew | gērā (HALOT 202), pB. gargēr (Ja., 265) | HALOT 202; Ja. 265 | gloss withheld |
-| Judaic Aramaic | gargēr-ā id. (Ja., 265) | Ja. 265 |  |
+| Hebrew | gērā (HALOT 202), pB. gargēr (Ja. 265) | HALOT 202; Ja. 265 | gloss withheld |
+| Judaic Aramaic | gargēr-ā id. (Ja. 265) | Ja. 265 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

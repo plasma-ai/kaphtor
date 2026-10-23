@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab qyf (Biella, 454; SD, 111) | Biella 454; SD 111 | gloss withheld |
+| Epigraphic South Arabian | Sab qyf (Biella 454; SD 111; Sabaweb lemma 4837) | Biella 454; SD 111; Sabaweb lemma 4837 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

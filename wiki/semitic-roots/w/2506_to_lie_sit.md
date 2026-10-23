@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | wakāpu (Mari) (CAD U/W, 400) | CAD U/W, 400 | gloss withheld |
+| Akkadian | wakāpu (Mari) (CAD U/W 400) | CAD U/W 400 | gloss withheld |
 | Arabic | wkf, wakf- |  | gloss withheld |
 | Mehri | šǝ-wkūf |  | gloss withheld |
 | Harsusi | še-wkōf |  | gloss withheld |

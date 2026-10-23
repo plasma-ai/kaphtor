@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | maʕīn- 'water, spring' (BK 2, 293) | BK 2, 293 |  |
-| Phoenician | ʿn (Krahmalkov, 381) | Krahmalkov 381 | gloss withheld |
+| Arabic | maʕīn- 'flowing (water)', pl. 'places where water flows in the valley' (BK 2, 1131) | BK 2, 1131 |  |
+| Phoenician | ʿn (Krahmalkov 381) | Krahmalkov 381 | gloss withheld |
 | Hebrew | maʕyān (HALOT 612) | HALOT 612 | gloss withheld |
 | Epigraphic South Arabian | Maʿīn (OLA80 §67.11) | OLA80 §67.11 | gloss withheld |
 

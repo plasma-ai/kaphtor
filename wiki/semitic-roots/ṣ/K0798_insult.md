@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ṣelû 'insult' | Anderson–Moser 2024 root ṣlʾ |  |
 | Geez | ṣalʾa 'hate' (Dillmann 09154) | Dillmann 09154 |  |
-| Tigre | ṣälʾa (LGz., 554) | LGz. 554 | gloss withheld |
-| Tigrinya | ṣälʾe (LGz., 554) | LGz. 554 | gloss withheld |
-| Amharic | ṭälla (LGz., 554) | LGz. 554 | gloss withheld |
-| Argobba | ṭälla (LGz., 554) | LGz. 554 | gloss withheld |
-| Gurage | ṭäla (LGz., 554) | LGz. 554 | gloss withheld |
-| Harari | ṭäläʾa (LGz., 554) | LGz. 554 | gloss withheld |
-| Gafat | (tä)ṣalä (LGz., 554) | LGz. 554 | gloss withheld |
+| Tigre | ṣälʾa (LGz. 554) | LGz. 554 | gloss withheld |
+| Tigrinya | ṣälʾe (LGz. 554) | LGz. 554 | gloss withheld |
+| Amharic | ṭälla (LGz. 554) | LGz. 554 | gloss withheld |
+| Argobba | ṭälla (LGz. 554) | LGz. 554 | gloss withheld |
+| Gurage | ṭäla (LGz. 554) | LGz. 554 | gloss withheld |
+| Harari | ṭäläʾa (LGz. 554) | LGz. 554 | gloss withheld |
+| Gafat | (tä)ṣalä (LGz. 554) | LGz. 554 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

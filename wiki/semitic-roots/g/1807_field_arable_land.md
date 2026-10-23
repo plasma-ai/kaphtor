@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǯawwār- 'ploughman' (BK 1, 353; nomen agentis &lt;\*gwr) | BK 1, 353 |  |
 | Akkadian |  | AHw 1402 | source's text withheld |
-| Tigre | gärhat (LGz., 202) | LGz. 202 | gloss withheld |
-| Geez | garha, garāht, garh (LGz., 202) | LGz. 202 | gloss withheld |
-| Tigrinya | Tna. gǝrat, pl. gǝrahǝw (LGz., 202) | LGz. 202 | gloss withheld |
+| Tigre | gärhat (LGz. 202) | LGz. 202 | gloss withheld |
+| Geez | garha, garāht, garh (LGz. 202) | LGz. 202 | gloss withheld |
+| Tigrinya | Tna. gǝrat, pl. gǝrahǝw (LGz. 202) | LGz. 202 | gloss withheld |
 | Gurage | täggärä (OLA80 §63.5) | OLA80 §63.5 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

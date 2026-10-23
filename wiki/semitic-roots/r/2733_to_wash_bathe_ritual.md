@@ -30,16 +30,16 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | raḥaḍa 'to wash' (BK 1, 836) | BK 1, 836 |  |
-| Akkadian | raḫāṣu (CAD R, 74) | CAD R, 74 | gloss withheld |
-| Ugaritic | rḥṣ (DULAT, 726) | DULAT 726 | gloss withheld |
+| Akkadian | raḫāṣu (CAD R 74) | CAD R 74 | gloss withheld |
+| Ugaritic | rḥṣ (DULAT 726) | DULAT 726 | gloss withheld |
 | Hebrew | rāḥaṣ (HALOT 1220) | HALOT 1220 | gloss withheld |
 | Egyptian | rḥt, rḥty (OLA80 §29.41) | OLA80 §29.41 | gloss withheld |
-| Epigraphic South Arabian | Sab rḥḍ (SD, 116; Biella, 486) | SD 116; Biella 486 | gloss withheld |
+| Epigraphic South Arabian | Sab rḥḍ (SD 116; Biella 486) | SD 116; Biella 486 | gloss withheld |
 | Aramaic | rḥṣ (HALOT 1220); rḥʿ (CAL s.v. rḥʿ) | HALOT 1220; CAL s.v. rḥʿ | gloss withheld |
-| Gafat | (tä)raṣä (LGz., 466) | LGz. 466 |  |
-| Gurage | (tä)raṭä (LGz., 466) | LGz. 466 |  |
+| Gafat | (tä)raṣä (LGz. 466) | LGz. 466 |  |
+| Gurage | (tä)raṭä (LGz. 466) | LGz. 466 |  |
 | Amorite | rḫṣ: raḫaṣum, riḫṣum (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic rḥḍ (Al-Jallad–Jaworska, 117) | Al-Jallad–Jaworska 117 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rḥḍ (Al-Jallad–Jaworska 117) | Al-Jallad–Jaworska 117 | gloss withheld |
 | East Ethiopic | Sel. täraṭä (EDG 528 apud SEDonline 911) | EDG 528; SEDonline 911 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

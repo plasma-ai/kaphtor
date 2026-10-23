@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | har 'hill' | Anderson–Moser 2024 root hr |  |
 | Punic | hr 'mountain' | Anderson–Moser 2024 root hr |  |
 | Ugaritic | hr 'mountain' | Anderson–Moser 2024 root hr |  |
-| Phoenician | hr (T, 83) | T 83 | gloss withheld |
+| Phoenician | hr (T 83) | T 83 | gloss withheld |
 | Canaanite | EA ḫa-ar-ri (EA 74: 20 apud SEDonline 235) | SEDonline 235 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

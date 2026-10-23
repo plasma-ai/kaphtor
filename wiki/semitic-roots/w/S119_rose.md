@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/S119_rose
 title: "*ward/*warda: 'rose'"
-desc: "Proto-Semitic *ward/*warda, 'rose': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ward/*warda, 'rose': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S119"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Syrian Aramaic | wardā 'the rose; films on liquid' (Payne Smith 108) | Payne Smith 108 |  |
 | Arabic | ward (HALOT 260) | HALOT 260 | gloss withheld |
+| Greek | βρόδον (Aeolic; OLA80 §65.5) | OLA80 §65.5 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

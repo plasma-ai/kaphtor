@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | šubtu 'seat' | Anderson–Moser 2024 root ṯbt |  |
 | Hebrew | šebet 'dwelling' | Anderson–Moser 2024 root ṯbt |  |
 | Ugaritic | ṯbt 'seat' | Anderson–Moser 2024 root ṯbt |  |
-| Punic | yšb: ysbm (T, 130) | T 130 | gloss withheld |
+| Punic | yšb: ysbm (T 130) | T 130 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | frr |  | gloss withheld |
 | Ugaritic | pr |  | gloss withheld |
 | Aramaic | prr |  | gloss withheld |
-| Tigrinya | färärä (LGz., 107) | LGz. 107 |  |
-| Tigre | färra (LGz., 107) | LGz. 107 |  |
-| Soqotri | fer (LGz., 107) | LGz. 107 | gloss withheld |
-| Syrian Aramaic | par (LGz., 107) | LGz. 107 |  |
+| Tigrinya | färärä (LGz. 107) | LGz. 107 |  |
+| Tigre | färra (LGz. 107) | LGz. 107 |  |
+| Soqotri | fer (LGz. 107) | LGz. 107 | gloss withheld |
+| Syrian Aramaic | par (LGz. 107) | LGz. 107 |  |
 | Mehri | farr (HSED 1981) | HSED 1981 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic fr (Al-Jallad–Jaworska, 69) | Al-Jallad–Jaworska 69 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic fr (Al-Jallad–Jaworska 69) | Al-Jallad–Jaworska 69 | gloss withheld |
 | Jibbali | ferr (JL 59 apud SEDonline 1349) | JL 59; SEDonline 1349 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

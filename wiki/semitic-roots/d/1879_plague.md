@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | (?) dabarat- 'cough, whooping cough' \[Dozy 1 422\], with a shift of meaning? | Dozy 1 422 |  |
 | Akkadian | (?) dibiru SB on \[CAD d 134\], \[AHw 168\]. | CAD d 134; AHw 168 | gloss withheld |
 | Tigre | däbǝr \[LH 527\]. | LH 527 | gloss withheld |
-| Ugaritic | dbr \[DLU 129\]. | DLU 129 | gloss withheld |
+| Ugaritic | dbr \[DULAT 262\]. | DULAT 262 | gloss withheld |
 | Hebrew | däbär (HALOT 212) | HALOT 212 | gloss withheld |
 | Judaic Aramaic | dǝbartā 'pestilence' \[Ja 279\] | Ja 279 |  |
 

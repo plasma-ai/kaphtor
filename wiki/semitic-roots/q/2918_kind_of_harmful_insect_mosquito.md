@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ḳäräṣ; pB. ḳərāṣīt, ḳōrəṣīn (SED II 187–188) | SED II 187–188 | gloss withheld |
+| Hebrew | ḳäräṣ; pB. ḳərāṣīt, ḳōrəṣīn (SED II 187) | SED II 187 | gloss withheld |
 | Judaic Aramaic | ḳārōṣā; ḳārāṣīt (SED II 188) | SED II 188 | gloss withheld |
 | Arabic | ḳāriṣ- (SED II 188) | SED II 188 |  |
 | Mehri | ḳərōṣ (SED II 188) | SED II 188 | gloss withheld |

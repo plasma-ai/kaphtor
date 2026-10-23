@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | ʕagäba, ʕagäbatat LT 488 |  |  |
+| Tigre | ʕagäba, ʕagäbatat LH 488 |  |  |
 | Tigrinya | gʷäbay Bass. 875 | Bass. 875 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕaqrab- 'scorpion' (BK 2, 317); ʕaḳrabāʔ-, ʕuḳrubān-, ʕuḳrubbān- \[BK 2 317\] | BK 2, 317; BK 2 317 |  |
-| Akkadian | aqrabu (CAD A2, 207) | CAD A2, 207 | gloss withheld |
+| Akkadian | aqrabu (CAD A/2 207) | CAD A/2 207 | gloss withheld |
 | Ugaritic | ʕqrb \[Tropper UG 284\] | Tropper UG 284 | gloss withheld |
 | Hebrew | ʕaqrāb (HALOT 875) | HALOT 875 | gloss withheld |
-| Aramaic | ʕqrb (HJ, 883) | HJ 883 | gloss withheld |
+| Aramaic | ʕqrb (DNWSI 883 apud SEDonline 505) | DNWSI 883; SEDonline 505 | gloss withheld |
 | Tigre | ʿarqab (OLA80 §27.13) | OLA80 §27.13 | gloss withheld |
-| Geez | ʿaqrab (LGz., 68) | LGz. 68 | gloss withheld |
-| Judaic Aramaic | ʕaḳrabbā \[Ja. 1109, Sok. B 878\]; ʕḳrb \[Sok. 417\] | Ja. 1109, Sok. B 878; Sok. 417 |  |
+| Geez | ʿaqrab (LGz. 68) | LGz. 68 | gloss withheld |
+| Judaic Aramaic | ʕaḳrabbā \[Ja. 1109, Sok. B 878\]; ʕḳrb \[DJPA 417a apud CAL\] | Ja. 1109, Sok. B 878; DJPA 417a; CAL |  |
 | Syrian Aramaic | ʕeḳḳarbā \[Brock. 544\] | Brock. 544 |  |
 | Mandaic Aramaic | arḳba \[DM 39\] | DM 39 |  |
 | Tigrinya | ʕənḳərbit \[K Tna. 1884\] | K Tna. 1884 |  |

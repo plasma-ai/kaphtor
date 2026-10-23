@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕiḍ_āyat-, ʕaḍ_āʔat- 'a kind of lizard' \[BK 2 294\], \[LA XV 71\]. | BK 2 294; LA XV 71 |  |
+| Arabic | ʕiḏ̣āyat-, ʕaḏ̣āʔat- 'a kind of lizard' \[BK 2 294\], \[LA XV 71\]. | BK 2 294; LA XV 71 |  |
 | Akkadian | iṣṣû SB \[CAD i 206\], \[AHw. 253\] | CAD i 206; AHw. 253; Landsberger Fauna 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

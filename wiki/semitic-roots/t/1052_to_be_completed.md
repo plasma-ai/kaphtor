@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | tmm 'to be complete, accomplished' (Lane 315) | Lane 315 |  |
 | Mandaic Aramaic | tmm |  | gloss withheld |
 | Ugaritic | tm |  | gloss withheld |
-| Phoenician | tm; tmm (T, 342); tm (B, 429) | T 342; B 429 | gloss withheld |
+| Phoenician | tm; tmm (T 342); tm (B 429) | T 342; B 429 | gloss withheld |
 | Hebrew | tmm (Kogan 2015, ch. 3 §5.3 no. 33) | Kogan 2015, ch. 3 §5.3 no. 33 | gloss withheld |
 | Syrian Aramaic | pa. tammem |  | gloss withheld |
 | Eblaitic | tam-mim (HALOT 1742) | HALOT 1742 | gloss withheld |
-| Epigraphic South Arabian | Sab tmm (Kogan 2015, ch. 3 §5.3 no. 33) | Kogan 2015, ch. 3 §5.3 no. 33 | gloss withheld |
+| Epigraphic South Arabian | Sab tmm (Kogan 2015, ch. 3 §5.3 no. 33; Sabaweb lemma 8544) | Kogan 2015, ch. 3 §5.3 no. 33; Sabaweb lemma 8544 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

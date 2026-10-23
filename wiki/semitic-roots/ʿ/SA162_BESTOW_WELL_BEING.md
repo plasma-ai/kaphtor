@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʿdn (Biella, 354) | Biella 354 | gloss withheld |
-| Arabic | Ar ġadan (Biella, 354) | Biella 354 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿdn (Biella 354) | Biella 354 | gloss withheld |
+| Arabic | Ar ġadan (Biella 354) | Biella 354 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

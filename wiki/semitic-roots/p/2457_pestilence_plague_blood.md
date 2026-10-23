@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ferä (LGz., 165) | LGz. 165 |  |
-| Tigrinya | fera (LGz., 165) | LGz. 165 | gloss withheld |
-| Amharic | fera (LGz., 165) | LGz. 165 |  |
+| Geez | ferä (LGz. 165) | LGz. 165 |  |
+| Tigrinya | fera (LGz. 165) | LGz. 165 | gloss withheld |
+| Amharic | fera (LGz. 165) | LGz. 165 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mandaic Aramaic | HLṢ \[DM 149\] | DM 149 | gloss withheld |
-| Epigraphic South Arabian | SAB ḥlṣ \[SD 68\]. \| Sab ḥlẓ (SD, 68; Biella, 176) | SD 68; SD 68; Biella 176 | gloss withheld |
+| Epigraphic South Arabian | SAB ḥlṣ, a variant of ḥlẓ \[SD 68; Sabaweb lemma 2842\]. \| Sab ḥlẓ (SD 68; Biella 176; Sabaweb lemma 1305) | SD 68; Sabaweb lemma 2842; SD 68; Biella 176; Sabaweb lemma 1305 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

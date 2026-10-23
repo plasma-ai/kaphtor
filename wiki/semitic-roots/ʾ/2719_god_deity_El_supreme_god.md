@@ -31,15 +31,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔilāh- 'god' (BK 1, 48) | BK 1, 48 |  |
-| Akkadian | ilu (CAD I/J, 91) | CAD I/J, 91 | gloss withheld |
-| Ugaritic | il (DUL, 48) | DUL 48 | gloss withheld |
-| Phoenician | ʔl (Krahmalkov, 49) | Krahmalkov 49 | gloss withheld |
+| Akkadian | ilu (CAD I/J 91) | CAD I/J 91 | gloss withheld |
+| Ugaritic | il (DULAT 46) | DULAT 46 | gloss withheld |
+| Phoenician | ʔl (Krahmalkov 49) | Krahmalkov 49 | gloss withheld |
 | Hebrew | ʔēl (HALOT 48) | HALOT 48 | gloss withheld |
-| Epigraphic South Arabian | Sab ʾl (SD, 5; Biella, 15) | SD 5; Biella 15 | gloss withheld |
+| Epigraphic South Arabian | Sab ʾl, ʾlt (SD 5; Biella 15; Sabaweb lemma 1539) | SD 5; Biella 15; Sabaweb lemma 1539 | gloss withheld |
 | Amorite | ʾilum, ʾillum, ʾelum, ʾiltum, ʾilī (Gelb AS 21, 14) | Gelb AS 21 14 | gloss withheld |
-| Punic | ʾl, ʿl (T, 16) | T 16 | gloss withheld |
+| Punic | ʾl, ʿl (T 16) | T 16 | gloss withheld |
 | Syrian Aramaic | ʔīl 'God' (Payne Smith 13); ʔalāh 'God; a false god' (Payne Smith 17) | Payne Smith 13; Payne Smith 17 |  |
-| Pre-Islamic North Arabian | Safaitic ʾlh (Al-Jallad–Jaworska, 43) | Al-Jallad–Jaworska 43 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾlh (Al-Jallad–Jaworska 43) | Al-Jallad–Jaworska 43 | gloss withheld |
 | Mehri | ʔāl (Lonnet 2005:206 apud SEDonline 1116) | SEDonline 1116 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | faraḍahu 'he made a mark in it, or upon it, by notching' (Lane 2373) | Lane 2373 |  |
-| Epigraphic South Arabian | Sab. frḍ (SD, 46) | SD 46 | gloss withheld |
+| Epigraphic South Arabian | Sab. frḍ (SD 46; Sabaweb lemma 4124) | SD 46; Sabaweb lemma 4124 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

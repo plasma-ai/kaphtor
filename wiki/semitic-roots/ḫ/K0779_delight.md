@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥapeṣ 'delight' | Anderson–Moser 2024 root ḫpẓ |  |
 | Punic | ḥpṣ 'joy' | Anderson–Moser 2024 root ḫpẓ |  |
 | Judaic Aramaic | ḥpṣʾ (HALOT 340) | HALOT 340 |  |
-| Phoenician | ḥpṣ (B, 316) | B 316 | gloss withheld |
+| Phoenician | ḥpṣ (B 316) | B 316 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

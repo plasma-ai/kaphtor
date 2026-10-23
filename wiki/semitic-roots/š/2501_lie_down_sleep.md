@@ -34,14 +34,14 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | škb (Drower/Macuch 465a apud CAL) | Macuch 465a; CAL |  |
 | Ugaritic | škb |  |  |
 | Geez | sakaba |  |  |
-| Phoenician | škb (T, 316) | T 316 | gloss withheld |
+| Phoenician | škb (T 316) | T 316 | gloss withheld |
 | Hebrew | škb |  |  |
 | Syrian Aramaic | škb (Payne Smith 576) | Payne Smith 576 |  |
 | Judaic Aramaic | šəkab (HALOT 1486; DJPA 549a apud CAL) | HALOT 1486; DJPA 549a; CAL |  |
 | Biblical Aramaic | šəkab (HALOT 1486) | HALOT 1486 |  |
 | Tigre | sakba (HALOT 1486) | HALOT 1486 |  |
-| Aramaic | šəḵeḇ (LGz., 496; DNWSI 1132 apud CAL) | LGz. 496; DNWSI 1132; CAL |  |
-| Tigrinya | säḵäbä (LGz., 496) | LGz. 496 |  |
+| Aramaic | šəḵeḇ (LGz. 496; DNWSI 1132 apud CAL) | LGz. 496; DNWSI 1132; CAL |  |
+| Tigrinya | säḵäbä (LGz. 496) | LGz. 496 |  |
 | Eblaitic | si-kà-pù-um (VE 1132; Krebernik 1983: 40 apud SEDonline 999) | VE 1132; Krebernik 1983: 40; SEDonline 999 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

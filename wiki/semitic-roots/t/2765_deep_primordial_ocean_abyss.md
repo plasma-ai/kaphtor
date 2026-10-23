@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tiāmtum (CAD T, 150) | CAD T, 150 | gloss withheld |
-| Ugaritic | thm (CUC; DULAT, 851); /tahāmatu/ (UVST, 184) | CUC; DULAT 851; UVST 184 | gloss withheld |
+| Akkadian | tiāmtum (CAD T 150) | CAD T 150 | gloss withheld |
+| Ugaritic | thm (CUC; DULAT 851); /tahāmatu/ (UVST 184) | CUC; DULAT 851; UVST 184 | gloss withheld |
 | Hebrew | tehôm (HALOT 1690) | HALOT 1690 | gloss withheld |
 | Judaic Aramaic | təhōmā (HALOT 1690) | HALOT 1690 |  |
-| Eblaitic | ti-ʾa-ma-tum, ti-ʾà-ma-tum (HALOT 1690) | HALOT 1690 |  |
+| Eblaitic | ti-ʾa-ma-tum, ti-ʾà-ma-tum (HALOT 1690); ti-ʾà-ma-tum /tihām(a)tum/ (VE 1343; Krebernik 1983, 43) | HALOT 1690; VE 1343; Krebernik 1983, 43 | gloss withheld |
 | Syrian Aramaic | tᵉhōmā (HALOT 1690) | HALOT 1690 |  |
 | Arabic | taham- (Kogan 2011, 191) | Kogan 2011, 191 | gloss withheld |
 

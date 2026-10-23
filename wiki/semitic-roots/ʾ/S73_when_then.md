@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | (OLA80 §58.12) | OLA80 §58.12 |  |
+| Arabic | ʾiḏ, ʾiḏā (OLA80 §58.12) | OLA80 §58.12 | gloss withheld |
 | Hebrew | ʾāz, ʾāzay (OLA80 §58.12) | OLA80 §58.12 | gloss withheld |
-| Epigraphic South Arabian | Sab ʾḏ (SD, 2; Biella, 5) | SD 2; Biella 5 | gloss withheld |
-| Punic | Is (Neo-Punic; Krahmalkov, 39) | Krahmalkov 39 | gloss withheld |
+| Epigraphic South Arabian | Sab ʾḏ (SD 2; Biella 5; Sabaweb lemma 3497) | SD 2; Biella 5; Sabaweb lemma 3497 | gloss withheld |
+| Punic | Is (Neo-Punic; Krahmalkov 39) | Krahmalkov 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ḫōt \[JM 396\]. | JM 396 | gloss withheld |
-| Soqotri | QALAN-B šḫoh (and other dialectal forms) \[SSL LS 1476\]. | SSL LS 1476 |  |
+| Soqotri | QALAN-B šḫoh (and other dialectal forms) \[SSL LS 1476\]; šḥoʰ (SLOnline 6175). | SSL LS 1476 | gloss withheld |
 | Akkadian | šaḫātu OA, OB on \[CAD š1 81\], \[AHw 1129\]. | CAD š1 81; AHw 1129 |  |
 | Harsusi | mešḫáwt \[JH 125\]. | JH 125 |  |
 | Eblaitic | iš/sa-ḫa-tum /šaḫātum/ \[Kr 21; Bl E No. 85\] | Kr 21 |  |

@@ -35,10 +35,10 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḍbʔ 3 |  |  |
 | Geez | ḍbʔ 2 |  |  |
 | Hebrew | ṣbʔ 2 |  |  |
-| Epigraphic South Arabian | ḍbʔ 1 \| Sab ḍbʾ (SD, 40; Biella, 433) | SD 40; Biella 433 | gloss withheld |
+| Epigraphic South Arabian | ḍbʔ 1 \| Sab ḍbʾ (SD 40; Biella 433) | SD 40; Biella 433 | gloss withheld |
 | Tigrinya | ḍbʔ 3 |  |  |
-| Amharic | ṭäb (LGz., 545) | LGz. 545 | gloss withheld |
-| Gurage | ṭäb-äňňä (LGz., 545) | LGz. 545 | gloss withheld |
+| Amharic | ṭäb (LGz. 545) | LGz. 545 | gloss withheld |
+| Gurage | ṭäb-äňňä (LGz. 545) | LGz. 545 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

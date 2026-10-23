@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | mošāb (T, 201) | T 201 | gloss withheld |
-| Ugaritic | mṯb (T, 201) | T 201 |  |
-| Akkadian | mušābu (T, 201) | T 201 |  |
-| Aramaic | Anc. mšb; Nab. mwtb (T, 201) | T 201 |  |
-| Judaic Aramaic | motbaʾ (T, 201) | T 201 |  |
-| Syrian Aramaic | motbaʾ (T, 201) | T 201 |  |
-| Mandaic Aramaic | mutbaʾ (T, 201) | T 201 |  |
-| Punic | mšbʾ (T, 201) | T 201 | gloss withheld |
+| Hebrew | mošāb (T 201) | T 201 | gloss withheld |
+| Ugaritic | mṯb (T 201) | T 201 |  |
+| Akkadian | mušābu (T 201) | T 201 |  |
+| Aramaic | Anc. mšb; Nab. mwtb (T 201) | T 201 |  |
+| Judaic Aramaic | motbaʾ (T 201) | T 201 |  |
+| Syrian Aramaic | motbaʾ (T 201) | T 201 |  |
+| Mandaic Aramaic | mutbaʾ (T 201) | T 201 |  |
+| Punic | mšbʾ (T 201) | T 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | šərēm (SED I 324) | SED I 324 | gloss withheld |
 | Harsusi | meŝrīm id. (SED I 324) | SED I 324 |  |
 | Jibbali | s̃érəm; s̃s̃rím (S-stem) (SED I 324) | SED I 324 | gloss withheld |
-| Akkadian | šarāmu (CAD Š2, 48) | CAD Š2, 48 | gloss withheld |
+| Akkadian | šarāmu (CAD Š/2 48) | CAD Š/2 48 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

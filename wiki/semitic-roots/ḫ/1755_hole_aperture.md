@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫwy \[-i-\], ḫawḫat- LGz., 260 | LGz. 260 | gloss withheld |
+| Arabic | ḫwy \[-i-\], ḫawḫat- LGz. 260 | LGz. 260 | gloss withheld |
 | Mehri | ḫōh JM 454, ḫǝwū(t) | JM 454 | gloss withheld |
 | Soqotri | ḥe |  | gloss withheld |
 | Harsusi | ḫah, ḫǝwwēt |  | gloss withheld |

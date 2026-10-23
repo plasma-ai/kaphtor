@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | Arb. ʔubullat- | HALOT 7 | gloss withheld |
-| Akkadian | šābulu &lt; abālu (CAD A1, 29) | CAD A1, 29 | gloss withheld |
+| Akkadian | šābulu &lt; abālu (CAD A/1 29) | CAD A/1 29 | gloss withheld |
 | Hebrew | ʔbl (v. in HALOT 7) | HALOT 7 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

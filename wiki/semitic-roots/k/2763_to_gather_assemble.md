@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kamāsu A (CAD K, 114–117) | CAD K, 114–117 | gloss withheld |
+| Akkadian | kamāsu A (CAD K 114–117) | CAD K 114–117 | gloss withheld |
 | Hebrew | kānas (HALOT 484) | HALOT 484 | gloss withheld |
-| Aramaic | knaš (DJPA, 262) | DJPA 262 | gloss withheld |
+| Aramaic | knaš (DJPA 264a apud CAL) | DJPA 264a; CAL | gloss withheld |
 | Syrian Aramaic | knaš 'gather, collect, assemble' (Payne Smith 219) | Payne Smith 219 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

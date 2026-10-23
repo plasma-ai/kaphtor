@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | mǝʕārâ (HALOT 615) | HALOT 615 | gloss withheld |
 | Arabic | maġāra (Lane 2307–2308); maġārat (HALOT 615) | Lane 2307–2308; HALOT 615 | gloss withheld |
-| Ugaritic | mġrt (TN) (HALOT 615; DULAT, 527) | HALOT 615; DULAT 527 |  |
+| Ugaritic | mġrt (TN) (HALOT 615; DULAT 527) | HALOT 615; DULAT 527 |  |
 | Syrian Aramaic | mʕartā (Kogan 2015, ch. 3 §5.2 no. 38) | Kogan 2015, ch. 3 §5.2 no. 38 | gloss withheld |
 | Phoenician | mʿrt (HALOT 615) | HALOT 615 | gloss withheld |
 

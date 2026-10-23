@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫaraṭa (HALOT 353) | HALOT 353 | gloss withheld |
-| Ugaritic | ḫ-r-ṭ (CUC; DULAT, 404) | CUC; DULAT 404 | gloss withheld |
+| Ugaritic | ḫ-r-ṭ (CUC; DULAT 404) | CUC; DULAT 404 | gloss withheld |
 | Hebrew | \*ḥrṭ (HALOT 352) | HALOT 352 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕa/imm- 2, 3 BK 2 358 | BK 2 358 |  |
 | Akkadian | amû 1 Syn list CAD a2 86 | CAD a2 86 |  |
-| Geez | ʿom (LGz., 62) | LGz. 62 | gloss withheld |
-| Tigre | ʿum, ʿom (LGz., 62) | LGz. 62 | gloss withheld |
-| Tigrinya | ʾom (LGz., 62) | LGz. 62 | gloss withheld |
-| Amharic | woma, wäma (LGz., 62) | LGz. 62 | gloss withheld |
+| Geez | ʿom (LGz. 62) | LGz. 62 | gloss withheld |
+| Tigre | ʿum, ʿom (LGz. 62) | LGz. 62 | gloss withheld |
+| Tigrinya | ʾom (LGz. 62) | LGz. 62 | gloss withheld |
+| Amharic | woma, wäma (LGz. 62) | LGz. 62 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

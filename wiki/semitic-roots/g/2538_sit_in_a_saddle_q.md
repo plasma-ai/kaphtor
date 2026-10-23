@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǯls Penrice |  | gloss withheld |
+| Arabic | ǯalasa 'he sat'; ǯalasa mutarabbiʕan 'he sat cross-legged' (Lane 443) | Lane 443 |  |
 | Tigre | gälsa, gǝlas |  | gloss withheld |
 | Geez | galasa, gǝlās LGz 192 | LGz 192 | gloss withheld |
 | Gurage | gǝlas |  | gloss withheld |

@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | dimm-at- |  |  |
-| Ugaritic | dmm (CUC; DULAT, 271) | CUC; DULAT 271 | gloss withheld |
-| Akkadian | dimmatu (CAD D, 143); dimmu (CAD D, 144) | CAD D, 143; CAD D, 144 |  |
+| Ugaritic | dmm (CUC; DULAT 271) | CUC; DULAT 271 | gloss withheld |
+| Akkadian | dimmatu (CAD D 143); dimmu (CAD D 144) | CAD D 143; CAD D 144 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

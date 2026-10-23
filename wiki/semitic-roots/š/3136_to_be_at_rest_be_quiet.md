@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | šqṭ (HALOT 1641) | HALOT 1641 | gloss withheld |
-| Amorite | šqṭ: Ya-às-qí-iṭ-AN (Huffmon APNM, 253) | Huffmon APNM 253 | gloss withheld |
+| Amorite | šqṭ: Ya-às-qí-iṭ-AN (Huffmon APNM 253) | Huffmon APNM 253 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-HALOT 1641: JArm. šqṭ 'to trip up', Akk. šaqātu(m) 'to trip up'. Huffmon APNM, 253: cf. Ar. sqṭ 'fall down', or skt 'be calm' with dissimilation.
+HALOT 1641: JArm. šqṭ 'to trip up', Akk. šaqātu(m) 'to trip up'. Huffmon APNM 253: cf. Ar. sqṭ 'fall down', or skt 'be calm' with dissimilation.
 
 <!-- END kaphtor:record -->

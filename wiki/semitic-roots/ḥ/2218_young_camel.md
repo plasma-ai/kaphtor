@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ḥǝwōr \[LM 195\]. | LM 195 | gloss withheld |
 | Harsusi | ḥewōr \[JH 64\]. | JH 64 | gloss withheld |
 | Tigre | ḥǝwar \[LH 89\]. | LH 89 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥwr (Al-Jallad–Jaworska, 88) | Al-Jallad–Jaworska 88 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥwr (Al-Jallad–Jaworska 88) | Al-Jallad–Jaworska 88 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

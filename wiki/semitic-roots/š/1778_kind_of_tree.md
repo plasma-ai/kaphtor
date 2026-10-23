@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | salām- (Lane 1415) | Lane 1415 |  |
-| Ugaritic | šlm (DULAT, 808) | DULAT 808 | gloss withheld |
+| Ugaritic | šlm (DULAT 808) | DULAT 808 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

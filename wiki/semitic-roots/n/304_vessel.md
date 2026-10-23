@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | nǝwāy- |  |  |
-| Tigrinya | nəway (LGz., 410) | LGz. 410 | gloss withheld |
+| Tigrinya | nəway (LGz. 410) | LGz. 410 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

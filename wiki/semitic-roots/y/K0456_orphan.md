@@ -34,14 +34,14 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ytm 'orphan' | Anderson–Moser 2024 root ytm |  |
 | Soqotri | aitōmōh (HALOT 451) | HALOT 451 | gloss withheld |
 | Amorite | jatamum, jatmum; jatumum, jitumum (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
-| Phoenician | ytm (T, 131) | T 131 | gloss withheld |
+| Phoenician | ytm (T 131) | T 131 | gloss withheld |
 | Syrian Aramaic | yatmā (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
 | Mehri | ḥə-ytīm (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
 | Jibbali | ótím (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ytm (Al-Jallad–Jaworska, 142) | Al-Jallad–Jaworska 142 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ytm (Al-Jallad–Jaworska 142) | Al-Jallad–Jaworska 142 | gloss withheld |
 | Harsusi | ḥe-ytēm/ḥe-ytōm (HL 147 apud SEDonline 1036) | HL 147; SEDonline 1036 | gloss withheld |
-| Judaic Aramaic | yātōmaʾ (T, 131) | T 131 |  |
-| Mandaic Aramaic | yatimaʾ (T, 131) | T 131 |  |
+| Judaic Aramaic | yātōmaʾ (T 131) | T 131 |  |
+| Mandaic Aramaic | yatimaʾ (T 131) | T 131 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

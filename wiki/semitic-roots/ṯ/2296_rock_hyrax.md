@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ṯōfǝn \[JM 416\]. | JM 416 | gloss withheld |
 | Jibbali | ṯɔ́fun id. \[JJ 283\]. | JJ 283 |  |
 | Hebrew | šāpān (HALOT 1633), pB. \[Ja. 1618\] | HALOT 1633; Ja. 1618 | gloss withheld |
-| Phoenician | špn (B, 424) | B 424 | gloss withheld |
+| Phoenician | špn (B 424) | B 424 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

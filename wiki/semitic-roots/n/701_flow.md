@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | nzl |  |  |
 | Arabic | nazala (HALOT 683) | HALOT 683 |  |
-| Akkadian | nazālu (CAD N2, 134) | CAD N2, 134 | gloss withheld |
+| Akkadian | nazālu (CAD N/2 134) | CAD N/2 134 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
