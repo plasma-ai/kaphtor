@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ś/K0547_shoe
 title: "*śVʾVn-: 'shoe'"
 desc: "Proto-Semitic *śVʾVn-, 'shoe': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0547"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *śVʾVn-: 'shoe'

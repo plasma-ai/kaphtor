@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0609_gird
 title: "*ʾVzVr-: 'gird'"
-desc: "Proto-Semitic *ʾVzVr-, 'gird': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʾVzVr-, 'gird': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0609"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ʾzr 'gird' | Anderson–Moser 2024 root ʾzr |  |
 | Ugaritic | ʾzr (CUC; DULAT 134); mizrtm (HALOT 27); /maʾzaru/?, pl. /maʾzarūma/? (UVST 105) | CUC; DULAT 134; HALOT 27; UVST 105 | gloss withheld |
 | Syrian Aramaic | ʔīzrā 'a linen girdle' (Payne Smith 12) | Payne Smith 12 |  |
+| Akkadian | išru (CAD I/J 261; HALOT 27) | CAD I/J 261; HALOT 27 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

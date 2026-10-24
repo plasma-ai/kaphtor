@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | nəqab (LGz. 399; Payne Smith 349) | LGz. 399; Payne Smith 349 | gloss withheld |
 | Tigre | näqba (LGz. 399) | LGz. 399 | gloss withheld |
 | Amharic | näqqäbä (LGz. 399) | LGz. 399 | gloss withheld |
-| Epigraphic South Arabian | Qat nḳb (LIQ 111 apud SEDonline 152) | LIQ 111; SEDonline 152 | gloss withheld |
+| Epigraphic South Arabian | Qat nḳb (LIQ 111 apud SEDonline 152; Sabaweb lemma 4657) | LIQ 111; SEDonline 152; Sabaweb lemma 4657 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

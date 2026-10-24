@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | šbʿ (T 311); šbʿm (T 312) | T 311; T 312 | gloss withheld |
 | Ugaritic | šbʿ (DULAT 790) | DULAT 790 | gloss withheld |
 | Biblical Aramaic | \*šibʿā (HALOT 1399) | HALOT 1399 |  |
-| Epigraphic South Arabian | Sab. sbʿ (HALOT 1399) | HALOT 1399 |  |
+| Epigraphic South Arabian | Sab. sbʿ (HALOT 1399; Sabaweb lemma 4974) | HALOT 1399; Sabaweb lemma 4974 | gloss withheld |
 | Geez | sabʿū (HALOT 1399) | HALOT 1399 |  |
 | Soqotri | hobeḥ (LGz. 483) | LGz. 483 |  |
 | Jibbali | šebʿet (LGz. 483) | LGz. 483 |  |

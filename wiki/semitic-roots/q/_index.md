@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/q
 desc: "Semitic roots whose first radical is q."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # wiki/semitic-roots/q
@@ -23,7 +23,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/1109_sour_milk|1109_sour_milk]]: Proto-Semitic *ḳāṭiʕ-, 'sour milk': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/q/1134_stand_up_rise|1134_stand_up_rise]]: Proto-Semitic *ḳVwVm-, 'stand (up), rise': reflexes in 17 language(s).
+[[wiki/semitic-roots/q/1134_stand_up_rise|1134_stand_up_rise]]: Proto-Semitic *ḳVwVm-, 'stand (up), rise': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/q/1610_goblet|1610_goblet]]: Proto-Semitic *ḳab-, 'goblet': reflexes in 6 language(s).
 
@@ -117,7 +117,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/2226_kind_of_bird|2226_kind_of_bird]]: Proto-Semitic *ḳaʾ(ḳaʾ)-, 'kind of bird': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/q/2227_frog|2227_frog]]: Proto-Semitic *ḳaʕḳaʕ-, 'frog': reflexes in 4 language(s).
+[[wiki/semitic-roots/q/2227_frog|2227_frog]]: Proto-Semitic *ḳaʕḳaʕ-, 'frog': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/q/2228_crow|2228_crow]]: Proto-Semitic *ḳʷāʕ-, 'crow': reflexes in 3 language(s).
 
@@ -143,7 +143,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/2239_kind_of_insect|2239_kind_of_insect]]: Proto-Semitic *ḳʷVṭVn-, 'kind of insect': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/q/2342_skin_1_leather_bag_or_basket_2|2342_skin_1_leather_bag_or_basket_2]]: Proto-Semitic *ḳʷirb-at-, 'skin' 1, 'leather bag or basket' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/q/2342_skin_1_leather_bag_or_basket_2|2342_skin_1_leather_bag_or_basket_2]]: Proto-Semitic *ḳʷirb-at-, 'skin' 1, 'leather bag or basket' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/q/2347_small_penis_clitoris_female_genital_organ|2347_small_penis_clitoris_female_genital_organ]]: Proto-Semitic *ḳanṭ-ā/īr-, 'small penis; clitoris; female genital organ': reflexes in 8 language(s).
 
@@ -189,7 +189,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/2652_color_of_lapis_lazuli|2652_color_of_lapis_lazuli]]: Proto-Semitic *(ʾV-)ḳVnVʾ/w-, 'color of lapis lazuli': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/q/2655_light_red_rose|2655_light_red_rose]]: Proto-Semitic *ḳḥ, 'light red, rose': reflexes in 13 language(s).
+[[wiki/semitic-roots/q/2655_light_red_rose|2655_light_red_rose]]: Proto-Semitic *ḳḥ, 'light red, rose': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/q/2706_offering_sacrifice|2706_offering_sacrifice]]: Proto-Semitic *qurbān-, 'offering, sacrifice': reflexes in 9 language(s).
 
@@ -197,7 +197,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/2720_axe_adze|2720_axe_adze]]: Proto-Semitic *ḳaddum-, 'axe, adze': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/q/2806_divination|2806_divination]]: Proto-Semitic *ḳVsVm-, 'divination': reflexes in 8 language(s).
+[[wiki/semitic-roots/q/2806_divination|2806_divination]]: Proto-Semitic *ḳVsVm-, 'divination': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/q/2886_divide|2886_divide]]: Proto-Semitic *qVsVm-, 'divide': reflexes in 3 language(s).
 
@@ -217,7 +217,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/302_clay_mug_1_jug_2|302_clay_mug_1_jug_2]]: Proto-Semitic *ḳull-, 'clay mug' 1, 'jug' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/q/3035_reed|3035_reed]]: Proto-Semitic *ḳanaw/y-, 'reed': reflexes in 10 language(s).
+[[wiki/semitic-roots/q/3035_reed|3035_reed]]: Proto-Semitic *ḳanaw/y-, 'reed': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/q/303_bottle|303_bottle]]: Proto-Semitic *ḳinīn-, 'bottle': reflexes in 1 language(s).
 
@@ -230,6 +230,10 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/q/3111_to_cut|3111_to_cut]]: Proto-Semitic *ḳṣd, 'to cut': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/q/3130_to_treat_harshly_harden|3130_to_treat_harshly_harden]]: Proto-Semitic *ḳšḥ, 'to treat harshly, harden': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/q/3178_earth_as_a_solid_surface_ground|3178_earth_as_a_solid_surface_ground]]: Proto-Semitic *ḳarḳar-, 'earth as a solid surface (ground)': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/q/3193_wood_forest|3193_wood_forest]]: Proto-Semitic *ḳayŝ-, 'wood, forest': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/q/320_earthenware|320_earthenware]]: Proto-Semitic *ḳidr-, 'earthenware': reflexes in 5 language(s).
 
@@ -259,7 +263,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/614_voice_1_say_speak_2_saying_speech_3_word_4|614_voice_1_say_speak_2_saying_speech_3_word_4]]: Proto-Semitic *ḳVwVl-, 'voice' 1, 'say, speak' 2, 'saying, speech' 3, 'word' 4: reflexes in 16 language(s).
 
-[[wiki/semitic-roots/q/617_call_shout_1_read_2|617_call_shout_1_read_2]]: Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 11 language(s).
+[[wiki/semitic-roots/q/617_call_shout_1_read_2|617_call_shout_1_read_2]]: Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 12 language(s).
 
 [[wiki/semitic-roots/q/672_town_1_village_2|672_town_1_village_2]]: Proto-Semitic *ḳʷary-, 'town' 1, 'village' 2: reflexes in 10 language(s).
 
@@ -295,7 +299,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/K0290_curse|K0290_curse]]: Proto-Semitic *qVbVb-, 'curse': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/q/K0291_receive|K0291_receive]]: Proto-Semitic *qubul-, 'receive': reflexes in 14 language(s).
+[[wiki/semitic-roots/q/K0291_receive|K0291_receive]]: Proto-Semitic *qubul-, 'receive': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/q/K0292_say|K0292_say]]: Proto-Semitic *qVbVʾ-, 'say': reflexes in 1 language(s).
 
@@ -305,7 +309,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/K0300_sling|K0300_sling]]: Proto-Semitic *qVlVʿ-, 'sling': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/q/K0304_acquire_create|K0304_acquire_create]]: Proto-Semitic *qVnVy-, 'acquire, create': reflexes in 16 language(s).
+[[wiki/semitic-roots/q/K0304_acquire_create|K0304_acquire_create]]: Proto-Semitic *qVnVy-, 'acquire, create': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/q/K0305_envy|K0305_envy]]: Proto-Semitic *qVnVʾ-, 'envy': reflexes in 16 language(s).
 
@@ -331,7 +335,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/q/K0322_aware|K0322_aware]]: Proto-Semitic *qašab-, 'aware': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/q/K0324_severe|K0324_severe]]: Proto-Semitic *qVšVy-, 'severe': reflexes in 5 language(s).
+[[wiki/semitic-roots/q/K0324_severe|K0324_severe]]: Proto-Semitic *qVšVy-, 'severe': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/q/K0325_cucumber|K0325_cucumber]]: Proto-Semitic *qVšVʾ-, 'cucumber': reflexes in 9 language(s).
 

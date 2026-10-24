@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | yaṣaʾ (HALOT 425) | HALOT 425 | gloss withheld |
 | Punic | yṣʾ 'exit' | Anderson–Moser 2024 root wṣʾ |  |
 | Ugaritic | yṣʾ (CUC; DULAT 969) | CUC; DULAT 969 | gloss withheld |
-| Epigraphic South Arabian | wḍʾ; wẓʾ (HALOT 425) \| Sab wḍʾ (SD 156); (Biella 142); mwḍʾ (Biella 143) | HALOT 425; SD 156; Biella 142; Biella 143 | gloss withheld |
+| Epigraphic South Arabian | wḍʾ; wẓʾ (HALOT 425) \| Sab wḍʾ (SD 156); (Biella 142); (Sabaweb lemma 3312); mwḍʾ (Biella 143) | HALOT 425; SD 156; Biella 142; Sabaweb lemma 3312; Biella 143 | gloss withheld |
 | Soqotri | ʾeḍa (LGz. 606) | LGz. 606 | gloss withheld |
 | Syrian Aramaic | (y)iʿā (LGz. 606) | LGz. 606 | gloss withheld |
 | Mandaic Aramaic | yʿa (LGz. 606) | LGz. 606 |  |

@@ -36,11 +36,15 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | lqḥ (T 160) | T 160 | gloss withheld |
 | Hebrew | lāqaḥ (BDB 542; HALOT 534); leqaḥ; miqqāḥ | BDB 542; HALOT 534 | gloss withheld |
 | Epigraphic South Arabian | lqḥ (SD 82) | SD 82 | gloss withheld |
-| Judaic Aramaic | lqḥ "to take" (Ja. 717) | Ja. 717 |  |
+| Judaic Aramaic | lqḥ Ithpe. "to be taken, married" (Ja. 717) | Ja. 717 |  |
 | Aramaic | LQḤ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Punic | lqḥ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Canaanite | Moab lḳḥ (DNWSI 581 apud SEDonline 886) | DNWSI 581; SEDonline 886 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+PES \*lqḥ 'to lend' (Gez. laqqəḥa, Tna. ʾaläqqəḥe, Amh. aläqqa, Har. alēqäḥa), intensive or causative throughout, is PS \*lqḥ 'to take' as 'to let one take' (Kogan 2015, ch. 7 §4.1 no. 6).
 
 <!-- END kaphtor:record -->

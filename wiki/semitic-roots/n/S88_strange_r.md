@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | nakir (LGz. 397) | LGz. 397 | gloss withheld |
-| Akkadian | nakārum (Huehnergard 1997 GAk, 508; OLA80 §15.8) | Huehnergard 1997 GAk, 508; OLA80 §15.8 | gloss withheld |
+| Akkadian | nakārum (Huehnergard 1997 GAk, 508) | Huehnergard 1997 GAk, 508 | gloss withheld |
 | Hebrew | nkr; nēkār (HALOT 699, 700) | HALOT 699, 700 | gloss withheld |
-| Epigraphic South Arabian | nkr (HALOT 699) | HALOT 699 |  |
+| Epigraphic South Arabian | nkr (HALOT 699; Sabaweb lemma 4647) | HALOT 699; Sabaweb lemma 4647 | gloss withheld |
 | Arabic | nakira (LGz. 397) | LGz. 397 | gloss withheld |
 | Jibbali | nker (LGz. 397) | LGz. 397 | gloss withheld |
 | Mandaic Aramaic | nukraia (LGz. 397) | LGz. 397 | gloss withheld |

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | šlm |  | gloss withheld |
 | Phoenician | šlm |  |  |
 | Hebrew | šālam |  | gloss withheld |
-| Epigraphic South Arabian | slm |  | gloss withheld |
+| Epigraphic South Arabian | slm (Sabaweb lemma 5707) | Sabaweb lemma 5707 | gloss withheld |
 | Judaic Aramaic | šəlam, šəlēm (HALOT 1532); šalmā, šəlīm (HALOT 1538) | HALOT 1532; HALOT 1538 | gloss withheld |
 | Biblical Aramaic | šəlam (HALOT 1532) | HALOT 1532 | gloss withheld |
 | Geez | salama (HALOT 1532) | HALOT 1532 | gloss withheld |

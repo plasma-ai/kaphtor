@@ -1,0 +1,956 @@
+{
+  "schema_version": "2.0",
+  "description": "The phonemic gaps of the Linear A syllabary against the Proto-Semitic consonants: the signs whose values fill them, the gaps written by neutralization or left open, and the positional behaviour of the frequent unknown signs. A sign value's standing and confidence are those of sign_values.json.",
+  "methodology": {
+    "gap_identification": "Compare the standard Linear A CV grid (55 signs: 5 vowels + 12 consonant series × ~5 vowels) against the phonemic inventories of Northwest Semitic (Ugaritic/Canaanite), Luwian, and Middle Egyptian—the three language families attested in the Bronze Age Cretan administrative corpus.",
+    "candidate_selection": "Unknown signs are candidates only if they show syllabic positional behavior (appearing word-initially, medially, and finally). Signs that appear predominantly standalone or with quantities are likely ideograms/logograms and are excluded.",
+    "standing": "Each sign value carries its standing in sign_values.json: resolved (support independent of a Semitic match), proposed, or speculative (held in the sign's record only), with its confidence there."
+  },
+  "proto_semitic_inventory": {
+    "source": "Lipiński, OLA80 §10.11",
+    "total_consonants": 29,
+    "phonemes": {
+      "labials": [
+        "p",
+        "b",
+        "m",
+        "w"
+      ],
+      "dentals": [
+        "t",
+        "d",
+        "ṭ",
+        "s",
+        "z",
+        "ṣ",
+        "ś",
+        "ṣ́",
+        "l",
+        "r",
+        "n"
+      ],
+      "interdentals": [
+        "ṯ",
+        "ḏ",
+        "ṯ̣"
+      ],
+      "prepalatal": [
+        "š",
+        "y"
+      ],
+      "velars": [
+        "k",
+        "g",
+        "q",
+        "ḫ",
+        "ġ"
+      ],
+      "pharyngals": [
+        "ḥ",
+        "ʿ"
+      ],
+      "laryngals": [
+        "ʾ",
+        "h"
+      ]
+    },
+    "vowels": {
+      "short": [
+        "a",
+        "i",
+        "u"
+      ],
+      "long": [
+        "ā",
+        "ī",
+        "ū"
+      ],
+      "note": "No phonemic /e/ or /o/ in PS; these develop later via vowel shifts (Canaanite ā > ō, a > e near gutturals)"
+    },
+    "linear_a_coverage": "The standard 55-sign CV grid covers 12 consonant series. PS 29 consonants must map onto these 12 via neutralization (voicing, emphasis, place). The proposed values (*314=ḤA, *118=ṬA, *306=ʿA, *21F=HA, PA₃=BA, ZU=ṮU, *305=ḎA) extend coverage to ~19 consonant series, still short of the full 29."
+  },
+  "cuneiform_parallels": {
+    "source": "Lipiński, OLA80 §§13.2, 18.3, 19.9",
+    "description": "Cuneiform scribes faced the identical phoneme-to-sign mapping problem. Their solutions parallel Linear A strategies.",
+    "sibilant_encoding": {
+      "paragraph": "§13.2",
+      "rule": "Palaeosyrian/Old Akkadian used three sign series for sibilants + interdentals: ŠA/ŠI/ŠU for interdental ṯ; SA/SI/SU for sibilants š/ś; ZA/ZI/ZU for voiced interdentals ḏ/ẓ",
+      "linear_a_parallel": "Linear A uses SA/SI/SU for all sibilants (š/ś/s/ṣ merged) and ZA/ZE + ZU for interdentals/affricates. Same compression, same ambiguity."
+    },
+    "velar_neutralization": {
+      "paragraph": "§18.3",
+      "rule": "Cuneiform never distinguishes final k/g/q. Initial distinction partial: GAB = gab/qab, AG = ag/ak/aq. K-class neutralization is standard, not a flaw.",
+      "examples": [
+        "AG = ag/ak/aq",
+        "GAB = gab/qab",
+        "GIM = gim/kim/qim"
+      ],
+      "linear_a_parallel": "Linear A KA/KI/KU neutralizes k/g/q identically. QA/QE/QI partially extends the grid for emphatic uvular. *34=QI completion mirrors cuneiform attempts to distinguish q."
+    },
+    "pharyngal_marking": {
+      "paragraph": "§19.9",
+      "rule": "Old Assyrian still marked pharyngal ḥ with dedicated signs (ḥapārum 'to dig'). Later Akkadian lost all guttural distinctions.",
+      "linear_a_parallel": "Linear A *314=ḤA preserves pharyngal marking—a scribal strategy parallel to Old Assyrian, and more conservative than standard Akkadian practice."
+    }
+  },
+  "standard_grid": {
+    "vowels": [
+      "A",
+      "E",
+      "I",
+      "O",
+      "U"
+    ],
+    "consonant_series": {
+      "D/T": {
+        "signs": [
+          "DA",
+          "DE",
+          "DI",
+          "DO",
+          "DU",
+          "TA",
+          "TE",
+          "TI",
+          "TO",
+          "TU"
+        ],
+        "neutralizes": "voicing (d/t)"
+      },
+      "K": {
+        "signs": [
+          "KA",
+          "KE",
+          "KI",
+          "KO",
+          "KU"
+        ],
+        "neutralizes": "voicing (k/g), partially uvular (q)"
+      },
+      "M": {
+        "signs": [
+          "MA",
+          "ME",
+          "MI",
+          "MO",
+          "MU"
+        ],
+        "neutralizes": "none"
+      },
+      "N": {
+        "signs": [
+          "NA",
+          "NE",
+          "NI",
+          "NO",
+          "NU"
+        ],
+        "neutralizes": "none"
+      },
+      "P": {
+        "signs": [
+          "PA",
+          "PE",
+          "PI",
+          "PO",
+          "PU"
+        ],
+        "neutralizes": "voicing (p/b)"
+      },
+      "Q": {
+        "signs": [
+          "QA",
+          "QE",
+          "QI"
+        ],
+        "neutralizes": "partially covers uvular /q/; *34 = QI is proposed (0.70), with ai (Linear B a₅) another possible value"
+      },
+      "R": {
+        "signs": [
+          "RA",
+          "RE",
+          "RI",
+          "RO",
+          "RU"
+        ],
+        "neutralizes": "liquids (r/l)"
+      },
+      "S": {
+        "signs": [
+          "SA",
+          "SE",
+          "SI",
+          "SO",
+          "SU"
+        ],
+        "neutralizes": "all sibilants (s/š/ṣ/z/ṯ)"
+      },
+      "J": {
+        "signs": [
+          "JA",
+          "JE",
+          "JI"
+        ],
+        "neutralizes": "approximant /y/",
+        "note": "*28B = JI and JU = /lu/ (liquid; yu another possible value) are proposed; JA and JE are standard."
+      },
+      "W": {
+        "signs": [
+          "WA",
+          "WE",
+          "WI"
+        ],
+        "neutralizes": "approximant /w/"
+      },
+      "Z": {
+        "signs": [
+          "ZA",
+          "ZE"
+        ],
+        "neutralizes": "affricate or sibilant variant"
+      }
+    },
+    "extra_signs": {
+      "RA2": "la (liquid /l/ distinguished from /r/)",
+      "PA3": "pa₃ = /ba/ (proposed, 0.90: voiced bilabial stop, see filled_gaps)",
+      "PU2": "pu₂ (labial variant, value disputed)",
+      "TA2": "ta₂ (Linear B *66; resolved, /ta/ 0.65; a marked dental, written apart from TA on PK1. See the interdentals gap)",
+      "ZO": "zo (AB20, 2 occurrences): both standalone with numerals (KH57, THEZg5), logographic in commodity lists. It would fill a Z-series /zo/ if syllabographic, but no syllabic word context tests it.",
+      "NWA": "nwa (AB48, 1 occurrence): a hapax in JA-I-NWA-RO (SYZa4, Syme libation table; RILA-S1 p. 84 prints NWA), a complex onset /nw-/ outside the CV grid. JA-I-NWA-RO is read yā ʾanwaru 'O Radiant One' (vocative + elative of √n-w-r), SPECULATIVE 0.3."
+    }
+  },
+  "filled_gaps": [
+    {
+      "gap_id": "pharyngeal_velar_fricative",
+      "sign": "*314",
+      "value": "ḤA",
+      "confidence": 0.65,
+      "phonemes_covered": [
+        "ḥ",
+        "ḫ"
+      ],
+      "neutralization": "Pharyngeal ḥ (Semitic) and velar ḫ (Luwian, Egyptian) neutralized into one sign",
+      "languages_served": [
+        "Northwest Semitic",
+        "Luwian",
+        "Middle Egyptian"
+      ],
+      "occurrences": 6,
+      "key_evidence": [
+        {
+          "word": "DU-*314-RE",
+          "reading": "dubur",
+          "meaning": "sanctuary (variant spelling of DU-PU₂-RE)",
+          "root": "√d-b-r",
+          "inscription": "KOZa1",
+          "note": "Here *314 is a word-specific variant of PU₂, as in DU-PU₂-RE (PK Za 15, HT Zb 160): dubur ʾIda 'the sanctuary of Ida' (di Mino, Ya Diktu; Davis 2013, 44 n. 46; Facchetti 1999, 132). The word gives no evidence for ḤA."
+        },
+        {
+          "word": "*314-TA-MA",
+          "reading": "ḥatam",
+          "meaning": "seal, signet; rival buṭma 'pistachio'",
+          "root": "√ḥ-t-m",
+          "inscription": "PHWc38"
+        },
+        {
+          "word": "PI-*314",
+          "reading": "[…]-pi-*314(?)",
+          "meaning": "damaged ending; Luwian piḫa- comparison unproved",
+          "root": null,
+          "inscription": "ARKH3b",
+          "note": "Broken before PI; PI overlies an erasure and *314 may be PU₃. Excluded as evidence for *314 = ḤA."
+        },
+        {
+          "word": "RA-*314-RA",
+          "reading": "Rꜥ-Ḥr",
+          "meaning": "Ra-Horus (Egyptian personal name); rival raḥil 'ewe-lamb'",
+          "root": null,
+          "inscription": "HTWc3006"
+        }
+      ],
+      "missing_vowel_combinations": [
+        "ḤE",
+        "ḤI",
+        "ḤO",
+        "ḤU"
+      ],
+      "additional_evidence": {
+        "logogram_317": "*317 = LIQḤU 'receipt(s), offering(s)' (√l-q-ḥ). The phonetic complements JU+*317+QE spell lu-…-qe and leave /ḥ/ unwritten."
+      },
+      "lipinski_guttural_system": {
+        "source": "OLA80 §§19.2, 19.5-6, 19.9, 19.12, 19.22",
+        "ps_gutturals": "PS has 6 'guttural' phonemes: glottal stop ʾ, voiceless laryngal h, voiceless pharyngal ḥ, voiced pharyngal ʿ, voiceless velar fricative ḫ, voiced velar fricative ġ (§19.2).",
+        "pharyngal_vowel_coloring": "In Palaeosyrian: ḥ and ʿ cause a > e in contiguous vowels; ʾ and h do not. This distinguishes pharyngals from laryngals phonologically (§19.5-6). E-vowel signs near guttural positions in Linear A may reflect this.",
+        "velar_fricative_survival": "Canaanite ḫ/ġ survived as distinct from ḥ/ʿ until the Hellenistic period. Greek Γάζα for ġzt, Ἄκη for ʿky prove the distinction was live in 2nd millennium West Semitic (§19.12). The Minoan substrate almost certainly had all 6 gutturals.",
+        "akkadian_loss": "Akkadian reduced all laryngals/pharyngals to ʾ (optional). But Old Assyrian still marked ḥ with dedicated signs—ḥapārum 'to dig' (§19.9). *314=ḤA preserves pharyngal marking in exactly this way.",
+        "neutralization_chart": "Cross-linguistic: Akkadian loses all to ʾ; Geez loses ġ > ʿ; Canaanite/Aramaic ḫ > ḥ and ġ > ʿ (late) (§19.22). Linear A's *314 neutralizing ḥ/ḫ fits the Canaanite pattern."
+      },
+      "standing": "proposed",
+      "other_values": "bu, a PU₂ variant, is another possible value: KA-*314-SI kabsi 'young ram' (the lexicon reads kꜣ-ḥs.j, an Egyptian name, with kabsi the rival) and *314-TA-MA buṭma read under it."
+    },
+    {
+      "gap_id": "emphatic_dental",
+      "sign": "*118",
+      "value": "ṬA",
+      "confidence": 0.7,
+      "phonemes_covered": [
+        "ṭ",
+        "ḍ",
+        "ḏ"
+      ],
+      "neutralization": "Emphatic and marked dentals neutralized into one sign. Distinct from standard DA/TA which neutralize voicing only.",
+      "languages_served": [
+        "Northwest Semitic",
+        "Hurrian",
+        "Middle Egyptian"
+      ],
+      "occurrences": 26,
+      "key_evidence": [
+        {
+          "word": "QA-*118-RA-RE",
+          "reading": "qaṭara(re)",
+          "meaning": "incense, incense-offering",
+          "root": "√q-ṭ-r",
+          "inscription": "HT96b"
+        },
+        {
+          "word": "QA-*118",
+          "reading": "qaṭṭ(u)",
+          "meaning": "flax, linseed",
+          "root": "√q-ṭ",
+          "inscription": "KH10"
+        },
+        {
+          "word": "*21F-*118",
+          "reading": "ḥiṭṭa",
+          "meaning": "wheat",
+          "root": "√ḥ-n-ṭ",
+          "inscription": "KH88"
+        },
+        {
+          "word": "QA-*118-SA",
+          "reading": "qaṭʿ-ša",
+          "meaning": "its portion; rival qadaša 'holy portion'",
+          "root": "√q-ṭ-ʕ",
+          "inscription": "HT70",
+          "note": "Broken before QA. Only this word would take d."
+        },
+        {
+          "word": "*118-MI",
+          "reading": "ṭami",
+          "meaning": "blood",
+          "root": "√d-m",
+          "inscription": "ZA21a"
+        }
+      ],
+      "complementary_distribution": {
+        "qa_cluster": "QA-*118 stands in five words (I-QA-*118 twice, QA-*118, QA-*118-SA, QA-*118-RA-RE); QA-DA occurs only inside QA-QA-DA (PE2).",
+        "same_word_test": "DA-SI-*118 uses both standard DA and *118 in one word: the scribe writes the two apart",
+        "alternatives_eliminated": "QA-KI and QA-TI open words with standard signs, and QA-RU stands in QA-QA-RU; the scribes used *118 for a phoneme those signs do not write."
+      },
+      "missing_vowel_combinations": [
+        "ṬE",
+        "ṬI",
+        "ṬO",
+        "ṬU"
+      ],
+      "lipinski_emphatic_phonetics": {
+        "source": "OLA80 §§10.9-10",
+        "primary_articulation": "Emphatics (ṭ, ṣ, q) are pharyngalized/velarized, not glottalized. Pharyngalization is primary—shown by Ugaritic ṭm' > ġm' 'to be thirsty', nṯr > nġr 'to guard' (velar ġ swaps for emphatic, proving shared articulatory base) (§10.9).",
+        "vowel_coloring": "Emphatic velarization spreads across the entire word (Arabic tafḫīm): a > u near emphatics. East Semitic qurbum for qarbum 'near', inaṣṣur for inaṣṣar 'he guards' (§10.9). This may explain Linear A vowel variation in readings near emphatic consonants.",
+        "glottalization_secondary": "Ejective (glottalized) emphatics in Ethiopic/Modern South Arabian are secondary—reflect loss of pharyngal ʿ. Linear A substrate (2nd millennium West Semitic) had pharyngalized emphatics (§10.10).",
+        "linear_a_implication": "*118=ṬA covers pharyngalized ṭ/ḍ. The a>u vowel coloring near emphatics may explain some apparent vowel alternations in corpus readings (e.g., if a word shows -u- where -a- is expected, check for adjacent emphatics)."
+      },
+      "standing": "proposed",
+      "other_values": "d is possible only in QA-*118-SA; ṯ in two crop words (quṯṯāʾ 'cucumber', ḥaṯ 'unleavened bread').",
+      "logogram": "Standing alone after a commodity sign and before a numeral, *118 is the talent, as Linear B *118 L (Bartoněk 2003, 126; Killen 2024, 141; HT24b, Del Freo 2020, 56): resolved."
+    },
+    {
+      "gap_id": "voiced_bilabial_stop",
+      "sign": "PA₃",
+      "value": "BA",
+      "confidence": 0.9,
+      "phonemes_covered": [
+        "b"
+      ],
+      "ipa": "b",
+      "evidence": "√b-q-r 'cattle' (PA₃-KA-RA-TI = baqarāti), √ʿ-b-d 'servant' (A-PA₃-DI = ʿabadī), √b-n-y 'build' (PA₃-NI-NA = banīna), and the divine name KU-PA₃-PA₃ = Kubaba (HT88), beside KU-PA₃-NU Kubānu and KU-PA₃-NA-TU Kubānatu.",
+      "notes": "Standard grid neutralizes P/B voicing. PA₃ breaks the neutralization for /ba/. Revises Gordon 1966 who treated PA₃ as PA allograph.",
+      "standing": "proposed"
+    },
+    {
+      "gap_id": "vc_nasal_in",
+      "sign": "*310",
+      "value": "IN",
+      "confidence": 0.7,
+      "phonemes_covered": [
+        "in"
+      ],
+      "ipa": "in",
+      "sign_type": "vc_syllable",
+      "evidence": "KI-*310-RE = kinnār \"lyre\" (Hebrew kinnōr). QA-*310-I = qaynī \"smith or cultic administrator\" (√q-y-n; Arabic qayn, Sabaic qyn). PI-*310-A = pīnā \"face, front, portion\" (√p-n-y, cf. I-PI-NA-MA). Structural parallel to AU=/aw/: both are VC signs closing syllables.",
+      "notes": "Not a phonemic gap in the traditional sense (no missing consonant), but a structural gap: the CV grid cannot represent syllable-closing consonants. VC signs (AU=/aw/, *310=/in/) extend the grid for Semitic CVC morphology. The script adaptation strategy uses both dead vowels (standard approach) and dedicated VC signs (innovation approach) for closed syllables.",
+      "standing": "proposed"
+    },
+    {
+      "gap_id": "voiced_pharyngeal_ayin",
+      "sign": "*306",
+      "value": "ʿA",
+      "confidence": 0.92,
+      "phonemes_covered": [
+        "ʿ"
+      ],
+      "ipa": "ʕa",
+      "neutralization": "Voiced pharyngeal fricative (ayin). No neutralization—dedicated sign for this phoneme.",
+      "languages_served": [
+        "Northwest Semitic",
+        "Middle Egyptian"
+      ],
+      "occurrences": 22,
+      "key_evidence": [
+        {
+          "word": "*306-TI-KA-A-RE",
+          "reading": "ʿatīq+are",
+          "meaning": "the ancient, the noble",
+          "root": "√ʿ-t-q",
+          "inscription": "HT4"
+        },
+        {
+          "word": "*306-TA-JE",
+          "reading": "ʿaṭāye",
+          "meaning": "gift, offering (votive label)",
+          "root": "√ʿ-ṭ-w",
+          "inscription": "ARKHZc8"
+        },
+        {
+          "word": "*306-TU",
+          "reading": "ʿAttu",
+          "meaning": "personal name (cf. Hebrew ʿAttay)",
+          "root": "√ʿ-t(-t)",
+          "inscription": "HT9a"
+        }
+      ],
+      "lipinski_pharyngal_note": {
+        "source": "OLA80 §§19.5-6, 19.22",
+        "vowel_coloring": "ʿ (voiced pharyngal) causes a > e shift in contiguous vowels in Palaeosyrian—En-na-i-lī /Ḥenna-'Ilī/, Eb-du-Rašap /'Ebdu-Rašap/ (§19.5-6). This distinguishes ʿ phonologically from ʾ/h which do not trigger the shift.",
+        "cross_linguistic": "ʿ preserved in Canaanite, Arabic, ESA; lost in Akkadian (> ʾ > zero) and late Aramaic (> zero). Distinct from ġ (voiced velar fricative) which also causes a > e. Greek Ἄκη for ʿky shows ʿ was NOT transcribed (§19.12)."
+      },
+      "standing": "proposed"
+    },
+    {
+      "gap_id": "plain_h_laryngeal",
+      "sign": "*21F",
+      "value": "HA",
+      "confidence": 0.9,
+      "phonemes_covered": [
+        "h",
+        "ḥ",
+        "ḫ"
+      ],
+      "ipa": "ha",
+      "neutralization": "An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes West Semitic ḥ and ḫ alike. H is ordinarily unwritten, as in Linear B, where a₂ (ha) is optional (pa-we-a 88 times, pa-we-a₂ 9). Standing alone with a numeral, *21F is the logogram OVISf, ewe (HT 132, ZA 9, ZA 26a).",
+      "languages_served": [
+        "Northwest Semitic",
+        "Middle Egyptian"
+      ],
+      "occurrences": 29,
+      "key_evidence": [
+        {
+          "word": "TU-*21F-RI-NA",
+          "reading": "ṭuhārī-nā",
+          "meaning": "our purification",
+          "root": "√ṭ-h-r",
+          "inscription": "HT129"
+        },
+        {
+          "word": "*21F-TU-NE",
+          "reading": "hatune",
+          "meaning": "bridegroom, son-in-law",
+          "root": "√ḫ-t-n",
+          "inscription": "HT7b"
+        },
+        {
+          "word": "*21F-*118",
+          "reading": "ḥiṭṭa",
+          "meaning": "wheat",
+          "root": "√ḥ-n-ṭ",
+          "inscription": "KH88"
+        },
+        {
+          "word": "*21F-JA-DU",
+          "reading": "Ḥayya-ʾAddu",
+          "meaning": "personal name, 'Addu lives'",
+          "root": "√ḥ-y-y + √ʾ-d-d",
+          "inscription": "HT84"
+        }
+      ],
+      "lipinski_laryngal_note": {
+        "source": "OLA80 §§19.2, 19.5-6, 19.9, 19.22",
+        "h_vs_pharyngals": "h (voiceless laryngal) does NOT cause a > e vowel coloring, unlike ḥ and ʿ (§19.5-6).",
+        "loss_pattern": "h is the most fragile guttural—lost earliest and most widely. Akkadian lost it (> ʾ > zero) by Old Babylonian. Canaanite preserved it in spelling but weakened in pronunciation. Linear A writes it optionally, with *21F.",
+        "three_guttural_signs": "Lipiński's three-way distinction (laryngal h without vowel colouring, pharyngal ḥ and ʿ with a > e) is not a three-sign system in Linear A: *306 writes ʿ, *314 ḥ or ḫ, and *21F optionally h, ḥ or ḫ. ʾ is written with the vowel signs; ġ falls in the K-class or with ʿ."
+      },
+      "standing": "proposed"
+    }
+  ],
+  "open_gaps": [
+    {
+      "gap_id": "voiced_pharyngeal_ayin",
+      "phonemes": [
+        "ʿ"
+      ],
+      "ipa": "ʕ",
+      "description": "Voiced pharyngeal fricative (Hebrew/Arabic ayin). One of the most frequent consonants in Semitic—appears in ʿabd 'servant', ʿam 'people', ʿayin 'eye/spring', ʿaštar 'Ishtar'. Egyptian ꜥ is cognate.",
+      "priority": "HIGH",
+      "languages_requiring": {
+        "northwest_semitic": "Very frequent—roots with ʿ are core vocabulary",
+        "luwian": "Not required",
+        "middle_egyptian": "ꜥ in names and titles (e.g., Rꜥ 'Ra')"
+      },
+      "likely_script_strategy": "May be written as a vowel sign (ʿa → A, ʿi → I) or omitted entirely. Gordon proposed ʿa > o shift in some Semitic substrates. A dedicated sign would be expected only if ʿ-initial words are frequent enough to cause ambiguity.",
+      "candidate_signs": [],
+      "status": "PROPOSED",
+      "filled_by": "*306 = ʿA (voiced pharyngeal), proposed"
+    },
+    {
+      "gap_id": "glottal_stop_aleph",
+      "phonemes": [
+        "ʾ"
+      ],
+      "ipa": "ʔ",
+      "description": "Glottal stop (Hebrew/Arabic aleph). Extremely frequent—initial position in ʾab 'father', ʾel 'god', ʾadon 'lord'. Egyptian ꜣ (aleph) in kꜣ, names.",
+      "priority": "HIGH",
+      "languages_requiring": {
+        "northwest_semitic": "Very frequent—initial aleph in most divine names and basic vocabulary",
+        "luwian": "Not required",
+        "middle_egyptian": "ꜣ in kꜣ 'spirit', proper names"
+      },
+      "likely_script_strategy": "Almost certainly written as the pure vowel signs (A, E, I, O, U) in initial position. Internal glottal stop may be omitted or represented by vowel hiatus. A dedicated sign is unlikely—vowel signs already serve this function in most syllabaries.",
+      "candidate_signs": [
+        {
+          "sign": "A/E/I/O/U",
+          "occurrences": "N/A",
+          "positional_behavior": "Pure vowels—already in grid",
+          "rationale": "Standard practice in CV syllabaries: glottal stop is implicit in word-initial vowel signs."
+        }
+      ],
+      "status": "FILLED",
+      "filled_by": "A-series vowel signs",
+      "note": "Bare vowel signs (A, E, I, O, U) serve as ʾa, ʾe, ʾi, ʾo, ʾu in word-initial position (standard CV syllabary practice). *324 = ʾA is an alternate only: its primary is SO (speculative, 0.30), since Linear A has no other SO sign and plain A already writes /ʔa/."
+    },
+    {
+      "gap_id": "plain_h_laryngeal",
+      "phonemes": [
+        "h"
+      ],
+      "ipa": "h",
+      "description": "Voiceless laryngeal fricative (Hebrew he). Distinct from pharyngeal ḥ. Frequent in Semitic pronouns (hu, hi), demonstratives, and roots.",
+      "priority": "HIGH",
+      "languages_requiring": {
+        "northwest_semitic": "Frequent—pronouns, demonstratives, divine elements",
+        "luwian": "ḫ overlaps but distinct from plain h",
+        "middle_egyptian": "h distinct from ḥ/ḫ in Egyptian phonology"
+      },
+      "likely_script_strategy": "No HA/HE/HI/HO/HU series exists in the standard grid. Could be: (1) merged with *314 ḤA-class, (2) omitted, (3) written as a vowel, or (4) represented by an unidentified unknown sign.",
+      "candidate_signs": [],
+      "status": "PROPOSED",
+      "filled_by": "*21F = HA, an optional H-sign (h, ḥ, ḫ), proposed"
+    },
+    {
+      "gap_id": "emphatic_sibilant",
+      "phonemes": [
+        "ṣ"
+      ],
+      "ipa": "sˤ",
+      "description": "Emphatic sibilant (Hebrew tsade). Distinct from s/š/z but neutralized into S-class in standard grid. Appears in √ṣ-d-q 'righteous', √ṣ-l-m 'image', √ṣ-r-r 'bind'.",
+      "priority": "MEDIUM",
+      "languages_requiring": {
+        "northwest_semitic": "Moderate frequency—important roots but less common than s/š",
+        "luwian": "Not required",
+        "middle_egyptian": "s/ṣ transcriptional overlap"
+      },
+      "likely_script_strategy": "Probably neutralized into the S-class (SA/SE/SI/SO/SU) without a dedicated sign. A separate sign would only be expected if S-class neutralization creates systematic ambiguity.",
+      "candidate_signs": [
+        {
+          "sign": "*34",
+          "occurrences": 7,
+          "positional_behavior": "2 initial, 5 medial",
+          "rationale": "Read as QI (K-class), so *34 fills the /qi/ slot, not the emphatic sibilant gap; ṢA and ṢI each misread two of its words. The gap stays LIKELY_NEUTRALIZED into the S-class.",
+          "status": "ELIMINATED"
+        },
+        {
+          "sign": "ZA/ZE",
+          "occurrences": "N/A",
+          "positional_behavior": "already in grid",
+          "rationale": "Z-class might differentiate some emphatic sibilant contexts from S-class"
+        }
+      ],
+      "status": "LIKELY_NEUTRALIZED",
+      "lipinski_phonetics": {
+        "source": "OLA80 §§14.7, 16.1-3",
+        "emphatic_realization": "ṣ realized as affricate [ts]—not just modern; attested in Demotic tspn for ṣpn 'north' and possibly Greek αστηρ for ḥsr (§14.7). Amharic and Gafat preserve [ts] pronunciation.",
+        "lateral_merger": "PS voiceless lateral ś merged with š in most languages by 2nd millennium (§16.1). Greek βάλσαμον from bśm 'balsam' preserves the lateral character (λσ transcribing ś). SA-series signs absorb both ś and š.",
+        "sibilant_burden": "The SA/SI/SU series neutralizes PS s, š, ś, ṣ, and possibly ṯ (after Canaanite merger)—up to 5 original phonemes in one sign series. This matches cuneiform practice where SA/ŠA partially overlapped (§13.5)."
+      }
+    },
+    {
+      "gap_id": "interdentals",
+      "phonemes": [
+        "ṯ",
+        "ḏ"
+      ],
+      "ipa": [
+        "θ",
+        "ð"
+      ],
+      "description": "Voiceless and voiced interdentals. Proto-Semitic *ṯ and *ḏ survive in Ugaritic and early Canaanite but merge with sibilants or dentals in later languages. If Minoan Semitic preserves archaic features, these might be distinguished.",
+      "priority": "LOW",
+      "languages_requiring": {
+        "northwest_semitic": "Archaic/Ugaritic only—merged in Canaanite",
+        "luwian": "Not required",
+        "middle_egyptian": "Not required"
+      },
+      "likely_script_strategy": "Almost certainly merged into S-class (ṯ > š/s) and D/T-class (ḏ > d/z). Separate signs unlikely unless the Minoan Semitic substrate is very archaic.",
+      "candidate_signs": [
+        {
+          "sign": "ZU (AB79)",
+          "occurrences": 31,
+          "positional_behavior": "9 initial, 11 medial, 6 final, 5 standalone",
+          "assigned_value": "ṮU (/θu/), with ZU (/zu/) a second value; proposed",
+          "confidence": 0.74,
+          "rationale": "ZU writes two values, as SA writes s and š. ṯu is primary: A-ZU-RA = ʾAṯirat (KNZc7), MA-ZU = maṯu beside Linear B ma-*79, and no scribe alternates ZU with another sign. zu is the second value, on RU-ZU-NA = rāzin (PS *z)."
+        },
+        {
+          "sign": "*305 (AB305)",
+          "occurrences": 20,
+          "positional_behavior": "2 initial, 2 medial, 4 final, 12 standalone",
+          "assigned_value": "ḎA (/ḏa/), proposed",
+          "confidence": 0.65,
+          "rationale": "*305-RU = ḏarʿ- 'seed, grain' (√ḏ-r-ʿ, distance 0.100) on the HT10a emmer allocation, the one ḏ-root cell. ḏ is taken from the logogram reading ḎABBĀḤŪ (√ḏ-b-ḥ). DA co-occurs on 5 tablets. With ZU = /ṯu/ it gives the interdental pair. ṯa is another possible value (KA-*305, read ka-ḏā 'thus', rival kaṯ 'flask')."
+        },
+        {
+          "sign": "TA₂ (AB66)",
+          "occurrences": 17,
+          "positional_behavior": "3 initial, 1 medial, 10 final, 3 standalone",
+          "assigned_value": "/ta/, resolved (Linear B *66)",
+          "confidence": 0.65,
+          "rationale": "PK1 writes TA and TA₂ both. KI-RE-TA₂ = krt 'Kret' (distance 0.000).",
+          "alternate_value": "/ṯa/ (voiceless interdental)",
+          "alternate_confidence": 0.32,
+          "alternate_rationale": "Would complete ZU=/ṯu/ pair and explain PK1 contrast, but √k-r-ṯ is not a real PS root—no anchor word."
+        }
+      ],
+      "status": "PROPOSED",
+      "note": "ZU = /ṯu/ (0.74) and *305 = /ḏa/ (0.65) are proposed; TA₂ is /ta/ (Linear B *66), with /ṯa/ an alternate at 0.32.",
+      "lipinski_chronology": {
+        "source": "OLA80 §§13.1, 13.4, 13.7",
+        "ps_system": "PS has three interdentals: ṯ [θ], ḏ [ð], emphatic ẓ. These are distinct phonemes, not allophones.",
+        "merger_patterns": {
+          "canaanite": "ṯ > š, ḏ > z, ẓ > ṣ—merger complete by 13th c. BCE (22-letter alphabet)",
+          "aramaic": "ṯ > t, ḏ > d, ẓ > ṭ—different target (dentals, not sibilants)",
+          "akkadian": "ṯ > š (ŠA series), ḏ > z (ZA series)—early merger",
+          "ugaritic": "All three preserved in 30-letter alphabet",
+          "amorite": "ṯ/š distinction preserved in 2nd millennium cuneiform names (§13.4)"
+        },
+        "linear_a_implication": "Linear A texts (17th–15th c. BCE) predate the Canaanite merger. A NWS substrate of this period should preserve interdentals, as ZU = ṯu and *305 = ḏa propose. Amorite—the closest 2nd-millennium NWS comparandum—also preserves the distinction."
+      }
+    },
+    {
+      "gap_id": "voiced_velar_g",
+      "phonemes": [
+        "g"
+      ],
+      "ipa": "g",
+      "description": "Voiced velar stop. Neutralized under K-class (which covers k/g/q). A separate G-series would exist only if the K-class neutralization fails systematically.",
+      "priority": "LOW",
+      "languages_requiring": {
+        "northwest_semitic": "Moderate—g-roots exist but K-class handles them",
+        "luwian": "k/g distinction relevant in Anatolian names",
+        "middle_egyptian": "g/k/q transcriptional pressure"
+      },
+      "likely_script_strategy": "K-class neutralization. No dedicated G-series expected.",
+      "candidate_signs": [],
+      "status": "LIKELY_NEUTRALIZED",
+      "notes": "With *34 read as QI, the readings qi, gi and ga give the same root matches, so nothing separates a G-series from the K-class.",
+      "lipinski_velar_system": {
+        "source": "OLA80 §§18.1-4, 19.12",
+        "ps_inventory": "PS has three velars: voiceless k, voiced g, emphatic q. Arabic q is 'fortis' (Sibawayh's maġhūra), not necessarily voiced (§18.2).",
+        "cuneiform_neutralization": "Cuneiform never distinguishes final k/g/q. Initial distinction partial and late (Old Babylonian on). AG = ag/ak/aq, GAB = gab/qab, GIM = gim/kim/qim (§18.3). Linear A's KA/KI/KU neutralization is the exact parallel.",
+        "neo_assyrian": "In Neo-Assyrian, [g] and [k] are positional variants—voiced intervocalically. Aramaic mngsr for Mannu-kišarri shows the scribal confusion (§18.4).",
+        "velar_fricatives": "PS also has voiceless ḫ and voiced ġ (velar fricatives, distinct from plosives k/g). Canaanite ḫ/ġ survived as distinct from ḥ/ʿ until the Hellenistic period—Greek Γάζα for ġzt proves ġ in 2nd-millennium Canaanite (§19.12). These are separate from the k/g/q plosive set.",
+        "linear_a_implication": "Three-way k/g/q neutralization under KA-series is typologically normal for syllabic scripts encoding Semitic. The partial QA/QE/QI extension for emphatic uvular mirrors cuneiform attempts at the same distinction."
+      }
+    },
+    {
+      "gap_id": "voiced_velar_fricative_gayin",
+      "phonemes": [
+        "ġ"
+      ],
+      "ipa": "ɣ",
+      "description": "Voiced velar fricative (Arabic ġayn). Distinct from voiced velar plosive /g/ and from voiced pharyngal /ʿ/. Lipiński §19.12 proves ġ survived as a distinct phoneme in 2nd-millennium Canaanite—Greek Γάζα for ġzt, Γοφερα for Hebrew ʿOprā show scribes heard it as /g/ not /ʿ/. PS roots with ġ: √ṣ-ġ-r 'to be small', √n-ġ-r 'to guard' (Ugaritic nġr < nṯr).",
+      "priority": "LOW",
+      "languages_requiring": {
+        "northwest_semitic": "Distinct from ʿ until Hellenistic period. Roots with ġ exist but are low-frequency.",
+        "luwian": "Not required",
+        "middle_egyptian": "Not required"
+      },
+      "likely_script_strategy": "Probably neutralized into K-series (KA/KI/KU), since Greek scribes transcribed ġ as Γ (a velar plosive). Alternatively merged with *306 (ʿA) as the ġ > ʿ merger was already underway in Canaanite.",
+      "candidate_signs": [],
+      "status": "LIKELY_NEUTRALIZED",
+      "notes": "Lipiński §19.12 establishes that ġ was phonemically distinct from ʿ in 2nd-millennium Canaanite—Linear A's substrate almost certainly had it. The neutralization target is ambiguous: K-class (phonetic similarity to /g/) or *306 ʿA-class (later Canaanite merger ġ > ʿ). No corpus evidence distinguishes the two strategies.",
+      "lipinski_reference": {
+        "source": "OLA80 §§19.5-6, 19.12, 19.22",
+        "key_evidence": "Greek Γάζα (ġzt), Γοφερα (ġufrā) vs Ἄκη (ʿky)—Greek scribes distinguished ġ (Γ) from ʿ (zero/vowel). Palaeosyrian: ġ causes a > e like ḥ/ʿ do, distinguishing it from ḫ (§19.5-6). Ugaritic preserves ġ as a separate letter.",
+        "merger_timeline": "Canaanite ġ > ʿ merger late (post-Hellenistic in Hebrew). In the 17th–15th c. BCE window of Linear A, ġ was almost certainly a live phoneme."
+      }
+    },
+    {
+      "gap_id": "additional_vowel_combinations",
+      "phonemes": [
+        "ḤE",
+        "ḤI",
+        "ḤO",
+        "ḤU",
+        "ṬE",
+        "ṬI",
+        "ṬO",
+        "ṬU",
+        "ʿE",
+        "ʿI",
+        "ʿO",
+        "ʿU"
+      ],
+      "ipa": "various",
+      "description": "Even where the consonant gap is filled (e.g., *314 = ḤA, *118 = ṬA), only the /a/ vowel combination is identified. Other vowel combinations for these consonants may exist as separate signs, or the /a/ sign may serve polyvalently for all vowels.",
+      "priority": "MEDIUM",
+      "languages_requiring": {
+        "northwest_semitic": "Any consonant can combine with any vowel",
+        "luwian": "Same",
+        "middle_egyptian": "Same"
+      },
+      "likely_script_strategy": "Polyvalent use of /a/-column signs. None of ~130 extended signs is a strong candidate for a dedicated non-/a/ guttural sign. Each extra consonant has one sign covering all vowel contexts: *314=Ḥ(V), *118=Ṭ(V), *306=ʿ(V), *21F=H(V). Parallels cuneiform practice where guttural signs are vocalically ambiguous.",
+      "candidate_signs": [
+        {
+          "sign": "*305",
+          "occurrences": 20,
+          "positional_behavior": "2 initial, 2 medial, 4 final, 12 standalone",
+          "rationale": "*305 = syllabogram /ḏa/ and logogram ḎABBĀḤŪ, both proposed.",
+          "status": "PROPOSED"
+        },
+        {
+          "sign": "*86",
+          "occurrences": 24,
+          "positional_behavior": "6 initial, 2 final, 16 standalone",
+          "rationale": "*86 = /na/, speculative (0.40): 16 of its 24 tokens stand alone, and NA and *301 already write na."
+        }
+      ],
+      "status": "POLYVALENT"
+    },
+    {
+      "gap_id": "additional_vc_signs",
+      "phonemes": [
+        "an",
+        "un",
+        "ar",
+        "ir",
+        "ur",
+        "al",
+        "il",
+        "ul",
+        "aš",
+        "iš"
+      ],
+      "ipa": "various",
+      "description": "With AU = /aw/ (resolved) and *310 = /in/ (proposed) as VC signs, the script may contain additional VC signs for other common syllable-closing patterns. Semitic morphology requires coda consonants in most words. Some unknown signs with medial distribution may be VC rather than CV.",
+      "priority": "LOW",
+      "status": "SPECULATIVE",
+      "languages_requiring": {
+        "northwest_semitic": "CVC syllables are fundamental to Semitic morphology",
+        "luwian": "Some closed syllables",
+        "middle_egyptian": "CVC common"
+      },
+      "likely_script_strategy": "Most closed syllables handled by dead vowels (standard CV approach). VC signs are innovations for the most frequent coda patterns. /aw/ and /in/ are the two VC signs on record."
+    },
+    {
+      "gap_id": "voiced_labial_bu",
+      "phonemes": [
+        "bu"
+      ],
+      "ipa": "bu",
+      "description": "/bu/ CV slot (PA₃ = /ba/, PU = /pu/): the voiced labial of the u-row.",
+      "priority": "MEDIUM",
+      "candidate_signs": [
+        "*325"
+      ],
+      "candidate_note": "*325 = BU (0.40): U-*325-ZA / A-*325-ZA = ʾubūs / ʾabūs 'stall, storehouse' (Akk. abūsu, pl. ubsātu); rival /ḫu/, ʾuḫuzza(t) 'holding'. The VC /at/ is an alternate (0.25).",
+      "status": "OPEN"
+    },
+    {
+      "gap_id": "voiced_labial_bi",
+      "phonemes": [
+        "bi"
+      ],
+      "ipa": "bi",
+      "description": "/bi/ CV slot: PA/PA₃ prove the script splits p/b in the a-row; no i-row sign carries the voiced labial. Sister gap of voiced_labial_bu.",
+      "priority": "MEDIUM",
+      "candidate_signs": [
+        "*333"
+      ],
+      "candidate_note": "*333 = BI (speculative): renders bīdi Našūka / bīdi Sūka (Ugaritic bd custody formula) on the HTWc3009/3010 roundel pair and biśāmu 'balsam' (√b-ś-m, pre-Canaanite-shift bōśem) on MOZf1. PI-DI unattested corpus-wide (no collision).",
+      "status": "OPEN"
+    }
+  ],
+  "syllabic_behavior_index": {
+    "description": "Positional behaviour of frequent unknown signs, counted in corpus.json: a word token is split at '-' into sign positions and at '+' into the signs of a ligature; a token of one position stands alone. Signs found across word positions are likely syllabic; signs mostly standing alone are likely logographic.",
+    "signs": [
+      {
+        "sign": "*301",
+        "occurrences": 288,
+        "initial": 6,
+        "medial": 23,
+        "final": 7,
+        "standalone": 252,
+        "assessment": "SYLLABIC and logographic: NA (proposed) and the NWY logogram; A-TA-I-*301-WA-JA, read A-TA-I-NA-WA-JA, = ʾatainawaya 'I make myself a dwelling' (√n-w-y; di Mino, Ya Diktu)"
+      },
+      {
+        "sign": "*304",
+        "occurrences": 42,
+        "initial": 2,
+        "medial": 0,
+        "final": 2,
+        "standalone": 38,
+        "assessment": "LOGOGRAPHIC—90% standalone"
+      },
+      {
+        "sign": "*188",
+        "occurrences": 32,
+        "initial": 6,
+        "medial": 0,
+        "final": 2,
+        "standalone": 24,
+        "assessment": "LOGOGRAPHIC—75% standalone"
+      },
+      {
+        "sign": "*118",
+        "occurrences": 26,
+        "initial": 1,
+        "medial": 5,
+        "final": 17,
+        "standalone": 3,
+        "assessment": "SYLLABIC—ṬA (proposed); standing alone before a numeral, the talent logogram (resolved)"
+      },
+      {
+        "sign": "*86",
+        "occurrences": 24,
+        "initial": 6,
+        "medial": 0,
+        "final": 2,
+        "standalone": 16,
+        "assessment": "MOSTLY STANDALONE—syllabic NA speculative"
+      },
+      {
+        "sign": "*306",
+        "occurrences": 22,
+        "initial": 11,
+        "medial": 0,
+        "final": 2,
+        "standalone": 9,
+        "assessment": "SYLLABIC—50% initial; ʿA (proposed)"
+      },
+      {
+        "sign": "*21F",
+        "occurrences": 29,
+        "initial": 9,
+        "medial": 5,
+        "final": 4,
+        "standalone": 11,
+        "assessment": "SYLLABIC and logographic: an optional H-sign (h, ḥ, ḫ), proposed; standing alone with a numeral, the logogram OVISf"
+      },
+      {
+        "sign": "*305",
+        "occurrences": 20,
+        "initial": 2,
+        "medial": 2,
+        "final": 4,
+        "standalone": 12,
+        "assessment": "dual function: logogram ḎABBĀḤŪ and syllabogram /ḏa/, both proposed"
+      },
+      {
+        "sign": "*307",
+        "occurrences": 14,
+        "initial": 1,
+        "medial": 1,
+        "final": 1,
+        "standalone": 11,
+        "assessment": "LOGOGRAPHIC—79% standalone",
+        "candidate_logogram": {
+          "reading": "DUBUR",
+          "meaning": "sanctuary, inner sanctum",
+          "root": "√d-b-r",
+          "confidence": "PROBABLE",
+          "evidence": "PK Za 8 JA-DI-KI-TE-TE-*307-PU₂-RE = PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE: *307 writes DU, 'O Dikte, Mistress of the Dubur' (di Mino, Ya Diktu). VIR+*307 'sanctuary personnel' (KH 9, KH 14); TI-NI-TA · *307 'Tinit of the Sanctuary' (HT 27a); *307 doubled (A 638) heads HT 36, 85a and 97a. PE Wy 5 OLE *307 is two signs.",
+          "orthographic_strategies": [
+            "*307 alone (logographic)",
+            "*307-PU₂-RE (*307 writes DU)",
+            "DU-PU₂-RE (fully phonetic)"
+          ],
+          "standing": "proposed"
+        }
+      },
+      {
+        "sign": "*164",
+        "occurrences": 15,
+        "initial": 1,
+        "medial": 2,
+        "final": 0,
+        "standalone": 12,
+        "assessment": "LOGOGRAPHIC—80% standalone"
+      },
+      {
+        "sign": "*308",
+        "occurrences": 14,
+        "initial": 0,
+        "medial": 0,
+        "final": 2,
+        "standalone": 12,
+        "assessment": "LOGOGRAPHIC—86% standalone"
+      },
+      {
+        "sign": "*310",
+        "occurrences": 10,
+        "initial": 0,
+        "medial": 7,
+        "final": 2,
+        "standalone": 1,
+        "assessment": "VC SYLLABLE—IN (/in/), proposed. Structural parallel to AU=/aw/: it closes syllables. Anchor: KI-*310-RE = kinnār (Hebrew kinnōr \"lyre\")."
+      },
+      {
+        "sign": "*516",
+        "occurrences": 10,
+        "initial": 0,
+        "medial": 0,
+        "final": 1,
+        "standalone": 9,
+        "assessment": "LOGOGRAPHIC—90% standalone"
+      },
+      {
+        "sign": "*311",
+        "occurrences": 10,
+        "initial": 0,
+        "medial": 0,
+        "final": 0,
+        "standalone": 10,
+        "assessment": "LOGOGRAPHIC—100% in ligature *301+*311"
+      },
+      {
+        "sign": "*314",
+        "occurrences": 6,
+        "initial": 1,
+        "medial": 3,
+        "final": 1,
+        "standalone": 1,
+        "assessment": "SYLLABIC—ḤA (proposed)"
+      }
+    ]
+  }
+}

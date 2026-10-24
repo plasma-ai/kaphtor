@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḏ
 desc: "Semitic roots whose first radical is ḏ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # wiki/semitic-roots/ḏ
@@ -55,6 +55,8 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ḏ/3132_finish_off_slaughter|3132_finish_off_slaughter]]: Proto-Semitic *ḏkw, 'finish off, slaughter': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/ḏ/3209_blood|3209_blood]]: Proto-Semitic *ḏVr-, 'blood': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/ḏ/445_go_away|445_go_away]]: Proto-Semitic *ḏVhab-, 'go away': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea|699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea]]: Proto-Semitic *ḏVwVb-, 'flow' 1, 'pour' 2, 'melt' 3, 'dissolve, ooze' 4, 'river', 'stream, torrent' 5: reflexes in 11 language(s).
@@ -63,7 +65,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ḏ/921_irritate|921_irritate]]: Proto-Semitic *ḏVrVʾ-, 'irritate': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḏ/K0699_that|K0699_that]]: Proto-Semitic *ḏV--, 'that...': reflexes in 1 language(s).
+[[wiki/semitic-roots/ḏ/K0699_that|K0699_that]]: Proto-Semitic *ḏV--, 'that...': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/K0703_sing|K0703_sing]]: Proto-Semitic *ḏVmVr-, 'sing': reflexes in 7 language(s).
 

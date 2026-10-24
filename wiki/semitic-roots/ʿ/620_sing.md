@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/620_sing
 title: "*ʕVnVh-: 'sing'"
-desc: "Proto-Semitic *ʕVnVh-, 'sing': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ʕVnVh-, 'sing': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "620"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʕnh |  |  |
+| Syrian Aramaic | ʕny (pa.) (Kogan 2015, ch. 3 §5.2 no. 18) | Kogan 2015, ch. 3 §5.2 no. 18 |  |
+| Arabic | ɣny (II) (Kogan 2015, ch. 3 §5.2 no. 18) | Kogan 2015, ch. 3 §5.2 no. 18 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

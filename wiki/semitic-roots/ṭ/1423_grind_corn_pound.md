@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṭḥn |  |  |
 | Geez | ṭaḥana (LGz. 590) | LGz. 590 | gloss withheld |
 | Ugaritic | ṭḥn (DULAT 875) | DULAT 875 | gloss withheld |
-| Epigraphic South Arabian | ṭḥn (HALOT 374) | HALOT 374 |  |
+| Epigraphic South Arabian | ṭḥn (HALOT 374; Sabaweb lemma 5315) | HALOT 374; Sabaweb lemma 5315 | gloss withheld |
 | Akkadian | ṭēnu (HALOT 374) | HALOT 374 |  |
 | Aramaic | ṭəḥan (LGz. 590) | LGz. 590 |  |
 | Syrian Aramaic | ṭəḥen (LGz. 590) | LGz. 590 |  |

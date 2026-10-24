@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | ENN ažažät \[LGur 123\]; EZ̆A MUH MSQ SOD zazza, CHA ENN GYT zasa, END zassaʔa \[ibid.\]. | LGur 123; ibid. | gloss withheld |
 | Jibbali | héḏé \[JJ 95\]. | JJ 95 | gloss withheld |
 | Hebrew | hāzā (HALOT 243). | HALOT 243 | gloss withheld |
-| Syrian Aramaic | həḏā \[PS 1:973\] (not in Brock) | PS 1:973 |  |
+| Syrian Aramaic | həḏā \[PS 973\] (not in Brock) | PS 973 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

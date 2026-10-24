@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | rīmu (rēmu, riʔmu) OAkk. on \[CAD r 359\], \[AHw. 986\] | CAD r 359; AHw. 986; CAD r 355; CAD r 358; AHw. 986; Salonen Jagd 167ff., 247ff., 253ff | gloss withheld |
 | Ugaritic | rʔum \[DULAT 712\] | DULAT 712 | gloss withheld |
 | Hebrew | rǝʔēm (HALOT 1163), pB. \[Ja. 1437\] | HALOT 1163; Ja. 1437 | gloss withheld |
-| Judaic Aramaic | rǝʔēmā, rēmā \[Ja. 1437\], \[Levy WT II 396\], rʔm \[Sok. 510\]; also rēmānā id. \[Ja. 1475\], \[Levy WT II 421\], \[Levy WTM IV 407\], rymn \[Sok. 523\]. | Ja. 1437; Levy WT II 396; Sok. 510; Ja. 1475; Levy WT II 421; Levy WTM IV 407; Sok. 523 | gloss withheld |
+| Judaic Aramaic | rǝʔēmā, rēmā \[Ja. 1437\], \[Levy WT II 396\], rʔm \[DJPA 510a apud CAL\]; also rēmānā id. \[Ja. 1475\], \[Levy WT II 421\], \[Levy WTM IV 407\], rymn \[DJPA 523b apud CAL\]. | Ja. 1437; Levy WT II 396; DJPA 510a; CAL; Ja. 1475; Levy WT II 421; Levy WTM IV 407; DJPA 523b; CAL | gloss withheld |
 | Syrian Aramaic | raymā 'wild ox, unicorn' \[Brock. 727\], \[PS 3897\]. | Brock. 727; PS 3897 |  |
 | Aramaic | Off. rʔm \[HJ 1042\] (context uncertain). Sam. rʔm \[Tal 807\]. | HJ 1042; Tal 807 | gloss withheld |
 | Modern Aramaic | NSyr. rémâ 'a wild ox' (M 293) | M 293 |  |

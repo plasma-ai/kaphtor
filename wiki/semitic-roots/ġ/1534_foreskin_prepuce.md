@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | urullu \[AHw 1436\] | AHw 1436 | gloss withheld |
 | Canaanite | EG SYLL ḳu4-r=na=ta /\*ɣurlata, ɣurlōta/ \[Hoch 302\] | Hoch 302 | gloss withheld |
 | Hebrew | ʕorlā (HALOT 886) | HALOT 886 | gloss withheld |
-| Judaic Aramaic | ʕurlā, ʕurlǝtā \[Ja 1058\]; ʕorlā, det. ʕrlth \[Sok 420\] | Ja 1058; Sok 420 | gloss withheld |
+| Judaic Aramaic | ʕurlā, ʕurlǝtā \[Ja 1058\]; ʕorlā, det. ʕrlth \[DJPA 420a apud CAL\] | Ja 1058; DJPA 420a; CAL | gloss withheld |
 | Syrian Aramaic | ʕurlā 'uncircumcised', ʕurlūtā 'foreskin' \[Brock 548\] | Brock 548 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

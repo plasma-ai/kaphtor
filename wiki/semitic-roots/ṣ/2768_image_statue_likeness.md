@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ṣlm (DULAT 772) | DULAT 772 | gloss withheld |
 | Phoenician | ṣlm (Krahmalkov 417) | Krahmalkov 417 | gloss withheld |
 | Hebrew | ṣelem (HALOT 1028) | HALOT 1028 | gloss withheld |
-| Aramaic | ṣln, ṣnm (OLA80 §17.4) | OLA80 §17.4 | gloss withheld |
+| Aramaic | Nabataean ṣnm for ṣlm (OLA80 §17.4) | OLA80 §17.4 | gloss withheld |
 | Judaic Aramaic | ṣalmā (HALOT 1028; DJPA 465b apud CAL) | HALOT 1028; DJPA 465b; CAL |  |
 | Syrian Aramaic | ṣalmā, ṣəlemtā (HALOT 1028; Payne Smith 480) | HALOT 1028; Payne Smith 480 |  |
 | Mandaic Aramaic | ṣilma (HALOT 1028; Drower/Macuch 393b apud CAL) | HALOT 1028; Macuch 393b; CAL |  |

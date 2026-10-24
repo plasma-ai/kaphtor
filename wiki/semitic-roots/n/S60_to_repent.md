@@ -29,13 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | nassaha, nassāhna (OLA80 §45.17) | OLA80 §45.17 |  |
+| Geez | nassəḥa, nassāḥna (OLA80 §45.17) | OLA80 §45.17 | gloss withheld |
 | Gurage | nəssa (LGz. 402) | LGz. 402 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-OLA80 §45.17. Ge'ez guttural verb: nassəha 'he repented', nassāhna 'we repented' with lengthened a before vowelless guttural. Distinct from 2563 \*nVṣVḥ- 'be pure, white; shine'.
+OLA80 §45.17. Ge'ez guttural verb: nassəḥa 'he repented', nassāḥna 'we repented' with lengthened a before vowelless guttural. Distinct from 2563 \*nVṣVḥ- 'be pure, white; shine'.
 
 <!-- END kaphtor:record -->

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | salḫ- 'skin when it has been removed from a skinned animal \[BK 1 1121\]; silḫ- 'shed skin of a serpent' \[ibid.\]; mislāḫ- 'skin that has just been removed from an animal; unprepared skin; shed skin of a serpent' \[ibid.\] | BK 1 1121; ibid.; ibid. |  |
 | Akkadian | (?) mašlû OAkk on \[CAD m1 380\], \[AHw 628\]. | CAD m1 380; AHw 628 | gloss withheld |
 | Hebrew | PB šälaḥ 'hide, fresh skin' \[Ja 1580\] | Ja 1580 |  |
-| Judaic Aramaic | šilḥā \[Ja 1580\] (cf. also šiḥlā \[ibid. 1559\], with metathesis if related); šlḥ \[Sok 551\] | Ja 1580; ibid. 1559; Sok 551 | gloss withheld |
+| Judaic Aramaic | šilḥā \[Ja 1580\] (cf. also šiḥlā \[ibid. 1559\], with metathesis if related); šlḥ \[DJPA 551b apud CAL\] | Ja 1580; ibid. 1559; DJPA 551b; CAL | gloss withheld |
 | Syrian Aramaic | šelḥā 'skin, hide' \[Brock 780\]; šǝlāḥǝtā 'shed skin (of serpents)' \[ibid.\]; šǝloḥtā 'skin of a serpent' \[ibid.\]; mǝšallǝḥā 'bark, rind' \[ibid.\] | Brock 780; ibid.; ibid.; ibid. |  |
 | Aramaic | PLM šlḥ \[HJ 1142\] | HJ 1142 | gloss withheld |
 

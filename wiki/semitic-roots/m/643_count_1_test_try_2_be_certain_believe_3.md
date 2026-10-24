@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ʔun 3 |  |  |
 | Hebrew | mny 1, ʔmn 3 (Kogan 2015, ch. 2 §4.2 no. 2) | Kogan 2015, ch. 2 §4.2 no. 2 |  |
 | Epigraphic South Arabian | ʔmn 3 (Kogan 2015, ch. 2 §4.2 no. 2); ʔmn (Sabaweb lemma 3552) | Kogan 2015, ch. 2 §4.2 no. 2; Sabaweb lemma 3552 | gloss withheld |
-| Aramaic | (Palest) hēmīn 3; ʾMN (Aramaic Root Atlas); MNY (Aramaic Root Atlas; DNWSI 660 apud CAL) | Aramaic Root Atlas; Aramaic Root Atlas; DNWSI 660; CAL | gloss withheld |
+| Aramaic | (Palest) hēmīn 3; ʾMN (Aramaic Root Atlas; DNWSI 71 apud CAL); MNY (Aramaic Root Atlas; DNWSI 660 apud CAL) | Aramaic Root Atlas; DNWSI 71; CAL; Aramaic Root Atlas; DNWSI 660; CAL | gloss withheld |
 | Geez | ʾamna (LGz. 24); ʾamna (Dillmann 05469) | LGz. 24; Dillmann 05469 | gloss withheld |
 | Tigre | ʾam(a)na (HALOT 63; Wb. 356a) | HALOT 63 | gloss withheld |
 | Soqotri | ʾemon (LGz. 24) | LGz. 24 | gloss withheld |

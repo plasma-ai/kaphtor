@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | safara 'to write, travel' (BK 1, 1097) | BK 1, 1097 |  |
 | Akkadian | šapāru (CAD Š/1 440) | CAD Š/1 440 | gloss withheld |
-| Ugaritic | spr (DULAT 755) | DULAT 755 | gloss withheld |
+| Ugaritic | spr (DULAT 755); spr (DULAT 756) | DULAT 755; DULAT 756 | gloss withheld |
 | Phoenician | spr (Krahmalkov 347) | Krahmalkov 347 | gloss withheld |
 | Hebrew | sāpar (HALOT 765) | HALOT 765 | gloss withheld |
 | Syrian Aramaic | sefrā; safrūtā (HALOT 766, 768) | HALOT 766, 768 | gloss withheld |

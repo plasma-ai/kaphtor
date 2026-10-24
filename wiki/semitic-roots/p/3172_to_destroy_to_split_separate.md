@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/p/3172_to_destroy_to_split_separate
 title: "*pls: 'to destroy; to split, separate'"
 desc: "Proto-Semitic *pls, 'to destroy; to split, separate': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3172"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *pls: 'to destroy; to split, separate'

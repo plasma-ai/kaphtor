@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | nässa (LGz. 404) | LGz. 404 | gloss withheld |
 | Amorite | nśʾ: jaśśiʾ, naśūʾum (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
 | Punic | nšʾ, nʾšʾ (T 222) | T 222 | gloss withheld |
-| Eblaitic | na-si-NI /naśiʔ(i/u)/, in a-na-a na-si-NI (VE 723; Krebernik 1983, 27–28) | VE 723; Krebernik 1983, 27–28 | gloss withheld |
+| Eblaitic | na-si-NI /nāśiʔ(i/u)/, in a-na-a na-si-NI (VE 723; Krebernik 1983, 27–28) | VE 723; Krebernik 1983, 27–28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

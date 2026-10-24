@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/SA064_INJURY
 title: "*nky: 'INJURY'"
-desc: "Epigraphic South Arabian headword *nky, 'INJURY': reflexes in 4 language(s)."
+desc: "Epigraphic South Arabian headword *nky, 'INJURY': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA064"
@@ -29,10 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nky (SD 96; Biella 304) | SD 96; Biella 304 | gloss withheld |
+| Epigraphic South Arabian | Sab nky (SD 96; Biella 304; Sabaweb lemma 1448) | SD 96; Biella 304; Sabaweb lemma 1448 | gloss withheld |
 | Arabic | Ar nakâ (Biella 304) | Biella 304 | gloss withheld |
 | Harari | näkaʾa \[LHar 118\] | LHar 118 | gloss withheld |
 | Geez | nakaya (LLA 669) | LLA 669 |  |
+| Hebrew | nky (hip.) (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
+| Syrian Aramaic | nkā (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
+| Jibbali | enké (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
+| Soqotri | mónki (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ś/3181_to_look
 title: "*ŝky: 'to look'"
 desc: "Proto-Semitic *ŝky, 'to look': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3181"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ŝky: 'to look'

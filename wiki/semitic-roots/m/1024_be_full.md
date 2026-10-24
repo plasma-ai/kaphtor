@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | mlʾ (Krahmalkov 282) | Krahmalkov 282 | gloss withheld |
 | Hebrew | mlʔ |  |  |
 | Ugaritic | mlʾ (CUC; DULAT 539) | CUC; DULAT 539 | gloss withheld |
-| Epigraphic South Arabian | Sab mlʾ (SD 85; Biella 274, 275) | SD 85; Biella 274, 275 | gloss withheld |
+| Epigraphic South Arabian | Sab mlʾ (SD 85; Biella 274, 275; Sabaweb lemma 4535) | SD 85; Biella 274, 275; Sabaweb lemma 4535 | gloss withheld |
 | Judaic Aramaic | malyā (HALOT 584; DJPA 309a apud CAL) | HALOT 584; DJPA 309a; CAL | gloss withheld |
 | Amorite | mlʾ: jāmliʾ (Gelb AS 21, 25) | Gelb AS 21 25 | gloss withheld |
 | Akkadian | malû 'be(come) full' | Anderson–Moser 2024 root mlʾ |  |

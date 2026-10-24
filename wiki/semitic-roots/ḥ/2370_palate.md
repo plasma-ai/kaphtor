@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | hinka 2 \[DM 147\] | DM 147 | gloss withheld |
 | Jibbali | ḥónúk, pl. aḥnik \[JJ 112\] | JJ 112 | gloss withheld |
 | Hebrew | ḥēk, with suff. ḥikk- 2, (HALOT 313) (&lt;\*ḥikk- &lt;\*ḥink-); PB ḥănīkayim (dual) \[Ja 483\] (formed after a different derivational pattern preserving -n-) | HALOT 313; Ja 483 | gloss withheld |
-| Judaic Aramaic | ḥikkā 2 \[Ja 455\]; ḥk (det. ḥykh) do. \[Sok 200\] | Ja 455; Sok 200 | gloss withheld |
+| Judaic Aramaic | ḥikkā 2 \[Ja 455\]; ḥk (det. ḥykh) do. \[DJPA 200a apud CAL\] | Ja 455; DJPA 200a; CAL | gloss withheld |
 | Aramaic | OFF ḥnk 2 \[HJ 338\] | HJ 338 | gloss withheld |
 | Syrian Aramaic | ḥenkā \[HALOT 313\] | HALOT 313 | gloss withheld |
 | Harsusi | ḥénnek, pl. ḥenōket \[JH 60\] | JH 60 | gloss withheld |

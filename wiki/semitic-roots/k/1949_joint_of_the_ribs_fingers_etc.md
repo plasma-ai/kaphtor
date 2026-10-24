@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | giṭra, also \[DM 90\]. | DM 90 | gloss withheld |
 | Biblical Aramaic | \*ḳǝṭar (pl. ḳiṭrīn) 'joint' (BDB 1111). | BDB 1111 |  |
 | Phoenician | ḳṣrt \[T 292\]. | T 292 | gloss withheld |
-| Judaic Aramaic | ḳiṭrā 'joint' \[Ja 1358\]. | Ja 1358 |  |
+| Judaic Aramaic | ḳiṭrā 'knot, band' \[Ja 1358\]. | Ja 1358 |  |
 | Syrian Aramaic | ḳǝṭartā 'joint (of a finger etc.)' \[Brock 662\] | Brock 662 |  |
 | Eblaitic | gi-zi-lu-um /ḳiṣrum/ (SED I 139; VE 992; Krebernik 1983, 36) | SED I 139; VE 992; Krebernik 1983, 36 |  |
 

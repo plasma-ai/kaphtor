@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Sod mäṭṭam |  |  |
 | Hebrew | māṣā |  | gloss withheld |
 | Amharic | mäṭṭa (Kogan 2015, ch. 7 §2.3 no. 16) | Kogan 2015, ch. 7 §2.3 no. 16 |  |
-| Epigraphic South Arabian | mẓʔ |  | gloss withheld |
+| Epigraphic South Arabian | mẓʔ (Sabaweb lemma 2239) | Sabaweb lemma 2239 | gloss withheld |
 | Syrian Aramaic | mṣʔ |  | gloss withheld |
 | Tigrinya | mäṣʔe (Kogan 2015, ch. 7 §2.3 no. 16) | Kogan 2015, ch. 7 §2.3 no. 16 |  |
 | Aramaic | məṣā (LGz. 369) | LGz. 369 | gloss withheld |

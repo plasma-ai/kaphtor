@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʔtw 2 |  |  |
 | Geez | ʔtw 3 |  |  |
 | Hebrew | ʔty 2 |  |  |
-| Epigraphic South Arabian | ʔtw 2 |  |  |
+| Epigraphic South Arabian | ʔtw 2 (Sabaweb lemma 1393) | Sabaweb lemma 1393 | gloss withheld |
 | Aramaic | ʔty 2 (DNWSI 133 apud CAL) | DNWSI 133; CAL |  |
 | Amorite | ʾtj?: ʾatā (Gelb AS 21, 14) | Gelb AS 21 14 | gloss withheld |
 | Punic | ʾtʾ (T 39) | T 39 | gloss withheld |

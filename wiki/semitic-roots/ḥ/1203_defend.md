@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥmy i,1,19 (Lane 651); ḥmy 'to defend, protect' (BK 1 497) | Lane 651; BK 1 497 |  |
 | Pre-Islamic North Arabian | Safaitic ḥmy (Al-Jallad–Jaworska 86) | Al-Jallad–Jaworska 86 | gloss withheld |
-| Epigraphic South Arabian | Qat ḥmy (LIQ 63 apud SEDonline 761); Sab ḥmy (SD 69) | LIQ 63; SEDonline 761; SD 69 | gloss withheld |
+| Epigraphic South Arabian | Qat ḥmy (LIQ 63 apud SEDonline 761); Sab ḥmy (SD 69; Sabaweb lemma 3319) | LIQ 63; SEDonline 761; SD 69; Sabaweb lemma 3319 | gloss withheld |
 | Jibbali | aḥmí (JL 112 apud SEDonline 761) | JL 112; SEDonline 761 | gloss withheld |
 | Mehri | ḥōmi (ML 182 apud SEDonline 761) | ML 182; SEDonline 761 | gloss withheld |
 | Hebrew | ḥômāh (Biella 179); \*ḥmh (HALOT 326) | Biella 179; HALOT 326 | gloss withheld |

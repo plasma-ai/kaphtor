@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ẓ
 desc: "Semitic roots whose first radical is ẓ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/ẓ
@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ẓ/3101_piece_of_wood|3101_piece_of_wood]]: Proto-Semitic *ṯ̣arb-, 'piece of wood': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ẓ/3122_grow_dark_be_black|3122_grow_dark_be_black]]: Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 16 language(s).
+[[wiki/semitic-roots/ẓ/3122_grow_dark_be_black|3122_grow_dark_be_black]]: Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 19 language(s).
 
-[[wiki/semitic-roots/ẓ/367_flint_1_rock_2|367_flint_1_rock_2]]: Proto-Semitic *ṯ̣u/ir-, 'flint' 1, 'rock' 2: reflexes in 12 language(s).
+[[wiki/semitic-roots/ẓ/367_flint_1_rock_mountain_2|367_flint_1_rock_mountain_2]]: Proto-Semitic *ṯ̣u/ir-, 'flint' 1, 'rock, mountain' 2: reflexes in 13 language(s).
 
 [[wiki/semitic-roots/ẓ/634_think|634_think]]: Proto-Semitic *ṯ̣VnVn-, 'think': reflexes in 2 language(s).
 
@@ -46,8 +46,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/ẓ/K0872_hide|K0872_hide]]: Proto-Semitic *ẓVpVn-, 'hide': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ẓ/K0874_balsam|K0874_balsam]]: Proto-Semitic *ẓVrVw-, 'balsam': reflexes in 6 language(s).
-
-[[wiki/semitic-roots/ẓ/K0875_fast|K0875_fast]]: Proto-Semitic *ẓVwVm-, 'fast': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ẓ/SA131_fine|SA131_fine]]: Epigraphic South Arabian headword *ẓlʕ, 'fine': reflexes in 1 language(s).
 

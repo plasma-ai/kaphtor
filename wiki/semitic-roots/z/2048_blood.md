@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/2048_blood
 title: "*zam- {} *ʒam-: 'blood'"
-desc: "Proto-Semitic *zam- {} *ʒam-, 'blood': reflexes in 5 language(s)."
+desc: "Proto-Semitic *zam- {} *ʒam-, 'blood': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2048"
@@ -34,7 +34,6 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | zma \[DM 168\]; also ʕzma. | DM 168 | gloss withheld |
 | Geez | zam \[LGz 638\]. | LGz 638 | gloss withheld |
 | Modern Arabic | SYR zūm |  | gloss withheld |
-| Aramaic | zəmā (OLA80 §27.30) | OLA80 §27.30 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

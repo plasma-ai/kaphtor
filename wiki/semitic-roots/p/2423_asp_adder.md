@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | pätän (HALOT 990), pB. (Ja. 1255) | HALOT 990; Ja. 1255 | gloss withheld |
-| Judaic Aramaic | pitnā (Ja. 1255), ptn (Sok. 456), Sam. ptn (Tal 718) | Ja. 1255; Sok. 456; Tal 718 | gloss withheld |
+| Judaic Aramaic | pitnā (Ja. 1255), ptn (DJPA 456a apud CAL), Sam. ptn (Tal 718) | Ja. 1255; DJPA 456a; CAL; Tal 718 | gloss withheld |
 | Syrian Aramaic | patnā 'viper, asp' (Brock. 618), pattānā (PS 3345) | Brock. 618; PS 3345 |  |
 | Modern Aramaic | N.-Syr. patnâ 'an asp, an adder' (M 261) | M 261 |  |
 

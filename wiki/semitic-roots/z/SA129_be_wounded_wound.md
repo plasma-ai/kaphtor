@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab zḫn, zḫnt (SD 170; Biella 159) | SD 170; Biella 159 | gloss withheld |
+| Epigraphic South Arabian | Sab zḫn, zḫnt (SD 170; Biella 159; Sabaweb lemma 2728) | SD 170; Biella 159; Sabaweb lemma 2728 | gloss withheld |
 | Arabic | Ar zaxama maxana (Biella 159) | Biella 159 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

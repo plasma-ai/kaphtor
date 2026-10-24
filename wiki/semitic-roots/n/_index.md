@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/n
 desc: "Semitic roots whose first radical is n."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/n
@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/n/1168_to_sleep_slumber|1168_to_sleep_slumber]]: Proto-Semitic *nwm, 'to sleep, slumber': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/n/1196_fire_1_to_sparkle_2|1196_fire_1_to_sparkle_2]]: Proto-Semitic *nūr-, 'fire' 1, 'to sparkle' 2: reflexes in 7 language(s).
+[[wiki/semitic-roots/n/1196_fire_1_to_shine_sparkle_2_light_3|1196_fire_1_to_shine_sparkle_2_light_3]]: Proto-Semitic *nūr-, 'fire' 1, 'to shine, sparkle' 2, 'light' 3: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/n/1230_turn_1_be_bent_2|1230_turn_1_be_bent_2]]: Proto-Semitic *nVyVʕ-, 'turn' 1, 'be bent' 2: reflexes in 2 language(s).
 
@@ -173,7 +173,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/n/2573_to_bite|2573_to_bite]]: Proto-Semitic *nVṯVk-, 'to bite': reflexes in 18 language(s).
 
-[[wiki/semitic-roots/n/2577_shepherd_sheep_breeder_1_sheep_lamb_2|2577_shepherd_sheep_breeder_1_sheep_lamb_2]]: Proto-Semitic *naḳid- 1, *naḳad- 2, 'shepherd, sheep-breeder' 1, 'sheep, lamb' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/n/2577_shepherd_sheep_breeder_1_sheep_lamb_2|2577_shepherd_sheep_breeder_1_sheep_lamb_2]]: Proto-Semitic *naḳid- 1, *naḳad- 2, 'shepherd, sheep-breeder' 1, 'sheep, lamb' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/n/2584_burn|2584_burn]]: Proto-Semitic *ndd, 'burn': reflexes in 10 language(s).
 
@@ -233,6 +233,18 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/n/3146_to_go_down|3146_to_go_down]]: Proto-Semitic *nḥt, 'to go down': reflexes in 6 language(s).
 
+[[wiki/semitic-roots/n/3184_river_valley_wadi|3184_river_valley_wadi]]: Proto-Semitic *naḫl-, 'river valley, wadi': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/n/3188_flame|3188_flame]]: Proto-Semitic *nabal-, 'flame': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/n/3214_to_sieve|3214_to_sieve]]: Proto-Semitic *npy, 'to sieve': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/n/3215_to_sieve|3215_to_sieve]]: Proto-Semitic *nḫl, 'to sieve': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/n/3220_to_be_raw|3220_to_be_raw]]: Proto-Semitic *nyʾ, 'to be raw': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/n/3231_shoe_sandal|3231_shoe_sandal]]: Proto-Semitic *naʿl-, 'shoe, sandal': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/n/382_arrow_1_dart_an_arrow_2|382_arrow_1_dart_an_arrow_2]]: Proto-Semitic *nabl- 1 ~ *nVbul- 2, 'arrow' 1, 'dart (an arrow)' 2: reflexes in 1 language(s).
 
 [[wiki/semitic-roots/n/3_woman|3_woman]]: Proto-Semitic *nišw-, 'woman': reflexes in 6 language(s).
@@ -259,13 +271,13 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/n/59_stranger_foreigner|59_stranger_foreigner]]: Proto-Semitic *nazīl-, 'stranger, foreigner': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/n/622_call_1_speak_2_nominate_3|622_call_1_speak_2_nominate_3]]: Proto-Semitic *nVbVʾ-, 'call' 1, 'speak' 2, 'nominate' 3: reflexes in 7 language(s).
+[[wiki/semitic-roots/n/622_call_1_speak_2_nominate_3|622_call_1_speak_2_nominate_3]]: Proto-Semitic *nVbVʾ-, 'call' 1, 'speak' 2, 'nominate' 3: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/n/629_guard_1_look_2|629_guard_1_look_2]]: Proto-Semitic *nVṯ̣ar-, 'guard' 1, 'look' 2: reflexes in 18 language(s).
 
 [[wiki/semitic-roots/n/655_build|655_build]]: Proto-Semitic *nVdVḳ-, 'build': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/n/682_sprinkle|682_sprinkle]]: Proto-Semitic *nVbVʕ-, 'sprinkle': reflexes in 3 language(s).
+[[wiki/semitic-roots/n/682_sprinkle_flow|682_sprinkle_flow]]: Proto-Semitic *nVbVʕ-, 'sprinkle; flow': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/n/694_be_wet|694_be_wet]]: Proto-Semitic *nVdaw-/*naday-, 'be wet': reflexes in 1 language(s).
 
@@ -290,8 +302,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/n/997_hang|997_hang]]: Proto-Semitic *nVwVʕ-, 'hang': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/n/K0182_name|K0182_name]]: Proto-Semitic *nabah-, 'name': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/n/K0183_flow|K0183_flow]]: Proto-Semitic *nVbVʿ-, 'flow': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/n/K0184_grow_shine_appear_look|K0184_grow_shine_appear_look]]: Proto-Semitic *nabāṭ-, 'grow', 'shine, appear, look': reflexes in 5 language(s).
 
@@ -401,13 +411,11 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/n/S27_jar_wineskin_vessel_lyre_by_shape_transfer|S27_jar_wineskin_vessel_lyre_by_shape_transfer]]: Proto-Semitic *nabl-, 'jar, wineskin, vessel; lyre (by shape transfer)': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/n/S38_to_lift_carry_bear_1_chief_prince_one_lifted_up|S38_to_lift_carry_bear_1_chief_prince_one_lifted_up]]: Proto-Semitic *nśʾ-, 'to lift, carry, bear' 1, 'chief, prince (one lifted up)' 2, 'to take away, forgive' 3: reflexes in 18 language(s).
+[[wiki/semitic-roots/n/S38_to_lift_carry_bear_1_chief_prince_one_lifted_up|S38_to_lift_carry_bear_1_chief_prince_one_lifted_up]]: Proto-Semitic *nśʾ-, 'to lift, carry, bear' 1, 'chief, prince (one lifted up)' 2, 'to take away, forgive' 3: reflexes in 19 language(s).
 
 [[wiki/semitic-roots/n/S55_to_avenge|S55_to_avenge]]: Proto-Semitic *nqm, 'to avenge': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/n/S60_to_repent|S60_to_repent]]: Proto-Semitic *nsḥ, 'to repent': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/n/S65_to_read|S65_to_read]]: Proto-Semitic *nbr, 'to read': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/n/S81_to_kiss|S81_to_kiss]]: Proto-Semitic *nšq, 'to kiss': reflexes in 8 language(s).
 
@@ -425,7 +433,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/n/SA063_MILITIA|SA063_MILITIA]]: Epigraphic South Arabian headword *nkp, 'MILITIA': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/n/SA064_INJURY|SA064_INJURY]]: Epigraphic South Arabian headword *nky, 'INJURY': reflexes in 4 language(s).
+[[wiki/semitic-roots/n/SA064_INJURY|SA064_INJURY]]: Epigraphic South Arabian headword *nky, 'INJURY': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/n/SA065_excavate|SA065_excavate]]: Epigraphic South Arabian headword *nḳl, 'excavate': reflexes in 2 language(s).
 

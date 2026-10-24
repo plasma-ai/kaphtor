@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2718_sacred_grove_pole_goddess_Asherah
 title: "*ʾašēr-at-: 'sacred grove/pole; goddess (Asherah)'"
-desc: "Proto-Semitic *ʾašēr-at-, 'sacred grove/pole; goddess (Asherah)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʾašēr-at-, 'sacred grove/pole; goddess (Asherah)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2718"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʔšrt (T 36) | T 36 | gloss withheld |
 | Hebrew | ʔăšērā (HALOT 99) | HALOT 99 | gloss withheld |
 | Epigraphic South Arabian | ʾṯrt (HALOT 99) | HALOT 99 |  |
+| Judaic Aramaic | ʾăšērtā (HALOT 99) | HALOT 99 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

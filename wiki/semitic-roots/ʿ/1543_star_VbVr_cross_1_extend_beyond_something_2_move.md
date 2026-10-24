@@ -49,6 +49,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-From 2777: Arabic: ʕabara 'to cross, traverse' (BK 2, 184); Akkadian: ebēru 'to cross over' (CAD E 10); Ugaritic: ʕbr 'to cross, pass' (DULAT 141); Phoenician: ʿbr 'trans-riverine region' (Krahmalkov 2000); Hebrew: ʕābar 'to cross over, pass' (HALOT 778); Epigraphic South Arabian: Sab ʿbr 'inf./pp.? ʿbr-m transgress, pass a boundary' (SD 11; Biella 350, 351)
+From 2777: Arabic: ʕabara 'to cross, traverse' (BK 2, 184); Akkadian: ebēru 'to cross over' (CAD E 10); Ugaritic: ʕbr 'to pass, go through' (DULAT 141); Phoenician: ʿbr 'trans-riverine region' (Krahmalkov 2000); Hebrew: ʕābar 'to cross over, pass' (HALOT 778); Epigraphic South Arabian: Sab ʿbr 'inf./pp.? ʿbr-m transgress, pass a boundary' (SD 11; Biella 350, 351)
 
 <!-- END kaphtor:record -->

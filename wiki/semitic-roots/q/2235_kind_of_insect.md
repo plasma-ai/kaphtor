@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Tigre | ḳuttu \[LH 250\]. | LH 250 | gloss withheld |
-| Syrian Aramaic | ḳūtī 'spider and spider web' \[Brock. 656\], ḳǝwātī \[PS 657\]. | Brock. 656; PS 657 |  |
+| Syrian Aramaic | ḳūtī 'spider and spider web' \[Brock. 656\], ḳǝwātī \[PS 3510\]. | Brock. 656; PS 3510 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

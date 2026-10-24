@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | mtn-m \[Aist 199\] | Aist 199 | gloss withheld |
 | Jibbali | mútun \[JJ 76\] | JJ 76 | gloss withheld |
 | Hebrew | motnayim (du.) (HALOT 655) | HALOT 655 | gloss withheld |
-| Judaic Aramaic | motnīn (pl.) \[Ja 752\]; mtn \[Sok 337\] | Ja 752; Sok 337 | gloss withheld |
+| Judaic Aramaic | motnīn (pl.) \[Ja 752\]; mtn \[DJPA 337a apud CAL\] | Ja 752; DJPA 337a; CAL | gloss withheld |
 | Syrian Aramaic | matnātā (pl.) 'loins; ridges of mountains' \[Brock 410\] | Brock 410 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -29,12 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | maqātu/imqut (OLA80 §38.3) | OLA80 §38.3 |  |
+| Akkadian | maqātu/imqut (OLA80 §57.3) | OLA80 §57.3 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-OLA80 §38.3. I-m verb paradigm example for preterite: imqut. Note 1164 \*mVtVḳ- 'be sweet' has the same consonants in a different order.
+OLA80 §57.3: bīt īpušu imqut 'the house which he built collapsed'. Note 1164 \*mVtVḳ- 'be sweet' has the same consonants in a different order.
 
 <!-- END kaphtor:record -->

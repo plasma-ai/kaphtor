@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | pl. ʔammīn 'cubit' (BDB 1081) | BDB 1081 |  |
 | Hebrew | ʔammā (HALOT 61, 62) | HALOT 61, 62 | gloss withheld |
 | Epigraphic South Arabian | SAB ʔmt (pl. ʔmm, ʔmn) \[SD 5; Sabaweb lemma 3550\]; MIN ʔmt \[LM 5\] | SD 5; Sabaweb lemma 3550; LM 5 | gloss withheld |
-| Judaic Aramaic | ʔammǝtā \[Ja 79\]; ʔmh, det. ʔmth \[Sok 61\] | Ja 79; Sok 61 | gloss withheld |
+| Judaic Aramaic | ʔammǝtā \[Ja 79\]; ʔmh, det. ʔmth \[DJPA 61b apud CAL\] | Ja 79; DJPA 61b; CAL | gloss withheld |
 | Syrian Aramaic | ʔammǝtā 'elbow, cubit' \[Brock 24\] | Brock 24 |  |
 | Aramaic | OFF PLM NBT ʔmh do. \[HJ 69-70\] | HJ 69-70 |  |
 | Tigrinya | ʔəmmät 'cubit' \[Bass. 487\] | Bass. 487 |  |

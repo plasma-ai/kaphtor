@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ġ/3164_to_wrap_to_cover
 title: "*ɣpn: 'to wrap, to cover'"
 desc: "Proto-Semitic *ɣpn, 'to wrap, to cover': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3164"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ɣpn: 'to wrap, to cover'

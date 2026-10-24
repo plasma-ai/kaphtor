@@ -44,8 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | baʕál, báʕal/bʕéhl, ʔɔ́ʕɔź (JJ 22) | JJ 22 | gloss withheld |
 | Hebrew | baʕal (HALOT 142, 143); bʕl | HALOT 142, 143 | gloss withheld |
 | Amharic | bal (K 861) | K 861 | gloss withheld |
-| Epigraphic South Arabian | Sab bʿl (SD 25), Qat bʕl (Ricks 31), Min bʕl (LM 19) | SD 25; Ricks 31; LM 19 | gloss withheld |
-| Judaic Aramaic | bʕal (Ja 182), bʕl (Sokoloff 109), baʕal- (Ja 182); bǝʕēl, det. baʕlā (DJPA 108b apud CAL) | Ja 182; Sokoloff 109; Ja 182; DJPA 108b; CAL | gloss withheld |
+| Epigraphic South Arabian | Sab bʿl (SD 25; Sabaweb lemma 1349), Qat bʕl (Ricks 31), Min bʕl (LM 19) | SD 25; Sabaweb lemma 1349; Ricks 31; LM 19 | gloss withheld |
+| Judaic Aramaic | bʕal (Ja 182), bʕl (DJPA 109a apud CAL), baʕal- (Ja 182); bǝʕēl, det. baʕlā (DJPA 108b apud CAL) | Ja 182; DJPA 109a; CAL; Ja 182; DJPA 108b; CAL | gloss withheld |
 | Syrian Aramaic | baʕlā 'lord, husband' (Brock 83), bʕel 'took in marriage' (Brock 84) | Brock 83; Brock 84 |  |
 | Gafat | bal (LGaf 188) | LGaf 188 | gloss withheld |
 | Aramaic | Samal, OAram OffAr, Nab, Palm, Hatra \*bʕl (HJ 182-3); Sam bʕl (Tal 109) | HJ 182-3; Tal 109 | gloss withheld |

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Tigre | ʔashalät \[LH 361\]. | LH 361 | gloss withheld |
 | Mandaic Aramaic | talia \[DM 479\]. | DM 479 | gloss withheld |
-| Syrian Aramaic | ʔātalyā 'dragon; a star which, covering the sun, produces an eclipse' \[Brock. 55\], \[PS 423\] (only 'eclipsis'). | Brock. 55; PS 423 |  |
+| Syrian Aramaic | ʔātalyā 'dragon; a star which, covering the sun, produces an eclipse' \[Brock. 55\], \[PS 423\] (only 'eclipse of the sun or moon'). | Brock. 55; PS 423 |  |
 | Tigrinya | ʔasälät, ʔashalät 'fabulous animal, of immense size and of the crocodile species' \[Bass. 493\]. | Bass. 493 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab rbḫ (SD 114; Biella 476, 477) | SD 114; Biella 476, 477 | gloss withheld |
+| Epigraphic South Arabian | Sab rbḫ (SD 114; Biella 476, 477; Sabaweb lemma 1849) | SD 114; Biella 476, 477; Sabaweb lemma 1849 | gloss withheld |
 | Arabic | Ar and ModYem rabax(a) (cf RoVoc/311; Biella 476). | Biella 476 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

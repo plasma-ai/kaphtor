@@ -6,10 +6,10 @@ tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0494"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
-# *śVtVy-: 'mislead'
+# *śVṭVy-: 'mislead'
 
 [[wiki/semitic-roots/ś/_index|..]]
 

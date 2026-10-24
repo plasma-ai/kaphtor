@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | gwr 2 |  |  |
 | Hebrew | gwr 1 |  |  |
-| Epigraphic South Arabian | Sab gwr (Biella 68) | Biella 68 | gloss withheld |
+| Epigraphic South Arabian | Sab gwr (Biella 68-9; Sabaweb lemma 4177) | Biella 68-9; Sabaweb lemma 4177 | gloss withheld |
 | Geez | tagāwara (LGz. 207) | LGz. 207 | gloss withheld |
 | Tigre | gōra (HALOT 184) | HALOT 184 |  |
 

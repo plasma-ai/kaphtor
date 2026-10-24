@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | ǝffǝñ \[K 1357\] | K 1357 | gloss withheld |
 | Argobba | ǝffǝñ \[LArg. 189\] | LArg. 189 | gloss withheld |
 | Epigraphic South Arabian | SAB ḥfn-nhn (dual) \[Biella 182\]. | Biella 182 | gloss withheld |
-| Judaic Aramaic | ḥupnā, ḥopnā \[Ja 492\]; ḥpn (det. ḥwpnh) do. \[Sok 212\] | Ja 492; Sok 212 | gloss withheld |
+| Judaic Aramaic | ḥupnā, ḥopnā \[Ja 492\]; ḥpn (det. ḥwpnh) do. \[DJPA 212a apud CAL\] | Ja 492; DJPA 212a; CAL | gloss withheld |
 | Syrian Aramaic | ḥupnā 'handful, small fistful' \[Brock 250\] | Brock 250 |  |
 | Aramaic | OFF ḥpn, certain measure of capacity \[HJ 395\] | HJ 395 |  |
 | Geez | ḥafana (LGz. 227) | LGz. 227 | gloss withheld |

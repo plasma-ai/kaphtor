@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | masala 'like' | Anderson–Moser 2024 root mṯl |  |
 | Hebrew | mšl; mōšel (HALOT 647, 648) | HALOT 647, 648 | gloss withheld |
 | Arabic | mṯl, miṯl (HALOT 647, 648) | HALOT 647, 648 |  |
-| Epigraphic South Arabian | mṯl (HALOT 647) | HALOT 647 |  |
+| Epigraphic South Arabian | mṯl (HALOT 647; Sabaweb lemma 3327) | HALOT 647; Sabaweb lemma 3327 | gloss withheld |
 | Syrian Aramaic | məṯal (LGz. 366) | LGz. 366 | gloss withheld |
 | Mandaic Aramaic | mtl (LGz. 366) | LGz. 366 |  |
 | Tigrinya | mäsälä (LGz. 366) | LGz. 366 | gloss withheld |

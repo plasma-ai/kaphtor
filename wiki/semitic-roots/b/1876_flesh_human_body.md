@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | MAL besra \[Berg 15\] MLH besro \[J Mlah 170\] HRT besra \[J Hert 183\] NASS bịsrɔ, busra \[Tser 031\] MMND besrā \[M MND 503, 511\] GZR písṛa \[Nak 82\] IRAN bᵉsrâ \[Pen 65\] | Berg 15; J Mlah 170; J Hert 183; Tser 031; Nak 82; Pen 65 | gloss withheld |
 | Jibbali | bǝŝǝrɛ́t \[JJ 30\] | JJ 30 | gloss withheld |
 | Hebrew | bāŝār (HALOT 164) | HALOT 164 | gloss withheld |
-| Epigraphic South Arabian | SAB bs2r \[SD 33\]. | SD 33 | gloss withheld |
+| Epigraphic South Arabian | SAB bs2r \[SD 33; Sabaweb lemma 3984\]. | SD 33; Sabaweb lemma 3984 | gloss withheld |
 | Judaic Aramaic | bǝsar, bisrā \[Ja 199\], \[DJPA 115b apud CAL\] | Ja 199; DJPA 115b; CAL | gloss withheld |
 | Harari | bäsär \[LHar 47\] | LHar 47 | gloss withheld |
 | Syrian Aramaic | besrā 'flesh' \[Brock 82\] | Brock 82 |  |

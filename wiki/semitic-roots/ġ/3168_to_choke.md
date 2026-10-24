@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ġ/3168_to_choke
 title: "*ɣṭ: 'to choke'"
 desc: "Proto-Semitic *ɣṭ, 'to choke': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3168"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ɣṭ: 'to choke'

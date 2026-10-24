@@ -18,4 +18,5 @@ updated: 2026-10-22T18:14:10Z
 
 ***
 
-Empty until a later wave.
+Each page is generated from `data/linear-a/sign_values.json` by `tools/views/render.py`, with the lexicon words
+written with the sign.

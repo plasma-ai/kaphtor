@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/š/3183_secret_mystery_1_confide_divulge_a_secret_2
 title: "*širr- 1, *šrr 2: 'secret, mystery' 1, 'confide, divulge (a secret)' 2"
 desc: "Proto-Semitic *širr- 1, *šrr 2, 'secret, mystery' 1, 'confide, divulge (a secret)' 2: reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3183"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *širr- 1, *šrr 2: 'secret, mystery' 1, 'confide, divulge (a secret)' 2

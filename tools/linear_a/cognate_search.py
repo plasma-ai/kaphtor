@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """Search for Semitic cognates of a Linear A transliteration.
 
-Pipeline: transliteration → consonantal skeleton → Gordon direct match →
-YasharMana match → Proto-Semitic distance search.
+Pipeline: transliteration → consonantal skeleton → Proto-Semitic and contact-language distance search.
 """
 from __future__ import annotations
 
@@ -19,6 +18,7 @@ if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
     __package__ = "tools.linear_a"
 
+from ..core import data_cache
 from ..core.greek_spelling import lb_token_to_key
 from ..core.normalization import lookup_in
 from ..core.phonetics import (
@@ -34,7 +34,7 @@ from ..core.skeleton import extract_full, extract_skeleton, extract_skeleton_pol
 from ..core.verb_morphology import VerbParse, verbal_parses
 from ..paths import ANE_DATA, CACHE, CONTACT_DATA, LINEAR_A_DATA, SEMITIC_ROOTS_DATA, NotInCheckout
 
-# A local lashon-ha-kretan checkout, the source of the Gordon lexicon when gordon.json is not here.
+# A local lashon-ha-kretan checkout, read for the corpus and the Proto-Semitic roots when data/ lacks them.
 LASHON_DIR = Path(os.environ["LASHON_HA_KRETAN_DIR"]) if os.environ.get("LASHON_HA_KRETAN_DIR") else None
 DATA_DIR = LINEAR_A_DATA
 CACHE_FILE = CACHE / "linear-a" / "cognate_cache.json"
@@ -81,40 +81,16 @@ AKKADIAN_DISTANCES = {**SEMITIC_DISTANCES, ("k", "ḫ"): 0.15}
 _HARDING_DIGRAPHS = (("th", "ṯ"), ("dh", "ḏ"), ("kh", "ḫ"))
 
 
-def _lashon_lexicon(section: str) -> dict[str, dict[str, Any]]:
-    """One section of lashon-ha-kretan's semiticLexicon.js, the source gordon.json is extracted from."""
-    if LASHON_DIR is None or not (LASHON_DIR / "semiticLexicon.js").exists():
-        raise NotInCheckout(f"gordon.json is not in this checkout (looked for {DATA_DIR / 'gordon.json'}; or set "
-                            "LASHON_HA_KRETAN_DIR to a lashon-ha-kretan checkout)")
-    from ..core.js_parser import parse_lexicon
-    return parse_lexicon(LASHON_DIR / "semiticLexicon.js", section)
+def load_lexicon_words() -> dict[str, dict[str, Any]]:
+    """The lexicon's entries keyed by Linear A word: each word's known reading."""
+    return {e["word"]: e for e in data_cache.lexicon().get("entries", []) if e.get("word")}
 
 
-def load_gordon() -> dict[str, dict[str, Any]]:
-    """Load Gordon lexicon from extracted JSON or source JS."""
-    cached = DATA_DIR / "gordon.json"
-    if cached.exists():
-        data = json.loads(cached.read_text(encoding="utf-8"))
-        return data.get("gordon", data)
-    return _lashon_lexicon("gordon")
-
-
-def load_yashar_mana() -> dict[str, dict[str, Any]]:
-    """Load YasharMana lexicon."""
-    cached = DATA_DIR / "gordon.json"
-    if cached.exists():
-        data = json.loads(cached.read_text(encoding="utf-8"))
-        return data.get("yasharMana", {})
-    return _lashon_lexicon("yasharMana")
-
-
-def load_scholarly() -> dict[str, dict[str, Any]]:
-    """Load scholarly lexicon (post-Gordon readings from other scholars)."""
-    cached = DATA_DIR / "gordon.json"
-    if cached.exists():
-        data = json.loads(cached.read_text(encoding="utf-8"))
-        return data.get("scholarly", {})
-    return _lashon_lexicon("scholarly")
+def reading_text(entry: dict[str, Any]) -> str:
+    """A lexicon reading as one line, from the parts it has: reading "meaning" (confidence)."""
+    parts = [entry.get("reading") or "", f"\"{entry['meaning']}\"" if entry.get("meaning") else "",
+             f"({entry['confidence']})" if entry.get("confidence") else ""]
+    return " ".join(p for p in parts if p)
 
 
 def load_compound_morphemes() -> list[dict[str, Any]]:
@@ -1058,45 +1034,6 @@ def search_cognates(
         "matches": [],
     }
 
-    # Step 1: Gordon direct match
-    gordon = load_gordon()
-    match = lookup_in(gordon, transliteration)
-    if match:
-        results["matches"].append({
-            "root": match.get("semitic", ""),
-            "language": "Semitic (Gordon)",
-            "meaning": match.get("meaning", ""),
-            "distance": 0.0,
-            "method": "gordon_direct",
-            "source": match.get("source", ""),
-        })
-
-    # Step 2: YasharMana match
-    ym = load_yashar_mana()
-    ym_match = lookup_in(ym, transliteration)
-    if ym_match:
-        results["matches"].append({
-            "root": ym_match.get("semitic", ""),
-            "language": "Semitic (YasharMana)",
-            "meaning": ym_match.get("meaning", ""),
-            "distance": 0.0,
-            "method": "yashar_mana",
-            "source": ym_match.get("source", ""),
-        })
-
-    # Step 2.5: Scholarly match (post-Gordon readings from other scholars)
-    scholarly = load_scholarly()
-    sch_match = lookup_in(scholarly, transliteration)
-    if sch_match:
-        results["matches"].append({
-            "root": sch_match.get("semitic", ""),
-            "language": "Semitic (Scholarly)",
-            "meaning": sch_match.get("meaning", ""),
-            "distance": 0.0,
-            "method": "scholarly",
-            "source": sch_match.get("source", ""),
-        })
-
     # Morphophonological skeleton variants (surface + nun restorations,
     # III-weak strip, geminate rules) — shared by the Proto-Semitic
     # and Ugaritic distance searches.
@@ -1128,6 +1065,13 @@ def search_cognates(
                 for rule in HISTORICAL_METATHESIS_RULES
                 if rule["rule"] in fired
             }
+
+    # The word's own reading, from the lexicon, ahead of the distance searches.
+    lex = lookup_in(load_lexicon_words(), transliteration)
+    if lex:
+        results["matches"].append({"root": lex.get("reading") or "", "meaning": lex.get("meaning") or "",
+                                   "confidence": lex.get("confidence") or "", "distance": 0.0,
+                                   "method": "lexicon"})
 
     # Step 3: Proto-Semitic distance search (with morphophonological variants).
     # The lens bypasses the cache: cached rows are surface-only.
@@ -1672,9 +1616,7 @@ def reverse_root_search(
     if max_distance is None:
         max_distance = 0.5 if len(root_lower) <= 3 else 0.3
     corpus = load_corpus()
-    gordon = load_gordon()
-    ym = load_yashar_mana()
-    scholarly = load_scholarly()
+    lexicon = load_lexicon_words()
 
     word_inscriptions: dict[str, list[str]] = {}
     for name, entry in corpus.items():
@@ -1704,19 +1646,9 @@ def reverse_root_search(
         if dist > max_distance * max(len(skeleton), visible_root_len, 1):
             continue
 
-        # Check for Gordon/YasharMana/Scholarly reading
-        known_reading = None
-        g = lookup_in(gordon, word)
-        if g:
-            known_reading = f"Gordon: {g.get('meaning', '')} ({g.get('semitic', '')})"
-        else:
-            y = lookup_in(ym, word)
-            if y:
-                known_reading = f"YasharMana: {y.get('meaning', '')} ({y.get('semitic', '')})"
-            else:
-                s = lookup_in(scholarly, word)
-                if s:
-                    known_reading = f"Scholarly: {s.get('meaning', '')} ({s.get('source', '')})"
+        # The word's reading in the lexicon, if it has one
+        lex = lookup_in(lexicon, word)
+        known_reading = reading_text(lex) if lex else None
 
         # Get site info
         sites = set()

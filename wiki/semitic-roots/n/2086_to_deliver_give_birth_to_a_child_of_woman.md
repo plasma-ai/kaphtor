@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ǝntǝfūs \[JM 285\] (-t- stem) | JM 285 | gloss withheld |
 | Soqotri | nífes \[LS 271\] | LS 271 | gloss withheld |
 | Jibbali | ǝnfés \[JJ 182\] | JJ 182 | gloss withheld |
-| Epigraphic South Arabian | SAB nfs1 \[SD 93\] | SD 93 | gloss withheld |
+| Epigraphic South Arabian | SAB nfs1 \[SD 93\]; (Sabaweb lemma 4622) | SD 93; Sabaweb lemma 4622 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | šeʔu, šuʔu Nuzi MA on (CAD Š/3 416; AHw 1294) | CAD Š/2 345; CAD Š/3 416; AHw 1294 | gloss withheld |
 | Tigre | säʕaʕ (LH 194), sǝʕsǝʕa (redupl.) (Ibid.) | LH 194; Ibid. | gloss withheld |
 | Hebrew | pB. šǝʕūʕīt 'a species of beans' (Ja. 1610) | Ja. 1610 |  |
-| Judaic Aramaic | šǝʕītā id. (Ja. 1611) | Ja. 1611 |  |
+| Judaic Aramaic | šǝʕītā 'a species of beans, prob. the Egyptian bean' (Ja. 1611) | Ja. 1611 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

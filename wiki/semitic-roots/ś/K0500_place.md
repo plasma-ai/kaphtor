@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | sām, sym (HALOT 1322) | HALOT 1322 |  |
 | Aramaic | \*sym (HALOT 1322) | HALOT 1322 |  |
 | Mandaic Aramaic | SUM, SIM (HALOT 1322) | HALOT 1322 |  |
-| Epigraphic South Arabian | Sab. šm, šym (HALOT 1322); ts²(y)m (OLA80 §41.23) | HALOT 1322; OLA80 §41.23 | gloss withheld |
+| Epigraphic South Arabian | Sab. šm, šym (HALOT 1322; Sabaweb lemma 2233); ts²(y)m (OLA80 §41.23; Sabaweb lemma 5131) | HALOT 1322; Sabaweb lemma 2233; OLA80 §41.23; Sabaweb lemma 5131 | gloss withheld |
 | Arabic | šāma, šym (HALOT 1322) | HALOT 1322 |  |
 | Tigrinya | säyyämä (LGz. 540) | LGz. 540 | gloss withheld |
 | Amharic | šomä (LGz. 540) | LGz. 540 | gloss withheld |

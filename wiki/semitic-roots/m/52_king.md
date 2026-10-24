@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | mlk (Krahmalkov 285) | Krahmalkov 285 | gloss withheld |
 | Hebrew | mäläk (Kogan 2015, ch. 2 §4.2 no. 38) | Kogan 2015, ch. 2 §4.2 no. 38 |  |
 | Amorite | Ma-la-ak-i-lī (OLA80 §38.10) | OLA80 §38.10 | gloss withheld |
-| Amharic | malik (OLA80 §31.34) | OLA80 §31.34 | gloss withheld |
+| Amharic | amlak, coined from malik (OLA80 §31.34) | OLA80 §31.34 | gloss withheld |
 | Moabite | mlkty (OLA80 §40.6) | OLA80 §40.6 | gloss withheld |
 | Aramaic | malkā (HALOT 591; Qumran 140 apud CAL) | HALOT 591; CAL |  |
 | Geez | malaka (LGz. 343); ʾamlāk (LGz. 344) | LGz. 343; LGz. 344 | gloss withheld |
@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | mälka (LGz. 343) | LGz. 343 | gloss withheld |
 | Tigrinya | mäläḵä (LGz. 343) | LGz. 343 | gloss withheld |
 | Punic | mlk (Krahmalkov 285); mmlkt, mmlkʾt (T 184) | Krahmalkov 285; T 184 | gloss withheld |
-| Epigraphic South Arabian | Sab mlk (Kogan 2015, ch. 2 §4.2 no. 38) | Kogan 2015, ch. 2 §4.2 no. 38 | gloss withheld |
+| Epigraphic South Arabian | Sab mlk (Kogan 2015, ch. 2 §4.2 no. 38; Sabaweb lemma 1371) | Kogan 2015, ch. 2 §4.2 no. 38; Sabaweb lemma 1371 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic mlk (Al-Jallad–Jaworska 97) | Al-Jallad–Jaworska 97 | gloss withheld |
 | Eblaitic | ma-li-gú-um /malikum/ (VE 1088; Krebernik 1983, 38) | VE 1088; Krebernik 1983, 38 | gloss withheld |
 

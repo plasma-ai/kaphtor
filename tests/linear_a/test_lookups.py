@@ -53,6 +53,20 @@ DATING = {
               "best_findspot": "", "structured_context_code": ""},
 }
 CORPUS = {"HT13": {"transliteratedWords": ["KA-U-DE-TA", "KU-RO"]}, "ZAZb3": {"transliteratedWords": ["A-MA-JA"]}}
+LB = "Ventris 1952 (projected via Linear B)"
+REGISTRY = {"metadata": {"total_signs": 3}, "signs": [
+    {"ab_number": "AB01", "name": "da", "rendering": {"unicode": "U+10600"}, "gordon_entries": ["DA-KU-NA"],
+     "readings": [{"value": "da", "consonant": "d", "vowel": "a", "source": LB, "confidence": "HIGH",
+                   "is_primary": True, "implications": [], "status": "conventional"}]},
+    {"ab_number": "AB86", "name": "*86", "rendering": {"unicode": "U+10645"}, "gordon_entries": [],
+     "readings": [{"value": "na", "consonant": "n", "vowel": "a", "source": "di Mino", "confidence": "SPECULATIVE",
+                   "is_primary": True, "implications": [], "status": "speculative"}]},
+    {"ab_number": "AB16", "name": "qa", "rendering": {"unicode": "U+1060F"}, "gordon_entries": [],
+     "readings": [{"value": "qa", "consonant": "q", "vowel": "a", "source": LB, "confidence": "HIGH",
+                   "is_primary": True, "implications": [], "status": "conventional"},
+                  {"value": "za", "consonant": "z", "vowel": "a", "source": "di Mino", "confidence": "LOW",
+                   "is_primary": False, "implications": ["Emphatic/sibilant overlap"], "status": "speculative"}]},
+]}
 
 
 def run(script: str, *args: str, data: Path | None = None, cache: Path | None = None) -> subprocess.CompletedProcess:
@@ -72,7 +86,7 @@ def data(tmp_path):
     folder.mkdir()
     for name, content in [("eteocretan_inscriptions", INSCRIPTIONS), ("eteocretan_word_analysis", WORDS),
                           ("lexicon", LEXICON), ("onomasticon", ONOMASTICON),
-                          ("inscription_dating_metadata", DATING), ("corpus", CORPUS)]:
+                          ("inscription_dating_metadata", DATING), ("corpus", CORPUS), ("sign-registry", REGISTRY)]:
         (folder / f"{name}.json").write_text(json.dumps(content, ensure_ascii=False), encoding="utf-8")
     return tmp_path
 
@@ -123,6 +137,69 @@ def test_dating_filters_by_period_and_by_a_corpus_form(data):
     assert "| HT13 | Haghia Triada | Tablet | LMIB | high | DATED | context | Villa / room 9 |" in table.stdout
 
 
+def test_sign_lookup_shows_each_reading_with_its_status(data):
+    proposed = run("sign_lookup.py", "AB86", data=data)
+    assert proposed.returncode == 0, proposed.stderr
+    assert "/na/ [na] — speculative, SPECULATIVE (primary)" in proposed.stdout
+    conventional = run("sign_lookup.py", "AB01", data=data)
+    assert "/da/ [da] — conventional, HIGH (primary)" in conventional.stdout
+    detail = run("sign_lookup.py", "AB16", "--reading", "za", data=data)
+    assert "Status: speculative" in detail.stdout and "Confidence: LOW" in detail.stdout
+
+
+def test_sign_lookup_polyphonic_names_the_status_of_each_value(data):
+    done = run("sign_lookup.py", "--polyphonic", data=data)
+    assert done.returncode == 0, done.stderr
+    assert "/qa/ (conventional) / /za/ (speculative)" in done.stdout
+    assert "Semitic decipherment" not in done.stdout
+
+
+def test_inscription_image_finds_a_record_through_the_file_index(tmp_path):
+    data = tmp_path / "data"
+    (data / "linear-a").mkdir(parents=True)
+    (data / "linear-a" / "corpus.json").write_text(json.dumps({"CRZf1": {"site": "Crete"}}), encoding="utf-8")
+    index = {"files": {"CRZf1": {"inscription": ["images/CR(?)Zf1-Inscription.jpg"], "facsimile": []}}}
+    (data / "linear-a" / "inscription_image_files.json").write_text(json.dumps(index), encoding="utf-8")
+    lashon = tmp_path / "lashon"
+    (lashon / "images").mkdir(parents=True)
+    (lashon / "images" / "CR(?)Zf1-Inscription.jpg").write_bytes(b"not a real jpeg")
+    env = {**os.environ, "PYTHONDONTWRITEBYTECODE": "1", "KAPHTOR_DATA": str(data),
+           "XDG_CACHE_HOME": str(tmp_path / "cache"), "LASHON_HA_KRETAN_DIR": str(lashon)}
+    done = subprocess.run([sys.executable, str(TOOLS / "inscription_image.py"), "CRZf1", "--json", "--rebuild"],
+                          cwd=ROOT, env=env, capture_output=True, text=True, timeout=120)
+    assert done.returncode == 0, done.stderr
+    image = json.loads(done.stdout)["records"][0]["images"][0]
+    assert (image["relative_path"], image["exists"]) == ("images/CR(?)Zf1-Inscription.jpg", True)
+    (data / "linear-a" / "inscription_image_files.json").unlink()
+    gone = subprocess.run([sys.executable, str(TOOLS / "inscription_image.py"), "CRZf1", "--rebuild"],
+                          cwd=ROOT, env=env, capture_output=True, text=True, timeout=120)
+    assert gone.returncode == 2 and "inscription_image_files.json is not in this checkout" in gone.stderr
+
+
+def test_inscription_image_rebuilds_a_manifest_built_from_other_sources(tmp_path):
+    data = tmp_path / "data"
+    (data / "linear-a").mkdir(parents=True)
+    corpus = data / "linear-a" / "corpus.json"
+    corpus.write_text(json.dumps({"CRZf1": {"site": "Crete"}}), encoding="utf-8")
+    index = {"files": {"CRZf1": {"inscription": ["images/CRZf1-Inscription.jpg"], "facsimile": []}}}
+    (data / "linear-a" / "inscription_image_files.json").write_text(json.dumps(index), encoding="utf-8")
+    lashon = tmp_path / "lashon"
+    (lashon / "images").mkdir(parents=True)
+    (lashon / "images" / "CRZf1-Inscription.jpg").write_bytes(b"not a real jpeg")
+    old = tmp_path / "cache" / "kaphtor" / "linear-a" / "inscription_images.json"   # read from the corpus alone
+    old.parent.mkdir(parents=True)
+    old.write_text(json.dumps({"generated_from": [str(corpus)], "lashon_ha_kretan_dir": str(lashon), "summary": {},
+                               "records": {"CRZf1": {"id": "CRZf1", "images": [], "facsimiles": []}}}),
+                   encoding="utf-8")
+    env = {**os.environ, "PYTHONDONTWRITEBYTECODE": "1", "KAPHTOR_DATA": str(data),
+           "XDG_CACHE_HOME": str(tmp_path / "cache"), "LASHON_HA_KRETAN_DIR": str(lashon)}
+    done = subprocess.run([sys.executable, str(TOOLS / "inscription_image.py"), "CRZf1", "--json"],
+                          cwd=ROOT, env=env, capture_output=True, text=True, timeout=120)
+    assert done.returncode == 0, done.stderr
+    assert [i["relative_path"] for i in json.loads(done.stdout)["records"][0]["images"]] == \
+        ["images/CRZf1-Inscription.jpg"]
+
+
 def save_run(cache: Path, run_id: str, words: list[str]) -> None:
     runs = cache / "kaphtor" / "linear-a" / "runs"
     (runs / run_id).mkdir(parents=True)
@@ -165,6 +242,7 @@ def test_a_missing_run_is_named(tmp_path):
     ("eteocretan_lookup.py", ["--stats"], "eteocretan_inscriptions.json"),
     ("onomasticon_lookup.py", ["--stats"], "onomasticon.json"),
     ("inscription_dating_lookup.py", ["--period", "LMIB"], "inscription_dating_metadata.json"),
+    ("sign_lookup.py", ["AB01"], "sign-registry.json"),
 ])
 def test_a_missing_dataset_is_named(tmp_path, script, args, dataset):
     done = run(script, *args, data=tmp_path)
@@ -178,6 +256,29 @@ def test_eteocretan_lookup_reads_the_shipped_files():
     assert done.returncode == 0, done.stderr
     stats = json.loads(done.stdout)
     assert (stats["inscription_count"], stats["proven_fakes"], stats["word_count"]) == (10, 1, 27)
+
+
+@pytest.mark.data
+def test_the_sign_registry_labels_its_readings_as_sign_values_does():
+    from tools.core.skeleton import SIGN_STATUS
+    signs = json.loads((ROOT / "data" / "linear-a" / "sign-registry.json").read_text(encoding="utf-8"))["signs"]
+    by_ab = {s["ab_number"]: s for s in signs}
+    readings = [(s["ab_number"], r) for s in signs for r in s["readings"]]
+    assert {r["status"] for _, r in readings} <= {"conventional", "proposed", "speculative"}
+    assert all(r["status"] == "conventional" for _, r in readings if r["source"].startswith("Ventris 1952"))
+    assert {r["status"] for r in by_ab["AB86"]["readings"]} == {SIGN_STATUS["*86"]}
+    assert {r["status"] for r in by_ab["A325"]["readings"]} == {SIGN_STATUS["*325"]}
+    assert [by_ab[ab]["readings"] for ab in ("A701", "A704", "A713")] == [[], [], []]  # fraction signs A, E, O
+    assert not [ab for ab, r in readings if r["source"].startswith("Gordon") and r["value"] == "ku"]
+    gordon = {w for s in signs for w in s["gordon_entries"]}
+    assert "KU-RO" in gordon and "KI-RO" not in gordon and "KU-PA₃-NU" in by_ab["AB56"]["gordon_entries"]
+
+
+@pytest.mark.data
+def test_sign_lookup_reads_the_shipped_registry():
+    done = run("sign_lookup.py", "AB86")
+    assert done.returncode == 0, done.stderr
+    assert "/na/ [na] — speculative" in done.stdout
 
 
 @pytest.mark.data

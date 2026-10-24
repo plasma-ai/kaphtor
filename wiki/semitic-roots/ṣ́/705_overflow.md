@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḍfw (Lane 1796) | Lane 1796 |  |
 | Hebrew | ṣwp |  |  |
-| Epigraphic South Arabian | ḍfw |  |  |
+| Epigraphic South Arabian | ḍfw (Sabaweb lemma 4062) | Sabaweb lemma 4062 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

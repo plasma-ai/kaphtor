@@ -62,7 +62,7 @@ if __package__ in (None, ""):
 from ..core import root_match as rm
 from ..core import semantic_gate as sg
 from ..core.root_index import DEFAULT_INDEX, IndexStale, RootIndex, _ro
-from ..paths import LINEAR_A_DATA
+from ..paths import LINEAR_A_DATA, NotInCheckout
 from .validation.root_match_phase0 import GOLD_V3_PATH, gold_guard, gold_sign_groups, sign_group_key  # noqa: F401
 
 GOLD = GOLD_V3_PATH     # the guard's gold set; read at call time
@@ -431,6 +431,11 @@ def main(argv: list[str] | None = None) -> int:
             print(f"refused, gold-set words before the gold run (ref §6): {', '.join(given[w] for w in hits)}\n"
                   "(--gold-run is for the gold run itself)", file=sys.stderr)
             return 3
+    try:
+        competitors = [] if args.no_competitors else competitor_spaces(args.names)
+    except NotInCheckout as e:
+        print(f"stopped: {e}; the competitor null (§2) reads it (--no-competitors runs without it)", file=sys.stderr)
+        return 2
     index_path = Path(args.index)
     try:
         index_sha = _sha256(index_path)
@@ -458,7 +463,7 @@ def main(argv: list[str] | None = None) -> int:
         report = run(words, index=index, exclusions=exclusions, n=args.n,
                      seed=args.seed, families=args.families, names=args.names, top=1 if args.sweep else args.top,
                      breadth=not args.no_breadth,
-                     competitors=[] if args.no_competitors else competitor_spaces(args.names),
+                     competitors=competitors,
                      explained=args.explain, workers=args.workers, contexts=contexts, index_sha=index_sha)
     except sg.TaggerChanged as e:
         print(f"semantic gate refused: {e}", file=sys.stderr)

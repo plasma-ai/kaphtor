@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | lubuštu (CAD L 234); lubšu, lubūšu (HALOT 516) | CAD L 234; HALOT 516 | gloss withheld |
 | Ugaritic | lbš (DULAT 488) | DULAT 488 | gloss withheld |
 | Hebrew | lǝbūš (HALOT 516) | HALOT 516 | gloss withheld |
-| Epigraphic South Arabian | Sab lbs (Biella 257) | Biella 257 | gloss withheld |
+| Epigraphic South Arabian | Sab lbs (Biella 257; Sabaweb lemma 4499) | Biella 257; Sabaweb lemma 4499 | gloss withheld |
 | Tigre | lebs (HALOT 516) | HALOT 516 |  |
 | Geez | malbas (HALOT 587) | HALOT 587 |  |
 | Canaanite | malbašu (HALOT 587) | HALOT 587 |  |

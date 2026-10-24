@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2751_cream_curd_butter
 title: "*ḥVmVʾ-at-: 'cream, curd, butter'"
-desc: "Proto-Semitic *ḥVmVʾ-at-, 'cream, curd, butter': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḥVmVʾ-at-, 'cream, curd, butter': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2751"
@@ -34,6 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫimētu (Bab.), ḫimātu (Ass.) (HALOT 325) | HALOT 325 |  |
 | Judaic Aramaic | ḥemʾătā (HALOT 325) | HALOT 325 |  |
 | Epigraphic South Arabian | ḥmʾt (HALOT 325) | HALOT 325 |  |
+| Harsusi | ḥāmi (Kogan 2011, 240) | Kogan 2011, 240 |  |
+| Soqotri | ḥámi (Kogan 2011, 240) | Kogan 2011, 240 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

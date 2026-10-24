@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥaǧǧ- 'pilgrimage' (BK 1, 378) | BK 1, 378 |  |
 | Hebrew | ḥag (HALOT 289) | HALOT 289 | gloss withheld |
-| Epigraphic South Arabian | Sab ḥgg (SD 66; Biella 165, 166) | SD 66; Biella 165, 166 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥgg (SD 66; Biella 165; Sabaweb lemma 4321) | SD 66; Biella 165; Sabaweb lemma 4321 | gloss withheld |
 | Syrian Aramaic | ḥaggā (Kogan 2015, ch. 3 §5.2 no. 23) | Kogan 2015, ch. 3 §5.2 no. 23 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥgg (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |
 

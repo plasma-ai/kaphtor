@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | Pho. ṣʔn \[T 275\], \[Krah. 411\] | T 275; Krah. 411; KAI 26 | gloss withheld |
 | Hebrew | ṣō(ʔ)n (HALOT 992, 993) (ṣōnǟ in Ps. 8.8), pB. \[Ja. 1257\]. | HALOT 992, 993; Ja. 1257 | gloss withheld |
 | Epigraphic South Arabian |  | SD 40; Biella 433; Sabaweb lemma 3044; LM 30; Sima 52ff | source's text withheld |
-| Judaic Aramaic | ʕān (det. ʕānā) \[Ja. 1091\], \[Levy WTM III 666\]; ʕān (pl. ʕānīn) \[Sok. 411\]. | Ja. 1091; Levy WTM III 666; Sok. 411 | gloss withheld |
+| Judaic Aramaic | ʕān (det. ʕānā) \[Ja. 1091\], \[Levy WTM III 666\]; ʕān (pl. ʕānīn) \[DJPA 411b apud CAL\]. | Ja. 1091; Levy WTM III 666; DJPA 411b; CAL | gloss withheld |
 | Syrian Aramaic | ʕānā 'livestock; sheep; herd (of cattle)' \[Brock. 533\], \[PS 2931\]. | Brock. 533; PS 2931 |  |
 | Aramaic | Off. ḳn \[HJ 954\]. Dem. ɣn \[HJ 1263\]. Plm. ʕn \[HJ 954\] (v. \[PAT 398\]). | HJ 954; HJ 1263; HJ 954; PAT 398 | gloss withheld |
 | Modern Aramaic | Maʕl. ʕōna (Berg. 4); Hrt. ʔwana (Ja. Hrt. 182); Krd. wa:na (Kr. 153); NSyr. wânâ (M 81); JNA ʔīwanta (Sabar 93); Tlk. ʔwāna; Tur. ʕwōno (Kuip. 213, Ritter 24) | Berg. 4; Kr. 153; M 81; Sabar 93; Kuip. 213, Ritter 24 | gloss withheld |

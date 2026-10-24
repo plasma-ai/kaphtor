@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | pl. dikrīn |  | gloss withheld |
 | Modern Aramaic | daḫra 3 |  |  |
 | Hebrew | zākar; zēker; zākār |  | gloss withheld |
-| Epigraphic South Arabian | Sab ḏkr |  |  |
+| Epigraphic South Arabian | Sab ḏkr, (Sabaweb lemmas 8158, 1216) | Sabaweb lemmas 8158, 1216 | gloss withheld |
 | Judaic Aramaic | dikr- 2 |  |  |
 | Syrian Aramaic | dekr- 2; dəḵar (LGz. 636; Payne Smith 92) | LGz. 636; Payne Smith 92 |  |
 | Phoenician | zkr (T 94); zkr (Krahmalkov 172) | T 94; Krahmalkov 172 | gloss withheld |

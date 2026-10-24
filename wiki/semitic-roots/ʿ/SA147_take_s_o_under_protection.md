@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʿhd (SD 14; Biella 356) | SD 14; Biella 356 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿhd (SD 14; Biella 356); (Sabaweb lemma 2198) | SD 14; Biella 356; Sabaweb lemma 2198 | gloss withheld |
 | Arabic | Ar ʿhd Dt id. (Biella 356) | Biella 356 |  |
 | Pre-Islamic North Arabian | Safaitic ʿhd (Al-Jallad–Jaworska 51) | Al-Jallad–Jaworska 51 | gloss withheld |
 

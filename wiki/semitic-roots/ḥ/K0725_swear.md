@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ḥalafa 'swear' | Anderson–Moser 2024 root ḥlp |  |
-| Epigraphic South Arabian | Sab. ḥlf (HALOT 1396) | HALOT 1396 |  |
+| Epigraphic South Arabian | Sab. ḥlf (HALOT 1396; Sabaweb lemma 4336) | HALOT 1396; Sabaweb lemma 4336 | gloss withheld |
 | Arabic | ḥalafa (HALOT 1396) | HALOT 1396 |  |
 | Mehri | š-ḥalef (LGz. 229) | LGz. 229 |  |
 

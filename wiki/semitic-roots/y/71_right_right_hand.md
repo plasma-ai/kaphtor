@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | yāmīn (HALOT 415); yəmānī. | HALOT 415 | gloss withheld |
 | Amharic | yäman \[K 1691\]. | K 1691 |  |
 | Epigraphic South Arabian | SAB ymn \[SD 168; Sabaweb lemma 5507\] | SD 168; Sabaweb lemma 5507 | gloss withheld |
-| Judaic Aramaic | yammīnā, yǝmīnā \[Ja 580\]; yammīn \[Sok 242\] | Ja 580; Sok 242 | gloss withheld |
+| Judaic Aramaic | yammīnā, yǝmīnā \[Ja 580\]; yammīn \[DJPA 242a apud CAL\] | Ja 580; DJPA 242a; CAL | gloss withheld |
 | Syrian Aramaic | yammīnā adj. 'right', n. 'right hand' \[Brock 303\] | Brock 303 |  |
 | Aramaic | OFF ymn PLM NBT ymyn \[HJ 461\] | HJ 461 | gloss withheld |
 | Eblaitic | a-me-núm /yaminum/, a-me-tum /yamittum/, i-me-tum /yimittum/ (SED I 263; VE 534; Krebernik 1983, 20) | SED I 263; VE 534; Krebernik 1983, 20 |  |

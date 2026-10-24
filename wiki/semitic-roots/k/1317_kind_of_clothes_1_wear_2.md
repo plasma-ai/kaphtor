@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ks-t 1 |  |  |
 | Hebrew | kǝsūt 1 |  |  |
 | Phoenician | kst (T 148) | T 148 | gloss withheld |
-| Epigraphic South Arabian | Sab ks3w (SD 79) | SD 79 | gloss withheld |
+| Epigraphic South Arabian | Sab ks3w (SD 79); (Sabaweb lemma 4481) | SD 79; Sabaweb lemma 4481 | gloss withheld |
 | Amorite | k?s?w: jiksū, jāksī (Gelb AS 21, 23) | Gelb AS 21 23 | gloss withheld |
 | Syrian Aramaic | kūsītā 'head covering, felt cap, cowl' (Payne Smith 210) | Payne Smith 210 |  |
 | Judaic Aramaic | kesūtaʾ (T 148) | T 148 |  |

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | watārum (Huehnergard 1997 GAk, 530; OLA80 §34.6); šūturu (OLA80 §34.6) | Huehnergard 1997 GAk, 530; OLA80 §34.6; OLA80 §34.6 | gloss withheld |
+| Akkadian | watārum (Huehnergard 1997 GAk, 530); šūturu (OLA80 §34.6) | Huehnergard 1997 GAk, 530; OLA80 §34.6 | gloss withheld |
 | Amorite | jtr: jītar, jatarum, jatrum, jataratum (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

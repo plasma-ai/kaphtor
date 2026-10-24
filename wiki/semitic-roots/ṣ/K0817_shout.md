@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṣaraḥ 'cry' | Anderson–Moser 2024 root ṣrḫ |  |
 | Mandaic Aramaic | ṢRK, ṢRA (HALOT 1055) | HALOT 1055 |  |
 | Akkadian | ṣarāḫu(m) (HALOT 1055) | HALOT 1055 |  |
-| Epigraphic South Arabian | Sab. ṣrḫ (HALOT 1055) | HALOT 1055 |  |
+| Epigraphic South Arabian | Sab. ṣrḫ (HALOT 1055; Sabaweb lemma 5211) | HALOT 1055; Sabaweb lemma 5211 | gloss withheld |
 | Syrian Aramaic | ṣəraḥ (HALOT 1055) | HALOT 1055 |  |
 | Mehri | ṣōreḫ (LGz. 563) | LGz. 563 | gloss withheld |
 | Tigre | ṣärḥa (LGz. 563) | LGz. 563 | gloss withheld |

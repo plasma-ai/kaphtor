@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | kārsa/u (OLA80 §36.12) | OLA80 §36.12 | gloss withheld |
 | Geez | karś (LGz. 294) | LGz. 294 | gloss withheld |
 | Eblaitic | gàr-su-um, gàr-su /karśum/ \[Kreb. 22\], \[Bla. Ebl. No. 53\] | Kreb. 22; Bla. Ebl. No. 53 |  |
-| Judaic Aramaic | karsā, kərēsā \[Ja. 672\]; krs, det. krsh, krysh \[Sok. 270\] | Ja. 672; Sok. 270 | gloss withheld |
+| Judaic Aramaic | karsā, kərēsā \[Ja. 672\]; krs, det. krsh, krysh \[DJPA 270a apud CAL\] | Ja. 672; DJPA 270a; CAL | gloss withheld |
 | Syrian Aramaic | karsā 'venter, uterus' \[Brock. 347\] | Brock. 347 |  |
 | Mandaic Aramaic | karsa \[DM 201\] | DM 201 | gloss withheld |
 | Modern Aramaic | M. Mnd. kars, det. karsa \[Macuch 493, 521, 524\]; Hrt. karsa \[J Hert. 190\]; NAssyr. kīsä \[Tser. 0144\]; Azr. kasa \[Garb. 314\] | Macuch 493, 521, 524; J Hert. 190; Tser. 0144; Garb. 314 | gloss withheld |

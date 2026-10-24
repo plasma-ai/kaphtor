@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/š/K0396_sharp
 title: "*šVnVn-: 'sharp'"
 desc: "Proto-Semitic *šVnVn-, 'sharp': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0396"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *šVnVn-: 'sharp'

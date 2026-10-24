@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | sekk 2 |  |  |
 | Hebrew | skk 2 (HALOT 754) | HALOT 754 |  |
 | Judaic Aramaic | skk pa. 1, 2 (HALOT 754) | HALOT 754 | gloss withheld |
-| Aramaic | SKK 'to cover, screen' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | SKK (Aramaic Root Atlas; CAL s.v. skk) | Aramaic Root Atlas; CAL s.v. skk | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

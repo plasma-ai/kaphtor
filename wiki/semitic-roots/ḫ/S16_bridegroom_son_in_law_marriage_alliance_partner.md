@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫatānu (CAD Ḫ, 148; AHw. 336) | CAD Ḫ, 148; AHw. 336 | gloss withheld |
 | Ugaritic | ḫtn, /ḫ-t-n/ (DULAT 408–409); /ḫatnu/ (UVST 130) | DULAT 408–409; UVST 130 | gloss withheld |
 | Hebrew | ḥātān (חָתָן), ḥōtēn, hitḥattēn (HALOT 364–365) | HALOT 364–365 | gloss withheld |
-| Judaic Aramaic | ḥatnā 'bridegroom' (Jastrow 515) | Jastrow 515 |  |
+| Judaic Aramaic | ḥatnā 'bridegroom' (Jastrow 514) | Jastrow 514 |  |
 | Canaanite | Taanach ḫa-at-nu-tam (Kogan 2015, ch. 3 §5.2 no. 29, fn. 546) | Kogan 2015, ch. 3 §5.2 no. 29, fn. 546 | gloss withheld |
-| Epigraphic South Arabian | Sab ḫtn, Hdr ḫtn (Kogan 2015, ch. 3 §5.2 no. 29) | Kogan 2015, ch. 3 §5.2 no. 29 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫtn, Hdr ḫtn (Kogan 2015, ch. 3 §5.2 no. 29; Sabaweb lemma 8307) | Kogan 2015, ch. 3 §5.2 no. 29; Sabaweb lemma 8307 | gloss withheld |
 | Syrian Aramaic | ḥatnā (Kogan 2015, ch. 3 §5.2 no. 29) | Kogan 2015, ch. 3 §5.2 no. 29 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḫtn (Al-Jallad–Jaworska 82) | Al-Jallad–Jaworska 82 | gloss withheld |
 

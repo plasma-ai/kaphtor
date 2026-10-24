@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kabasa (HALOT 460) | HALOT 460 | gloss withheld |
 | Amorite | kbs (Gelb AS 21, 23) | Gelb AS 21 23 | gloss withheld |
 | Hebrew | k-b-s 'wash by treading' (BDB 460) | BDB 460 |  |
-| Phoenician | kbs (T 137) | T 137 | gloss withheld |
+| Punic | kbs (T 137; HALOT 459) | T 137; HALOT 459 | gloss withheld |
 | Syrian Aramaic | kbaš 'tread down, subdue, conquer' (Payne Smith 204) | Payne Smith 204 |  |
 | Ugaritic | kbs, kbś (DULAT 424); /kābisu/ (UVST 135) | DULAT 424; UVST 135 | gloss withheld |
 

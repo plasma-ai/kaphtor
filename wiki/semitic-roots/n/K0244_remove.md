@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | NŠL (C) 'to send off, remove' (Ja. 941) | Ja. 941 |  |
+| Aramaic | NŠL (C) 'to send off' (Ja. 941) | Ja. 941 |  |
 | Hebrew | našal 'slip' | Anderson–Moser 2024 root nṯl |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

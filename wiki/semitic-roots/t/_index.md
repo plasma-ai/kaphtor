@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/t
 desc: "Semitic roots whose first radical is t."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/t
@@ -15,7 +15,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/t/1083_stay_dwell_sit|1083_stay_dwell_sit]]: Proto-Semitic *tVnuḫ/ʾ-, 'stay, dwell, sit': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/t/1192_weigh|1192_weigh]]: Proto-Semitic *tVkVn-, 'weigh': reflexes in 3 language(s).
+[[wiki/semitic-roots/t/1192_weigh|1192_weigh]]: Proto-Semitic *tVkVn-, 'weigh': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/t/1260_bag|1260_bag]]: Proto-Semitic *tuŝar-, 'bag': reflexes in 1 language(s).
 
@@ -103,6 +103,8 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/t/3025_Tishri_Babylonian_month_VII_autumn|3025_Tishri_Babylonian_month_VII_autumn]]: Proto-Semitic *Tašrītu-, 'Tishri (Babylonian month VII, autumn)': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/t/3182_watercourse_channel|3182_watercourse_channel]]: Proto-Semitic *taʕal-at-, 'watercourse, channel': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/t/336_kind_of_string|336_kind_of_string]]: Proto-Semitic *tikk-, 'kind of string': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/t/337_stick_sceptre|337_stick_sceptre]]: Proto-Semitic *taḳr-, 'stick, sceptre': reflexes in 1 language(s).
@@ -145,7 +147,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/t/688_flow_1_pour_of_rain_2|688_flow_1_pour_of_rain_2]]: Proto-Semitic *tyʕ- ~ *twy, 'flow' 1, 'pour (of rain)' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/t/737_palm_tree|737_palm_tree]]: Proto-Semitic *tam(V)r-, 'palm tree': reflexes in 12 language(s).
+[[wiki/semitic-roots/t/737_palm_tree|737_palm_tree]]: Proto-Semitic *tam(V)r-, 'palm tree': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/t/777_earth_dust|777_earth_dust]]: Proto-Semitic *tur(V)b-, 'earth, dust': reflexes in 3 language(s).
 
@@ -176,8 +178,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/t/K0419_guardroom|K0419_guardroom]]: Proto-Semitic *tVʾ-, 'guardroom': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/t/K0420_desire|K0420_desire]]: Proto-Semitic *tVʾVb-, 'desire': reflexes in 3 language(s).
-
-[[wiki/semitic-roots/t/K0421_err|K0421_err]]: Proto-Semitic *tVʿVw-, 'err': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/t/K0422_beneath|K0422_beneath]]: Proto-Semitic *tVḥVt-, 'beneath': reflexes in 18 language(s).
 

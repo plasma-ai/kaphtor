@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕulliyy-at- |  |  |
-| Ugaritic | ʕly (DULAT 156, 157) | DULAT 156, 157 | gloss withheld |
+| Ugaritic | /ʕ-l-y/ (DULAT 156); ʕly; ʕly (DULAT 157) | DULAT 156; DULAT 157 | gloss withheld |
 | Punic | ʕlt (Krahmalkov 374) | Krahmalkov 374 | gloss withheld |
 | Hebrew | ʕăliyyā (HALOT 832) | HALOT 832 | gloss withheld |
 | Judaic Aramaic | ʿillītā (HALOT 832) | HALOT 832 | gloss withheld |

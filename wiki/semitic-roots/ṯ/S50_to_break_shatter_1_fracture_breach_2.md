@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | šebēru (CAD Š/2 246); šibru | CAD Š/2 246 | gloss withheld |
 | Ugaritic | ṯbr (DULAT 884); yṯbr (KTU 1.2 iv 25, breaking Yamm's skull); ṯbr | DULAT 884; KTU 1.2 iv 25, breaking Yamm's skull | gloss withheld |
-| Amharic | səbära (OLA80 §40.14) | OLA80 §40.14 | gloss withheld |
+| Amharic | səbär-a (OLA80 §40.14) | OLA80 §40.14 | gloss withheld |
 | Tigre | ʾasbara (OLA80 §41.11) | OLA80 §41.11 | gloss withheld |
 | Tigrinya | ʾasbārā (OLA80 §41.11) | OLA80 §41.11 | gloss withheld |
 | Phoenician | šbrt (T 313) | T 313 | gloss withheld |

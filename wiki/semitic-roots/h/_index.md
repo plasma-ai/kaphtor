@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/h
 desc: "Semitic roots whose first radical is h."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/h
@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/h/1552_break_into_small_fragments|1552_break_into_small_fragments]]: Proto-Semitic *huš-, 'break into small fragments': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/1553_tough_grass|1553_tough_grass]]: Proto-Semitic *humṣ-, 'tough grass': reflexes in 1 language(s).
+[[wiki/semitic-roots/h/1553_birth_mark_scar_on_the_skin|1553_birth_mark_scar_on_the_skin]]: Proto-Semitic *humṣ-, 'birth-mark, scar on the skin': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/h/1554_to_be_pregnant_conceive|1554_to_be_pregnant_conceive]]: Proto-Semitic *hry, 'to be pregnant, conceive': reflexes in 6 language(s).
 
@@ -55,7 +55,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/h/1791_young_camel_dromedarius_ass|1791_young_camel_dromedarius_ass]]: Proto-Semitic *hugan-, 'young camel, dromedarius; ass': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/h/1793_kind_of_worm_snake|1793_kind_of_worm_snake]]: Proto-Semitic *hVwVy-, 'kind of worm, snake': reflexes in 4 language(s).
+[[wiki/semitic-roots/h/1793_kind_of_worm_snake|1793_kind_of_worm_snake]]: Proto-Semitic *hVwVy-, 'kind of worm, snake': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/h/2065_to_be_imbecile_weak_minded_mad_mocked_at|2065_to_be_imbecile_weak_minded_mad_mocked_at]]: Proto-Semitic *hll, 'to be imbecile, weak-minded, mad; mocked at': reflexes in 10 language(s).
 
@@ -67,7 +67,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/h/2311_hoe|2311_hoe]]: Proto-Semitic *H/wall-, 'hoe': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/h/240_insect_reptile|240_insect_reptile]]: Proto-Semitic *hāmm-, 'insect, reptile': reflexes in 2 language(s).
+[[wiki/semitic-roots/h/240_insect_reptile|240_insect_reptile]]: Proto-Semitic *hāmm-, 'insect, reptile': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/h/2422_spider_1_ant_2|2422_spider_1_ant_2]]: Proto-Semitic *hab(b)ūr-, 'spider' 1, 'ant' 2: reflexes in 1 language(s).
 
@@ -82,6 +82,8 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/h/3033_hither_here|3033_hither_here]]: Proto-Semitic *halum(ma), 'hither, here': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/h/3036_to_praise_cheer|3036_to_praise_cheer]]: Proto-Semitic *hVll-, 'to praise, cheer': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/h/3186_thunder|3186_thunder]]: Proto-Semitic *hadad-, 'thunder': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/h/453_go_ahead_in_awe|453_go_ahead_in_awe]]: Proto-Semitic *hVṭaʕ-, 'go ahead in awe': reflexes in 1 language(s).
 
@@ -107,8 +109,6 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/h/837_be_thirsty|837_be_thirsty]]: Proto-Semitic *hu/iy[a]m-, 'be thirsty': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/941_scold|941_scold]]: Proto-Semitic *hVsVd-, 'scold': reflexes in 1 language(s).
-
 [[wiki/semitic-roots/h/984_a_little|984_a_little]]: Proto-Semitic *hunay-, 'a little': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/h/K0080_myrtle|K0080_myrtle]]: Proto-Semitic *hadas-, 'myrtle': reflexes in 5 language(s).
@@ -122,8 +122,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/h/K0085_matter|K0085_matter]]: Proto-Semitic *hVwVt-, 'matter': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/h/S40_to_go_walk_travel_1_way_course_2|S40_to_go_walk_travel_1_way_course_2]]: Proto-Semitic *hlk-, 'to go, walk, travel' 1, 'way, course' 2: reflexes in 13 language(s).
-
-[[wiki/semitic-roots/h/S58_to_fulfill|S58_to_fulfill]]: Proto-Semitic *hbr, 'to fulfill': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/h/SA032_prosperity|SA032_prosperity]]: Epigraphic South Arabian headword *hnʾ, 'prosperity': reflexes in 1 language(s).
 

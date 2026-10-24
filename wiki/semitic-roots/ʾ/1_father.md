@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | CHA EZ̆A MUH MSQ GOG ab, ENM GYT aḇ SOD aḇi, CHA EZ̆̆A END aw id. (LGur. 4) | LGur. 4 |  |
 | Phoenician | ʔb id. (T 1) | T 1 |  |
 | Jibbali | ʔiy id. (JJ 1), cf. ʔeb | JJ 1 | gloss withheld |
-| Hebrew | ʔāb id. (HALOT 1) | HALOT 1 |  |
+| Hebrew | ʔāb id. (HALOT 1); Mishnaic ʔabbā (OLA80 §28.13) | HALOT 1; OLA80 §28.13 | gloss withheld |
 | Amharic | abbat id. (K 1199) | K 1199 |  |
 | Epigraphic South Arabian | SAB MIN QAT ʔb id. (SD 1; LM 1; Ricks 3; Sabaweb lemma 1490) | SD 1; LM 1; Ricks 3; Sabaweb lemma 1490 |  |
 | Judaic Aramaic | ʔabbā id. (Ja. 2) | Ja. 2 |  |

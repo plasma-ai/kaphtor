@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | mḫ \[Aist 181\] | Aist 181 | gloss withheld |
 | Modern Aramaic | MMND mōx al-rīša \[M MND 494\] AZRB moxa \[Garb 320\] | Garb 320 | gloss withheld |
 | Hebrew | mōăḥ (HALOT 567) | HALOT 567 | gloss withheld |
-| Judaic Aramaic | mōăḥ (mōḥā) \[Ja 740\]; mwḥ \[Sok 294\] | Ja 740; Sok 294 | gloss withheld |
+| Judaic Aramaic | mōăḥ (mōḥā) \[Ja 740\]; mwḥ \[DJPA 294b apud CAL\] | Ja 740; DJPA 294b; CAL | gloss withheld |
 | Syrian Aramaic | muḥḥā 'brain, marrow' \[Brock 379\] | Brock 379 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

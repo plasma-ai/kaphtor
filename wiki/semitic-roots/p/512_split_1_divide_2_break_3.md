@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | prq 3 |  |  |
 | Syrian Aramaic | prq 2 |  |  |
 | Mehri | ferōq 2 | SEDonline semet 1856 |  |
-| Epigraphic South Arabian | frq, t-frq (LGz. 166) | LGz. 166 | gloss withheld |
+| Epigraphic South Arabian | frq, t-frq (LGz. 166; Sabaweb lemmas 2827, 1469) | LGz. 166; Sabaweb lemmas 2827, 1469 | gloss withheld |
 | Aramaic | pəraq (LGz. 166) | LGz. 166 | gloss withheld |
 | Tigre | färqa (LGz. 166) | LGz. 166 | gloss withheld |
 | Tigrinya | färräqä (LGz. 166) | LGz. 166 | gloss withheld |

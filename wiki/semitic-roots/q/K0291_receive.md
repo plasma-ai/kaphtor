@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0291_receive
 title: "*qubul-: 'receive'"
-desc: "Proto-Semitic *qubul-, 'receive': reflexes in 14 language(s)."
+desc: "Proto-Semitic *qubul-, 'receive': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0291"
@@ -43,6 +43,9 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | əqqebbäla (LGz. 419) | LGz. 419 |  |
 | Harari | (tä)qebäla (LGz. 419) | LGz. 419 |  |
 | Gurage | (tä)qibbälä (LGz. 419) | LGz. 419 |  |
+| Epigraphic South Arabian | Sab qbl; Qat qbl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015, ch. 2 §4.2 no. 31 | gloss withheld |
+| Mehri | qáybəl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015, ch. 2 §4.2 no. 31 | gloss withheld |
+| Jibbali | qēl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015, ch. 2 §4.2 no. 31 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -38,5 +38,5 @@ the same ids. A record's `notes` may discuss how a word is read, as epigraphic c
 The corpus builds on GORILA (Godart and Olivier) and RILA-S1, on [SigLA](https://sigla.phis.me) (Salgarella and
 Castellan) and on [lineara.xyz](https://github.com/mwenge/lineara.xyz) (Hogan). Its readings were checked against
 GORILA, Younger's *Linear A Texts* and the other primary editions, and many were corrected. SigLA's data is under
-CC BY-NC-SA 4.0, and lineara.xyz states no licence. Our corrections and added layers are CC BY 4.0. The underlying
+CC BY-NC-SA 4.0, and lineara.xyz states no licence. Our corrections and added layers, and `census_classes.json`, are CC BY 4.0. The underlying
 texts keep their sources' terms.

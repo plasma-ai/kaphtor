@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥarbā (HALOT 349; DJPA 213b apud CAL) | HALOT 349; DJPA 213b; CAL |  |
 | Soqotri | ḥarib (LGz. 241) | LGz. 241 | gloss withheld |
 | Mandaic Aramaic | harba (LGz. 241; Drower/Macuch 126b apud CAL) | LGz. 241; Macuch 126b; CAL |  |
-| Epigraphic South Arabian | Sab ḥrb (Kogan 2015, ch. 3 §5.3 no. 13) | Kogan 2015, ch. 3 §5.3 no. 13 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥrb (Kogan 2015, ch. 3 §5.3 no. 13; Sabaweb lemma 1707) | Kogan 2015, ch. 3 §5.3 no. 13; Sabaweb lemma 1707 | gloss withheld |
 | Syrian Aramaic | ḥarbā (Kogan 2015, ch. 3 §5.3 no. 13) | Kogan 2015, ch. 3 §5.3 no. 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

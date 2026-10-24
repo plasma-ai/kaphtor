@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḳʷǝlfat 2 |  |  |
 | Modern Aramaic | MAL ḳelfa \[Berg 69\] HRT ḳelpa \[J Hert 196\] NASS ḳalpa \[Tser 1085\] | Berg 69; J Hert 196; Tser 1085 | gloss withheld |
 | Jibbali | ḳiẑifɔ́t \[JJ 145\] | JJ 145 | gloss withheld |
-| Judaic Aramaic | ḳalp̄ā, ḳilp̄ā \[Ja 1381\]; ḳlph, det. ḳlpth \[Sok 495\], ḳlpy, det. ḳlpyth do. \[ibid.\] | Ja 1381; Sok 495; ibid. | gloss withheld |
+| Judaic Aramaic | ḳalp̄ā, ḳilp̄ā \[Ja 1381\]; ḳlph, det. ḳlpth \[DJPA 495b apud CAL\], ḳlpy, det. ḳlpyth \[DJPA 495b apud CAL\] | Ja 1381; DJPA 495b; CAL; DJPA 495b; CAL | gloss withheld |
 | Syrian Aramaic | ḳǝlāpǝtā 'bark, scale, shell' \[Brock 670\] | Brock 670 |  |
 | Hebrew | pB. ḳäläp, ḳlp (SED I 147) | SED I 147 | gloss withheld |
 | Aramaic | qəlap (LGz. 427; CAL s.v. qlp) | LGz. 427; CAL s.v. qlp | gloss withheld |

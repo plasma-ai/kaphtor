@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ʿn/mbʾ (HALOT 851) | HALOT 851 |  |
 | Amorite | ʿinbum, ʾinbum, ʿinbatum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
 | Arabic | ʿinab- (Kogan 2011, 204; Biella 373) | Kogan 2011, 204; Biella 373 | gloss withheld |
-| Epigraphic South Arabian | SAB ʿnb (SD 17; Biella 373; Kogan 2011, 204) | SD 17; Biella 373; Kogan 2011, 204 | gloss withheld |
+| Epigraphic South Arabian | SAB ʿnb (SD 17; Biella 373; Kogan 2011, 204; Sabaweb lemma 1744) | SD 17; Biella 373; Kogan 2011, 204; Sabaweb lemma 1744 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/s
@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/s/1645_gather|1645_gather]]: Proto-Semitic *sVlVḳ-, 'gather': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/s/1646_red_black|1646_red_black]]: Proto-Semitic *saḥm-, 'red, black': reflexes in 2 language(s).
+[[wiki/semitic-roots/s/1646_red_black|1646_red_black]]: Proto-Semitic *saḥm-, 'red, black': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/s/1647_spice_plant_vegetable_groats|1647_spice_plant_vegetable_groats]]: Proto-Semitic *samīd-, 'spice plant, vegetable groats': reflexes in 1 language(s).
 
@@ -155,9 +155,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/s/762_sesam|762_sesam]]: Proto-Semitic *sim-sim-, 'sesam': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/s/833_drink_1_be_satisfied_with_drinking_2_buy_wine_in|833_drink_1_be_satisfied_with_drinking_2_buy_wine_in]]: Proto-Semitic *sVbVʾ-/*sVʾab-, 'drink' 1, 'be satisfied with drinking' 2, 'buy wine in order to drink it' 3: reflexes in 4 language(s).
+[[wiki/semitic-roots/s/833_drink_1_be_satisfied_with_drinking_2_buy_wine_in|833_drink_1_be_satisfied_with_drinking_2_buy_wine_in]]: Proto-Semitic *sVbVʾ-/*sVʾab-, 'drink' 1, 'be satisfied with drinking' 2, 'buy wine in order to drink it' 3: reflexes in 5 language(s).
 
-[[wiki/semitic-roots/s/887_cost_v|887_cost_v]]: Proto-Semitic *siway-, 'cost (v.)': reflexes in 1 language(s).
+[[wiki/semitic-roots/s/887_to_be_equal_to_be_worth_cost|887_to_be_equal_to_be_worth_cost]]: Proto-Semitic *siway-, 'to be equal; to be worth, cost': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/s/K0389_turn|K0389_turn]]: Proto-Semitic *sabab-, 'turn': reflexes in 9 language(s).
 
@@ -170,8 +170,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/s/K0394_move_q|K0394_move_q]]: Proto-Semitic *salad-, 'move?': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/s/K0395_image|K0395_image]]: Proto-Semitic *sVmVl-, 'image': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/s/K0396_sharp|K0396_sharp]]: Proto-Semitic *sanaaen-, 'sharp': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/s/K0397_lack|K0397_lack]]: Proto-Semitic *sanāq-, 'lack': reflexes in 2 language(s).
 
@@ -190,8 +188,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/s/K0404_crush|K0404_crush]]: Proto-Semitic *sVʾVk-, 'crush': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/s/K0405_support|K0405_support]]: Proto-Semitic *sVʿVd-, 'support': reflexes in 6 language(s).
-
-[[wiki/semitic-roots/s/K0407_cry|K0407_cry]]: Proto-Semitic *sVʿVq-, 'cry': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/s/K0408_press|K0408_press]]: Proto-Semitic *sVḫVm-, 'press': reflexes in 2 language(s).
 

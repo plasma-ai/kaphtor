@@ -1,8 +1,7 @@
 """Parse JavaScript Map declarations into Python dicts.
 
-Handles the specific format of LinearAInscriptions.js and semiticLexicon.js:
+Handles the specific format of LinearAInscriptions.js:
   var inscriptions = new Map([["KEY", { ... }], ...]);
-  SEMITIC.gordon = new Map([["KEY", { ... }], ...]);
 
 Uses regex + brace-depth tracking. No external dependencies.
 """
@@ -38,23 +37,6 @@ def parse_inscriptions(filepath: Path) -> dict[str, dict[str, Any]]:
             f"(expected ~{EXPECTED_INSCRIPTION_COUNT})"
         )
     return entries
-
-
-def parse_lexicon(filepath: Path, map_name: str = "gordon") -> dict[str, dict[str, Any]]:
-    """Parse a SEMITIC.* Map from semiticLexicon.js.
-
-    map_name: 'gordon' or 'yasharMana'
-    """
-    text = filepath.read_text(encoding="utf-8")
-
-    # Find SEMITIC.{map_name} = new Map([
-    pattern = rf"SEMITIC\.{re.escape(map_name)}\s*=\s*new\s+Map\(\["
-    match = re.search(pattern, text)
-    if not match:
-        raise JSParseError(f"No SEMITIC.{map_name} Map found")
-
-    start = match.end()
-    return _extract_map_entries(text, start)
 
 
 def _extract_map_entries(text: str, start: int) -> dict[str, dict[str, Any]]:

@@ -9,7 +9,7 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 
 | Script | Purpose | Reads |
 |---|---|---|
-| `aegean_unicode_lookup.py` | Linear A and Linear B signs by value, token, codepoint or glyph; Linear A signs with no codepoint | `sign-registry.json`, `sigla-sign-map.json`, `linear-b-sign-map.json` (not shipped yet) |
+| `aegean_unicode_lookup.py` | Linear A and Linear B signs by value, token, codepoint or glyph; Linear A signs with no codepoint | `sign-registry.json`, `sigla-sign-map.json`, `linear-b-sign-map.json`; `linear_b_unicode_token_overlay.json` when present (not shipped yet) |
 | `comparative_corpus.py` | The comparative Aegean and Near Eastern corpora: list, stats, search | `comparative_corpora/manifest.json` (not shipped yet) |
 | `cretan_hieroglyphic_lookup.py` | Cretan Hieroglyphic signs, their Linear A correspondences and comparanda | `cretan-hieroglyphic/` (not shipped yet) |
 | `egyptian_lookup.py` | The Egyptian contact lexicon by transliteration, root, hieroglyph or Gardiner number | `data/contact/egyptian_lexicon.jsonl`, `egyptian_roots.json` (not shipped yet) |
@@ -19,21 +19,21 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 | `lq.py` | DuckDB SQL over the data: raw queries, and `word`, `root`, `inscription`, `site`, `xref`, `field`, `tier`, `stats`, `audit`, `unread`. A view whose file is not in the checkout is left out, and a query that uses it names the file. Needs the `sql` extra | `lexicon.json`, `onomasticon.json`, `corpus.json`, `translations.json`, `unread_words.json`, `sign_values.json`, `semitic_roots.json`, `data/contact/` |
 | `onomasticon_lookup.py` | The corpus onomasticon: one token, or entries by affiliation, type or provenance, and its counts | `onomasticon.json` |
 | `phaistos_disc_lookup.py` | The Phaistos Disc: signs, groups, sides, patterns, positions, neighbours | `phaistos_disc.json`, `phaistos_disc_sign_map.json` (not shipped yet) |
-| `sign_lookup.py` | One sign by AB number, phonetic value or codepoint, with polyphony and evolution | `sign-registry.json` (not shipped yet) |
+| `sign_lookup.py` | One sign by AB number, phonetic value or codepoint, with each reading's status, polyphony and evolution | `sign-registry.json` |
 
 ## Search and analysis
 
 | Script | Purpose | Reads |
 |---|---|---|
-| `analyze.py` | One word or a batch through skeleton, cognate and context analysis | as `cognate_search.py` |
-| `cognate_search.py` | Semitic and contact-language cognates for a word, a skeleton or a root (`--reverse`) | `corpus.json`, `lexicon.json`, `semitic_roots.json`, `data/contact/`, Gordon and Yashar–Mana lexica from `LASHON_HA_KRETAN_DIR` |
+| `analyze.py` | One inscription or a batch through skeleton, lexicon and cognate analysis; `--mode unknowns` lists frequent words with no lexicon entry | as `cognate_search.py` |
+| `cognate_search.py` | Semitic and contact-language cognates for a word, a skeleton or a root (`--reverse`, which gives each corpus word's lexicon reading) | `corpus.json`, `lexicon.json`, `semitic_roots.json`, `data/contact/`; when present, `compound_morphemes.json`, `luwian_roots.json`, `egyptian_roots.json`, `verb_templates.json` and `data/ane/arabian_onomasticon.jsonl` (not shipped yet), else a lashon-ha-kretan checkout's corpus and roots (`LASHON_HA_KRETAN_DIR`) |
 | `context_search.py` | Where a word, syllabic pattern or root occurs, with co-occurrence | as `cognate_search.py` |
 | `hypothesis_test.py` | Cross-validated decode candidates tested against site, slot and neighbour evidence, with an optional null model | saved runs, `lexicon.json`, `corpus.json`, `linear-a-phrase-grammar/` |
-| `logogram_analyzer.py` | Fifteen-section analysis of one logogram, or an audit of all | `sign_values.json`, `corpus.json`, `lexicon.json` |
+| `logogram_analyzer.py` | Fifteen-section analysis of one logogram, or an audit of all | `sign_values.json`, `sign-registry.json`, `corpus.json`, `lexicon.json`; `site_language_profiles.json` when present (not shipped yet) |
 | `build_root_index.py` | Builds, checks or diffs Shoresh's root index in the user cache (`CACHE/root_index.sqlite`). Until the Semitic contact lexica ship, build with `--allow-missing` | `semitic_roots.json`, `data/contact/` |
-| `root_match.py` | Shoresh: is a sign group closer to a Semitic root than its own decoys (pre-registered in `tools/core/SHORESH.md`). Refuses gold-set words outside the gold run | the root index, the gold set `tests/fixtures/root_match_gold.v3.json`, `corpus.json` |
-| `sign_proposer.py` | Ranked candidate CV values for an undeciphered sign | `sign-registry.json`, `missing_sound_map.json`, `sign-evolution-map.json` (not shipped yet) |
-| `ventris_decode.py` | The Ventris Engine: statistics, grid, propagation, paradigms, ideograms, toponyms | `sign_values.json`, `corpus.json`, `lexicon.json` |
+| `root_match.py` | Shoresh: is a sign group closer to a Semitic root than its own decoys (pre-registered in `tools/core/SHORESH.md`). Refuses gold-set words outside the gold run | the root index, the gold set `tests/fixtures/root_match_gold.v3.json`, `corpus.json`; the competitor lexica `luwian_roots.json`, `egyptian_roots.json` and `hurrian_roots.json` (not shipped yet: pass `--no-competitors`) |
+| `sign_proposer.py` | Ranked candidate CV values for an undeciphered sign | `sign-registry.json`, `sign_values.json`, `corpus.json`, `missing_sound_map.json` (`--polyvalent`); `sign-evolution-map.json`, `rejected_sign_values.json` (not shipped yet) |
+| `ventris_decode.py` | The Ventris Engine: statistics, grid, propagation, paradigms, ideograms, toponyms | `sign_values.json`, `corpus.json`, `lexicon.json`, `semitic_roots.json`, `morphemes.json` |
 | `ventris_propagate.py` | Constraint propagation of sign values across the corpus | as `ventris_decode.py` |
 | `ventris_runs.py` | Saved Ventris Engine runs: list, show, compare two, export one | the run cache, `CACHE/linear-a/runs/` |
 
@@ -60,9 +60,8 @@ install a run; the file it replaces is backed up first). By default outputs go t
 |---|---|---|
 | `fetch_lgpn.py` | Lexicon of Greek Personal Names lookups, cached | network; `CACHE/lgpn/` |
 | `fetch_sigla_drawings.py` | Mirrors the SigLA drawings named in the corpus. Needs the `fetch` extra | `corpus.json`; `CACHE/sigla/` |
-| `inscription_image.py` | Inscription photographs and facsimiles from a lashon-ha-kretan checkout | `LASHON_HA_KRETAN_DIR`; `CACHE/linear-a/` |
-| `ocr_recognize.py` | Sign recognition on an image through the OCR checkout | `LINEAR_A_OCR_DIR`; `CACHE/linear-a/` |
-| `render_sign_acrophony.py` | The CH → Linear A → Linear B → Semitic acrophony table | `cretan-hieroglyphic/`, `sign_acrophony_lineage.json` (not shipped yet); `--out` |
-| `render_sign_chart.py` | Linear A glyph charts and the sign table. Needs the `render` extra | `sign_values.json`, `sign-registry.json` (not shipped yet); `--out` |
+| `inscription_image.py` | An inscription's photographs and facsimiles: list, open, copy, or a contact sheet, from a checkout of the image archive | `inscription_image_files.json`, `corpus.json`, `LASHON_HA_KRETAN_DIR`; `CACHE/linear-a/` |
+| `render_sign_acrophony.py` | The CH → Linear A → Linear B → Semitic acrophony table | `sign-registry.json`; `cretan-hieroglyphic/`, `sign_acrophony_lineage.json` (not shipped yet); `--out` |
+| `render_sign_chart.py` | Linear A glyph charts and the sign table. Needs the `render` extra | `sign_values.json`, `sign-registry.json`; `--out` |
 
 Run one from the repository root, for example `uv run tools/linear_a/eteocretan_lookup.py --stats`.

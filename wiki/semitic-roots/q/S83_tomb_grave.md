@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Aramaic | qbrʾ; Nab. kprʾ (OLA80 §11.4) | OLA80 §11.4 | gloss withheld |
-| Epigraphic South Arabian | Sab qbr (SD 38, 103) | SD 38, 103 | gloss withheld |
+| Epigraphic South Arabian | Sab qbr (SD 103; Sabaweb lemma 4734) | SD 103; Sabaweb lemma 4734 | gloss withheld |
 | Ugaritic | qbr (Tropper UG §73.243); /qubūru/ (UVST 172) | Tropper UG §73.243; UVST 172 | gloss withheld |
 | Hebrew | qeber, qəbūrā, qbr (HALOT 1061, 1064) | HALOT 1061, 1064 | gloss withheld |
 | Judaic Aramaic | qibrā, qəbūrtā, qbr (HALOT 1061, 1064; DJPA 473b apud CAL) | HALOT 1061, 1064; DJPA 473b; CAL | gloss withheld |

@@ -34,10 +34,10 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | sūnu OAkk CAD s 386; AHw 1059 | CAD s 386; AHw 1059 | gloss withheld |
 | Harari | šān |  | gloss withheld |
 | Harsusi | ṯennét (SED II 335) | SED II 335 | gloss withheld |
-| Amharic | čən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
-| Gurage | čən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
-| Argobba | čən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
-| Gafat | čən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
+| Amharic | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
+| Gurage | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
+| Argobba | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
+| Gafat | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

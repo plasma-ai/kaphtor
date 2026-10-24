@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab s2tʾ (SD 135) | SD 135 | gloss withheld |
+| Epigraphic South Arabian | Sab s2tʾ (SD 135; Sabaweb lemma 2029) | SD 135; Sabaweb lemma 2029 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

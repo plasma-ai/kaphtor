@@ -67,7 +67,7 @@ SIGN_DECOMPOSITION: dict[str, SignDecomposition] = {
     "*314": ("ḥ", "a"),    # ḥet (voiceless pharyngeal)
     "*21F": ("h", "a"),    # he (voiceless laryngeal)
     "*118": ("ṭ", "a"),    # emphatic dental
-    "*86": ("n", "a"),     # /na/; the emphatic ṇ is an alternate (phonetics folds ṇ to n)
+    "*86": ("n", "a"),     # /na/, speculative; the emphatic ṇ is an alternate (phonetics folds ṇ to n)
     "*324": ("s", "o"),    # SO (Linear A has no other SO sign); ʾA is the alternate
     "*34": ("q", "i"),     # QI
     "*325": ("b", "u"),    # BU (voiced labial)
@@ -84,9 +84,9 @@ SIGN_DECOMPOSITION: dict[str, SignDecomposition] = {
 SIGN_STATUS: dict[str, str] = {
     "AU": "resolved",
     "PA3": "proposed", "JU": "proposed", "ZU": "proposed", "*306": "proposed",
-    "*86": "proposed", "*28B": "proposed", "*310": "proposed", "*301": "proposed",
+    "*28B": "proposed", "*310": "proposed", "*301": "proposed",
     "*314": "proposed", "*21F": "proposed", "*118": "proposed", "*34": "proposed", "*305": "proposed",
-    "*324": "speculative", "*325": "speculative", "*47": "speculative",
+    "*86": "speculative", "*324": "speculative", "*325": "speculative", "*47": "speculative",
 }
 
 

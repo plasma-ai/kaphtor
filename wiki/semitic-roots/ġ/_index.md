@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ġ
 desc: "Semitic roots whose first radical is ġ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # wiki/semitic-roots/ġ
@@ -81,7 +81,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ġ/3103_to_give_birth_animals|3103_to_give_birth_animals]]: Proto-Semitic *ɣyg, 'to give birth (animals)': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ġ/3115_to_drown|3115_to_drown]]: Proto-Semitic *ɣrḳ, 'to drown': reflexes in 2 language(s).
+[[wiki/semitic-roots/ġ/3115_to_drown|3115_to_drown]]: Proto-Semitic *ɣrḳ, 'to drown': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/3116_to_cover_to_wrap_to_make_obscure_invisible|3116_to_cover_to_wrap_to_make_obscure_invisible]]: Proto-Semitic *ɣmd, 'to cover, to wrap, to make obscure, invisible': reflexes in 2 language(s).
 
@@ -90,6 +90,18 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/ġ/3128_wash_oneself|3128_wash_oneself]]: Proto-Semitic *ġsl, 'wash oneself': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/3134_military_expedition_raid|3134_military_expedition_raid]]: Proto-Semitic *ġzw, 'military expedition, raid': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3164_to_wrap_to_cover|3164_to_wrap_to_cover]]: Proto-Semitic *ɣpn, 'to wrap, to cover': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ġ/3166_to_scoop_up|3166_to_scoop_up]]: Proto-Semitic *ɣrp, 'to scoop up': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ġ/3168_to_choke|3168_to_choke]]: Proto-Semitic *ɣṭ, 'to choke': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ġ/3203_Euphrates_poplar|3203_Euphrates_poplar]]: Proto-Semitic *ɣarab-, 'Euphrates poplar': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3210_stiff_hair|3210_stiff_hair]]: Proto-Semitic *ɣapar-, 'stiff hair': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3211_man|3211_man]]: Proto-Semitic *ɣayg-, 'man': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/778_dust|778_dust]]: Proto-Semitic *ɣabar-, 'dust': reflexes in 2 language(s).
 

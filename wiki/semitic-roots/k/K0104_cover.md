@@ -39,4 +39,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+HALOT 487 compares Akk. kašû 'to cover' (CAD K 294), with š against Hebrew s. Noun kusītu, kǝsūt 'garment, covering': 1317.
+
 <!-- END kaphtor:record -->

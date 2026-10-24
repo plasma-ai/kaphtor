@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/2314_barley_grass_straw_1_wheat_2
 title: "*ŝaʕVr- 1; Eth. *ŝǝr(-n)ay- 2: 'barley', 'grass, straw' 1, 'wheat' 2"
-desc: "Proto-Semitic *ŝaʕVr- 1; Eth. *ŝǝr(-n)ay- 2, 'barley', 'grass, straw' 1, 'wheat' 2: reflexes in 18 language(s)."
+desc: "Proto-Semitic *ŝaʕVr- 1; Eth. *ŝǝr(-n)ay- 2, 'barley', 'grass, straw' 1, 'wheat' 2: reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2314"
@@ -47,7 +47,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | saʿri (LGz. 525) | LGz. 525 | gloss withheld |
 | Harari | säʾar (LGz. 525) | LGz. 525 |  |
 | Pre-Islamic North Arabian | Safaitic śʿr (Al-Jallad–Jaworska 125) | Al-Jallad–Jaworska 125 | gloss withheld |
-| Epigraphic South Arabian | Sab s₂ʿr (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
+| Epigraphic South Arabian | Sab s₂ʿr (Kogan 2011, 203; Sabaweb lemma 2701) | Kogan 2011, 203; Sabaweb lemma 2701 | gloss withheld |
+| Ugaritic | šʕr (Kogan 2015, ch. 3 §5.2 no. 56) | Kogan 2015, ch. 3 §5.2 no. 56 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

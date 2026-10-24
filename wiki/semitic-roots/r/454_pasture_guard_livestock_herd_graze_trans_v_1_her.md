@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | rʕ 1 |  |  |
 | Jibbali | raʕé 1 |  |  |
 | Hebrew | rʕy 1, rōʕǟ 2 |  |  |
-| Epigraphic South Arabian | rʕy 1 |  |  |
+| Epigraphic South Arabian | rʕy 1 (Sabaweb lemma 7187) | Sabaweb lemma 7187 | gloss withheld |
 | Syrian Aramaic | rǝʕā 1 |  |  |
 | Aramaic | RʿY (Aramaic Root Atlas; Qumran 224 apud CAL) | Aramaic Root Atlas; CAL | gloss withheld |
 | Punic | rʿ 'shepherd' | Anderson–Moser 2024 root rʿy |  |

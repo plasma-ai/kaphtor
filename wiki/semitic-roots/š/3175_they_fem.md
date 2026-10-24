@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/š/3175_they_fem
 title: "*šina: 'they (fem.)'"
 desc: "Proto-Semitic *šina, 'they (fem.)': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3175"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *šina: 'they (fem.)'

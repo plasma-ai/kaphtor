@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | zizānu (sisānu) SB \[AHw. 1534\], sisânu (zizānu) \[CAD s 321\] | AHw. 1534; CAD s 321; Landsberger Fauna 123 | gloss withheld |
 | Gurage | Wol. zizo, Sel. zīzo \[LGur. 719\] | LGur. 719 | gloss withheld |
 | Hebrew | zīz (HALOT 268), pB. \[Ja. 393\] | HALOT 268; Ja. 393 | gloss withheld |
-| Judaic Aramaic | zīzā 'name of a mite in lentils; spider; name of a fabulous bird' \[Ja. 393\], 'worm, mite' \[Levy WT 218\]. | Ja. 393; Levy WT 218 |  |
+| Judaic Aramaic | zīzā 'name of a mite in lentils' \[Ja. 393\], 'worm, mite' \[Levy WT 218\]. | Ja. 393; Levy WT 218 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

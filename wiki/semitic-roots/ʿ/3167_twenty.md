@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ʿ/3167_twenty
 title: "*ʕiŝr-ū: 'twenty'"
 desc: "Proto-Semitic *ʕiŝr-ū, 'twenty': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3167"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ʕiŝr-ū: 'twenty'

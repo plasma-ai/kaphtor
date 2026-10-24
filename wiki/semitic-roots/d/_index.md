@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/d
 desc: "Semitic roots whose first radical is d."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # wiki/semitic-roots/d
@@ -19,7 +19,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/1086_fat|1086_fat]]: Proto-Semitic *duhn-, *daha/in-, 'fat': reflexes in 13 language(s).
 
-[[wiki/semitic-roots/d/1095_circle|1095_circle]]: Proto-Semitic *daw(V)r-, 'circle': reflexes in 3 language(s).
+[[wiki/semitic-roots/d/1095_circle|1095_circle]]: Proto-Semitic *daw(V)r-, 'circle': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/d/1120_door|1120_door]]: Proto-Semitic *dal-t-, 'door': reflexes in 5 language(s).
 
@@ -61,7 +61,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/155_skin_v_1_peel_off_intr_2|155_skin_v_1_peel_off_intr_2]]: Proto-Semitic *dḥs-, 'skin' (v.) 1, 'peel off' (intr.) 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/d/156_blood|156_blood]]: Proto-Semitic *dam-, *ʾa-dam-, 'blood': reflexes in 22 language(s).
+[[wiki/semitic-roots/d/156_blood|156_blood]]: Proto-Semitic *dam-, *ʾa-dam-, 'blood': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/d/157_wound_v|157_wound_v]]: Proto-Semitic *dVm-, 'wound' (v.): reflexes in 1 language(s).
 
@@ -91,7 +91,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/1828_humped_bull_dwarf_antelope|1828_humped_bull_dwarf_antelope]]: Proto-Semitic *diry-/*ʾaddar-, 'humped bull; dwarf-antelope': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/d/1844_red|1844_red]]: Proto-Semitic *(ʾa-)dām-, 'red': reflexes in 7 language(s).
+[[wiki/semitic-roots/d/1844_red|1844_red]]: Proto-Semitic *(ʾa-)dām-, 'red': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/d/1845_all_inhabited_arable_land_earth_area|1845_all_inhabited_arable_land_earth_area]]: Proto-Semitic *daym(-ūm)- ~ *damdam- ~ *ʾadam(-at)-, 'all (inhabited, arable) land, earth, area': reflexes in 8 language(s).
 
@@ -123,7 +123,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/1891_fat_n_fatness|1891_fat_n_fatness]]: Proto-Semitic *dašm/n- {} *dasm/n-, 'fat (n.); fatness': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/d/19_father_s_brother_uncle_foster_father_honourable|19_father_s_brother_uncle_foster_father_honourable]]: Proto-Semitic *dawid-, 'father's brother, uncle; foster-father; honourable title; beloved': reflexes in 19 language(s).
+[[wiki/semitic-roots/d/19_father_s_brother_uncle_foster_father_honourable|19_father_s_brother_uncle_foster_father_honourable]]: Proto-Semitic *dawid-, 'father's brother, uncle; foster-father; honourable title; beloved': reflexes in 20 language(s).
 
 [[wiki/semitic-roots/d/2057_to_be_hump_backed|2057_to_be_hump_backed]]: Proto-Semitic *dbš/ṯ, 'to be hump-backed': reflexes in 2 language(s).
 
@@ -181,7 +181,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/2495_good_sufficient|2495_good_sufficient]]: Proto-Semitic *day-, 'good, sufficient': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/d/2513_mountain_valley|2513_mountain_valley]]: Proto-Semitic *dabr-, 'mountain valley': reflexes in 11 language(s).
+[[wiki/semitic-roots/d/2513_mountain_valley|2513_mountain_valley]]: Proto-Semitic *dabr-, 'mountain valley': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/d/2592_to_arrive_come_walk|2592_to_arrive_come_walk]]: Proto-Semitic *dydy, 'to arrive, come, walk': reflexes in 9 language(s).
 
@@ -209,7 +209,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/2841_couch|2841_couch]]: Proto-Semitic *dargVš-, 'couch': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/d/2845_repel|2845_repel]]: Proto-Semitic *dVpVʿ-, 'repel': reflexes in 7 language(s).
+[[wiki/semitic-roots/d/2845_repel|2845_repel]]: Proto-Semitic *dVpVʿ-, 'repel': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/d/2846_slip|2846_slip]]: Proto-Semitic *dVḥVḍ-, 'slip': reflexes in 5 language(s).
 
@@ -244,6 +244,8 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/d/3085_to_rise_sun|3085_to_rise_sun]]: Proto-Semitic *dnḥ, 'to rise (sun)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/d/3150_to_push|3150_to_push]]: Proto-Semitic *dḥp, 'to push': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/d/3196_thistle|3196_thistle]]: Proto-Semitic *dardar-, 'thistle': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/d/345_trample_down_1_press_squeeze_2_tap_3|345_trample_down_1_press_squeeze_2_tap_3]]: Proto-Semitic *dVg-dVg-, 'trample down' 1, 'press, squeeze' 2, 'tap' 3: reflexes in 5 language(s).
 
@@ -329,7 +331,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/910_be_ill_meaning|910_be_ill_meaning]]: Proto-Semitic *daɣar-, 'be ill-meaning': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/928_black_colour|928_black_colour]]: Proto-Semitic *duhm-, 'black colour': reflexes in 1 language(s).
+[[wiki/semitic-roots/d/928_black_colour|928_black_colour]]: Proto-Semitic *duhm-, 'black colour': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/d/960_darkness|960_darkness]]: Proto-Semitic *dugn-, 'darkness': reflexes in 1 language(s).
 
@@ -347,9 +349,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/d/K0062_fly|K0062_fly]]: Proto-Semitic *dVʾVy-, 'fly': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/K0063_knowledge|K0063_knowledge]]: Proto-Semitic *dVʿVt-, 'knowledge': reflexes in 3 language(s).
+[[wiki/semitic-roots/d/K0063_knowledge|K0063_knowledge]]: Proto-Semitic *dVʿVt-, 'knowledge': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/d/S36_to_judge_govern_1_judgment_legal_case_2_judge_3|S36_to_judge_govern_1_judgment_legal_case_2_judge_3]]: Proto-Semitic *dyn-, 'to judge, govern' 1, 'judgment, legal case' 2, 'judge' 3: reflexes in 16 language(s).
+[[wiki/semitic-roots/d/S36_to_judge_govern_1_judgment_legal_case_2_judge_3|S36_to_judge_govern_1_judgment_legal_case_2_judge_3]]: Proto-Semitic *dyn-, 'to judge, govern' 1, 'judgment, legal case' 2, 'judge' 3: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/d/SA010_sue_prosecute|SA010_sue_prosecute]]: Epigraphic South Arabian headword *dpḳ, 'sue, prosecute': reflexes in 1 language(s).
 

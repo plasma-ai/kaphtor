@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/š/2365_to_serve_service_in_the_cult_worship
 title: "*šrt: 'to serve; service in the cult, worship'"
 desc: "Proto-Semitic *šrt, 'to serve; service in the cult, worship': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2365"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *šrt: 'to serve; service in the cult, worship'

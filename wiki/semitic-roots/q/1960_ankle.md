@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | GOG SOD ǝnḳǝrša do. \[ibid.\] |  |  |
 | Modern Aramaic | NSYR ḳörṣuɫta \[MP 118\] | MP 118 | gloss withheld |
 | Hebrew | \*ḳarsullayim (HALOT 1146) | HALOT 1146 | gloss withheld |
-| Judaic Aramaic | ḳarsullā, ḳarsūlā \[Ja 1423\]; ḳrswl \[Sok 506\] | Ja 1423; Sok 506 | gloss withheld |
+| Judaic Aramaic | ḳarsullā, ḳarsūlā \[Ja 1423\]; ḳrswl \[DJPA 506b apud CAL\] | Ja 1423; DJPA 506b; CAL | gloss withheld |
 | Syrian Aramaic | ḳurṣǝlā 'ankle; wing, armpit' \[Brock 700\] | Brock 700 |  |
 | Amharic | ḳʷərč̣əmč̣əmit (SED I 153) | SED I 153 |  |
 | Argobba | ḳurč̣əmč̣əmit (SED I 153) | SED I 153 |  |

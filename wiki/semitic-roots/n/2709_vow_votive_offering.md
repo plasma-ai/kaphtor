@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ndr (DULAT 613) | DULAT 613 | gloss withheld |
 | Phoenician | ndr (Krahmalkov 326) | Krahmalkov 326 | gloss withheld |
 | Hebrew | neder (HALOT 674) | HALOT 674 | gloss withheld |
-| Epigraphic South Arabian | Sab nḏr (SD 91; Biella 99, 294) | SD 91; Biella 99, 294 | gloss withheld |
+| Epigraphic South Arabian | Sab nḏr (SD 91; Biella 99, 294); (Sabaweb lemmas 4603, 4604) | SD 91; Biella 99, 294; Sabaweb lemmas 4603, 4604 | gloss withheld |
 | Judaic Aramaic | nidrā; ndr (HALOT 674; DJPA 342a apud CAL) | HALOT 674; DJPA 342a; CAL |  |
 | Punic | ndr; ναδωρ (HALOT 674) | HALOT 674 |  |
 | Aramaic | ndr (HALOT 674; DNWSI 717 apud CAL) | HALOT 674; DNWSI 717; CAL |  |

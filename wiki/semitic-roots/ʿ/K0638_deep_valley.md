@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ʿmq 'valley' | Anderson–Moser 2024 root ʿmq |  |
 | Ugaritic | ʿmq /ʿamuqu/ (UVST 160) | UVST 160 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿmq (Biella 372) | Biella 372 | gloss withheld |
-| Judaic Aramaic | ʿamqā; ʿamīq (HALOT 847, 849; Jastrow 1090 apud CAL; DJPA 411a apud CAL) | HALOT 847, 849; Jastrow 1090; CAL; DJPA 411a; CAL | gloss withheld |
+| Judaic Aramaic | ʿamqā; ʿamīq (HALOT 847, 849; Jastrow 1088, 1090; DJPA 411a apud CAL) | HALOT 847, 849; Jastrow 1088, 1090; DJPA 411a; CAL | gloss withheld |
 | Mandaic Aramaic | ʿumqā; ʿmuq (HALOT 847, 849; Drower/Macuch 352b apud CAL) | HALOT 847, 849; Macuch 352b; CAL |  |
 | Canaanite | ummuqu (HALOT 849) | HALOT 849 |  |
 | Syrian Aramaic | ʿəmaq (LGz. 63; Payne Smith 418) | LGz. 63; Payne Smith 418 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2562_white_1_yellow_2
 title: "*bayṣ̂-: 'white' 1, 'yellow' 2"
-desc: "Proto-Semitic *bayṣ̂-, 'white' 1, 'yellow' 2: reflexes in 8 language(s)."
+desc: "Proto-Semitic *bayṣ̂-, 'white' 1, 'yellow' 2: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2562"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | bǝč̣a 2 |  |  |
 | Tigrinya | bič̣a 2 |  |  |
 | Tigre | bäyyäṣa (LGz. 116) | LGz. 116 | gloss withheld |
+| Epigraphic South Arabian | byḍm (personal name) (HALOT 115) | HALOT 115 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

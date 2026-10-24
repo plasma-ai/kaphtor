@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | pras (st. constr. only) \[DM 378\] | DM 378 | gloss withheld |
 | Modern Aramaic | NASS rɔpsɔ \[Tser 0198\]. Metathesis | Tser 0198 | gloss withheld |
 | Hebrew | parsā (HALOT 969). | HALOT 969 | gloss withheld |
-| Judaic Aramaic | prsh, det. prsth \[Sok 449\] | Sok 449 | gloss withheld |
-| Syrian Aramaic | parsǝtā 'hoof (of an animal); foot; sole' \[Brock 600\] (under pǝras 'he/she divided'); parsūʕā 'ungula' \[Brock. 602\]; pūršālā 'a goat's hoof' \[PS 439\]. | Brock 600; Brock. 602; PS 439 |  |
+| Judaic Aramaic | prsh, det. prsth \[DJPA 449a apud CAL\] | DJPA 449a; CAL | gloss withheld |
+| Syrian Aramaic | parsǝtā 'hoof (of an animal); foot; sole' \[Brock 600\] (under pǝras 'he/she divided'); parsūʕā 'hoof' \[Brock. 602\]; pūršālā 'a goat's hoof' (Payne Smith 439). | Brock 600; Brock. 602; Payne Smith 439 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

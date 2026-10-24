@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/812_fire
 title: "*ʾišs-: 'fire'"
-desc: "Proto-Semitic *ʾišs-, 'fire': reflexes in 16 language(s)."
+desc: "Proto-Semitic *ʾišs-, 'fire': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "812"
@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ʔišatu (CAD I/J 227); išum (HALOT 92) | CAD I/J 227; HALOT 92 |  |
-| Tigre | ʔǝsat |  |  |
+| Tigre | ʔǝsat (Kogan 2015, ch. 7 §2.2 no. 28) | Kogan 2015, ch. 7 §2.2 no. 28 |  |
 | Mandaic Aramaic | ʕs̃tʔ |  |  |
 | Ugaritic | ʔišt (DULAT 115) | DULAT 115 |  |
-| Geez | ʔǝsat |  |  |
+| Geez | ʔǝsāt (Kogan 2015, ch. 1 §1.3 no. 28) | Kogan 2015, ch. 1 §1.3 no. 28 |  |
 | Phoenician | ʾš (Krahmalkov 76) | Krahmalkov 76 | gloss withheld |
 | Hebrew | ʔeš (HALOT 92) | HALOT 92 |  |
-| Amharic | ǝsat |  |  |
+| Amharic | ǝsat (Kogan 2015, ch. 7 §2.2 no. 28) | Kogan 2015, ch. 7 §2.2 no. 28 |  |
 | Aramaic | (Emp) ʔsh, (Bibl) ʔešs-, (Palest) ʔišsat-; ʾš |  | gloss withheld |
 | Syrian Aramaic | ʾeššātā (HALOT 92) | HALOT 92 |  |
 | Gurage | əsat (LGz. 44) | LGz. 44 |  |
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | əsad (LGz. 44) | LGz. 44 |  |
 | Eblaitic | ì-sa-tù (Kogan 2011, 194; VE 783; Krebernik 1983, 30) | Kogan 2011, 194; VE 783; Krebernik 1983, 30 |  |
 | Punic | ʾš 'fire' | Anderson–Moser 2024 root ʾš |  |
+| Tigrinya | ʔǝsat (Kogan 2015, ch. 7 §2.2 no. 28) | Kogan 2015, ch. 7 §2.2 no. 28 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

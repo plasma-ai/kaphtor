@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | bǝʔēr 1 |  |  |
 | Aramaic | (Emp) bʔr 1, (Palest) bǝʔērē 1 (DJPA 101b apud CAL) | DJPA 101b; CAL |  |
 | Phoenician | bʔr (T 43) | T 43 | gloss withheld |
-| Epigraphic South Arabian | Sab bʾr (SD 25; Biella 35) | SD 25; Biella 35 | gloss withheld |
+| Epigraphic South Arabian | Sab bʾr (SD 25; Biella 35; Sabaweb lemma 2283) | SD 25; Biella 35; Sabaweb lemma 2283 | gloss withheld |
 | Ugaritic | bir 'well' | Anderson–Moser 2024 root bʾr |  |
 | Punic | \*bʾr: bʿʾr, bhr (T 43) | T 43 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic bʾr (Al-Jallad–Jaworska 58) | Al-Jallad–Jaworska 58 | gloss withheld |

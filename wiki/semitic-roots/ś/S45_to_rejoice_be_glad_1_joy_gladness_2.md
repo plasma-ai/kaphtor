@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | šmḥ (DULAT 813); yšmḥ (KTU 1.4 v 28); šmḥ | DULAT 813; KTU 1.4 v 28 | gloss withheld |
+| Ugaritic | šmḫ (DULAT 813); yšmḫ (KTU 1.10 III 37); šmḫt (DULAT 814) | DULAT 813; KTU 1.10 III 37; DULAT 814 | gloss withheld |
 | Amorite | śmḫ: śimḫum, śumḫum, śum(m)uḫum, śum(m)uḫatum (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
 | Canaanite | EA iš-mu-ḫu₅ (EA 109: 50, Rainey 1978: 92 apud SEDonline 292) | SEDonline 292 | gloss withheld |
 

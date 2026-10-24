@@ -12,6 +12,10 @@ Linear A corpus (data/linear-a/corpus.json)
   lineara.xyz (https://github.com/mwenge/lineara.xyz), by Rob Hogan, which states no licence. Our corrections and
   added layers are CC BY 4.0; the underlying texts keep their sources' terms.
 
+SigLA sign list (data/linear-a/sigla-sign-map.json)
+  SigLA's sign list (https://sigla.phis.me), by Ester Salgarella and Simon Castellan, CC BY-NC-SA 4.0, with Unicode
+  fields added under CC BY 4.0. The SigLA images it names are not in this repository.
+
 Semitic root reflexes (data/semitic-roots/semitic_roots.json)
   903 reflexes come from Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
   doi:10.5281/zenodo.14160276, CC BY 4.0; each cites it. The consonant correspondences

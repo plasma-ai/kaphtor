@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | ir-gi-lum = NAM.KUR.MUS̆EN \[MEE 4 1094\] | MEE 4 1094; Baldacci 65 |  |
 | Hebrew | ḥargōl (HALOT 350), pB. \[Ja. 498\] | HALOT 350; Ja. 498 | gloss withheld |
 | Judaic Aramaic | ḥargōlā 'name of an edible locust' \[Ja. 498\], \[Levy WT I 281\]. | Ja. 498; Levy WT I 281 |  |
-| Syrian Aramaic | ḥargālā 'gryllus' \[Brock. 255\], 'large wingless locust' \[PS 1367\]. | Brock. 255; PS 1367 |  |
+| Syrian Aramaic | ḥargālā 'grasshopper' \[Brock. 255\], 'large wingless locust' \[PS 1367\]. | Brock. 255; PS 1367 |  |
 | Modern Aramaic | N.-Syr. ḫergūl 'a locust, cricket' \[Maclean 105\]. | Maclean 105 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | aḳra \[DM 33\] | DM 33 | gloss withheld |
 | Geez | ʕarḳa \[LGz 70\] (metathesis). | LGz 70 | gloss withheld |
 | Hebrew | ʕāḳār (HALOT 874). | HALOT 874 | gloss withheld |
-| Judaic Aramaic | ʕăḳar (ʕaḳrā) \[Ja 1108\]; ʕḳrh, det. ʕḳrth \[Sok 417\] | Ja 1108; Sok 417 | gloss withheld |
+| Judaic Aramaic | ʕăḳar (ʕaḳrā) \[Ja 1108\]; ʕḳrh, det. ʕḳrth \[DJPA 417a apud CAL\] | Ja 1108; DJPA 417a; CAL | gloss withheld |
 | Syrian Aramaic | ʕaḳrā, ʕăḳartā 'sterile (man, woman)' \[Brock 544\] | Brock 544 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

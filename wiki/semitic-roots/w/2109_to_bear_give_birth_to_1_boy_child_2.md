@@ -48,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʔīlēd \[Brock 301\] 1, 2 | Brock 301 |  |
 | Aramaic | OFF NAB yld \[HJ 457\] 1 | HJ 457 |  |
 | Tigrinya | wällädä \[Bass 637\] 1 | Bass 637 |  |
-| Harari | wūlāgi (OLA80 §15.5, §43.6); wɔläda \[LHar 159\] | OLA80 §15.5, §43.6; LHar 159 | gloss withheld |
+| Harari | wŭläği (OLA80 §15.5, §43.6); wɔläda \[LHar 159\] | OLA80 §15.5, §43.6; LHar 159 | gloss withheld |
 | Argobba | wälläda (LGz. 613) | LGz. 613 |  |
 | Pre-Islamic North Arabian | Safaitic wld (Al-Jallad–Jaworska 140) | Al-Jallad–Jaworska 140 | gloss withheld |
 | Eblaitic | mu-li-tum, mu-li-du /mullittum/ (VE 581; Krebernik 1983, 23) | VE 581; Krebernik 1983, 23 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2707_burnt_offering_holocaust
 title: "*ʕōl-at-: 'burnt offering, holocaust'"
-desc: "Proto-Semitic *ʕōl-at-, 'burnt offering, holocaust': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʕōl-at-, 'burnt offering, holocaust': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2707"
@@ -29,7 +29,6 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ʕlt (DULAT 156) | DULAT 156 | gloss withheld |
 | Phoenician | ʕlt (Krahmalkov 374) | Krahmalkov 374 | gloss withheld |
 | Hebrew | ʕōlā (HALOT 830) | HALOT 830 | gloss withheld |
 | Aramaic | ʿlwh (HALOT 830) | HALOT 830 |  |
@@ -37,5 +36,9 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | \*ʿalat (T 247) | T 247 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Ugaritic ʕlt (4.271:9) is the preposition ʕl 'next to' with -t, not this noun (DULAT 152, 156).
 
 <!-- END kaphtor:record -->

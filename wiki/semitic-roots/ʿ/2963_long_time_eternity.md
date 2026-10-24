@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕālmā (SEDRA 2331) | SEDRA 2331 | gloss withheld |
 | Arabic | ʿālam (HALOT 798; LGz. 61) | HALOT 798; LGz. 61 | gloss withheld |
 | Geez | ʿālam (LGz. 61) | LGz. 61 | gloss withheld |
-| Epigraphic South Arabian | ʿlm (HALOT 798) | HALOT 798 | gloss withheld |
+| Epigraphic South Arabian | ʿlm (HALOT 798; Sabaweb lemma 3698) | HALOT 798; Sabaweb lemma 3698 | gloss withheld |
 | Punic | ʿlm, ʾwlm, ʾlm (T 245) | T 245 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

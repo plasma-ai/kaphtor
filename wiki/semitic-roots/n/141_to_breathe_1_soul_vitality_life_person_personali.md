@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ǝnfés \[JJ 182\]; nǝfsɛ́t \[JJ 182\] | JJ 182; JJ 182 | gloss withheld |
 | Hebrew | npš (nipʕ) (HALOT 711); näpäš (HALOT 711, 712, 713) | HALOT 711; HALOT 711, 712, 713 | gloss withheld |
 | Amharic | näffäsä \[K 1082\]; näfs \[K 1083\] | K 1082; K 1083 | gloss withheld |
-| Epigraphic South Arabian | SAB nfs1 \[SD 93\], QAT nfs1 do. \[Ricks 109\], MIN nfs1 \[LM 66\] | SD 93; Ricks 109; LM 66; Biella 310; SD 93; LM 66 | gloss withheld |
+| Epigraphic South Arabian | SAB nfs1 \[SD 93; Sabaweb lemma 2005\], QAT nfs1 do. \[Ricks 109\], MIN nfs1 \[LM 66\] | SD 93; Sabaweb lemma 2005; Ricks 109; LM 66; Biella 310; SD 93; LM 66 | gloss withheld |
 | Judaic Aramaic | nǝpaš, napšā \[Ja 927\] (cf. npš \[Sok 358\]) | Ja 927; Sok 358 | gloss withheld |
 | Syrian Aramaic | npš (Etpe.) 'breathed' \[Brock 441\]; napšā 'spirit, person; funerary pyramid' \[Brock 441\] | Brock 441; Brock 441 |  |
 | Aramaic | SAMAL OLD OFF NAB PLM HTR npš \[HJ 744-9\] | HJ 744-9 | gloss withheld |

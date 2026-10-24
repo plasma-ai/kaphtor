@@ -49,7 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔäṣbaʕ (HALOT 81) | HALOT 81 |  |
 | Amharic | ṭat (also) \[K 2152\] (&lt;\*ṣVbʕ-at-) | K 2152 | gloss withheld |
 | Argobba | ṭad \[LArg. 223\] (voicing of final -t into -d? Cf. \[ibid. XLIV\]) | LArg. 223; ibid. XLIV |  |
-| Judaic Aramaic | ṣibʕā; ʔäṣbǝʕā, ʔäṣbaʕ \[Ja 1259\]; \[Ja 110\]; ʔṣbʕh, det. ʔṣbʕth \[Sok 72\]. | Ja 1259; Ja 110; Sok 72 | gloss withheld |
+| Judaic Aramaic | ṣibʕā; ʔäṣbǝʕā, ʔäṣbaʕ \[Ja 1259\]; \[Ja 110\]; ʔṣbʕh, det. ʔṣbʕth \[DJPA 72a apud CAL\]. | Ja 1259; Ja 110; DJPA 72a; CAL | gloss withheld |
 | Harari | aṭābiñña \[LHar 36\] | LHar 36 |  |
 | Syrian Aramaic | ṣebʕā 'finger/digit (of the hand and of the foot)' \[Brock 620\] | Brock 620 |  |
 | Gafat | ṣaṭä. |  | gloss withheld |

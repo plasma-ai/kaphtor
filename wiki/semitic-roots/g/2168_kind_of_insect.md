@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǯārisat- 'insect that devours, that feeds on some plant; bee' \[BK 1 279\], \[Lane 409\]. | BK 1 279; Lane 409 |  |
 | Tigre | gärsay \[LH 573\]. | LH 573 | gloss withheld |
-| Syrian Aramaic | gargāsā 'a kind of gnat' \[Brock. 131\], \[PS 776\]. | Brock. 131; PS 776 |  |
+| Syrian Aramaic | gargāsā 'a kind of gnat' \[Brock. 131\], \[PS 775\]. | Brock. 131; PS 775 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

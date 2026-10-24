@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2752_vine_grapevine
 title: "*gVpn-: 'vine, grapevine'"
-desc: "Proto-Semitic *gVpn-, 'vine, grapevine': reflexes in 5 language(s)."
+desc: "Proto-Semitic *gVpn-, 'vine, grapevine': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2752"
@@ -30,11 +30,16 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǧafn- 'vine, grapevine' (BK 1, 306) | BK 1, 306 |  |
+| Akkadian | gapnu, gupnu (CAD G 44) | CAD G 44 | gloss withheld |
 | Ugaritic | gpn (DULAT 301) | DULAT 301 | gloss withheld |
 | Hebrew | gepen (HALOT 200) | HALOT 200 | gloss withheld |
 | Syrian Aramaic | gufnā (HALOT 200) | HALOT 200 |  |
 | Epigraphic South Arabian | gpnt (HALOT 200) | HALOT 200 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 200 marks Akkadian gapnu 'WSem. lw. ?', a queried West Semitic loan.
 
 <!-- END kaphtor:record -->

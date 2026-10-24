@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/b/3170_to_lie
 title: "*bdʾ: 'to lie'"
 desc: "Proto-Semitic *bdʾ, 'to lie': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3170"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *bdʾ: 'to lie'

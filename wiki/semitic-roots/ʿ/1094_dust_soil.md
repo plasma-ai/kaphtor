@@ -57,6 +57,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-From 2468: Initial ayin is explicit in Hebrew עפר (ʿpr). Dillmann (LLA 808) considers Geʿez ʾafar an Amharic loanword, unless it goes with Hebrew ʾēper (LGz. 10). See HALOT 80.
+From 2468: Initial ayin is explicit in Hebrew עפר (ʿpr). Dillmann (LLA 808) considers Geʿez ʾafar an Amharic loanword, unless it goes with Hebrew ʾēper (LGz. 10). See HALOT 80. Hebrew ʔēper is a loan from Akkadian epru (HALOT 80).
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2879_twisted_tassel
 title: "*gadil-: 'twisted tassel'"
-desc: "Proto-Semitic *gadil-, 'twisted tassel': reflexes in 3 language(s)."
+desc: "Proto-Semitic *gadil-, 'twisted tassel': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2879"
@@ -32,7 +32,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǧadīl/ǧadīlal (HALOT 180) | HALOT 180 | gloss withheld |
 | Hebrew | gədīlīm 'twisted threads, tassels' (BDB 152) | BDB 152 |  |
 | Syrian Aramaic | gdal 'to twist, plait, interweave' (Payne Smith 61) | Payne Smith 61 |  |
+| Judaic Aramaic | gədīlā (HALOT 180) | HALOT 180 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Akk. gidlu 'bundle', 'cord' (AHw. 287), marked '? WSem.', a queried West Semitic loan (HALOT 180).
 
 <!-- END kaphtor:record -->

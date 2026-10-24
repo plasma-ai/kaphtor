@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | fɔ́rṯ do. \[JJ 62\] | JJ 62 |  |
 | Hebrew | päräš (with suff. piršō) (HALOT 977) | HALOT 977 | gloss withheld |
 | Amharic | färs \[K 2280\]. | K 2280 | gloss withheld |
-| Judaic Aramaic | partā \[Ja 1244\]; prt \[Sok 452\] | Ja 1244; Sok 452 | gloss withheld |
+| Judaic Aramaic | partā \[Ja 1244\]; prt \[DJPA 452b apud CAL\] | Ja 1244; DJPA 452b; CAL | gloss withheld |
 | Syrian Aramaic | pertā 'dung' \[Brock 609\] | Brock 609 |  |
 | Tigrinya | färsi 'chyme, what is found in the stomach of ruminants' \[Bass 989\]; färräsä 'to disembowel, to open the belly of a slaughtered animal' \[ibid.\] | Bass 989; ibid. |  |
 

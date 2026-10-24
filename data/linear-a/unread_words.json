@@ -8,16 +8,16 @@
   },
   "stats": {
     "corpus_words": 748,
-    "read": 420,
-    "unread_listed": 495,
+    "read": 421,
+    "unread_listed": 494,
     "by_status": {
       "edge_overlap": 49,
       "unread": 144,
-      "role_only": 302
+      "role_only": 301
     },
     "hapax": 468,
-    "repeated": 27,
-    "cross_site": 7,
+    "repeated": 26,
+    "cross_site": 6,
     "surface_damaged": 263,
     "excluded_tokens": {
       "single-sign": 1426,
@@ -324,23 +324,6 @@
       ],
       "cross_site": false,
       "note": "In a roster shared by two buildings: HT10a (Villa Magazine, under KU-NI-SU) closes with ME-ZA 3 after DA-RE 16½, U-*325-ZA 4 and 10 (a 4 erased, GORILA I 21) and DA-RI-DA 8. HT85 (Scribe 9, Casa Room 7) heads A-DU · *307+*307 · VIR over DA-RI-DA, U-*325-ZA and DA-RE, and lists ME-ZA 1 among single entries on the reverse. No reading."
-    },
-    {
-      "word": "PA-RA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 2,
-      "attestations": [
-        "HT128a",
-        "PH3a"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Phaistos"
-      ],
-      "cross_site": true,
-      "note": "Two sites, two periods. PH3a (Phaistos, MM III): PẠ-RẠ DD (⅓), both signs dotted, after *563 DD and the wool ligature MA+RU DD, before ]PA[ (GORILA I 291). HT128a (Scribe 9, Casa del Lebete): in the opening line *326 PA-RA TU-RU-NU-SE-ME GRA 10, with no quantity of its own (GORILA I 221). *326 also follows I-KA on HT91. PA-RA also begins PA-RA-NE and stands inside A-PA-RA-NE, with no evidence of a link. PS *barr- 'wheat' (Hebrew bār, Gen 41:35; Akkadian burru '(a cereal)', Mari, CAD B 330) fits a grain list, but the line does not set PA-RA apart as a heading, and PA for /b/ goes against the usual PA₃. No reading."
     },
     {
       "word": "QE-KA",

@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ṣ́/3174_zizyphus
 title: "*ṣ̂aʾl-: 'zizyphus'"
 desc: "Proto-Semitic *ṣ̂aʾl-, 'zizyphus': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3174"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ṣ̂aʾl-: 'zizyphus'

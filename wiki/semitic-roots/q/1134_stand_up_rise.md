@@ -37,13 +37,13 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Sod ḳomäm, Cha ḳʷämäm |  |  |
 | Biblical Aramaic | ḳwm (CAL s.v. qwm) | CAL s.v. qwm |  |
 | Hebrew | ḳwm (HALOT 1086) | HALOT 1086 | gloss withheld |
-| Amharic | ḳomä |  |  |
-| Epigraphic South Arabian | ḳwm |  |  |
+| Amharic | ḳomä (Kogan 2015, ch. 7 §2.3 no. 79) | Kogan 2015, ch. 7 §2.3 no. 79 |  |
+| Epigraphic South Arabian | ḳwm (Sabaweb lemma 1938) | Sabaweb lemma 1938 | gloss withheld |
 | Syrian Aramaic | ḳwm (Payne Smith 494) | Payne Smith 494 |  |
-| Gafat | ḳomä |  |  |
+| Gafat | ḳomä (Kogan 2015, ch. 7 §2.3 no. 79) | Kogan 2015, ch. 7 §2.3 no. 79 |  |
 | Aramaic | Pal ḳwm (DJPA 479b apud CAL) | DJPA 479b; CAL |  |
 | Argobba | ḳoma, oma |  |  |
-| Tigrinya | ḳomä |  |  |
+| Tigrinya | ḳomä (Kogan 2015, ch. 7 §2.3 no. 79) | Kogan 2015, ch. 7 §2.3 no. 79 |  |
 | Amorite | qwm: jaqūm, qāma, qāmum, jāqīm (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
 | Phoenician | qwm (B 404) | B 404 | gloss withheld |
 

@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | zānā (HALOT 275) | HALOT 275 | gloss withheld |
 | Amharic | zänna \[K 1648\] | K 1648 | gloss withheld |
 | Epigraphic South Arabian | MIN tḏnt \[LM 29\] | LM 29 | gloss withheld |
-| Judaic Aramaic | zǝnē \[Ja 406\]; zny \[Sok 179\] | Ja 406; Sok 179 | gloss withheld |
+| Judaic Aramaic | zǝnē \[Ja 406\]; zny \[DJPA 179b apud CAL\] | Ja 406; DJPA 179b; CAL | gloss withheld |
 | Syrian Aramaic | zny (Pa., Etpa.) 'he fornicated', zānītā 'whore, prostitute' \[Brock 200\] | Brock 200 |  |
 | Aramaic | PLM znyt \[HJ 337\] | HJ 337 | gloss withheld |
 | Amorite | znj: zanijatum, māznijatum (Gelb AS 21, 35) | Gelb AS 21 35 | gloss withheld |

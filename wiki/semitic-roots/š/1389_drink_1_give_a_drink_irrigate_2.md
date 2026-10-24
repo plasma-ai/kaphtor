@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | sqy 1, 2; saqā; sāqī; siqāya |  | gloss withheld |
 | Akkadian | šaqû 2 (CAD Š/2 24); mašqītu (CAD M/1 382) | CAD Š/2 24; CAD M/1 382 | gloss withheld |
-| Ugaritic | šqy 1 (DULAT 827) | DULAT 827 |  |
+| Ugaritic | šqy, Š 2 (DULAT 827) | DULAT 827 | gloss withheld |
 | Jibbali | šeḳe 2 |  |  |
 | Hebrew | šqh 2; hišqā (Hiphil); mašqe |  | gloss withheld |
 | Judaic Aramaic | ʾašqī (HALOT 1639) | HALOT 1639 |  |

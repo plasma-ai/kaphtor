@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | YRT (DNWSI 471 apud CAL) | DNWSI 471; CAL | gloss withheld |
 | Hebrew | yaraš; yᵉruššā (HALOT 442) | HALOT 442 | gloss withheld |
 | Ugaritic | yrṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015, ch. 2 §4.2 no. 66 | gloss withheld |
-| Epigraphic South Arabian | Sab wrṯ (SD 162; Biella 150) | SD 162; Biella 150 | gloss withheld |
+| Epigraphic South Arabian | Sab wrṯ (SD 162; Biella 150; Sabaweb lemma 5434) | SD 162; Biella 150; Sabaweb lemma 5434 | gloss withheld |
 | Soqotri | ʾeret (HALOT 441); éret (SLOnline 3139) | HALOT 441 | gloss withheld |
 | Tigre | war(a)sa (HALOT 441) | HALOT 441 |  |
 | Syrian Aramaic | īret (HALOT 441) | HALOT 441 |  |

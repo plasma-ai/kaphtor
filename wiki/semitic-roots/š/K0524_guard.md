@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | šmr (T 325) | T 325 | gloss withheld |
 | Judaic Aramaic | šmr (itpa.) (HALOT 1581) | HALOT 1581 | gloss withheld |
 | Ugaritic | ḏmr (HALOT 1581) | HALOT 1581 | gloss withheld |
-| Epigraphic South Arabian | ḏmr (HALOT 1581) | HALOT 1581 | gloss withheld |
+| Epigraphic South Arabian | ḏmr (HALOT 1581); (Sabaweb lemma 2117) | HALOT 1581; Sabaweb lemma 2117 | gloss withheld |
 | Amorite | śmr: śamarum, śāmirum, śimrum, maśmarum (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
 | Syrian Aramaic | šmar 'guard, keep; send forth, dismiss' (Payne Smith 585) | Payne Smith 585 |  |
 

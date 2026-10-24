@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3148_firstborn
 title: "*bVkVr-: 'firstborn'"
-desc: "Proto-Semitic *bVkVr-, 'firstborn': reflexes in 15 language(s)."
+desc: "Proto-Semitic *bVkVr-, 'firstborn': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3148"
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | bäkwər (AED 925 apud SEDonline 503) | AED 925; SEDonline 503 | gloss withheld |
 | Gurage | Ezha End. Enn. Gye. Muh. Gog. bäxər, Sod. bäkər (EDG 136 apud SEDonline 503) | EDG 136; SEDonline 503 | gloss withheld |
 | Mehri | bēkər (ML 46 apud SEDonline 503) | ML 46; SEDonline 503 | gloss withheld |
+| Judaic Aramaic | bukrā (HALOT 131) | HALOT 131 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | ḥagala 'tie' | Anderson–Moser 2024 root ḥgl |  |
 | Arabic | ḥiǧl (LGz. 228) | LGz. 228 | gloss withheld |
-| Epigraphic South Arabian | m-ḥgl (LGz. 228) | LGz. 228 | gloss withheld |
+| Epigraphic South Arabian | m-ḥgl (LGz. 228; Sabaweb lemma 4326) | LGz. 228; Sabaweb lemma 4326 | gloss withheld |
 | Soqotri | ḥgl (LGz. 228); ḥégoḷ (SLOnline 4261) | LGz. 228 | gloss withheld |
 | Jibbali | ḥagəl (LGz. 228) | LGz. 228 | gloss withheld |
 | Syrian Aramaic | ḥəgal (LGz. 228) | LGz. 228 | gloss withheld |

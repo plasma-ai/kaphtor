@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/k
 desc: "Semitic roots whose first radical is k."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/k
@@ -87,7 +87,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/1808_pasture_forage|1808_pasture_forage]]: Proto-Semitic *kwVlāʾ- ?, 'pasture; forage': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/k/1809_a_hammer_axe_like_tool|1809_a_hammer_axe_like_tool]]: Proto-Semitic *(ʾa-)ku/al-, 'a hammer/axe-like tool': reflexes in 5 language(s).
+[[wiki/semitic-roots/k/1809_a_hammer_axe_like_tool|1809_a_hammer_axe_like_tool]]: Proto-Semitic *(ʾa-)ku/al-, 'a hammer/axe-like tool': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/k/1846_young_of_an_ass_colt|1846_young_of_an_ass_colt]]: Proto-Semitic *kurr-, 'young of an ass, colt': reflexes in 4 language(s).
 
@@ -135,7 +135,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/2224_a_mythical_aquatic_reptile|2224_a_mythical_aquatic_reptile]]: Proto-Semitic *kVS-, 'a (mythical) aquatic reptile': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/k/2225_kind_of_fish|2225_kind_of_fish]]: Proto-Semitic *kVwVr-, 'kind of fish': reflexes in 6 language(s).
+[[wiki/semitic-roots/k/2225_kind_of_fish|2225_kind_of_fish]]: Proto-Semitic *kVwVr-, 'kind of fish': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/k/2312_garden|2312_garden]]: Proto-Semitic *kiry-, 'garden': reflexes in 1 language(s).
 
@@ -197,7 +197,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/2678_linen_tunic|2678_linen_tunic]]: Proto-Semitic *kitn-, 'linen, tunic': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/k/2696_cumin|2696_cumin]]: Proto-Semitic *kamm-ūn-, 'cumin': reflexes in 5 language(s).
+[[wiki/semitic-roots/k/2696_cumin|2696_cumin]]: Proto-Semitic *kamm-ūn-, 'cumin': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/k/2702_seal_cylinder_stamp|2702_seal_cylinder_stamp]]: Proto-Semitic *kunukk-, 'seal (cylinder), stamp': reflexes in 2 language(s).
 
@@ -207,7 +207,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/2766_to_cut_cut_off_make_a_covenant|2766_to_cut_cut_off_make_a_covenant]]: Proto-Semitic *karVt-, 'to cut, cut off; make a covenant': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/k/2767_to_write_inscribe|2767_to_write_inscribe]]: Proto-Semitic *katVb-, 'to write, inscribe': reflexes in 9 language(s).
+[[wiki/semitic-roots/k/2767_to_write_inscribe|2767_to_write_inscribe]]: Proto-Semitic *katVb-, 'to write, inscribe': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/k/2773_Kothar_craftsman_god|2773_Kothar_craftsman_god]]: Proto-Semitic *kuṯar-, 'Kothar (craftsman god)': reflexes in 2 language(s).
 
@@ -251,7 +251,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/2996_cherub_winged_guardian_creature|2996_cherub_winged_guardian_creature]]: Proto-Semitic *karūb-, 'cherub; winged guardian creature': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/k/2997_to_cover_smear_to_atone_purify|2997_to_cover_smear_to_atone_purify]]: Proto-Semitic *kapar-, 'to cover, smear; to atone, purify': reflexes in 4 language(s).
+[[wiki/semitic-roots/k/2997_to_cover_smear_to_atone_purify|2997_to_cover_smear_to_atone_purify]]: Proto-Semitic *kapar-, 'to cover, smear; to atone, purify': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/k/2998_to_hinder_restrain|2998_to_hinder_restrain]]: Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 10 language(s).
 
@@ -261,7 +261,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/3020_embankment_quay_harbor_trading_station|3020_embankment_quay_harbor_trading_station]]: Proto-Semitic *kVr-, 'embankment, quay; harbor, trading station': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/k/3121_to_dig_hollow_out|3121_to_dig_hollow_out]]: Proto-Semitic *kry, 'to dig, hollow out': reflexes in 10 language(s).
+[[wiki/semitic-roots/k/3121_to_dig_hollow_out|3121_to_dig_hollow_out]]: Proto-Semitic *kry, 'to dig, hollow out': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/k/3141_to_be_heavy_to_be_honoured|3141_to_be_heavy_to_be_honoured]]: Proto-Semitic *kbd, 'to be heavy; to be honoured': reflexes in 6 language(s).
 
@@ -270,6 +270,14 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/k/318_bottle|318_bottle]]: Proto-Semitic *kurāz-, 'bottle': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/k/319_mug|319_mug]]: Proto-Semitic *kad-, 'mug': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/k/3204_mushroom_truffle|3204_mushroom_truffle]]: Proto-Semitic *kamʾ-at-, 'mushroom, truffle': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/k/3205_leek|3205_leek]]: Proto-Semitic *karaṯ-, 'leek': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/k/3237_to_hide_lie_in_wait|3237_to_hide_lie_in_wait]]: Proto-Semitic *kmn, 'to hide, lie in wait': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/k/3238_to_tie_fasten_twist_a_rope|3238_to_tie_fasten_twist_a_rope]]: Proto-Semitic *krb, 'to tie, fasten; twist (a rope)': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/k/373_silver|373_silver]]: Proto-Semitic *kasp-, 'silver': reflexes in 8 language(s).
 
@@ -295,7 +303,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/799_strike_fire|799_strike_fire]]: Proto-Semitic *kVyVd-, 'strike fire': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/k/801_burn_1_kindle_fire_2|801_burn_1_kindle_fire_2]]: Proto-Semitic *kVwVy-, 'burn' 1, 'kindle fire' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/k/801_burn_1_kindle_fire_2|801_burn_1_kindle_fire_2]]: Proto-Semitic *kVwVy-, 'burn' 1, 'kindle fire' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/k/912_be_ill_tempered|912_be_ill_tempered]]: Proto-Semitic *kVʕVs-, 'be ill-tempered': reflexes in 1 language(s).
 
@@ -311,15 +319,15 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/K0093_beat|K0093_beat]]: Proto-Semitic *kamād-, 'beat': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/k/K0095_like|K0095_like]]: Proto-Semitic *kVmVw-, 'like': reflexes in 14 language(s).
+[[wiki/semitic-roots/k/K0095_like|K0095_like]]: Proto-Semitic *kVmVw-, 'like': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/k/K0096_serious|K0096_serious]]: Proto-Semitic *kVmVš-, 'serious': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/k/K0097_lyre|K0097_lyre]]: Proto-Semitic *kinor-, 'lyre': reflexes in 5 language(s).
+[[wiki/semitic-roots/k/K0097_lyre|K0097_lyre]]: Proto-Semitic *kinor-, 'lyre': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/k/K0098_stow|K0098_stow]]: Proto-Semitic *kanāz-, 'stow': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/k/K0100_wipe_village_bitumen|K0100_wipe_village_bitumen]]: Proto-Semitic *kapār-, 'wipe', 'village', 'bitumen': reflexes in 9 language(s).
+[[wiki/semitic-roots/k/K0100_village|K0100_village]]: Proto-Semitic *kapār-, 'village': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/k/K0101_bind|K0101_bind]]: Proto-Semitic *kVpVt-, 'bind': reflexes in 5 language(s).
 
@@ -341,9 +349,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/k/K0114_deceive|K0114_deceive]]: Proto-Semitic *kVḏVb-, 'deceive': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/k/K0115_hide|K0115_hide]]: Proto-Semitic *kaḥad-, 'hide': reflexes in 3 language(s).
+[[wiki/semitic-roots/k/K0115_hide|K0115_hide]]: Proto-Semitic *kaḥad-, 'hide': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/k/S35_to_be_firm_to_be_established_to_exist|S35_to_be_firm_to_be_established_to_exist]]: Proto-Semitic *kwn-, 'to be firm, to be established, to exist': reflexes in 16 language(s).
+[[wiki/semitic-roots/k/S35_to_be_firm_to_be_established_to_exist|S35_to_be_firm_to_be_established_to_exist]]: Proto-Semitic *kwn-, 'to be firm, to be established, to exist': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/k/S52_to_reach_conquer|S52_to_reach_conquer]]: Proto-Semitic *kšd, 'to reach, conquer': reflexes in 1 language(s).
 

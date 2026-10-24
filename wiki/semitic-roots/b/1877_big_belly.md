@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | baṭna \[DM 47\] | DM 47 | gloss withheld |
 | Modern Aramaic | MAL bṭn \[Berg 16\]; beṭna (f.) \[ibid.\] NASS bɔ̄ṭịn \[Tser 026\]; pṭịntɔ, p̣ṭɔ̄nɔ \[ibid. 027\] MMND baṭantā \[M MND 515\] AZR batnanta (lit.); bitna (arch.); btinta \[Garb 301\] IRAN \*bâṭin (pf. pᵉṭĕnteḇán) \[Pen 68\] | Berg 16; ibid.; Tser 026; ibid. 027; Garb 301; Pen 68 | gloss withheld |
 | Hebrew | bäṭän (with suff. biṭn-) (HALOT 121) | HALOT 121 | gloss withheld |
-| Judaic Aramaic | biṭnā \[Ja 158\]; bṭn \[Sok 91\] | Ja 158; Sok 91 | gloss withheld |
+| Judaic Aramaic | biṭnā \[Ja 158\]; bṭn \[DJPA 91b apud CAL\] | Ja 158; DJPA 91b; CAL | gloss withheld |
 | Syrian Aramaic | bǝṭēn 'conceived (in the womb)' \[Brock 67\], baṭnā 'conception, fetus' \[ibid.\] | Brock 67; ibid. |  |
 | Aramaic | OFF bṭn \[HJ 151\] | HJ 151 | gloss withheld |
 | Modern Arabic | Iraqi boṭn (HALOT 121) | HALOT 121 |  |

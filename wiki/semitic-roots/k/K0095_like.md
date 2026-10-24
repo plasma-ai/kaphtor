@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0095_like
 title: "*kVmVw-: 'like'"
-desc: "Proto-Semitic *kVmVw-, 'like': reflexes in 14 language(s)."
+desc: "Proto-Semitic *kVmVw-, 'like': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0095"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | kämäy (lit.) (LGz. 285) | LGz. 285 | gloss withheld |
 | Gurage | (yä)--käma, (yä)--kom (LGz. 285) | LGz. 285 |  |
 | East Ethiopic | Zwy. hum (EDG 342 apud SEDonline 1389) | EDG 342; SEDonline 1389 | gloss withheld |
+| Judaic Aramaic | kəmā (HALOT 481) | HALOT 481 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

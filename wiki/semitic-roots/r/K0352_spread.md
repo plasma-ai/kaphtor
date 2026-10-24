@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | rafada 'spread' | Anderson–Moser 2024 root rpd |  |
 | Hebrew | rpd (HALOT 1276) | HALOT 1276 | gloss withheld |
-| Epigraphic South Arabian | Sab. rfd (HALOT 1276) | HALOT 1276 |  |
+| Epigraphic South Arabian | Sab. rfd, v. (HALOT 1276; Sabaweb lemmas 4888, 7489) | HALOT 1276; Sabaweb lemmas 4888, 7489 | gloss withheld |
 | Arabic | rafada (HALOT 1276) | HALOT 1276 |  |
 | Akkadian | rapādu(m) (HALOT 1276) | HALOT 1276 |  |
 | Syrian Aramaic | rəpad (HALOT 1276) | HALOT 1276 |  |

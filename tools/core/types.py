@@ -4,7 +4,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Literal
 
-CognateMethod = Literal["gordon_direct", "yashar_mana", "proto_semitic"]
+CognateMethod = Literal["lexicon", "proto_semitic"]
 
 
 @dataclass(frozen=True)

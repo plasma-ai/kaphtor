@@ -36,4 +36,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Late Babylonian arānu is a West Semitic loan (AHw. 65 apud HALOT 85; against Zimmern 34); Arabic ʾirān 'bier' is borrowed from Aramaic (HALOT 85).
+
 <!-- END kaphtor:record -->

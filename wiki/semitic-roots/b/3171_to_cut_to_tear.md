@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/b/3171_to_cut_to_tear
 title: "*bṣ̂r: 'to cut, to tear'"
 desc: "Proto-Semitic *bṣ̂r, 'to cut, to tear': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3171"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *bṣ̂r: 'to cut, to tear'

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | gnn (aph.) (LSyr. 122, SL 248 apud SEDonline 1175) | LSyr. 122, SL 248; SEDonline 1175 | gloss withheld |
 | Phoenician | gnn (B 297) | B 297 | gloss withheld |
 | Arabic | ǯnn (Lane 462 apud SEDonline 1175) | Lane 462; SEDonline 1175 | gloss withheld |
-| Epigraphic South Arabian | Sab gnʾ, gnʾ (SD 50 apud SEDonline 1175); Min gnʾ (ML 36 apud SEDonline 1175); Qat gnʾ (LIQ 39 apud SEDonline 1175); gnn (IV), gnt (HALOT 199) | SD 50; SEDonline 1175; ML 36; SEDonline 1175; LIQ 39; SEDonline 1175; HALOT 199 | gloss withheld |
+| Epigraphic South Arabian | Sab gnʾ, gnʾ (SD 50 apud SEDonline 1175; Sabaweb lemmas 4160, 2679); Min gnʾ (ML 36 apud SEDonline 1175); Qat gnʾ (LIQ 39 apud SEDonline 1175); gnn (IV), gnt (HALOT 199) | SD 50; SEDonline 1175; Sabaweb lemmas 4160, 2679; ML 36; SEDonline 1175; LIQ 39; SEDonline 1175; HALOT 199 | gloss withheld |
 | Mehri | hegnē JM 121; gōna (ML 122 apud SEDonline 1175) | JM 121; ML 122; SEDonline 1175 | gloss withheld |
 | Jibbali | egníʔ, gúnɛʔ JJ 77 | JJ 77 | gloss withheld |
 | Soqotri | éghon (CSOL II 382 apud SEDonline 1175) | SEDonline 1175 | gloss withheld |

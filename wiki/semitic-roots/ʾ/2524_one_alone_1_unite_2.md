@@ -36,22 +36,22 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | had |  |  |
 | Ugaritic | ʔaḥd /ʾaḥadu/? (UVST 105); yḥd (HALOT 405) | UVST 105; HALOT 405 | gloss withheld |
 | East Ethiopic | Wol add |  |  |
-| Geez | ʔaḥadu (wḥd) |  | gloss withheld |
-| Gurage | Sod at(t) |  |  |
+| Geez | ʔaḥadu (wḥd) (Kogan 2015, ch. 7 §2.2 no. 63) | Kogan 2015, ch. 7 §2.2 no. 63 | gloss withheld |
+| Gurage | Sod att (Kogan 2015, ch. 7 §2.2 no. 63) | Kogan 2015, ch. 7 §2.2 no. 63 |  |
 | Biblical Aramaic | ḥad |  |  |
 | Modern Arabic | Leb wǝḥad |  |  |
 | Phoenician | ʔḥd |  |  |
 | Modern Aramaic | Urm ḥad- |  |  |
 | Jibbali | šēḥad |  | gloss withheld |
 | Hebrew | ʔǟḥad (yḥd) |  | gloss withheld |
-| Amharic | ʔand |  |  |
+| Amharic | and (Kogan 2015, ch. 7 §2.2 no. 63) | Kogan 2015, ch. 7 §2.2 no. 63 |  |
 | Epigraphic South Arabian | ʔḥd (Sabaweb lemma 1762); wḥd (HALOT 406) | Sabaweb lemma 1762; HALOT 406 |  |
-| Harari | aḥad |  |  |
+| Harari | aḥad (Kogan 2015, ch. 7 §2.2 no. 63) | Kogan 2015, ch. 7 §2.2 no. 63 |  |
 | Syrian Aramaic | ḥad- |  |  |
 | Gafat | ǝǯǯä |  |  |
 | Aramaic | Pal ḥaḏ; ḥd, YḤD (Aramaic Root Atlas; CAL s.v. ḥd; DNWSI 454 apud CAL) | Aramaic Root Atlas; CAL s.v. ḥd; DNWSI 454; CAL | gloss withheld |
 | Argobba | hand |  |  |
-| Tigrinya | ḥadä |  |  |
+| Tigrinya | ḥadä (Kogan 2015, ch. 7 §2.2 no. 63) | Kogan 2015, ch. 7 §2.2 no. 63 |  |
 | Tigre | waḥada (HALOT 405) | HALOT 405 |  |
 | Punic | ʾḥd '1' | Anderson–Moser 2024 root ʾḥd |  |
 | Pre-Islamic North Arabian | Safaitic wḥd (Al-Jallad–Jaworska 139) | Al-Jallad–Jaworska 139 | gloss withheld |

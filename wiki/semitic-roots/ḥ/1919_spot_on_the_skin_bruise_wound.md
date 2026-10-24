@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ibāru SB \[CAD i 1\], \[AHw 363\] | CAD i 1; AHw 363 | gloss withheld |
 | Geez | ḥǝbǝrbǝre \[LGz 224\]. | LGz 224 | gloss withheld |
 | Hebrew | ḥabbūrā (HALOT 285); ḥăbarbūrōt (HALOT 288) | HALOT 285; HALOT 288 | gloss withheld |
-| Judaic Aramaic | ḥabburtā \[Ja 417\]; ḥäbrī \[Sok 186\] | Ja 417; Sok 186 | gloss withheld |
+| Judaic Aramaic | ḥabburtā \[Ja 417\]; ḥäbrī \[DJPA 186b apud CAL\] | Ja 417; DJPA 186b; CAL | gloss withheld |
 | Syrian Aramaic | ḥǝbārtā 'wound; horny skin' \[Brock 212\] | Brock 212 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | wrd 1 |  |  |
 | Hebrew | yrd 1 |  |  |
 | Phoenician | yrd (T 128) | T 128 | gloss withheld |
-| Epigraphic South Arabian | wrd (HALOT 434) | HALOT 434 |  |
+| Epigraphic South Arabian | wrd (HALOT 434; Sabaweb lemma 1786) | HALOT 434; Sabaweb lemma 1786 | gloss withheld |
 | Amharic | wärrädä (LGz. 617) | LGz. 617 |  |
 | Soqotri | ʾered (LGz. 617) | LGz. 617 |  |
 | Syrian Aramaic | yardā (LGz. 617) | LGz. 617 | gloss withheld |

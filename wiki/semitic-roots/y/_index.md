@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/y
 desc: "Semitic roots whose first radical is y."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/y
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/y/1176_be_dry|1176_be_dry]]: Proto-Semitic *yVbVš-, 'be dry': reflexes in 9 language(s).
+[[wiki/semitic-roots/y/1176_be_dry|1176_be_dry]]: Proto-Semitic *yVbVš-, 'be dry': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/y/1444_kind_of_barley|1444_kind_of_barley]]: Proto-Semitic *yaraḫ-, 'kind of barley': reflexes in 1 language(s).
 
@@ -37,6 +37,8 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/y/2609_to_hold_out_give_take|2609_to_hold_out_give_take]]: Proto-Semitic *(y/w)šṭw, 'to hold out, give/take': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/y/3235_to_despair|3235_to_despair]]: Proto-Semitic *yʾš, 'to despair': reflexes in 5 language(s).
+
 [[wiki/semitic-roots/y/370_be_tired_1_work_2_feel_pain_3|370_be_tired_1_work_2_feel_pain_3]]: Proto-Semitic *yVgVʕ-, 'be tired' 1, 'work' 2, 'feel pain' 3: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/y/71_right_right_hand|71_right_right_hand]]: Proto-Semitic *yamīn- ~ *yamān-, 'right, right hand': reflexes in 19 language(s).
@@ -54,8 +56,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/y/K0451_groan|K0451_groan]]: Proto-Semitic *yVbVb-, 'groan': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/y/K0452_in_law|K0452_in_law]]: Proto-Semitic *yabām-, 'in-law': reflexes in 4 language(s).
-
-[[wiki/semitic-roots/y/K0453_dry|K0453_dry]]: Proto-Semitic *yVbVś-, 'dry': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/y/K0456_orphan|K0456_orphan]]: Proto-Semitic *yatiom-, 'orphan': reflexes in 13 language(s).
 

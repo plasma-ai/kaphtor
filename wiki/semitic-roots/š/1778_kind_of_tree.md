@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1778_kind_of_tree
 title: "*šalām-: 'kind of tree'"
-desc: "Proto-Semitic *šalām-, 'kind of tree': reflexes in 2 language(s)."
+desc: "Proto-Semitic *šalām-, 'kind of tree': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1778"
@@ -31,7 +31,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | salām- (Lane 1415) | Lane 1415 |  |
-| Ugaritic | šlm (DULAT 808) | DULAT 808 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

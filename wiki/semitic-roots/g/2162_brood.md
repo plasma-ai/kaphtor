@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǯawzal- 'young (of a pigeon, or of another bird of the species)' \[BK 1 290\], \[LA XI 110\]. | BK 1 290; LA XI 110 |  |
 | Hebrew | gōzāl (HALOT 182), pB. \[Ja. 220\] | HALOT 182; Ja. 220 | gloss withheld |
-| Judaic Aramaic | gōzālā 'brood, chick, esp. pigeon' \[Ja. 220\], gōzāl 'young bird' \[ibid. 122\], \[Levy WTM I 318\]. | Ja. 220; ibid. 122; Levy WTM I 318 |  |
+| Judaic Aramaic | gōzālā 'brood, chick, esp. pigeon' \[Ja. 220\], gōzāl 'young bird' \[ibid. 220\], \[Levy WTM I 318\]. | Ja. 220; ibid. 220; Levy WTM I 318 |  |
 | Syrian Aramaic | zūgallā 'young pigeon' \[Brock. 188\], \[PS 1081\] (metathesis). | Brock. 188; PS 1081 |  |
 | Punic | gozol (Krahmalkov 138) | Krahmalkov 138 | gloss withheld |
 

@@ -48,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | qäddämä (LGz. 421) | LGz. 421 |  |
 | Harari | qädäma (LGz. 421) | LGz. 421 |  |
 | Phoenician | qdm (Krahmalkov 424); qdm (T 284) | Krahmalkov 424; T 284 | gloss withheld |
-| Epigraphic South Arabian | Sab. qdm, qdmy (HALOT 1067) | HALOT 1067 |  |
+| Epigraphic South Arabian | Sab. qdm, qdmy (HALOT 1067; Sabaweb lemma 7203) | HALOT 1067; Sabaweb lemma 7203 | gloss withheld |
 | Amorite | qdm: qadimatum, qadm(ān)um, qidm(ān)um, qudmum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. ḳädä (EDG 473 apud SEDonline 331) | EDG 473; SEDonline 331 | gloss withheld |
 | Soqotri | ḳédem (LS 367; CSOL I 585; Naumkin et al. 2015a:74; Naumkin et al. 2022:254 apud SEDonline 1601) | LS 367; SEDonline 1601 | gloss withheld |

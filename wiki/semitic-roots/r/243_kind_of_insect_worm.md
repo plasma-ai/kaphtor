@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | rimmatum OB \[AHw. 986\] | AHw. 986; Durand 1990 106-7; Durand 1998 490; CAD r 358; CAD e 294; Stol 2000 626 | gloss withheld |
 | Mandaic Aramaic | rima \[DM 433\]. | DM 433 | gloss withheld |
 | Hebrew | rimmā (HALOT 1241), pB. \[Ja. 1481\] | HALOT 1241; Ja. 1481 | gloss withheld |
-| Judaic Aramaic | rymh \[Ja. 523\]; rimmətā \[Sok. B 1089\]. | Ja. 523; Sok. B 1089 | gloss withheld |
+| Judaic Aramaic | rimmətā \[Sok. B 1089\]. | Sok. B 1089 | gloss withheld |
 | Syrian Aramaic | remmətā 'mould and worms in rotting things' \[Brock. 732\] | Brock. 732 |  |
 | Aramaic | D.-Alla rmh \[HJ 1077\] | HJ 1077; Hackett 62; Tal 838 | gloss withheld |
 | Modern Aramaic | NSyr. rimtâ 'a worm' (M 294) | M 294 |  |

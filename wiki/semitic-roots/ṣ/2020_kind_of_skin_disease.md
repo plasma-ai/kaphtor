@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ṣennettu, ṣernettu, ṣennītu OB on \[CAD ṣ 127\], \[AHw 1090\] (&lt;\*ṣirnVɣ-t-u) | CAD ṣ 127; AHw 1090 | gloss withheld |
 | Geez | ṣǝrnǝʕt, ṣǝrnǝʔ \[LGz 564\]. | LGz 564 | gloss withheld |
 | Hebrew | ṣāraʕat (HALOT 1057). | HALOT 1057 | gloss withheld |
-| Judaic Aramaic | ṣurʕā, ṣirʕā \[Ja 1272\], ṣurʕătā \[ibid.\]; ṣrʕh do. \[Sok 470\] | Ja 1272; ibid.; Sok 470 | gloss withheld |
+| Judaic Aramaic | ṣurʕā, ṣirʕā \[Ja 1272\], ṣurʕătā \[ibid.\]; ṣrʕh do. \[DJPA 470b apud CAL\] | Ja 1272; ibid.; DJPA 470b; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | \*mǝʕē (pl.suff. mǝʕṓhī) 'belly' (BDB 1101). | BDB 1101 |  |
 | Modern Aramaic | MAL maʕwṯa \[Berg 56\] AZR miya \[Garb 319\] | Berg 56; Garb 319 | gloss withheld |
 | Hebrew | mēʕayim (pl.) (HALOT 609); PB maʕyān \[Ja 816\] | HALOT 609; Ja 816 | gloss withheld |
-| Judaic Aramaic | mǝʕā (mǝʕayyā), maʕyānā \[Ja 812, 816\]; mʕyn (pl.) \[Sok 322\] | Ja 812, 816; Sok 322 | gloss withheld |
+| Judaic Aramaic | mǝʕā (mǝʕayyā), maʕyānā \[Ja 812, 816\]; mʕyn (pl.) \[DJPA 322b apud CAL\] | Ja 812, 816; DJPA 322b; CAL | gloss withheld |
 | Syrian Aramaic | mǝʕayyā, mǝʕūtā (&lt;\*mǝʕaw-at-) 'intestines' \[Brock 397\] | Brock 397 |  |
 | Tigrinya | ʔamʕut 'intestine' \[Bass 491\] | Bass 491 |  |
 | Aramaic | Dem. mʕyn (du.) \[HJ 1260\] | HJ 1260 | gloss withheld |

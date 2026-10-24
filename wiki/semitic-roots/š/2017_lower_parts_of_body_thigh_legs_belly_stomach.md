@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | šɔ́fǝl \[JJ 260\] | JJ 260 | gloss withheld |
 | Hebrew | PB šippūl 'lower part, extremity' \[Ja 1566\]. | Ja 1566 |  |
 | Amharic | šǝnfǝlla \[K 649\] | K 649 | gloss withheld |
-| Judaic Aramaic | šplyn (pl.) \[Sok 564\]. | Sok 564 | gloss withheld |
+| Judaic Aramaic | šplyn (pl.) \[DJPA 562b apud CAL\]. | DJPA 562b; CAL | gloss withheld |
 | Tigrinya | šǝnfǝlla 'omasum, stomach chamber of ruminants' \[Bass 234\] | Bass 234 |  |
 | Epigraphic South Arabian | Sab s1fl (SD 124, 125) | SD 124, 125 | gloss withheld |
 

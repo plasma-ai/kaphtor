@@ -6,10 +6,10 @@ tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0443"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
-# *wVʿVṣ-: 'advise'
+# *wVʿVṯ̣-: 'advise'
 
 [[wiki/semitic-roots/w/_index|..]]
 

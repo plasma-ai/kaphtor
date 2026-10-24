@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʿkr, (SD 14, 15); Sab ʿkr (Biella 363, 364) | SD 14, 15; Biella 363, 364 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿkr, (SD 14, 15); Sab ʿkr (Biella 363, 364); (Sabaweb lemmas 2599, 3688) | SD 14, 15; Biella 363, 364; Sabaweb lemmas 2599, 3688 | gloss withheld |
 | Arabic | Ar ʿkr id, ti (Biella 364) | Biella 364 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

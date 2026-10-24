@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʕlm |  |  |
 | Hebrew | ʕlm |  |  |
 | Pre-Islamic North Arabian | Safaitic ʿlm (Al-Jallad–Jaworska 52) | Al-Jallad–Jaworska 52 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿlm (Biella 368) | Biella 368 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿlm (Biella 368; Sabaweb lemma 3693) | Biella 368; Sabaweb lemma 3693 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

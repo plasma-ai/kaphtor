@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ʿ/3180_to_block_to_stop
 title: "*ʕgm: 'to block, to stop'"
 desc: "Proto-Semitic *ʕgm, 'to block, to stop': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3180"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ʕgm: 'to block, to stop'

@@ -34,4 +34,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+A maqtal-noun of PWS \*dVbr- 'open country' (2513; Kogan 2011, 190).
+
 <!-- END kaphtor:record -->

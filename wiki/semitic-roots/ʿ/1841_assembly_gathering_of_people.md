@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1841_assembly_gathering_of_people
 title: "*ʕīd-at- ~ *ʕidd-: 'assembly, gathering of people'"
-desc: "Proto-Semitic *ʕīd-at- ~ *ʕidd-, 'assembly, gathering of people': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʕīd-at- ~ *ʕidd-, 'assembly, gathering of people': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1841"
@@ -31,10 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕidd- 'a great number, a crowd, a great quantity; friend, comrade; like, equal' \[BK 2 187\], cf. ʕdd 'to count, reckon; to be few in number' \[ibid.\] | BK 2 187; ibid. |  |
-| Ugaritic | ʕdt (ʕ. ilm) (DULAT 140) | DULAT 140 | gloss withheld |
+| Ugaritic | ʕdt (ʕ. ilm) (DULAT 148) | DULAT 148 | gloss withheld |
 | Geez | (?) ʕǝd, pl. ʕǝdaw, ʔaʕǝdāw \[LGz 56\] | LGz 56 | gloss withheld |
-| Hebrew | ʕēdā (HALOT 789, 790) | HALOT 789, 790 | gloss withheld |
-| Judaic Aramaic | ʕēdā 'assembly, congregation; court; prayer meeting' \[Ja 1043\] | Ja 1043 |  |
+| Hebrew | ʕēdā (HALOT 789, 790); pB. \[Ja 1043\] | HALOT 789, 790; Ja 1043 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

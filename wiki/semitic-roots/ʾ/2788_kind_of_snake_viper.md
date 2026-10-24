@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2788_kind_of_snake_viper
 title: "*ʾapʕaw-: 'kind of snake (viper)'"
-desc: "Proto-Semitic *ʾapʕaw-, 'kind of snake (viper)': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʾapʕaw-, 'kind of snake (viper)': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2788"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | ḥiffiñ \[LHar. 80\] | LHar. 80 |  |
 | Eblaitic | ì-pá-ù-um |  |  |
 | Epigraphic South Arabian | ʾpʿw (personal name) (HALOT 79) | HALOT 79 |  |
+| Modern Arabic | dial. el-yfʿa (HALOT 79) | HALOT 79 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

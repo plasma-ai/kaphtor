@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Phoenician | gzl (T 64) | T 64 | gloss withheld |
-| Syrian Aramaic | glaz (Payne Smith 70), metathesis of gzl (HALOT 186; T 64); (OLA80 §22.17) | Payne Smith 70; HALOT 186; T 64; OLA80 §22.17 | gloss withheld |
+| Syrian Aramaic | glaz (Payne Smith 70), metathesis of gzl (HALOT 186; T 64); gawzel (OLA80 §22.17) | Payne Smith 70; HALOT 186; T 64; OLA80 §22.17 | gloss withheld |
 | Mandaic Aramaic | gzl (T 64) | T 64 |  |
 | Judaic Aramaic | gezal (T 64) | T 64 |  |
 

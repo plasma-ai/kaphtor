@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nqm (SD 97, 98; Biella 317) | SD 97, 98; Biella 317 | gloss withheld |
+| Epigraphic South Arabian | Sab nqm (SD 97, 98; Biella 317; Sabaweb lemma 1769) | SD 97, 98; Biella 317; Sabaweb lemma 1769 | gloss withheld |
 | Amorite | nqm: nāqimum, niqmum, janqim, jaqqim (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
 | Syrian Aramaic | ʔetnqem 'take vengeance; be avenged' (Payne Smith 351) | Payne Smith 351 |  |
 | Pre-Islamic North Arabian | Safaitic nqm (Al-Jallad–Jaworska 106) | Al-Jallad–Jaworska 106 | gloss withheld |

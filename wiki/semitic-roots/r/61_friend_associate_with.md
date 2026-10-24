@@ -47,6 +47,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT keeps II rēaʿ 'friend' (1253) and II rʿh 'to associate with' (1262) apart from I rʿh 'to shepherd, pasture' (1258); the pasture verb is 454.
+HALOT keeps II rēaʿ 'friend' (1253) and II rʿh 'to associate with' (1262) apart from I rʿh 'to shepherd, pasture' (1258); the pasture verb is 454. \| PES \*marʕāt- 'bride, daughter-in-law' (Gez. marʕāt, Tgr. märʕat, Tna. märʕat, Amh. mərat, Sod. märat, Wol. märat) is derived from PWS \*rʕw 'to join, to put together', with Gez. ʾarʕut 'yoke' (Kogan 2015, ch. 7 §4.1 no. 9).
 
 <!-- END kaphtor:record -->

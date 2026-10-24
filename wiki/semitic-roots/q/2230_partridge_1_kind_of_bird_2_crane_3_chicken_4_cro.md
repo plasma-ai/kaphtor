@@ -33,11 +33,11 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḳāriy-at-, ḳāriyy-at- 'a kind of bird with short legs, a long beak, and green back plumage, which presages rain (to the Arabs)' \[BK 2 731\], \[LA XV 180\]. | BK 2 731; LA XV 180 |  |
 | Hebrew | ḳōrē(ʔ) (HALOT 1132), pB. \[Ja. 1341\] | HALOT 1132; Ja. 1341 | gloss withheld |
 | Amharic | ḳʷǝrǝyye (ḳuriyyä) \[K 738\]. | K 738 | gloss withheld |
-| Judaic Aramaic | ḳōrēʔā \[Ja. 1341\] (also ḳōrā \[Ja. 1341\], ḳwr \[Sok. 483\]). | Ja. 1341; Ja. 1341; Sok. 483 | gloss withheld |
-| Geez | qurä (OLA80 §30.10) | OLA80 §30.10 | gloss withheld |
-| Gurage | qurä/eli (OLA80 §30.10) | OLA80 §30.10 | gloss withheld |
+| Judaic Aramaic | ḳōrēʔā \[Ja. 1341\] (also ḳōrā \[Ja. 1341\], ḳwr \[DJPA 483 apud CAL\]). | Ja. 1341; Ja. 1341; DJPA 483; CAL \] | gloss withheld |
+| Gafat | qurä (OLA80 §30.10) | OLA80 §30.10 | gloss withheld |
+| Gurage | qurä/e/i (OLA80 §30.10) | OLA80 §30.10 | gloss withheld |
 | Harari | kura (OLA80 §30.10) | OLA80 §30.10 | gloss withheld |
-| Argobba | qurā (OLA80 §30.10) | OLA80 §30.10 | gloss withheld |
+| Argobba | qurä (OLA80 §30.10) | OLA80 §30.10 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

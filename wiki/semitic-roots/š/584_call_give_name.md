@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | smy/w \[-u-\] |  |  |
 | Mehri | hmō |  |  |
 | Harsusi | hēm |  |  |
-| Epigraphic South Arabian | Sab smy (Biella 337) | Biella 337 | gloss withheld |
+| Epigraphic South Arabian | Sab smy (Biella 337; Sabaweb lemma 2142) | Biella 337; Sabaweb lemma 2142 | gloss withheld |
 | Geez | samaya (LGz. 504) | LGz. 504 |  |
 | Tigre | säma (LGz. 504) | LGz. 504 |  |
 

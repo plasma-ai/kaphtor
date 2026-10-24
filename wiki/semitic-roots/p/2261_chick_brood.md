@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | pura \[DM 368\]. | DM 368 | gloss withheld |
 | Geez | farḫ \[LGz. 166\]. | LGz. 166 | gloss withheld |
 | Hebrew | ʔäprōăḥ (HALOT 80), pirḥaḥ (HALOT 967); pB. päraḥ \[Ja. 1224\] | HALOT 80; HALOT 967; Ja. 1224; Pope 194 | gloss withheld |
-| Judaic Aramaic | ʔäprōḥā \[Ja. 108\], \[Levy WTM I 149\]; ʔprḥ \[Sok. 71\], parḥătā \[Ja. 1224\]. | Ja. 108; Levy WTM I 149; Sok. 71; Ja. 1224 | gloss withheld |
+| Judaic Aramaic | ʔäprōḥā \[Ja. 108\], \[Levy WTM I 149\]; ʔprḥ \[DJPA 71b apud CAL\], parḥătā \[Ja. 1224\]. | Ja. 108; Levy WTM I 149; DJPA 71b; CAL; Ja. 1224 | gloss withheld |
 | Syrian Aramaic | pāraḥtā 'bird' \[Brock. 594\], \[PS 3256\]. | Brock. 594; PS 3256 |  |
 | Aramaic | D.-Alla ʔprḥ \[HJ 98\] | HJ 98; Hackett 48 | gloss withheld |
 

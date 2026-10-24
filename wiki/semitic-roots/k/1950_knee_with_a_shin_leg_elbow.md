@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | kǝrāʕayim (dual) (HALOT 500) | HALOT 500 | gloss withheld |
 | Amharic | kǝrn \[K 1393\] | K 1393 | gloss withheld |
 | Epigraphic South Arabian | SAB krʕ \[SD 78; Sabaweb lemma 4466\] | SD 78; Sabaweb lemma 4466 | gloss withheld |
-| Judaic Aramaic | karʕā \[Ja 673\]; krʕ (pl. krʕyn, kwrʕn) \[Sok 270\] | Ja 673; Sok 270 | gloss withheld |
+| Judaic Aramaic | karʕā \[Ja 673\]; krʕ (pl. krʕyn, kwrʕn) \[DJPA 270a apud CAL\] | Ja 673; DJPA 270a; CAL | gloss withheld |
 | Harari | kuruʔ \[LHar 93\] | LHar 93 | gloss withheld |
 | Syrian Aramaic | kǝrāʕā 'leg' \[Brock 348\] | Brock 348 |  |
 | Tigrinya | kʷǝrnaʕ 'elbow' \[Bass 622\] | Bass 622 |  |

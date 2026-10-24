@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 702 derives JArm., Mnd. nwsḥʾ 'a copy' from Akk. nisḫu; Syr. nūsḥā 'copy, manuscript, codex' is from Arabic (PS 333). HALOT 702 refers to נסע: cf. 1003 \*nVsaʕ- 'tear out'. LGz. 402 compares Geez nassəḥa 'repent' with Arb. nasaḫa ('perhaps'); Geez ḥ does not answer \*ḫ, so S60 \*nsḥ stays apart.
+HALOT 702 derives JArm., Mnd. nwsḥʾ 'a copy' from Akk. nisḫu; Syr. nūsḥā 'copy, manuscript, codex' is from Arabic (Payne Smith 333). HALOT 702 refers to נסע: cf. 1003 \*nVsaʕ- 'tear out'. LGz. 402 compares Geez nassəḥa 'repent' with Arb. nasaḫa ('perhaps'); Geez ḥ does not answer \*ḫ, so S60 \*nsḥ stays apart.
 
 <!-- END kaphtor:record -->

@@ -34,13 +34,13 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | qdš (DULAT 685-6); /qadiš(a)/, /qidšu/ (UVST 173) | DULAT 685-6; UVST 173 | gloss withheld |
 | Phoenician | qdš (DNWSI 995 apud SEDonline 1864) | DNWSI 995; SEDonline 1864 | gloss withheld |
 | Hebrew | qādōš (HALOT 1066) | HALOT 1066 | gloss withheld |
-| Tigre | qədussām kətubām (OLA80 §31.12) | OLA80 §31.12 | gloss withheld |
+| Tigre | qəddusām kətubām (OLA80 §31.12) | OLA80 §31.12 | gloss withheld |
 | Aramaic | QDŠ (Aramaic Root Atlas; CAL s.v. qdš) | Aramaic Root Atlas; CAL s.v. qdš | gloss withheld |
 | Geez | qaddasa 'sanctify' | Anderson–Moser 2024 root qdš |  |
 | Punic | qdš; kdš (T 138) | T 138 | gloss withheld |
 | Judaic Aramaic | maqdᵉšā (HALOT 625); qdš, qudšā (HALOT 1072, 1076) | HALOT 625; HALOT 1072, 1076 |  |
 | Syrian Aramaic | maqdᵉšā (HALOT 625; Payne Smith 296); qudšā (HALOT 1076) | HALOT 625; Payne Smith 296; HALOT 1076 |  |
-| Epigraphic South Arabian | Sab. qds (HALOT 1066, 1076) | HALOT 1066, 1076 |  |
+| Epigraphic South Arabian | Sab. qds (HALOT 1066, 1076; Sabaweb lemma 4753) | HALOT 1066, 1076; Sabaweb lemma 4753 | gloss withheld |
 | Mandaic Aramaic | qadiša, qaduš, qudša (HALOT 1066, 1076) | HALOT 1066, 1076 |  |
 | Harsusi | qeds (LGz. 423) | LGz. 423 | gloss withheld |
 | Tigrinya | qäddäsä (LGz. 423) | LGz. 423 | gloss withheld |

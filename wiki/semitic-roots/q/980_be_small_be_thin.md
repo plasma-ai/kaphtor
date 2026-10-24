@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḳṭn LGz 453 | LGz 453 | gloss withheld |
 | Jibbali | East ḳéṭǝn id. |  |  |
 | Hebrew | ḳāṭān; ḳāṭōn (HALOT 1092) | HALOT 1092 | gloss withheld |
-| Epigraphic South Arabian | Sab ḳṭn |  | gloss withheld |
+| Epigraphic South Arabian | Sab ḳṭn (Sabaweb lemma 4816) | Sabaweb lemma 4816 | gloss withheld |
 | Syrian Aramaic | ḳṭn 'grow thin' (Payne Smith 501) | Payne Smith 501 |  |
 | Aramaic | QṬN (Aramaic Root Atlas; CAL s.v. qṭn) | Aramaic Root Atlas; CAL s.v. qṭn | gloss withheld |
 | Punic | qṭn; qṭn (T 287) | T 287 | gloss withheld |

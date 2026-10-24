@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | zḳn \[T 95\] | T 95 |  |
 | Modern Aramaic | MAL ḏeḳna \[Berg 22\] MLH deḳno \[J Mlah 172\] HRT daḳḳonta \[J Hert 185\], daḳna \[ibid.\] NASS diḳna \[Tser 057\] MMND deḳnā, abs. dāḳen \[M MND 493\] GZR díḳna \[Nak 72\] AZR diḳna \[Garb 305\] | Berg 22; J Mlah 172; J Hert 185; ibid.; Tser 057; Nak 72; Garb 305 | gloss withheld |
 | Hebrew | zāḳān (HALOT 278) | HALOT 278 | gloss withheld |
-| Judaic Aramaic | dǝḳan (diḳnā) \[Ja 319\], \[Sok 154\]; dḳn; dyḳnh | Ja 319; Sok 154 | gloss withheld |
+| Judaic Aramaic | dǝḳan (diḳnā) \[Ja 319\], \[DJPA 154b apud CAL\]; dḳn; dyḳnh | Ja 319; DJPA 154b; CAL | gloss withheld |
 | Syrian Aramaic | daḳnā \[Brock 164\] | Brock 164 |  |
 | Aramaic | OLD zḳn \[HJ 339\] | HJ 339 |  |
 | Punic | zqn 'beard' | Anderson–Moser 2024 root ḏqn |  |

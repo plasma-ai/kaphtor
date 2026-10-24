@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | kulīlu (CAD K 503), kalmatu OAkk. on \[CAD k 86\], \[AHw. 426\] | CAD K 503; CAD k 86; AHw. 426; Michel 1998 328 | gloss withheld |
 | Geez | kʷǝlkʷǝl(t) (LGz. 283) | LGz. 283 | gloss withheld |
-| Judaic Aramaic | kalmā, kalmǝtā \[Ja. 645\], \[Levy WT I 367\], \[Levy WTM II 341\], klmh \[Sok. 261\] | Ja. 645; Levy WT I 367; Levy WTM II 341; Sok. 261 | gloss withheld |
+| Judaic Aramaic | kalmā, kalmǝtā \[Ja. 645\], \[Levy WT I 367\], \[Levy WTM II 341\], klmh \[DJPA 261a apud CAL\] | Ja. 645; Levy WT I 367; Levy WTM II 341; DJPA 261a; CAL | gloss withheld |
 | Aramaic | klmh \[HJ 513\] | HJ 513; KAI 222; Tawil 60-2; Fitzmyer 88-9; Tal 391 | gloss withheld |
 | Eblaitic | kà-ma-tum (OLA80 §11.7, §24.2) | OLA80 §11.7, §24.2 | gloss withheld |
 

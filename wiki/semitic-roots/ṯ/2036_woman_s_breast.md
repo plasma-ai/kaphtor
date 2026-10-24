@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/2036_woman_s_breast
 title: "*ṯa/ud-: (woman's) breast"
-desc: "Proto-Semitic *ṯa/ud-, (woman's) breast: reflexes in 10 language(s)."
+desc: "Proto-Semitic *ṯa/ud-, (woman's) breast: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2036"
@@ -38,8 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ṯɔ́dɛʔ \[JJ 283\] | JJ 283 | gloss withheld |
 | Hebrew | šād (du. šādayim) (HALOT 1416, 1417), šōd (HALOT 1418) | HALOT 1416, 1417; HALOT 1418 | gloss withheld |
 | Judaic Aramaic | taddā \[Ja 1647\]; td (pl. tdyn, tddyn) \[DJPA 575b apud CAL\] | Ja 1647; DJPA 575b; CAL | gloss withheld |
-| Syrian Aramaic | tǝdā 'breast' \[Brock 816\] | Brock 816 |  |
-| Aramaic | tādā (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
+| Syrian Aramaic | tǝdā \[Brock 816; OLA80 §30.11\] | Brock 816; OLA80 §30.11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2719_god_deity_El_supreme_god
 title: "*ʾil-: 'god, deity; El (supreme god)'"
-desc: "Proto-Semitic *ʾil-, 'god, deity; El (supreme god)': reflexes in 11 language(s)."
+desc: "Proto-Semitic *ʾil-, 'god, deity; El (supreme god)': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2719"
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʔīl 'God' (Payne Smith 13); ʔalāh 'God; a false god' (Payne Smith 17) | Payne Smith 13; Payne Smith 17 |  |
 | Pre-Islamic North Arabian | Safaitic ʾlh (Al-Jallad–Jaworska 43) | Al-Jallad–Jaworska 43 | gloss withheld |
 | Mehri | ʔāl (Lonnet 2005:206 apud SEDonline 1116) | SEDonline 1116 | gloss withheld |
+| Aramaic | OAram. ʾlh (Kogan 2015, ch. 3 §5.2 no. 2, fn. 503) | Kogan 2015, ch. 3 §5.2 no. 2, fn. 503 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

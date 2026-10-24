@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ṣlḥ in personal names (HALOT 1025) | HALOT 1025 | gloss withheld |
 | Biblical Aramaic | ṣlḥ 'prosper' (BDB 1109) | BDB 1109 |  |
 | Syrian Aramaic | ṣəlaḥ (HALOT 1025) | HALOT 1025 |  |
-| Epigraphic South Arabian | Sab. ṣlḥ (HALOT 1025) | HALOT 1025 |  |
+| Epigraphic South Arabian | Sab. ṣlḥ (HALOT 1025; Sabaweb lemma 5189) | HALOT 1025; Sabaweb lemma 5189 | gloss withheld |
 | Arabic | ṣalaḥa (HALOT 1025) | HALOT 1025 |  |
 | Tigre | ṣalḥa (HALOT 1025) | HALOT 1025 |  |
 

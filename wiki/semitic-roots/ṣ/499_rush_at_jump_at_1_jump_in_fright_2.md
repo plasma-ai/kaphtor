@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/499_rush_at_jump_at_1_jump_in_fright_2
 title: "*ṣVwVl-: 'rush at, jump at' 1, 'jump in fright' 2"
-desc: "Proto-Semitic *ṣVwVl-, 'rush at, jump at' 1, 'jump in fright' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *ṣVwVl-, 'rush at, jump at' 1, 'jump in fright' 2: reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "499"
@@ -32,7 +32,6 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṣwl \[-u-\] 1 |  |  |
 | Jibbali | ṣell 2 |  |  |
-| Eblaitic | a-sa-lu (OLA80 §31.26) | OLA80 §31.26 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ssw, śśw, sswt \[DULAT 760-1\] | DULAT 760-1; Tropper UG 45 | gloss withheld |
 | Phoenician |  | HJ 795; T 231; Krah. 346; KAI 26 | source's text withheld |
 | Hebrew | sūs (HALOT 746), pB. \[Ja. 967\] | HALOT 746; Ja. 967 | gloss withheld |
-| Judaic Aramaic | sūsǝyā (pl. sūsǝwān), sūsā \[Ja. 967\], \[Levy WTM III 492\]; sūsē, det. sūsǝyā, pl. swswwn id. \[Sok. 371\]. | Ja. 967; Levy WTM III 492; Sok. 371 | gloss withheld |
+| Judaic Aramaic | sūsǝyā (pl. sūsǝwān), sūsā \[Ja. 967\], \[Levy WTM III 492\]; sūsē, det. sūsǝyā, pl. swswwn id. \[DJPA 371a apud CAL\]. | Ja. 967; Levy WTM III 492; DJPA 371a; CAL | gloss withheld |
 | Syrian Aramaic | sūsǝyā 'horse', sūsǝtā 'mare' \[Brock. 464-5\], \[PS 2574\]. | Brock. 464-5; PS 2574 |  |
 | Aramaic | D.-Alla ssh \[HJ 795\] | HJ 795; Hackett 72; HJ 795; KAI 222; Fitzmyer 80; HJ 795; PY XLV; HJ 795; Cantineau II 123; HJ 795; PAT 391; HJ 1261 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ss (Al-Jallad–Jaworska 123) | Al-Jallad–Jaworska 123 | gloss withheld |

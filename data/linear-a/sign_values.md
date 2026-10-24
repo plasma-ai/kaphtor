@@ -24,8 +24,8 @@ composites). Values beyond Linear B are di Mino's unless a record names another 
 A value is **resolved** only on support that does not depend on a Semitic match: a Linear B value, a scribe's
 arithmetic, or a spelling variant of the same word. `resolution_summary.proposed` lists the other values of CANDIDATE
 or above, each `{entry, evidence}`, with the evidence where given. A **speculative** value sits in its sign's record
-only. The resolved total counts phonemic values and logograms; fractions are counted apart. The file holds 39 values:
-5 resolved (2 phonemic, 3 logograms) and 34 proposed (13 phonemic, 21 logograms), plus 3 resolved and 11 proposed
+only. The resolved total counts phonemic values and logograms; fractions are counted apart. The file holds 38 values:
+5 resolved (2 phonemic, 3 logograms) and 33 proposed (12 phonemic, 21 logograms), plus 3 resolved and 11 proposed
 fraction values.
 
 Each syllabogram record:

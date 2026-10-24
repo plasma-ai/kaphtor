@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3121_to_dig_hollow_out
 title: "*kry: 'to dig, hollow out'"
-desc: "Proto-Semitic *kry, 'to dig, hollow out': reflexes in 10 language(s)."
+desc: "Proto-Semitic *kry, 'to dig, hollow out': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3121"
@@ -33,12 +33,13 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | karā (LGz. 295); krw (HALOT 496) | LGz. 295; HALOT 496 |  |
 | Hebrew | kārā (HALOT 496); kārā (LGz. 295) | HALOT 496; LGz. 295 | gloss withheld |
 | Mandaic Aramaic | kra (LGz. 295) | LGz. 295 |  |
-| Ugaritic | kry (LGz. 295) | LGz. 295 |  |
+| Ugaritic | kry (DULAT 454; LGz. 295) | DULAT 454; LGz. 295 | gloss withheld |
 | Tigre | kära (LGz. 295) | LGz. 295 |  |
 | Amharic | käräyyä (LGz. 295) | LGz. 295 |  |
 | Gurage | käre (LGz. 295) | LGz. 295 |  |
 | East Ethiopic | Sel. käre \[LHar 97\] | LHar 97 |  |
 | Harari | xara \[LHar 97\] | LHar 97 | gloss withheld |
+| Judaic Aramaic | JBA kry (Kogan 2015, ch. 2 §5.2.2.1 no. 13) | Kogan 2015, ch. 2 §5.2.2.1 no. 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

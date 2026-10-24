@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ḳl 1 |  |  |
 | Hebrew | ḳōl 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 15) | Kogan 2015, ch. 2 §5.2.2.1 no. 15 |  |
 | Amharic | ḳal 4 |  |  |
-| Epigraphic South Arabian | ḳwl |  | gloss withheld |
+| Epigraphic South Arabian | ḳwl; (Sabaweb lemma 4823) | Sabaweb lemma 4823 | gloss withheld |
 | Syrian Aramaic | ḳāl- 1 (Payne Smith 505) | Payne Smith 505 |  |
 | Tigrinya | ḳal 4 |  |  |
 | Punic | ql (Krahmalkov 426–427) | Krahmalkov 426–427 | gloss withheld |

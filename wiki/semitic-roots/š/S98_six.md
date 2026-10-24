@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šiššā (OLA80 §35.2, §35.11) | OLA80 §35.2, §35.11 |  |
 | Arabic | sitta (OLA80 §35.2, §35.11) | OLA80 §35.2, §35.11 |  |
 | Ugaritic | ṯṯ (OLA80 §35.11) | OLA80 §35.11 |  |
-| Epigraphic South Arabian | Sab s1dṯ (SD 124) | SD 124 | gloss withheld |
+| Epigraphic South Arabian | Sab s1dṯ (SD 124; Sabaweb lemma 1382) | SD 124; Sabaweb lemma 1382 | gloss withheld |
 | Aramaic | št (DNWSI 1196 apud CAL) | DNWSI 1196; CAL | gloss withheld |
 | Punic | šš (HALOT 1663) | HALOT 1663 | gloss withheld |
 | Syrian Aramaic | štā; štīn (SEDRA 3331, 3332) | SEDRA 3331, 3332 | gloss withheld |

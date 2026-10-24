@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḳʷärʔǝd \[Rein Bil 242\]; ḳärad (LH 244) | Rein Bil 242; LH 244 | gloss withheld |
 | Amharic | ṭǝḳur (in ṭǝḳur ǝnziz) \[K 1228\]. | K 1228 | gloss withheld |
 | Judaic Aramaic | ḳardā 'abdominal pain caused by a parasitic worm' \[Ja. 1412\]; ṭǝrīḳayyā 'a sort of wasps' \[ibid. 554\] (cf. \[Levy WT I 322\]). | Ja. 1412; ibid. 554; Levy WT I 322 |  |
-| Syrian Aramaic | ḳerdā 'ricinus' \[Brock. 693\], \[PS 3730\] ('small animal infesting sheep, cattle, etc.'). | Brock. 693; PS 3730 |  |
+| Syrian Aramaic | ḳerdā 'tick' \[Brock. 693\], \[PS 3730\] ('small animal infesting sheep, cattle, etc.'). | Brock. 693; PS 3730 |  |
 | Tigrinya | ḳʷärʔǝdǝt \[Rein Bil 242\]; ṭäḳäray \[Bass. 907\] (note also ṭǝrḳä \[K Tna 2427\]) | Rein Bil 242; Bass. 907; K Tna 2427 | gloss withheld |
 | Harari | ḳurdud (LHar. 129) | LHar. 129 | gloss withheld |
 | Gurage | Zwy. ḳərdaǯi (LGur. 497) | LGur. 497 | gloss withheld |

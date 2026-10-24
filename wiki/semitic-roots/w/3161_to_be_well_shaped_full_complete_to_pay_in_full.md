@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/w/3161_to_be_well_shaped_full_complete_to_pay_in_full
 title: "*wpy: 'to be well-shaped, full, complete; to pay in full'"
 desc: "Proto-Semitic *wpy, 'to be well-shaped, full, complete; to pay in full': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3161"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *wpy: 'to be well-shaped, full, complete; to pay in full'

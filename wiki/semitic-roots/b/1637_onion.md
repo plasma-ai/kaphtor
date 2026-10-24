@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | beṣal |  |  |
 | Harsusi | beṣel |  |  |
 | Hebrew | bāṣal |  |  |
-| Epigraphic South Arabian | bṣl |  |  |
+| Epigraphic South Arabian | bṣl (Sabaweb lemma 2946) | Sabaweb lemma 2946 | gloss withheld |
 | Aramaic | beṣl- (CAL s.v. bṣl) | CAL s.v. bṣl |  |
 | Syrian Aramaic | beṣlā (HALOT 147; Payne Smith 52) | HALOT 147; Payne Smith 52 |  |
 | Soqotri | biṣle (HALOT 147) | HALOT 147 |  |

@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | bar (Maclean 37) | Maclean 37 |  |
 | Jibbali | bɛr (JJ 28) | JJ 28 |  |
 | Amharic | cf. yäʔayn brät (K 884) | K 884 | gloss withheld |
-| Epigraphic South Arabian | Sab brw (SD 32); Min brw (LM 24) | SD 32; LM 24 |  |
+| Epigraphic South Arabian | Sab brw (SD 32; Sabaweb lemma 1981); Min brw (LM 24) | SD 32; Sabaweb lemma 1981; LM 24 | gloss withheld |
 | Judaic Aramaic | bar (Ja 188), bēr, bar (DJPA 97a apud CAL) | Ja 188; DJPA 97a; CAL |  |
 | Aramaic | DA, Sam, OAram OffAr, Nab, Palm, Hatra br (HJ 188-193); Sam bar (Tal 103) | HJ 188-193; Tal 103 |  |
 | Syrian Aramaic | bartā (Payne Smith 56); brā (Kogan 2011, 234) | Payne Smith 56; Kogan 2011, 234 | gloss withheld |
@@ -50,6 +50,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Hebrew bar (KB deutsch, 146) (&lt; Arm).
+Hebrew bar (KB deutsch, 146) (&lt; Arm). Common MSA \*brw 'to give birth' (Mhr. bərō, Jib. bíri, Soq. bére) is unseparable from these nouns (Kogan 2011, 228).
 
 <!-- END kaphtor:record -->

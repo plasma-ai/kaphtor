@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʿawdi (LGz. 77) | LGz. 77 | gloss withheld |
 | Gurage | awd (LGz. 77) | LGz. 77 | gloss withheld |
 | Harari | ūd (LGz. 77) | LGz. 77 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿwd (SD 22 apud SEDonline 1245); Min ʿwd (ML 17 apud SEDonline 1245) | SD 22; SEDonline 1245; ML 17; SEDonline 1245 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿwd (SD 22 apud SEDonline 1245; Sabaweb lemma 3862); Min ʿwd (ML 17 apud SEDonline 1245) | SD 22; SEDonline 1245; Sabaweb lemma 3862; ML 17; SEDonline 1245 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

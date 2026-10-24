@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | mrṣ \[Aist 196\] | Aist 196 | gloss withheld |
 | Jibbali | mírẕ́ \[JJ 174\] | JJ 174 | gloss withheld |
 | Hebrew | mrṣ (N) (HALOT 637) | HALOT 637 | gloss withheld |
-| Epigraphic South Arabian | SAB mrḍ \[SD 87\] | SD 87 | gloss withheld |
+| Epigraphic South Arabian | SAB mrḍ \[SD 87; Sabaweb lemma 1308\] | SD 87; Sabaweb lemma 1308 | gloss withheld |
 | Judaic Aramaic | mǝraʕ \[Ja 845\]; mrʕ \[DJPA 331b apud CAL\] | Ja 845; DJPA 331b; CAL | gloss withheld |
 | Syrian Aramaic | mǝraʕ 'he/she was sick, fell ill' \[Brock 405\] | Brock 405 |  |
 | Aramaic | OLD mrḳ, OFF mrʕ \[HJ 695\] | HJ 695 | gloss withheld |

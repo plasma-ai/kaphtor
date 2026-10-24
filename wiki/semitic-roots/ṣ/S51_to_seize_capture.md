@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | iṣbat (OLA80 §38.3, §46.2) | OLA80 §38.3, §46.2 |  |
+| Akkadian | iṣbat (OLA80 §46.2) | OLA80 §46.2 |  |
 | Phoenician | ṣbt (T 275) | T 275 | gloss withheld |
 | Hebrew | ṣbṭ (HALOT 997) | HALOT 997 | gloss withheld |
 | Ugaritic | mṣbṭ (DULAT 577) | DULAT 577 | gloss withheld |
@@ -49,6 +49,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-OLA80 §38.3, §46.2
+OLA80 §46.2
 
 <!-- END kaphtor:record -->

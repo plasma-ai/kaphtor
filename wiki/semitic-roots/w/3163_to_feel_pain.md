@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/w/3163_to_feel_pain
 title: "*wṣ̂ḥ: 'to feel pain'"
 desc: "Proto-Semitic *wṣ̂ḥ, 'to feel pain': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3163"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *wṣ̂ḥ: 'to feel pain'

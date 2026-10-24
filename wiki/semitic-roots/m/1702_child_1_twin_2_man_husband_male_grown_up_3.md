@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | miss |  | gloss withheld |
 | Harari | miš |  | gloss withheld |
 | Argobba | mis |  | gloss withheld |
-| Egyptian | m3, m3l (OLA80 §8.18) | OLA80 §8.18 | gloss withheld |
+| Egyptian | mś, mśỉ (OLA80 §8.18) | OLA80 §8.18 | gloss withheld |
 | Geez | mossay (OLA80 §8.18) | OLA80 §8.18 | gloss withheld |
 | Amharic | mossa (OLA80 §8.18) | OLA80 §8.18 | gloss withheld |
 

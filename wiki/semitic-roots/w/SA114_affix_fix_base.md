@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wqf; mwqf (SD 161) | SD 161 | gloss withheld |
+| Epigraphic South Arabian | Sab wqf; mwqf (SD 161); wqf (Sabaweb lemma 5407) | SD 161; Sabaweb lemma 5407 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

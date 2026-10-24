@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ṯʾr (SD 149; Biella 539) | SD 149; Biella 539 | gloss withheld |
+| Epigraphic South Arabian | Sab ṯʾr (SD 149; Biella 539; Sabaweb lemma 5263) | SD 149; Biella 539; Sabaweb lemma 5263 | gloss withheld |
 | Arabic | Ar ṯaʾara id. (Biella 539) | Biella 539 |  |
 | Pre-Islamic North Arabian | Safaitic ṯʾr (Al-Jallad–Jaworska 135) | Al-Jallad–Jaworska 135 | gloss withheld |
 | Ugaritic | ṯʔr (DULAT 878) | DULAT 878 | gloss withheld |

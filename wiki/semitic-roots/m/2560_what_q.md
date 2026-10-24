@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | mā |  |  |
+| Arabic | mā (Kogan 2015, ch. 3 §5.1 no. 6) | Kogan 2015, ch. 3 §5.1 no. 6 |  |
 | Soqotri | mī (cf. inim (JM 150: -(ǝ)n an obsolete marker of oblique case - in Mhr!)) | JM 150: -(ǝ)n an obsolete marker of oblique case - in Mhr! | gloss withheld |
 | Akkadian | mā |  | gloss withheld |
 | Tigre | mi, mǝ |  |  |
@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | mā |  |  |
 | Phoenician | m |  |  |
 | Modern Aramaic | Urm mū(-dī) |  |  |
-| Hebrew | mā |  |  |
+| Hebrew | mā (Kogan 2015, ch. 3 §5.1 no. 6) | Kogan 2015, ch. 3 §5.1 no. 6 |  |
 | Epigraphic South Arabian | m |  |  |
 | Aramaic | Pal mh (DJPA 292b apud CAL) | DJPA 292b; CAL |  |
 | Amorite | ma-a (OLA80 §36.58) | OLA80 §36.58 | gloss withheld |

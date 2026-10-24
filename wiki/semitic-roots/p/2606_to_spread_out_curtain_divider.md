@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | naprušu AHw 740 | AHw 740 |  |
-| Ugaritic | prš (HALOT 975) | HALOT 975 |  |
+| Ugaritic | prš (DULAT 672; HALOT 975) | DULAT 672; HALOT 975 | gloss withheld |
 | Epigraphic South Arabian | Sab. prś (HALOT 975) | HALOT 975 |  |
 | Arabic | faraša (HALOT 975); faraša (Lane 2369) | HALOT 975; Lane 2369 | gloss withheld |
 | Jibbali | férɔ́ŝ (JL 61 apud SEDonline 1293) | JL 61; SEDonline 1293 | gloss withheld |

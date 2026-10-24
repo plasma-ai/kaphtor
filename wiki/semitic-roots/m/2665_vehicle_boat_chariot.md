@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez markab 'boat' (LGz. 358; &lt; Ar). Gurage märkäb 'boat' (OLA80 §63.4; &lt; Ar). Harari mārkāb 'boat' (OLA80 §63.4; &lt; Ar).
+Geez markab 'boat' (LGz. 358; &lt; Ar). Gurage märkäb 'boat' (OLA80 §63.4; &lt; Ar). Harari märkäb 'boat' (OLA80 §63.4; &lt; Ar).
 
 <!-- END kaphtor:record -->

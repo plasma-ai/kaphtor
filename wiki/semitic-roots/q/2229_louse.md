@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḳʷǝmāl, ḳǝmāl \[LGz. 432\]. | LGz. 432 | gloss withheld |
 | Gurage | Msq. Gog. Sod. ḳǝmal, Sel. Wol. ḳumal, Cha. Eža ḳǝmar, Gyt. ḳǝm̱ār, Zwy. ḳǝmāy, Muh. ḳǝme, Enm. ʔǝ̃m̱ār, End. ʔǝwān \[LGur. 481\]. | LGur. 481 | gloss withheld |
 | Amharic | ḳǝmal id. \[K 700\]. | K 700 |  |
-| Epigraphic South Arabian | Sab. ḳmlt \[SD 105\] | SD 105; Sima 129ff; SD 105; Sima 131; Sima 131ff; SD 105; Sima 131 | gloss withheld |
-| Judaic Aramaic | ḳalmǝtā 'vermin' \[Ja. 1378\], \[Levy WT II 363\]. | Ja. 1378; Levy WT II 363 |  |
+| Epigraphic South Arabian | Sab. ḳmlt \[SD 105; Sabaweb lemma 3056\] | SD 105; Sabaweb lemma 3056; Sima 129ff; SD 105; Sabaweb lemma 4764; Sima 131; Sima 131ff; SD 105; Sabaweb lemma 2467; Sima 131 | gloss withheld |
+| Judaic Aramaic | ḳalmǝtā 'vermin' \[Ja. 645\], \[Levy WT II 363\]. | Ja. 645; Levy WT II 363 |  |
 | Syrian Aramaic | ḳalmā 'louse; a small creature infesting grain' \[Brock. 668\], \[PS 3635\]. | Brock. 668; PS 3635 |  |
 | Aramaic | Anc. ḳml \[HJ 1013\] | HJ 1013; KAI 222; Fitzmyer 88-9; Tawil 61 | gloss withheld |
 | Tigrinya | ḳumal id. \[Bass. 288\]. | Bass. 288 |  |

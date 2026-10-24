@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/q/3178_earth_as_a_solid_surface_ground
 title: "*ḳarḳar-: 'earth as a solid surface (ground)'"
 desc: "Proto-Semitic *ḳarḳar-, 'earth as a solid surface (ground)': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3178"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ḳarḳar-: 'earth as a solid surface (ground)'

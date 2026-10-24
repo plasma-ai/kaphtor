@@ -35,21 +35,21 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | šem |  |  |
 | Akkadian | šum- |  |  |
 | Harsusi | hem |  |  |
-| Tigre | sǝm |  |  |
+| Tigre | šǝm (Kogan 2015, ch. 7 §2.2 no. 57) | Kogan 2015, ch. 7 §2.2 no. 57 |  |
 | Mandaic Aramaic | šum- (Drower/Macuch 454b apud CAL) | Macuch 454b; CAL |  |
 | Ugaritic | šm |  |  |
 | East Ethiopic | Wol sum |  |  |
-| Geez | sǝm |  |  |
-| Gurage | Cha šǝm |  |  |
+| Geez | sǝm (Kogan 2015, ch. 7 §2.2 no. 57) | Kogan 2015, ch. 7 §2.2 no. 57 |  |
+| Gurage | Cha šǝm; Sod sǝm (Kogan 2015, ch. 7 §2.2 no. 57) | Kogan 2015, ch. 7 §2.2 no. 57 |  |
 | Biblical Aramaic | šum (CAL s.v. šm) | CAL s.v. šm |  |
 | Modern Arabic | Leb ʔǝsǝm, Mec ism, Mlt isem |  |  |
 | Phoenician | šm (T 321) | T 321 | gloss withheld |
 | Modern Aramaic | Urm šimm- |  |  |
 | Jibbali | šum |  |  |
 | Hebrew | šēm |  |  |
-| Amharic | sǝm |  |  |
+| Amharic | sǝm (Kogan 2015, ch. 7 §2.2 no. 57) | Kogan 2015, ch. 7 §2.2 no. 57 |  |
 | Epigraphic South Arabian | s1m (Sabaweb lemma 5018) | Sabaweb lemma 5018 | gloss withheld |
-| Harari | sum |  |  |
+| Harari | sum (Kogan 2015, ch. 7 §2.2 no. 57) | Kogan 2015, ch. 7 §2.2 no. 57 |  |
 | Syrian Aramaic | šǝm (Payne Smith 583) | Payne Smith 583 |  |
 | Gafat | sǝmʷä |  |  |
 | Aramaic | Pal šēm, šwm (DJPA 555b apud CAL) | DJPA 555b; CAL |  |

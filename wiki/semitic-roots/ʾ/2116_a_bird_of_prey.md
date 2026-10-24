@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2116_a_bird_of_prey
 title: "*ʾan(V)ḳ-: 'a bird of prey'"
-desc: "Proto-Semitic *ʾan(V)ḳ-, 'a bird of prey': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʾan(V)ḳ-, 'a bird of prey': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2116"
@@ -34,7 +34,6 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʔanḳe, ʔanḳet \[LGz. 30\]. | LGz. 30 | gloss withheld |
 | Gurage | Cha. Eža Muh. Msq. Gog. anḳ'ǝt, End. Gyt. anḳ'it \[LGur. 73\]. | LGur. 73 | gloss withheld |
 | Amharic | anč̣ǝt \[K 1252\], ǝn(ǝ)ḳ(ḳ)e \[ibid. 1215\]. | K 1252; ibid. 1215 | gloss withheld |
-| Judaic Aramaic | ʔinḳā \[Ja. 102\] | Ja. 102 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

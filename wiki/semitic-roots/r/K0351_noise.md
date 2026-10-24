@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/r/K0351_noise
-title: "*ranaoan-: 'noise'"
-desc: "Proto-Semitic *ranaoan-, 'noise': reflexes in 3 language(s)."
+title: "*rVnVn-: 'noise'"
+desc: "Proto-Semitic *rVnVn-, 'noise': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0351"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
-# *ranaoan-: 'noise'
+# *rVnVn-: 'noise'
 
 [[wiki/semitic-roots/r/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*ranaoan- |
+| Reconstruction | \*rVnVn- |
 | Meaning | 'noise' |
 | Basis | project |
 
@@ -32,6 +32,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ranna 'moaned' | Anderson–Moser 2024 root rnn |  |
 | Aramaic | RNN (Aramaic Root Atlas; CAL s.v. rnn) | Aramaic Root Atlas; CAL s.v. rnn | gloss withheld |
 | Hebrew | rannen 'cry' (BDB 943) | BDB 943 |  |
+| Ugaritic | rn (Kogan 2015, ch. 3 §5.3 no. 29) | Kogan 2015, ch. 3 §5.3 no. 29 | gloss withheld |
+| Judaic Aramaic | JPA rnn; JBA rnn (Kogan 2015, ch. 3 §5.3 no. 29) | Kogan 2015, ch. 3 §5.3 no. 29 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

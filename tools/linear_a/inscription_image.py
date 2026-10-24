@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Query Linear A inscription and facsimile images from a local lashon-ha-kretan checkout.
 
-Set LASHON_HA_KRETAN_DIR to the checkout (the folder holding `images/`). The manifest `build` writes goes to the
+Set LASHON_HA_KRETAN_DIR to the checkout (the folder holding `images/`). data/linear-a/inscription_image_files.json
+names each record's files there; corpus.json gives its site and context. The manifest `build` writes goes to the
 user cache (CACHE/linear-a/inscription_images.json) unless --out names another file. The images are their
 sources', not ours to redistribute.
 
@@ -36,6 +37,7 @@ from ..core.normalization import normalize_id
 from ..paths import CACHE, LINEAR_A_DATA, NotInCheckout, require
 
 CORPUS_PATH = LINEAR_A_DATA / "corpus.json"
+FILES_PATH = LINEAR_A_DATA / "inscription_image_files.json"
 MANIFEST_PATH = CACHE / "linear-a" / "inscription_images.json"
 
 DEFAULT_LASHON_DIRS = [
@@ -62,6 +64,11 @@ def lashon_dir() -> Path:
 
 def load_corpus() -> dict:
     return json.loads(require(CORPUS_PATH, CORPUS_PATH.name).read_text(encoding="utf-8"))
+
+
+def load_file_index() -> dict:
+    """Each record's image files in a lashon-ha-kretan checkout: {id: {"inscription": [...], "facsimile": [...]}}."""
+    return json.loads(require(FILES_PATH, FILES_PATH.name).read_text(encoding="utf-8"))["files"]
 
 
 def safe_file_stem(value: str) -> str:
@@ -162,19 +169,21 @@ def file_record(inscription_id: str, kind: str, rel_path: str, root: Path) -> di
 def build_manifest() -> dict:
     root = lashon_dir()
     corpus = load_corpus()
+    index = load_file_index()
     records = {}
     all_files = []
     missing = []
     for inscription_id, entry in corpus.items():
+        files = index.get(inscription_id, {})
         images = []
-        for rel in entry.get("images") or []:
+        for rel in files.get("inscription") or []:
             rec = file_record(inscription_id, "image", rel, root)
             images.append(rec)
             all_files.append(rec)
             if not rec["exists"]:
                 missing.append(rec)
         facsimiles = []
-        for rel in entry.get("facsimileImages") or []:
+        for rel in files.get("facsimile") or []:
             rec = file_record(inscription_id, "facsimile", rel, root)
             facsimiles.append(rec)
             all_files.append(rec)
@@ -196,7 +205,7 @@ def build_manifest() -> dict:
         }
     manifest = {
         "disclaimer": DISCLAIMER,
-        "generated_from": str(CORPUS_PATH),
+        "generated_from": [str(FILES_PATH), str(CORPUS_PATH)],
         "lashon_ha_kretan_dir": str(root),
         "records": records,
         "summary": summarize(records, all_files, missing),
@@ -234,12 +243,19 @@ def summarize(records: dict, all_files: list[dict], missing: list[dict] | None =
 
 
 def load_manifest(rebuild: bool = False) -> dict:
-    if rebuild or not MANIFEST_PATH.exists():
-        manifest = build_manifest()
-        MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
-        MANIFEST_PATH.write_text(json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8")
-        return manifest
-    return json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    """The cached manifest while it is current: built from these sources and this checkout, after their last change."""
+    sources = [FILES_PATH, CORPUS_PATH]
+    if not rebuild and MANIFEST_PATH.exists():
+        manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+        newest = max((p.stat().st_mtime for p in sources if p.exists()), default=0.0)
+        if (manifest.get("generated_from") == [str(p) for p in sources]
+                and manifest.get("lashon_ha_kretan_dir") == str(lashon_dir())
+                and MANIFEST_PATH.stat().st_mtime >= newest):
+            return manifest
+    manifest = build_manifest()
+    MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    MANIFEST_PATH.write_text(json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8")
+    return manifest
 
 
 def record_files(record: dict, kind: str) -> list[dict]:

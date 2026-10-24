@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | atana \[DM 42\]. | DM 42 | gloss withheld |
 | Ugaritic | ʔatnt (pl.) \[DULAT 119\] | DULAT 119 | gloss withheld |
 | Hebrew | ʔātōn (HALOT 102). | HALOT 102 | gloss withheld |
-| Judaic Aramaic | ʔătānā, ʔattānā, ʔatnā \[Ja. 133\], \[Levy WTM I 185\]; ʔtn id. \[Sok. 81\], ʔättānā (det. ʔtnth) id. \[ibid.\]. // Sam. ʔtn, ʔtwn \[Tal 73\]. | Ja. 133; Levy WTM I 185; Sok. 81; ibid.; Tal 73 | gloss withheld |
+| Judaic Aramaic | ʔătānā, ʔattānā, ʔatnā \[Ja. 133\], \[Levy WTM I 185\]; ʔtn id. \[DJPA 81b apud CAL\], ʔättānā (det. ʔtnth) id. \[DJPA 81b apud CAL\]. // Sam. ʔtn, ʔtwn \[Tal 73\]. | Ja. 133; Levy WTM I 185; DJPA 81b; CAL; DJPA 81b; CAL; Tal 73 | gloss withheld |
 | Syrian Aramaic | ʔattānā 'she-ass, female donkey' \[Brock. 55\], \[PS 424\]. | Brock. 55; PS 424 |  |
 | Aramaic | Off. ʔtn \[HJ 136\] (\[Kott. 191\], \[PY XXVI\]). | HJ 136; Kott. 191; PY XXVI | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾtn (Al-Jallad–Jaworska 49) | Al-Jallad–Jaworska 49 | gloss withheld |

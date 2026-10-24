@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | šaṭāru (CAD Š/2 225) | CAD Š/2 225 | gloss withheld |
 | Aramaic | ŠṬR (Aramaic Root Atlas; DNWSI 1123 apud CAL) | Aramaic Root Atlas; DNWSI 1123; CAL | gloss withheld |
-| Epigraphic South Arabian | Sab sṭr (Biella 331, 332) | Biella 331, 332 | gloss withheld |
+| Epigraphic South Arabian | Sab sṭr (Biella 331, 332; Sabaweb lemma 5045) | Biella 331, 332; Sabaweb lemma 5045 | gloss withheld |
 | Arabic | saṭara (HALOT 1475) | HALOT 1475 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ
 desc: "Semitic roots whose first radical is ṣ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/ṣ
@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṣ/1486_burn|1486_burn]]: Proto-Semitic *ṣVrVp-, 'burn': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ṣ/1492_snake|1492_snake]]: Proto-Semitic *ṣV[ʕ]Vr-, 'snake': reflexes in 1 language(s).
+[[wiki/semitic-roots/ṣ/1492_snake|1492_snake]]: Proto-Semitic *ṣV[ʕ]Vr-, 'snake': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṣ/16_son_in_law_1_brother_in_law_2|16_son_in_law_1_brother_in_law_2]]: Proto-Semitic *ṣih(V)r-, 'son-in-law' 1, 'brother-in-law' 2: reflexes in 1 language(s).
 
@@ -55,7 +55,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṣ/2271_grasshopper_locust|2271_grasshopper_locust]]: Proto-Semitic *ṣarṣar-, 'grasshopper, locust': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ṣ/2277_wild_dove|2277_wild_dove]]: Proto-Semitic *ṣVlṣVl-, '(wild) dove': reflexes in 6 language(s).
+[[wiki/semitic-roots/ṣ/2277_wild_dove|2277_wild_dove]]: Proto-Semitic *ṣVlṣVl-, '(wild) dove': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ṣ/2278_kind_of_bird_of_prey|2278_kind_of_bird_of_prey]]: Proto-Semitic *ṣVl-, 'kind of bird of prey': reflexes in 7 language(s).
 
@@ -81,11 +81,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṣ/2618_to_make_act_skillfully|2618_to_make_act_skillfully]]: Proto-Semitic *ṣnʕ, 'to make, act skillfully': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ṣ/2672_rock_cliff_coastal|2672_rock_cliff_coastal]]: Proto-Semitic *ṣwr-, 'rock, cliff (coastal)': reflexes in 3 language(s).
-
 [[wiki/semitic-roots/ṣ/2679_wool|2679_wool]]: Proto-Semitic *ṣVmr-, 'wool': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/ṣ/2690_to_gleam_be_yellowish|2690_to_gleam_be_yellowish]]: Proto-Semitic *ṣahab-, 'to gleam, be yellowish': reflexes in 2 language(s).
+[[wiki/semitic-roots/ṣ/2690_to_gleam_be_yellowish|2690_to_gleam_be_yellowish]]: Proto-Semitic *ṣahab-, 'to gleam, be yellowish': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṣ/2727_to_dip_dye|2727_to_dip_dye]]: Proto-Semitic *ṣVbVġ-, 'to dip, dye': reflexes in 10 language(s).
 
@@ -119,9 +117,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṣ/496_throw|496_throw]]: Proto-Semitic *ṣVraʕ-, 'throw': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ṣ/499_rush_at_jump_at_1_jump_in_fright_2|499_rush_at_jump_at_1_jump_in_fright_2]]: Proto-Semitic *ṣVwVl-, 'rush at, jump at' 1, 'jump in fright' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/ṣ/499_rush_at_jump_at_1_jump_in_fright_2|499_rush_at_jump_at_1_jump_in_fright_2]]: Proto-Semitic *ṣVwVl-, 'rush at, jump at' 1, 'jump in fright' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ṣ/564_split|564_split]]: Proto-Semitic *ṣVdaʕ-, 'split': reflexes in 1 language(s).
+[[wiki/semitic-roots/ṣ/564_split|564_split]]: Proto-Semitic *ṣVdaʕ-, 'split': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṣ/568_cut_split_1_separate_2|568_cut_split_1_separate_2]]: Proto-Semitic *ṣVr-, 'cut, split' 1, 'separate' 2: reflexes in 4 language(s).
 
@@ -190,8 +188,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/ṣ/K0827_load|K0827_load]]: Proto-Semitic *ṣVʿVn-, 'load': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/ṣ/K0828_write|K0828_write]]: Proto-Semitic *ṣVḥVp-, 'write': reflexes in 9 language(s).
-
-[[wiki/semitic-roots/ṣ/S107_to_break_to_camp_nomadic|S107_to_break_to_camp_nomadic]]: Proto-Semitic *ṣadaʿ, 'to break / to camp (nomadic)': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ṣ/S47_to_fast_abstain_from_food_1_fasting_2|S47_to_fast_abstain_from_food_1_fasting_2]]: Proto-Semitic *ṣwm-, 'to fast, abstain from food' 1, 'fasting' 2: reflexes in 6 language(s).
 

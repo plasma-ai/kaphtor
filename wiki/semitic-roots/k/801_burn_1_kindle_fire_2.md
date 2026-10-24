@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/801_burn_1_kindle_fire_2
 title: "*kVwVy-: 'burn' 1, 'kindle fire' 2"
-desc: "Proto-Semitic *kVwVy-, 'burn' 1, 'kindle fire' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *kVwVy-, 'burn' 1, 'kindle fire' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "801"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | kawû 1 |  |  |
 | Hebrew | kwy 1 |  |  |
 | Eblaitic | ga-PI-um /kawāHum/ (VE 850; Krebernik 1983, 19 n. 65) | VE 850; Krebernik 1983, 19 n. 65 | gloss withheld |
+| Judaic Aramaic | kwʾ (HALOT 463) | HALOT 463 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

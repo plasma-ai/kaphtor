@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | pagra \[DM 359\] | DM 359 | gloss withheld |
 | Modern Aramaic | NASS paɣra \[Tser 0160\] IRAN \*paḫrā; c. suff. paḫrán \[Pen 107\] | Tser 0160; Pen 107 | gloss withheld |
 | Hebrew | pägär (HALOT 911) | HALOT 911 | gloss withheld |
-| Judaic Aramaic | pǝgar (pagrā, pigrā); pgr (pgrh, pwgrh) \[Ja 1136\], \[Sok 424\] | Ja 1136; Sok 424 | gloss withheld |
+| Judaic Aramaic | pǝgar (pagrā, pigrā); pgr (pgrh, pwgrh) \[Ja 1136\], \[DJPA 424b apud CAL\] | Ja 1136; DJPA 424b; CAL | gloss withheld |
 | Syrian Aramaic | pagrā 'body, corpse' \[Brock 556\] | Brock 556 |  |
 | Aramaic | OLD OFF PLM pgr \[HJ 901\] | HJ 901 | gloss withheld |
 

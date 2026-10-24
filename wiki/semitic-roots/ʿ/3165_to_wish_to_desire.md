@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ʿ/3165_to_wish_to_desire
 title: "*ʕgb: 'to wish, to desire'"
 desc: "Proto-Semitic *ʕgb, 'to wish, to desire': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3165"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ʕgb: 'to wish, to desire'

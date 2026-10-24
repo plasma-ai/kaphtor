@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0519_drunk
 title: "*šakār-: 'drunk'"
-desc: "Proto-Semitic *šakār-, 'drunk': reflexes in 13 language(s)."
+desc: "Proto-Semitic *šakār-, 'drunk': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0519"
@@ -42,6 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | säkkärä (LGz. 497) | LGz. 497 |  |
 | Gurage | säkärä (LGz. 497) | LGz. 497 |  |
 | Harari | säxära \[LHar 139\] | LHar 139 | gloss withheld |
+| Mehri | sīkər (Kogan 2011, 241) | Kogan 2011, 241 |  |
+| Jibbali | sékər (Kogan 2011, 241) | Kogan 2011, 241 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | absala (HALOT 164) | HALOT 164 |  |
 | Judaic Aramaic | bšel (HALOT 164) | HALOT 164 |  |
 | Syrian Aramaic | bšel (HALOT 164; Payne Smith 56) | HALOT 164; Payne Smith 56 |  |
-| Epigraphic South Arabian | m-bs1l (LGz. 109) | LGz. 109 | gloss withheld |
+| Epigraphic South Arabian | m-bs1l (LGz. 109; Sabaweb lemma 3983) | LGz. 109; Sabaweb lemma 3983 | gloss withheld |
 | Soqotri | behel (LGz. 109); bɛ́hɛḷ (SLOnline 3500) | LGz. 109 | gloss withheld |
 | Jibbali | bešəl (LGz. 109) | LGz. 109 |  |
 | Tigrinya | bäsälä (LGz. 109) | LGz. 109 | gloss withheld |

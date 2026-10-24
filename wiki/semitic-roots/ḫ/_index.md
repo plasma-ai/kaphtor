@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḫ
 desc: "Semitic roots whose first radical is ḫ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/ḫ
@@ -79,7 +79,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ḫ/1574_thyme|1574_thyme]]: Proto-Semitic *ḫašVy-, 'thyme': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/1575_meadow|1575_meadow]]: Proto-Semitic *ḫilVp-, 'meadow': reflexes in 1 language(s).
+[[wiki/semitic-roots/ḫ/1575_willow|1575_willow]]: Proto-Semitic *ḫilVp-, 'willow': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/1577_break_off|1577_break_off]]: Proto-Semitic *ḫVṣ-, 'break off': reflexes in 1 language(s).
 
@@ -113,7 +113,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ḫ/1756_kind_of_clothes|1756_kind_of_clothes]]: Proto-Semitic *ḫiʾ-, 'kind of clothes': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḫ/1757_separate_isolate_1_pierce_2|1757_separate_isolate_1_pierce_2]]: Proto-Semitic *ḫVrim-, 'separate, isolate' 1, 'pierce' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/ḫ/1757_separate_isolate_1_pierce_2|1757_separate_isolate_1_pierce_2]]: Proto-Semitic *ḫVrim-, 'separate, isolate' 1, 'pierce' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/1758_pierce_1_penetrate_pierce_camel_s_nose_with_a_st|1758_pierce_1_penetrate_pierce_camel_s_nose_with_a_st]]: Proto-Semitic *ḫVwVŝ-, 'pierce' 1, 'penetrate, pierce camel's nose with a stick' 2: reflexes in 2 language(s).
 
@@ -221,7 +221,19 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ḫ/3158_earthen_vessel_potsherd|3158_earthen_vessel_potsherd]]: Proto-Semitic *ḫaṣb-, 'earthen vessel, potsherd': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/ḫ/3173_to_tear_out|3173_to_tear_out]]: Proto-Semitic *ḫlš, 'to tear out': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/ḫ/317_basket_1_waterjar_2|317_basket_1_waterjar_2]]: Proto-Semitic *ḫirṣ-, 'basket'1, 'waterjar' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3191_autumn_1_year_2|3191_autumn_1_year_2]]: Proto-Semitic *ḫVrp-, 'autumn' 1, 'year' 2: reflexes in 8 language(s).
+
+[[wiki/semitic-roots/ḫ/3206_lettuce|3206_lettuce]]: Proto-Semitic *ḫass-, 'lettuce': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḫ/3207_plum_tree|3207_plum_tree]]: Proto-Semitic *ḫāḫ-, 'plum-tree': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḫ/3212_maternal_uncle|3212_maternal_uncle]]: Proto-Semitic *ḫāl-, 'maternal uncle': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ḫ/3224_long_period_of_time_lifespan_eternity|3224_long_period_of_time_lifespan_eternity]]: Proto-Semitic *ḫVld-, 'long period of time, lifespan, eternity': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḫ/378_ring_1_seal_on_a_ring_2|378_ring_1_seal_on_a_ring_2]]: Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 14 language(s).
 
@@ -271,13 +283,15 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ḫ/966_dig|966_dig]]: Proto-Semitic *ḫVr-, 'dig': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ḫ/967_hole_1_grave_2|967_hole_1_grave_2]]: Proto-Semitic *ḫurr-, 'hole' 1, 'grave' 2: reflexes in 7 language(s).
+[[wiki/semitic-roots/ḫ/967_hole_1_grave_2|967_hole_1_grave_2]]: Proto-Semitic *ḫurr-, 'hole' 1, 'grave' 2: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ḫ/968_hole|968_hole]]: Proto-Semitic *ḫur(V)z-, 'hole': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/978_be_light|978_be_light]]: Proto-Semitic *ḫVpp-, 'be light': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḫ/988_be_favourable|988_be_favourable]]: Proto-Semitic *ḫVyVr-, 'be favourable': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/ḫ/K0763_hew|K0763_hew]]: Proto-Semitic *ḫaṣab-, 'hew': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ḫ/K0768_bold|K0768_bold]]: Proto-Semitic *ḫVbVl-, 'bold': reflexes in 3 language(s).
 
@@ -289,7 +303,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ḫ/K0775_corrupt|K0775_corrupt]]: Proto-Semitic *ḫVnVp-, 'corrupt': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḫ/K0776_strangle|K0776_strangle]]: Proto-Semitic *ḫVnVq-, 'strangle': reflexes in 16 language(s).
+[[wiki/semitic-roots/ḫ/K0776_strangle|K0776_strangle]]: Proto-Semitic *ḫVnVq-, 'strangle': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/ḫ/K0777_shame|K0777_shame]]: Proto-Semitic *ḫVpVr-, 'shame': reflexes in 9 language(s).
 
@@ -310,8 +324,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/ḫ/K0787_alert|K0787_alert]]: Proto-Semitic *ḫVyVṭ-, 'alert': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḫ/K0788_mutilate|K0788_mutilate]]: Proto-Semitic *ḫVzVm-, 'mutilate': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/ḫ/K0789_need|K0789_need]]: Proto-Semitic *ḫVšV--, 'need': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḫ/K0790_split|K0790_split]]: Proto-Semitic *ḫVṣVw-, 'split': reflexes in 2 language(s).
 

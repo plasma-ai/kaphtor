@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | salwā (coll., unit. salwāt) 'quail' \[BK 1 1132\], \[LA XIV 395\]. | BK 1 1132; LA XIV 395 |  |
 | Soqotri | šílhi \[LS 417\]. | LS 417 | gloss withheld |
-| Hebrew | ŝǝlāw (ŝlyw) (HALOT 1331), pB. sǝlāw \[Ja. 994\], ŝǝlāw \[ibid. 1538\] | HALOT 1331; Ja. 994; ibid. 1538 | gloss withheld |
+| Hebrew | ŝǝlāw (ŝlyw) (HALOT 1331), pB. sǝlāw \[Ja. 994\], ŝǝlāw \[ibid. 1583\] | HALOT 1331; Ja. 994; ibid. 1583 | gloss withheld |
 | Judaic Aramaic | sǝlāw \[Ja. 994\], \[Levy WTM III 531\], slwwy \[Sok. 378\]. | Ja. 994; Levy WTM III 531; Sok. 378 | gloss withheld |
 | Syrian Aramaic | salway 'quails (pl.)' \[Brock. 476\], \[PS 2641\]. | Brock. 476; PS 2641 |  |
 | Aramaic | Sam. slwy \[Tal 590\]. | Tal 590 | gloss withheld |

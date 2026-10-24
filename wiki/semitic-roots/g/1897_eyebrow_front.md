@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | gbina, gbana \[DM 79\] | DM 79 | gloss withheld |
 | Modern Aramaic | NASS gnīvä (metathesis) \[Tser 037\] ZKH gubʔēna \[R Zakho 106\] MMND gǝḇīna \[M MND 495\] | Tser 037 | gloss withheld |
 | Hebrew | (?) gibbēn. |  | gloss withheld |
-| Judaic Aramaic | gǝbīnā \[Ja 207\]; gbyn \[DJPA 119b apud CAL\] | Ja 207; DJPA 119b; CAL | gloss withheld |
+| Judaic Aramaic | gǝbīnā \[Ja 206\]; gbyn \[DJPA 119b apud CAL\] | Ja 206; DJPA 119b; CAL | gloss withheld |
 | Syrian Aramaic | gǝbīnā 'eyebrows; crown, summit', gǝbīnūtā 'eyebrows' \[Brock 102\] | Brock 102 |  |
 | Aramaic | OFF gbyn \[HJ 209\] | HJ 209 | gloss withheld |
 

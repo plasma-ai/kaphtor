@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ʔāŝǝr 2 (JM 32) | JM 32 |  |
 | Soqotri | ʕśr (LS 331) | LS 331 | gloss withheld |
 | Jibbali | ʕáśǝr/aʕśért; ʕáśǝr/ʕíśɔ́r (JJ 17) | JJ 17 | gloss withheld |
-| Epigraphic South Arabian | Sab. ʕs2r-t 1 (SD 21) | SD 21 |  |
-| Ugaritic | ʿšr (DULAT 185) | DULAT 185 | gloss withheld |
+| Epigraphic South Arabian | Sab. ʕs2r-t 1 (SD 21; Sabaweb lemma 1608) | SD 21; Sabaweb lemma 1608 | gloss withheld |
+| Ugaritic | ʿšr, an office, group or class (of personnel) (DULAT 186); ʿšrt (DULAT 187) | DULAT 186; DULAT 187 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʿśr (Al-Jallad–Jaworska 55) | Al-Jallad–Jaworska 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

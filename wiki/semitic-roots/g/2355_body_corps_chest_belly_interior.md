@@ -38,8 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | MAL ɣauwa \[Berg 29\] TUR gāwo \[R Ṭūrōyo 114\] MLH \*gayo: c. suff. gayi \[J Mlah 174\] NASS gʸävä \[Tser 040\] MMND gu, st. emph. guwwa \[M MND 507\] | Berg 29; J Mlah 174; Tser 040 | gloss withheld |
 | Jibbali | gɛ́hɛʔ (ɛghét) \[JJ 73\] | JJ 73 | gloss withheld |
 | Hebrew | gǝwiyyā (HALOT 183); gaw, gēw (HALOT 182) | HALOT 183; HALOT 182 | gloss withheld |
-| Amharic | gʷǝyya (guyya) \[K 2032\] (or to be placed under \*gaw(w)-, etc.? See above) | K 2032 | gloss withheld |
-| Judaic Aramaic | gēw, gaw, gawwā (constr. gō) \[Ja 216\]; gǝwiytā, giwyǝtā \[Ja 221\]; cf. gwyyh \[Sok 123\] | Ja 216; Ja 221; Sok 123 | gloss withheld |
+| Amharic | gʷǝyya (guyya) \[K 2032\] (or to be placed under \*gaw(w)-, etc.? See above); gat, gət (AED 1991 apud SEDonline 199) | K 2032; AED 1991; SEDonline 199 | gloss withheld |
+| Judaic Aramaic | gēw, gaw, gawwā (constr. gō) \[Ja 216\]; gǝwiytā, giwyǝtā \[Ja 221\]; cf. gwyyh \[DJPA 123a apud CAL\] | Ja 216; Ja 221; DJPA 123a; CAL | gloss withheld |
 | Syrian Aramaic | gawā 'inner part of the body, belly, viscera' \[Brock 107\]; gǝwāyā 'intestines, viscera' \[ibid.\] | Brock 107; ibid. |  |
 | Geez | (?) gʷəyyā \[LGz 208\]; gəʕt \[ibid. 175\] | LGz 208; ibid. 175 | gloss withheld |
 

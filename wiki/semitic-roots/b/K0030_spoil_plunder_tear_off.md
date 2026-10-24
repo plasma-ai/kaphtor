@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | bzz \[-u-\]; bazza (HALOT 117) | HALOT 117 |  |
-| Aramaic | BZZ 'despoil' (Aramaic Root Atlas) | Aramaic Root Atlas |  |
+| Aramaic | BZZ (Aramaic Root Atlas; Qumran 32 apud CAL) | Aramaic Root Atlas; CAL | gloss withheld |
 | Hebrew | bazaz 'spoil' (BDB 102) | BDB 102 |  |
 | Syrian Aramaic | baz 'spoil, plunder; rob' (Payne Smith 40) | Payne Smith 40 |  |
 | Pre-Islamic North Arabian | Safaitic bzt (Al-Jallad–Jaworska 63) | Al-Jallad–Jaworska 63 | gloss withheld |

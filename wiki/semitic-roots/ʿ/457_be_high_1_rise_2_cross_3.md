@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʕly/w 1 |  |  |
 | Epigraphic South Arabian | ʕly 3 |  |  |
 | Aramaic | ʕly/w 1 (CAL s.v. ʿly) | CAL s.v. ʿly |  |
-| Greek | Ελιουν (Elioun) (Philo of Byblos; Semitic epithet ʿElyōn; OLA80 §65.5) | OLA80 §65.5 | gloss withheld |
+| Greek | Ελιουν (Elioun) (Philo of Byblos; Semitic epithet ʿElyōn; OLA80 §29.36) | OLA80 §29.36 | gloss withheld |
 | Punic | ʿly 'go' | Anderson–Moser 2024 root ʿly |  |
 | Phoenician | ʿly (T 244) | T 244 | gloss withheld |
 | Amorite | ʿalijum, ʿalijatum, ʿalītum, ʿalija (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |

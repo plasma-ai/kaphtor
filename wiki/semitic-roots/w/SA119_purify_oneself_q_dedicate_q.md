@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wḍʾ (Biella 143); Sab wḍʾ (SD 156) | Biella 143; SD 156 | gloss withheld |
+| Epigraphic South Arabian | Sab wḍʾ (Biella 143); Sab wḍʾ (SD 156); (Sabaweb lemma 3312) | Biella 143; SD 156; Sabaweb lemma 3312 | gloss withheld |
 | Arabic | waḍuʾa, Dt (Biella 143) | Biella 143 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

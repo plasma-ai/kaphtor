@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/t/3182_watercourse_channel
 title: "*taʕal-at-: 'watercourse, channel'"
 desc: "Proto-Semitic *taʕal-at-, 'watercourse, channel': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3182"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *taʕal-at-: 'watercourse, channel'

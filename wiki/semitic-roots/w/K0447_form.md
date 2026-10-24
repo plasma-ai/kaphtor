@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ṣār, ṣayyārā, ṣūrtā, ṣīrā (HALOT 1016, 1017, 1024) | HALOT 1016, 1017, 1024 |  |
 | Mandaic Aramaic | ṢUR, ṣuria (HALOT 1016, 1017) | HALOT 1016, 1017 |  |
 | Arabic | ṣwr, ṣūrat (HALOT 1016, 1017) | HALOT 1016, 1017 |  |
-| Epigraphic South Arabian | Sab. ṣwr (HALOT 1017) | HALOT 1017 |  |
+| Epigraphic South Arabian | Sab. ṣwr (HALOT 1017; Sabaweb lemma 5230) | HALOT 1017; Sabaweb lemma 5230 | gloss withheld |
 | Amorite | yṣr (Huffmon APNM 214) | Huffmon APNM 214 | gloss withheld |
 | Eblaitic | wa-zi-lu-um /wāṣirum/ (VE 1012; Krebernik 1983, 36) | VE 1012; Krebernik 1983, 36 | gloss withheld |
 

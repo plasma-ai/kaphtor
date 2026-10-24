@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/r/3176_to_be_glad_satisfied_to_accept_with_pleasure_a_s
 title: "*rṣ̂w: 'to be glad, satisfied; to accept with pleasure (a sacrifice)'"
 desc: "Proto-Semitic *rṣ̂w, 'to be glad, satisfied; to accept with pleasure (a sacrifice)': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3176"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *rṣ̂w: 'to be glad, satisfied; to accept with pleasure (a sacrifice)'
@@ -33,7 +36,7 @@ id: "3176"
 | Mandaic Aramaic | RAA III (Drower/Macuch 417a apud HALOT 1280) | Macuch 417a; HALOT 1280 | gloss withheld |
 | Amorite | rḍy: Ra-ṣa-ᵈDa-gan (Huffmon APNM 265) | Huffmon APNM 265 | gloss withheld |
 | Arabic | rḍw (Lane 1099 apud SEDonline 1308) | Lane 1099; SEDonline 1308 | gloss withheld |
-| Epigraphic South Arabian | Sab rṣ̂w, rṣ̂y (SD 115 apud SEDonline 1308); Min rṣ̂w (LM 76 apud SEDonline 1308) | SD 115; SEDonline 1308; LM 76; SEDonline 1308 | gloss withheld |
+| Epigraphic South Arabian | Sab rṣ̂w, rṣ̂y (SD 115 apud SEDonline 1308; Sabaweb lemma 1286); Min rṣ̂w (LM 76 apud SEDonline 1308) | SD 115; SEDonline 1308; Sabaweb lemma 1286; LM 76; SEDonline 1308 | gloss withheld |
 | Mehri | ráyẑi (ML 336 apud SEDonline 1308) | ML 336; SEDonline 1308 | gloss withheld |
 | Jibbali | ɛrẓ̂ẹ́ (JL 220 apud SEDonline 1308) | JL 220; SEDonline 1308 | gloss withheld |
 | Soqotri | réẓ̂i, ríẓ̂i (LS 404; SLOnline 7606) | LS 404 | gloss withheld |

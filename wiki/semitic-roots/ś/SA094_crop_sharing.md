@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab s2rk (SD 134) | SD 134 | gloss withheld |
+| Epigraphic South Arabian | Sab s2rk (SD 134; Sabaweb lemma 5104) | SD 134; Sabaweb lemma 5104 | gloss withheld |
 | Arabic | Ar šarika (Lane 1541; Biella 526) | Lane 1541; Biella 526 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic śrk (Al-Jallad–Jaworska 126) | Al-Jallad–Jaworska 126 | gloss withheld |
 

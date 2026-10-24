@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2696_cumin
 title: "*kamm-ūn-: 'cumin'"
-desc: "Proto-Semitic *kamm-ūn-, 'cumin': reflexes in 5 language(s)."
+desc: "Proto-Semitic *kamm-ūn-, 'cumin': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2696"
@@ -34,6 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | kmn (DULAT 441) | DULAT 441 | gloss withheld |
 | Hebrew | kammōn (HALOT 481) | HALOT 481 | gloss withheld |
 | Phoenician | kmn (T 144) | T 144 | gloss withheld |
+| Punic | χαμαν (HALOT 481) | HALOT 481 |  |
+| Judaic Aramaic | kammōnā (HALOT 481) | HALOT 481 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

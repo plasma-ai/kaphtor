@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | rḥṣ (DULAT 726) | DULAT 726 | gloss withheld |
 | Hebrew | rāḥaṣ (HALOT 1220) | HALOT 1220 | gloss withheld |
 | Egyptian | rḥt, rḥty (OLA80 §29.41) | OLA80 §29.41 | gloss withheld |
-| Epigraphic South Arabian | Sab rḥḍ (SD 116; Biella 486) | SD 116; Biella 486 | gloss withheld |
+| Epigraphic South Arabian | Sab rḥḍ (SD 116; Biella 486; Sabaweb lemma 4900) | SD 116; Biella 486; Sabaweb lemma 4900 | gloss withheld |
 | Aramaic | rḥṣ (HALOT 1220); rḥʿ (CAL s.v. rḥʿ) | HALOT 1220; CAL s.v. rḥʿ | gloss withheld |
 | Gafat | (tä)raṣä (LGz. 466) | LGz. 466 |  |
 | Gurage | (tä)raṭä (LGz. 466) | LGz. 466 |  |

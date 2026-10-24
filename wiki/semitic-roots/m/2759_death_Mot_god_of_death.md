@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Biconsonantal CūC verb class alongside \*kwn and \*qwm (Lipiński OLA80 §44.5-8). Heb māwet &lt; \*mawt shows aw &gt; āwe diphthong expansion; Phoenician Μουθ /Mūt/ shows aw &gt; ū monophthongization; Syriac construct mūt vs full mawtā (Lipiński OLA80 §22.6).
+Biconsonantal CūC verb class alongside \*kwn and \*qwm (Lipiński OLA80 §44.5-8). Heb māwet &lt; \*mawt shows aw &gt; āwe diphthong expansion; Phoenician Μουθ /Mūt/ shows aw &gt; ū monophthongization; Syriac construct mūt vs full mawtā (Lipiński OLA80 §22.6, §22.10).
 
 <!-- END kaphtor:record -->

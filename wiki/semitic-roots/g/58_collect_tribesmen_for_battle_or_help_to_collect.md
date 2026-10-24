@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | niǯāš-; nǯš |  | gloss withheld |
+| Arabic | niǯāš-; nǯš (Kogan 2015, ch. 2 §5.2.2.1 no. 19) | Kogan 2015, ch. 2 §5.2.2.1 no. 19 | gloss withheld |
 | Tigre | nägsä (Kogan 2015, ch. 7 §4.1 no. 12) | Kogan 2015, ch. 7 §4.1 no. 12 | gloss withheld |
 | Geez | nǝguŝ LGz 392 | LGz 392 |  |
 | Gurage | Cha gaše, Eža Muh Sod gašše form of address to an elder brother LGur 299; \*gist (ibid. 298) | LGur 299; ibid. 298 | gloss withheld |
 | Jibbali | s̃ǝ-gēŝ, s̃ǝ-gyéŝ (otherwise &lt; \*gayŝ- \[DB 2378\]) |  | gloss withheld |
-| Hebrew | ngŝ; pt., pl. |  | gloss withheld |
+| Hebrew | ngŝ (Kogan 2015, ch. 2 §5.2.2.1 no. 19); pt., pl. | Kogan 2015, ch. 2 §5.2.2.1 no. 19 | gloss withheld |
 | Epigraphic South Arabian | ngŝ, ngŝwn; gys2 SD 52 | SD 52 | gloss withheld |
 | Harari | gīsti LGur 298 | LGur 298 | gloss withheld |
 | Ugaritic | ngš (HALOT 670) | HALOT 670 |  |

@@ -43,10 +43,10 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ḏ̣ĩ \[JJ 49\] (placed under ḏ̣my) | JJ 49 |  |
 | Hebrew | ṣāmē(ʔ) (a) (HALOT 1032) | HALOT 1032 |  |
 | Amharic | ṭämma \[K 2096\] | K 2096 |  |
-| Epigraphic South Arabian | SAB ẓmʔ \[SD 172\] | SD 172 |  |
+| Epigraphic South Arabian | SAB ẓmʔ \[SD 172; Sabaweb lemma 2232\] | SD 172; Sabaweb lemma 2232 | gloss withheld |
 | Gafat | ṣämmä \[LGaf 235\] | LGaf 235 |  |
 | Tigrinya | ṣämʔe \[Bass 954\] | Bass 954 |  |
-| Argobba | tamma- (OLA80 §13.12); ṭämma (SED I 333) | OLA80 §13.12; SED I 333 | gloss withheld |
+| Argobba | ṭämma- (OLA80 §13.12; SED I 333) | OLA80 §13.12; SED I 333 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ẓmʾ (Al-Jallad–Jaworska 144) | Al-Jallad–Jaworska 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

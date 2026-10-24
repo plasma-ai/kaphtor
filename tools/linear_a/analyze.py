@@ -16,12 +16,12 @@ if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
     __package__ = "tools.linear_a"
 
-from ..core.normalization import WORD_SEPARATORS, lookup_in, normalize
+from ..core.normalization import is_word, lookup_in, normalize
 from ..core.skeleton import extract_full, extract_skeleton, extract_skeleton_polyphonic, load_registry
 from ..paths import NotInCheckout
 
 # The same loaders cognate_search uses: data/linear-a/, the Semitic roots, and the cognate cache.
-from .cognate_search import CACHE_FILE, load_corpus, load_gordon, load_yashar_mana
+from .cognate_search import CACHE_FILE, load_corpus, load_lexicon_words, reading_text
 
 
 def load_cache() -> dict[str, list[dict]]:
@@ -35,8 +35,7 @@ def load_cache() -> dict[str, list[dict]]:
 def analyze_single(name: str, verbose: bool = False) -> dict[str, Any]:
     """Run Gordon's 5-step pipeline on a single inscription."""
     corpus = load_corpus()
-    gordon = load_gordon()
-    ym = load_yashar_mana()
+    lexicon = load_lexicon_words()
     cache = load_cache()
 
     entry = corpus.get(name) or corpus.get(name.upper())
@@ -57,13 +56,13 @@ def analyze_single(name: str, verbose: bool = False) -> dict[str, Any]:
     result["transliterated_words"] = words
 
     # Step 2: Segmentation (words already segmented in GORILA)
-    result["word_count"] = len(words)
+    result["word_count"] = sum(1 for w in words if is_word(w))
 
     # Steps 3-4: Skeleton + Cognate Search per word
     registry = load_registry()
     word_analyses = []
     for word in words:
-        if word in WORD_SEPARATORS or not word:
+        if not is_word(word):
             continue
 
         norm = normalize(word)
@@ -87,23 +86,14 @@ def analyze_single(name: str, verbose: bool = False) -> dict[str, Any]:
         if alt_readings:
             analysis["alternative_readings"] = alt_readings
 
-        # Gordon direct
-        g_match = lookup_in(gordon, word)
-        if g_match:
+        # The word's lexicon entry
+        lex = lookup_in(lexicon, word)
+        if lex:
             analysis["matches"].append({
-                "method": "gordon_direct",
-                "semitic": g_match.get("semitic", ""),
-                "meaning": g_match.get("meaning", ""),
-                "category": g_match.get("category", ""),
-            })
-
-        # YasharMana
-        ym_match = lookup_in(ym, word)
-        if ym_match:
-            analysis["matches"].append({
-                "method": "yashar_mana",
-                "semitic": ym_match.get("semitic", ""),
-                "meaning": ym_match.get("meaning", ""),
+                "method": "lexicon",
+                "reading": lex.get("reading", ""),
+                "meaning": lex.get("meaning", ""),
+                "confidence": lex.get("confidence", ""),
             })
 
         # Proto-Semitic (from cache if available)
@@ -157,10 +147,8 @@ def format_report(result: dict[str, Any]) -> str:
 
         for m in w["matches"]:
             method = m["method"]
-            if method in ("gordon_direct", "yashar_mana"):
-                lines.append(
-                    f"    [{method}] {m.get('semitic', '')} = \"{m['meaning']}\""
-                )
+            if method == "lexicon":
+                lines.append(f"    [lexicon] {reading_text(m)}")
             else:
                 lines.append(
                     f"    [{method}] {m.get('root', '')} = \"{m['meaning']}\" (d={m.get('distance', '?')})"
@@ -193,10 +181,9 @@ def format_report(result: dict[str, Any]) -> str:
 # --- Batch Analysis Modes ---
 
 def batch_unknowns(min_count: int, top_n: int) -> list[dict]:
-    """Find unidentified words that appear frequently — best targets for new readings."""
+    """Find frequent words with no lexicon entry — best targets for new readings."""
     corpus = load_corpus()
-    gordon = load_gordon()
-    ym = load_yashar_mana()
+    lexicon = load_lexicon_words()
 
     from collections import Counter
     word_counts: Counter = Counter()
@@ -209,9 +196,9 @@ def batch_unknowns(min_count: int, top_n: int) -> list[dict]:
     for word, count in word_counts.most_common():
         if count < min_count:
             break
-        if word in WORD_SEPARATORS or not word:
+        if not is_word(word):
             continue
-        if lookup_in(gordon, word) or lookup_in(ym, word):
+        if lookup_in(lexicon, word):
             continue
         skeleton = extract_skeleton(word)
         unknowns.append({
@@ -267,7 +254,7 @@ def batch_libation(show_alignment: bool = False) -> list[dict]:
                 }
                 if show_alignment:
                     result["skeletons"] = {
-                        w: extract_skeleton(w) for w in words if w not in WORD_SEPARATORS
+                        w: extract_skeleton(w) for w in words if is_word(w)
                     }
                 results.append(result)
 
@@ -276,10 +263,9 @@ def batch_libation(show_alignment: bool = False) -> list[dict]:
 
 
 def batch_promising(top_n: int) -> list[dict]:
-    """Find inscriptions with highest ratio of identified words — best for study."""
+    """Find inscriptions with the highest share of words the lexicon reads — best for study."""
     corpus = load_corpus()
-    gordon = load_gordon()
-    ym = load_yashar_mana()
+    lexicon = load_lexicon_words()
 
     scored = []
     for name, entry in corpus.items():
@@ -287,11 +273,11 @@ def batch_promising(top_n: int) -> list[dict]:
         if not isinstance(words, list) or len(words) < 2:
             continue
 
-        valid_words = [w for w in words if w not in WORD_SEPARATORS and w]
+        valid_words = [w for w in words if is_word(w)]
         if not valid_words:
             continue
 
-        known = sum(1 for w in valid_words if lookup_in(gordon, w) or lookup_in(ym, w))
+        known = sum(1 for w in valid_words if lookup_in(lexicon, w))
         ratio = known / len(valid_words)
         if known > 0:
             scored.append({

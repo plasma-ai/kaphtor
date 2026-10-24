@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḍimd "friend" (Lane 1802) | Lane 1802 |  |
-| Epigraphic South Arabian | Sab ḍmd (SD 41; Biella 435) | SD 41; Biella 435 | gloss withheld |
+| Epigraphic South Arabian | Sab ḍmd (SD 41; Biella 435); (Sabaweb lemma 4068) | SD 41; Biella 435; Sabaweb lemma 4068 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

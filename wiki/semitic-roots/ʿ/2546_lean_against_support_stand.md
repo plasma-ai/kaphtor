@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | emēd-; emēdu &lt; \*ʿamādu (OLA80 §45.3) | OLA80 §45.3 | gloss withheld |
 | Phoenician | ʿmd (Krahmalkov 377) | Krahmalkov 377 | gloss withheld |
 | Hebrew | ʕmd (HALOT 840, 841) | HALOT 840, 841 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿmd (SD 16; Biella 370, 371) | SD 16; Biella 370, 371 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿmd (SD 16; Biella 370, 371; Sabaweb lemma 1944) | SD 16; Biella 370, 371; Sabaweb lemma 1944 | gloss withheld |
 | Aramaic | ʿMD (Aramaic Root Atlas; CAL s.v. ʿmd#2) | Aramaic Root Atlas; CAL s.v. ʿmd#2 | gloss withheld |
 | Geez | ʿammada 'sustain' | Anderson–Moser 2024 root ʿmd |  |
 | Punic | ʿmd 'column' | Anderson–Moser 2024 root ʿmd |  |

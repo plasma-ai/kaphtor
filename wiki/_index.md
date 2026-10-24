@@ -18,4 +18,5 @@ updated: 2026-10-22T18:14:10Z
 
 ***
 
-Empty until a later wave.
+Every page is generated from `data/` by `tools/views/` (`python -m tools.views.build --write`): change the data or
+the builder, and rebuild. The folder indexes belong to `wiki update`.

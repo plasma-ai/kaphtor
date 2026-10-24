@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # wiki/semitic-roots/z
@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/z/2047_dung|2047_dung]]: Proto-Semitic *zibl- {} *ʒibl-, 'dung': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/z/2048_blood|2048_blood]]: Proto-Semitic *zam- {} *ʒam-, 'blood': reflexes in 5 language(s).
+[[wiki/semitic-roots/z/2048_blood|2048_blood]]: Proto-Semitic *zam- {} *ʒam-, 'blood': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/z/2049_spread_hand_span|2049_spread_hand_span]]: Proto-Semitic *zar-at- {} *ʒar-at-, '(spread) hand; span': reflexes in 5 language(s).
 
@@ -53,7 +53,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/z/2536_seed_sowing|2536_seed_sowing]]: Proto-Semitic *zVrVʕ-, 'seed, sowing': reflexes in 14 language(s).
 
-[[wiki/semitic-roots/z/2542_be_small|2542_be_small]]: Proto-Semitic *zVʕVr-, 'be small': reflexes in 6 language(s).
+[[wiki/semitic-roots/z/2542_be_small|2542_be_small]]: Proto-Semitic *zVʕVr-, 'be small': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/2635_moon|2635_moon]]: Proto-Semitic *zahar-, 'moon': reflexes in 1 language(s).
 
@@ -117,7 +117,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/z/842_swallow|842_swallow]]: Proto-Semitic *zVḳVm-, 'swallow': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/z/865_time|865_time]]: Proto-Semitic *zaman-, 'time': reflexes in 13 language(s).
+[[wiki/semitic-roots/z/865_time|865_time]]: Proto-Semitic *zaman-, 'time': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/z/882_increase|882_increase]]: Proto-Semitic *zayad-, 'increase': reflexes in 4 language(s).
 

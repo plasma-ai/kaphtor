@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gūpā (HALOT 184). | HALOT 184 | gloss withheld |
 | Judaic Aramaic | gūpā (also) \[Ja 225\]; gwp \[DJPA 124a apud CAL\] | Ja 225; DJPA 124a; CAL | gloss withheld |
 | Aramaic | HTR gwp \[HJ 23\] | HJ 23 | gloss withheld |
-| Modern South Arabian | gawf, gawaft (OLA80 §31.30) | OLA80 §31.30 | gloss withheld |
+| Modern South Arabian | gəwf, gəwəft (OLA80 §31.30) | OLA80 §31.30 | gloss withheld |
 | Harsusi | gawf; megefōt (SED I 95) | SED I 95 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

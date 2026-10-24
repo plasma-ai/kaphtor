@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ṭáfaḥ \[SSL LS 1477\]. | SSL LS 1477 | gloss withheld |
 | Hebrew | ṭäpaḥ (also ṭōpaḥ, ṭapḥā) (HALOT 378) | HALOT 378 | gloss withheld |
 | Amharic | ṭǝffi \[K 2192\] | K 2192 | gloss withheld |
-| Judaic Aramaic | ṭpḥ \[Sok 229\]. | Sok 229 | gloss withheld |
+| Judaic Aramaic | ṭpḥ \[DJPA 229a apud CAL\]. | DJPA 229a; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

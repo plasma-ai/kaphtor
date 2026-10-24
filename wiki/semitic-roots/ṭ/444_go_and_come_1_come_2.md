@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṭwʔ \[-u-\] 1 |  |  |
 | Harsusi | ṭewō 2 |  |  |
-| Eblaitic | i-ṭa-ḥa-ú (OLA80 §38.6) | OLA80 §38.6 | gloss withheld |
+| Eblaitic | i-ṭa-ḫa-ù (OLA80 §38.6) | OLA80 §38.6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

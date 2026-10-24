@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | šlḥ (T 317); šlḥ (Krahmalkov 461–462) | T 317; Krahmalkov 461–462 | gloss withheld |
 | Amorite | ślḥ: jaślaḥ, śaliḥum, śaliḥa, śulāḥ(ān)um (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
 | Syrian Aramaic | šlaḥ 'send; strip off, put off' (Payne Smith 578) | Payne Smith 578 |  |
-| Epigraphic South Arabian | Hdr s1lḥ (Pirenne 1990:107 apud SEDonline 1426) | Pirenne 1990:107; SEDonline 1426 | gloss withheld |
+| Epigraphic South Arabian | Hdr s1lḥ (Pirenne 1990:107 apud SEDonline 1426; Sabaweb lemma 7796) | Pirenne 1990:107; SEDonline 1426; Sabaweb lemma 7796 | gloss withheld |
 | Judaic Aramaic | šᵉlaḥ, šᵉlîḥā (HALOT 1512) | HALOT 1512 |  |
 | Aramaic | šlḥ (T 317) | T 317 | gloss withheld |
 

@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | nǝmar 'panther' (BDB 1103). Hapax in Da 7.6 (in the description of one of the animals in Daniel's visions). | BDB 1103 |  |
 | Hebrew | nāmēr (HALOT 701), pB. \[Ja. 914\] | HALOT 701; Ja. 914 | gloss withheld |
 | Amharic | näbǝr \[K 1035\], näbrart, näbärart id. \[ibid. 1036\], nämr id. \[ibid. 1018\]. | K 1035; ibid. 1036; ibid. 1018 | gloss withheld |
-| Epigraphic South Arabian | Sab. nmr \[SD 97\]. Hdr. nmr \[Pirenne 93\] | SD 97; Pirenne 93; Sima 120-25; SD 97; Biella 307; Sima 123-5 | gloss withheld |
+| Epigraphic South Arabian | Sab. nmr \[SD 97; Sabaweb lemma 2395\]. Hdr. nmr \[Pirenne 93\] | SD 97; Sabaweb lemma 2395; Pirenne 93; Sima 120-25; SD 97; Biella 307; Sima 123-5 | gloss withheld |
 | Judaic Aramaic | nǝmar (nimrā) \[Ja. 914\], \[Levy WTM III 401\], \[Levy WT II 112\], nmr (nymrh) \[DJPA 352a apud CAL\]. | Ja. 914; Levy WTM III 401; Levy WT II 112; DJPA 352a; CAL | gloss withheld |
 | Syrian Aramaic | nemrā 'leopard' \[Brock. 431\], \[PS 2386\]. | Brock. 431; PS 2386 |  |
 | Aramaic | D.-Alla nmr \[HJ 733\] | HJ 733; Hackett 55; HJ 733; KAI 222; Fitzmyer 44-5, 88; HJ 733; Nyberg 119 | gloss withheld |

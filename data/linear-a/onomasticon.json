@@ -27,10 +27,10 @@
     "auto"
   ],
   "stats": {
-    "total": 342,
+    "total": 341,
     "by_type": {
       "gentilic": 7,
-      "personal_name": 261,
+      "personal_name": 260,
       "theonym": 29,
       "title": 25,
       "toponym": 17,
@@ -42,10 +42,10 @@
       "egyptian": 8,
       "hurrian": 9,
       "indo_aryan": 1,
-      "semitic": 167,
+      "semitic": 169,
       "unknown": {
-        "total": 154,
-        "intact": 139,
+        "total": 151,
+        "intact": 136,
         "fragmentary": 0,
         "edge_damaged": 14,
         "no_witness": 1,
@@ -53,12 +53,12 @@
       }
     },
     "by_provenance": {
-      "auto": 117,
+      "auto": 116,
       "manual": 225
     },
     "manual_count": 225,
-    "auto_count": 117,
-    "total_entries": 342
+    "auto_count": 116,
+    "total_entries": 341
   },
   "entries": [
     {
@@ -678,7 +678,7 @@
         }
       ],
       "note": "A title or designation. Ugaritic nʿr, Hebrew naʿar. Four Khania LMIB nodules (sole word on each). Sister nodules carry commodity terms (ZE, *301). Linear B continuity: na-ro on KN As(2) 1516 (personnel list) corroborates it.",
-      "linear_b_comparanda": "Linear B continuity: na-ro, KN As(2) 1516 (personnel list) + Dv livestock (shepherd names). LB lacks emphatics and writes plain na where LA uses *86 = /ṇa/—the match through the na value independently corroborates the *86 = ṇa resolution."
+      "linear_b_comparanda": "Linear B continuity: na-ro, KN As(2) 1516 (personnel list) + Dv livestock (shepherd names), with na where Linear A writes *86, whose value na is speculative."
     },
     {
       "token": "DA-RI-DA",
@@ -1887,7 +1887,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "DA-KU-SE-NE",
-      "reading": "Takušenni?",
+      "reading": "Takušenni",
       "meaning": "probable Hurrian-style personal name; compare Ugaritic Taki-šenni",
       "frequency": 2,
       "attestations": [
@@ -1909,7 +1909,7 @@
       "co_occurring_known": [
         {
           "word": "DA-KU-SE-NE",
-          "reading": "Takušenni?",
+          "reading": "Takušenni",
           "meaning": "probable Hurrian-style personal name",
           "category": "personal_name"
         },
@@ -2474,60 +2474,6 @@
       "weak_cognates": [],
       "note": "Reading from the lexicon (Gordon 1966; Linear B pa-i-to).",
       "linear_b_comparanda": "Exact Linear B continuity: pa-i-to (Phaistos), 47 KN documents across landholding/livestock series. Universally recognized non-Greek toponym, carried from Linear A into Linear B."
-    },
-    {
-      "token": "PA-RA",
-      "normalized": "para",
-      "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
-      "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
-      "frequency": 2,
-      "attestations": [
-        "HT128a",
-        "PH3a"
-      ],
-      "sites": [
-        "Haghia Triada",
-        "Phaistos"
-      ],
-      "cross_site": true,
-      "genre_supports": {
-        "Tablet": 2
-      },
-      "position_summary": {
-        "follows": {
-          "word": 1,
-          "numeral": 1
-        },
-        "heads_document": 1
-      },
-      "co_occurring_known": [],
-      "provenance": "auto",
-      "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*pur-",
-          "language": "Proto-Semitic",
-          "distance": 0.0
-        },
-        {
-          "root": "*pir-",
-          "language": "Proto-Semitic",
-          "distance": 0.0
-        },
-        {
-          "root": "*par-",
-          "language": "Proto-Semitic",
-          "distance": 0.0
-        }
-      ],
-      "note": ""
     },
     {
       "token": "PA-RA-NE",
@@ -5615,7 +5561,7 @@
       "co_occurring_known": [
         {
           "word": "DA-KU-SE-NE",
-          "reading": "Takušenni?",
+          "reading": "Takušenni",
           "meaning": "probable Hurrian-style personal name",
           "category": "personal_name"
         },
@@ -5647,7 +5593,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "DA-KU-SE-NE",
-      "reading": "Takušenni?-ti",
+      "reading": "Takušenni-ti",
       "meaning": "probable Hurrian-style name or entity with final TI; exact function unresolved",
       "frequency": 1,
       "attestations": [
@@ -10771,7 +10717,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Hurrian-type name in -šenni, after DA-KU-SE-NE /Takušenni?/ and DA-KU-SE-NE-TI; also KN Wb 33 QA-KI-SE-NU-[ (Younger)."
+      "note": "Hurrian-type name in -šenni, after DA-KU-SE-NE /Takušenni/ and DA-KU-SE-NE-TI; also KN Wb 33 QA-KI-SE-NU-[ (Younger)."
     },
     {
       "token": "QA-KU-RE",
@@ -12943,7 +12889,7 @@
       "normalized": "sukirita",
       "type": "toponym",
       "type_confidence": "CANDIDATE",
-      "affiliation": "unknown",
+      "affiliation": "semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
@@ -12979,11 +12925,11 @@
       "normalized": "sukiriteija",
       "type": "toponym_gentilic",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
+      "affiliation": "semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": "SU-KI-RI-TA",
+      "lexicon_ref": "SU-KI-RI-TE-I-JA",
       "reading": "Sukritēya",
       "meaning": "of Sukrita (Sybrita): origin label on a jar",
       "frequency": 1,

@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ś/3160_to_entangle_to_interweave
 title: "*ŝgr: 'to entangle, to interweave'"
 desc: "Proto-Semitic *ŝgr, 'to entangle, to interweave': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3160"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ŝgr: 'to entangle, to interweave'

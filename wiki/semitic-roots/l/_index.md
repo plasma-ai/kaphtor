@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # wiki/semitic-roots/l
@@ -91,7 +91,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/l/2479_grow|2479_grow]]: Proto-Semitic *lhḳ, 'grow': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/l/2519_night|2519_night]]: Proto-Semitic *layl-, 'night': reflexes in 19 language(s).
+[[wiki/semitic-roots/l/2519_night|2519_night]]: Proto-Semitic *layl-, 'night': reflexes in 21 language(s).
 
 [[wiki/semitic-roots/l/2521_not|2521_not]]: Proto-Semitic *la(ʾ), 'not': reflexes in 12 language(s).
 
@@ -123,6 +123,12 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/l/3087_to_be_kind|3087_to_be_kind]]: Proto-Semitic *lṭp, 'to be kind': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/l/3185_rain|3185_rain]]: Proto-Semitic *lsy, 'rain': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/l/3239_brick|3239_brick]]: Proto-Semitic *la/ibin(-t)-, 'brick': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/l/3240_if_only_would_that_1_indeed_certainly_2|3240_if_only_would_that_1_indeed_certainly_2]]: Proto-Semitic *law, 'if only, would that' 1, 'indeed, certainly' 2: reflexes in 7 language(s).
+
 [[wiki/semitic-roots/l/398_twist_bend_1_turn_2|398_twist_bend_1_turn_2]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/l/553_strike|553_strike]]: Proto-Semitic *lVbaḫ-, 'strike': reflexes in 1 language(s).
@@ -149,7 +155,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/l/956_be_tired_1_be_slow_2|956_be_tired_1_be_slow_2]]: Proto-Semitic *lVʾay-, 'be tired' 1, 'be slow' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/l/K0116_to|K0116_to]]: Proto-Semitic *lV--, 'to': reflexes in 1 language(s).
+[[wiki/semitic-roots/l/K0116_to|K0116_to]]: Proto-Semitic *lV--, 'to': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/l/K0119_play|K0119_play]]: Proto-Semitic *lVhVy-, 'play': reflexes in 5 language(s).
 
@@ -157,7 +163,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/l/K0123_grow_late|K0123_grow_late]]: Proto-Semitic *laqaš-, 'grow-late': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/l/K0125_pick|K0125_pick]]: Proto-Semitic *lVqVṭ-, 'pick': reflexes in 7 language(s).
+[[wiki/semitic-roots/l/K0125_pick|K0125_pick]]: Proto-Semitic *lVqVṭ-, 'pick': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/l/K0126_butter|K0126_butter]]: Proto-Semitic *lVsVd-, 'butter': reflexes in 4 language(s).
 

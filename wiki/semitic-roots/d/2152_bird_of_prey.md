@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | dita \[DM 109\]. | DM 109 | gloss withheld |
 | Ugaritic | dʔiy \[DULAT 257\] | DULAT 257; Sasson 406 | gloss withheld |
 | Hebrew | dāʔā (HALOT 207), dayyā (HALOT 220), pB. \[Ja. 275, 295\] | HALOT 207; HALOT 220; Ja. 275, 295 | gloss withheld |
-| Judaic Aramaic | dayyǝtā, dayyūtā \[Ja. 299\], \[Levy WTM I 393\]; dyyh, det. dyyth \[Sok. 145\]; daytā \[Sok. B 330\], dyw \[Sok. 328\]. | Ja. 299; Levy WTM I 393; Sok. 145; Sok. B 330; Sok. 328 | gloss withheld |
-| Syrian Aramaic | daytā 'milvus' \[Brock. 150\], \[PS 892\]; also dayway id. \[ibid.\]. | Brock. 150; PS 892; ibid. |  |
+| Judaic Aramaic | dayyǝtā, dayyūtā \[Ja. 299\], \[Levy WTM I 393\]; dyyh, det. dyyth \[DJPA 145b apud CAL\]; daytā \[Sok. B 330\], dyw \[Sok. B 328\]. | Ja. 299; Levy WTM I 393; DJPA 145b; CAL; Sok. B 330; Sok. B 328 | gloss withheld |
+| Syrian Aramaic | daytā 'kite' \[Brock. 150\], \[PS 892\]; also dayway id. \[ibid.\]. | Brock. 150; PS 892; ibid. |  |
 | Modern Aramaic | NSyr. détâ (SED II 92) | SED II 92 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

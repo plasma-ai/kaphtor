@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | TWB (DNWSI 1114 apud CAL) | DNWSI 1114; CAL | gloss withheld |
 | Hebrew | šuwb 'return' | Anderson–Moser 2024 root ṯwb |  |
 | Ugaritic | ṯb 'return' | Anderson–Moser 2024 root ṯwb |  |
-| Amorite | šwb: jašūb, šūb, šābum, jāšīb (Gelb AS 21, 33) | Gelb AS 21 33 | gloss withheld |
+| Amorite | šwb: jašūb, šūb, šābum, jāšīb (Gelb AS 21, 33); šu-ub-na- (OLA80 §40.14) | Gelb AS 21 33; OLA80 §40.14 | gloss withheld |
 | Epigraphic South Arabian | Sab ṯwb (Kogan 2015, ch. 3 §5.2 no. 66) | Kogan 2015, ch. 3 §5.2 no. 66 | gloss withheld |
 | Syrian Aramaic | tāb (Kogan 2015, ch. 3 §5.2 no. 66) | Kogan 2015, ch. 3 §5.2 no. 66 | gloss withheld |
 

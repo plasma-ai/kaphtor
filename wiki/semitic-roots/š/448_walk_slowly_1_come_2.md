@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | sbsb 1, subʔat- |  | gloss withheld |
 | Tigre | šbb 2 |  |  |
-| Epigraphic South Arabian | Sab s1bʔ, ms1bʔ SD 122 | SD 122 | gloss withheld |
+| Epigraphic South Arabian | Sab s1bʔ, ms1bʔ (SD 122; Sabaweb lemma 1373) | SD 122; Sabaweb lemma 1373 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

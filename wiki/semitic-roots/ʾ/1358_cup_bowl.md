@@ -41,4 +41,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Arabic ʾijjānat and the Ethiopic word are loans from Aramaic (Fraenkel 68 and Leslau 9 apud HALOT 11).
+
 <!-- END kaphtor:record -->

@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ġ/3166_to_scoop_up
 title: "*ɣrp: 'to scoop up'"
 desc: "Proto-Semitic *ɣrp, 'to scoop up': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3166"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ɣrp: 'to scoop up'

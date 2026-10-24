@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ġazwa (Lane 2257); ġazā, ġazw (Biella 393) | Lane 2257; Biella 393 | gloss withheld |
-| Epigraphic South Arabian | Sab ġzw (Biella 393) | Biella 393 | gloss withheld |
+| Epigraphic South Arabian | Sab ġzw (Biella 393; Sabaweb lemma 1953) | Biella 393; Sabaweb lemma 1953 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

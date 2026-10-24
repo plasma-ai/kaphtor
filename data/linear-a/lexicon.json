@@ -1719,7 +1719,7 @@
     },
     {
       "word": "DA-KU-SE-NE",
-      "reading": "Takušenni?",
+      "reading": "Takušenni",
       "meaning": "probable Hurrian-style personal name; compare Ugaritic Taki-šenni",
       "root": null,
       "tier": 3,
@@ -2916,7 +2916,7 @@
         "PSZa2",
         "PKZa27"
       ],
-      "note": "√y-š-r 'to be straight, upright, righteous.' SA writes /š/ (cf. SA-SA-ME HT23a = sesame: LB sa-sa-ma, Ug. ššmn); SA-SA writes the geminate /šš/ (di Mino, Ya Diktu), not a shin marker; the same root takes one SA, with no gemination written, in JA-SA-RA (KNZc7) and I-MI-SA-RA (HT27a). Vowels: Amorite JAŠAR-AM, IA-SA-RA-AM (Gelb 1980, no. 3448), base *yašar-. Spelling encodes accusative -am: RA = /ra/ (not RU = /ru/ for nominative -um), ME = mimation. Primary reading: accusative *yaššaram* 'uprightly'; the long vowel of earlier *yašāram* is dropped for want of independent support. Amorite IA-SA-RA-AM is classed accusative (Gelb 1980, no. 3448). Davis and Thomas's 'offering' is a syntactic rival (object slot), not a lexical value. Polysemic layer: masculine divine name Yasharam, cognate with Akk. Mīšarum (An = Anum III, justice deity paired with fem. Išartu), Phoen. Misor (Μίσωρ, Philo of Byblos via Eusebius PE 1.10, paired with Sydyk). Linear A I-MI-SA-RA (HT27a) = NWS reflex of same deity. Three Titles polysemy: √y-š-r 'righteous' + √ʾ-š-r 'blessed/sanctuary' + √ʾ-ṯ-r 'Athirat' all collapse in SA-SA-RA under Linear A sibilant merger. Davis 2026 functional gloss: \"an offering/dedication\" (in Salgarella & Petrakis eds., The Wor(l)ds of Linear A, pp. 43-60). Huehnergard: /yušru/ \"uprightness\" (yuCCu nominal pattern); confirms adverbial accusative with -m. PL Zf 1 preserves JA-SA-SA-RA followed only by a damaged vertical trace; [ME?] is a probable formulaic restoration, not an independent full attestation, and NE cannot be excluded. IO Za 2 preserves JA-SA-SA-RA-[, ME restored by GORILA (V 19), and IO Za 9 only ]JA-SA-SA-, RA-ME restored (V 33). PK Za 14 ends JA-SA-SA-[ at the broken edge (IV 40), probably the same word. Intact on IO Za 6 (V 25), PS Za 2 (IV 54) and TL Za 1 (IV 59). IO Za 12 has it whole on one line, second SA and ME dotted (Karetsou, Godart & Olivier, Kadmos 24, 1985, 143).",
+      "note": "√y-š-r 'to be straight, upright, righteous.' SA writes /š/ (cf. SA-SA-ME HT23a = sesame: LB sa-sa-ma, Ug. ššmn); SA-SA writes the geminate /šš/ (di Mino, Ya Diktu), not a shin marker; the same root takes one SA, with no gemination written, in JA-SA-RA (KNZc7) and I-MI-SA-RA (HT27a). Vowels: Amorite JAŠAR-AM, IA-SA-RA-AM (Gelb 1980, no. 3448), base *yašar-. Spelling encodes accusative -am: RA = /ra/ (not RU = /ru/ for nominative -um), ME = mimation. Primary reading: accusative *yaššaram* 'uprightly'; the long vowel of earlier *yašāram* is dropped for want of independent support. Amorite IA-SA-RA-AM is classed accusative (Gelb 1980, no. 3448). Davis and Thomas's 'offering' is a syntactic rival (object slot), not a lexical value. Davis 2026 functional gloss: \"an offering/dedication\" (in Salgarella & Petrakis eds., The Wor(l)ds of Linear A, pp. 43-60). Huehnergard: /yušru/ \"uprightness\" (yuCCu nominal pattern); confirms adverbial accusative with -m. PL Zf 1 preserves JA-SA-SA-RA followed only by a damaged vertical trace; [ME?] is a probable formulaic restoration, not an independent full attestation, and NE cannot be excluded. IO Za 2 preserves JA-SA-SA-RA-[, ME restored by GORILA (V 19), and IO Za 9 only ]JA-SA-SA-, RA-ME restored (V 33). PK Za 14 ends JA-SA-SA-[ at the broken edge (IV 40), probably the same word. Intact on IO Za 6 (V 25), PS Za 2 (IV 54) and TL Za 1 (IV 59). IO Za 12 has it whole on one line, second SA and ME dotted (Karetsou, Godart & Olivier, Kadmos 24, 1985, 143).",
       "source": "Gordon 1966 §163; di Mino",
       "reviewer": "di Mino"
     },
@@ -3945,7 +3945,7 @@
     },
     {
       "word": "MA-ZU",
-      "reading": "maṯu?",
+      "reading": "maṯu",
       "meaning": "infants or young dependents (personnel category)",
       "root": "m-ṯ",
       "cognates": {
@@ -4535,18 +4535,35 @@
       "word": "SU-KI-RI-TA",
       "reading": "Sukrita",
       "meaning": "Sukrita (place name; Linear B su-ki-ri-ta)",
-      "root": null,
+      "root": "s-g-r",
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.55,
       "semantic_field": "toponym",
       "category": "toponym",
-      "language_layer": "pre-Greek/Minoan toponym",
+      "language_layer": "NWS",
       "attestations": [
         "PHWa32",
         "HTZb158b"
       ],
-      "note": "PH Wa 32, a Phaistos nodule: SU-KI-RI-TA alone, four signs, undotted (GORILA II 90). HT Zb 158b, a jar: SU-KI-RI-TE-I-JA, the gentilic in -TE-I-JA. Linear B spells the place su-ki-ri-ta in the Knossos sheep tablets (KN Da 1091, Db 1324, 1327, Df 1325, Dn 1092, Dv 5232), with the ethnic su-ki-ri-ta-jo (KN C 911); DMic II 303 n. 6 records Godart's reading of su-ki-ri-ta on this Phaistos sealing (PP 31, 1976, 42 ff.) and the scribe's change of su-ki-ri-ta to pa-i-to on KN Da 1163. Identified with Σύβριτα in the Amari valley; Chadwick takes the name as not Greek (DMic II 303 n. 5).",
+      "note": "PH Wa 32, a Phaistos nodule: SU-KI-RI-TA alone, four signs, undotted (GORILA II 90). HT Zb 158b, a jar: SU-KI-RI-TE-I-JA, the gentilic in -TE-I-JA. Linear B spells the place su-ki-ri-ta in the Knossos sheep tablets (KN Da 1091, Db 1324, 1327, Df 1325, Dn 1092, Dv 5232), with the ethnic su-ki-ri-ta-jo (KN C 911); DMic II 303 n. 6 records Godart's reading of su-ki-ri-ta on this Phaistos sealing (PP 31, 1976, 42 ff.) and the scribe's change of su-ki-ri-ta to pa-i-to on KN Da 1163. Identified with Σύβριτα in the Amari valley; Chadwick takes the name as not Greek (DMic II 303 n. 5). Semitic etymology, SPECULATIVE: √s-g-r 'shut, bolt' on Ventris and Chadwick's Sugrita, the vowel of KI dead: Heb. sāgar 'shut' (BDB 688), Akk. šigaru 'bolt' (HALOT 742), Pun. sgr 'lock'. Ugaritic personal name śgryn /Sugriyānu/ (KTU³ 4.825 i 13), s̀ an allograph of {s} (Tropper & Vita 2019, §2). Rival: SU- + KI-RI-TA qrt 'town' (Phoen., Pun. qrt, HALOT 1142; Syr. ḳerīt-, Brock. 695), SU- unexplained; Greek writes Semitic q as κ, and Σύβριτα has β/γ.",
+      "source": "di Mino"
+    },
+    {
+      "word": "SU-KI-RI-TE-I-JA",
+      "reading": "Sukritēya",
+      "meaning": "of Sukrita (Sybrita): origin label on a jar",
+      "root": "s-g-r",
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "toponym",
+      "category": "gentilic",
+      "language_layer": "NWS",
+      "attestations": [
+        "HTZb158b"
+      ],
+      "note": "HT Zb 158b, a jar: the only word on side b (GORILA IV 65); side a reads [·]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI; Linear B has the ethnic su-ki-ri-ta-jo (KN C 911). Davis (Aura Suppl. 13, 46) pairs the two forms as alternating endings. -I-JA is the Semitic nisba *-iy- (fem. *-iyya), the gentilic suffix of Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Fischer §116). Rival: Anatolian -iya-. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. One document.",
       "source": "di Mino"
     },
     {
@@ -4986,7 +5003,7 @@
         "CRZf1",
         "KNWb33"
       ],
-      "note": "CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE. The name stands before the 1cs verb A-TA-DE, as the one who makes the pin ready. The second sign is KI, with GORILA IV 146–47, Younger and the photograph; it is not DE. KN Wb 33 joins QA-KI[ (a) and NU-SE (b, read leftward) as QA-KI-SE-NU-[ (Younger, Linear A Texts, other texts). Pattern of DA-KU-SE-NE /Takušenni?/ (HT 103) beside DA-KU-SE-NE-TI (HT 104), with the same final -TI; the first element is unexplained, and QA, for a /q/ Hurrian lacks (Wilhelm, \"Hurrian,\" 98–99), puts it outside Hurrian: a mixed name with Hurrian -šenni. Rival: Amorite two-element name, kakka + sanati.",
+      "note": "CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE. The name stands before the 1cs verb A-TA-DE, as the one who makes the pin ready. The second sign is KI, with GORILA IV 146–47, Younger and the photograph; it is not DE. KN Wb 33 joins QA-KI[ (a) and NU-SE (b, read leftward) as QA-KI-SE-NU-[ (Younger, Linear A Texts, other texts). Pattern of DA-KU-SE-NE /Takušenni/ (HT 103) beside DA-KU-SE-NE-TI (HT 104), with the same final -TI; the first element is unexplained, and QA, for a /q/ Hurrian lacks (Wilhelm, \"Hurrian,\" 98–99), puts it outside Hurrian: a mixed name with Hurrian -šenni. Rival: Amorite two-element name, kakka + sanati.",
       "source": "di Mino; Younger, Linear A Texts; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian; Gelb, Purves, and MacRae 1943"
     },
     {
@@ -5588,7 +5605,7 @@
       "attestations": [
         "PKZa11"
       ],
-      "note": "Palaikastro dialect variant. At PKZa11, the preceding token is standalone 'A' followed by a line break then SA-SA-RA-ME—the scribe split A-SA-SA-RA-ME across lines, with A- on one line and SA-SA-RA-ME continuing. The JA- prefix drops in Palaikastro proto-Phoenician dialect (cf. PKZa27 which retains JA-, standard register). Same reading as JA-SA-SA-RA-ME: *yaššaram* 'uprightly' (accusative -am). Polysemic layer: masculine divine name Yasharam (Mīšarum/Misor). Huehnergard: /yušru/ \"uprightness\" (yuCCu nominal pattern); confirms adverbial accusative with -m.",
+      "note": "Palaikastro dialect variant. At PKZa11, the preceding token is standalone 'A' followed by a line break then SA-SA-RA-ME—the scribe split A-SA-SA-RA-ME across lines, with A- on one line and SA-SA-RA-ME continuing. The JA- prefix drops in Palaikastro proto-Phoenician dialect (cf. PKZa27 which retains JA-, standard register). Same reading as JA-SA-SA-RA-ME: *yaššaram* 'uprightly' (accusative -am). Huehnergard: /yušru/ \"uprightness\" (yuCCu nominal pattern); confirms adverbial accusative with -m.",
       "source": "di Mino"
     },
     {
@@ -6069,7 +6086,7 @@
       "attestations": [
         "IOZa2"
       ],
-      "note": "IOZa2 line 2, in the frame TA-NA-[X]-U-TI-NU shared with IO Za 6 (X = I-*301) and IO Za 11 (]U-TI-NU). TA- = 2fs prefix; -NA- = N-stem n-, unassimilated before /r/ (later Hebrew תֵּרָצֶה tērāṣeh; Lipiński §41.16); RA-TE = √r-ṣ-y 'be acceptable' (Hebrew Niphal, Lev 1:4; TE = ṣ unproved); U = indicative -u of the yaqtulu conjugation, preceding the subject pronoun (Ugaritic ʾargmk /ʾargumu-kī/, KTU 1.3 III 21), the least secure element; TI = archaic 2fs nominative subject clitic, extended analogically to a finite host; NU = 1cp object 'us' (PS *-na, Ugaritic -n/-nā), energic n-extension the alternative. Controls: Enūma eliš I 119–20 ul taremmināsi 'you (f.) do not love us'; Josh 2:18 hôradtēnû; Ugaritic tšqy-n (KTU 1.19 IV 53). Principal objection: ordinary 2fs *taqtulīna.",
+      "note": "IOZa2 line 2, in the frame TA-NA-[X]-U-TI-NU shared with IO Za 6 (X = I-*301) and IO Za 11 (]U-TI-NU). TA- = 2fs prefix; -NA- = N-stem n-, unassimilated before /r/ (later Hebrew תֵּרָצֶה tērāṣeh; Lipiński §41.16); RA-TE = √r-ṣ-y 'be acceptable' (Hebrew Niphal, Lev 1:4; TE = ṣ unproved); U = indicative -u of the yaqtulu conjugation, preceding the subject pronoun (Ugaritic ʾargmk /ʾargumu-kī/, KTU 1.3 III 21; modal 'may' sense, cf. Huehnergard 2012, 55–56; -u \"remains attached directly to the verbal base, and pronominal object suffixes follow it,\" Bjøru and Pat-El 2021, 56), the least secure element; TI = archaic 2fs nominative subject clitic (subject clitics from the nominative pronouns, usable on other bases: Pat-El 2025, 330, 332), extended analogically to a finite host; NU = 1cp object 'us' (PS *-na, Ugaritic -n/-nā), energic n-extension the alternative. Controls: Enūma eliš I 119–20 ul taremmināsi 'you (f.) do not love us'; Josh 2:18 hôradtēnû; Ugaritic tšqy-n (KTU 1.19 IV 53). Principal objection: ordinary 2fs *taqtulīna, with -na after gender-number suffixes (Bjøru and Pat-El 2021, 48), a Central Semitic innovation beside shared -u (Bjøru and Pat-El 2021, 66).",
       "source": "di Mino"
     },
     {
@@ -11791,6 +11808,30 @@
       ],
       "note": "KN Zf 13, gold ring HM 530: 19 signs in a spiral from the outer band inward, no dividers; RI (12, 15), MU (16) and KU (19) underdotted (GORILA IV 152–153). The last four signs are A-JA-KU, ʾAyaku (Amorite ʾAjak-u, Gelb 1980, no. 320); the first fifteen carry no reading, and the segmentation is not marked. Rival for the ending: Akkadian ajakku, a temple structure (CAD A/1, 224–25). One document.",
       "source": "di Mino"
+    },
+    {
+      "word": "PA-RA",
+      "reading": "parr(u)",
+      "root": "p-r(-w)",
+      "meaning": "skin, fleece (a hide with its wool); rival 'hair'",
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "source": "di Mino",
+      "attestations": [
+        "PH3a",
+        "HT128a"
+      ],
+      "category": "commodity",
+      "language_layer": "NWS",
+      "semantic_field": "commodity",
+      "cognates": {
+        "Proto-Semitic": "*parw- ~ *parr- 'skin, shell, husk' (SED I No. 217)",
+        "Akkadian": "paru A (parru, baru) 'skin, hide' (CAD P 209); pāru, parru, bāru 'Haut' (AHw 836)",
+        "Arabic": "farw- 'fur'; farwa 'a skin, but not unless having upon it fur or wool' (Lane 2390)",
+        "Syriac": "partā, pl. parrē 'bran, husk; scurf of the head' (Brock. 591)"
+      },
+      "note": "PH 3a .3 ]MA+RU ⅓ · PẠ-RẠ ⅓ (GORILA I 291): after the wool ligature MA+RU and the MA ligatures *556, *557 and *563, with the wool entry's ⅓ measure; a fractional measure fits a material counted by weight. PA and RA at their primary values, the geminate unwritten. Both signs dotted. Rivals: *parʕ- '(loose) hair of the head' (Akk. pērtu, Hbr. päraʕ; SED I No. 218), head hair rather than a traded material; *ɣapar- 'stiff hair' (Kogan 2011, 223) with its first syllable unwritten. HT 128a .1 *326 PA-RA TU-RU-NU-SE-ME GRA 10, with no quantity of its own (GORILA I 221): there a personal name, or *barr- 'wheat' (Hbr. bār, Akk. burru, CAD B 330) with PA for /b/. A two-sign word: the PH 3a context, not the spelling, selects the sense."
     }
   ]
 }

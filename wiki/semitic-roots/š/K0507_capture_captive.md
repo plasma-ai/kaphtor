@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | šəbā (HALOT 1382) | HALOT 1382 |  |
 | Syrian Aramaic | šebāʾ (HALOT 1382) | HALOT 1382 |  |
 | Mandaic Aramaic | ŠBA (HALOT 1382) | HALOT 1382 |  |
-| Epigraphic South Arabian | Sab. sby (HALOT 1382) | HALOT 1382 |  |
+| Epigraphic South Arabian | Sab. sby (HALOT 1382; Sabaweb lemmas 2031, 1713) | HALOT 1382; Sabaweb lemmas 2031, 1713 | gloss withheld |
 | Amorite | śbj: jaśbī (Gelb AS 21, 31) | Gelb AS 21 31 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic sby (Al-Jallad–Jaworska 120) | Al-Jallad–Jaworska 120 | gloss withheld |
 

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | ṯmr (HALOT 1756) | HALOT 1756 | gloss withheld |
+| Epigraphic South Arabian | ṯmr (HALOT 1756; Sabaweb lemma 1282) | HALOT 1756; Sabaweb lemma 1282 | gloss withheld |
 | Arabic | ṯmr (QAC ثمر; HALOT 1406) | QAC ثمر; HALOT 1406 | gloss withheld |
 | Geez | samra (LGz. 503) | LGz. 503 | gloss withheld |
 | Amharic | sämmärä (LGz. 503) | LGz. 503 | gloss withheld |

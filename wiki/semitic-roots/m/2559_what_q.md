@@ -30,17 +30,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | mīnu |  |  |
+| Akkadian | mīnu (Kogan 2015, ch. 7 §2.3 no. 96) | Kogan 2015, ch. 7 §2.3 no. 96 |  |
 | East Ethiopic | Wol mǝn |  |  |
-| Geez | mǝnt &lt;mǝ-ʔǝnta |  | gloss withheld |
-| Gurage | Sod mǝn, Cha mǝr |  |  |
-| Amharic | mǝn |  |  |
+| Geez | mǝnt &lt;mǝ-ʔǝnta (Kogan 2015, ch. 7 §2.3 no. 96) | Kogan 2015, ch. 7 §2.3 no. 96 | gloss withheld |
+| Gurage | Sod mǝn (Kogan 2015, ch. 7 §2.3 no. 96), Cha mǝr | Kogan 2015, ch. 7 §2.3 no. 96 |  |
+| Amharic | mǝn (Kogan 2015, ch. 7 §2.3 no. 96) | Kogan 2015, ch. 7 §2.3 no. 96 |  |
 | Epigraphic South Arabian | m |  |  |
-| Harari | min |  |  |
+| Harari | min (Kogan 2015, ch. 7 §2.3 no. 96) | Kogan 2015, ch. 7 §2.3 no. 96 |  |
 | Syrian Aramaic | mǝnā (Payne Smith 281) | Payne Smith 281 |  |
 | Gafat | mǝn, mǝni |  |  |
 | Argobba | mǝn |  |  |
-| Tigrinya | mǝntay (mǝnǝw) |  | gloss withheld |
+| Tigrinya | mǝntay (mǝnǝw) (Kogan 2015, ch. 7 §2.3 no. 96) | Kogan 2015, ch. 7 §2.3 no. 96 | gloss withheld |
 | Ugaritic | mn (CUC; DULAT 553) | CUC; DULAT 553 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

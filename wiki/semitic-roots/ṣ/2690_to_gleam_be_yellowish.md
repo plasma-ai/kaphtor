@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/2690_to_gleam_be_yellowish
 title: "*ṣahab-: 'to gleam, be yellowish'"
-desc: "Proto-Semitic *ṣahab-, 'to gleam, be yellowish': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṣahab-, 'to gleam, be yellowish': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2690"
@@ -29,8 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṣaḥaba 'to be reddish-yellow' (BK 1, 1277) | BK 1, 1277 |  |
+| Arabic | ṣahiba (BK 1, 1379); ʾaṣhab- (Kogan 2011, 199) | BK 1, 1379; Kogan 2011, 199 | gloss withheld |
 | Hebrew | ṣāhōb (HALOT 1007) | HALOT 1007 | gloss withheld |
+| Jibbali | ṣahbɔ́b (Kogan 2011, 199) | Kogan 2011, 199 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

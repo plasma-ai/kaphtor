@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḳadḥa \[LGz 421\] | LGz 421 | gloss withheld |
 | Hebrew | ḳaddaḥat (HALOT 1067) | HALOT 1067 | gloss withheld |
 | Amharic | ḳädda. |  | gloss withheld |
-| Judaic Aramaic | ḳidḥā \[Ja 1315\], ḳadḥūtā, ḳaddaḥtā, ḳǝdīḥūtā \[Ja 1315\]; ḳdḥy, det. ḳdḥyth \[Sok 474\] | Ja 1315; Ja 1315; Sok 474 | gloss withheld |
+| Judaic Aramaic | ḳidḥā \[Ja 1315\], ḳadḥūtā, ḳaddaḥtā, ḳǝdīḥūtā \[Ja 1315\]; ḳdḥy, det. ḳdḥyth \[DJPA 474b apud CAL\] | Ja 1315; Ja 1315; DJPA 474b; CAL | gloss withheld |
 | Syrian Aramaic | ḳǝdiḥtā 'disease of the eye' \[Brock 645\] | Brock 645 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

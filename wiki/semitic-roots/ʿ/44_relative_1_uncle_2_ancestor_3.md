@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ʔom 3 |  |  |
 | Phoenician | ʿm (Krahmalkov 376–377) | Krahmalkov 376–377 | gloss withheld |
 | Hebrew | ʕam 1 |  |  |
-| Epigraphic South Arabian | Sab ʿm, pl. ʾʿmm (SD 16, 17; Biella 371, 372) | SD 16, 17; Biella 371, 372 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿm, pl. ʾʿmm (SD 16; Biella 371; Sabaweb lemma 3735) | SD 16; Biella 371; Sabaweb lemma 3735 | gloss withheld |
 | Amorite | ʿammum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
 | Syrian Aramaic | ʕamtā 'paternal aunt' (Payne Smith 419) | Payne Smith 419 |  |
 | Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53) | Al-Jallad–Jaworska 53 | gloss withheld |

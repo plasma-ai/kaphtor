@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | šūnû (HALOT 1338) | HALOT 1338 |  |
 | Syrian Aramaic | sənāʾ (HALOT 1338) | HALOT 1338 |  |
 | Mandaic Aramaic | SNA (HALOT 1338) | HALOT 1338 |  |
-| Epigraphic South Arabian | Sab s₂nʾ (Kogan 2015, ch. 3 §5.2 no. 60) | Kogan 2015, ch. 3 §5.2 no. 60 | gloss withheld |
+| Epigraphic South Arabian | Sab s₂nʾ (Kogan 2015, ch. 3 §5.2 no. 60; Sabaweb lemma 1263) | Kogan 2015, ch. 3 §5.2 no. 60; Sabaweb lemma 1263 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic śnʾ (Al-Jallad–Jaworska 126) | Al-Jallad–Jaworska 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

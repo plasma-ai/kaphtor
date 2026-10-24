@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ʿ/3169_he_is_still
 title: "*ʕād-: '(he is) still'"
 desc: "Proto-Semitic *ʕād-, '(he is) still': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3169"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ʕād-: '(he is) still'

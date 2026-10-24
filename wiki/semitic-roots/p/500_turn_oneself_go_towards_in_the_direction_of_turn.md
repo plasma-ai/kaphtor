@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | pny 'turn toward, upon' (Payne Smith 450) | Payne Smith 450 |  |
 | Gafat | fännä |  | gloss withheld |
 | Tigrinya | fännäwä |  | gloss withheld |
-| Amorite | šu-ub-na- (Š-stem √p-n-y; OLA80 §48.16); pnj: jipannī, panijum (Gelb AS 21, 28) | OLA80 §48.16; Gelb AS 21 28 | gloss withheld |
+| Amorite | pnj: jipannī, panijum (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
 | East Ethiopic | Sel. foňe, Wol. fone, Zwy. afoňī, Sel. yä---fono, Wol. fono (EDG 233 apud SEDonline 347) | EDG 233; SEDonline 347 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

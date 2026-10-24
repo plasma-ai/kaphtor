@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | pahad \[DM 360\]. | DM 360 | gloss withheld |
 | Jibbali | fhǝdɛ́t \[JJ 54\]. | JJ 54 | gloss withheld |
 | Epigraphic South Arabian | Hdr. fhd-nyw \[Pirenne 93\] | Pirenne 93; Sima 58-9 | gloss withheld |
-| Syrian Aramaic | pahdā 'panther' \[Brock. 558\], \[PS 3042\]. | Brock. 558; PS 3042 |  |
+| Syrian Aramaic | pahdā 'panther' \[Brock. 558\], 'a wild beast' \[PS 3042\]. | Brock. 558; PS 3042 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | (?) ḫlb \[Aist 112\]. | Aist 112 | gloss withheld |
 | Phoenician | ḥlb \[T 104\]. | T 104 | gloss withheld |
 | Hebrew | ḥēläb (HALOT 315). | HALOT 315 | gloss withheld |
-| Judaic Aramaic | ḥlb \[Sok 201\] | Sok 201 | gloss withheld |
+| Judaic Aramaic | ḥlb \[DJPA 201b apud CAL\] | DJPA 201b; CAL | gloss withheld |
 | Syrian Aramaic | ḥelbā 'omentum' \[Brock 233\] | Brock 233 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

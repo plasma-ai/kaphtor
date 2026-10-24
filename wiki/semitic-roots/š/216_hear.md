@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/216_hear
 title: "*šVmaʕ-: 'hear'"
-desc: "Proto-Semitic *šVmaʕ-, 'hear': reflexes in 27 language(s)."
+desc: "Proto-Semitic *šVmaʕ-, 'hear': reflexes in 26 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "216"
@@ -49,7 +49,6 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | sämmä |  |  |
 | Argobba | sämma |  |  |
 | Tigrinya | sämʕe (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015, ch. 7 §2.2 no. 39 |  |
-| Amorite | iš-ma-aḥ (OLA80 §45.8) | OLA80 §45.8 | gloss withheld |
 | Aramaic | ŠMʿ (Aramaic Root Atlas; DNWSI 1164 apud CAL) | Aramaic Root Atlas; DNWSI 1164; CAL | gloss withheld |
 | Punic | šmʿ 'hear' | Anderson–Moser 2024 root šmʿ |  |
 | Judaic Aramaic | mišmᵉʿā (HALOT 649); šəmaʿ (HALOT 1570; DJPA 558a apud CAL) | HALOT 649; HALOT 1570; DJPA 558a; CAL | gloss withheld |
@@ -59,5 +58,9 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | šĩʕ (JL 262 apud SEDonline 26) | JL 262; SEDonline 26 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Syllabic iš-ma-aḫ /yišmaʿ/ 'he heard' in personal names from Ugarit or Emar (OLA80 §45.8).
 
 <!-- END kaphtor:record -->

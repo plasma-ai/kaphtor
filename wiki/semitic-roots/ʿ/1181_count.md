@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1181_count
 title: "*ʕud-: 'count'"
-desc: "Proto-Semitic *ʕud-, 'count': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʕud-, 'count': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1181"
@@ -33,9 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕdd \[-u-\] (Lane 1969) | Lane 1969 |  |
 | Mehri | ʔed |  |  |
 | Harsusi | ʔadōd |  |  |
-| Ugaritic | ʕdt (DULAT 148) | DULAT 148 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿdd (Biella 352) | Biella 352 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Ugaritic ʕdt 'assembly' (DULAT 148) belongs to \*wʕd, from which DULAT derives it.
 
 <!-- END kaphtor:record -->

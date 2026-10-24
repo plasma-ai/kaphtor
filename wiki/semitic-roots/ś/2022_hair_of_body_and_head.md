@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | ŝǝʕar (constr.) 'hair' (BDB 1114) | BDB 1114 |  |
 | Modern Aramaic | MAL saʕra \[Berg 78\] MLH ṣʕore (pl.) \[J Mlah 198\] HRT ṣʔare \[J Hert 199: secondary emphaticization\] ṣeʔra \[J Hert 199\] | Berg 78; J Mlah 198; J Hert 199: secondary emphaticization; J Hert 199 | gloss withheld |
 | Hebrew | ŝēʕār (HALOT 1344). | HALOT 1344 | gloss withheld |
-| Judaic Aramaic | sǝʕar, sēʕār (det. saʕrā) \[Ja 1613\]; sʕr \[Sok 571\] | Ja 1613; Sok 571 | gloss withheld |
+| Judaic Aramaic | sǝʕar, sēʕār (det. saʕrā) \[Ja 1613\]; sʕr \[DJPA 571b apud CAL\] | Ja 1613; DJPA 571b; CAL | gloss withheld |
 | Syrian Aramaic | saʕrā 'hair' \[Brock 488\] | Brock 488 |  |
 | Aramaic | sʿr 'hair' | Anderson–Moser 2024 root śʿr |  |
 

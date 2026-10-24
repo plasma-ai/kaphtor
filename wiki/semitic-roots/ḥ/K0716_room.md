@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ḥdr \[HALOT 293\] | HALOT 293 | gloss withheld |
 | Punic | ḥdr, ʿdr (T 98) | T 98 | gloss withheld |
 | Arabic | ḫidr- (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015, ch. 2 §4.2 no. 17 | gloss withheld |
-| Epigraphic South Arabian | Sab ḫdr (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015, ch. 2 §4.2 no. 17 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫdr (Kogan 2015, ch. 2 §4.2 no. 17; Sabaweb lemma 4248) | Kogan 2015, ch. 2 §4.2 no. 17; Sabaweb lemma 4248 | gloss withheld |
 | Jibbali | ḫádər (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015, ch. 2 §4.2 no. 17 | gloss withheld |
 | Eblaitic | ʔà-da-ru₁₂, ʔà-da-lu-um /ḥadrum/ (VE 337, 595; Krebernik 1983, 14) | VE 337, 595; Krebernik 1983, 14 | gloss withheld |
 

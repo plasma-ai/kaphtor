@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | yaṣila \[DM 186\] | DM 186 | gloss withheld |
 | Phoenician | yṣlt \[T 128\] | T 128 | gloss withheld |
 | Hebrew | ʔaṣṣīl (HALOT 81) | HALOT 81 | gloss withheld |
-| Judaic Aramaic | ʔṣyl \[Sok 72\] | Sok 72 | gloss withheld |
+| Judaic Aramaic | ʔṣyl \[DJPA 72b apud CAL\] | DJPA 72b; CAL | gloss withheld |
 | Syrian Aramaic | yaṣṣīlā 'elbow' \[Brock 306\] | Brock 306 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

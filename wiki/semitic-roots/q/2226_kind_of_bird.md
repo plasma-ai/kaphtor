@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḳaḳû OB on \[CAD ḳ 124\], \[AHw. 901\] | CAD ḳ 124; AHw. 901; CAD ḳ 99 | gloss withheld |
 | Eblaitic | ḳú-ḳí-a-nu-um = A.BALAG.MUS̆EN \[MEE IV 620\] | MEE IV 620; Dombrowski 221; Conti 1993 102; Bonechi 265 | gloss withheld |
 | Hebrew | ḳāʔāt (ḳāʔat) (HALOT 1059), pB. ḳāʔāt (pl. ḳāʔōt) \[Ja. 1307\] | HALOT 1059; Ja. 1307 | gloss withheld |
-| Judaic Aramaic | ḳātā, ḳā(ʔ)tā \[Ja. 1434\] | Ja. 1434; Ja. 1306; ibid. 1340; ibid. 1409; ibid. 1409; Sok. 501 | gloss withheld |
-| Syrian Aramaic | ḳāḳā 'pelecanus' \[Brock. 688\], \[PS 3708\]. | Brock. 688; PS 3708 |  |
+| Judaic Aramaic | ḳātā, ḳā(ʔ)tā \[Ja. 1434\] | Ja. 1434; Ja. 1306; ibid. 1340; ibid. 1409; ibid. 1409; DJPA 501b; CAL | gloss withheld |
+| Syrian Aramaic | ḳāḳā 'pelican' \[Brock. 688\], \[PS 3708\]. | Brock. 688; PS 3708 |  |
 | Modern Aramaic | NSyr. ḳāḳā; Tlk., Ass. ḳaḳwāna; Tur. ḳaḳwonīṯo (SED II 172–173) | SED II 172–173 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

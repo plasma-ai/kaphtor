@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | erû (arû) OA, OB on \[CAD e 325\], \[AHw 72\] | CAD e 325; AHw 72 | gloss withheld |
 | Ugaritic | hry (DULAT 342) | DULAT 342 | gloss withheld |
 | Hebrew | hry (HALOT 255, 256) | HALOT 255, 256 | gloss withheld |
-| Epigraphic South Arabian | (?) SAB hry, hry. |  | gloss withheld |
+| Epigraphic South Arabian | (?) SAB hry, hry; (Sabaweb lemmas 2246, 2245). | Sabaweb lemmas 2246, 2245 | gloss withheld |
 | Aramaic | OLD hry \[HJ 293\], DSS hry \[Beyer 564\] | HJ 293; Beyer 564 | gloss withheld |
 | Eblaitic | ʔà-rí-tum /harītum/ \[Kreb. 23\] | Kreb. 23 |  |
 

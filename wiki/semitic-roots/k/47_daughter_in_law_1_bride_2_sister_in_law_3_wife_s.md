@@ -39,11 +39,15 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | kl-t 1, 2 (DULAT 436) | DULAT 436 |  |
 | Jibbali | kólún (JJ 130) | JJ 130 | gloss withheld |
 | Hebrew | kallā 1, 2 (HALOT 477, 478) | HALOT 477, 478 |  |
-| Judaic Aramaic | kaltā 1, 2 (Ja. 645); kallā 1, 2 (Sokoloff 259) | Ja. 645; Sokoloff 259 |  |
+| Judaic Aramaic | kaltā 1, 2 (Ja. 645); kallā 1, 2 (DJPA 259a apud CAL) | Ja. 645; DJPA 259a; CAL |  |
 | Syrian Aramaic | kallǝt- 1, 2, 4 (also 'clitoris, praeputium') (Brock. 326-7) | Brock. 326-7 |  |
 | Aramaic | Palm. klh 1 (HJ 510); Sam. klh 1 (Tal 2, 387) | HJ 510; Tal 2, 387 |  |
 | Eblaitic | kál-la-tum (Kogan 2011, 236; VE 322; Krebernik 1983, 14) | Kogan 2011, 236; VE 322; Krebernik 1983, 14 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 478 also sets Arb. kannat and, with '?', Tgr. kantō under Heb. kallā: 49.
 
 <!-- END kaphtor:record -->

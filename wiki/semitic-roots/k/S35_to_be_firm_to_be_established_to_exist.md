@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/S35_to_be_firm_to_be_established_to_exist
 title: "*kwn-: 'to be firm, to be established, to exist'"
-desc: "Proto-Semitic *kwn-, 'to be firm, to be established, to exist': reflexes in 16 language(s)."
+desc: "Proto-Semitic *kwn-, 'to be firm, to be established, to exist': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S35"
@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | kwn (/k-n/) G L mknt (cf. Heb. mākôn). (DULAT 442, 537). PN: yknʿil | DULAT 442, 537 | gloss withheld |
 | Phoenician | kn, niph'al (Krahmalkov 232–234); kwn (yiph.) (T 140); mkn (T 176), NPu. mʾkn (Krahmalkov 281) | Krahmalkov 232–234; T 140; T 176; Krahmalkov 281 | gloss withheld |
 | Hebrew | kūn (כּוּן). Niphal nākôn (Gen 41:32 כִּי נָכוֹן הַדָּבָר; Ps 93:2). Hiphil hēkîn (Ps 24:2). Polel kônēn (Ps 87:5). Nouns: mākôn (מָכוֹן) (1 Kgs 8:39); tᵉkûnā PNs: Yakhin (יָכִין, 1 Kgs 7:21), Yᵉkonyāhū (יְכָנְיָהוּ). (HALOT 464–467). | HALOT 464–467 | gloss withheld |
-| Epigraphic South Arabian | SAB kwn mkwn (SD 82). | SD 82 | gloss withheld |
+| Epigraphic South Arabian | SAB kwn mkwn (SD 80; Sabaweb lemma 1431). | SD 80; Sabaweb lemma 1431 | gloss withheld |
 | Judaic Aramaic | kūn Pa. "to direct, aim"; pass. part. "straight, firm, upright" (Ja. 622). | Ja. 622 |  |
 | Amorite | Ia-ki-in- (OLA80 §44.13) | OLA80 §44.13 | gloss withheld |
 | Geez | Geʿez kona (ኮነ) Causative ʾakvana (LGz. 288–289). | LGz. 288–289 | gloss withheld |
@@ -45,6 +45,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | kān 'be, exist; happen, occur' (Payne Smith 209) | Payne Smith 209 |  |
 | Pre-Islamic North Arabian | Safaitic mykn (Al-Jallad–Jaworska 101) | Al-Jallad–Jaworska 101 | gloss withheld |
 | Canaanite | kuna (HALOT 464) | HALOT 464 |  |
+| Jibbali | kun (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015, ch. 2 §4.2 no. 30 | gloss withheld |
+| Soqotri | kɔn (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015, ch. 2 §4.2 no. 30 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

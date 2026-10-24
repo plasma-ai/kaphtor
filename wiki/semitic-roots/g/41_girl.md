@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǯāriy-at- (Lane 416) | Lane 416 |  |
-| Modern South Arabian | garet (OLA80 §18.6) | OLA80 §18.6 | gloss withheld |
-| Gurage | gārād (OLA80 §30.8) | OLA80 §30.8 | gloss withheld |
+| Modern South Arabian | Mehri gərēt (OLA80 §18.6) | OLA80 §18.6 | gloss withheld |
+| Gurage | gäräd (OLA80 §30.8) | OLA80 §30.8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

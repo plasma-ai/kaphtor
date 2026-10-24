@@ -14,4 +14,4 @@ updated: 2026-10-22T18:14:10Z
 
 ***
 
-Empty until a later wave.
+Each page is generated from the Aegean files in `data/linear-a/` by `tools/views/aegean.py`.

@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Sod Cha abäm |  |  |
 | Modern Aramaic | Urm yhb |  |  |
 | Hebrew | yhb (Kogan 2015, ch. 7 §2.3 no. 33) | Kogan 2015, ch. 7 §2.3 no. 33 |  |
-| Epigraphic South Arabian | whb (Kogan 2015, ch. 7 §2.3 no. 33) | Kogan 2015, ch. 7 §2.3 no. 33 |  |
+| Epigraphic South Arabian | whb (Kogan 2015, ch. 7 §2.3 no. 33; Sabaweb lemma 2538) | Kogan 2015, ch. 7 §2.3 no. 33; Sabaweb lemma 2538 | gloss withheld |
 | Syrian Aramaic | y(h)b |  |  |
 | Gafat | wabä |  |  |
 | Aramaic | Bib Pal yhb (DJPA 235b apud CAL) | DJPA 235b; CAL |  |

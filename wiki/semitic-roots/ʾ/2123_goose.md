@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʔuz \[DULAT 132\] | DULAT 132 | gloss withheld |
 | Hebrew | PB ʔāwāz 'goose' \[Ja. 23\]. | Ja. 23 |  |
 | Judaic Aramaic | ʔawzā, ʔăwāzā 'goose' \[Ja. 23\], \[Levy WTM I 38\]; ʔăwazzā \[Ja. 23\]. | Ja. 23; Levy WTM I 38; Ja. 23 |  |
-| Syrian Aramaic | wazzā 'anser' \[Brock. 184\], \[PS 1060\] (also wāzā). | Brock. 184; PS 1060 |  |
+| Syrian Aramaic | wazzā 'goose' \[Brock. 184\], \[PS 1060\] (also wāzā). | Brock. 184; PS 1060 |  |
 | Amharic | zəyy (zəyyi, zəyye) (SED II 32) | SED II 32 |  |
 | Modern Aramaic | Maʕl. wazzṯo, Tur. wāzo (SED II 32) | SED II 32 |  |
 

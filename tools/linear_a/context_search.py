@@ -22,9 +22,7 @@ from ..core.skeleton import extract_skeleton
 from ..paths import LINEAR_A_DATA, NotInCheckout
 from .cognate_search import (
     load_corpus,
-    load_gordon,
-    load_scholarly,
-    load_yashar_mana,
+    load_lexicon_words,
     reverse_root_search,
     syllabic_grep,
 )
@@ -82,17 +80,6 @@ def resolve_word_signs(word: str, sign_map: dict[str, str]) -> str:
     return "-".join(resolved_parts)
 
 
-GORDON_CATEGORIES = {
-    "divine": "DIVINE",
-    "personal-nws": "PN",
-    "personal-egyptian": "PN",
-    "personal-hurrian": "PN",
-    "religious": "RITUAL",
-    "vocabulary": "VOCAB",
-    "verbal": "VERB",
-    "place": "TOPONYM",
-}
-
 LEXICON_CATEGORIES = {
     "divine_name": "DIVINE",
     "personal_name": "PN",
@@ -107,20 +94,6 @@ LEXICON_CATEGORIES = {
 DISCLAIMER = (
     "⚠ Readings follow di Mino's Semitic decipherment. Confidence tiers apply."
 )
-
-
-def load_lexicon_entries() -> dict[str, dict[str, Any]]:
-    """Load known reading entries keyed by Linear A word."""
-    path = DATA_DIR / "lexicon.json"
-    if not path.exists():
-        return {}
-    data = json.loads(path.read_text(encoding="utf-8"))
-    entries: dict[str, dict[str, Any]] = {}
-    for entry in data.get("entries", []):
-        word = entry.get("word")
-        if isinstance(word, str) and word:
-            entries[word] = entry
-    return entries
 
 
 def is_separator(word: Any) -> bool:
@@ -142,17 +115,13 @@ def is_numeral(word: str) -> bool:
     )
 
 
-def _semantic_category(source_category: str | None, source: str) -> str:
-    if source == "lexicon":
-        # Lexicon entries without a display label still have readings; UNKNOWN is kept for unmatched words.
-        return LEXICON_CATEGORIES.get(source_category or "", "LEX")
-    if not source_category:
-        return "UNKNOWN"
-    return GORDON_CATEGORIES.get(source_category, "UNKNOWN")
+def _semantic_category(source_category: str | None) -> str:
+    # Lexicon entries without a display label still have readings; UNKNOWN is kept for unmatched words.
+    return LEXICON_CATEGORIES.get(source_category or "", "LEX")
 
 
 def _description(entry: dict[str, Any], source: str) -> str:
-    reading = entry.get("reading") or entry.get("semitic") or entry.get("gordonTranslit") or ""
+    reading = entry.get("reading") or ""
     meaning = entry.get("meaning") or ""
     confidence = entry.get("confidence") or ""
     pieces = []
@@ -169,15 +138,11 @@ def _description(entry: dict[str, Any], source: str) -> str:
 
 def annotate_word(
     word: str,
-    gordon: dict[str, dict[str, Any]],
-    ym: dict[str, dict[str, Any]],
-    scholarly: dict[str, dict[str, Any]],
     lexicon_entries: dict[str, dict[str, Any]],
     matched_words: set[str] | None = None,
     sign_map: dict[str, str] | None = None,
 ) -> dict[str, Any]:
     """Annotate one corpus token with category, reading, and skeleton."""
-    lexicon_lookup = lexicon_entries
     resolved = resolve_word_signs(word, sign_map or {})
 
     annotation: dict[str, Any] = {
@@ -203,10 +168,10 @@ def annotate_word(
         })
         return annotation
 
-    lex = lookup_in(lexicon_lookup, word)
+    lex = lookup_in(lexicon_entries, word)
     if lex:
         annotation.update({
-            "category": _semantic_category(lex.get("category"), "lexicon"),
+            "category": _semantic_category(lex.get("category")),
             "source": "lexicon",
             "reading": lex.get("reading", ""),
             "meaning": lex.get("meaning", ""),
@@ -224,22 +189,6 @@ def annotate_word(
             "description": "particle",
         })
         return annotation
-
-    for source, entries in (
-        ("gordon", gordon),
-        ("yasharMana", ym),
-        ("scholarly", scholarly),
-    ):
-        match = lookup_in(entries, word)
-        if match:
-            annotation.update({
-                "category": _semantic_category(match.get("category"), source),
-                "source": source,
-                "reading": match.get("semitic") or match.get("gordonTranslit", ""),
-                "meaning": match.get("meaning", ""),
-                "description": _description(match, source),
-            })
-            return annotation
 
     if annotation["skeleton"]:
         annotation["description"] = annotation["skeleton"]
@@ -345,9 +294,6 @@ def annotate_tablet(
     matched_words: set[str],
     target: str,
     kind: str,
-    gordon: dict[str, dict[str, Any]],
-    ym: dict[str, dict[str, Any]],
-    scholarly: dict[str, dict[str, Any]],
     lexicon_entries: dict[str, dict[str, Any]],
     *,
     compact: bool = False,
@@ -358,7 +304,7 @@ def annotate_tablet(
     categories: Counter[str] = Counter()
     position = 0
     for word in _iter_words(doc):
-        annotation = annotate_word(word, gordon, ym, scholarly, lexicon_entries, matched_words, sign_map)
+        annotation = annotate_word(word, lexicon_entries, matched_words, sign_map)
         annotation["is_match"] = _word_is_match(word, target, kind, matched_words)
         position += 1
         annotation["position"] = position
@@ -426,10 +372,7 @@ def build_context_search(
 ) -> dict[str, Any]:
     """Run search and annotation, returning a serializable result object."""
     corpus = load_corpus()
-    gordon = load_gordon()
-    ym = load_yashar_mana()
-    scholarly = load_scholarly()
-    lexicon_entries = load_lexicon_entries()
+    lexicon_entries = load_lexicon_words()
     sign_map = {} if raw_signs else load_sign_resolution_map()
 
     resolved_kind = kind
@@ -457,9 +400,6 @@ def build_context_search(
             found[tablet_id],
             target,
             resolved_kind,
-            gordon,
-            ym,
-            scholarly,
             lexicon_entries,
             compact=compact,
             sign_map=sign_map,

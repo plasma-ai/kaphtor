@@ -1,0 +1,58 @@
+---
+name: wiki/linear-a/words/P/PA_SA_RI_JA
+title: "PA-SA-RI-JA"
+desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
+tags: ["linear-a", "word", "unread"]
+kind: "word"
+form: "PA-SA-RI-JA"
+datasets: ["onomasticon", "unread_words"]
+attestations: ["HT24a"]
+created: 2026-10-24T16:17:50Z
+updated: 2026-10-24T16:17:50Z
+---
+
+# PA-SA-RI-JA
+
+[[wiki/linear-a/words/P/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+**Signs.** [[wiki/linear-a/signs/syllabic/PA|PA]] · [[wiki/linear-a/signs/syllabic/SA|SA]] · [[wiki/linear-a/signs/syllabic/RI|RI]] · [[wiki/linear-a/signs/syllabic/JA|JA]]
+
+## Attestations
+
+| Document | Site | Support | Translation |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT24a\|HT24a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT24a\|HT24a]] |  | second section heading — unresolved |  |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | unknown (SPECULATIVE) |
+| Evidence | none |
+| Entry | auto |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: KI-MA-RU.
+
+## Unread
+
+Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
+
+HT24a .4 PA-SA-RI-JA ·, all four signs whole and undotted at the head of the line, before the wool ligature MA+RU-MẸ\[ (GORILA I 43). It heads the second section as KU-PA₃-RI-JA heads the first on .1, and the two share the final RI-JA, which does not establish a stem boundary. Sole attestation. No reading.
+
+<!-- END kaphtor:record -->

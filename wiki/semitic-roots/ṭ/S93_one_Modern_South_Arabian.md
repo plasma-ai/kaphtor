@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | tāṭ (OLA80 §35.3d) | OLA80 §35.3d |  |
+| Mehri | ṭāṭ (OLA80 §35.3d) | OLA80 §35.3d |  |
 | Soqotri | ṭad (LS 199; SLOnline 27917) | LS 199 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

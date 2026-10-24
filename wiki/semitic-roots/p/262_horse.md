@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | pārāš (HALOT 977) | HALOT 977; HALOT 977; BDB 832; Ja. 1243 | gloss withheld |
 | Amharic | färäs \[K 2279\]. | K 2279 | gloss withheld |
 | Epigraphic South Arabian | Sab. frs1 \[SD 46; Sabaweb lemma 1461\]. Qat. frs1 \[Sima 71\]. Hdr. ʔfrs1-n (pl.) \[ibid.\] | SD 46; Sabaweb lemma 1461; Sima 71; ibid.; Sima 63ff; Ja 1817 1-2; Ricks 131 | gloss withheld |
-| Judaic Aramaic | pārāš, det. pārāšā \[Ja. 1243\], prš \[Sok. 451\]. | Ja. 1243; Sok. 451 | gloss withheld |
+| Judaic Aramaic | pārāš, det. pārāšā \[Ja. 1243\], prš \[DJPA 451a apud CAL\]. | Ja. 1243; DJPA 451a; CAL | gloss withheld |
 | Syrian Aramaic | parrāšā 'horseman' \[Brock. 609\], \[PS 3308\]. | Brock. 609; PS 3308 |  |
 | Aramaic | Anc. prš \[HJ 945\] | HJ 945; KAI 202; ibid.; ibid.; ibid.; PAT 401 | gloss withheld |
 | Tigrinya | färäs 'horse' \[Bass. 989\]. | Bass. 989 |  |

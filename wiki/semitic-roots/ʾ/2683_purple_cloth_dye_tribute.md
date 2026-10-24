@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | argamannu (CAD A/2 253) | CAD A/2 253 | gloss withheld |
-| Ugaritic | argmn (DULAT 96) | DULAT 96 | gloss withheld |
+| Ugaritic | argmn (DULAT 96–97); (Dijkstra UF 21 apud DULAT 97) | DULAT 96–97; DULAT 97 | gloss withheld |
 | Hebrew | ʔargāmān (HALOT 84) | HALOT 84 | gloss withheld |
 | Syrian Aramaic | ʔargwān 'purple dye; purple garment' (Payne Smith 27) | Payne Smith 27 |  |
 

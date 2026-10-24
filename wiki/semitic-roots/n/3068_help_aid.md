@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mustanṣir (Lane 2803); naṣara (Biella 312) | Lane 2803; Biella 312 | gloss withheld |
-| Epigraphic South Arabian | Sab nṣr (Biella 312) | Biella 312 | gloss withheld |
+| Epigraphic South Arabian | Sab nṣr (Biella 312; Sabaweb lemma 4693) | Biella 312; Sabaweb lemma 4693 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

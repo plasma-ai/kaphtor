@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/r/3177_to_love
 title: "*rʾm: 'to love'"
 desc: "Proto-Semitic *rʾm, 'to love': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3177"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *rʾm: 'to love'

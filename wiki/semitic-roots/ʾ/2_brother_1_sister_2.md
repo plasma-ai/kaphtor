@@ -49,8 +49,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʔaḥā 1, ḥātā (pl. ʔaḥwātā) 2 (Brock. 10) | Brock. 10 |  |
 | Argobba | äḥ 1, ǝhǝd 2 (LArg. 189) | LArg. 189 |  |
 | Tigrinya | ḥaw 1, ḥawti 2 (Bass. 431) | Bass. 431 |  |
-| Modern South Arabian | agā, agayw (OLA80 §31.30) | OLA80 §31.30 | gloss withheld |
-| Eblaitic | a-ḫu-um /ʔaḫum/ (VE 1043; Krebernik 1983, 37); a-ḫa-tum /ʔaḫātum/ (VE 1183; Krebernik 1983, 42); Ba-na-a-ḥu (OLA80 §38.10) | VE 1043; Krebernik 1983, 37; VE 1183; Krebernik 1983, 42; OLA80 §38.10 | gloss withheld |
+| Modern South Arabian | aġā, aġayw (OLA80 §31.30) | OLA80 §31.30 | gloss withheld |
+| Eblaitic | a-ḫu-um /ʔaḫum/ (VE 1043; Krebernik 1983, 37); a-ḫa-tum /ʔaḫātum/ (VE 1183; Krebernik 1983, 42); Ba-na-a-ḫu (OLA80 §38.10) | VE 1043; Krebernik 1983, 37; VE 1183; Krebernik 1983, 42; OLA80 §38.10 | gloss withheld |
 | Aramaic | ʾḥ (DNWSI 28 apud CAL) | DNWSI 28; CAL | gloss withheld |
 | Punic | ʾḥ 'brother'; ʾḥt 'sister' | Anderson–Moser 2024 root ʾḫ |  |
 | Amorite | ʾaḫum, ʾaḫatum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |

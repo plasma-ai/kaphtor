@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | MUH gʷǝbǝn, GOG gʷäbana \[LGur 257\] | LGur 257 | gloss withheld |
 | Hebrew | (?) gibbēn (HALOT 174). | HALOT 174 | gloss withheld |
 | Amharic | gʷäbäbb alä. |  | gloss withheld |
-| Judaic Aramaic | gibnā \[Ja 234\] and gǝbintā do. \[ibid. 207\]; gbynh, det. gbynth \[Sok 119\] | Ja 234; ibid. 207; Sok 119 | gloss withheld |
+| Judaic Aramaic | gibnā \[Ja 234\] and gǝbintā do. \[ibid. 207\]; gbynh, det. gbynth \[DJPA 119b apud CAL\] | Ja 234; ibid. 207; DJPA 119b; CAL | gloss withheld |
 | Syrian Aramaic | gǝbībā 'hunchbacked' \[Brock 100\] | Brock 100 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

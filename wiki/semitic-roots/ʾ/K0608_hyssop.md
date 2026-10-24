@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez ʾazāb, ʾazab, ʾazob 'hyssop, mint' is from Hebrew ʾezōb (LGz. 52).
+Geez ʾazāb, ʾazab, ʾazob 'hyssop, mint' is from Hebrew ʾezōb (LGz. 52). HALOT 27: Syr. zōfā, Arb. zūfā, Eth. ʾazāb, ʾazōb, '&lt; Akk. zūpu' (BL 487o).
 
 <!-- END kaphtor:record -->

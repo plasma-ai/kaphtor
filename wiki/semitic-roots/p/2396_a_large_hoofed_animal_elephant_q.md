@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | falfal \[LGz. 159\]. | LGz. 159 | gloss withheld |
 | Hebrew | pB. pīl 'elephant' \[Ja. 1163\]. | Ja. 1163 |  |
 | Judaic Aramaic | pīl (pīlā) \[Ja. 1163\], \[Levy WT II 262\], \[Levy WTM III 36\], pyl \[DJPA 431a apud CAL\]. | Ja. 1163; Levy WT II 262; Levy WTM III 36; DJPA 431a; CAL | gloss withheld |
-| Syrian Aramaic | pīlā, f. pīlǝtā 'elephas' \[Brock. 566\], \[PS 3102\]. | Brock. 566; PS 3102 |  |
+| Syrian Aramaic | pīlā, f. pīlǝtā 'elephant' \[Brock. 566\], \[PS 3102\]. | Brock. 566; PS 3102 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

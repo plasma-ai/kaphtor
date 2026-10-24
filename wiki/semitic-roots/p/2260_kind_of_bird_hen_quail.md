@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | fǝrnǝg, fǝnrǝg \[LH 658\]. | LH 658 | gloss withheld |
 | Hebrew | pB. pargīt 'young poultry' \[Ja. 1214\]. | Ja. 1214 |  |
 | Judaic Aramaic | pǝrīgā, pargīt \[Ja. 1225\], prgy (det. prgyth) \[DJPA 443b apud CAL\], pryg \[ibid. 446\]. | Ja. 1225; DJPA 443b; CAL; ibid. 446 | gloss withheld |
-| Syrian Aramaic | parrūgā 'pullus' \[Brock. 591\], \[PS 3233\]. | Brock. 591; PS 3233 |  |
+| Syrian Aramaic | parrūgā 'chick' \[Brock. 591\], \[PS 3233\]. | Brock. 591; PS 3233 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -6,10 +6,10 @@ tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2899"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
-# *ʿVdVb-: 'repair'
+# *ʿVḏVb-: 'repair'
 
 [[wiki/semitic-roots/ʿ/_index|..]]
 
@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | ʿḏb (SD 12) | SD 12 | gloss withheld |
+| Epigraphic South Arabian | ʿḏb (SD 12; Sabaweb lemma 3656); (Sabaweb lemma 3660) | SD 12; Sabaweb lemma 3656; Sabaweb lemma 3660 | gloss withheld |
 | Ugaritic | ʿdb (HALOT 807) | HALOT 807 | gloss withheld |
 | Hebrew | ʿzb II (HALOT 807) | HALOT 807 | gloss withheld |
 

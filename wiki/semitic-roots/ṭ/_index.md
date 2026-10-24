@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṭ
 desc: "Semitic roots whose first radical is ṭ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/ṭ
@@ -19,7 +19,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṭ/1423_grind_corn_pound|1423_grind_corn_pound]]: Proto-Semitic *ṭVḥan-, 'grind corn, pound': reflexes in 16 language(s).
 
-[[wiki/semitic-roots/ṭ/1424_tamarind_leaf|1424_tamarind_leaf]]: Proto-Semitic *ṭarpaʾ-, 'tamarind; leaf': reflexes in 5 language(s).
+[[wiki/semitic-roots/ṭ/1424_tamarisk_1_leaf_2|1424_tamarisk_1_leaf_2]]: Proto-Semitic *ṭarpaʾ-, 'tamarisk' 1, 'leaf' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ṭ/1425_put_a_seal|1425_put_a_seal]]: Proto-Semitic *ṭVbaʕ-, 'put a seal': reflexes in 7 language(s).
 
@@ -71,7 +71,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṭ/2999_be_fat_1_be_dull_unfeeling_2|2999_be_fat_1_be_dull_unfeeling_2]]: Proto-Semitic *ṭVpVš-, 'be fat' 1, 'be dull, unfeeling' 2: reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṭ/3000_smear_soil_1_slander_scorn_2|3000_smear_soil_1_slander_scorn_2]]: Proto-Semitic *ṭVpVl-, 'smear, soil' 1, 'slander, scorn' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/ṭ/3000_smear_soil_1_slander_scorn_2|3000_smear_soil_1_slander_scorn_2]]: Proto-Semitic *ṭVpVl-, 'smear, soil' 1, 'slander, scorn' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ṭ/3012_press_the_intestine_1_haemorrhoids_2|3012_press_the_intestine_1_haemorrhoids_2]]: Proto-Semitic *ṭVḥVr-, 'press the intestine' 1, 'haemorrhoids' 2: reflexes in 4 language(s).
 
@@ -131,6 +131,8 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṭ/889_rise_of_the_sun|889_rise_of_the_sun]]: Proto-Semitic *ṭVluʕ-, 'rise (of the sun)': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/ṭ/K0421_err|K0421_err]]: Proto-Semitic *ṭVʿVw-, 'err': reflexes in 5 language(s).
+
 [[wiki/semitic-roots/ṭ/K0830_wise|K0830_wise]]: Proto-Semitic *ṭVbVb-, 'wise': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ṭ/K0833_dew|K0833_dew]]: Proto-Semitic *ṭal-, 'dew': reflexes in 15 language(s).
@@ -163,7 +165,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṭ/S13_to_wrong_oppress_treat_unjustly|S13_to_wrong_oppress_treat_unjustly]]: Proto-Semitic *ṭalam-, 'to wrong, oppress, treat unjustly': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ṭ/S93_one_Modern_South_Arabian|S93_one_Modern_South_Arabian]]: Proto-Semitic *ṭd, 'one (Modern South Arabian)': reflexes in 1 language(s).
+[[wiki/semitic-roots/ṭ/S93_one_Modern_South_Arabian|S93_one_Modern_South_Arabian]]: Proto-Semitic *ṭd, 'one (Modern South Arabian)': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṭ/SA100_KIND_OF_INCENSE_prob_RESIN_OF_tntf_TREE|SA100_KIND_OF_INCENSE_prob_RESIN_OF_tntf_TREE]]: Epigraphic South Arabian headword *ṭnp, 'KIND OF INCENSE, prob RESIN OF tntf-TREE': reflexes in 2 language(s).
 

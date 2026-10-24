@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǧurǧub-, ǧurǧubān- 2 'belly' \[BK 1 274\]; cf. ǧrǧb 'to eat' \[ibid.\]; ruǯb-, raǯab- 2 'part of body between the side and lower chest' BK 1 822 | BK 1 274; ibid.; BK 1 822 |  |
 | Tigre | gärob \[LH 574\] | LH 574 | gloss withheld |
 | East Ethiopic | ZWY gäräbä 2 \[LGur 289\] (acc. to Leslau, possibly &lt; OROMO garbi) | LGur 289 | gloss withheld |
-| Epigraphic South Arabian | (?) SAB grb 1 \[SD 50\] | SD 50 | gloss withheld |
+| Epigraphic South Arabian | (?) SAB grb 1 \[SD 50; Sabaweb lemma 1405\] | SD 50; Sabaweb lemma 1405 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

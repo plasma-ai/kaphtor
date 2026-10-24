@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | nhmmt \[Gordon 422\], \[Del Olmo 588\]. | Gordon 422 | gloss withheld |
 | Geez | noma \[LGz 409\] | LGz 409 | gloss withheld |
 | Hebrew | nwm (HALOT 680) | HALOT 680 | gloss withheld |
-| Judaic Aramaic | nwm \[Ja 887\]; \[Sok 314\] | Ja 887; Sok 314 | gloss withheld |
+| Judaic Aramaic | nwm \[Ja 887\]; \[DJPA 344b apud CAL\] | Ja 887; DJPA 344b; CAL | gloss withheld |
 | Syrian Aramaic | nwm 'dozed' \[Brock 420\] | Brock 420 |  |
 | Aramaic | CHR-PAL nhm 'slept' \[Schulthess 119\], Jud-Pal nwm | Schulthess 119 |  |
 | Pre-Islamic North Arabian | Safaitic nym (Al-Jallad–Jaworska 108) | Al-Jallad–Jaworska 108 | gloss withheld |

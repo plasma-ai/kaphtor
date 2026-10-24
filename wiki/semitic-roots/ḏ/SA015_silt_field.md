@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ḏyr (SD 40; Biella 93) | SD 40; Biella 93 | gloss withheld |
+| Epigraphic South Arabian | Sab ḏyr (SD 40; Biella 93; Sabaweb lemma 4058) | SD 40; Biella 93; Sabaweb lemma 4058 | gloss withheld |
 | Arabic | Ar ḏūr = turāb (Q, cited by Irvine 1962, 72–73 apud Biella 93). | Irvine 1962; Biella 93 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "description": "Prefixes, suffixes, case vowels and particles for Linear A morphological analysis. ventris_propagate.py tries each prefix and suffix by its `form` when it strips a word.",
+  "prefixes": [
+    {
+      "form": "JA-",
+      "value": "ya-",
+      "function": "3ms imperfective prefix (Northwest Semitic yaqtul pattern)",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "JA-KI-SI-KI-NU = yaksīkin (3ms G imperfect)",
+        "JA-RA = yara (impf. 3ms of √y-r-h)",
+        "JA-PA-RA = yapʾara (3ms volitive)",
+        "JA-TA-I-*301-U-JA (AP Za 1), the 3ms of the A-TA-I-*301-WA-JA paradigm"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "A-",
+      "value": "a-/ʾa-",
+      "function": "1cs imperfective prefix OR prosthetic aleph",
+      "confidence": "PROBABLE",
+      "evidence": [
+        "A-TA-I-*301-WA-JA = ʾatainawaya (1cs tG of √n-w-y)",
+        "A-SA-SA-RA-ME = ʾaššaram, with ʾa- for the ya- of yaššaram",
+        "A-DU = Addu (but this may be a complete word)"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "U-NA-",
+      "value": "wannā-/winnā-",
+      "function": "conjunction u- 'and' + h-n presentative 'behold'; /h/ elided as in Ugaritic w hn > wn (Watson 1996, 285–87; Lipiński 1997, §27.25). Arabic hunna is the 3fp pronoun 'they' (Fischer 2002, §264), not a presentative.",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "U-NA-KA-NA-SI = wannā kanāsī 'so, behold my gathering!'",
+        "U-NA-RU-KA-NA-SI = wannā lū kanāsī 'and behold, may my gathering [take place]' (with precative RU/lū)",
+        "Cognates: Ugaritic w hn / wn 'and behold'; Hebrew wəhinnē; Amarna u annû (EA 253:18–20)"
+      ],
+      "strips_to": true,
+      "note": "Hebrew hinnēnī 'here I am' (Gen 22:1, 22:11) is the speech-act parallel: announcing presence before the divine."
+    },
+    {
+      "form": "RU-",
+      "value": "lu-",
+      "function": "precative/optative particle ('may, let there be'). R/L neutralized in Linear A. Appears between presentative U-NA- and verb stem. Converts declarative to petition.",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "U-NA-RU-KA-NA-SI vs U-NA-KA-NA-SI — same root √k-n-s, different speech act (optative vs declarative)",
+        "Ugaritic l- (precative before verbs), Akkadian lū, Hebrew lū (conditional/optative)"
+      ],
+      "strips_to": true,
+      "note": "Only attested after U-NA- prefix (3 occurrences: IOZa16, PKZa11, PKZa12). Never appears without preceding presentative. The distribution confirms it modifies the modal force of the following verb rather than functioning as an independent morpheme."
+    },
+    {
+      "form": "I-",
+      "value": "i-/ʔi-",
+      "function": "3ms prefix variant OR prosthetic",
+      "confidence": "SPECULATIVE",
+      "evidence": [
+        "possible prosthetic vowel before consonant clusters"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "TA-",
+      "value": "ta-",
+      "function": "2nd-person or 3fs prefix; person/gender requires an ending or context",
+      "confidence": "PROBABLE",
+      "evidence": [
+        "Semitic t-prefix; conditionally TA-NU-MU-TI = /ta-nʿum-u-tī/ if TA begins the damaged word",
+        "TA-NA-RA-TE-U-TI-NU = tan-raṣē-u-tī-n(u) and TA-NA-I-*301-U-TI-NU = tan-ʿinā-u-tī-n(u), where TI marks the 2fs"
+      ],
+      "strips_to": true
+    }
+  ],
+  "suffixes": [
+    {
+      "form": "-TE",
+      "value": "-tu/-te",
+      "function": "feminine singular (Semitic -tu morpheme)",
+      "confidence": "PROBABLE",
+      "evidence": [
+        "MI-NU-TE = minūt (fem.)",
+        "SI-RU-TE"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "-TI",
+      "value": "-ti / TI",
+      "function": "HT104-final element: possible suffix or repeated classifier; exact function unresolved",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "DA-KU-SE-NE on HT103 beside DA-KU-SE-NE-TI on HT104 favors suffixation",
+        "DA-KU-SE-NE-TI, I-DU-TI, and PA-DA-SU-TI share the same pre-quantity position on HT104",
+        "GORILA I 171 allows final TI to be an ideogram or classifier"
+      ],
+      "strips_to": false,
+      "note": "The base/extended DA-KU-SE-NE pair supports added morphology, but HT104 alone does not determine gender or case. Finkelberg 2002/03, 96–97 proposes dative/recipient ‘for/to’; an ablative ‘from’ is not established. It is not stripped: HT104 does not yet separate a suffix from a classifier."
+    },
+    {
+      "form": "-TU",
+      "value": "-tu",
+      "function": "feminine / abstract noun suffix",
+      "confidence": "PROBABLE",
+      "evidence": [
+        "KU-PA₃-NA-TU = Kubānatu (fem. of Kubānu)"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "-NA",
+      "value": "-na",
+      "function": "possible emphatic/topical clitic; other functions remain context-dependent",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "JA-SA-SA-RA-MA-NA: provisional /yašaram=na/, compared with Ugaritic -n or -(Vn)na"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "-NU",
+      "value": "-nu",
+      "function": "gentilic suffix OR 1cp variant",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "KU-PA₃-NU = Kubānu (-ānu)",
+        "QE-DE-MI-NU = Qadmīnu (-īnu gentilic)"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "-NE",
+      "value": "-ne",
+      "function": "suffix on personal names (function unclear)",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "DA-KU-SE-NE = Takušenni",
+        "KA-DU-MA-NE = Kadumānu"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "-ME",
+      "value": "-m",
+      "function": "mimation, with E as a support vowel",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "JA-SA-SA-RA-ME = /yaššaram/"
+      ],
+      "strips_to": true
+    },
+    {
+      "form": "-SI",
+      "value": "-si",
+      "function": "verbal/nominal suffix (function debated)",
+      "confidence": "CANDIDATE",
+      "evidence": [
+        "U-NA-KA-NA-SI = wannā kanāsī"
+      ],
+      "strips_to": true
+    }
+  ],
+  "case_vowels": {
+    "description": "Semitic tripartite case system — final vowel encodes grammatical case. Speculative for Linear A but consistent with NWS grammar.",
+    "U": {
+      "function": "nominative (subject)",
+      "confidence": "SPECULATIVE",
+      "evidence": [
+        "KU-PA₃-NU, Kubānu, ends in -NU",
+        "final -U common in Linear A words"
+      ]
+    },
+    "A": {
+      "function": "accusative (object)",
+      "confidence": "SPECULATIVE",
+      "evidence": [
+        "final -A common"
+      ]
+    },
+    "I": {
+      "function": "genitive (possession/preposition)",
+      "confidence": "SPECULATIVE",
+      "evidence": [
+        "rare word-final vowel in corpus, consistent with marked genitive"
+      ]
+    }
+  },
+  "particles": [
+    {
+      "form": "JA",
+      "value": "yā",
+      "meaning": "O! (vocative)",
+      "confidence": "PROBABLE",
+      "source": "di Mino, Ya Diktu §4.2 (JA-DI-KI-TU yā Diqqitu; Ugaritic y, KTU 1.119:28′)"
+    },
+    {
+      "form": "U",
+      "value": "u",
+      "meaning": "and (conjunction)",
+      "confidence": "CANDIDATE",
+      "source": "Gordon 1966 §163"
+    },
+    {
+      "form": "DU",
+      "value": "du",
+      "meaning": "that, of (relative pronoun)",
+      "confidence": "CONFIRMED",
+      "source": "Gordon 1966 §163"
+    },
+    {
+      "form": "RE",
+      "value": "le-",
+      "meaning": "to, for, as (preposition)",
+      "confidence": "CONFIRMED",
+      "source": "Gordon 1966 §163"
+    }
+  ]
+}

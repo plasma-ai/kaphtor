@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | läʔamä LH 42 | LH 42 | gloss withheld |
 | Ugaritic | lim \[DULAT 483\] | DULAT 483 | gloss withheld |
 | Hebrew | lǝʔōm, lǝʔūm, pl. lǝʔummīm (HALOT 513) | HALOT 513; ibid. 398-9; HALOT 513 | gloss withheld |
-| Epigraphic South Arabian | Sab. lʔm \[SD 81\], lmw (\*lmm) \[ibid. 82\] | SD 81; ibid. 82 | gloss withheld |
+| Epigraphic South Arabian | Sab. lʔm \[SD 81; Sabaweb lemma 4495\], lmw (\*lmm) \[ibid. 82\] | SD 81; Sabaweb lemma 4495; ibid. 82 | gloss withheld |
 | Syrian Aramaic | lam 'gathered' Brock. 367 | Brock. 367 |  |
 | Tigrinya | cf. läʔamä LH 42 | LH 42 | gloss withheld |
 | Punic | lʾm 'people' | Anderson–Moser 2024 root lʾm |  |

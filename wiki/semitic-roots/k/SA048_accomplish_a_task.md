@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab kml (SD 78; Biella 248) | SD 78; Biella 248 | gloss withheld |
+| Epigraphic South Arabian | Sab kml (SD 78; Biella 248); (Sabaweb lemma 2752) | SD 78; Biella 248; Sabaweb lemma 2752 | gloss withheld |
 | Arabic | Ar kml ti, Lt id. (Biella 248) | Biella 248 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

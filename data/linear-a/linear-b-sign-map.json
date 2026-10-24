@@ -1,0 +1,6019 @@
+{
+ "metadata": {
+  "source": "Unicode names list (Linear B Syllabary, Linear B Ideograms, Aegean Numbers), read with Python unicodedata; each row's standard_value is the value its Unicode name gives",
+  "unicode_version": "15.1.0",
+  "rows": 268
+ },
+ "signs": [
+  {
+   "id": "B008",
+   "system": "Linear B",
+   "sign_number": "B008",
+   "standard_value": "a",
+   "token_values": [
+    "a"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10000",
+   "unicode_glyph": "𐀀",
+   "unicode_name": "LINEAR B SYLLABLE B008 A",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B038",
+   "system": "Linear B",
+   "sign_number": "B038",
+   "standard_value": "e",
+   "token_values": [
+    "e"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10001",
+   "unicode_glyph": "𐀁",
+   "unicode_name": "LINEAR B SYLLABLE B038 E",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B028",
+   "system": "Linear B",
+   "sign_number": "B028",
+   "standard_value": "i",
+   "token_values": [
+    "i"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10002",
+   "unicode_glyph": "𐀂",
+   "unicode_name": "LINEAR B SYLLABLE B028 I",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B061",
+   "system": "Linear B",
+   "sign_number": "B061",
+   "standard_value": "o",
+   "token_values": [
+    "o"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10003",
+   "unicode_glyph": "𐀃",
+   "unicode_name": "LINEAR B SYLLABLE B061 O",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B010",
+   "system": "Linear B",
+   "sign_number": "B010",
+   "standard_value": "u",
+   "token_values": [
+    "u"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10004",
+   "unicode_glyph": "𐀄",
+   "unicode_name": "LINEAR B SYLLABLE B010 U",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B001",
+   "system": "Linear B",
+   "sign_number": "B001",
+   "standard_value": "da",
+   "token_values": [
+    "da"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10005",
+   "unicode_glyph": "𐀅",
+   "unicode_name": "LINEAR B SYLLABLE B001 DA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B045",
+   "system": "Linear B",
+   "sign_number": "B045",
+   "standard_value": "de",
+   "token_values": [
+    "de"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10006",
+   "unicode_glyph": "𐀆",
+   "unicode_name": "LINEAR B SYLLABLE B045 DE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B007",
+   "system": "Linear B",
+   "sign_number": "B007",
+   "standard_value": "di",
+   "token_values": [
+    "di"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10007",
+   "unicode_glyph": "𐀇",
+   "unicode_name": "LINEAR B SYLLABLE B007 DI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B014",
+   "system": "Linear B",
+   "sign_number": "B014",
+   "standard_value": "do",
+   "token_values": [
+    "do"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10008",
+   "unicode_glyph": "𐀈",
+   "unicode_name": "LINEAR B SYLLABLE B014 DO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B051",
+   "system": "Linear B",
+   "sign_number": "B051",
+   "standard_value": "du",
+   "token_values": [
+    "du"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10009",
+   "unicode_glyph": "𐀉",
+   "unicode_name": "LINEAR B SYLLABLE B051 DU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B057",
+   "system": "Linear B",
+   "sign_number": "B057",
+   "standard_value": "ja",
+   "token_values": [
+    "ja"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1000A",
+   "unicode_glyph": "𐀊",
+   "unicode_name": "LINEAR B SYLLABLE B057 JA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B046",
+   "system": "Linear B",
+   "sign_number": "B046",
+   "standard_value": "je",
+   "token_values": [
+    "je"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1000B",
+   "unicode_glyph": "𐀋",
+   "unicode_name": "LINEAR B SYLLABLE B046 JE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B036",
+   "system": "Linear B",
+   "sign_number": "B036",
+   "standard_value": "jo",
+   "token_values": [
+    "jo"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1000D",
+   "unicode_glyph": "𐀍",
+   "unicode_name": "LINEAR B SYLLABLE B036 JO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B065",
+   "system": "Linear B",
+   "sign_number": "B065",
+   "standard_value": "ju",
+   "token_values": [
+    "ju"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1000E",
+   "unicode_glyph": "𐀎",
+   "unicode_name": "LINEAR B SYLLABLE B065 JU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B077",
+   "system": "Linear B",
+   "sign_number": "B077",
+   "standard_value": "ka",
+   "token_values": [
+    "ka"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1000F",
+   "unicode_glyph": "𐀏",
+   "unicode_name": "LINEAR B SYLLABLE B077 KA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B044",
+   "system": "Linear B",
+   "sign_number": "B044",
+   "standard_value": "ke",
+   "token_values": [
+    "ke"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10010",
+   "unicode_glyph": "𐀐",
+   "unicode_name": "LINEAR B SYLLABLE B044 KE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B067",
+   "system": "Linear B",
+   "sign_number": "B067",
+   "standard_value": "ki",
+   "token_values": [
+    "ki"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10011",
+   "unicode_glyph": "𐀑",
+   "unicode_name": "LINEAR B SYLLABLE B067 KI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B070",
+   "system": "Linear B",
+   "sign_number": "B070",
+   "standard_value": "ko",
+   "token_values": [
+    "ko"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10012",
+   "unicode_glyph": "𐀒",
+   "unicode_name": "LINEAR B SYLLABLE B070 KO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B081",
+   "system": "Linear B",
+   "sign_number": "B081",
+   "standard_value": "ku",
+   "token_values": [
+    "ku"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10013",
+   "unicode_glyph": "𐀓",
+   "unicode_name": "LINEAR B SYLLABLE B081 KU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B080",
+   "system": "Linear B",
+   "sign_number": "B080",
+   "standard_value": "ma",
+   "token_values": [
+    "ma"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10014",
+   "unicode_glyph": "𐀔",
+   "unicode_name": "LINEAR B SYLLABLE B080 MA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B013",
+   "system": "Linear B",
+   "sign_number": "B013",
+   "standard_value": "me",
+   "token_values": [
+    "me"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10015",
+   "unicode_glyph": "𐀕",
+   "unicode_name": "LINEAR B SYLLABLE B013 ME",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B073",
+   "system": "Linear B",
+   "sign_number": "B073",
+   "standard_value": "mi",
+   "token_values": [
+    "mi"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10016",
+   "unicode_glyph": "𐀖",
+   "unicode_name": "LINEAR B SYLLABLE B073 MI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B015",
+   "system": "Linear B",
+   "sign_number": "B015",
+   "standard_value": "mo",
+   "token_values": [
+    "mo"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10017",
+   "unicode_glyph": "𐀗",
+   "unicode_name": "LINEAR B SYLLABLE B015 MO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B023",
+   "system": "Linear B",
+   "sign_number": "B023",
+   "standard_value": "mu",
+   "token_values": [
+    "mu"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10018",
+   "unicode_glyph": "𐀘",
+   "unicode_name": "LINEAR B SYLLABLE B023 MU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B006",
+   "system": "Linear B",
+   "sign_number": "B006",
+   "standard_value": "na",
+   "token_values": [
+    "na"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10019",
+   "unicode_glyph": "𐀙",
+   "unicode_name": "LINEAR B SYLLABLE B006 NA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B024",
+   "system": "Linear B",
+   "sign_number": "B024",
+   "standard_value": "ne",
+   "token_values": [
+    "ne"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1001A",
+   "unicode_glyph": "𐀚",
+   "unicode_name": "LINEAR B SYLLABLE B024 NE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B030",
+   "system": "Linear B",
+   "sign_number": "B030",
+   "standard_value": "ni",
+   "token_values": [
+    "ni"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1001B",
+   "unicode_glyph": "𐀛",
+   "unicode_name": "LINEAR B SYLLABLE B030 NI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B052",
+   "system": "Linear B",
+   "sign_number": "B052",
+   "standard_value": "no",
+   "token_values": [
+    "no"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1001C",
+   "unicode_glyph": "𐀜",
+   "unicode_name": "LINEAR B SYLLABLE B052 NO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B055",
+   "system": "Linear B",
+   "sign_number": "B055",
+   "standard_value": "nu",
+   "token_values": [
+    "nu"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1001D",
+   "unicode_glyph": "𐀝",
+   "unicode_name": "LINEAR B SYLLABLE B055 NU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B003",
+   "system": "Linear B",
+   "sign_number": "B003",
+   "standard_value": "pa",
+   "token_values": [
+    "pa"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1001E",
+   "unicode_glyph": "𐀞",
+   "unicode_name": "LINEAR B SYLLABLE B003 PA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B072",
+   "system": "Linear B",
+   "sign_number": "B072",
+   "standard_value": "pe",
+   "token_values": [
+    "pe"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1001F",
+   "unicode_glyph": "𐀟",
+   "unicode_name": "LINEAR B SYLLABLE B072 PE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B039",
+   "system": "Linear B",
+   "sign_number": "B039",
+   "standard_value": "pi",
+   "token_values": [
+    "pi"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10020",
+   "unicode_glyph": "𐀠",
+   "unicode_name": "LINEAR B SYLLABLE B039 PI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B011",
+   "system": "Linear B",
+   "sign_number": "B011",
+   "standard_value": "po",
+   "token_values": [
+    "po"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10021",
+   "unicode_glyph": "𐀡",
+   "unicode_name": "LINEAR B SYLLABLE B011 PO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B050",
+   "system": "Linear B",
+   "sign_number": "B050",
+   "standard_value": "pu",
+   "token_values": [
+    "pu"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10022",
+   "unicode_glyph": "𐀢",
+   "unicode_name": "LINEAR B SYLLABLE B050 PU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B016",
+   "system": "Linear B",
+   "sign_number": "B016",
+   "standard_value": "qa",
+   "token_values": [
+    "qa"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10023",
+   "unicode_glyph": "𐀣",
+   "unicode_name": "LINEAR B SYLLABLE B016 QA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B078",
+   "system": "Linear B",
+   "sign_number": "B078",
+   "standard_value": "qe",
+   "token_values": [
+    "qe"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10024",
+   "unicode_glyph": "𐀤",
+   "unicode_name": "LINEAR B SYLLABLE B078 QE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B021",
+   "system": "Linear B",
+   "sign_number": "B021",
+   "standard_value": "qi",
+   "token_values": [
+    "qi"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10025",
+   "unicode_glyph": "𐀥",
+   "unicode_name": "LINEAR B SYLLABLE B021 QI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B032",
+   "system": "Linear B",
+   "sign_number": "B032",
+   "standard_value": "qo",
+   "token_values": [
+    "qo"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10026",
+   "unicode_glyph": "𐀦",
+   "unicode_name": "LINEAR B SYLLABLE B032 QO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B060",
+   "system": "Linear B",
+   "sign_number": "B060",
+   "standard_value": "ra",
+   "token_values": [
+    "ra"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10028",
+   "unicode_glyph": "𐀨",
+   "unicode_name": "LINEAR B SYLLABLE B060 RA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B027",
+   "system": "Linear B",
+   "sign_number": "B027",
+   "standard_value": "re",
+   "token_values": [
+    "re"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10029",
+   "unicode_glyph": "𐀩",
+   "unicode_name": "LINEAR B SYLLABLE B027 RE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B053",
+   "system": "Linear B",
+   "sign_number": "B053",
+   "standard_value": "ri",
+   "token_values": [
+    "ri"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1002A",
+   "unicode_glyph": "𐀪",
+   "unicode_name": "LINEAR B SYLLABLE B053 RI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B002",
+   "system": "Linear B",
+   "sign_number": "B002",
+   "standard_value": "ro",
+   "token_values": [
+    "ro"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1002B",
+   "unicode_glyph": "𐀫",
+   "unicode_name": "LINEAR B SYLLABLE B002 RO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B026",
+   "system": "Linear B",
+   "sign_number": "B026",
+   "standard_value": "ru",
+   "token_values": [
+    "ru"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1002C",
+   "unicode_glyph": "𐀬",
+   "unicode_name": "LINEAR B SYLLABLE B026 RU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B031",
+   "system": "Linear B",
+   "sign_number": "B031",
+   "standard_value": "sa",
+   "token_values": [
+    "sa"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1002D",
+   "unicode_glyph": "𐀭",
+   "unicode_name": "LINEAR B SYLLABLE B031 SA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B009",
+   "system": "Linear B",
+   "sign_number": "B009",
+   "standard_value": "se",
+   "token_values": [
+    "se"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1002E",
+   "unicode_glyph": "𐀮",
+   "unicode_name": "LINEAR B SYLLABLE B009 SE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B041",
+   "system": "Linear B",
+   "sign_number": "B041",
+   "standard_value": "si",
+   "token_values": [
+    "si"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1002F",
+   "unicode_glyph": "𐀯",
+   "unicode_name": "LINEAR B SYLLABLE B041 SI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B012",
+   "system": "Linear B",
+   "sign_number": "B012",
+   "standard_value": "so",
+   "token_values": [
+    "so"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10030",
+   "unicode_glyph": "𐀰",
+   "unicode_name": "LINEAR B SYLLABLE B012 SO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B058",
+   "system": "Linear B",
+   "sign_number": "B058",
+   "standard_value": "su",
+   "token_values": [
+    "su"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10031",
+   "unicode_glyph": "𐀱",
+   "unicode_name": "LINEAR B SYLLABLE B058 SU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B059",
+   "system": "Linear B",
+   "sign_number": "B059",
+   "standard_value": "ta",
+   "token_values": [
+    "ta"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10032",
+   "unicode_glyph": "𐀲",
+   "unicode_name": "LINEAR B SYLLABLE B059 TA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B004",
+   "system": "Linear B",
+   "sign_number": "B004",
+   "standard_value": "te",
+   "token_values": [
+    "te"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10033",
+   "unicode_glyph": "𐀳",
+   "unicode_name": "LINEAR B SYLLABLE B004 TE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B037",
+   "system": "Linear B",
+   "sign_number": "B037",
+   "standard_value": "ti",
+   "token_values": [
+    "ti"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10034",
+   "unicode_glyph": "𐀴",
+   "unicode_name": "LINEAR B SYLLABLE B037 TI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B005",
+   "system": "Linear B",
+   "sign_number": "B005",
+   "standard_value": "to",
+   "token_values": [
+    "to"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10035",
+   "unicode_glyph": "𐀵",
+   "unicode_name": "LINEAR B SYLLABLE B005 TO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B069",
+   "system": "Linear B",
+   "sign_number": "B069",
+   "standard_value": "tu",
+   "token_values": [
+    "tu"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10036",
+   "unicode_glyph": "𐀶",
+   "unicode_name": "LINEAR B SYLLABLE B069 TU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B054",
+   "system": "Linear B",
+   "sign_number": "B054",
+   "standard_value": "wa",
+   "token_values": [
+    "wa"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10037",
+   "unicode_glyph": "𐀷",
+   "unicode_name": "LINEAR B SYLLABLE B054 WA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B075",
+   "system": "Linear B",
+   "sign_number": "B075",
+   "standard_value": "we",
+   "token_values": [
+    "we"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10038",
+   "unicode_glyph": "𐀸",
+   "unicode_name": "LINEAR B SYLLABLE B075 WE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B040",
+   "system": "Linear B",
+   "sign_number": "B040",
+   "standard_value": "wi",
+   "token_values": [
+    "wi"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10039",
+   "unicode_glyph": "𐀹",
+   "unicode_name": "LINEAR B SYLLABLE B040 WI",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B042",
+   "system": "Linear B",
+   "sign_number": "B042",
+   "standard_value": "wo",
+   "token_values": [
+    "wo"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1003A",
+   "unicode_glyph": "𐀺",
+   "unicode_name": "LINEAR B SYLLABLE B042 WO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B017",
+   "system": "Linear B",
+   "sign_number": "B017",
+   "standard_value": "za",
+   "token_values": [
+    "za"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1003C",
+   "unicode_glyph": "𐀼",
+   "unicode_name": "LINEAR B SYLLABLE B017 ZA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B074",
+   "system": "Linear B",
+   "sign_number": "B074",
+   "standard_value": "ze",
+   "token_values": [
+    "ze"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1003D",
+   "unicode_glyph": "𐀽",
+   "unicode_name": "LINEAR B SYLLABLE B074 ZE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B020",
+   "system": "Linear B",
+   "sign_number": "B020",
+   "standard_value": "zo",
+   "token_values": [
+    "zo"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1003F",
+   "unicode_glyph": "𐀿",
+   "unicode_name": "LINEAR B SYLLABLE B020 ZO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B025",
+   "system": "Linear B",
+   "sign_number": "B025",
+   "standard_value": "a2",
+   "token_values": [
+    "a2"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10040",
+   "unicode_glyph": "𐁀",
+   "unicode_name": "LINEAR B SYLLABLE B025 A2",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B043",
+   "system": "Linear B",
+   "sign_number": "B043",
+   "standard_value": "a3",
+   "token_values": [
+    "a3"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10041",
+   "unicode_glyph": "𐁁",
+   "unicode_name": "LINEAR B SYLLABLE B043 A3",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B085",
+   "system": "Linear B",
+   "sign_number": "B085",
+   "standard_value": "au",
+   "token_values": [
+    "au"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10042",
+   "unicode_glyph": "𐁂",
+   "unicode_name": "LINEAR B SYLLABLE B085 AU",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B071",
+   "system": "Linear B",
+   "sign_number": "B071",
+   "standard_value": "dwe",
+   "token_values": [
+    "dwe"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10043",
+   "unicode_glyph": "𐁃",
+   "unicode_name": "LINEAR B SYLLABLE B071 DWE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B090",
+   "system": "Linear B",
+   "sign_number": "B090",
+   "standard_value": "dwo",
+   "token_values": [
+    "dwo"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10044",
+   "unicode_glyph": "𐁄",
+   "unicode_name": "LINEAR B SYLLABLE B090 DWO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B048",
+   "system": "Linear B",
+   "sign_number": "B048",
+   "standard_value": "nwa",
+   "token_values": [
+    "nwa"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10045",
+   "unicode_glyph": "𐁅",
+   "unicode_name": "LINEAR B SYLLABLE B048 NWA",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B029",
+   "system": "Linear B",
+   "sign_number": "B029",
+   "standard_value": "pu2",
+   "token_values": [
+    "pu2"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10046",
+   "unicode_glyph": "𐁆",
+   "unicode_name": "LINEAR B SYLLABLE B029 PU2",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B062",
+   "system": "Linear B",
+   "sign_number": "B062",
+   "standard_value": "pte",
+   "token_values": [
+    "pte"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10047",
+   "unicode_glyph": "𐁇",
+   "unicode_name": "LINEAR B SYLLABLE B062 PTE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B076",
+   "system": "Linear B",
+   "sign_number": "B076",
+   "standard_value": "ra2",
+   "token_values": [
+    "ra2"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10048",
+   "unicode_glyph": "𐁈",
+   "unicode_name": "LINEAR B SYLLABLE B076 RA2",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B033",
+   "system": "Linear B",
+   "sign_number": "B033",
+   "standard_value": "ra3",
+   "token_values": [
+    "ra3"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+10049",
+   "unicode_glyph": "𐁉",
+   "unicode_name": "LINEAR B SYLLABLE B033 RA3",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B068",
+   "system": "Linear B",
+   "sign_number": "B068",
+   "standard_value": "ro2",
+   "token_values": [
+    "ro2"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1004A",
+   "unicode_glyph": "𐁊",
+   "unicode_name": "LINEAR B SYLLABLE B068 RO2",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B066",
+   "system": "Linear B",
+   "sign_number": "B066",
+   "standard_value": "ta2",
+   "token_values": [
+    "ta2"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1004B",
+   "unicode_glyph": "𐁋",
+   "unicode_name": "LINEAR B SYLLABLE B066 TA2",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B087",
+   "system": "Linear B",
+   "sign_number": "B087",
+   "standard_value": "twe",
+   "token_values": [
+    "twe"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1004C",
+   "unicode_glyph": "𐁌",
+   "unicode_name": "LINEAR B SYLLABLE B087 TWE",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B091",
+   "system": "Linear B",
+   "sign_number": "B091",
+   "standard_value": "two",
+   "token_values": [
+    "two"
+   ],
+   "sign_type": "syllabogram",
+   "unicode": "U+1004D",
+   "unicode_glyph": "𐁍",
+   "unicode_name": "LINEAR B SYLLABLE B091 TWO",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B018",
+   "system": "Linear B",
+   "sign_number": "B018",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10050",
+   "unicode_glyph": "𐁐",
+   "unicode_name": "LINEAR B SYMBOL B018",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B019",
+   "system": "Linear B",
+   "sign_number": "B019",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10051",
+   "unicode_glyph": "𐁑",
+   "unicode_name": "LINEAR B SYMBOL B019",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B022",
+   "system": "Linear B",
+   "sign_number": "B022",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10052",
+   "unicode_glyph": "𐁒",
+   "unicode_name": "LINEAR B SYMBOL B022",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B034",
+   "system": "Linear B",
+   "sign_number": "B034",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10053",
+   "unicode_glyph": "𐁓",
+   "unicode_name": "LINEAR B SYMBOL B034",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B047",
+   "system": "Linear B",
+   "sign_number": "B047",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10054",
+   "unicode_glyph": "𐁔",
+   "unicode_name": "LINEAR B SYMBOL B047",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B049",
+   "system": "Linear B",
+   "sign_number": "B049",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10055",
+   "unicode_glyph": "𐁕",
+   "unicode_name": "LINEAR B SYMBOL B049",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B056",
+   "system": "Linear B",
+   "sign_number": "B056",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10056",
+   "unicode_glyph": "𐁖",
+   "unicode_name": "LINEAR B SYMBOL B056",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B063",
+   "system": "Linear B",
+   "sign_number": "B063",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10057",
+   "unicode_glyph": "𐁗",
+   "unicode_name": "LINEAR B SYMBOL B063",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B064",
+   "system": "Linear B",
+   "sign_number": "B064",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10058",
+   "unicode_glyph": "𐁘",
+   "unicode_name": "LINEAR B SYMBOL B064",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B079",
+   "system": "Linear B",
+   "sign_number": "B079",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10059",
+   "unicode_glyph": "𐁙",
+   "unicode_name": "LINEAR B SYMBOL B079",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B082",
+   "system": "Linear B",
+   "sign_number": "B082",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+1005A",
+   "unicode_glyph": "𐁚",
+   "unicode_name": "LINEAR B SYMBOL B082",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B083",
+   "system": "Linear B",
+   "sign_number": "B083",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+1005B",
+   "unicode_glyph": "𐁛",
+   "unicode_name": "LINEAR B SYMBOL B083",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B086",
+   "system": "Linear B",
+   "sign_number": "B086",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+1005C",
+   "unicode_glyph": "𐁜",
+   "unicode_name": "LINEAR B SYMBOL B086",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B089",
+   "system": "Linear B",
+   "sign_number": "B089",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+1005D",
+   "unicode_glyph": "𐁝",
+   "unicode_name": "LINEAR B SYMBOL B089",
+   "unicode_block": "Linear B Syllabary",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B100",
+   "system": "Linear B",
+   "sign_number": "B100",
+   "standard_value": "b100_man",
+   "token_values": [
+    "b100_man"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10080",
+   "unicode_glyph": "𐂀",
+   "unicode_name": "LINEAR B IDEOGRAM B100 MAN",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B102",
+   "system": "Linear B",
+   "sign_number": "B102",
+   "standard_value": "b102_woman",
+   "token_values": [
+    "b102_woman"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10081",
+   "unicode_glyph": "𐂁",
+   "unicode_name": "LINEAR B IDEOGRAM B102 WOMAN",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B104",
+   "system": "Linear B",
+   "sign_number": "B104",
+   "standard_value": "b104_deer",
+   "token_values": [
+    "b104_deer"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10082",
+   "unicode_glyph": "𐂂",
+   "unicode_name": "LINEAR B IDEOGRAM B104 DEER",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B105",
+   "system": "Linear B",
+   "sign_number": "B105",
+   "standard_value": "b105_equid",
+   "token_values": [
+    "b105_equid"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10083",
+   "unicode_glyph": "𐂃",
+   "unicode_name": "LINEAR B IDEOGRAM B105 EQUID",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B105F",
+   "system": "Linear B",
+   "sign_number": "B105F",
+   "standard_value": "b105f_mare",
+   "token_values": [
+    "b105f_mare"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10084",
+   "unicode_glyph": "𐂄",
+   "unicode_name": "LINEAR B IDEOGRAM B105F MARE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B105M",
+   "system": "Linear B",
+   "sign_number": "B105M",
+   "standard_value": "b105m_stallion",
+   "token_values": [
+    "b105m_stallion"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10085",
+   "unicode_glyph": "𐂅",
+   "unicode_name": "LINEAR B IDEOGRAM B105M STALLION",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B106F",
+   "system": "Linear B",
+   "sign_number": "B106F",
+   "standard_value": "b106f_ewe",
+   "token_values": [
+    "b106f_ewe"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10086",
+   "unicode_glyph": "𐂆",
+   "unicode_name": "LINEAR B IDEOGRAM B106F EWE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B106M",
+   "system": "Linear B",
+   "sign_number": "B106M",
+   "standard_value": "b106m_ram",
+   "token_values": [
+    "b106m_ram"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10087",
+   "unicode_glyph": "𐂇",
+   "unicode_name": "LINEAR B IDEOGRAM B106M RAM",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B107F",
+   "system": "Linear B",
+   "sign_number": "B107F",
+   "standard_value": "b107f_she-goat",
+   "token_values": [
+    "b107f_she-goat"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10088",
+   "unicode_glyph": "𐂈",
+   "unicode_name": "LINEAR B IDEOGRAM B107F SHE-GOAT",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B107M",
+   "system": "Linear B",
+   "sign_number": "B107M",
+   "standard_value": "b107m_he-goat",
+   "token_values": [
+    "b107m_he-goat"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10089",
+   "unicode_glyph": "𐂉",
+   "unicode_name": "LINEAR B IDEOGRAM B107M HE-GOAT",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B108F",
+   "system": "Linear B",
+   "sign_number": "B108F",
+   "standard_value": "b108f_sow",
+   "token_values": [
+    "b108f_sow"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1008A",
+   "unicode_glyph": "𐂊",
+   "unicode_name": "LINEAR B IDEOGRAM B108F SOW",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B108M",
+   "system": "Linear B",
+   "sign_number": "B108M",
+   "standard_value": "b108m_boar",
+   "token_values": [
+    "b108m_boar"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1008B",
+   "unicode_glyph": "𐂋",
+   "unicode_name": "LINEAR B IDEOGRAM B108M BOAR",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B109F",
+   "system": "Linear B",
+   "sign_number": "B109F",
+   "standard_value": "b109f_cow",
+   "token_values": [
+    "b109f_cow"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1008C",
+   "unicode_glyph": "𐂌",
+   "unicode_name": "LINEAR B IDEOGRAM B109F COW",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B109M",
+   "system": "Linear B",
+   "sign_number": "B109M",
+   "standard_value": "b109m_bull",
+   "token_values": [
+    "b109m_bull"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1008D",
+   "unicode_glyph": "𐂍",
+   "unicode_name": "LINEAR B IDEOGRAM B109M BULL",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B120",
+   "system": "Linear B",
+   "sign_number": "B120",
+   "standard_value": "b120_wheat",
+   "token_values": [
+    "b120_wheat"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1008E",
+   "unicode_glyph": "𐂎",
+   "unicode_name": "LINEAR B IDEOGRAM B120 WHEAT",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B121",
+   "system": "Linear B",
+   "sign_number": "B121",
+   "standard_value": "b121_barley",
+   "token_values": [
+    "b121_barley"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1008F",
+   "unicode_glyph": "𐂏",
+   "unicode_name": "LINEAR B IDEOGRAM B121 BARLEY",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B122",
+   "system": "Linear B",
+   "sign_number": "B122",
+   "standard_value": "b122_olive",
+   "token_values": [
+    "b122_olive"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10090",
+   "unicode_glyph": "𐂐",
+   "unicode_name": "LINEAR B IDEOGRAM B122 OLIVE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B123",
+   "system": "Linear B",
+   "sign_number": "B123",
+   "standard_value": "b123_spice",
+   "token_values": [
+    "b123_spice"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10091",
+   "unicode_glyph": "𐂑",
+   "unicode_name": "LINEAR B IDEOGRAM B123 SPICE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B125",
+   "system": "Linear B",
+   "sign_number": "B125",
+   "standard_value": "b125_cyperus",
+   "token_values": [
+    "b125_cyperus"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10092",
+   "unicode_glyph": "𐂒",
+   "unicode_name": "LINEAR B IDEOGRAM B125 CYPERUS",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "LINEAR_B_MONOGRAM_B127_KAPO",
+   "system": "Linear B",
+   "sign_number": "",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10093",
+   "unicode_glyph": "𐂓",
+   "unicode_name": "LINEAR B MONOGRAM B127 KAPO",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "LINEAR_B_MONOGRAM_B128_KANAKO",
+   "system": "Linear B",
+   "sign_number": "",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10094",
+   "unicode_glyph": "𐂔",
+   "unicode_name": "LINEAR B MONOGRAM B128 KANAKO",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B130",
+   "system": "Linear B",
+   "sign_number": "B130",
+   "standard_value": "b130_oil",
+   "token_values": [
+    "b130_oil"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10095",
+   "unicode_glyph": "𐂕",
+   "unicode_name": "LINEAR B IDEOGRAM B130 OIL",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B131",
+   "system": "Linear B",
+   "sign_number": "B131",
+   "standard_value": "b131_wine",
+   "token_values": [
+    "b131_wine"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10096",
+   "unicode_glyph": "𐂖",
+   "unicode_name": "LINEAR B IDEOGRAM B131 WINE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B132",
+   "system": "Linear B",
+   "sign_number": "B132",
+   "standard_value": "b132",
+   "token_values": [
+    "b132"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+10097",
+   "unicode_glyph": "𐂗",
+   "unicode_name": "LINEAR B IDEOGRAM B132",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "LINEAR_B_MONOGRAM_B133_AREPA",
+   "system": "Linear B",
+   "sign_number": "",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10098",
+   "unicode_glyph": "𐂘",
+   "unicode_name": "LINEAR B MONOGRAM B133 AREPA",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "LINEAR_B_MONOGRAM_B135_MERI",
+   "system": "Linear B",
+   "sign_number": "",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+10099",
+   "unicode_glyph": "𐂙",
+   "unicode_name": "LINEAR B MONOGRAM B135 MERI",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B140",
+   "system": "Linear B",
+   "sign_number": "B140",
+   "standard_value": "b140_bronze",
+   "token_values": [
+    "b140_bronze"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1009A",
+   "unicode_glyph": "𐂚",
+   "unicode_name": "LINEAR B IDEOGRAM B140 BRONZE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B141",
+   "system": "Linear B",
+   "sign_number": "B141",
+   "standard_value": "b141_gold",
+   "token_values": [
+    "b141_gold"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1009B",
+   "unicode_glyph": "𐂛",
+   "unicode_name": "LINEAR B IDEOGRAM B141 GOLD",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B142",
+   "system": "Linear B",
+   "sign_number": "B142",
+   "standard_value": "b142",
+   "token_values": [
+    "b142"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1009C",
+   "unicode_glyph": "𐂜",
+   "unicode_name": "LINEAR B IDEOGRAM B142",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B145",
+   "system": "Linear B",
+   "sign_number": "B145",
+   "standard_value": "b145_wool",
+   "token_values": [
+    "b145_wool"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1009D",
+   "unicode_glyph": "𐂝",
+   "unicode_name": "LINEAR B IDEOGRAM B145 WOOL",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B146",
+   "system": "Linear B",
+   "sign_number": "B146",
+   "standard_value": "b146",
+   "token_values": [
+    "b146"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1009E",
+   "unicode_glyph": "𐂞",
+   "unicode_name": "LINEAR B IDEOGRAM B146",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B150",
+   "system": "Linear B",
+   "sign_number": "B150",
+   "standard_value": "b150",
+   "token_values": [
+    "b150"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+1009F",
+   "unicode_glyph": "𐂟",
+   "unicode_name": "LINEAR B IDEOGRAM B150",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B151",
+   "system": "Linear B",
+   "sign_number": "B151",
+   "standard_value": "b151_horn",
+   "token_values": [
+    "b151_horn"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A0",
+   "unicode_glyph": "𐂠",
+   "unicode_name": "LINEAR B IDEOGRAM B151 HORN",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B152",
+   "system": "Linear B",
+   "sign_number": "B152",
+   "standard_value": "b152",
+   "token_values": [
+    "b152"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A1",
+   "unicode_glyph": "𐂡",
+   "unicode_name": "LINEAR B IDEOGRAM B152",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B153",
+   "system": "Linear B",
+   "sign_number": "B153",
+   "standard_value": "b153",
+   "token_values": [
+    "b153"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A2",
+   "unicode_glyph": "𐂢",
+   "unicode_name": "LINEAR B IDEOGRAM B153",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B154",
+   "system": "Linear B",
+   "sign_number": "B154",
+   "standard_value": "b154",
+   "token_values": [
+    "b154"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A3",
+   "unicode_glyph": "𐂣",
+   "unicode_name": "LINEAR B IDEOGRAM B154",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "LINEAR_B_MONOGRAM_B156_TURO2",
+   "system": "Linear B",
+   "sign_number": "",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+100A4",
+   "unicode_glyph": "𐂤",
+   "unicode_name": "LINEAR B MONOGRAM B156 TURO2",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B157",
+   "system": "Linear B",
+   "sign_number": "B157",
+   "standard_value": "b157",
+   "token_values": [
+    "b157"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A5",
+   "unicode_glyph": "𐂥",
+   "unicode_name": "LINEAR B IDEOGRAM B157",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B158",
+   "system": "Linear B",
+   "sign_number": "B158",
+   "standard_value": "b158",
+   "token_values": [
+    "b158"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A6",
+   "unicode_glyph": "𐂦",
+   "unicode_name": "LINEAR B IDEOGRAM B158",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B159",
+   "system": "Linear B",
+   "sign_number": "B159",
+   "standard_value": "b159_cloth",
+   "token_values": [
+    "b159_cloth"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A7",
+   "unicode_glyph": "𐂧",
+   "unicode_name": "LINEAR B IDEOGRAM B159 CLOTH",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B160",
+   "system": "Linear B",
+   "sign_number": "B160",
+   "standard_value": "b160",
+   "token_values": [
+    "b160"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A8",
+   "unicode_glyph": "𐂨",
+   "unicode_name": "LINEAR B IDEOGRAM B160",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B161",
+   "system": "Linear B",
+   "sign_number": "B161",
+   "standard_value": "b161",
+   "token_values": [
+    "b161"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100A9",
+   "unicode_glyph": "𐂩",
+   "unicode_name": "LINEAR B IDEOGRAM B161",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B162",
+   "system": "Linear B",
+   "sign_number": "B162",
+   "standard_value": "b162_garment",
+   "token_values": [
+    "b162_garment"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100AA",
+   "unicode_glyph": "𐂪",
+   "unicode_name": "LINEAR B IDEOGRAM B162 GARMENT",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B163",
+   "system": "Linear B",
+   "sign_number": "B163",
+   "standard_value": "b163_armour",
+   "token_values": [
+    "b163_armour"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100AB",
+   "unicode_glyph": "𐂫",
+   "unicode_name": "LINEAR B IDEOGRAM B163 ARMOUR",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B164",
+   "system": "Linear B",
+   "sign_number": "B164",
+   "standard_value": "b164",
+   "token_values": [
+    "b164"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100AC",
+   "unicode_glyph": "𐂬",
+   "unicode_name": "LINEAR B IDEOGRAM B164",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B165",
+   "system": "Linear B",
+   "sign_number": "B165",
+   "standard_value": "b165",
+   "token_values": [
+    "b165"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100AD",
+   "unicode_glyph": "𐂭",
+   "unicode_name": "LINEAR B IDEOGRAM B165",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B166",
+   "system": "Linear B",
+   "sign_number": "B166",
+   "standard_value": "b166",
+   "token_values": [
+    "b166"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100AE",
+   "unicode_glyph": "𐂮",
+   "unicode_name": "LINEAR B IDEOGRAM B166",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B167",
+   "system": "Linear B",
+   "sign_number": "B167",
+   "standard_value": "b167",
+   "token_values": [
+    "b167"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100AF",
+   "unicode_glyph": "𐂯",
+   "unicode_name": "LINEAR B IDEOGRAM B167",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B168",
+   "system": "Linear B",
+   "sign_number": "B168",
+   "standard_value": "b168",
+   "token_values": [
+    "b168"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B0",
+   "unicode_glyph": "𐂰",
+   "unicode_name": "LINEAR B IDEOGRAM B168",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B169",
+   "system": "Linear B",
+   "sign_number": "B169",
+   "standard_value": "b169",
+   "token_values": [
+    "b169"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B1",
+   "unicode_glyph": "𐂱",
+   "unicode_name": "LINEAR B IDEOGRAM B169",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B170",
+   "system": "Linear B",
+   "sign_number": "B170",
+   "standard_value": "b170",
+   "token_values": [
+    "b170"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B2",
+   "unicode_glyph": "𐂲",
+   "unicode_name": "LINEAR B IDEOGRAM B170",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B171",
+   "system": "Linear B",
+   "sign_number": "B171",
+   "standard_value": "b171",
+   "token_values": [
+    "b171"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B3",
+   "unicode_glyph": "𐂳",
+   "unicode_name": "LINEAR B IDEOGRAM B171",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B172",
+   "system": "Linear B",
+   "sign_number": "B172",
+   "standard_value": "b172",
+   "token_values": [
+    "b172"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B4",
+   "unicode_glyph": "𐂴",
+   "unicode_name": "LINEAR B IDEOGRAM B172",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B173",
+   "system": "Linear B",
+   "sign_number": "B173",
+   "standard_value": "b173_month",
+   "token_values": [
+    "b173_month"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B5",
+   "unicode_glyph": "𐂵",
+   "unicode_name": "LINEAR B IDEOGRAM B173 MONTH",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B174",
+   "system": "Linear B",
+   "sign_number": "B174",
+   "standard_value": "b174",
+   "token_values": [
+    "b174"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B6",
+   "unicode_glyph": "𐂶",
+   "unicode_name": "LINEAR B IDEOGRAM B174",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B176",
+   "system": "Linear B",
+   "sign_number": "B176",
+   "standard_value": "b176_tree",
+   "token_values": [
+    "b176_tree"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B7",
+   "unicode_glyph": "𐂷",
+   "unicode_name": "LINEAR B IDEOGRAM B176 TREE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B177",
+   "system": "Linear B",
+   "sign_number": "B177",
+   "standard_value": "b177",
+   "token_values": [
+    "b177"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B8",
+   "unicode_glyph": "𐂸",
+   "unicode_name": "LINEAR B IDEOGRAM B177",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B178",
+   "system": "Linear B",
+   "sign_number": "B178",
+   "standard_value": "b178",
+   "token_values": [
+    "b178"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100B9",
+   "unicode_glyph": "𐂹",
+   "unicode_name": "LINEAR B IDEOGRAM B178",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B179",
+   "system": "Linear B",
+   "sign_number": "B179",
+   "standard_value": "b179",
+   "token_values": [
+    "b179"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100BA",
+   "unicode_glyph": "𐂺",
+   "unicode_name": "LINEAR B IDEOGRAM B179",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B180",
+   "system": "Linear B",
+   "sign_number": "B180",
+   "standard_value": "b180",
+   "token_values": [
+    "b180"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100BB",
+   "unicode_glyph": "𐂻",
+   "unicode_name": "LINEAR B IDEOGRAM B180",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B181",
+   "system": "Linear B",
+   "sign_number": "B181",
+   "standard_value": "b181",
+   "token_values": [
+    "b181"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100BC",
+   "unicode_glyph": "𐂼",
+   "unicode_name": "LINEAR B IDEOGRAM B181",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B182",
+   "system": "Linear B",
+   "sign_number": "B182",
+   "standard_value": "b182",
+   "token_values": [
+    "b182"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100BD",
+   "unicode_glyph": "𐂽",
+   "unicode_name": "LINEAR B IDEOGRAM B182",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B183",
+   "system": "Linear B",
+   "sign_number": "B183",
+   "standard_value": "b183",
+   "token_values": [
+    "b183"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100BE",
+   "unicode_glyph": "𐂾",
+   "unicode_name": "LINEAR B IDEOGRAM B183",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B184",
+   "system": "Linear B",
+   "sign_number": "B184",
+   "standard_value": "b184",
+   "token_values": [
+    "b184"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100BF",
+   "unicode_glyph": "𐂿",
+   "unicode_name": "LINEAR B IDEOGRAM B184",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B185",
+   "system": "Linear B",
+   "sign_number": "B185",
+   "standard_value": "b185",
+   "token_values": [
+    "b185"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C0",
+   "unicode_glyph": "𐃀",
+   "unicode_name": "LINEAR B IDEOGRAM B185",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B189",
+   "system": "Linear B",
+   "sign_number": "B189",
+   "standard_value": "b189",
+   "token_values": [
+    "b189"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C1",
+   "unicode_glyph": "𐃁",
+   "unicode_name": "LINEAR B IDEOGRAM B189",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B190",
+   "system": "Linear B",
+   "sign_number": "B190",
+   "standard_value": "b190",
+   "token_values": [
+    "b190"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C2",
+   "unicode_glyph": "𐃂",
+   "unicode_name": "LINEAR B IDEOGRAM B190",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B191",
+   "system": "Linear B",
+   "sign_number": "B191",
+   "standard_value": "b191_helmet",
+   "token_values": [
+    "b191_helmet"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C3",
+   "unicode_glyph": "𐃃",
+   "unicode_name": "LINEAR B IDEOGRAM B191 HELMET",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B220",
+   "system": "Linear B",
+   "sign_number": "B220",
+   "standard_value": "b220_footstool",
+   "token_values": [
+    "b220_footstool"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C4",
+   "unicode_glyph": "𐃄",
+   "unicode_name": "LINEAR B IDEOGRAM B220 FOOTSTOOL",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B225",
+   "system": "Linear B",
+   "sign_number": "B225",
+   "standard_value": "b225_bathtub",
+   "token_values": [
+    "b225_bathtub"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C5",
+   "unicode_glyph": "𐃅",
+   "unicode_name": "LINEAR B IDEOGRAM B225 BATHTUB",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B230",
+   "system": "Linear B",
+   "sign_number": "B230",
+   "standard_value": "b230_spear",
+   "token_values": [
+    "b230_spear"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C6",
+   "unicode_glyph": "𐃆",
+   "unicode_name": "LINEAR B IDEOGRAM B230 SPEAR",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B231",
+   "system": "Linear B",
+   "sign_number": "B231",
+   "standard_value": "b231_arrow",
+   "token_values": [
+    "b231_arrow"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C7",
+   "unicode_glyph": "𐃇",
+   "unicode_name": "LINEAR B IDEOGRAM B231 ARROW",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B232",
+   "system": "Linear B",
+   "sign_number": "B232",
+   "standard_value": "b232",
+   "token_values": [
+    "b232"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C8",
+   "unicode_glyph": "𐃈",
+   "unicode_name": "LINEAR B IDEOGRAM B232",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B233",
+   "system": "Linear B",
+   "sign_number": "B233",
+   "standard_value": "b233_sword",
+   "token_values": [
+    "b233_sword"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100C9",
+   "unicode_glyph": "𐃉",
+   "unicode_name": "LINEAR B IDEOGRAM B233 SWORD",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B234",
+   "system": "Linear B",
+   "sign_number": "B234",
+   "standard_value": "b234",
+   "token_values": [
+    "b234"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100CA",
+   "unicode_glyph": "𐃊",
+   "unicode_name": "LINEAR B IDEOGRAM B234",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B236",
+   "system": "Linear B",
+   "sign_number": "B236",
+   "standard_value": "b236",
+   "token_values": [
+    "b236"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100CB",
+   "unicode_glyph": "𐃋",
+   "unicode_name": "LINEAR B IDEOGRAM B236",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B240",
+   "system": "Linear B",
+   "sign_number": "B240",
+   "standard_value": "b240_wheeled_chariot",
+   "token_values": [
+    "b240_wheeled_chariot"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100CC",
+   "unicode_glyph": "𐃌",
+   "unicode_name": "LINEAR B IDEOGRAM B240 WHEELED CHARIOT",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B241",
+   "system": "Linear B",
+   "sign_number": "B241",
+   "standard_value": "b241_chariot",
+   "token_values": [
+    "b241_chariot"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100CD",
+   "unicode_glyph": "𐃍",
+   "unicode_name": "LINEAR B IDEOGRAM B241 CHARIOT",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B242",
+   "system": "Linear B",
+   "sign_number": "B242",
+   "standard_value": "b242_chariot_frame",
+   "token_values": [
+    "b242_chariot_frame"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100CE",
+   "unicode_glyph": "𐃎",
+   "unicode_name": "LINEAR B IDEOGRAM B242 CHARIOT FRAME",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B243",
+   "system": "Linear B",
+   "sign_number": "B243",
+   "standard_value": "b243_wheel",
+   "token_values": [
+    "b243_wheel"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100CF",
+   "unicode_glyph": "𐃏",
+   "unicode_name": "LINEAR B IDEOGRAM B243 WHEEL",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B245",
+   "system": "Linear B",
+   "sign_number": "B245",
+   "standard_value": "b245",
+   "token_values": [
+    "b245"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D0",
+   "unicode_glyph": "𐃐",
+   "unicode_name": "LINEAR B IDEOGRAM B245",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B246",
+   "system": "Linear B",
+   "sign_number": "B246",
+   "standard_value": "b246",
+   "token_values": [
+    "b246"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D1",
+   "unicode_glyph": "𐃑",
+   "unicode_name": "LINEAR B IDEOGRAM B246",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "LINEAR_B_MONOGRAM_B247_DIPTE",
+   "system": "Linear B",
+   "sign_number": "",
+   "standard_value": "",
+   "token_values": [],
+   "sign_type": "unknown",
+   "unicode": "U+100D2",
+   "unicode_glyph": "𐃒",
+   "unicode_name": "LINEAR B MONOGRAM B247 DIPTE",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B248",
+   "system": "Linear B",
+   "sign_number": "B248",
+   "standard_value": "b248",
+   "token_values": [
+    "b248"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D3",
+   "unicode_glyph": "𐃓",
+   "unicode_name": "LINEAR B IDEOGRAM B248",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B249",
+   "system": "Linear B",
+   "sign_number": "B249",
+   "standard_value": "b249",
+   "token_values": [
+    "b249"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D4",
+   "unicode_glyph": "𐃔",
+   "unicode_name": "LINEAR B IDEOGRAM B249",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B251",
+   "system": "Linear B",
+   "sign_number": "B251",
+   "standard_value": "b251",
+   "token_values": [
+    "b251"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D5",
+   "unicode_glyph": "𐃕",
+   "unicode_name": "LINEAR B IDEOGRAM B251",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B252",
+   "system": "Linear B",
+   "sign_number": "B252",
+   "standard_value": "b252",
+   "token_values": [
+    "b252"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D6",
+   "unicode_glyph": "𐃖",
+   "unicode_name": "LINEAR B IDEOGRAM B252",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B253",
+   "system": "Linear B",
+   "sign_number": "B253",
+   "standard_value": "b253",
+   "token_values": [
+    "b253"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D7",
+   "unicode_glyph": "𐃗",
+   "unicode_name": "LINEAR B IDEOGRAM B253",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B254",
+   "system": "Linear B",
+   "sign_number": "B254",
+   "standard_value": "b254_dart",
+   "token_values": [
+    "b254_dart"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D8",
+   "unicode_glyph": "𐃘",
+   "unicode_name": "LINEAR B IDEOGRAM B254 DART",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B255",
+   "system": "Linear B",
+   "sign_number": "B255",
+   "standard_value": "b255",
+   "token_values": [
+    "b255"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100D9",
+   "unicode_glyph": "𐃙",
+   "unicode_name": "LINEAR B IDEOGRAM B255",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B256",
+   "system": "Linear B",
+   "sign_number": "B256",
+   "standard_value": "b256",
+   "token_values": [
+    "b256"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100DA",
+   "unicode_glyph": "𐃚",
+   "unicode_name": "LINEAR B IDEOGRAM B256",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B257",
+   "system": "Linear B",
+   "sign_number": "B257",
+   "standard_value": "b257",
+   "token_values": [
+    "b257"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100DB",
+   "unicode_glyph": "𐃛",
+   "unicode_name": "LINEAR B IDEOGRAM B257",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B258",
+   "system": "Linear B",
+   "sign_number": "B258",
+   "standard_value": "b258",
+   "token_values": [
+    "b258"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100DC",
+   "unicode_glyph": "𐃜",
+   "unicode_name": "LINEAR B IDEOGRAM B258",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B259",
+   "system": "Linear B",
+   "sign_number": "B259",
+   "standard_value": "b259",
+   "token_values": [
+    "b259"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100DD",
+   "unicode_glyph": "𐃝",
+   "unicode_name": "LINEAR B IDEOGRAM B259",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B155",
+   "system": "Linear B",
+   "sign_number": "B155",
+   "standard_value": "vessel_b155",
+   "token_values": [
+    "vessel_b155"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100DE",
+   "unicode_glyph": "𐃞",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B155",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B200",
+   "system": "Linear B",
+   "sign_number": "B200",
+   "standard_value": "vessel_b200",
+   "token_values": [
+    "vessel_b200"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100DF",
+   "unicode_glyph": "𐃟",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B200",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B201",
+   "system": "Linear B",
+   "sign_number": "B201",
+   "standard_value": "vessel_b201",
+   "token_values": [
+    "vessel_b201"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E0",
+   "unicode_glyph": "𐃠",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B201",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B202",
+   "system": "Linear B",
+   "sign_number": "B202",
+   "standard_value": "vessel_b202",
+   "token_values": [
+    "vessel_b202"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E1",
+   "unicode_glyph": "𐃡",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B202",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B203",
+   "system": "Linear B",
+   "sign_number": "B203",
+   "standard_value": "vessel_b203",
+   "token_values": [
+    "vessel_b203"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E2",
+   "unicode_glyph": "𐃢",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B203",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B204",
+   "system": "Linear B",
+   "sign_number": "B204",
+   "standard_value": "vessel_b204",
+   "token_values": [
+    "vessel_b204"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E3",
+   "unicode_glyph": "𐃣",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B204",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B205",
+   "system": "Linear B",
+   "sign_number": "B205",
+   "standard_value": "vessel_b205",
+   "token_values": [
+    "vessel_b205"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E4",
+   "unicode_glyph": "𐃤",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B205",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B206",
+   "system": "Linear B",
+   "sign_number": "B206",
+   "standard_value": "vessel_b206",
+   "token_values": [
+    "vessel_b206"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E5",
+   "unicode_glyph": "𐃥",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B206",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B207",
+   "system": "Linear B",
+   "sign_number": "B207",
+   "standard_value": "vessel_b207",
+   "token_values": [
+    "vessel_b207"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E6",
+   "unicode_glyph": "𐃦",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B207",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B208",
+   "system": "Linear B",
+   "sign_number": "B208",
+   "standard_value": "vessel_b208",
+   "token_values": [
+    "vessel_b208"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E7",
+   "unicode_glyph": "𐃧",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B208",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B209",
+   "system": "Linear B",
+   "sign_number": "B209",
+   "standard_value": "vessel_b209",
+   "token_values": [
+    "vessel_b209"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E8",
+   "unicode_glyph": "𐃨",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B209",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B210",
+   "system": "Linear B",
+   "sign_number": "B210",
+   "standard_value": "vessel_b210",
+   "token_values": [
+    "vessel_b210"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100E9",
+   "unicode_glyph": "𐃩",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B210",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B211",
+   "system": "Linear B",
+   "sign_number": "B211",
+   "standard_value": "vessel_b211",
+   "token_values": [
+    "vessel_b211"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100EA",
+   "unicode_glyph": "𐃪",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B211",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B212",
+   "system": "Linear B",
+   "sign_number": "B212",
+   "standard_value": "vessel_b212",
+   "token_values": [
+    "vessel_b212"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100EB",
+   "unicode_glyph": "𐃫",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B212",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B213",
+   "system": "Linear B",
+   "sign_number": "B213",
+   "standard_value": "vessel_b213",
+   "token_values": [
+    "vessel_b213"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100EC",
+   "unicode_glyph": "𐃬",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B213",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B214",
+   "system": "Linear B",
+   "sign_number": "B214",
+   "standard_value": "vessel_b214",
+   "token_values": [
+    "vessel_b214"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100ED",
+   "unicode_glyph": "𐃭",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B214",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B215",
+   "system": "Linear B",
+   "sign_number": "B215",
+   "standard_value": "vessel_b215",
+   "token_values": [
+    "vessel_b215"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100EE",
+   "unicode_glyph": "𐃮",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B215",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B216",
+   "system": "Linear B",
+   "sign_number": "B216",
+   "standard_value": "vessel_b216",
+   "token_values": [
+    "vessel_b216"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100EF",
+   "unicode_glyph": "𐃯",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B216",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B217",
+   "system": "Linear B",
+   "sign_number": "B217",
+   "standard_value": "vessel_b217",
+   "token_values": [
+    "vessel_b217"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F0",
+   "unicode_glyph": "𐃰",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B217",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B218",
+   "system": "Linear B",
+   "sign_number": "B218",
+   "standard_value": "vessel_b218",
+   "token_values": [
+    "vessel_b218"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F1",
+   "unicode_glyph": "𐃱",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B218",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B219",
+   "system": "Linear B",
+   "sign_number": "B219",
+   "standard_value": "vessel_b219",
+   "token_values": [
+    "vessel_b219"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F2",
+   "unicode_glyph": "𐃲",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B219",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B221",
+   "system": "Linear B",
+   "sign_number": "B221",
+   "standard_value": "vessel_b221",
+   "token_values": [
+    "vessel_b221"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F3",
+   "unicode_glyph": "𐃳",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B221",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B222",
+   "system": "Linear B",
+   "sign_number": "B222",
+   "standard_value": "vessel_b222",
+   "token_values": [
+    "vessel_b222"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F4",
+   "unicode_glyph": "𐃴",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B222",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B226",
+   "system": "Linear B",
+   "sign_number": "B226",
+   "standard_value": "vessel_b226",
+   "token_values": [
+    "vessel_b226"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F5",
+   "unicode_glyph": "𐃵",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B226",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B227",
+   "system": "Linear B",
+   "sign_number": "B227",
+   "standard_value": "vessel_b227",
+   "token_values": [
+    "vessel_b227"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F6",
+   "unicode_glyph": "𐃶",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B227",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B228",
+   "system": "Linear B",
+   "sign_number": "B228",
+   "standard_value": "vessel_b228",
+   "token_values": [
+    "vessel_b228"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F7",
+   "unicode_glyph": "𐃷",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B228",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B229",
+   "system": "Linear B",
+   "sign_number": "B229",
+   "standard_value": "vessel_b229",
+   "token_values": [
+    "vessel_b229"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F8",
+   "unicode_glyph": "𐃸",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B229",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B250",
+   "system": "Linear B",
+   "sign_number": "B250",
+   "standard_value": "vessel_b250",
+   "token_values": [
+    "vessel_b250"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100F9",
+   "unicode_glyph": "𐃹",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B250",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "B305",
+   "system": "Linear B",
+   "sign_number": "B305",
+   "standard_value": "vessel_b305",
+   "token_values": [
+    "vessel_b305"
+   ],
+   "sign_type": "ideogram",
+   "unicode": "U+100FA",
+   "unicode_glyph": "𐃺",
+   "unicode_name": "LINEAR B IDEOGRAM VESSEL B305",
+   "unicode_block": "Linear B Ideograms",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_WORD_SEPARATOR_LINE",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "word separator line",
+   "token_values": [],
+   "sign_type": "editorial",
+   "unicode": "U+10100",
+   "unicode_glyph": "𐄀",
+   "unicode_name": "AEGEAN WORD SEPARATOR LINE",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_WORD_SEPARATOR_DOT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "word separator dot",
+   "token_values": [],
+   "sign_type": "editorial",
+   "unicode": "U+10101",
+   "unicode_glyph": "𐄁",
+   "unicode_name": "AEGEAN WORD SEPARATOR DOT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_CHECK_MARK",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "check mark",
+   "token_values": [],
+   "sign_type": "editorial",
+   "unicode": "U+10102",
+   "unicode_glyph": "𐄂",
+   "unicode_name": "AEGEAN CHECK MARK",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_ONE",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "one",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10107",
+   "unicode_glyph": "𐄇",
+   "unicode_name": "AEGEAN NUMBER ONE",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_TWO",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "two",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10108",
+   "unicode_glyph": "𐄈",
+   "unicode_name": "AEGEAN NUMBER TWO",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_THREE",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "three",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10109",
+   "unicode_glyph": "𐄉",
+   "unicode_name": "AEGEAN NUMBER THREE",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FOUR",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "four",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1010A",
+   "unicode_glyph": "𐄊",
+   "unicode_name": "AEGEAN NUMBER FOUR",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FIVE",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "five",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1010B",
+   "unicode_glyph": "𐄋",
+   "unicode_name": "AEGEAN NUMBER FIVE",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SIX",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "six",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1010C",
+   "unicode_glyph": "𐄌",
+   "unicode_name": "AEGEAN NUMBER SIX",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SEVEN",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "seven",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1010D",
+   "unicode_glyph": "𐄍",
+   "unicode_name": "AEGEAN NUMBER SEVEN",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_EIGHT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "eight",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1010E",
+   "unicode_glyph": "𐄎",
+   "unicode_name": "AEGEAN NUMBER EIGHT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_NINE",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "nine",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1010F",
+   "unicode_glyph": "𐄏",
+   "unicode_name": "AEGEAN NUMBER NINE",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_TEN",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "ten",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10110",
+   "unicode_glyph": "𐄐",
+   "unicode_name": "AEGEAN NUMBER TEN",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_TWENTY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "twenty",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10111",
+   "unicode_glyph": "𐄑",
+   "unicode_name": "AEGEAN NUMBER TWENTY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_THIRTY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "thirty",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10112",
+   "unicode_glyph": "𐄒",
+   "unicode_name": "AEGEAN NUMBER THIRTY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FORTY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "forty",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10113",
+   "unicode_glyph": "𐄓",
+   "unicode_name": "AEGEAN NUMBER FORTY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FIFTY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "fifty",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10114",
+   "unicode_glyph": "𐄔",
+   "unicode_name": "AEGEAN NUMBER FIFTY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SIXTY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "sixty",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10115",
+   "unicode_glyph": "𐄕",
+   "unicode_name": "AEGEAN NUMBER SIXTY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SEVENTY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "seventy",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10116",
+   "unicode_glyph": "𐄖",
+   "unicode_name": "AEGEAN NUMBER SEVENTY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_EIGHTY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "eighty",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10117",
+   "unicode_glyph": "𐄗",
+   "unicode_name": "AEGEAN NUMBER EIGHTY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_NINETY",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "ninety",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10118",
+   "unicode_glyph": "𐄘",
+   "unicode_name": "AEGEAN NUMBER NINETY",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_ONE_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "one hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10119",
+   "unicode_glyph": "𐄙",
+   "unicode_name": "AEGEAN NUMBER ONE HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_TWO_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "two hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1011A",
+   "unicode_glyph": "𐄚",
+   "unicode_name": "AEGEAN NUMBER TWO HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_THREE_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "three hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1011B",
+   "unicode_glyph": "𐄛",
+   "unicode_name": "AEGEAN NUMBER THREE HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FOUR_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "four hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1011C",
+   "unicode_glyph": "𐄜",
+   "unicode_name": "AEGEAN NUMBER FOUR HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FIVE_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "five hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1011D",
+   "unicode_glyph": "𐄝",
+   "unicode_name": "AEGEAN NUMBER FIVE HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SIX_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "six hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1011E",
+   "unicode_glyph": "𐄞",
+   "unicode_name": "AEGEAN NUMBER SIX HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SEVEN_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "seven hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1011F",
+   "unicode_glyph": "𐄟",
+   "unicode_name": "AEGEAN NUMBER SEVEN HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_EIGHT_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "eight hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10120",
+   "unicode_glyph": "𐄠",
+   "unicode_name": "AEGEAN NUMBER EIGHT HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_NINE_HUNDRED",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "nine hundred",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10121",
+   "unicode_glyph": "𐄡",
+   "unicode_name": "AEGEAN NUMBER NINE HUNDRED",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_ONE_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "one thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10122",
+   "unicode_glyph": "𐄢",
+   "unicode_name": "AEGEAN NUMBER ONE THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_TWO_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "two thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10123",
+   "unicode_glyph": "𐄣",
+   "unicode_name": "AEGEAN NUMBER TWO THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_THREE_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "three thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10124",
+   "unicode_glyph": "𐄤",
+   "unicode_name": "AEGEAN NUMBER THREE THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FOUR_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "four thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10125",
+   "unicode_glyph": "𐄥",
+   "unicode_name": "AEGEAN NUMBER FOUR THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FIVE_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "five thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10126",
+   "unicode_glyph": "𐄦",
+   "unicode_name": "AEGEAN NUMBER FIVE THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SIX_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "six thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10127",
+   "unicode_glyph": "𐄧",
+   "unicode_name": "AEGEAN NUMBER SIX THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SEVEN_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "seven thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10128",
+   "unicode_glyph": "𐄨",
+   "unicode_name": "AEGEAN NUMBER SEVEN THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_EIGHT_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "eight thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10129",
+   "unicode_glyph": "𐄩",
+   "unicode_name": "AEGEAN NUMBER EIGHT THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_NINE_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "nine thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1012A",
+   "unicode_glyph": "𐄪",
+   "unicode_name": "AEGEAN NUMBER NINE THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_TEN_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "ten thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1012B",
+   "unicode_glyph": "𐄫",
+   "unicode_name": "AEGEAN NUMBER TEN THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_TWENTY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "twenty thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1012C",
+   "unicode_glyph": "𐄬",
+   "unicode_name": "AEGEAN NUMBER TWENTY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_THIRTY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "thirty thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1012D",
+   "unicode_glyph": "𐄭",
+   "unicode_name": "AEGEAN NUMBER THIRTY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FORTY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "forty thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1012E",
+   "unicode_glyph": "𐄮",
+   "unicode_name": "AEGEAN NUMBER FORTY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_FIFTY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "fifty thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+1012F",
+   "unicode_glyph": "𐄯",
+   "unicode_name": "AEGEAN NUMBER FIFTY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SIXTY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "sixty thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10130",
+   "unicode_glyph": "𐄰",
+   "unicode_name": "AEGEAN NUMBER SIXTY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_SEVENTY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "seventy thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10131",
+   "unicode_glyph": "𐄱",
+   "unicode_name": "AEGEAN NUMBER SEVENTY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_EIGHTY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "eighty thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10132",
+   "unicode_glyph": "𐄲",
+   "unicode_name": "AEGEAN NUMBER EIGHTY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_NUMBER_NINETY_THOUSAND",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "ninety thousand",
+   "token_values": [],
+   "sign_type": "number",
+   "unicode": "U+10133",
+   "unicode_glyph": "𐄳",
+   "unicode_name": "AEGEAN NUMBER NINETY THOUSAND",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_WEIGHT_BASE_UNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "weight base unit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+10137",
+   "unicode_glyph": "𐄷",
+   "unicode_name": "AEGEAN WEIGHT BASE UNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_WEIGHT_FIRST_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "weight first subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+10138",
+   "unicode_glyph": "𐄸",
+   "unicode_name": "AEGEAN WEIGHT FIRST SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_WEIGHT_SECOND_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "weight second subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+10139",
+   "unicode_glyph": "𐄹",
+   "unicode_name": "AEGEAN WEIGHT SECOND SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_WEIGHT_THIRD_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "weight third subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+1013A",
+   "unicode_glyph": "𐄺",
+   "unicode_name": "AEGEAN WEIGHT THIRD SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_WEIGHT_FOURTH_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "weight fourth subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+1013B",
+   "unicode_glyph": "𐄻",
+   "unicode_name": "AEGEAN WEIGHT FOURTH SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_DRY_MEASURE_FIRST_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "dry measure first subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+1013C",
+   "unicode_glyph": "𐄼",
+   "unicode_name": "AEGEAN DRY MEASURE FIRST SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_LIQUID_MEASURE_FIRST_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "liquid measure first subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+1013D",
+   "unicode_glyph": "𐄽",
+   "unicode_name": "AEGEAN LIQUID MEASURE FIRST SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_MEASURE_SECOND_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "measure second subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+1013E",
+   "unicode_glyph": "𐄾",
+   "unicode_name": "AEGEAN MEASURE SECOND SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  },
+  {
+   "id": "AEGEAN_MEASURE_THIRD_SUBUNIT",
+   "system": "Aegean Numbers",
+   "sign_number": "",
+   "standard_value": "measure third subunit",
+   "token_values": [],
+   "sign_type": "metrological",
+   "unicode": "U+1013F",
+   "unicode_glyph": "𐄿",
+   "unicode_name": "AEGEAN MEASURE THIRD SUBUNIT",
+   "unicode_block": "Aegean Numbers",
+   "unicode_status": "STANDARD_UNICODE",
+   "source_refs": [
+    {
+     "source_family": "Unicode",
+     "source": "Unicode names list / Python unicodedata",
+     "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+    }
+   ],
+   "notes": "Derived from Unicode character name via Python unicodedata."
+  }
+ ]
+}

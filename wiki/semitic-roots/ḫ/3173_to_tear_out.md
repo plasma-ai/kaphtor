@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/ḫ/3173_to_tear_out
 title: "*ḫlš: 'to tear out'"
 desc: "Proto-Semitic *ḫlš, 'to tear out': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3173"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *ḫlš: 'to tear out'

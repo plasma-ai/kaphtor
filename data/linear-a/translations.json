@@ -64,7 +64,7 @@
           "reading": "yaššaram",
           "gloss": "in righteousness",
           "confidence": "CONFIRMED",
-          "note": "√y-š-r. Adverbial accusative: *yaššaram* 'in righteousness.' Spelling encodes accusative -am (RA = /ra/, not RU for nominative -um). Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor). Position 3 in the full formula. On IO Za 2 only JA-SA-SA-RA-[ survives; GORILA restores ME (V 19)."
+          "note": "√y-š-r. Adverbial accusative: *yaššaram* 'in righteousness.' Spelling encodes accusative -am (RA = /ra/, not RU for nominative -um). Position 3 in the full formula. On IO Za 2 only JA-SA-SA-RA-[ survives; GORILA restores ME (V 19)."
         },
         {
           "linear_a": "[U-NA-KA-NA]-SI",
@@ -143,7 +143,7 @@
           "reading": "yaššaram",
           "gloss": "in righteousness (adverbial accusative -am, √y-š-r)",
           "confidence": "CONFIRMED",
-          "note": "√y-š-r. Adverbial accusative *yaššaram* 'in righteousness.' Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor)."
+          "note": "√y-š-r. Adverbial accusative *yaššaram* 'in righteousness.'"
         },
         {
           "linear_a": "U-NA-KA-NA-SI",
@@ -589,7 +589,7 @@
           "gloss": "uprightly (accusative -am, √y-š-r)",
           "root": "√y-š-r",
           "confidence": "CONFIRMED",
-          "note": "Adverbial accusative. Polysemic layer: masculine divine name Yasharam."
+          "note": "Adverbial accusative."
         }
       ],
       "translation": "TI: ‘[…]—May you (f.) answer—[…]—in righteousness.’ E: ‘[…]—May she/you answer—[…]—in righteousness.’",
@@ -874,7 +874,7 @@
           "reading": "yaššaram",
           "gloss": "uprightly (accusative -am, √y-š-r; Palaikastro dialect drops JA- prefix)",
           "confidence": "PROBABLE",
-          "note": "√y-š-r. Dialect variant: SA-SA-RA-ME (no JA- prefix) vs standard JA-SA-SA-RA-ME. Adverbial accusative *yaššaram* 'in righteousness.' Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor). Palaikastro proto-Phoenician dialect feature — cf. PKZa27 which retains JA- (standard register)."
+          "note": "√y-š-r. Dialect variant: SA-SA-RA-ME (no JA- prefix) vs standard JA-SA-SA-RA-ME. Adverbial accusative *yaššaram* 'in righteousness.' Palaikastro proto-Phoenician dialect feature — cf. PKZa27 which retains JA- (standard register)."
         },
         {
           "linear_a": "U-NA-RU-KA-NA-TI",
@@ -1885,7 +1885,7 @@
         },
         {
           "linear_a": "DA-KU-SE-NE",
-          "reading": "Takušenni?",
+          "reading": "Takušenni",
           "gloss": "probable Hurrian-style personal name; cf. Ugaritic Taki-šenni",
           "confidence": "PROBABLE"
         },
@@ -1955,7 +1955,7 @@
         },
         {
           "linear_a": "DA-KU-SE-NE-TI",
-          "reading": "Takušenni?-ti",
+          "reading": "Takušenni-ti",
           "gloss": "probable Hurrian-style name or entity with final TI: 45½",
           "confidence": "CANDIDATE",
           "note": "Bare DA-KU-SE-NE occurs on HT 103 .4–5; on .2–3 a break follows NE. The comparison with Ugaritic Taki-šenni supports the name analysis, but the exact form and the function of TI remain uncertain."
@@ -1981,7 +1981,7 @@
           "confidence": "CONFIRMED"
         }
       ],
-      "translation": "TA-PA · *505: Takušenni?-ti 45½; Yidu-ti 20½; PA-DA-SU-TI 29. Total: 95.",
+      "translation": "TA-PA · *505: Takušenni-ti 45½; Yidu-ti 20½; PA-DA-SU-TI 29. Total: 95.",
       "confidence": "CANDIDATE",
       "status": "partially translated",
       "notes": "Inter-entity transfer list with an unspecified commodity and unresolved direction. The arithmetic is exact: 45½ + 20½ + 29 = 95. Repeated final TI defines a shared administrative or morphological class. The DA-KU-SE-NE / DA-KU-SE-NE-TI pair favors suffixation, while GORILA I 171 allows TI to be an ideogram or classifier. Finkelberg (2002/03, 96–97) proposes a dative/recipient interpretation, ‘for/to’; HT104 does not establish an ablative ‘from.’",
@@ -1996,7 +1996,7 @@
           "pp. 96–97"
         ],
         "Gelb, Purves, and MacRae 1943; Tropper 2000 §32.144.35": [
-          "DA-KU-SE-NE / Takušenni?"
+          "DA-KU-SE-NE / Takušenni"
         ]
       }
     },
@@ -2083,7 +2083,7 @@
           "reading": "yaššaram",
           "gloss": "in righteousness (adverbial accusative, √y-š-r)",
           "confidence": "CONFIRMED",
-          "note": "Proposed adverbial accusative /yaššaram/ from √y-š-r; -am is represented by final ME. The divine-name reading Yasharam remains an alternative but is not required here. On IO Za 9 only ]JA-SA-SA- survives; GORILA restores RA-ME (V 33)."
+          "note": "Proposed adverbial accusative /yaššaram/ from √y-š-r; -am is represented by final ME. On IO Za 9 only ]JA-SA-SA- survives; GORILA restores RA-ME (V 33)."
         },
         {
           "linear_a": "U-NA-KA-NA-SI",
@@ -2151,7 +2151,7 @@
           "reading": "yaššaram",
           "gloss": "in righteousness (adverbial accusative, √y-š-r)",
           "confidence": "CONFIRMED",
-          "note": "The complete first group permits the adverbial accusative *yaššaram*, 'in righteousness.' Yasharam as a divine name remains a secondary possibility."
+          "note": "The complete first group permits the adverbial accusative *yaššaram*, 'in righteousness.'"
         },
         {
           "linear_a": "Ụ-NA-KA-[NA-SI]",
@@ -2649,7 +2649,7 @@
           "root": "√y-š-r",
           "position": 3,
           "confidence": "CONFIRMED",
-          "note": "Adverbial accusative. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor)."
+          "note": "Adverbial accusative."
         }
       ],
       "translation": "May you (f.) answer us, my Anat, Breast-Who-Gives-Drink, in righteousness.",
@@ -3294,7 +3294,7 @@
         },
         {
           "linear_a": "MA-ZU",
-          "reading": "maṯu?",
+          "reading": "maṯu",
           "gloss": "infants or young dependents?: 3",
           "confidence": "SPECULATIVE",
           "note": "Compare Ugaritic mṯ 'infant' in KTU 1.69:2, 1.5 V:22, and 3.7:15. The final vowel is reconstructed from Linear A, not preserved by alphabetic Ugaritic; MA-ZU is a Linear A hapax."

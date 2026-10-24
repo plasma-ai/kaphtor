@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ẑebbēt id. \[JH 151\]; ẑōb \[JH 151\]. | JH 151; JH 151 | gloss withheld |
 | Jibbali | ẕ̂ɔb (pl. ẕ̂ēt) id. \[JJ 322\]; ẕ̂obb, ẕ̂ab(b)ón \[Bittner 25\]. | JJ 322; Bittner 25 |  |
 | Hebrew | ṣāb (HALOT 994), pB. \[Ja. 1257\] | HALOT 994; Ja. 1257 | gloss withheld |
-| Syrian Aramaic | ʕabbā 'fish sauce, whip-tailed lizard' \[Brock. 503\], \[PS 2763\]. | Brock. 503; PS 2763 |  |
+| Syrian Aramaic | ʕabbā 'fish sauce, whip-tailed lizard' \[Brock. 503\], 'lizard (in the dialect of Beth Garmai)' \[PS 2763\]. | Brock. 503; PS 2763 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

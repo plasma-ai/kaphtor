@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ŝḥḳ (a) (HALOT 1315) (&lt;\*ŝḥḳ dissimilated from \*ṣ̂ḥḳ?), ṣḥḳ (a) (HALOT 1019) (&lt;\*ṣ̂ḥḳ). | HALOT 1315; HALOT 1019 |  |
 | Amharic | saḳä \[K 503\] | K 503 |  |
 | Argobba | sähaḳa \[LGur 556\] (from \*ṣ̂ḥḳ? See GEZ) | LGur 556 |  |
-| Judaic Aramaic | ṣǝḥaḳ \[Ja 1274\], ʔăḥīk \[ibid. 40\], ḥūk \[ibid. 432\], gǝḥak \[ibid. 233\], gḥk \[DJPA 126a apud CAL\]; dəḥak \[Ja. 292\], dḥk \[Sok. 153\]. | Ja 1274; ibid. 40; ibid. 432; ibid. 233; DJPA 126a; CAL; Ja. 292; Sok. 153 | gloss withheld |
+| Judaic Aramaic | ṣǝḥaḳ \[Ja 1274\], ʔăḥīk \[ibid. 40\], ḥūk \[ibid. 432\], gǝḥak \[ibid. 233\], gḥk \[DJPA 126a apud CAL\]; dəḥak \[Ja. 292\], dḥk \[DJPA 142b apud CAL\]. | Ja 1274; ibid. 40; ibid. 432; ibid. 233; DJPA 126a; CAL; Ja. 292; DJPA 142b; CAL | gloss withheld |
 | Syrian Aramaic | gǝḥēk \[Brock 113\]. | Brock 113 |  |
 | Gafat | ṣaḳä \[LGaf 236\]. | LGaf 236 |  |
 | Aramaic | HTR šḥḳ \[HJ 1121-22\] (from \*ŝḥḳ, dissimilated from \*ṣ̂ḥḳ?); DAL ḳḥk \[HJ 1094-5\] | HJ 1121-22; HJ 1094-5 | gloss withheld |

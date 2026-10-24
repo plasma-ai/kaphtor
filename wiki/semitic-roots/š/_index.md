@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/š
 desc: "Semitic roots whose first radical is š."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/š
@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/š/1270_box_for_tablets|1270_box_for_tablets]]: Proto-Semitic *šadup- (?), 'box for tablets': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/š/1271_be_unharmed_healthy|1271_be_unharmed_healthy]]: Proto-Semitic *šVlVm- ~ *sVlVm-, 'be unharmed, healthy': reflexes in 18 language(s).
+[[wiki/semitic-roots/š/1271_be_unharmed_healthy|1271_be_unharmed_healthy]]: Proto-Semitic *šVlVm- ~ *sVlVm-, 'be unharmed, healthy': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/š/1274_south_wind|1274_south_wind]]: Proto-Semitic *ŝxVw-, 'south (wind)': reflexes in 1 language(s).
 
@@ -107,7 +107,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/š/1777_pierce_split|1777_pierce_split]]: Proto-Semitic *šVlaʕ-, 'pierce, split': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/š/1778_kind_of_tree|1778_kind_of_tree]]: Proto-Semitic *šalām-, 'kind of tree': reflexes in 2 language(s).
+[[wiki/semitic-roots/š/1778_kind_of_tree|1778_kind_of_tree]]: Proto-Semitic *šalām-, 'kind of tree': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/š/1779_marsh_plant|1779_marsh_plant]]: Proto-Semitic *šalap-, 'marsh plant': reflexes in 1 language(s).
 
@@ -141,9 +141,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/š/2094_to_cough|2094_to_cough]]: Proto-Semitic *š/sʕl {} *s/cʕl (-u-), 'to cough': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/š/2097_to_be_rabid_mad|2097_to_be_rabid_mad]]: Proto-Semitic *ŝxgʕ {} *ŝgʕ, 'to be rabid, mad': reflexes in 4 language(s).
+[[wiki/semitic-roots/š/2097_to_be_rabid_mad|2097_to_be_rabid_mad]]: Proto-Semitic *ŝxgʕ {} *ŝgʕ, 'to be rabid, mad': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/š/216_hear|216_hear]]: Proto-Semitic *šVmaʕ-, 'hear': reflexes in 27 language(s).
+[[wiki/semitic-roots/š/216_hear|216_hear]]: Proto-Semitic *šVmaʕ-, 'hear': reflexes in 26 language(s).
 
 [[wiki/semitic-roots/š/2188_turtle|2188_turtle]]: Proto-Semitic *šalaḥpaw/y- ~ *šalapḥaw/y-, 'turtle': reflexes in 4 language(s).
 
@@ -171,7 +171,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/š/235_worm|235_worm]]: Proto-Semitic *šūš- < *šVwVš-, 'worm': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/š/2365_service_in_the_cult_worship_1_secret_mystery_2_d|2365_service_in_the_cult_worship_1_secret_mystery_2_d]]: Proto-Semitic *šarit- 1, *šir- 2, šrr 3, 'service in the cult, worship' 1, 'secret, mystery' 2, 'divulge (a secret), promulgate' 3: reflexes in 6 language(s).
+[[wiki/semitic-roots/š/2365_to_serve_service_in_the_cult_worship|2365_to_serve_service_in_the_cult_worship]]: Proto-Semitic *šrt, 'to serve; service in the cult, worship': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/š/2367_to_blow_smell|2367_to_blow_smell]]: Proto-Semitic *šVwVp-, 'to blow, smell': reflexes in 3 language(s).
 
@@ -244,6 +244,20 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/š/3139_who_which_that_determinative_relative_pronoun|3139_who_which_that_determinative_relative_pronoun]]: Proto-Semitic *ša, 'who, which, that (determinative-relative pronoun)': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/š/3159_heat_kindle|3159_heat_kindle]]: Proto-Semitic *šgr, 'heat, kindle': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/š/3175_they_fem|3175_they_fem]]: Proto-Semitic *šina, 'they (fem.)': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/š/3183_secret_mystery_1_confide_divulge_a_secret_2|3183_secret_mystery_1_confide_divulge_a_secret_2]]: Proto-Semitic *širr- 1, *šrr 2, 'secret, mystery' 1, 'confide, divulge (a secret)' 2: reflexes in 1 language(s).
+
+[[wiki/semitic-roots/š/3189_shadow|3189_shadow]]: Proto-Semitic *šlʕ, 'shadow': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/š/3192_to_be_yellow_green|3192_to_be_yellow_green]]: Proto-Semitic *šṣ̂r, 'to be yellow-green': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/š/3195_ear_of_corn|3195_ear_of_corn]]: Proto-Semitic *šu(n)bul-at-, 'ear of corn': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/š/3216_to_boil_cook|3216_to_boil_cook]]: Proto-Semitic *šlḳ, 'to boil, cook': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/š/3241_to_estimate_calculate_1_price_2|3241_to_estimate_calculate_1_price_2]]: Proto-Semitic *šʿr, 'to estimate, calculate' 1, 'price' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/š/347_transparent_cloth|347_transparent_cloth]]: Proto-Semitic *ša/ipp-, 'transparent cloth': reflexes in 1 language(s).
 
@@ -327,7 +341,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/š/791_shine|791_shine]]: Proto-Semitic *šanaw-, 'shine': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/š/803_burn_be_hot_1_set_fire_2_warm_v_3_spark_4_be_dry|803_burn_be_hot_1_set_fire_2_warm_v_3_spark_4_be_dry]]: Proto-Semitic *ŝxVbVb- 1, 2, 3, 5 ~ *ŝxa(m)bib- 4, 'burn, be hot' 1, 'set fire' 2, 'warm' (v.) 3, 'spark' 4, 'be dry, arid' 5: reflexes in 7 language(s).
+[[wiki/semitic-roots/š/803_burn_be_hot_1_set_fire_2_warm_v_3_spark_4_be_dry|803_burn_be_hot_1_set_fire_2_warm_v_3_spark_4_be_dry]]: Proto-Semitic *ŝxVbVb- 1, 2, 3, 5 ~ *ŝxa(m)bib- 4, 'burn, be hot' 1, 'set fire' 2, 'warm' (v.) 3, 'spark' 4, 'be dry, arid' 5: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/š/805_set_fire|805_set_fire]]: Proto-Semitic *šVʕar-, 'set fire': reflexes in 2 language(s).
 
@@ -344,6 +358,8 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/š/933_be_black|933_be_black]]: Proto-Semitic *šVḥVr-, 'be black': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/š/971_pit|971_pit]]: Proto-Semitic *šūḥ-, 'pit': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/š/K0396_sharp|K0396_sharp]]: Proto-Semitic *šVnVn-, 'sharp': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/š/K0505_leave|K0505_leave]]: Proto-Semitic *šVbVq-, 'leave': reflexes in 3 language(s).
 
@@ -369,7 +385,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/š/K0516_neglect|K0516_neglect]]: Proto-Semitic *šVhVy-, 'neglect': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/š/K0519_drunk|K0519_drunk]]: Proto-Semitic *šakār-, 'drunk': reflexes in 13 language(s).
+[[wiki/semitic-roots/š/K0519_drunk|K0519_drunk]]: Proto-Semitic *šakār-, 'drunk': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/š/K0520_find_forget|K0520_find_forget]]: Proto-Semitic *šakaḥ-, 'find', 'forget': reflexes in 5 language(s).
 
@@ -410,8 +426,6 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/š/K0543_twist|K0543_twist]]: Proto-Semitic *šazar-, 'twist': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/š/K0544_chain|K0544_chain]]: Proto-Semitic *šVšVl-, 'chain': reflexes in 13 language(s).
-
-[[wiki/semitic-roots/š/K0547_shoe|K0547_shoe]]: Proto-Semitic *šVʾVn-, 'shoe': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/š/K0548_remain|K0548_remain]]: Proto-Semitic *šVʾVr-, 'remain': reflexes in 6 language(s).
 

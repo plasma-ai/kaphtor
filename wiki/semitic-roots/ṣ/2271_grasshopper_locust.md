@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ṣarṣaru (ṣāṣiru) SB, NB \[CAD ṣ 115\], OB on \[AHw. 1086\] | CAD ṣ 115; AHw. 1086; CAD l 100; Landsberger Fauna 124 | gloss withheld |
 | Hebrew | pB. ṣarṣūr 'cricket' \[Ja. 1305\], \[Levy WTM IV 223\]. | Ja. 1305; Levy WTM IV 223 |  |
 | Judaic Aramaic | ṣarṣǝrā \[Ja. 1305\], \[Levy WTM IV 223\], ṣrṣr \[DJPA 471a apud CAL\]. | Ja. 1305; Levy WTM IV 223; DJPA 471a; CAL | gloss withheld |
-| Syrian Aramaic | ṣarṣūrā 'a kind of locust' \[Brock. 639\], \[PS 3438\], ṣēṣǝrā 'gryllus' \[Brock. 636\], \[PS 3437\] (also ṣaṣṣūrā). | Brock. 639; PS 3438; Brock. 636; PS 3437 |  |
+| Syrian Aramaic | ṣarṣūrā 'a kind of locust' \[Brock. 639\], \[PS 3438\], ṣēṣǝrā 'cricket' \[Brock. 636\], \[PS 3437\] (also ṣaṣṣūrā). | Brock. 639; PS 3438; Brock. 636; PS 3437 |  |
 | Eblaitic | ṣa-ṣa-ru₁₀-um (SED II 278) | SED II 278 |  |
 | Modern Aramaic | NSyr. ṣiṣrâ, ṣerṣûrâ; JNA ṣīṣ-irka (SED II 278) | SED II 278 |  |
 | Aramaic | ṣrṣrʿ, ṣlṣlʾ (HALOT 1031) | HALOT 1031 |  |

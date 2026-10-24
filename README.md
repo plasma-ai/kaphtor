@@ -85,7 +85,7 @@ decipherment.
 
 A sign value counts as resolved only on support that does not depend on a Semitic match: a Linear B value, a scribe's
 arithmetic, or a spelling variant of the same word. Every other value is listed as proposed, with its evidence where
-given. The record holds 39 sign values: 5 resolved (2 phonemic, 3 logograms) and 34 proposed (13 phonemic, 21
+given. The record holds 38 sign values: 5 resolved (2 phonemic, 3 logograms) and 33 proposed (12 phonemic, 21
 logograms). The fraction signs are counted apart: 3 resolved and 11 proposed.
 
 Linear A has no proof kernel. Counts, distributions, arithmetic and reproducibility are checked mechanically.
@@ -206,7 +206,7 @@ out below and in the `license` key of each datasheet:
   can find the entry in the original. It reproduces no gloss or note from a closed source.
 - **The Linear A corpus.** `data/linear-a/corpus.json` builds on SigLA, whose data is under CC BY-NC-SA 4.0, and on
   lineara.xyz, which states no licence. Our corrections and added layers are CC BY 4.0. The underlying texts keep
-  their sources' terms.
+  their sources' terms. `data/linear-a/sigla-sign-map.json` is SigLA's sign list and stays under CC BY-NC-SA 4.0.
 - **Share-alike data.** The files in `data/share-alike/` remain under CC BY-SA 4.0, and anything derived from them
   carries the same terms.
 - **The fonts.** The fonts in `assets/fonts/` are under the SIL Open Font License 1.1.

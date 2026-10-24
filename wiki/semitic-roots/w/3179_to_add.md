@@ -1,9 +1,12 @@
 ---
+name: wiki/semitic-roots/w/3179_to_add
 title: "*wsp: 'to add'"
 desc: "Proto-Semitic *wsp, 'to add': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3179"
+created: 2026-10-24T15:25:56Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # *wsp: 'to add'

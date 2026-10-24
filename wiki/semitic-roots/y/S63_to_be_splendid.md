@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | Yapaʾ-milku (OLA80 §45.8) | OLA80 §45.8 |  |
+| Ugaritic | Yapaʿ-milku (OLA80 §45.8) | OLA80 §45.8 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

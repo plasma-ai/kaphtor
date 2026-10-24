@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | Gamir-Haddu (OLA80 §45.8) | OLA80 §45.8 |  |
 | Geez | ʾagmara (LGz. 194) | LGz. 194 | gloss withheld |
-| Akkadian | gamārum (Huehnergard 1997 GAk, 496; OLA80 §45.8) | Huehnergard 1997 GAk, 496; OLA80 §45.8 | gloss withheld |
+| Akkadian | gamārum (Huehnergard 1997 GAk, 496) | Huehnergard 1997 GAk, 496 | gloss withheld |
 | Arabic | ǧammara (HALOT 197) | HALOT 197 | gloss withheld |
 | Hebrew | gāmar (LGz. 195) | LGz. 195 | gloss withheld |
 | Syrian Aramaic | gəmar (LGz. 195) | LGz. 195 |  |

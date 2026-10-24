@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | lamādu (OLA80 §38.5) | OLA80 §38.5 |  |
+| Akkadian | lamādu (OLA80 §41.2) | OLA80 §41.2 |  |
 | Ugaritic | lmd (Tropper UG §74.412.23) | Tropper UG §74.412.23 | gloss withheld |
 | Geez | lamada (LGz. 315) | LGz. 315 | gloss withheld |
 | Syrian Aramaic | lammeḏ (LGz. 315) | LGz. 315 | gloss withheld |
@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-OLA80 §38.5. Stative paradigm verb: lamid 'he has learned' (suffix conjugation). Used to illustrate stative → perfective shift.
+OLA80 §38.3, §41.2. Stative lamid 'he is learned' beside preterite ilmad 'he learned' (§38.3).
 
 <!-- END kaphtor:record -->

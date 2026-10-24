@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṯ
 desc: "Semitic roots whose first radical is ṯ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:25:56Z
 ---
 
 # wiki/semitic-roots/ṯ
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṯ/1491_milk_skin|1491_milk_skin]]: Proto-Semitic *ṯumāl-, 'milk skin': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṯ/2036_woman_s_breast|2036_woman_s_breast]]: Proto-Semitic *ṯa/ud-, (woman's) breast: reflexes in 10 language(s).
+[[wiki/semitic-roots/ṯ/2036_woman_s_breast|2036_woman_s_breast]]: Proto-Semitic *ṯa/ud-, (woman's) breast: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ṯ/2037_neck_and_shoulders|2037_neck_and_shoulders]]: Proto-Semitic *ṯVkm- {} *čVkm-, 'neck and shoulders': reflexes in 9 language(s).
 
@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṯ/2105_to_be_childless|2105_to_be_childless]]: Proto-Semitic *ṯkl {} *čkl, 'to be childless': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ṯ/2106_to_urinate|2106_to_urinate]]: Proto-Semitic *ṯyn {} *čyn, 'to urinate': reflexes in 13 language(s).
+[[wiki/semitic-roots/ṯ/2106_to_urinate|2106_to_urinate]]: Proto-Semitic *ṯyn {} *čyn, 'to urinate': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ṯ/2296_rock_hyrax|2296_rock_hyrax]]: Proto-Semitic *ṯapan-, 'rock hyrax': reflexes in 4 language(s).
 
@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṯ/269_bull_ox|269_bull_ox]]: Proto-Semitic *ṯawr-, 'bull, ox': reflexes in 18 language(s).
 
-[[wiki/semitic-roots/ṯ/2791_ewe|2791_ewe]]: Proto-Semitic *ṯaʾ(w/y)-at- {} *čaʾ(w/y)-at-, 'ewe': reflexes in 10 language(s).
+[[wiki/semitic-roots/ṯ/2791_ewe|2791_ewe]]: Proto-Semitic *ṯaʾ(w/y)-at- {} *čaʾ(w/y)-at-, 'ewe': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ṯ/2904_fruit|2904_fruit]]: Proto-Semitic *ṯVmVr-, 'fruit': reflexes in 7 language(s).
 
@@ -60,6 +60,8 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/ṯ/3089_mud_clay|3089_mud_clay]]: Proto-Semitic *ṯaʔṭ-, 'mud, clay': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṯ/3100_to_wound|3100_to_wound]]: Proto-Semitic *ṯḥr, 'to wound': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṯ/3228_there|3228_there]]: Proto-Semitic *ṯamma, 'there': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ṯ/484_march_proudly|484_march_proudly]]: Proto-Semitic *ṯVnVy-, 'march proudly': reflexes in 1 language(s).
 
@@ -91,7 +93,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/ṯ/S50_to_break_shatter_1_fracture_breach_2|S50_to_break_shatter_1_fracture_breach_2]]: Proto-Semitic *ṯbr-, 'to break, shatter' 1, 'fracture, breach' 2: reflexes in 21 language(s).
 
-[[wiki/semitic-roots/ṯ/S97_three|S97_three]]: Proto-Semitic *ṯalāṯ-, 'three': reflexes in 22 language(s).
+[[wiki/semitic-roots/ṯ/S97_three|S97_three]]: Proto-Semitic *ṯalāṯ-, 'three': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/ṯ/SA098_BRING_BACK|SA098_BRING_BACK]]: Epigraphic South Arabian headword *ṯhb, 'BRING BACK': reflexes in 2 language(s).
 

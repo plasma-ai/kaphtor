@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʔatw 1 |  |  |
 | Geez | ʔatawa 3 |  |  |
 | Hebrew | ʔty 1 |  |  |
-| Epigraphic South Arabian | ʔtw, ʔty 1 |  |  |
+| Epigraphic South Arabian | ʔtw, ʔty 1 (Sabaweb lemma 1393) | Sabaweb lemma 1393 | gloss withheld |
 | Syrian Aramaic | ʔeta 1 |  |  |
 | Aramaic | (Emp) ʔty 1, (Nab) yʔtʔ 1, (Palm) ʔtʔ 1 (DNWSI 133 apud CAL), (Palest) ʔ.tā 1 (DJPA 80a apud CAL) | DNWSI 133; CAL; DJPA 80a; CAL |  |
 | Tigrinya | ʔatawa 3 |  |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0621_go_follow_the_track_trace_place
 title: "*ʾVṯVr-: 'go, follow the track; trace, place'"
-desc: "Proto-Semitic *ʾVṯVr-, 'go, follow the track; trace, place': reflexes in 11 language(s)."
+desc: "Proto-Semitic *ʾVṯVr-, 'go, follow the track; trace, place': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0621"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | atra (LGz. 45) | LGz. 45 | gloss withheld |
 | Phoenician | ʾšr (T 36) | T 36 | gloss withheld |
 | Judaic Aramaic | ʾatraʾ (T 36) | T 36 |  |
+| Geez | ʾašar (HALOT 97) | HALOT 97 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

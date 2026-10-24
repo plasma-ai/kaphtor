@@ -49,11 +49,11 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | lēb (HALOT 513), lēbāb (HALOT 516) | HALOT 513; HALOT 516 |  |
 | Amharic | lǝbb (also) \[K 71\] | K 71 | gloss withheld |
 | Epigraphic South Arabian | SAB lb \[SD 81; Sabaweb lemma 1287\]; lbb \[ibid.; Sabaweb lemma 4498\]; MIN lb \[LM 56\] | SD 81; Sabaweb lemma 1287; ibid.; Sabaweb lemma 4498; LM 56 | gloss withheld |
-| Judaic Aramaic | libbā, lǝbābā, libǝbā (also \[Ja 686\]); lb, det. läbbā, lybh, pl. lbbyn \[Sok 273\] | Ja 686; Sok 273 | gloss withheld |
+| Judaic Aramaic | libbā, lǝbābā, libǝbā (also \[Ja 686\]); lb, det. läbbā, lybh, pl. lbbyn \[DJPA 275a apud CAL\] | Ja 686; DJPA 275a; CAL | gloss withheld |
 | Syrian Aramaic | lebbā \[Brock 354\] | Brock 354 |  |
 | Aramaic | OFF lb \[HJ 561\] | HJ 561 |  |
 | Tigrinya | lǝbbi \[Bass 22\] | Bass 22 |  |
-| Egyptian | lb (OLA80 §17.2) | OLA80 §17.2 | gloss withheld |
+| Egyptian | ỉb (OLA80 §17.2) | OLA80 §17.2 | gloss withheld |
 | Argobba | ləbb (Leslau 1997:210, AAD 63 apud SEDonline 27) | Leslau 1997:210, AAD 63; SEDonline 27 | gloss withheld |
 | Gafat | ləb, ləbu, ləbo (Leslau 1945:160 apud SEDonline 27) | Leslau 1945:160; SEDonline 27 | gloss withheld |
 

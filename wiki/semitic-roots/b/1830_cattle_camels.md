@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | bǝʕǝr, bǝʕ(ǝ)rā, bǝʕ(ǝ)rāy, bǝʕ(ǝ)rāwi \[LGz. 84\] | LGz. 84 | gloss withheld |
 | Hebrew | bǝʕīr (HALOT 142) | HALOT 142 | gloss withheld |
 | Epigraphic South Arabian | Sab. bʕr \[SD 26; Sabaweb lemma 1463\] // Min. bʕr \[LM 19\] // Hdr. bʕr \[Sima 37\] | SD 26; Sabaweb lemma 1463; LM 19; Sima 37; Sima 33-40 | gloss withheld |
-| Judaic Aramaic | bǝʕīr(ā) \[Ja. 182\], \[Levy WT I 107\], \[Levy WTM I 250\], bǝʕīr \[Sok. 109\] | Ja. 182; Levy WT I 107; Levy WTM I 250; Sok. 109 | gloss withheld |
+| Judaic Aramaic | bǝʕīr(ā) \[Ja. 182\], \[Levy WT I 107\], \[Levy WTM I 250\], bǝʕīr \[DJPA 109a apud CAL\] | Ja. 182; Levy WT I 107; Levy WTM I 250; DJPA 109a; CAL | gloss withheld |
 | Syrian Aramaic | bǝʕīrā 'beast, draft animal' \[Brock. 85\], 'livestock; draft animal, horse' \[PS 566\] | Brock. 85; PS 566 |  |
 | Tigrinya | bǝʕray 'ox' \[Bass. 333\] | Bass. 333 |  |
 | Modern Aramaic | NSyr. bʕîrâ, NAssyr. bị̄ra (SED II 73) | SED II 73 | gloss withheld |

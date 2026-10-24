@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔiyyal-, ʔayyal- \[BK 1 74\], \[Fr. I 76\] (also ʔuyyal-, ʔayyil-, ʔayyul-), \[Lane 128\], \[LA XI 33\] | BK 1 74; Fr. I 76; Lane 128; LA XI 33; Hommel 279-80; Lansberger Fauna 98; Polosin 44 | gloss withheld |
 | Akkadian | ayalu (jalu, julu) OB on \[CAD a1 225\], \[AHw. 24\] | CAD a1 225; AHw. 24; Salonen Jagd 159ff; Landsberger Fauna 98; CAD a1 225 | gloss withheld |
 | Mandaic Aramaic | ai(a)la \[DM 14-15\]. | DM 14-15 | gloss withheld |
-| Ugaritic | ʔayl \[DULAT 131\], ʔaylt \[ibid.\] | DULAT 131; ibid.; DLU 65 | gloss withheld |
+| Ugaritic | ʔayl \[DULAT 131\], ʔaylt \[ibid.\] | DULAT 131; ibid.; DULAT 131 | gloss withheld |
 | Phoenician | ʔyl \[T 14\] | T 14; KAI 69; Krah. 47; HJ 45; KAI II 85; KAI 74 | gloss withheld |
 | Jibbali | ayyól 'ibex' \[Bittner 29\] (not in \[JJ\]). | Bittner 29 |  |
 | Hebrew | ʔayyāl (HALOT 40), ʔayyālā (ʔayyälät) (ibid.); pB \[Ja. 48\]. | HALOT 40; ibid.; Ja. 48 | gloss withheld |
 | Epigraphic South Arabian | Sab. ʔyl \[SD 10; Sabaweb lemma 3039\] | SD 10; Sabaweb lemma 3039; LM 9; Sima 27 | gloss withheld |
-| Judaic Aramaic | ʔayyālā, ʔayyǝlā, ʔayyaltā \[Ja. 48, 50\], \[Levy WT I 24\], \[Levy WTM I 64\], ʔyyl \[Sok. 48\], ʔyylh \[ibid.\]. | Ja. 48, 50; Levy WT I 24; Levy WTM I 64; Sok. 48; ibid. | gloss withheld |
+| Judaic Aramaic | ʔayyālā, ʔayyǝlā, ʔayyaltā \[Ja. 48, 50\], \[Levy WT I 24\], \[Levy WTM I 64\], ʔyyl \[DJPA 48b apud CAL\], ʔyylh \[DJPA 48b apud CAL\]. | Ja. 48, 50; Levy WT I 24; Levy WTM I 64; DJPA 48b; CAL; DJPA 48b; CAL | gloss withheld |
 | Syrian Aramaic | ʔaylā 'stag', ʔaylātā 'doe (female deer)' \[Brock. 15\], \[PS 151\]. | Brock. 15; PS 151 |  |
 | Aramaic | Off. ʔyl \[HJ 45\], ʔylth \[ibid.\] | HJ 45; ibid.; Kott. 186 | gloss withheld |
 | Modern Aramaic | NSyr. élâ, NAssyr. ēla, Tur. ʔaylo (SED II 39) | SED II 39 |  |

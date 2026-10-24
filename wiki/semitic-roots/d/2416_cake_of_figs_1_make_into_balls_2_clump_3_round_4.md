@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | dǝbulbul 4 Baet |  | gloss withheld |
 | Judaic Aramaic | dibēlǝt- 1 |  |  |
 | Harari | dulālu 4 |  |  |
-| Epigraphic South Arabian | Sab dbl (SD 35; Biella 80) | SD 35; Biella 80 | gloss withheld |
+| Epigraphic South Arabian | Sab dbl (SD 35; Biella 80); (Sabaweb lemma 4007) | SD 35; Biella 80; Sabaweb lemma 4007 | gloss withheld |
 | Syrian Aramaic | dbeltā 'cake of dried figs' (Payne Smith 82) | Payne Smith 82 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

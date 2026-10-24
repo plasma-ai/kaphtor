@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | fiḳeríroh \[LS 340\], also \[SSL LS 1455; SSL 4 94\] | LS 340; SSL LS 1455; SSL 4 94 | gloss withheld |
 | Modern Aramaic | AZR bḳarta, pḳarta \[Garb 300, 324\] | Garb 300, 324 | gloss withheld |
 | Hebrew | mapräḳät (HALOT 618). | HALOT 618 | gloss withheld |
-| Judaic Aramaic | pirḳā; pirḳǝtā (purḳǝtā) \[Ja 1172\], pirḳat ṣawrā \[ibid. 1240\]; pwrḳh \[Sok 427\] | Ja 1172; ibid. 1240; Sok 427 | gloss withheld |
+| Judaic Aramaic | pirḳā \[Ja 1240\]; pirḳǝtā (purḳǝtā), pirḳat ṣawrā \[ibid. 1172\]; pwrḳh \[DJPA 427a apud CAL\] | Ja 1240; ibid. 1172; DJPA 427a; CAL | gloss withheld |
 | Syrian Aramaic | pāraḳtā 'necks' \[Brock 606\] | Brock 606 |  |
 | Jibbali | məfrɔ́ḳ \[JJ 61\] | JJ 61 | gloss withheld |
 

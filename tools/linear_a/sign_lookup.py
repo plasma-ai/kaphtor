@@ -7,7 +7,7 @@ Subcommands:
   sign_lookup.py --unicode U+10633       # by codepoint
   sign_lookup.py --polyphonic            # list all polyphonic signs
   sign_lookup.py AB67 --evolution        # show CH→LA→LB chain
-  sign_lookup.py AB67 --reading ku       # show implications of alt reading
+  sign_lookup.py AB16 --reading za       # show implications of alt reading
   sign_lookup.py AB67 --format json      # JSON output
 """
 from __future__ import annotations
@@ -71,8 +71,8 @@ def format_sign(sign: dict, show_evolution: bool = False, reading_filter: str | 
         lines.append("  Readings:")
         for r in readings:
             primary = " (primary)" if r.get("is_primary") else ""
-            cv = f"{r.get('consonant') or '∅'}{r['vowel']}"
-            lines.append(f"    /{r['value']}/ [{cv}] — {r['confidence']}{primary}")
+            cv = f" [{r.get('consonant') or '∅'}{r['vowel']}]" if r.get("vowel") else ""
+            lines.append(f"    /{r['value']}/{cv} — {r.get('status', 'no status')}, {r.get('confidence')}{primary}")
             lines.append(f"      Source: {r['source']}")
             if r.get("implications"):
                 for imp in r["implications"]:
@@ -84,7 +84,8 @@ def format_sign(sign: dict, show_evolution: bool = False, reading_filter: str | 
         if target:
             r = target[0]
             lines.append(f"  Reading /{reading_filter}/ details:")
-            lines.append(f"    Confidence: {r['confidence']}")
+            lines.append(f"    Status: {r.get('status', 'no status')}")
+            lines.append(f"    Confidence: {r.get('confidence')}")
             lines.append(f"    Source: {r['source']}")
             if r.get("implications"):
                 lines.append("    Implications:")
@@ -159,14 +160,15 @@ def cmd_lookup(args: argparse.Namespace) -> None:
             print(f"Polyphonic Signs ({len(poly)} found)")
             print(f"{'='*60}")
             for s in poly:
-                readings_str = " / ".join(f"/{r['value']}/" for r in s["readings"])
+                readings_str = " / ".join(f"/{r['value']}/ ({r.get('status', 'no status')})" for r in s["readings"])
                 print(f"  {s['ab_number']:<8} {s['name']:<8} → {readings_str}")
                 for r in s["readings"]:
                     if not r.get("is_primary") and r.get("implications"):
                         for imp in r["implications"]:
                             print(f"           → {imp}")
             print()
-            print("⚠ Readings follow di Mino's Semitic decipherment. Confidence tiers apply.")
+            print("Status as in sign_values.json: conventional (the Linear B value), proposed, or speculative "
+                  "(held in the sign's record only).")
         return
 
     if args.phonetic:

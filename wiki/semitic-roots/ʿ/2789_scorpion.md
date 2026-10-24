@@ -45,4 +45,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Common MSA \*ḳibīn- 'scorpion' (Mhr. ḳəbáyn, Jib. iṣ̃īn) is only remotely similar (Kogan 2011, 213).
+
 <!-- END kaphtor:record -->

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/p
 desc: "Semitic roots whose first radical is p."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-24T15:26:16Z
 ---
 
 # wiki/semitic-roots/p
@@ -139,13 +139,13 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/p/1752_split_1_till_cultivate_2|1752_split_1_till_cultivate_2]]: Proto-Semitic *pVlaḥ-, 'split' 1, 'till, cultivate' 2: reflexes in 4 language(s).
 
-[[wiki/semitic-roots/p/1753_separate|1753_separate]]: Proto-Semitic *pVriz-, 'separate': reflexes in 2 language(s).
+[[wiki/semitic-roots/p/1753_separate|1753_separate]]: Proto-Semitic *pVriz-, 'separate': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/p/1794_kind_of_insect_louse|1794_kind_of_insect_louse]]: Proto-Semitic *pVl-, 'kind of insect, louse': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/p/1795_kind_of_bird|1795_kind_of_bird]]: Proto-Semitic *pVrpVr-, *parr/w-, 'kind of bird': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/p/1835_lamb|1835_lamb]]: Proto-Semitic *parr-, 'lamb': reflexes in 5 language(s).
+[[wiki/semitic-roots/p/1835_lamb|1835_lamb]]: Proto-Semitic *parr-, 'lamb': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/p/1986_genital_organ|1986_genital_organ]]: Proto-Semitic *paʾw/y-at-, 'genital organ': reflexes in 3 language(s).
 
@@ -163,9 +163,9 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/p/1993_animal_s_mouth_muzzle|1993_animal_s_mouth_muzzle]]: Proto-Semitic *pVḳVm-, '(animal's) mouth, muzzle': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/p/1994_back_podex_chest|1994_back_podex_chest]]: Proto-Semitic *p/ban/md-at-, 'back, podex; chest': reflexes in 9 language(s).
+[[wiki/semitic-roots/p/1994_back_podex_chest|1994_back_podex_chest]]: Proto-Semitic *p/ban/md-at-, 'back, podex; chest': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/p/1995_skin_fur_husk_etc|1995_skin_fur_husk_etc]]: Proto-Semitic *parw- ~ *parr-, 'skin, fur, husk, etc': reflexes in 5 language(s).
+[[wiki/semitic-roots/p/1995_skin_fur_husk_etc|1995_skin_fur_husk_etc]]: Proto-Semitic *parw- ~ *parr-, 'skin, fur, husk, etc': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/p/1996_neck_vertebra_occiput|1996_neck_vertebra_occiput]]: Proto-Semitic *pi/arḳ-at- ~ *pi/aḳr-at-, 'neck, vertebra, occiput': reflexes in 7 language(s).
 
@@ -277,6 +277,14 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/p/3138_to_look_observe|3138_to_look_observe]]: Proto-Semitic *pls, 'to look, observe': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/p/3172_to_destroy_to_split_separate|3172_to_destroy_to_split_separate]]: Proto-Semitic *pls, 'to destroy; to split, separate': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/p/3194_shoot|3194_shoot]]: Proto-Semitic *pirɣ-, 'shoot': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/p/3199_colocynth|3199_colocynth]]: Proto-Semitic *pVḳVʕ-, 'colocynth': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/p/3219_so_and_so|3219_so_and_so]]: Proto-Semitic *pulān-, 'so and so': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/p/321_flatten_forge_1_hammer_2|321_flatten_forge_1_hammer_2]]: Proto-Semitic *pVṭiš-, 'flatten, forge' 1, 'hammer' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/p/324_skin_v_1_scrape_tan_2_placenta_3|324_skin_v_1_scrape_tan_2_placenta_3]]: Proto-Semitic *paḳʾ-, 'skin' (v.) 1, 'scrape, tan' 2, 'placenta' 3: reflexes in 3 language(s).
@@ -297,7 +305,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/p/375_pure_gold|375_pure_gold]]: Proto-Semitic *piḏḏ-, 'pure gold': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/p/384_axe|384_axe]]: Proto-Semitic *paʾs-, 'axe': reflexes in 7 language(s).
+[[wiki/semitic-roots/p/384_axe|384_axe]]: Proto-Semitic *paʾs-, 'axe': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/p/387_axe|387_axe]]: Proto-Semitic *parāʕ-, 'axe': reflexes in 1 language(s).
 
@@ -335,7 +343,7 @@ updated: 2026-10-22T17:38:31Z
 
 [[wiki/semitic-roots/p/527_break|527_break]]: Proto-Semitic *pVṭaʾ-, 'break': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/p/529_divide_cut_in_two|529_divide_cut_in_two]]: Proto-Semitic *pVlu/ig-, 'divide, cut in two': reflexes in 14 language(s).
+[[wiki/semitic-roots/p/529_divide_cut_in_two_1_stream_channel_2|529_divide_cut_in_two_1_stream_channel_2]]: Proto-Semitic *pVlu/ig-, 'divide, cut in two' 1, 'stream, channel' 2: reflexes in 14 language(s).
 
 [[wiki/semitic-roots/p/560_break|560_break]]: Proto-Semitic *pVtVḳ-, dissim <*pVṭVḳ-, 'break': reflexes in 2 language(s).
 

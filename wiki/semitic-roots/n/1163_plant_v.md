@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Phoenician | nṭʿ (Krahmalkov 328) | Krahmalkov 328 | gloss withheld |
 | Hebrew | nṭʕ |  |  |
-| Epigraphic South Arabian | Sab nṭʿ (Biella 302) | Biella 302 | gloss withheld |
+| Epigraphic South Arabian | Sab nṭʿ (Biella 302); (Sabaweb lemma 2996) | Biella 302; Sabaweb lemma 2996 | gloss withheld |
 | Punic | nṭʿ 'plant' | Anderson–Moser 2024 root nṭʿ |  |
 | Amorite | nṭʿ: jānṭiʿ (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
 
