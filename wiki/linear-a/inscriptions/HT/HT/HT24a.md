@@ -71,7 +71,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Gubliya | section heading—the Byblian, (wool) of Byblos | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KI_MA_plus_RU_broken_end\|KI-MA+RU-&#91;]] |  | unread |  | unread |
 | MA+RU-ME | marūm | the wool (quantities 10 and 6; a third entry on .4 breaks after ME) | CANDIDATE |  |
-| [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] |  | second section heading — unresolved |  | unread |
+| [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] |  | second section heading, a gentilic in -iya. No reading. |  | unread |
 | RU-I-KO |  | proposed luʾīku 'sent, dispatched' (unconfirmed) |  |  |
 | MA+RU-\[ |  | unread |  |  |
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star304
 title: "*304"
-desc: "pidru(?): oil/fat-register commodity; possibly fat, lard, or tallow. Lexicon, CANDIDATE (tier 2)."
+desc: "pidru: oil/fat-register commodity; possibly fat, lard, or tallow. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "*304"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "pidru(?)"
+reading: "pidru"
 attestations: ["HT12", "HT14", "HT50a", "HT90", "HT91", "HT92", "HT100", "HT101", "HT116a", "HT116b", "HT125b", "HT127a", "HT129", "HT131a", "HT18", "HT21", "HT28a", "HT33", "HT41a", "HTWa1020", "HTWa1021bis", "HTWc3016", "HTWc3017", "HTWc3020", "KH7b", "KH8", "KH9", "KH12", "KH13", "KH37", "KH73", "KH85", "KNZg57a", "PH8a", "PH14a", "PH28b", "PYR2", "ZA6a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | pidru(?) |
+| Reading | pidru |
 | Meaning | oil/fat-register commodity; possibly fat, lard, or tallow |
 | Root | p-d-r |
 | Language layer | NWS |

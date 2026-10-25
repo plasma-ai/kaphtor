@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_KO_A_NE
 title: "A-KO-A-NE"
-desc: "ha-kōhēn?: the priest (proposed title after PI-TE-RI). Lexicon, CANDIDATE (tier 2)."
+desc: "ha-kōhēn: the priest (proposed title after PI-TE-RI). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "title"]
 kind: "word"
 form: "A-KO-A-NE"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.45
-reading: "ha-kōhēn?"
+reading: "ha-kōhēn"
 attestations: ["PKZa11"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ha-kōhēn? |
+| Reading | ha-kōhēn |
 | Meaning | the priest (proposed title after PI-TE-RI) |
 | Root | k-h-n |
 | Language layer | NWS |

@@ -47,10 +47,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star363_KE_MA_SE\|\*363-KE-MA-SE]] | Šakma-se | SPECULATIVE |
 | [[wiki/linear-a/words/star/star406VAS_plus_KE\|\*406VAS+KE]] | kās | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kakkaru | SPECULATIVE |
-| [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Pidi-kešḫi | CANDIDATE |
+| [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
+| [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōkēl | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | SPECULATIVE |
 
 <!-- END kaphtor:record -->

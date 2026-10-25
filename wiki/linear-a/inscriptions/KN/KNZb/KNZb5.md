@@ -52,15 +52,15 @@ Unicode (Linear A block):
 
 **no confidence given**, complete (status: complete).
 
-> From Turissa (Tylissos).
+> The Tylissian (jar).
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ʾa-Turis(s)i-ti | from Turissa/Tylissos | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | the Tylissian (f.) | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
-Whole-text CANDIDATE. The -TI reading here was reached independently of the HT104 paradigm.
+Whole-text CANDIDATE. A provenance label naming the jar's origin, as SU-KI-RI-TE-I-JA on HT Zb 158b.
 
 ### Source
 

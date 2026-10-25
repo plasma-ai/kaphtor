@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/586_announce
 title: "*bVŝVr-: 'announce'"
-desc: "Proto-Semitic *bVŝVr-, 'announce': reflexes in 14 language(s)."
+desc: "Proto-Semitic *bVŝVr-, 'announce': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "586"
@@ -44,6 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | bsr |  |  |
 | Soqotri | baššara (HALOT 163) | HALOT 163 |  |
 | Amorite | bśr: jibaśśir (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Aramaic | CPA bsr (DCPA 54 apud SEDonline 1312) | SEDonline 1312 | gloss withheld |
+| Jibbali | ōŝər (JL 29 apud SEDonline 1312) | JL 29; SEDonline 1312 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

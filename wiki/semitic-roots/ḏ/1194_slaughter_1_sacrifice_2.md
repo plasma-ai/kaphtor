@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | dbḥ 2 (CAL s.v. dbḥ) | CAL s.v. dbḥ |  |
 | Phoenician | zbḥ 1 |  |  |
 | Hebrew | zbḥ 2 |  |  |
-| Epigraphic South Arabian | ḏbḥ 1, 2 |  |  |
+| Epigraphic South Arabian | ḏbḥ 1, 2; the verb (H) (SD 38; Sabaweb lemma 4033), the noun (SD 38; Biella 91; Sabaweb lemma 2765) | SD 38; Sabaweb lemma 4033; SD 38; Biella 91; Sabaweb lemma 2765 | gloss withheld |
 | Aramaic | DBḤ (DNWSI 301 apud CAL) | DNWSI 301; CAL | gloss withheld |
 | Punic | zbḥ 'sacrifice' | Anderson–Moser 2024 root ḏbḥ |  |
 | Syrian Aramaic | debḥā (HALOT 262; Payne Smith 82) | HALOT 262; Payne Smith 82 |  |

@@ -66,14 +66,14 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> \[…\]KI-RO: MA-RE 1\[…\], \[…\]\*301 1, SI-RU 1, NE-KU\[…\], \[…\]TU 1\[…\], PI\[…\]. \[damaged\]
+> \[…\]KI-RO: MA-RE 1\[…\], \[…\]\*301 1, Ṣillu 1, NE-KU\[…\], \[…\]TU 1\[…\], PI\[…\]. \[damaged\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \]KI-RO |  | unread |  |  |
 | [[wiki/linear-a/words/M/MA_RE\|MA-RE]] | MA-RE | PN (unresolved); cf. MA-RU 1 (HT 117a) | SPECULATIVE | unread |
 | \]\*301 |  | unread |  |  |
-| [[wiki/linear-a/words/S/SI_RU\|SI-RU]] | SI-RU | PN Ṣillu, 'shade, protection' | SPECULATIVE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SI_RU\|SI-RU]] | Ṣillu | PN Ṣillu, 'shade, protection' | CANDIDATE | CANDIDATE (lexicon) |
 | NE-\[ |  | unread |  |  |
 | \]TU |  | unread |  |  |
 

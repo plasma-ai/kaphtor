@@ -56,7 +56,7 @@ DULAT s.v. kṯn (I); di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Kuṯinu? | roster label or entity (5 personnel) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Kuṯinu | personal name or roster label (5 personnel); compare the Ugaritic personal name kṯn | SPECULATIVE |
 
 ## Onomasticon
 

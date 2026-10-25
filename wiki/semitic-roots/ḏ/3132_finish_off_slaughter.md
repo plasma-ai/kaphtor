@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḏakkā, ḏakāh (Biella 94); ḏakāt (Lane 971) | Biella 94; Lane 971 |  |
-| Epigraphic South Arabian | Sab ḏkw (SD 38); (Biella 94) | SD 38; Biella 94 | gloss withheld |
+| Epigraphic South Arabian | Sab ḏkw (SD 38); (Biella 94); (Sabaweb lemma 2049) | SD 38; Biella 94; Sabaweb lemma 2049 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

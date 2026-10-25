@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṯ
 desc: "Semitic roots whose first radical is ṯ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ṯ
@@ -62,6 +62,16 @@ updated: 2026-10-24T15:25:56Z
 [[wiki/semitic-roots/ṯ/3100_to_wound|3100_to_wound]]: Proto-Semitic *ṯḥr, 'to wound': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṯ/3228_there|3228_there]]: Proto-Semitic *ṯamma, 'there': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ṯ/3300_cypress|3300_cypress]]: Proto-Semitic *ṯVrmīn-, 'cypress': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ṯ/3404_to_moo|3404_to_moo]]: Proto-Semitic *ṯby, 'to moo': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṯ/3405_dung_pellet|3405_dung_pellet]]: Proto-Semitic *ṯVfVr-at-, 'dung pellet': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṯ/3488_to_plunder_booty|3488_to_plunder_booty]]: Proto-Semitic *ṯll, 'to plunder; booty': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ṯ/3547_to_repeat_do_again|3547_to_repeat_do_again]]: Proto-Semitic *ṯny, 'to repeat, do again': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ṯ/484_march_proudly|484_march_proudly]]: Proto-Semitic *ṯVnVy-, 'march proudly': reflexes in 1 language(s).
 

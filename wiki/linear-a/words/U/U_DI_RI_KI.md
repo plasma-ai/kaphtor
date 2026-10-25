@@ -64,6 +64,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH7a\|PH7a]] | u-dirik | and the way/path | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/PH/PH/PH7a\|PH7a]] | u-dirik | and the way/path | CANDIDATE |
 
 <!-- END kaphtor:record -->

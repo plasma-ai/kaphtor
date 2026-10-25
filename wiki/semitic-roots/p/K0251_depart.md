@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | falasa 'depart' | Anderson–Moser 2024 root plš |  |
-| Epigraphic South Arabian | fls₃ (LGz. 160) | LGz. 160 | gloss withheld |
+| Epigraphic South Arabian | fls₃ (LGz. 160; Sabaweb lemma 4104) | LGz. 160; Sabaweb lemma 4104 | gloss withheld |
 | Tigre | fälsa (LGz. 160) | LGz. 160 | gloss withheld |
 | Tigrinya | fäläsä (LGz. 160) | LGz. 160 | gloss withheld |
 | Amharic | fälläsä (LGz. 160) | LGz. 160 | gloss withheld |

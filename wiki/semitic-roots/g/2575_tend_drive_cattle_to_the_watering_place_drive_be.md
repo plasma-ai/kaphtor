@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2575_tend_drive_cattle_to_the_watering_place_drive_be
 title: "*gwz 1, 2 ~ *gzʾ 3 ~ *gVzz- 4: 'tend, drive cattle to the watering-place; drive (beasts of burden)' 1, 'give money' 2, 'own, possess, govern' 3, 'cattle' 4"
-desc: "Proto-Semitic *gwz 1, 2 ~ *gzʾ 3 ~ *gVzz- 4, 'tend, drive cattle to the watering-place; drive (beasts of burden)' 1, 'give money' 2, 'own, possess, govern' 3, 'cattle' 4: reflexes in 10 language(s)."
+desc: "Proto-Semitic *gwz 1, 2 ~ *gzʾ 3 ~ *gVzz- 4, 'tend, drive cattle to the watering-place; drive (beasts of burden)' 1, 'give money' 2, 'own, possess, govern' 3, 'cattle' 4: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2575"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | gäzza, gīzi LGur 305 | LGur 305 | gloss withheld |
 | Tigrinya | gäzʔa |  | gloss withheld |
 | Epigraphic South Arabian | Sab gwz (SD 51; Biella 67) | SD 51; Biella 67 | gloss withheld |
+| Geez | gazʔa (Kogan 2015, ch. 7 §4.2 no. 6) | Kogan 2015, ch. 7 §4.2 no. 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

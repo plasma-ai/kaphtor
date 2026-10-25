@@ -64,7 +64,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ʾikkār? | recipient in grain and commodity lists; 'farmer' comparison only |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ʾikkār | farmer, plowman (recipient in grain and commodity lists) | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | ʾikkār | farmer(s): 5 | SPECULATIVE |
 
 ## Onomasticon
@@ -85,6 +85,6 @@ Short, foll numeral/ideogram.
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r)?, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī?, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r), [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʿrn (SD 19) | SD 19 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿrn (SD 19; Sabaweb lemma 3825) | SD 19; Sabaweb lemma 3825 | gloss withheld |
 | Arabic | Ar ʿarīn 'thicket, dense wood' (Lane 2027) | Lane 2027 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

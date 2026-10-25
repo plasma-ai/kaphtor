@@ -36,6 +36,26 @@ Run from the repository root.
 - The project's own readings and notes are attributed to "di Mino".
 - Cite a closed source by siglum and page, in your own words.
 
+## Method: compound names
+
+To find names in `data/linear-a/onomasticon.json` that split like DA-MI-NU (ḏā "he of" + MI-NU):
+
+1. Take names of 3+ signs with no reading or no root; split each at every sign boundary and count each part alone
+   and inside other words in `corpus.json`.
+2. Keep a split when both parts recur, or one part is a known morpheme: DA/DU/DI ḏā/ḏū/ḏī "he of", JA-/I- prefix,
+   A- 1cs, -JA hypocoristic, -TE/-TI feminine, or a theonym (A-DU, NA-SI, MI-NU).
+3. Rank by the tablet's company (the same list or heading slot as a read compound), twin spellings, and a
+   sign-for-sign match in a name catalogue (Gelb AS 21 by name number, Huffmon, NPN, DULAT, Pagan's Ebla names),
+   for each part or for the whole name word for word (Ebla i-du na-sa yidu-naḥša for I-DU-NE-SI).
+4. Give each part its root and meaning under every parse. The lexicon entry carries the root, its
+   `semitic_roots.json` id, one to three spelling analogs and the rivals, never the full reflex set.
+5. Read a tail as a title when a source writes name + title (Minaean lwʾtn S¹lmy "the priestess Salmay" for
+   TI-MA-RU-WI-TE Tīmar-lēwīt). A coda may go unwritten at the join: the r of Tīmar before the l of lēwīt.
+6. A catalogue's own spelling licenses a sign value: Gelb writes ṭaybatum DA-BA-TUM, so DA writes ṭ in DA-I-PI-TA.
+7. Vocalize the reading as spoken, gemination and length restored: Ṭayyibat, not Ṭaybat.
+8. Confirm every cited form against its catalogue row or page image, an agent's citations included, before it
+   enters the data.
+
 ## Boundaries
 
 - **Always:** run the gate before opening a pull request; start a bug fix with a test that reproduces it, and show a

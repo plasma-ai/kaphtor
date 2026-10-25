@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["*131B", "A-MI-TA", "DU", "KA-KU-NE-TE", "MA-KI-DE-TE", "PA-JA-RE", "SA-MA", "TAMIR", "U-*49"]
+words: ["*131B", "A-MI-TA", "DU", "KA-KU-NE-TE", "MA-KI-DE-TE", "MA-ZA", "PA-JA-RE", "SA-MA", "TAMIR", "U-*49"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -97,6 +97,6 @@ di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/A/A_MI_TA|A-MI-TA]], [[wiki/linear-a/words/D/DU|DU]], [[wiki/linear-a/words/K/KA_KU_NE_TE|KA-KU-NE-TE]], [[wiki/linear-a/words/M/MA_KI_DE_TE|MA-KI-DE-TE]], [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]], [[wiki/linear-a/words/S/SA_MA|SA-MA]], [[wiki/linear-a/words/T/TAMIR|TAMIR]], [[wiki/linear-a/words/U/U_star49|U-\*49]].
+[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/A/A_MI_TA|A-MI-TA]], [[wiki/linear-a/words/D/DU|DU]], [[wiki/linear-a/words/K/KA_KU_NE_TE|KA-KU-NE-TE]], [[wiki/linear-a/words/M/MA_KI_DE_TE|MA-KI-DE-TE]], [[wiki/linear-a/words/M/MA_ZA|MA-ZA]], [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]], [[wiki/linear-a/words/S/SA_MA|SA-MA]], [[wiki/linear-a/words/T/TAMIR|TAMIR]], [[wiki/linear-a/words/U/U_star49|U-\*49]].
 
 <!-- END kaphtor:record -->

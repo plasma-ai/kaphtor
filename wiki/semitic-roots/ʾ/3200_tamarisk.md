@@ -31,7 +31,7 @@ updated: 2026-10-24T15:25:56Z
 |---|---|---|---|
 | Hebrew | ʾēšäl (Kogan 2011, 202) | Kogan 2011, 202 |  |
 | Arabic | ʾaṯl- (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Epigraphic South Arabian | Sab ʾṯl (Kogan 2011, 202) | Kogan 2011, 202 |  |
+| Epigraphic South Arabian | Sab ʾṯl (Kogan 2011, 202); (Sabaweb lemma 3063) | Kogan 2011, 202; Sabaweb lemma 3063 | gloss withheld |
 | Mehri | ḥōṯəl (Kogan 2011, 202) | Kogan 2011, 202 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/K0256_entrust_trust
 title: "*paqād-: 'entrust', 'trust'"
-desc: "Proto-Semitic *paqād-, 'entrust', 'trust': reflexes in 7 language(s)."
+desc: "Proto-Semitic *paqād-, 'entrust', 'trust': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0256"
@@ -36,6 +36,15 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | pqd 'command' | Anderson–Moser 2024 root pqd |  |
 | Arabic | faqada (HALOT 955) | HALOT 955 | gloss withheld |
 | Syrian Aramaic | pqad 'visit, inspect; command, order' (Payne Smith 454) | Payne Smith 454 |  |
+| Phoenician | pḳd (DNWSI 932 apud SEDonline 1823) | DNWSI 932; SEDonline 1823 | gloss withheld |
+| Judaic Aramaic | JPA pḳd (DJPA 442 apud SEDonline 1823); JBA pḳd (DJBA 924 apud SEDonline 1823) | DJPA 442; SEDonline 1823; DJBA 924; SEDonline 1823 | gloss withheld |
+| Mandaic Aramaic | pḳd (MD 376 apud SEDonline 1823) | MD 376; SEDonline 1823 | gloss withheld |
+| Epigraphic South Arabian | Sab. fḳd (SD 45 apud SEDonline 1823) | SD 45; SEDonline 1823 | gloss withheld |
+| Geez | faḳada (CDG 163, LLA 1360 apud SEDonline 1823) | CDG 163, LLA 1360; SEDonline 1823 | gloss withheld |
+| Tigrinya | fäḳädä (TED 2300 apud SEDonline 1823) | TED 2300; SEDonline 1823 | gloss withheld |
+| Amharic | fäḳḳädä (AED 2300 apud SEDonline 1823) | AED 2300; SEDonline 1823 | gloss withheld |
+| Harari | fāḳädä, täfāḳädä (EDH 63 apud SEDonline 1823) | EDH 63; SEDonline 1823 | gloss withheld |
+| Mehri | fəḳáwd (ML 91 apud SEDonline 1823) | ML 91; SEDonline 1823 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

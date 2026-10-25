@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Aramaic | HDY (CAL s.v. hdy) | CAL s.v. hdy | gloss withheld |
 | Hebrew | hadah 'stretch' | Anderson–Moser 2024 root hdy |  |
-| Epigraphic South Arabian | Sab hdy (SD 55; Biella 105) | SD 55; Biella 105 | gloss withheld |
+| Epigraphic South Arabian | Sab hdy (SD 55; Biella 105; Sabaweb lemma 4216) | SD 55; Biella 105; Sabaweb lemma 4216 | gloss withheld |
 | Syrian Aramaic | hdā 'lead, direct; follow' (Payne Smith 100) | Payne Smith 100 |  |
 | Pre-Islamic North Arabian | Safaitic hdy (Al-Jallad–Jaworska 77) | Al-Jallad–Jaworska 77 | gloss withheld |
 

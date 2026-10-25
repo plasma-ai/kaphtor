@@ -64,7 +64,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] |  | administrative heading (unread; -JA may be adjectival or gentilic) |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | kikkarāya | (men) of the Kikkar, 'round district' (gentilic heading) | SPECULATIVE |
 
 ## Onomasticon
 

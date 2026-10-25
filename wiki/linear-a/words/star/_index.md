@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:37Z
 ---
 
 # wiki/linear-a/words/star
@@ -21,7 +21,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/star/star188_DU_SE|star188_DU_SE]]: Unread (edge overlap): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star188_star308|star188_star308]]: buṭnu šamni(?): processed Pistacia/terebinth product, perhaps oil. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star188_star308|star188_star308]]: buṭnu šamni: processed Pistacia/terebinth product, perhaps oil. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star188_star86|star188_star86]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -51,9 +51,9 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/star/star301_star301|star301_star301]]: Unread (role only): personal name; 2 occurrence(s).
 
-[[wiki/linear-a/words/star/star304|star304]]: pidru(?): oil/fat-register commodity; possibly fat, lard, or tallow. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star304|star304]]: pidru: oil/fat-register commodity; possibly fat, lard, or tallow. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star304_plus_PA|star304_plus_PA]]: pidru(?) + PA: *304 oil/fat-register commodity with PA adjunct; exact commodity and function of PA uncertain. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star304_plus_PA|star304_plus_PA]]: pidru + PA: *304 oil/fat-register commodity with PA adjunct; exact commodity and function of PA uncertain. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star304_plus_PA_DA_star47_KU|star304_plus_PA_DA_star47_KU]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -123,7 +123,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/star/star327|star327]]: personnel-class logogram, counted beside VIR (men); class unknown. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star327_JU|star327_JU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/star/star327_JU|star327_JU]]: Unread (role only): personnel entry, logogram with JU; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star328_E|star328_E]]: Onomasticon personal name, no reading.
 
@@ -137,7 +137,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/star/star355_E_star354|star355_E_star354]]: Unread (edge overlap): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star363_KE_MA_SE|star363_KE_MA_SE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/star/star363_KE_MA_SE|star363_KE_MA_SE]]: Šakma-se: the one of Šakmu (Shechem) (gentilic in -SE on the toponym). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star401|star401]]: ruqqû: aromatic preparation, compounded ointment—commodity ideogram for perfumed/refined oil products. Lexicon, PROBABLE (tier 3).
 
@@ -153,7 +153,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/star/star47_NU_RA_JA|star47_NU_RA_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star516|star516]]: šipru?: transaction/account marker; possible account or register logogram. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/star/star516|star516]]: šipru: transaction/account marker; possible account or register logogram. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/star/star539_star118|star539_star118]]: Unread (role only): personal name; 1 occurrence(s).
 

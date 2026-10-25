@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-ZU-NI", "PA₃-NI", "U-*325-ZA"]
+words: ["A-DU", "A-DU *307+*307", "DA-RE", "DA-RI-DA", "DA-SI-*118", "KU-ZU-NI", "PA₃-NI", "TE-KE", "U-*325-ZA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; DA-SI-\*118 24; KU-ZU-NI 5; TE-KE 3; dwelling/estate 4. Total 66.
+> Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; Dasiṭa 24; Kuṯinu 5; Tegi 3; dwelling/estate 4. Total 66.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | personal name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | builder(s) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs | stall or storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Dasiṭa? | roster unit (24 men) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu? | roster label or entity (5 personnel) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/T/TE_KE\|TE-KE]] |  | roster entry (unread) |  | unread |
+| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Dasiṭa | roster unit (24 men) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | personal name or roster label (5 personnel); compare the Ugaritic personal name kṯn | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | personal name; Hurrian tegi 'beautiful' (spelling of TE-KI) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dāru | dwelling or estate (administrative unit) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |
 
@@ -94,7 +94,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]].
+[[wiki/linear-a/words/A/A_DU|A-DU]], [[wiki/linear-a/words/A/A_DU_star307_plus_star307|A-DU \*307+\*307]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/D/DA_RI_DA|DA-RI-DA]], [[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/K/KU_ZU_NI|KU-ZU-NI]], [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]], [[wiki/linear-a/words/T/TE_KE|TE-KE]], [[wiki/linear-a/words/U/U_star325_ZA|U-\*325-ZA]].
 
 ## Corpus note
 

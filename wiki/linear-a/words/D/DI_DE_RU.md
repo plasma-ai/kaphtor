@@ -88,6 +88,6 @@ Reading from the lexicon (di Mino).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû(?), [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu.
 
 <!-- END kaphtor:record -->

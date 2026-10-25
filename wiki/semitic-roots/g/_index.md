@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/g
 desc: "Semitic roots whose first radical is g."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/g
@@ -51,7 +51,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/g/1374_fire_deity_of_fire|1374_fire_deity_of_fire]]: Proto-Semitic *gir-, 'fire, deity of fire': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/g/1375_live_1_be_close_by_2|1375_live_1_be_close_by_2]]: Proto-Semitic *gVwVr-, 'live' 1, 'be close by' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/g/1375_live_1_be_close_by_2|1375_live_1_be_close_by_2]]: Proto-Semitic *gVwVr-, 'live' 1, 'be close by' 2: reflexes in 7 language(s).
 
 [[wiki/semitic-roots/g/1376_go_around_1_roll_2_go_in_circles_3_round_adj_4|1376_go_around_1_roll_2_go_in_circles_3_round_adj_4]]: Proto-Semitic *gʷVlVl-, 'go around' 1, 'roll' 2, 'go in circles' 3, 'round' adj. 4: reflexes in 6 language(s).
 
@@ -251,7 +251,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/g/2571_to_grow_grow_big|2571_to_grow_grow_big]]: Proto-Semitic *gdr, 'to grow, grow big': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/g/2575_tend_drive_cattle_to_the_watering_place_drive_be|2575_tend_drive_cattle_to_the_watering_place_drive_be]]: Proto-Semitic *gwz 1, 2 ~ *gzʾ 3 ~ *gVzz- 4, 'tend, drive cattle to the watering-place; drive (beasts of burden)' 1, 'give money' 2, 'own, possess, govern' 3, 'cattle' 4: reflexes in 10 language(s).
+[[wiki/semitic-roots/g/2575_tend_drive_cattle_to_the_watering_place_drive_be|2575_tend_drive_cattle_to_the_watering_place_drive_be]]: Proto-Semitic *gwz 1, 2 ~ *gzʾ 3 ~ *gVzz- 4, 'tend, drive cattle to the watering-place; drive (beasts of burden)' 1, 'give money' 2, 'own, possess, govern' 3, 'cattle' 4: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/g/2576_to_herd_tend_cattle_1_pasture_2_produce_plants_s|2576_to_herd_tend_cattle_1_pasture_2_produce_plants_s]]: Proto-Semitic *gyŝ-/*gŝy ~ *gVŝiŝ- ~ *gŝʾ, 'to herd, tend cattle' 1, 'pasture' 2, 'produce plants (soil); emigrate (tribe)' 3: reflexes in 4 language(s).
 
@@ -331,6 +331,38 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/g/3242_threshing_floor|3242_threshing_floor]]: Proto-Semitic *gurn-, 'threshing floor': reflexes in 5 language(s).
 
+[[wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune|3243_to_be_lucky_fortunate_luck_fortune]]: Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/g/3267_to_gather_fruit_garden_crop|3267_to_gather_fruit_garden_crop]]: Proto-Semitic *gny, 'to gather fruit; garden crop': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3310_valley_depression|3310_valley_depression]]: Proto-Semitic *gVy-, 'valley, depression': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/g/3333_people|3333_people]]: Proto-Semitic *gaw-, 'people': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3351_to_fall|3351_to_fall]]: Proto-Semitic *gʕr, 'to fall': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3352_plain_valley|3352_plain_valley]]: Proto-Semitic *gāḥiy-, 'plain, valley': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3353_to_be_ill|3353_to_be_ill]]: Proto-Semitic *glw, 'to be ill': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3354_skink|3354_skink]]: Proto-Semitic *gamš-, 'skink': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3355_stuffed_skin|3355_stuffed_skin]]: Proto-Semitic *gVpan-, 'stuffed skin': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3438_to_be_massive_solid_to_form_create|3438_to_be_massive_solid_to_form_create]]: Proto-Semitic *gbl, 'to be massive, solid; to form, create': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3490_to_be_hungry_hunger|3490_to_be_hungry_hunger]]: Proto-Semitic *gwʕ, 'to be hungry; hunger': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3497_to_protect_shield|3497_to_protect_shield]]: Proto-Semitic *gwb, 'to protect; shield': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3525_tower|3525_tower]]: Proto-Semitic *gdl, 'tower': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/g/3529_to_take_away_carry_off|3529_to_take_away_carry_off]]: Proto-Semitic *gḥf, 'to take away, carry off': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3530_to_burn_burning_charcoal|3530_to_burn_burning_charcoal]]: Proto-Semitic *gḥl, 'to burn; burning charcoal': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3533_to_cut_off|3533_to_cut_off]]: Proto-Semitic *grm, 'to cut off': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/g/392_jubba_kind_of_clothes|392_jubba_kind_of_clothes]]: Proto-Semitic *gubb-, 'jubba, kind of clothes': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/394_jilbab_k_of_clothes|394_jilbab_k_of_clothes]]: Proto-Semitic *gilb-āb-, 'jilbab' (k. of clothes): reflexes in 1 language(s).
@@ -353,7 +385,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/g/578_cut_hair|578_cut_hair]]: Proto-Semitic *gVrVʕ-, 'cut (hair)': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/g/58_collect_tribesmen_for_battle_or_help_to_collect|58_collect_tribesmen_for_battle_or_help_to_collect]]: Proto-Semitic *gyŝ ~ *ngŝ, 'collect tribesmen for battle or help' ~ 'to collect tribute; to rule': reflexes in 13 language(s).
+[[wiki/semitic-roots/g/58_collect_tribesmen_for_battle_or_help_to_collect|58_collect_tribesmen_for_battle_or_help_to_collect]]: Proto-Semitic *gyŝ ~ *ngŝ, 'collect tribesmen for battle or help' ~ 'to collect tribute; to rule': reflexes in 14 language(s).
 
 [[wiki/semitic-roots/g/607_roar_scream|607_roar_scream]]: Proto-Semitic *gVʕ/ʾVy-, 'roar, scream': reflexes in 4 language(s).
 
@@ -421,7 +453,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/g/SA021_reduce_to_submission|SA021_reduce_to_submission]]: Epigraphic South Arabian headword *gbʾ, 'reduce to submission': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/SA022_go_just_before_dawn|SA022_go_just_before_dawn]]: Epigraphic South Arabian headword *ghm, 'go just before dawn': reflexes in 2 language(s).
+[[wiki/semitic-roots/g/SA022_go_just_before_dawn|SA022_go_just_before_dawn]]: Epigraphic South Arabian headword *ghm, 'go just before dawn': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/SA023_storeroom|SA023_storeroom]]: Epigraphic South Arabian headword *gnz, 'storeroom': reflexes in 1 language(s).
 

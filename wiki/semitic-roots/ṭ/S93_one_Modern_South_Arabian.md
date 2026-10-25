@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/S93_one_Modern_South_Arabian
 title: "*ṭd: 'one (Modern South Arabian)'"
-desc: "Proto-Semitic *ṭd, 'one (Modern South Arabian)': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṭd, 'one (Modern South Arabian)': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S93"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | ṭāṭ (OLA80 §35.3d) | OLA80 §35.3d |  |
 | Soqotri | ṭad (LS 199; SLOnline 27917) | LS 199 | gloss withheld |
+| Jibbali | ṭad (JL 274 apud SEDonline 411) | JL 274; SEDonline 411 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

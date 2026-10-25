@@ -45,7 +45,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qart- | CANDIDATE |
 | [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Setoiya | PROBABLE |
-| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar?/Tamar? | CANDIDATE |
+| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar/Tamar | CANDIDATE |
 | [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tamir | CANDIDATE |
 
 <!-- END kaphtor:record -->

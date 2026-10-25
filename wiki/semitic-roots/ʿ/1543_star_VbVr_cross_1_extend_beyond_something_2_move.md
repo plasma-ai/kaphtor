@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʿbr (Krahmalkov 359) | Krahmalkov 359 | gloss withheld |
 | Jibbali | ʕɔ̄r 1, 6 (caus. aʕbér) JJ 6 | JJ 6 |  |
 | Hebrew | ʕbr 3, ʕäbär 5 |  |  |
-| Epigraphic South Arabian | ʕbr 1 |  |  |
+| Epigraphic South Arabian | ʕbr 1 (Sabaweb lemma 3313) | Sabaweb lemma 3313 | gloss withheld |
 | Syrian Aramaic | ʕbr 1, 4 (Payne Smith 398) | Payne Smith 398 |  |
 | Judaic Aramaic | ʿibrā (HALOT 781) | HALOT 781 | gloss withheld |
 | Modern Arabic | E. Yem. ʿabr (Biella 350) | Biella 350 |  |

@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | emyét \[JJ 176\]; mít \[ibid.\] | JJ 176; ibid. | gloss withheld |
 | Hebrew | mwt (HALOT 562) | HALOT 562 |  |
 | Amharic | motä \[K 304\] | K 304 |  |
-| Epigraphic South Arabian | SAB mwt \[SD 89\] | SD 89 |  |
+| Epigraphic South Arabian | SAB mwt \[SD 89; Sabaweb lemma 2281\] | SD 89; Sabaweb lemma 2281 | gloss withheld |
 | Judaic Aramaic | mwt, myt \[Ja 780\]; \[DJPA 297a apud CAL\] | Ja 780; DJPA 297a; CAL |  |
 | Syrian Aramaic | mīt \[Brock 378\] | Brock 378 |  |
 | Aramaic | SAM OLD OFF NAB PLM HTR mwt/myt \[HJ 605-6\] | HJ 605-6 |  |

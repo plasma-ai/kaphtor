@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/OLE_plus_KI
 title: "OLE+KI"
-desc: "kīnu?: oil subtype; perhaps standard or genuine-grade oil. Lexicon, CANDIDATE (tier 2)."
+desc: "kīnu: oil subtype; perhaps standard or genuine-grade oil. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "OLE+KI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.45
-reading: "kīnu?"
+reading: "kīnu"
 attestations: ["HT8a", "HT18", "HT28a", "HT42+59", "HT44a", "HT50a", "HT50b", "HT56b", "HT91", "HT101", "HT116a", "HT125a", "HT129", "HT140", "TY3a", "TY3b", "ZA18a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | kīnu? |
+| Reading | kīnu |
 | Meaning | oil subtype; perhaps standard or genuine-grade oil |
 | Root | k-w-n |
 | Language layer | NWS |

@@ -8,9 +8,9 @@ created: 2026-10-22T18:14:10Z
 updated: 2026-10-22T18:14:10Z
 ---
 
-`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 3,867 records with 19,364 reflexes.
+`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 4,177 records with 20,658 reflexes.
 Most reconstructions and meanings come from the Semitic Etymological Dictionary; `sed` cites the SEDonline entry
-(2,487 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
+(2,485 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
 reconstructions.
 
 | Field | Content |
@@ -35,23 +35,23 @@ Each reflex:
 | `gloss_withheld` | true when the source's quoted gloss was taken out of `text` |
 | `text_withheld` | true when the cell was the source's prose; only `lang` and `cite` are given |
 
-A reflex keeps its quoted gloss only when its cited source is `open` (3,310 reflexes: Biberstein-Kazimirski,
+A reflex keeps its quoted gloss only when its cited source is `open` (3,391 reflexes: Biberstein-Kazimirski,
 Lane, Payne Smith, Brockelmann, Jastrow, Freytag, BDB, the Aramaic Root Atlas,
 Anderson and Moser's *Protosemitic Root Derivations* and others). Other reflexes give the form and its citation, with
 any quoted gloss taken out; a source's commentary after the forms is not included. Notes are the project's own; notes
 taken from SED are not included.
 
-859 reflexes, most of them in the K series, come from Anderson and Moser 2024, *Protosemitic
+856 reflexes, most of them in the K series, come from Anderson and Moser 2024, *Protosemitic
 Root Derivations* (Zenodo, doi:10.5281/zenodo.14160276, CC BY 4.0), and cite it as `{siglum: "Anderson–Moser 2024",
 loc: "root …"}`.
 
 | `source_class` | Reflexes |
 | --- | --- |
-| closed | 11,296 |
-| none | 3,351 |
-| open | 3,310 |
-| mixed | 847 |
-| unknown | 560 |
+| closed | 12,279 |
+| open | 3,391 |
+| none | 3,316 |
+| mixed | 997 |
+| unknown | 675 |
 
 `semitic_correspondences.json` is the consonant correspondence table (Huehnergard 2019, Table 3.2, p. 51): for
 each Proto-Semitic consonant, its reflex in Akkadian, Ugaritic, Hebrew, Aramaic, Arabic, Sabaic, Gəʿəz and Mehri

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA3
 title: "PA₃"
-desc: "b(i)=; bād(i)?: in, with, by; on HT103 perhaps administrative ‘in the charge of’. Lexicon, CANDIDATE (tier 2)."
+desc: "b(i)=; bād(i): in, with, by; on HT103 perhaps administrative ‘in the charge of’. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "vocabulary"]
 kind: "word"
 form: "PA₃"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "b(i)=; bād(i)?"
+reading: "b(i)=; bād(i)"
 attestations: ["PH6", "HT103"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | b(i)=; bād(i)? |
+| Reading | b(i)=; bād(i) |
 | Meaning | in, with, by; on HT103 perhaps administrative ‘in the charge of’ |
 | Root | b |
 | Language layer | NWS |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:37Z
 ---
 
 # wiki/linear-a/words/K
@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/K/KA_JE|KA_JE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KA_JU|KA_JU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_JU|KA_JU]]: kallû: messenger, courier (title). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_KI|KA_KI]]: Unread (role only): personal name; 2 occurrence(s).
 
@@ -47,7 +47,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/K/KA_NU_TI|KA_NU_TI]]: kanuti / ganuti: emmer (cereal grain). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r)?: entity, institution, or settlement; perhaps village. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): entity, institution, or settlement; perhaps village. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KA_PA_QE|KA_PA_QE]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -117,7 +117,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/K/KI_NU|KI_NU]]: Kīnu: personal name: 'the Just/True One' — Akkadian kīnu 'true, reliable, just'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KI_RA|KI_RA]]: kirû?/qīra?: possibly garden/orchard; alternatively liquid bitumen. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KI_RA|KI_RA]]: kirû/qīra: possibly garden/orchard; alternatively liquid bitumen. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KI_RE_TA2|KI_RE_TA2]]: Kirēta / Kret: Kret (eponym of Crete). Lexicon, PROBABLE (tier 3).
 
@@ -153,7 +153,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/K/KO_E|KO_E]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KO_JA|KO_JA]]: Qōya / Quya?: personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong'). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KO_JA|KO_JA]]: Qōya / Quya: personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KO_MU|KO_MU]]: kummu: cella, inner sanctuary. Lexicon, SPECULATIVE (tier 1).
 
@@ -203,7 +203,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/K/KU_RA|KU_RA]]: Unread (unread): no role; 2 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_RA_MU|KU_RA_MU]]: kurmu: vineyard. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KU_RA_MU|KU_RA_MU]]: Kurmu: personal name, 'Vineyard' (√k-r-m). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KU_RE|KU_RE]]: Unread (role only): personal name; 2 occurrence(s).
 

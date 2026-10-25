@@ -96,6 +96,6 @@ Reading from the lexicon (di Mino).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû(?), [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, DE-ME-TE, [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]] Kakkaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, DE-ME-TE, [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]] Kakkaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
 
 <!-- END kaphtor:record -->

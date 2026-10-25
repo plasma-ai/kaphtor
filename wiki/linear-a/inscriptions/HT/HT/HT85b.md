@@ -74,11 +74,11 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete (status: complete).
 
-> KI-KI-RA-JA roster: Kret(a) 1; QE-KA 1; PA 1; TE-TU-\[…\] 1; KA 1; DI 1; ME-ZA 1; RE-DI-SE 1; WA-DU-NI-MI 1; MA-DI 1; smith or administrator(?) 1.
+> Men of the Kikkar (KI-KI-RA-JA): Kret(a) 1; QE-KA 1; PA 1; TE-TU-\[…\] 1; KA 1; DI 1; ME-ZA 1; RE-DI-SE 1; WA-DU-NI-MI 1; MA-DI 1; smith or administrator(?) 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]] |  | administrative heading (unread; -JA may be adjectival or gentilic) |  | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]] | kikkarāya | (men) of the Kikkar, 'round district' (gentilic heading) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kret(a) | Crete or Cretan | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_KA\|QE-KA]] |  | administrative roster label (unread) |  | unread |
 | [[wiki/linear-a/words/P/PA\|PA]] |  | roster category logogram (unread) |  | CANDIDATE (lexicon) |

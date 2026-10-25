@@ -50,6 +50,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Homonym rwḥ II 'to be wide, spacious': Hebrew rāwaḥ 'to be wide, spacious', rēwaḥ 'space, relief'; Syriac rəwaḥ, rāḥ 'be wide', rəwāḥā, rəwaḥtā 'space, relief' (HALOT 1195, 1197, 1201); Aramaic \*rwḥ, Punic rwḥ, Tigrinya rayaḥa (HALOT 1195); Mandaic RWH, RHA, ruaha (HALOT 1195, 1201); Judaic Aramaic rəwāḥā 'space' (HALOT 1197); Arabic rāḥa 'to go, depart; rest' (Lane 1177).
+Homonym: 3496 \*rwḥ 'to be wide, spacious; relief'. Arabic rāḥa 'to go, depart; rest' (Lane 1177) is of this root (HALOT 1196).
 
 <!-- END kaphtor:record -->

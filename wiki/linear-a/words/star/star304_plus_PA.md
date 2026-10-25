@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star304_plus_PA
 title: "*304+PA"
-desc: "pidru(?) + PA: *304 oil/fat-register commodity with PA adjunct; exact commodity and function of PA uncertain. Lexicon, CANDIDATE (tier 2)."
+desc: "pidru + PA: *304 oil/fat-register commodity with PA adjunct; exact commodity and function of PA uncertain. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "*304+PA"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "pidru(?) + PA"
+reading: "pidru + PA"
 attestations: ["HT100", "KH7b", "KH73", "HTWa1020", "HTWa1021bis", "HTWc3016", "HTWc3017"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | pidru(?) + PA |
+| Reading | pidru + PA |
 | Meaning | \*304 oil/fat-register commodity with PA adjunct; exact commodity and function of PA uncertain |
 | Root | p-d-r |
 | Language layer | NWS |

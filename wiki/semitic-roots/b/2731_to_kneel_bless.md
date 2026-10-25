@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | bārəko(t) (OLA80 §42.11) | OLA80 §42.11 | gloss withheld |
 | Syrian Aramaic | bᵉrak (HALOT 159) | HALOT 159 |  |
 | Tigre | barka (HALOT 159) | HALOT 159 |  |
-| Epigraphic South Arabian | brk (HALOT 159) | HALOT 159 |  |
+| Epigraphic South Arabian | brk (HALOT 159; Sabaweb lemma 3969) | HALOT 159; Sabaweb lemma 3969 | gloss withheld |
 | Punic | ybarku (HALOT 159) | HALOT 159 |  |
 | Argobba | (əm)bäräkkäka (LGz. 105) | LGz. 105 | gloss withheld |
 | Gafat | (tän)birräkä (LGz. 105) | LGz. 105 | gloss withheld |

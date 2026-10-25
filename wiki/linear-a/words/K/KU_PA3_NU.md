@@ -105,6 +105,6 @@ Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted 
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû(?), [[wiki/linear-a/words/A/A_RA_NA_RE|A-RA-NA-RE]] Aranare, KI, [[wiki/linear-a/words/K/KI_DA_RO|KI-DA-RO]] Qidaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/M/MA_KA_RI_TE|MA-KA-RI-TE]] makkārītu, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/A/A_RA_NA_RE|A-RA-NA-RE]] Aranare, KI, [[wiki/linear-a/words/K/KI_DA_RO|KI-DA-RO]] Qidaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/M/MA_KA_RI_TE|MA-KA-RI-TE]] makkārītu, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
 
 <!-- END kaphtor:record -->

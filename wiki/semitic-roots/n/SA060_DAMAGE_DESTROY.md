@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ngz (SD 94; Biella 292) | SD 94; Biella 292 | gloss withheld |
+| Epigraphic South Arabian | Sab ngz (SD 94; Biella 292); (Sabaweb lemma 4627) | SD 94; Biella 292; Sabaweb lemma 4627 | gloss withheld |
 | Arabic | Ar najaza (Biella 292) | Biella 292 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

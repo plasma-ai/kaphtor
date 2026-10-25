@@ -1,12 +1,16 @@
 ---
 name: wiki/linear-a/words/A/A_SE_JA
 title: "A-SE-JA"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "ʾaššē-ya: (portion) of the fire offering (-iya derivative of A-SE). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "ritual"]
 kind: "word"
 form: "A-SE-JA"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["lexicon"]
 attestations: ["HT115a"]
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "ʾaššē-ya"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -21,32 +25,38 @@ updated: 2026-10-24T16:17:50Z
 
 **Signs.** [[wiki/linear-a/signs/syllabic/A|A]] · [[wiki/linear-a/signs/syllabic/SE|SE]] · [[wiki/linear-a/signs/syllabic/JA|JA]]
 
+## Lexicon
+
+**SPECULATIVE**, tier 1 of 4, score 0.30
+
+| Field | Value |
+|---|---|
+| Reading | ʾaššē-ya |
+| Meaning | (portion) of the fire offering (-iya derivative of A-SE) |
+| Root | ʾ-š-š |
+| Language layer | NWS |
+| Category | ritual |
+| Semantic field | ritual |
+
+### Note
+
+HT 115a .4 A-SE-JA with four fraction signs, whole and undotted, after PA-RA-NE 1, on a palimpsest whose heading carries GRA+BOSm (GORILA I 189). The base A-SE ʾaššē opens grain and commodity entries on HT 81, HT 93a and HT 132; -JA forms the derivative as in PA-SE / PA-SE-JA. Rivals: the Nuzi name Aziya, A-zi-ia (Gelb, Purves, and MacRae 1943, 41); the Ugaritic name ùsy (DULAT 111).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Proto-Semitic | \*ʾišs- 'fire' (semitic_roots no. 812) |
+| Hebrew | ʾiššeh אִשֶּׁה 'fire offering' (Lev 1:9); ʾēš 'fire' |
+
+### Source
+
+di Mino
+
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
-
-## Onomasticon
-
-| Field | Value |
-|---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
-| Entry | auto |
-| Occurrences | 1 in 1 documents |
-| Sites | Haghia Triada |
-| Supports | Tablet 1 |
-
-### Co-occurring lexicon words
-
-Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star301_U_RA|\*301-U-RA]] naura.
-
-## Unread
-
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
-
-HT 115a .4 A-SE-JA with four fraction signs, whole and undotted, after PA-RA-NE 1̣, on a palimpsest (GORILA I 189). No reading.
 
 <!-- END kaphtor:record -->

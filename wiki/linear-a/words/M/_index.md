@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:37Z
 ---
 
 # wiki/linear-a/words/M
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/M/MA_RI_TA2|MA_RI_TA2]]: marʾ(i)tā: the Lady (divine title; personal-name element). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_RU|MA_RU]]: maru: wool (substrate commodity noun). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MA_RU|MA_RU]]: Maru: personal name, 'Wool' (substrate maru 'wool'). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MA_RU_A|MA_RU_A]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -57,7 +57,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA_TI_ZA_I_TE]]: Onomasticon personal name, no reading.
 
-[[wiki/linear-a/words/M/MA_ZA|MA_ZA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MA_ZA|MA_ZA]]: mazza: corvée workers, labour gang (personnel term). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_ZU|MA_ZU]]: maṯu: infants or young dependents (personnel category). Lexicon, SPECULATIVE (tier 1).
 

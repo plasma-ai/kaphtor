@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḏ
 desc: "Semitic roots whose first radical is ḏ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ḏ
@@ -56,6 +56,18 @@ updated: 2026-10-24T15:25:56Z
 [[wiki/semitic-roots/ḏ/3132_finish_off_slaughter|3132_finish_off_slaughter]]: Proto-Semitic *ḏkw, 'finish off, slaughter': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/3209_blood|3209_blood]]: Proto-Semitic *ḏVr-, 'blood': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḏ/3328_to_be_old_grow_old|3328_to_be_old_grow_old]]: Proto-Semitic *ḏḳn, 'to be old, grow old': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḏ/3329_old_man|3329_old_man]]: Proto-Semitic *ḏiḳn-, 'old man': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḏ/3350_stranger|3350_stranger]]: Proto-Semitic *ḏVrīʾ-, 'stranger': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḏ/3464_to_stand|3464_to_stand]]: Proto-Semitic *ḏwḏ, 'to stand': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḏ/3465_to_protect_guard_strength|3465_to_protect_guard_strength]]: Proto-Semitic *ḏmr, 'to protect, guard; strength': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḏ/3540_to_smell_pungently_ill_smelling_plant|3540_to_smell_pungently_ill_smelling_plant]]: Proto-Semitic *ḏfr, 'to smell pungently; ill-smelling plant': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/445_go_away|445_go_away]]: Proto-Semitic *ḏVhab-, 'go away': reflexes in 2 language(s).
 

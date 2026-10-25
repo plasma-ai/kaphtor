@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab mwr (SD 89; Biella 269) | SD 89; Biella 269 | gloss withheld |
+| Epigraphic South Arabian | Sab mwr (SD 89; Biella 269); (Sabaweb lemma 4579) | SD 89; Biella 269; Sabaweb lemma 4579 | gloss withheld |
 | Arabic | Ar māra (w) (Lane 2743; Biella 269) | Lane 2743; Biella 269 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

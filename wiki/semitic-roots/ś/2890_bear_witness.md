@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | s²hd (SD 132) | SD 132 | gloss withheld |
+| Epigraphic South Arabian | s²hd (SD 132); (Sabaweb lemma 5074) | SD 132; Sabaweb lemma 5074 | gloss withheld |
 | Arabic | šhd (QAC شهد) | QAC شهد | gloss withheld |
 | Aramaic | šhd, shd, śāhădī (HALOT 1311) | HALOT 1311 |  |
 | Syrian Aramaic | shed 'witness, testify; be martyred' (Payne Smith 362) | Payne Smith 362 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_DU
 title: "A-DU"
-desc: "ʾAddu / adû(?): Addu/Haddu; alternatively an administrative work assignment or stint. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾAddu / adû: Addu/Haddu; alternatively an administrative work assignment or stint. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "divine_name_or_administrative_heading"]
 kind: "word"
 form: "A-DU"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "ʾAddu / adû(?)"
+reading: "ʾAddu / adû"
 attestations: ["HT133", "HT85a", "HT86a", "HT88", "HT92", "HT95b", "HT99a", "KH23"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾAddu / adû(?) |
+| Reading | ʾAddu / adû |
 | Meaning | Addu/Haddu; alternatively an administrative work assignment or stint |
 | Language layer | Akkadian_or_NWS |
 | Category | divine_name_or_administrative_heading |
@@ -76,7 +76,7 @@ Corpus distribution; Gordon 1966; ORACC ARM/EP; Huffmon 1965; Howard 2023
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | adū(?) / ʾAddu | work assignment/account(?) or Addu/Haddu heading | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | ʾAddu / adû(?) | Storm God or work-stint/account heading | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95b\|HT95b]] | ʾAddu | Storm God (= Hadad/Baal)—heading/recipient; rival adû 'work assignment' | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | uncertain | initial administrative heading; possibly an entity, place, transaction, or Addu/Haddu | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | ʾAddu | Addu/Haddu, initial heading; rival adû 'work assignment' | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT133\|HT133]] | ʾAddu | Storm God (Hadad/Baal) | CANDIDATE |
 
 ## Onomasticon
@@ -97,6 +97,6 @@ Gordon's Addu/Haddu remains an onomastic candidate, especially in compounds. Sta
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī?.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī.
 
 <!-- END kaphtor:record -->

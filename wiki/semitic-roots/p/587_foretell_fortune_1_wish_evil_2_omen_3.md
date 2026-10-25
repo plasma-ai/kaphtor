@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | fōl 3 |  |  |
 | Harsusi | fōl 3 |  |  |
 | Geez | fwl 1 |  |  |
-| Epigraphic South Arabian | fʔl 2 |  |  |
+| Epigraphic South Arabian | fʔl 2 (SD 43), (Biella 400); (Sabaweb lemma 4082) | SD 43; Biella 400; Sabaweb lemma 4082 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

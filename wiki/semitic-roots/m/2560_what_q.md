@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2560_what_q
 title: "*ma(h): 'what?'"
-desc: "Proto-Semitic *ma(h), 'what?': reflexes in 15 language(s)."
+desc: "Proto-Semitic *ma(h), 'what?': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2560"
@@ -45,6 +45,8 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | m |  |  |
 | Aramaic | Pal mh (DJPA 292b apud CAL) | DJPA 292b; CAL |  |
 | Amorite | ma-a (OLA80 §36.58) | OLA80 §36.58 | gloss withheld |
+| Judaic Aramaic | JBA mān (DJBA 637 apud SEDonline 121) | DJBA 637; SEDonline 121 | gloss withheld |
+| Syrian Aramaic | mānā (LSyr. 393, SL 778 apud SEDonline 121) | LSyr. 393, SL 778; SEDonline 121 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

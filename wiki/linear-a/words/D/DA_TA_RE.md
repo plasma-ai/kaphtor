@@ -1,11 +1,11 @@
 ---
 name: wiki/linear-a/words/D/DA_TA_RE
 title: "DA-TA-RE"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "Onomasticon personal name, no reading."
+tags: ["linear-a", "word"]
 kind: "word"
 form: "DA-TA-RE"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["onomasticon"]
 attestations: ["HT88"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,15 +31,15 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | unread | personal or institutional label | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Daṯar | Old (man's name); rival 'He of the gate' | SPECULATIVE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
 | Entry | auto |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
@@ -47,16 +47,10 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Intact hapax in HT 88's KI-RO roster: .6 DA-TA-RE 1, one of six one-unit entries before KU-RO 6 (GORILA I 139). No reading.
+HT 88 .6 DA-TA-RE 1, one of six one-unit entries in the KI-RO roster before KU-RO 6 (GORILA I 139). The name of DA-TA-RA (HT 6a): daṯar 'old', Amorite DA-ŠU-RU-UM (Gelb no. 1490). Rival: ḏā-ṯaġri 'He of the gate' (TA-RA).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû(?), [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
-
-## Unread
-
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
-
-Intact hapax in HT88's KI-RO roster (.6 DA-TA-RE 1, GORILA I 139), one of six entries of one unit before KU-RO 6. No reading.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
 
 <!-- END kaphtor:record -->

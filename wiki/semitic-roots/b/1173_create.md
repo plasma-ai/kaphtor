@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | bra |  |  |
 | Hebrew | brʔ |  |  |
 | Aramaic | bǝrā |  |  |
-| Epigraphic South Arabian | Sab brʾ (B. Ašwal 1/2, 3; SD 30; Biella 54) | SD 30; Biella 54 | gloss withheld |
+| Epigraphic South Arabian | Sab brʾ (B. Ašwal 1/2, 3; SD 30; Biella 54; Sabaweb lemma 3956) | SD 30; Biella 54; Sabaweb lemma 3956 | gloss withheld |
 | Punic | brʾ (Biella 54) | Biella 54 |  |
 | Judaic Aramaic | beraʾ (T 55) | T 55 |  |
 

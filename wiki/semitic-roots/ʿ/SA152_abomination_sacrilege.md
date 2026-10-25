@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʿqw (SD 18; Biella 380); (Sabaweb lemma 3805) | SD 18; Biella 380; Sabaweb lemma 3805 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿqw (SD 18; Biella 380); (Sabaweb lemma 3805), the noun ʿqwt (Sabaweb lemma 3806) | SD 18; Biella 380; Sabaweb lemma 3805; Sabaweb lemma 3806 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

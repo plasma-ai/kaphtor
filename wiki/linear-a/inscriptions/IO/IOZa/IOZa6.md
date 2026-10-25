@@ -55,9 +55,9 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | May you (f.) answer us | CANDIDATE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | May you (f.) answer us | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/I/I_NA_TA_I\|I-NA-TA-I]] | ʿInatī | my Anat—She Who Answers | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/Z/ZU_DI\|ZU-DI]] | ṯudī | Breast (first member of a divine epithet) | CANDIDATE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/Z/ZU_DI\|ZU-DI]] | ṯudī | Breast (first member of a divine epithet) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/S/SI_KA\|SI-KA]] | šiqā | Who Gives Drink (second member of a divine epithet) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA_ME\|JA-SA-SA-RA-ME]] | yaššaram | uprightly (accusative -am, √y-š-r) | CONFIRMED | CONFIRMED (lexicon) |
 

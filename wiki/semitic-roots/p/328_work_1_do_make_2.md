@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | fʕl \[-a-\] 2 |  |  |
 | Phoenician | pʕl 1 |  |  |
 | Hebrew | pʕl 1 |  |  |
-| Epigraphic South Arabian | fʕl 1 |  |  |
+| Epigraphic South Arabian | fʕl 1 (Sabaweb lemma 4085) | Sabaweb lemma 4085 | gloss withheld |
 | Syrian Aramaic | pʕl 1 (Payne Smith 453) | Payne Smith 453 |  |
 | Ugaritic | pʿl (HALOT 950) | HALOT 950 |  |
 | Punic | pʿlt, pʾlt (T 268) | T 268 | gloss withheld |

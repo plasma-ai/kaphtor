@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TE_RI
 title: "TE-RI"
-desc: "tēri?: recipient or section heading; perhaps an excess or surplus entry. Lexicon, CANDIDATE (tier 2)."
+desc: "tēri: recipient or section heading; perhaps an excess or surplus entry. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "uncategorised"]
 kind: "word"
 form: "TE-RI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
-reading: "tēri?"
+reading: "tēri"
 attestations: ["ARKH6", "HT91", "PH(?)31b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | tēri? |
+| Reading | tēri |
 | Meaning | recipient or section heading; perhaps an excess or surplus entry |
 | Root | w-t-r? |
 | Language layer | uncertain; Akkadian and Northwest Semitic comparison |
@@ -61,6 +61,6 @@ TE-RI introduces a secondary allocation on HT91, stands before one ram on PH(?)3
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | tēri? | second recipient or section heading; perhaps an excess or surplus entry |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | tēri? | second recipient or section heading; perhaps an excess or surplus entry | CANDIDATE |
 
 <!-- END kaphtor:record -->

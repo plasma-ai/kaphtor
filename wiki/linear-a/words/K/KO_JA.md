@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KO_JA
 title: "KO-JA"
-desc: "Qōya / Quya?: personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong'). Lexicon, SPECULATIVE (tier 1)."
+desc: "Qōya / Quya: personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong'). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "KO-JA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
-reading: "Qōya / Quya?"
+reading: "Qōya / Quya"
 attestations: ["HT119"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Qōya / Quya? |
+| Reading | Qōya / Quya |
 | Meaning | personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong') |
 | Root | q-w-y (Amorite QWJ, unglossed) |
 | Language layer | NWS |
@@ -65,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | personal name | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] | Qōya | personal name, Amorite type (element quwy- 'hope' or 'be strong') | SPECULATIVE |
 
 ## Onomasticon
 

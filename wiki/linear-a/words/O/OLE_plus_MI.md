@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/OLE_plus_MI
 title: "OLE+MI"
-desc: "mišḥā?: oil subtype; perhaps anointing or ceremonial oil. Lexicon, CANDIDATE (tier 2)."
+desc: "mišḥā: oil subtype; perhaps anointing or ceremonial oil. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "OLE+MI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "mišḥā?"
+reading: "mišḥā"
 attestations: ["HT14", "HT28a", "HT42+59", "HT50a", "HT58", "HT90", "HT91", "HT100", "HT101", "HT116a", "HT125a", "HT137", "TY3a", "TY3b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | mišḥā? |
+| Reading | mišḥā |
 | Meaning | oil subtype; perhaps anointing or ceremonial oil |
 | Root | m-š-ḥ |
 | Language layer | NWS |

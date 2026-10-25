@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez kataba 'write down, write, register' (CDG 297; &lt; Ar).
+Geez kataba 'write down, write, register' (CDG 297; &lt; Ar). Cf. 3437 \*ktb 'to pierce, prick, sew; awl' (Syr. maktbā 'awl').
 
 <!-- END kaphtor:record -->

@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Proto-NWS \*ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/&gt;/i/ via Barth's Law). Four attestations across two sites and two registers (HT tablets, ZAZb3 vessel). On HT93a A-SE stands in the recipient slot before I GRA+PA, as QA-QA-RU does, so that witness fits a recipient as well as an offering. Commodity co-occurrences match Biblical pattern: grain (HT93a I GRA+PA), aromatics (HT81 MI+JA+RU myrrh), oil contexts (Lev 2:1, Num 28:5). Competing hypothesis: ʾaš "who/which" (Phoenician relative pronoun ʾš)—better phonological fit, used in existing ZAZb3 translation. Ugaritic cognate uncertain (Huehnergard: itt /ʾiṭtātu/? with /ṭ/ not /š/).
+Proto-NWS \*ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/&gt;/i/ via Barth's Law). Four attestations across two sites and two registers (HT tablets, ZAZb3 vessel). On HT81, HT93a and HT132 A-SE opens an entry, followed by a divider and a commodity (MI+JA+RU myrrh, I GRA+PA, A319); on HT93a the personal name QA-QA-RU stands before the same grain, so a recipient is the rival there. Commodity co-occurrences match Biblical pattern: grain (HT93a I GRA+PA), aromatics (HT81 MI+JA+RU myrrh), oil contexts (Lev 2:1, Num 28:5). Competing hypothesis: ʾaš "who/which" (Phoenician relative pronoun ʾš), the better phonological fit. Ugaritic cognate uncertain (Huehnergard: itt /ʾiṭtātu/? with /ṭ/ not /š/).
 
 ## Attestations
 
@@ -54,7 +54,7 @@ Proto-NWS \*ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/&gt;/i/ 
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] |  | recipient of I GRA+PA | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | ʾaššē | fire offering, burnt offering | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | ʾaššē | fire offering | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | ʾaššē | fire offering, burnt offering | CANDIDATE |
 
 <!-- END kaphtor:record -->

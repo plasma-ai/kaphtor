@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab bwr (SD 33; Biella 38) | SD 33; Biella 38 | gloss withheld |
+| Epigraphic South Arabian | Sab bwr (SD 33; Biella 38; Sabaweb lemma 3992) | SD 33; Biella 38; Sabaweb lemma 3992 | gloss withheld |
 | Arabic | Ar dār al-bawār (Biella 38) | Biella 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

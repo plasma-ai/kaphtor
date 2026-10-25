@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | ṭaqʿa 'sound' | Anderson–Moser 2024 root ṭqʿ |  |
 | Hebrew | tāqaʿ (LGz. 595; HALOT 1785) | LGz. 595; HALOT 1785 | gloss withheld |
-| Aramaic | təqaʿ (LGz. 595) | LGz. 595 |  |
+| Aramaic | təqaʿ (LGz. 595; CAL s.v. tqʿ) | LGz. 595; CAL s.v. tqʿ |  |
 | Arabic | (Syria) ṭaqaʿ (LGz. 595) | LGz. 595 | gloss withheld |
 | Tigre | ṭaqʿa (LGz. 595) | LGz. 595 | gloss withheld |
 | Tigrinya | ṭäqʿe (LGz. 595) | LGz. 595 | gloss withheld |

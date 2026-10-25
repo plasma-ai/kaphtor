@@ -43,7 +43,7 @@ High frequency (29×). Compound forms: SU-PU₂-\*188 (jar of terebinth), PA₃-
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star188\|\*188]] | buṭnu | PROBABLE |
-| [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni(?) | CANDIDATE |
+| [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_star188\|PA₃-\*188]] | bu-BUṬNU | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | sapu buṭni | CANDIDATE |
 

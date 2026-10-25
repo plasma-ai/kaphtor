@@ -59,14 +59,15 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QE\|QE]] | qê | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_SI_TE\|QE-SI-TE]] | qašt | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_SU_PU\|QE-SU-PU]] | qaššāpu | CANDIDATE |
-| [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti(?) | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_TU\|QE-TU]] | qaṭun | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_TU_NE\|QE-TU-NE]] | qaṭunē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_QE_TI\|RI-QE-TI]] | riqitt- | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli(?) | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli | CANDIDATE |
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | SPECULATIVE |
 
 <!-- END kaphtor:record -->

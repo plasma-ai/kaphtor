@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | kʷālawa (LGz. 284), makala, makkola (Ibid. 339) | LGz. 284; Ibid. 339 | gloss withheld |
 | Amharic | kǝlkǝl (Kane 1990; Reinisch 1884, 376; redupl.) | Kane 1990 | gloss withheld |
 | Tigrinya | mäḵälä (LGz. 339) | LGz. 339 | gloss withheld |
-| Epigraphic South Arabian | Sab. klʾ (SD 77) | SD 77 | gloss withheld |
+| Epigraphic South Arabian | Sab. klʾ (SD 77; Sabaweb lemma 2275) | SD 77; Sabaweb lemma 2275 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

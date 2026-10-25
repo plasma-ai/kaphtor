@@ -58,7 +58,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Dasiṭa? | roster unit (24 men) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Dasiṭa | roster unit (24 men) | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Dasiṭa | roster unit | SPECULATIVE |
 
 ## Onomasticon
@@ -79,6 +79,6 @@ Roster label. Weak point: the value \*118 = ṭa is unconfirmed.
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû(?), [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī?, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
 
 <!-- END kaphtor:record -->

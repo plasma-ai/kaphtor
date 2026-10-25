@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ḥarā 'army' | Anderson–Moser 2024 root ḥr |  |
+| Geez | ḥarā (LGz. 240) | LGz. 240 | gloss withheld |
 | Arabic | ḥurr (HALOT 348) | HALOT 348 |  |
 | Syrian Aramaic | ḥērā (HALOT 348; Payne Smith 122) | HALOT 348; Payne Smith 122 |  |
 | Tigre | ḥarā (HALOT 348) | HALOT 348 |  |

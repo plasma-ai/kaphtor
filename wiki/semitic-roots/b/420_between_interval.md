@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | bayn- |  |  |
-| Epigraphic South Arabian | byn/bn (Biella 41; SD 34; HALOT 123) | Biella 41; SD 34; HALOT 123 | gloss withheld |
+| Epigraphic South Arabian | byn/bn (Biella 41; SD 34; HALOT 123; Sabaweb lemma 1669) | Biella 41; SD 34; HALOT 123; Sabaweb lemma 1669 | gloss withheld |
 | Ugaritic | bn; bēna (HALOT 123) | HALOT 123 |  |
 | Akkadian | bīru, birītu, birtu; (ina) bīri / birīt / birti (HALOT 123) | HALOT 123 | gloss withheld |
 | Geez | bayna (LGz. 116) | LGz. 116 | gloss withheld |

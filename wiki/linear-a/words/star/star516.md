@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star516
 title: "*516"
-desc: "šipru?: transaction/account marker; possible account or register logogram. Lexicon, CANDIDATE (tier 2)."
+desc: "šipru: transaction/account marker; possible account or register logogram. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative"]
 kind: "word"
 form: "*516"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "šipru?"
+reading: "šipru"
 attestations: ["HT34", "HT96b", "HT118", "HT154.", "KH12", "KHWc2066", "KHWc2070", "ZA1a", "ZA11a", "ZA11b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | šipru? |
+| Reading | šipru |
 | Meaning | transaction/account marker; possible account or register logogram |
 | Root | s-p-r |
 | Language layer | Semitic comparison |

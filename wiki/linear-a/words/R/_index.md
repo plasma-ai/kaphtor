@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:44:10Z
 ---
 
 # wiki/linear-a/words/R
@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/R/RE_TI|RE_TI]]: Unread (role only): personal name; 2 occurrence(s).
 
-[[wiki/linear-a/words/R/RE_ZA|RE_ZA]]: RE-ZA: counted administrative category or measure; possibly Luwian aruza. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/R/RE_ZA|RE_ZA]]: (ʾa)raz: cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE_star86|RE_star86]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -83,7 +83,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/R/RO_E|RO_E]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RO_KE|RO_KE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RO_KE|RO_KE]]: rōkēl: trader, merchant (title); rival rōqēaḥ 'perfumer'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RO_NI|RO_NI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -113,7 +113,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/R/RU_NI|RU_NI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RU_PI_star305_MI|RU_PI_star305_MI]]: Ripī-Ḏāmir(?): personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_PI_star305_MI|RU_PI_star305_MI]]: Ripī-Ḏāmir: personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_RA2|RU_RA2]]: Unread (unread): no role; 1 occurrence(s).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA3_NI
 title: "PA₃-NI"
-desc: "bānī?: builder or personnel designation. Lexicon, CANDIDATE (tier 2)."
+desc: "bānī: builder or personnel designation. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "noun"]
 kind: "word"
 form: "PA₃-NI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "bānī?"
+reading: "bānī"
 attestations: ["HT85a", "HT102"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | bānī? |
+| Reading | bānī |
 | Meaning | builder or personnel designation |
 | Root | b-n-y |
 | Language layer | NWS |

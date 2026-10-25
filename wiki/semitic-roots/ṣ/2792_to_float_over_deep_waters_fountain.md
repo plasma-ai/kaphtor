@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | miṣwāl- |  | gloss withheld |
-| Ugaritic | mṣlt (Gibson CML 151 apud DULAT 579); (DULAT 579) | DULAT 579; DULAT 579 | gloss withheld |
+| Ugaritic | mṣlt (Gibson CML 151 apud DULAT 579) | DULAT 579 | gloss withheld |
 | Hebrew | ṣll (HALOT 1027); mǝṣūlā (HALOT 623) | HALOT 1027; HALOT 623 | gloss withheld |
 | Judaic Aramaic | mᵉṣūlā (HALOT 623) | HALOT 623 | gloss withheld |
 | Geez | ṣalala (HALOT 1027) | HALOT 1027 |  |

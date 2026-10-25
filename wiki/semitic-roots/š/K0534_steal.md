@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | šarāqu 'steal' | Anderson–Moser 2024 root šrq |  |
 | Geez | saraqa 'steal' | Anderson–Moser 2024 root šrq |  |
-| Epigraphic South Arabian | Sab s1rq (SD 128) | SD 128 | gloss withheld |
+| Epigraphic South Arabian | Sab s1rq (SD 128; Sabaweb lemma 5039) | SD 128; Sabaweb lemma 5039 | gloss withheld |
 | Jibbali | šeroq (LGz. 514) | LGz. 514 |  |
 | Tigrinya | säräqä (LGz. 514) | LGz. 514 |  |
 | Tigre | särqa (LGz. 514) | LGz. 514 |  |

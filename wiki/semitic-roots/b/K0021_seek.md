@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0021_seek
 title: "*bVqVṯ-: 'seek'"
-desc: "Proto-Semitic *bVqVṯ-, 'seek': reflexes in 4 language(s)."
+desc: "Proto-Semitic *bVqVṯ-, 'seek': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0021"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | bqš 'request' | Anderson–Moser 2024 root bqṯ |  |
 | Ugaritic | bqṯ 'search' | Anderson–Moser 2024 root bqṯ |  |
 | Phoenician | bqš (T 54) | T 54 | gloss withheld |
+| Jibbali | bɔ́tḳəṯ (JL 25, Müller 1995:145 apud SEDonline 225) | JL 25, Müller 1995:145; SEDonline 225 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

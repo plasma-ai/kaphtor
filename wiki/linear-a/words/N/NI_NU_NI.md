@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NI_NU_NI
 title: "NI-NU-NI"
-desc: "nīnūn (?): offspring, descendants, posterity. Lexicon, SPECULATIVE (tier 1)."
+desc: "nīnūn: offspring, descendants, posterity. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "kinship"]
 kind: "word"
 form: "NI-NU-NI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "nīnūn (?)"
+reading: "nīnūn"
 attestations: ["PLZf1"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | nīnūn (?) |
+| Reading | nīnūn |
 | Meaning | offspring, descendants, posterity |
 | Root | n-y-n + plural/collective -ūn or case -un |
 | Language layer | NWS candidate |

@@ -42,7 +42,7 @@ Administrative logogram. √s-p-r "to count, record"—Hebrew sēper/sōpēr "bo
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star516\|\*516]] | šipru? | CANDIDATE |
+| [[wiki/linear-a/words/star/star516\|\*516]] | šipru | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_star516\|SI-\*516]] | si-SIPRU | CANDIDATE |
 
 <!-- END kaphtor:record -->

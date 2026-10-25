@@ -32,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Ugaritic | ʿm (Kogan 2015, ch. 3 §5.2 no. 6) | Kogan 2015, ch. 3 §5.2 no. 6 | gloss withheld |
 | Hebrew | ʿim (Kogan 2015, ch. 3 §5.2 no. 6) | Kogan 2015, ch. 3 §5.2 no. 6 | gloss withheld |
 | Judaic Aramaic | JPA ʿäm (Kogan 2015, ch. 3 §5.2 no. 6) | Kogan 2015, ch. 3 §5.2 no. 6 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿm, Min ʿm, Qat ʿm-n (Kogan 2015, ch. 3 §5.2 no. 6) | Kogan 2015, ch. 3 §5.2 no. 6 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿm, Min ʿm, Qat ʿm-n (Kogan 2015, ch. 3 §5.2 no. 6; Sabaweb lemma 2255) | Kogan 2015, ch. 3 §5.2 no. 6; Sabaweb lemma 2255 | gloss withheld |
 | Arabic | maʿa, ʿinda (Kogan 2015, ch. 3 §5.2 no. 6) | Kogan 2015, ch. 3 §5.2 no. 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

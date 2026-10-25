@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | masaḥa 'to wipe, rub' (BK 2, 1102), masḥat- 'rubbing, anointing with oil or chrism' (BK 2, 1103) | BK 2, 1102; BK 2, 1103 |  |
 | Ugaritic | mšḥ (DULAT 582) | DULAT 582 | gloss withheld |
 | Hebrew | māšaḥ (HALOT 643) | HALOT 643 | gloss withheld |
-| Epigraphic South Arabian | Sab ms1ḥ (SD 87) | SD 87 | gloss withheld |
+| Epigraphic South Arabian | Sab ms1ḥ (SD 87); (Sabaweb lemma 4556) | SD 87; Sabaweb lemma 4556 | gloss withheld |
 | Geez | masḥa (HALOT 643) | HALOT 643 |  |
 | Syrian Aramaic | mšāḥā (HALOT 644; Payne Smith 305) | HALOT 644; Payne Smith 305 | gloss withheld |
 | Mandaic Aramaic | mša (mšḥ) (LGz. 363) | LGz. 363 |  |

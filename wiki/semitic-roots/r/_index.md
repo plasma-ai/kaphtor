@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/r
 desc: "Semitic roots whose first radical is r."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/r
@@ -99,7 +99,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/r/2646_sand|2646_sand]]: Proto-Semitic *raml-, 'sand': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/r/2647_say_speak|2647_say_speak]]: Proto-Semitic *rgm, 'say, speak': reflexes in 5 language(s).
+[[wiki/semitic-roots/r/2647_say_speak|2647_say_speak]]: Proto-Semitic *rgm, 'say, speak': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/r/2699_pomegranate|2699_pomegranate]]: Proto-Semitic *rummān-, 'pomegranate': reflexes in 6 language(s).
 
@@ -173,6 +173,26 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/r/3226_ten_thousand_myriad|3226_ten_thousand_myriad]]: Proto-Semitic *rib(a)b-at-, *ribw-at-, 'ten thousand, myriad': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/r/3248_to_cover_spread_a_bed_lay_in_layers|3248_to_cover_spread_a_bed_lay_in_layers]]: Proto-Semitic *rbd, 'to cover, spread (a bed), lay in layers': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/r/3317_to_increase_profit_interest|3317_to_increase_profit_interest]]: Proto-Semitic *rdy, 'to increase; profit, interest': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/r/3331_to_sprinkle|3331_to_sprinkle]]: Proto-Semitic *rVŝ-, 'to sprinkle': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/r/3368_to_cover|3368_to_cover]]: Proto-Semitic *rgm, 'to cover': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/r/3390_to_step_to_tread|3390_to_step_to_tread]]: Proto-Semitic *rkt, 'to step, to tread': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/r/3496_to_be_wide_spacious_relief|3496_to_be_wide_spacious_relief]]: Proto-Semitic *rwḥ, 'to be wide, spacious; relief': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/r/3506_to_grow_old_old_age|3506_to_grow_old_old_age]]: Proto-Semitic *rŝʾ, 'to grow old; old age': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/r/3521_spring_season_spring_rain|3521_spring_season_spring_rain]]: Proto-Semitic *rbʕ, 'spring (season); spring rain': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/r/3527_smell_odour_fragrance|3527_smell_odour_fragrance]]: Proto-Semitic *ryḥ, 'smell, odour, fragrance': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/r/3541_beginning_first_first_fruits|3541_beginning_first_first_fruits]]: Proto-Semitic *rʾš, 'beginning, first; first-fruits': reflexes in 5 language(s).
+
 [[wiki/semitic-roots/r/365_piece_of_used_string|365_piece_of_used_string]]: Proto-Semitic *rumm-, 'piece of used string': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/r/454_pasture_guard_livestock_herd_graze_trans_v_1_her|454_pasture_guard_livestock_herd_graze_trans_v_1_her]]: Proto-Semitic *rVʕVy- 1, *rāʕ- 2, 'pasture, guard livestock, herd, graze (trans.)' (v.) 1, 'herdsman' 2: reflexes in 18 language(s).
@@ -189,7 +209,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/r/61_friend_associate_with|61_friend_associate_with]]: Proto-Semitic *rīʕ-, 'friend', 'associate with': reflexes in 12 language(s).
 
-[[wiki/semitic-roots/r/627_see|627_see]]: Proto-Semitic *rVʾVy-, 'see': reflexes in 9 language(s).
+[[wiki/semitic-roots/r/627_see|627_see]]: Proto-Semitic *rVʾVy-, 'see': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/r/62_priest|62_priest]]: Proto-Semitic *ramk-, 'priest': reflexes in 1 language(s).
 
@@ -205,7 +225,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/r/871_large_stone_rock|871_large_stone_rock]]: Proto-Semitic *radād-, 'large stone, rock': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/r/880_be_wide|880_be_wide]]: Proto-Semitic *ra/uḥa/ub, 'be wide': reflexes in 13 language(s).
+[[wiki/semitic-roots/r/880_be_wide|880_be_wide]]: Proto-Semitic *ra/uḥa/ub, 'be wide': reflexes in 14 language(s).
 
 [[wiki/semitic-roots/r/884_grow|884_grow]]: Proto-Semitic *rVyVʕ-, 'grow': reflexes in 1 language(s).
 

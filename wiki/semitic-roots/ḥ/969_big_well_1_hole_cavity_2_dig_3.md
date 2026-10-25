@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḥafr- 1, ḥfr i, 3 |  |  |
 | Jibbali | ḥfǝr-et 2 |  |  |
 | Akkadian | Old Assyrian ḫapārum /ḥaparum/ (OLA80 §19.9) | OLA80 §19.9 | gloss withheld |
-| Epigraphic South Arabian | Sab ḥfr (SD 59, 60; Biella 182) | SD 59, 60; Biella 182 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥfr (SD 66; Biella 182; Sabaweb lemma 4319) | SD 66; Biella 182; Sabaweb lemma 4319 | gloss withheld |
 | Hebrew | ḥpr (HALOT 340) | HALOT 340 |  |
 | Geez | ḫafara (HALOT 340) | HALOT 340 |  |
 | Mandaic Aramaic | hpr (LGz. 157) | LGz. 157 | gloss withheld |

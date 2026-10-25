@@ -80,7 +80,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> Tinit of the Sanctuary (TI-NI-TA · \*307): men 90. 50. \*86 51. RE 20\[. I-MI-SA-RA 43\[. QE 21. KI-DA-\[…\]. \[…\]KI-\*310 · KU-\*305\[…\]. \[…\] group of daughters (\]SA-RA-DI) 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.
+> Tinit of the Sanctuary (TI-NI-TA · \*307): men 90. 50. \*86 51. RE 20\[. Divine Justice (ʾĪ-Mīšaru) 43\[. QE 21. KI-DA-\[…\]. \[…\]KI-\*310 · KU-\*305\[…\]. \[…\] group of daughters (\]SA-RA-DI) 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|

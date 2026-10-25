@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | foňe |  | gloss withheld |
 | Hebrew | pānā (HALOT 937) | HALOT 937 | gloss withheld |
 | Amharic | fina |  | gloss withheld |
-| Epigraphic South Arabian | fnwt |  | gloss withheld |
+| Epigraphic South Arabian | fnwt; (Sabaweb lemma 4107) | Sabaweb lemma 4107 | gloss withheld |
 | Judaic Aramaic | pǝnī-t- |  | gloss withheld |
 | Harari | -fōň \[LHar 63\] | LHar 63 | gloss withheld |
 | Syrian Aramaic | pny 'turn toward, upon' (Payne Smith 450) | Payne Smith 450 |  |

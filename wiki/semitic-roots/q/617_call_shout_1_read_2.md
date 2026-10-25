@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | qrʾ (DULAT 697); yqrʾ (KTU 1.114:1); mqrʾ | DULAT 697; KTU 1.114:1 | gloss withheld |
 | Hebrew | qārāʾ; miqrāʾ; qāriʾ |  | gloss withheld |
 | Aramaic | qrʔ 1 |  |  |
-| Epigraphic South Arabian | Sab qrʾ (Biella 465) | Biella 465 | gloss withheld |
+| Epigraphic South Arabian | Sab qrʾ (Biella 465; Sabaweb lemma 4773) | Biella 465; Sabaweb lemma 4773 | gloss withheld |
 | Syrian Aramaic | qərāʾ (HALOT 1128) | HALOT 1128 |  |
 | Mandaic Aramaic | QRA (HALOT 1128) | HALOT 1128 |  |
 | Tigre | qarʾa (HALOT 1128) | HALOT 1128 |  |

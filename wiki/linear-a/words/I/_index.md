@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:44:10Z
 ---
 
 # wiki/linear-a/words/I
@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/I/I_DI|I_DI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_DU_NE_SI|I_DU_NE_SI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/I/I_DU_NE_SI|I_DU_NE_SI]]: Yidu-naḥši: Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_DU_TI|I_DU_TI]]: Yidu-ti: entity name: yidu 'strength' with TI. Lexicon, SPECULATIVE (tier 1).
 
@@ -51,7 +51,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/I/I_KU_PI|I_KU_PI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_KU_RI_NA|I_KU_RI_NA]]: ʾiqurna(?): at the horn / promontory (toponym?). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_KU_RI_NA|I_KU_RI_NA]]: ʾiqurna: at the horn / promontory (toponym?). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_KU_TA|I_KU_TA]]: Unread (unread): no role; 1 occurrence(s).
 

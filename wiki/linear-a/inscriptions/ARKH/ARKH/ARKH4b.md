@@ -9,7 +9,7 @@ site: "Arkhanes"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["RE", "U"]
+words: ["A-KI-RO", "RE", "U"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -66,6 +66,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/U/U|U]].
+[[wiki/linear-a/words/A/A_KI_RO|A-KI-RO]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/U/U|U]].
 
 <!-- END kaphtor:record -->

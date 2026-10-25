@@ -50,6 +50,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Hebrew bar (KB deutsch, 146) (&lt; Arm). Common MSA \*brw 'to give birth' (Mhr. bərō, Jib. bíri, Soq. bére) is unseparable from these nouns (Kogan 2011, 228).
+Hebrew bar (KB deutsch, 146) (&lt; Arm). Common MSA \*brw 'to give birth' (Mhr. bərō, Jib. bíri, Soq. bére) is unseparable from these nouns (Kogan 2011, 228). Kogan derives Mhr. bər, Jib. bɛr and Soq. bɛr from PWS \*bin- (Kogan 2015, ch. 2 §4.2 no. 12).
 
 <!-- END kaphtor:record -->

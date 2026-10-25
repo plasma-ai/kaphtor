@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wdq, dqt (SD 156; Biella 122-3; Sabaweb lemma 2672) | SD 156; Biella 122-3; Sabaweb lemma 2672 | gloss withheld |
+| Epigraphic South Arabian | Sab wdq, dqt (SD 156; Biella 122-3; Sabaweb lemmas 2672, 2922) | SD 156; Biella 122-3; Sabaweb lemmas 2672, 2922 | gloss withheld |
 | Geez | wadqa, wadaqa (LGz. 604) | LGz. 604 |  |
 | Arabic | wadaqa (LGz. 604) | LGz. 604 | gloss withheld |
 | Tigre | wädqa (LGz. 604) | LGz. 604 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/K0048_join
 title: "*dubuq-: 'join'"
-desc: "Proto-Semitic *dubuq-, 'join': reflexes in 14 language(s)."
+desc: "Proto-Semitic *dubuq-, 'join': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0048"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | ṭäbäqa (LGz. 586) | LGz. 586 | gloss withheld |
 | Argobba | (əṭ)ṭabbäqa (LGz. 586) | LGz. 586 | gloss withheld |
 | Gurage | ṭäbäqä (LGz. 586) | LGz. 586 | gloss withheld |
+| East Ethiopic | Sel. Wol. Zwy. ṭäbäḳä (EDG 610 apud SEDonline 1982) | EDG 610; SEDonline 1982 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

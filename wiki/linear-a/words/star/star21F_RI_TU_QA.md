@@ -63,6 +63,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | ha-ritūqa | the tied, sealed packet (?) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | ha-ritūqa | the tied, sealed packet | SPECULATIVE |
 
 <!-- END kaphtor:record -->

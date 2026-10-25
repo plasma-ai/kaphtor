@@ -65,7 +65,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/D/DI_PA_JA_broken_end\|DI-PA-JA&#91;]] |  | broken after. Not readable. |  | unread |
-| [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | and the way/path | SPECULATIVE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | and the way/path | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_RU_MA_NE_broken_both\|&#93;JA-RU-MA-NE&#91;]] |  | broken before and after. Not readable. |  | unread |
 | [[wiki/linear-a/words/J/JA_SI_DA_RA_broken_end\|JA-SI-DA-RA&#91;]] |  | broken after. Not readable. |  | unread |
 

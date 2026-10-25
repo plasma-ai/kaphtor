@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | karābu, ikribu 2 |  |  |
-| Epigraphic South Arabian | Sab krb (Biella 251, 252) | Biella 251, 252 | gloss withheld |
+| Epigraphic South Arabian | Sab krb (Biella 251) | Biella 251 | gloss withheld |
 | Amorite | krb: jakrub, kirb(ān)um (Gelb AS 21, 23) | Gelb AS 21 23 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

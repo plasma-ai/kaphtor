@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ẓ
 desc: "Semitic roots whose first radical is ẓ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ẓ
@@ -34,6 +34,12 @@ updated: 2026-10-24T15:26:16Z
 [[wiki/semitic-roots/ẓ/3101_piece_of_wood|3101_piece_of_wood]]: Proto-Semitic *ṯ̣arb-, 'piece of wood': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ẓ/3122_grow_dark_be_black|3122_grow_dark_be_black]]: Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 19 language(s).
+
+[[wiki/semitic-roots/ẓ/3406_to_nag_to_offend|3406_to_nag_to_offend]]: Proto-Semitic *ṯ̣br, 'to nag, to offend': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ẓ/3412_urine|3412_urine]]: Proto-Semitic *ṯ̣aḥam, 'urine': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ẓ/3524_shelter_hut|3524_shelter_hut]]: Proto-Semitic *ṯ̣ll, 'shelter, hut': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ẓ/367_flint_1_rock_mountain_2|367_flint_1_rock_mountain_2]]: Proto-Semitic *ṯ̣u/ir-, 'flint' 1, 'rock, mountain' 2: reflexes in 13 language(s).
 

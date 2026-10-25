@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | adīm 3 |  |  |
 | Ugaritic | dm 1 |  |  |
 | Hebrew | dūm, dūmā (HALOT 216) | HALOT 216 | gloss withheld |
-| Epigraphic South Arabian | Sab dwm (Biella 81) | Biella 81 | gloss withheld |
+| Epigraphic South Arabian | Sab dwm (Biella 81); dmtn (C 548/17) probably a misreading or miswriting of qdmt (Sabaweb lemma 13386) | Biella 81; Sabaweb lemma 13386 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

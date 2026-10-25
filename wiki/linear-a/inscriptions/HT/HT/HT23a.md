@@ -78,7 +78,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> KA-NA ·: cyperus B, \*308 H, oil+NE H, oil+TU H, oil+RI H, MI+JA+RU H, wine 10, QA₂-ligature (\*510) 10, QA₂-ligature (\*508) 10, E 17, \*21F-RI-TU-QA K, sesame K, SI+ME 10, KO-RU 1.
+> Sweet cane (KA-NA): cyperus B, \*308 H, oil+NE H, oil+TU H, oil+RI H, MI+JA+RU H, wine 10, QA₂-ligature (\*510) 10, QA₂-ligature (\*508) 10, E 17, the tied packet K, sesame K, SI+ME 10, kor 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ Unicode (Linear A block):
 | QA2+\[?\]+PU | (ligature) | \[QA₂-commodity, grade PU\] (\*510) | SPECULATIVE |  |
 | QA2+\[?\]+RE | (ligature) | \[QA₂-commodity, grade RE\] (\*508) | SPECULATIVE |  |
 | [[wiki/linear-a/words/E/E\|E]] |  | commodity, unread | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | the tied, sealed packet (?) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | the tied, sealed packet | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | sesame | CANDIDATE | CANDIDATE (lexicon) |
 | SI+ME | (ligature) | \[SI+ME commodity\] | SPECULATIVE |  |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | kor (dry measure) | SPECULATIVE | SPECULATIVE (lexicon) |

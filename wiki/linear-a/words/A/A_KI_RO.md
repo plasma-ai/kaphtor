@@ -1,12 +1,16 @@
 ---
 name: wiki/linear-a/words/A/A_KI_RO
 title: "A-KI-RO"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "ʾAkiru: ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman'). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "A-KI-RO"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["lexicon", "onomasticon"]
 attestations: ["ARKH4b"]
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "ʾAkiru"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -21,6 +25,35 @@ updated: 2026-10-24T16:17:50Z
 
 **Signs.** [[wiki/linear-a/signs/syllabic/A|A]] · [[wiki/linear-a/signs/syllabic/KI|KI]] · [[wiki/linear-a/signs/syllabic/RO|RO]]
 
+## Lexicon
+
+**SPECULATIVE**, tier 1 of 4, score 0.30
+
+| Field | Value |
+|---|---|
+| Reading | ʾAkiru |
+| Meaning | ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman') |
+| Root | ʾ-k-r |
+| Language layer | NWS |
+| Category | personal_name |
+| Semantic field | personnel |
+
+### Note
+
+ARKH 4b .4 A-KI-RO 3, after the numeral \]9 that closes the entry of .3–4 and before ZA-SI-ZU\[ \]3, in a list of whole-number entries with no logogram on the face (GORILA III 14–15). Intact and undotted. A-KI-RO spells A-KI-RU-UM / A-KI-RI / A-KI-RA sign for sign, RO for the case vowel. The noun ʾikkār behind the name is this lexicon's analysis, not Gelb's. Rivals: the Akkadian name Ikkaru; A + KI-RO 'owed'.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | ʾAKIR-UM, A-KI-RU-UM (KISURRA B 7+); ʾAKIR-I, A-KI-RI (VAS VIII 14 37); ʾAKIR-AH, A-KI-RA, FN (Gelb 1980 nos. 338–340) |
+| Hebrew | ʾikkār 'plowman, farmer' (Jer 51:23; Amos 5:16) |
+| Akkadian | ikkaru 'plowman, farm laborer; farmer', Sum. lw. (CAD I/J s.v.) |
+
+### Source
+
+di Mino; Gelb 1980
+
 ## Attestations
 
 | Document | Site | Support | Translation |
@@ -32,8 +65,8 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
 | Entry | auto |
 | Occurrences | 1 in 1 documents |
 | Sites | Arkhanes |
@@ -42,11 +75,5 @@ updated: 2026-10-24T16:17:50Z
 ### Co-occurring lexicon words
 
 Readings from the lexicon as it stands: [[wiki/linear-a/words/R/RE|RE]] le-, [[wiki/linear-a/words/U/U|U]] u.
-
-## Unread
-
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
-
-ARKH 4b .4 A-KI-RO 3, after the numeral \]9 that closes the entry of .3–4 and before the dotted ZA-SI-ZU\[ \]3 of .5, in a list of entries with whole numbers and no logogram on the face (GORILA III 14–15). Intact and undotted. Within Linear A, KI-RO is the transaction term 'owed'. No reading.
 
 <!-- END kaphtor:record -->

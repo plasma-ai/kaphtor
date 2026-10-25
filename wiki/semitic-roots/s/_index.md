@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/s
@@ -83,7 +83,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/s/2366_nape_of_the_neck|2366_nape_of_the_neck]]: Proto-Semitic *Sud-, 'nape (of the neck)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/s/2382_street_square_quarter_forum_held_in_a_public_squ|2382_street_square_quarter_forum_held_in_a_public_squ]]: Proto-Semitic *sakʷ-at 1, sVkVt- 2, 'street, square, quarter; forum (held in a public square)' 1, 'encamp, lodge, rest' 2: reflexes in 1 language(s).
+[[wiki/semitic-roots/s/2382_street_square_quarter_forum_held_in_a_public_squ|2382_street_square_quarter_forum_held_in_a_public_squ]]: Proto-Semitic *sakʷ-at, 'street, square, quarter; forum (held in a public square)': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/s/2409_plant_poison|2409_plant_poison]]: Proto-Semitic *samm-, 'plant; poison': reflexes in 11 language(s).
 
@@ -95,7 +95,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/s/259_flock_of_birds_swarm|259_flock_of_birds_swarm]]: Proto-Semitic *sVr-, 'flock of birds, swarm': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/s/2633_man|2633_man]]: Proto-Semitic *sabʾ-, 'man': reflexes in 10 language(s).
+[[wiki/semitic-roots/s/2633_man|2633_man]]: Proto-Semitic *sabʾ-, 'man': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/s/2668_ship_large_vessel|2668_ship_large_vessel]]: Proto-Semitic *sappīn-at-, 'ship, large vessel': reflexes in 5 language(s).
 
@@ -144,6 +144,12 @@ updated: 2026-10-24T15:26:16Z
 [[wiki/semitic-roots/s/312_mug|312_mug]]: Proto-Semitic *sir-, 'mug': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/s/3137_to_forgive_pardon|3137_to_forgive_pardon]]: Proto-Semitic *slḥ, 'to forgive, pardon': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/s/3391_behind|3391_behind]]: Proto-Semitic *sar, 'behind': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/s/3470_to_turn_go_around|3470_to_turn_go_around]]: Proto-Semitic *sḫr, 'to turn, go around': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/s/3484_to_turn_aside_remove|3484_to_turn_aside_remove]]: Proto-Semitic *swr, 'to turn aside, remove': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/s/358_sealed_registered_possession_property_1_to_regis|358_sealed_registered_possession_property_1_to_regis]]: Proto-Semitic *sigill-, '(sealed) registered possession, property' 1, 'to register' 2: reflexes in 7 language(s).
 

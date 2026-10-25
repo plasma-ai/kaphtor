@@ -44,6 +44,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/star/star86_RO\|\*86-RO]] | naʿaru | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_I_NWA_RO\|JA-I-NWA-RO]] | yā ʾanwaru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RO_NA\|KA-RO-NA]] | Qarna | PROBABLE |
@@ -55,10 +56,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
 | [[wiki/linear-a/words/R/RO\|RO]] | rōš | PROBABLE |
+| [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōkēl | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_QA\|RO-QA]] | rōqaḥ | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_RO\|SA-MA-RO]] | Samarō | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | CANDIDATE |
-| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar?/Tamar? | CANDIDATE |
-| [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru(?) | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | SPECULATIVE |
+| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar/Tamar | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |
 
 <!-- END kaphtor:record -->

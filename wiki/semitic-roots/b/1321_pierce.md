@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1321_pierce
 title: "*bVr-: 'pierce'"
-desc: "Proto-Semitic *bVr-, 'pierce': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bVr-, 'pierce': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1321"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | brr | SEDonline semet 498 |  |
 | Amharic | brr | SEDonline semet 1394 |  |
+| Epigraphic South Arabian | Sab. brr (SD 31 apud SEDonline 1960) | SD 31; SEDonline 1960 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

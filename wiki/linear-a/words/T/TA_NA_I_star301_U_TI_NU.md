@@ -60,6 +60,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa6\|IOZa6]] | tan-ʿinā-u-tī-n(u) | May you (f.) answer us | CANDIDATE |
+| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa6\|IOZa6]] | tan-ʿinā-u-tī-n(u) | May you (f.) answer us | PROBABLE |
 
 <!-- END kaphtor:record -->

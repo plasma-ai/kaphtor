@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥarām- 'sacred, forbidden' (BK 1, 415) | BK 1, 415 |  |
 | Hebrew | ḥērem (HALOT 354) | HALOT 354 | gloss withheld |
-| Epigraphic South Arabian | Sab ḥrm, hḥrm, tḥrm, ḥrm, ḥrmt, mḥrm (SD 70–71; Biella 189–190) | SD 70–71; Biella 189–190 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥrm, hḥrm, tḥrm, ḥrm, ḥrmt, mḥrm (SD 70–71; Biella 189–190; Sabaweb lemmas 1817, 2118); ḥrm (Sabaweb lemma 4366) | SD 70–71; Biella 189–190; Sabaweb lemmas 1817, 2118; Sabaweb lemma 4366 | gloss withheld |
 | Geez | ḥarama (HALOT 353) | HALOT 353 |  |
 | Phoenician | ḥrm (HALOT 353) | HALOT 353 |  |
 | Moabite | ḥrm (Mesha 17 apud HALOT 353) | HALOT 353 | gloss withheld |

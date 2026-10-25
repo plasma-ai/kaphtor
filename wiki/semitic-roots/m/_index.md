@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/m
 desc: "Semitic roots whose first radical is m."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/m
@@ -49,7 +49,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/m/1345_night_1_last_night_2_yesterday_3_evening_4_twili|1345_night_1_last_night_2_yesterday_3_evening_4_twili]]: Proto-Semitic *(ʾa-)mVš-, 'night' 1, 'last night' 2, 'yesterday' 3, 'evening' 4, 'twilight' 5: reflexes in 15 language(s).
 
-[[wiki/semitic-roots/m/1692_subordinate_service_man_soldier|1692_subordinate_service_man_soldier]]: Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/1692_subordinate_service_man_soldier|1692_subordinate_service_man_soldier]]: Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/m/1693_stick|1693_stick]]: Proto-Semitic *makVy-, 'stick': reflexes in 1 language(s).
 
@@ -135,7 +135,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/m/2559_what_q|2559_what_q]]: Proto-Semitic *min, 'what?': reflexes in 12 language(s).
 
-[[wiki/semitic-roots/m/2560_what_q|2560_what_q]]: Proto-Semitic *ma(h), 'what?': reflexes in 15 language(s).
+[[wiki/semitic-roots/m/2560_what_q|2560_what_q]]: Proto-Semitic *ma(h), 'what?': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/m/2564_who_q|2564_who_q]]: Proto-Semitic *man(nu), 'who?': reflexes in 19 language(s).
 
@@ -145,7 +145,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/m/2604_to_pluck_pull_out_hair|2604_to_pluck_pull_out_hair]]: Proto-Semitic *mrṭ, 'to pluck, pull out hair': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/m/2620_beat|2620_beat]]: Proto-Semitic *mḫṣ, 'beat': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/2620_beat|2620_beat]]: Proto-Semitic *mḫṣ, 'beat': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/m/2638_k_of_wine_or_beer|2638_k_of_wine_or_beer]]: Proto-Semitic *mVʒ(r)-, 'k. of wine or beer': reflexes in 8 language(s).
 
@@ -206,6 +206,40 @@ updated: 2026-10-24T15:26:16Z
 [[wiki/semitic-roots/m/3218_from|3218_from]]: Proto-Semitic *min, 'from': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/3225_excellence|3225_excellence]]: Proto-Semitic *magd-, 'excellence': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/3256_to_face_approach_to_accept|3256_to_face_approach_to_accept]]: Proto-Semitic *mḫr, 'to face, approach; to accept': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/3258_bride_price_dowry|3258_bride_price_dowry]]: Proto-Semitic *mVhr-, 'bride-price, dowry': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/m/3269_to_tear|3269_to_tear]]: Proto-Semitic *mzʕ, 'to tear': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3326_queen|3326_queen]]: Proto-Semitic *mlk, 'queen': reflexes in 10 language(s).
+
+[[wiki/semitic-roots/m/3349_heel|3349_heel]]: Proto-Semitic *madram-, 'heel': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/3377_South_wind|3377_South_wind]]: Proto-Semitic *mid-at-, 'South wind': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3378_to_be_red_hot|3378_to_be_red_hot]]: Proto-Semitic *mrt, 'to be red-hot': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/3379_to_give_instructions|3379_to_give_instructions]]: Proto-Semitic *mrṯ̣, 'to give instructions': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/3436_to_be_proud_audacious|3436_to_be_proud_audacious]]: Proto-Semitic *mrḥ, 'to be proud, audacious': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3460_perhaps_lit_what_do_I_know_q|3460_perhaps_lit_what_do_I_know_q]]: Proto-Semitic *mīna ʾīdaʕ, 'perhaps (lit. what do I know?)': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3461_hammer_pick_boring_tool|3461_hammer_pick_boring_tool]]: Proto-Semitic *mnḳb, 'hammer, pick, boring tool': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/3462_justice_rectitude|3462_justice_rectitude]]: Proto-Semitic *mayšar-, 'justice, rectitude': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/3467_comb|3467_comb]]: Proto-Semitic *muŝṭ-, 'comb': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/3469_myrrh|3469_myrrh]]: Proto-Semitic *mrr, 'myrrh': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/m/3477_to_rebel|3477_to_rebel]]: Proto-Semitic *mrd, 'to rebel': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/3512_flood_high_water|3512_flood_high_water]]: Proto-Semitic *mlʾ, 'flood, high water': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3550_drought_to_suffer_drought|3550_drought_to_suffer_drought]]: Proto-Semitic *mḥl, 'drought; to suffer drought': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/m/386_knife|386_knife]]: Proto-Semitic *mVdy-, 'knife': reflexes in 1 language(s).
 
@@ -321,7 +355,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/m/K0180_wipe|K0180_wipe]]: Proto-Semitic *mVṯVṯ-, 'wipe': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/S100_hundred|S100_hundred]]: Proto-Semitic *mʾt, 'hundred': reflexes in 12 language(s).
+[[wiki/semitic-roots/m/S100_hundred|S100_hundred]]: Proto-Semitic *mʾt, 'hundred': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/m/S110_to_squash_to_hit_on_the_head|S110_to_squash_to_hit_on_the_head]]: Proto-Semitic *marāsu, 'to squash / to hit on the head': reflexes in 1 language(s).
 
@@ -333,7 +367,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/m/S24_cultic_banquet_ritual_sodality_funerary_feast|S24_cultic_banquet_ritual_sodality_funerary_feast]]: Proto-Semitic *marzVḥ-, 'cultic banquet, ritual sodality, funerary feast': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/m/S28_provisions_supplies_military_administrative|S28_provisions_supplies_military_administrative]]: Proto-Semitic *maṭnīʾ(at)-, 'provisions, supplies (military/administrative)': reflexes in 2 language(s).
+[[wiki/semitic-roots/m/S28_provisions_supplies_military_administrative|S28_provisions_supplies_military_administrative]]: Proto-Semitic *maṭnīʾ(at)-, 'provisions, supplies (military/administrative)': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/m/S31_forced_labor_corvee_levy_labor_gang|S31_forced_labor_corvee_levy_labor_gang]]: Proto-Semitic *mass-, 'forced labor, corvée levy, labor gang': reflexes in 4 language(s).
 

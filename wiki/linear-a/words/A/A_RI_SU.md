@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RI_SU
 title: "A-RI-SU"
-desc: "aršu?: cultivated or plowed field/plot (compare Akkadian eršu, Neo-Assyrian aršu). Lexicon, CANDIDATE (tier 2)."
+desc: "ḥārišu: the craftsman, artisan (title). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "uncategorised"]
 kind: "word"
 form: "A-RI-SU"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.45
-reading: "aršu?"
+reading: "ḥārišu"
 attestations: ["HT118"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,15 +31,15 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | aršu? |
-| Meaning | cultivated or plowed field/plot (compare Akkadian eršu, Neo-Assyrian aršu) |
+| Reading | ḥārišu |
+| Meaning | the craftsman, artisan (title) |
 | Root | ḥ-r-š |
-| Language layer | Akkadian comparison |
-| Semantic field | land/administrative |
+| Language layer | NWS |
+| Semantic field | occupation |
 
 ### Note
 
-Hapax on HT118, where it receives quantity 4. CAD E, s.v. eršu B, defines Akkadian eršu (Neo-Assyrian aršu) as 'plowed and sown' and substantivally 'plowed field,' attested from Old Akkadian onward. Neo-Assyrian writes a-ri-šu- forms (e.g. ORACC P224446.30.5), but the exact a-vocalism is later than HT118. Hebrew ḥārîš 'plowing' is a West Semitic cognate; Ugaritic ḥarrāšu means 'artisan' and does not independently establish this noun. On HT118 it is a recipient of pigs with 1 owed, a slot a field term does not fit. Rival: a personal name /ʾarīšu/ on √ʾ-r-š 'to request', which fits the slot: Amorite Ariš-ān and Ariš-ān-u (Gelb, AS 21, nos. 2190–91), glossary ʾariśum. A-RE-SA-NA (THE Zb 2) is read on the same root.
+Hapax on HT118, where it receives 4 pigs with 1 owed, among MA-DI, QA-QA-RU (Qaqqaru) and RI-RU-MA. The qātil participle 'craftsman': Ugaritic ḥrš 'craftsman, manual worker; artisan, builder' (DULAT 366); Amorite ḥariš-, \*ḥāriṯ- 'artificer, worker', from \*ḥrṯ 'engrave, cut', in the Mari name Ḫa-ri-ša-an (Huffmon, APNM 205). A title in a recipient list, as QA-\*310-I qaynī 'the smith' takes KI-oil on HT8a. Rivals: a personal name /ʾarīšu/ on √ʾ-r-š 'to request': Amorite Ariš-ān and Ariš-ān-u (Gelb, AS 21, nos. 2190–91), glossary ʾariśum, and ʾARUŠ-U (A-RU-SU, no. 511); A-RE-SA-NA (THE Zb 2) is read on that root. Akkadian eršu (Neo-Assyrian aršu) 'plowed and sown', substantivally 'plowed field' (CAD E, s.v. eršu B), a sense the recipient slot does not fit.
 
 ## Attestations
 
@@ -51,6 +51,6 @@ Hapax on HT118, where it receives quantity 4. CAD E, s.v. eršu B, defines Akkad
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | aršu? | recipient of pigs | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | ḥārišu | the craftsman; recipient of pigs | CANDIDATE |
 
 <!-- END kaphtor:record -->

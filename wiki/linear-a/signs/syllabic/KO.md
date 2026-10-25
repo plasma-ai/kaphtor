@@ -41,8 +41,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhēn? | CANDIDATE |
-| [[wiki/linear-a/words/K/KO_JA\|KO-JA]] | Qōya / Quya? | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhēn | CANDIDATE |
+| [[wiki/linear-a/words/K/KO_JA\|KO-JA]] | Qōya / Quya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | kummu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ayyu; ay(y)akam (HALOT 38) | HALOT 38 | gloss withheld |
 | Geez | ʾay 'which?' | Anderson–Moser 2024 root ʾayy |  |
 | Ugaritic | iy, ay (HALOT 37) | HALOT 37 | gloss withheld |
-| Epigraphic South Arabian | ʾy (HALOT 37) | HALOT 37 |  |
+| Epigraphic South Arabian | ʾy (HALOT 37; Sabaweb lemma 7542) | HALOT 37; Sabaweb lemma 7542 | gloss withheld |
 | Arabic | ʾayyu (HALOT 38) | HALOT 38 |  |
 | Hebrew | ʾayye, meʾayin (LGz. 51) | LGz. 51 | gloss withheld |
 | Aramaic | ʾe, ʾayye (LGz. 51) | LGz. 51 | gloss withheld |

@@ -62,11 +62,11 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> A-DU \[heading\]. SA-RA₂ \[recipient or institution\]: cyperus 4\[...\]; figs 4\[...\]; wine 1 + A706 (≈⅙?); flour/meal(?) \[...\].
+> Addu \[heading\]. The queen's establishment: cyperus 4\[...\]; figs 4\[...\]; wine 1 + A706 (≈⅙?); flour/meal(?) \[...\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_DU\|A-DU]] | uncertain | initial administrative heading; possibly an entity, place, transaction, or Addu/Haddu | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu | Addu/Haddu, initial heading; rival adû 'work assignment' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra(?) | queen/princess or royal establishment (recipient heading) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/C/CYP\|CYP]] | \[ideogram\] | cyperus, aromatic sedge |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | \[ideogram\] | figs |  | CONFIRMED (lexicon) |

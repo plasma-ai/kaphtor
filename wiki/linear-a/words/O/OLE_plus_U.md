@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/OLE_plus_U
 title: "OLE+U"
-desc: "ʿuṣru?: U-qualified oil subtype; exact product unknown; pressed oil is a tentative Arabic comparison. Lexicon, CANDIDATE (tier 2)."
+desc: "ʿuṣru: U-qualified oil subtype; exact product unknown; pressed oil is a tentative Arabic comparison. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity ideogram"]
 kind: "word"
 form: "OLE+U"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.35
-reading: "ʿuṣru?"
+reading: "ʿuṣru"
 attestations: ["HT2", "HT21", "HT28a", "HT42+59", "HT44a", "HT58", "HT91", "HT96b", "HT100", "HT101", "HT125a", "HT140", "TY3a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʿuṣru? |
+| Reading | ʿuṣru |
 | Meaning | U-qualified oil subtype; exact product unknown; pressed oil is a tentative Arabic comparison |
 | Root | ʿ-ṣ-r |
 | Language layer | NWS |
@@ -65,7 +65,7 @@ OLE ideogram + U adjunct: 21 tokens in 13 documents. The corpus establishes a di
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT2\|HT2]] | \[ideogram\] | olive oil subtype U |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šamnu U | U-grade oil (highest-frequency OLE compound, 22 att.; specific grade TBD). 7 + 2 + \[qty lost\] units | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šamnu U | U-grade oil (highest-frequency OLE compound, 22 att.; specific grade TBD). 7 + 2 + \[qty lost\] units | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | olive oil subtype U |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ʿuṣru? | oil subtype; perhaps pressed oil |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | olive oil (U-type) | olive oil variant | CANDIDATE |

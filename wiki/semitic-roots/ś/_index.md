@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ś
 desc: "Semitic roots whose first radical is ś."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ś
@@ -139,6 +139,24 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ś/3227_outer_garment_cloak|3227_outer_garment_cloak]]: Proto-Semitic *ŝaml-at-, 'outer garment, cloak': reflexes in 3 language(s).
 
+[[wiki/semitic-roots/ś/3296_to_think_hope_to_examine|3296_to_think_hope_to_examine]]: Proto-Semitic *ŝbr, 'to think, hope; to examine': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ś/3339_to_see|3339_to_see]]: Proto-Semitic *ŝny, 'to see': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ś/3397_ravine|3397_ravine]]: Proto-Semitic *ŝVgVr-at-, 'ravine': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ś/3398_to_skin|3398_to_skin]]: Proto-Semitic *ŝry, 'to skin': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ś/3433_to_be_high_tall_to_grow_abundantly|3433_to_be_high_tall_to_grow_abundantly]]: Proto-Semitic *ŝmḫ, 'to be high, tall; to grow abundantly': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ś/3463_king_prince_official|3463_king_prince_official]]: Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ś/3489_winter|3489_winter]]: Proto-Semitic *ŝtw, 'winter': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ś/3517_to_strive_contend|3517_to_strive_contend]]: Proto-Semitic *ŝry, 'to strive, contend': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ś/3534_lime_plaster|3534_lime_plaster]]: Proto-Semitic *ŝyd, 'lime, plaster': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/ś/360_musical_instrument_1_reed_flute_2|360_musical_instrument_1_reed_flute_2]]: Proto-Semitic *ŝab-, 'musical instrument' 1, 'reed flute' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ś/361_net_1_veil_2|361_net_1_veil_2]]: Proto-Semitic *ŝabak-, 'net' 1, 'veil' 2: reflexes in 7 language(s).
@@ -213,7 +231,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ś/K0494_mislead|K0494_mislead]]: Proto-Semitic *śVṭVy-, 'mislead': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ś/K0495_disturb|K0495_disturb]]: Proto-Semitic *śVwVś-, 'disturb': reflexes in 1 language(s).
+[[wiki/semitic-roots/ś/K0495_disturb|K0495_disturb]]: Proto-Semitic *śVwVś-, 'disturb': reflexes in 0 language(s).
 
 [[wiki/semitic-roots/ś/K0496_sprout|K0496_sprout]]: Proto-Semitic *śVwVḥ-, 'sprout': reflexes in 2 language(s).
 
@@ -231,7 +249,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ś/S45_to_rejoice_be_glad_1_joy_gladness_2|S45_to_rejoice_be_glad_1_joy_gladness_2]]: Proto-Semitic *śmḥ-, 'to rejoice, be glad' 1, 'joy, gladness' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ś/SA093_in_abundance|SA093_in_abundance]]: Epigraphic South Arabian headword *śpḳ, 'in abundance': reflexes in 2 language(s).
+[[wiki/semitic-roots/ś/SA093_to_suffice_be_abundant_in_abundance|SA093_to_suffice_be_abundant_in_abundance]]: Epigraphic South Arabian headword *śpḳ, 'to suffice, be abundant; in abundance': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ś/SA094_crop_sharing|SA094_crop_sharing]]: Epigraphic South Arabian headword *śrk, 'crop-sharing': reflexes in 3 language(s).
 

@@ -9,7 +9,7 @@ site: "Syme"
 support: "Stone vessel"
 period: "MMIIIA"
 translation: "none"
-words: []
+words: ["DA-SE-RA-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,6 +46,10 @@ Unicode (Linear A block):
 ```text
 𐘀𐘈𐘴𐘃
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/D/DA_SE_RA_TE|DA-SE-RA-TE]].
 
 ## Corpus note
 

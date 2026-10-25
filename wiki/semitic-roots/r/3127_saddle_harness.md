@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | raḥala; raḥl (Lane 1053); raḥala (LGz. 466) | Lane 1053; LGz. 466 | gloss withheld |
 | Geez | raḥala (LGz. 466) | LGz. 466 | gloss withheld |
 | Mehri | raḥāl (LGz. 466) | LGz. 466 |  |
-| Epigraphic South Arabian | Sab rḥl (SD 116); (Biella 485) | SD 116; Biella 485 | gloss withheld |
+| Epigraphic South Arabian | Sab rḥl (SD 116; Sabaweb lemma 2676); (Biella 485; Sabaweb lemma 2676) | SD 116; Sabaweb lemma 2676; Biella 485; Sabaweb lemma 2676 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

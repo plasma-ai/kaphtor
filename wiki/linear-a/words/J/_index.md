@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:39Z
 ---
 
 # wiki/linear-a/words/J
@@ -64,8 +64,6 @@ updated: 2026-10-24T16:17:50Z
 [[wiki/linear-a/words/J/JA_SA_MU|JA_SA_MU]]: yaśmaʿū: 'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_SA_RA|JA_SA_RA]]: yašara: righteous, upright (proposed adjective modifying A-NA-NE). Lexicon, CANDIDATE (tier 2).
-
-[[wiki/linear-a/words/J/JA_SA_RA_A_NA_NE|JA_SA_RA_A_NA_NE]]: Onomasticon personal name, no reading.
 
 [[wiki/linear-a/words/J/JA_SA_SA_RA|JA_SA_SA_RA]]: yaššar-: line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'uprightly; in righteousness'; not independently attested as a bare lemma. Lexicon, CANDIDATE (tier 2).
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kbr \[-u-\]; kabīr- |  | gloss withheld |
 | Akkadian | kabāru |  |  |
 | Modern Arabic | Leb kbeyr, Mec kabiyr, Malt kbīr |  | gloss withheld |
-| Epigraphic South Arabian | Sab kbr; kbr (SD 76) | SD 76 | gloss withheld |
+| Epigraphic South Arabian | Sab kbr; kbr (SD 76); (Sabaweb lemma 1527) | SD 76; Sabaweb lemma 1527 | gloss withheld |
 | Syrian Aramaic | kbr Br 316 |  | gloss withheld |
 | Amorite | Yakba/urum (PN) (HALOT 459) | HALOT 459 |  |
 | Phoenician | kbr (Krahmalkov 223) | Krahmalkov 223 | gloss withheld |

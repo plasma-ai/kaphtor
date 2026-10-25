@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:44:10Z
 ---
 
 # wiki/linear-a/words/T
@@ -47,7 +47,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/T/TA_NU_MU_TI|TA_NU_MU_TI]]: ta-nʿum-u-tī: may you (f.) be gracious/favourable (if TA begins the word). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TA_NU_NI_KI_NA|TA_NU_NI_KI_NA]]: tannî qînâ (?): chant a dirge! (proposed internal segmentation). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TA_NU_NI_KI_NA|TA_NU_NI_KI_NA]]: tannî qînâ: chant a dirge! (proposed internal segmentation). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_PA|TA_PA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -69,21 +69,21 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/T/TA_U|TA_U]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TE|TE]]: terûmā(?): administrative transaction or category marker; perhaps contribution or offering. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TE|TE]]: terûmā: administrative transaction or category marker; perhaps contribution or offering. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TE_JA|TE_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TE_JA_RE|TE_JA_RE]]: tayru: bull. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TE_JA_RE|TE_JA_RE]]: Tayru: personal name, 'Bull' (PS *ṯawr-). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TE_KE|TE_KE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TE_KE|TE_KE]]: Tegi: Tegi (personal name; spelling of TE-KI). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TE_KI|TE_KI]]: Unread (role only): personal name; 2 occurrence(s).
+[[wiki/linear-a/words/T/TE_KI|TE_KI]]: Tegi: Tegi 'Beautiful' (personal name; Hurrian tagi/tegi 'beautiful'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TE_MU_SA_SE|TE_MU_SA_SE]]: temussasē: she who melts; the melting one (goddess epithet). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TE_NU_RE|TE_NU_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TE_RI|TE_RI]]: tēri?: recipient or section heading; perhaps an excess or surplus entry. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TE_RI|TE_RI]]: tēri: recipient or section heading; perhaps an excess or surplus entry. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I|TE_SU_DE_SE_KE_I]]: Unread (role only): no role; 1 occurrence(s).
 
@@ -97,7 +97,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/T/TI|TI]]: tiʾin: figs (logographic abbreviation of TI-NI). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TI_DA_TA|TI_DA_TA]]: tidata / ṯādīt-(?): sixth(?) or sixth section(?). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TI_DA_TA|TI_DA_TA]]: tidata / ṯādīt-: sixth(?) or sixth section(?). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TI_DI_TE_QA_TI|TI_DI_TE_QA_TI]]: Unread (role only): no role; 1 occurrence(s).
 
@@ -109,7 +109,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/T/TI_MA|TI_MA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI_MA_RU_WI_TE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI_MA_RU_WI_TE]]: Tīmar-lēwīt: Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_NA|TI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -125,7 +125,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/T/TI_TI_MA|TI_TI_MA]]: tittma: sixty (numeral). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TO_MA_RO|TO_MA_RO]]: Tōmar?/Tamar?: possible personal name Tōmar/Tamar; palm-name. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TO_MA_RO|TO_MA_RO]]: Tōmar/Tamar: possible personal name Tōmar/Tamar; palm-name. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TO_ME|TO_ME]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -137,7 +137,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/T/TU|TU]]: ṯawr: bull, cattle (logographic abbreviation of ṯawr; administrative commodity category for bovine livestock/products). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TU_JU_MA|TU_JU_MA]]: Tuʿlum(?): personal name, 'hidden one' (?). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TU_JU_MA|TU_JU_MA]]: Tuʿlum: personal name, 'hidden one' (?). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_MA|TU_MA]]: tūma: twin—birth-circumstance personal name from √t-ʾ-m. Lexicon, CANDIDATE (tier 2).
 

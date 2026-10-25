@@ -65,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT55a\|HT55a]] | SI-RU | PN Ṣillu, 'shade, protection' | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT55a\|HT55a]] | Ṣillu | PN Ṣillu, 'shade, protection' | CANDIDATE |
 
 ## Onomasticon
 

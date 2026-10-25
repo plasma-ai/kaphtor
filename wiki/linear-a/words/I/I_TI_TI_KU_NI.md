@@ -63,6 +63,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | (y)ittatkūni | disbursed(?); rival a heading name | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | (y)ittatkūni | disbursed; rival a heading name | SPECULATIVE |
 
 <!-- END kaphtor:record -->

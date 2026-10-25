@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṭ
 desc: "Semitic roots whose first radical is ṭ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ṭ
@@ -83,15 +83,33 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ṭ/314_dish|314_dish]]: Proto-Semitic *ṭaš(š)-, 'dish': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/ṭ/3400_clay|3400_clay]]: Proto-Semitic *ṭVʕr-, 'clay': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṭ/3401_side|3401_side]]: Proto-Semitic *ṭapḥ-, 'side': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṭ/3402_to_vanish|3402_to_vanish]]: Proto-Semitic *ṭhm, 'to vanish': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṭ/3403_to_go_to_sleep|3403_to_go_to_sleep]]: Proto-Semitic *ṭnn, 'to go to sleep': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/ṭ/340_plug|340_plug]]: Proto-Semitic *ṭabb-, 'plug': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/ṭ/3411_to_look|3411_to_look]]: Proto-Semitic *ṭḳʕ, 'to look': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/ṭ/341_band_strap|341_band_strap]]: Proto-Semitic *ṭi/abb-, 'band, strap': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/ṭ/3420_to_skim_off|3420_to_skim_off]]: Proto-Semitic *ṭlf, 'to skim off': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṭ/3428_thus|3428_thus]]: Proto-Semitic *ṭ, 'thus': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṭ/342_weave_1_basket_2|342_weave_1_basket_2]]: Proto-Semitic *ṭVnVʾ-, 'weave' 1, 'basket' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṭ/343_fold_n|343_fold_n]]: Proto-Semitic *ṭayy-, 'fold' (n.): reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ṭ/344_spin_1_fold_wrap_2_turn_3_plait_twist_4|344_spin_1_fold_wrap_2_turn_3_plait_twist_4]]: Proto-Semitic *ṭVwVy-, 'spin' 1, 'fold, wrap' 2, 'turn' 3, 'plait,twist' 4: reflexes in 8 language(s).
+
+[[wiki/semitic-roots/ṭ/3481_enclosure_sheepfold|3481_enclosure_sheepfold]]: Proto-Semitic *ṭyr, 'enclosure, sheepfold': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṭ/3485_to_set_up_erect_a_monument|3485_to_set_up_erect_a_monument]]: Proto-Semitic *ṭnʾ, 'to set up, erect (a monument)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṭ/418_trap_net|418_trap_net]]: Proto-Semitic *ṭarḳ-, 'trap, net': reflexes in 1 language(s).
 
@@ -165,7 +183,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ṭ/S13_to_wrong_oppress_treat_unjustly|S13_to_wrong_oppress_treat_unjustly]]: Proto-Semitic *ṭalam-, 'to wrong, oppress, treat unjustly': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ṭ/S93_one_Modern_South_Arabian|S93_one_Modern_South_Arabian]]: Proto-Semitic *ṭd, 'one (Modern South Arabian)': reflexes in 2 language(s).
+[[wiki/semitic-roots/ṭ/S93_one_Modern_South_Arabian|S93_one_Modern_South_Arabian]]: Proto-Semitic *ṭd, 'one (Modern South Arabian)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṭ/SA100_KIND_OF_INCENSE_prob_RESIN_OF_tntf_TREE|SA100_KIND_OF_INCENSE_prob_RESIN_OF_tntf_TREE]]: Epigraphic South Arabian headword *ṭnp, 'KIND OF INCENSE, prob RESIN OF tntf-TREE': reflexes in 2 language(s).
 

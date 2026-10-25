@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QE_TI
 title: "QE-TI"
-desc: "qāti(?): in the charge of (list heading); Akk. qātu 'hand; charge'. Lexicon, SPECULATIVE (tier 1)."
+desc: "qāti: in the charge of (list heading); Akk. qātu 'hand; charge'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "unknown"]
 kind: "word"
 form: "QE-TI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
-reading: "qāti(?)"
+reading: "qāti"
 attestations: ["HT7a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | qāti(?) |
+| Reading | qāti |
 | Meaning | in the charge of (list heading); Akk. qātu 'hand; charge' |
 | Language layer | Akkadian comparison |
 | Category | unknown |

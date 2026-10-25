@@ -55,8 +55,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | Atika | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | (a)-turis(s)-iti | CANDIDATE |
+| [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] | ʾukulti | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TI\|I-TI]] | ʾitti | CANDIDATE |
@@ -72,8 +73,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CONFIRMED |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_KI_TI\|QA-KI-TI]] | qaqqiti | SPECULATIVE |
-| [[wiki/linear-a/words/Q/QA_TI_JU\|QA-TI-JU]] | Qātilu? | SPECULATIVE |
-| [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti(?) | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QA_TI_JU\|QA-TI-JU]] | Qātilu | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QI_TI_RI\|QI-TI-RI]] | qiṭrī | PROBABLE |
 | [[wiki/linear-a/words/R/RI_QE_TI\|RI-QE-TI]] | riqitt- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_TI\|SA-MA-TI]] | Ṣamidi | SPECULATIVE |
@@ -83,7 +84,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | tati | CANDIDATE |
 | [[wiki/linear-a/words/T/TI\|TI]] | tiʾin | CANDIDATE |
-| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt-(?) | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-lēwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinitu Dubur | PROBABLE |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) / tittōk | CANDIDATE |

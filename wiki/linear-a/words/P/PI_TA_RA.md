@@ -65,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | bitara / batūla | maiden(?); rival a recipient's name | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | bitara / batūla | maiden; rival a recipient's name | SPECULATIVE |
 
 ## Onomasticon
 

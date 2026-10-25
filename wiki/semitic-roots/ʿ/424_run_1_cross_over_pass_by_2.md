@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʕdy 2 |  |  |
 | Geez | ʕdw 2 |  |  |
 | Hebrew | ʕdy 2 |  |  |
-| Epigraphic South Arabian | ʕdw/y (SD 12) | SD 12 | gloss withheld |
+| Epigraphic South Arabian | ʕdw/y (SD 12); (Sabaweb lemma 1515) | SD 12; Sabaweb lemma 1515 | gloss withheld |
 | Syrian Aramaic | ʕdy 2 |  |  |
 | Aramaic | ʿdy (HALOT 789) | HALOT 789 |  |
 | Judaic Aramaic | ʿdy (HALOT 789) | HALOT 789 |  |

@@ -46,12 +46,12 @@ Fills the gap Gordon (1966 §156) marked between A-KA-NU and DU-RA-RE. ZA-TI may
 | Language | Comparison |
 |---|---|
 | Hebrew | zō(ʾ)t 'this' (f.sg.), from an earlier interdental demonstrative base; closest lexical parallel (Huehnergard 2023, 46) |
-| Phoenician | ʾGN n.f. 'bowl'; FK D 35 hʾgn hz 'this bowl,' with a postposed demonstrative (Krahmalkov 2000, 30) |
+| Phoenician | ʾGN n.f. 'bowl'; FK D 35 hʾgn hz 'this bowl,' with a postposed demonstrative (Krahmalkov 2000, 31) |
 | Ugaritic/Arabic | dāti/ḏāti is an inflected genitive relative/possessive form with a phonemic final /i/; it is retained only as the rejected rival analysis |
 
 ### Source
 
-Gordon 1966 §156; Krahmalkov 2000, 30; Huehnergard 2023, 46; di Mino
+Gordon 1966 §156; Krahmalkov 2000, 31; Huehnergard 2023, 46; di Mino
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2647_say_speak
 title: "*rgm: 'say, speak'"
-desc: "Proto-Semitic *rgm, 'say, speak': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rgm, 'say, speak': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2647"
@@ -30,11 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | rǯm, trǯm |  |  |
-| Akkadian | ragāmu |  |  |
+| Arabic | rǯm (Kogan 2015, ch. 3 §5.3 no. 28); trǯm | Kogan 2015, ch. 3 §5.3 no. 28 | gloss withheld |
+| Akkadian | ragāmu (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015, ch. 3 §5.3 no. 28 |  |
 | Ugaritic | rgm /ragāmu/? (UVST 177) | UVST 177 | gloss withheld |
 | Aramaic | trgm |  |  |
 | Amorite | rgm: ʾargam, rigm(ān)um (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Geez | ragama (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015, ch. 3 §5.3 no. 28 | gloss withheld |
+| Jibbali | s̃érégəm (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015, ch. 3 §5.3 no. 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

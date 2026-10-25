@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O
 desc: "Words whose first sign begins with O."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:37Z
 ---
 
 # wiki/linear-a/words/O
@@ -11,11 +11,11 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/O/OLE|OLE]]: šamnu 'oil, olive oil'. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/O/OLE_plus_DI|OLE_plus_DI]]: dišpu?: DI-oil subtype; perhaps honeyed oil. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/O/OLE_plus_DI|OLE_plus_DI]]: dišpu: DI-oil subtype; perhaps honeyed oil. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/O/OLE_plus_KI|OLE_plus_KI]]: kīnu?: oil subtype; perhaps standard or genuine-grade oil. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/O/OLE_plus_KI|OLE_plus_KI]]: kīnu: oil subtype; perhaps standard or genuine-grade oil. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/O/OLE_plus_MI|OLE_plus_MI]]: mišḥā?: oil subtype; perhaps anointing or ceremonial oil. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/O/OLE_plus_MI|OLE_plus_MI]]: mišḥā: oil subtype; perhaps anointing or ceremonial oil. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/O/OLE_plus_NE|OLE_plus_NE]]: neseku: oil designated for ritual libation; sacred oil poured as an offering. Lexicon, CANDIDATE (tier 2).
 
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/O/OLE_plus_TU|OLE_plus_TU]]: ṭuhūru 'purified/ritually clean oil'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/O/OLE_plus_U|OLE_plus_U]]: ʿuṣru?: U-qualified oil subtype; exact product unknown; pressed oil is a tentative Arabic comparison. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/O/OLE_plus_U|OLE_plus_U]]: ʿuṣru: U-qualified oil subtype; exact product unknown; pressed oil is a tentative Arabic comparison. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/O/OLE_star307|OLE_star307]]: OLE-dubur: sanctuary oil. Lexicon, PROBABLE (tier 3).
 

@@ -51,6 +51,6 @@ The second recipient on HT 90, written as one word (GORILA I 143). SI-RU ṣillu
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star304|\*304]] pidru(?), [[wiki/linear-a/words/I/I_KU_RI_NA|I-KU-RI-NA]] ʾiqurna(?), [[wiki/linear-a/words/O/OLE_plus_DI|OLE+DI]] dišpu?, [[wiki/linear-a/words/O/OLE_plus_MI|OLE+MI]] mišḥā?, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star304|\*304]] pidru, [[wiki/linear-a/words/I/I_KU_RI_NA|I-KU-RI-NA]] ʾiqurna, [[wiki/linear-a/words/O/OLE_plus_DI|OLE+DI]] dišpu, [[wiki/linear-a/words/O/OLE_plus_MI|OLE+MI]] mišḥā, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

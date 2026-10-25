@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2776_to_dwell_settle_to_place_set
 title: "*šakVn-: 'to dwell, settle; to place, set'"
-desc: "Proto-Semitic *šakVn-, 'to dwell, settle; to place, set': reflexes in 10 language(s)."
+desc: "Proto-Semitic *šakVn-, 'to dwell, settle; to place, set': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2776"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | sakna (HALOT 1496) | HALOT 1496 |  |
 | Pre-Islamic North Arabian | Safaitic skn (Al-Jallad–Jaworska 121) | Al-Jallad–Jaworska 121 | gloss withheld |
 | Ugaritic | škn (HALOT 1497; DULAT 803) | HALOT 1497; DULAT 803 | gloss withheld |
+| Epigraphic South Arabian | Sab s₁kn (Kogan 2015, ch. 3 §5.3 no. 32) | Kogan 2015, ch. 3 §5.3 no. 32 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

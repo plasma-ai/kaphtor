@@ -81,6 +81,6 @@ An entry with a numeral on HT 10a, 85a, 93a and 122a. Dardaʿ, as Hebrew Dardaʿ
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star301|\*301]] nawā, [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû(?), [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī?, [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]] banīna, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star301|\*301]] nawā, [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]] banīna, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

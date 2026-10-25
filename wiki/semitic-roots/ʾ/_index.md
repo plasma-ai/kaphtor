@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ʾ
 desc: "Semitic roots whose first radical is ʾ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T05:11:48Z
 ---
 
 # wiki/semitic-roots/ʾ
@@ -39,7 +39,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ʾ/1258_goblet|1258_goblet]]: Proto-Semitic *ʾinim-, 'goblet': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ʾ/1277_oak_tree|1277_oak_tree]]: Proto-Semitic *ʾaly-ān-, '(oak)tree': reflexes in 10 language(s).
+[[wiki/semitic-roots/ʾ/1277_oak_tree|1277_oak_tree]]: Proto-Semitic *ʾaly-ān-, '(oak)tree': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ʾ/1310_part_of_the_plough|1310_part_of_the_plough]]: Proto-Semitic *ʾin(V)g-, 'part of the plough': reflexes in 1 language(s).
 
@@ -283,7 +283,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ʾ/2718_sacred_grove_pole_goddess_Asherah|2718_sacred_grove_pole_goddess_Asherah]]: Proto-Semitic *ʾašēr-at-, 'sacred grove/pole; goddess (Asherah)': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ʾ/2719_god_deity_El_supreme_god|2719_god_deity_El_supreme_god]]: Proto-Semitic *ʾil-, 'god, deity; El (supreme god)': reflexes in 12 language(s).
+[[wiki/semitic-roots/ʾ/2719_god_deity_El_supreme_god|2719_god_deity_El_supreme_god]]: Proto-Semitic *ʾil-, 'god, deity; El (supreme god)': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/ʾ/2735_cedar|2735_cedar]]: Proto-Semitic *ʾVrz-, 'cedar': reflexes in 8 language(s).
 
@@ -307,7 +307,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ʾ/2990_Adar_Babylonian_month_XII_late_winter|2990_Adar_Babylonian_month_XII_late_winter]]: Proto-Semitic *ʔAdāru-, 'Adar (Babylonian month XII, late winter)': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ʾ/2_brother_1_sister_2|2_brother_1_sister_2]]: Proto-Semitic *ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2, 'brother' 1, 'sister' 2: reflexes in 25 language(s).
+[[wiki/semitic-roots/ʾ/2_brother_1_sister_2|2_brother_1_sister_2]]: Proto-Semitic *ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2, 'brother' 1, 'sister' 2: reflexes in 26 language(s).
 
 [[wiki/semitic-roots/ʾ/3002_strong_mighty|3002_strong_mighty]]: Proto-Semitic *ʾabīr-, 'strong, mighty': reflexes in 1 language(s).
 
@@ -336,6 +336,18 @@ updated: 2026-10-24T15:26:16Z
 [[wiki/semitic-roots/ʾ/3232_there_is_not|3232_there_is_not]]: Proto-Semitic *ʾayn-, 'there is not': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ʾ/3233_you_fem_pl|3233_you_fem_pl]]: Proto-Semitic *ʾantinna, 'you (fem. pl.)': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/ʾ/3265_to_grant_give_a_gift_gift|3265_to_grant_give_a_gift_gift]]: Proto-Semitic *ʔwš, 'to grant, give a gift; gift': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ʾ/3273_besides_apart_from_without|3273_besides_apart_from_without]]: Proto-Semitic *ʾilā/*ʾillā, 'besides, apart from; without': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ʾ/3287_to_towards_up_to|3287_to_towards_up_to]]: Proto-Semitic *ʾVd/d, 'to, towards, up to': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ʾ/3325_these_the_ones_who_which|3325_these_the_ones_who_which]]: Proto-Semitic *ʾVlV/*ʾVllV, 'these; the ones who, which': reflexes in 11 language(s).
+
+[[wiki/semitic-roots/ʾ/3413_to_chew_cud|3413_to_chew_cud]]: Proto-Semitic *ʾlḳ, 'to chew cud': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ʾ/3416_people|3416_people]]: Proto-Semitic *ʾib-V, 'people': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ʾ/368_plait_weave|368_plait_weave]]: Proto-Semitic *ʾVrVg-, 'plait, weave': reflexes in 3 language(s).
 
@@ -441,7 +453,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ʾ/K0596_ask|K0596_ask]]: Proto-Semitic *ʾVrVš-, 'ask': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ʾ/K0601_with|K0601_with]]: Proto-Semitic *ʾVt-, 'with': reflexes in 2 language(s).
+[[wiki/semitic-roots/ʾ/K0601_with|K0601_with]]: Proto-Semitic *ʾVt-, 'with': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ʾ/K0604_island|K0604_island]]: Proto-Semitic *ʾVy-, 'island': reflexes in 2 language(s).
 

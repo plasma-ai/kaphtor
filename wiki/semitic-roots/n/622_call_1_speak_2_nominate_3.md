@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | nbb 2; yənabbu, Gt tanabba (OLA80 §44.11) | OLA80 §44.11 | gloss withheld |
 | Jibbali | enbe 3 |  |  |
 | Hebrew | nbʔ 2 |  |  |
-| Epigraphic South Arabian | nbʔ 2 |  |  |
+| Epigraphic South Arabian | nbʔ 2; tnbʔ (SD 90), (Biella 289); (Sabaweb lemma 2010) | SD 90; Biella 289; Sabaweb lemma 2010 | gloss withheld |
 | Amorite | nbʾ: janbiʾ, jabbiʾ, janabbiʾ, nabīʾum (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
 | Eblaitic | na-ba-um, na⟨-ba-⟩ù-um /nabāʔum/ (VE 725; Krebernik 1983, 28) | VE 725; Krebernik 1983, 28 | gloss withheld |
 

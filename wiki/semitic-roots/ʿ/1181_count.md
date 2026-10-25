@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕdd \[-u-\] (Lane 1969) | Lane 1969 |  |
 | Mehri | ʔed |  |  |
 | Harsusi | ʔadōd |  |  |
-| Epigraphic South Arabian | Sab ʿdd (Biella 352) | Biella 352 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿdd (Biella 352; Sabaweb lemma 8072) | Biella 352; Sabaweb lemma 8072 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

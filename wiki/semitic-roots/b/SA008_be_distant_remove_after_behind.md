@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab bʿd (Biella 49); Sab bʿd, bʿdn (SD 25 apud SEDonline 1249); Min bʿd (LM 19 apud SEDonline 1249) | Biella 49; SD 25; SEDonline 1249; LM 19; SEDonline 1249 | gloss withheld |
+| Epigraphic South Arabian | Sab bʿd (Biella 49; Sabaweb lemma 2030); Sab bʿd, bʿdn (SD 25 apud SEDonline 1249; Sabaweb lemmas 2062, 2300); Min bʿd (LM 19 apud SEDonline 1249) | Biella 49; Sabaweb lemma 2030; SD 25; SEDonline 1249; Sabaweb lemmas 2062, 2300; LM 19; SEDonline 1249 | gloss withheld |
 | Arabic | Ar bʿd D id. (Biella 49); baʿuda, baʿda (LGz. 83) | Biella 49; LGz. 83 | gloss withheld |
 | Geez | baʿada (LGz. 83) | LGz. 83 | gloss withheld |
 | Soqotri | baʿad (LGz. 83); báˁad (SLOnline 3473) | LGz. 83 | gloss withheld |

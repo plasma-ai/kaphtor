@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | taḥḏīr (Lane 534); ḥaḏira (Biella 168) | Lane 534; Biella 168 | gloss withheld |
-| Epigraphic South Arabian | Sab ḥḏr (Biella 168); (SD 66) | Biella 168; SD 66 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥḏr (Biella 168; Sabaweb lemma 2873); (SD 66; Sabaweb lemma 2873) | Biella 168; Sabaweb lemma 2873; SD 66; Sabaweb lemma 2873 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star304\|\*304]] | pidru(?) | CANDIDATE |
-| [[wiki/linear-a/words/star/star304_plus_PA\|\*304+PA]] | pidru(?) + PA | CANDIDATE |
+| [[wiki/linear-a/words/star/star304\|\*304]] | pidru | CANDIDATE |
+| [[wiki/linear-a/words/star/star304_plus_PA\|\*304+PA]] | pidru + PA | CANDIDATE |
 
 <!-- END kaphtor:record -->

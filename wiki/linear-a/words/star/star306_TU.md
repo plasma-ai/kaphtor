@@ -65,10 +65,10 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] |  | personal name | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] | ʿAttu | personal name (cf. Hebrew ʿAttay) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | CANDIDATE |
 
 ## Onomasticon
 

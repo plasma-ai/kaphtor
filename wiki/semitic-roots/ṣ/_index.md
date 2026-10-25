@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ
 desc: "Semitic roots whose first radical is ṣ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ṣ
@@ -110,6 +110,34 @@ updated: 2026-10-24T15:26:16Z
 [[wiki/semitic-roots/ṣ/3093_basket|3093_basket]]: Proto-Semitic *ṣaṭ(a)r-, 'basket': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ṣ/3129_press_flat_spread_out|3129_press_flat_spread_out]]: Proto-Semitic *ṣpḥ, 'press flat, spread out': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/ṣ/3249_to_press_squeeze_to_dry_up_shrivel|3249_to_press_squeeze_to_dry_up_shrivel]]: Proto-Semitic *ṣmḳ, 'to press, squeeze; to dry up, shrivel': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/ṣ/3327_door_pivot_hinge|3327_door_pivot_hinge]]: Proto-Semitic *ṣyr, 'door pivot, hinge': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ṣ/3392_ravine_wadi|3392_ravine_wadi]]: Proto-Semitic *ṣVlVl-, 'ravine, wadi': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/3393_flower|3393_flower]]: Proto-Semitic *ṣaprir-, 'flower': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/3394_to_watch|3394_to_watch]]: Proto-Semitic *ṣtt, 'to watch': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/3426_to_brand|3426_to_brand]]: Proto-Semitic *ṣḥr, 'to brand': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṣ/3451_to_cut|3451_to_cut]]: Proto-Semitic *ṣrb, 'to cut': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṣ/3455_to_be_fitting_right_to_be_straight|3455_to_be_fitting_right_to_be_straight]]: Proto-Semitic *ṣwb, 'to be fitting, right; to be straight': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṣ/3456_to_wish_desire|3456_to_wish_desire]]: Proto-Semitic *ṣbw, 'to wish, desire': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṣ/3480_to_protect_preserve|3480_to_protect_preserve]]: Proto-Semitic *ṣwn, 'to protect, preserve': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/3493_to_roast|3493_to_roast]]: Proto-Semitic *ṣlw, 'to roast': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṣ/3500_to_turn_aside_turn_away|3500_to_turn_aside_turn_away]]: Proto-Semitic *ṣdd, 'to turn aside, turn away': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/3501_side|3501_side]]: Proto-Semitic *ṣdd, 'side': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/ṣ/3528_cymbal|3528_cymbal]]: Proto-Semitic *ṣlṣl, 'cymbal': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ṣ/376_harpune|376_harpune]]: Proto-Semitic *ṣil-ṣal-, 'harpune': reflexes in 1 language(s).
 

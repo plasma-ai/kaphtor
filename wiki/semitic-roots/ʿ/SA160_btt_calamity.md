@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʿbṭ (SD 11); (Sabaweb lemma 1940) | SD 11; Sabaweb lemma 1940 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿbṭ (SD 11); (Sabaweb lemmas 1940, 1867) | SD 11; Sabaweb lemmas 1940, 1867 | gloss withheld |
 | Arabic | Ar ʿawbaṭ 'calamity, misfortune' (Lane 1940) | Lane 1940 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

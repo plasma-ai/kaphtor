@@ -78,6 +78,6 @@ di Mino
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_DA_RO|KI-DA-RO]] Qidaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/M/MA_KA_RI_TE|MA-KA-RI-TE]] makkārītu, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_DA_RO|KI-DA-RO]] Qidaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/M/MA_KA_RI_TE|MA-KA-RI-TE]] makkārītu, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

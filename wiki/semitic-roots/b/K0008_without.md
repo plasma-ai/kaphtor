@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | bal (Kogan 2015, ch. 3 §5.2 no. 11) | Kogan 2015, ch. 3 §5.2 no. 11 | gloss withheld |
 | Punic | bl 'not' | Anderson–Moser 2024 root bal |  |
 | Ugaritic | bl (Kogan 2015, ch. 3 §5.2 no. 11) | Kogan 2015, ch. 3 §5.2 no. 11 | gloss withheld |
-| Epigraphic South Arabian | Sab bltn, blty, bly (SD 28) | SD 28 | gloss withheld |
+| Epigraphic South Arabian | Sab bltn, blty, bly (SD 28; Sabaweb lemmas 2228, 3935, 3936) | SD 28; Sabaweb lemmas 2228, 3935, 3936 | gloss withheld |
 | Amorite | balte (HALOT 136) | HALOT 136 |  |
 | Soqotri | di-bal (LGz. 27) | LGz. 27 |  |
 | Syrian Aramaic | bəlay (LGz. 27; Payne Smith 46) | LGz. 27; Payne Smith 46 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TA_NU_NI_KI_NA
 title: "TA-NU-NI-KI-NA"
-desc: "tannî qînâ (?): chant a dirge! (proposed internal segmentation). Lexicon, SPECULATIVE (tier 1)."
+desc: "tannî qînâ: chant a dirge! (proposed internal segmentation). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "ritual"]
 kind: "word"
 form: "TA-NU-NI-KI-NA"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.35
-reading: "tannî qînâ (?)"
+reading: "tannî qînâ"
 attestations: ["PLZf1"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | tannî qînâ (?) |
+| Reading | tannî qînâ |
 | Meaning | chant a dirge! (proposed internal segmentation) |
 | Root | t-n-y + q-y-n |
 | Language layer | NWS candidate |

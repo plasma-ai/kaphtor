@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KU_RA_MU
 title: "KU-RA-MU"
-desc: "kurmu: vineyard. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+desc: "Kurmu: personal name, 'Vineyard' (√k-r-m). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "KU-RA-MU"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "kurmu"
+reading: "Kurmu"
 attestations: ["HT117a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,16 +31,16 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | kurmu |
-| Meaning | vineyard |
+| Reading | Kurmu |
+| Meaning | personal name, 'Vineyard' (√k-r-m) |
 | Root | k-r-m (PS \*karm-) |
 | Language layer | NWS |
-| Category | noun |
-| Semantic field | commodity |
+| Category | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-HT117a (Haghia Triada, Casa Room 9, LMIB): in a list of 10 items at count 1. Skeleton k-r-m matches PS \*karm- "mountain with vineyard." Hebrew kerem is the exact cognate. On a Minoan palace inventory, a vineyard or vine-related commodity is contextually natural.
+HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), a name on the noun 'vineyard', as Tēnā 'Fig' (TE-\*301). Skeleton k-r-m matches PS \*karm- "mountain with vineyard." Hebrew kerem is the exact cognate.
 
 ### Cognates
 
@@ -65,6 +65,22 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | kurmu | vineyard | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Kurmu | personal name, 'Vineyard' | CANDIDATE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Note
+
+HT 117a, one of ten entries counted 1 each under MA-KA-RI-TE (KU-RO 10): a name on the noun 'vineyard', as TE-\*301 Tēnā 'Fig'. Hebrew kerem, Ugaritic krm. One witness.
 
 <!-- END kaphtor:record -->

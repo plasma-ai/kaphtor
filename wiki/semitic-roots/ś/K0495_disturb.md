@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/K0495_disturb
 title: "*śVwVś-: 'disturb'"
-desc: "Proto-Semitic *śVwVś-, 'disturb': reflexes in 1 language(s)."
+desc: "Proto-Semitic *śVwVś-, 'disturb': reflexes in 0 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0495"
@@ -25,12 +25,8 @@ updated: 2026-10-22T17:38:31Z
 | Meaning | 'disturb' |
 | Basis | project |
 
-## Reflexes
+## Notes
 
-| Language | Form | Sources | Note |
-|---|---|---|---|
-| Aramaic | ŠWŠ (CAL s.v. šwš) | CAL s.v. šwš | gloss withheld |
-
-A form keeps its source's gloss only when the source is public domain or openly licensed.
+Syr. šwš D 'to disturb' (CAL s.v. šwš) has š, which does not answer \*ś (Arb. š).
 
 <!-- END kaphtor:record -->

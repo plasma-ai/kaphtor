@@ -71,7 +71,7 @@
     },
     {
       "word": "*188-*308",
-      "reading": "buṭnu šamni(?)",
+      "reading": "buṭnu šamni",
       "meaning": "processed Pistacia/terebinth product, perhaps oil",
       "root": "b-ṭ-n + š-m-n",
       "tier": 2,
@@ -431,7 +431,7 @@
     },
     {
       "word": "*304",
-      "reading": "pidru(?)",
+      "reading": "pidru",
       "meaning": "oil/fat-register commodity; possibly fat, lard, or tallow",
       "root": "p-d-r",
       "tier": 2,
@@ -504,7 +504,7 @@
     },
     {
       "word": "*304+PA",
-      "reading": "pidru(?) + PA",
+      "reading": "pidru + PA",
       "meaning": "*304 oil/fat-register commodity with PA adjunct; exact commodity and function of PA uncertain",
       "root": "p-d-r",
       "tier": 2,
@@ -896,7 +896,7 @@
     },
     {
       "word": "*516",
-      "reading": "šipru?",
+      "reading": "šipru",
       "meaning": "transaction/account marker; possible account or register logogram",
       "root": "s-p-r",
       "tier": 2,
@@ -945,7 +945,7 @@
     },
     {
       "word": "A-DU",
-      "reading": "ʾAddu / adû(?)",
+      "reading": "ʾAddu / adû",
       "meaning": "Addu/Haddu; alternatively an administrative work assignment or stint",
       "root": null,
       "cognates": {
@@ -1043,7 +1043,7 @@
     },
     {
       "word": "A-JA",
-      "reading": "ḥaya? / ḥayyā? / Haya? / Aya?",
+      "reading": "ḥaya / ḥayyā / Haya / Aya",
       "meaning": "possible divine name or liturgical predicate: Haya/Aya, or \"(the) Living One; Life\"",
       "root": "ḥ-y-y",
       "cognates": "PS *ḥayy- \"to live, be alive; life\" (#2760). Hebrew חַי ḥay \"alive\", חַיִּים ḥayyīm \"life\"; Ugaritic ḥyw \"to live\"; Mari West Semitic ḥaya \"lives\" is written both ha-ia- and a-ia-; Late Old Babylonian Alalakh likewise alternates ha-ia- and a-ia- in the same name (Weeden 2009, 96–100). The Mesopotamian god Haya is written dḫa-ià; Aya is an independently attested goddess.",
@@ -1100,7 +1100,7 @@
       "attestations": [
         "KNZc7"
       ],
-      "note": "Hebrew/Aramaic ʾaggān 'bowl'. Gordon §119: 'opens with the word a-ka-nu = Hebrew and Aramaic ʾaggan bowl, which happens to be applied specifically to a magic bowl in an Aramaic incantation.' Self-referential vessel label: the bowl names itself. II,2 = KNZc7 (Brice/GORILA concordance). GORILA writes A-KA-NU-ZA-TI as one sign group, but Gordon segments A-KA-NU as a standalone noun. GORILA IV, 125 begins the diplomatic transcription directly with complete A-KA-NU-ZA-TI and marks no opening lacuna; no lost word should be supplied before it. The following ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), giving ʾagānu zāt 'this bowl.' Hebrew zō(ʾ)t supplies the closest lexical parallel. Phoenician ʾGN is feminine, and FK D 35 has the postposed demonstrative construction hʾgn hz, 'this bowl' (Krahmalkov 2000, 30), so feminine agreement is independently plausible. The alternative single-word √k-n-s verbal parse is weak because that root is consistently written KA-NA-SI elsewhere. The segmentation remains analytical: ZA-TI is a hapax, its first sign is disputed ZA/ZE, and final TI = /t/ with a nonphonemic support vowel is not an established Linear B rule.",
+      "note": "Hebrew/Aramaic ʾaggān 'bowl'. Gordon §119: 'opens with the word a-ka-nu = Hebrew and Aramaic ʾaggan bowl, which happens to be applied specifically to a magic bowl in an Aramaic incantation.' Self-referential vessel label: the bowl names itself. II,2 = KNZc7 (Brice/GORILA concordance). GORILA writes A-KA-NU-ZA-TI as one sign group, but Gordon segments A-KA-NU as a standalone noun. GORILA IV, 125 begins the diplomatic transcription directly with complete A-KA-NU-ZA-TI and marks no opening lacuna; no lost word should be supplied before it. The following ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), giving ʾagānu zāt 'this bowl.' Hebrew zō(ʾ)t supplies the closest lexical parallel. Phoenician ʾGN is feminine, and FK D 35 has the postposed demonstrative construction hʾgn hz, 'this bowl' (Krahmalkov 2000, 31), so feminine agreement is independently plausible. The alternative single-word √k-n-s verbal parse is weak because that root is consistently written KA-NA-SI elsewhere. The segmentation remains analytical: ZA-TI is a hapax, its first sign is disputed ZA/ZE, and final TI = /t/ with a nonphonemic support vowel is not an established Linear B rule.",
       "source": "Gordon 1966 §119, §163",
       "reviewer": "di Mino",
       "outside_scholar": {
@@ -1624,7 +1624,7 @@
     },
     {
       "word": "DA-DU-*301",
-      "reading": "dādu-nā-…?",
+      "reading": "dādu-nā-…",
       "meaning": "possible opening 'our beloved …' (fragmentary and doubtful Linear A)",
       "root": "d-w-d",
       "tier": 1,
@@ -1720,7 +1720,7 @@
     {
       "word": "DA-KU-SE-NE",
       "reading": "Takušenni",
-      "meaning": "probable Hurrian-style personal name; compare Ugaritic Taki-šenni",
+      "meaning": "probable Hurrian-style personal name; compare Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni",
       "root": null,
       "tier": 3,
       "confidence": "PROBABLE",
@@ -1731,7 +1731,7 @@
       "attestations": [
         "HT103"
       ],
-      "note": "No exact Dakušenni is attested in the Nuzi Personal Names corpus. Nuzi does attest Aku-šenni, Takku (Ta-ak-ku, Ta-a-ku, Ta-ku, Ta-gu), and Takuja (Ta-ku-ia; variant Da-ku-a-a): Gelb, Purves, and MacRae 1943, s.vv. AKU-ŠENNI, TAKKU, TAKUJA. The closest full compound is Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, analyzed as Hurrian Taki-šenni (NPN p. 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35). Hurrian šēna ‘brother’ with the individualizing -ni, šen=ni, accounts for the onomastic element -šenni (Giorgieri 2000, 199, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26, s.v. šeni); the first element remains unexplained. Linear A DA-KU can spell /ta.ku/ under stop neutralization, but the vowel differs; /Takušenni/ is therefore a comparative reconstruction, not an exact external attestation. HT 103 .4–5 DA-KU-SE-NE 1 (on .2–3 a break follows NE) and extended DA-KU-SE-NE-TI on HT104 support an entity or name. The pair favors suffixation, but GORILA I 171 allows final TI to be an ideogram or classifier; Finkelberg 2002/03, 96–97 instead proposes a dative/recipient function.",
+      "note": "No exact Dakušenni is attested in the Nuzi Personal Names corpus. Nuzi does attest Aku-šenni, Takku (Ta-ak-ku, Ta-a-ku, Ta-ku, Ta-gu), and Takuja (Ta-ku-ia; variant Da-ku-a-a): Gelb, Purves, and MacRae 1943, s.vv. AKU-ŠENNI, TAKKU, TAKUJA. The closest full compound is Boğazköy Tagu(b)-šini (KBo XXII 114, 7), under the themes tagi- and tagu- (Laroche 1980, 250); Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, is analyzed as Hurrian Taki-šenni (NPN p. 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35). Hurrian šēna ‘brother’ with the individualizing -ni, šen=ni, accounts for the onomastic element -šenni (Giorgieri 2000, 199, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26, s.v. šeni); the first element remains unexplained. Linear A DA-KU spells /ta.ku/ under stop neutralization, with the u of tagu-; /Takušenni/ is a comparative reconstruction, not an exact external attestation. HT 103 .4–5 DA-KU-SE-NE 1 (on .2–3 a break follows NE) and extended DA-KU-SE-NE-TI on HT104 support an entity or name. The pair favors suffixation, but GORILA I 171 allows final TI to be an ideogram or classifier; Finkelberg 2002/03, 96–97 instead proposes a dative/recipient function.",
       "source": "Gordon 1966; Gelb, Purves, and MacRae 1943; Tropper 2000; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian"
     },
     {
@@ -2391,7 +2391,7 @@
     },
     {
       "word": "I-KU-RI-NA",
-      "reading": "ʾiqurna(?)",
+      "reading": "ʾiqurna",
       "meaning": "at the horn / promontory (toponym?)",
       "root": "q-r-n (PS *ḳarn-)",
       "tier": 2,
@@ -3215,7 +3215,7 @@
     },
     {
       "word": "KA-PA",
-      "reading": "kapa(r)?",
+      "reading": "kapa(r)",
       "meaning": "entity, institution, or settlement; perhaps village",
       "root": "k-p-r",
       "tier": 2,
@@ -3442,7 +3442,7 @@
     },
     {
       "word": "KI-RA",
-      "reading": "kirû?/qīra?",
+      "reading": "kirû/qīra",
       "meaning": "possibly garden/orchard; alternatively liquid bitumen",
       "root": null,
       "tier": 2,
@@ -3805,8 +3805,8 @@
     },
     {
       "word": "KU-RA-MU",
-      "reading": "kurmu",
-      "meaning": "vineyard",
+      "reading": "Kurmu",
+      "meaning": "personal name, 'Vineyard' (√k-r-m)",
       "root": "k-r-m (PS *karm-)",
       "cognates": {
         "Hebrew": "kerem (כֶּרֶם) \"vineyard\" (BDB 501)",
@@ -3817,13 +3817,13 @@
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.55,
-      "semantic_field": "commodity",
-      "category": "noun",
+      "semantic_field": "personal_name",
+      "category": "personal_name",
       "language_layer": "NWS",
       "attestations": [
         "HT117a"
       ],
-      "note": "HT117a (Haghia Triada, Casa Room 9, LMIB): in a list of 10 items at count 1. Skeleton k-r-m matches PS *karm- \"mountain with vineyard.\" Hebrew kerem is the exact cognate. On a Minoan palace inventory, a vineyard or vine-related commodity is contextually natural.",
+      "note": "HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), a name on the noun 'vineyard', as Tēnā 'Fig' (TE-*301). Skeleton k-r-m matches PS *karm- \"mountain with vineyard.\" Hebrew kerem is the exact cognate.",
       "source": "di Mino"
     },
     {
@@ -4144,7 +4144,7 @@
         "HT95a",
         "HT95b"
       ],
-      "note": "Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu is the closest independent formal and semantic parallel: CAD M/2 98 gives 'amount, number,' and the spellings mi-nu-te occur in administrative or reckoning contexts (Ebeling, Parfümrez. p. 26 ii 20; AKA 143 iv 33). This makes 'count/reckoning' preferable to a goddess Minut. Linear A does not mark vowel length, and final TE may carry a support vowel. Arabic Manāt remains a remote comparison, not the primary identification.",
+      "note": "Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu is the closest independent formal and semantic parallel: CAD M/2 98 gives 'amount, number,' and the spellings mi-nu-te occur in administrative or reckoning contexts (Ebeling, Parfümrez. p. 26 ii 20; AKA 143 iv 33). This makes 'count/reckoning' preferable to a goddess Minut. Linear A does not mark vowel length, and final TE may carry a support vowel. Linear A writes i where Amorite has a: MI-NU-TE against Ma-nu-tum (Gelb no. 4528), as I-PI-NA-MA against pān-. Arabic Manāt remains a remote comparison, not the primary identification.",
       "source": "CAD M/2 98–99; di Mino"
     },
     {
@@ -4216,14 +4216,14 @@
     },
     {
       "word": "NA-DA-RE",
-      "reading": "nadr",
-      "meaning": "vow / votive (or Egyptian PN: of-the-hand-of-Re)",
+      "reading": "Nadr",
+      "meaning": "personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'",
       "root": "n-d-r",
       "tier": 3,
       "confidence": "PROBABLE",
       "confidence_score": 0.6,
-      "semantic_field": "ritual",
-      "category": "vocabulary",
+      "semantic_field": "personal_name",
+      "category": "personal_name",
       "language_layer": "NWS",
       "attestations": [
         "HT117a"
@@ -4233,7 +4233,7 @@
     },
     {
       "word": "NA-SI",
-      "reading": "nasīʾ?",
+      "reading": "nasīʾ",
       "meaning": "damaged final sequence; possible nasīʾ 'chief, prince'",
       "root": "n-s-ʾ",
       "cognates": {
@@ -4281,7 +4281,7 @@
     },
     {
       "word": "NI-NU-NI",
-      "reading": "nīnūn (?)",
+      "reading": "nīnūn",
       "meaning": "offspring, descendants, posterity",
       "root": "n-y-n + plural/collective -ūn or case -un",
       "cognates": {
@@ -4320,7 +4320,7 @@
     },
     {
       "word": "OLE+DI",
-      "reading": "dišpu?",
+      "reading": "dišpu",
       "meaning": "DI-oil subtype; perhaps honeyed oil",
       "root": "d-š-p",
       "tier": 2,
@@ -4360,7 +4360,7 @@
     },
     {
       "word": "OLE+KI",
-      "reading": "kīnu?",
+      "reading": "kīnu",
       "meaning": "oil subtype; perhaps standard or genuine-grade oil",
       "root": "k-w-n",
       "tier": 2,
@@ -4393,7 +4393,7 @@
     },
     {
       "word": "OLE+MI",
-      "reading": "mišḥā?",
+      "reading": "mišḥā",
       "meaning": "oil subtype; perhaps anointing or ceremonial oil",
       "root": "m-š-ḥ",
       "tier": 2,
@@ -4717,7 +4717,7 @@
     },
     {
       "word": "PA₃-NI",
-      "reading": "bānī?",
+      "reading": "bānī",
       "meaning": "builder or personnel designation",
       "root": "b-n-y",
       "tier": 2,
@@ -4893,7 +4893,7 @@
     },
     {
       "word": "PU-RA₂",
-      "reading": "Bōl/Baʿl(?)",
+      "reading": "Bōl/Baʿl",
       "meaning": "allocation heading; possibly Baal, 'Lord'",
       "root": "b-ʿ-l",
       "cognates": {
@@ -5182,7 +5182,7 @@
     },
     {
       "word": "QE-TI",
-      "reading": "qāti(?)",
+      "reading": "qāti",
       "meaning": "in the charge of (list heading); Akk. qātu 'hand; charge'",
       "root": null,
       "cognates": {
@@ -5458,7 +5458,7 @@
     },
     {
       "word": "SA-QE-RI",
-      "reading": "Šaqeli(?)",
+      "reading": "Šaqeli",
       "meaning": "personal name, from √š-q-l 'to weigh'",
       "root": "š-q-l",
       "tier": 2,
@@ -5498,7 +5498,7 @@
     },
     {
       "word": "SA-RA₂",
-      "reading": "šarra(?)",
+      "reading": "šarra",
       "meaning": "queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading)",
       "root": "š-r-r",
       "cognates": {
@@ -5903,19 +5903,19 @@
     },
     {
       "word": "SI-KI-RA",
-      "reading": "šikira / šēkāra",
-      "meaning": "strong drink, beer (commodity term); rival 'wages, hire'",
-      "root": "š-k-r",
+      "reading": "Śikira",
+      "meaning": "personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'",
+      "root": "ś-k-r",
       "tier": 1,
       "confidence": "SPECULATIVE",
       "confidence_score": 0.3,
-      "semantic_field": "commodity",
-      "category": "vocabulary",
+      "semantic_field": "personal_name",
+      "category": "personal_name",
       "language_layer": "NWS",
       "attestations": [
         "HT8a"
       ],
-      "note": "HT 8a: JE-DI · OLE+KI 10, then PA₃-KA-RA-TI 1½, PA 3½, TE-*301 2, QA-*310-I ¾, SI-KI-RA ¼, KI-RE-TA-NA ½; an entry in a list that mixes commodities (heifers, figs) and persons (the smith, the Cretan). Hebrew שֵׁכָר šēkār 'strong drink' (HALOT 1501; Lev 10:9), √š-k-r 'to become intoxicated' (Ug. /š-k-r/ II, DULAT 804). A-SI-KI-RA (KH 20) stands in the entry slot before CYP+E, parallel to ]DU-RE-ZA, and is no witness of the commodity. Rival: śikr- 'wages, hire' (√ś-k-r 'to hire', Ug. /š-k-r/ I, DULAT 804; Heb. śākār 'wages' (HALOT 1330), שֶׂכֶר śeker, Prov 11:18, Isa 19:10). One witness.",
+      "note": "HT 8a: JE-DI · OLE+KI 10, then PA₃-KA-RA-TI 1½, PA 3½, TE-*301 2, QA-*310-I ¾, SI-KI-RA ¼, KI-RE-TA-NA ½; a recipient of KI-oil beside Tēnā 'Fig', the smith and the Cretan. √ś-k-r 'to hire' (Ug. /š-k-r/ I, DULAT 804; Heb. śākār 'wages', HALOT 1330): at Mari Sa-ki-rum and the woman's name Sa-ki-ra, under *škr 'hire, reward, favor' (Huffmon, APNM 245–46), Sa-ki-rum compared to Hebrew śākîr 'hired; hireling' (APNM 145); Gelb, AS 21, no. 5400 ŠAKIR-U (SA-KI-RU). Rival: Hebrew שֵׁכָר šēkār 'strong drink' (HALOT 1501; Lev 10:9), √š-k-r 'to become intoxicated' (Ug. /š-k-r/ II, DULAT 804). A-SI-KI-RA (KH 20) stands in the entry slot before CYP+E, parallel to ]DU-RE-ZA. One witness.",
       "source": "di Mino"
     },
     {
@@ -6158,7 +6158,7 @@
     },
     {
       "word": "TA-NU-NI-KI-NA",
-      "reading": "tannî qînâ (?)",
+      "reading": "tannî qînâ",
       "meaning": "chant a dirge! (proposed internal segmentation)",
       "root": "t-n-y + q-y-n",
       "cognates": {
@@ -6248,7 +6248,7 @@
     },
     {
       "word": "TE",
-      "reading": "terûmā(?)",
+      "reading": "terûmā",
       "meaning": "administrative transaction or category marker; perhaps contribution or offering",
       "root": "r-w-m",
       "cognates": {
@@ -6343,8 +6343,8 @@
     },
     {
       "word": "TE-JA-RE",
-      "reading": "tayru",
-      "meaning": "bull",
+      "reading": "Tayru",
+      "meaning": "personal name, 'Bull' (PS *ṯawr-)",
       "root": "ṯ-w-r (PS *ṯawr- \"bull\")",
       "cognates": {
         "Hebrew": "šôr (שׁוֹר) \"bull, ox\" (BDB 1004); from PS *ṯawr- via ṯ→š",
@@ -6355,13 +6355,13 @@
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.5,
-      "semantic_field": "animal",
-      "category": "noun",
+      "semantic_field": "personal_name",
+      "category": "personal_name",
       "language_layer": "NWS",
       "attestations": [
         "HT117a"
       ],
-      "note": "HT117a (Haghia Triada, Casa Room 9, LMIB): list of 10 items at count 1 each, KU-RO 10 total. Alongside KU-RA-MU (√k-r-m \"vineyard\"), KU-PA₃-NU (Kubānu, PROBABLE), NA-DA-RE (nadare \"vow,\" CANDIDATE), under the MA-KA-RI-TE heading (\"merchants,\" CANDIDATE). The NWS w→y shift turns *ṯawr- into tayr-: JA renders the /y/. The initial /ṯ/ is written with TE because no /ṯe/ or /ṯa/ sign exists—only ZU=/ṯu/. This ṯ→T neutralization before non-/u/ vowels independently confirms ZU's vowel-specific function. Bull-horn dyad with KA-RO-NA (qarna \"horn\") on HT11a—same archive, same period. Ugaritic El is ṯr ʾil \"Bull El\"—the bull as divine epithet. PY Ta 711 (Linear B) qo-u-ka-ra = gʷou-kara (\"bull-headed\") ritual vessels belonging to the wanassa.",
+      "note": "HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each, KU-RO 10, under the MA-KA-RI-TE heading (\"merchants,\" CANDIDATE); a name on the noun 'bull', as Tēnā 'Fig' (TE-*301). Alongside KU-RA-MU (Kurmu 'Vineyard'), KU-PA₃-NU (Kubānu, PROBABLE), NA-DA-RE (Nadr 'Vow', PROBABLE). The NWS w→y shift turns *ṯawr- into tayr-: JA renders the /y/. The initial /ṯ/ is written with TE because no /ṯe/ or /ṯa/ sign exists—only ZU=/ṯu/. This ṯ→T neutralization before non-/u/ vowels independently confirms ZU's vowel-specific function. Bull-horn dyad with KA-RO-NA (qarna \"horn\") on HT11a—same archive, same period. Ugaritic El is ṯr ʾil \"Bull El\"—the bull as divine epithet. PY Ta 711 (Linear B) qo-u-ka-ra = gʷou-kara (\"bull-headed\") ritual vessels belonging to the wanassa.",
       "source": "di Mino"
     },
     {
@@ -6810,7 +6810,7 @@
       "root": null,
       "cognates": {
         "Hebrew": "zō(ʾ)t 'this' (f.sg.), from an earlier interdental demonstrative base; closest lexical parallel (Huehnergard 2023, 46)",
-        "Phoenician": "ʾGN n.f. 'bowl'; FK D 35 hʾgn hz 'this bowl,' with a postposed demonstrative (Krahmalkov 2000, 30)",
+        "Phoenician": "ʾGN n.f. 'bowl'; FK D 35 hʾgn hz 'this bowl,' with a postposed demonstrative (Krahmalkov 2000, 31)",
         "Ugaritic/Arabic": "dāti/ḏāti is an inflected genitive relative/possessive form with a phonemic final /i/; it is retained only as the rejected rival analysis"
       },
       "tier": 2,
@@ -6823,7 +6823,7 @@
         "KNZc7"
       ],
       "note": "Fills the gap Gordon (1966 §156) marked between A-KA-NU and DU-RA-RE. ZA-TI may write /zāt/ (historically perhaps /zāʾt/), with TI exposing final /t/ and a nonphonemic support vowel. Hebrew zō(ʾ)t is the closest lexical parallel. Phoenician ʾGN is feminine, and FK D 35 hʾgn hz 'this bowl' provides an independent noun + postposed demonstrative parallel. Because Semitic places the demonstrative after its noun here, the natural English rendering of A-KA-NU ZA-TI is simply 'this bowl'; 'this very bowl' would add emphasis not established by the form. This reading is preferable to /ḏāti/ 'of': Ugaritic dāti and Arabic ḏāti have a live genitive /i/ and require an agreement frame absent here. Caution: ZA-TI is a hapax, GORILA and SigLA disagree on ZA/ZE, and final TI = /t/ is a proposed Linear A spelling rather than a demonstrated Linear B rule.",
-      "source": "Gordon 1966 §156; Krahmalkov 2000, 30; Huehnergard 2023, 46; di Mino"
+      "source": "Gordon 1966 §156; Krahmalkov 2000, 31; Huehnergard 2023, 46; di Mino"
     },
     {
       "word": "ZU-DI",
@@ -7084,7 +7084,7 @@
     },
     {
       "word": "A-KO-A-NE",
-      "reading": "ha-kōhēn?",
+      "reading": "ha-kōhēn",
       "meaning": "the priest (proposed title after PI-TE-RI)",
       "root": "k-h-n",
       "cognates": {
@@ -7240,22 +7240,26 @@
     },
     {
       "word": "PI-TA-KE-SI",
-      "reading": "Pidi-kešḫi",
-      "meaning": "Hurrian-type compound personal name; second element kešḫi 'throne'",
-      "root": null,
+      "reading": "Bīt-kissi",
+      "meaning": "(Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi",
+      "root": "b-y-t + k-s-ʾ",
       "cognates": {
-        "Hurrian": "kešḫi 'siège, trône', ki-iš-hi = Akk. kussû (Laroche 1980, 143–44); pidi/u-, forms without a gloss (Laroche 1980, 200; Richter 2012, 319)"
+        "Proto-Semitic": "*bayt- 'house' (semitic_roots no. 652)",
+        "Akkadian": "bīt kussî, É.GIŠ.GU.ZA, '1. royal property (real estate), 2. royal service' (CAD K 593); PN and PN ša GIŠ.GU.ZA 'belonging to the crown' (Alalakh 7:26; CAD K 592)",
+        "Ugaritic": "ksu 'seat, throne'; Emar /kissu/ (DULAT 456)",
+        "Hurrian": "kešḫi 'siège, trône', ki-iš-hi = Akk. kussû (Laroche 1980, 143–44), rival"
       },
-      "tier": 2,
-      "confidence": "CANDIDATE",
-      "confidence_score": 0.45,
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
       "semantic_field": "personnel",
-      "language_layer": "Hurrian",
+      "category": "title",
+      "language_layer": "NWS",
       "attestations": [
         "HT87"
       ],
-      "note": "Hurrian-type compound. Second element kešḫi 'throne' (ki-iš-hi = Akk. kussû; Laroche 1980, 143–44), with the cluster šḫ written by SI. The first element matches the pidi/u- forms Laroche collects without a gloss (1980, 200; Richter 2012, 319); TA writes the dental under stop neutralization. Part of a Hurrian-heavy personnel register on HT87 alongside DI-KI-SE (Dikise; cf. Hurrian tagiše/tegiše) and related KU-PA₃-NU, TU-SU-PU₂ on HT49a.",
-      "source": "di Mino; Laroche 1980; Richter 2012"
+      "note": "HT 87 PI-TA-KE-SI 1, first of six one-unit entries under MA-KA-RI-TE in a roster of men. bīt-kissi, construct + genitive, as Akk. bīt kussî 'royal property, royal service' (CAD K 593): '(man) of the throne-house', as the šūt GIŠ.GU.ZA 'those of the throne' of an Old Akkadian roster of men (CAD K 592). The house itself heads HT 21 as PI-TA-KA-SE. Rival: Hurrian Pidi-kešḫi, kešḫi 'throne' (Laroche 1980, 143–44) with pidi/u- unglossed (1980, 200).",
+      "source": "di Mino; CAD K; Laroche 1980"
     },
     {
       "word": "DI-KI-SE",
@@ -7402,7 +7406,7 @@
     },
     {
       "word": "U-TA₂",
-      "reading": "Uta/Uda?",
+      "reading": "Uta/Uda",
       "meaning": "possible entity or place name heading the NI (fig) entry on HT103",
       "root": null,
       "tier": 2,
@@ -7419,7 +7423,7 @@
     },
     {
       "word": "U-TA-RO",
-      "reading": "watru(?)",
+      "reading": "watru",
       "meaning": "additional, surplus, or excess (administrative heading)",
       "root": "w-t-r",
       "tier": 2,
@@ -7436,7 +7440,7 @@
     },
     {
       "word": "SI+SE",
-      "reading": "Šapšu(?)",
+      "reading": "Šapšu",
       "meaning": "unidentified administrative entity or category; speculative comparison with Šapšu",
       "root": "š-p-š",
       "cognates": {
@@ -7754,7 +7758,7 @@
     },
     {
       "word": "QA-TI-JU",
-      "reading": "Qātilu?",
+      "reading": "Qātilu",
       "meaning": "personal name, recipient of 8 (q-ṭ-l)",
       "root": "q-ṭ-l",
       "cognates": {
@@ -8067,18 +8071,18 @@
     },
     {
       "word": "A-RI-SU",
-      "reading": "aršu?",
-      "meaning": "cultivated or plowed field/plot (compare Akkadian eršu, Neo-Assyrian aršu)",
+      "reading": "ḥārišu",
+      "meaning": "the craftsman, artisan (title)",
       "root": "ḥ-r-š",
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.45,
-      "semantic_field": "land/administrative",
-      "language_layer": "Akkadian comparison",
+      "semantic_field": "occupation",
+      "language_layer": "NWS",
       "attestations": [
         "HT118"
       ],
-      "note": "Hapax on HT118, where it receives quantity 4. CAD E, s.v. eršu B, defines Akkadian eršu (Neo-Assyrian aršu) as 'plowed and sown' and substantivally 'plowed field,' attested from Old Akkadian onward. Neo-Assyrian writes a-ri-šu- forms (e.g. ORACC P224446.30.5), but the exact a-vocalism is later than HT118. Hebrew ḥārîš 'plowing' is a West Semitic cognate; Ugaritic ḥarrāšu means 'artisan' and does not independently establish this noun. On HT118 it is a recipient of pigs with 1 owed, a slot a field term does not fit. Rival: a personal name /ʾarīšu/ on √ʾ-r-š 'to request', which fits the slot: Amorite Ariš-ān and Ariš-ān-u (Gelb, AS 21, nos. 2190–91), glossary ʾariśum. A-RE-SA-NA (THE Zb 2) is read on the same root."
+      "note": "Hapax on HT118, where it receives 4 pigs with 1 owed, among MA-DI, QA-QA-RU (Qaqqaru) and RI-RU-MA. The qātil participle 'craftsman': Ugaritic ḥrš 'craftsman, manual worker; artisan, builder' (DULAT 366); Amorite ḥariš-, *ḥāriṯ- 'artificer, worker', from *ḥrṯ 'engrave, cut', in the Mari name Ḫa-ri-ša-an (Huffmon, APNM 205). A title in a recipient list, as QA-*310-I qaynī 'the smith' takes KI-oil on HT8a. Rivals: a personal name /ʾarīšu/ on √ʾ-r-š 'to request': Amorite Ariš-ān and Ariš-ān-u (Gelb, AS 21, nos. 2190–91), glossary ʾariśum, and ʾARUŠ-U (A-RU-SU, no. 511); A-RE-SA-NA (THE Zb 2) is read on that root. Akkadian eršu (Neo-Assyrian aršu) 'plowed and sown', substantivally 'plowed field' (CAD E, s.v. eršu B), a sense the recipient slot does not fit."
     },
     {
       "word": "TU-MA",
@@ -8237,31 +8241,33 @@
     },
     {
       "word": "RE-ZA",
-      "reading": "RE-ZA",
-      "meaning": "counted administrative category or measure; possibly Luwian aruza",
-      "root": null,
+      "reading": "(ʾa)raz",
+      "meaning": "cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure",
+      "root": "ʾ-r-z",
       "cognates": {
-        "Hieroglyphic Luwian": "aruza, a measure equated with Urartian liš (later direct attestation)",
-        "Ugaritic": "arz 'cedar'",
-        "Hebrew": "ʾerez 'cedar' (HALOT 83)"
+        "Proto-Semitic": "*ʾVrz- 'cedar' (semitic_roots no. 2735)",
+        "Ugaritic": "arz 'a conifer; cedar' (DULAT 109)",
+        "Eblaite": "ar-za-tum /ʔarzatum/ 'cedar' (VE 471)",
+        "Hebrew": "ʾerez 'cedar' beside bərôš 'juniper' (1 Kgs 5:22)",
+        "Hieroglyphic Luwian": "aruza, a measure equated with Urartian liš, rival"
       },
-      "tier": 2,
-      "confidence": "CANDIDATE",
-      "confidence_score": 0.4,
-      "semantic_field": "administrative",
-      "category": "administrative_measure",
-      "language_layer": "Anatolian_or_NWS",
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "commodity",
+      "category": "commodity",
+      "language_layer": "NWS",
       "attestations": [
         "HT13",
         "HT88",
         "KH86"
       ],
-      "note": "RE-ZA is always quantified: HT13 has 5½, HT88 has 6, and KH86 places it before CYP. Those contexts establish a counted administrative category but not its substance. Hieroglyphic Luwian aruza 'a measure' is the strongest contextual comparison, although its direct attestation is later than LM IB. Semitic *ʺrz 'cedar' remains formally possible but requires an unrepresented initial glottal and does not explain the administrative distribution as well. Translate only as category/measure(?).",
-      "source": "di Mino"
+      "note": "Always counted: KH 86 ]RE-ZA CYP, before the aromatic cyperus, broken before; HT 88 RE-ZA 6 before NI KI-KI-NA 7; HT 13 RE-ZA 5½, first entry of the VIN · TE list. ʾarz 'cedar', the aromatic wood, resin and oil, beside cyperus at Khania as cedar beside juniper in Hebrew (1 Kgs 5:22); RE writes ra, ZA the z. Weak point: initial ʾa- unwritten. Rival: Hieroglyphic Luwian aruza, a measure, attested later.",
+      "source": "di Mino; DULAT"
     },
     {
       "word": "E",
-      "reading": "ḥemʾat?",
+      "reading": "ḥemʾat",
       "meaning": "quantified commodity; perhaps butter, ghee, or cream",
       "root": "ḥ-m-ʾ",
       "cognates": {
@@ -8475,7 +8481,6 @@
       "category": "commodity ideogram",
       "language_layer": "NWS",
       "attestations": [
-        "HT8a",
         "HT25a",
         "HT85b",
         "ZA10a",
@@ -8484,7 +8489,7 @@
         "ZA16",
         "ZA21a"
       ],
-      "note": "Single-sign commodity logogram, possibly denoting flour or ground grain. PS *parūs- 'crushed, broken' (Heb. pāras 'to break, divide'). Dual role: standalone commodity (16×, 5 sites) and compound modifier (GRA+PA 19× = ground grain/flour, *304+PA 3× = rendered fat). Clusters with TI (figs) in commodity community. ZA12a/b quantities (64, 40) indicate bulk agricultural product. No phonetic complement confirmation—single-consonant skeleton makes reading tentative."
+      "note": "Single-sign commodity logogram, possibly denoting flour or ground grain. PS *parūs- 'crushed, broken' (Heb. pāras 'to break, divide'). Dual role: standalone commodity (16×, 5 sites) and compound modifier (GRA+PA 19× = ground grain/flour, *304+PA 3× = rendered fat). Clusters with TI (figs) in commodity community. ZA12a/b quantities (64, 40) indicate bulk agricultural product. No phonetic complement confirmation—single-consonant skeleton makes reading tentative. On HT8a PA takes KI-oil 3½ in a list of recipients, an abbreviation there and not the commodity."
     },
     {
       "word": "A-SE",
@@ -8502,7 +8507,7 @@
         "HT132",
         "ZAZb3"
       ],
-      "note": "Proto-NWS *ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/>/i/ via Barth's Law). Four attestations across two sites and two registers (HT tablets, ZAZb3 vessel). On HT93a A-SE stands in the recipient slot before I GRA+PA, as QA-QA-RU does, so that witness fits a recipient as well as an offering. Commodity co-occurrences match Biblical pattern: grain (HT93a I GRA+PA), aromatics (HT81 MI+JA+RU myrrh), oil contexts (Lev 2:1, Num 28:5). Competing hypothesis: ʾaš \"who/which\" (Phoenician relative pronoun ʾš)—better phonological fit, used in existing ZAZb3 translation. Ugaritic cognate uncertain (Huehnergard: itt /ʾiṭtātu/? with /ṭ/ not /š/)."
+      "note": "Proto-NWS *ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/>/i/ via Barth's Law). Four attestations across two sites and two registers (HT tablets, ZAZb3 vessel). On HT81, HT93a and HT132 A-SE opens an entry, followed by a divider and a commodity (MI+JA+RU myrrh, I GRA+PA, A319); on HT93a the personal name QA-QA-RU stands before the same grain, so a recipient is the rival there. Commodity co-occurrences match Biblical pattern: grain (HT93a I GRA+PA), aromatics (HT81 MI+JA+RU myrrh), oil contexts (Lev 2:1, Num 28:5). Competing hypothesis: ʾaš \"who/which\" (Phoenician relative pronoun ʾš), the better phonological fit. Ugaritic cognate uncertain (Huehnergard: itt /ʾiṭtātu/? with /ṭ/ not /š/)."
     },
     {
       "word": "I-MI-SA-RA",
@@ -8764,7 +8769,7 @@
     },
     {
       "word": "TE-RI",
-      "reading": "tēri?",
+      "reading": "tēri",
       "meaning": "recipient or section heading; perhaps an excess or surplus entry",
       "root": "w-t-r?",
       "cognates": {
@@ -9010,7 +9015,7 @@
     },
     {
       "word": "TI-DA-TA",
-      "reading": "tidata / ṯādīt-(?)",
+      "reading": "tidata / ṯādīt-",
       "meaning": "sixth(?) or sixth section(?)",
       "root": "ṯ-d-ṯ",
       "cognates": {
@@ -9187,7 +9192,7 @@
     },
     {
       "word": "OLE+U",
-      "reading": "ʿuṣru?",
+      "reading": "ʿuṣru",
       "meaning": "U-qualified oil subtype; exact product unknown; pressed oil is a tentative Arabic comparison",
       "root": "ʿ-ṣ-r",
       "tier": 2,
@@ -9485,7 +9490,7 @@
     },
     {
       "word": "TO-MA-RO",
-      "reading": "Tōmar?/Tamar?",
+      "reading": "Tōmar/Tamar",
       "meaning": "possible personal name Tōmar/Tamar; palm-name",
       "root": "t-m-r",
       "cognates": {
@@ -10046,7 +10051,7 @@
     },
     {
       "word": "RU-PI-*305-MI",
-      "reading": "Ripī-Ḏāmir(?)",
+      "reading": "Ripī-Ḏāmir",
       "meaning": "personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r)",
       "root": "r-p-ʾ + ḏ-m-r",
       "cognates": {
@@ -10306,7 +10311,7 @@
     },
     {
       "word": "PA₃",
-      "reading": "b(i)=; bād(i)?",
+      "reading": "b(i)=; bād(i)",
       "meaning": "in, with, by; on HT103 perhaps administrative ‘in the charge of’",
       "root": "b",
       "cognates": {
@@ -10336,8 +10341,8 @@
     },
     {
       "word": "MA-RU",
-      "reading": "maru",
-      "meaning": "wool (substrate commodity noun)",
+      "reading": "Maru",
+      "meaning": "personal name, 'Wool' (substrate maru 'wool')",
       "root": "substrate (non-Semitic wool word)",
       "cognates": {
         "Greek": "μαλλός (mallos) 'flock of wool' < Minoan /maru/",
@@ -10346,8 +10351,8 @@
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.5,
-      "semantic_field": "commodity",
-      "category": "commodity",
+      "semantic_field": "personal_name",
+      "category": "personal_name",
       "language_layer": "substrate",
       "attestations": [
         "HT117a"
@@ -10355,7 +10360,7 @@
       "sites": [
         "Haghia Triada"
       ],
-      "note": "Bare form of the mimation doublet MA-RU/MA-RU-ME (HT24a 'the wool'). On HT117a a roster item assigned '1', between KU-RA-MU 'vineyard' and KU-PA₃-NU (Kubānu)—a list mixing persons with property items (bull, votive, earthenware), where 'one (unit of) wool' fills an otherwise unglossed slot. The word's reality is anchored by logogram A559 = MA+RU composite (Salgarella 2022; Nosch & Weilhartner 2026), source of Greek μαλλός.",
+      "note": "Bare form of the mimation doublet MA-RU/MA+RU-ME (HT24a 'the wool'). On HT117a one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), between KU-RA-MU (Kurmu) and KU-PA₃-NU (Kubānu): a name on the noun, as Tēnā 'Fig' (TE-*301). Linear B ma-ro-ne, a man's name in the dative, receives oil at KN Fh 347 (DMic s.v.). The wool word is anchored by logogram A559 = MA+RU composite (Salgarella 2022; Nosch & Weilhartner 2026), source of Greek μαλλός.",
       "source": "di Mino"
     },
     {
@@ -10771,24 +10776,30 @@
     },
     {
       "word": "A-TU-RI-SI-TI",
-      "reading": "(a)-turis(s)-iti",
-      "meaning": "from Turissa/Tylissos—toponymic adjective",
+      "reading": "ha-Turisīt",
+      "meaning": "the Tylissian (f.): provenance label on a jar",
       "root": null,
+      "cognates": {
+        "Hebrew": "ha-kkĕnaʿănît 'the Canaanite (woman)' (Gen 46:10; Exod 6:15; 1 Chr 2:3), ha-mmôʾābît (2 Chr 24:26): article + feminine gentilic -ît",
+        "Ugaritic": "ḫtyt GN f. 'Hittite', hmš ddm l ḫtyt 'five cauldronsful for the Hittite (people?)', KTU 4.269:3 (DULAT 409); kd (I) n. f. 'jar' (DULAT 424)",
+        "Amorite": "GUBL-AJIT-UM, Gu-ub-la-ji-tum 'the Byblian (woman)' (Gelb 1980, no. 1795)",
+        "Linear B": "tu-ri-so Tylissos (KN Ce 59, Da, Db, Dd, Dh); ethnic tu-ri-si-jo (KN E 668, Og 833), fem. tu-ri-si-ja (KN Lc 533)"
+      },
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.5,
       "semantic_field": "toponym",
-      "category": "toponym",
-      "language_layer": "pre-Greek/Minoan toponym",
+      "category": "gentilic",
+      "language_layer": "NWS",
       "attestations": [
         "KNZb5"
       ],
-      "note": "KNZb5 (Knossos clay vessel). Two lines: (1) Linear B bridge tu-ri-so / tu-ri-si-jo (Tylissos and its ethnic adjective, KN tablets); (2) the corpus's own prior gloss concurs. Final -TI unexplained—no affix-templates entry sanctions it (cf. the -TI questions on A-TU-RI-SI-TI and KE-JU-MI class). Vessel label: origin/provenance adjective on a commodity jar, the -SI-JA-SE/-TE-I-JA gentilic genre.",
-      "source": "di Mino"
+      "note": "KN Zb 5, a clay vessel (MM IIIB), the single word A-TU-RI-SI-TI ·. Pre-Greek Turis- (LB tu-ri-so, Tylissos) with the NWS article ha- (h dropped to A, as A-KI-DA-RO) and the feminine gentilic -īt, as KA-NA-NI-TI kanaʿanītī. The feminine agrees with the jar (Ug. kd n. f., KA-DI kadd): a provenance label of the SU-KI-RI-TE-I-JA genre. Linear B writes the same feminine ethnic with Greek -ia, tu-ri-si-ja. A Semitic formation on a pre-Greek stem.",
+      "source": "di Mino; Gelb 1980; DULAT"
     },
     {
       "word": "TU-JU-MA",
-      "reading": "Tuʿlum(?)",
+      "reading": "Tuʿlum",
       "meaning": "personal name, 'hidden one' (?)",
       "root": "ʿ-l-m",
       "cognates": {
@@ -10940,7 +10951,7 @@
     },
     {
       "word": "KO-JA",
-      "reading": "Qōya / Quya?",
+      "reading": "Qōya / Quya",
       "meaning": "personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong')",
       "root": "q-w-y (Amorite QWJ, unglossed)",
       "cognates": {
@@ -11832,6 +11843,530 @@
         "Syriac": "partā, pl. parrē 'bran, husk; scurf of the head' (Brock. 591)"
       },
       "note": "PH 3a .3 ]MA+RU ⅓ · PẠ-RẠ ⅓ (GORILA I 291): after the wool ligature MA+RU and the MA ligatures *556, *557 and *563, with the wool entry's ⅓ measure; a fractional measure fits a material counted by weight. PA and RA at their primary values, the geminate unwritten. Both signs dotted. Rivals: *parʕ- '(loose) hair of the head' (Akk. pērtu, Hbr. päraʕ; SED I No. 218), head hair rather than a traded material; *ɣapar- 'stiff hair' (Kogan 2011, 223) with its first syllable unwritten. HT 128a .1 *326 PA-RA TU-RU-NU-SE-ME GRA 10, with no quantity of its own (GORILA I 221): there a personal name, or *barr- 'wheat' (Hbr. bār, Akk. burru, CAD B 330) with PA for /b/. A two-sign word: the PH 3a context, not the spelling, selects the sense."
+    },
+    {
+      "word": "TE-KI",
+      "reading": "Tegi",
+      "meaning": "Tegi 'Beautiful' (personal name; Hurrian tagi/tegi 'beautiful')",
+      "root": null,
+      "cognates": {
+        "Hurrian": "tagi 'beau', RS voc. te-gi-še 'beau prix'; onom. Tagi(b)-šarri, Tagu(b)-šini, Taguya (Laroche 1980, 249–50)",
+        "Ugaritic": "tg PN, Hurrian (DULAT 847)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT13",
+        "HT122a"
+      ],
+      "note": "HT 13 .3–4 TE-KI 27½, after TE-TU 56 and before KU-ZU-NI 18, under KA-U-DE-TA VIN · TE · (GORILA I 27). HT 122a .3 TE-KI 2, before QA-*310-I 3 (GORILA I 207). HT 85a writes TE-KE 3 in the same set of units (DA-SI-*118, KU-ZU-NI), counted under VIR. Hurrian tagi 'beautiful' as a bare-stem name; the Ras Shamra form te-gi-še has e in the first syllable, as TE-KI does. Rival: PS *diḳ(ḳ)- 'small' (Ug. dḳ, DULAT 275). A two-sign name: the vowel match, not the consonants, separates it from chance.",
+      "source": "di Mino; Laroche 1980"
+    },
+    {
+      "word": "TE-KE",
+      "reading": "Tegi",
+      "meaning": "Tegi (personal name; spelling of TE-KI)",
+      "root": null,
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT85a"
+      ],
+      "note": "HT 85a .5 TE-KE 3, whole and undotted, sixth of seven entries under A-DU · *307+*307 · VIR+[?] ·, after KU-ZU-NI 5 (GORILA I 131). HT 13 lists DA-SI-*118, KU-ZU-NI and TE-KI in the same order; TE-KE is TE-KI with the e/i alternation. See TE-KI.",
+      "source": "di Mino; Laroche 1980"
+    },
+    {
+      "word": "QE-PU",
+      "reading": "qēpu",
+      "meaning": "official, commissioner (title); rival: the personal name Qīpu",
+      "root": "q-y-p",
+      "cognates": {
+        "Akkadian": "qīpu (qēpu) s. 'official; administrator of a region, a city, a temple', from MB on, Ass. qēpu, lex. LÚ qe-e-pu (CAD Q 264); qīpu adj. 'trustworthy, trusted (person)' (CAD Q 263); qiāpu 'to believe, trust'",
+        "Nuzi": "QĪPU, Ki-pu, slave of the palace (Gelb, Purves, and MacRae 1943, 88)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "Akkadian",
+      "attestations": [
+        "HT9a",
+        "HT9b"
+      ],
+      "note": "HT 9a and 9b, the wine roster: QE-PU 2 on both faces, one of two entries unchanged (with DI-NA-U 4) while the total falls from 31¾ to 24 (GORILA I 19). QE writes q and the Assyrian ē, PU the -pu. An Akkadian title in a recipient slot beside the names Padī and Dīnāyu. Rival: the name Qīpu.",
+      "source": "di Mino; CAD Q 263–64"
+    },
+    {
+      "word": "PA-SE-JA",
+      "reading": "Paššiya",
+      "meaning": "Paššiya (personal name; Hurrian hypocoristic on pašš- 'send')",
+      "root": null,
+      "cognates": {
+        "Nuzi": "PAŠŠIJA, Pa-aš-ši-ia, two bearers, one the son of Pula-ḫali who also bears Pašši-tilla (Gelb, Purves, and MacRae 1943, 112); \"Hypocoristic for Paššip-tilla\" (ibid., 243)",
+        "Hurrian": "pašš- 'mander', Mitanni letter pa-aš-ši-en; paššithi 'messager' (Laroche 1980, 197–99)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HTWc3001",
+        "HTWc3002"
+      ],
+      "note": "The matched roundel pair HT Wc 3001 (PA-SE-JA ½) and 3002 (PA-SE-JA), Scribe 107 (GORILA II 72): one context. HT 93a .8 ]PA-SE-JA 20, broken before, PA dotted, ]PI-SE-JA possible (GORILA I 147). The base PA-SE heads HT 18 and stands on HT 27b as an entry parallel to MI-DA (· VIN+WA · SA n): name and -ya short form in one archive, as Pašši-tilla and Paššiya at Nuzi. SE writes the stem vowel i. Rival: the Semitic nisba -iya, 'the one of PA-SE', as KU-PA₃-RI-JA Gubliya, with PA-SE unexplained. Cf. LB pa-sa-ja, a spice recipient (KN Ga 953).",
+      "source": "di Mino; Gelb, Purves, and MacRae 1943; Laroche 1980"
+    },
+    {
+      "word": "DA-SE-RA-TE",
+      "reading": "Dašurat",
+      "meaning": "Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old')",
+      "root": "d-ṯ-r",
+      "cognates": {
+        "Amorite": "DAŠUR-AT-UM, DA-ŠU-RA-TUM, FN (YOS VIII 51 2, 14; Gelb 1980 no. 1489); DAŠUR-UM, DA-ŠU-RU-UM (no. 1490); DAŠUR-AH+ʿAŠTAR, DA-ŠU-RA-EŠ₄-DAR, FN (no. 1488); ʿAMM-I+DAŠUR, AM-MI-DA-ŠUR? (no. 729); dašurum, dušurum, fem. dašuratum, dašura 'old' (Gelb 1980, 17)",
+        "Arabic": "daṯara, aor. -ṯuru, inf. duṯūr, of a trace of a dwelling 'it became effaced… and it became old'; of a man 'he became overcome by old age and emaciation'; dāṯir 'effaced' (Lane 851)",
+        "Amarna": "PN Dašarti, {m}da-a-šar-ti-i (EA 162)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "SYZa6"
+      ],
+      "note": "SY Za 6, on the wall of a chalice-shaped serpentine libation table below the rim: one group of four signs, no divider (Muhly and Olivier 2008, 209–210). SE uncertain; DA (SA not excluded), RA and TE probable. DA-SE-RA-TE writes DA-ŠU-RA-TUM sign for sign without mimation: SE writes š, TE the feminine -t. Amorite š writes PS *ṯ, so dašur- is Arabic daṯara 'became old'; Gelb gives no root. The sole word on a libation table: the dedicant's name, or 'the Old One (f.)' as an epithet. Rival: SA for DA. One attestation.",
+      "source": "di Mino; Gelb 1980; Lane"
+    },
+    {
+      "word": "A-RE-DA-I",
+      "reading": "Ar-tae",
+      "meaning": "Ar-tae (personal name; Hurrian ar- 'give')",
+      "root": null,
+      "cognates": {
+        "Nuzi": "AR-TAE, A-ar-ta-e, var. Ar-ta-e, Ar-ta-a-e, A-ar-da-e (Gelb, Purves, and MacRae 1943, 33); ar- with -tae, from ar 'give' (ibid., 203)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT29"
+      ],
+      "note": "HT 29 .5 A-RE-DA-I 2, whole and undotted, RE written over an erased sign, the whole tablet over an erasure (GORILA I 55). An entry of two units after [?]-KI-TA 2 and before KA-DU-MA-NE 1, on a tablet with PA-JA-RE. Nuzi writes the name A-ar-da-e beside A-ar-ta-e: RE writes ar- with a dead vowel, DA the -da- of that spelling. Rival: DA-I dayu as a second element, with A-RE unexplained.",
+      "source": "di Mino; Gelb, Purves, and MacRae 1943"
+    },
+    {
+      "word": "*363-KE-MA-SE",
+      "reading": "Šakma-se",
+      "meaning": "the one of Šakmu (Shechem) (gentilic in -SE on the toponym)",
+      "root": "ṯ-k-m",
+      "cognates": {
+        "Proto-Semitic": "*ṯVkm- 'neck and shoulders' (semitic_roots no. 2037)",
+        "Hebrew": "šǝkem 'shoulder, mountain ridge'; Šǝkem Shechem, gentilic haš-šikmî (Num 26:31)",
+        "Ugaritic": "ṯkm 'shoulder' > 'top' (DULAT 890)",
+        "Amarna": "KUR ša-ak-mi 'the land of Šakmu', Shechem (EA 289)",
+        "Amorite": "ŠKM: Šākim, DN (Gelb 1980, 33); ŠAKIM-UM, ŠA-KI-MU-UM (no. 5804)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "gentilic",
+      "language_layer": "NWS",
+      "attestations": [
+        "ZA15a"
+      ],
+      "note": "ZA 15a .7 *363-KE-MA-SE 5, the last entry of the wine issue headed *47-KU-NA, after SA-MI-DA-E 4 (GORILA III 183). Intact, no dots. *363 at its proposed value SO: so-ke-ma writes škm, the Hebrew and Akkadian reflex of PS *ṯkm; the rival value ṮA gives the same root. -SE as on RU-MA-TA-SE beside bare RU-MA-TA, and on MI-ZA-SE on the same face: town and gentilic, as Šǝkem and šikmî. Rival: the Amorite name Šakim (ŠA-KI-MU-UM). *363 unresolved.",
+      "source": "di Mino; Gelb 1980; DULAT"
+    },
+    {
+      "word": "A-KI-RO",
+      "reading": "ʾAkiru",
+      "meaning": "ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman')",
+      "root": "ʾ-k-r",
+      "cognates": {
+        "Amorite": "ʾAKIR-UM, A-KI-RU-UM (KISURRA B 7+); ʾAKIR-I, A-KI-RI (VAS VIII 14 37); ʾAKIR-AH, A-KI-RA, FN (Gelb 1980 nos. 338–340)",
+        "Hebrew": "ʾikkār 'plowman, farmer' (Jer 51:23; Amos 5:16)",
+        "Akkadian": "ikkaru 'plowman, farm laborer; farmer', Sum. lw. (CAD I/J s.v.)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "ARKH4b"
+      ],
+      "note": "ARKH 4b .4 A-KI-RO 3, after the numeral ]9 that closes the entry of .3–4 and before ZA-SI-ZU[ ]3, in a list of whole-number entries with no logogram on the face (GORILA III 14–15). Intact and undotted. A-KI-RO spells A-KI-RU-UM / A-KI-RI / A-KI-RA sign for sign, RO for the case vowel. The noun ʾikkār behind the name is this lexicon's analysis, not Gelb's. Rivals: the Akkadian name Ikkaru; A + KI-RO 'owed'.",
+      "source": "di Mino; Gelb 1980"
+    },
+    {
+      "word": "A-SU-JA",
+      "reading": "Azzuya",
+      "meaning": "Azzuya (woman's name; Hurrian hypocoristic on az(z)-)",
+      "root": null,
+      "cognates": {
+        "Nuzi": "AZ(Z)UIA, A-zu-ia, var. Az-zu-ia, a woman (Gelb, Purves, and MacRae 1943, 41); az(z), Hurrian, in women's names (ibid., 208)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT11a"
+      ],
+      "note": "HT 11a .3–4 A-SU-JA 1, A at the end of .3 and SU-JA on .4, whole and undotted, the first entry after KU-RO 10 (GORILA I 23). Spelled as Nuzi A-zu-ia: SU writes zu, JA the hypocoristic -ya. Rival: Ugaritic PN ùsy (DULAT 111).",
+      "source": "di Mino; Gelb, Purves, and MacRae 1943"
+    },
+    {
+      "word": "MA-ZA",
+      "reading": "mazza",
+      "meaning": "corvée workers, labour gang (personnel term)",
+      "root": "m-s-s",
+      "cognates": {
+        "Proto-Semitic": "*mass- 'forced labor, corvée levy, labor gang' (semitic_roots S31)",
+        "Akkadian": "massu 'corvée worker': idi LÚ.MEŠ ma-zi 'wages for the corvée workers' (Wiseman Alalakh 246:6; CAD M/1 s.v.)",
+        "Hebrew": "mas מַס 'corvée, labour gang': wayyaʿal ham-melek šəlōmōh mas 'King Solomon raised a levy' (1 Kgs 5:27)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "attestations": [
+        "ZA10b"
+      ],
+      "note": "ZA 10b .2–3 MA-ZA 5, after U-*49 6 and before MA-KI-DE-TE 5 (GORILA III 171), in a list that counts A-MI-TA ʾamita 'handmaid' 3. MA-ZA writes ma-za on primary values: Alalakh's z spelling, the geminate unwritten. A labour gang issued in a list, as Alalakh issues wages to the ma-zi. Rivals: the Eblaite name ma-za (Pagan 1998); the Hurrian name mzy, ma-zi-i (DULAT 600).",
+      "source": "di Mino; CAD M/1"
+    },
+    {
+      "word": "KA-JU",
+      "reading": "kallû",
+      "meaning": "messenger, courier (title)",
+      "root": "q-l-l",
+      "cognates": {
+        "Proto-Semitic": "*ḳVlVl- 'be light' (semitic_roots no. 979)",
+        "Akkadian": "kallû 'messenger', LÚ ka-al-la at Ugarit (RS 16.188 r. 7; CAD K 83–84)",
+        "Ugaritic": "ql (II) 'courier' (KTU 4.213:27; DULAT 689)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "Akkadian",
+      "attestations": [
+        "HT88"
+      ],
+      "note": "HT 88 .4 KA-JU 1, both signs whole and undotted, the second of six one-unit entries after KI-RO, between KU-PA₃-PA₃ 1 and KU-PA₃-NU 1 (GORILA I 139). JU at its primary value lu: ka-lu, the geminate unwritten. A title in a roster of one-unit entries, as Ugarit issues wine to the courier. Rivals: Ugaritic qallu, with KA for q; kalû 'lamentation priest' (CAD K 91).",
+      "source": "di Mino; CAD K 83–84; DULAT"
+    },
+    {
+      "word": "RO-KE",
+      "reading": "rōkēl",
+      "meaning": "trader, merchant (title); rival rōqēaḥ 'perfumer'",
+      "root": "r-k-l",
+      "cognates": {
+        "Proto-Semitic": "*rVkVl- 'trade' (semitic_roots no. 2823)",
+        "Hebrew": "rōkēl 'trader': hā-rōkĕlîm beside the goldsmiths (Neh 3:31–32); ʾabqat rôkēl 'the merchant's powders' (Song 3:6)",
+        "Ugaritic": "rqḥ (I) 'perfumer' (DULAT 734), the rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT98a"
+      ],
+      "note": "HT 98a .4 RO-KE ½, whole and undotted, between TE-*301 ¾ and KA-RI-*310-I ¼, in a list of fractional issues with TA-NA-TI; wine on face b (GORILA I 161). The qōṭēl participle with Canaanite ō, as RO-E rōʿē; KE at its primary value k. The final l goes unwritten, as Linear B drops a word-final liquid: ma-te mātēr, pa-te patēr (PY An 607), and Linear A KA-PA kapa(r). Rival: rōqēaḥ 'perfumer', which needs KE for q.",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "SA-DI",
+      "reading": "šadī",
+      "meaning": "land labourer, field worker; rival the personal name Šadī",
+      "root": "ś-d-w",
+      "cognates": {
+        "Proto-Semitic": "*śVdVy- 'field' (semitic_roots K0480)",
+        "Ugaritic": "šdy (I) 'land labourer', nʿrm šdym (KTU 4.868:4); PN šdy (II), syll. ša-de₄-ya (DULAT 799)",
+        "Hebrew": "śādeh שָׂדֶה 'field' (Gen 2:19)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT111b"
+      ],
+      "note": "HT 111b .1 SA-DI 4[, whole and undotted, the numeral broken after (GORILA I 181), on a fragment broken above and below. SA writes š in the S-class merger. A count of four fits a term for workers; the fragment gives no heading to choose between the occupation and the name. Rival: the name Šadī (Ugaritic šdy (II); Amorite šad- 'mountain').",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "A-SE-JA",
+      "reading": "ʾaššē-ya",
+      "meaning": "(portion) of the fire offering (-iya derivative of A-SE)",
+      "root": "ʾ-š-š",
+      "cognates": {
+        "Proto-Semitic": "*ʾišs- 'fire' (semitic_roots no. 812)",
+        "Hebrew": "ʾiššeh אִשֶּׁה 'fire offering' (Lev 1:9); ʾēš 'fire'"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "ritual",
+      "category": "ritual",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT115a"
+      ],
+      "note": "HT 115a .4 A-SE-JA with four fraction signs, whole and undotted, after PA-RA-NE 1, on a palimpsest whose heading carries GRA+BOSm (GORILA I 189). The base A-SE ʾaššē opens grain and commodity entries on HT 81, HT 93a and HT 132; -JA forms the derivative as in PA-SE / PA-SE-JA. Rivals: the Nuzi name Aziya, A-zi-ia (Gelb, Purves, and MacRae 1943, 41); the Ugaritic name ùsy (DULAT 111).",
+      "source": "di Mino"
+    },
+    {
+      "word": "SI-DA-RO",
+      "reading": "siddāru",
+      "meaning": "siddāru 'Arranger' (personal name; spelling of SI-DA-RE)",
+      "root": "s-d-r",
+      "cognates": {
+        "Proto-Semitic": "*sadār- 'order' (semitic_roots K0390)",
+        "Akkadian": "sadāru 'place in order'",
+        "Hebrew": "sēder 'order', pl. sĕdārîm (Job 10:22)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "GO2r"
+      ],
+      "note": "GO 2 recto .3 SI-DA-RO with ¼, broken after the fraction, below single-sign entries SI[, KA ⅛, SI 2 and DA[ (Younger, Linear A Texts). SI-DA-RE (HT 17, HT 122a) with the final vowel o; JA-SI-DA-RA (PH 7a) carries the same stem. A second site, not a second context for SI-DA-RE. Rival: a commodity term, as the single-sign entries around it are. See SI-DA-RE.",
+      "source": "di Mino"
+    },
+    {
+      "word": "DA-MI-NU",
+      "reading": "Dimenu",
+      "meaning": "Dimenu (personal name; Ugaritic name type dmn)",
+      "root": null,
+      "cognates": {
+        "Ugaritic": "dmn PN (etym. unc.), syll. ZI-me-ni, ZI-me-nu (RS 34.169:2) (DULAT 283); tmn (II) PN (etym. unc.), syll. ta-me-nu (RS 34.169:5) (DULAT 858)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personal_name",
+      "language_layer": "unresolved",
+      "attestations": [
+        "HT117a"
+      ],
+      "note": "HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). DA at its primary value d gives dmn; the syllabic ZI-me-nu has the same three syllables. DULAT gives no etymology, so the language stays open. Rival: Ugaritic tmn (II), ta-me-nu, which needs DA for t. Second analysis: DA = the determinative-relative ḏā 'the one of' + MI-NU, a 'he of X' name written as one word, as DU-RU-WI ḏu-lēwī is. The type: Amorite Zu-i-la 'He of God' (Gelb no. 6596), Zu-dIš-ḫa-ra 'He of Išḫara' (no. 6598), on ḏu 'he/she of', written ZU (Gelb 1980, 18); Nabataean dwšrʾ, Δουσαρης 'He of the Šarā', probably dišar (Macdonald, in Al-Jallad 2022, 95–96); Hebrew zeh sînay 'the One of Sinai' (Judg 5:5). MI-NU is from √m-n-y 'count, allot', the portion and fate (PS *maniy-at-, no. 2703): Amorite manawum, manūtum (Gelb 1980, 25), Arab. Manāt (Q 53:20); cf. MI-NE Mīnō in DA-DU-MI-NE. Or from √m-n-n 'bestow, favor': Heb. mān 'manna' (Exod 16:31). Hence dā-Mīnu 'He of the Portion' or 'He of the Favor'. MI- stands for Amorite ma-, as in MI-NU-TE against Ma-nu-tum (Gelb no. 4528). Cf. LB da-mi-ni-jo, a shepherd at Knossos (DMic I).",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "DA-NA-SI",
+      "reading": "Ḏā-Naśiʾ",
+      "meaning": "He of Naśiʾ (personal name heading HT 126a)",
+      "root": "ḏ + n-ś-ʾ",
+      "cognates": {
+        "Proto-Semitic": "*nśʾ- 'to lift' (semitic_roots S38)",
+        "Amorite": "Naśiʾ DN, written NA-SI: Niqmi-la-Naśiʾ NI-IQ-MI-LA-NA-SI (Gelb no. 5051), Yadur-Naśiʾ IA-DU-UR-NA-SI (no. 3218); ḏu 'he/she of', written ZU (Gelb 1980, 18)",
+        "Hebrew": "nāśîʾ נָשִׂיא 'leader, prince' (HALOT 727): nəśîʾ ʾĕlōhîm נְשִׂיא אֱלֹהִים 'a prince of God' (Gen 23:6), wə-nāśîʾ bə-ʿammǝkā lōʾ tāʾōr וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר (Exod 22:27), nəśîʾê maṭṭôt נְשִׂיאֵי מַטּוֹת (Num 1:16)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT126a"
+      ],
+      "note": "HT 126a .1 DA-NA-SI · *318 ·, heading the tablet, before A-NA-[·] 1 and SI-DI-JA 1 (GORILA I 217). ḏā 'the one of', as in DA-MI-NU, + Naśiʾ, the Amorite god 'the Exalted One', whom Gelb's names write NA-SI sign for sign: 'He of Naśiʾ', the type of Amorite Zu-dIš-ḫa-ra 'He of Išḫara' (Gelb no. 6598). NA-SI also closes U-MI-NA-SI, the heading of HT 117a and HT 28b. Rival: ḏā-Nasr, the god Nasr of Ḥimyar (Q 71:23; Faris 1952, 10), with r unwritten.",
+      "source": "di Mino; Gelb 1980"
+    },
+    {
+      "word": "DA-NE-KU-TI",
+      "reading": "Ḏā-naquddi",
+      "meaning": "He of the speckled (flock) (personal name); rival 'He of the head shepherd'",
+      "root": "ḏ + n-q-d",
+      "cognates": {
+        "Proto-Semitic": "*naḳid- 'shepherd', *naḳad- 'sheep' (semitic_roots no. 2577)",
+        "Ugaritic": "ksp d nqdm 'silver of the head shepherds' (KTU 4.369:8); nqd 'head shepherd' (DULAT 630); syll. mu-qa-dī 'grazing rights' (PRU 6 116; UVST NQD¹)",
+        "Hebrew": "nōqēd נֹקֵד 'sheep-breeder', of Mesha (2 Kgs 3:4); nāqōd נָקֹד 'speckled' (Gen 30:32)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT117a"
+      ],
+      "note": "HT 117a .8–9 DA-NE-KU-TI 1, after DA-MI-NU 1 and before KI-DA-RO 1, in the second list headed SA-TA (GORILA I 197). ḏā 'the one of', as in DA-MI-NU, + naquddi, genitive of naqudd- 'speckled', Jacob's flock (Gen 30:32), TI writing di: 'He of the speckled (flock)'. KU-TI answers to -qudd-, as Hebrew nəquddîm (Gen 30:39). Ugaritic joins the same d to nqdm in ksp d nqdm (KTU 4.369:8); Safaitic has the name Nqd (Harding 1971, 597). DA-MI-NU beside it answers to LB da-mi-ni-jo, a shepherd at Knossos. Rivals: nāqidi 'head shepherd' (Ebla na-gi-du-um), whose a-i vowels miss NE-KU; DA-NE + KU-TI, neither part attested alone.",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "DA-TA-RA",
+      "reading": "Daṯar",
+      "meaning": "Old (man's name); rival 'He of the gate'",
+      "root": "d-ṯ-r",
+      "cognates": {
+        "Amorite": "DAŠUR-UM, DA-ŠU-RU-UM (Gelb 1980 no. 1490); fem. DA-ŠU-RA-TUM (no. 1489); dašurum 'old' (Gelb 1980, 17)",
+        "Arabic": "daṯara 'became old', of a man 'overcome by old age' (Lane 851)",
+        "Ugaritic": "ṯġr 'gate' (semitic_roots no. 677), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT6a",
+        "HT88"
+      ],
+      "note": "HT 6a .1–2 KA-PA · DA-TA-RA · TE · NI 15, heading a fig entry (GORILA I 13). HT 88 .6 DA-TA-RE 1, in the KI-RO roster before KU-RO 6 (GORILA I 139), the same name. daṯar 'old', the masculine of DA-SE-RA-TE Dašurat: Amorite DA-ŠU-RU-UM beside fem. DA-ŠU-RA-TUM (Gelb nos. 1490, 1489). TA writes ṯ as in TA-RA ṯa(ġ)ra, where DA-SE-RA-TE writes it SE. Rival: ḏā-ṯaġri 'He of the gate', ḏā as in DA-MI-NU + ṯaġr- as in TA-RA, a type with no attested name.",
+      "source": "di Mino; Gelb 1980; Lane"
+    },
+    {
+      "word": "DA-I-PI-TA",
+      "reading": "Ṭayyibat",
+      "meaning": "Good (f.) (personal name)",
+      "root": "ṭ-y-b",
+      "cognates": {
+        "Proto-Semitic": "*ṭayb- 'good' (semitic_roots no. 2494)",
+        "Amorite": "ṬAJB-AT-UM, DA-BA-TUM, a woman (Gelb 1980 no. 1409); ṭābum, fem. ṭābatum 'good' (Gelb 1980, 35)",
+        "Eblaite": "da-bù 'good' (VE 62)",
+        "Arabic": "ṭayyiba, fem. of ṭayyib 'good'"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "ZA10a",
+        "ZA8"
+      ],
+      "note": "ZA 10a .4–5 DA-I-PI-TA 1, in a name list after A-DU-KU-MI-NA 1 (GORILA III 169); ZA 8 DA-I-PI-TA 2½, before KA-I-RO 4, by another scribe (GORILA III 165). ṭayyibat- 'good (f.)', fem. of qattil ṭayyib-: DA writes ṭ as in Amorite DA-BA-TUM Ṭaybatum (Gelb no. 1409) and Ebla da-bù 'good'; I writes yyi, the gemination unmarked. LB da-i-pi-ta heads a list of men at Knossos (KN Bk 799), non-Greek (Docs² 537): the name carried into Mycenaean Crete. Rivals: DA-I + PI-TA, DA-I dayyu 'enough' (HT 12) with PI-TA otherwise only inside PI-TA-JA; DA + I-PI-TA, I-PI-TA unattested.",
+      "source": "di Mino; Gelb 1980"
+    },
+    {
+      "word": "TI-MA-RU-WI-TE",
+      "reading": "Tīmar-lēwīt",
+      "meaning": "Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE",
+      "root": "t-m-r + l-w-y",
+      "cognates": {
+        "Proto-Semitic": "*tam(V)r- 'palm tree' (semitic_roots no. 737)",
+        "Hebrew": "timmōrāh תִּמֹרָה 'palm figure', carved with cherubim in Solomon's temple (1 Kgs 6:29, 32, 35); PN Tamar תָּמָר (Gen 38:6); Lēwî, named by his mother Leah (Gen 29:34)",
+        "Minaean": "lwʾt 'priestess': lwʾtn S¹lmy 'the priestess Salmay', daughter of a priestess (M 333, RES 3357); lwʾtn Mwʾl 'the priestess Mwʾl' and her property (M 358, RES 3697), Dedan (DASI)",
+        "Amorite": "TAMAR-U, TA-MA-RU (Gelb 1980 no. 6027)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "PYR1"
+      ],
+      "note": "PY R 1 .1–2 TI-MA-RU-WI-TE, a ligature and VIN 90, the only entry (GORILA I 322). TI-MA = Tīmar 'palm', final r unwritten before the l of lēwīt, both in the R-series; the i as Heb. timmōrāh. RU-WI-TE = lēwīt, fem. of lēwī as in DU-RU-WI and U-RE-WI (HT 25a). Name + title, as Minaean lwʾtn S¹lmy 'the priestess Salmay', a priestess's daughter (M 333). Rival: TI-MA-RU Tamar, Amorite TA-MA-RU (Gelb no. 6027), + WI-TE, perhaps √w-d-d as in WI-TE-JA-MU.",
+      "source": "di Mino; DASI; Gelb 1980"
+    },
+    {
+      "word": "I-DU-NE-SI",
+      "reading": "Yidu-naḥši",
+      "meaning": "Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity'",
+      "root": "y-d + n-ḥ-š",
+      "cognates": {
+        "Proto-Semitic": "*yad- ~ *ʾid- 'hand' (semitic_roots no. 2046)",
+        "Eblaite": "i-du na-sa, yidu-naḥša 'strength is alive'; i-du na, yidu-na 'our strength' (Pagan 1998, rows 2469, 2466)",
+        "Akkadian": "naḫāšu 'to prosper' (CAD N/1 133); naḫšu 'healthy, prosperous', PN Na-aḫ-šum (CAD N/1 142)",
+        "Hurrian": "nešše 'prospérité', ne-eš-ši (Laroche, GLH 181), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT13"
+      ],
+      "note": "HT 13 .5–6 I-DU-NE-SI 5, the last recipient in the VIN · TE list headed KA-U-DE-TA, after TE-KI 27½, KU-ZU-NI 18, DA-SI-ṬA 19, before KU-RO 130½; lines .4–7 over an erasure (GORILA I 27). I-DU = yidu 'arm, strength', as in I-DU-TI; NE-SI = naḥši, ḥ unwritten: the Eblaite name i-du na-sa yidu-naḥša 'strength is alive' word for word. Cf. Amorite E-DU-NA-SA (Gelb no. 1599), unanalysed. Rivals: Hurrian nešše 'prosperity', vowels exact, beside Hurrian TE-KI; Naśiʾ, the god of DA-NA-SI, 'Naśiʾ is strength'.",
+      "source": "di Mino; Pagan 1998; CAD"
+    },
+    {
+      "word": "A-MA-JA",
+      "reading": "ʿAmmaya",
+      "meaning": "(Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'",
+      "root": "ʿ-m-m",
+      "cognates": {
+        "Proto-Semitic": "*ʕamm- 'relative, uncle, ancestor' (semitic_roots no. 44)",
+        "Ugaritic": "PN ʿmy ʿAmmaya (KTU 3.10:9); PN ảmy (KTU 2.76:3), syll. am-ma-ia (RS 88.2158:31') (DULAT 73)",
+        "Amorite": "ʾAMAT-AN, A-MA-TA-AN (Gelb 1980 no. 404), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "KH14"
+      ],
+      "note": "KH 14 .1 ]RA · A-MA-JA · CYP 6[, whole and undotted between dividers, a cyperus recipient (GORILA III 45). A-MA ʿamma 'kinsman' + hypocoristic -ya, as A-SU-JA, PA-SE-JA: the Ugaritic name ʿmy ʿAmmaya (KTU 3.10:9), syllabic am-ma-ia (DULAT 73). Rival: ʾAmaya, short for ʾamat- 'maidservant' (Ug. amt, DULAT 71), with t lost.",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "PI-TA-KA-SE",
+      "reading": "Bīt-kissē",
+      "meaning": "House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI",
+      "root": "b-y-t + k-s-ʾ",
+      "cognates": {
+        "Proto-Semitic": "*bayt- 'house' (semitic_roots no. 652)",
+        "Akkadian": "bīt kussî, É.GIŠ.GU.ZA, '1. royal property (real estate), 2. royal service' (CAD K 593); grain to PN ša GIŠ.GU.ZA (CAD K 592)",
+        "Ugaritic": "ksu 'seat, throne'; Emar /kissu/ (DULAT 456)",
+        "Hebrew": "kissēʾ כִּסֵּא 'throne' (Gen 41:40)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "administrative",
+      "category": "toponym",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT21"
+      ],
+      "note": "HT 21 PI-TA-KA-SE · TE · GRA 161, then OLE+U 11, OLE+E 3¾, *304 7¾, OLIV 1¼, the heading of a grain and oil account (GORILA I 39). bīt 'house of' + kissē 'throne': Akk. bīt kussî 'royal property' (CAD K 593), and grain booked to persons ša kussî 'belonging to the crown' (CAD K 592). PI writes bi as in DA-I-PI-TA. Its man is PI-TA-KE-SI (HT 87), bīt-kissi with the genitive. Rival: the Hurrian name Pidi-kešḫi.",
+      "source": "di Mino; CAD K"
     }
   ]
 }

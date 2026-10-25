@@ -58,6 +58,12 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Haghia Triada | Tablet | complete |
 
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | ʾUdumī | the Udumite, a man of Udum (Kirta's city) | SPECULATIVE |
+
 ## Onomasticon
 
 | Field | Value |

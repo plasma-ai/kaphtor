@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1277_oak_tree
 title: "*ʾaly-ān-: '(oak)tree'"
-desc: "Proto-Semitic *ʾaly-ān-, '(oak)tree': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʾaly-ān-, '(oak)tree': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1277"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Pal ʔīlān |  | gloss withheld |
 | Eblaitic | ʔaₓ(NI)-a-la-nu, ʔaₓ(NI)-la-núm /ʔaylānum/ (VE 496; Krebernik 1983, 18) | VE 496; Krebernik 1983, 18 | gloss withheld |
 | Phoenician | ʾln (HALOT 54) | HALOT 54 |  |
+| Arabic | ˀalāˀ- (LA 14 53 apud SEDonline 415) | LA 14 53; SEDonline 415 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

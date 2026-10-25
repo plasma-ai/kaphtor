@@ -69,6 +69,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa6\|IOZa6]] | ṯudī | Breast (first member of a divine epithet) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa6\|IOZa6]] | ṯudī | Breast (first member of a divine epithet) | PROBABLE |
 
 <!-- END kaphtor:record -->

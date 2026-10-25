@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r)?, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r), [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 ## Unread
 

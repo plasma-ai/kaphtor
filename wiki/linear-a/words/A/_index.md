@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:50:31Z
 ---
 
 # wiki/linear-a/words/A
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_DI_NE|A_DI_NE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_DU|A_DU]]: ʾAddu / adû(?): Addu/Haddu; alternatively an administrative work assignment or stint. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_DU|A_DU]]: ʾAddu / adû: Addu/Haddu; alternatively an administrative work assignment or stint. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_DU_KU_MI_NA|A_DU_KU_MI_NA]]: ʾAddu-kamina: Addu has sheltered (compound theophoric PN). Lexicon, SPECULATIVE (tier 1).
 
@@ -51,7 +51,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_I|A_I]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_JA|A_JA]]: ḥaya? / ḥayyā? / Haya? / Aya?: possible divine name or liturgical predicate: Haya/Aya, or "(the) Living One; Life". Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_JA|A_JA]]: ḥaya / ḥayyā / Haya / Aya: possible divine name or liturgical predicate: Haya/Aya, or "(the) Living One; Life". Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_JA_KU|A_JA_KU]]: ʾAyaku: personal name ('Where are you?'). Lexicon, SPECULATIVE (tier 1).
 
@@ -71,9 +71,9 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_KI_PI_E_TE|A_KI_PI_E_TE]]: Unread (role only): toponym; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_KI_RO|A_KI_RO]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_KI_RO|A_KI_RO]]: ʾAkiru: ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_KO_A_NE|A_KO_A_NE]]: ha-kōhēn?: the priest (proposed title after PI-TE-RI). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_KO_A_NE|A_KO_A_NE]]: ha-kōhēn: the priest (proposed title after PI-TE-RI). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_KU_JU_PA_star118|A_KU_JU_PA_star118]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -83,7 +83,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_MA|A_MA]]: ʿamma: people, kinfolk—social/kinship term. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_MA_JA|A_MA_JA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_MA_JA|A_MA_JA]]: ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_MA_RA_NE|A_MA_RA_NE]]: ʾAmarānu: personal name, ʾAmar- 'he has spoken, seen' with -ānu. Lexicon, SPECULATIVE (tier 1).
 
@@ -147,7 +147,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_RE|A_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_RE_DA_I|A_RE_DA_I]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RE_DA_I|A_RE_DA_I]]: Ar-tae: Ar-tae (personal name; Hurrian ar- 'give'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU|A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU]]: […] ʾAyaku: ring text ending with the personal name ʾAyaku. Lexicon, SPECULATIVE (tier 1).
 
@@ -165,7 +165,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_RI_PA|A_RI_PA]]: ʾaripāʾ / ʿarpa: healer, Rephaim (√r-p-ʾ) OR clouds (√ʿ-r-p, Baal epithet rkb ʿrpt). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_RI_SU|A_RI_SU]]: aršu?: cultivated or plowed field/plot (compare Akkadian eršu, Neo-Assyrian aršu). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_RI_SU|A_RI_SU]]: ḥārišu: the craftsman, artisan (title). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_RO_TE|A_RO_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -189,9 +189,9 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_SE|A_SE]]: ʾaššē 'fire offering, burnt offering'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_SE_JA|A_SE_JA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_SE_JA|A_SE_JA]]: ʾaššē-ya: (portion) of the fire offering (-iya derivative of A-SE). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_SE_RE_ZA|A_SE_RE_ZA]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/A/A_SE_RE_ZA_broken_both|A_SE_RE_ZA_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_SE_TU_star21F|A_SE_TU_star21F]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -207,7 +207,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_SI_star118_KU_KA|A_SI_star118_KU_KA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_SU_JA|A_SU_JA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_SU_JA|A_SU_JA]]: Azzuya: Azzuya (woman's name; Hurrian hypocoristic on az(z)-). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_SU_MI_star118_broken_both|A_SU_MI_star118_broken_both]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -237,7 +237,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/A/A_TO_star349_TO_I|A_TO_star349_TO_I]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_TU_RI_SI_TI|A_TU_RI_SI_TI]]: (a)-turis(s)-iti: from Turissa/Tylissos—toponymic adjective. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_TU_RI_SI_TI|A_TU_RI_SI_TI]]: ha-Turisīt: the Tylissian (f.): provenance label on a jar. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_WA_PI|A_WA_PI]]: ʾawpiʿ: shone forth (causative of y-p-ʿ 'rise, shine forth'). Lexicon, SPECULATIVE (tier 1).
 

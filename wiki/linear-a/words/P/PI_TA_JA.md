@@ -70,6 +70,6 @@ A recipient in the HT 6a fig list, PI-TA-JA 24. Patiya, a hypocoristic in -ya, a
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r)?.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r).
 
 <!-- END kaphtor:record -->

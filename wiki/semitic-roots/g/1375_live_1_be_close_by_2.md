@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1375_live_1_be_close_by_2
 title: "*gVwVr-: 'live' 1, 'be close by' 2"
-desc: "Proto-Semitic *gVwVr-, 'live' 1, 'be close by' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *gVwVr-, 'live' 1, 'be close by' 2: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1375"
@@ -31,10 +31,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | gwr 2 |  |  |
-| Hebrew | gwr 1 |  |  |
+| Hebrew | gwr 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015, ch. 2 §5.2.2.1 no. 8 |  |
 | Epigraphic South Arabian | Sab gwr (Biella 68-9; Sabaweb lemma 4177) | Biella 68-9; Sabaweb lemma 4177 | gloss withheld |
 | Geez | tagāwara (LGz. 207) | LGz. 207 | gloss withheld |
 | Tigre | gōra (HALOT 184) | HALOT 184 |  |
+| Ugaritic | gr (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015, ch. 2 §5.2.2.1 no. 8 | gloss withheld |
+| Syrian Aramaic | giyyorā (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015, ch. 2 §5.2.2.1 no. 8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

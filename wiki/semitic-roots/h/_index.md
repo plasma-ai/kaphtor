@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/h
 desc: "Semitic roots whose first radical is h."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/h
@@ -31,11 +31,11 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/h/1457_fir_tree_splinter|1457_fir_tree_splinter]]: Proto-Semitic *HVššVʾ-, 'fir-tree splinter': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/1546_be_become|1546_be_become]]: Proto-Semitic *hVwVy-, 'be, become': reflexes in 4 language(s).
+[[wiki/semitic-roots/h/1546_be_become|1546_be_become]]: Proto-Semitic *hVwVy-, 'be, become': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/h/1547_cut|1547_cut]]: Proto-Semitic *hub-, 'cut': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/1548_rob_take_by_force_1_be_taken_away_2|1548_rob_take_by_force_1_be_taken_away_2]]: Proto-Semitic *hVyVd-, 'rob, take by force' 1, 'be taken away' 2: reflexes in 4 language(s).
+[[wiki/semitic-roots/h/1548_rob_take_by_force|1548_rob_take_by_force]]: Proto-Semitic *hVyVd-, 'rob, take by force': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/h/1550_wish_n_1_want_2|1550_wish_n_1_want_2]]: Proto-Semitic *hVw-, 'wish' (n.) 1, 'want' 2: reflexes in 2 language(s).
 
@@ -85,6 +85,26 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/h/3186_thunder|3186_thunder]]: Proto-Semitic *hadad-, 'thunder': reflexes in 9 language(s).
 
+[[wiki/semitic-roots/h/3245_this_deictic_element|3245_this_deictic_element]]: Proto-Semitic *hanni-, 'this (deictic element)': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/h/3313_to_honour_respect|3313_to_honour_respect]]: Proto-Semitic *hdr, 'to honour, respect': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/h/3336_tree|3336_tree]]: Proto-Semitic *hVrā̆m-, 'tree': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/h/3338_I|3338_I]]: Proto-Semitic *hā̆, 'I': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/h/3409_to_for_dative_preposition|3409_to_for_dative_preposition]]: Proto-Semitic *hV-, 'to, for (dative preposition)': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/h/3443_to_cut|3443_to_cut]]: Proto-Semitic *hḏw, 'to cut': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/h/3471_to_suffer_cold_perish_of_cold|3471_to_suffer_cold_perish_of_cold]]: Proto-Semitic *hrʾ, 'to suffer cold, perish of cold': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/h/3472_here|3472_here]]: Proto-Semitic *hn, 'here': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/h/3482_behold|3482_behold]]: Proto-Semitic *hn, 'behold': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/h/3491_to_flee|3491_to_flee]]: Proto-Semitic *hrb, 'to flee': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/h/453_go_ahead_in_awe|453_go_ahead_in_awe]]: Proto-Semitic *hVṭaʕ-, 'go ahead in awe': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/h/45_hero|45_hero]]: Proto-Semitic *humām-, 'hero': reflexes in 1 language(s).
@@ -95,7 +115,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/h/495_fall|495_fall]]: Proto-Semitic *hVbi/uṭ-, 'fall': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/497_fall_upon|497_fall_upon]]: Proto-Semitic *hVy/w-, 'fall (upon)': reflexes in 4 language(s).
+[[wiki/semitic-roots/h/497_fall_upon|497_fall_upon]]: Proto-Semitic *hVy/w-, 'fall (upon)': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/h/535_strike|535_strike]]: Proto-Semitic *hVtim-, 'strike': reflexes in 1 language(s).
 

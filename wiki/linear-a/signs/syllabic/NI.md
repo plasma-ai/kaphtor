@@ -59,12 +59,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | matni | SPECULATIVE |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | CONFIRMED |
-| [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn (?) | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī? | CANDIDATE |
+| [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | PROBABLE |
 | [[wiki/linear-a/words/P/PA3_NI_WI\|PA₃-NI-WI]] | bānīy | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NI_KA\|TA-NI-KA]] | Taʿnaku | SPECULATIVE |
-| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ (?) | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinitu Dubur | PROBABLE |
 | [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯawrinima | SPECULATIVE |

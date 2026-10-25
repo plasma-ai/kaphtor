@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_KU_RI_NA
 title: "I-KU-RI-NA"
-desc: "ʾiqurna(?): at the horn / promontory (toponym?). Lexicon, CANDIDATE (tier 2)."
+desc: "ʾiqurna: at the horn / promontory (toponym?). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "toponym"]
 kind: "word"
 form: "I-KU-RI-NA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.35
-reading: "ʾiqurna(?)"
+reading: "ʾiqurna"
 attestations: ["HT90"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾiqurna(?) |
+| Reading | ʾiqurna |
 | Meaning | at the horn / promontory (toponym?) |
 | Root | q-r-n (PS \*ḳarn-) |
 | Language layer | NWS |
@@ -72,6 +72,6 @@ di Mino
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

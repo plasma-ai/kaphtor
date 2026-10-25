@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | tḥt 'beneath' | Anderson–Moser 2024 root tḥt |  |
-| Epigraphic South Arabian | Sab tḥt (SD 147; Biella 533) | SD 147; Biella 533 | gloss withheld |
+| Epigraphic South Arabian | Sab tḥt (SD 147; Biella 533; Sabaweb lemma 5248) | SD 147; Biella 533; Sabaweb lemma 5248 | gloss withheld |
 | Amorite | taḥtu, taḥtun (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
 | Arabic | taḥt 'beneath, under' (Lane 298) | Lane 298 |  |
 | Geez | tāḥta (Kogan 2015, ch. 2 §5.2.2.1 no. 34) | Kogan 2015, ch. 2 §5.2.2.1 no. 34 | gloss withheld |

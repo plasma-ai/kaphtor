@@ -48,9 +48,9 @@ The only sign that reliably distinguishes /l/ from /r/ in Linear A.
 |---|---|---|
 | [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasīr- | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]] | ʾilā(t) | SPECULATIVE |
-| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl/Baʿl(?) | CANDIDATE |
+| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl/Baʿl | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |
-| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra(?) | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | CANDIDATE |
 
 <!-- END kaphtor:record -->

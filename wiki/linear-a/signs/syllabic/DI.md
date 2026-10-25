@@ -65,9 +65,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kadd | PROBABLE |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | SPECULATIVE |
 | [[wiki/linear-a/words/M/ME_KI_DI\|ME-KI-DI]] | Majd | SPECULATIVE |
-| [[wiki/linear-a/words/O/OLE_plus_DI\|OLE+DI]] | dišpu? | CANDIDATE |
+| [[wiki/linear-a/words/O/OLE_plus_DI\|OLE+DI]] | dišpu | CANDIDATE |
 | [[wiki/linear-a/words/O/OLE_plus_QE_plus_DI\|OLE+QE+DI]] | A623 (OLE+QE+DI) | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_DI\|RU-DI]] | rūdī | SPECULATIVE |
+| [[wiki/linear-a/words/S/SA_DI\|SA-DI]] | šadī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Sidiya/Šadiya | PROBABLE |
 | [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdumī | SPECULATIVE |

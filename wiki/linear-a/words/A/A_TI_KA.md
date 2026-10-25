@@ -57,7 +57,7 @@ DMic I 119; Anastasiadou 2026, 40–41, in Salgarella & Petrakis (eds.) 2026; di
 |---|---|
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |

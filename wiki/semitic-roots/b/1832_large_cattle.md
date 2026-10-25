@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | baḳra \[DM 49\]. | DM 49 | gloss withheld |
 | Phoenician | bḳr \[T 54\], \[Krah. 124\] | T 54; Krah. 124; KAI 24:11-2; KAI 26 | gloss withheld |
 | Hebrew | bāḳār (HALOT 151), pB. \[Ja. 187\]. | HALOT 151; Ja. 187 | gloss withheld |
-| Epigraphic South Arabian | Sab. bḳr \[SD 30\] // Min. bḳr \[LM 23\] // Hdr. bḳr \[Sima 50\] | SD 30; LM 23; Sima 50; Sima 44-52; Sima 50 | gloss withheld |
+| Epigraphic South Arabian | Sab. bḳr \[SD 30; Sabaweb lemma 3043\] // Min. bḳr \[LM 23; Sabaweb lemma 3043\] // Hdr. bḳr \[Sima 50\] | SD 30; Sabaweb lemma 3043; LM 23; Sabaweb lemma 3043; Sima 50; Sima 44-52; Sima 50 | gloss withheld |
 | Judaic Aramaic | baḳrā \[Ja. 187\], \[Levy WTM I 256\]; bḳr \[DJPA 110a apud CAL\], bḳwrh, det. bḳwrth \[ibid.\]. // Sam. bḳr, bwḳrh \[Tal 112\]. | Ja. 187; Levy WTM I 256; DJPA 110a; CAL; ibid.; Tal 112 | gloss withheld |
 | Syrian Aramaic | baḳrā 'herd (of cattle, sheep, swine, camels, apes, demons, heretics)' \[Brock. 88\], \[PS 575\]. | Brock. 88; PS 575 |  |
 | Aramaic | bqr (Aramaic Root Atlas; CAL s.v. bqr) | Aramaic Root Atlas; CAL s.v. bqr | gloss withheld |

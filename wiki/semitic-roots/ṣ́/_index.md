@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ́
 desc: "Semitic roots whose first radical is ṣ́."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T05:11:48Z
 ---
 
 # wiki/semitic-roots/ṣ́
@@ -53,7 +53,9 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/ṣ́/3112_to_scream|3112_to_scream]]: Proto-Semitic *ṣ̂ɣrr, 'to scream': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ṣ́/3174_zizyphus|3174_zizyphus]]: Proto-Semitic *ṣ̂aʾl-, 'zizyphus': reflexes in 4 language(s).
+[[wiki/semitic-roots/ṣ́/3174_zizyphus|3174_zizyphus]]: Proto-Semitic *ṣ̂aʾl-, 'zizyphus': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ṣ́/3427_cheek|3427_cheek]]: Proto-Semitic *ṣ̂agm-, 'cheek': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṣ́/411_bind_yoke_harness|411_bind_yoke_harness]]: Proto-Semitic *ṣ̂VmVd-, 'bind, yoke, harness': reflexes in 16 language(s).
 

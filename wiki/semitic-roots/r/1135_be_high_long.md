@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | rum |  | gloss withheld |
 | Ugaritic | rm; rm (CUC; DULAT 729, 730) | CUC; DULAT 729, 730 | gloss withheld |
 | Geez | rayama |  | gloss withheld |
-| Jibbali | rihm (rym) |  | gloss withheld |
+| Jibbali | ríhm (rym) (Kogan 2015, ch. 2 §4.2 no. 54) | Kogan 2015, ch. 2 §4.2 no. 54 | gloss withheld |
 | Hebrew | rw/ym 'be high'; ruwm 'rise' (BDB 926) | BDB 926 |  |
 | Epigraphic South Arabian | Sab rym-m |  | gloss withheld |
 | Syrian Aramaic | rām 'be high' (Payne Smith 534) | Payne Smith 534 |  |

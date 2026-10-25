@@ -9,7 +9,7 @@ site: "Gournia"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["KA", "SI"]
+words: ["KA", "SI", "SI-DA-RO"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/S/SI|SI]].
+[[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/S/SI|SI]], [[wiki/linear-a/words/S/SI_DA_RO|SI-DA-RO]].
 
 ## Edition differences
 

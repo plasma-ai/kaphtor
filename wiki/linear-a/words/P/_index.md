@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:44:10Z
 ---
 
 # wiki/linear-a/words/P
@@ -13,13 +13,13 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/P/PA|PA]]: parūs- 'crushed, ground (flour)'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA3|PA3]]: b(i)=; bād(i)?: in, with, by; on HT103 perhaps administrative ‘in the charge of’. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA3|PA3]]: b(i)=; bād(i): in, with, by; on HT103 perhaps administrative ‘in the charge of’. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3_E|PA3_E]]: bē: in, at (preposition). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3_KA_RA_TI|PA3_KA_RA_TI]]: baqarāti: cattle, heifers (fem.pl.). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/P/PA3_NI|PA3_NI]]: bānī?: builder or personnel designation. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA3_NI|PA3_NI]]: bānī: builder or personnel designation. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3_NI_NA|PA3_NI_NA]]: banīna: our builder. Lexicon, PROBABLE (tier 3).
 
@@ -67,11 +67,11 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/P/PA_RO_SU|PA_RO_SU]]: Parʿōš: personal or clan name, 'Flea'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Unread (edge overlap): gentilic; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PA_SE|PA_SE]]: Unread (role only): administrative heading; 2 occurrence(s).
 
-[[wiki/linear-a/words/P/PA_SE_JA|PA_SE_JA]]: Unread (role only): administrative roster label; 3 occurrence(s).
+[[wiki/linear-a/words/P/PA_SE_JA|PA_SE_JA]]: Paššiya: Paššiya (personal name; Hurrian hypocoristic on pašš- 'send'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_TA|PA_TA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -107,9 +107,9 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/P/PI_TA_JA|PI_TA_JA]]: Patiya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_KA_SE|PI_TA_KA_SE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/P/PI_TA_KA_SE|PI_TA_KA_SE]]: Bīt-kissē: House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_KE_SI|PI_TA_KE_SI]]: Pidi-kešḫi: Hurrian-type compound personal name; second element kešḫi 'throne'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PI_TA_KE_SI|PI_TA_KE_SI]]: Bīt-kissi: (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bitara / batūla: virgin, maiden (divine epithet). Lexicon, SPECULATIVE (tier 1).
 
@@ -141,7 +141,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/P/PU_RA|PU_RA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PU_RA2|PU_RA2]]: Bōl/Baʿl(?): allocation heading; possibly Baal, 'Lord'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PU_RA2|PU_RA2]]: Bōl/Baʿl: allocation heading; possibly Baal, 'Lord'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PU_VIN|PU_VIN]]: Unread (role only): recipient or institutional heading; 2 occurrence(s).
 

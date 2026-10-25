@@ -9,7 +9,7 @@ site: "Pyrgos"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: []
+words: ["TI-MA-RU-WI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -47,5 +47,9 @@ Unicode (Linear A block):
 ```text
 𐘠𐙁𐘘𐘣𐘃𐝦𐙍𐄘
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI-MA-RU-WI-TE]].
 
 <!-- END kaphtor:record -->

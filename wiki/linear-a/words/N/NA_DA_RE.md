@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/N/NA_DA_RE
 title: "NA-DA-RE"
-desc: "nadr: vow / votive (or Egyptian PN: of-the-hand-of-Re). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+desc: "Nadr: personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "personal_name"]
 kind: "word"
 form: "NA-DA-RE"
 datasets: ["lexicon", "onomasticon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.6
-reading: "nadr"
+reading: "Nadr"
 attestations: ["HT117a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,12 +31,12 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | nadr |
-| Meaning | vow / votive (or Egyptian PN: of-the-hand-of-Re) |
+| Reading | Nadr |
+| Meaning | personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re' |
 | Root | n-d-r |
 | Language layer | NWS |
-| Category | vocabulary |
-| Semantic field | ritual |
+| Category | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
@@ -56,7 +56,7 @@ di Mino; Gordon (Egyptian PN)
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | nadr | vow/votive (or Egyptian PN) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Nadr | personal name, 'Vow' (or Egyptian PN) | PROBABLE |
 
 ## Onomasticon
 
@@ -72,6 +72,6 @@ di Mino; Gordon (Egyptian PN)
 
 ### Note
 
-HT 117a personnel list (1), beside MI-TU, KU-PA₃-NU and TE-JA-RE. √n-d-r 'to vow': nadir- 'vowed one' as a personal name, cf. Amorite NDR (Gelb). Rival: Gordon's Egyptian personal name 'of the hand of Re'.
+HT 117a personnel list (1), beside MI-TU, KU-PA₃-NU and TE-JA-RE. √n-d-r 'to vow': a name on the noun 'vow', cf. Amorite NDR (Gelb). Rival: Gordon's Egyptian personal name 'of the hand of Re'.
 
 <!-- END kaphtor:record -->

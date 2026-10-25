@@ -48,12 +48,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RI\|A-RI]] | harrī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI_PA\|A-RI-PA]] | ʾaripāʾ / ʿarpa | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RI_SU\|A-RI-SU]] | aršu? | CANDIDATE |
-| [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | (a)-turis(s)-iti | CANDIDATE |
+| [[wiki/linear-a/words/A/A_RI_SU\|A-RI-SU]] | ḥārišu | CANDIDATE |
+| [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
-| [[wiki/linear-a/words/I/I_KU_RI_NA\|I-KU-RI-NA]] | ʾiqurna(?) | CANDIDATE |
+| [[wiki/linear-a/words/I/I_KU_RI_NA\|I-KU-RI-NA]] | ʾiqurna | CANDIDATE |
 | [[wiki/linear-a/words/I/I_SA_RI\|I-SA-RI]] | ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
@@ -72,10 +72,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RI_QE_TI\|RI-QE-TI]] | riqitt- | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_SU_MA\|RI-SU-MA]] | rīšum(a) | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli(?) | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
-| [[wiki/linear-a/words/T/TE_RI\|TE-RI]] | tēri? | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_RI\|TE-RI]] | tēri | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārī-nā | PROBABLE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯawrinima | SPECULATIVE |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TU_JU_MA
 title: "TU-JU-MA"
-desc: "Tuʿlum(?): personal name, 'hidden one' (?). Lexicon, SPECULATIVE (tier 1)."
+desc: "Tuʿlum: personal name, 'hidden one' (?). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "TU-JU-MA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Tuʿlum(?)"
+reading: "Tuʿlum"
 attestations: ["HT117a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Tuʿlum(?) |
+| Reading | Tuʿlum |
 | Meaning | personal name, 'hidden one' (?) |
 | Root | ʿ-l-m |
 | Language layer | NWS |
@@ -57,6 +57,12 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Haghia Triada | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Tuʿlum | personal name, 'hidden one' | SPECULATIVE |
 
 ## Onomasticon
 

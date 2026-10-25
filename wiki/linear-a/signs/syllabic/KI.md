@@ -55,6 +55,7 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DI_KI_TE\|A-DI-KI-TE]] | Dikte | PROBABLE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqite de | PROBABLE |
+| [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_KI_SE\|DI-KI-SE]] | Dikise | CANDIDATE |
@@ -71,7 +72,7 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 | [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]] | kikkarāya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kōhinīma | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_NU\|KI-NU]] | Kīnu | CANDIDATE |
-| [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû?/qīra? | CANDIDATE |
+| [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû/qīra | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | PROBABLE |
 | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] | Kiriš | SPECULATIVE |
@@ -85,15 +86,16 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 | [[wiki/linear-a/words/M/MA_KI_DE_TE\|MA-KI-DE-TE]] | Majdat | SPECULATIVE |
 | [[wiki/linear-a/words/M/ME_KI_DI\|ME-KI-DI]] | Majd | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_KI_SE_NA\|MI-KI-SE-NA]] | miksēna | SPECULATIVE |
-| [[wiki/linear-a/words/O/OLE_plus_KI\|OLE+KI]] | kīnu? | CANDIDATE |
+| [[wiki/linear-a/words/O/OLE_plus_KI\|OLE+KI]] | kīnu | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_KI_TI\|QA-KI-TI]] | qaqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_KI_NE\|SI-KI-NE]] | Sikinet | CANDIDATE |
-| [[wiki/linear-a/words/S/SI_KI_RA\|SI-KI-RA]] | šikira / šēkāra | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_KI_RA\|SI-KI-RA]] | Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | sipkī | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
-| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ (?) | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TE_KI\|TE-KI]] | Tegi | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 
 <!-- END kaphtor:record -->

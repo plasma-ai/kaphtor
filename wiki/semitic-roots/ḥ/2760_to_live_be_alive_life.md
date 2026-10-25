@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2760_to_live_be_alive_life
 title: "*ḥayy-: 'to live, be alive; life'"
-desc: "Proto-Semitic *ḥayy-, 'to live, be alive; life': reflexes in 21 language(s)."
+desc: "Proto-Semitic *ḥayy-, 'to live, be alive; life': reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2760"
@@ -50,6 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥayyin (T 102) | T 102 |  |
 | Canaanite | EA ḫaya (T 102) | T 102 | gloss withheld |
 | Eblaitic | ʔà-u₉ /ḥayyu(m)/ DN (= ᵈEN.KI, Akk. Ea), from ḥ-y-y/w (VE 803; Krebernik 1983, 31) | VE 803; Krebernik 1983, 31 | gloss withheld |
+| Jibbali | ḥē (Kogan 2015, ch. 2 §4.2 no. 26) | Kogan 2015, ch. 2 §4.2 no. 26 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

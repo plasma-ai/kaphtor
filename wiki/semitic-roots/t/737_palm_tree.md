@@ -46,6 +46,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez tamr 'date, date palm' and Tigre tamar (HALOT 1756) are probably from Arabic tamr 'dates' (CDG 576).
+Geez tamr 'date, date palm' and Tigre tamar (HALOT 1756) are probably from Arabic tamr 'dates' (CDG 576). Kogan lists Geez tamr, tamart (CDG 576) among the reflexes (Kogan 2015, ch. 2 §4.2 no. 61).
 
 <!-- END kaphtor:record -->

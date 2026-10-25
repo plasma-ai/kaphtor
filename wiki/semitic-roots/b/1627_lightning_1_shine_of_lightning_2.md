@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1627_lightning_1_shine_of_lightning_2
 title: "*bariḳ-: 'lightning' 1, 'shine (of lightning)' 2"
-desc: "Proto-Semitic *bariḳ-, 'lightning' 1, 'shine (of lightning)' 2: reflexes in 20 language(s)."
+desc: "Proto-Semitic *bariḳ-, 'lightning' 1, 'shine (of lightning)' 2: reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1627"
@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | brq 2 |  |  |
 | Hebrew | bārāq 1 |  |  |
 | Amharic | bärräqä 2 |  |  |
-| Epigraphic South Arabian | brq 1 |  |  |
+| Epigraphic South Arabian | brq 1 (Biella 58; Sabaweb lemma 1498), (SD 31; Sabaweb lemma 1498) | Biella 58; Sabaweb lemma 1498; SD 31; Sabaweb lemma 1498 | gloss withheld |
 | Syrian Aramaic | barq- 1 (Payne Smith 56) | Payne Smith 56 |  |
 | Tigrinya | bärqi 1 |  |  |
 | Phoenician | brq (B 292) | B 292 | gloss withheld |
@@ -50,6 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Sel. bərāḳ, Wol. bərāḳ, bərāˀ, Zwy. bərrəḳat (EDG 155 apud SEDonline 543) | EDG 155; SEDonline 543 | gloss withheld |
 | Harari | bərāḳ (EDH 46 apud SEDonline 543) | EDH 46; SEDonline 543 | gloss withheld |
 | Mandaic Aramaic | brq 2 (LGz. 106) | LGz. 106 |  |
+| Judaic Aramaic | JPA brḳ (DJPA 115 apud SEDonline 1837); JBA brḳ (DJBA 247 apud SEDonline 1837) | DJPA 115; SEDonline 1837; DJBA 247; SEDonline 1837 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

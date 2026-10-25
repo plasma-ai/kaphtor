@@ -60,7 +60,7 @@ Unicode (Linear A block):
 
 **no confidence given**, complete.
 
-> A-PA-RA-NE · qaṭara(?) · \*516: grain 40¾; U-oil 4; figs 2 1/10.
+> ʿAbrāne · qaṭara(?) · \*516: grain 40¾; U-oil 4; figs 2 1/10.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|

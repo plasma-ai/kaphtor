@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | Cha. Eža End. Enm. Gyt. Gog. Muh. bäxǝr \[LGur. 137\]. | LGur. 137 | gloss withheld |
 | Jibbali | békǝr, bɔkrút \[JJ 25\]. | JJ 25 | gloss withheld |
 | Hebrew | bēkär (HALOT 131), bikrā (ibid.) | HALOT 131; ibid. | gloss withheld |
-| Epigraphic South Arabian | Sab. bkr(t) \[SD 28\] | SD 28; Sima 43 | gloss withheld |
+| Epigraphic South Arabian | Sab. bkr(t) \[SD 28; Sabaweb lemmas 3042, 5577\] | SD 28; Sabaweb lemmas 3042, 5577; Sima 43 | gloss withheld |
 | Syrian Aramaic | bǝkūrē 'young camels' \[Brock. 74\], bakkūrē \[PS 525\]. | Brock. 74; PS 525 |  |
 | Aramaic | D.-Alla bkr \[HJ 164\] (pl. bkrn) | HJ 164; ibid. | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic bkr (Al-Jallad–Jaworska 60) | Al-Jallad–Jaworska 60 | gloss withheld |

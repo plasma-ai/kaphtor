@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | laḥm-, laḥam- 2 |  |  |
-| Ugaritic | lḥm 3 |  | gloss withheld |
+| Arabic | laḥm-, laḥam- 2 (Kogan 2015, ch. 3 §5.2 no. 35) | Kogan 2015, ch. 3 §5.2 no. 35 |  |
+| Ugaritic | lḥm 3; lḥm 1 (Kogan 2015, ch. 3 §5.2 no. 35) | Kogan 2015, ch. 3 §5.2 no. 35 | gloss withheld |
 | Hebrew | leḥem 1 |  |  |
 | Syrian Aramaic | laḥm- 1 (Payne Smith 240) | Payne Smith 240 |  |
 | Punic | lḥm (T 157) | T 157 | gloss withheld |

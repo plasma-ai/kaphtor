@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕanā 'distressed' (Lane 2178) | Lane 2178 |  |
 | Aramaic | ʿNY (DNWSI 876 apud CAL) | DNWSI 876; CAL | gloss withheld |
 | Ugaritic | ʿnw (CUC; DULAT 168) | CUC; DULAT 168 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿnw (SD 17; Biella 373) | SD 17; Biella 373 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿnw (SD 17; Biella 373; Sabaweb lemma 3786) | SD 17; Biella 373; Sabaweb lemma 3786 | gloss withheld |
 | Hebrew | ʿnh II; ʿānāw, ʿānî (HALOT 852, 855, 856) | HALOT 852, 855, 856 | gloss withheld |
 | Phoenician | \*ʿnh (HALOT 852) | HALOT 852 |  |
 | Judaic Aramaic | ʿanyā (HALOT 856) | HALOT 856 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TE
 title: "TE"
-desc: "terûmā(?): administrative transaction or category marker; perhaps contribution or offering. Lexicon, CANDIDATE (tier 2)."
+desc: "terûmā: administrative transaction or category marker; perhaps contribution or offering. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative_or_ritual"]
 kind: "word"
 form: "TE"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.45
-reading: "terûmā(?)"
+reading: "terûmā"
 attestations: ["HT6a", "HT9a", "HT13", "HT14", "HT17", "HT19", "HT21", "HT40", "HT42+59", "HT51a", "HT52a", "HT62+73", "HT63", "HT67", "HT70", "HT92", "HT96a", "HT107", "HT116a", "HT133", "ARKH3a", "KN28b", "KN32b", "PH27", "SAMWa1", "ZA21a", "ZA29", "HTWa1122", "HTWa1123", "HTWa1124", "HTWa1125", "HTWa1126", "HTWa1127", "HTWa1128", "HTWa1129", "HTWa1130", "HTWa1131", "HTWa1132", "HTWa1133", "HTWa1134", "HTWa1135", "HTWa1136", "HTWa1137", "HTWa1138", "HTWa1139", "HTWa1140", "HTWa1141", "HTWa1142", "HTWa1143", "HTWa1144", "HTWa1145", "HTWa1146", "ANZb1", "KNWc48", "PH12c", "PHWb36"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | terûmā(?) |
+| Reading | terûmā |
 | Meaning | administrative transaction or category marker; perhaps contribution or offering |
 | Root | r-w-m |
 | Language layer | NWS |

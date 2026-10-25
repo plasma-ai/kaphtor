@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | faqaḥa 'opened' | Anderson–Moser 2024 root pqḥ |  |
 | Aramaic | PQḤ (Aramaic Root Atlas; CAL s.v. pqḥ) | Aramaic Root Atlas; CAL s.v. pqḥ | gloss withheld |
 | Hebrew | paqaḥ 'open' (BDB 824) | BDB 824 |  |
-| Epigraphic South Arabian | Sab fqḥ (SD 45; Biella 408) | SD 45; Biella 408 | gloss withheld |
+| Epigraphic South Arabian | Sab fqḥ (SD 45; Biella 408); the verb read as the noun fqḥ (Sabaweb lemmas 4111, 4114) | SD 45; Biella 408; Sabaweb lemmas 4111, 4114 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

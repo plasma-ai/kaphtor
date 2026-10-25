@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/d
 desc: "Semitic roots whose first radical is d."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/d
@@ -247,9 +247,15 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/d/3196_thistle|3196_thistle]]: Proto-Semitic *dardar-, 'thistle': reflexes in 7 language(s).
 
+[[wiki/semitic-roots/d/3348_stone_stony_plain|3348_stone_stony_plain]]: Proto-Semitic *daʕn-, 'stone, stony plain': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/d/3454_to_pierce_stab_to_impress_incise|3454_to_pierce_stab_to_impress_incise]]: Proto-Semitic *dgš, 'to pierce, stab; to impress, incise': reflexes in 5 language(s).
+
 [[wiki/semitic-roots/d/345_trample_down_1_press_squeeze_2_tap_3|345_trample_down_1_press_squeeze_2_tap_3]]: Proto-Semitic *dVg-dVg-, 'trample down' 1, 'press, squeeze' 2, 'tap' 3: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/d/346_trample_underfoot_1_tread_down_2_crush_crush_und|346_trample_underfoot_1_tread_down_2_crush_crush_und]]: Proto-Semitic *dVw/yVš- ~ *dVʕ/hVš-, 'trample underfoot' 1, 'tread down' 2, 'crush', 'crush underfoot' 4, 'thresh' 4: reflexes in 12 language(s).
+
+[[wiki/semitic-roots/d/3518_to_hide_conceal|3518_to_hide_conceal]]: Proto-Semitic *dss, 'to hide, conceal': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/d/39_nursing_mother|39_nursing_mother]]: Proto-Semitic *dad-, 'nursing mother': reflexes in 4 language(s).
 
@@ -301,7 +307,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/d/656_tower_1_borough_2|656_tower_1_borough_2]]: Proto-Semitic *dim-, 'tower' 1, 'borough' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/657_dwelling_1_house_2_granary_3|657_dwelling_1_house_2_granary_3]]: Proto-Semitic *dār-, 'dwelling' 1, 'house'2, 'granary' 3: reflexes in 6 language(s).
+[[wiki/semitic-roots/d/657_dwelling_1_house_2_granary_3|657_dwelling_1_house_2_granary_3]]: Proto-Semitic *dār-, 'dwelling' 1, 'house'2, 'granary' 3: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/d/693_drip_1_flow_abundantly_2|693_drip_1_flow_abundantly_2]]: Proto-Semitic *dir-/*dur-, 'drip' 1, 'flow abundantly' 2: reflexes in 2 language(s).
 
@@ -337,7 +343,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/d/995_turn_1_rotate_2_round_3|995_turn_1_rotate_2_round_3]]: Proto-Semitic *dVwVr- ~ *dVrdVr-, 'turn' 1, 'rotate' 2, 'round' 3: reflexes in 14 language(s).
 
-[[wiki/semitic-roots/d/K0048_join|K0048_join]]: Proto-Semitic *dubuq-, 'join': reflexes in 14 language(s).
+[[wiki/semitic-roots/d/K0048_join|K0048_join]]: Proto-Semitic *dubuq-, 'join': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/d/K0050_drip|K0050_drip]]: Proto-Semitic *dalap-, 'drip': reflexes in 3 language(s).
 

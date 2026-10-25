@@ -58,7 +58,7 @@ Unicode (Linear A block):
 
 **no confidence given**, complete.
 
-> \[…\] \*188 \[…\]; \[…\] wine ¾; DA-RU-NE-TE 1/10\[…\].
+> \[…\] \*188 \[…\]; \[…\] wine ¾; Dāru-ʿAnēt 1/10\[…\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|

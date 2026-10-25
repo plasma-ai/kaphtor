@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star188_star308
 title: "*188-*308"
-desc: "buṭnu šamni(?): processed Pistacia/terebinth product, perhaps oil. Lexicon, CANDIDATE (tier 2)."
+desc: "buṭnu šamni: processed Pistacia/terebinth product, perhaps oil. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "*188-*308"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "buṭnu šamni(?)"
+reading: "buṭnu šamni"
 attestations: ["HT123+124b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | buṭnu šamni(?) |
+| Reading | buṭnu šamni |
 | Meaning | processed Pistacia/terebinth product, perhaps oil |
 | Root | b-ṭ-n + š-m-n |
 | Language layer | NWS |

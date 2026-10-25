@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3051_startle_terrify
 title: "*bɣt: 'startle, terrify'"
-desc: "Proto-Semitic *bɣt, 'startle, terrify': reflexes in 3 language(s)."
+desc: "Proto-Semitic *bɣt, 'startle, terrify': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3051"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | mabġūt (Lane 229); baġata (HALOT 147) | Lane 229; HALOT 147 | gloss withheld |
 | Hebrew | bʿt (HALOT 147) | HALOT 147 | gloss withheld |
 | Syrian Aramaic | bʕet 'be formidable, terrify' (Payne Smith 51) | Payne Smith 51 |  |
+| Judaic Aramaic | JPA bˁt (DJPA 109 apud SEDonline 1777); JBA bˁt (DJBA 228 apud SEDonline 1777) | DJPA 109; SEDonline 1777; DJBA 228; SEDonline 1777 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

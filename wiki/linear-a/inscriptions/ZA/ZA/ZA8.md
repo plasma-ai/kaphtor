@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["A-RI-NI-TA", "KI-RA", "MA-KA-I-SE", "NI"]
+words: ["A-RI-NI-TA", "DA-I-PI-TA", "KI-RA", "MA-KA-I-SE", "NI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,6 +64,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/K/KI_RA|KI-RA]], [[wiki/linear-a/words/M/MA_KA_I_SE|MA-KA-I-SE]], [[wiki/linear-a/words/N/NI|NI]].
+[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/D/DA_I_PI_TA|DA-I-PI-TA]], [[wiki/linear-a/words/K/KI_RA|KI-RA]], [[wiki/linear-a/words/M/MA_KA_I_SE|MA-KA-I-SE]], [[wiki/linear-a/words/N/NI|NI]].
 
 <!-- END kaphtor:record -->

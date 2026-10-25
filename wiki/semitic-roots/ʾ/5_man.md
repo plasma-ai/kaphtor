@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Phoenician | Phn pl. ʔšm, cstr. ʔš (HJ 116); ʔš (B 277) | HJ 116; B 277 | gloss withheld |
 | Hebrew | ʔīš (HALOT 43); ʔš (HJ 115) | HALOT 43; HJ 115 | gloss withheld |
-| Epigraphic South Arabian | ʔys |  |  |
+| Epigraphic South Arabian | ʔys (Sabaweb lemma 1413) | Sabaweb lemma 1413 | gloss withheld |
 | Aramaic | DA, ʔš, Samal ʔš, OAram ʔš, OffAr ʔš, Palm ʔyš (HJ 115-116); Sam ʔyš (Tal 25) | HJ 115-116; Tal 25 | gloss withheld |
 | Punic | ʾš, ʾyš (T 33); ʔš, pl. ʔšm (HJ 115) | T 33; HJ 115 | gloss withheld |
 | Canaanite | Moab ʔš (HJ 115) | HJ 115 | gloss withheld |

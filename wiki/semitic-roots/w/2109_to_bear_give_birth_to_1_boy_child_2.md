@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | élɔ́d, élɛ́d \[JJ 291\] | JJ 291 | gloss withheld |
 | Hebrew | yālad (HALOT 411) 1, yäläd 2 | HALOT 411 |  |
 | Amharic | wällädä \[K 1489\] 1 | K 1489 |  |
-| Epigraphic South Arabian | SAB wld \[SD 160\] 1 | SD 160 |  |
+| Epigraphic South Arabian | SAB wld \[SD 160; Sabaweb lemma 1360\] 1 | SD 160; Sabaweb lemma 1360 | gloss withheld |
 | Judaic Aramaic | yǝlēd, yǝlīd \[Ja 578\], \[DJPA 240b apud CAL\] 1 | Ja 578; DJPA 240b; CAL |  |
 | Syrian Aramaic | ʔīlēd \[Brock 301\] 1, 2 | Brock 301 |  |
 | Aramaic | OFF NAB yld \[HJ 457\] 1 | HJ 457 |  |

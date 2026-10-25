@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | šibbu (LGz. 483) | LGz. 483 | gloss withheld |
 | Canaanite | Amm. sbbt (DNWSI 772 apud SEDonline 283) | DNWSI 772; SEDonline 283 | gloss withheld |
 | Phoenician | sb (DNWSI 772 apud SEDonline 283) | DNWSI 772; SEDonline 283 | gloss withheld |
-| Epigraphic South Arabian | Sab s₃bb (Biella 501) | Biella 501 | gloss withheld |
+| Epigraphic South Arabian | Sab s₃bb (Biella 501); (Sabaweb lemma 2058) | Biella 501; Sabaweb lemma 2058 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

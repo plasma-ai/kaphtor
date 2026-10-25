@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_DU_star301
 title: "DA-DU-*301"
-desc: "dādu-nā-…?: possible opening 'our beloved …' (fragmentary and doubtful Linear A). Lexicon, SPECULATIVE (tier 1)."
+desc: "dādu-nā-…: possible opening 'our beloved …' (fragmentary and doubtful Linear A). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "fragmentary_nominal"]
 kind: "word"
 form: "DA-DU-*301"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "dādu-nā-…?"
+reading: "dādu-nā-…"
 attestations: ["DRAZg1"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | dādu-nā-…? |
+| Reading | dādu-nā-… |
 | Meaning | possible opening 'our beloved …' (fragmentary and doubtful Linear A) |
 | Root | d-w-d |
 | Language layer | NWS |

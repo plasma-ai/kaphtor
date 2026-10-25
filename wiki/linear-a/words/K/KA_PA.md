@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_PA
 title: "KA-PA"
-desc: "kapa(r)?: entity, institution, or settlement; perhaps village. Lexicon, CANDIDATE (tier 2)."
+desc: "kapa(r): entity, institution, or settlement; perhaps village. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "toponym"]
 kind: "word"
 form: "KA-PA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "kapa(r)?"
+reading: "kapa(r)"
 attestations: ["HT6a", "HT8b", "HT94a", "HT102", "HT105", "HT140"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | kapa(r)? |
+| Reading | kapa(r) |
 | Meaning | entity, institution, or settlement; perhaps village |
 | Root | k-p-r |
 | Language layer | NWS |
@@ -82,6 +82,6 @@ Reading from the lexicon (di Mino).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī?, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

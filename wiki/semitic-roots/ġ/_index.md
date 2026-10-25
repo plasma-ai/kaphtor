@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ġ
 desc: "Semitic roots whose first radical is ġ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ġ
@@ -102,6 +102,38 @@ updated: 2026-10-24T15:25:56Z
 [[wiki/semitic-roots/ġ/3210_stiff_hair|3210_stiff_hair]]: Proto-Semitic *ɣapar-, 'stiff hair': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/3211_man|3211_man]]: Proto-Semitic *ɣayg-, 'man': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3244_to_be_dark_clouded_to_be_confused|3244_to_be_dark_clouded_to_be_confused]]: Proto-Semitic *ɣṯy, 'to be dark, clouded; to be confused': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3247_to_insert_enter_to_plunge_dip_to_dye|3247_to_insert_enter_to_plunge_dip_to_dye]]: Proto-Semitic *ɣll, 'to insert, enter; to plunge, dip; to dye': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/ġ/3268_to_feed_nourish_food|3268_to_feed_nourish_food]]: Proto-Semitic *ɣḏw, 'to feed, nourish; food': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3311_to_be_tied_girded_strap|3311_to_be_tied_girded_strap]]: Proto-Semitic *ɣbṭ, 'to be tied, girded; strap': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3312_film_membrane_chaff|3312_film_membrane_chaff]]: Proto-Semitic *ɣVp-, 'film, membrane; chaff': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3314_yoke_collar|3314_yoke_collar]]: Proto-Semitic *ɣull-, 'yoke, collar': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ġ/3315_to_immerse_plunge_to_swim_dive_to_disappear|3315_to_immerse_plunge_to_swim_dive_to_disappear]]: Proto-Semitic *ɣms, 'to immerse, plunge; to swim, dive; to disappear': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/ġ/3337_to_know|3337_to_know]]: Proto-Semitic *ɣrb, 'to know': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3356_to_meet|3356_to_meet]]: Proto-Semitic *ɣbr, 'to meet': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3357_depression_between_mountains_mountain_pass|3357_depression_between_mountains_mountain_pass]]: Proto-Semitic *ɣadVw-, 'depression between mountains, mountain pass': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3358_wrist|3358_wrist]]: Proto-Semitic *ɣarṣVn-, 'wrist': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3359_to_speak|3359_to_speak]]: Proto-Semitic *ɣry, 'to speak': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3360_to_love|3360_to_love]]: Proto-Semitic *ɣṣ̂n, 'to love': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3457_to_take_away_reduce|3457_to_take_away_reduce]]: Proto-Semitic *ɣṣ̂ṣ̂, 'to take away, reduce': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3458_to_be_white_spotted_shine_white|3458_to_be_white_spotted_shine_white]]: Proto-Semitic *ɣrr, 'to be white-spotted, shine white': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3539_to_provision_with_food_provision_of_corn|3539_to_provision_with_food_provision_of_corn]]: Proto-Semitic *ɣyr, 'to provision with food; provision of corn': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/778_dust|778_dust]]: Proto-Semitic *ɣabar-, 'dust': reflexes in 2 language(s).
 

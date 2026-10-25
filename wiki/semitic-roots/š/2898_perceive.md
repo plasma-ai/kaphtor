@@ -29,17 +29,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | šʿr (Biella 521; Sabaweb lemma 2438); (Sabaweb lemma 2701) | Biella 521; Sabaweb lemma 2438; Sabaweb lemma 2701 | gloss withheld |
+| Epigraphic South Arabian | šʿr (Biella 521; Sabaweb lemma 2438); (Sabaweb lemma 2701); Sab. s₂ˁr (SD 131 apud SEDonline 1157); Min. s₂ˁr (LM 85 apud SEDonline 1157) | Biella 521; Sabaweb lemma 2438; Sabaweb lemma 2701; SD 131; SEDonline 1157; LM 85; SEDonline 1157 | gloss withheld |
 | Hebrew | śʿr (Dt 32:17; HALOT 1344) | HALOT 1344 | gloss withheld |
 | Judaic Aramaic | səʿar (HALOT 1344) | HALOT 1344 |  |
 | Mandaic Aramaic | SAR, SUR (HALOT 1344) | HALOT 1344 |  |
 | Aramaic | sʿr (HALOT 1344) | HALOT 1344 |  |
-| Arabic | šaʿara (HALOT 1344) | HALOT 1344 |  |
+| Arabic | šaʿara (HALOT 1344); šˁr (Lane 1559 apud SEDonline 1157) | HALOT 1344; Lane 1559; SEDonline 1157 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Not 3241 \*šʿr 'to estimate; price' (HALOT 1613).
+PCS \*ŝˁr 'to know' (SEDonline 1157). Not 3241 \*šʿr 'to estimate; price' (HALOT 1613).
 
 <!-- END kaphtor:record -->

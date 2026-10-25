@@ -48,7 +48,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] | dawmi | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_MA_U_TI\|JA-MA-U-TI]] | Yamūti | SPECULATIVE |
-| [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | ʿuṣru? | CANDIDATE |
+| [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | ʿuṣru | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
@@ -67,8 +67,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] | ʾūr-lēwī | CANDIDATE |
 | [[wiki/linear-a/words/U/U_SU\|U-SU]] | ʾUšu | CANDIDATE |
-| [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru(?) | CANDIDATE |
-| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | Uta/Uda? | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | Uta/Uda | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | CANDIDATE |
 
 <!-- END kaphtor:record -->

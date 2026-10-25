@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | yšn \[Aist 137-138\], šnt \[ibid.\] | Aist 137-138; ibid. | gloss withheld |
 | Jibbali | s̃ónút \[JJ 293\] | JJ 293 | gloss withheld |
 | Hebrew | yšn (ḳal) (HALOT 447), šēnā (HALOT 1601) | HALOT 447; HALOT 1601 | gloss withheld |
-| Epigraphic South Arabian | SAB s1nt \[SD 163\] | SD 163 | gloss withheld |
+| Epigraphic South Arabian | SAB s1nt \[SD 163; Sabaweb lemma 1894\] | SD 163; Sabaweb lemma 1894 | gloss withheld |
 | Judaic Aramaic | šēntā, šēnā, šintā; šǝnā (šäntā) (n.) \[Ja 1564\], \[DJPA 560a apud CAL\] | Ja 1564; DJPA 560a; CAL | gloss withheld |
 | Syrian Aramaic | šentā 'sleep' \[Brock 789\] | Brock 789 |  |
 | Aramaic | SAMAL šnh \[HJ 1155\] | HJ 1155 | gloss withheld |

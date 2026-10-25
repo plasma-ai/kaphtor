@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | wmʔ \[-a-\] (Lane 2968) | Lane 2968 |  |
 | Akkadian | wamāʔu |  |  |
 | Aramaic | ʔimō |  |  |
-| Epigraphic South Arabian | Sab wmʾ; l-wmʾ (Biella 132) | Biella 132 | gloss withheld |
+| Epigraphic South Arabian | Sab wmʾ; l-wmʾ (Biella 132); probably a misreading or miswriting of wzʾ (Sabaweb lemma 13395) | Biella 132; Sabaweb lemma 13395 | gloss withheld |
 | Amorite | wmʾ: jawmaʾ, jūmaʾ (Gelb AS 21, 35) | Gelb AS 21 35 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

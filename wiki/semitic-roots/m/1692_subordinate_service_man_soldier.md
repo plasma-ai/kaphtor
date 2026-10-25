@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1692_subordinate_service_man_soldier
 title: "*mary/w- / *mahir-: 'subordinate; service man, soldier'"
-desc: "Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier': reflexes in 7 language(s)."
+desc: "Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1692"
@@ -37,6 +37,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | mhr in PNN, (DN-)mhr(-DN) (Benz 340f. apud DULAT 530) | DULAT 530 |  |
 | Hebrew | māhîr (HALOT 552) | HALOT 552 | gloss withheld |
 | Aramaic | mhyr (DNWSI 602 apud DULAT 530) | DNWSI 602; DULAT 530 | gloss withheld |
+| Syrian Aramaic | mahirā (Kogan 2015, ch. 2 §4.2 no. 36) | Kogan 2015, ch. 2 §4.2 no. 36 | gloss withheld |
+| Epigraphic South Arabian | Sab tmhrt (Kogan 2015, ch. 2 §4.2 no. 36) | Kogan 2015, ch. 2 §4.2 no. 36 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/880_be_wide
 title: "*ra/uḥa/ub: 'be wide'"
-desc: "Proto-Semitic *ra/uḥa/ub, 'be wide': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ra/uḥa/ub, 'be wide': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "880"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | rḥb /raḥabu/ (Huehnergard 2012, 155) | Huehnergard 2012 155 | gloss withheld |
 | Phoenician | rḥb (Krahmalkov 443) | Krahmalkov 443 | gloss withheld |
 | Hebrew | rḥb (Kogan 2015, ch. 2 §4.2 no. 50) | Kogan 2015, ch. 2 §4.2 no. 50 |  |
+| Geez | rǝḥba (Kogan 2015, ch. 2 §4.2 no. 50) | Kogan 2015, ch. 2 §4.2 no. 50 | gloss withheld |
 | Punic | rḥb 'enlarge' | Anderson–Moser 2024 root rḥb |  |
 | Mandaic Aramaic | RHB (HALOT 1210) | HALOT 1210 |  |
 | Tigre | raḥaba, rĕḥīb (HALOT 1210) | HALOT 1210 |  |

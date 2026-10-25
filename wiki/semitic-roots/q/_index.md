@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/q
 desc: "Semitic roots whose first radical is q."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/q
@@ -27,7 +27,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/q/1610_goblet|1610_goblet]]: Proto-Semitic *ḳab-, 'goblet': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/q/1611_say|1611_say]]: Proto-Semitic *ḳVb-, 'say': reflexes in 1 language(s).
+[[wiki/semitic-roots/q/1611_say_summon|1611_say_summon]]: Proto-Semitic *ḳVb-, 'say; summon': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/q/1612_fall|1612_fall]]: Proto-Semitic *ḳVyVl-, 'fall': reflexes in 2 language(s).
 
@@ -185,7 +185,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/q/2607_to_precede_be_in_front|2607_to_precede_be_in_front]]: Proto-Semitic *ḳdm, 'to precede, be in front': reflexes in 22 language(s).
 
-[[wiki/semitic-roots/q/2650_foliage|2650_foliage]]: Proto-Semitic *ḳʷaṣl-, 'foliage': reflexes in 5 language(s).
+[[wiki/semitic-roots/q/2650_foliage|2650_foliage]]: Proto-Semitic *ḳʷaṣl-, 'foliage': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/q/2652_color_of_lapis_lazuli|2652_color_of_lapis_lazuli]]: Proto-Semitic *(ʾV-)ḳVnVʾ/w-, 'color of lapis lazuli': reflexes in 5 language(s).
 
@@ -236,6 +236,30 @@ updated: 2026-10-24T15:25:56Z
 [[wiki/semitic-roots/q/3193_wood_forest|3193_wood_forest]]: Proto-Semitic *ḳayŝ-, 'wood, forest': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/q/320_earthenware|320_earthenware]]: Proto-Semitic *ḳidr-, 'earthenware': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/q/3246_to_break|3246_to_break]]: Proto-Semitic *ḳṣp, 'to break': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/q/3288_before_in_front_of_opposite|3288_before_in_front_of_opposite]]: Proto-Semitic *ḳVbl, 'before, in front of, opposite': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/q/3367_shoulder_blade|3367_shoulder_blade]]: Proto-Semitic *mi-ḳraf-at-, 'shoulder blade': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/q/3371_to_be_in_daytime|3371_to_be_in_daytime]]: Proto-Semitic *ḳhb, 'to be in daytime': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/q/3372_to_hide|3372_to_hide]]: Proto-Semitic *ḳry, 'to hide': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/q/3373_fresh_butter|3373_fresh_butter]]: Proto-Semitic *ḳaṭmīm, 'fresh butter': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/q/3422_to_collect_fodder|3422_to_collect_fodder]]: Proto-Semitic *ḳnm, 'to collect fodder': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/q/3486_height_stature|3486_height_stature]]: Proto-Semitic *ḳwm, 'height, stature': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/q/3502_to_turn_over|3502_to_turn_over]]: Proto-Semitic *ḳlb, 'to turn over': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/q/3509_to_sing_a_dirge_to_chant_song_dirge|3509_to_sing_a_dirge_to_chant_song_dirge]]: Proto-Semitic *ḳyn, 'to sing a dirge, to chant; song, dirge': reflexes in 7 language(s).
+
+[[wiki/semitic-roots/q/3531_nest|3531_nest]]: Proto-Semitic *ḳnn, 'nest': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/q/3542_assembly|3542_assembly]]: Proto-Semitic *ḳhl, 'assembly': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/q/362_bow|362_bow]]: Proto-Semitic *ḳa(w)š-, 'bow': reflexes in 15 language(s).
 
@@ -300,8 +324,6 @@ updated: 2026-10-24T15:25:56Z
 [[wiki/semitic-roots/q/K0290_curse|K0290_curse]]: Proto-Semitic *qVbVb-, 'curse': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/q/K0291_receive|K0291_receive]]: Proto-Semitic *qubul-, 'receive': reflexes in 17 language(s).
-
-[[wiki/semitic-roots/q/K0292_say|K0292_say]]: Proto-Semitic *qVbVʾ-, 'say': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/q/K0293_cap|K0293_cap]]: Proto-Semitic *qVbVʿ-, 'cap': reflexes in 8 language(s).
 

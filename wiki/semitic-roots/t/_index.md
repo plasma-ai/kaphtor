@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/t
 desc: "Semitic roots whose first radical is t."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/t
@@ -25,7 +25,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/t/1308_courtier|1308_courtier]]: Proto-Semitic *tiHir-, 'courtier': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/t/1411_eat|1411_eat]]: Proto-Semitic *tVʾ-/*tVw-, 'eat': reflexes in 5 language(s).
+[[wiki/semitic-roots/t/1411_eat|1411_eat]]: Proto-Semitic *tVʾ-/*tVw-, 'eat': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/t/1412_follow|1412_follow]]: Proto-Semitic *tVbaʕ-, 'follow': reflexes in 4 language(s).
 
@@ -45,7 +45,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/t/1421_white_cedar|1421_white_cedar]]: Proto-Semitic *tiʾal-, 'white cedar': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/t/1422_rise|1422_rise]]: Proto-Semitic *tVb-, 'rise': reflexes in 1 language(s).
+[[wiki/semitic-roots/t/1422_rise_set_out|1422_rise_set_out]]: Proto-Semitic *tVb-, 'rise, set out': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/t/145_to_spit|145_to_spit]]: Proto-Semitic *tVpVl-, 'to spit': reflexes in 4 language(s).
 
@@ -105,13 +105,23 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/t/3182_watercourse_channel|3182_watercourse_channel]]: Proto-Semitic *taʕal-at-, 'watercourse, channel': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/t/3262_furrow|3262_furrow]]: Proto-Semitic *tVlm-, 'furrow': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/t/3320_to_be_in_order_to_set_right_establish|3320_to_be_in_order_to_set_right_establish]]: Proto-Semitic *tḳn, 'to be in order; to set right, establish': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/t/3334_to_follow|3334_to_follow]]: Proto-Semitic *tlw, 'to follow': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/t/336_kind_of_string|336_kind_of_string]]: Proto-Semitic *tikk-, 'kind of string': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/t/337_stick_sceptre|337_stick_sceptre]]: Proto-Semitic *taḳr-, 'stick, sceptre': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/t/338_stick_with_a_hook|338_stick_with_a_hook]]: Proto-Semitic *tir-, 'stick with a hook': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/t/3399_to_lead|3399_to_lead]]: Proto-Semitic *tlk, 'to lead': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/t/339_cross_beam|339_cross_beam]]: Proto-Semitic *tawr-, 'cross-beam': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/t/3510_boundary|3510_boundary]]: Proto-Semitic *tḫm, 'boundary': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/t/434_advance_quickly|434_advance_quickly]]: Proto-Semitic *tVḳtVḳ-, 'advance quickly': reflexes in 1 language(s).
 

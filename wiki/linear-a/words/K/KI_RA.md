@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KI_RA
 title: "KI-RA"
-desc: "kirû?/qīra?: possibly garden/orchard; alternatively liquid bitumen. Lexicon, CANDIDATE (tier 2)."
+desc: "kirû/qīra: possibly garden/orchard; alternatively liquid bitumen. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative"]
 kind: "word"
 form: "KI-RA"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
-reading: "kirû?/qīra?"
+reading: "kirû/qīra"
 attestations: ["HT103", "ZA8"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | kirû?/qīra? |
+| Reading | kirû/qīra |
 | Meaning | possibly garden/orchard; alternatively liquid bitumen |
 | Language layer | Akkadian_or_NWS |
 | Category | administrative |

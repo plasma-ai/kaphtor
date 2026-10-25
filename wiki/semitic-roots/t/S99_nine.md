@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | tšʿ (Aramaic Root Atlas; DNWSI 1235 apud CAL) | Aramaic Root Atlas; DNWSI 1235; CAL | gloss withheld |
 | Punic | tšʿ, tšʿm (T 345) | T 345 | gloss withheld |
 | Ugaritic | tšʿ (DULAT 868) | DULAT 868 | gloss withheld |
-| Epigraphic South Arabian | Sab tsʿ (SD 148; Biella 535) | SD 148; Biella 535 | gloss withheld |
+| Epigraphic South Arabian | Sab tsʿ (SD 148; Biella 535; Sabaweb lemma 2669) | SD 148; Biella 535; Sabaweb lemma 2669 | gloss withheld |
 | Judaic Aramaic | tēšaʿ (HALOT 1802; DJPA 593b apud CAL) | HALOT 1802; DJPA 593b; CAL |  |
 | Syrian Aramaic | tᵉšaʿ (HALOT 1802; Payne Smith 622) | HALOT 1802; Payne Smith 622 |  |
 | Geez | tasʿū/tesʿū (HALOT 1802) | HALOT 1802 |  |

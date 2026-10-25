@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḫ
 desc: "Semitic roots whose first radical is ḫ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ḫ
@@ -235,6 +235,24 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ḫ/3224_long_period_of_time_lifespan_eternity|3224_long_period_of_time_lifespan_eternity]]: Proto-Semitic *ḫVld-, 'long period of time, lifespan, eternity': reflexes in 3 language(s).
 
+[[wiki/semitic-roots/ḫ/3251_rod_staff_stick|3251_rod_staff_stick]]: Proto-Semitic *ḫuṭr-, 'rod, staff, stick': reflexes in 11 language(s).
+
+[[wiki/semitic-roots/ḫ/3255_to_perish_vanish_to_come_to_an_end|3255_to_perish_vanish_to_come_to_an_end]]: Proto-Semitic *ḫlḳ, 'to perish, vanish; to come to an end': reflexes in 10 language(s).
+
+[[wiki/semitic-roots/ḫ/3429_to_sit_down|3429_to_sit_down]]: Proto-Semitic *ḫll, 'to sit down': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3479_to_guard_keep_watch|3479_to_guard_keep_watch]]: Proto-Semitic *ḫlw, 'to guard, keep watch': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ḫ/3508_to_rejoice_1_joy_2|3508_to_rejoice_1_joy_2]]: Proto-Semitic *ḫdw, 'to rejoice' 1, 'joy' 2: reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ḫ/3519_army|3519_army]]: Proto-Semitic *ḫmš, 'army': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3553_to_damage_ruin_to_wrong|3553_to_damage_ruin_to_wrong]]: Proto-Semitic *ḫbl, 'to damage, ruin; to wrong': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/ḫ/3554_to_protect|3554_to_protect]]: Proto-Semitic *ḫpr, 'to protect': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḫ/3555_to_cut_in_incise_to_determine|3555_to_cut_in_incise_to_determine]]: Proto-Semitic *ḫrṣ, 'to cut in, incise; to determine': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/ḫ/378_ring_1_seal_on_a_ring_2|378_ring_1_seal_on_a_ring_2]]: Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 14 language(s).
 
 [[wiki/semitic-roots/ḫ/407_sew|407_sew]]: Proto-Semitic *ḫVwiṭ-, 'sew': reflexes in 6 language(s).
@@ -317,7 +335,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ḫ/K0784_dung|K0784_dung]]: Proto-Semitic *ḫVrVʾ-, 'dung': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/K0785_lack|K0785_lack]]: Proto-Semitic *ḫVsVr-, 'lack': reflexes in 11 language(s).
+[[wiki/semitic-roots/ḫ/K0785_lack|K0785_lack]]: Proto-Semitic *ḫVsVr-, 'lack': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ḫ/K0786_kindle|K0786_kindle]]: Proto-Semitic *ḫVtVw-, 'kindle': reflexes in 2 language(s).
 

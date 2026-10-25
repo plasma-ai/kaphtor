@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu is the closest independent formal and semantic parallel: CAD M/2 98 gives 'amount, number,' and the spellings mi-nu-te occur in administrative or reckoning contexts (Ebeling, Parfümrez. p. 26 ii 20; AKA 143 iv 33). This makes 'count/reckoning' preferable to a goddess Minut. Linear A does not mark vowel length, and final TE may carry a support vowel. Arabic Manāt remains a remote comparison, not the primary identification.
+Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu is the closest independent formal and semantic parallel: CAD M/2 98 gives 'amount, number,' and the spellings mi-nu-te occur in administrative or reckoning contexts (Ebeling, Parfümrez. p. 26 ii 20; AKA 143 iv 33). This makes 'count/reckoning' preferable to a goddess Minut. Linear A does not mark vowel length, and final TE may carry a support vowel. Linear A writes i where Amorite has a: MI-NU-TE against Ma-nu-tum (Gelb no. 4528), as I-PI-NA-MA against pān-. Arabic Manāt remains a remote comparison, not the primary identification.
 
 ### Cognates
 

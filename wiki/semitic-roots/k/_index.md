@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/k
 desc: "Semitic roots whose first radical is k."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/k
@@ -279,6 +279,40 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/k/3238_to_tie_fasten_twist_a_rope|3238_to_tie_fasten_twist_a_rope]]: Proto-Semitic *krb, 'to tie, fasten; twist (a rope)': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/k/3266_like_as_in_the_manner_of|3266_like_as_in_the_manner_of]]: Proto-Semitic *kV, 'like, as, in the manner of': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/k/3285_your_you_pronominal_suffix_2_pl|3285_your_you_pronominal_suffix_2_pl]]: Proto-Semitic *-kVmV/*-kVnV, 'your; you (pronominal suffix, 2 pl.)': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/k/3308_to_break_off_split|3308_to_break_off_split]]: Proto-Semitic *ksp, 'to break off, split': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/k/3316_to_plough_clod|3316_to_plough_clod]]: Proto-Semitic *krb, 'to plough; clod': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/k/3319_to_heap_up_pile_up|3319_to_heap_up_pile_up]]: Proto-Semitic *kmr, 'to heap up, pile up': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/k/3322_to_bend_curve_to_encircle|3322_to_bend_curve_to_encircle]]: Proto-Semitic *kp, 'to bend, curve; to encircle': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/k/3369_beestings_colostrum|3369_beestings_colostrum]]: Proto-Semitic *kapaʾ, 'beestings, colostrum': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/k/3370_to_find|3370_to_find]]: Proto-Semitic *ksʾ, 'to find': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/k/3415_to_be_numerous|3415_to_be_numerous]]: Proto-Semitic *kwn/*kyn, 'to be numerous': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/k/3421_with|3421_with]]: Proto-Semitic *kV-, 'with': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/k/3435_to_tread_trample_to_walk_slowly|3435_to_tread_trample_to_walk_slowly]]: Proto-Semitic *kd, 'to tread, trample; to walk (slowly)': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/k/3437_to_pierce_prick_sew_awl|3437_to_pierce_prick_sew_awl]]: Proto-Semitic *ktb, 'to pierce, prick, sew; awl': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/k/3475_thus_so|3475_thus_so]]: Proto-Semitic *kn, 'thus, so': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/k/3498_stand_base|3498_stand_base]]: Proto-Semitic *knn, 'stand, base': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/k/3503_to_be_short|3503_to_be_short]]: Proto-Semitic *kry, 'to be short': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/k/3548_to_be_suitable_succeed|3548_to_be_suitable_succeed]]: Proto-Semitic *kṯr, 'to be suitable, succeed': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/k/3556_Kislev_Babylonian_month_IX|3556_Kislev_Babylonian_month_IX]]: Proto-Semitic *Kislīmu-, 'Kislev (Babylonian month IX)': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/k/373_silver|373_silver]]: Proto-Semitic *kasp-, 'silver': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/k/374_goldsmith_1_gold_2|374_goldsmith_1_gold_2]]: Proto-Semitic *kVtm-, 'goldsmith' 1, 'gold' 2: reflexes in 2 language(s).
@@ -335,7 +369,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/k/K0104_cover|K0104_cover]]: Proto-Semitic *kVsVy-, 'cover': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/k/K0105_seat|K0105_seat]]: Proto-Semitic *kVsVʾ-, 'seat': reflexes in 4 language(s).
+[[wiki/semitic-roots/k/K0105_seat|K0105_seat]]: Proto-Semitic *kVsVʾ-, 'seat': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/k/K0106_enclose|K0106_enclose]]: Proto-Semitic *kVtVr-, 'enclose': reflexes in 7 language(s).
 

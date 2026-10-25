@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/776_sand_1_silt_2_waterlogged_ground_3
 title: "*baṣ̂-: 'sand' 1, 'silt' 2, 'waterlogged ground' 3"
-desc: "Proto-Semitic *baṣ̂-, 'sand' 1, 'silt' 2, 'waterlogged ground' 3: reflexes in 4 language(s)."
+desc: "Proto-Semitic *baṣ̂-, 'sand' 1, 'silt' 2, 'waterlogged ground' 3: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "776"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | bāṣ- 1 |  |  |
 | Hebrew | bōṣ 2, biṣṣā 3 (HALOT 147) | HALOT 147 |  |
 | Aramaic | Pal bṣyn |  | gloss withheld |
+| Judaic Aramaic | JPA byṣh (DJPA 97 apud SEDonline 1835) | DJPA 97; SEDonline 1835 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

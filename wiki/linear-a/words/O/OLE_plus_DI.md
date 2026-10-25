@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/OLE_plus_DI
 title: "OLE+DI"
-desc: "dišpu?: DI-oil subtype; perhaps honeyed oil. Lexicon, CANDIDATE (tier 2)."
+desc: "dišpu: DI-oil subtype; perhaps honeyed oil. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "OLE+DI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.35
-reading: "dišpu?"
+reading: "dišpu"
 attestations: ["HT12", "HT14", "HT28a", "HT28b", "HT50b", "HT90", "HT116a", "HT129"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | dišpu? |
+| Reading | dišpu |
 | Meaning | DI-oil subtype; perhaps honeyed oil |
 | Root | d-š-p |
 | Language layer | NWS |

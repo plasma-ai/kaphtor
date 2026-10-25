@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_TA_RO
 title: "U-TA-RO"
-desc: "watru(?): additional, surplus, or excess (administrative heading). Lexicon, CANDIDATE (tier 2)."
+desc: "watru: additional, surplus, or excess (administrative heading). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative"]
 kind: "word"
 form: "U-TA-RO"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "watru(?)"
+reading: "watru"
 attestations: ["HT116a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | watru(?) |
+| Reading | watru |
 | Meaning | additional, surplus, or excess (administrative heading) |
 | Root | w-t-r |
 | Language layer | NWS |

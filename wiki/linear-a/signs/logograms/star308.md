@@ -38,7 +38,7 @@ Oil derivative modifier. Appears in compound \*188-\*308 (terebinth oil). HT123+
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni(?) | CANDIDATE |
+| [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | CANDIDATE |
 | [[wiki/linear-a/words/star/star308\|\*308]] | šamnu | PROBABLE |
 
 <!-- END kaphtor:record -->

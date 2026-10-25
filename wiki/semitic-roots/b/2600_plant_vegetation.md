@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Harsusi | beḳelēt |  | gloss withheld |
-| Epigraphic South Arabian | Sab bql (SD 30; Biella 53) | SD 30; Biella 53 | gloss withheld |
+| Epigraphic South Arabian | Sab bql (SD 30; Biella 53; Sabaweb lemma 1943) | SD 30; Biella 53; Sabaweb lemma 1943 | gloss withheld |
 | Akkadian | baqālu (CAD B 97) | CAD B 97 | gloss withheld |
 | Eblaitic | bù-ḳù-lu (Kogan 2011, 203) | Kogan 2011, 203 |  |
 | Ugaritic | bḳl (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |

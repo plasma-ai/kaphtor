@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/R/RE_ZA
 title: "RE-ZA"
-desc: "RE-ZA: counted administrative category or measure; possibly Luwian aruza. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative_measure"]
+desc: "(ʾa)raz: cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "commodity"]
 kind: "word"
 form: "RE-ZA"
 datasets: ["lexicon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.4
-reading: "RE-ZA"
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "(ʾa)raz"
 attestations: ["HT13", "HT88", "KH86"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,31 +27,34 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.40
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
-| Reading | RE-ZA |
-| Meaning | counted administrative category or measure; possibly Luwian aruza |
-| Language layer | Anatolian_or_NWS |
-| Category | administrative_measure |
-| Semantic field | administrative |
+| Reading | (ʾa)raz |
+| Meaning | cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure |
+| Root | ʾ-r-z |
+| Language layer | NWS |
+| Category | commodity |
+| Semantic field | commodity |
 
 ### Note
 
-RE-ZA is always quantified: HT13 has 5½, HT88 has 6, and KH86 places it before CYP. Those contexts establish a counted administrative category but not its substance. Hieroglyphic Luwian aruza 'a measure' is the strongest contextual comparison, although its direct attestation is later than LM IB. Semitic \*ʺrz 'cedar' remains formally possible but requires an unrepresented initial glottal and does not explain the administrative distribution as well. Translate only as category/measure(?).
+Always counted: KH 86 \]RE-ZA CYP, before the aromatic cyperus, broken before; HT 88 RE-ZA 6 before NI KI-KI-NA 7; HT 13 RE-ZA 5½, first entry of the VIN · TE list. ʾarz 'cedar', the aromatic wood, resin and oil, beside cyperus at Khania as cedar beside juniper in Hebrew (1 Kgs 5:22); RE writes ra, ZA the z. Weak point: initial ʾa- unwritten. Rival: Hieroglyphic Luwian aruza, a measure, attested later.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hieroglyphic Luwian | aruza, a measure equated with Urartian liš (later direct attestation) |
-| Ugaritic | arz 'cedar' |
-| Hebrew | ʾerez 'cedar' (HALOT 83) |
+| Proto-Semitic | \*ʾVrz- 'cedar' (semitic_roots no. 2735) |
+| Ugaritic | arz 'a conifer; cedar' (DULAT 109) |
+| Eblaite | ar-za-tum /ʔarzatum/ 'cedar' (VE 471) |
+| Hebrew | ʾerez 'cedar' beside bərôš 'juniper' (1 Kgs 5:22) |
+| Hieroglyphic Luwian | aruza, a measure equated with Urartian liš, rival |
 
 ### Source
 
-di Mino
+di Mino; DULAT
 
 ## Attestations
 
@@ -65,6 +68,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | RE-ZA | counted category or measure; compare Luwian aruza | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | (ʾa)raz | cedar (commodity); rival Luwian aruza, a measure | SPECULATIVE |
 
 <!-- END kaphtor:record -->

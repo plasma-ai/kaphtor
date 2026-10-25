@@ -80,6 +80,6 @@ Four Linear A attestations behave as a personal name. Linear B pa-ja-ro is a mas
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû(?), [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/K/KA_DU_MA_NE|KA-DU-MA-NE]] Kadumānu, [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r)?, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/K/KA_DU_MA_NE|KA-DU-MA-NE]] Kadumānu, [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r), [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
 
 <!-- END kaphtor:record -->

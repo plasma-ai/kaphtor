@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/z
@@ -93,6 +93,18 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/z/316_carry_load|316_carry_load]]: Proto-Semitic *zVbVy-, 'carry (load)': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/z/3263_to_dance|3263_to_dance]]: Proto-Semitic *zpn, 'to dance': reflexes in 10 language(s).
+
+[[wiki/semitic-roots/z/3408_to_go_down|3408_to_go_down]]: Proto-Semitic *zhr, 'to go down': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3444_except_beside|3444_except_beside]]: Proto-Semitic *zVl-t-, 'except, beside': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/3459_to_adulterate_counterfeit_rust|3459_to_adulterate_counterfeit_rust]]: Proto-Semitic *zɣl, 'to adulterate; counterfeit, rust': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3487_gift|3487_gift]]: Proto-Semitic *zbd, 'gift': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3505_provisions_for_a_journey_to_provision|3505_provisions_for_a_journey_to_provision]]: Proto-Semitic *zwd, 'provisions for a journey; to provision': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/z/356_cut_chop|356_cut_chop]]: Proto-Semitic *zVʕab-, 'cut, chop': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/z/357_be_cut_off|357_be_cut_off]]: Proto-Semitic *zVʾVp-, 'be cut off': reflexes in 1 language(s).
@@ -125,7 +137,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/z/K0461_prune|K0461_prune]]: Proto-Semitic *zVbVr-, 'prune': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/z/K0462_clean|K0462_clean]]: Proto-Semitic *zVkVy-, 'clean': reflexes in 4 language(s).
+[[wiki/semitic-roots/z/K0462_clean|K0462_clean]]: Proto-Semitic *zVkVy-, 'clean': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/z/K0463_glide|K0463_glide]]: Proto-Semitic *zVlVg-, 'glide': reflexes in 3 language(s).
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | rapaʾ; rǝpāʾîm (HALOT 1274) | HALOT 1274 | gloss withheld |
 | Punic | rpʾ 'heal' | Anderson–Moser 2024 root rpʾ |  |
 | Ugaritic | rpʾ; rpʾum (HALOT 1274; DULAT 731) | HALOT 1274; DULAT 731 | gloss withheld |
-| Epigraphic South Arabian | Sab rfʾ (Biella 492); rfʾ (SD 115) | Biella 492; SD 115 | gloss withheld |
+| Epigraphic South Arabian | Sab rfʾ (Biella 492; Sabaweb lemma 4885); rfʾ (SD 115; Sabaweb lemma 4885) | Biella 492; Sabaweb lemma 4885; SD 115; Sabaweb lemma 4885 | gloss withheld |
 | Phoenician | rpʾm (KAI 13:7-8; HALOT 1274); rpʾ (HALOT 1272) | KAI 13:7-8; HALOT 1274; HALOT 1272 | gloss withheld |
 | Akkadian | rapāʾum (HALOT 1272) | HALOT 1272 |  |
 | Geez | rafʾa (HALOT 1272) | HALOT 1272 |  |

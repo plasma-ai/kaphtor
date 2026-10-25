@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ṣɣr |  |  |
 | Modern Arabic | Mec ṣaɣiyr |  |  |
 | Hebrew | ṣʕw/yr; ṣāʕar (HALOT 1043) | HALOT 1043 | gloss withheld |
-| Epigraphic South Arabian | ṣɣr |  |  |
+| Epigraphic South Arabian | ṣɣr (Sabaweb lemma 5182) | Sabaweb lemma 5182 | gloss withheld |
 | Judaic Aramaic | ṣʕr |  | gloss withheld |
 | Syrian Aramaic | ṣǝʕīr-, ṣǝʕar |  | gloss withheld |
 | Mandaic Aramaic | ṢAR, ṢUR (HALOT 1043) | HALOT 1043 |  |

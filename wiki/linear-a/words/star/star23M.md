@@ -61,7 +61,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | mūru | young bull, head of cattle | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | mūru | young bull, head of cattle | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | mūru | young bull, head of cattle (live livestock) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2069\|KHWc2069]] | (logogram) | young bull, head of cattle (live livestock logogram) | PROBABLE |
 

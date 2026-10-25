@@ -46,7 +46,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |
-| [[wiki/linear-a/words/E/E\|E]] | ḥemʾat? | CANDIDATE |
+| [[wiki/linear-a/words/E/E\|E]] | ḥemʾat | CANDIDATE |
 | [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | naḥāši | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SI_E\|JA-SI-E]] | yašīʿ-ē | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_E\|PA₃-E]] | bē | CANDIDATE |

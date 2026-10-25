@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṭali \[LGz. 590\], ṭalit \[ibid.\]. | LGz. 590; ibid. | gloss withheld |
 | Gurage | Eža End. Enm. Gyt. Sod. Sel. Wol. Zwy. ṭay, Sod. äṭay, Muh. Msq. ṭe, Cha. ṭạ̈, Msq. Gog. äṭe \[LGur. 638\]. | LGur. 638 | gloss withheld |
 | Hebrew | ṭālǟ (HALOT 375), pB. \[Ja. 535\] | HALOT 375; Ja. 535 | gloss withheld |
-| Epigraphic South Arabian | Sab. ṭly-n (du.) \[SD 153\]. Qat. ṭly \[Ricks 78\] | SD 153; Ricks 78; Sima 144; Hueh. 2000 203 | gloss withheld |
+| Epigraphic South Arabian | Sab. ṭly-n (du.) \[SD 153; Sabaweb lemma 3061\]. Qat. ṭly \[Ricks 78; Sabaweb lemma 3061\] | SD 153; Sabaweb lemma 3061; Ricks 78; Sabaweb lemma 3061; Sima 144; Hueh. 2000 203; Sabaweb lemma 3061 | gloss withheld |
 | Judaic Aramaic | ṭalyā 'lamb' \[Levy TW I 303\] ("nur in den jer. Trgg."). Likely a Hebraism with this meaning (see below on this root in Arm.). | Levy TW I 303 |  |
 | Harari | ṭāy \[LHar 157\]. | LHar 157 | gloss withheld |
 | Tigrinya | ṭel 'goat' \[Bass. 887\]. | Bass. 887 |  |

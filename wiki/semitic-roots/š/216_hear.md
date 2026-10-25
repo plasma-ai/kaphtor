@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | šmʿ (Krahmalkov 470) | Krahmalkov 470 | gloss withheld |
 | Hebrew | šmʕ \| šamaʿ |  | gloss withheld |
 | Amharic | sämma (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015, ch. 7 §2.2 no. 39 |  |
-| Epigraphic South Arabian | smʕ \| Sab smʿ (Biella 338) | Biella 338 | gloss withheld |
+| Epigraphic South Arabian | smʕ \| Sab smʿ (Biella 338; Sabaweb lemma 3265) | Biella 338; Sabaweb lemma 3265 | gloss withheld |
 | Harari | sämaʾa \[LHar 140\] | LHar 140 | gloss withheld |
 | Syrian Aramaic | šmʕ (Payne Smith 584) | Payne Smith 584 |  |
 | Gafat | sämmä |  |  |

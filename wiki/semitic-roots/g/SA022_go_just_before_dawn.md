@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/SA022_go_just_before_dawn
 title: "*ghm: 'go just before dawn'"
-desc: "Epigraphic South Arabian headword *ghm, 'go just before dawn': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *ghm, 'go just before dawn': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA022"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ghm (SD 49; Biella 66; Sabaweb lemma 4155) | SD 49; Biella 66; Sabaweb lemma 4155 | gloss withheld |
 | Arabic | Ar jahmaᵗ (Biella 66) | Biella 66 | gloss withheld |
+| Mehri | gəhēm (ML 117 apud SEDonline 451) | ML 117; SEDonline 451 | gloss withheld |
+| Jibbali | gɛhɛ́m (JL 73 apud SEDonline 451) | JL 73; SEDonline 451 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

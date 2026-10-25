@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 459 sets Syr. krab, Arb. karaba, Tgr. karba under Heb. II \*kbr 'twist, tie'. Not 1250 \*kVrVb- 'ask, request'.
+HALOT 459 sets Syr. krab, Arb. karaba, Tgr. karba under Heb. II \*kbr 'twist, tie'. Not 1250 \*kVrVb- 'ask, request'. Cf. 3316 \*krb 'to plough; clod'.
 
 <!-- END kaphtor:record -->

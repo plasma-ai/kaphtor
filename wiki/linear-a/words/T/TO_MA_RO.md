@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TO_MA_RO
 title: "TO-MA-RO"
-desc: "Tōmar?/Tamar?: possible personal name Tōmar/Tamar; palm-name. Lexicon, CANDIDATE (tier 2)."
+desc: "Tōmar/Tamar: possible personal name Tōmar/Tamar; palm-name. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_name_candidate"]
 kind: "word"
 form: "TO-MA-RO"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "Tōmar?/Tamar?"
+reading: "Tōmar/Tamar"
 attestations: ["KO(?)Zf2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Tōmar?/Tamar? |
+| Reading | Tōmar/Tamar |
 | Meaning | possible personal name Tōmar/Tamar; palm-name |
 | Root | t-m-r |
 | Language layer | NWS |

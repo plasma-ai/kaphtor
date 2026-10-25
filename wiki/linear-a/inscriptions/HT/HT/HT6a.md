@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["DA-QE-RA", "KA-PA", "NI", "PI-TA-JA", "QE-PI-TA", "TE"]
+words: ["DA-QE-RA", "DA-TA-RA", "KA-PA", "NI", "PI-TA-JA", "QE-PI-TA", "TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DA_QE_RA|DA-QE-RA]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/P/PI_TA_JA|PI-TA-JA]], [[wiki/linear-a/words/Q/QE_PI_TA|QE-PI-TA]], [[wiki/linear-a/words/T/TE|TE]].
+[[wiki/linear-a/words/D/DA_QE_RA|DA-QE-RA]], [[wiki/linear-a/words/D/DA_TA_RA|DA-TA-RA]], [[wiki/linear-a/words/K/KA_PA|KA-PA]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/P/PI_TA_JA|PI-TA-JA]], [[wiki/linear-a/words/Q/QE_PI_TA|QE-PI-TA]], [[wiki/linear-a/words/T/TE|TE]].
 
 ## Edition differences
 

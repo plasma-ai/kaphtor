@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʿarab 'pledge' | Anderson–Moser 2024 root ʿrb |  |
 | Punic | N.Pu. ʿrb (T 257) | T 257 | gloss withheld |
 | Ugaritic | ʿrb 'give' | Anderson–Moser 2024 root ʿrb |  |
-| Epigraphic South Arabian | Sab ʿrb (SD 18, 19; Biella 381, 382) | SD 18, 19; Biella 381, 382 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿrb (SD 18, 19; Biella 381, 382); (Sabaweb lemma 3811) | SD 18, 19; Biella 381, 382; Sabaweb lemma 3811 | gloss withheld |
 | Phoenician | ʿrb (HALOT 876) | HALOT 876 |  |
 | Syrian Aramaic | ʿrābā, ʿarrābūtā (HALOT 880; Payne Smith 427) | HALOT 880; Payne Smith 427 |  |
 | Akkadian | erubbātum (HALOT 880) | HALOT 880 |  |

@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["A-DU-KU-MI-NA", "A-KU-MI-NA", "A-MI-DA-U", "A-TA-NA-TE", "PA", "TA-NA-TE"]
+words: ["A-DU-KU-MI-NA", "A-KU-MI-NA", "A-MI-DA-U", "A-TA-NA-TE", "DA-I-PI-TA", "PA", "TA-NA-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾātanātu | The Giver (f.) — Athena etymology; √y-t-n 'to give' with y &gt; ʾ weakening (feminine \*yātanāt &gt; ʾātanāt) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | My kinsman knows (Amorite sentence name) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kamina | PN 'Addu has sheltered': A-DU + √k-m-n 'hide, shelter' (HALOT 481; Amorite Ka-mi-nu-um, Gelb 1980, no. 3970), built like A-DU-NI-TA-NA 'Addu has given'; cf. Heb. Ṣəpanyāh 'Yahweh has hidden' (HALOT 1049) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | — | PN (Zakros-only, 2×: ZA8, ZA10a). No reading. |  | unread |
+| [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | PN 'Good (f.)': Amorite DA-BA-TUM Ṭaybatum, a woman (Gelb 1980, no. 1409); LB da-i-pi-ta (KN Bk 799). Rival: DA-I + PI-TA | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | — | unread; ends in -SE, as on ZA 10b and ZA 20 |  | unread |
 
 ### Notes
@@ -87,6 +87,6 @@ A roster of single words with numerals; PA 1 on line 1 stands in the logogram co
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DU_KU_MI_NA|A-DU-KU-MI-NA]], [[wiki/linear-a/words/A/A_KU_MI_NA|A-KU-MI-NA]], [[wiki/linear-a/words/A/A_MI_DA_U|A-MI-DA-U]], [[wiki/linear-a/words/A/A_TA_NA_TE|A-TA-NA-TE]], [[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/T/TA_NA_TE|TA-NA-TE]].
+[[wiki/linear-a/words/A/A_DU_KU_MI_NA|A-DU-KU-MI-NA]], [[wiki/linear-a/words/A/A_KU_MI_NA|A-KU-MI-NA]], [[wiki/linear-a/words/A/A_MI_DA_U|A-MI-DA-U]], [[wiki/linear-a/words/A/A_TA_NA_TE|A-TA-NA-TE]], [[wiki/linear-a/words/D/DA_I_PI_TA|DA-I-PI-TA]], [[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/T/TA_NA_TE|TA-NA-TE]].
 
 <!-- END kaphtor:record -->

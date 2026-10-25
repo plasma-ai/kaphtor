@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | \[Tomb. 23\] |  |  |
 | Jibbali | ʔum |  | gloss withheld |
 | Hebrew | ʔēm (HALOT 61), pl. suff. ʔimmōhēnū, ʔimmōhām | HALOT 61 | gloss withheld |
-| Epigraphic South Arabian | SAB ʔmm \[SD 5\] ʔm-t \[ibid.; Sabaweb lemma 1365\] | SD 5; ibid.; Sabaweb lemma 1365 | gloss withheld |
+| Epigraphic South Arabian | SAB ʔmm \[SD 5; Sabaweb lemma 2986\] ʔm-t \[ibid.; Sabaweb lemma 1365\] | SD 5; Sabaweb lemma 2986; ibid.; Sabaweb lemma 1365 | gloss withheld |
 | Judaic Aramaic | ʔīmmā 'mother' \[Ja 50\] | Ja 50 |  |
 | Amorite | /ʔi/ummum/ (Gelb AS 21, 14) | Gelb AS 21 14 |  |
 | Harari | umma \[LHar 25\] | LHar 25 | gloss withheld |

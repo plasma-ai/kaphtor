@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | ḥbb; mḥb (T 169) | T 169 | gloss withheld |
-| Epigraphic South Arabian | Sab ḥbb (SD 58, 65; Biella 103, 163) | SD 58, 65; Biella 103, 163 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥbb (SD 65; Biella 163) | SD 65; Biella 163 | gloss withheld |
 | Arabic | ḥabba (HALOT 284) | HALOT 284 | gloss withheld |
 | Tigre | taḥābaba (Wb. 80a apud HALOT 284) | HALOT 284 | gloss withheld |
 | Amorite | ḥbb: ʾaḥbab, ḥabībum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |

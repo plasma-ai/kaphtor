@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ṣalmā (HALOT 1028; DJPA 465b apud CAL) | HALOT 1028; DJPA 465b; CAL |  |
 | Syrian Aramaic | ṣalmā, ṣəlemtā (HALOT 1028; Payne Smith 480) | HALOT 1028; Payne Smith 480 |  |
 | Mandaic Aramaic | ṣilma (HALOT 1028; Drower/Macuch 393b apud CAL) | HALOT 1028; Macuch 393b; CAL |  |
-| Epigraphic South Arabian | Sab. ṣlm, ẓlm (HALOT 1028; SD 143, 172) | HALOT 1028; SD 143, 172 | gloss withheld |
+| Epigraphic South Arabian | Sab. ṣlm, ẓlm (HALOT 1028; SD 143, 172; Sabaweb lemmas 1191, 2127) | HALOT 1028; SD 143, 172; Sabaweb lemmas 1191, 2127 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ṣlm (Al-Jallad–Jaworska 129) | Al-Jallad–Jaworska 129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

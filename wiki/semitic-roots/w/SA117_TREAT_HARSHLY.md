@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wqm (Biella 145; SD 161) | Biella 145; SD 161 | gloss withheld |
+| Epigraphic South Arabian | Sab wqm (Biella 145; SD 161; Sabaweb lemma 1770) | Biella 145; SD 161; Sabaweb lemma 1770 | gloss withheld |
 | Arabic | Ar waqama (Jamme 1962, 27 apud Biella 145). | Jamme 1962, 27; Biella 145 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

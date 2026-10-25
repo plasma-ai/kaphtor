@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/E/E
 title: "E"
-desc: "ḥemʾat?: quantified commodity; perhaps butter, ghee, or cream. Lexicon, CANDIDATE (tier 2)."
+desc: "ḥemʾat: quantified commodity; perhaps butter, ghee, or cream. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "logogram"]
 kind: "word"
 form: "E"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
-reading: "ḥemʾat?"
+reading: "ḥemʾat"
 attestations: ["HT12", "HT23a", "HT23b", "HT34", "HT35", "HT91", "KN1a", "KN1b", "ZA4a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ḥemʾat? |
+| Reading | ḥemʾat |
 | Meaning | quantified commodity; perhaps butter, ghee, or cream |
 | Root | ḥ-m-ʾ |
 | Language layer | NWS |

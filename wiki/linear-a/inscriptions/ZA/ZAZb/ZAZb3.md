@@ -63,7 +63,7 @@ Unicode (Linear A block):
 | 32 | 32 | 32 (units) | CONFIRMED |  |
 | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] | Djed-ka(.s) | personal name, 'Her Ka endures' (Egyptian) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | the deity Eshmun | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾaššē | fire offering, burnt offering | SPECULATIVE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾaššē | fire offering, burnt offering | CANDIDATE | CANDIDATE (lexicon) |
 | A-TA-I-\*301-DE-KA | ʾata-iʿnay-dēka | who-answered-for-you | PROBABLE |  |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-rāpiʾ-rinnā | Healer of Jubilation (Eshmun epithet) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) | may it be poured (out) | CANDIDATE | CANDIDATE (lexicon) |

@@ -80,7 +80,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/S/SI_plus_SE\|SI+SE]] | Šapšu | sun goddess (recipient of offering) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | offering, contribution | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_KI\|OLE+KI]] | šamnu kīnu | genuine oil (standard grade). 8 + 8 + ³⁄₄ units across three sections | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | šamnu U | U-grade oil (highest-frequency OLE compound, 22 att.; specific grade TBD). 7 + 2 + \[qty lost\] units | SPECULATIVE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | šamnu U | U-grade oil (highest-frequency OLE compound, 22 att.; specific grade TBD). 7 + 2 + \[qty lost\] units | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | royal allocation/account—the King's oil entry, coordinate with the Šapšu block (šarr- royal-title family) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU\|KU]] | kull | all, totality—subtotal marker before OLE | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/OLE\|OLE]] | šamnu | oil, olive oil (base commodity, follows KU as subtotal object) | PROBABLE | PROBABLE (lexicon) |

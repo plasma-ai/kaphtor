@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U
 desc: "Words whose first sign begins with U."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:37Z
 ---
 
 # wiki/linear-a/words/U
@@ -45,13 +45,13 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/U/U_SU|U_SU]]: ʾUšu: man of Ušu (mainland Tyre)—origin-labeled worker. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/U/U_TA2|U_TA2]]: Uta/Uda?: possible entity or place name heading the NI (fig) entry on HT103. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/U/U_TA2|U_TA2]]: Uta/Uda: possible entity or place name heading the NI (fig) entry on HT103. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/U/U_TA_I_SE|U_TA_I_SE]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/U/U_TA_I_SI|U_TA_I_SI]]: Unread (edge overlap): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/U/U_TA_RO|U_TA_RO]]: watru(?): additional, surplus, or excess (administrative heading). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/U/U_TA_RO|U_TA_RO]]: watru: additional, surplus, or excess (administrative heading). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/U/U_TE|U_TE]]: Unread (unread): no role; 1 occurrence(s).
 

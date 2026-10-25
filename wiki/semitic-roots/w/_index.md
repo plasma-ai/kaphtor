@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/w
 desc: "Semitic roots whose first radical is w."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:25:56Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/w
@@ -129,6 +129,24 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/w/3236_to_howl_wail|3236_to_howl_wail]]: Proto-Semitic *w/yll, 'to howl, wail': reflexes in 7 language(s).
 
+[[wiki/semitic-roots/w/3275_companion_friend|3275_companion_friend]]: Proto-Semitic *wVlVy-, 'companion, friend': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3307_to_be_sad_grieved_to_be_angry|3307_to_be_sad_grieved_to_be_angry]]: Proto-Semitic *w/ʔgm, 'to be sad, grieved; to be angry': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/w/3407_to_be_silent|3407_to_be_silent]]: Proto-Semitic *wḳf, 'to be silent': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3431_to_help|3431_to_help]]: Proto-Semitic *wṣl, 'to help': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3466_to_enter|3466_to_enter]]: Proto-Semitic *wkb, 'to enter': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/w/3513_pillow|3513_pillow]]: Proto-Semitic *wsd, 'pillow': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3514_tribute_tax|3514_tribute_tax]]: Proto-Semitic *wbl, 'tribute, tax': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3516_to_throw_stones|3516_to_throw_stones]]: Proto-Semitic *wgr, 'to throw (stones)': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/w/3532_middle_midst|3532_middle_midst]]: Proto-Semitic *wšṭ, 'middle, midst': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/w/430_lead|430_lead]]: Proto-Semitic *wVbVl-, 'lead': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/w/461_make_large_steps_of_camels|461_make_large_steps_of_camels]]: Proto-Semitic *wVʕVš-, 'make large steps (of camels)': reflexes in 1 language(s).
@@ -197,7 +215,7 @@ updated: 2026-10-24T15:25:56Z
 
 [[wiki/semitic-roots/w/K0442_wood|K0442_wood]]: Proto-Semitic *wVʿVr-, 'wood': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/w/K0443_advise|K0443_advise]]: Proto-Semitic *wVʿVṯ̣-, 'advise': reflexes in 4 language(s).
+[[wiki/semitic-roots/w/K0443_advise|K0443_advise]]: Proto-Semitic *wVʿVṯ̣-, 'advise': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/w/K0444_scratch|K0444_scratch]]: Proto-Semitic *wVḏVy-, 'scratch': reflexes in 1 language(s).
 
@@ -242,8 +260,6 @@ updated: 2026-10-24T15:25:56Z
 [[wiki/semitic-roots/w/SA118_CISTERN_RESERVOIR|SA118_CISTERN_RESERVOIR]]: Epigraphic South Arabian headword *wḳn, 'CISTERN, RESERVOIR': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/w/SA119_purify_oneself_q_dedicate_q|SA119_purify_oneself_q_dedicate_q]]: Epigraphic South Arabian headword *wḍʾ, 'purify oneself (?)', 'dedicate (?)': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/w/SA120_KIND_OF_CULTIVATED_FIELD_or_LAND|SA120_KIND_OF_CULTIVATED_FIELD_or_LAND]]: Epigraphic South Arabian headword *wṯd, 'KIND OF CULTIVATED FIELD or LAND': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/w/SA121_GUARANTEE|SA121_GUARANTEE]]: Epigraphic South Arabian headword *wṯḳ, 'GUARANTEE': reflexes in 2 language(s).
 

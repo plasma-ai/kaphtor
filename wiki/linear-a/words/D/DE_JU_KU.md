@@ -76,6 +76,6 @@ A recipient in the HT 93a grain list, DE-JU-KU 1½. Dalqu 'burning, kindled', as
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]] banīna, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]] banīna, [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]] šarra.
 
 <!-- END kaphtor:record -->

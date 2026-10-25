@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RU_PI_star305_MI
 title: "RU-PI-*305-MI"
-desc: "Ripī-Ḏāmir(?): personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r). Lexicon, SPECULATIVE (tier 1)."
+desc: "Ripī-Ḏāmir: personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "RU-PI-*305-MI"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
-reading: "Ripī-Ḏāmir(?)"
+reading: "Ripī-Ḏāmir"
 attestations: ["PE2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Ripī-Ḏāmir(?) |
+| Reading | Ripī-Ḏāmir |
 | Meaning | personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r) |
 | Root | r-p-ʾ + ḏ-m-r |
 | Language layer | NWS |

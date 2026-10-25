@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["KA-RO-NA", "KU-RO", "PIRRI"]
+words: ["A-SU-JA", "KA-RO-NA", "KU-RO", "PIRRI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> A-RU-RA-\[…\] \[…\]3. Qarna 2. \*322-RI 1. Total 10. Asuja 1. Personnel (VIR+\[?\]-I) 3. TA₂ 15.
+> A-RU-RA-\[…\] \[…\]3. Qarna 2. \*322-RI 1. Total 10. Azzuya 1. Personnel (VIR+\[?\]-I) 3. TA₂ 15.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/K/KA_RO_NA\|KA-RO-NA]] |  | Qarna (personal name, 'horn') | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/star/star322_RI\|\*322-RI]] |  | logogram \*322 with RI. No reading. |  | unread |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] |  | total | CONFIRMED | CONFIRMED (lexicon) |
-| [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] |  | Asuja (PN) | CANDIDATE | unread |
+| [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] |  | Azzuya (woman's name, Hurrian) | SPECULATIVE | SPECULATIVE (lexicon) |
 | VIR+\[?\]-I |  | personnel (logogram) | PROBABLE |  |
 | TA₂ |  | unresolved | SPECULATIVE |  |
 
@@ -82,7 +82,7 @@ Allocation tablet, companion to HT11b (same scribe, same findspot). Section 1: A
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KA_RO_NA|KA-RO-NA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PIRRI|PIRRI]].
+[[wiki/linear-a/words/A/A_SU_JA|A-SU-JA]], [[wiki/linear-a/words/K/KA_RO_NA|KA-RO-NA]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PIRRI|PIRRI]].
 
 ## Corpus note
 

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | bukrā (LSyr. 73, SL 126 apud SEDonline 503) | LSyr. 73, SL 126; SEDonline 503 | gloss withheld |
 | Mandaic Aramaic | bukra (MD 55 apud SEDonline 503) | MD 55; SEDonline 503 | gloss withheld |
 | Arabic | bikr- (Lane 240 apud SEDonline 503) | Lane 240; SEDonline 503 | gloss withheld |
-| Epigraphic South Arabian | Sab bkr (SD 28 apud SEDonline 503); Qat bkr (LIQ 26 apud SEDonline 503) | SD 28; SEDonline 503; LIQ 26; SEDonline 503 | gloss withheld |
+| Epigraphic South Arabian | Sab bkr (SD 28 apud SEDonline 503; Sabaweb lemma 3933); Qat bkr (LIQ 26 apud SEDonline 503; Sabaweb lemma 3933) | SD 28; SEDonline 503; Sabaweb lemma 3933; LIQ 26; SEDonline 503; Sabaweb lemma 3933 | gloss withheld |
 | Geez | bakʷr (CDG 94 apud SEDonline 503) | CDG 94; SEDonline 503 | gloss withheld |
 | Tigre | bəkər (WTS 290 apud SEDonline 503) | WTS 290; SEDonline 503 | gloss withheld |
 | Tigrinya | bäkʷri (TED 1171 apud SEDonline 503) | TED 1171; SEDonline 503 | gloss withheld |
@@ -50,6 +50,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-JPA bakkīr 'early, first rain' (DJPA 103 apud SEDonline 503). Not 2150 \*bVkVr(-at)- 'young (she-)camel'.
+JPA bakkīr 'early, first rain' (DJPA 103 apud SEDonline 503). Not 2150 \*bVkVr(-at)- 'young (she-)camel'. Cf. 3299 \*bkr 'to be early, be first; first fruits, early crop'.
 
 <!-- END kaphtor:record -->

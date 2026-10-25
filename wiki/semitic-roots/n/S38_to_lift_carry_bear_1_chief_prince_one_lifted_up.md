@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | našû (CAD N/2 97) | CAD N/2 97 | gloss withheld |
 | Ugaritic | nšʾ (DULAT 639); ynšʾ (KTU 1.2 iv 16); nšʾ ʿn | DULAT 639; KTU 1.2 iv 16 | gloss withheld |
-| Epigraphic South Arabian | Sab ns2ʾ (SD 98, 99) | SD 98, 99 | gloss withheld |
+| Epigraphic South Arabian | Sab ns2ʾ (SD 98, 99; Sabaweb lemmas 6235, 4675) | SD 98, 99; Sabaweb lemmas 6235, 4675 | gloss withheld |
 | Biblical Aramaic | n-ś-ʾ 'take' (BDB 1103) | BDB 1103 |  |
 | Judaic Aramaic | nsʾ (HALOT 724) | HALOT 724 |  |
 | Aramaic | nsʾ (HALOT 724) | HALOT 724 |  |

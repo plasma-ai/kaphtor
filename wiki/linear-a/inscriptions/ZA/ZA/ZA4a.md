@@ -89,7 +89,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] |  | unresolved, 4 units |  | unread |
 | [[wiki/linear-a/words/star/star28B_NU_MA_RE\|\*28B-NU-MA-RE]] | yīnu-mārē | wine-stewards (personnel category), 13 units | CANDIDATE |  |
 | [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | sipkī | pourings (libation portions), 5 units | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/E/E_star82\|E-\*82]] | ʿasī(s) | must, new wine—the bulk lot, 50 units | SPECULATIVE |  |
+| E-\*82 | ʿasī(s) | must, new wine—the bulk lot, 50 units | SPECULATIVE |  |
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kaddū | jars, 3 units—closes the list | PROBABLE | PROBABLE (lexicon) |
 
 ### Notes

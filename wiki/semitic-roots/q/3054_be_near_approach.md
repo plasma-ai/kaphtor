@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | qerēbu (CAD Q 228) | CAD Q 228 | gloss withheld |
 | Geez | qarba (LGz. 440) | LGz. 440 | gloss withheld |
 | Syrian Aramaic | qreb 'come near, touch; bring, offer; fight' (Payne Smith 517) | Payne Smith 517 |  |
-| Epigraphic South Arabian | Sab qrb (Biella 465) | Biella 465 | gloss withheld |
+| Epigraphic South Arabian | Sab qrb (Biella 465; Sabaweb lemma 1718) | Biella 465; Sabaweb lemma 1718 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:50:28Z
 ---
 
 # wiki/linear-a/words/D
@@ -13,11 +13,11 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/D/DA_DU_MI_NE|DA_DU_MI_NE]]: dādu-Mīnō: Beloved of Minos (theophoric PN). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_DU_star301|DA_DU_star301]]: dādu-nā-…?: possible opening 'our beloved …' (fragmentary and doubtful Linear A). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_DU_star301|DA_DU_star301]]: dādu-nā-…: possible opening 'our beloved …' (fragmentary and doubtful Linear A). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_I|DA_I]]: dayu: good, sufficient—commodity quality designation on oil/fat allocation tablets. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DA_I_PI_TA|DA_I_PI_TA]]: Unread (edge overlap): personal name; 2 occurrence(s).
+[[wiki/linear-a/words/D/DA_I_PI_TA|DA_I_PI_TA]]: Ṭayyibat: Good (f.) (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_JU_TE|DA_JU_TE]]: dalut: door, doorway. Lexicon, CANDIDATE (tier 2).
 
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/D/DA_KU_NA|DA_KU_NA]]: Daguna: personal name, probably derived from Dagan/Dagon; cf. attested Daguna. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/D/DA_KU_SE_NE|DA_KU_SE_NE]]: Takušenni: probable Hurrian-style personal name; compare Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/D/DA_KU_SE_NE|DA_KU_SE_NE]]: Takušenni: probable Hurrian-style personal name; compare Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/D/DA_KU_SE_NE_TI|DA_KU_SE_NE_TI]]: Onomasticon personal name, no reading.
 
@@ -39,13 +39,13 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/D/DA_ME|DA_ME]]: damu: blood (ritual allocation category); rival dimtu 'district'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_MI_NU|DA_MI_NU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_MI_NU|DA_MI_NU]]: Dimenu: Dimenu (personal name; Ugaritic name type dmn). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_NA_SI|DA_NA_SI]]: Unread (role only): administrative heading or entity; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_NA_SI|DA_NA_SI]]: Ḏā-Naśiʾ: He of Naśiʾ (personal name heading HT 126a). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_NA_TU|DA_NA_TU]]: dānatu: personal name (f.), 'she who judges'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_NE_KU_TI|DA_NE_KU_TI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_NE_KU_TI|DA_NE_KU_TI]]: Ḏā-naquddi: He of the speckled (flock) (personal name); rival 'He of the head shepherd'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_PA3_broken_end|DA_PA3_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -65,13 +65,13 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/D/DA_RU_star329|DA_RU_star329]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_SE_RA_TE|DA_SE_RA_TE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_SE_RA_TE|DA_SE_RA_TE]]: Dašurat: Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_SI_star118|DA_SI_star118]]: Dasiṭa: unresolved roster label or entity. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_TA_RA|DA_TA_RA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_TA_RA|DA_TA_RA]]: Daṯar: Old (man's name); rival 'He of the gate'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_TA_RE|DA_TA_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_TA_RE|DA_TA_RE]]: Onomasticon personal name, no reading.
 
 [[wiki/linear-a/words/D/DA_TU|DA_TU]]: Unread (role only): recipient or allocation heading; 1 occurrence(s).
 

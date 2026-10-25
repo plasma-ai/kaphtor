@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṣabʔ 2 |  |  |
 | Phoenician | ṣbʔ 1 |  |  |
 | Hebrew | ṣābā(ʔ) 1 |  |  |
-| Epigraphic South Arabian | ḍbʔ 2, 4 |  |  |
+| Epigraphic South Arabian | ḍbʔ 2, 4 (Sabaweb lemma 1553) | Sabaweb lemma 1553 | gloss withheld |
 | Punic | ṣbʾ 'army' | Anderson–Moser 2024 root ṣbʾ |  |
 | Tigre | ṣabʾa, ṣabʾē (HALOT 994) | HALOT 994 | gloss withheld |
 

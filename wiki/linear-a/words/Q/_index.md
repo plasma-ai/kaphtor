@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:37Z
 ---
 
 # wiki/linear-a/words/Q
@@ -37,7 +37,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/Q/QA_TI_DA_TE|QA_TI_DA_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/Q/QA_TI_JU|QA_TI_JU]]: Qātilu?: personal name, recipient of 8 (q-ṭ-l). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QA_TI_JU|QA_TI_JU]]: Qātilu: personal name, recipient of 8 (q-ṭ-l). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QA_TI_KI|QA_TI_KI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -61,7 +61,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/Q/QE_PI_TA|QE_PI_TA]]: qepīta: box, chest, basket (container or unit). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QE_PU|QE_PU]]: Unread (role only): personal name; 2 occurrence(s).
+[[wiki/linear-a/words/Q/QE_PU|QE_PU]]: qēpu: official, commissioner (title); rival: the personal name Qīpu. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_RA2_JA_broken_end|QE_RA2_JA_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -73,7 +73,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/Q/QE_SU_PU|QE_SU_PU]]: qaššāpu: sorcerer, diviner (occupational title or PN). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Q/QE_TI|QE_TI]]: qāti(?): in the charge of (list heading); Akk. qātu 'hand; charge'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QE_TI|QE_TI]]: qāti: in the charge of (list heading); Akk. qātu 'hand; charge'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_TI_RA_DU|QE_TI_RA_DU]]: Unread (edge overlap): personal name; 1 occurrence(s).
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | rēmu (CAD R 259) | CAD R 259 | gloss withheld |
 | Ugaritic | rḥm,; /r-ḥ-m/ (DULAT 725) | DULAT 725 | gloss withheld |
 | Hebrew | reḥem (HALOT 1217) | HALOT 1217 | gloss withheld |
-| Epigraphic South Arabian | Sab rḥm (SD 116, 117; Biella 481, 485) | SD 116, 117; Biella 481, 485 | gloss withheld |
+| Epigraphic South Arabian | Sab rḥm (SD 116, 117; Biella 485; Sabaweb lemma 8456) | SD 116, 117; Biella 485; Sabaweb lemma 8456 | gloss withheld |
 | Mehri | raḥm \[JM 321\]; also mǝrḥām do. \[ibid. 322\] | JM 321; ibid. 322 | gloss withheld |
 | Tigre | rǝḥm \[LH 146\]. | LH 146 | gloss withheld |
 | Eblaitic | rí-ʔex(EN)-mu, rí-mu-um /reḥmum/ \[Kr 14; Bl E No. 80\] | Kr 14 | gloss withheld |

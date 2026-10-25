@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SA_QE_RI
 title: "SA-QE-RI"
-desc: "Šaqeli(?): personal name, from √š-q-l 'to weigh'. Lexicon, CANDIDATE (tier 2)."
+desc: "Šaqeli: personal name, from √š-q-l 'to weigh'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "uncategorised"]
 kind: "word"
 form: "SA-QE-RI"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
-reading: "Šaqeli(?)"
+reading: "Šaqeli"
 attestations: ["HT11b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Šaqeli(?) |
+| Reading | Šaqeli |
 | Meaning | personal name, from √š-q-l 'to weigh' |
 | Root | š-q-l |
 | Language layer | NWS |

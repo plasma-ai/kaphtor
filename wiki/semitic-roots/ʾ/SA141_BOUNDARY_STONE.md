@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ʾrf (Biella 27; SD 7, 19) | Biella 27; SD 7, 19 | gloss withheld |
+| Epigraphic South Arabian | Sab ʾrf (Biella 27; SD 7; Sabaweb lemma 3568) | Biella 27; SD 7; Sabaweb lemma 3568 | gloss withheld |
 | Arabic | Ar ʾurufaᵗ (Biella 27) | Biella 27 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

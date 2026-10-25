@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_JA
 title: "A-JA"
-desc: "ḥaya? / ḥayyā? / Haya? / Aya?: possible divine name or liturgical predicate: Haya/Aya, or \"(the) Living One; Life\". Lexicon, CANDIDATE (tier 2)."
+desc: "ḥaya / ḥayyā / Haya / Aya: possible divine name or liturgical predicate: Haya/Aya, or \"(the) Living One; Life\". Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "ritual"]
 kind: "word"
 form: "A-JA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "ḥaya? / ḥayyā? / Haya? / Aya?"
+reading: "ḥaya / ḥayyā / Haya / Aya"
 attestations: ["PEZc4", "SYZa2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ḥaya? / ḥayyā? / Haya? / Aya? |
+| Reading | ḥaya / ḥayyā / Haya / Aya |
 | Meaning | possible divine name or liturgical predicate: Haya/Aya, or "(the) Living One; Life" |
 | Root | ḥ-y-y |
 | Language layer | NWS |

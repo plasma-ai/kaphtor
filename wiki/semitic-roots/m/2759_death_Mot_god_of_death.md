@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | mt (T 204) | T 204 | gloss withheld |
 | Hebrew | māwet (HALOT 563) | HALOT 563 | gloss withheld |
 | Greek | Μουθ (OLA80 §21.9,13) | OLA80 §21.9,13 | gloss withheld |
-| Epigraphic South Arabian | Sab mwt (SD 89; Biella 269, 270) | SD 89; Biella 269, 270 | gloss withheld |
+| Epigraphic South Arabian | Sab mwt (SD 89; Biella 269, 270; Sabaweb lemma 2828) | SD 89; Biella 269, 270; Sabaweb lemma 2828 | gloss withheld |
 | Geez | māwtā (LGz. 376) | LGz. 376 | gloss withheld |
 | Syrian Aramaic | mīt 'dead' (Payne Smith 269) | Payne Smith 269 |  |
 | Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |

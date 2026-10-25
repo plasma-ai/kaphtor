@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | šǝnfǝlla \[K 649\] | K 649 | gloss withheld |
 | Judaic Aramaic | šplyn (pl.) \[DJPA 562b apud CAL\]. | DJPA 562b; CAL | gloss withheld |
 | Tigrinya | šǝnfǝlla 'omasum, stomach chamber of ruminants' \[Bass 234\] | Bass 234 |  |
-| Epigraphic South Arabian | Sab s1fl (SD 124, 125) | SD 124, 125 | gloss withheld |
+| Epigraphic South Arabian | Sab s1fl (SD 124, 125; Sabaweb lemma 4995) | SD 124, 125; Sabaweb lemma 4995 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

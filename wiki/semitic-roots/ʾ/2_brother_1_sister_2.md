@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2_brother_1_sister_2
 title: "*ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2: 'brother' 1, 'sister' 2"
-desc: "Proto-Semitic *ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2, 'brother' 1, 'sister' 2: reflexes in 25 language(s)."
+desc: "Proto-Semitic *ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2, 'brother' 1, 'sister' 2: reflexes in 26 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2"
@@ -55,6 +55,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ʾḥ 'brother'; ʾḥt 'sister' | Anderson–Moser 2024 root ʾḫ |  |
 | Amorite | ʾaḫum, ʾaḫatum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾḫ (Al-Jallad–Jaworska 41) | Al-Jallad–Jaworska 41 | gloss withheld |
+| Jibbali | aɣá (JL 90 apud SEDonline 2048) | JL 90; SEDonline 2048 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -60,6 +60,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | kiššanu | beans, legumes | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | kiššanu | beans, legumes | CANDIDATE |
 
 <!-- END kaphtor:record -->

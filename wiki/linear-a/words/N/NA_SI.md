@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NA_SI
 title: "NA-SI"
-desc: "nasīʾ?: damaged final sequence; possible nasīʾ 'chief, prince'. Lexicon, SPECULATIVE (tier 1)."
+desc: "nasīʾ: damaged final sequence; possible nasīʾ 'chief, prince'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "vocabulary"]
 kind: "word"
 form: "NA-SI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "nasīʾ?"
+reading: "nasīʾ"
 attestations: ["APZa2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | nasīʾ? |
+| Reading | nasīʾ |
 | Meaning | damaged final sequence; possible nasīʾ 'chief, prince' |
 | Root | n-s-ʾ |
 | Language layer | NWS |

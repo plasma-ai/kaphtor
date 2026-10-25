@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/y
 desc: "Semitic roots whose first radical is y."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/y
@@ -38,6 +38,14 @@ updated: 2026-10-24T15:26:16Z
 [[wiki/semitic-roots/y/2609_to_hold_out_give_take|2609_to_hold_out_give_take]]: Proto-Semitic *(y/w)šṭw, 'to hold out, give/take': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/y/3235_to_despair|3235_to_despair]]: Proto-Semitic *yʾš, 'to despair': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/y/3276_to_wake_be_awake_be_alert|3276_to_wake_be_awake_be_alert]]: Proto-Semitic *yḳṯ̣, 'to wake, be awake, be alert': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/y/3309_to_be_exist_to_have|3309_to_be_exist_to_have]]: Proto-Semitic *yṯw, 'to be, exist; to have': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/y/3332_to_help_save|3332_to_help_save]]: Proto-Semitic *yṯʿ, 'to help, save': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/y/3552_wet_nurse|3552_wet_nurse]]: Proto-Semitic *ynḳ, 'wet-nurse': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/y/370_be_tired_1_work_2_feel_pain_3|370_be_tired_1_work_2_feel_pain_3]]: Proto-Semitic *yVgVʕ-, 'be tired' 1, 'work' 2, 'feel pain' 3: reflexes in 4 language(s).
 

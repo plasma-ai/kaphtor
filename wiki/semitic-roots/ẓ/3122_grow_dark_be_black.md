@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | ṣalma (LGz. 556) | LGz. 556 | gloss withheld |
 | Arabic | ẓalima (LGz. 556; HALOT 1028); ẓulmat (HALOT 1028) | LGz. 556; HALOT 1028; HALOT 1028 |  |
-| Epigraphic South Arabian | Sab ẓlm (SD 172) | SD 172 | gloss withheld |
+| Epigraphic South Arabian | Sab ẓlm (SD 172); read or the place name Ẓalam (Sabaweb lemma 5548) | SD 172; Sabaweb lemma 5548 | gloss withheld |
 | Hebrew | \*ṣlm (HALOT 1028); ṣalmūṯ (LGz. 556) | HALOT 1028; LGz. 556 | gloss withheld |
 | Judaic Aramaic | ṭlm (HALOT 1028) | HALOT 1028 |  |
 | Syrian Aramaic | ṭlm (HALOT 1028) | HALOT 1028 |  |

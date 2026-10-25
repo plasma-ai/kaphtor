@@ -1374,7 +1374,7 @@
       }
     },
     "ZA": {
-      "ab_number": "AB16",
+      "ab_number": "AB17",
       "primary": {
         "consonant": "z",
         "vowel": "a",
@@ -2415,6 +2415,7 @@
       "sign_number": "AB56"
     },
     "ZU": {
+      "ab_number": "AB79",
       "consonant": "ṯ",
       "vowel": "u",
       "reading": "ṮU",

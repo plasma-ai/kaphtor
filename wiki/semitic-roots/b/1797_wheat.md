@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1797_wheat
 title: "*barr-: 'wheat'"
-desc: "Proto-Semitic *barr-, 'wheat': reflexes in 8 language(s)."
+desc: "Proto-Semitic *barr-, 'wheat': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1797"
@@ -33,7 +33,6 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | burr- 'wheat' (BK 1, 103) | BK 1, 103 |  |
 | Soqotri | bor (LS 98) | LS 98 | gloss withheld |
 | Hebrew | bār (HALOT 153) | HALOT 153 | gloss withheld |
-| Amharic | bǝr |  | gloss withheld |
 | Epigraphic South Arabian | Sab. br (SD 31; Sabaweb lemma 2432) | SD 31; Sabaweb lemma 2432 | gloss withheld |
 | Akkadian | burru (HSED 224); (CAD B 330) | HSED 224; CAD B 330 | gloss withheld |
 | Jibbali | bohr (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
@@ -43,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Mehri barr 'maize' (JM 51; acc. to Johnstone, from Arb.).
+Mehri barr 'maize' (JM 51; acc. to Johnstone, from Arb.). Amh. bər 'stubble, stalks of wheat or barley' (AED 875) stands in 3291 \*burʕ- 'reed, reed mat' (SEDonline 1741).
 
 <!-- END kaphtor:record -->

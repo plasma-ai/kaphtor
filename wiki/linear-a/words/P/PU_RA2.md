@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PU_RA2
 title: "PU-RA₂"
-desc: "Bōl/Baʿl(?): allocation heading; possibly Baal, 'Lord'. Lexicon, CANDIDATE (tier 2)."
+desc: "Bōl/Baʿl: allocation heading; possibly Baal, 'Lord'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "entity_or_divine_name"]
 kind: "word"
 form: "PU-RA₂"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "Bōl/Baʿl(?)"
+reading: "Bōl/Baʿl"
 attestations: ["HT28b", "HT116a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Bōl/Baʿl(?) |
+| Reading | Bōl/Baʿl |
 | Meaning | allocation heading; possibly Baal, 'Lord' |
 | Root | b-ʿ-l |
 | Language layer | NWS |

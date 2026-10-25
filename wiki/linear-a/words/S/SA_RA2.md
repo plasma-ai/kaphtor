@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SA_RA2
 title: "SA-RA₂"
-desc: "šarra(?): queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading). Lexicon, CANDIDATE (tier 2)."
+desc: "šarra: queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "title / institution"]
 kind: "word"
 form: "SA-RA₂"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "šarra(?)"
+reading: "šarra"
 attestations: ["HT18", "HT28a", "HT28b", "HT30", "HT32", "HT34", "HT33", "HT90", "HT93a", "HT94a", "HT97b", "HT99a", "HT100", "HT101", "HT102", "HT105", "HT114a", "HT121", "HT125a", "HT130"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | šarra(?) |
+| Reading | šarra |
 | Meaning | queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading) |
 | Root | š-r-r |
 | Language layer | NWS |

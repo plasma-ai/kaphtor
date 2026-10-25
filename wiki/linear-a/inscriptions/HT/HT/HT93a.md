@@ -80,7 +80,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> Our builder (PA₃-NI-NA) · grain PA₃ · RE+SE 12. Households (DI-RI-NA) · DA+RE+SE 43½. Kidinni 5 J H. A-SE · I GRA+PA 26¾. SA-RA₂ 20. Qaqqaru · I GRA+PA 5. Men-I 6. Dalqu 1½. O-TI-\[…\] 3. Dardaʿ vessel 2, \*343 2. PA₃-NI-NA\[…\] \[…\]PA-SE-JA 20. Men 10 F\[…\] \[…\]KA 4.
+> Our builder (PA₃-NI-NA) · grain PA₃ · RE+SE 12. Households (DI-RI-NA) · DA+RE+SE 43½. Kidinni 5 J H. Fire offering (A-SE) · I GRA+PA 26¾. The queen's establishment 20. Qaqqaru · I GRA+PA 5. Men-I 6. Dalqu 1½. O-TI-\[…\] 3. Dardaʿ vessel 2, \*343 2. PA₃-NI-NA\[…\] \[…\]PA-SE-JA 20. Men 10 F\[…\] \[…\]KA 4.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | households/granaries (SPECULATIVE); rivals the Amorite place name Dīr, a personal name |  | SPECULATIVE (lexicon) |
 | DA+RE+SE |  | ligature (unread) |  |  |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | personal name, 'protection' (Akk. kidinnu) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/A/A_SE\|A-SE]] |  | recipient of I GRA+PA | SPECULATIVE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾaššē | fire offering | CANDIDATE | CANDIDATE (lexicon) |
 | I |  | sign before GRA+PA (unread) |  |  |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] |  | grain composite (unread) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra(?) | queen/princess or royal establishment | CANDIDATE | CANDIDATE (lexicon) |

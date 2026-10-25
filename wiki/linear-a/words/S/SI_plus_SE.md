@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_plus_SE
 title: "SI+SE"
-desc: "Šapšu(?): unidentified administrative entity or category; speculative comparison with Šapšu. Lexicon, SPECULATIVE (tier 1)."
+desc: "Šapšu: unidentified administrative entity or category; speculative comparison with Šapšu. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "entity_or_category"]
 kind: "word"
 form: "SI+SE"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Šapšu(?)"
+reading: "Šapšu"
 attestations: ["HT116a", "HT42+59"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Šapšu(?) |
+| Reading | Šapšu |
 | Meaning | unidentified administrative entity or category; speculative comparison with Šapšu |
 | Root | š-p-š |
 | Language layer | NWS |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TI_DA_TA
 title: "TI-DA-TA"
-desc: "tidata / ṯādīt-(?): sixth(?) or sixth section(?). Lexicon, CANDIDATE (tier 2)."
+desc: "tidata / ṯādīt-: sixth(?) or sixth section(?). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "vocabulary"]
 kind: "word"
 form: "TI-DA-TA"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "tidata / ṯādīt-(?)"
+reading: "tidata / ṯādīt-"
 attestations: ["HT123+124b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | tidata / ṯādīt-(?) |
+| Reading | tidata / ṯādīt- |
 | Meaning | sixth(?) or sixth section(?) |
 | Root | ṯ-d-ṯ |
 | Language layer | NWS |

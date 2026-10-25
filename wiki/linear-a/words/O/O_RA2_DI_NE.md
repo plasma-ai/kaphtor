@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r)?.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r).
 
 ## Unread
 

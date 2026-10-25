@@ -62,7 +62,7 @@ Unicode (Linear A block):
 
 **PROBABLE**, complete.
 
-> A-KA-RU—farm or estate account(?): U-oil 20\[…\], A-oil 17, E-oil 3\[…\]. \[…\] KI-RE-TA-NA—Kretana/Cretan(?): U-oil 54\[…\]. \[…\] A-oil 47. Isolated tally: 1.
+> Agaru, field or estate account: U-oil 20\[…\], A-oil 17, E-oil 3\[…\]. \[…\] Kretana, the Cretan: U-oil 54\[…\]. \[…\] A-oil 47. Isolated tally: 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | šbrt (T 313) | T 313 | gloss withheld |
 | Aramaic | TBR (CAL s.v. tbr) | CAL s.v. tbr | gloss withheld |
 | Geez | sabara 'break' | Anderson–Moser 2024 root ṯbr |  |
-| Epigraphic South Arabian | Sab ṯbr (SD 149; Biella 539, 540) | SD 149; Biella 539, 540 | gloss withheld |
+| Epigraphic South Arabian | Sab ṯbr (SD 149; Biella 539, 540; Sabaweb lemma 1627) | SD 149; Biella 539, 540; Sabaweb lemma 1627 | gloss withheld |
 | Soqotri | tiber (LGz. 485) | LGz. 485 | gloss withheld |
 | Syrian Aramaic | təḇar (LGz. 485; Payne Smith 604) | LGz. 485; Payne Smith 604 |  |
 | Gurage | säbärä (LGz. 485) | LGz. 485 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_TI_JU
 title: "QA-TI-JU"
-desc: "Qātilu?: personal name, recipient of 8 (q-ṭ-l). Lexicon, SPECULATIVE (tier 1)."
+desc: "Qātilu: personal name, recipient of 8 (q-ṭ-l). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personnel"]
 kind: "word"
 form: "QA-TI-JU"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Qātilu?"
+reading: "Qātilu"
 attestations: ["ZA14"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Qātilu? |
+| Reading | Qātilu |
 | Meaning | personal name, recipient of 8 (q-ṭ-l) |
 | Root | q-ṭ-l |
 | Language layer | NWS |

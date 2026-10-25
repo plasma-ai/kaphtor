@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕam 'people, nation; Gentiles; crowd' (Payne Smith 416) | Payne Smith 416 |  |
 | Punic | ʿm 'people' | Anderson–Moser 2024 root ʿm |  |
 | Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53) | Al-Jallad–Jaworska 53 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿmm (Biella 372) | Biella 372 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿmm (Biella 372; Sabaweb lemma 3737) | Biella 372; Sabaweb lemma 3737 | gloss withheld |
 | Aramaic | ʿm (T 249) | T 249 |  |
 | Judaic Aramaic | ʿamaʾ (T 249) | T 249 |  |
 

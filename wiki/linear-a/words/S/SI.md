@@ -167,7 +167,7 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | unresolved |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | šay | tribute, gift (×3 — sub-quantities: 5½, 1, 3) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb4\|KNZb4]] | šay | tribute (abbreviation) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | šay | tribute, gift (×3 — sub-quantities: 5½, 1, 3) | PROBABLE |
+| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb4\|KNZb4]] | šay | tribute (abbreviation) | PROBABLE |
 
 <!-- END kaphtor:record -->

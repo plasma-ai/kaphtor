@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab hyʿ (Biella 109) | Biella 109 | gloss withheld |
+| Epigraphic South Arabian | Sab hyʿ (Biella 109); (Sabaweb lemma 7912) | Biella 109; Sabaweb lemma 7912 | gloss withheld |
 | Arabic | Ar hāʿa (y) (BiKa/1467-8; Biella 109). | Biella 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

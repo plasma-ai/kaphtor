@@ -49,7 +49,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |
 | [[wiki/linear-a/words/P/PU_DE\|PU-DE]] | pudē | CANDIDATE |
-| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl/Baʿl(?) | CANDIDATE |
+| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl/Baʿl | CANDIDATE |
+| [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_SU_PU\|QE-SU-PU]] | qaššāpu | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_PU\|SU-PU]] | sapu | CONFIRMED |
 

@@ -50,6 +50,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | PROBABLE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Dimenu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] | dawmi | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_NI_MI\|DU-NI-MI]] | ʾadunim / ʾadunīm | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | Ida-mī | CANDIDATE |
@@ -70,11 +71,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_TA\|MI-TA]] | mitta | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_TU\|MI-TU]] | mītu | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
-| [[wiki/linear-a/words/O/OLE_plus_MI\|OLE+MI]] | mišḥā? | CANDIDATE |
+| [[wiki/linear-a/words/O/OLE_plus_MI\|OLE+MI]] | mišḥā | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | \[…\]-pi-minate | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_MI_SI\|RI-MI-SI]] | Rimši | CANDIDATE |
-| [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir(?) | SPECULATIVE |
+| [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | ṣidqī-kummī | CANDIDATE |
 | [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tamir | CANDIDATE |

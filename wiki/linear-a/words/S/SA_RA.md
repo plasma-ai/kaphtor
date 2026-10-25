@@ -80,6 +80,6 @@ SAM Wa 1, JA-SA SA-RA TE 10 ¹⁄₁₆, whose edition is untraced; it may be JA
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/T/TE|TE]] terûmā(?).
+Readings from the lexicon as it stands: [[wiki/linear-a/words/T/TE|TE]] terûmā.
 
 <!-- END kaphtor:record -->

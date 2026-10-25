@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/2819_interpret
 title: "*pVšVr-: 'interpret'"
-desc: "Proto-Semitic *pVšVr-, 'interpret': reflexes in 7 language(s)."
+desc: "Proto-Semitic *pVšVr-, 'interpret': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2819"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | pišrā (HALOT 982; DJBA 907a apud CAL) | HALOT 982; DJBA 907a; CAL |  |
 | Syrian Aramaic | pəšārā (HALOT 982; Payne Smith 469) | HALOT 982; Payne Smith 469 |  |
 | Mandaic Aramaic | pišra (HALOT 982) | HALOT 982 | gloss withheld |
+| Biblical Aramaic | pšr (HALOT 1960 apud SEDonline 1827) | HALOT 1960; SEDonline 1827 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

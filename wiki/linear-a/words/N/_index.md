@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-25T05:42:37Z
 ---
 
 # wiki/linear-a/words/N
@@ -13,11 +13,11 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/N/NA_A_PA3|NA_A_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_DA_RE|NA_DA_RE]]: nadr: vow / votive (or Egyptian PN: of-the-hand-of-Re). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/N/NA_DA_RE|NA_DA_RE]]: Nadr: personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/N/NA_KI_broken_start|NA_KI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_SI|NA_SI]]: nasīʾ?: damaged final sequence; possible nasīʾ 'chief, prince'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NA_SI|NA_SI]]: nasīʾ: damaged final sequence; possible nasīʾ 'chief, prince'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_TI|NA_TI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -45,7 +45,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/N/NI_MI|NI_MI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NI_NU_NI|NI_NU_NI]]: nīnūn (?): offspring, descendants, posterity. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NI_NU_NI|NI_NU_NI]]: nīnūn: offspring, descendants, posterity. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NI_PI|NI_PI]]: Unread (role only): personal name; 1 occurrence(s).
 

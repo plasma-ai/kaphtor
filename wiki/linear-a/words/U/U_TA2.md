@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/U/U_TA2
 title: "U-TA₂"
-desc: "Uta/Uda?: possible entity or place name heading the NI (fig) entry on HT103. Lexicon, CANDIDATE (tier 2)."
+desc: "Uta/Uda: possible entity or place name heading the NI (fig) entry on HT103. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_or_place_name"]
 kind: "word"
 form: "U-TA₂"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.35
-reading: "Uta/Uda?"
+reading: "Uta/Uda"
 attestations: ["HT103"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Uta/Uda? |
+| Reading | Uta/Uda |
 | Meaning | possible entity or place name heading the NI (fig) entry on HT103 |
 | Language layer | unresolved |
 | Category | personal_or_place_name |

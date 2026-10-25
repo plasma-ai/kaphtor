@@ -3,7 +3,7 @@ name: wiki/semitic-roots
 title: Semitic roots
 desc: One generated page per root, filed by first radical.
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-25T05:11:48Z
 ---
 
 # Semitic roots
@@ -15,6 +15,8 @@ updated: 2026-10-22T17:38:31Z
 [[wiki/semitic-roots/c̣/_index|c̣/]]: Semitic roots whose first radical is c̣.
 
 [[wiki/semitic-roots/d/_index|d/]]: Semitic roots whose first radical is d.
+
+[[wiki/semitic-roots/f/_index|f/]]: Semitic roots whose first radical is f.
 
 [[wiki/semitic-roots/g/_index|g/]]: Semitic roots whose first radical is g.
 

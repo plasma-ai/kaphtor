@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḥ
 desc: "Semitic roots whose first radical is ḥ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-24T15:26:16Z
+updated: 2026-10-25T06:28:07Z
 ---
 
 # wiki/semitic-roots/ḥ
@@ -43,7 +43,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ḥ/1203_defend|1203_defend]]: Proto-Semitic *ḥimay-, 'defend': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ḥ/1306_father_in_law|1306_father_in_law]]: Proto-Semitic *ḥam(m)-, 'father-in-law': reflexes in 17 language(s).
+[[wiki/semitic-roots/ḥ/1306_father_in_law_1_mother_in_law_2|1306_father_in_law_1_mother_in_law_2]]: Proto-Semitic *ḥam(m)-, 'father-in-law' 1, 'mother-in-law' 2: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/ḥ/1327_rub_1_stroke_2|1327_rub_1_stroke_2]]: Proto-Semitic *ḥVš-, 'rub' 1, 'stroke' 2: reflexes in 8 language(s).
 
@@ -213,7 +213,7 @@ updated: 2026-10-24T15:26:16Z
 
 [[wiki/semitic-roots/ḥ/2754_to_ripen_embalm_preserve|2754_to_ripen_embalm_preserve]]: Proto-Semitic *ḥVnVṭ-, 'to ripen; embalm (preserve)': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ḥ/2760_to_live_be_alive_life|2760_to_live_be_alive_life]]: Proto-Semitic *ḥayy-, 'to live, be alive; life': reflexes in 21 language(s).
+[[wiki/semitic-roots/ḥ/2760_to_live_be_alive_life|2760_to_live_be_alive_life]]: Proto-Semitic *ḥayy-, 'to live, be alive; life': reflexes in 22 language(s).
 
 [[wiki/semitic-roots/ḥ/2761_to_be_wise_wisdom|2761_to_be_wise_wisdom]]: Proto-Semitic *ḥVkVm-, 'to be wise, wisdom': reflexes in 11 language(s).
 
@@ -258,6 +258,32 @@ updated: 2026-10-24T15:26:16Z
 [[wiki/semitic-roots/ḥ/3223_to_be_mature_fat_vigorous|3223_to_be_mature_fat_vigorous]]: Proto-Semitic *ḥlm, 'to be mature, fat, vigorous': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḥ/3230_to_walk_barefoot|3230_to_walk_barefoot]]: Proto-Semitic *ḥp, 'to walk barefoot': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3257_strength_power_might|3257_strength_power_might]]: Proto-Semitic *ḥayl-, 'strength, power, might': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ḥ/3280_to_be_lucky_happy_luck_fortune|3280_to_be_lucky_happy_luck_fortune]]: Proto-Semitic *ḥṯ̣ṯ̣, 'to be lucky, happy; luck, fortune': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḥ/3330_fortress|3330_fortress]]: Proto-Semitic *ḥṣn, 'fortress': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḥ/3335_sin_guilt|3335_sin_guilt]]: Proto-Semitic *ḥwb, 'sin, guilt': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3361_to_be_cold|3361_to_be_cold]]: Proto-Semitic *ḥbr, 'to be cold': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3362_eyebrow|3362_eyebrow]]: Proto-Semitic *ḥāgVl-, 'eyebrow': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3363_smoke_soot|3363_smoke_soot]]: Proto-Semitic *ḥilaḳ-, 'smoke, soot': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3364_earth_soil|3364_earth_soil]]: Proto-Semitic *ḥašy-, 'earth, soil': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḥ/3410_pen|3410_pen]]: Proto-Semitic *ḥurr-, 'pen': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3432_to_put_down_to_descend_be_low|3432_to_put_down_to_descend_be_low]]: Proto-Semitic *ḥṭṭ, 'to put down; to descend, be low': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3478_to_tie_to_snare|3478_to_tie_to_snare]]: Proto-Semitic *ḥbl, 'to tie; to snare': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3495_to_go_around_around|3495_to_go_around_around]]: Proto-Semitic *ḥwl, 'to go around; around': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ḥ/3538_supplication_plea_for_mercy|3538_supplication_plea_for_mercy]]: Proto-Semitic *ḥnn, 'supplication, plea for mercy': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḥ/385_sabre|385_sabre]]: Proto-Semitic *ḥušām-, 'sabre': reflexes in 1 language(s).
 
