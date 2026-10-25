@@ -9,11 +9,15 @@ updated: 2026-10-22T19:27:15Z
 
 # kaphtor
 
-[[assets/_index|assets/]]: Noto Sans fonts for the Aegean scripts.
+[[assets/_index|assets/]]: Noto Sans fonts for the Aegean scripts, and the README banner.
+
+[[codemeta.json|codemeta.json]]: The software's CodeMeta record, for research-software indexes.
 
 [[data/_index|data/]]: The datasets, each with a datasheet or manifest naming its licence, grouped by licence and subject.
 
 [[docs/_index|docs/]]: The repository's rules and methods, and the guides to its corpora.
+
+[[llms.txt|llms.txt]]: A map of the repository for language-model readers.
 
 [[wiki/_index|wiki/]]: The record, generated from the data: Linear A, the Semitic roots and the Aegean scripts.
 

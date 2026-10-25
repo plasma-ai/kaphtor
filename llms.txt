@@ -1,0 +1,32 @@
+# kaphtor
+
+> An open record of Linear A, and a toolkit for comparative Semitics. A reconciled record of the Linear A inscriptions, proposed readings for their words and signs with their evidence and confidence tiers, tools for testing those readings against the corpus, a database of Semitic roots, and query tools for the corpora of the ancient Near East. Code is Apache-2.0; original data and writing are CC BY 4.0; third-party material keeps its own terms.
+
+The readings follow a Semitic decipherment of Linear A. Each carries a tier (CONFIRMED, PROBABLE, CANDIDATE, SPECULATIVE) that describes support under the project's tests, not scholarly consensus. The datasets and tools work independently of the decipherment.
+
+## Start
+
+- [README](https://github.com/plasma-ai/kaphtor/blob/main/README.md): what the repository holds and how to use it
+- [Anatomy of the corpus](https://github.com/plasma-ai/kaphtor/blob/main/docs/anatomy.md): how the record is organized
+- [Confidence](https://github.com/plasma-ai/kaphtor/blob/main/docs/confidence.md): the tests behind each tier
+- [Opening Linear A](https://www.plasma.ai/research/linear-a): the case for the readings
+
+## The record
+
+- [Inscriptions](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/inscriptions/_index.md): one page per corpus record, with transliteration, translation and linked words
+- [Words](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/words/_index.md): one page per form, joining the lexicon, the onomasticon and the unread words
+- [Signs](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/signs/_index.md): each sign with its value and evidence
+- [Counts](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/counts.md): headline counts computed from the data
+- [Semitic roots](https://github.com/plasma-ai/kaphtor/blob/main/wiki/semitic-roots/_index.md): one page per root, with reflexes and sources
+
+## Data and tools
+
+- [Data](https://github.com/plasma-ai/kaphtor/blob/main/data/_index.md): the datasets, each with a datasheet naming its licence
+- [Tools](https://github.com/plasma-ai/kaphtor/blob/main/tools/README.md): the Python package behind the `kaphtor` command
+- [Skills](https://github.com/plasma-ai/kaphtor/blob/main/skills/README.md): agent skills for Linear A and ancient Near East research
+
+## Optional
+
+- [Ya Diktu](https://doi.org/10.5281/zenodo.23584794): the grammar of the peak sanctuary libation formula
+- [Contributing](https://github.com/plasma-ai/kaphtor/blob/main/CONTRIBUTING.md): readings, rival analyses, falsifications and corrections
+- [Citation](https://github.com/plasma-ai/kaphtor/blob/main/CITATION.cff)

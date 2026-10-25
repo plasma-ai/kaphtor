@@ -1,6 +1,23 @@
-# kaphtor
+<h1 align="center">
+  <img src="assets/banner.png" width="100%"
+       alt="kaphtor: an open record of Linear A, and a toolkit for comparative Semitics. Four Linear A tablets glow on a black ground beside the libation formula in Linear A script.">
+</h1>
 
-An open record of Linear A, and a toolkit for comparative Semitics.
+<p align="center">
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 436" src="https://img.shields.io/badge/translations-436-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 532 entries" src="https://img.shields.io/badge/lexicon-532%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 340" src="https://img.shields.io/badge/names-340-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,177" src="https://img.shields.io/badge/Semitic%20roots-4,177-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 38" src="https://img.shields.io/badge/sign%20values-38-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <br>
+  <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
+  <a href="LICENSE"><img alt="code: Apache-2.0" src="https://img.shields.io/badge/code-Apache--2.0-3a3229?style=flat-square&labelColor=0b0a08"></a>
+  <a href="LICENSE-CC-BY-4.0"><img alt="data: CC BY 4.0" src="https://img.shields.io/badge/data-CC%20BY%204.0-3a3229?style=flat-square&labelColor=0b0a08"></a>
+</p>
+
+**An open record of Linear A, and a toolkit for comparative Semitics.** The name is Caphtor (כַּפְתּוֹר), the Hebrew
+Bible's name for Crete.
 
 kaphtor holds a reconciled record of the Linear A inscriptions, proposed readings for their words and signs, and tools
 for testing those readings against the corpus. Beside it sit a database of Semitic roots and query tools for the
@@ -11,35 +28,53 @@ The datasets and tools work independently of the proposed decipherment.
 
 The case for the readings is set out in [Opening Linear A](https://plasma.ai/research/linear-a) and in
 [*Ya Diktu*](https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf), the grammar of the peak
-sanctuary libation formula. The name is Caphtor (כַּפְתּוֹר), the Hebrew Bible's name for Crete.
+sanctuary libation formula.
+
+> I opened this record so that anyone can test the decipherment, inscription by inscription and root by root. Every
+> reading stands beside its evidence, its tier and its rivals. Break one, and the falsification goes on the record.
+>
+> —Tom di Mino
+
+## Start here: the libation formula
+
+The fullest copy of the peak sanctuary prayer runs in two lines around the four faces of a stone libation table from
+Mount Iouktas, IO Za 2. Brackets mark the signs GORILA restores from the parallel copies.
+
+> A-TA-I-\*301-WA-JA · JA-DI-KI-TU · JA-SA-SA-RA-\[ME\] · \[U-NA-KA-NA\]-SI · I-PI-NA-MA · SI-RU-TE ·
+> TA-NA-RA-TE-U-TI-NU · I-DA-\[?\]
+>
+> *I make myself a dwelling—O Diqqitu!—in righteousness. So, behold my gathering in the presence of sacred song. May
+> you be favorable toward us.*
+
+[Read it word by word](wiki/linear-a/inscriptions/IO/IOZa/IOZa2.md): each word links to its reading, its tier and
+every inscription where it recurs.
 
 ## Getting started
 
-- **Look up an inscription:** in [wiki/linear-a/inscriptions/](wiki/linear-a/inscriptions/_index.md), filed by site
-  and GORILA series. For example, the Iouktas libation table is IO Za 2 (`IO/IOZa/IOZa2.md`).
-- **Look up a word:** in [wiki/linear-a/words/](wiki/linear-a/words/_index.md), filed by its first sign. For example,
-  KU-RO, "total" (`K/KU_RO.md`). The forms that open with an unvalued sign are under `star/`.
-- **Look up a Semitic root:** in [wiki/semitic-roots/](wiki/semitic-roots/_index.md), filed by first radical.
+- **Read an inscription:** [IO Za 2](wiki/linear-a/inscriptions/IO/IOZa/IOZa2.md), or browse
+  [all inscriptions](wiki/linear-a/inscriptions/_index.md) by site and GORILA series.
+- **Look up a word:** [KU-RO, "total"](wiki/linear-a/words/K/KU_RO.md), or browse [all words](wiki/linear-a/words/_index.md)
+  by first sign. The forms that open with an unvalued sign are under `star/`.
+- **Look up a Semitic root:** [\*kanVs- "to gather, assemble"](wiki/semitic-roots/k/2763_to_gather_assemble.md), or
+  browse [all roots](wiki/semitic-roots/_index.md) by first radical.
 - **Learn how the corpus is organized:** [docs/anatomy.md](docs/anatomy.md).
 - **Run a query:** [Run your first query](#run-your-first-query).
 - **Contribute a reading, a rival analysis, a source or a correction:** [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Reading the record
+## What's inside
 
-- [Inscriptions](wiki/linear-a/inscriptions/_index.md): one page per corpus record, with its transliteration, its
-  Unicode text, its translation and a table linking each word.
-- [Words](wiki/linear-a/words/_index.md): one page per form, joining the lexicon, the onomasticon and the unread
-  words, with every inscription where the form appears.
-- [Signs](wiki/linear-a/signs/_index.md): the syllabic signs, logograms and fractions, each with its value and the
-  evidence for it.
-- Reading status (`wiki/linear-a/standing.md`): every reading with its tier and score.
-- [Semitic roots](wiki/semitic-roots/_index.md): one page per root, with its reconstruction and its reflexes across the
-  Semitic languages, each with its sources.
-- [Eteocretan](wiki/aegean/_index.md): the Eteocretan inscriptions and the analysis of their words.
-- [Data](data/_index.md): the datasets the pages are built from, each with a datasheet or manifest naming its licence.
-- [Corpus guides](docs/corpora/_index.md): what each ancient Near East corpus holds, its licence and its gaps, and
-  how to query it.
-- [Repository guidance](docs/_index.md): how to read, contribute to and verify the record.
+| Part | What it holds | Browse |
+|---|---|---|
+| Inscriptions | One page per corpus record, with its transliteration, its Unicode text, its translation and a table linking each word | [inscriptions](wiki/linear-a/inscriptions/_index.md) |
+| Words | One page per form, joining the lexicon, the onomasticon and the unread words, with every inscription where the form appears | [words](wiki/linear-a/words/_index.md) |
+| Signs | The syllabic signs, logograms and fractions, each with its value and the evidence for it | [signs](wiki/linear-a/signs/_index.md) |
+| Reading status | Every reading with its tier and score | `wiki/linear-a/standing.md` |
+| Semitic roots | One page per root, with its reconstruction and its reflexes across the Semitic languages, each with its sources | [roots](wiki/semitic-roots/_index.md) |
+| Eteocretan | The Eteocretan inscriptions and the analysis of their words | [Eteocretan](wiki/aegean/_index.md) |
+| Corpus guides | What each ancient Near East corpus holds, its licence and its gaps, and how to query it | [guides](docs/corpora/_index.md) |
+
+The pages are built from the [data](data/_index.md), where each dataset has a datasheet or manifest naming its
+licence. [Repository guidance](docs/_index.md) covers how to read, contribute to and verify the record.
 
 ## Run your first query
 
@@ -80,8 +115,9 @@ Every proposed reading carries a confidence tier, and moves up a tier only by pa
 
 No reading skips a tier. A rejected reading leaves the record for the archive, with the reason it was rejected.
 
-These tiers describe support under this project's evaluation criteria. They do not imply scholarly consensus on the
-decipherment.
+> [!NOTE]
+> These tiers describe support under this project's evaluation criteria. They do not imply scholarly consensus on the
+> decipherment.
 
 A sign value counts as resolved only on support that does not depend on a Semitic match: a Linear B value, a scribe's
 arithmetic, or a spelling variant of the same word. Every other value is listed as proposed, with its evidence where
@@ -126,6 +162,9 @@ $linear-a-decipherment Read IO Za 2 and list the rival readings of each word.
 
 ## Development
 
+<details>
+<summary>Set up the environment, run the gate, and find your way around the repository.</summary>
+
 The tooling requires [uv](https://docs.astral.sh/uv/) and Python 3.11 or later. All PDFs, every `.jsonl` data file
 and the JSON data files over 1 MB are stored with Git LFS (the rules are in `.gitattributes`): in a clone made
 before Git LFS was installed, run `git lfs install`, then `git lfs pull`.
@@ -162,7 +201,7 @@ the data from another folder.
   - `ane/`: open-licence ancient Near East datasets, such as the ORACC Akkadian literary glossary and PNM v6
   - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts and Trismegistos Geo, kept apart
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
-- `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1)
+- `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1) and the README banner
 - `tools/`: the Python package (`import tools`) behind the `kaphtor` command, described in
   [tools/README.md](tools/README.md)
   - `core/`: skeletons, morphology, phonetics, null models and the Shoresh root matcher
@@ -171,6 +210,8 @@ the data from another folder.
   - `views/`: the builder that writes `wiki/` from `data/`
 - `skills/`: two agent skills, Linear A research and ancient Near East research, whose commands call `kaphtor`
 - `tests/`: the tests for the tools, the data and the generated views
+
+</details>
 
 ## Contributing
 

@@ -5,9 +5,44 @@ type: software
 authors:
   - family-names: "di Mino"
     given-names: "Tom"
+abstract: >-
+  An open record of Linear A, and a toolkit for comparative Semitics: a reconciled record of the Linear A
+  inscriptions, proposed readings for their words and signs with their evidence and confidence tiers, tools for
+  testing those readings against the corpus, a database of Semitic roots, and query tools for the corpora of the
+  ancient Near East.
+keywords:
+  - Linear A
+  - Minoan
+  - Aegean scripts
+  - decipherment
+  - Semitic languages
+  - comparative Semitics
+  - ancient Near East
+  - epigraphy
+  - Crete
 repository-code: "https://github.com/plasma-ai/kaphtor"
+url: "https://www.plasma.ai/research/linear-a"
+date-released: "2026-10-22"
 license:
   - Apache-2.0
   - CC-BY-4.0
   - CC-BY-SA-4.0
   - CC-BY-NC-SA-4.0
+references:
+  - type: article
+    title: "Ya Diktu: Grammar of the Minoan Peak Sanctuary Libation Formula"
+    authors:
+      - family-names: "di Mino"
+        given-names: "Tom"
+    year: 2026
+    doi: "10.5281/zenodo.23584794"
+    url: "https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf"
+  - type: blog
+    title: "Opening Linear A"
+    authors:
+      - family-names: "di Mino"
+        given-names: "Tom"
+    publisher:
+      name: "Plasma AI"
+    date-published: "2026-10-22"
+    url: "https://www.plasma.ai/research/linear-a"

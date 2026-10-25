@@ -15,7 +15,7 @@ dependencies = []
 # httpx: the SigLA drawing mirror (tools/linear_a/fetch_sigla_drawings.py).
 fetch = ["certifi", "httpx>=0.27,<1"]
 # Pillow: the sign charts (tools/linear_a/render_sign_chart.py).
-render = ["pillow>=11,<13"]
+render = ["pillow>=13,<14"]
 # lq's SQL views over the Linear A data (tools/linear_a/lq.py).
 sql = ["duckdb>=1.5,<3"]
 
