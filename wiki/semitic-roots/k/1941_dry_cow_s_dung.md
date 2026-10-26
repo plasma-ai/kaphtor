@@ -36,9 +36,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | kǝbo(tät), kǝbe \[LH 409\] | LH 409 | gloss withheld |
 | East Ethiopic | WOL kǝbot, SEL kǝbōt, ZWY hubut \[LGur 335\] | LGur 335 | gloss withheld |
 | Geez | kǝbo \[LGz 272\] | LGz 272 | gloss withheld |
-| Gurage | GOG kubäta, SOD kǝbota, MSQ xubäta, MUH xubäta, xuwäta, CHA EŽA GYE xǝwäta, ENN xǝwäda, END hǝwäd do. \[LGur 335\] | LGur 335 |  |
+| Gurage | GOG kubäta, SOD kǝbota, MSQ xubäta, MUH xubäta, xuwäta, CHA EŽA GYE xǝwäta, ENN xǝwäda, END hǝwäd \[LGur 335\] | LGur 335 |  |
 | Modern Arabic | DAṮ kabū 'dry dung' \[GD 2554\] | GD 2554 |  |
-| Jibbali | kɔ̄ \[JJ 138\], ekbé \[ibid.\] | JJ 138; ibid. | gloss withheld |
+| Jibbali | kɔ̄ \[JJ 138\], ekbé \[ibid.\] | JJ 138 | gloss withheld |
 | Amharic | kubät, kʷǝbät, kǝbot \[K 1421\] | K 1421 | gloss withheld |
 | Judaic Aramaic | \*kǝbūyā (in pl. constr. kǝbūyē) 'heap, excrement' \[Ja 607\] | Ja 607 |  |
 | Syrian Aramaic | kǝbūtā 'dung' \[Brock 315\] | Brock 315 |  |

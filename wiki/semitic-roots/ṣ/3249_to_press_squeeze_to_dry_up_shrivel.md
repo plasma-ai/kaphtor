@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ṣmḳ (HALOT 1034 apud SEDonline 287) | HALOT 1034; SEDonline 287 | gloss withheld |
-| Judaic Aramaic | JPA ṣmḳ (DJPA 466 apud SEDonline 287); JBA ṣmḳ (DJBA 967 apud SEDonline 287) | DJPA 466; SEDonline 287; DJBA 967; SEDonline 287 | gloss withheld |
+| Judaic Aramaic | JPA ṣmḳ (DJPA 466 apud SEDonline 287); JBA ṣmḳ (DJBA 967 apud SEDonline 287) | DJPA 466; SEDonline 287; DJBA 967 | gloss withheld |
 | Mandaic Aramaic | ṣamḳa (MD 387 apud SEDonline 287) | MD 387; SEDonline 287 | gloss withheld |
 | Tigre | č̣ämḳä (WTS 623 apud SEDonline 287) | WTS 623; SEDonline 287 | gloss withheld |
 | Tigrinya | ṣämäḳʷä (TED 2556 apud SEDonline 287) | TED 2556; SEDonline 287 | gloss withheld |

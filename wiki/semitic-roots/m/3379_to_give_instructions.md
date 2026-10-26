@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*mrṯ̣ |
 | Meaning | 'to give instructions' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1471 |
 
 ## Reflexes
 

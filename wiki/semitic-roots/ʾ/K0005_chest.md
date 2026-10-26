@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0005_chest
 title: "*ʾarān-: 'chest'"
-desc: "Proto-Semitic *ʾarān-, 'chest': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʾarān-, 'chest': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0005"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | arānu 'chest' | Anderson–Moser 2024 root arān |  |
 | Hebrew | ʾarown 'chest' | Anderson–Moser 2024 root arān |  |
+| Punic | ʾrn 'box' | Anderson–Moser 2024 root arān |  |
 | Ugaritic | arn 'chest' | Anderson–Moser 2024 root arān |  |
 | Syrian Aramaic | ʔārūn 'the ark; chest, strong-box' (Payne Smith 28) | Payne Smith 28 |  |
 

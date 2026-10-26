@@ -41,11 +41,11 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | binat-, binia (LGz. 116) | LGz. 116 | gloss withheld |
 | Tigre | bäyən (adj.), ʾəb bäyn (LGz. 116) | LGz. 116 | gloss withheld |
 | Phoenician | bn (T 49) | T 49 | gloss withheld |
-| Amorite | bēn(ay)-(?) (George and Krebernik 2022, 156) | Krebernik 2022 | gloss withheld |
-| Eblaitic | ba-na (Kogan 2015, ch. 2 §4.2 no. 13; VE 817; Krebernik 1983, 32) | Kogan 2015, ch. 2 §4.2 no. 13; VE 817; Krebernik 1983, 32 |  |
-| Jibbali | mən mun (Kogan 2015, ch. 2 §4.2 no. 13) | Kogan 2015, ch. 2 §4.2 no. 13 | gloss withheld |
-| Mehri | əm-mɛn (Kogan 2015, ch. 2 §4.2 no. 13) | Kogan 2015, ch. 2 §4.2 no. 13 | gloss withheld |
-| Soqotri | bin (Kogan 2015, ch. 2 §4.2 no. 13) | Kogan 2015, ch. 2 §4.2 no. 13 | gloss withheld |
+| Amorite | bēn(ay)-(?) (George and Krebernik 2022, 156) | George and Krebernik 2022 156 | gloss withheld |
+| Eblaitic | ba-na (Kogan 2015, ch. 2 §4.2 no. 13; VE 817; Krebernik 1983, 32) | Kogan 2015 ch. 2 §4.2 no. 13; VE 817; Krebernik 1983, 32 |  |
+| Jibbali | mən mun (Kogan 2015, ch. 2 §4.2 no. 13) | Kogan 2015 ch. 2 §4.2 no. 13 | gloss withheld |
+| Mehri | əm-mɛn (Kogan 2015, ch. 2 §4.2 no. 13) | Kogan 2015 ch. 2 §4.2 no. 13 | gloss withheld |
+| Soqotri | bin (Kogan 2015, ch. 2 §4.2 no. 13) | Kogan 2015 ch. 2 §4.2 no. 13 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic bn (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
 | Harsusi | bēn (HL 22 apud SEDonline 1253) | HL 22; SEDonline 1253 | gloss withheld |
 | Judaic Aramaic | bain (T 49) | T 49 |  |

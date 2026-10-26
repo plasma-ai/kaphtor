@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nataḍa 'peeled' | Anderson–Moser 2024 root ntḍ |  |
-| Aramaic | NTQ (DNWSI 771 apud CAL) | DNWSI 771; CAL | gloss withheld |
+| Aramaic | NTQ (DNWSI 771 apud CAL) | DNWSI 771; CAL; Anderson–Moser 2024 root ntḍ | gloss withheld |
 | Hebrew | nataṣ 'pull' | Anderson–Moser 2024 root ntḍ |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

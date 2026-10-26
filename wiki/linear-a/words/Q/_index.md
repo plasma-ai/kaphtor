@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:37Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/Q
@@ -13,7 +13,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/Q/QA_KI_TI|QA_KI_TI]]: qaqqiti: the top, head (?). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QA_KU_RE|QA_KU_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/Q/QA_KU_RE|QA_KU_RE]]: kakkarē: rounds of (a commodity); talent. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QA_NE|QA_NE]]: qanē: reed, cane; or lapis lazuli (precious stone). Lexicon, CANDIDATE (tier 2).
 
@@ -57,7 +57,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/Q/QE_KA|QE_KA]]: Unread (role only): administrative roster label; 2 occurrence(s).
 
-[[wiki/linear-a/words/Q/QE_KU_RE|QE_KU_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/Q/QE_KU_RE|QE_KU_RE]]: kikkᵊrē: rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_PI_TA|QE_PI_TA]]: qepīta: box, chest, basket (container or unit). Lexicon, SPECULATIVE (tier 1).
 

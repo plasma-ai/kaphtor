@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Distinct from 1535 \*ɣVwVr- 'raid, attack'. Biella 392 compares Arabic ġāra.
+Distinct from 1535 \*ɣVwVr- 'raid, attack'. Biella 392 compares Arabic ġāra. Not 3684 \*myr (Arabic mīrat, Syriac 'to import grain'), another root with the same sense.
 
 <!-- END kaphtor:record -->

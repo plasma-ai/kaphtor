@@ -42,4 +42,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Sel. bahər 'sea', Cha. Ezha Muh. bäxar, bar, End. Enn. Gye. bäxar, bār, Msq. bahər 'abroad', Sod. bahər, bar 'sea' (EDG 135), apud SEDonline 532, an areal \*baḥr- 'sea'; there the relation of Akk. berâtu 'swamps, lagoons' (CAD B 206) and Ebl. bù-la-tum 'sea' (VE 1343’) to \*baḥr- is uncertain. Krebernik 1983, 43 normalizes bù-la-tum /buʾratum/ and compares Akk. būrtum 'well' (1786). Geez bəḥer 'region, province, country, land' (LGz. 91), which Nöldeke takes for a diminutive of bāḥr (apud LGz. 91), and Arabic baḥrat 'a wide tract of land; a land, country, or territory belonging to a people' (Lane 157) are other formations.
+
 <!-- END kaphtor:record -->

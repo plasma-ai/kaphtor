@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Hebrew | šāwˀ/šāw (HALOT 1425 apud SEDonline 1355) | HALOT 1425; SEDonline 1355 | gloss withheld |
 | Arabic | swˀ (Lane 1457 apud SEDonline 1355) | Lane 1457; SEDonline 1355 | gloss withheld |
-| Epigraphic South Arabian | Sab. s₁wˀ (SD 129 apud SEDonline 1355); Min. s₁wˀ (LM 84 apud SEDonline 1355) | SD 129; SEDonline 1355; LM 84; SEDonline 1355 | gloss withheld |
+| Epigraphic South Arabian | Sab. s₁wˀ (SD 129 apud SEDonline 1355); Min. s₁wˀ (LM 84 apud SEDonline 1355) | SD 129; SEDonline 1355; LM 84 | gloss withheld |
 | Geez | sayəˀ (LLA 394, CDG 521 apud SEDonline 1355) | LLA 394, CDG 521; SEDonline 1355 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

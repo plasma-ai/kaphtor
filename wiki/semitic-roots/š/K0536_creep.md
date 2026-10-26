@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠRṢ (CAL s.v. šrṣ) | CAL s.v. šrṣ | gloss withheld |
-| Hebrew | šaraṣ 'teem' (BDB 1056) | BDB 1056 |  |
+| Aramaic | ŠRṢ (CAL s.v. šrṣ) | CAL s.v. šrṣ; Anderson–Moser 2024 root šrṣ | gloss withheld |
+| Hebrew | šaraṣ 'teem' (BDB 1056) | BDB 1056; Anderson–Moser 2024 root šrṣ |  |
 | Akkadian | šarāṣu (HALOT 1655) | HALOT 1655 |  |
 | Syrian Aramaic | šᵉraṣ (HALOT 1655; Payne Smith 599) | HALOT 1655; Payne Smith 599 |  |
 | Geez | šaraṣa (HALOT 1655) | HALOT 1655 |  |

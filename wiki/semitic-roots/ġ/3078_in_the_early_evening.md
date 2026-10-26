@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ɣasr-Vn- |
 | Meaning | 'in the early evening' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 463 |
 
 ## Reflexes
 

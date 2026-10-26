@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/3374_to_bleat
 title: "*lhy: 'to bleat'"
-desc: "Proto-Semitic *lhy, 'to bleat': reflexes in 2 language(s)."
+desc: "Proto-Semitic *lhy, 'to bleat': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3374"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*lhy |
 | Meaning | 'to bleat' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1464 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ləhū (ML 253 apud SEDonline 1464) | ML 253; SEDonline 1464 | gloss withheld |
 | Jibbali | ləhé (JL 162 apud SEDonline 1464) | JL 162; SEDonline 1464 | gloss withheld |
+| Soqotri | ḷɛ́hɛ (Kogan 2015, ch. 8 §3.4.1 no. 67) | Kogan 2015 ch. 8 §3.4.1 no. 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

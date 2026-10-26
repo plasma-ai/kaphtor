@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ptn |
 | Meaning | 'to test, try' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1955 |
 
 ## Reflexes
 

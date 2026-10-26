@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳird- 'monkey, especially male monkey' \[BK 2 709\], \[LA 1956 14 350\], ḳird-at- 'female monkey' \[ibid.\]. Cf. ḳardaḥ-, ḳurduḥ- 'large monkey' \[BK 2 710\], \[LA 1956 11 563\]. | BK 2 709; LA 1956 14 350; ibid.; BK 2 710; LA 1956 11 563 |  |
+| Arabic | ḳird- 'monkey, especially male monkey' \[BK 2 709\], \[LA 1956 14 350\], ḳird-at- 'female monkey' \[ibid.\]. Cf. ḳardaḥ-, ḳurduḥ- 'large monkey' \[BK 2 710\], \[LA 1956 11 563\]. | BK 2 709; LA 1956 14 350; BK 2 710; LA 1956 11 563 |  |
 | Geez | ḳardināt (pl. ḳǝrādināt) \[LGz. 440\]. | LGz. 440 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

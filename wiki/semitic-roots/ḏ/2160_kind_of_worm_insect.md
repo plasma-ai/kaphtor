@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḏarr- 'very small ants' \[BK 1 766\], \[Fr. II 82\], \[Lane 957\], \[LA IV 304\]. | BK 1 766; Fr. II 82; Lane 957; LA IV 304 |  |
 | Mehri | ḏǝrḏēr \[JM 81\]. | JM 81 | gloss withheld |
-| Harsusi | ḏarr \[JH 28\], ḏerḏīr \[ibid. 29\]. | JH 28; ibid. 29 | gloss withheld |
+| Harsusi | ḏarr \[JH 28\], ḏerḏīr \[ibid. 29\]. | JH 28; JH 29 | gloss withheld |
 | Jibbali | ḏɛrḏér \[JJ 47\]. | JJ 47 | gloss withheld |
-| Hebrew | pB. dūrā (dawwārā) 'a parasite worm in the bowels' \[Ja. 289\], dīrā 'name of a grain worm' \[ibid. 305\], \[Levy WTM I 403\]. | Ja. 289; ibid. 305; Levy WTM I 403 |  |
+| Hebrew | pB. dūrā (dawwārā) 'a parasite worm in the bowels' \[Ja. 289\], dīrā 'name of a grain worm' \[ibid. 305\], \[Levy WTM I 403\]. | Ja. 289; Ja. 305; Levy WTM I 403 |  |
 | Judaic Aramaic | dūrā 'intestinal worm (?)' \[Dalman 88\]. | Dalman 88 |  |
 | Soqotri | dérhur (SED II 111) | SED II 111 | gloss withheld |
 

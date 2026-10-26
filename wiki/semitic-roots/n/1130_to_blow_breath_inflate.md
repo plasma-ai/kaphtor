@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | SEL näfa, WOL ZWY näfä \[LGur 450\] | LGur 450 | gloss withheld |
 | Harari | näfaḥa \[LHar 117\] | LHar 117 | gloss withheld |
 | Geez | nafḫa, nafḥa (-a-) \[LGz 388\] | LGz 388 | gloss withheld |
-| Gurage | CHA näfa, ENN GYE näfā, EZHA MUH MAS GOG SOD näffa, END näffā do. \[LGur 450\] | LGur 450 |  |
+| Gurage | CHA näfa, ENN GYE näfā, EZHA MUH MAS GOG SOD näffa, END näffā \[LGur 450\] | LGur 450 |  |
 | Jibbali | nifḫ \[JJ 183\]. | JJ 183 | gloss withheld |
 | Hebrew | npḥ (HALOT 708) | HALOT 708 | gloss withheld |
 | Amharic | näffa \[K 1079\] | K 1079 | gloss withheld |
@@ -49,7 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | nǝpaḥ 'blew, blew into, blew up' \[Brock 435\] | Brock 435 |  |
 | Tigrinya | näfḥe 'to blow in order to inflate a skin, to sound the trumpet' \[Bass 469\] | Bass 469 |  |
 | Egyptian | nšp (OLA80 §2.16) | OLA80 §2.16 | gloss withheld |
-| Aramaic | NPḤ (Qumran 158 apud CAL) | CAL | gloss withheld |
+| Aramaic | NPḤ (Qumran 158 apud CAL) | CAL; Anderson–Moser 2024 root npḫ | gloss withheld |
 | Eblaitic | na-ba-ḫu-um /napāḫum/ (= Sum. KA.DIRI, VE 229) | VE 229 |  |
 | Ugaritic | \*npḫ in mpḫm (LGz. 388; DULAT 559) | LGz. 388; DULAT 559 | gloss withheld |
 | Amorite | npḫ: jippiḫ (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |

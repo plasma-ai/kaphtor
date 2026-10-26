@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0192_lead
 title: "*nahal-: 'lead'"
-desc: "Proto-Semitic *nahal-, 'lead': reflexes in 3 language(s)."
+desc: "Proto-Semitic *nahal-, 'lead': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0192"
@@ -29,8 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nâlu 'lie' | Anderson–Moser 2024 root nhl |  |
-| Hebrew | nahal 'lead' (BDB 624) | BDB 624 |  |
+| Hebrew | nahal 'lead' (BDB 624) | BDB 624; Anderson–Moser 2024 root nhl |  |
 | Arabic | nahila (HALOT 675) | HALOT 675 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

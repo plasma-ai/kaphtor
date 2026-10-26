@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | maʿărākâ (HALOT 616) | HALOT 616 | gloss withheld |
-| Arabic | maʿrakat 'a place, scene, of battle' (Lane 2024); ʿarkat 'a war, battle' (Lane 2024) | Lane 2024; Lane 2024 |  |
+| Arabic | maʿrakat 'a place, scene, of battle' (Lane 2024); ʿarkat 'a war, battle' (Lane 2024) | Lane 2024 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

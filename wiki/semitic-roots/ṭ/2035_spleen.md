@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ṭahala, ṭahaila, ṭihaila, ṭahila \[DM 173\] | DM 173 |  |
 | East Ethiopic | SEL ṭār, WOL ṭalä \[LGur 616\] | LGur 616 |  |
 | Gurage | MUH MSQ GOG SOD ṭala, CHA ṭar, ENN END EŽA ṭara, GYE ṭāra \[LGur 616\] | LGur 616 |  |
-| Modern Aramaic | MMND ṭahāla \[M MND 521\] |  | gloss withheld |
+| Modern Aramaic | MMND ṭahāla \[M MND 521\] | M MND 521 | gloss withheld |
 | Jibbali | ṭɛlḥím \[JJ 277\]. | JJ 277 |  |
 | Hebrew | PB ṭǝḥōl \[Ja 528\] | Ja 528 |  |
 | Argobba | ṭaḥa \[LArg. 223\] | LArg. 223 |  |

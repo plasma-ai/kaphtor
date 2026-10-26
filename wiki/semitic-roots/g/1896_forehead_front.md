@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǧabh-at- 'forehead (both in man and in animals)' \[BK 1 250\]; ǧabah- 'a broad, wide and handsome forehead' \[ibid.\] | BK 1 250; ibid. |  |
+| Arabic | ǧabh-at- 'forehead (both in man and in animals)' \[BK 1 250\]; ǧabah- 'a broad, wide and handsome forehead' \[ibid.\] | BK 1 250 |  |
 | Mehri | gǝbhēt \[JM 113\] | JM 113 | gloss withheld |
-| Harsusi | yábheh (y- &lt;\*g-) \[JH 38\] | JH 38; ibid. | gloss withheld |
-| Tigre | gǝbbǝhīt \[LH 582\]; cf. also gäbbah \[ibid.\] | LH 582; ibid. | gloss withheld |
+| Harsusi | yábheh \[JH 38\] | JH 38 | gloss withheld |
+| Tigre | gǝbbǝhīt \[LH 582\]; cf. also gäbbah \[ibid.\] | LH 582 | gloss withheld |
 | Jibbali | gǝbhɛ́t \[JJ 69\] | JJ 69 | gloss withheld |
 | Hebrew | PB (?) gōbah translated as 'thick, fleshy part' \[Ja 217\]. | Ja 217 |  |
 

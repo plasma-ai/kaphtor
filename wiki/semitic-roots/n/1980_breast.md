@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | naǯd- 'breast/udder' \[BK 2 1201\]. | BK 2 1201 |  |
 | Geez | ʔǝngǝdʔā (ʔǝngǝdʕā) \[LGz 29\] | LGz 29 | gloss withheld |
-| Tigrinya | ʔǝngǝdʕa 'back, back' \[Bass 537\]. | Bass 537 |  |
+| Tigrinya | ʔǝngǝdʕa 'back' \[Bass 537\]. | Bass 537 |  |
 | Hebrew | nägäd (HALOT 666) | HALOT 666 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Z
 desc: "Words whose first sign begins with Z."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/Z/ZU_DU_broken_start|ZU_DU_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/Z/ZU_JU_PU2|ZU_JU_PU2]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/Z/ZU_JU_PU2|ZU_JU_PU2]]: ṯulubu: flute; here the flautist, a qualifier after the name TU-QE-NU; rival Hurrian Tulbiya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Z/ZU_RI_NI_MA|ZU_RI_NI_MA]]: Ṯawrinima: Bull- (personal name). Lexicon, SPECULATIVE (tier 1).
 

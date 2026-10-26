@@ -24,7 +24,7 @@ updated: 2026-10-22T17:38:31Z
 | Reconstruction | \*ʾaḳl- |
 | Meaning | 'limb, foot' |
 | Basis | SED |
-| SED | SEDonline semet 141/2 |
+| SED | SEDonline semet 141 |
 
 ## Reflexes
 

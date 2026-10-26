@@ -53,7 +53,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT15\|HT15]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT16\|HT16]] | Haghia Triada | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT26b\|HT26b]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT56a\|HT56a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98b\|HT98b]] | Haghia Triada | Tablet | complete; form not in transliteration |

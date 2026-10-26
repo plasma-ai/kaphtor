@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3425_to_yawn
 title: "*prr: 'to yawn'"
-desc: "Proto-Semitic *prr, 'to yawn': reflexes in 2 language(s)."
+desc: "Proto-Semitic *prr, 'to yawn': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3425"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*prr |
 | Meaning | 'to yawn' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1490 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | əftəráwr (ML 97 apud SEDonline 1490) | ML 97; SEDonline 1490 | gloss withheld |
 | Jibbali | əftérér (JL 59 apud SEDonline 1490) | JL 59; SEDonline 1490 | gloss withheld |
+| Soqotri | əftírir (Kogan 2015, ch. 8 §3.4.1 no. 89) | Kogan 2015 ch. 8 §3.4.1 no. 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

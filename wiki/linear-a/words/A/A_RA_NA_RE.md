@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/A/A_RA_NA_RE
 title: "A-RA-NA-RE"
-desc: "Aranare: personal name; compare Linear B a-ra-na-ro. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+desc: "Aranare: personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "A-RA-NA-RE"
 datasets: ["lexicon", "onomasticon"]
-tier: 3
-confidence: "PROBABLE"
-confidence_score: 0.7
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.5
 reading: "Aranare"
 attestations: ["HT1"]
 created: 2026-10-24T16:17:50Z
@@ -27,23 +27,23 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**PROBABLE**, tier 3 of 4, score 0.70
+**CANDIDATE**, tier 2 of 4, score 0.50
 
 | Field | Value |
 |---|---|
 | Reading | Aranare |
-| Meaning | personal name; compare Linear B a-ra-na-ro |
-| Language layer | Minoan_Aegean |
+| Meaning | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro |
+| Language layer | Hurrian |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-The quantified HT1 position and Linear B a-ra-na-ro on the Knossos male roster KN As 1516.11 strongly support personal-name status and probable Linear A-to-B continuity or adaptation. Gordon's Egyptian analysis ꜥꜣ-rn-Rꜥ, 'Great-is-the-name-of-Re,' is structurally possible but has not been independently located in the Egyptian personal-name or text corpora; retain it as a candidate etymology, not the translation.
+HT 1 A-RA-NA-RE 105, the last of the counted names, whole (GORILA I 3). Ugaritic ålnr, a personal name classed Hurrian and set beside Linear B a-ra-na-ro (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43), as in Allan-šeridani at Ugarit (Kinlaw 1967, 19). Hurrian r and l alternate; RA writes r here, as the same scribe writes RA₂ for la in QE-RA₂-U. Linear B a-ra-na-ro is a man, VIR 1, on KN As 1516.11. HT 47b \]RA-NA-RE\[, room for one sign before (GORILA I 91), is the same name if the lost sign is A. Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127).
 
 ### Source
 
-KN As 1516.11; Gordon 1966 §127
+di Mino; DULAT 57; Laroche 1980; KN As 1516.11; Gordon 1966 §127
 
 ## Attestations
 
@@ -55,15 +55,15 @@ KN As 1516.11; Gordon 1966 §127
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | Aranare | personal name; compare Linear B a-ra-na-ro | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | Aranare | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro | CANDIDATE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Affiliation | hurrian (CANDIDATE) |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
@@ -71,7 +71,7 @@ KN As 1516.11; Gordon 1966 §127
 
 ### Note
 
-The quantified HT1 position and Linear B a-ra-na-ro on the Knossos male roster KN As 1516.11 strongly support personal-name status. Gordon's Egyptian ꜥꜣ-rn-Rꜥ, 'Great-is-the-name-of-Re,' remains a candidate etymology; the complete Egyptian name has not been independently found in the local PNM or text corpora.
+Ugaritic ålnr, a Hurrian personal name set beside Linear B a-ra-na-ro, the man on KN As 1516.11 (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43). Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127).
 
 ### Co-occurring lexicon words
 

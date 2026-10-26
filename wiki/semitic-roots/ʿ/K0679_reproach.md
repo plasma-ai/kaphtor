@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕaḏala 'blamed' (Lane 1988) | Lane 1988 |  |
-| Aramaic | ʿDL (CAL s.v. ʿdl) | CAL s.v. ʿdl | gloss withheld |
+| Arabic | ʕaḏala 'blamed' (Lane 1988) | Lane 1988; Anderson–Moser 2024 root ʿḏl |  |
+| Aramaic | ʿDL (CAL s.v. ʿdl) | CAL s.v. ʿdl; Anderson–Moser 2024 root ʿḏl | gloss withheld |
 | Syrian Aramaic | ʕdal 'find fault, blame, complain of' (Payne Smith 401) | Payne Smith 401 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

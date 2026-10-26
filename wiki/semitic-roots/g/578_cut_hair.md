@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Soqotri | garaʕ; gáraˁ (SLOnline 4128) |  | gloss withheld |
+| Soqotri | garaʕ; gáraˁ (SLOnline 4128) | SLOnline 4128 | gloss withheld |
 | Jibbali | geraʕ |  |  |
 | Hebrew | grʕ |  |  |
 | Syrian Aramaic | graʕ 'shave; take tonsure; deprive of hair' (Payne Smith 79) | Payne Smith 79 |  |

@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǯanāḥ- 'arm (in man); armpit; wing (in birds, insects, etc.)' \[BK 1 338\]; ǯāniḥ-at- 'rib, especially the part that is on the side of the chest' \[ibid.\] | BK 1 338; ibid. |  |
-| Soqotri | ganḥ \[SSL LS 1458, apud Johnstone\], NOGED génnaḥ \[ibid. 1458\] | SSL LS 1458; ibid. 1458 | gloss withheld |
+| Arabic | ǯanāḥ- 'arm (in man); armpit; wing (in birds, insects, etc.)' \[BK 1 338\]; ǯāniḥ-at- 'rib, especially the part that is on the side of the chest' \[ibid.\] | BK 1 338 |  |
+| Soqotri | ganḥ \[SSL LS 1458, apud Johnstone\], NOGED génnaḥ \[ibid. 1458\] | SSL LS 1458; Johnstone; Johnstone 1458 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

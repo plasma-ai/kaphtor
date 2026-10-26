@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | paṭāru 'untie' | Anderson–Moser 2024 root pṭr |  |
-| Arabic | faṭara 'split' (Lane 2415) | Lane 2415 |  |
-| Aramaic | PṬR (Aramaic Root Atlas; CAL s.v. pṭr) | Aramaic Root Atlas; CAL s.v. pṭr | gloss withheld |
+| Arabic | faṭara 'split' (Lane 2415) | Lane 2415; Anderson–Moser 2024 root pṭr |  |
+| Aramaic | PṬR (Aramaic Root Atlas; CAL s.v. pṭr) | Aramaic Root Atlas; CAL s.v. pṭr; Anderson–Moser 2024 root pṭr | gloss withheld |
 | Hebrew | paṭar 'separate' (BDB 809) | BDB 809 |  |
 | Ugaritic | pṭr (HALOT 924); /piṭru/ (UVST 167) | HALOT 924; UVST 167 | gloss withheld |
 | Mandaic Aramaic | pṭr (HALOT 924) | HALOT 924 |  |

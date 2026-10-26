@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kuḏ̣r- 'hollow at the top of the chest, between the two collarbones' \[BK 2 905\] | BK 2 905 |  |
 | Akkadian | kiṣru OA on \[CAD k 436-\], \[AHw 488\] | CAD k 436-; AHw 488 | gloss withheld |
 | Tigre | (?) ḳäṣir \[LH 264\]. | LH 264 | gloss withheld |
-| Mandaic Aramaic | giṭra, also \[DM 90\]. | DM 90 | gloss withheld |
+| Mandaic Aramaic | giṭra \[DM 90\]. | DM 90 | gloss withheld |
 | Biblical Aramaic | \*ḳǝṭar (pl. ḳiṭrīn) 'joint' (BDB 1111). | BDB 1111 |  |
 | Phoenician | ḳṣrt \[T 292\]. | T 292 | gloss withheld |
 | Judaic Aramaic | ḳiṭrā 'knot, band' \[Ja 1358\]. | Ja 1358 |  |
@@ -41,5 +41,9 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | gi-zi-lu-um /ḳiṣrum/ (SED I 139; VE 992; Krebernik 1983, 36) | SED I 139; VE 992; Krebernik 1983, 36 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+The verb 'to bind, tie, knot' is 3609.
 
 <!-- END kaphtor:record -->

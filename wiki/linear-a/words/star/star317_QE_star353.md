@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star317_QE_star353
 title: "*317-QE-*353"
-desc: "Unread (edge overlap): no role; 1 occurrence(s)."
+desc: "Unread (unread): no role; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*317-QE-*353"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap).
+Status **unread** (nothing known).
 
 PH 9a, the only group on the face, followed by a fraction sign, on a pierced MM II tablet from Vano 25 whose other face carries a vessel logogram and numerals (GORILA I 298). Intact and undotted on both copies. \*317 is a logogram candidate (LIQḤU, CANDIDATE) and \*353 has no value, so two of the three signs are unresolved. No reading.
 

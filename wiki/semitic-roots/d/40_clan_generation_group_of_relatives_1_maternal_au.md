@@ -30,15 +30,19 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | dr (DULAT 277) (also) | DULAT 277 | gloss withheld |
+| Ugaritic | dr (DULAT 277) | DULAT 277 | gloss withheld |
 | Gurage | Chaha dǝwǝrya (LGur 224) | LGur 224 | gloss withheld |
-| Phoenician | dr (also) (T 75) | T 75 | gloss withheld |
-| Hebrew | dōr (HALOT 217, 218) (&lt;?); pB. dōr (Ja. 289) | HALOT 217, 218; Ja. 289 | gloss withheld |
+| Phoenician | dr (T 75) | T 75 | gloss withheld |
+| Hebrew | dōr (HALOT 217, 218); pB. dōr (Ja. 289) | HALOT 217, 218; Ja. 289 | gloss withheld |
 | Syrian Aramaic | dār- 'race of men (humankind), generation' (Brock 147) | Brock 147 |  |
 | Epigraphic South Arabian | Sab dwr (Biella 81) | Biella 81 | gloss withheld |
 | Geez | dor (LGz. 141) | LGz. 141 | gloss withheld |
 | Akkadian | dāru; dārû (CAD D 115) | CAD D 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Akk. dāru 'generation' is a West Semitic loan (AHw. 164b apud HALOT 217); Geez dor is a queried loan from Hebrew ('loan &lt; Heb. ?', Leslau 16 apud HALOT 217).
 
 <!-- END kaphtor:record -->

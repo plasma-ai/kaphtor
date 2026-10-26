@@ -53,6 +53,6 @@ Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] d�
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT122b .2 \*306-KI-TA₂ 7, all three signs whole and undotted at the head of the line, a trace after the numeral. .1 breaks off after VIR+\[, and GORILA's tabular copy sets \] before the word (GORILA I 209). Sole attestation. No reading.
+HT122b .2 \*306-KI-TA₂ 7, all three signs whole and undotted at the head of the line, a trace after the numeral. .1 breaks off after VIR+\[. GORILA's tabular copy sets \] before the word (GORILA I 209), but the drawing and the photograph show the left edge whole beside \*306, and a crack crosses the line at KI (GORILA I 208). Sole attestation. No reading.
 
 <!-- END kaphtor:record -->

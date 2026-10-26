@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:44:10Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/R
@@ -27,7 +27,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/R/RA_TE_broken_end|RA_TE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_TI_SE|RA_TI_SE]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RA_TI_SE|RA_TI_SE]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RA_q_DE_ME_TE|RA_q_DE_ME_TE]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -81,7 +81,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/R/RO_A559|RO_A559]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RO_E|RO_E]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RO_E|RO_E]]: rōʿē: herdsman, shepherd (title on a label). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RO_KE|RO_KE]]: rōkēl: trader, merchant (title); rival rōqēaḥ 'perfumer'. Lexicon, SPECULATIVE (tier 1).
 
@@ -101,7 +101,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/R/RU_KA|RU_KA]]: ruqāq: thin bread, wafers (qualifier of *309C KIKKARU). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RU_MA|RU_MA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RU_MA|RU_MA]]: Rūma: Height (toponym), the bare form of RU-MA-TA rūmatā. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_MA_TA|RU_MA_TA]]: rūmatā: the Height (toponym of the Ramah/Ramoth type). Lexicon, CANDIDATE (tier 2).
 

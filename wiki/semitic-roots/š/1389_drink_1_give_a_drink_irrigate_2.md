@@ -40,9 +40,9 @@ updated: 2026-10-22T17:38:31Z
 | Geez | saqaya (HALOT 1639) | HALOT 1639 |  |
 | Syrian Aramaic | ʾašqī (HALOT 1639) | HALOT 1639 |  |
 | Mandaic Aramaic | ŠQA (HALOT 1639) | HALOT 1639 |  |
-| Mehri | təḳ (Kogan 2011, 238); həḳū (Kogan 2011, 239) | Kogan 2011, 238; Kogan 2011, 239 | gloss withheld |
-| Soqotri | héṣ̌e (Kogan 2011, 239); ʸháṣ̌e (SLOnline 7250) | Kogan 2011, 239 | gloss withheld |
-| Amorite | š-q-y (George and Krebernik 2022, 156) | Krebernik 2022 | gloss withheld |
+| Mehri | təḳ (Kogan 2011, 238); həḳū (Kogan 2011, 239) | Kogan 2011 238; Kogan 2011 239 | gloss withheld |
+| Soqotri | héṣ̌e (Kogan 2011, 239); ʸháṣ̌e (SLOnline 7250) | Kogan 2011 239; SLOnline 7250 | gloss withheld |
+| Amorite | š-q-y (George and Krebernik 2022, 156) | George and Krebernik 2022 156 | gloss withheld |
 | Epigraphic South Arabian | Sab s1qy, ms1tqy (SD 128; Sabaweb lemma 1827); s1qy (Sabaweb lemma 1832), t-stem (Sabaweb lemma 2237) | SD 128; Sabaweb lemma 1827; Sabaweb lemma 1832; Sabaweb lemma 2237 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic sqy (Al-Jallad–Jaworska 123) | Al-Jallad–Jaworska 123 | gloss withheld |
 | Gurage | säč̣ä (EDG 534 apud SEDonline 9) | EDG 534; SEDonline 9 | gloss withheld |

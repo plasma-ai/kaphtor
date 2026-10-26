@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA8
 title: "ZA8"
-desc: "Tablet, Zakros, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA8"
 site: "Zakros"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
-words: ["A-RI-NI-TA", "DA-I-PI-TA", "KI-RA", "MA-KA-I-SE", "NI"]
+translation: "incomplete"
+words: ["A-RI-NI-TA", "DA-I-PI-TA", "KI-RA", "KU-TU-KO-RE", "MA-KA-I-SE", "NI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -62,8 +62,34 @@ Unicode (Linear A block):
 𐘾𐘚𐘁𐄊𐝁𐝁
 ```
 
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> Garden: A-TA-RE, figs ½; Kutukkore, a fraction; She-of-the-Lion 1\[…\]; TA-I-NU-MA-PA ½; the tax-man 2 + fractions; Ṭayyibat 2½; KA-I-RO 4 + fractions.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû/qīra | garden, orchard (heading); alternatively liquid bitumen | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] |  | personal name (unread) |  | unread |
+| [[wiki/linear-a/words/N/NI\|NI]] |  | figs (logogram), ½ | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | Hurrian personal name, with a fraction | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (priestess or cult title), 1\[ | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] |  | personal name (unread), ½ |  | unread |
+| [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | makisu | tax-man, customs official, 2 + fractions | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | personal name, 'Good (f.)', 2½ | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] |  | personal name (unread), 4 + fractions |  | unread |
+
+### Notes
+
+A fig issue headed KI-RA ·, names with fractions (GORILA III 165).
+
+### Source
+
+- di Mino: KU-TU-KO-RE, DA-I-PI-TA
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/D/DA_I_PI_TA|DA-I-PI-TA]], [[wiki/linear-a/words/K/KI_RA|KI-RA]], [[wiki/linear-a/words/M/MA_KA_I_SE|MA-KA-I-SE]], [[wiki/linear-a/words/N/NI|NI]].
+[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/D/DA_I_PI_TA|DA-I-PI-TA]], [[wiki/linear-a/words/K/KI_RA|KI-RA]], [[wiki/linear-a/words/K/KU_TU_KO_RE|KU-TU-KO-RE]], [[wiki/linear-a/words/M/MA_KA_I_SE|MA-KA-I-SE]], [[wiki/linear-a/words/N/NI|NI]].
 
 <!-- END kaphtor:record -->

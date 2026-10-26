@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṣtt |
 | Meaning | 'to watch' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1523 |
 
 ## Reflexes
 

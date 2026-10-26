@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | pty (LGz. 171) | LGz. 171 | gloss withheld |
 | Tigre | fäta (ftw) (LGz. 171) | LGz. 171 | gloss withheld |
 | Tigrinya | fätäwä (LGz. 171) | LGz. 171 |  |
-| Soqotri | fíti (Kogan 2015, ch. 2 §4.2 no. 49) | Kogan 2015, ch. 2 §4.2 no. 49 | gloss withheld |
+| Soqotri | fíti (Kogan 2015, ch. 2 §4.2 no. 49) | Kogan 2015 ch. 2 §4.2 no. 49 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

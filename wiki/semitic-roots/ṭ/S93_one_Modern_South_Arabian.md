@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ṭāṭ (OLA80 §35.3d) | OLA80 §35.3d |  |
-| Soqotri | ṭad (LS 199; SLOnline 27917) | LS 199 | gloss withheld |
+| Soqotri | ṭad (LS 199; SLOnline 27917) | LS 199; SLOnline 27917 | gloss withheld |
 | Jibbali | ṭad (JL 274 apud SEDonline 411) | JL 274; SEDonline 411 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

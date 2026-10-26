@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭebû 'sink' | Anderson–Moser 2024 root ṭbʿ |  |
+| Akkadian | ṭebû 'sink' | Anderson–Moser 2024 root ṭmʿ |  |
 | Geez | ṭamʿa 'dip' | Anderson–Moser 2024 root ṭmʿ |  |
 | Amharic | ṭämma, täṭämma (LGz. 592) | LGz. 592 | gloss withheld |
-| Syrian Aramaic | (Pal.) ṭəmaʿ, ṭəḇaʿ (LGz. 592; Payne Smith 166) | LGz. 592; Payne Smith 166 | gloss withheld |
-| Aramaic | ṭəmaʿ (LGz. 592; CAL s.v. ṭmʿ) | LGz. 592; CAL s.v. ṭmʿ | gloss withheld |
+| Syrian Aramaic | ṭəḇaʿ (LGz. 592; Payne Smith 166) | LGz. 592; Payne Smith 166 |  |
+| Aramaic | ṭəmaʿ (LGz. 592; CAL s.v. ṭmʿ); CPArm. ṭəmaʿ (LGz. 592) | LGz. 592; CAL s.v. ṭmʿ | gloss withheld |
 | Tigrinya | ṭämʿe (LGz. 592) | LGz. 592 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

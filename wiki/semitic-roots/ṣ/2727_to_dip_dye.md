@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṣabaġa 'to dye, tinge' (BK 1, 1307) | BK 1, 1307 |  |
-| Akkadian | ṣabû (ṣapû) (CAD Ṣ 45); ṣabû (CAD Ṣ 45); ṣābû (CAD Ṣ 55) | CAD Ṣ 45; CAD Ṣ 45; CAD Ṣ 55 | gloss withheld |
+| Akkadian | ṣabû (ṣapû) (CAD Ṣ 45); ṣabû (CAD Ṣ 45); ṣābû (CAD Ṣ 55) | CAD Ṣ 45; CAD Ṣ 55 | gloss withheld |
 | Hebrew | ṣābaʕ (HALOT 998) | HALOT 998 | gloss withheld |
 | Syrian Aramaic | ṣbaʕ 'dip, moisten, dye' (Payne Smith 472) | Payne Smith 472 |  |
 | Geez | ṣabḫa 'dip' | Anderson–Moser 2024 root ṣbġ |  |

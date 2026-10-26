@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʿqš (HALOT 875); ʿiqqēš (HALOT 876) | HALOT 875; HALOT 876 | gloss withheld |
-| Punic | ix (Krahmalkov 385) | Krahmalkov 385 | gloss withheld |
+| Punic | ix (Latin-letter Punic, Plautus, Poenulus 1033) (Krahmalkov 385) | Krahmalkov 385 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

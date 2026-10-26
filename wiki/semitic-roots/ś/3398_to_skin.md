@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3398_to_skin
 title: "*ŝry: 'to skin'"
-desc: "Proto-Semitic *ŝry, 'to skin': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ŝry, 'to skin': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3398"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ŝry |
 | Meaning | 'to skin' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1536 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ŝərū (ML 386 apud SEDonline 1536) | ML 386; SEDonline 1536 | gloss withheld |
 | Jibbali | ŝéré (JL 256 apud SEDonline 1536) | JL 256; SEDonline 1536 | gloss withheld |
+| Soqotri | ŝə́rhi (Kogan 2015, ch. 8 §3.4.1 no. 113) | Kogan 2015 ch. 8 §3.4.1 no. 113 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

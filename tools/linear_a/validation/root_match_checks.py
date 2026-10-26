@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shoresh pre-gold checks (tools/core/SHORESH.md, §6 amendments). Report-only: reads the index, corpus and
+"""Shoresh pre-gold checks (docs/shoresh-preregistration.md, §6 amendments). Report-only: reads the index, corpus and
 sign data, and writes nothing but the --out report, which must not exist. Run on a frozen snapshot (§7.7).
 
   a12   d* over retrieved keys (RootIndex.candidates, one class edit) against brute force over every eligible

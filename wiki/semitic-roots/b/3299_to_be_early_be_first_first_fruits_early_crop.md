@@ -29,10 +29,10 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | bkr (HALOT 130 apud SEDonline 1832); bikkūrīm (HALOT 130 apud SEDonline 1832) | HALOT 130; SEDonline 1832; HALOT 130; SEDonline 1832 | gloss withheld |
-| Judaic Aramaic | JPA bwkrh (DJPA 87 apud SEDonline 1832); JBA bakkīr (DJBA 220 apud SEDonline 1832) | DJPA 87; SEDonline 1832; DJBA 220; SEDonline 1832 | gloss withheld |
+| Hebrew | bkr (HALOT 130 apud SEDonline 1832); bikkūrīm (HALOT 130 apud SEDonline 1832) | HALOT 130; SEDonline 1832 | gloss withheld |
+| Judaic Aramaic | JPA bwkrh (DJPA 87 apud SEDonline 1832); JBA bakkīr (DJBA 220 apud SEDonline 1832) | DJPA 87; SEDonline 1832; DJBA 220 | gloss withheld |
 | Aramaic | CPA bkwry (DCPA 49 apud SEDonline 1832) | SEDonline 1832 | gloss withheld |
-| Syrian Aramaic | bkr (LSyr. 73, SL 126 apud SEDonline 1832); bakkārā (LSyr. 73, SL 126 apud SEDonline 1832) | LSyr. 73, SL 126; SEDonline 1832; LSyr. 73, SL 126; SEDonline 1832 | gloss withheld |
+| Syrian Aramaic | bkr (LSyr. 73, SL 126 apud SEDonline 1832); bakkārā (LSyr. 73, SL 126 apud SEDonline 1832) | LSyr. 73, SL 126; SEDonline 1832 | gloss withheld |
 | Arabic | bkr (Lane 239 apud SEDonline 1832) | Lane 239; SEDonline 1832 | gloss withheld |
 | Epigraphic South Arabian | Sab. bkr (SD 28 apud SEDonline 1832) | SD 28; SEDonline 1832 | gloss withheld |
 

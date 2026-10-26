@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | faḥḥār- \[Baranov 583\] | Baranov 583 | gloss withheld |
-| Gurage | Sel. Gog. Muh. Eža Cha. Gyt. Enm. fǝrfǝr, Muh. fǝrǝffǝr, End. fǝffǝr, Muh. fǝrǝffǝr, End. fǝffǝr \[LGur. 241\]. | LGur. 241 | gloss withheld |
+| Gurage | Sel. Gog. Muh. Eža Cha. Gyt. Enm. fǝrfǝr, Muh. fǝrǝffǝr, End. fǝffǝr \[LGur. 241\]. | LGur. 241 | gloss withheld |
 | Jibbali | fḥarɛ́t \[JJ 54\]. | JJ 54 | gloss withheld |
 | Harari | fōḥri \[LHar. 62\] | LHar. 62 | gloss withheld |
 

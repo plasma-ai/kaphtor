@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕurrat- 'human excrement, or bird excrement' \[BK 2 205\]; ʕurr- 'bird excrement' \[ibid.\] | BK 2 205; ibid. |  |
+| Arabic | ʕurrat- 'human excrement, or bird excrement' \[BK 2 205\]; ʕurr- 'bird excrement' \[ibid.\] | BK 2 205 |  |
 | Soqotri | ʕérieh \[LS 327\]. | LS 327 | gloss withheld |
 | Akkadian | irrū (wirrū) OB on \[CAD i 181\], erru, pl. \[AHw 244\] | CAD i 181; AHw 244 | gloss withheld |
 

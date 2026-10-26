@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | RḤŠ (Qumran 222 apud CAL) | CAL | gloss withheld |
-| Hebrew | raḥaš 'keep moving, stir' (BDB 935) | BDB 935 |  |
+| Aramaic | RḤŠ (Qumran 222 apud CAL) | CAL; Anderson–Moser 2024 root rḥš | gloss withheld |
+| Hebrew | raḥaš 'keep moving, stir' (BDB 935) | BDB 935; Anderson–Moser 2024 root rḥš |  |
 | Syrian Aramaic | rḥeš 'creep, swarm; germinate' (Payne Smith 538) | Payne Smith 538 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṭʕm \[-a-\] (Lane 1853) | Lane 1853 |  |
 | Mehri | ṭam |  |  |
-| Soqotri | ṭaʕam; ṭáˁam (SLOnline 27118) |  | gloss withheld |
+| Soqotri | ṭaʕam; ṭáˁam (SLOnline 27118) | SLOnline 27118 | gloss withheld |
 | Harsusi | ṭam |  |  |
 | Geez | ṭʕm |  |  |
 | Jibbali | ṭaʕam |  |  |

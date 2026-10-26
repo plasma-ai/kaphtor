@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔabham- 'that does not know how or cannot speak' \[BK 1 174\], bahīm- 'deaf' \[ibid.\]. | BK 1 174; ibid. |  |
+| Arabic | ʔabham- 'that does not know how or cannot speak' \[BK 1 174\], bahīm- 'deaf' \[ibid.\]. | BK 1 174 |  |
 | Tigre | bähamä \[LH 267\] | LH 267 | gloss withheld |
 | Geez | bǝhma \[LGz 89\] | LGz 89 | gloss withheld |
 | Tigrinya | bähamä 'to become mute' \[Bass 303\]. | Bass 303 |  |
-| Hebrew | bəhemā (LGz. 89) | LGz. 89 | gloss withheld |
+| Hebrew | bəhemā (LGz. 89–90) | LGz. 89–90 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

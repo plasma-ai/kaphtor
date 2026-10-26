@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | fdfd (SD 43; Sabaweb lemma 9411) | SD 43; Sabaweb lemma 9411 | gloss withheld |
+| Epigraphic South Arabian | fdfd (SD 43); fdfdt (Sabaweb lemmas 4087, 9411) | SD 43; Sabaweb lemmas 4087, 9411 | gloss withheld |
 | Geez | f-d-f-d ‘grow, increase, multiply’ (Dillmann 10079; Dillmann 10080) | Dillmann 10079; Dillmann 10080 |  |
 | Tigre | fädfäda (LGz. 155) | LGz. 155 | gloss withheld |
 | Tigrinya | fädfädä (LGz. 155) | LGz. 155 | gloss withheld |

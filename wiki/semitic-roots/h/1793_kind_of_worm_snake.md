@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Gurage | End. awiyä \[LGur. 115\]. | LGur. 115 | gloss withheld |
 | Jibbali | hɔ̄t \[JJ 100\]. | JJ 100 | gloss withheld |
-| Judaic Aramaic | hī(ʔ) 'name of a worm' \[Ja. 328\], hē 'name of a worm in the pomegranate' \[ibid. 335\]. | Ja. 328; ibid. 335 |  |
+| Judaic Aramaic | hī(ʔ) 'name of a worm' \[Ja. 328\], hē 'name of a worm in the pomegranate' \[ibid. 335\]. | Ja. 328; Ja. 335 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

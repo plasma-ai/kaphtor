@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*parṣ̂- |
 | Meaning | 'order, decision (divine)' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2140 |
 
 ## Reflexes
 

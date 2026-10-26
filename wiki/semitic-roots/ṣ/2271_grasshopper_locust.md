@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṣarṣar-, ṣurṣur-, ṣurṣūr- 'cricket' \[BK 1 1330\], \[Fr. II 493\], \[Lane 1673\], \[LA IV 455\], ṣarrār- 'cricket chirping by night' \[Fr. II 490\], \[Lane 1673\], \[LA IV 455\]. | BK 1 1330; Fr. II 493; Lane 1673; LA IV 455; Fr. II 490; Lane 1673; LA IV 455 |  |
-| Akkadian | ṣarṣaru (ṣāṣiru) SB, NB \[CAD ṣ 115\], OB on \[AHw. 1086\] | CAD ṣ 115; AHw. 1086; CAD l 100; Landsberger Fauna 124 | gloss withheld |
+| Arabic | ṣarṣar-, ṣurṣur-, ṣurṣūr- 'cricket' \[BK 1 1330\], \[Fr. II 493\], \[Lane 1673\], \[LA IV 455\], ṣarrār- 'cricket chirping by night' \[Fr. II 490\], \[Lane 1673\], \[LA IV 455\]. | BK 1 1330; Fr. II 493; Lane 1673; LA IV 455; Fr. II 490 |  |
+| Akkadian | ṣarṣaru (ṣāṣiru) SB, NB \[CAD ṣ 115\], OB on \[AHw. 1086\] | CAD ṣ 115; AHw. 1086 | gloss withheld |
 | Hebrew | pB. ṣarṣūr 'cricket' \[Ja. 1305\], \[Levy WTM IV 223\]. | Ja. 1305; Levy WTM IV 223 |  |
 | Judaic Aramaic | ṣarṣǝrā \[Ja. 1305\], \[Levy WTM IV 223\], ṣrṣr \[DJPA 471a apud CAL\]. | Ja. 1305; Levy WTM IV 223; DJPA 471a; CAL | gloss withheld |
 | Syrian Aramaic | ṣarṣūrā 'a kind of locust' \[Brock. 639\], \[PS 3438\], ṣēṣǝrā 'cricket' \[Brock. 636\], \[PS 3437\] (also ṣaṣṣūrā). | Brock. 639; PS 3438; Brock. 636; PS 3437 |  |

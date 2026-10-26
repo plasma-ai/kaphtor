@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḫ
 desc: "Semitic roots whose first radical is ḫ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/ḫ
@@ -155,7 +155,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/2170_pig|2170_pig]]: Proto-Semitic *ḫV(n)zīr-, 'pig': reflexes in 13 language(s).
 
-[[wiki/semitic-roots/ḫ/2200_mole|2200_mole]]: Proto-Semitic *ḫuld-, 'mole': reflexes in 8 language(s).
+[[wiki/semitic-roots/ḫ/2200_mole|2200_mole]]: Proto-Semitic *ḫuld-, 'mole': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ḫ/2201_kind_of_bird|2201_kind_of_bird]]: Proto-Semitic *ḫVl-, 'kind of bird': reflexes in 2 language(s).
 
@@ -171,23 +171,31 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/2411_equid|2411_equid]]: Proto-Semitic *ḫayl-, 'equid': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ḫ/2450_take_pick_up|2450_take_pick_up]]: Proto-Semitic *ḫār-, 'take, pick up': reflexes in 1 language(s).
+[[wiki/semitic-roots/ḫ/2450_take_pick_up_1_choose_2|2450_take_pick_up_1_choose_2]]: Proto-Semitic *ḫār-, 'take, pick up' 1, 'choose' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/2455_to_dig_with_a_hoe|2455_to_dig_with_a_hoe]]: Proto-Semitic *ḫVrVr-, 'to dig with a hoe': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḫ/2455_to_dig_with_a_hoe|2455_to_dig_with_a_hoe]]: Proto-Semitic *ḫVrVr-, 'to dig with a hoe': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḫ/2556_pass|2556_pass]]: Proto-Semitic *ḫVlVp-, 'pass': reflexes in 20 language(s).
 
 [[wiki/semitic-roots/ḫ/2653_vegetation|2653_vegetation]]: Proto-Semitic *ḫaml-, 'vegetation': reflexes in 10 language(s).
 
+[[wiki/semitic-roots/ḫ/2669_shore_coast|2669_shore_coast]]: Proto-Semitic *ḫupp-, 'shore, coast': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/ḫ/2687_gold|2687_gold]]: Proto-Semitic *ḫurāṣ-, 'gold': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḫ/2736_wine_fermented_drink|2736_wine_fermented_drink]]: Proto-Semitic *ḫVmr-, 'wine, fermented drink': reflexes in 10 language(s).
+[[wiki/semitic-roots/ḫ/2728_thread_cord|2728_thread_cord]]: Proto-Semitic *ḫayṭ- ~ *ḫūṭ-, 'thread, cord': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḫ/2736_wine_fermented_drink|2736_wine_fermented_drink]]: Proto-Semitic *ḫVmr-, 'wine, fermented drink': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ḫ/2749_five|2749_five]]: Proto-Semitic *ḫVmVš-, 'five': reflexes in 23 language(s).
+
+[[wiki/semitic-roots/ḫ/2751_cream_curd_butter|2751_cream_curd_butter]]: Proto-Semitic *ḫimʔ-at-, 'cream, curd, butter': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ḫ/2782_forest_wooded_hill|2782_forest_wooded_hill]]: Proto-Semitic *ḫal(a)b-, 'forest, wooded hill': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḫ/278_fly_n|278_fly_n]]: Proto-Semitic *ḫaduŝ-, 'fly' (n.): reflexes in 1 language(s).
+
+[[wiki/semitic-roots/ḫ/2843_coffin|2843_coffin]]: Proto-Semitic *ḫill-at-, 'coffin': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḫ/2867_beat_off|2867_beat_off]]: Proto-Semitic *ḫVbVṭ-, 'beat off': reflexes in 4 language(s).
 
@@ -225,7 +233,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/317_basket_1_waterjar_2|317_basket_1_waterjar_2]]: Proto-Semitic *ḫirṣ-, 'basket'1, 'waterjar' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/3191_autumn_1_year_2|3191_autumn_1_year_2]]: Proto-Semitic *ḫVrp-, 'autumn' 1, 'year' 2: reflexes in 8 language(s).
+[[wiki/semitic-roots/ḫ/3191_autumn_1_year_2|3191_autumn_1_year_2]]: Proto-Semitic *ḫVrp-, 'autumn' 1, 'year' 2: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ḫ/3206_lettuce|3206_lettuce]]: Proto-Semitic *ḫass-, 'lettuce': reflexes in 3 language(s).
 
@@ -252,6 +260,22 @@ updated: 2026-10-25T06:28:07Z
 [[wiki/semitic-roots/ḫ/3554_to_protect|3554_to_protect]]: Proto-Semitic *ḫpr, 'to protect': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/3555_to_cut_in_incise_to_determine|3555_to_cut_in_incise_to_determine]]: Proto-Semitic *ḫrṣ, 'to cut in, incise; to determine': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3585_to_serve_servant|3585_to_serve_servant]]: Proto-Semitic *ḫdm, 'to serve; servant': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3586_to_act_treacherously|3586_to_act_treacherously]]: Proto-Semitic *ḫyš, 'to act treacherously': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3587_to_accompany_walk_beside|3587_to_accompany_walk_beside]]: Proto-Semitic *ḫṣr, 'to accompany, walk beside': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3596_moat_ditch|3596_moat_ditch]]: Proto-Semitic *ḫrṣ, 'moat, ditch': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḫ/3604_fold_of_a_garment_or_of_the_arms|3604_fold_of_a_garment_or_of_the_arms]]: Proto-Semitic *ḫbn, 'fold (of a garment or of the arms)': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3648_bag_purse|3648_bag_purse]]: Proto-Semitic *ḫrṭ, 'bag, purse': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḫ/3662_thorn_thorn_bush_hook|3662_thorn_thorn_bush_hook]]: Proto-Semitic *ḫḫ, 'thorn, thorn-bush; hook': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ḫ/3679_to_bake_bread|3679_to_bake_bread]]: Proto-Semitic *ḫbz, 'to bake (bread)': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/378_ring_1_seal_on_a_ring_2|378_ring_1_seal_on_a_ring_2]]: Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 14 language(s).
 
@@ -283,7 +307,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/739_bread|739_bread]]: Proto-Semitic *ḫubVz-, 'bread': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḫ/754_leaf|754_leaf]]: Proto-Semitic *ḫūṣ-, 'leaf': reflexes in 3 language(s).
+[[wiki/semitic-roots/ḫ/754_leaf|754_leaf]]: Proto-Semitic *ḫūṣ-, 'leaf': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/783_appear_in_the_clouds_of_lightning|783_appear_in_the_clouds_of_lightning]]: Proto-Semitic *ḫVpVw-, 'appear in the clouds (of lightning)': reflexes in 1 language(s).
 
@@ -291,11 +315,11 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/866_rock_mountain|866_rock_mountain]]: Proto-Semitic *ḫurš-, 'rock, mountain': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/907_deceive|907_deceive]]: Proto-Semitic *ḫVyVb-, 'deceive': reflexes in 1 language(s).
+[[wiki/semitic-roots/ḫ/907_deceive_1_fail_be_lacking_2|907_deceive_1_fail_be_lacking_2]]: Proto-Semitic *ḫVyVb-, 'deceive' 1, 'fail, be lacking' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḫ/914_be_angry_malicious|914_be_angry_malicious]]: Proto-Semitic *ḫVbuṯ-, 'be angry, malicious': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḫ/949_be_weak|949_be_weak]]: Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 5 language(s).
+[[wiki/semitic-roots/ḫ/949_be_weak|949_be_weak]]: Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ḫ/958_be_dark_1_darkness_2|958_be_dark_1_darkness_2]]: Proto-Semitic *ḫadar-, 'be dark' 1, 'darkness' 2: reflexes in 2 language(s).
 
@@ -309,6 +333,8 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/988_be_favourable|988_be_favourable]]: Proto-Semitic *ḫVyVr-, 'be favourable': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/ḫ/K0716_room|K0716_room]]: Proto-Semitic *ḫidr-, 'room': reflexes in 9 language(s).
+
 [[wiki/semitic-roots/ḫ/K0763_hew|K0763_hew]]: Proto-Semitic *ḫaṣab-, 'hew': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ḫ/K0768_bold|K0768_bold]]: Proto-Semitic *ḫVbVl-, 'bold': reflexes in 3 language(s).
@@ -319,17 +345,15 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/K0771_restless|K0771_restless]]: Proto-Semitic *ḫVlVl-, 'restless': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/K0775_corrupt|K0775_corrupt]]: Proto-Semitic *ḫVnVp-, 'corrupt': reflexes in 3 language(s).
+[[wiki/semitic-roots/ḫ/K0775_corrupt|K0775_corrupt]]: Proto-Semitic *ḫVnVp-, 'corrupt': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/K0776_strangle|K0776_strangle]]: Proto-Semitic *ḫVnVq-, 'strangle': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/ḫ/K0777_shame|K0777_shame]]: Proto-Semitic *ḫVpVr-, 'shame': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/ḫ/K0779_delight|K0779_delight]]: Proto-Semitic *ḫVpVẓ-, 'delight': reflexes in 5 language(s).
-
 [[wiki/semitic-roots/ḫ/K0780_search|K0780_search]]: Proto-Semitic *ḫVqVr-, 'search': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḫ/K0781_dry|K0781_dry]]: Proto-Semitic *ḫVrVb-, 'dry': reflexes in 9 language(s).
+[[wiki/semitic-roots/ḫ/K0781_dry_dry_up_1_be_desolate_devastated_2|K0781_dry_dry_up_1_be_desolate_devastated_2]]: Proto-Semitic *ḫVrVb-, 'dry, dry up' 1, 'be desolate, devastated' 2: reflexes in 10 language(s).
 
 [[wiki/semitic-roots/ḫ/K0782_gnash|K0782_gnash]]: Proto-Semitic *ḫVrVq-, 'gnash': reflexes in 3 language(s).
 
@@ -338,8 +362,6 @@ updated: 2026-10-25T06:28:07Z
 [[wiki/semitic-roots/ḫ/K0785_lack|K0785_lack]]: Proto-Semitic *ḫVsVr-, 'lack': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ḫ/K0786_kindle|K0786_kindle]]: Proto-Semitic *ḫVtVw-, 'kindle': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/ḫ/K0787_alert|K0787_alert]]: Proto-Semitic *ḫVyVṭ-, 'alert': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḫ/K0788_mutilate|K0788_mutilate]]: Proto-Semitic *ḫVzVm-, 'mutilate': reflexes in 2 language(s).
 
@@ -351,7 +373,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḫ/S16_bridegroom_son_in_law_marriage_alliance_partner|S16_bridegroom_son_in_law_marriage_alliance_partner]]: Proto-Semitic *ḫatān-, 'bridegroom, son-in-law; marriage alliance partner': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/ḫ/S46_to_miss_a_target_sin_err_1_sin_offense_2_sin_off|S46_to_miss_a_target_sin_err_1_sin_offense_2_sin_off]]: Proto-Semitic *ḫṭʾ-, 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3: reflexes in 10 language(s).
+[[wiki/semitic-roots/ḫ/S46_to_miss_a_target_sin_err_1_sin_offense_2_sin_off|S46_to_miss_a_target_sin_err_1_sin_offense_2_sin_off]]: Proto-Semitic *ḫṭʾ-, 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ḫ/SA030_damage_one_who_damages|SA030_damage_one_who_damages]]: Epigraphic South Arabian headword *ḫdʕ, 'damage', 'one who damages': reflexes in 2 language(s).
 

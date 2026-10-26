@@ -43,4 +43,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Hebrew and Aramaic šḥq (HALOT 1464) have š, with Akkadian šēqu; Arabic saḥaqa, the MSA forms and Akkadian s/zâqu have s.
+
 <!-- END kaphtor:record -->

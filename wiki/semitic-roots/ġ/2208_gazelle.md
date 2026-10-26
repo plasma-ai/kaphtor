@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ɣazāl- 'young of a gazelle; gazelle (male)', ɣazālat- 'gazelle (female)' \[BK 2 464\] \[LA XI 492\]. | BK 2 464; LA XI 492 |  |
-| Akkadian | ḫuzālu, uzālu (AHw. 362, 1447) | AHw. 362, 1447; Pentiuc 32-3; AHw.; CAD ḫ 265 | gloss withheld |
-| Judaic Aramaic | ʕwzl \[DJPA 398b apud CAL\]. Cf. ʔurzīlā \[Ja. 33\], \[Levy WT I 61\], \[Levy WTM III 697\] with ʔ- instead of ʕ- and inserted -r-. | DJPA 398b; CAL; Ja. 33; Levy WT I 61; Levy WTM III 697; Ja. | gloss withheld |
-| Syrian Aramaic | ʕūzaylā 'antelope; fawn' \[Brock. 519\], \[PS 2829\]. Cf. ʕwzlʔ 'pig' \[Brock. 519\], \[PS 2852\] (for the meaning shift cf. probably Arb. yaʕfūr-, yuʕfūr- 'gazelle; young of a gazelle or doe' \[BK 2 299\] vs. ʕifr-, ʕufr- 'pig, boar; piglet, swine' \[ibid. 297\] (No. 88 \[DB 2205\])). | Brock. 519; PS 2829; Brock. 519; PS 2852; BK 2 299; ibid. 297 |  |
+| Akkadian | ḫuzālu, uzālu (AHw. 362, 1447) | AHw. 362, 1447 | gloss withheld |
+| Judaic Aramaic | ʕwzl \[DJPA 398b apud CAL\]. Cf. ʔurzīlā \[Ja. 33\], \[Levy WT I 61\], \[Levy WTM III 697\] | DJPA 398b; CAL; Ja. 33; Levy WT I 61; Levy WTM III 697 | gloss withheld |
+| Syrian Aramaic | ʕūzaylā 'antelope; fawn' \[Brock. 519\], \[PS 2829\]. Cf. ʕwzlʔ 'pig' \[Brock. 519\], \[PS 2852\] (for the meaning shift cf. probably Arb. yaʕfūr-, yuʕfūr- 'gazelle; young of a gazelle or doe' \[BK 2 299\] vs. ʕifr-, ʕufr- 'pig, boar; piglet, swine' \[ibid. 297\] (No. 88 \[DB 2205\])). | Brock. 519; PS 2829; PS 2852; BK 2 299; BK 297 |  |
 | Amorite | ʿazalum, ʿazalatum; ʿuzālum, ʿuzālatum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

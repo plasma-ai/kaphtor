@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḍayf- 'guest, visitor, table companion' (BK 2, 48) | BK 2, 48 |  |
 | Mehri | źayf / źīfon (JM 479) | JM 479 | gloss withheld |
-| Soqotri | ḍef (LS 361); ẓ̂ef (SLOnline 7217) | LS 361 | gloss withheld |
+| Soqotri | ḍef (LS 361); ẓ̂ef (SLOnline 7217) | LS 361; SLOnline 7217 | gloss withheld |
 | Harsusi | źayf (JH 152) | JH 152 | gloss withheld |
 | Jibbali | eẕ́éf (JJ 327) | JJ 327 | gloss withheld |
 | Epigraphic South Arabian | Qat ḍyf (s1t-prfx.) (Ricks 139) | Ricks 139 | gloss withheld |

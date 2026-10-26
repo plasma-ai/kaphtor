@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*pšl |
 | Meaning | 'to twist' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1877 |
 
 ## Reflexes
 

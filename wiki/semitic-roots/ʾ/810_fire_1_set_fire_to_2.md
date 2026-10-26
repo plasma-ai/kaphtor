@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔirrat- (BK 1 22), ʔrr \[-u-\] ibid., ʔry II \[-i-\] id. ibid. 27, ʔawwara (BK I 68); ʾuwār- (Kogan 2011, 196) | BK 1 22; BK I 68; Kogan 2011, 196 | gloss withheld |
-| Tigre | ʔarwa (LH 359); ʾarwa (Kogan 2011, 196) | LH 359; Kogan 2011, 196 | gloss withheld |
+| Arabic | ʔirrat- (BK 1 22), ʔrr \[-u-\] ibid., ʔry II \[-i-\] ibid. 27, ʔawwara (BK I 68); ʾuwār- (Kogan 2011, 196) | BK 1 22; BK I 68; Kogan 2011 196 | gloss withheld |
+| Tigre | ʔarwa (LH 359); ʾarwa (Kogan 2011, 196) | LH 359; Kogan 2011 196 | gloss withheld |
 | Hebrew | ʔūr (HALOT 25) | HALOT 25 | gloss withheld |
 | Akkadian | āriru (CAD A/2 268) | CAD A/2 268 | gloss withheld |
-| Soqotri | ʾérir (Kogan 2011, 196) | Kogan 2011, 196 | gloss withheld |
+| Soqotri | ʾérir (Kogan 2011, 196) | Kogan 2011 196 | gloss withheld |
 | Punic | ʾry (T 29) | T 29 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

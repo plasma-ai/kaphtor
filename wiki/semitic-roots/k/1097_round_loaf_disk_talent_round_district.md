@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | kakkaru |  |  |
 | Hebrew | kikkār |  |  |
 | Punic | kkr 'talent' | Anderson–Moser 2024 root kkr |  |
-| Ugaritic | kkr /kakkaru/ (UVST 136) | UVST 136 | gloss withheld |
+| Ugaritic | kkr /kakkaru/ (UVST 136) | UVST 136; Anderson–Moser 2024 root kkr | gloss withheld |
 | Syrian Aramaic | kakrā 'talent (weight, money)' (Payne Smith 214) | Payne Smith 214 |  |
 | Phoenician | kkr (T 141) | T 141 | gloss withheld |
 | Aramaic | EgArm. kkr, knkr (HALOT 473) | HALOT 473 |  |
@@ -41,5 +41,9 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | kakraʾ (T 141) | T 141 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+The verb is 3612 \*krkr 'to roll, whirl'.
 
 <!-- END kaphtor:record -->

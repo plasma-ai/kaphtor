@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | gudgudātu (pl. of redupl. stem) MA \[CAD g 119\]. | CAD g 119 | gloss withheld |
+| Akkadian | gudgudātu MA \[CAD g 119\]. | CAD g 119 | gloss withheld |
 | Tigre | gǝdet \[LH 602\] | LH 602 | gloss withheld |
 | Geez | ʔagadā \[LGz 11\] | LGz 11 | gloss withheld |
 | Gurage | ENN END agad, CHA EŽA GYE MUH MAS GOG SOD agat \[LGur 28\]. | LGur 28 | gloss withheld |
-| Amharic | agäda \[K 1331\]; agʷäda \[ibid.\]. Cf. gǝd \[ibid. 2035\] | K 1331; ibid.; ibid. 2035 | gloss withheld |
+| Amharic | agäda \[K 1331\]; agʷäda \[ibid.\]. Cf. gǝd \[ibid. 2035\] | K 1331; K 2035 | gloss withheld |
 | Gafat | agat \[LGaf 173\] | LGaf 173 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

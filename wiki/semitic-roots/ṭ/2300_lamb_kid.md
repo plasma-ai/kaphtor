@@ -32,11 +32,11 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṭalan, ṭalw- 'young of a gazelle recently born, young of any cloven-footed animal, such as a lamb, kid, etc.; young (said of anything)', ṭilwat- 'young (of a quadruped)', ṭaliyy- 'young (lamb, kid, etc.)' \[BK 2 103-5\], \[Fr. III 68-9\], \[Lane 1875-6\], \[LA XV 12\]. | BK 2 103-5; Fr. III 68-9; Lane 1875-6; LA XV 12 |  |
 | Tigre | ṭälit (coll. ṭel) \[LH 608\]. | LH 608 | gloss withheld |
-| Geez | ṭali \[LGz. 590\], ṭalit \[ibid.\]. | LGz. 590; ibid. | gloss withheld |
+| Geez | ṭali \[LGz. 590\], ṭalit \[ibid.\]. | LGz. 590 | gloss withheld |
 | Gurage | Eža End. Enm. Gyt. Sod. Sel. Wol. Zwy. ṭay, Sod. äṭay, Muh. Msq. ṭe, Cha. ṭạ̈, Msq. Gog. äṭe \[LGur. 638\]. | LGur. 638 | gloss withheld |
 | Hebrew | ṭālǟ (HALOT 375), pB. \[Ja. 535\] | HALOT 375; Ja. 535 | gloss withheld |
-| Epigraphic South Arabian | Sab. ṭly-n (du.) \[SD 153; Sabaweb lemma 3061\]. Qat. ṭly \[Ricks 78; Sabaweb lemma 3061\] | SD 153; Sabaweb lemma 3061; Ricks 78; Sabaweb lemma 3061; Sima 144; Hueh. 2000 203; Sabaweb lemma 3061 | gloss withheld |
-| Judaic Aramaic | ṭalyā 'lamb' \[Levy TW I 303\] ("nur in den jer. Trgg."). Likely a Hebraism with this meaning (see below on this root in Arm.). | Levy TW I 303 |  |
+| Epigraphic South Arabian | Sab. ṭly-n (du.) \[SD 153; Sabaweb lemma 3061\]. Qat. ṭly \[Ricks 78; Sabaweb lemma 3061\] | SD 153; Sabaweb lemma 3061; Ricks 78 | gloss withheld |
+| Judaic Aramaic | ṭalyā 'lamb' \[Levy TW I 303\] ("nur in den jer. Trgg.") | Levy TW I 303 |  |
 | Harari | ṭāy \[LHar 157\]. | LHar 157 | gloss withheld |
 | Tigrinya | ṭel 'goat' \[Bass. 887\]. | Bass. 887 |  |
 | Syrian Aramaic | ṭalyā (LGz. 590) | LGz. 590 |  |

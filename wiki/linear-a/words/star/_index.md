@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:37Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/star
@@ -19,7 +19,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/star/star188|star188]]: buṭnu: commodity ideogram; probably a Pistacia/terebinth product (resin, mastic, or nuts). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/star/star188_DU_SE|star188_DU_SE]]: Unread (edge overlap): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star188_DU_SE|star188_DU_SE]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star188_star308|star188_star308]]: buṭnu šamni: processed Pistacia/terebinth product, perhaps oil. Lexicon, CANDIDATE (tier 2).
 
@@ -109,7 +109,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/star/star317|star317]]: unresolved logogram; A542 on HT89 is a personnel-class composite. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star317_QE_star353|star317_QE_star353]]: Unread (edge overlap): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star317_QE_star353|star317_QE_star353]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star318_star306|star318_star306]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -135,7 +135,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/star/star34_JU_TE_MI|star34_JU_TE_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star355_E_star354|star355_E_star354]]: Unread (edge overlap): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star355_E_star354|star355_E_star354]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star363_KE_MA_SE|star363_KE_MA_SE]]: Šakma-se: the one of Šakmu (Shechem) (gentilic in -SE on the toponym). Lexicon, SPECULATIVE (tier 1).
 
@@ -151,7 +151,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/star/star47_KU_NA|star47_KU_NA]]: sōkina: prefect, administrator (heading of a wine issue); rivals mōgun- 'regalement, gift', Dagan. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star47_NU_RA_JA|star47_NU_RA_JA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/star/star47_NU_RA_JA|star47_NU_RA_JA]]: Šū-nūraya: personal name, 'He is light'; rival mənōrāya 'lampstand (man)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star516|star516]]: šipru: transaction/account marker; possible account or register logogram. Lexicon, CANDIDATE (tier 2).
 
@@ -171,7 +171,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/star/star86_SI_star118_KA|star86_SI_star118_KA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/star/star903_I_DU_WI|star903_I_DU_WI]]: Unread (edge overlap): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star903_I_DU_WI|star903_I_DU_WI]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/star/star905_star301|star905_star301]]: Onomasticon personal name, no reading.
 

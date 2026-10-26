@@ -35,7 +35,7 @@ updated: 2026-10-25T06:28:07Z
 | Judaic Aramaic | ḥăbāl (HALOT 285) | HALOT 285 | gloss withheld |
 | Mandaic Aramaic | hbal(a) (HALOT 285) | HALOT 285 | gloss withheld |
 | Arabic | ḫabila 'he was corrupted, unsound, disordered' (Lane 699) | Lane 699 |  |
-| Epigraphic South Arabian | Sab ẖbl (SD 58) | SD 58 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫbl (SD 58) | SD 58 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḫbl (Al-Jallad–Jaworska 79); mḫbl (Al-Jallad–Jaworska 95) | Al-Jallad–Jaworska 79; Al-Jallad–Jaworska 95 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

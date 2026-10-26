@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | SUD halhal \[DRS 411\]; EGYP halhil \[Spiro 490\]. | DRS 411; Spiro 490 | gloss withheld |
-| Soqotri | hálhal \[LS 143\] (full reduplication). | LS 143 | gloss withheld |
+| Soqotri | hálhal \[LS 143\]. | LS 143 | gloss withheld |
 | Akkadian | ulālu OB on \[AHw 1407\] | AHw 1407 | gloss withheld |
-| Tigre | haläwläw \[LH 4\] (partial reduplication) | LH 4 | gloss withheld |
+| Tigre | haläwläw \[LH 4\] | LH 4 | gloss withheld |
 | Geez | hawlaya (also ḥawlaya, a graphic variant) \[LGz 220\] | LGz 220 | gloss withheld |
 | Gurage | SOD wällät \[LGur 653\] | LGur 653 | gloss withheld |
 | Hebrew | hll, (po.), (hitpo.) (HALOT 249), hōlēlūt (HALOT 242) | HALOT 249; HALOT 242 | gloss withheld |

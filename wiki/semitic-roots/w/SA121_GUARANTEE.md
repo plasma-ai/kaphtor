@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab wṯq (Biella 155; Sabaweb lemma 5486) | Biella 155; Sabaweb lemma 5486 | gloss withheld |
-| Arabic | Ar wṯq D id.; ṯiqaᵗ waṯīqaᵗ (Biella 155) | Biella 155 | gloss withheld |
+| Arabic | Ar wṯq D; ṯiqaᵗ waṯīqaᵗ (Biella 155) | Biella 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

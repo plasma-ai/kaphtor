@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔaḫmaṣ- 'middle of the body' \[BK 1 633\]; also 'thin part of the middle of the body'. | BK 1 633 |  |
-| Soqotri | mónḥeṣ \[LS 264\], likely related with metathesis. | LS 264 | gloss withheld |
+| Soqotri | mónḥeṣ \[LS 264\] | LS 264 | gloss withheld |
 | Akkadian | ḫanṣātu, SynList \[CAD ḫ 81\], \[AHw 321\] (pl. tant.) | CAD ḫ 81; AHw 321 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

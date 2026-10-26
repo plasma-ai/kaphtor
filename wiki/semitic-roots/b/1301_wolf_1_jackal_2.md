@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | babr-, pl. bubūr- 'a kind of jackal that leads the lion onto the trail of prey (in Persian: tiger)' \[BK 1 81\] \[LA IV 37\]; cf. hbr 'hyena' | BK 1 81; LA IV 37 |  |
-| Akkadian | barbaru OAkk on \[CAD b 108\]; barbartu SB \[CAD b 108\] | CAD b 108; CAD b 108 | gloss withheld |
+| Akkadian | barbaru OAkk on \[CAD b 108\]; barbartu SB \[CAD b 108\] | CAD b 108 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

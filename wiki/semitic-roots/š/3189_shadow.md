@@ -29,8 +29,8 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | hōlaʾ (Kogan 2011, 196) | Kogan 2011, 196 |  |
-| Soqotri | milóʿoh (Kogan 2011, 196) | Kogan 2011, 196 |  |
+| Mehri | hōlaʾ (Kogan 2011, 196) | Kogan 2011 196 |  |
+| Soqotri | milóʿoh (Kogan 2011, 196) | Kogan 2011 196 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

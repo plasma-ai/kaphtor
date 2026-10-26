@@ -30,9 +30,9 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Phoenician | rbd (DNWSI 1052 apud SEDonline 281) | DNWSI 1052; SEDonline 281 | gloss withheld |
-| Hebrew | räbäd (Jastrow 1455 apud SEDonline 281); rbd (HALOT 1176 apud SEDonline 280); marḇaddīm (HALOT 631 apud SEDonline 280) | Jastrow 1455; SEDonline 281; HALOT 1176; SEDonline 280; HALOT 631; SEDonline 280 | gloss withheld |
+| Hebrew | räbäd (Jastrow 1455 apud SEDonline 281); rbd (HALOT 1176 apud SEDonline 280); marḇaddīm (HALOT 631 apud SEDonline 280) | Jastrow 1455; SEDonline 281; HALOT 1176; SEDonline 280; HALOT 631 | gloss withheld |
 | Arabic | rabīd- (Lane 1010 apud SEDonline 281) | Lane 1010; SEDonline 281 | gloss withheld |
-| Ugaritic | mrbd (DUL 573 apud SEDonline 280); rbd (DUL 731 apud SEDonline 280) | DUL 573; SEDonline 280; DUL 731; SEDonline 280 | gloss withheld |
+| Ugaritic | mrbd (DUL 573 apud SEDonline 280); rbd (DUL 731 apud SEDonline 280) | DUL 573; SEDonline 280; DUL 731 | gloss withheld |
 | Canaanite | EA ma-ar-˹ba˺-d\[u\] (EA 120: 21; Rainey 1978: 81 apud SEDonline 280) | SEDonline 280 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

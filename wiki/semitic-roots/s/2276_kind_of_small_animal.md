@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šikkû OB on \[CAD š2 433\], \[AHw. 1234\] | CAD š2 433; AHw. 1234; Landsberger Fauna 110ff; Salonen Jagd 228, 263 | gloss withheld |
+| Akkadian | šikkû OB on \[CAD š2 433\], \[AHw. 1234\] | CAD š2 433; AHw. 1234 | gloss withheld |
 | Amharic | šǝkokko (aškokko, ǝškokko) \[K 654\]. | K 654 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

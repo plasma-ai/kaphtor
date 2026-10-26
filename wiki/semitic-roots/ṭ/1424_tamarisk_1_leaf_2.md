@@ -35,7 +35,7 @@ updated: 2026-10-24T15:25:56Z
 | Modern Aramaic | Urm. ṭarp- |  |  |
 | Syrian Aramaic | ṭarp- (Payne Smith 183) | Payne Smith 183 |  |
 | Aramaic | Pal. ṭrp, ṭrb (DJPA 231b apud CAL) | DJPA 231b; CAL |  |
-| Arabic | ṭarfāʾ- (Kogan 2011, 202) | Kogan 2011, 202 | gloss withheld |
+| Arabic | ṭarfāʾ- (Kogan 2011, 202) | Kogan 2011 202 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

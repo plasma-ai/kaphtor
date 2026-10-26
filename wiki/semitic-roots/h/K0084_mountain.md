@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | har 'hill' | Anderson–Moser 2024 root hr |  |
+| Hebrew | har (Kogan 2015, ch. 5 §3.1 no. 32) | Kogan 2015 ch. 5 §3.1 no. 32; Anderson–Moser 2024 root hr | gloss withheld |
 | Punic | hr 'mountain' | Anderson–Moser 2024 root hr |  |
-| Ugaritic | hr 'mountain' | Anderson–Moser 2024 root hr |  |
+| Ugaritic | hr (Kogan 2015, ch. 5 §3.1 no. 32) | Kogan 2015 ch. 5 §3.1 no. 32; Anderson–Moser 2024 root hr | gloss withheld |
 | Phoenician | hr (T 83) | T 83 | gloss withheld |
 | Canaanite | EA ḫa-ar-ri (EA 74: 20 apud SEDonline 235) | SEDonline 235 | gloss withheld |
 

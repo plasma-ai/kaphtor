@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | baʕīr- \[BK 1 142\], \[Fr. I 136\], \[Lane 226-7\] (also, cf. \[Blachère 714\], \[TA X 218\]), \[LA IV 71\] | BK 1 142; Fr. I 136; Lane 226-7; TA X 218; LA IV 71; Hommel 143ff | gloss withheld |
+| Arabic | baʕīr- \[BK 1 142\], \[Fr. I 136\], \[Lane 226-7\] (also, cf. \[Blachère 714\], \[TA X 218\]), \[LA IV 71\] | BK 1 142; Fr. I 136; Lane 226-7; Blachère 714; TA X 218; LA IV 71 | gloss withheld |
 | Akkadian | bīru MB on \[CAD b 266\], \[AHw 130\] | CAD b 266; AHw 130 | gloss withheld |
 | Tigre | bǝʕrāy \[LH 292\]. | LH 292 | gloss withheld |
-| Canaanite | Amm. bʕr \[HJ 185\] | HJ 185; Jackson 93 | gloss withheld |
-| Mandaic Aramaic | bira \[DM 62\], biariata, var. of biriata \[ibid. 59\] | DM 62; ibid. 59 | gloss withheld |
+| Canaanite | Amm. bʕr \[HJ 185\] | HJ 185 | gloss withheld |
+| Mandaic Aramaic | bira \[DM 62\], biariata, var. of biriata \[ibid. 59\] | DM 62; DM 59 | gloss withheld |
 | Geez | bǝʕǝr, bǝʕ(ǝ)rā, bǝʕ(ǝ)rāy, bǝʕ(ǝ)rāwi \[LGz. 84\] | LGz. 84 | gloss withheld |
 | Hebrew | bǝʕīr (HALOT 142) | HALOT 142 | gloss withheld |
-| Epigraphic South Arabian | Sab. bʕr \[SD 26; Sabaweb lemma 1463\] // Min. bʕr \[LM 19\] // Hdr. bʕr \[Sima 37\] | SD 26; Sabaweb lemma 1463; LM 19; Sima 37; Sima 33-40 | gloss withheld |
+| Epigraphic South Arabian | Sab. bʕr \[SD 26; Sabaweb lemma 1463\] // Min. bʕr \[LM 19\] // Hdr. bʕr \[Sima 37\] | SD 26; Sabaweb lemma 1463; LM 19; Sima 37 | gloss withheld |
 | Judaic Aramaic | bǝʕīr(ā) \[Ja. 182\], \[Levy WT I 107\], \[Levy WTM I 250\], bǝʕīr \[DJPA 109a apud CAL\] | Ja. 182; Levy WT I 107; Levy WTM I 250; DJPA 109a; CAL | gloss withheld |
 | Syrian Aramaic | bǝʕīrā 'beast, draft animal' \[Brock. 85\], 'livestock; draft animal, horse' \[PS 566\] | Brock. 85; PS 566 |  |
 | Tigrinya | bǝʕray 'ox' \[Bass. 333\] | Bass. 333 |  |

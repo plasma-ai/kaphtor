@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | rummān- 'pomegranate' (BK 1, 929) | BK 1, 929 |  |
-| Akkadian | nurmû (CAD N/2 345) \| lurmû (CAD L 255) | CAD N/2 345; CAD L 255 | gloss withheld |
+| Akkadian | nurmû (CAD N/2 345); lurmû (CAD L 255) | CAD N/2 345; CAD L 255 | gloss withheld |
 | Ugaritic | lrmn (DULAT 499) | DULAT 499 | gloss withheld |
 | Hebrew | rimmōn (HALOT 1241) | HALOT 1241 | gloss withheld |
 | Syrian Aramaic | rummānā (LGz. 471) | LGz. 471 |  |
@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-From 1773: Assimilation of sonants and metathesis in Akk.
+Akkadian shows assimilation of sonants and metathesis.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2171_kind_of_snake_lizard
 title: "*ḥVm(V)ṭ-: 'kind of snake/lizard'"
-desc: "Proto-Semitic *ḥVm(V)ṭ-, 'kind of snake/lizard': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḥVm(V)ṭ-, 'kind of snake/lizard': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2171"
@@ -30,12 +30,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥamaṭīṭ- 'serpent' \[BK 1 493\], \[LA VII 277\] (also. ḥimṭāṭ-, ḥumṭūṭ-, detailed semantic discussion). | BK 1 493; LA VII 277 |  |
-| Akkadian | ḫulmittu (ḫulmiddu, ḫulmiṭṭu) SB \[CAD ḫ 230\], ḫulmiṭṭu \[AHw. 354\] | CAD ḫ 230; AHw. 354; Landsberger Fauna 62- | gloss withheld |
+| Arabic | ḥamaṭīṭ- 'serpent' \[BK 1 493\], \[LA VII 277\]. | BK 1 493; LA VII 277 |  |
+| Akkadian | ḫulmittu (ḫulmiddu, ḫulmiṭṭu) SB \[CAD ḫ 230\], ḫulmiṭṭu \[AHw. 354\] | CAD ḫ 230; AHw. 354 | gloss withheld |
 | Hebrew | ḥōmäṭ (HALOT 327, 328) | HALOT 327, 328 | gloss withheld |
 | Judaic Aramaic | ḥumṭā 'a lizard (chamoeleon)' \[Ja. 435\]. | Ja. 435 |  |
-| Ugaritic | ḫlmṯ̣, epithet or emblem of the goddess ʔušḫr (DULAT 387) | DULAT 387 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Ugaritic ḫlmṯ̣ (DULAT 387), an epithet or emblem of a goddess, has the ḫ and l of Akkadian ḫulmittu.
 
 <!-- END kaphtor:record -->

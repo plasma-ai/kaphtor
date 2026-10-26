@@ -33,19 +33,19 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | beḳelēt |  | gloss withheld |
 | Epigraphic South Arabian | Sab bql (SD 30; Biella 53; Sabaweb lemma 1943) | SD 30; Biella 53; Sabaweb lemma 1943 | gloss withheld |
 | Akkadian | baqālu (CAD B 97) | CAD B 97 | gloss withheld |
-| Eblaitic | bù-ḳù-lu (Kogan 2011, 203) | Kogan 2011, 203 |  |
-| Ugaritic | bḳl (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
-| Syrian Aramaic | buḳḳālā (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
-| Arabic | baql- (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
-| Geez | baḳʷl (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
-| Tigre | bəḳəl (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
-| Mehri | bēḳəl (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
-| Jibbali | bɛ́ḳəl (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
+| Eblaitic | bù-ḳù-lu (Kogan 2011, 203) | Kogan 2011 203 |  |
+| Ugaritic | bḳl (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
+| Syrian Aramaic | buḳḳālā (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
+| Arabic | baql- (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
+| Geez | baḳʷl (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
+| Tigre | bəḳəl (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
+| Mehri | bēḳəl (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
+| Jibbali | bɛ́ḳəl (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic bql (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
-| Gurage | Cha. Ezha Gye. bəḳər, End. Enn. bəˀər, Muh. bəḳi, Msq. Sod. bəḳəl, Gog. bəˀəl (EDG 147 apud SEDonline 434); Cha. buḳäya, Ezha Muh. buḳe, Ezha buḳḳəya, End. buḳayyä, Enn. buḳaya, Msq. Gog. buḳayya, Sod. buḳḳayya (EDG 147 apud SEDonline 434) | EDG 147; SEDonline 434; EDG 147; SEDonline 434 | gloss withheld |
-| East Ethiopic | Sel. Wol. Zwy. bəḳəl (EDG 147 apud SEDonline 434); Sel. abaḳālo, buḳḳāyto, Wol. buḳayya, Zwy. bəḳāya (EDG 147 apud SEDonline 434) | EDG 147; SEDonline 434; EDG 147; SEDonline 434 | gloss withheld |
+| Gurage | Cha. Ezha Gye. bəḳər, End. Enn. bəˀər, Muh. bəḳi, Msq. Sod. bəḳəl, Gog. bəˀəl (EDG 147 apud SEDonline 434); Cha. buḳäya, Ezha Muh. buḳe, Ezha buḳḳəya, End. buḳayyä, Enn. buḳaya, Msq. Gog. buḳayya, Sod. buḳḳayya (EDG 147 apud SEDonline 434) | EDG 147; SEDonline 434 | gloss withheld |
+| East Ethiopic | Sel. Wol. Zwy. bəḳəl (EDG 147 apud SEDonline 434); Sel. abaḳālo, buḳḳāyto, Wol. buḳayya, Zwy. bəḳāya (EDG 147 apud SEDonline 434) | EDG 147; SEDonline 434 | gloss withheld |
 | Harari | bəḳəl (EDH 43 apud SEDonline 434) | EDH 43; SEDonline 434 | gloss withheld |
-| Amharic | bəḳəl (AED 906 apud SEDonline 434); buḳayya (AED 908 apud SEDonline 434) | AED 906; SEDonline 434; AED 908; SEDonline 434 | gloss withheld |
+| Amharic | bəḳəl (AED 906 apud SEDonline 434); buḳayya (AED 908 apud SEDonline 434) | AED 906; SEDonline 434; AED 908 | gloss withheld |
 | Tigrinya | bəḳḳʷal, bəḳʷli (TED 1147 apud SEDonline 434) | TED 1147; SEDonline 434 | gloss withheld |
 | Aramaic | Off. bḳl (DNWSI 186 apud SEDonline 434) | DNWSI 186; SEDonline 434 | gloss withheld |
 | Modern Arabic | Yem. bagl (Biella 53) | Biella 53 |  |

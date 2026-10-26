@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | lmʕ/ḥ a,1 \| lmʕ 'shine, gleam' (Lane 3013) | Lane 3013 |  |
+| Arabic | lmʕ/ḥ a,1; lmʕ 'shine, gleam' (Lane 3013) | Lane 3013 |  |
 | Geez | lamʿa 'shine' | Anderson–Moser 2024 root lmʿ |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | LṬŠ (CAL s.v. lṭš) | CAL s.v. lṭš | gloss withheld |
-| Hebrew | laṭaš 'sharpen' (BDB 538) | BDB 538 |  |
+| Aramaic | LṬŠ (CAL s.v. lṭš) | CAL s.v. lṭš; Anderson–Moser 2024 root lṭš | gloss withheld |
+| Hebrew | laṭaš 'sharpen' (BDB 538) | BDB 538; Anderson–Moser 2024 root lṭš |  |
 | Ugaritic | lṭš 'sharpen' | Anderson–Moser 2024 root lṭš |  |
 | Arabic | lṭs (HALOT 528) | HALOT 528 |  |
 | Syrian Aramaic | lṭaš 'hammer, sharpen; provoke, incite' (Payne Smith 241) | Payne Smith 241 |  |

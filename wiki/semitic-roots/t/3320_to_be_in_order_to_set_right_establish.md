@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*tḳn |
 | Meaning | 'to be in order; to set right, establish' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2146 |
 
 ## Reflexes
 

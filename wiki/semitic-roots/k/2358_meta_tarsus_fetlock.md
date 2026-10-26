@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kursūʕ- 'protrusion of the ulna at the end of the little finger that touches the hand, bone at the end of the tarsus of the foot called waẓīf- (in animals)' \[BK 2 885\]. | BK 2 885 |  |
-| Akkadian | kursinnu OB on \[CAD K 566\], \[AHw 511\] (&lt;\*kursiʕ-n-?) | CAD K 566; AHw 511 | gloss withheld |
-| Mandaic Aramaic | (?) kursiat, in k. anpia (marked as) \[DM 209 apud Nöldeke\] | DM 209; Nöldeke | gloss withheld |
+| Akkadian | kursinnu OB on \[CAD K 566\], \[AHw 511\] | CAD K 566; AHw 511 | gloss withheld |
+| Mandaic Aramaic | (?) kursiat, in k. anpia \[DM 209 apud Nöldeke\] | DM 209; Nöldeke | gloss withheld |
 | Syrian Aramaic | (?) karsūʕā 'joint' \[Brock 348\]. | Brock 348 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

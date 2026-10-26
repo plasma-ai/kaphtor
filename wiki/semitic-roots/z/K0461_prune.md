@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | zabara 'break' (Dillmann 1865 (TraCES/ERC digitization, CC BY-SA-NC 4.0)) | Dillmann 1865 (TraCES/ERC digitization, CC BY-SA-NC 4.0) |  |
+| Geez | zabara 'break' (Dillmann 1865 (TraCES/ERC digitization, CC BY-SA-NC 4.0)) | Dillmann 1865 (TraCES/ERC digitization, CC BY-SA-NC 4.0); Anderson–Moser 2024 root zbr |  |
 | Ugaritic | zbr (Tropper UG 106) | Tropper UG 106 | gloss withheld |
 | Arabic | zabbara (HALOT 274) | HALOT 274 | gloss withheld |
 

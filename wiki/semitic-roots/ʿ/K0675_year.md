@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕām 'year' | Anderson–Moser 2024 root ʿām |  |
 | Geez | ʿām 'year' | Anderson–Moser 2024 root ʿām |  |
 | Epigraphic South Arabian | Sab ʿwm (SD 23; Biella 358); read bʿwm (Sabaweb lemma 3868) | SD 23; Biella 358; Sabaweb lemma 3868 | gloss withheld |
-| Jibbali | ʿoñ, ʿanut (LGz. 62); ʿónút (Kogan 2011, 197) | LGz. 62; Kogan 2011, 197 |  |
-| Soqotri | ʿénoh (Kogan 2011, 197) | Kogan 2011, 197 |  |
+| Jibbali | ʿoñ, ʿanut (LGz. 62); ʿónút (Kogan 2011, 197) | LGz. 62; Kogan 2011 197 |  |
+| Soqotri | ʿénoh (Kogan 2011, 197) | Kogan 2011 197 |  |
 | Tigre | ʿamät (LGz. 62) | LGz. 62 |  |
 | Tigrinya | ʿamät, ʿami (LGz. 62) | LGz. 62 |  |
 | Amharic | amät (LGz. 62) | LGz. 62 |  |

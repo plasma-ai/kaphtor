@@ -55,7 +55,13 @@ di Mino; Gelb, Purves, and MacRae 1943
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH10\|KH10]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH10\|KH10]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH10\|KH10]] | Ipšaja | personal name, Hurrian hypocoristic | SPECULATIVE |
 
 ## Onomasticon
 

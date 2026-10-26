@@ -29,10 +29,10 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | naḫallu, naḫlu (Kogan 2011, 191) | Kogan 2011, 191 |  |
-| Ugaritic | nḫl (Kogan 2011, 191) | Kogan 2011, 191 |  |
-| Hebrew | naḥal (Kogan 2011, 191) | Kogan 2011, 191 |  |
-| Syrian Aramaic | naḥlā (Kogan 2011, 191) | Kogan 2011, 191 |  |
+| Akkadian | naḫallu, naḫlu (Kogan 2011, 191) | Kogan 2011 191 |  |
+| Ugaritic | nḫl (Kogan 2011, 191) | Kogan 2011 191 |  |
+| Hebrew | naḥal (Kogan 2011, 191) | Kogan 2011 191 |  |
+| Syrian Aramaic | naḥlā (Kogan 2011, 191) | Kogan 2011 191 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

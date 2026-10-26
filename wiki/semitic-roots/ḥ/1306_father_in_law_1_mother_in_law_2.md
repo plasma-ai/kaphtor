@@ -32,7 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Akkadian | emu (HALOT 324); cf. ḫammu; emētu (CAD E 154, AHw. 214 apud SEDonline 570) | HALOT 324; CAD E 154, AHw. 214; SEDonline 570 | gloss withheld |
 | Syrian Aramaic | ḥmā (HALOT 324; Payne Smith 145); ḥmātā (LSyr. 242, SL 469 apud SEDonline 570) | HALOT 324; Payne Smith 145; LSyr. 242, SL 469; SEDonline 570 | gloss withheld |
-| Arabic | ḥam (HALOT 324); ḥamāt- (Lane 650 apud SEDonline 570) | HALOT 324; Lane 650; SEDonline 570 | gloss withheld |
+| Arabic | ḥam (HALOT 324),; ḥamū l-raǧul 1 (Lane 650); ḥamāt 2 (Lane 650) | HALOT 324; Lane 650 | gloss withheld |
 | Geez | ḥam (HALOT 324); ḥamot (LLA 77 apud SEDonline 570) | HALOT 324; LLA 77; SEDonline 570 | gloss withheld |
 | Tigre | ḥam (HALOT 324) | HALOT 324 |  |
 | Epigraphic South Arabian | ḥm (HALOT 324) | HALOT 324 |  |
@@ -44,8 +44,8 @@ updated: 2026-10-25T05:11:48Z
 | Harari | ḥamāči (LGz. 235) | LGz. 235 |  |
 | Gafat | amʷä (LGz. 235) | LGz. 235 |  |
 | Amorite | ḥamum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
-| Mehri | ḥaym, ḥəmáyt (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
-| Soqotri | ḥam, ḥámit (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
+| Mehri | ḥaym, ḥəmáyt (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
+| Soqotri | ḥam, ḥámit (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Eblaitic | ʔà-mu-mu (VE 280; Wilcke 1985: 240–241 apud SEDonline 569) | VE 280; SEDonline 569 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

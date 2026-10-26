@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥann-at- 'woman, wife' \[BK 1 499\]. | BK 1 499 |  |
-| Tigre | ḥǝnot \[LH 85\], ḥannä \[ibid. 84\]; cf. ḥante \[ibid. 83\] (&lt;\*ḥan-t-ay) | LH 85; ibid. 84; ibid. 83 | gloss withheld |
-| Mandaic Aramaic | (?) hana, also \[DM 124\]. | DM 124 | gloss withheld |
-| Syrian Aramaic | ḥannā 'bosom/fold; penis; vulva, vagina' \[Brock 242\]; ḥannūtā 'uterus' \[ibid.\] | Brock 242; ibid. |  |
-| Aramaic | OFF ḥn \[HJ 387\] (uncertain) | HJ 387 | gloss withheld |
+| Tigre | ḥǝnot \[LH 85\], ḥannä \[ibid. 84\]; cf. ḥante \[ibid. 83\] | LH 85; LH 84; LH 83 | gloss withheld |
+| Mandaic Aramaic | (?) hana \[DM 124\]. | DM 124 | gloss withheld |
+| Syrian Aramaic | ḥannā 'bosom/fold; penis; vulva, vagina' \[Brock 242\]; ḥannūtā 'uterus' \[ibid.\] | Brock 242 |  |
+| Aramaic | OFF ḥn \[HJ 387\] | HJ 387 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

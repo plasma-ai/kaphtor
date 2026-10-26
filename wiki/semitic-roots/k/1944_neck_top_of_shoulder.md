@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | kǝnsīd, pl. kǝnsōd \[JH 69\] | JH 69 | gloss withheld |
 | Mandaic Aramaic | kšada \[DM 224\]. | DM 224 | gloss withheld |
 | Geez | kǝsād, kǝŝād, pl. kǝsādāt, ka/ǝsāwǝd \[LGz 296\]. | LGz 296 | gloss withheld |
-| Jibbali | kǝnséd, pl. kénábsǝd (&lt;\*kǝnawsǝd) \[JJ 133\] | JJ 133 | gloss withheld |
+| Jibbali | kǝnséd, pl. kénábsǝd \[JJ 133\] | JJ 133 | gloss withheld |
 | Amharic | kǝsad \[K 1411\] | K 1411 | gloss withheld |
 | Tigrinya | kǝsad 'neck' \[Bass 598\] | Bass 598 |  |
 | Eblaitic | gi-da-šum /kidāšum/ \[Kreb. 37\], \[Bla. Ebl. 55\] | Kreb. 37; Bla. Ebl. 55 |  |

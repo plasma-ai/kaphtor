@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | erû, irû (AHw. 247 apud SEDonline 2157; CAD E 323) | AHw. 247; SEDonline 2157; CAD E 323 | gloss withheld |
 | Ugaritic | rḥ, du. rḥm (DULAT 724) | DULAT 724 | gloss withheld |
 | Hebrew | rēḥayim (BDB 932; HALOT 1216 apud SEDonline 2157) | BDB 932; HALOT 1216; SEDonline 2157 | gloss withheld |
-| Syrian Aramaic | raḥyā (LSyr. 723; SL 1455 apud SEDonline 2157) | LSyr. 723; SEDonline 2157 | gloss withheld |
+| Syrian Aramaic | raḥyā (LSyr. 723; SL 1455 apud SEDonline 2157) | LSyr. 723; SL 1455; SEDonline 2157 | gloss withheld |
 | Arabic | raḥan (Lane 1057 apud SEDonline 2157) | Lane 1057; SEDonline 2157 | gloss withheld |
 | Mehri | ərḥā (ML 322 apud SEDonline 2157) | ML 322; SEDonline 2157 | gloss withheld |
 | Jibbali | ráḥaˀ (SEDonline 2157) | SEDonline 2157 | gloss withheld |

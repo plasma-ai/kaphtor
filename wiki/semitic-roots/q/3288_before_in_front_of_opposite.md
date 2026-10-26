@@ -32,7 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Aramaic | Off. Palm. ḳbl (DNWSI 981 apud SEDonline 1589) | DNWSI 981; SEDonline 1589 | gloss withheld |
 | Syrian Aramaic | luḳbal (LSyr. 641, SL 1311 apud SEDonline 1589) | LSyr. 641, SL 1311; SEDonline 1589 | gloss withheld |
 | Arabic | qubulan (BK 2 667 apud SEDonline 1589) | BK 2 667; SEDonline 1589 | gloss withheld |
-| Epigraphic South Arabian | Sab. l-ḳbl (SD 103 apud SEDonline 1589); Sab. b-ḳbl (SD 103 apud SEDonline 1589); Min. ḳbly (LM 70 apud SEDonline 1589); Qat. ḳbl (LIQ 141 apud SEDonline 1589) | SD 103; SEDonline 1589; SD 103; SEDonline 1589; LM 70; SEDonline 1589; LIQ 141; SEDonline 1589 | gloss withheld |
+| Epigraphic South Arabian | Sab. l-ḳbl (SD 103 apud SEDonline 1589); Sab. b-ḳbl (SD 103 apud SEDonline 1589); Min. ḳbly (LM 70 apud SEDonline 1589); Qat. ḳbl (LIQ 141 apud SEDonline 1589) | SD 103; SEDonline 1589; LM 70; LIQ 141 | gloss withheld |
 | Tigre | ḳäbəl (WTS 248 apud SEDonline 1589) | WTS 248; SEDonline 1589 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

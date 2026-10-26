@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fsw 'to release wind (that is not heard)' \[BK 2 595\]; fissat- 'pet' \[ibid. 591\] | BK 2 595; ibid. 591 |  |
+| Arabic | fsw 'to release wind (that is not heard)' \[BK 2 595\]; fissat- 'pet' \[ibid. 591\] | BK 2 595; BK 591 |  |
 | Akkadian | pašû OA, OB on \[AHw 846\] | AHw 846 | gloss withheld |
 | Tigre | fäša \[LH 662\] | LH 662 | gloss withheld |
 | East Ethiopic | SEL fose, ZWY fosū, WOL foše \[LGur 246\] | LGur 246 | gloss withheld |
 | Geez | fasawa \[LGz 168\] | LGz 168 | gloss withheld |
-| Gurage | SOD fossä, CHA ENN GYE fʷäšä, EZ̆A END MUH MSQ fʷäššä, GOG foššä do. \[LGur 246\] | LGur 246 |  |
+| Gurage | SOD fossä, CHA ENN GYE fʷäšä, EZ̆A END MUH MSQ fʷäššä, GOG foššä \[LGur 246\] | LGur 246 |  |
 | Amharic | fässa \[K 2291\] | K 2291 | gloss withheld |
 | Tigrinya | fäsäwä 'to make, let out farts' \[Bass 994\] | Bass 994 |  |
 | Harari | fäs āša (SED I 315) | SED I 315 |  |

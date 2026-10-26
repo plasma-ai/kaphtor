@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔurbiyy-at- 'groin; root of the femur' \[BK 1 814\] (placed under the root rbw; in fact a stem with the \*ʔV- prefix). | BK 1 814 |  |
-| Mehri | rǝbbūt \[JM 312\]; cf. arǝbbūt ḏ-abárk \[ibid.\] | JM 312; ibid. | gloss withheld |
-| Soqotri | ʔerbéboh \[LS 73\], rebóboh \[ibid 391\], QALAN-V ʔǝríbbǝh \[SSL LS 1451\]; cf. also \[SSL 4 94\] and \[SSL 2 230\]. | LS 73; ibid 391; SSL LS 1451; SSL 4 94; SSL 2 230 | gloss withheld |
+| Arabic | ʔurbiyy-at- 'groin; root of the femur' \[BK 1 814\]. | BK 1 814 |  |
+| Mehri | rǝbbūt \[JM 312\]; cf. arǝbbūt ḏ-abárk \[ibid.\] | JM 312 | gloss withheld |
+| Soqotri | ʔerbéboh \[LS 73\], rebóboh \[ibid 391\], QALAN-V ʔǝríbbǝh \[SSL LS 1451\]; cf. also \[SSL 4 94\] and \[SSL 2 230\]. | LS 73; LS 391; SSL LS 1451; SSL 4 94; SSL 2 230 | gloss withheld |
 | Akkadian | rebītu OB \[AHw 964\]. | AHw 964 | gloss withheld |
-| Gurage | MUH äribä \[LGur 84\]; CHA EŽA neḇa, ENN GYE neḇä, END nēwä id. \[LGur. 84\]. | LGur 84; LGur. 84 | gloss withheld |
+| Gurage | MUH äribä \[LGur 84\]; CHA EŽA neḇa, ENN GYE neḇä, END nēwä \[LGur. 84\]. | LGur 84; LGur. 84 | gloss withheld |
 | Jibbali | rɔ̄t, pl. rub \[JJ 202\] | JJ 202 | gloss withheld |
 | Amharic | reb \[K 392\] | K 392 | gloss withheld |
 | Syrian Aramaic | (?) rǝbūbǝyātā, ʔarbūbǝyātā 'testicles?' \[Brock 707\] (also 'buboes (groin glands)') | Brock 707 |  |

@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | waral- 'a kind of African lizard larger than the one called ḍabb-, with a long tail, a small head, that runs very fast and has venom in its head and tail' \[BK 2 1525\], \[LA XI 744\]. Also waran 'lizard' \[Dozy II 798\] (post-classical). | BK 2 1525; LA XI 744; Dozy II 798 |  |
+| Arabic | waral- 'a kind of African lizard larger than the one called ḍabb-, with a long tail, a small head, that runs very fast and has venom in its head and tail' \[BK 2 1525\], \[LA XI 744\] | BK 2 1525; LA XI 744 |  |
 | Mehri | rǝwōl \[JM 333\]. | JM 333 | gloss withheld |
-| Akkadian | urnu SB \[AHw. 1431\] | AHw. 1431; Landsberger Fauna 63; Astour 1972 114-5 | gloss withheld |
+| Akkadian | urnu SB \[AHw. 1431\] | AHw. 1431 | gloss withheld |
 | Harsusi | rewōl \[JH 106\]. | JH 106 | gloss withheld |
 | Syrian Aramaic | yarlā 'lizard' \[Brock. 309\], \[PS add. 156\], also yallā 'lizard' \[Brock. 301\], \[PS 1593\]. | Brock. 309; Brock. 301; PS 1593 |  |
 | Judaic Aramaic | yallā (SED II 316) | SED II 316 |  |

@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǧanān- 'heart, spirit, soul' \[BK 1 332\], ǯinn- 'interior (of anything), heart (among the poets)' \[ibid.\]; ǧanīn- 'embryo' \[ibid. 333\] | BK 1 332; ibid.; ibid. 333 |  |
+| Arabic | ǧanān- 'heart, spirit, soul' \[BK 1 332\], ǯinn- 'interior (of anything), heart (among the poets)' \[ibid.\]; ǧanīn- 'embryo' \[ibid. 333\] | BK 1 332; BK 333 |  |
 | Akkadian | gannu SB on \[CAD g 41\]; \[AHw 280\] | CAD g 41; AHw 280 | gloss withheld |
-| Ugaritic | ggn, gngn (?) \[DULAT 292, 300\] (redupl. forms); gngnt only in the composite TN ḫlb gngnt \[DULAT 300\] | DULAT 292, 300; DULAT 300 | gloss withheld |
+| Ugaritic | ggn, gngn (?) \[DULAT 292, 300\] | DULAT 292, 300; DULAT 300 | gloss withheld |
 | Hebrew | Cf. gāḥōn (HALOT 187) | HALOT 187 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

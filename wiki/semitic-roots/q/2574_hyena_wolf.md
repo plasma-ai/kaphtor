@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳašʕ- 'male hyena', also 'chameleon' \[BK 2 742-3\] | BK 2 742-3 |  |
-| Jibbali | ḳeśɛ́t wolf \[JJ 153\] | JJ 153 |  |
+| Jibbali | ḳeśɛ́t \[JJ 153\] | JJ 153 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

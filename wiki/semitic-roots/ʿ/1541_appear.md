@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1541_appear
 title: "*ʕVnVn-: 'appear'"
-desc: "Proto-Semitic *ʕVnVn-, 'appear': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ʕVnVn-, 'appear': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1541"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕnn \[-i-, -u-\] (Lane 2162) | Lane 2162 |  |
+| Epigraphic South Arabian | Sab ʿnn (Biella 374) | Biella 374 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

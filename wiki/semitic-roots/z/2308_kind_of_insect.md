@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | zīz- (pl. zīzān-) 'cicada' \[BK 1 1032\], \[Dozy I 618-9\] ("un mot berbère"). | BK 1 1032; Dozy I 618-9 |  |
-| Akkadian | zizānu (sisānu) SB \[AHw. 1534\], sisânu (zizānu) \[CAD s 321\] | AHw. 1534; CAD s 321; Landsberger Fauna 123 | gloss withheld |
+| Akkadian | zizānu (sisānu) SB \[AHw. 1534\], sisânu (zizānu) \[CAD s 321\] | AHw. 1534; CAD s 321 | gloss withheld |
 | Gurage | Wol. zizo, Sel. zīzo \[LGur. 719\] | LGur. 719 | gloss withheld |
 | Hebrew | zīz (HALOT 268), pB. \[Ja. 393\] | HALOT 268; Ja. 393 | gloss withheld |
 | Judaic Aramaic | zīzā 'name of a mite in lentils' \[Ja. 393\], 'worm, mite' \[Levy WT 218\]. | Ja. 393; Levy WT 218 |  |

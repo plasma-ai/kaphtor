@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | baḏara 'sowed' (Lane 173) | Lane 173 |  |
-| Aramaic | BDR (CAL s.v. bdr) | CAL s.v. bdr | gloss withheld |
+| Arabic | baḏara 'sowed' (Lane 173) | Lane 173; Anderson–Moser 2024 root bḏr |  |
+| Aramaic | BDR (CAL s.v. bdr) | CAL s.v. bdr; Anderson–Moser 2024 root bḏr | gloss withheld |
 | Hebrew | bazar 'scatter' | Anderson–Moser 2024 root bḏr |  |
 | Biblical Aramaic | bdr (HALOT 921) | HALOT 921 |  |
 | Syrian Aramaic | bᵉdar (HALOT 921; Payne Smith 36) | HALOT 921; Payne Smith 36 |  |

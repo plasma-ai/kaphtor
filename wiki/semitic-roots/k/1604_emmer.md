@@ -30,13 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kunāšu |  |  |
+| Akkadian | kunāšu (CAD K 536) | CAD K 536 |  |
 | Syrian Aramaic | kunnātā |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-From 2692: Akkadian: kunāšu 'emmer' (CAD K 538); Hebrew: kussemmet 'spelt/emmer' (HALOT 490)
 
 <!-- END kaphtor:record -->

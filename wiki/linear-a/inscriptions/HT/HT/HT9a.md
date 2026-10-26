@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["*306-TU", "*324-DI-RA", "DI-NA-U", "KU-RO", "PA-DE", "QE-PU", "SA-RO", "TE"]
+words: ["*306-TU", "*324-DI-RA", "A-RU", "DI-NA-U", "KU-RO", "PA-DE", "QE-PU", "SA-RO", "TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Royal allocation—contribution—wine: Padī 5¾; ʿAttu 10; Dīnāyu 4; the official 2; Sōdir 2½; TA-I-AROM 2½; A-RU 4¼. Total 31¾.
+> Royal allocation—contribution—wine: Padī 5¾; ʿAttu 10; Dīnāyu 4; the official 2; Sōdir 2½; TA-I-AROM 2½; Ḫaru 4¼. Total 31¾.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | official, commissioner; rival: the personal name Qīpu | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | sōdir | one who sets in order (title or name; √s-d-r) | SPECULATIVE | SPECULATIVE (lexicon) |
 | TA-I-AROM |  | roster entry written with the aromatics ligature (unread) |  |  |
-| [[wiki/linear-a/words/A/A_RU\|A-RU]] |  | personal name (unread) |  | unread |
+| [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
@@ -94,7 +94,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star306_TU|\*306-TU]], [[wiki/linear-a/words/star/star324_DI_RA|\*324-DI-RA]], [[wiki/linear-a/words/D/DI_NA_U|DI-NA-U]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_DE|PA-DE]], [[wiki/linear-a/words/Q/QE_PU|QE-PU]], [[wiki/linear-a/words/S/SA_RO|SA-RO]], [[wiki/linear-a/words/T/TE|TE]].
+[[wiki/linear-a/words/star/star306_TU|\*306-TU]], [[wiki/linear-a/words/star/star324_DI_RA|\*324-DI-RA]], [[wiki/linear-a/words/A/A_RU|A-RU]], [[wiki/linear-a/words/D/DI_NA_U|DI-NA-U]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_DE|PA-DE]], [[wiki/linear-a/words/Q/QE_PU|QE-PU]], [[wiki/linear-a/words/S/SA_RO|SA-RO]], [[wiki/linear-a/words/T/TE|TE]].
 
 ## Edition differences
 

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sahira 'sleepless' (Lane 1451) | Lane 1451 |  |
-| Aramaic | ŠHR (Aramaic Root Atlas; CAL s.v. šhr) | Aramaic Root Atlas; CAL s.v. šhr | gloss withheld |
+| Arabic | sahira 'sleepless' (Lane 1451) | Lane 1451; Anderson–Moser 2024 root šhr |  |
+| Aramaic | ŠHR (Aramaic Root Atlas; CAL s.v. šhr) | Aramaic Root Atlas; CAL s.v. šhr; Anderson–Moser 2024 root šhr | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | īḇ(a) ( ? aiba DM 14) | DM 14 | gloss withheld |
 | Ugaritic | (?) ɣb (HALOT 773) | HALOT 773 | gloss withheld |
 | Modern Aramaic | Urm ʕayb- |  | gloss withheld |
-| Hebrew | ʕāb |  | gloss withheld |
+| Hebrew | ʕāb (Kogan 2015, ch. 6 §8.2.4, second list no. 3) | Kogan 2015 ch. 6 §8.2.4, second list no. 3 | gloss withheld |
 | Judaic Aramaic | ʕēbā 'thickness, darkness, cloud' (&lt;ʕyb, ʕby 'be thick, heavy' Ja 1065) | Ja 1065 |  |
 | Syrian Aramaic | ʿābā; ʿyb (HALOT 773, 794; Payne Smith 411) | HALOT 773, 794; Payne Smith 411 | gloss withheld |
 | Epigraphic South Arabian | ʿyb (HALOT 794) | HALOT 794 |  |

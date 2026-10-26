@@ -31,26 +31,26 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔab- id. (BK 1, 6) | BK 1, 6 |  |
-| Mehri | ḥáyb id. (JM 2) | JM 2 |  |
-| Soqotri | ʔeʔǝb; íˀif-/if- (LS 68; SLOnline 3041) | LS 68 | gloss withheld |
+| Mehri | ḥáyb (JM 2) | JM 2 |  |
+| Soqotri | ʔeʔǝb; íˀif-/if- (LS 68; SLOnline 3041) | LS 68; SLOnline 3041 | gloss withheld |
 | Akkadian | abu (CAD A/1 67; AHw. 7) | CAD A/1 67; AHw. 7 | gloss withheld |
-| Harsusi | ḥayb id. (JH 1) | JH 1 |  |
-| Tigre | ʔab id. (LH 365) | LH 365 |  |
-| Mandaic Aramaic | ab, aba id. (DM 1) | DM 1 |  |
-| Ugaritic | ʔab id. (DULAT 4) | DULAT 4 |  |
-| East Ethiopic | ZWY ābu, SEL abot, WOL abbä, aḇot id. (LGur. 4) | LGur. 4 |  |
-| Geez | ʔab id. (LGz. 2) | LGz. 2 |  |
-| Gurage | CHA EZ̆A MUH MSQ GOG ab, ENM GYT aḇ SOD aḇi, CHA EZ̆̆A END aw id. (LGur. 4) | LGur. 4 |  |
-| Phoenician | ʔb id. (T 1) | T 1 |  |
-| Jibbali | ʔiy id. (JJ 1), cf. ʔeb | JJ 1 | gloss withheld |
-| Hebrew | ʔāb id. (HALOT 1); Mishnaic ʔabbā (OLA80 §28.13) | HALOT 1; OLA80 §28.13 | gloss withheld |
-| Amharic | abbat id. (K 1199) | K 1199 |  |
-| Epigraphic South Arabian | SAB MIN QAT ʔb id. (SD 1; LM 1; Ricks 3; Sabaweb lemma 1490) | SD 1; LM 1; Ricks 3; Sabaweb lemma 1490 |  |
+| Harsusi | ḥayb (JH 1) | JH 1 |  |
+| Tigre | ʔab (LH 365) | LH 365 |  |
+| Mandaic Aramaic | ab, aba (DM 1) | DM 1 |  |
+| Ugaritic | ʔab (DULAT 4) | DULAT 4 |  |
+| East Ethiopic | ZWY ābu, SEL abot, WOL abbä, aḇot (LGur. 4) | LGur. 4 |  |
+| Geez | ʔab (LGz. 2) | LGz. 2 |  |
+| Gurage | CHA EZ̆A MUH MSQ GOG ab, ENM GYT aḇ SOD aḇi, CHA EZ̆̆A END aw (LGur. 4) | LGur. 4 |  |
+| Phoenician | ʔb (T 1) | T 1 |  |
+| Jibbali | ʔiy (JJ 1), cf. ʔeb | JJ 1 | gloss withheld |
+| Hebrew | ʔāb (HALOT 1); Mishnaic ʔabbā (OLA80 §28.13) | HALOT 1; OLA80 §28.13 | gloss withheld |
+| Amharic | abbat (K 1199) | K 1199 |  |
+| Epigraphic South Arabian | SAB MIN QAT ʔb (SD 1; LM 1; Ricks 3; Sabaweb lemma 1490) | SD 1; LM 1; Ricks 3; Sabaweb lemma 1490 |  |
 | Judaic Aramaic | ʔabbā id. (Ja. 2) | Ja. 2 |  |
-| Harari | āw id. (LHar 37) | LHar 37 |  |
+| Harari | āw (LHar 37) | LHar 37 |  |
 | Syrian Aramaic | ʔabbā id. (Brock. 1) | Brock. 1 |  |
 | Tigrinya | ʔabbo id. (Bass. 515) | Bass. 515 |  |
-| Aramaic | ʾb (DNWSI 1 apud CAL) | DNWSI 1; CAL | gloss withheld |
+| Aramaic | ʾb (DNWSI 1 apud CAL) | DNWSI 1; CAL; Anderson–Moser 2024 root abb | gloss withheld |
 | Punic | ʾb 'father' | Anderson–Moser 2024 root abb |  |
 | Gafat | abʷä (LGz. 2) | LGz. 2 |  |
 | Amorite | ʾabum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |

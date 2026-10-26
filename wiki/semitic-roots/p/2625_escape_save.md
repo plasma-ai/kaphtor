@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-LGz. 161 derives Ar. ʾaflata 'save, rescue' from 'cleave, split, separate'; Ethiopic falaṭa 'separate, split' is in 1320; Tna. fäläṭä 'know, understand' (&lt; 'discern, distinguish'), SAr. flṭ 'assign land' (Müller 1983:279 apud LGz. 161).
+LGz. 161 derives Ar. ʾaflata from 'cleave, split, separate'; Ethiopic falaṭa is in 1320; Tna. fäläṭä, SAr. flṭ (Müller 1983, 279 apud LGz. 161).
 
 <!-- END kaphtor:record -->

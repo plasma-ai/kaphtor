@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ʿtl (SD 22; Biella 388-9; Sabaweb lemma 3706) | SD 22; Biella 388-9; Sabaweb lemma 3706 | gloss withheld |
-| Arabic | Ar ʿatala here (HöSEG8/50; Biella 389) | Biella 389 | gloss withheld |
+| Arabic | Ar ʿatala (HöSEG8/50; Biella 389) | Biella 389 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

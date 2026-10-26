@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕāba 'faulty' (Lane 2206) | Lane 2206 |  |
-| Aramaic | ʿWB (Aramaic Root Atlas; CAL s.v. ʿwb) | Aramaic Root Atlas; CAL s.v. ʿwb | gloss withheld |
+| Arabic | ʕāba 'faulty' (Lane 2206) | Lane 2206; Anderson–Moser 2024 root ʿwb |  |
+| Aramaic | ʿWB (Aramaic Root Atlas; CAL s.v. ʿwb) | Aramaic Root Atlas; CAL s.v. ʿwb; Anderson–Moser 2024 root ʿwb | gloss withheld |
 | Hebrew | ʿuwb 'becloud' | Anderson–Moser 2024 root ʿwb |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

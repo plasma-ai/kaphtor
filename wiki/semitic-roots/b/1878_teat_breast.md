@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | bizz-, buzz- 'nipple, tip of the breast; breast, nipple' \[Dozy 1 80\]. Cf. bazaⁿ 'an infirmity consisting in the chest being prominent and presenting a hump, while the back is sunken in, or else in the belly being too prominent and the chest sunken in, or else in the lower back and buttocks being too prominent' \[BK 1 123\] | Dozy 1 80; BK 1 123 |  |
 | Ugaritic | bz \[DULAT 251\] | DULAT 251 | gloss withheld |
-| Modern Arabic | bizz- 'breast, bosom' \[BK 1 120\] (marked as Afr. meaning an unspecified Arabic dialect spoken in Africa) | BK 1 120 |  |
+| Modern Arabic | bizz- 'breast, bosom' \[BK 1 120\] | BK 1 120 |  |
 | Judaic Aramaic | bizzā (also biztā) \[Ja 159\]; bz (det. byzh) \[DJPA 89a apud CAL\] | Ja 159; DJPA 89a; CAL | gloss withheld |
-| Syrian Aramaic | bezzā 'breast, nipple' \[Brock 64\]; bezzōnā 'small nipple' \[ibid.\] | Brock 64; ibid. |  |
-| Aramaic | OFF bz \[HJ 149\] (uncertain) | HJ 149 | gloss withheld |
+| Syrian Aramaic | bezzā 'breast, nipple' \[Brock 64\]; bezzōnā 'small nipple' \[ibid.\] | Brock 64 |  |
+| Aramaic | OFF bz \[HJ 149\] | HJ 149 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

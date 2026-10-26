@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | cf. šuʕr- coll. 'plants, trees (all that constitutes, so to speak, the hair/covering of the ground); saffron', šaʕār- 'thick and intertwined trees that serve as shade in summer and shelter in winter; vegetation' (BK I 1238) | BK I 1238 |  |
+| Arabic | cf. šuʕr- coll. 'plants, trees (all that constitutes, so to speak, the hair/covering of the ground); saffron', šaʕār- 'thick and intertwined trees that serve as shade in summer and shelter in winter; vegetation' (BK I 1238); šaʕīr- 'barley' (BK 1, 1239) | BK I 1238; BK 1, 1239 |  |
 | Mehri | ŝɛ̄r (JM 370) | JM 370 | gloss withheld |
-| Tigre | saʕarsaʕaro (LH 194), säʕar (LH 194); šǝrnay, šǝnray (LGz. 534) | LH 194; LH 194; LGz. 534 | gloss withheld |
+| Tigre | saʕarsaʕaro (LH 194), säʕar (LH 194); šǝrnay, šǝnray (LGz. 534) | LH 194; LGz. 534 | gloss withheld |
 | Mandaic Aramaic | sara (DM 315) | DM 315 | gloss withheld |
 | Geez | śāʕr (LGz. 525). | LGz. 525 | gloss withheld |
 | Gurage | \*saʔar (LGur 530); \*sǝre; Cha särimäsǝr ( LGur) | LGur 530 | gloss withheld |
@@ -47,8 +47,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | saʿri (LGz. 525) | LGz. 525 | gloss withheld |
 | Harari | säʾar (LGz. 525) | LGz. 525 |  |
 | Pre-Islamic North Arabian | Safaitic śʿr (Al-Jallad–Jaworska 125) | Al-Jallad–Jaworska 125 | gloss withheld |
-| Epigraphic South Arabian | Sab s₂ʿr (Kogan 2011, 203; Sabaweb lemma 2701) | Kogan 2011, 203; Sabaweb lemma 2701 | gloss withheld |
-| Ugaritic | šʕr (Kogan 2015, ch. 3 §5.2 no. 56) | Kogan 2015, ch. 3 §5.2 no. 56 | gloss withheld |
+| Epigraphic South Arabian | Sab s₂ʿr (Kogan 2011, 203; Biella 521; Sabaweb lemma 2701) | Kogan 2011 203; Biella 521; Sabaweb lemma 2701 | gloss withheld |
+| Ugaritic | šʕr (Kogan 2015, ch. 3 §5.2 no. 56); šʕrm (DULAT 787); /šiʿīru/? (UVST 183) | Kogan 2015 ch. 3 §5.2 no. 56; DULAT 787; UVST 183 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šegû 'wild' | Anderson–Moser 2024 root šgʿ |  |
-| Hebrew | šagaʿ (HALOT 1415) | HALOT 1415 | gloss withheld |
+| Hebrew | šagaʿ (HALOT 1415) | HALOT 1415; Anderson–Moser 2024 root šgʿ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

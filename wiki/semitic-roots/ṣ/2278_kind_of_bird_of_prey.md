@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ṣallalu SB \[CAD ṣ 73\], \[AHw. 1077\] | CAD ṣ 73; AHw. 1077 | gloss withheld |
 | Geez | ṣilat (in ʕofa ṣilat) \[LGz. 556\]. | LGz. 556 | gloss withheld |
 | Gurage | Sod. Zwy. č̣ululle, Gog. č̣ulule, Msq. č̣ulǝlle \[LGur. 180\]. | LGur. 180 | gloss withheld |
-| Amharic | č̣ululle \[K 2200\], č̣ǝlat \[ibid. 2201\]. | K 2200; ibid. 2201 | gloss withheld |
-| Harari | č̣ulullu \[LHar. 51\], ṭilli \[ibid. 153\]. | LHar. 51; ibid. 153 | gloss withheld |
+| Amharic | č̣ululle \[K 2200\], č̣ǝlat \[ibid. 2201\]. | K 2200; K 2201 | gloss withheld |
+| Harari | č̣ulullu \[LHar. 51\], ṭilli \[ibid. 153\]. | LHar. 51; LHar. 153 | gloss withheld |
 | Syrian Aramaic | ṣalṣūlā 'bird that hunts fish' \[Brock. 631\], \[PS 3413\]. | Brock. 631; PS 3413 |  |
 | Judaic Aramaic | ṣilṣūlā (SED II 273) | SED II 273 |  |
 

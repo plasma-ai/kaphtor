@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕamtā 'paternal aunt' (Payne Smith 419) | Payne Smith 419 |  |
 | Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53) | Al-Jallad–Jaworska 53 | gloss withheld |
 | Tigre | ˁammät (WTS 455 apud SEDonline 513) | WTS 455; SEDonline 513 | gloss withheld |
-| Jibbali | aʕĩt (JL 19 apud SEDonline 513); ʕom (JL 19 apud SEDonline 513) | JL 19; SEDonline 513; JL 19; SEDonline 513 | gloss withheld |
+| Jibbali | aʕĩt (JL 19 apud SEDonline 513); ʕom (JL 19 apud SEDonline 513) | JL 19; SEDonline 513 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/3406_to_nag_to_offend
 title: "*ṯ̣br: 'to nag, to offend'"
-desc: "Proto-Semitic *ṯ̣br, 'to nag, to offend': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṯ̣br, 'to nag, to offend': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3406"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṯ̣br |
 | Meaning | 'to nag, to offend' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1549 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ḏ̣əbōr (ML 82 apud SEDonline 1549) | ML 82; SEDonline 1549 | gloss withheld |
 | Jibbali | ḏ̣ɔ̄r (JL 48 apud SEDonline 1549) | JL 48; SEDonline 1549 | gloss withheld |
+| Soqotri | ṭábir (Kogan 2015, ch. 8 §3.4.1 no. 127) | Kogan 2015 ch. 8 §3.4.1 no. 127 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

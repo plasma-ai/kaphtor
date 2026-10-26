@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | gmr |  | gloss withheld |
-| Geez | gomāri, gʷamāri, gʷǝmāri (\[LGz 195\]; note also gamar \[ibid. 194\]) | LGz 195; ibid. 194 | gloss withheld |
+| Geez | gomāri, gʷamāri, gʷǝmāri (\[LGz 195\]; note also gamar \[ibid. 194\]) | LGz 195; LGz 194 | gloss withheld |
 | Gurage | MUH gʷämarre WOL gomare SOD gomarre SEL gōmare MSQ GOG gumarre ZWYgūmāri EZH gumarǝya CHA gʷämanä EZH gʷǝmannä GYT gʷäwäñä ENM gowaña END gäwǝrä \[LGur 278\] | LGur 278 |  |
-| Amharic | gumarre \[K 1909\] (gämäre, gämar \[ibid.\]) | K 1909; ibid. | gloss withheld |
+| Amharic | gumarre \[K 1909\] (gämäre, gämar \[ibid.\]) | K 1909 | gloss withheld |
 | Harari | gumārre \[LHar 72\] | LHar 72 |  |
 | Tigrinya | gumare \[Bass. 820\] | Bass. 820 |  |
 

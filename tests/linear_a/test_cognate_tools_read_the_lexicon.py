@@ -9,8 +9,11 @@ import subprocess
 import sys
 from pathlib import Path
 
+import pytest
+
 ROOT = Path(__file__).resolve().parents[2]
 TOOLS = ROOT / "tools" / "linear_a"
+SHIPPED_LEXICON = ROOT / "data/linear-a/lexicon.json"
 SCRIPTS = ("cognate_search.py", "analyze.py", "context_search.py")
 
 CORPUS = {"HT1": {"site": "Haghia Triada", "transliteratedWords": ["KU-RO", "\n", "DA-RE", "10", "¹⁄₂"]},
@@ -89,8 +92,10 @@ def test_a_reading_without_a_value_prints_no_empty_slot():
     assert reading_text({"meaning": "figs", "confidence": "PROBABLE"}) == '"figs" (PROBABLE)'
 
 
+@pytest.mark.data
+@pytest.mark.skipif(not SHIPPED_LEXICON.exists(), reason="lexicon.json is not in this checkout")
 def test_cognate_search_gives_the_words_lexicon_reading_first():
-    entry = next(e for e in json.loads((ROOT / "data/linear-a/lexicon.json").read_text(encoding="utf-8"))["entries"]
+    entry = next(e for e in json.loads(SHIPPED_LEXICON.read_text(encoding="utf-8"))["entries"]
                  if e["word"] == "KU-RO")
     env = {**os.environ, "PYTHONDONTWRITEBYTECODE": "1"}
     env.pop("KAPHTOR_DATA", None)

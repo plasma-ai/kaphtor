@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ḳnm |
 | Meaning | 'to collect fodder' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1458 |
 
 ## Reflexes
 
@@ -36,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Proto-MSA \*ḳnm 'to feed' (SEDonline 1458). An ultimate connection with Proto-MSA \*ḳny 'to rear' is not unlikely (Kogan 2015:561 apud SEDonline 1458).
+Proto-MSA \*ḳnm 'to feed' (SEDonline 1458).
 
 <!-- END kaphtor:record -->

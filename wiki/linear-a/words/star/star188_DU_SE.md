@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star188_DU_SE
 title: "*188-DU-SE"
-desc: "Unread (edge overlap): no role; 1 occurrence(s)."
+desc: "Unread (unread): no role; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*188-DU-SE"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap).
+Status **unread** (nothing known).
 
 PSE Zb 1, a pithos shoulder fragment from Pseira (LM IB), broken at the right. Younger prints \*188-DU-SE\[ with DU and SE marked doubtful and reports Floyd's alternatives \*188-A-I\[ and \*188-WA-I, the second and third signs doubtful in each (Younger, Linear A Texts). Sole attestation. Not readable.
 

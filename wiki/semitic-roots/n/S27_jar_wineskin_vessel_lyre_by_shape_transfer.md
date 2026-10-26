@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nablu B, NA, reading uncertain (CAD N/1 27) | CAD N/1 27 | gloss withheld |
+| Akkadian | nablu B, NA (CAD N/1 27) | CAD N/1 27 | gloss withheld |
 | Ugaritic | nbl (?) (DULAT 609) | DULAT 609 | gloss withheld |
 | Punic | nbl (Krahmalkov 324); nbl nskt (T 209) | Krahmalkov 324; T 209 | gloss withheld |
 | Hebrew | nēbel (HALOT 664; 1 Sam 10:3, Isa 30:14) | HALOT 664 | gloss withheld |

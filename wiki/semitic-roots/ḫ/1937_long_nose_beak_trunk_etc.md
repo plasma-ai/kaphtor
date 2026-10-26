@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ḥarṭum(a) \[DM 127\] | DM 127 | gloss withheld |
 | Hebrew | PB ḥarṭōm 'nose, beak' \[Ja 501\] | Ja 501 |  |
 | Syrian Aramaic | ḥarṭūmā 'trunk (of an elephant)' \[Brock 256\] | Brock 256 |  |
-| Akkadian | ḫuṭṭimmu SB on \[CAD ḫ 265\] (assimilated form from \*ḫurṭimmu) | CAD ḫ 265 | gloss withheld |
-| Judaic Aramaic | ḥarṭūmā 'the knotted straps of the shoe' \[Ja. 501\] | Ja. 501 |  |
+| Akkadian | ḫuṭṭimmu SB on \[CAD ḫ 265\] | CAD ḫ 265 | gloss withheld |
+| Judaic Aramaic | Cf. ḥarṭūmā 'the knotted straps of the shoe' \[Ja. 501\] | Ja. 501 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | lwḥ (Aramaic Root Atlas; DNWSI 569 apud CAL) | Aramaic Root Atlas; DNWSI 569; CAL | gloss withheld |
+| Aramaic | lwḥ (Aramaic Root Atlas; DNWSI 569 apud CAL) | Aramaic Root Atlas; DNWSI 569; CAL; Anderson–Moser 2024 root lwḥ | gloss withheld |
 | Hebrew | luwaḥ 'board' | Anderson–Moser 2024 root lwḥ |  |
-| Punic | lḥ; lḥ (T 156) | T 156 | gloss withheld |
+| Punic | lḥ; lḥ (T 156) | T 156; Anderson–Moser 2024 root lwḥ | gloss withheld |
 | Ugaritic | lḥ 'missive' | Anderson–Moser 2024 root lwḥ |  |
 | Syrian Aramaic | lūḥā (HALOT 522) | HALOT 522 |  |
 | Mandaic Aramaic | lwhʾ (HALOT 523) | HALOT 523 |  |

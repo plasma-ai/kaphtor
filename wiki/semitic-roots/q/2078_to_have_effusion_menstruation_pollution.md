@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳrʔ 'to have one's period finished (said of a woman who has just had it)' \[BK 2 701\]; ḳarʔ-, ḳurʔ- 'women's menses, time when a woman has her period' \[ibid. 702\] | BK 2 701; ibid. 702 |  |
+| Arabic | ḳrʔ 'to have one's period finished (said of a woman who has just had it)' \[BK 2 701\]; ḳarʔ-, ḳurʔ- 'women's menses, time when a woman has her period' \[ibid. 702\] | BK 2 701; BK 702 |  |
 | Mandaic Aramaic | ḳiria, ḳ. ḏ-lilia \[DM 412\] | DM 412 | gloss withheld |
-| Gurage | (?) CHA EZHA yǝšta ḳar, GYE ǝʔǝšta ḳar \[LGur 697\] (also ENN ǝʔǝ̃šča aʔar, MUH yǝšǝttuʔe do. \[ibid.\]). | LGur 697; ibid. | gloss withheld |
+| Gurage | (?) CHA EZHA yǝšta ḳar, GYE ǝʔǝšta ḳar \[LGur 697\] (also ENN ǝʔǝ̃šča aʔar, MUH yǝšǝttuʔe \[ibid.\]). | LGur 697 | gloss withheld |
 | Hebrew | ḳǝrē laylā (HALOT 1138). | HALOT 1138 | gloss withheld |
 | Judaic Aramaic | ḳaryā 'pollution' \[Ja 1419\]. | Ja 1419 |  |
-| Syrian Aramaic | ḳeryat 'she had her menses' \[Brock 691\], ḳeryā dǝ-lelyā 'nocturnal emission' \[ibid.\] | Brock 691; ibid. |  |
+| Syrian Aramaic | ḳeryat 'she had her menses' \[Brock 691\], ḳeryā dǝ-lelyā 'nocturnal emission' \[ibid.\] | Brock 691 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

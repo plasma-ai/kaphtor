@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | wǝgnēt \[JM 424\] | JM 424 | gloss withheld |
 | Harsusi | wegnēt |  | gloss withheld |
 | Gurage | (?) ENN END GYE MASQ GOG g'in, MUH g'ǝn, SOD gin \[LGur 309\]. | LGur 309 | gloss withheld |
-| Jibbali | ɛ́gǝnt \[JJ 288\]; ōgǝn \[ibid.\] | JJ 288; ibid. | gloss withheld |
-| Syrian Aramaic | (?) gūnītā 'corner (of the eye)' \[Brock 125\], gūnǝyā 'corner' \[ibid.\]. | Brock 125; ibid. |  |
+| Jibbali | ɛ́gǝnt \[JJ 288\]; ōgǝn \[ibid.\] | JJ 288 | gloss withheld |
+| Syrian Aramaic | (?) gūnītā 'corner (of the eye)' \[Brock 125\], gūnǝyā 'corner' \[ibid.\]. | Brock 125 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

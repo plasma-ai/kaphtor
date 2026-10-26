@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | markab- 'ship, boat' (BK 1, 914) | BK 1, 914 |  |
 | Akkadian | narkabtu (CAD N/1 353) | CAD N/1 353 | gloss withheld |
-| Ugaritic | mrkbt (DULAT 568) \| mrkbt /markab(a)tu/ (Huehnergard 2012) | DULAT 568; Huehnergard 2012 | gloss withheld |
+| Ugaritic | mrkbt /markab(a)tu/ (DULAT 568; Huehnergard 2012) | DULAT 568; Huehnergard 2012 | gloss withheld |
 | Hebrew | merkābā (HALOT 636) | HALOT 636 | gloss withheld |
 | Aramaic | markabtā (OLA80 §63.4) | OLA80 §63.4 | gloss withheld |
 | Phoenician | mrkbt (T 199) | T 199 | gloss withheld |

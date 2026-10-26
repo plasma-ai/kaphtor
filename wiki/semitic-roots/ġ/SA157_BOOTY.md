@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ġnm (Biella 396; Sabaweb lemma 1231) | Biella 396; Sabaweb lemma 1231 | gloss withheld |
-| Arabic | Ar ġanima id. Ar ġnm h id. (Biella 396) | Biella 396 |  |
+| Arabic | Ar ġanima Ar ġnm h (Biella 396) | Biella 396 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

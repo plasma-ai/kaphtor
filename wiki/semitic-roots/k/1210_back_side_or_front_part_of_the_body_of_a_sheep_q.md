@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | kusʔ- 'the back, the rear part of a thing; the back of the head' \[BK 2 894\] | BK 2 894 |  |
 | Akkadian | kaskasu OB on \[CAD k 244\], \[AHw 454\]. | CAD k 244; AHw 454 | gloss withheld |
-| Tigre | kǝšwät \[LH 408\]; -š- must be a secondary development from \*s (&lt; SEM \*s {} \*c) | LH 408 | gloss withheld |
+| Tigre | kǝšwät \[LH 408\] | LH 408 | gloss withheld |
 | Amharic | kiskissa \[K 1410\] | K 1410 | gloss withheld |
 | Syrian Aramaic | kūskāsā 'cartilage; marrow-bone part' (Payne Smith 210) | Payne Smith 210 |  |
 

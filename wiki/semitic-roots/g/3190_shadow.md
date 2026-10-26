@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Jibbali | gɔ́fɛʾ (Kogan 2011, 196) | Kogan 2011, 196 |  |
+| Jibbali | gɔ́fɛʾ (Kogan 2011, 196) | Kogan 2011 196 |  |
 | Soqotri | éžfe (CSOL II 635 apud SEDonline 557) | SEDonline 557 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

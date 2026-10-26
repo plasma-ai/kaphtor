@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Punic | \*qbb: qbt (T 283) | T 283 | gloss withheld |
+| Punic | \*qbb: qbt (T 283) | T 283; Anderson–Moser 2024 root qbb | gloss withheld |
 | Hebrew | qābab (T 283) | T 283 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

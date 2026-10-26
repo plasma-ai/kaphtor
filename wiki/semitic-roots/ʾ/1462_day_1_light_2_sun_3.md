@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | urru 1, ūru 2 |  |  |
-| Ugaritic | ʔar- 2 \| ʾr; ảr (DULAT 91) | DULAT 91 | gloss withheld |
+| Ugaritic | ʾr; ảr 2 (DULAT 91) | DULAT 91; Anderson–Moser 2024 root ʾwr | gloss withheld |
 | East Ethiopic | Sel Wol ayr, Zw arīt |  | gloss withheld |
 | Geez | ʔer, ʔir |  | gloss withheld |
 | Gurage | Muh Msq Go aret, Cha eyat LGur 118 | LGur 118 | gloss withheld |

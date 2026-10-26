@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | nuɣar- 'nightingale; young of a sparrow/passerine' \[BK 2 1301\], nuɣarat- 'a kind of passerine with a red beak' \[ibid.\], \[LA V 223\]. | BK 2 1301; ibid.; LA V 223 |  |
+| Arabic | nuɣar- 'nightingale; young of a sparrow/passerine' \[BK 2 1301\], nuɣarat- 'a kind of passerine with a red beak' \[ibid.\], \[LA V 223\]. | BK 2 1301; LA V 223 |  |
 | Mehri | nǝɣɣōr \[JM 289\], naɣôr \[Jahn 216\]. | JM 289; Jahn 216 | gloss withheld |
-| Akkadian | nēru MB \[CAD n2 178\] | CAD n2 178; AHw. 780 | gloss withheld |
+| Akkadian | nēru MB \[CAD n2 178\] | CAD n2 178 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

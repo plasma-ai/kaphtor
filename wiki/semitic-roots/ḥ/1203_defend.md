@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1203_defend
 title: "*ḥimay-: 'defend'"
-desc: "Proto-Semitic *ḥimay-, 'defend': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḥimay-, 'defend': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1203"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥômāh (Biella 179); \*ḥmh (HALOT 326) | Biella 179; HALOT 326 | gloss withheld |
 | Phoenician | ḥmt (Krahmalkov 189) | Krahmalkov 189 | gloss withheld |
 | Ugaritic | ḥmt, pl. ḥmyt /ḥāmītu/ (UVST 125) | UVST 125 | gloss withheld |
+| Canaanite | EA ḫu!-mi-tu (Kogan 2015, ch. 5 §3.1 no. 35) | Kogan 2015 ch. 5 §3.1 no. 35 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ŝimlā (Kogan 2015, ch. 3 §5.2 no. 59) | Kogan 2015, ch. 3 §5.2 no. 59 | gloss withheld |
-| Aramaic | Off. šá-am-lat (Kogan 2015, ch. 3 §5.2 no. 59) | Kogan 2015, ch. 3 §5.2 no. 59 | gloss withheld |
-| Arabic | šamlat- (Kogan 2015, ch. 3 §5.2 no. 59) | Kogan 2015, ch. 3 §5.2 no. 59 | gloss withheld |
+| Hebrew | ŝimlā (Kogan 2015, ch. 3 §5.2 no. 59) | Kogan 2015 ch. 3 §5.2 no. 59 | gloss withheld |
+| Aramaic | Off. šá-am-lat (Kogan 2015, ch. 3 §5.2 no. 59) | Kogan 2015 ch. 3 §5.2 no. 59 | gloss withheld |
+| Arabic | šamlat- (Kogan 2015, ch. 3 §5.2 no. 59) | Kogan 2015 ch. 3 §5.2 no. 59 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

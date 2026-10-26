@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | kālāʔ (HALOT 475) | HALOT 475 | gloss withheld |
+| Hebrew | kālāʔ (HALOT 475); keleʾ; bêt keleʾ (HALOT 475) | HALOT 475 | gloss withheld |
 | Ugaritic | klʾ (HALOT 475) | HALOT 475 |  |
-| Akkadian | kalū (HALOT 475) | HALOT 475 |  |
+| Akkadian | kalū (HALOT 475); kīlu (killu) (CAD K 359); bīt kīli (CAD K 360); rab bīt kīli (CAD K 361) | HALOT 475; CAD K 359; CAD K 360; CAD K 361 | gloss withheld |
 | Arabic | kalaʾa (HALOT 475) | HALOT 475 |  |
 | Geez | kalʾa (LGz. 281) | LGz. 281 | gloss withheld |
 | Mandaic Aramaic | kla (LGz. 282) | LGz. 282 | gloss withheld |
@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Cf. 2555 \*kilʔ- 'both', another root. Soqotri kole 'turn away' (LGz. 282). MSA \*klʔ 'to turn back' (Mehri kəlū, Jibbali kélé) is of uncertain origin, probably connected with this root (SEDonline 1454).
+Cf. 2555 \*kilʔ- 'both', another root. Soqotri kole 'turn away' (LGz. 282). MSA \*klʔ 'to turn back' (Mehri kəlū, Jibbali kélé) is of uncertain origin, probably connected with this root (SEDonline 1454). Arabic kallāʾ is a loan from Akkadian makallû (HALOT 475).
 
 <!-- END kaphtor:record -->

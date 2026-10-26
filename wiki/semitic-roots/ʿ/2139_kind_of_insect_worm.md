@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | urbatu (rubatu) SB \[AHw. 1428\] | AHw. 1428; Holma WB 91; Landsberger Fauna 130 | gloss withheld |
+| Akkadian | urbatu (rubatu) SB \[AHw. 1428\] | AHw. 1428 | gloss withheld |
 | Hebrew | ʕārōb (HALOT 879); pB. \[Ja. 1114\] | HALOT 879; Ja. 1114 | gloss withheld |
-| Judaic Aramaic | ʕrbrwb \[DJPA 418b apud CAL\]. | DJPA 418b; CAL; Ja. 1112; Levy WT II 241 | gloss withheld |
+| Judaic Aramaic | ʕrbrwb \[DJPA 418b apud CAL\]. | DJPA 418b; CAL | gloss withheld |
 | Syrian Aramaic | ʕarrūbā 'gnats, mosquitoes' \[Brock. 546\] ('mixed abundance, a jumbled mass' in \[PS 2984\]). | Brock. 546; PS 2984 |  |
 | Aramaic | ʿᵃrūbā (HALOT 879) | HALOT 879 | gloss withheld |
 

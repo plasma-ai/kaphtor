@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | däbrä (LGz. 121) | LGz. 121 | gloss withheld |
 | Gurage | däbər (LGz. 121) | LGz. 121 | gloss withheld |
 | Amharic | däbər (LGz. 121) | LGz. 121 | gloss withheld |
-| Arabic | dabr- (Kogan 2015, ch. 2 §5.2.2.1 no. 6) | Kogan 2015, ch. 2 §5.2.2.1 no. 6 | gloss withheld |
+| Arabic | dabr- (Kogan 2015, ch. 2 §5.2.2.1 no. 6) | Kogan 2015 ch. 2 §5.2.2.1 no. 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

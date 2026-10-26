@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | nuḫrat-, nuḫarat-, minḫar- (a derived pattern) 'nostril, nose' \[BK 2 1220\] | BK 2 1220 |  |
+| Arabic | nuḫrat-, nuḫarat-, minḫar- 'nostril, nose' \[BK 2 1220\] | BK 2 1220 |  |
 | Mehri | nǝḫrīr \[JM 308\] | JM 308 | gloss withheld |
-| Soqotri | náḥrīr do. \[LS 265\], \[SSL LS 1468\]; NUBAN nɔ́ḥɔrah \[SSL 4 92\] | LS 265; SSL LS 1468; SSL 4 92 | gloss withheld |
+| Soqotri | náḥrīr \[LS 265\], \[SSL LS 1468\]; NUBAN nɔ́ḥɔrah \[SSL 4 92\] | LS 265; SSL LS 1468; SSL 4 92 | gloss withheld |
 | Akkadian | naḫīru OB on \[CAD n1 136\], \[AHw 714\] | CAD n1 136; AHw 714 | gloss withheld |
-| Harsusi | nḫerīr do. \[JH 99\] | JH 99 |  |
+| Harsusi | nḫerīr \[JH 99\] | JH 99 |  |
 | Mandaic Aramaic | nhira, anhira, ʕnhira \[DM 291\] | DM 291 | gloss withheld |
-| Modern Aramaic | MLḤS nḥiro \[J Mlah 184\] NASS naḫīra \[Tser 0138\] MMND neḫīra \[M MND 512\] | J Mlah 184; Tser 0138 | gloss withheld |
-| Jibbali | naḫrér do. \[JJ 199\] | JJ 199 |  |
+| Modern Aramaic | MLḤS nḥiro \[J Mlah 184\] NASS naḫīra \[Tser 0138\] MMND neḫīra \[M MND 512\] | J Mlah 184; Tser 0138; M MND 512 | gloss withheld |
+| Jibbali | naḫrér \[JJ 199\] | JJ 199 |  |
 | Hebrew | \*nǝḥīrayim (dual suff. nǝḥīrāw) (HALOT 686) | HALOT 686 | gloss withheld |
 | Judaic Aramaic | nǝḥīrā \[Ja 894\]; nḥwr, det. nwḥrh; nḥyr \[DJPA 346a apud CAL\] | Ja 894; DJPA 346a; CAL | gloss withheld |
 | Syrian Aramaic | nǝḥīrē (pl.) 'nares' \[Brock 424\] | Brock 424 |  |

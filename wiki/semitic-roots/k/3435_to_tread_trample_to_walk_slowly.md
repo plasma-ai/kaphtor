@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | kadīd- (Lane 2595 apud SEDonline 915); kdkd (Lane 2595 apud SEDonline 915) | Lane 2595; SEDonline 915; Lane 2595; SEDonline 915 | gloss withheld |
+| Arabic | kadīd- (Lane 2595 apud SEDonline 915); kdkd (Lane 2595 apud SEDonline 915) | Lane 2595; SEDonline 915 | gloss withheld |
 | Mehri | kdū (ML 203 apud SEDonline 915) | ML 203; SEDonline 915 | gloss withheld |
 | Jibbali | kédé (JL 126 apud SEDonline 915) | JL 126; SEDonline 915 | gloss withheld |
 | Geez | keda (CDG 301 apud SEDonline 914) | CDG 301; SEDonline 914 | gloss withheld |

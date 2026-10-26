@@ -32,12 +32,12 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḏwb \[-u-\] 3 (Lane 986) | Lane 986 |  |
 | Mehri | ḏeyōb 3 |  |  |
-| Akkadian | zâbu 1 (rare), 4, Zābu (HALOT 266) (otherwise &lt;\*zwb, cf. 1585) | HALOT 266 | gloss withheld |
+| Akkadian | zâbu 1 (rare), 4, Zābu (HALOT 266) | HALOT 266 | gloss withheld |
 | Harsusi | ḏeyōb 3 |  |  |
 | Mandaic Aramaic | dwb 1 (Drower/Macuch 103b apud CAL) | Macuch 103b; CAL |  |
 | Ugaritic | mdb 5 |  |  |
 | Jibbali | ḏɛ̄b 3 |  |  |
-| Hebrew | zwb 2 (otherwise &lt;\*zwb, cf. 1585) |  |  |
+| Hebrew | zwb 2 |  |  |
 | Judaic Aramaic | dwb 1 (DJPA 140b apud CAL) | DJPA 140b; CAL |  |
 | Syrian Aramaic | dwb 1 (Payne Smith 84) | Payne Smith 84 |  |
 | Epigraphic South Arabian | mḏb (HALOT 266; Sabaweb lemma 4056) | HALOT 266; Sabaweb lemma 4056 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/972_cavity_1_basin_tank_2
 title: "*gūr- 1 ~ *gurVn- 2: 'cavity' 1, 'basin, tank' 2"
-desc: "Proto-Semitic *gūr- 1 ~ *gurVn- 2, 'cavity' 1, 'basin, tank' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *gūr- 1 ~ *gurVn- 2, 'cavity' 1, 'basin, tank' 2: reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "972"
@@ -30,8 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | gūr-at- 1, gurn- 2 |  |  |
-| Hebrew | gōr 1 |  |  |
+| Arabic | gūr-at- 1, gurn- 2; gwr 1 (HALOT 185; HALOT 544) | HALOT 185; HALOT 544 | gloss withheld |
+| Hebrew | gōr 1; \*māgôr, mᵉgûrâ 1 (HALOT 544) | HALOT 544 | gloss withheld |
+| Epigraphic South Arabian | gwr 1 (HALOT 544) | HALOT 544 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

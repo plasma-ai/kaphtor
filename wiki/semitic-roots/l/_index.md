@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:09Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/l
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/l/1054_kill_1_to_fight_2_war_3|1054_kill_1_to_fight_2_war_3]]: Proto-Semitic *lVḥum-, 'kill' 1, 'to fight' 2, 'war' 3: reflexes in 6 language(s).
+[[wiki/semitic-roots/l/1054_kill_1_to_fight_2_war_3|1054_kill_1_to_fight_2_war_3]]: Proto-Semitic *lVḥum-, 'kill' 1, 'to fight' 2, 'war' 3: reflexes in 7 language(s).
 
 [[wiki/semitic-roots/l/1114_white_frankincense_storax|1114_white_frankincense_storax]]: Proto-Semitic *lVban-, 'white; frankincense; storax': reflexes in 15 language(s).
 
@@ -39,7 +39,7 @@ updated: 2026-10-25T06:28:09Z
 
 [[wiki/semitic-roots/l/1684_linger_tarry|1684_linger_tarry]]: Proto-Semitic *lVṯ-lVṯ-, 'linger, tarry': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/l/1685_flame_1_fever_2_burn_be_bright_2|1685_flame_1_fever_2_burn_be_bright_2]]: Proto-Semitic *lahab- ~ *lVhab-, 'flame' 1, 'fever' 2, 'burn, be bright' 2: reflexes in 13 language(s).
+[[wiki/semitic-roots/l/1685_flame_1_fever_2_burn_be_bright_3|1685_flame_1_fever_2_burn_be_bright_3]]: Proto-Semitic *lahab- ~ *lVhab-, 'flame' 1, 'fever' 2, 'burn, be bright' 3: reflexes in 14 language(s).
 
 [[wiki/semitic-roots/l/1686_swallow_eat_gobble_a_mouthful|1686_swallow_eat_gobble_a_mouthful]]: Proto-Semitic *lVḳam-, 'swallow, eat, gobble (a mouthful)': reflexes in 1 language(s).
 
@@ -111,7 +111,7 @@ updated: 2026-10-25T06:28:09Z
 
 [[wiki/semitic-roots/l/2924_head_of_large_cattle|2924_head_of_large_cattle]]: Proto-Semitic *liʾ(-at)-, *laʾay-at-, 'head of large cattle': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/l/2983_a_measure_of_capacity|2983_a_measure_of_capacity]]: Proto-Semitic *lVtḥ-, 'a measure of capacity': reflexes in 4 language(s).
+[[wiki/semitic-roots/l/2983_a_measure_of_capacity|2983_a_measure_of_capacity]]: Proto-Semitic *lVtk-, 'a measure of capacity': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/l/2995_Leviathan_primordial_sea_serpent_chaos_dragon|2995_Leviathan_primordial_sea_serpent_chaos_dragon]]: Proto-Semitic *liwyāṯān-, 'Leviathan (primordial sea-serpent; chaos dragon)': reflexes in 3 language(s).
 
@@ -129,19 +129,19 @@ updated: 2026-10-25T06:28:09Z
 
 [[wiki/semitic-roots/l/3240_if_only_would_that_1_indeed_certainly_2|3240_if_only_would_that_1_indeed_certainly_2]]: Proto-Semitic *law, 'if only, would that' 1, 'indeed, certainly' 2: reflexes in 7 language(s).
 
-[[wiki/semitic-roots/l/3374_to_bleat|3374_to_bleat]]: Proto-Semitic *lhy, 'to bleat': reflexes in 2 language(s).
+[[wiki/semitic-roots/l/3374_to_bleat|3374_to_bleat]]: Proto-Semitic *lhy, 'to bleat': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/l/3375_to_patch_leather|3375_to_patch_leather]]: Proto-Semitic *lkd, 'to patch leather': reflexes in 2 language(s).
+[[wiki/semitic-roots/l/3375_to_patch_leather|3375_to_patch_leather]]: Proto-Semitic *lkd, 'to patch leather': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/l/3376_jar_bottle|3376_jar_bottle]]: Proto-Semitic *lawḳ-at-, 'jar, bottle': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/l/3423_to_suck_to_suckle|3423_to_suck_to_suckle]]: Proto-Semitic *lʕb, 'to suck; to suckle': reflexes in 2 language(s).
+[[wiki/semitic-roots/l/3423_to_suck_to_suckle|3423_to_suck_to_suckle]]: Proto-Semitic *lʕb, 'to suck; to suckle': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/l/3424_to_touch|3424_to_touch]]: Proto-Semitic *lhm/lḥm, 'to touch': reflexes in 2 language(s).
+[[wiki/semitic-roots/l/3424_to_touch|3424_to_touch]]: Proto-Semitic *lhm/lḥm, 'to touch': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/l/3439_bridle|3439_bridle]]: Proto-Semitic *ligām-/*lugām-, 'bridle': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/l/398_twist_bend_1_turn_2|398_twist_bend_1_turn_2]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2: reflexes in 9 language(s).
+[[wiki/semitic-roots/l/398_twist_bend_1_turn_2_accompany_join_3|398_twist_bend_1_turn_2_accompany_join_3]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/l/553_strike|553_strike]]: Proto-Semitic *lVbaḫ-, 'strike': reflexes in 1 language(s).
 
@@ -167,11 +167,9 @@ updated: 2026-10-25T06:28:09Z
 
 [[wiki/semitic-roots/l/956_be_tired_1_be_slow_2|956_be_tired_1_be_slow_2]]: Proto-Semitic *lVʾay-, 'be tired' 1, 'be slow' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/l/K0116_to|K0116_to]]: Proto-Semitic *lV--, 'to': reflexes in 13 language(s).
+[[wiki/semitic-roots/l/K0116_to|K0116_to]]: Proto-Semitic *lV--, 'to': reflexes in 14 language(s).
 
 [[wiki/semitic-roots/l/K0119_play|K0119_play]]: Proto-Semitic *lVhVy-, 'play': reflexes in 5 language(s).
-
-[[wiki/semitic-roots/l/K0122_lick|K0122_lick]]: Proto-Semitic *laqaq-, 'lick': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/l/K0123_grow_late|K0123_grow_late]]: Proto-Semitic *laqaš-, 'grow-late': reflexes in 5 language(s).
 
@@ -179,7 +177,7 @@ updated: 2026-10-25T06:28:09Z
 
 [[wiki/semitic-roots/l/K0126_butter|K0126_butter]]: Proto-Semitic *lVsVd-, 'butter': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/l/K0127_run|K0127_run]]: Proto-Semitic *lasām-, 'run': reflexes in 2 language(s).
+[[wiki/semitic-roots/l/K0127_run|K0127_run]]: Proto-Semitic *lasām-, 'run': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/l/K0128_lodge|K0128_lodge]]: Proto-Semitic *luwn-, 'lodge': reflexes in 3 language(s).
 

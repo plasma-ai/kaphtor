@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ʾṯm (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015, ch. 3 §5.3 no. 1 | gloss withheld |
-| Hebrew | ʾšm (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015, ch. 3 §5.3 no. 1 | gloss withheld |
-| Arabic | ʾṯm, ʾiṯm-, ʾaṯām- (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015, ch. 3 §5.3 no. 1 | gloss withheld |
+| Ugaritic | ʾṯm (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015 ch. 3 §5.3 no. 1 | gloss withheld |
+| Hebrew | ʾšm (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015 ch. 3 §5.3 no. 1 | gloss withheld |
+| Arabic | ʾṯm, ʾiṯm-, ʾaṯām- (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015 ch. 3 §5.3 no. 1 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

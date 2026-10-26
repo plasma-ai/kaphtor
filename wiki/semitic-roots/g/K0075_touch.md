@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǧassa 'felt' (Lane 422) | Lane 422 |  |
-| Aramaic | GŠŠ (CAL s.v. gšš) | CAL s.v. gšš | gloss withheld |
+| Aramaic | GŠŠ (CAL s.v. gšš) | CAL s.v. gšš; Anderson–Moser 2024 root gss | gloss withheld |
 | Geez | gasasa 'touch' | Anderson–Moser 2024 root gss |  |
 | Hebrew | gašaš 'feel' | Anderson–Moser 2024 root gss |  |
 | Tigre | (tə)gasäsa (LGz. 204) | LGz. 204 | gloss withheld |

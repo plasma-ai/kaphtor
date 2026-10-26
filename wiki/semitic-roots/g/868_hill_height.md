@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | gbʕ |  |  |
 | Hebrew | gäbaʕ, gibʕā |  |  |
 | Amharic | guba |  |  |
-| Aramaic | gbʿ (Aramaic Root Atlas; CAL s.v. gbʿ#2) | Aramaic Root Atlas; CAL s.v. gbʿ#2 | gloss withheld |
+| Aramaic | gbʿ (Aramaic Root Atlas; CAL s.v. gbʿ#2) | Aramaic Root Atlas; CAL s.v. gbʿ#2; Anderson–Moser 2024 root gbʿ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

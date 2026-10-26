@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/K0876_that_of_she_who_feminine_demonstrative_relative
 title: "*ḏāt-: 'that of, she who' (feminine demonstrative/relative)"
-desc: "Proto-Semitic *ḏāt-, 'that of, she who' (feminine demonstrative/relative): reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḏāt-, 'that of, she who' (feminine demonstrative/relative): reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0876"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | ḏt (SD 37; Biella 99; Sabaweb lemma 1563; ASA, Hadramitic, Minaic, Qatabanic, Sabaic) | SD 37; Biella 99; Sabaweb lemma 1563 |  |
 | Hebrew | zōʾt (fem.) (HALOT 260) | HALOT 260 | gloss withheld |
+| Amorite | šāt (ša-at) (Gelb AS 21, 18) | Gelb AS 21 18 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | šyb 'to whiten, to become white, hoary', šayb-at- 'hoariness, white hair' \[BK 1 1294\] | BK 1 1294 |  |
 | Mehri | ŝyīb, ŝayb \[JM 391\] | JM 391 | gloss withheld |
 | Soqotri | ŝíbab (ŝaibib) \[LS 428\]. | LS 428 | gloss withheld |
-| Akkadian | šībtu Mari, SB \[CAD š2 386\], \[AHw 1228\], šâbu OA, OB on \[CAD š1 19\], \[AHw 1224\], šību OB on \[CAD š2 389\], \[AHw 1228\], šību OAkk on \[CAD š2 390\], \[AHw 1228\] | CAD š2 386; AHw 1228; CAD š1 19; AHw 1224; CAD š2 389; AHw 1228; CAD š2 390; AHw 1228 | gloss withheld |
+| Akkadian | šībtu Mari, SB \[CAD š2 386\], \[AHw 1228\], šâbu OA, OB on \[CAD š1 19\], \[AHw 1224\], šību OB on \[CAD š2 389\], \[AHw 1228\], šību OAkk on \[CAD š2 390\], \[AHw 1228\] | CAD š2 386; AHw 1228; CAD š1 19; AHw 1224; CAD š2 389; CAD š2 390 | gloss withheld |
 | Harsusi | ŝayb \[JH 123\] | JH 123 | gloss withheld |
 | Tigre | šäyäbä, šib, šibät \[LH 227\] | LH 227 | gloss withheld |
-| Mandaic Aramaic | SAB, SIB \[DM 308\], saba, sibato \[ibid. 324\] | DM 308; ibid. 324 | gloss withheld |
+| Mandaic Aramaic | SAB, SIB \[DM 308\], saba, sibato \[ibid. 324\] | DM 308; DM 324 | gloss withheld |
 | Ugaritic | šb, šbt \[Aist 300\] | Aist 300 | gloss withheld |
 | East Ethiopic | SEL šēbätä, WOL šebätä, ZWY šībätä, SEL WOL ZWY šǝbät \[LGur 572\] | LGur 572 | gloss withheld |
 | Harari | šibät \[LHar 144\] | LHar 144 | gloss withheld |
@@ -45,9 +45,9 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | eŝŝéb, ŝub \[JJ 259\] | JJ 259 | gloss withheld |
 | Hebrew | ŝyb, ŝēb, ŝēbā (HALOT 1318) | HALOT 1318 | gloss withheld |
 | Amharic | šǝbät \[K 638\] | K 638 | gloss withheld |
-| Judaic Aramaic | sǝʔēb, sā(ʔ)b 'to be old' \[Ja 947\] (-ʔ- is difficult to explain), sāb(ā) 'grey, old', sīb 'to be grey, old' \[ibid. 948\], sīb 'grey, old', sēb 'to be old', sēbā 'old age' \[ibid. 974\]; sēbǝtā 'grey color, grey hair; eldership' \[ibid. 975\] | Ja 947; ibid. 948; ibid. 974; ibid. 975 |  |
+| Judaic Aramaic | sǝʔēb, sā(ʔ)b 'to be old' \[Ja 947\], sāb(ā) 'grey, old', sīb 'to be grey, old' \[ibid. 948\], sīb 'grey, old', sēb 'to be old', sēbā 'old age' \[ibid. 974\]; sēbǝtā 'grey color, grey hair; eldership' \[ibid. 975\] | Ja 947; Ja 948; Ja 974; Ja 975 |  |
 | Syrian Aramaic | sābā 'old man', sābǝtā 'old woman', saybātā (pl.) 'white hair' \[Brock 469\] | Brock 469 |  |
-| Aramaic | OFF šb \[HJ 1099\], PLM sybw \[ibid. 784\] | HJ 1099; ibid. 784 | gloss withheld |
+| Aramaic | OFF šb \[HJ 1099\], PLM sybw \[ibid. 784\] | HJ 1099; HJ 784 | gloss withheld |
 | Biblical Aramaic | ŝābē (pl. constr.), ŝābayyā (det.) 'grey-head; elder' (BDB 1114) | BDB 1114 |  |
 | Tigrinya | säyyäbä, šäyyäbä 'to turn grey(-haired)', šǝbät 'greying (of hair)' \[Bass 237\] | Bass 237 |  |
 | Eblaitic | si-bù-um /šībum/ (VE 108) | VE 108 |  |

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | adn (DULAT 19) | DULAT 19 | gloss withheld |
 | Phoenician | ʔdn (DNWSI 15 apud SEDonline 207) | DNWSI 15; SEDonline 207 | gloss withheld |
 | Hebrew | ʔādōn (HALOT 12) | HALOT 12 | gloss withheld |
-| Punic | ʾdn; ʾdn, ʿdn, ʾn, dn, ʾddn, ʿdʾn, ḥdn (T 5) | T 5 | gloss withheld |
+| Punic | ʾdn; ʾdn, ʿdn, ʾn, dn, ʾddn, ʿdʾn, ḥdn (T 5) | T 5; Anderson–Moser 2024 root ʾdn | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

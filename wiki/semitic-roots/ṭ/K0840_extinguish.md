@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṭafiʔa (Leslau CDG 587) | Leslau CDG 587 | gloss withheld |
 | Geez | ṭafʾa 'extinguished' | Anderson–Moser 2024 root ṭpʾ |  |
 | Jibbali | ṭefe (LGz. 587) | LGz. 587 |  |
-| Syrian Aramaic | (Pal.) ṭəfā (LGz. 587) | LGz. 587 |  |
+| Aramaic | CPArm. ṭəfā (LGz. 587) | LGz. 587 |  |
 | Tigre | ṭäfʾa (LGz. 588) | LGz. 588 | gloss withheld |
 | Tigrinya | ṭäfʾe (LGz. 588) | LGz. 588 |  |
 | Harari | ṭäfaʾa (LGz. 588) | LGz. 588 | gloss withheld |

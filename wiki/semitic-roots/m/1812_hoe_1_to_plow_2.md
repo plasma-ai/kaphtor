@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | marr- 'iron shovel' (BK 2, 1083) | BK 2, 1083 |  |
-| Akkadian | marru OB on, mayāru SB on (CAD M/1 120; AHw 587) | CAD M/1 287; AHw 612; CAD M/1 120; AHw 587 | gloss withheld |
-| Gurage | \*mirämärä (LGur. 422; redupl.) | LGur. 422 | gloss withheld |
+| Akkadian | marru OB on (CAD M/1 287; AHw 612), mayāru SB on (CAD M/1 120; AHw 587) | CAD M/1 287; AHw 612; CAD M/1 120; AHw 587 | gloss withheld |
+| Gurage | \*mirämärä (LGur. 422) | LGur. 422 | gloss withheld |
 | Amharic | märämmärä |  | gloss withheld |
 | Syrian Aramaic | marrā, maʔrā 'hoe, iron shovel or mattock' (Brock. 400) | Brock. 400 |  |
 

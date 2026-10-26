@@ -44,7 +44,7 @@ Standalone arm only: after a commodity sign and before a numeral (HT12 wool, HT2
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/star/star118_MI\|\*118-MI]] | ṭami | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Dasiṭa | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqa-\*118 | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118\|QA-\*118]] | qaṭṭ(u) | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |

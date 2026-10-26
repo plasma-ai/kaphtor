@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*hdr |
 | Meaning | 'to honour, respect' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2094 |
 
 ## Reflexes
 

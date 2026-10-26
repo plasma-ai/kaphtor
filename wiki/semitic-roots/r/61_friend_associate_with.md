@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | rūʔu |  | gloss withheld |
-| Hebrew | rēaʕ \| rʕy II (HALOT 1262) | HALOT 1262 | gloss withheld |
+| Hebrew | rēaʕ; rʕy II (HALOT 1262) | HALOT 1262 | gloss withheld |
 | Geez | raʿawa 'yoke' | Anderson–Moser 2024 root rʿ |  |
 | Ugaritic | rʿ (CUC; DULAT 715) | CUC; DULAT 715 | gloss withheld |
 | Aramaic | rʿh, rʿyn (HALOT 1253) | HALOT 1253 |  |

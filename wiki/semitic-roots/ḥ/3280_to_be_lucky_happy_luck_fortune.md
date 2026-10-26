@@ -30,8 +30,8 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | ḥṯ̣t (DUL 383 apud SEDonline 1560) | DUL 383; SEDonline 1560 | gloss withheld |
-| Arabic | ḥaḏ̣ḏ̣- (Lane 595 apud SEDonline 1560); ḥḏ̣y (Lane 595 apud SEDonline 1560) | Lane 595; SEDonline 1560; Lane 595; SEDonline 1560 | gloss withheld |
-| Epigraphic South Arabian | Sab. ḥṯ̣y (SD 75 apud SEDonline 1560); Sab. yḥtṯ̣yw (SD 75 apud SEDonline 1560); Min. ḥṯ̣y (ML 51 apud SEDonline 1560); Min. ḥṯ̣y (ML 51 apud SEDonline 1560) | SD 75; SEDonline 1560; SD 75; SEDonline 1560; ML 51; SEDonline 1560; ML 51; SEDonline 1560 | gloss withheld |
+| Arabic | ḥaḏ̣ḏ̣- (Lane 595 apud SEDonline 1560); ḥḏ̣y (Lane 595 apud SEDonline 1560) | Lane 595; SEDonline 1560 | gloss withheld |
+| Epigraphic South Arabian | Sab. ḥṯ̣y (SD 75 apud SEDonline 1560); Sab. yḥtṯ̣yw (SD 75 apud SEDonline 1560); Min. ḥṯ̣y (ML 51 apud SEDonline 1560) | SD 75; SEDonline 1560; ML 51 | gloss withheld |
 | Mehri | ḥəḏ̣ (ML 167 apud SEDonline 1560) | ML 167; SEDonline 1560 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -25,7 +25,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | rūmatā + -SE | (men) of the Height, the -SE form of RU-MA-TA, 3 | CANDIDATE |
 
 ## Onomasticon
 

@@ -34,14 +34,14 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ʔáywer (yāwōr) \[JM 37\] | JM 37 | gloss withheld |
 | Soqotri | ʕér \[LS 303\] | LS 303 | gloss withheld |
 | Akkadian | (?) tūrtu OB on \[AHw 1373\]. | AHw 1373 | gloss withheld |
-| Harsusi | ʔáwer (yāwōr) do. \[JH 12\] | JH 12 |  |
+| Harsusi | ʔáwer (yāwōr) \[JH 12\] | JH 12 |  |
 | Tigre | ʕorä \[LH 477\] | LH 477 | gloss withheld |
-| Mandaic Aramaic | ʕuira \[DM 343\] (cf. ʕbira \[ibid. 340\]) | DM 343; ibid. 340 | gloss withheld |
+| Mandaic Aramaic | ʕuira \[DM 343\] (cf. ʕbira \[ibid. 340\]) | DM 343; DM 340 | gloss withheld |
 | Ugaritic | ʕwr \[DULAT 192\] | DULAT 192 | gloss withheld |
 | East Ethiopic | SEL ūr \[LGur 83\] | LGur 83 | gloss withheld |
 | Geez | ʕora (-u-) \[LGz 79\]. | LGz 79 | gloss withheld |
 | Gurage | MUH GOG (t)awwärä \[ibid. 114\]. |  | gloss withheld |
-| Jibbali | ʕēr (yaʕbɔ́r) \[JJ 19\] (-b- &lt; \*-w-) | JJ 19 | gloss withheld |
+| Jibbali | ʕēr (yaʕbɔ́r) \[JJ 19\] | JJ 19 | gloss withheld |
 | Hebrew | ʕiwwēr (n.) (HALOT 803), ʕiwwēr (piʕ) (HALOT 802) | HALOT 803; HALOT 802 | gloss withheld |
 | Amharic | awwärä \[K 1267\] | K 1267 | gloss withheld |
 | Judaic Aramaic | ʕăwīr, ʕawwīr 'blind (n.)' \[Ja 1049\]; ʕawwēr (paʕ) 'to blind' \[Ja 1058\] | Ja 1049; Ja 1058 |  |

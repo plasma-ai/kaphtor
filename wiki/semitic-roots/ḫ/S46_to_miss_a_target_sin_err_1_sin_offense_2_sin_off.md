@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/ḫ/S46_to_miss_a_target_sin_err_1_sin_offense_2_sin_off
-title: "*ḫṭʾ-: 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3"
-desc: "Proto-Semitic *ḫṭʾ-, 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3: reflexes in 10 language(s)."
+title: "*ḫṭʾ-: 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4"
+desc: "Proto-Semitic *ḫṭʾ-, 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S46"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *ḫṭʾ-: 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3
+# *ḫṭʾ-: 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4
 
 [[wiki/semitic-roots/ḫ/_index|..]]
 
@@ -22,20 +22,21 @@ updated: 2026-10-22T17:38:31Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*ḫṭʾ- |
-| Meaning | 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3 |
+| Meaning | 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4 |
 | Basis | project |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḫaṭû (CAD Ḫ, 156); ḫiṭītu | CAD Ḫ, 156 | gloss withheld |
+| Akkadian | ḫaṭû (CAD Ḫ 156); ḫiṭītu; ḫaṭṭiʾu 4 (CAD Ḫ 153); ḫāṭû 4 (CAD Ḫ 159) | CAD Ḫ 156; CAD Ḫ 153; CAD Ḫ 159 | gloss withheld |
 | Ugaritic | ḫṭʾ (DULAT 410); ḫṭʾt (KTU 1.40:18); ḫṭʾ in ritual atonement texts | DULAT 410; KTU 1.40:18 | gloss withheld |
+| Hebrew | ḥāṭāʾ; ḥēṭʾ; ḥaṭṭāʾt; ḥaṭṭāʾ 4 (HALOT 306) | HALOT 306 | gloss withheld |
 | Epigraphic South Arabian | Sab ḫṭʾ (SD 63; Sabaweb lemma 1676) | SD 63; Sabaweb lemma 1676 | gloss withheld |
 | Geez | ḫaṭʾa (HALOT 305) | HALOT 305 | gloss withheld |
 | Soqotri | ḥaṭaʾ (LGz. 268) | LGz. 268 | gloss withheld |
 | Aramaic | ḥăṭā(ʾ), ḥăṭī (LGz. 268) | LGz. 268 |  |
-| Syrian Aramaic | ḥəṭā(ʾ) (LGz. 268) | LGz. 268 |  |
+| Syrian Aramaic | ḥəṭā(ʾ) 1 (LGz. 268; Payne Smith 137); ḥaṭṭāyā 4 (Payne Smith 138) | LGz. 268; Payne Smith 137; Payne Smith 138 | gloss withheld |
 | Mandaic Aramaic | hṭa (LGz. 268) | LGz. 268 | gloss withheld |
 | Amorite | ḫṭʾ: jiḫṭaʾ (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḫṭʾ (Al-Jallad–Jaworska 82) | Al-Jallad–Jaworska 82 | gloss withheld |

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | maḏād 'a place where beasts pasture at pleasure' (Lane 988) | Lane 988 |  |
-| Epigraphic South Arabian | Sab. ḏwd (SD 40); (Biella 92) | SD 40; Biella 92 | gloss withheld |
+| Epigraphic South Arabian | Sab. ḏwd (SD 40) (Biella 92) | SD 40; Biella 92 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*glw |
 | Meaning | 'to be ill' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 454 |
 
 ## Reflexes
 

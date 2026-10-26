@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/l/2983_a_measure_of_capacity
-title: "*lVtḥ-: 'a measure of capacity'"
-desc: "Proto-Semitic *lVtḥ-, 'a measure of capacity': reflexes in 4 language(s)."
+title: "*lVtk-: 'a measure of capacity'"
+desc: "Proto-Semitic *lVtk-, 'a measure of capacity': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2983"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *lVtḥ-: 'a measure of capacity'
+# *lVtk-: 'a measure of capacity'
 
 [[wiki/semitic-roots/l/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*lVtḥ- |
+| Reconstruction | \*lVtk- |
 | Meaning | 'a measure of capacity' |
 | Basis | project |
 
@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 537 s.v. לֶתֶךְ 'measure of capacity' compares Hebrew lētek and Akkadian litiktu.
+HALOT 537 s.v. לֶתֶךְ 'measure of capacity' compares Hebrew lētek and Akkadian litiktu. Ugaritic ltḥ has ḥ against k elsewhere.
 
 <!-- END kaphtor:record -->

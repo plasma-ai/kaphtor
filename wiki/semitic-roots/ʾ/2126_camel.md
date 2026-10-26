@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔibl-, ʔibil- 'camels, breed of camels' \[BK 1 5\], \[Lane 8\], \[LA XI 3\] (cf. \[Hommel 139ff.\]). | BK 1 5; Lane 8; LA XI 3; Hommel 139ff |  |
+| Arabic | ʔibl-, ʔibil- 'camels, breed of camels' \[BK 1 5\], \[Lane 8\], \[LA XI 3\]. | BK 1 5; Lane 8; LA XI 3 |  |
 | Mehri | ḥǝ-ybīt \[JM 2\]. | JM 2 | gloss withheld |
-| Harsusi | ḥǝ-ybīt id. \[JH 1\]. | JH 1 |  |
+| Harsusi | ḥǝ-ybīt \[JH 1\]. | JH 1 |  |
 | Jibbali | yǝt \[JJ 1\]. | JJ 1 | gloss withheld |
-| Epigraphic South Arabian | Sab. ʔbl (f. ʔblt) \[SD 1; Sabaweb lemmas 2923, 7438\] // Qat. ʔbl \[Ricks 3\], ʔblt \[ibid.\] | SD 1; Sabaweb lemmas 2923, 7438; Ricks 3; ibid.; Sima 11ff; Frantsouzoff 2003 255 | gloss withheld |
+| Epigraphic South Arabian | Sab. ʔbl (f. ʔblt) \[SD 1; Sabaweb lemmas 2923, 7438\] // Qat. ʔbl \[Ricks 3\], ʔblt \[ibid.\] | SD 1; Sabaweb lemmas 2923, 7438; Ricks 3 | gloss withheld |
 | Syrian Aramaic | ʔebbālətā (SED II 4) | SED II 4 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾbl (Al-Jallad–Jaworska 38) | Al-Jallad–Jaworska 38 | gloss withheld |
 | Soqotri | tebil (Biella 2) | Biella 2 |  |

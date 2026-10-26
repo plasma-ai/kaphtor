@@ -46,5 +46,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | CANDIDATE |
 | [[wiki/linear-a/words/J/JE_DI\|JE-DI]] | yedī | CANDIDATE |
 | [[wiki/linear-a/words/J/JE_TA_NA\|JE-TA-NA]] | Yatana | PROBABLE |
+| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 
 <!-- END kaphtor:record -->

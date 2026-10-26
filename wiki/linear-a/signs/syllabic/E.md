@@ -45,11 +45,14 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |
 | [[wiki/linear-a/words/E/E\|E]] | ḥemʾat | CANDIDATE |
 | [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | naḥāši | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SI_E\|JA-SI-E]] | yašīʿ-ē | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_E\|PA₃-E]] | bē | CANDIDATE |
+| [[wiki/linear-a/words/P/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | SPECULATIVE |
+| [[wiki/linear-a/words/R/RO_E\|RO-E]] | rōʿē | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Huffmon APNM 215 sets the root as \*yṯʿ. HALOT 448 compares Arabic and OSArb. wsʿ, whose s does not answer to \*ṯ.
+Huffmon APNM 215 sets the root as \*yṯʿ. HALOT 448 compares Arabic and OSArb. wsʿ (3584 \*wšʕ 'to be ample'), whose s does not answer to \*ṯ.
 
 <!-- END kaphtor:record -->

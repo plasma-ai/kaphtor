@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | yll (hif.) (HALOT 413; LGz. 623); yᵉlēl, yᵉlālā (HALOT 413) | HALOT 413; LGz. 623; HALOT 413 | gloss withheld |
+| Hebrew | yll (hif.) (HALOT 413; LGz. 623); yᵉlēl, yᵉlālā (HALOT 413) | HALOT 413; LGz. 623 | gloss withheld |
 | Judaic Aramaic | yll (pa.) (HALOT 413) | HALOT 413 |  |
 | Syrian Aramaic | (ʾa)ylel (LGz. 623) | LGz. 623 |  |
 | Arabic | walwala (HALOT 413; LGz. 623) | HALOT 413; LGz. 623 | gloss withheld |

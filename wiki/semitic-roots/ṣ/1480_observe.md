@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ṣubbû (CAD Ṣ 226) | CAD Ṣ 226 | gloss withheld |
-| Aramaic | ṢPY (Aramaic Root Atlas; CAL s.v. ṣpy) | Aramaic Root Atlas; CAL s.v. ṣpy | gloss withheld |
+| Aramaic | ṢPY (Aramaic Root Atlas; CAL s.v. ṣpy) | Aramaic Root Atlas; CAL s.v. ṣpy; Anderson–Moser 2024 root ṣpy | gloss withheld |
 | Hebrew | ṣāpâ (HALOT 1044) | HALOT 1044 | gloss withheld |
-| Punic | ṣpy (Krahmalkov 419) | Krahmalkov 419 | gloss withheld |
+| Punic | ṣpy (Krahmalkov 419) | Krahmalkov 419; Anderson–Moser 2024 root ṣpy | gloss withheld |
 | Judaic Aramaic | ṣpʾ (HALOT 1044) | HALOT 1044 | gloss withheld |
 | Ugaritic | ṣp (HALOT 1044) | HALOT 1044 | gloss withheld |
 | Phoenician | ṣp (Krahmalkov 418) | Krahmalkov 418 | gloss withheld |
@@ -41,6 +41,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-D stirpes in Akk
+Akkadian ṣubbû is a D-stem.
 
 <!-- END kaphtor:record -->

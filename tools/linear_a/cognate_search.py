@@ -202,7 +202,7 @@ def load_greek_roots() -> list[dict[str, Any]]:
 
 
 def load_hebrew_roots() -> list[dict[str, Any]]:
-    """Load Hebrew contact lexicon JSONL (STEPBible TBESH + Open Scriptures BDB)."""
+    """Load Hebrew contact lexicon JSONL (STEPBible TBESH + BDB, Eliran Wong's unabridged digitization)."""
     path = CONTACT_DATA /"hebrew_lexicon.jsonl"
     if not path.exists():
         return []
@@ -724,7 +724,7 @@ def _search_south_arabian_multi(
 
 
 def load_akkadian_roots() -> list[dict[str, Any]]:
-    """Load the Akkadian contact files: the Anchor Bible lexicon and the CAD headwords.
+    """Load the Akkadian contact files: the Akkadian lexicon and, when present, the CAD headwords.
 
     Single words only: phrases, ghost words and hypothetical headwords are left out.
     """
@@ -2215,7 +2215,7 @@ def _run() -> None:
     parser.add_argument("--greek", "--include-greek", action="store_true",
                         help="Include Ancient Greek lexicon in search (LSJ 9th ed., Logeion TEI; 117K entries)")
     parser.add_argument("--hebrew", "--include-hebrew", action="store_true",
-                        help="Include Hebrew contact lexicon in search (STEPBible TBESH + Open Scriptures BDB; 8.7K entries)")
+                        help="Include Hebrew contact lexicon in search (STEPBible TBESH + BDB; 8.7K entries)")
     parser.add_argument("--aramaic", "--include-aramaic", action="store_true",
                         help="Include Aramaic contact lexicon in search (Aramaic Root Atlas; 1.6K entries)")
     parser.add_argument("--geez", "--include-geez", action="store_true",

@@ -23,7 +23,8 @@ updated: 2026-10-24T15:25:56Z
 |---|---|
 | Reconstruction | \*wṣ̂ḥ |
 | Meaning | 'to feel pain' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1998 |
 
 ## Reflexes
 
@@ -31,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 |---|---|---|---|
 | Geez | waṣ̂ṣ̂əḫa (CDG 606 apud SEDonline 1998) | CDG 606; SEDonline 1998 | gloss withheld |
 | Jibbali | éẓ̂aḥ (JL 296 apud SEDonline 1998) | JL 296; SEDonline 1998 | gloss withheld |
-| Soqotri | éẓ̂aḥ (LS 70–71; SLOnline 3183) | LS 70–71 | gloss withheld |
+| Soqotri | éẓ̂aḥ (LS 70–71; SLOnline 3183) | LS 70–71; SLOnline 3183 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dimāɣ- 'brain, cerebrum' \[BK 1 733\]; dmɣ 'to strike on the head to the point of reaching the brain' \[ibid.\]. Cf. dmḫ 'to break the head' \[ibid. 730\] and dammaḥa 'to tilt the head' \[ibid.\]. | BK 1 733; ibid.; ibid. 730; ibid. |  |
+| Arabic | dimāɣ- 'brain, cerebrum' \[BK 1 733\]; dmɣ 'to strike on the head to the point of reaching the brain' \[ibid.\]. Cf. dmḫ 'to break the head' \[ibid. 730\] and dammaḥa 'to tilt the head' \[ibid.\]. | BK 1 733; BK 730 |  |
 | East Ethiopic | SEL dum, WOL dumi \[LGur 207\] | LGur 207 | gloss withheld |
 | Geez | dǝmāḥ, dǝmāḫ, dǝmāh \[LGz 134\]. | LGz 134 | gloss withheld |
 | Argobba | dǝmah \[LArg. 198\] | LArg. 198 | gloss withheld |

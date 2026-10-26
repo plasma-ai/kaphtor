@@ -51,6 +51,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star306_TA_JE\|\*306-TA-JE]] | ʿaṭāye | CANDIDATE |
 | [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | CANDIDATE |
+| [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | PROBABLE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | CANDIDATE |
@@ -88,9 +89,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_KA_TA\|RI-KA-TA]] | Likata | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_TA\|SA-TA]] | Šata | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_JU_TA\|SU-JU-TA]] | sulta | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
+| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt(ē) | CANDIDATE |
@@ -98,6 +102,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NI_KA\|TA-NI-KA]] | Taʿnaku | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_PA\|TA-PA]] | tappāʾu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_RA\|TA-RA]] | ṯa(ġ)ra | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | tati | CANDIDATE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |

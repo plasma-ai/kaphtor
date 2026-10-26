@@ -36,7 +36,7 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | lᵉbēnā (HALOT 518) | HALOT 518 | gloss withheld |
 | Aramaic | EgArm. lbnh (HALOT 518) | HALOT 518 |  |
 | Syrian Aramaic | lᵉbentā, lᵉbettā (HALOT 518) | HALOT 518 |  |
-| Epigraphic South Arabian | lbn, lbt (HALOT 518) | HALOT 518 |  |
+| Epigraphic South Arabian | lbn, lbt (HALOT 518); lbt (Sabaweb lemma 4501) | HALOT 518; Sabaweb lemma 4501 | gloss withheld |
 | Arabic | labin, labnat (Hava 676 apud DULAT 487) | Hava 676; DULAT 487 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

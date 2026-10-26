@@ -36,4 +36,8 @@ updated: 2026-10-25T05:11:48Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Amh. hedä 'to walk, go' (AED 26) stands in 3435 \*kd 'to tread, trample; to walk (slowly)' (SEDonline 914).
+
 <!-- END kaphtor:record -->

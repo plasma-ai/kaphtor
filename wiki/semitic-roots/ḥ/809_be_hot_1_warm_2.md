@@ -34,15 +34,15 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | emēmu 1, emmu 2 |  |  |
 | Hebrew | ḥam 2 |  |  |
 | Syrian Aramaic | ḥam 1 |  |  |
-| Aramaic | ḤMM (Aramaic Root Atlas; DNWSI 381 apud CAL) | Aramaic Root Atlas; DNWSI 381; CAL | gloss withheld |
+| Aramaic | ḤMM (Aramaic Root Atlas; DNWSI 381 apud CAL) | Aramaic Root Atlas; DNWSI 381; CAL; Anderson–Moser 2024 root ḥmm | gloss withheld |
 | Phoenician | ḥmm (HALOT 325) | HALOT 325 |  |
 | Judaic Aramaic | ḥūmᵉtā (HALOT 326) | HALOT 326 | gloss withheld |
-| Eblaitic | a-PI-mu ʾà-mu-tum, ma-wu ʾà-mu-tum (Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30) | Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30 |  |
+| Eblaitic | a-PI-mu ʾà-mu-tum, ma-wu ʾà-mu-tum (Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30) | Kogan 2011 195; VE 637, 777; Krebernik 1983, 25, 30 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-PES \*ḥmm 'to be ill' (Gez. ḥamama, Tgr. ḥammä, Tna. ḥamämä, Amh. ammämä-w, t-ammämä) is derived from PS \*ḥmm 'to be hot' (Kogan 2015, ch. 7 §4.1 no. 5).
+PES \*ḥmm 'to be ill' (Gez. ḥamama, Tgr. ḥammä, Tna. ḥamämä, Amh. ammämä-w, t-ammämä) is derived from PS \*ḥmm 'to be hot' (Kogan 2015, ch. 7 §4.1 no. 5). Arabic ḥamma 'became black by heat', ḥumam 'charcoal, ashes' (Lane 635–636); Geez ḥəmmat 'soot, charcoal, blackness' and Jibbali ḥum(m) 'charcoal' (LGz. 235).
 
 <!-- END kaphtor:record -->

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | dânu; dayyānu; dīnu (Leslau CDG 146) | Leslau CDG 146 | gloss withheld |
 | Ugaritic | dn (DULAT 272); dn (DULAT 273); tdn (KTU 1.17 vi 33); ydn (KTU 1.16 vi 33–45) | DULAT 272; DULAT 273; KTU 1.17 vi 33; KTU 1.16 vi 33–45 | gloss withheld |
 | Hebrew | dīn; dāyān; dīn (Leslau CDG 146) | Leslau CDG 146 | gloss withheld |
-| Epigraphic South Arabian | dyn (HALOT 220); (Sabaweb lemma 5648) | HALOT 220; Sabaweb lemma 5648 | gloss withheld |
+| Epigraphic South Arabian | dyn (HALOT 220) (Sabaweb lemma 5648) | HALOT 220; Sabaweb lemma 5648 | gloss withheld |
 | Geez | dayyana, dayyāni (n.) (LGz. 146); dānaya, danaya, dānāyi (n.) (LGz. 139) | LGz. 146; LGz. 139 | gloss withheld |
 | Amharic | dännäyä (LGz. 139); daňňä, daňňa (n.) (LGz. 146) | LGz. 139; LGz. 146 | gloss withheld |
 | Tigrinya | däyyänä, danäyä, dayna, daňňa (LGz. 139, 146) | LGz. 139, 146 | gloss withheld |

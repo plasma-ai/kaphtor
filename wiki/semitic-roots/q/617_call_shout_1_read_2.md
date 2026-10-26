@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/617_call_shout_1_read_2
 title: "*ḳVrVʾ-: 'call, shout' 1, 'read' 2"
-desc: "Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 12 language(s)."
+desc: "Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "617"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qārāʾ; miqrāʾ; qāriʾ |  | gloss withheld |
 | Aramaic | qrʔ 1 |  |  |
 | Epigraphic South Arabian | Sab qrʾ (Biella 465; Sabaweb lemma 4773) | Biella 465; Sabaweb lemma 4773 | gloss withheld |
+| Punic | qrʾ 'read' | Anderson–Moser 2024 root qrʾ |  |
 | Syrian Aramaic | qərāʾ (HALOT 1128) | HALOT 1128 |  |
 | Mandaic Aramaic | QRA (HALOT 1128) | HALOT 1128 |  |
 | Tigre | qarʾa (HALOT 1128) | HALOT 1128 |  |

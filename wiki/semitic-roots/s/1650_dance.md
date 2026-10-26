@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | sâru |  |  |
+| Akkadian | sâru (CAD S 190) | CAD S 190 | gloss withheld |
 | Hebrew | swr (HSED 391) | HSED 391 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

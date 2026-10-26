@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | rimm- 'anything that is moist; moist soil' BK 1 920 | BK 1 920 |  |
-| Mehri | ráwrǝm- |  | gloss withheld |
-| Soqotri | rǝ́nhǝm |  | gloss withheld |
+| Mehri | ráwrǝm- (Kogan 2015, ch. 8 §3.4.1 no. 95) | Kogan 2015 ch. 8 §3.4.1 no. 95 | gloss withheld |
+| Soqotri | rǝ́nhǝm (Kogan 2015, ch. 8 §3.4.1 no. 95) | Kogan 2015 ch. 8 §3.4.1 no. 95 | gloss withheld |
 | Geez | ? rmm LGz 471 | LGz 471 | gloss withheld |
 | Jibbali | rɛ́mnɛm/rónǝm, E. rɛ́mrɛm JJ 214 | JJ 214 | gloss withheld |
 

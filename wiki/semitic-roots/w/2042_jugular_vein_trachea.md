@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | warīd- 'vein; jugular vein (on each side of the neck)' \[BK 2 1519\]; warīzat- | BK 2 1519 |  |
-| Akkadian | urʔudu (ḫurḫudu) OB on \[AHw 1436\]; mušērittu | AHw 1436 | gloss withheld |
-| Tigre | wärid \[LH 436\], warid \[ibid., apud Munz\]. | LH 436; ibid. | gloss withheld |
+| Akkadian | urʔudu (ḫurḫudu) OB on \[AHw 1436\]; mušērittu (CAD M/2 267) | AHw 1436; CAD M/2 267 | gloss withheld |
+| Tigre | wärid \[LH 436\], warid \[ibid., apud Munz\]. | LH 436 | gloss withheld |
 | Hebrew | PB wārīd 'the large blood vessel, jugular vein' \[Ja 375\] | Ja 375 |  |
 | Modern Aramaic | NASS varīda \[Tser 067\] AZRB awurda \[Garb 298\] | Tser 067; Garb 298 | gloss withheld |
 | Syrian Aramaic | warrīdā 'artery; nerve/sinew' \[Brock 186\] | Brock 186 |  |

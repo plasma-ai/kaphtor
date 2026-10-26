@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | karse LH 399 | LH 399 | gloss withheld |
 | Geez | kʷarāzi (LGz. 295); makraz =amh. šǝgr (from ši-ǝgǝr) (LGz. 341) | LGz. 295; LGz. 341 | gloss withheld |
 | Hebrew | PB karsäpät 'a species of locusts ' \[Ja 672\] | Ja 672 |  |
-| Judaic Aramaic | kǝrāzā \[Ja 665\]; karzǝbā, karzubbā a species of locusts \[Ja 665\]; krzb \[DJPA 269a apud CAL\] | Ja 665; Ja 665; DJPA 269a; CAL | gloss withheld |
+| Judaic Aramaic | kǝrāzā \[Ja 665\]; krzb \[DJPA 269a apud CAL\] | Ja 665; DJPA 269a; CAL | gloss withheld |
 | Akkadian | kurṣiptu (kurṣibtu) (SED II 164) | SED II 164 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

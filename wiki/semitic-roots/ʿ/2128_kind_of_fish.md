@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Soqotri | ʕāba \[NP 52\], ʕába \[ibid. 53\]. | NP 52; ibid. 53 | gloss withheld |
-| Akkadian | abūtu OB on \[CAD a1 93\], \[AHw. 9\] | CAD a1 93; AHw. 9; Salonen Fischerei 150; AHw.; CAD a1 48; Salonen 1970 149 | gloss withheld |
+| Soqotri | ʕāba \[NP 52\], ʕába \[ibid. 53\]. | NP 52; NP 53 | gloss withheld |
+| Akkadian | abūtu OB on \[CAD a1 93\], \[AHw. 9\] | CAD a1 93; AHw. 9 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

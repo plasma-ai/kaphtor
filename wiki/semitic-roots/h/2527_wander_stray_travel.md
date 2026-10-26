@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | hmy 'to wander here and there, to wander aimlessly (said of a flock)' BK 2 1450; yahmāʔ- 'desert without any sign by which a traveler can orient himself and where he easily perishes' ibid. 1637 | BK 2 1450 |  |
 | Mandaic Aramaic | himun DM 145 | DM 145 | gloss withheld |
-| Gurage | Cha, Eža Msq ema, Gye ayma LGur 41 | LGur 41; LGaf 218; LGur 441 | gloss withheld |
+| Gurage | Cha, Eža Msq ema, Gye ayma LGur 41 | LGur 41 | gloss withheld |
 | Gafat | (?) mäyä, mäyäñña LGaf 218 | LGaf 218 | gloss withheld |
 | Argobba | hema, hǝyǝma, hemäñña |  | gloss withheld |
 
@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Syrian Aramaic (?) hāmān- 'hell' DRS 422 (&lt;Hbr hāmōn; nth. in common!).
+Syrian Aramaic hāmān- (DRS 422) is from Hebrew hāmōn and does not belong here.
 
 <!-- END kaphtor:record -->

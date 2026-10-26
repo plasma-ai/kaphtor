@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*bʕr |
 | Meaning | 'to go by night' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 440 |
 
 ## Reflexes
 

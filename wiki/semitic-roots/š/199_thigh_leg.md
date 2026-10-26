@@ -36,8 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | šaḳa \[DM 445\] | DM 445 | gloss withheld |
 | Ugaritic | šḳ \[Gordon 488\]. | Gordon 488 | gloss withheld |
 | Biblical Aramaic | šāḳṓhī (du. suff.) 'thigh' (BDB 1114) | BDB 1114 |  |
-| Modern Arabic | Malt siʔ &lt;\*siḳ |  | gloss withheld |
-| Modern Aramaic | MLH čoḳo \[J Mlah 171\] MMND šāḳa \[M MND 509\] | J Mlah 171 | gloss withheld |
+| Modern Arabic | Malt siʔ |  | gloss withheld |
+| Modern Aramaic | MLH čoḳo \[J Mlah 171\] MMND šāḳa \[M MND 509\] | J Mlah 171; M MND 509 | gloss withheld |
 | Hebrew | šōḳ (HALOT 1448, 1449) | HALOT 1448, 1449 | gloss withheld |
 | Judaic Aramaic | šāḳā, šaḳḳā, šōḳā \[Ja 1620\]; \[DJPA 564b apud CAL\] | Ja 1620; DJPA 564b; CAL | gloss withheld |
 | Syrian Aramaic | šāḳā 'femur, crus' \[Brock 765\] | Brock 765 |  |

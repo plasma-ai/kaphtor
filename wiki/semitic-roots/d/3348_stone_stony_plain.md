@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3348_stone_stony_plain
 title: "*daʕn-: 'stone, stony plain'"
-desc: "Proto-Semitic *daʕn-, 'stone, stony plain': reflexes in 2 language(s)."
+desc: "Proto-Semitic *daʕn-, 'stone, stony plain': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3348"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*daʕn- |
 | Meaning | 'stone, stony plain' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 445 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | dɛ̄n (ML 62 apud SEDonline 445) | ML 62; SEDonline 445 | gloss withheld |
 | Jibbali | daˁn (JL 33 apud SEDonline 445) | JL 33; SEDonline 445 | gloss withheld |
+| Soqotri | dáʿan (Kogan 2015, ch. 8 §3.4.1 no. 19) | Kogan 2015 ch. 8 §3.4.1 no. 19 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kamʾatu (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Arabic | kamʾat- (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Judaic Aramaic | JPA kmhh (Kogan 2011, 202) | Kogan 2011, 202 |  |
+| Akkadian | kamʾatu (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Arabic | kamʾat- (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Judaic Aramaic | JPA kmhh (Kogan 2011, 202) | Kogan 2011 202 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

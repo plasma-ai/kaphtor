@@ -57,7 +57,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2\|ARKH2]] | Arkhanes | Tablet | none |
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2\|ARKH2]] | Arkhanes | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | Arkhanes | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH5\|ARKH5]] | Arkhanes | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Zakros | Tablet | incomplete |
@@ -66,6 +66,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2\|ARKH2]] | tirōšu | must, new wine (logogram), 5 | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | TIRŌŠU | must/new wine | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH5\|ARKH5]] | TIRŌŠU | must | SPECULATIVE |
 

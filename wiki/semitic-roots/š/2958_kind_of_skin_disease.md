@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*šaʕ(a)p- {} \*saʕ(a)p- |
 | Meaning | 'kind of skin disease' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II additions to SED I |
 
 ## Reflexes
 
@@ -34,9 +35,5 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | šaʕfɔ́t (SED II 334) | SED II 334 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-SED II, additions to SED I (unnumbered). Arb. šaʕaf- 'a disease that makes she-camels lose their lashes' is a possible variant root with š. Cf. Ethiopic \*šf(f): Amh. šəffəta, Har. šəfti, WOL šəfto, ZWY šufutu, Tna. šuf bälä (SED II 334).
 
 <!-- END kaphtor:record -->

@@ -29,15 +29,15 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šubultu (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Ugaritic | šblt (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Hebrew | šibbōlät (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Syrian Aramaic | šeblā (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Arabic | sabalat-, sunbulat- (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Epigraphic South Arabian | Sab s₁blt (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Geez | sabl (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Mehri | səbəlēt (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Soqotri | seboléh (Kogan 2011, 201) | Kogan 2011, 201 |  |
+| Akkadian | šubultu (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Ugaritic | šblt (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Hebrew | šibbōlät (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Syrian Aramaic | šeblā (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Arabic | sabalat-, sunbulat- (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Epigraphic South Arabian | Sab s₁blt (Kogan 2011, 201; Sabaweb lemma 4981) | Kogan 2011 201; Sabaweb lemma 4981 | gloss withheld |
+| Geez | sabl (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Mehri | səbəlēt (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Soqotri | seboléh (Kogan 2011, 201) | Kogan 2011 201 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǧaʕaḏ̣- 'that acts fussy, hard to satisfy in food' \[BK 1 300\]. | BK 1 300 |  |
-| Amharic | gʷaggʷäṭä \[K 2058\] (partial reduplication) | K 2058 | gloss withheld |
+| Amharic | gʷaggʷäṭä \[K 2058\] | K 2058 | gloss withheld |
 | Syrian Aramaic | gǝʕaṭ 'he/she vomited' \[Brock 127\] | Brock 127 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ʾṬM (Qumran 7 apud CAL) | CAL | gloss withheld |
+| Aramaic | ʾṬM (Qumran 7 apud CAL) | CAL; Anderson–Moser 2024 root ʾṭm | gloss withheld |
 | Hebrew | ʾaṭam 'shut' | Anderson–Moser 2024 root ʾṭm |  |
 | Ugaritic | ʾṭm 'stop' | Anderson–Moser 2024 root ʾṭm |  |
 | Arabic | ʾaṭama (HALOT 37) | HALOT 37 | gloss withheld |

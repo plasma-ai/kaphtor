@@ -72,6 +72,6 @@ di Mino
 
 ### Note
 
-HT 8a, a recipient of KI-oil ¼ between QA-\*310-I and KI-RE-TA-NA, in the list with TE-\*301 Tēnā 'Fig'. Mari Sa-ki-rum and the woman's name Sa-ki-ra, under \*škr 'hire, reward, favor' (Huffmon, APNM 245–46). Rival: šēkār 'strong drink'. A-SI-KI-RA (KH 20) is a separate word. One witness.
+HT 8a, a recipient of KI-oil ¼ between QA-\*310-I and KI-RE-TA-NA, in the list with TE-\*301 Tēnā 'Fig'. Mari Sa-ki-rum and the woman's name Sa-ki-ra, under \*škr 'hire, reward, favor' (Huffmon, APNM 245–46). Rival: šēkār 'strong drink'. A-SI-KI-RA (KH 20) is the same name with the article ha-. One witness.
 
 <!-- END kaphtor:record -->

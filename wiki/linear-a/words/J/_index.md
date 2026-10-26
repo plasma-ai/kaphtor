@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:39Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/J
@@ -11,7 +11,7 @@ updated: 2026-10-25T05:42:39Z
 
 [[wiki/linear-a/words/J/JA_DA_SU|JA_DA_SU]]: yadaʿšu: personal name, 'he knew him'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/J/JA_DI|JA_DI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/J/JA_DI|JA_DI]]: Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_DI_KI_TU|JA_DI_KI_TU]]: yā Diqqitu: O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu). Lexicon, PROBABLE (tier 3).
 

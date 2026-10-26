@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | wbl 2; wabl- |  | gloss withheld |
+| Arabic | wbl 2, wabala (HALOT 541); wabl- | HALOT 541 | gloss withheld |
 | Hebrew | yūbal 1; yābāl |  | gloss withheld |
 | Judaic Aramaic | yablā 1 |  |  |
 | Syrian Aramaic | yablā 1; yibel 'stream; couch-grass' (Payne Smith 185) | Payne Smith 185 |  |

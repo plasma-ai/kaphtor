@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/PH/PH/PH2
 title: "PH2"
-desc: "Tablet, Phaistos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Phaistos. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PH2"
 site: "Phaistos"
 support: "Tablet"
 period: ""
-translation: "none"
-words: []
+translation: "incomplete"
+words: ["A-SE-TU-*21F", "PI-RU-E-JU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -55,5 +55,30 @@ Unicode (Linear A block):
 𐘈𐘞𐘰𐄕
 𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> Aštuḫḫa 1; RA-O-DI-KI 60; Pirʾu-ʾēlu 60; SE-SA-PA₃ 60 \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | Female (Hurrian personal name), 1; rival the line as a heading, 'female (ones)' | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] |  | personal name (unread), 60 |  | unread |
+| [[wiki/linear-a/words/P/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | personal name, 'Offspring of El', 60; rival 'Fruit of El' | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/S/SE_SA_PA3\|SE-SA-PA₃]] |  | personal name (unread), 60 |  | unread |
+
+### Notes
+
+Four entries, SE-SA-PA₃ the last before the break (GORILA I 288–289). Three take 60 each.
+
+### Source
+
+- di Mino: A-SE-TU-\*21F, PI-RU-E-JU
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/A/A_SE_TU_star21F|A-SE-TU-\*21F]], [[wiki/linear-a/words/P/PI_RU_E_JU|PI-RU-E-JU]].
 
 <!-- END kaphtor:record -->

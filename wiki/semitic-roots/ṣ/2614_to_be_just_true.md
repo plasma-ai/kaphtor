@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ṣadqa, ṣaddaqa (HALOT 1003) | HALOT 1003 |  |
 | Judaic Aramaic | ṣidqā, ṣidqətā (HALOT 1004, 1006) | HALOT 1004, 1006 |  |
 | Aramaic | ṣdq, ṣdyq, zdqt\[ʾ\], zdqʾ, ṣdqh, ṣdqtʾ (HALOT 1001, 1004, 1006; DNWSI 963 apud CAL) | HALOT 1001, 1004, 1006; DNWSI 963; CAL |  |
-| Mandaic Aramaic | zadiq(a), ṣadiq(a), zidqa (HALOT 1001, 1004; Drower/Macuch 157a apud CAL; Drower/Macuch 165b apud CAL) | HALOT 1001, 1004; Macuch 157a; CAL; Macuch 165b; CAL |  |
+| Mandaic Aramaic | zadiq(a), ṣadiq(a), zidqa (HALOT 1001, 1004; Drower/Macuch 157a apud CAL; Drower/Macuch 165b apud CAL) | HALOT 1001, 1004; Macuch 157a; CAL; Macuch 165b |  |
 | Arabic | ṣadaqa (BK 1, 1322; HALOT 1003); ṣadīq (HALOT 1002) | BK 1, 1322; HALOT 1003; HALOT 1002 | gloss withheld |
 | Biblical Aramaic | ṣidqā (HALOT 1006) | HALOT 1006 |  |
 | Mehri | ṣādəq, ṣadiq (LGz. 548) | LGz. 548 | gloss withheld |

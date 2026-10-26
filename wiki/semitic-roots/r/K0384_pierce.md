@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | raṣaʕa (HALOT 1284) | HALOT 1284 | gloss withheld |
-| Aramaic | RṢʿ (C) 'to bore through' (Ja. 1494) | Ja. 1494 |  |
+| Aramaic | RṢʿ (C) 'to bore through' (Ja. 1494) | Ja. 1494; Anderson–Moser 2024 root rṣʿ |  |
 | Hebrew | raṣaʿ 'bore' | Anderson–Moser 2024 root rṣʿ |  |
 | Akkadian | raṣāʾu (HALOT 1284) | HALOT 1284 |  |
 

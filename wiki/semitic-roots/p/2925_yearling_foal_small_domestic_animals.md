@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*pVlw/y- |
 | Meaning | 'yearling foal, small domestic animals' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II No. 174 |
 
 ## Reflexes
 
@@ -31,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | filw-, faluww-, fuluww- (SED II 230) | SED II 230 |  |
 | Tigre | fəlit, fəluy (SED II 230) | SED II 230 |  |
-| Soqotri | fólhi, (SED II 230); fóľhi (SLOnline 3703) | SED II 230 | gloss withheld |
+| Soqotri | fólhi (SED II 230); fóľhi (SLOnline 3703) | SED II 230; SLOnline 3703 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

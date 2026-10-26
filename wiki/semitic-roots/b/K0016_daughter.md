@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | bat 'daughter' | Anderson–Moser 2024 root bnt |  |
 | Punic | bt 'daughter' | Anderson–Moser 2024 root bnt |  |
 | Ugaritic | bt 'daughter' | Anderson–Moser 2024 root bnt |  |
-| Syrian Aramaic | bnātā (Kogan 2011, 234) | Kogan 2011, 234 | gloss withheld |
-| Mehri | ḥə-bántən (Kogan 2011, 235) | Kogan 2011, 235 | gloss withheld |
+| Syrian Aramaic | bnātā (Kogan 2011, 234) | Kogan 2011 234 | gloss withheld |
+| Mehri | ḥə-bántən (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

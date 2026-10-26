@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | PḤD (Qumran 190 apud CAL) | CAL | gloss withheld |
-| Hebrew | paḥad 'fear' (BDB 808) | BDB 808 |  |
+| Aramaic | PḤD (Qumran 190 apud CAL) | CAL; Anderson–Moser 2024 root pḥd | gloss withheld |
+| Hebrew | paḥad 'fear' (BDB 808) | BDB 808; Anderson–Moser 2024 root pḥd |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

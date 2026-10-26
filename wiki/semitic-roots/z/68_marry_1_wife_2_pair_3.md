@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-From 1453: Generally believed to be a Gk loanword. OLA80 §35.4c: zawğ is used as the numeral 'two' in Maghrebine Arabic.
+OLA80 §35.4c: zawğ is used as the numeral 'two' in Maghrebine Arabic.
 
 <!-- END kaphtor:record -->

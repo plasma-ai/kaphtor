@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/K0877_he_who_that_which_masculine_demonstrative_relati
 title: "*ḏī-: 'he who, that which' (masculine demonstrative/relative)"
-desc: "Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 14 language(s)."
+desc: "Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0877"
@@ -34,7 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | d, ḏ (HALOT 1365) | HALOT 1365 |  |
 | Biblical Aramaic | dī (HALOT 1365) | HALOT 1365 |  |
 | Mehri | ḏe, de (LGz. 629) | LGz. 629 |  |
-| Soqotri | di (LGz. 629) | LGz. 629 |  |
+| Soqotri | di (LGz. 629); deʰ (LS 62, 120, 127, 131, 229; SLOnline 821) | LGz. 629; LS 62, 120, 127, 131, 229; SLOnline 821 | gloss withheld |
+| Geez | za 'who' | Anderson–Moser 2024 root ḏ- |  |
 | Hebrew | zū, zẹ (LGz. 629) | LGz. 629 |  |
 | Aramaic | d, dī, zī (LGz. 629) | LGz. 629 |  |
 | Tigrinya | zə (LGz. 629) | LGz. 629 |  |

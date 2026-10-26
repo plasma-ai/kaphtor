@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ṭâpu 'twist' | Anderson–Moser 2024 root ṭwp |  |
 | Arabic | ṭāfa 'went' | Anderson–Moser 2024 root ṭwp |  |
-| Aramaic | ṬWP (Aramaic Root Atlas; CAL s.v. ṭwp#2) | Aramaic Root Atlas; CAL s.v. ṭwp#2 | gloss withheld |
+| Aramaic | ṬWP Dt (Aramaic Root Atlas; CAL s.v. ṭwp#2) | Aramaic Root Atlas; CAL s.v. ṭwp#2; Anderson–Moser 2024 root ṭwp | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

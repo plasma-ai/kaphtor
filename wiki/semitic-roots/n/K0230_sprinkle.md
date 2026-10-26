@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | NDY (CAL s.v. ndy) | CAL s.v. ndy | gloss withheld |
+| Aramaic | NDY (CAL s.v. ndy) | CAL s.v. ndy; Anderson–Moser 2024 root nḏy | gloss withheld |
 | Hebrew | nazah 'spurt' | Anderson–Moser 2024 root nḏy |  |
 | Syrian Aramaic | ndy (HALOT 683; Payne Smith 328) | HALOT 683; Payne Smith 328 |  |
 | Judaic Aramaic | ndy (HALOT 683; DJPA 341b apud CAL) | HALOT 683; DJPA 341b; CAL |  |

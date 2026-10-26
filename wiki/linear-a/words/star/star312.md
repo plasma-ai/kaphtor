@@ -61,7 +61,7 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT38\|HT38]] | Haghia Triada | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | Arkhanes | Tablet | complete |
@@ -75,6 +75,7 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | KITNU | flax/linen | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | kitnu | flax, linen, 1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | kitnu(?) | flax or linen(?) | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | knr (DNWSI 520 apud CAL) | DNWSI 520; CAL | gloss withheld |
+| Aramaic | knr (DNWSI 520 apud CAL) | DNWSI 520; CAL; Anderson–Moser 2024 root knr | gloss withheld |
 | Hebrew | kinnowr 'lyre' | Anderson–Moser 2024 root knr |  |
 | Ugaritic | knr 'harp' | Anderson–Moser 2024 root knr |  |
 | Akkadian | kinnāru (HALOT 484) | HALOT 484 |  |

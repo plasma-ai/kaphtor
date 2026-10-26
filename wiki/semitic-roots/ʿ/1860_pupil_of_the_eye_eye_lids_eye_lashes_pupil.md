@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕafāʔ- 'white spot in the pupil of the eye' \[BK 2 304\]; ɣufāt- 'white spot that appears on the pupil of the eye' \[ibid. 486\] | BK 2 304; ibid. 486 |  |
+| Arabic | ʕafāʔ- 'white spot in the pupil of the eye' \[BK 2 304\]; ɣufāt- 'white spot that appears on the pupil of the eye' \[ibid. 486\] | BK 2 304; BK 486 |  |
 | Eblaitic | (?) íb-íb-ba-tum (equated to SUM SIG7.GI.ZI ?) \[DULAT 170\] | DULAT 170 | gloss withheld |
 | Ugaritic | ʕpʕp \[DULAT 170\] | DULAT 170 | gloss withheld |
 | Hebrew | ʕapʕappayim (dual) (HALOT 861); PB \[Ja 1100\]. | HALOT 861; Ja 1100 | gloss withheld |

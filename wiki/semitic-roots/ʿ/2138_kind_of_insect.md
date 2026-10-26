@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕirḍ- 'swarm of grasshoppers' \[BK 2 220\], \[TA Bayrūt V 46\]. | BK 2 220 |  |
-| Tigre | ʕarṣat, ʕarṣätit (also ʕarṣetet) \[LH 463\] (also ʔarṣat \[ibid. 361\]). | LH 463; ibid. 361 | gloss withheld |
+| Tigre | ʕarṣat, ʕarṣätit (also ʕarṣetet) \[LH 463\] (also ʔarṣat \[ibid. 361\]). | LH 463; LH 361 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

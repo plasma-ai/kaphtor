@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | śārad 'survive', śārīd 'survivor' (Aramaic Root Atlas 0769) | Aramaic Root Atlas 0769 |  |
-| Arabic | šarada 'flee', šarīd 'fugitive' (Aramaic Root Atlas 0769) | Aramaic Root Atlas 0769 |  |
-| Syrian Aramaic | sərad (HALOT 1353) | HALOT 1353 |  |
+| Arabic | šarada 'flee' (Aramaic Root Atlas 0769), 'he took fright, shied, and fled, ran away at random' (Lane 1531); šarīd 'fugitive' (Aramaic Root Atlas 0769) | Aramaic Root Atlas 0769; Lane 1531 |  |
+| Syrian Aramaic | srad (Payne Smith 389), pe., pa. (HALOT 1353); surādā (Payne Smith 370) | Payne Smith 389; HALOT 1353; Payne Smith 370 | gloss withheld |
 | Mandaic Aramaic | SRD (HALOT 1353) | HALOT 1353 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

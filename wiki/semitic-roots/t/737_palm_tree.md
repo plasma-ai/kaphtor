@@ -36,10 +36,10 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | tamrā, tumrā (HALOT 1756); tamrā (Jastrow 1679) | HALOT 1756; Jastrow 1679 | gloss withheld |
 | Syrian Aramaic | tᵉmartā (HALOT 1756) | HALOT 1756 |  |
 | Mandaic Aramaic | tumarta (HALOT 1756) | HALOT 1756 |  |
-| Epigraphic South Arabian | Sab. tmr (HALOT 1756; Sabaweb lemma 3074) | HALOT 1756; Sabaweb lemma 3074 | gloss withheld |
+| Epigraphic South Arabian | Sab. tmr (HALOT 1756; Sabaweb lemma 3074); ʾtmr (Sabaweb lemma 8545) | HALOT 1756; Sabaweb lemma 3074; Sabaweb lemma 8545 | gloss withheld |
 | Soqotri | timreh (LGz. 576) | LGz. 576 |  |
-| Mehri | tōmər (Kogan 2011, 204) | Kogan 2011, 204 | gloss withheld |
-| Jibbali | təmrɛ́t (Kogan 2011, 204) | Kogan 2011, 204 | gloss withheld |
+| Mehri | tōmər (Kogan 2011, 204) | Kogan 2011 204 | gloss withheld |
+| Jibbali | təmrɛ́t (Kogan 2011, 204) | Kogan 2011 204 | gloss withheld |
 | Ugaritic | \[ta\]-ma-ru (HALOT 1756) | HALOT 1756 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

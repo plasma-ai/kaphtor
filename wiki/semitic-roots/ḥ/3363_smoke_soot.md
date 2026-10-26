@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ḥilaḳ- |
 | Meaning | 'smoke, soot' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 469 |
 
 ## Reflexes
 
@@ -31,7 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ḥīlōḳ (ML 178 apud SEDonline 469) | ML 178; SEDonline 469 | gloss withheld |
 | Jibbali | ḥálɔ́ḳ (JL 110 apud SEDonline 469) | JL 110; SEDonline 469 | gloss withheld |
-| Soqotri | ḥíľaḳ (Kogan 2015:485, 557; Naumkin et al. 2013a:74 apud SEDonline 469) | Kogan 2015:485, 557; SEDonline 469 | gloss withheld |
+| Soqotri | ḥíľaḳ (Kogan 2015:485, 557; Naumkin et al. 2013a:74 apud SEDonline 469) | Kogan 2015 485, 557; SEDonline 469 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

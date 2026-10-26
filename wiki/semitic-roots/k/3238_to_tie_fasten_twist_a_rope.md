@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | karaba (HALOT 459), (LGz. 290) | HALOT 459; LGz. 290 | gloss withheld |
+| Arabic | karaba (HALOT 459) (LGz. 290) | HALOT 459; LGz. 290 | gloss withheld |
 | Geez | karaba (LGz. 290) | LGz. 290 | gloss withheld |
 | Tigre | karba (HALOT 459; LGz. 290) | HALOT 459; LGz. 290 | gloss withheld |
 | Amharic | kärräbä (LGz. 290) | LGz. 290 | gloss withheld |

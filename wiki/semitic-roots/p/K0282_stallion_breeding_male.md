@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Aramaic | pḥl 'stallion' | Anderson–Moser 2024 root pḥl |  |
-| Arabic | faḥl- (Kogan 2011, 219) | Kogan 2011, 219 | gloss withheld |
+| Arabic | faḥl- (Kogan 2011, 219) | Kogan 2011 219 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

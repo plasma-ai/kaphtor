@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | banû 1, 2 |  |  |
 | Mandaic Aramaic | bna 1 |  |  |
 | Ugaritic | bny, bnw 1 |  |  |
-| Phoenician | bny 1; bny (T 49) | T 49 | gloss withheld |
+| Phoenician | bny 1 (T 49) | T 49 | gloss withheld |
 | Jibbali | bené 1 |  |  |
 | Hebrew | bny 1 |  |  |
 | Epigraphic South Arabian | bny 1; Sab bny (SD 29, 30; Biella 48; Sabaweb lemma 3947) | SD 29, 30; Biella 48; Sabaweb lemma 3947 | gloss withheld |
@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | bnʾ, bʿn, bʾn (T 49) | T 49 | gloss withheld |
 | Syrian Aramaic | bnā 'build; edify, restore, exhort' (Payne Smith 48) | Payne Smith 48 |  |
 | Pre-Islamic North Arabian | Safaitic bny (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
-| Canaanite | Amm. bnh (DNWSI 174 apud SEDonline 1128); Moab bnh (DNWSI 174 apud SEDonline 1128) | DNWSI 174; SEDonline 1128; DNWSI 174; SEDonline 1128 | gloss withheld |
+| Canaanite | Amm. bnh (DNWSI 174 apud SEDonline 1128); Moab bnh (DNWSI 174 apud SEDonline 1128) | DNWSI 174; SEDonline 1128 | gloss withheld |
 | Judaic Aramaic | benaʾ (T 49) | T 49 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

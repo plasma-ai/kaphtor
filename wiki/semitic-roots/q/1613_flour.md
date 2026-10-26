@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | qamḥ |  |  |
 | Hebrew | qemaḥ |  |  |
 | Syrian Aramaic | qemḥo (Payne Smith 508) | Payne Smith 508 |  |
-| Aramaic | qmḥ (Aramaic Root Atlas; DNWSI 1013 apud CAL) | Aramaic Root Atlas; DNWSI 1013; CAL | gloss withheld |
+| Aramaic | qmḥ (Aramaic Root Atlas; DNWSI 1013 apud CAL) | Aramaic Root Atlas; DNWSI 1013; CAL; Anderson–Moser 2024 root qmḥ | gloss withheld |
 | Ugaritic | qmḥ 'flour' | Anderson–Moser 2024 root qmḥ |  |
 | Tigre | ḳəḥəm (WTS 236 apud SEDonline 1067) | WTS 236; SEDonline 1067 | gloss withheld |
 | Eblaitic | ḳá-ma-u₉, ḳá-ma-um (Sum. MA₈) (VE 169; Krebernik 1983: 6 apud SEDonline 1067); /qamāḥum/ (Krebernik 1983, 6) | VE 169; Krebernik 1983: 6; SEDonline 1067; Krebernik 1983, 6 | gloss withheld |

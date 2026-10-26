@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | itḳu (SED I 14) | SED I 14 | gloss withheld |
-| Syrian Aramaic | ʕedḳətā, pl. ʕedḳē; ʕetḳē id. (SED I 14) | SED I 14 | gloss withheld |
+| Syrian Aramaic | ʕedḳətā, pl. ʕedḳē; ʕetḳē (SED I 14) | SED I 14 | gloss withheld |
 | Mandaic Aramaic | ʕdḳa (SED I 14) | SED I 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

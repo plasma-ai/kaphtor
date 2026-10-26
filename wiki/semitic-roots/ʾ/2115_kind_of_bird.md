@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | anpatu SB \[CAD a2 143\], \[AHw. 54\] | CAD a2 143; AHw. 54 | gloss withheld |
 | Hebrew | ʔănāpā (HALOT 72) | HALOT 72 | gloss withheld |
-| Syrian Aramaic | ʔanpā 'bird' \[Brock. 30\], \[PS 277\] (comprehensive discussion). | Brock. 30; PS 277 |  |
-| Aramaic | D.-Alla ʔnph \[HJ 84\] | HJ 84; Hackett 29, 48 | gloss withheld |
+| Syrian Aramaic | ʔanpā 'bird' \[Brock. 30\], \[PS 277\]. | Brock. 30; PS 277 |  |
+| Aramaic | D.-Alla ʔnph \[HJ 84\] | HJ 84 | gloss withheld |
 | Modern Aramaic | NSyr. ampâ 'the heron; a wild goose, a crane' (M 15) | M 15 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

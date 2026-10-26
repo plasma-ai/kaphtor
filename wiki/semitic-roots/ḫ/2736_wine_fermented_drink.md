@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2736_wine_fermented_drink
 title: "*ḫVmr-: 'wine, fermented drink'"
-desc: "Proto-Semitic *ḫVmr-, 'wine, fermented drink': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḫVmr-, 'wine, fermented drink': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2736"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ḥmr; ḥmyr (HALOT 330) | HALOT 330 | gloss withheld |
 | Amorite | ḫimru (HALOT 330) | HALOT 330 |  |
 | Mandaic Aramaic | hamraʾ (T 107) | T 107 |  |
+| Biblical Aramaic | ḥmr (Kogan 2015, ch. 6 §8.2.2 no. 2) | Kogan 2015 ch. 6 §8.2.2 no. 2 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

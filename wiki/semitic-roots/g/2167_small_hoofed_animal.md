@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | gurratu, agurratu MA \[CAD a1 160\], \[AHw. 299\] | CAD a1 160; AHw. 299; AHw.; CAD | gloss withheld |
+| Akkadian | gurratu, agurratu MA \[CAD a1 160\], \[AHw. 299\] | CAD a1 160; AHw. 299 | gloss withheld |
 | Tigre | gärwa \[LH 576\]. | LH 576 | gloss withheld |
 | Tigrinya | gahret (K Tna 2189) | K Tna 2189 | gloss withheld |
 

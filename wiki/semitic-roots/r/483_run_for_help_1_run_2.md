@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | râṣu 1 |  |  |
 | Mandaic Aramaic | rhṭ 2 (Drower/Macuch 426b apud CAL) | Macuch 426b; CAL |  |
 | Ugaritic | rẓ 2 DULAT 738 | DULAT 738 |  |
-| Geez | roṣa 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 26) | Kogan 2015, ch. 2 §5.2.2.1 no. 26 |  |
+| Geez | roṣa 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 26) | Kogan 2015 ch. 2 §5.2.2.1 no. 26 |  |
 | Hebrew | rwṣ 2 |  |  |
 | Amharic | roṭä 2 |  |  |
 | Judaic Aramaic | rhṭ 2 Ja 1454 | Ja 1454 |  |
@@ -46,5 +46,9 @@ updated: 2026-10-22T17:38:31Z
 | Harari | rōṭa (EDH 135 apud SEDonline 1309) | EDH 135; SEDonline 1309 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Arabic rāḍa (rwḍ) 'tame, train, domesticate' (LGz. 478) and Geez rayyaḍa 'tame' belong to a separate root, rwḍ.
 
 <!-- END kaphtor:record -->

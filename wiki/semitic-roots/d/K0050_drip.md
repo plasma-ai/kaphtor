@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | DLP (CAL s.v. dlp) | CAL s.v. dlp | gloss withheld |
-| Hebrew | dalap 'drop' (BDB 196) | BDB 196 |  |
+| Aramaic | DLP (CAL s.v. dlp) | CAL s.v. dlp; Anderson–Moser 2024 root dlp | gloss withheld |
+| Hebrew | dalap 'drop' (BDB 196) | BDB 196; Anderson–Moser 2024 root dlp |  |
 | Syrian Aramaic | dlap 'drop, trickle down' (Payne Smith 93) | Payne Smith 93 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

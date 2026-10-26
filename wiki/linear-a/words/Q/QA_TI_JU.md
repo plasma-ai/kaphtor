@@ -57,7 +57,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Zakros | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Qātilu | personal name, 8 | SPECULATIVE |
 
 ## Onomasticon
 

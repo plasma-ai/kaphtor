@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳibat-, ḳibbat- 'ventricle' \[BK 2 657, 670\]; (redupl.) ḳabḳab- 'belly' (cf. also ḳabḳāb- 'vagina', related with a meaning shift?) \[ibid. 664\] | BK 2 657, 670; ibid. 664 |  |
+| Arabic | ḳibat-, ḳibbat- 'ventricle' \[BK 2 657, 670\]; ḳabḳab- 'belly' \[ibid. 664\] | BK 2 657, 670; BK 664 |  |
 | Akkadian | (?) kukkubātu, kukkubānu, ḳuḳḳubātu, ḳuḳḳubānu LL \[CAD k 499\]. | CAD k 499 | gloss withheld |
 | Tigre | ḳäbbät \[LH 250\]. | LH 250 | gloss withheld |
 | Hebrew | ḳēbā (HALOT 1060) | HALOT 1060 | gloss withheld |

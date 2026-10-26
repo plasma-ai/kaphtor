@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | daˀāpu (AHw 146, CAD D 1 apud SEDonline 1987) | AHw 146, CAD D 1; SEDonline 1987 | gloss withheld |
 | Hebrew | dḥp (HALOT 219 apud SEDonline 1987) | HALOT 219; SEDonline 1987 | gloss withheld |
-| Judaic Aramaic | JPA dḥp (DJPA 143 apud SEDonline 1987); JBA dḥp (DJBA 325 apud SEDonline 1987) | DJPA 143; SEDonline 1987; DJBA 325; SEDonline 1987 | gloss withheld |
+| Judaic Aramaic | JPA dḥp (DJPA 143 apud SEDonline 1987); JBA dḥp (DJBA 325 apud SEDonline 1987) | DJPA 143; SEDonline 1987; DJBA 325 | gloss withheld |
 | Geez | daḥafa (CDG 127 apud SEDonline 1987) | CDG 127; SEDonline 1987 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

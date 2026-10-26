@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/K0444_scratch
 title: "*wVḏVy-: 'scratch'"
-desc: "Proto-Semitic *wVḏVy-, 'scratch': reflexes in 1 language(s)."
+desc: "Proto-Semitic *wVḏVy-, 'scratch': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0444"
@@ -29,7 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ydy (DULAT 944) | DULAT 944 | gloss withheld |
+| Ugaritic | ydy (DULAT 944) | DULAT 944; Anderson–Moser 2024 root wḏy | gloss withheld |
+| Arabic | waḏyat- (Kogan 2015, ch. 5 §3.2.1.1 no. 17) | Kogan 2015 ch. 5 §3.2.1.1 no. 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

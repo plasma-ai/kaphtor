@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/873_hill
 title: "*tall-/*till-: 'hill'"
-desc: "Proto-Semitic *tall-/*till-, 'hill': reflexes in 11 language(s)."
+desc: "Proto-Semitic *tall-/*till-, 'hill': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "873"
@@ -35,17 +35,16 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | tl |  |  |
 | Hebrew | tēl |  |  |
 | Syrian Aramaic | tell- |  |  |
-| Oromo | tullū (OLA80 §63.6) | OLA80 §63.6 | gloss withheld |
 | Punic | tyl (T 338) | T 338 | gloss withheld |
 | Judaic Aramaic | tillā (HALOT 1735) | HALOT 1735 |  |
 | Aramaic | tl, tlʾ (HALOT 1735) | HALOT 1735 |  |
 | Mandaic Aramaic | talilia, tallia (HALOT 1735) | HALOT 1735 |  |
-| Jibbali | tɛllɛ́t (Kogan 2011, 190) | Kogan 2011, 190 | gloss withheld |
+| Jibbali | tɛllɛ́t (Kogan 2011, 190) | Kogan 2011 190 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-From S116: OLA80 63.6. Semitic tillu and Cushitic tullū 'hill'. Cushitic verb tūl- 'to pile up' (Oromo).
+OLA80 §63.6 sets Semitic tillu beside Cushitic (Oromo) tullū 'hill' and the verb tūl- 'to pile up'.
 
 <!-- END kaphtor:record -->

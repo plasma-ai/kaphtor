@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔanna 'moaned' (Lane 103) | Lane 103 |  |
-| Aramaic | ʾNN (CAL s.v. ʾnn) | CAL s.v. ʾnn | gloss withheld |
+| Arabic | ʔanna 'moaned' (Lane 103) | Lane 103; Anderson–Moser 2024 root ʾnn |  |
+| Aramaic | ʾNN (CAL s.v. ʾnn) | CAL s.v. ʾnn; Anderson–Moser 2024 root ʾnn | gloss withheld |
 | Hebrew | ʾanan 'murmur' | Anderson–Moser 2024 root ʾnn |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

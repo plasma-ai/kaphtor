@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | yasara 'to be easy' (BK 2, 1627) | BK 2, 1627 |  |
-| Akkadian | išaru; ešēru |  | gloss withheld |
+| Arabic | yasara 'to be easy' (BK 2, 1627); 'he was gentle, tractable, easy' (Lane 2975); yusr 'easiness, facility' (Lane 2977) | BK 2, 1627; Lane 2975; Lane 2977 |  |
+| Akkadian | išaru (CAD I/J 224); išariš (CAD I/J 223); ešēru | CAD I/J 224; CAD I/J 223; Anderson–Moser 2024 root wšr | gloss withheld |
 | Ugaritic | yšr (DULAT 973) | DULAT 973 | gloss withheld |
 | Phoenician | yšr; yšr (piʿel) (Krahmalkov 218) | Krahmalkov 218 | gloss withheld |
 | Hebrew | yāšar |  |  |
@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab ysr (Biella 232, 233; Sabaweb lemmas 1616, 2567) | Biella 232, 233; Sabaweb lemmas 1616, 2567 | gloss withheld |
 | Amorite | jśr: jīśar, jaśar, jaśarum, jiśarum (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |
 | Eblaitic | i-sa-lum /yišarum/ (VE 1119, Kogan–Krebernik 2021b: 683 apud SEDonline 1853; Krebernik 1983, 39) | VE 1119, Kogan–Krebernik 2021b: 683; SEDonline 1853; Krebernik 1983, 39 | gloss withheld |
-| Punic | yšr 'lead' | Anderson–Moser 2024 root wšr |  |
+| Punic | yšr; Neo-Punic myšr (T 131) | T 131; Anderson–Moser 2024 root wšr | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

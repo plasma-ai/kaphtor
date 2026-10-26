@@ -60,6 +60,12 @@ di Mino; DULAT
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Haghia Triada | Tablet | complete |
 
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Ḏā-naquddi | He of the speckled (flock) (personal name); rival 'He of the head shepherd' | SPECULATIVE |
+
 ## Onomasticon
 
 | Field | Value |

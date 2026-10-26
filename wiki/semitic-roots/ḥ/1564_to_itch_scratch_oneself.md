@@ -38,11 +38,11 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | HKK, HUK \[DM 147\] | DM 147 | gloss withheld |
 | East Ethiopic | SEL WOL ZWY ankäkä \[LGur 33\] | LGur 33 | gloss withheld |
 | Geez | ḥkk |  |  |
-| Gurage | CHA ENN END GYE akäkä, EZ̆A akkäkä do. \[ibid.\] |  |  |
-| Jibbali | ḥɔttk do. \[JJ 107\]. | JJ 107 |  |
+| Gurage | CHA ENN END GYE akäkä, EZ̆A akkäkä \[ibid.\] |  |  |
+| Jibbali | ḥɔttk \[JJ 107\]. | JJ 107 |  |
 | Hebrew | PB ḥākak 'to scratch' \[Ja 462\] | Ja 462 |  |
 | Amharic | akkäkä \[K 1265\] | K 1265 | gloss withheld |
-| Judaic Aramaic | ḥăkak 'to scratch' \[Ja 462\]; ḥăkāk 'scab, sore' \[ibid.\] | Ja 462; ibid. |  |
+| Judaic Aramaic | ḥăkak 'to scratch' \[Ja 462\]; ḥăkāk 'scab, sore' \[ibid.\] | Ja 462 |  |
 | Syrian Aramaic | ḥak 'scratched' \[Brock 230\] | Brock 230 |  |
 | Modern Aramaic | NAssyr. ḫāyik \[Tser. 080\]; Iran. ḫyk \[Pen. 91\] | Tser. 080; Pen. 91 |  |
 | Argobba | hakkäka \[LArg. 204\] | LArg. 204 |  |

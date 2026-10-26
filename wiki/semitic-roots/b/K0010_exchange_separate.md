@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | badala 'changed' | Anderson–Moser 2024 root bdl |  |
-| Aramaic | BDL (Aramaic Root Atlas; CAL s.v. bdl) | Aramaic Root Atlas; CAL s.v. bdl | gloss withheld |
-| Hebrew | badal 'divide' (BDB 95) | BDB 95 |  |
-| Ugaritic | bdl 'substitute' | Anderson–Moser 2024 root bdl |  |
+| Aramaic | BDL (Aramaic Root Atlas; CAL s.v. bdl) | Aramaic Root Atlas; CAL s.v. bdl; Anderson–Moser 2024 root bdl | gloss withheld |
+| Hebrew | badal 'divide' (BDB 95) | BDB 95; Anderson–Moser 2024 root bdl |  |
+| Ugaritic | bdl (Kogan 2015, ch. 5 §3.2.1.2 no. 4) | Kogan 2015 ch. 5 §3.2.1.2 no. 4; Anderson–Moser 2024 root bdl | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

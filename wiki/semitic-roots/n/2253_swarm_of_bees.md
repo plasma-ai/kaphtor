@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | naḥl-, unit. naḥl-at- 'the bees, the bee' \[BK 2 1216\], \[Fr. IV 252\], \[LA XI 649\]. | BK 2 1216; Fr. IV 252; LA XI 649 |  |
 | Hebrew | pB. nāḥīl 'bee-hive, also the bees of a hive, swarm' \[Ja. 894\]. | Ja. 894 |  |
-| Epigraphic South Arabian | Qat. mnḥl \[Ricks 104\] | Ricks 104; Sima 244 | gloss withheld |
+| Epigraphic South Arabian | Qat. mnḥl \[Ricks 104\] | Ricks 104 | gloss withheld |
 | Judaic Aramaic | nǝḥīl 'swarm' \[Ja. 894\], 'swarm of bees or worms' \[Levy WT II 101\], \[Levy WTM III 369\]. | Ja. 894; Levy WT II 101; Levy WTM III 369 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

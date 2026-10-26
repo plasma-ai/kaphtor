@@ -59,7 +59,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT110b\|HT110b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1623\|HTWa1623]] | Haghia Triada | Nodule | complete |
@@ -299,6 +299,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | nawā | pastureland, pastoral product (logogram), 6 | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] |  | counted class, 11 |  |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1623\|HTWa1623]] | nawā | pastureland, pastoral product (logographic NA &lt; √n-w-y) |  |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1624\|HTWa1624]] | nawā | pastureland, pastoral product (logographic NA &lt; √n-w-y) |  |

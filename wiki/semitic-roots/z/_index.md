@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T17:41:57Z
 ---
 
 # wiki/semitic-roots/z
@@ -11,11 +11,11 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/z/1007_deviate|1007_deviate]]: Proto-Semitic *zawaɣ-, 'deviate': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/z/1101_cease|1101_cease]]: Proto-Semitic *zawal-, 'cease': reflexes in 1 language(s).
+[[wiki/semitic-roots/z/1101_cease_1_finish_complete_2|1101_cease_1_finish_complete_2]]: Proto-Semitic *zawal-, 'cease' 1, 'finish, complete' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/z/1126_be_rotten|1126_be_rotten]]: Proto-Semitic *zVnaḫ-, 'be rotten': reflexes in 1 language(s).
+[[wiki/semitic-roots/z/1126_be_rotten|1126_be_rotten]]: Proto-Semitic *zVnaḫ-, 'be rotten': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/z/1148_a_certain_bird_Lane_1227_starzrk_to_be_blue_q|1148_a_certain_bird_Lane_1227_starzrk_to_be_blue_q]]: Proto-Semitic *zurayḳ ?, 'a certain bird' Lane 1227 (<*zrḳ 'to be blue'?): reflexes in 1 language(s).
+[[wiki/semitic-roots/z/1148_a_certain_bird|1148_a_certain_bird]]: Proto-Semitic *zurayḳ ?, 'a certain bird': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/z/1200_learn|1200_learn]]: Proto-Semitic *zakan-, 'learn': reflexes in 1 language(s).
 
@@ -23,7 +23,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/z/1447_drag_oneself_creep_crawl|1447_drag_oneself_creep_crawl]]: Proto-Semitic *zVḥVp-, 'drag oneself, creep, crawl': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/z/1449_throw_1_dart_v_2|1449_throw_1_dart_v_2]]: Proto-Semitic *zVrVḳ-, 'throw' 1, 'dart' (v.) 2: reflexes in 7 language(s).
+[[wiki/semitic-roots/z/1449_throw_1_dart_v_2|1449_throw_1_dart_v_2]]: Proto-Semitic *zVrVḳ-, 'throw' 1, 'dart' (v.) 2: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/z/1450_sheep|1450_sheep]]: Proto-Semitic *zīp-, 'sheep': reflexes in 1 language(s).
 
@@ -63,7 +63,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/z/2839_sack|2839_sack]]: Proto-Semitic *zVmVl-, 'sack': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/z/2854_bind|2854_bind]]: Proto-Semitic *zVnVq-, 'bind': reflexes in 2 language(s).
+[[wiki/semitic-roots/z/2854_bind|2854_bind]]: Proto-Semitic *zVnVq-, 'bind': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/z/2855_reject|2855_reject]]: Proto-Semitic *zVnVḥ-, 'reject': reflexes in 2 language(s).
 
@@ -71,13 +71,11 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/z/2857_depart|2857_depart]]: Proto-Semitic *zVwVḥ-, 'depart': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/z/2858_bind|2858_bind]]: Proto-Semitic *zVqq-, 'bind': reflexes in 5 language(s).
-
 [[wiki/semitic-roots/z/2859_wasp|2859_wasp]]: Proto-Semitic *zVnbVr-, 'wasp': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/2860_cry_out|2860_cry_out]]: Proto-Semitic *zVʿVq-, 'cry out': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/z/2917_be_dirty_loathe|2917_be_dirty_loathe]]: Proto-Semitic *zhm, 'be dirty, loathe': reflexes in 5 language(s).
+[[wiki/semitic-roots/z/2917_to_be_dirty_stink_to_loathe|2917_to_be_dirty_stink_to_loathe]]: Proto-Semitic *zhm, 'to be dirty, stink; to loathe': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/2919_raise_lift_up_erect|2919_raise_lift_up_erect]]: Proto-Semitic *zqp, 'raise, lift up; erect': reflexes in 4 language(s).
 
@@ -108,6 +106,22 @@ updated: 2026-10-25T06:28:07Z
 [[wiki/semitic-roots/z/356_cut_chop|356_cut_chop]]: Proto-Semitic *zVʕab-, 'cut, chop': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/z/357_be_cut_off|357_be_cut_off]]: Proto-Semitic *zVʾVp-, 'be cut off': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/z/3610_to_turn_go_around_to_twist|3610_to_turn_go_around_to_twist]]: Proto-Semitic *zwr, 'to turn, go around; to twist': reflexes in 9 language(s).
+
+[[wiki/semitic-roots/z/3621_to_feed_provide_food_food_provisions|3621_to_feed_provide_food_food_provisions]]: Proto-Semitic *zwn, 'to feed, provide food; food, provisions': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3635_to_shine_be_bright|3635_to_shine_be_bright]]: Proto-Semitic *zhr, 'to shine, be bright': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3669_to_swell_be_full_to_boast|3669_to_swell_be_full_to_boast]]: Proto-Semitic *zḫr, 'to swell, be full; to boast': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3676_to_be_proud_conceited_to_boast|3676_to_be_proud_conceited_to_boast]]: Proto-Semitic *zyf, 'to be proud, conceited; to boast': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3677_javelin_short_spear|3677_javelin_short_spear]]: Proto-Semitic *zrḳ, 'javelin, short spear': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3680_to_restrain_check_forbid|3680_to_restrain_check_forbid]]: Proto-Semitic *zgr, 'to restrain, check, forbid': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/3681_to_buzz_resound_make_a_confused_sound|3681_to_buzz_resound_make_a_confused_sound]]: Proto-Semitic *zmm, 'to buzz, resound, make a confused sound': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/z/421_reed_mat_1_k_of_grass_used_for_basketwork_2|421_reed_mat_1_k_of_grass_used_for_basketwork_2]]: Proto-Semitic *zibn- 1 ~ *zabaz- 2, 'reed mat' 1, 'k. of grass used for basketwork' 2: reflexes in 2 language(s).
 
@@ -147,7 +161,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/z/K0466_pour|K0466_pour]]: Proto-Semitic *zVlVḥ-, 'pour': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/z/K0467_pitch|K0467_pitch]]: Proto-Semitic *zipt-, 'pitch': reflexes in 7 language(s).
+[[wiki/semitic-roots/z/K0467_pitch|K0467_pitch]]: Proto-Semitic *zipt-, 'pitch': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/z/K0469_adorn|K0469_adorn]]: Proto-Semitic *zVyVn-, 'adorn': reflexes in 4 language(s).
 
@@ -159,7 +173,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/z/SA136_INCREASE_s_th|SA136_INCREASE_s_th]]: Epigraphic South Arabian headword *zʾd, 'INCREASE s.th': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/z/SA174_incursion_invasion|SA174_incursion_invasion]]: Epigraphic South Arabian headword *zrp, 'incursion, invasion': reflexes in 2 language(s).
+[[wiki/semitic-roots/z/SA174_party_troop_of_men_incursion_invasion|SA174_party_troop_of_men_incursion_invasion]]: Epigraphic South Arabian headword *zrp, 'party, troop of men; incursion, invasion': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/z/SA175_water_diverters_distributors|SA175_water_diverters_distributors]]: Epigraphic South Arabian headword *zwr, 'water diverters, distributors': reflexes in 2 language(s).
 

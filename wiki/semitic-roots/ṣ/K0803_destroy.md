@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ṣamat 'put an end to, exterminate' (BDB 856) | BDB 856 |  |
+| Hebrew | ṣamat 'put an end to, exterminate' (BDB 856) | BDB 856; Anderson–Moser 2024 root ṣmt |  |
 | Ugaritic | ṣmt 'destroy' | Anderson–Moser 2024 root ṣmt |  |
 | Geez | ṣammit (LGz. 558) | LGz. 558 | gloss withheld |
 | Tigre | ṣämta (LGz. 558) | LGz. 558 |  |

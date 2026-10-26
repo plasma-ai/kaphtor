@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nussāf- 'a kind of bird similar to the swallow and equipped with a very long beak' \[BK 2 1250\], \[LA IX 329\]. | BK 2 1250; LA IX 329 |  |
-| Akkadian | enšub/pu SB \[CAD e 172\], enšūpu \[AHw. 220\] | CAD e 172; AHw. 220; CAD e 370; AHw. 258 | gloss withheld |
+| Akkadian | enšub/pu SB \[CAD e 172\], enšūpu \[AHw. 220\] | CAD e 172; AHw. 220 | gloss withheld |
 | Hebrew | yanšūp (HALOT 417) | HALOT 417 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

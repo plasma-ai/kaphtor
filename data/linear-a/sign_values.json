@@ -1463,7 +1463,7 @@
       "confirmed_by": [
         "JA-SA-SA-RA-ME",
         "SU-PA₃-RA",
-        "A-RA-NA-RE (Gordon: Egyptian PN)"
+        "A-RA-NA-RE (Hurrian PN, Ugaritic ålnr, Linear B a-ra-na-ro)"
       ],
       "linear_b": {
         "sign_number": "B 60",
@@ -2268,9 +2268,10 @@
         "]QA-*118-SA (HT70, broken before) = qaṭʿ-ša 'its portion'; qadaša 'holy' needs d",
         "QA-*118-RA-RE = qaṭara (√q-ṭ-r \"incense\") at HT96b",
         "*118-MI = ṭami (\"blood\", √d-m; Hebrew dam) at ZA21a, a counted entry on a tablet",
-        "QA-*118 = qaṭṭ \"flax\" (KH10; DULAT 708)"
+        "QA-*118 = qaṭṭ \"flax\" (KH10; DULAT 708)",
+        "DA-SI-*118 = ḏā-šiṭṭa \"those of Acacia\" (HT13, HT85a, HT99b, HT122a; Heb. šiṭṭâ, HALOT 1473): s-t and s-d give no acacia"
       ],
-      "note": "Emphatic dental sign, filling the gap between DA and TA in the standard syllabary. The Aegean script neutralizes voicing (DA/TA both cover /da/ and /ta/) but provides no sign for emphatic /ṭ/, which Semitic languages require. *118 covers emphatic and marked dentals (ṭ, ḍ, ḏ), beside *314 = ḤA in the pharyngeal gap. QA-*118 stands in 5 words, and QA-DA only inside QA-QA-DA (PE2); DA-SI-*118 uses both signs in one word. 26 occurrences across 8 sites. || Standing alone with a quantity (HT12 '*118 5', HT24b ×3 with fractions 1¾/1¾/1, KN2 '*118 3'), *118 is the weight logogram, the talent, as Linear B *118 L (Bartoněk 2003, 126; Killen 2024, 141); the syllabic reading applies only inside words and ligatures. || d is possible only in QA-*118-SA qōdeš 'holy portion' (HT70; HALOT 1076), ṯ in QA-*118 quṯṯāʾ 'cucumber' (HALOT 1151) and *21F-*118 ḥṯ 'unleavened bread' (DULAT 373).",
+      "note": "Emphatic dental sign, filling the gap between DA and TA in the standard syllabary. DA writes d and TA writes t, as Linear B keeps its D and T series apart (lexicon dental readings: 141 match, 6 mismatch), but no sign writes emphatic /ṭ/, which Semitic languages require. *118 covers emphatic and marked dentals (ṭ, ḍ, ḏ), beside *314 = ḤA in the pharyngeal gap. QA-*118 stands in 5 words, and QA-DA only inside QA-QA-DA (PE2); DA-SI-*118 uses both signs in one word. 26 occurrences across 8 sites. || Standing alone with a quantity (HT12 '*118 5', HT24b ×3 with fractions 1¾/1¾/1, KN2 '*118 3'), *118 is the weight logogram, the talent, as Linear B *118 L (Bartoněk 2003, 126; Killen 2024, 141); the syllabic reading applies only inside words and ligatures. || d is possible only in QA-*118-SA qōdeš 'holy portion' (HT70; HALOT 1076), ṯ in QA-*118 quṯṯāʾ 'cucumber' (HALOT 1151) and *21F-*118 ḥṯ 'unleavened bread' (DULAT 373).",
       "linear_b": {
         "sign_number": "B 118",
         "value": "talent (L)",
@@ -2391,7 +2392,8 @@
         "*21F-JA-DU = ḥayya-Addu \"Addu lives\" (√ḥ-y-y; cf. Amorite ḪAJJ-A + DN names, Gelb AS 21 nos. 1651–1653)",
         "*21F-TU-NE = ḥātān \"bridegroom\" (HT 7b, 87, 117b)",
         "JA-*21F = Yāh, beside PU-RA₂ on HT 28b",
-        "*21F-*118 = ḥṭt \"wheat\" (KH 88 before figs; ZA 5a with wine), if *118 = ṭa"
+        "*21F-*118 = ḥṭt \"wheat\" (KH 88 before figs; ZA 5a with wine), if *118 = ṭa",
+        "A-SE-TU-*21F = Aštuḫḫa \"Female\" (PH 2), Hurrian ḫ: Nuzi ᶠAš-du-uḫ-ḫa-a-a (NPN 37)"
       ],
       "note": "An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes West Semitic ḥ and ḫ alike. H is ordinarily unwritten, as in Linear B, where a₂ (ha) is optional: pa-we-a 88 times, pa-we-a₂ 9. The syllabic use did not pass into Linear B, which kept *21 as qi and the sheep ideograms. Standing alone with a numeral, *21F is the logogram OVISf (ewe): HT 132, ZA 9, ZA 26a. No word is yet attested both with and without *21F.",
       "linear_b": null,
@@ -2421,7 +2423,7 @@
       "reading": "ṮU",
       "ipa": "θu",
       "confidence": 0.74,
-      "notes": "PROBABLE. /ṯu/ (voiceless interdental + /u/). The evidence is cross-script: (1) A-ZU-RA = ʾAṯirat on KNZc7 incantation bowl—primary anchor; (2) Linear B Z-series has ZA/ZE/ZO but no deciphered ZU; B79 survives as one of 14 undeciphered syllabograms (Judson 2020) with only 3–4 attestations—extreme rarity predicted if value is interdental; (3) No known /ṯ/→/z/ merger in any Semitic language; (4) ZA already covers /za/; (5) Complementary distribution confirmed: ZA-SI-ZU (ARKH4b) places ZA and ZU in same word; (6) MA-ZU = maṯu 'child/male' (PS #1702) on HT102—supportive match; (7) Cross-script parallel: Linear B ma-*79 (PY En 74+, PY Eo 276) = same sign sequence, same commodity (grain), same qty (3) as Linear A MA-ZU (HT102); (8) Linear B a-*79 (KN Ap 618+, MY Oe 123) may = PS *ʾanṯ-/ʾaṯt- 'female/woman'—women's personnel + wool contexts. Open issues: (a) Vowel mismatch in Aṯirat; (b) /zu/ gap. Contexts scored blind run 3:1:17 TH/ZU/neutral; the /zu/ gap is no obstacle; complementary distribution holds on 18 of 32 tablets; onomastic parallels run 4:3 TH/ZU. KU-ZU-NI = Ugaritic PN Kuṯinu/Kṯn (DULAT p.467; syllabic vocalization ku-ši-nu, PRU 3 195, UVST 231). ZU-DI-RA = /ṯudira/ (Ugaritic ṯdr 'waitress/girl', Hurro-Hittite loan from šiduri; contact layer). Phonetic range note: ZU covers [θ ~ s̪] zone (native NWS /ṯ/ and borrowed Hurrian /š/ both render as ṯ in Ugaritic orthography), not a point value. || Two values, as SA writes s and š: ZU is the u-member of the Z-row and writes zu as well as ṯu. ṯ reads A-ZU-RA, MA-ZU, ZU-DI-RA, ZU-RI-NI-MA, DU-ZU-WA and KU-ZU-NI; z reads RU-ZU-NA rāzin 'dignitary' (Heb. rōzēn, HALOT 1210; Ar. razuna, Lane 1079, PS *z); ZU-DU and ZU-DI read 'breast' under both (ṯd, zd: DULAT 886, 983). Linear B *79 stands in the z-row.",
+      "notes": "PROBABLE. /ṯu/ (voiceless interdental + /u/). The evidence is cross-script: (1) A-ZU-RA = ʾAṯirat on KNZc7 incantation bowl—primary anchor; (2) Linear B Z-series has ZA/ZE/ZO but no deciphered ZU; B79 survives as one of 14 undeciphered syllabograms (Judson 2020) with only 3–4 attestations—extreme rarity predicted if value is interdental; (3) No known /ṯ/→/z/ merger in any Semitic language; (4) ZA already covers /za/; (5) Complementary distribution confirmed: ZA-SI-ZU (ARKH4b) places ZA and ZU in same word; (6) MA-ZU = maṯu 'child/male' (PS #1702) on HT102—supportive match; (7) Cross-script parallel: Linear B ma-*79 (PY En 74+, PY Eo 276) = same sign sequence, same commodity (grain), same qty (3) as Linear A MA-ZU (HT102); (8) Linear B a-*79 (KN Ap 618+, MY Oe 123) may = PS *ʾanṯ-/ʾaṯt- 'female/woman'—women's personnel + wool contexts. Open issues: (a) Vowel mismatch in Aṯirat; (b) /zu/ gap. Contexts scored blind run 3:1:17 TH/ZU/neutral; the /zu/ gap is no obstacle; complementary distribution holds on 18 of 32 tablets; onomastic parallels run 4:3 TH/ZU. KU-ZU-NI = Ugaritic PN Kuṯinu/Kṯn (DULAT p.467; syllabic vocalization ku-ši-nu, PRU 3 195, UVST 231). ZU-DI-RA = /ṯudira/ (Ugaritic ṯdr 'waitress/girl', Hurro-Hittite loan from šiduri; contact layer). Phonetic range note: ZU covers [θ ~ s̪] zone (native NWS /ṯ/ and borrowed Hurrian /š/ both render as ṯ in Ugaritic orthography), not a point value. || Two values, as SA writes s and š: ZU is the u-member of the Z-row and writes zu as well as ṯu. ṯ reads A-ZU-RA, MA-ZU, ZU-DI-RA, ZU-RI-NI-MA, DU-ZU-WA, KU-ZU-NI and ZU-JU-PU₂; z reads RU-ZU-NA rāzin 'dignitary' (Heb. rōzēn, HALOT 1210; Ar. razuna, Lane 1079, PS *z); ZU-DU and ZU-DI read 'breast' under both (ṯd, zd: DULAT 886, 983). Linear B *79 stands in the z-row.",
       "alternate_value": {
         "reading": "ZU",
         "ipa": "zu",
@@ -2436,7 +2438,8 @@
         "Complementary distribution: ZA-SI-ZU (ARKH4b)—ZA and ZU in same word, proving different phonemic classes",
         "MA-ZU = maṯu 'child/male' (HT102)—supportive PS #1702 match",
         "Cross-script parallel: Linear B ma-*79 ↔ Linear A MA-ZU—potential independent confirmation",
-        "KU-ZU-NI = Kuṯinu (HT 13, HT 85a), the Ugaritic personal name kṯn, syll. ku-ši-nu (DULAT 467)"
+        "KU-ZU-NI = Kuṯinu (HT 13, HT 85a), the Ugaritic personal name kṯn, syll. ku-ši-nu (DULAT 467)",
+        "ZU-JU-PU₂ = ṯulubu 'flute' (HT 25a), sign for sign Ugaritic ṯlb (DULAT 892)"
       ],
       "sign_number": "AB79",
       "logographic_value": {
@@ -2552,7 +2555,7 @@
       "confirmed_by": [
         "*47-KU-NA (ZA15a, heading of a wine issue) = sōkina 'prefect': Canaanite su₂-ki-na, glossed in EA 362 (ORACC aemw/amarna P270873); Ug. śkn 'prefect, governor; administrator' (DULAT 746); sākinu (CAD S 76); Heb. sōkēn (HALOT 755)"
       ],
-      "note": "SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. *47-KU-NA, heading the ZA 15a wine issue, is sōkina 'prefect', with the vowels of the Canaanite gloss su₂-ki-na (EA 362) and the ō of the Canaanite shift. Linear A writes no other so; *324 claims it only at SPECULATIVE 0.30. *47-NU-RA-JA (HT 115a) is a gentilic heading in -aya whose base is unread. mo, from the AB15 gap, reads *47-KU-NA as mōgun- 'regalement'; do reads it as Dagan. PA₃-SI-*47 (MIL Zb 1) has no edition; HT 127a *304+PA-DA-*47-KU is unsegmented. Co-occurrence with MA, MI, ME and MU excludes those four values only.",
+      "note": "SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. *47-KU-NA, heading the ZA 15a wine issue, is sōkina 'prefect', with the vowels of the Canaanite gloss su₂-ki-na (EA 362) and the ō of the Canaanite shift. Linear A writes no other so; *324 claims it only at SPECULATIVE 0.30. *47-NU-RA-JA (HT 115a) is a person, Šū-nūraya 'He is light': so writes šū, as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282), with a vowel mismatch only. mo, from the AB15 gap, reads *47-KU-NA as mōgun- 'regalement'; do reads it as Dagan. PA₃-SI-*47 (MIL Zb 1) has no edition; HT 127a *304+PA-DA-*47-KU is unsegmented. Co-occurrence with MA, MI, ME and MU excludes those four values only.",
       "linear_b": {
         "sign_number": "B 47",
         "value": null,
@@ -2718,7 +2721,7 @@
         "Interdental pair symmetry: ZU=/ṯu/ beside *305=/ḏa/",
         "*305 ≠ DA proven structurally: co-occurrence on 5 tablets, never word-internal alternation; DA + ZU + *305 all on HT79+83"
       ],
-      "note": "Dual-function. Standing alone with a quantity, *305 is the logogram ḎABBĀḤŪ 'sacrificers' (personnel category): HT89 *305 23 in 23+22+24+13+5 = 87 = KU-RO; HT100 VIR+KA sub-category; √ḏ-b-ḥ cross-Semitically exact. The syllabic value /ḏa/ has a live /da/ rival (D₂A): 0 of 8 syllabic cells favor ḏ over d and 4 of 8 favor plain d, so the /da/ alternative is recorded wherever the syllabic value is used. Settling tests: a repeated embedded cell requiring a ḏ-root with no plain-d rival; *305 ↔ Z-class spelling alternation matching *ḏ→z reflexes; a repeated administrative pair in a confirmed voiced-interdental slot. || ḏa reads *305-RU ḏrʕ 'seed-grain' (HT10a; DULAT 277–278) and KA-*305 ka-ḏā 'thus, likewise' (HT9b; Lane 948). ṯa is another possible value: KA-*305 kṯ 'flask, jar' (DULAT 466).",
+      "note": "Dual-function. Standing alone with a quantity, *305 is the logogram ḎABBĀḤŪ 'sacrificers' (personnel category): HT89 *305 23 in 23+22+24+13+5 = 87 = KU-RO; HT100 VIR+KA sub-category; √ḏ-b-ḥ cross-Semitically exact. The syllabic value /ḏa/ has a live /da/ rival (D₂A): 0 of 8 syllabic cells favor ḏ over d and 4 of 8 favor plain d, so the /da/ alternative is recorded wherever the syllabic value is used. Settling tests: a repeated embedded cell requiring a ḏ-root with no plain-d rival; *305 ↔ Z-class spelling alternation matching *ḏ→z reflexes; a repeated administrative pair in a confirmed voiced-interdental slot. || ḏa reads *305-RU ḏrʕ 'seed-grain' (HT10a; DULAT 277–278) and KA-*305 ka-ḏā 'thus, likewise' (HT9b; Lane 948). ṯa is another possible value: KA-*305 kṯ 'flask, jar' (DULAT 466). da reads SE-*305 ṣēdā 'provisions' (KH 7a), the heading word of SI-DA-TE ṣēdat; ṣ-ḏ gives no root.",
       "linear_b": null,
       "sign_number": "A305",
       "logographic_value": {

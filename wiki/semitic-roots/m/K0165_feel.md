@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | MŠŠ (CAL s.v. mšš) | CAL s.v. mšš | gloss withheld |
+| Aramaic | MŠŠ (CAL s.v. mšš) | CAL s.v. mšš; Anderson–Moser 2024 root mšš | gloss withheld |
 | Geez | marsasa 'feel' | Anderson–Moser 2024 root mšš |  |
-| Hebrew | mašaš 'feel' (BDB 606) | BDB 606 |  |
+| Hebrew | mašaš 'feel' (BDB 606) | BDB 606; Anderson–Moser 2024 root mšš |  |
 | Amharic | mʷassäsä (LGz. 360) | LGz. 360 | gloss withheld |
 | Epigraphic South Arabian | ms₁s₁ (LGz. 360; Sabaweb lemma 4562) | LGz. 360; Sabaweb lemma 4562 | gloss withheld |
 | Mehri | môsī (LGz. 360) | LGz. 360 | gloss withheld |

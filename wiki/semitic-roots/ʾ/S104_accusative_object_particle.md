@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | t (OLA80 §36.31) | OLA80 §36.31 |  |
+| Hebrew | ʾēt; Mishnaic t (OLA80 §36.31) | OLA80 §36.31 |  |
 | Aramaic | ʾyt (OLA80 §36.31) | OLA80 §36.31 |  |
 | Arabic | ʾiyyā (OLA80 §36.31) | OLA80 §36.31 |  |
 | Phoenician | ʾyt (Krahmalkov 48); ʾt (Krahmalkov 89) | Krahmalkov 48; Krahmalkov 89 |  |
@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | yāt 'sign of accusative; being, essence; self' (Payne Smith 198) | Payne Smith 198 |  |
 | Biblical Aramaic | yt (T 14) | T 14 |  |
 | Judaic Aramaic | yat (T 14) | T 14 |  |
-| Soqotri | t- (LS 436; SLOnline 7435) | LS 436 | gloss withheld |
+| Soqotri | t- (LS 436; SLOnline 7435) | LS 436; SLOnline 7435 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

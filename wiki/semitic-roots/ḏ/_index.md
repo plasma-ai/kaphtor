@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḏ
 desc: "Semitic roots whose first radical is ḏ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/ḏ
@@ -39,6 +39,8 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḏ/2509_to_remember_mention_invoke_1_man_male_2_phallus|2509_to_remember_mention_invoke_1_man_male_2_phallus]]: Proto-Semitic *ḏikar-, 'to remember, mention, invoke' 1, 'man, male' 2, 'phallus' 3: reflexes in 24 language(s).
 
+[[wiki/semitic-roots/ḏ/2786_sweat|2786_sweat]]: Proto-Semitic *ḏiʕ-at-, 'sweat': reflexes in 12 language(s).
+
 [[wiki/semitic-roots/ḏ/282_fly_n|282_fly_n]]: Proto-Semitic *ḏVbVb-, 'fly' (n.): reflexes in 18 language(s).
 
 [[wiki/semitic-roots/ḏ/2902_be_low|2902_be_low]]: Proto-Semitic *ḏVlVl-, 'be low': reflexes in 3 language(s).
@@ -47,7 +49,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḏ/2932_shine_rise_of_sun|2932_shine_rise_of_sun]]: Proto-Semitic *ḏVrVḥ-, 'shine, rise (of sun)': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḏ/2936_fear|2936_fear]]: Proto-Semitic *ḏVḥVl-, 'fear': reflexes in 5 language(s).
+[[wiki/semitic-roots/ḏ/2936_fear|2936_fear]]: Proto-Semitic *ḏVḥVl-, 'fear': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ḏ/3050_disease|3050_disease]]: Proto-Semitic *ḏrb, 'disease': reflexes in 2 language(s).
 
@@ -61,13 +63,15 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḏ/3329_old_man|3329_old_man]]: Proto-Semitic *ḏiḳn-, 'old man': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḏ/3350_stranger|3350_stranger]]: Proto-Semitic *ḏVrīʾ-, 'stranger': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḏ/3350_stranger|3350_stranger]]: Proto-Semitic *ḏVrīʾ-, 'stranger': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḏ/3464_to_stand|3464_to_stand]]: Proto-Semitic *ḏwḏ, 'to stand': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/3465_to_protect_guard_strength|3465_to_protect_guard_strength]]: Proto-Semitic *ḏmr, 'to protect, guard; strength': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḏ/3540_to_smell_pungently_ill_smelling_plant|3540_to_smell_pungently_ill_smelling_plant]]: Proto-Semitic *ḏfr, 'to smell pungently; ill-smelling plant': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḏ/3570_to_flow_in_a_stream_flash_flood|3570_to_flow_in_a_stream_flash_flood]]: Proto-Semitic *ḏʕb, 'to flow in a stream; flash flood': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/445_go_away|445_go_away]]: Proto-Semitic *ḏVhab-, 'go away': reflexes in 2 language(s).
 
@@ -77,13 +81,11 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ḏ/921_irritate|921_irritate]]: Proto-Semitic *ḏVrVʾ-, 'irritate': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḏ/K0699_that|K0699_that]]: Proto-Semitic *ḏV--, 'that...': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḏ/K0703_sing_1_song_2|K0703_sing_1_song_2]]: Proto-Semitic *ḏVmVr-, 'sing' 1, 'song' 2: reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ḏ/K0703_sing|K0703_sing]]: Proto-Semitic *ḏVmVr-, 'sing': reflexes in 7 language(s).
+[[wiki/semitic-roots/ḏ/K0876_that_of_she_who_feminine_demonstrative_relative|K0876_that_of_she_who_feminine_demonstrative_relative]]: Proto-Semitic *ḏāt-, 'that of, she who' (feminine demonstrative/relative): reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḏ/K0876_that_of_she_who_feminine_demonstrative_relative|K0876_that_of_she_who_feminine_demonstrative_relative]]: Proto-Semitic *ḏāt-, 'that of, she who' (feminine demonstrative/relative): reflexes in 2 language(s).
-
-[[wiki/semitic-roots/ḏ/K0877_he_who_that_which_masculine_demonstrative_relati|K0877_he_who_that_which_masculine_demonstrative_relati]]: Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 14 language(s).
+[[wiki/semitic-roots/ḏ/K0877_he_who_that_which_masculine_demonstrative_relati|K0877_he_who_that_which_masculine_demonstrative_relati]]: Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 15 language(s).
 
 [[wiki/semitic-roots/ḏ/K0879_SA_attestation_meaning_unknown|K0879_SA_attestation_meaning_unknown]]: Proto-Semitic *ḏVm-, '(SA attestation — meaning unknown)': reflexes in 1 language(s).
 

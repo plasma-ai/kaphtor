@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḫinṣir-, ḫinṣar- 'the little finger, the smallest of the five' \[BK 1 640\] | BK 1 640 |  |
 | Mehri | JADIB ḫɔṣ̌ǝrrɔ́ʔ \[SSL 2 242\] | SSL 2 242 | gloss withheld |
 | Mandaic Aramaic | hiṣrā \[DM 147\] | DM 147 | gloss withheld |
-| Jibbali | (EAST) ḫǝṣrér do. \[JM Eng-Meh 527\] |  | gloss withheld |
+| Jibbali | (EAST) ḫǝṣrér \[JM Eng-Meh 527\] |  | gloss withheld |
 | Hebrew | PB \*ḥāṣēr in ḥăṣar ha-kkābēd 'lobe of the liver' \[Ja 496\]. | Ja 496 |  |
 | Judaic Aramaic | ḥaṣrā (ḥiṣrā) in ḥaṣrā (ḥiṣrā) dǝ-ʕal kabdā \[ibid.\]. |  | gloss withheld |
 | Syrian Aramaic | ḥeṣrā 'little finger', in ḥeṣar kabdā 'caudate lobe of the liver' \[Brock 252\] | Brock 252 |  |

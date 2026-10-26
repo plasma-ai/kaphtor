@@ -32,11 +32,11 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | bdˀ (HALOT 109 apud SEDonline 1250) | HALOT 109; SEDonline 1250 | gloss withheld |
 | Aramaic | Off. bdˀ (DNWSI 144 apud SEDonline 1250) | DNWSI 144; SEDonline 1250 | gloss withheld |
 | Judaic Aramaic | JPA bdˀ (DJPA 85 apud SEDonline 1250); JBA baddāyā (DJBA 186 apud SEDonline 441) | DJPA 85; SEDonline 1250; DJBA 186; SEDonline 441 | gloss withheld |
-| Syrian Aramaic | bdy (LSyr. 59; SL 119 apud SEDonline 1250) | LSyr. 59; SEDonline 1250 | gloss withheld |
+| Syrian Aramaic | bdy (LSyr. 59; SL 119 apud SEDonline 1250) | LSyr. 59; SL 119; SEDonline 1250 | gloss withheld |
 | East Ethiopic | Zwy. (a)buǯī (EDG 134 apud SEDonline 1250) | EDG 134; SEDonline 1250 | gloss withheld |
 | Mehri | bədō (ML 43 apud SEDonline 441) | ML 43; SEDonline 441 | gloss withheld |
 | Jibbali | bédé (JL 23 apud SEDonline 441) | JL 23; SEDonline 441 | gloss withheld |
-| Soqotri | béde (LS 82; SLOnline 3494) | LS 82 | gloss withheld |
+| Soqotri | béde (LS 82; SLOnline 3494) | LS 82; SLOnline 3494 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sinsin-at- 'top of the camel's hump' \[BK 1 1151\] (redupl.); cf. sinsin- 'bones that terminate at the vertebrae, or ends of the rib bones' \[ibid.\]. Cf. also sanām- 'camel's hump' \[ibid. 1152\] | BK 1 1151; ibid.; ibid. 1152 |  |
-| Harsusi | (?) sensīn ḏe-ḏ̣ahr \[JH 112\] (; ḏ̣ahr means \[ibid. 29\]). | JH 112; ibid. 29 | gloss withheld |
+| Arabic | sinsin-at- 'top of the camel's hump' \[BK 1 1151\]; cf. sinsin- 'bones that terminate at the vertebrae, or ends of the rib bones' \[ibid.\]. Cf. also sanām- 'camel's hump' \[ibid. 1152\] | BK 1 1151; BK 1152 |  |
+| Harsusi | (?) sensīn ḏe-ḏ̣ahr \[JH 112\] (ḏ̣ahr \[ibid. 29\]). | JH 112; JH 29 | gloss withheld |
 | Tigre | sǝlam \[LH 168\]. | LH 168 | gloss withheld |
-| Gurage | GOG SOD šañña do. \[LArg. 221\]. | LArg. 221 |  |
+| Gurage | GOG SOD šañña \[LArg. 221\]. | LArg. 221 |  |
 | Argobba | šañña \[LArg. 221\] | LArg. 221 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

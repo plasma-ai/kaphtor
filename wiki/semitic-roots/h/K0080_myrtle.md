@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | hds (DJA 43a apud CAL) | CAL | gloss withheld |
+| Aramaic | hds (DJA 43a apud CAL) | CAL; Anderson–Moser 2024 root hadas | gloss withheld |
 | Geez | ʾadas 'myrtle' | Anderson–Moser 2024 root hadas |  |
 | Hebrew | hadas 'myrtle' | Anderson–Moser 2024 root hadas |  |
 | Tigrinya | ʾadäs (LGz. 8) | LGz. 8 |  |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:44:10Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/T
@@ -11,7 +11,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/T/TA2_TA_RE|TA2_TA_RE]]: Tatare: personal name; compare Linear B ta-ta-ro. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TA2_TI_TE|TA2_TI_TE]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TA2_TI_TE|TA2_TI_TE]]: Tati-te: Tati-te, '(Teššup) loved' (Hurrian personal name, hypocoristic). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TAMIR|TAMIR]]: tamir: proposed Semitic lexical name of the PALM/TREE sign. Lexicon, CANDIDATE (tier 2).
 
@@ -31,7 +31,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU|TA_NA_I_star301_U_TI_NU]]: tan-ʿinā-u-tī-n(u): may you (f.) answer us (N-stem of √ʿ-n-y in the TA-NA-[X]-U-TI-NU frame: 2fs prefix + indicative -u + subject clitic -tī + 1cp object -n). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/T/TA_NA_MA_JE|TA_NA_MA_JE]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/T/TA_NA_MA_JE|TA_NA_MA_JE]]: Tanʿamay: personal name, 'She is gracious'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU|TA_NA_RA_TE_U_TI_NU]]: tan-raṣē-u-tī-n(u): may you (f.) be favorable toward us (N-stem of √r-ṣ-y + indicative -u + analogical 2fs subject clitic -tī + 1cp object -n; energic -n the alternative). Lexicon, PROBABLE (tier 3).
 
@@ -49,7 +49,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/T/TA_NU_NI_KI_NA|TA_NU_NI_KI_NA]]: tannî qînâ: chant a dirge! (proposed internal segmentation). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_PA|TA_PA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TA_PA|TA_PA]]: tappāʾu: partners, the heading of a shares account. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_PI|TA_PI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -119,7 +119,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/T/TI_NI_broken_end|TI_NI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TI_NU_JA|TI_NU_JA]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/T/TI_NU_JA|TI_NU_JA]]: Ṯaniya: personal name, 'Second(-born)'; rival Dīnuya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_TI_KU|TI_TI_KU]]: tittuk(u) / tittōk: outpouring, pouring-out—(header) disbursed; (libation) may it be poured. Lexicon, CANDIDATE (tier 2).
 
@@ -145,11 +145,11 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/T/TU_ME_I_broken_start|TU_ME_I_broken_start]]: Unread (edge overlap): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TU_ME_PA_JA|TU_ME_PA_JA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TU_ME_PA_JA|TU_ME_PA_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TU_MI_TI_ZA_SE|TU_MI_TI_ZA_SE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TU_NU|TU_NU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TU_NU|TU_NU]]: Tunu: Tunu (Hurrian personal name, owner's name on a double axe). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_PA|TU_PA]]: Unread (role only): personal name; 1 occurrence(s).
 

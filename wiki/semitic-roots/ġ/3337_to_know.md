@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/3337_to_know
 title: "*ɣrb: 'to know'"
-desc: "Proto-Semitic *ɣrb, 'to know': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ɣrb, 'to know': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3337"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ɣrb |
 | Meaning | 'to know' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 183 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ɣərōb (ML 140 apud SEDonline 183) | ML 140; SEDonline 183 | gloss withheld |
 | Jibbali | ɣárɔ́b (JL 88 apud SEDonline 183) | JL 88; SEDonline 183 | gloss withheld |
+| Soqotri | ʿérob (Kogan 2015, ch. 8 §3.2.4 no. 45) | Kogan 2015 ch. 8 §3.2.4 no. 45 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

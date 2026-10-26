@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3497_to_protect_shield
 title: "*gwb: 'to protect; shield'"
-desc: "Proto-Semitic *gwb, 'to protect; shield': reflexes in 3 language(s)."
+desc: "Proto-Semitic *gwb, 'to protect; shield': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3497"
@@ -29,9 +29,10 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab gyb (Biella 71); (SD 51) | Biella 71; SD 51 | gloss withheld |
+| Epigraphic South Arabian | Sab gyb (Biella 71) (SD 51) | Biella 71; SD 51 | gloss withheld |
 | Arabic | jawb 'a shield'; jawwaba ʿalayhi 'he shielded him' (Lane 479) | Lane 479 |  |
 | Mehri | gob (Biella 71) | Biella 71 | gloss withheld |
+| Jibbali | gieb (Biella 71) | Biella 71 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

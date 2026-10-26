@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Tigre | bärtäl \[LH 277\]. | LH 277 | gloss withheld |
-| Judaic Aramaic | turbālā, torbǝlā \[Ja. 1656\] | Ja. 1656; Levy WTM IV 634; Levy WT II 533; Talshir 252; Ja. 135 | gloss withheld |
+| Judaic Aramaic | turbālā, torbǝlā \[Ja. 1656\] | Ja. 1656 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -56,10 +56,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DI_KI_SE\|DI-KI-SE]] | Dikise | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | CANDIDATE |
+| [[wiki/linear-a/words/D/DI_NI\|DI-NI]] | Dīnī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddir-dīnā | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_ME_DI\|DU-ME-DI]] | Dūmatī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_DI\|JA-DI]] | Yadi | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JE_DI\|JE-DI]] | yedī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kadd | PROBABLE |

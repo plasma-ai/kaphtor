@@ -29,15 +29,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | tišʿā (OLA80 §35.2, §35.14); tešaʿ | OLA80 §35.2, §35.14 | gloss withheld |
-| Arabic | tisʿa (OLA80 §35.2, §35.14) | OLA80 §35.2, §35.14 |  |
-| Akkadian | tiše (CAD T 432); tišīt (OLA80 §35.2, §35.14) | CAD T 432; OLA80 §35.2, §35.14 | gloss withheld |
-| Aramaic | tšʿ (Aramaic Root Atlas; DNWSI 1235 apud CAL) | Aramaic Root Atlas; DNWSI 1235; CAL | gloss withheld |
-| Punic | tšʿ, tšʿm (T 345) | T 345 | gloss withheld |
+| Hebrew | tišʿā (OLA80 §35.2, §35.14); tēšaʿ (HALOT 1802); tĕšîʿî (HALOT 1802) | OLA80 §35.2, §35.14; HALOT 1802 | gloss withheld |
+| Arabic | tisʿa (OLA80 §35.2, §35.14; Lane 306); tusʿ (Lane 306) | OLA80 §35.2, §35.14; Lane 306 | gloss withheld |
+| Akkadian | tiše (CAD T 432); tišīt (OLA80 §35.2, §35.14); tišû (CAD T 433); tušuʾû (CAD T 497) | CAD T 432; OLA80 §35.2, §35.14; CAD T 433; CAD T 497; Anderson–Moser 2024 root tšʿ | gloss withheld |
+| Aramaic | tšʿ (Aramaic Root Atlas; DNWSI 1235 apud CAL) | Aramaic Root Atlas; DNWSI 1235; CAL; Anderson–Moser 2024 root tšʿ | gloss withheld |
+| Punic | tšʿ, tšʿm (T 345) | T 345; Anderson–Moser 2024 root tšʿ | gloss withheld |
 | Ugaritic | tšʿ (DULAT 868) | DULAT 868 | gloss withheld |
 | Epigraphic South Arabian | Sab tsʿ (SD 148; Biella 535; Sabaweb lemma 2669) | SD 148; Biella 535; Sabaweb lemma 2669 | gloss withheld |
 | Judaic Aramaic | tēšaʿ (HALOT 1802; DJPA 593b apud CAL) | HALOT 1802; DJPA 593b; CAL |  |
-| Syrian Aramaic | tᵉšaʿ (HALOT 1802; Payne Smith 622) | HALOT 1802; Payne Smith 622 |  |
+| Syrian Aramaic | tᵉšaʿ (HALOT 1802; Payne Smith 622); tūšʿā (Payne Smith 609); tšīʿāyā (Payne Smith 622) | HALOT 1802; Payne Smith 622; Payne Smith 609 | gloss withheld |
 | Geez | tasʿū/tesʿū (HALOT 1802) | HALOT 1802 |  |
 | Tigre | sĕʿ (HALOT 1802) | HALOT 1802 |  |
 | Soqotri | seʿeh (LGz. 581) | LGz. 581 |  |

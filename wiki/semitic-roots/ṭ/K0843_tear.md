@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ṬRP (Aramaic Root Atlas; CAL s.v. ṭrp) | Aramaic Root Atlas; CAL s.v. ṭrp | gloss withheld |
-| Hebrew | ṭarap 'tear' (BDB 382) | BDB 382 |  |
+| Aramaic | ṬRP (Aramaic Root Atlas; CAL s.v. ṭrp) | Aramaic Root Atlas; CAL s.v. ṭrp; Anderson–Moser 2024 root ṭrp | gloss withheld |
+| Hebrew | ṭarap 'tear' (BDB 382) | BDB 382; Anderson–Moser 2024 root ṭrp |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

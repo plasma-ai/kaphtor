@@ -72,12 +72,15 @@ Non-phonetic commodity ideogram denoting grain/cereal. 60 standalone, 52 in comp
 | [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | grain | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | grain | grain/cereal (commodity ideogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | dagān | grain | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | grain | grain (logogram), ½ | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | dagān | grain, cereal |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | ašnan | grain | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT125a\|HT125a]] | \[ideogram\] | grain | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | — | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | — | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | dagān | grain, cereal |  |
+| [[wiki/linear-a/inscriptions/KH/KH/KH10\|KH10]] | grain | grain (logogram), 10 | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH10\|KH10]] | grain | grain (logogram), 90 | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | dagān | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | dagān | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | dagān | grain (logogram) | PROBABLE |

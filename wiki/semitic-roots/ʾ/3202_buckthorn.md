@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ʾāṭād (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Syrian Aramaic | ʾaṭādā (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Arabic | ʾaṭad- (Kogan 2011, 202) | Kogan 2011, 202 |  |
+| Hebrew | ʾāṭād (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Syrian Aramaic | ʾaṭādā (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Arabic | ʾaṭad- (Kogan 2011, 202) | Kogan 2011 202 |  |
 | Judaic Aramaic | ʾaṭdā (HALOT 37) | HALOT 37 |  |
 | Mandaic Aramaic | aṭaṭa (HALOT 37) | HALOT 37 |  |
 

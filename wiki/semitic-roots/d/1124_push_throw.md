@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ndḥ; daḥah |  | gloss withheld |
 | Syrian Aramaic | deḥaʔ; dəḥā (LGz. 130) | LGz. 130 |  |
 | Geez | nadḥa (LGz. 386) | LGz. 386 | gloss withheld |
-| Aramaic | nəḏaḥ (LGz. 386); DḤY (Qumran 52 apud CAL) | LGz. 386; CAL | gloss withheld |
+| Aramaic | nəḏaḥ (LGz. 386); DḤY (Qumran 52 apud CAL) | LGz. 386; CAL; Anderson–Moser 2024 root dḥy | gloss withheld |
 | Tigre | nädḥa (LGz. 386) | LGz. 386 | gloss withheld |
 | Tigrinya | nädḥe (LGz. 386) | LGz. 386 | gloss withheld |
 | Punic | dḥy 'push' | Anderson–Moser 2024 root dḥy |  |

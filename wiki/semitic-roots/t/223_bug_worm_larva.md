@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | kuttān- \[BK 2 864\], \[WKAS k 55\] | BK 2 864; WKAS k 55; Selwi 187 | gloss withheld |
+| Arabic | kuttān- \[BK 2 864\], \[WKAS k 55\] | BK 2 864; WKAS k 55 | gloss withheld |
 | Mehri | kettôn 'bedbug' \[Jahn 202\]. | Jahn 202 |  |
-| Tigre | tǝkan (tukan, dokan) \[LH 317\], kǝtan \[ibid. 415\]. | LH 317; ibid. 415 | gloss withheld |
+| Tigre | tǝkan (tukan, dokan) \[LH 317\], kǝtan \[ibid. 415\]. | LH 317; LH 415 | gloss withheld |
 | Geez | tǝkʷān \[LGz. 573\]. | LGz. 573 | gloss withheld |
 | Gurage | Gog. Sod. tǝkan, Muh. Msq. tǝxan, Muh. tǝxʷan, Msq. Sod. tǝhan Wol. Zwy. tuhan, End. Sel. tuhān, Cha. Eža tǝxar, Gyt. tǝxār, Enm. tǝxā̃r \[LGur. 595\]. | LGur. 595 | gloss withheld |
 | Amharic | tǝhʷan \[K 954\] | K 954 | gloss withheld |

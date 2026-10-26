@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qaṯṯa 'pulled' (Lane 2487) | Lane 2487 |  |
-| Aramaic | QŠŠ (CAL s.v. qšš) | CAL s.v. qšš | gloss withheld |
+| Aramaic | QŠŠ (CAL s.v. qšš) | CAL s.v. qšš; Anderson–Moser 2024 root qṯṯ | gloss withheld |
 | Hebrew | qašaš 'gather' | Anderson–Moser 2024 root qṯṯ |  |
 | Judaic Aramaic | qōšēš (HALOT 1154; DJPA 509b apud CAL) | HALOT 1154; DJPA 509b; CAL |  |
 

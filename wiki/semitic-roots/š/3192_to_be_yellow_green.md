@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | həẑawr (Kogan 2011, 198) | Kogan 2011, 198 |  |
-| Jibbali | šəẓ̂rɔ́r (Kogan 2011, 198) | Kogan 2011, 198 |  |
-| Soqotri | šéẓ̂ar (Kogan 2011, 198) | Kogan 2011, 198 |  |
+| Mehri | həẑawr (Kogan 2011, 198) | Kogan 2011 198 |  |
+| Jibbali | šəẓ̂rɔ́r (Kogan 2011, 198) | Kogan 2011 198 |  |
+| Soqotri | šéẓ̂ar (Kogan 2011, 198) | Kogan 2011 198 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

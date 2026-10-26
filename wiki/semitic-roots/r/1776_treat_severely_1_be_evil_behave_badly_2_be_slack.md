@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ruššû 1 |  |  |
 | Geez | rsʕ 4 |  |  |
 | Hebrew | ršʕ 2 |  |  |
-| Ugaritic | ršʿ (D) (CUC; DULAT 736) | CUC; DULAT 736 | gloss withheld |
+| Ugaritic | ršʿ (D) (CUC; DULAT 736) | CUC; DULAT 736; Anderson–Moser 2024 root ršʿ | gloss withheld |
 | Amharic | rässa (LGz. 474) | LGz. 474 |  |
 | Syrian Aramaic | rəšaʿ (LGz. 474) | LGz. 474 | gloss withheld |
 | Tigrinya | rässəʿe (LGz. 474) | LGz. 474 | gloss withheld |
@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | räsa (LGz. 474) | LGz. 474 |  |
 | Argobba | rɛssɛˁ (Wetter 2010:87, AAD 117 apud SEDonline 899) | Wetter 2010:87, AAD 117; SEDonline 899 | gloss withheld |
 | East Ethiopic | Sel. räsa, Wol. Zwy. räsä (EDG 527 apud SEDonline 899) | EDG 527; SEDonline 899 | gloss withheld |
-| Aramaic | RŠʿ (Aramaic Root Atlas; CAL s.v. ršʿ) | Aramaic Root Atlas; CAL s.v. ršʿ | gloss withheld |
+| Aramaic | RŠʿ (Aramaic Root Atlas; CAL s.v. ršʿ) | Aramaic Root Atlas; CAL s.v. ršʿ; Anderson–Moser 2024 root ršʿ | gloss withheld |
 | Judaic Aramaic | rišʿā (HALOT 1296); rišʿūtā (HALOT 1297) | HALOT 1296; HALOT 1297 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

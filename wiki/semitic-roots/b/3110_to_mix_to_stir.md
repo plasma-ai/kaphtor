@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*bṣbṣ |
 | Meaning | 'to mix, to stir' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1962 |
 
 ## Reflexes
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/d
 desc: "Semitic roots whose first radical is d."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/d
@@ -33,7 +33,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/1227_be_strong|1227_be_strong]]: Proto-Semitic *dVn-, 'be strong': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/d/1280_platane|1280_platane]]: Proto-Semitic *dilVb-, 'platane': reflexes in 1 language(s).
+[[wiki/semitic-roots/d/1280_plane_tree|1280_plane_tree]]: Proto-Semitic *dilVb-, 'plane tree': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/d/1293_flour|1293_flour]]: Proto-Semitic *dik-, 'flour': reflexes in 1 language(s).
 
@@ -43,7 +43,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/1495_oppress_1_trample_over_2|1495_oppress_1_trample_over_2]]: Proto-Semitic *dVḥVṯ̣-, 'oppress' 1, 'trample over' 2: reflexes in 5 language(s).
 
-[[wiki/semitic-roots/d/1496_small_inferior_1_weak_2_imperfect_3|1496_small_inferior_1_weak_2_imperfect_3]]: Proto-Semitic *dall-, 'small, inferior' 1, 'weak' 2, 'imperfect' 3: reflexes in 6 language(s).
+[[wiki/semitic-roots/d/1496_small_inferior_1_weak_2_imperfect_3|1496_small_inferior_1_weak_2_imperfect_3]]: Proto-Semitic *dall-, 'small, inferior' 1, 'weak' 2, 'imperfect' 3: reflexes in 7 language(s).
 
 [[wiki/semitic-roots/d/1497_dwell_1_last_v_2_stay_a_long_time_in_one_place_3|1497_dwell_1_last_v_2_stay_a_long_time_in_one_place_3]]: Proto-Semitic *dVm-/*dVwVm-, 'dwell' 1, 'last' (v.) 2, 'stay a long time in one place' 3: reflexes in 7 language(s).
 
@@ -153,7 +153,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/227_worms|227_worms]]: Proto-Semitic *dūd- < *dVwVd-, 'worms': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/2315_n_1_beans_2_corn_grain|2315_n_1_beans_2_corn_grain]]: Proto-Semitic *dVng(ʷ)- 1 ~ *dagan- 2, 1 - 'beans', 2 'corn, grain': reflexes in 6 language(s).
+[[wiki/semitic-roots/d/2315_beans_1_corn_grain_2|2315_beans_1_corn_grain_2]]: Proto-Semitic *dVng(ʷ)- 1 ~ *dagan- 2, 'beans' 1, 'corn, grain' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/d/2316_beans|2316_beans]]: Proto-Semitic *dVgVr-, 'beans': reflexes in 5 language(s).
 
@@ -201,11 +201,9 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/277_Spanish_fly|277_Spanish_fly]]: Proto-Semitic *dawVy-, 'Spanish fly': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/2786_sweat|2786_sweat]]: Proto-Semitic *diʕ-at-, 'sweat': reflexes in 12 language(s).
-
 [[wiki/semitic-roots/d/2804_step|2804_step]]: Proto-Semitic *dVrVg-, 'step': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/d/2840_make_turbid|2840_make_turbid]]: Proto-Semitic *dVlaḥ-, 'make turbid': reflexes in 4 language(s).
+[[wiki/semitic-roots/d/2840_make_turbid|2840_make_turbid]]: Proto-Semitic *dVlaḥ-, 'make turbid': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/d/2841_couch|2841_couch]]: Proto-Semitic *dargVš-, 'couch': reflexes in 3 language(s).
 
@@ -247,7 +245,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/3196_thistle|3196_thistle]]: Proto-Semitic *dardar-, 'thistle': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/d/3348_stone_stony_plain|3348_stone_stony_plain]]: Proto-Semitic *daʕn-, 'stone, stony plain': reflexes in 2 language(s).
+[[wiki/semitic-roots/d/3348_stone_stony_plain|3348_stone_stony_plain]]: Proto-Semitic *daʕn-, 'stone, stony plain': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/d/3454_to_pierce_stab_to_impress_incise|3454_to_pierce_stab_to_impress_incise]]: Proto-Semitic *dgš, 'to pierce, stab; to impress, incise': reflexes in 5 language(s).
 
@@ -256,6 +254,8 @@ updated: 2026-10-25T06:28:07Z
 [[wiki/semitic-roots/d/346_trample_underfoot_1_tread_down_2_crush_crush_und|346_trample_underfoot_1_tread_down_2_crush_crush_und]]: Proto-Semitic *dVw/yVš- ~ *dVʕ/hVš-, 'trample underfoot' 1, 'tread down' 2, 'crush', 'crush underfoot' 4, 'thresh' 4: reflexes in 12 language(s).
 
 [[wiki/semitic-roots/d/3518_to_hide_conceal|3518_to_hide_conceal]]: Proto-Semitic *dss, 'to hide, conceal': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/d/3627_to_hang_down_dangle|3627_to_hang_down_dangle]]: Proto-Semitic *dll, 'to hang down, dangle': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/d/39_nursing_mother|39_nursing_mother]]: Proto-Semitic *dad-, 'nursing mother': reflexes in 4 language(s).
 
@@ -271,7 +271,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/470_go_slowly_1_be_slow_2|470_go_slowly_1_be_slow_2]]: Proto-Semitic *dig-, 'go slowly' 1, 'be slow' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/503_run_freely_1_run_tirelessly_2_drive_away_make_go|503_run_freely_1_run_tirelessly_2_drive_away_make_go]]: Proto-Semitic *dVr-, 'run freely' 1, 'run tirelessly' 2, 'drive away, make go' 3: reflexes in 3 language(s).
+[[wiki/semitic-roots/d/503_run_freely_1_run_tirelessly_2_drive_away_make_go|503_run_freely_1_run_tirelessly_2_drive_away_make_go]]: Proto-Semitic *dVr-, 'run freely' 1, 'run tirelessly' 2, 'drive away, make go' 3, 'to come upon suddenly, assault' 4: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/d/504_march|504_march]]: Proto-Semitic *dVm-dVm-, 'march': reflexes in 1 language(s).
 
@@ -297,7 +297,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/595_call_1_be_called_2|595_call_1_be_called_2]]: Proto-Semitic *duʕ-, 'call' 1, 'be called' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/605_speak_1_retell_2|605_speak_1_retell_2]]: Proto-Semitic *dVbur-, 'speak' 1, 'retell' 2: reflexes in 5 language(s).
+[[wiki/semitic-roots/d/605_speak_1_retell_2|605_speak_1_retell_2]]: Proto-Semitic *dVbur-, 'speak' 1, 'retell' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/d/637_learn_understand|637_learn_understand]]: Proto-Semitic *dVrVy-, 'learn, understand': reflexes in 1 language(s).
 
@@ -307,7 +307,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/d/656_tower_1_borough_2|656_tower_1_borough_2]]: Proto-Semitic *dim-, 'tower' 1, 'borough' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/657_dwelling_1_house_2_granary_3|657_dwelling_1_house_2_granary_3]]: Proto-Semitic *dār-, 'dwelling' 1, 'house'2, 'granary' 3: reflexes in 8 language(s).
+[[wiki/semitic-roots/d/657_dwelling_1_house_2_granary_3|657_dwelling_1_house_2_granary_3]]: Proto-Semitic *dār-, 'dwelling' 1, 'house' 2, 'granary' 3: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/d/693_drip_1_flow_abundantly_2|693_drip_1_flow_abundantly_2]]: Proto-Semitic *dir-/*dur-, 'drip' 1, 'flow abundantly' 2: reflexes in 2 language(s).
 
@@ -362,7 +362,5 @@ updated: 2026-10-25T06:28:07Z
 [[wiki/semitic-roots/d/SA010_sue_prosecute|SA010_sue_prosecute]]: Epigraphic South Arabian headword *dpḳ, 'sue, prosecute': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/d/SA011_violate_a_prohibition|SA011_violate_a_prohibition]]: Epigraphic South Arabian headword *dkṯ, 'violate a prohibition': reflexes in 1 language(s).
-
-[[wiki/semitic-roots/d/SA013_SIDES_FLANKS|SA013_SIDES_FLANKS]]: Epigraphic South Arabian headword *drp, 'SIDES, FLANKS': reflexes in 2 language(s).
 
 ***

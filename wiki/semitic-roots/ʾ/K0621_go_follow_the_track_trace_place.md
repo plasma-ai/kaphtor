@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʾaṯar, ʾiṯr (HALOT 97) | HALOT 97 | gloss withheld |
 | Tigre | ʾasra (HALOT 97) | HALOT 97 | gloss withheld |
 | Epigraphic South Arabian | ʾṯr (HALOT 97); Sab. brṯ (SD 32; Biella 60–61; Sabaweb lemma 1466), from b- + ʾṯr (Rendsburg 2022, 322–323) | HALOT 97; SD 32; Biella 60–61; Sabaweb lemma 1466; Rendsburg 2022, 322–323 | gloss withheld |
-| Soqotri | ʾihor (LGz. 45); éʸhor (SLOnline 3177) | LGz. 45 | gloss withheld |
+| Soqotri | ʾihor (LGz. 45); éʸhor (SLOnline 3177) | LGz. 45; SLOnline 3177 | gloss withheld |
 | Aramaic | ʾăṯar (LGz. 45) | LGz. 45 | gloss withheld |
 | Syrian Aramaic | ʾaṯrā (LGz. 45) | LGz. 45 | gloss withheld |
 | Mandaic Aramaic | atra (LGz. 45) | LGz. 45 | gloss withheld |

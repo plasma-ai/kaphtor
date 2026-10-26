@@ -45,6 +45,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | CANDIDATE |
+| [[wiki/linear-a/words/D/DI_NI\|DI-NI]] | Dīnī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_NI_MI\|DU-NI-MI]] | ʾadunim / ʾadunīm | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_SU_NI\|DU-SU-NI]] | Dišon | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | SPECULATIVE |

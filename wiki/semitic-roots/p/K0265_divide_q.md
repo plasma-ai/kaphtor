@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | PSG (DNWSI 922 apud CAL) | DNWSI 922; CAL | gloss withheld |
-| Hebrew | pasag 'pass between' (BDB 819) | BDB 819 |  |
+| Aramaic | PSG (DNWSI 922 apud CAL) | DNWSI 922; CAL; Anderson–Moser 2024 root psg | gloss withheld |
+| Hebrew | pasag 'pass between' (BDB 819) | BDB 819; Anderson–Moser 2024 root psg |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

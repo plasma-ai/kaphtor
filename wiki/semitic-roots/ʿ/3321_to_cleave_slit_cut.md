@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS ˁḳḳ 'to cleave, to slit' (SEDonline 2149). SEDonline 2149 also lists Ugr. ˁḳḳ 'a destructive one' (DUL 177).
+PWS \*ˁḳḳ 'to cleave, to slit' (SEDonline 2149). SEDonline 2149 also lists Ugr. ˁḳḳ 'a destructive one' (DUL 177).
 
 <!-- END kaphtor:record -->

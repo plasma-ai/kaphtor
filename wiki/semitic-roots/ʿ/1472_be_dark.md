@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | eṭû |  |  |
+| Akkadian | eṭû (CAD E 412) | CAD E 412 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

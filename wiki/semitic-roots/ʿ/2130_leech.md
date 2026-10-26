@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕalaḳ-(at-) 'sangsue' \[BK 2 345\], \[Fr. III 210\], \[Lane 2134\], \[LA X 267\]. | BK 2 345; Fr. III 210; Lane 2134; LA X 267 |  |
 | Mehri | ʔāwḳáyt (pl. ʔālaḳtǝn) \[JM 22\]. | JM 22 | gloss withheld |
-| Akkadian | ilḳu SB \[CAD i 88\], \[AHw. 373\] | CAD i 88; AHw. 373; CAD i 88; AHw. 1563; Landsberger Fauna 130; HALOT 413 | gloss withheld |
+| Akkadian | ilḳu SB \[CAD i 88\], \[AHw. 373\] | CAD i 88; AHw. 373 | gloss withheld |
 | Tigre | ʕaläḳ \[LH 452\]. | LH 452 | gloss withheld |
 | Geez | ʕalaḳt \[LGz. 61\]. | LGz. 61 | gloss withheld |
 | Gurage | Muh. Msq. Sod. aläḳǝt, Sel. alč̣ǝt, Wol. alč̣it, Gog. Sod. aläʔǝt, Eža aräḳǝt Cha. Enm. Gyt. aräḳǝṭ \[LGur. 41\]. | LGur. 41 | gloss withheld |
@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | ēḳti \[LHar. 30\]. | LHar. 30 | gloss withheld |
 | Syrian Aramaic | ʕelaḳtā, ʕalūḳā 'leech, bloodsucker' \[Brock. 528\], \[PS 2903\] (also ʕalḳā). | Brock. 528; PS 2903 |  |
 | Tigrinya | ʕaläḳti 'leech (mignatta)' \[Bass. 670\]. | Bass. 670 |  |
-| Aramaic | ʿlwqh (Aramaic Root Atlas; CAL s.v. ʿlwqh) | Aramaic Root Atlas; CAL s.v. ʿlwqh | gloss withheld |
+| Aramaic | ʿlwqh (Aramaic Root Atlas; CAL s.v. ʿlwqh) | Aramaic Root Atlas; CAL s.v. ʿlwqh; Anderson–Moser 2024 root ʿlq | gloss withheld |
 | Argobba | haläqit (LGz. 61) | LGz. 61 |  |
 | Modern Aramaic | NSyr. ʕalûḳâ, Tur. ʕalḳe (pl.), ʕalḳo (SED II 51) | SED II 51 | gloss withheld |
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | dāniḳ- 'foolish, stupid' \[BK 1 739\] | BK 1 739 |  |
 | East Ethiopic | SEL dōnḳa, WOL donḳä \[LGur 214\]. | LGur 214 | gloss withheld |
 | Geez | danḳawa \[LGz 138\] | LGz 138 | gloss withheld |
-| Gurage | END dǝnuʔ do. \[LGur 214\], donäʔä (cf. likely related ENN dǝrõʔä, CHA GYE ṭǝräḳʷä, EZHA ṭǝräḳḳʷä do. \[ibid.\]) | LGur 214; ibid. | gloss withheld |
+| Gurage | END dǝnuʔ \[LGur 214\], donäʔä | LGur 214 | gloss withheld |
 | Amharic | (?) dännäḳä \[K 1793\] | K 1793 | gloss withheld |
 | Tigrinya | (?) dännäḳä 'to be astonished, to marvel, to remain amazed' \[Bass 787\] | Bass 787 |  |
 | Harari | dōnḳa (SED I 279) | SED I 279 | gloss withheld |

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḏibb- 'acute madness, fury' \[BK 1 762\]; ḏubāb- 'madness, fury' \[ibid. 763\] | BK 1 762; ibid. 763 |  |
+| Arabic | ḏibb- 'acute madness, fury' \[BK 1 762\]; ḏubāb- 'madness, fury' \[ibid. 763\] | BK 1 762; BK 763 |  |
 | Akkadian | zabābu SB \[CAD z 1\]. | CAD z 1 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

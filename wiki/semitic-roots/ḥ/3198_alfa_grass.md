@@ -29,10 +29,10 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | elpetu (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Hebrew | pB. ḥēläp (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Syrian Aramaic | ḥulpā (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Arabic | ḥalaf- (Kogan 2011, 201) | Kogan 2011, 201 |  |
+| Akkadian | elpetu (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Hebrew | pB. ḥēläp (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Syrian Aramaic | ḥulpā (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Arabic | ḥalaf- (Kogan 2011, 201) | Kogan 2011 201 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

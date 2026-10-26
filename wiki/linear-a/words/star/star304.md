@@ -72,7 +72,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis\|HTWa1021bis]] | Haghia Triada | Nodule | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |

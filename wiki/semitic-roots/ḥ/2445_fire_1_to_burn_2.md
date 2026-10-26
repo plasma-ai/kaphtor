@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | hǝ-nḥū 2 |  |  |
+| Mehri | hǝ-nḥū 2 (Kogan 2015, ch. 8 §3.2.4 no. 12) | Kogan 2015 ch. 8 §3.2.4 no. 12 |  |
 | Soqotri | ǝ-nḥi 2 |  |  |
 | Geez | ḥaw (haw) |  |  |
-| Jibbali | e-nḥé 2 |  |  |
+| Jibbali | e-nḥé 2 (Kogan 2015, ch. 8 §3.2.4 no. 12) | Kogan 2015 ch. 8 §3.2.4 no. 12 |  |
 | Tigrinya | ḥawwi |  |  |
 | Tigre | ḥaw, haya (LGz. 248) | LGz. 248 | gloss withheld |
 

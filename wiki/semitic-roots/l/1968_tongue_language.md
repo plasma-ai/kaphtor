@@ -35,14 +35,14 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | léšin \[LS 236\], \[SSL LS 1466\] | LS 236; SSL LS 1466 |  |
 | Akkadian | lišānu OB on \[CAD l 209\], \[AHw 556\] | CAD l 209; AHw 556 | gloss withheld |
 | Harsusi | lēšen \[JH 85\] | JH 85 |  |
-| Tigre | lǝs(s)an \[LH 36\], nǝssal \[ibid. 325\] | LH 36; ibid. 325 |  |
+| Tigre | lǝs(s)an \[LH 36\], nǝssal \[ibid. 325\] | LH 36; LH 325 |  |
 | Eblaitic | li-sa-nu /lišānu(m)/ \[Kr 7-8; Bl E No. 66\] | Kr 7-8 |  |
 | Mandaic Aramaic | lišana \[DM 237\] | DM 237 |  |
 | Ugaritic | lšn \[DULAT 501\]; /lašānu/ (UVST 143) | DULAT 501; UVST 143 |  |
 | Geez | lǝssan \[LGz 318\]. | LGz 318 |  |
 | Biblical Aramaic | liššānā (BDB 1099) | BDB 1099 |  |
 | Phoenician | lasoun \[HJ 584\] (in Diosc.) | HJ 584 |  |
-| Modern Aramaic | MAL liššōna \[Berg 54\] MLḤS lešono \[J Mlah 181\] HRT neššala \[J Hert 195\] NASS lišǟnä \[Tser 0119\] URM lišǝnǝ \[R Urmi 100\] ZKH līšana \[R Zakhon 108\] M MND lišān, emph. lišāna \[M MND 508, 523\] GZR lišána \[Nak 78\] AZRB liššana (northern subdialect), lišana (southern subdialect) \[Garb 317\] IRAN lišâna \[Pen 97\] | Berg 54; J Mlah 181; J Hert 195; Tser 0119; Nak 78; Garb 317; Pen 97 | gloss withheld |
+| Modern Aramaic | MAL liššōna \[Berg 54\] MLḤS lešono \[J Mlah 181\] HRT neššala \[J Hert 195\] NASS lišǟnä \[Tser 0119\] URM lišǝnǝ \[R Urmi 100\] ZKH līšana \[R Zakhon 108\] M MND lišān, emph. lišāna \[M MND 508, 523\] GZR lišána \[Nak 78\] AZRB liššana (northern subdialect), lišana (southern subdialect) \[Garb 317\] IRAN lišâna \[Pen 97\] | Berg 54; J Mlah 181; J Hert 195; Tser 0119; M MND 508, 523; Nak 78; Garb 317; Pen 97 | gloss withheld |
 | Jibbali | ɛls̃ɛ́n \[JJ 165\] | JJ 165 |  |
 | Hebrew | lāšōn (HALOT 536) | HALOT 536 |  |
 | Amharic | lǝs(s)an \[K 58\] | K 58 |  |

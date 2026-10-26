@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | falaʕa 'clave' (Lane 2440) | Lane 2440 |  |
-| Aramaic | PLʿ (Aramaic Root Atlas; CAL s.v. plʿ) | Aramaic Root Atlas; CAL s.v. plʿ | gloss withheld |
+| Arabic | falaʕa 'clave' (Lane 2440) | Lane 2440; Anderson–Moser 2024 root plʿ |  |
+| Aramaic | PLʿ (Aramaic Root Atlas; CAL s.v. plʿ) | Aramaic Root Atlas; CAL s.v. plʿ; Anderson–Moser 2024 root plʿ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/h
 desc: "Semitic roots whose first radical is h."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/h
@@ -105,6 +105,12 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/h/3491_to_flee|3491_to_flee]]: Proto-Semitic *hrb, 'to flee': reflexes in 3 language(s).
 
+[[wiki/semitic-roots/h/3563_war_battle|3563_war_battle]]: Proto-Semitic *hyg, 'war, battle': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/h/3564_shower_lasting_rain|3564_shower_lasting_rain]]: Proto-Semitic *hḍb, 'shower, lasting rain': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/h/3650_to_mutter_to_read_aloud_spell_out_to_meditate|3650_to_mutter_to_read_aloud_spell_out_to_meditate]]: Proto-Semitic *hgy, 'to mutter; to read aloud, spell out; to meditate': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/h/453_go_ahead_in_awe|453_go_ahead_in_awe]]: Proto-Semitic *hVṭaʕ-, 'go ahead in awe': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/h/45_hero|45_hero]]: Proto-Semitic *humām-, 'hero': reflexes in 1 language(s).
@@ -115,7 +121,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/h/495_fall|495_fall]]: Proto-Semitic *hVbi/uṭ-, 'fall': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/497_fall_upon|497_fall_upon]]: Proto-Semitic *hVy/w-, 'fall (upon)': reflexes in 6 language(s).
+[[wiki/semitic-roots/h/497_fall_upon_1_destruction_disaster_2|497_fall_upon_1_destruction_disaster_2]]: Proto-Semitic *hVy/w-, 'fall (upon)' 1, 'destruction, disaster' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/h/535_strike|535_strike]]: Proto-Semitic *hVtim-, 'strike': reflexes in 1 language(s).
 
@@ -141,13 +147,13 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/h/K0085_matter|K0085_matter]]: Proto-Semitic *hVwVt-, 'matter': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/h/S40_to_go_walk_travel_1_way_course_2|S40_to_go_walk_travel_1_way_course_2]]: Proto-Semitic *hlk-, 'to go, walk, travel' 1, 'way, course' 2: reflexes in 13 language(s).
+[[wiki/semitic-roots/h/S40_to_go_walk_travel_1_way_course_2|S40_to_go_walk_travel_1_way_course_2]]: Proto-Semitic *hlk-, 'to go, walk, travel' 1, 'way, course' 2: reflexes in 15 language(s).
 
-[[wiki/semitic-roots/h/SA032_prosperity|SA032_prosperity]]: Epigraphic South Arabian headword *hnʾ, 'prosperity': reflexes in 1 language(s).
+[[wiki/semitic-roots/h/SA032_to_be_pleasant_agreeable_sound_prosperous|SA032_to_be_pleasant_agreeable_sound_prosperous]]: Epigraphic South Arabian headword *hnʾ, 'to be pleasant, agreeable; sound, prosperous': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/h/SA034_BOOTY|SA034_BOOTY]]: Epigraphic South Arabian headword *hrk, 'BOOTY': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/h/SA036_soften_one_s_heart|SA036_soften_one_s_heart]]: Epigraphic South Arabian headword *hwn, 'soften one's heart': reflexes in 2 language(s).
+[[wiki/semitic-roots/h/SA036_to_be_light_easy_to_soften_one_s_heart|SA036_to_be_light_easy_to_soften_one_s_heart]]: Epigraphic South Arabian headword *hwn, 'to be light, easy; to soften (one's heart)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/h/SA041_LIBATION_cf_hy_sense|SA041_LIBATION_cf_hy_sense]]: Epigraphic South Arabian headword *hyʕ, 'LIBATION (cf hyᶜ sense²)': reflexes in 2 language(s).
 

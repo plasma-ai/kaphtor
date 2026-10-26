@@ -3,7 +3,7 @@ name: data/linear-a
 title: Linear A data
 desc: The Linear A corpus, sign values, lexicon, translations, onomasticon and unread words, and the Eteocretan inscriptions, each with a datasheet.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-24T16:06:53Z
+updated: 2026-10-25T22:39:33Z
 ---
 
 # Linear A data
@@ -16,11 +16,15 @@ updated: 2026-10-24T16:06:53Z
 
 [[data/linear-a/corpus.json|corpus.json]]: The inscriptions, one record per inscription or face; datasheet `corpus.md`; CC BY-NC-SA 4.0 and CC BY 4.0.
 
+[[data/linear-a/egyptian_roots.json|egyptian_roots.json]]: The Egyptian root keys of the competitor null, with forms and citations; datasheet `rival-roots.md`; CC BY-SA 4.0.
+
 [[data/linear-a/eteocretan|eteocretan]]: The Eteocretan inscriptions (Dreros, Praisos), one proven fake and one Eteocypriote control, with Gordon's word readings and word analyses.
 
 [[data/linear-a/eteocretan_inscriptions.json|eteocretan_inscriptions.json]]: The Eteocretan inscriptions; datasheet `eteocretan.md`; CC BY 4.0.
 
 [[data/linear-a/eteocretan_word_analysis.json|eteocretan_word_analysis.json]]: Gordon's analyses of the Eteocretan words; datasheet `eteocretan.md`; CC BY 4.0.
+
+[[data/linear-a/hurrian_roots.json|hurrian_roots.json]]: The Hurrian root keys of the competitor null, with forms and citations; datasheet `rival-roots.md`; CC BY 4.0.
 
 [[data/linear-a/inscription_image_files|inscription_image_files]]: Each corpus record's photograph and facsimile files, as paths inside a checkout of the image archive; names only, no images.
 
@@ -31,6 +35,8 @@ updated: 2026-10-24T16:06:53Z
 [[data/linear-a/lexicon.json|lexicon.json]]: The lexicon; datasheet `lexicon.md`; CC BY 4.0.
 
 [[data/linear-a/linear-b-sign-map.json|linear-b-sign-map.json]]: The Linear B and Aegean Numbers characters with Unicode fields; datasheet `sign-maps.md`; CC BY 4.0.
+
+[[data/linear-a/luwian_roots.json|luwian_roots.json]]: The Luwian root keys of the competitor null, with forms and their analogues' labels; datasheet `rival-roots.md`; CC BY-SA 4.0 for its Wiktionary entries, and the ACLT and TIED terms set out there.
 
 [[data/linear-a/missing_sound_map|missing_sound_map]]: The phonemic gaps of the Linear A syllabary against the Proto-Semitic consonants, the signs whose values fill them, and the positional behaviour of the frequent unknown signs.
 
@@ -43,6 +49,8 @@ updated: 2026-10-24T16:06:53Z
 [[data/linear-a/onomasticon|onomasticon]]: One entry per Linear A name, toponym, theonym, gentilic or title, with its type, its linguistic affiliation and the evidence for it, and every document where it appears.
 
 [[data/linear-a/onomasticon.json|onomasticon.json]]: The names, toponyms, theonyms, gentilics and titles, with their linguistic affiliation; datasheet `onomasticon.md`; CC BY 4.0.
+
+[[data/linear-a/rival-roots|rival-roots]]: The Egyptian, Luwian and Hurrian root keys the competitor null rescores every Semitic match against, each with its form and its citations or source labels.
 
 [[data/linear-a/sigla-sign-map.json|sigla-sign-map.json]]: The SigLA sign list with Unicode fields; datasheet `sign-maps.md`; CC BY-NC-SA 4.0 (SigLA's dataset).
 

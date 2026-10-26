@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Etymology unsettled: Berber/Tamazight (feminine t-...-t frame), Egyptian (tA-Nt 'she of Neith', cf. Greek Θεννειθ) and Semitic (feminine of tannîn, see 2674) proposals. Consort of Baal Hammon, principal goddess of Carthage.
+Etymology unsettled: Berber/Tamazight (feminine t-...-t frame), Egyptian (tA-Nt 'she of Neith', cf. Greek Θεννειθ) and Semitic (feminine of tannîn, see 238) proposals. Consort of Baal Hammon, principal goddess of Carthage.
 
 <!-- END kaphtor:record -->

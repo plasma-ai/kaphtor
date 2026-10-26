@@ -14,7 +14,7 @@ A word is any undamaged syllabic run of 2+ signs in corpus.json `transliteratedW
   - carries a reading in onomasticon.json.
 Everything else belongs in the file. The check reports:
   unlisted       a corpus word with no reading that the file neither lists nor excludes
-  now_read       a listed word that is now read (move it to `graduated` by hand)
+  now_read       a listed word that is now read (remove it by hand)
   not_in_corpus  a listed word that no undamaged corpus token yields
   lexicon_reads  a listed word the lexicon reads that stands whole in no intact token on the
                  documents its lexicon entry cites (a broken word the lexicon reads keeps its

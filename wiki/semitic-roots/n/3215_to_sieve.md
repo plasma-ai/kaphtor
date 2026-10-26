@@ -29,11 +29,11 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | naḫālu (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Syrian Aramaic | nḫl (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Arabic | nḫl (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Mehri | nḫl (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Jibbali | nḫl (Kogan 2011, 242) | Kogan 2011, 242 |  |
+| Akkadian | naḫālu A (CAD N/1 125; Kogan 2011, 242); naḫlu (CAD N/1 140); niḫlu A (CAD N/2 219) | CAD N/1 125; Kogan 2011 242; CAD N/1 140; CAD N/2 219 | gloss withheld |
+| Syrian Aramaic | nḥal (Payne Smith 335; Kogan 2011, 242) | Payne Smith 335; Kogan 2011 242 | gloss withheld |
+| Arabic | naḫala, intaḫala (Lane 3029; Kogan 2011, 242) | Lane 3029; Kogan 2011 242 | gloss withheld |
+| Mehri | nḫl (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Jibbali | nḫl (Kogan 2011, 242) | Kogan 2011 242 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

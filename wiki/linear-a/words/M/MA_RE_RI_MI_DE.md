@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/M/MA_RE_RI_MI_DE
 title: "MA-RE-RI-MI-DE"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "MA-RE-RI-MI-DE"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 PH 30 .2 MA-RE-RỊ-MI-DẸ\[, RI and DE dotted, broken after DE. The editors' note offers MA-RE followed by two unread signs (GORILA I 317). Sole attestation. Not readable.
 

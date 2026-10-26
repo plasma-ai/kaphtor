@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0538_quiet
 title: "*šataq-: 'quiet'"
-desc: "Proto-Semitic *šataq-, 'quiet': reflexes in 3 language(s)."
+desc: "Proto-Semitic *šataq-, 'quiet': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0538"
@@ -29,9 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠTQ (Aramaic Root Atlas; DNWSI 1200 apud CAL) | Aramaic Root Atlas; DNWSI 1200; CAL | gloss withheld |
+| Aramaic | ŠTQ (Aramaic Root Atlas; DNWSI 1200 apud CAL) | Aramaic Root Atlas; DNWSI 1200; CAL; Anderson–Moser 2024 root štq | gloss withheld |
 | Hebrew | šataq (BDB 1060; HALOT 1671) | BDB 1060; HALOT 1671 | gloss withheld |
 | Judaic Aramaic | šətaq (HALOT 1671; DJPA 569b apud CAL) | HALOT 1671; DJPA 569b; CAL |  |
+| Syrian Aramaic | štq (Kogan 2015, ch. 6 §3 no. 8) | Kogan 2015 ch. 6 §3 no. 8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

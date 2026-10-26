@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | balāmu 'gag' | Anderson–Moser 2024 root blm |  |
 | Arabic | balama 'silent' | Anderson–Moser 2024 root blm |  |
 | Aramaic | BLM 'silence' | Anderson–Moser 2024 root blm |  |
-| Hebrew | balam 'curb' (BDB 117) | BDB 117 |  |
+| Hebrew | balam 'curb' (BDB 117) | BDB 117; Anderson–Moser 2024 root blm |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

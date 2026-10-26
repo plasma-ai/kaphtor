@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | naʿar 'shake'; naʿar 'boy' | Anderson–Moser 2024 root nʿr |  |
+| Hebrew | naʿar; naʿar (Kogan 2015, ch. 5 §3.1 no. 43) | Kogan 2015 ch. 5 §3.1 no. 43; Anderson–Moser 2024 root nʿr | gloss withheld |
 | Punic | nʿr 'young' | Anderson–Moser 2024 root nʿr |  |
-| Ugaritic | nʿr 'shake'; nʿr 'boy' | Anderson–Moser 2024 root nʿr |  |
+| Ugaritic | nʿr; nʿr (Kogan 2015, ch. 5 §3.1 no. 43) | Kogan 2015 ch. 5 §3.1 no. 43; Anderson–Moser 2024 root nʿr | gloss withheld |
 | Arabic | naʿara (HALOT 707) | HALOT 707 |  |
 | Phoenician | nʿr (T 212) | T 212 | gloss withheld |
 | Canaanite | Amm. nʕr (DNWSI 739 apud SEDonline 246) | DNWSI 739; SEDonline 246 | gloss withheld |

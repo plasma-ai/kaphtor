@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | HPK (Aramaic Root Atlas; CAL s.v. hpk) | Aramaic Root Atlas; CAL s.v. hpk | gloss withheld |
-| Hebrew | hapak 'turn' (BDB 245) | BDB 245 |  |
+| Aramaic | HPK (Aramaic Root Atlas; CAL s.v. hpk) | Aramaic Root Atlas; CAL s.v. hpk; Anderson–Moser 2024 root hpk | gloss withheld |
+| Hebrew | hapak 'turn' (BDB 245) | BDB 245; Anderson–Moser 2024 root hpk |  |
 | Punic | hpk 'overturn' | Anderson–Moser 2024 root hpk |  |
-| Ugaritic | hpk; /tuhappiku/? (UVST 121) | UVST 121 | gloss withheld |
+| Ugaritic | hpk; /tuhappiku/? (UVST 121) | UVST 121; Anderson–Moser 2024 root hpk | gloss withheld |
 | Arabic | ʾafaka (HALOT 253) | HALOT 253 | gloss withheld |
 | Akkadian | abāku; abiktu (HALOT 253) | HALOT 253 | gloss withheld |
 | Phoenician | hpk (T 83) | T 83 | gloss withheld |

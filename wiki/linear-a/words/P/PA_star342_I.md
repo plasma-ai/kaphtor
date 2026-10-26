@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_star342_I
 title: "PA-*342-I"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "PA-*342-I"
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 HT43 .1–.2 PA-\*342-I, PA at the end of .1 after MA-SI-DU ·, \*342-I at the head of .2, all three signs whole and undotted, then · I GRA+PA 5̣\[ (GORILA I 83). \*342 has no resolved value. Sole attestation. No reading.
 

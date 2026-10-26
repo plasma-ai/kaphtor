@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Areal \*ḳbˀ/y 'to summon, to invoke' (Kogan 2015:337 apud SEDonline 2063); the origin of Akk.-Ugr. \*ḳbˀ/\*ḳby is uncertain (SEDonline 2063). SEDonline 2063 calls Hbr. ḳbb 'to curse, enchant' (HALOT 1060), Tgr. ḳäbbä 'to revile' and Tna. ḳäbäbä 'to mock' probably related.
+Areal \*ḳbˀ/y 'to summon, to invoke' (Kogan 2015, 337 apud SEDonline 2063). SEDonline 2063 relates Hbr. ḳbb (HALOT 1060), Tgr. ḳäbbä and Tna. ḳäbäbä.
 
 <!-- END kaphtor:record -->

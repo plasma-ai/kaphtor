@@ -32,12 +32,12 @@ updated: 2026-10-24T15:25:56Z
 | Judaic Aramaic | JBA pls (DJBA 913 apud SEDonline 1820) | DJBA 913; SEDonline 1820 | gloss withheld |
 | Tigre | fälsä (WTS 651 apud SEDonline 1820) | WTS 651; SEDonline 1820 | gloss withheld |
 | Tigrinya | fälläsä (TED 2637 apud SEDonline 1820) | TED 2637; SEDonline 1820 | gloss withheld |
-| Amharic | fälläsä (AED 2263 apud SEDonline 1820); fälläsä (AED 2264 apud SEDonline 1820) | AED 2263; SEDonline 1820; AED 2264; SEDonline 1820 | gloss withheld |
+| Amharic | fälläsä (AED 2263 apud SEDonline 1820); fälläsä (AED 2264 apud SEDonline 1820) | AED 2263; SEDonline 1820; AED 2264 | gloss withheld |
 | Harari | fullāsa āša (EDH 62 apud SEDonline 1820) | EDH 62; SEDonline 1820 | gloss withheld |
 | Mehri | fəlōs (ML 94 apud SEDonline 1820) | ML 94; SEDonline 1820 | gloss withheld |
 | Jibbali | fɔ́lɔ́s (JL 57 apud SEDonline 1820) | JL 57; SEDonline 1820 | gloss withheld |
 | Modern South Arabian | Bathari fəlōs (Gasparini - Morris 2025 189 apud SEDonline 1820) | SEDonline 1820 | gloss withheld |
-| Soqotri | fö́ḷos (SLOnline 3705) |  | gloss withheld |
+| Soqotri | fö́ḷos (SLOnline 3705) | SLOnline 3705 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

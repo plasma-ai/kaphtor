@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PB Heb. tbʿ means 'to search; to ask, claim, summon' (Jastrow 1645). Ugaritic tbʿ 'to go, leave, depart; to die' (DULAT 844), compared there with Arab. tabiʕa 'to follow'.
+PB Heb. tbʿ means 'to search; to ask, claim, summon' (Jastrow 1645). Ugaritic tbʿ is 1422 \*tVb- 'rise, set out'; DULAT 844 compares Arab. tabiʕa 'to follow'.
 
 <!-- END kaphtor:record -->

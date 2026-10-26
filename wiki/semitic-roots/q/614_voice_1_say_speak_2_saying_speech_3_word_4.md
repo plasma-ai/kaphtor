@@ -33,16 +33,16 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḳwl \[-u-\] 2 (Lane 2994) | Lane 2994 |  |
 | Tigre | ḳal 4 |  |  |
 | Mandaic Aramaic | ḳala 1 (Drower/Macuch 400b apud CAL) | Macuch 400b; CAL |  |
-| Ugaritic | ḳl 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 15) | Kogan 2015, ch. 2 §5.2.2.1 no. 15 |  |
-| Geez | ḳāl 1, 3, 4 (Kogan 2015, ch. 2 §5.2.2.1 no. 15) | Kogan 2015, ch. 2 §5.2.2.1 no. 15 |  |
+| Ugaritic | ḳl 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 15) | Kogan 2015 ch. 2 §5.2.2.1 no. 15 |  |
+| Geez | ḳāl 1, 3, 4 (Kogan 2015, ch. 2 §5.2.2.1 no. 15) | Kogan 2015 ch. 2 §5.2.2.1 no. 15 |  |
 | Gurage | ḳal 1 |  |  |
 | Phoenician | ḳl 1 |  |  |
-| Hebrew | ḳōl 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 15) | Kogan 2015, ch. 2 §5.2.2.1 no. 15 |  |
+| Hebrew | ḳōl 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 15) | Kogan 2015 ch. 2 §5.2.2.1 no. 15 |  |
 | Amharic | ḳal 4 |  |  |
-| Epigraphic South Arabian | ḳwl; (Sabaweb lemma 4823) | Sabaweb lemma 4823 | gloss withheld |
+| Epigraphic South Arabian | ḳwl (Sabaweb lemma 4823) | Sabaweb lemma 4823 | gloss withheld |
 | Syrian Aramaic | ḳāl- 1 (Payne Smith 505) | Payne Smith 505 |  |
 | Tigrinya | ḳal 4 |  |  |
-| Punic | ql (Krahmalkov 426–427) | Krahmalkov 426–427 | gloss withheld |
+| Punic | ql (Krahmalkov 426–427) | Krahmalkov 426–427; Anderson–Moser 2024 root qwl | gloss withheld |
 | Judaic Aramaic | qālā (HALOT 1083; DJPA 492b apud CAL) | HALOT 1083; DJPA 492b; CAL |  |
 | Amorite | qwl: qāla, qālum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ql (Al-Jallad–Jaworska 110) | Al-Jallad–Jaworska 110 | gloss withheld |

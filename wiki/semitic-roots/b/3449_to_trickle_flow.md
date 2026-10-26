@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | baṣāṣu (CAD B 134, AHw. 110 apud SEDonline 1834) | CAD B 134, AHw. 110; SEDonline 1834 | gloss withheld |
-| Arabic | bḍḍ (Lane 213 apud SEDonline 1834); baḍaḍ- (Lane 213 apud SEDonline 1834); baḍīḍat- (Lane 213 apud SEDonline 1834) | Lane 213; SEDonline 1834; Lane 213; SEDonline 1834; Lane 213; SEDonline 1834 | gloss withheld |
+| Arabic | bḍḍ (Lane 213 apud SEDonline 1834); baḍaḍ- (Lane 213 apud SEDonline 1834); baḍīḍat- (Lane 213 apud SEDonline 1834) | Lane 213; SEDonline 1834 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

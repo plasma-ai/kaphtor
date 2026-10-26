@@ -29,9 +29,9 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Phoenician | ṭnʾ (T 120); (Krahmalkov 202); mṭnʾ (Krahmalkov 279) | T 120; Krahmalkov 202; Krahmalkov 279 | gloss withheld |
-| Punic | ṭnʾ (T 120); (Krahmalkov 202) | T 120; Krahmalkov 202 | gloss withheld |
-| Epigraphic South Arabian | Sab ṭny (SD 153); (Biella 220) | SD 153; Biella 220 | gloss withheld |
+| Phoenician | ṭnʾ (T 120) (Krahmalkov 202); mṭnʾ (Krahmalkov 279) | T 120; Krahmalkov 202; Krahmalkov 279 | gloss withheld |
+| Punic | ṭnʾ (T 120) (Krahmalkov 202) | T 120; Krahmalkov 202 | gloss withheld |
+| Epigraphic South Arabian | Sab ṭny (SD 153) (Biella 220) | SD 153; Biella 220 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

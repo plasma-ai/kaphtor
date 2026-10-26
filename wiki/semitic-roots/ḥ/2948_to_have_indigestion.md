@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ḥmr |
 | Meaning | 'to have indigestion' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I verbal roots, No. 28 |
 
 ## Reflexes
 
@@ -32,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | emēru (SED I 293) | SED I 293 | gloss withheld |
 | Hebrew | (?) ḥmr (poʕalal), likely in Lam 1.20, 2.11 (SED I 293) | SED I 293 | gloss withheld |
 | Arabic | ḥmr (SED I 293) | SED I 293 | gloss withheld |
-| Jibbali | aḥmír; (SED I 293) | SED I 293 | gloss withheld |
+| Jibbali | aḥmír (SED I 293) | SED I 293 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-SED I, verbal roots, No. 28, after M. Bulakh. Job 16.16 (of the face) may belong to 1566 \*ḥVmVr- 'be red' (SED I 293). A different etymon from 1566, 769 'clay', 2637 'rock', 2736 'wine' and 2790 'donkey', all on the same consonants.
+A different etymon from 1566, 769 'clay', 2637 'rock', 2736 'wine' and 2790 'donkey', all on the same consonants.
 
 <!-- END kaphtor:record -->

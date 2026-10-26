@@ -23,14 +23,15 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*pšḥ |
 | Meaning | 'to be spacious, wide; to enlarge' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1952 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fsḥ (Lane 2395 apud SEDonline 1952) | Lane 2395; SEDonline 1952 | gloss withheld |
-| Epigraphic South Arabian | Sab. h-fs₁ḥ (SD 46 apud SEDonline 1952); Sab. mfs₁ḥt (SD 46 apud SEDonline 1952) | SD 46; SEDonline 1952; SD 46; SEDonline 1952 | gloss withheld |
+| Epigraphic South Arabian | Sab. h-fs₁ḥ (SD 46 apud SEDonline 1952); Sab. mfs₁ḥt (SD 46 apud SEDonline 1952) | SD 46; SEDonline 1952 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

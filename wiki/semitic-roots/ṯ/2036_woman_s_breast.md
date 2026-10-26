@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/ṯ/2036_woman_s_breast
-title: "*ṯa/ud-: (woman's) breast"
-desc: "Proto-Semitic *ṯa/ud-, (woman's) breast: reflexes in 9 language(s)."
+title: "*ṯa/ud-: '(woman's) breast'"
+desc: "Proto-Semitic *ṯa/ud-, '(woman's) breast': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2036"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *ṯa/ud-: (woman's) breast
+# *ṯa/ud-: '(woman's) breast'
 
 [[wiki/semitic-roots/ṯ/_index|..]]
 
@@ -22,7 +22,7 @@ updated: 2026-10-22T17:38:31Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*ṯa/ud- |
-| Meaning | (woman's) breast |
+| Meaning | '(woman's) breast' |
 | Basis | SED |
 | SED | SEDonline semet 2229 |
 

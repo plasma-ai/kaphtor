@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | DWḤ (C) 'to rinse, wash off' (Ja. 284) | Ja. 284 |  |
-| Hebrew | duwaḥ 'rinse' (BDB 188) | BDB 188 |  |
+| Aramaic | DWḤ (C) 'to rinse, wash off' (Ja. 284) | Ja. 284; Anderson–Moser 2024 root dwḥ |  |
+| Hebrew | duwaḥ 'rinse' (BDB 188) | BDB 188; Anderson–Moser 2024 root dwḥ |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

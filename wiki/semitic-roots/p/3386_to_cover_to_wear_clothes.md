@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*pḳy |
 | Meaning | 'to cover, to wear clothes' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1488 |
 
 ## Reflexes
 

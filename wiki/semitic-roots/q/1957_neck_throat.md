@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳard- 'neck' \[BK 2 709\], ḳurdūd- 'back (the whole width of the back in man from the buttocks up to the shoulders)' \[ibid. 710\], ḳurdūdat- 'the upper back' \[ibid.\]. | BK 2 709; ibid. 710; ibid. |  |
+| Arabic | ḳard- 'neck' \[BK 2 709\], ḳurdūd- 'back (the whole width of the back in man from the buttocks up to the shoulders)' \[ibid. 710\], ḳurdūdat- 'the upper back' \[ibid.\]. | BK 2 709; BK 710 |  |
 | Mehri | ḳard \[JM 235\] | JM 235 | gloss withheld |
 | Soqotri | ḳǝyrɔd (pl.) (sing. ḳár) \[JJ 148\]; see also \[SSL LS 1463\] | JJ 148; SSL LS 1463 | gloss withheld |
 | Harsusi | ḳard \[JH 77\] | JH 77 | gloss withheld |

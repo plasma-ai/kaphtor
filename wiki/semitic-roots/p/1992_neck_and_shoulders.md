@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | foḳay \[LH 663\] | LH 663 | gloss withheld |
 | Mandaic Aramaic | pḳuta, puḳuta, apḳuta \[DM 377\] | DM 377 | gloss withheld |
 | Ugaritic | (?) pḳḳ (HALOT 1650 apud Dietrich-Loretz-Sanmartín). | HALOT 1650 | gloss withheld |
-| Modern Aramaic | NMND foḳot, emph. foḳottā \[M MND 37, 512\] |  | gloss withheld |
-| Judaic Aramaic | ʔapḳōtā 'neck' \[Ja 107\] (stem with the ʔa- prefix) | Ja 107 |  |
+| Modern Aramaic | NMND foḳot, emph. foḳottā \[M MND 37, 512\] | M MND 37, 512 | gloss withheld |
+| Judaic Aramaic | ʔapḳōtā 'neck' \[Ja 107\] | Ja 107 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

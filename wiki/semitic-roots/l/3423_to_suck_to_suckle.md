@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/3423_to_suck_to_suckle
 title: "*lʕb: 'to suck; to suckle'"
-desc: "Proto-Semitic *lʕb, 'to suck; to suckle': reflexes in 2 language(s)."
+desc: "Proto-Semitic *lʕb, 'to suck; to suckle': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3423"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*lʕb |
 | Meaning | 'to suck; to suckle' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1463 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | lāb (ML 249 apud SEDonline 1463) | ML 249; SEDonline 1463 | gloss withheld |
 | Jibbali | elˁéb (JL 158 apud SEDonline 1463) | JL 158; SEDonline 1463 | gloss withheld |
+| Soqotri | ḷáʿab (Kogan 2015, ch. 8 §3.4.1 no. 66) | Kogan 2015 ch. 8 §3.4.1 no. 66 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

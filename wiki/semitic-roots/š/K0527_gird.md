@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | šanas 'gird' (BDB 1042) | BDB 1042 |  |
-| Ugaritic | šns 'gird' | Anderson–Moser 2024 root šns |  |
+| Hebrew | šanas 'gird' (BDB 1042) | BDB 1042; Anderson–Moser 2024 root šns |  |
+| Ugaritic | šns (Kogan 2015, ch. 5 §3.1 no. 61) | Kogan 2015 ch. 5 §3.1 no. 61; Anderson–Moser 2024 root šns | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

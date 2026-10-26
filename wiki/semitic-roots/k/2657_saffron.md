@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kurkum- 'Indian saffron, turmeric; henna' (BK II 888) | BK II 888 |  |
 | Mehri | kerkmín |  | gloss withheld |
 | Soqotri | kérkham (LS 225), kírkam | LS 225 | gloss withheld |
-| Harsusi | mekárkem (also) |  | gloss withheld |
+| Harsusi | mekárkem |  | gloss withheld |
 | Jibbali | ǝnkɛrkím |  | gloss withheld |
 | Hebrew | karkōm (HALOT 498) | HALOT 498 | gloss withheld |
 | Judaic Aramaic | kurkǝmā, kurḳǝmā 'saffron' (Ja. 625) | Ja. 625 |  |

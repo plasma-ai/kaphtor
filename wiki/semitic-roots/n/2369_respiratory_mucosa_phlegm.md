@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nuḫmat- 'that which is expelled through the mouth or nose, such as phlegm, mucus, etc.', nuḫāmat- do. \[BK 2 1223\]. | BK 2 1223 |  |
-| Akkadian | naḫnaḫatu NA \[AHw 715\], \[CAD n1 140\] (redupl.) | AHw 715; CAD n1 140 | gloss withheld |
+| Akkadian | naḫnaḫatu NA \[AHw 715\], \[CAD n1 140\] | AHw 715; CAD n1 140 | gloss withheld |
 | Jibbali | nḫɔḫ \[JJ 199\] | JJ 199 | gloss withheld |
-| Syrian Aramaic | naḥnaḥtā 'tonsils' \[Brock 423\] (redupl.) | Brock 423 |  |
+| Syrian Aramaic | naḥnaḥtā 'tonsils' \[Brock 423\] | Brock 423 |  |
 | Geez | naḫāʔ, naʔaḫ \[LGz. 396\] | LGz. 396 | gloss withheld |
 | Tigre | (tə)nāḥnəḥa (LGz. 396) | LGz. 396 | gloss withheld |
 

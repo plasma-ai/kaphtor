@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | hdʔ a,1,26 |  |  |
-| Geez | hadʾa (LGz. 214) | LGz. 214 | gloss withheld |
+| Geez | hadʾa (LGz. 214) | LGz. 214; Anderson–Moser 2024 root hdʾ | gloss withheld |
 | Soqotri | hyode (LGz. 214) | LGz. 214 |  |
 | Jibbali | hedeʾ (LGz. 214) | LGz. 214 |  |
 | Tigrinya | hadʾe (LGz. 214) | LGz. 214 |  |

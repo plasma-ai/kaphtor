@@ -37,7 +37,7 @@ updated: 2026-10-24T15:25:56Z
 | Mehri | sēn (ML 351 apud SEDonline 1535) | ML 351; SEDonline 1535 | gloss withheld |
 | Jibbali | sɛn (JL 230 apud SEDonline 1535) | JL 230; SEDonline 1535 | gloss withheld |
 | Harsusi | sēn (HL 111 apud SEDonline 1535) | HL 111; SEDonline 1535 | gloss withheld |
-| Soqotri | sen, sénhen (LS 288; SLOnline 7577) | LS 288 | gloss withheld |
+| Soqotri | sen, sénhen (LS 288; SLOnline 7577) | LS 288; SLOnline 7577 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

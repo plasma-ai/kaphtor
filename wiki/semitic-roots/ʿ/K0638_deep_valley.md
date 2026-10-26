@@ -30,15 +30,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | emēqu 'be(come) wise' | Anderson–Moser 2024 root ʿmq |  |
-| Arabic | ʕamuqa 'deep' (Lane 2157) | Lane 2157 |  |
-| Geez | ʿamaqa 'deep' (Dillmann 06941) | Dillmann 06941 |  |
-| Hebrew | ʿamaq 'deep'; ʿemeq 'valley' | Anderson–Moser 2024 root ʿmq |  |
+| Arabic | ʕamuqa 'deep' (Lane 2157) | Lane 2157; Anderson–Moser 2024 root ʿmq |  |
+| Geez | ʿamaqa 'deep' (Dillmann 06941) | Dillmann 06941; Anderson–Moser 2024 root ʿmq |  |
+| Hebrew | ʿamaq; ʿemeq; ʿōmeq (Pr 9:18, 25:3; HALOT 849) | HALOT 849; Anderson–Moser 2024 root ʿmq | gloss withheld |
 | Punic | ʿmq 'valley' | Anderson–Moser 2024 root ʿmq |  |
-| Ugaritic | ʿmq /ʿamuqu/ (UVST 160) | UVST 160 | gloss withheld |
+| Ugaritic | ʿmq /ʿamuqu/ (UVST 160) | UVST 160; Anderson–Moser 2024 root ʿmq | gloss withheld |
 | Epigraphic South Arabian | Sab ʿmq (Biella 372) | Biella 372 | gloss withheld |
 | Judaic Aramaic | ʿamqā; ʿamīq (HALOT 847, 849; Jastrow 1088, 1090; DJPA 411a apud CAL) | HALOT 847, 849; Jastrow 1088, 1090; DJPA 411a; CAL | gloss withheld |
 | Mandaic Aramaic | ʿumqā; ʿmuq (HALOT 847, 849; Drower/Macuch 352b apud CAL) | HALOT 847, 849; Macuch 352b; CAL |  |
-| Canaanite | ummuqu (HALOT 849) | HALOT 849 |  |
+| Canaanite | ummuqu (EA 359:29; HALOT 849; CAD U/W 134) | HALOT 849; CAD U/W 134 | gloss withheld |
 | Syrian Aramaic | ʿəmaq (LGz. 63; Payne Smith 418) | LGz. 63; Payne Smith 418 |  |
 | Tigrinya | ʿamäqʷä (LGz. 63) | LGz. 63 |  |
 | Tigre | ʿamqa (LGz. 63) | LGz. 63 | gloss withheld |

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥāl- 'horse's back' \[BK 1 518\]; maḥāl-, maḥālat- 'middle of the back, vertebra' \[ibid. 520\] | BK 1 518; ibid. 520 |  |
+| Arabic | ḥāl- 'horse's back' \[BK 1 518\]; maḥāl-, maḥālat- 'middle of the back, vertebra' \[ibid. 520\] | BK 1 518; BK 520 |  |
 | Akkadian | ḫallu OB on \[CAD ḫ 45\], \[AHw 312\]. | CAD ḫ 45; AHw 312 | gloss withheld |
 | Hebrew | PB ḥulyā 'limb; vertebra of the spinal column; link' \[Ja 434\] | Ja 434 |  |
 

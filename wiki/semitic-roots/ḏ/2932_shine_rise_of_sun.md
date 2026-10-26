@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | zāraḥ 'rise, shine' (BDB 280); zeraḥ 'dawning' (BDB 280) | BDB 280; BDB 280 |  |
+| Hebrew | zāraḥ 'rise, shine' (BDB 280); zeraḥ 'dawning' (BDB 280) | BDB 280 |  |
 | Epigraphic South Arabian | ʔḏrḥ (HALOT 281) | HALOT 281 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

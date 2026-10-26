@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | aliānu OAkk on CAD A/1 354 | CAD A/1 354 | gloss withheld |
 | Mandaic Aramaic | alan- |  | gloss withheld |
-| Ugaritic | alt (DULAT 63); iln, pl. ilnym (HALOT 54); aln (DULAT 56) | DULAT 63; HALOT 54; DULAT 56 | gloss withheld |
+| Ugaritic | alt (DULAT 63); iln, pl. ilnym (HALOT 54); aln (DULAT 56) | DULAT 63; HALOT 54; DULAT 56; Anderson–Moser 2024 root alān | gloss withheld |
 | Biblical Aramaic | ʔīlān |  | gloss withheld |
 | Modern Aramaic | Urm ʔīlān- |  | gloss withheld |
 | Hebrew | ʔēl-īm pl. (HALOT 40); ʔallā (HALOT 52), ʔallōn, pB (HALOT 54) | HALOT 40; HALOT 52; HALOT 54 | gloss withheld |

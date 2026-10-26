@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ẓuhr- 'noon hour' \[BK 2 145-6\] 1, ẓhr \[-a-\] 2 | BK 2 145-6 |  |
 | Mehri | ḏ̣ahr \[JM 83\] 1 | JM 83 | gloss withheld |
-| Soqotri | ḍuhr and ḏ̣uhr \[LS 361\] (ḏ̣ohr, according to \[JHrs 29\]) 1 | LS 361 | gloss withheld |
+| Soqotri | ḍuhr and ḏ̣uhr \[LS 361\] 1 | LS 361 | gloss withheld |
 | Harsusi | ḏ̣ahr \[JH 29\] 1 | JH 29 | gloss withheld |
 | Canaanite | Moab ʕd hṣhrm \[HJ 964\] 1 | HJ 964 | gloss withheld |
 | Jibbali | ḏ̣óhur \[JJ 48\] 1 | JJ 48 | gloss withheld |
@@ -42,5 +42,9 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic ẓhr (Al-Jallad–Jaworska 144) | Al-Jallad–Jaworska 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+The MSA forms with meaning 2 are likely Arabisms: Mehri ḏ̣ahar 2, Soqotri ṭahar 2.
 
 <!-- END kaphtor:record -->

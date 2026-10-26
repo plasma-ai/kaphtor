@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔibhām- 'thumb, toe' \[BK 1 174\] (\*-m &lt;\*-n by assimilation to b-); cf. bahīm- quoted with the same meaning as ʔibhām- in \[Lane 269\]. | BK 1 174; Lane 269 |  |
+| Arabic | ʔibhām- 'thumb, toe' \[BK 1 174\] | BK 1 174 |  |
 | Mehri | QISHN hābḗn \[SSL 2 219\]. | SSL 2 219 |  |
 | Akkadian | ubānu, upānu OB on \[AHw 1398\]. | AHw 1398 | gloss withheld |
-| Harsusi | ḥābēn \[JH 55\] &lt;\*ḥa-ʔabhā/īn ? | JH 55 |  |
+| Harsusi | ḥābēn \[JH 55\] | JH 55 |  |
 | Eblaitic | ba-ʔà-núm/nu(-um) /bahānum/ \[Kr 18; Bl E No. 17\] | Kr 18 |  |
 | Modern Arabic | DAṮ banām \[GD 212\] | GD 212 |  |
-| Hebrew | bōhän (&lt;\*buhn-); bǝhōnōt (pl. fem. &lt;\*bVhān-) (HALOT 111, 112). | HALOT 111, 112 |  |
+| Hebrew | bōhän; bǝhōnōt (HALOT 111, 112). | HALOT 111, 112 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

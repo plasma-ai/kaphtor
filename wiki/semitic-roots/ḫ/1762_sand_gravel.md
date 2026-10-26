@@ -35,14 +35,14 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫiṣṣu CAD ḫ 204 | CAD ḫ 204 | gloss withheld |
 | Tigre | ḥǝṣä |  |  |
 | Mandaic Aramaic | aṣaṣa, ṣaṣa |  | gloss withheld |
-| Geez | ḫoṣa (Kogan 2015, ch. 2 §4.2 no. 24) | Kogan 2015, ch. 2 §4.2 no. 24 |  |
-| Hebrew | ḥāṣāṣ (Kogan 2015, ch. 2 §4.2 no. 24) | Kogan 2015, ch. 2 §4.2 no. 24 | gloss withheld |
+| Geez | ḫoṣa (Kogan 2015, ch. 2 §4.2 no. 24) | Kogan 2015 ch. 2 §4.2 no. 24 |  |
+| Hebrew | ḥāṣāṣ (Kogan 2015, ch. 2 §4.2 no. 24) | Kogan 2015 ch. 2 §4.2 no. 24 | gloss withheld |
 | Syrian Aramaic | ḥǝṣāṣā |  |  |
 | Tigrinya | ḥuṣa |  |  |
 | Judaic Aramaic | ḥṣṣʾ (HALOT 344) | HALOT 344 |  |
 | Amharic | hač̣a (LGz. 267) | LGz. 267 | gloss withheld |
-| Mehri | ḥəṣṣáyt (Kogan 2011, 190) | Kogan 2011, 190 | gloss withheld |
-| Ugaritic | ḥṣ (Kogan 2015, ch. 2 §4.2 no. 24) | Kogan 2015, ch. 2 §4.2 no. 24 | gloss withheld |
+| Mehri | ḥəṣṣáyt (Kogan 2011, 190) | Kogan 2011 190 | gloss withheld |
+| Ugaritic | ḥṣ (Kogan 2015, ch. 2 §4.2 no. 24) | Kogan 2015 ch. 2 §4.2 no. 24 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

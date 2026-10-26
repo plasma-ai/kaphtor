@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/PH/PH
 desc: "Inscriptions from Phaistos, series PH."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-26T15:31:50Z
 ---
 
 # wiki/linear-a/inscriptions/PH/PH
@@ -51,13 +51,13 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/PH/PH/PH1b|PH1b]]: Tablet, Phaistos. Translation: none.
 
-[[wiki/linear-a/inscriptions/PH/PH/PH2|PH2]]: Tablet, Phaistos. Translation: none.
+[[wiki/linear-a/inscriptions/PH/PH/PH2|PH2]]: Tablet, Phaistos. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/PH/PH/PH22a|PH22a]]: Tablet, Phaistos. Translation: none.
 
 [[wiki/linear-a/inscriptions/PH/PH/PH22b|PH22b]]: Tablet, Phaistos. Translation: none.
 
-[[wiki/linear-a/inscriptions/PH/PH/PH24|PH24]]: Tablet, Phaistos, MMII. Translation: none.
+[[wiki/linear-a/inscriptions/PH/PH/PH24|PH24]]: Tablet, Phaistos, MMII. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/PH/PH/PH25|PH25]]: Tablet, Phaistos, MMII. Translation: none.
 

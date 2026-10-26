@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṭwy \[-i-\] 2 (Lane 1898), ṭayy- 'fold' (n.) (Lane 1898) | Lane 1898; Lane 1898 |  |
-| Akkadian | ṭawû 1 |  |  |
+| Arabic | ṭwy \[-i-\] 2 (Lane 1898), ṭayy- 'fold' (n.) (Lane 1898) | Lane 1898 |  |
+| Akkadian | ṭamû (ṭawû) 1 (CAD Ṭ 45) | CAD Ṭ 45 | gloss withheld |
 | Tigre | ṭäwa 3,4 |  |  |
 | Geez | ṭwy 3 |  |  |
 | Gurage | aṭwayyä 4 |  |  |

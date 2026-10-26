@@ -44,4 +44,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Arabic kuḥl gives the denominative kaḥḥala (Stem II), kaḥḥāl 'oculist' and kahīl 'darkened with kohl' (OLA80 §66.6).
+
 <!-- END kaphtor:record -->

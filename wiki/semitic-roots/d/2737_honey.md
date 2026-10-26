@@ -40,9 +40,9 @@ updated: 2026-10-22T17:38:31Z
 | Harari | dūs (LGz. 122) | LGz. 122 |  |
 | Tigrinya | däbäsä (LGz. 122) | LGz. 122 | gloss withheld |
 | Gurage | däbäsä (LGz. 122) | LGz. 122 | gloss withheld |
-| Mehri | dabh (Kogan 2011, 241) | Kogan 2011, 241 | gloss withheld |
-| Jibbali | dəbš (Kogan 2011, 241) | Kogan 2011, 241 | gloss withheld |
-| Geez | Epigraphic dbs (Kogan 2011, 241) | Kogan 2011, 241 | gloss withheld |
+| Mehri | dabh (Kogan 2011, 241) | Kogan 2011 241 | gloss withheld |
+| Jibbali | dəbš (Kogan 2011, 241) | Kogan 2011 241 | gloss withheld |
+| Geez | Epigraphic dbs (Kogan 2011, 241) | Kogan 2011 241 | gloss withheld |
 | Argobba | dims, dus (Leslau 1997:198‒199 apud SEDonline 769) | Leslau 1997:198‒199; SEDonline 769 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

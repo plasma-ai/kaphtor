@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | (?) ḥlḳ 'to have the penis chafed and red following coitus' \[BK 1 481\]. | BK 1 481 |  |
-| Akkadian | ḳallû (gallû) (hapax) SB \[CAD ḳ 66\], (von Mann ?) \[AHw 894\]. | CAD ḳ 66; AHw 894 | gloss withheld |
+| Akkadian | ḳallû (gallû) (hapax) SB \[CAD ḳ 66\], \[AHw 894\]. | CAD ḳ 66; AHw 894 | gloss withheld |
 | East Ethiopic | ZWY ǝnḳulu \[LGur 70\]. | LGur 70 | gloss withheld |
 | Geez | ḳʷǝlḥ \[LGz 428\]. | LGz 428 | gloss withheld |
 | Gurage | ENN GYE ḳura, END ḳurʔä \[LGur 70\]. | LGur 70 | gloss withheld |

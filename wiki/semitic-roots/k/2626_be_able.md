@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | kähala (LGz. 277) | LGz. 277 |  |
 | Tigrinya | käʾalä (LGz. 277) | LGz. 277 |  |
 | Argobba | čahala (LGz. 277) | LGz. 277 |  |
-| Jibbali | khɛl (Kogan 2015, ch. 2 §4.2 no. 29) | Kogan 2015, ch. 2 §4.2 no. 29 | gloss withheld |
-| Mehri | kəhēl (Kogan 2015, ch. 2 §4.2 no. 29) | Kogan 2015, ch. 2 §4.2 no. 29 | gloss withheld |
+| Jibbali | khɛl (Kogan 2015, ch. 2 §4.2 no. 29) | Kogan 2015 ch. 2 §4.2 no. 29 | gloss withheld |
+| Mehri | kəhēl (Kogan 2015, ch. 2 §4.2 no. 29) | Kogan 2015 ch. 2 §4.2 no. 29 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

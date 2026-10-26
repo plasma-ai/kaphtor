@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ḥāgVl- |
 | Meaning | 'eyebrow' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 468 |
 
 ## Reflexes
 
@@ -37,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Proto-MSA \*ḥāgVl- 'eyebrow' (SEDonline 468). A connection with the verbal root \*ḥgl 'to encircle, to surround' is tempting, while the similarity to Arb. ḥāǯib- 'eyebrow' can hardly be accidental (Kogan 2015: 557 apud SEDonline 468). Cf. K0719 \*ḥVgVl- 'encircle'.
+Proto-MSA \*ḥāgVl- 'eyebrow' (SEDonline 468). Cf. K0719 \*ḥVgVl- 'encircle'.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3419_to_block_to_withhold
 title: "*ʕrr: 'to block, to withhold'"
-desc: "Proto-Semitic *ʕrr, 'to block, to withhold': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕrr, 'to block, to withhold': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3419"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ʕrr |
 | Meaning | 'to block, to withhold' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 438 |
 
 ## Reflexes
 
@@ -32,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Jibbali | ˁerr (JL 14 apud SEDonline 438) | JL 14; SEDonline 438 | gloss withheld |
 | Modern South Arabian | Bathari ˁar(r) (Gasparini - Morris 2025 208 apud SEDonline 438) | SEDonline 438 | gloss withheld |
 | Soqotri | ˁer (LS 329; CSOL I 497; CSOL II 415 apud SEDonline 438) | LS 329; SEDonline 438 | gloss withheld |
+| Mehri | šārōr (Kogan 2015, ch. 8 §3.4.1 no. 12) | Kogan 2015 ch. 8 §3.4.1 no. 12 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

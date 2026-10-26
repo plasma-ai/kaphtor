@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕaṣab- 'nerves (collective)' (coll.) \[BK 2 268\] | BK 2 268 |  |
 | Mehri | ʔāṣbīt \[JM 30\] | JM 30 | gloss withheld |
-| Harsusi | ʔāṣebét do. \[JH 10\] | JH 10 |  |
-| Tigre | ʕanṣäbät, ʔanṣäbät \[LH 475\]; according to Munz. \[ibid.\], ʔanṣäbät | LH 475; ibid. | gloss withheld |
+| Harsusi | ʔāṣebét \[JH 10\] | JH 10 |  |
+| Tigre | ʕanṣäbät, ʔanṣäbät \[LH 475\] | LH 475 | gloss withheld |
 | Jibbali | ʕaṣbɛ́t \[JJ 16\]. | JJ 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

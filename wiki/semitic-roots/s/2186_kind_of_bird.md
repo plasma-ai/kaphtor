@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | samāmat- 'a kind of small bird similar to the swallow' \[BK 1 1134\], \[LA XII 305\]. | BK 1 1134; LA XII 305 |  |
-| Akkadian | summu OB on \[CAD s 380\], \[AHw. 1058\], summatu (simmatu, šummatu, šimmatu) id. OAkk. on \[CAD s 378\], \[AHw. 1058\] | CAD s 380; AHw. 1058; CAD s 378; AHw. 1058 | gloss withheld |
+| Akkadian | summu OB on \[CAD s 380\], \[AHw. 1058\], summatu (simmatu, šummatu, šimmatu) OAkk. on \[CAD s 378\], \[AHw. 1058\] | CAD s 380; AHw. 1058; CAD s 378 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

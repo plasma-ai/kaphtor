@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | kasaba 'gained' (Lane 2609) | Lane 2609 |  |
+| Arabic | kasaba 'gained' (Lane 2609) | Lane 2609; Anderson–Moser 2024 root kšb |  |
 | Geez | kasaba 'earn' | Anderson–Moser 2024 root kšb |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

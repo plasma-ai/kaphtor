@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/SA018_assign_land_to_s_o
 title: "*pṭn: 'assign land to s.o'"
-desc: "Epigraphic South Arabian headword *pṭn, 'assign land to s.o': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *pṭn, 'assign land to s.o': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA018"
@@ -30,7 +30,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab fṭn (SD 47; Biella 402; Sabaweb lemma 4135) | SD 47; Biella 402; Sabaweb lemma 4135 | gloss withheld |
-| Arabic | Ar faṭana (Biella 402) | Biella 402 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

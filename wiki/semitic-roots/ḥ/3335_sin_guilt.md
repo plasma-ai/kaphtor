@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥūb 'sin, crime' (Lane 662); ḥāba 'he sinned' (Lane 662) | Lane 662; Lane 662 |  |
+| Arabic | ḥūb 'sin, crime' (Lane 662); ḥāba 'he sinned' (Lane 662) | Lane 662 |  |
 | Epigraphic South Arabian | Sab ḥb (SD 73; Biella 168) | SD 73; Biella 168 | gloss withheld |
 | Syrian Aramaic | ḥawbtā 'debt; guilt, sin' (Payne Smith 129) | Payne Smith 129 |  |
 

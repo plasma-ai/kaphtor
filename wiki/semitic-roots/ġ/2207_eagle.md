@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ɣaran- 'eagle' \[BK 2 461\], \[LA XIII 312\] (with a semantic discussion). | BK 2 461; LA XIII 312 |  |
+| Arabic | ɣaran- 'eagle' \[BK 2 461\], \[LA XIII 312\]. | BK 2 461; LA XIII 312 |  |
 | Akkadian | urinnu MB, SB \[AHw. 1430\] | AHw. 1430 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

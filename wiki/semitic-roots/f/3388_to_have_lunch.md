@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*fŝy |
 | Meaning | 'to have lunch' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1491 |
 
 ## Reflexes
 

@@ -29,10 +29,10 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | salāḳu (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Hebrew | pB. šlḳ (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Syrian Aramaic | šlḳ (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Arabic | slq (Kogan 2011, 242) | Kogan 2011, 242 |  |
+| Akkadian | salāḳu (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Hebrew | pB. šlḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Syrian Aramaic | šlḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Arabic | slq (Kogan 2011, 242) | Kogan 2011 242 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | baʕl- 'spouse, husband or wife; master, owner'; baʕala 'to marry, become husband, spouse' (BK 1, 144) | BK 1, 144 |  |
-| Mehri | bâl/báyli, bǝʕēli; abɛ̄li; Hobyot baāli, abēli id. (JM 41) | JM 41 | gloss withheld |
+| Mehri | bâl/báyli, bǝʕēli; abɛ̄li; Hobyot baāli, abēli (JM 41) | JM 41 | gloss withheld |
 | Soqotri | báʕal; baʕl (LS 90) | LS 90 | gloss withheld |
-| Akkadian | bēlu (CAD B 191); (AHw 118); bêlu | CAD B 191; AHw 118 | gloss withheld |
+| Akkadian | bēlu (CAD B 191) (AHw 118); bêlu | CAD B 191; AHw 118; Anderson–Moser 2024 root bʿl | gloss withheld |
 | Harsusi | bāl, byāl, baʕl/bōl; abāli (JH 14) | JH 14 | gloss withheld |
 | Tigre | bäʕal (LH 292) | LH 292 | gloss withheld |
 | Ugaritic | bʕl (DULAT 203) | DULAT 203 | gloss withheld |
@@ -45,11 +45,11 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | baʕal (HALOT 142, 143); bʕl | HALOT 142, 143 | gloss withheld |
 | Amharic | bal (K 861) | K 861 | gloss withheld |
 | Epigraphic South Arabian | Sab bʿl (SD 25; Sabaweb lemma 1349), Qat bʕl (Ricks 31), Min bʕl (LM 19) | SD 25; Sabaweb lemma 1349; Ricks 31; LM 19 | gloss withheld |
-| Judaic Aramaic | bʕal (Ja 182), bʕl (DJPA 109a apud CAL), baʕal- (Ja 182); bǝʕēl, det. baʕlā (DJPA 108b apud CAL) | Ja 182; DJPA 109a; CAL; Ja 182; DJPA 108b; CAL | gloss withheld |
+| Judaic Aramaic | bʕal (Ja 182), bʕl (DJPA 109a apud CAL), baʕal- (Ja 182); bǝʕēl, det. baʕlā (DJPA 108b apud CAL) | Ja 182; DJPA 109a; CAL; DJPA 108b | gloss withheld |
 | Syrian Aramaic | baʕlā 'lord, husband' (Brock 83), bʕel 'took in marriage' (Brock 84) | Brock 83; Brock 84 |  |
 | Gafat | bal (LGaf 188) | LGaf 188 | gloss withheld |
 | Aramaic | Samal, OAram OffAr, Nab, Palm, Hatra \*bʕl (HJ 182-3); Sam bʕl (Tal 109) | HJ 182-3; Tal 109 | gloss withheld |
-| Argobba | bǝʔǝl (LArg 195); bal (LArg 195) | LArg 195; LArg 195 | gloss withheld |
+| Argobba | bǝʔǝl (LArg 195); bal (LArg 195) | LArg 195 | gloss withheld |
 | Tigrinya | bäʕal (KT 1177) | KT 1177 | gloss withheld |
 | Punic | bal (HALOT 142); bʕl (HJ 182) | HALOT 142; HJ 182 |  |
 | Amorite | baḫlu; balu (HALOT 142) | HALOT 142 |  |

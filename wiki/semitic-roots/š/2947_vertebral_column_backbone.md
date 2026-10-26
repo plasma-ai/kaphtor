@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*š/sar- {} \*s/car- |
 | Meaning | 'vertebral column, backbone' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I No. 253 |
 
 ## Reflexes
 
@@ -32,13 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | sarīr-; sarāt- (SED I 223) | SED I 223 | gloss withheld |
 | Amharic | säräsär; sərasəra (SED I 223) | SED I 223 | gloss withheld |
 | East Ethiopic | SEL särsär (SED I 223) | SED I 223 | gloss withheld |
-| Gurage | END sässär id. (SED I 223) | SED I 223 |  |
-| Egyptian | s3 (Wb IV 8-10 apud Takács 2018, 278) | Takács 2018, 278 | gloss withheld |
+| Gurage | END sässär (SED I 223) | SED I 223 |  |
+| Egyptian | s3 (Wb IV 8-10 apud Takács 2018, 278) | Wb IV 8-10; Takács 2018, 278 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-SED I No. 253: scarce, Arabic and Ethiopic only, and neither separates \*š from \*s. MSA Mhr. sār, Hrs. sār, ser, Jib. sér 'behind, back', Soq. sar (seri) 'backside' are likely related with a meaning shift. Cf. Amh. šə(r)rət 'fin of a fish' (SED I 223).
 
 <!-- END kaphtor:record -->

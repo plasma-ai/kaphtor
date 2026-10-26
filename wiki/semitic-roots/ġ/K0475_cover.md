@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | apāru 'cover the head' | Anderson–Moser 2024 root ġpr |  |
-| Arabic | ġafara 'covered' (Lane 2273) | Lane 2273 |  |
+| Arabic | ġafara 'covered' (Lane 2273) | Lane 2273; Anderson–Moser 2024 root ġpr |  |
 | Aramaic | ʿPR 'put' | Anderson–Moser 2024 root ġpr |  |
 | Geez | ʿafara 'cover' | Anderson–Moser 2024 root ġpr |  |
 | Syrian Aramaic | ʿappar (LGz. 58) | LGz. 58 | gloss withheld |

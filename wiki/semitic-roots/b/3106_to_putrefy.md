@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*bsbs |
 | Meaning | 'to putrefy' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1884 |
 
 ## Reflexes
 
@@ -39,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PES \*bsbs 'to putrefy' (SEDonline 1884). Distinct from 913 \*bVʾaš- 'be rotten'.
+PES \*bsbs 'to putrefy' (SEDonline 1884). Distinct from K0035 \*bVʾVš- 'stink, be rotten; be bad'.
 
 <!-- END kaphtor:record -->

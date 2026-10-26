@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3384_to_make_a_sign
 title: "*nwp: 'to make a sign'"
-desc: "Proto-Semitic *nwp, 'to make a sign': reflexes in 2 language(s)."
+desc: "Proto-Semitic *nwp, 'to make a sign': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3384"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*nwp |
 | Meaning | 'to make a sign' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1485 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | hə-nwūf (ML 306 apud SEDonline 1485) | ML 306; SEDonline 1485 | gloss withheld |
 | Jibbali | eníf (JL 198 apud SEDonline 1485) | JL 198; SEDonline 1485 | gloss withheld |
+| Soqotri | nef (Kogan 2015, ch. 8 §3.4.1 no. 83) | Kogan 2015 ch. 8 §3.4.1 no. 83 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

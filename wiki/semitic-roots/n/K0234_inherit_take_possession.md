@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | NḤL (DJA 65b apud CAL) | CAL | gloss withheld |
+| Aramaic | NḤL (DJA 65b apud CAL) | CAL; Anderson–Moser 2024 root nḫl | gloss withheld |
 | Hebrew | naḥal 'get' | Anderson–Moser 2024 root nḫl |  |
 | Punic | nḥl 'inherit' | Anderson–Moser 2024 root nḫl |  |
-| Arabic | nḥl, niḥlat- (Kogan 2015, ch. 3 §5.3 no. 23) | Kogan 2015, ch. 3 §5.3 no. 23 | gloss withheld |
-| Epigraphic South Arabian | Sab nḥl, nḥlt (Kogan 2015, ch. 3 §5.3 no. 23); nḥl (Sabaweb lemma 4639) | Kogan 2015, ch. 3 §5.3 no. 23; Sabaweb lemma 4639 | gloss withheld |
+| Arabic | nḥl, niḥlat- (Kogan 2015, ch. 3 §5.3 no. 23) | Kogan 2015 ch. 3 §5.3 no. 23 | gloss withheld |
+| Epigraphic South Arabian | Sab nḥl, nḥlt (Kogan 2015, ch. 3 §5.3 no. 23); nḥl (Sabaweb lemma 4639) | Kogan 2015 ch. 3 §5.3 no. 23; Sabaweb lemma 4639 | gloss withheld |
 | Ugaritic | nḥl, nḥlt (DULAT 619) | DULAT 619 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

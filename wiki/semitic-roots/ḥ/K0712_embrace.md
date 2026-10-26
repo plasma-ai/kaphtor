@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0712_embrace
 title: "*ḥabaq-: 'embrace'"
-desc: "Proto-Semitic *ḥabaq-, 'embrace': reflexes in 11 language(s)."
+desc: "Proto-Semitic *ḥabaq-, 'embrace': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0712"
@@ -29,14 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | epēqu 'embrace' | Anderson–Moser 2024 root ʿpq |  |
-| Aramaic | ḤBQ (CAL s.v. ḥbq) | CAL s.v. ḥbq | gloss withheld |
-| Hebrew | ḥabaq 'embrace' (BDB 287) | BDB 287 |  |
+| Aramaic | ḤBQ (CAL s.v. ḥbq) | CAL s.v. ḥbq; Anderson–Moser 2024 root ḥbq | gloss withheld |
+| Hebrew | ḥabaq 'embrace' (BDB 287) | BDB 287; Anderson–Moser 2024 root ḥbq |  |
 | Ugaritic | ḥbq 'embrace' | Anderson–Moser 2024 root ḥbq |  |
 | Judaic Aramaic | ḥbq \[HALOT 287; DJPA 185b apud CAL\] | HALOT 287; DJPA 185b; CAL | gloss withheld |
 | Syrian Aramaic | ḥbq \[HALOT 287; LS2 409\[212\] apud CAL\] | HALOT 287; CAL | gloss withheld |
 | Mandaic Aramaic | ḥbq (MdD 130a apud HALOT 287) | HALOT 287 | gloss withheld |
-| Tigre | ḥafqa (Wb. 77b, Leslau 19 apud HALOT 287) | HALOT 287 |  |
+| Tigre | ḥafqa (Wb. 77b, Leslau 19 apud HALOT 287) | Wb. 77b, Leslau 19; HALOT 287 |  |
 | Geez | ḥfq, ḥqf \[HALOT 287\] | HALOT 287 | gloss withheld |
 | Arabic | ḥabaqa \[HALOT 287\] | HALOT 287 | gloss withheld |
 | Eblaitic | ʔà-ba-gú-um /ḥabāḳum/ (VE 1184; Krebernik 1983, 42) | VE 1184; Krebernik 1983, 42 | gloss withheld |

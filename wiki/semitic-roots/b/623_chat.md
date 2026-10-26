@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/623_chat
 title: "*bVṭ-: 'chat'"
-desc: "Proto-Semitic *bVṭ-, 'chat': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bVṭ-, 'chat': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "623"
@@ -31,7 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | tbṭ |  |  |
-| Hebrew | bṭy, bṭʔ |  |  |
+| Hebrew | bṭy, bṭʔ (HALOT 120) | HALOT 120 | gloss withheld |
+| Arabic | baṭbaṭa (HALOT 120) | HALOT 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

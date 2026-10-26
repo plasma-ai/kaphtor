@@ -51,6 +51,7 @@ Palaeographic split with TA confirmed by PK1 co-occurrence. A t- value is secure
 | [[wiki/linear-a/words/K/KI_RI_TA2\|KI-RI-TA₂]] | Kirīta | PROBABLE |
 | [[wiki/linear-a/words/M/MA_RI_TA2\|MA-RI-TA₂]] | marʾ(i)tā | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
+| [[wiki/linear-a/words/T/TA2_TI_TE\|TA₂-TI-TE]] | Tati-te | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | Uta/Uda | CANDIDATE |
 
 <!-- END kaphtor:record -->

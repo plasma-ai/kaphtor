@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kūsa/ālat- 'glans of the penis' \[BK 2 899\] | BK 2 899 |  |
-| Akkadian | kislu (kaslu) OB on \[CAD k 425\], \[AHw 486\] (translated as) | CAD k 425; AHw 486 | gloss withheld |
+| Akkadian | kislu (kaslu) OB on \[CAD k 425\], \[AHw 486\] | CAD k 425; AHw 486 | gloss withheld |
 | Ugaritic | ksl \[DULAT 457\] | DULAT 457 | gloss withheld |
-| Hebrew | käsäl (&lt;\*kasl) (HALOT 489) | HALOT 489 | gloss withheld |
+| Hebrew | käsäl (HALOT 489) | HALOT 489 | gloss withheld |
 | Judaic Aramaic | kislā \[Ja 654\]; kslyn (pl.) \[DJPA 265b apud CAL\] | Ja 654; DJPA 265b; CAL | gloss withheld |
 | Eblaitic | ga-za-um /kas(a)Lum/ (VE 665, Kogan–Krebernik 2021b: 687 apud SEDonline 729) | VE 665, Kogan–Krebernik 2021b: 687; SEDonline 729 | gloss withheld |
 

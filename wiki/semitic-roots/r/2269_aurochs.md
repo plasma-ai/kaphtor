@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | riʔm- 'gazelle, especially the one whose coat is white' \[BK 1 796\], \[Fr. II 104\], \[Lane 998\], \[LA XII 224\]. The form raym- 'white gazelle' quoted in \[BK 1 965\] and \[Fr. II 218\] is phonologically difficult to explain (according to \[Lane 1204\], \[LA XII 260\], the correct reading is rīm-). Cf. raʔm- 'young camel' \[BK 1 795\], \[Fr. II 104\], \[Lane 997\], \[LA XII 224\]. | BK 1 796; Fr. II 104; Lane 998; LA XII 224; BK 1 965; Fr. II 218; Lane 1204; LA XII 260; BK 1 795; Fr. II 104; Lane 997; LA XII 224 |  |
-| Akkadian | rīmu (rēmu, riʔmu) OAkk. on \[CAD r 359\], \[AHw. 986\] | CAD r 359; AHw. 986; CAD r 355; CAD r 358; AHw. 986; Salonen Jagd 167ff., 247ff., 253ff | gloss withheld |
+| Arabic | riʔm- 'gazelle, especially the one whose coat is white' \[BK 1 796\], \[Fr. II 104\], \[Lane 998\], \[LA XII 224\] | BK 1 796; Fr. II 104; Lane 998; LA XII 224 |  |
+| Akkadian | rīmu (rēmu, riʔmu) OAkk. on \[CAD r 359\], \[AHw. 986\] | CAD r 359; AHw. 986 | gloss withheld |
 | Ugaritic | rʔum \[DULAT 712\] | DULAT 712 | gloss withheld |
 | Hebrew | rǝʔēm (HALOT 1163), pB. \[Ja. 1437\] | HALOT 1163; Ja. 1437 | gloss withheld |
-| Judaic Aramaic | rǝʔēmā, rēmā \[Ja. 1437\], \[Levy WT II 396\], rʔm \[DJPA 510a apud CAL\]; also rēmānā id. \[Ja. 1475\], \[Levy WT II 421\], \[Levy WTM IV 407\], rymn \[DJPA 523b apud CAL\]. | Ja. 1437; Levy WT II 396; DJPA 510a; CAL; Ja. 1475; Levy WT II 421; Levy WTM IV 407; DJPA 523b; CAL | gloss withheld |
+| Judaic Aramaic | rǝʔēmā, rēmā \[Ja. 1437\], \[Levy WT II 396\], rʔm \[DJPA 510a apud CAL\]; also rēmānā \[Ja. 1475\], \[Levy WT II 421\], \[Levy WTM IV 407\], rymn \[DJPA 523b apud CAL\]. | Ja. 1437; Levy WT II 396; DJPA 510a; CAL; Ja. 1475; Levy WT II 421; Levy WTM IV 407; DJPA 523b | gloss withheld |
 | Syrian Aramaic | raymā 'wild ox, unicorn' \[Brock. 727\], \[PS 3897\]. | Brock. 727; PS 3897 |  |
-| Aramaic | Off. rʔm \[HJ 1042\] (context uncertain). Sam. rʔm \[Tal 807\]. | HJ 1042; Tal 807 | gloss withheld |
+| Aramaic | Off. rʔm \[HJ 1042\]. Sam. rʔm \[Tal 807\]. | HJ 1042; Tal 807 | gloss withheld |
 | Modern Aramaic | NSyr. rémâ 'a wild ox' (M 293) | M 293 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

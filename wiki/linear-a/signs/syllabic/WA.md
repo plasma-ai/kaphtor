@@ -42,6 +42,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʾammāwāṣī | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SU_PU_WA\|A-SU-PU-WA]] | ʾasuppūa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
 | [[wiki/linear-a/words/A/A_WA_PI\|A-WA-PI]] | ʾawpiʿ | SPECULATIVE |

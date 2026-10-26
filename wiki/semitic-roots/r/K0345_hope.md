@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0345_hope
 title: "*rVgVy-: 'hope'"
-desc: "Proto-Semitic *rVgVy-, 'hope': reflexes in 1 language(s)."
+desc: "Proto-Semitic *rVgVy-, 'hope': reflexes in 0 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0345"
@@ -25,12 +25,8 @@ updated: 2026-10-22T17:38:31Z
 | Meaning | 'hope' |
 | Basis | project |
 
-## Reflexes
+## Notes
 
-| Language | Form | Sources | Note |
-|---|---|---|---|
-| Aramaic | RGY C | CAL | gloss withheld |
-
-A form keeps its source's gloss only when the source is public domain or openly licensed.
+Syriac RGY C 'hope', only in Kalila and Dimna, is a calque on Arabic rajā (LS2 1432\[711\] apud CAL).
 
 <!-- END kaphtor:record -->

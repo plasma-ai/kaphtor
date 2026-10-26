@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ḫrṣ (Biella 211; Sabaweb lemma 4281); ẖrṣ (SD 62; Sabaweb lemma 4279) | Biella 211; Sabaweb lemma 4281; SD 62; Sabaweb lemma 4279 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫrṣ (Biella 211; Sabaweb lemma 4281); ḫrṣ (SD 62; Sabaweb lemma 4279) | Biella 211; Sabaweb lemma 4281; SD 62; Sabaweb lemma 4279 | gloss withheld |
 | Modern Arabic | Yem. ḫarraṣ, Daṯ. ḫaraṣa (Biella 211) | Biella 211 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

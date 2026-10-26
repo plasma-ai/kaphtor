@@ -1287,19 +1287,19 @@
     {
       "word": "A-RA-NA-RE",
       "reading": "Aranare",
-      "meaning": "personal name; compare Linear B a-ra-na-ro",
+      "meaning": "personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro",
       "root": null,
-      "tier": 3,
-      "confidence": "PROBABLE",
-      "confidence_score": 0.7,
+      "tier": 2,
+      "confidence": "CANDIDATE",
+      "confidence_score": 0.5,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "Minoan_Aegean",
+      "language_layer": "Hurrian",
       "attestations": [
         "HT1"
       ],
-      "note": "The quantified HT1 position and Linear B a-ra-na-ro on the Knossos male roster KN As 1516.11 strongly support personal-name status and probable Linear A-to-B continuity or adaptation. Gordon's Egyptian analysis ꜥꜣ-rn-Rꜥ, 'Great-is-the-name-of-Re,' is structurally possible but has not been independently located in the Egyptian personal-name or text corpora; retain it as a candidate etymology, not the translation.",
-      "source": "KN As 1516.11; Gordon 1966 §127"
+      "note": "HT 1 A-RA-NA-RE 105, the last of the counted names, whole (GORILA I 3). Ugaritic ålnr, a personal name classed Hurrian and set beside Linear B a-ra-na-ro (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43), as in Allan-šeridani at Ugarit (Kinlaw 1967, 19). Hurrian r and l alternate; RA writes r here, as the same scribe writes RA₂ for la in QE-RA₂-U. Linear B a-ra-na-ro is a man, VIR 1, on KN As 1516.11. HT 47b ]RA-NA-RE[, room for one sign before (GORILA I 91), is the same name if the lost sign is A. Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127).",
+      "source": "di Mino; DULAT 57; Laroche 1980; KN As 1516.11; Gordon 1966 §127"
     },
     {
       "word": "A-RA-TU",
@@ -1813,23 +1813,28 @@
     },
     {
       "word": "DA-SI-*118",
-      "reading": "Dasiṭa",
-      "meaning": "unresolved roster label or entity",
-      "root": null,
-      "tier": 1,
-      "confidence": "SPECULATIVE",
-      "confidence_score": 0.3,
-      "semantic_field": "unresolved roster label",
-      "category": "administrative",
-      "language_layer": "unresolved",
+      "reading": "Ḏā-šiṭṭa",
+      "meaning": "those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa",
+      "root": "ḏ + š-n-ṭ",
+      "cognates": {
+        "Proto-Semitic": "*šint- 'acacia' (semitic_roots no. 3629), a loan from Egyptian šnd.t",
+        "Hebrew": "šiṭṭâ, pl. šiṭṭîm 'acacia' (HALOT 1473); place names Beth-Shittah (Judg 7:22), Abel-Shittim (Num 33:49)",
+        "Akkadian": "šamṭu, šanṭu (HALOT 1473)"
+      },
+      "tier": 2,
+      "confidence": "CANDIDATE",
+      "confidence_score": 0.4,
+      "semantic_field": "personnel",
+      "category": "gentilic",
+      "language_layer": "NWS",
       "attestations": [
         "HT13",
         "HT85a",
         "HT122a",
         "HT99b"
       ],
-      "note": "HT 13 DA-SI-*118 19 (wine list); HT 85a 24 (men, under A-DU); HT 122a 2 (men); HT 99b 2. Often beside KU-ZU-NI and DA-RI-DA. A recurring roster label; no personal name or meaning is established. DA first and *118 third show *118 is not DA. Weak point: *118 = ṭa is speculative.",
-      "source": "di Mino"
+      "note": "HT 13 DA-SI-*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · *307+*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit, not a person. ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia', the n of *šint- unwritten or assimilated. *118 = ṭa: s-t and s-d give no acacia. DA first and *118 third show *118 is not DA.",
+      "source": "di Mino; HALOT"
     },
     {
       "word": "DA-U-MI",
@@ -5170,7 +5175,7 @@
       "attestations": [
         "MAZe11"
       ],
-      "note": "MA Ze 11, incised in the Malia palace south of the north-west court (GORILA IV 140), complete. QE-SI-TE writes qašt 'bow', the feminine -t in TE: Akk. qaštu, Ug. qšt, Heb. qešet, Geʿez qast. Not variants: KN Ze 49 (KE-SI-TE) and KN Ze 45 (KA-SI-A-TE) are masons' marks; THE Zb 13 reads 77-08-41-[[?-?-04]] (Karnava & Nikolakopoulou); KO-SA-I-TI (HT 117a) is a name. Weak point: QE for qa. Rival: kussīʾ 'throne, seat' (Akk. kussû, Ug. ksu, Heb. kissēʾ), which suits a palace but has no -t for TE. One attestation.",
+      "note": "MA Ze 11, incised in the Malia palace south of the north-west court (GORILA IV 140), complete. QE-SI-TE writes qašt 'bow', the feminine -t in TE: Akk. qaštu, Ug. qšt, Heb. qešet, Geʿez qast. Not variants: KN Ze 49 (KE-SI-TE) and KN Ze 45 (KA-SI-A-TE) are masons' marks; THE Zb 13 reads 77-08-41-[[?-?-04]] (Karnava & Nikolakopoulou); KO-SA-I-TI (HT 117a) is a name. QE-SI-TE follows Heb. qéšet: QE writes qe, TE the -t; SI for še is a vowel mismatch only. Rival: kussīʾ 'throne, seat' (Akk. kussû, Ug. ksu, Heb. kissēʾ), which suits a palace but has no -t for TE. One attestation.",
       "source": "di Mino",
       "alternative_readings": [
         {
@@ -10742,19 +10747,22 @@
     {
       "word": "NU-TI",
       "reading": "nuti",
-      "meaning": "officer/administrative heading—stands before personnel allocation lists",
-      "root": "unresolved",
-      "tier": 3,
-      "confidence": "PROBABLE",
-      "confidence_score": 0.65,
+      "meaning": "townsmen, citizens (heading before the logogram for men); rival Semitic nātîn 'those given'",
+      "root": null,
+      "cognates": {
+        "Egyptian": "nʾ.tjw 'townsmen; citizens', nisbe of nʾ.t 'town' (AED lemma 81110; Wb 2, 213.1–4); as a personal name Nʾ.tjw (RPN I 169.6)"
+      },
+      "tier": 2,
+      "confidence": "CANDIDATE",
+      "confidence_score": 0.5,
       "semantic_field": "administrative",
       "category": "vocabulary",
-      "language_layer": "unclassified",
+      "language_layer": "Middle Egyptian",
       "attestations": [
         "ZA9",
         "HT84"
       ],
-      "note": "Fixed cross-site heading position: ZA9 opens NU-TI 𐄁 before a five-name allocation list (RA, RO-SI-RA, A-TA-NA-[·], [·]-MA-JU, WI-RA-RE-MI-TE with QI+SI/*21F quantities); HT84 has NU-TI 𐄁 immediately before the VIR+[?] personnel logogram. Function reading rests on position alone—root left open per KI-RO precedent. SPECULATIVE etymology √n-t-n \"to give\" (final -n restored): Ugaritic ytn \"temple slaves\" (DULAT 977) and Aramaic nātîn \"temple servant\" provide exact semantic parallels (institutionally assigned persons). Akkadian nudunnû confirms *nudunn-* nominal morphology compatible with CV spelling. Root is pan-NWS + Akkadian, absent from South Semitic. Ugaritic únt \"corvée\" disfavored on spelling grounds (initial /ʾu-/ predicts U-NU-TI). See ETY-009.",
+      "note": "HT 84 *21F-JA-DU / NU-TI · VIR+[?], whole, a heading directly before the logogram for men; ZA 9 ]-NU-TI ·, broken before NU, heads an allocation list (RA, ]RO-SI-RA, A-TA-NA-[·], [·]-MA-JU, WI-RA-RE-MI-TE with QI+SI and *21F). Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110; Wb 2, 213.1–4), n-w-t consonant for consonant, as PA-JA-RE and JA-MI-DA-RE stand on Haghia Triada lists. Rival: √n-t-n 'those given', Ugaritic ytnm 'temple slaves' (DULAT 977), Aramaic nātîn 'temple servant', which needs a final -n unwritten and mismatches the first vowel. Ugaritic únt 'corvée' would be spelled U-NU-TI.",
       "source": "di Mino"
     },
     {
@@ -11354,20 +11362,27 @@
     },
     {
       "word": "DU-DA-MA",
-      "reading": "Dudama",
-      "meaning": "personal name; compare Egyptian d-ȝ-d-ȝ-m of the Keftiu writing board and Linear B di-du-me",
-      "root": null,
+      "reading": "Dūdāma",
+      "meaning": "Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me",
+      "root": "d-w-d",
+      "cognates": {
+        "Proto-Semitic": "*dawid- 'uncle; beloved' (semitic_roots no. 19)",
+        "Hebrew": "dûdāʾîm 'mandrakes, love-apples' (Gen 30:14; Song 7:14), the u-ā form of √d-w-d",
+        "Amorite": "DAWD-U*MA, DA-DU-MA (Gelb 1980, no. 1433); DAWD-A (no. 1413)",
+        "Egyptian": "{d-j}-d-ȝ-d-ȝ-m{a}, an 'Aegean' beneficiary of a wine account, BM EA 5647 v. I 3a (Dautais & Gabolde 2025, 14–15)",
+        "Linear B": "di-du-me (KN L 588), di-du-mo (KN X 5751, MY Oe 129) (Dautais & Gabolde 2025, Table 1)"
+      },
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.5,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "Minoan_Aegean",
+      "language_layer": "NWS",
       "attestations": [
         "HT6b"
       ],
-      "note": "HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). The Egyptian writing board BM EA 5647 v. I 3a writes {d-j}-d-ȝ-d-ȝ-m{a} for one of two 'Aegean' beneficiaries of a wine account, which Dautais & Gabolde equate with Linear B di-du-me (KN L 588), di-du-mo (KN X 5751, MY Oe 129), a name Meissner counts as Minoan and 'not (so far) attested in Linear A' (Dautais & Gabolde 2025, 14 and Table 1, 15). Consonants d-d-m in three scripts; the vowels differ (LA du-da-ma, Egyptian ȝ-ȝ, LB di-du-me). Dautais & Gabolde read Greek Didyme; no etymology is adopted here. One attestation.",
-      "source": "Dautais & Gabolde 2025, 14–15; di Mino"
+      "note": "HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). The same name has the consonants d-d-m in three scripts: Egyptian d-ȝ-d-ȝ-m of the Keftiu writing board and Linear B di-du-me, di-du-mo (Dautais & Gabolde 2025, 14–15). Not DA-DU-MA-TA dadmatu (√d-d-m). One attestation.",
+      "source": "di Mino; Dautais & Gabolde 2025, 14–15; Gelb 1980"
     },
     {
       "word": "KA-SA-RU",
@@ -12367,6 +12382,741 @@
       ],
       "note": "HT 21 PI-TA-KA-SE · TE · GRA 161, then OLE+U 11, OLE+E 3¾, *304 7¾, OLIV 1¼, the heading of a grain and oil account (GORILA I 39). bīt 'house of' + kissē 'throne': Akk. bīt kussî 'royal property' (CAD K 593), and grain booked to persons ša kussî 'belonging to the crown' (CAD K 592). PI writes bi as in DA-I-PI-TA. Its man is PI-TA-KE-SI (HT 87), bīt-kissi with the genitive. Rival: the Hurrian name Pidi-kešḫi.",
       "source": "di Mino; CAD K"
+    },
+    {
+      "word": "SA-RE-JU",
+      "reading": "Šarr-ēlu",
+      "meaning": "personal name, 'El is king'; rival Hurrian Šar-elli",
+      "root": "ŝ-r-r + ʾ-l",
+      "cognates": {
+        "Proto-Semitic": "*ŝarr- 'king, prince, official' (semitic_roots no. 3463) + *ʾil- 'god; El' (no. 2719)",
+        "Amorite": "ŚARR-A+ʾIL, ŠAR-RA-DINGIR, Alalakh IV (Gelb 1980 no. 5846)",
+        "Hebrew": "Malkîʾēl, the same sentence with mlk (Gen 46:17)",
+        "Hurrian": "Šar-elli, the queen ṯryl, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT20"
+      ],
+      "note": "HT 20 .4 SA-RE-JU ⅛, after CAPm ⅛ and before TELA, in the list under PA-RO-SU beside KU-MA-JU and QE-KU-RE (GORILA I 36–37). ša-r(ʾ)ē-lu sign for sign: JU writes lu, the nominative of ʾēlu, and RE carries the ē once the ʾ drops at the join. Weak point: Northwest Semitic 'king' is mlk, šarru is the Akkadian and Amorite word, and Hebrew śar is 'prince'. Rival: Hurrian Šar-elli, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), whose -li mismatches JU. One witness.",
+      "source": "di Mino; Gelb 1980; DULAT; Laroche"
+    },
+    {
+      "word": "PI-RU-E-JU",
+      "reading": "Pirʾu-ʾēlu",
+      "meaning": "personal name, 'Offspring of El'; rival 'Fruit of El'",
+      "root": "p-r-ɣ + ʾ-l",
+      "cognates": {
+        "Proto-Semitic": "*pirɣ- 'shoot' (semitic_roots no. 3194) + *ʾil- 'god; El' (no. 2719)",
+        "Akkadian": "pirʾu, pirḫu '1. shoot, 2. offspring' (CAD P 416); Pir-ḫi-ì-lí-šu 'Offspring-of-His-God', wr. Pi-ir-i-ì-lí-šu (CAD P 418)",
+        "Hebrew": "pərî 'fruit' (semitic_roots no. 756), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "PH2"
+      ],
+      "note": "PH 2 .3 PI-RU-E-JU 60, between RA-O-DI-KI 60 and SE-SA-PA₃ 60, under the heading A-SE-TU-*21F 1 (GORILA I 288–289). pirʾ(u) + ʾēlu: the ʾ of pirʾu goes unwritten, and E-JU writes ʾē-lu as in SA-RE-JU. The name type is Akkadian Pirḫi-ilišu 'Offspring-of-His-God', also written Pi-ir-i-ì-lí-šu (CAD P 418). Rival: pir- 'fruit', 'Fruit of El', a type with no attested name. One witness.",
+      "source": "di Mino; CAD P"
+    },
+    {
+      "word": "TA-NA-MA-JE",
+      "reading": "Tanʿamay",
+      "meaning": "personal name, 'She is gracious'",
+      "root": "n-ʿ-m",
+      "cognates": {
+        "Proto-Semitic": "*nʕm 'to be good' (semitic_roots no. 2611)",
+        "Amorite": "NAʿM-IJA, NA-MI-IA, fem. (Gelb 1980 no. 5001); 3 f. sg. ta- in TA-BNIJ+ʿAŠTAR, TAB-NI-EŠ₄-DAR, fem. (no. 6055)",
+        "Ugaritic": "nʿmy, syll. nu-ú-ma-ya, PN (DULAT 607)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "PE6"
+      ],
+      "note": "PE 6 .2 TA-NA-MA-JE, alone on the line below the ruling, under .1 I-NA-[?]-TE (Younger). ta-nʿam-ay: ta- the 3 f. sg. prefix of women's names such as Amorite TAB-NI-EŠ₄-DAR (Gelb no. 6055), √n-ʿ-m with the ʿ unwritten, -ay the hypocoristic of Ugaritic nʿmy, nu-ú-ma-ya (DULAT 607). One witness.",
+      "source": "di Mino; Gelb 1980; DULAT"
+    },
+    {
+      "word": "SE-KU-TU",
+      "reading": "Šakūtu",
+      "meaning": "personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'",
+      "root": "š-k-t",
+      "cognates": {
+        "Proto-Semitic": "*škt 'to be silent, quiet; to rest' (semitic_roots no. 3250)",
+        "Akkadian": "sakātu 'to be silent' (CAD S 74)",
+        "Amorite": "Ya-ās-qī-iṭ-AN, 'rest' in a name, where Huffmon allows skt 'be calm' (Huffmon, APNM 253)",
+        "Eblaite": "za-ku-tu /ḏakūtu/ 'innocent' (Pagan 1998, row 5026), rival, PS *zVkVy- (no. K0462)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT115a"
+      ],
+      "note": "HT 115a .3 SE-KU-TU ½, between NA-*21F-NE-MI-NA 1 and PA-RA-NE 1, a recipient (GORILA I 188–189). šakūt-u, a qatūl adjective of √š-k-t 'be quiet, rest', on primary values. Rival: Zakūtu 'pure, innocent', the Ebla name za-ku-tu and the Neo-Assyrian queen Zakūtu, which needs SE for ḏ where the lexicon writes z with the Z signs. One witness.",
+      "source": "di Mino; CAD S; Huffmon; Pagan 1998"
+    },
+    {
+      "word": "PA-NU-QE",
+      "reading": "Panūq",
+      "meaning": "personal name, 'Pampered'; rival Amorite Banuq",
+      "root": "p-n-q",
+      "cognates": {
+        "Proto-Semitic": "*panaq- 'indulge' (semitic_roots no. K0254)",
+        "Hebrew": "pānaq 'indulge' (BDB 819)",
+        "Amorite": "BANUQ-UM, BA-NU-KU-UM, and BANUQ-AN, BA-NU-KA-AN (Gelb 1980 nos. 1132, 1131), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "ZA14"
+      ],
+      "note": "ZA 14 .4 PA-NU-QE 2, after TU-MI-TI-ZA-SE 45 and before JA-WI[, a recipient among names (GORILA III 181). panūq, a qatūl passive of √p-n-q 'pamper, indulge' on primary values (Heb. pānaq, BDB 819; Syr. paneq 'pamper', Payne Smith 451). Rival: the Amorite name Banuq, BA-NU-KU-UM (Gelb no. 1132), which reads PA as ba. One witness.",
+      "source": "di Mino; BDB; Gelb 1980"
+    },
+    {
+      "word": "TI-NU-JA",
+      "reading": "Ṯaniya",
+      "meaning": "personal name, 'Second(-born)'; rival Dīnuya",
+      "root": "ṯ-n-y",
+      "cognates": {
+        "Proto-Semitic": "*ṯVny- 'two' (semitic_roots no. 2553)",
+        "Ugaritic": "ṯn 'two'",
+        "Ancient North Arabian": "Sabaic PN tny, Safaitic tnyt (Harding 1971, 148–49)",
+        "Amorite": "Dīnuya, √d-y-n 'judge' (no. S36), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT115b"
+      ],
+      "note": "HT 115b .2 TI-NU-JA · NU-WI · GRA ½, the frame of side a's *47-NU-RA-JA · I · GRA+BOSm / NU-WI, so a person (GORILA I 191). ṯan-iya, ṯ-n-y 'second' + hypocoristic -ya as in *306-TU-JA on the same tablet. Weak point: TI for ṯ is unestablished, and no Semitic root reads the word on TI's primary value. Rival: Dīnuya, √d-y-n 'judge', which needs TI = d, while the judge words here are written DI (DI-NA). One witness.",
+      "source": "di Mino; Harding 1971"
+    },
+    {
+      "word": "SI-MI-TA",
+      "reading": "Śīmat",
+      "meaning": "personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat",
+      "root": "ś-y-m",
+      "cognates": {
+        "Proto-Semitic": "*śVyVm- 'place' (semitic_roots no. K0500)",
+        "Amorite": "ŚIJM-AT-UM, ŠI-MA-TUM, fem.; ŚIJM-AT+DAGAN, ŠI-MA-AT-D-DA-GAN, fem. (Gelb 1980 nos. 5893, 5888)",
+        "Hebrew": "Šimʿat, PN (2 Kgs 12:22), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT96a"
+      ],
+      "note": "HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE · A-*123-TE (GORILA I 156). śīmat, the women's name of Amorite ŚIJM-AT-UM, ŠI-MA-TUM (Gelb no. 5893): SI writes ś, which merges into the S series, and MI for ma is a vowel mismatch only. Rival: Hebrew Šimʿat (2 Kgs 12:22), with the ʿ unwritten. One witness.",
+      "source": "di Mino; Gelb 1980"
+    },
+    {
+      "word": "A-KA-TA",
+      "reading": "ʾAkkata",
+      "meaning": "personal name; compare Amorite ʾAkkatum",
+      "root": null,
+      "cognates": {
+        "Amorite": "ʾAKK-AT-UM, A-KA-TUM (Gelb 1980 no. 329); fem. ʾAKK-AT-IJA (nos. 327–28); ʾAKK-ATAN-UM, A-KA-TA-A-NU-UM (no. 326)",
+        "Linear B": "a-ka-ta-jo, a man's name (PY Eo 269, KN Dv 1331; DMic I 34)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "KN32a"
+      ],
+      "note": "KN 32a .2 A-KA-TA, whole at the left edge, broken after (GORILA I 264–65). Sign for sign the Amorite name ʾAKK-AT-UM, A-KA-TUM (Gelb no. 329), with the stem of ʾAKK-AT-IJA and ʾAKK-ATAN-UM; Gelb gives the element no meaning. Linear B a-ka-ta-jo, a man's name at Pylos and Knossos (DMic I 34). One witness.",
+      "source": "di Mino; Gelb 1980; DMic"
+    },
+    {
+      "word": "A-SI-KI-RA",
+      "reading": "ha-Śikira",
+      "meaning": "personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded'",
+      "root": "ś-k-r",
+      "cognates": {
+        "Ugaritic": "/š-k-r/ I 'to hire' (DULAT 804)",
+        "Hebrew": "Śākār, PN (1 Chr 11:35); names with the article, haq-Qôṣ (1 Chr 24:10), hal-Lôḥēš (Neh 3:12)",
+        "Amorite": "ʾAškur, DN, AŠ-KU-RA-AN, AŠ-KUR-ᵈIM (Gelb 1980 nos. 947, 950), 'of uncertain origin' (Huffmon, APNM 172), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "KH20"
+      ],
+      "note": "KH 20 .1 A-SI-KI-RA · CYP+E ⅓, an entry before cyperus, parallel to ]DU-RE-ZA · CYP+E ½ (GORILA III 51). The article ha- (A, h unwritten, as in A-TU-RI-SI-TI) + SI-KI-RA Śikira 'Hired' (HT 8a), the pair of A-KI-DA-RO beside KI-DA-RO; Hebrew names take the article, haq-Qôṣ (1 Chr 24:10). Rival: haśkira 'he rewarded', an H-stem of the same root, and the Amorite DN ʾAškur (Gelb nos. 947, 950). One witness.",
+      "source": "di Mino; DULAT; Gelb 1980; Huffmon"
+    },
+    {
+      "word": "SI-TE-TU",
+      "reading": "šetātu",
+      "meaning": "woven (cloth), a textile entry; rival šittātu 'remainder'",
+      "root": "š-t-y",
+      "cognates": {
+        "Proto-Semitic": "*šVtVy- 'tie, weave' (semitic_roots no. 1408)",
+        "Ugaritic": "štt adj. f. 'spun, woven'; RS Akk. TÚG še-ta-ti (DULAT 839)",
+        "Akkadian": "šatû adj. 'woven (cloth)' (CAD Š/2 207); šittātu 'remainder', pl. of šittu A (CAD Š/3 136), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "textile",
+      "category": "commodity",
+      "language_layer": "NWS",
+      "attestations": [
+        "ZA20"
+      ],
+      "note": "ZA 20 .2 SI-TE-TU 1, after DU-RE-ZA-SE MI · 4 and before SI-TU 6, in a list ending KU-RA 130 (GORILA III 193). šetātu, the feminine of Ugaritic štt 'spun, woven', written TÚG še-ta-ti at Ras Shamra (DULAT 839), beside SI-TU sūt 'garment' on the next line. Rival: šittātu 'remainder' (CAD Š/3 136). One witness.",
+      "source": "di Mino; DULAT; CAD Š"
+    },
+    {
+      "word": "ZU-JU-PU₂",
+      "reading": "ṯulubu",
+      "meaning": "flute; here the flautist, a qualifier after the name TU-QE-NU; rival Hurrian Tulbiya",
+      "root": "ṯ-l-b",
+      "cognates": {
+        "Ugaritic": "ṯlb 'flute', b knr w b ṯlb 'with the lyre and the flute' (KTU 1.108:4; DULAT 892)",
+        "Akkadian": "šulpu 'stalk, a flute or other reed instrument' (CAD Š/3 256)",
+        "Hurrian": "tlby, syll. tu-ul-bi-ia, PN (DULAT 856), rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "occupation",
+      "category": "occupation",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT25a"
+      ],
+      "note": "HT 25a .3–4 TU-QE-NU / ZU-JU-PU₂ 1, the pattern of .4–5 DU-RU-WI / I-KI-RA 1: a name at the line end, then a qualifier and one unit (GORILA I 44–45). ṯu-lu-bu sign for sign: ZU writes ṯu, JU lu, PU₂ bu. Ugaritic ṯlb 'flute' (DULAT 892), from Akk. šulpu (CAD Š/3 256). GORILA's tabular copy dots ZU and PU₂, and the left margin beside ZU is abraded. Rival: the Hurrian name tlby, tu-ul-bi-ia (DULAT 856), which needs ZU = tu. One witness.",
+      "source": "di Mino; DULAT; CAD Š"
+    },
+    {
+      "word": "A-SU-PU-WA",
+      "reading": "ʾasuppūa",
+      "meaning": "store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa",
+      "root": "ʾ-s-p",
+      "cognates": {
+        "Proto-Semitic": "*ʾVsVp- 'gather, collect; harvest' (semitic_roots no. 1467)",
+        "Hebrew": "bêt hāʾăsuppîm 'the house of the stores' (1 Chr 26:15); ʾăsuppê 'storehouses of' (Neh 12:25)",
+        "Ugaritic": "ʾasp 'gather'"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "administrative",
+      "category": "administrative",
+      "language_layer": "NWS",
+      "attestations": [
+        "ARKH2"
+      ],
+      "note": "ARKH 2 .5–6 A-SU-PU-WA 4, the final WA over an erasure, an entry under the heading SI-DA-TE ṣēdat 'provisions', after ZU-*301-SE-DE-*21F-*118 6 (GORILA III 6–7). ʾa-su-pp-ū-a, the ʾăsuppîm 'stores' of 1 Chr 26:15, √ʾ-s-p 'gather'. -PU-WA writes the glide before a final -a, as A-SI-SU-PO-A writes -PO-A (KH 9), and QA-RA₂-WA stands beside QE-RA₂-U. Rival: a personal designation in -uwa, since A-SI-SU-PO-A stands beside the person sign VIR+*307. One witness.",
+      "source": "di Mino"
+    },
+    {
+      "word": "ME-ZA",
+      "reading": "massu",
+      "meaning": "corvée gang, labour gang (personnel term); the word of MA-ZA",
+      "root": "m-s-s",
+      "cognates": {
+        "Proto-Semitic": "*mass- 'forced labor, corvée levy, labor gang' (semitic_roots S31)",
+        "Akkadian": "massu 'corvée worker': idi LÚ.MEŠ ma-zi 'wages for the corvée workers' (Wiseman Alalakh 246:6); LÚ.MEŠ ma-as-sa.MEŠ (EA 365:14) (CAD M/1 327)",
+        "Hebrew": "mas 'corvée, labour gang' (1 Kgs 5:27)"
+      },
+      "tier": 2,
+      "confidence": "CANDIDATE",
+      "confidence_score": 0.4,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT10a",
+        "HT85b"
+      ],
+      "note": "HT 10a .8 ME-ZA 3, the last issue of emmer under KU-NI-SU, after DA-RE 16½, U-*325-ZA and DA-RI-DA 8 (GORILA I 20–21); HT 85b ME-ZA 1, among single entries under KI-KI-RA-JA beside QA-*310-I qaynī 'smith' (GORILA I 130–131). Alalakh writes the gang ma-zi and issues it grain (CAD M/1 327), as HT 10a issues ME-ZA emmer. The word of MA-ZA mazza (ZA 10b); ME for ma is a vowel mismatch only. Rival: the Hurrian name mzy, ma-zi-i (DULAT 600).",
+      "source": "di Mino; CAD M/1"
+    },
+    {
+      "word": "TA-PA",
+      "reading": "tappāʾu",
+      "meaning": "partners, the heading of a shares account",
+      "root": "t-p-ʾ",
+      "cognates": {
+        "Proto-Semitic": "*tappāʾ- 'partner, colleague, friend, companion' (semitic_roots no. 3630)",
+        "Akkadian": "tappû, tappāu 'partner, colleague … business partner'; Bogh. and Alalakh tappûtu (CAD T 184)",
+        "Eblaite": "da-ba-u₃ tappāʾu 'comrade', a personal name (Pagan 1998, row 1378)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "administrative",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT104"
+      ],
+      "note": "HT 104 .1 TA-PA · *505 ·, heading three entries, DA-KU-SE-NE-TI 45½, I-DU-TI 20½ and PA-DA-SU-TI 29, whose sum is KU-RO 95 (GORILA I 170–171). ta-pa(ʾu) on primary values, the geminate and final ʾu unwritten: the partners in a divided account, as Akk. tappû 'business partner' (CAD T 184). Rival: ṭap 'children' (semitic_roots no. 66), TA writing ṭ. One witness.",
+      "source": "di Mino; CAD T"
+    },
+    {
+      "word": "RO-E",
+      "reading": "rōʿē",
+      "meaning": "herdsman, shepherd (title on a label)",
+      "root": "r-ʿ-y",
+      "cognates": {
+        "Proto-Semitic": "*rāʕ- 'herdsman' (semitic_roots no. 454)",
+        "Hebrew": "rōʿeh 'shepherd'",
+        "Ugaritic": "rʿy 'shepherd', in ration lists: rʿym tlt ddm 'shepherds: three cauldronsful (of flour)' (DULAT 716)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "attestations": [
+        "PH24"
+      ],
+      "note": "PH 24, an MM II label, RO-E the only group, whole and undotted (GORILA I 310–311). rō-ʿē, the qōtēl participle as in RO-KE rōkēl, ʿ unwritten: Heb. rōʿeh, Ug. rʿy 'shepherd' (DULAT 716). Rival: rōʾē 'seer' (semitic_roots no. 627). One witness.",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "A-DE",
+      "reading": "ʾAddē",
+      "meaning": "Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'",
+      "root": "ʾ-d",
+      "cognates": {
+        "Proto-Semitic": "*ʾad- 'father, lord' (semitic_roots no. 2567)",
+        "Ugaritic": "ʾad 'father', par. um 'mother' (DULAT 16); PN ʾady, syll. a-da-a-a, ad-di-ya (DULAT 23)",
+        "Amorite": "/ʔad/ 'lord, father' (Huffmon APNMT 156, apud DULAT 16)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "ZA10b"
+      ],
+      "note": "ZA 10b .4 A-DE 4, whole, between SA-MA 5 and A-MI-TA ʾamita 'handmaid' 3, in a list that also counts U-*49 ʾummi 'mother' 6 (GORILA III 171). ʾAddē, Ugaritic ʾady, syll. a-da-a-a (DULAT 23): hypocoristic -ay contracted to -ē, the geminate unwritten. Rival: the kin title ʾad 'father' (DULAT 16), as U-*49 is 'mother' in the same list. One witness.",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "SE-*305",
+      "reading": "ṣēdā",
+      "meaning": "provisions (section heading); same word as SI-DA-TE ṣēdat",
+      "root": "ṣ-y-d",
+      "cognates": {
+        "Proto-Semitic": "*ṣVwad/*ṣVyad- 'hunt, take, catch' (semitic_roots no. 847)",
+        "Hebrew": "ṣēdâ 'provisions': lātēt lāhem ṣēdâ laddārek 'to give them provisions for the way' (Gen 42:25); lāqaḥat ṣēdâ lāʿām 'to fetch provisions for the people' (Judg 20:10)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "administrative",
+      "category": "administrative",
+      "language_layer": "NWS",
+      "attestations": [
+        "KH7a"
+      ],
+      "note": "KH 7a .4 SE-*305 ·, whole, heading the third section, KU-[·]-KO-E VIR+*313b [ ]18 / CYP+D 1, in the slot of E-NA-SI naḥāši and I-JA-PA-ME · TA-TA (GORILA III 29). ṣē-dā with *305 = da, the live alternate of its sign record, since ḏa gives no root. The heading word of SI-DA-TE ṣēdat (ARKH 2) and MA-SI-DU maṣīdu (HT 43), √ṣ-y-d. Rival: the name of the section's leader. One witness.",
+      "source": "di Mino"
+    },
+    {
+      "word": "RU-MA",
+      "reading": "Rūma",
+      "meaning": "Height (toponym), the bare form of RU-MA-TA rūmatā",
+      "root": "r-w-m",
+      "cognates": {
+        "Proto-Semitic": "*rVyVm- 'be high, long' (semitic_roots no. 1135)",
+        "Hebrew": "TN Rûmâ (2 Kgs 23:36)",
+        "Amorite": "RUWM-AT-UM, RU-MA-TUM, personal name (Gelb 1980, no. 5306)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "toponym",
+      "category": "toponym",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT64"
+      ],
+      "note": "HT 64 .2 ]NA 2 RU-MA, whole against the tablet's right edge; only GORILA's normalized box adds the bracket (GORILA I 118–119). rū-ma sign for sign as Heb. Rûmâ (2 Kgs 23:36). The bare form of RU-MA-TA rūmatā 'the Height' (HT 29, HT 99b), √r-w-m. Rival: a personal name of the Amorite RU-MA-TUM type (Gelb 1980, no. 5306). One witness.",
+      "source": "di Mino"
+    },
+    {
+      "word": "A-SE-TU-*21F",
+      "reading": "Aštuḫḫa",
+      "meaning": "Female (Hurrian personal name); rival the line as a heading, 'female (ones)'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "aštuḫḫi 'féminin', opp. turuḫḫi 'masculin', from ašte 'femme'; instr. aš-tu-uḫ-ḫa-a-i (Laroche GLH 62); Ugaritic alphabetic aštḫ-n (GLH 63); Nuzi ᶠAš-du-uḫ-ḫa-a-a (NPN 37, 206)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "PH2"
+      ],
+      "note": "PH 2 .1 A-SE-TU-*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and SE-SA-PA₃ 60, whole and undotted (GORILA I 288–289). aš-tu-ḫa with *21F = ḫa, SE writing š with the e of ašte: the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37), Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Rivals: the line as a heading, 'female (ones)', if GORILA's 1 is the first stroke of RA (Younger, Linear A Texts); A-SE ʾaššē + an unread TU-*21F. One witness.",
+      "source": "di Mino; Laroche GLH; NPN"
+    },
+    {
+      "word": "A-RU",
+      "reading": "Ḫaru",
+      "meaning": "Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "Nuzi Ḫa-a-ru, [Ḫa]-a-ru(m), f. of Alkiya (NPN 55); element ḫaru 'H.? Anatolian?' (NPN 214)",
+        "Eblaite": "ha-ru₁₂ ḫayru 'excellent', the rival (Pagan 1998, row 2259); *ḫVyVr- 'be favourable' (semitic_roots no. 988)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT9a",
+        "HT49a"
+      ],
+      "note": "HT 9a A-RU 4¼, the last recipient of the wine list under SA-RO · TE · VIN, before KU-RO 31¾; HT 49a A-RU 1 in a name list with TU-SU-PU₂ Tešub. ḫa-ru sign for sign, ḫ unwritten as in E-PA-TU Ḫebat: the Nuzi name Ḫa-a-ru (NPN 55), an element NPN marks 'H.? Anatolian?' (NPN 214). Rival: the Eblaite name ha-ru₁₂ ḫayru 'excellent' (Pagan 1998, row 2259), which needs the coda y unwritten.",
+      "source": "di Mino; Pagan 1998; NPN"
+    },
+    {
+      "word": "JA-DI",
+      "reading": "Yadi",
+      "meaning": "Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows'",
+      "root": "y-d",
+      "cognates": {
+        "Proto-Semitic": "*yad- ~ *ʾid- 'hand' (semitic_roots no. 2046)",
+        "Amorite": "JAD-IM, IA-DI-IM (Gelb 1980, no. 3205); JA-DJIN+HADD-U, IA-DI-IN-D-IM (no. 3206), the Yadīn rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "PHWc39"
+      ],
+      "note": "PH Wc 39, an MM II roundel from Vano LI, JA-DI on face a, RO rōš on face b, whole and undotted (GORILA II 94). ya-di sign for sign as the Amorite name IA-DI-IM (Gelb 1980, no. 3205), mimation unwritten, *yad- 'hand'. Rivals: Yadīn 'he judges' (Gelb no. 3206 IA-DI-IN-), Yadiʿ 'he knows', each with a final consonant unwritten. Not JA-DI-KI-TU, which divides JA | DI-KI-TU. One witness.",
+      "source": "di Mino; Gelb 1980"
+    },
+    {
+      "word": "DU-JA",
+      "reading": "Tuya",
+      "meaning": "Tuya (personal name, hypocoristic in -ya); rival Ḏū-Yā 'He of Yah'",
+      "root": null,
+      "cognates": {
+        "Nuzi": "TUIA, Tu-ú-ia, var. Tu-ú?-ia (NPN 156); -tuja 'H. Perhaps a formative in Akituja' (NPN 268)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "HT7a"
+      ],
+      "note": "HT 7a .3 DU-JA 4, whole and undotted, under QE-TI · VIR after I-RU-JA 3, a Hurrian -ja hypocoristic (GORILA I 15). tu-ya sign for sign as the Nuzi name Tu-ú-ia (NPN 156), its element -tuja Hurrian (NPN 268). Rival: Ḏū-Yā 'He of Yah', ḏū as in DU-RU-WI ḏu-lēwī and DA-NA-SI Ḏā-Naśiʾ, + JA = Yā(h), as JA-*21F Yāh (HT 28b). One witness.",
+      "source": "di Mino; NPN"
+    },
+    {
+      "word": "MA-RE",
+      "reading": "mārē",
+      "meaning": "lord, master (title, an entry in a KI-RO roster); rival a personal name",
+      "root": "m-r-ʾ",
+      "cognates": {
+        "Eblaite": "mar-a 'the lord' / 'the son' (Pagan 1998, rows 3651–3652)",
+        "Linear A": "-MA-RE mārē in JI-NU-MA-RE yinu-mārē 'wine-lords' (ZA 4a, 5b, 15a)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT55a"
+      ],
+      "note": "HT 55a .1 ]KI-RO · MA-RE 1, whole and undotted, the first of single entries owed (GORILA I 106–107). mā-rē, the -MA-RE of JI-NU-MA-RE 'wine-lords'; Ebla mar-a 'the lord' (Pagan 1998, row 3651). Ugaritic has no mrʾ 'lord' (DULAT 562). Rival: a personal name. One witness.",
+      "source": "di Mino; Pagan 1998"
+    },
+    {
+      "word": "SA-TA",
+      "reading": "Šata",
+      "meaning": "Šata (personal name, heading the second section); rival śadā '(those of) the field'",
+      "root": null,
+      "cognates": {
+        "Nuzi": "ŠATA, Ša-a-ta, var. Ša-ta, f. of Urḫi-tešup (NPN 126)",
+        "Ugaritic": "šd (I) 'open field; field, plot, estate' (DULAT 795), the rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "unresolved",
+      "attestations": [
+        "HT117a"
+      ],
+      "note": "HT 117a .7 SA-TA ·, whole and undotted, heading the second section over five names with 1 each, in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI holds in the first (GORILA I 197). ša-ta on primary values, sign for sign as the Nuzi name Ša-a-ta, Ša-ta (NPN 126), which NPN leaves unclassed. Rival: śadā '(those of) the field', TA writing d as the T class allows, the root of SA-DI šadī (semitic_roots no. 1804; DULAT 795), since HT 87 and HT 117b put group terms in this slot. One witness.",
+      "source": "di Mino; NPN"
+    },
+    {
+      "word": "TU-NU",
+      "reading": "Tunu",
+      "meaning": "Tunu (Hurrian personal name, owner's name on a double axe)",
+      "root": null,
+      "cognates": {
+        "Hurrian": "element tun- 'H.', cf. tu-u-ni, du-u-ni (KUB XXV 44, 45) (NPN 269); Nuzi TUN-TEŠUP, Du-un-te-šu-up, var. Du-un-te-šup, f. of Arbi (NPN 158)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "KAZf1"
+      ],
+      "note": "KA Zf 1, a bronze double axe from Kardamoutsa (BM 1954,10-20.1), TU and NU · on either side of the shaft hole, whole and undotted (GORILA IV 149). tu-nu on primary values: the Hurrian element tun- (NPN 269), as in the Nuzi name Tun-tešup (NPN 158). One witness.",
+      "source": "di Mino; NPN"
+    },
+    {
+      "word": "*47-NU-RA-JA",
+      "reading": "Šū-nūraya",
+      "meaning": "personal name, 'He is light'; rival mənōrāya 'lampstand (man)'",
+      "root": "n-w-r",
+      "cognates": {
+        "Proto-Semitic": "*nūr- 'light' (semitic_roots no. 1196)",
+        "Ugaritic": "PN nryn, syll. nu-ri-ia-nu, short form nu-ri-ia (DULAT 634)",
+        "Eblaite": "su-nu-ri₂ šū-nūrī 'he is my light' (Pagan 1998, row 4282)",
+        "Amorite": "NU-RA nūram (Gelb no. 5085)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT115a"
+      ],
+      "note": "HT 115a .1 *47-NU-RA-JA · I · GRA+BOSm, whole and undotted, the first entry of a palimpsest (GORILA I 189); HT 115b repeats the frame with TI-NU-JA, a person. NU-RA-JA is nūr-aya, as Ugaritic nu-ri-ia beside nu-ri-ia-nu (DULAT 634). With *47 = so: šū 'he', as Ebla su-nu-ri₂ šū-nūrī 'He is my light' (Pagan 1998, row 4282); SO for šū is a vowel mismatch only. Rival: with *47 = mo, mənōrā 'lampstand' (Ug. mnrt, DULAT 558) + -aya. One witness.",
+      "source": "di Mino; DULAT; Pagan 1998; Gelb 1980"
+    },
+    {
+      "word": "QE-KU-RE",
+      "reading": "kikkᵊrē",
+      "meaning": "rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru",
+      "root": "k-k-r",
+      "cognates": {
+        "Proto-Semitic": "*kakkar-/*kikkar- 'round loaf, disk; talent' (semitic_roots no. 1097)",
+        "Hebrew": "kikkᵊrê, construct pl., 'talents of' (2 Kgs 5:5)",
+        "Ugaritic": "kkr 'talent' (DULAT 430–31); kkr ḥlb 'a talent of cheese' (DULAT 355)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "commodity",
+      "category": "commodity",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT20"
+      ],
+      "note": "HT 20 .2–.3 QE-KU-RE · DI ½, whole and undotted, the second entry under PA-RO-SU in a list where every entry takes a fraction (GORILA I 37). kik-kᵊrē, a construct before the commodity sign DI, as Hebrew kikkᵊrê kesep 'talents of silver' (2 Kgs 5:5). QE writes k, its listed alternate; Ugarit writes the word with ka₄, the QA sign (DULAT 430–31). Rival: the name Qaqqaru, spelled QA-QA-RU elsewhere at Haghia Triada. One witness.",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "QA-KU-RE",
+      "reading": "kakkarē",
+      "meaning": "rounds of (a commodity); talent",
+      "root": "k-k-r",
+      "cognates": {
+        "Proto-Semitic": "*kakkar- (semitic_roots no. 1097)",
+        "Akkadian": "kakkaru, Qatna [q]a-a[q]-q[a]-r[u] (EA 53:32), Alalakh ka-qa-ru (CAD K 49–50)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "commodity",
+      "category": "commodity",
+      "language_layer": "NWS",
+      "attestations": [
+        "HTWc3017"
+      ],
+      "note": "HT Wc 3017, a roundel, face a QA-KU-RE · DI-*306 ·, face b CYP+D · *304+PA, all signs whole and undotted (GORILA II 77). The a-vowel form of QE-KU-RE kikkᵊrē, again before a DI- word. QA for k as Ugarit's ka₄-ka₄-r[u] (DULAT 430–31). One witness.",
+      "source": "di Mino; DULAT; CAD"
+    },
+    {
+      "word": "DI-NI",
+      "reading": "Dīnī",
+      "meaning": "personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wdny",
+      "root": "d-y-n",
+      "cognates": {
+        "Proto-Semitic": "*dyn- 'to judge; judgment' (semitic_roots no. S36)",
+        "Amorite": "Dīnī-Haddu, DI-NI-A-DU, DI-NA-A-DU (Gelb nos. 1513, 1512)",
+        "Linear A": "DI-NA-U Dīnāyu beside WA on HT 16"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HTWc3007",
+        "HTWc3008"
+      ],
+      "note": "HT Wc 3007 WA-DI-NI, the only text; HT Wc 3008 face a WA · DI-NI, the point after WA in GORILA's transcription, face b RU-JA-TA-DI; all signs whole and undotted (GORILA II 74). WA is the cloth sign, alone on HT Wc 3019 (WA ¼) and KH Wc 2124, and beside DI-NA-U Dīnāyu on HT 16. dī-nī 'my judgment', as Alalakh Dīnī-Haddu, DI-NI-A-DU (Gelb no. 1513). Rival: one word, Ugaritic PN wdny, 'etym. unc.' (DULAT 929). Two witnesses.",
+      "source": "di Mino; Gelb 1980"
+    },
+    {
+      "word": "A-RO-TE",
+      "reading": "Ḫaluti",
+      "meaning": "Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses'",
+      "root": null,
+      "cognates": {
+        "Nuzi": "Ha-lu-ti, var. Ha-lu-u-ti, a woman's name (NPN 51)",
+        "Hebrew": "ʾālāh, pl. ʾālôt 'oaths, curses' (Deut 29:20; 30:7; 2 Chr 34:24), the rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "unresolved",
+      "attestations": [
+        "CRZg4"
+      ],
+      "note": "CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net relief, face a I-DA-DA, read from the impression, the signs whole (Younger, Linear A Texts, citing Raison–Pope 1994, 242–43). A seal names its owner: Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), with A for ḫa as in A-RU Ḫaru; TE for ti is a vowel mismatch only. Linear B a-ro-te (PY La 622) is obscure (Killen). Rival: ʾālôt 'oaths, curses' on primary values, the plural of ʾālāh (Deut 29:20; 2 Chr 34:24), whose ō needs the Canaanite shift. One witness.",
+      "source": "di Mino; NPN"
+    },
+    {
+      "word": "KU-TU-KO-RE",
+      "reading": "Kutukkore",
+      "meaning": "Kutukkore (Hurrian personal name)",
+      "root": null,
+      "cognates": {
+        "Hurrian": "Nuzi KUTUKKA, Ku-duq-qa, var. Ku-tu-ug-ga, Ku-tu-uq-qa (NPN 93), the element kutukka H., cf. ku-du-uk-ku KUB XXVII 38 ii 10 (NPN 231; Laroche GLH 150); Kutukkeja, Ku-dug-ge-ia (NPN 93); -re 'H.? … Probably identical with -ri' (NPN 248)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "ZA8"
+      ],
+      "note": "ZA 8 .2 KU-TU-KO-RE with a fraction, whole and undotted, an entry in the fig issue headed KI-RA · (GORILA III 165). ku-tu-k(k)o-re: the Hurrian base kutukk- of Nuzi Kutukka (NPN 93), with the suffix -re of Antare and Humere (NPN 248), the geminate unwritten. Base and suffix are each attested, not together. One witness.",
+      "source": "di Mino; NPN; Laroche GLH"
+    },
+    {
+      "word": "TA₂-TI-TE",
+      "reading": "Tati-te",
+      "meaning": "Tati-te, '(Teššup) loved' (Hurrian personal name, hypocoristic)",
+      "root": null,
+      "cognates": {
+        "Hurrian": "tad- 'aimer' (Laroche GLH 248); tat 'H. … Cf. tat, \"love,\" in Tuš.' (NPN 263); Nuzi TATI, Ta-ti, and TATIP-TEŠUP, Ta-ti-ip-te-šup (NPN 150); -te, the 'shortened var.' of -teja, itself the hypocoristic of -tešup (NPN 264)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "PK1"
+      ],
+      "note": "PK 1 .3 TA₂-TI-TE 1, whole and undotted, before O-KA-MI-ZA-SI-I-NA, in a roster of names each counted 1 (GORILA I 281). ta-ti-te: Nuzi Ta-ti beside Tatip-tešup (NPN 150), with -te for -tešup (NPN 264), 'Teššup loved'. TA₂ writes a t-, its vowel open. One witness.",
+      "source": "di Mino; NPN; Laroche GLH"
+    },
+    {
+      "word": "A-KI-PI-E-TE",
+      "reading": "Akipe-te",
+      "meaning": "Akipe-te, '(Teššup) brought' (Hurrian personal name, hypocoristic)",
+      "root": null,
+      "cognates": {
+        "Hurrian": "ag- 'amener, apporter', agi-, agib- in names, Akib-Tešub (Laroche GLH 36); Nuzi Akipei, A-ki-be-e-i, 'Probably < akip-' (NPN 14, 198); [A-ki]p-te-ia, A-ki-te-ia, and A-kip-te-šup (NPN 198); -te, the 'shortened var.' of -teja (NPN 264)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "attestations": [
+        "KH10"
+      ],
+      "note": "KH 10 .3–4 A-KI-PI | E-TE GRA 90, run over the line end and printed as one word in GORILA's normalized line, after I-PA-SA-JA Ipšaja · QA-*118 (GORILA III 36–37). a-ki-pe-te: the Hurrian stem akip- 'brought' of Akip-tešup (Laroche GLH 36), A-KI-PI-E sign for sign as Nuzi Akipei, A-ki-be-e-i (NPN 14), + -te for -teja (NPN 264), as Nuzi [A-ki]p-te-ia (NPN 198). A recipient of grain beside the Hurrian Ipšaja. One witness.",
+      "source": "di Mino; NPN; Laroche GLH"
+    },
+    {
+      "word": "SU-PU₂",
+      "reading": "Ṣubʾu",
+      "meaning": "Ṣubʾu (personal name); rival ṣābu 'workers, troop'",
+      "root": "ṣ-b-w",
+      "cognates": {
+        "Proto-Semitic": "*ṣbw 'to wish, desire' (semitic_roots no. 3456)",
+        "Amorite": "ṢUBUʾ-UM, ZU-BU-U₂-UM and ZU-BU-UM (Gelb 1980, AS 21, 652, nos. 6581–6582)",
+        "Eblaite": "zu-bu₃, zu-bu₁₆ (Pagan 1998, rows 5264–5265)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "attestations": [
+        "HT63"
+      ],
+      "note": "HT 63 .1 SU-PU₂, whole and undotted, the third entry under *305 · TE 1, after KA-TI 1, against the tablet's upper right corner; no numeral survives, and GORILA's normalized line brackets the end, SU-PU₂[ (GORILA I 118–119). ṣu-bu, PU₂ for bu as in DU-PU₂-RE dubur, the final ʾu unwritten as in TA-PA tappāʾu: the Amorite name Ṣubʾu (Gelb 1980, AS 21, 652). Linear B su-po (KN Dc 5812) and su-pu-wo (KN C 912) are men's names at Knossos (DMic II 304). HT 8b .1 SU-PU₂ *188 1 may be the same word before the logogram (SU-PU₂-*188). Rival: ṣābu 'workers, troop' (semitic_roots no. 1333), a collective under the personnel sign *305. One witness.",
+      "source": "di Mino; Gelb 1980; Pagan 1998; DMic II"
     }
   ]
 }

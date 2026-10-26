@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔirān- \[Blachère 89\], \[LA XIII 14\] | LA XIII 14; Fr. I 29 | gloss withheld |
+| Arabic | ʔirān- \[Blachère 89\], \[LA XIII 14\] | Blachère 89; LA XIII 14 | gloss withheld |
 | Gurage | irǝččä, ǝri, ire (S), ǝrǝččä (W), äre (Ms,Ch,E), ärä̆ (Ch), äray (E,Gt), areʔ (En,Ed) LGur 82 | LGur 82 | gloss withheld |
 | Amharic | awra \[K 1267\] | K 1267 | gloss withheld |
 | Syrian Aramaic | ʔarwānā (f. ʔarwānītā) 'young bull, young cow (calf)' \[Brock. 47\], \[PS 372\] | Brock. 47; PS 372 |  |

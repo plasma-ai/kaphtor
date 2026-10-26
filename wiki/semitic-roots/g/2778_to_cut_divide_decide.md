@@ -34,12 +34,12 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gāzar (HALOT 187) | HALOT 187 | gloss withheld |
 | Geez | gazara (HALOT 187) | HALOT 187 |  |
 | Tigre | gezrat (HALOT 187) | HALOT 187 |  |
-| Jibbali | gɔ́zɔ́r (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015, ch. 2 §4.2 no. 16 | gloss withheld |
-| Mehri | gəzōr (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015, ch. 2 §4.2 no. 16 | gloss withheld |
-| Syrian Aramaic | gzar (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015, ch. 2 §4.2 no. 16 | gloss withheld |
+| Jibbali | gɔ́zɔ́r (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015 ch. 2 §4.2 no. 16 | gloss withheld |
+| Mehri | gəzōr (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015 ch. 2 §4.2 no. 16 | gloss withheld |
+| Syrian Aramaic | gzar (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015 ch. 2 §4.2 no. 16 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic gzr (Al-Jallad–Jaworska 74) | Al-Jallad–Jaworska 74 | gloss withheld |
 | Biblical Aramaic | gəzērā (HALOT 1844 apud SEDonline 1261) | HALOT 1844; SEDonline 1261 | gloss withheld |
-| Epigraphic South Arabian | Sab gzr (Biella 71); (Sabaweb lemma 7391) | Biella 71; Sabaweb lemma 7391 | gloss withheld |
+| Epigraphic South Arabian | Sab gzr (Biella 71) (Sabaweb lemma 7391) | Biella 71; Sabaweb lemma 7391 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

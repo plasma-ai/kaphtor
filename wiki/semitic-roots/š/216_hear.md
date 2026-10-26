@@ -33,22 +33,22 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | smʕ \[-a-\] (Lane 1427) | Lane 1427 |  |
 | Mehri | hēma |  |  |
 | Soqotri | hyemaʕ |  |  |
-| Akkadian | šemû |  | gloss withheld |
+| Akkadian | šemû (Kogan 2015, ch. 5 §2.3.2 no. 39) | Kogan 2015 ch. 5 §2.3.2 no. 39 | gloss withheld |
 | Harsusi | hōma (mēšmēʔ) |  | gloss withheld |
-| Tigre | sämʕa (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015, ch. 7 §2.2 no. 39 |  |
+| Tigre | sämʕa (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015 ch. 7 §2.2 no. 39 |  |
 | Mandaic Aramaic | šma (Drower/Macuch 469a apud CAL) | Macuch 469a; CAL |  |
-| Ugaritic | šmʿ |  | gloss withheld |
-| Geez | smʕ \| samʿa (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015, ch. 7 §2.2 no. 39 | gloss withheld |
+| Ugaritic | šmʿ (Kogan 2015, ch. 5 §2.2.1 no. 39) | Kogan 2015 ch. 5 §2.2.1 no. 39 | gloss withheld |
+| Geez | smʕ; samʿa (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015 ch. 7 §2.2 no. 39 | gloss withheld |
 | Gurage | säma |  |  |
 | Phoenician | šmʿ (Krahmalkov 470) | Krahmalkov 470 | gloss withheld |
-| Hebrew | šmʕ \| šamaʿ |  | gloss withheld |
-| Amharic | sämma (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015, ch. 7 §2.2 no. 39 |  |
-| Epigraphic South Arabian | smʕ \| Sab smʿ (Biella 338; Sabaweb lemma 3265) | Biella 338; Sabaweb lemma 3265 | gloss withheld |
+| Hebrew | šmʕ (Kogan 2015, ch. 4 §3.1.1.1 no. 39); šamaʿ | Kogan 2015 ch. 4 §3.1.1.1 no. 39 | gloss withheld |
+| Amharic | sämma (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015 ch. 7 §2.2 no. 39 |  |
+| Epigraphic South Arabian | smʕ; Sab smʿ (Biella 338; Sabaweb lemma 3265) | Biella 338; Sabaweb lemma 3265 | gloss withheld |
 | Harari | sämaʾa \[LHar 140\] | LHar 140 | gloss withheld |
 | Syrian Aramaic | šmʕ (Payne Smith 584) | Payne Smith 584 |  |
 | Gafat | sämmä |  |  |
 | Argobba | sämma |  |  |
-| Tigrinya | sämʕe (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015, ch. 7 §2.2 no. 39 |  |
+| Tigrinya | sämʕe (Kogan 2015, ch. 7 §2.2 no. 39) | Kogan 2015 ch. 7 §2.2 no. 39 |  |
 | Aramaic | ŠMʿ (Aramaic Root Atlas; DNWSI 1164 apud CAL) | Aramaic Root Atlas; DNWSI 1164; CAL | gloss withheld |
 | Punic | šmʿ 'hear' | Anderson–Moser 2024 root šmʿ |  |
 | Judaic Aramaic | mišmᵉʿā (HALOT 649); šəmaʿ (HALOT 1570; DJPA 558a apud CAL) | HALOT 649; HALOT 1570; DJPA 558a; CAL | gloss withheld |

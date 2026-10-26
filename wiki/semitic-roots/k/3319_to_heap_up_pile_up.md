@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | kamāru (CAD K 112; AHw. 430 apud SEDonline 2144) | CAD K 112; AHw. 430; SEDonline 2144 | gloss withheld |
-| Geez | kamara (CDG 286; Leslau 1944:56 apud SEDonline 2144) | CDG 286; Leslau 1944:56; SEDonline 2144 | gloss withheld |
+| Geez | kamara (CDG 286; Leslau 1944:56 apud SEDonline 2144) | CDG 286; Leslau 1944 56; SEDonline 2144 | gloss withheld |
 | Tigre | kämmära (WTS 395; CDG 286 apud SEDonline 2144) | WTS 395; CDG 286; SEDonline 2144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

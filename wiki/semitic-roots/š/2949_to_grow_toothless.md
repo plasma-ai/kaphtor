@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*šlʕ/ɣ {} \*slʕ/ɣ |
 | Meaning | 'to grow toothless' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I verbal roots, No. 62 |
 
 ## Reflexes
 
@@ -38,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED I, verbal roots, No. 62: South Semitic only. SED keeps Har. sēlo Semitic against Leslau's Oromo source. The Jib. forms may instead be a secondary sense of šelaʕ 'twist (the head)' (SED I 319). Not 1777 \*šVlaʕ- 'pierce, split'.
+Not 1777 \*šVlaʕ- 'pierce, split'.
 
 <!-- END kaphtor:record -->

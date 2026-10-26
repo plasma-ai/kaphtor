@@ -29,12 +29,12 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ˁrˁr (DUL 178; Pardee 1988: 215–216; Kogan 2012: 243 apud SEDonline 424) | DUL 178; Kogan 2012: 243; SEDonline 424 | gloss withheld |
-| Hebrew | ˁarˁār (HALOT 887 apud SEDonline 424) | HALOT 887; SEDonline 424 | gloss withheld |
-| Syrian Aramaic | ˁarrā (LSyr. 544, SL 1141 apud SEDonline 424); ˁarˁūrā (LSyr. 544, SL 1141 apud SEDonline 424) | LSyr. 544, SL 1141; SEDonline 424; LSyr. 544, SL 1141; SEDonline 424 | gloss withheld |
-| Arabic | ˁarˁar- (LA 4 644; Lane 1990 apud SEDonline 424) | LA 4 644; Lane 1990; SEDonline 424 | gloss withheld |
-| Epigraphic South Arabian | Sab. ˁrˁr (Stein 2010: 200, l. 12 apud SEDonline 424) | SEDonline 424 | gloss withheld |
-| Modern South Arabian | Bathari ˁarˁéyr (Gasparini - Morris 2025 96 apud SEDonline 424) | SEDonline 424 | gloss withheld |
+| Ugaritic | ˁrˁr 2 (DUL 178; Pardee 1988: 215–216; Kogan 2012: 243 apud SEDonline 424) | DUL 178; Pardee 1988 215–216; Kogan 2012: 243; SEDonline 424 | gloss withheld |
+| Hebrew | ˁarˁār 1 (HALOT 887 apud SEDonline 424) | HALOT 887; SEDonline 424 | gloss withheld |
+| Syrian Aramaic | ˁarrā 2 (LSyr. 544, SL 1141 apud SEDonline 424); ˁarˁūrā 2 (LSyr. 544, SL 1141 apud SEDonline 424) | LSyr. 544, SL 1141; SEDonline 424 | gloss withheld |
+| Arabic | ˁarˁar- 1 (LA 4 644 apud SEDonline 424); ˁarˁar 1 (Lane 1990–1991) | LA 4 644; SEDonline 424; Lane 1990–1991 | gloss withheld |
+| Epigraphic South Arabian | Sab. ˁrˁr 1 (Stein 2010: 200, l. 12 apud SEDonline 424); ˁrrm (Biella 385) | SEDonline 424; Biella 385 | gloss withheld |
+| Modern South Arabian | Bathari ˁarˁéyr 2 (Gasparini - Morris 2025 96 apud SEDonline 424) | SEDonline 424 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

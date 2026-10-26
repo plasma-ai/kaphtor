@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | zāʕap (HALOT 277); zaʕap (HALOT 277); zāʕēp (HALOT 277) | HALOT 277; HALOT 277; HALOT 277 | gloss withheld |
+| Hebrew | zāʕap (HALOT 277); zaʕap (HALOT 277); zāʕēp (HALOT 277) | HALOT 277 | gloss withheld |
 | Syrian Aramaic | zʕp 'be wroth, indignant' (Payne Smith 119) | Payne Smith 119 |  |
 | Judaic Aramaic | zʿpʾ (HALOT 277) | HALOT 277 |  |
 

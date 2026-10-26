@@ -55,23 +55,28 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]] | ʾarṣ̂atu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU_ME\|A-RA-TU-ME]] | ʾarṣ̂atum | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
+| [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_NA_TU\|DA-NA-TU]] | dānatu | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_TU\|MI-TU]] | mītu | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān / nātānān | PROBABLE |
 | [[wiki/linear-a/words/O/OLE_plus_TU\|OLE+TU]] |  | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_TU\|QE-TU]] | qaṭun | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_TU_NE\|QE-TU-NE]] | qaṭunē | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_TE_TU\|SI-TE-TU]] | šetātu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_TU\|SI-TU]] | sūt | CANDIDATE |
 | [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārī-nā | PROBABLE |
 | [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿlum | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | tūma | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_NU\|TU-NU]] | Tunu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯāpiṭu | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] | Tursa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | CANDIDATE |

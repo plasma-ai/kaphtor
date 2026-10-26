@@ -70,7 +70,7 @@ di Mino, Ya Diktu; Gelb 1980, AS 21, no. 4148; RS 11.839 r.8; KTU 1.3 III:36, VI
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Haghia Triada | Tablet | complete |
@@ -82,6 +82,7 @@ di Mino, Ya Diktu; Gelb 1980, AS 21, no. 4148; RS 11.839 r.8; KTU 1.3 III:36, VI
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT3\|HT3]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Kubānu | devotee of Kubaba, personal name or title, 1; rival Ugaritic Gupana | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE |

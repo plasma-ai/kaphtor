@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | rapaštu OB on \[AHw 955\] | AHw 955 | gloss withheld |
-| Modern Aramaic | URM rufša \[TMAL raḥmṯa \[Berg 76\] HRT raḥme \[J Hert 197\] NASS raḫmi (pl.) \[Tser 0195\] MMND rehem \[M MND 510\]ser 0198\] | Berg 76; J Hert 197; Tser 0195 | gloss withheld |
+| Modern Aramaic | URM rufša \[TMAL raḥmṯa \[Berg 76\] HRT raḥme \[J Hert 197\] NASS raḫmi (pl.) \[Tser 0195\] MMND rehem \[M MND 510\]ser 0198\] | Berg 76; J Hert 197; Tser 0195; M MND 510 | gloss withheld |
 | Syrian Aramaic | rapšā 'shoulder, shoulder blade' \[Brock 741\] | Brock 741 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

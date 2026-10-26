@@ -42,4 +42,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Nouns 'breach, gap' in two formations: Syriac tūrʿā (Payne Smith 608), Arabic ṯaġr, ṯuġrat (Lane 338).
+
 <!-- END kaphtor:record -->

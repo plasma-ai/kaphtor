@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | buʔbuʔ- 'pupil, eye-pupil' (also in: buʔbuʔu-l-ʕayni) \[BK 1 78\] | BK 1 78 |  |
 | Hebrew | \*bābā (in: bābat hā-ʕayin) (HALOT 107) | HALOT 107 | gloss withheld |
 | Judaic Aramaic | bābītā, babtā \[Ja 136\]; bbh \[DJPA 83b apud CAL\] | Ja 136; DJPA 83b; CAL | gloss withheld |
-| Syrian Aramaic | bābǝtā 'pupil (of the eye); eye' \[Brock 62\]; also bābūnā 'pupil' \[ibid.\] | Brock 62; ibid. |  |
+| Syrian Aramaic | bābǝtā 'pupil (of the eye); eye' \[Brock 62\]; also bābūnā 'pupil' \[ibid.\] | Brock 62 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

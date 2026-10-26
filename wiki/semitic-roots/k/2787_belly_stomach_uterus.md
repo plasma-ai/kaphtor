@@ -45,13 +45,17 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | kärsi 'belly, bosom' \[Bass. 591\] | Bass. 591 |  |
 | Amharic | kärs \[K 1387\] | K 1387 | gloss withheld |
 | Harari | kärsi \[LHar. 94\] | LHar. 94 | gloss withheld |
-| Gurage | Sod. kärs, Enn. End. käs id. \[LGur. 351\] | LGur. 351 |  |
+| Gurage | Sod. kärs, Enn. End. käs \[LGur. 351\] | LGur. 351 |  |
 | Mehri | kīrəŝ \[JM 214\] | JM 214 | gloss withheld |
 | Harsusi | kēreŝ \[JH 70\] | JH 70 | gloss withheld |
-| Jibbali | s̃irŝ \[JJ 135\] | JJ 135; JH 70; SSL 2 223 | gloss withheld |
+| Jibbali | s̃irŝ \[JJ 135\] | JJ 135 | gloss withheld |
 | Soqotri | šéreŝ \[LS 423\], \[SSL LS 1461\] | LS 423; SSL LS 1461 | gloss withheld |
 | Gafat | ərsä (LGz. 295) | LGz. 295 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Ug. krs: s for expected š, irregular. MSA: Śḥeri çirś (OLA80 §14.4).
 
 <!-- END kaphtor:record -->

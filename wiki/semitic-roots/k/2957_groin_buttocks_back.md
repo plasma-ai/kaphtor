@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*kap(a)l- |
 | Meaning | 'groin, buttocks, back' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II additions to SED I |
 
 ## Reflexes
 
@@ -33,12 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | kaplā (SED II 332) | SED II 332 | gloss withheld |
 | Mandaic Aramaic | kaplā, kupla (SED II 332) | SED II 332 | gloss withheld |
 | Arabic | kifl-, kafal- (SED II 332) | SED II 332 | gloss withheld |
-| Egyptian | kf3 (Wb V 120, 6 apud Takács 2018, 282) | Takács 2018, 282 | gloss withheld |
+| Egyptian | kf3 (Wb V 120, 6 apud Takács 2018, 282) | Wb V 120, 6; Takács 2018, 282 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-SED II, additions to SED I (unnumbered): Common Semitic. A distant tie to the verb \*kpl 'divide, double' is possible (SED II 332); see S96 \*kpl 'double'. Adamson 1993 takes kappaltu as a synonym of kabbartu ('ankle joint' in his reading) and writes it kabbaltu, a transcription SED rejects on etymological grounds (Adamson 1993, 158–159 apud SED II 332).
 
 <!-- END kaphtor:record -->

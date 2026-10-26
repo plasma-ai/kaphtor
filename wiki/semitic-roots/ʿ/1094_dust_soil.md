@@ -34,29 +34,29 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ʔafur; ʕōfer |  | gloss withheld |
 | Soqotri | ʕafer |  | gloss withheld |
 | Akkadian | ep(e)r- CAD E 184 | CAD E 184 | gloss withheld |
-| Harsusi | ʔāfor (sic!), ʔafer |  | gloss withheld |
+| Harsusi | ʔāfor, ʔafer |  | gloss withheld |
 | Tigre | ʕäfär LH 492 | LH 492 | gloss withheld |
 | Ugaritic | ʕpr |  |  |
 | Phoenician | ʿpr (Krahmalkov 384) | Krahmalkov 384 | gloss withheld |
-| Jibbali | ʕɔ́fɔ́r, ʕafor (&lt;); ʕofer |  | gloss withheld |
+| Jibbali | ʕɔ́fɔ́r, ʕafor (Kogan 2015, ch. 8 §3.1.2 no. 14); ʕofer | Kogan 2015 ch. 8 §3.1.2 no. 14 | gloss withheld |
 | Hebrew | ʕapār; ʔēper (HALOT 80) | HALOT 80 | gloss withheld |
 | Syrian Aramaic | ʕapr- (Payne Smith 422) | Payne Smith 422 |  |
 | Geez | ʾafar (LGz. 10) | LGz. 10 | gloss withheld |
 | Gurage | afär | SEDonline semet 3002 | gloss withheld |
-| Amharic | afär LGz 10, (inf.) | LGz 10 | gloss withheld |
+| Amharic | afär (LGz. 10) | LGz. 10 | gloss withheld |
 | Harari | afär | SEDonline semet 3002 | gloss withheld |
 | Gafat | afarä | SEDonline semet 3002 | gloss withheld |
 | Argobba | afär | SEDonline semet 3002 | gloss withheld |
-| Aramaic | ʿpr (Aramaic Root Atlas; DNWSI 879 apud CAL) | Aramaic Root Atlas; DNWSI 879; CAL | gloss withheld |
+| Aramaic | ʿpr (Aramaic Root Atlas; DNWSI 879 apud CAL) | Aramaic Root Atlas; DNWSI 879; CAL; Anderson–Moser 2024 root ʿpr | gloss withheld |
 | Punic | ʿpr 'dirt' | Anderson–Moser 2024 root ʿpr |  |
 | Judaic Aramaic | ʿpr (HALOT 861; DJPA 414b apud CAL) | HALOT 861; DJPA 414b; CAL |  |
 | Mandaic Aramaic | ʿfr (HALOT 861) | HALOT 861 |  |
-| Canaanite | EA ḫa-pa-ru, a-pa-ru (Kogan 2011, 189) | Kogan 2011, 189 | gloss withheld |
+| Canaanite | EA ḫa-pa-ru, a-pa-ru (Kogan 2011, 189) | Kogan 2011 189 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-From 2468: Initial ayin is explicit in Hebrew עפר (ʿpr). Dillmann (LLA 808) considers Geʿez ʾafar an Amharic loanword, unless it goes with Hebrew ʾēper (LGz. 10). See HALOT 80. Hebrew ʔēper is a loan from Akkadian epru (HALOT 80).
+Initial ayin is explicit in Hebrew עפר (ʿpr). Dillmann (LLA 808) considers Geʿez ʾafar an Amharic loanword, unless it goes with Hebrew ʾēper (LGz. 10). See HALOT 80. Hebrew ʔēper is a loan from Akkadian epru (HALOT 80).
 
 <!-- END kaphtor:record -->

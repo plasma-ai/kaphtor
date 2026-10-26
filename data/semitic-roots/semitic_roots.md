@@ -8,9 +8,9 @@ created: 2026-10-22T18:14:10Z
 updated: 2026-10-22T18:14:10Z
 ---
 
-`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 4,177 records with 20,658 reflexes.
+`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 4,276 records with 21,253 reflexes.
 Most reconstructions and meanings come from the Semitic Etymological Dictionary; `sed` cites the SEDonline entry
-(2,485 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
+(2,639 records) or the printed volume, SED I or SED II (24 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
 reconstructions.
 
 | Field | Content |
@@ -19,7 +19,7 @@ reconstructions.
 | `ps` | the reconstruction (for SA records, the headword) |
 | `meaning` | English meaning of the reconstruction |
 | `basis` | where `ps` and `meaning` come from: `sed`, `sed_edited` (SED's, corrected) or `project` |
-| `sed` | `{siglum: "SEDonline", loc: "semet N"}` when the reconstruction or meaning is SED's |
+| `sed` | `{siglum, loc}` when the reconstruction or meaning is SED's: `{siglum: "SEDonline", loc: "semet N"}`, or `{siglum: "SED I", loc: "No. N"}` and the like for the printed volumes |
 | `reflexes` | one per language (below) |
 | `notes` | the project's notes on the record, where there are any |
 
@@ -35,23 +35,24 @@ Each reflex:
 | `gloss_withheld` | true when the source's quoted gloss was taken out of `text` |
 | `text_withheld` | true when the cell was the source's prose; only `lang` and `cite` are given |
 
-A reflex keeps its quoted gloss only when its cited source is `open` (3,391 reflexes: Biberstein-Kazimirski,
+A reflex keeps its quoted gloss only when its cited source is `open` (3,448 reflexes: Biberstein-Kazimirski,
 Lane, Payne Smith, Brockelmann, Jastrow, Freytag, BDB, the Aramaic Root Atlas,
 Anderson and Moser's *Protosemitic Root Derivations* and others). Other reflexes give the form and its citation, with
-any quoted gloss taken out; a source's commentary after the forms is not included. Notes are the project's own; notes
+any quoted gloss taken out. In every reflex, a source's commentary after the forms (derivations, hedges, remarks on
+what a dictionary lacks) is not included, and neither are the citations that only that commentary named. Notes are the project's own; notes
 taken from SED are not included.
 
-856 reflexes, most of them in the K series, come from Anderson and Moser 2024, *Protosemitic
-Root Derivations* (Zenodo, doi:10.5281/zenodo.14160276, CC BY 4.0), and cite it as `{siglum: "Anderson–Moser 2024",
+1,412 reflexes, 1,140 of them in the K series, cite Anderson and Moser 2024, *Protosemitic
+Root Derivations* (Zenodo, doi:10.5281/zenodo.14160276, CC BY 4.0), as `{siglum: "Anderson–Moser 2024",
 loc: "root …"}`.
 
 | `source_class` | Reflexes |
 | --- | --- |
-| closed | 12,279 |
-| open | 3,391 |
-| none | 3,316 |
-| mixed | 997 |
-| unknown | 675 |
+| closed | 12,899 |
+| open | 3,448 |
+| none | 3,119 |
+| mixed | 1,460 |
+| unknown | 327 |
 
 `semitic_correspondences.json` is the consonant correspondence table (Huehnergard 2019, Table 3.2, p. 51): for
 each Proto-Semitic consonant, its reflex in Akkadian, Ugaritic, Hebrew, Aramaic, Arabic, Sabaic, Gəʿəz and Mehri

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qaraqa 'clucked' | Anderson–Moser 2024 root qrq |  |
-| Aramaic | QRQ (CAL s.v. qrq) | CAL s.v. qrq | gloss withheld |
+| Aramaic | QRQ (CAL s.v. qrq) | CAL s.v. qrq; Anderson–Moser 2024 root qrq | gloss withheld |
 | Syrian Aramaic | qareq 'to cluck', qarqar 'to cluck, cackle' (Payne Smith 521) | Payne Smith 521 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

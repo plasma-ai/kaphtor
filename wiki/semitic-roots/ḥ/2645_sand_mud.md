@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥāl |  | gloss withheld |
 | Mandaic Aramaic | hal- (Drower/Macuch 121a apud CAL) | Macuch 121a; CAL | gloss withheld |
-| Hebrew | ḥōl |  | gloss withheld |
+| Hebrew | ḥōl (Kogan 2015, ch. 4 §3.1.2 no. 70) | Kogan 2015 ch. 4 §3.1.2 no. 70 | gloss withheld |
 | Syrian Aramaic | ḥāl- 'sand' (Payne Smith 142) | Payne Smith 142 |  |
 | Aramaic | Pal. ḥāl (DJPA 201b apud CAL) | DJPA 201b; CAL | gloss withheld |
 

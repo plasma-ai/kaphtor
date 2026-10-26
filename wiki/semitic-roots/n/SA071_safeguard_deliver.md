@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/SA071_safeguard_deliver
 title: "*nẓm: 'safeguard, deliver'"
-desc: "Epigraphic South Arabian headword *nẓm, 'safeguard, deliver': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *nẓm, 'safeguard, deliver': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA071"
@@ -30,7 +30,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab nẓm (SD 102; Biella 126; Sabaweb lemma 2139) | SD 102; Biella 126; Sabaweb lemma 2139 | gloss withheld |
-| Arabic | Ar waṣama (Irvine 1967, 287–288 apud Biella 126). | Irvine 1967, 287–288; Biella 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | Off. bl (DNWSI 165 apud SEDonline 1898); CPA bl (DCPA 49 apud SEDonline 1898) | DNWSI 165; SEDonline 1898; SEDonline 1898 | gloss withheld |
+| Aramaic | Off. bl (DNWSI 165 apud SEDonline 1898); CPA bl (DCPA 49 apud SEDonline 1898) | DNWSI 165; SEDonline 1898 | gloss withheld |
 | Biblical Aramaic | bāl (HALOT 1834 apud SEDonline 1898) | HALOT 1834; SEDonline 1898 | gloss withheld |
 | Judaic Aramaic | JPA bl (DJPA 103 apud SEDonline 1898) | DJPA 103; SEDonline 1898 | gloss withheld |
 | Syrian Aramaic | bālā (LSyr. 62, SL 153 apud SEDonline 1898) | LSyr. 62, SL 153; SEDonline 1898 | gloss withheld |

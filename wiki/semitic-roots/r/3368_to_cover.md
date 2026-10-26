@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3368_to_cover
 title: "*rgm: 'to cover'"
-desc: "Proto-Semitic *rgm, 'to cover': reflexes in 3 language(s)."
+desc: "Proto-Semitic *rgm, 'to cover': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3368"
@@ -23,15 +23,17 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*rgm |
 | Meaning | 'to cover' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1421 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | rəgūm (ML 318 apud SEDonline 1421) | ML 318; SEDonline 1421 | gloss withheld |
-| Jibbali | ɛrgúm (JL 207 apud SEDonline 1421); erógəm (JL 207 apud SEDonline 1421) | JL 207; SEDonline 1421; JL 207; SEDonline 1421 | gloss withheld |
+| Jibbali | ɛrgúm (JL 207 apud SEDonline 1421); erógəm (JL 207 apud SEDonline 1421) | JL 207; SEDonline 1421 | gloss withheld |
 | Modern South Arabian | Bathari rəgōm (Gasparini - Morris 2025 428 apud SEDonline 1421) | SEDonline 1421 | gloss withheld |
+| Soqotri | régom (Kogan 2015, ch. 8 §3.4.1 no. 93) | Kogan 2015 ch. 8 §3.4.1 no. 93 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

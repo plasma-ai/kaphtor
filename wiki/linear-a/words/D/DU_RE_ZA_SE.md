@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Zakros | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
@@ -35,6 +35,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | — | unread; ends in -SE, as on ZA 10b and ZA 20 |  |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | ? | unread |  |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] |  | heading word (unread) |  |
 
 ## Unread
 

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ḤWG (CAL s.v. ḥwg) | CAL s.v. ḥwg | gloss withheld |
-| Hebrew | ḥuwg 'encircle' (BDB 295) | BDB 295 |  |
+| Aramaic | ḤWG (CAL s.v. ḥwg) | CAL s.v. ḥwg; Anderson–Moser 2024 root ḥwg | gloss withheld |
+| Hebrew | ḥuwg 'encircle' (BDB 295) | BDB 295; Anderson–Moser 2024 root ḥwg |  |
 | Syrian Aramaic | ḥāg 'describe a circle, encircle' (Payne Smith 129) | Payne Smith 129 |  |
 | Judaic Aramaic | ḥwg (HALOT 295) | HALOT 295 | gloss withheld |
 

@@ -35,8 +35,8 @@ updated: 2026-10-25T05:11:48Z
 | Phoenician | ʾl (Krahmalkov 50; T 18) | Krahmalkov 50; T 18 | gloss withheld |
 | Punic | ʾl (Krahmalkov 50; T 18) | Krahmalkov 50; T 18 | gloss withheld |
 | Arabic | ˀulāˀi (BK I 90 apud SEDonline 1558); ʾūlā (HALOT 52; LGz. 17) | BK I 90; SEDonline 1558; HALOT 52; LGz. 17 | gloss withheld |
-| Epigraphic South Arabian | Sab. ˀl (SD 37 apud SEDonline 1558); Sab. ˀln (SD 37 apud SEDonline 1558); Sab. ˀlt (SD 37 apud SEDonline 1558); Sab. ˀlt (SD 37 apud SEDonline 1558) | SD 37; SEDonline 1558; SD 37; SEDonline 1558; SD 37; SEDonline 1558; SD 37; SEDonline 1558 | gloss withheld |
-| Geez | ˀəllā (CDG 17 apud SEDonline 1558); ˀəllu (CDG 17 apud SEDonline 1558); ˀəlləkku (CDG 19 apud SEDonline 1558); ˀəlləktu (CDG 19 apud SEDonline 1558); ˀəllontu (CDG 20 apud SEDonline 1558); ˀəllāntu (CDG 20 apud SEDonline 1558) | CDG 17; SEDonline 1558; CDG 17; SEDonline 1558; CDG 19; SEDonline 1558; CDG 19; SEDonline 1558; CDG 20; SEDonline 1558; CDG 20; SEDonline 1558 | gloss withheld |
+| Epigraphic South Arabian | Sab. ˀl (SD 37 apud SEDonline 1558); Sab. ˀln (SD 37 apud SEDonline 1558); Sab. ˀlt (SD 37 apud SEDonline 1558) | SD 37; SEDonline 1558 | gloss withheld |
+| Geez | ˀəllā (CDG 17 apud SEDonline 1558); ˀəllu (CDG 17 apud SEDonline 1558); ˀəlləkku (CDG 19 apud SEDonline 1558); ˀəlləktu (CDG 19 apud SEDonline 1558); ˀəllontu (CDG 20 apud SEDonline 1558); ˀəllāntu (CDG 20 apud SEDonline 1558) | CDG 17; SEDonline 1558; CDG 19; CDG 20 | gloss withheld |
 | Mehri | əlyōməh (ML 79 apud SEDonline 1558) | ML 79; SEDonline 1558 | gloss withheld |
 | Soqotri | elhe (LGz. 17) | LGz. 17 | gloss withheld |
 | Amharic | əllih (LGz. 17) | LGz. 17 | gloss withheld |

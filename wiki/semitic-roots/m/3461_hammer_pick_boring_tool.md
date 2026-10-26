@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Akkadian | maḳḳabu (CAD M₁ 252, AHw. 607 apud SEDonline 1839) | CAD M₁ 252, AHw. 607; SEDonline 1839 | gloss withheld |
 | Eblaitic | ma-ga-bu₁₆ /maḳḳabu/ (VE 763 apud SEDonline 1839) | VE 763; SEDonline 1839 | gloss withheld |
-| Ugaritic | mqb, var. mqp or (DULAT 559) | DULAT 559 | gloss withheld |
+| Ugaritic | mqb, var. mqp (DULAT 559) | DULAT 559 | gloss withheld |
 | Hebrew | maḳḳäbät (HALOT 625 apud SEDonline 1839) | HALOT 625; SEDonline 1839 | gloss withheld |
 | Arabic | minqab- (Lane 2835 apud SEDonline 1839) | Lane 2835; SEDonline 1839 | gloss withheld |
 

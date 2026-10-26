@@ -58,7 +58,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Tešub | Teshub (Hurrian theophoric personal name), 1 | CANDIDATE |
 
 ## Onomasticon
 

@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | lafiʔ-at- 'piece of meat without bone' \[BK 2 1009\]. | BK 2 1009 |  |
 | Akkadian | lipû (lipiu, līpu, lēpu) OB on \[CAD l 202\], \[AHw 555\] | CAD l 202; AHw 555 | gloss withheld |
-| Hebrew | PB liplūp (redupl.) 'glutinous substance, pus' \[Ja 715\]. | Ja 715 |  |
-| Judaic Aramaic | liplūpā (redupl.) 'pulp, soft portion of cabbage' \[Ja. 715\] | Ja. 715 |  |
+| Hebrew | PB liplūp 'glutinous substance, pus' \[Ja 715\]. | Ja 715 |  |
+| Judaic Aramaic | liplūpā 'pulp, soft portion of cabbage' \[Ja. 715\] | Ja. 715 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

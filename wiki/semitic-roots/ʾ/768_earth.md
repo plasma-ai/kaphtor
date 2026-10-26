@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/768_earth
 title: "*ʾar(V)ṣ̂-: 'earth'"
-desc: "Proto-Semitic *ʾar(V)ṣ̂-, 'earth': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʾar(V)ṣ̂-, 'earth': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "768"
@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔarḍ- |  |  |
-| Akkadian | erṣetu |  |  |
+| Akkadian | erṣetu (Kogan 2015, ch. 5 §2.3.2 no. 22) | Kogan 2015 ch. 5 §2.3.2 no. 22 |  |
 | Mandaic Aramaic | arq-, ard- |  |  |
 | Ugaritic | ʔarṣ /ʾarṣu/ (UVST 110) | UVST 110 | gloss withheld |
 | Phoenician | ʔrṣ |  |  |
@@ -39,7 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔereṣ |  |  |
 | Epigraphic South Arabian | ʔrḍ (Sabaweb lemma 1284) | Sabaweb lemma 1284 | gloss withheld |
 | Syrian Aramaic | (Palest, Syr) ʔarʕ- |  |  |
-| Aramaic | (Emp) ʔrq, (Nab, Palm) ʔrʕ, (Bibl) ʔăraʕ (BDB 1083) | BDB 1083 |  |
+| Aramaic | (Emp) ʔrq, (Nab, Palm) ʔrʕ, (Bibl) ʔăraʕ, ʔăraq (BDB 1083) | BDB 1083 |  |
+| Punic | ʾrṣ 'earth' | Anderson–Moser 2024 root ʾrḍ |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

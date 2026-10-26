@@ -64,6 +64,6 @@ Corpus distribution; Uchitel 2006, Kadmos 45: 73
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT94a\|HT94a]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] | Haghia Triada | Tablet | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | Khania | Tablet | incomplete; form not in transliteration |
 
 <!-- END kaphtor:record -->

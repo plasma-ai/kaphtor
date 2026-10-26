@@ -30,17 +30,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳalafat-, ḳulfat- 'foreskin' \[BK 2 805\] (cf. ḳilf-, ḳalaf- 'circumcision' \[ibid.\]); ḳilf- 'tree bark; skin of the pomegranate' \[ibid.\] | BK 2 805; ibid.; ibid. |  |
+| Arabic | ḳalafat-, ḳulfat- 'foreskin' \[BK 2 805\] (cf. ḳilf-, ḳalaf- 'circumcision' \[ibid.\]); ḳilf- 'tree bark; skin of the pomegranate' \[ibid.\] | BK 2 805 |  |
 | Mehri | ḳǝlēfūt \[JM 230\] | JM 230 | gloss withheld |
 | Soqotri | ḳalífoh \[LS 376\] | LS 376 | gloss withheld |
-| Akkadian | ḳilpu OB on \[CAD ḳ 251\], \[AHw 921\]; ḳuliptu, OB on \[CAD ḳ 296\], ḳulēptu do. \[AHw 926\] | CAD ḳ 251; AHw 921; CAD ḳ 296; AHw 926 | gloss withheld |
+| Akkadian | ḳilpu OB on \[CAD ḳ 251\], \[AHw 921\]; ḳuliptu, OB on \[CAD ḳ 296\], ḳulēptu \[AHw 926\] | CAD ḳ 251; AHw 921; CAD ḳ 296; AHw 926 | gloss withheld |
 | Harsusi | ḳelfēt |  |  |
 | Mandaic Aramaic | ḳlapta, ḳlupta \[DM 413\] | DM 413 | gloss withheld |
 | East Ethiopic | ZWY ḳǝlfi \[LGur 476\] | LGur 476 | gloss withheld |
-| Geez | ḳʷǝlfat 2 |  |  |
+| Geez | ḳʷǝlfat (LGz. 427) | LGz. 427 |  |
 | Modern Aramaic | MAL ḳelfa \[Berg 69\] HRT ḳelpa \[J Hert 196\] NASS ḳalpa \[Tser 1085\] | Berg 69; J Hert 196; Tser 1085 | gloss withheld |
 | Jibbali | ḳiẑifɔ́t \[JJ 145\] | JJ 145 | gloss withheld |
-| Judaic Aramaic | ḳalp̄ā, ḳilp̄ā \[Ja 1381\]; ḳlph, det. ḳlpth \[DJPA 495b apud CAL\], ḳlpy, det. ḳlpyth \[DJPA 495b apud CAL\] | Ja 1381; DJPA 495b; CAL; DJPA 495b; CAL | gloss withheld |
+| Judaic Aramaic | ḳalp̄ā, ḳilp̄ā \[Ja 1381\]; ḳlph, det. ḳlpth \[DJPA 495b apud CAL\], ḳlpy, det. ḳlpyth \[DJPA 495b apud CAL\] | Ja 1381; DJPA 495b; CAL | gloss withheld |
 | Syrian Aramaic | ḳǝlāpǝtā 'bark, scale, shell' \[Brock 670\] | Brock 670 |  |
 | Hebrew | pB. ḳäläp, ḳlp (SED I 147) | SED I 147 | gloss withheld |
 | Aramaic | qəlap (LGz. 427; CAL s.v. qlp) | LGz. 427; CAL s.v. qlp | gloss withheld |

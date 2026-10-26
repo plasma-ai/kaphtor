@@ -43,6 +43,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT63 .1 KA-TI 1, both signs whole and undotted, between \*305 · TE 1 and SU-PU₂ at the broken end of the line (GORILA I 119). Sole attestation. No reading.
+HT63 .1 KA-TI 1, both signs whole and undotted, between \*305 · TE 1 and SU-PU₂, which ends against the tablet's whole upper right corner, bracketed open in GORILA's normalized line (GORILA I 118–119). Sole attestation. No reading.
 
 <!-- END kaphtor:record -->

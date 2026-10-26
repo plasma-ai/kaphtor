@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šitlu(m) (HALOT 1670) | HALOT 1670 | gloss withheld |
-| Hebrew | šātal (HALOT 1670); šātûl (Ps 1:3; Jer 17:8); šǝtîl (Ps 128:3; HALOT 1670) | HALOT 1670; HALOT 1670 | gloss withheld |
-| Judaic Aramaic | šǝtal (HALOT 1670); šǝtîlā (HALOT 1670) | HALOT 1670; HALOT 1670 | gloss withheld |
+| Hebrew | šātal (HALOT 1670); šātûl (Ps 1:3; Jer 17:8); šǝtîl (Ps 128:3; HALOT 1670) | HALOT 1670 | gloss withheld |
+| Judaic Aramaic | šǝtal (HALOT 1670); šǝtîlā (HALOT 1670) | HALOT 1670 | gloss withheld |
 | Syrian Aramaic | štal (Brock. 812a); šetlā (HALOT 1670) | Brock. 812a; HALOT 1670 | gloss withheld |
-| Mandaic Aramaic | ŠTL (HALOT 1670); šitla (HALOT 1670) | HALOT 1670; HALOT 1670 | gloss withheld |
+| Mandaic Aramaic | ŠTL (HALOT 1670); šitla (HALOT 1670) | HALOT 1670 | gloss withheld |
 | Arabic | šatala; šatla (HALOT 1670) | HALOT 1670 | gloss withheld |
 | Punic | sithil (Greek-letter spelling σιθιλ, Dioscorides) (Krahmalkov 485, s.v. ŠTL) | Krahmalkov 485, s.v. ŠTL | gloss withheld |
 

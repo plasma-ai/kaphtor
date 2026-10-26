@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | qilʿā (LGz. 426; CAL s.v. qlʿ#2) | LGz. 426; CAL s.v. qlʿ#2 |  |
 | Tigrinya | qälʿe (LGz. 426) | LGz. 426 | gloss withheld |
 | Amharic | qälla (LGz. 426) | LGz. 426 | gloss withheld |
-| Soqotri | qáḷaʿ (Kogan 2015, ch. 2 §4.2 no. 32) | Kogan 2015, ch. 2 §4.2 no. 32 | gloss withheld |
+| Soqotri | qáḷaʿ (Kogan 2015, ch. 2 §4.2 no. 32) | Kogan 2015 ch. 2 §4.2 no. 32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

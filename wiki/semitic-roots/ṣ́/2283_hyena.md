@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḍabuʕ-, ḍabʕ- 'hyena', ḍabuʕat-, ḍibʕānat- 'female hyena', ḍibʕān(-at)- 'male hyena' \[BK 2 7\], \[Fr. III 5\], \[Lane 1766-7\], \[LA VIII 216\]. See further \[Hommel 308\]. | BK 2 7; Fr. III 5; Lane 1766-7; LA VIII 216; Hommel 308 |  |
+| Arabic | ḍabuʕ-, ḍabʕ- 'hyena', ḍabuʕat-, ḍibʕānat- 'female hyena', ḍibʕān(-at)- 'male hyena' \[BK 2 7\], \[Fr. III 5\], \[Lane 1766-7\], \[LA VIII 216\] | BK 2 7; Fr. III 5; Lane 1766-7; LA VIII 216 |  |
 | Geez | ḍǝbʕ \[LGz. 147\]. | LGz. 147 | gloss withheld |
 | Judaic Aramaic | dpʔ (Sok. B 347) | Sok. B 347 |  |
-| Hebrew | ṣābūăʕ (HALOT 997), pB. \[Ja. 1257\] | HALOT 997; Ja. 1257; HALOT 999; HALOT 997 | gloss withheld |
-| Aramaic | D.-Alla ḳbʕ \[Hackett 133\] | Hackett 133; HJ 983 | gloss withheld |
+| Hebrew | ṣābūăʕ (HALOT 997), pB. \[Ja. 1257\] | HALOT 997; Ja. 1257 | gloss withheld |
+| Aramaic | D.-Alla ḳbʕ \[Hackett 133\] | Hackett 133 | gloss withheld |
 | Syrian Aramaic | ʾapʿā (LGz. 147) | LGz. 147 | gloss withheld |
-| Akkadian | būṣu (Kogan 2011, 208) | Kogan 2011, 208 | gloss withheld |
+| Akkadian | būṣu (Kogan 2011, 208) | Kogan 2011 208 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḍbʿ (Al-Jallad–Jaworska 67) | Al-Jallad–Jaworska 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

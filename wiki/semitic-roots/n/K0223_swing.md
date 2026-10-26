@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | nâšu 'rock' | Anderson–Moser 2024 root nʾš |  |
-| Arabic | nāsa 'swung' | Anderson–Moser 2024 root nws |  |
+| Arabic | nāsa 'swung' | Anderson–Moser 2024 root nʾš |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

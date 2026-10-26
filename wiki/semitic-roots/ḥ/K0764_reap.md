@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | eṣēdu 'harvest' | Anderson–Moser 2024 root ḥṣd |  |
-| Arabic | ḥaṣada 'reaped' (Lane 581) | Lane 581 |  |
-| Aramaic | ḤṢD (Aramaic Root Atlas; DNWSI 398 apud CAL) | Aramaic Root Atlas; DNWSI 398; CAL | gloss withheld |
+| Akkadian | eṣēdu; eṣēdu, eṣādu (OLA80 §19.10) | OLA80 §19.10; Anderson–Moser 2024 root ḥṣd | gloss withheld |
+| Arabic | ḥaṣada 'reaped' (Lane 581) | Lane 581; Anderson–Moser 2024 root ḥṣd |  |
+| Aramaic | ḤṢD (Aramaic Root Atlas; DNWSI 398 apud CAL) | Aramaic Root Atlas; DNWSI 398; CAL; Anderson–Moser 2024 root ḥṣd | gloss withheld |
 | Geez | ʿaḍada 'reap' | Anderson–Moser 2024 root ḥṣd |  |
 | Mandaic Aramaic | ḥṣd (LGz. 58; Drower/Macuch 152a apud CAL) | LGz. 58; Macuch 152a; CAL |  |
 | Tigre | ḥaṣṭa (LGz. 58) | LGz. 58 |  |
@@ -39,5 +39,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥṣad 'reap, cut or mow down' (Payne Smith 154) | Payne Smith 154 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Akkadian eṣēdu &lt; \*ḥaṣādu: the pharyngal turns a contiguous a to e (OLA80 §19.10).
 
 <!-- END kaphtor:record -->

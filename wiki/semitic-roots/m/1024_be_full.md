@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab mlʾ (SD 85; Biella 274, 275; Sabaweb lemma 4535) | SD 85; Biella 274, 275; Sabaweb lemma 4535 | gloss withheld |
 | Judaic Aramaic | malyā (HALOT 584; DJPA 309a apud CAL) | HALOT 584; DJPA 309a; CAL | gloss withheld |
 | Amorite | mlʾ: jāmliʾ (Gelb AS 21, 25) | Gelb AS 21 25 | gloss withheld |
-| Akkadian | malû 'be(come) full' | Anderson–Moser 2024 root mlʾ |  |
+| Akkadian | malû (Kogan 2015, ch. 5 §2.3.2 no. 32) | Kogan 2015 ch. 5 §2.3.2 no. 32; Anderson–Moser 2024 root mlʾ | gloss withheld |
 | Arabic | malaʔa 'filled' (Lane 2729) | Lane 2729 |  |
 | Punic | mlʾ 'fill' | Anderson–Moser 2024 root mlʾ |  |
 | Geez | malʾa (LGz. 342) | LGz. 342 |  |

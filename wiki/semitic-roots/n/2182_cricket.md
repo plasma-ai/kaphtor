@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Tigre | ʔǝnṣǝrar \[LH 375\]. | LH 375 | gloss withheld |
 | Hebrew | pB. nēṣär 'cricket' \[Ja. 930\], \[Levy WTM III 431\]. | Ja. 930; Levy WTM III 431 |  |
-| Amharic | ǝnč̣ǝrar \[K 1252\], ǝnč̣ǝrarit \[ibid.\]. | K 1252; ibid. | gloss withheld |
+| Amharic | ǝnč̣ǝrar \[K 1252\], ǝnč̣ǝrarit \[ibid.\]. | K 1252 | gloss withheld |
 | Syrian Aramaic | nāṣorā 'chirper, cricket' \[Brock. 444\]. | Brock. 444 |  |
 | Tigrinya | ʕǝnč̣ǝrar 'cricket that makes a deafening din at night; it is heard only in the rainy season' \[Bass. 697\]. | Bass. 697 |  |
 

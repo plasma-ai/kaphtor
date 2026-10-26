@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*šḥt 'to err, to be corrupt' (Kogan 2015: 122 apud SEDonline 1353). SEDonline 1353 joins Ethiopian səḥta 'to make a mistake, to err' (Gz., CDG 494) and its cognates, which carry the 'err' sense.
+PWS \*šḥt 'to err, to be corrupt' (Kogan 2015, 122 apud SEDonline 1353). SEDonline 1353 joins Ethiopian səḥta (Gz., CDG 494) and its cognates, which carry the 'err' sense.
 
 <!-- END kaphtor:record -->

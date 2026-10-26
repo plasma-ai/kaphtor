@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Aramaic | ṢPD 'weave' | Anderson–Moser 2024 root ṣpd |  |
-| Hebrew | ṣapad 'draw together, contract' (BDB 859) | BDB 859 |  |
+| Hebrew | ṣapad 'draw together, contract' (BDB 859) | BDB 859; Anderson–Moser 2024 root ṣpd |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

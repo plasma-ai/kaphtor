@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1112_be_silent
 title: "*nVṣit-: 'be silent'"
-desc: "Proto-Semitic *nVṣit-, 'be silent': reflexes in 1 language(s)."
+desc: "Proto-Semitic *nVṣit-, 'be silent': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1112"
@@ -30,7 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | nṣt \[-i-\] (Lane 2801) | Lane 2801 |  |
+| Arabic | nṣt \[-i-\]; nuṣtat 'silence' (Lane 2801) | Lane 2801 |  |
+| Epigraphic South Arabian | Sab tnṣt; nṣtt (SD 100) | SD 100 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

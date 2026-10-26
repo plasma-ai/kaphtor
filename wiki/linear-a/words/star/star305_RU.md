@@ -57,6 +57,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | ḏarʿ(u) | seed-grain, 2½; rival a personal name | SPECULATIVE |
 
 <!-- END kaphtor:record -->

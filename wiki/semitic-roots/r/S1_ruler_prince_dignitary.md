@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Denominative from √r-z-n. Distribution limited to NWS. Appears in poetic/archaic register — possibly an early Canaanite administrative title.
+Denominative from √r-z-n. Appears in poetic and archaic register.
 
 <!-- END kaphtor:record -->

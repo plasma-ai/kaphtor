@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3347_already
 title: "*bVr: 'already'"
-desc: "Proto-Semitic *bVr, 'already': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bVr, 'already': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3347"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*bVr |
 | Meaning | 'already' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 443 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | bɛr (ML 54 apud SEDonline 443) | ML 54; SEDonline 443 | gloss withheld |
 | Jibbali | ber (JL 27 apud SEDonline 443) | JL 27; SEDonline 443 | gloss withheld |
+| Soqotri | ber (Kogan 2015, ch. 8 §3.4.1 no. 17) | Kogan 2015 ch. 8 §3.4.1 no. 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

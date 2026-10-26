@@ -23,14 +23,15 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*bVlVyt- |
 | Meaning | 'rag, worn-out cloth; garment' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1967 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Judaic Aramaic | JBA bəlītā (DJBA 221 apud SEDonline 1967) | DJBA 221; SEDonline 1967 | gloss withheld |
-| Syrian Aramaic | blāyā (LSyr. 74; SL 157 apud SEDonline 1967) | LSyr. 74; SEDonline 1967 | gloss withheld |
+| Syrian Aramaic | blāyā (LSyr. 74; SL 157 apud SEDonline 1967) | LSyr. 74; SL 157; SEDonline 1967 | gloss withheld |
 | Mandaic Aramaic | blaita (MD 65 apud SEDonline 1967) | MD 65; SEDonline 1967 | gloss withheld |
 | Tigre | bəllāy (WTS 273 apud SEDonline 1967) | WTS 273; SEDonline 1967 | gloss withheld |
 

@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Palaikastro | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Palaikastro | Tablet | incomplete; form not in transliteration |
 
 ## Unread
 

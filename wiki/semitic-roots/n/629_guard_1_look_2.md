@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | naẓara; naẓīr |  | gloss withheld |
 | Akkadian | naṣāru (CAD N/2 36); maṣṣartu | CAD N/2 36 | gloss withheld |
-| Ugaritic | /n-ġ-r/ (DULAT 616); nġr (DULAT 616) | DULAT 616; DULAT 616 | gloss withheld |
+| Ugaritic | /n-ġ-r/ (DULAT 616); nġr (DULAT 616) | DULAT 616 | gloss withheld |
 | Geez | nṣr 2 |  |  |
 | Phoenician | nṣr 1 |  |  |
 | Hebrew | nāṣar; noṣēr |  | gloss withheld |

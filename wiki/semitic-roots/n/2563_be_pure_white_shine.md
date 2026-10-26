@@ -39,11 +39,15 @@ updated: 2026-10-22T17:38:31Z
 | Harari | näč̣īḥ \[LHar 117\] | LHar 117 | gloss withheld |
 | Syrian Aramaic | nṣḥ |  | gloss withheld |
 | Gafat | nǝṣwä |  | gloss withheld |
-| Aramaic | NṢḤ (Aramaic Root Atlas; CAL s.v. nṣḥ) | Aramaic Root Atlas; CAL s.v. nṣḥ | gloss withheld |
+| Aramaic | NṢḤ (Aramaic Root Atlas; CAL s.v. nṣḥ) | Aramaic Root Atlas; CAL s.v. nṣḥ; Anderson–Moser 2024 root nṣḥ | gloss withheld |
 | Soqotri | minṣaḥ (LGz. 405) | LGz. 405 | gloss withheld |
 | Tigre | läṣḥa, ləṣuḥ (LGz. 405) | LGz. 405 | gloss withheld |
 | Tigrinya | näṣḥe, nəṣuḥ (LGz. 405) | LGz. 405 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 716 sets NWS nṣḥ 'to subdue, triumph' (Hebrew, Phoenician, Aramaic) under one root with Syriac 'to shine' and Arabic and Ethiopic 'to be clear, pure'.
 
 <!-- END kaphtor:record -->

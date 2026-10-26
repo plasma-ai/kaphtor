@@ -29,13 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ḫabʾa (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015, ch. 2 §5.2.2.1 no. 10 | gloss withheld |
+| Geez | ḫabʾa (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015 ch. 2 §5.2.2.1 no. 10; Anderson–Moser 2024 root ḫbʾ | gloss withheld |
 | Epigraphic South Arabian | Sab xbʾ (Biella 195; Sabaweb lemma 4237) | Biella 195; Sabaweb lemma 4237 | gloss withheld |
-| Tigre | ḥabʿa (Wb. 80b apud HALOT 284) | HALOT 284 |  |
+| Tigre | ḥabʿa (Wb. 80b apud HALOT 284) | Wb. 80b; HALOT 284 |  |
 | Arabic | ḫabaʾa \[HALOT 284\] | HALOT 284 | gloss withheld |
 | Amorite | ḫbʾ (Huffmon APNM 189; HALOT 284) | Huffmon APNM 189; HALOT 284 |  |
-| Hebrew | ḥbʾ (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015, ch. 2 §5.2.2.1 no. 10 | gloss withheld |
-| Mandaic Aramaic | hba (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015, ch. 2 §5.2.2.1 no. 10 | gloss withheld |
+| Hebrew | ḥbʾ (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015 ch. 2 §5.2.2.1 no. 10 | gloss withheld |
+| Mandaic Aramaic | hba (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015 ch. 2 §5.2.2.1 no. 10 | gloss withheld |
 | Canaanite | ḫiḫbē (gloss, EA 256:7; HALOT 284) | HALOT 284 | gloss withheld |
 | Tigrinya | ḥabʾe (LGz. 255) | LGz. 255 |  |
 | Amharic | abba, həbuʾ (LGz. 255) | LGz. 255 |  |

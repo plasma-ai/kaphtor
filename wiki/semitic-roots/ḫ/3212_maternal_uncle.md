@@ -29,12 +29,12 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Syrian Aramaic | ḥālā; ḥāltā (Kogan 2011, 235) | Kogan 2011, 235 | gloss withheld |
-| Arabic | ḫāl-; ḫālat- (Kogan 2011, 235) | Kogan 2011, 235 | gloss withheld |
-| Tigre | ḥāl; ḥal (Kogan 2011, 235) | Kogan 2011, 235 | gloss withheld |
-| Mehri | ḫayl; ḫəlūt (Kogan 2011, 235) | Kogan 2011, 235 | gloss withheld |
-| Jibbali | ḫíẑ; ḫɔ́lɔ́t (Kogan 2011, 235) | Kogan 2011, 235 | gloss withheld |
-| Soqotri | ḥalēle; ḥéloh (Kogan 2011, 235) | Kogan 2011, 235 | gloss withheld |
+| Syrian Aramaic | ḥālā; ḥāltā (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
+| Arabic | ḫāl-; ḫālat- (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
+| Tigre | ḥāl; ḥal (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
+| Mehri | ḫayl; ḫəlūt (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
+| Jibbali | ḫíẑ; ḫɔ́lɔ́t (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
+| Soqotri | ḥalēle; ḥéloh (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

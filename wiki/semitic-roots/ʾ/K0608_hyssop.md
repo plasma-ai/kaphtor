@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ʾyzwb (CAL s.v. ʾyzwb) | CAL s.v. ʾyzwb | gloss withheld |
+| Aramaic | ʾyzwb (CAL s.v. ʾyzwb) | CAL s.v. ʾyzwb; Anderson–Moser 2024 root ʾzb | gloss withheld |
 | Hebrew | ʾezowb 'hyssop' | Anderson–Moser 2024 root ʾzb |  |
 | Ugaritic | uzb 'hyssop' | Anderson–Moser 2024 root ʾzb |  |
 | Arabic | ʾazāb (LGz. 52) | LGz. 52 |  |

@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔalf 'thousand' (Lane 80) | Lane 80 |  |
-| Aramaic | ʾlp (Aramaic Root Atlas; DNWSI 65 apud CAL) | Aramaic Root Atlas; DNWSI 65; CAL | gloss withheld |
+| Aramaic | ʾlp (Aramaic Root Atlas; DNWSI 65 apud CAL) | Aramaic Root Atlas; DNWSI 65; CAL; Anderson–Moser 2024 root ʾlp | gloss withheld |
 | Hebrew | ʾelep 'thousand' | Anderson–Moser 2024 root ʾlp |  |
-| Punic | ʾlp (T 21) | T 21 | gloss withheld |
-| Ugaritic | alp (CUC; DULAT 59; Kogan 2015, ch. 2 §4.2 no. 1) | CUC; DULAT 59; Kogan 2015, ch. 2 §4.2 no. 1 | gloss withheld |
+| Punic | ʾlp (T 21) | T 21; Anderson–Moser 2024 root ʾlp | gloss withheld |
+| Ugaritic | alp (CUC; DULAT 59; Kogan 2015, ch. 2 §4.2 no. 1) | CUC; DULAT 59; Kogan 2015 ch. 2 §4.2 no. 1 | gloss withheld |
 | Epigraphic South Arabian | Sab ʾlf, pl. ʾʾlf (SD 5; Sabaweb lemma 1966) | SD 5; Sabaweb lemma 1966 | gloss withheld |
 | Geez | ʾəlf (LGz. 19) | LGz. 19 | gloss withheld |
 | Soqotri | ʾalf (LGz. 19) | LGz. 19 |  |
@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | alpa (LGz. 19; Drower/Macuch 21a apud CAL) | LGz. 19; Macuch 21a; CAL |  |
 | Tigrinya | ʾəlfi (LGz. 19) | LGz. 19 |  |
 | Harari | alfi (LGz. 19) | LGz. 19 |  |
-| Jibbali | ʾɔf (Kogan 2015, ch. 2 §4.2 no. 1) | Kogan 2015, ch. 2 §4.2 no. 1 | gloss withheld |
-| Mehri | ʾɛ̄f (Kogan 2015, ch. 2 §4.2 no. 1) | Kogan 2015, ch. 2 §4.2 no. 1 | gloss withheld |
+| Jibbali | ʾɔf (Kogan 2015, ch. 2 §4.2 no. 1) | Kogan 2015 ch. 2 §4.2 no. 1 | gloss withheld |
+| Mehri | ʾɛ̄f (Kogan 2015, ch. 2 §4.2 no. 1) | Kogan 2015 ch. 2 §4.2 no. 1 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾlf (Al-Jallad–Jaworska 43) | Al-Jallad–Jaworska 43 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ḥlm (Kogan 2015, ch. 3 §5.2 no. 25) | Kogan 2015, ch. 3 §5.2 no. 25 | gloss withheld |
-| Syrian Aramaic | ḥallimā (Kogan 2015, ch. 3 §5.2 no. 25) | Kogan 2015, ch. 3 §5.2 no. 25 | gloss withheld |
-| Arabic | ḥlm (V), ḥalīm- (Kogan 2015, ch. 3 §5.2 no. 25) | Kogan 2015, ch. 3 §5.2 no. 25 | gloss withheld |
+| Hebrew | ḥlm (Kogan 2015, ch. 3 §5.2 no. 25) | Kogan 2015 ch. 3 §5.2 no. 25 | gloss withheld |
+| Syrian Aramaic | ḥallimā (Kogan 2015, ch. 3 §5.2 no. 25) | Kogan 2015 ch. 3 §5.2 no. 25 | gloss withheld |
+| Arabic | ḥlm (V), ḥalīm- (Kogan 2015, ch. 3 §5.2 no. 25) | Kogan 2015 ch. 3 §5.2 no. 25 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

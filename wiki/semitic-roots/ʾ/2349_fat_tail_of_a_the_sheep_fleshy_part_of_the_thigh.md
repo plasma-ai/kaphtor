@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔalyat- 'fat tail of a kind of sheep; calf, fleshy part of the leg; fleshy part of the thigh, the fleshy part of the thighs or buttocks' \[BK 1 49\] | BK 1 49 |  |
 | Mandaic Aramaic | alita \[DM 20\] | DM 20 | gloss withheld |
 | East Ethiopic | SEL lāt \[LGur 374\] | LGur 374 | gloss withheld |
-| Modern Aramaic | AZR cf. lila \[Garb 317\] (redupl.?) | Garb 317 | gloss withheld |
+| Modern Aramaic | AZR cf. lila \[Garb 317\] | Garb 317 | gloss withheld |
 | Hebrew | ʔalyā (HALOT 55) | HALOT 55 | gloss withheld |
 | Amharic | lat \[K 84\] | K 84 | gloss withheld |
 | Judaic Aramaic | ʔalyǝtā, ʔallītā \[Ja 70\]; ʔlyh, det. ʔlyth \[DJPA 59 apud CAL\] | Ja 70; DJPA 59; CAL | gloss withheld |

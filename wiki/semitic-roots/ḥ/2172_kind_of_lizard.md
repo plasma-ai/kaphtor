@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥirḏawn-, ḥirdawn- 'a kind of lizard peculiar to Africa' \[BK 1 406\]. Note that in \[LA XIII 111\] an attempt is made to differentiate semantically the forms with -d- and -ḏ- (the former is defined as duwaybbatun tušbihu l-ḥirbāʔa while the latter, as ʔal-ʕaḏ̣āʔatu ... wahiya ɣayru l-latī taḳaddamat fī d-dāli lmuhmalati). | BK 1 406; LA XIII 111 |  |
+| Arabic | ḥirḏawn-, ḥirdawn- 'a kind of lizard peculiar to Africa' \[BK 1 406\] | BK 1 406 |  |
 | Eblaitic | ḫu-da-um \[MEE IV 0024\] | MEE IV 0024 |  |
 | Amharic | arǯano \[K 1157\]. | K 1157 | gloss withheld |
 | Judaic Aramaic | ḥardōnā id. \[Ja. 499\]. | Ja. 499 |  |

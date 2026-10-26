@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥsb | SEDonline semet 1230 |  |
 | Judaic Aramaic | ḥušbᵉnā (HALOT 360) | HALOT 360 |  |
 | Aramaic | ḥšbn (HALOT 360); ḥăšeḇ (LGz. 245) | HALOT 360; LGz. 245 |  |
-| Punic | ḥšb; mḥšb (T 172) | T 172 | gloss withheld |
+| Punic | ḥšb; mḥšb (T 172) | T 172; Anderson–Moser 2024 root ḥšb | gloss withheld |
 | Soqotri | ḥoseb (LGz. 245) | LGz. 245 | gloss withheld |
 | Tigrinya | ḥasäbä (LGz. 245) | LGz. 245 | gloss withheld |
 | Tigre | ḥasba (LGz. 245) | LGz. 245 | gloss withheld |

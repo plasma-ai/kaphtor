@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | wadān- DRS 502 | DRS 502 | gloss withheld |
 | Akkadian | dūdu lex., a/etūdu OA, SB CAD a2 521 | CAD a2 521 | gloss withheld |
-| Aramaic | Off. ʔndwt | HJ 79 | gloss withheld |
+| Aramaic | Off. ʔndwt (Hapax in Frah) | HJ 79 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

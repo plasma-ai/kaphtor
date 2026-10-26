@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠŠL (CAL s.v. ššl) | CAL s.v. ššl | gloss withheld |
+| Aramaic | ŠŠL (CAL s.v. ššl) | CAL s.v. ššl; Anderson–Moser 2024 root ššl | gloss withheld |
 | Geez | sansala 'chain' | Anderson–Moser 2024 root ššl |  |
 | Epigraphic South Arabian | Sab ssl (Biella 339) | Biella 339 | gloss withheld |
 | Judaic Aramaic | šalšeltā, šīlšətā, šīšlətā (HALOT 1661) | HALOT 1661 |  |
@@ -38,9 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | silsilat (HALOT 1661) | HALOT 1661 |  |
 | Soqotri | silsileh (LGz. 508) | LGz. 508 |  |
 | Harsusi | senselet (LGz. 508) | LGz. 508 |  |
-| Hebrew | šaršərā (LGz. 508) | LGz. 508 |  |
+| Hebrew | šaršərā (LGz. 508); šaršeret, pl. šaršərōt (HALOT 1661) | LGz. 508; HALOT 1661 | gloss withheld |
 | Ugaritic | ššrt (LGz. 508) | LGz. 508 |  |
-| Akkadian | šeršerra (LGz. 508) | LGz. 508 |  |
+| Akkadian | šeršerra (LGz. 508); šeršerratu (CAD Š/2 320); šeršerru (CAD Š/2 321); šuršurrātu (CAD Š/3 366) | LGz. 508; CAD Š/2 320; CAD Š/2 321; CAD Š/3 366 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic slsl (Al-Jallad–Jaworska 122) | Al-Jallad–Jaworska 122 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

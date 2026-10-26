@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | SGR (Aramaic Root Atlas; CAL s.v. sgr) | Aramaic Root Atlas; CAL s.v. sgr | gloss withheld |
-| Hebrew | sagar 'shut' (BDB 688) | BDB 688 |  |
+| Aramaic | SGR (Aramaic Root Atlas; CAL s.v. sgr) | Aramaic Root Atlas; CAL s.v. sgr; Anderson–Moser 2024 root sgr | gloss withheld |
+| Hebrew | sagar 'shut' (BDB 688) | BDB 688; Anderson–Moser 2024 root sgr |  |
 | Punic | sgr 'lock' | Anderson–Moser 2024 root sgr |  |
 | Ugaritic | sgr 'close' | Anderson–Moser 2024 root sgr |  |
 | Judaic Aramaic | msgrtʾ; siggōrā (HALOT 604, 742) | HALOT 604, 742 | gloss withheld |

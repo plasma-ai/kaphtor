@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | hḏw 'to rave, talk nonsense' \[BK 2 1408\], huḏāʔ- 'delirium' \[ibid.\] | BK 2 1408; ibid. |  |
+| Arabic | hḏw 'to rave, talk nonsense' \[BK 2 1408\], huḏāʔ- 'delirium' \[ibid.\] | BK 2 1408 |  |
 | Mehri | hǝḏ (rare) \[JM 153\] | JM 153 | gloss withheld |
-| Akkadian | azû (ḫazû, asû) OB on \[CAD a2 528\], \[AHw 92\] (translated as) | CAD a2 528; AHw 92 | gloss withheld |
-| Gurage | ENN ažažät \[LGur 123\]; EZ̆A MUH MSQ SOD zazza, CHA ENN GYT zasa, END zassaʔa \[ibid.\]. | LGur 123; ibid. | gloss withheld |
+| Akkadian | azû (ḫazû, asû) OB on \[CAD a2 528\], \[AHw 92\] | CAD a2 528; AHw 92 | gloss withheld |
+| Gurage | ENN ažažät \[LGur 123\]; EZ̆A MUH MSQ SOD zazza, CHA ENN GYT zasa, END zassaʔa \[ibid.\]. | LGur 123 | gloss withheld |
 | Jibbali | héḏé \[JJ 95\]. | JJ 95 | gloss withheld |
 | Hebrew | hāzā (HALOT 243). | HALOT 243 | gloss withheld |
-| Syrian Aramaic | həḏā \[PS 973\] (not in Brock) | PS 973 |  |
+| Syrian Aramaic | həḏā \[PS 973\] | PS 973 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0216_swim
 title: "*nuwn-: 'swim'"
-desc: "Proto-Semitic *nuwn-, 'swim': reflexes in 2 language(s)."
+desc: "Proto-Semitic *nuwn-, 'swim': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0216"
@@ -29,8 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | NWN (Aramaic Root Atlas; CAL s.v. nwn) | Aramaic Root Atlas; CAL s.v. nwn | gloss withheld |
-| Hebrew | nuwn 'propagate, increase' (BDB 630) | BDB 630 |  |
+| Aramaic | NWN (Aramaic Root Atlas; CAL s.v. nwn) | Aramaic Root Atlas; CAL s.v. nwn; Anderson–Moser 2024 root nwn | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

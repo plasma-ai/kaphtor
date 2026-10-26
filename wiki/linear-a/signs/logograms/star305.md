@@ -48,5 +48,6 @@ Dual-function: logogram (60%, standalone with quantities 1-90) + syllabogram /da
 | [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
 
 <!-- END kaphtor:record -->

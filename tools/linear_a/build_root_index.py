@@ -16,7 +16,7 @@ the old one intact. A lexicon file that is missing fails the build unless --allo
     uv run tools/linear_a/build_root_index.py --diff --preview   # + their top cluster and verdict, before and after
     uv run tools/linear_a/build_root_index.py --force      # rebuild, old index backed up
 
-Long builds and --calibrate runs read a frozen snapshot (tools/core/SHORESH.md §7.7).
+Long builds and --calibrate runs read a frozen snapshot (docs/shoresh-preregistration.md §7.7).
 
 Attribution: di Mino
 """

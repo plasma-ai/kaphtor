@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | nīru (CAD N/2 260) | CAD N/2 260 | gloss withheld |
-| Hebrew | mānôr (HALOT 600); MHeb. nîr (HALOT 600) | HALOT 600; HALOT 600 | gloss withheld |
+| Hebrew | mānôr (HALOT 600); MHeb. nîr (HALOT 600) | HALOT 600 | gloss withheld |
 | Judaic Aramaic | nîrā (HALOT 600) | HALOT 600 | gloss withheld |
 | Syrian Aramaic | nīrā 'yoke; weaver's beam; vine tie' (Payne Smith 339) | Payne Smith 339 |  |
 

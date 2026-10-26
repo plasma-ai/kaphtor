@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Areal reconstruction \*ŝarr- 'king' (Kogan 2015:92 apud SEDonline 2076). The opposition \*ŝarr- vs. \*malik- is notable as a feature of the East/West Semitic dichotomy; the origin of Akk. šarru is rather uncertain, as its West Semitic cognates are restricted to Ugr. and Hbr. (SEDonline 2076). Cf. 15 \*sVrw(-ay)- '(military) chief, prince', 52 \*malik- 'king'.
+Areal reconstruction \*ŝarr- 'king' (Kogan 2015, 92 apud SEDonline 2076). Cf. 15 \*sVrw(-ay)- '(military) chief, prince', 52 \*malik- 'king'.
 
 <!-- END kaphtor:record -->

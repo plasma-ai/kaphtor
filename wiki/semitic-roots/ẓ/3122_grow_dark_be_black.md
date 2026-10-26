@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ṣalma (LGz. 556) | LGz. 556 | gloss withheld |
-| Arabic | ẓalima (LGz. 556; HALOT 1028); ẓulmat (HALOT 1028) | LGz. 556; HALOT 1028; HALOT 1028 |  |
-| Epigraphic South Arabian | Sab ẓlm (SD 172); read or the place name Ẓalam (Sabaweb lemma 5548) | SD 172; Sabaweb lemma 5548 | gloss withheld |
+| Arabic | ẓalima (LGz. 556; HALOT 1028); ẓulmat (HALOT 1028) | LGz. 556; HALOT 1028 |  |
+| Epigraphic South Arabian | Sab ẓlm (SD 172); the place name Ẓalam (Sabaweb lemma 5548) | SD 172; Sabaweb lemma 5548 | gloss withheld |
 | Hebrew | \*ṣlm (HALOT 1028); ṣalmūṯ (LGz. 556) | HALOT 1028; LGz. 556 | gloss withheld |
 | Judaic Aramaic | ṭlm (HALOT 1028) | HALOT 1028 |  |
 | Syrian Aramaic | ṭlm (HALOT 1028) | HALOT 1028 |  |
@@ -45,9 +45,9 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | č̣elläma (LGz. 556) | LGz. 556 |  |
 | Harari | č̣ēläma (LGz. 556); ṭäy \[LHar 157\] | LGz. 556; LHar 157 | gloss withheld |
 | East Ethiopic | Sel. ṭēm, Wol. ṭem \[LHar 157\] | LHar 157 |  |
-| Mehri | həḏ̣láwm (Kogan 2011, 198) | Kogan 2011, 198 | gloss withheld |
-| Jibbali | ḏ̣əliũt (Kogan 2011, 198) | Kogan 2011, 198 | gloss withheld |
-| Soqotri | ṭlm (Kogan 2011, 198) | Kogan 2011, 198 | gloss withheld |
+| Mehri | həḏ̣láwm (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
+| Jibbali | ḏ̣əliũt (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
+| Soqotri | ṭlm (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

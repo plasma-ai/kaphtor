@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/604_speak
 title: "*mVl-: 'speak'"
-desc: "Proto-Semitic *mVl-, 'speak': reflexes in 3 language(s)."
+desc: "Proto-Semitic *mVl-, 'speak': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "604"
@@ -33,6 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | mll |  |  |
 | Aramaic | mll (DNWSI 644 apud CAL) | DNWSI 644; CAL |  |
 | Arabic | malla (HALOT 594) | HALOT 594 |  |
+| Biblical Aramaic | mll (Kogan 2015, ch. 6 §2 no. 10) | Kogan 2015 ch. 6 §2 no. 10 |  |
+| Judaic Aramaic | mll (Kogan 2015, ch. 6 §2 no. 10) | Kogan 2015 ch. 6 §2 no. 10 |  |
+| Syrian Aramaic | mll (Kogan 2015, ch. 6 §2 no. 10) | Kogan 2015 ch. 6 §2 no. 10 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

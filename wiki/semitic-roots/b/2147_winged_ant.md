@@ -31,11 +31,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | (?) bilbillu SB \[CAD b 225\], \[AHw. 863\] | CAD b 225; AHw. 863 | gloss withheld |
-| East Ethiopic | (?) Sel. Wol. bil &lt; \*blʕ |  | gloss withheld |
+| East Ethiopic | (?) Sel. Wol. bil |  | gloss withheld |
 | Gurage | End. Gye. Muh. Msq. Gog. Zwy. bǝl, Sod bǝlä 3 LGur 139. | LGur 139 | gloss withheld |
 | Amharic | bilbilla \[K 865\] | K 865 | gloss withheld |
-| Harari | (?) bǝli &lt; \*blʕ |  | gloss withheld |
-| Tigrinya | (?) bǝliʕ, balǝʕ &lt; K Tna 1096 | K Tna 1096 | gloss withheld |
+| Harari | (?) bǝli |  | gloss withheld |
+| Tigrinya | (?) bǝliʕ, balǝʕ K Tna 1096 | K Tna 1096 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

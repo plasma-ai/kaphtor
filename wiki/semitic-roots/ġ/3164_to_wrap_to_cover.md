@@ -34,7 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Gurage | Gog. effänä (EDG 21 apud SEDonline 2073) | EDG 21; SEDonline 2073 | gloss withheld |
 | Mehri | ɣátfen (ML 134 apud SEDonline 2073) | ML 134; SEDonline 2073 | gloss withheld |
 | Jibbali | oɣófən (JL 84 apud SEDonline 2073) | JL 84; SEDonline 2073 | gloss withheld |
-| Soqotri | ˁófin (SLOnline 3218) |  | gloss withheld |
+| Soqotri | ˁófin (SLOnline 3218) | SLOnline 3218 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

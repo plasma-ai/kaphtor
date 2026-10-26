@@ -29,10 +29,10 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | peḳû (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Hebrew | paḳḳūʿā (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Syrian Aramaic | paḳḳūʿā (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Arabic | fuqqāʿ- (Lane 2428; Kogan 2011, 201) | Lane 2428; Kogan 2011, 201 | gloss withheld |
+| Akkadian | peḳû (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Hebrew | paḳḳūʿā (Kogan 2011, 201); paqquʿōt (HALOT 960) | Kogan 2011 201; HALOT 960 | gloss withheld |
+| Syrian Aramaic | paḳḳūʿā (Kogan 2011, 201; Payne Smith 455) | Kogan 2011 201; Payne Smith 455 | gloss withheld |
+| Arabic | fuqqāʿ- (Lane 2428; Kogan 2011, 201) | Lane 2428; Kogan 2011 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

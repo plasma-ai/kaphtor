@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | karmat- 'head of the femur bone that turns in the hip bone' \[BK 2 889\] | BK 2 889 |  |
 | Akkadian | kirimmu MB, SB \[CAD k 406\], \[AHw 484\] | CAD k 406; AHw 484 | gloss withheld |
-| East Ethiopic | SEL kirmāyo do. \[LGur 350\] | LGur 350 |  |
-| Amharic | kurma \[K 1384\], kʷǝrǝmma \[ibid. 1385\], tä-kʷärämmätä \[ibid.\] | K 1384; ibid. 1385; ibid. | gloss withheld |
+| East Ethiopic | SEL kirmāyo \[LGur 350\] | LGur 350 |  |
+| Amharic | kurma \[K 1384\], kʷǝrǝmma \[ibid. 1385\], tä-kʷärämmätä \[ibid.\] | K 1384; K 1385 | gloss withheld |
 | Harari | kurumbāy \[LHar 94\]. | LHar 94 | gloss withheld |
 | Gurage | Gog. kurkum, kurkumma; Sod. kurkum, kurkumma; Cha. Eža kurkum (SED I 135) | SED I 135 |  |
 | Mehri | ʔākərmōt (SED I 135) | SED I 135 | gloss withheld |

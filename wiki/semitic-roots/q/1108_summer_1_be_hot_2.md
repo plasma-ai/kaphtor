@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | qoẓ 1 |  |  |
 | Hebrew | qayiṣ 1 |  |  |
 | Aramaic | qayṭ- 1 (DNWSI 1021 apud CAL) | DNWSI 1021; CAL |  |
-| Ugaritic | qẓ (DULAT 711) | DULAT 711 | gloss withheld |
+| Ugaritic | qẓ (DULAT 711) | DULAT 711; Anderson–Moser 2024 root qyẓ | gloss withheld |
 | Epigraphic South Arabian | Sab qyẓ (SD 112; Biella 453; Sabaweb lemma 1733) | SD 112; Biella 453; Sabaweb lemma 1733 | gloss withheld |
 | Syrian Aramaic | qayyeṭ, qaiṭā (HALOT 1098) | HALOT 1098 | gloss withheld |
 | Judaic Aramaic | qayṭā, qēṭā (HALOT 1098; DJPA 490a apud CAL) | HALOT 1098; DJPA 490a; CAL |  |

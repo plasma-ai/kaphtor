@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/D/DA_SI_star118
 title: "DA-SI-*118"
-desc: "Dasiṭa: unresolved roster label or entity. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+desc: "Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "gentilic"]
 kind: "word"
 form: "DA-SI-*118"
 datasets: ["lexicon", "onomasticon"]
-tier: 1
-confidence: "SPECULATIVE"
-confidence_score: 0.3
-reading: "Dasiṭa"
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.4
+reading: "Ḏā-šiṭṭa"
 attestations: ["HT13", "HT85a", "HT122a", "HT99b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,23 +27,32 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**SPECULATIVE**, tier 1 of 4, score 0.30
+**CANDIDATE**, tier 2 of 4, score 0.40
 
 | Field | Value |
 |---|---|
-| Reading | Dasiṭa |
-| Meaning | unresolved roster label or entity |
-| Language layer | unresolved |
-| Category | administrative |
-| Semantic field | unresolved roster label |
+| Reading | Ḏā-šiṭṭa |
+| Meaning | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa |
+| Root | ḏ + š-n-ṭ |
+| Language layer | NWS |
+| Category | gentilic |
+| Semantic field | personnel |
 
 ### Note
 
-HT 13 DA-SI-\*118 19 (wine list); HT 85a 24 (men, under A-DU); HT 122a 2 (men); HT 99b 2. Often beside KU-ZU-NI and DA-RI-DA. A recurring roster label; no personal name or meaning is established. DA first and \*118 third show \*118 is not DA. Weak point: \*118 = ṭa is speculative.
+HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · \*307+\*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit, not a person. ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia', the n of \*šint- unwritten or assimilated. \*118 = ṭa: s-t and s-d give no acacia. DA first and \*118 third show \*118 is not DA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Proto-Semitic | \*šint- 'acacia' (semitic_roots no. 3629), a loan from Egyptian šnd.t |
+| Hebrew | šiṭṭâ, pl. šiṭṭîm 'acacia' (HALOT 1473); place names Beth-Shittah (Judg 7:22), Abel-Shittim (Num 33:49) |
+| Akkadian | šamṭu, šanṭu (HALOT 1473) |
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 
@@ -58,16 +67,16 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Dasiṭa | roster unit (24 men) | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Dasiṭa | roster unit | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Ḏā-šiṭṭa | those of Acacia (a group of 24 men) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Ḏā-šiṭṭa | those of Acacia (gentilic, a roster unit) | CANDIDATE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Type | gentilic (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 4 in 4 documents |
 | Sites | Haghia Triada |
@@ -75,7 +84,7 @@ di Mino
 
 ### Note
 
-Roster label. Weak point: the value \*118 = ṭa is unconfirmed.
+Ḏā-šiṭṭa 'those of Acacia', a unit of 24 men on HT 85a: Heb. šiṭṭâ 'acacia', place names Beth-Shittah, Abel-Shittim (HALOT 1473).
 
 ### Co-occurring lexicon words
 

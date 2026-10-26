@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ṣ̂ɣrr |
 | Meaning | 'to scream' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2070 |
 
 ## Reflexes
 

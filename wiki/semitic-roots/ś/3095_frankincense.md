@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3095_frankincense
 title: "*ŝaḥz-: 'frankincense'"
-desc: "Proto-Semitic *ŝaḥz-, 'frankincense': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ŝaḥz-, 'frankincense': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3095"
@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ŝaḥz- |
 | Meaning | 'frankincense' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1531 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | ŝēḥəz (ML 377 apud SEDonline 1531) | ML 377; SEDonline 1531 | gloss withheld |
 | Jibbali | ŝaḥz (JL 250 apud SEDonline 1531) | JL 250; SEDonline 1531 | gloss withheld |
+| Soqotri | ŝáḥaz (Kogan 2015, ch. 8 §3.4.1 no. 111) | Kogan 2015 ch. 8 §3.4.1 no. 111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

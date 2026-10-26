@@ -29,7 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | haraba 'fled; ran away' (Lane 2889); mahrab 'a place to which one flees; a place of refuge' (Lane 2889) | Lane 2889; Lane 2889 |  |
+| Arabic | haraba 'fled; ran away' (Lane 2889); mahrab 'a place to which one flees; a place of refuge' (Lane 2889) | Lane 2889 |  |
 | Pre-Islamic North Arabian | Safaitic hrb (Al-Jallad–Jaworska 78) | Al-Jallad–Jaworska 78 | gloss withheld |
 | Epigraphic South Arabian | Sab hrb (SD 56) | SD 56 | gloss withheld |
 

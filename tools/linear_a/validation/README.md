@@ -7,7 +7,7 @@ through `tools/core/run_saver.py`, so `ventris_runs.py` lists them.
 |---|---|
 | `null_model_audit.py` | Permutation nulls for the skeleton matcher and its lenses |
 | `root_match_phase0.py` | The Shoresh gold set and baselines; its `gold*` and `baseline*` commands write fixtures |
-| `root_match_checks.py` | The Shoresh pre-gold checks (`tools/core/SHORESH.md`) |
+| `root_match_checks.py` | The Shoresh pre-gold checks (`docs/shoresh-preregistration.md`) |
 | `blind_corpus_test.py` | Readings of untranslated inscriptions with the lexicon locked |
 | `hapax_analysis.py` | The forms attested once |
 | `db_composition_audit.py` | The make-up of the comparison databases |

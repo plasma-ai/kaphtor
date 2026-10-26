@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ghr |
 | Meaning | 'to be dazzled, short-sighted' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2148 |
 
 ## Reflexes
 

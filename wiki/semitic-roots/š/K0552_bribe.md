@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠḤD (Aramaic Root Atlas; DNWSI 1120 apud CAL) | Aramaic Root Atlas; DNWSI 1120; CAL | gloss withheld |
+| Aramaic | ŠḤD (Aramaic Root Atlas; DNWSI 1120 apud CAL) | Aramaic Root Atlas; DNWSI 1120; CAL; Anderson–Moser 2024 root šḥd | gloss withheld |
 | Hebrew | šāḥad 'give a present, bribe' (BDB 1005) | BDB 1005 |  |
 | Judaic Aramaic | šəḥad (HALOT 1456; DJPA 543b apud CAL); šəḥādā (HALOT 1457) | HALOT 1456; DJPA 543b; CAL; HALOT 1457 | gloss withheld |
 | Syrian Aramaic | šəḥad (HALOT 1456; Payne Smith 570); šuḥdā (HALOT 1457) | HALOT 1456; Payne Smith 570; HALOT 1457 | gloss withheld |

@@ -57,10 +57,10 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/PK/PK/PK3\|PK3]] | Palaikastro | 4-sided bar | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | Khania | Tablet | complete |
@@ -69,6 +69,8 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | dāru | dwelling or estate; administrative unit, 1 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | dāru | dwelling or estate; administrative unit, 16½ | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | dāru | dwelling or estate (administrative unit) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] | dāru | dwelling or estate (administrative unit) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH104\|KH104]] | dāru | dwelling, granary | CANDIDATE |

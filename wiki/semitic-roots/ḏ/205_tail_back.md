@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḏubābat- 'the tail' \[BK 1 763\]; ḏuʔābat- 'tail; tuft/forelock' \[ibid. 760\], with different triconsonantization patterns; zabbūnat- | BK 1 763; ibid. 760 |  |
+| Arabic | ḏubābat- 'the tail' \[BK 1 763\]; ḏuʔābat- 'tail; tuft/forelock' \[ibid. 760\], with different triconsonantization patterns; zabbūnat- | BK 1 763; BK 760 |  |
 | Akkadian | Cf. zibbānu SB \[CAD z 100\], \[AHw 1523\]. | CAD z 100; AHw 1523 | gloss withheld |
 | Tigre | zǝban \[LH 499\] | LH 499 | gloss withheld |
 | Geez | zabān \[LGz 631\] | LGz 631 | gloss withheld |

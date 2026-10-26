@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | HDY (CAL s.v. hdy) | CAL s.v. hdy | gloss withheld |
+| Aramaic | HDY (CAL s.v. hdy) | CAL s.v. hdy; Anderson–Moser 2024 root hdy | gloss withheld |
 | Hebrew | hadah 'stretch' | Anderson–Moser 2024 root hdy |  |
 | Epigraphic South Arabian | Sab hdy (SD 55; Biella 105; Sabaweb lemma 4216) | SD 55; Biella 105; Sabaweb lemma 4216 | gloss withheld |
 | Syrian Aramaic | hdā 'lead, direct; follow' (Payne Smith 100) | Payne Smith 100 |  |

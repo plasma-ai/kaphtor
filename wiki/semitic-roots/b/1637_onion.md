@@ -39,8 +39,12 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | beṣlā (HALOT 147; Payne Smith 52) | HALOT 147; Payne Smith 52 |  |
 | Soqotri | biṣle (HALOT 147) | HALOT 147 |  |
 | Phoenician | bṣl (T 53) | T 53 | gloss withheld |
-| Jibbali | béṣál (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
+| Jibbali | béṣál (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Geez baṣal 'onion' (CDG 111; &lt; Ar).
 
 <!-- END kaphtor:record -->

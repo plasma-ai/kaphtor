@@ -59,7 +59,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1019\|HTWa1019]] | Haghia Triada | Nodule | complete |
 
 ## In translations
@@ -67,5 +67,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1019\|HTWa1019]] | sūt | garment, textile (√š-y-t) |  |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | sūt | garment, textile, 6 | CANDIDATE |
 
 <!-- END kaphtor:record -->

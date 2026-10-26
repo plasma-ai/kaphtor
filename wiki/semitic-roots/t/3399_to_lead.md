@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/3399_to_lead
 title: "*tlk: 'to lead'"
-desc: "Proto-Semitic *tlk, 'to lead': reflexes in 2 language(s)."
+desc: "Proto-Semitic *tlk, 'to lead': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3399"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*tlk |
 | Meaning | 'to lead' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1540 |
 
 ## Reflexes
 
@@ -31,11 +32,12 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | tlūk (ML 401 apud SEDonline 1540) | ML 401; SEDonline 1540 | gloss withheld |
 | Jibbali | etlék (JL 271 apud SEDonline 1540) | JL 271; SEDonline 1540 | gloss withheld |
+| Soqotri | təḷék (Kogan 2015, ch. 8 §3.4.1 no. 117) | Kogan 2015 ch. 8 §3.4.1 no. 117 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Proto-MSA \*tlk 'to lead' (SEDonline 1540). Leslau may be correct to relate it to PS \*hlk 'to go' (Kogan 2015:573 apud SEDonline 1540). Cf. S40 \*hlk- 'to go, walk, travel; way, course'.
+Proto-MSA \*tlk 'to lead' (SEDonline 1540). Cf. S40 \*hlk- 'to go, walk, travel; way, course'.
 
 <!-- END kaphtor:record -->

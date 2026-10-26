@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | baraṣ- 'leprosy' \[BK 1 111\] | BK 1 111 |  |
-| Syrian Aramaic | brṣwtʔ 'scabies' \[Brock 98\] (quoted without vocalization) | Brock 98 |  |
+| Syrian Aramaic | brṣwtʔ 'scabies' \[Brock 98\] | Brock 98 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

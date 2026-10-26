@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | laḳlaḳ-, laḳlāḳ- \[BK 2 1016\], \[WKAS l 1043\], \[LA X 332\]. | BK 2 1016; WKAS l 1043; LA X 332 | gloss withheld |
 | Akkadian | laḳlaḳḳu (raḳraḳḳu, laḳalaḳa) SB \[CAD l 102\], \[AHw. 538\] | CAD l 102; AHw. 538 | gloss withheld |
-| Eblaitic | \[NIN (?)...\] = la-ag-la-gúm \[MEE 4 0303, 0018\] | MEE 4 0303, 0018; Kreb. 46 |  |
+| Eblaitic | \[NIN (?)...\] = la-ag-la-gúm \[MEE 4 0303, 0018\] | MEE 4 0303, 0018 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

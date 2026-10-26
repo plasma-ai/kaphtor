@@ -29,12 +29,12 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḳīštu (Kogan 2011, 200) | Kogan 2011, 200 |  |
-| Eblaitic | ḳá-sa-tum (Kogan 2011, 200) | Kogan 2011, 200 |  |
-| Judaic Aramaic | JPA ḳīs (Kogan 2011, 200) | Kogan 2011, 200 | gloss withheld |
-| Syrian Aramaic | ḳaysā (Kogan 2011, 200) | Kogan 2011, 200 | gloss withheld |
-| Mehri | ḳəŝnīt (Kogan 2011, 200) | Kogan 2011, 200 |  |
-| Soqotri | ḳáŝen (Kogan 2011, 200) | Kogan 2011, 200 |  |
+| Akkadian | ḳīštu (Kogan 2011, 200) | Kogan 2011 200 |  |
+| Eblaitic | ḳá-sa-tum (Kogan 2011, 200) | Kogan 2011 200 |  |
+| Judaic Aramaic | JPA ḳīs (Kogan 2011, 200) | Kogan 2011 200 | gloss withheld |
+| Syrian Aramaic | ḳaysā (Kogan 2011, 200) | Kogan 2011 200 | gloss withheld |
+| Mehri | ḳəŝnīt (Kogan 2011, 200) | Kogan 2011 200 |  |
+| Soqotri | ḳáŝen (Kogan 2011, 200) | Kogan 2011 200 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

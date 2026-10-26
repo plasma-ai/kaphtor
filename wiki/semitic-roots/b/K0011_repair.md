@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | badaq 'mend' (BDB 96) | BDB 96 |  |
+| Hebrew | badaq 'mend' (BDB 96) | BDB 96; Anderson–Moser 2024 root bdq |  |
 | Aramaic | biḏqā (LGz. 87; DJBA 200a apud CAL) | LGz. 87; DJBA 200a; CAL | gloss withheld |
 | Syrian Aramaic | bəḏaq (LGz. 87; Payne Smith 35) | LGz. 87; Payne Smith 35 |  |
 | Mandaic Aramaic | bdaqa (LGz. 87) | LGz. 87 |  |

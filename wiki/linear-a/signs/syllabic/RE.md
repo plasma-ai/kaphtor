@@ -50,7 +50,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | PROBABLE |
+| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-rāpiʾ-rinnā | SPECULATIVE |
@@ -71,15 +71,20 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | PROBABLE |
 | [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]] | Kulelu | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |
+| [[wiki/linear-a/words/M/MA_RE\|MA-RE]] | mārē | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RI_RE_I\|MA-RI-RE-I]] | marīrēy | CANDIDATE |
 | [[wiki/linear-a/words/N/NA_DA_RE\|NA-DA-RE]] | Nadr | PROBABLE |
 | [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sukar | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
 | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burēyā | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
+| [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qart- | CANDIDATE |
+| [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE\|RE]] | le- | CONFIRMED |
 | [[wiki/linear-a/words/R/RE_ZA\|RE-ZA]] | (ʾa)raz | SPECULATIVE |
+| [[wiki/linear-a/words/S/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | siddāru | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Tayru | CANDIDATE |

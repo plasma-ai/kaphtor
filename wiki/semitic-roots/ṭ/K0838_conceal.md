@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ṬMN (CAL s.v. ṭmn) | CAL s.v. ṭmn | gloss withheld |
-| Hebrew | ṭaman 'hide' (BDB 380) | BDB 380 |  |
+| Aramaic | ṬMN (CAL s.v. ṭmn) | CAL s.v. ṭmn; Anderson–Moser 2024 root ṭmn | gloss withheld |
+| Hebrew | ṭaman 'hide' (BDB 380) | BDB 380; Anderson–Moser 2024 root ṭmn |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

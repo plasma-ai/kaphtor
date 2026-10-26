@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥarām- 'sacred, forbidden' (BK 1, 415) | BK 1, 415 |  |
 | Hebrew | ḥērem (HALOT 354) | HALOT 354 | gloss withheld |
-| Epigraphic South Arabian | Sab ḥrm, hḥrm, tḥrm, ḥrm, ḥrmt, mḥrm (SD 70–71; Biella 189–190; Sabaweb lemmas 1817, 2118); ḥrm (Sabaweb lemma 4366) | SD 70–71; Biella 189–190; Sabaweb lemmas 1817, 2118; Sabaweb lemma 4366 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥrm, hḥrm, tḥrm, ḥrm, ḥrmt, mḥrm (SD 70–71; Biella 189–190; Sabaweb lemmas 1817, 2118, 4365, 4367, 2284); ḥrm (Sabaweb lemma 4366) | SD 70–71; Biella 189–190; Sabaweb lemmas 1817, 2118, 4365, 4367, 2284; Sabaweb lemma 4366 | gloss withheld |
 | Geez | ḥarama (HALOT 353) | HALOT 353 |  |
 | Phoenician | ḥrm (HALOT 353) | HALOT 353 |  |
 | Moabite | ḥrm (Mesha 17 apud HALOT 353) | HALOT 353 | gloss withheld |
@@ -43,9 +43,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḥarämä (LGz. 242) | LGz. 242 | gloss withheld |
 | Amharic | harrämä, arrämä (LGz. 242) | LGz. 242 | gloss withheld |
 | Amorite | ḥrm: ḫirman- (Huffmon APNM 204); ḥrm (Gelb AS 21, 20) | Huffmon APNM 204; Gelb AS 21 20 | gloss withheld |
-| Jibbali | aḥrím (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015, ch. 2 §4.2 no. 23 | gloss withheld |
-| Mehri | ḥōrəm, ḥrūm (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015, ch. 2 §4.2 no. 23 | gloss withheld |
-| Soqotri | ḥórim (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015, ch. 2 §4.2 no. 23 | gloss withheld |
+| Jibbali | aḥrím (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
+| Mehri | ḥōrəm, ḥrūm (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
+| Soqotri | ḥórim (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

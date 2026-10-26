@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǧarad- 'dos' \[BK 1 276\], ʔaǧrad- 'dos' \[ibid. 277\] (with the ʔa- prefix); ǯrdḥ 'to stretch the neck' \[BK 1 277\] (with -ḥ hard to explain). | BK 1 276; ibid. 277; BK 1 277 |  |
+| Arabic | ǧarad- 'dos' \[BK 1 276\], ʔaǧrad- 'dos' \[ibid. 277\]; ǯrdḥ 'to stretch the neck' \[BK 1 277\]. | BK 1 276; BK 277; BK 1 277 |  |
 | Tigre | ǯärid \[LH 550\]. | LH 550 | gloss withheld |
 | East Ethiopic | SEL gǝrdid \[LGur 291\] | LGur 291 | gloss withheld |
 

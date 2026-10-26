@@ -50,9 +50,11 @@ Dual-function sign: syllabogram /qe/ (AB78) + metrological logogram QÊ when sta
 | [[wiki/linear-a/words/G/GRA_plus_QE\|GRA+QE]] | qemāḥu | CANDIDATE |
 | [[wiki/linear-a/words/J/JU_plus_star317_plus_QE\|JU+\*317+QE]] |  | CONFIRMED |
 | [[wiki/linear-a/words/O/OLE_plus_QE_plus_DI\|OLE+QE+DI]] | A623 (OLE+QE+DI) | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE\|QE]] | qê | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |

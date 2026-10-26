@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/K0442_wood
 title: "*wVʿVr-: 'wood'"
-desc: "Proto-Semitic *wVʿVr-, 'wood': reflexes in 8 language(s)."
+desc: "Proto-Semitic *wVʿVr-, 'wood': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0442"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | waʕr (HALOT 422) | HALOT 422 | gloss withheld |
 | Aramaic | yʿr 'thicket' | Anderson–Moser 2024 root wʿr |  |
 | Hebrew | yaʿar 'forest' | Anderson–Moser 2024 root wʿr |  |
+| Punic | yʿr 'wood' | Anderson–Moser 2024 root wʿr |  |
 | Ugaritic | yʿr 'wood' | Anderson–Moser 2024 root wʿr |  |
 | Geez | waʿara (LGz. 603) | LGz. 603 | gloss withheld |
 | Phoenician | \*yʿr: šyr (T 127) | T 127 | gloss withheld |

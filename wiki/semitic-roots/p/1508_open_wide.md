@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | fɣr (Lane 2421) | Lane 2421 |  |
 | Hebrew | pʕr |  |  |
 | Syrian Aramaic | pʕr (Payne Smith 453) | Payne Smith 453 |  |
-| Ugaritic | pʿr (DULAT 650) | DULAT 650 | gloss withheld |
+| Ugaritic | pʿr (DULAT 650) | DULAT 650; Anderson–Moser 2024 root pʿr | gloss withheld |
 | Jibbali | faɣár (JL 53 apud SEDonline 1378) | JL 53; SEDonline 1378 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

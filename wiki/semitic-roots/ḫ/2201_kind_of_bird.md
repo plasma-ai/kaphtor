@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔaḫyal- 'white falcon of good lineage; bird with mottled plumage, regarded as a bad omen' \[BK 1 658\], \[LA XI 229\] (see further \[Nöldeke Beiträge 112\]). | BK 1 658; LA XI 229; Nöldeke Beiträge 112 |  |
-| Hebrew | ḥōl (HALOT 297) | HALOT 297; Pope 189-90; Ja. 433 | gloss withheld |
+| Arabic | ʔaḫyal- 'white falcon of good lineage; bird with mottled plumage, regarded as a bad omen' \[BK 1 658\], \[LA XI 229\]. | BK 1 658; LA XI 229 |  |
+| Hebrew | ḥōl (HALOT 297) | HALOT 297 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

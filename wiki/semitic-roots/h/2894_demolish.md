@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | hrs³ (HALOT 256) | HALOT 256 | gloss withheld |
 | Hebrew | h-r-s (BDB 248, 249; HALOT 256) | BDB 248, 249; HALOT 256 | gloss withheld |
-| Tigre | harša (Tigr. Wb. 10b apud HALOT 256) | HALOT 256 | gloss withheld |
+| Tigre | harša (Tigr. Wb. 10b apud HALOT 256) | Wb. 10b; HALOT 256 | gloss withheld |
 | Arabic | hrs \[-u-\] 'crush, break in pieces' (Lane 2891) | Lane 2891 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

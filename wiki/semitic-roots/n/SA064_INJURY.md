@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab nky (SD 96; Biella 304; Sabaweb lemma 1448) | SD 96; Biella 304; Sabaweb lemma 1448 | gloss withheld |
-| Arabic | Ar nakâ (Biella 304) | Biella 304 | gloss withheld |
+| Arabic | Ar nakâ (Biella 304); nakiya; nikāyat (Lane 3038) | Biella 304; Lane 3038 | gloss withheld |
 | Harari | näkaʾa \[LHar 118\] | LHar 118 | gloss withheld |
 | Geez | nakaya (LLA 669) | LLA 669 |  |
-| Hebrew | nky (hip.) (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
-| Syrian Aramaic | nkā (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
-| Jibbali | enké (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
-| Soqotri | mónki (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015, ch. 2 §4.2 no. 42 | gloss withheld |
+| Hebrew | nky (hip.) (Kogan 2015, ch. 2 §4.2 no. 42); nākēʾ (Pr 15:13) (HALOT 697) | Kogan 2015 ch. 2 §4.2 no. 42; HALOT 697 | gloss withheld |
+| Syrian Aramaic | nkā (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015 ch. 2 §4.2 no. 42 | gloss withheld |
+| Jibbali | enké (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015 ch. 2 §4.2 no. 42 | gloss withheld |
+| Soqotri | mónki (Kogan 2015, ch. 2 §4.2 no. 42) | Kogan 2015 ch. 2 §4.2 no. 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

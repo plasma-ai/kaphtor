@@ -29,12 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ṢHL (Aramaic Root Atlas; CAL s.v. ṣhl) | Aramaic Root Atlas; CAL s.v. ṣhl | gloss withheld |
-| Hebrew | ṣahal 'neigh' (BDB 843) | BDB 843 |  |
+| Aramaic | ṢHL (Aramaic Root Atlas; CAL s.v. ṣhl) | Aramaic Root Atlas; CAL s.v. ṣhl; Anderson–Moser 2024 root ṣhl | gloss withheld |
+| Hebrew | ṣahal 'neigh' (BDB 843) | BDB 843; Anderson–Moser 2024 root ṣhl |  |
 | Syrian Aramaic | ṣəhal (HALOT 1007) | HALOT 1007 | gloss withheld |
 | Arabic | ṣahala (HALOT 1007) | HALOT 1007 |  |
-| Jibbali | ṣɛhɛ́l (Kogan 2015, ch. 2 §5.2.2.3 no. 11) | Kogan 2015, ch. 2 §5.2.2.3 no. 11 | gloss withheld |
-| Mehri | ṣəhēl (Kogan 2015, ch. 2 §5.2.2.3 no. 11) | Kogan 2015, ch. 2 §5.2.2.3 no. 11 | gloss withheld |
+| Jibbali | ṣɛhɛ́l (Kogan 2015, ch. 2 §5.2.2.3 no. 11) | Kogan 2015 ch. 2 §5.2.2.3 no. 11 | gloss withheld |
+| Mehri | ṣəhēl (Kogan 2015, ch. 2 §5.2.2.3 no. 11) | Kogan 2015 ch. 2 §5.2.2.3 no. 11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

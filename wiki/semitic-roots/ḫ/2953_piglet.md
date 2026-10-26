@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ḫVnnVṣ- {} \*ḫVnnVc̣- |
 | Meaning | 'piglet' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II No. 110 |
 
 ## Reflexes
 
@@ -36,9 +37,5 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic ḫnṣ (Al-Jallad–Jaworska 81) | Al-Jallad–Jaworska 81 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-SED II No. 110: scarce but reliable; Arb. ḫ- makes a loan from Syriac unlikely (SED II 149).
 
 <!-- END kaphtor:record -->

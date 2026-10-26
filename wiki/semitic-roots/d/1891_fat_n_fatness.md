@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dasima 'to be fat' \[BK 1 697\]; cf. dasam- 'quality of a fatty food', ʔadsam- 'very fat' \[ibid.\] | BK 1 697; ibid. |  |
+| Arabic | dasima 'to be fat' \[BK 1 697\]; cf. dasam- 'quality of a fatty food', ʔadsam- 'very fat' \[ibid.\] | BK 1 697 |  |
 | Hebrew | däšän (HALOT 234); cf. PB dōšän \[Ja 291\] | HALOT 234; Ja 291 | gloss withheld |
 | Judaic Aramaic | došnā, dišnā 'fat' \[Ja 326\] (n.). | Ja 326 |  |
 

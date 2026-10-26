@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | BLY (Aramaic Root Atlas; DNWSI 165 apud CAL) | Aramaic Root Atlas; DNWSI 165; CAL | gloss withheld |
+| Aramaic | BLY (Aramaic Root Atlas; DNWSI 165 apud CAL) | Aramaic Root Atlas; DNWSI 165; CAL; Anderson–Moser 2024 root bly | gloss withheld |
 | Geez | balya 'old' | Anderson–Moser 2024 root bly |  |
 | Hebrew | balah 'wear' | Anderson–Moser 2024 root bly |  |
 | Syrian Aramaic | bəlā (LGz. 98) | LGz. 98 |  |

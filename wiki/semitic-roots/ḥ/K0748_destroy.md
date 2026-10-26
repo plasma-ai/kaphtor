@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ḤSL (Aramaic Root Atlas; CAL s.v. ḥsl) | Aramaic Root Atlas; CAL s.v. ḥsl | gloss withheld |
-| Hebrew | ḥasal 'consume' (BDB 340) | BDB 340 |  |
+| Aramaic | ḤSL (Aramaic Root Atlas; CAL s.v. ḥsl) | Aramaic Root Atlas; CAL s.v. ḥsl; Anderson–Moser 2024 root ḥsl | gloss withheld |
+| Hebrew | ḥasal 'consume' (BDB 340) | BDB 340; Anderson–Moser 2024 root ḥsl |  |
 | Ugaritic | ḥsl 'wipe' | Anderson–Moser 2024 root ḥsl |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

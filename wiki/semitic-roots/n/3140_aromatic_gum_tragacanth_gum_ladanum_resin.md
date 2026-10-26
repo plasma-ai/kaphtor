@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | nᵉkōʾt (HALOT 697); (T 213) | HALOT 697; T 213 | gloss withheld |
+| Hebrew | nᵉkōʾt (HALOT 697) (T 213) | HALOT 697; T 213 | gloss withheld |
 | Punic | N.Pu. nkʾt (T 213) | T 213 | gloss withheld |
 | Arabic | nakʾat (T 213) | T 213 |  |
 | Akkadian | nukkatu (T 213) | T 213 |  |

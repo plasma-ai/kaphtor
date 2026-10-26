@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ṯhb (SD 150; Biella 540); (Sabaweb lemma 1618) | SD 150; Biella 540; Sabaweb lemma 1618 | gloss withheld |
+| Epigraphic South Arabian | Sab ṯhb (SD 150; Biella 540) (Sabaweb lemma 1618) | SD 150; Biella 540; Sabaweb lemma 1618 | gloss withheld |
 | Arabic | Ar ṯāba (w) ? (Biella 540) | Biella 540 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

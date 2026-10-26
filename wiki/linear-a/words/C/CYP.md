@@ -66,7 +66,7 @@ di Mino; conventional Aegean identification
 | [[wiki/linear-a/inscriptions/HT/HTWb/HTWb229\|HTWb229]] | Haghia Triada | Sealing | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | Haghia Triada | Roundel | none |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc_3018\|HTWc&lt;3018&gt;]] | Haghia Triada | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH103\|KH103]] | Khania | Tablet | none; form not in transliteration |
@@ -77,7 +77,7 @@ di Mino; conventional Aegean identification
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH16\|KH16]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH2\|KH2]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH21\|KH21]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH22\|KH22]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH23\|KH23]] | Khania | Tablet | none |
@@ -97,7 +97,7 @@ di Mino; conventional Aegean identification
 | [[wiki/linear-a/inscriptions/KH/KH/KH75\|KH75]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH76\|KH76]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH77\|KH77]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH84\|KH84]] | Khania | Tablet | none |

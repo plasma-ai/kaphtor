@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | sêdu 'support' | Anderson–Moser 2024 root sʿd |  |
-| Arabic | saʕida 'happy' (Lane 1360) | Lane 1360 |  |
+| Arabic | saʕida 'happy'; sāʕadahu 'he aided, assisted, helped him' (Lane 1360) | Lane 1360; Anderson–Moser 2024 root sʿd |  |
 | Aramaic | SʿD 'help' | Anderson–Moser 2024 root sʿd |  |
 | Hebrew | saʿad 'support' | Anderson–Moser 2024 root sʿd |  |
 | Amorite | sʿd (Huffmon APNM 245) | Huffmon APNM 245 | gloss withheld |

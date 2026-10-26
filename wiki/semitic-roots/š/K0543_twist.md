@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠZR (CAL s.v. šzr) | CAL s.v. šzr | gloss withheld |
-| Hebrew | šazar 'twist' (BDB 1004) | BDB 1004 |  |
+| Aramaic | ŠZR (CAL s.v. šzr) | CAL s.v. šzr; Anderson–Moser 2024 root šzr | gloss withheld |
+| Hebrew | šazar 'twist' (BDB 1004) | BDB 1004; Anderson–Moser 2024 root šzr |  |
 | Judaic Aramaic | šəzar (HALOT 1456; DJPA 543b apud CAL) | HALOT 1456; DJPA 543b; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

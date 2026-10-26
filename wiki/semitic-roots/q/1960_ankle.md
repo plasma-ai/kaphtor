@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | ḳǝrṣā́t \[SSL 2 226\]. | SSL 2 226 | gloss withheld |
 | Akkadian | kiṣallu, kiṣillu, kisallu, kisillu OB, SB \[CAD k 434\], \[AHw 488\]. | CAD k 434; AHw 488 | gloss withheld |
-| Tigre | ḳarso \[LH 240\] (&lt;\*ḳarsaw) | LH 240 | gloss withheld |
+| Tigre | ḳarso \[LH 240\] | LH 240 | gloss withheld |
 | East Ethiopic | WOL ǝnḳǝrša \[LGur 71\] | LGur 71 | gloss withheld |
-| Gurage | GOG SOD ǝnḳǝrša do. \[ibid.\] |  |  |
+| Gurage | GOG SOD ǝnḳǝrša \[ibid.\] |  |  |
 | Modern Aramaic | NSYR ḳörṣuɫta \[MP 118\] | MP 118 | gloss withheld |
 | Hebrew | \*ḳarsullayim (HALOT 1146) | HALOT 1146 | gloss withheld |
 | Judaic Aramaic | ḳarsullā, ḳarsūlā \[Ja 1423\]; ḳrswl \[DJPA 506b apud CAL\] | Ja 1423; DJPA 506b; CAL | gloss withheld |

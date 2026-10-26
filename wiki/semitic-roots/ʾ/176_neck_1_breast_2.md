@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǯīd- 'long and graceful neck' \[BK 1 361\] | BK 1 361 |  |
+| Arabic | ǯīd- 'long and graceful neck' \[BK 1 361\]; 'the neck' (Lane 493) | BK 1 361; Lane 493 |  |
 | Geez | ʔangǝdʔa 2 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

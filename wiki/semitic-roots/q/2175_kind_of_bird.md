@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Syrian Aramaic | ḳurlā \[Brock. 696\], \[PS 3566\] | Brock. 696; PS 3566; Frisk 329; WH II 624 | gloss withheld |
+| Syrian Aramaic | ḳurlā \[Brock. 696\], \[PS 3566\] | Brock. 696; PS 3566 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

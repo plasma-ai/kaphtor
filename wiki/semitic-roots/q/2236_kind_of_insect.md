@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Tigre | ḳomḥay \[LH 237\]. | LH 237 | gloss withheld |
-| Syrian Aramaic | ḳamḥā (in nāḥǝlat ḳamḥā) 'a certain insect' \[Brock. 423\], \[PS 2337\]. Literally 'sifting-the-flour'. Both elements may go back to original faunal terms (cf. No. 160 \[DB 2253\] for nāḥǝlat), later re-interpreted by popular etymology. | Brock. 423; PS 2337 |  |
+| Syrian Aramaic | ḳamḥā (in nāḥǝlat ḳamḥā) 'a certain insect' \[Brock. 423\], \[PS 2337\]. Literally 'sifting-the-flour' | Brock. 423; PS 2337 |  |
 | Geez | qāhm, qəhm, qāḥm (LGz. 425) | LGz. 425 | gloss withheld |
 | Tigrinya | qahəm (LGz. 425) | LGz. 425 |  |
 

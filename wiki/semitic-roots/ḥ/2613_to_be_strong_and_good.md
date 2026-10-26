@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2613_to_be_strong_and_good
 title: "*ḥsn: 'to be strong and good'"
-desc: "Proto-Semitic *ḥsn, 'to be strong and good': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḥsn, 'to be strong and good': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2613"
@@ -30,17 +30,18 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥasan- 'beautiful, pretty; good, excellent' BK 1 428; cf. Arb. ḥisnat- 'wage, price of labor' (BK 1 428) | BK 1 428; BK 1 428 |  |
+| Arabic | ḥasan- 'beautiful, pretty; good, excellent' BK 1 428; cf. Arb. ḥisnat- 'wage, price of labor' (BK 1 428) | BK 1 428 |  |
 | Hebrew | ḥăsīn (HALOT 338) | HALOT 338 | gloss withheld |
 | Judaic Aramaic | cf. ḥsn (Itpa.) 'to be fully compensated' (Ja. 489) | Ja. 489 |  |
-| Syrian Aramaic | ḥasīn- 'firm, robust', ḥsn (Etpe.) 'he was overcome/surpassed' (Brock. 248) | Brock. 248 |  |
+| Syrian Aramaic | ḥasīn- 'firm, robust', ḥsn (Etpe.) 'he was overcome/surpassed' (Brock. 248); ḥūsānā 'strength, defence, protection' (Payne Smith 132) | Brock. 248; Payne Smith 132 |  |
 | Aramaic | ḥsyn (HALOT 338) | HALOT 338 |  |
 | Mandaic Aramaic | hsn (HALOT 338) | HALOT 338 | gloss withheld |
+| Biblical Aramaic | ḥsn (Kogan 2015, ch. 6 §2 no. 8) | Kogan 2015 ch. 6 §2 no. 8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Mehri ḥássǝn 'to improve in health' (JM 189; marked as Arabism); cf. ḥǝsǝnēt 'heavenly reward' (JM 189; an Arabism?). Tigre ḥäsnä 'to talk and do good' (LH 73) &lt; Arb.?. Jibbali C. Jib. aḥsín 'to be kind to so.', aḥtsín 'to improve', s̃ḥɛsín 'to think so. or st. good' (JJ 116) &lt; Arb.? Cf. E. Jib. ḥǝsǝnēt 'heavenly reward' (JM 189; an Arabism?).
+Mehri ḥássǝn (JM 189), marked as an Arabism; cf. ḥǝsǝnēt (JM 189) (&lt;Arb.?). Tigre ḥäsnä (LH 73) (&lt;Arb.?). Jibbali C. Jib. aḥsín, aḥtsín, s̃ḥɛsín (JJ 116) (&lt;Arb.?). Cf. E. Jib. ḥǝsǝnēt (JM 189) (&lt;Arb.?).
 
 <!-- END kaphtor:record -->

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ŝabḥ \[JH 118\] | JH 118 | gloss withheld |
 | Tigre | šǝbeḥ |  |  |
 | Geez | ŝǝbḥ; ŝabḥa, sabḥa \[LGz 525\] | LGz 525 | gloss withheld |
-| Gurage | CHA MUH MSQ GOG sǝwä, EŽA sǝwwä, ENN GYE sǝwʔä, END sǝ̃wʔä \[LGur 531\], EŽA MUH MSQ säbba, etc. \[ibid.\] | LGur 531; ibid. | gloss withheld |
+| Gurage | CHA MUH MSQ GOG sǝwä, EŽA sǝwwä, ENN GYE sǝwʔä, END sǝ̃wʔä \[LGur 531\], EŽA MUH MSQ säbba, etc. \[ibid.\] | LGur 531 | gloss withheld |
 | Jibbali | ŝabḥ \[JJ 245\] | JJ 245 | gloss withheld |
 | Amharic | säb |  |  |
 | Harari | säbaḥ \[LHar 136\] | LHar 136 | gloss withheld |

@@ -33,7 +33,7 @@ updated: 2026-10-25T06:28:07Z
 | Judaic Aramaic | qōmǝtā (HALOT 1089) | HALOT 1089 | gloss withheld |
 | Mandaic Aramaic | qumta (HALOT 1089) | HALOT 1089 | gloss withheld |
 | Syrian Aramaic | qawmtā 'height, stature; age; fathom' (Payne Smith 495) | Payne Smith 495 |  |
-| Arabic | qāmat 'stature; height in a standing posture' (Lane 2996); qawām 'stature, goodly stature, tallness' (Lane 2996) | Lane 2996; Lane 2996 |  |
+| Arabic | qāmat 'stature; height in a standing posture' (Lane 2996); qawām 'stature, goodly stature, tallness' (Lane 2996) | Lane 2996 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

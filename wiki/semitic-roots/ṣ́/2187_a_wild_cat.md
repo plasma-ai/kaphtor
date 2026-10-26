@@ -30,9 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḍaywan- 'male cat, tomcat' \[BK 2 46\], \[Fr. III 33\], \[Lane 1810-11\], \[LA XIII 262\] (v. \[Hommel 317\]). | BK 2 46; Fr. III 33; Lane 1810-11; LA XIII 262; Hommel 317 |  |
+| Arabic | ḍaywan- 'male cat, tomcat' \[BK 2 46\], \[Fr. III 33\], \[Lane 1810-11\], \[LA XIII 262\]. | BK 2 46; Fr. III 33; Lane 1810-11; LA XIII 262 |  |
 | Hebrew | ṣī (HALOT 1020) | HALOT 1020 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 1020 derives Hebrew ṣî from ṣiyyâ 'dry land' (3664).
 
 <!-- END kaphtor:record -->

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:37Z
+updated: 2026-10-26T17:10:14Z
 ---
 
 # wiki/linear-a/words/S
@@ -43,7 +43,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/S/SA_RA_RA|SA_RA_RA]]: ṣarār-: bundle, bag (commodity or container). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SA_RE_JU|SA_RE_JU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SA_RE_JU|SA_RE_JU]]: Šarr-ēlu: personal name, 'El is king'; rival Hurrian Šar-elli. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_RI|SA_RI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -57,7 +57,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/S/SA_SA_RA_ME|SA_SA_RA_ME]]: yaššaram: uprightly (= JA-SA-SA-RA-ME with JA- prefix dropped in Palaikastro dialect). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/S/SA_TA|SA_TA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SA_TA|SA_TA]]: Šata: Šata (personal name, heading the second section); rival śadā '(those of) the field'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_star301_RI|SA_star301_RI]]: šannāri: Cat (personal name). Lexicon, SPECULATIVE (tier 1).
 
@@ -65,7 +65,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/S/SE_I_broken_both|SE_I_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SE_KU_TU|SE_KU_TU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SE_KU_TU|SE_KU_TU]]: Šakūtu: personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SE_SA_PA3|SE_SA_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -77,7 +77,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/S/SE_WA_AU_DE|SE_WA_AU_DE]]: šawaʿ-dē: who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SE_star305|SE_star305]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SE_star305|SE_star305]]: ṣēdā: provisions (section heading); same word as SI-DA-TE ṣēdat. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI|SI]]: šay: tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings. Lexicon, PROBABLE (tier 3).
 
@@ -109,7 +109,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/S/SI_MA|SI_MA]]: šima: name, renown, progeny (common noun in construct state; also attested as personal name Šima = Shem). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_MI_TA|SI_MI_TA]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/S/SI_MI_TA|SI_MI_TA]]: Śīmat: personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_NA|SI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -129,7 +129,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/S/SI_TE|SI_TE]]: Unread (role only): toponym; 2 occurrence(s).
 
-[[wiki/linear-a/words/S/SI_TE_TU|SI_TE_TU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SI_TE_TU|SI_TE_TU]]: šetātu: woven (cloth), a textile entry; rival šittātu 'remainder'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_TU|SI_TU]]: sūt: garment, textile. Lexicon, CANDIDATE (tier 2).
 
@@ -163,7 +163,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/S/SU_PU|SU_PU]]: sapu: bowl, basin (the vessel named on HT31). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/S/SU_PU2|SU_PU2]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SU_PU2|SU_PU2]]: Ṣubʾu: Ṣubʾu (personal name); rival ṣābu 'workers, troop'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SU_PU2_star188|SU_PU2_star188]]: sapu buṭni: bowl of terebinth (pistachio) nuts (commodity measured in bowl-units). Lexicon, CANDIDATE (tier 2).
 

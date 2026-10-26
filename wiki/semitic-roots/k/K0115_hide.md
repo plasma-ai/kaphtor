@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | kəḥda; kəḥədka (OLA80 §45.17) | OLA80 §45.17 | gloss withheld |
-| Hebrew | kaḥad 'hide' (BDB 470) | BDB 470 |  |
+| Geez | kəḥda; kəḥədka (OLA80 §45.17) | OLA80 §45.17; Anderson–Moser 2024 root kḥd | gloss withheld |
+| Hebrew | kaḥad 'hide' (BDB 470) | BDB 470; Anderson–Moser 2024 root kḥd |  |
 | Ugaritic | kḥd 'hide' | Anderson–Moser 2024 root kḥd |  |
 | Arabic | ǧaḥada (HALOT 469) | HALOT 469 | gloss withheld |
 
@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-OLA80 §45.17: Geʿez guttural verb kəhədka 'you denied', with ə before the guttural instead of the expected a.
+OLA80 §45.17: Geʿez guttural verb kəḥədka 'you denied', with ə before the guttural instead of the expected a.
 
 <!-- END kaphtor:record -->

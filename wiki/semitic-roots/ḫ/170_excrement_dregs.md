@@ -33,18 +33,22 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḫurʔ- 'excrement, caca' \[BK 1 552\], ḫary- 'human excrement' \[BK 1 566\] | BK 1 552; BK 1 566 |  |
 | Soqotri | ḥaryómoh \[LS 191\]; ḥámreh \[LS 181\]. | LS 191; LS 181 | gloss withheld |
 | Akkadian | arāru (erēru, ḫarāru) MB, SB \[CAD a2 237\] \[AHw 65\]. | CAD a2 237; AHw 65 | gloss withheld |
-| Tigre | ḥarǝʕ \[LH 70\] (note -ʕ instead of ʔ) | LH 70 | gloss withheld |
-| Mandaic Aramaic | hra (hira) \[DM 152\]; HRA \[ibid.\] | DM 152; ibid. | gloss withheld |
-| Ugaritic | ḫrʔu \[DULAT 398\]; ḫrʔ \[ibid.\] | DULAT 398; ibid. | gloss withheld |
+| Tigre | ḥarǝʕ \[LH 70\] | LH 70 | gloss withheld |
+| Mandaic Aramaic | hra (hira) \[DM 152\]; HRA \[ibid.\] | DM 152 | gloss withheld |
+| Ugaritic | ḫrʔu \[DULAT 398\]; ḫrʔ \[ibid.\] | DULAT 398 | gloss withheld |
 | Gurage | CHA EŽA MUH GOG SOD arä, END GYE arʔä \[LArg. 206\] | LArg. 206 | gloss withheld |
-| Modern Aramaic | MMND herā \[M MND 502\] |  | gloss withheld |
+| Modern Aramaic | MMND herā \[M MND 502\] | M MND 502 | gloss withheld |
 | Hebrew | \*ḥărāʔīm (HALOT 348, 349). | HALOT 348, 349 | gloss withheld |
-| Amharic | ar \[K 1140\], arra \[ibid.\] | K 1140; ibid. | gloss withheld |
+| Amharic | ar \[K 1140\], arra \[ibid.\] | K 1140 | gloss withheld |
 | Argobba | har \[LArg. 206\] | LArg. 206 | gloss withheld |
 | Judaic Aramaic | ḥārē, ḥārayyā 'excrements' \[Ja 501\] | Ja 501 |  |
-| Syrian Aramaic | ḥerāyā 'excrement' \[Brock 253\]; ḥrʔ 'defecated' \[ibid.\] | Brock 253; ibid. |  |
+| Syrian Aramaic | ḥerāyā 'excrement' \[Brock 253\]; ḥrʔ 'defecated' \[ibid.\] | Brock 253 |  |
 | Tigrinya | ḥarʔi 'human excrement' \[Bass. 44\] | Bass. 44 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Soqotri ḥámreʰ 'something dirty, mud; sediment' is filed under PWS \*ḫmr 'to foam, to ferment' (SLOnline 12627).
 
 <!-- END kaphtor:record -->

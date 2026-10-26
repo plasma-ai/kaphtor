@@ -43,7 +43,7 @@ Evidence: ḏ 1/7, d 5/7; ḏ is taken from the logogram reading ḎABBĀḤŪ. 
 
 ### Note
 
-Dual-function. Standing alone with a quantity, \*305 is the logogram ḎABBĀḤŪ 'sacrificers' (personnel category): HT89 \*305 23 in 23+22+24+13+5 = 87 = KU-RO; HT100 VIR+KA sub-category; √ḏ-b-ḥ cross-Semitically exact. The syllabic value /ḏa/ has a live /da/ rival (D₂A): 0 of 8 syllabic cells favor ḏ over d and 4 of 8 favor plain d, so the /da/ alternative is recorded wherever the syllabic value is used. Settling tests: a repeated embedded cell requiring a ḏ-root with no plain-d rival; \*305 ↔ Z-class spelling alternation matching \*ḏ→z reflexes; a repeated administrative pair in a confirmed voiced-interdental slot. \|\| ḏa reads \*305-RU ḏrʕ 'seed-grain' (HT10a; DULAT 277–278) and KA-\*305 ka-ḏā 'thus, likewise' (HT9b; Lane 948). ṯa is another possible value: KA-\*305 kṯ 'flask, jar' (DULAT 466).
+Dual-function. Standing alone with a quantity, \*305 is the logogram ḎABBĀḤŪ 'sacrificers' (personnel category): HT89 \*305 23 in 23+22+24+13+5 = 87 = KU-RO; HT100 VIR+KA sub-category; √ḏ-b-ḥ cross-Semitically exact. The syllabic value /ḏa/ has a live /da/ rival (D₂A): 0 of 8 syllabic cells favor ḏ over d and 4 of 8 favor plain d, so the /da/ alternative is recorded wherever the syllabic value is used. Settling tests: a repeated embedded cell requiring a ḏ-root with no plain-d rival; \*305 ↔ Z-class spelling alternation matching \*ḏ→z reflexes; a repeated administrative pair in a confirmed voiced-interdental slot. \|\| ḏa reads \*305-RU ḏrʕ 'seed-grain' (HT10a; DULAT 277–278) and KA-\*305 ka-ḏā 'thus, likewise' (HT9b; Lane 948). ṯa is another possible value: KA-\*305 kṯ 'flask, jar' (DULAT 466). da reads SE-\*305 ṣēdā 'provisions' (KH 7a), the heading word of SI-DA-TE ṣēdat; ṣ-ḏ gives no root.
 
 ## Also in logograms
 
@@ -57,5 +57,6 @@ Dual-function. Standing alone with a quantity, \*305 is the logogram ḎABBĀḤ
 | [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
 
 <!-- END kaphtor:record -->

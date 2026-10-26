@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṯaytal- 'old mountain billy-goat; a kind of antelope' \[BK 1 218\], \[LA XI 81\]. Cf. also ṯilal-, ṯilāl- 'flock of ewes, or ewes mixed with goats' \[BK 1 232\], \[TA old VII 246\]. | BK 1 218; LA XI 81; BK 1 232 |  |
 | Mehri | ṯal \[JM 417\]. | JM 417 | gloss withheld |
-| Akkadian | aslu OB, SB \[CAD a2 336\], \[AHw. 74\] | CAD a2 336; AHw. 74; Huehnergard GA 431; CAD š2 254; ibid. l 227; AHw.; CAD | gloss withheld |
-| Harsusi | ṯel id. \[JH 32\]. | JH 32 |  |
+| Akkadian | aslu OB, SB \[CAD a2 336\], \[AHw. 74\] | CAD a2 336; AHw. 74 | gloss withheld |
+| Harsusi | ṯel \[JH 32\]. | JH 32 |  |
 | Tigre | sǝle \[LH 167\]. | LH 167 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

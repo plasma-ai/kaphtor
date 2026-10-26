@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ḳarṣ- {} \*ḳarc̣- |
 | Meaning | 'kind of harmful insect; mosquito' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II No. 138 |
 
 ## Reflexes
 

@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | napālu |  |  |
-| Ugaritic | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015, ch. 3 §5.2 no. 41 |  |
+| Ugaritic | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015 ch. 3 §5.2 no. 41 |  |
 | Phoenician | npl (Krahmalkov 333) | Krahmalkov 333 | gloss withheld |
-| Hebrew | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015, ch. 3 §5.2 no. 41 |  |
+| Hebrew | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015 ch. 3 §5.2 no. 41 |  |
 | Syrian Aramaic | nfl |  |  |
 | Aramaic | B nfl |  |  |
 | Epigraphic South Arabian | Sab nfl (SD 92; Biella 309; Sabaweb lemma 4613) | SD 92; Biella 309; Sabaweb lemma 4613 | gloss withheld |

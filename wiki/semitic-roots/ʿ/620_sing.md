@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʕnh |  |  |
-| Syrian Aramaic | ʕny (pa.) (Kogan 2015, ch. 3 §5.2 no. 18) | Kogan 2015, ch. 3 §5.2 no. 18 |  |
-| Arabic | ɣny (II) (Kogan 2015, ch. 3 §5.2 no. 18) | Kogan 2015, ch. 3 §5.2 no. 18 |  |
+| Syrian Aramaic | ʕny (pa.) (Kogan 2015, ch. 3 §5.2 no. 18) | Kogan 2015 ch. 3 §5.2 no. 18 |  |
+| Arabic | ɣny (II) (Kogan 2015, ch. 3 §5.2 no. 18) | Kogan 2015 ch. 3 §5.2 no. 18 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

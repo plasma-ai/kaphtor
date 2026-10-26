@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ṭnf (SD 153; Biella 220); (Sabaweb lemma 1870) | SD 153; Biella 220; Sabaweb lemma 1870 | gloss withheld |
+| Epigraphic South Arabian | Sab ṭnf (SD 153; Biella 220) (Sabaweb lemma 1870) | SD 153; Biella 220; Sabaweb lemma 1870 | gloss withheld |
 | Arabic | Ar ṭanaf (Lane 1886; Biella 220). | Lane 1886; Biella 220 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

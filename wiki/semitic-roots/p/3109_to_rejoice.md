@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*pŝḥ |
 | Meaning | 'to rejoice' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1951 |
 
 ## Reflexes
 

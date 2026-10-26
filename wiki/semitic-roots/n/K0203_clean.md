@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | naqû 'pour (a libation)' | Anderson–Moser 2024 root nqy |  |
 | Arabic | naqiya 'pure' | Anderson–Moser 2024 root nqy |  |
 | Hebrew | naqah 'empty' | Anderson–Moser 2024 root nqy |  |
-| Ugaritic | nqy (CUC; DULAT 632) | CUC; DULAT 632 | gloss withheld |
+| Ugaritic | nqy (CUC; DULAT 632) | CUC; DULAT 632; Anderson–Moser 2024 root nqy | gloss withheld |
 | Syrian Aramaic | mnēqītā (HALOT 603) | HALOT 603 | gloss withheld |
 | Mandaic Aramaic | nāqitā (HALOT 603) | HALOT 603 |  |
 | Judaic Aramaic | nqh (HALOT 720) | HALOT 720 |  |

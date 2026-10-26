@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ḫeṭ 2 |  |  |
-| Akkadian | ḫaṭāṭu 1 |  |  |
+| Akkadian | ḫaṭāṭu 1 (CAD Ḫ 152) | CAD Ḫ 152 | gloss withheld |
 | Harsusi | ḫtat 2 |  |  |
 | Arabic | ḫṭṭ \[-u-\] 2 (Lane 759) | Lane 759 |  |
 | Syrian Aramaic | ḥaṭ 'dig, dig out; sew; plough' (Payne Smith 137) | Payne Smith 137 |  |

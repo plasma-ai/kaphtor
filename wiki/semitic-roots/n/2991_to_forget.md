@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2991_to_forget
 title: "*nVšVy-: 'to forget'"
-desc: "Proto-Semitic *nVšVy-, 'to forget': reflexes in 13 language(s)."
+desc: "Proto-Semitic *nVšVy-, 'to forget': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2991"
@@ -41,12 +41,11 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʾanaḥsäyä (LGz. 395) | LGz. 395 | gloss withheld |
 | Mehri | nehū (LGz. 403) | LGz. 403 |  |
 | Jibbali | nše (LGz. 403) | LGz. 403 |  |
-| Akkadian | mašû (CAD M/1 397) | CAD M/1 397 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-HALOT 603 lists Manasseh under this verb, after Gen 41:51 'God has made me forget' (naššanî). HALOT 729 II נשׁה 'lend on interest' is only a cross-reference.
+HALOT 603 lists Manasseh under this verb, after Gen 41:51 'God has made me forget' (naššanî). HALOT 729 II נשׁה 'lend on interest' is only a cross-reference. Akkadian mašû 'to forget' (CAD M/1 397) has m for \*n.
 
 <!-- END kaphtor:record -->

@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/N/NU_TI
 title: "NU-TI"
-desc: "nuti: officer/administrative heading—stands before personnel allocation lists. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+desc: "nuti: townsmen, citizens (heading before the logogram for men); rival Semitic nātîn 'those given'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "vocabulary"]
 kind: "word"
 form: "NU-TI"
 datasets: ["lexicon", "onomasticon"]
-tier: 3
-confidence: "PROBABLE"
-confidence_score: 0.65
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.5
 reading: "nuti"
 attestations: ["ZA9", "HT84"]
 created: 2026-10-24T16:17:50Z
@@ -27,20 +27,25 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**PROBABLE**, tier 3 of 4, score 0.65
+**CANDIDATE**, tier 2 of 4, score 0.50
 
 | Field | Value |
 |---|---|
 | Reading | nuti |
-| Meaning | officer/administrative heading—stands before personnel allocation lists |
-| Root | unresolved |
-| Language layer | unclassified |
+| Meaning | townsmen, citizens (heading before the logogram for men); rival Semitic nātîn 'those given' |
+| Language layer | Middle Egyptian |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-Fixed cross-site heading position: ZA9 opens NU-TI 𐄁 before a five-name allocation list (RA, RO-SI-RA, A-TA-NA-\[·\], \[·\]-MA-JU, WI-RA-RE-MI-TE with QI+SI/\*21F quantities); HT84 has NU-TI 𐄁 immediately before the VIR+\[?\] personnel logogram. Function reading rests on position alone—root left open per KI-RO precedent. SPECULATIVE etymology √n-t-n "to give" (final -n restored): Ugaritic ytn "temple slaves" (DULAT 977) and Aramaic nātîn "temple servant" provide exact semantic parallels (institutionally assigned persons). Akkadian nudunnû confirms \*nudunn-\* nominal morphology compatible with CV spelling. Root is pan-NWS + Akkadian, absent from South Semitic. Ugaritic únt "corvée" disfavored on spelling grounds (initial /ʾu-/ predicts U-NU-TI). See ETY-009.
+HT 84 \*21F-JA-DU / NU-TI · VIR+\[?\], whole, a heading directly before the logogram for men; ZA 9 \]-NU-TI ·, broken before NU, heads an allocation list (RA, \]RO-SI-RA, A-TA-NA-\[·\], \[·\]-MA-JU, WI-RA-RE-MI-TE with QI+SI and \*21F). Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110; Wb 2, 213.1–4), n-w-t consonant for consonant, as PA-JA-RE and JA-MI-DA-RE stand on Haghia Triada lists. Rival: √n-t-n 'those given', Ugaritic ytnm 'temple slaves' (DULAT 977), Aramaic nātîn 'temple servant', which needs a final -n unwritten and mismatches the first vowel. Ugaritic únt 'corvée' would be spelled U-NU-TI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | nʾ.tjw 'townsmen; citizens', nisbe of nʾ.t 'town' (AED lemma 81110; Wb 2, 213.1–4); as a personal name Nʾ.tjw (RPN I 169.6) |
 
 ### Source
 
@@ -58,7 +63,7 @@ di Mino
 | Field | Value |
 |---|---|
 | Type | title (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
+| Affiliation | egyptian (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |
@@ -67,6 +72,6 @@ di Mino
 
 ### Note
 
-Heads ZA9 (commodity allocation list) and appears in HT122b institutional context. Cross-site (HT+ZA). Pattern: document header followed by 𐄁 then allocations. Behaves as institutional heading/title, not personal name. Etymology uncertain: possibly toponym or administrative label.
+Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110), heading HT 84 before VIR+\[?\]; ZA 9 has \]-NU-TI, broken before NU. Rival: Semitic nātîn 'those given'.
 
 <!-- END kaphtor:record -->

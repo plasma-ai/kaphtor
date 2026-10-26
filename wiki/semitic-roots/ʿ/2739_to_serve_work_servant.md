@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕabd- 'servant, slave' (BK 2, 150) | BK 2, 150 |  |
-| Akkadian | wardu (CAD A/2 243) | CAD A/2 243 | gloss withheld |
+| Arabic | ʕabd- 'servant, slave' (BK 2, 150); ʿibādat 'religious service, worship, adoration, devotion' (Lane 1936) | BK 2, 150; Lane 1936 |  |
+| Canaanite | EA ú-bu-dì, ú-bu-ud (CAD U/W 16) | CAD U/W 16 | gloss withheld |
 | Ugaritic | ʕbd (DULAT 136); /ʿabdu/ (UVST 158) | DULAT 136; UVST 158 | gloss withheld |
 | Phoenician | ʿbd (Krahmalkov 351) | Krahmalkov 351 | gloss withheld |
 | Hebrew | ʕebed (HALOT 774) | HALOT 774 | gloss withheld |
@@ -48,6 +48,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-From S11: Pan-Semitic. ʿayin-initial. One of the most productive roots for personal names across all Semitic. \| From 1150: \*ʕVbVd- 'work' (v.) seems to be a denominative
+One of the most productive roots in Semitic personal names. The verb \*ʕVbVd- 'work' may be a denominative. Akkadian wardu 'slave, servant' (CAD A/2 243) is another root.
 
 <!-- END kaphtor:record -->

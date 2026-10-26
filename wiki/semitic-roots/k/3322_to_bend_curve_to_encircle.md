@@ -29,9 +29,9 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kapāpu (CAD K 175, AHw. 442 apud SEDonline 863); kippatu (CAD K 397, AHw. 482 apud SEDonline 863); kepû (CAD K 312) | CAD K 175, AHw. 442; SEDonline 863; CAD K 397, AHw. 482; SEDonline 863; CAD K 312 | gloss withheld |
-| Hebrew | kippā (Jastrow 635 apud SEDonline 863); kpp (HALOT 493 apud SEDonline 863) | Jastrow 635; SEDonline 863; HALOT 493; SEDonline 863 | gloss withheld |
-| Judaic Aramaic | JPA kyph (DJPA 256 apud SEDonline 863); JPA kpp (DJPA 267 apud SEDonline 863) | DJPA 256; SEDonline 863; DJPA 267; SEDonline 863 | gloss withheld |
+| Akkadian | kapāpu (CAD K 175, AHw. 442 apud SEDonline 863); kippatu (CAD K 397, AHw. 482 apud SEDonline 863); kepû (CAD K 312) | CAD K 175, AHw. 442; SEDonline 863; CAD K 397, AHw. 482; CAD K 312 | gloss withheld |
+| Hebrew | kippā (Jastrow 635 apud SEDonline 863); kpp (HALOT 493 apud SEDonline 863) | Jastrow 635; SEDonline 863; HALOT 493 | gloss withheld |
+| Judaic Aramaic | JPA kyph (DJPA 256 apud SEDonline 863); JPA kpp (DJPA 267 apud SEDonline 863) | DJPA 256; SEDonline 863; DJPA 267 | gloss withheld |
 | Syrian Aramaic | kpy (LSyr. 323, SL 642 apud SEDonline 863); kpā (Payne Smith 222); kap (Payne Smith 221); kwp (Payne Smith 210) | LSyr. 323, SL 642; SEDonline 863; Payne Smith 222; Payne Smith 221; Payne Smith 210 | gloss withheld |
 | Mandaic Aramaic | kup, kpa, kpp (MD 208 apud SEDonline 863) | MD 208; SEDonline 863 | gloss withheld |
 

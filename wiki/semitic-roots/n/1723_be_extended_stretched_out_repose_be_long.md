@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nwḫ |  | gloss withheld |
-| Akkadian | nâḫu |  |  |
+| Akkadian | nâḫu A (CAD N/1 143); nēḫiš (CAD N/2 150) | CAD N/1 143; CAD N/2 150 | gloss withheld |
 | Tigre | näwwäḥa |  | gloss withheld |
 | Mandaic Aramaic | niaha |  |  |
 | Ugaritic | nwḫ |  |  |
 | Geez | nwḫ, nuḫat |  | gloss withheld |
 | Hebrew | nwḥ |  |  |
-| Syrian Aramaic | nwḥ |  |  |
+| Syrian Aramaic | nwḥ 'to rest, cease' (Payne Smith 331); nīḥāʾīt 'gently, placidly, softly' (Payne Smith 338) | Payne Smith 331; Payne Smith 338 |  |
 | Tigrinya | näwwiḥ |  | gloss withheld |
 | Phoenician | nḥ (Krahmalkov 327); mnḥ (T 186) | Krahmalkov 327; T 186 | gloss withheld |
 | Amorite | nwḫ: janūḫ, nāḫum, nīḫum, nīḫatum (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |

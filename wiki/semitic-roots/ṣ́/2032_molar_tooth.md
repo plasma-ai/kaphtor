@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | SAB ʔḍrs1 \[SD 42; Sabaweb lemma 4078\] (broken pl.) | SD 42; Sabaweb lemma 4078 |  |
 | Syrian Aramaic | ʕaršā \[Brock 551\]. | Brock 551 |  |
 | Harsusi | məẑreḥ (SED I 246) | SED I 246 |  |
-| Mehri | məẑrāḥ (Kogan 2015, ch. 2 §4.2 no. 60) | Kogan 2015, ch. 2 §4.2 no. 60 |  |
+| Mehri | məẑrāḥ (Kogan 2015, ch. 2 §4.2 no. 60) | Kogan 2015 ch. 2 §4.2 no. 60 |  |
 | Amharic | ṭərs (LGz. 153) | LGz. 153 | gloss withheld |
 | Argobba | ṭərs (LGz. 153) | LGz. 153 | gloss withheld |
 | Harari | ṭirsi (LGz. 153) | LGz. 153 | gloss withheld |

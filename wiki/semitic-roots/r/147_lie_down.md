@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/147_lie_down
 title: "*rbʕ: 'lie down'"
-desc: "Proto-Semitic *rbʕ, 'lie down': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rbʕ, 'lie down': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "147"
@@ -31,15 +31,21 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | East Ethiopic | Wol. rebate |  |  |
-| Hebrew | rbʕ | SEDonline semet 871 |  |
+| Hebrew | rbʕ; rābaṣ (BDB 918; HALOT 1181) | BDB 918; HALOT 1181 | gloss withheld |
 | Judaic Aramaic | rbʿ (HALOT 1180; DJPA 514b apud CAL) | HALOT 1180; DJPA 514b; CAL |  |
 | Syrian Aramaic | RBA (HALOT 1180; Payne Smith 526) | HALOT 1180; Payne Smith 526 |  |
 | Mandaic Aramaic | RBA (HALOT 1180; Drower/Macuch 422b apud CAL) | HALOT 1180; Macuch 422b; CAL |  |
+| Akkadian | rabāṣu (CAD R 10); rabṣu (CAD R 26) | CAD R 10; CAD R 26; Anderson–Moser 2024 root rbḍ | gloss withheld |
+| Arabic | rabaḍa 'lay' (Lane 1011) | Lane 1011; Anderson–Moser 2024 root rbḍ |  |
+| Ugaritic | rbṣ (DUL 720 apud SEDonline 315) | DUL 720; SEDonline 315; Anderson–Moser 2024 root rbḍ | gloss withheld |
+| Harsusi | rebōẑ (HL 102 apud SEDonline 315) | HL 102; SEDonline 315 | gloss withheld |
+| Jibbali | rɔ̄ẓ̂ (SEDonline 315) | SEDonline 315 | gloss withheld |
+| Mehri | rəbūẑ (ML 314 apud SEDonline 315) | ML 314; SEDonline 315 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Arabic rabbaʕa 'to quadruple' and tarabbaʕa 'to sit cross-legged' belong to 2913 \*ʾarbaʕ- 'four' (OLA80 §35.34 derives them from the numeral).
+SEDonline 315 sets Aramaic rbʕ under PS \*rbṣ̂ 'to lie down, to rest (mostly of animals)' with Akkadian rabāṣu, Hebrew rbṣ and Arabic rbḍ; HALOT 1180 likewise takes Aramaic rbʿ as the reflex of the root of Hebrew rbṣ and Arabic rabaḍa (Kaufman 1974, 107 n. 381), and Hebrew rbʿ as an Aramaic loanword (Wagner 276). Arabic rabbaʕa 'to quadruple' and tarabbaʕa 'to sit cross-legged' belong to 2913 \*ʾarbaʕ- 'four' (OLA80 §35.34 derives them from the numeral).
 
 <!-- END kaphtor:record -->

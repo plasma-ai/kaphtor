@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʾaṣḥaru (HALOT 1019) | HALOT 1019 | gloss withheld |
-| Syrian Aramaic | ṣåḥar; ṣuḥḥār (HALOT 1019) | HALOT 1019 | gloss withheld |
+| Arabic | ʾaṣḥaru (HALOT 1019); ṣuḥrat, ṣaḥar (Lane 1654) | HALOT 1019; Lane 1654 | gloss withheld |
+| Syrian Aramaic | ṣåḥar; ṣuḥḥār (HALOT 1019); ṣūḥār (Payne Smith 475) | HALOT 1019; Payne Smith 475 | gloss withheld |
 | Ugaritic | ṣ-ḥ-r-r (CUC; DULAT 771; HALOT 1019) | CUC; DULAT 771; HALOT 1019 | gloss withheld |
 | Hebrew | \*ṣḥr, \*ṣāḥōr (HALOT 1019) | HALOT 1019 | gloss withheld |
 | Mandaic Aramaic | ṣḥr, ṣaḥur, ṣuhar (HALOT 1019) | HALOT 1019 |  |

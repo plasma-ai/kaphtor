@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | azaru (azzaru) OB on \[CAD a2 527\], \[AHw. 92\] | CAD a2 527; AHw. 92; Landsberger Fauna 87; Salonen Jagd 186 | gloss withheld |
+| Akkadian | azaru (azzaru) OB on \[CAD a2 527\], \[AHw. 92\] | CAD a2 527; AHw. 92 | gloss withheld |
 | Geez | ʔanzar \[LGz. 34\] | LGz. 34 | gloss withheld |
 | Arabic | ʔazram- \[Hava 12\] | Hava 12 |  |
 

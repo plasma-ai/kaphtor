@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0735_wise
 title: "*ḥVnVk-: 'wise'"
-desc: "Proto-Semitic *ḥVnVk-, 'wise': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḥVnVk-, 'wise': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0735"
@@ -29,7 +29,6 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | emēqu 'be(come) wise' | Anderson–Moser 2024 root ʿmq |  |
 | Arabic | ḥanaka 'bridled' | Anderson–Moser 2024 root ḥnk |  |
 | Aramaic | ḤNK 'train' | Anderson–Moser 2024 root ḥnk |  |
 | Geez | ḥanaka 'understand' | Anderson–Moser 2024 root ḥnk |  |

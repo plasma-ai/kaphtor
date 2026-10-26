@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | bośem, bẹśẹm (LGz. 110) | LGz. 110 | gloss withheld |
-| Arabic | bašām (LGz. 110) | LGz. 110 | gloss withheld |
+| Hebrew | bośem, bẹśẹm (LGz. 110) (HALOT 163) | LGz. 110; HALOT 163 | gloss withheld |
+| Arabic | bašām (LGz. 110) (Lane 209) (HALOT 163) | LGz. 110; Lane 209; HALOT 163 | gloss withheld |
 | Aramaic | būsmā (LGz. 110) | LGz. 110 |  |
-| Syrian Aramaic | besmā (LGz. 110) | LGz. 110 |  |
+| Syrian Aramaic | besmā (LGz. 110) (Payne Smith 49) | LGz. 110; Payne Smith 49 | gloss withheld |
 | Phoenician | bšm (LGz. 110) | LGz. 110 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

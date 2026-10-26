@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | rabaḍ- 'intestines' \[BK 1 805\]; cf. rubḍ- 'middle (of anything)' \[ibid.\]. | BK 1 805; ibid. |  |
+| Arabic | rabaḍ- 'intestines' \[BK 1 805\]; cf. rubḍ- 'middle (of anything)' \[ibid.\]. | BK 1 805 |  |
 | Akkadian | rubṣu (in lex. = rēmu) \[AHw 991, 970\] (under rēmu) | AHw 991, 970 | gloss withheld |
 | Mandaic Aramaic | marba \[DM 251\] | DM 251 | gloss withheld |
 | Syrian Aramaic | marbǝʕā 'uterus' \[Brock 709-710\] | Brock 709-710 |  |

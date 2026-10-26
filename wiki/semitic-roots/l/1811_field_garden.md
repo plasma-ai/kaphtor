@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ladīdat- 'garden covered in greenery and flowers' (BK 2, 982; with a meaning shift?) | BK 2, 982 |  |
-| Akkadian | ludû, an administrative designation of a field OB on (CAD L 238); (AHw 561; &lt;\*lVdw/y-) | CAD L 238; AHw 561 | gloss withheld |
+| Arabic | ladīdat- 'garden covered in greenery and flowers' (BK 2, 982) | BK 2, 982 |  |
+| Akkadian | ludû OB on (CAD L 238) (AHw 561) | CAD L 238; AHw 561 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

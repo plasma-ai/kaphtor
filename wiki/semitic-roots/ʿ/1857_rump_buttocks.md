@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕaǧb- 'the sacrum (bone)' \[BK 2 174\]; cf. also ʔa-ʕǧab- 'that has protruding buttocks' \[ibid.\] | BK 2 174; ibid. |  |
-| Soqotri | QADHUB maʕgǝ́boh, NOGED máʕgebɔh \[SSL LS 1451\] (with ma- prefixed); maˁgéboʰ (SLOnline 3227) | SSL LS 1451 | gloss withheld |
+| Arabic | ʕaǧb- 'the sacrum (bone)' \[BK 2 174\]; cf. also ʔa-ʕǧab- 'that has protruding buttocks' \[ibid.\] | BK 2 174 |  |
+| Soqotri | QADHUB maʕgǝ́boh, NOGED máʕgebɔh \[SSL LS 1451\]; maˁgéboʰ (SLOnline 3227) | SSL LS 1451; SLOnline 3227 | gloss withheld |
 | Hebrew | PB ʕăgābā 'rump, buttocks' \[Ja 1040\] | Ja 1040 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

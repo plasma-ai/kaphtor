@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʿābūr; ba-ʿābūr (OLA80 §59.3) | OLA80 §59.3 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿbr (SD 11; Biella 350, 351); (Sabaweb lemma 8069) | SD 11; Biella 350, 351; Sabaweb lemma 8069 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿbr (SD 11; Biella 350, 351) (Sabaweb lemma 8069) | SD 11; Biella 350, 351; Sabaweb lemma 8069 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

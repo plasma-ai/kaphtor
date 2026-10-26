@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | mátni; mətōni \[JM 268\] | JM 268 |  |
 | Harsusi | emtōni \[JH 89\] | JH 89 |  |
 | Jibbali | mútni \[JJ 172\] | JJ 172 |  |
-| Soqotri | Qalan.-V. méni \[SSL 4 89\] (an Arabism?); moténe \[LS 246\] | SSL 4 89; LS 246 | gloss withheld |
+| Soqotri | Qalan.-V. méni \[SSL 4 89\]; moténe \[LS 246\] | SSL 4 89; LS 246 | gloss withheld |
 | East Ethiopic | SEL tämēñe, WOL tämeññe, ZWY tämäñī (SED I 302) | SED I 302 | gloss withheld |
 | Gafat | (tä)miňňä (LGz. 352) | LGz. 352 |  |
 

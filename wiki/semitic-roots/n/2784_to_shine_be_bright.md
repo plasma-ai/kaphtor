@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ngh |  |  |
 | Ugaritic | ngh |  | gloss withheld |
-| Hebrew | nōgah (HALOT 667); nᵉgōhōt (HALOT 667) | HALOT 667; HALOT 667 | gloss withheld |
+| Hebrew | nōgah (HALOT 667); nᵉgōhōt (HALOT 667) | HALOT 667 | gloss withheld |
 | Aramaic | ngh (CAL s.v. ngh) | CAL s.v. ngh |  |
 | Amorite | ngh: nagihum, nagiha, nighatum, jangih (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
-| Geez | nagha (Kogan 2011, 196) | Kogan 2011, 196 | gloss withheld |
-| Jibbali | ənghɔ́t (Kogan 2011, 196) | Kogan 2011, 196 | gloss withheld |
-| Soqotri | nigóhoh (Kogan 2011, 196) | Kogan 2011, 196 | gloss withheld |
-| Syrian Aramaic | ngah (Kogan 2015, ch. 2 §4.2 no. 41) | Kogan 2015, ch. 2 §4.2 no. 41 | gloss withheld |
+| Geez | nagha (Kogan 2011, 196) | Kogan 2011 196 | gloss withheld |
+| Jibbali | ənghɔ́t (Kogan 2011, 196) | Kogan 2011 196 | gloss withheld |
+| Soqotri | nigóhoh (Kogan 2011, 196) | Kogan 2011 196 | gloss withheld |
+| Syrian Aramaic | ngah (Kogan 2015, ch. 2 §4.2 no. 41); Aphel ʔagah (Payne Smith 3) | Kogan 2015 ch. 2 §4.2 no. 41; Payne Smith 3 | gloss withheld |
 | Mandaic Aramaic | nga, nihga (LGz. 391) | LGz. 391 |  |
 | Tigre | nägha (LGz. 391) | LGz. 391 |  |
 | Tigrinya | näghe (LGz. 391) | LGz. 391 |  |

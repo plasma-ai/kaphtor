@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/y/3276_to_wake_be_awake_be_alert
 title: "*yḳṯ̣: 'to wake, be awake, be alert'"
-desc: "Proto-Semitic *yḳṯ̣, 'to wake, be awake, be alert': reflexes in 4 language(s)."
+desc: "Proto-Semitic *yḳṯ̣, 'to wake, be awake, be alert': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3276"
@@ -30,9 +30,11 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | yḳɣ (DUL 976 apud SEDonline 1438) | DUL 976; SEDonline 1438 | gloss withheld |
-| Hebrew | ḳyṣ (HALOT 1098 apud SEDonline 1438); yḳṣ (HALOT 431 apud SEDonline 1438) | HALOT 1098; SEDonline 1438; HALOT 431; SEDonline 1438 | gloss withheld |
+| Hebrew | ḳyṣ (HALOT 1098 apud SEDonline 1438); yḳṣ (HALOT 431 apud SEDonline 1438) | HALOT 1098; SEDonline 1438; HALOT 431 | gloss withheld |
 | Arabic | yqḏ̣ (LA 7 527 apud SEDonline 1438) | LA 7 527; SEDonline 1438 | gloss withheld |
 | Soqotri | táḳiṭ (LS 444; CSOL I 675; CSOL II 610 apud SEDonline 1438) | LS 444; SEDonline 1438 | gloss withheld |
+| Jibbali | túḳəḏ̣ (Kogan 2015, ch. 8 §3.4.2 no. 11) | Kogan 2015 ch. 8 §3.4.2 no. 11 | gloss withheld |
+| Mehri | tōḳəḏ̣ (Kogan 2015, ch. 8 §3.4.2 no. 11) | Kogan 2015 ch. 8 §3.4.2 no. 11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

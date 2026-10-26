@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | tabin-; tabānat- BK 1 193; ṭabin- id. BK 2 58 (&lt; Sem. \*ṭbb LGz 585). | BK 1 193; BK 2 58; LGz 585 | gloss withheld |
+| Arabic | tabin-; tabānat- BK 1 193; ṭabin- BK 2 58. | BK 1 193; BK 2 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,8 +34,8 @@ updated: 2026-10-25T06:28:07Z
 | Hebrew | šnh (HALOT 1598) | HALOT 1598 | gloss withheld |
 | Ugaritic | ṯny (HALOT 1598) | HALOT 1598 | gloss withheld |
 | Judaic Aramaic | tǝnāʾ (HALOT 1598) | HALOT 1598 | gloss withheld |
-| Syrian Aramaic | tnā 'to repeat, recite, tell' (Payne Smith 616) | Payne Smith 616 |  |
-| Arabic | ṯanā; II (HALOT 1598) | HALOT 1598 | gloss withheld |
+| Syrian Aramaic | tnā 'to repeat, recite, tell'; tenyā 'repetition'; tenyānā 'iteration, repetition, recitation' (Payne Smith 616) | Payne Smith 616 |  |
+| Arabic | ṯanā; II (HALOT 1598); ṯannā (Lane 357); ṯinan, ṯunan (Lane 358) | HALOT 1598; Lane 357; Lane 358 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

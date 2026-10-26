@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ʾLY (CAL s.v. ʾly) | CAL s.v. ʾly | gloss withheld |
+| Aramaic | ʾLY (CAL s.v. ʾly) | CAL s.v. ʾly; Anderson–Moser 2024 root ʾly | gloss withheld |
 | Hebrew | ʾalah 'lament' | Anderson–Moser 2024 root ʾly |  |
 | Arabic | ʾalla (HALOT 51) | HALOT 51 | gloss withheld |
 | Syrian Aramaic | ʔelā 'to mourn, lament, howl' (Payne Smith 17) | Payne Smith 17 |  |

@@ -33,10 +33,14 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǯummat- 'tuft of hair' \[BK 1 322\]. | BK 1 322 |  |
 | Tigre | gǝmmät \[LH 568\]. | LH 568 | gloss withheld |
 | East Ethiopic | ZWY gamma, SEL gäme, WOL gämi \[LGur 275\] | LGur 275 | gloss withheld |
-| Gurage | EZ̆A gama, GYE gam̱a, CHA MUH gamma, ENN gāmma, END gāmmä, MSQ GOG gammä, SOD gʷamme do. \[LGur 275\]; also END gämmām \[ibid.\]. | LGur 275; ibid. | gloss withheld |
+| Gurage | EZ̆A gama, GYE gam̱a, CHA MUH gamma, ENN gāmma, END gāmmä, MSQ GOG gammä, SOD gʷamme \[LGur 275\]; also END gämmām \[ibid.\]. | LGur 275 | gloss withheld |
 | Amharic | gamma \[K 1906\] | K 1906 | gloss withheld |
 | Tigrinya | gammä 'a kind of crown of hair that is left uncut or braided around the head of boys and girls' \[Bass 819\] | Bass 819 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Har. gāmma 'mane' is a Cushitic loan (Ga. Sid. gamma, Som. Sa. Af. gama; LHar 72).
 
 <!-- END kaphtor:record -->

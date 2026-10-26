@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RA_JU_U_DE_ZA
 title: "A-RA-JU-U-DE-ZA"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "A-RA-JU-U-DE-ZA"
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 HT122b .3 A-RA-JU-U-DE-ZẠ, ZA dotted, the numeral partly restored, at the head of the line after .2 breaks off (GORILA I 209). The ending matches U-DE-ZA (HT122a .1). Sole attestation. Not readable.
 

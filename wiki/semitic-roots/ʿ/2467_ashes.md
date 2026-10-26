@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | tumr- |  |  |
-| Ugaritic | ʕmr |  |  |
+| Ugaritic | ʕmr (Kogan 2015, ch. 5 §2.1.2 no. 2) | Kogan 2015 ch. 5 §2.1.2 no. 2 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

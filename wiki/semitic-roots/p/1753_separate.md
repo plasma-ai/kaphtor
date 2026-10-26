@@ -32,12 +32,12 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | frz \[-i-\] (Lane 2365) | Lane 2365 |  |
 | Mehri | ferōz |  |  |
-| Soqotri | féroz (SLOnline 3758) |  | gloss withheld |
+| Soqotri | féroz (SLOnline 3758) | SLOnline 3758 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-SEDonline 1769 sets Mehri fərūz, Jibbali férɔ́z 'to palpate, to massage' and Soq. féroz under PWS \*prz 'to break' (EDA I 312), with Mand. prz 'to break through' and Gz. tafarzaza 'to burst forth, to crack open'.
+SEDonline 1769 sets Mehri fərūz, Jibbali férɔ́z and Soq. féroz under PWS \*prz 'to break' (EDA I 312), with Mand. prz and Gz. tafarzaza.
 
 <!-- END kaphtor:record -->

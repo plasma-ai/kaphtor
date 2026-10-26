@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | LQŠ (CAL s.v. lqš) | CAL s.v. lqš | gloss withheld |
-| Hebrew | laqaš 'glean' (BDB 545) | BDB 545 |  |
+| Aramaic | LQŠ (CAL s.v. lqš) | CAL s.v. lqš; Anderson–Moser 2024 root lqš | gloss withheld |
+| Hebrew | laqaš 'glean' (BDB 545) | BDB 545; Anderson–Moser 2024 root lqš |  |
 | Arabic | laqasa (HALOT 536) | HALOT 536 |  |
 | Judaic Aramaic | malqōšā (HALOT 594) | HALOT 594 | gloss withheld |
 | Syrian Aramaic | laqeš 'bring forth or gather late fruit' (Payne Smith 245) | Payne Smith 245 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0095_like
 title: "*kVmVw-: 'like'"
-desc: "Proto-Semitic *kVmVw-, 'like': reflexes in 15 language(s)."
+desc: "Proto-Semitic *kVmVw-, 'like': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0095"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | kīma 'like' | Anderson–Moser 2024 root kmw |  |
 | Geez | kama 'just' | Anderson–Moser 2024 root kmw |  |
+| Punic | km 'like' | Anderson–Moser 2024 root kmw |  |
 | Ugaritic | km (HALOT 481) | HALOT 481 |  |
 | Arabic | kamā (HALOT 481) | HALOT 481 |  |
 | Syrian Aramaic | ʾakmā (HALOT 481) | HALOT 481 |  |
@@ -40,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | km (T 143) | T 143 | gloss withheld |
 | Hebrew | kəmō (LGz. 285) | LGz. 285 |  |
 | Tigrinya | käm (LGz. 285) | LGz. 285 | gloss withheld |
-| Argobba | kämäy (lit.) (LGz. 285) | LGz. 285 | gloss withheld |
+| Argobba | kämäy (LGz. 285) | LGz. 285 | gloss withheld |
 | Gurage | (yä)--käma, (yä)--kom (LGz. 285) | LGz. 285 |  |
 | East Ethiopic | Zwy. hum (EDG 342 apud SEDonline 1389) | EDG 342; SEDonline 1389 | gloss withheld |
 | Judaic Aramaic | kəmā (HALOT 481) | HALOT 481 |  |

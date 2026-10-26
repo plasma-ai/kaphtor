@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḥeṭat \[HALOT 307\] | HALOT 307 | gloss withheld |
 | Biblical Aramaic | ḥnṭh \[HALOT 307\] | HALOT 307 | gloss withheld |
 | Mandaic Aramaic | hṭyʾ, hṭytʾ (MdD 140b, 143a) \[HALOT 307\] | HALOT 307 | gloss withheld |
-| Mehri | ḥəṭāt (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
+| Mehri | ḥəṭāt (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

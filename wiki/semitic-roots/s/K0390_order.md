@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | sadāru 'place in order' | Anderson–Moser 2024 root sdr |  |
-| Aramaic | SDR (Aramaic Root Atlas; Qumran 164 apud CAL) | Aramaic Root Atlas; CAL | gloss withheld |
+| Aramaic | SDR (Aramaic Root Atlas; Qumran 164 apud CAL) | Aramaic Root Atlas; CAL; Anderson–Moser 2024 root sdr | gloss withheld |
 | Geez | sadara 'arrange' | Anderson–Moser 2024 root sdr |  |
 | Hebrew | \*sdr; \*sēder (HALOT 744) | HALOT 744 | gloss withheld |
 | Amharic | säddära (HALOT 744) | HALOT 744 |  |

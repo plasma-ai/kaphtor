@@ -50,6 +50,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MA_RU_ME\|MA-RU-ME]] | marūm | CANDIDATE |
 | [[wiki/linear-a/words/M/ME_KI_DI\|ME-KI-DI]] | Majd | SPECULATIVE |
 | [[wiki/linear-a/words/M/ME_VIN\|ME-VIN]] | mesek | SPECULATIVE |
+| [[wiki/linear-a/words/M/ME_ZA\|ME-ZA]] | massu | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_SA_RA_ME\|SA-SA-RA-ME]] | yaššaram | PROBABLE |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | CANDIDATE |

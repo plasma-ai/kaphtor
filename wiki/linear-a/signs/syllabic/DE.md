@@ -42,6 +42,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |

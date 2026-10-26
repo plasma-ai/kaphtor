@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3371_to_be_in_daytime
 title: "*ḳhb: 'to be in daytime'"
-desc: "Proto-Semitic *ḳhb, 'to be in daytime': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḳhb, 'to be in daytime': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3371"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ḳhb |
 | Meaning | 'to be in daytime' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1457 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | kəḥēb (ML 226 apud SEDonline 1457) | ML 226; SEDonline 1457 | gloss withheld |
 | Jibbali | ḳɛhɛ́b (JL 142 apud SEDonline 1457) | JL 142; SEDonline 1457 | gloss withheld |
+| Soqotri | ḳóhob (Kogan 2015, ch. 8 §3.4.1 no. 58) | Kogan 2015 ch. 8 §3.4.1 no. 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

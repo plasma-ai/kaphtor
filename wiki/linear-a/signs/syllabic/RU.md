@@ -44,6 +44,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | SPECULATIVE |
 | [[wiki/linear-a/words/star/star401_plus_RU\|\*401+RU]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | PROBABLE |
+| [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |
@@ -62,9 +63,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_plus_JA_plus_RU\|MI+JA+RU]] | murru | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | CANDIDATE |
+| [[wiki/linear-a/words/P/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | CANDIDATE |
 | [[wiki/linear-a/words/R/RU_DI\|RU-DI]] | rūdī | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_KA\|RU-KA]] | ruqāq | SPECULATIVE |
+| [[wiki/linear-a/words/R/RU_MA\|RU-MA]] | Rūma | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
 | [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | SPECULATIVE |

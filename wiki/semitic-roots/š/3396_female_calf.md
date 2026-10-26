@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3396_female_calf
 title: "*šaṭar-: 'female calf'"
-desc: "Proto-Semitic *šaṭar-, 'female calf': reflexes in 2 language(s)."
+desc: "Proto-Semitic *šaṭar-, 'female calf': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3396"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*šaṭar- |
 | Meaning | 'female calf' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1529 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ḥōṭər (ML 192 apud SEDonline 1529) | ML 192; SEDonline 1529 | gloss withheld |
 | Jibbali | šɔ́ṭər (JL 264 apud SEDonline 1529) | JL 264; SEDonline 1529 | gloss withheld |
+| Soqotri | šáṭar (Kogan 2015, ch. 8 §3.4.1 no. 109) | Kogan 2015 ch. 8 §3.4.1 no. 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -43,6 +43,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT113 .2 WI-SA ·\[, both signs whole and undotted at the head of the line, a divider after SA. .1 breaks off after RA-RI-DE\[, and GORILA's tabular copy sets \] before the word (GORILA I 185). Sole attestation. No reading.
+HT113 .2 WI-SA ·\[, both signs whole and undotted at the head of the line, a divider after SA. .1 breaks off after RA-RI-DE\[. GORILA's tabular copy sets \] before the word (GORILA I 185), but the drawing and the photograph show the tablet's left edge whole beside WI (GORILA I 184). Sole attestation. No reading.
 
 <!-- END kaphtor:record -->

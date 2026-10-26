@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez gʷāsaya 'tend cattle' LGz 205: &lt;Tna?. SED adds Tigre (?) gʷasa 'shepherd' from the compiler's files (not in LH, LGz, LGur).
+Geez gʷāsaya 'tend cattle' may come from Tigrinya (LGz. 205).
 
 <!-- END kaphtor:record -->

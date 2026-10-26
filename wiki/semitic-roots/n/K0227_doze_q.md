@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | naʕasa 'drowsed' (Lane 2815) | Lane 2815 |  |
+| Arabic | naʕasa 'drowsed' (Lane 2815) | Lane 2815; Anderson–Moser 2024 root nʿs |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | meŝnâ quoted in LGz. 532 after Bittner, but having a different meaning in JM | LGz. 532 | gloss withheld |
+| Mehri | meŝnâ quoted in LGz. 532 after Bittner | LGz. 532 | gloss withheld |
 | Tigre | sänni |  | gloss withheld |
 | Geez | ŝanāy |  | gloss withheld |
 | Tigrinya | sännäyä (LGz. 532) | LGz. 532 | gloss withheld |

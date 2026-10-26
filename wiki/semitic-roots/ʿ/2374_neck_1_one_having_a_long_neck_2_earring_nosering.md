@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕunǯūǯ- 2 BK 2 381 | BK 2 381 |  |
-| Tigre | ʔangät 1 LGz 65; ʔ- instead of the expected \*ʕ- | LGz 65 |  |
+| Tigre | ʔangät 1 LGz 65 | LGz 65 |  |
 | Eblaitic | in-gu /ʕingu(m)/ or /ʕinḳu(m)/ Conti Ebl 143; Bla Ebl 10 | Bla Ebl 10 |  |
 | East Ethiopic | Sel Wol Zw angät 1 LGur 63 | LGur 63 |  |
 | Geez | ʕang, ʕanag 3 LGz 64 | LGz 64 |  |

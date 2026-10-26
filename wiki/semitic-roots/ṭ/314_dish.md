@@ -34,4 +34,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Lane 1852 derives ṭast, ṭass from Persian ṭašt.
+
 <!-- END kaphtor:record -->

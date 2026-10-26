@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/c̣/2472_dust_ashes
 title: "*c̣abal-: 'dust, ashes'"
-desc: "Proto-Semitic *c̣abal-, 'dust, ashes': reflexes in 6 language(s)."
+desc: "Proto-Semitic *c̣abal-, 'dust, ashes': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2472"
@@ -30,7 +30,6 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | BK--- |  |  |
 | Tigre | č̣äbäl, č̣ablay |  | gloss withheld |
 | Geez | ṣābāl LGz 546 | LGz 546 | gloss withheld |
 | Amharic | ṭäbäl |  | gloss withheld |

@@ -31,11 +31,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳurḥat- 'small white mark on a horse's forehead' \[BK 2 707\]. | BK 2 707 |  |
-| Tigre | ḳärḥit \[LH 239\]; ḳǝruḥ \[ibid.\] | LH 239; ibid. | gloss withheld |
+| Tigre | ḳärḥit \[LH 239\]; ḳǝruḥ \[ibid.\] | LH 239 | gloss withheld |
 | Gurage | SOD ḳʷärrärä, ḳorara \[LGur 500\] | LGur 500 | gloss withheld |
 | Hebrew | ḳrḥ (HALOT 1140); ḳorḥā (HALOT 1141) | HALOT 1140; HALOT 1141 | gloss withheld |
-| Judaic Aramaic | ḳǝraḥ \[Ja 1415\], ḳurḥătā, ḳūraḥtā \[ibid. 1416\]; ḳrḥ \[DJPA 504a apud CAL\], ḳrḥh, det. ḳrḥth \[ibid.\], ḳryḥh, det. ḳryḥth do. \[ibid. 505\] | Ja 1415; ibid. 1416; DJPA 504a; CAL; ibid.; ibid. 505 | gloss withheld |
-| Syrian Aramaic | ḳǝraḥ 'he became bald at the back of the head' \[Brock 693\], ḳurḥǝtā 'baldness' \[ibid. 694\] | Brock 693; ibid. 694 |  |
+| Judaic Aramaic | ḳǝraḥ \[Ja 1415\], ḳurḥătā, ḳūraḥtā \[ibid. 1416\]; ḳrḥ \[DJPA 504a apud CAL\], ḳrḥh, det. ḳrḥth \[ibid.\], ḳryḥh, det. ḳryḥth \[ibid. 505\] | Ja 1415; Ja 1416; DJPA 504a; CAL; CAL 505 | gloss withheld |
+| Syrian Aramaic | ḳǝraḥ 'he became bald at the back of the head' \[Brock 693\], ḳurḥǝtā 'baldness' \[ibid. 694\] | Brock 693; Brock 694 |  |
 | Tigrinya | ḳʷärḥe 'to make some mark on the forehead, etc., of an animal to recognize it' \[Bass 289\]. | Bass 289 |  |
 | Geez | qarraḥa (HALOT 1140) | HALOT 1140 |  |
 | Aramaic | CPArm. qwrḥʾ (HALOT 1141) | HALOT 1141 |  |

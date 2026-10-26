@@ -3,7 +3,9 @@
 Shoresh (`root_match.py`, `root_index.py`, `competitors.py`, `semantic_gate.py`) asks whether a Linear A sign group
 is closer to a Semitic root than chance. Its test was specified before it was run on the gold set, and the code cites
 that specification by section (§) and amendment (A). An amendment binds where it differs from a section. This page
-says what each id fixes.
+says what each id fixes; the specification itself, with its baseline and dated amendments, is
+[docs/shoresh-preregistration.md](../../docs/shoresh-preregistration.md), and how to build the index, run the command
+and read its output is [docs/shoresh-usage.md](../../docs/shoresh-usage.md).
 
 ## Sections
 

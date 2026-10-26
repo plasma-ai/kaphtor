@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḳarḳab-, ḳurḳub-, ḳurḳubb- 'belly' \[BK 2 722\] | BK 2 722 |  |
 | Hebrew | PB ḳorḳǝbān 'the thick muscular stomach of birds, craw' \[Ja 1344\] | Ja 1344 |  |
-| Judaic Aramaic | ḳurḳǝbānā do. \[ibid.\] |  |  |
+| Judaic Aramaic | ḳurḳǝbānā \[ibid.\] |  |  |
 | Syrian Aramaic | ḳarḳǝbānā, ḳurḳǝbānā 'throat, crop (of a bird)' \[Brock 700\] | Brock 700 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

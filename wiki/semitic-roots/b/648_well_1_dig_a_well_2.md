@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | barbir (LGz. 102; LLA 503 apud SEDonline 534) | LGz. 102; LLA 503; SEDonline 534 | gloss withheld |
 | Mehri | bayr (ML 40 apud SEDonline 534) | ML 40; SEDonline 534 | gloss withheld |
 | Syrian Aramaic | bir 'a well, a pit' (Payne Smith 34, 54) | Payne Smith 34, 54 |  |
-| Soqotri | ʿébehor (Kogan 2011, 192) | Kogan 2011, 192 | gloss withheld |
+| Soqotri | ʿébehor (Kogan 2011, 192) | Kogan 2011 192 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

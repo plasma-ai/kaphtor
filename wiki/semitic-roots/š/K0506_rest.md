@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sabata 'rested' (Lane 1287) | Lane 1287 |  |
-| Aramaic | ŠBT (Aramaic Root Atlas; CAL s.v. šbt) | Aramaic Root Atlas; CAL s.v. šbt | gloss withheld |
-| Hebrew | šabat 'cease' (BDB 991) | BDB 991 |  |
+| Arabic | sabata 'rested' (Lane 1287) | Lane 1287; Anderson–Moser 2024 root šbt |  |
+| Aramaic | ŠBT (Aramaic Root Atlas; CAL s.v. šbt) | Aramaic Root Atlas; CAL s.v. šbt; Anderson–Moser 2024 root šbt | gloss withheld |
+| Hebrew | šabat 'cease' (BDB 991) | BDB 991; Anderson–Moser 2024 root šbt |  |
 | Punic | šbt: wlšbt (T 313) | T 313 | gloss withheld |
 | Ugaritic | šbt 'stop' | Anderson–Moser 2024 root šbt |  |
 | Phoenician | šbt (T 313) | T 313 | gloss withheld |

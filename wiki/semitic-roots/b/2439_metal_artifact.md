@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | burt- 'axe; arrow' BK 1 105, burat- 'iron ring that is passed through the camel's nostril, and that serves as a bridle' ibid. 119 | BK 1 105 |  |
-| Akkadian | bi/ertu a/j B, m/n A AHw 129; (bronze, iron) CAD b 254-5. | AHw 129; CAD b 254 | gloss withheld |
+| Akkadian | bi/ertu a/j B, m/n A AHw 129; CAD b 254-5. | AHw 129; CAD b 254 | gloss withheld |
 | Geez | bǝrt LGz 108 | LGz 108 | gloss withheld |
 | Gurage | brät, bräd |  | gloss withheld |
 | Amharic | bǝrt, brät |  | gloss withheld |

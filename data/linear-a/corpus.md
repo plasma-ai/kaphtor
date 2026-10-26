@@ -5,7 +5,7 @@ desc: One record per Linear A inscription or face, with its object, findspot, ed
 tags: [data, linear-a, corpus]
 license: CC BY-NC-SA 4.0 AND CC BY 4.0
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-10-26T21:18:27Z
 ---
 
 `corpus.json` is an object keyed by record id (`HT88`, `IOZa2`, `HT123+124a`). A record is one inscription, or one
@@ -29,6 +29,7 @@ records under other editions, GORILA records without a label, unresolved and mer
 | `merged_records` | second records of the same object, folded into this one, each kept as a snapshot |
 | `source`, `status` | the edition of a text published after GORILA, and `incomplete` where the text is partial |
 | `imageRights` | the holder of the photographs, which are not reproduced here |
+| `visual_evidence` | on the 84 records whose photograph or facsimile is missing from [inscription_image_files.json](inscription_image_files.json) or from the image archive: where one is published, each `{kind, source, locator}` (`photograph` or `drawing`, the edition, its page, plate or catalogue number) or a SigLA drawing's `url`; `[]` where none was found |
 
 Readings and translations are in [lexicon.json](lexicon.json) and [translations.json](translations.json), keyed by
 the same ids. A record's `notes` may discuss how a word is read, as epigraphic commentary.

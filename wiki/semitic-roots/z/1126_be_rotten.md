@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/1126_be_rotten
 title: "*zVnaḫ-: 'be rotten'"
-desc: "Proto-Semitic *zVnaḫ-, 'be rotten': reflexes in 1 language(s)."
+desc: "Proto-Semitic *zVnaḫ-, 'be rotten': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1126"
@@ -30,7 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | znḫ \[-a-\] |  |  |
+| Arabic | znḫ \[-a-\]; zaniḫa (HALOT 276) | HALOT 276 | gloss withheld |
+| Hebrew | znḥ hif. (HALOT 276) | HALOT 276 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

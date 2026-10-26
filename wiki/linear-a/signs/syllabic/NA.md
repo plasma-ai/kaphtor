@@ -49,7 +49,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]] | ʾakmina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | ʿAnānu | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | PROBABLE |
+| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-rāpiʾ-rinnā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-āna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_NA\|A-TA-NA]] | ʾAtanat | PROBABLE |
@@ -95,6 +95,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | \[…\]-pi-minate | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
+| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt(ē) | CANDIDATE |

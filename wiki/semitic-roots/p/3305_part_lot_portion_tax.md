@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Aramaic | Nab. ps (DNWSI 921 apud SEDonline 1966) | DNWSI 921; SEDonline 1966 | gloss withheld |
-| Judaic Aramaic | JPA psˀ (DJPA 334 apud SEDonline 1966); JBA paysā (DJBA 900 apud SEDonline 1966) | DJPA 334; SEDonline 1966; DJBA 900; SEDonline 1966 | gloss withheld |
+| Judaic Aramaic | JPA psˀ (DJPA 334 apud SEDonline 1966); JBA paysā (DJBA 900 apud SEDonline 1966) | DJPA 334; SEDonline 1966; DJBA 900 | gloss withheld |
 | Syrian Aramaic | pessā (LSyr. 580, SL 1208 apud SEDonline 1966) | LSyr. 580, SL 1208; SEDonline 1966 | gloss withheld |
 | Geez | tafāsasa (CDG 168 apud SEDonline 1966) | CDG 168; SEDonline 1966 | gloss withheld |
 | Tigre | fäsäs (WTS 662 apud SEDonline 1966) | WTS 662; SEDonline 1966 | gloss withheld |

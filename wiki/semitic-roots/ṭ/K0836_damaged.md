@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṭalasa 'effaced' (Lane 1866) | Lane 1866 |  |
+| Arabic | ṭalasa 'effaced' (Lane 1866) | Lane 1866; Anderson–Moser 2024 root ṭlš |  |
 | Aramaic | ṬLŠ 'stained' | Anderson–Moser 2024 root ṭlš |  |
 | Geez | ṭalsa 'charred' | Anderson–Moser 2024 root ṭlš |  |
 | Amharic | ṭälläsä (LGz. 592) | LGz. 592 | gloss withheld |

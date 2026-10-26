@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2798_cut_short
 title: "*gVmad-: 'cut short'"
-desc: "Proto-Semitic *gVmad-, 'cut short': reflexes in 8 language(s)."
+desc: "Proto-Semitic *gVmad-, 'cut short': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2798"
@@ -29,7 +29,6 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | gōmed (BDB 167; HALOT 196) | BDB 167; HALOT 196 | gloss withheld |
 | Geez | g-m-d 'cut, amputate' (Dillmann 08334; Dillmann 08335) | Dillmann 08334; Dillmann 08335 |  |
 | Arabic | ǧamada (LGz. 194) | LGz. 194 | gloss withheld |
 | Soqotri | ʾegmed (LGz. 194) | LGz. 194 | gloss withheld |
@@ -39,5 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | gämmädä, gʷämmädä (LGz. 194) | LGz. 194 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Hebrew gōmed 'short cubit' (BDB 167; HALOT 196) is 2941 (SED I 129).
 
 <!-- END kaphtor:record -->

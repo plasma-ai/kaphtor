@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ʕdg |
 | Meaning | 'to suck' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 426 |
 
 ## Reflexes
 

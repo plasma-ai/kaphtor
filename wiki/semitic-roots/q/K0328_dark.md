@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | qaḏara 'was unclean, dirty' (Lane 2498) | Lane 2498 |  |
-| Aramaic | QDR (CAL s.v. qdr) | CAL s.v. qdr | gloss withheld |
-| Ugaritic | qdr (CUC; DULAT 685) | CUC; DULAT 685 | gloss withheld |
+| Arabic | qaḏara 'was unclean, dirty' (Lane 2498) | Lane 2498; Anderson–Moser 2024 root qḏr |  |
+| Aramaic | QDR (CAL s.v. qdr) | CAL s.v. qdr; Anderson–Moser 2024 root qḏr | gloss withheld |
+| Ugaritic | qdr (CUC; DULAT 685) | CUC; DULAT 685; Anderson–Moser 2024 root qḏr | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

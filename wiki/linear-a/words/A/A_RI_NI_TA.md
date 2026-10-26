@@ -58,8 +58,15 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | ʾarīnīt | She-of-the-Lion (priestess or cult title), 1 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | ʾarīnīt | She-of-the-Lion (priestess or cult title), 1\[ | CANDIDATE |
 
 ## Onomasticon
 

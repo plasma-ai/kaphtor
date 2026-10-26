@@ -32,11 +32,11 @@ updated: 2026-10-25T06:28:07Z
 |---|---|---|---|
 | Arabic | lubān- (BK 2, 962); lubnā (HALOT 518) | BK 2, 962; HALOT 518 | gloss withheld |
 | Mehri | lbōn |  |  |
-| Soqotri | libn-on; ḷébhon (SLOnline 7795) |  | gloss withheld |
+| Soqotri | libn-on; ḷébhon (SLOnline 7795) | SLOnline 7795 | gloss withheld |
 | Akkadian | lubbunu (CAD L 231) | CAD L 231 | gloss withheld |
 | Ugaritic | lbn /labanu/ (UVST 142) | UVST 142 | gloss withheld |
 | Phoenician | lbn (T 155) | T 155 | gloss withheld |
-| Jibbali | lūn |  |  |
+| Jibbali | lūn (Kogan 2015, ch. 8 §3.2.2.1 no. 97) | Kogan 2015 ch. 8 §3.2.2.1 no. 97 |  |
 | Hebrew | lābān; libneh (HALOT 518) | HALOT 518 | gloss withheld |
 | Epigraphic South Arabian | lbnt (HALOT 518); Sab lbny (SD 81) | HALOT 518; SD 81 | gloss withheld |
 | Mandaic Aramaic | lubana (HALOT 518) | HALOT 518 | gloss withheld |
@@ -44,7 +44,7 @@ updated: 2026-10-25T06:28:07Z
 | Amorite | lbn: labanum, labnum, labbinum (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
 | Judaic Aramaic | labnaʾ (T 155); lebūntaʾ (T 156) | T 155; T 156 | gloss withheld |
 | Syrian Aramaic | lebuntaʾ (T 156) | T 156 | gloss withheld |
-| Aramaic | Off. lbwnh (DNWSI 564 apud SEDonline 1796); CPA lbwnh, lybwnh (DCPA 193 apud SEDonline 1796); Sam. lbwnh (DSA 425 apud SEDonline 1796) | DNWSI 564; SEDonline 1796; SEDonline 1796; SEDonline 1796 | gloss withheld |
+| Aramaic | Off. lbwnh (DNWSI 564 apud SEDonline 1796); CPA lbwnh, lybwnh (DCPA 193 apud SEDonline 1796); Sam. lbwnh (DSA 425 apud SEDonline 1796) | DNWSI 564; SEDonline 1796; DSA 425 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

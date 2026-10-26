@@ -36,7 +36,7 @@ updated: 2026-10-25T05:11:48Z
 | Epigraphic South Arabian | Min. mhr (LM 60 apud SEDonline 1285) | LM 60; SEDonline 1285 | gloss withheld |
 | Mehri | mēhər (ML 262 apud SEDonline 1285) | ML 262; SEDonline 1285 | gloss withheld |
 | Jibbali | mɛ́hər (ML 169 apud SEDonline 1285) | ML 169; SEDonline 1285 | gloss withheld |
-| Soqotri | máhar (LS 239; Wehr 929; CSOL II 533 apud SEDonline 1285) | LS 239; SEDonline 1285 | gloss withheld |
+| Soqotri | máhar (LS 239; Wehr 929; CSOL II 533 apud SEDonline 1285) | LS 239; Wehr 929; SEDonline 1285 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

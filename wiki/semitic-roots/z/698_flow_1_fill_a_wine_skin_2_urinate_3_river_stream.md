@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | zwb 1, zbb \[-u-\] 2 (Lane 1208), ʔzb 1 \[i\] 1 (Lane 52) | Lane 1208; Lane 52 |  |
+| Arabic | zwb 1, zbb \[-u-\] 2 (Lane 1208), ʔzb 1 \[-i-\] 1 (Lane 52) | Lane 1208; Lane 52 |  |
 | Mandaic Aramaic | zaba 4 |  |  |
 | Geez | ʔazaba; ʔastaʔazaba (LGz. 52) | LGz. 52 | gloss withheld |
 | Amharic | azaba (LGz. 52) | LGz. 52 |  |

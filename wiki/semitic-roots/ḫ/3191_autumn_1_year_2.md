@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3191_autumn_1_year_2
 title: "*ḫVrp-: 'autumn' 1, 'year' 2"
-desc: "Proto-Semitic *ḫVrp-, 'autumn' 1, 'year' 2: reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḫVrp-, 'autumn' 1, 'year' 2: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3191"
@@ -29,14 +29,15 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḫarpu (Kogan 2011, 197) | Kogan 2011, 197 |  |
-| Hebrew | ḥōräp (Kogan 2011, 197) | Kogan 2011, 197 |  |
-| Arabic | ḫarīf- (Kogan 2011, 197) | Kogan 2011, 197 | gloss withheld |
-| Epigraphic South Arabian | ḫrf (Kogan 2011, 197) | Kogan 2011, 197 | gloss withheld |
-| Geez | ḫarif (Kogan 2011, 197) | Kogan 2011, 197 | gloss withheld |
-| Mehri | ḫarf (Kogan 2011, 197) | Kogan 2011, 197 |  |
-| Jibbali | ḫɔrf (Kogan 2011, 197) | Kogan 2011, 197 |  |
-| Soqotri | ḥorf (Kogan 2011, 197) | Kogan 2011, 197 |  |
+| Akkadian | ḫarpu (Kogan 2011, 197) | Kogan 2011 197 |  |
+| Hebrew | ḥōräp (Kogan 2011, 197; HALOT 356) | Kogan 2011 197; HALOT 356 |  |
+| Arabic | ḫarīf- (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
+| Epigraphic South Arabian | ḫrf (Kogan 2011, 197; Sabaweb lemma 1379) (SD 62; Biella 211; Sabaweb lemma 1387) | Kogan 2011 197; Sabaweb lemma 1379; SD 62; Biella 211; Sabaweb lemma 1387 | gloss withheld |
+| Geez | ḫarif (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
+| Mehri | ḫarf (Kogan 2011, 197) | Kogan 2011 197 |  |
+| Jibbali | ḫɔrf (Kogan 2011, 197) | Kogan 2011 197 |  |
+| Soqotri | ḥorf (Kogan 2011, 197) | Kogan 2011 197 |  |
+| Pre-Islamic North Arabian | Safaitic ḫrf; ḫrf (D-stem) (Al-Jallad–Jaworska 81) | Al-Jallad–Jaworska 81 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

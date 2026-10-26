@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*pṭʕ |
 | Meaning | 'to be naked' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1492 |
 
 ## Reflexes
 

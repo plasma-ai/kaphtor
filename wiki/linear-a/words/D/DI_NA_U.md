@@ -62,7 +62,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT16\|HT16]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb27\|KNZb27]] | Knossos | Clay vessel | complete |
 
 ## In translations
@@ -71,6 +71,8 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Dīnāyu | personal name, hypocoristic of a √d-y-n name ('Judge') | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Dīnāyu | personal name, 1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb27\|KNZb27]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') |  |
 
 ## Onomasticon

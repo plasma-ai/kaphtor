@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/SA139_EXERCISE_CONTROL_OVER_RESTRAIN
 title: "*ʾpḳ: 'EXERCISE CONTROL OVER, RESTRAIN'"
-desc: "Epigraphic South Arabian headword *ʾpḳ, 'EXERCISE CONTROL OVER, RESTRAIN': reflexes in 1 language(s)."
+desc: "Epigraphic South Arabian headword *ʾpḳ, 'EXERCISE CONTROL OVER, RESTRAIN': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA139"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ʾfq (SD 2; Biella 25; Sabaweb lemma 3507) | SD 2; Biella 25; Sabaweb lemma 3507 | gloss withheld |
+| Hebrew | ʾpq hitp. (Gn 43:31; 45:1; Is 42:14) (HALOT 80) | HALOT 80 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

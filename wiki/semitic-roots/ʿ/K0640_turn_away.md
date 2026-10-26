@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕanada 'turned' | Anderson–Moser 2024 root ʿnd |  |
-| Aramaic | ʿND (Aramaic Root Atlas; CAL s.v. ʿnd) | Aramaic Root Atlas; CAL s.v. ʿnd | gloss withheld |
+| Aramaic | ʿND (Aramaic Root Atlas; CAL s.v. ʿnd) | Aramaic Root Atlas; CAL s.v. ʿnd; Anderson–Moser 2024 root ʿnd | gloss withheld |
 | Syrian Aramaic | ʕnad 'depart, fail, be wanting' (Payne Smith 419) | Payne Smith 419 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

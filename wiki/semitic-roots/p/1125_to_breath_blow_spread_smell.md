@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fḥḥ 'to hiss (said of snakes); to whistle while sleeping (said of a man)' \[BK 2 547\]; fwḥ 'to spread perfume (said of an aroma)', II 'to exhale (a smell)' \[ibid. 644\] | BK 2 547; ibid. 644 |  |
+| Arabic | fḥḥ 'to hiss (said of snakes); to whistle while sleeping (said of a man)' \[BK 2 547\]; fwḥ 'to spread perfume (said of an aroma)', II 'to exhale (a smell)' \[ibid. 644\] | BK 2 547; BK 644 |  |
 | Tigre | fǝḥot \[LH 654\] | LH 654 | gloss withheld |
 | Hebrew | pwḥ (HALOT 916, 917), ypḥ (hitp) (HALOT 424); PB paḥ, pǝḥī \[Ja 1151, 1152\] | HALOT 916, 917; HALOT 424; Ja 1151, 1152 | gloss withheld |
 | Judaic Aramaic | pwḥ 'to blow, evaporate' \[Ja 1140\]. | Ja 1140 |  |

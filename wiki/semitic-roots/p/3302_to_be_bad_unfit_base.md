@@ -23,13 +23,14 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*psl |
 | Meaning | 'to be bad, unfit, base' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1875 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Judaic Aramaic | JPA psl (DJPA 440 apud SEDonline 1875); JBA psl (DJBA 918 apud SEDonline 1875) | DJPA 440; SEDonline 1875; DJBA 918; SEDonline 1875 | gloss withheld |
+| Judaic Aramaic | JPA psl (DJPA 440 apud SEDonline 1875); JBA psl (DJBA 918 apud SEDonline 1875) | DJPA 440; SEDonline 1875; DJBA 918 | gloss withheld |
 | Arabic | fsl (Lane 2398 apud SEDonline 1875) | Lane 2398; SEDonline 1875 | gloss withheld |
 | Mehri | fəsōl (ML 103 apud SEDonline 1875) | ML 103; SEDonline 1875 | gloss withheld |
 

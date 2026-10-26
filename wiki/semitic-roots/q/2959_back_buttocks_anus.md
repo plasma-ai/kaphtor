@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ḳin-, \*ḳayn- |
 | Meaning | 'back, buttocks, anus' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II additions to SED I |
 
 ## Reflexes
 
@@ -39,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED II, additions to SED I (unnumbered). Tgr. ḳənṭ 'vulva; lower or back part' belongs here if its ṭ is the feminine -t emphasized (byform ḳänt; cf. PS \*ḳaš-t- 'bow' &gt; Chr.-Pal. ḳašṭā, Jib. ḳɔ́š̃uṭ 'rainbow'), or else with SED I No. 163 (DB 2347) \*ḳanṭ-ā/īr-. Cf. Amh. ḳiṭ 'buttocks, anus' (unless a Cushitism), Tur. ḳūṭo, NSyr. ḳūṭā (a Kurdish loan per Maclean): perhaps &lt; \*ḳVn-t- or \*ḳinṭ- (SED II 333). Not 303 \*ḳinīn- 'bottle'.
+Not 303 \*ḳinīn- 'bottle'.
 
 <!-- END kaphtor:record -->

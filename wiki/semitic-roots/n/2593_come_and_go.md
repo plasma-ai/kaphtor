@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nkʕ 'leave, go away, move off' (BK 2 1343) | BK 2 1343 |  |
-| Mehri | nūkaʕ |  | gloss withheld |
-| Soqotri | nkʕ |  | gloss withheld |
+| Mehri | nūkaʕ (Kogan 2015, ch. 8 §3.4.1 no. 77) | Kogan 2015 ch. 8 §3.4.1 no. 77 | gloss withheld |
+| Soqotri | nkʕ (Kogan 2015, ch. 8 §3.4.1 no. 77) | Kogan 2015 ch. 8 §3.4.1 no. 77 | gloss withheld |
 | Harsusi | nōka |  | gloss withheld |
-| Jibbali | nikaʕ |  | gloss withheld |
+| Jibbali | nikaʕ (Kogan 2015, ch. 8 §3.4.1 no. 77) | Kogan 2015 ch. 8 §3.4.1 no. 77 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

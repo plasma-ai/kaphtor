@@ -45,7 +45,7 @@ Single-sign commodity logogram, possibly denoting flour or ground grain. PS \*pa
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA12a\|ZA12a]] | Zakros | Tablet | none |
@@ -58,6 +58,8 @@ Single-sign commodity logogram, possibly denoting flour or ground grain. PS \*pa
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT8a\|HT8a]] | ba/pa | abbreviation (sub-category) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] |  | crushed, ground (flour) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT25a\|HT25a]] |  | single sign with 1 |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] |  | roster category logogram (unread) |  |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | — | Logogram/abbreviation (unresolved) |  |
 

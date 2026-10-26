@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*gāḥiy- |
 | Meaning | 'plain, valley' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 453 |
 
 ## Reflexes
 

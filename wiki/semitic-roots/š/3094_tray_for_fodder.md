@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*šVṭp-at- |
 | Meaning | 'tray for fodder' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1528 |
 
 ## Reflexes
 
@@ -31,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | šəṭfēt (ML 396 apud SEDonline 1528) | ML 396; SEDonline 1528 | gloss withheld |
 | Jibbali | s̃əṭfét (JL 267 apud SEDonline 1528) | JL 267; SEDonline 1528 | gloss withheld |
-| Soqotri | šeṭfeh (Kogan 2015:571 apud SEDonline 1528) | Kogan 2015:571; SEDonline 1528 | gloss withheld |
+| Soqotri | šeṭfeh (Kogan 2015:571 apud SEDonline 1528) | Kogan 2015 571; SEDonline 1528 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

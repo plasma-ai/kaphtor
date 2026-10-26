@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 436" src="https://img.shields.io/badge/translations-436-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 532 entries" src="https://img.shields.io/badge/lexicon-532%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 340" src="https://img.shields.io/badge/names-340-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,177" src="https://img.shields.io/badge/Semitic%20roots-4,177-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 442" src="https://img.shields.io/badge/translations-442-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 566 entries" src="https://img.shields.io/badge/lexicon-566%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 333" src="https://img.shields.io/badge/names-333-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,276" src="https://img.shields.io/badge/Semitic%20roots-4,276-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 38" src="https://img.shields.io/badge/sign%20values-38-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
@@ -125,9 +125,11 @@ given. The record holds 38 sign values: 5 resolved (2 phonemic, 3 logograms) and
 logograms). The fraction signs are counted apart: 3 resolved and 11 proposed.
 
 Linear A has no proof kernel. Counts, distributions, arithmetic and reproducibility are checked mechanically.
-Segmentation, sound correspondence and meaning stay graded and open to revision. Every Semitic match is rescored
-against Luwian, Egyptian and Hurrian roots, and the margin between them is reported. [Confidence](docs/confidence.md)
-gives the tests in full.
+Segmentation, sound correspondence and meaning stay graded and open to revision. When the three rival-language files
+(the Luwian, Egyptian and Hurrian roots) are in the checkout, every Semitic match is rescored against them and,
+where each rival gives a p-value, the margin is reported. Without them `root_match.py` stops and names the first
+missing file, and under `--no-competitors` no word can reach `CONVERGENT`. [Confidence](docs/confidence.md) gives
+the tests in full.
 
 ## Using the skills
 
@@ -196,8 +198,11 @@ the data from another folder.
   - `semitic-roots/`: one page per root, `<radical>/<id>_<slug>.md`
   - `aegean/`: `eteocretan/`
 - `data/`: the datasets, each with a datasheet or manifest giving its licence and sources
-  - `linear-a/`: the corpus, sign values, lexicon, onomasticon, translations, unread words and the Eteocretan sets
+  - `linear-a/`: the corpus, sign values, lexicon, onomasticon, translations, unread words, the Eteocretan sets and
+    the rival-language root keys
   - `semitic-roots/`: the root database
+  - `contact/`: the open contact lexica the root index links to the roots (Hebrew, Aramaic, Amarna Canaanite,
+    Syriac, Akkadian)
   - `ane/`: open-licence ancient Near East datasets, such as the ORACC Akkadian literary glossary and PNM v6
   - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts and Trismegistos Geo, kept apart
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
@@ -249,7 +254,15 @@ out below and in the `license` key of each datasheet:
   lineara.xyz, which states no licence. Our corrections and added layers are CC BY 4.0. The underlying texts keep
   their sources' terms. `data/linear-a/sigla-sign-map.json` is SigLA's sign list and stays under CC BY-NC-SA 4.0.
 - **Share-alike data.** The files in `data/share-alike/` remain under CC BY-SA 4.0, and anything derived from them
-  carries the same terms.
+  carries the same terms. Three more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
+  `data/linear-a/egyptian_roots.json` and `luwian_roots.json`, which hold entries from Wiktionary, and
+  `data/contact/syriac_lexicon.jsonl`, drawn from Wiktionary's Classical Syriac entries.
+- **Rival-language keys and contact lexica.** The Egyptian, Luwian and Hurrian root files give each form, its key and
+  its source labels, with no meaning. Most Luwian forms come from the Annotated Corpus of Luwian Texts and The
+  Indo-European Database, which state no licence; `data/linear-a/rival-roots.md` sets out their terms. The contact
+  lexica in `data/contact/` hold only rows and fields from open sources, among them ORACC's Amarna and CAMS/GKAB
+  glossaries, which its open-data download releases under CC0; their datasheets name what the private build adds, why it is not here,
+  and the known limits of each source.
 - **The fonts.** The fonts in `assets/fonts/` are under the SIL Open Font License 1.1.
 - **Withheld material.** Sources that cannot be redistributed are not shipped; the tools that read them name the path
   they looked for. Scanned books are not included.

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | turb-, turb-at-, turāb- (Lane 301) | Lane 301 |  |
 | Akkadian | tarbuʔtu |  |  |
-| Hebrew | Cf. robaʕ id. |  |  |
+| Hebrew | Cf. robaʕ |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

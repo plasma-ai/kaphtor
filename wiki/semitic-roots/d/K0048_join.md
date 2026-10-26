@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | dubbuqu 'join' | Anderson–Moser 2024 root dbq |  |
 | Arabic | dabiqa 'stuck' | Anderson–Moser 2024 root dbq |  |
-| Aramaic | DBQ (Aramaic Root Atlas; DNWSI 238 apud CAL) | Aramaic Root Atlas; DNWSI 238; CAL | gloss withheld |
+| Aramaic | DBQ (Aramaic Root Atlas; DNWSI 238 apud CAL) | Aramaic Root Atlas; DNWSI 238; CAL; Anderson–Moser 2024 root dbq | gloss withheld |
 | Geez | ṭabaqa 'glue' | Anderson–Moser 2024 root dbq |  |
-| Hebrew | dabaq 'cling' (BDB 179) | BDB 179 |  |
+| Hebrew | dabaq 'cling' (BDB 179) | BDB 179; Anderson–Moser 2024 root dbq |  |
 | Syrian Aramaic | debqā (HALOT 209; Payne Smith 82) | HALOT 209; Payne Smith 82 | gloss withheld |
 | Soqotri | ṭbq (LGz. 586) | LGz. 586 |  |
 | Mandaic Aramaic | dbq (LGz. 586; Drower/Macuch 101b apud CAL) | LGz. 586; Macuch 101b; CAL |  |

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | faḥm- 'charcoal', faḥīm- 'very black; charcoal', BK II 551 | BK II 551 |  |
-| Soqotri | fḥam; fḥö́moʰ, pl. fḥam (SLOnline 3688) |  | gloss withheld |
+| Soqotri | fḥam; fḥö́moʰ, pl. fḥam (SLOnline 3688) | SLOnline 3688 | gloss withheld |
 | Akkadian | pēntu |  |  |
 | Tigre | fäḥam |  | gloss withheld |
 | Ugaritic | pḥm |  | gloss withheld |
@@ -43,8 +43,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | fǝḥmi |  | gloss withheld |
 | Punic | pḥm (HALOT 924; T 263) | HALOT 924; T 263 | gloss withheld |
 | Gurage | fem (LGz. 157) | LGz. 157 |  |
-| Aramaic | pḥm (Aramaic Root Atlas; CAL s.v. pḥm) | Aramaic Root Atlas; CAL s.v. pḥm | gloss withheld |
-| Epigraphic South Arabian | MIN mfḥm (Kogan 2011, 195); (Sabaweb lemma 6159) | Kogan 2011, 195; Sabaweb lemma 6159 | gloss withheld |
+| Aramaic | pḥm (Aramaic Root Atlas; CAL s.v. pḥm) | Aramaic Root Atlas; CAL s.v. pḥm; Anderson–Moser 2024 root pḥm | gloss withheld |
+| Epigraphic South Arabian | MIN mfḥm (Kogan 2011, 195) (Sabaweb lemma 6159) | Kogan 2011 195; Sabaweb lemma 6159 | gloss withheld |
 | East Ethiopic | Sel. fīm, Wol. fim (EDG 232 apud SEDonline 552) | EDG 232; SEDonline 552 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḍarʕ- 'udder' \[BK 2 23\]; ḍarrat-. | BK 2 23 |  |
 | Akkadian | ṣertu, ṣerretu, ṣirtu OB, SB \[CAD ṣ 209\], \[AHw 1093\] | CAD ṣ 209; AHw 1093 | gloss withheld |
 | Tigre | (?) ṣärǝʕ \[LH 637\]. | LH 637 | gloss withheld |
-| Geez | (?) ṣarāʕt, ṣarāʔit \[LGz 563\]; cf. ṣǝrʕe \[ibid.\]. | LGz 563; ibid. | gloss withheld |
+| Geez | (?) ṣarāʕt, ṣarāʔit \[LGz 563\]; cf. ṣǝrʕe \[ibid.\]. | LGz 563 | gloss withheld |
 | Syrian Aramaic | ṣerʕā 'breast, full of milk' \[Brock 638\] | Brock 638 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

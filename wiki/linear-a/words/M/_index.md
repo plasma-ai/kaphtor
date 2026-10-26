@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:37Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/M
@@ -25,9 +25,9 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/M/MA_KI_DE_TE|MA_KI_DE_TE]]: Majdat: personal name, 'glory' (feminine). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_RE|MA_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MA_RE|MA_RE]]: mārē: lord, master (title, an entry in a KI-RO roster); rival a personal name. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_RE_RI_MI_DE|MA_RE_RI_MI_DE]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MA_RE_RI_MI_DE|MA_RE_RI_MI_DE]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/M/MA_RI|MA_RI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -55,7 +55,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/M/MA_TI_TI|MA_TI_TI]]: mattitt(u): gift. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA_TI_ZA_I_TE]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA_TI_ZA_I_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/M/MA_ZA|MA_ZA]]: mazza: corvée workers, labour gang (personnel term). Lexicon, SPECULATIVE (tier 1).
 
@@ -69,7 +69,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/M/ME_VIN|ME_VIN]]: mesek: mixed wine (wine-section heading); rival 'must'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/ME_ZA|ME_ZA]]: Unread (role only): administrative roster label; 2 occurrence(s).
+[[wiki/linear-a/words/M/ME_ZA|ME_ZA]]: massu: corvée gang, labour gang (personnel term); the word of MA-ZA. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MI_DA_NI|MI_DA_NI]]: matni: loin, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1).
 

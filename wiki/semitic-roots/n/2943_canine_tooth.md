@@ -23,14 +23,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*nayab- |
 | Meaning | 'canine tooth' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I No. 203 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | (?) nayabtu; nayyābu (von Soden) (SED I 180) | SED I 180 | gloss withheld |
-| Hebrew | pB. nīb šəpātayim, lit. (SED I 180) | SED I 180 | gloss withheld |
+| Hebrew | pB. nīb šəpātayim (SED I 180) | SED I 180 | gloss withheld |
 | Judaic Aramaic | nībā; nyb (SED I 180) | SED I 180 | gloss withheld |
 | Syrian Aramaic | nībā, nābā (SED I 180) | SED I 180 | gloss withheld |
 | Modern Aramaic | NASS nīvä (SED I 180) | SED I 180 | gloss withheld |
@@ -41,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED I No. 203. Leslau calls Tgr. nib an Arabism, though the vocalism differs (SED I 180). Not 2181 \*nāb-, \*nib(b)- 'louse, nit', a different etymon on the same consonants.
+Not 2181 \*nāb-, \*nib(b)- 'louse, nit', a different etymon on the same consonants.
 
 <!-- END kaphtor:record -->

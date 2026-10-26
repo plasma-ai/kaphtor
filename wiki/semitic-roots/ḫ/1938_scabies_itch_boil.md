@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫašifa 'to be eaten away by scabies' \[BK 1 576\] | BK 1 576 |  |
-| Geez | ḫǝŝaf \[LGz 266\]; ḫaŝafa (and ḥasafa) \[ibid.\] | LGz 266; ibid. | gloss withheld |
+| Geez | ḫǝŝaf \[LGz 266\]; ḫaŝafa (and ḥasafa) \[ibid.\] | LGz 266 | gloss withheld |
 | Jibbali | ḫšfɛ́t, pl. ḫšfɛ́ʔ \[JJ 307\] | JJ 307 | gloss withheld |
 | Judaic Aramaic | ḥaspǝnītā 'scaly skin; scab, eruption' \[Ja 489\]; msḥpʔ (read mḥspʔ) 'scaly' \[Ja. 805\]. | Ja 489; Ja. 805 |  |
 | Hebrew | məḥuspās (HALOT 338) | HALOT 338 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/3405_dung_pellet
 title: "*ṯVfVr-at-: 'dung pellet'"
-desc: "Proto-Semitic *ṯVfVr-at-, 'dung pellet': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ṯVfVr-at-, 'dung pellet': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3405"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṯVfVr-at- |
 | Meaning | 'dung pellet' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1548 |
 
 ## Reflexes
 
@@ -32,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Mehri | ṯəfərīt (ML 416 apud SEDonline 1548) | ML 416; SEDonline 1548 | gloss withheld |
 | Jibbali | ṯfírét (JL 283 apud SEDonline 1548) | JL 283; SEDonline 1548 | gloss withheld |
 | Modern South Arabian | Bathari ṯfərēt (Gasparini - Morris 2025 91 apud SEDonline 1548) | SEDonline 1548 | gloss withheld |
+| Soqotri | tfɛ́re (Kogan 2015, ch. 8 §3.4.1 no. 126) | Kogan 2015 ch. 8 §3.4.1 no. 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

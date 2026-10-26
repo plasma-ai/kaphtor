@@ -29,15 +29,15 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḫaḫḫu (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Syrian Aramaic | ḥaḥḥā, ḥōḥā (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Arabic | ḫawḫ- (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Geez | ḫoḫ (Kogan 2011, 204) | Kogan 2011, 204 |  |
+| Akkadian | ḫaḫḫu (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Syrian Aramaic | ḥaḥḥā, ḥōḥā (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Arabic | ḫawḫ- (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Geez | ḫoḫ (Kogan 2011, 204) | Kogan 2011 204 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Fronzaroli reconstructs PS \*ḫāḫ- 'plum-tree' (Kogan 2011, 204); terms for '(thorn-)bush' (Hbr. ḥōaḥ, Syr. ḥōḥā, Tgr. ḥaḥot, Tna. ḥeḥot) are possibly related. Not 1755 \*ḫawḫ- 'hole, aperture'.
+Fronzaroli reconstructs PS \*ḫāḫ- 'plum-tree' (Kogan 2011, 204); terms for '(thorn-)bush' (Hbr. ḥōaḥ, Syr. ḥōḥā, Tgr. ḥaḥot, Tna. ḥeḥot) are possibly related (3662). Not 1755 \*ḫawḫ- 'hole, aperture'.
 
 <!-- END kaphtor:record -->

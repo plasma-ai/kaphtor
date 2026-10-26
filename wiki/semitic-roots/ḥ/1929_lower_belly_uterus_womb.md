@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ḥamṯ \[JM 182\] | JM 182 | gloss withheld |
-| Soqotri | ḥánt \[LS 183\] (n &lt; \*m before -t) | LS 183 | gloss withheld |
+| Soqotri | ḥánt \[LS 183\] | LS 183 | gloss withheld |
 | Akkadian | emšu, enšu, imšu OB, SB \[CAD e 153\], \[AHw 215\] | CAD e 153; AHw 215 | gloss withheld |
 | Harsusi | ḥamṯ \[JH 60\] | JH 60 | gloss withheld |
 | Tigre | ḥǝms \[LH 61\] | LH 61 | gloss withheld |
@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | ǝms \[K 1126\] | K 1126 | gloss withheld |
 | Syrian Aramaic | ḥumšā 'abdomen, omasum' \[Brock 242\]. | Brock 242 |  |
 | Tigrinya | ḥəmsi (LGz. 235) | LGz. 235 |  |
-| Ugaritic | ḥmṯ (DULAT 360) | DULAT 360 | gloss withheld |
-| Argobba | həms (AAD 312 apud SEDonline 724) | SEDonline 724 | gloss withheld |
+| Ugaritic | ḥmṯ (DULAT 360) | DULAT 360; Anderson–Moser 2024 root ḥmṯ | gloss withheld |
+| Argobba | həms (AAD 312 apud SEDonline 724) | AAD 312; SEDonline 724 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

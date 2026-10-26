@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṯ̣aḥam |
 | Meaning | 'urine' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1923 |
 
 ## Reflexes
 

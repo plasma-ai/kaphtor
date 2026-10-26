@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0618_set_aside
 title: "*ʾVṣVl-: 'set-aside'"
-desc: "Proto-Semitic *ʾVṣVl-, 'set-aside': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʾVṣVl-, 'set-aside': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0618"
@@ -29,10 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ʾṢL (CAL s.v. ʾṣl#2) | CAL s.v. ʾṣl#2 | gloss withheld |
+| Aramaic | ʾṢL (CAL s.v. ʾṣl#2) | CAL s.v. ʾṣl#2; Anderson–Moser 2024 root ʾṣl | gloss withheld |
 | Hebrew | ʾaṣal 'lay' | Anderson–Moser 2024 root ʾṣl |  |
 | Punic | ʾṣl 'beside' | Anderson–Moser 2024 root ʾṣl |  |
-| Ugaritic | ʾṣl '(be)' | Anderson–Moser 2024 root ʾṣl |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

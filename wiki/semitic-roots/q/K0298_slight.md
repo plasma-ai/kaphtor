@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | qalālu (CAD Q 55) | CAD Q 55 | gloss withheld |
-| Arabic | qalla 'small' (Lane 2992) | Lane 2992 |  |
-| Aramaic | QLL (Aramaic Root Atlas; CAL s.v. qll) | Aramaic Root Atlas; CAL s.v. qll | gloss withheld |
+| Akkadian | qalālu (CAD Q 55) | CAD Q 55; Anderson–Moser 2024 root qll | gloss withheld |
+| Arabic | qalla 'small' (Lane 2992) | Lane 2992; Anderson–Moser 2024 root qll |  |
+| Aramaic | QLL (Aramaic Root Atlas; CAL s.v. qll) | Aramaic Root Atlas; CAL s.v. qll; Anderson–Moser 2024 root qll | gloss withheld |
 | Geez | qll 'light' | Anderson–Moser 2024 root qll |  |
-| Hebrew | qalal (HALOT 1103; BDB 886) | HALOT 1103; BDB 886 | gloss withheld |
+| Hebrew | qalal (HALOT 1103; BDB 886) | HALOT 1103; BDB 886; Anderson–Moser 2024 root qll | gloss withheld |
 | Ugaritic | /qallu/ (UVST 174) | UVST 174 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

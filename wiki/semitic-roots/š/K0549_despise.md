@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šâṭu (HALOT 1440) | HALOT 1440 | gloss withheld |
+| Akkadian | šâṭu (HALOT 1440) | HALOT 1440; Anderson–Moser 2024 root šʾṭ | gloss withheld |
 | Hebrew | II šwṭ: šāʾṭîm, šāʾṭôt (HALOT 1440); šᵉʾāṭ (HALOT 1371) | HALOT 1440; HALOT 1371 | gloss withheld |
-| Syrian Aramaic | šāṭ (HALOT 1440) | HALOT 1440 |  |
+| Syrian Aramaic | šāṭ (Payne Smith 564; HALOT 1440) | Payne Smith 564; HALOT 1440 | gloss withheld |
 | Mandaic Aramaic | ŠUṬ (HALOT 1440) | HALOT 1440 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

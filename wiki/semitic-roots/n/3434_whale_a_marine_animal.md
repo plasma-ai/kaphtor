@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*nḫr |
 | Meaning | 'whale, a marine animal' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 314 |
 
 ## Reflexes
 

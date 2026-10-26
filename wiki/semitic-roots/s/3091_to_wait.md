@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*slb |
 | Meaning | 'to wait' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1515 |
 
 ## Reflexes
 

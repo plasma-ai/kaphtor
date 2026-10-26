@@ -2,7 +2,7 @@
 """Shoresh (שֹׁרֶשׁ): is a Linear A sign group closer to a Semitic root than its own decoys, and to which root?
 
 Report-only: prints, never writes. The statistic, decoys and verdicts are pre-registered in
-tools/core/SHORESH.md (§§1-4, §6 amendments). Every result enters at SPECULATIVE. The competitor null
+docs/shoresh-preregistration.md (§§1-4, §6 amendments). Every result enters at SPECULATIVE. The competitor null
 (§2, A15) runs against Luwian, Egyptian and Hurrian on the same decoys unless --no-competitors. The semantic gate
 (§3.1, A10, A18) reads each word's attested contexts from data/linear-a/corpus.json; CONVERGENT needs p_max and the gated
 p_max under 0.01 and the competitor null run and passed. POS (§3.2) holds vacuously, since no variant is a
@@ -17,12 +17,12 @@ Usage:
   uv run tools/linear_a/root_match.py --sweep unread --top 50 --workers 8  # unread_words.json ranked by q (run on a snapshot)
 
 --sweep unread queries every entry of data/linear-a/unread_words.json, sets gold-set words aside (counted, never queried),
-ranks by Benjamini–Hochberg q and stamps the report with the sha256 of the word list and of the index (ref §7.1).
+ranks by Benjamini–Hochberg q and stamps the report with the sha256 of the word list and of the index (§7.1).
 --top is then the number of ranked rows shown; --json carries every row. A sweep is a long run: read a frozen
-snapshot (ref §7.7).
+snapshot (§7.7).
 
 --explain prints, under each cluster, the record as indexed (PS headword, meaning, every Analogues row with its
-citation), the contact lexemes that join it, those linked to it that do not ("possible cognate of N", ref §8), and
+citation), the contact lexemes that join it, those linked to it that do not ("possible cognate of N", §8), and
 under each word the lexemes with no root link at or under its d*; none of these enters d*, p or breadth. Each
 cluster also gets its sound laws: for each aligned radical of the nearest PS headword,
 the branches whose reflex (Huehnergard Table 3.2), spelled as the script would spell it, matches the Linear A sign.
@@ -38,9 +38,9 @@ of the index, of the gold set (none under --gold-run), of data/linear-a/corpus.j
 hashed from the bytes read. --top 0 shows every cluster, or every sweep row.
 
 Exit status: 0; 1 if a word had an unmapped sign (reported, never shortened); 2 if the index is stale, missing or
-changed while loading or before its Meanings were read; 3 if a word is in the gold set or the gold set is unreadable
-or malformed; 4 if data/linear-a/corpus.json is unreadable or the tagger is not the one A18 froze; 5 if
-data/linear-a/unread_words.json is not in the checkout (--sweep unread).
+changed while loading or before its Meanings were read, or a rival-language file is not in the checkout; 3 if a
+word is in the gold set or the gold set is unreadable or malformed; 4 if data/linear-a/corpus.json is unreadable or
+the tagger is not the one A18 froze; 5 if data/linear-a/unread_words.json is not in the checkout (--sweep unread).
 
 Attribution: di Mino
 """
@@ -154,14 +154,14 @@ def _one(word: str) -> dict[str, Any]:
 
 
 def unread_words(path: Path) -> tuple[list[str], str]:
-    """--sweep unread: every listed entry of data/unread_words.json, in file order, and the sha256 of the very bytes
-    parsed (ref §7.1), so a write during the sweep cannot change what the stamp names."""
+    """--sweep unread: every listed entry of data/linear-a/unread_words.json, in file order, and the sha256 of the very
+    bytes parsed (§7.1), so a write during the sweep cannot change what the stamp names."""
     raw = path.read_bytes()
     return [e["word"] for e in json.loads(raw.decode("utf-8"))["entries"]], hashlib.sha256(raw).hexdigest()
 
 
 def corpus_contexts(path: Path) -> tuple[sg.Contexts, str]:
-    """The semantic gate's contexts from data/corpus.json, and the sha256 of the very bytes parsed (ref §7.1)."""
+    """The semantic gate's contexts from data/linear-a/corpus.json, and the sha256 of the very bytes parsed (§7.1)."""
     raw = path.read_bytes()
     return sg.Contexts(json.loads(raw.decode("utf-8"))), hashlib.sha256(raw).hexdigest()
 
@@ -200,8 +200,8 @@ def run(words: list[str], *, index: RootIndex, exclusions: dict[str, str] | None
         competitors: list[Any] = (), explained: bool = False, workers: int = 1,
         contexts: Any = None, index_sha: str | None = None) -> dict[str, Any]:
     """exclusions: the A4 Numbers left out (primary result), or None for the full index (secondary).
-    competitors: lib.competitors spaces for the competitor null (§2), or none. explained: --explain.
-    contexts: lib.semantic_gate.Contexts for the semantic gate (A18), or None for data/corpus.json.
+    competitors: competitors.CompetitorSpace objects for the competitor null (§2), or none. explained: --explain.
+    contexts: semantic_gate.Contexts for the semantic gate (A18), or None for data/linear-a/corpus.json.
     The contexts, the tagger and the clusters' Meanings are read once, in the parent, before a pool forks; with
     index_sha, the index must still hash to it once its Meanings are read (IndexChanged otherwise), so the
     Meanings come from the very file whose keys were loaded. A changed tagger raises TaggerChanged here, before
@@ -213,7 +213,7 @@ def run(words: list[str], *, index: RootIndex, exclusions: dict[str, str] | None
     _ = engine.contexts, engine._domains()
     if index_sha is not None and _sha256(index.path) != index_sha:
         raise IndexChanged(f"{index.path} changed before its Meanings were read; rerun on a frozen snapshot "
-                           "(ref §7.7)")
+                           "(§7.7)")
     _RUN.update(engine=engine,
                 opts={"n": n, "seed": seed, "families": families, "top": top, "breadth_check": breadth})
     if workers > 1:
@@ -428,7 +428,7 @@ def main(argv: list[str] | None = None) -> int:
         if hits and args.sweep:                      # a sweep sets gold words aside and counts them
             skipped, words = hits, [w for w in words if not is_gold(w)]
         elif hits:
-            print(f"refused, gold-set words before the gold run (ref §6): {', '.join(given[w] for w in hits)}\n"
+            print(f"refused, gold-set words before the gold run (§6): {', '.join(given[w] for w in hits)}\n"
                   "(--gold-run is for the gold run itself)", file=sys.stderr)
             return 3
     try:
@@ -447,7 +447,7 @@ def main(argv: list[str] | None = None) -> int:
         print(f"index unreadable: {e}", file=sys.stderr)
         return 2
     if _sha256(index_path) != index_sha:
-        print(f"{index_path} changed while it was loading; rerun on a frozen snapshot (ref §7.7)", file=sys.stderr)
+        print(f"{index_path} changed while it was loading; rerun on a frozen snapshot (§7.7)", file=sys.stderr)
         return 2
     try:
         exclusions = None if args.full_index else primary_exclusions()
@@ -473,7 +473,7 @@ def main(argv: list[str] | None = None) -> int:
         return 2
     report.update(gold_run=args.gold_run, index_sha256=index_sha, gold_sha256=gold_sha, corpus_sha256=corpus_sha,
                   tagger_sha256=sg.TAGGER_SHA256)
-    if args.sweep:                                   # stamped with what it read (ref §7.1)
+    if args.sweep:                                   # stamped with what it read (§7.1)
         report["results"] = ranked(report["results"])
         report["sweep"] = {"source": f"data/linear-a/{UNREAD.name}", "sha256": unread_sha,
                            "listed": listed, "skipped_gold": len(skipped), "index_sha256": index_sha,

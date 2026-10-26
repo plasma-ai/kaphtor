@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǯayš-; ǯyš (cf. ǯawš-ān- rather &lt; ǯawš-) |  | gloss withheld |
-| Tigre | gašša LH 581; cf. gays LH 597 (otherwise &lt; gesä ibid.) | LH 581; LH 597 | gloss withheld |
+| Tigre | gašša LH 581; cf. gays LH 597 | LH 581; LH 597 | gloss withheld |
 | Gurage | gašša (two diff. roots in LGur 299); gaš(š)ä (LGur 299: represents gažžä, but see Tgr!) | LGur 299; LGur 299: represents gažžä, but see Tgr! | gloss withheld |
-| Jibbali | s̃ǝ-gēŝ, s̃ǝ-gyéŝ (otherwise from \*gyŝ ~ \*ngŝ \[DB 58\]) |  | gloss withheld |
-| Amharic | gašša LGur 299, LGz 209; gayso (ibid.) | LGur 299; LGz 209; ibid. | gloss withheld |
+| Jibbali | s̃ǝ-gēŝ, s̃ǝ-gyéŝ |  | gloss withheld |
+| Amharic | gašša LGur 299, LGz 209; gayso (ibid.) | LGur 299; LGz 209 | gloss withheld |
 | Argobba | gašša LGur 299 | LGur 299 | gloss withheld |
 | Tigrinya | gašša LGur 299 | LGur 299 | gloss withheld |
 | Syrian Aramaic | gaysā 'band of robbers; foray' (Payne Smith 69) | Payne Smith 69 |  |
@@ -47,6 +47,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez gāys, gāyso 'shield, spear, haft of spear' LGz 209 (Ludolf: &lt; Greek gaisos 'javelin'). Epigraphic South Arabian gys2 'unit, detachment' SD 52 (&lt;Arb.?).
+Geez gāys, gāyso (LGz. 209) is from Greek gaisos (Ludolf apud LGz. 209). Epigraphic South Arabian gys2 (SD 52) (&lt;Arb.?).
 
 <!-- END kaphtor:record -->

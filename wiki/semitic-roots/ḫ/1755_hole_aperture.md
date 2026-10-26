@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫwy \[-i-\], ḫawḫat- LGz. 260 | LGz. 260 | gloss withheld |
 | Mehri | ḫōh JM 454, ḫǝwū(t) | JM 454 | gloss withheld |
-| Soqotri | ḥe |  | gloss withheld |
+| Soqotri | ḥe (Kogan 2015, ch. 8 §3.1.2 no. 56) | Kogan 2015 ch. 8 §3.1.2 no. 56 | gloss withheld |
 | Harsusi | ḫah, ḫǝwwēt |  | gloss withheld |
 | Geez | ḫoḫǝt |  | gloss withheld |
 | Jibbali | ḫoh |  | gloss withheld |

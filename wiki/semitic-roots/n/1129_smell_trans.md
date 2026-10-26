@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/n/1129_smell_trans
-title: "*nVŝxay-: 'smell (trans.)'"
-desc: "Proto-Semitic *nVŝxay-, 'smell (trans.)': reflexes in 1 language(s)."
+title: "*nVŝₓay-: 'smell (trans.)'"
+desc: "Proto-Semitic *nVŝₓay-, 'smell (trans.)': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1129"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *nVŝxay-: 'smell (trans.)'
+# *nVŝₓay-: 'smell (trans.)'
 
 [[wiki/semitic-roots/n/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*nVŝxay- |
+| Reconstruction | \*nVŝₓay- |
 | Meaning | 'smell (trans.)' |
 | Basis | reconstruction SED, corrected; meaning SED |
 | SED | SEDonline semet 1173 |

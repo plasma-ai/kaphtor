@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | prpr (HALOT 975 apud SEDonline 1749); prr (HALOT 975 apud SEDonline 1749) | HALOT 975; SEDonline 1749; HALOT 975; SEDonline 1749 | gloss withheld |
+| Hebrew | prpr (HALOT 975 apud SEDonline 1749); prr (HALOT 975 apud SEDonline 1749) | HALOT 975; SEDonline 1749 | gloss withheld |
 | Judaic Aramaic | JPA prpr (DJPA 450 apud SEDonline 1749) | DJPA 450; SEDonline 1749 | gloss withheld |
 | Syrian Aramaic | prpr (LSyr. 604, SL 1249 apud SEDonline 1749) | LSyr. 604, SL 1249; SEDonline 1749 | gloss withheld |
 | Arabic | frfr (Lane 2356 apud SEDonline 1749) | Lane 2356; SEDonline 1749 | gloss withheld |

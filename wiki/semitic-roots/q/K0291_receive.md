@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | qubbulu 'accept' | Anderson–Moser 2024 root qbl |  |
-| Geez | qbl 'fetch' (Dillmann 03415) | Dillmann 03415 |  |
+| Geez | qbl 'fetch' (Dillmann 03415) | Dillmann 03415; Anderson–Moser 2024 root qbl |  |
 | Hebrew | qbl (HALOT 1061) | HALOT 1061 | gloss withheld |
 | Ugaritic | qbl (HALOT 1061) | HALOT 1061 |  |
 | Aramaic | qbl (HALOT 1061; DNWSI 979 apud CAL) | HALOT 1061; DNWSI 979; CAL |  |
@@ -43,9 +43,9 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | əqqebbäla (LGz. 419) | LGz. 419 |  |
 | Harari | (tä)qebäla (LGz. 419) | LGz. 419 |  |
 | Gurage | (tä)qibbälä (LGz. 419) | LGz. 419 |  |
-| Epigraphic South Arabian | Sab qbl; Qat qbl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015, ch. 2 §4.2 no. 31 | gloss withheld |
-| Mehri | qáybəl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015, ch. 2 §4.2 no. 31 | gloss withheld |
-| Jibbali | qēl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015, ch. 2 §4.2 no. 31 | gloss withheld |
+| Epigraphic South Arabian | Sab qbl; Qat qbl (Kogan 2015, ch. 2 §4.2 no. 31; Sabaweb lemma 4722) | Kogan 2015 ch. 2 §4.2 no. 31; Sabaweb lemma 4722 | gloss withheld |
+| Mehri | qáybəl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015 ch. 2 §4.2 no. 31 | gloss withheld |
+| Jibbali | qēl (Kogan 2015, ch. 2 §4.2 no. 31) | Kogan 2015 ch. 2 §4.2 no. 31 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

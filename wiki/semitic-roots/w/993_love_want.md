@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | yaded 'love' (Payne Smith 186) | Payne Smith 186 |  |
 | Pre-Islamic North Arabian | Safaitic wd (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |
 | Harari | wädäda (v.) \[LHar 157\] | LHar 157 | gloss withheld |
-| Epigraphic South Arabian | Sab wdd (Biella 121); (Sabaweb lemma 5349) | Biella 121; Sabaweb lemma 5349 | gloss withheld |
+| Epigraphic South Arabian | Sab wdd (Biella 121) (Sabaweb lemma 5349) | Biella 121; Sabaweb lemma 5349 | gloss withheld |
 | Aramaic | OArm. mwdd (HALOT 388) | HALOT 388 |  |
 | Amharic | wäddädä (LGz. 604) | LGz. 604 |  |
 | Tigrinya | täwadädä (LGz. 604) | LGz. 604 |  |

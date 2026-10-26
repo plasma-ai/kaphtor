@@ -59,7 +59,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/CR/CRZg/CRZg4\|CRZg4]] | Crete | Stone object | incomplete |
+| [[wiki/linear-a/inscriptions/CR/CRZg/CRZg4\|CRZg4]] | Crete | Stone object | complete |
 
 ## In translations
 

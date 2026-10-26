@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | wōrem, def. pl. ḥ-āyrēm 2 |  |  |
 | Soqotri | ʔórim 2 LS 75 | LS 75 |  |
 | Harsusi | ḥ-ōrǝm, pl. ḥ-áyrɛ́m 2 |  |  |
-| Jibbali | ʔɔrm, def. pl. ḥ-āyrēm 2 |  |  |
+| Jibbali | ʔɔrm, def. pl. ḥ-āyrēm 2 (Kogan 2015, ch. 8 §3.2.4 no. 67) | Kogan 2015 ch. 8 §3.2.4 no. 67 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -58,6 +58,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_KI_TI\|QA-KI-TI]] | qaqqiti | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_NE\|QA-NE]] | qanē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_NU_MA\|QA-NU-MA]] | qanūma | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qubaʿ | PROBABLE |

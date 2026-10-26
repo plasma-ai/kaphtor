@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | pəlōnī (Kogan 2015, ch. 3 §5.2 no. 44) | Kogan 2015, ch. 3 §5.2 no. 44 | gloss withheld |
-| Syrian Aramaic | plān (Kogan 2015, ch. 3 §5.2 no. 44) | Kogan 2015, ch. 3 §5.2 no. 44 | gloss withheld |
-| Arabic | fulān- (Kogan 2015, ch. 3 §5.2 no. 44) | Kogan 2015, ch. 3 §5.2 no. 44 | gloss withheld |
+| Hebrew | pəlōnī (Kogan 2015, ch. 3 §5.2 no. 44) | Kogan 2015 ch. 3 §5.2 no. 44 | gloss withheld |
+| Syrian Aramaic | plān (Kogan 2015, ch. 3 §5.2 no. 44) | Kogan 2015 ch. 3 §5.2 no. 44 | gloss withheld |
+| Arabic | fulān- (Kogan 2015, ch. 3 §5.2 no. 44) | Kogan 2015 ch. 3 §5.2 no. 44 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

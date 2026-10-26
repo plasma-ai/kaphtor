@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǧabīn- 'forehead', ʔal-ǧabīnāni (dual.) 'the two ends of the forehead, the two parts between the eyebrows and the hair' \[BK 1 250\] | BK 1 250 |  |
 | Mandaic Aramaic | gbina, gbana \[DM 79\] | DM 79 | gloss withheld |
-| Modern Aramaic | NASS gnīvä (metathesis) \[Tser 037\] ZKH gubʔēna \[R Zakho 106\] MMND gǝḇīna \[M MND 495\] | Tser 037 | gloss withheld |
+| Modern Aramaic | NASS gnīvä \[Tser 037\] ZKH gubʔēna \[R Zakho 106\] MMND gǝḇīna \[M MND 495\] | Tser 037; M MND 495 | gloss withheld |
 | Hebrew | (?) gibbēn. |  | gloss withheld |
 | Judaic Aramaic | gǝbīnā \[Ja 206\]; gbyn \[DJPA 119b apud CAL\] | Ja 206; DJPA 119b; CAL | gloss withheld |
 | Syrian Aramaic | gǝbīnā 'eyebrows; crown, summit', gǝbīnūtā 'eyebrows' \[Brock 102\] | Brock 102 |  |

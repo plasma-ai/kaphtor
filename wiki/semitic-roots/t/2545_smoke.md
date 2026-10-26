@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Tigre | tänan |  |  |
-| Geez | tann |  |  |
+| Geez | tann (Kogan 2015, ch. 6 §4 no. 14) | Kogan 2015 ch. 6 §4 no. 14 |  |
 | Gurage | Sod Cha tän |  |  |
 | Modern Aramaic | Urm tin- |  |  |
 | Amharic | tännänä |  | gloss withheld |

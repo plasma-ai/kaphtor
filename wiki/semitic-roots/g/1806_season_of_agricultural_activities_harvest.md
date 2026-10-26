@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1806_season_of_agricultural_activities_harvest
 title: "*gʷar- (?): 'season of agricultural activities, harvest'"
-desc: "Proto-Semitic *gʷar- (?), 'season of agricultural activities, harvest': reflexes in 2 language(s)."
+desc: "Proto-Semitic *gʷar- (?), 'season of agricultural activities, harvest': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1806"
@@ -30,8 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Gurage | \*gʷär | LGur. 287 | gloss withheld |
-| Amharic | kərämt (OLA80 §27.19) | OLA80 §27.19 | gloss withheld |
+| Gurage | \*gʷär (LGur. 287) | LGur. 287 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

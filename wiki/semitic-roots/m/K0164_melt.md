@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/m/K0164_melt
-title: "*mVšVw-: 'melt'"
-desc: "Proto-Semitic *mVšVw-, 'melt': reflexes in 3 language(s)."
+title: "*mVsVw-: 'melt'"
+desc: "Proto-Semitic *mVsVw-, 'melt': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0164"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *mVšVw-: 'melt'
+# *mVsVw-: 'melt'
 
 [[wiki/semitic-roots/m/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*mVšVw- |
+| Reconstruction | \*mVsVw- |
 | Meaning | 'melt' |
 | Basis | project |
 
@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | masawa 'melt' | Anderson–Moser 2024 root mšw |  |
 | Arabic | (ta)māsawa (LGz. 368) | LGz. 368 | gloss withheld |
-| Syrian Aramaic | məsā (msw) (LGz. 368) | LGz. 368 | gloss withheld |
+| Syrian Aramaic | məsā (msw) (LGz. 368) (Payne Smith 283) | LGz. 368; Payne Smith 283 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

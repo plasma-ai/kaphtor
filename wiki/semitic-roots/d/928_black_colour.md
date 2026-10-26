@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | duhm-at-, duhām-, dhm II; ʾadham- (Kogan 2011, 196) | Kogan 2011, 196 | gloss withheld |
-| Akkadian | daʾāmu, daʾmu (Kogan 2011, 196) | Kogan 2011, 196 |  |
+| Arabic | duhm-at-, duhām-, dhm II; ʾadham- (Kogan 2011, 196) | Kogan 2011 196 | gloss withheld |
+| Akkadian | daʾāmu, daʾmu (Kogan 2011, 196) | Kogan 2011 196 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

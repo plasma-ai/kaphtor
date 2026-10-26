@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ṣ̂arḥ- |
 | Meaning | 'thicket' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1539 |
 
 ## Reflexes
 
@@ -33,9 +34,5 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ẓ̂arḥ (JL 327 apud SEDonline 1539) | JL 327; SEDonline 1539 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-Proto-MSA \*ṣ̂arḥ- 'thicket' (SEDonline 1539). Cf. Soq. ẓ̂arḥ 'lower slopes of the mountains immediately adjacent to the coastal plateau' (CSOL II 635).
 
 <!-- END kaphtor:record -->

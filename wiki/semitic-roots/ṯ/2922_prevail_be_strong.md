@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Hebrew tāqēp (BDB 1075) is an Aramaism. HALOT 1786 also cites OSArb. ṯqf; cf. SA101 Sab. tqf 'make known'.
+Hebrew tāqēp (BDB 1075) is an Aramaism. HALOT 1786 also cites OSArb. ṯqf; cf. SA101 Sab. ṯqf 'make known'.
 
 <!-- END kaphtor:record -->

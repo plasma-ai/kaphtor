@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ġmʾ (CUC; Tropper UG §32.123.31, 94) | CUC; Tropper UG §32.123.31, 94 | gloss withheld |
+| Ugaritic | ġmʾ (CUC; Tropper UG §32.123.31, 94) | CUC; Tropper UG §32.123.31, 94; Anderson–Moser 2024 root ġmʾ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

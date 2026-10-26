@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥalaʔ- 'pimples on the lips following a fever' \[BK 1 476\] | BK 1 476 |  |
-| Akkadian | ḫalû OB on \[CAD ḫ 53\], \[AHw 314\] (according to Soden, also ḫālu). | CAD ḫ 53; AHw 314 | gloss withheld |
+| Akkadian | ḫalû OB on \[CAD ḫ 53\], \[AHw 314\]. | CAD ḫ 53; AHw 314 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

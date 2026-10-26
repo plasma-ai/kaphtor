@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǯdr 'rise above the ground (said of plants); form (said of certain fruits)' (BK 1 263) | BK 1 263 |  |
 | East Ethiopic | Wol. gädärä, Wol Zway gädärä |  | gloss withheld |
-| Gurage | Sod. gǝddǝr (also) |  | gloss withheld |
+| Gurage | Sod. gǝddǝr |  | gloss withheld |
 | Amharic | (tä)gäddärä |  | gloss withheld |
 | Harari | Har. g(i)dīr |  | gloss withheld |
 | Gafat | gäddärä (OLA80 §17.5) | OLA80 §17.5 | gloss withheld |

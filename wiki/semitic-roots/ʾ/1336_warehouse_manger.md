@@ -30,11 +30,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | abūsu |  |  |
-| Hebrew | ʔebūs |  |  |
-| Phoenician | ʔbst (T 3) | T 3 | gloss withheld |
+| Akkadian | abūsu (CAD A/1 92) | CAD A/1 92 | gloss withheld |
+| Hebrew | ʔebūs (HALOT 4) | HALOT 4 | gloss withheld |
+| Punic | ʔbst (T 3) | T 3 | gloss withheld |
 | Ugaritic | ibsn (DULAT 14) | DULAT 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Hebrew ʾābûs (pt.) 'fattened' (1K 5:3, Pr 15:17) is denominative (HALOT 9).
 
 <!-- END kaphtor:record -->

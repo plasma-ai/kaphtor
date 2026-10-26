@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʾabda 'insane' | Anderson–Moser 2024 root ʾbd |  |
 | Punic | ʾbd 'destroy' | Anderson–Moser 2024 root ʾbd |  |
 | Arabic | ʾabada (HALOT 2) | HALOT 2 | gloss withheld |
-| Syrian Aramaic | ʾebaḏ (LGz. 2) | LGz. 2 |  |
+| Syrian Aramaic | ʾebaḏ (LGz. 2; Payne Smith 2); ʾabdānā (Payne Smith 2) | LGz. 2; Payne Smith 2 | gloss withheld |
 | Tigre | ʾabbäda (LGz. 2) | LGz. 2 | gloss withheld |
 | Tigrinya | ʾabbädä, ʿabädä (LGz. 2) | LGz. 2 | gloss withheld |
 | Amharic | abbädä (LGz. 2) | LGz. 2 | gloss withheld |

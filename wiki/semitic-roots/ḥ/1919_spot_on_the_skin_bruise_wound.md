@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥibr- 'mark of beating; a healed wound' \[Lane 499\] (not in \[BK\]) | Lane 499 |  |
+| Arabic | ḥibr- 'mark of beating; a healed wound' \[Lane 499\] | Lane 499 |  |
 | Soqotri | ḥábǝ́r \[JM 165\], QALAN-V ḥǟ́̄bǝr \[SSL 4 88\] | JM 165; SSL 4 88 | gloss withheld |
 | Akkadian | ibāru SB \[CAD i 1\], \[AHw 363\] | CAD i 1; AHw 363 | gloss withheld |
 | Geez | ḥǝbǝrbǝre \[LGz 224\]. | LGz 224 | gloss withheld |

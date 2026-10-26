@@ -36,8 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | tūmā "garlic" (Brock. 819) | Brock. 819 |  |
 | Aramaic | Sml. šmy (HALOT 1442) | HALOT 1442 | gloss withheld |
 | Mandaic Aramaic | tum (HALOT 1442) | HALOT 1442 | gloss withheld |
-| Mehri | ṯəmēt (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
-| Jibbali | ṯuhm (Kogan 2011, 203) | Kogan 2011, 203 | gloss withheld |
+| Mehri | ṯəmēt (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
+| Jibbali | ṯuhm (Kogan 2011, 203) | Kogan 2011 203 | gloss withheld |
 | Eblaitic | šu-mi (MEE 3, 61v. iv 6; Kogan 2012: 248 apud SEDonline 475) | MEE 3, 61v. iv 6; Kogan 2012: 248; SEDonline 475 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | bedán \[JH 15\] | JH 15 | gloss withheld |
 | Tigre | bädän, bädǝn \[LH 297\] | LH 297 | gloss withheld |
 | Geez | badn \[LGz 87\] | LGz 87 | gloss withheld |
-| Modern Aramaic | MMND badan \[M MND 494\] |  | gloss withheld |
+| Modern Aramaic | MMND badan \[M MND 494\] | M MND 494 | gloss withheld |
 | Jibbali | bédɛ́n \[JJ 23\] | JJ 23 | gloss withheld |
 | Amharic | bädǝn \[K 937\] | K 937 | gloss withheld |
 | Tigrinya | bädni 'corpse of a man or of a beast' \[Bass 338\] | Bass 338 |  |

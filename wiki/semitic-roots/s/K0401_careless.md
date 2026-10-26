@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/K0401_careless
 title: "*sVtVt-: 'careless'"
-desc: "Proto-Semitic *sVtVt-, 'careless': reflexes in 2 language(s)."
+desc: "Proto-Semitic *sVtVt-, 'careless': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0401"
@@ -29,9 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | satta 'accused' (Lane 1304) | Lane 1304 |  |
-| Geez | satata 'careless' | Anderson–Moser 2024 root stt |  |
+| Geez | satata, ʾastata (LGz. 518) | LGz. 518 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Arabic satta 'he imputed to him, or accused him of, a fault' (Lane 1304) differs in sense.
 
 <!-- END kaphtor:record -->

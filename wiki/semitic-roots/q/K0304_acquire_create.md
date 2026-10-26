@@ -29,20 +29,20 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | qanû 'keep' | Anderson–Moser 2024 root qny |  |
+| Akkadian | qanû (CAD Q 91); qinītu A (CAD Q 254) | CAD Q 91; CAD Q 254; Anderson–Moser 2024 root qny | gloss withheld |
 | Aramaic | QNY 'acquire' | Anderson–Moser 2024 root qny |  |
-| Geez | qny 'acquire' (Dillmann 03518) | Dillmann 03518 |  |
+| Geez | qny 'acquire' (Dillmann 03518) | Dillmann 03518; Anderson–Moser 2024 root qny |  |
 | Hebrew | qanah 'get' | Anderson–Moser 2024 root qny |  |
 | Punic | qny 'acquire' | Anderson–Moser 2024 root qny |  |
 | Ugaritic | qny (Leslau CDG 437) | Leslau CDG 437 | gloss withheld |
 | Epigraphic South Arabian | Sab qny (SD 106; Biella 458, 459; Sabaweb lemma 1332) | SD 106; Biella 458, 459; Sabaweb lemma 1332 | gloss withheld |
 | Judaic Aramaic | qənā (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Phoenician | qnh (HALOT 1111) | HALOT 1111 | gloss withheld |
-| Syrian Aramaic | qənā (HALOT 1111) | HALOT 1111 | gloss withheld |
+| Syrian Aramaic | qənā (HALOT 1111; Payne Smith 509); qanāyūtā (Payne Smith 510) | HALOT 1111; Payne Smith 509; Payne Smith 510 | gloss withheld |
 | Mandaic Aramaic | QNA (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Arabic | qanā, qnw, qny (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Amorite | qnj: jaqnī, qanij(ān)um, qanijatum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
-| Soqotri | qénho; qanínhin (Kogan 2015, ch. 2 §4.2 no. 34, fn. 266) | Kogan 2015, ch. 2 §4.2 no. 34, fn. 266 | gloss withheld |
+| Soqotri | qénho; qanínhin (Kogan 2015, ch. 2 §4.2 no. 34, fn. 266) | Kogan 2015 ch. 2 §4.2 no. 34, fn. 266 | gloss withheld |
 | Biblical Aramaic | qenaʾ (T 290) | T 290 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

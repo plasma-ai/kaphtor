@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dubr- 'posterior part, behind; back; nape' \[BK 1 665\]; dabr- 'behind, posterior part of a thing', dubur- 'posterior part; behind; back; buttocks' \[ibid.\] | BK 1 665; ibid. |  |
+| Arabic | dubr- 'posterior part, behind; back; nape' \[BK 1 665\]; dabr- 'behind, posterior part of a thing', dubur- 'posterior part; behind; back; buttocks' \[ibid.\] | BK 1 665 |  |
 | Mandaic Aramaic | dibra \[DM 106\] | DM 106 | gloss withheld |
 | Phoenician |  | KAI 173.5 | source's text withheld |
 | Amharic | žǝbär \[K 1864\]. | K 1864 | gloss withheld |

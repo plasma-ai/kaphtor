@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | faraʔ-, farāʔ- \[BK 2 560\], \[Fr. III 326\], \[Lane 2357\], \[LA I 121\], fariyyat- \[BK 2 589\], \[Fr. III 344\] | BK 2 560; Fr. III 326; Lane 2357; LA I 121; BK 2 589; Fr. III 344; Hommel 132; Sima 60 | gloss withheld |
-| Akkadian | parû OB on \[AHw. 837\] | AHw. 837; Durand 1997 338; Salonen Hippologica 74-5 | gloss withheld |
+| Arabic | faraʔ-, farāʔ- \[BK 2 560\], \[Fr. III 326\], \[Lane 2357\], \[LA I 121\], fariyyat- \[BK 2 589\], \[Fr. III 344\] | BK 2 560; Fr. III 326; Lane 2357; LA I 121; BK 2 589; Fr. III 344 | gloss withheld |
+| Akkadian | parû OB on \[AHw. 837\] | AHw. 837 | gloss withheld |
 | Ugaritic | pri |  |  |
-| Hebrew | pärä(ʔ) (HALOT 961) (with an orthographic variant pärä(h) in Jr 2.24), pB. \[Ja. 1213\] | HALOT 961; Ja. 1213; Pope 83; Pope 48 | gloss withheld |
-| Epigraphic South Arabian | Sab. ʔ-frʔ (pl.) \[Robin-Gajda 116; Sabaweb lemma 3046\] | Sabaweb lemma 3046; Sima 59ff | gloss withheld |
+| Hebrew | pärä(ʔ) (HALOT 961) (with an orthographic variant pärä(h) in Jr 2.24), pB. \[Ja. 1213\] | HALOT 961; Ja. 1213 | gloss withheld |
+| Epigraphic South Arabian | Sab. ʔ-frʔ (pl.) \[Robin-Gajda 116; Sabaweb lemma 3046\] | Sabaweb lemma 3046 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic frʾ (Al-Jallad–Jaworska 69) | Al-Jallad–Jaworska 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

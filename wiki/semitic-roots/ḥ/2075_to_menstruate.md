@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥyḍ 'to have one's period' \[BK 1 526\] | BK 1 526 |  |
-| Soqotri | ḥyḍ \[LS 173\]; maḥẑéẑoh (part. f.) \[LS 173\]. | LS 173; LS 173 | gloss withheld |
+| Soqotri | ḥyḍ \[LS 173\]; maḥẑéẑoh (part. f.) \[LS 173\]. | LS 173 | gloss withheld |
 | Epigraphic South Arabian | SAB ḥyḍ \[SD 74; Sabaweb lemma 4414\] | SD 74; Sabaweb lemma 4414 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥyḍ (Al-Jallad–Jaworska 88) | Al-Jallad–Jaworska 88 | gloss withheld |
 

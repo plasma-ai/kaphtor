@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ḥallown 'window' | Anderson–Moser 2024 root ḥln |  |
-| Ugaritic | ḥln 'window' | Anderson–Moser 2024 root ḥln |  |
+| Ugaritic | ḥln (Kogan 2015, ch. 5 §3.1 no. 34) | Kogan 2015 ch. 5 §3.1 no. 34; Anderson–Moser 2024 root ḥln | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,14 +31,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | faḫiḏ-, faḫḏ-, fiḫḏ- 'thigh' \[BK 2 552\] | BK 2 552 |  |
-| Mehri | ǝfḫād (to read ǝfḫāḏ?), pl. fǝḫyōḏ \[JM 110\]. | JM 110 | gloss withheld |
+| Mehri | ǝfḫād, pl. fǝḫyōḏ \[JM 110\]. | JM 110 | gloss withheld |
 | Harsusi | efḫāḏ \[JH 37\] | JH 37 | gloss withheld |
 | Jibbali | faḫḏ \[JJ 67\] | JJ 67 | gloss withheld |
 | Hebrew | paḥad (HALOT 923). | HALOT 923 | gloss withheld |
 | Epigraphic South Arabian | SAB fḫḏ \[SD 43; Sabaweb lemma 3111\] | SD 43; Sabaweb lemma 3111 | gloss withheld |
 | Judaic Aramaic | paḥdīn (pl.) 'testicles' \[Ja 1151\]. | Ja 1151 |  |
-| Syrian Aramaic | puḥdā (-u- &lt; \*a in the vicinity of p ?) 'thigh, buttock' \[Brock 562\] | Brock 562 |  |
-| Egyptian | ḫpd (usually dual), metathesis (Wb III 270-271 apud Takács 2018, 282) | Takács 2018, 282 | gloss withheld |
+| Syrian Aramaic | puḥdā 'thigh, buttock' \[Brock 562\] | Brock 562 |  |
+| Egyptian | ḫpd (usually dual) (Wb III 270-271 apud Takács 2018, 282) | Wb III 270-271; Takács 2018, 282 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

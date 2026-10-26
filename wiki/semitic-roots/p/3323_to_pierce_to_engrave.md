@@ -32,7 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Akkadian | patāḫu (CAD P 269, AHw. 846 apud SEDonline 1328) | CAD P 269, AHw. 846; SEDonline 1328 | gloss withheld |
 | Hebrew | ptḥ (HALOT 988 apud SEDonline 1328); pittûaḥ (HALOT 985) | HALOT 988; SEDonline 1328; HALOT 985 | gloss withheld |
 | Phoenician | ptḥ (Krahmalkov 409; T 273) | Krahmalkov 409; T 273 | gloss withheld |
-| Epigraphic South Arabian | Sab. ftḫ (SD 46 apud SEDonline 1328); Qat. ftḫ (LIQ 132 apud SEDonline 1328) | SD 46; SEDonline 1328; LIQ 132; SEDonline 1328 | gloss withheld |
+| Epigraphic South Arabian | Sab. ftḫ (SD 46 apud SEDonline 1328); Qat. ftḫ (LIQ 132 apud SEDonline 1328) | SD 46; SEDonline 1328; LIQ 132 | gloss withheld |
 | Mehri | fátăḫ (Jahn 1902, 178 apud SEDonline 1328) | Jahn 1902, 178; SEDonline 1328 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

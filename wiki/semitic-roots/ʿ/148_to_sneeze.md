@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | anäṭṭäsä \[K 1251\] | K 1251 |  |
 | Judaic Aramaic | ʕăṭaš, ʕăṭēš \[Ja 1065\]; \[DJPA 402a apud CAL\] | Ja 1065; DJPA 402a; CAL |  |
 | Syrian Aramaic | ʕăṭāšā 'sneeze' \[Brock 521\] | Brock 521 |  |
-| Aramaic | ʿṬŠ (CAL s.v. ʿṭš) | CAL s.v. ʿṭš | gloss withheld |
+| Aramaic | ʿṬŠ (CAL s.v. ʿṭš) | CAL s.v. ʿṭš; Anderson–Moser 2024 root ʿṭš | gloss withheld |
 | Harsusi | ʔaṭōš (yāṭeš) (SED I 275) | SED I 275 |  |
 | Tigre | ḥaṭṭäša, ḥanṭäša (LGz. 77) | LGz. 77 |  |
 | Tigrinya | haṭäsä, hanṭäšä, ʾənṭəšo bälä (LGz. 77) | LGz. 77 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/477_go_pass
 title: "*(ʾV)zVl-: 'go, pass'"
-desc: "Proto-Semitic *(ʾV)zVl-, 'go, pass': reflexes in 4 language(s)."
+desc: "Proto-Semitic *(ʾV)zVl-, 'go, pass': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "477"
@@ -34,6 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | Urm ʔzl |  | gloss withheld |
 | Hebrew | ʔzl (HALOT 27) | HALOT 27 | gloss withheld |
 | Syrian Aramaic | ʔzl Br 10 |  | gloss withheld |
+| Aramaic | ʔzl (Kogan 2015, ch. 6 §2 no. 2) | Kogan 2015 ch. 6 §2 no. 2 | gloss withheld |
+| Biblical Aramaic | ʔzl (Kogan 2015, ch. 6 §2 no. 2) | Kogan 2015 ch. 6 §2 no. 2 | gloss withheld |
+| Judaic Aramaic | ʔzl (Kogan 2015, ch. 6 §2 no. 2) | Kogan 2015 ch. 6 §2 no. 2 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

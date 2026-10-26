@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Soqotri | fío \[LS 332\]; QADHUB fī́ʔoh, HADIBO fī́yʔɔh \[SSL LS 1456\] | LS 332; SSL LS 1456 | gloss withheld |
-| Akkadian | pūtu OB on \[AHw 884\], pl. pâtu (&lt; \*puātu) and pūtātu \[ibid.\] | AHw 884; ibid. | gloss withheld |
+| Akkadian | pūtu OB on \[AHw 884\], pl. pâtu and pūtātu \[ibid.\] | AHw 884 | gloss withheld |
 | Mandaic Aramaic | puta \[DM 369\] | DM 369 | gloss withheld |
 | East Ethiopic | ZWY ǝfit, SEL WOL uft \[LGur 22\]. | LGur 22 | gloss withheld |
-| Gurage | ENN END GYE MSQ GOG SOD ift, MUH ǝft, CHA EZ̆A ENN MUH GOG SOD yift, yǝft do. \[LGur 22\] | LGur 22 |  |
+| Gurage | ENN END GYE MSQ GOG SOD ift, MUH ǝft, CHA EZ̆A ENN MUH GOG SOD yift, yǝft \[LGur 22\] | LGur 22 |  |
 | Hebrew | (?) pōt, pl. pōtōt (HALOT 983). | HALOT 983 | gloss withheld |
 | Amharic | fit \[K 2305\] | K 2305 | gloss withheld |
 | Syrian Aramaic | paʔtā, patā 'face', also 'side' \[Brock 554\] | Brock 554 |  |

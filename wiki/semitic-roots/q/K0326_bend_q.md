@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | qaʕada 'sat' (Lane 2544) | Lane 2544 |  |
-| Aramaic | QʿD (Aramaic Root Atlas; CAL s.v. qʿd) | Aramaic Root Atlas; CAL s.v. qʿd | gloss withheld |
+| Arabic | qaʕada 'sat' (Lane 2544) | Lane 2544; Anderson–Moser 2024 root qʿd |  |
+| Aramaic | QʿD (Aramaic Root Atlas; CAL s.v. qʿd) | Aramaic Root Atlas; CAL s.v. qʿd; Anderson–Moser 2024 root qʿd | gloss withheld |
 | Syrian Aramaic | qʕed 'bend the knees, kneel' (Payne Smith 512) | Payne Smith 512 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

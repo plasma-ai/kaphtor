@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*šVkay- |
 | Meaning | 'sword' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1526 |
 
 ## Reflexes
 
@@ -38,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Proto-MSA \*šVkay- 'sword' (SEDonline 1526). Hardly connected with Arb. škk 'to pierce with the spear', since Arb. š does not regularly correspond to MSA š (Kogan 2015:571 apud SEDonline 1526). Distinct from 556 \*ŝuk- and 381 \*ŝuk-.
+Proto-MSA \*šVkay- 'sword' (SEDonline 1526). Distinct from 556 \*ŝuk- and 381 \*ŝuk-.
 
 <!-- END kaphtor:record -->

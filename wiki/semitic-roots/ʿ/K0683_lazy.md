@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0683_lazy
 title: "*ʿVṣVl-: 'lazy'"
-desc: "Proto-Semitic *ʿVṣVl-, 'lazy': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʿVṣVl-, 'lazy': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0683"
@@ -29,11 +29,16 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | eṣēlu 'paralyse' | Anderson–Moser 2024 root ʿṣl |  |
-| Aramaic | ʿṢL (CAL s.v. ʿṣl) | CAL s.v. ʿṣl | gloss withheld |
-| Hebrew | ʿaṣal 'sluggish' | Anderson–Moser 2024 root ʿṣl |  |
-| Syrian Aramaic | ʿaṭlūtā (HALOT 868) | HALOT 868 |  |
+| Akkadian | eṣēlu; uṣṣulu (HALOT 868) | HALOT 868; Anderson–Moser 2024 root ʿṣl | gloss withheld |
+| Aramaic | ʿṢL (CAL s.v. ʿṣl) | CAL s.v. ʿṣl; Anderson–Moser 2024 root ʿṣl | gloss withheld |
+| Hebrew | ʿāṣēl; ʿaṣlâ; ʿṣl (nif.) (HALOT 868) | HALOT 868 | gloss withheld |
+| Syrian Aramaic | ʿṭel (Payne Smith 409); ʿaṭlā (Payne Smith 410); ʿaṭlūtā (Payne Smith 410; HALOT 868) | Payne Smith 409; Payne Smith 410; HALOT 868 | gloss withheld |
+| Arabic | ʿaṣṣala (II) (Lane 2065; HALOT 868) | Lane 2065; HALOT 868 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Syriac ʿṭl has ṭ against ṣ in Hebrew, Arabic and Akkadian, irregular for \*ṣ; HALOT 868 sets it with them.
 
 <!-- END kaphtor:record -->

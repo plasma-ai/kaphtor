@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1149_climb_rise
 title: "*rVḳay-: 'climb, rise'"
-desc: "Proto-Semitic *rVḳay-, 'climb, rise': reflexes in 1 language(s)."
+desc: "Proto-Semitic *rVḳay-, 'climb, rise': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1149"
@@ -30,7 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | rqy \[-a-\] |  |  |
+| Arabic | rqy \[-a-\]; raqiya 'he ascended' (Lane 1140) | Lane 1140 |  |
+| Epigraphic South Arabian | Sab rqyw (SD 117) (Biella 495) | SD 117; Biella 495 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

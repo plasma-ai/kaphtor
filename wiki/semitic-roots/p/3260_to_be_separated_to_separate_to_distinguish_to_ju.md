@@ -34,8 +34,8 @@ updated: 2026-10-25T05:11:48Z
 | Mandaic Aramaic | prd (MD 378 apud SEDonline 1323) | MD 378; SEDonline 1323 | gloss withheld |
 | Arabic | frd (Lane 2363 apud SEDonline 1323) | Lane 2363; SEDonline 1323 | gloss withheld |
 | Epigraphic South Arabian | Sab. frd-m (SD 46 apud SEDonline 1323) | SD 46; SEDonline 1323 | gloss withheld |
-| Tigre | täfarädä (WTS 659 apud SEDonline 1323); färdä (WTS 659 apud SEDonline 1317) | WTS 659; SEDonline 1323; WTS 659; SEDonline 1317 | gloss withheld |
-| Geez | tafārada (CDG 165 apud SEDonline 1317); fərd (CDG 165 apud SEDonline 1317) | CDG 165; SEDonline 1317; CDG 165; SEDonline 1317 | gloss withheld |
+| Tigre | täfarädä (WTS 659 apud SEDonline 1323); färdä (WTS 659 apud SEDonline 1317) | WTS 659; SEDonline 1323; SEDonline 1317 | gloss withheld |
+| Geez | tafārada (CDG 165 apud SEDonline 1317); fərd (CDG 165 apud SEDonline 1317) | CDG 165; SEDonline 1317 | gloss withheld |
 | Tigrinya | färädä (TED 2670 apud SEDonline 1317) | TED 2670; SEDonline 1317 | gloss withheld |
 | Amharic | färrädä (AED 2284 apud SEDonline 1317) | AED 2284; SEDonline 1317 | gloss withheld |
 | Harari | färädä (EDH 63 apud SEDonline 1317) | EDH 63; SEDonline 1317 | gloss withheld |

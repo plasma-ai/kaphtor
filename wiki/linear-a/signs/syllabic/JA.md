@@ -42,6 +42,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_JA_DU\|\*21F-JA-DU]] | Ḥayya-ʾAddu | SPECULATIVE |
+| [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
 | [[wiki/linear-a/words/star/star306_TU_JA\|\*306-TU-JA]] | ʿAttuya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥaya / ḥayyā / Haya / Aya | CANDIDATE |
 | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] | ʾAyaku | SPECULATIVE |
@@ -51,6 +52,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
+| [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Tuya | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_JA\|I-JA]] | ʾiya | CANDIDATE |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | CANDIDATE |
 | [[wiki/linear-a/words/I/I_JA_TE\|I-JA-TE]] | ʾiyyate | CANDIDATE |
@@ -60,6 +62,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TA_JA\|I-TA-JA]] | ʾIttaya | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | yadaʿšu | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_DI\|JA-DI]] | Yadi | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_HA\|JA-HA]] | Yāh(a) | SPECULATIVE |
@@ -105,6 +108,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Tayru | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯaniya | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_TE_JA_MU\|WI-TE-JA-MU]] | Widd-tiyāmu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

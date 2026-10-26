@@ -29,7 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʾaǧḥafa bihi 'took away, carried away, removed (said of a torrent)' (Lane 383); ǧaḥafa 'stripped off, scraped off' (Lane 383) | Lane 383; Lane 383 |  |
+| Arabic | ʾaǧḥafa bihi 'took away, carried away, removed (said of a torrent)' (Lane 383); ǧaḥafa 'stripped off, scraped off' (Lane 383) | Lane 383 |  |
 | Geez | gaḥafa (LGz. 186) | LGz. 186 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

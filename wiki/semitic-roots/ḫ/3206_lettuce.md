@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḫassū (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Syrian Aramaic | ḥasstā (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Arabic | ḫass- (Kogan 2011, 204) | Kogan 2011, 204 |  |
+| Akkadian | ḫassū (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Syrian Aramaic | ḥasstā (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Arabic | ḫass- (Kogan 2011, 204) | Kogan 2011 204 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

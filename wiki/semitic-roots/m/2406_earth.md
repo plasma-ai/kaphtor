@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015, ch. 7 §4.2 no. 18 |  |
+| Tigre | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015 ch. 7 §4.2 no. 18 |  |
 | Geez | maret LGz 361 | LGz 361 | gloss withheld |
-| Amharic | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015, ch. 7 §4.2 no. 18 |  |
+| Amharic | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015 ch. 7 §4.2 no. 18 |  |
 | Epigraphic South Arabian | Sab mrt-m ? LGz. 361 | LGz. 361 | gloss withheld |
 | Argobba | märet |  |  |
-| Tigrinya | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015, ch. 7 §4.2 no. 18 |  |
+| Tigrinya | märet (Kogan 2015, ch. 7 §4.2 no. 18) | Kogan 2015 ch. 7 §4.2 no. 18 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

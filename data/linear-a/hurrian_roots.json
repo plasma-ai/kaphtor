@@ -1,0 +1,1349 @@
+[
+ {
+  "Number": "51",
+  "Hurrian": "Attai",
+  "Consonantal_Root": "attai",
+  "Category": "lexical_root",
+  "Sources": [
+   "Gelb, Purves, MacRae, Nuzi Personal Names (OIP 57)",
+   "Wilhelm, The Hurrians; Laroche Hurrian onomastic source family",
+   "Hethitologie Portal / Hetonom",
+   "ORACC QPN proper-noun annotation"
+  ]
+ },
+ {
+  "Number": "52",
+  "Hurrian": "Ummi",
+  "Consonantal_Root": "ummi",
+  "Category": "lexical_root",
+  "Sources": [
+   "Gelb, Purves, MacRae, Nuzi Personal Names (OIP 57)",
+   "Wilhelm, The Hurrians; Laroche Hurrian onomastic source family",
+   "Hethitologie Portal / Hetonom",
+   "ORACC QPN proper-noun annotation"
+  ]
+ },
+ {
+  "Number": "53",
+  "Hurrian": "Šena",
+  "Consonantal_Root": "shena",
+  "Category": "lexical_root",
+  "Sources": [
+   "Gelb, Purves, MacRae, Nuzi Personal Names (OIP 57)",
+   "Wilhelm, The Hurrians; Laroche Hurrian onomastic source family",
+   "Hethitologie Portal / Hetonom",
+   "ORACC QPN proper-noun annotation"
+  ]
+ },
+ {
+  "Number": "54",
+  "Hurrian": "Ašti",
+  "Consonantal_Root": "ashti",
+  "Category": "lexical_root",
+  "Sources": [
+   "Gelb, Purves, MacRae, Nuzi Personal Names (OIP 57)",
+   "Wilhelm, The Hurrians; Laroche Hurrian onomastic source family",
+   "Hethitologie Portal / Hetonom",
+   "ORACC QPN proper-noun annotation"
+  ]
+ },
+ {
+  "Number": "89",
+  "Hurrian": "Ḫurri",
+  "Consonantal_Root": "hurri",
+  "Category": "ethnic",
+  "Sources": [
+   "Gelb, Purves, MacRae, Nuzi Personal Names (OIP 57)",
+   "Wilhelm, The Hurrians; Laroche Hurrian onomastic source family",
+   "Hethitologie Portal / Hetonom",
+   "ORACC QPN proper-noun annotation"
+  ]
+ },
+ {
+  "Number": "90",
+  "Hurrian": "maryannu",
+  "Consonantal_Root": "maryannu",
+  "Category": "title",
+  "Sources": [
+   "Gelb, Purves, MacRae, Nuzi Personal Names (OIP 57)",
+   "Wilhelm, The Hurrians; Laroche Hurrian onomastic source family",
+   "Hethitologie Portal / Hetonom",
+   "ORACC QPN proper-noun annotation"
+  ]
+ },
+ {
+  "Number": "785",
+  "Hurrian": "attai",
+  "Consonantal_Root": "tt",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 62",
+   "Wegner, Einführung (2007) §4.1",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "786",
+  "Hurrian": "nera",
+  "Consonantal_Root": "nr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 183",
+   "Wegner, Einführung (2007) §4.1",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "787",
+  "Hurrian": "šena",
+  "Consonantal_Root": "sn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 229",
+   "Wegner, Einführung (2007) §4.1",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "788",
+  "Hurrian": "šala",
+  "Consonantal_Root": "sl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 220",
+   "Wegner, Einführung (2007) §4.1",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "790",
+  "Hurrian": "ewri",
+  "Consonantal_Root": "wr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 85",
+   "Wegner, Einführung (2007) §4.1",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "791",
+  "Hurrian": "allai",
+  "Consonantal_Root": "ll",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 36",
+   "Wegner, Einführung (2007) §4.1",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "792",
+  "Hurrian": "šarri",
+  "Consonantal_Root": "srr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 225",
+   "Wegner, Einführung (2007) §4.1"
+  ]
+ },
+ {
+  "Number": "793",
+  "Hurrian": "šawala",
+  "Consonantal_Root": "swl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 228",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "794",
+  "Hurrian": "ḫawurni",
+  "Consonantal_Root": "hwr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 100",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "796",
+  "Hurrian": "šiye",
+  "Consonantal_Root": "sy",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 237",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "797",
+  "Hurrian": "paba",
+  "Consonantal_Root": "pb",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 192",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "800",
+  "Hurrian": "šeniffu",
+  "Consonantal_Root": "sn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 230",
+   "Wilhelm, The Hurrians (1989) p. 52",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "801",
+  "Hurrian": "tive",
+  "Consonantal_Root": "tw",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 268",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "802",
+  "Hurrian": "ḫeš(š)i",
+  "Consonantal_Root": "hs",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 107",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "803",
+  "Hurrian": "ḫašši",
+  "Consonantal_Root": "hs",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 99",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "805",
+  "Hurrian": "ḫirbi",
+  "Consonantal_Root": "hrb",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 108",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "806",
+  "Hurrian": "tabri",
+  "Consonantal_Root": "tbr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 252",
+   "Richter BGH s.v. tabri"
+  ]
+ },
+ {
+  "Number": "807",
+  "Hurrian": "purli",
+  "Consonantal_Root": "prl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 207",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "808",
+  "Hurrian": "tumni",
+  "Consonantal_Root": "tmn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 274",
+   "Wilhelm, The Hurrians (1989) ch. 4"
+  ]
+ },
+ {
+  "Number": "809",
+  "Hurrian": "aġri",
+  "Consonantal_Root": "gr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 30",
+   "Richter BGH s.v. agri"
+  ]
+ },
+ {
+  "Number": "810",
+  "Hurrian": "šidari",
+  "Consonantal_Root": "sdr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 234",
+   "Richter BGH s.v. šidari",
+   "Song of Release ed. Neu (1996)"
+  ]
+ },
+ {
+  "Number": "811",
+  "Hurrian": "kirenzi",
+  "Consonantal_Root": "krn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 154",
+   "Neu, Das hurritische Epos der Freilassung (1996)",
+   "Wilhelm, The Hurrians (1989) p. 83"
+  ]
+ },
+ {
+  "Number": "812",
+  "Hurrian": "elḫi",
+  "Consonantal_Root": "lh",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 76",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "813",
+  "Hurrian": "kušuḫ",
+  "Consonantal_Root": "ksh",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 160",
+   "Wegner, Einführung (2007) §7"
+  ]
+ },
+ {
+  "Number": "814",
+  "Hurrian": "šimige",
+  "Consonantal_Root": "smg",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 235",
+   "Wegner, Einführung (2007) §7"
+  ]
+ },
+ {
+  "Number": "815",
+  "Hurrian": "tan-",
+  "Consonantal_Root": "tn",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 255",
+   "Wegner, Einführung (2007) §5.1",
+   "Campbell, Grammar of Hurrian (2007) ch. 4"
+  ]
+ },
+ {
+  "Number": "818",
+  "Hurrian": "pal-/pali-",
+  "Consonantal_Root": "pl",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 193",
+   "Wegner, Einführung (2007) §5.1",
+   "Campbell, Grammar of Hurrian (2007) ch. 4"
+  ]
+ },
+ {
+  "Number": "819",
+  "Hurrian": "ḫaž-/ḫaš-",
+  "Consonantal_Root": "hs",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 100",
+   "Wegner, Einführung (2007) §5.1",
+   "Campbell, Grammar of Hurrian (2007) ch. 4"
+  ]
+ },
+ {
+  "Number": "820",
+  "Hurrian": "kul-",
+  "Consonantal_Root": "kl",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 157",
+   "Wegner, Einführung (2007) §5.1",
+   "Campbell, Grammar of Hurrian (2007) ch. 4"
+  ]
+ },
+ {
+  "Number": "822",
+  "Hurrian": "urb-/wur-",
+  "Consonantal_Root": "rb",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 283",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "823",
+  "Hurrian": "tad-",
+  "Consonantal_Root": "td",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 250",
+   "Wegner, Einführung (2007) §5.1",
+   "Campbell, Grammar of Hurrian (2007) ch. 4"
+  ]
+ },
+ {
+  "Number": "824",
+  "Hurrian": "ušš-",
+  "Consonantal_Root": "ss",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 285",
+   "Wegner, Einführung (2007) §5.1, §3.2 (causative tušš-)"
+  ]
+ },
+ {
+  "Number": "825",
+  "Hurrian": "paḫ-",
+  "Consonantal_Root": "ph",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 192",
+   "Wegner, Einführung (2007) §3.2, §5.1"
+  ]
+ },
+ {
+  "Number": "826",
+  "Hurrian": "šukk-",
+  "Consonantal_Root": "sk",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 243",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "827",
+  "Hurrian": "ḫal-",
+  "Consonantal_Root": "hl",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 93",
+   "Wegner, Einführung (2007) §5.1",
+   "Neu, Das hurritische Epos der Freilassung (1996)"
+  ]
+ },
+ {
+  "Number": "828",
+  "Hurrian": "šid-",
+  "Consonantal_Root": "sd",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 234",
+   "Richter BGH s.v. šid-",
+   "Neu (1996)"
+  ]
+ },
+ {
+  "Number": "829",
+  "Hurrian": "mann-",
+  "Consonantal_Root": "mn",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 168",
+   "Wegner, Einführung (2007) §5.1",
+   "Campbell, Grammar of Hurrian (2007) ch. 4"
+  ]
+ },
+ {
+  "Number": "830",
+  "Hurrian": "naḫḫ-",
+  "Consonantal_Root": "nh",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 177",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "831",
+  "Hurrian": "ḫab-",
+  "Consonantal_Root": "hb",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 89",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "832",
+  "Hurrian": "keldi-",
+  "Consonantal_Root": "kld",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 148",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "833",
+  "Hurrian": "tušš-",
+  "Consonantal_Root": "tss",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 277",
+   "Wegner, Einführung (2007) §3.2 (causative prefix tu-)"
+  ]
+ },
+ {
+  "Number": "834",
+  "Hurrian": "fur-",
+  "Consonantal_Root": "fr",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 87",
+   "Richter BGH s.v. pur-/fur-"
+  ]
+ },
+ {
+  "Number": "835",
+  "Hurrian": "šurv-/šurb-",
+  "Consonantal_Root": "srb",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 245",
+   "Wegner, Einführung (2007) §5.1",
+   "Campbell, Grammar of Hurrian (2007) ch. 4"
+  ]
+ },
+ {
+  "Number": "836",
+  "Hurrian": "till-",
+  "Consonantal_Root": "tl",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 267",
+   "Richter BGH s.v. till-",
+   "Neu, Das hurritische Epos der Freilassung (1996)"
+  ]
+ },
+ {
+  "Number": "837",
+  "Hurrian": "šūk-",
+  "Consonantal_Root": "sk",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 242",
+   "Richter BGH s.v. šūk-"
+  ]
+ },
+ {
+  "Number": "838",
+  "Hurrian": "kad-",
+  "Consonantal_Root": "kd",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 140",
+   "Richter BGH s.v. kad-",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "839",
+  "Hurrian": "šal-",
+  "Consonantal_Root": "sl",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 219",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "840",
+  "Hurrian": "nuḫ-",
+  "Consonantal_Root": "nh",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 185",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "841",
+  "Hurrian": "turob-",
+  "Consonantal_Root": "trb",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 276",
+   "Wilhelm, The Hurrians (1989)"
+  ]
+ },
+ {
+  "Number": "842",
+  "Hurrian": "naġ-/nakk-",
+  "Consonantal_Root": "ng",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 176",
+   "Neu, Das hurritische Epos der Freilassung (1996)"
+  ]
+ },
+ {
+  "Number": "845",
+  "Hurrian": "tiwena",
+  "Consonantal_Root": "twn",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 269",
+   "Wegner, Einführung (2007) §4.3"
+  ]
+ },
+ {
+  "Number": "847",
+  "Hurrian": "turōže",
+  "Consonantal_Root": "trz",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 276",
+   "Wilhelm, The Hurrians (1989)"
+  ]
+ },
+ {
+  "Number": "848",
+  "Hurrian": "aġri",
+  "Consonantal_Root": "gr",
+  "Category": "adjective",
+  "Sources": [
+   "Richter BGH s.v. agri (adj.)",
+   "Wegner, Einführung (2007) §4.3"
+  ]
+ },
+ {
+  "Number": "849",
+  "Hurrian": "katk-",
+  "Consonantal_Root": "ktk",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 147",
+   "Richter BGH s.v. katk-"
+  ]
+ },
+ {
+  "Number": "850",
+  "Hurrian": "šukko",
+  "Consonantal_Root": "sk",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 243",
+   "Richter BGH s.v. šukk-"
+  ]
+ },
+ {
+  "Number": "851",
+  "Hurrian": "šukki",
+  "Consonantal_Root": "sk",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 244",
+   "Wegner, Einführung (2007) §4.5",
+   "Wilhelm, The Hurrians (1989) p. 61"
+  ]
+ },
+ {
+  "Number": "852",
+  "Hurrian": "šin(a)",
+  "Consonantal_Root": "sn",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 236",
+   "Wegner, Einführung (2007) §4.5",
+   "Wilhelm, The Hurrians (1989) p. 61"
+  ]
+ },
+ {
+  "Number": "853",
+  "Hurrian": "kig(e)",
+  "Consonantal_Root": "kg",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 151",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "854",
+  "Hurrian": "tumni",
+  "Consonantal_Root": "tmn",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 274",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "855",
+  "Hurrian": "nariya",
+  "Consonantal_Root": "nry",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 181",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "856",
+  "Hurrian": "šeže",
+  "Consonantal_Root": "sz",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 232",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "857",
+  "Hurrian": "šindi",
+  "Consonantal_Root": "snd",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 236",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "858",
+  "Hurrian": "kirā/girā",
+  "Consonantal_Root": "kr",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 154",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "859",
+  "Hurrian": "tamri",
+  "Consonantal_Root": "tmr",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 254",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "860",
+  "Hurrian": "eman(i)",
+  "Consonantal_Root": "mn",
+  "Category": "numeral",
+  "Sources": [
+   "Laroche GLH p. 77",
+   "Wegner, Einführung (2007) §4.5"
+  ]
+ },
+ {
+  "Number": "881",
+  "Hurrian": "ište",
+  "Consonantal_Root": "st",
+  "Category": "grammatical_morpheme",
+  "Sources": [
+   "Wegner, Einführung (2007) §4.1 (pronouns)",
+   "Campbell, Grammar of Hurrian (2007) ch. 3"
+  ]
+ },
+ {
+  "Number": "882",
+  "Hurrian": "mane",
+  "Consonantal_Root": "mn",
+  "Category": "grammatical_morpheme",
+  "Sources": [
+   "Wegner, Einführung (2007) §4.1 (pronouns)",
+   "Campbell, Grammar of Hurrian (2007) ch. 3"
+  ]
+ },
+ {
+  "Number": "887",
+  "Hurrian": "ašte",
+  "Consonantal_Root": "st",
+  "Category": "grammatical_morpheme",
+  "Sources": [
+   "Wegner, Einführung (2007) §5.2",
+   "Campbell, Grammar of Hurrian (2007) ch. 5"
+  ]
+ },
+ {
+  "Number": "890",
+  "Hurrian": "ḫiare",
+  "Consonantal_Root": "hr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 106",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "891",
+  "Hurrian": "ḫaburni",
+  "Consonantal_Root": "hbr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 88",
+   "Richter BGH s.v. ḫaburni"
+  ]
+ },
+ {
+  "Number": "892",
+  "Hurrian": "ḫišaḫre",
+  "Consonantal_Root": "hsr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 109",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "893",
+  "Hurrian": "erbi",
+  "Consonantal_Root": "rb",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 81",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "894",
+  "Hurrian": "ešše",
+  "Consonantal_Root": "ss",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 83",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "895",
+  "Hurrian": "ḫuradi",
+  "Consonantal_Root": "hrd",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 116",
+   "Wilhelm, The Hurrians (1989) ch. 3"
+  ]
+ },
+ {
+  "Number": "896",
+  "Hurrian": "māri",
+  "Consonantal_Root": "mr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 170",
+   "Richter BGH s.v. māri"
+  ]
+ },
+ {
+  "Number": "897",
+  "Hurrian": "pudal",
+  "Consonantal_Root": "pdl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 204",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "898",
+  "Hurrian": "ardi",
+  "Consonantal_Root": "rd",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 53",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "899",
+  "Hurrian": "ḫurwōḫe",
+  "Consonantal_Root": "hrw",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 117",
+   "Wilhelm, The Hurrians (1989) ch. 1"
+  ]
+ },
+ {
+  "Number": "900",
+  "Hurrian": "kāži/kāzi",
+  "Consonantal_Root": "kz",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 147",
+   "Richter BGH s.v. kāzi"
+  ]
+ },
+ {
+  "Number": "901",
+  "Hurrian": "zurgi",
+  "Consonantal_Root": "zrg",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 299",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "902",
+  "Hurrian": "teni",
+  "Consonantal_Root": "tn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 262",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "903",
+  "Hurrian": "ḫapše",
+  "Consonantal_Root": "hps",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 96",
+   "Richter BGH s.v. ḫapše"
+  ]
+ },
+ {
+  "Number": "904",
+  "Hurrian": "karši",
+  "Consonantal_Root": "krs",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 145",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "905",
+  "Hurrian": "ḫaži",
+  "Consonantal_Root": "hz",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 101",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "906",
+  "Hurrian": "tānōšše",
+  "Consonantal_Root": "tn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 255",
+   "Wegner, Einführung (2007) §4.4 (verbal noun formation)"
+  ]
+ },
+ {
+  "Number": "907",
+  "Hurrian": "keldi",
+  "Consonantal_Root": "kld",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 148",
+   "Wegner, Einführung (2007) §4.4",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "908",
+  "Hurrian": "olḫi",
+  "Consonantal_Root": "lh",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 190",
+   "Richter BGH s.v. olḫi"
+  ]
+ },
+ {
+  "Number": "909",
+  "Hurrian": "tide/tite",
+  "Consonantal_Root": "td",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 266",
+   "Richter BGH s.v. tide"
+  ]
+ },
+ {
+  "Number": "910",
+  "Hurrian": "arni",
+  "Consonantal_Root": "rn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 54",
+   "Wegner, Einführung (2007) §4.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "911",
+  "Hurrian": "šūri",
+  "Consonantal_Root": "sr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 245",
+   "Richter BGH s.v. šūri"
+  ]
+ },
+ {
+  "Number": "912",
+  "Hurrian": "ḫurāde",
+  "Consonantal_Root": "hrd",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 116",
+   "Richter BGH s.v. ḫurāde"
+  ]
+ },
+ {
+  "Number": "914",
+  "Hurrian": "kelli",
+  "Consonantal_Root": "kl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 148",
+   "Richter BGH s.v. kelli"
+  ]
+ },
+ {
+  "Number": "915",
+  "Hurrian": "niḫari",
+  "Consonantal_Root": "nhr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 183",
+   "Wilhelm, The Hurrians (1989) p. 54",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "916",
+  "Hurrian": "maḫri",
+  "Consonantal_Root": "mhr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 167",
+   "Richter BGH s.v. maḫri"
+  ]
+ },
+ {
+  "Number": "917",
+  "Hurrian": "pūrli",
+  "Consonantal_Root": "prl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 207",
+   "Richter BGH s.v. pūrli"
+  ]
+ },
+ {
+  "Number": "918",
+  "Hurrian": "olmi",
+  "Consonantal_Root": "lm",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 190",
+   "Richter BGH s.v. olmi"
+  ]
+ },
+ {
+  "Number": "919",
+  "Hurrian": "tupp-",
+  "Consonantal_Root": "tp",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 275",
+   "Richter BGH s.v. tupp-"
+  ]
+ },
+ {
+  "Number": "920",
+  "Hurrian": "teḫ-",
+  "Consonantal_Root": "th",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 259",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "921",
+  "Hurrian": "ašt-",
+  "Consonantal_Root": "st",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 59",
+   "Richter BGH s.v. ašt-"
+  ]
+ },
+ {
+  "Number": "922",
+  "Hurrian": "keb-",
+  "Consonantal_Root": "kb",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 147",
+   "Wegner, Einführung (2007) §5.1"
+  ]
+ },
+ {
+  "Number": "923",
+  "Hurrian": "nāl-",
+  "Consonantal_Root": "nl",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 178",
+   "Richter BGH s.v. nāl-"
+  ]
+ },
+ {
+  "Number": "924",
+  "Hurrian": "nūb-",
+  "Consonantal_Root": "nb",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 185",
+   "Richter BGH s.v. nūb-"
+  ]
+ },
+ {
+  "Number": "925",
+  "Hurrian": "išt-",
+  "Consonantal_Root": "st",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 134",
+   "Richter BGH s.v. išt-"
+  ]
+ },
+ {
+  "Number": "926",
+  "Hurrian": "tinari",
+  "Consonantal_Root": "tnr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 267",
+   "Richter BGH s.v. tinari"
+  ]
+ },
+ {
+  "Number": "927",
+  "Hurrian": "kuzi",
+  "Consonantal_Root": "kz",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 161",
+   "Richter BGH s.v. kuzi"
+  ]
+ },
+ {
+  "Number": "928",
+  "Hurrian": "pardi",
+  "Consonantal_Root": "prd",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 196",
+   "Richter BGH s.v. pardi"
+  ]
+ },
+ {
+  "Number": "929",
+  "Hurrian": "tāli/tāle",
+  "Consonantal_Root": "tl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 253",
+   "Richter BGH s.v. tāli"
+  ]
+ },
+ {
+  "Number": "930",
+  "Hurrian": "ḫalbi",
+  "Consonantal_Root": "hlb",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 93",
+   "Richter BGH s.v. ḫalbi"
+  ]
+ },
+ {
+  "Number": "931",
+  "Hurrian": "ḫabiru",
+  "Consonantal_Root": "hbr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 89",
+   "Wilhelm, The Hurrians (1989) ch. 3"
+  ]
+ },
+ {
+  "Number": "932",
+  "Hurrian": "talmi",
+  "Consonantal_Root": "tlm",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 253",
+   "Richter BGH s.v. talm-",
+   "Gelb NPN s.v. Talmi-"
+  ]
+ },
+ {
+  "Number": "933",
+  "Hurrian": "tilla",
+  "Consonantal_Root": "tl",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 267",
+   "Gelb NPN s.v. -tilla"
+  ]
+ },
+ {
+  "Number": "934",
+  "Hurrian": "muša",
+  "Consonantal_Root": "ms",
+  "Category": "adjective",
+  "Sources": [
+   "Laroche GLH p. 175",
+   "Gelb NPN s.v. -muša"
+  ]
+ },
+ {
+  "Number": "935",
+  "Hurrian": "pendi/penti",
+  "Consonantal_Root": "pnd",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 198",
+   "Gelb NPN s.v. Penti-"
+  ]
+ },
+ {
+  "Number": "936",
+  "Hurrian": "kip-",
+  "Consonantal_Root": "kp",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 153",
+   "Richter BGH s.v. kip-"
+  ]
+ },
+ {
+  "Number": "937",
+  "Hurrian": "šilwa-",
+  "Consonantal_Root": "slw",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 235",
+   "Gelb NPN s.v. Šilwa-"
+  ]
+ },
+ {
+  "Number": "938",
+  "Hurrian": "kelip-/kelb-",
+  "Consonantal_Root": "klp",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 148",
+   "Gelb NPN s.v. Kelip-"
+  ]
+ },
+ {
+  "Number": "939",
+  "Hurrian": "ḫašip-",
+  "Consonantal_Root": "hsp",
+  "Category": "verbal_root",
+  "Sources": [
+   "Laroche GLH p. 100",
+   "Gelb NPN s.v. Ḫašip-"
+  ]
+ },
+ {
+  "Number": "941",
+  "Hurrian": "ḫani",
+  "Consonantal_Root": "hn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 95",
+   "Wegner, Einführung (2007) §4.1"
+  ]
+ },
+ {
+  "Number": "942",
+  "Hurrian": "senni",
+  "Consonantal_Root": "sn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 229",
+   "Wegner, Einführung (2007) §6.2",
+   "Campbell, Grammar of Hurrian (2007) glossary"
+  ]
+ },
+ {
+  "Number": "943",
+  "Hurrian": "tavannanni",
+  "Consonantal_Root": "twn",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 257",
+   "Wilhelm, The Hurrians (1989) p. 78"
+  ]
+ },
+ {
+  "Number": "944",
+  "Hurrian": "udur",
+  "Consonantal_Root": "dr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 278",
+   "Wegner, Einführung (2007) §4.2"
+  ]
+ },
+ {
+  "Number": "945",
+  "Hurrian": "kuže",
+  "Consonantal_Root": "kz",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 161",
+   "Richter BGH s.v. kuže"
+  ]
+ },
+ {
+  "Number": "946",
+  "Hurrian": "awari",
+  "Consonantal_Root": "wr",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 63",
+   "Richter BGH s.v. awari"
+  ]
+ },
+ {
+  "Number": "947",
+  "Hurrian": "ibri",
+  "Consonantal_Root": "br",
+  "Category": "nominal_root",
+  "Sources": [
+   "Laroche GLH p. 121",
+   "Richter BGH s.v. ibri"
+  ]
+ }
+]

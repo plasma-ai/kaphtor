@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | lubb-at- 'the top of the chest that touches the collarbone' \[BK 2 955\] (-u- &lt; \*-a- before -bb?), labab- 'the top of the chest or breast from which a necklace or other neck ornament hangs' \[ibid.\]. | BK 2 955; ibid. |  |
+| Arabic | lubb-at- 'the top of the chest that touches the collarbone' \[BK 2 955\], labab- 'the top of the chest or breast from which a necklace or other neck ornament hangs' \[ibid.\]. | BK 2 955 |  |
 | Mehri | mǝlább \[JM 250\]. | JM 250 | gloss withheld |
 | Akkadian | labânu (labiānu, libânu) OB on \[CAD l 12\] \[AHw 524\] | CAD l 12; AHw 524 | gloss withheld |
 | Tigre | läbbät \[LH 40\] | LH 40 | gloss withheld |
-| East Ethiopic | WOL labä \[LGur 373\], ZWY läbät \[LGur I 1214\] (cf. otherwise \[LGur 374\]) | LGur 373; LGur I 1214; LGur 374 | gloss withheld |
+| East Ethiopic | WOL labä \[LGur 373\], ZWY läbät \[LGur I 1214\] | LGur 373; LGur I 1214 | gloss withheld |
 | Gurage | MUH MSQ GOG SOD laba, CHA EZ̆A naba, ENN GYE naḇa \[ibid. 373\]. |  | gloss withheld |
 | Jibbali | lɛb \[JJ 159\] | JJ 159 | gloss withheld |
 

@@ -29,11 +29,11 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | napû (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Hebrew | nāpā; pB. nippā (Kogan 2011, 242) | Kogan 2011, 242 | gloss withheld |
-| Judaic Aramaic | JPA npy (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Syrian Aramaic | nfātā (Kogan 2011, 242) | Kogan 2011, 242 | gloss withheld |
-| Geez | nafaya (Kogan 2011, 242) | Kogan 2011, 242 |  |
+| Akkadian | napû (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Hebrew | nāpā; pB. nippā (Kogan 2011, 242) | Kogan 2011 242 | gloss withheld |
+| Judaic Aramaic | JPA npy (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Syrian Aramaic | nfātā (Kogan 2011, 242) | Kogan 2011 242 | gloss withheld |
+| Geez | nafaya (Kogan 2011, 242) | Kogan 2011 242 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

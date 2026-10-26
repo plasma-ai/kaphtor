@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kušû SB \[CAD k 602\], \[AHw. 517\] | CAD k 602; AHw. 517; ibid. | gloss withheld |
+| Akkadian | kušû SB \[CAD k 602\], \[AHw. 517\] | CAD k 602; AHw. 517 | gloss withheld |
 | Tigre | käyǝs \[LH 422\]. | LH 422 | gloss withheld |
 | Geez | kaysi \[LGz. 301\]. | LGz. 301 | gloss withheld |
 | Tigrinya | käyəs, käysi (LGz. 301) | LGz. 301 |  |

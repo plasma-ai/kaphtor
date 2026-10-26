@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | galasa, gǝlās LGz 192 | LGz 192 | gloss withheld |
 | Gurage | gǝlas |  | gloss withheld |
 | Jibbali | ególs, gǝlsɛ́t JJ 75 | JJ 75 | gloss withheld |
-| Hebrew | (?) glš (HALOT 195), after Palache: basic meaning to jump (on one's riding animal - cf. Arb wṯb) | HALOT 195 | gloss withheld |
+| Hebrew | (?) glš (HALOT 195) | HALOT 195 | gloss withheld |
 | Amharic | gǝlas |  | gloss withheld |
 | Harari | gǝlas |  | gloss withheld |
 | Tigrinya | gäläsä, gǝlas |  | gloss withheld |

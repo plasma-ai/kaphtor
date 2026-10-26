@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/K0467_pitch
 title: "*zipt-: 'pitch'"
-desc: "Proto-Semitic *zipt-, 'pitch': reflexes in 7 language(s)."
+desc: "Proto-Semitic *zipt-, 'pitch': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0467"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ziptu 'pitch' | Anderson–Moser 2024 root zpt |  |
+| Geez | zəft 'resin' | Anderson–Moser 2024 root zpt |  |
 | Arabic | zift (HALOT 277) | HALOT 277 |  |
 | Judaic Aramaic | zptʾ (HALOT 277; DJPA 181a apud CAL) | HALOT 277; DJPA 181a; CAL |  |
 | Hebrew | zẹpẹt (LGz. 632) | LGz. 632 |  |

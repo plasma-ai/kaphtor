@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Judaic Aramaic | JPA bṣl (DJPA 109 apud SEDonline 1938); JBA bṣl (DJBA 229 apud SEDonline 1938) | DJPA 109; SEDonline 1938; DJBA 229; SEDonline 1938 | gloss withheld |
+| Judaic Aramaic | JPA bṣl (DJPA 109 apud SEDonline 1938); JBA bṣl (DJBA 229 apud SEDonline 1938) | DJPA 109; SEDonline 1938; DJBA 229 | gloss withheld |
 | Arabic | bṣl (Lane 212 apud SEDonline 1938) | Lane 212; SEDonline 1938 | gloss withheld |
 | Geez | baṣṣala (CDG 111 apud SEDonline 1938) | CDG 111; SEDonline 1938 | gloss withheld |
 | Jibbali | bɔ́ṣɔ́l (JL 29 apud SEDonline 1938) | JL 29; SEDonline 1938 | gloss withheld |
@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*bṣl 'to cut, to divide (?)' (Kogan 2015: 441 apud SEDonline 1938). See Fronzaroli 1969: 6 for the semantic link and a tentative comparison with PWS \*baṣal- 'onion' (SEDonline 1938). SEDonline 1938 also sets here Amh. bäṭṭälä 'to become torn to pieces' (AED 945). Cf. 1637 \*baṣal- 'onion', K0044 \*baṭāl- 'cease'.
+PWS \*bṣl 'to cut, to divide (?)' (Kogan 2015, 441 apud SEDonline 1938). SEDonline 1938 also sets here Amh. bäṭṭälä 'to become torn to pieces' (AED 945). Cf. 1637 \*baṣal- 'onion', K0044 \*baṭāl- 'cease'.
 
 <!-- END kaphtor:record -->

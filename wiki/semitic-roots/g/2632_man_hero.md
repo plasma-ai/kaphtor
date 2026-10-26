@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | gbr |  |  |
 | Syrian Aramaic | gabr- (Payne Smith 59) | Payne Smith 59 |  |
 | Aramaic | Pal. geḇar (DJPA 119b apud CAL) | DJPA 119b; CAL |  |
-| Hebrew | gäbär (Kogan 2011, 233) | Kogan 2011, 233 | gloss withheld |
-| Arabic | ǯabr- (Kogan 2011, 233) | Kogan 2011, 233 | gloss withheld |
+| Hebrew | gäbär (Kogan 2011, 233) | Kogan 2011 233 | gloss withheld |
+| Arabic | ǯabr- (Kogan 2011, 233) | Kogan 2011 233 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

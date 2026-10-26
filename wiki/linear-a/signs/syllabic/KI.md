@@ -55,8 +55,10 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DI_KI_TE\|A-DI-KI-TE]] | Dikte | PROBABLE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqite de | PROBABLE |
+| [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_KI_SE\|DI-KI-SE]] | Dikise | CANDIDATE |
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | SPECULATIVE |

@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*šitim- |
 | Meaning | 'heaven' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 815 |
 
 ## Reflexes
 
@@ -37,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Proto-MSA \*šitim- 'heaven' (SEDonline 815). A connection with PS \*šamāy- is difficult to avoid (Bittner 1909:42), but the phonological or structural development has never been convincingly established (Kogan 2015: 571 apud SEDonline 815). Cf. 895 \*šamay- 'sky'.
+Proto-MSA \*šitim- 'heaven' (SEDonline 815). Cf. 895 \*šamay- 'sky'.
 
 <!-- END kaphtor:record -->

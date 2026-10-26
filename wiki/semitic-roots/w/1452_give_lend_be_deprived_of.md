@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | zām- 'a quarter (of anything)' BK 1 1029; wzm 'to pay, settle (the debt)', wazima 'to suffer some losses in one's possessions', wazmat- 'losses...' BK 2 1529 | BK 1 1029; BK 2 1529 |  |
 | Mehri | wǝzōm |  | gloss withheld |
-| Soqotri | ʔézom |  | gloss withheld |
+| Soqotri | ʔézom (Kogan 2015, ch. 8 §3.4.1 no. 134) | Kogan 2015 ch. 8 §3.4.1 no. 134 | gloss withheld |
 | Akkadian | zummû OB on CAD z 156 | CAD z 156 | gloss withheld |
 | Harsusi | wezōm |  | gloss withheld |
 | Jibbali | ǝzōm |  | gloss withheld |

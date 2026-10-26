@@ -73,6 +73,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
 | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | CANDIDATE |
+| [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne / parāne | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
@@ -80,5 +81,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |
+| [[wiki/linear-a/words/T/TA_PA\|TA-PA]] | tappāʾu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

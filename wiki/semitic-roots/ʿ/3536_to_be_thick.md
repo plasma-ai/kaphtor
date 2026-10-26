@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʿaǧir 'thick' (Lane 1958); ʿaǧir 'thick and fat' (Lane 1959) | Lane 1958; Lane 1959 |  |
-| Syrian Aramaic | ʿgr 'to be dense, thick' (Payne Smith 400); ʿgar, ʿagrā 'stout, heavy, weighty, thick, gross' (Payne Smith 400) | Payne Smith 400; Payne Smith 400 |  |
+| Syrian Aramaic | ʿgr 'to be dense, thick' (Payne Smith 400); ʿgar, ʿagrā 'stout, heavy, weighty, thick, gross' (Payne Smith 400) | Payne Smith 400 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

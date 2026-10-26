@@ -58,7 +58,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | yabame | progenitress, sister-in-law (divine epithet of Anath) | CANDIDATE |
 
 ## Onomasticon
 

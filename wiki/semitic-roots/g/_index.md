@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/g
 desc: "Semitic roots whose first radical is g."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/g
@@ -41,9 +41,9 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/1322_leave_1_depart_2_uncover_3|1322_leave_1_depart_2_uncover_3]]: Proto-Semitic *galaw/y-, 'leave' 1, 'depart' 2, 'uncover' 3: reflexes in 11 language(s).
 
-[[wiki/semitic-roots/g/1324_shine_be_bright|1324_shine_be_bright]]: Proto-Semitic *gVh-, 'shine, be bright': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/1324_shine_be_bright|1324_shine_be_bright]]: Proto-Semitic *gVh-, 'shine, be bright': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/g/1325_mutilate_of_nose_or_lips_1_cut_2_beat_3_damage|1325_mutilate_of_nose_or_lips_1_cut_2_beat_3_damage]]: Proto-Semitic *gʷVdaʕ/ʾ-, 'mutilate (of nose or lips)' 1, 'cut' 2, 'beat' 3, 'damage': reflexes in 9 language(s).
+[[wiki/semitic-roots/g/1325_mutilate_of_nose_or_lips_1_cut_2_beat_3_damage_4|1325_mutilate_of_nose_or_lips_1_cut_2_beat_3_damage_4]]: Proto-Semitic *gʷVdaʕ/ʾ-, 'mutilate (of nose or lips)' 1, 'cut' 2, 'beat' 3, 'damage' 4: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/g/1372_pass|1372_pass]]: Proto-Semitic *gawaʒ-, 'pass': reflexes in 4 language(s).
 
@@ -89,7 +89,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/1526_come_imperative|1526_come_imperative]]: Proto-Semitic *gVn-, 'come' (imperative): reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1527_leprosy_mange_scab|1527_leprosy_mange_scab]]: Proto-Semitic *garab-, 'leprosy, mange, scab': reflexes in 14 language(s).
+[[wiki/semitic-roots/g/1527_leprosy_mange_scab_1_leprous_leper_2|1527_leprosy_mange_scab_1_leprous_leper_2]]: Proto-Semitic *garab-, 'leprosy, mange, scab' 1, 'leprous; leper' 2: reflexes in 14 language(s).
 
 [[wiki/semitic-roots/g/178_throat|178_throat]]: Proto-Semitic *gVrʕ-, 'throat': reflexes in 2 language(s).
 
@@ -99,9 +99,9 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/1805_garden|1805_garden]]: Proto-Semitic *ga/inn-, 'garden': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/g/1806_season_of_agricultural_activities_harvest|1806_season_of_agricultural_activities_harvest]]: Proto-Semitic *gʷar- (?), 'season of agricultural activities, harvest': reflexes in 2 language(s).
+[[wiki/semitic-roots/g/1806_season_of_agricultural_activities_harvest|1806_season_of_agricultural_activities_harvest]]: Proto-Semitic *gʷar- (?), 'season of agricultural activities, harvest': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1807_field_arable_land|1807_field_arable_land]]: Proto-Semitic *(ʾV-)g(w)ar- (or *hugar-)/*garh-, 'field, arable land': reflexes in 6 language(s).
+[[wiki/semitic-roots/g/1807_field_arable_land|1807_field_arable_land]]: Proto-Semitic *(ʾV-)g(w)ar- (or *hugar-)/*garh-, 'field, arable land': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/g/1834_kid|1834_kid]]: Proto-Semitic *gady-, 'kid': reflexes in 10 language(s).
 
@@ -235,7 +235,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/2499_fight_kill|2499_fight_kill]]: Proto-Semitic *gdl, 'fight, kill': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/g/2502_bend_down_lie_down|2502_bend_down_lie_down]]: Proto-Semitic *gny/ʾ, 'bend down, lie down': reflexes in 5 language(s).
+[[wiki/semitic-roots/g/2502_bend_down_lie_down|2502_bend_down_lie_down]]: Proto-Semitic *gny/ʾ, 'bend down, lie down': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/g/2505_fall_down_be_eroded|2505_fall_down_be_eroded]]: Proto-Semitic *grdŝ, 'fall down, be eroded': reflexes in 6 language(s).
 
@@ -247,7 +247,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/254_whelp_cub|254_whelp_cub]]: Proto-Semitic *gVr-, 'whelp, cub': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/g/256_she_dog_1_wolf_2|256_she_dog_1_wolf_2]]: Proto-Semitic *gadlāʾ- *gaʕd-, 'she-dog'1, 'wolf' 2: reflexes in 1 language(s).
+[[wiki/semitic-roots/g/256_she_dog_1_wolf_2|256_she_dog_1_wolf_2]]: Proto-Semitic *gadlāʾ- *gaʕd-, 'she-dog' 1, 'wolf' 2: reflexes in 1 language(s).
 
 [[wiki/semitic-roots/g/2571_to_grow_grow_big|2571_to_grow_grow_big]]: Proto-Semitic *gdr, 'to grow, grow big': reflexes in 6 language(s).
 
@@ -277,7 +277,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/2797_grave|2797_grave]]: Proto-Semitic *gVdVṯ-, 'grave': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/g/2798_cut_short|2798_cut_short]]: Proto-Semitic *gVmad-, 'cut short': reflexes in 8 language(s).
+[[wiki/semitic-roots/g/2798_cut_short|2798_cut_short]]: Proto-Semitic *gVmad-, 'cut short': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/g/2799_lot_pebble|2799_lot_pebble]]: Proto-Semitic *gural-, 'lot pebble': reflexes in 3 language(s).
 
@@ -287,7 +287,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/2812_revile|2812_revile]]: Proto-Semitic *gVdVp-, 'revile': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/g/2877_collect|2877_collect]]: Proto-Semitic *gVbay-, 'collect': reflexes in 3 language(s).
+[[wiki/semitic-roots/g/2877_collect|2877_collect]]: Proto-Semitic *gVbay-, 'collect': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/2878_wall_in|2878_wall_in]]: Proto-Semitic *gVdVr-, 'wall in': reflexes in 8 language(s).
 
@@ -303,8 +303,6 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/2884_cheese|2884_cheese]]: Proto-Semitic *gubn-, 'cheese': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/g/2906_pit|2906_pit]]: Proto-Semitic *gVwVr-, 'pit': reflexes in 3 language(s).
-
 [[wiki/semitic-roots/g/2939_hump_of_an_animal|2939_hump_of_an_animal]]: Proto-Semitic *gV(m)bVṯ- {} *gV(m)bVč-, 'hump (of an animal)': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/295_bowl|295_bowl]]: Proto-Semitic *gām-, 'bowl': reflexes in 1 language(s).
@@ -315,7 +313,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/3039_loaf_of_bread|3039_loaf_of_bread]]: Proto-Semitic *grṣ, 'loaf of bread': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/g/3075_to_come_to_drift_ashore|3075_to_come_to_drift_ashore]]: Proto-Semitic *gdḥ, 'to come, to drift ashore': reflexes in 2 language(s).
+[[wiki/semitic-roots/g/3075_to_come_to_drift_ashore|3075_to_come_to_drift_ashore]]: Proto-Semitic *gdḥ, 'to come, to drift ashore': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/g/3076_to_come_ashore|3076_to_come_ashore]]: Proto-Semitic *gḥb, 'to come ashore': reflexes in 3 language(s).
 
@@ -339,7 +337,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/3333_people|3333_people]]: Proto-Semitic *gaw-, 'people': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/g/3351_to_fall|3351_to_fall]]: Proto-Semitic *gʕr, 'to fall': reflexes in 2 language(s).
+[[wiki/semitic-roots/g/3351_to_fall|3351_to_fall]]: Proto-Semitic *gʕr, 'to fall': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/g/3352_plain_valley|3352_plain_valley]]: Proto-Semitic *gāḥiy-, 'plain, valley': reflexes in 3 language(s).
 
@@ -353,7 +351,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/3490_to_be_hungry_hunger|3490_to_be_hungry_hunger]]: Proto-Semitic *gwʕ, 'to be hungry; hunger': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/g/3497_to_protect_shield|3497_to_protect_shield]]: Proto-Semitic *gwb, 'to protect; shield': reflexes in 3 language(s).
+[[wiki/semitic-roots/g/3497_to_protect_shield|3497_to_protect_shield]]: Proto-Semitic *gwb, 'to protect; shield': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/3525_tower|3525_tower]]: Proto-Semitic *gdl, 'tower': reflexes in 7 language(s).
 
@@ -362,6 +360,12 @@ updated: 2026-10-25T06:28:07Z
 [[wiki/semitic-roots/g/3530_to_burn_burning_charcoal|3530_to_burn_burning_charcoal]]: Proto-Semitic *gḥl, 'to burn; burning charcoal': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/g/3533_to_cut_off|3533_to_cut_off]]: Proto-Semitic *grm, 'to cut off': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3591_to_be_strong_prevail_1_strength_might_2|3591_to_be_strong_prevail_1_strength_might_2]]: Proto-Semitic *gbr, 'to be strong, prevail' 1, 'strength, might' 2: reflexes in 6 language(s).
+
+[[wiki/semitic-roots/g/3613_to_give_a_gift_gift|3613_to_give_a_gift_gift]]: Proto-Semitic *gdw, 'to give a gift; gift': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3683_live_coal_burning_coal|3683_live_coal_burning_coal]]: Proto-Semitic *gmr, 'live coal, burning coal': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/392_jubba_kind_of_clothes|392_jubba_kind_of_clothes]]: Proto-Semitic *gubb-, 'jubba, kind of clothes': reflexes in 2 language(s).
 
@@ -379,7 +383,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/467_run_flow_1_pass_2|467_run_flow_1_pass_2]]: Proto-Semitic *gVrVy-, 'run, flow' 1, 'pass' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/g/501_sun|501_sun]]: Proto-Semitic *(?) *gawn- ~ gVnVʾ-, 'sun': reflexes in 2 language(s).
+[[wiki/semitic-roots/g/501_sun|501_sun]]: Proto-Semitic (?) *gawn- ~ *gVnVʾ-, 'sun': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/561_cut_pierce|561_cut_pierce]]: Proto-Semitic *gVwVb-, 'cut, pierce': reflexes in 1 language(s).
 
@@ -413,9 +417,9 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/868_hill_height|868_hill_height]]: Proto-Semitic *gabʕ-/*gibʕ-, 'hill, height': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/g/875_big_1_be_big_2_become_big_strong_3|875_big_1_be_big_2_become_big_strong_3]]: Proto-Semitic *gVdVl-, 'big' 1, 'be big' 2 'become big, strong' 3: reflexes in 6 language(s).
+[[wiki/semitic-roots/g/875_big_1_be_big_2_become_big_strong_3|875_big_1_be_big_2_become_big_strong_3]]: Proto-Semitic *gVdVl-, 'big' 1, 'be big' 2, 'become big, strong' 3: reflexes in 6 language(s).
 
-[[wiki/semitic-roots/g/881_rise_1_be_high_2|881_rise_1_be_high_2]]: Proto-Semitic *gVʾVy-, 'rise' 1, 'be high' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/g/881_rise_1_be_high_2|881_rise_1_be_high_2]]: Proto-Semitic *gVʾVy-, 'rise' 1, 'be high' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/886_become_rich|886_become_rich]]: Proto-Semitic *gVdVn-, 'become rich': reflexes in 1 language(s).
 
@@ -425,7 +429,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/932_be_black|932_be_black]]: Proto-Semitic *gVwVn-, 'be black': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/972_cavity_1_basin_tank_2|972_cavity_1_basin_tank_2]]: Proto-Semitic *gūr- 1 ~ *gurVn- 2, 'cavity' 1, 'basin, tank' 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/g/972_cavity_1_basin_tank_2|972_cavity_1_basin_tank_2]]: Proto-Semitic *gūr- 1 ~ *gurVn- 2, 'cavity' 1, 'basin, tank' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/g/973_well_n_1_moat_2|973_well_n_1_moat_2]]: Proto-Semitic *gub(b)-, 'well (n.)' 1, 'moat' 2: reflexes in 15 language(s).
 
@@ -433,17 +437,17 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/K0070_split|K0070_split]]: Proto-Semitic *gVlVʿ-, 'split': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/g/K0071_sweep|K0071_sweep]]: Proto-Semitic *garap-, 'sweep': reflexes in 2 language(s).
+[[wiki/semitic-roots/g/K0071_sweep|K0071_sweep]]: Proto-Semitic *garap-, 'sweep': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/K0072_crush|K0072_crush]]: Proto-Semitic *gVrVś-, 'crush': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/g/K0073_eject|K0073_eject]]: Proto-Semitic *garāš-, 'eject': reflexes in 8 language(s).
+[[wiki/semitic-roots/g/K0073_eject|K0073_eject]]: Proto-Semitic *garāš-, 'eject': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/g/K0075_touch|K0075_touch]]: Proto-Semitic *gVsVs-, 'touch': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/g/K0077_rejoice|K0077_rejoice]]: Proto-Semitic *giyl-, 'rejoice': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/g/K0079_rebuke|K0079_rebuke]]: Proto-Semitic *gVʿVr-, 'rebuke': reflexes in 7 language(s).
+[[wiki/semitic-roots/g/K0079_rebuke|K0079_rebuke]]: Proto-Semitic *gVʿVr-, 'rebuke': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/g/S62_to_be_perfect_complete|S62_to_be_perfect_complete]]: Proto-Semitic *gmr, 'to be perfect, complete': reflexes in 11 language(s).
 
@@ -453,7 +457,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/SA021_reduce_to_submission|SA021_reduce_to_submission]]: Epigraphic South Arabian headword *gbʾ, 'reduce to submission': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/SA022_go_just_before_dawn|SA022_go_just_before_dawn]]: Epigraphic South Arabian headword *ghm, 'go just before dawn': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/SA022_go_just_before_dawn|SA022_go_just_before_dawn]]: Epigraphic South Arabian headword *ghm, 'go just before dawn': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/SA023_storeroom|SA023_storeroom]]: Epigraphic South Arabian headword *gnz, 'storeroom': reflexes in 1 language(s).
 
@@ -461,7 +465,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/g/SA025_plaster_lime_plaster|SA025_plaster_lime_plaster]]: Epigraphic South Arabian headword *gyr, 'plaster; lime-plaster': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/g/SA026_contract_workers|SA026_contract_workers]]: Epigraphic South Arabian headword *gzp, 'contract workers': reflexes in 2 language(s).
+[[wiki/semitic-roots/g/SA026_to_sell_wholesale_wholesale_purchase|SA026_to_sell_wholesale_wholesale_purchase]]: Epigraphic South Arabian headword *gzp, 'to sell wholesale; wholesale purchase': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/SA027_WORK_OF_HEWN_WOOD|SA027_WORK_OF_HEWN_WOOD]]: Epigraphic South Arabian headword *gzʕ, 'WORK OF HEWN WOOD': reflexes in 2 language(s).
 

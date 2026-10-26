@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ɣfṣ̂ |
 | Meaning | 'to tie, to wrap' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 460 |
 
 ## Reflexes
 

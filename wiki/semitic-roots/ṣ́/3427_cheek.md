@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/3427_cheek
 title: "*ṣ̂agm-: 'cheek'"
-desc: "Proto-Semitic *ṣ̂agm-, 'cheek': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ṣ̂agm-, 'cheek': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3427"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṣ̂agm- |
 | Meaning | 'cheek' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1537 |
 
 ## Reflexes
 
@@ -32,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Mehri | ẑāgəm (ML 474 apud SEDonline 1537) | ML 474; SEDonline 1537 | gloss withheld |
 | Jibbali | ẓ̂agm (JL 324 apud SEDonline 1537) | JL 324; SEDonline 1537 | gloss withheld |
 | Modern South Arabian | Bathari ṣ̂agəm (Gasparini - Morris 2025 88 apud SEDonline 1537) | SEDonline 1537 | gloss withheld |
+| Soqotri | ẓ̂ágəm (Kogan 2015, ch. 8 §3.4.1 no. 114) | Kogan 2015 ch. 8 §3.4.1 no. 114 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

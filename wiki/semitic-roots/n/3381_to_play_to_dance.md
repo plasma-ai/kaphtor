@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3381_to_play_to_dance
 title: "*nḥg: 'to play, to dance'"
-desc: "Proto-Semitic *nḥg, 'to play, to dance': reflexes in 2 language(s)."
+desc: "Proto-Semitic *nḥg, 'to play, to dance': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3381"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*nḥg |
 | Meaning | 'to play, to dance' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1473 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | nəḥāg (ML 291 apud SEDonline 1473) | ML 291; SEDonline 1473 | gloss withheld |
 | Jibbali | naḥág (JL 186 apud SEDonline 1473) | JL 186; SEDonline 1473 | gloss withheld |
+| Soqotri | náḥag (Kogan 2015, ch. 8 §3.4.1 no. 75) | Kogan 2015 ch. 8 §3.4.1 no. 75 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ub/pātum OB; u. &lt; ebû; AHw., p.1400 |  | gloss withheld |
+| Akkadian | ub/pātum OB; AHw., p.1400 |  | gloss withheld |
 | East Ethiopic | Zway bāt LGur 162 | LGur 162 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

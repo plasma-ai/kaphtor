@@ -30,13 +30,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | lämläma (Kogan 2015, ch. 7 §4.2 no. 13), lämʕa | Kogan 2015, ch. 7 §4.2 no. 13 | gloss withheld |
-| Geez | lamlama (Kogan 2015, ch. 7 §4.2 no. 13) | Kogan 2015, ch. 7 §4.2 no. 13 | gloss withheld |
+| Tigre | lämläma (Kogan 2015, ch. 7 §4.2 no. 13), lämʕa | Kogan 2015 ch. 7 §4.2 no. 13 | gloss withheld |
+| Geez | lamlama (Kogan 2015, ch. 7 §4.2 no. 13) | Kogan 2015 ch. 7 §4.2 no. 13 | gloss withheld |
 | Gurage | läma |  | gloss withheld |
-| Amharic | lämallämä (Kogan 2015, ch. 7 §4.2 no. 13), lämma | Kogan 2015, ch. 7 §4.2 no. 13 | gloss withheld |
+| Amharic | lämallämä (Kogan 2015, ch. 7 §4.2 no. 13), lämma | Kogan 2015 ch. 7 §4.2 no. 13 | gloss withheld |
 | Gafat | lämlämʷä, lämmä |  | gloss withheld |
-| Tigrinya | lämlämä (Kogan 2015, ch. 7 §4.2 no. 13), lämmǝʕe | Kogan 2015, ch. 7 §4.2 no. 13 | gloss withheld |
+| Tigrinya | lämlämä (Kogan 2015, ch. 7 §4.2 no. 13), lämmǝʕe | Kogan 2015 ch. 7 §4.2 no. 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Leslau keeps lamʿa 'be resplendent, shine' apart from lamlama 'be verdant, soft, tender' (LGz. 315); 'shine' is 788.
 
 <!-- END kaphtor:record -->

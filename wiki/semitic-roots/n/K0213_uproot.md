@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | nataša 'drew' (Lane 2762) | Lane 2762 |  |
+| Arabic | nataša 'drew' (Lane 2762) | Lane 2762; Anderson–Moser 2024 root ntś |  |
 | Aramaic | NTŠ 'tear' | Anderson–Moser 2024 root ntś |  |
 | Geez | naśata 'destroy' | Anderson–Moser 2024 root ntś |  |
 | Hebrew | nataš 'pull' | Anderson–Moser 2024 root ntś |  |

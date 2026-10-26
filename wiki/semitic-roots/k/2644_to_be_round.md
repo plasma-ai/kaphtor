@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kabbaba, kubbat-, kabkāb- (Dozy) LGz 273 | Dozy; LGz 273 | gloss withheld |
-| Tigre | käbib, kǝbub (Kogan 2015, ch. 7 §2.3 no. 69) | Kogan 2015, ch. 7 §2.3 no. 69 | gloss withheld |
+| Tigre | käbib, kǝbub (Kogan 2015, ch. 7 §2.3 no. 69) | Kogan 2015 ch. 7 §2.3 no. 69 | gloss withheld |
 | Geez | kababa, kǝbb, kǝbub LGz 273 | LGz 273 | gloss withheld |
-| Gurage | Sod. kǝbb (Kogan 2015, ch. 7 §2.3 no. 69); Cha. kǝb | Kogan 2015, ch. 7 §2.3 no. 69 | gloss withheld |
+| Gurage | Sod. kǝbb (Kogan 2015, ch. 7 §2.3 no. 69); Cha. kǝb | Kogan 2015 ch. 7 §2.3 no. 69 | gloss withheld |
 | Hebrew | kirkeb |  | gloss withheld |
-| Amharic | kǝbb (Kogan 2015, ch. 7 §2.3 no. 69) | Kogan 2015, ch. 7 §2.3 no. 69 | gloss withheld |
+| Amharic | kǝbb (Kogan 2015, ch. 7 §2.3 no. 69) | Kogan 2015 ch. 7 §2.3 no. 69 | gloss withheld |
 | Tigrinya | käbäbä, kǝbib |  | gloss withheld |
-| East Ethiopic | Wol. kub (Kogan 2015, ch. 7 §2.3 no. 69) | Kogan 2015, ch. 7 §2.3 no. 69 | gloss withheld |
+| East Ethiopic | Wol. kub (Kogan 2015, ch. 7 §2.3 no. 69) | Kogan 2015 ch. 7 §2.3 no. 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

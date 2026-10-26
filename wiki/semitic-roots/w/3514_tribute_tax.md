@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | biltu (CAD B 229) | CAD B 229 | gloss withheld |
-| Epigraphic South Arabian | Sab wbl; blt (Biella 120) | Biella 120 | gloss withheld |
+| Epigraphic South Arabian | Sab wbl; blt (Biella 120); wbl (SD 155) | Biella 120; SD 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

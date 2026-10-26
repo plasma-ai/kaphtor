@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI_RA_DI_NA
 title: "DI-RA-DI-NA"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "DI-RA-DI-NA"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 PH 1a .1 \]DI-RA-DI-NA \*316, broken before the first DI (GORILA I 287). Sole attestation. Not readable.
 

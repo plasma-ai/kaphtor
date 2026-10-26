@@ -32,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Akkadian | ḫalāšu (CAD Ḫ 40; AHw. 311 apud SEDonline 472) | CAD Ḫ 40; AHw. 311; SEDonline 472 | gloss withheld |
 | Judaic Aramaic | JPA ḥlš (DJPA 204 apud SEDonline 472) | DJPA 204; SEDonline 472 | gloss withheld |
 | Arabic | ḫls (Lane 784 apud SEDonline 472) | Lane 784; SEDonline 472 | gloss withheld |
-| Soqotri | ḥéḷoš (LS 178; SLOnline 4044) | LS 178 | gloss withheld |
+| Soqotri | ḥéḷoš (LS 178; SLOnline 4044) | LS 178; SLOnline 4044 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

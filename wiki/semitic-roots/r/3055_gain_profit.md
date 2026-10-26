@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ribḥ (Lane 1009); rabiḥa (Biella 476) | Lane 1009; Biella 476 | gloss withheld |
 | Geez | rabḥa (LGz. 461) | LGz. 461 | gloss withheld |
-| Epigraphic South Arabian | Sab rbḥ (SD 114; Sabaweb lemmas 4867, 4868); (Biella 476; Sabaweb lemma 4868) | SD 114; Sabaweb lemmas 4867, 4868; Biella 476; Sabaweb lemma 4868 | gloss withheld |
+| Epigraphic South Arabian | Sab rbḥ (SD 114; Sabaweb lemmas 4867, 4868) (Biella 476; Sabaweb lemma 4868) | SD 114; Sabaweb lemmas 4867, 4868; Biella 476; Sabaweb lemma 4868 | gloss withheld |
 | Syrian Aramaic | rebḥā 'usury' (Payne Smith 526) | Payne Smith 526 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -33,7 +33,7 @@ updated: 2026-10-24T15:25:56Z
 | Mehri | ɣəróf (ML 141 apud SEDonline 2098) | ML 141; SEDonline 2098 | gloss withheld |
 | Jibbali | ɣárɔ́f (JL 88 apud SEDonline 2098) | JL 88; SEDonline 2098 | gloss withheld |
 | Harsusi | ɣerōf (HL 46 apud SEDonline 2098) | HL 46; SEDonline 2098 | gloss withheld |
-| Soqotri | ˁérof (LS 328; SLOnline 3289) | LS 328 | gloss withheld |
+| Soqotri | ˁérof (LS 328; SLOnline 3289) | LS 328; SLOnline 3289 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

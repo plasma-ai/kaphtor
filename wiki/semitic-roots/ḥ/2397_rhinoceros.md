@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/ḥ/2397_rhinoceros
-title: "*ḥar(i)ŝ/ŝx ( ~ *Hawuraris): 'rhinoceros'"
-desc: "Proto-Semitic *ḥar(i)ŝ/ŝx ( ~ *Hawuraris), 'rhinoceros': reflexes in 7 language(s)."
+title: "*ḥar(i)ŝ/ŝₓ ( ~ *Hawuraris): 'rhinoceros'"
+desc: "Proto-Semitic *ḥar(i)ŝ/ŝₓ ( ~ *Hawuraris), 'rhinoceros': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2397"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *ḥar(i)ŝ/ŝx ( ~ *Hawuraris): 'rhinoceros'
+# *ḥar(i)ŝ/ŝₓ ( ~ *Hawuraris): 'rhinoceros'
 
 [[wiki/semitic-roots/ḥ/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*ḥar(i)ŝ/ŝx ( ~ \*Hawuraris) |
+| Reconstruction | \*ḥar(i)ŝ/ŝₓ ( ~ \*Hawuraris) |
 | Meaning | 'rhinoceros' |
 | Basis | reconstruction SED, corrected; meaning SED |
 | SED | SEDonline semet 2654 |

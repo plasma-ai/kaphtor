@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3393_flower
 title: "*ṣaprir-: 'flower'"
-desc: "Proto-Semitic *ṣaprir-, 'flower': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ṣaprir-, 'flower': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3393"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṣaprir- |
 | Meaning | 'flower' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1520 |
 
 ## Reflexes
 
@@ -32,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Mehri | ṣəfrīr (ML 359 apud SEDonline 1520) | ML 359; SEDonline 1520 | gloss withheld |
 | Jibbali | ṣəfrér (JL 236 apud SEDonline 1520) | JL 236; SEDonline 1520 | gloss withheld |
 | Modern South Arabian | Bathari ṣefrír, ṣefrīr (Gasparini - Morris 2025 96 apud SEDonline 1520) | SEDonline 1520 | gloss withheld |
+| Soqotri | ṣáfrər (Kogan 2015, ch. 8 §3.4.1 no. 101) | Kogan 2015 ch. 8 §3.4.1 no. 101 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | galʿa 'split' | Anderson–Moser 2024 root glʿ |  |
 | Arabic | ǧalaʿa (LGz. 189) | LGz. 189 | gloss withheld |
 | Hebrew | glʿ (hitpael), PbH. gālaʿ (LGz. 189) | LGz. 189 | gloss withheld |
-| Syrian Aramaic | gəlaʿ &gt; (LGz. 189) | LGz. 189 | gloss withheld |
+| Syrian Aramaic | gəlaʿ (LGz. 189) | LGz. 189 | gloss withheld |
 | Tigre | gälʿa (LGz. 189) | LGz. 189 | gloss withheld |
 | Tigrinya | gälləʿe (LGz. 189) | LGz. 189 |  |
 

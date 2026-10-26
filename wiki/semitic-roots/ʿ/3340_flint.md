@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3340_flint
 title: "*ʕibal: 'flint'"
-desc: "Proto-Semitic *ʕibal, 'flint': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕibal, 'flint': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3340"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ʕibal |
 | Meaning | 'flint' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 422 |
 
 ## Reflexes
 
@@ -32,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Mehri | ˀáybəl (ML 10 apud SEDonline 422) | ML 10; SEDonline 422 | gloss withheld |
 | Jibbali | ˁayɛ́l (JL 6 apud SEDonline 422) | JL 6; SEDonline 422 | gloss withheld |
 | Harsusi | ˀābēl (HL 5 apud SEDonline 422) | HL 5; SEDonline 422 | gloss withheld |
+| Soqotri | ʿíbhaḷ (Kogan 2015, ch. 8 §3.4.1 no. 3) | Kogan 2015 ch. 8 §3.4.1 no. 3 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

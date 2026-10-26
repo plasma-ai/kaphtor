@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | neṯk |  |  |
 | Akkadian | nšk |  |  |
-| Ugaritic | nṯk |  |  |
+| Ugaritic | nṯk (Kogan 2015, ch. 5 §2.2.1 no. 7) | Kogan 2015 ch. 5 §2.2.1 no. 7 |  |
 | Geez | nsk |  |  |
 | Hebrew | nšk |  |  |
 | Punic | nks (DISO 179 apud HALOT 729) | DISO 179; HALOT 729 |  |

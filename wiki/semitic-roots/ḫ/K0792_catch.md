@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫaṭifa 'seized' (Lane 765) | Lane 765 |  |
+| Arabic | ḫaṭifa 'seized' (Lane 765) | Lane 765; Anderson–Moser 2024 root ḫṭp |  |
 | Aramaic | ḤṬP 'snatch' | Anderson–Moser 2024 root ḫṭp |  |
 | Hebrew | ḥaṭap 'catch' | Anderson–Moser 2024 root ḫṭp |  |
 | Syrian Aramaic | ḥṭap 'seize, snatch, rob; usurp' (Payne Smith 138) | Payne Smith 138 |  |

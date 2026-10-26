@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | kawr- (BK 2 942, Fr. IV 69, LA V 155), (WKAS K 429) | BK 2 942, Fr. IV 69, LA V 155; WKAS K 429 | gloss withheld |
+| Arabic | kawr- (BK 2 942, Fr. IV 69, LA V 155) (WKAS K 429) | BK 2 942, Fr. IV 69, LA V 155; WKAS K 429 | gloss withheld |
 | Hebrew | \*kirkārā (or kirkärät) (HALOT 498) | HALOT 498 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

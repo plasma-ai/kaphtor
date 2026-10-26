@@ -29,11 +29,11 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | perʾu (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Syrian Aramaic | perʿā (Kogan 2011, 201) | Kogan 2011, 201 | gloss withheld |
-| Tigrinya | färrəʿe (Kogan 2011, 201) | Kogan 2011, 201 | gloss withheld |
-| Mehri | fátrəγ (Kogan 2011, 201) | Kogan 2011, 201 | gloss withheld |
-| Jibbali | férəγ (Kogan 2011, 201) | Kogan 2011, 201 | gloss withheld |
+| Akkadian | perʾu (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Syrian Aramaic | perʿā (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
+| Tigrinya | färrəʿe (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
+| Mehri | fátrəɣ (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
+| Jibbali | férəɣ (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | grd (hitp.) (Jb 2:8; HALOT 202) | HALOT 202 | gloss withheld |
-| Punic | mgrd (T 165), (Krahmalkov 271) | T 165; Krahmalkov 271 | gloss withheld |
+| Punic | mgrd (T 165) (Krahmalkov 271) | T 165; Krahmalkov 271 | gloss withheld |
 | Judaic Aramaic | grd (HALOT 202) | HALOT 202 | gloss withheld |
 | Syrian Aramaic | gᵉrad (HALOT 202) | HALOT 202 | gloss withheld |
 | Mandaic Aramaic | grida (HALOT 202) | HALOT 202 | gloss withheld |
@@ -41,6 +41,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED treats \*g(ʷ)rd as a variant of 2080 \*ḳurd- (Notes there). Akk. qerdu 'frayed wool' (HALOT 202).
+SED treats \*g(ʷ)rd 'to scrape, remove hair by scraping' as a variant root of 2080 \*ḳurd- 'disease causing fall of hair'. Akk. qerdu 'frayed wool' (HALOT 202).
 
 <!-- END kaphtor:record -->

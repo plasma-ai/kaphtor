@@ -49,6 +49,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_star325_ZA\|A-\*325-ZA]] | ʾabūs(a) | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_ZA\|MA-ZA]] | mazza | SPECULATIVE |
+| [[wiki/linear-a/words/M/ME_ZA\|ME-ZA]] | massu | CANDIDATE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_ZA\|RE-ZA]] | (ʾa)raz | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | CANDIDATE |

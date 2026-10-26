@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ɣayn- BK 2 527 |  |  |
 | Mandaic Aramaic | anan- (Drower/Macuch 24a apud CAL) | Macuch 24a; CAL |  |
 | Biblical Aramaic | ʕănān (CAL s.v. ʿnn) | CAL s.v. ʿnn |  |
-| Hebrew | ʕānān |  |  |
+| Hebrew | ʕānān (Kogan 2015, ch. 4 §3.1.2 no. 14) | Kogan 2015 ch. 4 §3.1.2 no. 14 |  |
 | Syrian Aramaic | ʕǝnān- (Payne Smith 420) | Payne Smith 420 |  |
 | Judaic Aramaic | ʿnn (HALOT 857; DJPA 413b apud CAL) | HALOT 857; DJPA 413b; CAL |  |
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | kurkiyy- \[BK 2 888\], \[WKAS k 136\], \[LA X 481\]. | BK 2 888; WKAS k 136; LA X 481 | gloss withheld |
-| Akkadian | kurkû \[CAD k 561\], \[AHw. 510\] | CAD k 561; AHw. 510; ibid. 1568; AHw. | gloss withheld |
+| Akkadian | kurkû \[CAD k 561\], \[AHw. 510\] | CAD k 561; AHw. 510 | gloss withheld |
 | Mandaic Aramaic | kurkia \[DM 209\]. | DM 209 | gloss withheld |
 | Geez | kʷarāki, korki \[LGz. 291\]. | LGz. 291 | gloss withheld |
 | Judaic Aramaic | kurkǝyā 'crane' \[Ja. 625\]. | Ja. 625 |  |

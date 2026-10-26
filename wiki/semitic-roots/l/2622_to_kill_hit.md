@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | lt/dɣ |  | gloss withheld |
 | Mehri | lutōɣ |  | gloss withheld |
-| Soqotri | ḷataʕ; ḷátaˁ (SLOnline 7777) |  | gloss withheld |
+| Soqotri | ḷataʕ; ḷátaˁ (SLOnline 7777) | SLOnline 7777 | gloss withheld |
 | Harsusi | letōɣ |  | gloss withheld |
-| Jibbali | letǝɣ |  | gloss withheld |
+| Jibbali | letǝɣ (Kogan 2015, ch. 8 §3.2.2.2 no. 43) | Kogan 2015 ch. 8 §3.2.2.2 no. 43 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | anäqä (LGz. 263) | LGz. 263 |  |
 | Phoenician | ḥnq: ḥnqt (T 110) | T 110 | gloss withheld |
 | Jibbali | ḫnq (T 110) | T 110 |  |
-| Soqotri | ḥénaḳ (LS 183; SLOnline 26515) | LS 183 | gloss withheld |
+| Soqotri | ḥénaḳ (LS 183; SLOnline 26515) | LS 183; SLOnline 26515 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

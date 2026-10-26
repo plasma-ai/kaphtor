@@ -36,18 +36,18 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | šina \[DM 789\] | DM 789 |  |
 | Ugaritic | šn \[Aist 311\] | Aist 311 |  |
 | East Ethiopic | SEL isn, WOL ǝsǝn, ZWY sǝn \[LGur 549\]. | LGur 549 |  |
-| Geez | sǝnn (Kogan 2015, ch. 7 §2.2 no. 89) | Kogan 2015, ch. 7 §2.2 no. 89 |  |
+| Geez | sǝnn (Kogan 2015, ch. 7 §2.2 no. 89) | Kogan 2015 ch. 7 §2.2 no. 89 |  |
 | Gurage | CHA sǝn, EŽA MUH MSQ GOG SOD sǝnn, ENN END GYE šǝn \[LGur 549\] | LGur 549 |  |
 | Biblical Aramaic | šinnayin (du.) (BDB 1116) | BDB 1116 |  |
 | Phoenician | šn (Krahmalkov 473) | Krahmalkov 473 | gloss withheld |
 | Jibbali | šnin \[JJ 262\] | JJ 262 |  |
 | Hebrew | šēn (HALOT 1593, 1594) | HALOT 1593, 1594 |  |
 | Judaic Aramaic | šinnā \[Ja 1603\]; šn, det. šännā \[DJPA 559b apud CAL\]. | Ja 1603; DJPA 559b; CAL |  |
-| Harari | sǝn (Kogan 2015, ch. 7 §2.2 no. 89) | Kogan 2015, ch. 7 §2.2 no. 89 |  |
+| Harari | sǝn (Kogan 2015, ch. 7 §2.2 no. 89) | Kogan 2015 ch. 7 §2.2 no. 89 |  |
 | Syrian Aramaic | šennā \[Brock 789\] | Brock 789 |  |
 | Gafat | sǝnä \[LGaf 231\] | LGaf 231 |  |
-| Argobba | sǝn (Kogan 2015, ch. 1 §1.2 no. 89) | Kogan 2015, ch. 1 §1.2 no. 89 |  |
-| Tigrinya | sǝnni (Kogan 2015, ch. 7 §2.2 no. 89) | Kogan 2015, ch. 7 §2.2 no. 89 |  |
+| Argobba | sǝn (Kogan 2015, ch. 1 §1.2 no. 89) | Kogan 2015 ch. 1 §1.2 no. 89 |  |
+| Tigrinya | sǝnni (Kogan 2015, ch. 7 §2.2 no. 89) | Kogan 2015 ch. 7 §2.2 no. 89 |  |
 | Tigre | sənnät (LGz. 504) | LGz. 504 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

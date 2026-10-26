@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | durr-at- 'parrot' \[BK 1 682\], 'rose-ringed parakeet' \[Dozy I 428\]. | BK 1 682; Dozy I 428 |  |
-| Hebrew | dǝrōr (HALOT 230), pB. ṣippōr dǝrōr \[Ja. 322\] (a folk-etymological interpretation through dǝrōr) | HALOT 230; Ja. 322 | gloss withheld |
-| Aramaic | D.-Alla drr \[HJ 262\] | HJ 262; Hackett 49 | gloss withheld |
+| Hebrew | dǝrōr (HALOT 230), pB. ṣippōr dǝrōr \[Ja. 322\] | HALOT 230; Ja. 322 | gloss withheld |
+| Aramaic | D.-Alla drr \[HJ 262\] | HJ 262 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

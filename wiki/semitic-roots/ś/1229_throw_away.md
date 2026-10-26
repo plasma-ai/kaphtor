@@ -36,4 +36,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Hebrew slh and JA slʾ (HALOT 756) have s against the ś expected for \*ŝ; HALOT compares Akkadian salāʾu beside šalû.
+
 <!-- END kaphtor:record -->

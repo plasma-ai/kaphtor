@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳadam- 'the first step; step; foot' (BK 2, 690); qadīm- 'ancient, old' (BK 2, 691) | BK 2, 690; BK 2, 691 |  |
-| Modern Arabic | Mec. gadam &lt; \*ḳadam |  | gloss withheld |
+| Modern Arabic | Mec. gadam |  | gloss withheld |
 | Geez | qadama (LGz. 421) | LGz. 421 | gloss withheld |
 | Akkadian | qudmu (qudumu, qadmu) (CAD Q 295); qudmû (CAD Q 296) | CAD Q 295; CAD Q 296 | gloss withheld |
 | Punic | qdm 'ancient' | Anderson–Moser 2024 root qdm |  |

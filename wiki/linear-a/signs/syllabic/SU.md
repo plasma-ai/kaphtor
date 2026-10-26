@@ -47,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI_SU\|A-RI-SU]] | ḥārišu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SU_PU_WA\|A-SU-PU-WA]] | ʾasuppūa | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_SU_NI\|DU-SU-NI]] | Dišon | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | yadaʿšu | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt | CANDIDATE |
@@ -61,6 +62,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | subāra | PROBABLE |
 | [[wiki/linear-a/words/S/SU_PU\|SU-PU]] | sapu | CONFIRMED |
+| [[wiki/linear-a/words/S/SU_PU2\|SU-PU₂]] | Ṣubʾu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | sapu buṭni | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | CANDIDATE |

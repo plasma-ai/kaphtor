@@ -32,11 +32,11 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔist- (with ʔalif waṣlah) 'backside, bottom, buttocks' \[BK 1 31\]. | BK 1 31 |  |
 | Mehri | šīt (suff. šáyt-V, šǝ́t-C), pl. šǝtōtǝn \[JM 396\] | JM 396 | gloss withheld |
-| Soqotri | šéh \[LS 413\], šího, dual šihoiti, pl. šihéten \[ibid.\], šihoʔ \[JJ 264\], QALAN-V šī́hoeʔ \[SSL 4 98\]. | LS 413; ibid.; JJ 264; SSL 4 98 | gloss withheld |
+| Soqotri | šéh \[LS 413\], šího, dual šihoiti, pl. šihéten \[ibid.\], šihoʔ \[JJ 264\], QALAN-V šī́hoeʔ \[SSL 4 98\]. | LS 413; JJ 264; SSL 4 98 | gloss withheld |
 | Akkadian | (?) išdu (ištu, ildu, irdu, ešdu, ušdu) OAkk on \[CAD i 235\], \[AHw 393\]. | CAD i 235; AHw 393 | gloss withheld |
 | Harsusi | šīt \[JH 125\] | JH 125 | gloss withheld |
 | Eblaitic | (?) DÚR = iš-dum \[DULAT 112\] | DULAT 112 |  |
-| Mandaic Aramaic | šata \[DM 446\]; also ʕšta (&lt;\*ʔVšt-) \[ibid. 358\] | DM 446; ibid. 358 | gloss withheld |
+| Mandaic Aramaic | šata \[DM 446\]; also ʕšta \[ibid. 358\] | DM 446; DM 358 | gloss withheld |
 | Ugaritic | (?) ʔišd \[DULAT 112-13\], /ʔišdu/ (UVST 111) | DULAT 112-13; UVST 111 | gloss withheld |
 | East Ethiopic | SEL suto \[LGur 566\]. | LGur 566 | gloss withheld |
 | Gurage | END ušt \[ibid. 102\] |  | gloss withheld |

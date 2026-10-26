@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/g/875_big_1_be_big_2_become_big_strong_3
-title: "*gVdVl-: 'big' 1, 'be big' 2 'become big, strong' 3"
-desc: "Proto-Semitic *gVdVl-, 'big' 1, 'be big' 2 'become big, strong' 3: reflexes in 6 language(s)."
+title: "*gVdVl-: 'big' 1, 'be big' 2, 'become big, strong' 3"
+desc: "Proto-Semitic *gVdVl-, 'big' 1, 'be big' 2, 'become big, strong' 3: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "875"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *gVdVl-: 'big' 1, 'be big' 2 'become big, strong' 3
+# *gVdVl-: 'big' 1, 'be big' 2, 'become big, strong' 3
 
 [[wiki/semitic-roots/g/_index|..]]
 
@@ -22,8 +22,8 @@ updated: 2026-10-22T17:38:31Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*gVdVl- |
-| Meaning | 'big' 1, 'be big' 2 'become big, strong' 3 |
-| Basis | SED |
+| Meaning | 'big' 1, 'be big' 2, 'become big, strong' 3 |
+| Basis | reconstruction SED; meaning SED, corrected |
 | SED | SEDonline semet 889 |
 
 ## Reflexes

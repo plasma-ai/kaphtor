@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3221_towards
 title: "*ʾil(ay): 'towards'"
-desc: "Proto-Semitic *ʾil(ay), 'towards': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʾil(ay), 'towards': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3221"
@@ -29,9 +29,10 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ʾäl-, ʾä̆lē (Kogan 2015, ch. 3 §5.2 no. 3) | Kogan 2015, ch. 3 §5.2 no. 3 | gloss withheld |
-| Aramaic | OAram., Off. ʾl (Kogan 2015, ch. 3 §5.2 no. 3) | Kogan 2015, ch. 3 §5.2 no. 3 | gloss withheld |
-| Arabic | ʾilā (Kogan 2015, ch. 3 §5.2 no. 3) | Kogan 2015, ch. 3 §5.2 no. 3 | gloss withheld |
+| Hebrew | ʾäl-, ʾä̆lē (Kogan 2015, ch. 3 §5.2 no. 3) | Kogan 2015 ch. 3 §5.2 no. 3 | gloss withheld |
+| Aramaic | OAram., Off. ʾl (Kogan 2015, ch. 3 §5.2 no. 3) | Kogan 2015 ch. 3 §5.2 no. 3 | gloss withheld |
+| Arabic | ʾilā (Kogan 2015, ch. 3 §5.2 no. 3) | Kogan 2015 ch. 3 §5.2 no. 3 | gloss withheld |
+| Phoenician | ʾl (T 15) | T 15 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

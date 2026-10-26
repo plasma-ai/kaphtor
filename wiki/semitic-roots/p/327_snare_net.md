@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | faḫḫ- (Lane 2348) | Lane 2348 |  |
-| Hebrew | paḥ(ḥ) (Kogan 2015, ch. 3 §5.2 no. 43) | Kogan 2015, ch. 3 §5.2 no. 43 |  |
+| Hebrew | paḥ(ḥ) (Kogan 2015, ch. 3 §5.2 no. 43) | Kogan 2015 ch. 3 §5.2 no. 43 |  |
 | Syrian Aramaic | paḥ(ḥ)- |  |  |
 | Judaic Aramaic | paḥḥā (HALOT 921) | HALOT 921 |  |
 

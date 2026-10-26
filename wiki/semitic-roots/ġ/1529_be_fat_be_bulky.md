@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ɣlẓ \[-i-, -u-\] (Lane 2282) | Lane 2282 |  |
-| Mehri | ɣelayz |  |  |
-| Harsusi | ɣelez |  |  |
+| Mehri | ɣelayẓ (HSED 1005) | HSED 1005 |  |
+| Harsusi | ɣeleẓ (HSED 1005) | HSED 1005 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | yry |  |  |
 | Geez | wrw |  |  |
 | Hebrew | yry |  |  |
-| Epigraphic South Arabian | wrw (HALOT 436); (Sabaweb lemma 5437) | HALOT 436; Sabaweb lemma 5437 | gloss withheld |
+| Epigraphic South Arabian | wrw (HALOT 436) (Sabaweb lemma 5437) | HALOT 436; Sabaweb lemma 5437 | gloss withheld |
 | Tigre | warwara (HALOT 436) | HALOT 436 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

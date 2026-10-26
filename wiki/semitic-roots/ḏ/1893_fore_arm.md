@@ -34,16 +34,16 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ḏarʔ \[JM 81\] | JM 81 |  |
 | Soqotri | (du.) diréʕi \[LS 136\]; cf. also \[SSL 2 212-3\] | LS 136; SSL 2 212-3 | gloss withheld |
 | Harsusi | ḏērā \[JH 29\] | JH 29 |  |
-| Tigre | mäzrǝʕt (also) \[LH 496\]. | LH 496 | gloss withheld |
+| Tigre | mäzrǝʕt \[LH 496\]. | LH 496 | gloss withheld |
 | Canaanite | AMARNA zu-ru-uḫ (=AKK ḳātu) \[HJ 342\] | HJ 342 |  |
 | Mandaic Aramaic | dra \[DM 114\] | DM 114 |  |
 | Ugaritic | ḏrʕ \[DULAT 285\] | DULAT 285 |  |
-| Geez | mazrāʕt (also) \[LGz 379\] | LGz 379 | gloss withheld |
-| Biblical Aramaic | dǝrāʕ, (du. suff. 3 sing. m.) dǝrāʕṓhī (BDB 1089); ʔädrāʕ (also 'force, power') (ibid.) (with ʔä- prefixed) | BDB 1089; ibid. |  |
+| Geez | mazrāʕt \[LGz 379\] | LGz 379 | gloss withheld |
+| Biblical Aramaic | dǝrāʕ, (du. suff. 3 sing. m.) dǝrāʕṓhī (BDB 1089); ʔädrāʕ (also 'force, power') (ibid.) | BDB 1089 |  |
 | Modern Aramaic | MAL ḏrōʕa \[Berg 22\] TUR drūʕō \[R Ṭūrōyo 114\] NASS drɔ̄nɔ \[Tser 059\] URM drana \[R Urmi 98\] IRAN \*drānā; with suff. dᵉrânū \[Pen 72\] | Berg 22; Tser 059; Pen 72 | gloss withheld |
 | Jibbali | ḏɛ́raʕ \[JJ 47\] | JJ 47 |  |
 | Hebrew | zǝrōăʕ (HALOT 280), ʔäzrōăʕ (HALOT 28) | HALOT 280; HALOT 28 |  |
-| Judaic Aramaic | dǝrāʕā (also) \[Ja 324\]; ʔädrǝʕā \[ibid. 19\], ʔädraʕ \[DJPA 37a apud CAL\] (with ʔä- prefixed) | Ja 324; ibid. 19; DJPA 37a; CAL | gloss withheld |
+| Judaic Aramaic | dǝrāʕā \[Ja 324\]; ʔädrǝʕā \[ibid. 19\], ʔädraʕ \[DJPA 37a apud CAL\] | Ja 324; Ja 19; DJPA 37a; CAL | gloss withheld |
 | Syrian Aramaic | dǝrāʕā 'arm, shoulder, elbow/forearm' \[Brock 168\] | Brock 168 |  |
 | Aramaic | OFF drʕ \[HJ 342\] | HJ 342 |  |
 | Tigrinya | mäzraʕt \[LGz 379\]. | LGz 379 |  |

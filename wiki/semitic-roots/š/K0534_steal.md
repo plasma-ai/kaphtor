@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šarāqu 'steal' | Anderson–Moser 2024 root šrq |  |
+| Akkadian | šarāqu (CAD Š/2 53) | CAD Š/2 53; Anderson–Moser 2024 root šrq | gloss withheld |
 | Geez | saraqa 'steal' | Anderson–Moser 2024 root šrq |  |
 | Epigraphic South Arabian | Sab s1rq (SD 128; Sabaweb lemma 5039) | SD 128; Sabaweb lemma 5039 | gloss withheld |
 | Jibbali | šeroq (LGz. 514) | LGz. 514 |  |

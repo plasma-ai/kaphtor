@@ -55,7 +55,13 @@ di Mino; Gelb, Purves, and MacRae 1943
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Iruja | personal name, Hurrian hypocoristic of Irup-tešup, 3 | SPECULATIVE |
 
 ## Onomasticon
 

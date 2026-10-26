@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | hawwām- \[BK 2 1460\], \[Fr. IV 419\], \[TA XXXIV 127\]. | BK 2 1460; Fr. IV 419; TA XXXIV 127 | gloss withheld |
-| Akkadian | umāmu (emammu, emāmu) OB on \[AHw. 1412\] | AHw. 1412; Landsberger Fauna 30 | gloss withheld |
+| Akkadian | umāmu (emammu, emāmu) OB on \[AHw. 1412\] | AHw. 1412 | gloss withheld |
 | Tigre | hǝmmäm \[LH 7\]. | LH 7 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

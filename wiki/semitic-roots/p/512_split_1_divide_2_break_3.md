@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | frq \[-i-, -u-\] 1, 2 |  |  |
 | Akkadian | parāqu 1, 2 |  |  |
-| Ugaritic | prq 3 (yprq lṣb, meaning disputed; Aistleitner 2282 apud HALOT 973) | HALOT 973 | gloss withheld |
+| Ugaritic | prq 3 (Aistleitner 2282 apud HALOT 973) | HALOT 973 | gloss withheld |
 | Geez | frq 2 |  |  |
 | Hebrew | prq 3 |  |  |
 | Syrian Aramaic | prq 2 |  |  |

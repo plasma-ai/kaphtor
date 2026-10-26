@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ʾBL (Aramaic Root Atlas; Qumran 2 apud CAL) | Aramaic Root Atlas; CAL | gloss withheld |
+| Aramaic | ʾBL (Aramaic Root Atlas; Qumran 2 apud CAL) | Aramaic Root Atlas; CAL; Anderson–Moser 2024 root ʾbl | gloss withheld |
 | Hebrew | ʾabal 'mourn' | Anderson–Moser 2024 root ʾbl |  |
 | Syrian Aramaic | ʔetebel 'mourn, lament' (Payne Smith 2) | Payne Smith 2 |  |
 | Arabic | ʾabbala (HALOT 6) | HALOT 6 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2528_root_medicine
 title: "*ʕiḳ(ḳ)ār-: 'root; medicine'"
-desc: "Proto-Semitic *ʕiḳ(ḳ)ār-, 'root; medicine': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ʕiḳ(ḳ)ār-, 'root; medicine': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2528"
@@ -39,6 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕēḳārā 'root; medicine/drug' \[Brock 543\] | Brock 543 |  |
 | Aramaic | Pal ʕyḳr |  | gloss withheld |
 | Mandaic Aramaic | ʿqr (HALOT 874) | HALOT 874 |  |
+| Biblical Aramaic | ʕiḳḳar (Kogan 2015, ch. 6 §2 no. 4) | Kogan 2015 ch. 6 §2 no. 4 | gloss withheld |
+| Judaic Aramaic | ʕiḳḳārā (Kogan 2015, ch. 6 §2 no. 4) | Kogan 2015 ch. 6 §2 no. 4 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

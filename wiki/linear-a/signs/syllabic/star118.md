@@ -47,10 +47,11 @@ Evidence: t and r 8/12, ṭ 4/12; QA-\*118-SA and \*118-MI need plain d; QA-QA-D
 - QA-\*118-RA-RE = qaṭara (√q-ṭ-r "incense") at HT96b
 - \*118-MI = ṭami ("blood", √d-m; Hebrew dam) at ZA21a, a counted entry on a tablet
 - QA-\*118 = qaṭṭ "flax" (KH10; DULAT 708)
+- DA-SI-\*118 = ḏā-šiṭṭa "those of Acacia" (HT13, HT85a, HT99b, HT122a; Heb. šiṭṭâ, HALOT 1473): s-t and s-d give no acacia
 
 ### Note
 
-Emphatic dental sign, filling the gap between DA and TA in the standard syllabary. The Aegean script neutralizes voicing (DA/TA both cover /da/ and /ta/) but provides no sign for emphatic /ṭ/, which Semitic languages require. \*118 covers emphatic and marked dentals (ṭ, ḍ, ḏ), beside \*314 = ḤA in the pharyngeal gap. QA-\*118 stands in 5 words, and QA-DA only inside QA-QA-DA (PE2); DA-SI-\*118 uses both signs in one word. 26 occurrences across 8 sites. \|\| Standing alone with a quantity (HT12 '\*118 5', HT24b ×3 with fractions 1¾/1¾/1, KN2 '\*118 3'), \*118 is the weight logogram, the talent, as Linear B \*118 L (Bartoněk 2003, 126; Killen 2024, 141); the syllabic reading applies only inside words and ligatures. \|\| d is possible only in QA-\*118-SA qōdeš 'holy portion' (HT70; HALOT 1076), ṯ in QA-\*118 quṯṯāʾ 'cucumber' (HALOT 1151) and \*21F-\*118 ḥṯ 'unleavened bread' (DULAT 373).
+Emphatic dental sign, filling the gap between DA and TA in the standard syllabary. DA writes d and TA writes t, as Linear B keeps its D and T series apart (lexicon dental readings: 141 match, 6 mismatch), but no sign writes emphatic /ṭ/, which Semitic languages require. \*118 covers emphatic and marked dentals (ṭ, ḍ, ḏ), beside \*314 = ḤA in the pharyngeal gap. QA-\*118 stands in 5 words, and QA-DA only inside QA-QA-DA (PE2); DA-SI-\*118 uses both signs in one word. 26 occurrences across 8 sites. \|\| Standing alone with a quantity (HT12 '\*118 5', HT24b ×3 with fractions 1¾/1¾/1, KN2 '\*118 3'), \*118 is the weight logogram, the talent, as Linear B \*118 L (Bartoněk 2003, 126; Killen 2024, 141); the syllabic reading applies only inside words and ligatures. \|\| d is possible only in QA-\*118-SA qōdeš 'holy portion' (HT70; HALOT 1076), ṯ in QA-\*118 quṯṯāʾ 'cucumber' (HALOT 1151) and \*21F-\*118 ḥṯ 'unleavened bread' (DULAT 373).
 
 ## Also in logograms
 
@@ -62,7 +63,7 @@ Emphatic dental sign, filling the gap between DA and TA in the standard syllabar
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/star/star118_MI\|\*118-MI]] | ṭami | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Dasiṭa | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqa-\*118 | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118\|QA-\*118]] | qaṭṭ(u) | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |

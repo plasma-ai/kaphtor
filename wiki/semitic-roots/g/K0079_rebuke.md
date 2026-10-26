@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/K0079_rebuke
 title: "*gVʿVr-: 'rebuke'"
-desc: "Proto-Semitic *gVʿVr-, 'rebuke': reflexes in 7 language(s)."
+desc: "Proto-Semitic *gVʿVr-, 'rebuke': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0079"
@@ -29,7 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | GʿR (Aramaic Root Atlas; CAL s.v. gʿr) | Aramaic Root Atlas; CAL s.v. gʿr | gloss withheld |
+| Aramaic | GʿR (Aramaic Root Atlas; CAL s.v. gʿr) | Aramaic Root Atlas; CAL s.v. gʿr; Anderson–Moser 2024 root gʿr | gloss withheld |
+| Geez | gəʿra 'cry' | Anderson–Moser 2024 root gʿr |  |
 | Hebrew | gaʿar 'rebuke' | Anderson–Moser 2024 root gʿr |  |
 | Ugaritic | gʿr 'reproach' | Anderson–Moser 2024 root gʿr |  |
 | Tigre | gaʿara (HALOT 199) | HALOT 199 |  |

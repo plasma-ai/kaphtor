@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3075_to_come_to_drift_ashore
 title: "*gdḥ: 'to come, to drift ashore'"
-desc: "Proto-Semitic *gdḥ, 'to come, to drift ashore': reflexes in 2 language(s)."
+desc: "Proto-Semitic *gdḥ, 'to come, to drift ashore': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3075"
@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*gdḥ |
 | Meaning | 'to come, to drift ashore' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 450 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | gōdəḥ (ML 114 apud SEDonline 450) | ML 114; SEDonline 450 | gloss withheld |
 | Jibbali | gédaḥ (JL 70 apud SEDonline 450) | JL 70; SEDonline 450 | gloss withheld |
+| Soqotri | gédaḥ (Kogan 2015, ch. 8 §3.4.1 no. 25) | Kogan 2015 ch. 8 §3.4.1 no. 25 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

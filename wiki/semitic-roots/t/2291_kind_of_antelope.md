@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Tigre | tay (pl. tayatat) \[LH 320\]. | LH 320 | gloss withheld |
-| Hebrew | tǝʔō, constr. tō(ʔ) (HALOT 1673), pB. \[Ja. 1641\] | HALOT 1673; Ja. 1641; Talshir 252 | gloss withheld |
+| Hebrew | tǝʔō, constr. tō(ʔ) (HALOT 1673), pB. \[Ja. 1641\] | HALOT 1673; Ja. 1641 | gloss withheld |
 | Amharic | (?) tǝw(w) \[K 994\] | K 994 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

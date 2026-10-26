@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | mədər (LGz. 330) | LGz. 330 | gloss withheld |
 | Gurage | mədər (LGz. 330) | LGz. 330 | gloss withheld |
 | Tigrinya | mədri (LGz. 330) | LGz. 330 | gloss withheld |
-| Judaic Aramaic | midrā (Kogan 2011, 189) | Kogan 2011, 189 | gloss withheld |
+| Judaic Aramaic | midrā (Kogan 2011, 189) | Kogan 2011 189 | gloss withheld |
 | Argobba | mədər (Leslau 1997:211, AAD 108 apud SEDonline 517) | Leslau 1997:211, AAD 108; SEDonline 517 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

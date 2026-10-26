@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ḥāpaś 'search' (BDB 344); ḥēpeś 'plot, device' (BDB 344) | BDB 344; BDB 344 |  |
+| Hebrew | ḥāpaś 'search' (BDB 344); ḥēpeś 'plot, device' (BDB 344) | BDB 344 |  |
 | Ugaritic | ḥpšt (HALOT 341) | HALOT 341 |  |
 | Arabic | ḥafaša (HALOT 341) | HALOT 341 |  |
 | Tigre | ḥafs/ša (HALOT 341) | HALOT 341 |  |

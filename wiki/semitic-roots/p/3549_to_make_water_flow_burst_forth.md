@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʾafǧara 'he made it (a spring) to well forth', infaǧara 'it had a passage opened for it to flow forth' (Lane 2341); mafǧar 'a place through which water flows' (Lane 2342) | Lane 2341; Lane 2342 |  |
-| Epigraphic South Arabian | Sab fgr (SD 43); (Biella 400) | SD 43; Biella 400 | gloss withheld |
+| Epigraphic South Arabian | Sab fgr (SD 43) (Biella 400) | SD 43; Biella 400 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ṭayn |  |  |
 | Jibbali | ṭun |  |  |
 | Syrian Aramaic | ṭīn- |  |  |
-| Tigre | (tə)ṭäyyänä (Kogan 2011, 189) | Kogan 2011, 189 | gloss withheld |
+| Tigre | (tə)ṭäyyänä (Kogan 2011, 189) | Kogan 2011 189 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

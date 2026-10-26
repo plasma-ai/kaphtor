@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/PK/PK/PK1
 title: "PK1"
-desc: "Tablet, Palaikastro, LMI. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Palaikastro, LMI. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "PK1"
 site: "Palaikastro"
 support: "Tablet"
 period: "LMI"
-translation: "none"
-words: ["MA-KA-I-TA", "O-KA-MI-ZA-SI-I-NA", "TA₂-TA-RE"]
+translation: "incomplete"
+words: ["MA-KA-I-TA", "O-KA-MI-ZA-SI-I-NA", "TA₂-TA-RE", "TA₂-TI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -83,9 +83,39 @@ Unicode (Linear A block):
 𐙁𐘾𐘚𐘳𐄇
 ```
 
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> SI-\[·\]-NE-TI 1; KA-QA 2 — A-DU-ZA 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — O-TE-JA 1 — RA-NA-TU-SU 1; NI-MI 1 — TU-SU 1; MA-TI-ZA-I-TE 1 — MA-TE-TI 1; magical protection 1.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| SI-\[?\]-NE-TI |  | broken word, 1 |  |  |
+| [[wiki/linear-a/words/K/KA_QA\|KA-QA]] |  | personal name (unread), 2 |  | unread |
+| [[wiki/linear-a/words/A/A_DU_ZA\|A-DU-ZA]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | personal name, 1; compare Linear B ta-ta-ro | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TA2_TI_TE\|TA₂-TI-TE]] | Tati-te | '(Teššup) loved' (Hurrian personal name), 1 | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | personal name, 'Sîn has gathered in (the child)', 1 | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/O/O_TE_JA\|O-TE-JA]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/N/NI_MI\|NI-MI]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/T/TU_SU\|TU-SU]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/M/MA_TI_ZA_I_TE\|MA-TI-ZA-I-TE]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/M/MA_TE_TI\|MA-TE-TI]] |  | personal name (unread), 1 |  | unread |
+| [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | makita | magical protection, amulet (Egyptian mk.t), 1 | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+A list of names between rulings, each with 1, KA-QA with 2 (GORILA I 281).
+
+### Source
+
+- di Mino: TA₂-TI-TE
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/M/MA_KA_I_TA|MA-KA-I-TA]], [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA|O-KA-MI-ZA-SI-I-NA]], [[wiki/linear-a/words/T/TA2_TA_RE|TA₂-TA-RE]].
+[[wiki/linear-a/words/M/MA_KA_I_TA|MA-KA-I-TA]], [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA|O-KA-MI-ZA-SI-I-NA]], [[wiki/linear-a/words/T/TA2_TA_RE|TA₂-TA-RE]], [[wiki/linear-a/words/T/TA2_TI_TE|TA₂-TI-TE]].
 
 ## Edition differences
 

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ṢRʿ (Aramaic Root Atlas; CAL s.v. ṣrʿ) | Aramaic Root Atlas; CAL s.v. ṣrʿ | gloss withheld |
+| Aramaic | ṢRʿ (Aramaic Root Atlas; CAL s.v. ṣrʿ) | Aramaic Root Atlas; CAL s.v. ṣrʿ; Anderson–Moser 2024 root ṣrʿ | gloss withheld |
 | Hebrew | ṣaraʿ 'leprous' | Anderson–Moser 2024 root ṣrʿ |  |
 | Judaic Aramaic | ṣrʿ (HALOT 1056; DJPA 470b apud CAL) | HALOT 1056; DJPA 470b; CAL |  |
 | Geez | ṣerneʿet (HALOT 1056) | HALOT 1056 | gloss withheld |

@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | lêku 'lick' | Anderson–Moser 2024 root lḥk |  |
-| Aramaic | LḤK (CAL s.v. lḥk) | CAL s.v. lḥk | gloss withheld |
-| Hebrew | laḥak 'lick' (BDB 535) | BDB 535 |  |
+| Aramaic | LḤK (CAL s.v. lḥk) | CAL s.v. lḥk; Anderson–Moser 2024 root lḥk | gloss withheld |
+| Hebrew | laḥak 'lick' (BDB 535) | BDB 535; Anderson–Moser 2024 root lḥk |  |
 | Ugaritic | lḥk 'lick' | Anderson–Moser 2024 root lḥk |  |
 | Arabic | laḥika (HALOT 525) | HALOT 525 |  |
 | Syrian Aramaic | lḥak 'lick; go on licking' (Payne Smith 240) | Payne Smith 240 |  |

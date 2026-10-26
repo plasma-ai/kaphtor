@@ -51,7 +51,13 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | barāne / parāne | short form of A-PA-RA-NE, 'crosser' or 'creator', ½ | CANDIDATE |
 
 ## Onomasticon
 

@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | rɣb 'to want, to desire', raɣab- 'desire, irresistible inclination toward something' \[BK 1 887\] | BK 1 887 |  |
 | Tigre | räḥab \[LH 147\] | LH 147 | gloss withheld |
 | Ugaritic | rɣb \[Aist 295\] | Aist 295 | gloss withheld |
-| East Ethiopic | WOL rabä, SEL ZWY rābä \[LGur 520\], WOL rab, ZWY rǝb \[ibid.\] | LGur 520; ibid. | gloss withheld |
+| East Ethiopic | WOL rabä, SEL ZWY rābä \[LGur 520\], WOL rab, ZWY rǝb \[ibid.\] | LGur 520 | gloss withheld |
 | Geez | rǝḫba, raḫab, raḫāb \[LGz 468\] | LGz 468 | gloss withheld |
-| Gurage | MUH GOG SOD ärabä \[LGur 520\] (&lt; \*ḥrb, metathetic &lt; \*rḥb?) | LGur 520 | gloss withheld |
+| Gurage | MUH GOG SOD ärabä \[LGur 520\] | LGur 520 | gloss withheld |
 | Hebrew | rāʕēb (HALOT 1256, 1257), rāʕāb (HALOT 1257) | HALOT 1256, 1257; HALOT 1257 | gloss withheld |
 | Amharic | rabä (impersonal), rǝhǝb \[K 391\] | K 391 | gloss withheld |
-| Aramaic | rʿb (CAL s.v. rʿb) | CAL s.v. rʿb | gloss withheld |
+| Aramaic | rʿb (CAL s.v. rʿb) | CAL s.v. rʿb; Anderson–Moser 2024 root rġb | gloss withheld |
 | Judaic Aramaic | rʿb (HALOT 1256; DJPA 527a apud CAL) | HALOT 1256; DJPA 527a; CAL |  |
 | Harari | räḥaba-, raḥab (SED I 316) | SED I 316 | gloss withheld |
 | Tigrinya | räḥabä-, räḥab (LGz. 468) | LGz. 468 | gloss withheld |

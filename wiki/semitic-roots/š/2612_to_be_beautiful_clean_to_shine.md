@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2612_to_be_beautiful_clean_to_shine
 title: "*špr: 'to be beautiful, clean; to shine'"
-desc: "Proto-Semitic *špr, 'to be beautiful, clean; to shine': reflexes in 7 language(s)."
+desc: "Proto-Semitic *špr, 'to be beautiful, clean; to shine': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2612"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | špr (HALOT 1635) | HALOT 1635 |  |
 | Arabic | safara (HALOT 1635) | HALOT 1635 |  |
 | Amorite | špr (Huffmon APNM 252) | Huffmon APNM 252 | gloss withheld |
+| Judaic Aramaic | šappīr (Kogan 2015, ch. 6 §2 no. 16) | Kogan 2015 ch. 6 §2 no. 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

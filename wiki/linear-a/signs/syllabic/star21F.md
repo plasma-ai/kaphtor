@@ -41,6 +41,7 @@ Evidence: h 4/10 word types, ∅ 6/10, m 7/10; \*21F-TU-NE yields no root under 
 - \*21F-TU-NE = ḥātān "bridegroom" (HT 7b, 87, 117b)
 - JA-\*21F = Yāh, beside PU-RA₂ on HT 28b
 - \*21F-\*118 = ḥṭt "wheat" (KH 88 before figs; ZA 5a with wine), if \*118 = ṭa
+- A-SE-TU-\*21F = Aštuḫḫa "Female" (PH 2), Hurrian ḫ: Nuzi ᶠAš-du-uḫ-ḫa-a-a (NPN 37)
 
 ### Note
 
@@ -55,6 +56,7 @@ An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes Wes
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | SPECULATIVE |
 | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
+| [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārī-nā | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ḤRQ (CAL s.v. ḥrq) | CAL s.v. ḥrq | gloss withheld |
+| Aramaic | ḤRQ (CAL s.v. ḥrq) | CAL s.v. ḥrq; Anderson–Moser 2024 root ḫrq | gloss withheld |
 | Hebrew | ḥaraq 'gnash' | Anderson–Moser 2024 root ḫrq |  |
 | Syrian Aramaic | ḥraq 'cut; fix, appoint, destine; gnash teeth' (Payne Smith 159) | Payne Smith 159 |  |
 

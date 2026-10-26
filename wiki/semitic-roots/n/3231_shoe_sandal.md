@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | naʿal (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015, ch. 3 §5.3 no. 22 | gloss withheld |
-| Syrian Aramaic | naʿlā (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015, ch. 3 §5.3 no. 22 | gloss withheld |
-| Arabic | naʿl- (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015, ch. 3 §5.3 no. 22 | gloss withheld |
+| Hebrew | naʿal (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015 ch. 3 §5.3 no. 22 | gloss withheld |
+| Syrian Aramaic | naʿlā (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015 ch. 3 §5.3 no. 22 | gloss withheld |
+| Arabic | naʿl- (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015 ch. 3 §5.3 no. 22 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

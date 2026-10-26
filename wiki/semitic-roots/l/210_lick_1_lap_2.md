@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | lḳḳ \[-u-\] 1, lʕḳ 1 |  |  |
 | Tigre | läḳläḳa 1 |  |  |
-| Hebrew | lāḳaḳ 1, 2 (pBib. laḳlaḳ) |  |  |
+| Hebrew | lāḳaḳ 1, 2 (pBib. laḳlaḳ) (BDB 545) | BDB 545 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3275_companion_friend
 title: "*wVlVy-: 'companion, friend'"
-desc: "Proto-Semitic *wVlVy-, 'companion, friend': reflexes in 2 language(s)."
+desc: "Proto-Semitic *wVlVy-, 'companion, friend': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3275"
@@ -31,6 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Ugaritic | yly (DUL 963 apud SEDonline 1437) | DUL 963; SEDonline 1437 | gloss withheld |
 | Arabic | waliyy- (Lane 3061 apud SEDonline 1437) | Lane 3061; SEDonline 1437 | gloss withheld |
+| Epigraphic South Arabian | SAB wlyt (Kogan 2015, ch. 5 §3.2.1.1 no. 18) | Kogan 2015 ch. 5 §3.2.1.1 no. 18 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

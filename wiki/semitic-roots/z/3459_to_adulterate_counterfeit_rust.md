@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | zaɣal- (Lane 1235 apud SEDonline 2108) | Lane 1235; SEDonline 2108 | gloss withheld |
-| Geez | zaḥala (LLA 1038 apud SEDonline 2108); zəḥla (LLA 1038 apud SEDonline 2108) | LLA 1038; SEDonline 2108; LLA 1038; SEDonline 2108 | gloss withheld |
+| Geez | zaḥala (LLA 1038 apud SEDonline 2108); zəḥla (LLA 1038 apud SEDonline 2108) | LLA 1038; SEDonline 2108 | gloss withheld |
 | Tigre | zäḥal (WTS 494 apud SEDonline 2108) | WTS 494; SEDonline 2108 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

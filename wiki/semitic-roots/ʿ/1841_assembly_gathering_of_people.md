@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕidd- 'a great number, a crowd, a great quantity; friend, comrade; like, equal' \[BK 2 187\], cf. ʕdd 'to count, reckon; to be few in number' \[ibid.\] | BK 2 187; ibid. |  |
+| Arabic | ʕidd- 'a great number, a crowd, a great quantity; friend, comrade; like, equal' \[BK 2 187\], cf. ʕdd 'to count, reckon; to be few in number' \[ibid.\] | BK 2 187 |  |
 | Ugaritic | ʕdt (ʕ. ilm) (DULAT 148) | DULAT 148 | gloss withheld |
 | Geez | (?) ʕǝd, pl. ʕǝdaw, ʔaʕǝdāw \[LGz 56\] | LGz 56 | gloss withheld |
 | Hebrew | ʕēdā (HALOT 789, 790); pB. \[Ja 1043\] | HALOT 789, 790; Ja 1043 | gloss withheld |

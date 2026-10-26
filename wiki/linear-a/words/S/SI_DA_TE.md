@@ -57,6 +57,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2\|ARKH2]] | Arkhanes | Tablet | none |
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2\|ARKH2]] | Arkhanes | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2\|ARKH2]] | ṣēdat | provisions (heading) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

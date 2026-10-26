@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Syrian Aramaic | gbl (LSyr. 101, SL 201 apud SEDonline 1257) | LSyr. 101, SL 201; SEDonline 1257 | gloss withheld |
-| Arabic | ǯbl (Lane 375 apud SEDonline 1257); ǯabl- (Lane 375 apud SEDonline 1257) | Lane 375; SEDonline 1257; Lane 375; SEDonline 1257 | gloss withheld |
+| Arabic | ǯbl (Lane 375 apud SEDonline 1257); ǯabl- (Lane 375 apud SEDonline 1257) | Lane 375; SEDonline 1257 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | barāṣu (CAD B 107, AHw. 106 apud SEDonline 1322) | CAD B 107, AHw. 106; SEDonline 1322 | gloss withheld |
-| Arabic | barīṣ- (Lane 188 apud SEDonline 1322); burṣat- (Lane 188 apud SEDonline 1322) | Lane 188; SEDonline 1322; Lane 188; SEDonline 1322 | gloss withheld |
+| Arabic | barīṣ- (Lane 188 apud SEDonline 1322); burṣat- (Lane 188 apud SEDonline 1322) | Lane 188; SEDonline 1322 | gloss withheld |
 | Geez | tabāraṣa (CDG 107 apud SEDonline 1322) | CDG 107; SEDonline 1322 | gloss withheld |
 | Gurage | Cha. (a)braṭa, Ezha əmbraṭṭa, Enn. ambraṭā, Muh. ambraṭṭa, Gog. abraṭṭa (EDG 157 apud SEDonline 1322) | EDG 157; SEDonline 1322 | gloss withheld |
 

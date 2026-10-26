@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ḥáybeṭ (-ō-) \[JH 55\] | JH 55 | gloss withheld |
 | Tigre | ḥabṭä \[LH 81\] | LH 81 | gloss withheld |
 | East Ethiopic | SEL, WOL, ZWY abbäṭä \[LGur 11\] | LGur 11 | gloss withheld |
-| Geez | ḥabaṭa, ḥabṭa (-ǝ-) \[LGz 225\], ḥǝbaṭ \[ibid.\] | LGz 225; ibid. | gloss withheld |
+| Geez | ḥabaṭa, ḥabṭa (-ǝ-) \[LGz 225\], ḥǝbaṭ \[ibid.\] | LGz 225 | gloss withheld |
 | Gurage | CHA EZ̆A MUH MSQ äbäṭ, GYE äḇäṭ, GOG ǝbbač̣ä, ENN äḇäʔ, END äwäʔ \[ibid.\] |  | gloss withheld |
 | Jibbali | ḥēṭ (-ɔ́-) \[JJ 102\] | JJ 102 | gloss withheld |
 | Amharic | abbäṭä \[K 1205\] | K 1205 | gloss withheld |

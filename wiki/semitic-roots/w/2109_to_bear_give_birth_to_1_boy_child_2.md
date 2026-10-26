@@ -55,4 +55,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Ge'ez walatta Dāwīt 'daughter of David' in a kama clause: kama Māryām walatta Dāwīt yəʾəti 'that Mary was the daughter of David' (Lipiński OLA80 §60.1). w/y alternation in wld/yld explained by secondary diphthong formation (§22.18). PES \*wald-/\*lVd- 'son' (Gez. wald, Tgr. wäd, Tna. wäddi, Amh. ləǯ, Sod. wäld, Har. liǯi, waldi), originally 'boy', is derived from PS \*wld 'to bear' (Kogan 2015, ch. 7 §4.1 no. 16). The t-noun 'offspring, descendants' is 3660.
+
 <!-- END kaphtor:record -->

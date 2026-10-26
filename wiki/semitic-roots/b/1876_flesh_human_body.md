@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | bašar- 'outer skin (in man), epidermis; man, humankind' \[BK 1 129\]; cf. also bašār-at- 'beauty of form, of the body' \[ibid. 129\] | BK 1 129; ibid. 129 |  |
+| Arabic | bašar- 'outer skin (in man), epidermis; man, humankind' \[BK 1 129\]; cf. also bašār-at- 'beauty of form, of the body' \[ibid. 129\] | BK 1 129; BK 129 |  |
 | Mehri | bǝŝǝrēt \[JM 56\] | JM 56 | gloss withheld |
 | Akkadian | bišru \[CAD b 270\], \[AHw 131\] | CAD b 270; AHw 131 | gloss withheld |
 | Mandaic Aramaic | bisra \[DM 62\] | DM 62 | gloss withheld |
 | Ugaritic | bšr \[DULAT 241\] | DULAT 241 | gloss withheld |
 | Gurage | bäsär \[LGur 159\] (without quoting individual dialects) | LGur 159 | gloss withheld |
-| Modern Aramaic | MAL besra \[Berg 15\] MLH besro \[J Mlah 170\] HRT besra \[J Hert 183\] NASS bịsrɔ, busra \[Tser 031\] MMND besrā \[M MND 503, 511\] GZR písṛa \[Nak 82\] IRAN bᵉsrâ \[Pen 65\] | Berg 15; J Mlah 170; J Hert 183; Tser 031; Nak 82; Pen 65 | gloss withheld |
+| Modern Aramaic | MAL besra \[Berg 15\] MLH besro \[J Mlah 170\] HRT besra \[J Hert 183\] NASS bịsrɔ, busra \[Tser 031\] MMND besrā \[M MND 503, 511\] GZR písṛa \[Nak 82\] IRAN bᵉsrâ \[Pen 65\] | Berg 15; J Mlah 170; J Hert 183; Tser 031; M MND 503, 511; Nak 82; Pen 65 | gloss withheld |
 | Jibbali | bǝŝǝrɛ́t \[JJ 30\] | JJ 30 | gloss withheld |
 | Hebrew | bāŝār (HALOT 164) | HALOT 164 | gloss withheld |
 | Epigraphic South Arabian | SAB bs2r \[SD 33; Sabaweb lemma 3984\]. | SD 33; Sabaweb lemma 3984 | gloss withheld |

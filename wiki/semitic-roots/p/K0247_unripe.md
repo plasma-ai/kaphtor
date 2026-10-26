@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | PGG (CAL s.v. pgg) | CAL s.v. pgg | gloss withheld |
+| Aramaic | PGG (CAL s.v. pgg) | CAL s.v. pgg; Anderson–Moser 2024 root pgg | gloss withheld |
 | Geez | fgg 'smell' | Anderson–Moser 2024 root pgg |  |
 | Tigre | fagaga (HALOT 909) | HALOT 909 |  |
 | Judaic Aramaic | paggᵉtā (HALOT 909) | HALOT 909 |  |

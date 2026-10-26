@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab wfr (SD 157, 158; Biella 139, 140); the verb hwfr (Sabaweb lemma 2956) | SD 157, 158; Biella 139, 140; Sabaweb lemma 2956 | gloss withheld |
+| Epigraphic South Arabian | Sab wfr (SD 157, 158; Biella 139, 140); the verb hwfr (Sabaweb lemma 2956); the noun mwfrt (Sabaweb lemma 12086); tfr (Sabaweb lemma 1928) | SD 157, 158; Biella 139, 140; Sabaweb lemma 2956; Sabaweb lemma 12086; Sabaweb lemma 1928 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

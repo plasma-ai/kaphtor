@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | qabar (HALOT 1064) | HALOT 1064 |  |
 | Tigre | qabr (HALOT 1064) | HALOT 1064 |  |
 | Arabic | qabr (HALOT 1064) | HALOT 1064 |  |
-| Soqotri | qebor (LGz. 419); ḳáber, ḳö́bor (SLOnline 24820, 6661) | LGz. 419 | gloss withheld |
+| Soqotri | qebor (LGz. 419); ḳáber, ḳö́bor (SLOnline 24820, 6661) | LGz. 419; SLOnline 24820, 6661 | gloss withheld |
 | Tigrinya | qäbärä (LGz. 419) | LGz. 419 | gloss withheld |
 | Amharic | qäbbärä (LGz. 419) | LGz. 419 |  |
 | Argobba | qäbbära (LGz. 419) | LGz. 419 |  |
@@ -49,8 +49,8 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | qäbbärä (LGz. 419) | LGz. 419 | gloss withheld |
 | Phoenician | qbr; qbr (Krahmalkov 423); qbr: yqbr; qbr (T 283) | Krahmalkov 423; T 283 | gloss withheld |
 | Punic | qbr, Neo-Punic qybr (Krahmalkov 423); qbr, qybr; qbr, qbʾr, qbʿr (T 283) | Krahmalkov 423; T 283 | gloss withheld |
-| Mehri | ḳəbūr (Kogan 2011, 232) | Kogan 2011, 232 | gloss withheld |
-| Jibbali | ḳɔ̄r (Kogan 2011, 232) | Kogan 2011, 232 | gloss withheld |
+| Mehri | ḳəbūr (Kogan 2011, 232) | Kogan 2011 232 | gloss withheld |
+| Jibbali | ḳɔ̄r (Kogan 2011, 232) | Kogan 2011 232 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic qbr (Al-Jallad–Jaworska 109) | Al-Jallad–Jaworska 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

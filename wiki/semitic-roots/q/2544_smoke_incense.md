@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḳǝtare |  | gloss withheld |
 | Eblaitic | /ḳuṭṭurū/ |  |  |
 | Mandaic Aramaic | guṭr-, gṭr |  | gloss withheld |
-| Ugaritic | ḳṭr |  | gloss withheld |
+| Ugaritic | ḳṭr (Kogan 2015, ch. 5 §2.1.2 no. 78) | Kogan 2015 ch. 5 §2.1.2 no. 78 | gloss withheld |
 | Geez | ḳtr, ḳǝttār(e) LGz 452 | LGz 452 | gloss withheld |
 | Hebrew | ḳṭr (pi), ḳǝṭōrät (&gt;Eg NK ḳdrt) |  | gloss withheld |
 | Amharic | ḳäṭṭärä, ḳättärä |  | gloss withheld |

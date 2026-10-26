@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/g/256_she_dog_1_wolf_2
-title: "*gadlāʾ- *gaʕd-: 'she-dog'1, 'wolf' 2"
-desc: "Proto-Semitic *gadlāʾ- *gaʕd-, 'she-dog'1, 'wolf' 2: reflexes in 1 language(s)."
+title: "*gadlāʾ- *gaʕd-: 'she-dog' 1, 'wolf' 2"
+desc: "Proto-Semitic *gadlāʾ- *gaʕd-, 'she-dog' 1, 'wolf' 2: reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "256"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *gadlāʾ- *gaʕd-: 'she-dog'1, 'wolf' 2
+# *gadlāʾ- *gaʕd-: 'she-dog' 1, 'wolf' 2
 
 [[wiki/semitic-roots/g/_index|..]]
 
@@ -22,7 +22,7 @@ updated: 2026-10-22T17:38:31Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*gadlāʾ- \*gaʕd- |
-| Meaning | 'she-dog'1, 'wolf' 2 |
+| Meaning | 'she-dog' 1, 'wolf' 2 |
 | Basis | SED |
 | SED | SEDonline semet 204 |
 

@@ -36,4 +36,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Syr. draš 'tread, thresh' (Payne Smith 98) has š. HALOT 233 takes 'to tread' as the basic meaning of drš (Syr.) beside MHeb., JArm. drs 'to tread, stamp, rub off'; Nöldeke and Guillaume keep drs a separate root.
+
 <!-- END kaphtor:record -->

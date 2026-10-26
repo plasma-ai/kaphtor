@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | šafr-, šufr- 'edge of the eyelid where the lashes grow' \[BK 1 1247\]. | BK 1 1247 |  |
 | Mehri | ŝǝfrīr \[JM 374\] | JM 374 | gloss withheld |
-| Soqotri | ŝfrir \[JM 374\], QALAN-B ŝɛ̄́fǝr do. \[SSL LS 1473\] | JM 374; SSL LS 1473 |  |
+| Soqotri | ŝfrir \[JM 374\], QALAN-B ŝɛ̄́fǝr \[SSL LS 1473\] | JM 374; SSL LS 1473 |  |
 | Akkadian | (?) sappartu SB \[AHw 1027\]. | AHw 1027 | gloss withheld |
-| Harsusi | ŝfǝrīr do. \[JH 118\] | JH 118 |  |
-| Jibbali | ŝɛ́fǝr do. \[JJ 247\] | JJ 247 |  |
+| Harsusi | ŝfǝrīr \[JH 118\] | JH 118 |  |
+| Jibbali | ŝɛ́fǝr \[JJ 247\] | JJ 247 |  |
 | Judaic Aramaic | sǝpīrā 'goat's hair' \[Ja 1014\] | Ja 1014 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

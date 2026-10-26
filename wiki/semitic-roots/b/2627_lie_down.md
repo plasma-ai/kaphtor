@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | blṭ/dḥ; bṭḥ |  |  |
 | Mehri | ǝnbalṭǝḥ |  |  |
-| Soqotri | bṭḥ, blṭḥ; ṭábaḥ (SLOnline 24440) |  | gloss withheld |
+| Soqotri | bṭḥ, blṭḥ; ṭábaḥ (SLOnline 24440) | SLOnline 24440 | gloss withheld |
 | Harsusi | enbelṭáḥ |  |  |
 | Jibbali | bɔ́ṭṭaḥ |  |  |
 | Hebrew | bāṭaḥ (LGz. 114) | LGz. 114 | gloss withheld |

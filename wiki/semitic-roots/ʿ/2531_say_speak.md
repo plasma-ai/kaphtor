@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʕmr II |  | gloss withheld |
 | Mehri | ʕamūr |  | gloss withheld |
-| Soqotri | ʕemor; ˁö́mor (SLOnline 3270) |  | gloss withheld |
+| Soqotri | ʕemor; ˁö́mor (SLOnline 3270) | SLOnline 3270 | gloss withheld |
 | Harsusi | ʕamōr |  | gloss withheld |
-| Jibbali | ʕõr |  | gloss withheld |
+| Jibbali | ʕõr (Kogan 2015, ch. 8 §3.2.4 no. 71) | Kogan 2015 ch. 8 §3.2.4 no. 71 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

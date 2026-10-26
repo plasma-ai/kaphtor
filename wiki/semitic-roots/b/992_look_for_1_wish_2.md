@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/992_look_for_1_wish_2
 title: "*bVɣiw-/*bVɣiy-: 'look for' 1, 'wish' 2"
-desc: "Proto-Semitic *bVɣiw-/*bVɣiy-, 'look for' 1, 'wish' 2: reflexes in 9 language(s)."
+desc: "Proto-Semitic *bVɣiw-/*bVɣiy-, 'look for' 1, 'wish' 2: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "992"
@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | bɣw \[-i-\] 2 (Lane 231); baġā 'he sought, sought for, after' 1 (Lane 231); bāġin 'seeking' (Lane 232) | Lane 231; Lane 231; Lane 232 |  |
+| Arabic | bɣw \[-i-\] 2 (Lane 231); baġā 'he sought, sought for, after' 1 (Lane 231); bāġin 'seeking' (Lane 232) | Lane 231; Lane 232 |  |
 | Mehri | beɣayt 2 |  |  |
 | Akkadian | buʔû, baʔû 1 |  |  |
 | Harsusi | beɣayt 2 |  |  |
@@ -39,6 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | ibau, yuba(ḫ)u (EA; HALOT 141) | HALOT 141 |  |
 | Pre-Islamic North Arabian | Safaitic bġy; bġy (Al-Jallad–Jaworska 59) | Al-Jallad–Jaworska 59 | gloss withheld |
 | Syrian Aramaic | bʿā 'seek, ask, pray, desire' (Payne Smith 50) | Payne Smith 50 |  |
+| Biblical Aramaic | bʕy (Kogan 2015, ch. 6 §4 no. 5) | Kogan 2015 ch. 6 §4 no. 5 | gloss withheld |
+| Judaic Aramaic | bʕy (Kogan 2015, ch. 6 §4 no. 5) | Kogan 2015 ch. 6 §4 no. 5 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

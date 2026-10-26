@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dwr \[-u-\]1; drdr 1, 2 |  |  |
+| Arabic | dwr \[-u-\] 1; drdr 1, 2 |  |  |
 | Mehri | dōr, adárdǝr, etc., mǝdáwwǝr3 |  | gloss withheld |
 | Harsusi | medawwer3 |  |  |
 | Modern Arabic | Leb m-dawar, Mec mu-dawwar |  |  |
@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | däwwärä (AED 1821 apud SEDonline 2020) | AED 1821; SEDonline 2020 | gloss withheld |
 | Tigre | dorä (WTS 536 apud SEDonline 2020) | WTS 536; SEDonline 2020 | gloss withheld |
 | Akkadian | duāru (AHw. 1551 apud SEDonline 2020) | AHw. 1551; SEDonline 2020 | gloss withheld |
-| Epigraphic South Arabian | Qat dwr (LIQ 41; Avanzini 2004, 277-278 apud SEDonline 2020) | LIQ 41; SEDonline 2020 | gloss withheld |
+| Epigraphic South Arabian | Qat dwr (LIQ 41; Avanzini 2004, 277-278 apud SEDonline 2020) | LIQ 41; Avanzini 2004, 277-278; SEDonline 2020 | gloss withheld |
 | Jibbali | dɛ̄r (JL 42 apud SEDonline 2020) | JL 42; SEDonline 2020 | gloss withheld |
 | Judaic Aramaic | JBA dwr (DJBA 321-322 apud SEDonline 2020) | DJBA 321-322; SEDonline 2020 | gloss withheld |
 | Soqotri | der (CSOL I 530 apud SEDonline 2020) | SEDonline 2020 | gloss withheld |

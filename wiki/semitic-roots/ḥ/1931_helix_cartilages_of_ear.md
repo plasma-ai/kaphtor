@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔal-ḥasīs-āni (dual) 'the two arteries behind the ears' \[BK 1 423\] | BK 1 423 |  |
-| Akkadian | ḫasīsu OB on \[CAD ḫ 126\], \[AHw 330\] (translated as). | CAD ḫ 126; AHw 330 | gloss withheld |
+| Akkadian | ḫasīsu OB on \[CAD ḫ 126\], \[AHw 330\]. | CAD ḫ 126; AHw 330 | gloss withheld |
 | Hebrew | PB ḥisḥūs 'the cartilages forming the ear, helix, etc.' \[Ja 486-7\] | Ja 486-7 |  |
-| Judaic Aramaic | ḥăsīsā, ḥasḥāsūt 'the system of cartilages of the ear, helix and antihelix' \[Ja 487\], ḥisḥūs 'the cartilages forming the ear' \[ibid.\] | Ja 487; ibid. |  |
+| Judaic Aramaic | ḥăsīsā, ḥasḥāsūt 'the system of cartilages of the ear, helix and antihelix' \[Ja 487\], ḥisḥūs 'the cartilages forming the ear' \[ibid.\] | Ja 487 |  |
 | Syrian Aramaic | ḥasḥūsē (pl.) 'cartilages' \[Brock 245\] | Brock 245 |  |
 | Eblaitic | ḫa-zi-zu-um /ḫasīsum/ \[Fron. Ebl. 167\], \[Kreb. 15\]; haₓ(ḪAL)-zu-um /ḫassum/ (VE 1253; Krebernik 1983, 42) | Fron. Ebl. 167; Kreb. 15; VE 1253; Krebernik 1983, 42 | gloss withheld |
 

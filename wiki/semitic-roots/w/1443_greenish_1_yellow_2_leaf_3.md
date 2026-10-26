@@ -35,11 +35,11 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | yuraḳ 1, 2 |  |  |
 | Ugaritic | yrḳ 2 |  |  |
 | Hebrew | yǝraḳraḳ 1 |  |  |
-| Harari | warīḳ 1 (Kogan 2015, ch. 1 §1.3 no. 35) | Kogan 2015, ch. 1 §1.3 no. 35 |  |
+| Harari | warīḳ 1 (Kogan 2015, ch. 1 §1.3 no. 35) | Kogan 2015 ch. 1 §1.3 no. 35 |  |
 | Syrian Aramaic | yūrāḳ 1, yǝrḳān 2 (Payne Smith 197) | Payne Smith 197 |  |
-| Aramaic | YRQ (Aramaic Root Atlas; CAL s.v. yrq#2) | Aramaic Root Atlas; CAL s.v. yrq#2 | gloss withheld |
-| Geez | warq; waraqrūq (HALOT 441) | HALOT 441 | gloss withheld |
-| Epigraphic South Arabian | wrq (HALOT 441); (Sabaweb lemma 5431) | HALOT 441; Sabaweb lemma 5431 | gloss withheld |
+| Aramaic | YRQ (Aramaic Root Atlas; CAL s.v. yrq#2) | Aramaic Root Atlas; CAL s.v. yrq#2; Anderson–Moser 2024 root wrq | gloss withheld |
+| Geez | warq; waraqrūq (HALOT 441) | HALOT 441; Anderson–Moser 2024 root wrq | gloss withheld |
+| Epigraphic South Arabian | wrq (HALOT 441) (Sabaweb lemma 5431) | HALOT 441; Sabaweb lemma 5431 | gloss withheld |
 | Amharic | wärq (LGz. 618) | LGz. 618 | gloss withheld |
 | Argobba | wärq (LGz. 618) | LGz. 618 | gloss withheld |
 | Gurage | wärq (LGz. 618) | LGz. 618 | gloss withheld |
@@ -52,6 +52,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Libyco-Berber -warġ- 'yellow' is a loan from Arabic wariq (OLA80 §27.8).
+Libyco-Berber -warġ- 'yellow' is a loan from Arabic wariq (OLA80 §27.8). The noun 'jaundice; blight, mildew' is 3620.
 
 <!-- END kaphtor:record -->

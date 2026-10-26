@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕamila 'worked' (Lane 2158) | Lane 2158 |  |
-| Aramaic | ʿML (Aramaic Root Atlas; CAL s.v. ʿml) | Aramaic Root Atlas; CAL s.v. ʿml | gloss withheld |
+| Arabic | ʕamila 'worked' (Lane 2158) | Lane 2158; Anderson–Moser 2024 root ʿml |  |
+| Aramaic | ʿML (Aramaic Root Atlas; CAL s.v. ʿml) | Aramaic Root Atlas; CAL s.v. ʿml; Anderson–Moser 2024 root ʿml | gloss withheld |
 | Hebrew | ʿamal 'labour' | Anderson–Moser 2024 root ʿml |  |
 | Ugaritic | ʿml 'earn' | Anderson–Moser 2024 root ʿml |  |
 | Syrian Aramaic | ʕmal 'labour, toil; weary' (Payne Smith 417) | Payne Smith 417 |  |

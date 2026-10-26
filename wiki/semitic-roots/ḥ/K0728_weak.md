@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ḤLŠ (Aramaic Root Atlas; CAL s.v. ḥlš) | Aramaic Root Atlas; CAL s.v. ḥlš | gloss withheld |
-| Hebrew | ḥalaš (BDB 325; HALOT 324) | BDB 325; HALOT 324 | gloss withheld |
+| Aramaic | ḤLŠ (Aramaic Root Atlas; CAL s.v. ḥlš) | Aramaic Root Atlas; CAL s.v. ḥlš; Anderson–Moser 2024 root ḥlš | gloss withheld |
+| Hebrew | ḥalaš (BDB 325; HALOT 324) | BDB 325; HALOT 324; Anderson–Moser 2024 root ḥlš | gloss withheld |
 | Syrian Aramaic | ḥallāš (HALOT 324) | HALOT 324 |  |
 | Tigre | ḥalsa (HALOT 324) | HALOT 324 |  |
 | Pre-Islamic North Arabian | Safaitic ḥls (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |

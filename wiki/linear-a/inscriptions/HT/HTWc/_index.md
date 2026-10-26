@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/HT/HTWc
 desc: "Inscriptions from Haghia Triada, series HTWc."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-26T15:31:50Z
 ---
 
 # wiki/linear-a/inscriptions/HT/HTWc
@@ -21,9 +21,9 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3006|HTWc3006]]: Roundel, Haghia Triada, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/HT/HTWc/HTWc3007|HTWc3007]]: Roundel, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWc/HTWc3007|HTWc3007]]: Roundel, Haghia Triada, LMIB. Translation: complete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/HT/HTWc/HTWc3008|HTWc3008]]: Roundel, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWc/HTWc3008|HTWc3008]]: Roundel, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3009|HTWc3009]]: Roundel, Haghia Triada, LMIB. Translation: none.
 
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016|HTWc3016]]: Roundel, Haghia Triada, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017|HTWc3017]]: Roundel, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017|HTWc3017]]: Roundel, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3019|HTWc3019]]: Roundel, Haghia Triada, LMIB. Translation: none.
 

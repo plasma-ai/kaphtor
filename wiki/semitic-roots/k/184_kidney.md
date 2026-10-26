@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | kuźɛ́t \[JJ 131\] | JJ 131 |  |
 | Hebrew | kilyā (HALOT 479) | HALOT 479 |  |
 | Amharic | kulit, pl. kulalit \[K 1368, 1371\] | K 1368, 1371 |  |
-| Judaic Aramaic | kulyā (also) \[Ja 620\]; kwlyyh \[DJPA 254a apud CAL\] | Ja 620; DJPA 254a; CAL | gloss withheld |
+| Judaic Aramaic | kulyā \[Ja 620\]; kwlyyh \[DJPA 254a apud CAL\] | Ja 620; DJPA 254a; CAL | gloss withheld |
 | Syrian Aramaic | kūlītā \[Brock 329\] | Brock 329 |  |
 | Gafat | kullalit \[LGaf 209\] | LGaf 209 |  |
 | Tigrinya | kʷəlit (SED I 141) | SED I 141 |  |

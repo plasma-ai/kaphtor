@@ -23,14 +23,15 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ŝbr |
 | Meaning | 'to think, hope; to examine' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1816 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Biblical Aramaic | sbr (HALOT 1936 apud SEDonline 1816) | HALOT 1936; SEDonline 1816 | gloss withheld |
-| Judaic Aramaic | JPA sbr (DJPA 366 apud SEDonline 1816); JBA sbr (DJBA 784 apud SEDonline 1816) | DJPA 366; SEDonline 1816; DJBA 784; SEDonline 1816 | gloss withheld |
+| Judaic Aramaic | JPA sbr (DJPA 366 apud SEDonline 1816); JBA sbr (DJBA 784 apud SEDonline 1816) | DJPA 366; SEDonline 1816; DJBA 784 | gloss withheld |
 | Aramaic | CPA sbr (CPA 276 apud SEDonline 1816) | SEDonline 1816 | gloss withheld |
 | Syrian Aramaic | sbr (LSyr. 456, SL 963 apud SEDonline 1816) | LSyr. 456, SL 963; SEDonline 1816 | gloss withheld |
 | Mandaic Aramaic | sbr (MD 316 apud SEDonline 1816) | MD 316; SEDonline 1816 | gloss withheld |

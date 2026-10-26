@@ -23,7 +23,8 @@ updated: 2026-10-24T15:25:56Z
 |---|---|
 | Reconstruction | \*wpy |
 | Meaning | 'to be well-shaped, full, complete; to pay in full' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1995 |
 
 ## Reflexes
 
@@ -31,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 |---|---|---|---|
 | Mehri | həwfū (ML 423 apud SEDonline 1995) | ML 423; SEDonline 1995 | gloss withheld |
 | Jibbali | ōfi (JL 287 apud SEDonline 1995) | JL 287; SEDonline 1995 | gloss withheld |
-| Soqotri | fe (LS 69; SLOnline 3045) | LS 69 | gloss withheld |
+| Soqotri | fe (LS 69; SLOnline 3045) | LS 69; SLOnline 3045 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

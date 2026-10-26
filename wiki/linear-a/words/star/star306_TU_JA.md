@@ -56,7 +56,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | ʿAttuya | personal name, hypocoristic of \*306-TU in -ya, 1 | SPECULATIVE |
 
 ## Onomasticon
 

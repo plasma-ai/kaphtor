@@ -47,7 +47,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT110b\|HT110b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH100\|KH100]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc39\|PHWc39]] | Phaistos | Roundel | none |
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc39\|PHWc39]] | Phaistos | Roundel | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA1b\|ZA1b]] | Zakros | Tablet | none; form not in transliteration |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PH/PHWc/PHWc39\|PHWc39]] | rōš | principal, first quality (grade marker) | PROBABLE |
 
 <!-- END kaphtor:record -->

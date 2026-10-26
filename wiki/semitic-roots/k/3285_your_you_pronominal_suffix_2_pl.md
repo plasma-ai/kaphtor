@@ -29,11 +29,11 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | -kina (GAG § 42 g apud SEDonline 1569); -kunu (GAG § 42 g apud SEDonline 1569) | GAG § 42 g; SEDonline 1569; GAG § 42 g; SEDonline 1569 | gloss withheld |
-| Arabic | -kum/-kumu (Fischer 2002 § 268 apud SEDonline 1569); -kunna (Fischer 2002 § 268 apud SEDonline 1569) | SEDonline 1569; SEDonline 1569 | gloss withheld |
-| Geez | -kəmu (CDG 285 apud SEDonline 1569); -kən (CDG 286 apud SEDonline 1569) | CDG 285; SEDonline 1569; CDG 286; SEDonline 1569 | gloss withheld |
-| Tigre | -kum (WTS 389 apud SEDonline 1569); -kən (WTS 389 apud SEDonline 1569) | WTS 389; SEDonline 1569; WTS 389; SEDonline 1569 | gloss withheld |
-| Tigrinya | -kum (Bulakh–Kogan 2013b:101 apud SEDonline 1569); -kən (Bulakh–Kogan 2013b:101 apud SEDonline 1569) | SEDonline 1569; SEDonline 1569 | gloss withheld |
+| Akkadian | -kina (GAG § 42 g apud SEDonline 1569); -kunu (GAG § 42 g apud SEDonline 1569) | GAG § 42 g; SEDonline 1569 | gloss withheld |
+| Arabic | -kum/-kumu (Fischer 2002 § 268 apud SEDonline 1569); -kunna (Fischer 2002 § 268 apud SEDonline 1569) | SEDonline 1569 | gloss withheld |
+| Geez | -kəmu (CDG 285 apud SEDonline 1569); -kən (CDG 286 apud SEDonline 1569) | CDG 285; SEDonline 1569; CDG 286 | gloss withheld |
+| Tigre | -kum (WTS 389 apud SEDonline 1569); -kən (WTS 389 apud SEDonline 1569) | WTS 389; SEDonline 1569 | gloss withheld |
+| Tigrinya | -kum (Bulakh–Kogan 2013b:101 apud SEDonline 1569); -kən (Bulakh–Kogan 2013b:101 apud SEDonline 1569) | SEDonline 1569 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

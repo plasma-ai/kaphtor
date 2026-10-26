@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṭḳʕ |
 | Meaning | 'to look' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1922 |
 
 ## Reflexes
 

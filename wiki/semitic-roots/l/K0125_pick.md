@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | laqātu 'gather up' | Anderson–Moser 2024 root lqṭ |  |
-| Arabic | laqaṭa 'picked' (Lane 2669) | Lane 2669 |  |
-| Aramaic | LQṬ (Aramaic Root Atlas; CAL s.v. lqṭ) | Aramaic Root Atlas; CAL s.v. lqṭ | gloss withheld |
+| Arabic | laqaṭa 'picked' (Lane 2669) | Lane 2669; Anderson–Moser 2024 root lqṭ |  |
+| Aramaic | LQṬ (Aramaic Root Atlas; CAL s.v. lqṭ) | Aramaic Root Atlas; CAL s.v. lqṭ; Anderson–Moser 2024 root lqṭ | gloss withheld |
 | Hebrew | laqaṭ 'pick' (BDB 544) | BDB 544 |  |
 | Ugaritic | lqẓ 'pick' | Anderson–Moser 2024 root lqṭ |  |
 | Epigraphic South Arabian | Sab lqṭ (SD 82, 83; Biella 262, 263; Sabaweb lemma 2715) | SD 82, 83; Biella 262, 263; Sabaweb lemma 2715 | gloss withheld |

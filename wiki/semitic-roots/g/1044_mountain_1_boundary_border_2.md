@@ -31,11 +31,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǯabal- (Lane 376) | Lane 376 |  |
-| Ugaritic | gbl |  | gloss withheld |
+| Ugaritic | gbl (Kogan 2015, ch. 5 §3.2.1.2 no. 7) | Kogan 2015 ch. 5 §3.2.1.2 no. 7 | gloss withheld |
 | Modern Arabic | Leb žabel, Mec ǯabal; Mlt ǯebla |  | gloss withheld |
-| Phoenician | gbl 2 |  |  |
-| Hebrew | gǝbūl 1, 2 |  |  |
-| Aramaic | Old gbl 2 |  |  |
+| Phoenician | gbl 2 (Kogan 2015, ch. 6 §8.1.3.3 no. 2) | Kogan 2015 ch. 6 §8.1.3.3 no. 2 |  |
+| Hebrew | gǝbūl 1, 2 (Kogan 2015, ch. 6 §8.1.3.3 no. 2) | Kogan 2015 ch. 6 §8.1.3.3 no. 2 |  |
+| Aramaic | Old gbl 2 (Kogan 2015, ch. 6 §9.1 no. 4) | Kogan 2015 ch. 6 §9.1 no. 4 |  |
 | Epigraphic South Arabian | gblt (HALOT 171; Sabaweb lemma 4145) | HALOT 171; Sabaweb lemma 4145 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

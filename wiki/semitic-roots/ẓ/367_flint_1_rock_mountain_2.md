@@ -33,7 +33,7 @@ updated: 2026-10-24T15:25:56Z
 | Arabic | ẓurar-, ẓirr- 1 |  |  |
 | Akkadian | ṣurru 1 |  |  |
 | Mandaic Aramaic | ṭur- |  |  |
-| Ugaritic | ɣr (ɣ&lt;\*ḏ̣); ṣr (DULAT 779) | DULAT 779 | gloss withheld |
+| Ugaritic | ɣr; ṣr (DULAT 779) | DULAT 779 | gloss withheld |
 | Biblical Aramaic | ṭūr |  |  |
 | Modern Aramaic | Urm ṭūr- |  |  |
 | Hebrew | ṣōr 1; ṣūr (HALOT 1016) | HALOT 1016 | gloss withheld |

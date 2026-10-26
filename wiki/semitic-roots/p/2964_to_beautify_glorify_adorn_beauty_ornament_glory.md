@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | pāʔar (HALOT 908); tipʔeret (HALOT 1772); pǝʔēr (HALOT 908); pB. pǝʔēr, pl. pǝʔērōt; pēʔēr (Pi., denominative) 1), 2); hitpāʔēr 1), 2) (Jastrow 1131) | HALOT 908; HALOT 1772; HALOT 908; Jastrow 1131 | gloss withheld |
+| Hebrew | pāʔar (HALOT 908); tipʔeret (HALOT 1772); pǝʔēr (HALOT 908); pB. pǝʔēr, pl. pǝʔērōt; pēʔēr (Pi., denominative); hitpāʔēr (Jastrow 1131) | HALOT 908; HALOT 1772; Jastrow 1131 | gloss withheld |
 | Judaic Aramaic | pǝʔārā 'beads, trinkets strung on chains or cords' (Jastrow 1131) | Jastrow 1131 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

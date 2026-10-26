@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | saqla (HALOT 1642) | HALOT 1642 | gloss withheld |
 | Mandaic Aramaic | mitqal (HALOT 652) | HALOT 652 |  |
 | Tigrinya | säqälä (LGz. 509) | LGz. 509 | gloss withheld |
-| Amharic | säqqälä (LGz. 510), (LGz. 509) | LGz. 510; LGz. 509 | gloss withheld |
+| Amharic | säqqälä (LGz. 510) (LGz. 509) | LGz. 510; LGz. 509 | gloss withheld |
 | Harari | säqäla (LGz. 509) | LGz. 509 | gloss withheld |
 | Gurage | säqälä (LGz. 509) | LGz. 509 | gloss withheld |
 | Syrian Aramaic | təqal (LGz. 510; Payne Smith 618) | LGz. 510; Payne Smith 618 |  |

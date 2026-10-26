@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:37Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/K
@@ -217,7 +217,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/K/KU_TA|KU_TA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_TU_KO_RE|KU_TU_KO_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KU_TU_KO_RE|KU_TU_KO_RE]]: Kutukkore: Kutukkore (Hurrian personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_ZU_NA|KU_ZU_NA]]: Unread (role only): personal name; 1 occurrence(s).
 

@@ -31,15 +31,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | blʕ \[-a-\] 1 (Lane 249) | Lane 249 |  |
-| Mehri | bōla (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015, ch. 2 §4.2 no. 11 |  |
+| Mehri | bōla (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015 ch. 2 §4.2 no. 11 |  |
 | Harsusi | bōla |  |  |
-| Tigre | bälʕa 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015, ch. 7 §2.4 no. 23 |  |
-| Geez | balʕa (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015, ch. 2 §4.2 no. 11 |  |
-| Hebrew | blʕ 1 (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015, ch. 2 §4.2 no. 11 |  |
-| Amharic | bälla 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015, ch. 7 §2.4 no. 23 |  |
-| Aramaic | (Mand) bla 1 (Drower/Macuch 65a apud CAL); BLʿ (Aramaic Root Atlas; DNWSI 167 apud CAL) | Macuch 65a; CAL; Aramaic Root Atlas; DNWSI 167; CAL | gloss withheld |
-| Tigrinya | bälʕe 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015, ch. 7 §2.4 no. 23 |  |
-| Ugaritic | blʿ (CUC; DULAT 219) (Kogan 2015, ch. 2 §4.2 no. 11) | CUC; DULAT 219; Kogan 2015, ch. 2 §4.2 no. 11 | gloss withheld |
+| Tigre | bälʕa 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015 ch. 7 §2.4 no. 23 |  |
+| Geez | balʕa (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015 ch. 2 §4.2 no. 11 |  |
+| Hebrew | blʕ 1 (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015 ch. 2 §4.2 no. 11 |  |
+| Amharic | bälla 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015 ch. 7 §2.4 no. 23 |  |
+| Aramaic | (Mand) bla 1 (Drower/Macuch 65a apud CAL); BLʿ (Aramaic Root Atlas; DNWSI 167 apud CAL) | Macuch 65a; CAL; Aramaic Root Atlas; DNWSI 167 | gloss withheld |
+| Tigrinya | bälʕe 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015 ch. 7 §2.4 no. 23 |  |
+| Ugaritic | blʿ (CUC; DULAT 219) (Kogan 2015, ch. 2 §4.2 no. 11) | CUC; DULAT 219; Kogan 2015 ch. 2 §4.2 no. 11 | gloss withheld |
 | Jibbali | belaʿ (LGz. 94) | LGz. 94 |  |
 | Syrian Aramaic | bəlaʿ (LGz. 94; Payne Smith 47) | LGz. 94; Payne Smith 47 |  |
 | Gafat | bällä (LGz. 94) | LGz. 94 |  |

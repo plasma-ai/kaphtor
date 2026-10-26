@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ktb (Krahmalkov 245); ktb (T 150) | Krahmalkov 245; T 150 | gloss withheld |
 | Hebrew | kātab (HALOT 503) | HALOT 503 | gloss withheld |
 | Aramaic | ʾaktābū(t) (OLA80 §42.9) | OLA80 §42.9 | gloss withheld |
-| Judaic Aramaic | maktᵉbā (HALOT 582) | HALOT 582 |  |
-| Syrian Aramaic | maktᵉbā (HALOT 582) | HALOT 582 |  |
+| Judaic Aramaic | mktbʾ (HALOT 582) | HALOT 582 | gloss withheld |
+| Syrian Aramaic | maktᵉbā (HALOT 582) | HALOT 582 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ktb (Al-Jallad–Jaworska 91) | Al-Jallad–Jaworska 91 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

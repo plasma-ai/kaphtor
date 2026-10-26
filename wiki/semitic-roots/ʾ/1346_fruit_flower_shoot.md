@@ -36,14 +36,14 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Zw ambäba |  | gloss withheld |
 | Geez | ʔababā |  | gloss withheld |
 | Gurage | Ms Gog abäba, So abäbo |  | gloss withheld |
-| Hebrew | \*ʔēb (HALOT 2); ʾābīb (Kogan 2011, 201) | HALOT 2; Kogan 2011, 201 | gloss withheld |
+| Hebrew | \*ʔēb (HALOT 2); ʾābīb (Kogan 2011, 201) | HALOT 2; Kogan 2011 201 | gloss withheld |
 | Amharic | abäba |  | gloss withheld |
 | Judaic Aramaic | ʔabbēb, ʔibbā, ʔībā, ʔinǝbbā (DJPA 2 apud CAL) | DJPA 2; CAL | gloss withheld |
 | Syrian Aramaic | ʔebbāʔ- |  | gloss withheld |
 | Gafat | abäba |  | gloss withheld |
 | Argobba | abäba |  | gloss withheld |
 | Tigrinya | (?) ʕǝmbaba (n.), ḥanbäbä (v.) |  | gloss withheld |
-| Ugaritic | ʾib (Kogan 2011, 201) | Kogan 2011, 201 | gloss withheld |
+| Ugaritic | ʾib (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/2976_to_instruct_teach_torah
 title: "*wVrVy-: 'to instruct, teach' (torah)"
-desc: "Proto-Semitic *wVrVy-, 'to instruct, teach' (torah): reflexes in 7 language(s)."
+desc: "Proto-Semitic *wVrVy-, 'to instruct, teach' (torah): reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2976"
@@ -34,13 +34,12 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | warā (HALOT 436) | HALOT 436 |  |
 | Arabic | wry (HALOT 436) | HALOT 436 |  |
 | Amharic | warra (HALOT 436) | HALOT 436 |  |
-| Syrian Aramaic | ʾōraytā (LGz. 40) | LGz. 40 | gloss withheld |
 | Judaic Aramaic | yrh (HALOT 436) | HALOT 436 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-HALOT 436 separates yārâ III 'instruct, teach' from yārâ I 'throw, shoot' (see 1434); tōrâ derives from the hiphil. HALOT 1710 compares Akkadian têrtu(m) with tōrâ.
+HALOT 436 separates yārâ III 'instruct, teach' from yārâ I 'throw, shoot' (see 1434); tōrâ derives from the hiphil. HALOT 1710 compares Akkadian têrtu(m) with tōrâ. Syriac ʾōraytā 'the Law' (LGz. 40) is the borrowed name of the Torah.
 
 <!-- END kaphtor:record -->

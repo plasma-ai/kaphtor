@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | lḥš; LḤŠ (DNWSI 573 apud CAL) | DNWSI 573; CAL | gloss withheld |
+| Aramaic | lḥš; LḤŠ (DNWSI 573 apud CAL) | DNWSI 573; CAL; Anderson–Moser 2024 root lḫš | gloss withheld |
 | Hebrew | laḥaš 'whisper'; laḥaš 'whispering' | Anderson–Moser 2024 root lḫš |  |
 | Ugaritic | lḫšt 'chatter' | Anderson–Moser 2024 root lḫš |  |
 | Mandaic Aramaic | lhš, nhš (HALOT 527) | HALOT 527 | gloss withheld |

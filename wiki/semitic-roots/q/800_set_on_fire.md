@@ -34,9 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | qâdu |  |  |
 | Hebrew | ḳdḥ (BDB 869) | BDB 869 |  |
 | Judaic Aramaic | qdḥ (HALOT 1067) | HALOT 1067 |  |
-| Punic | qdḥ (HALOT 1067); qdḥ (T 284) | HALOT 1067; T 284 | gloss withheld |
+| Punic | qdḥ (HALOT 1067); qdḥ (T 284) | HALOT 1067; T 284; Anderson–Moser 2024 root qdḥ | gloss withheld |
 | Syrian Aramaic | qədaḥ (HALOT 1067); qdaḥ (Payne Smith 489) | HALOT 1067; Payne Smith 489 | gloss withheld |
-| Aramaic | QDḤ (Aramaic Root Atlas; CAL s.v. qdḥ#2) | Aramaic Root Atlas; CAL s.v. qdḥ#2 | gloss withheld |
+| Aramaic | QDḤ (Aramaic Root Atlas; CAL s.v. qdḥ#2) | Aramaic Root Atlas; CAL s.v. qdḥ#2; Anderson–Moser 2024 root qdḥ | gloss withheld |
 | Mandaic Aramaic | qdʾ (T 284) | T 284 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

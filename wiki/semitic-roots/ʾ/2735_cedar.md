@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2735_cedar
 title: "*ʾVrz-: 'cedar'"
-desc: "Proto-Semitic *ʾVrz-, 'cedar': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʾVrz-, 'cedar': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2735"
@@ -30,18 +30,17 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔarz- 'cedar' (BK 1, 24) | BK 1, 24 |  |
-| Akkadian | erēnu (CAD E 274) | CAD E 274 | gloss withheld |
 | Ugaritic | arz (DULAT 109) | DULAT 109 | gloss withheld |
 | Hebrew | ʔerez (HALOT 86) | HALOT 86 | gloss withheld |
 | Syrian Aramaic | ʾarzā (LGz. 41; Payne Smith 28) | LGz. 41; Payne Smith 28 |  |
 | Mandaic Aramaic | arza (LGz. 41; Drower/Macuch 37a apud CAL) | LGz. 41; Macuch 37a; CAL |  |
-| Soqotri | ʾárz (Kogan 2011, 202) | Kogan 2011, 202 | gloss withheld |
+| Soqotri | ʾárz (Kogan 2011, 202) | Kogan 2011 202 | gloss withheld |
 | Eblaitic | ar-za-tum /ʔarzatum/ (VE 471 apud SEDonline 425; Krebernik 1983, 17) | VE 471; SEDonline 425; Krebernik 1983, 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Geez ʾarz 'cedar' (CDG 41; &lt; Ar/Heb).
+Geez ʾarz 'cedar' (CDG 41; &lt; Ar/Heb). Akkadian erēnu 'cedar' (CAD E 274) is another word.
 
 <!-- END kaphtor:record -->

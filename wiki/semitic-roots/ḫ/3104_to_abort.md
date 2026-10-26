@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ḫlš |
 | Meaning | 'to abort' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1682 |
 
 ## Reflexes
 

@@ -88,9 +88,13 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | CONFIRMED |
 | [[wiki/linear-a/words/K/KU_RU_KU\|KU-RU-KU]] | kurkū | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] | kurma / gurma | PROBABLE |
+| [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |
 | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
+| [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | ṣidqī-kummī | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) / tittōk | CANDIDATE |
 

@@ -49,7 +49,13 @@ KN As(1) 607.2; di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Palaikastro | Tablet | none |
+| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Palaikastro | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Tatare | personal name, 1; compare Linear B ta-ta-ro | CANDIDATE |
 
 ## Onomasticon
 

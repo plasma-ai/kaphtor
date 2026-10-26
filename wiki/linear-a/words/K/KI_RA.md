@@ -50,12 +50,13 @@ di Mino; GORILA I 170–171; Huehnergard 1997, 126; ORACC qīru attestations
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | kirû?/qīra? | possibly garden/orchard; alternatively liquid bitumen | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | kirû/qīra | garden, orchard (heading); alternatively liquid bitumen | CANDIDATE |
 
 <!-- END kaphtor:record -->

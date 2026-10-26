@@ -30,15 +30,19 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Soqotri | nbʔ 3; énbe (SLOnline 7727) |  | gloss withheld |
+| Soqotri | nbʔ 3; énbe (SLOnline 7727) | SLOnline 7727 | gloss withheld |
 | Akkadian | nabû 1 |  |  |
 | Geez | nbb 2; yənabbu, Gt tanabba (OLA80 §44.11) | OLA80 §44.11 | gloss withheld |
 | Jibbali | enbe 3 |  |  |
-| Hebrew | nbʔ 2 |  |  |
-| Epigraphic South Arabian | nbʔ 2; tnbʔ (SD 90), (Biella 289); (Sabaweb lemma 2010) | SD 90; Biella 289; Sabaweb lemma 2010 | gloss withheld |
+| Hebrew | nbʔ 2; nif. nibbāʾ, hitp. hitnabbēʾ 2 (HALOT 659) | HALOT 659 | gloss withheld |
+| Epigraphic South Arabian | nbʔ 2; tnbʔ (SD 90) (Biella 289) (Sabaweb lemma 2010) | SD 90; Biella 289; Sabaweb lemma 2010 | gloss withheld |
 | Amorite | nbʾ: janbiʾ, jabbiʾ, janabbiʾ, nabīʾum (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
 | Eblaitic | na-ba-um, na⟨-ba-⟩ù-um /nabāʔum/ (VE 725; Krebernik 1983, 28) | VE 725; Krebernik 1983, 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 659 takes Hebrew nbʔ (nif., hitp. 'to prophesy') and Syriac pa. nabbī as denominatives of nābîʾ 'prophet' (2722).
 
 <!-- END kaphtor:record -->

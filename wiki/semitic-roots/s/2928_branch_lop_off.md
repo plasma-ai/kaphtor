@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | sāʕīp 'cleft, branch' (BDB 703); sāʕap 'lop off boughs' (BDB 703) | BDB 703; BDB 703 |  |
+| Hebrew | sāʕīp 'cleft, branch' (BDB 703); sāʕap 'lop off boughs' (BDB 703) | BDB 703 |  |
 | Arabic | saʕaf (HALOT 762) | HALOT 762 |  |
 | Syrian Aramaic | sarʕep 'branch out, propagate'; sarʕepītā 'branches, fork; layers, suckers' (Payne Smith 392); sūrʕāpā 'branch' (Payne Smith 371) | Payne Smith 392; Payne Smith 371 |  |
 

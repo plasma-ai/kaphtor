@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/KH/KH/KH7a
 title: "KH7a"
-desc: "Tablet, Khania. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Khania. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "KH7a"
 site: "Khania"
 support: "Tablet"
 period: ""
-translation: "none"
-words: ["CYP", "E-NA-SI", "I-JA-PA-ME", "VIR+*313"]
+translation: "incomplete"
+words: ["CYP", "E-NA-SI", "I-JA-PA-ME", "SE-*305", "VIR+*313"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -72,9 +72,42 @@ Unicode (Linear A block):
 𐝫𐝁𐝌
 ```
 
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Copper: \*313b-men 10; cyperus ½. Yabame · TA-TA ·; QA-TI-KI: \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/N/NE_q_KI_broken_start\|&#93;-NE-&#91;?&#93;-KI]] |  | broken word |  | unread |
+| \*334 |  | logogram, 4 |  |  |
+| CYP+D |  | cyperus, with the fraction sign D, 1\[ | PROBABLE |  |
+| CYP+E | kupru-ḥemʾat | cyperus-fat, 1⁄16 | CANDIDATE |  |
+| [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | naḥāši | copper, bronze (section heading) | CANDIDATE | CANDIDATE (lexicon) |
+| VIR+\*313b |  | men of the \*313b class, 10 | CONFIRMED |  |
+| CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
+| [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | progenitress, sister-in-law (divine epithet of Anath) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TA_TA\|TA-TA]] |  | entry (unread) |  | unread |
+| [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] |  | entry (unread) |  | unread |
+| VIR+\*313b |  | men of the \*313b class, 4 | CONFIRMED |  |
+| CYP+D |  | cyperus, with the fraction sign D, ⅓ | PROBABLE |  |
+| [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | provisions (section heading) | SPECULATIVE | SPECULATIVE (lexicon) |
+| KU-\[?\]-KO-E |  | broken word |  |  |
+| VIR+\*313b |  | men of the \*313b class, \[ \]18 | CONFIRMED |  |
+| CYP+D |  | cyperus, with the fraction sign D, 1 | PROBABLE |  |
+
+### Notes
+
+Three sections under E-NA-SI, I-JA-PA-ME · TA-TA and SE-\*305, each with \*313b-men and cyperus (GORILA III 29).
+
+### Source
+
+- di Mino: SE-\*305
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E_NA_SI|E-NA-SI]], [[wiki/linear-a/words/I/I_JA_PA_ME|I-JA-PA-ME]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]].
+[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E_NA_SI|E-NA-SI]], [[wiki/linear-a/words/I/I_JA_PA_ME|I-JA-PA-ME]], [[wiki/linear-a/words/S/SE_star305|SE-\*305]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]].
 
 ## Corpus note
 

@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫarūs- 'woman who conceives for the first time; woman who has just given birth, to whom food suited to her condition is given; woman who has little milk' \[BK 1 558\]; ḫrs (II) 'to prepare and give nourishment to the new mother' \[ibid. 557\] | BK 1 558; ibid. 557 |  |
-| Akkadian | ḫarāšu SB, NA \[AHw 324\] (left untranslated in \[CAD ḫ 96\]); ḫarištu SB \[CAD ḫ 103\], \[AHw 326\] | AHw 324; CAD ḫ 96; CAD ḫ 103; AHw 326 | gloss withheld |
+| Arabic | ḫarūs- 'woman who conceives for the first time; woman who has just given birth, to whom food suited to her condition is given; woman who has little milk' \[BK 1 558\]; ḫrs (II) 'to prepare and give nourishment to the new mother' \[ibid. 557\] | BK 1 558; BK 557 |  |
+| Akkadian | ḫarāšu SB, NA \[AHw 324\]; ḫarištu SB \[CAD ḫ 103\], \[AHw 326\] | AHw 324; CAD ḫ 103; AHw 326 | gloss withheld |
 | Tigre | ḥaras \[LH 67\] | LH 67 | gloss withheld |
 | East Ethiopic | SEL arās, WOL ZWY aras \[LGur 91\] | LGur 91 | gloss withheld |
 | Geez | ḫaras, ḫaraŝa \[LGz 264\]. | LGz 264 | gloss withheld |

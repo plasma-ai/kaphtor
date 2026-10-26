@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥuwār-, ḥiwār- 'young camel recently born, or up to the time of weaning' \[BK 1 511\], \[Lane 666\], \[LA IV 221\] (cf. \[Hommel 151-2\]). | BK 1 511; Lane 666; LA IV 221; Hommel 151-2 |  |
+| Arabic | ḥuwār-, ḥiwār- 'young camel recently born, or up to the time of weaning' \[BK 1 511\], \[Lane 666\], \[LA IV 221\]. | BK 1 511; Lane 666; LA IV 221 |  |
 | Mehri | ḥǝwōr \[LM 195\]. | LM 195 | gloss withheld |
 | Harsusi | ḥewōr \[JH 64\]. | JH 64 | gloss withheld |
 | Tigre | ḥǝwar \[LH 89\]. | LH 89 | gloss withheld |

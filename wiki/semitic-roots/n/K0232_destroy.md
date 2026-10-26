@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0232_destroy
 title: "*nVḥVl-: 'destroy'"
-desc: "Proto-Semitic *nVḥVl-, 'destroy': reflexes in 4 language(s)."
+desc: "Proto-Semitic *nVḥVl-, 'destroy': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0232"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Geez | nəḫla 'destroyed' | Anderson–Moser 2024 root nḥl |  |
 | Arabic | naḥula (LGz. 396) | LGz. 396 | gloss withheld |
 | Hebrew | naḥălā (Is. 17:11) (LGz. 396) | LGz. 396 | gloss withheld |
 | Syrian Aramaic | nəḥal (LGz. 396) | LGz. 396 | gloss withheld |

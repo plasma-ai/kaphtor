@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | zabb- 'great quantity of hair on the head, thick head of hair' \[BK 1 968\]; zabab- 'down (on birds or other animals); great abundance of hair on the head, thick head of hair' \[ibid.\]. | BK 1 968; ibid. |  |
-| Akkadian | zappu, zabbu, azappu OA on \[CAD z 49\], \[AHw 1511\] (azappu with tha \*ʔa- prefix?) | CAD z 49; AHw 1511 | gloss withheld |
+| Arabic | zabb- 'great quantity of hair on the head, thick head of hair' \[BK 1 968\]; zabab- 'down (on birds or other animals); great abundance of hair on the head, thick head of hair' \[ibid.\]. | BK 1 968 |  |
+| Akkadian | zappu, zabbu, azappu OA on \[CAD z 49\], \[AHw 1511\] | CAD z 49; AHw 1511 | gloss withheld |
 | Mandaic Aramaic | zapa \[DM 160\]. | DM 160 | gloss withheld |
 | Modern Aramaic | HRT zapta \[J Hert 202\]. | J Hert 202 | gloss withheld |
 | Hebrew | PB zayip 'bristles; eye-brows' \[Ja 395\] | Ja 395 |  |

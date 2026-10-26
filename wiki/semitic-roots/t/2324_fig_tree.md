@@ -38,13 +38,13 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | teʔttā, pl. tēʔnē (HALOT 1675) | HALOT 1675 | gloss withheld |
 | Phoenician | tyn (T 339) | T 339 | gloss withheld |
 | Aramaic | CPArm. tynʾ (HALOT 1675) | HALOT 1675 |  |
-| Eblaitic | ti-ì-tum (Kogan 2011, 204; VE 368a; Krebernik 1983, 14) | Kogan 2011, 204; VE 368a; Krebernik 1983, 14 |  |
-| Ugaritic | /tiʾnatu/ (UVST 184) (unattested alphabetically) | UVST 184 | gloss withheld |
+| Eblaitic | ti-ì-tum (Kogan 2011, 204; VE 368a; Krebernik 1983, 14) | Kogan 2011 204; VE 368a; Krebernik 1983, 14 |  |
+| Ugaritic | /tiʾnatu/ (UVST 184) | UVST 184 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Harari tīn, tīni 'fruit of cactus' (Leslau 1963, 150; acc. to Leslau, from Arb. tīn 'fig' of Aramaic origin; also in Ga. tīni, Som. tin).
+Harari tīn, tīni (Leslau 1963, 150) is from Arabic tīn 'fig', of Aramaic origin; Oromo tīni and Somali tin have it too (Leslau 1963, 150).
 
 <!-- END kaphtor:record -->

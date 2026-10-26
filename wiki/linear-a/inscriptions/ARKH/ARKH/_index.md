@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/ARKH/ARKH
 desc: "Inscriptions from Arkhanes, series ARKH."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-26T15:31:50Z
 ---
 
 # wiki/linear-a/inscriptions/ARKH/ARKH
@@ -13,7 +13,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH1b|ARKH1b]]: Tablet, Arkhanes. Translation: none.
 
-[[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2|ARKH2]]: Tablet, Arkhanes, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2|ARKH2]]: Tablet, Arkhanes, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a|ARKH3a]]: Tablet, Arkhanes. Translation: complete (CANDIDATE).
 

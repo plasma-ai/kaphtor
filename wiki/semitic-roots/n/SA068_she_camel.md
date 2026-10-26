@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab nwq (SD 101; Biella 298) | SD 101; Biella 298 | gloss withheld |
-| Arabic | Ar nāqaᵗ id. (Biella 298) | Biella 298 |  |
+| Arabic | Ar nāqaᵗ (Biella 298) | Biella 298 |  |
 | Geez | nāḳat, nāḳāt (SED II 213) | SED II 213 |  |
 | Judaic Aramaic | nā(ʔ)ḳətā, nāḳā, ʔanḳā; ʔnḳh (DJBA 725a apud CAL) | DJBA 725a; CAL |  |
 | Pre-Islamic North Arabian | Safaitic nqt (Al-Jallad–Jaworska 106) | Al-Jallad–Jaworska 106 | gloss withheld |

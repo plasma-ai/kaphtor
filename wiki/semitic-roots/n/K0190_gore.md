@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | NGḤ (CAL s.v. ngḥ) | CAL s.v. ngḥ | gloss withheld |
-| Hebrew | nagaḥ 'push' (BDB 618) | BDB 618 |  |
+| Aramaic | NGḤ (CAL s.v. ngḥ) | CAL s.v. ngḥ; Anderson–Moser 2024 root ngḥ | gloss withheld |
+| Hebrew | nagaḥ 'push' (BDB 618) | BDB 618; Anderson–Moser 2024 root ngḥ |  |
 | Arabic | ngḥ (HALOT 667) | HALOT 667 |  |
 | Judaic Aramaic | nagḥānā (HALOT 667) | HALOT 667 | gloss withheld |
 | Ugaritic | ngḥ (DULAT 614) | DULAT 614 | gloss withheld |

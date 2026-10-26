@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | surm- 'the rectum' \[BK 1 1084\]. | BK 1 1084 |  |
-| Akkadian | surummu OB, SB \[CAD s 416\], \[AHw 1063\] (translated as) | CAD s 416; AHw 1063 | gloss withheld |
+| Akkadian | surummu OB, SB \[CAD s 416\], \[AHw 1063\] | CAD s 416; AHw 1063 | gloss withheld |
 | Syrian Aramaic | šurmā 'rectum' \[Brock 809\]. | Brock 809 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

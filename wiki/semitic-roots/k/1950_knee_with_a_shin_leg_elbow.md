@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | kraia \[DM 222\] | DM 222 | gloss withheld |
 | East Ethiopic | SEL kǝre, WOL hǝri, ZWY hǝrǝ \[LGur 347\] | LGur 347 | gloss withheld |
 | Geez | kʷǝrnāʕ \[LGz 293\]. | LGz 293 | gloss withheld |
-| Gurage | GOG SOD kǝrrä, MUH MSQ ḫǝrrä, CHA ḫǝnä, EŽA ḫǝnnä, ENN GYE ḫǝnʔä, MSQ hǝnnä do. \[ibid.\] |  |  |
+| Gurage | GOG SOD kǝrrä, MUH MSQ ḫǝrrä, CHA ḫǝnä, EŽA ḫǝnnä, ENN GYE ḫǝnʔä, MSQ hǝnnä \[ibid.\] |  |  |
 | Modern Arabic | DAṮ kirʕān 'tibia of man and leg of the beast' \[GD 2568\]. | GD 2568 |  |
 | Hebrew | kǝrāʕayim (dual) (HALOT 500) | HALOT 500 | gloss withheld |
 | Amharic | kǝrn \[K 1393\] | K 1393 | gloss withheld |

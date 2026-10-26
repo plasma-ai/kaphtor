@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3090_foam_on_milk
 title: "*rVbṯ-at-: 'foam on milk'"
-desc: "Proto-Semitic *rVbṯ-at-, 'foam on milk': reflexes in 2 language(s)."
+desc: "Proto-Semitic *rVbṯ-at-, 'foam on milk': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3090"
@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*rVbṯ-at- |
 | Meaning | 'foam on milk' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1493 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | rəbṯūt (ML 314 apud SEDonline 1493) | ML 314; SEDonline 1493 | gloss withheld |
 | Jibbali | rəbṯɔ́t (JL 203 apud SEDonline 1493) | JL 203; SEDonline 1493 | gloss withheld |
+| Soqotri | ərbéto (Kogan 2015, ch. 8 §3.4.1 no. 92) | Kogan 2015 ch. 8 §3.4.1 no. 92 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

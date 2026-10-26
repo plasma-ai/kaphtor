@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*liʾ(-at)-, \*laʾay-at- |
 | Meaning | 'head of large cattle' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II No. 142 |
 
 ## Reflexes
 
@@ -35,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ləháytən (SED II 191) | SED II 191 |  |
 | Harsusi | ləhētəh (SED II 191) | SED II 191 |  |
 | Jibbali | léʔ, lhóti (SED II 191) | SED II 191 |  |
-| Soqotri | ʔélheh (ʔeléheh, ʔeléhoh) (SED II 191); éľľehe (SLOnline 3097) | SED II 191 | gloss withheld |
+| Soqotri | ʔélheh (ʔeléheh, ʔeléhoh) (SED II 191); éľľehe (SLOnline 3097) | SED II 191; SLOnline 3097 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

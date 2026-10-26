@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | boʔa 2 |  |  |
 | Phoenician | bʔ 2 |  |  |
 | Hebrew | b(w)ʔ 3 |  |  |
-| Epigraphic South Arabian | bʔw 3 \| Sab bhʾ, pp. (SD 27; Sabaweb lemmas 1434, 3920) | SD 27; Sabaweb lemmas 1434, 3920 | gloss withheld |
+| Epigraphic South Arabian | bʔw 3; Sab bhʾ 2 (SD 27; Sabaweb lemmas 1434, 3920) | SD 27; Sabaweb lemmas 1434, 3920 | gloss withheld |
 | Harari | bōʔa 2 |  |  |
 | Tigrinya | boʔe 2 |  |  |
 | Punic | bʾ 'come' | Anderson–Moser 2024 root bwʾ |  |
@@ -45,5 +45,9 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | bwʾ: jabāʾ, jibāʾ, bāʾum, ʾubāʾ (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+SD 27 refers Sab. BHʾ to \*BWʾ, and \*BWʾ (SD 33) back to BHʾ.
 
 <!-- END kaphtor:record -->

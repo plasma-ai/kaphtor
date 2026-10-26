@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔibrat- \[Freytag 1 3\], \[Blachère 7-8\]; ʔirb- \[BK 1 23\] (metathetic); cf. wirb-, warb- \[BK 2 1516\] | Freytag 1 3; BK 1 23; BK 2 1516 | gloss withheld |
-| Soqotri | berbéroh \[LS 94\] (redupl.) | LS 94 | gloss withheld |
+| Arabic | ʔibrat- \[Freytag 1 3\], \[Blachère 7-8\]; ʔirb- \[BK 1 23\] (metathetic); cf. wirb-, warb- \[BK 2 1516\] | Freytag 1 3; Blachère 7-8; BK 1 23; BK 2 1516 | gloss withheld |
+| Soqotri | berbéroh \[LS 94\] | LS 94 | gloss withheld |
 | Akkadian | ibrētu (pl. t.) SB \[CAD i 5\], \[AHw 363\] | CAD i 5; AHw 363 | gloss withheld |
 | Gurage | MUH bärrä, GOG SOD bǝrrä \[LGur 149\]; Cha. bänä, Eža bännä, Enn. Gye. bäñä, End. Msq. bäññä \[LGur. 149\]. | LGur 149; LGur. 149 | gloss withheld |
 | Hebrew | pB. ʔēbär |  | gloss withheld |
@@ -41,5 +41,9 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ʕbra \[DM 341\] | DM 341 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Payne Smith 2 gives Syriac ʔebrā only as 'feather; wings, pinions', and CAL ʾbr cites Syriac only for wing and feather senses (see 1850); SED I cites Brock. 3 for both Syr. 'penna' (No. 1) and 'membrum' (No. 3).
 
 <!-- END kaphtor:record -->

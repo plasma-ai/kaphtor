@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | \*raq, rāqīq, \*rqq, \*raqq (HALOT 1286, 1290, 1293); raḳḳā (HALOT 1288 apud SEDonline 2045) | HALOT 1286, 1290, 1293; HALOT 1288; SEDonline 2045 | gloss withheld |
 | Tigre | raqqa (HALOT 1293) | HALOT 1293 |  |
 | Syrian Aramaic | rəqāqā (HALOT 1293) | HALOT 1293 | gloss withheld |
-| Aramaic | RQQ (Aramaic Root Atlas; CAL s.v. rqq#2) | Aramaic Root Atlas; CAL s.v. rqq#2 | gloss withheld |
+| Aramaic | RQQ (Aramaic Root Atlas; CAL s.v. rqq#2) | Aramaic Root Atlas; CAL s.v. rqq#2; Anderson–Moser 2024 root rqq | gloss withheld |
 | Eblaitic | ra-gu /raḳḳu/ (VE 76, Kogan–Krebernik 2021b: 696 apud SEDonline 2045; Krebernik 1983, 4) | VE 76, Kogan–Krebernik 2021b: 696; SEDonline 2045; Krebernik 1983, 4 | gloss withheld |
 | Amharic | räḳḳäḳä (AED 387 apud SEDonline 2045) | AED 387; SEDonline 2045 | gloss withheld |
 | Tigrinya | räḳ̌äḳ̌ä (TED 560 apud SEDonline 2045) | TED 560; SEDonline 2045 |  |

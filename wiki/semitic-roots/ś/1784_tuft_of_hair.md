@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | šaʕfat- 'lock of hair, tuft, hair' \[BK 1 1240\] | BK 1 1240 |  |
 | Mehri | ŝǝft, pl. ŝēf \[JM 373\] | JM 373 | gloss withheld |
-| Soqotri | ŝfeh (ŝef) do. \[LS 432\], \[SSL LS 1472-3\] | LS 432; SSL LS 1472-3 |  |
+| Soqotri | ŝfeh (ŝef) \[LS 432\], \[SSL LS 1472-3\] | LS 432; SSL LS 1472-3 |  |
 | Akkadian | (?) šipātu (šupātu, OAkk šaptu) OAkk on \[CAD š3 57\], \[AHw 1244\] | CAD š3 57; AHw 1244 | gloss withheld |
-| Harsusi | ŝafēt do. \[JH 118\] | JH 118 |  |
-| Jibbali | ŝfét do. \[JJ 246\] | JJ 246 |  |
+| Harsusi | ŝafēt \[JH 118\] | JH 118 |  |
+| Jibbali | ŝfét \[JJ 246\] | JJ 246 |  |
 | Hebrew | (?) ŝāpām (HALOT 1348). | HALOT 1348 | gloss withheld |
-| Amharic | šǝfašǝft \[K 667\] (redupl.). | K 667 | gloss withheld |
-| Tigrinya | šifašǝfti 'eyelashes' \[Bass 239\] (redupl.) | Bass 239 |  |
+| Amharic | šǝfašǝft \[K 667\]. | K 667 | gloss withheld |
+| Tigrinya | šifašǝfti 'eyelashes' \[Bass 239\] | Bass 239 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ḳʷsl |
 | Meaning | 'to be wounded' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 913 |
 
 ## Reflexes
 

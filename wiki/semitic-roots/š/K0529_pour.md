@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šapāku 'heap up' | Anderson–Moser 2024 root špk |  |
-| Arabic | safaka 'shed' (Lane 1374) | Lane 1374 |  |
-| Aramaic | ŠPK (Qumran 241 apud CAL) | CAL | gloss withheld |
+| Arabic | safaka 'shed' (Lane 1374) | Lane 1374; Anderson–Moser 2024 root špk |  |
+| Aramaic | ŠPK (Qumran 241 apud CAL) | CAL; Anderson–Moser 2024 root špk | gloss withheld |
 | Geez | sabaka 'smelt' | Anderson–Moser 2024 root špk |  |
-| Hebrew | šapak 'pour' (BDB 1049) | BDB 1049 |  |
+| Hebrew | šapak 'pour' (BDB 1049) | BDB 1049; Anderson–Moser 2024 root špk |  |
 | Ugaritic | špk 'spill' | Anderson–Moser 2024 root špk |  |
 | Judaic Aramaic | špk (HALOT 1629; DJPA 563b apud CAL) | HALOT 1629; DJPA 563b; CAL |  |
 | Syrian Aramaic | šepak (HALOT 1629; Payne Smith 591) | HALOT 1629; Payne Smith 591 |  |

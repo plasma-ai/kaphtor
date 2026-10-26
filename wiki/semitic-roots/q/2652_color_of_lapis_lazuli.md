@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḳunuww- 'black color', ḳān-in 'very red' (BK II 826), ḳanaʔa 'to be red, to be dyed red (said of the beard dyed red, of fingers dyed red or reddened by the juice of mulberries)', taḳnīʔ- 'to dye dark red (the fingers, the beard); to dye black (the beard)', ʔaḳnaʔ- 'red' (ibid. 818) | BK II 826; ibid. 818 |  |
+| Arabic | ḳunuww- 'black color', ḳān-in 'very red' (BK II 826), ḳanaʔa 'to be red, to be dyed red (said of the beard dyed red, of fingers dyed red or reddened by the juice of mulberries)', taḳnīʔ- 'to dye dark red (the fingers, the beard); to dye black (the beard)', ʔaḳnaʔ- 'red' (ibid. 818) | BK II 826; BK 818 |  |
 | Akkadian | uḳnû OB, B, SB, OAss., MA, NA (AHw. 1426f.) | AHw. 1426f | gloss withheld |
 | Ugaritic | iḳnu 1); 2); 3) (DULAT 90) | DULAT 90 | gloss withheld |
 | Phoenician | ʔḳnʔ (Krahmalkov 69) | Krahmalkov 69 | gloss withheld |

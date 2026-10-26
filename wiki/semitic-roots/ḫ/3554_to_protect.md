@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫafara 'he protected him; granted him refuge', ḫufrat 'protection, refuge', ḫafīr 'a protector' (Lane 772) | Lane 772 |  |
-| Epigraphic South Arabian | Sab ẖfr (SD 59); hẖfr (Biella 208) | SD 59; Biella 208 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫfr (SD 59); hḫfr (Biella 208) | SD 59; Biella 208 | gloss withheld |
 | Geez | ḫafara; māḫ(ə)far (LGz. 260) | LGz. 260 | gloss withheld |
 | Jibbali | š-ḫefer (LGz. 260) | LGz. 260 | gloss withheld |
 

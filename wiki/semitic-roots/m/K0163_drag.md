@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | masaka 'drag' | Anderson–Moser 2024 root mšk |  |
-| Hebrew | mašak 'draw' (BDB 604) | BDB 604 |  |
+| Hebrew | mašak 'draw' (BDB 604) | BDB 604; Anderson–Moser 2024 root mšk |  |
 | Ugaritic | mšk (Tropper UG 109) | Tropper UG 109 | gloss withheld |
 | Arabic | masaka (HALOT 645) | HALOT 645 |  |
 | Aramaic | məšaḵ (LGz. 364) | LGz. 364 |  |

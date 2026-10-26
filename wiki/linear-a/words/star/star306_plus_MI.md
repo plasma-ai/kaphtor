@@ -58,6 +58,12 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | ʿAmmī | personal name, 'my kinsman', 1 | SPECULATIVE |
 
 <!-- END kaphtor:record -->

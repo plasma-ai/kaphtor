@@ -35,8 +35,12 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʔṣl (T 28) | T 28 | gloss withheld |
 | Epigraphic South Arabian | Sab wṣl (Biella 140, 141) | Biella 140, 141 | gloss withheld |
 | Punic | ʿṣʾl (T 28) | T 28 | gloss withheld |
-| Soqotri | ṣeḷ (LS 496; SLOnline 3149) | LS 496 | gloss withheld |
+| Soqotri | ṣeḷ (LS 496; SLOnline 3149) | LS 496; SLOnline 3149 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Soq. ṣeḷ is a causative of PWS \*wṣl 'to come, to attain' (SLOnline 3149; SEDonline 2034).
 
 <!-- END kaphtor:record -->

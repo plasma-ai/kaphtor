@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2455_to_dig_with_a_hoe
 title: "*ḫVrVr-: 'to dig with a hoe'"
-desc: "Proto-Semitic *ḫVrVr-, 'to dig with a hoe': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫVrVr-, 'to dig with a hoe': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2455"
@@ -30,8 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḫarāru OB on (CAD Ḫ, 91), ḫirru (ibid. 199) (otherwise related to ḫerû, ḫurru &lt; Sem. \*ḫurr-, \*ḫrw, cf. LGz. 265) | CAD Ḫ, 91; ibid. 199; LGz. 265 | gloss withheld |
-| Eblaitic | dig with a hoe |  |  |
+| Akkadian | ḫarāru OB on (CAD Ḫ, 91), ḫirru (ibid. 199) | CAD Ḫ, 91; CAD 199 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

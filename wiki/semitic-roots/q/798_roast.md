@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | qlw \[-i-, -u-\] (Lane 2993) | Lane 2993 |  |
 | Akkadian | qalû |  |  |
 | Mandaic Aramaic | ḳla |  | gloss withheld |
-| Geez | qalawa 'roast' (Dillmann 03209) | Dillmann 03209 |  |
+| Geez | qalawa 'roast' (Dillmann 03209) | Dillmann 03209; Anderson–Moser 2024 root qlw |  |
 | Hebrew | qālā (HALOT 1101) | HALOT 1101 | gloss withheld |
 | Judaic Aramaic | qəlā (HALOT 1101) | HALOT 1101 |  |
 | Syrian Aramaic | qəlā (HALOT 1101) | HALOT 1101 |  |

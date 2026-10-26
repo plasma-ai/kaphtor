@@ -31,12 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | kalama, kalm (BK 2, 925; HALOT 480) | BK 2, 925; HALOT 480 | gloss withheld |
 | Hebrew | kālam; kǝlimmâ (HALOT 480) | HALOT 480 | gloss withheld |
-| Aramaic | klm where attested (CAL s.v. klm) | CAL s.v. klm | gloss withheld |
+| Aramaic | klm (CAL s.v. klm) | CAL s.v. klm | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-From S12: Primarily NWS. Triconsonantal √k-l-m.
 
 <!-- END kaphtor:record -->

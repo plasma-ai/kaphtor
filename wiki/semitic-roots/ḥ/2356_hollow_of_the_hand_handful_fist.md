@@ -37,16 +37,16 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | hupna \[DM 136\] | DM 136 | gloss withheld |
 | Ugaritic | (?) ḥpn \[Del Olmo 548\]. |  | gloss withheld |
 | East Ethiopic | SEL umfäññe, WOL umfuññet \[LArg. 189\] | LArg. 189 | gloss withheld |
-| Gurage | CHA EŽA GYE MUH ǝ̃fʷǝyyä, EŽA MUH ǝmfʷǝyyä, END umfǝʔä, ENN MSQ ǝ̃fuyä, MSQ ǝmfuyyā, GOG ǝ̃fuñña, ǝmfuñña, SOD ǝmfuññä do. \[LArg. 189\] | LArg. 189 |  |
+| Gurage | CHA EŽA GYE MUH ǝ̃fʷǝyyä, EŽA MUH ǝmfʷǝyyä, END umfǝʔä, ENN MSQ ǝ̃fuyä, MSQ ǝmfuyyā, GOG ǝ̃fuñña, ǝmfuñña, SOD ǝmfuññä \[LArg. 189\] | LArg. 189 |  |
 | Modern Arabic | Malt ḥafna |  | gloss withheld |
-| Jibbali | ḥáfǝn do. \[JJ 105\] | JJ 105 |  |
-| Hebrew | ḥopnayim (dual) (HALOT 339) (&lt;\*ḥupn-) | HALOT 339 | gloss withheld |
+| Jibbali | ḥáfǝn \[JJ 105\] | JJ 105 |  |
+| Hebrew | ḥopnayim (dual) (HALOT 339) | HALOT 339 | gloss withheld |
 | Amharic | ǝffǝñ \[K 1357\] | K 1357 | gloss withheld |
 | Argobba | ǝffǝñ \[LArg. 189\] | LArg. 189 | gloss withheld |
 | Epigraphic South Arabian | SAB ḥfn-nhn (dual) \[Biella 182\]. | Biella 182 | gloss withheld |
-| Judaic Aramaic | ḥupnā, ḥopnā \[Ja 492\]; ḥpn (det. ḥwpnh) do. \[DJPA 212a apud CAL\] | Ja 492; DJPA 212a; CAL | gloss withheld |
+| Judaic Aramaic | ḥupnā, ḥopnā \[Ja 492\]; ḥpn (det. ḥwpnh) \[DJPA 212a apud CAL\] | Ja 492; DJPA 212a; CAL | gloss withheld |
 | Syrian Aramaic | ḥupnā 'handful, small fistful' \[Brock 250\] | Brock 250 |  |
-| Aramaic | OFF ḥpn, certain measure of capacity \[HJ 395\] | HJ 395 |  |
+| Aramaic | OFF ḥpn \[HJ 395\] | HJ 395 | gloss withheld |
 | Geez | ḥafana (LGz. 227) | LGz. 227 | gloss withheld |
 | Tigrinya | ḥəfni, ḥəfənti (SED I 114) | SED I 114 | gloss withheld |
 

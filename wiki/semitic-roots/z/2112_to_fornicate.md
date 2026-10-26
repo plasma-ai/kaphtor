@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | zäna \[LH 501\] | LH 501 | gloss withheld |
 | Mandaic Aramaic | ZNA \[DM 169\] | DM 169 | gloss withheld |
 | Ugaritic | dnt \[DULAT 274\] | DULAT 274 | gloss withheld |
-| Geez | zanaya \[LGz 642\], zǝnyat \[ibid.\] | LGz 642; ibid. | gloss withheld |
+| Geez | zanaya \[LGz 642\], zǝnyat \[ibid.\] | LGz 642 | gloss withheld |
 | Jibbali | zíni \[JJ 320\] | JJ 320 | gloss withheld |
 | Hebrew | zānā (HALOT 275) | HALOT 275 | gloss withheld |
 | Amharic | zänna \[K 1648\] | K 1648 | gloss withheld |

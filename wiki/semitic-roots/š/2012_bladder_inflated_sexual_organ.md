@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | šafallāḥ 'a woman's private parts, very developed and thick; a woman whose vagina is very ample, thick; a man who has large buttocks, or thick lips' \[BK 1 1250\] | BK 1 1250 |  |
-| Hebrew | PB šalpūḥīt 'womb; the (bladder-like) gullet of a bird' \[Ja 1587-8\]; šlḥwpw/yt do. \[ibid. 1581\] | Ja 1587-8; ibid. 1581 |  |
+| Hebrew | PB šalpūḥīt 'womb; the (bladder-like) gullet of a bird' \[Ja 1587-8\]; šlḥwpw/yt do. \[ibid. 1581\] | Ja 1587-8; Ja 1581 |  |
 | Judaic Aramaic | šilpūḥā 'bladder (of a fish)' \[Ja 1563\] | Ja 1563 |  |
 | Syrian Aramaic | šalpūḥǝtā 'bladder; blister/pustule' \[Brock 784\] | Brock 784 |  |
 

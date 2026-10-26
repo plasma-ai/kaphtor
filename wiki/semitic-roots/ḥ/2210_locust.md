@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥarǯalat- 'swarm of grasshoppers' \[BK 1 405\], \[Fr. I 363\], \[LA XI 149\] (ʔal-ḳiṭaʕtu mina l-ǯarādi), ḥarǯal-, ḥarǯūl- 'a kind of grasshopper' \[Dozy I 268\]. Note that ḥarǯalat- is also applied to large groups of beings other than locusts (people, horses). | BK 1 405; Fr. I 363; LA XI 149; Dozy I 268 |  |
-| Akkadian | irgilu OB (Mari), SB \[CAD i 176\], ergilu \[AHw. 240\] | CAD i 176; AHw. 240; Landsberger Fauna 123; CAD i 177; AHw. 240; CAD i 177, m1 44-5 | gloss withheld |
-| Eblaitic | ir-gi-lum = NAM.KUR.MUS̆EN \[MEE 4 1094\] | MEE 4 1094; Baldacci 65 |  |
+| Arabic | ḥarǯalat- 'swarm of grasshoppers' \[BK 1 405\], \[Fr. I 363\], \[LA XI 149\] (ʔal-ḳiṭaʕtu mina l-ǯarādi), ḥarǯal-, ḥarǯūl- 'a kind of grasshopper' \[Dozy I 268\] | BK 1 405; Fr. I 363; LA XI 149; Dozy I 268 |  |
+| Akkadian | irgilu OB (Mari), SB \[CAD i 176\], ergilu \[AHw. 240\] | CAD i 176; AHw. 240 | gloss withheld |
+| Eblaitic | ir-gi-lum = NAM.KUR.MUS̆EN \[MEE 4 1094\] | MEE 4 1094 |  |
 | Hebrew | ḥargōl (HALOT 350), pB. \[Ja. 498\] | HALOT 350; Ja. 498 | gloss withheld |
 | Judaic Aramaic | ḥargōlā 'name of an edible locust' \[Ja. 498\], \[Levy WT I 281\]. | Ja. 498; Levy WT I 281 |  |
 | Syrian Aramaic | ḥargālā 'grasshopper' \[Brock. 255\], 'large wingless locust' \[PS 1367\]. | Brock. 255; PS 1367 |  |

@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔakr- 'the act of digging the earth, a pit; the act of ploughing the earth', ʔakkār- 'one who digs the earth, gravedigger; ploughman' (BK 1, 42), ʔkr 'to plough (the soil), to dig it' (Belot 1929, 11) | BK 1, 42; Belot 1929, 11 |  |
-| Akkadian | ikkaru, inkaru (Nuzi) OAkk on | CAD I/J 49; AHw 368 | gloss withheld |
-| Mandaic Aramaic | AKR (DM 18), ʕkara (Ibid. 349) | DM 18; Ibid. 349 | gloss withheld |
+| Akkadian | ikkaru, inkaru (Nuzi) OAkk on (CAD I/J 49; AHw 368) | CAD I/J 49; AHw 368 | gloss withheld |
+| Mandaic Aramaic | AKR (DM 18), ʕkara (Ibid. 349) | DM 18; DM 349 | gloss withheld |
 | Gurage | Chaha t-akärä, Enn. Gyeto t-ākärä, End. t-ākkärä (LGur 593) | LGur 593 | gloss withheld |
 | Hebrew | ʔikkār (HALOT 47) | HALOT 47 | gloss withheld |
 | Amharic | akkärä (LGur 593) | LGur 593 | gloss withheld |

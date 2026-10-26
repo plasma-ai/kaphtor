@@ -48,9 +48,10 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʾammāwāṣī | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
+| [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_NA_SI\|DA-NA-SI]] | Ḏā-Naśiʾ | SPECULATIVE |
-| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Dasiṭa | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | naḥāši | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
@@ -82,9 +83,11 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/S/SI_KI_NE\|SI-KI-NE]] | Sikinet | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_KI_RA\|SI-KI-RA]] | Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_MA\|SI-MA]] | šima | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | sipkī | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_RU\|SI-RU]] | ṣillu | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_RU_TE\|SI-RU-TE]] | šīrūt | PROBABLE |
+| [[wiki/linear-a/words/S/SI_TE_TU\|SI-TE-TU]] | šetātu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_TU\|SI-TU]] | sūt | CANDIDATE |
 | [[wiki/linear-a/words/U/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_KA_NA_SI\|U-NA-KA-NA-SI]] | wannā kanāsī / winnā kanāsī | CONFIRMED |

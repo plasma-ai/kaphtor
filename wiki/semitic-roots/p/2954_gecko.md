@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*pVṣɣ- {} \*pVc̣ɣ- |
 | Meaning | 'gecko' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II No. 184 |
 
 ## Reflexes
 
@@ -31,12 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | piṣalluru, piṣallurtu (SED II 245) | SED II 245 | gloss withheld |
 | Mehri | fēṣəɣ (SED II 246) | SED II 246 | gloss withheld |
-| Jibbali | fɵṣɣ id. (SED II 246) | SED II 246 |  |
+| Jibbali | fɵṣɣ (SED II 246) | SED II 246 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-SED II No. 184, after Huehnergard 1991: the meanings agree fully, though the Akk. -llur- is puzzling. NSyr. chalûrî 'a lizard' may belong here; its background is obscure (SED II 246).
 
 <!-- END kaphtor:record -->

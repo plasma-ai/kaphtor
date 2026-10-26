@@ -58,13 +58,15 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | ʾubūs(a) | the stall, storehouse, 4 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | ʾubūs(a) | the stall, storehouse, 14 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | ʾubūs | stall or storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE |
 
 <!-- END kaphtor:record -->

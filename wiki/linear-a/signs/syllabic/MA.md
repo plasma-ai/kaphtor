@@ -50,7 +50,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʾammāwāṣī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | SPECULATIVE |
-| [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dudama | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dūdāma | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidamat | CANDIDATE |
 | [[wiki/linear-a/words/I/I_PI_NA_MA\|I-PI-NA-MA]] | ʾippina=ma | PROBABLE |
 | [[wiki/linear-a/words/J/JA_MA_U_TI\|JA-MA-U-TI]] | Yamūti | SPECULATIVE |
@@ -65,6 +65,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | makita | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_KI_DE_TE\|MA-KI-DE-TE]] | Majdat | SPECULATIVE |
+| [[wiki/linear-a/words/M/MA_RE\|MA-RE]] | mārē | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RI_RE_I\|MA-RI-RE-I]] | marīrēy | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_RI_TA2\|MA-RI-TA₂]] | marʾ(i)tā | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RU\|MA-RU]] | Maru | CANDIDATE |
@@ -75,12 +76,14 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MA_ZU\|MA-ZU]] | maṯu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_NU_MA\|QA-NU-MA]] | qanūma | CANDIDATE |
 | [[wiki/linear-a/words/R/RI_SU_MA\|RI-SU-MA]] | rīšum(a) | CANDIDATE |
+| [[wiki/linear-a/words/R/RU_MA\|RU-MA]] | Rūma | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_JA_MA\|SA-JA-MA]] | śaymā | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | šamm- | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_MA_RO\|SA-MA-RO]] | Samarō | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_TI\|SA-MA-TI]] | Ṣamidi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_MA\|SI-MA]] | šima | CANDIDATE |
+| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-lēwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | tittma | CANDIDATE |
 | [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar/Tamar | CANDIDATE |

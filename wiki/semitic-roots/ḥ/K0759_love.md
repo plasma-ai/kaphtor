@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ḤŠQ (Aramaic Root Atlas; CAL s.v. ḥšq#2) | Aramaic Root Atlas; CAL s.v. ḥšq#2 | gloss withheld |
-| Hebrew | ḥašaq 'love' (BDB 365) | BDB 365 |  |
+| Aramaic | ḤŠQ (Aramaic Root Atlas; CAL s.v. ḥšq#2) | Aramaic Root Atlas; CAL s.v. ḥšq#2; Anderson–Moser 2024 root ḥšq | gloss withheld |
+| Hebrew | ḥašaq 'love' (BDB 365) | BDB 365; Anderson–Moser 2024 root ḥšq |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

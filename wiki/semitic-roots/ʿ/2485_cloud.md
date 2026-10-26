@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | erp-et- |  |  |
-| Ugaritic | ʕrpt |  |  |
+| Ugaritic | ʕrpt (Kogan 2015, ch. 5 §2.1.1 no. 14) | Kogan 2015 ch. 5 §2.1.1 no. 14 |  |
 | Hebrew | ʕrp (HALOT 887) (cf. ʕărāpäl) | HALOT 887 | gloss withheld |
 | Geez | ḥarafa (LGz. 241) | LGz. 241 | gloss withheld |
 

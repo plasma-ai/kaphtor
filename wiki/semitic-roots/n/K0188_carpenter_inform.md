@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nagāru 'joiner'; nāgiru '(town) crier' | Anderson–Moser 2024 root ngr |  |
-| Geez | nagara 'say' (Dillmann 05195) | Dillmann 05195 |  |
-| Punic | ngr (T 210) | T 210 | gloss withheld |
+| Akkadian | nagāru; nāgiru (Kogan 2015, ch. 5 §3.2.3 no. 24) | Kogan 2015 ch. 5 §3.2.3 no. 24; Anderson–Moser 2024 root ngr | gloss withheld |
+| Geez | nagara 'say' (Dillmann 05195) | Dillmann 05195; Anderson–Moser 2024 root ngr |  |
+| Punic | ngr (T 210) | T 210; Anderson–Moser 2024 root ngr | gloss withheld |
 | Tigre | nägra (LGz. 392) | LGz. 392 | gloss withheld |
 | Tigrinya | nägärä (LGz. 392) | LGz. 392 |  |
 | Amharic | näggärä (LGz. 392) | LGz. 392 |  |
@@ -45,6 +45,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Areal \*nāgir- 'herald' (Kogan 2015:339 apud SEDonline 2065): the origin of Akk.-Ugr. \*nāgir- is uncertain, and Akk. nāgiru is hard to separate from Sum. nimgir (SEDonline 2065). Ugr. ngr, ngrt is a divine epithet; the reading 'herald' is preferred to \*naggār- 'carpenter' (Pardee 1997:623 apud SEDonline 2065).
+Areal \*nāgir- 'herald' (Kogan 2015, 339 apud SEDonline 2065). Ugr. ngr, ngrt is a divine epithet (Pardee 1997, 623 apud SEDonline 2065).
 
 <!-- END kaphtor:record -->

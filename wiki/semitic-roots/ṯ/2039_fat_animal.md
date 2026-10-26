@@ -31,13 +31,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṯarb- 'lard, fat (axunge)' \[BK 1 221\] | BK 1 221 |  |
-| Akkadian | (?) sarbu LL \[CAD s 175\] | CAD s 175; AHw 1029 | gloss withheld |
+| Akkadian | (?) sarbu LL \[CAD s 175\] | CAD s 175 | gloss withheld |
 | Tigre | särbä \[LH 177 apud d'Abb\] | LH 177 | gloss withheld |
 | Mandaic Aramaic | tirba \[DM 486\] | DM 486 | gloss withheld |
-| East Ethiopic | SEL säräba, WOL säräbä, ZWY särbä do. \[LGur 559\] | LGur 559 |  |
-| Gurage | CHA EŽA MUH MSQ GOG SOD säräba, GYE säräḇä do. \[ibid.\] |  |  |
+| East Ethiopic | SEL säräba, WOL säräbä, ZWY särbä \[LGur 559\] | LGur 559 |  |
+| Gurage | CHA EŽA MUH MSQ GOG SOD säräba, GYE säräḇä \[ibid.\] |  |  |
 | Phoenician | tbrt |  | gloss withheld |
-| Modern Aramaic | NASS tarba \[Tser 0222\] MMND terbā \[M MND 502\] | Tser 0222 | gloss withheld |
+| Modern Aramaic | NASS tarba \[Tser 0222\] MMND terbā \[M MND 502\] | Tser 0222; M MND 502 | gloss withheld |
 | Judaic Aramaic | tǝrāb, tǝrēb, tarbā \[Ja 1694\]; trb \[DJPA 590b apud CAL\] | Ja 1694; DJPA 590b; CAL | gloss withheld |
 | Harari | särba \[LHar 142\] | LHar 142 | gloss withheld |
 | Syrian Aramaic | tarbā 'fat; flesh (of fruit)' \[Brock 833\] | Brock 833 |  |

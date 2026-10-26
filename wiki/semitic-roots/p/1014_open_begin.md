@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ptḥ (Krahmalkov 408) | Krahmalkov 408 | gloss withheld |
 | Hebrew | ptḥ |  |  |
 | Syrian Aramaic | ptḥ (Payne Smith 470) | Payne Smith 470 |  |
-| Aramaic | PTḤ (Aramaic Root Atlas; DNWSI 948 apud CAL) | Aramaic Root Atlas; DNWSI 948; CAL | gloss withheld |
+| Aramaic | PTḤ (Aramaic Root Atlas; DNWSI 948 apud CAL) | Aramaic Root Atlas; DNWSI 948; CAL; Anderson–Moser 2024 root ptḥ | gloss withheld |
 | Punic | ptḥ 'open' | Anderson–Moser 2024 root ptḥ |  |
 | Judaic Aramaic | maptᵉḥā (HALOT 619) | HALOT 619 |  |
 | Epigraphic South Arabian | Sab. ftḥn (HALOT 988) | HALOT 988 | gloss withheld |

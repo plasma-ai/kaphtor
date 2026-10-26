@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǯny (Lane 472 apud SEDonline 1400) | Lane 472; SEDonline 1400 | gloss withheld |
-| Epigraphic South Arabian | Sab. ˀgnw (SD 50 apud SEDonline 1400); Sab. gny (SD 50 apud SEDonline 1400) | SD 50; SEDonline 1400; SD 50; SEDonline 1400 | gloss withheld |
+| Epigraphic South Arabian | Sab. ˀgnw (SD 50 apud SEDonline 1400); Sab. gny (SD 50 apud SEDonline 1400) | SD 50; SEDonline 1400 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

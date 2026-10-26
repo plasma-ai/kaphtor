@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | raḳḳ- 'large turtle; a kind of amphibian resembling a crocodile' \[BK 1 903\], \[LA X 123\]. | BK 1 903; LA X 123 |  |
-| Akkadian | raḳḳu OB on \[CAD r 172\], \[AHw. 958\], ruḳḳētu (pl.) SB \[CAD r 416\] | CAD r 172; AHw. 958; CAD r 416; Farber 1974 | gloss withheld |
+| Akkadian | raḳḳu OB on \[CAD r 172\], \[AHw. 958\], ruḳḳētu (pl.) SB \[CAD r 416\] | CAD r 172; AHw. 958; CAD r 416 | gloss withheld |
 | Mandaic Aramaic | riḳa \[DM 433\]. | DM 433 | gloss withheld |
-| Judaic Aramaic | raḳḳītā 'chameleon' \[Ja. 1497\]. Not very reliable, attested only as a variant reading to the normal zāḳītā (cf. \[Ja. 409\]). (cf. Levy WTM I 551) | Ja. 1497; Ja. 409; Levy WTM I 551 |  |
+| Judaic Aramaic | raḳḳītā 'chameleon' \[Ja. 1497\] | Ja. 1497 |  |
 | Syrian Aramaic | raḳḳā 'tortoise' \[Brock. 743\], \[PS 3973\]. | Brock. 743; PS 3973 |  |
 | Modern Aramaic | JNA raḳḳa dīd māya (SED II 252) | SED II 252 | gloss withheld |
 

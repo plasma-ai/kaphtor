@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕalūḳ- 'she-camel that has tenderness for a young one that is not her own, and that stops giving milk as soon as she has detected, by smell, the presence of this young one; she-camel that cannot get used to a male or to a young one' \[BK 2 346\]; ʕalīḳ-at- 'she-camel led on a leash, and which, on the way back, must be loaded with provisions' \[BK 2 346-7\]; ʕalāḳ-at- 'she-camel that is led on a leash to load it with provisions, on its return' \[BK 2 346\] | BK 2 346; BK 2 346-7; BK 2 346 |  |
+| Arabic | ʕalūḳ- 'she-camel that has tenderness for a young one that is not her own, and that stops giving milk as soon as she has detected, by smell, the presence of this young one; she-camel that cannot get used to a male or to a young one' \[BK 2 346\]; ʕalīḳ-at- 'she-camel led on a leash, and which, on the way back, must be loaded with provisions' \[BK 2 346-7\]; ʕalāḳ-at- 'she-camel that is led on a leash to load it with provisions, on its return' \[BK 2 346\] | BK 2 346; BK 2 346-7 |  |
 | Mehri | ʔēlīg \[JM 21\] | JM 21 | gloss withheld |
 | Jibbali | ʕiźɔ́g, dim. ʕálgɛn \[JJ 12\] | JJ 12 | gloss withheld |
 

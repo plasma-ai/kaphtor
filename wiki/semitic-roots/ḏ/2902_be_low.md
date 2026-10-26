@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 272 also lists Judaic Aramaic, Syriac (zlālā, zallilūtā 'foolishness') and Mandaic zll 'be contemptible' with z for \*ḏ (irregular).
+HALOT 272 also lists Judaic Aramaic, Syriac (zlālā, zallilūtā 'foolishness') and Mandaic zll 'be contemptible' with z for \*ḏ (irregular). Syriac zal 'to weigh light in the balance; to be of little weight or value; to be despised' (Payne Smith 116).
 
 <!-- END kaphtor:record -->

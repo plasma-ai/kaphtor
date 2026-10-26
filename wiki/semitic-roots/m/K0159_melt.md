@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | MWG (Aramaic Root Atlas; CAL s.v. mwg) | Aramaic Root Atlas; CAL s.v. mwg | gloss withheld |
-| Hebrew | muwg 'melt' (BDB 556) | BDB 556 |  |
+| Aramaic | MWG (Aramaic Root Atlas; CAL s.v. mwg) | Aramaic Root Atlas; CAL s.v. mwg; Anderson–Moser 2024 root mwg | gloss withheld |
+| Hebrew | muwg 'melt' (BDB 556) | BDB 556; Anderson–Moser 2024 root mwg |  |
 | Arabic | mwj, mauj (HALOT 555) | HALOT 555 | gloss withheld |
 | Geez | mogad (LGz. 332) | LGz. 332 | gloss withheld |
 | Mehri | mouǧit (LGz. 332) | LGz. 332 | gloss withheld |

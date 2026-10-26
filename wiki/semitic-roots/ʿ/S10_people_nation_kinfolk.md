@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʿāmm- 'general, common' (Lane 2150); ʿamm- 'paternal uncle' (Lane 2149) | Lane 2150; Lane 2149 |  |
+| Arabic | ʿāmm- 'general, common' (Lane 2150) | Lane 2150 |  |
 | Akkadian | ummānu (CAD U/W 106) | CAD U/W 106 | gloss withheld |
 | Ugaritic | ʿm (DULAT 160) | DULAT 160 | gloss withheld |
 | Phoenician | ʿm (T 249) | T 249 | gloss withheld |

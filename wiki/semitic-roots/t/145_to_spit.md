@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | tfl (i, u) \[BK 1 201\], tafl-, tufl-, tufāl- 'crachat de salive fine' \[ibid.\] | BK 1 201; ibid. |  |
+| Arabic | tfl (i, u) \[BK 1 201\], tafl-, tufl-, tufāl- 'crachat de salive fine' \[ibid.\] | BK 1 201 |  |
 | Mehri | tǝfūl (yǝtfēl) \[JM 400\] | JM 400 |  |
 | Harsusi | tefōl |  |  |
 | Jibbali | tfɔl (yɔ́tfǝl) \[JJ 269\] | JJ 269 |  |

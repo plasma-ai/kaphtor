@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔins-ān- 'Man' (BK 1, 61), ʔins- 'human kind, men' (BK 1, 61), nās- 'coll. men, people' (BK 2, 1366) | BK 1, 61; BK 1, 61; BK 2, 1366 |  |
+| Arabic | ʔins-ān- 'Man' (BK 1, 61), ʔins- 'human kind, men' (BK 1, 61), nās- 'coll. men, people' (BK 2, 1366) | BK 1, 61; BK 2, 1366 |  |
 | Soqotri | ʔinsíyye (LS 68) | LS 68 | gloss withheld |
 | Akkadian | nišū from OAkk. on, Akkadogram in Hitt. (CAD N/2 283; AHw 796) | CAD N/2 283; AHw 796 | gloss withheld |
 | Tigre | ʔǝnās (LH 371) | LH 371 | gloss withheld |
@@ -49,6 +49,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Mehri ʔans 'human being', ʔǝnsáy, ʔǝnsáyyǝt / ʔǝnsōy, ʔǝnsáytǝn 'human' (JM 6) &lt; Arb. Jibbali ʔɛnsí / ʔɛnsɔ́ʔ 'human, not jinn' (JJ 4) &lt; Arb. Harari insi 'human' (LHar 29) &lt; Arb.
+Mehri ʔans, ʔǝnsáy, ʔǝnsáyyǝt / ʔǝnsōy, ʔǝnsáytǝn (JM 6), Jibbali ʔɛnsí / ʔɛnsɔ́ʔ (JJ 4) and Harari insi (LHar 29) are Arabic loans.
 
 <!-- END kaphtor:record -->

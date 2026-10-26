@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/1651_pelvis_crotch_curve_of_thigh_1_wrist_ankle_2
 title: "*sinʕ- ~ *ṯVn(n)-: 'pelvis, crotch, curve of thigh' 1, 'wrist, ankle' 2"
-desc: "Proto-Semitic *sinʕ- ~ *ṯVn(n)-, 'pelvis, crotch, curve of thigh' 1, 'wrist, ankle' 2: reflexes in 8 language(s)."
+desc: "Proto-Semitic *sinʕ- ~ *ṯVn(n)-, 'pelvis, crotch, curve of thigh' 1, 'wrist, ankle' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1651"
@@ -34,11 +34,11 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | sūnu OAkk CAD s 386; AHw 1059 | CAD s 386; AHw 1059 | gloss withheld |
 | Harari | šān |  | gloss withheld |
 | Harsusi | ṯennét (SED II 335) | SED II 335 | gloss withheld |
-| Amharic | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
-| Gurage | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
-| Argobba | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
-| Gafat | č̣ən (OLA80 §30.11) | OLA80 §30.11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+SED I 118 sets the Ethiopic č̣ən forms under K0760.
 
 <!-- END kaphtor:record -->

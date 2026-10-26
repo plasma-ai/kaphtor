@@ -29,15 +29,15 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | rbt, pl. rbt, rbbt (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015, ch. 3 §5.2 no. 47 | gloss withheld |
-| Hebrew | rəbābā (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015, ch. 3 §5.2 no. 47 | gloss withheld |
-| Syrian Aramaic | rebbu (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015, ch. 3 §5.2 no. 47 | gloss withheld |
-| Arabic | ribbiyy-, rabbiyy-, rubbiyy-, rabw-, rubwat-, ribwat-, rubat- (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015, ch. 3 §5.2 no. 47 | gloss withheld |
+| Ugaritic | rbt, pl. rbt, rbbt (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015 ch. 3 §5.2 no. 47 | gloss withheld |
+| Hebrew | rəbābā (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015 ch. 3 §5.2 no. 47 | gloss withheld |
+| Syrian Aramaic | rebbu (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015 ch. 3 §5.2 no. 47 | gloss withheld |
+| Arabic | ribbiyy-, rabbiyy-, rubbiyy-, rabw-, rubwat-, ribwat-, rubat- (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015 ch. 3 §5.2 no. 47 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-PCS \*rib(a)b-at-, \*ribw-at- 'ten thousand, myriad' (Kogan 2015, ch. 3 §5.2 no. 47), from \*rbb/\*rbw 'to be numerous' (2477). Hbr. ribbō(ʾ) may be an Aramaism; Akk. rabbatu, ribbatu (Mari, Alalakh) and Ebla ri-PAP reflect WS influence; Gez. rabbawāt, ʾarbāb 'myriads' are Arabisms.
+PCS \*rib(a)b-at-, \*ribw-at- 'ten thousand, myriad' (Kogan 2015, ch. 3 §5.2 no. 47), from \*rbb/\*rbw 'to be numerous' (2477 \*rabb- 'big', 3632 \*rbw 'to grow, increase'). Hbr. ribbō(ʾ) may be an Aramaism; Akk. rabbatu, ribbatu (Mari, Alalakh) and Ebla ri-PAP reflect WS influence; Gez. rabbawāt, ʾarbāb 'myriads' are Arabisms.
 
 <!-- END kaphtor:record -->

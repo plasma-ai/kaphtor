@@ -29,13 +29,13 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | daddaru (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Hebrew | dardar (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Syrian Aramaic | dardrē (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Geez | dandar, dader (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Tigrinya | dander, dandär (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Amharic | dändär (Kogan 2011, 201) | Kogan 2011, 201 |  |
-| Modern Arabic | Yemeni durdurin (Kogan 2011, 201) | Kogan 2011, 201 |  |
+| Akkadian | daddaru (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Hebrew | dardar (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Syrian Aramaic | dardrē (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Geez | dandar, dader (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Tigrinya | dander, dandär (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Amharic | dändär (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Modern Arabic | Yemeni durdurin (Kogan 2011, 201) | Kogan 2011 201 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

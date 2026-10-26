@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | wapû 'be(come) visible' | Anderson–Moser 2024 root wpy |  |
-| Hebrew | yapah (HALOT 423) | HALOT 423 | gloss withheld |
+| Hebrew | yapah (HALOT 423) | HALOT 423; Anderson–Moser 2024 root wpy | gloss withheld |
 | Punic | yp 'proper' | Anderson–Moser 2024 root wpy |  |
 | Ugaritic | wpy (Tropper UG §74.36) | Tropper UG §74.36 | gloss withheld |
 | Syrian Aramaic | pʔy (Payne Smith 432); pʾy (HALOT 423) | Payne Smith 432; HALOT 423 | gloss withheld |

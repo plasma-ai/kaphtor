@@ -29,7 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fadaġahu (Lane 2352); mifdaġ (Lane 2352); fdġ (HSED 2005) | Lane 2352; Lane 2352; HSED 2005 | gloss withheld |
+| Arabic | fadaġahu (Lane 2352); mifdaġ (Lane 2352); fdġ (HSED 2005) | Lane 2352; HSED 2005 | gloss withheld |
 | Syrian Aramaic | pdaʿ 'to break the head, smash' (Payne Smith 435) | Payne Smith 435 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

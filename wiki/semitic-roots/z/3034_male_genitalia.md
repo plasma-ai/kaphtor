@@ -31,10 +31,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | pB. zubbān (SED I 264) | SED I 264 | gloss withheld |
-| Syrian Aramaic | (?) zulbānā, zəlūbānā, with -l- of obscure origin (SED I 264) | SED I 264 | gloss withheld |
+| Syrian Aramaic | (?) zulbānā, zəlūbānā (SED I 264) | SED I 264 | gloss withheld |
 | Arabic | zubb- (SED I 264) | SED I 264 | gloss withheld |
 | Modern Arabic | N. Yem. zibbin, zibb, zubb, zubbah (SED I 265) | SED I 265 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Not 163 \*zapp-/\*zabb- 'hair, bristle'.
 
 <!-- END kaphtor:record -->

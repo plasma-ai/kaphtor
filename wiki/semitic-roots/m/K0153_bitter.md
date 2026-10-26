@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | marāru 'be(come) bitter' | Anderson–Moser 2024 root mrr |  |
-| Aramaic | MRR (Aramaic Root Atlas; DNWSI 696 apud CAL) | Aramaic Root Atlas; DNWSI 696; CAL | gloss withheld |
-| Hebrew | marar 'bitter' (BDB 600) | BDB 600 |  |
+| Aramaic | MRR (Aramaic Root Atlas; DNWSI 696 apud CAL) | Aramaic Root Atlas; DNWSI 696; CAL; Anderson–Moser 2024 root mrr | gloss withheld |
+| Hebrew | marar 'bitter' (BDB 600) | BDB 600; Anderson–Moser 2024 root mrr |  |
 | Arabic | murr; marra (HALOT 629, 638) | HALOT 629, 638 |  |
 | Geez | marīr (HALOT 629) | HALOT 629 |  |
 | Ugaritic | mr (DULAT 562) | DULAT 562 | gloss withheld |
@@ -43,8 +43,8 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | märrära (LGz. 360) | LGz. 360 |  |
 | Harari | märära (LGz. 360) | LGz. 360 |  |
 | Gurage | märärä (LGz. 360) | LGz. 360 |  |
-| Eblaitic | \[m\]ar-ru₁₂-um, mu-ru₁₂ (Kogan 2011, 238); \[m\]ar-ru₁₂-um /marrum/ (VE 884; Krebernik 1983, 34) | Kogan 2011, 238; VE 884; Krebernik 1983, 34 |  |
-| Mehri | mər (Kogan 2011, 238) | Kogan 2011, 238 | gloss withheld |
+| Eblaitic | \[m\]ar-ru₁₂-um, mu-ru₁₂ (Kogan 2011, 238); \[m\]ar-ru₁₂-um /marrum/ (VE 884; Krebernik 1983, 34) | Kogan 2011 238; VE 884; Krebernik 1983, 34 |  |
+| Mehri | mər (Kogan 2011, 238) | Kogan 2011 238 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

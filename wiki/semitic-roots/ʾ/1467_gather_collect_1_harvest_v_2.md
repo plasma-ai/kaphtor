@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | esēpu 1 |  |  |
 | Ugaritic | ʔasp 1 |  |  |
-| Phoenician | ʾsp (Krahmalkov 66); ʔsp (T 26) | Krahmalkov 66; T 26 | gloss withheld |
+| Phoenician | ʾsp (Krahmalkov 66) | Krahmalkov 66 | gloss withheld |
 | Aramaic | (Palest) ʔasap 2 (DJPA 68a apud CAL) | DJPA 68a; CAL |  |
 | Hebrew | ʾāsap (HALOT 74) | HALOT 74 | gloss withheld |
-| Punic | ʾsp (Krahmalkov 66) | Krahmalkov 66 | gloss withheld |
+| Punic | ʾsp (Krahmalkov 66); Neo-Punic nʿsp (T 26) | Krahmalkov 66; T 26; Anderson–Moser 2024 root ʾsp | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

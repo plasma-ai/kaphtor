@@ -34,15 +34,15 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | riyyom |  | gloss withheld |
 | Tigre | räyim |  | gloss withheld |
 | Mandaic Aramaic | rum |  | gloss withheld |
-| Ugaritic | rm; rm (CUC; DULAT 729, 730) | CUC; DULAT 729, 730 | gloss withheld |
+| Ugaritic | rm; rm (CUC; DULAT 729, 730) | CUC; DULAT 729, 730; Anderson–Moser 2024 root rwm | gloss withheld |
 | Geez | rayama |  | gloss withheld |
-| Jibbali | ríhm (rym) (Kogan 2015, ch. 2 §4.2 no. 54) | Kogan 2015, ch. 2 §4.2 no. 54 | gloss withheld |
-| Hebrew | rw/ym 'be high'; ruwm 'rise' (BDB 926) | BDB 926 |  |
+| Jibbali | ríhm (rym) (Kogan 2015, ch. 2 §4.2 no. 54) | Kogan 2015 ch. 2 §4.2 no. 54 | gloss withheld |
+| Hebrew | rw/ym 'be high'; ruwm 'rise' (BDB 926) | BDB 926; Anderson–Moser 2024 root rwm |  |
 | Epigraphic South Arabian | Sab rym-m |  | gloss withheld |
 | Syrian Aramaic | rām 'be high' (Payne Smith 534) | Payne Smith 534 |  |
 | Judaic Aramaic | mᵉrōmā (HALOT 633); rūmā (HALOT 1205); rūm (T 304) | HALOT 633; HALOT 1205; T 304 | gloss withheld |
-| Punic | mrm (HALOT 633; T 199); rm | HALOT 633; T 199 | gloss withheld |
-| Aramaic | rwmʾ (HALOT 1205; Qumran 220 apud CAL); CPArm. rmtʾ (HALOT 1240); RWM (Aramaic Root Atlas; DNWSI 1063 apud CAL) | HALOT 1205; CAL; HALOT 1240; Aramaic Root Atlas; DNWSI 1063; CAL | gloss withheld |
+| Punic | mrm (HALOT 633; T 199); rm | HALOT 633; T 199; Anderson–Moser 2024 root rwm | gloss withheld |
+| Aramaic | rwmʾ (HALOT 1205; Qumran 220 apud CAL); CPArm. rmtʾ (HALOT 1240); RWM (Aramaic Root Atlas; DNWSI 1063 apud CAL) | HALOT 1205; CAL; HALOT 1240; Aramaic Root Atlas; DNWSI 1063; Anderson–Moser 2024 root rwm | gloss withheld |
 | Amorite | rwm: rāmum, rāmatum, jārīm (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
 | Modern Arabic | Yem. rēm (Biella 487) | Biella 487 |  |
 | Amharic | räžžim (AED 405 apud SEDonline 128) | AED 405; SEDonline 128 | gloss withheld |

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | būḥ- 'organs of generation (both of man and of woman)' \[BK 1 177\] | BK 1 177 |  |
-| Epigraphic South Arabian | Sab bḥt \[SD 33\]; (Sabaweb lemma 2940), Qat bḥt \[Ricks 24; Sabaweb lemma 2940\] | SD 33; Sabaweb lemma 2940; Ricks 24; Sabaweb lemma 2940 | gloss withheld |
+| Epigraphic South Arabian | Sab bḥt \[SD 33\] (Sabaweb lemma 2940), Qat bḥt \[Ricks 24; Sabaweb lemma 2940\] | SD 33; Sabaweb lemma 2940; Ricks 24 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

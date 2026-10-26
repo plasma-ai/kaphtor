@@ -29,7 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | geḥālîm (pl.) (HALOT 188); gaḥelet (HALOT 188) | HALOT 188; HALOT 188 | gloss withheld |
+| Hebrew | geḥālîm (pl.) (HALOT 188); gaḥelet (HALOT 188) | HALOT 188 | gloss withheld |
 | Geez | gʷaḥala (LGz. 187) | LGz. 187 | gloss withheld |
 | Amharic | gāla (HALOT 188) | HALOT 188 | gloss withheld |
 

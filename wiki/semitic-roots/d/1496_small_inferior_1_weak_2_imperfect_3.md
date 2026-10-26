@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/1496_small_inferior_1_weak_2_imperfect_3
 title: "*dall-: 'small, inferior' 1, 'weak' 2, 'imperfect' 3"
-desc: "Proto-Semitic *dall-, 'small, inferior' 1, 'weak' 2, 'imperfect' 3: reflexes in 6 language(s)."
+desc: "Proto-Semitic *dall-, 'small, inferior' 1, 'weak' 2, 'imperfect' 3: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1496"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | dallu 2 |  |  |
 | Ugaritic | dl 2; /dallu/ (UVST 118) | UVST 118 | gloss withheld |
 | Phoenician | dl 3 |  |  |
+| Punic | dl 3 (T 72) | T 72 | gloss withheld |
 | Hebrew | dal 2 |  |  |
 | Syrian Aramaic | dallīl (HALOT 221) | HALOT 221 | gloss withheld |
 | Judaic Aramaic | JBA dldl (DJBA 339 apud SEDonline 2000); dlyl (HALOT 221) | DJBA 339; SEDonline 2000; HALOT 221 | gloss withheld |

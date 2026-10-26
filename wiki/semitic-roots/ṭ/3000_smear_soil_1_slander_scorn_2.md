@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ṭpīlā 'defiled, corrupt'; ṭpīlūtā 'corruption of manners, depravity' (Payne Smith 180) | Payne Smith 180 |  |
 | Akkadian | ṭapālu; ṭaplu; ṭiplu, ṭuplu (CAD Ṭ 47, 49, 112, 126) | CAD Ṭ 47, 49, 112, 126 | gloss withheld |
 | Arabic | ṭufāl (HALOT 378) | HALOT 378 | gloss withheld |
-| Soqotri | ṭéfoḷ (SLOnline 7389) |  | gloss withheld |
+| Soqotri | ṭéfoḷ (SLOnline 7389) | SLOnline 7389 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

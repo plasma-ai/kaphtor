@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ayāṣu OB on \[CAD a1 231\], ayyaṣu \[AHw. 25\] | CAD a1 231; AHw. 25; Salonen Jagd 163; Landsberger Fauna 113 | gloss withheld |
+| Akkadian | ayāṣu OB on \[CAD a1 231\], ayyaṣu \[AHw. 25\] | CAD a1 231; AHw. 25 | gloss withheld |
 | Tigre | ʕanṣay, ʔanṣay \[LH 476\]. | LH 476 | gloss withheld |
-| Geez | ʔanṣawā, ʔanṣewā, ʔanṣowā \[LGz. 32\] (also ḥanṣawā, ḥanṣe id. \[ibid. 238\]). | LGz. 32; ibid. 238 | gloss withheld |
+| Geez | ʔanṣawā, ʔanṣewā, ʔanṣowā \[LGz. 32\] (also ḥanṣawā, ḥanṣe \[ibid. 238\]). | LGz. 32; LGz. 238 | gloss withheld |
 | Amharic | ay(ǝ)ṭ \[K 1296\]. | K 1296 | gloss withheld |
 | Tigrinya | ʔanč̣ǝwa 'mouse (sorico)' \[Bass. 539\]. | Bass. 539 |  |
 

@@ -59,13 +59,14 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | Khania | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | ṯawr | cattle (logographic abbreviation), 4 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | ṯawr | cattle (logographic abbreviation) | CANDIDATE |
 
 <!-- END kaphtor:record -->

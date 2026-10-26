@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | niswat-, nuswat-, nisāʔ-, nis-ūna, niswān- (BK 2, 1254). | BK 2, 1254 |  |
 | Biblical Aramaic | nǝš-īn 'wives' (BDB 1081) | BDB 1081 |  |
 | Hebrew | nāš-īm (pl.) (HALOT 729) | HALOT 729 |  |
-| Judaic Aramaic | nǝš-īn (Ja. 937). The sing. nǝšā is also attested. | Ja. 937 |  |
-| Syrian Aramaic | nešš-e (Brock. 450) | Brock. 450 |  |
+| Judaic Aramaic | nǝš-īn (Ja. 937) | Ja. 937 |  |
+| Syrian Aramaic | nešš-e (Brock. 450); nešē 'women' (Payne Smith 353) | Brock. 450; Payne Smith 353 |  |
 | Aramaic | SML nšy, OLD nšwn, OFF nšy (HJ 118) | HJ 118 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | rakāsu 'tie' | Anderson–Moser 2024 root rks |  |
-| Hebrew | rakas 'bind' (BDB 940) | BDB 940 |  |
+| Hebrew | rakas 'bind' (BDB 940) | BDB 940; Anderson–Moser 2024 root rks |  |
 | Ugaritic | rks 'gird' | Anderson–Moser 2024 root rks |  |
 | Arabic | rakasa (HALOT 1237) | HALOT 1237 |  |
 

@@ -31,7 +31,7 @@ updated: 2026-10-24T15:25:56Z
 |---|---|---|---|
 | Hebrew | gōren (HALOT 203) | HALOT 203 | gloss withheld |
 | Ugaritic | grn (DULAT 305) | DULAT 305 | gloss withheld |
-| Epigraphic South Arabian | grn (HALOT 203; LGz. 203) | HALOT 203; LGz. 203 | gloss withheld |
+| Epigraphic South Arabian | grn (HALOT 203; LGz. 203; Sabaweb lemma 4172) | HALOT 203; LGz. 203; Sabaweb lemma 4172 | gloss withheld |
 | Geez | gʷərn, gorn, gurn (LGz. 203) | LGz. 203 | gloss withheld |
 | Arabic | gurn, girn (LGz. 203); jurn, jirn (HALOT 203) | LGz. 203; HALOT 203 | gloss withheld |
 

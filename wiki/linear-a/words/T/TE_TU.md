@@ -25,9 +25,15 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete; form not in transliteration |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] |  | roster label (unread), 1 |  |
 
 ## Onomasticon
 

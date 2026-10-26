@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/t
 desc: "Semitic roots whose first radical is t."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/t
@@ -49,7 +49,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/t/145_to_spit|145_to_spit]]: Proto-Semitic *tVpVl-, 'to spit': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/t/146_occiput_neck_1_q_startinuk_ear_lobe|146_occiput_neck_1_q_startinuk_ear_lobe]]: Proto-Semitic *tikk- ~ (?) *tinuk-, 'occiput, neck' 1 ~ (?) *tinuk- 'ear-lobe': reflexes in 3 language(s).
+[[wiki/semitic-roots/t/146_occiput_neck_1_q_ear_lobe_2|146_occiput_neck_1_q_ear_lobe_2]]: Proto-Semitic *tikk- ~ (?) *tinuk-, 'occiput, neck' 1 ~ (?) 'ear-lobe' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/t/2033_breast_nipple|2033_breast_nipple]]: Proto-Semitic *tVlāʕ-, 'breast, nipple': reflexes in 3 language(s).
 
@@ -87,9 +87,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/t/2750_straw_chaff|2750_straw_chaff]]: Proto-Semitic *tVbVn-, 'straw, chaff': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/t/2765_deep_primordial_ocean_abyss|2765_deep_primordial_ocean_abyss]]: Proto-Semitic *tihām-, 'deep, primordial ocean, abyss': reflexes in 7 language(s).
-
-[[wiki/semitic-roots/t/2775_Tiamat_primordial_sea_goddess|2775_Tiamat_primordial_sea_goddess]]: Proto-Semitic *tiʾāmat-, 'Tiamat (primordial sea goddess)': reflexes in 2 language(s).
+[[wiki/semitic-roots/t/2765_deep_primordial_ocean_abyss_Tiamat_DN|2765_deep_primordial_ocean_abyss_Tiamat_DN]]: Proto-Semitic *tihām-, 'deep, primordial ocean, abyss; Tiamat (DN)': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/t/2914_twin|2914_twin]]: Proto-Semitic *tVʾVm-, 'twin': reflexes in 6 language(s).
 
@@ -117,17 +115,21 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/t/338_stick_with_a_hook|338_stick_with_a_hook]]: Proto-Semitic *tir-, 'stick with a hook': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/t/3399_to_lead|3399_to_lead]]: Proto-Semitic *tlk, 'to lead': reflexes in 2 language(s).
+[[wiki/semitic-roots/t/3399_to_lead|3399_to_lead]]: Proto-Semitic *tlk, 'to lead': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/t/339_cross_beam|339_cross_beam]]: Proto-Semitic *tawr-, 'cross-beam': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/t/3510_boundary|3510_boundary]]: Proto-Semitic *tḫm, 'boundary': reflexes in 3 language(s).
 
+[[wiki/semitic-roots/t/3614_to_be_straight_right_to_set_straight|3614_to_be_straight_right_to_set_straight]]: Proto-Semitic *trṣ, 'to be straight, right; to set straight': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/t/3630_partner_colleague_friend_companion|3630_partner_colleague_friend_companion]]: Proto-Semitic *tappāʾ-, 'partner, colleague, friend, companion': reflexes in 1 language(s).
+
 [[wiki/semitic-roots/t/434_advance_quickly|434_advance_quickly]]: Proto-Semitic *tVḳtVḳ-, 'advance quickly': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/t/436_hurry_hasten_1_run_fast_2|436_hurry_hasten_1_run_fast_2]]: Proto-Semitic *tir-/*tur-, 'hurry, hasten' 1, 'run fast' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/t/530_press_1_cut_destroy_2|530_press_1_cut_destroy_2]]: Proto-Semitic *tuk-, 'press' 1, 'cut, destroy' 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/t/530_press_1_cut_destroy_2|530_press_1_cut_destroy_2]]: Proto-Semitic *tuk-, 'press' 1, 'cut, destroy' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/t/531_trample|531_trample]]: Proto-Semitic *tVk-tVk-, 'trample': reflexes in 1 language(s).
 
@@ -163,17 +165,17 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/t/816_hunger|816_hunger]]: Proto-Semitic *taw-an-, 'hunger': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/t/873_hill|873_hill]]: Proto-Semitic *tall-/*till-, 'hill': reflexes in 11 language(s).
+[[wiki/semitic-roots/t/873_hill|873_hill]]: Proto-Semitic *tall-/*till-, 'hill': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/t/900_be_ill|900_be_ill]]: Proto-Semitic *tVwVy-, 'be ill': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/t/954_be_tired|954_be_tired]]: Proto-Semitic *tVʕab-, 'be tired': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/t/998_hang|998_hang]]: Proto-Semitic *tVlVy-, 'hang': reflexes in 8 language(s).
+[[wiki/semitic-roots/t/998_hang|998_hang]]: Proto-Semitic *tVlVy-, 'hang': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/t/K0409_hold|K0409_hold]]: Proto-Semitic *tVmVk-, 'hold': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/t/K0410_yester|K0410_yester]]: Proto-Semitic *timāl-, 'yester': reflexes in 9 language(s).
+[[wiki/semitic-roots/t/K0410_yester|K0410_yester]]: Proto-Semitic *timāl-, 'yester': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/t/K0411_furnace|K0411_furnace]]: Proto-Semitic *tVnVr-, 'furnace': reflexes in 3 language(s).
 
@@ -183,7 +185,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/t/K0414_apple|K0414_apple]]: Proto-Semitic *tVpVḥ-, 'apple': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/t/K0417_fear|K0417_fear]]: Proto-Semitic *tVyVh-, 'fear': reflexes in 0 language(s).
+[[wiki/semitic-roots/t/K0417_fear|K0417_fear]]: Proto-Semitic *tVyVh-, 'fear': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/t/K0419_guardroom|K0419_guardroom]]: Proto-Semitic *tVʾ-, 'guardroom': reflexes in 3 language(s).
 

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | giyl 'rejoice' (BDB 162) | BDB 162 |  |
-| Ugaritic | gl 'rejoice' | Anderson–Moser 2024 root gyl |  |
+| Hebrew | giyl 'rejoice' (BDB 162) | BDB 162; Anderson–Moser 2024 root gyl |  |
+| Ugaritic | gl (Kogan 2015, ch. 5 §3.1 no. 26) | Kogan 2015 ch. 5 §3.1 no. 26; Anderson–Moser 2024 root gyl | gloss withheld |
 | Canaanite | Amm. gl (DNWSI 222 apud SEDonline 230) | DNWSI 222; SEDonline 230 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠMŠ (Aramaic Root Atlas; DNWSI 1168 apud CAL) | Aramaic Root Atlas; DNWSI 1168; CAL | gloss withheld |
+| Aramaic | ŠMŠ (Aramaic Root Atlas; DNWSI 1168 apud CAL) | Aramaic Root Atlas; DNWSI 1168; CAL; Anderson–Moser 2024 root šmš | gloss withheld |
 | Punic | šmš 'serve' | Anderson–Moser 2024 root šmš |  |
 | Syrian Aramaic | šameš 'serve, minister; administer an office' (Payne Smith 585) | Payne Smith 585 |  |
 

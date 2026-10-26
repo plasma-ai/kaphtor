@@ -30,22 +30,22 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṭḥn \[-a-\] |  |  |
+| Arabic | ṭḥn \[-a-\]; ṭaḥana 'he ground (the wheat), made it into flour' (Lane 1831) | Lane 1831 |  |
 | Mehri | ṭeḥan |  |  |
-| Soqotri | ṭaḥan; ṭáḥan (SLOnline 7383) |  | gloss withheld |
+| Soqotri | ṭaḥan; ṭáḥan (SLOnline 7383) | SLOnline 7383 | gloss withheld |
 | Harsusi | ṭeḥan |  |  |
 | Jibbali | ṭaḥan |  |  |
 | Hebrew | ṭḥn |  |  |
-| Geez | ṭaḥana (LGz. 590) | LGz. 590 | gloss withheld |
-| Ugaritic | ṭḥn (DULAT 875) | DULAT 875 | gloss withheld |
+| Geez | ṭaḥana (LGz. 590) | LGz. 590; Anderson–Moser 2024 root ṭḥn | gloss withheld |
+| Ugaritic | ṭḥn (DULAT 875) | DULAT 875; Anderson–Moser 2024 root ṭḥn | gloss withheld |
 | Epigraphic South Arabian | ṭḥn (HALOT 374; Sabaweb lemma 5315) | HALOT 374; Sabaweb lemma 5315 | gloss withheld |
-| Akkadian | ṭēnu (HALOT 374) | HALOT 374 |  |
+| Akkadian | ṭēnu (HALOT 374); ṭênu (CAD Ṭ 98) | HALOT 374; CAD Ṭ 98 | gloss withheld |
 | Aramaic | ṭəḥan (LGz. 590) | LGz. 590 |  |
 | Syrian Aramaic | ṭəḥen (LGz. 590) | LGz. 590 |  |
 | Tigrinya | ṭäḥanä (LGz. 590) | LGz. 590 |  |
 | Tigre | ṭäḥana (LGz. 590) | LGz. 590 |  |
 | Harari | ṭäḥana (LGz. 590) | LGz. 590 |  |
-| Eblaitic | ṭa-ʾà-nu-um (Kogan 2011, 241; VE 656; Krebernik 1983, 25) | Kogan 2011, 241; VE 656; Krebernik 1983, 25 |  |
+| Eblaitic | ṭa-ʾà-nu-um (Kogan 2011, 241; VE 656; Krebernik 1983, 25) | Kogan 2011 241; VE 656; Krebernik 1983, 25 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

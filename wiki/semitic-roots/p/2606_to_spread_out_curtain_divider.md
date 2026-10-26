@@ -39,8 +39,12 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | PRS 'spread' | Anderson–Moser 2024 root prś |  |
 | Hebrew | pāraś (HALOT 975); mipraś (HALOT 618) | HALOT 975; HALOT 618 | gloss withheld |
 | Judaic Aramaic | JPA prās (DJPA 448 apud SEDonline 1293) | DJPA 448; SEDonline 1293 | gloss withheld |
-| Syrian Aramaic | pras (Kogan 2015, ch. 2 §5.2.2.3 no. 8) | Kogan 2015, ch. 2 §5.2.2.3 no. 8 | gloss withheld |
+| Syrian Aramaic | pras (Kogan 2015, ch. 2 §5.2.2.3 no. 8) | Kogan 2015 ch. 2 §5.2.2.3 no. 8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Left out, their s not answering \*ŝ: Arabic farasa 'to spread' (BK 2, 538); Ugaritic \*/p-r-s/, attested only in derived nouns (DULAT 671).
 
 <!-- END kaphtor:record -->

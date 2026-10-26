@@ -64,7 +64,7 @@ SUPPORT_DOMAINS: dict[str, frozenset[str] | None] = {
     "Tablet": None, "Lames (short thin tablet)": None, "3-sided bar": None, "4-sided bar": None, "Roundel": None,
     "Nodule": None, "Sealing": None, "Architecture": None, "Graffito": None, "Grave stele fragment": None,
     "Clay reel": None, "Clay larnax fragment": None, "Loom weight": None, "Label": None,
-    "Unspecified object": None, "": None,
+    "Amygdaloid stone seal": None, "Unspecified object": None, "": None,
 }
 
 _NUMBER = re.compile(r"\d|⁄")

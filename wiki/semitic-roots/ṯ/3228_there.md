@@ -29,12 +29,12 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ṯm (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015, ch. 3 §5.2 no. 64 | gloss withheld |
-| Hebrew | šām, šammā (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015, ch. 3 §5.2 no. 64 | gloss withheld |
-| Aramaic | OAram. šm (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015, ch. 3 §5.2 no. 64 | gloss withheld |
-| Biblical Aramaic | tammā (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015, ch. 3 §5.2 no. 64 | gloss withheld |
-| Syrian Aramaic | tammān (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015, ch. 3 §5.2 no. 64 | gloss withheld |
-| Arabic | ṯamma (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015, ch. 3 §5.2 no. 64 | gloss withheld |
+| Ugaritic | ṯm (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
+| Hebrew | šām, šammā (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
+| Aramaic | OAram. šm (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
+| Biblical Aramaic | tammā (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
+| Syrian Aramaic | tammān (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
+| Arabic | ṯamma (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

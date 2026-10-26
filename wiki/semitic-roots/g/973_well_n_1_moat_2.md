@@ -38,8 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | gǝbb 2 |  |  |
 | Mandaic Aramaic | gub- 1 |  |  |
 | Ugaritic | gb 1 |  |  |
-| Geez | gǝbb 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 7) | Kogan 2015, ch. 2 §5.2.2.1 no. 7 |  |
-| Hebrew | gēb 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 7) | Kogan 2015, ch. 2 §5.2.2.1 no. 7 |  |
+| Geez | gǝbb 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 7) | Kogan 2015 ch. 2 §5.2.2.1 no. 7 |  |
+| Hebrew | gēb 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 7) | Kogan 2015 ch. 2 §5.2.2.1 no. 7 |  |
 | Syrian Aramaic | gubb-, gūb- 1 |  |  |
 | Aramaic | gubb- 2 |  |  |
 | Amharic | gəbb (LGz. 176) | LGz. 176 |  |

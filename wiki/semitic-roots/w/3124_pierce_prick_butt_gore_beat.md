@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | wagʾa (LGz. 607) | LGz. 607 | gloss withheld |
 | Arabic | waǧaʾa (LGz. 607) | LGz. 607 |  |
-| Soqotri | ʾoge (LGz. 607); ége (SLOnline 3046) | LGz. 607 | gloss withheld |
+| Soqotri | ʾoge (LGz. 607); ége (SLOnline 3046) | LGz. 607; SLOnline 3046 | gloss withheld |
 | Jibbali | wgʿ (LGz. 607) | LGz. 607 |  |
 | Tigre | wägʾa, wägʿa (LGz. 607) | LGz. 607 |  |
 | Tigrinya | wägʿe (LGz. 607) | LGz. 607 |  |

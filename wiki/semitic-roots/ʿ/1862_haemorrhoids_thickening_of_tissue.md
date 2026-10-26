@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕafl-, ʕafal- 'fat, fatty flesh between the hind thighs in sheep or cattle; the perineal line that passes under the scrotum to the opening of the anus; the inner-thigh area where one feels an animal to check whether it is fat' \[BK 2 302\]; cf. ʕafalat- 'hernia in women or female animals' \[ibid.\] | BK 2 302; ibid. |  |
-| Hebrew | ʕōpäl (HALOT 861) (&lt;\*ʕupl-). | HALOT 861 | gloss withheld |
+| Arabic | ʕafl-, ʕafal- 'fat, fatty flesh between the hind thighs in sheep or cattle; the perineal line that passes under the scrotum to the opening of the anus; the inner-thigh area where one feels an animal to check whether it is fat' \[BK 2 302\]; cf. ʕafalat- 'hernia in women or female animals' \[ibid.\] | BK 2 302 |  |
+| Hebrew | ʕōpäl (HALOT 861). | HALOT 861 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

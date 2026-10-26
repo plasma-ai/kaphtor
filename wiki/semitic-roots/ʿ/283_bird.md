@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | iṣṣūru |  |  |
+| Akkadian | iṣṣūru (Kogan 2015, ch. 5 §2.2.2.2 no. 6) | Kogan 2015 ch. 5 §2.2.2.2 no. 6 |  |
 | Ugaritic | ʕṣr /ʿuṣṣūru/ (UVST 162) | UVST 162 | gloss withheld |
 | Amharic | č̣ǝre |  |  |
 | Tigrinya | č̣ǝru K 2503 (also ṣir?) | K 2503 | gloss withheld |

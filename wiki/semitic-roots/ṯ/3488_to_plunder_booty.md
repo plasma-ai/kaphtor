@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šallatu (CAD Š/1 248); šalālu (CAD Š/1 196) | CAD Š/1 248; CAD Š/1 196 | gloss withheld |
-| Hebrew | šll (HALOT 1531); šālāl (HALOT 1531) | HALOT 1531; HALOT 1531 | gloss withheld |
+| Hebrew | šll (HALOT 1531); šālāl (HALOT 1531) | HALOT 1531 | gloss withheld |
 | Ugaritic | ṯll (HALOT 1531) | HALOT 1531 | gloss withheld |
 | Epigraphic South Arabian | Sab ṯll (SD 150) | SD 150 | gloss withheld |
 | Arabic | ṯalla (HALOT 1531) | HALOT 1531 | gloss withheld |

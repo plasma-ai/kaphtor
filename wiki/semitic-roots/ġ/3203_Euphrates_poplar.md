@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ʿărābā (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Syrian Aramaic | ʿarbtā (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Arabic | γarab- (Kogan 2011, 202) | Kogan 2011, 202 |  |
+| Hebrew | ʿărābā (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Syrian Aramaic | ʿarbtā (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Arabic | ɣarab- (Kogan 2011, 202) | Kogan 2011 202 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

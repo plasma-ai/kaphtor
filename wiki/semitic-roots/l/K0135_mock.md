@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | LʿG (Aramaic Root Atlas; CAL s.v. lʿg) | Aramaic Root Atlas; CAL s.v. lʿg | gloss withheld |
+| Aramaic | LʿG (Aramaic Root Atlas; CAL s.v. lʿg) | Aramaic Root Atlas; CAL s.v. lʿg; Anderson–Moser 2024 root lʿg | gloss withheld |
 | Hebrew | laʿag 'mock' | Anderson–Moser 2024 root lʿg |  |
 | Arabic | laʿaja (HALOT 532) | HALOT 532 |  |
 | Syrian Aramaic | lʕeg 'stammerer, stutterer' (Payne Smith 243) | Payne Smith 243 |  |

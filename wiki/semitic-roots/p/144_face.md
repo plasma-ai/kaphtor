@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/144_face
 title: "*pan-: 'face'"
-desc: "Proto-Semitic *pan-, 'face': reflexes in 11 language(s)."
+desc: "Proto-Semitic *pan-, 'face': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "144"
@@ -35,12 +35,13 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | MOAB pny (pl.constr.) \[HJ 918\] | HJ 918 |  |
 | Ugaritic | pn; also pl. pnm \[Aist 256\] | Aist 256 | gloss withheld |
 | Phoenician | pn \[T 265\]; pn (B 392) | T 265; B 392 | gloss withheld |
-| Jibbali | fɛ́nɛ (also) \[JJ 59\] | JJ 59 | gloss withheld |
+| Jibbali | fɛ́nɛ \[JJ 59\] | JJ 59 | gloss withheld |
 | Hebrew | pānīm (pl.tant.) (HALOT 938). | HALOT 938 |  |
 | Aramaic | OFF pnh, l-pnmh \[HJ 918\] | HJ 918 |  |
+| Punic | pnm 'face' | Anderson–Moser 2024 root pnʾ |  |
 | Arabic | fināʾ (HALOT 938) | HALOT 938 | gloss withheld |
 | Mehri | fenē (LGz. 163) | LGz. 163 | gloss withheld |
-| Epigraphic South Arabian | Sab fnw (Kogan 2011, 220; Sabaweb lemma 4108) | Kogan 2011, 220; Sabaweb lemma 4108 | gloss withheld |
+| Epigraphic South Arabian | Sab fnw (Kogan 2011, 220; Sabaweb lemma 4108) | Kogan 2011 220; Sabaweb lemma 4108 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

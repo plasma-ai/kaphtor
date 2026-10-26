@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | mt |  | gloss withheld |
 | Geez | mǝt LGz 371 | LGz 371 | gloss withheld |
 | Hebrew | pl. mǝtīm |  | gloss withheld |
-| Amorite | mut- (George and Krebernik 2022, 155) | Krebernik 2022 | gloss withheld |
+| Amorite | mut- (George and Krebernik 2022, 155) | George and Krebernik 2022 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

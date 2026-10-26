@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ŝōm 2, ŝḗtǝm 1 |  |  |
-| Soqotri | sʔm 2; ŝóˀom (SLOnline 7487) |  | gloss withheld |
-| Akkadian | šâmu 1 |  |  |
+| Soqotri | sʔm 2; ŝóˀom (SLOnline 7487) | SLOnline 7487 | gloss withheld |
+| Akkadian | šâmu 1 (CAD Š/1 350) | CAD Š/1 350 | gloss withheld |
 | Jibbali | ŝɛm 2 |  |  |
 | Epigraphic South Arabian | s2ʔm 1 (Sabaweb lemma 5055) | Sabaweb lemma 5055 | gloss withheld |
 | Harari | asēma (EDH 140 apud SEDonline 1946) | EDH 140; SEDonline 1946 | gloss withheld |

@@ -60,4 +60,5 @@ markers = [
     "unit: inline inputs only; runs on a fresh clone",
     "data: reads the shipped datasets under data/",
     "maintainer: needs data that is not shipped, and skips without it",
+    "live_contexts: a Shoresh engine keeps its default contexts (tests/linear_a/conftest.py stubs them otherwise)",
 ]

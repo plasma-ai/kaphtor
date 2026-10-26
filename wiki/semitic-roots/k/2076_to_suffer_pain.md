@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | kǝʔēb 'to be heavy, to feel pain' \[Ja 606\] | Ja 606 |  |
 | Syrian Aramaic | ke(ʔ)b 'he/she afflicted with pain' \[Brock 314\] | Brock 314 |  |
 | Modern Aramaic | MLH kyv (SED I 296) | SED I 296 |  |
-| Aramaic | KʾB (Aramaic Root Atlas; CAL s.v. kʾb) | Aramaic Root Atlas; CAL s.v. kʾb | gloss withheld |
+| Aramaic | KʾB (Aramaic Root Atlas; CAL s.v. kʾb) | Aramaic Root Atlas; CAL s.v. kʾb; Anderson–Moser 2024 root kʾb | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

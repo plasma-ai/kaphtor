@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ṯ̣arb- |
 | Meaning | 'piece of wood' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1551 |
 
 ## Reflexes
 

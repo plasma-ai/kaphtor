@@ -30,9 +30,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | swy a,2 \| swy \[-a-\] (Kogan 2015, ch. 3 §5.2 no. 55) | Kogan 2015, ch. 3 §5.2 no. 55 |  |
-| Hebrew | šwy (Kogan 2015, ch. 3 §5.2 no. 55) | Kogan 2015, ch. 3 §5.2 no. 55 |  |
-| Syrian Aramaic | šwy (Kogan 2015, ch. 3 §5.2 no. 55) | Kogan 2015, ch. 3 §5.2 no. 55 |  |
+| Arabic | swy a,2 (Kogan 2015, ch. 3 §5.2 no. 55) | Kogan 2015 ch. 3 §5.2 no. 55 |  |
+| Hebrew | šwy (Kogan 2015, ch. 3 §5.2 no. 55) | Kogan 2015 ch. 3 §5.2 no. 55 |  |
+| Syrian Aramaic | šwy (Kogan 2015, ch. 3 §5.2 no. 55) | Kogan 2015 ch. 3 §5.2 no. 55 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

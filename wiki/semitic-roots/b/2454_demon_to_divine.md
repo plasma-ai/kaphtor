@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | barīrī-tu (a female demon) \[CAD b 111\], bārī-tu ibid. 112, baru-tu ibid. 131 | CAD b 111 | gloss withheld |
+| Akkadian | barīrī-tu \[CAD b 111\], bārī-tu ibid. 112, baru-tu ibid. 131 | CAD b 111 | gloss withheld |
 | Punic | brʾ (T 55) | T 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

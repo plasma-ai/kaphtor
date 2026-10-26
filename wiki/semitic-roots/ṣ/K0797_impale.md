@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṣalaba 'crucified' | Anderson–Moser 2024 root ṣlb |  |
-| Aramaic | ṢLB (Aramaic Root Atlas; CAL s.v. ṣlb) | Aramaic Root Atlas; CAL s.v. ṣlb | gloss withheld |
-| Geez | ṣalaba 'crucify' (Dillmann 09150) | Dillmann 09150 |  |
+| Aramaic | ṢLB (Aramaic Root Atlas; CAL s.v. ṣlb) | Aramaic Root Atlas; CAL s.v. ṣlb; Anderson–Moser 2024 root ṣlb | gloss withheld |
+| Geez | ṣalaba 'crucify' (Dillmann 09150) | Dillmann 09150; Anderson–Moser 2024 root ṣlb |  |
 | Syrian Aramaic | ṣəlaḇ (LGz. 555; Payne Smith 478) | LGz. 555; Payne Smith 478 |  |
 | Pre-Islamic North Arabian | Safaitic ṣlb (Al-Jallad–Jaworska 129) | Al-Jallad–Jaworska 129 | gloss withheld |
 

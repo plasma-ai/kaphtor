@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | baṭn- 'belly' \[BK 1 138\]; cf. bṭn 'to have a wide, slack belly' \[ibid.\] | BK 1 138; ibid. |  |
+| Arabic | baṭn- 'belly' \[BK 1 138\]; cf. bṭn 'to have a wide, slack belly' \[ibid.\] | BK 1 138 |  |
 | Canaanite | AMARNA ba-aṭ-nu-ma \[HJ 151\] | HJ 151 | gloss withheld |
 | Mandaic Aramaic | baṭna \[DM 47\] | DM 47 | gloss withheld |
-| Modern Aramaic | MAL bṭn \[Berg 16\]; beṭna (f.) \[ibid.\] NASS bɔ̄ṭịn \[Tser 026\]; pṭịntɔ, p̣ṭɔ̄nɔ \[ibid. 027\] MMND baṭantā \[M MND 515\] AZR batnanta (lit.); bitna (arch.); btinta \[Garb 301\] IRAN \*bâṭin (pf. pᵉṭĕnteḇán) \[Pen 68\] | Berg 16; ibid.; Tser 026; ibid. 027; Garb 301; Pen 68 | gloss withheld |
+| Modern Aramaic | MAL bṭn \[Berg 16\]; beṭna (f.) \[ibid.\] NASS bɔ̄ṭịn \[Tser 026\]; pṭịntɔ, p̣ṭɔ̄nɔ \[ibid. 027\] MMND baṭantā \[M MND 515\] AZR batnanta; bitna (arch.); btinta \[Garb 301\] IRAN \*bâṭin (pf. pᵉṭĕnteḇán) \[Pen 68\] | Berg 16; Tser 026; Tser 027; M MND 515; Garb 301; Pen 68 | gloss withheld |
 | Hebrew | bäṭän (with suff. biṭn-) (HALOT 121) | HALOT 121 | gloss withheld |
 | Judaic Aramaic | biṭnā \[Ja 158\]; bṭn \[DJPA 91b apud CAL\] | Ja 158; DJPA 91b; CAL | gloss withheld |
-| Syrian Aramaic | bǝṭēn 'conceived (in the womb)' \[Brock 67\], baṭnā 'conception, fetus' \[ibid.\] | Brock 67; ibid. |  |
+| Syrian Aramaic | bǝṭēn 'conceived (in the womb)' \[Brock 67\], baṭnā 'conception, fetus' \[ibid.\] | Brock 67 |  |
 | Aramaic | OFF bṭn \[HJ 151\] | HJ 151 | gloss withheld |
 | Modern Arabic | Iraqi boṭn (HALOT 121) | HALOT 121 |  |
 | Punic | bʾṭnʾ (Neo-Punic; Krahmalkov 100; T 45) | Krahmalkov 100; T 45 | gloss withheld |

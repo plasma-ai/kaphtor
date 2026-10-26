@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | dafīn (Lane 894); dafana (LGz. 124) | Lane 894; LGz. 124 | gloss withheld |
-| Epigraphic South Arabian | Sab dfn (Biella 85); (SD 35) | Biella 85; SD 35 | gloss withheld |
+| Epigraphic South Arabian | Sab dfn (Biella 85) (SD 35) | Biella 85; SD 35 | gloss withheld |
 | Geez | dafana (LGz. 124) | LGz. 124 | gloss withheld |
 | Soqotri | defon (LGz. 124) | LGz. 124 |  |
 | Tigre | däfna (LGz. 124) | LGz. 124 |  |

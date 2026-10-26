@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2966_fate_destiny_the_goddess_Manat_pre_Islamic_deity
 title: "*manāt-: 'fate, destiny; the goddess Manāt (pre-Islamic deity of fate)'"
-desc: "Proto-Semitic *manāt-, 'fate, destiny; the goddess Manāt (pre-Islamic deity of fate)': reflexes in 4 language(s)."
+desc: "Proto-Semitic *manāt-, 'fate, destiny; the goddess Manāt (pre-Islamic deity of fate)': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2966"
@@ -32,7 +32,6 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | Manāt (Q 53:20; HALOT 602); maniyya (Lane 3025) | Q 53:20; HALOT 602; Lane 3025 | gloss withheld |
 | Hebrew | Mǝnî (Isa 65:11; HALOT 602); mǝnāt (HALOT 603) | HALOT 602; HALOT 603 | gloss withheld |
 | Aramaic | Palmyrene Manāwāt (plural theonym); Nabataean mn(w)tw (HALOT 602) | HALOT 602 | gloss withheld |
-| Ugaritic | mnt;; (HALOT 603; DULAT 558) | HALOT 603; DULAT 558 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -46,6 +46,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾaddar(t) | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE\|A-DI-KI-TE]] | Dikte | PROBABLE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqite de | PROBABLE |
@@ -58,6 +59,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_JE\|A-JE]] | ʾaye | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KA_NU\|A-KA-NU]] | ʾagānu | CONFIRMED |
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | PROBABLE |
+| [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhēn | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]] | ʾakmina | SPECULATIVE |
@@ -73,7 +76,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | CANDIDATE |
 | [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿabadī | PROBABLE |
 | [[wiki/linear-a/words/A/A_PI\|A-PI]] | ʾāpi | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | PROBABLE |
+| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]] | ʾarṣ̂atu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU_ME\|A-RA-TU-ME]] | ʾarṣ̂atum | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
@@ -86,14 +89,19 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI_PA\|A-RI-PA]] | ʾaripāʾ / ʿarpa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI_SU\|A-RI-SU]] | ḥārišu | CANDIDATE |
+| [[wiki/linear-a/words/A/A_RO_TE\|A-RO-TE]] | Ḫaluti | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ṣadaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
 | [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasīr- | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | CONFIRMED |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | ʾaššē-ya | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
+| [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SU_PU_WA\|A-SU-PU-WA]] | ʾasuppūa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |

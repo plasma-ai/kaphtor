@@ -29,8 +29,12 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sirr- 'secret, mystery, arcanum; inmost thought' (BK 1 1074), sarīrat- 'secret, mystery' (BK 1 1076); srr III 'to say something in someone's ear; to confide a secret to s.o.', IV 'to keep (a secret) hidden', also 'to divulge (a secret)' (BK 1 1074) | BK 1 1074; BK 1 1076; BK 1 1074 |  |
+| Arabic | sirr- 'secret, mystery, arcanum; inmost thought' (BK 1 1074), sarīrat- 'secret, mystery' (BK 1 1076); srr III 'to say something in someone's ear; to confide a secret to s.o.', IV 'to keep (a secret) hidden', also 'to divulge (a secret)' (BK 1 1074) | BK 1 1074; BK 1 1076 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Gz. sǝwwǝrāt 'mysteries', pl. of sǝwwǝr 'hidden, concealed, secret', from sawwara 'to hide, conceal' (LGz. 520-1): Dillmann compares Arb. srr 'to confide a secret'; Leslau sets it beside Aram. swyr 'hide', and Rundgren derives it from ʕwr 'be blind' with a causative s- (ibid.). BK files under the same root sarar-, sirar- 'line, crease on the forehead or on the palm of the hand' and surr-, sarar- 'umbilical cord' (cf. 2387 \*šurr- 'navel') (BK 1 1074-5).
 
 <!-- END kaphtor:record -->

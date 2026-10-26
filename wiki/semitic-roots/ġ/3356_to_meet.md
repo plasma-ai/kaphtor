@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ɣbr |
 | Meaning | 'to meet' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 457 |
 
 ## Reflexes
 

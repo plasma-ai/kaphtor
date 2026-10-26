@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ḤQQ (Aramaic Root Atlas; CAL s.v. ḥqq) | Aramaic Root Atlas; CAL s.v. ḥqq | gloss withheld |
+| Aramaic | ḤQQ (Aramaic Root Atlas; CAL s.v. ḥqq) | Aramaic Root Atlas; CAL s.v. ḥqq; Anderson–Moser 2024 root ḥqq | gloss withheld |
 | Geez | ḥaqaqa 'fasten' | Anderson–Moser 2024 root ḥqq |  |
-| Hebrew | ḥaqaq (BDB 349); ḥōq (HALOT 346) | BDB 349; HALOT 346 | gloss withheld |
+| Hebrew | ḥaqaq (BDB 349); ḥōq (HALOT 346) | BDB 349; HALOT 346; Anderson–Moser 2024 root ḥqq | gloss withheld |
 | Judaic Aramaic | ḥqq (HALOT 347; DJPA 213b apud CAL) | HALOT 347; DJPA 213b; CAL |  |
 | Phoenician | ḥqq (HALOT 347) | HALOT 347 |  |
 | Arabic | ḥaqqa, ḥaqq (HALOT 347) | HALOT 347 |  |

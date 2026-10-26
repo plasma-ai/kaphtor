@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | PḤḤ (CAL s.v. pḥḥ#2) | CAL s.v. pḥḥ#2 | gloss withheld |
-| Hebrew | paḥaḥ 'ensnare' (BDB 809) | BDB 809 |  |
+| Aramaic | PḤḤ (CAL s.v. pḥḥ#2) | CAL s.v. pḥḥ#2; Anderson–Moser 2024 root pḥḥ | gloss withheld |
+| Hebrew | paḥaḥ 'ensnare' (BDB 809) | BDB 809; Anderson–Moser 2024 root pḥḥ |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | faḳrat-, fiḳrat- 'vertebra' \[BK 2 619-20\]; faḳār- (coll.) 'vertebrae of the back' \[ibid.\] | BK 2 619-20; ibid. |  |
-| Soqotri | fiḳeríroh \[LS 340\], also \[SSL LS 1455; SSL 4 94\] | LS 340; SSL LS 1455; SSL 4 94 | gloss withheld |
+| Arabic | faḳrat-, fiḳrat- 'vertebra' \[BK 2 619-20\]; faḳār- (coll.) 'vertebrae of the back' \[ibid.\] | BK 2 619-20 |  |
+| Soqotri | fiḳeríroh \[LS 340\] \[SSL LS 1455; SSL 4 94\] | LS 340; SSL LS 1455; SSL 4 94 | gloss withheld |
 | Modern Aramaic | AZR bḳarta, pḳarta \[Garb 300, 324\] | Garb 300, 324 | gloss withheld |
 | Hebrew | mapräḳät (HALOT 618). | HALOT 618 | gloss withheld |
-| Judaic Aramaic | pirḳā \[Ja 1240\]; pirḳǝtā (purḳǝtā), pirḳat ṣawrā \[ibid. 1172\]; pwrḳh \[DJPA 427a apud CAL\] | Ja 1240; ibid. 1172; DJPA 427a; CAL | gloss withheld |
+| Judaic Aramaic | pirḳā \[Ja 1240\]; pirḳǝtā (purḳǝtā), pirḳat ṣawrā \[ibid. 1172\]; pwrḳh \[DJPA 427a apud CAL\] | Ja 1240; Ja 1172; DJPA 427a; CAL | gloss withheld |
 | Syrian Aramaic | pāraḳtā 'necks' \[Brock 606\] | Brock 606 |  |
-| Jibbali | məfrɔ́ḳ \[JJ 61\] | JJ 61 | gloss withheld |
+| Jibbali | Cf. məfrɔ́ḳ \[JJ 61\] | JJ 61 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

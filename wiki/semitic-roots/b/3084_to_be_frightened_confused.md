@@ -23,14 +23,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*bhl |
 | Meaning | 'to be frightened, confused' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1313 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | bhl (HALOT 111 apud SEDonline 1313) | HALOT 111; SEDonline 1313 | gloss withheld |
-| Judaic Aramaic | JPA bhl (DJPA 86 apud SEDonline 1313); JBA bhl (DJBA 189 apud SEDonline 1313) | DJPA 86; SEDonline 1313; DJBA 189; SEDonline 1313 | gloss withheld |
+| Judaic Aramaic | JPA bhl (DJPA 86 apud SEDonline 1313); JBA bhl (DJBA 189 apud SEDonline 1313) | DJPA 86; SEDonline 1313; DJBA 189 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

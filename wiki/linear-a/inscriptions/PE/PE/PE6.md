@@ -9,7 +9,7 @@ site: "Petras"
 support: "Tablet"
 period: ""
 translation: "complete"
-words: []
+words: ["TA-NA-MA-JE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,13 +46,13 @@ Transliteration, line by line:
 
 **CANDIDATE**, complete.
 
-> Behold, the offering—Tanamaye.
+> Behold, the offering—Tanʿamay ('She is gracious').
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/I/I_NA\|I-NA]] | hinna | behold! (presentative particle) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | contribution, sacred offering (logographic abbreviation) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | personal name (dedicant) — 'the Gracious One' (√n-ʿ-m + ta- prefix + -ay hypocoristic) | CANDIDATE |  |
+| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | personal name (dedicant), 'She is gracious' | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 
@@ -61,5 +61,9 @@ Context: MM III clay tablet. Simplest complete votive formula in the corpus: pre
 ### Source
 
 - di Mino: TA-NA-MA-JE
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/T/TA_NA_MA_JE|TA-NA-MA-JE]].
 
 <!-- END kaphtor:record -->

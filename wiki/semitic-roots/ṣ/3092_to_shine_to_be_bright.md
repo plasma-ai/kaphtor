@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3092_to_shine_to_be_bright
 title: "*ṣlp: 'to shine, to be bright'"
-desc: "Proto-Semitic *ṣlp, 'to shine, to be bright': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṣlp, 'to shine, to be bright': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3092"
@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ṣlp |
 | Meaning | 'to shine, to be bright' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1519 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | ṣəlūf (ML 362 apud SEDonline 1519) | ML 362; SEDonline 1519 | gloss withheld |
 | Jibbali | ṣɔ́lɔ́f (JL 239 apud SEDonline 1519) | JL 239; SEDonline 1519 | gloss withheld |
+| Soqotri | ṣéḷɛf (Kogan 2015, ch. 8 §3.4.1 no. 100) | Kogan 2015 ch. 8 §3.4.1 no. 100 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

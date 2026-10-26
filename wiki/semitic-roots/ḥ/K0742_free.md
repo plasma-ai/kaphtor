@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | ḥarā (LGz. 240) | LGz. 240 | gloss withheld |
+| Geez | ḥarāwi; ḥarannat (LGz. 240) | LGz. 240 | gloss withheld |
 | Arabic | ḥurr (HALOT 348) | HALOT 348 |  |
 | Syrian Aramaic | ḥērā (HALOT 348; Payne Smith 122) | HALOT 348; Payne Smith 122 |  |
 | Tigre | ḥarā (HALOT 348) | HALOT 348 |  |
@@ -39,5 +39,9 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ḥr (HALOT 348; Sabaweb lemma 1613) | HALOT 348; Sabaweb lemma 1613 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Geez ḥarā 'army, troops' heads the same entry; Leslau doubts that it belongs with 'free' (LGz. 240–241).
 
 <!-- END kaphtor:record -->

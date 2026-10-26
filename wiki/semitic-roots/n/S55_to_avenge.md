@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | nqm (Lane 3037 apud SEDonline 1195) | Lane 3037; SEDonline 1195 | gloss withheld |
 | Hebrew | nḳm (HALOT 721 apud SEDonline 1195) | HALOT 721; SEDonline 1195 | gloss withheld |
 | Judaic Aramaic | niqmᵉtā (HALOT 721) | HALOT 721 | gloss withheld |
-| Aramaic | OArm. nqm (Kogan 2015, ch. 3 §5.3 no. 24) | Kogan 2015, ch. 3 §5.3 no. 24 | gloss withheld |
+| Aramaic | OArm. nqm (Kogan 2015, ch. 3 §5.3 no. 24) | Kogan 2015 ch. 3 §5.3 no. 24 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥara/iṣa (Biella 190) | Biella 190 |  |
-| Epigraphic South Arabian | Sab ḥrṣ (Biella 190); (SD 71; Sabaweb lemma 4378) | Biella 190; SD 71; Sabaweb lemma 4378 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥrṣ (Biella 190) (SD 71; Sabaweb lemma 4378) | Biella 190; SD 71; Sabaweb lemma 4378 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

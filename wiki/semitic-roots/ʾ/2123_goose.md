@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2123_goose
 title: "*ʾaw(a)z- ~ *waz(z)-: 'goose'"
-desc: "Proto-Semitic *ʾaw(a)z- ~ *waz(z)-, 'goose': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʾaw(a)z- ~ *waz(z)-, 'goose': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2123"
@@ -34,9 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | auaza \[DM 9\]. | DM 9 | gloss withheld |
 | Ugaritic | ʔuz \[DULAT 132\] | DULAT 132 | gloss withheld |
 | Hebrew | PB ʔāwāz 'goose' \[Ja. 23\]. | Ja. 23 |  |
-| Judaic Aramaic | ʔawzā, ʔăwāzā 'goose' \[Ja. 23\], \[Levy WTM I 38\]; ʔăwazzā \[Ja. 23\]. | Ja. 23; Levy WTM I 38; Ja. 23 |  |
+| Judaic Aramaic | ʔawzā, ʔăwāzā 'goose' \[Ja. 23\], \[Levy WTM I 38\]; ʔăwazzā \[Ja. 23\]. | Ja. 23; Levy WTM I 38 |  |
 | Syrian Aramaic | wazzā 'goose' \[Brock. 184\], \[PS 1060\] (also wāzā). | Brock. 184; PS 1060 |  |
-| Amharic | zəyy (zəyyi, zəyye) (SED II 32) | SED II 32 |  |
 | Modern Aramaic | Maʕl. wazzṯo, Tur. wāzo (SED II 32) | SED II 32 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

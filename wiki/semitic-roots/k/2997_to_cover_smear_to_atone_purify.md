@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | kipper (HALOT 493); kappōret (HALOT 495); kōper (HALOT 495) | HALOT 493; HALOT 495; HALOT 495 | gloss withheld |
+| Hebrew | kipper (HALOT 493); kappōret (HALOT 495); kōper (HALOT 495) | HALOT 493; HALOT 495 | gloss withheld |
 | Arabic | kafara (HALOT 493); kaffārat (HALOT 495) | HALOT 493; HALOT 495 |  |
 | Akkadian | kapāru (HALOT 493) | HALOT 493 |  |
-| Epigraphic South Arabian | Sab kfr (Biella 250); (Sabaweb lemma 4454) | Biella 250; Sabaweb lemma 4454 | gloss withheld |
+| Epigraphic South Arabian | Sab kfr (Biella 250) (Sabaweb lemma 4454) | Biella 250; Sabaweb lemma 4454 | gloss withheld |
 | Aramaic | KPR (Aramaic Root Atlas; DNWSI 531 apud CAL) | Aramaic Root Atlas; DNWSI 531; CAL | gloss withheld |
 | Punic | kpr 'wipe' | Anderson–Moser 2024 root kpr |  |
 | Syrian Aramaic | kpar 'wipe; deny, renounce' (Payne Smith 223) | Payne Smith 223 |  |

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫrm (i) 'to pierce s.o.'s nasal septum', (a) 'to have one's ear pierced, or to have the nose pierced at the septum so as to be able to pass a ring through it' \[BK 1 565\], ḫarmāʔ- 'pierced ear', ʔaḫram- 'that has pierced nostrils; that has a split nasal septum', ḫarmat- 'place where the nose is pierced to pass a ring through it' \[ibid.\] | BK 1 565; ibid. |  |
+| Arabic | ḫrm (i) 'to pierce s.o.'s nasal septum', (a) 'to have one's ear pierced, or to have the nose pierced at the septum so as to be able to pass a ring through it' \[BK 1 565\], ḫarmāʔ- 'pierced ear', ʔaḫram- 'that has pierced nostrils; that has a split nasal septum', ḫarmat- 'place where the nose is pierced to pass a ring through it' \[ibid.\] | BK 1 565 |  |
 | Mehri | ḫǝrmīt \[JM 447\] | JM 447 | gloss withheld |
 | Jibbali | ḫarmét \[JJ 305\] | JJ 305 | gloss withheld |
 | Hebrew | ḥārūm (HALOT 354) | HALOT 354 | gloss withheld |

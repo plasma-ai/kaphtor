@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | nʕm (Kogan 2015, ch. 3 §5.2 no. 40) | Kogan 2015, ch. 3 §5.2 no. 40 | gloss withheld |
+| Ugaritic | nʕm (Kogan 2015, ch. 3 §5.2 no. 40) | Kogan 2015 ch. 3 §5.2 no. 40 | gloss withheld |
 | Phoenician | nʕm; nʿm (HALOT 704, 705) | HALOT 704, 705 | gloss withheld |
-| Epigraphic South Arabian | Sab nʿm (Biella 308); Sab nʿm (Biella 308; Sabaweb lemma 1538); Sab nʿm (SD 90; Sabaweb lemma 3090) | Biella 308; Biella 308; Sabaweb lemma 1538; SD 90; Sabaweb lemma 3090 | gloss withheld |
+| Epigraphic South Arabian | Sab nʿm (Biella 308); Sab nʿm (Biella 308; Sabaweb lemma 1538); Sab nʿm (SD 90; Sabaweb lemma 3090) | Biella 308; Sabaweb lemma 1538; SD 90; Sabaweb lemma 3090 | gloss withheld |
 | Hebrew | naʿem 'pleasant' | Anderson–Moser 2024 root nʿm |  |
 | Punic | nʿm 'good' | Anderson–Moser 2024 root nʿm |  |
 | Judaic Aramaic | nᵉʿīmā (HALOT 704) | HALOT 704 |  |

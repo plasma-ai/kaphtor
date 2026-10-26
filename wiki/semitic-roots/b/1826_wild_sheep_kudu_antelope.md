@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | bibbu SB \[CAD b 217\], \[AHw. 124\] | CAD b 217; AHw. 124; Salonen Jagd 191ff; Landsberger Fauna 95 | gloss withheld |
+| Akkadian | bibbu SB \[CAD b 217\], \[AHw. 124\] | CAD b 217; AHw. 124 | gloss withheld |
 | Tigre | buba \[LH 286\]. | LH 286 | gloss withheld |
 | Geez | Cf. bāb \[LGz 85\] | LGz 85 | gloss withheld |
 

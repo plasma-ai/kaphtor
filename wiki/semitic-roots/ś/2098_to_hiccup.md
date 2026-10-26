@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | šhḳ (a, i) 'to rattle (in the throat); to sob (said of a dying person); to have hiccups' \[BK 1 1282\] | BK 1 1282 |  |
 | Mehri | šwēheḳ \[JH 124\], šwēhǝḳ \[JM 540, Engl-Mehri\], šǝwhǝḳáwt (n.). | JH 124; JM 540, Engl-Mehri | gloss withheld |
 | Harsusi | šeháwḳ (yǝšhōḳ) \[JH 124\] | JH 124 |  |
-| Jibbali | s̃éhǝḳ \[JJ 266\]; cf. also ŝhḳ \[JJ 249\]; (EAST) šehǝḳ \[JM 424\] | JJ 266; JJ 249; JM 424 | gloss withheld |
+| Jibbali | s̃éhǝḳ \[JJ 266\]; cf. also ŝhḳ \[JJ 249\] (EAST) šehǝḳ \[JM 424\] | JJ 266; JJ 249; JM 424 | gloss withheld |
 | Hebrew | šhḳ (pi.) \[BY 6926\] (Hapax in Abot de-r. Nathan) | BY 6926 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

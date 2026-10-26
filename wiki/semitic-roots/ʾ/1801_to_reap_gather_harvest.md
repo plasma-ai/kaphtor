@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | arû SB (CAD A/2 317; cf. also arû OAss. ? Ibid. 313, AHw 72) | CAD A/2 317; AHw 72 | gloss withheld |
 | Tigre | ʔära (LGz. 39) | LGz. 39 | gloss withheld |
-| Geez | ʔarara (LGz. 39), ʔaraya (Ibid.40) | LGz. 39; Ibid. 40 | gloss withheld |
+| Geez | ʔarara (LGz. 39), ʔaraya (Ibid.40) | LGz. 39; LGz. 40 | gloss withheld |
 | Phoenician | ʔry (T 30) | T 30 | gloss withheld |
 | Hebrew | ʔry, pB. (HALOT 85) | HALOT 85 | gloss withheld |
 | Amharic | arrärä (LGz. 39) | LGz. 39 | gloss withheld |

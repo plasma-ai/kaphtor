@@ -29,15 +29,15 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | adad, addu (Kogan 2011, 194) | Kogan 2011, 194 | gloss withheld |
-| Eblaitic | dʾà-da (Kogan 2011, 194) | Kogan 2011, 194 | gloss withheld |
-| Ugaritic | hd, hdd (Kogan 2011, 194) | Kogan 2011, 194 | gloss withheld |
-| Tigre | hadud, hədud (Kogan 2011, 194) | Kogan 2011, 194 |  |
-| Mehri | həd (Kogan 2011, 194) | Kogan 2011, 194 |  |
-| Jibbali | hid (Kogan 2011, 194) | Kogan 2011, 194 |  |
-| Soqotri | šed (Kogan 2011, 194) | Kogan 2011, 194 |  |
-| Arabic | hāddat- (Kogan 2011, 194) | Kogan 2011, 194 |  |
-| Tigrinya | hadädä (Kogan 2011, 194) | Kogan 2011, 194 | gloss withheld |
+| Akkadian | adad, addu (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
+| Eblaitic | dʾà-da (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
+| Ugaritic | hd, hdd (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
+| Tigre | hadud, hədud (Kogan 2011, 194) | Kogan 2011 194 |  |
+| Mehri | həd (Kogan 2011, 194) | Kogan 2011 194 |  |
+| Jibbali | hid (Kogan 2011, 194) | Kogan 2011 194 |  |
+| Soqotri | šed (Kogan 2011, 194) | Kogan 2011 194 |  |
+| Arabic | hāddat- (Kogan 2011, 194) | Kogan 2011 194 |  |
+| Tigrinya | hadädä (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

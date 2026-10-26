@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | kǝtkǝttay &lt;\*kVtkVt- &lt;\*kV-t-? |  | gloss withheld |
+| Tigre | kǝtkǝttay |  | gloss withheld |
 | Syrian Aramaic | kākāyǝtā (corr. kokantō) vulg. 'hen' Brock. 326a | Brock. 326a |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/ʾ/K0564_antelope
-title: "*ʾVaVrVnVā-: 'antelope'"
-desc: "Proto-Semitic *ʾVaVrVnVā-, 'antelope': reflexes in 2 language(s)."
+title: "*ʾarn-: 'antelope'"
+desc: "Proto-Semitic *ʾarn-, 'antelope': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0564"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *ʾVaVrVnVā-: 'antelope'
+# *ʾarn-: 'antelope'
 
 [[wiki/semitic-roots/ʾ/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*ʾVaVrVnVā- |
+| Reconstruction | \*ʾarn- |
 | Meaning | 'antelope' |
 | Basis | project |
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǧubbat- 'bone that forms the eye socket' \[BK 1 246\] | BK 1 246 |  |
 | Akkadian | (?) gabbu SB \[AHw 272\], \[CAD g 5\]. | AHw 272; CAD g 5 | gloss withheld |
-| Hebrew | gabbōṯ ʕēnayim (HALOT 170); pl. fem., lit.; PB gab \[Ja 203\] | HALOT 170; Ja 203 | gloss withheld |
+| Hebrew | gabbōṯ ʕēnayim (HALOT 170); pl. fem.; PB gab \[Ja 203\] | HALOT 170; Ja 203 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

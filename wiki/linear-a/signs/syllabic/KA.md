@@ -59,6 +59,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KA_NU\|A-KA-NU]] | ʾagānu | CONFIRMED |
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | PROBABLE |
+| [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ṣadaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | Atika | SPECULATIVE |

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | BṬḤ (CAL s.v. bṭḥ) | CAL s.v. bṭḥ | gloss withheld |
-| Hebrew | baṭaḥ 'trust' (BDB 105) | BDB 105 |  |
+| Aramaic | BṬḤ (CAL s.v. bṭḥ) | CAL s.v. bṭḥ; Anderson–Moser 2024 root bṭḥ | gloss withheld |
+| Hebrew | baṭaḥ 'trust' (BDB 105) | BDB 105; Anderson–Moser 2024 root bṭḥ |  |
 | Punic | bṭḥ 'trust' | Anderson–Moser 2024 root bṭḥ |  |
 | Phoenician | bṭḥ (Krahmalkov 100) | Krahmalkov 100 | gloss withheld |
 | Eblaitic | ma-ba-da-ʔà, ma-ba-da-a, ma-ba-da-u₉ /mabṭāḥay/, /mabṭāḥū/ (VE 469; Krebernik 1983, 17) | VE 469; Krebernik 1983, 17 |  |

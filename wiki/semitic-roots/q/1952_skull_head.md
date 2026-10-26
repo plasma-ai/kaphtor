@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | gag-gú-tum /ḳaḳḳudum/ \[Kr 12-13; Bl E 59\] | Kr 12-13 |  |
 | Ugaritic | ḳdḳd \[Aist 247\] | Aist 247 | gloss withheld |
 | Modern Aramaic | (?) MLH kotke \[J Mlah 180\]. | J Mlah 180 | gloss withheld |
-| Hebrew | ḳodḳōd (HALOT 1071) (&lt;\*ḳudḳud-) | HALOT 1071 | gloss withheld |
+| Hebrew | ḳodḳōd (HALOT 1071) | HALOT 1071 | gloss withheld |
 | Judaic Aramaic | ḳodḳǝdā, ḳodḳōdā \[Ja 1317\]; ḳwdḳd \[DJPA 478a apud CAL\] | Ja 1317; DJPA 478a; CAL | gloss withheld |
 | Harari | ēḳäd \[LHar 30\] | LHar 30 | gloss withheld |
 | Mehri | ḳədēd (SED I 145) | SED I 145 |  |

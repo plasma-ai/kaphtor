@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǯarād- 'locust' \[BK 1 276\], \[Fr. I 264\], \[Lane 406\], \[LA III 117\]. // Cf. also ǯardam- 'a kind of black grasshopper with a green head' \[BK I 278\], \[Fr. I 265\], \[Lane 408\], \[Q II 89\]. | BK 1 276; Fr. I 264; Lane 406; LA III 117; BK I 278; Fr. I 265; Lane 408; Q II 89 |  |
+| Arabic | ǯarād- 'locust' \[BK 1 276\], \[Fr. I 264\], \[Lane 406\], \[LA III 117\] | BK 1 276; Fr. I 264; Lane 406; LA III 117 |  |
 | Jibbali | gérɔ́d \[JJ 78\]. | JJ 78 | gloss withheld |
 | Tigrinya | gärädo 'spider of a very dark color, whose bite they say is deadly' \[Bass. 820\]. | Bass. 820 |  |
 

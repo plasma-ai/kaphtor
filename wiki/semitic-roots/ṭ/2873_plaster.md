@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṭyḫ (HALOT 373) | HALOT 373 | gloss withheld |
 | Ugaritic | ṭ-ḫ (CUC; DULAT 875; HALOT 372) | CUC; DULAT 875; HALOT 372 | gloss withheld |
 | Hebrew | ṭāḥ (ṭwḥ), ṭaḥ (ṭḥḥ) (LGz. 600) | LGz. 600 | gloss withheld |
-| Punic | mṭḥ (Neo-Punic; Krahmalkov 278; T 173); mṭḥ (Krahmalkov 279; T 173); mṭḥt (T 120) | Krahmalkov 278; T 173; Krahmalkov 279; T 173; T 120 | gloss withheld |
+| Punic | mṭḥ (Neo-Punic; Krahmalkov 278; T 173); mṭḥ (Krahmalkov 279; T 173); mṭḥt (T 120) | Krahmalkov 278; T 173; Krahmalkov 279; T 120 | gloss withheld |
 | Aramaic | ṬWḤ 'smear' | Anderson–Moser 2024 root twḫ |  |
 | Judaic Aramaic | ṭaḥ (T 173) | T 173 |  |
 

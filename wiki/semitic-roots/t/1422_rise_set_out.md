@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*tbˁ 'to set out, to depart' (Kogan 2015:342 apud SEDonline 2077). Akk.-Ugr. \*tbˁ is probably related to Arb. tbʕ 'to follow' (1412 \*tVbaʕ-), though the semantic gap contrasts with the near identity of the Akkadian and Ugaritic senses (SEDonline 2077).
+PS \*tbˁ 'to set out, to depart' (Kogan 2015, 342 apud SEDonline 2077). Cf. 1412 \*tVbaʕ- 'follow'.
 
 <!-- END kaphtor:record -->

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔināʔ- 'vessel' (BK 1, 64) | BK 1, 64 |  |
 | Akkadian | elippu (CAD E 90) | CAD E 90 | gloss withheld |
 | Ugaritic | any (DULAT 82); anyt (HALOT 71) | DULAT 82; HALOT 71 | gloss withheld |
-| Phoenician | (Punic) ʔn\[y\], reading uncertain (Tomback 1978, 25) | Tomback 1978, 25 | gloss withheld |
+| Punic | ʔn\[y\] (T 25) | T 25 | gloss withheld |
 | Hebrew | ʔŏniyyā (HALOT 71) | HALOT 71 | gloss withheld |
 | Canaanite | anayi (gloss to elippi, EA 245:8; HALOT 71) | HALOT 71 |  |
 

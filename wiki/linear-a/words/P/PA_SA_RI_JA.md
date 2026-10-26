@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_SA_RI_JA
 title: "PA-SA-RI-JA"
-desc: "Unread (edge overlap): gentilic; 1 occurrence(s)."
+desc: "Unread (role only): gentilic; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "PA-SA-RI-JA"
@@ -55,7 +55,7 @@ Readings from the lexicon as it stands: KI-MA-RU.
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role gentilic.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role gentilic.
 
 HT24a .4 PA-SA-RI-JA ·, all four signs whole and undotted at the head of the line, before the wool ligature MA+RU-MẸ\[ (GORILA I 43). It heads the second section as KU-PA₃-RI-JA Gubliya heads the first on .1: a gentilic heading in -iya, RI the stem's last consonant. The stem Pasar- has no Linear A parallel; KH 10 I-PA-SA-JA is another word. Rival: Ugaritic bṣr, Baṣiru, a town of the kingdom, ethnic bṣry (DULAT 240), with PA for b. Sole attestation. No reading.
 

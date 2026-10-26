@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*kVm(V)d- |
 | Meaning | 'forearm, cubit' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I No. 144 |
 
 ## Reflexes
 
@@ -40,9 +41,5 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | mišəndɔ́t (SED I 129) | SED I 129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-SED I No. 144. Arm. -r- probably by contamination; \*-m- &gt; -n- before d in Ethiopic and MSA. Cf. Akk. gamatu 'a measure'; Jud. kurmēdā 'fist'; Mnd. gurmaiza 'fist' (an Iranian loan per DM). Leslau alternatively ties Amh. kənd to kərn, Tna. kʷərnaʕ 'elbow' (SED No. 157) (SED I 129–130).
 
 <!-- END kaphtor:record -->

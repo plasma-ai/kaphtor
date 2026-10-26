@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:50:31Z
+updated: 2026-10-26T16:58:39Z
 ---
 
 # wiki/linear-a/words/A
@@ -25,7 +25,7 @@ updated: 2026-10-25T05:50:31Z
 
 [[wiki/linear-a/words/A/A_DA_star21F_RI|A_DA_star21F_RI]]: dahiru: The Hunter (PN from PS *dVhVr- "hunt"; *21F = ha speculative). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_DE|A_DE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_DE|A_DE]]: ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_DI|A_DI]]: ʿadi: until, as far as (preposition). Lexicon, SPECULATIVE (tier 1).
 
@@ -67,9 +67,9 @@ updated: 2026-10-25T05:50:31Z
 
 [[wiki/linear-a/words/A/A_KA_RU|A_KA_RU]]: Agaru: field or estate heading; possible Ugaritic Ugaru theonym. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/A/A_KA_TA|A_KA_TA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_KA_TA|A_KA_TA]]: ʾAkkata: personal name; compare Amorite ʾAkkatum. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_KI_PI_E_TE|A_KI_PI_E_TE]]: Unread (role only): toponym; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_KI_PI_E_TE|A_KI_PI_E_TE]]: Akipe-te: Akipe-te, '(Teššup) brought' (Hurrian personal name, hypocoristic). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_KI_RO|A_KI_RO]]: ʾAkiru: ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman'). Lexicon, SPECULATIVE (tier 1).
 
@@ -127,13 +127,13 @@ updated: 2026-10-25T05:50:31Z
 
 [[wiki/linear-a/words/A/A_PU2_NA_DU|A_PU2_NA_DU]]: Unread (role only): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_RA_JU|A_RA_JU]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RA_JU|A_RA_JU]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_RA_JU_U_DE_ZA|A_RA_JU_U_DE_ZA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RA_JU_U_DE_ZA|A_RA_JU_U_DE_ZA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_RA_KO_KU_QA_WA_SA_TO_MA_RO_AU_TA_DE_PO_NI_ZA|A_RA_KO_KU_QA_WA_SA_TO_MA_RO_AU_TA_DE_PO_NI_ZA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_RA_NA_RE|A_RA_NA_RE]]: Aranare: personal name; compare Linear B a-ra-na-ro. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_RA_NA_RE|A_RA_NA_RE]]: Aranare: personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_RA_TU|A_RA_TU]]: ʾarṣ̂atu: earth (feminine noun—PS *ʾar(V)ṣ̂- "earth"). Lexicon, CANDIDATE (tier 2).
 
@@ -167,9 +167,9 @@ updated: 2026-10-25T05:50:31Z
 
 [[wiki/linear-a/words/A/A_RI_SU|A_RI_SU]]: ḥārišu: the craftsman, artisan (title). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_RO_TE|A_RO_TE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RO_TE|A_RO_TE]]: Ḫaluti: Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RU|A_RU]]: Unread (role only): personal name; 2 occurrence(s).
+[[wiki/linear-a/words/A/A_RU|A_RU]]: Ḫaru: Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_RU_DA_RA|A_RU_DA_RA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -193,7 +193,7 @@ updated: 2026-10-25T05:50:31Z
 
 [[wiki/linear-a/words/A/A_SE_RE_ZA_broken_both|A_SE_RE_ZA_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_SE_TU_star21F|A_SE_TU_star21F]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_SE_TU_star21F|A_SE_TU_star21F]]: Aštuḫḫa: Female (Hurrian personal name); rival the line as a heading, 'female (ones)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_SI|A_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -201,7 +201,7 @@ updated: 2026-10-25T05:50:31Z
 
 [[wiki/linear-a/words/A/A_SI_JA_KA|A_SI_JA_KA]]: šawīqu: fine flour, semolina. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_SI_KI_RA|A_SI_KI_RA]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/A/A_SI_KI_RA|A_SI_KI_RA]]: ha-Śikira: personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_SI_SU_PO_A|A_SI_SU_PO_A]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -211,7 +211,7 @@ updated: 2026-10-25T05:50:31Z
 
 [[wiki/linear-a/words/A/A_SU_MI_star118_broken_both|A_SU_MI_star118_broken_both]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_SU_PU_WA|A_SU_PU_WA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_SU_PU_WA|A_SU_PU_WA]]: ʾasuppūa: store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_TA|A_TA]]: Unread (role only): personal name; 1 occurrence(s).
 

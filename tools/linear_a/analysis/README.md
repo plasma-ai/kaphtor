@@ -15,6 +15,7 @@ The Ventris Engine's phases and the corpus analyses. Each is also a command: run
 | `sign_analysis.py` | Sign patterns across the corpus |
 | `slot_grammar.py` | Positional profile of word sequences |
 | `orthographic_audit.py` | Spellings checked against Linear B conventions |
+| `series_minimal_pairs.py` | Word pairs differing only by consonant series (KU-DA / KU-TA), against a slot-matched null |
 | `fraction_arithmetic.py` | Fraction-sign arithmetic |
 | `morphology_sign_constraints.py` | Sign constraints from morphology and held-out validation |
 | `branch_distribution.py` | Branch distribution of the lexicon and the census of conjugated verbs |

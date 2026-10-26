@@ -3,7 +3,7 @@ test (null_model_audit), the gold guard's spelling and the decoy family B draw (
 consonant permutation (blind_corpus_test), and the stops that may geminate (cognate_search).
 
 Each is copied without change, so Shoresh's nulls stay the ones pre-registered; load_corpus_words alone reads its
-corpus through tools/paths.py. When those scripts are ported they import from here.
+corpus through tools/paths.py. The ported validation scripts keep their own copies of the same functions.
 
 Attribution: di Mino
 """

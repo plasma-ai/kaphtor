@@ -33,7 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Eblaitic | ḫu-lu (Kogan–Krebernik 2021b: 723; Pasquali 1995: 52 apud SEDonline 2095) | SEDonline 2095 | gloss withheld |
 | Canaanite | EA ḫullu (CAD Ḫ 230, EA 257:15, 296:38 apud SEDonline 2095) | CAD Ḫ 230, EA 257:15, 296:38; SEDonline 2095 | gloss withheld |
 | Hebrew | ˁōl (BDB 760; HALOT 827-828 apud SEDonline 2095) | BDB 760; HALOT 827-828; SEDonline 2095 | gloss withheld |
-| Arabic | ɣll (Lane 2277; Dozy 1927 II: 219 apud SEDonline 2095); ɣull- (Lane 2278 apud SEDonline 2095) | Lane 2277; Dozy 1927 II: 219; SEDonline 2095; Lane 2278; SEDonline 2095 | gloss withheld |
+| Arabic | ɣll (Lane 2277; Dozy 1927 II: 219 apud SEDonline 2095); ɣull- (Lane 2278 apud SEDonline 2095) | Lane 2277; Dozy 1927 II: 219; SEDonline 2095; Lane 2278 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

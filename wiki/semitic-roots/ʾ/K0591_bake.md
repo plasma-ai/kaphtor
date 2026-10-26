@@ -30,17 +30,17 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | epû 'bake' | Anderson–Moser 2024 root ʾpy |  |
-| Aramaic | ʾPY (DNWSI 94 apud CAL) | DNWSI 94; CAL | gloss withheld |
+| Aramaic | ʾPY (DNWSI 94 apud CAL) | DNWSI 94; CAL; Anderson–Moser 2024 root ʾpy | gloss withheld |
 | Geez | ʾafaya 'bake' | Anderson–Moser 2024 root ʾpy |  |
 | Hebrew | ʾapah 'bake' | Anderson–Moser 2024 root ʾpy |  |
 | Punic | ʾpy 'bake' | Anderson–Moser 2024 root ʾpy |  |
-| Ugaritic | ʾpy; /ʾāpiyu/? (UVST 108) | UVST 108 | gloss withheld |
+| Ugaritic | ʾpy; /ʾāpiyu/? (UVST 108) | UVST 108; Anderson–Moser 2024 root ʾpy | gloss withheld |
 | Epigraphic South Arabian | ʾpy (HALOT 78) | HALOT 78 |  |
 | Soqotri | mofe (LGz. 10) | LGz. 10 | gloss withheld |
 | Syrian Aramaic | ʾepā (LGz. 10) | LGz. 10 |  |
 | Phoenician | \*ʾpy: ʾpm (T 27) | T 27 | gloss withheld |
-| Eblaitic | a-pá-um (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Arabic | mīfan (Kogan 2011, 242) | Kogan 2011, 242 | gloss withheld |
+| Eblaitic | a-pá-um (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Arabic | mīfan (Kogan 2011, 242) | Kogan 2011 242 | gloss withheld |
 | Judaic Aramaic | ʾape (T 27) | T 27 |  |
 | Mandaic Aramaic | ʾapʾ (T 27) | T 27 |  |
 

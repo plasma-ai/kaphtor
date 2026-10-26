@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ṣäfra (v.) (LGz. 148) | LGz. 148 | gloss withheld |
 | Tigrinya | ṣäfärä, č̣äfärä (LGz. 148) | LGz. 148 |  |
 | Amharic | (tä)ṭaffärä (LGz. 148) | LGz. 148 | gloss withheld |
-| Mehri | ẑəfūr (Kogan 2015, ch. 2 §4.2 no. 58) | Kogan 2015, ch. 2 §4.2 no. 58 | gloss withheld |
+| Mehri | ẑəfūr (Kogan 2015, ch. 2 §4.2 no. 58) | Kogan 2015 ch. 2 §4.2 no. 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

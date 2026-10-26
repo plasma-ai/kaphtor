@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nakata (Leslau CDG 402) | Leslau CDG 402 | gloss withheld |
-| Aramaic | NKT (DNWSI 732 apud CAL) | DNWSI 732; CAL | gloss withheld |
+| Aramaic | NKT (DNWSI 732 apud CAL) | DNWSI 732; CAL; Anderson–Moser 2024 root nkt | gloss withheld |
 | Syrian Aramaic | nkat 'bite, sting' (Payne Smith 340) | Payne Smith 340 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

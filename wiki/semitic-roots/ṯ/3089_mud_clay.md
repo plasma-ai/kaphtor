@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ṯaʔṭ- |
 | Meaning | 'mud, clay' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1433 |
 
 ## Reflexes
 

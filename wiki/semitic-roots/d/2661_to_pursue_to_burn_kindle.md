@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Akk. dalāku is not in CAD D (cf. dalāḫu 'to stir up', D 43); Arb. dalaka 'rub' is a separate root. Amorite PNs Dulaqum (du-la-kum), Duluqum (du-lu-kum), fem. Duluqatum, Duluqtum (Gelb 1980, nos. 1577-1580).
+Akkadian dalāḫu 'to stir up' (CAD D 43) and Arabic dalaka 'rub' belong to other roots. Amorite PNs Dulaqum (du-la-kum), Duluqum (du-lu-kum), fem. Duluqatum, Duluqtum (Gelb 1980, nos. 1577-1580).
 
 <!-- END kaphtor:record -->

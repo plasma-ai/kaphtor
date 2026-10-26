@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*gVy- |
 | Meaning | 'valley, depression' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2057 |
 
 ## Reflexes
 

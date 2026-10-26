@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0378_distant
 title: "*raḥaq-: 'distant'"
-desc: "Proto-Semitic *raḥaq-, 'distant': reflexes in 19 language(s)."
+desc: "Proto-Semitic *raḥaq-, 'distant': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0378"
@@ -29,9 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | rêqu 'withdraw' | Anderson–Moser 2024 root rḥq |  |
-| Aramaic | RḤQ (Aramaic Root Atlas; DNWSI 1072 apud CAL) | Aramaic Root Atlas; DNWSI 1072; CAL | gloss withheld |
-| Hebrew | raḥaq (HALOT 1221; BDB 934) | HALOT 1221; BDB 934 | gloss withheld |
+| Akkadian | rêqu (CAD R 266); rūqiš (CAD R 415) | CAD R 266; CAD R 415; Anderson–Moser 2024 root rḥq | gloss withheld |
+| Aramaic | RḤQ (Aramaic Root Atlas; DNWSI 1072 apud CAL) | Aramaic Root Atlas; DNWSI 1072; CAL; Anderson–Moser 2024 root rḥq | gloss withheld |
+| Geez | rəḥqa 'distant' | Anderson–Moser 2024 root rḥq |  |
+| Hebrew | raḥaq (HALOT 1221; BDB 934) | HALOT 1221; BDB 934; Anderson–Moser 2024 root rḥq | gloss withheld |
 | Punic | rḥq 'far' | Anderson–Moser 2024 root rḥq |  |
 | Ugaritic | rḥq (CUC; DULAT 726) | CUC; DULAT 726 | gloss withheld |
 | Epigraphic South Arabian | Sab rḥq (SD 117; Sabaweb lemma 1717) | SD 117; Sabaweb lemma 1717 | gloss withheld |
@@ -40,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | raḥaqa, rĕḥūq, reḥeq (HALOT 1215, 1221) | HALOT 1215, 1221 |  |
 | Mehri | reḥāq (HALOT 1215) | HALOT 1215 |  |
 | Arabic | raḥīq (HALOT 1215, 1221) | HALOT 1215, 1221 |  |
-| Syrian Aramaic | rəḥaq (LGz. 467; Payne Smith 538) | LGz. 467; Payne Smith 538 |  |
+| Syrian Aramaic | rəḥaq (LGz. 467; Payne Smith 538); rūḥqā (Payne Smith 534) | LGz. 467; Payne Smith 538; Payne Smith 534 | gloss withheld |
 | Tigrinya | räḥaqä (LGz. 467) | LGz. 467 | gloss withheld |
 | Argobba | räḥaqa (LGz. 467) | LGz. 467 |  |
 | Harari | rōḥaqa (LGz. 467) | LGz. 467 |  |

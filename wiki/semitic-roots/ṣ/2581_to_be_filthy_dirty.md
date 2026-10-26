@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṣīʔat- 'washing, an imperfect ablution, such that all the dirt remains on the head' \[BK 1 1388\], ṣayyaʔa 'to wash very imperfectly, only to wet (the head), in such a way that it is not properly cleaned' \[ibid.\], also wṣʔ 'to be soiled with filth' \[ibid. 2 1546\] | BK 1 1388; ibid.; ibid. 2 1546 |  |
+| Arabic | ṣīʔat- 'washing, an imperfect ablution, such that all the dirt remains on the head' \[BK 1 1388\], ṣayyaʔa 'to wash very imperfectly, only to wet (the head), in such a way that it is not properly cleaned' \[ibid.\], also wṣʔ 'to be soiled with filth' \[ibid. 2 1546\] | BK 1 1388; BK 2 1546 |  |
 | Mandaic Aramaic | ṢAA \[DM 385\] | DM 385 | gloss withheld |
 | Epigraphic South Arabian | Sab. ṣyw (in: ys1tṣyn) \[SD 147\] | SD 147 | gloss withheld |
 | Judaic Aramaic | ṣā(ʔ)tā 'filth, turpitude' \[Ja 1257\] | Ja 1257 |  |

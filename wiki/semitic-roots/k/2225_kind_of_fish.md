@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-The Aramaic forms are commonly regarded as borrowed from Akk. kamāru 'a fish' (OAkk., OB; CAD K 112), itself supposed to be from Sum. KA.MAR (Kaufman 1974, 62 apud SED II 171). SED finds the loan problematic: Aramaic kwārā is a generic term for 'fish', and kamāru is not attested later than OB (SED II 171).
+Kaufman 1974, 62 (apud SED II 171) takes the Aramaic forms as loans from Akk. kamāru (OAkk., OB; CAD K 112), itself from Sum. KA.MAR; SED II 171 keeps them here.
 
 <!-- END kaphtor:record -->

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | urudû JB (sum Fw.) AHw 1436, uruttu AHw 1437 (&lt;\*ʔurud-t-u?) | AHw 1436; AHw 1437 | gloss withheld |
+| Akkadian | urudû JB (sum Fw.) AHw 1436, uruttu AHw 1437 | AHw 1436; AHw 1437 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

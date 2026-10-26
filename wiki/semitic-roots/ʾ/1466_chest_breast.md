@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | irtu OAkk on \[CAD i 183\], \[AHw 386\]; in OAkk also ertu and iratu \[AHw 386\]. | CAD i 183; AHw 386; AHw 386 | gloss withheld |
+| Akkadian | irtu OAkk on \[CAD i 183\], \[AHw 386\]; in OAkk also ertu and iratu \[AHw 386\]. | CAD i 183; AHw 386 | gloss withheld |
 | Tigre | cf. ʔarra, pl. ʔarratat (poet. ʔaratat) \[LH 357\]. | LH 357 | gloss withheld |
 | Ugaritic | ʔirt \[DULAT 106\], /ʔiratu/ (UVST 109) | DULAT 106; UVST 109 | gloss withheld |
 

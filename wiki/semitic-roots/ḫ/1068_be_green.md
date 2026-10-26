@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḫḍr \[-a-\] |  |  |
 | Hebrew | \*ḥṣr (HALOT 344) | HALOT 344 |  |
 | Tigre | ḫadra (HALOT 344) | HALOT 344 |  |
-| Punic | mḥṣrt (HALOT 344) | HALOT 344 |  |
+| Punic | Neo-Punic mḥṣrt (T 172); pi. pt. (HALOT 344) | T 172; HALOT 344 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ɣadVw- |
 | Meaning | 'depression between mountains, mountain pass' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 458 |
 
 ## Reflexes
 

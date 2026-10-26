@@ -31,7 +31,7 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | šām-at- 'beauty mark/mole; mark, sign; any black mark seen on the ground' \[BK 1 1300\] | BK 1 1300 |  |
-| Akkadian | (?) šimtu (or). |  | gloss withheld |
+| Akkadian | (?) šimtu. |  | gloss withheld |
 | Hebrew | PB šūmā 'mark, mole, wart' \[Ja 1536\] | Ja 1536 |  |
 | Epigraphic South Arabian | Min. s₁m-t \[LM 105\], Qat. s₁m-t \[Ricks 57; Sabaweb lemma 5441\] | LM 105; Ricks 57; Sabaweb lemma 5441 | gloss withheld |
 | Eblaitic | si-tum /šittum/ \[Fron. Ebl. 181\] (VE 693, 761; Krebernik 1983, 38 n. 136) | Fron. Ebl. 181; VE 693, 761; Krebernik 1983, 38 n. 136 | gloss withheld |

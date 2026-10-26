@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | bukānu (bukannu) SB \[CAD b 308\], \[AHw. 136\] | CAD b 308; AHw. 136; Landsberger Fauna 130; AHw.; CAD; Landsberger Fauna 130 | gloss withheld |
+| Akkadian | bukānu (bukannu) SB \[CAD b 308\], \[AHw. 136\] | CAD b 308; AHw. 136 | gloss withheld |
 | Hebrew | pB. bukyā 'the spider' \[Ja. 145\], \[Levy WTM I 198\], bīkay 'name of a spider' \[Ja. 161\]. | Ja. 145; Levy WTM I 198; Ja. 161 |  |
 | Tigrinya | bəkkʷ (SED II 81) | SED II 81 | gloss withheld |
 

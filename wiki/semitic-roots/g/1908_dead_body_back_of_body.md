@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǧanāzat-, ǧināzat- 'dead man, corpse' \[BK 1 339\] | BK 1 339 |  |
-| Gurage | SOD ginžä, g'ǝnžä, EŽA MUH g'ǝnžä, GOG MSQ gǝñžä do. \[LGur 310\]. | LGur 310 |  |
+| Gurage | SOD ginžä, g'ǝnžä, EŽA MUH g'ǝnžä, GOG MSQ gǝñžä \[LGur 310\]. | LGur 310 |  |
 | Argobba | gunž \[LArg. 202\] | LArg. 202 | gloss withheld |
 | Epigraphic South Arabian | SAB gnz-t-n (pl.) \[Biella 73-4\]. | Biella 73-4 | gloss withheld |
 

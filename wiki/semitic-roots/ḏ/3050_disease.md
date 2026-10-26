@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḏarab 'an incurable disease' (Lane 959) | Lane 959 |  |
-| Epigraphic South Arabian | Sab. ḏrb (SD 40); (Sabaweb lemma 4053) | SD 40; Sabaweb lemma 4053 | gloss withheld |
+| Epigraphic South Arabian | Sab. ḏrb (SD 40) (Sabaweb lemma 4053) | SD 40; Sabaweb lemma 4053 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

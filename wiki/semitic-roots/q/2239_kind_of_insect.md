@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | ḳʷǝṭni \[LGz. 454\]. | LGz. 454 | gloss withheld |
 | Amharic | ḳäṭṭǝnit \[K 839\]. | K 839 | gloss withheld |
-| Syrian Aramaic | ḳeṭṭōnā 'bedbug' \[Brock. 659\] (not in \[PS\]). | Brock. 659 |  |
+| Syrian Aramaic | ḳeṭṭōnā 'bedbug' \[Brock. 659\]. | Brock. 659 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

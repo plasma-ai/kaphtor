@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | entefōṭ \[JH 94\] | JH 94 | gloss withheld |
 | Tigre | näffäṭä \[LH 348\] | LH 348 | gloss withheld |
 | Geez | nafaṭa \[LGz 390\] | LGz 390 | gloss withheld |
-| Gurage | MUH (tä)naffäṭä, GOG täneffäṭä, SOD täniffäṭä, EZ̆A täraffäṭä do. \[LGur 452\] | LGur 452 |  |
+| Gurage | MUH (tä)naffäṭä, GOG täneffäṭä, SOD täniffäṭä, EZ̆A täraffäṭä \[LGur 452\] | LGur 452 |  |
 | Jibbali | ʔenféṭ \[JJ 183\] | JJ 183 | gloss withheld |
 | Amharic | tänaffäṭä \[K 1087\] | K 1087 | gloss withheld |
 | Tigrinya | näffäṭä 'to clean one's nose, to wipe one's nose' \[Bass 472\] | Bass 472 |  |

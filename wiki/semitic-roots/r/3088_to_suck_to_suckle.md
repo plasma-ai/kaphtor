@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*rɣṯ |
 | Meaning | 'to suck, to suckle' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1422 |
 
 ## Reflexes
 

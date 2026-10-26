@@ -29,8 +29,8 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | tǝʕālā; (HALOT 1768) | HALOT 1768 | gloss withheld |
-| Punic | tʿlt, pl. tʿlyt: pʿl htʿlyt, RES 24.1/2 (Krahmalkov 496); (T 343) | Krahmalkov 496; T 343 | gloss withheld |
+| Hebrew | tǝʕālā (HALOT 1768) | HALOT 1768 | gloss withheld |
+| Punic | tʿlt, pl. tʿlyt: pʿl htʿlyt, RES 24.1/2 (Krahmalkov 496) (T 343) | Krahmalkov 496; T 343 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,9 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | nasan (nsy) 'the main tendon that descends from the thigh and runs down the leg to the heel' \[BK 2 1254\]. | BK 2 1254 |  |
 | Ugaritic | ʔanš \[Del Olmo 515\], ʔanš \[Aist 28\]. | Aist 28 | gloss withheld |
 | Hebrew | nāšǟ (in: gīd hannāšǟ) (hapax in \[Gen 32:33\]) (HALOT 729) | HALOT 729 | gloss withheld |
-| Amharic | anisa \[K 1213\], anesa \[ibid.\]. | K 1213; ibid. | gloss withheld |
-| Judaic Aramaic | našyā (in: gīdā dǝ-našyā) \[Ja 939\]; gydh dnšyyh do. \[Sok 361\] | Ja 939; Sok 361 | gloss withheld |
-| Syrian Aramaic | gennešyā (&lt;\*gidnešyā &lt; gǝyād nešyā?) 'sciatic nerve' \[Brock 126\] | Brock 126 |  |
+| Amharic | anisa \[K 1213\], anesa \[ibid.\]. | K 1213 | gloss withheld |
+| Judaic Aramaic | našyā (in: gīdā dǝ-našyā) \[Ja 939\]; gydh dnšyyh \[Sok 361\] | Ja 939; Sok 361 | gloss withheld |
+| Syrian Aramaic | gennešyā 'sciatic nerve' \[Brock 126\] | Brock 126 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

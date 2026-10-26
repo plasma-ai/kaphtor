@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/S40_to_go_walk_travel_1_way_course_2
 title: "*hlk-: 'to go, walk, travel' 1, 'way, course' 2"
-desc: "Proto-Semitic *hlk-, 'to go, walk, travel' 1, 'way, course' 2: reflexes in 13 language(s)."
+desc: "Proto-Semitic *hlk-, 'to go, walk, travel' 1, 'way, course' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S40"
@@ -29,15 +29,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | halaka 'to perish' (Lane 3044) (semantic shift from 'go away') | Lane 3044 |  |
-| Akkadian | alāku (initial h- lost; CAD A/1 300); ilku | CAD A/1 300 | gloss withheld |
+| Arabic | halaka 'to perish' (Lane 3044) | Lane 3044 |  |
+| Akkadian | alāku (initial h- lost; CAD A/1 300); ilku; alaktu (CAD A/1 297) | CAD A/1 300; CAD A/1 297 | gloss withheld |
 | Ugaritic | hlk (DULAT 331); yhlk; hlk (denominative) | DULAT 331 | gloss withheld |
+| Hebrew | hālak; hălīkā (HALOT 246); mahalāk | HALOT 246 | gloss withheld |
 | Phoenician | hlk (T 80) | T 80 | gloss withheld |
+| Syrian Aramaic | hlk (Kogan 2015, ch. 5 §2.2.2.1 no. 92) | Kogan 2015 ch. 5 §2.2.2.1 no. 92 |  |
 | Canaanite | AMARNA yilaku (HALOT 246) | HALOT 246 |  |
 | Moabite | wʾhlk (HALOT 246) | HALOT 246 |  |
 | Soqotri | halaka (HALOT 246) | HALOT 246 | gloss withheld |
 | Punic | hlk (Krahmalkov 157); ʾlk (Neo-Punic; T 80) | Krahmalkov 157; T 80 | gloss withheld |
-| Amorite | h-l-k (George and Krebernik 2022, 155) | Krebernik 2022 | gloss withheld |
+| Amorite | h-l-k (George and Krebernik 2022, 155) | George and Krebernik 2022 155 | gloss withheld |
 | Eblaitic | ʔà-a-gú-um /haLākum/ (VE 984 apud SEDonline 133; Krebernik 1983, 35) | VE 984; SEDonline 133; Krebernik 1983, 35 | gloss withheld |
 | Aramaic | hlk (T 80) | T 80 |  |
 | Judaic Aramaic | hlk (T 80) | T 80 |  |

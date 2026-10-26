@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fīl-, fem. fīl-at- 'elephant (in general, and male elephant)' \[BK 2 655\], \[Fr. III 386\], \[Lane 2474\], \[LA XI 534\]. | BK 2 655; Fr. III 386; Lane 2474; LA XI 534 |  |
-| Akkadian | pīlu \[AHw. 867\] | AHw. 867; Salonen Jagd 232ff; Salonen Hippologica 90ff | gloss withheld |
+| Akkadian | pīlu \[AHw. 867\] | AHw. 867 | gloss withheld |
 | Mandaic Aramaic | pil(a) \[DM 371\]. | DM 371 | gloss withheld |
 | Geez | falfal \[LGz. 159\]. | LGz. 159 | gloss withheld |
 | Hebrew | pB. pīl 'elephant' \[Ja. 1163\]. | Ja. 1163 |  |

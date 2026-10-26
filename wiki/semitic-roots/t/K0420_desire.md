@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | TʾB (CAL s.v. tʾb) | CAL s.v. tʾb | gloss withheld |
+| Aramaic | TʾB (CAL s.v. tʾb) | CAL s.v. tʾb; Anderson–Moser 2024 root tʾb | gloss withheld |
 | Hebrew | taʾab 'long' | Anderson–Moser 2024 root tʾb |  |
 | Judaic Aramaic | təʾīb (HALOT 1672; Jastrow 1641 apud CAL) | HALOT 1672; Jastrow 1641; CAL |  |
 

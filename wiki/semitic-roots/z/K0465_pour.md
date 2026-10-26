@@ -30,8 +30,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | zalafa 'drip' | Anderson–Moser 2024 root zlp |  |
-| Syrian Aramaic | zəlap̲ (LGz. 637) | LGz. 637 |  |
+| Syrian Aramaic | zəlap̲ (LGz. 637; Payne Smith 117) | LGz. 637; Payne Smith 117 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Payne Smith 117 refers Syriac zlap to dlap (K0050).
 
 <!-- END kaphtor:record -->

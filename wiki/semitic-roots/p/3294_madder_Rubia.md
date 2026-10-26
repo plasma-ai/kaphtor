@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | pwt (DUL 678 apud SEDonline 1763) | DUL 678; SEDonline 1763 | gloss withheld |
-| Judaic Aramaic | JPA pwˀh (DJPA 425 apud SEDonline 1763); JBA pūtā (DJBA 894 apud SEDonline 1763) | DJPA 425; SEDonline 1763; DJBA 894; SEDonline 1763 | gloss withheld |
+| Judaic Aramaic | JPA pwˀh (DJPA 425 apud SEDonline 1763); JBA pūtā (DJBA 894 apud SEDonline 1763) | DJPA 425; SEDonline 1763; DJBA 894 | gloss withheld |
 | Syrian Aramaic | putā (LSyr. 558, SL 1157 apud SEDonline 1763) | LSyr. 558, SL 1157; SEDonline 1763 | gloss withheld |
 | Arabic | fuwwat- (Lane 2454 apud SEDonline 1763) | Lane 2454; SEDonline 1763 | gloss withheld |
 

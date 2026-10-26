@@ -41,6 +41,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Soqotri māl 'richesse' LS 239 (&lt;Arb.?). Jibbali mol 'livestock, capital' JJ 176 (&lt;Arb.?). Mehri mōl 'livestock, capital' JMhr 275 (&lt;Arb.?).
+Soqotri māl (LS 239) (&lt;Arb.?). Jibbali mol (JJ 176) (&lt;Arb.?). Mehri mōl (JM 275) (&lt;Arb.?).
 
 <!-- END kaphtor:record -->

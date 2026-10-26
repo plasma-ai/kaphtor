@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ɣVṣ̂Vr- {} \*ɣVĉ̣Vr- |
 | Meaning | 'slime, mucus' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II additions to SED I |
 
 ## Reflexes
 
@@ -34,9 +35,5 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ɣaẕ̂rɛ́ (SED II 331) | SED II 331 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-SED II, additions to SED I (unnumbered), after Kogan 2001 and 2003. Landsberger's tie of Akk. ḫaṣartu to Arb. ʔaḫḍar- 'green' is not followed. Jib. ẕ̂rayɣ 'green slime on water' and eẕ̂ráyɣ 'be covered by green slime' are related, with metathesis (SED II 331–332).
 
 <!-- END kaphtor:record -->

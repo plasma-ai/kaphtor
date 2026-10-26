@@ -8,17 +8,17 @@
   },
   "stats": {
     "corpus_words": 748,
-    "read": 446,
-    "unread_listed": 470,
+    "read": 474,
+    "unread_listed": 441,
     "by_status": {
-      "edge_overlap": 43,
-      "unread": 145,
-      "role_only": 282
+      "edge_overlap": 26,
+      "unread": 149,
+      "role_only": 266
     },
-    "hapax": 448,
-    "repeated": 22,
+    "hapax": 422,
+    "repeated": 19,
     "cross_site": 6,
-    "surface_damaged": 263,
+    "surface_damaged": 259,
     "excluded_tokens": {
       "single-sign": 1426,
       "numeral/punct": 1550,
@@ -31,6 +31,7 @@
     "NU-MA-RE": "corpus splits *28B-NU-MA-RE (ZA4a, ZA5b, ZA15a); the word is lexicon JI-NU-MA-RE",
     "JA-SA-SA-RA-MA": "corpus breaks the line after MA on KNZa10; the word is lexicon JA-SA-SA-RA-MA-NA",
     "TE-TA-NA-MA-JE": "corpus runs TE-TA-NA-MA-JE as one word on PE6; translations read TE + TA-NA-MA-JE",
+    "WA-DI-NI": "corpus runs WA-DI-NI as one word on HTWc3007, HTWc3008; GORILA prints WA · DI-NI on 3008a; the word is lexicon DI-NI",
     "A-NA-TI-*301-WA-JA": "broken at both ends on IOZa8; translations read ]A-NA-TI-*301-WA-JA[ as ʿAnatī nawaya"
   },
   "entries": [
@@ -207,23 +208,6 @@
       "note": "Both attestations are damaged. KH102, a 2.5 × 1.6 cm LM I fragment, preserves two signs in part, A and 'presumably MI' (Hallager et al. 2014, PoDIA 7: 216, Fig. 11). PH14b (MM IIB lame) is retrograde: A-MỊ-[, MI dotted and broken after it (GORILA I 305 prints ]-MỊ-A in left-to-right order, Younger A-MI-[), so A-MI may begin a longer word (cf. A-MI-DA-O, A-MI-TA). Not readable."
     },
     {
-      "word": "A-RU",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "personal name (unread)",
-      "frequency": 2,
-      "attestations": [
-        "HT49a",
-        "HT9a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "Recipient: the last entry of the HT9a wine list (4¼). HT9b keeps the other six recipients and has A-SI (3, second entry) instead. Single entry in the HT49a name list (1, beside SI-RA and *370). No reading."
-    },
-    {
       "word": "KU-RA",
       "signs": 2,
       "status": "unread",
@@ -263,23 +247,6 @@
         ]
       },
       "note": "Both attestations are damaged. HT39 .3 KU-RẸ[, between SA-MA-TI 10 and KU-RO, RE dotted, broken after, no numeral (GORILA I 75). HT53b .4 ]KỤ-RE[, broken on both sides, KU dotted (GORILA I 103). Either may belong to a longer word: KU-RE-JU (HT39, HT117b), QA-KU-RE, QE-KU-RE. Not readable."
-    },
-    {
-      "word": "ME-ZA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "administrative roster label",
-      "translation_label": "roster label (unread)",
-      "frequency": 2,
-      "attestations": [
-        "HT10a",
-        "HT85b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "In a roster shared by two buildings: HT10a (Villa Magazine, under KU-NI-SU) closes with ME-ZA 3 after DA-RE 16½, U-*325-ZA 4 and 10 (a 4 erased, GORILA I 21) and DA-RI-DA 8. HT85 (Scribe 9, Casa Room 7) heads A-DU · *307+*307 · VIR over DA-RI-DA, U-*325-ZA and DA-RE, and lists ME-ZA 1 among single entries on the reverse. No reading."
     },
     {
       "word": "QE-KA",
@@ -341,22 +308,6 @@
       ],
       "cross_site": true,
       "note": "ZA 26a .1 SI-TE · DI-DI-[, the first group of the tablet, the logogram and 13 following at the head of .2 (GORILA III 202–203). Intact and undotted on both copies. The editors draw TE with two short bars on each side of the stem and allow that the stroke after it is the numeral 1, not a divider. For MIL Zb 3, the second witness, Younger gives no text: he prints MIL Zb 1 alone for Miletos and reports the rest unpublished (Younger, Linear A Texts). SI-TE also stands inside SI-TE-TU (ZA 20), QE-SI-TE (MA Ze 11) and KE-SI-TE (KN Ze 49). As a tablet heading it compares with a place: the Kom el-Hetan list ends with a damaged oval, restored [sȝ]-i-tȝ-[y] and tentatively identified as Siteia (Cline & Stannish 2011, 10). No reading."
-    },
-    {
-      "word": "WA-DI-NI",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 2,
-      "attestations": [
-        "HTWc3007",
-        "HTWc3008"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT Wc 3007, the only text on the roundel, WA-DI-NI whole and undotted (GORILA II 74). HT Wc 3008 face a prints WA · DI-NI, with a point after WA, and face b RU-JA-TA-DI (GORILA II 74). A name on a roundel. No reading."
     },
     {
       "word": "I-SE",
@@ -424,11 +375,7 @@
     {
       "word": "*188-DU-SE",
       "signs": 3,
-      "status": "edge_overlap",
-      "edge_overlap": {
-        "lexicon_word": "*188-DU",
-        "tier": "CONFIRMED"
-      },
+      "status": "unread",
       "frequency": 1,
       "attestations": [
         "PSIZa1"
@@ -531,10 +478,10 @@
       "cross_site": false,
       "surface_damage": {
         "HT122b": [
-          "start"
+          "interior"
         ]
       },
-      "note": "HT122b .2 *306-KI-TA₂ 7, all three signs whole and undotted at the head of the line, a trace after the numeral. .1 breaks off after VIR+[, and GORILA's tabular copy sets ] before the word (GORILA I 209). Sole attestation. No reading."
+      "note": "HT122b .2 *306-KI-TA₂ 7, all three signs whole and undotted at the head of the line, a trace after the numeral. .1 breaks off after VIR+[. GORILA's tabular copy sets ] before the word (GORILA I 209), but the drawing and the photograph show the left edge whole beside *306, and a crack crosses the line at KI (GORILA I 208). Sole attestation. No reading."
     },
     {
       "word": "*306-QE-DU",
@@ -660,11 +607,7 @@
     {
       "word": "*317-QE-*353",
       "signs": 3,
-      "status": "edge_overlap",
-      "edge_overlap": {
-        "lexicon_word": "*317-QE",
-        "tier": "PROBABLE"
-      },
+      "status": "unread",
       "frequency": 1,
       "attestations": [
         "PH9a"
@@ -776,11 +719,7 @@
     {
       "word": "*355-E-*354",
       "signs": 3,
-      "status": "edge_overlap",
-      "edge_overlap": {
-        "lexicon_word": "*355-E",
-        "tier": "CANDIDATE"
-      },
+      "status": "unread",
       "frequency": 1,
       "attestations": [
         "PH10"
@@ -790,20 +729,6 @@
       ],
       "cross_site": false,
       "note": "PH 10, an MM II tablet from Vano 25, the only group, followed by a logogram and two fraction signs (GORILA I 299). Undotted. *355 and *354 have no values, so the group has one resolved sign. No reading."
-    },    {
-      "word": "*47-NU-RA-JA",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT115a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 115a .1 *47-NU-RA-JA · I ·, whole and undotted, the first word of a palimpsest (GORILA I 189). *47 has no resolved value, its MO a low-confidence candidate. No reading."
     },
     {
       "word": "*539-*118",
@@ -898,11 +823,7 @@
     {
       "word": "*903-I-DU-WI",
       "signs": 4,
-      "status": "edge_overlap",
-      "edge_overlap": {
-        "lexicon_word": "*903-I",
-        "tier": "PROBABLE"
-      },
+      "status": "unread",
       "frequency": 1,
       "attestations": [
         "MA1a"
@@ -975,21 +896,6 @@
       ],
       "cross_site": false,
       "note": "TY 3a .5 Ạ-DA OLE+U 21, A dotted on both copies, the first entry below the ruling under .4, before a second oil entry broken at the right (GORILA I 327). Younger marks A doubtful (Younger, Linear A Texts). Sole attestation. Not readable."
-    },
-    {
-      "word": "A-DE",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "ZA10b"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "note": "ZA 10b .4 A-DE 4, between SA-MA 5 and A-MI-TA 3 in the list of names with whole numbers that opens WA-*362 2, DU-RE-ZA-SE *131B 5 (GORILA III 171). Intact. No reading."
     },
     {
       "word": "A-DI-NE",
@@ -1129,40 +1035,6 @@
       "note": "HT Zd 155, a graffito on stucco, A-JU · NA-MA-MA-TI-TI-A319, A-JU whole and undotted before the divider (GORILA IV 131). No reading."
     },
     {
-      "word": "A-KA-TA",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "KN32a"
-      ],
-      "sites": [
-        "Knossos"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "KN32a": [
-          "end"
-        ]
-      },
-      "note": "KN 32a .2 A-KA-TA, all three signs whole and undotted at the head of the line, a space and traces before the break at right. The last group of .1 runs into the break, and GORILA's tabular copy sets ] before the word (GORILA I 265). Sole attestation. No reading."
-    },
-    {
-      "word": "A-KI-PI-E-TE",
-      "signs": 5,
-      "status": "role_only",
-      "role": "toponym",
-      "frequency": 1,
-      "attestations": [
-        "KH10"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": "KH 10 .3–4 A-KI-PI | E-TE GRA 90, the group running over the line end, after I-PA-SA-JẠ · QA-*118 (GORILA III 37). Intact, no dots. An entry of 90 units of grain. No reading."
-    },    {
       "word": "A-KU-JU-PA-*118",
       "signs": 5,
       "status": "role_only",
@@ -1316,12 +1188,8 @@
     {
       "word": "A-RA-JU",
       "signs": 3,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "A-RA",
-        "tier": "CANDIDATE"
-      },
       "frequency": 1,
       "attestations": [
         "HT109"
@@ -1335,13 +1203,9 @@
     {
       "word": "A-RA-JU-U-DE-ZA",
       "signs": 6,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
       "translation_label": "roster entry (cf. U-DE-ZA, HT122a)",
-      "edge_overlap": {
-        "lexicon_word": "A-RA",
-        "tier": "CANDIDATE"
-      },
       "frequency": 1,
       "attestations": [
         "HT122b"
@@ -1410,21 +1274,6 @@
         ]
       },
       "note": "THE Zb 4 ]A-RẸ[, broken on both sides, RE dotted, and the note allows A-SẠ[ instead (GORILA IV 105). Sole attestation. Not readable."
-    },    {
-      "word": "A-RO-TE",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "untranslated",
-      "frequency": 1,
-      "attestations": [
-        "CRZg4"
-      ],
-      "sites": [
-        "Crete"
-      ],
-      "cross_site": false,
-      "note": "Linear B a-ro-te, the same spelling, occurs once, on the Pylos textile tablet PY La 622. Killen glosses a-ro-ta 'unsewn' and calls a-ro-te obscure (Killen, Mycenaean Greek, glossary, s.vv. a-ro-ta and a-ro-te). No reading."
     },
     {
       "word": "A-RU-DA-RA",
@@ -1454,24 +1303,6 @@
       ],
       "cross_site": false,
       "note": "Roundel face a, one word over three lines, A-SA / SỤ-MA / I-SẸ (GORILA II 2). SU and SE are dotted. A-SA- also opens A-SA-DA-KA (MA Wc 5, a roundel), A-SA-RA₂ (HT 89) and A-SA-SA-RA-ME (IO Zb 10). Not readable."
-    },    {
-      "word": "A-SE-TU-*21F",
-      "signs": 4,
-      "status": "edge_overlap",
-      "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "A-SE",
-        "tier": "CANDIDATE"
-      },
-      "frequency": 1,
-      "attestations": [
-        "PH2"
-      ],
-      "sites": [
-        "Phaistos"
-      ],
-      "cross_site": false,
-      "note": "PH 2 .1 A-SE-TU-*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and SE-SA-PA₃ 60 (GORILA I 288–289). Intact and undotted. Younger takes the stroke GORILA prints as 1 for either the numeral or part of the following RA, and as part of RA it leaves the line a heading (Younger, Linear A Texts). No reading."
     },
     {
       "word": "A-SI",
@@ -1532,20 +1363,6 @@
       ],
       "cross_site": false,
       "note": "KH 9 .1 A-SI-SU-PO-A · VIR+*307[, heading a list of small fractional issues of figs, cyperus, wine and *304, the logogram dotted and broken at the right (GORILA III 35). Intact, no dots; a divider after the last A, nothing before the first. A heading: a name, place or occasion. Valério (2016, 224 n. 518) sets it beside A-SU-PU-WA (ARKH 2) and LB su-pu-wo (KN C 912). A split A-SI SU-PO-A, after I-SI · *303+D on .3, has no divider. No reading."
-    },    {
-      "word": "A-SU-PU-WA",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "ARKH2"
-      ],
-      "sites": [
-        "Arkhanes"
-      ],
-      "cross_site": false,
-      "note": "ARKH 2 .5–6 A-SU-PU-WA 4, WA written over an erasure, after ZU-*301-SE-DE-*21F-*118 6 and before RU-MỊ-[ (GORILA III 6–7). Intact and undotted. No reading."
     },
     {
       "word": "A-TA",
@@ -2055,12 +1872,8 @@
     {
       "word": "DI-RA-DI-NA",
       "signs": 4,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "DI-NA",
-        "tier": "PROBABLE"
-      },
       "frequency": 1,
       "attestations": [
         "PH1a"
@@ -2095,21 +1908,6 @@
         ]
       },
       "note": "KH6 .1 ]CYP+D ½ DI-SI-[, signs undotted, the hyphen before the break marking a group that went on (GORILA III 27). Sole attestation. Not readable."
-    },
-    {
-      "word": "DU-JA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT7a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 7a .3 DU-JA 4, whole and undotted, after I-RU-JA 3 and before TA-NA-TI 1, under QE-TI · VIR (GORILA I 15). No reading."
     },
     {
       "word": "DU-JU",
@@ -2773,21 +2571,6 @@
       "note": "HT119 .4 JA-*345 10, both signs whole and undotted, a personnel entry between KU-PA₃-NA-TU 7, TI 7 and *306-TU 2 (GORILA I 203). *345 has no resolved value. Sole attestation. No reading."
     },
     {
-      "word": "JA-DI",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PHWc39"
-      ],
-      "sites": [
-        "Phaistos"
-      ],
-      "cross_site": false,
-      "note": "PH Wc 39, an MM II roundel from Vano LI, JA-DI on face a, RO on face b (GORILA II 94). Younger records one seal impression and one erased impression (Younger, Linear A Texts). Intact and undotted. JA-DI-KI-TU and its relatives (IO Za 2, PK Za 8, PK Za 15) share only the first two signs. No reading."
-    },
-    {
       "word": "JA-KI",
       "signs": 2,
       "status": "role_only",
@@ -3169,7 +2952,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT63 .1 KA-TI 1, both signs whole and undotted, between *305 · TE 1 and SU-PU₂ at the broken end of the line (GORILA I 119). Sole attestation. No reading."
+      "note": "HT63 .1 KA-TI 1, both signs whole and undotted, between *305 · TE 1 and SU-PU₂, which ends against the tablet's whole upper right corner, bracketed open in GORILA's normalized line (GORILA I 118–119). Sole attestation. No reading."
     },
     {
       "word": "KA-U-DE-TA",
@@ -3252,7 +3035,7 @@
         "Knossos"
       ],
       "cross_site": false,
-      "note": "KN Ze 49, signs on a Knossos building block that G. Owens reads from a mason's mark drawn after Hood. The piece lies outside GORILA and RILA-S1, and RILA-S1 does not admit the signs Owens reported at Knossos. No reading."
+      "note": "KN Ze 49, three signs on a Knossos building block known only from Hood's drawing, which Hood reads as masons' marks; Owens reads KE-SI-TE and equates it with MA Ze 11 QE-SI-TE. Outside GORILA and Younger. No reading."
     },
     {
       "word": "KI-*310",
@@ -3594,21 +3377,6 @@
       "note": "HT115b .4 KU-TA[, broken after TA, at the end of the last written line (GORILA I 191). Sole attestation. Not readable."
     },
     {
-      "word": "KU-TU-KO-RE",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "ZA8"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "note": "ZA 8 .2 KU-TU-KO-RE ZZ, a fraction alone after the name, in the ZA 8 list headed KI-RA · (GORILA III 165). Intact. No reading."
-    },
-    {
       "word": "KU-ZU-NA",
       "signs": 3,
       "status": "role_only",
@@ -3687,12 +3455,8 @@
     {
       "word": "MA-RE-RI-MI-DE",
       "signs": 5,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "MA-RE",
-        "tier": "CANDIDATE"
-      },
       "frequency": 1,
       "attestations": [
         "PH30"
@@ -3848,6 +3612,21 @@
       ],
       "cross_site": false,
       "note": "PK 1 .8 MẠ-TẸ-TI 1, MA and TE dotted on both copies, the editors not excluding MA-DA-TI (GORILA I 281). Younger marks the same two as doubtful and gives MA-DA-TI as the alternative (Younger, Linear A Texts). Sole attestation. Not readable."
+    },
+    {
+      "word": "MA-TI-ZA-I-TE",
+      "signs": 5,
+      "status": "role_only",
+      "role": "personal_name",
+      "frequency": 1,
+      "attestations": [
+        "PK1"
+      ],
+      "sites": [
+        "Palaikastro"
+      ],
+      "cross_site": false,
+      "note": "PK 1 .7 MA-TI-ZA-I-TE 1, whole and undotted, in a roster of names each counted 1 (GORILA I 281). Amorite MATI+ (Gelb nos. 4568, 4570, 4571, 4573) with zayt \"olive\", which no held onomasticon uses in a name; or Hurrian mat- (NPN 233–234: Matip-tešup, Mat-teja) with -te, which leaves ZA-I unread. Sole attestation. No reading."
     },    {
       "word": "MI-DA-RA",
       "signs": 3,
@@ -4217,12 +3996,8 @@
     {
       "word": "NU-RI-JA",
       "signs": 3,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "RI-JA",
-        "tier": "SPECULATIVE"
-      },
       "frequency": 1,
       "attestations": [
         "PKZc13"
@@ -4347,12 +4122,8 @@
     {
       "word": "PA-*342-I",
       "signs": 3,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "*342-I",
-        "tier": "PROBABLE"
-      },
       "frequency": 1,
       "attestations": [
         "HT43"
@@ -4452,21 +4223,6 @@
       "note": "HT 73 .2 ]1 PA-I-KI[, broken after (GORILA I 117). Not readable."
     },
     {
-      "word": "PA-NU-QE",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "ZA14"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "note": "ZA 14 .4 PA-NU-QE 2, after TU-MI-TI-ZA-SE and before JA-WI[ (GORILA III 181). Intact. No reading."
-    },
-    {
       "word": "PA-RE",
       "signs": 2,
       "status": "role_only",
@@ -4504,13 +4260,9 @@
     {
       "word": "PA-SA-RI-JA",
       "signs": 4,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "gentilic",
       "translation_label": "second section heading — unresolved",
-      "edge_overlap": {
-        "lexicon_word": "RI-JA",
-        "tier": "SPECULATIVE"
-      },
       "frequency": 1,
       "attestations": [
         "HT24a"
@@ -4574,7 +4326,12 @@
         "Miletos"
       ],
       "cross_site": false,
-      "note": "MIL Zb 2, a clay vessel from Miletos, the only word. Younger gives MIL Zb 1 alone and reports the other Miletos texts unpublished (Younger, Linear A Texts). No reading."
+      "surface_damage": {
+        "MILZb2": [
+          "end"
+        ]
+      },
+      "note": "MIL Zb 2, a clay vessel from Miletos, the only word. The sherd breaks at the right through the second sign, so the word may run on (photograph and facsimile). Younger gives MIL Zb 1 alone and reports the other Miletos texts unpublished (Younger, Linear A Texts). No reading."
     },
     {
       "word": "PI-KU-ZU",
@@ -4649,21 +4406,6 @@
         ]
       },
       "note": "PH 19 .1 PỊ-Ọ[, both signs dotted, broken after, inf. mut. (GORILA I 309). Sole attestation. Not readable."
-    },
-    {
-      "word": "PI-RU-E-JU",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PH2"
-      ],
-      "sites": [
-        "Phaistos"
-      ],
-      "cross_site": false,
-      "note": "PH 2 .3 PI-RU-E-JU 60, between RA-O-DI-KI 60 and SE-SA-PA₃ 60 (GORILA I 288–289). Undotted on the copie normalisée. The copie tabulaire dots JU, as it does on PA 1 (GORILA I 284). No reading."
     },
     {
       "word": "PI-TI-NE-A-[",
@@ -4792,21 +4534,6 @@
       "note": "Incomplete: QA-*305-[?], QA and *305 dotted, a further sign lost (GORILA IV 95). Not readable."
     },
     {
-      "word": "QA-KU-RE",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HTWc3017"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT Wc 3017, a roundel (HM 69), face a QA-KU-RE · DI-*306 ·, all three signs whole and undotted, face b CYP+D · *304+PA (GORILA II 77). HT20 .2–.3 has QE-KU-RE · DI ½, which differs only in QE for QA and stands before the same DI. Probably the same name as QE-KU-RE. Sole attestation. No reading."
-    },
-    {
       "word": "]QA-QA-RU",
       "signs": 3,
       "status": "unread",
@@ -4889,21 +4616,6 @@
       ],
       "cross_site": false,
       "note": "KH 7a .4 QA-TI-KI VIR+*313b 4, at the head of the line (the copie tabulaire numbers it .3–4), after I-JA-PA-ME · TA-TA · (GORILA III 29). Intact, no dots. An entry of four men of the *313b class. QA-TI- also opens QA-TI-JU (ZA 14) and QA-TI-DA-TE (HT 12), but -KI after it has no established function. No reading."
-    },
-    {
-      "word": "QE-KU-RE",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT20"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT20 .2–3 QE-KU-RE · DI ½, QE-KU closing .2 and RE opening .3, whole and undotted (GORILA I 37). Second entry under PA-RO-SU ·, after KU-MA-JU ¼ and before SA-RE-JU, with a divider between the word and the commodity sign DI: a recipient slot. Probably the same name as QA-KU-RE (HT Wc 3017, also before DI). No reading."
     },
     {
       "word": "QE-SI-ZU-E",
@@ -5078,12 +4790,8 @@
     {
       "word": "RA-TI-SE",
       "signs": 3,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "RA-TI",
-        "tier": "CANDIDATE"
-      },
       "frequency": 1,
       "attestations": [
         "HT6b"
@@ -5328,20 +5036,6 @@
       "note": "THE 8, an Akrotiri tablet admitted by RILA-S1, listed as RO-A559-A534C 200. The Akrotiri tablets in Younger's transcription print no such sequence (Younger, Linear A Texts). No reading."
     },
     {
-      "word": "RO-E",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PH24"
-      ],
-      "sites": [
-        "Phaistos"
-      ],
-      "cross_site": false,
-      "note": "PH 24, an MM II label from Vano 25, the only group (GORILA I 310–311). Intact and undotted. No reading."
-    },    {
       "word": "RO-NI",
       "signs": 2,
       "status": "unread",
@@ -5409,26 +5103,6 @@
       ],
       "cross_site": false,
       "note": "HT Wc 3008 side b RU-JA-TA-DI, whole and undotted, with WA-DI-NI on side a (GORILA II 74). Roundel. No reading."
-    },
-    {
-      "word": "RU-MA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT64"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT64": [
-          "end"
-        ]
-      },
-      "note": "HT64 .2 RU-MA, after ]NA 2, both signs whole and undotted at the end of the line. .3 opens with a lacuna, and GORILA's tabular copy sets [ after the word (GORILA I 119). Sole attestation. No reading."
     },
     {
       "word": "RU-MI",
@@ -5560,21 +5234,6 @@
       "note": "KN 32b .2 ]-SẠ-PU, broken before SA, the word running into the break, SA dotted, a stroke and PA after (GORILA I 265). Sole attestation. Not readable."
     },
     {
-      "word": "SA-RE-JU",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT20"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT20 .4 SA-RE-JU with a fraction, whole and undotted (GORILA I 37). Entry under PA-RO-SU ·, after QE-KU-RE · DI and before the logogram on .4–5. KU-MA-JU, the first entry, shares the -JU ending. No reading."
-    },
-    {
       "word": "SA-RI",
       "signs": 2,
       "status": "role_only",
@@ -5617,51 +5276,6 @@
         ]
       },
       "note": "HT 73 .3 ]8 SA-RO-QE[, broken after, traces to the right (GORILA I 117). Not readable."
-    },
-    {
-      "word": "SA-TA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT117a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT117a .7 SA-TA ·, whole and undotted (GORILA I 197). Heading of the second section, below the ruling after KU-RO 10, over five names with 1 each (KU-KU-DA-RA, KO-SA-I-TI, DA-MI-NU, DA-NE-KU-TI, KI-DA-RO), in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI · holds in the first section. Photo and facsimile show SA-TA · with no quantity, KU-KU-DA-RA following on the same line. HT 87 (*21F-TU-NE · MA-KA-RI-TE ·) and HT 117b (*21F-TU-NE ·) put group names in this slot. No reading."
-    },
-    {
-      "word": "SE-*305",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "KH7a"
-      ],
-      "sites": [
-        "Khania"
-      ],
-      "cross_site": false,
-      "note": "KH 7a .4 SE-*305 ·, an entry with no logogram or number, after CYP+D B and before KU-[·]-KO-E VIR+*313b [ ]18 (GORILA III 29). Intact, no dots. *305 holds /ḏa/ only as a CANDIDATE, with /da/ a live rival. No reading."
-    },
-    {
-      "word": "SE-KU-TU",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT115a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT115a .3 SE-KU-TU ½, whole and undotted, on a palimpsest tablet (GORILA I 189). Entry between NA-*21F-NE-MI-NA 1 and PA-RA-NE 1. No reading."
     },
     {
       "word": "SE-SA-PA₃",
@@ -5863,21 +5477,6 @@
       "note": "KN Zf 31 opens with ]SI[ standing alone, then after a gap ]SỊ-ZẠ-NE-*310 · DA-DỤ-MI-NE, SI, ZA and DU dotted (GORILA IV 155). Younger prints the same division (Younger, Linear A Texts, other texts). Broken before SI. Not readable."
     },
     {
-      "word": "SI-TE-TU",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "ZA20"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "note": "ZA 20 .2 SI-TE-TU 1, after ]4 and before SI-TU 6 (GORILA III 193). Intact. SI-TU 6 on the next line shares the frame without TE. No reading."
-    },
-    {
       "word": "SU-KI",
       "signs": 2,
       "status": "role_only",
@@ -6061,21 +5660,6 @@
       "note": "HT135b .1 [··]-TA-NE[, two signs lost before TA, broken after. The editors allow [·]-*34̣-TA-NE[ (GORILA I 231). TA-NE is the end of a longer word. Not readable."
     },
     {
-      "word": "TA-PA",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT104"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT104 .1 TA-PA · *505 ·, whole and undotted (GORILA I 171). Heading before *505, which GORILA describes as PA and RO with their horizontal strokes merged, over three entries totalled KU-RO 95, whose final TI GORILA's note allows as an ideogram. No reading."
-    },
-    {
       "word": "TA-PI",
       "signs": 2,
       "status": "role_only",
@@ -6195,25 +5779,6 @@
         ]
       },
       "note": "KH52 .2 ]TA-U-[, broken before TA, signs undotted, the hyphen before the right break marking a group that went on, below ]vest.[ (GORILA III 75). Sole attestation. Not readable."
-    },
-    {
-      "word": "TA₂-TI-TE",
-      "signs": 3,
-      "status": "edge_overlap",
-      "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "TA₂-TI",
-        "tier": "CANDIDATE"
-      },
-      "frequency": 1,
-      "attestations": [
-        "PK1"
-      ],
-      "sites": [
-        "Palaikastro"
-      ],
-      "cross_site": false,
-      "note": "PK 1 .3 TA₂-TI-TE 1, before O-KA-MI-ZA-SI-I-NA on .3–4 (GORILA I 281). Intact. TA₂ is a CANDIDATE /ta/. Cf. Nuzi Tatip-tešup (Gelb, Purves, and MacRae 1943, s.v. TATIP-TEŠUP) and the short final -te for -tešup (ibid., 264); a Tatip-te is unattested. No reading."
     },
     {
       "word": "TE-JA",
@@ -6479,12 +6044,8 @@
     {
       "word": "TU-ME-PA-JA",
       "signs": 4,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "TU-ME",
-        "tier": "SPECULATIVE"
-      },
       "frequency": 1,
       "attestations": [
         "HT154a"
@@ -6515,21 +6076,6 @@
       ],
       "cross_site": false,
       "note": "ZA 14 .3–4 TU-MI-TI-ZA-SE 45[ ], the largest count on the tablet, a space lost after the numeral (GORILA III 181). Intact. It ends like DU-RE-ZA-SE (ZA 10a, 10b) and O-TA-NI-ZA-SE (ZA 5a), but the shared ending does not establish a base. No reading."
-    },
-    {
-      "word": "TU-NU",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "KAZf1"
-      ],
-      "sites": [
-        "Kardamoutsa"
-      ],
-      "cross_site": false,
-      "note": "KA Zf 1, a bronze double axe from Kardamoutsa (British Museum 1954,10-20.1), TU-NU · incised on either side of the shaft hole (GORILA IV 149). Intact and undotted. No reading."
     },
     {
       "word": "TU-PA",
@@ -6807,13 +6353,9 @@
     {
       "word": "WA-JA-PI",
       "signs": 3,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "toponym",
       "translation_label": "unread",
-      "edge_overlap": {
-        "lexicon_word": "JA-PI",
-        "tier": "CANDIDATE"
-      },
       "frequency": 1,
       "attestations": [
         "HT9b"
@@ -6862,12 +6404,8 @@
     {
       "word": "WA-TU-MA-RE",
       "signs": 4,
-      "status": "edge_overlap",
+      "status": "role_only",
       "role": "personal_name",
-      "edge_overlap": {
-        "lexicon_word": "MA-RE",
-        "tier": "CANDIDATE"
-      },
       "frequency": 1,
       "attestations": [
         "HT128a"
@@ -6998,12 +6536,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "surface_damage": {
-        "HT113": [
-          "start"
-        ]
-      },
-      "note": "HT113 .2 WI-SA ·[, both signs whole and undotted at the head of the line, a divider after SA. .1 breaks off after RA-RI-DE[, and GORILA's tabular copy sets ] before the word (GORILA I 185). Sole attestation. No reading."
+      "note": "HT113 .2 WI-SA ·[, both signs whole and undotted at the head of the line, a divider after SA. .1 breaks off after RA-RI-DE[. GORILA's tabular copy sets ] before the word (GORILA I 185), but the drawing and the photograph show the tablet's left edge whole beside WI (GORILA I 184). Sole attestation. No reading."
     },
     {
       "word": "WI-SA-SA-NE",
@@ -7092,26 +6625,6 @@
       ],
       "cross_site": false,
       "note": "ARKH 2 .3–4 ZU-*301-SE-DE-*21F-*118 6, *301 and *21F written over erasures, after A-SI-DA-TO-I 12 and before A-SU-PU-WA 4 (GORILA III 6–7). Undotted. GORILA prints one group, but its last two signs form *21F-*118, a group that stands alone at KH 88, ZA 5a and ZA 14, and *118 stands before the numeral, the position of the unit logogram. ZU-*301-SE-DE occurs nowhere else. No reading."
-    },
-    {
-      "word": "ZU-JU-PU₂",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT25a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT25a": [
-          "start"
-        ]
-      },
-      "note": "HT 25a .4 ZU-JU-PU₂ 1, after TU-QE-NU ends .3. The left margin beside ZU is damaged; no lost sign is visible. GORILA's tabular copy dots ZU and PU₂ (GORILA I 45). No reading."
     },
     {
       "word": "[?]-TU-ME-SE",
@@ -7990,42 +7503,6 @@
         ]
       },
       "note": "KN 54 PU-RA *131C ¹⁄₁₆, the tablet's only entry. Distinct from PU-RA₂ and PU₂-RA₂. Linear B ]pu-ra (KN V 958.4) is broken before and no anchor (DMic II, s.v.). Sole attestation. No reading."
-    },
-    {
-      "word": "SU-PU₂",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT63"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT63": [
-          "end"
-        ]
-      },
-      "note": "HT 63 .1 SU-PU₂ at the broken end of the line, after *305 · TE 1 KA-TI 1 (GORILA I 119). Distinct from SU-PU. Sole attestation. No reading."
-    },
-    {
-      "word": "MA-RE",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "translation_label": "PN (unresolved)",
-      "frequency": 1,
-      "attestations": [
-        "HT55a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 55a .1 ]KI-RO · MA-RE 1[, both signs whole and undotted, broken after the 1 (GORILA I 106–107). KI-RO heads a list of persons with 1 each, as on HT 88, HT 94b and HT 117a (MA-RU 1). Sole attestation. No reading."
     },
     {
       "word": "SI-NI",

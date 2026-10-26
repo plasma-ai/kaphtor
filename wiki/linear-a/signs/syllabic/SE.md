@@ -46,6 +46,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | ʾaššē-ya | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | PROBABLE |
 | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]] | Dašurat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] | Djed-ka(.s) | SPECULATIVE |
@@ -57,6 +58,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_SE_JA\|PA-SE-JA]] | Paššiya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Setoiya | PROBABLE |
 | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE\|SI+SE]] | Šapšu | SPECULATIVE |

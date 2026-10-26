@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | ˀušn (DUL 118 apud SEDonline 1384) | DUL 118; SEDonline 1384 | gloss withheld |
-| Arabic | ˀws (LA 6 20 apud SEDonline 1384); ˀaws- (LA 6 20 apud SEDonline 1384) | LA 6 20; SEDonline 1384; LA 6 20; SEDonline 1384 | gloss withheld |
+| Arabic | ˀws (LA 6 20 apud SEDonline 1384); ˀaws- (LA 6 20 apud SEDonline 1384) | LA 6 20; SEDonline 1384 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

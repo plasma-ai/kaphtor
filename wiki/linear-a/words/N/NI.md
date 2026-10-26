@@ -96,7 +96,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella 2025; V&C 1956 
 | [[wiki/linear-a/inscriptions/KH/KH/KH14\|KH14]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH17\|KH17]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH21\|KH21]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH26\|KH26]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH27\|KH27]] | Khania | Tablet | none |
@@ -115,7 +115,7 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella 2025; V&C 1956 
 | [[wiki/linear-a/inscriptions/PH/PH/PH14a\|PH14a]] | Phaistos | Lames (short thin tablet) | none |
 | [[wiki/linear-a/inscriptions/PH/PH/PH1b\|PH1b]] | Phaistos | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA1a\|ZA1a]] | Zakros | Tablet | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/CR/CRZg/CRZg3\|CRZg3]] | Crete (?) | Amygdaloid stone seal | complete |
 | [[wiki/linear-a/inscriptions/TEL/TELZb/TELZb1\|TELZb1]] | Tel Haror | Clay vessel | complete |
 
@@ -146,10 +146,12 @@ di Mino; Neumann 1957, 157–58; Montecchi 2024, 178; Salgarella 2025; V&C 1956 
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | \*nikuleon | figs | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | \*nikuleon | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | \*nikuleon | figs (commodity ideogram) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] |  | figs (logogram), ¼ | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH55\|KH55]] | \*nikuleon | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH88\|KH88]] | \*nikuleon | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KH/KH/KH91\|KH91]] | \*nikuleon | figs (commodity ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57a\|KNZg57a]] | NI | figs (CONFIRMED ideogram) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/TEL/TELZb/TELZb1\|TELZb1]] | \*nikuleon | figs | CONFIRMED |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] |  | figs (logogram), ½ | CONFIRMED |
 
 <!-- END kaphtor:record -->

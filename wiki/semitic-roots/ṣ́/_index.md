@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ́
 desc: "Semitic roots whose first radical is ṣ́."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T05:11:48Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/ṣ́
@@ -35,7 +35,7 @@ updated: 2026-10-25T05:11:48Z
 
 [[wiki/semitic-roots/ṣ́/2187_a_wild_cat|2187_a_wild_cat]]: Proto-Semitic *ṣ̂Vy(V)w-, 'a wild cat': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ṣ́/2272_small_cattle|2272_small_cattle]]: Proto-Semitic *ṣ̂aʾn- {} *ĉ̣aʾn-, 'small cattle': reflexes in 14 language(s).
+[[wiki/semitic-roots/ṣ́/2272_small_cattle|2272_small_cattle]]: Proto-Semitic *ṣ̂aʾn- {} *ĉ̣aʾn-, 'small cattle': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/ṣ́/2283_hyena|2283_hyena]]: Proto-Semitic *ṣ̂ab(u)ʕ- {} *ĉ̣ab(u)ʕ-, 'hyena': reflexes in 8 language(s).
 
@@ -44,6 +44,8 @@ updated: 2026-10-25T05:11:48Z
 [[wiki/semitic-roots/ṣ́/229_kind_of_lizard|229_kind_of_lizard]]: Proto-Semitic *ṣ̂abb- {} *ĉ̣abb-, 'kind of lizard': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ṣ́/2549_sun|2549_sun]]: Proto-Semitic *ṣ̂uḥay-, 'sun': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/ṣ́/2679_wool|2679_wool]]: Proto-Semitic *ṣ̂Vmr-, 'wool': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ṣ́/2901_go_astray|2901_go_astray]]: Proto-Semitic *ṣ́VlVl-, 'go astray': reflexes in 3 language(s).
 
@@ -55,9 +57,11 @@ updated: 2026-10-25T05:11:48Z
 
 [[wiki/semitic-roots/ṣ́/3174_zizyphus|3174_zizyphus]]: Proto-Semitic *ṣ̂aʾl-, 'zizyphus': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ṣ́/3427_cheek|3427_cheek]]: Proto-Semitic *ṣ̂agm-, 'cheek': reflexes in 3 language(s).
+[[wiki/semitic-roots/ṣ́/3427_cheek|3427_cheek]]: Proto-Semitic *ṣ̂agm-, 'cheek': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṣ́/411_bind_yoke_harness|411_bind_yoke_harness]]: Proto-Semitic *ṣ̂VmVd-, 'bind, yoke, harness': reflexes in 16 language(s).
+[[wiki/semitic-roots/ṣ́/3577_to_be_humble_submit_to_humble_subjugate|3577_to_be_humble_submit_to_humble_subjugate]]: Proto-Semitic *ṣ̂rʕ, 'to be humble, submit; to humble, subjugate': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṣ́/411_bind_yoke_harness_1_join_unite_in_a_pact_2|411_bind_yoke_harness_1_join_unite_in_a_pact_2]]: Proto-Semitic *ṣ̂VmVd-, 'bind, yoke, harness' 1, 'join, unite (in a pact)' 2: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/ṣ́/704_flow_v|704_flow_v]]: Proto-Semitic *ṣ̂ib-, 'flow' (v.): reflexes in 1 language(s).
 
@@ -65,15 +69,13 @@ updated: 2026-10-25T05:11:48Z
 
 [[wiki/semitic-roots/ṣ́/894_fog|894_fog]]: Proto-Semitic *ṣ̂abāb-, 'fog': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṣ́/K0692_bind|K0692_bind]]: Proto-Semitic *ḍVmVm-, 'bind': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/ṣ́/K0695_press|K0695_press]]: Proto-Semitic *ḍVwVq-, 'press': reflexes in 11 language(s).
+[[wiki/semitic-roots/ṣ́/K0695_to_press_to_be_narrow_distressed|K0695_to_press_to_be_narrow_distressed]]: Proto-Semitic *ḍVwVq-, 'to press; to be narrow, distressed': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ṣ́/K0698_glow|K0698_glow]]: Proto-Semitic *ḍVḥVḥ-, 'glow': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṣ́/K0804_sprout|K0804_sprout]]: Proto-Semitic *ṣ̂VmVḫ-, 'sprout': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ṣ́/S126_call_for_truce_bind_join_or_friend|S126_call_for_truce_bind_join_or_friend]]: Proto-Semitic *ḍmd, 'call for truce; bind, join' or 'friend': reflexes in 2 language(s).
+[[wiki/semitic-roots/ṣ́/S51_to_seize_capture|S51_to_seize_capture]]: Proto-Semitic *ṣ̂bṭ, 'to seize, capture': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/ṣ́/SA014_face_an_emergency|SA014_face_an_emergency]]: Epigraphic South Arabian headword *ḍwʕ, 'face an emergency': reflexes in 1 language(s).
 

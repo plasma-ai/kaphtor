@@ -43,22 +43,24 @@ updated: 2026-10-24T16:17:50Z
 
 - JA-SA-SA-RA-ME
 - SU-PA₃-RA
-- A-RA-NA-RE (Gordon: Egyptian PN)
+- A-RA-NA-RE (Hurrian PN, Ugaritic ålnr, Linear B a-ra-na-ro)
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | CANDIDATE |
 | [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | sōdir | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾaddar(t) | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA_RA_NE\|A-MA-RA-NE]] | ʾAmarānu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | PROBABLE |
+| [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]] | ʾarṣ̂atu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU_ME\|A-RA-TU-ME]] | ʾarṣ̂atum | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | CONFIRMED |
+| [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | diḳaru | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]] | Dašurat | SPECULATIVE |

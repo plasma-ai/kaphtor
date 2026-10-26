@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ɣdd |
 | Meaning | 'to swell' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1402 |
 
 ## Reflexes
 
@@ -33,9 +34,5 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ɣdd (Lane 2231 apud SEDonline 1402) | Lane 2231; SEDonline 1402 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-PCS \*ɣdd 'to swell' (SEDonline 1402). Mhr. ɣəddēt 'influenza', Jib. ɣedd 'to throttle' are probably Arabisms.
 
 <!-- END kaphtor:record -->

@@ -30,17 +30,21 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥabl-; ḥabala |  | gloss withheld |
+| Arabic | ḥabl- |  |  |
 | Akkadian | eblu (CAD E 15) | CAD E 15 | gloss withheld |
 | Ugaritic | ḥbl (DULAT 347); \*/ḥablu/?, pl. /ḥabalūma/ (UVST 123) | DULAT 347; UVST 123 | gloss withheld |
-| Geez | ḥabl; ḥabala |  | gloss withheld |
-| Hebrew | ḥäbäl; ḥabal 'bind' (BDB 286) | BDB 286 |  |
+| Geez | ḥabl |  |  |
+| Hebrew | ḥäbäl (BDB 286) | BDB 286 |  |
 | Punic | ḥbl (T 97) | T 97 | gloss withheld |
-| Aramaic | ḥbl (Aramaic Root Atlas; DNWSI 345 apud CAL) | Aramaic Root Atlas; DNWSI 345; CAL | gloss withheld |
+| Aramaic | ḥbl (Aramaic Root Atlas; DNWSI 345 apud CAL) | Aramaic Root Atlas; DNWSI 345; CAL; Anderson–Moser 2024 root ḥbl | gloss withheld |
 | Syrian Aramaic | ḥablā (HALOT 286) | HALOT 286 | gloss withheld |
-| Tigre | ḥabl (Wb. 78a; HALOT 286) | HALOT 286 | gloss withheld |
+| Tigre | ḥabl (Wb. 78a; HALOT 286) | Wb. 78a; HALOT 286 | gloss withheld |
 | Eblaitic | ʔà-ba-lu /ḥablu(m)/ (VE 1174b; Krebernik 1983, 41) | VE 1174b; Krebernik 1983, 41 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT derives Heb. ḥōbēl 'sailor' (HALOT 287) from II ḥebel 'rope' (HALOT 286). The verb is 3478.
 
 <!-- END kaphtor:record -->

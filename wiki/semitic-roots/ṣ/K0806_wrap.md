@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ṢNP (Aramaic Root Atlas; CAL s.v. ṣnp) | Aramaic Root Atlas; CAL s.v. ṣnp | gloss withheld |
+| Aramaic | ṢNP (Aramaic Root Atlas; CAL s.v. ṣnp) | Aramaic Root Atlas; CAL s.v. ṣnp; Anderson–Moser 2024 root ṣnp | gloss withheld |
 | Geez | ṣanfa 'dress' | Anderson–Moser 2024 root ṣnp |  |
-| Hebrew | ṣanap 'wrap' (BDB 857) | BDB 857 |  |
+| Hebrew | ṣanap 'wrap' (BDB 857) | BDB 857; Anderson–Moser 2024 root ṣnp |  |
 | Syrian Aramaic | məṣannap (HALOT 1039) | HALOT 1039 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

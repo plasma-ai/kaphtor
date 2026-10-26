@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ɣṯy |
 | Meaning | 'to be dark, clouded; to be confused' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 49 |
 
 ## Reflexes
 

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | danānu OB on \[CAD d 81\]. | CAD d 81 | gloss withheld |
 | Gurage | CHA GYE dän, EZ̆A MUH MSQ GOG dänn \[LGur 210\]. | LGur 210 | gloss withheld |
-| Amharic | dändanne \[K 1085\] (redupl.). | K 1085 | gloss withheld |
+| Amharic | dändanne \[K 1085\]. | K 1085 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

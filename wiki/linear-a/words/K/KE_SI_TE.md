@@ -5,7 +5,7 @@ desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "KE-SI-TE"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["unread_words"]
 attestations: ["KNZe49"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,22 +27,10 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KN/KNZe/KNZe49\|KNZe49]] | Knossos | Architecture | none |
 
-## Onomasticon
-
-| Field | Value |
-|---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
-| Entry | auto |
-| Occurrences | 1 in 1 documents |
-| Sites | Knossos |
-| Supports | Architecture 1 |
-
 ## Unread
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-KN Ze 49, signs on a Knossos building block that G. Owens reads from a mason's mark drawn after Hood. The piece lies outside GORILA and RILA-S1, and RILA-S1 does not admit the signs Owens reported at Knossos. No reading.
+KN Ze 49, three signs on a Knossos building block known only from Hood's drawing, which Hood reads as masons' marks; Owens reads KE-SI-TE and equates it with MA Ze 11 QE-SI-TE. Outside GORILA and Younger. No reading.
 
 <!-- END kaphtor:record -->

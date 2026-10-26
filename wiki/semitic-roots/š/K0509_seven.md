@@ -29,11 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | sebe (seba, fem. sebet) (CAD S 203) | CAD S 203 | gloss withheld |
+| Akkadian | sebe (seba, fem. sebet) (CAD S 203) | CAD S 203; Anderson–Moser 2024 root šbʿ | gloss withheld |
 | Arabic | sabʕat 'seven' (Lane 1297) | Lane 1297 |  |
-| Aramaic | šbʿ (Aramaic Root Atlas; DNWSI 1102 apud CAL) | Aramaic Root Atlas; DNWSI 1102; CAL | gloss withheld |
+| Aramaic | šbʿ (Aramaic Root Atlas; DNWSI 1102 apud CAL) | Aramaic Root Atlas; DNWSI 1102; CAL; Anderson–Moser 2024 root šbʿ | gloss withheld |
 | Hebrew | šebaʿ 'seven' | Anderson–Moser 2024 root šbʿ |  |
-| Punic | šbʿ (T 311); šbʿm (T 312) | T 311; T 312 | gloss withheld |
+| Punic | šbʿ (T 311); šbʿm (T 312) | T 311; T 312; Anderson–Moser 2024 root šbʿ | gloss withheld |
 | Ugaritic | šbʿ (DULAT 790) | DULAT 790 | gloss withheld |
 | Biblical Aramaic | \*šibʿā (HALOT 1399) | HALOT 1399 |  |
 | Epigraphic South Arabian | Sab. sbʿ (HALOT 1399; Sabaweb lemma 4974) | HALOT 1399; Sabaweb lemma 4974 | gloss withheld |

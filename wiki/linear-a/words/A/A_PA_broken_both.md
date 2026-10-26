@@ -25,7 +25,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KN/KN32a\|KN32a]] | Knossos | Tablet | none |
+| [[wiki/linear-a/inscriptions/KN/KN/KN32a\|KN32a]] | Knossos | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KN/KN/KN32a\|KN32a]] |  | broken group |  |
 
 ## Unread
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kararu |  |  |
+| Akkadian | kararû (CAD K 207; HSED 1433) | CAD K 207; HSED 1433 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

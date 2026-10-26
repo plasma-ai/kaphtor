@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T23:26:14Z
 ---
 
 # wiki/semitic-roots/s
@@ -47,7 +47,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/1650_dance|1650_dance]]: Proto-Semitic *sVwVr-, 'dance': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/s/1651_pelvis_crotch_curve_of_thigh_1_wrist_ankle_2|1651_pelvis_crotch_curve_of_thigh_1_wrist_ankle_2]]: Proto-Semitic *sinʕ- ~ *ṯVn(n)-, 'pelvis, crotch, curve of thigh' 1, 'wrist, ankle' 2: reflexes in 8 language(s).
+[[wiki/semitic-roots/s/1651_pelvis_crotch_curve_of_thigh_1_wrist_ankle_2|1651_pelvis_crotch_curve_of_thigh_1_wrist_ankle_2]]: Proto-Semitic *sinʕ- ~ *ṯVn(n)-, 'pelvis, crotch, curve of thigh' 1, 'wrist, ankle' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/s/1652_rake_up_1_purify_refine_2|1652_rake_up_1_purify_refine_2]]: Proto-Semitic *sVp-, 'rake up' 1, 'purify, refine' 2: reflexes in 2 language(s).
 
@@ -101,7 +101,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/266_lamb|266_lamb]]: Proto-Semitic *saḫ(V)l-, 'lamb': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/s/2701_to_count_recount_inscribe|2701_to_count_recount_inscribe]]: Proto-Semitic *sapVr-, 'to count, recount, inscribe': reflexes in 11 language(s).
+[[wiki/semitic-roots/s/2701_to_count_recount_inscribe|2701_to_count_recount_inscribe]]: Proto-Semitic *sapVr-, 'to count, recount, inscribe': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/s/2809_hide|2809_hide]]: Proto-Semitic *sVtVr-, 'hide': reflexes in 17 language(s).
 
@@ -123,8 +123,6 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/2892_support|2892_support]]: Proto-Semitic *sVnVd-, 'support': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/s/2909_sharpen|2909_sharpen]]: Proto-Semitic *sVḥVl-, 'sharpen': reflexes in 3 language(s).
-
 [[wiki/semitic-roots/s/2928_branch_lop_off|2928_branch_lop_off]]: Proto-Semitic *sVʕVp-, 'branch; lop off': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/s/2930_clap_slap|2930_clap_slap]]: Proto-Semitic *sVpVq-, 'clap, slap': reflexes in 2 language(s).
@@ -133,15 +131,13 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/3021_bronze|3021_bronze]]: Proto-Semitic *sVpVr-, 'bronze': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/s/3071_be_chief_lord|3071_be_chief_lord]]: Proto-Semitic *swd, 'be chief, lord': reflexes in 2 language(s).
-
 [[wiki/semitic-roots/s/3091_to_wait|3091_to_wait]]: Proto-Semitic *slb, 'to wait': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/s/311_kind_of_vessel|311_kind_of_vessel]]: Proto-Semitic *sapp-, 'kind of vessel': reflexes in 3 language(s).
+[[wiki/semitic-roots/s/311_kind_of_vessel|311_kind_of_vessel]]: Proto-Semitic *sapp-, 'kind of vessel': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/s/3123_separate_split|3123_separate_split]]: Proto-Semitic *sdḳ, 'separate, split': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/s/312_mug|312_mug]]: Proto-Semitic *sir-, 'mug': reflexes in 1 language(s).
+[[wiki/semitic-roots/s/312_mug_1_pot_cooking_pot_cauldron_2|312_mug_1_pot_cooking_pot_cauldron_2]]: Proto-Semitic *sir-, 'mug' 1, 'pot, cooking pot, cauldron' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/s/3137_to_forgive_pardon|3137_to_forgive_pardon]]: Proto-Semitic *slḥ, 'to forgive, pardon': reflexes in 3 language(s).
 
@@ -151,11 +147,23 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/3484_to_turn_aside_remove|3484_to_turn_aside_remove]]: Proto-Semitic *swr, 'to turn aside, remove': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/s/3559_confidential_talk_council|3559_confidential_talk_council]]: Proto-Semitic *swd, 'confidential talk; council': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/s/3560_to_pay_tribute|3560_to_pay_tribute]]: Proto-Semitic *slʾ, 'to pay; tribute': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/s/358_sealed_registered_possession_property_1_to_regis|358_sealed_registered_possession_property_1_to_regis]]: Proto-Semitic *sigill-, '(sealed) registered possession, property' 1, 'to register' 2: reflexes in 7 language(s).
+
+[[wiki/semitic-roots/s/3590_to_mourn_lament|3590_to_mourn_lament]]: Proto-Semitic *spd, 'to mourn, lament': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/s/363_curtain|363_curtain]]: Proto-Semitic *sahw-, 'curtain': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/s/364_garment|364_garment]]: Proto-Semitic *sū-t-, 'garment': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/s/3658_threshold_doorframe|3658_threshold_doorframe]]: Proto-Semitic *spp, 'threshold, doorframe': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/s/3668_to_mix|3668_to_mix]]: Proto-Semitic *swṭ, 'to mix': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/s/3674_to_take_away_by_force_strip_off_plunder|3674_to_take_away_by_force_strip_off_plunder]]: Proto-Semitic *slb, 'to take away by force, strip off, plunder': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/s/379_thorny_bush|379_thorny_bush]]: Proto-Semitic *sVn-, 'thorny bush': reflexes in 4 language(s).
 
@@ -165,7 +173,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/887_to_be_equal_to_be_worth_cost|887_to_be_equal_to_be_worth_cost]]: Proto-Semitic *siway-, 'to be equal; to be worth, cost': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/s/K0389_turn|K0389_turn]]: Proto-Semitic *sabab-, 'turn': reflexes in 9 language(s).
+[[wiki/semitic-roots/s/K0389_turn|K0389_turn]]: Proto-Semitic *sabab-, 'turn': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/s/K0390_order|K0390_order]]: Proto-Semitic *sadār-, 'order': reflexes in 9 language(s).
 
@@ -177,15 +185,11 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/K0395_image|K0395_image]]: Proto-Semitic *sVmVl-, 'image': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/s/K0397_lack|K0397_lack]]: Proto-Semitic *sanāq-, 'lack': reflexes in 2 language(s).
-
 [[wiki/semitic-roots/s/K0398_abduct|K0398_abduct]]: Proto-Semitic *sVpVy-, 'abduct': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/s/K0399_plait|K0399_plait]]: Proto-Semitic *sVrVg-, 'plait': reflexes in 6 language(s).
+[[wiki/semitic-roots/s/K0400_stop|K0400_stop]]: Proto-Semitic *satam-, 'stop': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/s/K0400_stop|K0400_stop]]: Proto-Semitic *satam-, 'stop': reflexes in 2 language(s).
-
-[[wiki/semitic-roots/s/K0401_careless|K0401_careless]]: Proto-Semitic *sVtVt-, 'careless': reflexes in 2 language(s).
+[[wiki/semitic-roots/s/K0401_careless|K0401_careless]]: Proto-Semitic *sVtVt-, 'careless': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/s/K0402_cease|K0402_cease]]: Proto-Semitic *suwp-, 'cease': reflexes in 5 language(s).
 
@@ -197,11 +201,11 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/s/K0408_press|K0408_press]]: Proto-Semitic *sVḫVm-, 'press': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/s/K0511_prostrate|K0511_prostrate]]: Proto-Semitic *sVgVd-, 'prostrate': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/s/K0523_support|K0523_support]]: Proto-Semitic *sVmVk-, 'support': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/s/S25_fine_flour_semolina|S25_fine_flour_semolina]]: Proto-Semitic *sult-, 'fine flour, semolina': reflexes in 5 language(s).
-
-[[wiki/semitic-roots/s/S33_pot_cooking_pot_cauldron|S33_pot_cooking_pot_cauldron]]: Proto-Semitic *sīr-, 'pot, cooking pot, cauldron': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/s/S64_to_expel|S64_to_expel]]: Proto-Semitic *sdd, 'to expel': reflexes in 2 language(s).
 

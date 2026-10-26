@@ -32,7 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Akkadian | bâtu (CAD B 169; AHw 124 apud SEDonline 1595) | CAD B 169; AHw 124; SEDonline 1595 | gloss withheld |
 | Ugaritic | bt (DUL 244 apud SEDonline 1595) | DUL 244; SEDonline 1595 | gloss withheld |
 | Biblical Aramaic | byt (HALOT 1833 apud SEDonline 1595) | HALOT 1833; SEDonline 1595 | gloss withheld |
-| Syrian Aramaic | bwt (LSyr. 63; SL 132 apud SEDonline 1595) | LSyr. 63; SEDonline 1595 | gloss withheld |
+| Syrian Aramaic | bwt (LSyr. 63; SL 132 apud SEDonline 1595) | LSyr. 63; SL 132; SEDonline 1595 | gloss withheld |
 | Mandaic Aramaic | but (MD 57 apud SEDonline 1595) | MD 57; SEDonline 1595 | gloss withheld |
 | Arabic | byt (Lane 279 apud SEDonline 1595) | Lane 279; SEDonline 1595 | gloss withheld |
 | Geez | betata (CDG 113 apud SEDonline 1595) | CDG 113; SEDonline 1595 | gloss withheld |

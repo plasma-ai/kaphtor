@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | bǝr (JM 54); bərt (Kogan 2011, 234) | JM 54; Kogan 2011, 234 | gloss withheld |
+| Mehri | bǝr (JM 54); bərt (Kogan 2011, 234) | JM 54; Kogan 2011 234 | gloss withheld |
 | Soqotri | bar (LS 95) | LS 95 |  |
 | Harsusi | ber (JH 19) | JH 19 |  |
 | East Ethiopic | Zwy yīn brät (LGur 156) | LGur 156 | gloss withheld |
@@ -43,13 +43,13 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab brw (SD 32; Sabaweb lemma 1981); Min brw (LM 24) | SD 32; Sabaweb lemma 1981; LM 24 | gloss withheld |
 | Judaic Aramaic | bar (Ja 188), bēr, bar (DJPA 97a apud CAL) | Ja 188; DJPA 97a; CAL |  |
 | Aramaic | DA, Sam, OAram OffAr, Nab, Palm, Hatra br (HJ 188-193); Sam bar (Tal 103) | HJ 188-193; Tal 103 |  |
-| Syrian Aramaic | bartā (Payne Smith 56); brā (Kogan 2011, 234) | Payne Smith 56; Kogan 2011, 234 | gloss withheld |
+| Syrian Aramaic | bartā (Payne Smith 56); brā (Kogan 2011, 234) | Payne Smith 56; Kogan 2011 234 | gloss withheld |
 | Mandaic Aramaic | braʾ (T 54) | T 54 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Hebrew bar (KB deutsch, 146) (&lt; Arm). Common MSA \*brw 'to give birth' (Mhr. bərō, Jib. bíri, Soq. bére) is unseparable from these nouns (Kogan 2011, 228). Kogan derives Mhr. bər, Jib. bɛr and Soq. bɛr from PWS \*bin- (Kogan 2015, ch. 2 §4.2 no. 12).
+Hebrew bar (KB deutsch 146) is a loan from Aramaic. Common MSA \*brw 'to give birth' (Mhr. bərō, Jib. bíri, Soq. bére) is inseparable from these nouns (Kogan 2011, 228). Kogan 2015 (ch. 2 §4.2 no. 12) derives Mhr. bər, Jib. bɛr and Soq. bɛr instead from PWS \*bin- (9).
 
 <!-- END kaphtor:record -->

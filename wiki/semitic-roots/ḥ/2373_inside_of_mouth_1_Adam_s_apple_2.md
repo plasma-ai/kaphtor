@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Soqotri | Qadhub ḥɛnṣ̌ǝ́ḳɔh SSL LS 1459 (&lt;\*ḥVnḳiḳ-). Cf. SOQ ḥanḳ \[LS 183\]. | SSL LS 1459; LS 183 | gloss withheld |
-| East Ethiopic | Sel hanḳa 1 (h- most likely &lt;\*ḥ-; cf. LGur LXIV), Zw anḳa1 |  |  |
+| Soqotri | Qadhub ḥɛnṣ̌ǝ́ḳɔh SSL LS 1459. Cf. SOQ ḥanḳ \[LS 183\]. | SSL LS 1459; LS 183 | gloss withheld |
+| East Ethiopic | Sel hanḳa 1 (cf. LGur LXIV), Zw anḳa1 |  |  |
 | Gurage | Ch End Enn Gye Muh Msq anḳa 1 LGur 68 | LGur 68 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | däfʾe, däfʿe (LGz. 124) | LGz. 124 | gloss withheld |
 | Amharic | däffa (LGz. 124) | LGz. 124 | gloss withheld |
 | Gurage | däffaʾa (LGz. 124) | LGz. 124 | gloss withheld |
-| Soqotri | dáfaˁ (LS 132; SLOnline 24876) | LS 132 | gloss withheld |
+| Soqotri | dáfaˁ (LS 132; SLOnline 24876) | LS 132; SLOnline 24876 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | QPṢ (Qumran 210 apud CAL) | CAL | gloss withheld |
-| Hebrew | qapaṣ 'draw together, shut' (BDB 891) | BDB 891 |  |
+| Aramaic | QPṢ (Qumran 210 apud CAL) | CAL; Anderson–Moser 2024 root qpṣ | gloss withheld |
+| Hebrew | qapaṣ 'draw together, shut' (BDB 891) | BDB 891; Anderson–Moser 2024 root qpṣ |  |
 | Judaic Aramaic | qəpaṣ (HALOT 1118; DJPA 500b apud CAL) | HALOT 1118; DJPA 500b; CAL |  |
 | Akkadian | kapāṣu (HALOT 1118) | HALOT 1118 |  |
 | Syrian Aramaic | qəpaṣ (HALOT 1118) | HALOT 1118 |  |

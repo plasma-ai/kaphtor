@@ -36,13 +36,13 @@ updated: 2026-10-22T17:38:31Z
 | Modern Arabic | Hdr ʔawādim; Daṯ ʔawādim |  | gloss withheld |
 | Phoenician | ʔdm (T 4) | T 4 | gloss withheld |
 | Hebrew | ʔādām |  |  |
-| Epigraphic South Arabian | Sab ʔdm, ʔdwm-t, ʔdym; Min ʔdm id.; Qat ʔdm (Kogan 2011, 232; Sabaweb lemma 1293) | Kogan 2011, 232; Sabaweb lemma 1293 | gloss withheld |
+| Epigraphic South Arabian | Sab ʔdm, ʔdwm-t, ʔdym; Min ʔdm; Qat ʔdm (Kogan 2011, 232; Sabaweb lemma 1293) | Kogan 2011 232; Sabaweb lemma 1293 | gloss withheld |
 | Punic | ʾdm 'person' | Anderson–Moser 2024 root ʾdm |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Tigrinya ˀaddam 'humanity, mankind, everybody' (TED 1530 apud SEDonline 575) is most likely the same loan as Geez ʔaddam 'Adam'. Arabic ʔādām- 'Adam' (&lt;Hbr); cf. ʔadīm- 'origin; provenance' (otherwise &lt; 'blood'). Mandaic Aramaic adam 'Adam' (&lt;Hbr). Geez ʔaddam 'Adam' (loanword); cf. dom 'slave'. Syrian Aramaic ʔādāmmāy 'human' (&lt;Hbr). Judaic Aramaic ʔādām (&lt;Hbr?).
+Tigrinya ˀaddam (TED 1530 apud SEDonline 575) is the same loan as Geez ʔaddam 'Adam'. Arabic ʔādām- 'Adam' (&lt;Hbr). Mandaic Aramaic adam 'Adam' (&lt;Hbr). Geez ʔaddam 'Adam' (loanword). Syrian Aramaic ʔādāmmāy 'human' (&lt;Hbr). Judaic Aramaic ʔādām (&lt;Hbr?).
 
 <!-- END kaphtor:record -->

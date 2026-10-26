@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/n/2709_vow_votive_offering
-title: "*nVdr-: 'vow, votive offering'"
-desc: "Proto-Semitic *nVdr-, 'vow, votive offering': reflexes in 14 language(s)."
+title: "*nVḏr-: 'vow, votive offering'"
+desc: "Proto-Semitic *nVḏr-, 'vow, votive offering': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2709"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *nVdr-: 'vow, votive offering'
+# *nVḏr-: 'vow, votive offering'
 
 [[wiki/semitic-roots/n/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*nVdr- |
+| Reconstruction | \*nVḏr- |
 | Meaning | 'vow, votive offering' |
 | Basis | project |
 
@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ndr (DULAT 613) | DULAT 613 | gloss withheld |
 | Phoenician | ndr (Krahmalkov 326) | Krahmalkov 326 | gloss withheld |
 | Hebrew | neder (HALOT 674) | HALOT 674 | gloss withheld |
-| Epigraphic South Arabian | Sab nḏr (SD 91; Biella 99, 294); (Sabaweb lemmas 4603, 4604) | SD 91; Biella 99, 294; Sabaweb lemmas 4603, 4604 | gloss withheld |
+| Epigraphic South Arabian | Sab nḏr (SD 91; Biella 99, 294) (Sabaweb lemmas 4603, 4604) | SD 91; Biella 99, 294; Sabaweb lemmas 4603, 4604 | gloss withheld |
 | Judaic Aramaic | nidrā; ndr (HALOT 674; DJPA 342a apud CAL) | HALOT 674; DJPA 342a; CAL |  |
 | Punic | ndr; ναδωρ (HALOT 674) | HALOT 674 |  |
 | Aramaic | ndr (HALOT 674; DNWSI 717 apud CAL) | HALOT 674; DNWSI 717; CAL |  |

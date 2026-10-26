@@ -32,10 +32,14 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫpy 3 |  |  |
 | Akkadian | ḫapû 1 |  |  |
-| Hebrew | ḥpy 2 \| ḥapaʾ |  | gloss withheld |
+| Hebrew | ḥpy 2 (HALOT 339); ḥapaʾ | HALOT 339; Anderson–Moser 2024 root ḫpʾ | gloss withheld |
 | Epigraphic South Arabian | ḫpy (HALOT 339) | HALOT 339 |  |
 | Syrian Aramaic | ḥpā 'to cover, hide; veil; expiate' (Payne Smith 153) | Payne Smith 153 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 339 reads Hebrew ḥpʾ (2K 17:9) 'to ascribe, impute', after Sept. 'to clothe', and compares Arabic with ?.
 
 <!-- END kaphtor:record -->

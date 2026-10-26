@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/K0410_yester
 title: "*timāl-: 'yester'"
-desc: "Proto-Semitic *timāl-, 'yester': reflexes in 9 language(s)."
+desc: "Proto-Semitic *timāl-, 'yester': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0410"
@@ -29,7 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | timāli; ittimāli (&lt; in(a) timāli) (HALOT 103) | HALOT 103 | gloss withheld |
+| Akkadian | timāli | HALOT 103; Anderson–Moser 2024 root tml | gloss withheld |
+| Geez | təmāləm 'yesterday' | Anderson–Moser 2024 root tml |  |
 | Syrian Aramaic | ʾetmāly (HALOT 103; Payne Smith 33) | HALOT 103; Payne Smith 33 |  |
 | Mandaic Aramaic | ʾitmal (HALOT 103) | HALOT 103 |  |
 | Hebrew | təmôl (HALOT 1746) | HALOT 1746 | gloss withheld |

@@ -29,10 +29,10 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab bʿd (Biella 49; Sabaweb lemma 2030); Sab bʿd, bʿdn (SD 25 apud SEDonline 1249; Sabaweb lemmas 2062, 2300); Min bʿd (LM 19 apud SEDonline 1249) | Biella 49; Sabaweb lemma 2030; SD 25; SEDonline 1249; Sabaweb lemmas 2062, 2300; LM 19; SEDonline 1249 | gloss withheld |
-| Arabic | Ar bʿd D id. (Biella 49); baʿuda, baʿda (LGz. 83) | Biella 49; LGz. 83 | gloss withheld |
+| Epigraphic South Arabian | Sab bʿd (Biella 49; Sabaweb lemma 2030); Sab bʿd, bʿdn (SD 25 apud SEDonline 1249; Sabaweb lemmas 2062, 2300); Min bʿd (LM 19 apud SEDonline 1249) | Biella 49; Sabaweb lemma 2030; SD 25; SEDonline 1249; Sabaweb lemmas 2062, 2300; LM 19 | gloss withheld |
+| Arabic | Ar bʿd D (Biella 49); baʿuda, baʿda (LGz. 83) | Biella 49; LGz. 83 | gloss withheld |
 | Geez | baʿada (LGz. 83) | LGz. 83 | gloss withheld |
-| Soqotri | baʿad (LGz. 83); báˁad (SLOnline 3473) | LGz. 83 | gloss withheld |
+| Soqotri | baʿad (LGz. 83); báˁad (SLOnline 3473) | LGz. 83; SLOnline 3473 | gloss withheld |
 | Syrian Aramaic | (ʾa)bʿed (LGz. 83) | LGz. 83 | gloss withheld |
 | Tigrinya | baʿdi (LGz. 83) | LGz. 83 | gloss withheld |
 | Tigre | baʿəd (LGz. 83) | LGz. 83 | gloss withheld |

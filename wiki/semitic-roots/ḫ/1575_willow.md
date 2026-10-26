@@ -31,9 +31,9 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ḫilēpu |  |  |
-| Judaic Aramaic | JBA ḥīlāpā (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Syrian Aramaic | ḥellāpā (Kogan 2011, 202) | Kogan 2011, 202 |  |
-| Arabic | ḫilāf- (Kogan 2011, 202) | Kogan 2011, 202 |  |
+| Judaic Aramaic | JBA ḥīlāpā (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Syrian Aramaic | ḥellāpā (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Arabic | ḫilāf- (Kogan 2011, 202) | Kogan 2011 202 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

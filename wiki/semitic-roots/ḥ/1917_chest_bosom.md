@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥawbāʔ- 'chest' \[BK 1 507\] | BK 1 507 |  |
-| Hebrew | PB ḥōb 'bosom' \[Ja 429\]. | Ja 429 |  |
+| Hebrew | PB ḥōb \[Ja 429\]; ḥōb (Jb 31:33) (HALOT 284) | Ja 429; HALOT 284 | gloss withheld |
 | Judaic Aramaic | ḥubbā \[Ja 429\]; ḥwb \[DJPA 189a apud CAL\] | Ja 429; DJPA 189a; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

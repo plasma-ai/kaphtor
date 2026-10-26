@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:44:10Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/P
@@ -55,7 +55,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/P/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA_NU_QE|PA_NU_QE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/P/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'; rival Amorite Banuq. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_RA|PA_RA]]: parr(u): skin, fleece (a hide with its wool); rival 'hair'. Lexicon, SPECULATIVE (tier 1).
 
@@ -67,7 +67,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/P/PA_RO_SU|PA_RO_SU]]: Parʿōš: personal or clan name, 'Flea'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Unread (edge overlap): gentilic; 1 occurrence(s).
+[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Unread (role only): gentilic; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PA_SE|PA_SE]]: Unread (role only): administrative heading; 2 occurrence(s).
 
@@ -83,7 +83,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/P/PA_ZA|PA_ZA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PA_star342_I|PA_star342_I]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/P/PA_star342_I|PA_star342_I]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PA_star47_broken_end|PA_star47_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -101,7 +101,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/P/PI_O|PI_O]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PI_RU_E_JU|PI_RU_E_JU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/P/PI_RU_E_JU|PI_RU_E_JU]]: Pirʾu-ʾēlu: personal name, 'Offspring of El'; rival 'Fruit of El'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_SA|PI_SA]]: Pīsa: personal or institutional name, a recipient. Lexicon, SPECULATIVE (tier 1).
 

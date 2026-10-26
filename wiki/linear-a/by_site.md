@@ -20,25 +20,25 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 322 | 303 |
-| Khania | 225 | 222 | 36 | 60 |
-| Phaistos | 66 | 48 | 7 | 32 |
-| Knossos | 58 | 52 | 12 | 37 |
-| Zakros | 53 | 40 | 5 | 76 |
-| Palaikastro | 25 | 25 | 9 | 33 |
+| Haghia Triada | 1,111 | 1,053 | 324 | 320 |
+| Khania | 225 | 222 | 36 | 63 |
+| Phaistos | 66 | 48 | 9 | 36 |
+| Knossos | 58 | 52 | 12 | 38 |
+| Zakros | 53 | 40 | 5 | 80 |
+| Palaikastro | 25 | 25 | 9 | 34 |
 | Malia | 22 | 11 | 0 | 9 |
 | Thera | 19 | 18 | 2 | 4 |
 | Iouktas | 16 | 16 | 12 | 17 |
-| Arkhanes | 12 | 9 | 2 | 19 |
+| Arkhanes | 12 | 9 | 2 | 20 |
 | Syme | 12 | 12 | 6 | 16 |
-| Petras | 11 | 11 | 3 | 13 |
+| Petras | 11 | 11 | 3 | 14 |
 | Kea | 8 | 8 | 1 | 2 |
 | Tylissos | 6 | 5 | 0 | 8 |
 | Gournia | 5 | 3 | 0 | 5 |
 | Miletos | 4 | 4 | 0 | 1 |
 | Pyrgos | 4 | 4 | 0 | 4 |
 | Apodoulou | 3 | 3 | 1 | 5 |
-| Crete | 3 | 3 | 1 | 6 |
+| Crete | 3 | 3 | 2 | 7 |
 | Milos | 3 | 3 | 0 | 3 |
 | Mokhlos | 3 | 3 | 0 | 1 |
 | Vrysinas | 3 | 3 | 1 | 2 |
@@ -61,7 +61,7 @@ Every number on this page is computed from the data files.
 | Kalo Chorafi | 1 | 1 | 0 | 0 |
 | Kamilari | 1 | 1 | 0 | 1 |
 | Kannia | 1 | 1 | 0 | 0 |
-| Kardamoutsa | 1 | 1 | 0 | 0 |
+| Kardamoutsa | 1 | 1 | 1 | 1 |
 | Kophinas | 1 | 1 | 1 | 8 |
 | Kophinas (?) | 1 | 1 | 0 | 1 |
 | Lachish | 1 | 1 | 1 | 0 |

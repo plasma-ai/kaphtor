@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔazara; ʾizār (HALOT 27) | HALOT 27 | gloss withheld |
+| Arabic | ʔazara; ʾizār (HALOT 27) | HALOT 27; Anderson–Moser 2024 root ʾzr | gloss withheld |
 | Hebrew | ʾazar 'gird' | Anderson–Moser 2024 root ʾzr |  |
 | Punic | ʾzr 'gird' | Anderson–Moser 2024 root ʾzr |  |
 | Ugaritic | ʾzr (CUC; DULAT 134); mizrtm (HALOT 27); /maʾzaru/?, pl. /maʾzarūma/? (UVST 105) | CUC; DULAT 134; HALOT 27; UVST 105 | gloss withheld |

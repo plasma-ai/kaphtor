@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3367_shoulder_blade
 title: "*mi-ḳraf-at-: 'shoulder blade'"
-desc: "Proto-Semitic *mi-ḳraf-at-, 'shoulder blade': reflexes in 2 language(s)."
+desc: "Proto-Semitic *mi-ḳraf-at-, 'shoulder blade': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3367"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*mi-ḳraf-at- |
 | Meaning | 'shoulder blade' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1382 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | məḳərfēt (ML 235 apud SEDonline 1382) | ML 235; SEDonline 1382 | gloss withheld |
 | Jibbali | miṣ̃ɔ́rfɔ́t (JL 149 apud SEDonline 1382) | JL 149; SEDonline 1382 | gloss withheld |
+| Soqotri | məḳrífo (Kogan 2015, ch. 8 §3.4.1 no. 62) | Kogan 2015 ch. 8 §3.4.1 no. 62 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

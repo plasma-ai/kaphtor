@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/1054_kill_1_to_fight_2_war_3
 title: "*lVḥum-: 'kill' 1, 'to fight' 2, 'war' 3"
-desc: "Proto-Semitic *lVḥum-, 'kill' 1, 'to fight' 2, 'war' 3: reflexes in 6 language(s)."
+desc: "Proto-Semitic *lVḥum-, 'kill' 1, 'to fight' 2, 'war' 3: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1054"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | lḥm (Krahmalkov 254) | Krahmalkov 254 | gloss withheld |
 | Hebrew | lḥm 2, milḥāmā 3 (HALOT 526, 589) | HALOT 526, 589 |  |
 | Ugaritic | lḥm (DULAT 492); mlḥmt (DULAT 542) | DULAT 492; DULAT 542 | gloss withheld |
+| Aramaic | lḥm, lḥmh (Kogan 2015, ch. 6 §9.1 no. 7) | Kogan 2015 ch. 6 §9.1 no. 7 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

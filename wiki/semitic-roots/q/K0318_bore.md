@@ -29,9 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | qāra 'cut' | Anderson–Moser 2024 root qwr |  |
-| Hebrew | quwr 'bore' (BDB 881) | BDB 881 |  |
+| Arabic | qāra (Lane 2574); qāra II (HALOT 1090) | Lane 2574; HALOT 1090; Anderson–Moser 2024 root qwr | gloss withheld |
+| Hebrew | quwr (BDB 881); qwr qal (2K 19:24) (HALOT 1090) | BDB 881; HALOT 1090; Anderson–Moser 2024 root qwr | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HALOT 1090 sets Sabaic, Geez, Tigre and Arabic wqr under qwr with cf. (3646 \*wḳr); Tsevat reads 2K 19:24 as qrr 'refresh oneself' (HALOT 1090).
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/3360_to_love
 title: "*ɣṣ̂n: 'to love'"
-desc: "Proto-Semitic *ɣṣ̂n, 'to love': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ɣṣ̂n, 'to love': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3360"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ɣṣ̂n |
 | Meaning | 'to love' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 464 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ɣáyẑən (ML 149 apud SEDonline 464) | ML 149; SEDonline 464 | gloss withheld |
 | Jibbali | ɣéẓ̂ən (JL 93 apud SEDonline 464) | JL 93; SEDonline 464 | gloss withheld |
+| Soqotri | ʿéẓ̂an (Kogan 2015, ch. 8 §3.4.1 no. 40) | Kogan 2015 ch. 8 §3.4.1 no. 40 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -55,7 +55,7 @@ Gordon 1966 §163
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT86b\|HT86b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95a\|HT95a]] | Haghia Triada | Tablet | complete |
@@ -65,6 +65,7 @@ Gordon 1966 §163
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | kunāšu | emmer wheat (heading) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | kunāšu | emmer wheat | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT86b\|HT86b]] | kunāšu | emmer wheat | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95a\|HT95a]] | kunāšu | emmer wheat | CONFIRMED |

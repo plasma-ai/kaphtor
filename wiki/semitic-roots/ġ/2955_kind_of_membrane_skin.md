@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ɣVrS- |
 | Meaning | 'kind of membrane, skin' |
-| Basis | project |
+| Basis | SED |
+| SED | SED II additions to SED I |
 
 ## Reflexes
 

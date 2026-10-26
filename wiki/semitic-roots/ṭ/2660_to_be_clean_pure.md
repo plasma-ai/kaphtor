@@ -38,13 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ṭeher (LGz. 589) | LGz. 589 | gloss withheld |
 | Tigre | ṭähara (LGz. 589) | LGz. 589 | gloss withheld |
 | Gurage | ṭuhara (LGz. 589) | LGz. 589 |  |
-| Epigraphic South Arabian | Sab ṭhr (Kogan 2015, ch. 2 §5.2.2.1 no. 35; Sabaweb lemma 5314) | Kogan 2015, ch. 2 §5.2.2.1 no. 35; Sabaweb lemma 5314 | gloss withheld |
+| Epigraphic South Arabian | Sab ṭhr (Kogan 2015, ch. 2 §5.2.2.1 no. 35; Sabaweb lemma 5314) | Kogan 2015 ch. 2 §5.2.2.1 no. 35; Sabaweb lemma 5314 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ṭhr (Al-Jallad–Jaworska 137) | Al-Jallad–Jaworska 137 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-From S4: Pan-Semitic. Central to temple/ritual vocabulary across all Semitic traditions.
 
 <!-- END kaphtor:record -->

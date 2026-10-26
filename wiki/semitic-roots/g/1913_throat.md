@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǧirān- 'lower part of the neck, towards the chest (in the horse or the camel); chest' \[BK 1 283\] | BK 1 283 |  |
 | Hebrew | gārōn (HALOT 202). | HALOT 202 | gloss withheld |
-| Syrian Aramaic | gǝnārā 'dewlap' \[Brock 126\] (metathesis); also gūnārā 'throat, dewlap' \[ibid.\] | Brock 126; ibid. |  |
+| Syrian Aramaic | gǝnārā 'dewlap' \[Brock 126\]; also gūnārā 'throat, dewlap' \[ibid.\] | Brock 126 |  |
 | Akkadian | girru, girānu (HALOT 202) | HALOT 202 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

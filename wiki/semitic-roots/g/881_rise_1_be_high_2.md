@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/881_rise_1_be_high_2
 title: "*gVʾVy-: 'rise' 1, 'be high' 2"
-desc: "Proto-Semitic *gVʾVy-, 'rise' 1, 'be high' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *gVʾVy-, 'rise' 1, 'be high' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "881"
@@ -30,9 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | gʔy 1 |  |  |
+| Hebrew | gʔy 1 (Kogan 2015, ch. 4 §3.2 no. 3) | Kogan 2015 ch. 4 §3.2 no. 3 |  |
 | Aramaic | gǝʔa 2 |  |  |
 | Syrian Aramaic | gaʔyā (LSyr. 99, SL 198 apud SEDonline 139) | LSyr. 99, SL 198; SEDonline 139 | gloss withheld |
+| Ugaritic | gʔan (Kogan 2015, ch. 4 §3.2 no. 3) | Kogan 2015 ch. 4 §3.2 no. 3 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

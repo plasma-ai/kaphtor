@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*rɣṣ̂ |
 | Meaning | 'to be soft' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2139 |
 
 ## Reflexes
 

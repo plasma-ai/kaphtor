@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṯkl 'to be deprived of one's child' \[BK 1 231\] | BK 1 231 |  |
 | Mandaic Aramaic | TKL \[DM 487\] | DM 487 | gloss withheld |
 | Ugaritic | ṯkl \[Aist 334\] | Aist 334 | gloss withheld |
-| Hebrew | škl (HALOT 1491, 1492); šakol (BDB 1014) | HALOT 1491, 1492; BDB 1014 | gloss withheld |
+| Hebrew | škl (HALOT 1491, 1492); šakol (BDB 1014) | HALOT 1491, 1492; BDB 1014; Anderson–Moser 2024 root škl | gloss withheld |
 | Judaic Aramaic | tǝkēl \[Ja 1668\], \[DJPA 581a apud CAL\] | Ja 1668; DJPA 581a; CAL | gloss withheld |
 | Syrian Aramaic | tǝkālā 'bereavement, childlessness' \[Brock 823\] | Brock 823 |  |
 | Aramaic | OLD h-škl-h \[HJ 1133\] (haph. suff.). | HJ 1133 | gloss withheld |

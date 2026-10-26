@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab šẓy (Biella 514); a variant of or error for šṣy (SD 137; Sabaweb lemma 2766) | Biella 514; SD 137; Sabaweb lemma 2766 | gloss withheld |
+| Epigraphic South Arabian | Sab šẓy (Biella 514) | Biella 514 | gloss withheld |
 | Modern Arabic | Central Ar. šaẓâ (Biella 523) | Biella 523 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

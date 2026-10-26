@@ -32,10 +32,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | naṣṣat- \[BK 2 1267\], \[TA XVIII 181\]. | BK 2 1267; TA XVIII 181 | gloss withheld |
 | Akkadian | naṣnaṣu SB \[CAD n2 49\], naṣnāṣu/û \[AHw. 757\] | CAD n2 49; AHw. 757 | gloss withheld |
-| Ugaritic | nṣ \[DULAT 637\] | DULAT 637; DLU | gloss withheld |
-| Phoenician | nṣ \[T 219\] | T 219; Krah. 48 | gloss withheld |
-| Hebrew | nēṣ (HALOT 714), nōṣā (HALOT 715), pB. \[Ja. 927\] | HALOT 714; HALOT 715; Ja. 927; Pope 260 | gloss withheld |
-| Judaic Aramaic | naṣṣā, nāṣā \[Ja. 927\], nǝṣāṣā, niṣǝṣā id. \[Ja. 929\], br nṣṣh \[DJPA 100 apud CAL\]. Cf. also nōṣīṣǝyētā \[Ja. 889\]. | Ja. 927; Ja. 929; DJPA 100; CAL; Ja. 889 | gloss withheld |
+| Ugaritic | nṣ \[DULAT 637\] | DULAT 637 | gloss withheld |
+| Phoenician | nṣ \[T 219\] | T 219 | gloss withheld |
+| Hebrew | nēṣ (HALOT 714), nōṣā (HALOT 715), pB. \[Ja. 927\] | HALOT 714; HALOT 715; Ja. 927 | gloss withheld |
+| Judaic Aramaic | naṣṣā, nāṣā \[Ja. 927\], nǝṣāṣā, niṣǝṣā \[Ja. 929\], br nṣṣh \[DJPA 100 apud CAL\]. Cf. also nōṣīṣǝyētā \[Ja. 889\]. | Ja. 927; Ja. 929; DJPA 100; CAL; Ja. 889 | gloss withheld |
 | Syrian Aramaic | neṣṣā 'hawk' \[Brock. 442\], \[PS 2434\]. | Brock. 442; PS 2434 |  |
 | Aramaic | Sam. nṣ, nṣṣ \[Tal 545\]. | Tal 545 | gloss withheld |
 

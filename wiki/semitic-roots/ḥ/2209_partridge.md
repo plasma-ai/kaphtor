@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥaǯal- 'male partridge' \[BK 1 384\], \[LA XI 143\]. Cf. also ḥāǯil- 'raven' \[BK 1 384\]. | BK 1 384; LA XI 143; BK 1 384 |  |
+| Arabic | ḥaǯal- 'male partridge' \[BK 1 384\], \[LA XI 143\]. Cf. also ḥāǯil- 'raven' \[BK 1 384\]. | BK 1 384; LA XI 143 |  |
 | Tigre | ḥagäl \[LH 98\]. | LH 98 | gloss withheld |
 | Syrian Aramaic | ḥaglā 'partridge' \[Brock. 214\], \[PS 1191\]. | Brock. 214; PS 1191 |  |
 

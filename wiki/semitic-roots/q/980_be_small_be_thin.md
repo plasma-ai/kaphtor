@@ -37,12 +37,12 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ḳayṭen |  |  |
 | Mandaic Aramaic | ḳotān- (CAL s.v. qwṭn) | CAL s.v. qwṭn | gloss withheld |
 | Geez | ḳṭn LGz 453 | LGz 453 | gloss withheld |
-| Jibbali | East ḳéṭǝn id. |  |  |
+| Jibbali | East ḳéṭǝn |  |  |
 | Hebrew | ḳāṭān; ḳāṭōn (HALOT 1092) | HALOT 1092 | gloss withheld |
 | Epigraphic South Arabian | Sab ḳṭn (Sabaweb lemma 4816) | Sabaweb lemma 4816 | gloss withheld |
 | Syrian Aramaic | ḳṭn 'grow thin' (Payne Smith 501) | Payne Smith 501 |  |
-| Aramaic | QṬN (Aramaic Root Atlas; CAL s.v. qṭn) | Aramaic Root Atlas; CAL s.v. qṭn | gloss withheld |
-| Punic | qṭn; qṭn (T 287) | T 287 | gloss withheld |
+| Aramaic | QṬN (Aramaic Root Atlas; CAL s.v. qṭn) | Aramaic Root Atlas; CAL s.v. qṭn; Anderson–Moser 2024 root qṭn | gloss withheld |
+| Punic | qṭn; qṭn (T 287) | T 287; Anderson–Moser 2024 root qṭn | gloss withheld |
 | Tigre | qaṭna (HALOT 1092) | HALOT 1092 |  |
 | Judaic Aramaic | qəṭīnā (HALOT 1092; DJPA 486a apud CAL) | HALOT 1092; DJPA 486a; CAL |  |
 | Ugaritic | qṭn (HALOT 1092) | HALOT 1092 |  |

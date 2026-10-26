@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["SI-RU"]
+words: ["MA-RE", "SI-RU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -66,12 +66,12 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> \[…\]KI-RO: MA-RE 1\[…\], \[…\]\*301 1, Ṣillu 1, NE-KU\[…\], \[…\]TU 1\[…\], PI\[…\]. \[damaged\]
+> \[…\]KI-RO: lord 1\[…\], \[…\]\*301 1, Ṣillu 1, NE-KU\[…\], \[…\]TU 1\[…\], PI\[…\]. \[damaged\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \]KI-RO |  | unread |  |  |
-| [[wiki/linear-a/words/M/MA_RE\|MA-RE]] | MA-RE | PN (unresolved); cf. MA-RU 1 (HT 117a) | SPECULATIVE | unread |
+| [[wiki/linear-a/words/M/MA_RE\|MA-RE]] | mārē | lord, master (title, the -MA-RE of JI-NU-MA-RE 'wine-lords'); rival a personal name | SPECULATIVE | SPECULATIVE (lexicon) |
 | \]\*301 |  | unread |  |  |
 | [[wiki/linear-a/words/S/SI_RU\|SI-RU]] | Ṣillu | PN Ṣillu, 'shade, protection' | CANDIDATE | CANDIDATE (lexicon) |
 | NE-\[ |  | unread |  |  |
@@ -79,7 +79,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Recto of HT55a/b. GORILA I 107: .1 \]KỊ-RỌ · MA-RE 1̣\[, .2 \]\*301 1 · SI-RU 1 · NE-\[, .3 \]TU 1\[, .4 vestiges. Every line is broken at the left. The layout is that of the KI-RO lists of persons, each with 1 (HT 88, HT 94b, HT 117a), so MA-RE, SI-RU and the broken words are names.
+Recto of HT55a/b. GORILA I 107: .1 \]KỊ-RỌ · MA-RE 1̣\[, .2 \]\*301 1 · SI-RU 1 · NE-\[, .3 \]TU 1\[, .4 vestiges. Every line is broken at the left. The layout is that of the KI-RO lists of persons, each with 1 (HT 88, HT 94b, HT 117a), so SI-RU and the broken words are names; MA-RE is the title mārē 'lord'.
 
 ### Source
 
@@ -87,7 +87,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/S/SI_RU|SI-RU]].
+[[wiki/linear-a/words/M/MA_RE|MA-RE]], [[wiki/linear-a/words/S/SI_RU|SI-RU]].
 
 ## Corpus note
 

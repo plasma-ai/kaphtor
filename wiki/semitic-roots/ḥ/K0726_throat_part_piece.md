@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0726_throat_part_piece
 title: "*ḥalaq-: 'throat', 'part', 'piece'"
-desc: "Proto-Semitic *ḥalaq-, 'throat', 'part', 'piece': reflexes in 11 language(s)."
+desc: "Proto-Semitic *ḥalaq-, 'throat', 'part', 'piece': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0726"
@@ -29,7 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ḥalaq 'divide' (BDB 323); ḥeleq 'portion' (BDB 324) | BDB 323; BDB 324 |  |
+| Geez | ḥəlq 'throat'; ḫʷallaqʷa 'count' | Anderson–Moser 2024 root ḥlq |  |
+| Hebrew | ḥalaq 'divide' (BDB 323); ḥeleq 'portion' (BDB 324) | BDB 323; BDB 324; Anderson–Moser 2024 root ḥlq |  |
 | Punic | ḥlq 'lot' | Anderson–Moser 2024 root ḥlq |  |
 | Aramaic | ḥlq (HALOT 323) | HALOT 323 |  |
 | Judaic Aramaic | ḥelqā (HALOT 323) | HALOT 323 |  |

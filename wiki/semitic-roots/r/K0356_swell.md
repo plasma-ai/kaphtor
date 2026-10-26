@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | rafaḫa 'swelled' | Anderson–Moser 2024 root rpḫ |  |
-| Aramaic | RPḤ (CAL s.v. rpḥ) | CAL s.v. rpḥ | gloss withheld |
+| Aramaic | RPḤ (CAL s.v. rpḥ) | CAL s.v. rpḥ; Anderson–Moser 2024 root rpḫ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

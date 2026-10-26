@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH20\|KH20]] | Khania | Tablet | incomplete; form not in transliteration |
 
 ## Unread
 

@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*š/sVl(V)ʕ- |
 | Meaning | '(kind of) disease causing scales on the skin; leprosy' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I No. 243 |
 
 ## Reflexes
 
@@ -38,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED I No. 243. Akk. š against Hbr. and Jud. s leaves the sibilant open, and Arb. ʔaslaɣ- 'leprous' allows \*ɣ as the third radical. Cf. Akk. šīlu (šēlu) 'a perforation', šalattinnu 'an illness', salāʔu 'become ill', silītu (salaʔtu) 'illness'; Arb. sāliḫ- 'gale'; Amh. su(l)lo (SED I 214–215). Not 1777 \*šVlaʕ- 'pierce, split'.
+Not 1777 \*šVlaʕ- 'pierce, split'.
 
 <!-- END kaphtor:record -->

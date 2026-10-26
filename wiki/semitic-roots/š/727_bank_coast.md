@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sīf- |  |  |
+| Arabic | sīf- 'the shore of the sea or of a great river; the side of a valley' (Lane 1485) | Lane 1485 |  |
 | Jibbali | sif-t |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

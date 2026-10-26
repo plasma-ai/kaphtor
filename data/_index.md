@@ -13,6 +13,8 @@ updated: 2026-10-22T18:32:09Z
 
 [[data/ane/_index|ane/]]: Open-licence ANE datasets: the Akkadian literary glossary, PNM v6 and place authorities.
 
+[[data/contact/_index|contact/]]: The open Semitic contact lexica that the root index links to the Proto-Semitic roots: Hebrew, Aramaic, Amarna Canaanite, Syriac and Akkadian, each with a datasheet.
+
 [[data/linear-a/_index|linear-a/]]: The Linear A corpus, sign values, lexicon, translations, onomasticon and unread words, and the Eteocretan inscriptions, each with a datasheet.
 
 [[data/semitic-roots/_index|semitic-roots/]]: The comparative Semitic root database and the consonant correspondence table, with a datasheet.

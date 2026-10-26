@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | karāṣu 'break' | Anderson–Moser 2024 root qrṣ |  |
-| Arabic | qaraṣa 'pinched' (Lane 2514) | Lane 2514 |  |
+| Arabic | qaraṣa 'pinched' (Lane 2514) | Lane 2514; Anderson–Moser 2024 root qrṣ |  |
 | Geez | qaraṣa 'incise' | Anderson–Moser 2024 root qrṣ |  |
 | Hebrew | qaraṣ 'nip, pinch' (BDB 902) | BDB 902 |  |
 | Ugaritic | qrṣ 'nibble' | Anderson–Moser 2024 root qrṣ |  |

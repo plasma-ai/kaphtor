@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | durdur- 'jaw (without the teeth); fallen-out teeth' \[BK 1 687\]; cf. ʔadrad- 'toothless' \[ibid. 2 687\] (pattern of physical defect); ʔadram-; drm. | BK 1 687; ibid. 2 687 |  |
+| Arabic | durdur- 'jaw (without the teeth); fallen-out teeth' \[BK 1 687\]; cf. ʔadrad- 'toothless' \[BK 1 687\]; ʔadram-; drm. | BK 1 687 |  |
 | Tigre | dǝrdǝr gäʔa \[LH 522-3\] | LH 522-3 | gloss withheld |
-| Amharic |  | K 1752 | source's text withheld |
+| Amharic | däräddärä \[K 1752\] | K 1752 | gloss withheld |
 | Judaic Aramaic | dǝrārā 'gum' \[Ja 325\]; duršinnē. | Ja 325 |  |
 | Syrian Aramaic | dūrā, dawrā, dawrǝtā 'tooth sockets' \[Brock 147\] | Brock 147 |  |
 | Akkadian | dūru; darru; dūr šinni (SED I 53) | SED I 53 |  |

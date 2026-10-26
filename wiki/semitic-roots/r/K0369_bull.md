@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0369_bull
 title: "*rVʾVm-: 'bull'"
-desc: "Proto-Semitic *rVʾVm-, 'bull': reflexes in 3 language(s)."
+desc: "Proto-Semitic *rVʾVm-, 'bull': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0369"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | rīmu 'wild bull' | Anderson–Moser 2024 root rʾm |  |
+| Geez | rəʾim 'wild' | Anderson–Moser 2024 root rʾm |  |
 | Hebrew | rʾem 'bull' | Anderson–Moser 2024 root rʾm |  |
 | Ugaritic | rum 'wild' | Anderson–Moser 2024 root rʾm |  |
 

@@ -29,12 +29,12 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Eblaitic | áš-kà-lum, iš₁₁-kà-um (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Ugaritic | ʾuṯkl (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Hebrew | ʾäškōl (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Judaic Aramaic | JBA ʾitkālā (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Arabic | ʾiṯkāl- (Kogan 2011, 204) | Kogan 2011, 204 |  |
-| Geez | ʾaskāl (Kogan 2011, 204) | Kogan 2011, 204 |  |
+| Eblaitic | áš-kà-lum, iš₁₁-kà-um (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Ugaritic | ʾuṯkl (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Hebrew | ʾäškōl (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Judaic Aramaic | JBA ʾitkālā (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Arabic | ʾiṯkāl- (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Geez | ʾaskāl (Kogan 2011, 204) | Kogan 2011 204 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | riway-, rwy (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015, ch. 2 §4.2 no. 53 | gloss withheld |
+| Arabic | riway-, rwy (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015 ch. 2 §4.2 no. 53 | gloss withheld |
 | Soqotri | re, riho |  | gloss withheld |
-| Geez | rawaya (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015, ch. 2 §4.2 no. 53 | gloss withheld |
+| Geez | rawaya (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015 ch. 2 §4.2 no. 53 | gloss withheld |
 | Hebrew | rwy |  | gloss withheld |
-| Epigraphic South Arabian | h-rwy (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015, ch. 2 §4.2 no. 53 | gloss withheld |
+| Epigraphic South Arabian | h-rwy (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015 ch. 2 §4.2 no. 53 | gloss withheld |
 | Syrian Aramaic | rwy |  | gloss withheld |
 | Judaic Aramaic | rwy (HALOT 1194) | HALOT 1194 |  |
 | Aramaic | rwy, \*rwy (HALOT 1194, 1195) | HALOT 1194, 1195 |  |
@@ -42,8 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | rawā, rāwī (HALOT 1194, 1195) | HALOT 1194, 1195 |  |
 | Tigre | räwa (LGz. 478) | LGz. 478 |  |
 | Amorite | rwj: jārwī (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
-| Mehri | ráywi (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
-| Jibbali | rē (Kogan 2011, 239) | Kogan 2011, 239 | gloss withheld |
+| Mehri | ráywi (Kogan 2011, 239) | Kogan 2011 239 | gloss withheld |
+| Jibbali | rē (Kogan 2011, 239) | Kogan 2011 239 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic rwy (Al-Jallad–Jaworska 118) | Al-Jallad–Jaworska 118 | gloss withheld |
 | Harsusi | rewō or rewī (HL 106 apud SEDonline 11) | HL 106; SEDonline 11 | gloss withheld |
 

@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Amharic ʔamballa 'a white aquatic bird which travels in flocks' (K 1128), commented upon as "a Tigre word".
+Amharic ʔamballa (K 1128) is marked as a Tigre word.
 
 <!-- END kaphtor:record -->

@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | yāḥēp (Kogan 2015, ch. 3 §5.3 no. 11) | Kogan 2015, ch. 3 §5.3 no. 11 | gloss withheld |
-| Syrian Aramaic | ḥepyay, nḥp (Kogan 2015, ch. 3 §5.3 no. 11) | Kogan 2015, ch. 3 §5.3 no. 11 | gloss withheld |
-| Arabic | ḥpy (Kogan 2015, ch. 3 §5.3 no. 11) | Kogan 2015, ch. 3 §5.3 no. 11 | gloss withheld |
+| Hebrew | yāḥēp (Kogan 2015, ch. 3 §5.3 no. 11) | Kogan 2015 ch. 3 §5.3 no. 11 | gloss withheld |
+| Syrian Aramaic | ḥepyay, nḥp (Kogan 2015, ch. 3 §5.3 no. 11) | Kogan 2015 ch. 3 §5.3 no. 11 | gloss withheld |
+| Arabic | ḥpy (Kogan 2015, ch. 3 §5.3 no. 11) | Kogan 2015 ch. 3 §5.3 no. 11 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,12 +31,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | gwr 2 |  |  |
-| Hebrew | gwr 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015, ch. 2 §5.2.2.1 no. 8 |  |
+| Hebrew | gwr 1 (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015 ch. 2 §5.2.2.1 no. 8 |  |
 | Epigraphic South Arabian | Sab gwr (Biella 68-9; Sabaweb lemma 4177) | Biella 68-9; Sabaweb lemma 4177 | gloss withheld |
 | Geez | tagāwara (LGz. 207) | LGz. 207 | gloss withheld |
 | Tigre | gōra (HALOT 184) | HALOT 184 |  |
-| Ugaritic | gr (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015, ch. 2 §5.2.2.1 no. 8 | gloss withheld |
-| Syrian Aramaic | giyyorā (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015, ch. 2 §5.2.2.1 no. 8 | gloss withheld |
+| Ugaritic | gr (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015 ch. 2 §5.2.2.1 no. 8 | gloss withheld |
+| Syrian Aramaic | giyyorā (Kogan 2015, ch. 2 §5.2.2.1 no. 8) | Kogan 2015 ch. 2 §5.2.2.1 no. 8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

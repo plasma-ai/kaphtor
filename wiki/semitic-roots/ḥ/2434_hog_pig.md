@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | Eg., Maghr. dial. ḥallūf- Wehr 183 (&lt;Berb.?) |  |  |
+| Arabic | Eg., Maghr. dial. ḥallūf- Wehr 183 | Wehr 183 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

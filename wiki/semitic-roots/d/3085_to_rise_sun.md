@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*dnḥ |
 | Meaning | 'to rise (sun)' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1398 |
 
 ## Reflexes
 

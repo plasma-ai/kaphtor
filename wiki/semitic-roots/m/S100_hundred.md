@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/S100_hundred
 title: "*mʾt: 'hundred'"
-desc: "Proto-Semitic *mʾt, 'hundred': reflexes in 16 language(s)."
+desc: "Proto-Semitic *mʾt, 'hundred': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S100"
@@ -29,7 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | mi-at/me-at (OLA80 §35.20) | OLA80 §35.20 |  |
+| Akkadian | mi-at/me-at (OLA80 §35.20); meʾatu | OLA80 §35.20; Anderson–Moser 2024 root mʾt | gloss withheld |
+| Hebrew | mēʾā (OLA80 §35.20) | OLA80 §35.20 |  |
+| Arabic | miʾat (OLA80 §35.20) | OLA80 §35.20 |  |
+| Ugaritic | mit 'hundred' | Anderson–Moser 2024 root mʾt |  |
+| Punic | mʾt '100' | Anderson–Moser 2024 root mʾt |  |
+| Aramaic | mʾh (DNWSI 586 apud CAL) | DNWSI 586; CAL; Anderson–Moser 2024 root mʾt | gloss withheld |
 | Phoenician | mʾtm (HALOT 538) | HALOT 538 | gloss withheld |
 | Mandaic Aramaic | mʾ (HALOT 538) | HALOT 538 |  |
 | Epigraphic South Arabian | mʾt (HALOT 538; Sabaweb lemma 1468) | HALOT 538; Sabaweb lemma 1468 | gloss withheld |

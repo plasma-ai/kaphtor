@@ -35,7 +35,7 @@ updated: 2026-10-25T05:11:48Z
 | Arabic | ḫlq (Lane 800 apud SEDonline 794) | Lane 800; SEDonline 794 | gloss withheld |
 | Geez | ḫalḳa (CDG 261 apud SEDonline 794) | CDG 261; SEDonline 794 | gloss withheld |
 | Tigre | ḥalḳa (WTS 54 apud SEDonline 794) | WTS 54; SEDonline 794 | gloss withheld |
-| Tigrinya | ḥaläḳä (CDG 261 apud SEDonline 794); ḥaläḳ̌ä (TED 152 apud SEDonline 794) | CDG 261; SEDonline 794; TED 152; SEDonline 794 | gloss withheld |
+| Tigrinya | ḥaläḳä (CDG 261 apud SEDonline 794); ḥaläḳ̌ä (TED 152 apud SEDonline 794) | CDG 261; SEDonline 794; TED 152 | gloss withheld |
 | Amharic | alläḳä (CDG 261 apud SEDonline 794) | CDG 261; SEDonline 794 | gloss withheld |
 | Argobba | ḥallɛḳ (Wetter 2010:235, AAD 267 apud SEDonline 794) | Wetter 2010:235, AAD 267; SEDonline 794 | gloss withheld |
 | Gurage | Cha. Gye. anäḳä, Ezha Muh. annäḳä, End. annäˀä, Enn. anäˀä, Msq. Sod. alläḳä, Gog. Sod. alläˀä (EDG 40 apud SEDonline 794) | EDG 40; SEDonline 794 | gloss withheld |

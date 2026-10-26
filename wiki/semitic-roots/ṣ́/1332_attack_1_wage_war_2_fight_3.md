@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḍbʔ 3 |  |  |
 | Geez | ḍbʔ 2 |  |  |
 | Hebrew | ṣbʔ 2 |  |  |
-| Epigraphic South Arabian | ḍbʔ 1 \| Sab ḍbʾ (SD 40; Biella 433; Sabaweb lemma 1553) | SD 40; Biella 433; Sabaweb lemma 1553 | gloss withheld |
+| Epigraphic South Arabian | Sab ḍbʾ 1 (SD 40; Biella 433; Sabaweb lemma 1553) | SD 40; Biella 433; Sabaweb lemma 1553 | gloss withheld |
 | Tigrinya | ḍbʔ 3 |  |  |
 | Amharic | ṭäb (LGz. 545) | LGz. 545 | gloss withheld |
 | Gurage | ṭäb-äňňä (LGz. 545) | LGz. 545 | gloss withheld |
@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Biella (433): Eth. ḍabʾa, Heb. ṣābāʾ id.; cf. Arb. ḍabaʾa 'come forth unexpectedly' (Lane 1763A); Sab. ṣbʾ 'fight, wage war' probably a by-form of ḍbʾ.
+Biella 433 takes Sabaic ṣbʾ as a by-form of ḍbʾ. Cf. Arabic ḍabaʾa 'come forth unexpectedly' (Lane 1763).
 
 <!-- END kaphtor:record -->

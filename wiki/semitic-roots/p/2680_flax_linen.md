@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/p/2680_flax_linen
-title: "*pištay-: 'flax, linen'"
-desc: "Proto-Semitic *pištay-, 'flax, linen': reflexes in 3 language(s)."
+title: "*piṯt-: 'flax, linen'"
+desc: "Proto-Semitic *piṯt-, 'flax, linen': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2680"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *pištay-: 'flax, linen'
+# *piṯt-: 'flax, linen'
 
 [[wiki/semitic-roots/p/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*pištay- |
+| Reconstruction | \*piṯt- |
 | Meaning | 'flax, linen' |
 | Basis | project |
 

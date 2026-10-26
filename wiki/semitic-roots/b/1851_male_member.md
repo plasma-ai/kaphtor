@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔibrat- \[Blachère 7\] |  | gloss withheld |
-| Modern Arabic | DAṮ burrat 'glans of the penis' \[GD 145\], (redupl.) barbūr \[GD 147\], OMN barbur 'penis' \[RO 55\] | GD 145; GD 147; RO 55 |  |
+| Arabic | ʔibrat- \[Blachère 7\] | Blachère 7 | gloss withheld |
+| Modern Arabic | DAṮ burrat 'glans of the penis' \[GD 145\], barbūr \[GD 147\], OMN barbur 'penis' \[RO 55\] | GD 145; GD 147; RO 55 |  |
 | Hebrew | PB ʔēbär 'genital member' \[Ja 9\] | Ja 9 |  |
 | Judaic Aramaic | ʔēbārā, ʔēbǝrā 'genital member' \[Ja 44\] | Ja 44 |  |
-| Aramaic | OFF ʔbr \[HJ 7\] (meaning uncertain) | HJ 7 | gloss withheld |
+| Aramaic | OFF ʔbr \[HJ 7\] | HJ 7 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

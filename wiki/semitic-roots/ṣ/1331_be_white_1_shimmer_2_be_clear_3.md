@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṣhw \[-u-, -a-\] 3 |  |  |
+| Arabic | ṣḥw \[-u-, -a-\] 3 (Lane 1656) | Lane 1656 |  |
 | Soqotri | ṣḥy 3 |  |  |
 | Tigre | ṣhy 3 |  |  |
 | Geez | ṣḥw 3 |  |  |

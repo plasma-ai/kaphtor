@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | naḳḳār- 'a kind of bird of the passerine genus' \[BK 2 1323\], \[Fr. IV 322\]. | BK 2 1323; Fr. IV 322 |  |
-| Mehri | noḳḳôr \[Jahn 217\] | Jahn 217; JM 289; Jahn 216 | gloss withheld |
+| Mehri | noḳḳôr \[Jahn 217\] | Jahn 217 | gloss withheld |
 | Judaic Aramaic | nǝḳīrā 'name of small birds (pickers)' \[Ja. 933\]. | Ja. 933 |  |
 | Syrian Aramaic | nāḳar ʔīlānē 'hoopoe (or rather magpie)' \[Brock. 448\], \[PS 2462\] (literally, 'picking-the-trees', an active participle from nǝḳar 'he/she dug, dug through' \[Brock. 447\]). | Brock. 448; PS 2462; Brock. 447 |  |
 

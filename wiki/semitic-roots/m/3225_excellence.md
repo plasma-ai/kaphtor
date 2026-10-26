@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | mägäd (Kogan 2015, ch. 3 §5.2 no. 37) | Kogan 2015, ch. 3 §5.2 no. 37 | gloss withheld |
-| Syrian Aramaic | magdā (Kogan 2015, ch. 3 §5.2 no. 37) | Kogan 2015, ch. 3 §5.2 no. 37 | gloss withheld |
-| Arabic | maǯd- (Kogan 2015, ch. 3 §5.2 no. 37) | Kogan 2015, ch. 3 §5.2 no. 37 | gloss withheld |
+| Hebrew | mägäd (Kogan 2015, ch. 3 §5.2 no. 37) (HALOT 543); mǝgādîm (pl.) (HALOT 543) | Kogan 2015 ch. 3 §5.2 no. 37; HALOT 543 | gloss withheld |
+| Syrian Aramaic | magdā (Kogan 2015, ch. 3 §5.2 no. 37; HALOT 543) | Kogan 2015 ch. 3 §5.2 no. 37; HALOT 543 | gloss withheld |
+| Arabic | maǯd- (Kogan 2015, ch. 3 §5.2 no. 37; Lane 2690) | Kogan 2015 ch. 3 §5.2 no. 37; Lane 2690 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

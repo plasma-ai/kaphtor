@@ -30,17 +30,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥiṯ̣ār-, ḥiṣār-1, ḥaḍr- |  | gloss withheld |
+| Arabic | ḥiṯ̣ār-, ḥiṣār- 1, ḥaḍr- |  | gloss withheld |
 | Akkadian | ḫaṣāru 1 |  |  |
 | Ugaritic | ḥẓr |  |  |
 | Geez | ḥaṣur 1 |  |  |
-| Phoenician | ḥṣr 3 |  |  |
+| Phoenician | ḥṣr 3 (Krahmalkov 195; T 112) | Krahmalkov 195; T 112 | gloss withheld |
 | Jibbali | ḥoṣor |  | gloss withheld |
 | Hebrew | ḥāṣer 2,3 |  |  |
 | Epigraphic South Arabian | ḥṣwr 4 |  |  |
 | Syrian Aramaic | ḥǝṣārā 3 |  |  |
 | Tigre | ḥaṣur (OLA80 §31.32) | OLA80 §31.32 | gloss withheld |
-| Punic | ḥdr 'chamber' | Anderson–Moser 2024 root ḥḍr |  |
+| Punic | ḥdr; Neo-Punic ḥṣrt 3 (Krahmalkov 195; T 112) | Krahmalkov 195; T 112; Anderson–Moser 2024 root ḥḍr | gloss withheld |
 | Judaic Aramaic | ḥuṭrā (HALOT 345; DJBA 450a apud CAL) | HALOT 345; DJBA 450a; CAL |  |
 | Aramaic | ḥyrtʾ (HALOT 345) | HALOT 345 |  |
 | Tigrinya | ḥaṣärä (LGz. 247) | LGz. 247 | gloss withheld |

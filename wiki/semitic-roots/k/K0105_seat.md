@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | korsēˀ (HALOT 1902 apud SEDonline 318) | HALOT 1902; SEDonline 318 | gloss withheld |
 | Judaic Aramaic | JPA kwrsy (DJPA 254 apud SEDonline 318) | DJPA 254; SEDonline 318 | gloss withheld |
 | Syrian Aramaic | kursyā (LSyr. 348, SL 614 apud SEDonline 318) | LSyr. 348, SL 614; SEDonline 318 | gloss withheld |
-| Modern Aramaic | Maal. korsa (GNDM 50 apud SEDonline 318) | SEDonline 318 | gloss withheld |
+| Modern Aramaic | Maal. korsa (GNDM 50 apud SEDonline 318) | GNDM 50; SEDonline 318 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

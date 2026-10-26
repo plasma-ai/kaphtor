@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕšb a,4 (Lane 2049) | Lane 2049 |  |
-| Hebrew | ʿēŝäb (Kogan 2011, 200) | Kogan 2011, 200 | gloss withheld |
-| Syrian Aramaic | ʿesbā (Kogan 2011, 200) | Kogan 2011, 200 | gloss withheld |
-| Akkadian | ešēbu (HALOT 889) | HALOT 889 |  |
+| Hebrew | ʿēŝäb (Kogan 2011, 200) | Kogan 2011 200 | gloss withheld |
+| Syrian Aramaic | ʿesbā (Kogan 2011, 200) | Kogan 2011 200 | gloss withheld |
+| Akkadian | ešēbu, D uššubu (CAD E 352; HALOT 889); uššubu adj. (CAD U/W 309) | CAD E 352; HALOT 889; CAD U/W 309 | gloss withheld |
 | Biblical Aramaic | ʿiśbā (HALOT 889) | HALOT 889 | gloss withheld |
 | Aramaic | Palm. ʿšb (HALOT 889) | HALOT 889 |  |
 | Judaic Aramaic | ʿiś/sbā (HALOT 889) | HALOT 889 | gloss withheld |

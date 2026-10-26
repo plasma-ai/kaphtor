@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fʔy \[-a-\] 1, 2 (Lane 2326) | Lane 2326 |  |
-| Hebrew | pʔy 1 |  |  |
+| Hebrew | pʔy 1; pʾh hif. (HALOT 907) | HALOT 907 | gloss withheld |
 | Epigraphic South Arabian | pʾy (HALOT 907) | HALOT 907 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

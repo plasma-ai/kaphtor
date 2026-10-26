@@ -43,6 +43,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KA_NU\|A-KA-NU]] | ʾagānu | CONFIRMED |
 | [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | ʿAnānu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Dimenu | SPECULATIVE |
@@ -54,8 +55,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | PROBABLE |
 | [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn | SPECULATIVE |
 | [[wiki/linear-a/words/N/NU_RO\|NU-RO]] | nūr- | CANDIDATE |
-| [[wiki/linear-a/words/N/NU_TI\|NU-TI]] | nuti | PROBABLE |
+| [[wiki/linear-a/words/N/NU_TI\|NU-TI]] | nuti | CANDIDATE |
 | [[wiki/linear-a/words/N/NU_WI\|NU-WI]] | nōwē / nwē | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_NU_MA\|QA-NU-MA]] | qanūma | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
@@ -63,6 +65,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯaniya | SPECULATIVE |
+| [[wiki/linear-a/words/T/TU_NU\|TU-NU]] | Tunu | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | CANDIDATE |
 
 <!-- END kaphtor:record -->

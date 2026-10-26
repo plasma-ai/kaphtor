@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʕeḍ |  |  |
 | Phoenician | ʿṣ (Krahmalkov 384) | Krahmalkov 384 | gloss withheld |
 | Hebrew | ʕēṣ (HALOT 863) | HALOT 863 | gloss withheld |
-| Punic | ʿṣ 'wood;' | Anderson–Moser 2024 root ʿṣ |  |
+| Punic | ʿṣ 'wood' | Anderson–Moser 2024 root ʿṣ |  |
 | Biblical Aramaic | ʾāʿ (HALOT 863) | HALOT 863 |  |
 | Judaic Aramaic | ʾāʿ (HALOT 863) | HALOT 863 |  |
 | Arabic | ʿiḍat (HALOT 863, 867) | HALOT 863, 867 |  |
@@ -47,8 +47,8 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | ənč̣a (LGz. 57) | LGz. 57 |  |
 | Harari | inč̣i (LGz. 57) | LGz. 57 |  |
 | Gurage | äč̣č̣ä (LGz. 57) | LGz. 57 |  |
-| Eblaitic | ì-ṣú (Kogan 2011, 199; VE 411; Krebernik 1983, 16) | Kogan 2011, 199; VE 411; Krebernik 1983, 16 |  |
-| East Ethiopic | Wol ənč̣e (Kogan 2015, ch. 7 §2.2 no. 90) | Kogan 2015, ch. 7 §2.2 no. 90 | gloss withheld |
+| Eblaitic | ì-ṣú (Kogan 2011, 199; VE 411; Krebernik 1983, 16) | Kogan 2011 199; VE 411; Krebernik 1983, 16 |  |
+| East Ethiopic | Wol ənč̣e (Kogan 2015, ch. 7 §2.2 no. 90) | Kogan 2015 ch. 7 §2.2 no. 90 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

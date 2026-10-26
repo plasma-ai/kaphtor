@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | (?) dabarat- 'cough, whooping cough' \[Dozy 1 422\], with a shift of meaning? | Dozy 1 422 |  |
+| Arabic | (?) dabarat- 'cough, whooping cough' \[Dozy 1 422\] | Dozy 1 422 |  |
 | Akkadian | (?) dibiru SB on \[CAD d 134\], \[AHw 168\]. | CAD d 134; AHw 168 | gloss withheld |
 | Tigre | däbǝr \[LH 527\]. | LH 527 | gloss withheld |
 | Ugaritic | dbr \[DULAT 262\]. | DULAT 262 | gloss withheld |

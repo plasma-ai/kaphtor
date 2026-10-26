@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*mrt |
 | Meaning | 'to be red-hot' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1470 |
 
 ## Reflexes
 

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | QŠB (CAL s.v. qšb) | CAL s.v. qšb | gloss withheld |
+| Aramaic | QŠB (CAL s.v. qšb) | CAL s.v. qšb; Anderson–Moser 2024 root qšb | gloss withheld |
 | Hebrew | qašab 'incline (the ear), attend' (BDB 904) | BDB 904 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

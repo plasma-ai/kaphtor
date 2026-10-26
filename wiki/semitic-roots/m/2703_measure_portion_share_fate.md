@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | manā 'to test, try; fate' (BK 2, 1158); manan 'weight of two pounds; fixed quantity; fate' (BK 2, 1159) | BK 2, 1158; BK 2, 1159 |  |
 | Akkadian | manû (CAD M/1 221) | CAD M/1 221 | gloss withheld |
 | Ugaritic | mnt (DULAT 558) | DULAT 558 | gloss withheld |
-| Hebrew | mānā (HALOT 599); māneh (HALOT 599) | HALOT 599; HALOT 599 | gloss withheld |
+| Hebrew | mānā (HALOT 599); māneh (HALOT 599) | HALOT 599 | gloss withheld |
 | Aramaic | mintā (HALOT 603) | HALOT 603 |  |
 | Geez | mənnān (LGz. 351) | LGz. 351 | gloss withheld |
 | Amharic | mən(n)an (LGz. 351) | LGz. 351 | gloss withheld |

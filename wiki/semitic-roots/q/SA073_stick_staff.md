@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab qḍb (SD 104; Biella 465; Sabaweb lemma 4755) | SD 104; Biella 465; Sabaweb lemma 4755 | gloss withheld |
-| Arabic | Ar qaḍīb id. (Biella 465) | Biella 465 |  |
+| Arabic | Ar qaḍīb (Biella 465) | Biella 465 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

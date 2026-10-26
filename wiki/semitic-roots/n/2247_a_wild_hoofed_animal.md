@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nayalu (nālu) Mari, SB \[CAD n1 152\], \[AHw. 725\] | CAD n1 152; AHw. 725; Salonen Jagd 219 | gloss withheld |
-| Tigre | nälät \[LH 232\] (cf. also noli \[ibid.\]). | LH 232; ibid. | gloss withheld |
+| Akkadian | nayalu (nālu) Mari, SB \[CAD n1 152\], \[AHw. 725\] | CAD n1 152; AHw. 725 | gloss withheld |
+| Tigre | nälät \[LH 232\] (cf. also noli \[ibid.\]). | LH 232 | gloss withheld |
 | Amharic | niyala \[K 1054\]. | K 1054 | gloss withheld |
 | Tigrinya | nəyala (SED II 223) | SED II 223 | gloss withheld |
 

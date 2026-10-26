@@ -36,15 +36,15 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | nehāḳ (ō) \[JH 95\] | JH 95 |  |
 | Mandaic Aramaic | nihiḳa \[DM 297\] | DM 297 | gloss withheld |
 | Ugaritic | nhḳt \[Aist 203\] | Aist 203 | gloss withheld |
-| East Ethiopic | SEL WOL noḳe, WOL noʔe \[LGur 458\] (&lt;\*nhḳ or \*nwḳ?) | LGur 458 | gloss withheld |
+| East Ethiopic | SEL WOL noḳe, WOL noʔe \[LGur 458\] | LGur 458 | gloss withheld |
 | Geez | nǝhḳa \[LGz 394\] | LGz 394 |  |
-| Gurage | CHA näḳʷä, EZ̆A MUH MSQ näḳḳʷä, GYE nōḳä, GOG SOD noḳḳä, GOG noʔä, ENN END nōʔä do. \[LGur 458\] (&lt;\*nhḳ, \*nḳḳ or \*nwḳ?) | LGur 458 |  |
+| Gurage | CHA näḳʷä, EZ̆A MUH MSQ näḳḳʷä, GYE nōḳä, GOG SOD noḳḳä, GOG noʔä, ENN END nōʔä \[LGur 458\] | LGur 458 |  |
 | Jibbali | nɛhɛ́ḳ (ú) \[JJ 185\] | JJ 185 |  |
 | Hebrew | nhḳ (a) (HALOT 676) | HALOT 676 |  |
 | Judaic Aramaic | nhḳ (pa.) \[Ja 882\], \[DJPA 343a apud CAL\]. | Ja 882; DJPA 343a; CAL | gloss withheld |
 | Tigre | naḥaqa (HALOT 676) | HALOT 676 |  |
 | Soqotri | naḥqoq (LGz. 394) | LGz. 394 | gloss withheld |
-| Aramaic | NHQ (CAL s.v. nhq) | CAL s.v. nhq | gloss withheld |
+| Aramaic | NHQ (CAL s.v. nhq) | CAL s.v. nhq; Anderson–Moser 2024 root nhq | gloss withheld |
 | Syrian Aramaic | nhaq 'groan, roar' (Payne Smith 329) | Payne Smith 329 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

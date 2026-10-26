@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | dg |  |  |
+| Ugaritic | dg (Kogan 2015, ch. 5 §2.1.1 no. 29) | Kogan 2015 ch. 5 §2.1.1 no. 29 |  |
 | Hebrew | dāg (and dāʔg) (HALOT 213), MHbr. | HALOT 213 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

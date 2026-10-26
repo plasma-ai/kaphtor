@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TU_ME_PA_JA
 title: "TU-ME-PA-JA"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "TU-ME-PA-JA"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 HT154a .1 \]TỤ-ME-PẠ-JẠ, broken before, TU, PA and JA dotted (GORILA I 243, as HT 154A). Sole attestation. Not readable.
 

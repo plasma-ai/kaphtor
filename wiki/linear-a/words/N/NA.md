@@ -60,4 +60,10 @@ di Mino
 | [[wiki/linear-a/inscriptions/PH/PHWc/PHWc40\|PHWc40]] | Phaistos | Roundel | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH97a\|KH97a]] | Khania | Tablet | none; form not in transliteration |
 
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT64\|HT64]] |  | single sign with 2 |  |
+
 <!-- END kaphtor:record -->

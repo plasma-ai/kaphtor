@@ -38,7 +38,7 @@ updated: 2026-10-24T15:25:56Z
 | Tigre | səʾən (LGz. 524) | LGz. 524 |  |
 | Tigrinya | saʾni (LGz. 524) | LGz. 524 |  |
 | Harari | ašīn (LGz. 524) | LGz. 524 |  |
-| Gurage | Zway ašən (LGz. 524) | LGz. 524 |  |
+| East Ethiopic | Zwy. ašən (LGz. 524) | LGz. 524 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

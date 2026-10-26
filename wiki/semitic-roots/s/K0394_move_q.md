@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | salada 'walk' | Anderson–Moser 2024 root sld |  |
-| Hebrew | salad 'leap' (BDB 698) | BDB 698 |  |
+| Hebrew | salad 'leap' (BDB 698) | BDB 698; Anderson–Moser 2024 root sld |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

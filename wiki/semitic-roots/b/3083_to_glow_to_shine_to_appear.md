@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*blṣ |
 | Meaning | 'to glow, to shine, to appear' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1234 |
 
 ## Reflexes
 

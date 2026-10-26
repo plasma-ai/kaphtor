@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǧanǧan-, ǧanǧan-(at-), ǧinǧin- 'bone of the chest, sternum, breastbone' \[BK 1 337\] (redupl.) | BK 1 337 |  |
+| Arabic | ǧanǧan-, ǧanǧan-(at-), ǧinǧin- 'bone of the chest, sternum, breastbone' \[BK 1 337\] | BK 1 337 |  |
 | Tigre | gǝnne \[LH 587\]. | LH 587 | gloss withheld |
 | East Ethiopic | SEL gon \[LGur 280\] | LGur 280 | gloss withheld |
 | Gurage | GOG SOD gʷän \[LGur 280\]. | LGur 280 | gloss withheld |

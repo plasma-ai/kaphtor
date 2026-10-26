@@ -44,6 +44,7 @@ Evidence: ṯ 15/21, n and m 16/21; A-ZU-RA yields a root under every rival. ṯ
 - MA-ZU = maṯu 'child/male' (HT102)—supportive PS #1702 match
 - Cross-script parallel: Linear B ma-\*79 ↔ Linear A MA-ZU—potential independent confirmation
 - KU-ZU-NI = Kuṯinu (HT 13, HT 85a), the Ugaritic personal name kṯn, syll. ku-ši-nu (DULAT 467)
+- ZU-JU-PU₂ = ṯulubu 'flute' (HT 25a), sign for sign Ugaritic ṯlb (DULAT 892)
 
 ## Lexicon words written with this sign
 
@@ -59,6 +60,7 @@ Evidence: ṯ 15/21, n and m 16/21; A-ZU-RA yields a root under every rival. ṯ
 | [[wiki/linear-a/words/Z/ZU_DI\|ZU-DI]] | ṯudī | PROBABLE |
 | [[wiki/linear-a/words/Z/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_DU\|ZU-DU]] | ṯudu | CANDIDATE |
+| [[wiki/linear-a/words/Z/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulubu | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯawrinima | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Zuzu | SPECULATIVE |
 

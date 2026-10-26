@@ -3,8 +3,8 @@
 The test suite: unit, data and maintainer tiers.
 
 - [ane/](ane/README.md): offline tests for the `tools/ane/` query clients and the data paths (6 files, 192 tests)
-- [linear_a/](linear_a/README.md): tests for the `tools/core/` library (16 files, 211 tests, 5 of them on the shipped
-  data)
+- [linear_a/](linear_a/README.md): tests for the `tools/core/` library, the Shoresh engine and commands, and the corpus
+  analyses (28 files, 752 tests, 429 of them on the shipped data)
 - [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (3 files, 114 tests, 6 of them on
   the live Linear A data and 1 that runs plasma-wiki's `wiki`)
 - [fixtures/](fixtures/README.md): the Shoresh gold set and its baseline, byte for byte as deposited
@@ -30,9 +30,15 @@ machine, and names the address; a test of a remote client stubs its request.
 Markers (registered in `pyproject.toml`; `--strict-markers` refuses any other):
 
 - `data`: reads the datasets shipped under `data/` (the five ANE client runs in `ane/test_data_paths.py`, the
-  notation census on the shipped `egytext` and `pnm` views in `ane/test_ane_keys.py`, the LFS scan). With `data/` removed, every `unit` test still passes. `-m "unit or data"` is what a fresh clone can run.
+  notation census on the shipped `egytext` and `pnm` views in `ane/test_ane_keys.py`, the LFS scan, the three
+  rival-language root files, the Syriac and Akkadian contact lexica, `cognate_search` on the shipped lexicon,
+  and most of the Shoresh tests, which read the nine files `linear_a/shoresh_inputs.py` names). With `data/`
+  removed, every `unit` test still passes. `-m "unit or data"` is what a fresh clone can run.
 - `maintainer`: needs a dataset not yet shipped, and skips without it: the 8 live tests (`LIVE` in
   `views/test_views.py` and `linear_a/test_skeleton_status.py`), and the notation census of the 7 ANE views whose
   data is a user's own download (29 tests in `ane/test_ane_keys.py`, each naming the path it looked for). Each
   becomes `data` when its files ship.
 - `unit`: everything else, inline inputs only; `conftest.py` gives it to any test marked neither of the other two.
+
+`live_contexts`, registered beside them, is not a tier: it marks a Shoresh test that keeps the engine's default
+contexts, which `linear_a/conftest.py` otherwise stubs.

@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fuḳum- 'mouth' \[BK 2 622\]; fuḳm- 'each of the two sides of the chin or of the jaw that touches the nose; tip of a dog's muzzle' \[ibid.\] | BK 2 622; ibid. |  |
-| Soqotri | fáḳam \[LS 340\]; cf. féḳam \[ibid.\]; fáḳam (SLOnline 3701) | LS 340; ibid. | gloss withheld |
+| Arabic | fuḳum- 'mouth' \[BK 2 622\]; fuḳm- 'each of the two sides of the chin or of the jaw that touches the nose; tip of a dog's muzzle' \[ibid.\] | BK 2 622 |  |
+| Soqotri | fáḳam \[LS 340\]; cf. féḳam \[ibid.\]; fáḳam (SLOnline 3701) | LS 340; SLOnline 3701 | gloss withheld |
 | Hebrew | PB pāḳam 'to prick an animal's mouth with the bit' \[Ja 1209\] | Ja 1209 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

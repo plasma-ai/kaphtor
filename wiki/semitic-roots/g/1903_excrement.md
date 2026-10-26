@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ǧallat-, ǧillat-, ǧullat- 'ball of dung, livestock dung' \[BK 1 308\] | BK 1 308 |  |
 | Tigre | gällo \[LH 560\]. | LH 560 | gloss withheld |
-| Mandaic Aramaic | gal, gala \[DM 76\]; also glalaia and glala \[ibid. 93\] | DM 76; ibid. 93 | gloss withheld |
+| Mandaic Aramaic | gal, gala \[DM 76\]; also glalaia and glala \[ibid. 93\] | DM 76; DM 93 | gloss withheld |
 | Hebrew | gālāl (HALOT 194); also \*gēl (HALOT 190) | HALOT 194; HALOT 190 | gloss withheld |
 | Judaic Aramaic | gǝlālā 'ordure, excrement' \[Ja 250\]. | Ja 250 |  |
 

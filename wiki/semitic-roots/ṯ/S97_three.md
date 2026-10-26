@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern South Arabian | Bathari ŝōṯēt, ŝəwṯēt, ŝəlṯēt (Gasparini - Morris 2025 161 apud SEDonline 852) | SEDonline 852 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ṯlṯ (Al-Jallad–Jaworska 136) | Al-Jallad–Jaworska 136 | gloss withheld |
 | Gurage | Cha. Ezha Msq. Gog. Sod. sost, End. Enn. Gye. soˀost, Muh. so̢st (EDG 564 apud SEDonline 853) | EDG 564; SEDonline 853 | gloss withheld |
-| Argobba | suˀst, sost, soˀost (AAD 157, Leslau 1997:219–220, Wetter 2010:269 apud SEDonline 853) | SEDonline 853 | gloss withheld |
+| Argobba | suˀst, sost, soˀost (AAD 157, Leslau 1997:219–220, Wetter 2010:269 apud SEDonline 853) | AAD 157, Leslau 1997:219–220, Wetter 2010:269; SEDonline 853 | gloss withheld |
 | East Ethiopic | Sel. šēšt, Wol. Zwy. šešt (EDG 564 apud SEDonline 853) | EDG 564; SEDonline 853 | gloss withheld |
 | Gafat | sʷostä (Leslau 1956:233 apud SEDonline 853) | Leslau 1956:233; SEDonline 853 | gloss withheld |
 | Harari | šiˀišti, šīšti (EDH 144 apud SEDonline 853) | EDH 144; SEDonline 853 | gloss withheld |
@@ -51,7 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ŝeláyṯ (HL 120 apud SEDonline 852) | HL 120; SEDonline 852 | gloss withheld |
 | Jibbali | ŝhəléṯ, ŝɔṯét (JL 253 apud SEDonline 852) | JL 253; SEDonline 852 | gloss withheld |
 | Mehri | ŝhəlīṯ, ŝaṯáyt (ML 380 apud SEDonline 852) | ML 380; SEDonline 852 | gloss withheld |
-| Soqotri | ẓ̂áˀteʰ (LS 360; SLOnline 7235) | LS 360 | gloss withheld |
+| Soqotri | ẓ̂áˀteʰ (LS 360; SLOnline 7235) | LS 360; SLOnline 7235 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

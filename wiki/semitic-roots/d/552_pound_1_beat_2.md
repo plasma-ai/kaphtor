@@ -41,4 +41,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Instrument nouns: Akkadian madakku 'pestle' (CAD M/1 9), from dakāku; Arabic middak 'pestle, ramrod' (HALOT 549); Hebrew mᵊdōkâ and Syriac mdūktā 'mortar', from dwk (HALOT 549; Payne Smith 253).
+
 <!-- END kaphtor:record -->

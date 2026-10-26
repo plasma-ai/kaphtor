@@ -1,12 +1,16 @@
 ---
 name: wiki/linear-a/words/Q/QE_KU_RE
 title: "QE-KU-RE"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "kikkᵊrē: rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "commodity"]
 kind: "word"
 form: "QE-KU-RE"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["lexicon"]
 attestations: ["HT20"]
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "kikkᵊrē"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -21,28 +25,45 @@ updated: 2026-10-24T16:17:50Z
 
 **Signs.** [[wiki/linear-a/signs/syllabic/QE|QE]] · [[wiki/linear-a/signs/syllabic/KU|KU]] · [[wiki/linear-a/signs/syllabic/RE|RE]]
 
+## Lexicon
+
+**SPECULATIVE**, tier 1 of 4, score 0.30
+
+| Field | Value |
+|---|---|
+| Reading | kikkᵊrē |
+| Meaning | rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru |
+| Root | k-k-r |
+| Language layer | NWS |
+| Category | commodity |
+| Semantic field | commodity |
+
+### Note
+
+HT 20 .2–.3 QE-KU-RE · DI ½, whole and undotted, the second entry under PA-RO-SU in a list where every entry takes a fraction (GORILA I 37). kik-kᵊrē, a construct before the commodity sign DI, as Hebrew kikkᵊrê kesep 'talents of silver' (2 Kgs 5:5). QE writes k, its listed alternate; Ugarit writes the word with ka₄, the QA sign (DULAT 430–31). Rival: the name Qaqqaru, spelled QA-QA-RU elsewhere at Haghia Triada. One witness.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Proto-Semitic | \*kakkar-/\*kikkar- 'round loaf, disk; talent' (semitic_roots no. 1097) |
+| Hebrew | kikkᵊrê, construct pl., 'talents of' (2 Kgs 5:5) |
+| Ugaritic | kkr 'talent' (DULAT 430–31); kkr ḥlb 'a talent of cheese' (DULAT 355) |
+
+### Source
+
+di Mino; DULAT
+
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | Haghia Triada | Tablet | incomplete |
 
-## Onomasticon
+## In translations
 
-| Field | Value |
-|---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
-| Entry | auto |
-| Occurrences | 1 in 1 documents |
-| Sites | Haghia Triada |
-| Supports | Tablet 1 |
-
-## Unread
-
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
-
-HT20 .2–3 QE-KU-RE · DI ½, QE-KU closing .2 and RE opening .3, whole and undotted (GORILA I 37). Second entry under PA-RO-SU ·, after KU-MA-JU ¼ and before SA-RE-JU, with a divider between the word and the commodity sign DI: a recipient slot. Probably the same name as QA-KU-RE (HT Wc 3017, also before DI). No reading.
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT20\|HT20]] | kikkᵊrē | rounds of (a commodity) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

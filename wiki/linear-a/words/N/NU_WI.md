@@ -60,7 +60,13 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | nōwē | (man) of the encampment, herdsman (qualifier after a personal name) | SPECULATIVE |
 
 ## Onomasticon
 
@@ -80,6 +86,6 @@ Qualifier after a personal name: HT115a RI-TA-MA / NU-WI 2; HT115b TI-NU-JA · N
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/G/GRA|GRA]], GRA+BOSm, [[wiki/linear-a/words/R/RI_TA_MA|RI-TA-MA]], [[wiki/linear-a/words/T/TI_NU_JA|TI-NU-JA]].
+Readings from the lexicon as it stands: [[wiki/linear-a/words/G/GRA|GRA]], GRA+BOSm, [[wiki/linear-a/words/R/RI_TA_MA|RI-TA-MA]], [[wiki/linear-a/words/T/TI_NU_JA|TI-NU-JA]] Ṯaniya.
 
 <!-- END kaphtor:record -->

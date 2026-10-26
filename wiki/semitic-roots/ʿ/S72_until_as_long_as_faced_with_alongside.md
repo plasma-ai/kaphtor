@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʿd (OLA80 §58.11) | OLA80 §58.11 | gloss withheld |
 | Geez | ʾəm-qədma (OLA80 §58.11) | OLA80 §58.11 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿd (SD 12; Biella 378) | SD 12; Biella 378 | gloss withheld |
-| Punic | ʿd (T 238) | T 238 | gloss withheld |
+| Punic | ʿd (T 238) | T 238; Anderson–Moser 2024 root ʿd | gloss withheld |
 | Hebrew | ʿad (HALOT 786) | HALOT 786 |  |
 | Phoenician | ʿd (T 238) | T 238 | gloss withheld |
 | Syrian Aramaic | ʕad 'while, until; as far as' (Payne Smith 400) | Payne Smith 400 |  |

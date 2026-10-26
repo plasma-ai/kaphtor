@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | gubbuḫu (also ḳubbuḫu) OB on \[CAD G 117\], \[AHw 295\] | CAD G 117; AHw 295 | gloss withheld |
-| Hebrew | gibbēăḥ (HALOT 173), gabbaḥat (ibid.) | HALOT 173; ibid. | gloss withheld |
+| Hebrew | gibbēăḥ (HALOT 173), gabbaḥat (ibid.) | HALOT 173 | gloss withheld |
 | Syrian Aramaic | gǝbāḥā 'bald at the forehead' \[Brock 101\] | Brock 101 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

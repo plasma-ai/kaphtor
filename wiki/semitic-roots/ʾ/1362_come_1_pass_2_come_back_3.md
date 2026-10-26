@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔty 1 |  |  |
-| Soqotri | ʔete 2; éte (SLOnline 3162) |  | gloss withheld |
+| Soqotri | ʔete 2; éte (SLOnline 3162) | SLOnline 3162 | gloss withheld |
 | Tigre | ʔata 3 |  |  |
 | Mandaic Aramaic | ata 1 |  |  |
 | Ugaritic | ʔatw 1 |  |  |
@@ -39,9 +39,13 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔty 1 |  |  |
 | Epigraphic South Arabian | ʔtw, ʔty 1 (Sabaweb lemma 1393) | Sabaweb lemma 1393 | gloss withheld |
 | Syrian Aramaic | ʔeta 1 |  |  |
-| Aramaic | (Emp) ʔty 1, (Nab) yʔtʔ 1, (Palm) ʔtʔ 1 (DNWSI 133 apud CAL), (Palest) ʔ.tā 1 (DJPA 80a apud CAL) | DNWSI 133; CAL; DJPA 80a; CAL |  |
+| Aramaic | (Emp) ʔty 1, (Nab) yʔtʔ 1, (Palm) ʔtʔ 1 (DNWSI 133 apud CAL), (Palest) ʔ.tā 1 (DJPA 80a apud CAL) | DNWSI 133; CAL; DJPA 80a |  |
 | Tigrinya | ʔatawa 3 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+See 438 (\*ʾVtVy/w-).
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0171_erase
 title: "*mVḥVw-: 'erase'"
-desc: "Proto-Semitic *mVḥVw-, 'erase': reflexes in 9 language(s)."
+desc: "Proto-Semitic *mVḥVw-, 'erase': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0171"
@@ -29,13 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | maḥawa (Kogan 2015, ch. 2 §5.2.2.1 no. 18) | Kogan 2015, ch. 2 §5.2.2.1 no. 18 | gloss withheld |
+| Geez | maḥawa (Kogan 2015, ch. 2 §5.2.2.1 no. 18) | Kogan 2015 ch. 2 §5.2.2.1 no. 18; Anderson–Moser 2024 root mḥw | gloss withheld |
+| Punic | mḥy 'erase' | Anderson–Moser 2024 root mḥw |  |
 | Arabic | maḥā (LGz. 337) | LGz. 337 | gloss withheld |
 | Hebrew | māḥā (mḥy) (LGz. 337) | LGz. 337 | gloss withheld |
 | Aramaic | məḥā (LGz. 337) | LGz. 337 | gloss withheld |
 | Tigrinya | mäḥawä (LGz. 337) | LGz. 337 | gloss withheld |
 | Phoenician | \*mḥy: ymḥ, mḥ, mḥt (T 170) | T 170 | gloss withheld |
-| Ugaritic | mḥw (Kogan 2015, ch. 2 §5.2.2.1 no. 18) | Kogan 2015, ch. 2 §5.2.2.1 no. 18 | gloss withheld |
+| Ugaritic | mḥw (Kogan 2015, ch. 2 §5.2.2.1 no. 18) | Kogan 2015 ch. 2 §5.2.2.1 no. 18 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic mḥy (Al-Jallad–Jaworska 96) | Al-Jallad–Jaworska 96 | gloss withheld |
 | Judaic Aramaic | mᵉḥī (HALOT 567) | HALOT 567 |  |
 

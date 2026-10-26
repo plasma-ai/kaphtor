@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3377_South_wind
 title: "*mid-at-: 'South wind'"
-desc: "Proto-Semitic *mid-at-, 'South wind': reflexes in 2 language(s)."
+desc: "Proto-Semitic *mid-at-, 'South wind': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3377"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*mid-at- |
 | Meaning | 'South wind' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1469 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | mədēt (ML 261 apud SEDonline 1469) | ML 261; SEDonline 1469 | gloss withheld |
 | Jibbali | mídét (JL 169 apud SEDonline 1469) | JL 169; SEDonline 1469 | gloss withheld |
+| Soqotri | méde (Kogan 2015, ch. 8 §3.4.1 no. 71) | Kogan 2015 ch. 8 §3.4.1 no. 71 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

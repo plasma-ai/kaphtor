@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*kwn/\*kyn |
 | Meaning | 'to be numerous' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 203 |
 
 ## Reflexes
 
@@ -36,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Proto-MSA \*kwn/\*kyn 'to be numerous' (SEDonline 203). Following Leslau, it is tempting to identify it with PS \*kwn 'to be steadfast, sure, reliable', although the semantic link is not entirely transparent; Militarev (2012b:608) compares Arb. kʾn 'to be strong' (Lane 2582) (Kogan 2015:560 apud SEDonline 203). Cf. S35 \*kwn- 'to be firm, to be established, to exist'.
+Proto-MSA \*kwn/\*kyn 'to be numerous' (SEDonline 203). Cf. S35 \*kwn- 'to be firm, to be established, to exist'.
 
 <!-- END kaphtor:record -->

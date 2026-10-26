@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | s³nd; ms³nd (SD 138; Biella 338, 507; Sabaweb lemma 5154) | SD 138; Biella 338, 507; Sabaweb lemma 5154 | gloss withheld |
+| Epigraphic South Arabian | Sab s3nd; ms3nd (SD 138; Biella 338, 507; Sabaweb lemma 5154); ms1nd (SD 127); mṯnd (Biella 546) | SD 138; Biella 338, 507; Sabaweb lemma 5154; SD 127; Biella 546 | gloss withheld |
 | Arabic | snd (QAC سند) | QAC سند | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

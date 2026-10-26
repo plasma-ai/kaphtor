@@ -23,14 +23,15 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*rdy |
 | Meaning | 'to increase; profit, interest' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2135 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | rdy (Lane 1071 apud SEDonline 2135) | Lane 1071; SEDonline 2135 | gloss withheld |
-| Epigraphic South Arabian | Sab. rdyt (SD 115 apud SEDonline 2135); Qat. rdn (LIQ 153 apud SEDonline 2135) | SD 115; SEDonline 2135; LIQ 153; SEDonline 2135 | gloss withheld |
+| Epigraphic South Arabian | Sab. rdyt (SD 115 apud SEDonline 2135); Qat. rdn (LIQ 153 apud SEDonline 2135) | SD 115; SEDonline 2135; LIQ 153 | gloss withheld |
 | Geez | radaya (CDG 463 apud SEDonline 2135) | CDG 463; SEDonline 2135 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

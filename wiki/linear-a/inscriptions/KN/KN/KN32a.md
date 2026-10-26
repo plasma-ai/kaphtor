@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KN/KN32a
 title: "KN32a"
-desc: "Tablet, Knossos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Knossos. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "KN32a"
 site: "Knossos"
 support: "Tablet"
 period: ""
-translation: "none"
-words: []
+translation: "incomplete"
+words: ["A-KA-TA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -53,6 +53,29 @@ Unicode (Linear A block):
 𐘇𐘾𐘳𐝫
 𐝫
 ```
+
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\]A-PA\[…\] // ʾAkkata.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/A/A_PA_broken_both\|&#93;A-PA-&#91;]] |  | broken group |  | unread |
+| [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | personal name; compare Amorite ʾAkkatum | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+.1 \]A-PA-\[, .2 A-KA-TA (GORILA I 264–65).
+
+### Source
+
+- di Mino: A-KA-TA
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/A/A_KA_TA|A-KA-TA]].
 
 ## Corpus note
 

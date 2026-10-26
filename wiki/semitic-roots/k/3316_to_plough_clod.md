@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*krb |
 | Meaning | 'to plough; clod' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 2132 |
 
 ## Reflexes
 

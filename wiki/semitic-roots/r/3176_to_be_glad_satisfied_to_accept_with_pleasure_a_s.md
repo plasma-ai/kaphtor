@@ -32,14 +32,14 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | rṣy (HALOT 1280 apud SEDonline 1308); rāṣāh, nif., with l- Lv 1:4 (HALOT 1281) | HALOT 1280; SEDonline 1308; HALOT 1281 | gloss withheld |
 | Aramaic | OArm. rqy, pa. (DNWSI 1083 apud HALOT 1280) | DNWSI 1083; HALOT 1280 | gloss withheld |
 | Judaic Aramaic | JArm. rṣʾ pa., af. (HALOT 1280) | HALOT 1280 | gloss withheld |
-| Syrian Aramaic | rˁe (LSyr. 738; SL 1479 apud SEDonline 1308); pa. (HALOT 1280) | LSyr. 738; SEDonline 1308; HALOT 1280 | gloss withheld |
+| Syrian Aramaic | rˁe (LSyr. 738; SL 1479 apud SEDonline 1308); pa. (HALOT 1280) | LSyr. 738; SL 1479; SEDonline 1308; HALOT 1280 | gloss withheld |
 | Mandaic Aramaic | RAA III (Drower/Macuch 417a apud HALOT 1280) | Macuch 417a; HALOT 1280 | gloss withheld |
 | Amorite | rḍy: Ra-ṣa-ᵈDa-gan (Huffmon APNM 265) | Huffmon APNM 265 | gloss withheld |
 | Arabic | rḍw (Lane 1099 apud SEDonline 1308) | Lane 1099; SEDonline 1308 | gloss withheld |
-| Epigraphic South Arabian | Sab rṣ̂w, rṣ̂y (SD 115 apud SEDonline 1308; Sabaweb lemma 1286); Min rṣ̂w (LM 76 apud SEDonline 1308) | SD 115; SEDonline 1308; Sabaweb lemma 1286; LM 76; SEDonline 1308 | gloss withheld |
+| Epigraphic South Arabian | Sab rṣ̂w, rṣ̂y (SD 115 apud SEDonline 1308; Sabaweb lemma 1286); Min rṣ̂w (LM 76 apud SEDonline 1308) | SD 115; SEDonline 1308; Sabaweb lemma 1286; LM 76 | gloss withheld |
 | Mehri | ráyẑi (ML 336 apud SEDonline 1308) | ML 336; SEDonline 1308 | gloss withheld |
 | Jibbali | ɛrẓ̂ẹ́ (JL 220 apud SEDonline 1308) | JL 220; SEDonline 1308 | gloss withheld |
-| Soqotri | réẓ̂i, ríẓ̂i (LS 404; SLOnline 7606) | LS 404 | gloss withheld |
+| Soqotri | réẓ̂i, ríẓ̂i (LS 404; SLOnline 7606) | LS 404; SLOnline 7606 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

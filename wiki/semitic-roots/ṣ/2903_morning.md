@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | ṣbḥ (Biella 415); (Sabaweb lemma 1706) | Biella 415; Sabaweb lemma 1706 | gloss withheld |
+| Epigraphic South Arabian | ṣbḥ (Biella 415) (Sabaweb lemma 1706) | Biella 415; Sabaweb lemma 1706 | gloss withheld |
 | Geez | ṣ-b-ḥ 'dawn, become light; daily' (Dillmann 09290; Dillmann 09291) | Dillmann 09290; Dillmann 09291 |  |
 | Arabic | ṣbḥ (QAC صبح) | QAC صبح | gloss withheld |
-| Soqotri | ṣabḥ (LGz. 545); ṣabḥ (SLOnline 27978) | LGz. 545 | gloss withheld |
+| Soqotri | ṣabḥ (LGz. 545); ṣabḥ (SLOnline 27978) | LGz. 545; SLOnline 27978 | gloss withheld |
 | Tigre | ṣäbḥa (LGz. 545) | LGz. 545 | gloss withheld |
 | Tigrinya | ṣäbḥe (LGz. 545) | LGz. 545 |  |
 | Amharic | ṭäbba, ṭwat (LGz. 545) | LGz. 545 | gloss withheld |

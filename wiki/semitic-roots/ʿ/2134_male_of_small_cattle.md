@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕatūd- 'very young but strong billy goat' \[BK 2 162\], \[Fr. III 103\], \[Lane 1945\], \[LA III 280\] (cf. \[Hommel 247\]). | BK 2 162; Fr. III 103; Lane 1945; LA III 280; Hommel 247 |  |
-| Akkadian | atūdu (etūdu, dūdu) OA, MB, SB \[CAD a2 521\], \[AHw. 88\] | CAD a2 521; AHw. 88; Landsberger Fauna 96; Salonen Jagd 184-6 | gloss withheld |
-| Hebrew | ʕattūd (HALOT 902), pB. \[Ja. 1129\] | HALOT 902; Ja. 1129; Miller 184 | gloss withheld |
+| Arabic | ʕatūd- 'very young but strong billy goat' \[BK 2 162\], \[Fr. III 103\], \[Lane 1945\], \[LA III 280\]. | BK 2 162; Fr. III 103; Lane 1945; LA III 280 |  |
+| Akkadian | atūdu (etūdu, dūdu) OA, MB, SB \[CAD a2 521\], \[AHw. 88\] | CAD a2 521; AHw. 88 | gloss withheld |
+| Hebrew | ʕattūd (HALOT 902), pB. \[Ja. 1129\] | HALOT 902; Ja. 1129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

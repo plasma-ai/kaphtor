@@ -25,7 +25,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Zakros | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] |  | broken word |  |
 
 ## Unread
 

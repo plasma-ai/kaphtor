@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/3364_earth_soil
 title: "*ḥašy-: 'earth, soil'"
-desc: "Proto-Semitic *ḥašy-, 'earth, soil': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḥašy-, 'earth, soil': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3364"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ḥašy- |
 | Meaning | 'earth, soil' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 471 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Jibbali | ḥáši (JL 118 apud SEDonline 471) | JL 118; SEDonline 471 | gloss withheld |
 | Harsusi | ḥōhi (HL 57 apud SEDonline 471) | HL 57; SEDonline 471 | gloss withheld |
+| Soqotri | ḥóyhi (Kogan 2015, ch. 8 §3.4.1 no. 49) | Kogan 2015 ch. 8 §3.4.1 no. 49 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

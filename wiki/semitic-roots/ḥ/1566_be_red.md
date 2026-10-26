@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥmr |  |  |
+| Arabic | ḥmr (Kogan 2015, ch. 5 §3.2.1.2 no. 13) | Kogan 2015 ch. 5 §3.2.1.2 no. 13 |  |
 | Tigre | ḥamär |  | gloss withheld |
 | Geez | ḥamar LGz 234 | LGz 234 | gloss withheld |
 | Hebrew | pB ḥammār |  | gloss withheld |

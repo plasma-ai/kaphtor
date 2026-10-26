@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | gana (&lt;\*gin-a) OB AHw 280 | AHw 280 |  |
+| Akkadian | gana OB AHw 280 | AHw 280 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

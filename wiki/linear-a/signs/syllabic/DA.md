@@ -75,10 +75,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]] | Dašurat | SPECULATIVE |
-| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Dasiṭa | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_TA_RA\|DA-TA-RA]] | Daṯar | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] | dawmi | CANDIDATE |
-| [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dudama | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dūdāma | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_DA\|I-DA-DA]] | dādā | SPECULATIVE |

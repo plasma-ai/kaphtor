@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕaraǧa 'mounted' (Lane 1995) | Lane 1995 |  |
-| Geez | ʿarga 'ascend' (Dillmann 07042) | Dillmann 07042 |  |
+| Geez | ʿarga 'ascend' (Dillmann 07042) | Dillmann 07042; Anderson–Moser 2024 root ʿrg |  |
 | Hebrew | ʿārag (LGz. 70) | LGz. 70 |  |
 | Tigrinya | ʿarägä (LGz. 70) | LGz. 70 |  |
 | Amharic | arrägä (LGz. 70) | LGz. 70 |  |

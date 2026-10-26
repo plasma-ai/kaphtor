@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | taḫūmu (CAD T 56) | CAD T 56 | gloss withheld |
-| Syrian Aramaic | tḥūmā 'limit, boundary' (Payne Smith 609); taḥḥem 'mark out a boundary' (Payne Smith 609) | Payne Smith 609; Payne Smith 609 |  |
+| Syrian Aramaic | tḥūmā 'limit, boundary' (Payne Smith 609); taḥḥem 'mark out a boundary' (Payne Smith 609) | Payne Smith 609 |  |
 | Arabic | taḫm, tuḫm 'limit, boundary'; taḫūm (Lane 299) | Lane 299 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

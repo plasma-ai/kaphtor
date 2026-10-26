@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | KSY (Aramaic Root Atlas; DNWSI 523 apud CAL) | Aramaic Root Atlas; DNWSI 523; CAL | gloss withheld |
+| Aramaic | KSY (Aramaic Root Atlas; DNWSI 523 apud CAL) | Aramaic Root Atlas; DNWSI 523; CAL; Anderson–Moser 2024 root ksy | gloss withheld |
 | Hebrew | kasah 'cover' | Anderson–Moser 2024 root ksy |  |
 | Ugaritic | ksy 'cover' | Anderson–Moser 2024 root ksy |  |
 | Arabic | ksw (HALOT 487) | HALOT 487 |  |

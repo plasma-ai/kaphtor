@@ -37,10 +37,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ḥmr (DNWSI 383 apud SEDonline 610) | DNWSI 383; SEDonline 610 | gloss withheld |
 | Judaic Aramaic | ḥāmārā (f. ḥămārtā), ḥămār, ḥmrh (det. ḥmrth), ḥmwrh |  |  |
 | Syrian Aramaic | ḥəmārā 'ass', ḥəmārtā 'she-ass' (Brock. 241, PS 1309) | Brock. 241, PS 1309 |  |
-| Modern Aramaic | Maʕl. ḥmōra (Berg. 38); JNA xmāra (Sabar 198); Tlk. xmāra; Ass. xmāra (Kuip. 90); Tur. ḫmōro (ibid.), ḥmōro (Ritter 232); Mlḥ. ḥmoro (Ja. Mlḥ. 178); Hrt. ḥmara (Ja. Hrt. 189); Krd. xma:ra (Kr. 155); NSyr. khmârâ (M 102); Azr. xmara (Garb. 340); NAssyr. ḫmārä (Tser. 084) | Berg. 38; Sabar 198; Kuip. 90; ibid.; Ritter 232; Kr. 155; M 102; Garb. 340; Tser. 084 | gloss withheld |
+| Modern Aramaic | Maʕl. ḥmōra (Berg. 38); JNA xmāra (Sabar 198); Tlk. xmāra; Ass. xmāra (Kuip. 90); Tur. ḫmōro (ibid.), ḥmōro (Ritter 232); Mlḥ. ḥmoro (Ja. Mlḥ. 178); Hrt. ḥmara (Ja. Hrt. 189); Krd. xma:ra (Kr. 155); NSyr. khmârâ (M 102); Azr. xmara (Garb. 340); NAssyr. ḫmārä (Tser. 084) | Berg. 38; Sabar 198; Kuip. 90; Ritter 232; Ja. Hrt. 189; Kr. 155; M 102; Garb. 340; Tser. 084 | gloss withheld |
 | Mandaic Aramaic | hamara (DM 122), humar (DM 135), himara (DM 145) | DM 122; DM 135; DM 145 | gloss withheld |
 | Epigraphic South Arabian | Sab. ḥmr (SD 68; Sabaweb lemma 3049); Min. ḥmr (LM 48) | SD 68; Sabaweb lemma 3049; LM 48 | gloss withheld |
-| Gurage | Wol. Zwy. umar, Sel. umār (LGur. 51); Cha. Eža Muh. Msq. Gog. əmar, Gye. əm̱ā̃r, Enn. ə̃m̱ār, Sod. ämar, End. äwãn (LGur. 51) | LGur. 51; LGur. 51 |  |
+| Gurage | Wol. Zwy. umar, Sel. umār (LGur. 51); Cha. Eža Muh. Msq. Gog. əmar, Gye. əm̱ā̃r, Enn. ə̃m̱ār, Sod. ämar, End. äwãn (LGur. 51) | LGur. 51 |  |
 | Amorite | ḥimārum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥmr (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |
 

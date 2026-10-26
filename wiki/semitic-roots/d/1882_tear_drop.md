@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | /ʔid(i)maʕātum/ (ÉR.ÉR = ì-ti-ma-a-tum, VE 716; Krebernik 1983, 27). | VE 716; Krebernik 1983, 27 |  |
 | Mandaic Aramaic | dima, dimihta, dimita \[DM 153\] | DM 153 |  |
 | Ugaritic | dmʕ (pl. ʔudmʕt) \[DULAT 271\] | DULAT 271 |  |
-| Modern Aramaic | HRT demʔa \[J Hert 185\] NASS dịmị̄tɔ (sg.) \[Tser 057\] MMND demehṯa \[M MND 522\] AZR dimmelta \[Garb 304\] NSYR dǝ̣mmēta \[MP 42\] | J Hert 185; Tser 057; Garb 304; MP 42 | gloss withheld |
+| Modern Aramaic | HRT demʔa \[J Hert 185\] NASS dịmị̄tɔ (sg.) \[Tser 057\] MMND demehṯa \[M MND 522\] AZR dimmelta \[Garb 304\] NSYR dǝ̣mmēta \[MP 42\] | J Hert 185; Tser 057; M MND 522; Garb 304; MP 42 | gloss withheld |
 | Jibbali | dǝmʕát \[JJ 40\] | JJ 40 | gloss withheld |
 | Hebrew | dimʕā (coll.) (HALOT 227). | HALOT 227 |  |
 | Judaic Aramaic | dimʕătā \[Ja 314\]; dmʕh \[DJPA 153a apud CAL\] | Ja 314; DJPA 153a; CAL |  |

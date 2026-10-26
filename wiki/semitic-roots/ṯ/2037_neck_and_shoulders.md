@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | (?) šäkäm \[LH 222\], šäkǝm \[ibid., apud Munzinger\]. | LH 222; ibid. | gloss withheld |
+| Tigre | (?) šäkäm \[LH 222\], šäkǝm \[ibid., apud Munzinger\]. | LH 222 | gloss withheld |
 | Ugaritic | ṯkm \[Aist 334\]. | Aist 334 | gloss withheld |
 | Hebrew | šǝkäm (HALOT 1494, 1495) | HALOT 1494, 1495 | gloss withheld |
 | Arabic | ṯuknat- \[BK 1 231 apud SED I 251\] | BK 1 231; SED I 251 |  |

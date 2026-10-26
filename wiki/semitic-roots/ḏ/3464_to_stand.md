@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Areal reconstruction \*ḏwḏ 'to stand' (Kogan 2015:338-339 apud SEDonline 2124). Akk. izuzzu has a variant uzuzzu. For other possible WS parallels cf. the Post-Biblical zwz 'to move, to go away, to depart' and the Biblical məzūzā (Kogan 2015:339 apud SEDonline 2124). Kogan 2015 (ch. 5 §4.3.2) counts Ugr. n-dd 'to stand' among the basic lexemes unlikely to be borrowed. Cf. 462 \*nid- 'go fast', 1134 \*ḳVwVm- 'stand (up), rise'.
+Areal reconstruction \*ḏwḏ 'to stand' (Kogan 2015, 338–339 apud SEDonline 2124). Akk. izuzzu has a variant uzuzzu. Kogan 2015 (ch. 5 §4.3.2) counts Ugr. n-dd 'to stand' among the basic lexemes unlikely to be borrowed. Cf. 462 \*nid- 'go fast', 1134 \*ḳVwVm- 'stand (up), rise'.
 
 <!-- END kaphtor:record -->

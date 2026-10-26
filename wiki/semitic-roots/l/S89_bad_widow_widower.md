@@ -29,12 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | lemēnum (Huehnergard 1997 GAk, glossary; OLA80 §34.5; ORACC CAMS/GKAB x000021290) \| almānu (OLA80 §34.5); almattu (CAD A/1 362) | Huehnergard 1997 GAk, glossary; OLA80 §34.5; ORACC CAMS/GKAB x000021290; OLA80 §34.5; CAD A/1 362 | gloss withheld |
+| Akkadian | lemēnum (Huehnergard 1997 GAk, glossary; OLA80 §34.5; ORACC CAMS/GKAB x000021290); almānu (OLA80 §34.5); almattu (CAD A/1 362) | Huehnergard 1997 GAk, glossary; OLA80 §34.5; ORACC CAMS/GKAB x000021290; CAD A/1 362 | gloss withheld |
 | Phoenician | ʾlmt (Krahmalkov 53) | Krahmalkov 53 | gloss withheld |
-| Ugaritic | ʾalmnt (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
-| Hebrew | ʾalmānā (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
-| Syrian Aramaic | ʾarmaltā (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
-| Arabic | ʾarmalat- (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
+| Ugaritic | ʾalmnt (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
+| Hebrew | ʾalmānā (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
+| Syrian Aramaic | ʾarmaltā (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
+| Arabic | ʾarmalat- (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Judaic Aramaic | ʾarmaltaʾ (T 20) | T 20 |  |
 | Mandaic Aramaic | ʾarmaltaʾ (T 20) | T 20 |  |
 

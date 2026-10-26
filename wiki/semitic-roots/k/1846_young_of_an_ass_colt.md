@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/1846_young_of_an_ass_colt
 title: "*kurr-: 'young of an ass, colt'"
-desc: "Proto-Semitic *kurr-, 'young of an ass, colt': reflexes in 4 language(s)."
+desc: "Proto-Semitic *kurr-, 'young of an ass, colt': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1846"
@@ -30,10 +30,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | (dial.) kurr- 'donkey foal, foal' Belot, 687 | Belot 687 |  |
-| East Ethiopic | Cf. W. kurkur LGur. 349 | LGur. 349 | gloss withheld |
-| Amharic | Cf. kʷǝrkʷǝr LGur. 349 | LGur. 349 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic kr (Al-Jallad–Jaworska 90) | Al-Jallad–Jaworska 90 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Cf. Amharic kʷǝrkʷǝr, W. kurkur, calls to a donkey (LGur. 349).
 
 <!-- END kaphtor:record -->

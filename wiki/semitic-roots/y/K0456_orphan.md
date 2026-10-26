@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/y/K0456_orphan
-title: "*yatiom-: 'orphan'"
-desc: "Proto-Semitic *yatiom-, 'orphan': reflexes in 13 language(s)."
+title: "*yatīm-: 'orphan'"
+desc: "Proto-Semitic *yatīm-, 'orphan': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0456"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *yatiom-: 'orphan'
+# *yatīm-: 'orphan'
 
 [[wiki/semitic-roots/y/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*yatiom- |
+| Reconstruction | \*yatīm- |
 | Meaning | 'orphan' |
 | Basis | project |
 
@@ -35,9 +35,9 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | aitōmōh (HALOT 451) | HALOT 451 | gloss withheld |
 | Amorite | jatamum, jatmum; jatumum, jitumum (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
 | Phoenician | ytm (T 131) | T 131 | gloss withheld |
-| Syrian Aramaic | yatmā (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
-| Mehri | ḥə-ytīm (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
-| Jibbali | ótím (Kogan 2011, 236) | Kogan 2011, 236 | gloss withheld |
+| Syrian Aramaic | yatmā (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
+| Mehri | ḥə-ytīm (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
+| Jibbali | ótím (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ytm (Al-Jallad–Jaworska 142) | Al-Jallad–Jaworska 142 | gloss withheld |
 | Harsusi | ḥe-ytēm/ḥe-ytōm (HL 147 apud SEDonline 1036) | HL 147; SEDonline 1036 | gloss withheld |
 | Judaic Aramaic | yātōmaʾ (T 131) | T 131 |  |

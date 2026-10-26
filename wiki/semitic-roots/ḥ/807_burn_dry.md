@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥrr |  |  |
-| Akkadian | arāru \| erēru |  | gloss withheld |
+| Akkadian | arāru; erēru |  | gloss withheld |
 | Tigre | ḥarra, ḥarärä (tr.) |  | gloss withheld |
 | Mandaic Aramaic | hrr |  | gloss withheld |
 | Ugaritic | ḥrr |  |  |

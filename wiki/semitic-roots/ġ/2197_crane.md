@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ɣirnīḳ-, ɣurnūḳ-, ɣirnawḳ-, ɣurnayḳ- 'crane' \[BK 2 461\], \[LA X 287\] (extensively discussed in \[Dozy II 210\]). | BK 2 461; LA X 287; Dozy II 210 |  |
+| Arabic | ɣirnīḳ-, ɣurnūḳ-, ɣirnawḳ-, ɣurnayḳ- 'crane' \[BK 2 461\], \[LA X 287\]. | BK 2 461; LA X 287 |  |
 | Akkadian | urnīḳu SB, LB \[AHw. 1431\] | AHw. 1431 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

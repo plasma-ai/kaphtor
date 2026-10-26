@@ -78,6 +78,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | ṣidqī-kummī | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | SPECULATIVE |
 | [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tamir | CANDIDATE |
 | [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdumī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | CANDIDATE |

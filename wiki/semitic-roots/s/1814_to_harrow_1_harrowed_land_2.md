@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šakāku OA, OB on (CAD Š/1 113), šikkatu OB (Ibid. š2 433) | CAD Š/1 113; Ibid. š2 433 | gloss withheld |
+| Akkadian | šakāku OA, OB on (CAD Š/1 113), šikkatu OB (Ibid. š2 433) | CAD Š/1 113; CAD š2 433 | gloss withheld |
 | Arabic | sikkat- 'ploughshare' (Lane 1387) | Lane 1387 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Sabaic s1kt occurs only as a proper name (ʔhl ḥrṯ s1ktn, Conti Rossini 1931, 195); reading s1k-t as 'plough' or 'harrow', and the context as 'folk ploughing with a plough or harrow', is highly hypothetical.
+Sabaic s1kt occurs only as a proper name (ʔhl ḥrṯ s1ktn, Conti Rossini 1931, 195).
 
 <!-- END kaphtor:record -->

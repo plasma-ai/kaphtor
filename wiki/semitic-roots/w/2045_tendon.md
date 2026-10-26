@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | watar- 'tendon; cord' \[BK 2 1480\]; cf. also watar-at- 'nerve of the loins; frenulum of the tongue, etc.' \[ibid.\] | BK 2 1480; ibid. |  |
+| Arabic | watar- 'tendon; cord' \[BK 2 1480\]; cf. also watar-at- 'nerve of the loins; frenulum of the tongue, etc.' \[ibid.\] | BK 2 1480 |  |
 | Mandaic Aramaic | iatra, iatira \[DM 188\] | DM 188 | gloss withheld |
 | Geez | watr \[LGz 622\] | LGz 622 | gloss withheld |
 | Gurage | wätär \[LGur 670\] (dialects not specified) | LGur 670 | gloss withheld |

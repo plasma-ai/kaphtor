@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:50:28Z
+updated: 2026-10-26T15:04:43Z
 ---
 
 # wiki/linear-a/words/D
@@ -67,7 +67,7 @@ updated: 2026-10-25T05:50:28Z
 
 [[wiki/linear-a/words/D/DA_SE_RA_TE|DA_SE_RA_TE]]: Dašurat: Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_SI_star118|DA_SI_star118]]: Dasiṭa: unresolved roster label or entity. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_SI_star118|DA_SI_star118]]: Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_TA_RA|DA_TA_RA]]: Daṯar: Old (man's name); rival 'He of the gate'. Lexicon, SPECULATIVE (tier 1).
 
@@ -123,9 +123,11 @@ updated: 2026-10-25T05:50:28Z
 
 [[wiki/linear-a/words/D/DI_NA_broken_start|DI_NA_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
+[[wiki/linear-a/words/D/DI_NI|DI_NI]]: Dīnī: personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wdny. Lexicon, SPECULATIVE (tier 1).
+
 [[wiki/linear-a/words/D/DI_PA_JA_broken_end|DI_PA_JA_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI_RA_DI_NA|DI_RA_DI_NA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DI_RA_DI_NA|DI_RA_DI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DI_RE_DI_NA|DI_RE_DI_NA]]: ʾaddir-dīnā: mighty is the judge (compound sentence name); rival a simplex recipient name. Lexicon, SPECULATIVE (tier 1).
 
@@ -137,9 +139,9 @@ updated: 2026-10-25T05:50:28Z
 
 [[wiki/linear-a/words/D/DU|DU]]: du: that, of (relative pronoun). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/D/DU_DA_MA|DU_DA_MA]]: Dudama: personal name; compare Egyptian d-ȝ-d-ȝ-m of the Keftiu writing board and Linear B di-du-me. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DU_DA_MA|DU_DA_MA]]: Dūdāma: Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DU_JA|DU_JA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DU_JA|DU_JA]]: Tuya: Tuya (personal name, hypocoristic in -ya); rival Ḏū-Yā 'He of Yah'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU_JU|DU_JU]]: Unread (unread): no role; 1 occurrence(s).
 

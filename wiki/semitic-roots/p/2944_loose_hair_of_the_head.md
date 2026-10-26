@@ -37,4 +37,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Not 387 \*parāʕ- 'axe' or 452 \*pVrVʕ- 'climb'.
+
 <!-- END kaphtor:record -->

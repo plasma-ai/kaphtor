@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ɣib(b)- |
 | Meaning | 'dung, faeces' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I No. 103 |
 
 ## Reflexes
 
@@ -35,12 +36,12 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ɣōb, ɣəb (SED I 98) | SED I 98 | gloss withheld |
 | Harsusi | ɣeb (SED I 98) | SED I 98 | gloss withheld |
 | Jibbali | ɣɔb, ɣebb (SED I 98) | SED I 98 | gloss withheld |
-| Soqotri | ʕéb, ʕeb(b) (SED I 98); ˁob, ˁeb (SLOnline 3195, 22402) | SED I 98 | gloss withheld |
+| Soqotri | ʕéb, ʕeb(b) (SED I 98); ˁob, ˁeb (SLOnline 3195, 22402) | SED I 98; SLOnline 3195, 22402 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-SED I No. 103: Ethiopic and MSA only; vocalism tentative. Cf. Arb. ɣbb 'smell bad, go off (of meat)', likely related (SED I 98). Not 139 \*ʕ/ɣa/ub(a)b- 'bosom, chest; dewlap'.
+Not 139 \*ʕ/ɣa/ub(a)b- 'bosom, chest; dewlap'.
 
 <!-- END kaphtor:record -->

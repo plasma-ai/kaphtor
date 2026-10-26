@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; Dasiṭa 24; Kuṯinu 5; Tegi 3; dwelling/estate 4. Total 66.
+> Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; those of Acacia 24; Kuṯinu 5; Tegi 3; dwelling/estate 4. Total 66.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | personal name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | builder(s) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs | stall or storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Dasiṭa | roster unit (24 men) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (a group of 24 men) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | personal name or roster label (5 personnel); compare the Ugaritic personal name kṯn | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | personal name; Hurrian tegi 'beautiful' (spelling of TE-KI) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dāru | dwelling or estate (administrative unit) | CANDIDATE | CANDIDATE (lexicon) |

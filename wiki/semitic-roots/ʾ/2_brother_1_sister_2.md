@@ -32,12 +32,12 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔaḫ- 1, ʔuḫt- 2 (BK 1, 17, 18) | BK 1, 17, 18 |  |
 | Mehri | Cf. ɣâ 1 |  |  |
-| Soqotri | ʔaʕḥa 1, ʔǝʕḥǝt 2 (LS 56); -ʕḥ- is dissimilated &lt; \*-ḥḥ- | LS 56 |  |
+| Soqotri | ʔaʕḥa 1, ʔǝʕḥǝt 2 (LS 56) | LS 56 |  |
 | Akkadian | aḫu 1, aḫātu 2 (CAD A/1 195, 171; AHw 21, 18) | CAD A/1 195, 171; AHw 21, 18 |  |
 | Tigre | ḥu 1, ḥǝt 2 (LH 51, 81) | LH 51, 81 |  |
 | Mandaic Aramaic | aha 1, ahata 2 (DM 8) | DM 8 |  |
 | Ugaritic | ʔaḫ (also ʔiḫ, ʔuḫ) 1, aḫt 2 (DULAT 33, 39); aḫt /ʾaḫātu/ (UVST 105) | DULAT 33, 39; UVST 105 | gloss withheld |
-| East Ethiopic | ZWY ǝ̄t (LGur. 102) | LGur. 102; LGur. 55 | gloss withheld |
+| East Ethiopic | ZWY ǝ̄t (LGur. 102) | LGur. 102 | gloss withheld |
 | Gurage | SOD ätit (LGur. 102) | LGur. 102 | gloss withheld |
 | Geez | ʔǝḫǝw, ʔǝḫʷ 1, ʔǝḫǝt 2 (LGz. 13) | LGz. 13 |  |
 | Phoenician | ʔḥ 1, ʔḥt 2 (T 10, 11) | T 10, 11 |  |
@@ -51,7 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḥaw 1, ḥawti 2 (Bass. 431) | Bass. 431 |  |
 | Modern South Arabian | aġā, aġayw (OLA80 §31.30) | OLA80 §31.30 | gloss withheld |
 | Eblaitic | a-ḫu-um /ʔaḫum/ (VE 1043; Krebernik 1983, 37); a-ḫa-tum /ʔaḫātum/ (VE 1183; Krebernik 1983, 42); Ba-na-a-ḫu (OLA80 §38.10) | VE 1043; Krebernik 1983, 37; VE 1183; Krebernik 1983, 42; OLA80 §38.10 | gloss withheld |
-| Aramaic | ʾḥ (DNWSI 28 apud CAL) | DNWSI 28; CAL | gloss withheld |
+| Aramaic | ʾḥ (DNWSI 28 apud CAL) | DNWSI 28; CAL; Anderson–Moser 2024 root ʾḫ | gloss withheld |
 | Punic | ʾḥ 'brother'; ʾḥt 'sister' | Anderson–Moser 2024 root ʾḫ |  |
 | Amorite | ʾaḫum, ʾaḫatum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾḫ (Al-Jallad–Jaworska 41) | Al-Jallad–Jaworska 41 | gloss withheld |

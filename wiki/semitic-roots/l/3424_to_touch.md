@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/3424_to_touch
 title: "*lhm/lḥm: 'to touch'"
-desc: "Proto-Semitic *lhm/lḥm, 'to touch': reflexes in 2 language(s)."
+desc: "Proto-Semitic *lhm/lḥm, 'to touch': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3424"
@@ -23,14 +23,16 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*lhm/lḥm |
 | Meaning | 'to touch' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1466 |
 
 ## Reflexes
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ləḥām (ML 253 apud SEDonline 1466) | ML 253; SEDonline 1466 | gloss withheld |
-| Jibbali | lɛhɛ́m (JL 162 apud SEDonline 1466); laḥám (JL 163 apud SEDonline 1466) | JL 162; SEDonline 1466; JL 163; SEDonline 1466 | gloss withheld |
+| Jibbali | lɛhɛ́m (JL 162 apud SEDonline 1466); laḥám (JL 163 apud SEDonline 1466) | JL 162; SEDonline 1466; JL 163 | gloss withheld |
+| Soqotri | ḷɛ́hɛm (Kogan 2015, ch. 8 §3.4.1 no. 68) | Kogan 2015 ch. 8 §3.4.1 no. 68 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/3403_to_go_to_sleep
 title: "*ṭnn: 'to go to sleep'"
-desc: "Proto-Semitic *ṭnn, 'to go to sleep': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṭnn, 'to go to sleep': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3403"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṭnn |
 | Meaning | 'to go to sleep' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1544 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ṭən (ML 411 apud SEDonline 1544) | ML 411; SEDonline 1544 | gloss withheld |
 | Jibbali | ṭenn (JL 279 apud SEDonline 1544) | JL 279; SEDonline 1544 | gloss withheld |
+| Soqotri | ṭen (Kogan 2015, ch. 8 §3.4.1 no. 122) | Kogan 2015 ch. 8 §3.4.1 no. 122 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

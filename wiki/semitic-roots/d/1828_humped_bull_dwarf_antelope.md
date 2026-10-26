@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ? diryānat- 'a kind of bull furnished with a hump' BK 1 694 | BK 1 694 |  |
 | Akkadian | dudrū DRS |  | gloss withheld |
-| Tigre | pl. ʔaddarit, sing. ʕätro, pl. ʕaṭärri; also ʕaṭro, ʔäṭro LH 489 (cf. Gez. ʕaṭro LGz. 77). = Som. (loan &lt;? &gt;?) | LH 489; LGz. 77 | gloss withheld |
+| Tigre | pl. ʔaddarit, sing. ʕätro, pl. ʕaṭärri; also ʕaṭro, ʔäṭro LH 489 (cf. Gez. ʕaṭro LGz. 77). = Som. | LH 489; LGz. 77 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

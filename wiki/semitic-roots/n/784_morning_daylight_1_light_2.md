@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | nahār 1 (HALOT 677); 1 (Lane 2858) | HALOT 677; Lane 2858 | gloss withheld |
+| Arabic | nahār 1 (HALOT 677; Lane 2858) | HALOT 677; Lane 2858 | gloss withheld |
 | Hebrew | nǝhārâ 2 (HALOT 677) | HALOT 677 | gloss withheld |
 | Syrian Aramaic | nuhrā 'light, brightness' 2 (Payne Smith 330) | Payne Smith 330 |  |
 

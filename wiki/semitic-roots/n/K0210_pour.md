@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | natāku 'drip' | Anderson–Moser 2024 root ntk |  |
-| Hebrew | natak 'pour' (BDB 677) | BDB 677 |  |
+| Hebrew | natak 'pour' (BDB 677) | BDB 677; Anderson–Moser 2024 root ntk |  |
 | Ugaritic | ntk 'spill' | Anderson–Moser 2024 root ntk |  |
 | Syrian Aramaic | ntak 'pour out; hurt' (Payne Smith 354) | Payne Smith 354 |  |
 

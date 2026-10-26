@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḍrṭ (-u-) 'to fart (with a fart that can be heard)' \[BK 2 22\] | BK 2 22 |  |
 | Mehri | ẑǝrūṭ (-ē-) \[JM 478\] | JM 478 | gloss withheld |
-| Soqotri | ẑerót \[LS 365\]; ẓ̂éraṭ (SLOnline 11008) | LS 365 | gloss withheld |
+| Soqotri | ẑerót \[LS 365\]; ẓ̂éraṭ (SLOnline 11008) | LS 365; SLOnline 11008 | gloss withheld |
 | Akkadian | ṣarātu (ṣarādu) (u/u, also i/i) OB on \[CAD ṣ 107\], \[AHw 1085\] | CAD ṣ 107; AHw 1085 |  |
 | Harsusi | ẑerōṭ \[JH 152\] | JH 152 |  |
 | Jibbali | ẓ̂érɔ́ṭ \[JJ 327\] | JJ 327 |  |

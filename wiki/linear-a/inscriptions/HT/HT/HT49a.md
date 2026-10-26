@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT49a
 title: "HT49a"
-desc: "Tablet, Haghia Triada, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT49a"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
-words: ["*312", "KU-PA₃-NU", "TA-NA-TI", "TU", "TU-SU-PU₂"]
+translation: "incomplete"
+words: ["*312", "A-RU", "KU-PA₃-NU", "TA-NA-TI", "TU", "TU-SU-PU₂"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -88,9 +88,40 @@ Unicode (Linear A block):
 𐝫
 ```
 
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\]-RA₂-DU\[…\]; \[…\]Tanāti 1; \[…\]RI 1; SU-KI \[…\] 1; TI-DU-NI 1\[…\]; \[…\]SI-RA 1; Ḫaru 1; \*370 1; flax 1; Kubānu 1; Tešub 1; KI 1 — \[…\] 5; cattle 4; KI 1 \[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/Q/q_RA2_DU_broken_both\|&#93;&#91;?&#93;-RA₂-DU&#91;]] |  | broken word |  | unread |
+| \]TA-NA-TI | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE |  |
+| RI |  | end of a broken word, 1 |  |  |
+| [[wiki/linear-a/words/S/SU_KI\|SU-KI]] |  | word (unread), 1 |  | unread |
+| [[wiki/linear-a/words/T/TI_DU_NI\|TI-DU-NI]] |  | word (unread), 1\[ |  | unread |
+| [[wiki/linear-a/words/S/SI_RA\|SI-RA]] |  | broken word, 1 |  | unread |
+| [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | Hurrian personal name, 1; rival Semitic Ḫayru 'Excellent' | SPECULATIVE | SPECULATIVE (lexicon) |
+| \*370 |  | sign with 1 |  |  |
+| [[wiki/linear-a/words/star/star312\|\*312]] | kitnu | flax, linen, 1 | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba, personal name or title, 1; rival Ugaritic Gupana | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | Teshub (Hurrian theophoric personal name), 1 | CANDIDATE | CANDIDATE (lexicon) |
+| KI |  | single sign with 1 |  |  |
+| [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | cattle (logographic abbreviation), 4 | CANDIDATE | CANDIDATE (lexicon) |
+| KI |  | single sign with 1 |  |  |
+
+### Notes
+
+Several entries broken at the line ends (GORILA I 93).
+
+### Source
+
+- di Mino: A-RU
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/T/TA_NA_TI|TA-NA-TI]], [[wiki/linear-a/words/T/TU|TU]], [[wiki/linear-a/words/T/TU_SU_PU2|TU-SU-PU₂]].
+[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/A/A_RU|A-RU]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/T/TA_NA_TI|TA-NA-TI]], [[wiki/linear-a/words/T/TU|TU]], [[wiki/linear-a/words/T/TU_SU_PU2|TU-SU-PU₂]].
 
 ## Corpus note
 

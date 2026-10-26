@@ -31,8 +31,12 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | umṣatu |  |  |
-| Arabic | ḥummaṣat- (Kogan 2011, 230) | Kogan 2011, 230 |  |
+| Arabic | ḥummaṣat- (Kogan 2011, 230) | Kogan 2011 230 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Arabic ḥummaṣat- has ḥ, which points to \*ḥ; Akkadian umṣatu fits \*h or \*ḥ.
 
 <!-- END kaphtor:record -->

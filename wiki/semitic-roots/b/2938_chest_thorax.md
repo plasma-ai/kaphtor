@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*barak- |
 | Meaning | 'chest, thorax' |
-| Basis | project |
+| Basis | SED |
+| SED | SED I No. 38 |
 
 ## Reflexes
 
@@ -37,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED I No. 38, kept apart from 1874 \*bi/ark- 'knee' (SED No. 39), where Akk. birku, burku 'lap' more likely belongs. Cf. Mhr. bark, Hrs. berk 'in, inside' (SED I 36). Not 2731 \*bVrVk- 'to kneel, bless'.
+Not 2731 \*bVrVk- 'to kneel, bless'.
 
 <!-- END kaphtor:record -->

@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | rašša 'he sprinkled, scattered in drops' (Lane 1087); miraššat 'a thing with which one sprinkles' (Lane 1087) | Lane 1087; Lane 1087 |  |
+| Arabic | rašša 'he sprinkled, scattered in drops' (Lane 1087); miraššat 'a thing with which one sprinkles' (Lane 1087) | Lane 1087 |  |
 | Harsusi | reś (HSED 2111) | HSED 2111 | gloss withheld |
 | Syrian Aramaic | ras 'besprinkle, drop' (Payne Smith 544) | Payne Smith 544 |  |
 

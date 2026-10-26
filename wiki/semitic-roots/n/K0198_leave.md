@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0198_leave
 title: "*nVpVq-: 'leave'"
-desc: "Proto-Semitic *nVpVq-, 'leave': reflexes in 7 language(s)."
+desc: "Proto-Semitic *nVpVq-, 'leave': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0198"
@@ -36,6 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | näffäqä (LGz. 388) | LGz. 388 | gloss withheld |
 | Phoenician | \*npq (T 218) | T 218 | gloss withheld |
 | Aramaic | DA npḳ (DNWSI 741 apud SEDonline 258) | DNWSI 741; SEDonline 258 | gloss withheld |
+| Biblical Aramaic | npq (Kogan 2015, ch. 6 §2 no. 13) | Kogan 2015 ch. 6 §2 no. 13 | gloss withheld |
+| Judaic Aramaic | npq (Kogan 2015, ch. 6 §2 no. 13) | Kogan 2015 ch. 6 §2 no. 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

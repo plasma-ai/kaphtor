@@ -34,14 +34,14 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | farṯ \[JM 101\] | JM 101 | gloss withheld |
 | Soqotri | fórt \[LS 343\] | LS 343 | gloss withheld |
 | Akkadian | paršu OB, SB \[AHw 836\] | AHw 836 | gloss withheld |
-| Harsusi | fōreṯ do. \[JH 35\] | JH 35 |  |
+| Harsusi | fōreṯ \[JH 35\] | JH 35 |  |
 | Mandaic Aramaic | parta \[DM 365\] | DM 365 | gloss withheld |
-| Jibbali | fɔ́rṯ do. \[JJ 62\] | JJ 62 |  |
+| Jibbali | fɔ́rṯ \[JJ 62\] | JJ 62 |  |
 | Hebrew | päräš (with suff. piršō) (HALOT 977) | HALOT 977 | gloss withheld |
 | Amharic | färs \[K 2280\]. | K 2280 | gloss withheld |
 | Judaic Aramaic | partā \[Ja 1244\]; prt \[DJPA 452b apud CAL\] | Ja 1244; DJPA 452b; CAL | gloss withheld |
 | Syrian Aramaic | pertā 'dung' \[Brock 609\] | Brock 609 |  |
-| Tigrinya | färsi 'chyme, what is found in the stomach of ruminants' \[Bass 989\]; färräsä 'to disembowel, to open the belly of a slaughtered animal' \[ibid.\] | Bass 989; ibid. |  |
+| Tigrinya | färsi 'chyme, what is found in the stomach of ruminants' \[Bass 989\]; färräsä 'to disembowel, to open the belly of a slaughtered animal' \[ibid.\] | Bass 989 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

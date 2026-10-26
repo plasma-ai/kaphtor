@@ -60,12 +60,13 @@ di Mino; Gelb 1980
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | Zakros | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Ṭayyibat | personal name, 'Good (f.)', 2½ | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | Ṭayyibat | PN 'Good (f.)': Amorite DA-BA-TUM Ṭaybatum, a woman (Gelb 1980, no. 1409); LB da-i-pi-ta (KN Bk 799). Rival: DA-I + PI-TA | SPECULATIVE |
 
 ## Onomasticon

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | radāpu 'pursue' | Anderson–Moser 2024 root rdp |  |
 | Arabic | radafa 'followed' | Anderson–Moser 2024 root rdp |  |
-| Aramaic | RDP (Aramaic Root Atlas; DNWSI 1061 apud CAL) | Aramaic Root Atlas; DNWSI 1061; CAL | gloss withheld |
+| Aramaic | RDP (Aramaic Root Atlas; DNWSI 1061 apud CAL) | Aramaic Root Atlas; DNWSI 1061; CAL; Anderson–Moser 2024 root rdp | gloss withheld |
 | Hebrew | radap (HALOT 1191; BDB 922) | HALOT 1191; BDB 922 | gloss withheld |
 | Epigraphic South Arabian | Sab rdf (Biella 481–482) | Biella 481–482 | gloss withheld |
 | Syrian Aramaic | rədap (HALOT 1191; Payne Smith 530) | HALOT 1191; Payne Smith 530 |  |

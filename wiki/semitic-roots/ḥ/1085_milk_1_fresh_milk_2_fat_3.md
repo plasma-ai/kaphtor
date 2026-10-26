@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥalīb- 1, ḥalab- 2 (Kogan 2015, ch. 2 §4.2 no. 20) (? ḥilb- HALOT 315) | Kogan 2015, ch. 2 §4.2 no. 20; HALOT 315 | gloss withheld |
+| Arabic | ḥalīb- 1, ḥalab- 2 (Kogan 2015, ch. 2 §4.2 no. 20) (? ḥilb- HALOT 315) | Kogan 2015 ch. 2 §4.2 no. 20; HALOT 315 | gloss withheld |
 | Akkadian | ḫilpu 1; ḫalāpu B (or ḫalābu) NA (CAD Ḫ, 36) | CAD Ḫ, 36 | gloss withheld |
-| Ugaritic | ḥlb 1 (Kogan 2015, ch. 2 §4.2 no. 20) | Kogan 2015, ch. 2 §4.2 no. 20 |  |
-| Geez | ḥalīb 1 (Kogan 2015, ch. 2 §4.2 no. 20) | Kogan 2015, ch. 2 §4.2 no. 20 |  |
+| Ugaritic | ḥlb 1 (Kogan 2015, ch. 2 §4.2 no. 20) | Kogan 2015 ch. 2 §4.2 no. 20 |  |
+| Geez | ḥalīb 1 (Kogan 2015, ch. 2 §4.2 no. 20) | Kogan 2015 ch. 2 §4.2 no. 20 |  |
 | Phoenician | ḥlb 3 |  |  |
-| Hebrew | ḥālāb- 1 (Kogan 2015, ch. 2 §4.2 no. 20), ḥēläb 3 | Kogan 2015, ch. 2 §4.2 no. 20 |  |
+| Hebrew | ḥālāb- 1 (Kogan 2015, ch. 2 §4.2 no. 20), ḥēläb 3 | Kogan 2015 ch. 2 §4.2 no. 20 |  |
 | Syrian Aramaic | ḥalǝb- 1, ḥelb- 3 (Payne Smith 142) | Payne Smith 142 |  |
-| Aramaic | ḥlb (Aramaic Root Atlas; CAL s.v. ḥlb) | Aramaic Root Atlas; CAL s.v. ḥlb | gloss withheld |
+| Aramaic | ḥlb (Aramaic Root Atlas; CAL s.v. ḥlb) | Aramaic Root Atlas; CAL s.v. ḥlb; Anderson–Moser 2024 root ḥlb | gloss withheld |
 | Punic | ḥlb 'milk' | Anderson–Moser 2024 root ḥlb |  |
 | Soqotri | ḥelob (v.) (LGz. 229) | LGz. 229 | gloss withheld |
 | Mandaic Aramaic | halba (LGz. 229) | LGz. 229 |  |
@@ -47,8 +47,8 @@ updated: 2026-10-22T17:38:31Z
 | Harari | ḥaläba (v.), ḥay (LGz. 229) | LGz. 229 | gloss withheld |
 | Amharic | alläbä (v.) (LGz. 229) | LGz. 229 | gloss withheld |
 | Gurage | aläbä (v.), eb (LGz. 229) | LGz. 229 | gloss withheld |
-| Mehri | ḥəlūb (Kogan 2011, 240) | Kogan 2011, 240 | gloss withheld |
-| Jibbali | ḥɔ́lɔ́b (Kogan 2011, 240) | Kogan 2011, 240 | gloss withheld |
+| Mehri | ḥəlūb (Kogan 2011, 240) | Kogan 2011 240 | gloss withheld |
+| Jibbali | ḥɔ́lɔ́b (Kogan 2011, 240) | Kogan 2011 240 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. aläbä (EDG 38 apud SEDonline 1057) | EDG 38; SEDonline 1057 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | gdr 'fence, wall' (Aramaic Root Atlas 0596) | Aramaic Root Atlas 0596 |  |
 | Hebrew | gādar 'wall up, wall off' (BDB 154) | BDB 154 |  |
 | Punic | gdrʾ (Neo-Punic; Krahmalkov 137) | Krahmalkov 137 | gloss withheld |
-| Epigraphic South Arabian | Min gdr (Kogan 2015, ch. 3 §5.3 no. 6; Sabaweb lemma 7627) | Kogan 2015, ch. 3 §5.3 no. 6; Sabaweb lemma 7627 | gloss withheld |
+| Epigraphic South Arabian | Min gdr (Kogan 2015, ch. 3 §5.3 no. 6; Sabaweb lemma 7627) | Kogan 2015 ch. 3 §5.3 no. 6; Sabaweb lemma 7627 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic gdr (Al-Jallad–Jaworska 71) | Al-Jallad–Jaworska 71 | gloss withheld |
 | Phoenician | gdr (OLA80 §65.8) | OLA80 §65.8 | gloss withheld |
 

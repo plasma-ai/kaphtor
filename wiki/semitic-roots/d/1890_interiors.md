@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | darṣ-, dirṣ- 'fetus (of a cat, a hare, a hedgehog, a jerboa)' \[BK 1 689\] | BK 1 689 |  |
-| Soqotri | derz, ders \[LS 135\], dúraz (dimin.) \[ibid.\]; QALAN.-V dɛrz; ʕELHA darz, darṣ (sic.!) \[SSL 101\] | LS 135; ibid. | gloss withheld |
+| Soqotri | derz, ders \[LS 135\], dúraz (dimin.) \[ibid.\]; QALAN.-V dɛrz; ʕELHA darz, darṣ \[SSL 101\] | LS 135 | gloss withheld |
 | Tigre | dərəṣ \[LH 523\] | LH 523 | gloss withheld |
 | Eblaitic | dar-zu-um (= Sum. ŠÀ.SUR, VE 163b) | VE 163b |  |
 

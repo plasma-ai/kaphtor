@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qrʕ \[-a-\] |  |  |
-| Geez | kʷarʿa (LGz. 289) | LGz. 289 | gloss withheld |
+| Geez | kʷarʿa (LGz. 289); qarʿa (Dillmann 03347) | LGz. 289; Dillmann 03347; Anderson–Moser 2024 root qrʿ | gloss withheld |
 | Amharic | kʷärra (LGz. 289) | LGz. 289 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

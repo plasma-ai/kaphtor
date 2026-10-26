@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3370_to_find
 title: "*ksʾ: 'to find'"
-desc: "Proto-Semitic *ksʾ, 'to find': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ksʾ, 'to find': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3370"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ksʾ |
 | Meaning | 'to find' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1456 |
 
 ## Reflexes
 
@@ -31,11 +32,12 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | kūss (ML 215 apud SEDonline 1456) | ML 215; SEDonline 1456 | gloss withheld |
 | Jibbali | ksé (JL 135 apud SEDonline 1456) | JL 135; SEDonline 1456 | gloss withheld |
+| Soqotri | késə (Kogan 2015, ch. 8 §3.4.1 no. 57) | Kogan 2015 ch. 8 §3.4.1 no. 57 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Proto-MSA \*ksʾ 'to find' (SEDonline 1456). An ultimate connection with Arb. ksʾ 'to pursue, to follow' (Lane 2608) is not unlikely; Höfner (1987:43) identifies the MSA root with Qat. ks3ʾ in Q 243:4–5 (Kogan 2015:560–561 apud SEDonline 1456).
+Proto-MSA \*ksʾ 'to find' (SEDonline 1456).
 
 <!-- END kaphtor:record -->

@@ -32,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 |---|---|---|---|
 | Arabic | bar(ī)m- 1 (Lane 195) | Lane 195 |  |
 | Hebrew | bǝrōm-īm 2 |  |  |
-| Akkadian | barmu 3; barāmu (Kogan 2011, 199) | Kogan 2011, 199 | gloss withheld |
+| Akkadian | barmu 3; barāmu (Kogan 2011, 199) | Kogan 2011 199 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

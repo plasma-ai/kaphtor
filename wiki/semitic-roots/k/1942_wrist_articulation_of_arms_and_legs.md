@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | kimkimmu SB \[CAD k 373\], \[AHw 478\] (redupl.) | CAD k 373; AHw 478 | gloss withheld |
+| Akkadian | kimkimmu SB \[CAD k 373\], \[AHw 478\] | CAD k 373; AHw 478 | gloss withheld |
 | Tigre | kǝm, pl. ʔakmam \[LH 395\] | LH 395 | gloss withheld |
 | East Ethiopic | ZWY kōmä \[LGur 343\] | LGur 343 | gloss withheld |
-| Gurage | GOG SOD kumma, EZ̆A ḫʷǝmma, MUH ḫumma, CHA ḫumma, ḫuma do. \[ibid.\] |  |  |
-| Arabic | kumm-, pl. ʔakmām- 'sleeve (of a robe, of a shirt)' \[BK 2 927\] | BK 2 927 |  |
+| Gurage | GOG SOD kumma, EZ̆A ḫʷǝmma, MUH ḫumma, CHA ḫumma, ḫuma \[ibid.\] |  |  |
+| Arabic | Cf. kumm-, pl. ʔakmām- 'sleeve (of a robe, of a shirt)' \[BK 2 927\] | BK 2 927 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

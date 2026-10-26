@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/3404_to_moo
 title: "*ṯby: 'to moo'"
-desc: "Proto-Semitic *ṯby, 'to moo': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṯby, 'to moo': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3404"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ṯby |
 | Meaning | 'to moo' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1546 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ṯəbū (ML 415 apud SEDonline 1546) | ML 415; SEDonline 1546 | gloss withheld |
 | Jibbali | ṯē (JL 283 apud SEDonline 1546) | JL 283; SEDonline 1546 | gloss withheld |
+| Soqotri | tébə (Kogan 2015, ch. 8 §3.4.1 no. 124) | Kogan 2015 ch. 8 §3.4.1 no. 124 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

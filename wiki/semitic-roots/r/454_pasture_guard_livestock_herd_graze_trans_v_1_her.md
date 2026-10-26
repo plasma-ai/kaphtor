@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | rʕy 1, rōʕǟ 2 |  |  |
 | Epigraphic South Arabian | rʕy 1 (Sabaweb lemma 7187) | Sabaweb lemma 7187 | gloss withheld |
 | Syrian Aramaic | rǝʕā 1 |  |  |
-| Aramaic | RʿY (Aramaic Root Atlas; Qumran 224 apud CAL) | Aramaic Root Atlas; CAL | gloss withheld |
+| Aramaic | RʿY (Aramaic Root Atlas; Qumran 224 apud CAL) | Aramaic Root Atlas; CAL; Anderson–Moser 2024 root rʿy | gloss withheld |
 | Punic | rʿ 'shepherd' | Anderson–Moser 2024 root rʿy |  |
 | Judaic Aramaic | rəʿā, rāʿăyā, rāʿītā (HALOT 1258) | HALOT 1258 |  |
 | Amorite | rʿj: jarʿī (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
@@ -53,6 +53,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-'Friend' and 'associate with' are 61 (HALOT 1253, 1262).
+'Friend' and 'associate with' are 61 (HALOT 1253, 1262). The noun 'pasture, herbage' is 3638.
 
 <!-- END kaphtor:record -->

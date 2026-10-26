@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḫrs 'to be mute' \[BK 1 557\] | BK 1 557 |  |
 | Akkadian | (?) ḫarāšu. |  | gloss withheld |
 | Mandaic Aramaic | HRS̆ \[DM 153\] | DM 153 | gloss withheld |
-| Ugaritic | /ḫar(r)ašu/ (UVST 130) (alphabetically not attested) | UVST 130 | gloss withheld |
+| Ugaritic | /ḫar(r)ašu/ (UVST 130) | UVST 130 | gloss withheld |
 | Hebrew | ḥrš (HALOT 357) | HALOT 357 | gloss withheld |
 | Judaic Aramaic | ḥrš 'to be choked, obstructed, deaf' \[Ja 507\] | Ja 507 |  |
 | Syrian Aramaic | ḥreš 'he was mute, he kept silent' \[Brock 259\] | Brock 259 |  |

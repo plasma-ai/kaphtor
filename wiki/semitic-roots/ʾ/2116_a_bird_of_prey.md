@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔanūḳ- 'black bird the size of a raven, living in ruins or on mountaintops, and feeding on carrion' \[BK 1 63\], \[Lane 118\], \[LA X 10\]. | BK 1 63; Lane 118; LA X 10 |  |
 | Geez | ʔanḳe, ʔanḳet \[LGz. 30\]. | LGz. 30 | gloss withheld |
 | Gurage | Cha. Eža Muh. Msq. Gog. anḳ'ǝt, End. Gyt. anḳ'it \[LGur. 73\]. | LGur. 73 | gloss withheld |
-| Amharic | anč̣ǝt \[K 1252\], ǝn(ǝ)ḳ(ḳ)e \[ibid. 1215\]. | K 1252; ibid. 1215 | gloss withheld |
+| Amharic | anč̣ǝt \[K 1252\], ǝn(ǝ)ḳ(ḳ)e \[ibid. 1215\]. | K 1252; K 1215 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

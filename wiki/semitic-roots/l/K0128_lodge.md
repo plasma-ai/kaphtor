@@ -29,9 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | luwn 'lodge' (BDB 533) | BDB 533 |  |
-| Punic | lyn (T 157) | T 157 | gloss withheld |
-| Ugaritic | ln 'sleep' | Anderson–Moser 2024 root lwn |  |
+| Hebrew | luwn 'lodge' (BDB 533) | BDB 533; Anderson–Moser 2024 root lwn |  |
+| Punic | lyn (T 157) | T 157; Anderson–Moser 2024 root lwn | gloss withheld |
+| Ugaritic | ln (Kogan 2015, ch. 5 §3.1 no. 40) | Kogan 2015 ch. 5 §3.1 no. 40; Anderson–Moser 2024 root lwn | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

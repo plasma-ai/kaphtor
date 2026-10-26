@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/3100_to_wound
 title: "*ṯḥr: 'to wound'"
-desc: "Proto-Semitic *ṯḥr, 'to wound': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṯḥr, 'to wound': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3100"
@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ṯḥr |
 | Meaning | 'to wound' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1547 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | həṯḥáwr (ML 416 apud SEDonline 1547) | ML 416; SEDonline 1547 | gloss withheld |
 | Jibbali | eṯḥér (JL 284 apud SEDonline 1547) | JL 284; SEDonline 1547 | gloss withheld |
+| Soqotri | tḥar (Kogan 2015, ch. 8 §3.4.1 no. 125) | Kogan 2015 ch. 8 §3.4.1 no. 125 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/ś/478_lead_along_on_a_rope_1_go_before_lead_behind_out
-title: "*ŝVʾŝVʾ-: 'lead along (on a rope)' 1, 'go before, lead behind, outrun'"
-desc: "Proto-Semitic *ŝVʾŝVʾ-, 'lead along (on a rope)' 1, 'go before, lead behind, outrun': reflexes in 2 language(s)."
+title: "*ŝVʾŝVʾ-: 'lead along (on a rope)' 1, 'go before, lead behind, outrun' 2"
+desc: "Proto-Semitic *ŝVʾŝVʾ-, 'lead along (on a rope)' 1, 'go before, lead behind, outrun' 2: reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "478"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *ŝVʾŝVʾ-: 'lead along (on a rope)' 1, 'go before, lead behind, outrun'
+# *ŝVʾŝVʾ-: 'lead along (on a rope)' 1, 'go before, lead behind, outrun' 2
 
 [[wiki/semitic-roots/ś/_index|..]]
 
@@ -22,8 +22,8 @@ updated: 2026-10-22T17:38:31Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*ŝVʾŝVʾ- |
-| Meaning | 'lead along (on a rope)' 1, 'go before, lead behind, outrun' |
-| Basis | SED |
+| Meaning | 'lead along (on a rope)' 1, 'go before, lead behind, outrun' 2 |
+| Basis | reconstruction SED; meaning SED, corrected |
 | SED | SEDonline semet 448 |
 
 ## Reflexes

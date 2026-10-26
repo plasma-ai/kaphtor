@@ -58,14 +58,15 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Haghia Triada | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Tanāti | recipient of ¾; Tanit variant (theonym or personal name) | CANDIDATE |
 
 ## Onomasticon

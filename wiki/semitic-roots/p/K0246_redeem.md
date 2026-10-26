@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | padû 'spare' | Anderson–Moser 2024 root pdy |  |
 | Arabic | fadā (Leslau CDG 155) | Leslau CDG 155 | gloss withheld |
-| Aramaic | PDY (Aramaic Root Atlas; DNWSI 902 apud CAL) | Aramaic Root Atlas; DNWSI 902; CAL | gloss withheld |
+| Aramaic | PDY (Aramaic Root Atlas; DNWSI 902 apud CAL) | Aramaic Root Atlas; DNWSI 902; CAL; Anderson–Moser 2024 root pdy | gloss withheld |
 | Geez | fadaya 'restore' | Anderson–Moser 2024 root pdy |  |
 | Hebrew | padah 'ransom' | Anderson–Moser 2024 root pdy |  |
 | Punic | pdy 'redeem' | Anderson–Moser 2024 root pdy |  |

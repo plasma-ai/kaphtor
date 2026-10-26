@@ -36,4 +36,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Arabic ʔǯr is from ʾājurr, a loan from Akkadian agurru through Syriac ʾgwrʾ (Kaufman 1974, 33).
+
 <!-- END kaphtor:record -->

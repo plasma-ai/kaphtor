@@ -33,7 +33,7 @@ updated: 2026-10-24T15:25:56Z
 | Arabic | nbʕ \[-a-, -i-, -u-\]; nabaʿa 'well up, issue forth' (Lane 3027) | Lane 3027 |  |
 | Hebrew | nbʕ; mabbūaʿ (HALOT 541) | HALOT 541 | gloss withheld |
 | Syrian Aramaic | nbaʕ 'spring up, flow; burst forth' (Payne Smith 326) | Payne Smith 326 |  |
-| Geez | nabʿa; ʾanbəʿ (Kogan 2011, 226) | Kogan 2011, 226 | gloss withheld |
+| Geez | nabʿa; ʾanbəʿ (Kogan 2011, 226) | Kogan 2011 226; Anderson–Moser 2024 root nbʿ | gloss withheld |
 | Mandaic Aramaic | nba (LGz. 382) | LGz. 382 |  |
 | Akkadian | nambaʾu (LGz. 382) | LGz. 382 | gloss withheld |
 | Tigre | näbʿa (LGz. 382) | LGz. 382 | gloss withheld |

@@ -44,8 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ẕ́err (JJ 326) | JJ 326 | gloss withheld |
 | Hebrew | ṣar 1 (HALOT 1052), ṣwr 2 (HALOT 1015) | HALOT 1052; HALOT 1015 |  |
 | Amharic | täṭarrärä (K 2114) | K 2114 | gloss withheld |
-| Epigraphic South Arabian | Sab. ḍr 1 (SD 42; Sabaweb lemma 1505); ḍrrw 2 (SD 42); Qat. ḍr (Ricks 140), Min. ḍr (LM 31) | SD 42; Sabaweb lemma 1505; SD 42; Ricks 140; LM 31 | gloss withheld |
-| Judaic Aramaic | JPA ʕrr (DJPA 421a apud CAL), ʕrʕr (DJPA 420b apud CAL) | DJPA 421a; CAL; DJPA 420b; CAL | gloss withheld |
+| Epigraphic South Arabian | Sab. ḍr 1 (SD 42; Sabaweb lemma 1505); ḍrrw 2 (SD 42); Qat. ḍr (Ricks 140), Min. ḍr (LM 31) | SD 42; Sabaweb lemma 1505; Ricks 140; LM 31 | gloss withheld |
+| Judaic Aramaic | JPA ʕrr (DJPA 421a apud CAL), ʕrʕr (DJPA 420b apud CAL) | DJPA 421a; CAL; DJPA 420b | gloss withheld |
 | Aramaic | Samal \*ṣr, DA Pl. abs. ḳrn 1 (HJ 974) | HJ 974 |  |
 | Tigrinya | ṣär 1 (KT 2561); täṣarärä (KT 2564) | KT 2561; KT 2564 | gloss withheld |
 | Syrian Aramaic | ʿarrətā (HALOT 1054) | HALOT 1054 | gloss withheld |
@@ -56,6 +56,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Amharic ṣär 'enemy' (K 2251) (&lt; Geez ?); ṣärärä 'to hate, make an enemy of' (K 2252) {&lt; Gez}.
+Amharic ṣär (K 2251) and ṣärärä (K 2252) may be Geez loans. Mandaic ṣara (LGz. 152) has ṣ against the ʿ of Syriac ʿarrətā and JPA ʕrr.
 
 <!-- END kaphtor:record -->

@@ -33,8 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | bʕq \[-a-\] 1, bqq 1 |  |  |
 | Geez | bqq 1 |  |  |
 | Hebrew | bqʕ 2 |  |  |
-| Aramaic | BQʿ (Aramaic Root Atlas; CAL s.v. bqʿ) | Aramaic Root Atlas; CAL s.v. bqʿ | gloss withheld |
-| Ugaritic | bqʿ (DULAT 231) | DULAT 231 | gloss withheld |
+| Aramaic | BQʿ (Aramaic Root Atlas; CAL s.v. bqʿ) | Aramaic Root Atlas; CAL s.v. bqʿ; Anderson–Moser 2024 root bqʿ | gloss withheld |
+| Ugaritic | bqʿ (DULAT 231) | DULAT 231; Anderson–Moser 2024 root bqʿ | gloss withheld |
 | Tigre | baqʿa (HALOT 149) | HALOT 149 | gloss withheld |
 | Amharic | bäqqäqä (LGz. 101) | LGz. 101 | gloss withheld |
 | Tigrinya | bärqʷäqʷä (LGz. 101) | LGz. 101 | gloss withheld |

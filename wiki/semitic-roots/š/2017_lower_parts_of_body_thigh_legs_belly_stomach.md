@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔas-sāfilat- 'lower parts of the body, buttocks' \[BK 1 1102\] (1st stem active participle with the ʔal- article), safil-at- 'feet (of the camel)' \[ibid\]. | BK 1 1102; ibid |  |
+| Arabic | ʔas-sāfilat- 'lower parts of the body, buttocks' \[BK 1 1102\], safil-at- 'feet (of the camel)' \[ibid\]. | BK 1 1102 |  |
 | Mehri | hōfǝl \[JM 153\] | JM 153 | gloss withheld |
 | Soqotri | QADHUB dᵊ-bə-šáfəl \[SSL LS 1475\] | SSL LS 1475 | gloss withheld |
 | Akkadian | šapūlu, šapullu OB on; \[CAD š1 492\], \[AHw 1177\] | CAD š1 492; AHw 1177 | gloss withheld |
@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | šǝnfǝlla \[LH 221\]. | LH 221 | gloss withheld |
 | Mandaic Aramaic | šipula \[DM 462\] | DM 462 | gloss withheld |
 | East Ethiopic | ZWY šǝnfǝlla \[LGur 581\] | LGur 581 | gloss withheld |
-| Gurage | GOG SOD šǝnfǝl do. \[ibid.\] |  |  |
+| Gurage | GOG SOD šǝnfǝl \[ibid.\] |  |  |
 | Jibbali | šɔ́fǝl \[JJ 260\] | JJ 260 | gloss withheld |
 | Hebrew | PB šippūl 'lower part, extremity' \[Ja 1566\]. | Ja 1566 |  |
 | Amharic | šǝnfǝlla \[K 649\] | K 649 | gloss withheld |

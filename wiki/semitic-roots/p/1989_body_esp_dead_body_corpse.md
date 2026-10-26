@@ -40,4 +40,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Reflexive pronoun in East Semitic: pagaršu ina šimim iddin 'he sold himself'. Alternative to ramanu- and napš- for reflexive constructions (Lipiński OLA80 §36.28). DULAT 655 reads Ugr. pgr 'body, corpse as a funerary offering' (apud SEDonline 688, an areal \*pagr- 'body, trunk').
+
 <!-- END kaphtor:record -->

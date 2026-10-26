@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0218_flee
 title: "*nuws-: 'flee'"
-desc: "Proto-Semitic *nuws-, 'flee': reflexes in 5 language(s)."
+desc: "Proto-Semitic *nuws-, 'flee': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0218"
@@ -29,8 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | nāsa 'swung' | Anderson–Moser 2024 root nws |  |
-| Hebrew | nuws 'flee' (BDB 630) | BDB 630 |  |
+| Hebrew | nuws 'flee' (BDB 630) | BDB 630; Anderson–Moser 2024 root nws |  |
 | Punic | ns 'flee' | Anderson–Moser 2024 root nws |  |
 | Ugaritic | ns 'flee' | Anderson–Moser 2024 root nws |  |
 | Syrian Aramaic | nws (HALOT 681) | HALOT 681 | gloss withheld |

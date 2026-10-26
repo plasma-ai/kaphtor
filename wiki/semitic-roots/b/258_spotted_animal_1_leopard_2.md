@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Arb. ʔabrad- 'leopard' (Lane 185), 'spotted' (HALOT 154): 1628.
+Arb. ʔabrad- 'leopard' (Lane 185), 'spotted' (HALOT 154), is 1628 \*ʾa-brad- 'leopard'.
 
 <!-- END kaphtor:record -->

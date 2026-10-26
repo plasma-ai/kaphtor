@@ -51,13 +51,13 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> \]SI\[ \]SI-ZA-NE-\*310 · Beloved-of-Minos · ?lamp-tender? · Shone-forth · TE-SU-DE-SE-KE-I · The-Glorious-One · TI-DI-TE-QA-TI · TA-SA-ZA · TA-TE-I-KE-ZA-RE
+> \]SI\[ \]SI-ZA-NE-\*310 · Beloved-of-Minos · ?Who-stands, He-is-fire? · Shone-forth · TE-SU-DE-SE-KE-I · The-Glorious-One · TI-DI-TE-QA-TI · TA-SA-ZA · TA-TE-I-KE-ZA-RE
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | SI-SI-ZA-NE-\*310 |  | \]SI\[ standing alone, then \]SI-ZA-NE-\*310, broken before SI (GORILA IV 155). Not readable. |  |  |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | Beloved of Minos (theophoric PN) | SPECULATIVE | SPECULATIVE (lexicon) |
-| QA-MI-\*47-NA-RA | ?qāmī-manāra? | (A) lamp-tender (qāmī 'who stands' + manāra 'lamp', cf. Heb. mĕnōrâ); (B) compound PN | SPECULATIVE |  |
+| QA-MI-\*47-NA-RA | qāmī šū-nāra | who stands: He is fire (qāmī 'who stands' + šū 'he' + nār 'fire'); rival with \*47 = mo: qāmī-manāra 'lamp-tender' (Heb. mĕnōrâ) | SPECULATIVE |  |
 | [[wiki/linear-a/words/A/A_WA_PI\|A-WA-PI]] | ʾawpiʿ | shone forth (causative); rival ʿawp 'bird' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] |  | six legible signs, dividers both sides. No reading. |  | unread |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾaddārā | The Glorious One (divine epithet, cf. Heb. ʾaddîr); or 'to the dwelling' (√d-w-r) | SPECULATIVE | SPECULATIVE (lexicon) |

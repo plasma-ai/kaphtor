@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | (?) zmr \[BK 1 1010\], \[Fr. II 253\], \[TA XI 443\] | BK 1 1010; Fr. II 253; TA XI 443 | gloss withheld |
-| Ugaritic | zmr \[Del Olmo Mitos 544\] | Del Olmo Mitos 544; Sasson 404 | gloss withheld |
+| Ugaritic | zmr \[Del Olmo Mitos 544\] | Del Olmo Mitos 544 | gloss withheld |
 | Hebrew | zämär (HALOT 274) | HALOT 274 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

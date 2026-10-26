@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nadala 'transferred' | Anderson–Moser 2024 root ndl |  |
-| Aramaic | NDL (CAL s.v. ndl) | CAL s.v. ndl | gloss withheld |
+| Aramaic | NDL (CAL s.v. ndl) | CAL s.v. ndl; Anderson–Moser 2024 root ndl | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

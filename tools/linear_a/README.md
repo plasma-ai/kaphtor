@@ -30,8 +30,8 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 | `context_search.py` | Where a word, syllabic pattern or root occurs, with co-occurrence | as `cognate_search.py` |
 | `hypothesis_test.py` | Cross-validated decode candidates tested against site, slot and neighbour evidence, with an optional null model | saved runs, `lexicon.json`, `corpus.json`, `linear-a-phrase-grammar/` |
 | `logogram_analyzer.py` | Fifteen-section analysis of one logogram, or an audit of all | `sign_values.json`, `sign-registry.json`, `corpus.json`, `lexicon.json`; `site_language_profiles.json` when present (not shipped yet) |
-| `build_root_index.py` | Builds, checks or diffs Shoresh's root index in the user cache (`CACHE/root_index.sqlite`). Until the Semitic contact lexica ship, build with `--allow-missing` | `semitic_roots.json`, `data/contact/` |
-| `root_match.py` | Shoresh: is a sign group closer to a Semitic root than its own decoys (pre-registered in `tools/core/SHORESH.md`). Refuses gold-set words outside the gold run | the root index, the gold set `tests/fixtures/root_match_gold.v3.json`, `corpus.json`; the competitor lexica `luwian_roots.json`, `egyptian_roots.json` and `hurrian_roots.json` (not shipped yet: pass `--no-competitors`) |
+| `build_root_index.py` | Builds, checks or diffs Shoresh's root index in the user cache (`CACHE/root_index.sqlite`). Five of the eleven contact lexica it reads ship, so build with `--allow-missing` | `semitic_roots.json`, `data/contact/` |
+| `root_match.py` | Shoresh: is a sign group closer to a Semitic root than its own decoys (pre-registered in `docs/shoresh-preregistration.md`). Refuses gold-set words outside the gold run | the root index, the gold set `tests/fixtures/root_match_gold.v3.json`, `corpus.json`; the competitor lexica `luwian_roots.json`, `egyptian_roots.json` and `hurrian_roots.json` (without one, it stops with exit 2 and names the file; `--no-competitors` skips them) |
 | `sign_proposer.py` | Ranked candidate CV values for an undeciphered sign | `sign-registry.json`, `sign_values.json`, `corpus.json`, `missing_sound_map.json` (`--polyvalent`); `sign-evolution-map.json`, `rejected_sign_values.json` (not shipped yet) |
 | `ventris_decode.py` | The Ventris Engine: statistics, grid, propagation, paradigms, ideograms, toponyms | `sign_values.json`, `corpus.json`, `lexicon.json`, `semitic_roots.json`, `morphemes.json` |
 | `ventris_propagate.py` | Constraint propagation of sign values across the corpus | as `ventris_decode.py` |
@@ -59,6 +59,7 @@ install a run; the file it replaces is backed up first). By default outputs go t
 | Script | Purpose | Reads, writes |
 |---|---|---|
 | `fetch_lgpn.py` | Lexicon of Greek Personal Names lookups, cached | network; `CACHE/lgpn/` |
+| `fetch_sedra.py` | Sedra's weekly release (CC BY-NC 4.0, not shipped), checked against its manifest, made into a Syriac lexicon and a data overlay for a root index of your own; rows carry Sedra's etymologies, and the lexemes ruled loans in `sedra_loans.json` have the domain `loan` | network; `CACHE/sedra/<release>/` |
 | `fetch_sigla_drawings.py` | Mirrors the SigLA drawings named in the corpus. Needs the `fetch` extra | `corpus.json`; `CACHE/sigla/` |
 | `inscription_image.py` | An inscription's photographs and facsimiles: list, open, copy, or a contact sheet, from a checkout of the image archive | `inscription_image_files.json`, `corpus.json`, `LASHON_HA_KRETAN_DIR`; `CACHE/linear-a/` |
 | `render_sign_acrophony.py` | The CH → Linear A → Linear B → Semitic acrophony table | `sign-registry.json`; `cretan-hieroglyphic/`, `sign_acrophony_lineage.json` (not shipped yet); `--out` |

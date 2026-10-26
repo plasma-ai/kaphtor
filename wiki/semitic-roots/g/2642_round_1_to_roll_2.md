@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | garr- |  | gloss withheld |
 | Tigre | ʔangärgärä |  | gloss withheld |
 | Geez | grgr, ʔangargara, nagargar LGz 202 | LGz 202 | gloss withheld |
-| Amharic | nägärgar id. |  |  |
+| Amharic | nägärgar |  |  |
 | Tigrinya | ʔangärgärä |  | gloss withheld |
 | Ugaritic | t-grgr (LGz. 202) | LGz. 202 | gloss withheld |
 

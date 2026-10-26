@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ragāšum 'excited' | Anderson–Moser 2024 root rgš |  |
-| Aramaic | RGŠ (Aramaic Root Atlas; CAL s.v. rgš) | Aramaic Root Atlas; CAL s.v. rgš | gloss withheld |
-| Hebrew | ragaš (HALOT 1189; BDB 921) | HALOT 1189; BDB 921 | gloss withheld |
+| Aramaic | RGŠ (Aramaic Root Atlas; CAL s.v. rgš) | Aramaic Root Atlas; CAL s.v. rgš; Anderson–Moser 2024 root rgš | gloss withheld |
+| Hebrew | ragaš (HALOT 1189; BDB 921) | HALOT 1189; BDB 921; Anderson–Moser 2024 root rgš | gloss withheld |
 | Arabic | raǧasa 'thunder, be in commotion' (Lane 1037) | Lane 1037 |  |
-| Syrian Aramaic | rgaš 'to rage; feel, perceive; curry' (Payne Smith 529) | Payne Smith 529 |  |
+| Syrian Aramaic | rgaš 'to rage; feel, perceive; curry' (Payne Smith 529); rgūšyā 'rushing sound of water, tumult' (Payne Smith 528) | Payne Smith 529; Payne Smith 528 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fḍḍ \[-u-\] |  |  |
+| Arabic | fḍḍ \[-u-\]; faḍḍa 'he broke it; he broke it asunder, or into several pieces' (Lane 2408) | Lane 2408 |  |
 | Hebrew | pṣpṣ |  |  |
 | Aramaic | pʿʿ (HALOT 954) | HALOT 954 |  |
 | Judaic Aramaic | pʿʿ (HALOT 954) | HALOT 954 |  |
-| Syrian Aramaic | pʿʿ (HALOT 954) | HALOT 954 |  |
+| Syrian Aramaic | pʿʿ (HALOT 954); paʿ; paʿʿeʿ (Payne Smith 453) | HALOT 954; Payne Smith 453 | gloss withheld |
 | Akkadian | paʾāṣu (pêṣu) (CAD P 1) | CAD P 1 | gloss withheld |
 | Gurage | Cha. End. Enn. Gye. fəṭäfäṭä, Ezha Muh. Msq. Gog. Sod. fəṭäffäṭä (EDG 250 apud SEDonline 1325) | EDG 250; SEDonline 1325 | gloss withheld |
 | East Ethiopic | Sel. fiṭäfäṭä, Wol. fəṭäfäṭä (EDG 250 apud SEDonline 1325) | EDG 250; SEDonline 1325 | gloss withheld |

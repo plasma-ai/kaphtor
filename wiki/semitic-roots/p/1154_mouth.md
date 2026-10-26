@@ -32,9 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | fam- (Lane 2446) | Lane 2446 |  |
 | Aramaic | B pumā |  |  |
-| Punic | py (HALOT 914) | HALOT 914 |  |
 | Syrian Aramaic | pūm 'mouth; orifice; edge; saying' (Payne Smith 437) | Payne Smith 437 |  |
+| Judaic Aramaic | päm (Kogan 2015, ch. 6 §5 no. 5) | Kogan 2015 ch. 6 §5 no. 5 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+See 143 (\*pay-).
 
 <!-- END kaphtor:record -->

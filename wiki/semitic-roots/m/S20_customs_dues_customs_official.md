@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | maks- 'customs duty, toll' (BK 2, 1138) | BK 2, 1138 |  |
+| Arabic | maks- 'customs duty, toll' (BK 2 1138); maks 'tax, impost' (Lane 2729); makkās, mākis 'one who takes, or receives, what is termed maks' (Lane 2729) | BK 2 1138; Lane 2729 |  |
 | Akkadian | mākisu (CAD M/1 129) | CAD M/1 129 | gloss withheld |
 | Phoenician | mks (Krahmalkov 281); RCL 1966: hmks... šql mḥtt; mkst (T 177) | Krahmalkov 281; T 177 | gloss withheld |
 | Hebrew | mekes (Num 31:28, 37–41; HALOT 581) | HALOT 581 | gloss withheld |
@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Pan-Semitic taxation term. The Phoenician attestation links customs collection to weighing (šql), connecting fiscal and metrological vocabulary.
+The Phoenician attestation links customs collection to weighing (šql), connecting fiscal and metrological vocabulary. Kaufman 1974, 72: Akkadian miksu 'tax' &gt; Aramaic mks(ʾ) &gt; Arabic maks; the Arabic verb and noun forms appear secondary.
 
 <!-- END kaphtor:record -->

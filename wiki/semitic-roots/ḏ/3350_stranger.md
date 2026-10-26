@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/3350_stranger
 title: "*ḏVrīʾ-: 'stranger'"
-desc: "Proto-Semitic *ḏVrīʾ-, 'stranger': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḏVrīʾ-, 'stranger': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3350"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*ḏVrīʾ- |
 | Meaning | 'stranger' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 448 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | ḏəráyˀ (ML 81 apud SEDonline 448) | ML 81; SEDonline 448 | gloss withheld |
 | Jibbali | ḏíríˀ (JL 47 apud SEDonline 448) | JL 47; SEDonline 448 | gloss withheld |
+| Soqotri | dírhi (Kogan 2015, ch. 8 §3.4.1 no. 23) | Kogan 2015 ch. 8 §3.4.1 no. 23 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

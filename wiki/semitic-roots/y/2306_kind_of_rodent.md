@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | yarbūʕ- 'jerboa' \[BK 1 811\], \[LA VIII 111\], yurbūʕ- id. \[BK 2 1626\] (both forms in \[Fr. IV 517\], \[Lane 1020\]). See further \[Hommel 338\]. | BK 1 811; LA VIII 111; BK 2 1626; Fr. IV 517; Lane 1020; Hommel 338 |  |
-| Akkadian | arrabu (arrabû, f. arrabtu) OB on \[CAD a2 302\], \[AHw. 70\] | CAD a2 302; AHw. 70; Salonen Jagd 235-7 | gloss withheld |
-| Eblaitic | a-ra-bù-um, ar-ra-bù = NI.PÉS̆ \[MEE 4 873\] (v. \[Kreb. 33\]). | MEE 4 873; Kreb. 33 |  |
+| Arabic | yarbūʕ- 'jerboa' \[BK 1 811\], \[LA VIII 111\], yurbūʕ- id. \[BK 2 1626\] (both forms in \[Fr. IV 517\], \[Lane 1020\]) | BK 1 811; LA VIII 111; BK 2 1626; Fr. IV 517; Lane 1020 |  |
+| Akkadian | arrabu (arrabû, f. arrabtu) OB on \[CAD a2 302\], \[AHw. 70\] | CAD a2 302; AHw. 70 | gloss withheld |
+| Eblaitic | a-ra-bù-um, ar-ra-bù = NI.PÉS̆ \[MEE 4 873\]. | MEE 4 873 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

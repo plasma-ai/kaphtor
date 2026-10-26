@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | dalû 'draw' | Anderson–Moser 2024 root dlw |  |
 | Arabic | dalā 'pulled' | Anderson–Moser 2024 root dlw |  |
-| Aramaic | DLY (CAL s.v. dly) | CAL s.v. dly | gloss withheld |
-| Geez | dalawa 'weigh' (Dillmann 07802) | Dillmann 07802 |  |
+| Aramaic | DLY (CAL s.v. dly) | CAL s.v. dly; Anderson–Moser 2024 root dlw | gloss withheld |
+| Geez | dalawa 'weigh' (Dillmann 07802) | Dillmann 07802; Anderson–Moser 2024 root dlw |  |
 | Hebrew | dalah 'draw' | Anderson–Moser 2024 root dlw |  |
 | Soqotri | dele (LGz. 132) | LGz. 132 |  |
 | Syrian Aramaic | dəlā (LGz. 132) | LGz. 132 | gloss withheld |

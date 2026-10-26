@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-MA Ze 11, incised in the Malia palace south of the north-west court (GORILA IV 140), complete. QE-SI-TE writes qašt 'bow', the feminine -t in TE: Akk. qaštu, Ug. qšt, Heb. qešet, Geʿez qast. Not variants: KN Ze 49 (KE-SI-TE) and KN Ze 45 (KA-SI-A-TE) are masons' marks; THE Zb 13 reads 77-08-41-&#91;&#91;?-?-04&#93;&#93; (Karnava & Nikolakopoulou); KO-SA-I-TI (HT 117a) is a name. Weak point: QE for qa. Rival: kussīʾ 'throne, seat' (Akk. kussû, Ug. ksu, Heb. kissēʾ), which suits a palace but has no -t for TE. One attestation.
+MA Ze 11, incised in the Malia palace south of the north-west court (GORILA IV 140), complete. QE-SI-TE writes qašt 'bow', the feminine -t in TE: Akk. qaštu, Ug. qšt, Heb. qešet, Geʿez qast. Not variants: KN Ze 49 (KE-SI-TE) and KN Ze 45 (KA-SI-A-TE) are masons' marks; THE Zb 13 reads 77-08-41-&#91;&#91;?-?-04&#93;&#93; (Karnava & Nikolakopoulou); KO-SA-I-TI (HT 117a) is a name. QE-SI-TE follows Heb. qéšet: QE writes qe, TE the -t; SI for še is a vowel mismatch only. Rival: kussīʾ 'throne, seat' (Akk. kussû, Ug. ksu, Heb. kissēʾ), which suits a palace but has no -t for TE. One attestation.
 
 ### Cognates
 

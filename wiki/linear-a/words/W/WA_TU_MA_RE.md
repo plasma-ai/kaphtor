@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/W/WA_TU_MA_RE
 title: "WA-TU-MA-RE"
-desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
+desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "WA-TU-MA-RE"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
 HT128a .2 WA-TU-MẠ-RE GRA+KU 12, MA underdotted in both copies (GORILA I 221). Not readable.
 

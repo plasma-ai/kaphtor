@@ -50,7 +50,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Haghia Triada | Tablet | complete |
@@ -59,6 +59,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | Dardaʿ | personal name, 8 | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Dardaʿ | personal name | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | Dardaʿ | personal name | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Dardaʿ | personal name | SPECULATIVE |

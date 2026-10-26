@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star903_I_DU_WI
 title: "*903-I-DU-WI"
-desc: "Unread (edge overlap): no role; 1 occurrence(s)."
+desc: "Unread (unread): no role; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*903-I-DU-WI"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap).
+Status **unread** (nothing known).
 
 MA 1a, a three-sided bar from the Malia palace: X, then I-DU-WI · \*47 · QE-DE-MI-NU · (GORILA I 268–269). The copie normalisée sets X apart from I-DU-WI, Younger prints X as the mark that opens the bar, and face b opens directly with A-MA · \*47 · QE-DE-MI-NU (Younger, Linear A Texts). The word is I-DU-WI, and the listed form fuses the opening mark with it. Not a word.
 

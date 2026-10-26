@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/ARKH/ARKH/ARKH2
 title: "ARKH2"
-desc: "Tablet, Arkhanes, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Arkhanes, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ARKH2"
 site: "Arkhanes"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
-words: ["*131B", "SI-DA-TE"]
+translation: "incomplete"
+words: ["*131B", "A-SU-PU-WA", "SI-DA-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -60,9 +60,33 @@ Unicode (Linear A block):
 𐝫
 ```
 
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> Provisions: KU-RA, must 5; A-SI-DA-TO-I 12; ZU-\*301-SE-DE-\*21F-\*118 6; the storehouse 4; RU-MI\[…\]
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/S/SI_DA_TE\|SI-DA-TE]] | ṣēdat | provisions (heading) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KU_RA\|KU-RA]] |  | recipient (unread) |  | unread |
+| [[wiki/linear-a/words/star/star131B\|\*131B]] | tirōšu | must, new wine (logogram), 5 | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] |  | recipient (unread), 12 |  | unread |
+| [[wiki/linear-a/words/Z/ZU_star301_SE_DE_star21F_star118\|ZU-\*301-SE-DE-\*21F-\*118]] |  | entry (unread), 6 |  | unread |
+| [[wiki/linear-a/words/A/A_SU_PU_WA\|A-SU-PU-WA]] | ʾasuppūa | store(house), 4; rival a personal designation in -uwa | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/R/RU_MI\|RU-MI]] |  | broken word |  | unread |
+
+### Notes
+
+SI-DA-TE heads a must list; the end of the last line is written over an erasure (GORILA III 6–7).
+
+### Source
+
+- di Mino: A-SU-PU-WA
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/S/SI_DA_TE|SI-DA-TE]].
+[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/A/A_SU_PU_WA|A-SU-PU-WA]], [[wiki/linear-a/words/S/SI_DA_TE|SI-DA-TE]].
 
 ## Edition differences
 

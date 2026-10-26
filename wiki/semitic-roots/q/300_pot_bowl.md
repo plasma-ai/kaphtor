@@ -32,8 +32,12 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | qadaḥ- 2 (Lane 2493) | Lane 2493 |  |
 | Akkadian | qadû |  |  |
-| Epigraphic South Arabian | Sab qdḥ, mqdḥ(m,n) (Biella 444) | Biella 444 | gloss withheld |
+| Epigraphic South Arabian | Sab qdḥ, mqdḥ(m,n) (Biella 444; Sabaweb lemma 4737) | Biella 444; Sabaweb lemma 4737 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+The verb 'to ladle out, draw (water)' is 3672.
 
 <!-- END kaphtor:record -->

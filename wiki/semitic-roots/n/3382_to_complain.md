@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3382_to_complain
 title: "*nḥr: 'to complain'"
-desc: "Proto-Semitic *nḥr, 'to complain': reflexes in 2 language(s)."
+desc: "Proto-Semitic *nḥr, 'to complain': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3382"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*nḥr |
 | Meaning | 'to complain' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1474 |
 
 ## Reflexes
 
@@ -31,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Mehri | šənḥáwr (ML 292 apud SEDonline 1474) | ML 292; SEDonline 1474 | gloss withheld |
 | Jibbali | šənḥér (JL 186 apud SEDonline 1474) | JL 186; SEDonline 1474 | gloss withheld |
+| Soqotri | šénḥər (Kogan 2015, ch. 8 §3.4.1 no. 76) | Kogan 2015 ch. 8 §3.4.1 no. 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

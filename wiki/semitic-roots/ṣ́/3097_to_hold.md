@@ -23,7 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*ṣ̂ɣṯ |
 | Meaning | 'to hold' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1538 |
 
 ## Reflexes
 

@@ -59,7 +59,7 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KH/KH/KH88\|KH88]] | Khania | Tablet | complete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5a\|ZA5a]] | Zakros | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
@@ -67,5 +67,6 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KH/KH/KH88\|KH88]] | ḥiṭṭa | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5a\|ZA5a]] | ḥiṭṭa | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | ḥiṭṭa | wheat, 1; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' | CANDIDATE |
 
 <!-- END kaphtor:record -->

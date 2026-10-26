@@ -29,9 +29,9 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʾanqaḏa 'he saved, rescued, liberated' (Lane 2837); naqaḏ 'a thing that one has saved, rescued' (Lane 2837) | Lane 2837; Lane 2837 |  |
+| Arabic | ʾanqaḏa 'he saved, rescued, liberated' (Lane 2837); naqaḏ 'a thing that one has saved, rescued' (Lane 2837) | Lane 2837 |  |
 | Pre-Islamic North Arabian | Safaitic ʾnqḏ (Al-Jallad–Jaworska 45) | Al-Jallad–Jaworska 45 | gloss withheld |
-| Epigraphic South Arabian | Sab hnqḏ (SD 97); (Biella 315) | SD 97; Biella 315 | gloss withheld |
+| Epigraphic South Arabian | Sab hnqḏ (SD 97) (Biella 315) | SD 97; Biella 315 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

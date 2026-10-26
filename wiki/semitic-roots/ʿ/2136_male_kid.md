@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Mehri | ʕarīḏ̣, ʔārīḏ̣ \[JM 27\]. | JM 27 | gloss withheld |
 | Akkadian | urīṣu, urāṣum OAkk. on \[AHw. 1430\] | AHw. 1430 | gloss withheld |
-| Harsusi | ʔārīḏ̣ id. \[JH 9\]. | JH 9 |  |
+| Harsusi | ʔārīḏ̣ \[JH 9\]. | JH 9 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

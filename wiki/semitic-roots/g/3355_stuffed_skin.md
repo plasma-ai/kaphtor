@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*gVpan- |
 | Meaning | 'stuffed skin' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 456 |
 
 ## Reflexes
 

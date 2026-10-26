@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3390_to_step_to_tread
 title: "*rkt: 'to step, to tread'"
-desc: "Proto-Semitic *rkt, 'to step, to tread': reflexes in 3 language(s)."
+desc: "Proto-Semitic *rkt, 'to step, to tread': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3390"
@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*rkt |
 | Meaning | 'to step, to tread' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1500 |
 
 ## Reflexes
 
@@ -32,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Mehri | rəkūt (ML 323 apud SEDonline 1500) | ML 323; SEDonline 1500 | gloss withheld |
 | Jibbali | ɛrkɔ́t (JL 211 apud SEDonline 1500) | JL 211; SEDonline 1500 | gloss withheld |
 | Modern South Arabian | Bathari rəkōt (Gasparini - Morris 2025 428 apud SEDonline 1500) | SEDonline 1500 | gloss withheld |
+| Soqotri | rékot (Kogan 2015, ch. 8 §3.4.1 no. 94) | Kogan 2015 ch. 8 §3.4.1 no. 94 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -54,13 +54,14 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Palaikastro | Tablet | none |
+| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Palaikastro | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | Zakros | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | makita | magical protection, amulet (Egyptian mk.t), 1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | makita | magical protection (Egyptian mk.t) | CANDIDATE |
 
 <!-- END kaphtor:record -->

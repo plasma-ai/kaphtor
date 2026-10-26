@@ -34,7 +34,7 @@ updated: 2026-10-25T05:11:48Z
 | Phoenician | k (Tomback 1978: 136 apud SEDonline 1387) | Tomback 1978: 136; SEDonline 1387 | gloss withheld |
 | Hebrew | kə (HALOT 453 apud SEDonline 1387) | HALOT 453; SEDonline 1387 | gloss withheld |
 | Arabic | ka- (BK 2 849, Lane 2581 apud SEDonline 1387) | BK 2 849, Lane 2581; SEDonline 1387 | gloss withheld |
-| Epigraphic South Arabian | Sab. k- (SD 76 apud SEDonline 1387); Qat. k- (LIQ 83 apud SEDonline 1387) | SD 76; SEDonline 1387; LIQ 83; SEDonline 1387 | gloss withheld |
+| Epigraphic South Arabian | Sab. k- (SD 76 apud SEDonline 1387); Qat. k- (LIQ 83 apud SEDonline 1387) | SD 76; SEDonline 1387; LIQ 83 | gloss withheld |
 | East Ethiopic | Sel. Wol. ko (EDG 332 apud SEDonline 1387) | EDG 332; SEDonline 1387 | gloss withheld |
 | Gurage | End. Enn. Gye. xä, Sod. ko (EDG 332 apud SEDonline 1387) | EDG 332; SEDonline 1387 | gloss withheld |
 

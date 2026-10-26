@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | sanna 'sharpened' (Lane 1435) | Lane 1435 |  |
+| Arabic | sanna 'sharpened' (Lane 1435) | Lane 1435; Anderson–Moser 2024 root snn |  |
 | Geez | sanana 'sharpen' | Anderson–Moser 2024 root snn |  |
 | Hebrew | šnn (HALOT 1606) | HALOT 1606 | gloss withheld |
 | Judaic Aramaic | šinnēn (HALOT 1606) | HALOT 1606 |  |

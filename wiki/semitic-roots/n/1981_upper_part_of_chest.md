@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | naḥr- 'the collarbone and the part of the body between the base of the neck and the sternum' \[BK 2 1213\]; manḥūr- 'part of the body around the collarbone' \[BK 2 1213\]. | BK 2 1213; BK 2 1213 |  |
+| Arabic | naḥr- 'the collarbone and the part of the body between the base of the neck and the sternum' \[BK 2 1213\]; manḥūr- 'part of the body around the collarbone' \[BK 2 1213\]. | BK 2 1213 |  |
 | Tigre | näḥar \[LH 324\] | LH 324 | gloss withheld |
 | Jibbali | náḥar \[JJ 187\] | JJ 187 | gloss withheld |
 

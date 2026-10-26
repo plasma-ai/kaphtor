@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | tamkāru (CAD T 125; tVmkVr- formation from same root) | CAD T 125 | gloss withheld |
 | Ugaritic | mkr (DULAT 537); /makāru/? (UVST 146) | DULAT 537; UVST 146 | gloss withheld |
 | Phoenician | mkr (Krahmalkov 282); sellers of incense, iron objects, gold objects, broad beans, flax/linen attested; mkr (T 177) | Krahmalkov 282; T 177 | gloss withheld |
-| Hebrew | mōkēr (Isa 24:2; HALOT 581); mākar (HALOT 581) | HALOT 581; HALOT 581 | gloss withheld |
+| Hebrew | mōkēr (Isa 24:2; HALOT 581); mākar (HALOT 581) | HALOT 581 | gloss withheld |
 | Epigraphic South Arabian | Sab mkr (SD 85; Biella 274; Sabaweb lemma 4534) | SD 85; Biella 274; Sabaweb lemma 4534 | gloss withheld |
 | Judaic Aramaic | mekar (T 177) | T 177 |  |
 

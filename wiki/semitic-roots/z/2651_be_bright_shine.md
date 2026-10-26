@@ -24,7 +24,7 @@ updated: 2026-10-22T17:38:31Z
 | Reconstruction | \*zhy |
 | Meaning | 'be bright, shine' |
 | Basis | SED |
-| SED | SEDonline semet 3185/2 |
+| SED | SEDonline semet 3185 |
 
 ## Reflexes
 

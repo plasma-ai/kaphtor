@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | nazḫa, nazḥa (LGz. 411) | LGz. 411 | gloss withheld |
+| Geez | nazḫa, nazḥa (LGz. 411) | LGz. 411; Anderson–Moser 2024 root nḏḥ | gloss withheld |
 | Amharic | näzza (LGz. 411) | LGz. 411 |  |
 | Arabic | naḍaḥa, naḍaḫa (LGz. 411) | LGz. 411 | gloss withheld |
 | Epigraphic South Arabian | Sab nḍḫ (SD 92; Sabaweb lemma 4609) | SD 92; Sabaweb lemma 4609 | gloss withheld |

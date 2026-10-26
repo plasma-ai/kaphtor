@@ -29,9 +29,9 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | nablu (Kogan 2011, 195) | Kogan 2011, 195 |  |
-| Ugaritic | nblʾat (Kogan 2011, 195) | Kogan 2011, 195 |  |
-| Geez | nabal (Kogan 2011, 195) | Kogan 2011, 195 |  |
+| Akkadian | nablu (Kogan 2011, 195) | Kogan 2011 195 |  |
+| Ugaritic | nblʾat (Kogan 2011, 195) | Kogan 2011 195 |  |
+| Geez | nabal (Kogan 2011, 195) | Kogan 2011 195 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

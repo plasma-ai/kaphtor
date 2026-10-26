@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | lḥs \[-a-\] (Lane 2654) | Lane 2654 |  |
 | Mehri | laḥās |  |  |
-| Akkadian | lâš- (otherwise &lt;\*lhš, cf. Arab lhs) |  | gloss withheld |
+| Akkadian | lâš- |  | gloss withheld |
 | Tigre | läḥasa |  |  |
 | Geez | laḥasa |  |  |
 | Gurage | lasä |  |  |

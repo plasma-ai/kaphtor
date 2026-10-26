@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/ʾ/2718_sacred_grove_pole_goddess_Asherah
-title: "*ʾašēr-at-: 'sacred grove/pole; goddess (Asherah)'"
-desc: "Proto-Semitic *ʾašēr-at-, 'sacred grove/pole; goddess (Asherah)': reflexes in 6 language(s)."
+title: "*ʾaṯir-at-: 'sacred grove/pole; goddess (Asherah)'"
+desc: "Proto-Semitic *ʾaṯir-at-, 'sacred grove/pole; goddess (Asherah)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2718"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-10-26T14:26:59Z
 ---
 
-# *ʾašēr-at-: 'sacred grove/pole; goddess (Asherah)'
+# *ʾaṯir-at-: 'sacred grove/pole; goddess (Asherah)'
 
 [[wiki/semitic-roots/ʾ/_index|..]]
 
@@ -21,7 +21,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Field | Value |
 |---|---|
-| Reconstruction | \*ʾašēr-at- |
+| Reconstruction | \*ʾaṯir-at- |
 | Meaning | 'sacred grove/pole; goddess (Asherah)' |
 | Basis | project |
 

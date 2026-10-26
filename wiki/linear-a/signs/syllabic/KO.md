@@ -45,6 +45,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KO_JA\|KO-JA]] | Qōya / Quya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | kummu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |
 
 <!-- END kaphtor:record -->

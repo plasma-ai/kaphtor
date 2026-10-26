@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | zurzur-, zurzūr- 'starling' \[BK 1 985\], \[LA IV 323\]. | BK 1 985; LA IV 323 |  |
-| Hebrew | zarzīr (HALOT 281) | HALOT 281; Ja. 413 | gloss withheld |
+| Hebrew | zarzīr (HALOT 281) | HALOT 281 | gloss withheld |
 | Syrian Aramaic | zarzīrā, zarzūrā 'starling' \[Brock. 206\], \[PS 1156\]. | Brock. 206; PS 1156 |  |
 | Modern Aramaic | JNA zarzūra (Sabar 161) | Sabar 161 | gloss withheld |
 

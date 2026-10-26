@@ -29,12 +29,12 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | māraḳ (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Arabic | maraq- (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Geez | maraḳ (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Mehri | mərēḳ (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Jibbali | mírɛ́ḳ (Kogan 2011, 242) | Kogan 2011, 242 |  |
-| Soqotri | maraḳ (Kogan 2011, 242) | Kogan 2011, 242 |  |
+| Hebrew | māraḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Arabic | maraq- (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Geez | maraḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Mehri | mərēḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Jibbali | mírɛ́ḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Soqotri | maraḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

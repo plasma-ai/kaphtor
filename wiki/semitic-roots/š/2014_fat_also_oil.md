@@ -35,8 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | šamina, šumna \[DM 443, 455\] | DM 443, 455 | gloss withheld |
 | Ugaritic | šmn \[Aist 309\] | Aist 309 | gloss withheld |
 | Phoenician | šmn \[T 323\] | T 323 | gloss withheld |
-| Modern Aramaic | MAL šomna 'butter' \[Berg 91\] MMND šamīna 'fat (a.), stout' \[M MND 502, 521\] | Berg 91 |  |
-| Jibbali | šɛ̃n \[JJ 262\] (&lt;\*šVmn-) | JJ 262 | gloss withheld |
+| Modern Aramaic | MAL šomna \[Berg 91\] MMND šamīna \[M MND 502, 521\] | Berg 91; M MND 502, 521 | gloss withheld |
+| Jibbali | šɛ̃n \[JJ 262\] | JJ 262 | gloss withheld |
 | Hebrew | šämän (HALOT 1567, 1568). | HALOT 1567, 1568 | gloss withheld |
 | Judaic Aramaic | šǝman (šumnā) \[Ja 1536, 1597\]; šwmn \[DJPA 541a apud CAL\] | Ja 1536, 1597; DJPA 541a; CAL | gloss withheld |
 | Syrian Aramaic | šumnā 'fat, fatness' \[Brock 786\] | Brock 786 |  |

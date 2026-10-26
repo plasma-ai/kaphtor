@@ -32,7 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Phoenician | ḥṭr (DNWSI 364 apud SEDonline 351) | DNWSI 364; SEDonline 351 | gloss withheld |
 | Hebrew | ḥōṭär (HALOT 307 apud SEDonline 351) | HALOT 307; SEDonline 351 | gloss withheld |
 | Aramaic | Samalian, DA ḥṭr (DNWSI 364 apud SEDonline 351) | DNWSI 364; SEDonline 351 | gloss withheld |
-| Judaic Aramaic | JPA ḥwṭr (DJPA 197 apud SEDonline 351); JBA ḥuṭrā (DJBA 437 apud SEDonline 351) | DJPA 197; SEDonline 351; DJBA 437; SEDonline 351 | gloss withheld |
+| Judaic Aramaic | JPA ḥwṭr (DJPA 197 apud SEDonline 351); JBA ḥuṭrā (DJBA 437 apud SEDonline 351) | DJPA 197; SEDonline 351; DJBA 437 | gloss withheld |
 | Syrian Aramaic | ḥuṭrā (LSyr. 228, SL 444 apud SEDonline 351) | LSyr. 228, SL 444; SEDonline 351 | gloss withheld |
 | Mandaic Aramaic | ḥuṭra (MD 135 apud SEDonline 351) | MD 135; SEDonline 351 | gloss withheld |
 | Modern Aramaic | Tur. ḥaṭro (Tezel 2003:107 apud SEDonline 351) | SEDonline 351 | gloss withheld |

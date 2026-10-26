@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šurrû 'begin' | Anderson–Moser 2024 root šry |  |
-| Aramaic | ŠRY (Aramaic Root Atlas; DNWSI 1192 apud CAL) | Aramaic Root Atlas; DNWSI 1192; CAL | gloss withheld |
+| Akkadian | šurrû (Kogan 2015, ch. 6 §4 no. 13) | Kogan 2015 ch. 6 §4 no. 13; Anderson–Moser 2024 root šry | gloss withheld |
+| Aramaic | ŠRY (Aramaic Root Atlas; DNWSI 1192 apud CAL) | Aramaic Root Atlas; DNWSI 1192; CAL; Anderson–Moser 2024 root šry | gloss withheld |
 | Hebrew | šarah 'let' | Anderson–Moser 2024 root šry |  |
 | Ugaritic | šry 'release' | Anderson–Moser 2024 root šry |  |
 | Judaic Aramaic | šərā (HALOT 1652) | HALOT 1652 |  |

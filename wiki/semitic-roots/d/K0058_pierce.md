@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | DQR (DNWSI 258 apud CAL) | DNWSI 258; CAL | gloss withheld |
-| Hebrew | daqar 'pierce' (BDB 201) | BDB 201 |  |
+| Aramaic | DQR (DNWSI 258 apud CAL) | DNWSI 258; CAL; Anderson–Moser 2024 root dqr | gloss withheld |
+| Hebrew | daqar 'pierce' (BDB 201) | BDB 201; Anderson–Moser 2024 root dqr |  |
 | Syrian Aramaic | dqar 'dig, pierce; gore, butt' (Payne Smith 96) | Payne Smith 96 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

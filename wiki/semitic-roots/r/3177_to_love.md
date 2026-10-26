@@ -31,7 +31,7 @@ updated: 2026-10-24T15:25:56Z
 |---|---|---|---|
 | Akkadian | râmu (CAD R 137 apud SEDonline 1577) | CAD R 137; SEDonline 1577 | gloss withheld |
 | Arabic | rˀm (Lane 997 apud SEDonline 1577) | Lane 997; SEDonline 1577 | gloss withheld |
-| Soqotri | róˀom (LS 391; SLOnline 7661) | LS 391 | gloss withheld |
+| Soqotri | róˀom (LS 391; SLOnline 7661) | LS 391; SLOnline 7661 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

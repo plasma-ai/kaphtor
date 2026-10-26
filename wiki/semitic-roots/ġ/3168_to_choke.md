@@ -33,7 +33,7 @@ updated: 2026-10-24T15:25:56Z
 | Mehri | ɣəṭ (ML 144 apud SEDonline 1262) | ML 144; SEDonline 1262 | gloss withheld |
 | Jibbali | ɣeṭṭ (JL 90 apud SEDonline 1262) | JL 90; SEDonline 1262 | gloss withheld |
 | Modern South Arabian | Bathari ɣaṭ (Gasparini - Morris 2025 433 apud SEDonline 1262) | SEDonline 1262 | gloss withheld |
-| Soqotri | ˁeṭ (LS 305; SLOnline 3344) | LS 305 | gloss withheld |
+| Soqotri | ˁeṭ (LS 305; SLOnline 3344) | LS 305; SLOnline 3344 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

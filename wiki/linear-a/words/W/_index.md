@@ -2,22 +2,20 @@
 name: wiki/linear-a/words/W
 desc: "Words whose first sign begins with W."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-26T15:04:44Z
 ---
 
 # wiki/linear-a/words/W
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/W/WA_DI_NI|WA_DI_NI]]: Unread (role only): personal name; 2 occurrence(s).
-
-[[wiki/linear-a/words/W/WA_JA_PI|WA_JA_PI]]: Unread (edge overlap): toponym; 1 occurrence(s).
+[[wiki/linear-a/words/W/WA_JA_PI|WA_JA_PI]]: Unread (role only): toponym; 1 occurrence(s).
 
 [[wiki/linear-a/words/W/WA_O_MI|WA_O_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/W/WA_PI_TI_NA_RA2|WA_PI_TI_NA_RA2]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/W/WA_TU_MA_RE|WA_TU_MA_RE]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/W/WA_TU_MA_RE|WA_TU_MA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/W/WA_star362|WA_star362]]: Unread (role only): personal name; 1 occurrence(s).
 

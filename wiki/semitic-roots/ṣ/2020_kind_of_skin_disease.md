@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | (?) ṣimɣat- 'a kind of hideous growth seen on the lips, on the nose, or on the ears' \[BK 1 1372\]; also ṣamɣat- 'ulcer' \[ibid.\]. | BK 1 1372; ibid. |  |
-| Akkadian | ṣennettu, ṣernettu, ṣennītu OB on \[CAD ṣ 127\], \[AHw 1090\] (&lt;\*ṣirnVɣ-t-u) | CAD ṣ 127; AHw 1090 | gloss withheld |
+| Arabic | (?) ṣimɣat- 'a kind of hideous growth seen on the lips, on the nose, or on the ears' \[BK 1 1372\]; also ṣamɣat- 'ulcer' \[ibid.\]. | BK 1 1372 |  |
+| Akkadian | ṣennettu, ṣernettu, ṣennītu OB on \[CAD ṣ 127\], \[AHw 1090\] | CAD ṣ 127; AHw 1090 | gloss withheld |
 | Geez | ṣǝrnǝʕt, ṣǝrnǝʔ \[LGz 564\]. | LGz 564 | gloss withheld |
 | Hebrew | ṣāraʕat (HALOT 1057). | HALOT 1057 | gloss withheld |
-| Judaic Aramaic | ṣurʕā, ṣirʕā \[Ja 1272\], ṣurʕătā \[ibid.\]; ṣrʕh do. \[DJPA 470b apud CAL\] | Ja 1272; ibid.; DJPA 470b; CAL | gloss withheld |
+| Judaic Aramaic | ṣurʕā, ṣirʕā \[Ja 1272\], ṣurʕătā \[ibid.\]; ṣrʕh \[DJPA 470b apud CAL\] | Ja 1272; DJPA 470b; CAL | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

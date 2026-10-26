@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nabīlat- 'corpse, carrion' \[BK 2 1189\] | BK 2 1189 |  |
-| Akkadian | nabultu SB on \[AHw 700\]; nap/bultu \[CAD n1 328\] | AHw 700; ibid.; CAD n1 328; ibid. | gloss withheld |
+| Akkadian | nabultu SB on \[AHw 700\]; nap/bultu \[CAD n1 328\] | AHw 700; CAD n1 328 | gloss withheld |
 | Hebrew | nǝbēlā (HALOT 664) | HALOT 664 | gloss withheld |
 | Judaic Aramaic | nǝbēltā \[Ja 870\]; nbylh, det. nblth \[DJPA 339b apud CAL\] | Ja 870; DJPA 339b; CAL | gloss withheld |
 

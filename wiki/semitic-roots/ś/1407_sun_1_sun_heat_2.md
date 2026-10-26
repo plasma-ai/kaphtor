@@ -42,9 +42,13 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | šimšā (OLA80 §30.5) | OLA80 §30.5 | gloss withheld |
 | Punic | šmš 'sun' | Anderson–Moser 2024 root šamš |  |
 | Amorite | śamśum (Gelb AS 21, 31); ŝapŝ(um) | Gelb AS 21 31 | gloss withheld |
-| Jibbali | s̃um (Kogan 2011, 193) | Kogan 2011, 193 | gloss withheld |
+| Jibbali | s̃um 2 (Kogan 2011, 193) | Kogan 2011 193 | gloss withheld |
 | Eblaitic | sí-piš; si-piš (OLA80 §11.9, §13.2) | OLA80 §11.9, §13.2 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Ebl. sí-piš and Ugr. špš &lt; \*šampšu, with p inserted after m (OLA80 §11.9); Kogan 2011, 193 calls the Ugr. p unexpected. Soqotri šam: ʸhom, šɔm 'sun; day' derives from \*yawm- (786), not from this root (SLOnline 7297).
 
 <!-- END kaphtor:record -->

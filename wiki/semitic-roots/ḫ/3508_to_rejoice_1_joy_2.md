@@ -29,11 +29,11 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḫadû (CAD Ḫ 25); ḫadû A (CAD Ḫ 25); ḫidūtu (CAD Ḫ 183); ḫūdu (CAD Ḫ 223) | CAD Ḫ 25; CAD Ḫ 25; CAD Ḫ 183; CAD Ḫ 223 | gloss withheld |
+| Akkadian | ḫadû (CAD Ḫ 25); ḫadû A (CAD Ḫ 25); ḫidūtu (CAD Ḫ 183); ḫūdu (CAD Ḫ 223) | CAD Ḫ 25; CAD Ḫ 183; CAD Ḫ 223 | gloss withheld |
 | Hebrew | I ḥdh (HALOT 291) | HALOT 291 | gloss withheld |
 | Ugaritic | ḫdw (HALOT 291) | HALOT 291 |  |
 | Aramaic | ḥdʾ (HALOT 291) | HALOT 291 |  |
-| Syrian Aramaic | ḥdā 'be glad, rejoice' (Payne Smith 127); ḥadwā 'gladness, joy' (Payne Smith 127) | Payne Smith 127; Payne Smith 127 |  |
+| Syrian Aramaic | ḥdā 'be glad, rejoice' (Payne Smith 127); ḥadwā 'gladness, joy' (Payne Smith 127) | Payne Smith 127 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

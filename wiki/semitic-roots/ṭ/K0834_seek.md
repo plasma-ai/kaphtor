@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṭalaba 'sought' (Lane 1864) | Lane 1864 |  |
-| Aramaic | ṬLB (CAL s.v. ṭlb) | CAL s.v. ṭlb | gloss withheld |
+| Arabic | ṭalaba 'sought' (Lane 1864) | Lane 1864; Anderson–Moser 2024 root ṭlb |  |
+| Aramaic | ṬLB (CAL s.v. ṭlb) | CAL s.v. ṭlb; Anderson–Moser 2024 root ṭlb | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,7 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḏafira 'it had, emitted, a pungent, strong odour' (Lane 967); ḏafir 'having, emitting, a pungent, strong odour' (Lane 967) | Lane 967; Lane 967 |  |
+| Arabic | ḏafira 'it had, emitted, a pungent, strong odour' (Lane 967); ḏafir 'having, emitting, a pungent, strong odour' (Lane 967) | Lane 967 |  |
 | Epigraphic South Arabian | Sab ḏfrʾ (SD 38); ḏfrʾn (Biella 98) | SD 38; Biella 98 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

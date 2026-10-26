@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0685_press
 title: "*ʿVṣVr-: 'press'"
-desc: "Proto-Semitic *ʿVṣVr-, 'press': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʿVṣVr-, 'press': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0685"
@@ -29,11 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕaṣara 'pressed' (Lane 2061) | Lane 2061 |  |
-| Aramaic | ʿṢR (Aramaic Root Atlas; CAL s.v. ʿṣr) | Aramaic Root Atlas; CAL s.v. ʿṣr | gloss withheld |
+| Arabic | ʕaṣara 'pressed' (Lane 2061) | Lane 2061; Anderson–Moser 2024 root ʿṣr |  |
+| Aramaic | ʿṢR (Aramaic Root Atlas; CAL s.v. ʿṣr) | Aramaic Root Atlas; CAL s.v. ʿṣr; Anderson–Moser 2024 root ʿṣr | gloss withheld |
 | Geez | ʿaṣara 'press' | Anderson–Moser 2024 root ʿṣr |  |
 | Hebrew | ʿaṣar 'restrain' | Anderson–Moser 2024 root ʿṣr |  |
 | Canaanite | EA ʿaṣīri \[ḫa-ṣí-ri\] (Krahmalkov 385) | Krahmalkov 385 | gloss withheld |
+| Syrian Aramaic | ʿṣar 'tread, press out; crush' (Payne Smith 423) | Payne Smith 423 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

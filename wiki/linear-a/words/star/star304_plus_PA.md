@@ -56,12 +56,13 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | none |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis\|HTWa1021bis]] | Haghia Triada | Nodule | none |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | pidru(?) + PA | unidentified counted category; quantity lost, 4 inferred from KU-RO 97 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | pidru + PA | \*304 oil/fat-register commodity with PA adjunct | CANDIDATE |
 
 <!-- END kaphtor:record -->

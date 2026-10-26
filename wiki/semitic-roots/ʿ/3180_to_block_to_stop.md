@@ -32,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Arabic | ˁǯm (Lane 1966 apud SEDonline 2081) | Lane 1966; SEDonline 2081 | gloss withheld |
 | Mehri | ˀáygəm (ML 160 apud SEDonline 2081) | ML 160; SEDonline 2081 | gloss withheld |
 | Jibbali | ˁégəm (JL 9 apud SEDonline 2081) | JL 9; SEDonline 2081 | gloss withheld |
-| Soqotri | ˁégom (LS 297; SLOnline 25160) | LS 297 | gloss withheld |
+| Soqotri | ˁégom (LS 297; SLOnline 25160) | LS 297; SLOnline 25160 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

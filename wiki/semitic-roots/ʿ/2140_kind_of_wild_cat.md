@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | ʔáyri (pl. ʔarēwǝt) \[JM 28\]. | JM 28 | gloss withheld |
-| Tigrinya | waʕro \[Bass. 653\] | Bass. 653; DRS 581 | gloss withheld |
-| Jibbali | ʕéri (pl. aʕrét) id. \[JJ 15\]. | JJ 15 |  |
+| Tigrinya | waʕro \[Bass. 653\] | Bass. 653 | gloss withheld |
+| Jibbali | ʕéri (pl. aʕrét) \[JJ 15\]. | JJ 15 |  |
 | Arabic | ʕurwat- 'lion' \[BK 2 238\], \[LA XV 51\]. | BK 2 238; LA XV 51 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

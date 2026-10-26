@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | awātu 'word' | Anderson–Moser 2024 root hwt |  |
+| Akkadian | awātu (Kogan 2015, ch. 5 §3.2.3 no. 8) | Kogan 2015 ch. 5 §3.2.3 no. 8; Anderson–Moser 2024 root hwt | gloss withheld |
 | Ugaritic | hwt (CUC; DULAT 344) | CUC; DULAT 344 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

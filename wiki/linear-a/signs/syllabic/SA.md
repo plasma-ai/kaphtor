@@ -84,10 +84,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_SA_RA_ME\|SA-SA-RA-ME]] | yaššaram | PROBABLE |
+| [[wiki/linear-a/words/S/SA_TA\|SA-TA]] | Šata | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_MU_SA_SE\|TE-MU-SA-SE]] | temussasē | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] | Tursa | SPECULATIVE |
 

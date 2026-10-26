@@ -36,4 +36,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+The Ugaritic verb ḥrš is 'to make spells or incantations' (DULAT 365). Hebrew ḥāraš 'to plough; engrave' (HALOT 357) is 1561 \*ḥVruṯ-.
+
 <!-- END kaphtor:record -->

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṭlʔ (pt. pass. qal) (HALOT 375) | HALOT 375 | gloss withheld |
 | Amharic | ṭālā, ṭǝlät (K 2087) | K 2087 | gloss withheld |
 | Judaic Aramaic | ṭälī 'hanging, covering, table outfit, linen' (Ja 536) | Ja 536 |  |
-| Tigrinya | ṭala (KT 2398), č̣elay (ibid. 2495) | KT 2398; ibid. 2495 | gloss withheld |
+| Tigrinya | ṭala (KT 2398), č̣elay (ibid. 2495) | KT 2398; KT 2495 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

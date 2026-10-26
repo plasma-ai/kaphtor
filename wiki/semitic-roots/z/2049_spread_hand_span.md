@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | (?) drt \[Gordon 387\]. | Gordon 387 | gloss withheld |
 | Hebrew | zärät (HALOT 283); PB \[Ja 415\] | HALOT 283; Ja 415 | gloss withheld |
 | Judaic Aramaic | zartā, zērǝtā \[ibid.\]; zrt \[DJPA 183b apud CAL\] | DJPA 183b; CAL | gloss withheld |
-| Syrian Aramaic | zǝwārā 'fist; hand; handful, small fistful' \[Brock 194\]; zartā 'span (handspan measure)' \[ibid. 208\] | Brock 194; ibid. 208 |  |
+| Syrian Aramaic | zǝwārā 'fist; hand; handful, small fistful' \[Brock 194\]; zartā 'span (handspan measure)' \[ibid. 208\] | Brock 194; Brock 208 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

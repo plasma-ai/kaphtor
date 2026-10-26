@@ -30,16 +30,16 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | maṯānat- 'bladder; uterus', maṯan- 'clitoris' \[BK 2 1062\], mṯn 'touch, wound in the bladder' \[ibid.\]. | BK 2 1062; ibid. |  |
+| Arabic | maṯānat- 'bladder; uterus', maṯan- 'clitoris' \[BK 2 1062\], mṯn 'touch, wound in the bladder' \[ibid.\]. | BK 2 1062 |  |
 | Akkadian | šânu MB, SB \[CAD š1 409\], \[AHw 1225\], šatānu \[CAD š2 192\], \[AHw 1199\]; šīnātu (pl. tantum) OAkk on \[CAD š3 40\], \[AHw 1241\] | CAD š1 409; AHw 1225; CAD š2 192; AHw 1199; CAD š3 40; AHw 1241 | gloss withheld |
-| Tigre | šenä \[LH 227\], šǝn (šǝnt- before suffixes) \[ibid.\] | LH 227; ibid. | gloss withheld |
-| Mandaic Aramaic | TUN (imperf. taiin) \[DM 483\], tina \[ibid. 486\] | DM 483; ibid. 486 | gloss withheld |
+| Tigre | šenä \[LH 227\], šǝn (šǝnt- before suffixes) \[ibid.\] | LH 227 | gloss withheld |
+| Mandaic Aramaic | TUN (imperf. taiin) \[DM 483\], tina \[ibid. 486\] | DM 483; DM 486 | gloss withheld |
 | Ugaritic | \*ṯn (T-stem) \[Aist 339\], ṯnt-h \[Gordon 404\] | Aist 339; Gordon 404 | gloss withheld |
-| Geez | ŝena, sena \[LGz 540\], ŝǝnt, maŝyant \[ibid.\]; ʔaswana \[LGz. 520\] (causative). | LGz 540; ibid.; LGz. 520 | gloss withheld |
-| Hebrew | \*hištīn (HALOT 1479), \*šayin (in pl. suff. šēnēhäm) (ibid.). | HALOT 1479; ibid. | gloss withheld |
-| Amharic | šännä, šennä \[K 641\], šǝnt \[ibid. 640\] | K 641; ibid. 640 | gloss withheld |
-| Syrian Aramaic | tān \[Brock 819\], tīnā, tūnā, tǝyānā 'urine' \[ibid.\] | Brock 819; ibid. |  |
-| Tigrinya | šänä \[Bass 230\], šǝnti 'urine' \[ibid.\] | Bass 230; ibid. |  |
+| Geez | ŝena, sena \[LGz 540\], ŝǝnt, maŝyant \[ibid.\]; ʔaswana \[LGz. 520\] (causative). | LGz 540; LGz. 520 | gloss withheld |
+| Hebrew | \*hištīn (HALOT 1479), \*šayin (in pl. suff. šēnēhäm) (ibid.). | HALOT 1479 | gloss withheld |
+| Amharic | šännä, šennä \[K 641\], šǝnt \[ibid. 640\] | K 641; K 640 | gloss withheld |
+| Syrian Aramaic | tān \[Brock 819\], tīnā, tūnā, tǝyānā 'urine' \[ibid.\] | Brock 819 |  |
+| Tigrinya | šänä \[Bass 230\], šǝnti 'urine' \[ibid.\] | Bass 230 |  |
 | Modern Arabic | Yem. ṯēnin \[Behnstedt 160\] | Behnstedt 160 |  |
 | Argobba | šäññä; S. Arg. šimad \[LArg. 221\] | LArg. 221 |  |
 

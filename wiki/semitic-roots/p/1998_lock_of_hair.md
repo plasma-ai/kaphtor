@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fawd- 'lock of hair on each side of the head' \[BK 2 644\] | BK 2 644 |  |
-| Ugaritic | pd \[Aist 253\]; (DULAT 651) | Aist 253; DULAT 651 | gloss withheld |
+| Ugaritic | pd \[Aist 253\] (DULAT 651) | Aist 253; DULAT 651 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

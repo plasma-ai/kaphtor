@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṣwr 1 (Lane 1744) | Lane 1744 |  |
 | Soqotri | ṣer 2 |  |  |
 | Syrian Aramaic | ṣry 1 |  |  |
-| Epigraphic South Arabian | Sab ṣwr (Biella 420); (SD 146); (Sabaweb lemma 5232) | Biella 420; SD 146; Sabaweb lemma 5232 | gloss withheld |
+| Epigraphic South Arabian | Sab ṣwr (Biella 420) (SD 146) (Sabaweb lemma 5232) | Biella 420; SD 146; Sabaweb lemma 5232 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

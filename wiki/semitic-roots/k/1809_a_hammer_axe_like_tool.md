@@ -30,11 +30,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔaklat- (Blachère, Chouémi & Denizeau 1964, 166) |  | gloss withheld |
-| Akkadian | akkullu OAkk. on (CAD A/1 276; secondary reduplication of k &lt;\*ʔa-kull-?), kullu Lex. (Ibid. k 508) | CAD A/1 276; Ibid. k 508 | gloss withheld |
+| Arabic | ʔaklat- (Blachère, Chouémi & Denizeau 1964, 166) | Blachère Chouémi & Denizeau 1964, 166 | gloss withheld |
+| Akkadian | akkullu OAkk. on (CAD A/1 276), kullu Lex. (Ibid. k 508) | CAD A/1 276; CAD k 508 | gloss withheld |
 | Syrian Aramaic | ʔaklā 'hammer' (Brock. 17) | Brock. 17 |  |
-| Argobba | S. Arg. kalka (Leslau 1997, 208; redupl. &lt;\*kalkal rather than from Cu. E. kalta Ibid.) | Leslau 1997, 208 | gloss withheld |
+| Argobba | S. Arg. kalka (Leslau 1997, 208) | Leslau 1997, 208 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+LHar 92 derives Har. kalka 'ax' from Cushitic (Qab. Kam. Tem. kalta).
 
 <!-- END kaphtor:record -->

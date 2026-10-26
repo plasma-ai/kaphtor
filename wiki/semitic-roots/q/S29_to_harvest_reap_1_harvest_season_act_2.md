@@ -29,16 +29,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Amarna: qa₃-ṣi₂-ra, EA 244 (Moran 1992, 298 n. 1) | Moran 1992, 298 n. 1 | gloss withheld |
+| Canaanite | EA qa₃-ṣi₂-ra (EA 244; Moran 1992, 298 n. 1) | Moran 1992, 298 n. 1 | gloss withheld |
 | Phoenician | qṣr (Krahmalkov 430) | Krahmalkov 430 | gloss withheld |
 | Hebrew | qāṣar (HALOT 1126); qāṣīr (HALOT 1122; Gen 8:22, Ex 34:21) | HALOT 1126; HALOT 1122 | gloss withheld |
-| Epigraphic South Arabian | Sab qṣr (Biella 464); (Sabaweb lemma 6101) | Biella 464; Sabaweb lemma 6101 | gloss withheld |
+| Epigraphic South Arabian | Sab qṣr (Biella 464) (Sabaweb lemma 6101) | Biella 464; Sabaweb lemma 6101 | gloss withheld |
 | Aramaic | EgArm. kṣyr (HALOT 1123) | HALOT 1123 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-Agricultural accounting term. The Hebrew/Ugaritic attestation is administrative—harvest season dictates tax collection and grain allocation cycles.
 
 <!-- END kaphtor:record -->

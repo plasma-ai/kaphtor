@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mandaic Aramaic | dirk- (Drower/Macuch 109b apud CAL) | Macuch 109b; CAL |  |
-| Geez |  | LGz. 142 | source's text withheld |
+| Geez | (?) daraka, madrak (LGz. 142) | LGz. 142 | gloss withheld |
 | Phoenician | drk |  |  |
 | Hebrew | däräk |  |  |
 | Ugaritic | drk (Tropper UG 120) | Tropper UG 120 | gloss withheld |

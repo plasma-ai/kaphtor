@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ṢMḤ (Qumran 200 apud CAL) | CAL | gloss withheld |
+| Aramaic | ṢMḤ (Qumran 200 apud CAL) | CAL; Anderson–Moser 2024 root ṣmḫ | gloss withheld |
 | Hebrew | ṣamaḥ 'sprout' | Anderson–Moser 2024 root ṣmḫ |  |
 | Syrian Aramaic | ṣəmaḥ, ṣemḥā (HALOT 1033, 1034; Payne Smith 481) | HALOT 1033, 1034; Payne Smith 481 |  |
 | Mandaic Aramaic | ṢHM, ṢMA, aṣmata, ṣahamta (HALOT 1033, 1034) | HALOT 1033, 1034 |  |

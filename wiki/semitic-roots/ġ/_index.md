@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/ġ
 desc: "Semitic roots whose first radical is ġ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-25T06:28:07Z
+updated: 2026-10-26T20:01:24Z
 ---
 
 # wiki/semitic-roots/ġ
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/ġ/1151_young_man_slave|1151_young_man_slave]]: Proto-Semitic *ɣulām-, 'young man, slave': reflexes in 11 language(s).
+[[wiki/semitic-roots/ġ/1151_young_man_slave_1_youth_2|1151_young_man_slave_1_youth_2]]: Proto-Semitic *ɣulām-, 'young man, slave' 1, 'youth' 2: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ġ/1316_kind_of_clothes|1316_kind_of_clothes]]: Proto-Semitic *ɣ/ʕVpar-, 'kind of clothes': reflexes in 1 language(s).
 
@@ -19,7 +19,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ġ/1529_be_fat_be_bulky|1529_be_fat_be_bulky]]: Proto-Semitic *ɣaliṯ̣-/*ɣaluṯ̣-, 'be fat, be bulky': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ġ/1530_kind_of_skin_dewlap_a_fold_of_loose_skin_hanging|1530_kind_of_skin_dewlap_a_fold_of_loose_skin_hanging]]: Proto-Semitic *ɣa/ur-/*ɣarɣar-, '(kind of) skin, dewlap, a fold of loose skin hanging from the neck region': reflexes in 8 language(s).
+[[wiki/semitic-roots/ġ/1530_kind_of_skin_dewlap_a_fold_of_loose_skin_hanging|1530_kind_of_skin_dewlap_a_fold_of_loose_skin_hanging]]: Proto-Semitic *ɣa/ur-/*ɣarɣar-, '(kind of) skin, dewlap, a fold of loose skin hanging from the neck region': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ġ/1531_keep_cling_to|1531_keep_cling_to]]: Proto-Semitic *ɣuz-, 'keep, cling to': reflexes in 1 language(s).
 
@@ -105,7 +105,7 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ġ/3244_to_be_dark_clouded_to_be_confused|3244_to_be_dark_clouded_to_be_confused]]: Proto-Semitic *ɣṯy, 'to be dark, clouded; to be confused': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ġ/3247_to_insert_enter_to_plunge_dip_to_dye|3247_to_insert_enter_to_plunge_dip_to_dye]]: Proto-Semitic *ɣll, 'to insert, enter; to plunge, dip; to dye': reflexes in 7 language(s).
+[[wiki/semitic-roots/ġ/3247_to_insert_enter_to_plunge_dip_to_dye|3247_to_insert_enter_to_plunge_dip_to_dye]]: Proto-Semitic *ɣll, 'to insert, enter; to plunge, dip; to dye': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/ġ/3268_to_feed_nourish_food|3268_to_feed_nourish_food]]: Proto-Semitic *ɣḏw, 'to feed, nourish; food': reflexes in 2 language(s).
 
@@ -117,23 +117,27 @@ updated: 2026-10-25T06:28:07Z
 
 [[wiki/semitic-roots/ġ/3315_to_immerse_plunge_to_swim_dive_to_disappear|3315_to_immerse_plunge_to_swim_dive_to_disappear]]: Proto-Semitic *ɣms, 'to immerse, plunge; to swim, dive; to disappear': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ġ/3337_to_know|3337_to_know]]: Proto-Semitic *ɣrb, 'to know': reflexes in 2 language(s).
+[[wiki/semitic-roots/ġ/3337_to_know|3337_to_know]]: Proto-Semitic *ɣrb, 'to know': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/3356_to_meet|3356_to_meet]]: Proto-Semitic *ɣbr, 'to meet': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/3357_depression_between_mountains_mountain_pass|3357_depression_between_mountains_mountain_pass]]: Proto-Semitic *ɣadVw-, 'depression between mountains, mountain pass': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ġ/3358_wrist|3358_wrist]]: Proto-Semitic *ɣarṣVn-, 'wrist': reflexes in 2 language(s).
+[[wiki/semitic-roots/ġ/3358_wrist|3358_wrist]]: Proto-Semitic *ɣarṣVn-, 'wrist': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/3359_to_speak|3359_to_speak]]: Proto-Semitic *ɣry, 'to speak': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ġ/3360_to_love|3360_to_love]]: Proto-Semitic *ɣṣ̂n, 'to love': reflexes in 2 language(s).
+[[wiki/semitic-roots/ġ/3360_to_love|3360_to_love]]: Proto-Semitic *ɣṣ̂n, 'to love': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/3457_to_take_away_reduce|3457_to_take_away_reduce]]: Proto-Semitic *ɣṣ̂ṣ̂, 'to take away, reduce': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/3458_to_be_white_spotted_shine_white|3458_to_be_white_spotted_shine_white]]: Proto-Semitic *ɣrr, 'to be white-spotted, shine white': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/3539_to_provision_with_food_provision_of_corn|3539_to_provision_with_food_provision_of_corn]]: Proto-Semitic *ɣyr, 'to provision with food; provision of corn': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3574_other_than_except_without|3574_other_than_except_without]]: Proto-Semitic *ɣyr, 'other than, except; without': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3633_to_be_dark_to_be_hidden|3633_to_be_dark_to_be_hidden]]: Proto-Semitic *ɣlm, 'to be dark; to be hidden': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ġ/778_dust|778_dust]]: Proto-Semitic *ɣabar-, 'dust': reflexes in 2 language(s).
 

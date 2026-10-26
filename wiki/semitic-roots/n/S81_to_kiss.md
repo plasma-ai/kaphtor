@@ -29,13 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | nšq id. (Tropper UG §74.412.23) | Tropper UG §74.412.23 |  |
+| Ugaritic | nšq (Tropper UG §74.412.23) | Tropper UG §74.412.23 |  |
 | Hebrew | nšq; \*nᵉšîqâ (HALOT 729, 730) | HALOT 729, 730 | gloss withheld |
 | Judaic Aramaic | nᵉšîqᵉtā, nušqᵉtā (HALOT 729) | HALOT 729 |  |
 | Syrian Aramaic | nušqᵉtā (HALOT 729) | HALOT 729 |  |
 | Mandaic Aramaic | nušaq, nišuqtā (HALOT 729; Drower/Macuch 307b apud CAL) | HALOT 729; Macuch 307b; CAL |  |
 | Akkadian | našāqu (HALOT 730) | HALOT 730 |  |
-| Amorite | n-š-q (George and Krebernik 2022, 156) | Krebernik 2022 | gloss withheld |
+| Amorite | n-š-q (George and Krebernik 2022, 156) | George and Krebernik 2022 156 | gloss withheld |
 | Eblaitic | ne-sa-gu, ne-sa-gu-um /nišāḳu(m)/ (VE 849 apud SEDonline 1850; Krebernik 1983, 33) | VE 849; SEDonline 1850; Krebernik 1983, 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

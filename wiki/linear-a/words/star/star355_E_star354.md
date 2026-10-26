@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star355_E_star354
 title: "*355-E-*354"
-desc: "Unread (edge overlap): no role; 1 occurrence(s)."
+desc: "Unread (unread): no role; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*355-E-*354"
@@ -29,7 +29,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Unread
 
-Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap).
+Status **unread** (nothing known).
 
 PH 10, an MM II tablet from Vano 25, the only group, followed by a logogram and two fraction signs (GORILA I 299). Undotted. \*355 and \*354 have no values, so the group has one resolved sign. No reading.
 
