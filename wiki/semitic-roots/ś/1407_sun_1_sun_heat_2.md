@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | šemš- 1 (Payne Smith 586) | Payne Smith 586 |  |
 | Aramaic | šimšā (OLA80 §30.5) | OLA80 §30.5 | gloss withheld |
 | Punic | šmš 'sun' | Anderson–Moser 2024 root šamš |  |
-| Amorite | śamśum (Gelb AS 21, 31); ŝapŝ(um) | Gelb AS 21 31 | gloss withheld |
+| Amorite | śamśum (Gelb AS 21, 31); ŝapŝ(um); šamšu, šapšu (Buck 2019, 333) | Gelb AS 21 31; Buck 2019, 333 | gloss withheld |
 | Jibbali | s̃um 2 (Kogan 2011, 193) | Kogan 2011 193 | gloss withheld |
 | Eblaitic | sí-piš; si-piš (OLA80 §11.9, §13.2) | OLA80 §11.9, §13.2 | gloss withheld |
 

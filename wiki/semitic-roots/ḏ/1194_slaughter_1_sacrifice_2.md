@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/1194_slaughter_1_sacrifice_2
 title: "*ḏVbVḥ-: 'slaughter' 1, 'sacrifice' 2"
-desc: "Proto-Semitic *ḏVbVḥ-, 'slaughter' 1, 'sacrifice' 2: reflexes in 16 language(s)."
+desc: "Proto-Semitic *ḏVbVḥ-, 'slaughter' 1, 'sacrifice' 2: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1194"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | ḏ-b-ḥ (George and Krebernik 2022, 155); \*ḏabāḥ (Golinets 2025, 885) | George and Krebernik 2022 155; Golinets 2025 885 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḏbḥ (Al-Jallad–Jaworska 66) | Al-Jallad–Jaworska 66 | gloss withheld |
 | Modern Arabic | Daṯ. ḏabīḥa (Biella 90) | Biella 90 |  |
+| Emar | za-bi-ḫu /ðābiḥu/ (Pentiuc 2001, 193–194) | Pentiuc 2001 193–194 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

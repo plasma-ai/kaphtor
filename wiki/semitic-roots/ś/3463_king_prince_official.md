@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3463_king_prince_official
 title: "*ŝarr-: 'king, prince, official'"
-desc: "Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3463"
@@ -32,6 +32,8 @@ updated: 2026-10-25T05:11:48Z
 | Akkadian | šarru (CAD Š₁ 76, AHw. 1118 apud SEDonline 2076) | CAD Š₁ 76, AHw. 1118; SEDonline 2076 | gloss withheld |
 | Ugaritic | šr (DUL 842 apud SEDonline 2076) | DUL 842; SEDonline 2076 | gloss withheld |
 | Hebrew | ŝar (HALOT 1351 apud SEDonline 2076) | HALOT 1351; SEDonline 2076 | gloss withheld |
+| Amorite | śarru, śartu (Buck 2019, 332) | Buck 2019, 332 | gloss withheld |
+| Emar | šar-ru, šàr-ru /śarrū/ (Pentiuc 2001, 171) | Pentiuc 2001 171 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

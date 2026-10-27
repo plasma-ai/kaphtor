@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | bhr \[a\] 2 |  |  |
+| Arabic | bhr \[a\]; bahara 'it shone, or shone brightly' 2 (Lane 265) | Lane 265 |  |
 | Mandaic Aramaic | bhʔr 1 |  |  |
 | Hebrew | bāhīr 1, bhr 2 |  |  |
 | Aramaic | (Palest) ša-bhar 2 |  |  |
@@ -40,5 +40,9 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Sel. bāre, Wol. bare, Zwy. bārī (EDG 150 apud SEDonline 1380) | EDG 150; SEDonline 1380 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Lane 265 marks bahara 'it shone' tropical, from bahara 'he overcame him'.
 
 <!-- END kaphtor:record -->

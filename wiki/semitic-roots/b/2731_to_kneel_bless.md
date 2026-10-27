@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2731_to_kneel_bless
 title: "*bVrVk-: 'to kneel, bless'"
-desc: "Proto-Semitic *bVrVk-, 'to kneel, bless': reflexes in 18 language(s)."
+desc: "Proto-Semitic *bVrVk-, 'to kneel, bless': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2731"
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic brk (Al-Jallad–Jaworska 62) | Al-Jallad–Jaworska 62 | gloss withheld |
 | Judaic Aramaic | birketaʾ (T 57) | T 57 |  |
 | Mandaic Aramaic | brakaʾ (T 57) | T 57 |  |
+| Amorite | yabruk, bariku (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

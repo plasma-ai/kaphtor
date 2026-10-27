@@ -57,7 +57,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | sǝm; šəm (OLA80 §14.9) | OLA80 §14.9 | gloss withheld |
 | Punic | šm, šʿm (T 321) | T 321; Anderson–Moser 2024 root šm | gloss withheld |
 | Eblaitic | su-mu-um /šumum/ (VE 1144, Kogan–Krebernik 2021b: 684 apud SEDonline 37; Krebernik 1983, 40) | VE 1144, Kogan–Krebernik 2021b: 684; SEDonline 37; Krebernik 1983, 40 | gloss withheld |
-| Amorite | šum- (OLA80 §63.5) | OLA80 §63.5 | gloss withheld |
+| Amorite | šum- (OLA80 §63.5); šumu (Buck 2019, 333) | OLA80 §63.5; Buck 2019, 333 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

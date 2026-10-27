@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | baʕāl; bǝʕla (LGz. 83-4) | LGz. 83-4 | gloss withheld |
 | Gurage | So. bal (LGur 138) | LGur 138 | gloss withheld |
 | Biblical Aramaic | \*bǝʕēl 'owner, lord' (BDB 1085) | BDB 1085 |  |
-| Phoenician | bʕl (T 51) | T 51 | gloss withheld |
+| Phoenician | bʕl (T 51); f. bʕlt (T 52; Krahmalkov 110) | T 51; T 52; Krahmalkov 110 | gloss withheld |
 | Jibbali | baʕál, báʕal/bʕéhl, ʔɔ́ʕɔź (JJ 22) | JJ 22 | gloss withheld |
 | Hebrew | baʕal (HALOT 142, 143); bʕl | HALOT 142, 143 | gloss withheld |
 | Amharic | bal (K 861) | K 861 | gloss withheld |
@@ -52,7 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | bǝʔǝl (LArg 195); bal (LArg 195) | LArg 195 | gloss withheld |
 | Tigrinya | bäʕal (KT 1177) | KT 1177 | gloss withheld |
 | Punic | bal (HALOT 142); bʕl (HJ 182) | HALOT 142; HJ 182 |  |
-| Amorite | baḫlu; balu (HALOT 142) | HALOT 142 |  |
+| Amorite | baḫlu; balu (HALOT 142); baʿlu (Buck 2019, 325) | HALOT 142; Buck 2019, 325 | gloss withheld |
 | Canaanite | baḫlu; balu (HALOT 142) | HALOT 142 |  |
 | Mandaic Aramaic | bil (LGz. 84; Drower/Macuch 60b apud CAL) | LGz. 84; Macuch 60b; CAL | gloss withheld |
 | Eblaitic | ba-lu /baʕlu/, in ba-lu da-a-tim (VE 1245; Krebernik 1983, 42) | VE 1245; Krebernik 1983, 42 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/40_clan_generation_group_of_relatives_1_maternal_au
 title: "*dawr-: 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2"
-desc: "Proto-Semitic *dawr-, 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2: reflexes in 8 language(s)."
+desc: "Proto-Semitic *dawr-, 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "40"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab dwr (Biella 81) | Biella 81 | gloss withheld |
 | Geez | dor (LGz. 141) | LGz. 141 | gloss withheld |
 | Akkadian | dāru; dārû (CAD D 115) | CAD D 115 | gloss withheld |
+| Amorite | dāru (Streck 2011, 366) | Streck 2011, 366 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

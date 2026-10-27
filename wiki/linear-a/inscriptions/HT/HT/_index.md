@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/HT/HT
 desc: "Inscriptions from Haghia Triada, series HT."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T03:07:18Z
+updated: 2026-10-27T20:24:57Z
 ---
 
 # wiki/linear-a/inscriptions/HT/HT
@@ -107,7 +107,7 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/inscriptions/HT/HT/HT129|HT129]]: Tablet, Haghia Triada, LMIB. Translation: complete (CANDIDATE).
 
-[[wiki/linear-a/inscriptions/HT/HT/HT13|HT13]]: Tablet, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HT/HT13|HT13]]: Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/HT/HT/HT130|HT130]]: Tablet, Haghia Triada, LMIB. Translation: none.
 
@@ -341,7 +341,7 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/inscriptions/HT/HT/HT7a|HT7a]]: Tablet, Haghia Triada, LMIB. Translation: incomplete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/HT/HT/HT7b|HT7b]]: Tablet, Haghia Triada, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/HT/HT/HT7b|HT7b]]: Tablet, Haghia Triada, LMIB. Translation: complete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/HT/HT/HT80|HT80]]: Tablet, Haghia Triada, LMIB. Translation: none.
 

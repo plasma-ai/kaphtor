@@ -51,7 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʔaf, pl. ʔafaw \[LGz. 8\] | LGz. 8 | gloss withheld |
 | Tigrinya | ʔaf \[Bass. 580\] | Bass. 580 |  |
 | Argobba | af \[LArg. 189\] | LArg. 189 | gloss withheld |
-| Amorite | pum (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
+| Amorite | pum (Gelb AS 21, 28); pâ/pî / (Buck 2019, 331) | Gelb AS 21 28; Buck 2019, 331 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

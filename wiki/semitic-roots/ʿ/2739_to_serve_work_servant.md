@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2739_to_serve_work_servant
 title: "*ʕVbd-: 'to serve, work; servant'"
-desc: "Proto-Semitic *ʕVbd-, 'to serve, work; servant': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʕVbd-, 'to serve, work; servant': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2739"
@@ -38,11 +38,12 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab ʿbd (SD 11; Sabaweb lemma 1400) | SD 11; Sabaweb lemma 1400 | gloss withheld |
 | Aramaic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
 | Punic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
-| Amorite | ʿabdum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
+| Amorite | ʿabdum (Gelb AS 21, 15); ʿabdu (Buck 2019, 324) | Gelb AS 21 15; Buck 2019, 324 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʿbd (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 50 | gloss withheld |
 | Mandaic Aramaic | ʾabd (T 235) | T 235 |  |
 | Judaic Aramaic | ʿabad (T 235) | T 235 |  |
 | Eblaitic | íb-tum, ì-ba-tum /ʕebdum/ (VE 253a, 1428; Krebernik 1983, 12) | VE 253a, 1428; Krebernik 1983, 12 | gloss withheld |
+| Emar | a-bá-dì /ʿabādu/ (Pentiuc 2001, 21) | Pentiuc 2001 21 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

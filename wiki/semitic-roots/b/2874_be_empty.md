@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | bahiya (HALOT 111) | HALOT 111 | gloss withheld |
+| Arabic | bahiya (Lane 269; HALOT 111) | Lane 269; HALOT 111 | gloss withheld |
 | Hebrew | bōhū (HALOT 111; BDB 96) | HALOT 111; BDB 96 | gloss withheld |
 | Syrian Aramaic | būh 'chaos, emptiness' (Payne Smith 37) | Payne Smith 37 |  |
 

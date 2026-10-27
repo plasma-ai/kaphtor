@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/t
 desc: "Semitic roots whose first radical is t."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:19:35Z
 ---
 
 # wiki/semitic-roots/t
@@ -145,8 +145,6 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/t/540_tear_cut_off_1_be_separated_2|540_tear_cut_off_1_be_separated_2]]: Proto-Semitic *tVr-, 'tear, cut off' 1, 'be separated' 2: reflexes in 7 language(s).
 
-[[wiki/semitic-roots/t/541_strike_with_a_stick|541_strike_with_a_stick]]: Proto-Semitic *tVyVḫ-, 'strike (with a stick)': reflexes in 1 language(s).
-
 [[wiki/semitic-roots/t/542_push_gently|542_push_gently]]: Proto-Semitic *tVr-, 'push gently': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/t/588_stammer_1_grumble_2|588_stammer_1_grumble_2]]: Proto-Semitic *tVm-tVm-, 'stammer' 1, 'grumble' 2: reflexes in 2 language(s).
@@ -181,7 +179,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/t/K0412_drum|K0412_drum]]: Proto-Semitic *top-, 'drum': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/t/K0413_sew|K0413_sew]]: Proto-Semitic *tapar-, 'sew': reflexes in 2 language(s).
+[[wiki/semitic-roots/t/K0413_sew|K0413_sew]]: Proto-Semitic *tapar-, 'sew': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/t/K0414_apple|K0414_apple]]: Proto-Semitic *tVpVḥ-, 'apple': reflexes in 6 language(s).
 

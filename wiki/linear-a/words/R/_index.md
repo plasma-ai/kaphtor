@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T17:13:43Z
+updated: 2026-10-28T12:49:18Z
 ---
 
 # wiki/linear-a/words/R
@@ -17,9 +17,9 @@ updated: 2026-10-27T17:13:43Z
 
 [[wiki/linear-a/words/R/RA_NA_RE|RA_NA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_NA_TU_SU|RA_NA_TU_SU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RA_NA_TU_SU|RA_NA_TU_SU]]: Rannatušu: personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RA_O_DI_KI|RA_O_DI_KI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RA_O_DI_KI|RA_O_DI_KI]]: rāʿû diqqi: herdsman of the small cattle (title, over a flock of 60); rival a personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_RI|RA_RI]]: Unread (role only): personal name; 1 occurrence(s).
 

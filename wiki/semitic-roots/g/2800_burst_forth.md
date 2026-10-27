@@ -42,4 +42,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+BDB 161 files gōḥî (Ps 22:10) under gîaḥ as 'draw forth (from the womb)'; HALOT 187 sets it apart as gḥh 'to pull out', with Arabic jḥw VIII 'to uproot'.
+
 <!-- END kaphtor:record -->

@@ -30,15 +30,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥiṯ̣ār-, ḥiṣār- 1, ḥaḍr- |  | gloss withheld |
+| Arabic | ḥiṯ̣ār- 'a wall, or wall of enclosure; a barrier, partition, fence' 1 (Lane 595–596), ḥiṣār- 1, ḥaḍr- 'inhabited country, fixed dwelling (of those who are not nomads)' | Lane 595–596 |  |
 | Akkadian | ḫaṣāru 1 |  |  |
 | Ugaritic | ḥẓr |  |  |
 | Geez | ḥaṣur 1 |  |  |
 | Phoenician | ḥṣr 3 (Krahmalkov 195; T 112) | Krahmalkov 195; T 112 | gloss withheld |
 | Jibbali | ḥoṣor |  | gloss withheld |
 | Hebrew | ḥāṣer 2,3 |  |  |
-| Epigraphic South Arabian | ḥṣwr 4 |  |  |
-| Syrian Aramaic | ḥǝṣārā 3 |  |  |
+| Epigraphic South Arabian | ḥṣwr 4; Sab ḥẓrm 1 (Biella 172); ḥẓr 1 (SD 75; Sabaweb lemma 4428) | Biella 172; SD 75; Sabaweb lemma 4428 | gloss withheld |
+| Syrian Aramaic | ḥǝṣārā 3; ḥīrtā 2 (Payne Smith 141; HALOT 345) | Payne Smith 141; HALOT 345 | gloss withheld |
 | Tigre | ḥaṣur (OLA80 §31.32) | OLA80 §31.32 | gloss withheld |
 | Punic | ḥdr; Neo-Punic ḥṣrt 3 (Krahmalkov 195; T 112) | Krahmalkov 195; T 112; Anderson–Moser 2024 root ḥḍr | gloss withheld |
 | Judaic Aramaic | ḥuṭrā (HALOT 345; DJBA 450a apud CAL) | HALOT 345; DJBA 450a; CAL |  |

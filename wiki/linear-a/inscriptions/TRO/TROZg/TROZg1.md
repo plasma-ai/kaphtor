@@ -1,12 +1,12 @@
 ---
 name: wiki/linear-a/inscriptions/TRO/TROZg/TROZg1
 title: "TROZg1"
-desc: "Stone object, Troy. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "stone-object"]
+desc: "Clay spindle whorl, Troy. Translation: none."
+tags: ["linear-a", "inscription", "translation-none", "clay-spindle-whorl"]
 kind: "inscription"
 id: "TROZg1"
 site: "Troy"
-support: "Stone object"
+support: "Clay spindle whorl"
 period: ""
 translation: "none"
 words: []
@@ -28,7 +28,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Site | Troy |
 | Findspot |  |
-| Support | Stone object |
+| Support | Clay spindle whorl |
 | Period |  |
 | Scribe |  |
 | Edition | unattributed |
@@ -39,12 +39,12 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. PI-MI-TA-TI-RA₂
+1. PI-MI-TI-TA-RA₂
 
 Unicode (Linear A block):
 
 ```text
-𐘢𐘻𐘳𐘠𐘽
+𐘢𐘻𐘠𐘳𐘽
 ```
 
 <!-- END kaphtor:record -->

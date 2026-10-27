@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2478_be_big_thick
 title: "*ʕ/ɣby: 'be big, thick'"
-desc: "Proto-Semitic *ʕ/ɣby, 'be big, thick': reflexes in 12 language(s)."
+desc: "Proto-Semitic *ʕ/ɣby, 'be big, thick': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2478"
@@ -42,6 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʿBY 'thick' | Anderson–Moser 2024 root ʿby |  |
 | Amharic | t-abbäyä (LGz. 55) | LGz. 55 | gloss withheld |
 | Gurage | abbä (LGz. 55) | LGz. 55 | gloss withheld |
+| Emar | a-ba-a, a-ba-ú /ʿabayu/ (Pentiuc 2001, 19–20) | Pentiuc 2001 19–20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

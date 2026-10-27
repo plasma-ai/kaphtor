@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1788_group_of_relatives_family_clan_people
 title: "*ʾVm(m)-: 'group of relatives; family; clan; people'"
-desc: "Proto-Semitic *ʾVm(m)-, 'group of relatives; family; clan; people': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʾVm(m)-, 'group of relatives; family; clan; people': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1788"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔummā, ʔēm ? \[HALOT 62\] | HALOT 62 | gloss withheld |
 | Epigraphic South Arabian | SAB ʔmm \[SD 6; Sabaweb lemma 3551\], ʔm-t \[SD 5; Sabaweb lemma 1365\] | SD 6; Sabaweb lemma 3551; SD 5; Sabaweb lemma 1365 | gloss withheld |
 | Syrian Aramaic | ʔem(m)-, pl. ʔemhāt-, ʔemh- 'mother; origin' \[Brock 23\], ʔūmūn-, ʔūmūt- 'people, nation' ibid. 24 | Brock 23 |  |
+| Amorite | ʾummu (Buck 2019, 323) | Buck 2019, 323 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

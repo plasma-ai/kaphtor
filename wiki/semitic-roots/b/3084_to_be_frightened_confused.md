@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PCS \*bhl 'to be frightened, confused' (SEDonline 1313). Cf. Syr. bhl 'to be quiet' (LSyr. 61).
+PCS \*bhl 'to be frightened, confused' (SEDonline 1313). Cf. Syr. bhl 'to be quiet' (LSyr. 61). Not 3719 \*bwk 'to be confused, in turmoil'.
 
 <!-- END kaphtor:record -->

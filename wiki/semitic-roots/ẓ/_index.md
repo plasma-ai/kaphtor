@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ẓ
 desc: "Semitic roots whose first radical is ẓ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-27T22:12:57Z
 ---
 
 # wiki/semitic-roots/ẓ
@@ -49,7 +49,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ẓ/959_shadow_shade_to_shade_protection|959_shadow_shade_to_shade_protection]]: Proto-Semitic *ṯ̣il(l)-, 'shadow, shade', 'to shade', 'protection': reflexes in 20 language(s).
 
-[[wiki/semitic-roots/ẓ/K0827_load|K0827_load]]: Proto-Semitic *ṯ̣VʿVn-, 'load': reflexes in 16 language(s).
+[[wiki/semitic-roots/ẓ/K0827_load_1_to_journey_depart_2|K0827_load_1_to_journey_depart_2]]: Proto-Semitic *ṯ̣VʿVn-, 'load' 1, 'to journey, depart' 2: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/ẓ/K0872_hide|K0872_hide]]: Proto-Semitic *ẓVpVn-, 'hide': reflexes in 7 language(s).
 

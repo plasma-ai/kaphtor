@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0342_pursue
 title: "*radāp-: 'pursue'"
-desc: "Proto-Semitic *radāp-, 'pursue': reflexes in 7 language(s)."
+desc: "Proto-Semitic *radāp-, 'pursue': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0342"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab rdf (Biella 481–482) | Biella 481–482 | gloss withheld |
 | Syrian Aramaic | rədap (HALOT 1191; Payne Smith 530) | HALOT 1191; Payne Smith 530 |  |
 | Pre-Islamic North Arabian | Safaitic rdf (Al-Jallad–Jaworska 114) | Al-Jallad–Jaworska 114 | gloss withheld |
+| Amorite | rudapu (Buck 2019, 331) | Buck 2019, 331 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

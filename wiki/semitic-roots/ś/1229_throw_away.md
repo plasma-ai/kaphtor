@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/1229_throw_away
 title: "*ŝVl-: 'throw away'"
-desc: "Proto-Semitic *ŝVl-, 'throw away': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ŝVl-, 'throw away': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1229"
@@ -30,9 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šalû |  |  |
+| Akkadian | šalû (CAD Š/1 272) | CAD Š/1 272 | gloss withheld |
 | Hebrew | slh (HALOT 756) | HALOT 756 |  |
 | Judaic Aramaic | slʾ (HALOT 756) | HALOT 756 |  |
+| Syrian Aramaic | slā (Payne Smith 378; HALOT 756) | Payne Smith 378; HALOT 756 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

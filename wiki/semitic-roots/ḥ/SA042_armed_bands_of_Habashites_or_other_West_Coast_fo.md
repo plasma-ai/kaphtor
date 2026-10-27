@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/SA042_armed_bands_of_Habashites_or_other_West_Coast_fo
 title: "*ḥzb: 'armed bands of Habashites or other West Coast folk'"
-desc: "Epigraphic South Arabian headword *ḥzb, 'armed bands of Habashites or other West Coast folk': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *ḥzb, 'armed bands of Habashites or other West Coast folk': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA042"
@@ -30,7 +30,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ḥzb (SD 75; Biella 170; Sabaweb lemma 1518) | SD 75; Biella 170; Sabaweb lemma 1518 | gloss withheld |
-| Arabic | Ar ḥizb, p ʾaḥzāb (Biella 170) | Biella 170 | gloss withheld |
+| Arabic | Ar ḥizb, p ʾaḥzāb (Biella 170); ḥizb (Lane 559) | Biella 170; Lane 559 | gloss withheld |
+| Geez | ḥəzb (pl. ḥəzab, ʾaḥzāb) (LGz. 253) | LGz. 253 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

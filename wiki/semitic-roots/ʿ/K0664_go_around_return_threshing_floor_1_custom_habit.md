@@ -44,4 +44,8 @@ updated: 2026-10-26T17:41:55Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+HALOT 795 files Hebrew ʿwd polel 'to help up' (Ps 146:9; 147:6) under I ʿwd 'to surround'; Neo-Punic ʿd&lt;d&gt;m 'help up' (Krahmalkov 359).
+
 <!-- END kaphtor:record -->

@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | M yorar |  | gloss withheld |
 | Phoenician | ʕrb |  |  |
 | Jibbali | oɣórb, aɣtéréb, muɣrúb JJ 88; E maʕréb JM | JJ 88 | gloss withheld |
-| Hebrew | ʕrb, ʕärä̆b |  | gloss withheld |
+| Hebrew | ʕrb; ʕärä̆b (HALOT 877) | HALOT 877 | gloss withheld |
 | Syrian Aramaic | ʕǝreb |  |  |
 | Tigrinya | ʕaräbä |  | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ġrb (Al-Jallad–Jaworska 75) | Al-Jallad–Jaworska 75 | gloss withheld |

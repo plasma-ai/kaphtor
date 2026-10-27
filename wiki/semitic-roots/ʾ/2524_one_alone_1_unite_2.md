@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2524_one_alone_1_unite_2
 title: "*ʾ/waḥad- 1, *wḥd 2: 'one, alone' 1, 'unite' 2"
-desc: "Proto-Semitic *ʾ/waḥad- 1, *wḥd 2, 'one, alone' 1, 'unite' 2: reflexes in 25 language(s)."
+desc: "Proto-Semitic *ʾ/waḥad- 1, *wḥd 2, 'one, alone' 1, 'unite' 2: reflexes in 26 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2524"
@@ -55,6 +55,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | waḥada (HALOT 405) | HALOT 405 |  |
 | Punic | ʾḥd '1' | Anderson–Moser 2024 root ʾḥd |  |
 | Pre-Islamic North Arabian | Safaitic wḥd (Al-Jallad–Jaworska 139) | Al-Jallad–Jaworska 139 | gloss withheld |
+| Amorite | yaḥad (Buck 2019, 334) | Buck 2019, 334 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

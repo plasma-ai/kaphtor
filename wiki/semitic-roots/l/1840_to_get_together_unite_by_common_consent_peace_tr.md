@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/1840_to_get_together_unite_by_common_consent_peace_tr
 title: "*lʾm, *lmm: 'to get together, unite by common consent, peace treaty', *liʔa/ām- 'union, fraternity, people'"
-desc: "Proto-Semitic *lʾm, *lmm, 'to get together, unite by common consent, peace treaty', *liʔa/ām- 'union, fraternity, people': reflexes in 9 language(s)."
+desc: "Proto-Semitic *lʾm, *lmm, 'to get together, unite by common consent, peace treaty', *liʔa/ām- 'union, fraternity, people': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1840"
@@ -39,6 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | lam 'gathered' Brock. 367 | Brock. 367 |  |
 | Tigrinya | cf. läʔamä LH 42 | LH 42 | gloss withheld |
 | Punic | lʾm 'people' | Anderson–Moser 2024 root lʾm |  |
+| Amorite | līmu (Streck 2011, 366); liʾmu, yaṯūb-liʾm (Buck 2019, 296, 329) | Streck 2011, 366; Buck 2019, 296, 329 | gloss withheld |
+| Emar | li-iʾ-mi, li-im /liʾmu/ (Pentiuc 2001, 110–111) | Pentiuc 2001 110–111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

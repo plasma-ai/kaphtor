@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1839_mother
 title: "*ʾu/imm-: 'mother'"
-desc: "Proto-Semitic *ʾu/imm-, 'mother': reflexes in 25 language(s)."
+desc: "Proto-Semitic *ʾu/imm-, 'mother': reflexes in 26 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1839"
@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔēm (HALOT 61), pl. suff. ʔimmōhēnū, ʔimmōhām | HALOT 61 | gloss withheld |
 | Epigraphic South Arabian | SAB ʔmm \[SD 5; Sabaweb lemma 2986\] | SD 5; Sabaweb lemma 2986 | gloss withheld |
 | Judaic Aramaic | ʔīmmā 'mother' \[Ja 50\] | Ja 50 |  |
-| Amorite | /ʔi/ummum/ (Gelb AS 21, 14) | Gelb AS 21 14 |  |
+| Amorite | /ʔi/ummum/ (Gelb AS 21, 14); ʾimma (Buck 2019, 323) | Gelb AS 21 14; Buck 2019, 323 | gloss withheld |
 | Harari | umma \[LHar 25\] | LHar 25 | gloss withheld |
 | Syrian Aramaic | ʔem(m)-, pl. ʔemhāt-, ʔemh- 'mother; abbess'; ʔemhāy- 'maternal' (adj.) \[Brock 23\] | Brock 23 |  |
 | Aramaic | ʾm (DNWSI 66 apud CAL) | DNWSI 66; CAL; Anderson–Moser 2024 root umm | gloss withheld |
@@ -55,6 +55,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʾəm in ʾəmbet (LGz. 22) | LGz. 22 | gloss withheld |
 | Amharic | əmmamma, əmməyye, əmmäbet (LGz. 22) | LGz. 22 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾm (Al-Jallad–Jaworska 44) | Al-Jallad–Jaworska 44 | gloss withheld |
+| Emar | im-mi /ʾimmu/ (Pentiuc 2001, 89) | Pentiuc 2001 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

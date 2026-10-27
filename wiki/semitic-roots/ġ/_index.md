@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ġ
 desc: "Semitic roots whose first radical is ġ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T02:25:00Z
 ---
 
 # wiki/semitic-roots/ġ
@@ -138,6 +138,10 @@ updated: 2026-10-26T20:01:24Z
 [[wiki/semitic-roots/ġ/3574_other_than_except_without|3574_other_than_except_without]]: Proto-Semitic *ɣyr, 'other than, except; without': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/3633_to_be_dark_to_be_hidden|3633_to_be_dark_to_be_hidden]]: Proto-Semitic *ɣlm, 'to be dark; to be hidden': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ġ/3736_rancour_malice_to_be_filled_with_hatred|3736_rancour_malice_to_be_filled_with_hatred]]: Proto-Semitic *ɣll, 'rancour, malice; to be filled with hatred': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3739_to_be_in_excess_surplus_to_be_profuse|3739_to_be_in_excess_surplus_to_be_profuse]]: Proto-Semitic *ɣdp, 'to be in excess, surplus; to be profuse': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/778_dust|778_dust]]: Proto-Semitic *ɣabar-, 'dust': reflexes in 2 language(s).
 

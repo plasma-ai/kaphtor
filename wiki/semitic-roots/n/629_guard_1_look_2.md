@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | näṣra (LGz. 406) | LGz. 406 | gloss withheld |
 | Tigrinya | näṣṣärä (LGz. 406) | LGz. 406 |  |
 | Amharic | näṭṭärä (LGz. 406) | LGz. 406 | gloss withheld |
-| Amorite | nṣr: jaṣṣur, nāṣirum, niṣrum, nuṣrum (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
+| Amorite | nṣr: jaṣṣur, nāṣirum, niṣrum, nuṣrum (Gelb AS 21, 27); nāṣiru (Buck 2019, 330) | Gelb AS 21 27; Buck 2019, 330 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic nẓr (Al-Jallad–Jaworska 108) | Al-Jallad–Jaworska 108 | gloss withheld |
 | Eblaitic | na-za-lum /naṣāRum/ (VE 908, Kogan–Krebernik 2021b: 688 apud SEDonline 2018; Krebernik 1983, 34) | VE 908, Kogan–Krebernik 2021b: 688; SEDonline 2018; Krebernik 1983, 34 | gloss withheld |
 | Judaic Aramaic | neṭar (T 221) | T 221 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/48_priest
 title: "*kumir-: 'priest'"
-desc: "Proto-Semitic *kumir-, 'priest': reflexes in 10 language(s)."
+desc: "Proto-Semitic *kumir-, 'priest': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "48"
@@ -36,10 +36,11 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | kmr |  |  |
 | Canaanite | kamiru (HALOT 482) | HALOT 482 | gloss withheld |
 | Syrian Aramaic | kumrā (HALOT 482) | HALOT 482 |  |
-| Amorite | kumrum (Gelb AS 21, 23) | Gelb AS 21 23 | gloss withheld |
+| Amorite | kumrum (Gelb AS 21, 23); kumara (Buck 2019, 328) | Gelb AS 21 23; Buck 2019, 328 | gloss withheld |
 | Judaic Aramaic | kūmraʾ (T 144) | T 144 |  |
 | Mandaic Aramaic | kumraʾ (T 144) | T 144 |  |
 | Ugaritic | /kumru/? (UVST 137) | UVST 137 | gloss withheld |
+| Emar | kà-ma-ri /kamarū/, ku-ma-ri /kumarū/ (Pentiuc 2001, 95–96) | Pentiuc 2001 95–96 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,10 +35,14 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | wa-t-kul (LGz. 612) | LGz. 612 | gloss withheld |
 | Aramaic | təḵal (LGz. 612) | LGz. 612 |  |
 | Syrian Aramaic | təḵel (LGz. 612; Payne Smith 611) | LGz. 612; Payne Smith 611 |  |
-| Akkadian | takālu (LGz. 612) | LGz. 612 |  |
+| Akkadian | takālu; tukkulu (CAD T 63; LGz. 612) | CAD T 63; LGz. 612 | gloss withheld |
 | Tigre | wäkkäla (LGz. 612) | LGz. 612 | gloss withheld |
 | Epigraphic South Arabian | Sab wkl (SD 160 apud SEDonline 168; Sabaweb lemma 5398) | SD 160; SEDonline 168; Sabaweb lemma 5398 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Kaufman 1974, 106 n. 377 takes tkl 'to trust' as the t-form of \*wkl. Krahmalkov 491 reads Neo-Punic tklm 'support them' beside Akkadian takālu.
 
 <!-- END kaphtor:record -->

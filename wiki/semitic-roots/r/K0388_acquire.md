@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | rašû 'acquire' | Anderson–Moser 2024 root rṯy |  |
-| Amorite | ršj: jaršī, rašijum (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | ršj: jaršī, rašijum (Gelb AS 21, 30); yarṯî (Buck 2019, 332) | Gelb AS 21 30; Buck 2019, 332 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

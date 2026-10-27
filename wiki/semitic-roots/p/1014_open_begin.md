@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1014_open_begin
 title: "*pVtaḥ-: 'open, begin'"
-desc: "Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 21 language(s)."
+desc: "Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1014"
@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | PTḤ (Aramaic Root Atlas; DNWSI 948 apud CAL) | Aramaic Root Atlas; DNWSI 948; CAL; Anderson–Moser 2024 root ptḥ | gloss withheld |
 | Punic | ptḥ 'open' | Anderson–Moser 2024 root ptḥ |  |
 | Judaic Aramaic | maptᵉḥā (HALOT 619) | HALOT 619 |  |
-| Epigraphic South Arabian | Sab. ftḥn (HALOT 988) | HALOT 988 | gloss withheld |
+| Epigraphic South Arabian | Sab. ftḥn (HALOT 988); Sab ftḥ (Sabaweb lemma 3261) | HALOT 988; Sabaweb lemma 3261 | gloss withheld |
 | Tigre | fätḥa (LGz. 170) | LGz. 170 | gloss withheld |
 | Tigrinya | fätḥe (LGz. 170) | LGz. 170 |  |
 | Amharic | fätta (LGz. 170) | LGz. 170 | gloss withheld |
@@ -51,6 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | fäta (LGz. 170) | LGz. 170 |  |
 | Amorite | ptḥ: japtaḥ, pataḥa, pateḥum, patiḥa (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
 | Jibbali | fétəḥ (JL 65 apud SEDonline 1326) | JL 65; SEDonline 1326 | gloss withheld |
+| Emar | pí-it-ḫa /pitḥu/ (Pentiuc 2001, 140–141) | Pentiuc 2001 140–141 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

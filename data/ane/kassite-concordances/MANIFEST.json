@@ -1,0 +1,1103 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Kassite-period name concordances: Clay (YOS 1, BE 14, BE 15, PBS 2/2), Hinke (BE D 4), King (BBSt), Radau (BE 17/1)",
+  "ocr_model": "mistral-ocr-4-1",
+  "sources": {
+    "clay1912-yos1": {
+      "work": "Clay, Albert T., Personal Names from Cuneiform Inscriptions of the Cassite Period, Yale University Press, New Haven (Yale Oriental Series 1), 1912",
+      "ocr_md": {
+        "file": "Clay-1912-Personal-Names-Cassite-Period.md",
+        "sha256": "215b37f1acf17fb76fc9a0f7342ca0fc8ecd1927ba84927193509a3210e4acd9"
+      },
+      "ocr_json": {
+        "file": "Clay-1912-Personal-Names-Cassite-Period.ocr.json",
+        "sha256": "8a5480ed9678fe851ce630b64e1951af96a1224d0ca0e7311d367005a03fbc33"
+      },
+      "pdf": {
+        "file": "Clay-1912-Personal-Names-Cassite-Period.pdf",
+        "sha256": "1f4d79ceaaab02213b4550d5a0cb6d5744feb81d0f3c912b05eab46b031d138d"
+      },
+      "extract_pdf": null,
+      "extract_page_1_is_pdf_page": 1,
+      "pdf_pages_read": [
+        54,
+        155
+      ],
+      "printed_pages_read": [
+        46,
+        147
+      ],
+      "printed_offset": 8,
+      "sections": [
+        {
+          "heading": "List of Personal Names",
+          "kind": "person",
+          "gender": null,
+          "ingested": true
+        }
+      ]
+    },
+    "clay1906-be14": {
+      "work": "Clay, Albert T., Documents from the Temple Archives of Nippur Dated in the Reigns of Cassite Rulers (Complete Dates), Department of Archaeology, University of Pennsylvania (BE A 14), 1906",
+      "ocr_md": {
+        "file": "Clay-1906-BE-14-concordance-pdf045-066.md",
+        "sha256": "bd6a3fa8c93fa2bf14bf78a0d40bd1b7fba31659f9b0801a8038802b44a6f781"
+      },
+      "ocr_json": {
+        "file": "Clay-1906-BE-14-concordance-pdf045-066.ocr.json",
+        "sha256": "c44c8de5c592d6374f7fc88b2066c492998b5e384446d5275b4ec77cd5c5b645"
+      },
+      "pdf": {
+        "file": "Clay-1906-BE-14-Documents-Nippur-Cassite-complete-dates.pdf",
+        "sha256": "ed8a0a75ff48a8d5698ae25e4060f5fd794333f9c710cc8e15a55d270102e1a0"
+      },
+      "extract_pdf": {
+        "file": "Clay-1906-BE-14-concordance-pdf045-066.pdf",
+        "sha256": "4afcddaf35b0883a9d63b69cdf42ade9c25016c3b3d1697ad98c4af93c54797e"
+      },
+      "extract_page_1_is_pdf_page": 45,
+      "pdf_pages_read": [
+        45,
+        66
+      ],
+      "printed_pages_read": [
+        39,
+        60
+      ],
+      "printed_offset": 6,
+      "sections": [
+        {
+          "heading": "1. Masculine Names",
+          "kind": "person",
+          "gender": "male",
+          "ingested": true
+        },
+        {
+          "heading": "2. Feminine Names",
+          "kind": "person",
+          "gender": "female",
+          "ingested": true
+        },
+        {
+          "heading": "3. Names of Scribes who wrote texts",
+          "kind": "person",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "4. Names of Professions, etc.",
+          "kind": "other",
+          "gender": null,
+          "ingested": false
+        },
+        {
+          "heading": "II. Names of Places",
+          "kind": "place",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "III. Names of Deities contained in the Texts",
+          "kind": "deity",
+          "gender": null,
+          "ingested": true
+        }
+      ]
+    },
+    "clay1906-be15": {
+      "work": "Clay, Albert T., Documents from the Temple Archives of Nippur Dated in the Reigns of Cassite Rulers (Incomplete Dates), Department of Archaeology, University of Pennsylvania (BE A 15), 1906",
+      "ocr_md": {
+        "file": "Clay-1906-BE-15-concordance-pdf032-063.md",
+        "sha256": "7ad2ef094445afcf0cfc956750e5c8a9234140dd0530e3890d90af39e543f045"
+      },
+      "ocr_json": {
+        "file": "Clay-1906-BE-15-concordance-pdf032-063.ocr.json",
+        "sha256": "3e045cc3e252dde72c23915943ac2db1e5d07a5ffc135cff63b57355894dd260"
+      },
+      "pdf": {
+        "file": "Clay-1906-BE-15-Documents-Nippur-Cassite-incomplete-dates.pdf",
+        "sha256": "75c3264dee2e7dc1c41cbedad6096dae911156f6dc6da6371187a69f8bc59312"
+      },
+      "extract_pdf": {
+        "file": "Clay-1906-BE-15-concordance-pdf032-063.pdf",
+        "sha256": "ff5ae74da6850b3aba08418d03dba8f68428c35060a66c74f87ef23826359a1b"
+      },
+      "extract_page_1_is_pdf_page": 32,
+      "pdf_pages_read": [
+        32,
+        63
+      ],
+      "printed_pages_read": [
+        25,
+        56
+      ],
+      "printed_offset": 7,
+      "sections": [
+        {
+          "heading": "1. Masculine Names",
+          "kind": "person",
+          "gender": "male",
+          "ingested": true
+        },
+        {
+          "heading": "2. Feminine Names",
+          "kind": "person",
+          "gender": "female",
+          "ingested": true
+        },
+        {
+          "heading": "3. Names of Scribes",
+          "kind": "person",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "II. Names of Professions, etc.",
+          "kind": "other",
+          "gender": null,
+          "ingested": false
+        },
+        {
+          "heading": "III. Names of Places",
+          "kind": "place",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "IV. Names of Gates",
+          "kind": "gate",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "V. Names of Canals",
+          "kind": "river_canal",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "VI. Names of Deities (or Epithets) contained in the Texts",
+          "kind": "deity",
+          "gender": null,
+          "ingested": true
+        }
+      ]
+    },
+    "clay1912-pbs2-2": {
+      "work": "Clay, Albert T., Documents from the Temple Archives of Nippur Dated in the Reigns of Cassite Rulers, University Museum, Philadelphia (PBS 2/2), 1912",
+      "ocr_md": {
+        "file": "Clay-1912-PBS-2-2-index-pdf017-034.md",
+        "sha256": "8df762d6b833b2d51c7365d7998607807d208515c8ec2824df6e80b64c7345cf"
+      },
+      "ocr_json": {
+        "file": "Clay-1912-PBS-2-2-index-pdf017-034.ocr.json",
+        "sha256": "6e4dbc2724195e80f7108c713dbe61393c1c024fdb20fc90aca39fbc73c79c59"
+      },
+      "pdf": {
+        "file": "Clay-1912-PBS-2-2-Documents-Temple-Archives-Nippur-Cassite.pdf",
+        "sha256": "a0ffc790dc69e7e088d4f526a39cf4085e2e747cf1f7faa2fce42d1af39af3ea"
+      },
+      "extract_pdf": {
+        "file": "Clay-1912-PBS-2-2-index-pdf017-034.pdf",
+        "sha256": "56716e8e76b6737b15029123427abf4b3f738b177642566ed8990de95e3945e5"
+      },
+      "extract_page_1_is_pdf_page": 17,
+      "pdf_pages_read": [
+        17,
+        34
+      ],
+      "printed_pages_read": [
+        69,
+        86
+      ],
+      "printed_offset": -52,
+      "sections": [
+        {
+          "heading": "I. Masculine Names",
+          "kind": "person",
+          "gender": "male",
+          "ingested": true
+        },
+        {
+          "heading": "II. Feminine Names",
+          "kind": "person",
+          "gender": "female",
+          "ingested": true
+        },
+        {
+          "heading": "III. Names of Cities",
+          "kind": "place",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "IV. Names of Gates",
+          "kind": "gate",
+          "gender": null,
+          "ingested": true
+        }
+      ]
+    },
+    "hinke1907-bed4": {
+      "work": "Hinke, William J., A New Boundary Stone of Nebuchadrezzar I from Nippur, with a Concordance of Proper Names and a Glossary of the Kudurru Inscriptions thus far Published, University of Pennsylvania (BE D 4), 1907",
+      "ocr_md": {
+        "file": "Hinke-1907-BE-D4-concordance-pdf232-262.md",
+        "sha256": "dece509b1be38377babbe36a101ca0e77efced7c17a7ef9a9740d9b542ce6a34"
+      },
+      "ocr_json": {
+        "file": "Hinke-1907-BE-D4-concordance-pdf232-262.ocr.json",
+        "sha256": "b54284882ee06eab511f2f3de5515a69e376936b1281f950bf369ea79e975494"
+      },
+      "pdf": {
+        "file": "Hinke-1907-New-Boundary-Stone-Nebuchadrezzar-I-BE-D4.pdf",
+        "sha256": "e11e47afc80b114c0dd881f4c4f7c1232bb6b5157d6cda48acae75c53d11e226"
+      },
+      "extract_pdf": {
+        "file": "Hinke-1907-BE-D4-concordance-pdf232-262.pdf",
+        "sha256": "782de9f0303408d32301a240c449d3f3cd1546ca17eaf9317cc9385a02e5d961"
+      },
+      "extract_page_1_is_pdf_page": 232,
+      "pdf_pages_read": [
+        232,
+        262
+      ],
+      "printed_pages_read": [
+        200,
+        230
+      ],
+      "printed_offset": 32,
+      "sections": [
+        {
+          "heading": "1. Names of Persons",
+          "kind": "person",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "2. Names of Places",
+          "kind": "place",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "3. Names of Rivers and Canals",
+          "kind": "river_canal",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "4. Names of Deities",
+          "kind": "deity",
+          "gender": null,
+          "ingested": true
+        }
+      ]
+    },
+    "king1912-bbst": {
+      "work": "King, L. W., Babylonian Boundary-Stones and Memorial-Tablets in the British Museum, British Museum, London, 1912",
+      "ocr_md": {
+        "file": "King-1912-BBSt-index-pdf155-160.md",
+        "sha256": "219051f9d3ee58cd1f5bc468ccded01ecc5b3fcc83a95b9d6756eced4ce3b663"
+      },
+      "ocr_json": {
+        "file": "King-1912-BBSt-index-pdf155-160.ocr.json",
+        "sha256": "d9b2ec40db43ca854511db622eb73f802b9c77dfbc52492af6c9509ce05af110"
+      },
+      "pdf": {
+        "file": "King-1912-Babylonian-Boundary-Stones-BBSt.pdf",
+        "sha256": "d665e01b533658e69eb9f74362fbc703cc1cb9bbbe86af1436e83c301c5855d3"
+      },
+      "extract_pdf": {
+        "file": "King-1912-BBSt-index-pdf155-160.pdf",
+        "sha256": "d2bf4a2582e803e40cc8c6079fde62177ac33ff4dad6cee5ff5371e8fbe5676a"
+      },
+      "extract_page_1_is_pdf_page": 155,
+      "pdf_pages_read": [
+        155,
+        160
+      ],
+      "printed_pages_read": [
+        131,
+        136
+      ],
+      "printed_offset": 24,
+      "sections": [
+        {
+          "heading": "Index",
+          "kind": "unstated",
+          "gender": null,
+          "ingested": true
+        }
+      ]
+    },
+    "radau1908-be17-1": {
+      "work": "Radau, Hugo, Letters to Cassite Kings from the Temple Archives of Nippur, University of Pennsylvania (BE A 17/1), 1908",
+      "ocr_md": {
+        "file": "Radau-1908-BE-17-1-Letters-to-Cassite-Kings.md",
+        "sha256": "abf6474d6cccf6269adc6d9d098fb14732d228bc7a901f0d7355cfd84ecf98c0"
+      },
+      "ocr_json": {
+        "file": "Radau-1908-BE-17-1-Letters-to-Cassite-Kings.ocr.json",
+        "sha256": "142353850ab22aa8669df1b62595e0e30097114797caa7f003d2048d5d88fbaf"
+      },
+      "pdf": {
+        "file": "Radau-1908-BE-17-1-Letters-to-Cassite-Kings.pdf",
+        "sha256": "a3f5795bf1acf6412dcbabed5f46d0e1f3030a55a31d7429cc72f361c0ca8e1b"
+      },
+      "extract_pdf": null,
+      "extract_page_1_is_pdf_page": 1,
+      "pdf_pages_read": [
+        168,
+        180
+      ],
+      "printed_pages_read": [
+        145,
+        157
+      ],
+      "printed_offset": 23,
+      "sections": [
+        {
+          "heading": "1. Masculine Names",
+          "kind": "person",
+          "gender": "male",
+          "ingested": true
+        },
+        {
+          "heading": "2. Feminine Names",
+          "kind": "person",
+          "gender": "female",
+          "ingested": true
+        },
+        {
+          "heading": "II. Professional and Gentilic Names",
+          "kind": "other",
+          "gender": null,
+          "ingested": false
+        },
+        {
+          "heading": "III. Names of Places",
+          "kind": "place",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "IV. Names of Gates",
+          "kind": "gate",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "V. Names of Houses and Temples",
+          "kind": "temple",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "VI. Names of Rivers and Canals",
+          "kind": "river_canal",
+          "gender": null,
+          "ingested": true
+        },
+        {
+          "heading": "VII. Names of Gods",
+          "kind": "deity",
+          "gender": null,
+          "ingested": true
+        }
+      ]
+    }
+  },
+  "licence": "Public domain: the seven volumes were published 1906-1912 (Clay 1906, 1912; Hinke 1907; Radau 1908; King 1912) and are out of copyright; the OCR text and this layer carry no added rights.",
+  "epistemic_boundary": "Rows are OCR leads to the printed page, not readings: a row says that the cited volume prints an entry of this form on this page. A form is read off the page image before it is cited. Only rows marked image_checked were compared with a scan of the printed page, and their entry_ocr gives the printed text. BE 14 and BE 15 have no scan here: their full-book PDFs are Acrobat Paper Capture output, whose visible page is Acrobat's own OCR drawn in fonts, so rows there marked acrobat_rendering_checked were compared with that rendering only and can keep a slip both OCRs share. Elsewhere the OCR's slips stand (h for ḫ, l for the feminine determinative, [ for the printed |, macrons for circumflexes, ʔ or ʃ for š), and so do the slips that change a reading (ocr_slips_seen: î or ʒ for š in YOS 1, ā for û in King, Ba- for ᵈEa- in BE 15). Row boundaries come from the OCR's layout and wording, so an unchecked row can still hold the tail of a neighbouring entry or lack its own tail: read the page before citing a row's references. kind and gender come from the book's own section headings (King's index: his own words in the entry), not from any analysis of the name; no row is joined by name to another layer.",
+  "transcription_rule": "entry_ocr is the entry's OCR lines joined with one space, a line ending in a hyphen joined directly; sub-entries keep their numbers. The OCR's markup stays as it gave it (*italic*, **bold**, LaTeX superscripts such as $^{m}$ or ^{ilu}), and so do the printed conventions (Clay's sh for š, (d) for the divine determinative, f. of, s. of). Footnotes are left out: a paragraph that opens with a note mark, and the run of blocks at the foot of a page that the OCR types references and that open with a note number. headword is the text before the first comma, colon, gloss, remark or title of relation (Mâr-, KAL-TUR-) outside brackets, with the emphasis markup and the footnote marks taken off (after the name, and raised digits or daggers set right after a letter or bracket inside it) and LaTeX superscripts given as Unicode superscripts where they exist, as plain letters where they do not (^{âlu}); it is a derived convenience, entry_ocr is the record. refs_ocr is the reference part of each segment as printed (King: all that follows the name). normalized_key is build_proper_name_index.normalized_key (NFKC, casefold, trimmed) of the headword with markup and raised note digits removed and the OCR's determinative slips given as what they stand for: 1 or ¹ for the feminine determinative as f, 4 or ⁴ for the divine as d, 41u as âlu, a head's d- or 6- as ú-.",
+  "identity_rule": "id is <work>-<pdf page of the full book, 3 digits>-<row, 3 digits>, where row is the entry's position among all the entries the page prints, in reading order (left column, then right). Entries left out (profession lists, King's subject entries) keep their positions, so their ids are missing, not reused. An entry that runs over a page break belongs to the page where it starts; continues_on names the next page. id-fingerprints.json records each id's (source_id, pdf_page, headword); a rebuild that would give an existing id another fingerprint is refused unless --allow-remap is passed, and one that would drop an id unless --allow-drop is. The ids were renumbered once, on 2026-10-26, when row boundaries were corrected: id-remap-2026-10-26.json maps every earlier id to the id that now holds its entry, or to null.",
+  "kind_rule": "kind maps the section heading (person, deity, place, river_canal, gate, temple). King's index has no headings: kind is read from his own words in the entry (\"Canal\" in the name, \"Gate\", \"invocation of\", \"god\", \"king\", \"s. of\", \"f. of\", \"city\" ...), kind_basis quotes them, and an entry that gives no kind is unstated: kind unstated says the index does not say whether the name is a person's, a place's or a god's, not that it is none of them.",
+  "column_rule": "column is left or right where the OCR block that holds the entry's head line lies in one column of the page, and span where the OCR gave both columns of the page as one block: every printed entry still sits in one column, but the OCR's box cannot say which. A span row's place in reading order comes from the order test (column_order).",
+  "gender_rule": "gender is the section's (Masculine / Feminine Names) and null elsewhere. The books also list women among the men with a feminine determinative (and the reverse); that mark stays in entry_ocr and does not change gender.",
+  "ocr_status_rule": "image_checked: the row's page was read against a rendered image of the full book's scan (image_checks lists the pages) and the row reads as printed; acrobat_rendering_checked: BE 14 and BE 15 only, whose full-book PDFs are Acrobat 7 Paper Capture output with no page scan, the visible page being Acrobat's OCR drawn in fonts: the row's page was read against that rendering and against the Mistral OCR, so the row agrees with both OCRs and can keep a slip they share; column_order_suspect: the OCR ran both columns of the page through one block and the rows fail the order test; ocr_unchecked: every other row.",
+  "row_counts": {
+    "total": 9621,
+    "works": {
+      "clay1912-yos1": {
+        "rows": 3703,
+        "sections": {
+          "List of Personal Names": 3703
+        }
+      },
+      "clay1906-be14": {
+        "rows": 1183,
+        "sections": {
+          "1. Masculine Names": 910,
+          "2. Feminine Names": 97,
+          "3. Names of Scribes who wrote texts": 13,
+          "II. Names of Places": 93,
+          "III. Names of Deities contained in the Texts": 70
+        }
+      },
+      "clay1906-be15": {
+        "rows": 1888,
+        "sections": {
+          "1. Masculine Names": 1317,
+          "2. Feminine Names": 344,
+          "3. Names of Scribes": 3,
+          "III. Names of Places": 112,
+          "IV. Names of Gates": 8,
+          "V. Names of Canals": 2,
+          "VI. Names of Deities (or Epithets) contained in the Texts": 102
+        }
+      },
+      "clay1912-pbs2-2": {
+        "rows": 1239,
+        "sections": {
+          "I. Masculine Names": 1042,
+          "II. Feminine Names": 88,
+          "III. Names of Cities": 99,
+          "IV. Names of Gates": 10
+        }
+      },
+      "hinke1907-bed4": {
+        "rows": 632,
+        "sections": {
+          "1. Names of Persons": 390,
+          "2. Names of Places": 128,
+          "3. Names of Rivers and Canals": 29,
+          "4. Names of Deities": 85
+        }
+      },
+      "king1912-bbst": {
+        "rows": 518,
+        "sections": {
+          "Index": 518
+        }
+      },
+      "radau1908-be17-1": {
+        "rows": 458,
+        "sections": {
+          "1. Masculine Names": 218,
+          "2. Feminine Names": 26,
+          "III. Names of Places": 71,
+          "IV. Names of Gates": 7,
+          "V. Names of Houses and Temples": 22,
+          "VI. Names of Rivers and Canals": 22,
+          "VII. Names of Gods": 92
+        }
+      }
+    }
+  },
+  "kind_counts": {
+    "deity": 386,
+    "gate": 26,
+    "person": 8201,
+    "place": 504,
+    "river_canal": 68,
+    "temple": 22,
+    "unstated": 414
+  },
+  "ocr_status_counts": {
+    "image_checked": 814,
+    "ocr_unchecked": 8232,
+    "acrobat_rendering_checked": 575
+  },
+  "image_checks": {
+    "pages": {
+      "clay1912-yos1": {
+        "54": "full page; first page of List of Personal Names; folio (46) read",
+        "100": "full page; folio 92 read"
+      },
+      "clay1906-be14": {
+        "45": "full page; first page of 1. Masculine Names",
+        "61": "full page; first page of 2. Feminine Names",
+        "62": "full page; first page of 3. Names of Scribes who wrote texts",
+        "63": "full page; first page of 4. Names of Professions, etc. (not ingested) and II. Names of Places",
+        "65": "full page; first page of III. Names of Deities contained in the Texts"
+      },
+      "clay1906-be15": {
+        "32": "full page; first page of 1. Masculine Names",
+        "35": "full page; the OCR runs both columns into one block",
+        "53": "full page; the OCR made the two columns a table; first page of 2. Feminine Names",
+        "58": "full page; first page of 3. Names of Scribes and II. Names of Professions (not ingested)",
+        "59": "full page; first page of III. Names of Places",
+        "60": "full page; first page of IV. Names of Gates and V. Names of Canals",
+        "61": "full page; the OCR runs both columns into one block; first page of VI. Names of Deities"
+      },
+      "clay1912-pbs2-2": {
+        "17": "full page; first page of Masculine Names. I",
+        "32": "full page; first page of Feminine Names. II",
+        "33": "full page; first page of III. Names of Cities",
+        "34": "full page; first page of IV. Names of Gates"
+      },
+      "hinke1907-bed4": {
+        "232": "full page; first page of 1. Names of Persons",
+        "238": "full page; the OCR runs both columns into one block and glues heads to the line above",
+        "240": "full page; the OCR runs both columns into one block, glues heads to the line above and sets a divine determinative before every glued head: the dMarduk heads print it, the 15 heads after them do not",
+        "247": "full page; first page of 2. Names of Places",
+        "251": "full page; first page of 3. Names of Rivers and Canals",
+        "252": "full page; first page of 4. Names of Deities"
+      },
+      "king1912-bbst": {
+        "155": "full page; first page of the Index",
+        "156": "full page"
+      },
+      "radau1908-be17-1": {
+        "168": "first page of 1. Masculine Names (the list part of the page)",
+        "173": "full page; the OCR made the columns a table; first page of 2. Feminine Names and II",
+        "176": "full page; first page of III. Names of Places",
+        "177": "full page; first page of IV. Names of Gates and V. Names of Houses and Temples",
+        "178": "full page; first page of VI. Names of Rivers and Canals and VII. Names of Gods"
+      }
+    },
+    "rows": 1389,
+    "rows_corrected": 880,
+    "boundary_fixes": {
+      "clay1906-be14": [
+        {
+          "pdf_page": 61,
+          "line_starts": "la-ai..., 105:8."
+        },
+        {
+          "pdf_page": 61,
+          "line_starts": "la-a-turn, 142:21."
+        },
+        {
+          "pdf_page": 61,
+          "line_starts": "la-igu, C. B. M. 3650"
+        },
+        {
+          "pdf_page": 61,
+          "line_starts": "la-um(ta), (cf. mla-a-tum)"
+        },
+        {
+          "pdf_page": 65,
+          "line_starts": "dPapsukal, written PAP-LUH"
+        }
+      ],
+      "clay1906-be15": [
+        {
+          "pdf_page": 61,
+          "line_starts": "A-ri, cf. A-ri-ba-ni"
+        }
+      ],
+      "clay1912-pbs2-2": [
+        {
+          "pdf_page": 34,
+          "line_starts": "41uDi-zu-sa-a[ki], 6:6."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uDu-un-nuki, C. B. S. 3466."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uDür-SHAK-Enlil, 69:34."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uE-li-im-gi, 111:13."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uGa-li-ia, 3:7."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uGi-shal-li-eki, 111:15."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uHi-lu-niki, in abullu"
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uHi-lu-ni elü in abullu"
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uKarüki, 58:2"
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uKI(Irzitu or Ashru) ar-ku-u"
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uKI(Irzitu or Ashru) mah-ru-u"
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uMa-ak-su, 17:11"
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uPi-sa-ni, C. B. S. 12579."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uRē'ü,"
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uSin-sha-mu'ki, 62:2."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uShe-li-bi, 117:11."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uShi-it(?)-u-la, 69:25."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uTah-la-ash(rum), 76:2."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uTu..., 111:2."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uU-lu-uk-kuki, 100:17."
+        },
+        {
+          "pdf_page": 34,
+          "line_starts": "41uAsh-shal-KAK(?)ki, 100:7."
+        }
+      ],
+      "hinke1907-bed4": [
+        {
+          "pdf_page": 251,
+          "line_starts": "ālu ša Ta-ma-ak-ku (in the district of"
+        },
+        {
+          "pdf_page": 251,
+          "line_starts": "ālu . . . . dNIN.SAR"
+        }
+      ],
+      "radau1908-be17-1": [
+        {
+          "pdf_page": 177,
+          "line_starts": "bâb shâ bût(= Ê) be-lî-ia"
+        },
+        {
+          "pdf_page": 177,
+          "line_starts": "bût be-lî-ia, 26 : 19"
+        },
+        {
+          "pdf_page": 177,
+          "line_starts": "bût sharri(= LUGAL), 59a : 3."
+        },
+        {
+          "pdf_page": 178,
+          "line_starts": "bít-ilu, see É.AN."
+        },
+        {
+          "pdf_page": 178,
+          "line_starts": "ku-tal-li, 23 : 8;"
+        },
+        {
+          "pdf_page": 178,
+          "line_starts": "nâru iluBêlit, see"
+        },
+        {
+          "pdf_page": 178,
+          "line_starts": "nam-ga-ra, 40 : 4"
+        },
+        {
+          "pdf_page": 178,
+          "line_starts": "nam-kar, nam-gar, see nam-ga-ra."
+        },
+        {
+          "pdf_page": 178,
+          "line_starts": "nâru iluNIN.LIL, 67 : 2."
+        }
+      ]
+    },
+    "method": "pymupdf renders of the full book at 150-250 dpi, cropped by column and half page; the printed folio read on each checked work",
+    "paper_capture": {
+      "works": [
+        "clay1906-be14",
+        "clay1906-be15"
+      ],
+      "note": "The BE 14 and BE 15 PDFs were made by the Adobe Acrobat 7.0 Paper Capture plug-in: their pages hold no page-size image, only text in Arial, Courier New and Times New Roman over small CCITT fragments, so a render shows Acrobat's OCR as if it were print (Ab-la-mi-turn, 6-ka-an). There is no scan of these two volumes to check against here; their checked pages are acrobat_rendering_checked, not image_checked, until a scan (such as archive.org's page images) is read. The other five PDFs carry page scans (Internet Archive JPX for YOS 1, PBS 2/2 and King; NMT CCITT for Hinke; Google Books JBIG2 for Radau)."
+    }
+  },
+  "column_order": {
+    "rule": "pages whose two columns the OCR gave as one block or as a markdown table; a page whose rows break alphabetical order at more than 25% of their steps, and was not read against its image, is column_order_suspect",
+    "pages": {
+      "clay1906-be14": [
+        {
+          "pdf_page": 50,
+          "layout": "one block across both columns",
+          "rows": 61,
+          "alphabet_breaks": 2,
+          "status": "order_test_passed"
+        }
+      ],
+      "clay1906-be15": [
+        {
+          "pdf_page": 34,
+          "layout": "markdown table",
+          "rows": 56,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 35,
+          "layout": "one block across both columns",
+          "rows": 67,
+          "alphabet_breaks": 0,
+          "status": "acrobat_rendering_checked"
+        },
+        {
+          "pdf_page": 36,
+          "layout": "one block across both columns",
+          "rows": 63,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 37,
+          "layout": "one block across both columns",
+          "rows": 66,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 38,
+          "layout": "one block across both columns",
+          "rows": 73,
+          "alphabet_breaks": 3,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 42,
+          "layout": "one block across both columns",
+          "rows": 63,
+          "alphabet_breaks": 1,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 43,
+          "layout": "one block across both columns",
+          "rows": 74,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 44,
+          "layout": "one block across both columns",
+          "rows": 65,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 45,
+          "layout": "one block across both columns",
+          "rows": 56,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 46,
+          "layout": "one block across both columns",
+          "rows": 73,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 47,
+          "layout": "one block across both columns",
+          "rows": 51,
+          "alphabet_breaks": 1,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 49,
+          "layout": "one block across both columns",
+          "rows": 71,
+          "alphabet_breaks": 2,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 50,
+          "layout": "one block across both columns",
+          "rows": 71,
+          "alphabet_breaks": 1,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 52,
+          "layout": "one block across both columns",
+          "rows": 65,
+          "alphabet_breaks": 9,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 53,
+          "layout": "markdown table",
+          "rows": 72,
+          "alphabet_breaks": 12,
+          "status": "acrobat_rendering_checked"
+        },
+        {
+          "pdf_page": 54,
+          "layout": "one block across both columns",
+          "rows": 78,
+          "alphabet_breaks": 5,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 55,
+          "layout": "one block across both columns",
+          "rows": 72,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 56,
+          "layout": "one block across both columns",
+          "rows": 78,
+          "alphabet_breaks": 1,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 57,
+          "layout": "one block across both columns",
+          "rows": 66,
+          "alphabet_breaks": 3,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 61,
+          "layout": "one block across both columns",
+          "rows": 39,
+          "alphabet_breaks": 3,
+          "status": "acrobat_rendering_checked"
+        },
+        {
+          "pdf_page": 62,
+          "layout": "one block across both columns",
+          "rows": 44,
+          "alphabet_breaks": 2,
+          "status": "order_test_passed"
+        }
+      ],
+      "hinke1907-bed4": [
+        {
+          "pdf_page": 234,
+          "layout": "one block across both columns",
+          "rows": 24,
+          "alphabet_breaks": 0,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 238,
+          "layout": "one block across both columns",
+          "rows": 27,
+          "alphabet_breaks": 0,
+          "status": "image_checked"
+        },
+        {
+          "pdf_page": 240,
+          "layout": "one block across both columns",
+          "rows": 28,
+          "alphabet_breaks": 0,
+          "status": "image_checked"
+        }
+      ],
+      "radau1908-be17-1": [
+        {
+          "pdf_page": 171,
+          "layout": "one block across both columns",
+          "rows": 49,
+          "alphabet_breaks": 3,
+          "status": "order_test_passed"
+        },
+        {
+          "pdf_page": 173,
+          "layout": "markdown table",
+          "rows": 40,
+          "alphabet_breaks": 8,
+          "status": "image_checked"
+        },
+        {
+          "pdf_page": 180,
+          "layout": "markdown table",
+          "rows": 26,
+          "alphabet_breaks": 1,
+          "status": "order_test_passed"
+        }
+      ]
+    },
+    "suspect_pages": []
+  },
+  "ocr_slips_seen": {
+    "clay1912-yos1": [
+      "ḥ for ḫ",
+      "ʔ, ʃ or ʿ for š",
+      "î for š on pdf 127 (Rabâ(-a)îa-Marduk, Ra-ba-îa-Enmaîtu), where î is also a real letter",
+      "ʒ for š on pdf 130 and 133",
+      "¹, 1 or ʿ glued to the name for the raised feminine determinative",
+      "macron for circumflex (ā for â)",
+      "⁽ᵈ⁾ for (ᵈ"
+    ],
+    "clay1906-be14": [
+      "[ for the printed reference separator |",
+      "l, l' or I for the feminine determinative f",
+      "macron for circumflex (Mār- for Mâr-)",
+      "h for ḫ",
+      "Bīl or Bil for Bêl",
+      "c for e",
+      "la- for Ia-",
+      "d- for the Ú- that begins a name"
+    ],
+    "clay1906-be15": [
+      "4 or ⁴ for the divine determinative d",
+      "Ba- for ᵈEa- (Ba-bal-ti for ᵈEa-bal-ti, pdf 54)",
+      "d- or 6- for the Ú- that begins a name",
+      "Z or Zz for I or Iz",
+      "turn for tum",
+      "ii for ú",
+      "& for an unread sign",
+      "macron or acute for circumflex (Bél, Bélit)",
+      "h for ḫ",
+      "g for q"
+    ],
+    "clay1912-pbs2-2": [
+      "Btt for Bît",
+      "41u or ᵃⁱᵃ for âlu",
+      "ᵃ for the divine determinative ᵈ",
+      "ʷ for the masculine determinative ᵐ",
+      "¹ for the feminine determinative ᶠ",
+      "h for ḫ",
+      "macron for circumflex",
+      "ü for û"
+    ],
+    "hinke1907-bed4": [
+      "macron or acute for circumflex",
+      "h or ḥ for ḫ",
+      "Iqlša for Iqîša",
+      "the next italic head glued to the line above where both columns run together",
+      "a divine determinative ($^{d}$) set before every glued head of pdf 240, carried on from the dMarduk heads; read against the image there and corrected"
+    ],
+    "king1912-bbst": [
+      "Bél, Bit, Dâr for Bêl, Bît, Dûr",
+      "ā for û (Shamāa for Shamûa, Shazāti for Shazûti, Shigāa for Shigûa)",
+      "Amê- for Amêl-",
+      "k for ḳ"
+    ],
+    "radau1908-be17-1": [
+      "LaTeX superscripts, sometimes garbled (\\text{d}lu for âlu, iiu for ilu)",
+      "dsh for ásh",
+      "macron for circumflex",
+      "Ê for É",
+      "Ü for Ù",
+      "ḫa for Ba (mḫa-il-íluMarduk for ᵐBa-il-iluMarduk, pdf 169)"
+    ]
+  },
+  "not_ingested": {
+    "clay1912-yos1": {
+      "pdf_pages": "1-53 (to printed p. 45) and 156-220 (printed 148-208, then plates and back matter)",
+      "what": "Front matter, preface and abbreviations; the essays (The Verbalform in the Theophorous Names with its tables, Hypocoristic Affixes, Foreign Names, Hittite-Mitannian Name Elements, Cassite Name Elements with its example lists of Hittite-Mitannian and Cassite names, Surname Elements); the List of Elements (pdf 156-215) and the List of Temples contained in the Names (pdf 216), which index name elements rather than names; plates and back matter. Only the List of Personal Names (pdf 54-155, printed 46-147) is ingested."
+    },
+    "clay1906-be14": {
+      "what": "The list of abbreviations and determinatives above the first section (pdf 45), and 4. Names of Professions, etc. (pdf 63), a list of titles and professions (ardu, nangaru, tupsharru ...), not proper names. The count under sections is of parsed entries; the OCR runs several printed entries into one paragraph there, so it undercounts them.",
+      "sections": {
+        "4. Names of Professions, etc.": 24
+      },
+      "preamble_lines": 3
+    },
+    "clay1906-be15": {
+      "what": "The list of abbreviations (pdf 32) and II. Names of Professions, etc. (pdf 58-59), titles and professions, not proper names.",
+      "sections": {
+        "II. Names of Professions, etc.": 36
+      },
+      "preamble_lines": 2
+    },
+    "clay1912-pbs2-2": {
+      "what": "The list of abbreviations and determinatives above the first section (pdf 17).",
+      "preamble_lines": 2
+    },
+    "hinke1907-bed4": {
+      "what": "The abbreviations and the TRANSLITERATION table of divine-name ideograms above the first section (pdf 232), sign equations rather than concordance entries. The concordance's footnotes are left out on every page, as in all seven works.",
+      "preamble_lines": 19
+    },
+    "king1912-bbst": {
+      "what": "King's index mixes names and subjects. Entries that name a symbol or object on the stones (Arrow, Bird, Serpent, Star, Wedge ...) are left out; their headwords are listed in subject_entries. Ethnic and geographical names (Amorites, Kassites, Sea-Land) are kept, kind unstated.",
+      "subject_entries": [
+        "Arrow",
+        "Battle-mace",
+        "Bird",
+        "Brick",
+        "Bull",
+        "Bundle",
+        "Centaur",
+        "Crescent",
+        "Crook",
+        "Dagger",
+        "Disk",
+        "Dog",
+        "Dolphin",
+        "Dragon",
+        "Eagle",
+        "Fox",
+        "Goat-fish",
+        "God",
+        "Goddess",
+        "Headdress",
+        "Hedgehog",
+        "Horse",
+        "Lamp",
+        "Lightning-fork",
+        "Lion",
+        "Mace",
+        "Mule",
+        "Ox",
+        "Porcupine",
+        "Ram",
+        "Rod",
+        "Satyr",
+        "Scorpion",
+        "Scorpion-man",
+        "Sea-monster",
+        "Serpent",
+        "Sheaf",
+        "Shrines",
+        "Spear-head",
+        "Spirali",
+        "Staff",
+        "Star",
+        "Stilus",
+        "Tablet",
+        "Temple-tower",
+        "Trowel",
+        "Turtle",
+        "Wedge",
+        "Yoke",
+        "Ziggurat"
+      ]
+    },
+    "radau1908-be17-1": {
+      "pdf_pages": "1-167 and 181-366",
+      "what": "Everything but VI. Concordance of Proper Names (pdf 168-180, printed 145-157): introduction, translations, description of tablets, plates. Within the concordance, the abbreviations and II. Professional and Gentilic Names (titles, professions and gentilics such as Akkadî) are left out.",
+      "sections": {
+        "II. Professional and Gentilic Names": 49
+      },
+      "preamble_lines": 2
+    }
+  },
+  "outputs": {
+    "entries.jsonl": {
+      "rows": 9621,
+      "sha256": "48befc4d78e2ad5691fe712c525b72221f4a0138435333062f16598f215d5d9d"
+    }
+  },
+  "export": {
+    "rows": "each row as the private build wrote it, without source_id",
+    "manifest": "private catalogue ids, local paths (a path is given as its file name) and build-trail keys removed; outputs rehashed",
+    "not_shipped": [
+      "id-fingerprints.json",
+      "id-remap-2026-10-26.json"
+    ]
+  }
+}

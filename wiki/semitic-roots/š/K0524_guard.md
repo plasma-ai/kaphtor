@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | mišmār; mišmeret (HALOT 649); šmr (HALOT 1581) | HALOT 649; HALOT 1581 | gloss withheld |
 | Phoenician | šmr (T 325) | T 325 | gloss withheld |
 | Judaic Aramaic | šmr (itpa.) (HALOT 1581) | HALOT 1581 | gloss withheld |
-| Amorite | śmr: śamarum, śāmirum, śimrum, maśmarum (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
+| Amorite | śmr: śamarum, śāmirum, śimrum, maśmarum (Gelb AS 21, 32); šimru, šimmāru, šammāru, šamar (Buck 2019, 333) | Gelb AS 21 32; Buck 2019, 333 | gloss withheld |
 | Syrian Aramaic | šmar 'guard, keep; send forth, dismiss' (Payne Smith 585) | Payne Smith 585 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

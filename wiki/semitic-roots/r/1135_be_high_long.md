@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | mᵉrōmā (HALOT 633); rūmā (HALOT 1205); rūm (T 304) | HALOT 633; HALOT 1205; T 304 | gloss withheld |
 | Punic | mrm (HALOT 633; T 199); rm | HALOT 633; T 199; Anderson–Moser 2024 root rwm | gloss withheld |
 | Aramaic | rwmʾ (HALOT 1205; Qumran 220 apud CAL); CPArm. rmtʾ (HALOT 1240); RWM (Aramaic Root Atlas; DNWSI 1063 apud CAL) | HALOT 1205; CAL; HALOT 1240; Aramaic Root Atlas; DNWSI 1063; Anderson–Moser 2024 root rwm | gloss withheld |
-| Amorite | rwm: rāmum, rāmatum, jārīm (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rwm: rāmum, rāmatum, jārīm (Gelb AS 21, 30); rīm, rām, marīm, yarīm, tarīm, ʾarīm, larīm (Buck 2019, 332) | Gelb AS 21 30; Buck 2019, 332 | gloss withheld |
 | Modern Arabic | Yem. rēm (Biella 487) | Biella 487 |  |
 | Amharic | räžžim (AED 405 apud SEDonline 128) | AED 405; SEDonline 128 | gloss withheld |
 | Phoenician | rm (T 304) | T 304 | gloss withheld |

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | bard- 2 |  |  |
-| Hebrew | bārō/ūd 1 |  |  |
+| Hebrew | bārōd 1 (HALOT 154) | HALOT 154 | gloss withheld |
 | Syrian Aramaic | bārᵉdā (HALOT 154; Payne Smith 55) | HALOT 154; Payne Smith 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

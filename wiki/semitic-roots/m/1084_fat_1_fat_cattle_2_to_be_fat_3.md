@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1084_fat_1_fat_cattle_2_to_be_fat_3
 title: "*mrʾ ~ *mariʾ-: 'fat' 1, 'fat cattle' 2, 'to be fat' 3"
-desc: "Proto-Semitic *mrʾ ~ *mariʾ-, 'fat' 1, 'fat cattle' 2, 'to be fat' 3: reflexes in 7 language(s)."
+desc: "Proto-Semitic *mrʾ ~ *mariʾ-, 'fat' 1, 'fat cattle' 2, 'to be fat' 3: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1084"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | mǝrīʔ 2 |  |  |
 | Amharic | mora |  |  |
 | Arabic | maraʾa (HALOT 630) | HALOT 630 | gloss withheld |
+| Amorite | marʾu (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

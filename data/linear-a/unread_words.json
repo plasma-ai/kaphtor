@@ -7,18 +7,18 @@
     "edge_overlap": "a lexicon word sits at one edge; often a chance 2-sign overlap"
   },
   "stats": {
-    "corpus_words": 748,
-    "read": 499,
-    "unread_listed": 421,
+    "corpus_words": 747,
+    "read": 504,
+    "unread_listed": 415,
     "by_status": {
       "edge_overlap": 22,
-      "unread": 147,
-      "role_only": 252
+      "unread": 146,
+      "role_only": 247
     },
-    "hapax": 402,
+    "hapax": 396,
     "repeated": 19,
     "cross_site": 6,
-    "surface_damaged": 259,
+    "surface_damaged": 258,
     "excluded_tokens": {
       "single-sign": 1426,
       "numeral/punct": 1550,
@@ -89,29 +89,6 @@
       ],
       "cross_site": false,
       "note": "Always TA-I-*123 (LB AROM) and always a recipient: HT9a (between *324-DI-RA and A-RU), HT9b (between QE-PU and DI-NA-U, I dotted, GORILA I 19) and the head of HT39 with KU-RE-JU and SA-MA-TI. The HT9b entry sits inside the wine total (3+3+8+2+2+2+4 = KU-RO 24), so *123 tags the recipient, not the commodity, cf. LB PN + a-re-pa-zo-o 'unguent-boiler' + AROM (PY Un 249.2). No reading."
-    },
-    {
-      "word": "TE-TU",
-      "signs": 2,
-      "status": "role_only",
-      "role": "administrative roster label",
-      "translation_label": "roster label (unread)",
-      "frequency": 3,
-      "attestations": [
-        "HT13",
-        "HT7a",
-        "HT85b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "HT85b": [
-          "end"
-        ]
-      },
-      "note": "One of the recurring HT units: on HT13 it takes 56 of the wine total 130½ beside TE-KI, KU-ZU-NI and DA-SI-*118, the set HT85a counts in men (TE-KE for TE-KI). It is a single entry in the lists HT7a (.5 after DA-RE, TE over an erasure, GORILA I 15) and HT85b (.2–3 TE-TU[ ] 1, between PA and KA, the lacuna perhaps hiding no sign, GORILA I 133). No reading."
     },
     {
       "word": "U-*34-SI",
@@ -252,7 +229,7 @@
           "start"
         ]
       },
-      "note": "Recipient in two Haghia Triada lists that also share DI. HT85b (Scribe 9, Casa Room 7): QE-KA 1 among the single entries under KI-KI-RA-JA, after KI-RE-TA₂ 1, with DI 1 and ME-ZA 1 (GORILA I 133). HT111a .2 ]QE-KA 8, broken before, above QA-SẠ-[, ]QẠ-RU 8 and DI 14[ (GORILA I 181). No reading."
+      "note": "HT 85b .2 QE-KA 1, whole, among the one-man entries under KI-KI-RA-JA, after KI-RE-TA₂ 1 (GORILA I 133). HT 111a .2 ]QE-KA 8, broken before, followed on the line by QA-SA-[ (QA-RE-[ equally possible), with ]QA-QA-RU 8 and DI 14[ on .3 (GORILA I 181). Both lists hold DI. No reading."
     },
     {
       "word": "RE-TI",
@@ -1601,21 +1578,6 @@
       ],
       "cross_site": false,
       "note": "HT 38 .2 *403VAS with DA-RO-PA ligatured above it, 1, below the vestigia of .1 (GORILA I 73). The third sign has an oblique stroke, and the apparatus reads PA only if the stroke is accidental, and then dotted (DA-RO-PẠ). Sole attestation. Not readable."
-    },
-    {
-      "word": "DA-RU-*329",
-      "signs": 3,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT7b"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 7b .2 DA-RU-*329 2, whole and undotted, after *21F-TU-NE 1, both lines over an erasure (GORILA I 15). *329 has no value. No reading."
     },    {
       "word": "DE-DI",
       "signs": 2,
@@ -2857,21 +2819,6 @@
       "note": "KN Ze 45, four signs on a lost block of the Isopata Royal Tomb, read 77-41-08-04 by Owens (Minos 25/26, 367–69). Wheel, trident, double axe and branch are the standard masons' marks, and Younger, citing Hood, takes them as such (Younger, Linear A Texts). Not a word."
     },
     {
-      "word": "KA-TI",
-      "signs": 2,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT63"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT63 .1 KA-TI 1, both signs whole and undotted, between *305 · TE 1 and SU-PU₂, which ends against the tablet's whole upper right corner, bracketed open in GORILA's normalized line (GORILA I 118–119). Sole attestation. No reading."
-    },
-    {
       "word": "]-KE-JU-MI-[",
       "signs": 3,
       "status": "unread",
@@ -3166,20 +3113,6 @@
       ],
       "cross_site": false,
       "note": "ZA 18a .1 DA-RE-KU[ ]vest. · KU-*321 · GRA+PA 2 ZZ, KU-*321 undotted between two dividers (GORILA III 191). *321 has no resolved value. No reading."
-    },
-    {
-      "word": "KU-DA",
-      "signs": 2,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "HT122a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 122a, after KU-RO 31: KU-DA 1, the one unit that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1). A counted entry. No reading."
     },
     {
       "word": "KU-PI",
@@ -3745,7 +3678,7 @@
         "Knossos"
       ],
       "cross_site": false,
-      "note": "KN Wc 26, a roundel (CMS X 120), RU-JA on face a and NI-PI on face b, one disc impression (GORILA II 85). Intact and undotted. Younger enters face b in the logogram column (Younger, Linear A Texts), and NI alone is the fig logogram, but the function of NI-PI is unestablished. No reading."
+      "note": "KN Wc 26, a roundel (CMS X 120), RU-JA on face a and NI-PI on face b, one disc impression (GORILA II 85). Intact and undotted. The roundel is in the Søyen Collection, formerly Erlenmeyer, and Younger enters face b in the logogram column (Younger, Linear A Texts); its Knossos findspot is queried, and its NI and PI are early forms (Ferrara, Montecchi and Valério 2022, 103–4). NI alone is the fig logogram, but the function of NI-PI is unestablished. No reading."
     },
     {
       "word": "NI-RA",
@@ -4083,22 +4016,6 @@
       "note": "KH 99, published as KH 98, .1 ]PA-RI-DE [[•]], on a fragment from the upper right corner of a tablet, the break before PA and an erased sign after DE (Andreadaki-Vlasaki & Hallager 2007, 10–11, Fig. 3). The editors find no parallel for the group and note unusual forms of RI and DE. Sole attestation. Not readable."
     },
     {
-      "word": "PA-SA-RI-JA",
-      "signs": 4,
-      "status": "role_only",
-      "role": "gentilic",
-      "translation_label": "second section heading — unresolved",
-      "frequency": 1,
-      "attestations": [
-        "HT24a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT24a .4 PA-SA-RI-JA ·, all four signs whole and undotted at the head of the line, before the wool ligature MA+RU-MẸ[ (GORILA I 43). It heads the second section as KU-PA₃-RI-JA Kubariya heads the first on .1: a gentilic heading in -iya, RI the stem's last consonant. The stem Pasar- has no Linear A parallel; KH 10 I-PA-SA-JA is another word. Rival: Ugaritic bṣr, Baṣiru, a town of the kingdom, ethnic bṣry (DULAT 240), with PA for b. Sole attestation. No reading."
-    },
-    {
       "word": "PA-TA",
       "signs": 2,
       "status": "role_only",
@@ -4171,6 +4088,22 @@
       ],
       "cross_site": false,
       "note": "TY 3b .2 PI-KU-ZU OLE+KI 4, then a second oil entry (GORILA I 329). Intact, no dots. An oil recipient, after KI-RI-SI on .1. No reading."
+    },
+    {
+      "word": "PI-MI-TI-TA-RA₂",
+      "signs": 5,
+      "status": "role_only",
+      "role": "personal_name",
+      "frequency": 2,
+      "attestations": [
+        "TROZg1",
+        "TROZg2"
+      ],
+      "sites": [
+        "Troy"
+      ],
+      "cross_site": false,
+      "note": "TRO Zg 1 and 2, clay spindle whorls from Troy, late Troy II or early Troy III, 2700/2600–2250 BCE (Waal 2017, 115–16; Schliemann, Atlas, Taf. 13 No. 432, Taf. 6 No. 208); one text, five signs around the hole. Godart's 39-73-59-37-76 is read here as 39-73-37-59-76: the arch with an inner stroke is TI and the open C is TA (Schmidt 1902, Taf. VI, Kat. 5212); Godart calls AB37 'très douteuse' and reads 51 for the TROZg2 first sign, which has PI's bowl and stalk (Godart 1994, 723). Zurbach and Waal judge the signs hardly Linear A (Kloekhorst 2022, 203 n. 1). No reading."
     },
     {
       "word": "PI-MU",
@@ -4512,36 +4445,6 @@
       "note": "HT 47b .1 ]RA-NA-RE[, room for one sign before and broken after (GORILA I 91), cf. A-RA-NA-RE (HT 1). Not readable."
     },
     {
-      "word": "RA-NA-TU-SU",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PK1"
-      ],
-      "sites": [
-        "Palaikastro"
-      ],
-      "cross_site": false,
-      "note": "PK 1 .6 RA-NA-TU-SU 1, before NI-MỊ 1, written over an erasure (GORILA I 281). Intact. No reading."
-    },
-    {
-      "word": "RA-O-DI-KI",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PH2"
-      ],
-      "sites": [
-        "Phaistos"
-      ],
-      "cross_site": false,
-      "note": "PH 2 .1–2 RA-O-DI-KI 60, RA at the end of .1 and O-DI-KI at the head of .2 (GORILA I 288–289). Intact and undotted. No reading."
-    },
-    {
       "word": "RA-RI",
       "signs": 2,
       "status": "role_only",
@@ -4851,7 +4754,7 @@
         "Haghia Triada"
       ],
       "cross_site": false,
-      "note": "HT Wc 3008 side b RU-JA-TA-DI, whole and undotted, with WA-DI-NI on side a (GORILA II 74). Roundel. No reading."
+      "note": "HT Wc 3008 side b RU-JA-TA-DI, whole and undotted, with WA-DI-NI on side a (GORILA II 74); the twin roundel HT Wc 3007 carries WA-DI-NI alone. RU-JA stands alone on the roundel KN Wc 26 and inside I-RU-JA (HT 7a); cf. the Ugaritic personal name rwy, bn rwy, of uncertain etymology (DULAT 738). TA-DI matches the spelling ta-di-e of the Ugaritic personal name ddy, also da-de₄-ya, da-dá-a (DULAT 264). The ending also matches Hurrian names in -tati 'loving', Šenna-tati, Urḫa-tati (NPN s.vv.; Laroche, GLH s.v. tad-), but Hurrian sets i- before an initial r-, as I-RU-JA does (Laroche, GLH s.v. irbute). No reading."
     },
     {
       "word": "RU-MI",

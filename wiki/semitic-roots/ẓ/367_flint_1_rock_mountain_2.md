@@ -42,7 +42,7 @@ updated: 2026-10-24T15:25:56Z
 | Syrian Aramaic | ṭūr- |  |  |
 | Aramaic | Pal ṭwr 2 |  |  |
 | Judaic Aramaic | ṣirrā, ṣryrʾ, ṣərārā (HALOT 1052, 1055); ṭūrā (HALOT 1016) | HALOT 1052, 1055; HALOT 1016 | gloss withheld |
-| Amorite | ṣūrum (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
+| Amorite | ṣūrum (Gelb AS 21, 34); ṣūru (Buck 2019, 333) | Gelb AS 21 34; Buck 2019, 333 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

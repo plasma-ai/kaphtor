@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫrg \[-u-\] |  |  |
+| Arabic | ḫrg \[-u-\]; ḫaraja 'he, or it, went, came, passed, or got, out, or forth' (Lane 718) | Lane 718 |  |
 | Mehri | ḫrūg JM 447 | JM 447 | gloss withheld |
 | Harsusi | ḥerōg |  |  |
 | Jibbali | ḫárɔ́g |  | gloss withheld |
-| Hebrew | ḥrg |  |  |
+| Hebrew | ḥrg; yaḥrəgû (Ps 18:46) (HALOT 350) | HALOT 350 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/p
 desc: "Semitic roots whose first radical is p."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/p
@@ -11,7 +11,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/p/1002_pull_out|1002_pull_out]]: Proto-Semitic *pVṣ-, 'pull (out)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/p/1014_open_begin|1014_open_begin]]: Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 21 language(s).
+[[wiki/semitic-roots/p/1014_open_begin|1014_open_begin]]: Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 22 language(s).
 
 [[wiki/semitic-roots/p/1015_open|1015_open]]: Proto-Semitic *pVg-, 'open': reflexes in 1 language(s).
 
@@ -359,6 +359,8 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/p/3696_to_die_perish_disaster|3696_to_die_perish_disaster]]: Proto-Semitic *pyd, 'to die, perish; disaster': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/p/3738_firstling_of_a_camel_or_sheep_sacrificed_to_the|3738_firstling_of_a_camel_or_sheep_sacrificed_to_the]]: Proto-Semitic *prʕ, 'firstling (of a camel or sheep, sacrificed to the gods); first-fruits, crops': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/p/375_pure_gold|375_pure_gold]]: Proto-Semitic *piḏḏ-, 'pure gold': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/p/384_axe|384_axe]]: Proto-Semitic *paʾs-, 'axe': reflexes in 8 language(s).
@@ -369,7 +371,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/p/433_pass_go_of_time|433_pass_go_of_time]]: Proto-Semitic *pVwVt-, 'pass, go (of time)': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/p/452_climb|452_climb]]: Proto-Semitic *pVrVʕ-, 'climb': reflexes in 1 language(s).
+[[wiki/semitic-roots/p/452_climb|452_climb]]: Proto-Semitic *pVrVʕ-, 'climb': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/p/474_desert|474_desert]]: Proto-Semitic *payp-, 'desert': reflexes in 1 language(s).
 
@@ -379,7 +381,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/p/509_pierce_open_tear_out_eye_1_break_2|509_pierce_open_tear_out_eye_1_break_2]]: Proto-Semitic *pVḳaʾ-, 'pierce, open, tear out (eye)' 1, 'break' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/p/511_strike_1_split_furrow_2|511_strike_1_split_furrow_2]]: Proto-Semitic *pVg(Vʕ)-, 'strike' 1, 'split, furrow' 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/p/511_strike_1_split_furrow_2|511_strike_1_split_furrow_2]]: Proto-Semitic *pVg(Vʕ)-, 'strike' 1, 'split, furrow' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/p/512_split_1_divide_2_break_3|512_split_1_divide_2_break_3]]: Proto-Semitic *pVriḳ-, 'split' 1, 'divide' 2, 'break' 3: reflexes in 16 language(s).
 
@@ -469,7 +471,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/p/K0280_refined|K0280_refined]]: Proto-Semitic *pVḏ-, 'refined': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/p/K0281_fear|K0281_fear]]: Proto-Semitic *paḥad-, 'fear': reflexes in 2 language(s).
+[[wiki/semitic-roots/p/K0281_fear|K0281_fear]]: Proto-Semitic *paḥad-, 'fear': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/p/K0282_stallion_breeding_male|K0282_stallion_breeding_male]]: Proto-Semitic *pVḥVl-, 'stallion, breeding male': reflexes in 2 language(s).
 
@@ -477,7 +479,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/p/K0285_lewd|K0285_lewd]]: Proto-Semitic *pVḫVz-, 'lewd': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/p/K0287_separate|K0287_separate]]: Proto-Semitic *pVṣVy-, 'separate': reflexes in 1 language(s).
+[[wiki/semitic-roots/p/K0287_separate_1_to_free_release_deliver_2|K0287_separate_1_to_free_release_deliver_2]]: Proto-Semitic *pVṣVy-, 'separate' 1, 'to free, release, deliver' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/p/K0288_fat|K0288_fat]]: Proto-Semitic *paṭām-, 'fat': reflexes in 3 language(s).
 

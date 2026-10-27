@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/y
 desc: "Semitic roots whose first radical is y."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/y
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/y/1176_be_dry|1176_be_dry]]: Proto-Semitic *yVbVš-, 'be dry': reflexes in 10 language(s).
+[[wiki/semitic-roots/y/1176_be_dry|1176_be_dry]]: Proto-Semitic *yVbVš-, 'be dry': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/y/1444_kind_of_barley|1444_kind_of_barley]]: Proto-Semitic *yaraḫ-, 'kind of barley': reflexes in 1 language(s).
 
@@ -25,7 +25,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/y/2306_kind_of_rodent|2306_kind_of_rodent]]: Proto-Semitic *yarbVʕ-, 'kind of rodent': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/y/2307_dove|2307_dove]]: Proto-Semitic *yawn- ~ *wanay-, 'dove': reflexes in 9 language(s).
+[[wiki/semitic-roots/y/2307_dove|2307_dove]]: Proto-Semitic *yawn- ~ *wanay-, 'dove': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/y/2391_mythological_bull_1_rhinoceros_2_young_of_the_el|2391_mythological_bull_1_rhinoceros_2_young_of_the_el]]: Proto-Semitic *yaʕal- ~ ʕawāl- (?), 'mythological bull' 1, 'rhinoceros' 2, 'young of the elephant' 3: reflexes in 3 language(s).
 
@@ -51,11 +51,11 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/y/71_right_right_hand_1_south_2|71_right_right_hand_1_south_2]]: Proto-Semitic *yamīn- ~ *yamān-, 'right, right hand' 1, 'south' 2: reflexes in 20 language(s).
 
-[[wiki/semitic-roots/y/724_sea|724_sea]]: Proto-Semitic *yamm-, 'sea': reflexes in 11 language(s).
+[[wiki/semitic-roots/y/724_sea|724_sea]]: Proto-Semitic *yamm-, 'sea': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/y/771_silt_dirt|771_silt_dirt]]: Proto-Semitic *yawīn-, 'silt, dirt': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/y/782_shine|782_shine]]: Proto-Semitic *yVpVʕ-, 'shine': reflexes in 3 language(s).
+[[wiki/semitic-roots/y/782_shine_1_go_up_rise_2|782_shine_1_go_up_rise_2]]: Proto-Semitic *yVpVʕ-, 'shine' 1, 'go up, rise' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/y/786_day|786_day]]: Proto-Semitic *yawm-, 'day': reflexes in 17 language(s).
 

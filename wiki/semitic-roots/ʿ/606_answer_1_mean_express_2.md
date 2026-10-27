@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/606_answer_1_mean_express_2
 title: "*ʕVnVy-: 'answer' 1, 'mean, express' 2"
-desc: "Proto-Semitic *ʕVnVy-, 'answer' 1, 'mean, express' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʕVnVy-, 'answer' 1, 'mean, express' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "606"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʿny (CUC; DULAT 169) | CUC; DULAT 169 | gloss withheld |
 | Aramaic | ʿNY (Aramaic Root Atlas; DNWSI 875 apud CAL) | Aramaic Root Atlas; DNWSI 875; CAL; Anderson–Moser 2024 root ʿny | gloss withheld |
 | Syrian Aramaic | ʕnā 'answer; hearken; converse; sing' (Payne Smith 419) | Payne Smith 419 |  |
+| Amorite | maʿnītu (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -87,7 +87,7 @@ def test_a_source_not_in_the_checkout_is_named():
 
 @pytest.mark.data
 def test_all_sources_go_on_past_a_missing_one():
-    # name_forms reads ORACC and PNM; only PNM ships, so ORACC is named and skipped.
+    # name_forms reads ORACC beside the shipped layers; ORACC alone is not shipped, so it is named and skipped.
     done = run("query_proper_names.py", "dd-tw", "--layer", "name_forms", "--json")
     assert done.returncode == 0, done.stderr
     assert "dd-tw" in [row.get("personal_name") for row in json.loads(done.stdout)]

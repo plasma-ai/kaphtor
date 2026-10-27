@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔmr (Kogan 2015, ch. 4 §3.1.2 no. 71) | Kogan 2015 ch. 4 §3.1.2 no. 71 |  |
 | Syrian Aramaic | ʔmr (Payne Smith 20) | Payne Smith 20 |  |
 | Aramaic | Pal ʔmr (DJPA 63a apud CAL); ʾMR (Aramaic Root Atlas; DNWSI 73 apud CAL) | DJPA 63a; CAL; Aramaic Root Atlas; DNWSI 73; Anderson–Moser 2024 root ʾmr | gloss withheld |
-| Amorite | ʾmr: jaʾmur, ʾamar, ʾamara, ʾāmirum (Gelb AS 21, 14) | Gelb AS 21 14 | gloss withheld |
+| Amorite | ʾmr: jaʾmur, ʾamar, ʾamara, ʾāmirum (Gelb AS 21, 14); ʾamar, yaʾmur, ʾamir, ʾatamru (Buck 2019, 324) | Gelb AS 21 14; Buck 2019, 324 | gloss withheld |
 | Judaic Aramaic | mēmᵉrā (HALOT 540) | HALOT 540 | gloss withheld |
 | Punic | ʾmr (Krahmalkov 61) | Krahmalkov 61; Anderson–Moser 2024 root ʾmr | gloss withheld |
 | Epigraphic South Arabian | Sab ʾmr (Sabaweb lemma 8632); Min ʾmr (LM 5 apud SEDonline 130); Qat ʾmr (LIQ 13 apud SEDonline 130) | Sabaweb lemma 8632; LM 5; SEDonline 130; LIQ 13 | gloss withheld |

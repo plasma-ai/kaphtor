@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/y/1176_be_dry
 title: "*yVbVš-: 'be dry'"
-desc: "Proto-Semitic *yVbVš-, 'be dry': reflexes in 10 language(s)."
+desc: "Proto-Semitic *yVbVš-, 'be dry': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1176"
@@ -38,8 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | yäbəs (LGz. 626) | LGz. 626 | gloss withheld |
 | Aramaic | yəḇeš (LGz. 626; Qumran 98 apud CAL) | LGz. 626; CAL |  |
 | Syrian Aramaic | īḇeš (LGz. 626) | LGz. 626 |  |
-| Amorite | jbś: jībiś, jābiś, mēbiśum (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
+| Amorite | jbś: jībiś, jābiś, mēbiśum (Gelb AS 21, 21); mêbiša (Buck 2019, 334) | Gelb AS 21 21; Buck 2019, 334 | gloss withheld |
 | Eblaitic | a-bí-iš-tum /yabištum/ (VE 1269; Krebernik 1983, 42) | VE 1269; Krebernik 1983, 42 | gloss withheld |
+| Emar | ia-biš-ti /yabištu/ (Pentiuc 2001, 87) | Pentiuc 2001 87 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

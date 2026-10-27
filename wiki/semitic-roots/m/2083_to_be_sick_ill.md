@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | mǝraʕ \[Ja 845\]; mrʕ \[DJPA 331b apud CAL\] | Ja 845; DJPA 331b; CAL | gloss withheld |
 | Syrian Aramaic | mǝraʕ 'he/she was sick, fell ill' \[Brock 405\] | Brock 405 |  |
 | Aramaic | OLD mrḳ, OFF mrʕ \[HJ 695\] | HJ 695 | gloss withheld |
-| Amorite | mrṣ: jamraṣ, jamruṣ, jumraṣ, maraṣum (Gelb AS 21, 25) | Gelb AS 21 25 | gloss withheld |
+| Amorite | mrṣ: jamraṣ, jamruṣ, jumraṣ, maraṣum (Gelb AS 21, 25); maraṣ (Buck 2019, 329) | Gelb AS 21 25; Buck 2019, 329 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic mrḍ (Al-Jallad–Jaworska 99) | Al-Jallad–Jaworska 99 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

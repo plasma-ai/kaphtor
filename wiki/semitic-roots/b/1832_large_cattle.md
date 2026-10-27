@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1832_large_cattle
 title: "*baḳar-: 'large cattle'"
-desc: "Proto-Semitic *baḳar-, 'large cattle': reflexes in 15 language(s)."
+desc: "Proto-Semitic *baḳar-, 'large cattle': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1832"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | Krd. buḳra; NSyr. biḳrâ, bŭḳrâ; NAssyr. bıḳra, buḳra; Tlk. buḳra; Ass. bɨḳra; Tur. baḳro (SED II 83) | SED II 83 |  |
 | Egyptian | Eg.-Syll. pa₂=ra=ku \[Hoch 179\] | Hoch 179 |  |
 | Pre-Islamic North Arabian | Safaitic bqr (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
+| Emar | ba-qa-ra, bu-qà-ri /baqaru/, /buqaru/ (Pentiuc 2001, 36–37) | Pentiuc 2001 36–37 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

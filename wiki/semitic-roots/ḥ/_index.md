@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḥ
 desc: "Semitic roots whose first radical is ḥ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:19:33Z
 ---
 
 # wiki/semitic-roots/ḥ
@@ -25,7 +25,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/1098_sharp|1098_sharp]]: Proto-Semitic *ḥaḏim-, 'sharp': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḥ/1107_forge_sharpen|1107_forge_sharpen]]: Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 3 language(s).
+[[wiki/semitic-roots/ḥ/1107_forge_sharpen|1107_forge_sharpen]]: Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḥ/1139_rise_of_water|1139_rise_of_water]]: Proto-Semitic *ḥVpil-, 'rise (of water)': reflexes in 1 language(s).
 
@@ -87,7 +87,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/1919_spot_on_the_skin_bruise_wound|1919_spot_on_the_skin_bruise_wound]]: Proto-Semitic *ḥi/ab(V)r-, 'spot on the skin, bruise, wound': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/ḥ/1920_breast|1920_breast]]: Proto-Semitic *ḥaḏ(V)y-, 'breast': reflexes in 6 language(s).
+[[wiki/semitic-roots/ḥ/1920_breast|1920_breast]]: Proto-Semitic *ḥaḏ(V)y-, 'breast': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ḥ/1921_hip_loin_lap|1921_hip_loin_lap]]: Proto-Semitic *ḥi/aḳʷ-, 'hip, loin, lap': reflexes in 13 language(s).
 
@@ -173,7 +173,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/2484_burn|2484_burn]]: Proto-Semitic *ḥrḳ, 'burn': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḥ/2518_new|2518_new]]: Proto-Semitic *ḥad(i)ṯ-, 'new': reflexes in 25 language(s).
+[[wiki/semitic-roots/ḥ/2518_new|2518_new]]: Proto-Semitic *ḥad(i)ṯ-, 'new': reflexes in 26 language(s).
 
 [[wiki/semitic-roots/ḥ/252_animal|252_animal]]: Proto-Semitic *ḥay(aw)-, 'animal': reflexes in 9 language(s).
 
@@ -181,25 +181,25 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/2533_see_watch_beware|2533_see_watch_beware]]: Proto-Semitic *ḥmy, 'see, watch, beware': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḥ/2613_to_be_strong_and_good|2613_to_be_strong_and_good]]: Proto-Semitic *ḥsn, 'to be strong and good': reflexes in 7 language(s).
+[[wiki/semitic-roots/ḥ/2613_to_be_strong_and_good|2613_to_be_strong_and_good]]: Proto-Semitic *ḥsn, 'to be strong and good': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ḥ/2637_rock|2637_rock]]: Proto-Semitic *ḥimr-, 'rock': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḥ/2645_sand_mud|2645_sand_mud]]: Proto-Semitic *ḥāl-, 'sand, mud': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ḥ/2691_wheat|2691_wheat]]: Proto-Semitic *ḥiṭṭ-at-, 'wheat': reflexes in 14 language(s).
+[[wiki/semitic-roots/ḥ/2691_wheat|2691_wheat]]: Proto-Semitic *ḥiṭṭ-at-, 'wheat': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/ḥ/2705_to_count_reckon_think|2705_to_count_reckon_think]]: Proto-Semitic *ḥašab-, 'to count, reckon, think': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/ḥ/270_mare|270_mare]]: Proto-Semitic *ḥig(V)r-, 'mare': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḥ/2711_sacred_ban_devoted_to_deity|2711_sacred_ban_devoted_to_deity]]: Proto-Semitic *ḥarām-, 'sacred ban, devoted (to deity)': reflexes in 17 language(s).
+[[wiki/semitic-roots/ḥ/2711_sacred_ban_devoted_to_deity|2711_sacred_ban_devoted_to_deity]]: Proto-Semitic *ḥarām-, 'sacred ban, devoted (to deity)': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/ḥ/271_race_horse|271_race_horse]]: Proto-Semitic *ḥiṣān-, 'race-horse': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḥ/2721_craftsman_artisan|2721_craftsman_artisan]]: Proto-Semitic *ḥaraš-, 'craftsman, artisan': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḥ/2724_pilgrimage_festival|2724_pilgrimage_festival]]: Proto-Semitic *ḥagg-, 'pilgrimage, festival': reflexes in 5 language(s).
+[[wiki/semitic-roots/ḥ/2724_pilgrimage_festival|2724_pilgrimage_festival]]: Proto-Semitic *ḥagg-, 'pilgrimage, festival': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ḥ/2732_to_profane_declare_permitted_play_flute|2732_to_profane_declare_permitted_play_flute]]: Proto-Semitic *ḥVll-, 'to profane, declare permitted; play (flute)': reflexes in 10 language(s).
 
@@ -247,7 +247,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/3230_to_walk_barefoot|3230_to_walk_barefoot]]: Proto-Semitic *ḥp, 'to walk barefoot': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḥ/3257_strength_power_might|3257_strength_power_might]]: Proto-Semitic *ḥayl-, 'strength, power, might': reflexes in 6 language(s).
+[[wiki/semitic-roots/ḥ/3257_strength_power_might|3257_strength_power_might]]: Proto-Semitic *ḥayl-, 'strength, power, might': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ḥ/3280_to_be_lucky_happy_luck_fortune|3280_to_be_lucky_happy_luck_fortune]]: Proto-Semitic *ḥṯ̣ṯ̣, 'to be lucky, happy; luck, fortune': reflexes in 4 language(s).
 
@@ -285,9 +285,19 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/3688_snake_serpent|3688_snake_serpent]]: Proto-Semitic *ḥyw, 'snake, serpent': reflexes in 6 language(s).
 
+[[wiki/semitic-roots/ḥ/3707_to_forbid_prohibit_ban|3707_to_forbid_prohibit_ban]]: Proto-Semitic *ḥṯ̣r, 'to forbid, prohibit; ban': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḥ/3727_to_pay_money_to_pay_a_fine_reparation|3727_to_pay_money_to_pay_a_fine_reparation]]: Proto-Semitic *ḥlʾ, 'to pay (money); to pay a fine, reparation': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḥ/3732_retreat_refuge_cleft_in_the_rock_to_stay_dwell|3732_retreat_refuge_cleft_in_the_rock_to_stay_dwell]]: Proto-Semitic *ḥgw, 'retreat, refuge; cleft (in the rock); to stay, dwell': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḥ/3733_to_bow_down_prostrate_oneself_to_draw_oneself_to|3733_to_bow_down_prostrate_oneself_to_draw_oneself_to]]: Proto-Semitic *ḥwy, 'to bow down, prostrate oneself; to draw oneself together, coil': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḥ/3734_ornament_jewellery_to_adorn|3734_ornament_jewellery_to_adorn]]: Proto-Semitic *ḥly, 'ornament, jewellery; to adorn': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/ḥ/385_sabre|385_sabre]]: Proto-Semitic *ḥušām-, 'sabre': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḥ/403_rope|403_rope]]: Proto-Semitic *ḥabl-, 'rope': reflexes in 10 language(s).
+[[wiki/semitic-roots/ḥ/403_rope|403_rope]]: Proto-Semitic *ḥabl-, 'rope': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ḥ/406_martingale|406_martingale]]: Proto-Semitic *ḥakam-, 'martingale': reflexes in 1 language(s).
 
@@ -385,7 +395,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/K0743_sword|K0743_sword]]: Proto-Semitic *ḥereb-, 'sword': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/ḥ/K0745_guard|K0745_guard]]: Proto-Semitic *ḥVrVz-, 'guard': reflexes in 1 language(s).
+[[wiki/semitic-roots/ḥ/K0745_guard|K0745_guard]]: Proto-Semitic *ḥVrVz-, 'guard': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḥ/K0746_magic|K0746_magic]]: Proto-Semitic *ḥVrVš-, 'magic': reflexes in 7 language(s).
 
@@ -431,6 +441,6 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḥ/SA040_port_roadstead_bay|SA040_port_roadstead_bay]]: Epigraphic South Arabian headword *ḥyḳ, 'port, roadstead, bay': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḥ/SA042_armed_bands_of_Habashites_or_other_West_Coast_fo|SA042_armed_bands_of_Habashites_or_other_West_Coast_fo]]: Epigraphic South Arabian headword *ḥzb, 'armed bands of Habashites or other West Coast folk': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḥ/SA042_armed_bands_of_Habashites_or_other_West_Coast_fo|SA042_armed_bands_of_Habashites_or_other_West_Coast_fo]]: Epigraphic South Arabian headword *ḥzb, 'armed bands of Habashites or other West Coast folk': reflexes in 3 language(s).
 
 ***

@@ -6473,8 +6473,7 @@
       "root": null,
       "cognates": {
         "Luwian": "tati- 'father' (Melchert 1993 p. 209; Payne 2014)",
-        "Hittite": "atta- 'father' (related but different stem)",
-        "Linear A": "cf. Troy compounds PI-MI-TA-TI-RA₂, DU-MI-TA-TI-RA₂"
+        "Hittite": "atta- 'father' (related but different stem)"
       },
       "tier": 2,
       "confidence": "CANDIDATE",
@@ -6487,7 +6486,7 @@
         "HT26a",
         "HT97a"
       ],
-      "note": "Exact predicted Linear A rendering of CL Luwian tati- 'father' (Melchert 1993 p. 209). Also embedded in Troy compound forms PI-MI-TA-TI-RA₂ (TROZg1) and DU-MI-TA-TI-RA₂ (TROZg2). Currently unclassified in onomasticon. The Luwian identification is speculative: TA-TI could equally be a NWS form or abbreviation. However, the Anatolian geographic association of the Troy compounds and the exact phonological match support monitoring this as a Luwian contact candidate.",
+      "note": "Exact predicted Linear A rendering of CL Luwian tati- 'father' (Melchert 1993 p. 209). The Luwian identification is speculative: TA-TI could equally be a NWS form or abbreviation.",
       "source": "di Mino"
     },
     {
@@ -10402,6 +10401,24 @@
       "root_meaning": "bull, ox (PS *ṯawr-)"
     },
     {
+      "word": "DA-RU-*329",
+      "reading": "Dārum",
+      "meaning": "personal name, 'Eternal'; rival Arabic Dārim",
+      "root": "d-w-r",
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "HT7b"
+      ],
+      "note": "HT 7b .2 DA-RU-*329 2, after *21F-TU-NE 1, both over an erasure (GORILA I 15); face a lists Iruja, Tuya and Tetu. *329 read mo: Montecchi queries A 329 = Linear B *15 mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal', on DWR (Gelb 1980, §0.7); Old Babylonian da-ru-um 'lasting' (CAD D 117). DA-RU- recurs in DA-RU-NE-TE (HT 98b). Rival Arabic Dārim, Safaitic drm (Harding 1971, 239). One attestation.",
+      "source": "di Mino; Montecchi 2024; Gelb 1980; CAD D; Harding 1971"
+    },
+    {
       "word": "DA-RU-NE-TE",
       "reading": "Dāru-ʿAnēt",
       "meaning": "Dwelling/endurance of Anat (theophoric compound PN: √DWR + goddess ʿAnatu); rivals Egyptian Neith (Nt) as the second element, a simplex feminine name",
@@ -10423,7 +10440,7 @@
       "attestations": [
         "HT98b"
       ],
-      "note": "HT98b .2 (Haghia Triada, tablet): recipient of K (1/10), after ]VIN ¾ and ]*188[ (GORILA I 161). Hapax. Both elements recur: DA-RU- in DA-RU-*329 (HT7b, a recipient of 2) and -NE-TE in KA-KU-NE-TE (ZA10b, a name list beside the Egyptian PA-JA-RE). Dāru-ʿAnēt needs an unwritten ʿa-, and I-NA-TA-I ʿInatī (IOZa6) writes Anat NA-TA; rival Egyptian Neith (Nt), the second element of sꜣ-nt 'son of Neith', wsr-nt 'Neith is strong', rdj-nt 'Neith gives', ḥtp-nt 'Neith is content' (PNM v6). First element Dāru: Amorite noun/DN (Gelb 1980), √DWR 'to turn, dwell, endure.' Akkadian dūru 'wall, fortress,' Hebrew dōr 'generation.' Second element -NE-TE = ʿAnēt(u), the goddess Anat (Huffmon 1965 APNM p. 200: Hanat/ʿAnat, well-attested NWS theophoric element). Amorite parallels: Ḥabdu-ᵈḤanat, Zikri-Ḥanat, ʿAbdi-ʿAnati, Šūm-ʿAnati. Phoenician: ʿBDʿNT. Alternative parse: Dārunēt as simple feminine (√DWR + -at feminine suffix with epenthetic -n-), 'she who endures.' Theophoric compound preferred: (1) 4-syllable name in accounting list, (2) -NE-TE may be compared with the CANDIDATE I-NA-TA-I = ʿInatī at IOZa6, (3) element + DN is the productive Amorite pattern.",
+      "note": "HT98b .2 (Haghia Triada, tablet): recipient of K (1/10), after ]VIN ¾ and ]*188[ (GORILA I 161). Hapax. Both elements recur: DA-RU- in DA-RU-*329 Dārum (HT7b, a recipient of 2) and -NE-TE in KA-KU-NE-TE (ZA10b, a name list beside the Egyptian PA-JA-RE). Dāru-ʿAnēt needs an unwritten ʿa-, and I-NA-TA-I ʿInatī (IOZa6) writes Anat NA-TA; rival Egyptian Neith (Nt), the second element of sꜣ-nt 'son of Neith', wsr-nt 'Neith is strong', rdj-nt 'Neith gives', ḥtp-nt 'Neith is content' (PNM v6). First element Dāru: Amorite noun/DN (Gelb 1980), √DWR 'to turn, dwell, endure.' Akkadian dūru 'wall, fortress,' Hebrew dōr 'generation.' Second element -NE-TE = ʿAnēt(u), the goddess Anat (Huffmon 1965 APNM p. 200: Hanat/ʿAnat, well-attested NWS theophoric element). Amorite parallels: Ḥabdu-ᵈḤanat, Zikri-Ḥanat, ʿAbdi-ʿAnati, Šūm-ʿAnati. Phoenician: ʿBDʿNT. Alternative parse: Dārunēt as simple feminine (√DWR + -at feminine suffix with epenthetic -n-), 'she who endures.' Theophoric compound preferred: (1) 4-syllable name in accounting list, (2) -NE-TE may be compared with the CANDIDATE I-NA-TA-I = ʿInatī at IOZa6, (3) element + DN is the productive Amorite pattern.",
       "source": "di Mino",
       "related_forms": [
         "KA-KU-NE-TE (ZA10b, same second element)",
@@ -10787,28 +10804,30 @@
     },
     {
       "word": "MA-RU",
-      "reading": "Maru",
-      "meaning": "personal name, 'Wool' (substrate maru 'wool')",
-      "root": "substrate (non-Semitic wool word)",
+      "reading": "Maruʾ",
+      "meaning": "Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'",
+      "root": "m-r-ʾ",
       "cognates": {
-        "Greek": "μαλλός (mallos) 'flock of wool' < Minoan /maru/",
-        "Linear A": "A559 = MA+RU composite wool logogram"
+        "Amorite": "MARUʾ+JAT-UM, MARUʾ+LI+ʾEL, MAʾR-U+ZAʾT-U-HU, all written MA-RU- (Gelb 1980, nos. 4542, 4543, 4545)",
+        "Ugaritic": "mrủ 'fattened; fatling' (DULAT 563)",
+        "Hebrew": "mərîʾ 'fatling'",
+        "Linear A": "rival MA+RU (A559), the wool logogram, and MA+RU-ME (HT 24a)"
       },
-      "tier": 2,
-      "confidence": "CANDIDATE",
-      "confidence_score": 0.5,
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "substrate",
-      "language_family": null,
+      "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
       "sites": [
         "Haghia Triada"
       ],
-      "note": "Bare form of the mimation doublet MA-RU/MA+RU-ME (HT24a 'the wool'). On HT117a one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), between KU-RA-MU (Kurmu) and KU-PA₃-NU (Kubānu): a name on the noun, as Tēnā 'Fig' (TE-*301). Linear B ma-ro-ne, a man's name in the dative, receives oil at KN Fh 347 (DMic s.v.). The wool word is anchored by logogram A559 = MA+RU composite (Salgarella 2022; Nosch & Weilhartner 2026), source of Greek μαλλός.",
-      "source": "di Mino"
+      "note": "HT 117a, the fourth of ten men at 1 each under MA-KA-RI-TE · KI-RO · U-MI-NA-SI (KU-RO 10), between KU-RA-MU Kurmu and KU-PA₃-NU Kubānu. Amorite names open with MA-RU on MRʾ: MARUʾ+JAT-UM MA-RU-IA-TUM, MARUʾ+LI+ʾEL MA-RU-LI-EL, MAʾR-U+ZAʾT-U-HU MA-RU-ZA-TU-U₂ (Gelb 1980, nos. 4542, 4543, 4545), beside MAʾR-A+ʾEL MA-RA-EL and MAʾR-AT-UM MA-RA-TUM (nos. 4531, 4536); Gelb lists MRʾ? as a verb. MA-RU is the stem alone, the glottal stop unwritten. *mrʾ 'to be fat; fat cattle' (semitic_roots no. 1084), Ugaritic mrủ 'fatling' (DULAT 563): an animal name, as TE-JA-RE Tayru 'Bull' on the same list. Rival: Maru 'Wool', the wool word of the ligature MA+RU (A559) and MA+RU-ME (HT 24a), source of Greek μαλλός; Linear B ma-ro-ne, a man at Knossos (KN Fh 347). One witness.",
+      "source": "di Mino; Gelb 1980; DULAT"
     },
     {
       "word": "KU-RE-JU",
@@ -11951,26 +11970,26 @@
       "attestations": [
         "HT96a"
       ],
-      "note": "HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before *323-*317 1, with no logogram of its own (GORILA I 157). The writing board BM EA 5647 heads seven names 'making names of Crete' (jr.t rn.w n[y.w] kftjw); the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais & Gabolde 2025, 9, 14, Table 2 p. 15). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet that has di-du-me on .3, the name the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). No etymology is adopted here. The final vowel differs from Linear B (a against i). Two signs; one attestation.",
+      "note": "HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before *323-*317 1, with no logogram of its own (GORILA I 157). The writing board BM EA 5647 heads seven names 'making names of Crete' (jr.t rn.w n[y.w] kftjw); the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais & Gabolde 2025, 9, 14, Table 2 p. 15). The editors take rw-sȝ as Greek Lysis, Linear B ru-si; Schneider as a short Egyptian name, rw-zA (Louvre E 5608) (ibid., 14 nn. 87–88). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet that has di-du-me on .3, the name the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). No etymology is adopted here. The final vowel differs from Linear B (a against i). Cf. the Urartian royal name Rusa, 8th c. BCE (RINAP 2, Sargon II 001). Two signs; one attestation.",
       "source": "Dautais & Gabolde 2025, 9, 14–15; DMic II s.v. ru-si; di Mino"
     },
     {
       "word": "A-TI-KA",
-      "reading": "Atika",
-      "meaning": "personal name; compare Linear B a-ti-ka",
-      "root": null,
+      "reading": "ʿAtīqa",
+      "meaning": "personal name, 'enduring'; compare Linear B a-ti-ka",
+      "root": "ʿ-t-q",
       "tier": 1,
       "confidence": "SPECULATIVE",
       "confidence_score": 0.3,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "Minoan_Aegean",
-      "language_family": null,
+      "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZAWc2"
       ],
-      "note": "ZA Wc 2, a Zakros roundel: .1 A-TI-KA-A, .2 DỤ-KO-⟦MI⟧, the erasure brackets dotted; GORILA divides A-TI-KA · A-DU-KO-⟦MI⟧, though the four signs of .1 are evenly spaced (GORILA II 98). Linear B a-ti-ka is a man in a catalogue of men at Knossos (KN V 831.4; DMic I 119). Anastasiadou (2026, 40–41) makes the comparison and reports the rival divisions: Hallager reads one word A-TI-KA-A-DU-KO with the last sign the numeral 2, and Petrakis sees no epigraphic break after KA. GORILA draws the last sign as MI. No etymology is adopted. One attestation.",
-      "source": "DMic I 119; Anastasiadou 2026, 40–41, in Salgarella & Petrakis (eds.) 2026; di Mino"
+      "note": "ZA Wc 2, a Zakros roundel: .1 A-TI-KA-A, .2 DỤ-KO-⟦MI⟧, the signs of .1 evenly spaced; GORILA divides A-TI-KA · A-DU-KO-⟦MI⟧ (GORILA II 98). Perna and Anastasiadou, after autopsy, read the last sign as the numeral 2, matching the two seal impressions on the rim (CMS II,7 no. 25; Anastasiadou 2026, 37–39). Ugaritic ʿtq \"durable\", syllabic at-qá (DULAT 189); Safaitic personal name ʿtq (Harding 1971, 405). Linear B a-ti-ka is a man at Knossos (KN V 831.4; DMic I 119). One attestation.",
+      "source": "di Mino; DULAT; Harding 1971; DMic I 119; CMS II,7; Anastasiadou 2026, 37–39, in Salgarella & Petrakis (eds.) 2026"
     },
     {
       "word": "SA-RA-RA",
@@ -12146,6 +12165,24 @@
         "HT24a"
       ],
       "note": "HT 24a .1 KU-PA₃-RI-JA · KI-MA+RU[, the heading of a wool inventory; PA-SA-RI-JA heads the second section at .4. Kubariya, a town of the kingdom of Ugarit: alphabetic kbry (KTU 4.800 II 18), syllabic URU ku-ba-ri-ia-a in the town list RS 25.455A+ I 4, as van Soldt reads it, where Arnaud read URU šu-ma-ri-a (DULAT 424; RGTC 12/2, 165). KU-PA₃-RI-JA writes ku-ba-ri-ia sign for sign, PA₃ for b. The same list names Baṣīru at I 10 (RGTC 12/2, 53). Rival: Gubliya 'the Byblian', Gubla with the gentilic -iya: Amorite GUBL-AJ-I and GUBL-AJIT-UM (Gelb 1980, nos. 1793–1795); Akkadian Gublaya 'Byblian' at Ugarit (ORACC P503838); Hebrew gibli 'Gebalite'; Ugaritic gbl 'Byblos' (DULAT 290), with RI for l. One document.",
+      "source": "di Mino; DULAT; RGTC 12/2"
+    },
+    {
+      "word": "PA-SA-RI-JA",
+      "reading": "Baṣariya",
+      "meaning": "the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading",
+      "root": null,
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "toponym",
+      "category": "gentilic",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "HT24a"
+      ],
+      "note": "HT 24a .4 PA-SA-RI-JA ·, all four signs whole, heads the second wool section as KU-PA₃-RI-JA Kubariya heads the first (GORILA I 43). Baṣīru, a town of Ugarit: alphabetic bṣr, gentilic bṣry, syllabic URU ba-ṣi-ri (DULAT 240; RGTC 12/2, 53). Both towns stand in the same lists: RS 25.455A+ I 4 and I 10, KTU 4.800 II 18 and II 29. PA for b; -JA the gentilic -iya, as bṣry. One document.",
       "source": "di Mino; DULAT; RGTC 12/2"
     },
     {
@@ -12415,6 +12452,26 @@
       ],
       "note": "HT 85a .5 TE-KE 3, whole and undotted, sixth of seven entries under A-DU · *307+*307 · VIR+[?] ·, after KU-ZU-NI 5 (GORILA I 131). HT 13 lists DA-SI-*118, KU-ZU-NI and TE-KI in the same order; TE-KE is TE-KI with the e/i alternation. See TE-KI.",
       "source": "di Mino; Laroche 1980"
+    },
+    {
+      "word": "TE-TU",
+      "reading": "Tetu",
+      "meaning": "personal name; Ugaritic tt, syllabic te-et-te, tu-tu",
+      "root": null,
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "contact",
+      "language_family": null,
+      "attestations": [
+        "HT7a",
+        "HT13",
+        "HT85b"
+      ],
+      "note": "HT 13 .3 TE-TU 56, whole and undotted, the largest share of the KA-U-DE-TA VIN · TE list (KU-RO 130½), beside TE-KI, KU-ZU-NI and DA-SI-*118 (GORILA I 27); HT 7a .5 TE-TU 1, TE over an erasure, under QE-TI · VIR+[?] (GORILA I 15); HT 85b .2–3 TE-TU 1, the lacuna after it perhaps empty (GORILA I 133). Counted one man on two rosters: a person. Ugarit has the personal name tt, syllabic te-et-te, tu-ut-ti, tu-tu, etym. unc. (DULAT 869); Tette, king of Nuḫašše (Kinlaw 1967, 119). Rival: Egyptian Teti (Ttj). Three documents.",
+      "source": "di Mino; DULAT"
     },
     {
       "word": "QE-PU",
@@ -14138,6 +14195,95 @@
       ],
       "note": "ZA 8 .6 KA-I-RO 4 B B, intact, the last entry of the fig list headed KI-RA · (GORILA III 165), with the largest share. kāʾil 'measurer': I writes ʾi, RO the final l as in KU-RO kull; A-I writes -ay- in DA-I-PI-TA on the same tablet. Two entries after MA-KA-I-SE 'tax-man'. Rival: a name on g-y-l 'to rejoice'. One witness.",
       "source": "di Mino"
+    },
+    {
+      "word": "KA-TI",
+      "reading": "Gattī",
+      "meaning": "the man of the press, or the Gittite (nisbe of gat 'press'); rivals Qəhātî 'Kohathite', Kittî 'Kittian'",
+      "root": null,
+      "cognates": {
+        "Ugaritic": "gt /gittu/ 'wine or olive press; farmstead, estate' (DULAT 307)",
+        "Hebrew": "gat 'winepress'; gentilic hag-Gittî 'the Gittite' (2 Sam 6:10; 15:18 hag-Gittîm)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personnel",
+      "category": "gentilic",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "HT63"
+      ],
+      "note": "HT 63 .1 KA-TI 1, both signs whole and undotted, under the personnel logogram *305, after TE 1 and before SU-PU₂ (GORILA I 118–119). gat 'press' with the nisbe -ī; KA writes ga. The Ugaritic gt is both the press and the estate around it, as DA-RE dār is a unit of men on HT 122b. Rivals: Qəhātî 'Kohathite' (Num 3:27), the medial h unwritten; Kittî 'Kittian' (Gen 10:4 Kittîm), against the a of KA. One witness.",
+      "source": "di Mino; DULAT"
+    },
+    {
+      "word": "KU-DA",
+      "reading": "Gūda",
+      "meaning": "Gūda (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'",
+      "root": null,
+      "cognates": {
+        "Amorite": "GUʾUD-A, GU-U₂-DA, an Ur III name (Gelb 1980, no. 1791)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "HT122a"
+      ],
+      "note": "HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1), a name added below the total. Amorite GUʾUD-A, written GU-U₂-DA (Gelb 1980, no. 1791), sign for sign with the glottal stop unwritten; KU writes gu. Rivals: Kutta, Ku-ut-ta, a name NPN marks H.? (NPN 231); qāʾid 'chief' (semitic_roots no. 51; Sabaic qwd, Beeston 1982, 110). One witness.",
+      "source": "di Mino; Gelb 1980; NPN"
+    },
+    {
+      "word": "RA-NA-TU-SU",
+      "reading": "Rannatušu",
+      "meaning": "personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU",
+      "root": "r-n-n",
+      "cognates": {
+        "Arabic": "rannah 'a sound, voice, or cry, in joy or sorrow', pl. rannāt (Lane 1164)",
+        "Hebrew": "rinnāh 'ringing cry', rinnātî, rinnātām; Rinnāh, a man of Judah (1 Chr 4:20; BDB 943)",
+        "Ugaritic": "/r-n(-n)/ 'to shout, raise one's voice', ảrnn (KTU 1.82:6; DULAT 731)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "PK1"
+      ],
+      "note": "PK 1 .6 RA-NA-TU-SU 1, one word, written with its 1 and the next NI over an erasure, in a roster of names each counted 1 (GORILA I 281). rannat-u-šu: the verbal noun rannat- of √r-n-n 'cry out' (semitic_roots K0351), nominative -u, and -šu 'his', as in JA-DA-SU yadaʿšu; the geminate is unwritten. Arabic rannah keeps the a of RA; Hebrew rinnāh takes the same suffixes (rinnātî 'my cry', Ps 17:1). Akkadian DINGIR-tušu and Bānītušu join a -t- noun to -šu the same way (ORACC). Weak point: no West Semitic name ends in -šu. Rivals: two names, RA-NA and TU-SU (TU-SU stands alone on .6–7); Egyptian rnn 'jubeln' (DULAT 731), which leaves -TU-SU unread. One witness.",
+      "source": "di Mino; Lane; BDB; DULAT"
+    },
+    {
+      "word": "RA-O-DI-KI",
+      "reading": "rāʿû diqqi",
+      "meaning": "herdsman of the small cattle (title, over a flock of 60); rival a personal name",
+      "root": "r-ʿ-y + d-q-q",
+      "cognates": {
+        "Arabic": "huwa rāʿī ad-daqāʾiq 'he is the pastor of sheep, or goats'; daqīqa 'small cattle', opposed to jalīla 'camels' (Lane 896)",
+        "Ugaritic": "rʕy 'shepherd' (DULAT 716); dqt 'sacrificial ewe, sheep' (DULAT 276)",
+        "Akkadian": "rēʾû, rāʾû 'herdsman, shepherd'; reʾû unīqi 'shepherd of she-kids' (CAD R 303)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "PH2"
+      ],
+      "note": "PH 2 .1–2 RA-O-DI-KI 60, RA at the end of .1, under A-SE-TU-*21F (the female small-cattle sign) and beside PI-RU-E-JU 60 and SE-SA-PA₃ 60 (GORILA I 288–289). rāʿû diqqi: the contracted nominative rāʿû < *rāʿiyu 'herdsman' (semitic_roots 454), O writing ʿu, and the genitive diqqi of *diqq- 'small (cattle)', as in KA-NI-JA-MI qāniy-yammi. The same root as RO-E rōʿē (PH 24). Weak points: the spelling differs from RO-E; the attested words for small cattle are feminine (dqt, daqīqa). Rivals: a personal name; Hurrian -tiki (Papan-tiki, Monti 2017, 411), which leaves RA-O unread. One witness.",
+      "source": "di Mino; Lane; DULAT; CAD"
     }
   ]
 }

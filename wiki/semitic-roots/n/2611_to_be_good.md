@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | naʿem 'pleasant' | Anderson–Moser 2024 root nʿm |  |
 | Punic | nʿm 'good' | Anderson–Moser 2024 root nʿm |  |
 | Judaic Aramaic | nᵉʿīmā (HALOT 704) | HALOT 704 |  |
-| Amorite | nʿm: naʿimum, naʿmum, niʿimatum, niʿima (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
+| Amorite | nʿm: naʿimum, naʿmum, niʿimatum, niʿima (Gelb AS 21, 26); naʿmu, niʿmu, nuʿmu, niʿimu (Buck 2019, 329–330) | Gelb AS 21 26; Buck 2019, 329–330 | gloss withheld |
 | Arabic | nʕm 'be good, pleasant' (Lane 3035) | Lane 3035 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

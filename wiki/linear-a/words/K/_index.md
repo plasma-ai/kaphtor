@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T15:14:18Z
+updated: 2026-10-27T22:29:24Z
 ---
 
 # wiki/linear-a/words/K
@@ -77,7 +77,7 @@ updated: 2026-10-27T15:14:18Z
 
 [[wiki/linear-a/words/K/KA_TA_RE|KA_TA_RE]]: kaṯare: Kothar (divine craftsman god). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_TI|KA_TI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_TI|KA_TI]]: Gattī: the man of the press, or the Gittite (nisbe of gat 'press'); rivals Qəhātî 'Kohathite', Kittî 'Kittian'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_U_DE_TA|KA_U_DE_TA]]: Kaw-tatta: Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt. Lexicon, SPECULATIVE (tier 1).
 
@@ -163,7 +163,7 @@ updated: 2026-10-27T15:14:18Z
 
 [[wiki/linear-a/words/K/KU|KU]]: kull: all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KU_DA|KU_DA]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/K/KU_DA|KU_DA]]: Gūda: Gūda (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_KU_DA_RA|KU_KU_DA_RA]]: Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'. Lexicon, SPECULATIVE (tier 1).
 

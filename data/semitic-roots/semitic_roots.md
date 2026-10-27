@@ -8,9 +8,9 @@ created: 2026-10-22T18:14:10Z
 updated: 2026-10-22T18:14:10Z
 ---
 
-`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 4,276 records with 21,253 reflexes.
+`semitic_roots.json` holds `schema_version` (2), `description` and `roots`: 4,349 records with 21,626 reflexes.
 Most reconstructions and meanings come from the Semitic Etymological Dictionary; `sed` cites the SEDonline entry
-(2,639 records) or the printed volume, SED I or SED II (24 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
+(2,637 records) or the printed volume, SED I or SED II (24 records). The SA series are Epigraphic South Arabian headwords (Beeston 1982; Biella 1982), not comparative
 reconstructions.
 
 | Field | Content |
@@ -35,23 +35,23 @@ Each reflex:
 | `gloss_withheld` | true when the source's quoted gloss was taken out of `text` |
 | `text_withheld` | true when the cell was the source's prose; only `lang` and `cite` are given |
 
-A reflex keeps its quoted gloss only when its cited source is `open` (3,448 reflexes: Biberstein-Kazimirski,
+A reflex keeps its quoted gloss only when its cited source is `open` (3,547 reflexes: Biberstein-Kazimirski,
 Lane, Payne Smith, Brockelmann, Jastrow, Freytag, BDB, the Aramaic Root Atlas,
 Anderson and Moser's *Protosemitic Root Derivations* and others). Other reflexes give the form and its citation, with
 any quoted gloss taken out. In every reflex, a source's commentary after the forms (derivations, hedges, remarks on
 what a dictionary lacks) is not included, and neither are the citations that only that commentary named. Notes are the project's own; notes
 taken from SED are not included.
 
-1,412 reflexes, 1,140 of them in the K series, cite Anderson and Moser 2024, *Protosemitic
+1,408 reflexes, 1,137 of them in the K series, cite Anderson and Moser 2024, *Protosemitic
 Root Derivations* (Zenodo, doi:10.5281/zenodo.14160276, CC BY 4.0), as `{siglum: "Anderson–Moser 2024",
 loc: "root …"}`.
 
 | `source_class` | Reflexes |
 | --- | --- |
-| closed | 12,899 |
-| open | 3,448 |
-| none | 3,119 |
-| mixed | 1,460 |
+| closed | 13,229 |
+| open | 3,547 |
+| none | 3,042 |
+| mixed | 1,481 |
 | unknown | 327 |
 
 `semitic_correspondences.json` is the consonant correspondence table (Huehnergard 2019, Table 3.2, p. 51): for

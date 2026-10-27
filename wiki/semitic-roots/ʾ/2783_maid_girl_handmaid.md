@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | amta (LGz. 26) | LGz. 26 |  |
 | Tigre | ʾamät (LGz. 26) | LGz. 26 | gloss withheld |
 | Amharic | amät (LGz. 26) | LGz. 26 |  |
-| Amorite | ʾamtum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
+| Amorite | ʾamtum (Gelb AS 21, 13); ʾamatu (Buck 2019, 323) | Gelb AS 21 13; Buck 2019, 323 | gloss withheld |
 | Judaic Aramaic | ʾamtaʾ (T 25) | T 25 |  |
 | Eblaitic | ʔaₓ(NI)-ma-tum /ʔam(a)tum/ (VE 1160; Krebernik 1983, 41) | VE 1160; Krebernik 1983, 41 | gloss withheld |
 | Epigraphic South Arabian | Sab Qat ʾmt (Kogan 2011, 237; Sabaweb lemma 1365) | Kogan 2011 237; Sabaweb lemma 1365 | gloss withheld |

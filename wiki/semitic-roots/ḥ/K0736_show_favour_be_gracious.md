@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ḥnn (G/D?) (DULAT 361) | DULAT 361 | gloss withheld |
 | Arabic | ḥanūn, ḥannān (HALOT 333) | HALOT 333 |  |
 | Phoenician | ḥnn (T 109) | T 109 | gloss withheld |
-| Amorite | ḥnn: jaḥun, jaḥnun, ḥananum, ḥananatum (Gelb AS 21, 20) | Gelb AS 21 20 | gloss withheld |
+| Amorite | ḥnn: jaḥun, jaḥnun, ḥananum, ḥananatum (Gelb AS 21, 20); ḥannu, ḥinnu, ḥunna, ḥunanu (Buck 2019, 327) | Gelb AS 21 20; Buck 2019, 327 | gloss withheld |
 | Syrian Aramaic | ḥan 'pity, spare; be gracious' (Payne Smith 148) | Payne Smith 148 |  |
 | Pre-Islamic North Arabian | Safaitic ḥnn (Al-Jallad–Jaworska 86) | Al-Jallad–Jaworska 86 | gloss withheld |
 | Judaic Aramaic | ḥanan (T 109) | T 109 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1173_create
 title: "*bVraʾ-: 'create'"
-desc: "Proto-Semitic *bVraʾ-, 'create': reflexes in 7 language(s)."
+desc: "Proto-Semitic *bVraʾ-, 'create': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1173"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab brʾ (B. Ašwal 1/2, 3; SD 30; Biella 54; Sabaweb lemma 3956) | SD 30; Biella 54; Sabaweb lemma 3956 | gloss withheld |
 | Punic | brʾ (Biella 54) | Biella 54 |  |
 | Judaic Aramaic | beraʾ (T 55) | T 55 |  |
+| Amorite | baraʾ (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

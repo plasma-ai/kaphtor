@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT7b
 title: "HT7b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT7b"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
-words: ["*21F-TU-NE"]
+translation: "complete"
+words: ["*21F-TU-NE", "DA-RU-*329"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -50,8 +50,27 @@ Unicode (Linear A block):
 𐘀𐘘𐙵𐄈
 ```
 
+## Translation
+
+**SPECULATIVE**, complete.
+
+> Bridegroom 1; Dārum 2.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | bridegroom, son-in-law, 1 | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DA_RU_star329\|DA-RU-\*329]] | Dārum | personal name, 'Eternal', 2; rival Arabic Dārim | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+Both lines over an erasure (GORILA I 15). With face a's 10, the tablet counts 13 men.
+
+### Source
+
+- di Mino: DA-RU-\*329
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star21F_TU_NE|\*21F-TU-NE]].
+[[wiki/linear-a/words/star/star21F_TU_NE|\*21F-TU-NE]], [[wiki/linear-a/words/D/DA_RU_star329|DA-RU-\*329]].
 
 <!-- END kaphtor:record -->

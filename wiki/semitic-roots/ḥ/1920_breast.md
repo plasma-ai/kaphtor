@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1920_breast
 title: "*ḥaḏ(V)y-: 'breast'"
-desc: "Proto-Semitic *ḥaḏ(V)y-, 'breast': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḥaḏ(V)y-, 'breast': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1920"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥāzǟ (HALOT 301) | HALOT 301 | gloss withheld |
 | Judaic Aramaic | ḥadyā 'breast, chest, bosom' \[Ja 426\] | Ja 426 |  |
 | Syrian Aramaic | ḥadyā 'breast, chest' \[Brock 216\] | Brock 216 |  |
+| Emar | ḫa-zé-ti, ḫa-zé-ti₇ /ḥaðêtu/ (Pentiuc 2001, 62–63) | Pentiuc 2001 62–63 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

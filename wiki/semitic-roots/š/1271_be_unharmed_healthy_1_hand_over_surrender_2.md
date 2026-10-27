@@ -45,7 +45,7 @@ updated: 2026-10-26T14:26:59Z
 | Mandaic Aramaic | šlama (LGz. 500) | LGz. 500 | gloss withheld |
 | Tigrinya | sälam (LGz. 500) | LGz. 500 | gloss withheld |
 | Amharic | sälam (LGz. 500) | LGz. 500 | gloss withheld |
-| Amorite | ślm: jiślam, śalamum, śalamatum, śalimum (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
+| Amorite | ślm: jiślam, śalamum, śalamatum, śalimum (Gelb AS 21, 32); yašlam, yašlim/yišlam (Buck 2019, 332) | Gelb AS 21 32; Buck 2019, 332 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic slm (Al-Jallad–Jaworska 122); ʾslm 2 (Al-Jallad–Jaworska 47) | Al-Jallad–Jaworska 122; Al-Jallad–Jaworska 47 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

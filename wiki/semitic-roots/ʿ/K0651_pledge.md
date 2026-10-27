@@ -42,4 +42,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+The verb 'to offer, present' is 3706 (Krahmalkov 386; HALOT 877 IV ʿrb; Sabaweb lemma 3809).
+
 <!-- END kaphtor:record -->

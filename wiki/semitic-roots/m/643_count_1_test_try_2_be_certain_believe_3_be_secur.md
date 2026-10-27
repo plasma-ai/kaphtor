@@ -47,7 +47,7 @@ updated: 2026-10-26T17:41:55Z
 | Amharic | ammänä (LGz. 24) | LGz. 24 |  |
 | Gurage | amänä (LGz. 24) | LGz. 24 |  |
 | Harari | amäna (LGz. 24) | LGz. 24 |  |
-| Amorite | ʾmn: ʾamanum, ʾaminum, ʾaminatum, ʾamina (Gelb AS 21, 14); mnw: manawum, manawa, manijum, manuwum (Gelb AS 21, 25) | Gelb AS 21 14; Gelb AS 21 25 | gloss withheld |
+| Amorite | ʾmn: ʾamanum, ʾaminum, ʾaminatum, ʾamina (Gelb AS 21, 14); mnw: manawum, manawa, manijum, manuwum (Gelb AS 21, 25); manî, yamnān (Buck 2019, 329) | Gelb AS 21 14; Gelb AS 21 25; Buck 2019, 329 | gloss withheld |
 | Ugaritic | ʔimt (Kogan 2015, ch. 2 §4.2 no. 2); mny (Tropper UG 379) | Kogan 2015 ch. 2 §4.2 no. 2; Tropper UG 379 | gloss withheld |
 | Argobba | ˀammɛn (Wetter 2010:84, AAD 270 apud SEDonline 187) | Wetter 2010:84, AAD 270; SEDonline 187 | gloss withheld |
 | East Ethiopic | Sel. Wol. amänä (EDG 49 apud SEDonline 187) | EDG 49; SEDonline 187 | gloss withheld |

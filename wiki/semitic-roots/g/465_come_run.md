@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | gyʔ \[-i-\] |  |  |
+| Arabic | gyʔ \[-i-\]; jāʾa 'he, or it, came; was, or became, present' (Lane 492) | Lane 492 |  |
 | Soqotri | ge |  | gloss withheld |
 | Geez | gʷayya, gʷagʷǝʔa |  | gloss withheld |
 | Amharic | gʷäggʷa (LGz. 184); (ən)gʷəy (LGz. 209) | LGz. 184; LGz. 209 | gloss withheld |

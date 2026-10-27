@@ -58,6 +58,6 @@ Readings from the lexicon as it stands: [[wiki/linear-a/words/Q/QA_star310_I|QA-
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role administrative roster label.
 
-Recipient in two Haghia Triada lists that also share DI. HT85b (Scribe 9, Casa Room 7): QE-KA 1 among the single entries under KI-KI-RA-JA, after KI-RE-TA₂ 1, with DI 1 and ME-ZA 1 (GORILA I 133). HT111a .2 \]QE-KA 8, broken before, above QA-SẠ-\[, \]QẠ-RU 8 and DI 14\[ (GORILA I 181). No reading.
+HT 85b .2 QE-KA 1, whole, among the one-man entries under KI-KI-RA-JA, after KI-RE-TA₂ 1 (GORILA I 133). HT 111a .2 \]QE-KA 8, broken before, followed on the line by QA-SA-\[ (QA-RE-\[ equally possible), with \]QA-QA-RU 8 and DI 14\[ on .3 (GORILA I 181). Both lists hold DI. No reading.
 
 <!-- END kaphtor:record -->

@@ -73,6 +73,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | CANDIDATE |
 | [[wiki/linear-a/words/K/KU\|KU]] | kull | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_DA\|KU-DA]] | Gūda | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_MA_JU\|KU-MA-JU]] | Qumalu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_MI_NA\|KU-MI-NA]] | kamūna | PROBABLE |

@@ -30,15 +30,19 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ḫašāḫu 2 |  |  |
+| Akkadian | ḫašāḫu 2 (CAD Ḫ 134); ḫašaḫtu 2 (CAD Ḫ 134); ḫišiḫtu 2 (CAD Ḫ 204) | CAD Ḫ 134; CAD Ḫ 204 | gloss withheld |
 | Tigre | ḥss 3 |  |  |
 | Geez | ḫśś 1 |  |  |
-| Syrian Aramaic | ḥšaḥ 2 (Payne Smith 161); ḥəšaḥ (LGz. 266) | Payne Smith 161; LGz. 266 | gloss withheld |
+| Syrian Aramaic | ḥšaḥ 2 (Payne Smith 161); ḥšaḥtā 2 (Payne Smith 162); ḥəšaḥ (LGz. 266) | Payne Smith 161; Payne Smith 162; LGz. 266 | gloss withheld |
 | Tigrinya | ḥss 1 |  |  |
 | Amharic | assäsä (LGz. 266) | LGz. 266 | gloss withheld |
 | Harari | xaša (LGz. 266) | LGz. 266 | gloss withheld |
 | Gurage | käše (LGz. 266) | LGz. 266 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Kaufman 1974, 54: the limited distribution of Aramaic ḥšḥ (BA, Syriac, CPA) is the only reason to suspect a loan from Akkadian ḫašāḫu; the root shape, with ḫ first and third, is as unusual in Akkadian as in Aramaic.
 
 <!-- END kaphtor:record -->

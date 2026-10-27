@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ḥbr (T 97) | T 97; Anderson–Moser 2024 root ḥbr | gloss withheld |
 | Ugaritic | ḥbr 'companion' | Anderson–Moser 2024 root ḥbr |  |
 | Akkadian | ibru (CAD I/J 5) | CAD I/J 5 | gloss withheld |
-| Hebrew | ḥāḇar, ḥāḇer (LGz. 256) | LGz. 256 | gloss withheld |
+| Hebrew | ḥāḇar, ḥāḇer (LGz. 256); ḥbr (qal) (HALOT 287) | LGz. 256; HALOT 287 | gloss withheld |
 | Syrian Aramaic | ḥabbar (ʿam) (LGz. 256) | LGz. 256 | gloss withheld |
 | Mandaic Aramaic | hbr (LGz. 257) | LGz. 257 |  |
 | Judaic Aramaic | ḥabrūtā (HALOT 288); ḥabraʾ (T 97) | HALOT 288; T 97 | gloss withheld |

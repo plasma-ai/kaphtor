@@ -50,7 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | reḥām (SED I 204) | SED I 204 | gloss withheld |
 | Amharic | marä (SED I 204–205) | SED I 204–205 | gloss withheld |
 | East Ethiopic | WOL marä, SEL ZWY mārä (SED I 205) | SED I 205 | gloss withheld |
-| Amorite | rḥm: jirḥam, jarḥam, raḥimum, raḥima (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rḥm: jirḥam, jarḥam, raḥimum, raḥima (Gelb AS 21, 30); raḥmu, yirḥam (Buck 2019, 331) | Gelb AS 21 30; Buck 2019, 331 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

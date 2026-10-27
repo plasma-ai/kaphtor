@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | skk \[-u-\] 1 (Lane 1386) | Lane 1386 |  |
-| Akkadian | sakāku 1 |  |  |
-| Jibbali | sekk 2 |  |  |
+| Akkadian | sakāku 1 (CAD S 68) | CAD S 68 | gloss withheld |
+| Jibbali | sekk 2 (HSED 407) | HSED 407 | gloss withheld |
 | Hebrew | skk 2 (HALOT 754) | HALOT 754 |  |
 | Judaic Aramaic | skk pa. 1, 2 (HALOT 754) | HALOT 754 | gloss withheld |
 | Aramaic | SKK (Aramaic Root Atlas; CAL s.v. skk) | Aramaic Root Atlas; CAL s.v. skk | gloss withheld |

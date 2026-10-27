@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune
 title: "*gd: 'to be lucky, fortunate; luck, fortune'"
-desc: "Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 9 language(s)."
+desc: "Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3243"
@@ -38,6 +38,7 @@ updated: 2026-10-25T05:11:48Z
 | Tigre | gäd (WTS 602 apud SEDonline 40) | WTS 602; SEDonline 40 | gloss withheld |
 | Tigrinya | gäddi (TED 2356 apud SEDonline 40) | TED 2356; SEDonline 40 | gloss withheld |
 | Amharic | gädd (AED 2034 apud SEDonline 40) | AED 2034; SEDonline 40 | gloss withheld |
+| Emar | ga-ad-dá, ga₁₄-ad-da, gad-dá /gaddu/ (Pentiuc 2001, 50) | Pentiuc 2001 50 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

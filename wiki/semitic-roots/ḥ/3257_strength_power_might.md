@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/3257_strength_power_might
 title: "*ḥayl-: 'strength, power, might'"
-desc: "Proto-Semitic *ḥayl-, 'strength, power, might': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḥayl-, 'strength, power, might': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3257"
@@ -35,6 +35,7 @@ updated: 2026-10-25T05:11:48Z
 | Arabic | ḥawl-/ḥayl- (Lane 675, 688 apud SEDonline 1270) | Lane 675, 688; SEDonline 1270 | gloss withheld |
 | Epigraphic South Arabian | Sab. ḫyl (SD 64 apud SEDonline 1270); Qat. ˀ-ḫyl (LIQ 72 apud SEDonline 1270) | SD 64; SEDonline 1270; LIQ 72 | gloss withheld |
 | Geez | ḫayl (CDG 269 apud SEDonline 1270) | CDG 269; SEDonline 1270 | gloss withheld |
+| Amorite | ḫêlu (Buck 2019, 328) | Buck 2019, 328 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

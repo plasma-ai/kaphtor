@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/511_strike_1_split_furrow_2
 title: "*pVg(Vʕ)-: 'strike' 1, 'split, furrow' 2"
-desc: "Proto-Semitic *pVg(Vʕ)-, 'strike' 1, 'split, furrow' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *pVg(Vʕ)-, 'strike' 1, 'split, furrow' 2: reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "511"
@@ -31,7 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fgg \[-a-\] 2 |  |  |
-| Hebrew | pgʕ 1 |  |  |
+| Hebrew | pgʕ 1 (HALOT 910) | HALOT 910 | gloss withheld |
+| Syrian Aramaic | pgaʿ 'to attack' 1 (Payne Smith 434) | Payne Smith 434 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

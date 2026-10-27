@@ -2,7 +2,7 @@
 
 The test suite: unit, data and maintainer tiers.
 
-- [ane/](ane/README.md): offline tests for the `tools/ane/` query clients and the data paths (6 files, 192 tests)
+- [ane/](ane/README.md): offline tests for the `tools/ane/` query clients, the data paths and the name layers (8 files, 225 tests)
 - [linear_a/](linear_a/README.md): tests for the `tools/core/` library, the Shoresh engine and commands, and the corpus
   analyses (28 files, 752 tests, 429 of them on the shipped data)
 - [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (3 files, 114 tests, 6 of them on
@@ -30,8 +30,8 @@ machine, and names the address; a test of a remote client stubs its request.
 Markers (registered in `pyproject.toml`; `--strict-markers` refuses any other):
 
 - `data`: reads the datasets shipped under `data/` (the five ANE client runs in `ane/test_data_paths.py`, the
-  notation census on the shipped `egytext` and `pnm` views in `ane/test_ane_keys.py`, the LFS scan, the three
-  rival-language root files, the Syriac and Akkadian contact lexica, `cognate_search` on the shipped lexicon,
+  notation census on the shipped `egytext`, `pnm` and `tla` views in `ane/test_ane_keys.py`, the checks of the four
+  name layers in `ane/test_name_layers.py` and their searches in `ane/test_query_name_layers.py`, the LFS scan, the three rival-language root files, the Syriac and Akkadian contact lexica, `cognate_search` on the shipped lexicon,
   and most of the Shoresh tests, which read the nine files `linear_a/shoresh_inputs.py` names). With `data/`
   removed, every `unit` test still passes. `-m "unit or data"` is what a fresh clone can run.
 - `maintainer`: needs a dataset not yet shipped, and skips without it: the 8 live tests (`LIVE` in

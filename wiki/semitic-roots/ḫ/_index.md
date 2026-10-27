@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḫ
 desc: "Semitic roots whose first radical is ḫ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/ḫ
@@ -185,7 +185,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḫ/2728_thread_cord|2728_thread_cord]]: Proto-Semitic *ḫayṭ- ~ *ḫūṭ-, 'thread, cord': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḫ/2736_wine_fermented_drink|2736_wine_fermented_drink]]: Proto-Semitic *ḫVmr-, 'wine, fermented drink': reflexes in 11 language(s).
+[[wiki/semitic-roots/ḫ/2736_wine_fermented_drink|2736_wine_fermented_drink]]: Proto-Semitic *ḫVmr-, 'wine, fermented drink': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ḫ/2749_five|2749_five]]: Proto-Semitic *ḫVmVš-, 'five': reflexes in 23 language(s).
 
@@ -209,7 +209,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḫ/2953_piglet|2953_piglet]]: Proto-Semitic *ḫVnnVṣ- {} *ḫVnnVc̣-, 'piglet': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ḫ/296_jug_bowl|296_jug_bowl]]: Proto-Semitic *ḫabiʾ/y-, 'jug, bowl': reflexes in 3 language(s).
+[[wiki/semitic-roots/ḫ/296_jug_bowl|296_jug_bowl]]: Proto-Semitic *ḫabiʾ/y-, 'jug, bowl': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḫ/2984_month_Iyyar_Ugaritic_hyr_Babylonian_Ayyaru|2984_month_Iyyar_Ugaritic_hyr_Babylonian_Ayyaru]]: Proto-Semitic *ḫiyyār-, 'month Iyyar (Ugaritic: ḫyr; Babylonian: Ayyaru)': reflexes in 3 language(s).
 
@@ -239,7 +239,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḫ/3207_plum_tree|3207_plum_tree]]: Proto-Semitic *ḫāḫ-, 'plum-tree': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḫ/3212_maternal_uncle|3212_maternal_uncle]]: Proto-Semitic *ḫāl-, 'maternal uncle': reflexes in 6 language(s).
+[[wiki/semitic-roots/ḫ/3212_maternal_uncle|3212_maternal_uncle]]: Proto-Semitic *ḫāl-, 'maternal uncle': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ḫ/3224_long_period_of_time_lifespan_eternity|3224_long_period_of_time_lifespan_eternity]]: Proto-Semitic *ḫVld-, 'long period of time, lifespan, eternity': reflexes in 3 language(s).
 
@@ -269,13 +269,17 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḫ/3596_moat_ditch|3596_moat_ditch]]: Proto-Semitic *ḫrṣ, 'moat, ditch': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḫ/3604_fold_of_a_garment_or_of_the_arms|3604_fold_of_a_garment_or_of_the_arms]]: Proto-Semitic *ḫbn, 'fold (of a garment or of the arms)': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḫ/3604_fold_of_a_garment_or_of_the_arms|3604_fold_of_a_garment_or_of_the_arms]]: Proto-Semitic *ḫbn, 'fold (of a garment or of the arms)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḫ/3648_bag_purse|3648_bag_purse]]: Proto-Semitic *ḫrṭ, 'bag, purse': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḫ/3662_thorn_thorn_bush_hook|3662_thorn_thorn_bush_hook]]: Proto-Semitic *ḫḫ, 'thorn, thorn-bush; hook': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ḫ/3679_to_bake_bread|3679_to_bake_bread]]: Proto-Semitic *ḫbz, 'to bake (bread)': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḫ/3703_carob_tree_and_pods|3703_carob_tree_and_pods]]: Proto-Semitic *ḫrb, 'carob (tree and pods)': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḫ/3735_member_of_a_lower_social_class_freedman_free|3735_member_of_a_lower_social_class_freedman_free]]: Proto-Semitic *ḫpṯ, 'member of a lower social class; freedman, free': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/378_ring_1_seal_on_a_ring_2|378_ring_1_seal_on_a_ring_2]]: Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 14 language(s).
 
@@ -319,7 +323,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḫ/914_be_angry_malicious|914_be_angry_malicious]]: Proto-Semitic *ḫVbuṯ-, 'be angry, malicious': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḫ/949_be_weak|949_be_weak]]: Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 7 language(s).
+[[wiki/semitic-roots/ḫ/949_be_weak|949_be_weak]]: Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ḫ/958_be_dark_1_darkness_2|958_be_dark_1_darkness_2]]: Proto-Semitic *ḫadar-, 'be dark' 1, 'darkness' 2: reflexes in 2 language(s).
 
@@ -327,13 +331,13 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḫ/967_hole_1_grave_2|967_hole_1_grave_2]]: Proto-Semitic *ḫurr-, 'hole' 1, 'grave' 2: reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ḫ/968_hole|968_hole]]: Proto-Semitic *ḫur(V)z-, 'hole': reflexes in 4 language(s).
+[[wiki/semitic-roots/ḫ/968_hole_1_beads_string_of_beads_2|968_hole_1_beads_string_of_beads_2]]: Proto-Semitic *ḫur(V)z-, 'hole' 1, 'beads, string of beads' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/978_be_light|978_be_light]]: Proto-Semitic *ḫVpp-, 'be light': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḫ/988_be_favourable|988_be_favourable]]: Proto-Semitic *ḫVyVr-, 'be favourable': reflexes in 1 language(s).
+[[wiki/semitic-roots/ḫ/988_be_favourable|988_be_favourable]]: Proto-Semitic *ḫVyVr-, 'be favourable': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/K0716_room|K0716_room]]: Proto-Semitic *ḫidr-, 'room': reflexes in 9 language(s).
+[[wiki/semitic-roots/ḫ/K0716_room|K0716_room]]: Proto-Semitic *ḫidr-, 'room': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/ḫ/K0763_hew|K0763_hew]]: Proto-Semitic *ḫaṣab-, 'hew': reflexes in 6 language(s).
 

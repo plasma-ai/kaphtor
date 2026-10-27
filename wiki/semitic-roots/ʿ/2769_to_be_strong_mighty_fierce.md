@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ʿazza (LGz. 81) | LGz. 81 |  |
 | Tigrinya | ʿazäzä (LGz. 81) | LGz. 81 |  |
 | Amharic | azzäzä (LGz. 81) | LGz. 81 | gloss withheld |
-| Amorite | ʿzz: ʿazzum, ʿazzatum, ʿazazum, ʿizzum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
+| Amorite | ʿzz: ʿazzum, ʿazzatum, ʿazazum, ʿizzum (Gelb AS 21, 15); ʿazzu, ʿizzu (Buck 2019, 325) | Gelb AS 21 15; Buck 2019, 325 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾʿzz (Al-Jallad–Jaworska 38) | Al-Jallad–Jaworska 38 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿzt (SD 24 apud SEDonline 1248; Sabaweb lemma 2966) | SD 24; SEDonline 1248; Sabaweb lemma 2966 | gloss withheld |
 | Syrian Aramaic | ʿzz (Kogan 2015, ch. 6 §9.1 no. 3) | Kogan 2015 ch. 6 §9.1 no. 3 | gloss withheld |

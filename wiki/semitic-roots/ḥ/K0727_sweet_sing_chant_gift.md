@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Based on biconsonantal \*ḥal-. Biella 176 compares Sab ḥly 'gift' with Arabic ḥalā. Geez ḥəlyān 'bribe, gratuity' is from Arabic ḥulwān (LGz. 231).
+Based on biconsonantal \*ḥal-. Biella 176 compares Sab ḥly 'gift' with Arabic ḥalā. Geez ḥəlyān 'bribe, gratuity' is from Arabic ḥulwān (LGz. 231). 3727 \*ḥlʾ 'to pay (money); to pay a fine' is another root.
 
 <!-- END kaphtor:record -->

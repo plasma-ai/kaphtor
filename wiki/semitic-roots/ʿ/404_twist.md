@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/404_twist
 title: "*ʕVḳip-: 'twist'"
-desc: "Proto-Semitic *ʕVḳip-, 'twist': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ʕVḳip-, 'twist': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "404"
@@ -30,8 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕqf \[-i-\] |  |  |
+| Arabic | ʕqf \[-i-\]; ʿaqafa 'he bent it; crooked it; made it hooked'; inʿaqafa 'it became bent, or crooked' (Lane 2112) | Lane 2112 |  |
+| Geez | taʿaqfa (LGz. 67) | LGz. 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+LGz. 67 sets Arabic ʿaqafa 'bend, make hooked' beside Geez ʾaʿqafa 'trip someone, make stumble, hinder' and taʿaqfa 'stumble, … be crooked, be perverse'. Not 3016 \*ʕVḳVl- 'turn, bend, twist'.
 
 <!-- END kaphtor:record -->

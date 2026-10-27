@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0097_lyre
 title: "*kinor-: 'lyre'"
-desc: "Proto-Semitic *kinor-, 'lyre': reflexes in 6 language(s)."
+desc: "Proto-Semitic *kinor-, 'lyre': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0097"
@@ -35,6 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | kinnāru (HALOT 484) | HALOT 484 |  |
 | Syrian Aramaic | kennārā (HALOT 484) | HALOT 484 |  |
 | Eblaitic | gi-na-rúm, gi-na-lum, gi-na-ru₁₂-um /kinnārum/ (VE 572; Krebernik 1983, 21) | VE 572; Krebernik 1983, 21 | gloss withheld |
+| Amorite | kinnāru (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
+| Emar | ki-in-na-ru /kinnāru/ (Pentiuc 2001, 98) | Pentiuc 2001 98 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

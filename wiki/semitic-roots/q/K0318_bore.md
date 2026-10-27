@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0318_bore
 title: "*quwr-: 'bore'"
-desc: "Proto-Semitic *quwr-, 'bore': reflexes in 2 language(s)."
+desc: "Proto-Semitic *quwr-, 'bore': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0318"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | qāra (Lane 2574); qāra II (HALOT 1090) | Lane 2574; HALOT 1090; Anderson–Moser 2024 root qwr | gloss withheld |
 | Hebrew | quwr (BDB 881); qwr qal (2K 19:24) (HALOT 1090) | BDB 881; HALOT 1090; Anderson–Moser 2024 root qwr | gloss withheld |
+| Emar | \[q\]í-i-ra /qīru/ (Pentiuc 2001, 148) | Pentiuc 2001 148 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

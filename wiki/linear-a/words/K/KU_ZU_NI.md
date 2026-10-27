@@ -49,13 +49,14 @@ DULAT s.v. kṯn (I); di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Kuṯinu | personal name, 18; Ugaritic kṯn | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | Kuṯinu | personal name or roster label (5 personnel); compare the Ugaritic personal name kṯn | SPECULATIVE |
 
 ## Onomasticon
@@ -63,7 +64,7 @@ DULAT s.v. kṯn (I); di Mino
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Affiliation | unknown (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |

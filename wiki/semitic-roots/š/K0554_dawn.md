@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0554_dawn
 title: "*šaḥar-: 'dawn'"
-desc: "Proto-Semitic *šaḥar-, 'dawn': reflexes in 9 language(s)."
+desc: "Proto-Semitic *šaḥar-, 'dawn': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0554"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | si-EN-lum (Kogan 2011, 196; VE 776; Krebernik 1983, 29) | Kogan 2011 196; VE 776; Krebernik 1983, 29 |  |
 | Jibbali | šḥor (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
 | Soqotri | ḥer (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
+| Emar | ša-aḫ-ri /šaḥru/ (Pentiuc 2001, 167) | Pentiuc 2001 167 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

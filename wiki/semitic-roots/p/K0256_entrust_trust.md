@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | pqd 'command' | Anderson–Moser 2024 root pqd |  |
 | Arabic | faqada (HALOT 955) | HALOT 955 | gloss withheld |
 | Syrian Aramaic | pqad 'visit, inspect; command, order' (Payne Smith 454) | Payne Smith 454 |  |
-| Phoenician | pḳd (DNWSI 932 apud SEDonline 1823) | DNWSI 932; SEDonline 1823 | gloss withheld |
+| Phoenician | pḳd (DNWSI 932 apud SEDonline 1823); pqd (T 271) | DNWSI 932; SEDonline 1823; T 271 | gloss withheld |
 | Judaic Aramaic | JPA pḳd (DJPA 442 apud SEDonline 1823); JBA pḳd (DJBA 924 apud SEDonline 1823) | DJPA 442; SEDonline 1823; DJBA 924 | gloss withheld |
 | Mandaic Aramaic | pḳd (MD 376 apud SEDonline 1823) | MD 376; SEDonline 1823 | gloss withheld |
 | Epigraphic South Arabian | Sab. fḳd (SD 45 apud SEDonline 1823) | SD 45; SEDonline 1823 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṭ
 desc: "Semitic roots whose first radical is ṭ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T06:21:26Z
 ---
 
 # wiki/semitic-roots/ṭ
@@ -105,13 +105,15 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ṭ/343_fold_n|343_fold_n]]: Proto-Semitic *ṭayy-, 'fold' (n.): reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṭ/344_spin_1_fold_wrap_2_turn_3_plait_twist_4|344_spin_1_fold_wrap_2_turn_3_plait_twist_4]]: Proto-Semitic *ṭVwVy-, 'spin' 1, 'fold, wrap' 2, 'turn' 3, 'plait,twist' 4: reflexes in 8 language(s).
+[[wiki/semitic-roots/ṭ/344_spin_1_fold_wrap_2_turn_3_plait_twist_4_case_a_w|344_spin_1_fold_wrap_2_turn_3_plait_twist_4_case_a_w]]: Proto-Semitic *ṭVwVy-, 'spin' 1, 'fold, wrap' 2, 'turn' 3, 'plait,twist' 4, 'case (a well) with stones; stone-lined well' 5: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ṭ/3481_enclosure_sheepfold|3481_enclosure_sheepfold]]: Proto-Semitic *ṭyr, 'enclosure, sheepfold': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ṭ/3485_to_set_up_erect_a_monument|3485_to_set_up_erect_a_monument]]: Proto-Semitic *ṭnʾ, 'to set up, erect (a monument)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṭ/3601_to_become_dirty_to_soil|3601_to_become_dirty_to_soil]]: Proto-Semitic *ṭnp, 'to become dirty; to soil': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṭ/3763_cornice_projecting_part_of_a_building|3763_cornice_projecting_part_of_a_building]]: Proto-Semitic *ṭnp, 'cornice, projecting part of a building': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṭ/418_trap_net|418_trap_net]]: Proto-Semitic *ṭarḳ-, 'trap, net': reflexes in 1 language(s).
 

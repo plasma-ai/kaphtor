@@ -1,0 +1,2287 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Gauthier, Dictionnaire des noms géographiques (DNG), t. 1-6: entries from the OCR text layer",
+  "work": "Gauthier, Henri, Dictionnaire des noms géographiques contenus dans les textes hiéroglyphiques, tomes 1-6, Société royale de géographie d'Égypte (printed by IFAO), Le Caire (t. 1-2 1925, 3 1926, 4 1927, 5 1928, 6 1929)",
+  "rights": "US public domain: HathiTrust records v. 1-6 as public domain in the US (Gauthier d. 1950). T. 7 (1931, the index) is not held.",
+  "scans": "archive.org Gauthier1925_1 ... Gauthier1929 (Bordeaux Montaigne scans), each PDF with its OCR text layer; the _djvu.txt beside each carries the same OCR and is not read.",
+  "sources": {
+    "t1": {
+      "file": "gauthier-1925-dictionnaire-noms-geographiques-tome-1-archive.pdf",
+      "sha256": "4b2dac1d1d0eb7412a283132726d0f9063989cc509d6aebbb860230be289b729",
+      "year": 1925,
+      "pages": [
+        1,
+        219
+      ],
+      "pdf_pages": [
+        7,
+        116
+      ],
+      "page_rule": "left half = 2 x pdf page - 14, right half = left + 1",
+      "halves": 219,
+      "halves_indent_from_volume": 1,
+      "edge_strays_dropped": 43,
+      "entries": 1461,
+      "margin_rows_read_as_prose": 163,
+      "held_strays_continuing": 43,
+      "headings": 1
+    },
+    "t2": {
+      "file": "gauthier-1925-dictionnaire-noms-geographiques-tome-2-archive.pdf",
+      "sha256": "20f658cc2d71eaa64091434e99933b958eab5cd1e0690cfaccdaa39ae2e03e16",
+      "year": 1925,
+      "pages": [
+        1,
+        173
+      ],
+      "pdf_pages": [
+        4,
+        90
+      ],
+      "page_rule": "left half = 2 x pdf page - 8, right half = left + 1",
+      "halves": 173,
+      "halves_indent_from_volume": 4,
+      "edge_strays_dropped": 64,
+      "entries": 1055,
+      "rows_before_first_entry": 4,
+      "margin_rows_read_as_prose": 149,
+      "held_strays_continuing": 42,
+      "headings": 2
+    },
+    "t3": {
+      "file": "gauthier-1926-dictionnaire-noms-geographiques-tome-3-archive.pdf",
+      "sha256": "e250ee99f9a786c99c05bc886f689703698d741ae5655722b2c24bfa9519477a",
+      "year": 1926,
+      "pages": [
+        1,
+        155
+      ],
+      "pdf_pages": [
+        4,
+        81
+      ],
+      "page_rule": "left half = 2 x pdf page - 8, right half = left + 1",
+      "halves": 155,
+      "halves_indent_from_volume": 0,
+      "edge_strays_dropped": 136,
+      "entries": 1022,
+      "margin_rows_read_as_prose": 123,
+      "held_strays_continuing": 45,
+      "headings": 4
+    },
+    "t4": {
+      "file": "gauthier-1927-dictionnaire-noms-geographiques-tome-4-archive.pdf",
+      "sha256": "a1dffcf3b3f253053ad51e3b061dba3f371ab303b8c60cc3dfced96aad26c83f",
+      "year": 1927,
+      "pages": [
+        1,
+        227
+      ],
+      "pdf_pages": [
+        4,
+        117
+      ],
+      "page_rule": "left half = 2 x pdf page - 8, right half = left + 1",
+      "halves": 226,
+      "halves_indent_from_volume": 1,
+      "edge_strays_dropped": 110,
+      "entries": 1477,
+      "rows_before_first_entry": 1,
+      "held_strays_continuing": 38,
+      "margin_rows_read_as_prose": 136,
+      "headings": 5
+    },
+    "t5": {
+      "file": "gauthier-1928-dictionnaire-noms-geographiques-tome-5-archive.pdf",
+      "sha256": "a966f83eb605974eb22eacc67b12085d2a87bf4dbc5c8d2c5c846c79f5087456",
+      "year": 1928,
+      "pages": [
+        1,
+        236
+      ],
+      "pdf_pages": [
+        4,
+        122
+      ],
+      "page_rule": "left half = 2 x pdf page - 8, right half = left + 1",
+      "halves": 235,
+      "halves_indent_from_volume": 0,
+      "edge_strays_dropped": 219,
+      "entries": 1470,
+      "margin_rows_read_as_prose": 195,
+      "held_strays_continuing": 82,
+      "headings": 6
+    },
+    "t6": {
+      "file": "gauthier-1929-dictionnaire-noms-geographiques-tome-6-archive.pdf",
+      "sha256": "baa5505cbbd440a7e4e7a75dcc2896daab12d5a1cca37913138a29a51b2a1a4e",
+      "year": 1929,
+      "pages": [
+        1,
+        157
+      ],
+      "pdf_pages": [
+        4,
+        82
+      ],
+      "page_rule": "left half = 2 x pdf page - 8, right half = left + 1",
+      "halves": 157,
+      "halves_indent_from_volume": 1,
+      "edge_strays_dropped": 17,
+      "entries": 1012,
+      "margin_rows_read_as_prose": 128,
+      "held_strays_continuing": 22,
+      "headings": 6
+    },
+    "overrides": {
+      "file": "overrides.json",
+      "sha256": null,
+      "fixes": 0
+    }
+  },
+  "identity_rule": "gauthier:t<volume>:p<printed page>:<n>, n the entry's place among the entries that open on that page (an entry runs on to later pages under the page it opens on; page_end gives the last). A rebuild that drops an id is refused unless --allow-drop names it (or is given bare, for every id); one that gives an id another kind or transcription is refused unless --allow-remap names it (ingest_guard.refuse_remapped on (kind, transcription)).",
+  "page_rule": "pdf pages are two-page spreads; the printed page of each half is a constant offset per volume (sources.t<n>.page_rule). page_check compares it with the running-head folio and the sheet signature ('Dictionnaire, t. I. 3' opens p. 17, sheets of 8 pages) wherever the OCR reads one, and lists each disagreement.",
+  "split_rule": "words are grouped into baseline rows (a word taller than 1.5 median heights, a hieroglyph group, joins the row whose foot is nearest its own; capitals of a heading stay words); the running head, the thumb letter above it and the signature line are dropped. The indent of a half page is the commonest left edge (3 pt bins) of its rows of four words or more. A row 24 pt or more left of it stands at the margin and opens an entry unless it reads as a line of the text with a stray mark before it (first word French, a French word after it with no citation near, a parenthesis of the text, the tail of a citation carried over); a row 8-24 pt left of it opens one only as a headword row (strays, then a transcription word with a citation or a comma close after). A margin row of strays alone is held and opens an entry with the next row when that row opens one or reads as a headword row. Every other row continues the open entry, across pages. In the addenda, set with first-line indents, a row 8-30 pt right of the half page's left edge opens an item, and so does the row after a heading. Flags: start_near_indent (opened 8-24 pt left of the indent), margin_row_continued (a margin row was read as a line of this entry: a start may have been missed), indent_from_volume (too few rows for the half's own indent; the volume's median for its side was used).",
+  "field_rule": "transcription: the first run of transcription-like words (letters with the marks the OCR leaves inside one, a lower-case vowel, opening in lower case or as the OCR's ḥ: l;l l). J:i I:i Q.; a capitalised people or place is flagged headword_capitalised) before the first source citation, after the stray characters, up to a comma or a French word; strays glued to its front are cut (headword_glued_strays_stripped). key: ane_keys.loose_key of it. sources_cited: each (...) group of the head (the text before the dash that opens the description) that reads as a citation. gloss_fr: the head after the last citation when it reads as French, guillemets as the OCR gives them. description_fr: the text after that dash, dashes written —. identification_text: the dash-separated statements of the description naming a modern place, site or identification (actuel, aujourd'hui, moudirieh, markaz, identifié, correspond, Kôm, Tell, village, site ...). nome: each '<roman> nome de Haute-/Basse-Égypte' of the entry, in order; the first need not be the entry's own. variants: further transcriptions in the head (head_spelling) and each 'var.' statement. kind: cross_reference when the description is one short 'Voir ...' statement (see_text), addendum for the items of the Additions et corrections (addendum_to: the volume and page they correct), entry otherwise. All text is the OCR's, uncorrected.",
+  "join_rule": "none: no row is joined to Trismegistos, Pleiades, PNM or any other layer, and no id is asserted.",
+  "override_rule": "overrides.json {\"entries\": {id: {field: value, \"basis\": ...}}} fixes fields by id, each change kept in the row's corrections with its basis; a fixed transcription carries its key. The source facts (id, volume, page, pdf_page, raw_text ...) cannot be fixed.",
+  "page_check": {
+    "t1": {
+      "folio": {
+        "unread": 12,
+        "agree": 187,
+        "partial": 18,
+        "disagree": 2
+      },
+      "folio_disagreements_between_agreeing_neighbours": 2,
+      "folio_not_agreeing": [
+        {
+          "pdf_page": 14,
+          "side": "L",
+          "page": 14,
+          "folio_ocr": "1 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "side": "L",
+          "page": 24,
+          "folio_ocr": "2 ti",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "side": "L",
+          "page": 34,
+          "folio_ocr": "3 Li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "R",
+          "page": 41,
+          "folio_ocr": "lt 1",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "side": "R",
+          "page": 43,
+          "folio_ocr": "lt 3",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 29,
+          "side": "R",
+          "page": 45,
+          "folio_ocr": "li5",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 30,
+          "side": "R",
+          "page": 47,
+          "folio_ocr": "ft 7",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 39,
+          "side": "L",
+          "page": 64,
+          "folio_ocr": "6lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 51,
+          "side": "R",
+          "page": 89,
+          "folio_ocr": "7",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 59,
+          "side": "L",
+          "page": 104,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 64,
+          "side": "L",
+          "page": 114,
+          "folio_ocr": "11 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "L",
+          "page": 134,
+          "folio_ocr": "13 ft",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "L",
+          "page": 140,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "R",
+          "page": 141,
+          "folio_ocr": "1li1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 80,
+          "side": "L",
+          "page": 146,
+          "folio_ocr": "1 Li6",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 81,
+          "side": "L",
+          "page": 148,
+          "folio_ocr": "1li8",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 81,
+          "side": "R",
+          "page": 149,
+          "folio_ocr": "1 û9",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 84,
+          "side": "L",
+          "page": 154,
+          "folio_ocr": "15!1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 88,
+          "side": "R",
+          "page": 163,
+          "folio_ocr": "r63",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 99,
+          "side": "L",
+          "page": 184,
+          "folio_ocr": "18 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        }
+      ],
+      "signature": {
+        "agree": 7,
+        "partial": 1
+      },
+      "signature_not_agreeing": [
+        {
+          "pdf_page": 51,
+          "side": "R",
+          "page": 89,
+          "signature_ocr": "1~",
+          "check": "partial"
+        }
+      ]
+    },
+    "t2": {
+      "folio": {
+        "unread": 12,
+        "agree": 140,
+        "partial": 18,
+        "disagree": 3
+      },
+      "folio_disagreements_between_agreeing_neighbours": 3,
+      "folio_not_agreeing": [
+        {
+          "pdf_page": 9,
+          "side": "R",
+          "page": 11,
+          "folio_ocr": "1 'l",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "side": "L",
+          "page": 24,
+          "folio_ocr": "2lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "side": "L",
+          "page": 34,
+          "folio_ocr": "3li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "side": "L",
+          "page": 36,
+          "folio_ocr": "3 ()",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "side": "R",
+          "page": 41,
+          "folio_ocr": "lt1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 26,
+          "side": "R",
+          "page": 45,
+          "folio_ocr": "li 5",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "side": "L",
+          "page": 54,
+          "folio_ocr": "5 lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 36,
+          "side": "L",
+          "page": 64,
+          "folio_ocr": "6 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 51,
+          "side": "L",
+          "page": 94,
+          "folio_ocr": "9 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 56,
+          "side": "L",
+          "page": 104,
+          "folio_ocr": "10~",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 61,
+          "side": "L",
+          "page": 114,
+          "folio_ocr": ". 11 lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 71,
+          "side": "L",
+          "page": 134,
+          "folio_ocr": "136",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "L",
+          "page": 140,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "R",
+          "page": 141,
+          "folio_ocr": "1 li 1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "side": "L",
+          "page": 144,
+          "folio_ocr": "16!1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "side": "R",
+          "page": 145,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "disagree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "R",
+          "page": 147,
+          "folio_ocr": "16.7",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "R",
+          "page": 149,
+          "folio_ocr": "U9",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 81,
+          "side": "L",
+          "page": 154,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 84,
+          "side": "L",
+          "page": 160,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 88,
+          "side": "L",
+          "page": 168,
+          "folio_ocr": "i68",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        }
+      ],
+      "signature": {
+        "agree": 11,
+        "partial": 2,
+        "unread": 2
+      },
+      "signature_not_agreeing": [
+        {
+          "pdf_page": 48,
+          "side": "R",
+          "page": 89,
+          "signature_ocr": "1 ~",
+          "check": "partial"
+        },
+        {
+          "pdf_page": 52,
+          "side": "R",
+          "page": 97,
+          "signature_ocr": "t 3",
+          "check": "partial"
+        },
+        {
+          "pdf_page": 72,
+          "side": "R",
+          "page": 137,
+          "signature_ocr": "{.",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 80,
+          "side": "R",
+          "page": 153,
+          "signature_ocr": "~o",
+          "check": "unread"
+        }
+      ]
+    },
+    "t3": {
+      "folio": {
+        "unread": 8,
+        "agree": 113,
+        "partial": 29,
+        "disagree": 5
+      },
+      "folio_disagreements_between_agreeing_neighbours": 3,
+      "folio_not_agreeing": [
+        {
+          "pdf_page": 9,
+          "side": "R",
+          "page": 11,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "side": "L",
+          "page": 14,
+          "folio_ocr": "1 1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "side": "L",
+          "page": 24,
+          "folio_ocr": "2 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "side": "R",
+          "page": 31,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "side": "L",
+          "page": 40,
+          "folio_ocr": "60",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "disagree"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "side": "R",
+          "page": 41,
+          "folio_ocr": "61",
+          "check": "disagree",
+          "neighbours": [
+            "disagree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "side": "L",
+          "page": 42,
+          "folio_ocr": "li2",
+          "check": "partial",
+          "neighbours": [
+            "disagree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "side": "R",
+          "page": 43,
+          "folio_ocr": "a3",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "L",
+          "page": 46,
+          "folio_ocr": "li6",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "R",
+          "page": 47,
+          "folio_ocr": "!J 7",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "side": "L",
+          "page": 48,
+          "folio_ocr": "Li 8",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "side": "L",
+          "page": 54,
+          "folio_ocr": "5 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 36,
+          "side": "L",
+          "page": 64,
+          "folio_ocr": "6!i",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 37,
+          "side": "L",
+          "page": 66,
+          "folio_ocr": "G6",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 46,
+          "side": "L",
+          "page": 84,
+          "folio_ocr": "8/i",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 51,
+          "side": "L",
+          "page": 94,
+          "folio_ocr": "9 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 56,
+          "side": "L",
+          "page": 104,
+          "folio_ocr": "10 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 58,
+          "side": "R",
+          "page": 109,
+          "folio_ocr": "'I 09",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 60,
+          "side": "R",
+          "page": 113,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 61,
+          "side": "L",
+          "page": 114,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 64,
+          "side": "R",
+          "page": 121,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 66,
+          "side": "L",
+          "page": 124,
+          "folio_ocr": "12 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 69,
+          "side": "R",
+          "page": 131,
+          "folio_ocr": "1~1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 71,
+          "side": "L",
+          "page": 134,
+          "folio_ocr": "13 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "L",
+          "page": 140,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "R",
+          "page": 141,
+          "folio_ocr": "1Li1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "disagree"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "side": "L",
+          "page": 142,
+          "folio_ocr": "162",
+          "check": "disagree",
+          "neighbours": [
+            "partial",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "side": "R",
+          "page": 145,
+          "folio_ocr": "1~ 5",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "L",
+          "page": 146,
+          "folio_ocr": "l li6",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "R",
+          "page": 147,
+          "folio_ocr": "1li 7",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "L",
+          "page": 148,
+          "folio_ocr": "1li8",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "R",
+          "page": 149,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 80,
+          "side": "R",
+          "page": 153,
+          "folio_ocr": "2",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 81,
+          "side": "R",
+          "page": 155,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree"
+          ]
+        }
+      ],
+      "signature": {
+        "unread": 1,
+        "agree": 10,
+        "disagree": 2,
+        "partial": 1
+      },
+      "signature_not_agreeing": [
+        {
+          "pdf_page": 8,
+          "side": "R",
+          "page": 9,
+          "signature_ocr": "Il",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 36,
+          "side": "R",
+          "page": 65,
+          "signature_ocr": "1 1",
+          "check": "disagree"
+        },
+        {
+          "pdf_page": 68,
+          "side": "R",
+          "page": 129,
+          "signature_ocr": "1.",
+          "check": "partial"
+        },
+        {
+          "pdf_page": 76,
+          "side": "R",
+          "page": 145,
+          "signature_ocr": "1 19",
+          "check": "disagree"
+        }
+      ]
+    },
+    "t4": {
+      "folio": {
+        "unread": 7,
+        "agree": 183,
+        "partial": 30,
+        "disagree": 6
+      },
+      "folio_disagreements_between_agreeing_neighbours": 6,
+      "folio_not_agreeing": [
+        {
+          "pdf_page": 11,
+          "side": "L",
+          "page": 14,
+          "folio_ocr": "1 lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "side": "L",
+          "page": 24,
+          "folio_ocr": "2li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "side": "R",
+          "page": 33,
+          "folio_ocr": ": 1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "side": "L",
+          "page": 34,
+          "folio_ocr": "3 !t",
+          "check": "partial",
+          "neighbours": [
+            "disagree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "side": "R",
+          "page": 41,
+          "folio_ocr": "lt 1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "side": "R",
+          "page": 43,
+          "folio_ocr": "! \" 1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "L",
+          "page": 46,
+          "folio_ocr": "lt6",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "R",
+          "page": 47,
+          "folio_ocr": "lt 7",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "side": "L",
+          "page": 48,
+          "folio_ocr": "Li 8",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "side": "R",
+          "page": 49,
+          "folio_ocr": "a 9",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "side": "L",
+          "page": 54,
+          "folio_ocr": "5 lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 32,
+          "side": "L",
+          "page": 56,
+          "folio_ocr": "1-",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 41,
+          "side": "L",
+          "page": 74,
+          "folio_ocr": "7",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 46,
+          "side": "L",
+          "page": 84,
+          "folio_ocr": "86",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 51,
+          "side": "L",
+          "page": 94,
+          "folio_ocr": "9 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 61,
+          "side": "L",
+          "page": 114,
+          "folio_ocr": "11 lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 63,
+          "side": "R",
+          "page": 119,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 66,
+          "side": "L",
+          "page": 124,
+          "folio_ocr": "12û",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "L",
+          "page": 140,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "R",
+          "page": 141,
+          "folio_ocr": "1lt 1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "side": "L",
+          "page": 142,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "side": "R",
+          "page": 143,
+          "folio_ocr": "1li3",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "side": "L",
+          "page": 144,
+          "folio_ocr": "1 li li",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "side": "R",
+          "page": 145,
+          "folio_ocr": "1li5",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "L",
+          "page": 146,
+          "folio_ocr": "U6",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "disagree"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "R",
+          "page": 147,
+          "folio_ocr": ",0",
+          "check": "disagree",
+          "neighbours": [
+            "partial",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "R",
+          "page": 149,
+          "folio_ocr": "1li9",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 81,
+          "side": "L",
+          "page": 154,
+          "folio_ocr": "1 5 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 82,
+          "side": "L",
+          "page": 156,
+          "folio_ocr": "t56",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 86,
+          "side": "L",
+          "page": 164,
+          "folio_ocr": "16lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 91,
+          "side": "L",
+          "page": 174,
+          "folio_ocr": "'17 lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 94,
+          "side": "R",
+          "page": 181,
+          "folio_ocr": "J 81",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 96,
+          "side": "L",
+          "page": 184,
+          "folio_ocr": "18li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 101,
+          "side": "L",
+          "page": 194,
+          "folio_ocr": "19Li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 115,
+          "side": "L",
+          "page": 222,
+          "folio_ocr": "0",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 116,
+          "side": "L",
+          "page": 224,
+          "folio_ocr": "22li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        }
+      ],
+      "signature": {
+        "unread": 5,
+        "agree": 10
+      },
+      "signature_not_agreeing": [
+        {
+          "pdf_page": 8,
+          "side": "R",
+          "page": 9,
+          "signature_ocr": "W o",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 48,
+          "side": "R",
+          "page": 89,
+          "signature_ocr": "V.",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 68,
+          "side": "R",
+          "page": 129,
+          "signature_ocr": "V.",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 72,
+          "side": "R",
+          "page": 137,
+          "signature_ocr": "d",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 104,
+          "side": "R",
+          "page": 201,
+          "signature_ocr": "V.",
+          "check": "unread"
+        }
+      ]
+    },
+    "t5": {
+      "folio": {
+        "unread": 11,
+        "agree": 192,
+        "disagree": 10,
+        "partial": 22
+      },
+      "folio_disagreements_between_agreeing_neighbours": 10,
+      "folio_not_agreeing": [
+        {
+          "pdf_page": 7,
+          "side": "R",
+          "page": 7,
+          "folio_ocr": "1 .",
+          "check": "disagree",
+          "neighbours": [
+            "unread",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "side": "R",
+          "page": 17,
+          "folio_ocr": "f1f :~",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "side": "L",
+          "page": 34,
+          "folio_ocr": "3lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "disagree"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "side": "R",
+          "page": 35,
+          "folio_ocr": "1",
+          "check": "disagree",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "side": "L",
+          "page": 42,
+          "folio_ocr": "s 1 --1",
+          "check": "disagree",
+          "neighbours": [
+            "unread",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "side": "R",
+          "page": 43,
+          "folio_ocr": "li 3",
+          "check": "partial",
+          "neighbours": [
+            "disagree",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 26,
+          "side": "R",
+          "page": 45,
+          "folio_ocr": "1",
+          "check": "disagree",
+          "neighbours": [
+            "unread",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "L",
+          "page": 46,
+          "folio_ocr": "li 6",
+          "check": "partial",
+          "neighbours": [
+            "disagree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "R",
+          "page": 47,
+          "folio_ocr": "li 7",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "side": "R",
+          "page": 49,
+          "folio_ocr": "1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 29,
+          "side": "R",
+          "page": 51,
+          "folio_ocr": "5 l",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "side": "L",
+          "page": 54,
+          "folio_ocr": "5 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 32,
+          "side": "R",
+          "page": 57,
+          "folio_ocr": "fi 7",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 36,
+          "side": "R",
+          "page": 65,
+          "folio_ocr": "1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 37,
+          "side": "R",
+          "page": 67,
+          "folio_ocr": "I! 11",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 41,
+          "side": "R",
+          "page": 75,
+          "folio_ocr": "1",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 56,
+          "side": "L",
+          "page": 104,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 61,
+          "side": "L",
+          "page": 114,
+          "folio_ocr": "1U",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 66,
+          "side": "L",
+          "page": 124,
+          "folio_ocr": "12lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "L",
+          "page": 140,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "side": "L",
+          "page": 142,
+          "folio_ocr": "1 Li2",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "side": "R",
+          "page": 143,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "L",
+          "page": 146,
+          "folio_ocr": "1 lt6",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "R",
+          "page": 147,
+          "folio_ocr": "1li7",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "L",
+          "page": 148,
+          "folio_ocr": "1!i8",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "R",
+          "page": 149,
+          "folio_ocr": "1!i9",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 86,
+          "side": "L",
+          "page": 164,
+          "folio_ocr": "166",
+          "check": "disagree",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 91,
+          "side": "L",
+          "page": 174,
+          "folio_ocr": "1 7 !t",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 96,
+          "side": "L",
+          "page": 184,
+          "folio_ocr": "18ü",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 106,
+          "side": "L",
+          "page": 204,
+          "folio_ocr": "20lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 116,
+          "side": "L",
+          "page": 224,
+          "folio_ocr": "2211",
+          "check": "disagree",
+          "neighbours": [
+            "unread",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 121,
+          "side": "L",
+          "page": 234,
+          "folio_ocr": "23li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        }
+      ],
+      "signature": {
+        "agree": 8,
+        "unread": 3
+      },
+      "signature_not_agreeing": [
+        {
+          "pdf_page": 16,
+          "side": "R",
+          "page": 25,
+          "signature_ocr": "(",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 68,
+          "side": "R",
+          "page": 129,
+          "signature_ocr": "- .",
+          "check": "unread"
+        },
+        {
+          "pdf_page": 112,
+          "side": "R",
+          "page": 217,
+          "signature_ocr": "~s",
+          "check": "unread"
+        }
+      ]
+    },
+    "t6": {
+      "folio": {
+        "unread": 17,
+        "agree": 113,
+        "partial": 25,
+        "disagree": 2
+      },
+      "folio_disagreements_between_agreeing_neighbours": 2,
+      "folio_not_agreeing": [
+        {
+          "pdf_page": 16,
+          "side": "L",
+          "page": 24,
+          "folio_ocr": "2 lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "side": "L",
+          "page": 26,
+          "folio_ocr": "2G",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "side": "R",
+          "page": 43,
+          "folio_ocr": "11.",
+          "check": "disagree",
+          "neighbours": [
+            "unread",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 26,
+          "side": "R",
+          "page": 45,
+          "folio_ocr": "li 5",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "L",
+          "page": 46,
+          "folio_ocr": "A6",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "side": "R",
+          "page": 47,
+          "folio_ocr": "Li7",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "side": "L",
+          "page": 48,
+          "folio_ocr": "li 8",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "unread"
+          ]
+        },
+        {
+          "pdf_page": 30,
+          "side": "R",
+          "page": 53,
+          "folio_ocr": "5•; ;)",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "side": "L",
+          "page": 54,
+          "folio_ocr": "5 li",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 36,
+          "side": "L",
+          "page": 64,
+          "folio_ocr": "6 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 41,
+          "side": "L",
+          "page": 74,
+          "folio_ocr": "7 !i",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 56,
+          "side": "L",
+          "page": 104,
+          "folio_ocr": "10 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 57,
+          "side": "L",
+          "page": 106,
+          "folio_ocr": "}06",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 61,
+          "side": "L",
+          "page": 114,
+          "folio_ocr": "11 !t",
+          "check": "partial",
+          "neighbours": [
+            "unread",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 65,
+          "side": "L",
+          "page": 122,
+          "folio_ocr": "1 ,.",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 66,
+          "side": "L",
+          "page": 124,
+          "folio_ocr": "12 li",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 71,
+          "side": "L",
+          "page": 134,
+          "folio_ocr": "13 Lt",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "side": "R",
+          "page": 141,
+          "folio_ocr": "1!11",
+          "check": "disagree",
+          "neighbours": [
+            "unread",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "side": "L",
+          "page": 142,
+          "folio_ocr": "1li2",
+          "check": "partial",
+          "neighbours": [
+            "disagree",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "side": "R",
+          "page": 143,
+          "folio_ocr": "1ll3",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "side": "L",
+          "page": 144,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "side": "R",
+          "page": 145,
+          "folio_ocr": "1",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "L",
+          "page": 146,
+          "folio_ocr": "1Li6",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "side": "R",
+          "page": 147,
+          "folio_ocr": "1lt7",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "L",
+          "page": 148,
+          "folio_ocr": "1 Li8",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "partial"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "side": "R",
+          "page": 149,
+          "folio_ocr": "1!i9",
+          "check": "partial",
+          "neighbours": [
+            "partial",
+            "agree"
+          ]
+        },
+        {
+          "pdf_page": 81,
+          "side": "L",
+          "page": 154,
+          "folio_ocr": "15a",
+          "check": "partial",
+          "neighbours": [
+            "agree",
+            "agree"
+          ]
+        }
+      ],
+      "signature": {
+        "agree": 9
+      },
+      "signature_not_agreeing": []
+    }
+  },
+  "counts": {
+    "entries": 7497,
+    "by_volume": {
+      "t1": 1461,
+      "t2": 1055,
+      "t3": 1022,
+      "t4": 1477,
+      "t5": 1470,
+      "t6": 1012
+    },
+    "by_kind": {
+      "entry": 6416,
+      "cross_reference": 207,
+      "addendum": 874
+    },
+    "flags": {
+      "headword_capitalised": 171,
+      "headword_glued_strays_stripped": 203,
+      "headword_not_found": 234,
+      "headword_unbalanced_parens": 228,
+      "margin_row_continued": 1048,
+      "no_dash_after_head": 359,
+      "no_source_citation": 735,
+      "short_entry": 23,
+      "start_near_indent": 222
+    },
+    "rows_flagged": 2625,
+    "with_transcription": 6418,
+    "with_gloss": 3755,
+    "with_citation": 5999,
+    "with_identification_text": 2386,
+    "with_nome": 1037,
+    "with_variants": 2199,
+    "corrected": 0
+  },
+  "outputs": {
+    "entries.jsonl": {
+      "rows": 7497,
+      "sha256": "0c62e5eda903a12cde54a85450301e7ac2966f91a396f6bb38d251898c2a0068"
+    }
+  },
+  "export": {
+    "rows": "each row as the private build wrote it, without source_id",
+    "manifest": "private catalogue ids, local paths (a path is given as its file name) and build-trail keys removed; outputs rehashed",
+    "not_shipped": []
+  }
+}

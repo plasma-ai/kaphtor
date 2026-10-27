@@ -4,14 +4,14 @@ title: Data
 desc: The datasets, each with a datasheet or manifest naming its licence, grouped by licence and subject.
 tags: [data]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:32:09Z
+updated: 2026-10-27T17:22:41Z
 ---
 
 # Data
 
 [[_index|..]]
 
-[[data/ane/_index|ane/]]: Open-licence ANE datasets: the Akkadian literary glossary, PNM v6 and place authorities.
+[[data/ane/_index|ane/]]: Open-licence and public-domain ANE datasets: the Akkadian literary glossary, PNM v6, Prosopographia Memphitica, Gauthier's DNG, the Kassite name concordances and place authorities.
 
 [[data/contact/_index|contact/]]: The open Semitic contact lexica that the root index links to the Proto-Semitic roots: Hebrew, Aramaic, Amarna Canaanite, Syriac and Akkadian, each with a datasheet.
 

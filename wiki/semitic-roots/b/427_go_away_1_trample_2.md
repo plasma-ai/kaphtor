@@ -30,9 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | bêsu 1 |  |  |
-| Hebrew | bwš 2 |  |  |
+| Akkadian | bêšu 1 (CAD B 214) | CAD B 214 | gloss withheld |
+| Hebrew | bûs 2 (HALOT 115) | HALOT 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+HSED 237 prints Hebrew bwš; the verb 'to tread down' is bûs (HALOT 115), with s against Akkadian š.
 
 <!-- END kaphtor:record -->

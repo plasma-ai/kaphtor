@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | nässa (LGz. 404) | LGz. 404 |  |
 | Harari | näsaʾa (LGz. 404) | LGz. 404 | gloss withheld |
 | Gurage | nässa (LGz. 404) | LGz. 404 | gloss withheld |
-| Amorite | nśʾ: jaśśiʾ, naśūʾum (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
+| Amorite | nśʾ: jaśśiʾ, naśūʾum (Gelb AS 21, 27); naśīʾu, nāśiʾ, yaśśiʾ (Buck 2019, 330) | Gelb AS 21 27; Buck 2019, 330 | gloss withheld |
 | Punic | nšʾ, nʾšʾ (T 222) | T 222 | gloss withheld |
 | Eblaitic | na-si-NI /nāśiʔ(i/u)/, in a-na-a na-si-NI (VE 723; Krebernik 1983, 27–28) | VE 723; Krebernik 1983, 27–28 | gloss withheld |
 

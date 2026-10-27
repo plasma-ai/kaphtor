@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/K0438_inherit
 title: "*wVrVṯ-: 'inherit'"
-desc: "Proto-Semitic *wVrVṯ-, 'inherit': reflexes in 19 language(s)."
+desc: "Proto-Semitic *wVrVṯ-, 'inherit': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0438"
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | wīrəṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015 ch. 2 §4.2 no. 66 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic wrṯ (Al-Jallad–Jaworska 141) | Al-Jallad–Jaworska 141 | gloss withheld |
 | Judaic Aramaic | yrt (HALOT 441) | HALOT 441 |  |
+| Emar | PI-ra-ša /w/yarrā̆θu/ (Pentiuc 2001, 139–140); tu-ri-iš, tù-ur-ša /turiθ/, /turθā/ (Pentiuc 2001, 183) | Pentiuc 2001 139–140; Pentiuc 2001 183 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

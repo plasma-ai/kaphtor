@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before \*323-\*317 1, with no logogram of its own (GORILA I 157). The writing board BM EA 5647 heads seven names 'making names of Crete' (jr.t rn.w n\[y.w\] kftjw); the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais & Gabolde 2025, 9, 14, Table 2 p. 15). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet that has di-du-me on .3, the name the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). No etymology is adopted here. The final vowel differs from Linear B (a against i). Two signs; one attestation.
+HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before \*323-\*317 1, with no logogram of its own (GORILA I 157). The writing board BM EA 5647 heads seven names 'making names of Crete' (jr.t rn.w n\[y.w\] kftjw); the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais & Gabolde 2025, 9, 14, Table 2 p. 15). The editors take rw-sȝ as Greek Lysis, Linear B ru-si; Schneider as a short Egyptian name, rw-zA (Louvre E 5608) (ibid., 14 nn. 87–88). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet that has di-du-me on .3, the name the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). No etymology is adopted here. The final vowel differs from Linear B (a against i). Cf. the Urartian royal name Rusa, 8th c. BCE (RINAP 2, Sargon II 001). Two signs; one attestation.
 
 ### Source
 

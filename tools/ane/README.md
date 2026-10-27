@@ -15,7 +15,7 @@ The remote clients fetch one bounded page per call, cache it, and send a project
 | `query_idai_gazetteer.py` | Bounded, cached lookup in the public iDAI.gazetteer API | remote |
 | `query_place_authorities.py` | Pleiades and Trismegistos place records (iDAI records are not shipped) | local |
 | `query_portal_common.py` | Shared safeguards for the remote clients | — |
-| `query_proper_names.py` | ORACC and PNM proper-name layers | local |
+| `query_proper_names.py` | ORACC, PNM, Prosopographia Memphitica, TLA v18, Gauthier DNG and Kassite concordance proper-name layers | local |
 | `query_rsti.py` | One public RSTI/OCHRE UUID response | remote |
 
 Each remote client caches its responses under the user cache, `$XDG_CACHE_HOME/kaphtor/<portal>/` (else

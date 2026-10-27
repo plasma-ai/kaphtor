@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥgl \[-i-, -u-\] |  |  |
+| Arabic | ḥgl \[-i-, -u-\]: ḥajala 'he raised one leg, and hopped on the other; he leaped in going' (Lane 520) | Lane 520 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

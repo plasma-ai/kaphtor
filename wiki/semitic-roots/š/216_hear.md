@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/216_hear
 title: "*šVmaʕ-: 'hear'"
-desc: "Proto-Semitic *šVmaʕ-, 'hear': reflexes in 26 language(s)."
+desc: "Proto-Semitic *šVmaʕ-, 'hear': reflexes in 27 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "216"
@@ -56,6 +56,7 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Sel. säma (EDG 545 apud SEDonline 26) | EDG 545; SEDonline 26 | gloss withheld |
 | Eblaitic | sa-ma-um /šamāʕum/ (VE 393, Kogan–Krebernik 2021b: 683 apud SEDonline 26; Krebernik 1983, 15) | VE 393, Kogan–Krebernik 2021b: 683; SEDonline 26; Krebernik 1983, 15 | gloss withheld |
 | Jibbali | šĩʕ (JL 262 apud SEDonline 26) | JL 262; SEDonline 26 | gloss withheld |
+| Amorite | šamaʿ, yašmaʿ/yišmaʿ (Buck 2019, 332–333) | Buck 2019, 332–333 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

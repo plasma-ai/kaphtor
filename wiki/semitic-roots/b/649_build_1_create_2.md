@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | bené 1 |  |  |
 | Hebrew | bny 1 |  |  |
 | Epigraphic South Arabian | bny 1; Sab bny (SD 29, 30; Biella 48; Sabaweb lemma 3947) | SD 29, 30; Biella 48; Sabaweb lemma 3947 | gloss withheld |
-| Amorite | bny 1 |  |  |
+| Amorite | bny 1; yabnî, yibnî, yabannî (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
 | Aramaic | bny 1 OAram bny, Aram (Emp, Nab) bnh, bnʔ, (Palm) bnʔ 1 (DNWSI 173 apud CAL) | DNWSI 173; CAL |  |
 | Punic | bnʾ, bʿn, bʾn (T 49) | T 49 | gloss withheld |
 | Syrian Aramaic | bnā 'build; edify, restore, exhort' (Payne Smith 48) | Payne Smith 48 |  |

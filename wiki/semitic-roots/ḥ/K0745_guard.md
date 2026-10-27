@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0745_guard
 title: "*ḥVrVz-: 'guard'"
-desc: "Proto-Semitic *ḥVrVz-, 'guard': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḥVrVz-, 'guard': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0745"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ḥaraza 'he kept, preserved, or guarded (it)'; ḥirz 'a place of custody or protection; an amulet' (Lane 545) | Lane 545 |  |
 | Punic | ḥrz 'protection' | Anderson–Moser 2024 root ḥrz |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

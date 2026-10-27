@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/h
 desc: "Semitic roots whose first radical is h."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/h
@@ -37,7 +37,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/h/1548_rob_take_by_force|1548_rob_take_by_force]]: Proto-Semitic *hVyVd-, 'rob, take by force': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/h/1550_wish_n_1_want_2|1550_wish_n_1_want_2]]: Proto-Semitic *hVw-, 'wish' (n.) 1, 'want' 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/h/1550_wish_n_1_want_2|1550_wish_n_1_want_2]]: Proto-Semitic *hVw-, 'wish' (n.) 1, 'want' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/h/1551_new_moon|1551_new_moon]]: Proto-Semitic *hilāl-, 'new moon': reflexes in 5 language(s).
 
@@ -109,7 +109,11 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/h/3564_shower_lasting_rain|3564_shower_lasting_rain]]: Proto-Semitic *hḍb, 'shower, lasting rain': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/h/3650_to_mutter_to_read_aloud_spell_out_to_meditate|3650_to_mutter_to_read_aloud_spell_out_to_meditate]]: Proto-Semitic *hgy, 'to mutter; to read aloud, spell out; to meditate': reflexes in 4 language(s).
+[[wiki/semitic-roots/h/3650_to_mutter_to_read_aloud_spell_out_to_meditate|3650_to_mutter_to_read_aloud_spell_out_to_meditate]]: Proto-Semitic *hgy, 'to mutter; to read aloud, spell out; to meditate': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/h/3722_lo_behold_presentative|3722_lo_behold_presentative]]: Proto-Semitic *hā, 'lo!, behold! (presentative)': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/h/3724_they_two_3rd_person_dual_pronoun|3724_they_two_3rd_person_dual_pronoun]]: Proto-Semitic *hm, 'they two (3rd person dual pronoun)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/h/453_go_ahead_in_awe|453_go_ahead_in_awe]]: Proto-Semitic *hVṭaʕ-, 'go ahead in awe': reflexes in 1 language(s).
 
@@ -143,7 +147,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/h/K0083_overturn|K0083_overturn]]: Proto-Semitic *hapak-, 'overturn': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/h/K0084_mountain|K0084_mountain]]: Proto-Semitic *har-, 'mountain': reflexes in 5 language(s).
+[[wiki/semitic-roots/h/K0084_mountain|K0084_mountain]]: Proto-Semitic *har-, 'mountain': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/h/K0085_matter|K0085_matter]]: Proto-Semitic *hVwVt-, 'matter': reflexes in 2 language(s).
 

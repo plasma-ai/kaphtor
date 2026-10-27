@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T03:07:18Z
+updated: 2026-10-27T19:16:09Z
 ---
 
 # wiki/linear-a/words/A
@@ -231,7 +231,7 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/words/A/A_TA_star350|A_TA_star350]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_TI_KA|A_TI_KA]]: Atika: personal name; compare Linear B a-ti-ka. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_TI_KA|A_TI_KA]]: ʿAtīqa: personal name, 'enduring'; compare Linear B a-ti-ka. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_TI_RU|A_TI_RU]]: ʿAttiru: ʿAttiru (divine name ʿAṯtar, assimilated—or theophoric ʿAttirī 'man of ʿAṯtar'). Lexicon, SPECULATIVE (tier 1).
 

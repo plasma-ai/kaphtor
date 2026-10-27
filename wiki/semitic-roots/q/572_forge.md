@@ -35,4 +35,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Biella 454 derives Sab qyn 'administrator of a god or king; governor' from the root of Arabic qayn 'smith'.
+
 <!-- END kaphtor:record -->

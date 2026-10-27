@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/SA093_to_suffice_be_abundant_in_abundance
 title: "*śpḳ: 'to suffice, be abundant; in abundance'"
-desc: "Epigraphic South Arabian headword *śpḳ, 'to suffice, be abundant; in abundance': reflexes in 6 language(s)."
+desc: "Epigraphic South Arabian headword *śpḳ, 'to suffice, be abundant; in abundance': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA093"
@@ -33,8 +33,9 @@ updated: 2026-10-25T05:11:48Z
 | Hebrew | śāpaq (Biella 522); säpäḳ (HALOT 765 apud SEDonline 2160); ŝpḳ (HALOT 1349 apud SEDonline 2160) | Biella 522; HALOT 765; SEDonline 2160; HALOT 1349 | gloss withheld |
 | Judaic Aramaic | JPA spḳ (DJPA 386 apud SEDonline 2160); JBA spḳ (DJBA 827 apud SEDonline 2160) | DJPA 386; SEDonline 2160; DJBA 827 | gloss withheld |
 | Syrian Aramaic | spḳ (LSyr. 491 apud SEDonline 2160) | LSyr. 491; SEDonline 2160 | gloss withheld |
-| Geez | safaḳa (CDG 488 apud SEDonline 2160) | CDG 488; SEDonline 2160 | gloss withheld |
 | Tigre | šafḳa (WTS 231 apud SEDonline 2160) | WTS 231; SEDonline 2160 | gloss withheld |
+| Amorite | śipqu (Buck 2019, 332) | Buck 2019, 332 | gloss withheld |
+| Emar | sa-pí-qu /sapiqū/ (Pentiuc 2001, 155) | Pentiuc 2001 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/949_be_weak
 title: "*ḫa/uwar-: 'be weak'"
-desc: "Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "949"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḥawära (LGz. 269) | LGz. 269 | gloss withheld |
 | Jibbali | ḫɛ́rín (Kogan 2015, ch. 8 §3.4.1 no. 51) | Kogan 2015 ch. 8 §3.4.1 no. 51 | gloss withheld |
 | Soqotri | ḥarə́rhɛn (Kogan 2015, ch. 8 §3.4.1 no. 51) | Kogan 2015 ch. 8 §3.4.1 no. 51 | gloss withheld |
+| Emar | ḫur-ḫu-ru /ḫurḫuru/ (Pentiuc 2001, 80) | Pentiuc 2001 80 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

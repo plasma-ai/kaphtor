@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2315_beans_1_corn_grain_2
 title: "*dVng(ʷ)- 1 ~ *dagan- 2: 'beans' 1, 'corn, grain' 2"
-desc: "Proto-Semitic *dVng(ʷ)- 1 ~ *dagan- 2, 'beans' 1, 'corn, grain' 2: reflexes in 6 language(s)."
+desc: "Proto-Semitic *dVng(ʷ)- 1 ~ *dagan- 2, 'beans' 1, 'corn, grain' 2: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2315"
@@ -36,6 +36,7 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | dāgān (HALOT 214) | HALOT 214 | gloss withheld |
 | Aramaic | Arm.-Eg. dgn (HALOT 214) | HALOT 214 | gloss withheld |
 | Judaic Aramaic | degānaʾ (T 70) | T 70 |  |
+| Emar | da-ag-⸢na⸣-\[ti\] /dagnā̆(tu)/ (Pentiuc 2001, 43) | Pentiuc 2001 43 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T11:58:00Z
+updated: 2026-10-27T21:51:03Z
 ---
 
 # wiki/linear-a/words/D
@@ -63,7 +63,7 @@ updated: 2026-10-27T11:58:00Z
 
 [[wiki/linear-a/words/D/DA_RU_NE_TE|DA_RU_NE_TE]]: Dāru-ʿAnēt: Dwelling/endurance of Anat (theophoric compound PN: √DWR + goddess ʿAnatu); rivals Egyptian Neith (Nt) as the second element, a simplex feminine name. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_RU_star329|DA_RU_star329]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_RU_star329|DA_RU_star329]]: Dārum: personal name, 'Eternal'; rival Arabic Dārim. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_SE_RA_TE|DA_SE_RA_TE]]: Dašurat: Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old'). Lexicon, SPECULATIVE (tier 1).
 
@@ -150,8 +150,6 @@ updated: 2026-10-27T11:58:00Z
 [[wiki/linear-a/words/D/DU_MA_I_NA|DU_MA_I_NA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DU_ME_DI|DU_ME_DI]]: Dūmatī: Dūmatī (personal name—'the Enduring One', √dwm hypocoristic). Lexicon, CANDIDATE (tier 2).
-
-[[wiki/linear-a/words/D/DU_MI_TA_TI_RA2|DU_MI_TA_TI_RA2]]: Onomasticon personal name, no reading.
 
 [[wiki/linear-a/words/D/DU_NE_MI|DU_NE_MI]]: Unread (unread): no role; 1 occurrence(s).
 

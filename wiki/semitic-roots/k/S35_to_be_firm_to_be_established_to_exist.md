@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | SAB kwn (SD 80; Sabaweb lemma 1431). | SD 80; Sabaweb lemma 1431 | gloss withheld |
 | Judaic Aramaic | kūn Pa. "to direct, aim"; pass. part. "straight, firm, upright" (Ja. 622). | Ja. 622 |  |
 | Punic | Neo-Punic kn (Krahmalkov 235) | Krahmalkov 235 | gloss withheld |
-| Amorite | Ia-ki-in- (OLA80 §44.13) | OLA80 §44.13 | gloss withheld |
+| Amorite | Ia-ki-in- (OLA80 §44.13); kīn, mêkīnum, kāna, kūn, yakūn, yikūn, takūn (Buck 2019, 328) | OLA80 §44.13; Buck 2019, 328 | gloss withheld |
 | Geez | Geʿez kona (ኮነ) Causative ʾakvana (LGz. 288–289). | LGz. 288–289 | gloss withheld |
 | Amharic | honä (LGz. 288–289) | LGz. 288–289 | gloss withheld |
 | Mandaic Aramaic | kan (LGz. 300) | LGz. 300 |  |

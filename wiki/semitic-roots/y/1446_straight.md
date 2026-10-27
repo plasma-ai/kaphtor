@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | yāšar |  |  |
 | Aramaic | yašrā |  |  |
 | Epigraphic South Arabian | Sab ysr (Biella 232, 233; Sabaweb lemmas 1616, 2567) | Biella 232, 233; Sabaweb lemmas 1616, 2567 | gloss withheld |
-| Amorite | jśr: jīśar, jaśar, jaśarum, jiśarum (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |
+| Amorite | jśr: jīśar, jaśar, jaśarum, jiśarum (Gelb AS 21, 22); yašar, yatašrim, mêšarum, yîšar (Buck 2019, 334) | Gelb AS 21 22; Buck 2019, 334 | gloss withheld |
 | Eblaitic | i-sa-lum /yišarum/ (VE 1119, Kogan–Krebernik 2021b: 683 apud SEDonline 1853; Krebernik 1983, 39) | VE 1119, Kogan–Krebernik 2021b: 683; SEDonline 1853; Krebernik 1983, 39 | gloss withheld |
 | Punic | yšr; Neo-Punic myšr (T 131) | T 131; Anderson–Moser 2024 root wšr | gloss withheld |
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T18:14:10Z
 
 [[docs/corpora/egyptian-corpora|egyptian-corpora]]: Acquisition routes, file formats and gaps for the Egyptian texts layer, built on the open ORAEC/TLA corpus, with the texts that name Keftiu or the Levant.
 
-[[docs/corpora/proper-name-and-place-authorities|proper-name-and-place-authorities]]: ORACC QPN, PNM v6, the Egyptian foreign-name witnesses and the place authorities, and why a place match identifies a place but never counts as linguistic evidence.
+[[docs/corpora/proper-name-and-place-authorities|proper-name-and-place-authorities]]: ORACC QPN, PNM v6, Prosopographia Memphitica, the TLA v18 names, Gauthier's DNG, the Kassite name concordances, the Egyptian foreign-name witnesses and the place authorities, and why a place match identifies a place but never counts as linguistic evidence.
 
 [[docs/corpora/query-notation|query-notation]]: How a typed root or form is read and spelled in each view's own transliteration, and how a matched row reports the basis of its match.
 

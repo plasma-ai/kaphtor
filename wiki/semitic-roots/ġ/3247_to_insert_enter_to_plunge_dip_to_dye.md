@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*ɣll 'to insert; to immerse' (SEDonline 195). Hbr. ʕll is poetic. Cf. 2588 \*ɣVlVl- 'mist', 1076 \*ʕVlVl- 'do, be occupied', 3314 \*ɣull- 'yoke, collar'.
+PWS \*ɣll 'to insert; to immerse' (SEDonline 195). Hbr. ʕll is poetic. Cf. 2588 \*ɣVlVl- 'mist', 1076 \*ʕVlVl- 'do, be occupied', 3314 \*ɣull- 'yoke, collar'. 3736 \*ɣll 'rancour, malice' holds Lane's other signification of ġll.
 
 <!-- END kaphtor:record -->

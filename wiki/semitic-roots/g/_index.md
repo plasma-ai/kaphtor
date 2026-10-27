@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/g
 desc: "Semitic roots whose first radical is g."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/g
@@ -21,7 +21,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/g/1034_skin_v|1034_skin_v]]: Proto-Semitic *gVḥaš-, 'skin (v.)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1044_mountain_1_boundary_border_2|1044_mountain_1_boundary_border_2]]: Proto-Semitic *gVbVl-, 'mountain' 1, 'boundary, border' 2: reflexes in 7 language(s).
+[[wiki/semitic-roots/g/1044_mountain_1_boundary_border_2|1044_mountain_1_boundary_border_2]]: Proto-Semitic *gVbVl-, 'mountain' 1, 'boundary, border' 2: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/g/1056_raid_v|1056_raid_v]]: Proto-Semitic *gVwVr-, 'raid (v.)': reflexes in 1 language(s).
 
@@ -61,7 +61,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/g/1379_soil_ground|1379_soil_ground]]: Proto-Semitic *gad-, 'soil, ground': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1380_bowl|1380_bowl]]: Proto-Semitic *gull-, 'bowl': reflexes in 3 language(s).
+[[wiki/semitic-roots/g/1380_bowl|1380_bowl]]: Proto-Semitic *gull-, 'bowl': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/1381_hot_ash|1381_hot_ash]]: Proto-Semitic *gurār-, 'hot ash': reflexes in 1 language(s).
 
@@ -319,7 +319,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/g/3114_to_be_dazzled_short_sighted|3114_to_be_dazzled_short_sighted]]: Proto-Semitic *ghr, 'to be dazzled, short-sighted': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/g/3135_to_enclose_protect_shelter|3135_to_enclose_protect_shelter]]: Proto-Semitic *gnn, 'to enclose, protect, shelter': reflexes in 11 language(s).
+[[wiki/semitic-roots/g/3135_to_enclose_protect_shelter|3135_to_enclose_protect_shelter]]: Proto-Semitic *gnn, 'to enclose, protect, shelter': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/g/3153_to_return_to_enter|3153_to_return_to_enter]]: Proto-Semitic *gbʔ, 'to return; to enter': reflexes in 8 language(s).
 
@@ -327,15 +327,15 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/g/3234_to_scrape_off_shave|3234_to_scrape_off_shave]]: Proto-Semitic *grd, 'to scrape off, shave': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/g/3242_threshing_floor|3242_threshing_floor]]: Proto-Semitic *gurn-, 'threshing floor': reflexes in 5 language(s).
+[[wiki/semitic-roots/g/3242_threshing_floor|3242_threshing_floor]]: Proto-Semitic *gurn-, 'threshing floor': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune|3243_to_be_lucky_fortunate_luck_fortune]]: Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 9 language(s).
+[[wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune|3243_to_be_lucky_fortunate_luck_fortune]]: Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/g/3267_to_gather_fruit_garden_crop|3267_to_gather_fruit_garden_crop]]: Proto-Semitic *gny, 'to gather fruit; garden crop': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/3310_valley_depression|3310_valley_depression]]: Proto-Semitic *gVy-, 'valley, depression': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/g/3333_people|3333_people]]: Proto-Semitic *gaw-, 'people': reflexes in 3 language(s).
+[[wiki/semitic-roots/g/3333_people|3333_people]]: Proto-Semitic *gaw-, 'people': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/3351_to_fall|3351_to_fall]]: Proto-Semitic *gʕr, 'to fall': reflexes in 3 language(s).
 
@@ -366,6 +366,16 @@ updated: 2026-10-26T20:01:24Z
 [[wiki/semitic-roots/g/3613_to_give_a_gift_gift|3613_to_give_a_gift_gift]]: Proto-Semitic *gdw, 'to give a gift; gift': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/g/3683_live_coal_burning_coal|3683_live_coal_burning_coal]]: Proto-Semitic *gmr, 'live coal, burning coal': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3720_generation_age_group_people|3720_generation_age_group_people]]: Proto-Semitic *gīl-, 'generation, age-group; people': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3721_to_provoke_stir_up_strife_to_be_hostile|3721_to_provoke_stir_up_strife_to_be_hostile]]: Proto-Semitic *gry, 'to provoke, stir up strife; to be hostile': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3750_to_be_manifest_appear|3750_to_be_manifest_appear]]: Proto-Semitic *ghd, 'to be manifest, appear': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3765_inside_interior_midst|3765_inside_interior_midst]]: Proto-Semitic *gaw(w)-, 'inside, interior, midst': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3767_cud_to_chew_the_cud|3767_cud_to_chew_the_cud]]: Proto-Semitic *girrat-, 'cud; to chew the cud': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/392_jubba_kind_of_clothes|392_jubba_kind_of_clothes]]: Proto-Semitic *gubb-, 'jubba, kind of clothes': reflexes in 2 language(s).
 
@@ -415,7 +425,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/g/851_procure|851_procure]]: Proto-Semitic *galab-, 'procure': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/868_hill_height|868_hill_height]]: Proto-Semitic *gabʕ-/*gibʕ-, 'hill, height': reflexes in 5 language(s).
+[[wiki/semitic-roots/g/868_hill_height|868_hill_height]]: Proto-Semitic *gabʕ-/*gibʕ-, 'hill, height': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/g/875_big_1_be_big_2_become_big_strong_3|875_big_1_be_big_2_become_big_strong_3]]: Proto-Semitic *gVdVl-, 'big' 1, 'be big' 2, 'become big, strong' 3: reflexes in 6 language(s).
 
@@ -441,9 +451,9 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/g/K0072_crush|K0072_crush]]: Proto-Semitic *gVrVś-, 'crush': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/g/K0073_eject|K0073_eject]]: Proto-Semitic *garāš-, 'eject': reflexes in 9 language(s).
+[[wiki/semitic-roots/g/K0073_eject|K0073_eject]]: Proto-Semitic *garāš-, 'eject': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/g/K0075_touch|K0075_touch]]: Proto-Semitic *gVsVs-, 'touch': reflexes in 6 language(s).
+[[wiki/semitic-roots/g/K0075_touch|K0075_touch]]: Proto-Semitic *gVsVs-, 'touch': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/g/K0077_rejoice|K0077_rejoice]]: Proto-Semitic *giyl-, 'rejoice': reflexes in 3 language(s).
 

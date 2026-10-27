@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/452_climb
 title: "*pVrVʕ-: 'climb'"
-desc: "Proto-Semitic *pVrVʕ-, 'climb': reflexes in 1 language(s)."
+desc: "Proto-Semitic *pVrVʕ-, 'climb': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "452"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | frʕ \[-a-\] |  |  |
+| Epigraphic South Arabian | Sab frʿ (Biella 411; Sabaweb lemma 4119) | Biella 411; Sabaweb lemma 4119 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

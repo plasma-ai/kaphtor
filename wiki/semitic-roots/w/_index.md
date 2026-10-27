@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/w
 desc: "Semitic roots whose first radical is w."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/w
@@ -27,7 +27,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/w/1431_tend_plan_suggest|1431_tend_plan_suggest]]: Proto-Semitic *wVḫVy-, 'tend, plan, suggest': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/w/1432_be_afraid|1432_be_afraid]]: Proto-Semitic *wVḳVy-, 'be afraid': reflexes in 2 language(s).
+[[wiki/semitic-roots/w/1432_be_afraid_1_to_preserve_guard_2|1432_be_afraid_1_to_preserve_guard_2]]: Proto-Semitic *wVḳVy-, 'be afraid' 1, 'to preserve, guard' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/w/1433_swear_make_a_sign|1433_swear_make_a_sign]]: Proto-Semitic *wVmaʾ-, 'swear, make a sign': reflexes in 6 language(s).
 
@@ -61,7 +61,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/w/1672_beat_smb|1672_beat_smb]]: Proto-Semitic *wVḳVt-/*yVḳVt-, 'beat (smb.)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/w/1770_descend_1_come_2|1770_descend_1_come_2]]: Proto-Semitic *wVrVd-, 'descend' 1, 'come' 2: reflexes in 19 language(s).
+[[wiki/semitic-roots/w/1770_descend_1_come_2|1770_descend_1_come_2]]: Proto-Semitic *wVrVd-, 'descend' 1, 'come' 2: reflexes in 20 language(s).
 
 [[wiki/semitic-roots/w/177_lung_disease|177_lung_disease]]: Proto-Semitic *wariy-, 'lung disease': reflexes in 1 language(s).
 
@@ -121,7 +121,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/w/315_vessel|315_vessel]]: Proto-Semitic *wiʕaʾ-, 'vessel': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/w/3161_to_be_well_shaped_full_complete_to_pay_in_full|3161_to_be_well_shaped_full_complete_to_pay_in_full]]: Proto-Semitic *wpy, 'to be well-shaped, full, complete; to pay in full': reflexes in 3 language(s).
+[[wiki/semitic-roots/w/3161_to_be_well_shaped_full_complete_to_pay_in_full|3161_to_be_well_shaped_full_complete_to_pay_in_full]]: Proto-Semitic *wpy, 'to be well-shaped, full, complete; to pay in full': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/w/3163_to_feel_pain|3163_to_feel_pain]]: Proto-Semitic *wṣ̂ḥ, 'to feel pain': reflexes in 3 language(s).
 
@@ -164,6 +164,16 @@ updated: 2026-10-26T20:01:24Z
 [[wiki/semitic-roots/w/3646_to_hew_carve_quarry_stone|3646_to_hew_carve_quarry_stone]]: Proto-Semitic *wḳr, 'to hew, carve, quarry (stone)': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/w/3660_offspring_descendants_generations|3660_offspring_descendants_generations]]: Proto-Semitic *wld, 'offspring, descendants, generations': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/w/3725_heap_of_stones_cairn_tumulus|3725_heap_of_stones_cairn_tumulus]]: Proto-Semitic *wgr, 'heap of stones, cairn; tumulus': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/w/3726_overseer_officer_commander_to_restrain_keep_in_o|3726_overseer_officer_commander_to_restrain_keep_in_o]]: Proto-Semitic *wzʕ, 'overseer, officer, commander; to restrain, keep in order': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3741_to_reprove_argue_to_decide|3741_to_reprove_argue_to_decide]]: Proto-Semitic *wkḥ, 'to reprove, argue; to decide': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3746_to_strike_with_a_stick_club|3746_to_strike_with_a_stick_club]]: Proto-Semitic *wtḫ, 'to strike with a stick; club': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/w/3762_to_apply_oneself_assiduously_be_diligent|3762_to_apply_oneself_assiduously_be_diligent]]: Proto-Semitic *wkb, 'to apply oneself assiduously, be diligent': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/w/430_lead|430_lead]]: Proto-Semitic *wVbVl-, 'lead': reflexes in 8 language(s).
 
@@ -217,7 +227,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/w/993_love_want|993_love_want]]: Proto-Semitic *wad-, 'love, want': reflexes in 14 language(s).
 
-[[wiki/semitic-roots/w/K0425_and|K0425_and]]: Proto-Semitic *wV--, 'and': reflexes in 3 language(s).
+[[wiki/semitic-roots/w/K0425_and|K0425_and]]: Proto-Semitic *wV--, 'and': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/w/K0427_throw|K0427_throw]]: Proto-Semitic *wVdVy-, 'throw': reflexes in 7 language(s).
 
@@ -229,7 +239,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/w/K0434_strike|K0434_strike]]: Proto-Semitic *wVqVʿ-, 'strike': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/w/K0438_inherit|K0438_inherit]]: Proto-Semitic *wVrVṯ-, 'inherit': reflexes in 19 language(s).
+[[wiki/semitic-roots/w/K0438_inherit|K0438_inherit]]: Proto-Semitic *wVrVṯ-, 'inherit': reflexes in 20 language(s).
 
 [[wiki/semitic-roots/w/K0442_wood|K0442_wood]]: Proto-Semitic *wVʿVr-, 'wood': reflexes in 9 language(s).
 

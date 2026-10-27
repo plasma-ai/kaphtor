@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕall- 1, 2; ʕll 3 |  |  |
+| Arabic | ʕall- 1, 2; ʕll 3; min ʕalu, min ʕali 'from above'; ʕalu 'above, in the higher, or highest, part of' 1 (Lane 2144) | Lane 2144 |  |
 | Geez | ʕalʕala 4, lāʕl 1 |  |  |
 | Phoenician | ʿl (Krahmalkov 368–369) | Krahmalkov 368–369 | gloss withheld |
 | Hebrew | ʕal 1 (HALOT 824, 825) | HALOT 824, 825 |  |

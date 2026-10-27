@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥaser 'lack' | Anderson–Moser 2024 root ḫsr |  |
 | Punic | ḥsr 'lacking' | Anderson–Moser 2024 root ḫsr |  |
 | Ugaritic | ḫsr (Kogan 2015, ch. 2 §4.2 no. 28) | Kogan 2015 ch. 2 §4.2 no. 28; Anderson–Moser 2024 root ḫsr | gloss withheld |
-| Geez | ḫas(a)ra (HALOT 338) | HALOT 338 |  |
+| Geez | ḫas(a)ra (HALOT 338); ḫasra (yəḫsar); ḫəsrat (LGz. 265–266) | HALOT 338; LGz. 265–266 | gloss withheld |
 | Akkadian | ḫasāru (HALOT 338) | HALOT 338 | gloss withheld |
 | Judaic Aramaic | ḥassīr (HALOT 338) | HALOT 338 |  |
 | Canaanite | maḫzir (HALOT 571) | HALOT 571 |  |

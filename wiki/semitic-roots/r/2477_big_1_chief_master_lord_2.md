@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2477_big_1_chief_master_lord_2
 title: "*rabb-: 'big' 1, 'chief, master, lord' 2"
-desc: "Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 13 language(s)."
+desc: "Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2477"
@@ -43,6 +43,7 @@ updated: 2026-10-26T14:26:59Z
 | Punic | rbt, rbʿt, rbbt, rbʾt (T 301) | T 301 | gloss withheld |
 | Arabic | rabb 2 (Lane 1003; HALOT 1172) | Lane 1003; HALOT 1172 | gloss withheld |
 | Epigraphic South Arabian | Sab rb 2 (Biella 475) | Biella 475 | gloss withheld |
+| Emar | ra-ab-ba /rabba/ (Pentiuc 2001, 151–152); ra-ba-tu₄ /rabbatu/ (Pentiuc 2001, 152) | Pentiuc 2001 151–152; Pentiuc 2001 152 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

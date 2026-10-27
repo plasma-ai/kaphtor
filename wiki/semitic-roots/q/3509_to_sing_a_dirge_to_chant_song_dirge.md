@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3509_to_sing_a_dirge_to_chant_song_dirge
 title: "*ḳyn: 'to sing a dirge, to chant; song, dirge'"
-desc: "Proto-Semitic *ḳyn, 'to sing a dirge, to chant; song, dirge': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ḳyn, 'to sing a dirge, to chant; song, dirge': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3509"
@@ -36,6 +36,7 @@ updated: 2026-10-25T06:28:07Z
 | Tigre | qānā (HALOT 1096); qana (LGz. 437) | HALOT 1096; LGz. 437 | gloss withheld |
 | Tigrinya | qanäyä; qänqänä (LGz. 437) | LGz. 437 |  |
 | Amharic | (tä)qäññä (LGz. 437) | LGz. 437 |  |
+| Emar | qu-ni, qu-ú-ni /qūnu/ (Pentiuc 2001, 150–151); qà-PI-nu /qaww/yyā̆nū/ (Pentiuc 2001, 147–148) | Pentiuc 2001 150–151; Pentiuc 2001 147–148 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

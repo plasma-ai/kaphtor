@@ -59,7 +59,7 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Duhoux 2012
 | [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT11a\|HT11a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT25b\|HT25b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT39\|HT39]] | Haghia Triada | Tablet | none |
@@ -97,6 +97,7 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Duhoux 2012
 | [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT11a\|HT11a]] |  | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | kull | total | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | kull | total, 130½ | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | kull | total, sum (accounting term) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | kull | total | CONFIRMED |

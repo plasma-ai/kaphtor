@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | baʔ 3 |  |  |
 | Geez | boʔa 2 |  |  |
 | Phoenician | bʔ 2 |  |  |
-| Hebrew | b(w)ʔ 3 |  |  |
+| Hebrew | b(w)ʔ 3; biʾâ (Ezk 8:5) 2 (HALOT 106) | HALOT 106 | gloss withheld |
 | Epigraphic South Arabian | bʔw 3; Sab bhʾ 2 (SD 27; Sabaweb lemmas 1434, 3920) | SD 27; Sabaweb lemmas 1434, 3920 | gloss withheld |
 | Harari | bōʔa 2 |  |  |
 | Tigrinya | boʔe 2 |  |  |

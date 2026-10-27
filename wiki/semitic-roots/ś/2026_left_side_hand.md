@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/2026_left_side_hand
 title: "*ŝimaʾl- {} *ĉimaʾl-: 'left (side, hand)'"
-desc: "Proto-Semitic *ŝimaʾl- {} *ĉimaʾl-, 'left (side, hand)': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ŝimaʾl- {} *ĉimaʾl-, 'left (side, hand)': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2026"
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | sǝmālā 'left (side)', adj. 'left' \[Brock 481\] | Brock 481 |  |
 | Epigraphic South Arabian | Sab šʾml (Biella 510) (Sabaweb lemma 5767); Sab. s₂ʔm \[SD 130; Sabaweb lemma 5059\], Min. s₂ʔm \[LM 85\] | Biella 510; Sabaweb lemma 5767; SD 130; Sabaweb lemma 5059; LM 85 | gloss withheld |
 | Aramaic | smʾl 'left' | Anderson–Moser 2024 root śml |  |
+| Amorite | śamʾal (Buck 2019, 332) | Buck 2019, 332 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

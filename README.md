@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 444" src="https://img.shields.io/badge/translations-444-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 586 entries" src="https://img.shields.io/badge/lexicon-586%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 337" src="https://img.shields.io/badge/names-337-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,276" src="https://img.shields.io/badge/Semitic%20roots-4,276-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 445" src="https://img.shields.io/badge/translations-445-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 593 entries" src="https://img.shields.io/badge/lexicon-593%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 336" src="https://img.shields.io/badge/names-336-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,349" src="https://img.shields.io/badge/Semitic%20roots-4,349-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 38" src="https://img.shields.io/badge/sign%20values-38-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
@@ -203,8 +203,10 @@ the data from another folder.
   - `semitic-roots/`: the root database
   - `contact/`: the open contact lexica the root index links to the roots (Hebrew, Aramaic, Amarna Canaanite,
     Syriac, Akkadian)
-  - `ane/`: open-licence ancient Near East datasets, such as the ORACC Akkadian literary glossary and PNM v6
-  - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts and Trismegistos Geo, kept apart
+  - `ane/`: open-licence and public-domain ancient Near East datasets, such as the ORACC Akkadian literary glossary,
+    PNM v6, Prosopographia Memphitica, Gauthier's DNG and the Kassite name concordances
+  - `share-alike/`: CC BY-SA datasets, such as the ORAEC/TLA Egyptian texts, the TLA v18 names and Trismegistos Geo,
+    kept apart
 - `docs/`: the repository's rules and methods, and the corpus guides, starting with [docs/anatomy.md](docs/anatomy.md)
 - `assets/`: Noto Sans fonts for the Aegean scripts (OFL 1.1) and the README banner
 - `tools/`: the Python package (`import tools`) behind the `kaphtor` command, described in
@@ -263,6 +265,9 @@ out below and in the `license` key of each datasheet:
   lexica in `data/contact/` hold only rows and fields from open sources, among them ORACC's Amarna and CAMS/GKAB
   glossaries, which its open-data download releases under CC0; their datasheets name what the private build adds, why it is not here,
   and the known limits of each source.
+- **Public-domain sources.** `data/ane/gauthier-dng/` (Gauthier's *Dictionnaire des noms géographiques*, 1925–1929)
+  and `data/ane/kassite-concordances/` (seven name indexes, 1906–1912) are read from the OCR of public-domain books;
+  the OCR and the files add no rights.
 - **The fonts.** The fonts in `assets/fonts/` are under the SIL Open Font License 1.1.
 - **Withheld material.** Sources that cannot be redistributed are not shipped; the tools that read them name the path
   they looked for. Scanned books are not included.

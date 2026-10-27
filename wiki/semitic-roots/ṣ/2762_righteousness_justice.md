@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/2762_righteousness_justice
 title: "*ṣidq-: 'righteousness, justice'"
-desc: "Proto-Semitic *ṣidq-, 'righteousness, justice': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ṣidq-, 'righteousness, justice': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2762"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṣedeq (HALOT 1004) | HALOT 1004 | gloss withheld |
 | Epigraphic South Arabian | Sab ṣdq (SD 141; Biella 416, 417; Sabaweb lemma 1204) | SD 141; Biella 416, 417; Sabaweb lemma 1204 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ṣdq (Al-Jallad–Jaworska 128) | Al-Jallad–Jaworska 128 | gloss withheld |
+| Amorite | ṣidqu (Buck 2019, 333) | Buck 2019, 333 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

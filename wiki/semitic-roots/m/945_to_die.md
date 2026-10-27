@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/945_to_die
 title: "*mw/yt: 'to die'"
-desc: "Proto-Semitic *mw/yt, 'to die': reflexes in 26 language(s)."
+desc: "Proto-Semitic *mw/yt, 'to die': reflexes in 27 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "945"
@@ -56,6 +56,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | moda (SED I 304) | SED I 304 |  |
 | Amorite | mwt: jamūt (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic myt (Al-Jallad–Jaworska 101) | Al-Jallad–Jaworska 101 | gloss withheld |
+| Emar | mi-ti /mītī/ (Pentiuc 2001, 125–126) | Pentiuc 2001 125–126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

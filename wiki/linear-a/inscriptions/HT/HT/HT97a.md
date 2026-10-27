@@ -86,6 +86,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA I 159: .10 ZU\[ \]5, both dotted; .12 DE-\[·\] 3\[, DE and 3 dotted, a lost sign after DE, not a divider; .13 \]A 5, the 5 dotted; traces of erasure in the first half of .1.
+GORILA I 159: .5 DI 4 over an erasure; .7 MA-DI 5, the 5 dotted; .10 ZU\[ \]5, both dotted; .12 DE-\[·\] 3\[, DE and 3 dotted, a lost sign after DE, not a divider; .13 \]A 5, the 5 dotted; traces of erasure in the first half of .1.
 
 <!-- END kaphtor:record -->

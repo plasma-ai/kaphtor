@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/1879_plague
 title: "*da/ib(a)r-: 'plague'"
-desc: "Proto-Semitic *da/ib(a)r-, 'plague': reflexes in 6 language(s)."
+desc: "Proto-Semitic *da/ib(a)r-, 'plague': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1879"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | dbr \[DULAT 262\]. | DULAT 262 | gloss withheld |
 | Hebrew | däbär (HALOT 212) | HALOT 212 | gloss withheld |
 | Judaic Aramaic | dǝbartā 'pestilence' \[Ja 279\] | Ja 279 |  |
+| Emar | di-bi-ra, di!-bi-ri /dibbīru/, /dibbīrī/ (Pentiuc 2001, 44–45) | Pentiuc 2001 44–45 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

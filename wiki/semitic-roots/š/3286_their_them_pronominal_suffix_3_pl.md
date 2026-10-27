@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3286_their_them_pronominal_suffix_3_pl
 title: "*-šVmV/*-šVnV: 'their; them (pronominal suffix, 3 pl.)'"
-desc: "Proto-Semitic *-šVmV/*-šVnV, 'their; them (pronominal suffix, 3 pl.)': reflexes in 7 language(s)."
+desc: "Proto-Semitic *-šVmV/*-šVnV, 'their; them (pronominal suffix, 3 pl.)': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3286"
@@ -36,6 +36,7 @@ updated: 2026-10-25T05:11:48Z
 | Tigrinya | -om (Bulakh–Kogan 2013b:101 apud SEDonline 1570); -än (Bulakh–Kogan 2013b:101 apud SEDonline 1570) | SEDonline 1570 | gloss withheld |
 | Jibbali | -hum (Johnstone 1975:118 apud SEDonline 1570) | Johnstone 1975:118; SEDonline 1570 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic hm (Al-Jallad–Jaworska 77) | Al-Jallad–Jaworska 77 | gloss withheld |
+| Epigraphic South Arabian | Sab -hmw, -hm (suffix, 3 m. pl.; -hm rare) (Biella 111–112) | Biella 111–112 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | mādu 1; mâdu |  | gloss withheld |
 | Ugaritic | mʔud; \*/maʾdu/?, pl. /maʾ(a)dūma/ (UVST 144) | UVST 144 | gloss withheld |
 | Hebrew | mǝʔōd 2 |  |  |
-| Amorite | mʾd: maʾdum, miʾd(ān)um, jāmʾid (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
+| Amorite | mʾd: maʾdum, miʾd(ān)um, jāmʾid (Gelb AS 21, 24); yamʾid (Buck 2019, 329) | Gelb AS 21 24; Buck 2019, 329 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

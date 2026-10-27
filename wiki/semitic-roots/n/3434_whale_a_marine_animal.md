@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*nḫr 'to snore' (Kogan 2015: 332 apud SEDonline 314), related to PS \*naḫīr- 'nostril' (SEDonline 314). Akk. nāḫiru and Ugr. ˀanḫr are different formations of the root. Cf. 172 \*naḫīr- 'nostril, nose'.
+PS \*nḫr 'to snore' (Kogan 2015: 332 apud SEDonline 314), related to PS \*naḫīr- 'nostril' (SEDonline 314). Akk. nāḫiru and Ugr. ˀanḫr are different formations of the root. Cf. 172 \*naḫīr- 'nostril, nose'. The verb 'to snore, snort' is 3747.
 
 <!-- END kaphtor:record -->

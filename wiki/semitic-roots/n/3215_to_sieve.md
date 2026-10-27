@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*nḫl 'to sieve' (Kogan 2011, 242). Not K0234 \*nVḥVl- 'inherit' or 3184 \*naḫl- 'wadi'.
+PS \*nḫl 'to sieve' (Kogan 2011, 242). Not K0234 \*nVḥVl- 'inherit' or 3184 \*naḫl- 'wadi'. Not 3702 \*šḫl 'to strain, filter', another root with the same sense.
 
 <!-- END kaphtor:record -->

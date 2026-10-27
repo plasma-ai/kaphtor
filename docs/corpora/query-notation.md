@@ -4,7 +4,7 @@ title: "Query notation: what each view stores, and how a query reaches it"
 desc: How a typed root or form is read and spelled in each view's own transliteration, and how a matched row reports the basis of its match.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-10-27T17:50:48Z
 ---
 
 # Query notation: what each view stores, and how a query reaches it
@@ -34,7 +34,8 @@ way you would write it — `ʾ-m-r`, `ʔmr`, `√ʾmr`, `'MR`, `s¹`, `s1`, `š`
 | dasi | ʾ / ʿ | bare, as typed | s¹ s² s³; running text, matched word by word |
 | ahi | ʾ / ʿ | bare, as typed | Hebrew letters romanised; a word is keyed whole across restorations and concordance marks (`D(W)'[L]` → dʿwʾl), a lacuna still separates; the folded key writes ʾ and ʿ as `'` |
 | term | ʔ / ʕ | hyphenated | the pointed Hebrew term also matched unpointed |
-| pnm (names) | ꜣ / ꜥ | as typed | Manuel de Codage read; = is ⸗ |
+| pnm (names) | ꜣ / ꜥ | as typed | Manuel de Codage read; = is ⸗; ProM's Unicode names are spelled as PNM's |
+| tla (names) | ꜣ ʾ / ꜥ | as typed | Manuel de Codage read; yod stored ꞽ (a typed j or ỉ means ꞽ); ⸗ is = |
 
 ## How a row matched: `match_basis`
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0305_envy
 title: "*qVnVʾ-: 'envy'"
-desc: "Proto-Semitic *qVnVʾ-, 'envy': reflexes in 16 language(s)."
+desc: "Proto-Semitic *qVnVʾ-, 'envy': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0305"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | qáynəʾ (Kogan 2015, ch. 2 §4.2 no. 33) | Kogan 2015 ch. 2 §4.2 no. 33 | gloss withheld |
 | Soqotri | qnʾ (Kogan 2015, ch. 2 §4.2 no. 33) | Kogan 2015 ch. 2 §4.2 no. 33 | gloss withheld |
 | Syrian Aramaic | qene(ʾ)tā (Kogan 2015, ch. 2 §4.2 no. 33) | Kogan 2015 ch. 2 §4.2 no. 33 | gloss withheld |
+| Emar | qí-na-i /qinaʾu/ (Pentiuc 2001, 148–149) | Pentiuc 2001 148–149 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

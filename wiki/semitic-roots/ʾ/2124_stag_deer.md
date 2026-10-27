@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2124_stag_deer
 title: "*ʾayyal-: 'stag, deer'"
-desc: "Proto-Semitic *ʾayyal-, 'stag, deer': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾayyal-, 'stag, deer': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2124"
@@ -42,8 +42,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʔaylā 'stag', ʔaylātā 'doe (female deer)' \[Brock. 15\], \[PS 151\]. | Brock. 15; PS 151 |  |
 | Aramaic | Off. ʔyl \[HJ 45\], ʔylth \[ibid.\] | HJ 45 | gloss withheld |
 | Modern Aramaic | NSyr. élâ, NAssyr. ēla, Tur. ʔaylo (SED II 39) | SED II 39 |  |
-| Amorite | ʾajjalum, ʾajjalatum, ʾajjala (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
+| Amorite | ʾajjalum, ʾajjalatum, ʾajjala (Gelb AS 21, 13); ʾayyalu (Buck 2019, 324) | Gelb AS 21 13; Buck 2019, 324 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾyl (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 50 | gloss withheld |
+| Emar | i-la-nu /ʾīlānu/ (Pentiuc 2001, 83) | Pentiuc 2001 83 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

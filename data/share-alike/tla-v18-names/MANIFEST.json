@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Egyptian proper names of the TLA Original Earlier Egyptian sentences, corpus v18, premium: name lemmas and name tokens",
+  "version": "corpus v18; dataset card v1.1, 2/16/2024; Hugging Face commit a7ba9e9d1a74a9a0f919b024ba84dd6d643b2966",
+  "licence": "CC BY-SA 4.0 (both inputs). Cite: Thesaurus Linguae Aegyptiae, Original Earlier Egyptian sentences, corpus v18, premium, v1.1, 2/16/2024, ed. T. S. Richter & D. A. Werning (BBAW) and H.-W. Fischer-Elfert & P. Dils (SAW); Thesaurus Linguae Aegyptiae Lemmata in Wikidata 2024, urn:nbn:de:kobv:b4-opus4-54021.",
+  "sources": {
+    "sentences": {
+      "file": "tla-Earlier_Egyptian_original-v18-premium.train.jsonl",
+      "sha256": "13d4f6e17e5348c4a1dcf1c02795c8401367e187eaf903da325a1cf83a998f99"
+    },
+    "sentences_card": {
+      "file": "tla-Earlier_Egyptian_original-v18-premium.README.md",
+      "sha256": "d6d1845c64c45f494b7cc73feda69a34e664eced9c107035227557309bb736a3"
+    },
+    "wikidata": {
+      "file": "TLA-lemmata-Wikidata-2024.csv",
+      "sha256": "841bee82e1e3899caf529299216c0c5741f8b604654bc37d3c841beeaa14f23f"
+    },
+    "wikidata_card": {
+      "file": "TLA-lemmata-Wikidata-2024-README.md",
+      "sha256": "2082e90130e647c3d23d62509459ee6a046bf38dcb7795ddc5120e7018edd26e"
+    },
+    "extract_2018": {
+      "file": "lemmas.jsonl",
+      "sha256": "4408d091d5978e94c7fef885919113bfeccf04dc9b071c8eb1562fe5a674d430"
+    },
+    "pnm_personal_names": {
+      "file": "personal_names.jsonl",
+      "sha256": "03fc22ee92ab393d8165548bbfc66f86828c08f178b301b0dbdeadc65ac0679c"
+    }
+  },
+  "overrides": {
+    "file": "overrides.json",
+    "sha256": "d3066f901957659c1d6de044a8e2d2e0e49cce871e54c58ca4255f79d279208f",
+    "occurrences": 1,
+    "left_name_set": [
+      {
+        "id": "tla18:12615:10",
+        "corrections": [
+          {
+            "field": "tla_lemma_id",
+            "source": "800001",
+            "corrected": "90260",
+            "basis": "row 12615 of train.jsonl: token 10 (ntr.PL, 𓊹𓊹𓊹, N:pl) is the sentence's own token 5 (nṯr.PL, 𓊹𓊹𓊹, lemma 90260 nṯr, NOUN) again, and the translation reads both as 'Götter'; TLA's 800001 Wnꞽs on it is a slip"
+          },
+          {
+            "field": "lemma",
+            "source": "Wnꞽs",
+            "corrected": "nṯr",
+            "basis": "row 12615 of train.jsonl: token 10 (ntr.PL, 𓊹𓊹𓊹, N:pl) is the sentence's own token 5 (nṯr.PL, 𓊹𓊹𓊹, lemma 90260 nṯr, NOUN) again, and the translation reads both as 'Götter'; TLA's 800001 Wnꞽs on it is a slip"
+          },
+          {
+            "field": "upos",
+            "source": "PROPN",
+            "corrected": "NOUN",
+            "basis": "row 12615 of train.jsonl: token 10 (ntr.PL, 𓊹𓊹𓊹, N:pl) is the sentence's own token 5 (nṯr.PL, 𓊹𓊹𓊹, lemma 90260 nṯr, NOUN) again, and the translation reads both as 'Götter'; TLA's 800001 Wnꞽs on it is a slip"
+          }
+        ]
+      }
+    ],
+    "lemmas": 0
+  },
+  "identity_rule": "lemmas: id tla:<TLA lemma id>, the TLA's persistent lemma id (https://thesaurus-linguae-aegyptiae.de/lemma/<id>). occurrences: id tla18:<row>:<token>, row the 0-based line of train.jsonl (the Hugging Face row index at the pinned commit), token the 1-based element of the sentence; the dataset gives no text or object id. A rebuild that drops an id is refused unless --allow-drop names it (or is given bare, for every id); one that gives an occurrence id another lemma, form or sentence is refused unless --allow-remap names it (or is given bare) (ingest_guard.refuse_remapped on (tla_lemma_id, form, sentence_transliteration)).",
+  "name_set": {
+    "rule": "a token is a proper name when the dataset tags it UPOS PROPN; no other field widens the set",
+    "propn_glossing": {
+      "PERSN": 3146,
+      "ROYLN": 2476,
+      "DIVN": 2287,
+      "TOPN": 674,
+      "PROPN": 510,
+      "N:du": 34,
+      "N:pl": 26,
+      "N:sg:stc": 22,
+      "N:sg:stpr": 5,
+      "(undefined)": 2,
+      "N:pl:stpr": 2,
+      "V\\ptcp.act.m.sg": 1,
+      "ADJ:m.sg": 1
+    },
+    "non_propn_tokens_with_name_gloss": {
+      "what": "tokens under another UPOS that TLA glosses as a name: the divine and royal epithets (Ḥr.w 'Horus name', nṯr-ꜥꜣ, ḫnt.ꞽ-ꞽmn.tꞽw, nswt-bꞽ.tꞽ), left out",
+      "by_upos_gloss": {
+        "NOUN ROYLN": {
+          "tokens": 911,
+          "lemmas": 11
+        },
+        "NOUN DIVN": {
+          "tokens": 781,
+          "lemmas": 173
+        }
+      }
+    },
+    "wikidata_proper_nouns_under_other_upos": {
+      "lemmas": 0,
+      "tokens": 0,
+      "upos": {},
+      "lemma_ids": []
+    },
+    "extract_entity_names_under_other_upos": {
+      "lemmas": 0,
+      "tokens": 0,
+      "upos": {},
+      "lemma_ids": []
+    }
+  },
+  "alignment_rule": "a sentence is aligned when hieroglyphs, transliteration, lemmatization, UPOS and glossing split on spaces into the same number of elements; its tokens then take their own hieroglyphs, form and glossing. An unaligned sentence's tokens carry aligned: false, null token fields and sentence_hieroglyphs / sentence_glossing; their lemma counts them in unaligned_tokens and leaves them out of spellings, forms and glossing.",
+  "join_rule": "every join is on the TLA lemma id alone. wikidata: the TLA-lemmata-Wikidata-2024.csv row whose tlaID is the lemma id (wikidata_class: its additionalLexicalCategory, else its referentType, else null). in_2018_extract / extract_*: the aed-tei lemma (TLA January 2018 extract) with that lemma_id. pnm_name_ids: the PNM v6 personal_names_id whose own tla field lists the lemma id; no name form is compared.",
+  "field_rule": "lemma is the lemma transliteration of the lemmatization token; form is the sentence's transliteration element (the inflected form, the editor's ( ) kept); hieroglyphs as TLA writes them, JSesh codes in <g>...</g> for signs outside Unicode 15 kept; date_not_before / date_not_after the sentence's dateNotBefore / dateNotAfter as integers (negative = BCE), a lemma's the earliest and latest of its tokens; translation_de the sentence's German translation as given. tla_lemma_undefined: true (present only then) on a lemma TLA leaves unresolved: a token glossed (undefined), or pos undefined in the 2018 extract.",
+  "override_rule": "overrides.json fixes fields by id, each change kept in the row's corrections with its basis. An occurrence whose corrected upos is not PROPN leaves the name set: it is not written, and overrides.left_name_set lists it with its corrections.",
+  "counts": {
+    "sentences": 12773,
+    "sentences_with_names": 7059,
+    "lemmas": 1644,
+    "occurrences": 9186,
+    "occurrences_left_name_set": 1,
+    "lemmas_tla_undefined": 2,
+    "occurrences_aligned": 9186,
+    "occurrences_unaligned": 0,
+    "occurrences_with_jsesh_codes": 361,
+    "lemmas_wikidata": 263,
+    "lemmas_wikidata_class": {
+      "deity name": 135,
+      "royal name": 67,
+      "toponym": 42,
+      "artificial object": 18,
+      "organization": 1
+    },
+    "lemmas_in_2018_extract": 1263,
+    "lemmas_extract_pos": {
+      "entity_name/person_name": 667,
+      "entity_name/gods_name": 214,
+      "entity_name/org_name": 177,
+      "entity_name/place_name": 128,
+      "entity_name/artifact_name": 40,
+      "entity_name/kings_name": 35,
+      "undefined": 2
+    },
+    "lemmas_in_pnm": 485,
+    "pnm_names_joined": 451,
+    "lemmas_in_neither": 241,
+    "lemmas_in_no_other_source": 208
+  },
+  "outputs": {
+    "lemmas.jsonl": {
+      "rows": 1644,
+      "sha256": "71422e854ee6c3159952eab0230239d8eba569c0f94265436edfa43871ebc6e1"
+    },
+    "occurrences.jsonl": {
+      "rows": 9186,
+      "sha256": "af39d2e9fe2dcefe2a0b35832fdd6fca73bebd60e213e1124956400ffa9412ac"
+    }
+  },
+  "export": {
+    "rows": "each row as the private build wrote it, without source_id",
+    "manifest": "private catalogue ids, local paths (a path is given as its file name) and build-trail keys removed; outputs rehashed",
+    "not_shipped": [
+      "overrides.json (its one fix is in the MANIFEST's overrides.left_name_set)"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/d
 desc: "Semitic roots whose first radical is d."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/d
@@ -97,7 +97,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/d/185_to_hit_someone_in_the_jaw|185_to_hit_someone_in_the_jaw]]: Proto-Semitic *dḳn-, 'to hit someone in the jaw': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/1879_plague|1879_plague]]: Proto-Semitic *da/ib(a)r-, 'plague': reflexes in 6 language(s).
+[[wiki/semitic-roots/d/1879_plague|1879_plague]]: Proto-Semitic *da/ib(a)r-, 'plague': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/d/1880_breast_teat|1880_breast_teat]]: Proto-Semitic *dadd-, *dayd-, 'breast, teat': reflexes in 6 language(s).
 
@@ -153,7 +153,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/d/227_worms|227_worms]]: Proto-Semitic *dūd- < *dVwVd-, 'worms': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/2315_beans_1_corn_grain_2|2315_beans_1_corn_grain_2]]: Proto-Semitic *dVng(ʷ)- 1 ~ *dagan- 2, 'beans' 1, 'corn, grain' 2: reflexes in 6 language(s).
+[[wiki/semitic-roots/d/2315_beans_1_corn_grain_2|2315_beans_1_corn_grain_2]]: Proto-Semitic *dVng(ʷ)- 1 ~ *dagan- 2, 'beans' 1, 'corn, grain' 2: reflexes in 7 language(s).
 
 [[wiki/semitic-roots/d/2316_beans|2316_beans]]: Proto-Semitic *dVgVr-, 'beans': reflexes in 5 language(s).
 
@@ -257,9 +257,13 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/d/3627_to_hang_down_dangle|3627_to_hang_down_dangle]]: Proto-Semitic *dll, 'to hang down, dangle': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/d/3723_to_guide_show_the_way|3723_to_guide_show_the_way]]: Proto-Semitic *dll, 'to guide, show the way': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/d/3749_to_flee_withdraw_to_a_distance|3749_to_flee_withdraw_to_a_distance]]: Proto-Semitic *dḥl, 'to flee, withdraw to a distance': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/d/39_nursing_mother|39_nursing_mother]]: Proto-Semitic *dad-, 'nursing mother': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/d/40_clan_generation_group_of_relatives_1_maternal_au|40_clan_generation_group_of_relatives_1_maternal_au]]: Proto-Semitic *dawr-, 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2: reflexes in 8 language(s).
+[[wiki/semitic-roots/d/40_clan_generation_group_of_relatives_1_maternal_au|40_clan_generation_group_of_relatives_1_maternal_au]]: Proto-Semitic *dawr-, 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/d/437_drive_away_1_divorce_2|437_drive_away_1_divorce_2]]: Proto-Semitic *dVḥar-, 'drive away' 1, 'divorce' 2: reflexes in 3 language(s).
 
@@ -307,7 +311,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/d/656_tower_1_borough_2|656_tower_1_borough_2]]: Proto-Semitic *dim-, 'tower' 1, 'borough' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/d/657_dwelling_1_house_2_granary_3|657_dwelling_1_house_2_granary_3]]: Proto-Semitic *dār-, 'dwelling' 1, 'house' 2, 'granary' 3: reflexes in 8 language(s).
+[[wiki/semitic-roots/d/657_dwelling_1_house_2_granary_3|657_dwelling_1_house_2_granary_3]]: Proto-Semitic *dār-, 'dwelling' 1, 'house' 2, 'granary' 3: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/d/693_drip_1_flow_abundantly_2|693_drip_1_flow_abundantly_2]]: Proto-Semitic *dir-/*dur-, 'drip' 1, 'flow abundantly' 2: reflexes in 2 language(s).
 

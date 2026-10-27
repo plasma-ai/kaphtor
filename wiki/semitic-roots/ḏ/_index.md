@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/ḏ
 desc: "Semitic roots whose first radical is ḏ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/ḏ
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/ḏ/1194_slaughter_1_sacrifice_2|1194_slaughter_1_sacrifice_2]]: Proto-Semitic *ḏVbVḥ-, 'slaughter' 1, 'sacrifice' 2: reflexes in 16 language(s).
+[[wiki/semitic-roots/ḏ/1194_slaughter_1_sacrifice_2|1194_slaughter_1_sacrifice_2]]: Proto-Semitic *ḏVbVḥ-, 'slaughter' 1, 'sacrifice' 2: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/ḏ/1272_divide|1272_divide]]: Proto-Semitic *ḏVHVḏ-, 'divide': reflexes in 1 language(s).
 
@@ -37,7 +37,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḏ/2160_kind_of_worm_insect|2160_kind_of_worm_insect]]: Proto-Semitic *ḏVr-, 'kind of worm, insect': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/ḏ/2509_to_remember_mention_invoke_1_man_male_2_phallus|2509_to_remember_mention_invoke_1_man_male_2_phallus]]: Proto-Semitic *ḏikar-, 'to remember, mention, invoke' 1, 'man, male' 2, 'phallus' 3: reflexes in 24 language(s).
+[[wiki/semitic-roots/ḏ/2509_to_remember_mention_invoke_1_man_male_2_phallus|2509_to_remember_mention_invoke_1_man_male_2_phallus]]: Proto-Semitic *ḏikar-, 'to remember, mention, invoke' 1, 'man, male' 2, 'phallus' 3: reflexes in 25 language(s).
 
 [[wiki/semitic-roots/ḏ/2786_sweat|2786_sweat]]: Proto-Semitic *ḏiʕ-at-, 'sweat': reflexes in 12 language(s).
 
@@ -85,7 +85,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ḏ/K0876_that_of_she_who_feminine_demonstrative_relative|K0876_that_of_she_who_feminine_demonstrative_relative]]: Proto-Semitic *ḏāt-, 'that of, she who' (feminine demonstrative/relative): reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ḏ/K0877_he_who_that_which_masculine_demonstrative_relati|K0877_he_who_that_which_masculine_demonstrative_relati]]: Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 15 language(s).
+[[wiki/semitic-roots/ḏ/K0877_he_who_that_which_masculine_demonstrative_relati|K0877_he_who_that_which_masculine_demonstrative_relati]]: Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 16 language(s).
 
 [[wiki/semitic-roots/ḏ/K0879_SA_attestation_meaning_unknown|K0879_SA_attestation_meaning_unknown]]: Proto-Semitic *ḏVm-, '(SA attestation — meaning unknown)': reflexes in 1 language(s).
 

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | tarākaba, rukābe \[LGz 469\] | LGz 469 | gloss withheld |
 | Jibbali | rékǝb, rɔ́tkǝb (-t- stem) \[JJ 211\] | JJ 211 | gloss withheld |
 | Syrian Aramaic | rǝkeb 'he mounted, he had intercourse with (a female)' \[Brock 730\]; rkūbā 'conveyance, vessel; mount; riding'; rākūbūtā 'riding, horsemanship' (Payne Smith 541) | Brock 730; Payne Smith 541 |  |
-| Amorite | rkb: jirkab, jarkab, rukābatum, jārkib (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rkb: jirkab, jarkab, rukābatum, jārkib (Gelb AS 21, 30); rakabtu, yarkab/yirkab (Buck 2019, 331) | Gelb AS 21 30; Buck 2019, 331 | gloss withheld |
 | Modern South Arabian | Bathari rēkəb (Gasparini - Morris 2025 191 apud SEDonline 897) | SEDonline 897 | gloss withheld |
 | Hebrew | rékeb (Biella 488); rikbâ (HALOT 1235) | Biella 488; HALOT 1235 | gloss withheld |
 

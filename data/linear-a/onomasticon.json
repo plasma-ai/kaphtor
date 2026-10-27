@@ -27,12 +27,12 @@
     "auto"
   ],
   "stats": {
-    "total": 337,
+    "total": 336,
     "by_type": {
-      "gentilic": 9,
-      "personal_name": 241,
+      "gentilic": 10,
+      "personal_name": 238,
       "theonym": 29,
-      "title": 36,
+      "title": 37,
       "toponym": 19,
       "toponym_gentilic": 3
     },
@@ -42,12 +42,12 @@
       "egyptian": 9,
       "hurrian": 33,
       "indo_aryan": 1,
-      "semitic": 223,
+      "semitic": 230,
       "unknown": {
-        "total": 65,
-        "intact": 58,
+        "total": 57,
+        "intact": 49,
         "fragmentary": 0,
-        "edge_damaged": 7,
+        "edge_damaged": 8,
         "no_witness": 0,
         "note": "intact: at least one undamaged corpus witness; fragmentary: every witness has lost signs ([, ], [?]); edge_damaged: every sign read, but every witness sits against damaged surface (𐝫), nearly always at the word's edge, so the word may be incomplete; no_witness: no corpus group in the listed documents matches the token"
       }
@@ -56,16 +56,16 @@
       "Egyptian": 9,
       "Hurro-Urartian": 33,
       "Indo-European": 3,
-      "Semitic": 227,
-      "unassigned": 65
+      "Semitic": 234,
+      "unassigned": 57
     },
     "by_provenance": {
-      "auto": 72,
-      "manual": 265
+      "auto": 66,
+      "manual": 270
     },
-    "manual_count": 265,
-    "auto_count": 72,
-    "total_entries": 337
+    "manual_count": 270,
+    "auto_count": 66,
+    "total_entries": 336
   },
   "entries": [
     {
@@ -1721,11 +1721,11 @@
       "affiliation": "unknown",
       "language_family": null,
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "TE-TU",
+      "reading": "Tetu",
+      "meaning": "personal name; Ugaritic tt, syllabic te-et-te, tu-tu",
       "frequency": 3,
       "attestations": [
         "HT7a",
@@ -1784,7 +1784,7 @@
           "distance": 0.2
         }
       ],
-      "note": "Roster +numeral."
+      "note": "A man counted one on the rosters HT 7a and HT 85b, and the largest share (56) of the HT 13 wine list. Ugarit has the personal name tt, syllabic te-et-te, tu-tu (DULAT 869). See the lexicon entry."
     },
     {
       "token": "A-PA-RA-NE",
@@ -5650,14 +5650,14 @@
       "normalized": "daru329",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "DA-RU-*329",
+      "reading": "Dārum",
+      "meaning": "personal name, 'Eternal'; rival Arabic Dārim",
       "frequency": 1,
       "attestations": [
         "HT7b"
@@ -5676,7 +5676,7 @@
         "heads_document": 1
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [
         {
@@ -5695,7 +5695,7 @@
           "distance": 0.1
         }
       ],
-      "note": ""
+      "note": "Second line of HT 7b, after *21F-TU-NE 1, on a roster of men; *329 read mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal' (Gelb 1980, §0.7); DA-RU- recurs in DA-RU-NE-TE (HT 98b). See the lexicon entry."
     },
     {
       "token": "DA-RU-NE-TE",
@@ -6397,42 +6397,6 @@
         }
       ],
       "note": "HT 19, DU-ME-DI 43½ after SA-RO, the slot SI-DA-RE 5 holds on the same scribe's HT 17. Dūmatī 'the enduring one', √d-w-m with hypocoristic -ī; cf. Amorite Dūmat-An (DU-MA-TA-AN, Gelb, AS 21, no. 1581), Hebrew Dūmāh (Gen 25:14). Rival: dimtu 'tower; estate' (Akk. dimtum, Ug. dmt). One attestation."
-    },
-    {
-      "token": "DU-MI-TA-TI-RA₂",
-      "normalized": "dumitatira2",
-      "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
-      "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": "bin mattat-ʾilā",
-      "meaning": "son of Gift-of-the-Goddess (owner's name)",
-      "frequency": 1,
-      "attestations": [
-        "TROZg2"
-      ],
-      "sites": [
-        "Troy"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Stone object": 1
-      },
-      "position_summary": {
-        "follows": {
-          "end": 1
-        },
-        "heads_document": 1
-      },
-      "co_occurring_known": [],
-      "provenance": "auto",
-      "bucket": "onomastic",
-      "weak_cognates": [],
-      "note": "Spindle whorl from Troy (Schliemann facsimile; Godart, CRAI 1994: 721–23), one hand with TROZg1/TROZg2. Godart reads 39 / 51 for the first sign and AB37 = TI as doubtful. The TROZg2 sign lacks AB51's parallel verticals and reads as an open-based PI: one text twice. MI-TA-TI-RA₂ = mattat-ʾilā 'gift of the goddess' (MA-TI-TI + I-RA₂); cf. Mattattu-Ištar (BRM 2, 45), Ug. Mtn-Baʿlu (KTU 4.115). PI = bin 'son of', n unwritten (Heb. bin-nûn, Exod 33:11; bare Ben-Hur, 1 Kgs 4:8). Against: MI for ma-; no other PI = bin. Rivals: Luwian piya- 'give' (Brown 1998: 52–56); Hurrian -tilla. Perna 2014 doubts the Linear A attribution."
     },
     {
       "token": "DU-PA₃-NA",
@@ -8342,16 +8306,16 @@
     {
       "token": "KA-TI",
       "normalized": "kati",
-      "type": "personal_name",
+      "type": "gentilic",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "KA-TI",
+      "reading": "Gattī",
+      "meaning": "the man of the press, or the Gittite (nisbe of gat 'press'); rivals Qəhātî 'Kohathite', Kittî 'Kittian'",
       "frequency": 1,
       "attestations": [
         "HT63"
@@ -8370,7 +8334,7 @@
         "heads_document": 0
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [
         {
@@ -8389,7 +8353,7 @@
           "distance": 0.1
         }
       ],
-      "note": ""
+      "note": "HT 63, under the personnel logogram *305: gat 'press' with the nisbe -ī, as Ugaritic gt /gittu/ 'press; farmstead, estate' (DULAT 307) and Hebrew hag-Gittî 'the Gittite' (2 Sam 6:10). Rivals: Qəhātî 'Kohathite' (Num 3:27), Kittî 'Kittian'. See the lexicon entry."
     },
     {
       "token": "KI-KI-NA",
@@ -8561,14 +8525,14 @@
       "normalized": "kuda",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "KU-DA",
+      "reading": "Gūda",
+      "meaning": "Gūda (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'",
       "frequency": 1,
       "attestations": [
         "HT122a"
@@ -8637,7 +8601,7 @@
           "distance": 0.0
         }
       ],
-      "note": "HT 122a: KU-DA 1 among men, the one unit that brings the two faces to PO-TO-KU-RO 97."
+      "note": "HT 122a: KU-DA 1 among men, the one unit that brings the two faces to PO-TO-KU-RO 97. Amorite GUʾUD-A, GU-U₂-DA, an Ur III name (Gelb 1980, no. 1791). Rivals: Kutta, Ku-ut-ta (NPN 231); qāʾid 'chief'. See the lexicon entry."
     },
     {
       "token": "KU-KU-DA-RA",
@@ -9929,14 +9893,14 @@
       "normalized": "pasarija",
       "type": "gentilic",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "PA-SA-RI-JA",
+      "reading": "Baṣariya",
+      "meaning": "the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading",
       "frequency": 1,
       "attestations": [
         "HT24a"
@@ -9965,7 +9929,7 @@
       "provenance": "auto",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 24a .4, heading of the second wool section, as KU-PA₃-RI-JA Kubariya heads the first: X-iya. Stem Pasar- unidentified. Rival: Ugaritic bṣr, Baṣiru, with PA for b."
+      "note": "Heading of the second HT 24a wool section, as KU-PA₃-RI-JA Kubariya heads the first. Baṣīru, a town of Ugarit: alphabetic bṣr, gentilic bṣry, syllabic URU ba-ṣi-ri (DULAT 240; RGTC 12/2, 53), listed with Kubariya. See the lexicon entry."
     },
     {
       "token": "PA-TA-DA",
@@ -10140,8 +10104,8 @@
       "note": ""
     },
     {
-      "token": "PI-MI-TA-TI-RA₂",
-      "normalized": "pimitatira2",
+      "token": "PI-MI-TI-TA-RA₂",
+      "normalized": "pimititara2",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
       "affiliation": "unknown",
@@ -10150,30 +10114,31 @@
       "affiliation_evidence": "none",
       "contact_ref": null,
       "lexicon_ref": null,
-      "reading": "bin mattat-ʾilā",
-      "meaning": "son of Gift-of-the-Goddess (owner's name)",
-      "frequency": 1,
+      "reading": null,
+      "meaning": null,
+      "frequency": 2,
       "attestations": [
-        "TROZg1"
+        "TROZg1",
+        "TROZg2"
       ],
       "sites": [
         "Troy"
       ],
       "cross_site": false,
       "genre_supports": {
-        "Stone object": 1
+        "Clay spindle whorl": 2
       },
       "position_summary": {
         "follows": {
-          "end": 1
+          "end": 2
         },
-        "heads_document": 1
+        "heads_document": 2
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Spindle whorl from Troy (Schliemann facsimile; Godart, CRAI 1994: 721–23), one hand with TROZg1/TROZg2. Godart reads 39 / 51 for the first sign and AB37 = TI as doubtful. The TROZg2 sign lacks AB51's parallel verticals and reads as an open-based PI: one text twice. MI-TA-TI-RA₂ = mattat-ʾilā 'gift of the goddess' (MA-TI-TI + I-RA₂); cf. Mattattu-Ištar (BRM 2, 45), Ug. Mtn-Baʿlu (KTU 4.115). PI = bin 'son of', n unwritten (Heb. bin-nûn, Exod 33:11; bare Ben-Hur, 1 Kgs 4:8). Against: MI for ma-; no other PI = bin. Rivals: Luwian piya- 'give' (Brown 1998: 52–56); Hurrian -tilla. Perna 2014 doubts the Linear A attribution."
+      "note": "The only word on each of two Early Bronze Age clay spindle whorls from Troy; Godart suggests the workshop patron's name (Godart 1994, 721). See the unread_words entry. No reading."
     },
     {
       "token": "PI-RU-E-JU",
@@ -10934,14 +10899,14 @@
       "normalized": "ranatusu",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "RA-NA-TU-SU",
+      "reading": "Rannatušu",
+      "meaning": "personal name, 'his shout of joy'",
       "frequency": 1,
       "attestations": [
         "PK1"
@@ -10960,24 +10925,24 @@
         "heads_document": 0
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "PK 1 .6, one word, written with its 1 and the next NI over an erasure (GORILA I 281). rannat- 'ringing cry' + -šu 'his': Arabic rannah 'a cry, in joy or sorrow' (Lane 1164), Hebrew rinnāh, with suffixes rinnātî, rinnātām (BDB 943), and the name Rinnāh (1 Chr 4:20). Rival: two names, RA-NA and TU-SU (cf. TU-SU on .6–7). See the lexicon entry."
     },
     {
       "token": "RA-O-DI-KI",
       "normalized": "raodiki",
-      "type": "personal_name",
+      "type": "title",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "RA-O-DI-KI",
+      "reading": "rāʿû diqqi",
+      "meaning": "herdsman of the small cattle",
       "frequency": 1,
       "attestations": [
         "PH2"
@@ -10996,10 +10961,10 @@
         "heads_document": 0
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "PH 2 .1–2 RA-O-DI-KI 60, after the heading A-SE-TU-*21F (GORILA I 288–289). rāʿû 'herdsman' + diqqi 'of the small cattle': Arabic huwa rāʿī ad-daqāʾiq 'he is the pastor of sheep, or goats' (Lane 896), Ugaritic dqt 'sacrificial ewe, sheep' (DULAT 276), Akkadian rēʾû, rāʾû 'herdsman' (CAD R 303). Rival: a personal name. See the lexicon entry."
     },
     {
       "token": "RA-TI-SE",
@@ -15347,7 +15312,7 @@
       "provenance": "auto",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "KN Wc 26, a roundel: NI-PI on line 2, after RU-JA. NI may be the fig logogram. No reading."
+      "note": "KN Wc 26, a roundel in a private collection, its Knossos findspot queried: NI-PI on face b, opposite RU-JA. NI may be the fig logogram. No reading."
     },
     {
       "token": "A-SA-DA-KA",
@@ -15572,14 +15537,14 @@
       "normalized": "atika",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "A-TI-KA",
-      "reading": "Atika",
-      "meaning": "personal name; compare Linear B a-ti-ka",
+      "reading": "ʿAtīqa",
+      "meaning": "personal name, 'enduring'; compare Linear B a-ti-ka",
       "frequency": 1,
       "attestations": [
         "ZAWc2"
@@ -15601,7 +15566,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "First of two words on the roundel, before A-DU-KO-[MI] (GORILA II 98). Linear B a-ti-ka, a man at Knossos (KN V 831.4; DMic I 119); Anastasiadou 2026, 40–41."
+      "note": "First word on the roundel, before A-DU-KO 2, the numeral read by Perna and Anastasiadou over GORILA's erased MI (Anastasiadou 2026, 37–39). Ugaritic ʿtq \"durable\" (DULAT 189); Linear B a-ti-ka, a man at Knossos (DMic I 119). See the lexicon entry."
     },
     {
       "token": "QA-TI-DA-TE",
@@ -16414,8 +16379,8 @@
       "normalized": "kuzuni",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "semitic",
-      "language_family": "Semitic",
+      "affiliation": "unknown",
+      "language_family": null,
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
@@ -16799,14 +16764,14 @@
       "normalized": "maru",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "MA-RU",
-      "reading": "Maru",
-      "meaning": "personal name, 'Wool' (substrate maru 'wool')",
+      "reading": "Maruʾ",
+      "meaning": "Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -16828,7 +16793,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 117a, one of ten entries counted 1 each under MA-KA-RI-TE (KU-RO 10), between KU-RA-MU and KU-PA₃-NU: a name on the wool word of logogram MA+RU. Linear B ma-ro-ne, a man's name in the dative, receives oil at KN Fh 347. One witness."
+      "note": "HT 117a, one of ten men counted 1 each under MA-KA-RI-TE (KU-RO 10), between KU-RA-MU and KU-PA₃-NU. Amorite names open with MA-RU on MRʾ (Gelb 1980, nos. 4542, 4543, 4545); *mrʾ 'fat cattle', Ugaritic mrủ 'fatling' (DULAT 563). Rival: Maru 'Wool', the wool word of logogram MA+RU. See the lexicon entry."
     },
     {
       "token": "TE-JA-RE",

@@ -60,7 +60,7 @@ di Mino; DULAT
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH86\|KH86]] | Khania | Tablet | none; form not in transliteration |
 
@@ -68,6 +68,7 @@ di Mino; DULAT
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | (ʾa)raz | cedar, 5½; rival Luwian aruza, a measure | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | (ʾa)raz | cedar (commodity); rival Luwian aruza, a measure | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Exact predicted Linear A rendering of CL Luwian tati- 'father' (Melchert 1993 p. 209). Also embedded in Troy compound forms PI-MI-TA-TI-RA₂ (TROZg1) and DU-MI-TA-TI-RA₂ (TROZg2). Currently unclassified in onomasticon. The Luwian identification is speculative: TA-TI could equally be a NWS form or abbreviation. However, the Anatolian geographic association of the Troy compounds and the exact phonological match support monitoring this as a Luwian contact candidate.
+Exact predicted Linear A rendering of CL Luwian tati- 'father' (Melchert 1993 p. 209). The Luwian identification is speculative: TA-TI could equally be a NWS form or abbreviation.
 
 ### Cognates
 
@@ -47,7 +47,6 @@ Exact predicted Linear A rendering of CL Luwian tati- 'father' (Melchert 1993 p.
 |---|---|
 | Luwian | tati- 'father' (Melchert 1993 p. 209; Payne 2014) |
 | Hittite | atta- 'father' (related but different stem) |
-| Linear A | cf. Troy compounds PI-MI-TA-TI-RA₂, DU-MI-TA-TI-RA₂ |
 
 ### Source
 

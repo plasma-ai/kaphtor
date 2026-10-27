@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1196_fire_1_to_shine_sparkle_2_light_3_lamp_4
 title: "*nūr-: 'fire' 1, 'to shine, sparkle' 2, 'light' 3, 'lamp' 4"
-desc: "Proto-Semitic *nūr-, 'fire' 1, 'to shine, sparkle' 2, 'light' 3, 'lamp' 4: reflexes in 9 language(s)."
+desc: "Proto-Semitic *nūr-, 'fire' 1, 'to shine, sparkle' 2, 'light' 3, 'lamp' 4: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1196"
@@ -39,6 +39,7 @@ updated: 2026-10-26T14:26:59Z
 | Syrian Aramaic | nūrā 1 |  |  |
 | Tigre | nor 3 (Kogan 2011, 195) | Kogan 2011 195 | gloss withheld |
 | Mehri | nawr 3 (Kogan 2011, 195) | Kogan 2011 195 | gloss withheld |
+| Amorite | nwr 2: janūr; nūrum 3 (Gelb AS 21, 28); nīru, niwru, niwar, yanwur (Buck 2019, 330) | Gelb AS 21 28; Buck 2019, 330 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

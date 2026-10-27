@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1107_forge_sharpen
 title: "*ḥVdVd-: 'forge, sharpen'"
-desc: "Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1107"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḥdd u/i,1 |  |  |
 | Hebrew | ḥdd (hof.); \*ḥad (HALOT 291) | HALOT 291 | gloss withheld |
 | Akkadian | edēdu; eddu (HALOT 291) | HALOT 291 | gloss withheld |
+| Amorite | ḥiddu, ḥadīdu (Buck 2019, 327) | Buck 2019, 327 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

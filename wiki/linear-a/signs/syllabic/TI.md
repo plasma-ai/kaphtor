@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
-| [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | Atika | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_KI_TI\|DA-KI-TI]] | daqqati | SPECULATIVE |
@@ -69,6 +69,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | \*kanasti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | kanuti / ganuti | PROBABLE |
+| [[wiki/linear-a/words/K/KA_TI\|KA-TI]] | Gattī | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_TI_TI\|MA-TI-TI]] | mattitt(u) | CANDIDATE |
 | [[wiki/linear-a/words/N/NU_TI\|NU-TI]] | nuti | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CONFIRMED |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/K0073_eject
 title: "*garāš-: 'eject'"
-desc: "Proto-Semitic *garāš-, 'eject': reflexes in 9 language(s)."
+desc: "Proto-Semitic *garāš-, 'eject': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0073"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | Moab grš (DNWSI 236 apud SEDonline 1522) | DNWSI 236; SEDonline 1522 | gloss withheld |
 | Ugaritic | /g-r-š/ (DULAT 305) | DULAT 305 | gloss withheld |
 | Arabic | ǯarīsat- (Kogan 2015, ch. 5 §3.1 no. 27) | Kogan 2015 ch. 5 §3.1 no. 27 | gloss withheld |
+| Emar | gi-ri-šu /girrīšu/ (Pentiuc 2001, 53) | Pentiuc 2001 53 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

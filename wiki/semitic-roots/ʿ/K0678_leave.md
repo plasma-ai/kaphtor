@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0678_leave
 title: "*ʿVḏVb-: 'leave'"
-desc: "Proto-Semitic *ʿVḏVb-, 'leave': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʿVḏVb-, 'leave': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0678"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʿazab 'leave' | Anderson–Moser 2024 root ʿḏb |  |
 | Ugaritic | ʿdb 'leave' | Anderson–Moser 2024 root ʿḏb |  |
 | Amorite | ʿzb: jaʿzub, ʿazabum, ʿazibum, ʿaziba (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
+| Emar | a-zi-ib-tu, az-ba-ti /ʿazibtu/, /ʿazbāti/ (Pentiuc 2001, 29) | Pentiuc 2001 29 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -64,5 +64,5 @@ def test_data_cache_reads_schema_2(monkeypatch, tmp_path):
 def test_the_shipped_roots_read_as_records():
     data_cache.clear()
     recs = data_cache.semitic_roots()
-    assert len(recs) == 4276
+    assert len(recs) == 4349
     assert all({"Number", "Proto-Semitic", "Meaning", "Analogues"} <= set(r) for r in recs)

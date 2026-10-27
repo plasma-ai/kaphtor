@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3266_like_as_in_the_manner_of
 title: "*kV: 'like, as, in the manner of'"
-desc: "Proto-Semitic *kV, 'like, as, in the manner of': reflexes in 8 language(s)."
+desc: "Proto-Semitic *kV, 'like, as, in the manner of': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3266"
@@ -37,6 +37,7 @@ updated: 2026-10-25T05:11:48Z
 | Epigraphic South Arabian | Sab. k- (SD 76 apud SEDonline 1387); Qat. k- (LIQ 83 apud SEDonline 1387) | SD 76; SEDonline 1387; LIQ 83 | gloss withheld |
 | East Ethiopic | Sel. Wol. ko (EDG 332 apud SEDonline 1387) | EDG 332; SEDonline 1387 | gloss withheld |
 | Gurage | End. Enn. Gye. xä, Sod. ko (EDG 332 apud SEDonline 1387) | EDG 332; SEDonline 1387 | gloss withheld |
+| Amorite | ka/kī (Buck 2019, 328) | Buck 2019, 328 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʿădar 'to help' (Jastrow 1046) | Jastrow 1046 |  |
 | Punic | ʿzr 'help' | Anderson–Moser 2024 root ʿḏr |  |
 | Syrian Aramaic | ʿedrā (HALOT 811) | HALOT 811 | gloss withheld |
-| Amorite | ʿḏr: jaʿḏar, ʿaḏar, ʿaḏarum, ʿāḏirum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
+| Amorite | ʿḏr: jaʿḏar, ʿaḏar, ʿaḏarum, ʿāḏirum (Gelb AS 21, 15); yaʿḏur, ʿaḏru/ʿaḏiru (Buck 2019, 324–325) | Gelb AS 21 15; Buck 2019, 324–325 | gloss withheld |
 | Canaanite | EA i-zi-ir-tu, i-zir-t\[a\], ḫi-zi-ir-ta (Kogan 2015, ch. 3 §5.3 no. 2, fn. 608) | Kogan 2015 ch. 3 §5.3 no. 2, fn. 608 | gloss withheld |
 | Akkadian | azāru (CAD A/2 527) | CAD A/2 527 | gloss withheld |
 

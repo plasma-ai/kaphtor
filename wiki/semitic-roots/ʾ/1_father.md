@@ -53,7 +53,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʾb (DNWSI 1 apud CAL) | DNWSI 1; CAL; Anderson–Moser 2024 root abb | gloss withheld |
 | Punic | ʾb 'father' | Anderson–Moser 2024 root abb |  |
 | Gafat | abʷä (LGz. 2) | LGz. 2 |  |
-| Amorite | ʾabum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
+| Amorite | ʾabum (Gelb AS 21, 13); ʾabu (Buck 2019, 323) | Gelb AS 21 13; Buck 2019, 323 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾb (Al-Jallad–Jaworska 38) | Al-Jallad–Jaworska 38 | gloss withheld |
 | Argobba | aw, abba (Leslau 1997:194, AAD 285 apud SEDonline 489) | Leslau 1997:194, AAD 285; SEDonline 489 | gloss withheld |
 

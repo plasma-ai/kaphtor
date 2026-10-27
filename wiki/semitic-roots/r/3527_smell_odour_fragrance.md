@@ -32,10 +32,10 @@ updated: 2026-10-25T06:28:07Z
 | Hebrew | rēaḥ (HALOT 1226) | HALOT 1226 | gloss withheld |
 | Ugaritic | rḥ (HALOT 1226) | HALOT 1226 | gloss withheld |
 | Phoenician | rḥ (Krahmalkov 443) | Krahmalkov 443 | gloss withheld |
-| Syrian Aramaic | rīḥā 'smell, odour; pl. perfumes' (Payne Smith 539); rīḥūtā 'fragrance' (Payne Smith 539); rāʾḥā 'odour' (Payne Smith 524) | Payne Smith 539; Payne Smith 524 |  |
+| Syrian Aramaic | rīḥā 'smell, odour; pl. perfumes' (Payne Smith 539); rīḥūtā 'fragrance' (Payne Smith 539); rāʾḥā 'odour' (Payne Smith 524); rīḥānā 'spiced, fragrant, aromatic' (Payne Smith 539) | Payne Smith 539; Payne Smith 524 |  |
 | Mandaic Aramaic | riha (HALOT 1226) | HALOT 1226 | gloss withheld |
 | Arabic | rāʾiḥat, rīḥ (Lane 1182); rīḥat (HALOT 1226) | Lane 1182; HALOT 1226 | gloss withheld |
-| Geez | rĕḥē (HALOT 1226) | HALOT 1226 | gloss withheld |
+| Geez | rĕḥē (HALOT 1226); rəḥe, pl. rəḥeyāt, (Lt) rəḫe (LGz. 467) | HALOT 1226; T; LGz. 467 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

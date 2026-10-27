@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | danya, dayna (LGz. 146) | LGz. 146 | gloss withheld |
 | Argobba | daňňa (n.) (LGz. 146) | LGz. 146 | gloss withheld |
 | Gurage | daňňä (LGz. 146) | LGz. 146 |  |
-| Amorite | djn: jadīn, dīnum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Amorite | djn: jadīn, dīnum (Gelb AS 21, 17); dān, ladīn, dīn (Buck 2019, 326) | Gelb AS 21 17; Buck 2019, 326 | gloss withheld |
 | Syrian Aramaic | dān 'judge; plead, contend' (Payne Smith 86) | Payne Smith 86 |  |
 | East Ethiopic | Wol. daññä, Zwy. dāñña (EDG 216 apud SEDonline 1991) | EDG 216; SEDonline 1991 | gloss withheld |
 | Eblaitic | da-ne-u\[m\] /daynim/ (gen.), in ba-da-gu da-ne-u\[m\] (VE 1327; Krebernik 1983, 43) | VE 1327; Krebernik 1983, 43 | gloss withheld |

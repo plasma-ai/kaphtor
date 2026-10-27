@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T17:41:57Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/z
@@ -51,7 +51,7 @@ updated: 2026-10-26T17:41:57Z
 
 [[wiki/semitic-roots/z/2310_starling|2310_starling]]: Proto-Semitic *zVrzVr-, 'starling': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/z/2536_seed_sowing|2536_seed_sowing]]: Proto-Semitic *zVrVʕ-, 'seed, sowing': reflexes in 14 language(s).
+[[wiki/semitic-roots/z/2536_seed_sowing|2536_seed_sowing]]: Proto-Semitic *zVrVʕ-, 'seed, sowing': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/z/2542_be_small|2542_be_small]]: Proto-Semitic *zVʕVr-, 'be small': reflexes in 5 language(s).
 
@@ -123,6 +123,8 @@ updated: 2026-10-26T17:41:57Z
 
 [[wiki/semitic-roots/z/3681_to_buzz_resound_make_a_confused_sound|3681_to_buzz_resound_make_a_confused_sound]]: Proto-Semitic *zmm, 'to buzz, resound, make a confused sound': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/z/3764_to_spread_the_wings|3764_to_spread_the_wings]]: Proto-Semitic *zpp, 'to spread the wings': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/z/421_reed_mat_1_k_of_grass_used_for_basketwork_2|421_reed_mat_1_k_of_grass_used_for_basketwork_2]]: Proto-Semitic *zibn- 1 ~ *zabaz- 2, 'reed mat' 1, 'k. of grass used for basketwork' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/z/476_march_with_small_steps|476_march_with_small_steps]]: Proto-Semitic *zVkk-, 'march with small steps': reflexes in 1 language(s).
@@ -173,7 +175,7 @@ updated: 2026-10-26T17:41:57Z
 
 [[wiki/semitic-roots/z/SA136_INCREASE_s_th|SA136_INCREASE_s_th]]: Epigraphic South Arabian headword *zʾd, 'INCREASE s.th': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/z/SA174_party_troop_of_men_incursion_invasion|SA174_party_troop_of_men_incursion_invasion]]: Epigraphic South Arabian headword *zrp, 'party, troop of men; incursion, invasion': reflexes in 2 language(s).
+[[wiki/semitic-roots/z/SA174_party_troop_of_men_incursion_invasion|SA174_party_troop_of_men_incursion_invasion]]: Epigraphic South Arabian headword *zrp, 'party, troop of men; incursion, invasion': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/z/SA175_water_diverters_distributors|SA175_water_diverters_distributors]]: Epigraphic South Arabian headword *zwr, 'water diverters, distributors': reflexes in 2 language(s).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2120_wild_beast_lion
 title: "*ʾarway-: 'wild beast; lion'"
-desc: "Proto-Semitic *ʾarway-, 'wild beast; lion': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾarway-, 'wild beast; lion': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2120"
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʔaryā 'lion', ʔaryūtā 'lioness' \[Brock. 48\], \[PS 378-9\]. | Brock. 48; PS 378-9 |  |
 | Aramaic | Anc. ʔryh \[HJ 107\] | HJ 107 | gloss withheld |
 | Tigrinya | arä 'wild beast, fierce animal, and principally denotes the leopard' \[Bass. 493\], ʔarawit 'wild beast, fierce animal, wild animal' \[ibid. 497\]. | Bass. 493; Bass. 497 |  |
+| Amorite | ʾarî (Buck 2019, 324) | Buck 2019, 324 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

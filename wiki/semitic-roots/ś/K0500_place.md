@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/K0500_place
 title: "*śVyVm-: 'place'"
-desc: "Proto-Semitic *śVyVm-, 'place': reflexes in 17 language(s)."
+desc: "Proto-Semitic *śVyVm-, 'place': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0500"
@@ -43,9 +43,10 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | säyyämä (LGz. 540) | LGz. 540 | gloss withheld |
 | Amharic | šomä (LGz. 540) | LGz. 540 | gloss withheld |
 | Tigre | šäyäma (LGz. 540) | LGz. 540 |  |
-| Amorite | śjm: jaśīm, śāma, śāmum, śāmtum (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
+| Amorite | śjm: jaśīm, śāma, śāmum, śāmtum (Gelb AS 21, 32); śāma, yaśīm (Buck 2019, 332) | Gelb AS 21 32; Buck 2019, 332 | gloss withheld |
 | Phoenician | šm (T 322) | T 322 | gloss withheld |
 | Eblaitic | si-mi /šīm/ (Kogan–Krebernik 2021b: 685 apud SEDonline 1871) | SEDonline 1871 | gloss withheld |
+| Emar | ma-ši-mu /maśīmu/ (Pentiuc 2001, 123) | Pentiuc 2001 123 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3212_maternal_uncle
 title: "*ḫāl-: 'maternal uncle'"
-desc: "Proto-Semitic *ḫāl-, 'maternal uncle': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḫāl-, 'maternal uncle': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3212"
@@ -35,6 +35,7 @@ updated: 2026-10-24T15:25:56Z
 | Mehri | ḫayl; ḫəlūt (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
 | Jibbali | ḫíẑ; ḫɔ́lɔ́t (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
 | Soqotri | ḥalēle; ḥéloh (Kogan 2011, 235) | Kogan 2011 235 | gloss withheld |
+| Amorite | ḫālu, ḫālatānu (Buck 2019, 328) | Buck 2019, 328 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

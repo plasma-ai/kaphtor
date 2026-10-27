@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/403_rope
 title: "*ḥabl-: 'rope'"
-desc: "Proto-Semitic *ḥabl-, 'rope': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḥabl-, 'rope': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "403"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥablā (HALOT 286) | HALOT 286 | gloss withheld |
 | Tigre | ḥabl (Wb. 78a; HALOT 286) | Wb. 78a; HALOT 286 | gloss withheld |
 | Eblaitic | ʔà-ba-lu /ḥablu(m)/ (VE 1174b; Krebernik 1983, 41) | VE 1174b; Krebernik 1983, 41 | gloss withheld |
+| Amorite | ḫabalu (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,7 +34,7 @@ updated: 2026-10-26T17:41:55Z
 | Hebrew | yaqar 'esteem' | Anderson–Moser 2024 root wqr |  |
 | Ugaritic | yqr (HALOT 431) | HALOT 431 |  |
 | Arabic | waqura (HALOT 431); ʾawqarahu, waqarahu 2 (Lane 2960) | HALOT 431; Lane 2960 | gloss withheld |
-| Amorite | wqr: yaqir-, yaqur- (Huffmon APNM 214) | Huffmon APNM 214 | gloss withheld |
+| Amorite | wqr: yaqir-, yaqur- (Huffmon APNM 214); yaqqīrum (Buck 2019, 334) | Huffmon APNM 214; Buck 2019, 334 | gloss withheld |
 | Syrian Aramaic | yiqar 'be heavy; be precious; honour' 1, 2 (Payne Smith 196); yuqrā 'burden, weight, charge' 2 (Payne Smith 190) | Payne Smith 196; Payne Smith 190 |  |
 | Biblical Aramaic | yqyr (HALOT 431) | HALOT 431 |  |
 | Mandaic Aramaic | yqyr (HALOT 431) | HALOT 431 |  |

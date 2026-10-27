@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3604_fold_of_a_garment_or_of_the_arms
 title: "*ḫbn: 'fold (of a garment or of the arms)'"
-desc: "Proto-Semitic *ḫbn, 'fold (of a garment or of the arms)': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫbn, 'fold (of a garment or of the arms)': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3604"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Akkadian | ḫabūnu (CAD Ḫ 21) | CAD Ḫ 21 | gloss withheld |
 | Arabic | ḫabana 'he folded it, namely, a garment, in its skirt, and sewed it, in order that it might become shorter'; iḫtabana 'he took and carried the thing beneath the part extending from his armpit to his flank'; ḫubna 'the doubled upper border of the trousers, in which one hides a thing; or the raised skirt of the garment, in which one carries a thing' (Lane 700) | Lane 700 |  |
+| Geez | ḫabana (yəḫbən); ḫəbbāne (LGz. 256) | LGz. 256 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

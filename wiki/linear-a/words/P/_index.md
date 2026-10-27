@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T15:14:19Z
+updated: 2026-10-27T21:51:03Z
 ---
 
 # wiki/linear-a/words/P
@@ -67,7 +67,7 @@ updated: 2026-10-27T15:14:19Z
 
 [[wiki/linear-a/words/P/PA_RO_SU|PA_RO_SU]]: Parʿōš: personal or clan name, 'Flea'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Unread (role only): gentilic; 1 occurrence(s).
+[[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Baṣariya: the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_SE|PA_SE]]: Unread (role only): administrative heading; 2 occurrence(s).
 
@@ -93,7 +93,7 @@ updated: 2026-10-27T15:14:19Z
 
 [[wiki/linear-a/words/P/PI_MI_NA_TE|PI_MI_NA_TE]]: […]-pi-minate: damaged sequence; possible mnt/mināt 'portion, allotment'; rival minḥâ 'offering'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_MI_TA_TI_RA2|PI_MI_TA_TI_RA2]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/P/PI_MI_TI_TA_RA2|PI_MI_TI_TA_RA2]]: Unread (role only): personal name; 2 occurrence(s).
 
 [[wiki/linear-a/words/P/PI_MU|PI_MU]]: Unread (role only): personal name; 1 occurrence(s).
 

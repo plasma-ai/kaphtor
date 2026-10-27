@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | rʿ (CUC; DULAT 715) | CUC; DULAT 715 | gloss withheld |
 | Aramaic | rʿh, rʿyn (HALOT 1253) | HALOT 1253 |  |
 | Judaic Aramaic | rəʿūtā (HALOT 1265) | HALOT 1265 | gloss withheld |
-| Amorite | riʿum (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | riʿum (Gelb AS 21, 30); raʿayu/raʿî (Buck 2019, 331) | Gelb AS 21 30; Buck 2019, 331 | gloss withheld |
 | Phoenician | rʿ (root rʿy) (B 409) | B 409 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic rʿ (Al-Jallad–Jaworska 113) | Al-Jallad–Jaworska 113 | gloss withheld |
 | Tigre | räwʕa (Leslau CDG 459) | Leslau CDG 459 | gloss withheld |

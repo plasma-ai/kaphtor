@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/2240_lion_ess
 title: "*labVʾ-: 'lion(ess)'"
-desc: "Proto-Semitic *labVʾ-, 'lion(ess)': reflexes in 9 language(s)."
+desc: "Proto-Semitic *labVʾ-, 'lion(ess)': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2240"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab. lbʔ \[SD 81; Sabaweb lemma 2394\] | SD 81; Sabaweb lemma 2394 | gloss withheld |
 | Aramaic | lbʔ \[HJ 562\] | HJ 562 | gloss withheld |
 | Punic | lbʾ 'lion' | Anderson–Moser 2024 root lbʾ |  |
+| Amorite | labiʾu, labuʾu (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | Cf. bahṯat- |  | gloss withheld |
-| Akkadian | bâšu, baʔāšu 2 |  |  |
-| Ugaritic | bṯ-t, bhṯ 1, bwṯ 2 |  |  |
-| Hebrew | būšā 1, bwš 2 |  |  |
+| Akkadian | bâšu, baʔāšu 2; buššu 2 (CAD B 5) | CAD B 5 | gloss withheld |
+| Ugaritic | bṯt 1 (DULAT 250); bhṯ 1 (DULAT 216); bṯ 2 (DULAT 249) | DULAT 250; DULAT 216; DULAT 249 | gloss withheld |
+| Hebrew | būšâ 1 (HALOT 117); bôš 2 (HALOT 116) | HALOT 117; HALOT 116 | gloss withheld |
 | Syrian Aramaic | behtōt- 1, bht 2 (Payne Smith 37) | Payne Smith 37 |  |
 | Aramaic | (Emp) bwt (DNWSI 148 apud CAL) | DNWSI 148; CAL |  |
 | Amorite | bwš: bāš(ān)um, bāštum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |

@@ -1562,9 +1562,9 @@
         },
         {
           "linear_a": "MA-RU",
-          "reading": "Maru",
-          "gloss": "personal name, 'Wool'",
-          "confidence": "CANDIDATE"
+          "reading": "Maruʾ",
+          "gloss": "personal name, 'Fattened'; rival Maru 'Wool'",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "KU-PA₃-NU",
@@ -1627,7 +1627,7 @@
           "confidence": "PROBABLE"
         }
       ],
-      "translation": "Merchants—owed: Ummī-naśiʾ: ʾUšu 1, Mītu 1, Kurmu ('Vineyard') 1, Maru ('Wool') 1, Kubānu 1, Tuʿlum 1, ʾUdumī 1, MI-RU-TA-RA-RE 1, Tayru ('Bull') 1, Nadr ('Vow') 1. Total: 10. Šata: Kukkadal 1, KO-SA-I-TI 1, Dimenu 1, Ḏā-naquddi 1, Qidaru 1.",
+      "translation": "Merchants—owed: Ummī-naśiʾ: ʾUšu 1, Mītu 1, Kurmu ('Vineyard') 1, Maruʾ ('Fattened') 1, Kubānu 1, Tuʿlum 1, ʾUdumī 1, MI-RU-TA-RA-RE 1, Tayru ('Bull') 1, Nadr ('Vow') 1. Total: 10. Šata: Kukkadal 1, KO-SA-I-TI 1, Dimenu 1, Ḏā-naquddi 1, Qidaru 1.",
       "confidence": "CANDIDATE",
       "notes": "Context: Personnel list—individual names with qty 1 allocations\n\nMA-KA-RI-TE 'merchants' heads a roster of men owing 1 each, as Ugaritic lists count mkrm 'merchants' with a total (ġr mkrm, DULAT 537); rival makritu 'red' (CAD M/1 138). One written word in both witnesses. Personnel allocation list with named recipients. KI-RO is 'owed', not 'all, total'. U-MI-NA-SI heads the roster outside the count: the ten one-unit entries from U-SU to NA-DA-RE make KU-RO 10. KI-DA-RO is the personal name Qidaru, last of the SA-TA roster below the ruling. Six of the fifteen names recur as men's names in Linear B at Knossos: U-SU u-su (KN V 7512), TE-JA-RE te-ja-ro (KN V 479), NA-DA-RE no-da-ro (KN As 609), KU-KU-DA-RA ku-ka-da-ro (KN Uf 836), DA-MI-NU da-mi-ni-jo (KN D series), KI-DA-RO ki-da-ro (KN E 842); MA-RU compares with ma-ro at Pylos (PY Cn 328) (DMic I–II). Both sections list persons.",
       "source": {
@@ -11099,6 +11099,79 @@
       "notes": "GORILA I 25: .4–5 MA+RU · *118 5, the wool ligature (A559) before *118. CYP+E is a fraction rider (CYP ¼ measure), not a syllabic qualifier. *304 is read pidru(?) 'fat' (CANDIDATE). Unresolved: the two QA₂ compounds and the *118 word. DA-I 50 totals the allocations.",
       "source": "di Mino"
     },
+    "HT13": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "KA-U-DE-TA",
+          "reading": "Kaw-tatta",
+          "gloss": "personal name, heading the list; Hurrian kaw- + tatt- 'love'",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "VIN",
+          "reading": "wayn",
+          "gloss": "wine (logogram)",
+          "confidence": "PROBABLE"
+        },
+        {
+          "linear_a": "TE",
+          "reading": "terûmā",
+          "gloss": "contribution (transaction sign)",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "RE-ZA",
+          "reading": "(ʾa)raz",
+          "gloss": "cedar, 5½; rival Luwian aruza, a measure",
+          "confidence": "SPECULATIVE",
+          "note": "GORILA prints the numeral 5[ ]J, with a lacuna before the fraction."
+        },
+        {
+          "linear_a": "TE-TU",
+          "reading": "Tetu",
+          "gloss": "personal name, 56; Ugaritic tt",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "TE-KI",
+          "reading": "Tegi",
+          "gloss": "personal name 'Beautiful', 27½; Hurrian tegi",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "KU-ZU-NI",
+          "reading": "Kuṯinu",
+          "gloss": "personal name, 18; Ugaritic kṯn",
+          "confidence": "SPECULATIVE",
+          "note": "GORILA doubts the fourth unit of the upper row."
+        },
+        {
+          "linear_a": "DA-SI-*118",
+          "reading": "Ḏā-šiṭṭa",
+          "gloss": "those of Acacia (a roster unit), 19",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "I-DU-NE-SI",
+          "reading": "Yidu-naḥši",
+          "gloss": "personal name 'Strength is alive', 5; rival Hurrian nešše",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "KU-RO",
+          "reading": "kull",
+          "gloss": "total, 130½",
+          "confidence": "CONFIRMED"
+        }
+      ],
+      "translation": "Kaw-tatta: wine, contribution (TE): cedar 5½; Tetu 56; Tegi 27½; Kuṯinu 18; those of Acacia 19; Yidu-naḥši 5. Total 130½.",
+      "confidence": "SPECULATIVE",
+      "status": "incomplete",
+      "notes": "GORILA I 27: .4–7 over an erasure. The entries sum to 131 against KU-RO 130½; GORILA prints RE-ZA's numeral 5[ ]J with a lacuna and doubts a unit of KU-ZU-NI's 18.",
+      "source": "di Mino"
+    },
     "LMP-Spell33": {
       "site": "Thebes (Egypt)",
       "support": "Papyrus (BM 10059)",
@@ -12902,10 +12975,10 @@
         },
         {
           "linear_a": "PA-SA-RI-JA",
-          "reading": null,
-          "gloss": "second section heading, a gentilic in -iya. No reading.",
-          "confidence": null,
-          "note": "Heads the second section as KU-PA₃-RI-JA Kubariya heads the first: X-iya, RI the stem's last consonant. Stem Pasar- unidentified. Rival: Ugaritic bṣr, Baṣiru (DULAT 240), with PA for b. No reading."
+          "reading": "Baṣariya",
+          "gloss": "the Baṣirean, gentilic of Baṣīru, a town of Ugarit: second section heading",
+          "confidence": "SPECULATIVE",
+          "note": "Heads the second section as KU-PA₃-RI-JA Kubariya heads the first. Ugaritic bṣr, gentilic bṣry (DULAT 240); both towns stand in the same Ugarit lists (RGTC 12/2, 53)."
         },
         {
           "linear_a": "RU-I-KO",
@@ -12922,10 +12995,10 @@
           "note": "GORILA I 43: .5 RỤ-Ị-KO · MA+RU[, the wool ligature on the broken right edge. Not readable."
         }
       ],
-      "translation": "Of-Kubariya: KI-MA+RU-[…] 6. The wool: 10[…]. […] 9½. The wool: 6. Of-[PA-SA-RI-JA]: the wool […]. RU-I-KO: MA+RU-[…].",
+      "translation": "Of-Kubariya: KI-MA+RU-[…] 6. The wool: 10[…]. […] 9½. The wool: 6. The Baṣirean: the wool […]. RU-I-KO: MA+RU-[…].",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
-      "notes": "Context: LM IB two-section wool ledger. Wool allocations under the headings KU-PA₃-RI-JA and PA-SA-RI-JA.\n\nGORILA I 42–43: .1 KU-PA₃-RI-JA · KỊ-MA+RU[ .2 6 MA+RU-ME 10[ .3 9 ½ MA+RU-MẸ 6 .4 PA-SA-RI-JA · MA+RU-MẸ[ .5 RỤ-Ị-KO · MA+RU[. The wool ligature MA+RU (A559) opens the group on every line, and marūm 'the wool' carries the quantities. Complete when the two -RI-JA headings and RU-I-KO are resolved.",
+      "notes": "Context: LM IB two-section wool ledger. Wool allocations under the headings KU-PA₃-RI-JA and PA-SA-RI-JA.\n\nGORILA I 42–43: .1 KU-PA₃-RI-JA · KỊ-MA+RU[ .2 6 MA+RU-ME 10[ .3 9 ½ MA+RU-MẸ 6 .4 PA-SA-RI-JA · MA+RU-MẸ[ .5 RỤ-Ị-KO · MA+RU[. The wool ligature MA+RU (A559) opens the group on every line, and marūm 'the wool' carries the quantities. Complete when RU-I-KO is resolved.",
       "source": {
         "di Mino": [
           "MA-RU-ME",
@@ -13992,9 +14065,10 @@
         },
         {
           "linear_a": "TE-TU-[…]",
-          "reading": null,
-          "meaning": "administrative roster label (unread)",
-          "note": "The right edge is damaged and a continuation may be lost. TE-TU is independently attested on HT7a and HT13."
+          "reading": "Tetu",
+          "meaning": "personal name; Ugaritic tt",
+          "confidence": "SPECULATIVE",
+          "note": "At the line end; GORILA notes that the lacuna opening .3 perhaps hides no sign (GORILA I 133). TE-TU is whole on HT 7a and HT 13."
         },
         {
           "linear_a": "KA",
@@ -14042,7 +14116,7 @@
           "note": "Arabic qayn 'smith, artisan' and Sabaic qyn 'administrator, governor,' including administrators of a god, support an occupational reading (Biella 1982, 454). The exact relation to Hebrew qēnî 'Kenite' remains uncertain."
         }
       ],
-      "translation": "Men of the Kikkar (KI-KI-RA-JA): Kret(a) 1; QE-KA 1; PA 1; TE-TU-[…] 1; KA 1; DI 1; corvée gang 1; Redis 1; WA-DU-NI-MI 1; MA-DI 1; smith or administrator(?) 1.",
+      "translation": "Men of the Kikkar (KI-KI-RA-JA): Kret(a) 1; QE-KA 1; PA 1; Tetu 1; KA 1; DI 1; corvée gang 1; Redis 1; WA-DU-NI-MI 1; MA-DI 1; smith or administrator(?) 1.",
       "confidence": "SPECULATIVE",
       "status": "complete",
       "notes": "Reverse of HT85a. Eleven entries of 1 occur under KI-KI-RA-JA, with no written total. Surface damage affects the tablet, and TE-TU is damaged at the right edge. PA, KA and DI are logograms in SigLA's analysis; QE-KA and RE-DI-SE remain untranslated roster labels; ME-ZA is massu 'corvée gang'.",
@@ -14155,13 +14229,12 @@
         },
         {
           "linear_a": "KU-DA",
-          "reading": null,
-          "gloss": "unread",
-          "confidence": null,
-          "note": "A counted entry, 1, within PO-TO-KU-RO 97 (HT122b). No reading."
+          "reading": "Gūda",
+          "gloss": "personal name, 1, added below the total and counted in PO-TO-KU-RO 97 (HT122b); Amorite Guʾuda (Gelb 1980, no. 1791); rivals Kutta, qāʾid 'chief'",
+          "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "[…]RA-RI: U-DE-ZA 2[…]; […] 2; those of Acacia 2. PA-[…]: […]DI 1; Tegi 2; Qaynī 3; Yamidare 1; Siddāru 1; Sōdir 1; Padī 1; Kubānu 1; Patne 1; ʿAttu 1[…]; […]DU 1; Kubānu 1; Dardaʿ 1. Total 31. KU-DA 1.",
+      "translation": "[…]RA-RI: U-DE-ZA 2[…]; […] 2; those of Acacia 2. PA-[…]: […]DI 1; Tegi 2; Qaynī 3; Yamidare 1; Siddāru 1; Sōdir 1; Padī 1; Kubānu 1; Patne 1; ʿAttu 1[…]; […]DU 1; Kubānu 1; Dardaʿ 1. Total 31. Gūda 1.",
       "confidence": "CANDIDATE",
       "status": "complete",
       "notes": "Personnel roster, mostly 1 per entry. Visible entries sum to 22 against KU-RO 31: a lost pair sums to 9. Cross-face: KU-RO 31 + KU-DA 1 + KU-RO(b) 65 = PO-TO-KU-RO 97. Shares PA-DE, *306-TU, *324-DI-RA with the HT9a/b wine roster.",
@@ -14599,10 +14672,10 @@
         },
         {
           "linear_a": "RA-O-DI-KI",
-          "reading": null,
-          "gloss": "personal name (unread), 60",
-          "confidence": null,
-          "note": "Intact and undotted. No reading."
+          "reading": "rāʿû diqqi",
+          "gloss": "herdsman of the small cattle (title), 60; rival a personal name",
+          "confidence": "SPECULATIVE",
+          "note": "rāʿû 'herdsman' + diqqi 'of the small cattle', as Arabic rāʿī ad-daqāʾiq (Lane 896)."
         },
         {
           "linear_a": "PI-RU-E-JU",
@@ -14618,13 +14691,14 @@
           "note": "Mari Zizap(-)a, zi-za-ba (Monti 2017, 319)."
         }
       ],
-      "translation": "Aštuḫḫa 1; RA-O-DI-KI 60; Pirʾu-ʾēlu 60; Zizapa 60 […]",
+      "translation": "Aštuḫḫa 1; herdsman of the small cattle 60; Pirʾu-ʾēlu 60; Zizapa 60 […]",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "Four entries, SE-SA-PA₃ the last before the break (GORILA I 288–289). Three take 60 each.",
       "source": {
         "di Mino": [
           "A-SE-TU-*21F",
+          "RA-O-DI-KI",
           "PI-RU-E-JU",
           "SE-SA-PA₃"
         ]
@@ -14713,19 +14787,46 @@
         },
         {
           "linear_a": "TE-TU",
-          "reading": null,
-          "gloss": "roster label (unread), 1",
-          "confidence": null,
-          "note": "TE over an erasure (GORILA I 15); a recurring HT unit (HT 13, HT 85b). No reading."
+          "reading": "Tetu",
+          "gloss": "personal name, 1; Ugaritic tt",
+          "confidence": "SPECULATIVE",
+          "note": "TE over an erasure (GORILA I 15). The same man takes 56 on the HT 13 wine list and 1 on the HT 85b roster."
         }
       ],
-      "translation": "In the charge of (QE-TI), men: Iruja 3; Tuya 4; Tanāti 1; the estate (DA-RE) 1; TE-TU 1.",
+      "translation": "In the charge of (QE-TI), men: Iruja 3; Tuya 4; Tanāti 1; the estate (DA-RE) 1; Tetu 1.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "QE-TI · VIR+[?] heads five entries totalling 10.",
       "source": {
         "di Mino": [
           "DU-JA"
+        ]
+      }
+    },
+    "HT7b": {
+      "site": "Haghia Triada",
+      "support": "Tablet",
+      "words": [
+        {
+          "linear_a": "*21F-TU-NE",
+          "reading": "hatune",
+          "gloss": "bridegroom, son-in-law, 1",
+          "confidence": "CANDIDATE"
+        },
+        {
+          "linear_a": "DA-RU-*329",
+          "reading": "Dārum",
+          "gloss": "personal name, 'Eternal', 2; rival Arabic Dārim",
+          "confidence": "SPECULATIVE",
+          "note": "*329 read mo (Montecchi 2024, 173)."
+        }
+      ],
+      "translation": "Bridegroom 1; Dārum 2.",
+      "confidence": "SPECULATIVE",
+      "notes": "Both lines over an erasure (GORILA I 15). With face a's 10, the tablet counts 13 men.",
+      "source": {
+        "di Mino": [
+          "DA-RU-*329"
         ]
       }
     },
@@ -15718,10 +15819,10 @@
         },
         {
           "linear_a": "RA-NA-TU-SU",
-          "reading": null,
-          "gloss": "personal name (unread), 1",
-          "confidence": null,
-          "note": "Written over an erasure. No reading."
+          "reading": "Rannatušu",
+          "gloss": "personal name 'his shout of joy', 1; rival two names, RA-NA and TU-SU",
+          "confidence": "SPECULATIVE",
+          "note": "rannat- 'ringing cry' + -šu 'his', written with its 1 and the next NI over an erasure."
         },
         {
           "linear_a": "NI-MI",
@@ -15759,13 +15860,14 @@
           "note": "Stands in a name slot, closing the list."
         }
       ],
-      "translation": "SI-[·]-NE-TI 1; KA-QA 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — O-TE-JA 1 — RA-NA-TU-SU 1; NI-MI 1 — TU-SU 1; MA-TI-ZA-I-TE 1 — MA-TE-TI 1; magical protection 1.",
+      "translation": "SI-[·]-NE-TI 1; KA-QA 2 — ʾAddu-ʿazz 1; Tatare 1 — Tati-te 1; Ukammis-Sîn 1 — O-TE-JA 1 — Rannatušu 1; NI-MI 1 — TU-SU 1; MA-TI-ZA-I-TE 1 — MA-TE-TI 1; magical protection 1.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "A list of names between rulings, each with 1, KA-QA with 2 (GORILA I 281).",
       "source": {
         "di Mino": [
-          "TA₂-TI-TE"
+          "TA₂-TI-TE",
+          "RA-NA-TU-SU"
         ]
       }
     }

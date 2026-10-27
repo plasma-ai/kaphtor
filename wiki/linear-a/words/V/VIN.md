@@ -62,6 +62,7 @@ Non-phonetic commodity ideogram denoting wine. 52 standalone, 10 sites—widest 
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3b\|ARKH3b]] | \[ideogram\] | wine |  |
 | [[wiki/linear-a/inscriptions/CR/CRZg/CRZg3\|CRZg3]] | wayn | wine (?) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | wayn | wine | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | wayn | wine (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | wine | wine (commodity ideogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | wine | wine (commodity ideogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | wayn | wine | PROBABLE |

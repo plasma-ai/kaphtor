@@ -47,4 +47,8 @@ updated: 2026-10-26T14:26:59Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Cf. 3713 \*ʾn 'where?': HALOT 69 asks whether Hebrew ʾān comes from II ʾayin (BL 631e), which HALOT 42 derives from \*ʾay with Arabic ʾaina.
+
 <!-- END kaphtor:record -->

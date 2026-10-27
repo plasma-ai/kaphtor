@@ -48,7 +48,7 @@ class TestMap:
                    "Clay chalice rim (two nonjoining fragments); painted inscription"]
         unknown = ["Tablet", "Lames (short thin tablet)", "3-sided bar", "4-sided bar", "Roundel", "Nodule", "Sealing",
                    "Architecture", "Graffito", "Grave stele fragment", "Clay reel", "Clay larnax fragment",
-                   "Loom weight", "Label", "Amygdaloid stone seal", "Unspecified object", ""]
+                   "Loom weight", "Label", "Amygdaloid stone seal", "Clay spindle whorl", "Unspecified object", ""]
         assert sg.SUPPORT_DOMAINS == {**{s: RITUAL for s in ritual}, **{s: POTTERY for s in pottery},
                                       **{s: None for s in unknown}}
 

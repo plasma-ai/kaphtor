@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/SA174_party_troop_of_men_incursion_invasion
 title: "*zrp: 'party, troop of men; incursion, invasion'"
-desc: "Epigraphic South Arabian headword *zrp, 'party, troop of men; incursion, invasion': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *zrp, 'party, troop of men; incursion, invasion': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA174"
@@ -31,6 +31,7 @@ updated: 2026-10-26T17:41:55Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab zrftn (Biella 161) (SD 170); zrft (Sabaweb lemma 5523) | Biella 161; SD 170; Sabaweb lemma 5523 | gloss withheld |
 | Arabic | Ar zarāfaᵗ (Biella 161); zarāfat (Lane 1226) | Biella 161; Lane 1226 | gloss withheld |
+| Geez | zarafa (yəzrəf); zarāfi; zarafā (LGz. 643) | LGz. 643 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/r
 desc: "Semitic roots whose first radical is r."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/r
@@ -23,7 +23,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/r/1172_strike_with_a_spear_spear|1172_strike_with_a_spear_spear]]: Proto-Semitic *rVmaḥ-, 'strike (with a spear)', 'spear': reflexes in 13 language(s).
 
-[[wiki/semitic-roots/r/1187_be_thin_1_be_shallow_2|1187_be_thin_1_be_shallow_2]]: Proto-Semitic *riḳ-, 'be thin' 1, 'be shallow' 2: reflexes in 14 language(s).
+[[wiki/semitic-roots/r/1187_be_thin_1_be_shallow_2|1187_be_thin_1_be_shallow_2]]: Proto-Semitic *riḳ-, 'be thin' 1, 'be shallow' 2: reflexes in 15 language(s).
 
 [[wiki/semitic-roots/r/147_lie_down|147_lie_down]]: Proto-Semitic *rbʕ, 'lie down': reflexes in 11 language(s).
 
@@ -43,7 +43,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/r/1774_fabulous_bird|1774_fabulous_bird]]: Proto-Semitic *ruḫḫ-, 'fabulous bird': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/r/1775_blow_breath_1_spirit_2_to_fan_3|1775_blow_breath_1_spirit_2_to_fan_3]]: Proto-Semitic *rūḥ-, 'blow, breath' 1, 'spirit' 2, 'to fan' 3: reflexes in 16 language(s).
+[[wiki/semitic-roots/r/1775_blow_breath_1_spirit_2_to_fan_3|1775_blow_breath_1_spirit_2_to_fan_3]]: Proto-Semitic *rūḥ-, 'blow, breath' 1, 'spirit' 2, 'to fan' 3: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/r/1776_treat_severely_1_be_evil_behave_badly_2_be_slack|1776_treat_severely_1_be_evil_behave_badly_2_be_slack]]: Proto-Semitic *rVšVʕ-, 'treat severely' 1, 'be evil, behave badly' 2, 'be slack' 3, 'forget, neglect' 4: reflexes in 15 language(s).
 
@@ -67,7 +67,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/r/2007_saliva|2007_saliva]]: Proto-Semitic *rayr- (or *rīr-), 'saliva': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/r/202_bleed_of_nose_nose|202_bleed_of_nose_nose]]: Proto-Semitic *rʕp, 'bleed (of nose); nose': reflexes in 1 language(s).
+[[wiki/semitic-roots/r/202_bleed_of_nose_nose_1_to_flow_drip_trickle_2|202_bleed_of_nose_nose_1_to_flow_drip_trickle_2]]: Proto-Semitic *rʕp, 'bleed (of nose); nose' 1, 'to flow, drip, trickle' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/r/2092_to_be_hungry|2092_to_be_hungry]]: Proto-Semitic *rɣb, 'to be hungry': reflexes in 13 language(s).
 
@@ -93,7 +93,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/r/2473_ashes|2473_ashes]]: Proto-Semitic *ramṣ̂-, 'ashes': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/r/2477_big_1_chief_master_lord_2|2477_big_1_chief_master_lord_2]]: Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 13 language(s).
+[[wiki/semitic-roots/r/2477_big_1_chief_master_lord_2|2477_big_1_chief_master_lord_2]]: Proto-Semitic *rabb-, 'big' 1, 'chief, master, lord' 2: reflexes in 14 language(s).
 
 [[wiki/semitic-roots/r/2630_to_be_long|2630_to_be_long]]: Proto-Semitic *rʒ/dm, 'to be long': reflexes in 3 language(s).
 
@@ -171,7 +171,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/r/3187_thunder|3187_thunder]]: Proto-Semitic *raʕd-, 'thunder': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/r/3226_ten_thousand_myriad|3226_ten_thousand_myriad]]: Proto-Semitic *rib(a)b-at-, *ribw-at-, 'ten thousand, myriad': reflexes in 4 language(s).
+[[wiki/semitic-roots/r/3226_ten_thousand_myriad|3226_ten_thousand_myriad]]: Proto-Semitic *rib(a)b-at-, *ribw-at-, 'ten thousand, myriad': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/r/3248_to_cover_spread_a_bed_lay_in_layers|3248_to_cover_spread_a_bed_lay_in_layers]]: Proto-Semitic *rbd, 'to cover, spread (a bed), lay in layers': reflexes in 5 language(s).
 
@@ -203,7 +203,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/r/3626_broom_Retama|3626_broom_Retama]]: Proto-Semitic *rtm, 'broom (Retama)': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/r/3632_to_grow_increase_to_rear|3632_to_grow_increase_to_rear]]: Proto-Semitic *rbw, 'to grow, increase; to rear': reflexes in 5 language(s).
+[[wiki/semitic-roots/r/3632_to_grow_increase_to_rear|3632_to_grow_increase_to_rear]]: Proto-Semitic *rbw, 'to grow, increase; to rear': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/r/3638_pasture_herbage|3638_pasture_herbage]]: Proto-Semitic *rʕy, 'pasture, herbage': reflexes in 4 language(s).
 
@@ -214,6 +214,14 @@ updated: 2026-10-26T20:01:24Z
 [[wiki/semitic-roots/r/3667_to_be_soft_tender|3667_to_be_soft_tender]]: Proto-Semitic *rḫṣ, 'to be soft, tender': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/r/3673_filth_uncleanness|3673_filth_uncleanness]]: Proto-Semitic *rks, 'filth, uncleanness': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/r/3705_to_flutter_flap_the_wings_to_twitch_blink|3705_to_flutter_flap_the_wings_to_twitch_blink]]: Proto-Semitic *rpp, 'to flutter, flap the wings; to twitch, blink': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/r/3711_to_congeal_harden_to_come_to_rest_be_quiet|3711_to_congeal_harden_to_come_to_rest_be_quiet]]: Proto-Semitic *rgʕ, 'to congeal, harden; to come to rest, be quiet': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/r/3712_to_tie_up_fetter_to_close_up|3712_to_tie_up_fetter_to_close_up]]: Proto-Semitic *rtḳ, 'to tie up, fetter; to close up': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/r/3715_swamp_marsh_muddy_remains_of_water|3715_swamp_marsh_muddy_remains_of_water]]: Proto-Semitic *rgrg, 'swamp, marsh; muddy remains of water': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/r/454_pasture_guard_livestock_herd_graze_trans_v_1_her|454_pasture_guard_livestock_herd_graze_trans_v_1_her]]: Proto-Semitic *rVʕVy- 1, *rāʕ- 2, 'pasture, guard livestock, herd, graze (trans.)' (v.) 1, 'herdsman' 2: reflexes in 18 language(s).
 
@@ -263,7 +271,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/r/K0341_sleep|K0341_sleep]]: Proto-Semitic *radam-, 'sleep': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/r/K0342_pursue|K0342_pursue]]: Proto-Semitic *radāp-, 'pursue': reflexes in 7 language(s).
+[[wiki/semitic-roots/r/K0342_pursue|K0342_pursue]]: Proto-Semitic *radāp-, 'pursue': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/r/K0343_pursue_1_help_2|K0343_pursue_1_help_2]]: Proto-Semitic *rVdVʾ-, 'pursue' 1, 'help' 2: reflexes in 4 language(s).
 

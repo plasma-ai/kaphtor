@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | EA ripûtu (HALOT 1274) | HALOT 1274 | gloss withheld |
 | Syrian Aramaic | rəpā (LGz. 463) | LGz. 463 |  |
 | Tigrinya | räfʾe (LGz. 463) | LGz. 463 | gloss withheld |
-| Amorite | rpʾ: jirpaʾ, jarpaʾ, rapaʾ, rapaʾ(ān)um (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rpʾ: jirpaʾ, jarpaʾ, rapaʾ, rapaʾ(ān)um (Gelb AS 21, 30); rāpiʾu, ripʾu, rapaʾ, yarpaʾ/yirpaʾ (Buck 2019, 331) | Gelb AS 21 30; Buck 2019, 331 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dbl 2, dublat- 3 |  |  |
+| Arabic | dbl 2, dublat- 3; dabalahu 'he collected it together'; dabaltu š-šayʾa 'I made the thing into lumps, or compact pieces or portions' 2 (Lane 849) | Lane 849 |  |
 | Ugaritic | dblt 1 |  |  |
 | Hebrew | dǝbēlā 1 (dǝbēlīm ʕīggūlīm) |  | gloss withheld |
 | Amharic | dǝbulbul 4 Baet |  | gloss withheld |

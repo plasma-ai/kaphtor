@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/622_call_1_speak_2_nominate_3
 title: "*nVbVʾ-: 'call' 1, 'speak' 2, 'nominate' 3"
-desc: "Proto-Semitic *nVbVʾ-, 'call' 1, 'speak' 2, 'nominate' 3: reflexes in 8 language(s)."
+desc: "Proto-Semitic *nVbVʾ-, 'call' 1, 'speak' 2, 'nominate' 3: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "622"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | nbʔ 2; tnbʔ (SD 90) (Biella 289) (Sabaweb lemma 2010) | SD 90; Biella 289; Sabaweb lemma 2010 | gloss withheld |
 | Amorite | nbʾ: janbiʾ, jabbiʾ, janabbiʾ, nabīʾum (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
 | Eblaitic | na-ba-um, na⟨-ba-⟩ù-um /nabāʔum/ (VE 725; Krebernik 1983, 28) | VE 725; Krebernik 1983, 28 | gloss withheld |
+| Emar | lu-ú-na-ab-bi /lunabbi/, tu-na-ab-bi /tunabbi/ (Pentiuc 2001, 111–112) | Pentiuc 2001 111–112 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0626_flock
 title: "*ʿVdVr-: 'flock'"
-desc: "Proto-Semitic *ʿVdVr-, 'flock': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ʿVdVr-, 'flock': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0626"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | ʿdr 'flock' | Anderson–Moser 2024 root ʿdr |  |
+| Emar | id-ri /ʿidru/ (Pentiuc 2001, 88) | Pentiuc 2001 88 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

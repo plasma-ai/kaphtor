@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1692_subordinate_service_man_soldier_1_skilled_2
 title: "*mary/w- / *mahir-: 'subordinate; service man, soldier' 1, 'skilled' 2"
-desc: "Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier' 1, 'skilled' 2: reflexes in 9 language(s)."
+desc: "Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier' 1, 'skilled' 2: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1692"
@@ -39,6 +39,7 @@ updated: 2026-10-26T15:47:57Z
 | Aramaic | mhyr 2 (DNWSI 602 apud DULAT 530) | DNWSI 602; DULAT 530 | gloss withheld |
 | Syrian Aramaic | mahirā 2 (Kogan 2015, ch. 2 §4.2 no. 36) | Kogan 2015 ch. 2 §4.2 no. 36 | gloss withheld |
 | Epigraphic South Arabian | Sab tmhrt 1 (Kogan 2015, ch. 2 §4.2 no. 36; Sabaweb lemma 4524) | Kogan 2015 ch. 2 §4.2 no. 36; Sabaweb lemma 4524 | gloss withheld |
+| Amorite | muhru (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

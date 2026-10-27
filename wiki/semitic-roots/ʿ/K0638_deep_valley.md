@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0638_deep_valley
 title: "*ʿVmVq-: 'deep', 'valley'"
-desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 17 language(s)."
+desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0638"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʿmq (T 250) | T 250 | gloss withheld |
 | Jibbali | ʿenqot (Biella 372) | Biella 372 |  |
 | Soqotri | ʿamiqoh (Biella 372) | Biella 372 |  |
+| Emar | am-qí, am-qú /ʿamqu/ (Pentiuc 2001, 31–32) | Pentiuc 2001 31–32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

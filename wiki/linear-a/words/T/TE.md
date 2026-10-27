@@ -60,7 +60,7 @@ Corpus distribution; Hebrew terûmā; Ugaritic trmt (KTU 1.43:3; 1.6 VI:44)
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | Haghia Triada | Tablet | complete |
@@ -122,6 +122,7 @@ Corpus distribution; Hebrew terûmā; Ugaritic trmt (KTU 1.43:3; 1.6 VI:44)
 | [[wiki/linear-a/inscriptions/AN/ANZb/ANZb1\|ANZb1]] | terûmā | contribution, sacred offering (logographic TE &lt; √r-w-m) |  |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | terûmā | contribution(s)/sacred offering(s) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | terûmā | contribution (abbreviation) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | terûmā | contribution (transaction sign) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | terûmā(?) | contribution (transaction or category marker) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | terûmā | offering, contribution | CANDIDATE |

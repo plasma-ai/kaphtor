@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | šappīr (OLA80 §29.11) | OLA80 §29.11 | gloss withheld |
 | Biblical Aramaic | špr (HALOT 1635) | HALOT 1635 |  |
 | Arabic | safara (HALOT 1635) | HALOT 1635 |  |
-| Amorite | špr (Huffmon APNM 252) | Huffmon APNM 252 | gloss withheld |
+| Amorite | špr (Huffmon APNM 252); šapru (Buck 2019, 333) | Huffmon APNM 252; Buck 2019, 333 | gloss withheld |
 | Judaic Aramaic | šappīr (Kogan 2015, ch. 6 §2 no. 16) | Kogan 2015 ch. 6 §2 no. 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | daṣû 1 |  |  |
+| Akkadian | dâṣu 1 (CAD D 118) | CAD D 118 | gloss withheld |
 | Tigre | dähaṣa 2 |  |  |
 | Gurage | datä 2 |  |  |
 | Amharic | daṭä 2 |  |  |

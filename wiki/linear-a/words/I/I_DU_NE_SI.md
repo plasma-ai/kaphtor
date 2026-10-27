@@ -59,7 +59,13 @@ di Mino; Pagan 1998; CAD
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Yidu-naḥši | personal name 'Strength is alive', 5; rival Hurrian nešše | SPECULATIVE |
 
 ## Onomasticon
 

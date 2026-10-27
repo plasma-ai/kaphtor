@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Ugaritic | ḏmr (DUL 287 apud SEDonline 2137; DULAT 283; HALOT 1581) | DUL 287; SEDonline 2137; DULAT 283; HALOT 1581 | gloss withheld |
-| Amorite | ḏmr: ḏamarum, ḏāmirum, ḏamratum, ḏamūr(ān), ḏimrum (Gelb AS 21, 18) | Gelb AS 21 18 | gloss withheld |
+| Amorite | ḏmr: ḏamarum, ḏāmirum, ḏamratum, ḏamūr(ān), ḏimrum (Gelb AS 21, 18); ḏimru, ḏāmiru, ḏamūr, maḏmar (Buck 2019, 326) | Gelb AS 21 18; Buck 2019, 326 | gloss withheld |
 | Hebrew | zimrā (HALOT 274 apud SEDonline 2137) | HALOT 274; SEDonline 2137 | gloss withheld |
 | Arabic | ḏimr, ḏamīr (Lane 978 apud SEDonline 2137) | Lane 978; SEDonline 2137 | gloss withheld |
 

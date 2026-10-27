@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2544_smoke_incense
 title: "*ḳuṭr-: 'smoke, incense'"
-desc: "Proto-Semitic *ḳuṭr-, 'smoke, incense': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ḳuṭr-, 'smoke, incense': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2544"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḳiṭr- (DJBA 1009 apud CAL) | DJBA 1009; CAL | gloss withheld |
 | Phoenician | qṭr (Krahmalkov 426) | Krahmalkov 426 | gloss withheld |
 | Punic | qṭrt (Krahmalkov 426); qṭrt, ktrt (T 287) | Krahmalkov 426; T 287 | gloss withheld |
+| Amorite | qaṭar (Buck 2019, 331) | Buck 2019, 331 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

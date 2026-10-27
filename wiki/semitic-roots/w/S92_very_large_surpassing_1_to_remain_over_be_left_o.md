@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | watārum (Huehnergard 1997 GAk, 530); šūturu (OLA80 §34.6) | Huehnergard 1997 GAk, 530; OLA80 §34.6 | gloss withheld |
-| Amorite | jtr: jītar, jatarum, jatrum, jataratum (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |
+| Amorite | jtr: jītar, jatarum, jatrum, jataratum (Gelb AS 21, 22); yatru, yataru, yataru, yîtar, yâtir (Buck 2019, 335) | Gelb AS 21 22; Buck 2019, 335 | gloss withheld |
 | Hebrew | ytr (HALOT 451); yeter (HALOT 452); môtār (HALOT 564) | HALOT 451; HALOT 452; HALOT 564 | gloss withheld |
 | Judaic Aramaic | ytr (HALOT 452) | HALOT 452 | gloss withheld |
 | Syrian Aramaic | yitar 'be left over; gain, profit; abound' (Payne Smith 200); ʾawtar (aph.) 'be left over; increase; profit' (Payne Smith 8) | Payne Smith 200; Payne Smith 8 |  |

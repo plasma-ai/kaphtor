@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | wbl (Tropper UG §75.511) | Tropper UG §75.511 | gloss withheld |
 | Akkadian | (w)abālu, babālu, tabālu; EA ubil (HALOT 383) | HALOT 383 |  |
 | Syrian Aramaic | ʾaubel (HALOT 383) | HALOT 383 |  |
-| Amorite | \*ybl (HALOT 383) | HALOT 383 |  |
+| Amorite | \*ybl (HALOT 383); yabal, yîbal (Buck 2019, 334) | HALOT 383; Buck 2019, 334 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic tbl (Al-Jallad–Jaworska 131) | Al-Jallad–Jaworska 131 | gloss withheld |
 | Eblaitic | wa-ba-lu /wabālu(m)/ (VE 979; Krebernik 1983, 35) | VE 979; Krebernik 1983, 35 | gloss withheld |
 

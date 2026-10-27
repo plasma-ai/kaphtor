@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | qrs |  |  |
 | Mandaic Aramaic | qaruš- adj |  | gloss withheld |
-| Syrian Aramaic | qrš |  |  |
+| Syrian Aramaic | qraš 'to become chilled, frozen; to cool' (Payne Smith 521) | Payne Smith 521 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

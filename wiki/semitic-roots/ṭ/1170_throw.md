@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ṭḥḥ |  |  |
+| Hebrew | ṭḥḥ: ṭḥh pil. kǝmṭaḥăwê (qešet) (Gn 21:16) (HALOT 373) | HALOT 373 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

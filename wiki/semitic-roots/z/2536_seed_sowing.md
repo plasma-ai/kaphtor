@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/2536_seed_sowing
 title: "*zVrVʕ-: 'seed, sowing'"
-desc: "Proto-Semitic *zVrVʕ-, 'seed, sowing': reflexes in 14 language(s)."
+desc: "Proto-Semitic *zVrVʕ-, 'seed, sowing': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2536"
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Emp., Eg. zrʕ (HALOT 282) | HALOT 282 | gloss withheld |
 | Punic | zrʿ 'seed' | Anderson–Moser 2024 root ḏrʿ |  |
 | Pre-Islamic North Arabian | Safaitic zrʿ (Al-Jallad–Jaworska 143) | Al-Jallad–Jaworska 143 | gloss withheld |
+| Emar | zi-ir-a-ti /ðirʿatu/ (Pentiuc 2001, 195) | Pentiuc 2001 195 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

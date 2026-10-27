@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ẓuhr- 'noon hour' \[BK 2 145-6\] 1, ẓhr \[-a-\] 2 | BK 2 145-6 |  |
+| Arabic | ẓuhr- 'noon hour' \[BK 2 145-6\] 1, ẓhr \[-a-\] 2; ẓahara 'it appeared; became apparent, manifest, plain, or evident' 2 (Lane 1926) | BK 2 145-6; Lane 1926 |  |
 | Mehri | ḏ̣ahr \[JM 83\] 1 | JM 83 | gloss withheld |
 | Soqotri | ḍuhr and ḏ̣uhr \[LS 361\] 1 | LS 361 | gloss withheld |
 | Harsusi | ḏ̣ahr \[JH 29\] 1 | JH 29 | gloss withheld |

@@ -69,6 +69,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/ME_KI_DI\|ME-KI-DI]] | Majd | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_DI\|OLE+DI]] | dišpu | CANDIDATE |
 | [[wiki/linear-a/words/O/OLE_plus_QE_plus_DI\|OLE+QE+DI]] | A623 (OLE+QE+DI) | SPECULATIVE |
+| [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_DI_SE\|RE-DI-SE]] | Redis | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_DI\|RU-DI]] | rūdī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_DI\|SA-DI]] | šadī | SPECULATIVE |

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dīk- |  |  |
+| Arabic | dīk- 'the domestic cock' (Lane 942) | Lane 942 |  |
 | Gurage | dakǝyye DRS |  | gloss withheld |
 | Amharic | dakǝyye DRS |  | gloss withheld |
 

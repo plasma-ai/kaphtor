@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2753_pasture_wilderness_steppe
 title: "*midbVr-: 'pasture, wilderness, steppe'"
-desc: "Proto-Semitic *midbVr-, 'pasture, wilderness, steppe': reflexes in 2 language(s)."
+desc: "Proto-Semitic *midbVr-, 'pasture, wilderness, steppe': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2753"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | mdbr (DULAT 520) | DULAT 520 | gloss withheld |
 | Hebrew | midbār (HALOT 547) | HALOT 547 | gloss withheld |
+| Amorite | madbaru (Streck 2011, 366); Mari ma-ad-ba-rum (ARM 26/1 14:10) | Streck 2011, 366 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫšʕ \[-a-\] 1 |  |  |
-| Geez | ḫŝʕ 2 |  |  |
+| Arabic | ḫšʕ \[-a-\]; ḫašaʿa 'he was, or became, lowly, humble, or submissive' 1 (Lane 742) | Lane 742 |  |
+| Geez | ḫŝʕ; ḫaśʿa, ḫaśʾa (yəḫśāʿ) 2 (LGz. 266) | LGz. 266 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

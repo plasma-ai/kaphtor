@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥqr \[-i-\] |  |  |
-| Geez | ḥqr |  |  |
+| Arabic | ḥqr \[-i-\]; ḥaqarahu 'he contemned, or despised, him, or it' (Lane 611) | Lane 611 |  |
+| Geez | ʾastaḥaqara (LGz. 240) | LGz. 240 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Cf. 2555 \*kilʔ- 'both', another root. Soqotri kole 'turn away' (LGz. 282). MSA \*klʔ 'to turn back' (Mehri kəlū, Jibbali kélé) is of uncertain origin, probably connected with this root (SEDonline 1454). Arabic kallāʾ is a loan from Akkadian makallû (HALOT 475).
+Cf. 2555 \*kilʔ- 'both', another root. Soqotri kole 'turn away' (LGz. 282). MSA \*klʔ 'to turn back' (Mehri kəlū, Jibbali kélé) is of uncertain origin, probably connected with this root (SEDonline 1454). Arabic kallāʾ is a loan from Akkadian makallû (HALOT 475). 3742 \*kly 'to come to an end, be finished' is another root (DULAT 479); CAD K 95 files both under one kalû.
 
 <!-- END kaphtor:record -->

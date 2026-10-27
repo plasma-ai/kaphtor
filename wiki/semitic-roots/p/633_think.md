@@ -30,8 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fkr i,1,2 |  |  |
+| Arabic | fkr i,1,2; fakara fīhi 'he thought upon it, considered it, or examined it' (Lane 2431) | Lane 2431 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+LGz. 158 compares Geez fakkara I 'explain, expound, interpret, comment' with Arabic fakara 'consider, examine mentally'.
 
 <!-- END kaphtor:record -->

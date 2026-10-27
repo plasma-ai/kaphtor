@@ -53,7 +53,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | a-ḫu-um /ʔaḫum/ (VE 1043; Krebernik 1983, 37); a-ḫa-tum /ʔaḫātum/ (VE 1183; Krebernik 1983, 42); Ba-na-a-ḫu (OLA80 §38.10) | VE 1043; Krebernik 1983, 37; VE 1183; Krebernik 1983, 42; OLA80 §38.10 | gloss withheld |
 | Aramaic | ʾḥ (DNWSI 28 apud CAL) | DNWSI 28; CAL; Anderson–Moser 2024 root ʾḫ | gloss withheld |
 | Punic | ʾḥ 'brother'; ʾḥt 'sister' | Anderson–Moser 2024 root ʾḫ |  |
-| Amorite | ʾaḫum, ʾaḫatum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
+| Amorite | ʾaḫum, ʾaḫatum (Gelb AS 21, 13); ʾaḫu, ʾaḫâtu (Buck 2019, 323) | Gelb AS 21 13; Buck 2019, 323 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾḫ (Al-Jallad–Jaworska 41) | Al-Jallad–Jaworska 41 | gloss withheld |
 | Jibbali | aɣá (JL 90 apud SEDonline 2048) | JL 90; SEDonline 2048 | gloss withheld |
 

@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | däd (LHar. 53) | LHar. 53 | gloss withheld |
 | Syrian Aramaic | dād- (Brock 144); dādətā (Kogan 2011, 235) | Brock 144; Kogan 2011 235 | gloss withheld |
 | Aramaic | Off, Nab, Plm, Hatra dd (HJ 241) | HJ 241 | gloss withheld |
-| Amorite | dādum, dawd(ān)um, damdum, dādatum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Amorite | dādum, dawd(ān)um, damdum, dādatum (Gelb AS 21, 17); dāda (Buck 2019, 326) | Gelb AS 21 17; Buck 2019, 326 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic dd (Al-Jallad–Jaworska 63) | Al-Jallad–Jaworska 63 | gloss withheld |
 | Eblaitic | du-du /dūdu(m)/, da-tum /dādum/ (VE 584, 1161; Krebernik 1983, 22) | VE 584, 1161; Krebernik 1983, 22 | gloss withheld |
 

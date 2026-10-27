@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/652_house
 title: "*bayt-: 'house'"
-desc: "Proto-Semitic *bayt-, 'house': reflexes in 22 language(s)."
+desc: "Proto-Semitic *bayt-, 'house': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "652"
@@ -52,6 +52,8 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | Moab bt (DNWSI 156 apud SEDonline 1383) | DNWSI 156; SEDonline 1383 | gloss withheld |
 | Eblaitic | ba-du (VE 336; Krebernik 1983: 14 apud SEDonline 1383) | VE 336; Krebernik 1983: 14; SEDonline 1383 | gloss withheld |
 | Syrian Aramaic | baytā (Payne Smith 43) | Payne Smith 43 |  |
+| Pre-Islamic North Arabian | Safaitic bt (Al-Jallad–Jaworska 62) | Al-Jallad–Jaworska 62 | gloss withheld |
+| Amorite | bīt (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

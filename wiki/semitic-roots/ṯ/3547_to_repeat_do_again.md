@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šanû A (CAD Š/1 398) | CAD Š/1 398 | gloss withheld |
-| Amorite | šnj: jišnī, šanijum, juštannī (Gelb AS 21, 33) | Gelb AS 21 33 | gloss withheld |
+| Amorite | šnj: jišnī, šanijum, juštannī (Gelb AS 21, 33); yiṯnî (Buck 2019, 334) | Gelb AS 21 33; Buck 2019, 334 | gloss withheld |
 | Hebrew | šnh (HALOT 1598) | HALOT 1598 | gloss withheld |
 | Ugaritic | ṯny (HALOT 1598) | HALOT 1598 | gloss withheld |
 | Judaic Aramaic | tǝnāʾ (HALOT 1598) | HALOT 1598 | gloss withheld |

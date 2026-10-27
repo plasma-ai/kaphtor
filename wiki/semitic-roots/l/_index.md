@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/l
@@ -55,7 +55,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/l/1811_field_garden|1811_field_garden]]: Proto-Semitic *lVdw/y/d-, 'field; garden': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/l/1840_to_get_together_unite_by_common_consent_peace_tr|1840_to_get_together_unite_by_common_consent_peace_tr]]: Proto-Semitic *lʾm, *lmm, 'to get together, unite by common consent, peace treaty', *liʔa/ām- 'union, fraternity, people': reflexes in 9 language(s).
+[[wiki/semitic-roots/l/1840_to_get_together_unite_by_common_consent_peace_tr|1840_to_get_together_unite_by_common_consent_peace_tr]]: Proto-Semitic *lʾm, *lmm, 'to get together, unite by common consent, peace treaty', *liʔa/ām- 'union, fraternity, people': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/l/1963_heart|1963_heart]]: Proto-Semitic *libb-, 'heart': reflexes in 26 language(s).
 
@@ -75,7 +75,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/l/2176_kid|2176_kid]]: Proto-Semitic *lV(ʾ)lV(ʾ)-, 'kid': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/l/2240_lion_ess|2240_lion_ess]]: Proto-Semitic *labVʾ-, 'lion(ess)': reflexes in 9 language(s).
+[[wiki/semitic-roots/l/2240_lion_ess|2240_lion_ess]]: Proto-Semitic *labVʾ-, 'lion(ess)': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/l/2241_stork|2241_stork]]: Proto-Semitic *laḳlaḳ-, 'stork': reflexes in 3 language(s).
 
@@ -141,6 +141,20 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/l/3439_bridle|3439_bridle]]: Proto-Semitic *ligām-/*lugām-, 'bridle': reflexes in 9 language(s).
 
+[[wiki/semitic-roots/l/3700_ox_bull|3700_ox_bull]]: Proto-Semitic *lhm, 'ox, bull': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/l/3728_to_strike_on_the_face_exchange_of_blows_brawl|3728_to_strike_on_the_face_exchange_of_blows_brawl]]: Proto-Semitic *lḫm, 'to strike on the face; exchange of blows, brawl': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3729_to_find_meet_to_obtain|3729_to_find_meet_to_obtain]]: Proto-Semitic *lpy, 'to find, meet; to obtain': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3740_to_be_keen_on_devoted_to_study_devotion|3740_to_be_keen_on_devoted_to_study_devotion]]: Proto-Semitic *lhg, 'to be keen on, devoted to; study, devotion': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3752_to_be_moist_fresh|3752_to_be_moist_fresh]]: Proto-Semitic *lḥḥ, 'to be moist, fresh': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3753_to_strike_a_blow_with_the_fist|3753_to_strike_a_blow_with_the_fist]]: Proto-Semitic *lkm, 'to strike; a blow with the fist': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3754_depth_of_the_sea_abyss|3754_depth_of_the_sea_abyss]]: Proto-Semitic *lgg, 'depth of the sea, abyss': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/l/398_twist_bend_1_turn_2_accompany_join_3|398_twist_bend_1_turn_2_accompany_join_3]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/l/553_strike|553_strike]]: Proto-Semitic *lVbaḫ-, 'strike': reflexes in 1 language(s).
@@ -197,7 +211,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/l/K0139_lick|K0139_lick]]: Proto-Semitic *laḥak-, 'lick': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/l/K0143_whisper|K0143_whisper]]: Proto-Semitic *lVḫVš-, 'whisper': reflexes in 8 language(s).
+[[wiki/semitic-roots/l/K0143_whisper_1_incantation_charm_2|K0143_whisper_1_incantation_charm_2]]: Proto-Semitic *lVḫVš-, 'whisper' 1, 'incantation, charm' 2: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/l/K0144_sharp|K0144_sharp]]: Proto-Semitic *laṭaš-, 'sharp': reflexes in 5 language(s).
 
@@ -211,6 +225,6 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/l/SA052_cistern|SA052_cistern]]: Epigraphic South Arabian headword *lkd, 'cistern': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/l/SA053_CATCH|SA053_CATCH]]: Epigraphic South Arabian headword *lṣḳ, 'CATCH': reflexes in 2 language(s).
+[[wiki/semitic-roots/l/SA053_CATCH|SA053_CATCH]]: Epigraphic South Arabian headword *lṣḳ, 'CATCH': reflexes in 3 language(s).
 
 ***

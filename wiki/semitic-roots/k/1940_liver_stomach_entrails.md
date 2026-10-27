@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/1940_liver_stomach_entrails
 title: "*kab(i)d-: 'liver; stomach, entrails'"
-desc: "Proto-Semitic *kab(i)d-, 'liver; stomach, entrails': reflexes in 20 language(s)."
+desc: "Proto-Semitic *kab(i)d-, 'liver; stomach, entrails': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1940"
@@ -50,6 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | kabdā 'liver; anger' \[Brock 315\] | Brock 315 |  |
 | Tigrinya | käbdi 'belly, stomach, liver' \[Bass 601\] | Bass 601 |  |
 | Argobba | hod (AAD 45 apud SEDonline 33) | AAD 45; SEDonline 33 | gloss withheld |
+| Emar | ka-bi-du₄ /kabidu/ (Pentiuc 2001, 93) | Pentiuc 2001 93 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

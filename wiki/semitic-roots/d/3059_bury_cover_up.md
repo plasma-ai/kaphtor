@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Cf. Syr. dūpnā 'mummy-case, wooden coffin' (Payne Smith 87). Not 1886 \*dap-an- 'side of body' (Sel., Wol., Gog. däfäna 'part of body between the shoulder-blades').
+Cf. Syr. dūpnā 'mummy-case, wooden coffin' (Payne Smith 87); Geez dofoni 'coffin, repository, sepulcher' is from the Syriac (LGz. 124). Not 1886 \*dap-an- 'side of body' (Sel., Wol., Gog. däfäna 'part of body between the shoulder-blades').
 
 <!-- END kaphtor:record -->

@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Leslau (LGz. 608) compares Syriac wgr, šafel šawgar 'hurl', and for the Geez noun 'heap, hill' Aramaic yəgār 'heap of stones'.
+Leslau (LGz. 608) compares Syriac wgr, šafel šawgar 'hurl', and for the Geez noun 'heap, hill' Aramaic yəgār 'heap of stones'. 3725 \*wgr 'heap of stones, cairn; tumulus' is the noun.
 
 <!-- END kaphtor:record -->

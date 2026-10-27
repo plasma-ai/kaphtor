@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | ḳoma, oma |  |  |
 | Tigrinya | ḳomä (Kogan 2015, ch. 7 §2.3 no. 79) | Kogan 2015 ch. 7 §2.3 no. 79 |  |
 | Punic | qm 'persist' | Anderson–Moser 2024 root qwm |  |
-| Amorite | qwm: jaqūm, qāma, qāmum, jāqīm (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
+| Amorite | qwm: jaqūm, qāma, qāmum, jāqīm (Gelb AS 21, 29); maqīm, taqūm, yaqīm, taqīm (Buck 2019, 331) | Gelb AS 21 29; Buck 2019, 331 | gloss withheld |
 | Phoenician | qwm (B 404) | B 404 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

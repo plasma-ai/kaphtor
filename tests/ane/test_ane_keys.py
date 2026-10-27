@@ -19,7 +19,7 @@ from tools.ane import aneq
 from tools.paths import REPO
 
 # Views whose files ship under data/; the others read corpora built locally (data/ingest/) or not yet shipped.
-SHIPPED = {"egytext", "pnm"}
+SHIPPED = {"egytext", "pnm", "tla"}
 
 
 def nfd(s):
@@ -337,6 +337,11 @@ class TestExpandProperNames:
     @pytest.mark.parametrize("q,key", [("snb-ꜥnḫ", "snb-ꜥnḫ"), ("ʿnḫ", "ꜥnḫ"), ("ʾḫ", "ꜣḫ"), ("ȝḫ", "ꜣḫ")])
     def test_pnm_transliteration_and_stand_ins(self, q, key):
         assert key in keys.expand(keys.parse_query(q), "pnm")
+
+    @pytest.mark.parametrize("q,key", [("Jmn-m-ḥꜣ.t", "ꞽmn-m-ḥꜣ.t"), ("ỉmn-m-ḥꜣ.t", "ꞽmn-m-ḥꜣ.t"),
+                                       ("imn-m-HA.t", "ꞽmn-m-ḥꜣ.t"), ("ȝḫ", "ꜣḫ"), ("Xnm.w", "ẖnm.w")])
+    def test_tla_spells_yod_as_its_glottal_i(self, q, key):
+        assert key in keys.expand(keys.parse_query(q), "tla")
 
 
 class TestCuratedMisses:

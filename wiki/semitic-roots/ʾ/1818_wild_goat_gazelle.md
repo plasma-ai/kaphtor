@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1818_wild_goat_gazelle
 title: "*ʾarwiy-: '(wild) goat, gazelle'"
-desc: "Proto-Semitic *ʾarwiy-, '(wild) goat, gazelle': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʾarwiy-, '(wild) goat, gazelle': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1818"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | a-wi-um = Sum. \[DÀR\]A?.DÀ \[MEE IV 1251'\] | MEE IV 1251' |  |
 | Epigraphic South Arabian | (?) Sab. ʔrwy-n (pl.) \[SD 7\] | SD 7 | gloss withheld |
 | Amorite | ʾarwijum, ʾarwītum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
+| Emar | ar-yu /ʾaryu/ (Pentiuc 2001, 32–33) | Pentiuc 2001 32–33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

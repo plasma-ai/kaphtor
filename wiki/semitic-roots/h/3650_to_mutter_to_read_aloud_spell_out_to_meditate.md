@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/3650_to_mutter_to_read_aloud_spell_out_to_meditate
 title: "*hgy: 'to mutter; to read aloud, spell out; to meditate'"
-desc: "Proto-Semitic *hgy, 'to mutter; to read aloud, spell out; to meditate': reflexes in 4 language(s)."
+desc: "Proto-Semitic *hgy, 'to mutter; to read aloud, spell out; to meditate': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3650"
@@ -33,6 +33,7 @@ updated: 2026-10-26T15:47:57Z
 | Syrian Aramaic | hgā 'meditate; plan, scheme; study'; hegyānā 'meditation, study; syllable'; hegyā 'reading; a syllable' (Payne Smith 99) | Payne Smith 99 |  |
 | Mandaic Aramaic | hugyana (HALOT 238) | HALOT 238 | gloss withheld |
 | Arabic | hajā (hajawtu, hajaytu) 3; II (tahjiya), V; ḥurūf al-hijāʾ (BK 2 1396); hajāʷ (HALOT 237) | BK 2 1396; HALOT 237 | gloss withheld |
+| Amorite | yahgî (Buck 2019, 327) | Buck 2019, 327 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

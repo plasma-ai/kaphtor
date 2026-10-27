@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T23:26:14Z
+updated: 2026-10-28T07:37:32Z
 ---
 
 # wiki/semitic-roots/s
@@ -164,6 +164,12 @@ updated: 2026-10-26T23:26:14Z
 [[wiki/semitic-roots/s/3668_to_mix|3668_to_mix]]: Proto-Semitic *swṭ, 'to mix': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/s/3674_to_take_away_by_force_strip_off_plunder|3674_to_take_away_by_force_strip_off_plunder]]: Proto-Semitic *slb, 'to take away by force, strip off, plunder': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/s/3716_sweet_odour_scented_oil_to_perfume_season_with_s|3716_sweet_odour_scented_oil_to_perfume_season_with_s]]: Proto-Semitic *sʕṭ, 'sweet odour; scented oil; to perfume, season with spices': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/s/3759_mute_soundless|3759_mute_soundless]]: Proto-Semitic *sgm, 'mute, soundless': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/s/3771_to_flow_of_water_torrents_channels|3771_to_flow_of_water_torrents_channels]]: Proto-Semitic *srb, 'to flow (of water); torrents, channels': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/s/379_thorny_bush|379_thorny_bush]]: Proto-Semitic *sVn-, 'thorny bush': reflexes in 4 language(s).
 

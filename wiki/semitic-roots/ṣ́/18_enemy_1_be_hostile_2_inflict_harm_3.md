@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/18_enemy_1_be_hostile_2_inflict_harm_3
 title: "*ṣ̂arr- 1, *ṣ̂rr- 2, 3: 'enemy' 1, 'be hostile' 2, 'inflict harm' 3"
-desc: "Proto-Semitic *ṣ̂arr- 1, *ṣ̂rr- 2, 3, 'enemy' 1, 'be hostile' 2, 'inflict harm' 3: reflexes in 21 language(s)."
+desc: "Proto-Semitic *ṣ̂arr- 1, *ṣ̂rr- 2, 3, 'enemy' 1, 'be hostile' 2, 'inflict harm' 3: reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "18"
@@ -51,6 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʿarrətā (HALOT 1054) | HALOT 1054 | gloss withheld |
 | Mandaic Aramaic | ṣara (LGz. 152; Drower/Macuch 388a apud CAL) | LGz. 152; Macuch 388a; CAL |  |
 | Pre-Islamic North Arabian | Safaitic ḍr (Al-Jallad–Jaworska 68) | Al-Jallad–Jaworska 68 | gloss withheld |
+| Emar | ṣa-ra-ri, \[ṣa\]-ar-ra-ri /ṣarrā̆ru/ (Pentiuc 2001, 161–162) | Pentiuc 2001 161–162 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

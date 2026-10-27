@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2703_measure_portion_share_fate
 title: "*maniy-at-: 'measure, portion, share; fate'"
-desc: "Proto-Semitic *maniy-at-, 'measure, portion, share; fate': reflexes in 8 language(s)."
+desc: "Proto-Semitic *maniy-at-, 'measure, portion, share; fate': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2703"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | mənnān (LGz. 351) | LGz. 351 | gloss withheld |
 | Amharic | mən(n)an (LGz. 351) | LGz. 351 | gloss withheld |
 | Epigraphic South Arabian | Sab mny (Biella 279) | Biella 279 | gloss withheld |
+| Amorite | manat (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

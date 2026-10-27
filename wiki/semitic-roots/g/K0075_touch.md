@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/K0075_touch
 title: "*gVsVs-: 'touch'"
-desc: "Proto-Semitic *gVsVs-, 'touch': reflexes in 6 language(s)."
+desc: "Proto-Semitic *gVsVs-, 'touch': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0075"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gašaš 'feel' | Anderson–Moser 2024 root gss |  |
 | Tigre | (tə)gasäsa (LGz. 204) | LGz. 204 | gloss withheld |
 | Syrian Aramaic | gūš (Payne Smith 66); gšš (HALOT 206) | Payne Smith 66; HALOT 206 | gloss withheld |
+| Amorite | giššu (Buck 2019, 326) | Buck 2019, 326 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

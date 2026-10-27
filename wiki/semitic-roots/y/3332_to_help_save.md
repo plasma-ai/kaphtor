@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Hebrew | yšʿ (hif. hôšîaʿ) (HALOT 448); yēšaʿ (HALOT 449); yǝšûʿâ (HALOT 446) | HALOT 448; HALOT 449; HALOT 446 | gloss withheld |
 | Moabite | yšʿ (HALOT 449) | HALOT 449 | gloss withheld |
-| Amorite | jšʿ: jāšuʿ, jišʿum, jūšiʿ (Gelb AS 21, 22); yašuḫ- (Huffmon APNM 215) | Gelb AS 21 22; Huffmon APNM 215 | gloss withheld |
+| Amorite | jšʿ: jāšuʿ, jišʿum, jūšiʿ (Gelb AS 21, 22); yašuḫ- (Huffmon APNM 215); yiṯʿu, yāṯiʿa, yâṯuʿ (Buck 2019, 335) | Gelb AS 21 22; Huffmon APNM 215; Buck 2019, 335 | gloss withheld |
 | Phoenician | yšʿ (Benz PNPPI 327) |  | gloss withheld |
 | Epigraphic South Arabian | yṯʿ (Huffmon APNM 215; Benz PNPPI 327) | Huffmon APNM 215 | gloss withheld |
 

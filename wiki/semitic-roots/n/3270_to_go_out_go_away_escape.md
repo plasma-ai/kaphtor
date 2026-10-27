@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3270_to_go_out_go_away_escape
 title: "*ngw: 'to go out, go away, escape'"
-desc: "Proto-Semitic *ngw, 'to go out, go away, escape': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ngw, 'to go out, go away, escape': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3270"
@@ -31,6 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Ugaritic | ng (DUL 624 apud SEDonline 1413) | DUL 624; SEDonline 1413 | gloss withheld |
 | Arabic | nǯw (Lane 3028 apud SEDonline 1413) | Lane 3028; SEDonline 1413 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ngy, ngw; ngwt (Al-Jallad–Jaworska 104) | Al-Jallad–Jaworska 104 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

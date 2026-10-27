@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥay (HALOT 308) | HALOT 308 | gloss withheld |
 | Aramaic | ḥyyʾ (OLA80 §9.5); ḤYY (Aramaic Root Atlas; DNWSI 354 apud CAL) | OLA80 §9.5; Aramaic Root Atlas; DNWSI 354; CAL; Anderson–Moser 2024 root ḥwy | gloss withheld |
 | Epigraphic South Arabian | Sab ḥyy (Biella 173) | Biella 173 | gloss withheld |
-| Amorite | ḥjj: jaḥī, ḥajjum, ḥajjatum, ḥajja (Gelb AS 21, 19); ḥwy: ḫay- (Huffmon APNM 191) | Gelb AS 21 19; Huffmon APNM 191 | gloss withheld |
+| Amorite | ḥjj: jaḥī, ḥajjum, ḥajjatum, ḥajja (Gelb AS 21, 19); ḥwy: ḫay- (Huffmon APNM 191); ḥaya, laḥî (Buck 2019, 327) | Gelb AS 21 19; Huffmon APNM 191; Buck 2019, 327 | gloss withheld |
 | Punic | ḥym, N.Pu. ʿym (T 102) | T 102 | gloss withheld |
 | Syrian Aramaic | ḥaye (Payne Smith 139); ḥəyā (LGz. 252) | Payne Smith 139; LGz. 252 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥyw (Al-Jallad–Jaworska 88) | Al-Jallad–Jaworska 88 | gloss withheld |

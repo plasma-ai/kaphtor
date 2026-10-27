@@ -33,11 +33,11 @@ updated: 2026-10-26T14:26:59Z
 | Mehri | abdēd |  |  |
 | Harsusi | abdōd |  |  |
 | Ugaritic | bd 1 |  |  |
-| Hebrew | bdd 2 |  |  |
+| Hebrew | bdd 2; bad; bad bəbad (Ex 30:34) 4 (HALOT 108) | HALOT 108 | gloss withheld |
 | Aramaic | (Emp) bdd 3 |  |  |
 | Phoenician | bdd (T 44) | T 44 | gloss withheld |
 | Geez | badada, badda (LGz. 86) | LGz. 86 | gloss withheld |
-| Arabic | badda (LGz. 86); ʾabadda 4 (Lane 161) | LGz. 86; Lane 161 | gloss withheld |
+| Arabic | badda (LGz. 86); ʾabadda 4; budd, bidād, budda 4 (Lane 161) | LGz. 86; Lane 161 | gloss withheld |
 | Akkadian | badādu (LGz. 86) | LGz. 86 | gloss withheld |
 | Tigre | bädäd bela (LGz. 86) | LGz. 86 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic bd (Al-Jallad–Jaworska 59) | Al-Jallad–Jaworska 59 | gloss withheld |

@@ -30,17 +30,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dḥw; daḥā (LGz. 130) | LGz. 130 |  |
+| Arabic | dḥw; daḥā (LGz. 130); daḥā (Lane 857) | LGz. 130; Lane 857 | gloss withheld |
 | Akkadian | daḫû, deḫû |  |  |
 | Mandaic Aramaic | dhʔ |  |  |
 | Phoenician | dḥy |  |  |
 | Hebrew | ndḥ; daḥah |  | gloss withheld |
-| Syrian Aramaic | deḥaʔ; dəḥā (LGz. 130) | LGz. 130 |  |
+| Syrian Aramaic | deḥaʔ; dəḥā (LGz. 130); dḥā (Payne Smith 88) | LGz. 130; Payne Smith 88 | gloss withheld |
 | Geez | nadḥa (LGz. 386) | LGz. 386 | gloss withheld |
 | Aramaic | nəḏaḥ (LGz. 386); DḤY (Qumran 52 apud CAL) | LGz. 386; CAL; Anderson–Moser 2024 root dḥy | gloss withheld |
 | Tigre | nädḥa (LGz. 386) | LGz. 386 | gloss withheld |
 | Tigrinya | nädḥe (LGz. 386) | LGz. 386 | gloss withheld |
-| Punic | dḥy 'push' | Anderson–Moser 2024 root dḥy |  |
+| Punic | ydḥ (Krahmalkov 147) | Krahmalkov 147 | gloss withheld |
 | Judaic Aramaic | ndḥ (HALOT 673) | HALOT 673 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

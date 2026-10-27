@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/2283_hyena
 title: "*ṣ̂ab(u)ʕ- {} *ĉ̣ab(u)ʕ-: 'hyena'"
-desc: "Proto-Semitic *ṣ̂ab(u)ʕ- {} *ĉ̣ab(u)ʕ-, 'hyena': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ṣ̂ab(u)ʕ- {} *ĉ̣ab(u)ʕ-, 'hyena': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2283"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʾapʿā (LGz. 147) | LGz. 147 | gloss withheld |
 | Akkadian | būṣu (Kogan 2011, 208) | Kogan 2011 208 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḍbʿ (Al-Jallad–Jaworska 67) | Al-Jallad–Jaworska 67 | gloss withheld |
+| Emar | ṣa-ba-ú /ṣabā̆ʿu/ (Pentiuc 2001, 160–161) | Pentiuc 2001 160–161 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

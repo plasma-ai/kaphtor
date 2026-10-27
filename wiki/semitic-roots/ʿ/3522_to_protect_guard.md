@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | II \*ʿqb (HALOT 872) | HALOT 872 | gloss withheld |
-| Amorite | ʿqb: jaʿqub, ʿaqbum, ʿiqbum (Gelb AS 21, 15); ḫaqb-, ʿaqb- (Huffmon APNM 203) | Gelb AS 21 15; Huffmon APNM 203 | gloss withheld |
+| Amorite | ʿqb: jaʿqub, ʿaqbum, ʿiqbum (Gelb AS 21, 15); ḫaqb-, ʿaqb- (Huffmon APNM 203); yaʿqub, ʿaqbu, ʿiqbu (Buck 2019, 325) | Gelb AS 21 15; Huffmon APNM 203; Buck 2019, 325 | gloss withheld |
 | Geez | ʿaqaba (LGz. 66; HALOT 872) | LGz. 66; HALOT 872 | gloss withheld |
 | Tigre | ʿaqba (LGz. 66; HALOT 872) | LGz. 66; HALOT 872 | gloss withheld |
 | Tigrinya | ʿaqqäbä (LGz. 66) | LGz. 66 | gloss withheld |

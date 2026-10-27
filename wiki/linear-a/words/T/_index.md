@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T13:24:33Z
+updated: 2026-10-27T19:16:09Z
 ---
 
 # wiki/linear-a/words/T
@@ -89,7 +89,7 @@ updated: 2026-10-27T13:24:33Z
 
 [[wiki/linear-a/words/T/TE_TE|TE_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TE_TU|TE_TU]]: Unread (role only): administrative roster label; 3 occurrence(s).
+[[wiki/linear-a/words/T/TE_TU|TE_TU]]: Tetu: personal name; Ugaritic tt, syllabic te-et-te, tu-tu. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TE_ZU|TE_ZU]]: Unread (role only): personal name; 1 occurrence(s).
 

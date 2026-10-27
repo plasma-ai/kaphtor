@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dws, dys \[-u-\] 1, dʕs \[-a-\] 1, 3; dhs 1, 3 |  |  |
+| Arabic | dws, dys \[-u-\] 1, dʕs \[-a-\] 1, 3; dhs 1, 3; dāsa 'he trod, trod upon, or trampled upon (a thing, or the ground) vehemently, with the foot' 1 (Lane 932) | Lane 932 |  |
 | Mehri | dōs |  |  |
 | Akkadian | diāsu, dâsu 1, 4 |  |  |
 | Harsusi | dōs |  |  |

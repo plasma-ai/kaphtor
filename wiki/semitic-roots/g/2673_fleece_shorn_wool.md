@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǯzz 'to cut hair/fur, hair, wool, etc.; to shear (sheep)' BK 1 285 | BK 1 285 |  |
 | Mandaic Aramaic | gyztʔ |  | gloss withheld |
 | Syrian Aramaic | gezzā 'shearing', gezzǝtā 'fleece, shorn wool' \[Brock 111\] | Brock 111 |  |
-| Amorite | gzz?: gaziz(ān)um, gizzum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
+| Amorite | gzz?: gaziz(ān)um, gizzum (Gelb AS 21, 19); gizzu, gazizānu (Buck 2019, 327) | Gelb AS 21 19; Buck 2019, 327 | gloss withheld |
 | Punic | \*gz (T 63) | T 63 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

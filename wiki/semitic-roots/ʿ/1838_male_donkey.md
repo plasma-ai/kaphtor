@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1838_male_donkey
 title: "*ʕayr-: '(male) donkey'"
-desc: "Proto-Semitic *ʕayr-, '(male) donkey': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ʕayr-, '(male) donkey': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1838"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʕayir (HALOT 822), pB. ʕayir \[Ja. 1720\], ʕīr \[ibid.\] | HALOT 822; Ja. 1720 | gloss withheld |
 | Judaic Aramaic | \*ʕayir \[Ja. 1075\], \[Levy WTM III 643\]. // Sam. ʕyr \[Tal 634\]. | Ja. 1075; Levy WTM III 643; Tal 634 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʿr (Al-Jallad–Jaworska 54) | Al-Jallad–Jaworska 54 | gloss withheld |
+| Amorite | ḫâru, /ʿayra/im/ (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -73,6 +73,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | diḳaru | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_RU_star329\|DA-RU-\*329]] | Dārum | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]] | Dašurat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
@@ -89,6 +90,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_DA_RO\|KI-DA-RO]] | Qidaru | PROBABLE |
 | [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] |  | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_DA\|KU-DA]] | Gūda | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | matni | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |

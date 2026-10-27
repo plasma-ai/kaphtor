@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab. ṣdq (Sabaweb lemma 1220) | Sabaweb lemma 1220 | gloss withheld |
 | Geez | ṣādəq (OLA80 §42.13); ṣadqa (LGz. 548) | OLA80 §42.13; LGz. 548 | gloss withheld |
 | Hebrew | ṣdq, ṣaddīq, ṣədāqā (HALOT 1001, 1003, 1006) | HALOT 1001, 1003, 1006 | gloss withheld |
-| Amorite | yaṣduqum, ṣaduq (HALOT 1003) | HALOT 1003 |  |
+| Amorite | yaṣduqum, ṣaduq (HALOT 1003); ṣaduqu (Buck 2019, 333) | HALOT 1003; Buck 2019, 333 | gloss withheld |
 | Canaanite | ṣaduq (HALOT 1003) | HALOT 1003 |  |
 | Syrian Aramaic | zādeq, zaddīqā, zedqā, zedqətā (HALOT 1001, 1003, 1004, 1006; Payne Smith 110) | HALOT 1001, 1003, 1004, 1006; Payne Smith 110 |  |
 | Tigre | ṣadqa, ṣaddaqa (HALOT 1003) | HALOT 1003 |  |

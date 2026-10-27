@@ -49,6 +49,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT Wc 3008 side b RU-JA-TA-DI, whole and undotted, with WA-DI-NI on side a (GORILA II 74). Roundel. No reading.
+HT Wc 3008 side b RU-JA-TA-DI, whole and undotted, with WA-DI-NI on side a (GORILA II 74); the twin roundel HT Wc 3007 carries WA-DI-NI alone. RU-JA stands alone on the roundel KN Wc 26 and inside I-RU-JA (HT 7a); cf. the Ugaritic personal name rwy, bn rwy, of uncertain etymology (DULAT 738). TA-DI matches the spelling ta-di-e of the Ugaritic personal name ddy, also da-de₄-ya, da-dá-a (DULAT 264). The ending also matches Hurrian names in -tati 'loving', Šenna-tati, Urḫa-tati (NPN s.vv.; Laroche, GLH s.v. tad-), but Hurrian sets i- before an initial r-, as I-RU-JA does (Laroche, GLH s.v. irbute). No reading.
 
 <!-- END kaphtor:record -->

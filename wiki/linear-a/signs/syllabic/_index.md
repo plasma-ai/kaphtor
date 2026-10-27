@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/syllabic
 title: Syllabic signs
 desc: Each syllabic sign with its value, its Linear B counterpart, the forms cited for it and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-27T20:25:40Z
 ---
 
 # Syllabic signs
@@ -149,6 +149,8 @@ updated: 2026-10-24T16:17:50Z
 [[wiki/linear-a/signs/syllabic/star324|star324]]: Linear A syllabic *324, speculative: so.
 
 [[wiki/linear-a/signs/syllabic/star325|star325]]: Linear A syllabic *325, speculative: bu.
+
+[[wiki/linear-a/signs/syllabic/star329|star329]]: Linear A syllabic *329, speculative: mo.
 
 [[wiki/linear-a/signs/syllabic/star34|star34]]: Linear A syllabic *34, proposed: qi.
 

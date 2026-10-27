@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | laʾaka (OLA80 §45.17) | OLA80 §45.17 |  |
 | Arabic | laʾaka (HALOT 513) | HALOT 513 | gloss withheld |
 | Ugaritic | lʾk (Kogan 2015, ch. 2 §5.2.2.1 no. 17) | Kogan 2015 ch. 2 §5.2.2.1 no. 17; Anderson–Moser 2024 root lʾk | gloss withheld |
-| Amorite | l-ʾ-k (George and Krebernik 2022, 155) | George and Krebernik 2022 155 | gloss withheld |
+| Amorite | l-ʾ-k (George and Krebernik 2022, 155); malʾakān (Buck 2019, 329) | George and Krebernik 2022 155; Buck 2019, 329 | gloss withheld |
 | Epigraphic South Arabian | Sab lʾk (Kogan 2015, ch. 2 §5.2.2.1 no. 17; Sabaweb lemma 8332) | Kogan 2015 ch. 2 §5.2.2.1 no. 17; Sabaweb lemma 8332 | gloss withheld |
 | Hebrew | malʾāk (Kogan 2015, ch. 2 §5.2.2.1 no. 17) | Kogan 2015 ch. 2 §5.2.2.1 no. 17 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic lʾk (Al-Jallad–Jaworska 92) | Al-Jallad–Jaworska 92 | gloss withheld |

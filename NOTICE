@@ -27,12 +27,29 @@ Akkadian literary glossary (data/ane/akkadian_literary.jsonl)
 Persons and Names of the Middle Kingdom, version 6 (data/ane/pnm-v6/)
   Zenodo, doi:10.5281/zenodo.15806808, CC BY 4.0.
 
+Prosopographia Memphitica (data/ane/prosopographia-memphitica/)
+  Anne Herzberg-Beiersdorf, Prosopographia Memphitica, Humboldt-Universität zu Berlin, release 2024-11-15, Zenodo,
+  doi:10.5281/zenodo.3856410, CC BY 4.0 and ODC-By 1.0.
+
+Gauthier, Dictionnaire des noms géographiques, t. 1-6 (data/ane/gauthier-dng/)
+  Henri Gauthier, Le Caire 1925-1929, public domain.
+
+Kassite name concordances (data/ane/kassite-concordances/)
+  The name indexes of Clay (YOS 1, 1912; BE A 14 and 15, 1906; PBS 2/2, 1912), Hinke (BE D 4, 1907), Radau
+  (BE A 17/1, 1908) and King (Babylonian Boundary-Stones, 1912), public domain.
+
 Pleiades places (data/ane/place-authorities/pleiades_places.jsonl)
   Pleiades (https://pleiades.stoa.org), CC BY 3.0.
 
 ORAEC/TLA Egyptian documents (data/share-alike/egyptian/)
   ORAEC republication of Thesaurus Linguae Aegyptiae records, CC BY-SA 4.0. Anything derived from these files
   carries the same terms.
+
+TLA v18 names (data/share-alike/tla-v18-names/)
+  Thesaurus Linguae Aegyptiae, Original Earlier Egyptian sentences, corpus v18, premium, v1.1, 2024-02-16, ed. T. S.
+  Richter and D. A. Werning (BBAW) and H.-W. Fischer-Elfert and P. Dils (SAW). Thesaurus Linguae Aegyptiae Lemmata in
+  Wikidata 2024. The TLA's January 2018 extract in TEI (aed-tei, Simon D. Schweitzer). All CC BY-SA 4.0. Anything
+  derived from these files carries the same terms.
 
 Trismegistos Geo places (data/share-alike/trismegistos/)
   Trismegistos Geo, CC BY-SA 4.0. Anything derived from these files carries the same terms.

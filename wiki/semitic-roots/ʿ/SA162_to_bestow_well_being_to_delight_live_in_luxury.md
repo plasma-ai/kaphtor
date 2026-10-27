@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/SA162_to_bestow_well_being_to_delight_live_in_luxury
 title: "*ʕdn: 'to bestow well-being; to delight, live in luxury'"
-desc: "Epigraphic South Arabian headword *ʕdn, 'to bestow well-being; to delight, live in luxury': reflexes in 3 language(s)."
+desc: "Epigraphic South Arabian headword *ʕdn, 'to bestow well-being; to delight, live in luxury': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA162"
@@ -32,6 +32,7 @@ updated: 2026-10-26T15:47:57Z
 | Epigraphic South Arabian | Sab ʿdn (Biella 354) | Biella 354 | gloss withheld |
 | Hebrew | ʿdn hitp. (HALOT 792) | HALOT 792 | gloss withheld |
 | Syrian Aramaic | ʿadden pa. 'to make pleasant, delight, solace' (Payne Smith 401) | Payne Smith 401 |  |
+| Amorite | ʿdn: jaʿdun, ʿadnum (Gelb AS 21, 15); yaʿdun, ʿadnu, ʿadun (Buck 2019, 274, 324) | Gelb AS 21 15; Buck 2019, 274, 324 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

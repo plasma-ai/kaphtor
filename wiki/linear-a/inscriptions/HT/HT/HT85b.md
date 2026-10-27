@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["DI", "DU-NI-MI", "KA", "KI-KI-RA-JA", "KI-RE-TA₂", "ME-ZA", "PA", "QA-*310-I", "RE-DI-SE"]
+words: ["DI", "DU-NI-MI", "KA", "KI-KI-RA-JA", "KI-RE-TA₂", "ME-ZA", "PA", "QA-*310-I", "RE-DI-SE", "TE-TU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete (status: complete).
 
-> Men of the Kikkar (KI-KI-RA-JA): Kret(a) 1; QE-KA 1; PA 1; TE-TU-\[…\] 1; KA 1; DI 1; corvée gang 1; Redis 1; WA-DU-NI-MI 1; MA-DI 1; smith or administrator(?) 1.
+> Men of the Kikkar (KI-KI-RA-JA): Kret(a) 1; QE-KA 1; PA 1; Tetu 1; KA 1; DI 1; corvée gang 1; Redis 1; WA-DU-NI-MI 1; MA-DI 1; smith or administrator(?) 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kret(a) | Crete or Cretan | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_KA\|QE-KA]] |  | administrative roster label (unread) |  | unread |
 | [[wiki/linear-a/words/P/PA\|PA]] |  | roster category logogram (unread) |  | CANDIDATE (lexicon) |
-| TE-TU-\[…\] |  | administrative roster label (unread) |  |  |
+| TE-TU-\[…\] | Tetu | personal name; Ugaritic tt | SPECULATIVE |  |
 | [[wiki/linear-a/words/K/KA\|KA]] |  | roster category logogram (unread) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DI\|DI]] |  | roster category logogram (unread) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/M/ME_ZA\|ME-ZA]] | massu | corvée gang, labour gang (personnel term); the word of MA-ZA | CANDIDATE | CANDIDATE (lexicon) |
@@ -101,7 +101,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DI|DI]], [[wiki/linear-a/words/D/DU_NI_MI|DU-NI-MI]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KI_KI_RA_JA|KI-KI-RA-JA]], [[wiki/linear-a/words/K/KI_RE_TA2|KI-RE-TA₂]], [[wiki/linear-a/words/M/ME_ZA|ME-ZA]], [[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]], [[wiki/linear-a/words/R/RE_DI_SE|RE-DI-SE]].
+[[wiki/linear-a/words/D/DI|DI]], [[wiki/linear-a/words/D/DU_NI_MI|DU-NI-MI]], [[wiki/linear-a/words/K/KA|KA]], [[wiki/linear-a/words/K/KI_KI_RA_JA|KI-KI-RA-JA]], [[wiki/linear-a/words/K/KI_RE_TA2|KI-RE-TA₂]], [[wiki/linear-a/words/M/ME_ZA|ME-ZA]], [[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]], [[wiki/linear-a/words/R/RE_DI_SE|RE-DI-SE]], [[wiki/linear-a/words/T/TE_TU|TE-TU]].
 
 ## Edition differences
 

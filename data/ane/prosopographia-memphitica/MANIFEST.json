@@ -1,0 +1,568 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Prosopographia Memphitica (ProM): New Kingdom Memphite persons and names",
+  "work": "Herzberg-Beiersdorf, Anne, Prosopographia Memphitica, dataset, Humboldt-Universität zu Berlin, Zenodo (concept DOI 10.5281/zenodo.3856410)",
+  "version": {
+    "release_file_stamp": "20241113",
+    "citation_cff_version": "3.0",
+    "citation_cff_date_released": "2024-11-15",
+    "datacite_version": "3rd",
+    "datacite_updated": "15.11.2024",
+    "documentation_date_of_publication": "2024-11-14 (ProM_DataDocumentation.pdf §1.1.3)",
+    "zenodo_record": "14180205"
+  },
+  "doi": "10.5281/zenodo.3856410",
+  "licence_statements": [
+    {
+      "statement": "ODC-By-1.0",
+      "where": "ProM_Citation.cff, field license"
+    },
+    {
+      "statement": [
+        "CC BY 4.0",
+        " ODC-By 1.0"
+      ],
+      "where": "ProM-DataCite.xml, rightsList/rights (two entries, the second with its leading space)"
+    },
+    {
+      "statement": "The data package created as part of the N4O data ship is provided under CC BY 4.0 and ODC-By 1.0.",
+      "where": "ProM_DataDocumentation.pdf §1.1.8 Licenses (p. 11); the same sentence in ProM-DataCite.xml, description TechnicalInfo"
+    },
+    {
+      "statement": "CC BY 4.0",
+      "where": "Zenodo record 14180205 (catalogued as 'CC BY 4.0 on Zenodo'); no Zenodo record file is held beside the deposit"
+    }
+  ],
+  "sources": {
+    "deposit": {
+      "file": "prosopographia-memphitica-v2024-11-13",
+      "files": {
+        "ProM-DataCite.xml": "092bfe9f7152ac5bfdc96c075a0b505438897c3dc0ce9bdabba912facbb78b3d",
+        "ProM_Citation.cff": "caf964d8046cff6248b52345d623341588817db44ba1d362b4d9cfd272121133",
+        "ProM_DataDocumentation.pdf": "b5eed5d011d818023522687fc0434798e56198be2001c7ba6bdbfd8c84801110",
+        "pm_collections_20241113.csv": "c5477b97583609dab22a23030a5b35d08e416092bbb396a383e82de394aaa8fd",
+        "pm_dating_20241113.csv": "409a3061558b120508aa6131a05459da36b8f1dda426bba5bf7f150af4e89989",
+        "pm_location_20241113.csv": "bef1d804d1a487c5afb22a4ae2c244b3b58e5ed044f0342d82387578259d507a",
+        "pm_material_20241113.csv": "021c631c62fd03896926d1dceae2eb83bf560119057e71a6c0d86fb545656b79",
+        "pm_names_20241113.csv": "5bc3af0dcb59f3ab0d9cf49c21dfdf1536c9a4f728437f02c397e1dc6aee4b33",
+        "pm_objects_20241113.csv": "b00b18f7ab785dbda25eb3fc85622e98285f0c48cc182c701b299ba79edaf443",
+        "pm_persons_20241113.csv": "03c6849acbdd53cfb5036d750c0279ffa0a6a91fbc2ce610dd2ec6ed01bd87e9",
+        "pm_provenance_20241113.csv": "66b09f5bccb37324591dfca296e6a5d9af2eb7ebf0ead8e537f051d461487425",
+        "pm_provenience_20241113.csv": "f822db51901e063e314fbad8ed0158a69fb55ebecd610d538b21f32ec57be78f",
+        "pm_relations_20241113.csv": "9c3503cbdc30b4b020f730907f05b7833a70305e530981a38d7b77b9254f39e3",
+        "pm_titles_20241113.csv": "3e665165b70a82f3dfc0f9b5aa0a3a67ac0a4eeeeefcbb69841da2f146514255"
+      }
+    },
+    "font_sign_list": {
+      "file": "Umschrift_TTn v3.0 - Sign list.pdf",
+      "sha256": "d4722eb5f69b29852d34b8262fa3210dbce98b2e29e815e720e99e9c2379452f",
+      "source": "font/SOURCE.md"
+    },
+    "pnm_personal_names": {
+      "file": "personal_names.jsonl",
+      "sha256": "03fc22ee92ab393d8165548bbfc66f86828c08f178b301b0dbdeadc65ac0679c"
+    },
+    "overrides": null
+  },
+  "identity_rule": "prom:person:<ID> and prom:name:<ID> are ProM's own primary keys (pm_persons ID, pm_names ID), which ProM documents as unique and stable; tables/ keeps every table row under its own id column. A rebuild that drops an id is refused without --allow-drop; one that gives a person or name id another name, or a relation id other endpoints, is refused unless --allow-remap names it (or is given bare, for every id).",
+  "transcription_rule": "name, other_names, title and the names[] forms are ProM's transliteration as given, in the Umschrift_TTn (v3.0; 8/2007) font encoding its documentation names (§1.2.2 p. 20, §1.2.3 pp. 20-21, §1.2.4 pp. 21-24); translit_english is ProM's English rendering. Values are ProM's strings; an empty cell is null in the convenience fields and '' in prom and tables/.",
+  "unicode_rule": "name_unicode (persons, names, names[]), other_names_unicode and titles[].title_unicode convert those strings character by character by the font's own sign list, 'TTF Umschrift_TTn (v3.0, 8/2007, © Prof. Dr. Friedrich Junge)', the version ProM's documentation names (font/Umschrift_TTn v3.0 - Sign list.pdf, one page, read off the page image; font/SOURCE.md). The documentation itself prints no character table. ʾ and ḥ, already Unicode and outside the font's single-byte range, stand for themselves; the result is NFC (H̱, the capital of ẖ, has no precomposed form). The DEL control code (127) is the sheet's bar, '|', as ProM's English gives it after a cartouche. A string holding any other character is left unconverted: its _unicode value is null and unicode_unsettled lists the characters.",
+  "unicode_mapping": {
+    "!": "H",
+    "\"": "Ḥ",
+    "#": "ꜣ",
+    "$": "H̱",
+    "%": "Ḫ",
+    "'": "ʾ",
+    "=": "⸗",
+    "C": "Š",
+    "D": "ḏ",
+    "E": "Ḏ",
+    "H": "ḥ",
+    "O": "Ḥ",
+    "Q": "ḳ",
+    "S": "š",
+    "T": "ṯ",
+    "V": "Ṯ",
+    "X": "ḫ",
+    "c": "S",
+    "e": "D",
+    "o": "ꜥ",
+    "v": "T",
+    "x": "ẖ",
+    "Ö": "Ḳ",
+    "": "|"
+  },
+  "unicode_counts": {
+    "persons_name": {
+      "converted": 2409
+    },
+    "persons_other_names": {
+      "converted": 69
+    },
+    "names_name": {
+      "converted": 1574
+    },
+    "titles_title": {
+      "converted": 992
+    },
+    "unsettled_characters": {}
+  },
+  "unicode_pnm_check": {
+    "rule": "persons with a PNM id ProM asserts whose PNM record carries the person's Ranke reference (ranke_agrees): name_unicode and PNM's personal_name compared in PNM's notation (lower case, q for ḳ, ⸗ for =); equal_without_separators: equal once . - and space are dropped; equal_without_j_w: equal once j, w and ⸗ are dropped as well (Ḥr.w and ḥr, Ḥw.j and ḥw.jj: a spelling convention, no letter the sign list converts); differs: any other letter. A check of the sign list's mapping; nothing is joined or changed by it. differs lists the distinct (name, PNM id) pairs with the persons bearing them.",
+    "pairs": 524,
+    "results": {
+      "equal_without_separators": 56,
+      "equal": 286,
+      "equal_without_j_w": 120,
+      "differs": 62
+    },
+    "differs": [
+      {
+        "name": "%#w.t",
+        "name_unicode": "Ḫꜣw.t",
+        "pnm_id": 1768,
+        "pnm_personal_name": "ꜥꜣw.t",
+        "prom_ids": [
+          672
+        ]
+      },
+      {
+        "name": "C#rj.tj",
+        "name_unicode": "Šꜣrj.tj",
+        "pnm_id": 3035,
+        "pnm_personal_name": "šꜣr.jj.t⸗f",
+        "prom_ids": [
+          1795
+        ]
+      },
+      {
+        "name": "EHw.tj-m-H#b",
+        "name_unicode": "Ḏḥw.tj-m-ḥꜣb",
+        "pnm_id": 1217,
+        "pnm_personal_name": "ḏḥw.tj-m-ḥb",
+        "prom_ids": [
+          829,
+          830,
+          831,
+          2399,
+          2652
+        ]
+      },
+      {
+        "name": "Eh.wtj-ms",
+        "name_unicode": "Ḏh.wtj-ms",
+        "pnm_id": 186,
+        "pnm_personal_name": "ḏḥw.tj-ms",
+        "prom_ids": [
+          2771
+        ]
+      },
+      {
+        "name": "Jmn-m-H#b",
+        "name_unicode": "Jmn-m-ḥꜣb",
+        "pnm_id": 5018,
+        "pnm_personal_name": "jmn-m-ḥb",
+        "prom_ids": [
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          93,
+          94,
+          95,
+          96,
+          428,
+          1777,
+          2395
+        ]
+      },
+      {
+        "name": "Jmn-o#",
+        "name_unicode": "Jmn-ꜥꜣ",
+        "pnm_id": 1269,
+        "pnm_personal_name": "ꜥꜣ-jmn",
+        "prom_ids": [
+          1155
+        ]
+      },
+      {
+        "name": "Jnp.w-m-H#b",
+        "name_unicode": "Jnp.w-m-ḥꜣb",
+        "pnm_id": 2777,
+        "pnm_personal_name": "jnp.w-m-ḥb",
+        "prom_ids": [
+          2403
+        ]
+      },
+      {
+        "name": "Jt.j=f",
+        "name_unicode": "Jt.j⸗f",
+        "pnm_id": 64,
+        "pnm_personal_name": "jtj",
+        "prom_ids": [
+          1945
+        ]
+      },
+      {
+        "name": "K#-nfr",
+        "name_unicode": "Kꜣ-nfr",
+        "pnm_id": 996,
+        "pnm_personal_name": "nfr-kꜣ⸗j",
+        "prom_ids": [
+          774
+        ]
+      },
+      {
+        "name": "Mo.jj",
+        "name_unicode": "Mꜥ.jj",
+        "pnm_id": 1290,
+        "pnm_personal_name": "mꜣj",
+        "prom_ids": [
+          362,
+          363,
+          364,
+          365,
+          367,
+          1106,
+          1204,
+          1864,
+          1953,
+          2243,
+          2302,
+          2476
+        ]
+      },
+      {
+        "name": "N.jj",
+        "name_unicode": "N.jj",
+        "pnm_id": 19,
+        "pnm_personal_name": "ẖt.jj",
+        "prom_ids": [
+          450,
+          451
+        ]
+      },
+      {
+        "name": "Or.w-m-H#b",
+        "name_unicode": "Ḥr.w-m-ḥꜣb",
+        "pnm_id": 205,
+        "pnm_personal_name": "ḥr-m-ḥb",
+        "prom_ids": [
+          662,
+          663,
+          858,
+          1860
+        ]
+      },
+      {
+        "name": "PtH-m-H#b",
+        "name_unicode": "Ptḥ-m-ḥꜣb",
+        "pnm_id": 3307,
+        "pnm_personal_name": "ptḥ-m-ḥb",
+        "prom_ids": [
+          316,
+          317,
+          318,
+          319,
+          321,
+          322,
+          323,
+          912,
+          934,
+          935,
+          2034,
+          2055,
+          2147,
+          2385,
+          2406,
+          2537,
+          2651,
+          2692,
+          2698
+        ]
+      }
+    ]
+  },
+  "name_link_rule": "a name row's persons are the ProM ids in its id_person_old and id_persons columns (via says which); in_persons: the id is a pm_persons row; same_string: the name row's name equals that person's name. The persons -> pnames relations are kept in tables/pm_relations.jsonl only: 0 of their 204 pairs share a name string.",
+  "ranke_rule": "ranke_refs are the RPN references in the name row's RPN cell: 'RPN I 195.22', 'RPN I, 186.14' and 'vgl. RPN I 145.2' normalize to 'I, 195.22' (volume, comma, page.number, leading zeros dropped); ranke_unparsed is the rest of the cell. PNM v6 personal_names.ranke parts ('I, 195.22') normalize the same way; a part that does not ('I, 242,22', 'II, 376 (234.18)') is not indexed, nor are spellings.ranke. match: one, none or several PNM personal names carry the normalized reference; pnm_matches lists them. pnm_name_ids holds the match of each reference with exactly one; several is not joined, and neither is a vgl. reference (not_joined_qualified). No name form is compared.",
+  "pnm_id_rule": "pnm_ids are the PNM name ids ProM writes in a name row: 'PNM 2170' in PNM _id, .../name/2170 or .../3/name/2170 in PNM_link (and once in TLA_link); asserted_in names the columns. Each resolves to the PNM v6 personal name whose personal_names_id & 0x7FFFFF equals it, PNM's own record_id_from_id (pnm-v6.sql), the id of its /name/ URLs. ranke_agrees: that PNM record carries one of the row's normalized Ranke references (null when either side has none); a check, not a join. A person's pnm_ids, ranke_refs and pnm_name_ids are its names'.",
+  "person_fields": "titles, dating and objects come from the person's pm_relations rows to that table, with the relation id; objects carry their provenance collections and provenience (place, site, context) through the object's own relations. relations lists the person's persons <-> persons relations by ProM id, this_side giving which end of the relation row the person stands at; relation_type, _subtype and _title as given, not read for direction. prom is the pm_persons row, prom on a name its pm_names row.",
+  "row_counts": {
+    "persons.jsonl": 2409,
+    "names.jsonl": 1574,
+    "tables/pm_collections.jsonl": 109,
+    "tables/pm_dating.jsonl": 60,
+    "tables/pm_location.jsonl": 134,
+    "tables/pm_material.jsonl": 42,
+    "tables/pm_names.jsonl": 1574,
+    "tables/pm_objects.jsonl": 1687,
+    "tables/pm_persons.jsonl": 2409,
+    "tables/pm_provenance.jsonl": 238,
+    "tables/pm_provenience.jsonl": 128,
+    "tables/pm_relations.jsonl": 30743,
+    "tables/pm_titles.jsonl": 992
+  },
+  "documented_counts": {
+    "objects": {
+      "rows": 1700,
+      "columns": 16,
+      "release_rows": 1687,
+      "release_columns": 16
+    },
+    "persons": {
+      "rows": 2409,
+      "columns": 6,
+      "release_rows": 2409,
+      "release_columns": 6
+    },
+    "names": {
+      "rows": 1009,
+      "columns": 10,
+      "release_rows": 1574,
+      "release_columns": 13
+    },
+    "titles": {
+      "rows": 992,
+      "columns": 23,
+      "release_rows": 992,
+      "release_columns": 24
+    },
+    "dating": {
+      "rows": 60,
+      "columns": 11,
+      "release_rows": 60,
+      "release_columns": 12
+    },
+    "material": {
+      "rows": 42,
+      "columns": 13,
+      "release_rows": 42,
+      "release_columns": 13
+    },
+    "provenience": {
+      "rows": 125,
+      "columns": 6,
+      "release_rows": 128,
+      "release_columns": 8
+    },
+    "provenance": {
+      "rows": 238,
+      "columns": 13,
+      "release_rows": 238,
+      "release_columns": 13
+    },
+    "collections": {
+      "rows": 109,
+      "columns": 9,
+      "release_rows": 109,
+      "release_columns": 9
+    },
+    "location": {
+      "rows": 134,
+      "columns": 14,
+      "release_rows": 134,
+      "release_columns": 15
+    },
+    "relations": {
+      "rows": 29016,
+      "columns": 8,
+      "release_rows": 30743,
+      "release_columns": 8
+    }
+  },
+  "counts": {
+    "persons": 2409,
+    "names": 1574,
+    "distinct_name_strings": 1012,
+    "titles": 992,
+    "relations": 30743,
+    "relations_by_tables": {
+      "persons->objects": 3582,
+      "persons->titles": 2120,
+      "persons->dating": 2421,
+      "persons->persons": 15855,
+      "objects->dating": 1741,
+      "->": 1,
+      "persons->pnames": 204,
+      "objects->provenance": 1552,
+      "provenance->location": 113,
+      "provenance->collection": 107,
+      "objects->provenience": 1320,
+      "objects->material": 1727
+    },
+    "persons_with_titles": 1294,
+    "persons_with_names": 2372,
+    "persons_with_ranke": 1586,
+    "persons_with_pnm_ids": 545,
+    "persons_with_pnm_name_ids": 1385,
+    "name_person_links": {
+      "total": 2374,
+      "in_persons": 2372,
+      "same_string": 2349,
+      "by_column": {
+        "id_person_old": 1228,
+        "id_person_old+id_persons": 346,
+        "id_persons": 800
+      }
+    },
+    "names_with_rpn_cell": 811,
+    "names_with_ranke_ref": 797,
+    "names_rpn_without_ranke_ref": 14,
+    "ranke_refs": 799,
+    "ranke_refs_qualified_not_joined": 1,
+    "ranke_match_spread": {
+      "one": 647,
+      "none": 146,
+      "several": 5
+    },
+    "ranke_distinct_normalized": 413,
+    "ranke_distinct_match_spread": {
+      "one": 306,
+      "none": 102,
+      "several": 5
+    },
+    "pnm_name_ids_distinct": 304,
+    "names_with_pnm_ids": 117,
+    "pnm_ids_asserted": 117,
+    "pnm_ids_distinct": 108,
+    "pnm_ids_resolved": 117,
+    "pnm_ids_unresolved": 0,
+    "pnm_ids_ranke_agrees": {
+      "true": 113,
+      "false": 2,
+      "none": 2
+    }
+  },
+  "data_notes": {
+    "rpn_cells_without_ranke_ref": {
+      "oGardiner 7 vs Z2": 10,
+      "RPN I XX!.85; RPN III, 350": 1,
+      "Schneider N 173;": 1,
+      "Zivie, BIFAO 75, 1975, 302": 1,
+      "vgl. RPN 311.21": 1
+    },
+    "ranke_unparsed": {
+      "prom:name:1252": "97.22, Caminos, LEM, 469"
+    },
+    "pnm_ranke_disagreements": [
+      {
+        "name": "prom:name:87",
+        "rpn": "RPN I 165.11",
+        "pnm_id": 1596,
+        "asserted_in": [
+          "PNM _id",
+          "PNM_link"
+        ],
+        "pnm_personal_names_id": 142607932,
+        "pnm_personal_name": "ms",
+        "ranke_agrees": false
+      },
+      {
+        "name": "prom:name:492",
+        "rpn": "RPN I 262.3",
+        "pnm_id": 4255,
+        "asserted_in": [
+          "PNM _id",
+          "PNM_link"
+        ],
+        "pnm_personal_names_id": 142610591,
+        "pnm_personal_name": "ḫꜥ.jj",
+        "ranke_agrees": false
+      }
+    ],
+    "pnm_link_not_pnm": [
+      "1033",
+      "1097",
+      "1153",
+      "1193"
+    ],
+    "tla_link_holding_pnm_url": [
+      "1282"
+    ],
+    "name_links_not_in_persons": [
+      0,
+      683
+    ],
+    "relation_ends_naming_no_person": {
+      "persons->persons": 106,
+      "persons->titles": 12,
+      "persons->objects": 24,
+      "persons->dating": 21,
+      "persons->pnames": 1
+    },
+    "relations_with_blank_target": {
+      "persons->objects": 1,
+      "objects->provenance": 2,
+      "objects->provenience": 593,
+      "objects->material": 366
+    },
+    "relations_blank_row": [
+      "33915"
+    ],
+    "persons_without_gender": [
+      2439
+    ]
+  },
+  "outputs": {
+    "persons.jsonl": {
+      "rows": 2409,
+      "sha256": "e6bb29f46c5e17059020ab61486e90422fbd02e8b6d679a7a3c25d9e13b2f7bf"
+    },
+    "names.jsonl": {
+      "rows": 1574,
+      "sha256": "ef5dd7f743d809720586443519fc085ef475e9978360a88f2e30c81aa65194f4"
+    },
+    "tables/pm_collections.jsonl": {
+      "rows": 109,
+      "sha256": "dcbe1e88dbe7328a567bbef98b46e666ca688fac17cc9fb580ba0e7bd30c5129"
+    },
+    "tables/pm_dating.jsonl": {
+      "rows": 60,
+      "sha256": "8a300c51034ed694ccedefc6a51764fc2c986e154aac0e51464dcd5d72eab275"
+    },
+    "tables/pm_location.jsonl": {
+      "rows": 134,
+      "sha256": "e1b42a80ff6d4ec477b0f499ae2a4c5e57e95be9300c7c6153f94862a4bced03"
+    },
+    "tables/pm_material.jsonl": {
+      "rows": 42,
+      "sha256": "ac34923ff80b135c1d815bb5e511e4a154a2a1761985f4a4800d7d9e20587b74"
+    },
+    "tables/pm_names.jsonl": {
+      "rows": 1574,
+      "sha256": "f5e5990468ffe084dd93162f96727a34e724984dfcff4c453730327de0ff3bab"
+    },
+    "tables/pm_objects.jsonl": {
+      "rows": 1687,
+      "sha256": "ea0ec75d6914c95ba731d198a2b471b1a5cced23f69c62e16a8a123884c4634e"
+    },
+    "tables/pm_persons.jsonl": {
+      "rows": 2409,
+      "sha256": "95a25be80f0ff6ad666822d39857754097e215d41704f50cc94bfca1db588dd4"
+    },
+    "tables/pm_provenance.jsonl": {
+      "rows": 238,
+      "sha256": "cbbc68e9f1446b5daae259efc8cd04d311913fbfc5e0087a7bc99d908a43e2e2"
+    },
+    "tables/pm_provenience.jsonl": {
+      "rows": 128,
+      "sha256": "85a815ddecbc8025451504ab7e03e8ad1d0bae70355565839855e9e5890cb799"
+    },
+    "tables/pm_relations.jsonl": {
+      "rows": 30743,
+      "sha256": "0988c675fe0152f41cfced400d4218ea18ec458bdaaae1edf2814eb3fea85469"
+    },
+    "tables/pm_titles.jsonl": {
+      "rows": 992,
+      "sha256": "88af695adfadf1a7cab1209ee5c93dfc5db6828ffbb51eb298278bfc1e07db45"
+    }
+  },
+  "export": {
+    "rows": "each row as the private build wrote it, without source_id",
+    "manifest": "private catalogue ids, local paths (a path is given as its file name) and build-trail keys removed; outputs rehashed",
+    "not_shipped": []
+  }
+}

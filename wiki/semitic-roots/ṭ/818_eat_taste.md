@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Pal ṭʕm |  |  |
 | Epigraphic South Arabian | Sab ṭʿm (SD 152; Biella 220) | SD 152; Biella 220 | gloss withheld |
 | Tigre | ṭeʿema; ṭaʿam (HALOT 377) | HALOT 377 | gloss withheld |
-| Akkadian | ṭēmu (HALOT 377) | HALOT 377 | gloss withheld |
+| Akkadian | ṭēmu (HALOT 377) (LGz. 583) | HALOT 377; LGz. 583 | gloss withheld |
 | Syrian Aramaic | ṭəʿam (LGz. 583) | LGz. 583 |  |
 | Tigrinya | ṭäʿamä (LGz. 583) | LGz. 583 |  |
 | Amharic | ṭamä (LGz. 583) | LGz. 583 |  |
@@ -50,5 +50,9 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic ṭʿm (Al-Jallad–Jaworska 137) | Al-Jallad–Jaworska 137 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+LGz. 583 sets Akkadian ṭēmu beside Hebrew ṭaʿam 'sense, discernment, decree'.
 
 <!-- END kaphtor:record -->

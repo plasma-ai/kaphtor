@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʔnš |  | gloss withheld |
 | Geez | nǝʔus (Kogan 2015, ch. 7 §2.3 no. 77) | Kogan 2015 ch. 7 §2.3 no. 77 | gloss withheld |
 | Gurage | anäsä |  | gloss withheld |
-| Hebrew | ʔnš (nif) |  | gloss withheld |
+| Hebrew | ʔnš (nif); ʔānūš (HALOT 70) | HALOT 70 | gloss withheld |
 | Amharic | annäsä |  | gloss withheld |
 | Harari | anäsa |  | gloss withheld |
 | Gafat | ǝnsä (Kogan 2015, ch. 7 §2.3 no. 77) | Kogan 2015 ch. 7 §2.3 no. 77 | gloss withheld |

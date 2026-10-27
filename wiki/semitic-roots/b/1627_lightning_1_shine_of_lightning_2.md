@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | brq (B 292) | B 292 | gloss withheld |
 | Aramaic | BRQ (Aramaic Root Atlas; CAL s.v. brq); brq (Aramaic Root Atlas; DNWSI 203 apud CAL) | Aramaic Root Atlas; CAL s.v. brq; DNWSI 203; CAL; Anderson–Moser 2024 root brq | gloss withheld |
 | Soqotri | brq 2 (HALOT 162) | HALOT 162 |  |
-| Amorite | brq: jabruq, burq(ān)um, burqatum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Amorite | brq: jabruq, burq(ān)um, burqatum (Gelb AS 21, 17); burqān, yabruq (Buck 2019, 326) | Gelb AS 21 17; Buck 2019, 326 | gloss withheld |
 | Jibbali | bɛrḳ (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
 | Gurage | End. Sod. bəraˀ, Muh. Msq. Sod. bəraḳ (EDG 155 apud SEDonline 543) | EDG 155; SEDonline 543 | gloss withheld |
 | East Ethiopic | Sel. bərāḳ, Wol. bərāḳ, bərāˀ, Zwy. bərrəḳat (EDG 155 apud SEDonline 543) | EDG 155; SEDonline 543 | gloss withheld |

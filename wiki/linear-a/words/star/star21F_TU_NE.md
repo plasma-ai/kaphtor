@@ -50,7 +50,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT7b\|HT7b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT7b\|HT7b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT87\|HT87]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT117b\|HT117b]] | Haghia Triada | Tablet | complete |
 
@@ -58,6 +58,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT7b\|HT7b]] | hatune | bridegroom, son-in-law, 1 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT87\|HT87]] | hatune | bridegroom/in-law category | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT117b\|HT117b]] | hatune | bridegroom/in-law category (heading) | CANDIDATE |
 

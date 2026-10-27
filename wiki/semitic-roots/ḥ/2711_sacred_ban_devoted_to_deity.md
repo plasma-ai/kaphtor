@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2711_sacred_ban_devoted_to_deity
 title: "*ḥarām-: 'sacred ban, devoted (to deity)'"
-desc: "Proto-Semitic *ḥarām-, 'sacred ban, devoted (to deity)': reflexes in 17 language(s)."
+desc: "Proto-Semitic *ḥarām-, 'sacred ban, devoted (to deity)': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2711"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | aḥrím (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
 | Mehri | ḥōrəm, ḥrūm (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
 | Soqotri | ḥórim (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
+| Emar | ta-aḫ-ru-um /taḥrum/ (Pentiuc 2001, 176–177) | Pentiuc 2001 176–177 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

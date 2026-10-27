@@ -31,9 +31,9 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Hebrew | gbr (HALOT 175); gǝbûrâ 2 (HALOT 172) | HALOT 175; HALOT 172 | gloss withheld |
 | Akkadian | gubburu (guppuru); gutabburu (CAD G 118); gabru (gapru) (CAD G 6) | CAD G 118; CAD G 6 | gloss withheld |
-| Syrian Aramaic | gabbar (Payne Smith 59); gabrūtā 2 (HALOT 172) | Payne Smith 59; HALOT 172 | gloss withheld |
+| Syrian Aramaic | gabbar (Payne Smith 59); gabrūtā 2 (HALOT 172); gabbārūtā (spelled ganbārūtā) 2 (Payne Smith 74) | Payne Smith 59; HALOT 172; Payne Smith 74 | gloss withheld |
 | Judaic Aramaic | gǝbûrtā 2 (HALOT 172) | HALOT 172 | gloss withheld |
-| Punic | Neo-Punic gbrt; gbrtm 2 (Krahmalkov 135) | Krahmalkov 135 | gloss withheld |
+| Punic | Neo-Punic gbrt; gbrtm 2 (Krahmalkov 135; T 61) | Krahmalkov 135; T 61 | gloss withheld |
 | Arabic | tajabbara (V) (HALOT 175); jabbār (Lane 374) | HALOT 175; Lane 374 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

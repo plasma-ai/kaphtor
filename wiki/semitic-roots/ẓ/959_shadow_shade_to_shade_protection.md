@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | ṭəlal (LGz. 555) | LGz. 555 |  |
 | Argobba | ṭəla (LGz. 555) | LGz. 555 |  |
 | Gafat | č̣əlayä (LGz. 555) | LGz. 555 |  |
-| Amorite | ṣll: ṣalilum, ṣillum (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
+| Amorite | ṣll: ṣalilum, ṣillum (Gelb AS 21, 34); ṣillu / (Buck 2019, 333) | Gelb AS 21 34; Buck 2019, 333 | gloss withheld |
 | East Ethiopic | Sel. č̣āl, Wol. č̣al, Zwy. č̣āya (EDG 618 apud SEDonline 556) | EDG 618; SEDonline 556 | gloss withheld |
 | Harari | č̣āya (EDH 52 apud SEDonline 556) | EDH 52; SEDonline 556 | gloss withheld |
 

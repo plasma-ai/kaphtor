@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | brr |  |  |
 | Geez | brr |  |  |
-| Hebrew | brr; bārar (HALOT 162) | HALOT 162 | gloss withheld |
+| Hebrew | brr; bārar (HALOT 162); bar (HALOT 153) | HALOT 162; HALOT 153 | gloss withheld |
 | Aramaic | (Palest) bǝrar |  |  |
 | Syrian Aramaic | bᵉrīrā (HALOT 153) | HALOT 153 | gloss withheld |
 | Arabic | barr (HALOT 153) | HALOT 153 | gloss withheld |

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | škr 'hire' | Anderson–Moser 2024 root škr |  |
 | Phoenician | škr (HALOT 1330) | HALOT 1330 |  |
 | Geez | śakara (LGz. 529) | LGz. 529 |  |
-| Amorite | śkr (Huffmon APNM 245) | Huffmon APNM 245 | gloss withheld |
+| Amorite | śkr (Huffmon APNM 245); śukru, yiśkur (Buck 2019, 332) | Huffmon APNM 245; Buck 2019, 332 | gloss withheld |
 | Arabic | škr (Kogan 2015, ch. 3 §5.2 no. 58) | Kogan 2015 ch. 3 §5.2 no. 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

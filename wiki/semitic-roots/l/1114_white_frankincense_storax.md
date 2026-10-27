@@ -41,7 +41,7 @@ updated: 2026-10-25T06:28:07Z
 | Epigraphic South Arabian | lbnt (HALOT 518); Sab lbny (SD 81) | HALOT 518; SD 81 | gloss withheld |
 | Mandaic Aramaic | lubana (HALOT 518) | HALOT 518 | gloss withheld |
 | Tigre | lebān (HALOT 518) | HALOT 518 | gloss withheld |
-| Amorite | lbn: labanum, labnum, labbinum (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
+| Amorite | lbn: labanum, labnum, labbinum (Gelb AS 21, 24); labbīnu (Buck 2019, 329) | Gelb AS 21 24; Buck 2019, 329 | gloss withheld |
 | Judaic Aramaic | labnaʾ (T 155); lebūntaʾ (T 156) | T 155; T 156 | gloss withheld |
 | Syrian Aramaic | lebuntaʾ (T 156) | T 156 | gloss withheld |
 | Aramaic | Off. lbwnh (DNWSI 564 apud SEDonline 1796); CPA lbwnh, lybwnh (DCPA 193 apud SEDonline 1796); Sam. lbwnh (DSA 425 apud SEDonline 1796) | DNWSI 564; SEDonline 1796; DSA 425 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1710_ignore_disapprove_1_deny_2_be_different_strange
 title: "*nVkar-: 'ignore, disapprove' 1, 'deny' 2, 'be different, strange, foreign' 3"
-desc: "Proto-Semitic *nVkar-, 'ignore, disapprove' 1, 'deny' 2, 'be different, strange, foreign' 3: reflexes in 13 language(s)."
+desc: "Proto-Semitic *nVkar-, 'ignore, disapprove' 1, 'deny' 2, 'be different, strange, foreign' 3: reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1710"
@@ -35,14 +35,15 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | nakāru 2 (CAD N/1 165); nukurrû 2 (CAD N/2 328); nakārum 3 (Huehnergard 1997 GAk, 508) | CAD N/1 165; CAD N/2 328; Huehnergard 1997 GAk, 508 | gloss withheld |
 | Geez | nakir 3 (LGz. 397) | LGz. 397 | gloss withheld |
 | Hebrew | nkr; nēkār 3 (HALOT 699, 700) | HALOT 699, 700 | gloss withheld |
-| Epigraphic South Arabian | nkr 3 (HALOT 699; Sabaweb lemma 4647) | HALOT 699; Sabaweb lemma 4647 | gloss withheld |
+| Epigraphic South Arabian | nkr 3 (HALOT 699; Sabaweb lemma 4647); Sab hnkr 3 (Biella 305); nkr 3 (Sabaweb lemma 5701) | HALOT 699; Sabaweb lemma 4647; Biella 305; Sabaweb lemma 5701 | gloss withheld |
 | Mandaic Aramaic | nukraia 3 (LGz. 397) | LGz. 397 | gloss withheld |
 | Tigre | näkära 1 (LGz. 397) | LGz. 397 | gloss withheld |
 | Amharic | näkkärä 3 (LGz. 397) | LGz. 397 | gloss withheld |
-| Amorite | nkr: nakarum, nakrum, nakaratum, nakartum 3 (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
+| Amorite | nkr: nakarum, nakrum, nakaratum, nakartum 3 (Gelb AS 21, 27); nikratu (Buck 2019, 330) | Gelb AS 21 27; Buck 2019, 330 | gloss withheld |
 | Syrian Aramaic | nakrī 'alienate, estrange, remove' 3 (Payne Smith 340) | Payne Smith 340 |  |
 | Aramaic | Palm. nkry 3 (HALOT 700) | HALOT 700 |  |
 | Judaic Aramaic | nūkᵉrāʾā 3 (HALOT 700) | HALOT 700 |  |
+| Emar | ni-ka-ri, ni-ka-rù /nikaru/ (Pentiuc 2001, 133–134) | Pentiuc 2001 133–134 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

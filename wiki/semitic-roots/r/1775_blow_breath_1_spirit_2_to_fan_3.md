@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1775_blow_breath_1_spirit_2_to_fan_3
 title: "*rūḥ-: 'blow, breath' 1, 'spirit' 2, 'to fan' 3"
-desc: "Proto-Semitic *rūḥ-, 'blow, breath' 1, 'spirit' 2, 'to fan' 3: reflexes in 16 language(s)."
+desc: "Proto-Semitic *rūḥ-, 'blow, breath' 1, 'spirit' 2, 'to fan' 3: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1775"
@@ -46,6 +46,7 @@ updated: 2026-10-26T14:26:59Z
 | Jibbali | iráḥ (JL 218 apud SEDonline 538); rwḥ 3 (LGz. 477) | JL 218; SEDonline 538; LGz. 477 | gloss withheld |
 | Mehri | rīḥ (ML 333 apud SEDonline 538) | ML 333; SEDonline 538 | gloss withheld |
 | Soqotri | raḥ (LS 395; CSOL I 634; CSOL II 568; Naumkin et al. 2015a:82; Naumkin et al. 2022:272 apud SEDonline 538) | LS 395; SEDonline 538 | gloss withheld |
+| Amorite | rūḥ (Buck 2019, 332) | Buck 2019, 332 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

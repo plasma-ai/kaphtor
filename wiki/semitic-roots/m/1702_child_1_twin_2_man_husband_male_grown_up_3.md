@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1702_child_1_twin_2_man_husband_male_grown_up_3
 title: "*ma/iṯ-: 'child' 1, 'twin' 2, 'man, husband, male, grown-up' 3"
-desc: "Proto-Semitic *ma/iṯ-, 'child' 1, 'twin' 2, 'man, husband, male, grown-up' 3: reflexes in 9 language(s)."
+desc: "Proto-Semitic *ma/iṯ-, 'child' 1, 'twin' 2, 'man, husband, male, grown-up' 3: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1702"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Egyptian | mś, mśỉ (OLA80 §8.18) | OLA80 §8.18 | gloss withheld |
 | Geez | mossay (OLA80 §8.18) | OLA80 §8.18 | gloss withheld |
 | Amharic | mossa (OLA80 §8.18) | OLA80 §8.18 | gloss withheld |
+| Amorite | muṯu (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

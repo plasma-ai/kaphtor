@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3135_to_enclose_protect_shelter
 title: "*gnn: 'to enclose, protect, shelter'"
-desc: "Proto-Semitic *gnn, 'to enclose, protect, shelter': reflexes in 11 language(s)."
+desc: "Proto-Semitic *gnn, 'to enclose, protect, shelter': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3135"
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | hegnē JM 121; gōna (ML 122 apud SEDonline 1175) | JM 121; ML 122; SEDonline 1175 | gloss withheld |
 | Jibbali | egníʔ, gúnɛʔ JJ 77 | JJ 77 | gloss withheld |
 | Soqotri | éghon (CSOL II 382 apud SEDonline 1175) | SEDonline 1175 | gloss withheld |
+| Amorite | gunnu (Buck 2019, 326) | Buck 2019, 326 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

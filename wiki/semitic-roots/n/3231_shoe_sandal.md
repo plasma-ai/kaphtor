@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3231_shoe_sandal
 title: "*naʿl-: 'shoe, sandal'"
-desc: "Proto-Semitic *naʿl-, 'shoe, sandal': reflexes in 3 language(s)."
+desc: "Proto-Semitic *naʿl-, 'shoe, sandal': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3231"
@@ -32,6 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | naʿal (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015 ch. 3 §5.3 no. 22 | gloss withheld |
 | Syrian Aramaic | naʿlā (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015 ch. 3 §5.3 no. 22 | gloss withheld |
 | Arabic | naʿl- (Kogan 2015, ch. 3 §5.3 no. 22) | Kogan 2015 ch. 3 §5.3 no. 22 | gloss withheld |
+| Amorite | na-aḫ-lu = šēnum, naʕlu (George and Krebernik 2022, 115, 120) | George and Krebernik 2022 115, 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

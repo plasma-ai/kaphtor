@@ -56,13 +56,14 @@ di Mino; Laroche 1980
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Tegi | personal name 'Beautiful', 27½; Hurrian tegi | SPECULATIVE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Tegi | personal name; Hurrian tegi 'beautiful' | SPECULATIVE |
 
 ## Onomasticon

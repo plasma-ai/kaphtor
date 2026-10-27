@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/2509_to_remember_mention_invoke_1_man_male_2_phallus
 title: "*ḏikar-: 'to remember, mention, invoke' 1, 'man, male' 2, 'phallus' 3"
-desc: "Proto-Semitic *ḏikar-, 'to remember, mention, invoke' 1, 'man, male' 2, 'phallus' 3: reflexes in 24 language(s)."
+desc: "Proto-Semitic *ḏikar-, 'to remember, mention, invoke' 1, 'man, male' 2, 'phallus' 3: reflexes in 25 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2509"
@@ -49,11 +49,12 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | zäkkärä (LGz. 636) | LGz. 636 |  |
 | Amharic | (tä)zäkkärä (LGz. 636) | LGz. 636 |  |
 | Gurage | zäkkärä (LGz. 636) | LGz. 636 |  |
-| Amorite | ḏkr: jaḏkur, ḏākirum, ḏākiratum, ḏakūrum (Gelb AS 21, 18) | Gelb AS 21 18 | gloss withheld |
+| Amorite | ḏkr: jaḏkur, ḏākirum, ḏākiratum, ḏakūrum (Gelb AS 21, 18); ḏākir, ḏakūru (Buck 2019, 326) | Gelb AS 21 18; Buck 2019, 326 | gloss withheld |
 | Jibbali | məḏkér (Kogan 2011, 234) | Kogan 2011 234 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḏkr (Al-Jallad–Jaworska 66) | Al-Jallad–Jaworska 66 | gloss withheld |
 | Canaanite | EA zkr (DNWSI 321 apud SEDonline 2040) | DNWSI 321; SEDonline 2040 | gloss withheld |
 | Eblaitic | ša-ḫa-lum /ḏaḫaRum/ (VE 1112a–b, Kogan–Krebernik 2021b: 690 apud SEDonline 1031; Krebernik 1983, 39); iš₁₁-gur-ma /yiḏkur-ma/ (ARET V 7 obv. V 2, Kogan–Krebernik 2021b: 690 apud SEDonline 2040) | VE 1112a–b, Kogan–Krebernik 2021b: 690; SEDonline 1031; Krebernik 1983, 39; SEDonline 2040 | gloss withheld |
+| Emar | zu-uk-ra, zu-uk-ri /ðukru/ (Pentiuc 2001, 197–198) | Pentiuc 2001 197–198 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

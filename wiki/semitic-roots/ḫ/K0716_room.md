@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/K0716_room
 title: "*ḫidr-: 'room'"
-desc: "Proto-Semitic *ḫidr-, 'room': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ḫidr-, 'room': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0716"
@@ -38,6 +38,7 @@ updated: 2026-10-26T14:26:59Z
 | Epigraphic South Arabian | Sab ḫdr (Kogan 2015, ch. 2 §4.2 no. 17; Sabaweb lemma 4248) | Kogan 2015 ch. 2 §4.2 no. 17; Sabaweb lemma 4248 | gloss withheld |
 | Jibbali | ḫádər (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015 ch. 2 §4.2 no. 17 | gloss withheld |
 | Eblaitic | ʔà-da-ru₁₂, ʔà-da-lu-um /ḥadrum/ (VE 337, 595; Krebernik 1983, 14) | VE 337, 595; Krebernik 1983, 14 | gloss withheld |
+| Emar | ḫi-id-ru /ḫidru/ (Pentiuc 2001, 67) | Pentiuc 2001 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

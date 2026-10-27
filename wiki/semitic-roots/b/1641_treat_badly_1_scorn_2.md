@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | buzzuʔu 1 |  |  |
-| Hebrew | bzy 2 |  |  |
+| Akkadian | buzzuʔu 1 (AHw 145b apud HALOT 117) | AHw 145b; HALOT 117 | gloss withheld |
+| Hebrew | bāzâ 2 (HALOT 117) | HALOT 117 | gloss withheld |
 | Aramaic | (Palest) bazzē 2 |  |  |
 | Geez | bazbaza (LGz. 117) | LGz. 117 | gloss withheld |
 | Syrian Aramaic | bzh (HALOT 117) | HALOT 117 |  |

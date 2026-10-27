@@ -30,6 +30,7 @@ HEB_ROMAN = {
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from tools.paths import ANE_DATA as PROPER_NAMES
+from tools.paths import SHARE_ALIKE
 
 # Signs a scholar may type for aleph and ayin. The ASCII apostrophe and the curly quote are
 # written for both, so they stay ambiguous and expand to every sign the view stores for either.
@@ -93,6 +94,12 @@ VIEW_NOTATION: dict[str, dict] = {
             "aleph": ("ꜣ",), "ayin": ("ꜥ",), "schemes": (DIGIT,),
             "letters": {"ȝ": ("ꜣ",), "ỉ": ("j",), "=": ("⸗",)}, "mdc": MDC, "shape": ("typed",),
             "alphabet": " ()-.?[]bdfghjkmnpqrstwšẖḏḥḫṯ⸗ꜣꜥ", "known_strays": {"o": 1}},
+    # TLA v18 lemmas: yod is ꞽ (U+A7BD), ʾ TLA's own sign beside ꜣ, + joins a compound; i̯ and H̱ carry
+    # combining marks. Pḏ.wt-9, the Nine Bows, is the one digit.
+    "tla": {"paths": (SHARE_ALIKE / "tla-v18-names" / "lemmas.jsonl",), "field": "lemma", "census_casefold": True,
+            "aleph": ("ꜣ", "ʾ"), "ayin": ("ꜥ",), "schemes": (DIGIT,),
+            "letters": {"ȝ": ("ꜣ",), "ỉ": ("ꞽ",), "j": ("ꞽ",), "ẖ": ("ẖ", "ẖ"), "⸗": ("=",)}, "mdc": MDC,
+            "shape": ("typed",), "alphabet": " +-.=bdfghikmnpqrstwyzšʾ̯̱ḏḥḫṯẖꜣꜥꞽ", "known_strays": {"9": 1}},
 }
 
 

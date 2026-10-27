@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | mlk (DULAT 544); mlk (DULAT 543); /malku/ (UVST 147) | DULAT 544; DULAT 543; UVST 147 | gloss withheld |
 | Phoenician | mlk (Krahmalkov 285) | Krahmalkov 285 | gloss withheld |
 | Hebrew | mäläk (Kogan 2015, ch. 2 §4.2 no. 38) | Kogan 2015 ch. 2 §4.2 no. 38 |  |
-| Amorite | Ma-la-ak-i-lī (OLA80 §38.10) | OLA80 §38.10 | gloss withheld |
+| Amorite | Ma-la-ak-i-lī (OLA80 §38.10); malku, maliku, malakān, yamlik (Buck 2019, 329) | OLA80 §38.10; Buck 2019, 329 | gloss withheld |
 | Amharic | amlak (OLA80 §31.34) | OLA80 §31.34 | gloss withheld |
 | Moabite | mlkty (OLA80 §40.6) | OLA80 §40.6 | gloss withheld |
 | Aramaic | malkā (HALOT 591; Qumran 140 apud CAL) | HALOT 591; CAL |  |

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ewu |  |  |
 | Hebrew | hwy |  |  |
-| Amorite | hwy |  |  |
+| Amorite | hwy; yahwî (Buck 2019, 327) | Buck 2019, 327 | gloss withheld |
 | Aramaic | hwy |  |  |
 | Biblical Aramaic | hwy (HALOT 1858 apud SEDonline 343) | HALOT 1858; SEDonline 343 | gloss withheld |
 | Judaic Aramaic | JPA hwy (DJPA 160 apud SEDonline 343) | DJPA 160; SEDonline 343 | gloss withheld |

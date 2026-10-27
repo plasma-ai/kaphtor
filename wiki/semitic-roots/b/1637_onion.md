@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | baṣal- (Lane 212) | Lane 212 |  |
-| Mehri | beṣal |  |  |
-| Harsusi | beṣel |  |  |
-| Hebrew | bāṣal |  |  |
+| Mehri | beṣāl (HSED 322) | HSED 322 | gloss withheld |
+| Harsusi | beṣel (HSED 322) | HSED 322 | gloss withheld |
+| Hebrew | bāṣāl (HALOT 147) | HALOT 147 | gloss withheld |
 | Epigraphic South Arabian | bṣl (Sabaweb lemma 2946) | Sabaweb lemma 2946 | gloss withheld |
 | Aramaic | beṣl- (CAL s.v. bṣl) | CAL s.v. bṣl |  |
 | Syrian Aramaic | beṣlā (HALOT 147; Payne Smith 52) | HALOT 147; Payne Smith 52 |  |

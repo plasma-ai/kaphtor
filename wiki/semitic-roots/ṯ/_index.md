@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṯ
 desc: "Semitic roots whose first radical is ṯ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T02:25:00Z
 ---
 
 # wiki/semitic-roots/ṯ
@@ -82,6 +82,8 @@ updated: 2026-10-26T20:01:24Z
 [[wiki/semitic-roots/ṯ/3597_the_day_before_yesterday|3597_the_day_before_yesterday]]: Proto-Semitic *ṯlṯ, 'the day before yesterday': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṯ/3600_to_roar_cry_of_animals_1_roaring_neighing_2|3600_to_roar_cry_of_animals_1_roaring_neighing_2]]: Proto-Semitic *ṯʾg, 'to roar, cry (of animals)' 1, 'roaring, neighing' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṯ/3710_to_smash_break_to_defeat|3710_to_smash_break_to_defeat]]: Proto-Semitic *ṯlʕ, 'to smash, break; to defeat': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṯ/484_march_proudly|484_march_proudly]]: Proto-Semitic *ṯVnVy-, 'march proudly': reflexes in 1 language(s).
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ś
 desc: "Semitic roots whose first radical is ś."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/ś
@@ -25,7 +25,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ś/1226_become_weak_q|1226_become_weak_q]]: Proto-Semitic *ŝVmVm-, 'become weak (?)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ś/1229_throw_away|1229_throw_away]]: Proto-Semitic *ŝVl-, 'throw away': reflexes in 3 language(s).
+[[wiki/semitic-roots/ś/1229_throw_away|1229_throw_away]]: Proto-Semitic *ŝVl-, 'throw away': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ś/1236_evening|1236_evening]]: Proto-Semitic *ŝiw-, 'evening': reflexes in 1 language(s).
 
@@ -81,13 +81,13 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ś/2025_fat|2025_fat]]: Proto-Semitic *ŝaḥm- {} *ĉaḥm-, 'fat': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ś/2026_left_side_hand|2026_left_side_hand]]: Proto-Semitic *ŝimaʾl- {} *ĉimaʾl-, 'left (side, hand)': reflexes in 14 language(s).
+[[wiki/semitic-roots/ś/2026_left_side_hand|2026_left_side_hand]]: Proto-Semitic *ŝimaʾl- {} *ĉimaʾl-, 'left (side, hand)': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/ś/2027_eyelash_tuft_of_hair|2027_eyelash_tuft_of_hair]]: Proto-Semitic *ŝVp(V)r- {} *ĉVp(V)r-, 'eyelash; (tuft of) hair': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ś/2028_birth_mark_mole|2028_birth_mark_mole]]: Proto-Semitic *ŝₓaw/ym-at- {} *ŝaw/ym-at-, 'birth-mark, mole': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ś/2096_to_be_sated|2096_to_be_sated]]: Proto-Semitic *ŝbʕ {} *ĉbʕ (-a-), 'to be sated': reflexes in 15 language(s).
+[[wiki/semitic-roots/ś/2096_to_be_sated_1_satiety_2|2096_to_be_sated_1_satiety_2]]: Proto-Semitic *ŝbʕ {} *ĉbʕ (-a-), 'to be sated' 1, 'satiety' 2: reflexes in 15 language(s).
 
 [[wiki/semitic-roots/ś/2097_to_be_rabid_mad|2097_to_be_rabid_mad]]: Proto-Semitic *ŝₓgʕ {} *ŝgʕ, 'to be rabid, mad': reflexes in 3 language(s).
 
@@ -169,7 +169,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ś/3433_to_be_high_tall_to_grow_abundantly|3433_to_be_high_tall_to_grow_abundantly]]: Proto-Semitic *ŝmḫ, 'to be high, tall; to grow abundantly': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ś/3463_king_prince_official|3463_king_prince_official]]: Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 3 language(s).
+[[wiki/semitic-roots/ś/3463_king_prince_official|3463_king_prince_official]]: Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ś/3489_winter|3489_winter]]: Proto-Semitic *ŝtw, 'winter': reflexes in 4 language(s).
 
@@ -196,6 +196,12 @@ updated: 2026-10-26T20:01:24Z
 [[wiki/semitic-roots/ś/3682_to_be_like_resemble|3682_to_be_like_resemble]]: Proto-Semitic *ŝbh, 'to be like, resemble': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ś/3689_to_burn|3689_to_burn]]: Proto-Semitic *ŝwṭ, 'to burn': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ś/3760_to_be_splendid_glorious_splendor_glory|3760_to_be_splendid_glorious_splendor_glory]]: Proto-Semitic *ŝrḫ, 'to be splendid, glorious; splendor, glory': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ś/3761_depth_of_the_sea_abyss|3761_depth_of_the_sea_abyss]]: Proto-Semitic *ŝrm, 'depth of the sea, abyss': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ś/3766_to_rejoice_at_another_s_misfortune_malicious_joy|3766_to_rejoice_at_another_s_misfortune_malicious_joy]]: Proto-Semitic *ŝmt, 'to rejoice at another's misfortune; malicious joy': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ś/381_sharp_weapon|381_sharp_weapon]]: Proto-Semitic *ŝuk-, 'sharp weapon': reflexes in 2 language(s).
 
@@ -279,7 +285,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ś/K0499_be_grey_haired_old|K0499_be_grey_haired_old]]: Proto-Semitic *śVyVb-, 'be grey-haired, old': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ś/K0500_place|K0500_place]]: Proto-Semitic *śVyVm-, 'place': reflexes in 17 language(s).
+[[wiki/semitic-roots/ś/K0500_place|K0500_place]]: Proto-Semitic *śVyVm-, 'place': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/ś/K0501_be_unclean_soiled|K0501_be_unclean_soiled]]: Proto-Semitic *śVʾVb-, 'be unclean, soiled': reflexes in 3 language(s).
 
@@ -291,7 +297,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ś/S79_adversary_the_Devil|S79_adversary_the_Devil]]: Proto-Semitic *śṭn, 'adversary; the Devil': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ś/SA093_to_suffice_be_abundant_in_abundance|SA093_to_suffice_be_abundant_in_abundance]]: Epigraphic South Arabian headword *śpḳ, 'to suffice, be abundant; in abundance': reflexes in 6 language(s).
+[[wiki/semitic-roots/ś/SA093_to_suffice_be_abundant_in_abundance|SA093_to_suffice_be_abundant_in_abundance]]: Epigraphic South Arabian headword *śpḳ, 'to suffice, be abundant; in abundance': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ś/SA094_crop_sharing|SA094_crop_sharing]]: Epigraphic South Arabian headword *śrk, 'crop-sharing': reflexes in 3 language(s).
 

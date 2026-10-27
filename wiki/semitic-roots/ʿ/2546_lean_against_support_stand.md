@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2546_lean_against_support_stand
 title: "*ʕVmVd-: 'lean against, support, stand'"
-desc: "Proto-Semitic *ʕVmVd-, 'lean against, support, stand': reflexes in 15 language(s)."
+desc: "Proto-Semitic *ʕVmVd-, 'lean against, support, stand': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2546"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʕmd (DULAT 160; Watson 2007: 80 apud SEDonline 1590) | DULAT 160; Watson 2007: 80; SEDonline 1590 | gloss withheld |
 | Judaic Aramaic | ʿamūdaʾ (T 250) | T 250 |  |
 | Eblaitic | a-ma-du-um /ʕamādum/ (VE 787; Krebernik 1983, 30) | VE 787; Krebernik 1983, 30 | gloss withheld |
+| Amorite | ʿimdān, ʿamūdu (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

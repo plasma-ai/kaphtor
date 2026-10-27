@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ
 desc: "Semitic roots whose first radical is ṣ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-26T20:01:24Z
+updated: 2026-10-28T12:05:36Z
 ---
 
 # wiki/semitic-roots/ṣ
@@ -21,7 +21,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ṣ/1331_be_white_1_shimmer_2_be_clear_3|1331_be_white_1_shimmer_2_be_clear_3]]: Proto-Semitic *ṣVḥ-, 'be white' 1, 'shimmer' 2, 'be clear' 3: reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ṣ/1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war|1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war]]: Proto-Semitic *ṣ/ṣ̂V̄bVʾ- ~ *ṣ/ṣ̂ābaʾ-, 'army' 1, 'warfare' 2, 'soldiers' 3, 'wage war' 4, 'go to war' 5, 'come out against someone' 6: reflexes in 9 language(s).
+[[wiki/semitic-roots/ṣ/1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war|1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war]]: Proto-Semitic *ṣ/ṣ̂V̄bVʾ- ~ *ṣ/ṣ̂ābaʾ-, 'army' 1, 'warfare' 2, 'soldiers' 3, 'wage war' 4, 'go to war' 5, 'come out against someone' 6: reflexes in 10 language(s).
 
 [[wiki/semitic-roots/ṣ/1479_shout|1479_shout]]: Proto-Semitic *ṣVwat-, 'shout': reflexes in 4 language(s).
 
@@ -65,7 +65,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ṣ/232_adder|232_adder]]: Proto-Semitic *ṣill-, 'adder': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṣ/2541_be_small|2541_be_small]]: Proto-Semitic *ṣVɣVr-, 'be small': reflexes in 12 language(s).
+[[wiki/semitic-roots/ṣ/2541_be_small|2541_be_small]]: Proto-Semitic *ṣVɣVr-, 'be small': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/ṣ/2547_stand_and_carry_q|2547_stand_and_carry_q]]: Proto-Semitic *ṣVwVr-, 'stand (and carry?)': reflexes in 12 language(s).
 
@@ -75,7 +75,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ṣ/2596_die|2596_die]]: Proto-Semitic *ṣmy, 'die': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ṣ/2603_to_be_or_do_well_be_successful|2603_to_be_or_do_well_be_successful]]: Proto-Semitic *ṣlḥ, 'to be or do well, be successful': reflexes in 11 language(s).
+[[wiki/semitic-roots/ṣ/2603_to_be_or_do_well_be_successful|2603_to_be_or_do_well_be_successful]]: Proto-Semitic *ṣlḥ, 'to be or do well, be successful': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ṣ/2614_to_be_just_true|2614_to_be_just_true]]: Proto-Semitic *ṣdḳ, 'to be just, true': reflexes in 16 language(s).
 
@@ -87,7 +87,7 @@ updated: 2026-10-26T20:01:24Z
 
 [[wiki/semitic-roots/ṣ/2743_north_Mt_Zaphon_divine_mountain|2743_north_Mt_Zaphon_divine_mountain]]: Proto-Semitic *ṣVpVn-, 'north; Mt. Zaphon (divine mountain)': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṣ/2762_righteousness_justice|2762_righteousness_justice]]: Proto-Semitic *ṣidq-, 'righteousness, justice': reflexes in 6 language(s).
+[[wiki/semitic-roots/ṣ/2762_righteousness_justice|2762_righteousness_justice]]: Proto-Semitic *ṣidq-, 'righteousness, justice': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ṣ/2768_image_statue_likeness|2768_image_statue_likeness]]: Proto-Semitic *ṣalm-, 'image, statue, likeness': reflexes in 11 language(s).
 
@@ -154,6 +154,16 @@ updated: 2026-10-26T20:01:24Z
 [[wiki/semitic-roots/ṣ/3691_temple_of_the_head|3691_temple_of_the_head]]: Proto-Semitic *ṣdɣ, 'temple (of the head)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṣ/3693_leaf_of_a_folding_door_door_gate|3693_leaf_of_a_folding_door_door_gate]]: Proto-Semitic *ṣrʕ, 'leaf of a folding door; door, gate': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṣ/3698_to_incline_turn_aside_to_incline_the_ear_listen|3698_to_incline_turn_aside_to_incline_the_ear_listen]]: Proto-Semitic *ṣlw, 'to incline, turn aside; to incline the ear, listen': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṣ/3717_precipice_cliff_side_of_a_mountain|3717_precipice_cliff_side_of_a_mountain]]: Proto-Semitic *ṣdp, 'precipice, cliff; side of a mountain': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ṣ/3718_to_be_dense_compact_close_in_texture|3718_to_be_dense_compact_close_in_texture]]: Proto-Semitic *ṣpḳ, 'to be dense, compact, close in texture': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṣ/3737_to_be_healthy_sound_to_restore_to_health_health|3737_to_be_healthy_sound_to_restore_to_health_health]]: Proto-Semitic *ṣḥḥ, 'to be healthy, sound; to restore to health; health, order': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṣ/3768_to_heap_up_grain_heap|3768_to_heap_up_grain_heap]]: Proto-Semitic *ṣbr, 'to heap up (grain); heap': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṣ/376_harpune|376_harpune]]: Proto-Semitic *ṣil-ṣal-, 'harpune': reflexes in 1 language(s).
 

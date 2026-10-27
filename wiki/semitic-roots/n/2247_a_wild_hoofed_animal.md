@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2247_a_wild_hoofed_animal
 title: "*na(ya)l-: 'a wild hoofed animal'"
-desc: "Proto-Semitic *na(ya)l-, 'a wild hoofed animal': reflexes in 4 language(s)."
+desc: "Proto-Semitic *na(ya)l-, 'a wild hoofed animal': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2247"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | nälät \[LH 232\] (cf. also noli \[ibid.\]). | LH 232 | gloss withheld |
 | Amharic | niyala \[K 1054\]. | K 1054 | gloss withheld |
 | Tigrinya | nəyala (SED II 223) | SED II 223 | gloss withheld |
+| Emar | na-lu!, na-al-tu₄ /nâlu/, /nâltu/ (Pentiuc 2001, 131) | Pentiuc 2001 131 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

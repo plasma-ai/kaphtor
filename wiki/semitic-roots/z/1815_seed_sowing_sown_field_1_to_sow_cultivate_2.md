@@ -52,7 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | zärra (LGz. 642) | LGz. 642 | gloss withheld |
 | Tigrinya | zärʔe (LGz. 642) | LGz. 642 | gloss withheld |
 | Punic | mzrʿ (Neo-Punic; Krahmalkov 274) | Krahmalkov 274 | gloss withheld |
-| Amorite | ḏrʿ?: jaḏraʿ, jiḏruʿ, ḏaraʿ, ḏariʿum (Gelb AS 21, 18) | Gelb AS 21 18 | gloss withheld |
+| Amorite | ḏrʿ?: jaḏraʿ, jiḏruʿ, ḏaraʿ, ḏariʿum (Gelb AS 21, 18); ḏāriʿu (Buck 2019, 326) | Gelb AS 21 18; Buck 2019, 326 | gloss withheld |
 | East Ethiopic | Sel. zära, Wol. zärä, Zwy. zärā (EDG 713 apud SEDonline 53) | EDG 713; SEDonline 53 | gloss withheld |
 | Eblaitic | ša-la-um /ḏaRʕum/ (VE 659, Kogan–Krebernik 2021b: 690 apud SEDonline 53; Krebernik 1983, 26); ša-la-ù, šar-ù (Kogan 2011, 200; VE 684; Krebernik 1983, 26) | VE 659, Kogan–Krebernik 2021b: 690; SEDonline 53; Krebernik 1983, 26; Kogan 2011 200; VE 684 | gloss withheld |
 | Modern Arabic | Yem. ḏirēʾ, ḏireh (Biella 99) | Biella 99 |  |

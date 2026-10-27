@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3242_threshing_floor
 title: "*gurn-: 'threshing floor'"
-desc: "Proto-Semitic *gurn-, 'threshing floor': reflexes in 5 language(s)."
+desc: "Proto-Semitic *gurn-, 'threshing floor': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3242"
@@ -34,6 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Epigraphic South Arabian | grn (HALOT 203; LGz. 203; Sabaweb lemma 4172) | HALOT 203; LGz. 203; Sabaweb lemma 4172 | gloss withheld |
 | Geez | gʷərn, gorn, gurn (LGz. 203) | LGz. 203 | gloss withheld |
 | Arabic | gurn, girn (LGz. 203); jurn, jirn (HALOT 203) | LGz. 203; HALOT 203 | gloss withheld |
+| Emar | gu₅-ur-ni /gurnu/ (Pentiuc 2001, 53–54) | Pentiuc 2001 53–54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1187_be_thin_1_be_shallow_2
 title: "*riḳ-: 'be thin' 1, 'be shallow' 2"
-desc: "Proto-Semitic *riḳ-, 'be thin' 1, 'be shallow' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *riḳ-, 'be thin' 1, 'be shallow' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1187"
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Eblaitic | ra-gu /raḳḳu/ (VE 76, Kogan–Krebernik 2021b: 696 apud SEDonline 2045; Krebernik 1983, 4) | VE 76, Kogan–Krebernik 2021b: 696; SEDonline 2045; Krebernik 1983, 4 | gloss withheld |
 | Amharic | räḳḳäḳä (AED 387 apud SEDonline 2045) | AED 387; SEDonline 2045 | gloss withheld |
 | Tigrinya | räḳ̌äḳ̌ä (TED 560 apud SEDonline 2045) | TED 560; SEDonline 2045 |  |
+| Emar | ru-qa-nu /ruqqānu/ (Pentiuc 2001, 153) | Pentiuc 2001 153 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

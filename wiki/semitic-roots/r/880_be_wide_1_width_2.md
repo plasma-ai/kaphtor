@@ -42,7 +42,7 @@ updated: 2026-10-26T14:26:59Z
 | Aramaic | OArm. rḥbh (HALOT 1211) | HALOT 1211 |  |
 | Epigraphic South Arabian | h-rḥb (LGz. 466); Sab rḥbm 2 (Biella 485) | LGz. 466; Biella 485 | gloss withheld |
 | Tigrinya | räḥabä (LGz. 466) | LGz. 466 |  |
-| Amorite | rḥb: jarḥab, raḥabum, raḥibum, ruḥbatum (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rḥb: jarḥab, raḥabum, raḥibum, ruḥbatum (Gelb AS 21, 30); yarḥib (Buck 2019, 331) | Gelb AS 21 30; Buck 2019, 331 | gloss withheld |
 | Soqotri | ráḥab (Kogan 2015, ch. 2 §4.2 no. 50) | Kogan 2015 ch. 2 §4.2 no. 50 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

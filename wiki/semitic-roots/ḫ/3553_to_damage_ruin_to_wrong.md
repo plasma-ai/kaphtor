@@ -34,7 +34,7 @@ updated: 2026-10-25T06:28:07Z
 | Hebrew | III ḥbl; pi. (HALOT 285) | HALOT 285 | gloss withheld |
 | Judaic Aramaic | ḥăbāl (HALOT 285) | HALOT 285 | gloss withheld |
 | Mandaic Aramaic | hbal(a) (HALOT 285) | HALOT 285 | gloss withheld |
-| Arabic | ḫabila 'he was corrupted, unsound, disordered' (Lane 699) | Lane 699 |  |
+| Arabic | ḫabila 'he was corrupted, unsound, disordered' (Lane 699); ḫabāl, also ḫabal 'corruptness, unsoundness, a vitiated or disordered state' (Lane 700) | Lane 699; Lane 700 |  |
 | Epigraphic South Arabian | Sab ḫbl (SD 58) | SD 58 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḫbl (Al-Jallad–Jaworska 79); mḫbl (Al-Jallad–Jaworska 95) | Al-Jallad–Jaworska 79; Al-Jallad–Jaworska 95 | gloss withheld |
 

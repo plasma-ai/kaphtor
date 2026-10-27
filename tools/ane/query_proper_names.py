@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Query the local ORACC and PNM proper-name layers."""
+"""Query the local ORACC, PNM, Prosopographia Memphitica, TLA v18, Gauthier DNG and Kassite concordance
+proper-name layers."""
 
 from __future__ import annotations
 
@@ -13,11 +14,15 @@ from pathlib import Path
 from ane_keys import expand, fold_pattern, loose_key, marks_kept, parse_query
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
-from tools.paths import ANE_DATA
+from tools.paths import ANE_DATA, SHARE_ALIKE
 
 SOURCE_DIRS = {
     "oracc": ANE_DATA / "oracc",
     "pnm": ANE_DATA / "pnm-v6",
+    "prom": ANE_DATA / "prosopographia-memphitica",
+    "tla": SHARE_ALIKE / "tla-v18-names",
+    "gauthier": ANE_DATA / "gauthier-dng",
+    "kassite-concordances": ANE_DATA / "kassite-concordances",
 }
 
 
@@ -41,26 +46,47 @@ SEARCH_FIELDS = {
     "title", "title_string", "dossier_title",
     "line_text", "context", "name_occurrence", "element", "structure", "ranke",
 }
+# Fields searched in one source only: a Kassite concordance entry's headword, and its entry_ocr, which holds the
+# spellings printed after the headword.
+SOURCE_FIELDS = {"kassite-concordances": frozenset({"headword", "entry_ocr"}),
+                 # A ProM person or name in Unicode (read from Umschrift_TTn by its sign list), its titles,
+                 # ProM's English rendering and its Ranke references as normalized (I, 231.4).
+                 "prom": frozenset({"name_unicode", "title_unicode", "translit_english", "normalized"}),
+                 # A TLA name: its lemma, each form and hieroglyphic spelling, the Wikidata transliteration and
+                 # sense, the 2018 extract's glosses and the reference it cites (RPN I 37.19, LGG, Beckerath).
+                 "tla": frozenset({"lemma", "form", "hieroglyphs", "transliteration_lut", "senses",
+                                   "extract_gloss_en", "extract_gloss_de", "extract_bibl"}),
+                 # A Gauthier DNG entry: the further spellings of its head, its French gloss and its description,
+                 # which names the modern place (aujourd'hui El-Achmounein).
+                 "gauthier": frozenset({"form", "gloss_fr", "description_fr"})}
 # ORACC entities aggregate their forms as {form: count}; the forms are the keys.
 FORM_MAPS = {"citation_forms", "normalized_forms", "written_forms"}
+# ProM keeps a person's other names as a list of strings.
+STRING_LISTS = {"other_names", "other_names_unicode"}
+# A layer whose rows carry no kind because every row is of one kind.
+SOURCE_KIND = {"prom": "person"}
 # Sources stored in a notation other than the one a scholar types (ane_keys.VIEW_NOTATION).
-NOTATION_VIEW = {"pnm": "pnm"}
+# ProM's Unicode names write yod j and the suffix ⸗, as PNM does, so a query is spelled for both alike.
+NOTATION_VIEW = {"pnm": "pnm", "tla": "tla", "prom": "pnm"}
 
 
-def search_values(value) -> list[str]:
-    """Return onomastically relevant scalar fields and ORACC form-map keys, including nested PNM joins."""
+def search_values(value, extra: frozenset[str] = frozenset()) -> list[str]:
+    """Return onomastically relevant scalar fields and ORACC form-map keys, including nested PNM joins;
+    `extra` adds the source's own fields (SOURCE_FIELDS)."""
     found: list[str] = []
     if isinstance(value, dict):
         for key, child in value.items():
-            if key in SEARCH_FIELDS and child not in (None, "") and not isinstance(child, (dict, list)):
+            if (key in SEARCH_FIELDS or key in extra) and child not in (None, "") and not isinstance(child, (dict, list)):
                 found.append(str(child))
             if key in FORM_MAPS and isinstance(child, dict):
                 found.extend(str(form) for form in child)
+            if key in STRING_LISTS and isinstance(child, list):
+                found.extend(str(form) for form in child if isinstance(form, str))
             if isinstance(child, (dict, list)):
-                found.extend(search_values(child))
+                found.extend(search_values(child, extra))
     elif isinstance(value, list):
         for child in value:
-            found.extend(search_values(child))
+            found.extend(search_values(child, extra))
     return found
 
 
@@ -125,7 +151,8 @@ def with_fold(strict: int | None, folded: int | None) -> int | None:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("query", nargs="?", default="")
-    ap.add_argument("--source", choices=("oracc", "pnm", "all"), default="all")
+    ap.add_argument("--source", choices=("oracc", "pnm", "prom", "tla", "gauthier", "kassite-concordances", "all"),
+                    default="all")
     ap.add_argument(
         "--layer",
         choices=("occurrences", "attestations", "entities", "name_forms", "persons"),
@@ -158,6 +185,18 @@ def main() -> None:
                 else "tables/persons.jsonl"
             )
         ],
+        # Prosopographia Memphitica: its New Kingdom Memphite persons with their titles, dating and objects, or
+        # its name rows.
+        "prom": [SOURCE_DIRS["prom"] / ("names.jsonl" if name_form_layer else "persons.jsonl")],
+        # TLA corpus v18: its proper-noun tokens, each with its hieroglyphs and date range, or one row per lemma.
+        "tla": [SOURCE_DIRS["tla"] / ("occurrences.jsonl" if attestation_layer else "lemmas.jsonl")]
+        if args.layer != "persons" else [],
+        # Gauthier's Dictionnaire des noms géographiques t. 1-6 as the OCR text layer gives it: leads to the printed
+        # page, one row per entry, cross-reference and addendum.
+        "gauthier": [SOURCE_DIRS["gauthier"] / "entries.jsonl"] if args.layer != "persons" else [],
+        # The printed name indexes of seven Kassite-period and kudurru volumes, as OCR leads to the page.
+        "kassite-concordances": [SOURCE_DIRS["kassite-concordances"] / "entries.jsonl"]
+        if args.layer != "persons" else [],
     }
     entity_scopes = {
         "oracc": "textual_attestation" if attestation_layer else "name_form_aggregate",
@@ -166,8 +205,15 @@ def main() -> None:
             else "name_lexeme" if name_form_layer
             else "person_dossier"
         ),
+        "prom": "name_form" if name_form_layer else "prosopography_entry",
+        "tla": "textual_attestation" if attestation_layer else "name_lexeme",
+        "gauthier": "toponym_lead",
+        "kassite-concordances": "index_entry",
     }
     sources = candidates if args.source == "all" else {args.source: candidates[args.source]}
+    for source, paths in sources.items():
+        if not paths and args.source != "all":
+            print(f"note: {source} has no {args.layer} layer", file=sys.stderr)
     folded = folding(args.query)
 
     def scan(source: str, paths: list[Path], wanted: list[str]) -> list[dict]:
@@ -179,7 +225,7 @@ def main() -> None:
         whole = typed = 0
         for path in paths:
             for row in iter_jsonl(path):
-                if args.kind and row.get("kind") != args.kind:
+                if args.kind and row.get("kind", SOURCE_KIND.get(source)) != args.kind:
                     continue
                 if args.pos and row.get("qpn_pos") != args.pos:
                     continue
@@ -191,7 +237,7 @@ def main() -> None:
                         return found
                     found.append(item)
                     continue
-                values = search_values(row)
+                values = search_values(row, SOURCE_FIELDS.get(source, frozenset()))
                 strict = strict_basis(values, wanted, args.exact)
                 # The folded tier is needed only under --loose or until a whole name matches strictly.
                 fold_basis = (folded_basis(values, folded, args.exact)
@@ -256,7 +302,21 @@ def main() -> None:
         for row in found:
             name = row.get("name") or row.get("display_name") or row.get("personal_name") or row.get("transliteration") or row.get("spelling")
             ref = row.get("token_ref") or row.get("location") or row.get("source_row") or ""
-            print(f"{row['dataset']}\t{name or ''}\t{row.get('kind') or row.get('qpn_pos') or ''}\t{ref}")
+            if row["dataset"] == "prom":
+                name, ref = row.get("name_unicode") or row["name"], f"{row['id']}, {row.get('translit_english') or ''}"
+            if row["dataset"] == "gauthier":
+                name, ref = row.get("transcription"), f"Gauthier DNG t. {row['volume']}, p. {row['page']} ({row['id']})"
+            if row["dataset"] == "tla":
+                dates = f"{row['date_not_before']} to {row['date_not_after']}"
+                name = row["lemma"]
+                ref = (f"{row['id']}, {row['token_count']} tokens, {dates}" if "token_count" in row
+                       else f"{row['id']} {row['form']}, {dates}")
+            if row["dataset"] == "kassite-concordances":
+                # The id is the work key, the PDF page and the row: the work key names the volume.
+                name, ref = row["headword"], f"{row['id'].rsplit('-', 2)[0]} p. {row['printed_page']} ({row['id']})"
+            kind = (row.get("kind") or row.get("qpn_pos") or row.get("wikidata_class")
+                    or SOURCE_KIND.get(row["dataset"]) or "")
+            print(f"{row['dataset']}\t{name or ''}\t{kind}\t{ref}")
 
 
 if __name__ == "__main__":

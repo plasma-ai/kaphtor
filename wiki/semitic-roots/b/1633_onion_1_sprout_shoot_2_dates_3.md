@@ -30,10 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | busr-at- 2 |  |  |
-| Mehri | bēser 3 |  |  |
-| Akkadian | bišru, bisru 1 |  |  |
-| Harsusi | beser 3 |  |  |
+| Arabic | busrat 'a plant that has risen from the surface of the ground, but not grown tall' 2; busr 'full-grown unripe dates' 3 (Lane 202) | Lane 202 |  |
+| Mehri | bēser 3 (HSED 295) | HSED 295 | gloss withheld |
+| Akkadian | bisru, bišru 1 (CAD B 268) | CAD B 268 | gloss withheld |
+| Harsusi | beser 3 (HSED 295) | HSED 295 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

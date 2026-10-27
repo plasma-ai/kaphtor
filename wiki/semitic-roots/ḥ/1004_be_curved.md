@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥdb \[-a-\] |  |  |
+| Arabic | ḥdb \[-a-\]; ḥadiba 'he was, or became, humpbacked'; 'it (the back) was, or became, humped, or protuberant' (Lane 527) | Lane 527 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

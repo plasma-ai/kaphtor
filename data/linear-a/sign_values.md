@@ -9,7 +9,7 @@ updated: 2026-10-22T18:19:34Z
 ---
 
 `sign_values.json` holds `schema_version` (2), `description`, `neutralization_classes`, `linear_b_notes`,
-`resolution_summary`, `signs` (75 syllabograms), `logograms` (37) and `fractions` (17 signs, 11 attested
+`resolution_summary`, `signs` (76 syllabograms), `logograms` (37) and `fractions` (17 signs, 11 attested
 composites). Values beyond Linear B are di Mino's unless a record names another scholar.
 
 | Key | Content |

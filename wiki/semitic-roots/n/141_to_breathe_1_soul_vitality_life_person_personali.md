@@ -52,7 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | SAMAL OLD OFF NAB PLM HTR npš \[HJ 744-9\] | HJ 744-9 | gloss withheld |
 | Tigrinya | näfäsä 'to blow wind; evaporate liquor etc.' \[Bass 468\]; näfsi 'soul' \[Bass 468\] | Bass 468 |  |
 | Argobba | tänäffäsa (LGz. 577) | LGz. 577 | gloss withheld |
-| Amorite | napśum (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
+| Amorite | napśum (Gelb AS 21, 26); napšu, napišu (Buck 2019, 330) | Gelb AS 21 26; Buck 2019, 330 | gloss withheld |
 | Punic | npš, nʾpš (T 218) | T 218 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic nfs (Al-Jallad–Jaworska 103) | Al-Jallad–Jaworska 103 | gloss withheld |
 | Modern Arabic | Yem. nēfis (Biella 309) | Biella 309 |  |

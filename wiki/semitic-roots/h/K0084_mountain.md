@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/K0084_mountain
 title: "*har-: 'mountain'"
-desc: "Proto-Semitic *har-, 'mountain': reflexes in 5 language(s)."
+desc: "Proto-Semitic *har-, 'mountain': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0084"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | hr (Kogan 2015, ch. 5 §3.1 no. 32) | Kogan 2015 ch. 5 §3.1 no. 32; Anderson–Moser 2024 root hr | gloss withheld |
 | Phoenician | hr (T 83) | T 83 | gloss withheld |
 | Canaanite | EA ḫa-ar-ri (EA 74: 20 apud SEDonline 235) | SEDonline 235 | gloss withheld |
+| Emar | ḫa-ar-ri /harru/ (Pentiuc 2001, 57–58) | Pentiuc 2001 57–58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

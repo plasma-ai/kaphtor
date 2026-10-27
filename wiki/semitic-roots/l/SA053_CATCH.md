@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/SA053_CATCH
 title: "*lṣḳ: 'CATCH'"
-desc: "Epigraphic South Arabian headword *lṣḳ, 'CATCH': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *lṣḳ, 'CATCH': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA053"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab lṣq (Biella 262; SD 83; Sabaweb lemma 4511) | Biella 262; SD 83; Sabaweb lemma 4511 | gloss withheld |
 | Arabic | Ar laṣiqa (Biella 262) | Biella 262 | gloss withheld |
+| Geez | laṣaqa (yəlṣəq); ʾastalāṣaqa; ləṣuq (LGz. 319) | LGz. 319 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
