@@ -33,13 +33,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Šata |
 | Meaning | Šata (personal name, heading the second section); rival śadā '(those of) the field' |
-| Language layer | unresolved |
+| Language layer | Hurrian |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a .7 SA-TA ·, whole and undotted, heading the second section over five names with 1 each, in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI holds in the first (GORILA I 197). ša-ta on primary values, sign for sign as the Nuzi name Ša-a-ta, Ša-ta (NPN 126), which NPN leaves unclassed. Rival: śadā '(those of) the field', TA writing d as the T class allows, the root of SA-DI šadī (semitic_roots no. 1804; DULAT 795), since HT 87 and HT 117b put group terms in this slot. One witness.
+HT 117a .7 SA-TA ·, whole and undotted, heading the second section over five names with 1 each, in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI holds in the first (GORILA I 197). ša-ta on primary values, sign for sign as the Nuzi name Ša-a-ta, Ša-ta (NPN 126), which NPN files under the Hurrian element šat (NPN 252). Rival: śadā '(those of) the field', TA writing d as the T class allows, the root of SA-DI šadī (semitic_roots no. 1804; DULAT 795), since HT 87 and HT 117b put group terms in this slot. One witness.
 
 ### Cognates
 
@@ -69,8 +69,8 @@ di Mino; NPN
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Affiliation | hurrian (SPECULATIVE) |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
@@ -78,7 +78,7 @@ di Mino; NPN
 
 ### Note
 
-Šata, the Nuzi name Ša-a-ta, Ša-ta (NPN 126), unclassed there; heading the second section of HT 117a. Rival: śadā '(those of) the field'.
+Šata, the Nuzi name Ša-a-ta, Ša-ta (NPN 126), on the Hurrian element šat (NPN 252), heading the second section of HT 117a. Rival: śadā '(those of) the field'.
 
 ### Co-occurring lexicon words
 

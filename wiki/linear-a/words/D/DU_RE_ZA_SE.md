@@ -41,6 +41,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-ZA 10a .5 DU-RE-ZA-SE 2 closes a list opened by TA-NA-TE and A-TA-NA-TE; ZA 10b .1–2 DU-RE-ZA-SE \*131B 5 stands where ARKH 2 has KU-RA \*131B 5; ZA 20 .1 DU-RE-ZA-SE MI, after an unread first sign, with KU-RA on the same tablet (GORILA III 168–171, 193). At Khania \]DU-RE-ZA (KH 20), A-DU-RE\[ (KH 4) and A-DU-\[·\]-ZA (KH 11) head cyperus entries. No reading.
+ZA 10a .5 DU-RE-ZA-SE 2 closes a list opened by TA-NA-TE and A-TA-NA-TE; ZA 10b .1–2 DU-RE-ZA-SE \*131B 5 stands where ARKH 2 has KU-RA \*131B 5; ZA 20 .1–2 \]DU-RẸ-ZA-SE\[, broken at both ends, RE dotted, GORILA allowing a join with \]MI\[ on .2, with KU-RA on the same tablet (GORILA III 168–171, 193). At Khania \]DU-RE-ZA (KH 20), A-DU-RE\[ (KH 4) and A-DU-\[·\]-ZA (KH 11) head cyperus entries. No reading.
 
 <!-- END kaphtor:record -->

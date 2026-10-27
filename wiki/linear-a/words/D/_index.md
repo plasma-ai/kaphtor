@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T11:58:00Z
 ---
 
 # wiki/linear-a/words/D
@@ -53,7 +53,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/D/DA_RA|DA_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_RE|DA_RE]]: dāru: dwelling or estate; administrative unit. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DA_RE|DA_RE]]: dār: estate, household (a unit receiving men and grain); rival 'kin group, clan'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_RE_KU_broken_end|DA_RE_KU_broken_end]]: Unread (edge overlap): personal name; 1 occurrence(s).
 

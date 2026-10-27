@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KA_star314_SI
 title: "KA-*314-SI"
-desc: "kꜣ-ḥs.j: personal name ('the Ka is praised'—Egyptian theophoric); rival kabsi 'young ram'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+desc: "Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "KA-*314-SI"
 datasets: ["lexicon", "onomasticon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.5
-reading: "kꜣ-ḥs.j"
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "Kaḥas"
 attestations: ["PHWc37"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,23 +27,23 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.50
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
-| Reading | kꜣ-ḥs.j |
-| Meaning | personal name ('the Ka is praised'—Egyptian theophoric); rival kabsi 'young ram' |
+| Reading | Kaḥas |
+| Meaning | personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram' |
 | Language layer | Middle Egyptian |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Contingent on \*314 = ḤA. Phaistos roundel (MMII), alongside \*320 \|\| EGYPTIAN READING: kꜣ 'ka, spirit/vital force' + ḥs.j 'praised one, favored one'—standard Middle Kingdom theophoric name pattern. Phonetic mapping: KA = kꜣ (velar onset), ḤA = ḥs (pharyngeal onset), SI = .j (adjectival suffix) \|\| Egyptian contact with Crete in MMII is well attested. Less phonetically exact than PI-ḤA (Luwian) or RA-ḤA-RA (Egyptian), but the name pattern is standard \|\| All three signs whole and undotted (GORILA II 94). Rival with \*314 = bu, a PU₂ variant: kabsi 'young ram', Akk. kabsu (CAD K 23), Heb. kebeś, Arb. kabš (HALOT 459), a roundel commodity.
+PH Wc 37 KA-\*314-SI \*320, a Phaistos roundel (MM II), all three signs whole (GORILA II 94). Egyptian kꜣḥs, a name under Senusret III (Ranke II, 322.3; PNM v6, Louvre C 173), with \*314 read ḥa and the final vowel dead. Rival, \*314 as a variant of PU₂: kabsi 'young ram', Akk. kabsu (CAD K 23), Heb. kebeś, a roundel commodity. One witness.
 
 ### Source
 
-di Mino
+Ilin-Tomich 2025 (PNM v6), s.v. kꜣḥs; di Mino
 
 ## Attestations
 
@@ -65,6 +65,6 @@ di Mino
 
 ### Note
 
-PH Wc 37, a Phaistos roundel with \*320; all three signs whole (GORILA II 94). Egyptian kꜣ-ḥs(j) 'the Ka is praised', a Middle Kingdom name type, with \*314 read ḥa. Rival: \*314 as a variant of PU₂, giving kabsi 'young ram' (Akk. kabsu), a roundel commodity.
+PH Wc 37, a Phaistos roundel with \*320. Egyptian kꜣḥs, a name under Senusret III (Ranke II, 322.3; PNM v6), with \*314 read ḥa. Rival: \*314 as a variant of PU₂, giving kabsi 'young ram' (Akk. kabsu), a roundel commodity. See the lexicon entry.
 
 <!-- END kaphtor:record -->

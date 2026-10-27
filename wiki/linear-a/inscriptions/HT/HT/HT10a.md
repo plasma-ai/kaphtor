@@ -77,7 +77,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunāšu | emmer wheat (heading) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | šamm- | herbs, aromatic plants, 4 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA\|PA]] |  | crushed, ground (flour) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dāru | dwelling or estate; administrative unit, 16½ | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household,16½ | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | the stall, storehouse, 4 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/star/star301\|\*301]] | nawā | pastureland, pastoral product (logogram), 6 | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | the stall, storehouse, 14 | CANDIDATE | CANDIDATE (lexicon) |

@@ -71,7 +71,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | personal name, Hurrian hypocoristic of Irup-tešup, 3 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Tuya | personal name, hypocoristic in -ya, 4; rival Ḏū-Yā 'He of Yah' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dāru | dwelling or estate; administrative unit, 1 | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household,1 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] |  | roster label (unread), 1 |  | unread |
 
 ### Notes

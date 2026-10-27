@@ -43,6 +43,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-MIL Zb 4, a clay vessel from Miletos, the only word. Younger gives MIL Zb 1 alone and reports the other Miletos texts unpublished (Younger, Linear A Texts). No reading.
+MIL Zb 4, a clay vessel from Miletos, the only word. The sherd is broken below: the first sign keeps a stem and one curved arm, the other side in a worn patch, and the second only an angle at the broken lower right (photograph and facsimile). Younger gives MIL Zb 1 alone and reports the other Miletos texts unpublished (Younger, Linear A Texts). Not readable.
 
 <!-- END kaphtor:record -->

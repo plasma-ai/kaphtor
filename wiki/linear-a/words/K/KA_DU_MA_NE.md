@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_DU_MA_NE
 title: "KA-DU-MA-NE"
-desc: "Kadumānu: Cadmos + -ān suffix. Lexicon, CONFIRMED (tier 4)."
+desc: "Qadmān: the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān). Lexicon, CONFIRMED (tier 4)."
 tags: ["linear-a", "word", "tier-4", "personal_name"]
 kind: "word"
 form: "KA-DU-MA-NE"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 4
 confidence: "CONFIRMED"
 confidence_score: 0.85
-reading: "Kadumānu"
+reading: "Qadmān"
 attestations: ["HT29"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,8 +31,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Kadumānu |
-| Meaning | Cadmos + -ān suffix |
+| Reading | Qadmān |
+| Meaning | the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān) |
 | Root | q-d-m |
 | Language layer | NWS |
 | Category | personal_name |

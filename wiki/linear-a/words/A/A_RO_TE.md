@@ -33,13 +33,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Ḫaluti |
 | Meaning | Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses' |
-| Language layer | unresolved |
+| Language layer | Hurrian |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net relief, face a I-DA-DA, read from the impression, the signs whole (Younger, Linear A Texts, citing Raison–Pope 1994, 242–43). A seal names its owner: Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), with A for ḫa as in A-RU Ḫaru; TE for ti is a vowel mismatch only. Linear B a-ro-te (PY La 622) is obscure (Killen). Rival: ʾālôt 'oaths, curses' on primary values, the plural of ʾālāh (Deut 29:20; 2 Chr 34:24), whose ō needs the Canaanite shift. One witness.
+CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net relief, face a I-DA-DA, read from the impression, the signs whole (Younger, Linear A Texts, citing Raison–Pope 1994, 242–43). A seal names its owner: Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), on the Hurrian element ḫal(u)- (NPN 212–213), with A for ḫa as in A-RU Ḫaru; TE for ti is a vowel mismatch only. Linear B a-ro-te (PY La 622) is obscure (Killen). Rival: ʾālôt 'oaths, curses' on primary values, the plural of ʾālāh (Deut 29:20; 2 Chr 34:24), whose ō needs the Canaanite shift. One witness.
 
 ### Cognates
 
@@ -69,8 +69,8 @@ di Mino; NPN
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Affiliation | hurrian (SPECULATIVE) |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Crete |
@@ -78,6 +78,6 @@ di Mino; NPN
 
 ### Note
 
-Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), unclassed there; the owner's name on a reel seal (CMS XII 96). Rival: ʾālôt 'oaths, curses'.
+Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), on the Hurrian element ḫal(u)- (NPN 212–213), the owner's name on a reel seal (CMS XII 96). Rival: ʾālôt 'oaths, curses'.
 
 <!-- END kaphtor:record -->

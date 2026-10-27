@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*188", "*308", "*406VAS+KE", "KI+MU"]
+words: ["*188", "*308", "*406VAS+KE", "KA-U-ZU-NI", "KI+MU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -62,6 +62,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/star/star406VAS_plus_KE|\*406VAS+KE]], [[wiki/linear-a/words/K/KI_plus_MU|KI+MU]].
+[[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/star/star406VAS_plus_KE|\*406VAS+KE]], [[wiki/linear-a/words/K/KA_U_ZU_NI|KA-U-ZU-NI]], [[wiki/linear-a/words/K/KI_plus_MU|KI+MU]].
 
 <!-- END kaphtor:record -->

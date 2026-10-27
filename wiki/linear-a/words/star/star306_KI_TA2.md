@@ -47,7 +47,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PO_TO_KU_RO|PO-TO-KU-RO]] batkull.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PO_TO_KU_RO|PO-TO-KU-RO]] batkull.
 
 ## Unread
 

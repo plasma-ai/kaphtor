@@ -1,12 +1,16 @@
 ---
 name: wiki/linear-a/words/Q/QA_TI_DA_TE
 title: "QA-TI-DA-TE"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "Kati-tati: Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "QA-TI-DA-TE"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["lexicon", "onomasticon"]
 attestations: ["HT12"]
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "Kati-tati"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -21,6 +25,32 @@ updated: 2026-10-24T16:17:50Z
 
 **Signs.** [[wiki/linear-a/signs/syllabic/QA|QA]] · [[wiki/linear-a/signs/syllabic/TI|TI]] · [[wiki/linear-a/signs/syllabic/DA|DA]] · [[wiki/linear-a/signs/syllabic/TE|TE]]
 
+## Lexicon
+
+**SPECULATIVE**, tier 1 of 4, score 0.30
+
+| Field | Value |
+|---|---|
+| Reading | Kati-tati |
+| Meaning | Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)' |
+| Language layer | Hurrian |
+| Category | personal_name |
+| Semantic field | personal_name |
+
+### Note
+
+HT 12 .1 QA-TI-DA-TE · OLE+DI 5, the heading of an issue of oils, fats, wool and figs totalled DA-I 50 (GORILA I 25). qa-ti-da-te: Nuzi writes kat- with QA (Qa-ti-ri, NPN 224) and -tati with DA (Še-en-da-ti, NPN 263). A recipient heading a mixed issue, as A-PU₂-NA-DU on HT 14. Rival: katītat 'beaten (oil)', √k-t-t (semitic_roots 3644), Hebrew šemen kātît (Exod 27:20), an adjective only. One witness.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hurrian | kat-: Nuzi Kataia, Qa-ta-a-a, and Katiri, Qa-ti-ri (NPN 224); -tati: Ḫamar-tati, Šenna-tati, also Še-en-da-ti (NPN 263); tat 'love' (NPN 263) |
+
+### Source
+
+di Mino; NPN
+
 ## Attestations
 
 | Document | Site | Support | Translation |
@@ -31,24 +61,22 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | unknown | \[unresolved — multi-site stem QA-TI with -DA-TE suffix; no PS root match for q-t-d skeleton; possibly common noun, not PN (attested at 4 sites with morphological variation: QA-TI-KI, QA-TI-JU, TI-DI-TE-QA-TI)\] |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Kati-tati | Kati-tati, Hurrian personal name, recipient heading the issue; rival katītat 'beaten (oil)'. The stem QA-TI- stands at four sites (QA-TI-KI, QA-TI-JU, QA-TI-DA-TE, TI-DI-TE-QA-TI); this word once | SPECULATIVE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Affiliation | hurrian (SPECULATIVE) |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
 
-## Unread
+### Note
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
-
-HT12 .1 QA-TI-DA-TE ·, all four signs whole and undotted, heading the tablet before .2 OLE+DI 5 and \*304 5 (GORILA I 25). GORILA prints one group and gives QA-TI-DA · TE · as the weaker division. QA-TI- also opens QA-TI-KI (KH7a) and QA-TI-JU (ZA14). Sole attestation. No reading.
+Kati-tati: Hurrian kat- (Nuzi Qa-ti-ri, NPN 224) + -tati (Še-en-da-ti, NPN 263), the recipient heading HT 12's issue of oils, fats, wool and figs. Rival: katītat 'beaten (oil)' (semitic_roots 3644).
 
 <!-- END kaphtor:record -->

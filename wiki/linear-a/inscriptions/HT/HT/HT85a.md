@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; those of Acacia 24; Kuṯinu 5; Tegi 3; dwelling/estate 4. Total 66.
+> Addu—sanctuary(?)—personnel: Dardaʿ 12; builders(?) 12; stall/storehouse 6; those of Acacia 24; Kuṯinu 5; Tegi 3; the estate 4. Total 66.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (a group of 24 men) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | personal name or roster label (5 personnel); compare the Ugaritic personal name kṯn | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | personal name; Hurrian tegi 'beautiful' (spelling of TE-KI) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dāru | dwelling or estate (administrative unit) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes

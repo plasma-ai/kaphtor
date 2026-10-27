@@ -81,6 +81,6 @@ Nuzi Iruja, I-ru-ia, the hypocoristic of Irup-tešup (Gelb, Purves, and MacRae 1
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār.
 
 <!-- END kaphtor:record -->

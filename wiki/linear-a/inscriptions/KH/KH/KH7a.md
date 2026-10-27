@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["CYP", "E-NA-SI", "I-JA-PA-ME", "SE-*305", "VIR+*313"]
+words: ["CYP", "E-NA-SI", "I-JA-PA-ME", "QA-TI-KI", "SE-*305", "TA-TA", "VIR+*313"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -76,7 +76,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Copper: \*313b-men 10; cyperus ½. Yabame · TA-TA ·; QA-TI-KI: \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
+> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Copper: \*313b-men 10; cyperus ½. Yabame · Tatta ·; Kattike: \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ Unicode (Linear A block):
 | VIR+\*313b |  | men of the \*313b class, 10 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | progenitress, sister-in-law (divine epithet of Anath) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/T/TA_TA\|TA-TA]] |  | entry (unread) |  | unread |
-| [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] |  | entry (unread) |  | unread |
+| [[wiki/linear-a/words/T/TA_TA\|TA-TA]] | Tatta | Hurrian personal name; rival the Anatolian name Tata | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | Hurrian personal name, on kad- 'to say'; rival katki 'utterance' | SPECULATIVE | SPECULATIVE (lexicon) |
 | VIR+\*313b |  | men of the \*313b class, 4 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ⅓ | PROBABLE |  |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | provisions (section heading) | SPECULATIVE | SPECULATIVE (lexicon) |
@@ -103,11 +103,11 @@ Three sections under E-NA-SI, I-JA-PA-ME · TA-TA and SE-\*305, each with \*313b
 
 ### Source
 
-- di Mino: SE-\*305
+- di Mino: SE-\*305, TA-TA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E_NA_SI|E-NA-SI]], [[wiki/linear-a/words/I/I_JA_PA_ME|I-JA-PA-ME]], [[wiki/linear-a/words/S/SE_star305|SE-\*305]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]].
+[[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/E/E_NA_SI|E-NA-SI]], [[wiki/linear-a/words/I/I_JA_PA_ME|I-JA-PA-ME]], [[wiki/linear-a/words/Q/QA_TI_KI|QA-TI-KI]], [[wiki/linear-a/words/S/SE_star305|SE-\*305]], [[wiki/linear-a/words/T/TA_TA|TA-TA]], [[wiki/linear-a/words/V/VIR_plus_star313|VIR+\*313]].
 
 ## Corpus note
 

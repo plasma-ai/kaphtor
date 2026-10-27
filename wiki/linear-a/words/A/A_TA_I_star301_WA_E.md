@@ -49,7 +49,7 @@ Monophthongized Palaikastro dialect variant of A-TA-I-\*301-WA-JA. The -WA-E end
 | Hebrew | nāweh (נָוֶה) 'comely habitation, pasture' (Exod 15:13, Ps 23:2 \[nĕʾōt, pl. construct\], Isa 33:20, Jer 25:30); nāʾwāh (נָאוָה) 'comely' (Song 1:5); √n-w-y 'to dwell, settle' |
 | Amorite | nawûm 'steppe; encampment (man and beast)' (Huffmon, APNM 237); nawijum 'nomadic encampment' (Gelb, AS 21) |
 | Akkadian | namû A (nawû) 'pasture land … and its population and flocks; outlying area around a city' (CAD N/1, 249–51) |
-| Arabic | nawā (نوى) 'to intend, settle toward'; nawāh 'dwelling-place, destination' |
+| Arabic | nawā (نوى) 'to intend, set out for'; nawan, an-nawā (النَّوَى) 'the abode, the place one sets out for' |
 | Greek | ναός (naos) 'temple' &lt; \*nawos, same √n-w-y (Bernal 1987, Rendsburg 1989); cf. Exod 15:13 nəwēh qodšekhā 'Thy holy shrine' |
 
 ### Source

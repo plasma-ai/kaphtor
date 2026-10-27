@@ -78,9 +78,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_SI\|I-SI]] | ʾiššê | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TA_JA\|I-TA-JA]] | ʾIttaya | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TI\|I-TI]] | ʾitti | CANDIDATE |
+| [[wiki/linear-a/words/I/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_I_NWA_RO\|JA-I-NWA-RO]] | yā ʾanwaru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_I_MI\|MA-I-MI]] | mayimi | SPECULATIVE |

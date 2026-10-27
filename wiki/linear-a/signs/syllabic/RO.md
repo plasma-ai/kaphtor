@@ -48,6 +48,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RO_TE\|A-RO-TE]] | Ḫaluti | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_I_NWA_RO\|JA-I-NWA-RO]] | yā ʾanwaru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RO_NA\|KA-RO-NA]] | Qarna | PROBABLE |
 | [[wiki/linear-a/words/K/KA_RO_PA3\|KA-RO-PA₃]] | karbu | PROBABLE |
 | [[wiki/linear-a/words/K/KI_DA_RO\|KI-DA-RO]] | Qidaru | PROBABLE |
@@ -56,6 +58,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/N/NU_RO\|NU-RO]] | nūr- | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
+| [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO\|RO]] | rōš | PROBABLE |
 | [[wiki/linear-a/words/R/RO_E\|RO-E]] | rōʿē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōkēl | SPECULATIVE |

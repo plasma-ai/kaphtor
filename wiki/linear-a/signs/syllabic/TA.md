@@ -71,6 +71,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
 | [[wiki/linear-a/words/J/JE_TA_NA\|JE-TA-NA]] | Yatana | PROBABLE |
 | [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | kaṯare | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] |  | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |
@@ -104,6 +105,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_PA\|TA-PA]] | tappāʾu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_RA\|TA-RA]] | ṯa(ġ)ra | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_RI_NA\|TA-RI-NA]] | Tarinna | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_TA\|TA-TA]] | Tatta | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | tati | CANDIDATE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | CANDIDATE |

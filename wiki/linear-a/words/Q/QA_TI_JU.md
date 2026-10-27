@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/Q/QA_TI_JU
 title: "QA-TI-JU"
-desc: "Qātilu: personal name, recipient of 8 (q-ṭ-l). Lexicon, SPECULATIVE (tier 1)."
+desc: "Qātilu: Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personnel"]
 kind: "word"
 form: "QA-TI-JU"
@@ -32,26 +32,27 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Qātilu |
-| Meaning | personal name, recipient of 8 (q-ṭ-l) |
-| Root | q-ṭ-l |
+| Meaning | Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said' |
+| Root | q-t-l |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
 
 ### Note
 
-ZA 14: ME-KI-DI 1, \*21F-\*118 1, PU-NI-KA-\*363 3, QA-TI-JU 8, KU-PI 1, TU-MI-TI-ZA-SE 45: a name slot among recipients. Word-internal JU = /lu/: qa-ti-lu, a qātil form of q-ṭ-l (Heb. qāṭal, Aram. qṭl 'kill'); ṭ in the T-series. QA-TI-DA-TE (HT 12) and QA-TI-KI (KH 7a) share two signs only. Rival: qāḍīyu 'judge' (Arab. qāḍī), which reads JU as /yu/. \|\| Case unassigned: nothing here selects it (Fischer 2002, §140).
+ZA 14 QA-TI-JU 8, a name among recipients (ME-KI-DI 1, PU-NI-KA-\*363 3, KU-PI 1, TU-MI-TI-ZA-SE 45). JU = /lu/: qa-ti-lu, the qātil participle of \*ḳtl 'kill', a name in Safaitic qtl and Arabic Qātila (Harding 1971, 476). Rival: Hurrian Katiya 'He/She said' (Mari ka-ti-ia, Monti 2017, 255), reading JU as /yu/, on the stem of QA-TI-DA-TE Kati-tati. One witness. \|\| Case unassigned: nothing here selects it (Fischer 2002, §140).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | קָטַל qāṭal "kill" |
-| Aramaic | qṭl "kill" |
+| Proto-Semitic | \*ḳtl 'kill' (semitic_roots 2498) |
+| Safaitic | qtl PN; Arabic Qātila, Qattāl (Harding 1971, 476) |
+| Hurrian | Katiya, ka-ti-ia, kad=i=ya 'He/She said', Mari (Monti 2017, 255); Nuzi Kataja, Qa-ta-a-a (NPN 224) |
 
 ### Source
 
-di Mino
+di Mino; Harding 1971; Monti 2017
 
 ## Attestations
 
@@ -63,18 +64,22 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Qātilu | personal name, 8 | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA14\|ZA14]] | Qātilu | personal name 'Killer', 8; rival Hurrian Katiya | SPECULATIVE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
+| Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+
+### Note
+
+Qātilu: the qātil participle of \*ḳtl 'kill', a name in Safaitic qtl and Arabic Qātila (Harding 1971, 476), recipient of 8 on ZA 14. Rival: Hurrian Katiya 'He/She said' (Mari ka-ti-ia, Monti 2017, 255).
 
 <!-- END kaphtor:record -->

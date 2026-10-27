@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NU_TI
 title: "NU-TI"
-desc: "nuti: townsmen, citizens (heading before the logogram for men); rival Semitic nātîn 'those given'. Lexicon, CANDIDATE (tier 2)."
+desc: "nuti: the given ones, a personnel class (√n-t-n), heading before men; rival Egyptian nʾ.tjw 'townsmen'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "vocabulary"]
 kind: "word"
 form: "NU-TI"
@@ -32,24 +32,27 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | nuti |
-| Meaning | townsmen, citizens (heading before the logogram for men); rival Semitic nātîn 'those given' |
-| Language layer | Middle Egyptian |
+| Meaning | the given ones, a personnel class (√n-t-n), heading before men; rival Egyptian nʾ.tjw 'townsmen' |
+| Root | n-t-n |
+| Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-HT 84 \*21F-JA-DU / NU-TI · VIR+\[?\], whole, a heading directly before the logogram for men; ZA 9 \]-NU-TI ·, broken before NU, heads an allocation list (RA, \]RO-SI-RA, A-TA-NA-\[·\], \[·\]-MA-JU, WI-RA-RE-MI-TE with QI+SI and \*21F). Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110; Wb 2, 213.1–4), n-w-t consonant for consonant, as PA-JA-RE and JA-MI-DA-RE stand on Haghia Triada lists. Rival: √n-t-n 'those given', Ugaritic ytnm 'temple slaves' (DULAT 977), Aramaic nātîn 'temple servant', which needs a final -n unwritten and mismatches the first vowel. Ugaritic únt 'corvée' would be spelled U-NU-TI.
+HT 84 \*21F-JA-DU / NU-TI · VIR+\[?\], whole, a heading before the logogram for men; ZA 9 \]-NU-TI ·, broken before NU, heads an allocation list. Ugaritic ytn (I), a personnel class, heads the register spr ytnm (KTU 4.93:1; DULAT 977); Hebrew nətînîm; n-t-n as in NA-TU-\*301-NE. Rival: Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110; Wb 2, 213.1–4).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
+| Ugaritic | ytn (I) 'a group or social class', spr ytnm 'register of the y.' (KTU 4.93:1; DULAT 977) |
+| Hebrew | nətînîm 'temple servants' (Ezra 2:43) |
 | Egyptian | nʾ.tjw 'townsmen; citizens', nisbe of nʾ.t 'town' (AED lemma 81110; Wb 2, 213.1–4); as a personal name Nʾ.tjw (RPN I 169.6) |
 
 ### Source
 
-di Mino
+di Mino; DULAT 977; AED lemma 81110
 
 ## Attestations
 
@@ -63,7 +66,7 @@ di Mino
 | Field | Value |
 |---|---|
 | Type | title (SPECULATIVE) |
-| Affiliation | egyptian (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |
@@ -72,6 +75,6 @@ di Mino
 
 ### Note
 
-Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110), heading HT 84 before VIR+\[?\]; ZA 9 has \]-NU-TI, broken before NU. Rival: Semitic nātîn 'those given'.
+√n-t-n 'the given ones', heading HT 84 before VIR+\[?\], as Ugaritic ytn (I) heads the register spr ytnm (KTU 4.93:1; DULAT 977); ZA 9 has \]-NU-TI, broken before NU. Rival: Egyptian nʾ.tjw 'townsmen; citizens'. See the lexicon entry.
 
 <!-- END kaphtor:record -->

@@ -53,10 +53,13 @@ Evidence: ṯ 15/21, n and m 16/21; A-ZU-RA yields a root under every rival. ṯ
 | [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_ZU\|MA-ZU]] | maṯu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU\|ZU]] | ṯūm | CANDIDATE |
+| [[wiki/linear-a/words/Z/ZU_star301\|ZU-\*301]] | ṯannān | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_DI\|ZU-DI]] | ṯudī | PROBABLE |
 | [[wiki/linear-a/words/Z/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_DU\|ZU-DU]] | ṯudu | CANDIDATE |

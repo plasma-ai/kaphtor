@@ -19,6 +19,7 @@
       "semantic_field": "body_part",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA21a"
       ],
@@ -36,6 +37,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8b",
         "HT15",
@@ -80,6 +82,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT123+124b"
       ],
@@ -101,13 +104,15 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH88",
         "ZA5a",
-        "ZA14"
+        "ZA14",
+        "ARKH2"
       ],
-      "note": "KH 88 QA-NU-MA · *21F-*118 · NI 10, before figs; ZA 5a heads a ration list, *21F-*118 · VIN-SU over KI-NI-MA 7 and O-TA-NI-ZA-SE 6; ZA 14 an entry of 1. Ug. ḥṭt 'wheat' (DULAT 372), Heb. ḥiṭṭâ (HALOT 306), the final -t unwritten; *21F writes ḥ. Rivals: ḫṭ 'sceptre, rod' (DULAT 410; Akk. ḫaṭṭu), and ḥṯ 'unleavened bread' (DULAT 373) with *118 = ṯa.",
-      "source": "di Mino"
+      "note": "KH 88 QA-NU-MA · *21F-*118 · NI 10, before figs; ZA 5a heads a ration list, *21F-*118 · VIN-SU over KI-NI-MA 7 and O-TA-NI-ZA-SE 6; ZA 14 an entry of 1; ARKH 2 .3–4 ZU-*301 SE-DE *21F-*118 6, ṯannān ṣēd ḥiṭṭa 'the chariot soldiers: provision of wheat', written as one group under SI-DA-TE (GORILA III 6–7). Ug. ḥṭt 'wheat' (DULAT 372), Heb. ḥiṭṭâ (HALOT 306), the final -t unwritten. *21F writes ḥi, as in A-DA-*21F-RI dāhiru. Egyptian group writing does the same with this very word: ʿa=di=na, *ḥiṭṭina 'a variety of wheat', where the a-sign ʿa writes ḥi, not the expected ḥa, and d writes ṭ (P. Anastasi IV 8, 11; Hoch 1994, 85, no. 104). Rivals: ḫṭ 'sceptre, rod' (DULAT 410; Akk. ḫaṭṭu), and ḥṯ 'unleavened bread' (DULAT 373) with *118 = ṯa.",
+      "source": "di Mino; Hoch 1994"
     },
     {
       "word": "*21F-JA-DU",
@@ -124,6 +129,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT84"
       ],
@@ -141,6 +147,7 @@
       "semantic_field": "kinship",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT7b",
         "HT87",
@@ -166,6 +173,7 @@
       "semantic_field": "commodity",
       "category": "ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a",
         "HT110b",
@@ -417,6 +425,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a"
       ],
@@ -440,6 +449,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT12",
         "HT14",
@@ -494,6 +504,7 @@
       "semantic_field": "administrative",
       "category": "administrative logogram",
       "language_layer": "undetermined",
+      "language_family": null,
       "attestations": [
         "HT35",
         "HT91",
@@ -513,6 +524,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT100",
         "KH7b",
@@ -542,6 +554,7 @@
       "semantic_field": "personnel",
       "category": "logogram",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "HT89",
         "HT33",
@@ -572,6 +585,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a"
       ],
@@ -594,6 +608,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT9b"
       ],
@@ -615,6 +630,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKHZc8"
       ],
@@ -632,6 +648,7 @@
       "semantic_field": "personal_name",
       "category": "adjective",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT4"
       ],
@@ -649,6 +666,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT123+124a",
         "HT123+124b",
@@ -681,6 +699,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT38",
         "HT49a",
@@ -718,6 +737,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT26a"
       ],
@@ -741,6 +761,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PHWc38"
       ],
@@ -758,6 +779,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH91",
         "KHWa1001",
@@ -785,6 +807,7 @@
       "semantic_field": "administrative",
       "category": "logogram",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "ARKH3a",
         "HT96a",
@@ -804,6 +827,7 @@
       "semantic_field": "personnel",
       "category": "composite logogram",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "HT89"
       ],
@@ -822,6 +846,7 @@
       "semantic_field": "personnel",
       "category": "logogram",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "HT97a",
         "HT119"
@@ -840,6 +865,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH12",
         "KH31",
@@ -867,6 +893,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT26a",
         "HT26b"
@@ -885,6 +912,7 @@
       "semantic_field": "vessel",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MA10a",
         "MA10b",
@@ -905,6 +933,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "Semitic comparison",
+      "language_family": "Semitic",
       "attestations": [
         "HT34",
         "HT96b",
@@ -937,6 +966,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa12"
       ],
@@ -960,6 +990,7 @@
       "semantic_field": "administrative_or_divine",
       "category": "divine_name_or_administrative_heading",
       "language_layer": "Akkadian_or_NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT133",
         "HT85a",
@@ -989,6 +1020,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT85a"
       ],
@@ -1012,6 +1044,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10a"
       ],
@@ -1035,6 +1068,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH5"
       ],
@@ -1053,6 +1087,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PEZc4",
         "SYZa2"
@@ -1080,6 +1115,7 @@
       "semantic_field": "toponym",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "THEZb7"
       ],
@@ -1097,6 +1133,7 @@
       "semantic_field": "vessel",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc7"
       ],
@@ -1129,6 +1166,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT2",
         "HT86a",
@@ -1153,6 +1191,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10a"
       ],
@@ -1171,6 +1210,7 @@
       "semantic_field": "kinship",
       "category": "social",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HSZg1",
         "MA1b",
@@ -1203,6 +1243,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10b"
       ],
@@ -1226,6 +1267,7 @@
       "semantic_field": "ritual",
       "category": "abstract_noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc7"
       ],
@@ -1248,6 +1290,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT96a",
         "HT96b"
@@ -1278,6 +1321,7 @@
       "semantic_field": "kinship",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZbX"
       ],
@@ -1295,6 +1339,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT1"
       ],
@@ -1321,6 +1366,7 @@
       "semantic_field": "toponym",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA7a"
       ],
@@ -1344,6 +1390,7 @@
       "semantic_field": "toponym",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3024"
       ],
@@ -1370,6 +1417,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA7a"
       ],
@@ -1391,6 +1439,7 @@
       "semantic_field": "divine",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PE1",
         "PE2"
@@ -1414,6 +1463,7 @@
       "semantic_field": "divine",
       "category": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZAZb3"
       ],
@@ -1438,6 +1488,7 @@
       "semantic_field": "administrative",
       "category": "administrative heading",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT89"
       ],
@@ -1461,6 +1512,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZb10",
         "PRZa1"
@@ -1485,6 +1537,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT28a",
         "HT28b"
@@ -1501,7 +1554,7 @@
         "Hebrew": "nāweh (נָוֶה) 'comely habitation, pasture' (Exod 15:13, Ps 23:2 [nĕʾōt, pl. construct], Isa 33:20, Jer 25:30); nāʾwāh (נָאוָה) 'comely' (Song 1:5); √n-w-y 'to dwell, settle'",
         "Amorite": "nawûm 'steppe; encampment (man and beast)' (Huffmon, APNM 237); nawijum 'nomadic encampment' (Gelb, AS 21)",
         "Akkadian": "namû A (nawû) 'pasture land … and its population and flocks; outlying area around a city' (CAD N/1, 249–51)",
-        "Arabic": "nawā (نوى) 'to intend, settle toward'; nawāh 'dwelling-place, destination'",
+        "Arabic": "nawā (نوى) 'to intend, set out for'; nawan, an-nawā (النَّوَى) 'the abode, the place one sets out for'",
         "Greek": "ναός (naos) 'temple' < *nawos, same √n-w-y (Bernal 1987, Rendsburg 1989); cf. Exod 15:13 nəwēh qodšekhā 'Thy holy shrine'"
       },
       "tier": 4,
@@ -1510,6 +1563,7 @@
       "semantic_field": "verbal",
       "category": "libation_formula",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -1526,7 +1580,7 @@
         "Hebrew": "nāweh (נָוֶה) 'comely habitation, pasture' (Exod 15:13, Ps 23:2 [nĕʾōt, pl. construct], Isa 33:20, Jer 25:30); nāʾwāh (נָאוָה) 'comely' (Song 1:5); √n-w-y 'to dwell, settle'",
         "Amorite": "nawûm 'steppe; encampment (man and beast)' (Huffmon, APNM 237); nawijum 'nomadic encampment' (Gelb, AS 21)",
         "Akkadian": "namû A (nawû) 'pasture land … and its population and flocks; outlying area around a city' (CAD N/1, 249–51)",
-        "Arabic": "nawā (نوى) 'to intend, settle toward'; nawāh 'dwelling-place, destination'",
+        "Arabic": "nawā (نوى) 'to intend, set out for'; nawan, an-nawā (النَّوَى) 'the abode, the place one sets out for'",
         "Greek": "ναός (naos) 'temple' < *nawos, same √n-w-y (Bernal 1987, Rendsburg 1989); cf. Exod 15:13 nəwēh qodšekhā 'Thy holy shrine'"
       },
       "tier": 4,
@@ -1535,6 +1589,7 @@
       "semantic_field": "verbal",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2",
         "IOZa3",
@@ -1571,6 +1626,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA9"
       ],
@@ -1599,6 +1655,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc7"
       ],
@@ -1616,6 +1673,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH6"
       ],
@@ -1633,6 +1691,7 @@
       "semantic_field": "uncertain",
       "category": "fragmentary_nominal",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "DRAZg1"
       ],
@@ -1655,6 +1714,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT95a"
       ],
@@ -1672,6 +1732,7 @@
       "semantic_field": "vessel",
       "category": "vocabulary",
       "language_layer": "substrate",
+      "language_family": null,
       "attestations": [
         "HT12",
         "KH13"
@@ -1690,6 +1751,7 @@
       "semantic_field": "animal",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWa1001",
         "HTWa1002",
@@ -1711,6 +1773,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT103"
       ],
@@ -1728,6 +1791,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT103"
       ],
@@ -1750,6 +1814,7 @@
       "semantic_field": "administrative_accounting",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT86a",
         "HT95a",
@@ -1775,6 +1840,7 @@
       "semantic_field": "vessel",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT120",
         "HT57a",
@@ -1785,12 +1851,13 @@
     },
     {
       "word": "DA-RE",
-      "reading": "dāru",
-      "meaning": "dwelling or estate; administrative unit",
-      "root": "d-r",
+      "reading": "dār",
+      "meaning": "estate, household (a unit receiving men and grain); rival 'kin group, clan'",
+      "root": "d-w-r",
       "cognates": {
-        "Aramaic": "dārā(ʾ) 'dwelling'",
-        "Arabic": "dār 'house, dwelling'"
+        "Hebrew": "dôr 'dwelling' (Isa 38:12)",
+        "Arabic": "dār 'house'",
+        "Ugaritic": "dr 'circle, group, assembly' (DULAT 277), the rival sense"
       },
       "tier": 2,
       "confidence": "CANDIDATE",
@@ -1798,6 +1865,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a",
         "HT10b",
@@ -1807,7 +1875,7 @@
         "PK3",
         "KH104"
       ],
-      "note": "Attested across Haghia Triada and Palaikastro as a recurring administrative label with variable quantities. Compare Arabic dār and Aramaic dārā(ʾ) 'house, dwelling'; this supports a possible dwelling or estate term, not the more specific gloss 'granary.' Its association with grain and personnel may reflect an administrative unit, but the function is not independently established. The unrelated Ugaritic drʾ /ḏirāʾu/ 'arm' does not explain the contexts.",
+      "note": "Seven documents at Haghia Triada, Khania and Palaikastro: a head count on three rosters of men (HT 7a, 85a, 122b), beside named men and work groups, and a grain or goods share on four lists (HT 10a, 10b, KH 104, PK 3), the largest on HT 10a (16½) and PK 3 (72). *dār- 'dwelling, house' (no. 657). Rival *dawr- 'clan, group of relatives' (no. 40).",
       "source": "di Mino",
       "phonological_notes": "Skeleton d-r, as in dār. Dead vowel on RE. No neutralization required."
     },
@@ -1827,6 +1895,7 @@
       "semantic_field": "personnel",
       "category": "gentilic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT13",
         "HT85a",
@@ -1847,6 +1916,7 @@
       "semantic_field": "personal_name",
       "category": "onomastic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT120"
       ],
@@ -1872,6 +1942,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT86a",
         "HT95a",
@@ -1896,6 +1967,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT108"
       ],
@@ -1919,6 +1991,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT9a",
         "HT9b",
@@ -1947,6 +2020,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT98a"
       ],
@@ -1968,6 +2042,7 @@
       "semantic_field": "administrative",
       "category": "entity",
       "language_layer": "NWS candidate",
+      "language_family": "Semitic",
       "attestations": [
         "HT93a",
         "HT102"
@@ -1992,6 +2067,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10b",
         "ZA31"
@@ -2020,6 +2096,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KOZa1"
       ],
@@ -2041,6 +2118,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11",
         "PKZa15",
@@ -2066,6 +2144,7 @@
       "semantic_field": "ritual",
       "category": "abstract_noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc7"
       ],
@@ -2083,6 +2162,7 @@
       "semantic_field": "personal_name",
       "category": "ethnonymic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT25a"
       ],
@@ -2107,6 +2187,7 @@
       "semantic_field": "commodity",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH7a"
       ],
@@ -2124,6 +2205,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT43",
         "HT93a",
@@ -2154,6 +2236,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT18",
         "HT28a",
@@ -2180,6 +2263,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "NEZa1",
         "PKZa17",
@@ -2208,6 +2292,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KOZa1"
       ],
@@ -2226,6 +2311,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARZf1",
         "ARZf2"
@@ -2248,6 +2334,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KYZa2"
       ],
@@ -2265,6 +2352,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa1"
       ],
@@ -2286,6 +2374,7 @@
       "semantic_field": "toponym",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZa10",
         "CRZf1"
@@ -2311,6 +2400,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2",
         "IOZa9",
@@ -2343,6 +2433,7 @@
       "semantic_field": "divine",
       "category": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH7a"
       ],
@@ -2365,6 +2456,7 @@
       "semantic_field": "toponym",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PHZb4"
       ],
@@ -2387,6 +2479,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "Akkadian administrative contact",
+      "language_family": "Semitic",
       "attestations": [
         "HT91",
         "HT102"
@@ -2405,6 +2498,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT90"
       ],
@@ -2428,6 +2522,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "APZa2"
       ],
@@ -2453,6 +2548,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa6"
       ],
@@ -2477,6 +2573,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa6"
       ],
@@ -2501,6 +2598,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa6"
       ],
@@ -2524,6 +2622,7 @@
       "semantic_field": "body_part",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2",
         "IOZa15",
@@ -2553,6 +2652,7 @@
       "semantic_field": "body_part",
       "category": "libation_formula",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa10",
         "PKZa11"
@@ -2571,6 +2671,7 @@
       "semantic_field": "administration",
       "category": "administrative",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "HT44a",
         "HT131a"
@@ -2597,6 +2698,7 @@
       "semantic_field": "divine",
       "category": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWa1006",
         "HTWa1007",
@@ -2628,6 +2730,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2"
       ],
@@ -2648,6 +2751,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KN1b"
       ],
@@ -2665,6 +2769,7 @@
       "semantic_field": "divine",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa4"
       ],
@@ -2682,6 +2787,7 @@
       "semantic_field": "divine",
       "category": "divine",
       "language_layer": "unclassified",
+      "language_family": null,
       "attestations": [
         "PKZa18",
         "SYZa8"
@@ -2707,6 +2813,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MA2c"
       ],
@@ -2718,16 +2825,18 @@
       "reading": "Yamidare",
       "meaning": "He-from-the-hand-of-Re (Egyptian theophoric)",
       "root": null,
-      "tier": 3,
-      "confidence": "PROBABLE",
-      "confidence_score": 0.7,
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "HT122a"
       ],
-      "source": "Gordon 1966"
+      "note": "HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127), comparing Ugaritic bdil 'From-the-hand-of-El'. Rival: a Minoan name. One witness.",
+      "source": "Gordon 1966a, 31 (§127)"
     },
     {
       "word": "JA-PA",
@@ -2746,6 +2855,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA4a"
       ],
@@ -2763,6 +2873,7 @@
       "semantic_field": "verbal",
       "category": "verb",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNWc30"
       ],
@@ -2784,6 +2895,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT87"
       ],
@@ -2801,6 +2913,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MAZb8",
         "PH16b"
@@ -2832,6 +2945,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA15a"
       ],
@@ -2855,6 +2969,7 @@
       "semantic_field": "ethical/ritual",
       "category": "adjective",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc7"
       ],
@@ -2872,6 +2987,7 @@
       "semantic_field": "ritual language",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa16"
       ],
@@ -2889,6 +3005,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZa10"
       ],
@@ -2912,6 +3029,7 @@
       "semantic_field": "divine",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2",
         "IOZa6",
@@ -2937,6 +3055,7 @@
       "semantic_field": "personal_name",
       "category": "onomastic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa2"
       ],
@@ -2963,6 +3082,7 @@
       "semantic_field": "toponym",
       "category": "ethnonym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8a",
         "HT36",
@@ -2983,6 +3103,7 @@
       "semantic_field": "verbal",
       "category": "verb",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWa1020"
       ],
@@ -3006,6 +3127,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA4a",
         "ZA5b",
@@ -3034,6 +3156,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA6b"
       ],
@@ -3058,6 +3181,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc6"
       ],
@@ -3082,6 +3206,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc6"
       ],
@@ -3107,6 +3232,7 @@
       "semantic_field": "food",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "TY2"
       ],
@@ -3131,6 +3257,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZf13"
       ],
@@ -3142,25 +3269,26 @@
     },
     {
       "word": "KA-*314-SI",
-      "reading": "kꜣ-ḥs.j",
-      "meaning": "personal name ('the Ka is praised'—Egyptian theophoric); rival kabsi 'young ram'",
+      "reading": "Kaḥas",
+      "meaning": "personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'",
       "root": null,
-      "tier": 2,
-      "confidence": "CANDIDATE",
-      "confidence_score": 0.5,
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "PHWc37"
       ],
-      "note": "Contingent on *314 = ḤA. Phaistos roundel (MMII), alongside *320 || EGYPTIAN READING: kꜣ 'ka, spirit/vital force' + ḥs.j 'praised one, favored one'—standard Middle Kingdom theophoric name pattern. Phonetic mapping: KA = kꜣ (velar onset), ḤA = ḥs (pharyngeal onset), SI = .j (adjectival suffix) || Egyptian contact with Crete in MMII is well attested. Less phonetically exact than PI-ḤA (Luwian) or RA-ḤA-RA (Egyptian), but the name pattern is standard || All three signs whole and undotted (GORILA II 94). Rival with *314 = bu, a PU₂ variant: kabsi 'young ram', Akk. kabsu (CAD K 23), Heb. kebeś, Arb. kabš (HALOT 459), a roundel commodity.",
-      "source": "di Mino"
+      "note": "PH Wc 37 KA-*314-SI *320, a Phaistos roundel (MM II), all three signs whole (GORILA II 94). Egyptian kꜣḥs, a name under Senusret III (Ranke II, 322.3; PNM v6, Louvre C 173), with *314 read ḥa and the final vowel dead. Rival, *314 as a variant of PU₂: kabsi 'young ram', Akk. kabsu (CAD K 23), Heb. kebeś, a roundel commodity. One witness.",
+      "source": "Ilin-Tomich 2025 (PNM v6), s.v. kꜣḥs; di Mino"
     },
     {
       "word": "KA-DU-MA-NE",
-      "reading": "Kadumānu",
-      "meaning": "Cadmos + -ān suffix",
+      "reading": "Qadmān",
+      "meaning": "the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān)",
       "root": "q-d-m",
       "tier": 4,
       "confidence": "CONFIRMED",
@@ -3168,6 +3296,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT29"
       ],
@@ -3195,6 +3324,7 @@
       "semantic_field": "personal_name",
       "category": "ethnonymic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KHWc2005"
       ],
@@ -3212,6 +3342,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT97a"
       ],
@@ -3229,6 +3360,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6a",
         "HT8b",
@@ -3257,6 +3389,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a"
       ],
@@ -3274,6 +3407,7 @@
       "semantic_field": "personal_name",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT98a"
       ],
@@ -3297,6 +3431,7 @@
       "semantic_field": "personal_name",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT11a"
       ],
@@ -3314,6 +3449,7 @@
       "semantic_field": "vessel",
       "category": "vessel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT31"
       ],
@@ -3336,6 +3472,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH41"
       ],
@@ -3358,6 +3495,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT94b"
       ],
@@ -3375,6 +3513,7 @@
       "semantic_field": "ritual",
       "category": "vessel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT37"
       ],
@@ -3396,6 +3535,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -3416,6 +3556,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT93a"
       ],
@@ -3439,6 +3580,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA5a"
       ],
@@ -3456,6 +3598,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "Akkadian_or_NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT103",
         "ZA8"
@@ -3474,6 +3617,7 @@
       "semantic_field": "toponym",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT129",
         "HT85b"
@@ -3495,6 +3639,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT2",
         "HT8a",
@@ -3516,6 +3661,7 @@
       "semantic_field": "toponym",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT114a",
         "HT121"
@@ -3540,6 +3686,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT1",
         "HT15",
@@ -3571,6 +3718,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH6"
       ],
@@ -3597,6 +3745,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT54a",
         "HTWc3014"
@@ -3618,6 +3767,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a",
         "HT86a",
@@ -3657,6 +3807,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH92"
       ],
@@ -3677,6 +3828,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT116a"
       ],
@@ -3699,6 +3851,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PE1"
       ],
@@ -3724,6 +3877,7 @@
       "semantic_field": "personnel_group",
       "category": "personnel",
       "language_layer": "Anatolian/North Syrian theonym with Semitic derivation",
+      "language_family": "Semitic",
       "attestations": [
         "HT47a",
         "HT119"
@@ -3755,6 +3909,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Anatolian/North Syrian theonym with Semitic derivation",
+      "language_family": "Semitic",
       "attestations": [
         "HT1",
         "HT3",
@@ -3789,6 +3944,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "Anatolian/North Syrian theonym",
+      "language_family": null,
       "attestations": [
         "HT88"
       ],
@@ -3825,6 +3981,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -3842,6 +3999,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT9a",
         "HT9b",
@@ -3902,6 +4060,7 @@
       "semantic_field": "personal_name",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT87"
       ],
@@ -3919,6 +4078,7 @@
       "semantic_field": "commodity",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115b"
       ],
@@ -3942,6 +4102,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT89"
       ],
@@ -3962,6 +4123,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS candidate",
+      "language_family": "Semitic",
       "attestations": [
         "HT102"
       ],
@@ -3980,6 +4142,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "PK1",
         "ZA5b"
@@ -4004,6 +4167,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA8"
       ],
@@ -4033,6 +4197,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT87",
         "HT117a"
@@ -4051,6 +4216,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KHWc2064",
         "KHWc2099"
@@ -4073,6 +4239,7 @@
       "semantic_field": "body_part",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT41a"
       ],
@@ -4090,6 +4257,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa5"
       ],
@@ -4112,6 +4280,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT26a"
       ],
@@ -4143,6 +4312,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT106",
         "HT86a",
@@ -4167,6 +4337,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Indo-Aryan",
+      "language_family": "Indo-European",
       "attestations": [
         "HT128a"
       ],
@@ -4190,6 +4361,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -4213,6 +4385,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA15a"
       ],
@@ -4230,6 +4403,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -4254,6 +4428,7 @@
       "semantic_field": "unknown",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "APZa2"
       ],
@@ -4278,6 +4453,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SKOZc1"
       ],
@@ -4300,6 +4476,7 @@
       "semantic_field": "kinship",
       "category": "kinship",
       "language_layer": "NWS candidate",
+      "language_family": "Semitic",
       "attestations": [
         "PLZf1"
       ],
@@ -4309,7 +4486,7 @@
     {
       "word": "O-SU-QA-RE",
       "reading": "ʾō Sukar",
-      "meaning": "O Sukar—proposed Minoan rendering of Egyptian Sokar",
+      "meaning": "O Sokar (Egyptian Skr), the deity addressed; rival Ušḫara the Snake",
       "root": "s-k-r",
       "tier": 2,
       "confidence": "CANDIDATE",
@@ -4317,11 +4494,12 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "TLZa1"
       ],
-      "note": "Hapax in the deity-address slot at Troullos. O may be the vocative /ʾō/ rather than a prosthetic vowel; Geʿez ʾo- 'O …!' supplies a later structural parallel (Leslau 1987, 1), not proof of the Bronze Age form. SU-QA-RE supplies /sukar/, with final E as the dead spelling vowel after /r/; its s-k-r skeleton supports comparison with Egyptian Skr/Zkr 'Sokar.' The divine identification and exact vowels remain CANDIDATE.",
-      "source": "di Mino"
+      "note": "TL Za 1 A-TA-I-*301-WA-JA · O-SU-QA-RE ·, the deity slot of the libation formula. ʾō Sukar: vocative ʾō (Geʿez ʾo-, Leslau 1987, 1) + Egyptian Skr 'Sokar', final E dead after r (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr, only as úšḫr ḫlmẓ 'Ušḫara the Snake' (KTU 1.115:2, 12; DULAT 113), from Akk. Išḫara, with QA where KA writes ḫ. One witness.",
+      "source": "di Mino, Ya Diktu; DULAT 113"
     },
     {
       "word": "OLE+DI",
@@ -4334,6 +4512,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT12",
         "HT14",
@@ -4357,6 +4536,7 @@
       "semantic_field": "commodity",
       "category": "commodity logogram",
       "language_layer": "uncertain; Semitic comparison for DI",
+      "language_family": null,
       "attestations": [
         "HT121"
       ],
@@ -4374,6 +4554,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8a",
         "HT18",
@@ -4407,6 +4588,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT14",
         "HT28a",
@@ -4437,6 +4619,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a",
         "HT32",
@@ -4457,6 +4640,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a",
         "HT35",
@@ -4477,6 +4661,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT30",
         "HT35",
@@ -4502,6 +4687,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PEWy5"
       ],
@@ -4519,6 +4705,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT97a",
         "HT120"
@@ -4547,6 +4734,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PHWa32",
         "HTZb158b"
@@ -4565,6 +4753,7 @@
       "semantic_field": "toponym",
       "category": "gentilic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTZb158b"
       ],
@@ -4582,14 +4771,15 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "HT8b",
         "HT29",
         "HT88",
         "ZA10b"
       ],
-      "note": "The four Linear A occurrences behave as a personal name. Linear B pa-ja-ro is a masculine personal name in the Knossian roster KN As(2) 1519.6, and DMic compares it with Linear A PA-JA-RE; Davis 2026 likewise treats the pair as Minoan. Gordon reads Egyptian Pꜣy-Rꜥ 'He-of-Re' (Gordon 1966a, 31, §127). PNM v6 has the man's name pꜣ-rꜥ 'he (of) Ra' (Ranke I, 114.11, as PNM cites it), used from Thutmose III to Amenhotep III and spelled pꜣjj-rꜥ under Hatshepsut, the date of the LM IB tablets (Ilin-Tomich 2025, personal_names_id 142613047); JA writes the jj. Rival: a Minoan name, as Davis treats it.",
-      "source": "Gordon 1966a, 31 (§127); Ilin-Tomich 2025 (PNM v6), s.v. pꜣ-rꜥ; DMic II; Davis 2026"
+      "note": "The four Linear A occurrences behave as a personal name. Linear B pa-ja-ro is a masculine personal name in the Knossian roster KN As(2) 1519.6, and DMic compares it with Linear A PA-JA-RE; Davis 2026 likewise treats the pair as Minoan. Gordon reads Egyptian Pꜣy-Rꜥ 'He-of-Re' (Gordon 1966a, 31, §127). PNM v6 has the man's name pꜣ-rꜥ 'he (of) Ra' (Ranke I, 114.11, as PNM cites it), used from Thutmose III to Amenhotep III and spelled pꜣjj-rꜥ under Hatshepsut, the date of the LM IB tablets (Ilin-Tomich 2025, personal_names_id 142613047); JA writes the jj. Amarna writes the same Re as -ri- in na-ap-ḫur-ri-ia, Nfr-ḫprw-rꜥ 'beautiful of form is Rē' (Hess 1993, 116). Rival: a Minoan name, as Davis treats it.",
+      "source": "Gordon 1966a, 31 (§127); Ilin-Tomich 2025 (PNM v6), s.v. pꜣ-rꜥ; DMic II; Davis 2026; Hess 1993, 116"
     },
     {
       "word": "PA-NA-TU",
@@ -4602,6 +4792,7 @@
       "semantic_field": "divine",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH7b"
       ],
@@ -4619,6 +4810,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a",
         "HT115b"
@@ -4629,20 +4821,21 @@
     {
       "word": "PA-TA-DA",
       "reading": "Patada",
-      "meaning": "Ptah-theophoric personal name: Ptaḥ-di(w) 'Ptah-gives/Ptah-given'",
-      "root": "p-t-ḥ",
+      "meaning": "personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit)",
+      "root": null,
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.5,
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "PH(?)31a",
         "HTZb160"
       ],
-      "note": "PH(?)31a.3–4, after KU-PA₃-NU SUS+SI+RE 1, broken after; HTZb160 clay-vessel label PA-TA-DA-DU-PU₂-RE 'Patada: to the sanctuary' (scriptio continua, PN + dubur). Phonologically ambiguous with NWS √p-t-ḥ 'to open.' -DA element: Egyptian dj/di(w) 'give(n)' — Ptaḥ-di(w) 'Ptah-gives/Ptah-given.' The DN-first order follows the standard NK verbal template Ptḥ-ms (Ptahmose 'Ptah-is-born') and Ptḥ-ḥtp (Ptahhotep 'Ptah-is-content'); the deity-last worry applies only to the Late-Period P3-dj-DN type, not to this one. Secondary option: hybrid Egypto-Semitic Ptaḥ-dād 'Beloved-of-Ptah,' a calque of Mry-Ptḥ (Merneptah) with NWS √d-w-d (cf. corpus DA-DU-*301 dāduna 'our beloved'). || Huehnergard: Ug ptḥ /pat(a)hī/ \"to open\"; Strong/final guttural verb. G imperative fs: pth /pat(a)hī/. BH cognate: pātaḥ \"to open\" (Huehnergard 2012, paradigm section)",
-      "source": "di Mino"
+      "note": "PH(?) 31a .3 PA-TA-DA[, after KU-PA₃-NU SUS+SI+RE 1, broken after DA at the line end; HT Zb 160 PA-TA-DA DU-PU₂-RE[, a vessel label 'Patada: to the sanctuary'. Egyptian ptḥ-dj⸗f, a man's name under Thutmose IV–Amenhotep III (PNM v6, Louvre C 277), the ḥ and the ⸗f unwritten; Amarna writes Ptah -ptaḫ in Ḫi-ku-up-ta-aḫ (EA 84:37; RGTC 12/2, 105). Rival: Hurrian pṭḏ, a man at Ugarit (KTU 4.357:23; DULAT 676).",
+      "source": "Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino"
     },
     {
       "word": "PA-TA-NE",
@@ -4660,6 +4853,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT122a",
         "HT94b",
@@ -4679,6 +4873,7 @@
       "semantic_field": "vessel",
       "category": "vessel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT31"
       ],
@@ -4696,6 +4891,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8b"
       ],
@@ -4713,6 +4909,7 @@
       "semantic_field": "animal",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8a"
       ],
@@ -4731,6 +4928,7 @@
       "semantic_field": "personnel",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT85a",
         "HT102"
@@ -4749,6 +4947,7 @@
       "semantic_field": "personnel",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6b",
         "HT93a"
@@ -4767,6 +4966,7 @@
       "semantic_field": "personnel",
       "category": "ethnonymic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa4"
       ],
@@ -4785,6 +4985,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MILZb1"
       ],
@@ -4805,6 +5006,7 @@
       "semantic_field": "body_part",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA11a"
       ],
@@ -4828,6 +5030,7 @@
       "semantic_field": "unknown",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "APZa2"
       ],
@@ -4845,6 +5048,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT116a"
       ],
@@ -4868,6 +5072,7 @@
       "semantic_field": "divine",
       "category": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT96a"
       ],
@@ -4889,6 +5094,7 @@
       "semantic_field": "administrative",
       "category": "accounting",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT122b",
         "HT131b"
@@ -4920,6 +5126,7 @@
       "semantic_field": "administrative",
       "category": "entity_or_divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT28b",
         "HT116a"
@@ -4938,6 +5145,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT96b"
       ],
@@ -4959,6 +5167,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT70"
       ],
@@ -4981,6 +5190,7 @@
       "semantic_field": "occupation",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8a",
         "HT8b",
@@ -5004,6 +5214,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "CRZf1",
         "KNWb33"
@@ -5027,6 +5238,7 @@
       "semantic_field": "body_part",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SKOZc1"
       ],
@@ -5044,6 +5256,7 @@
       "semantic_field": "vessel",
       "category": "vessel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT31"
       ],
@@ -5067,6 +5280,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Akkadian comparison",
+      "language_family": "Semitic",
       "attestations": [
         "HT118",
         "HT122b",
@@ -5086,6 +5300,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT86a"
       ],
@@ -5103,6 +5318,7 @@
       "semantic_field": "toponym",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT132"
       ],
@@ -5125,6 +5341,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MA1a",
         "MA1b"
@@ -5132,7 +5349,7 @@
       "sites": [
         "Malia"
       ],
-      "note": "MA 1a and 1b, the faces of one bar from the Malia palace: I-DU-WI · *47 · QE-DE-MI-NU and A-MA · *47 · QE-DE-MI-NU (GORILA I 268–269). QE-DE-MI-NU writes Qadmīnu, √q-d-m 'front, east, early' with -īnu, beside KA-DU-MA-NE Kadumānu (HT 29) with -ānu. Astour sets Kadmos, Kadmōn and Kadmaiōn beside W-S qdm and the Ugaritic name Qdmn (Hellenosemitica 152); Heb. qadmōnî names the Kadmonites (Gen 15:19). Weak point: QE for qa. Rival: a non-Semitic name, or a title after *47. One bar.",
+      "note": "MA 1a and 1b, the faces of one bar from the Malia palace: I-DU-WI · *47 · QE-DE-MI-NU and A-MA · *47 · QE-DE-MI-NU (GORILA I 268–269). QE-DE-MI-NU writes Qadmīnu, √q-d-m 'front, east, early' with -īnu, beside KA-DU-MA-NE Qadmān (HT 29) with -ān. Astour sets Kadmos, Kadmōn and Kadmaiōn beside W-S qdm and the Ugaritic name Qdmn (Hellenosemitica 152); Heb. qadmōnî names the Kadmonites (Gen 15:19). Weak point: QE for qa. Rival: a non-Semitic name, or a title after *47. One bar.",
       "source": "di Mino"
     },
     {
@@ -5146,6 +5363,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT1",
         "HT95a",
@@ -5172,6 +5390,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MAZe11"
       ],
@@ -5200,6 +5419,7 @@
       "semantic_field": "unknown",
       "category": "unknown",
       "language_layer": "Akkadian comparison",
+      "language_family": "Semitic",
       "attestations": [
         "HT7a"
       ],
@@ -5222,6 +5442,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT41a"
       ],
@@ -5244,6 +5465,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT12"
       ],
@@ -5264,6 +5486,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc6"
       ],
@@ -5272,20 +5495,21 @@
     },
     {
       "word": "RA-*314-RA",
-      "reading": "Rꜥ-Ḥr",
-      "meaning": "Ra-Horus (Egyptian theophoric personal name); rival raḥil 'ewe-lamb'",
-      "root": null,
+      "reading": "Raḥil",
+      "meaning": "personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'",
+      "root": "r-ḥ-l",
       "tier": 1,
       "confidence": "SPECULATIVE",
       "confidence_score": 0.3,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "Middle Egyptian",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3006"
       ],
-      "note": "HT Wc 3006, a roundel: WA-O-MI RA-*314-RA. Egyptian Rꜥ-Ḥr(w) 'Ra-Horus': RA writes Rꜥ, *314 the ḥ of Ḥr, RA its r. Rivals: rāḥēl 'ewe' (HALOT 1216), Arb. riḫl, raḫil 'ewe-lamb' (Lane 1059), Akk. laḫru (CAD L 42), a roundel commodity; a local name. One attestation.",
-      "source": "di Mino"
+      "note": "HT Wc 3006, a roundel: WA-O-MI / RA-*314-RA, no logogram. raḥil 'ewe' (semitic_roots no. 2267), Heb. rāḥēl 'ewe' (HALOT 1216) and the name Rachel (Gen 29:6); *314 writes the ḥ, RA the final l as in KU-RO kull. Rivals: the commodity 'ewe'; Egyptian ḥr-rꜥ 'Horus-Ra' (Ranke I, 249.15; PNM v6), Horus first. One witness.",
+      "source": "di Mino; HALOT 1216"
     },
     {
       "word": "RE",
@@ -5304,6 +5528,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH4a",
         "ARKH4b",
@@ -5345,6 +5570,7 @@
       "semantic_field": "unknown",
       "category": "unknown",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "POZc1"
       ],
@@ -5362,6 +5588,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT81",
         "HT115a"
@@ -5384,6 +5611,7 @@
       "semantic_field": "administrative",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT31"
       ],
@@ -5406,6 +5634,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS_or_Egyptian",
+      "language_family": "Afroasiatic",
       "attestations": [
         "HT88"
       ],
@@ -5428,6 +5657,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT39"
       ],
@@ -5450,6 +5680,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA5a",
         "ZA15a"
@@ -5471,6 +5702,7 @@
       "confidence_score": 0.4,
       "semantic_field": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT11b"
       ],
@@ -5495,6 +5727,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SAMWa1"
       ],
@@ -5517,6 +5750,7 @@
       "semantic_field": "administrative",
       "category": "title / institution",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT18",
         "HT28a",
@@ -5558,6 +5792,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT9a",
         "HT17",
@@ -5585,6 +5820,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT86a",
         "HT86b",
@@ -5607,6 +5843,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -5628,6 +5865,7 @@
       "semantic_field": "commodity",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT30",
         "HT106",
@@ -5748,6 +5986,7 @@
       "semantic_field": "administrative",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT34"
       ],
@@ -5769,6 +6008,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT17",
         "HT122a"
@@ -5787,6 +6027,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT126a"
       ],
@@ -5810,6 +6051,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTZb159",
         "PEZb3"
@@ -5836,6 +6078,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS + Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT110a"
       ],
@@ -5863,6 +6106,7 @@
       "semantic_field": "personnel",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWa1014",
         "HTWa1015",
@@ -5900,6 +6144,7 @@
       "semantic_field": "personnel",
       "category": "administrative_title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT116a"
       ],
@@ -5917,6 +6162,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8a"
       ],
@@ -5942,6 +6188,7 @@
       "semantic_field": "personal_name",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PHZb4"
       ],
@@ -5960,6 +6207,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA4a",
         "ZA5b",
@@ -5988,6 +6236,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2",
         "IOZa14",
@@ -6011,6 +6260,7 @@
       "semantic_field": "vessel",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT31"
       ],
@@ -6033,6 +6283,7 @@
       "semantic_field": "vessel",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT31"
       ],
@@ -6066,6 +6317,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8b"
       ],
@@ -6088,6 +6340,7 @@
       "semantic_field": "verbal",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2"
       ],
@@ -6110,6 +6363,7 @@
       "semantic_field": "verbal",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PRZa1"
       ],
@@ -6131,6 +6385,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10b",
         "HT49a",
@@ -6155,6 +6410,7 @@
       "semantic_field": "ritual",
       "category": "verb",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZa10"
       ],
@@ -6178,6 +6434,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS candidate",
+      "language_family": "Semitic",
       "attestations": [
         "PLZf1"
       ],
@@ -6202,6 +6459,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT89"
       ],
@@ -6224,6 +6482,7 @@
       "semantic_field": "kinship",
       "category": "kinship",
       "language_layer": "Anatolian",
+      "language_family": "Indo-European",
       "attestations": [
         "HT26a",
         "HT97a"
@@ -6242,6 +6501,7 @@
       "semantic_field": "commodity",
       "category": "logogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PE2",
         "HT126a",
@@ -6267,6 +6527,7 @@
       "semantic_field": "ritual",
       "category": "administrative_or_ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6a",
         "HT9a",
@@ -6339,6 +6600,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT8a",
         "HT98a"
@@ -6363,6 +6625,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -6385,6 +6648,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT27a"
       ],
@@ -6417,6 +6681,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT27a"
       ],
@@ -6434,6 +6699,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PE2"
       ],
@@ -6454,6 +6720,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT129"
       ],
@@ -6471,6 +6738,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa8",
         "PKZa14"
@@ -6495,6 +6763,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PORZf2"
       ],
@@ -6523,6 +6792,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KOZa1"
       ],
@@ -6546,6 +6816,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT49a"
       ],
@@ -6569,6 +6840,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH4b",
         "HT56a"
@@ -6592,6 +6864,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10b"
       ],
@@ -6613,6 +6886,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a",
         "HT28b"
@@ -6641,6 +6915,7 @@
       "semantic_field": "particle",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2",
         "IOZa9",
@@ -6671,6 +6946,7 @@
       "semantic_field": "verbal",
       "category": "libation_formula",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa12"
       ],
@@ -6693,6 +6969,7 @@
       "semantic_field": "personal_name",
       "category": "onomastic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PLZf1"
       ],
@@ -6710,6 +6987,7 @@
       "semantic_field": "personal_name",
       "category": "onomastic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT25a"
       ],
@@ -6730,6 +7008,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH9",
         "KH14",
@@ -6754,6 +7033,7 @@
       "semantic_field": "personnel",
       "category": "logogram",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "HT89",
         "HT100",
@@ -6776,6 +7056,7 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT28a",
         "HT88",
@@ -6802,6 +7083,7 @@
       "semantic_field": "personal_name",
       "category": "onomastic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PLZf1"
       ],
@@ -6824,6 +7106,7 @@
       "semantic_field": "demonstrative",
       "category": "grammar",
       "language_layer": "NWS/Canaanite-like",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc7"
       ],
@@ -6849,6 +7132,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa6",
         "HTWc3011",
@@ -6868,6 +7152,7 @@
       "semantic_field": "kinship",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT51b",
         "HT99b"
@@ -6891,6 +7176,7 @@
       "semantic_field": "personal_name",
       "category": "onomastic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZb52"
       ],
@@ -6913,6 +7199,7 @@
       "semantic_field": "toponym",
       "category": "spatial",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH7a"
       ],
@@ -6935,6 +7222,7 @@
       "semantic_field": "body_part",
       "category": "administrative",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "PE2"
       ],
@@ -6957,6 +7245,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT127b",
         "HT131a",
@@ -6990,6 +7279,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT11b",
         "HT140",
@@ -7017,6 +7307,7 @@
       "confidence_score": 0.3,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZf31"
       ],
@@ -7033,6 +7324,7 @@
       "confidence_score": 0.5,
       "semantic_field": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT116a",
         "KH88"
@@ -7051,6 +7343,7 @@
       "semantic_field": "ritual",
       "category": "grammar",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa2",
         "IOZa6",
@@ -7081,6 +7374,7 @@
       "semantic_field": "ritual",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -7104,6 +7398,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -7125,6 +7420,7 @@
       "confidence_score": 0.55,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -7147,6 +7443,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -7171,6 +7468,7 @@
       "confidence_score": 0.45,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -7192,6 +7490,7 @@
       "confidence_score": 0.45,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11",
         "PKZa12"
@@ -7214,6 +7513,7 @@
       "confidence_score": 0.5,
       "semantic_field": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11",
         "APZa2"
@@ -7237,6 +7537,7 @@
       "confidence_score": 0.65,
       "semantic_field": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa11"
       ],
@@ -7260,6 +7561,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT87"
       ],
@@ -7281,6 +7583,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT87",
         "HT117b"
@@ -7302,6 +7605,7 @@
       "semantic_field": "personnel",
       "category": "noun",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT27a"
       ],
@@ -7322,6 +7626,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT7a"
       ],
@@ -7342,6 +7647,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "KH10"
       ],
@@ -7365,6 +7671,7 @@
       "confidence_score": 0.45,
       "semantic_field": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT87"
       ],
@@ -7386,6 +7693,7 @@
       "confidence_score": 0.3,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA7a"
       ],
@@ -7403,6 +7711,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KN22a"
       ],
@@ -7420,6 +7729,7 @@
       "semantic_field": "administrative",
       "category": "personal_or_place_name",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "HT103"
       ],
@@ -7437,6 +7747,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT116a"
       ],
@@ -7457,6 +7768,7 @@
       "semantic_field": "administrative",
       "category": "entity_or_category",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT116a",
         "HT42+59"
@@ -7478,6 +7790,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWa1021"
       ],
@@ -7490,7 +7803,7 @@
       "meaning": "personal name, 'Her Ka endures' (Egyptian)",
       "root": "ḏd-kꜣ",
       "cognates": {
-        "Egyptian": "Ḏd-kꜣ-Rꜥ, Djedkare (ORAEC oraec2777, oraec3547); ḏd 'enduring', kꜣ 'ka'"
+        "Egyptian": "ḏd 'enduring' + kꜣ⸗s 'her ka', the type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s (PNM v6)"
       },
       "tier": 1,
       "confidence": "SPECULATIVE",
@@ -7498,11 +7811,12 @@
       "semantic_field": "personal_name",
       "category": "contact_name",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "ZAZb3"
       ],
-      "note": "ZA Zb 3: DI-DI-KA-SE before A-SA-MU-NE, Eshmun, under VIN 32. Egyptian ḏd-kꜣ + -s 'her', the pattern of Djedkare; DI-DI writes ḏd, as on DI-DI-ZA-KE (HT 1) and DI-DI-KO-RA-ME-TA₂ (ZA 11a). Weak point: no private Egyptian name ḏd-kꜣ.s is attested. Rival: Semitic dādī-kussē 'my beloved is the throne', which needs DI-DI for dādī. One attestation.",
-      "source": "di Mino"
+      "note": "ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6); DI-DI writes ḏd, SE ⸗s. Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1) and DI-DI-KO-RA-ME-TA₂ (ZA 11a). One witness.",
+      "source": "di Mino; Ilin-Tomich 2025 (PNM v6)"
     },
     {
       "word": "A-MA-WA-SI",
@@ -7519,6 +7833,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "CRZf1"
       ],
@@ -7543,6 +7858,7 @@
       "semantic_field": "divine",
       "category": "divine_epithet",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "CRZf1"
       ],
@@ -7564,6 +7880,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "CRZf1"
       ],
@@ -7584,6 +7901,7 @@
       "confidence_score": 0.3,
       "semantic_field": "material",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZf31"
       ],
@@ -7606,6 +7924,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH5"
       ],
@@ -7630,6 +7949,7 @@
       "confidence_score": 0.3,
       "semantic_field": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZAZb34",
         "PKZa16"
@@ -7650,6 +7970,7 @@
       "confidence_score": 0.25,
       "semantic_field": "ritual",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "ZAZb34"
       ],
@@ -7671,6 +7992,7 @@
       "confidence_score": 0.25,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZAZb34",
         "HT141"
@@ -7694,6 +8016,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT25a",
         "ZA8"
@@ -7712,6 +8035,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT25a"
       ],
@@ -7734,6 +8058,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH74"
       ],
@@ -7755,6 +8080,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH6"
       ],
@@ -7764,11 +8090,12 @@
     {
       "word": "QA-TI-JU",
       "reading": "Qātilu",
-      "meaning": "personal name, recipient of 8 (q-ṭ-l)",
-      "root": "q-ṭ-l",
+      "meaning": "Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'",
+      "root": "q-t-l",
       "cognates": {
-        "Hebrew": "קָטַל qāṭal \"kill\"",
-        "Aramaic": "qṭl \"kill\""
+        "Proto-Semitic": "*ḳtl 'kill' (semitic_roots 2498)",
+        "Safaitic": "qtl PN; Arabic Qātila, Qattāl (Harding 1971, 476)",
+        "Hurrian": "Katiya, ka-ti-ia, kad=i=ya 'He/She said', Mari (Monti 2017, 255); Nuzi Kataja, Qa-ta-a-a (NPN 224)"
       },
       "tier": 1,
       "confidence": "SPECULATIVE",
@@ -7776,11 +8103,12 @@
       "semantic_field": "personnel",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA14"
       ],
-      "note": "ZA 14: ME-KI-DI 1, *21F-*118 1, PU-NI-KA-*363 3, QA-TI-JU 8, KU-PI 1, TU-MI-TI-ZA-SE 45: a name slot among recipients. Word-internal JU = /lu/: qa-ti-lu, a qātil form of q-ṭ-l (Heb. qāṭal, Aram. qṭl 'kill'); ṭ in the T-series. QA-TI-DA-TE (HT 12) and QA-TI-KI (KH 7a) share two signs only. Rival: qāḍīyu 'judge' (Arab. qāḍī), which reads JU as /yu/. || Case unassigned: nothing here selects it (Fischer 2002, §140).",
-      "source": "di Mino",
+      "note": "ZA 14 QA-TI-JU 8, a name among recipients (ME-KI-DI 1, PU-NI-KA-*363 3, KU-PI 1, TU-MI-TI-ZA-SE 45). JU = /lu/: qa-ti-lu, the qātil participle of *ḳtl 'kill', a name in Safaitic qtl and Arabic Qātila (Harding 1971, 476). Rival: Hurrian Katiya 'He/She said' (Mari ka-ti-ia, Monti 2017, 255), reading JU as /yu/, on the stem of QA-TI-DA-TE Kati-tati. One witness. || Case unassigned: nothing here selects it (Fischer 2002, §140).",
+      "source": "di Mino; Harding 1971; Monti 2017",
       "related_forms": [
         "QA-TI-DA-TE (HT12)",
         "QA-TI-KI (KH7a)"
@@ -7803,6 +8131,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10a"
       ],
@@ -7831,6 +8160,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10a"
       ],
@@ -7858,6 +8188,7 @@
       "confidence_score": 0.3,
       "semantic_field": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZf31"
       ],
@@ -7884,6 +8215,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT90"
       ],
@@ -7907,6 +8239,7 @@
       "semantic_field": "animal",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT49a",
         "KH91"
@@ -7927,6 +8260,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "substrate",
+      "language_family": null,
       "attestations": [
         "HT30",
         "HT6a",
@@ -8008,6 +8342,7 @@
       "semantic_field": "ritual",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PHWc40",
         "KH97a"
@@ -8031,6 +8366,7 @@
       "semantic_field": "animal",
       "category": "commodity",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a",
         "HT37",
@@ -8060,6 +8396,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT3",
         "HT20",
@@ -8084,6 +8421,7 @@
       "confidence_score": 0.45,
       "semantic_field": "occupation",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT118"
       ],
@@ -8099,6 +8437,7 @@
       "confidence_score": 0.4,
       "semantic_field": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT94b"
       ],
@@ -8117,6 +8456,7 @@
       "confidence_score": 0.4,
       "semantic_field": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT3",
         "HT46a"
@@ -8141,6 +8481,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT56a",
         "HT114b",
@@ -8165,6 +8506,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a",
         "HT52a",
@@ -8189,6 +8531,7 @@
       "semantic_field": "administrative",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3014"
       ],
@@ -8213,6 +8556,7 @@
       "semantic_field": "divine",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "INZb1",
         "KAMZb1"
@@ -8237,6 +8581,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA20",
         "HTWa1019"
@@ -8262,6 +8607,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT13",
         "HT88",
@@ -8288,6 +8634,7 @@
       "semantic_field": "commodity",
       "category": "logogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT12",
         "HT23a",
@@ -8321,6 +8668,7 @@
       "semantic_field": "commodity",
       "category": "logogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT119",
         "HT154.",
@@ -8357,6 +8705,7 @@
       "semantic_field": "commodity",
       "category": "logogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a",
         "HT23b",
@@ -8380,6 +8729,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT133",
         "HT92",
@@ -8402,6 +8752,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT27b",
         "HT14",
@@ -8425,6 +8776,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT12",
         "HT14",
@@ -8445,6 +8797,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT50a",
         "HT91",
@@ -8467,6 +8820,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "unresolved",
+      "language_family": null,
       "attestations": [
         "HT50a",
         "HT101",
@@ -8485,6 +8839,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT25a",
         "HT85b",
@@ -8506,6 +8861,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT81",
         "HT93a",
@@ -8531,6 +8887,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT27a"
       ],
@@ -8559,6 +8916,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH12",
         "KH63",
@@ -8586,6 +8944,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT55a",
         "HT90"
@@ -8604,6 +8963,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT122a",
         "HT9a",
@@ -8622,6 +8982,7 @@
       "confidence_score": 0.4,
       "semantic_field": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT16",
         "HTWc3015",
@@ -8639,6 +9000,7 @@
       "confidence_score": 0.35,
       "semantic_field": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH92"
       ],
@@ -8660,6 +9022,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa11"
       ],
@@ -8677,6 +9040,7 @@
       "confidence_score": 0.5,
       "semantic_field": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6b"
       ],
@@ -8700,6 +9064,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT28b"
       ],
@@ -8721,6 +9086,7 @@
       "confidence_score": 0.35,
       "semantic_field": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT28a",
         "HT28b"
@@ -8744,6 +9110,7 @@
       "confidence_score": 0.25,
       "semantic_field": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA11b"
       ],
@@ -8761,6 +9128,7 @@
       "semantic_field": "commodity",
       "category": "logogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT114a",
         "HT121",
@@ -8787,6 +9155,7 @@
       "confidence_score": 0.4,
       "semantic_field": "administrative",
       "language_layer": "uncertain; Akkadian and Northwest Semitic comparison",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH6",
         "HT91",
@@ -8811,6 +9180,7 @@
       "confidence_score": 0.5,
       "semantic_field": "administrative",
       "language_layer": "NWS (PS *ḳupp-)",
+      "language_family": "Semitic",
       "attestations": [
         "HT110a",
         "KH29",
@@ -8829,6 +9199,7 @@
       "confidence_score": 0.7,
       "semantic_field": "administrative",
       "language_layer": "NWS (PS *raʔ(i)š-)",
+      "language_family": "Semitic",
       "attestations": [
         "HT110b",
         "KH100",
@@ -8847,6 +9218,7 @@
       "confidence_score": 0.4,
       "semantic_field": "administrative",
       "language_layer": "NWS (PS *zVrVʕ-)",
+      "language_family": "Semitic",
       "attestations": [
         "HT16"
       ],
@@ -8861,6 +9233,7 @@
       "confidence_score": 0.4,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -8876,6 +9249,7 @@
       "confidence_score": 0.65,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -8890,6 +9264,7 @@
       "confidence_score": 0.65,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -8904,6 +9279,7 @@
       "confidence_score": 0.85,
       "semantic_field": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -8919,6 +9295,7 @@
       "confidence_score": 0.4,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -8933,6 +9310,7 @@
       "confidence_score": 0.4,
       "semantic_field": "divine",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -8949,6 +9327,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "THE9"
       ],
@@ -8966,6 +9345,7 @@
       "semantic_field": "ritual",
       "category": "verb_phrase",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZAZg35"
       ],
@@ -8988,6 +9368,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "East Semitic (Akkadian substrate)",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH3a"
       ],
@@ -9009,6 +9390,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH2",
         "ARKH3a",
@@ -9034,6 +9416,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT123+124b"
       ],
@@ -9056,6 +9439,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PHWc40"
       ],
@@ -9078,6 +9462,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT34"
       ],
@@ -9101,6 +9486,7 @@
       "semantic_field": "vessel",
       "category": "vessel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA15b",
         "ZA4a"
@@ -9125,6 +9511,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH47"
       ],
@@ -9140,6 +9527,7 @@
       "confidence_score": 0.35,
       "semantic_field": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT11a",
         "KHWc2026",
@@ -9169,6 +9557,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT40"
       ],
@@ -9185,6 +9574,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "Akkadian loanword",
+      "language_family": "Semitic",
       "attestations": [
         "HT61",
         "HT128a",
@@ -9206,6 +9596,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT2",
         "HT21",
@@ -9233,6 +9624,7 @@
       "semantic_field": "ritual",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a",
         "HT28a",
@@ -9251,6 +9643,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a"
       ],
@@ -9268,6 +9661,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA15a"
       ],
@@ -9284,6 +9678,7 @@
       "semantic_field": "commodity",
       "category": "commodity ideogram",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "CRZg3",
         "KEZb5",
@@ -9303,6 +9698,7 @@
       "semantic_field": "personnel",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT127b",
         "HT26b"
@@ -9328,6 +9724,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKHZf9"
       ],
@@ -9349,6 +9746,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKHZf9"
       ],
@@ -9371,6 +9769,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "THEZb6"
       ],
@@ -9394,6 +9793,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a"
       ],
@@ -9420,6 +9820,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a",
         "HT123+124b"
@@ -9446,6 +9847,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a",
         "HT85a"
@@ -9478,6 +9880,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PE2"
       ],
@@ -9510,6 +9913,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name_candidate",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KO(?)Zf2"
       ],
@@ -9536,6 +9940,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PEZb3"
       ],
@@ -9564,6 +9969,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZb21"
       ],
@@ -9589,6 +9995,7 @@
       "semantic_field": "vessel",
       "category": "vessel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZc6",
         "HT31"
@@ -9613,6 +10020,7 @@
       "confidence_score": 0.5,
       "semantic_field": "material",
       "category": "vocabulary",
+      "language_family": null,
       "attestations": [
         "KH88"
       ],
@@ -9629,6 +10037,8 @@
       "confidence_score": 0.5,
       "semantic_field": "commodity",
       "category": "vocabulary",
+      "language_layer": "Semitic",
+      "language_family": "Semitic",
       "attestations": [
         "KH91"
       ],
@@ -9645,6 +10055,7 @@
       "confidence_score": 0.6,
       "semantic_field": "commodity",
       "category": "vocabulary",
+      "language_family": null,
       "attestations": [
         "HT100",
         "HT106",
@@ -9717,6 +10128,7 @@
       "confidence_score": 0.5,
       "semantic_field": "vessel",
       "category": "vocabulary",
+      "language_family": null,
       "attestations": [
         "KHWc2008",
         "KHWc2009",
@@ -9748,6 +10160,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZAZb3"
       ],
@@ -9769,6 +10182,8 @@
       "confidence_score": 0.3,
       "semantic_field": "commodity",
       "category": "vocabulary",
+      "language_layer": "Semitic",
+      "language_family": "Semitic",
       "attestations": [
         "HT23a"
       ],
@@ -9787,6 +10202,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT35",
         "ZAZb3"
@@ -9809,6 +10225,7 @@
       "semantic_field": "administrative",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT96a"
       ],
@@ -9831,6 +10248,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTZd155",
         "HTZd157+156"
@@ -9849,6 +10267,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10a"
       ],
@@ -9866,6 +10285,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT29",
         "HT99b"
@@ -9884,6 +10304,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -9904,6 +10325,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -9928,6 +10350,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH10"
       ],
@@ -9945,6 +10368,7 @@
       "semantic_field": "personnel",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KHWa1013",
         "KHWa1014",
@@ -9966,6 +10390,7 @@
       "semantic_field": "personal_name",
       "category": "onomastic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH6"
       ],
@@ -9994,6 +10419,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT98b"
       ],
@@ -10023,6 +10449,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10b"
       ],
@@ -10048,6 +10475,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "substrate",
+      "language_family": null,
       "attestations": [
         "HT24a"
       ],
@@ -10070,6 +10498,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PE2"
       ],
@@ -10091,6 +10520,7 @@
       "semantic_field": "personal_name",
       "category": "personal_or_institutional_name",
       "language_layer": "Amorite_or_Aegean",
+      "language_family": null,
       "attestations": [
         "HT88"
       ],
@@ -10115,6 +10545,7 @@
       "semantic_field": "commodity",
       "category": "vessel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6a"
       ],
@@ -10135,6 +10566,7 @@
       "semantic_field": "personnel",
       "category": "vocabulary",
       "language_layer": "contact",
+      "language_family": null,
       "attestations": [
         "HTWc3011",
         "HTWc3012"
@@ -10153,6 +10585,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MAWc<5>"
       ],
@@ -10174,6 +10607,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SKZb1"
       ],
@@ -10189,6 +10623,7 @@
       "confidence_score": 0.2,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -10203,6 +10638,7 @@
       "confidence_score": 0.2,
       "semantic_field": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "LMP-Spell33"
       ],
@@ -10225,6 +10661,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH6"
       ],
@@ -10250,6 +10687,7 @@
       "semantic_field": "toponym",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH6",
         "HT141"
@@ -10278,6 +10716,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH6"
       ],
@@ -10304,6 +10743,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH6"
       ],
@@ -10332,6 +10772,7 @@
       "semantic_field": "particle",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH6",
         "HT103"
@@ -10359,6 +10800,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "substrate",
+      "language_family": null,
       "attestations": [
         "HT117a"
       ],
@@ -10387,6 +10829,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Akkadian comparison",
+      "language_family": "Semitic",
       "attestations": [
         "HT39",
         "HT117b"
@@ -10416,6 +10859,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT19"
       ],
@@ -10444,6 +10888,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA4a"
       ],
@@ -10471,6 +10916,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT25b",
         "IOZa12"
@@ -10490,6 +10936,7 @@
       "semantic_field": "verbal",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "IOZa6"
       ],
@@ -10512,6 +10959,7 @@
       "semantic_field": "particle",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PKZa8"
       ],
@@ -10534,6 +10982,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTZb159"
       ],
@@ -10559,6 +11008,7 @@
       "confidence_score": 0.2,
       "semantic_field": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3010"
       ],
@@ -10579,6 +11029,7 @@
       "confidence_score": 0.2,
       "semantic_field": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3009"
       ],
@@ -10599,6 +11050,7 @@
       "confidence_score": 0.25,
       "semantic_field": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MOZf1"
       ],
@@ -10617,6 +11069,7 @@
       "semantic_field": "verbal",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa9"
       ],
@@ -10639,6 +11092,7 @@
       "semantic_field": "verbal",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa9"
       ],
@@ -10661,6 +11115,7 @@
       "semantic_field": "verbal",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa9"
       ],
@@ -10689,6 +11144,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "THEZb2"
       ],
@@ -10715,6 +11171,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "CRZg4"
       ],
@@ -10737,6 +11194,7 @@
       "semantic_field": "ritual",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZb4",
         "PEZc4"
@@ -10747,9 +11205,11 @@
     {
       "word": "NU-TI",
       "reading": "nuti",
-      "meaning": "townsmen, citizens (heading before the logogram for men); rival Semitic nātîn 'those given'",
-      "root": null,
+      "meaning": "the given ones, a personnel class (√n-t-n), heading before men; rival Egyptian nʾ.tjw 'townsmen'",
+      "root": "n-t-n",
       "cognates": {
+        "Ugaritic": "ytn (I) 'a group or social class', spr ytnm 'register of the y.' (KTU 4.93:1; DULAT 977)",
+        "Hebrew": "nətînîm 'temple servants' (Ezra 2:43)",
         "Egyptian": "nʾ.tjw 'townsmen; citizens', nisbe of nʾ.t 'town' (AED lemma 81110; Wb 2, 213.1–4); as a personal name Nʾ.tjw (RPN I 169.6)"
       },
       "tier": 2,
@@ -10757,13 +11217,14 @@
       "confidence_score": 0.5,
       "semantic_field": "administrative",
       "category": "vocabulary",
-      "language_layer": "Middle Egyptian",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA9",
         "HT84"
       ],
-      "note": "HT 84 *21F-JA-DU / NU-TI · VIR+[?], whole, a heading directly before the logogram for men; ZA 9 ]-NU-TI ·, broken before NU, heads an allocation list (RA, ]RO-SI-RA, A-TA-NA-[·], [·]-MA-JU, WI-RA-RE-MI-TE with QI+SI and *21F). Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110; Wb 2, 213.1–4), n-w-t consonant for consonant, as PA-JA-RE and JA-MI-DA-RE stand on Haghia Triada lists. Rival: √n-t-n 'those given', Ugaritic ytnm 'temple slaves' (DULAT 977), Aramaic nātîn 'temple servant', which needs a final -n unwritten and mismatches the first vowel. Ugaritic únt 'corvée' would be spelled U-NU-TI.",
-      "source": "di Mino"
+      "note": "HT 84 *21F-JA-DU / NU-TI · VIR+[?], whole, a heading before the logogram for men; ZA 9 ]-NU-TI ·, broken before NU, heads an allocation list. Ugaritic ytn (I), a personnel class, heads the register spr ytnm (KTU 4.93:1; DULAT 977); Hebrew nətînîm; n-t-n as in NA-TU-*301-NE. Rival: Egyptian nʾ.tjw 'townsmen; citizens' (AED lemma 81110; Wb 2, 213.1–4).",
+      "source": "di Mino; DULAT 977; AED lemma 81110"
     },
     {
       "word": "JA-SI-E",
@@ -10776,6 +11237,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KEZb4"
       ],
@@ -10799,6 +11261,7 @@
       "semantic_field": "toponym",
       "category": "gentilic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZb5"
       ],
@@ -10819,6 +11282,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -10836,6 +11300,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH9",
         "PYRWc4"
@@ -10857,6 +11322,7 @@
       "semantic_field": "toponym",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT97a",
         "HT75"
@@ -10881,6 +11347,7 @@
       "semantic_field": "personnel",
       "category": "noun",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6b",
         "HT85b"
@@ -10907,6 +11374,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115b"
       ],
@@ -10930,6 +11398,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a",
         "HT115b"
@@ -10951,6 +11420,7 @@
       "semantic_field": "personnel_group",
       "category": "personnel",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT119"
       ],
@@ -10974,6 +11444,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT119"
       ],
@@ -10996,6 +11467,7 @@
       "semantic_field": "divine",
       "category": "divine_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "TY3b"
       ],
@@ -11013,6 +11485,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "pre-Greek/Minoan toponym",
+      "language_family": null,
       "attestations": [
         "PRZa1"
       ],
@@ -11035,6 +11508,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "PK1"
       ],
@@ -11058,6 +11532,7 @@
       "semantic_field": "verbal",
       "category": "verb",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZb40"
       ],
@@ -11080,6 +11555,7 @@
       "semantic_field": "particle",
       "category": "particle",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZb40"
       ],
@@ -11101,6 +11577,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT123+124a"
       ],
@@ -11122,6 +11599,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH2"
       ],
@@ -11145,6 +11623,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH5"
       ],
@@ -11165,6 +11644,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT9a",
         "HT9b",
@@ -11188,6 +11668,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115b"
       ],
@@ -11209,6 +11690,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "MA2b"
       ],
@@ -11229,6 +11711,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KN1a"
       ],
@@ -11249,6 +11732,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT62+73"
       ],
@@ -11272,6 +11756,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT20"
       ],
@@ -11294,6 +11779,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT28a"
       ],
@@ -11316,6 +11802,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT85b"
       ],
@@ -11337,6 +11824,7 @@
       "semantic_field": "vessel",
       "category": "vocabulary",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "MIZb1"
       ],
@@ -11346,19 +11834,20 @@
     {
       "word": "TA₂-TA-RE",
       "reading": "Tatare",
-      "meaning": "personal name; compare Linear B ta-ta-ro",
+      "meaning": "personal name (Hurrian?); compare Linear B ta-ta-ro, Mari ᶠTatara",
       "root": null,
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.5,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "Minoan_Aegean",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "PK1"
       ],
-      "note": "PK 1 .2 TA₂-TA-RE 1, a single-unit entry in a column of names, TA₂ distinct from TA (GORILA I 281). Linear B ta-ta-ro is a man on the Knossos roster KN As(1) 607.2 (VIR 1), also KN Pp 498, Xd 8605 and PY Eb 874, Ep 301.6, Eo 224.7. Final -RE answers Linear B -ro as in A-RA-NA-RE / a-ra-na-ro (KN As 1516), PA-JA-RE / pa-ja-ro (KN As 1519) and NA-DA-RE / no-da-ro (KN As 609), all on the same roster series. The Greek gloss Tantalos is the Mycenologists'; no Semitic etymology; possibly a name from another language of Crete. One attestation.",
-      "source": "KN As(1) 607.2; di Mino"
+      "note": "PK 1 .2 TA₂-TA-RE 1, a single-unit entry in a column of names, TA₂ distinct from TA (GORILA I 281). Linear B ta-ta-ro is a man on the Knossos roster KN As(1) 607.2 (VIR 1), also KN Pp 498, Xd 8605 and PY Eb 874, Ep 301.6, Eo 224.7. Final -RE answers Linear B -ro as in A-RA-NA-RE / a-ra-na-ro (KN As 1516), PA-JA-RE / pa-ja-ro (KN As 1519) and NA-DA-RE / no-da-ro (KN As 609), all on the same roster series. Mari ᶠTatara, ta-da-ra, a woman, Hurrian with a query (Sasson 1974, 370; ARM XVI/1, 201; Monti 2017, 302); TA₂-TI-TE Tati-te, Hurrian, two lines below. The Greek gloss Tantalos is the Mycenologists'. One attestation.",
+      "source": "KN As(1) 607.2; di Mino; Monti 2017"
     },
     {
       "word": "DU-DA-MA",
@@ -11378,6 +11867,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6b"
       ],
@@ -11386,20 +11876,21 @@
     },
     {
       "word": "KA-SA-RU",
-      "reading": "Kasaru",
-      "meaning": "personal name; compare Linear B ka-sa-ro",
-      "root": null,
+      "reading": "Qaṣṣāru",
+      "meaning": "Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver'",
+      "root": "q-ṣ-r",
       "tier": 2,
       "confidence": "CANDIDATE",
       "confidence_score": 0.45,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "Minoan_Aegean",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10b"
       ],
-      "note": "HT 10b .3 KA-SA-RU 6, a personnel entry on a face written over an erasure; the three signs are clear (GORILA I 21). Linear B ka-sa-ro is a man's name at Knossos (KN C(2) 912.8, Dv 1450), with no Greek interpretation. Final -RU against Linear B -ro, as I-TA-NU against u-ta-no. Ugarit has DUMU ka-ša₂-ri (ORACC P503760). The root is open (k-š-r, q-ṣ-r, g-z-r); a reading as Kothar would need S for ṯ, against KA-TA-RE. One attestation.",
-      "source": "KN C(2) 912.8; KN Dv 1450; di Mino"
+      "note": "HT 10b .3 KA-SA-RU 6, a personnel entry on a face written over an erasure; the three signs are clear (GORILA I 21). Ebla ga-za-ru₁₂, read /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980), sign for sign with its vowels. Linear B ka-sa-ro is a man's name at Knossos (KN C(2) 912.8, Dv 1450), with no Greek interpretation; final -RU against Linear B -ro, as I-TA-NU against u-ta-no. Ugarit has DUMU ka-ša₂-ri (ORACC P503760). Rivals: Kaṣṣāru 'donkey driver'; Amorite Kašerum (Gelb 1980, no. 4000), √kṯr (semitic_roots no. 3548), which needs S for ṯ, against KA-TA-RE. One attestation.",
+      "source": "KN C(2) 912.8; KN Dv 1450; di Mino; Pagan 1998"
     },
     {
       "word": "MA-SI-DU",
@@ -11416,6 +11907,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT43"
       ],
@@ -11437,6 +11929,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT11b"
       ],
@@ -11454,6 +11947,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Minoan_Aegean",
+      "language_family": null,
       "attestations": [
         "HT96a"
       ],
@@ -11471,6 +11965,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Minoan_Aegean",
+      "language_family": null,
       "attestations": [
         "ZAWc2"
       ],
@@ -11492,6 +11987,7 @@
       "semantic_field": "commodity",
       "category": "vocabulary",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT30"
       ],
@@ -11509,6 +12005,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "contact",
+      "language_family": null,
       "attestations": [
         "HT13",
         "HT85a"
@@ -11527,6 +12024,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
       "attestations": [
         "HT41a"
       ],
@@ -11544,6 +12042,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT9a",
         "HT9b",
@@ -11563,6 +12062,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3004",
         "HTWc3005"
@@ -11581,6 +12081,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZg55"
       ],
@@ -11598,6 +12099,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "Minoan_Aegean",
+      "language_family": null,
       "attestations": [
         "HT146"
       ],
@@ -11621,6 +12123,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "contact",
+      "language_family": null,
       "attestations": [
         "KNZe16"
       ],
@@ -11629,20 +12132,21 @@
     },
     {
       "word": "KU-PA₃-RI-JA",
-      "reading": "Gubliya",
-      "meaning": "the Byblian, (wool) of Byblos: a section heading",
-      "root": "g-b-l",
+      "reading": "Kubariya",
+      "meaning": "Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian'",
+      "root": null,
       "tier": 1,
       "confidence": "SPECULATIVE",
       "confidence_score": 0.3,
       "semantic_field": "toponym",
-      "category": "gentilic",
+      "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT24a"
       ],
-      "note": "HT 24a .1 KU-PA₃-RI-JA · KI-MA+RU[, the heading of a wool inventory; PA-SA-RI-JA heads the second section at .4. Gubla with the gentilic -iya: Amorite GUBL-AJ-I and GUBL-AJIT-UM (Gelb 1980, nos. 1793–1795) and Gubla in Gelb's glossary; Akkadian Gublaya 'Byblian' at Ugarit (ORACC P503838); Hebrew gibli 'Gebalite'; Ugaritic gbl 'Byblos' (DULAT 290). KU writes g, PA₃ b, RI l. Rival: the Ugaritic place kbry, syllabic URU ku-ba-ri-ia-a (DULAT 424). One document.",
-      "source": "di Mino"
+      "note": "HT 24a .1 KU-PA₃-RI-JA · KI-MA+RU[, the heading of a wool inventory; PA-SA-RI-JA heads the second section at .4. Kubariya, a town of the kingdom of Ugarit: alphabetic kbry (KTU 4.800 II 18), syllabic URU ku-ba-ri-ia-a in the town list RS 25.455A+ I 4, as van Soldt reads it, where Arnaud read URU šu-ma-ri-a (DULAT 424; RGTC 12/2, 165). KU-PA₃-RI-JA writes ku-ba-ri-ia sign for sign, PA₃ for b. The same list names Baṣīru at I 10 (RGTC 12/2, 53). Rival: Gubliya 'the Byblian', Gubla with the gentilic -iya: Amorite GUBL-AJ-I and GUBL-AJIT-UM (Gelb 1980, nos. 1793–1795); Akkadian Gublaya 'Byblian' at Ugarit (ORACC P503838); Hebrew gibli 'Gebalite'; Ugaritic gbl 'Byblos' (DULAT 290), with RI for l. One document.",
+      "source": "di Mino; DULAT; RGTC 12/2"
     },
     {
       "word": "DE-JU-KU",
@@ -11655,6 +12159,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT93a"
       ],
@@ -11672,6 +12177,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10b"
       ],
@@ -11689,6 +12195,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA14"
       ],
@@ -11706,6 +12213,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6a"
       ],
@@ -11723,6 +12231,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115b"
       ],
@@ -11740,6 +12249,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a",
         "HT85a",
@@ -11760,6 +12270,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT108"
       ],
@@ -11777,6 +12288,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT1"
       ],
@@ -11794,6 +12306,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT123+124b",
         "KH6"
@@ -11812,6 +12325,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Eblaite",
+      "language_family": "Semitic",
       "attestations": [
         "HT104"
       ],
@@ -11829,6 +12343,7 @@
       "semantic_field": "personal_name",
       "category": "compound_phrase",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KNZf13"
       ],
@@ -11850,6 +12365,7 @@
       ],
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "semantic_field": "commodity",
       "cognates": {
         "Proto-Semitic": "*parw- ~ *parr- 'skin, shell, husk' (SED I No. 217)",
@@ -11874,6 +12390,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT13",
         "HT122a"
@@ -11892,6 +12409,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT85a"
       ],
@@ -11913,6 +12431,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT9a",
         "HT9b"
@@ -11935,6 +12454,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HTWc3001",
         "HTWc3002"
@@ -11958,6 +12478,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "SYZa6"
       ],
@@ -11978,6 +12499,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT29"
       ],
@@ -12002,6 +12524,7 @@
       "semantic_field": "personnel",
       "category": "gentilic",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA15a"
       ],
@@ -12024,6 +12547,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH4b"
       ],
@@ -12044,6 +12568,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT11a"
       ],
@@ -12066,6 +12591,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10b"
       ],
@@ -12088,6 +12614,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "Akkadian",
+      "language_family": "Semitic",
       "attestations": [
         "HT88"
       ],
@@ -12110,6 +12637,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT98a"
       ],
@@ -12132,6 +12660,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT111b"
       ],
@@ -12153,6 +12682,7 @@
       "semantic_field": "ritual",
       "category": "ritual",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a"
       ],
@@ -12175,6 +12705,7 @@
       "semantic_field": "personnel",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "GO2r"
       ],
@@ -12194,11 +12725,12 @@
       "confidence_score": 0.3,
       "semantic_field": "personnel",
       "category": "personal_name",
-      "language_layer": "unresolved",
+      "language_layer": "Semitic",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
-      "note": "HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). DA at its primary value d gives dmn; the syllabic ZI-me-nu has the same three syllables. DULAT gives no etymology, so the language stays open. Rival: Ugaritic tmn (II), ta-me-nu, which needs DA for t. Second analysis: DA = the determinative-relative ḏā 'the one of' + MI-NU, a 'he of X' name written as one word, as DU-RU-WI ḏu-lēwī is. The type: Amorite Zu-i-la 'He of God' (Gelb no. 6596), Zu-dIš-ḫa-ra 'He of Išḫara' (no. 6598), on ḏu 'he/she of', written ZU (Gelb 1980, 18); Nabataean dwšrʾ, Δουσαρης 'He of the Šarā', probably dišar (Macdonald, in Al-Jallad 2022, 95–96); Hebrew zeh sînay 'the One of Sinai' (Judg 5:5). MI-NU is from √m-n-y 'count, allot', the portion and fate (PS *maniy-at-, no. 2703): Amorite manawum, manūtum (Gelb 1980, 25), Arab. Manāt (Q 53:20); cf. MI-NE Mīnō in DA-DU-MI-NE. Or from √m-n-n 'bestow, favor': Heb. mān 'manna' (Exod 16:31). Hence dā-Mīnu 'He of the Portion' or 'He of the Favor'. MI- stands for Amorite ma-, as in MI-NU-TE against Ma-nu-tum (Gelb no. 4528). Cf. LB da-mi-ni-jo, a shepherd at Knossos (DMic I).",
+      "note": "HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). DA at its primary value d gives dmn; the syllabic ZI-me-nu has the same three syllables. DULAT gives no etymology, and the one analysis on offer, below, is Semitic. Rival: Ugaritic tmn (II), ta-me-nu, which needs DA for t. Second analysis: DA = the determinative-relative ḏā 'the one of' + MI-NU, a 'he of X' name written as one word, as DU-RU-WI ḏu-lēwī is. The type: Amorite Zu-i-la 'He of God' (Gelb no. 6596), Zu-dIš-ḫa-ra 'He of Išḫara' (no. 6598), on ḏu 'he/she of', written ZU (Gelb 1980, 18); Nabataean dwšrʾ, Δουσαρης 'He of the Šarā', probably dišar (Macdonald, in Al-Jallad 2022, 95–96); Hebrew zeh sînay 'the One of Sinai' (Judg 5:5). MI-NU is from √m-n-y 'count, allot', the portion and fate (PS *maniy-at-, no. 2703): Amorite manawum, manūtum (Gelb 1980, 25), Arab. Manāt (Q 53:20); cf. MI-NE Mīnō in DA-DU-MI-NE. Or from √m-n-n 'bestow, favor': Heb. mān 'manna' (Exod 16:31). Hence dā-Mīnu 'He of the Portion' or 'He of the Favor'. MI- stands for Amorite ma-, as in MI-NU-TE against Ma-nu-tum (Gelb no. 4528). Cf. LB da-mi-ni-jo, a shepherd at Knossos (DMic I).",
       "source": "di Mino; DULAT"
     },
     {
@@ -12217,6 +12749,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT126a"
       ],
@@ -12239,6 +12772,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT117a"
       ],
@@ -12261,6 +12795,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT6a",
         "HT88"
@@ -12285,6 +12820,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10a",
         "ZA8"
@@ -12309,6 +12845,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PYR1"
       ],
@@ -12332,6 +12869,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT13"
       ],
@@ -12354,6 +12892,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH14"
       ],
@@ -12377,6 +12916,7 @@
       "semantic_field": "administrative",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT21"
       ],
@@ -12400,6 +12940,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT20"
       ],
@@ -12422,6 +12963,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH2"
       ],
@@ -12444,6 +12986,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PE6"
       ],
@@ -12467,6 +13010,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a"
       ],
@@ -12489,6 +13033,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA14"
       ],
@@ -12512,6 +13057,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115b"
       ],
@@ -12534,6 +13080,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT96a"
       ],
@@ -12555,6 +13102,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KN32a"
       ],
@@ -12577,6 +13125,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH20"
       ],
@@ -12599,6 +13148,7 @@
       "semantic_field": "textile",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA20"
       ],
@@ -12621,6 +13171,7 @@
       "semantic_field": "occupation",
       "category": "occupation",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT25a"
       ],
@@ -12643,6 +13194,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ARKH2"
       ],
@@ -12665,6 +13217,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT10a",
         "HT85b"
@@ -12688,6 +13241,7 @@
       "semantic_field": "personnel",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT104"
       ],
@@ -12710,6 +13264,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PH24"
       ],
@@ -12732,6 +13287,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "ZA10b"
       ],
@@ -12753,6 +13309,7 @@
       "semantic_field": "administrative",
       "category": "administrative",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "KH7a"
       ],
@@ -12775,6 +13332,7 @@
       "semantic_field": "toponym",
       "category": "toponym",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT64"
       ],
@@ -12795,6 +13353,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "PH2"
       ],
@@ -12816,6 +13375,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT9a",
         "HT49a"
@@ -12838,6 +13398,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "PHWc39"
       ],
@@ -12858,6 +13419,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT7a"
       ],
@@ -12879,6 +13441,7 @@
       "semantic_field": "personnel",
       "category": "title",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT55a"
       ],
@@ -12899,11 +13462,12 @@
       "confidence_score": 0.3,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "unresolved",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "HT117a"
       ],
-      "note": "HT 117a .7 SA-TA ·, whole and undotted, heading the second section over five names with 1 each, in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI holds in the first (GORILA I 197). ša-ta on primary values, sign for sign as the Nuzi name Ša-a-ta, Ša-ta (NPN 126), which NPN leaves unclassed. Rival: śadā '(those of) the field', TA writing d as the T class allows, the root of SA-DI šadī (semitic_roots no. 1804; DULAT 795), since HT 87 and HT 117b put group terms in this slot. One witness.",
+      "note": "HT 117a .7 SA-TA ·, whole and undotted, heading the second section over five names with 1 each, in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI holds in the first (GORILA I 197). ša-ta on primary values, sign for sign as the Nuzi name Ša-a-ta, Ša-ta (NPN 126), which NPN files under the Hurrian element šat (NPN 252). Rival: śadā '(those of) the field', TA writing d as the T class allows, the root of SA-DI šadī (semitic_roots no. 1804; DULAT 795), since HT 87 and HT 117b put group terms in this slot. One witness.",
       "source": "di Mino; NPN"
     },
     {
@@ -12920,6 +13484,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "KAZf1"
       ],
@@ -12943,6 +13508,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT115a"
       ],
@@ -12965,6 +13531,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT20"
       ],
@@ -12986,6 +13553,7 @@
       "semantic_field": "commodity",
       "category": "commodity",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3017"
       ],
@@ -13008,6 +13576,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HTWc3007",
         "HTWc3008"
@@ -13029,11 +13598,12 @@
       "confidence_score": 0.3,
       "semantic_field": "personal_name",
       "category": "personal_name",
-      "language_layer": "unresolved",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "CRZg4"
       ],
-      "note": "CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net relief, face a I-DA-DA, read from the impression, the signs whole (Younger, Linear A Texts, citing Raison–Pope 1994, 242–43). A seal names its owner: Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), with A for ḫa as in A-RU Ḫaru; TE for ti is a vowel mismatch only. Linear B a-ro-te (PY La 622) is obscure (Killen). Rival: ʾālôt 'oaths, curses' on primary values, the plural of ʾālāh (Deut 29:20; 2 Chr 34:24), whose ō needs the Canaanite shift. One witness.",
+      "note": "CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net relief, face a I-DA-DA, read from the impression, the signs whole (Younger, Linear A Texts, citing Raison–Pope 1994, 242–43). A seal names its owner: Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), on the Hurrian element ḫal(u)- (NPN 212–213), with A for ḫa as in A-RU Ḫaru; TE for ti is a vowel mismatch only. Linear B a-ro-te (PY La 622) is obscure (Killen). Rival: ʾālôt 'oaths, curses' on primary values, the plural of ʾālāh (Deut 29:20; 2 Chr 34:24), whose ō needs the Canaanite shift. One witness.",
       "source": "di Mino; NPN"
     },
     {
@@ -13050,6 +13620,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "ZA8"
       ],
@@ -13070,6 +13641,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "PK1"
       ],
@@ -13090,6 +13662,7 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
       "attestations": [
         "KH10"
       ],
@@ -13112,11 +13685,459 @@
       "semantic_field": "personal_name",
       "category": "personal_name",
       "language_layer": "NWS",
+      "language_family": "Semitic",
       "attestations": [
         "HT63"
       ],
       "note": "HT 63 .1 SU-PU₂, whole and undotted, the third entry under *305 · TE 1, after KA-TI 1, against the tablet's upper right corner; no numeral survives, and GORILA's normalized line brackets the end, SU-PU₂[ (GORILA I 118–119). ṣu-bu, PU₂ for bu as in DU-PU₂-RE dubur, the final ʾu unwritten as in TA-PA tappāʾu: the Amorite name Ṣubʾu (Gelb 1980, AS 21, 652). Linear B su-po (KN Dc 5812) and su-pu-wo (KN C 912) are men's names at Knossos (DMic II 304). HT 8b .1 SU-PU₂ *188 1 may be the same word before the logogram (SU-PU₂-*188). Rival: ṣābu 'workers, troop' (semitic_roots no. 1333), a collective under the personnel sign *305. One witness.",
       "source": "di Mino; Gelb 1980; Pagan 1998; DMic II"
+    },
+    {
+      "word": "MI-ZA-SE",
+      "reading": "mizza-se",
+      "meaning": "for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA",
+      "root": "m-s-s",
+      "cognates": {
+        "Proto-Semitic": "*mass- 'forced labor, corvée levy, labor gang' (semitic_roots S31)",
+        "Akkadian": "massu 'corvée worker': idi LÚ.MEŠ ma-zi 'wages for the corvée workers' (CAD M/1 327)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "title",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "ZA15a"
+      ],
+      "note": "ZA 15a .4 MI-ZA-SE 3, first entry under ME+VIN in a wine issue, beside *363-KE-MA-SE Šakma-se (GORILA III 183). The corvée word of MA-ZA mazza (ZA 10b) and ME-ZA massu (HT 10a, HT 85b), MI for ma is a vowel mismatch only. -SE the terminative 'to, for': Akkadian -iš = ana + genitive (Huehnergard 2011, 311). Rival gloss '(men) of the corvée', -SE as the Luwian possessive -ass(a/i)- (Yakubovich 2015, 13); rival name the Edomite Mizzâ (Gen 36:13).",
+      "source": "di Mino; CAD M/1; Huehnergard 2011"
+    },
+    {
+      "word": "I-TI-NI-SA",
+      "reading": "ʾItniša",
+      "meaning": "ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'",
+      "root": "y-t-n",
+      "cognates": {
+        "Proto-Semitic": "*ytn ~ *ntn 'give' (semitic_roots 2608)",
+        "Amorite": "IT-NU-ŠA, Mari (Gelb 1980, AS 21, 610, no. 3828)",
+        "Ugaritic": "ỉtn PN, syll. it-ta-na[; ỉtnn 'present' (DULAT 119)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "ZA15a"
+      ],
+      "note": "ZA 15a .2 I-TI-NI-SA 10, intact, second entry under the first wine heading, after QE-SI-ZU-E 57 (GORILA III 183). ʾi-t-n-ša sign for sign as the Mari name IT-NU-ŠA (Gelb 1980, AS 21, 610); NI for nu is a vowel mismatch only. I-TI is not the preposition ʾitti, which cannot head a counted entry. Rival: ʾitnī-ša 'her gift (portion)', Ugaritic ỉtnn 'present' (DULAT 119). One witness.",
+      "source": "di Mino; Gelb 1980; DULAT"
+    },
+    {
+      "word": "QA-TI-DA-TE",
+      "reading": "Kati-tati",
+      "meaning": "Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "kat-: Nuzi Kataia, Qa-ta-a-a, and Katiri, Qa-ti-ri (NPN 224); -tati: Ḫamar-tati, Šenna-tati, also Še-en-da-ti (NPN 263); tat 'love' (NPN 263)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "HT12"
+      ],
+      "note": "HT 12 .1 QA-TI-DA-TE · OLE+DI 5, the heading of an issue of oils, fats, wool and figs totalled DA-I 50 (GORILA I 25). qa-ti-da-te: Nuzi writes kat- with QA (Qa-ti-ri, NPN 224) and -tati with DA (Še-en-da-ti, NPN 263). A recipient heading a mixed issue, as A-PU₂-NA-DU on HT 14. Rival: katītat 'beaten (oil)', √k-t-t (semitic_roots 3644), Hebrew šemen kātît (Exod 27:20), an adjective only. One witness.",
+      "source": "di Mino; NPN"
+    },
+    {
+      "word": "KU-PA-ZU",
+      "reading": "Kapizzi",
+      "meaning": "Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "Kapizza, ka-bi-iz-za 'Like the kapizzi-jewel', and Kapizz(i)-atal, Šubat-Enlil (Monti 2017, 345–346)",
+        "Ugarit": "Kapizzi, ¹ka-bi-iz-zi, RS 16.257 III 39 (Kinlaw 1967, 71)",
+        "Ugaritic": "kpṯ, Akkadian kub/pšu 'headdress' (DULAT 448–449)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "KH5"
+      ],
+      "note": "KH 5 .3 KU-PA-ZU, after WI-NA-DU · *301-NA ·, before a cyperus entry on .4 (GORILA III 25). ZU = zu, as in RU-ZU-NA: the Ugarit name ka-bi-iz-zi, Hurrian kabizzi 'jewel' (Monti 2017, 346), KU-PA for ka-bi a vowel mismatch only. DULAT 424 sets ka-bi-iz-zi beside kbs 'fuller', which ZU cannot spell. Rival on ZU = ṯu: kupṯu 'headdress', Ug. kpṯ, Akk. kub/pšu (DULAT 448–449). The edge with KU-PA quppa is chance. One witness.",
+      "source": "di Mino; Monti 2017; Kinlaw 1967"
+    },
+    {
+      "word": "QA-TI-KI",
+      "reading": "Kattike",
+      "meaning": "Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "kat, katt and the formative -ke, var. -ki (Inniki, Unniki, Zirriki), Nuzi Qa-ti-ri (NPN 224); kad- I, katt- 'to say' (Richter 2012, 195); Mari Katiya, Kattiri (Monti 2017, 255, 432)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "KH7a"
+      ],
+      "note": "KH 7a .4 QA-TI-KI VIR+*313b 4, CYP+D ⅓, the entry under I-JA-PA-ME · TA-TA · (GORILA III 29). kat(t)- + the formative -ki (NPN 224), on kad- 'to say' (Richter 2012, 195). Nuzi writes the base with QA (Qa-ti-ri), as QA-TI-DA-TE Kati-tati. Rival: katki 'utterance' (Richter 2012, 196), a noun that cannot draw men. One witness.",
+      "source": "di Mino; NPN; Richter 2012"
+    },
+    {
+      "word": "KA-U-DE-TA",
+      "reading": "Kaw-tatta",
+      "meaning": "Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt",
+      "root": null,
+      "cognates": {
+        "Hurrian": "kaw, Qa-wi-in-ni (NPN 224); Kawiya, kav=i=ya (Monti 2017, 346); tat 'love', tatt, Allai-tatta (NPN 263); Tatta, tatt=a, Mari (Monti 2017, 302); Tatta, da-da, da-da-e, Terqa (Monti 2017, 325)",
+        "Ugaritic": "kwn PN, 'the element kaw=', ka-ú-a-ni; kwt PN (DULAT 469)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "HT13"
+      ],
+      "note": "HT 13 .1 KA-U-DE-TA, heading the wine list VIN · TE · to RE-ZA, TE-TU, TE-KI, KU-ZU-NI, DA-SI-*118 and I-DU-NE-SI, KU-RO 130½ (GORILA I 27). KA-U = kaw-, as A-RA-U-DA ʾArwada: Hurrian kaw (NPN 224; Kawiya, Monti 2017, 346) + tatt- 'love' (NPN 263). Terqa writes Tatta da-da, da-da-e (Monti 2017, 325): D for t, and e beside a. Cf. Kawinni, written Qa-wi-in-ni, Qa-we-en-ni, Ka-wi-ni and Ga-wi-in (NPN 224), and Šenna-tati, written Še-en-da-ti (NPN 263). Both elements are attested, never together. Rival: the Ugaritic name kwt, which leaves DE (DULAT 469). One witness.",
+      "source": "di Mino; NPN; Monti 2017"
+    },
+    {
+      "word": "KA-U-ZU-NI",
+      "reading": "Kawṯuni",
+      "meaning": "Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān",
+      "root": null,
+      "cognates": {
+        "Hurrian": "kaw (NPN 224); Kawiya, kav=i=ya (Monti 2017, 346); -šuni in Awa-šuni, A-wa-šu-ni (NPN 208)",
+        "Ugaritic": "Hurrian ảủpš, var. ảủpṯ, ảủpṯn, syll. a-up-šu (DULAT 4); kṯn PN, ku-ši-nu; kṯn TN, cf. Heb. kwšn (DULAT 467)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "HT26b"
+      ],
+      "note": "HT 26b .2–3 KA-U-ZU-NI 4, a count of men under VIR+[?] 9, between ]-RO-NI 3 and KI+MU 12 (GORILA I 47). ka-u-ṯu-ni: Hurrian kaw (NPN 224) + -šuni (Awa-šuni, NPN 208), the Hurrian š in ZU = ṯu as Ugarit writes ảủpš also ảủpṯ (DULAT 4). Same base as KA-U-DE-TA Kaw-tatta. Rival: Kawṯān, the place name kṯn, Heb. Kûšān (DULAT 467; Hab 3:7). One witness.",
+      "source": "di Mino; NPN; DULAT"
+    },
+    {
+      "word": "RE-DI-SE",
+      "reading": "Redis",
+      "meaning": "Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'",
+      "root": "rdj",
+      "cognates": {
+        "Egyptian": "rdj⸗s, r:D37-s, r:di s, m. and f., 11th Dyn. to SIP (PNM: Cairo CG 23045, Louvre C 31, Berlin ÄM 1190, RILN 10); sꜣt-rdj⸗s, rdj⸗s-n⸗j",
+        "Safaitic": "rds PN, Ar. radasa 'to stone, break' (Harding 1971, 275)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
+      "attestations": [
+        "HT85b"
+      ],
+      "note": "HT 85b .4 RE-DI-SE 1, eighth of eleven single-unit entries under KI-KI-RA-JA ·, between ME-ZA 1 and WA-DU-NI-MI 1; written on .3, erased, and written again on .4 (GORILA I 133). Egyptian rdj⸗s: ⸗s written -SE as in DI-DI-KA-SE, rdj 'give' as in PA-TA-DA. Same name as RA-TI-SE (HT 6b), which also stands beside WA-DU-NI-MI. Semitic scripts write Egyptian d with ṭ, never d (Hoch 1994, 427), and Linear A, with no ṭ series, writes it DI here and TI there. Rival: Safaitic RDS, Ar. radasa 'to stone, break', one witness (Harding 1971, 275).",
+      "source": "Ilin-Tomich 2025 (PNM v6), s.v. rdj⸗s; Hoch 1994, 427; Harding 1971, 275; di Mino"
+    },
+    {
+      "word": "RA-TI-SE",
+      "reading": "Ratis",
+      "meaning": "Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'",
+      "root": "rdj",
+      "cognates": {
+        "Egyptian": "rdj⸗s, r:D37-s, r:di s, m. and f., 11th Dyn. to SIP (PNM: Cairo CG 23045, Louvre C 31, Berlin ÄM 1190, RILN 10)",
+        "Safaitic": "rds PN, Ar. radasa 'to stone, break' (Harding 1971, 275)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
+      "attestations": [
+        "HT6b"
+      ],
+      "note": "HT 6b .2 RA-TI-SE 1, after WA-DU-NI-MI 3 and a fraction, on a face written over an erasure (GORILA I 13). The name RE-DI-SE (HT 85b), which also stands beside WA-DU-NI-MI, with TI for Egyptian d: Semitic scripts write Egyptian d with ṭ (Hoch 1994, 427), and Linear A has no ṭ series. Rival: Safaitic RDS, Ar. radasa 'to stone, break' (Harding 1971, 275).",
+      "source": "Ilin-Tomich 2025 (PNM v6), s.v. rdj⸗s; Hoch 1994, 427; Harding 1971, 275; di Mino"
+    },
+    {
+      "word": "RA₂-RO-RE",
+      "reading": "Lallor",
+      "meaning": "personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri",
+      "root": "l-l-r",
+      "cognates": {
+        "Akkadian": "lallaru 'mourner, wailer', PN ᵐLa-al-la-r[u], OB Nippur (CAD L 48)",
+        "Amorite": "Li-la-ru, Li-lu-ri, root LLR (Gelb 1980, nos. 4365, 4367)",
+        "Hurrian": "lallari-, meaning unknown (Laroche, GLH s.v.)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Akkadian",
+      "language_family": "Semitic",
+      "attestations": [
+        "ZA10b"
+      ],
+      "note": "ZA 10b .5 RA₂-RO-RE 2, after A-MI-TA 3 and before PA-JA-RE 1 (GORILA III 171), all three signs whole. Akkadian lallaru 'mourner, wailer', a name at OB Nippur, ᵐLa-al-la-r[u] (CAD L 48); RA₂ writes l as in SA-RA₂ šarra, RO the second l as in KU-RO kull. Rivals: Amorite Li-la-ru, Li-lu-ri, root LLR (Gelb 1980, nos. 4365, 4367); Hurrian lallari-, meaning unknown (Laroche, GLH s.v.). One witness.",
+      "source": "CAD L 48; Gelb 1980; Laroche GLH; di Mino"
+    },
+    {
+      "word": "RI-RU-MA",
+      "reading": "Lirumā",
+      "meaning": "personal name, 'Pomegranate' (Ug. lrmn); recipient of pigs",
+      "root": "l-r-m-n",
+      "cognates": {
+        "Ugaritic": "lrmn 'pomegranate', pl. lrmnm (DULAT 499)",
+        "Akkadian": "lurmû 'pomegranate', MA lurimā'u lu-ri-ma-e, lurimtu EA 25 (CAD L 255 f.); PN Lu-ri-in-di-ya (HALOT 1242)",
+        "Hebrew": "rimmôn 'pomegranate'; PN Rimmon, 2 Sam 4:2 (HALOT 1241 f.)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "HT118"
+      ],
+      "note": "HT 118 .4 RI-RU-MA 10, a recipient of pigs after MA-DI, QA-QA-RU and A-RI-SU (GORILA I 200 f.), all three signs whole. Ugaritic lrmn 'pomegranate' (DULAT 499); Middle Assyrian lurimā'u, lu-ri-ma-e (CAD L 255 f.). RI writes l; the final n is unwritten. A man's name: Hebrew Rimmon (2 Sam 4:2), Akkadian Lu-ri-in-di-ya (HALOT 1242). Cf. PH(?)31b [·]-RU-MA-TI, Akkadian lurimtu. One witness.",
+      "source": "DULAT 499; CAD L 255 f.; HALOT 1241 f.; di Mino"
+    },
+    {
+      "word": "A-DU-ZA",
+      "reading": "ʾAddu-ʿazz",
+      "meaning": "ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'",
+      "root": "ʕ-z-z",
+      "cognates": {
+        "Ugaritic": "ʕz 'strong'; mt ʕz bʕl ʕz, 1.6 VI 17 (DULAT 193–194)",
+        "Hebrew": "ʾElʿûzay, 1 Chr 12:6",
+        "Akkadian": "Enlil-ezzu, {d}en-lil₂-ez-zu (ORACC)",
+        "Amorite": "ʿAzz-ʿammi, ʿAzzu (Gelb 1980, 568)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "PK1"
+      ],
+      "note": "PK 1 .2 A-DU-ZA 1, the first name below the ruling, after KA-QA 2 and before TA₂-TA-RE 1, in a list of names at 1 each (GORILA I 281). Addu + ʿazz 'strong' (semitic_roots 2769), the god first as in A-DU-NI-TA-NA and A-DU-KU-MI-NA. ZA writes (ʿa)zz. Ugaritic sets the god before ʿz: mt ʕz 'Mot was strong' (KTU 1.6 VI 17; DULAT 194); cf. Heb. ʾElʿûzay (1 Chr 12:6), Akk. Enlil-ezzu. Weak point: Amorite puts ʿazz first (ʿAzz-ʿammi, Gelb 1980, 568), and no Addu-ʿazz is attested. Rival: hadas 'myrtle' (semitic_roots K0080), which needs ZA for s. One witness.",
+      "source": "di Mino; DULAT; Gelb 1980"
+    },
+    {
+      "word": "ZU-*301",
+      "reading": "ṯannān",
+      "meaning": "chariot soldiers, archers (a troop drawing rations); rival a name ZU-*301-SE-DE",
+      "root": "ṯ-n-n",
+      "cognates": {
+        "Ugaritic": "ṯnn, pl. ṯnnm, syll. LÚ ša-na-ni, LÚ ša-na-nu-ma; rb ṯnnm 'chief archer' (DULAT 909)",
+        "Akkadian": "šanannu, Alalakh (DULAT 909)",
+        "Egyptian": "snny, *ṯannānu 'chariot soldier, archer' (Hoch 1994, 261, no. 371)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personnel",
+      "category": "personnel",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "ARKH2"
+      ],
+      "note": "ARKH 2 .3–4 ZU-*301-SE-DE-*21F-*118 6, read ṯannān ṣēd ḥiṭṭa 'the chariot soldiers: provision of wheat, 6', under SI-DA-TE ṣēdat 'provisions', between A-SI-DA-TO-I 12 and A-SU-PU-WA 4 (GORILA III 6–7). *301 and *21F over erasures, no dividers. SE-DE ṣēd, √ṣ-y-d as SI-DA-TE. Ugarit lists the ṯnnm as a group with named members (KTU 4.68:70; 4.126:4), with a rb ṯnnm (4.382:5). ZU writes ṯ before any vowel, as in A-ZU-RA ʾAṯirat. Weak points: the must list turns to wheat without a logogram, and DULAT records doubt over the archer sense. Rival: one name ZU-*301-SE-DE + ḥiṭṭa 6. One witness.",
+      "source": "di Mino; DULAT; Hoch 1994"
+    },
+    {
+      "word": "KU-KU-DA-RA",
+      "reading": "Kukkadal",
+      "meaning": "Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "kukk, ᶠKukku, Kukkuia, ᶠKukk-urašše (NPN 90, 229); adal 'strong', Akkadian adallu = gašru (Laroche GLH s.v. adali), -atal, -adal in Zi-li-ip-a-da-al, Ḫa-ši-ba-da-al, Pu-ut-ti-ma-da-al (NPN 207); Mari Tawen-atal, tav=i=n(na)-adal 'Strong, pour (him)!' (VHN 297; Monti 2017, 302)",
+        "Linear B": "ku-ka-da-ro, a man at Knossos, KN Uf 836.b (DMic I)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "HT117a"
+      ],
+      "note": "HT 117a .7 KU-KU-DA-RA 1, all four signs whole and undotted, the first name under SA-TA Šata (GORILA I 197). Hurrian kukk- (NPN 229; ᶠKukku, Kukkuia, ᶠKukk-urašše, NPN 90) + adal 'strong' (Laroche GLH s.v. adali; NPN 207; Mari Tawen-atal 'Strong, pour (him)!', Monti 2017, 302), DA for d as Nuzi Zi-li-ip-a-da-al and Ur III Ḫa-ši-ba-da-al write it (NPN 207), RA for the final l. Linear B ku-ka-da-ro, a man at Knossos (KN Uf 836.b; DMic I), writes the a of adal. Both elements are attested, never together; Laroche counts Kuku among the Lallnamen (GLH Intro §6). Rival: ḳdr 'dark' (semitic_roots no. 1679) with KU-KU reduplicated, as KI-DA-RO Qidaru in the same roster. One witness.",
+      "source": "di Mino; NPN; Laroche GLH; Monti 2017"
+    },
+    {
+      "word": "SE-SA-PA₃",
+      "reading": "Zizapa",
+      "meaning": "Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab",
+      "root": null,
+      "cognates": {
+        "Hurrian": "Mari Zizap(-)a, zi-za-ba (VHN 277), Zizapān, zi-za-ba-an, ziz=a=b=ān (Sasson 1974, 372; ARM XVI/1, 244); Zizi, ziz=i 'Chest' (Monti 2017, 319)",
+        "Amorite": "¹IZIZ-AB, ʿIziz-ab, the rival (Gelb 1980, no. 2677)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "PH2"
+      ],
+      "note": "PH 2 .4 SE-SA-PA₃ 60, the last entry before the break, intact and undotted (GORILA I 288–289). Mari Zizap(-)a, zi-za-ba (VHN 277), and Zizapān, ziz=a=b=ān (ARM XVI/1, 244), on the stem ziz- of Zizi, ziz=i 'Chest' (Monti 2017, 319). Sign for sign, PA₃ for b, SE for zi. Same tablet as A-SE-TU-*21F Aštuḫḫa. Rival: Amorite ʿIziz-ab (Gelb 1980, no. 2677), ʿzz + ʾab, with the initial unwritten. One witness.",
+      "source": "di Mino; Monti 2017"
+    },
+    {
+      "word": "TA-RI-NA",
+      "reading": "Tarinna",
+      "meaning": "Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast'",
+      "root": null,
+      "cognates": {
+        "Hurrian": "Tarinnam, ta-ri-nam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351); Tarinam, ta-ri-nam, Šemšara 2:98 (Monti 2017, 413); Tarinze, ta-ri-in-ze (VHN 299; Monti 2017, 301)",
+        "Ugaritic": "trn 'mast' (DULAT 866; semitic_roots no. 2979), the rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "HT10b"
+      ],
+      "note": "HT 10b .1–2 TA-RI-NA 15, TA closing .1 and RI-NA opening .2, whole and undotted, on a face written over an erasure (GORILA I 21); after U-TI 1 and DA-RE 2, before *312-TA 6½. Hurrian stem tarinn(i): Tarinnam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351), Tarinam at Šemšara (Monti 2017, 413), Tarinze (Monti 2017, 301). Sign for sign, the final -m unwritten. Rival: Ugaritic trn 'mast' (semitic_roots no. 2979), out of place in a grain list. One witness.",
+      "source": "di Mino; Monti 2017"
+    },
+    {
+      "word": "KA-RE-RO",
+      "reading": "Kariru",
+      "meaning": "Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'",
+      "root": null,
+      "cognates": {
+        "Akkadian": "Nuzi Qa-ri-ru, Ka-ri-ru, Ka-ri-ru(m), Qa-ri-ri (NPN 80), 'Root qrr, \"to burn\"? Cf. Qar-ru-ru' (NPN 322)",
+        "Hurrian": "'H. if formed on kar' (NPN 223), the rival analysis",
+        "Ugaritic": "kr 'ram' (DULAT 449; semitic_roots no. 2220), the rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Akkadian",
+      "language_family": "Semitic",
+      "attestations": [
+        "HTWc3003"
+      ],
+      "note": "HT Wc 3003, a roundel (HM 77), KA-RE-RO alone, all three signs whole and undotted, no ideogram (GORILA II 72). Nuzi Qa-ri-ru, Ka-ri-ru(m), Qa-ri-ri, at least six men (NPN 80); Gelb gives root qrr, cf. Qar-ru-ru (NPN 322), Purves a Hurrian kar- (NPN 223). Sign for sign, RE for ri. A word alone on a roundel as ZU-DI-RA on HT Wc 3011. Rival: *ka/irr- 'ram' (semitic_roots no. 2220; Ug. kr, DULAT 449), the roundel's commodity, with the r written twice. One witness.",
+      "source": "di Mino; NPN"
+    },
+    {
+      "word": "KU-MA-JU",
+      "reading": "Qumalu",
+      "meaning": "Qumalu 'Louse' (personal name); rival kumru 'priest'",
+      "root": "q-m-l",
+      "cognates": {
+        "Proto-Semitic": "*ḳaml- ~ *ḳalm- 'louse' (semitic_roots no. 2229); Gurage Sel. Wol. ḳumal, Geʿez ḳʷǝmāl (LGz. 432)",
+        "Safaitic": "QML, personal name, 'Ar. qaml, louse', four witnesses; Thamudic QMLT, Qatabanic QMLM (Harding 1971, 488)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "HT20"
+      ],
+      "note": "HT 20 .1–.2 KU-MA-JU ¼, KU at the end of .1 after the heading PA-RO-SU ·, MA-JU at the head of .2, all three signs whole and undotted (GORILA I 37). *ḳaml- 'louse' (semitic_roots no. 2229), Gurage ḳumal; the Safaitic name QML 'louse' (Harding 1971, 488). JU writes lu. First entry under PA-RO-SU Parʿōš 'Flea'; SA-RE-JU Šarr-ēlu is another name in the list. Rivals: kumru 'priest' (Amorite kumrum, Gelb 1980 glossary), which needs JU for ru; Amorite guml 'to please' (Gelb 1980 glossary). One witness.",
+      "source": "di Mino; Harding 1971"
+    },
+    {
+      "word": "TA-TA",
+      "reading": "Tatta",
+      "meaning": "Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata",
+      "root": null,
+      "cognates": {
+        "Hurrian": "ᶠTatta, ta-at-ta, tatt=a, three times at Mari (VHN 301; Monti 2017, 302); Tatta, da-da, at Terqa (Monti 2017, 325) and ᶠta-at-ta at Tuttul (Monti 2017, 335)",
+        "Hittite": "Tatta (HKM 25 obv. 2; KBo 30.37 obv. i 7′) and Tata (KBo 50.67 obv. ii 25′), the Anatolian name (Hittite Personal Names 0.1), the rival"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "Hurrian",
+      "language_family": "Hurro-Urartian",
+      "attestations": [
+        "KH7a"
+      ],
+      "note": "KH 7a .3 I-JA-PA-ME · TA-TA ·, whole and undotted, a section heading with no logogram or number, before QA-TI-KI VIR+*313b 4 (GORILA III 29). Hurrian ᶠTatta, a woman at Mari (Monti 2017, 302), sign for sign with the geminate unwritten. Rival: the Anatolian name Tata/Tatta (Hittite Personal Names 0.1). One witness.",
+      "source": "di Mino; Monti 2017"
+    },
+    {
+      "word": "KA-I-RO",
+      "reading": "kāʾil",
+      "meaning": "Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice'",
+      "root": "k-y-l",
+      "cognates": {
+        "Proto-Semitic": "*kalVy- ~ *kayl- 'vessel, measure' (semitic_roots no. 298)",
+        "Arabic": "kāʾil 'measurer', active participle of kāla 'to measure (grain)'; kayl 'measure' (Q 12:59–65)",
+        "Hebrew": "kûl 'to measure' (Isa 40:12)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.25,
+      "semantic_field": "personal_name",
+      "category": "personal_name",
+      "language_layer": "NWS",
+      "language_family": "Semitic",
+      "attestations": [
+        "ZA8"
+      ],
+      "note": "ZA 8 .6 KA-I-RO 4 B B, intact, the last entry of the fig list headed KI-RA · (GORILA III 165), with the largest share. kāʾil 'measurer': I writes ʾi, RO the final l as in KU-RO kull; A-I writes -ay- in DA-I-PI-TA on the same tablet. Two entries after MA-KA-I-SE 'tax-man'. Rival: a name on g-y-l 'to rejoice'. One witness.",
+      "source": "di Mino"
     }
   ]
 }

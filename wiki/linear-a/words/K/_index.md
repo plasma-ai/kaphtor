@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T15:14:18Z
 ---
 
 # wiki/linear-a/words/K
@@ -15,9 +15,9 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/K/KA_DI|KA_DI]]: kadd: jar, jug (liquid container). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KA_DU_MA_NE|KA_DU_MA_NE]]: Kadumānu: Cadmos + -ān suffix. Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/K/KA_DU_MA_NE|KA_DU_MA_NE]]: Qadmān: the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/K/KA_I_RO|KA_I_RO]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_I_RO|KA_I_RO]]: kāʾil: Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_I_q_broken_both|KA_I_q_broken_both]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -57,7 +57,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/K/KA_RA2|KA_RA2]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KA_RE_RO|KA_RE_RO]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_RE_RO|KA_RE_RO]]: Kariru: Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_RI_star310_I|KA_RI_star310_I]]: karīnī: personal name/gentilic. Lexicon, SPECULATIVE (tier 1).
 
@@ -69,7 +69,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/K/KA_SA|KA_SA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KA_SA_RU|KA_SA_RU]]: Kasaru: personal name; compare Linear B ka-sa-ro. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_SA_RU|KA_SA_RU]]: Qaṣṣāru: Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KA_SI|KA_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -79,13 +79,13 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/K/KA_TI|KA_TI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KA_U_DE_TA|KA_U_DE_TA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_U_DE_TA|KA_U_DE_TA]]: Kaw-tatta: Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_U_ZU_NI|KA_U_ZU_NI]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/K/KA_U_ZU_NI|KA_U_ZU_NI]]: Kawṯuni: Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_star305|KA_star305]]: ka-ḏā: thus, likewise (ditto heading); rivals kaṯ 'flask, jar', a personal name. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_star314_SI|KA_star314_SI]]: kꜣ-ḥs.j: personal name ('the Ka is praised'—Egyptian theophoric); rival kabsi 'young ram'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_star314_SI|KA_star314_SI]]: Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KE_JU_MI_broken_both|KE_JU_MI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -165,9 +165,9 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/K/KU_DA|KU_DA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_KU_DA_RA|KU_KU_DA_RA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KU_KU_DA_RA|KU_KU_DA_RA]]: Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KU_MA_JU|KU_MA_JU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KU_MA_JU|KU_MA_JU]]: Qumalu: Qumalu 'Louse' (personal name); rival kumru 'priest'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_MA_RO_broken_start|KU_MA_RO_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -191,13 +191,13 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/K/KU_PA3_PA3|KU_PA3_PA3]]: Kubaba: Kubaba (Anatolian/North Syrian divine or personal name). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KU_PA3_RI_JA|KU_PA3_RI_JA]]: Gubliya: the Byblian, (wool) of Byblos: a section heading. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KU_PA3_RI_JA|KU_PA3_RI_JA]]: Kubariya: Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_PA_JA|KU_PA_JA]]: Kubbaya: personal name (hypocoristic in -aya), cf. Amorite Kubbiya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_PA_RI|KU_PA_RI]]: kubīri: great ones (Kabeiri, pl./oblique); rival kᵉpārîm 'villages'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KU_PA_ZU|KU_PA_ZU]]: Unread (edge overlap): no role; 1 occurrence(s).
+[[wiki/linear-a/words/K/KU_PA_ZU|KU_PA_ZU]]: Kapizzi: Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_PI|KU_PI]]: Unread (role only): personal name; 1 occurrence(s).
 

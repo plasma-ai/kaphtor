@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T17:10:14Z
+updated: 2026-10-27T03:07:18Z
 ---
 
 # wiki/linear-a/words/S
@@ -67,7 +67,7 @@ updated: 2026-10-26T17:10:14Z
 
 [[wiki/linear-a/words/S/SE_KU_TU|SE_KU_TU]]: Šakūtu: personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SE_SA_PA3|SE_SA_PA3]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SE_SA_PA3|SE_SA_PA3]]: Zizapa: Zizapa (Hurrian personal name), ziz- 'chest'; rival Amorite ʿIziz-ab. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SE_SI|SE_SI]]: Unread (role only): personal name; 1 occurrence(s).
 

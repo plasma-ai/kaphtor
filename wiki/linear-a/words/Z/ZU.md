@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯūm |
 | Meaning | garlic (logographic abbreviation) |
 | Root | ṯ-w-m |
+| Language layer | Semitic |
 | Category | vocabulary |
 | Semantic field | commodity |
 

@@ -57,7 +57,7 @@ Candidate pharyngeal/velar fricative sign, with a competing PU₃/PU₂ value. \
 |---|---|---|
 | [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | kꜣ-ḥs.j | CANDIDATE |
-| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Rꜥ-Ḥr | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_star314_SI\|KA-\*314-SI]] | Kaḥas | SPECULATIVE |
+| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥil | SPECULATIVE |
 
 <!-- END kaphtor:record -->

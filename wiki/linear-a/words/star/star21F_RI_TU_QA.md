@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ha-ritūqa |
 | Meaning | the tied, sealed (packet) (?) |
 | Root | r-t-q |
+| Language layer | Semitic |
 | Category | vocabulary |
 | Semantic field | commodity |
 

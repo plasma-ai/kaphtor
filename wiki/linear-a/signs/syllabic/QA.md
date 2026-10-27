@@ -66,7 +66,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qart- | CANDIDATE |
+| [[wiki/linear-a/words/Q/QA_TI_DA_TE\|QA-TI-DA-TE]] | Kati-tati | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_JU\|QA-TI-JU]] | Qātilu | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_QA\|RO-QA]] | rōqaḥ | SPECULATIVE |
 
 <!-- END kaphtor:record -->

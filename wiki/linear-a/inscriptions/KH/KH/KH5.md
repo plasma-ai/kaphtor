@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["A-RA-U-DA", "CYP", "NI", "SI-KA"]
+words: ["A-RA-U-DA", "CYP", "KU-PA-ZU", "NI", "SI-KA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -60,6 +60,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_RA_U_DA|A-RA-U-DA]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SI_KA|SI-KA]].
+[[wiki/linear-a/words/A/A_RA_U_DA|A-RA-U-DA]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/K/KU_PA_ZU|KU-PA-ZU]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/S/SI_KA|SI-KA]].
 
 <!-- END kaphtor:record -->

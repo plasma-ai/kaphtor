@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["*47-KU-NA", "*363-KE-MA-SE", "JA-SA-MU", "JI-NU-MA-RE", "ME-VIN", "SA", "SA-MI-DA-E", "SI-PI-KI"]
+words: ["*47-KU-NA", "*363-KE-MA-SE", "I-TI-NI-SA", "JA-SA-MU", "JI-NU-MA-RE", "ME-VIN", "MI-ZA-SE", "SA", "SA-MI-DA-E", "SI-PI-KI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star47_KU_NA|\*47-KU-NA]], [[wiki/linear-a/words/star/star363_KE_MA_SE|\*363-KE-MA-SE]], [[wiki/linear-a/words/J/JA_SA_MU|JA-SA-MU]], [[wiki/linear-a/words/J/JI_NU_MA_RE|JI-NU-MA-RE]], [[wiki/linear-a/words/M/ME_VIN|ME-VIN]], [[wiki/linear-a/words/S/SA|SA]], [[wiki/linear-a/words/S/SA_MI_DA_E|SA-MI-DA-E]], [[wiki/linear-a/words/S/SI_PI_KI|SI-PI-KI]].
+[[wiki/linear-a/words/star/star47_KU_NA|\*47-KU-NA]], [[wiki/linear-a/words/star/star363_KE_MA_SE|\*363-KE-MA-SE]], [[wiki/linear-a/words/I/I_TI_NI_SA|I-TI-NI-SA]], [[wiki/linear-a/words/J/JA_SA_MU|JA-SA-MU]], [[wiki/linear-a/words/J/JI_NU_MA_RE|JI-NU-MA-RE]], [[wiki/linear-a/words/M/ME_VIN|ME-VIN]], [[wiki/linear-a/words/M/MI_ZA_SE|MI-ZA-SE]], [[wiki/linear-a/words/S/SA|SA]], [[wiki/linear-a/words/S/SA_MI_DA_E|SA-MI-DA-E]], [[wiki/linear-a/words/S/SI_PI_KI|SI-PI-KI]].
 
 ## Edition differences
 

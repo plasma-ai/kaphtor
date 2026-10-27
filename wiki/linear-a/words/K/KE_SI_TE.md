@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-KN Ze 49, three signs on a Knossos building block known only from Hood's drawing, which Hood reads as masons' marks; Owens reads KE-SI-TE and equates it with MA Ze 11 QE-SI-TE. Outside GORILA and Younger. No reading.
+KN Ze 49, three signs on a Knossos building block known only from Hood's drawing, which Hood reads as masons' marks; the middle sign is not drawn in the SI form, and the staggered layout leaves the order open. Owens reads KE-SI-TE and equates it with MA Ze 11 QE-SI-TE. Outside GORILA and Younger. No reading.
 
 <!-- END kaphtor:record -->

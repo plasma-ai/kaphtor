@@ -81,6 +81,6 @@ Tuya, the Nuzi name Tu-ú-ia (NPN 156), its element -tuja Hurrian (NPN 268); aft
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār.
 
 <!-- END kaphtor:record -->

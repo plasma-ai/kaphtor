@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Z
 desc: "Words whose first sign begins with Z."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T03:07:18Z
 ---
 
 # wiki/linear-a/words/Z
@@ -35,6 +35,8 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/Z/ZU_star22F_DI|ZU_star22F_DI]]: Onomasticon personal name, no reading.
 
-[[wiki/linear-a/words/Z/ZU_star301_SE_DE_star21F_star118|ZU_star301_SE_DE_star21F_star118]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/Z/ZU_star301|ZU_star301]]: ṯannān: chariot soldiers, archers (a troop drawing rations); rival a name ZU-*301-SE-DE. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/Z/ZU_star301_SE_DE_star21F_star118|ZU_star301_SE_DE_star21F_star118]]: Onomasticon title, no reading.
 
 ***

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-MA 1a and 1b, the faces of one bar from the Malia palace: I-DU-WI · \*47 · QE-DE-MI-NU and A-MA · \*47 · QE-DE-MI-NU (GORILA I 268–269). QE-DE-MI-NU writes Qadmīnu, √q-d-m 'front, east, early' with -īnu, beside KA-DU-MA-NE Kadumānu (HT 29) with -ānu. Astour sets Kadmos, Kadmōn and Kadmaiōn beside W-S qdm and the Ugaritic name Qdmn (Hellenosemitica 152); Heb. qadmōnî names the Kadmonites (Gen 15:19). Weak point: QE for qa. Rival: a non-Semitic name, or a title after \*47. One bar.
+MA 1a and 1b, the faces of one bar from the Malia palace: I-DU-WI · \*47 · QE-DE-MI-NU and A-MA · \*47 · QE-DE-MI-NU (GORILA I 268–269). QE-DE-MI-NU writes Qadmīnu, √q-d-m 'front, east, early' with -īnu, beside KA-DU-MA-NE Qadmān (HT 29) with -ān. Astour sets Kadmos, Kadmōn and Kadmaiōn beside W-S qdm and the Ugaritic name Qdmn (Hellenosemitica 152); Heb. qadmōnî names the Kadmonites (Gen 15:19). Weak point: QE for qa. Rival: a non-Semitic name, or a title after \*47. One bar.
 
 ### Cognates
 

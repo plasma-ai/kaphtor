@@ -40,17 +40,17 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA Zb 3: DI-DI-KA-SE before A-SA-MU-NE, Eshmun, under VIN 32. Egyptian ḏd-kꜣ + -s 'her', the pattern of Djedkare; DI-DI writes ḏd, as on DI-DI-ZA-KE (HT 1) and DI-DI-KO-RA-ME-TA₂ (ZA 11a). Weak point: no private Egyptian name ḏd-kꜣ.s is attested. Rival: Semitic dādī-kussē 'my beloved is the throne', which needs DI-DI for dādī. One attestation.
+ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6); DI-DI writes ḏd, SE ⸗s. Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1) and DI-DI-KO-RA-ME-TA₂ (ZA 11a). One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Egyptian | Ḏd-kꜣ-Rꜥ, Djedkare (ORAEC oraec2777, oraec3547); ḏd 'enduring', kꜣ 'ka' |
+| Egyptian | ḏd 'enduring' + kꜣ⸗s 'her ka', the type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s (PNM v6) |
 
 ### Source
 
-di Mino
+di Mino; Ilin-Tomich 2025 (PNM v6)
 
 ## Attestations
 
@@ -78,7 +78,7 @@ di Mino
 
 ### Note
 
-Egyptian ḏd-kꜣ + -s, the pattern of Ḏd-kꜣ-Rꜥ (Djedkare).
+Egyptian ḏd-kꜣ⸗s 'her ka endures', the type of ꜥꜣ-kꜣ⸗s (Ranke I, 58.14). Rival: DI-DI + KA-SE kissē 'throne' (cf. PI-TA-KA-SE). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

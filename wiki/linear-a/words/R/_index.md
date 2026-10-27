@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T17:13:43Z
 ---
 
 # wiki/linear-a/words/R
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/R/RA2_RO_RE|RA2_RO_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RA2_RO_RE|RA2_RO_RE]]: Lallor: personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_KI_TA_NA_SI|RA_KI_TA_NA_SI]]: Unread (edge overlap): toponym; 1 occurrence(s).
 
@@ -27,17 +27,17 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/R/RA_TE_broken_end|RA_TE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_TI_SE|RA_TI_SE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RA_TI_SE|RA_TI_SE]]: Ratis: Ratis (Egyptian personal name rdj⸗s, the name RE-DI-SE), 'the one she has given'; rival Safaitic RDS 'Breaker'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RA_q_DE_ME_TE|RA_q_DE_ME_TE]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: Onomasticon personal name, no reading.
 
-[[wiki/linear-a/words/R/RA_star314_RA|RA_star314_RA]]: Rꜥ-Ḥr: Ra-Horus (Egyptian theophoric personal name); rival raḥil 'ewe-lamb'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RA_star314_RA|RA_star314_RA]]: Raḥil: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE|RE]]: le-: to, for, as (preposition). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/R/RE_DI_SE|RE_DI_SE]]: Unread (role only): administrative roster label; 1 occurrence(s).
+[[wiki/linear-a/words/R/RE_DI_SE|RE_DI_SE]]: Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE_I_KE_broken_start|RE_I_KE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -67,7 +67,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/R/RI_QE_TI|RI_QE_TI]]: riqitt-: dance (√r-q-d); rival raqqitt- 'female dancer'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RI_RU_MA|RI_RU_MA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RI_RU_MA|RI_RU_MA]]: Lirumā: personal name, 'Pomegranate' (Ug. lrmn); recipient of pigs. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RI_SU_MA|RI_SU_MA]]: rīšum(a): head, chief quality; first quality. Lexicon, CANDIDATE (tier 2).
 

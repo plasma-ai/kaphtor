@@ -60,6 +60,7 @@ Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /l
 | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] | ʾukulti | SPECULATIVE |
 | [[wiki/linear-a/words/J/JU_plus_star317_plus_QE\|JU+\*317+QE]] |  | CONFIRMED |
 | [[wiki/linear-a/words/K/KA_JU\|KA-JU]] | kallû | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_MA_JU\|KU-MA-JU]] | Qumalu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]] | Kulelu | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_JU\|QA-TI-JU]] | Qātilu | SPECULATIVE |

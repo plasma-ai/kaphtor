@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T15:14:18Z
 ---
 
 # wiki/linear-a/words/N
@@ -61,7 +61,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/N/NU_RO|NU_RO]]: nūr-: light, fire (divine epithet or votive label on clay vessels). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/N/NU_TI|NU_TI]]: nuti: townsmen, citizens (heading before the logogram for men); rival Semitic nātîn 'those given'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/N/NU_TI|NU_TI]]: nuti: the given ones, a personnel class (√n-t-n), heading before men; rival Egyptian nʾ.tjw 'townsmen'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/N/NU_WI|NU_WI]]: nōwē / nwē: (man) of the encampment, herdsman?—qualifier after a personal name. Lexicon, SPECULATIVE (tier 1).
 

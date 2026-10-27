@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-KN 54 PU-RA \*131C ¹⁄₁₆, the tablet's only entry. Distinct from PU-RA₂ and PU₂-RA₂. Linear B \]pu-ra (KN V 958.4) is broken before and no anchor (DMic II, s.v.). Sole attestation. No reading.
+KN 54 PU-RA \*131C ¹⁄₁₆, the tablet's only entry, at the broken top edge: both signs survive as partial traces, and SigLA leaves the first unread (photograph and facsimile). Distinct from PU-RA₂ and PU₂-RA₂. Linear B \]pu-ra (KN V 958.4) is broken before and no anchor (DMic II, s.v.). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

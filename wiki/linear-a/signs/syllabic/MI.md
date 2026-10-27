@@ -56,7 +56,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | Ida-mī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | ʾī-Mīšaru | PROBABLE |
 | [[wiki/linear-a/words/I/I_PI_NA_MI_NA\|I-PI-NA-MI-NA]] | ʾippina=mi=na | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | PROBABLE |
+| [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_RE_MI\|JA-RE-MI]] | Yarīm | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NI_JA_MI\|KA-NI-JA-MI]] | qāniy-yammi | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_MI_NA\|KU-MI-NA]] | kamūna | PROBABLE |
@@ -70,6 +70,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | PROBABLE |
 | [[wiki/linear-a/words/M/MI_TA\|MI-TA]] | mitta | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_TU\|MI-TU]] | mītu | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_ZA_SE\|MI-ZA-SE]] | mizza-se | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_MI\|OLE+MI]] | mišḥā | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | \[…\]-pi-minate | SPECULATIVE |

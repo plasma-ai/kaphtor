@@ -57,7 +57,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Haghia Triada | Tablet | incomplete |
@@ -67,6 +67,7 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Tanāti | Tanit variant (theonym or personal name), 1 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Tanāti | Tanit variant (theonym or personal name), 9¼ | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Tanāti | recipient of ¾; Tanit variant (theonym or personal name) | CANDIDATE |
 
 ## Onomasticon
@@ -87,6 +88,6 @@ Reading from the lexicon (di Mino).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, KI, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, KI, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
 
 <!-- END kaphtor:record -->

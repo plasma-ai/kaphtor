@@ -47,7 +47,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 24a .4, heading of the second wool section, as KU-PA₃-RI-JA Gubliya heads the first: X-iya. Stem Pasar- unidentified. Rival: Ugaritic bṣr, Baṣiru, with PA for b.
+HT 24a .4, heading of the second wool section, as KU-PA₃-RI-JA Kubariya heads the first: X-iya. Stem Pasar- unidentified. Rival: Ugaritic bṣr, Baṣiru, with PA for b.
 
 ### Co-occurring lexicon words
 
@@ -57,6 +57,6 @@ Readings from the lexicon as it stands: KI-MA-RU.
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role gentilic.
 
-HT24a .4 PA-SA-RI-JA ·, all four signs whole and undotted at the head of the line, before the wool ligature MA+RU-MẸ\[ (GORILA I 43). It heads the second section as KU-PA₃-RI-JA Gubliya heads the first on .1: a gentilic heading in -iya, RI the stem's last consonant. The stem Pasar- has no Linear A parallel; KH 10 I-PA-SA-JA is another word. Rival: Ugaritic bṣr, Baṣiru, a town of the kingdom, ethnic bṣry (DULAT 240), with PA for b. Sole attestation. No reading.
+HT24a .4 PA-SA-RI-JA ·, all four signs whole and undotted at the head of the line, before the wool ligature MA+RU-MẸ\[ (GORILA I 43). It heads the second section as KU-PA₃-RI-JA Kubariya heads the first on .1: a gentilic heading in -iya, RI the stem's last consonant. The stem Pasar- has no Linear A parallel; KH 10 I-PA-SA-JA is another word. Rival: Ugaritic bṣr, Baṣiru, a town of the kingdom, ethnic bṣry (DULAT 240), with PA for b. Sole attestation. No reading.
 
 <!-- END kaphtor:record -->

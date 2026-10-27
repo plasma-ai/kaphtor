@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T16:58:39Z
+updated: 2026-10-27T03:07:18Z
 ---
 
 # wiki/linear-a/words/A
@@ -43,7 +43,7 @@ updated: 2026-10-26T16:58:39Z
 
 [[wiki/linear-a/words/A/A_DU_RE|A_DU_RE]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_DU_ZA|A_DU_ZA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_DU_ZA|A_DU_ZA]]: ʾAddu-ʿazz: ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_DU_q_ZA|A_DU_q_ZA]]: Unread (unread): no role; 1 occurrence(s).
 

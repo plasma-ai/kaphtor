@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT10b
 title: "HT10b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "HT10b"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
-words: ["*312", "DA-RE", "KA-SA-RU", "TA-NA-TI"]
+translation: "incomplete"
+words: ["*312", "DA-RE", "KA-SA-RU", "TA-NA-TI", "TA-RI-NA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -58,8 +58,31 @@ Unicode (Linear A block):
 𐘳𐘅𐘠𐄏𐝃
 ```
 
+## Translation
+
+**CANDIDATE**, incomplete (status: incomplete).
+
+> U-TI 1; the estate (DA-RE) 2; Tarinna 15; \*312-TA 6½; Qaṣṣāru ('Fuller') 6; Tanāti 9¼.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/U/U_TI\|U-TI]] |  | unread, 1 |  | unread |
+| [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household,2 | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TA_RI_NA\|TA-RI-NA]] | Tarinna | personal name (Hurrian), 15; rival trn 'mast' | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star312_TA\|\*312-TA]] |  | unread, 6½ |  | unread |
+| [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | personal name, 'Fuller', 6; rival Kaṣṣāru 'donkey driver' | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | Tanit variant (theonym or personal name), 9¼ | CANDIDATE | CANDIDATE (lexicon) |
+
+### Notes
+
+The face is written over an erasure and has no heading (GORILA I 21). Six entries, one to a line, totalling 39¾. DA-RE and TA-NA-TI stand together again on HT 7a.
+
+### Source
+
+- di Mino: TA-RI-NA, KA-SA-RU
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/K/KA_SA_RU|KA-SA-RU]], [[wiki/linear-a/words/T/TA_NA_TI|TA-NA-TI]].
+[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/K/KA_SA_RU|KA-SA-RU]], [[wiki/linear-a/words/T/TA_NA_TI|TA-NA-TI]], [[wiki/linear-a/words/T/TA_RI_NA|TA-RI-NA]].
 
 <!-- END kaphtor:record -->

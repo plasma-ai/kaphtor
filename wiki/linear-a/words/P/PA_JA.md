@@ -63,6 +63,10 @@ Ilin-Tomich 2025 (PNM v6), s.v. pꜣjj; di Mino
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
 
+### Note
+
+Egyptian Pꜣjj, the first element of PA-JA-RE, a common name under Thutmose III and Amenhotep II (PNM v6). Rival: a Semitic hypocoristic. See the lexicon entry.
+
 ### Co-occurring lexicon words
 
 Readings from the lexicon as it stands: [[wiki/linear-a/words/R/RE|RE]] le-.

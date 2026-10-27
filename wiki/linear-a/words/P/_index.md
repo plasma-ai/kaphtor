@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T15:14:19Z
 ---
 
 # wiki/linear-a/words/P
@@ -75,7 +75,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/P/PA_TA|PA_TA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PA_TA_DA|PA_TA_DA]]: Patada: Ptah-theophoric personal name: Ptaḥ-di(w) 'Ptah-gives/Ptah-given'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_TA_DA|PA_TA_DA]]: Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_TA_NE|PA_TA_NE]]: Patne: personal name, 'Viper'; rival Ptah-theophoric. Lexicon, CANDIDATE (tier 2).
 

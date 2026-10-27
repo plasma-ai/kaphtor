@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/O_SU_QA_RE
 title: "O-SU-QA-RE"
-desc: "ʾō Sukar: O Sukar—proposed Minoan rendering of Egyptian Sokar. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾō Sukar: O Sokar (Egyptian Skr), the deity addressed; rival Ušḫara the Snake. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "divine_name"]
 kind: "word"
 form: "O-SU-QA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾō Sukar |
-| Meaning | O Sukar—proposed Minoan rendering of Egyptian Sokar |
+| Meaning | O Sokar (Egyptian Skr), the deity addressed; rival Ušḫara the Snake |
 | Root | s-k-r |
 | Language layer | Middle Egyptian |
 | Category | divine_name |
@@ -40,11 +40,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Hapax in the deity-address slot at Troullos. O may be the vocative /ʾō/ rather than a prosthetic vowel; Geʿez ʾo- 'O …!' supplies a later structural parallel (Leslau 1987, 1), not proof of the Bronze Age form. SU-QA-RE supplies /sukar/, with final E as the dead spelling vowel after /r/; its s-k-r skeleton supports comparison with Egyptian Skr/Zkr 'Sokar.' The divine identification and exact vowels remain CANDIDATE.
+TL Za 1 A-TA-I-\*301-WA-JA · O-SU-QA-RE ·, the deity slot of the libation formula. ʾō Sukar: vocative ʾō (Geʿez ʾo-, Leslau 1987, 1) + Egyptian Skr 'Sokar', final E dead after r (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr, only as úšḫr ḫlmẓ 'Ušḫara the Snake' (KTU 1.115:2, 12; DULAT 113), from Akk. Išḫara, with QA where KA writes ḫ. One witness.
 
 ### Source
 
-di Mino
+di Mino, Ya Diktu; DULAT 113
 
 ## Attestations
 
@@ -69,6 +69,10 @@ di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Troullos |
 | Supports | Stone vessel 1 |
+
+### Note
+
+ʾō Sukar, 'O Sokar', in the deity slot of the Troullos formula (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr ḫlmẓ 'Ušḫara the Snake' (DULAT 113). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

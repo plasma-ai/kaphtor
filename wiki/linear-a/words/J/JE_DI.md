@@ -88,6 +88,6 @@ A recipient on HT 8a (heading the list, OLE+KI 10), HT 36 (GRA+QE 44½) and HT 1
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dāru, [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r), [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretana, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_KA_RA_TI|PA₃-KA-RA-TI]] baqarāti, [[wiki/linear-a/words/P/PO_TO_KU_RO|PO-TO-KU-RO]] batkull, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KA_PA|KA-PA]] kapa(r), [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretana, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA3_KA_RA_TI|PA₃-KA-RA-TI]] baqarāti, [[wiki/linear-a/words/P/PO_TO_KU_RO|PO-TO-KU-RO]] batkull, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī, [[wiki/linear-a/words/T/TE_star301|TE-\*301]] Tēnā.
 
 <!-- END kaphtor:record -->

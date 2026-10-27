@@ -43,6 +43,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-PK Zb 26, a clay vessel. RILA-S1 admits it, and Younger lists PK Zb 26 as unpublished, citing Del Freo and Zurbach 2011, 91, with no text (Younger, Linear A Texts). No reading.
+PK Zb 26, a clay vessel. On the photograph the third sign is a cross within two long arcs on a stem, not DI. RILA-S1 admits it, and Younger lists PK Zb 26 as unpublished, citing Del Freo and Zurbach 2011, 91, with no text (Younger, Linear A Texts). No reading.
 
 <!-- END kaphtor:record -->

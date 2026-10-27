@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O
 desc: "Words whose first sign begins with O."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:37Z
+updated: 2026-10-27T15:14:19Z
 ---
 
 # wiki/linear-a/words/O
@@ -41,7 +41,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/O/O_RA2_DI_NE|O_RA2_DI_NE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/O/O_SU_QA_RE|O_SU_QA_RE]]: ʾō Sukar: O Sukar—proposed Minoan rendering of Egyptian Sokar. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/O/O_SU_QA_RE|O_SU_QA_RE]]: ʾō Sukar: O Sokar (Egyptian Skr), the deity addressed; rival Ušḫara the Snake. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/O/O_TA_NI_ZA_SE|O_TA_NI_ZA_SE]]: Unread (role only): no role; 1 occurrence(s).
 

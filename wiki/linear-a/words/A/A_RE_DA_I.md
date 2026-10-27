@@ -71,6 +71,6 @@ di Mino; Gelb, Purves, and MacRae 1943
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_DU_MA_NE|KA-DU-MA-NE]] Kadumānu, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_DU_MA_NE|KA-DU-MA-NE]] Qadmān, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare.
 
 <!-- END kaphtor:record -->

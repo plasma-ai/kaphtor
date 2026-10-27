@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T03:07:18Z
 ---
 
 # wiki/linear-a/words/M
@@ -105,7 +105,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/M/MI_TU_broken_start|MI_TU_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MI_ZA_SE|MI_ZA_SE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MI_ZA_SE|MI_ZA_SE]]: mizza-se: for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: murru: myrrh or aromatic resin (compound logogram). Lexicon, CANDIDATE (tier 2).
 

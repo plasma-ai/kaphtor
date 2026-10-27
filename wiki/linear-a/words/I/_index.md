@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:44:10Z
+updated: 2026-10-27T03:07:18Z
 ---
 
 # wiki/linear-a/words/I
@@ -97,7 +97,7 @@ updated: 2026-10-25T05:44:10Z
 
 [[wiki/linear-a/words/I/I_TI|I_TI]]: ʾitti: with, at (comitative preposition); IOZa12 possibly ʔittī 'with me'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/I/I_TI_NI_SA|I_TI_NI_SA]]: Unread (edge overlap): no role; 1 occurrence(s).
+[[wiki/linear-a/words/I/I_TI_NI_SA|I_TI_NI_SA]]: ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_TI_TI_KU_NI|I_TI_TI_KU_NI]]: (y)ittatkūni: which have been poured out—disbursed (derived-stem header); rival a heading name. Lexicon, SPECULATIVE (tier 1).
 

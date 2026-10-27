@@ -66,5 +66,6 @@ Allograph of NA (AB06). Second sign writing /na/. 288 total corpus occurrences (
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TE_star301\|TE-\*301]] | Tēnā | CANDIDATE |
+| [[wiki/linear-a/words/Z/ZU_star301\|ZU-\*301]] | ṯannān | SPECULATIVE |
 
 <!-- END kaphtor:record -->

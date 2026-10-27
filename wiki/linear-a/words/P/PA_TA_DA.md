@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_TA_DA
 title: "PA-TA-DA"
-desc: "Patada: Ptah-theophoric personal name: Ptaḥ-di(w) 'Ptah-gives/Ptah-given'. Lexicon, CANDIDATE (tier 2)."
+desc: "Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "PA-TA-DA"
@@ -32,19 +32,18 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Patada |
-| Meaning | Ptah-theophoric personal name: Ptaḥ-di(w) 'Ptah-gives/Ptah-given' |
-| Root | p-t-ḥ |
+| Meaning | personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit) |
 | Language layer | Middle Egyptian |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PH(?)31a.3–4, after KU-PA₃-NU SUS+SI+RE 1, broken after; HTZb160 clay-vessel label PA-TA-DA-DU-PU₂-RE 'Patada: to the sanctuary' (scriptio continua, PN + dubur). Phonologically ambiguous with NWS √p-t-ḥ 'to open.' -DA element: Egyptian dj/di(w) 'give(n)' — Ptaḥ-di(w) 'Ptah-gives/Ptah-given.' The DN-first order follows the standard NK verbal template Ptḥ-ms (Ptahmose 'Ptah-is-born') and Ptḥ-ḥtp (Ptahhotep 'Ptah-is-content'); the deity-last worry applies only to the Late-Period P3-dj-DN type, not to this one. Secondary option: hybrid Egypto-Semitic Ptaḥ-dād 'Beloved-of-Ptah,' a calque of Mry-Ptḥ (Merneptah) with NWS √d-w-d (cf. corpus DA-DU-\*301 dāduna 'our beloved'). \|\| Huehnergard: Ug ptḥ /pat(a)hī/ "to open"; Strong/final guttural verb. G imperative fs: pth /pat(a)hī/. BH cognate: pātaḥ "to open" (Huehnergard 2012, paradigm section)
+PH(?) 31a .3 PA-TA-DA\[, after KU-PA₃-NU SUS+SI+RE 1, broken after DA at the line end; HT Zb 160 PA-TA-DA DU-PU₂-RE\[, a vessel label 'Patada: to the sanctuary'. Egyptian ptḥ-dj⸗f, a man's name under Thutmose IV–Amenhotep III (PNM v6, Louvre C 277), the ḥ and the ⸗f unwritten; Amarna writes Ptah -ptaḫ in Ḫi-ku-up-ta-aḫ (EA 84:37; RGTC 12/2, 105). Rival: Hurrian pṭḏ, a man at Ugarit (KTU 4.357:23; DULAT 676).
 
 ### Source
 
-di Mino
+Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino
 
 ## Attestations
 
@@ -70,6 +69,10 @@ di Mino
 | Occurrences | 2 in 2 documents |
 | Sites | Phaistos, Haghia Triada |
 | Supports | Tablet 1, Clay vessel 1 |
+
+### Note
+
+Egyptian ptḥ-dj⸗f 'Ptah gives', a man's name under Thutmose IV–Amenhotep III (PNM v6). Rival: Hurrian pṭḏ, a man at Ugarit (DULAT 676). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

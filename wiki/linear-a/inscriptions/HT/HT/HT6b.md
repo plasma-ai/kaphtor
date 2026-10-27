@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["DU-DA-MA", "DU-NI-MI", "MA-RI-RE-I", "PA₃-NI-NA", "SA-MA"]
+words: ["DU-DA-MA", "DU-NI-MI", "MA-RI-RE-I", "PA₃-NI-NA", "RA-TI-SE", "SA-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -62,7 +62,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DU_DA_MA|DU-DA-MA]], [[wiki/linear-a/words/D/DU_NI_MI|DU-NI-MI]], [[wiki/linear-a/words/M/MA_RI_RE_I|MA-RI-RE-I]], [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]], [[wiki/linear-a/words/S/SA_MA|SA-MA]].
+[[wiki/linear-a/words/D/DU_DA_MA|DU-DA-MA]], [[wiki/linear-a/words/D/DU_NI_MI|DU-NI-MI]], [[wiki/linear-a/words/M/MA_RI_RE_I|MA-RI-RE-I]], [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]], [[wiki/linear-a/words/R/RA_TI_SE|RA-TI-SE]], [[wiki/linear-a/words/S/SA_MA|SA-MA]].
 
 ## Edition differences
 

@@ -9,7 +9,7 @@ updated: 2026-10-22T18:14:10Z
 ---
 
 `onomasticon.json` holds `schema_version`, `description`, the closed lists `affiliation_classes`, `types` and
-`provenance_levels`, `stats` (counts by type, affiliation and provenance) and `entries`, a list keyed by `token`. It
+`provenance_levels`, `stats` (counts by type, affiliation, family and provenance) and `entries`, a list keyed by `token`. It
 holds names only: a word the lexicon reads as a commodity, a verb or a phrase has no entry here, and neither has a
 group no one can read. Readings are di Mino's unless the note names another scholar.
 
@@ -19,6 +19,7 @@ group no one can read. Readings are di Mino's unless the note names another scho
 | `normalized` | the token in lower case without hyphens or asterisks, subscripts as digits, for matching |
 | `type`, `type_confidence` | personal name, toponym, theonym, gentilic, toponym or gentilic (`toponym_gentilic`) or title, and the tier of that classification |
 | `affiliation`, `affiliation_confidence` | the language the name belongs to (`semitic`, `hurrian`, `egyptian`, `unknown`…), and its tier |
+| `language_family` | the family over `affiliation`: `Semitic` (semitic, akkadian_contact), `Hurro-Urartian` (hurrian), `Egyptian`, `Indo-European` (anatolian, indo_aryan), or null for `unknown`; `stats.by_family` counts it, with null as `unassigned` |
 | `affiliation_evidence` | what sets the affiliation: `lexicon_reading`, `contact_hit` or `none` |
 | `lexicon_ref` | the lexicon entry that reads the name, or the base word of a derived form, where there is one |
 | `reading`, `meaning` | the lexicon's reading and sense, copied onto the entry; on an entry with no lexicon link, di Mino's reading, with affiliation `unknown` |

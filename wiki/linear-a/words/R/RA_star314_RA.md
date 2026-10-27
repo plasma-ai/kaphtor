@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RA_star314_RA
 title: "RA-*314-RA"
-desc: "Rꜥ-Ḥr: Ra-Horus (Egyptian theophoric personal name); rival raḥil 'ewe-lamb'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Raḥil: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "RA-*314-RA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Rꜥ-Ḥr"
+reading: "Raḥil"
 attestations: ["HTWc3006"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,19 +31,20 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Rꜥ-Ḥr |
-| Meaning | Ra-Horus (Egyptian theophoric personal name); rival raḥil 'ewe-lamb' |
-| Language layer | Middle Egyptian |
+| Reading | Raḥil |
+| Meaning | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra' |
+| Root | r-ḥ-l |
+| Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT Wc 3006, a roundel: WA-O-MI RA-\*314-RA. Egyptian Rꜥ-Ḥr(w) 'Ra-Horus': RA writes Rꜥ, \*314 the ḥ of Ḥr, RA its r. Rivals: rāḥēl 'ewe' (HALOT 1216), Arb. riḫl, raḫil 'ewe-lamb' (Lane 1059), Akk. laḫru (CAD L 42), a roundel commodity; a local name. One attestation.
+HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. raḥil 'ewe' (semitic_roots no. 2267), Heb. rāḥēl 'ewe' (HALOT 1216) and the name Rachel (Gen 29:6); \*314 writes the ḥ, RA the final l as in KU-RO kull. Rivals: the commodity 'ewe'; Egyptian ḥr-rꜥ 'Horus-Ra' (Ranke I, 249.15; PNM v6), Horus first. One witness.
 
 ### Source
 
-di Mino
+di Mino; HALOT 1216
 
 ## Attestations
 
@@ -56,7 +57,7 @@ di Mino
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | egyptian (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
@@ -65,6 +66,6 @@ di Mino
 
 ### Note
 
-Reading from the lexicon (di Mino). Weak point: the value \*314 = ḥa is unconfirmed.
+raḥil 'ewe', Hebrew rāḥēl and the name Rachel, on a roundel without a logogram. Rival: Egyptian ḥr-rꜥ 'Horus-Ra' (PNM v6). See the lexicon entry.
 
 <!-- END kaphtor:record -->

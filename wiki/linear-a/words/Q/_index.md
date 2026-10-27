@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T03:07:18Z
 ---
 
 # wiki/linear-a/words/Q
@@ -35,11 +35,11 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/Q/QA_SA_RA_KU|QA_SA_RA_KU]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/Q/QA_TI_DA_TE|QA_TI_DA_TE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/Q/QA_TI_DA_TE|QA_TI_DA_TE]]: Kati-tati: Kati-tati (Hurrian personal name); rival katītat 'beaten (oil)'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QA_TI_JU|QA_TI_JU]]: Qātilu: personal name, recipient of 8 (q-ṭ-l). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QA_TI_JU|QA_TI_JU]]: Qātilu: Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QA_TI_KI|QA_TI_KI]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/Q/QA_TI_KI|QA_TI_KI]]: Kattike: Kattike (Hurrian personal name), on kad- 'to say'; rival katki 'utterance'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QA_star118|QA_star118]]: qaṭṭ(u): flax, linseed—field-crop commodity. Lexicon, CANDIDATE (tier 2).
 

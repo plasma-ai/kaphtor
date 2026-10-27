@@ -53,7 +53,7 @@ Evidence: b 14/20, p 12/20, and p yields a root for every cited word; a labial, 
 | [[wiki/linear-a/words/K/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | PROBABLE |
 | [[wiki/linear-a/words/K/KU_PA3_PA3\|KU-PA₃-PA₃]] | Kubaba | PROBABLE |
-| [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Gubliya | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3\|PA₃]] | b(i)=; bād(i) | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_star188\|PA₃-\*188]] | bu-BUṬNU | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_E\|PA₃-E]] | bē | CANDIDATE |
@@ -63,6 +63,7 @@ Evidence: b 14/20, p 12/20, and p yields a root for every cited word; a labial, 
 | [[wiki/linear-a/words/P/PA3_NI_WI\|PA₃-NI-WI]] | bānīy | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_SI_MO\|PA₃-SI-MO]] | basimo | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qubaʿ | PROBABLE |
+| [[wiki/linear-a/words/S/SE_SA_PA3\|SE-SA-PA₃]] | Zizapa | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | subāra | PROBABLE |
 
 <!-- END kaphtor:record -->

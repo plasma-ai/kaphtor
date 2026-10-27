@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/J/JA_MI_DA_RE
 title: "JA-MI-DA-RE"
-desc: "Yamidare: He-from-the-hand-of-Re (Egyptian theophoric). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+desc: "Yamidare: He-from-the-hand-of-Re (Egyptian theophoric). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "JA-MI-DA-RE"
 datasets: ["lexicon", "onomasticon"]
-tier: 3
-confidence: "PROBABLE"
-confidence_score: 0.7
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.25
 reading: "Yamidare"
 attestations: ["HT122a"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**PROBABLE**, tier 3 of 4, score 0.70
+**SPECULATIVE**, tier 1 of 4, score 0.25
 
 | Field | Value |
 |---|---|
@@ -37,9 +37,13 @@ updated: 2026-10-24T16:17:50Z
 | Category | personal_name |
 | Semantic field | personal_name |
 
+### Note
+
+HT 122a, intact, 1 in a list of names totalling 31. Gordon reads Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127), comparing Ugaritic bdil 'From-the-hand-of-El'. Rival: a Minoan name. One witness.
+
 ### Source
 
-Gordon 1966
+Gordon 1966a, 31 (§127)
 
 ## Attestations
 
@@ -67,7 +71,7 @@ Gordon 1966
 
 ### Note
 
-Reading from the lexicon (Gordon 1966).
+Gordon's Egyptian Ỉmy-d(t)-Rꜥ 'He-who-is-from-the-hand-of-Re' (Gordon 1966a, 31, §127). Rival: a Minoan name. One witness. See the lexicon entry.
 
 ### Co-occurring lexicon words
 

@@ -21,6 +21,7 @@ updated: 2026-10-22T18:14:10Z
 | `tier`, `confidence` | 4 CONFIRMED, 3 PROBABLE, 2 CANDIDATE, 1 SPECULATIVE |
 | `confidence_score` | a score from 0 to 1 that ranks entries within a tier |
 | `semantic_field`, `category`, `language_layer` | classification; `language_layer` names the language the reading draws on |
+| `language_family` | the family over `language_layer`, on every entry: `Semitic` (NWS, Akkadian, Eblaite and the mixed Semitic labels), `Hurro-Urartian` (Hurrian), `Egyptian`, `Indo-European` (Anatolian, Indo-Aryan), `Afroasiatic` (NWS or Egyptian), or null for logograms, Aegean and substrate words, contact words and unresolved labels |
 | `attestations` | inscription ids, always a list |
 | `sites` | site names, where recorded |
 | `note` | evidence, rivals and parallels; sections are separated by ` \|\| ` |

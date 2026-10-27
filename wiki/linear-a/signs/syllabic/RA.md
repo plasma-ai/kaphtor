@@ -78,6 +78,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_SA_SA_RA_ME\|JA-SA-SA-RA-ME]] | yaššaram | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]] | kikkarāya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû/qīra | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] | Kurmu | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
@@ -85,7 +86,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CONFIRMED |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitara / batūla | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
-| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Rꜥ-Ḥr | SPECULATIVE |
+| [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥil | SPECULATIVE |
+| [[wiki/linear-a/words/R/RA_TI_SE\|RA-TI-SE]] | Ratis | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RA\|SA-RA]] | šarra | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | SPECULATIVE |

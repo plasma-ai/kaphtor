@@ -33,13 +33,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Dimenu |
 | Meaning | Dimenu (personal name; Ugaritic name type dmn) |
-| Language layer | unresolved |
+| Language layer | Semitic |
 | Category | personal_name |
 | Semantic field | personnel |
 
 ### Note
 
-HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). DA at its primary value d gives dmn; the syllabic ZI-me-nu has the same three syllables. DULAT gives no etymology, so the language stays open. Rival: Ugaritic tmn (II), ta-me-nu, which needs DA for t. Second analysis: DA = the determinative-relative ḏā 'the one of' + MI-NU, a 'he of X' name written as one word, as DU-RU-WI ḏu-lēwī is. The type: Amorite Zu-i-la 'He of God' (Gelb no. 6596), Zu-dIš-ḫa-ra 'He of Išḫara' (no. 6598), on ḏu 'he/she of', written ZU (Gelb 1980, 18); Nabataean dwšrʾ, Δουσαρης 'He of the Šarā', probably dišar (Macdonald, in Al-Jallad 2022, 95–96); Hebrew zeh sînay 'the One of Sinai' (Judg 5:5). MI-NU is from √m-n-y 'count, allot', the portion and fate (PS \*maniy-at-, no. 2703): Amorite manawum, manūtum (Gelb 1980, 25), Arab. Manāt (Q 53:20); cf. MI-NE Mīnō in DA-DU-MI-NE. Or from √m-n-n 'bestow, favor': Heb. mān 'manna' (Exod 16:31). Hence dā-Mīnu 'He of the Portion' or 'He of the Favor'. MI- stands for Amorite ma-, as in MI-NU-TE against Ma-nu-tum (Gelb no. 4528). Cf. LB da-mi-ni-jo, a shepherd at Knossos (DMic I).
+HT 117a .8 DA-MI-NU 1, whole and undotted, in the second list headed SA-TA, before DA-NE-KU-TI 1 (GORILA I 197). DA at its primary value d gives dmn; the syllabic ZI-me-nu has the same three syllables. DULAT gives no etymology, and the one analysis on offer, below, is Semitic. Rival: Ugaritic tmn (II), ta-me-nu, which needs DA for t. Second analysis: DA = the determinative-relative ḏā 'the one of' + MI-NU, a 'he of X' name written as one word, as DU-RU-WI ḏu-lēwī is. The type: Amorite Zu-i-la 'He of God' (Gelb no. 6596), Zu-dIš-ḫa-ra 'He of Išḫara' (no. 6598), on ḏu 'he/she of', written ZU (Gelb 1980, 18); Nabataean dwšrʾ, Δουσαρης 'He of the Šarā', probably dišar (Macdonald, in Al-Jallad 2022, 95–96); Hebrew zeh sînay 'the One of Sinai' (Judg 5:5). MI-NU is from √m-n-y 'count, allot', the portion and fate (PS \*maniy-at-, no. 2703): Amorite manawum, manūtum (Gelb 1980, 25), Arab. Manāt (Q 53:20); cf. MI-NE Mīnō in DA-DU-MI-NE. Or from √m-n-n 'bestow, favor': Heb. mān 'manna' (Exod 16:31). Hence dā-Mīnu 'He of the Portion' or 'He of the Favor'. MI- stands for Amorite ma-, as in MI-NU-TE against Ma-nu-tum (Gelb no. 4528). Cf. LB da-mi-ni-jo, a shepherd at Knossos (DMic I).
 
 ### Cognates
 
@@ -62,7 +62,7 @@ di Mino; DULAT
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | auto |
 | Occurrences | 1 in 1 documents |

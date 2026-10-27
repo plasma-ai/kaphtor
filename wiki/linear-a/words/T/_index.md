@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T13:24:33Z
 ---
 
 # wiki/linear-a/words/T
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/T/TA2_TA_RE|TA2_TA_RE]]: Tatare: personal name; compare Linear B ta-ta-ro. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TA2_TA_RE|TA2_TA_RE]]: Tatare: personal name (Hurrian?); compare Linear B ta-ta-ro, Mari ᶠTatara. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA2_TI_TE|TA2_TI_TE]]: Tati-te: Tati-te, '(Teššup) loved' (Hurrian personal name, hypocoristic). Lexicon, SPECULATIVE (tier 1).
 
@@ -57,11 +57,11 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/T/TA_RA|TA_RA]]: ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_RI_NA|TA_RI_NA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_SA_ZA|TA_SA_ZA]]: Unread (role only): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TA_TA|TA_TA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TA_TA|TA_TA]]: Tatta: Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE|TA_TE_I_KE_ZA_RE]]: Unread (role only): no role; 1 occurrence(s).
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-27T15:14:17Z
 ---
 
 # wiki/linear-a/words/J
@@ -35,7 +35,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/J/JA_MA_U_TI|JA_MA_U_TI]]: Yamūti: personal name, Amorite type (yaqtul of √m-w-t). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/J/JA_MI_DA_RE|JA_MI_DA_RE]]: Yamidare: He-from-the-hand-of-Re (Egyptian theophoric). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/J/JA_MI_DA_RE|JA_MI_DA_RE]]: Yamidare: He-from-the-hand-of-Re (Egyptian theophoric). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_PA|JA_PA]]: Yapaʿ(u): personal name ("he shines"—Amarna Yapaḫu). Lexicon, SPECULATIVE (tier 1).
 
