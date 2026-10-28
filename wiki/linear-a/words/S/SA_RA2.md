@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-20 Haghia Triada accounting-tablet witnesses: 19 preserve the complete group, while HT125a has \]SA-RA₂ at a broken left edge and cannot independently prove that the group was complete there. Distribution strongly disfavors the šeʾāra 'remainder/surplus' analysis. HT105 places KA-PA and SA-RA₂ in parallel before VIR totals 234 and 235; HT100 and HT94a place SA-RA₂ after a completed KU-RO and before a new commodity section; HT30 and HT34 already use KI-RO for an actual deficit; HT97b preserves SA-RA₂ alone as a plausible docket or recipient label. Montecchi independently excludes a transactional meaning and identifies SA-RA₂ as probably a sender, recipient, personal name, or local name. Within the Semitic hypothesis, the SA-RA/SA-RU title family makes /šarra/ 'queen/princess' the strongest positive candidate; in administrative contexts this may refer metonymically to the queen's establishment, or more broadly the royal establishment. This remains CANDIDATE rather than PROBABLE: exact Akkadian šarratu would require an unwritten final /t/, and RA₂'s value is not securely /ra/ (proposals include /rya/, /rra/, /lya/, and /lla/). The √š-ʾ-r derivation is rejected because positional recurrence alone did not establish the semantics 'surplus.'
+20 Haghia Triada accounting-tablet witnesses: 19 preserve the complete group, while HT125a has \]SA-RA₂ at a broken left edge and cannot independently prove that the group was complete there. Distribution strongly disfavors the šeʾāra 'remainder/surplus' analysis. HT105 places KA-PA and SA-RA₂ in parallel before VIR totals 234 and 235; HT100 and HT94a place SA-RA₂ after a completed KU-RO and before a new commodity section; HT30 and HT34 already use KI-RO for an actual deficit; HT97b preserves SA-RA₂ alone as a plausible docket or recipient label. Montecchi independently excludes a transactional meaning and identifies SA-RA₂ as probably a sender, recipient, personal name, or local name. Within the Semitic hypothesis, the SA-RA/SA-RU title family makes /šarra/ 'queen/princess' the strongest positive candidate; in administrative contexts this may refer metonymically to the queen's establishment, or more broadly the royal establishment. This remains CANDIDATE rather than PROBABLE: exact Akkadian šarratu would require an unwritten final /t/, and RA₂'s value is not securely /ra/ (proposals include /rya/, /rra/, /lya/, and /lla/). A √š-ʾ-r 'surplus' derivation rests on positional recurrence alone, which does not establish the sense.
 
 ### Cognates
 
@@ -83,17 +83,17 @@ Corpus distribution; Montecchi 2008, 321; comparative Akkadian šarratu and Hebr
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | šarra(?) | queen/princess or royal establishment | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | šarra(?) | queen/princess or royal establishment |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | šarra(?) | queen/princess or royal establishment |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | šarra(?) | queen/princess or royal establishment | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT97b\|HT97b]] | šarra(?) | queen/princess or royal establishment |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | šarra(?) | queen/princess or royal establishment (recipient heading) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | šarra(?) | queen/princess or royal establishment (recipient heading) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | šarra(?) | queen/princess or royal establishment (entity heading) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | šarra(?) | queen/princess or royal establishment: grain 976 | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | šarra(?) | queen/princess or royal establishment | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | šarra(?) | queen/princess; by metonymy, the queen's establishment | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | šarra | queen/princess or royal establishment | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | šarra | queen/princess or royal establishment |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | šarra | queen/princess or royal establishment |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | šarra | queen/princess or royal establishment | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT97b\|HT97b]] | šarra | queen/princess or royal establishment |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | šarra | queen/princess or royal establishment (recipient heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | šarra | queen/princess or royal establishment (recipient heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | šarra | queen/princess or royal establishment (entity heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | šarra | queen/princess or royal establishment: grain 976 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | šarra | queen/princess or royal establishment | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | šarra | queen/princess; by metonymy, the queen's establishment | CANDIDATE |
 
 ## Onomasticon
 
@@ -109,6 +109,6 @@ Corpus distribution; Montecchi 2008, 321; comparative Akkadian šarratu and Hebr
 
 ### Note
 
-Corpus distribution favors a recipient, title, or institution over the former 'surplus' gloss. HT105 supplies the strongest control: KA-PA and SA-RA₂ stand in parallel before VIR totals 234 and 235. The royal reading remains CANDIDATE because RA₂ is uncertain and exact Akkadian šarratu would require an unwritten final /t/.
+Corpus distribution favors a recipient, title, or institution over a 'surplus' gloss. HT105 supplies the strongest control: KA-PA and SA-RA₂ stand in parallel before VIR totals 234 and 235. The royal reading remains CANDIDATE because RA₂ is uncertain and exact Akkadian šarratu would require an unwritten final /t/.
 
 <!-- END kaphtor:record -->

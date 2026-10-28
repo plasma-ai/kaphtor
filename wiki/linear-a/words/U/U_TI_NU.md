@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Ending of the petition verb: TA-NA-RA-TE-U-TI-NU (IO Za 2), TA-NA-I-\*301-U-TI-NU (IO Za 6), \]U-TI-NU · I-NA-I-DA-\[ (IO Za 11, broken before U). Davis, Thomas and Monti isolate it (Monti 2022, 111–112). U = indicative -u, TI = 2fs -tī, NU = -n(u) 'us' (di Mino, Ya Diktu). Rival: -NU the precative particle (cf. Heb. nāʾ, Ps 119:108). U-TI-NU never stands free (Thomas 2020).
+Ending of the petition verb: TA-NA-RA-TE-U-TI-NU (IO Za 2), TA-NA-I-\*301-U-TI-NU (IO Za 6), \]U-TI-NU · I-NA-I-DA-\[ (IO Za 11, broken before U). Davis, Thomas and Monti isolate it (Monti 2022, 111–112). U = indicative -u, TI = 2fs -tī, NU = -n(u) 'us' (di Mino, Ya Diktu; cf. Eblaite accusative -nu, Kogan and Krebernik 2021, 754). Rival: -NU the precative particle (cf. Heb. nāʾ, Ps 119:108). U-TI-NU never stands free (Thomas 2020).
 
 ### Source
 

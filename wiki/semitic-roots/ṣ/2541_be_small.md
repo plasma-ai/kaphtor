@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṣaɣīr- 'small, insignificant, young' (Lane 1692) | Lane 1692 |  |
-| Akkadian | ṣe/aḫr- AHw, ṣiḫr- CAD |  | gloss withheld |
+| Akkadian | ṣe/aḫr- AHw, ṣiḫr- CAD; ṣeḫēru (CAD Ṣ 120); ṣiḫru (CAD Ṣ 179) | CAD Ṣ 120; CAD Ṣ 179 | gloss withheld |
 | Eblaitic | sa-ḫu-ru |  | gloss withheld |
 | Ugaritic | ṣɣr |  |  |
 | Modern Arabic | Mec ṣaɣiyr |  |  |

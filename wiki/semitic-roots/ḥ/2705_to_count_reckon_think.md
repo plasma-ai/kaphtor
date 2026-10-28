@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2705_to_count_reckon_think
 title: "*ḥašab-: 'to count, reckon, think'"
-desc: "Proto-Semitic *ḥašab-, 'to count, reckon, think': reflexes in 18 language(s)."
+desc: "Proto-Semitic *ḥašab-, 'to count, reckon, think': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2705"
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | issäbä (LGz. 245) | LGz. 245 | gloss withheld |
 | Gurage | asäbä (LGz. 245) | LGz. 245 | gloss withheld |
 | Mandaic Aramaic | ḥšb (LGz. 245) | LGz. 245 |  |
+| Amorite | ḥ-S-b: ia-aḫ-su/sú-ub-ìl (Sanmartín GlOS 1, 252) | Sanmartín GlOS 1, 252 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

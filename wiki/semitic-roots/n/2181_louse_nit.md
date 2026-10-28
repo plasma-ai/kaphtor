@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | nib(b), pl. énbob \[NP 65\]. | NP 65 | gloss withheld |
 | Akkadian | nābu SB \[CAD n1 40\], nēbu \[ibid. n2 149\] | CAD n1 40; CAD n2 149 | gloss withheld |
 | Judaic Aramaic | nibbā \[Ja. 867\], \[Levy WTM III 323\], ʔinbā \[Ja. 80\], \[Levy WTM I 104\], nābā \[Sok. B 725\]. | Ja. 867; Levy WTM III 323; Ja. 80; Levy WTM I 104; Sok. B 725 | gloss withheld |
-| Eblaitic | na-bù (VE 0041) | VE 0041 |  |
+| Eblaitic | na-bù (VE 0041); na-bù /nab/ (Sanmartín GlOS 2, 71) | VE 0041; Sanmartín GlOS 2, 71 | gloss withheld |
 | Mehri | ḥaunîb (SED II 209) | SED II 209 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

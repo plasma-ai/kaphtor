@@ -13,7 +13,9 @@ for byte at a pinned hash (see its README).
 | `data_cache.py` | Shared data cache and loaders, including `sign_value_entries` for sign values |
 | `egyptian_morphology.py` | Conservative fuzzy Egyptian morphology matching via affix stripping |
 | `greek_spelling.py` | Greek → Linear B CV spelling converter |
+| `js_parser.py` | Parses the JavaScript `Map` declarations of `LinearAInscriptions.js` into Python dicts |
 | `linear_b_slots.py` | Linear B administrative slot model for cross-script validation |
+| `meaning_shuffle.py` | Shoresh's corpus-level companion: anchored words against roots gated to each word's context, the contexts shuffled among the words; its statistics (rank, count, capped sum), null and power simulation, and the KS test of its calibration |
 | `morphology_dispatch.py` | Language-aware morphology dispatcher |
 | `normalization.py` | Semitic lexicon normalization and lookup |
 | `null_model.py` | Permutation null models for hypothesis tests |

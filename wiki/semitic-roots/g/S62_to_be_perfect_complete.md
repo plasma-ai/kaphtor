@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gāmar (LGz. 195) | LGz. 195 | gloss withheld |
 | Syrian Aramaic | gəmar (LGz. 195) | LGz. 195 |  |
 | Tigre | gämmärä (LGz. 195) | LGz. 195 | gloss withheld |
-| Amorite | gmr: jagmur, gamir(ān)um, jīgmir (Gelb AS 21, 19); yigmir, gimru (Buck 2019, 326) | Gelb AS 21 19; Buck 2019, 326 | gloss withheld |
+| Amorite | gmr: jagmur, gamir(ān)um, jīgmir (Gelb AS 21, 19); yigmir, gimru (Buck 2019, 326); g-m-r: ia-ag-mu-ru-um, ia-ag-mu-ur-DINGIR (Sanmartín GlOS 1, 182) | Gelb AS 21 19; Buck 2019, 326; Sanmartín GlOS 1, 182 | gloss withheld |
 | Phoenician | gmr: mgmr (T 66) | T 66 | gloss withheld |
 | Judaic Aramaic | gemar (T 66) | T 66 |  |
 | Biblical Aramaic | gamar (T 66) | T 66 |  |

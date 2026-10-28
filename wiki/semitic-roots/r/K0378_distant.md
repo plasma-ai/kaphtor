@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0378_distant
 title: "*raḥaq-: 'distant'"
-desc: "Proto-Semitic *raḥaq-, 'distant': reflexes in 20 language(s)."
+desc: "Proto-Semitic *raḥaq-, 'distant': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0378"
@@ -48,7 +48,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | raqä (LGz. 467) | LGz. 467 |  |
 | Gurage | raqä (LGz. 467) | LGz. 467 |  |
 | Gafat | raqä (LGz. 467) | LGz. 467 |  |
-| Amorite | rḥq: jirḥaq, jārḥiq (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rḥq: jirḥaq, jārḥiq (Gelb AS 21, 30); r-ḥ-q: ir-ḫa-kum, ii-ir-ḫa-kum, e-er-ḫa-kum (Sanmartín GlOS 2, 159) | Gelb AS 21 30; Sanmartín GlOS 2, 159 | gloss withheld |
+| Eblaitic | /r-ḥ-q/: names íl-ʔà-ag-da-mu, ìr-ʔà-ag-da-mu, ìr-ag-da-mu; /raḥq, reḥq/: names la-ga-a-gú, ḫu-ba-rí-ga/gú, ḫu:ba-rí:ga; /ruḥq/: names ʔà-ma/mu-ru₁₂-gú, bù-lu/ru₁₂-gú, bù-ru₁₂-ù-gú (Sanmartín GlOS 2, 159) | Sanmartín GlOS 2, 159 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

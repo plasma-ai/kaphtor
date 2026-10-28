@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-29T02:57:39Z
 ---
 
 # wiki/semitic-roots/z
@@ -31,7 +31,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/z/163_much_hair_on_the_head_bristle|163_much_hair_on_the_head_bristle]]: Proto-Semitic *zapp-/*zabb-, '(much) hair (on the head), bristle': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/z/1815_seed_sowing_sown_field_1_to_sow_cultivate_2|1815_seed_sowing_sown_field_1_to_sow_cultivate_2]]: Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 26 language(s).
+[[wiki/semitic-roots/z/1815_seed_sowing_sown_field_1_to_sow_cultivate_2|1815_seed_sowing_sown_field_1_to_sow_cultivate_2]]: Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 28 language(s).
 
 [[wiki/semitic-roots/z/198_keep_from_urinating|198_keep_from_urinating]]: Proto-Semitic *zVnaʾ-, 'keep from urinating': reflexes in 1 language(s).
 
@@ -43,15 +43,13 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/z/2050_teat|2050_teat]]: Proto-Semitic *zīz- {} *ʒiʒ-, 'teat': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/z/2112_to_fornicate|2112_to_fornicate]]: Proto-Semitic *z/ḏny {} *ʒ/ǯny, 'to fornicate': reflexes in 15 language(s).
+[[wiki/semitic-roots/z/2112_to_fornicate|2112_to_fornicate]]: Proto-Semitic *z/ḏny {} *ʒ/ǯny, 'to fornicate': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/z/2308_kind_of_insect|2308_kind_of_insect]]: Proto-Semitic *zīz-, 'kind of insect': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/2309_gazelle|2309_gazelle]]: Proto-Semitic *zVmr-, 'gazelle': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/z/2310_starling|2310_starling]]: Proto-Semitic *zVrzVr-, 'starling': reflexes in 4 language(s).
-
-[[wiki/semitic-roots/z/2536_seed_sowing|2536_seed_sowing]]: Proto-Semitic *zVrVʕ-, 'seed, sowing': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/z/2542_be_small|2542_be_small]]: Proto-Semitic *zVʕVr-, 'be small': reflexes in 5 language(s).
 

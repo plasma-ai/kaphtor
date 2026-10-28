@@ -47,7 +47,7 @@ Ritual homograph, kept separate from administrative SI-KA √š-k-n (HT nodules,
 | Language | Comparison |
 |---|---|
 | Proto-Semitic | \*š-q-y "to give drink, to water" (PS #2705) |
-| Ugaritic | šqy "to give drink" (DUL 842) |
+| Ugaritic | šqy "to give drink" (DULAT 827) |
 | Hebrew | hišqā (הִשְׁקָה) "to give drink, to water" (HALOT 1640); šiqqūy (שִׁקּוּי) "drink, watering"; mašqeh (מַשְׁקֶה) "cupbearer, drink" |
 | Akkadian | šaqû "to give to drink, to irrigate" (CAD Š2 20); šāqû "cupbearer" |
 | Arabic | saqā "to water, give drink" (BK 1 1076); sāqī "cupbearer"; siqāya "the providing of water" (Q 9:19 siqāyat al-ḥājj) |

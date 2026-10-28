@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T22:29:24Z
+updated: 2026-10-29T16:31:57Z
 ---
 
 # wiki/linear-a/words/M
@@ -95,7 +95,7 @@ updated: 2026-10-27T22:29:24Z
 
 [[wiki/linear-a/words/M/MI_RE|MI_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MI_RU_TA_RA_RE|MI_RU_TA_RA_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MI_RU_TA_RA_RE|MI_RU_TA_RA_RE]]: Mīru-darār: Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MI_TA|MI_TA]]: mitta: personal name (Mitanni Indo-Aryan type). Lexicon, CANDIDATE (tier 2).
 

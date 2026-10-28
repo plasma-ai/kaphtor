@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | dǝrārā 'gum' \[Ja 325\]; duršinnē. | Ja 325 |  |
 | Syrian Aramaic | dūrā, dawrā, dawrǝtā 'tooth sockets' \[Brock 147\] | Brock 147 |  |
 | Akkadian | dūru; darru; dūr šinni (SED I 53) | SED I 53 |  |
-| Eblaitic | du-ḫu-rí si-ne-mu (ARET V 1.6) |  | gloss withheld |
+| Eblaitic | du-ḫu-rí si-ne-mu (ARET V 1.6) | ARET V 1.6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

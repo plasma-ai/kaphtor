@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2486_hail_cold
 title: "*bar(a)d-: 'hail, cold'"
-desc: "Proto-Semitic *bar(a)d-, 'hail, cold': reflexes in 18 language(s)."
+desc: "Proto-Semitic *bar(a)d-, 'hail, cold': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2486"
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | bärräda, bärädo (LGz. 103) | LGz. 103 | gloss withheld |
 | Gafat | bärädä (LGz. 103) | LGz. 103 | gloss withheld |
 | Mehri | bərēd (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
+| Eblaitic | ba-ra-du /barad/ (Sanmartín GlOS 1, 123); DN =ba-ra-du ma-du, the Euphrates (Antalík 1998, 43) | Sanmartín GlOS 1, 123; Antalík 1998, 43 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

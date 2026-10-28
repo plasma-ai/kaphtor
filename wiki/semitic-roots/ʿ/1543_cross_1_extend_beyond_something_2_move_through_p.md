@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1543_cross_1_extend_beyond_something_2_move_through_p
 title: "*ʕVbur- 1, 2, 3, 4, 6 ~ *ʕa/ibr- 5: 'cross' 1, 'extend beyond (something)' 2, 'move through, pass over, by, travel (along a road)' 3, 'inundate, invade' 4, '(river) bank' 5, 'go far away' 6"
-desc: "Proto-Semitic *ʕVbur- 1, 2, 3, 4, 6 ~ *ʕa/ibr- 5, 'cross' 1, 'extend beyond (something)' 2, 'move through, pass over, by, travel (along a road)' 3, 'inundate, invade' 4, '(river) bank' 5, 'go far away' 6: reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʕVbur- 1, 2, 3, 4, 6 ~ *ʕa/ibr- 5, 'cross' 1, 'extend beyond (something)' 2, 'move through, pass over, by, travel (along a road)' 3, 'inundate, invade' 4, '(river) bank' 5, 'go far away' 6: reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1543"
@@ -44,6 +44,8 @@ updated: 2026-10-26T14:26:59Z
 | Aramaic | ʿbr (T 237) | T 237 |  |
 | Soqotri | ʿbr (T 237); áˁber (SLOnline 24705) | T 237; SLOnline 24705 | gloss withheld |
 | Mandaic Aramaic | ʿbr (T 237) | T 237 |  |
+| Amorite | ʿibirt 4: cf. month name e-bir₅-tim, ḫi-bi-ir-tim (Sanmartín GlOS 1, 66) | Sanmartín GlOS 1, 66 | gloss withheld |
+| Eblaitic | cf. a-bar-rí-iš /ʿabar/ 5 (Sanmartín GlOS 1, 66) | Sanmartín GlOS 1, 66 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

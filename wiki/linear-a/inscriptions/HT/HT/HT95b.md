@@ -66,7 +66,7 @@ Unicode (Linear A block):
 
 **no confidence given**, complete.
 
-> For Addu: king/royal establishment 10, \[break\], blood (ritual category) 10, count/reckoning 10, emmer wheat 10, nobles/council(?) 10, parched grain(?) 10.
+> For Addu: king/royal establishment 10, \[break\], blood (ritual category) 10, count/reckoning 10, the assembly 10, nobles/council 10, parched grain 10.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king, prince; rival 'barley' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damu | blood (ritual allocation category) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | amount, number; counting or reckoning | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunāšu | emmer wheat | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | assembly; rival 'emmer' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | nobles, council of elders | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | parched (roasted) grain | CANDIDATE | CANDIDATE (lexicon) |
 
@@ -84,8 +84,8 @@ Context: Allocation ledger for the Storm God Addu—same six category words as r
 
 ### Source
 
-- Gordon 1966: A-DU, KU-NI-SU
-- di Mino: SA-RU, DA-ME, MI-NU-TE, DI-DE-RU
+- Gordon 1966: A-DU
+- di Mino: SA-RU, DA-ME, MI-NU-TE, KU-NI-SU, DI-DE-RU
 
 ## Lexicon words citing this document
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2607_to_precede_be_in_front
 title: "*ḳdm: 'to precede, be in front'"
-desc: "Proto-Semitic *ḳdm, 'to precede, be in front': reflexes in 22 language(s)."
+desc: "Proto-Semitic *ḳdm, 'to precede, be in front': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2607"
@@ -49,9 +49,10 @@ updated: 2026-10-22T17:38:31Z
 | Harari | qädäma (LGz. 421) | LGz. 421 |  |
 | Phoenician | qdm (Krahmalkov 424); qdm (T 284) | Krahmalkov 424; T 284 | gloss withheld |
 | Epigraphic South Arabian | Sab. qdm, qdmy (HALOT 1067; Sabaweb lemma 7203) | HALOT 1067; Sabaweb lemma 7203 | gloss withheld |
-| Amorite | qdm: qadimatum, qadm(ān)um, qidm(ān)um, qudmum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
+| Amorite | qdm: qadimatum, qadm(ān)um, qidm(ān)um, qudmum (Gelb AS 21, 29); aqdamātu: aq-da-ma-tim (ARM 27, 27: 10f.); aqdamu: aq-da-mi-ni-ma (Florilegium Marianum II, 216: 14') (Streck 2000, 84); qudm: PUZUR-qú-ud-ma, ad-mu-ku-ud-mi, an-nu-ku-ud-mi (Sanmartín GlOS 1, 341) | Gelb AS 21 29; Streck 2000 84; Sanmartín GlOS 1, 341 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. ḳädä (EDG 473 apud SEDonline 331) | EDG 473; SEDonline 331 | gloss withheld |
 | Soqotri | ḳédem (LS 367; CSOL I 585; Naumkin et al. 2015a:74; Naumkin et al. 2022:254 apud SEDonline 1601) | LS 367; SEDonline 1601 | gloss withheld |
+| Eblaitic | gú-ti-im /qudim/ (Sanmartín GlOS 1, 341) | Sanmartín GlOS 1, 341 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

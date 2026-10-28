@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PCS \*ˁwn 'to help, to aid' (Renfroe 1992: 22‒24; Kogan 2015: 323 apud SEDonline 1393). Arb. ˁawn- 'help, aid, assistance' (Lane 2203 apud SEDonline 1393). Akk. taḫanātu 'help, favour' (AHw 1301, CAD T 40) is probably an early West Semitic loan, \*ta-ˁān-at- (SEDonline 1393).
+PCS \*ˁwn 'to help, to aid' (Renfroe 1992: 22‒24; Kogan 2015: 323 apud SEDonline 1393). Arb. ˁawn- 'help, aid, assistance' (Lane 2203 apud SEDonline 1393). Akk. taḫanātu 'help, favour' (AHw 1301, CAD T 40) is probably an early West Semitic loan, \*ta-ˁān-at- (SEDonline 1393; Kogan 2025, 5). Kogan 2025, 5–6 adds Hebrew māʕōn 'refuge; habitation' (BDB 732) and, with "perhaps", Ugaritic ʕnn 'manservant' (DUL 166).
 
 <!-- END kaphtor:record -->

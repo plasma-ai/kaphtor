@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | ? | unknown (heading?) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] |  | unknown (heading?) | SPECULATIVE |
 
 ## Onomasticon
 

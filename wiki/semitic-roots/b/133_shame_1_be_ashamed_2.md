@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/133_shame_1_be_ashamed_2
 title: "*bu(h)ṯ- 1, *b(h)ṯ 2: 'shame' 1, 'be ashamed' 2"
-desc: "Proto-Semitic *bu(h)ṯ- 1, *b(h)ṯ 2, 'shame' 1, 'be ashamed' 2: reflexes in 7 language(s)."
+desc: "Proto-Semitic *bu(h)ṯ- 1, *b(h)ṯ 2, 'shame' 1, 'be ashamed' 2: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "133"
@@ -36,7 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | būšâ 1 (HALOT 117); bôš 2 (HALOT 116) | HALOT 117; HALOT 116 | gloss withheld |
 | Syrian Aramaic | behtōt- 1, bht 2 (Payne Smith 37) | Payne Smith 37 |  |
 | Aramaic | (Emp) bwt (DNWSI 148 apud CAL) | DNWSI 148; CAL |  |
-| Amorite | bwš: bāš(ān)um, bāštum (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Amorite | bwš: bāš(ān)um, bāštum (Gelb AS 21, 17); bāṯ 2: =ba-ši, =ba-sa, ba-ša-nu(-um); bāṯt 1: ba-aš-tum, =ba-ša-at/ta, (=)ba-aš/áš-ti(=) (Sanmartín GlOS 1, 133) | Gelb AS 21 17; Sanmartín GlOS 1, 133 | gloss withheld |
+| Eblaitic | /bāṯ/ 2: name ba-sa/su; /būṯ/ 1: names bu-si, bù-su/sum, bu-su-um (Sanmartín GlOS 1, 133) | Sanmartín GlOS 1, 133 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

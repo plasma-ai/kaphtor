@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | smk (B 366) | B 366 | gloss withheld |
 | Hebrew | sāmaḵ (LGz. 502) | LGz. 502 |  |
 | Syrian Aramaic | səmaḵ (LGz. 502; Payne Smith 380) | LGz. 502; Payne Smith 380 |  |
-| Amorite | śmk: śum(u)k, śamakum, śamukum, śamkum (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
+| Amorite | śmk: śum(u)k, śamakum, śamukum, śamkum (Gelb AS 21, 32); S-m-k: cf. su-mu-uk-li-im; Sumk: zum-ga-nu-um; Sam(a)k: cf. a-bi-sa-ma-ku, sa-ma-gu-um, sa-am-ka-ia (Sanmartín GlOS 2, 199) | Gelb AS 21 32; Sanmartín GlOS 2, 199 | gloss withheld |
 | Judaic Aramaic | sᵉmākā (HALOT 759) | HALOT 759 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

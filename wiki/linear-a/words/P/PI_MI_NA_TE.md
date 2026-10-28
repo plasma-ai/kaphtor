@@ -47,7 +47,7 @@ APZa2 line 2 preserves \]PI-MI-NA-TE from a broken left edge to a divider after 
 | Language | Comparison |
 |---|---|
 | Proto-Semitic | \*maniy-at- 'allotment, portion' (PS #2703 √m-n-y 'to count, allot') |
-| Ugaritic | mnt 'part, portion' (DUL 558); mnty 'my portion' |
+| Ugaritic | mnt 'part, portion' (DULAT 558); mnty 'my portion' |
 | Hebrew | mānā (מָנָה) 'portion, share' (HALOT 600); mān (מָן) 'manna' (Exod 16:15); mānāh 'to count, allot' |
 | Arabic | manāt 'fate, destiny; that which is allotted' (the goddess Manāt, Quran 53:20) |
 

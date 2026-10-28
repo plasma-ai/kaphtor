@@ -38,13 +38,13 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Dual-function sign: a logogram in standalone quantified contexts and a possible syllabogram in embedded groups. Its logographic personnel function is secure from HT89, where \*305 23 belongs to the exact headcount 23+22+24+13+5=KU-RO 87, and HT100, where it is a subcategory within a personnel total. Uchitel 2006, 75 independently proposes an age group; Montecchi 2008, 315 a group of persons, never with fractions. The former ḎABBĀḤŪ 'sacrificers' expansion is retained only as a superseded hypothesis: it derived the logographic meaning from the proposed syllabic /ḏa/ value and then used that meaning to support the value. No phonetic complement on HT89 establishes √ḏ-b-ḥ. The syllabic /ḏa/ or /da/ question remains separate and CANDIDATE.
+Dual-function sign: a logogram in standalone quantified contexts and a possible syllabogram in embedded groups. Its logographic personnel function is secure from HT89, where \*305 23 belongs to the exact headcount 23+22+24+13+5=KU-RO 87, and HT100, where it is a subcategory within a personnel total. Uchitel 2006, 75 independently proposes an age group; Montecchi 2008, 315 a group of persons, never with fractions. A ḎABBĀḤŪ 'sacrificers' expansion would be circular: it derives the logographic meaning from the proposed syllabic /ḏa/ value and then uses that meaning to support the value. No phonetic complement on HT89 establishes √ḏ-b-ḥ. The syllabic /ḏa/ or /da/ question remains separate and CANDIDATE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | dbḥ "sacrifice" (DUL 270) |
+| Ugaritic | dbḥ "sacrifice" (DULAT 259) |
 | Hebrew | zebaḥ "sacrifice" (BDB 256); zōbēaḥ "sacrificer" |
 | Phoenician | dbḥ "sacrifice" (DNWSI 234) |
 | Aramaic | dabbāḥā "sacrificer, butcher" |

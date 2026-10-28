@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "protocol-c/inventories/schema.json",
+  "title": "Protocol C arm inventory",
+  "description": "One file per arm, written by that arm's blind builder (PROTOCOL-C §5.3). One entry per realization: a morpheme with two written forms is two entries sharing a morpheme_id. Entries come only from the units listed in the arm's tables/<arm>.md file (§5.2, §16 A1). Slots and their default order: §16 A2.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["arm", "grammar", "builder", "class_order", "entries", "units_read", "units_without_entries"],
+  "properties": {
+    "arm": {"enum": ["cs", "yd", "luwian", "hurrian", "egyptian", "greek"]},
+    "grammar": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["citation", "file_sha256"],
+      "properties": {
+        "citation": {"type": "string", "description": "Author, title, edition, year, as on the title page."},
+        "file_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+      }
+    },
+    "builder": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["model", "session_started_utc", "transcript_file"],
+      "properties": {
+        "model": {"type": "string"},
+        "session_started_utc": {"type": "string", "format": "date-time"},
+        "transcript_file": {"type": "string"}
+      }
+    },
+    "class_order": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["prefix", "suffix", "basis"],
+      "description": "Generation order. prefix lists slots from the word's outer edge inward to the stem; suffix lists slots from the stem outward. Default is the A2 template; a different order binds only where the grammar states one, cited in basis.",
+      "properties": {
+        "prefix": {"type": "array", "items": {"$ref": "#/$defs/prefix_slot"}, "uniqueItems": true},
+        "suffix": {"type": "array", "items": {"$ref": "#/$defs/suffix_slot"}, "uniqueItems": true},
+        "basis": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["statement", "section", "page"],
+            "properties": {
+              "statement": {"type": "string", "description": "What the grammar says about the order, quoted or closely paraphrased."},
+              "section": {"type": "string"},
+              "page": {"type": "string"}
+            }
+          },
+          "description": "Empty when the template order is used unchanged."
+        }
+      }
+    },
+    "entries": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/entry"}},
+    "units_read": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Every unit label from tables/<arm>.md that the builder read, verbatim."
+    },
+    "units_without_entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["unit", "reason"],
+        "properties": {"unit": {"type": "string"}, "reason": {"type": "string"}}
+      },
+      "description": "Units read that yielded no entry, with the reason (for example: free forms only)."
+    }
+  },
+  "$defs": {
+    "prefix_slot": {
+      "enum": ["p_clitic", "p_preposition", "p_article", "p_person", "p_stem"],
+      "description": "p_clitic: bound conjunctions and particles written with the host. p_preposition: bound prepositions. p_article: a prefixed definite article the grammar calls bound. p_person: person, number and gender prefixes of a finite paradigm. p_stem: derived-stem prefixes, infixes written at the word edge, nominal-pattern, participle and infinitive prefixes."
+    },
+    "suffix_slot": {
+      "enum": ["s_stem", "s_gender_number", "s_case_person", "s_mood", "s_enclitic_inner", "s_pronoun", "s_enclitic"],
+      "description": "s_enclitic_inner: enclitics the grammar places before the bound pronouns; used only when class_order.basis cites that order. s_stem: derivational, stem-forming, participle, infinitive and verbal-adjective suffixes; root extensions, tense, aspect and valence markers the grammar places before person endings. s_gender_number: gender markers, number markers, fused gender-number endings, a suffixed article. s_case_person: case endings, state markers (mimation, nunation), fused number-case endings, person, number and gender endings of finite paradigms, including endings that also mark tense, mood or voice. s_mood: mood, modal and energic endings the grammar places after person endings. s_pronoun: bound possessive and object pronouns. s_enclitic: enclitic particles, conjunctions and postpositions written with the host."
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "morpheme_id", "category", "side", "slot", "form", "segments", "function", "source"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z]+_[0-9]{3}[a-z]?$", "description": "<arm>_NNN, with a letter for each further realization: cs_014, cs_014b."},
+        "morpheme_id": {"type": "string", "description": "Shared by all realizations of one morpheme."},
+        "category": {"enum": ["nominal", "pronominal", "verbal", "clitic"], "description": "§5.2 category."},
+        "side": {"enum": ["prefix", "suffix"]},
+        "slot": {"oneOf": [{"$ref": "#/$defs/prefix_slot"}, {"$ref": "#/$defs/suffix_slot"}], "description": "Must be a prefix_slot when side is prefix, a suffix_slot when side is suffix."},
+        "form": {"type": "string", "description": "The realization exactly as the grammar prints it, in its own transliteration, hyphens and asterisks included."},
+        "segments": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"type": "string"},
+          "description": "The form split into phonemes, one string per phoneme, in the grammar's own symbols (š, ḫ, ṯ, ꜣ, ʾ, ā, ē). Long vowels keep their length mark. No morpheme boundaries, no asterisks, no hyphens."
+        },
+        "function": {"type": "string", "description": "The function as the grammar states it (for example '3ms prefix conjugation', 'Gen. Sg.', 'Ergativ'), in the grammar's language."},
+        "source": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["unit", "section", "page"],
+          "properties": {
+            "unit": {"type": "string", "description": "The unit label from tables/<arm>.md, verbatim."},
+            "section": {"type": "string"},
+            "page": {"type": "string", "description": "Printed page; an EPUB page anchor where the copy has no printed page."}
+          }
+        },
+        "contested_value": {"type": "boolean", "description": "yd arm only: true when the grammar writes this morpheme only with a sign of contested value (§5.3 item 5). Such entries render only in Secondary 2."},
+        "notes": {"type": "string", "description": "Conditions the grammar attaches (after vowels, in pausal forms, only in the dual). Never a comparison with another language."}
+      },
+      "if": {"properties": {"side": {"const": "prefix"}}},
+      "then": {"properties": {"slot": {"$ref": "#/$defs/prefix_slot"}}},
+      "else": {"properties": {"slot": {"$ref": "#/$defs/suffix_slot"}}}
+    }
+  }
+}

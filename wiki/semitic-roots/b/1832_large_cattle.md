@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1832_large_cattle
 title: "*baḳar-: 'large cattle'"
-desc: "Proto-Semitic *baḳar-, 'large cattle': reflexes in 16 language(s)."
+desc: "Proto-Semitic *baḳar-, 'large cattle': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1832"
@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | baḳar- 'oxen and cows, bovine breed', baḳarat- 'a head of bovine livestock; cow', baḳīr- 'herd of oxen', bāḳūr(-at)- 'herd of oxen' \[BK 1 149\], \[Fr. I 141-2\], \[Lane 234\], \[LA IV 73ff.\]. | BK 1 149; Fr. I 141-2; Lane 234; LA IV 73ff |  |
 | Mehri | bǝḳǝrēt \[JM 47\]. | JM 47 | gloss withheld |
-| Eblaitic | ba-ḳá-lum = ÁB.UDU \[MEE 4 1101\], /baḳarum/ \[Kreb. 39\]. | MEE 4 1101; Kreb. 39 |  |
+| Eblaitic | ba-ḳá-lum = ÁB.UDU \[MEE 4 1101\], /baḳarum/ \[Kreb. 39\].; ba-ga-lum /baqar, buqar/ (Sanmartín GlOS 1, 117) | MEE 4 1101; Kreb. 39; Sanmartín GlOS 1, 117 | gloss withheld |
 | Mandaic Aramaic | baḳra \[DM 49\]. | DM 49 | gloss withheld |
 | Phoenician | bḳr \[T 54\], \[Krah. 124\] | T 54; Krah. 124 | gloss withheld |
 | Hebrew | bāḳār (HALOT 151), pB. \[Ja. 187\]. | HALOT 151; Ja. 187 | gloss withheld |
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Egyptian | Eg.-Syll. pa₂=ra=ku \[Hoch 179\] | Hoch 179 |  |
 | Pre-Islamic North Arabian | Safaitic bqr (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
 | Emar | ba-qa-ra, bu-qà-ri /baqaru/, /buqaru/ (Pentiuc 2001, 36–37) | Pentiuc 2001 36–37 | gloss withheld |
+| Amorite | buqāru (Streck 2000, 87); baqar, buqar (Sanmartín GlOS 1, 117) | Streck 2000 87; Sanmartín GlOS 1, 117 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

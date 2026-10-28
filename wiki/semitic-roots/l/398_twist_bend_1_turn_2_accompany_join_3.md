@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/398_twist_bend_1_turn_2_accompany_join_3
 title: "*lVwVy-: 'twist, bend' 1, 'turn' 2, 'accompany, join' 3"
-desc: "Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 11 language(s)."
+desc: "Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "398"
@@ -41,6 +41,7 @@ updated: 2026-10-26T14:26:59Z
 | Tigrinya | läwäyä (LGz. 322) | LGz. 322 |  |
 | Tigre | läwla, läwya (LGz. 322) | LGz. 322 | gloss withheld |
 | Syrian Aramaic | lwā 'to go or come with, accompany' 3 (Payne Smith 236) | Payne Smith 236 |  |
+| Eblaitic | a-wa-um, lu-wu-a, lu-wu /l-w-y/ 3 (Sanmartín GlOS 2, 19) | Sanmartín GlOS 2, 19 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

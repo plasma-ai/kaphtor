@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | baṯan- \[BK 1 85\], \[Fr. I 84\], buṯn- \[Blachère 376\]. | BK 1 85; Fr. I 84; Blachère 376 | gloss withheld |
-| Eblaitic | ba-ša-nu-um \[MEE IV 0031\] | MEE IV 0031 |  |
+| Eblaitic | ba-ša-nu-um \[MEE IV 0031\] | MEE IV 0031 | gloss withheld |
 | Ugaritic | bṯn, bṯnt \[DULAT 250\] | DULAT 250 | gloss withheld |
 | Aramaic | OArm. btn (HALOT 990) | HALOT 990 |  |
 

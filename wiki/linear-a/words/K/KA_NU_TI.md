@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Skeleton knt. Second cereal term alongside CONFIRMED KU-NI-SU (k-n-š "emmer wheat"). It stands in a name slot, where commodity terms often appear on ledgers.
+Skeleton knt. It stands in a name slot, where commodity terms often appear on ledgers.
 
 ### Source
 

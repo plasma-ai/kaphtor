@@ -36,12 +36,12 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | rʿ (CUC; DULAT 715) | CUC; DULAT 715 | gloss withheld |
 | Aramaic | rʿh, rʿyn (HALOT 1253) | HALOT 1253 |  |
 | Judaic Aramaic | rəʿūtā (HALOT 1265) | HALOT 1265 | gloss withheld |
-| Amorite | riʿum (Gelb AS 21, 30); raʿayu/raʿî (Buck 2019, 331) | Gelb AS 21 30; Buck 2019, 331 | gloss withheld |
+| Amorite | riʿum (Gelb AS 21, 30); raʿayu/raʿî (Buck 2019, 331); reʿ: i-bi-iq-ri-e-ú (Ur III) (Sanmartín GlOS 2, 150) | Gelb AS 21 30; Buck 2019, 331; Sanmartín GlOS 2, 150 | gloss withheld |
 | Phoenician | rʿ (root rʿy) (B 409) | B 409 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic rʿ (Al-Jallad–Jaworska 113) | Al-Jallad–Jaworska 113 | gloss withheld |
 | Tigre | räwʕa (Leslau CDG 459) | Leslau CDG 459 | gloss withheld |
 | Tigrinya | räwʕe (Leslau CDG 459) | Leslau CDG 459 | gloss withheld |
-| Eblaitic | la-ù-um /raʕum/ (VE 1061; Krebernik 1983, 38) | VE 1061; Krebernik 1983, 38 | gloss withheld |
+| Eblaitic | la-ù-um /raʕum/ (VE 1061; Krebernik 1983, 38); la-ú-um /raʿ/ (Sanmartín GlOS 2, 150) | VE 1061; Krebernik 1983, 38; Sanmartín GlOS 2, 150 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

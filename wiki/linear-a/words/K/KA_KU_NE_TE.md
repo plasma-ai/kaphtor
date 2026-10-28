@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/K/KA_KU_NE_TE
 title: "KA-KU-NE-TE"
-desc: "Kakku-ʿAnēt: Weapon of Anat (theophoric compound PN: kakkum 'weapon' + goddess ʿAnatu). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+desc: "Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "KA-KU-NE-TE"
 datasets: ["lexicon", "onomasticon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.4
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
 reading: "Kakku-ʿAnēt"
 attestations: ["ZA10b"]
 created: 2026-10-24T16:17:50Z
@@ -27,12 +27,12 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.40
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
 | Reading | Kakku-ʿAnēt |
-| Meaning | Weapon of Anat (theophoric compound PN: kakkum 'weapon' + goddess ʿAnatu) |
+| Meaning | Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element |
 | Root | k-k-k + ʿ-n-t |
 | Language layer | NWS |
 | Category | personal_name |
@@ -40,16 +40,17 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA10b (Zakros, tablet): name-list position among 10+ names with quantities, co-occurs with PA-JA-RE (Payare, Egyptian theophoric) and DU (relative pronoun). First element Kakku: Akkadian kakkum 'weapon' (CAD K 52), also a divine name Kakka (Gelb 1980: 'kakkum, fem. kakka "weapon"; cf. also Kakka, DN'). Amorite KAKKAR-I attested as PN. Second element -NE-TE = ʿAnēt(u), the goddess Anat. Anat as warrior-goddess is iconographically associated with weapons at Ugarit and in Egyptian sources (Papyrus Chester Beatty VII: 'Anat, the victorious goddess, the woman who acts as a warrior'). 'Weapon of Anat' fits the martial divine epithet tradition. Alternative parse: Kakkun-ēt as simple feminine, 'little weapon' or 'weaponess.' Theophoric compound preferred for same reasons as DA-RU-NE-TE.
+ZA 10b KA-KU-NE-TE ½, in a must (\*131B) list of recipients, after the Egyptian PA-JA-RE Payare 1. KA-KU kakku 'weapon', also the god Kakka (Gelb 1980), as in Iddin-Kakka (Podany 2002, 11) and ᶠKakka-lidi (ARM 26/1, 597); -NE-TE ʿAnat (2771), as Šum-Anati and Abdi-Anati at Ugarit (Kinlaw 1967, 111, 7). Anat is the warrior: 'ʿAnat the divine, she the victorious, a woman acting as a warrior' (P. Chester Beatty VII vs. 1, 5–8; Gardiner 1935, I, 62); the king is mhr.j ꜥnṯj 'warrior of Anat' (ORAEC 113, 564, 922). Face a writes TA-NA-TE and A-TA-NA-TE: the lost ʿa- and the e of -NE-TE are unexplained. Rival: Egyptian Neith (n.t), as sꜣ-n.t, wsr-n.t (PNM v6).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | kakkum (kakku) 'weapon, arms' (CAD K 52); also DN Kakka |
-| Amorite | kakka 'weapon' (Gelb 1980); KAKKAR-I (PN) |
-| Hebrew | כְּלִי kĕlî 'weapon, vessel' (different root, but same semantic field) |
-| Ugaritic | ʿnt bnʿmt 'Anat of the peoples' — Anat as warrior-goddess |
+| Akkadian | kakku 'weapon, arms' (CAD K 52); Kakka, DN |
+| Amorite | kakkum, fem. kakka 'weapon'; Kakka, DN (Gelb 1980) |
+| Akkadian (Ugarit) | Šum-Anati, Abdi-Anati (Kinlaw 1967, 111, 7) |
+| Ugaritic | ʿnt 'Anat' (DULAT 167) |
+| Egyptian | mhr.j ꜥnṯj 'warrior of Anat', of the king (ORAEC 113, 564, 922); n.t 'Neith' in sꜣ-n.t, wsr-n.t (PNM v6) |
 
 ### Source
 
@@ -65,7 +66,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Kakku-ʿAnēt | Weapon of Anat (PN) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | Kakku-ʿAnēt | Weapon of Anat (personal name); rival Neith as the second element | SPECULATIVE |
 
 ## Onomasticon
 
@@ -81,7 +82,7 @@ di Mino
 
 ### Note
 
-Kakku-ʿAnēt (kakkum 'weapon' + ʿAnatu theophoric).
+Kakku-ʿAnēt, kakku 'weapon' + ʿAnat, as Šum-Anati at Ugarit (Kinlaw 1967, 111). Rival: Egyptian Neith (n.t) as the second element (PNM v6).
 
 ### Co-occurring lexicon words
 

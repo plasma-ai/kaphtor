@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1346_fruit_flower_shoot
 title: "*ʾanbab-: 'fruit, flower, shoot'"
-desc: "Proto-Semitic *ʾanbab-, 'fruit, flower, shoot': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾanbab-, 'fruit, flower, shoot': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1346"
@@ -34,7 +34,6 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | (?) ʕǝmboba |  | gloss withheld |
 | Mandaic Aramaic | (?) ʕbabia, ʕbibia DM 340 | DM 340 | gloss withheld |
 | East Ethiopic | Zw ambäba |  | gloss withheld |
-| Geez | ʔababā |  | gloss withheld |
 | Gurage | Ms Gog abäba, So abäbo |  | gloss withheld |
 | Hebrew | \*ʔēb (HALOT 2); ʾābīb (Kogan 2011, 201) | HALOT 2; Kogan 2011 201 | gloss withheld |
 | Amharic | abäba |  | gloss withheld |
@@ -49,6 +48,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Biblical Aramaic \*ʔănēb or \*ʔeb 'fruit' (&lt;Akk i/enbu 'fruit' &lt;\*ʕinb- 'grape' Hbr, Arb.) (CAL s.v. ʾb#4).
+Biblical Aramaic \*ʔănēb or \*ʔeb 'fruit' (&lt;Akk i/enbu 'fruit' &lt;\*ʕinb- 'grape' Hbr, Arb.) (CAL s.v. ʾb#4). LGz. 2 gives Geez ʾababā (T.M) 'perfume, sweet odor', probably from Amharic abäba 'flower'.
 
 <!-- END kaphtor:record -->

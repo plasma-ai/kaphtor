@@ -3,7 +3,7 @@ name: data/linear-a
 title: Linear A data
 desc: The Linear A corpus, sign values, lexicon, translations, onomasticon and unread words, and the Eteocretan inscriptions, each with a datasheet.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-25T22:39:33Z
+updated: 2026-10-29T15:12:45Z
 ---
 
 # Linear A data
@@ -49,6 +49,10 @@ updated: 2026-10-25T22:39:33Z
 [[data/linear-a/onomasticon|onomasticon]]: One entry per Linear A name, toponym, theonym, gentilic or title, with its type, its linguistic affiliation and the evidence for it, and every document where it appears.
 
 [[data/linear-a/onomasticon.json|onomasticon.json]]: The names, toponyms, theonyms, gentilics and titles, with their linguistic affiliation; datasheet `onomasticon.md`; CC BY 4.0.
+
+[[data/linear-a/paradigm-b/_index|paradigm-b/]]: The frozen inputs and the five production runs of Paradigm B, the pre-registered held-out paradigm-prediction test, with the freeze's SHA256SUMS and the port ledger.
+
+[[data/linear-a/protocol-c/_index|protocol-c/]]: The phase C0 and C1 record of Protocol C, the pre-registered blind-inventory test, with the signature and the port ledger; nothing rendered or scored.
 
 [[data/linear-a/rival-roots|rival-roots]]: The Egyptian, Luwian and Hurrian root keys the competitor null rescores every Semitic match against, each with its form and its citations or source labels.
 

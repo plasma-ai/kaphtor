@@ -9,7 +9,7 @@ site: "Knossos"
 support: "Roundel"
 period: ""
 translation: "none"
-words: []
+words: ["RU-JA-TA-DI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -48,6 +48,10 @@ Unicode (Linear A block):
 𐘘𐘱
 𐘝𐘢
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/R/RU_JA_TA_DI|RU-JA-TA-DI]].
 
 ## Corpus note
 

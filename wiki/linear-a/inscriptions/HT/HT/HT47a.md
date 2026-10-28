@@ -71,8 +71,8 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | KA\[ |  | unread |  |  |
-| \]TU+RO | ? | damaged left edge; ligature, beginning lost |  |  |
-| [[wiki/linear-a/words/K/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu(?) | devotees of Kubaba(?) | CANDIDATE | CANDIDATE (lexicon) |
+| \]TU+RO |  | damaged left edge; ligature, beginning lost |  |  |
+| [[wiki/linear-a/words/K/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu | devotees of Kubaba(?) | CANDIDATE | CANDIDATE (lexicon) |
 | \]DU |  | unread |  |  |
 | U\[ |  | unread |  |  |
 | \]PI |  | unread |  |  |

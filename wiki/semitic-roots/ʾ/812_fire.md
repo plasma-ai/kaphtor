@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | əsatä (LGz. 44) | LGz. 44 |  |
 | Harari | əsāt, isāt (LGz. 44) | LGz. 44 |  |
 | Argobba | əsad (LGz. 44) | LGz. 44 |  |
-| Eblaitic | ì-sa-tù (Kogan 2011, 194; VE 783; Krebernik 1983, 30) | Kogan 2011 194; VE 783; Krebernik 1983, 30 |  |
+| Eblaitic | ì-sa-tù (Kogan 2011, 194; VE 783; Krebernik 1983, 30); DN = ᵈGIBIL (VE 783; Krebernik 1983, 30), read ᵈIZI = ì-sa-tù, Sumerian Gibil (Antalík 1998, 43) | Kogan 2011 194; VE 783; Krebernik 1983, 30; Antalík 1998, 43 |  |
 | Punic | ʾš 'fire' | Anderson–Moser 2024 root ʾš |  |
 | Tigrinya | ʔǝsat (Kogan 2015, ch. 7 §2.2 no. 28) | Kogan 2015 ch. 7 §2.2 no. 28 |  |
 

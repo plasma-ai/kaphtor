@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2612_to_be_beautiful_clean_to_shine
 title: "*špr: 'to be beautiful, clean; to shine'"
-desc: "Proto-Semitic *špr, 'to be beautiful, clean; to shine': reflexes in 8 language(s)."
+desc: "Proto-Semitic *špr, 'to be beautiful, clean; to shine': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2612"
@@ -36,8 +36,9 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | šappīr (OLA80 §29.11) | OLA80 §29.11 | gloss withheld |
 | Biblical Aramaic | špr (HALOT 1635) | HALOT 1635 |  |
 | Arabic | safara (HALOT 1635) | HALOT 1635 |  |
-| Amorite | špr (Huffmon APNM 252); šapru (Buck 2019, 333) | Huffmon APNM 252; Buck 2019, 333 | gloss withheld |
+| Amorite | špr (Huffmon APNM 252); šapru (Buck 2019, 333); Sapar: sa-pa-ra-an, a-bi-sa-pár/pa-ar, ša-ba-ar-kum (Ur III); Sapir: sa-bi-ru(-um), a-bi-ša-pí-ir, ša-bi-ru-um (Ur III) (Sanmartín GlOS 2, 259) | Huffmon APNM 252; Buck 2019, 333; Sanmartín GlOS 2, 259 | gloss withheld |
 | Judaic Aramaic | šappīr (Kogan 2015, ch. 6 §2 no. 16) | Kogan 2015 ch. 6 §2 no. 16 | gloss withheld |
+| Eblaitic | /Sapir/: cf. names ša-bir₅-gi-nu, ša-pi-a/ra (Sanmartín GlOS 2, 259) | Sanmartín GlOS 2, 259 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

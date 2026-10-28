@@ -1,0 +1,14 @@
+commands: 12
+paths outside the kit: 0
+$ /bin/zsh -lc "pwd; rg --files -g 'BRIEF.md' -g 'AGENTS.md' -g 'package.json' -g 'README*' -g 'SKILL.md'"
+$ /bin/zsh -lc 'cat BRIEF.md'
+$ /bin/zsh -c 'ls -la; cat units.md schema.json grammar_files.txt'
+$ /bin/zsh -c 'cat protocol.md'
+$ /bin/zsh -c "python3 -c 'from pathlib import Path; pages=Path(\"Yakubovich-2015-The-Luwian-Language.txt\").read_text().split(\"\\f\"); [(print(\"\\nPAGE\",p,\"\\n\",pages[p-1])) for p in [1,12,13,15,16,19]]'"
+$ /bin/zsh -c "python3 -c 'import importlib.util; [(print(m,bool(importlib.util.find_spec(m)))) for m in [\"fitz\",\"jsonschema\",\"pypdf\"]]'"
+$ /bin/zsh -c "python3 -c 'import fitz; from pathlib import Path; d=fitz.open(\"Yakubovich-2015-The-Luwian-Language.pdf\"); Path(\".review\").mkdir(exist_ok=True); [(d[p-1].get_pixmap(matrix=fitz.Matrix(1.6,1.6)).save(f\".review/page-{p}.png\")) for p in [12,13,15,16,19]]'"
+$ /bin/zsh -c 'python3 .review/build_inventory.py'
+$ /bin/zsh -c "python3 -c 'import json,collections; from pathlib import Path; import jsonschema; d=json.loads(Path(\"inventory.json\").read_text()); s=json.loads(Path(\"schema.json\").read_text()); jsonschema.Draft202012Validator(s,format_checker=jsonschema.FormatChecker()).validate(d); ids=[e[\"id\"]
+$ /bin/zsh -c 'shasum -a 256 -c kit.sha256'
+$ /bin/zsh -c "python3 -c 'import json,fitz; from pathlib import Path; d=json.loads(Path(\"inventory.json\").read_text()); pdf=fitz.open(\"Yakubovich-2015-The-Luwian-Language.pdf\"); missing=[(e[\"id\"],e[\"form\"],e[\"source\"][\"page\"]) for e in d[\"entries\"] if e[\"form\"] not in pdf[int(e[\"sour
+$ /bin/zsh -c "python3 -c 'from pathlib import Path; p=Path(\".review\"); [(p / f\"page-{n}.png\").unlink() for n in [12,13,15,16,19]]; (p / \"build_inventory.py\").unlink(); p.rmdir(); print(\"Temporary review files removed.\")'"

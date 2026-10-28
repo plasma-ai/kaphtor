@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "description": "Linear A sign registry: one record per sign, with its readings, Unicode rendering, SigLA image, Cretan Hieroglyphic and Linear B lineage, and the words of Gordon 1966's index that use it, in Gordon's transliteration and sign values. The readings are the Linear B values and four other signs' values; every value beyond Linear B is in sign_values.json, and each reading here carries its status there.",
+  "description": "Linear A sign registry: one record per sign, with its readings, Unicode rendering, SigLA image, Cretan Hieroglyphic and Linear B lineage, and the words of Gordon 1966's index that use it, in Gordon's transliteration and sign values. The readings are the Linear B values and five other signs' values; every value beyond Linear B is in sign_values.json, and each reading here carries its status there.",
   "sources": [
    "SigLA (sign images, by document and position)",
    "Ferrara, Montecchi & Valério 2022 (CH → LA: their derivations in Appendix 2 and §1.1, earlier scholarship in Appendix 1)",
@@ -2955,8 +2955,53 @@
   },
   {
    "ab_number": "AB79",
-   "name": "",
-   "readings": [],
+   "name": "zu",
+   "readings": [
+    {
+     "value": "ṯu",
+     "consonant": "ṯ",
+     "vowel": "u",
+     "source": "di Mino",
+     "confidence": "MEDIUM",
+     "is_primary": true,
+     "implications": [],
+     "status": "proposed"
+    },
+    {
+     "value": "zu",
+     "consonant": "z",
+     "vowel": "u",
+     "source": "Linear B *79 zu, tentative (Davis 2026, 174 n. 641)",
+     "confidence": "MEDIUM",
+     "is_primary": false,
+     "implications": [],
+     "status": "conventional"
+    },
+    {
+     "value": "ḏu",
+     "consonant": "ḏ",
+     "vowel": "u",
+     "source": "di Mino",
+     "confidence": "LOW",
+     "is_primary": false,
+     "implications": [
+      "ZU writes the interdental range"
+     ],
+     "status": "proposed"
+    },
+    {
+     "value": "ṯ̣u",
+     "consonant": "ẓ",
+     "vowel": "u",
+     "source": "di Mino",
+     "confidence": "LOW",
+     "is_primary": false,
+     "implications": [
+      "ZU writes the interdental range; PS ṯ̣ is keyed ẓ"
+     ],
+     "status": "proposed"
+    }
+   ],
    "rendering": {
     "unicode": "U+10640",
     "font": "NotoSansLinearA-Regular.ttf",

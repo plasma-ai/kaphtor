@@ -15,7 +15,8 @@ and pagan-Arabia primary sources.
 
 ## Local corpora
 
-This repository ships only the sets under `data/`; each folder's index lists them.
+The files below are not in this repository: each is a user's own build from the source named. The repository ships
+only the sets under `data/`, and each folder's index lists them.
 
 | File | Rows | Source |
 |---|---|---|

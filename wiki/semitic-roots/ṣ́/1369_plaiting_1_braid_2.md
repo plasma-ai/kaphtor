@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/1369_plaiting_1_braid_2
 title: "*ṣ̂apīr-: 'plaiting' 1, 'braid' 2"
-desc: "Proto-Semitic *ṣ̂apīr-, 'plaiting' 1, 'braid' 2: reflexes in 11 language(s)."
+desc: "Proto-Semitic *ṣ̂apīr-, 'plaiting' 1, 'braid' 2: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1369"
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ṣäfärä, č̣äfärä (LGz. 148) | LGz. 148 |  |
 | Amharic | (tä)ṭaffärä (LGz. 148) | LGz. 148 | gloss withheld |
 | Mehri | ẑəfūr (Kogan 2015, ch. 2 §4.2 no. 58) | Kogan 2015 ch. 2 §4.2 no. 58 | gloss withheld |
+| Amorite | ṣ́ippar (Sanmartín GlOS 2, 286) | Sanmartín GlOS 2, 286 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

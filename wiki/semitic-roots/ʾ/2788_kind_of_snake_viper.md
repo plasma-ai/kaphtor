@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʔafʕut, ʔafʕot \[K Tna. 1551\] | K Tna. 1551 |  |
 | Amharic | əffuññət \[K 1358\]; əmfut \[K 1140\] | K 1358; K 1140 |  |
 | Harari | ḥiffiñ \[LHar. 80\] | LHar. 80 |  |
-| Eblaitic | ì-pá-ù-um |  |  |
+| Eblaitic | ì-pá-ù-um; ì-ba-ù-um /ʾipaʿw/ (Sanmartín GlOS 1, 34); ì-ba-ù-um = Sum. ama-muš (MEE 4 96 vi 8f.; Civil 2017, 125) | Sanmartín GlOS 1, 34; MEE 4 96 vi 8f; Civil 2017, 125 | gloss withheld |
 | Epigraphic South Arabian | ʾpʿw (personal name) (HALOT 79) | HALOT 79 |  |
 | Modern Arabic | dial. el-yfʿa (HALOT 79) | HALOT 79 | gloss withheld |
 

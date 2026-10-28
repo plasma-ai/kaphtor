@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/K0125_pick
 title: "*lVqVṭ-: 'pick'"
-desc: "Proto-Semitic *lVqVṭ-, 'pick': reflexes in 8 language(s)."
+desc: "Proto-Semitic *lVqVṭ-, 'pick': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0125"
@@ -36,7 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | lqẓ 'pick' | Anderson–Moser 2024 root lqṭ |  |
 | Epigraphic South Arabian | Sab lqṭ (SD 82, 83; Biella 262, 263; Sabaweb lemma 2715) | SD 82, 83; Biella 262, 263; Sabaweb lemma 2715 | gloss withheld |
 | Syrian Aramaic | lqaṭ 'gather, pick up, glean' (Payne Smith 244) | Payne Smith 244 |  |
-| Eblaitic | li-gi-tum /liḳṭum/, a-ga-tum /Haḳāṭum/ (VE 282b, 283b; Krebernik 1983, 13) | VE 282b, 283b; Krebernik 1983, 13 |  |
+| Eblaitic | li-gi-tum /liḳṭum/, a-ga-tum /Haḳāṭum/ (VE 282b, 283b; Krebernik 1983, 13); a-ga-tum /l-q-ṭ/ (Sanmartín GlOS 2, 14) | VE 282b, 283b; Krebernik 1983, 13; Sanmartín GlOS 2, 14 | gloss withheld |
+| Amorite | l-q-ṭ: ia-al-gu-tum (Sanmartín GlOS 2, 14) | Sanmartín GlOS 2, 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

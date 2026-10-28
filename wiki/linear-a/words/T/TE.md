@@ -123,15 +123,15 @@ Corpus distribution; Hebrew terûmā; Ugaritic trmt (KTU 1.43:3; 1.6 VI:44)
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | terûmā | contribution(s)/sacred offering(s) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | terûmā | contribution (abbreviation) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | terûmā | contribution (transaction sign) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | terûmā(?) | contribution (transaction or category marker) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | terûmā | contribution (transaction or category marker) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | terûmā | offering, contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT51a\|HT51a]] |  | transaction sign | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT67\|HT67]] | terûmā | sacred contribution, heave-offering | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT70\|HT70]] | terûmā(?) | transaction or category sign; perhaps contribution | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | terûmā(?) | contribution / transaction marker | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | terûmā(?) | transaction or category sign; perhaps contribution | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT70\|HT70]] | terûmā | transaction or category sign; perhaps contribution | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | terûmā | contribution / transaction marker | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | terûmā | transaction or category sign; perhaps contribution | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT133\|HT133]] | terûmā | contribution, sacred offering | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1122\|HTWa1122]] | terûmā | contribution, sacred offering (logographic TE &lt; √r-w-m) |  |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1123\|HTWa1123]] | terûmā | contribution, sacred offering (logographic TE &lt; √r-w-m) |  |

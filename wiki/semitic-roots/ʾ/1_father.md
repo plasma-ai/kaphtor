@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1_father
 title: "*ʾab-: 'father'"
-desc: "Proto-Semitic *ʾab-, 'father': reflexes in 26 language(s)."
+desc: "Proto-Semitic *ʾab-, 'father': reflexes in 27 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1"
@@ -53,9 +53,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʾb (DNWSI 1 apud CAL) | DNWSI 1; CAL; Anderson–Moser 2024 root abb | gloss withheld |
 | Punic | ʾb 'father' | Anderson–Moser 2024 root abb |  |
 | Gafat | abʷä (LGz. 2) | LGz. 2 |  |
-| Amorite | ʾabum (Gelb AS 21, 13); ʾabu (Buck 2019, 323) | Gelb AS 21 13; Buck 2019, 323 | gloss withheld |
+| Amorite | ʾabum (Gelb AS 21, 13); ʾabu (Buck 2019, 323); ʾab: (=)a-bu/i/a(=), (=)a-ba/bí/bu(=) (Ur III) (Sanmartín GlOS 1, 3) | Gelb AS 21 13; Buck 2019, 323; Sanmartín GlOS 1, 3 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾb (Al-Jallad–Jaworska 38) | Al-Jallad–Jaworska 38 | gloss withheld |
 | Argobba | aw, abba (Leslau 1997:194, AAD 285 apud SEDonline 489) | Leslau 1997:194, AAD 285; SEDonline 489 | gloss withheld |
+| Eblaitic | a-ba₄, a-bu/bù, a-ba/bù /ʾab/ (Sanmartín GlOS 1, 3) | Sanmartín GlOS 1, 3 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0304_acquire_create
 title: "*qVnVy-: 'acquire, create'"
-desc: "Proto-Semitic *qVnVy-, 'acquire, create': reflexes in 15 language(s)."
+desc: "Proto-Semitic *qVnVy-, 'acquire, create': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0304"
@@ -41,9 +41,10 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | qənā (HALOT 1111; Payne Smith 509); qanāyūtā (Payne Smith 510) | HALOT 1111; Payne Smith 509; Payne Smith 510 | gloss withheld |
 | Mandaic Aramaic | QNA (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Arabic | qanā, qnw, qny (HALOT 1111) | HALOT 1111 | gloss withheld |
-| Amorite | qnj: jaqnī, qanij(ān)um, qanijatum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
+| Amorite | qnj: jaqnī, qanij(ān)um, qanijatum (Gelb AS 21, 29); q-n-y: cf. iq-ni-um, ia-aq-ni-DINGIR, ta(?)-aq-ni-tum (Sanmartín GlOS 1, 348) | Gelb AS 21 29; Sanmartín GlOS 1, 348 | gloss withheld |
 | Soqotri | qénho; qanínhin (Kogan 2015, ch. 2 §4.2 no. 34, fn. 266) | Kogan 2015 ch. 2 §4.2 no. 34, fn. 266 | gloss withheld |
 | Biblical Aramaic | qenaʾ (T 290) | T 290 |  |
+| Eblaitic | /q-n-y/: cf. names ig-na-um, ig-na-lu-ù, ig-na-da-ar (Sanmartín GlOS 1, 348) | Sanmartín GlOS 1, 348 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

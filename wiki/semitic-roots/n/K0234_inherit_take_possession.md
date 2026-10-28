@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | nḥl, niḥlat- (Kogan 2015, ch. 3 §5.3 no. 23) | Kogan 2015 ch. 3 §5.3 no. 23 | gloss withheld |
 | Epigraphic South Arabian | Sab nḥl, nḥlt (Kogan 2015, ch. 3 §5.3 no. 23); nḥl (Sabaweb lemma 4639) | Kogan 2015 ch. 3 §5.3 no. 23; Sabaweb lemma 4639 | gloss withheld |
 | Ugaritic | nḥl, nḥlt (DULAT 619) | DULAT 619 | gloss withheld |
-| Amorite | naḥalum, naḥlum (Gelb AS 21, 26); naḫālu, niḫlatu (Streck 2011, 367) | Gelb AS 21 26; Streck 2011, 367 | gloss withheld |
+| Amorite | naḥalum, naḥlum (Gelb AS 21, 26); naḫālu: it-ta-aḫ-lu (ARM 25, 96: 3), niḫlatu: ni-iḫ-la-at (ARM 26/2, 443: 2') (Streck 2000, 106–108; Streck 2011, 367) | Gelb AS 21 26; Streck 2000 106–108; Streck 2011, 367 | gloss withheld |
 | Emar | na-aḫ-la-ti /naḥlā̆tu/ (Pentiuc 2001, 177) | Pentiuc 2001 177 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

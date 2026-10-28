@@ -46,7 +46,7 @@ PREFIXED FORM: A-KI-DA-RO (KH Wa 1002, Khania)—A- as NWS article \*ha-\* or pr
 
 | Language | Comparison |
 |---|---|
-| Hebrew | Qēdār (קֵדָר) 'Kedar', son of Ishmael, an Arabian people (H6938); qādar (קָדַר) 'be dark, mourn' (H6937) |
+| Hebrew | Qēdār (קֵדָר) 'Kedar', son of Ishmael, an Arabian people; qādar (קָדַר) 'be dark, mourn' (HALOT 1072) |
 | Ugaritic | qdr 'darkening' (DULAT) |
 
 ### Source

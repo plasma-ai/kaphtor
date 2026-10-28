@@ -23,7 +23,8 @@ updated: 2026-10-24T15:25:56Z
 |---|---|
 | Reconstruction | \*pls |
 | Meaning | 'to destroy; to split, separate' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1820 |
 
 ## Reflexes
 
@@ -43,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*pls 'to destroy' (EDA I 299 apud SEDonline 1820), which SEDonline 1820 compares with plš 'to pierce' and with PES \*fls 'to emigrate' (K0251) through 'to detach, to separate'. Distinct from 3138 \*pls 'to look, observe'.
+PWS \*pls 'to destroy' (SEDonline 1820), which SEDonline 1820 compares with plš 'to pierce' and with PES \*fls 'to emigrate' (K0251) through 'to detach, to separate' (EDA I 299, ◊P0524). EDA I 298–299 (◊P0524) sets JBA pls and the Tgr., Tna., Amh., Har., Mhr., Jib. and Soq. forms beside Akk. palāšu 'to pierce, to bore' as semantically comparable, with final \*s against Akk. š. Distinct from 3138 \*pls 'to look, observe'.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1389_drink_1_give_a_drink_irrigate_2
 title: "*šVḳ-: 'drink' 1, 'give a drink, irrigate' 2"
-desc: "Proto-Semitic *šVḳ-, 'drink' 1, 'give a drink, irrigate' 2: reflexes in 16 language(s)."
+desc: "Proto-Semitic *šVḳ-, 'drink' 1, 'give a drink, irrigate' 2: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1389"
@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sqy 1, 2; saqā; sāqī; siqāya |  | gloss withheld |
-| Akkadian | šaqû 2 (CAD Š/2 24); mašqītu (CAD M/1 382) | CAD Š/2 24; CAD M/1 382 | gloss withheld |
+| Akkadian | šaqû 2 (CAD Š/2 24); mašqītu (CAD M/1 382); šiḳītum (CAD Š/3 95 apud Kogan 2025, 9) | CAD Š/2 24; CAD M/1 382; CAD Š/3 95; Kogan 2025, 9 | gloss withheld |
 | Ugaritic | šqy, Š 2 (DULAT 827) | DULAT 827 | gloss withheld |
 | Jibbali | šeḳe 2 |  |  |
 | Hebrew | šqh 2; hišqā (Hiphil); mašqe |  | gloss withheld |
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab s1qy, ms1tqy (SD 128; Sabaweb lemma 1827); s1qy (Sabaweb lemma 1832), t-stem (Sabaweb lemma 2237) | SD 128; Sabaweb lemma 1827; Sabaweb lemma 1832; Sabaweb lemma 2237 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic sqy (Al-Jallad–Jaworska 123) | Al-Jallad–Jaworska 123 | gloss withheld |
 | Gurage | säč̣ä (EDG 534 apud SEDonline 9) | EDG 534; SEDonline 9 | gloss withheld |
+| Eblaitic | si-gu-dam /šiḳūtum/ (ARET 16, 1 rev. VIII 5–11); si-gi-da-am₆-ma /šiḳītum/ (ARET 16, 2 rev. IV 4 – V 1) (Kogan 2025, 8–9) | ARET 16, 1 rev. VIII 5–11; ARET 16, 2 rev. IV 4 – V 1; Kogan 2025, 8–9 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

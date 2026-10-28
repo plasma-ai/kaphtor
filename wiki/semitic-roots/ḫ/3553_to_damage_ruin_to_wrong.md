@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3553_to_damage_ruin_to_wrong
 title: "*ḫbl: 'to damage, ruin; to wrong'"
-desc: "Proto-Semitic *ḫbl, 'to damage, ruin; to wrong': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḫbl, 'to damage, ruin; to wrong': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3553"
@@ -37,6 +37,7 @@ updated: 2026-10-25T06:28:07Z
 | Arabic | ḫabila 'he was corrupted, unsound, disordered' (Lane 699); ḫabāl, also ḫabal 'corruptness, unsoundness, a vitiated or disordered state' (Lane 700) | Lane 699; Lane 700 |  |
 | Epigraphic South Arabian | Sab ḫbl (SD 58) | SD 58 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḫbl (Al-Jallad–Jaworska 79); mḫbl (Al-Jallad–Jaworska 95) | Al-Jallad–Jaworska 79; Al-Jallad–Jaworska 95 | gloss withheld |
+| Eblaitic | cf. ḫu-nu-um a-ba-lu /ḫ-b-l/ (Sanmartín GlOS 1, 266) | Sanmartín GlOS 1, 266 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

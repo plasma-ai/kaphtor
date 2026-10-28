@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʔedmíʕa \[LS 130\] | LS 130 |  |
 | Akkadian | dīm/ntu OB on \[CAD d 147\], \[AHw 171\] (transcribed as dim/ntu). | CAD d 147; AHw 171 |  |
 | Harsusi | demāt \[JH 25\] | JH 25 |  |
-| Eblaitic | /ʔid(i)maʕātum/ (ÉR.ÉR = ì-ti-ma-a-tum, VE 716; Krebernik 1983, 27). | VE 716; Krebernik 1983, 27 |  |
+| Eblaitic | /ʔid(i)maʕātum/ (ÉR.ÉR = ì-ti-ma-a-tum, VE 716; Krebernik 1983, 27).; ì-ti-ma-a-tum /ʾidmaʿt/ (Sanmartín GlOS 1, 147) | VE 716; Krebernik 1983, 27; Sanmartín GlOS 1, 147 | gloss withheld |
 | Mandaic Aramaic | dima, dimihta, dimita \[DM 153\] | DM 153 |  |
 | Ugaritic | dmʕ (pl. ʔudmʕt) \[DULAT 271\] | DULAT 271 |  |
 | Modern Aramaic | HRT demʔa \[J Hert 185\] NASS dịmị̄tɔ (sg.) \[Tser 057\] MMND demehṯa \[M MND 522\] AZR dimmelta \[Garb 304\] NSYR dǝ̣mmēta \[MP 42\] | J Hert 185; Tser 057; M MND 522; Garb 304; MP 42 | gloss withheld |

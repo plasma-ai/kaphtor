@@ -62,7 +62,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | pidru(?) + PA | unidentified counted category; quantity lost, 4 inferred from KU-RO 97 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | pidru + PA | unidentified counted category; quantity lost, 4 inferred from KU-RO 97 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | pidru + PA | \*304 oil/fat-register commodity with PA adjunct | CANDIDATE |
 
 <!-- END kaphtor:record -->

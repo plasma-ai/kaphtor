@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | halaka (HALOT 246) | HALOT 246 | gloss withheld |
 | Punic | hlk (Krahmalkov 157); ʾlk (Neo-Punic; T 80) | Krahmalkov 157; T 80 | gloss withheld |
 | Amorite | h-l-k (George and Krebernik 2022, 155) | George and Krebernik 2022 155 | gloss withheld |
-| Eblaitic | ʔà-a-gú-um /haLākum/ (VE 984 apud SEDonline 133; Krebernik 1983, 35) | VE 984; SEDonline 133; Krebernik 1983, 35 | gloss withheld |
+| Eblaitic | ʔà-a-gú-um /haLākum/ (VE 984 apud SEDonline 133; Krebernik 1983, 35); ʔà-a-ki, ʔà-a-gú, ne-li-ig-ma /h-l-k/ 1; ʔà-gum /halk/ 1 (Sanmartín GlOS 1, 215) | VE 984; SEDonline 133; Krebernik 1983, 35; Sanmartín GlOS 1, 215 | gloss withheld |
 | Aramaic | hlk (T 80) | T 80 |  |
 | Judaic Aramaic | hlk (T 80) | T 80 |  |
 | Mandaic Aramaic | hlk (T 80) | T 80 |  |

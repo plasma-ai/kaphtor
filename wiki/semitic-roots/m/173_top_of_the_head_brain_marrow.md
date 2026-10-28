@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | muḫḫ- 'marrow, brain' \[BK 2 1071\]; nuḫḫ-, naḫāḫat- 'marrow' \[BK 2 1219\]; muḫḫ 'marrow' (Lane 2692) | BK 2 1071; BK 2 1219; Lane 2692; Anderson–Moser 2024 root mḫ |  |
 | Akkadian | muḫḫu OAkk on \[CAD m2 172\], \[AHw 667\] | CAD m2 172; AHw 667 | gloss withheld |
-| Eblaitic | mu-ḫu-um /muḫḫum/ \[Kr 12; Fr 173; Bl E No. 70\] | Kr 12; Fr 173 | gloss withheld |
+| Eblaitic | mu-ḫu-um /muḫḫum/ \[Kr 12; Fr 173; Bl E No. 70\]; mu-ḫu, mu-ḫu-um /muḫḫ/ (Sanmartín GlOS 2, 33) | Kr 12; Fr 173; Sanmartín GlOS 2, 33 | gloss withheld |
 | Mandaic Aramaic | muha \[DM 260\] | DM 260 | gloss withheld |
 | Ugaritic | mḫ \[Aist 181\] | Aist 181 | gloss withheld |
 | Modern Aramaic | MMND mōx al-rīša \[M MND 494\] AZRB moxa \[Garb 320\] | M MND 494; Garb 320 | gloss withheld |

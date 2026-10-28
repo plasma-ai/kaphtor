@@ -47,7 +47,7 @@ Three convergent supports for the royal reading: (1) the šarr- family is indepe
 | Language | Comparison |
 |---|---|
 | Akkadian | šarrum 'king' |
-| Hebrew | śar (שַׂר) 'prince, ruler, chief' (H8269) |
+| Hebrew | śar (שַׂר) 'prince, ruler, chief' (HALOT 1351) |
 | Ugaritic | šr 'king, prince' (an Akkadian administrative loan) |
 
 ### Source

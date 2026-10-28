@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/438_arrive_1_come_2_return_3
 title: "*ʾVtVy/w-: 'arrive' 1, 'come' 2, 'return' 3"
-desc: "Proto-Semitic *ʾVtVy/w-, 'arrive' 1, 'come' 2, 'return' 3: reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾVtVy/w-, 'arrive' 1, 'come' 2, 'return' 3: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "438"
@@ -37,13 +37,14 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔty 2 |  |  |
 | Epigraphic South Arabian | ʔtw 2 (Sabaweb lemma 1393) | Sabaweb lemma 1393 | gloss withheld |
 | Aramaic | ʔty 2 (DNWSI 133 apud CAL) | DNWSI 133; CAL |  |
-| Amorite | ʾtj?: ʾatā (Gelb AS 21, 14) | Gelb AS 21 14 | gloss withheld |
+| Amorite | ʾtj?: ʾatā (Gelb AS 21, 14); ʾ-t-w, ʾ-t-y 1, 2: ì-lí-a-ta-a-ia, =i-te-e, ià-a-ti-um (mar-tu) (Ur III) (Sanmartín GlOS 1, 49) | Gelb AS 21 14; Sanmartín GlOS 1, 49 | gloss withheld |
 | Punic | ʾtʾ (T 39) | T 39 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾtw (Al-Jallad–Jaworska 49) | Al-Jallad–Jaworska 49 | gloss withheld |
 | Argobba | ˀatt (Wetter 2010:77 apud SEDonline 326) | Wetter 2010:77; SEDonline 326 | gloss withheld |
 | Tigre | ˀatā (WTS 370 apud SEDonline 326) | WTS 370; SEDonline 326 | gloss withheld |
 | Tigrinya | ˀatäwä (TED 1469 apud SEDonline 326) | TED 1469; SEDonline 326 | gloss withheld |
 | Jibbali | íti (JL 294 apud SEDonline 326) | JL 294; SEDonline 326 | gloss withheld |
+| Eblaitic | cf. a-du-wu-mu /ʾ-t-w, ʾ-t-y/ 1, 2 (Sanmartín GlOS 1, 49) | Sanmartín GlOS 1, 49 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

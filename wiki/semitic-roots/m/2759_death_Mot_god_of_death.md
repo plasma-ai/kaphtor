@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2759_death_Mot_god_of_death
 title: "*māwit-: 'death; Mot (god of death)'"
-desc: "Proto-Semitic *māwit-, 'death; Mot (god of death)': reflexes in 11 language(s)."
+desc: "Proto-Semitic *māwit-, 'death; Mot (god of death)': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2759"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | mīt 'dead' (Payne Smith 269) | Payne Smith 269 |  |
 | Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |
 | Amorite | yamūt (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
+| Eblaitic | ma-tim /mawt, mōt/ (Sanmartín GlOS 2, 63) | Sanmartín GlOS 2, 63 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

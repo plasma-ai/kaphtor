@@ -46,7 +46,7 @@ SU-PU₂ = /sapu/ 'bowl, basin' (see SU-PU). Commodity \*188 = buṭn- 'terebint
 
 | Language | Comparison |
 |---|---|
-| Hebrew | boṭnîm (בָּטְנִים) 'pistachio nuts' (H0992, Gen 43:11) |
+| Hebrew | boṭnîm (בָּטְנִים) 'pistachio nuts' (HALOT 121; Gen 43:11) |
 | Ugaritic | bṭm 'pistachio' (DULAT) |
 | Phoenician | sp 'cup, bowl' (see SU-PU) |
 

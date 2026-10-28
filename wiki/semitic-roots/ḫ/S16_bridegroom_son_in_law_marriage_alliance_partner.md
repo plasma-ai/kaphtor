@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/S16_bridegroom_son_in_law_marriage_alliance_partner
 title: "*ḫatān-: 'bridegroom, son-in-law; marriage alliance partner'"
-desc: "Proto-Semitic *ḫatān-, 'bridegroom, son-in-law; marriage alliance partner': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ḫatān-, 'bridegroom, son-in-law; marriage alliance partner': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S16"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab ḫtn, Hdr ḫtn (Kogan 2015, ch. 3 §5.2 no. 29; Sabaweb lemma 8307) | Kogan 2015 ch. 3 §5.2 no. 29; Sabaweb lemma 8307 | gloss withheld |
 | Syrian Aramaic | ḥatnā (Kogan 2015, ch. 3 §5.2 no. 29) | Kogan 2015 ch. 3 §5.2 no. 29 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḫtn (Al-Jallad–Jaworska 82) | Al-Jallad–Jaworska 82 | gloss withheld |
+| Amorite | ḫatanum (Gelb AS 21, 21); ḫatn- (Huffmon APNM 205) | Gelb AS 21 21; Huffmon APNM 205 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

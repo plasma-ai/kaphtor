@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/539_slaughter_1_sacrifice_2_skin_v_3
 title: "*ṭVbVḫ-: 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3"
-desc: "Proto-Semitic *ṭVbVḫ-, 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3: reflexes in 17 language(s)."
+desc: "Proto-Semitic *ṭVbVḫ-, 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3: reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "539"
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ṭebōḫ (LGz. 586) | LGz. 586 | gloss withheld |
 | Judaic Aramaic | ṭabbāḥaʾ (T 119) | T 119 |  |
 | Mandaic Aramaic | ṭabahaʾ (T 119) | T 119 |  |
+| Eblaitic | a-da-ba-aḫ, a-a-da-ba-aḫ /ṭ-b-ḫ/ 1; du-bù-ḫi /ṭubiḫ, ṭubuḫ/ 1, 2 (Sanmartín GlOS 2, 306–307) | Sanmartín GlOS 2, 306–307 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

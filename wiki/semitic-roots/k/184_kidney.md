@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/184_kidney
 title: "*kʷaly-at-: 'kidney'"
-desc: "Proto-Semitic *kʷaly-at-, 'kidney': reflexes in 22 language(s)."
+desc: "Proto-Semitic *kʷaly-at-, 'kidney': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "184"
@@ -52,6 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | kʷəlit (SED I 141) | SED I 141 |  |
 | Harari | kulāy (SED I 141) | SED I 141 |  |
 | Argobba | kullay (SED I 141) | SED I 141 |  |
+| Eblaitic | ga-li-tum /kalyat/ (Sanmartín GlOS 1, 307); ga-li-du-um = Sum. zé-gùn (VE 911; Civil 2017, 126) | Sanmartín GlOS 1, 307; VE 911; Civil 2017, 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

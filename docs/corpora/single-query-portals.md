@@ -1,10 +1,10 @@
 ---
 name: docs/corpora/single-query-portals
 title: Bounded external-corpus queries
-desc: The one-query clients for DiCoNab, DEAPS, Elephantine and RSTI, what each request may fetch, and what the parsers keep.
+desc: The one-query clients for DiCoNab, DEAPS, Elephantine, RSTI and HathiTrust, what each request may fetch, and what the parsers keep.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-10-28T13:25:50Z
 ---
 
 # Bounded external-corpus queries
@@ -22,6 +22,7 @@ response, and does not follow pagination, media, TEI links, or linked records.
 | DEAPS | Supported | `query_deaps.py`: one public search page or exact textual object |
 | Elephantine | Supported | `query_elephantine.py`: one object-catalogue query, object page, or text page; exposed TEI links are not followed |
 | RSTI | Supported by exact identifier | `query_rsti.py`: one public OCHRE UUID response; linked UUIDs are not followed |
+| HathiTrust (search-only volumes) | Supported by exact volume or OCLC number | `query_hathitrust.py`: one catalog record and one HTRC Extracted Features file per volume; the page viewer is not touched. See [hathitrust-search-only-volumes.md](hathitrust-search-only-volumes.md) |
 | Mari / ARCHIBAB | No client | Its terms prohibit massive use to build or enrich a database; consult it on its own site |
 | CAL Old/Official Aramaic | Not automated | CAL's interface may be consulted manually, but this project does not scrape it; request a tagged-text export for systematic work |
 | CIP / PhDB | Not possible | The official project description is public, but no public query database or supported endpoint was reachable or licensed when checked |
@@ -46,10 +47,15 @@ python3 tools/ane/query_elephantine.py --text 309606
 python3 tools/ane/query_rsti.py 98ef62eb-5eea-4b82-83a9-ff52cfef76f1
 python3 tools/ane/query_rsti.py --menu
 python3 tools/ane/query_rsti.py 2a414954-e077-496b-8b06-a9d0cd417eba --find 'RS 1.001'
+
+# HathiTrust: the pages of a volume that hold a token, from its Extracted Features file
+python3 tools/ane/query_hathitrust.py oclc:2422204
+python3 tools/ane/query_hathitrust.py mdp.39015008689583 awldn --offset 14
 ```
 
 All clients accept `--json` and `--refresh`. Identical calls use the cache under `$XDG_CACHE_HOME/kaphtor/` unless
-refreshed. Live calls have a one-second minimum delay; the default is 1.5 seconds.
+refreshed. Live calls have a one-second minimum delay; the default is 1.5 seconds. HathiTrust caches the features
+file only: each `oclc:` lookup calls the catalog and lists its volumes as plain text.
 
 ## What the parsers retain
 
@@ -64,6 +70,9 @@ refreshed. Live calls have a one-second minimum delay; the default is 1.5 second
 - RSTI: entity identity and type, context path, description, record license,
   properties, notes, immediate items, and linked UUID values. No linked UUID is
   dereferenced.
+- HathiTrust: the volume's id, title, contributor, date, rights code and scan
+  page count, and for each matching scan page its tokens and counts. It keeps
+  no text: the features file holds token counts only.
 
 ## Rights and citation boundary
 
@@ -78,4 +87,7 @@ refreshed. Live calls have a one-second minimum delay; the default is 1.5 second
 - RSTI's site states CC BY-NC-ND 4.0, while an OCHRE response may include its
   own availability license. Preserve both and prefer the narrower applicable
   condition.
+- HTRC Extracted Features 2.0 is CC BY 4.0 (doi:10.13012/R2TE-C227); cite it
+  with any page list it yields. A search-only book's pages stay under its
+  rights holder's terms, so read and cite the book itself.
 - CAL and CIP remain manual/request-only for systematic use.

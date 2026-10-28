@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/1815_seed_sowing_sown_field_1_to_sow_cultivate_2
 title: "*ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2: 'seed, sowing, sown field' 1, 'to sow, cultivate' 2"
-desc: "Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 26 language(s)."
+desc: "Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 28 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1815"
@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | d/ḏrʕ, drʕ (DULAT 277–278) | DULAT 277–278 | gloss withheld |
 | Geez | zarʔa, zarʕa, zarʔ (LGz. 642) | LGz. 642 | gloss withheld |
 | Gurage | \*zärra (LGz. 642); \*zär (LGur. 713) | LGz. 642; LGur. 713 | gloss withheld |
-| Phoenician | Ph. zrʕ (HALOT 282) | HALOT 282 |  |
+| Phoenician | Ph. zrʕ (HALOT 282) | HALOT 282 | gloss withheld |
 | Jibbali | zéraʕ, ezóraʕ, zéraʕ (JJ 320), ḏǝrrít (Ibid. 47) | JJ 320; JJ 47 | gloss withheld |
 | Hebrew | zrʕ, zäraʕ (HALOT 282) | HALOT 282 | gloss withheld |
 | Amharic | zärra (LGz. 642) | LGz. 642 | gloss withheld |
@@ -51,11 +51,13 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Bib. zǝraʕ (BDB 1091), Emp. Eg. zrʕ, Yaud. zrʕ (HALOT 282) | BDB 1091; HALOT 282 | gloss withheld |
 | Argobba | zärra (LGz. 642) | LGz. 642 | gloss withheld |
 | Tigrinya | zärʔe (LGz. 642) | LGz. 642 | gloss withheld |
-| Punic | mzrʿ (Neo-Punic; Krahmalkov 274) | Krahmalkov 274 | gloss withheld |
+| Punic | mzrʿ (Neo-Punic; Krahmalkov 274); zrʿ | Krahmalkov 274; Anderson–Moser 2024 root ḏrʿ | gloss withheld |
 | Amorite | ḏrʿ?: jaḏraʿ, jiḏruʿ, ḏaraʿ, ḏariʿum (Gelb AS 21, 18); ḏāriʿu (Buck 2019, 326) | Gelb AS 21 18; Buck 2019, 326 | gloss withheld |
 | East Ethiopic | Sel. zära, Wol. zärä, Zwy. zärā (EDG 713 apud SEDonline 53) | EDG 713; SEDonline 53 | gloss withheld |
 | Eblaitic | ša-la-um /ḏaRʕum/ (VE 659, Kogan–Krebernik 2021b: 690 apud SEDonline 53; Krebernik 1983, 26); ša-la-ù, šar-ù (Kogan 2011, 200; VE 684; Krebernik 1983, 26) | VE 659, Kogan–Krebernik 2021b: 690; SEDonline 53; Krebernik 1983, 26; Kogan 2011 200; VE 684 | gloss withheld |
 | Modern Arabic | Yem. ḏirēʾ, ḏireh (Biella 99) | Biella 99 |  |
+| Pre-Islamic North Arabian | Safaitic zrʿ (Al-Jallad–Jaworska 143) | Al-Jallad–Jaworska 143 | gloss withheld |
+| Emar | zi-ir-a-ti /ðirʿatu/ (Pentiuc 2001, 195) | Pentiuc 2001 195 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -47,7 +47,7 @@ HT11a (Haghia Triada, Villa Magazine, LMIB): A-RU-RA-\[·\] \]3, KA-RO-NA 2, \*3
 | Language | Comparison |
 |---|---|
 | Hebrew | qeren (קֶרֶן) "horn, ray" (BDB 901); qarnayim "horns" (dual) |
-| Ugaritic | qrn "horn" (DUL 711) |
+| Ugaritic | qrn "horn" (DULAT 700) |
 | Akkadian | qarnu "horn" (CAD Q 136) |
 | Arabic | qarn "horn, peak" (Lane) |
 

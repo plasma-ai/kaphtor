@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ḥmd 'love' | Anderson–Moser 2024 root ḥmd |  |
 | Ugaritic | ḥmd (Kogan 2015, ch. 3 §5.3 no. 9); mḥmd (DULAT 531; HALOT 570) | Kogan 2015 ch. 3 §5.3 no. 9; DULAT 531; HALOT 570; Anderson–Moser 2024 root ḥmd | gloss withheld |
 | Canaanite | ḫamūdu (CAD Ḫ 73; HALOT 325; Krahmalkov 186) | CAD Ḫ 73; HALOT 325; Krahmalkov 186 | gloss withheld |
-| Amorite | ḥmd: jaḥmad, ḥamadum, ḥamidum, ḥamida (Gelb AS 21, 20); ḥamad, ḥamid (Buck 2019, 327) | Gelb AS 21 20; Buck 2019, 327 | gloss withheld |
+| Amorite | ḥmd: jaḥmad, ḥamadum, ḥamidum, ḥamida (Gelb AS 21, 20); ḥamad, ḥamid (Buck 2019, 327); ḥ-m-d: ia-aḫ-ma-du-um, ia-aḫ-mu-du-um, ià-a-ma-tu/ti (Ur III); ḥimd: ḫi-im-di-ia, ḫi-me-id-dìr-ra, ḫi-mi-id-ka-ak-ka (Sanmartín GlOS 1, 239–240) | Gelb AS 21 20; Buck 2019, 327; Sanmartín GlOS 1, 239–240 | gloss withheld |
 | Judaic Aramaic | ḥamad (T 106) | T 106 |  |
 | Mandaic Aramaic | hmd (T 106) | T 106 |  |
 | Arabic | ḥmd (Kogan 2015, ch. 3 §5.3 no. 9) | Kogan 2015 ch. 3 §5.3 no. 9 | gloss withheld |

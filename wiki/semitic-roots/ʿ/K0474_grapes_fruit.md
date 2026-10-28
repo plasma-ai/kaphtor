@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0474_grapes_fruit
 title: "*ʿinab- ~ *ġinab-: 'grapes', 'fruit'"
-desc: "Proto-Semitic *ʿinab- ~ *ġinab-, 'grapes', 'fruit': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʿinab- ~ *ġinab-, 'grapes', 'fruit': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0474"
@@ -36,9 +36,10 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʿinbā (HALOT 851) | HALOT 851 | gloss withheld |
 | Syrian Aramaic | ʿenbᵉtā (HALOT 851) | HALOT 851 |  |
 | Mandaic Aramaic | ʿn/mbʾ (HALOT 851) | HALOT 851 |  |
-| Amorite | ʿinbum, ʾinbum, ʿinbatum (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
+| Amorite | ʿinbum, ʾinbum, ʿinbatum (Gelb AS 21, 15); ʿinb, ʿibb, ʿimb: in-bu(-um), in-bí-il, in-ba-tum; ʿinab: cf. i-na-ba-nu-um (Ur III) (Sanmartín GlOS 1, 82) | Gelb AS 21 15; Sanmartín GlOS 1, 82 | gloss withheld |
 | Arabic | ʿinab- (Kogan 2011, 204; Biella 373) | Kogan 2011 204; Biella 373 | gloss withheld |
 | Epigraphic South Arabian | SAB ʿnb (SD 17; Biella 373; Kogan 2011, 204; Sabaweb lemma 1744) | SD 17; Biella 373; Kogan 2011 204; Sabaweb lemma 1744 | gloss withheld |
+| Eblaitic | /ʿinb, ʿibb, ʿimb/: names en/in-bu₁₆, en/in-bí, en-ba-nu (Sanmartín GlOS 1, 82) | Sanmartín GlOS 1, 82 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

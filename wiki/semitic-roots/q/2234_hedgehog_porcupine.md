@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḳunfuḏ-, ḳunfaḏ- 'hedgehog; rat' \[BK 2 825\], \[Fr. III 507\], \[Lane 2569\], \[LA III 505\] (in \[Fr.\], \[Lane\] and \[LA III 369\] also ḳunfud-). | BK 2 825; Fr. III 507; Lane 2569; LA III 505; LA III 369 |  |
 | Harsusi | (?) ḳeḏewīʔ, ḳeḏewīb \[LH 73\] | LH 73 | gloss withheld |
 | Tigre | ḳǝnfǝz \[LH 255\]. | LH 255 | gloss withheld |
-| Eblaitic | gi-ba-sum6/šúm (= Sum. PÉS̆) \[MEE 4 872\] | MEE 4 872 |  |
+| Eblaitic | gi-ba-sum6/šúm (= Sum. PÉS̆) \[MEE 4 872\] | MEE 4 872 | gloss withheld |
 | Mandaic Aramaic | ḳunpud \[DM 408\]. | DM 408 | gloss withheld |
 | Geez | ḳʷǝnfǝz (ḳǝnfǝz, ḳǝnfuz) \[LGz. 434\]. | LGz. 434 | gloss withheld |
 | Hebrew | ḳippōd (HALOT 1117), pB. ḳuppād \[Ja. 1337\] | HALOT 1117; Ja. 1337 | gloss withheld |

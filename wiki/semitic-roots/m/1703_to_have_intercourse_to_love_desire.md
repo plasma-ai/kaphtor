@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1703_to_have_intercourse_to_love_desire
 title: "*mny: 'to have intercourse; to love, desire'"
-desc: "Proto-Semitic *mny, 'to have intercourse; to love, desire': reflexes in 15 language(s)."
+desc: "Proto-Semitic *mny, 'to have intercourse; to love, desire': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1703"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | Qalan.-V. méni \[SSL 4 89\]; moténe \[LS 246\] | SSL 4 89; LS 246 | gloss withheld |
 | East Ethiopic | SEL tämēñe, WOL tämeññe, ZWY tämäñī (SED I 302) | SED I 302 | gloss withheld |
 | Gafat | (tä)miňňä (LGz. 352) | LGz. 352 |  |
+| Amorite | m-n-w/y: ma-na-wa; ma-na-um (Ur III) (Sanmartín GlOS 2, 45) | Sanmartín GlOS 2, 45 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

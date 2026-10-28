@@ -63,7 +63,7 @@ Unicode (Linear A block):
 | JA-SU-MA-TU-OLIV | yā Šumāt \| OLIV | O Šumāt! Olive (vocative + proper name + commodity ideogram) | CANDIDATE |  |
 | 1 | 1 | quantity: 1 | CONFIRMED |  |
 | U-NA-KA-NA-SI-OLE | wannā kanāsī + OLE | so, behold my gathering + oil (ideogram) | CANDIDATE |  |
-| [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥaya? / ḥayyā? / Haya? / Aya? | possible divine name or liturgical predicate; untranslated | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥaya / ḥayyā / Haya / Aya | possible divine name or liturgical predicate; untranslated | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 

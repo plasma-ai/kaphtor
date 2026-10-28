@@ -40,14 +40,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH7a (Khania, LMIB): section heading for 10 copper-workers (VIR+\*313b 10) receiving ½ unit CYP+D. Three named worker groups on the tablet, each with CYP+D copper allocation \|\| ETYMOLOGY: Skeleton n-s against PS \*naḥaš- 'snake', with interior ḥ unwritten (no \*314 sign on any KH tablet). Prosthetic E- not standard for this root (Hebrew neḥōšet has no initial vowel)—possible adjectival/nisbe naḥāšī 'of copper' or dialectal prosthesis before initial nasal \|\| The dual meaning 'serpent/copper' (shared shininess) is pan-Semitic; Hebrew neḥushtan collapses both into Moses' bronze serpent (Num 21:9). Structural parallel to KU-NI-SU: Semitic commodity term as administrative category label
+KH7a (Khania, LMIB): section heading for 10 copper-workers (VIR+\*313b 10) receiving ½ unit CYP+D. Three named worker groups on the tablet, each with CYP+D copper allocation \|\| ETYMOLOGY: Skeleton n-s against PS \*naḥaš- 'snake', with interior ḥ unwritten (no \*314 sign on any KH tablet). Prosthetic E- not standard for this root (Hebrew neḥōšet has no initial vowel)—possible adjectival/nisbe naḥāšī 'of copper' or dialectal prosthesis before initial nasal \|\| The dual meaning 'serpent/copper' (shared shininess) is pan-Semitic; Hebrew neḥushtan collapses both into Moses' bronze serpent (Num 21:9).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | neḥōšet (נְחֹשֶׁת) "copper, bronze" (BDB 638); nāḥāš (נָחָשׁ) "serpent" (Gen. 3:1); neḥushtan (נְחֻשְׁתָּן) "the bronze serpent" (2 Kings 18:4) |
-| Ugaritic | nḥš "serpent; divination" (DUL, KTU 1.100) |
+| Ugaritic | nḥš "serpent" (DULAT 619; KTU 1.100); divination is Hebrew only, niḥēš "to seek omens" (HALOT 690) |
 | Akkadian | nāḫāšu "to be prosperous/abundant" (CAD) |
 | Arabic | nuḥās (نُحَاس) "copper" (Lane) |
 | Aramaic | neḥāšā "copper, bronze" |

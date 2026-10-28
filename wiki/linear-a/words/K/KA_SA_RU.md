@@ -50,7 +50,7 @@ KN C(2) 912.8; KN Dv 1450; di Mino; Pagan 1998
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | complete |
 
 ## In translations
 

@@ -38,7 +38,7 @@ updated: 2026-10-27T22:12:55Z
 | Mandaic Aramaic | kṣm 2 (HALOT 1115) | HALOT 1115 | gloss withheld |
 | Epigraphic South Arabian | Sab qs³mt 1 (SD 109; Sabaweb lemma 4808); Min mḳs₃m 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 14); Sab mqs1m 2, 3 (SD 108), 2 (Sabaweb lemma 4797) | SD 109; Sabaweb lemma 4808; Kogan 2015 ch. 2 §5.2.2.1 no. 14; SD 108; Sabaweb lemma 4797 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾqsm 3 (Al-Jallad–Jaworska 46) | Al-Jallad–Jaworska 46 | gloss withheld |
-| Amorite | Mari aq-sa-am-ma, qasâmum 2 (FM 2 71:8; Durand FM 2, 113) (Sasson RA 92, 106–107) | Sasson RA 92, 106–107 | gloss withheld |
+| Amorite | Mari aq-sa-am-ma, qasâmum 2 (FM 2 71:8; Durand FM 2, 113) (Sasson RA 92, 106–107); q-s-m 2 (Sanmartín GlOS 1, 354) | Sasson RA 92, 106–107; Sanmartín GlOS 1, 354 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

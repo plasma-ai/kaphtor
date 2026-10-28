@@ -37,6 +37,7 @@ def test_role_labels_are_not_readings(gloss):
     "personal name ʿAnānu (√ʿ-n-n)",
     "PN/epithet: 'Earth is my mother' (pre-Greek Artemis)",
     "the sanctuary (base/foundation)",
+    "broken bread (round loaf)",
 ])
 def test_glosses_stay_readings(gloss):
     assert not b.LABEL_ONLY.search(gloss)
@@ -48,6 +49,11 @@ def test_glosses_stay_readings(gloss):
     "a divider, not a sign group. Not a word.",
 ])
 def test_glosses_ending_in_a_verdict_are_not_readings(gloss):
+    assert b.LABEL_ONLY.search(gloss)
+
+
+@pytest.mark.parametrize("gloss", ["broken word", "broken word, 1"])
+def test_broken_word_labels_are_not_readings(gloss):
     assert b.LABEL_ONLY.search(gloss)
 
 

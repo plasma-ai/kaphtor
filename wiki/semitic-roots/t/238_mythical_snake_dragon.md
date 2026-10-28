@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/238_mythical_snake_dragon
 title: "*tVnnVn-: '(mythical) snake, dragon'"
-desc: "Proto-Semitic *tVnnVn-, '(mythical) snake, dragon': reflexes in 7 language(s)."
+desc: "Proto-Semitic *tVnnVn-, '(mythical) snake, dragon': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "238"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | tannīnā \[Ja. 1682\], \[Levy WT II 547\], \[Levy WTM IV 656\]; tnyn \[DJPA 587a apud CAL\], tannīnā \[Sok. B 1223\]. Sam. tnyn \[Tal 957\]. | Ja. 1682; Levy WT II 547; Levy WTM IV 656; DJPA 587a; CAL; Sok. B 1223; Tal 957 | gloss withheld |
 | Syrian Aramaic | tannīnā 'sea monster; dragon, asp' \[Brock. 828\], \[PS 4463\]. | Brock. 828; PS 4463 |  |
 | Aramaic | Off. tnyn \[HJ 1223\] | HJ 1223 | gloss withheld |
+| Amorite | tunnan: tu-na-nu(-um) (Sanmartín GlOS 2, 298) | Sanmartín GlOS 2, 298 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

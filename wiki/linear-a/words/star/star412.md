@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Commodity ideogram. \*412+E (×3, Malia MA10) + TI+\*412VAS (×1, MA10b) + \*412-VS-VIN (×1, Phaistos PH9b). VIN at PH9b confirms wine-vessel function. Distinct from \*406VAS = kās 'cup'—ʔaggān is larger basin type \|\| ETYMOLOGY: PS \*ʔigān- 'cup, bowl' (PS #1358): Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arab. ʔiggānat-. Arabic preserves /i/-class vowel; NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/ \|\| TI+\*412VAS = subtype (possibly ṭīn- 'clay bowl')
+Commodity ideogram. \*412+E (×3, Malia MA10) + TI+\*412VAS (×1, MA10b) + \*412-VS-VIN (×1, Phaistos PH9b). VIN at PH9b confirms wine-vessel function. Distinct from \*406VAS = kās 'cup'—ʔaggān is larger basin type \|\| ETYMOLOGY: PS \*ʔigān- 'cup, bowl' (PS #1358): Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arab. ʔiggānat-, syllabic a-ga-nu at Qatna and Amarna (GlOS 1, 12). Arabic preserves /i/-class vowel; NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/ \|\| TI+\*412VAS = subtype (possibly ṭīn- 'clay bowl')
 
 ### Source
 

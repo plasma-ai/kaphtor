@@ -27,45 +27,45 @@
     "auto"
   ],
   "stats": {
-    "total": 336,
+    "total": 338,
     "by_type": {
-      "gentilic": 10,
-      "personal_name": 238,
-      "theonym": 29,
+      "gentilic": 11,
+      "personal_name": 236,
+      "theonym": 30,
       "title": 37,
-      "toponym": 19,
+      "toponym": 21,
       "toponym_gentilic": 3
     },
     "by_affiliation": {
       "akkadian_contact": 4,
       "anatolian": 2,
-      "egyptian": 9,
-      "hurrian": 33,
+      "egyptian": 11,
+      "hurrian": 34,
       "indo_aryan": 1,
-      "semitic": 230,
+      "semitic": 240,
       "unknown": {
-        "total": 57,
-        "intact": 49,
+        "total": 46,
+        "intact": 37,
         "fragmentary": 0,
-        "edge_damaged": 8,
+        "edge_damaged": 9,
         "no_witness": 0,
         "note": "intact: at least one undamaged corpus witness; fragmentary: every witness has lost signs ([, ], [?]); edge_damaged: every sign read, but every witness sits against damaged surface (𐝫), nearly always at the word's edge, so the word may be incomplete; no_witness: no corpus group in the listed documents matches the token"
       }
     },
     "by_family": {
-      "Egyptian": 9,
-      "Hurro-Urartian": 33,
+      "Egyptian": 11,
+      "Hurro-Urartian": 34,
       "Indo-European": 3,
-      "Semitic": 234,
-      "unassigned": 57
+      "Semitic": 244,
+      "unassigned": 46
     },
     "by_provenance": {
-      "auto": 66,
-      "manual": 270
+      "auto": 57,
+      "manual": 281
     },
-    "manual_count": 270,
-    "auto_count": 66,
-    "total_entries": 336
+    "manual_count": 281,
+    "auto_count": 57,
+    "total_entries": 338
   },
   "entries": [
     {
@@ -1784,7 +1784,7 @@
           "distance": 0.2
         }
       ],
-      "note": "A man counted one on the rosters HT 7a and HT 85b, and the largest share (56) of the HT 13 wine list. Ugarit has the personal name tt, syllabic te-et-te, tu-tu (DULAT 869). See the lexicon entry."
+      "note": "A man counted one on the rosters HT 7a and HT 85b, and the largest share (56) of the HT 13 wine list. Ugarit has the personal name tt, syllabic te-et-te, tu-tu (DULAT 869); a pet-name type, also Egyptian tt.w and Hurrian–Hittite Tuttu. See the lexicon entry."
     },
     {
       "token": "A-PA-RA-NE",
@@ -2861,14 +2861,14 @@
       "normalized": "site",
       "type": "toponym",
       "type_confidence": "CANDIDATE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "SI-TE",
+      "reading": "Ṣīt",
+      "meaning": "the East, eastern Crete",
       "frequency": 2,
       "attestations": [
         "ZA26a",
@@ -2917,7 +2917,7 @@
           "distance": 1.0
         }
       ],
-      "note": "ZA 26a .1 SI-TE · DI-DI-[, the first group of the tablet, intact and undotted (GORILA III 202–203). MIL Zb 3, the second witness, is unpublished (Younger, Linear A Texts). As a tablet heading it compares with a place: the Kom el-Hetan list's damaged [sȝ]-i-tȝ-[y], tentatively Siteia (Cline & Stannish 2011, 10). No reading."
+      "note": "ZA 26a .1 SI-TE · DI-DI-[, the first group of the tablet, intact and undotted (GORILA III 202–203). MIL Zb 3, the second witness, is unpublished (Younger, Linear A Texts). Ṣīt 'the East', √y-ṣ-ʾ (K0448), a name for eastern Crete; the Kom el-Hetan list's damaged [sȝ]-i-tȝ-[y], tentatively Siteia (Cline & Stannish 2011, 10), compares."
     },
     {
       "token": "TA-TI",
@@ -4504,6 +4504,42 @@
       "note": ""
     },
     {
+      "token": "A-RA-JU",
+      "normalized": "araju",
+      "type": "toponym",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "unknown",
+      "language_family": null,
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-RA-JU",
+      "reading": "ʾArāyu",
+      "meaning": "a town of the kingdom of Ugarit, on the Ugarit–Alalakh border; rival Aralu",
+      "frequency": 1,
+      "attestations": [
+        "HT109"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "JU = yu: ᵘʳᵘA-ra-yu, Ugaritic ary, a town of the kingdom of Ugarit on the border with Alalaḫ (RS 34.131:40; KTU 4.68:8; RGTC 12/2, 30). Rival: Aralu under JU = lu, nearest place Alalaḫ, ᵘʳᵘA-la-la-aḫ (RGTC 12/2, 8). Language unknown. Also in A-RA-JU-U-DE-ZA (HT122b)."
+    },
+    {
       "token": "A-RA-NA-RE",
       "normalized": "aranare",
       "type": "personal_name",
@@ -4891,16 +4927,16 @@
     {
       "token": "A-SI-DA-TO-I",
       "normalized": "asidatoi",
-      "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "type": "gentilic",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "A-SI-DA-TO-I",
+      "reading": "ʾAšdōdī",
+      "meaning": "the Ashdodite, a man of Ashdod",
       "frequency": 1,
       "attestations": [
         "ARKH2"
@@ -4919,7 +4955,7 @@
         "heads_document": 0
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [
         {
@@ -4938,7 +4974,7 @@
           "distance": 0.25
         }
       ],
-      "note": "ARKH 2 (GORILA III 7): a recipient of 12, intact, in a must list headed SI-DA-TE. The shared SI-DA-T- (lexicon SI-DA-TE ṣēdat 'provisions') is a possible link, but A- and -TO-I have no parallel."
+      "note": "ARKH 2 (GORILA III 7): the Ashdodite, 12, in a must list headed SI-DA-TE. Ugaritic aḏddy 'Ashdodite' (KTU 4.635 passim), syllabic ᵘʳᵘAš₂-da-di (RS 19.20:3), Hebrew hā-ʾAšdôdî (Josh 13:3); Tel Ashdod, or Enkomi after Naʾaman 1997 (RGTC 12/2, 3)."
     },
     {
       "token": "A-SU-JA",
@@ -5140,6 +5176,55 @@
       "note": "ZA 10a, a name list headed by TA-NA-TE 2: A-TA-NA-TE 1, between A-KU-MI-NA and A-MI-DA-U. ʾAtanat 'she who gives', feminine of √y-t-n with y > ʾ, final E a dead vowel after /t/; cf. LB a-ta-na-po-ti-ni-ja (KN V 52) (di Mino, Ya Diktu). ZA 9 A-TA-NA-[·] is probably the same word. TA-NA-TE is either the same word without A- or a form of √t-n-n (Tinit)."
     },
     {
+      "token": "A-TA-RE",
+      "normalized": "atare",
+      "type": "theonym",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "egyptian",
+      "language_family": "Egyptian",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-TA-RE",
+      "reading": "Hathar",
+      "meaning": "Hathor (Egyptian goddess)",
+      "frequency": 1,
+      "attestations": [
+        "ZA8"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "word": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [
+        {
+          "word": "KI-RA",
+          "reading": "kirû/qīra",
+          "meaning": "possibly garden/orchard; alternatively liquid bitumen",
+          "category": "vocabulary"
+        },
+        {
+          "word": "TA-I-NU-MA-PA",
+          "reading": "Tainumapa",
+          "meaning": "She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr",
+          "category": "personal_name"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "ZA 8, the first entry under KI-RA, with figs: Hathor, Lady of the Sycomore. See the lexicon entry."
+    },
+    {
       "token": "A-TI-RU",
       "normalized": "atiru",
       "type": "personal_name",
@@ -5238,7 +5323,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "A-ZU-RA",
-      "reading": "ʾAṯirat",
+      "reading": "ʾAṯrat",
       "meaning": "Athirat (divine name: the Goddess)",
       "frequency": 1,
       "attestations": [
@@ -5266,7 +5351,7 @@
         },
         {
           "word": "A-ZU-RA",
-          "reading": "ʾAṯura",
+          "reading": "ʾAṯrat",
           "meaning": "Asherah / Athirat (divine name: the Goddess)",
           "category": "divine_name"
         }
@@ -5274,7 +5359,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "KN Zc 7, an inked inscription: A-KA-NU-ZA-TI · DU-RA-RE · A-ZU-RA ·, then JA-SA-RA-A-NA-NE. ʾAṯirat, Athirat: ZU writes /ṯ/ with a dead vowel, keeping the interdental that Akkadian Aširat and Hebrew ʾĂšērā have lost; the middle vowel is unwritten and given as Ugaritic ʾAṯirat, final -t unwritten. One attestation."
+      "note": "KN Zc 7, an inked inscription: A-KA-NU-ZA-TI · DU-RA-RE · A-ZU-RA ·, then JA-SA-RA-A-NA-NE. ʾAṯrat or ʾAṯirat, Athirat: ZU writes /ṯ/ with any vowel or none, keeping the interdental that Akkadian Aširat and Hebrew ʾĂšērā have lost; final RA writes the live /a/ of the feminine ending, and the middle vowel is either syncopated, as in ᵈaš-ra-tu at Ugarit and aš-ra-tu in EA 60, or kept, as in Ugaritic ʾaṯrt /ʾaṯiratu/; final -t unwritten. One attestation."
     },
     {
       "token": "AU-RE-TE",
@@ -5709,7 +5794,7 @@
       "contact_ref": null,
       "lexicon_ref": "DA-RU-NE-TE",
       "reading": "Dāru-ʿAnēt",
-      "meaning": "Dwelling/endurance of Anat (theophoric compound PN: √DWR + goddess ʿAnatu); rivals Egyptian Neith (Nt) as the second element, a simplex feminine name",
+      "meaning": "Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element",
       "frequency": 1,
       "attestations": [
         "HT98b"
@@ -5738,7 +5823,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Dāru-ʿAnēt (√d-w-r + ʿAnatu); both elements recur, DA-RU-*329 (HT7b) and KA-KU-NE-TE (ZA10b). Rival: Egyptian Neith (Nt) as the second element (sꜣ-nt, wsr-nt, rdj-nt, ḥtp-nt; PNM v6)."
+      "note": "Dāru-ʿAnēt, dāru 'lasting' + ʿAnat, as Amorite Šumī-dāru (Buck 2018, 349); both elements recur, DA-RU-*329 (HT7b) and KA-KU-NE-TE (ZA10b). Rivals: Dūr-ʿAnat 'Wall of Anat'; Egyptian Neith (n.t) as the second element (PNM v6)."
     },
     {
       "token": "DA-SE-RA-TE",
@@ -5929,14 +6014,14 @@
       "normalized": "dedi",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "TA-DI",
+      "reading": "Dedī",
+      "meaning": "'my beloved'",
       "frequency": 1,
       "attestations": [
         "HT94b"
@@ -5980,7 +6065,7 @@
           "category": "vocabulary"
         }
       ],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [
         {
@@ -5999,7 +6084,7 @@
           "distance": 0.0
         }
       ],
-      "note": ""
+      "note": "HT 94b .2 DE-DI 1, in the KI-RO list of five one-unit entries (GORILA I 153). Dedī 'my beloved', as the Ugaritic PN ddy, syll. da-de₄-ya (DULAT 264); the alternate spelling of TA-DI dādī. See the lexicon entry TA-DI."
     },
     {
       "token": "DE-JU-KU",
@@ -7965,7 +8050,7 @@
       "contact_ref": null,
       "lexicon_ref": "KA-KU-NE-TE",
       "reading": "Kakku-ʿAnēt",
-      "meaning": "Weapon of Anat (theophoric compound PN: kakkum 'weapon' + goddess ʿAnatu)",
+      "meaning": "Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element",
       "frequency": 1,
       "attestations": [
         "ZA10b"
@@ -8000,7 +8085,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "Kakku-ʿAnēt (kakkum 'weapon' + ʿAnatu theophoric)."
+      "note": "Kakku-ʿAnēt, kakku 'weapon' + ʿAnat, as Šum-Anati at Ugarit (Kinlaw 1967, 111). Rival: Egyptian Neith (n.t) as the second element (PNM v6)."
     },
     {
       "token": "KA-PA-QE",
@@ -8426,7 +8511,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT88 places the name after the NI fig logogram and before 7. Gelb's Amorite onomasticon repeatedly writes KIKKIN-I/U/UM as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The former Ugaritic 'pot' comparison is rejected because the vessel word is kknt, with final -t; Ugaritic kkn is itself a personal name of uncertain etymology."
+      "note": "HT88 places the name after the NI fig logogram and before 7. Gelb's Amorite onomasticon repeatedly writes KIKKIN-I/U/UM as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The Ugaritic 'pot' comparison fails because the vessel word is kknt, with final -t; Ugaritic kkn is itself a personal name of uncertain etymology."
     },
     {
       "token": "KI-KI-RA-JA",
@@ -9274,14 +9359,14 @@
       "normalized": "mirutarare",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "MI-RU-TA-RA-RE",
+      "reading": "Mīru-darār",
+      "meaning": "Free-running Bull, a bull that roams free",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -9331,10 +9416,10 @@
           "category": "personal_name"
         }
       ],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "Mīru-darār 'Free-running Bull': mīru 'young bull' + darāru 'move about freely, run off' (CAD M/2; CAD D, 109). Rival: Murr-darār 'Flowing Myrrh' (Hebrew mor-dərôr, Exod 30:23)."
     },
     {
       "token": "MI-ZA-SE",
@@ -9579,14 +9664,14 @@
       "normalized": "ora2dine",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "O-RA₂-DI-NE",
+      "reading": "ʾŌl-dīn",
+      "meaning": "the Foremost is judge",
       "frequency": 1,
       "attestations": [
         "HT6a"
@@ -9612,10 +9697,10 @@
           "category": "place_name"
         }
       ],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "HT 6a .4 O-RA₂-DI-NE 2, in a list of NI (GORILA I 13). ʾŌl-dīn, sign for sign the Ugaritic PN ảwldn (DULAT 128): ʾŌl 'the Foremost', Ugaritic ảwl 'priority, supremacy' (DULAT 128), Arabic ʾāla, ʾawila 'to precede, to be first' (Lane 126); dīn 'judgment', as in bʕldn (DULAT 207). Rival: ỉldn ʾIl-dīn 'El is judge' (DULAT 52). See the lexicon entries O-RA₂-DI-NE, O-RA₂ and DI-NE."
     },
     {
       "token": "O-SU-QA-RE",
@@ -10138,7 +10223,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "The only word on each of two Early Bronze Age clay spindle whorls from Troy; Godart suggests the workshop patron's name (Godart 1994, 721). See the unread_words entry. No reading."
+      "note": "The only word on each of two Early Bronze Age clay spindle whorls from Troy; Godart suggests the workshop patron's name (Godart 1994, 721). No reading."
     },
     {
       "token": "PI-RU-E-JU",
@@ -11339,7 +11424,7 @@
           "distance": 1.0
         }
       ],
-      "note": ""
+      "note": "Egyptian Ri-ka-ta, Kom el-Hetan list of Amenhotep III, beside the names read as Amnisos and Knossos; Lyktos (Astour 1966, 317). The -ata ending matches the Egyptian form, a Semitic feminine in status absolutus, which Astour puts down to transmission through the Syrian coast; language unknown. See the lexicon entry."
     },
     {
       "token": "RI-MI-SI",
@@ -11583,14 +11668,14 @@
       "normalized": "rujatadi",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "RU-JA-TA-DI",
+      "reading": "Ruya-dādī",
+      "meaning": "Ruya + 'my beloved'",
       "frequency": 1,
       "attestations": [
         "HTWc3008"
@@ -11609,10 +11694,10 @@
         "heads_document": 0
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "HT Wc 3008 face b, opposite WA · DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved', TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on KN Wc 26. See the lexicon entries RU-JA-TA-DI and TA-DI."
     },
     {
       "token": "RU-MA",
@@ -11746,11 +11831,11 @@
       "affiliation": "unknown",
       "language_family": null,
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "RU-SA",
       "reading": "Rusa",
-      "meaning": "personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647",
+      "meaning": "personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'",
       "frequency": 1,
       "attestations": [
         "HT96a"
@@ -11795,7 +11880,7 @@
           "distance": 0.4
         }
       ],
-      "note": "Egyptian rw-sȝ, one of seven 'names of Crete' on BM EA 5647 (Dautais & Gabolde 2025, 14–15); Linear B ru-si (KN Ak 634, L 588.1)."
+      "note": "Egyptian rw-sȝ, one of seven 'names of Crete' on BM EA 5647 (Dautais & Gabolde 2025, 14–15); Linear B ru-si (KN Ak 634, L 588.1). Rival: Egyptian Rs 'he who is awake' (Vercoutter 1956, 45, 48)."
     },
     {
       "token": "RU-ZU-NA",
@@ -12219,14 +12304,14 @@
       "normalized": "setoija",
       "type": "toponym",
       "type_confidence": "PROBABLE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "PROBABLE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "SE-TO-I-JA",
-      "reading": "Setoiya",
-      "meaning": "Setoiya (Knossian place name)",
+      "reading": "Ṣētiya",
+      "meaning": "the Eastern (one), of the East",
       "frequency": 1,
       "attestations": [
         "PRZa1"
@@ -12259,8 +12344,8 @@
           "distance": 1.0
         }
       ],
-      "note": "",
-      "linear_b_comparanda": "Exact Linear B continuity: se-to-i-ja, 17 KN documents (livestock, military equipment)—a major LB Cretan toponym with no Greek etymology. The -i-ja termination could be Greek-suffixed on a substrate base; the base itself is pre-Greek."
+      "note": "Ṣētiya 'the Eastern (one)', √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya; cf. SI-TE Ṣīt.",
+      "linear_b_comparanda": "Exact Linear B continuity: se-to-i-ja, 17 KN documents (livestock, military equipment)—a major LB Cretan toponym with no Greek etymology."
     },
     {
       "token": "SI-DA-RO",
@@ -12563,14 +12648,14 @@
       "normalized": "tainumapa",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "egyptian",
+      "language_family": "Egyptian",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "TA-I-NU-MA-PA",
+      "reading": "Tainumapa",
+      "meaning": "She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr",
       "frequency": 1,
       "attestations": [
         "ZA8"
@@ -13064,18 +13149,18 @@
       "note": "HT 115b .2 TI-NU-JA · NU-WI · GRA ½, a person (GORILA I 191). Ṯaniya 'Second(-born)', ṯ-n-y + -ya (Sabaic PN tny, Harding 1971, 148–49), TI for ṯ unestablished. Rival: Dīnuya, √d-y-n 'judge'. One witness."
     },
     {
-      "token": "TO-PA₃-DI",
-      "normalized": "topa3di",
+      "token": "A-PA₃-DI",
+      "normalized": "apa3di",
       "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "A-PA₃-DI",
+      "reading": "ʿAbdī",
+      "meaning": "'my servant', or ʿAbdi-[DN] 'servant of [DN]'",
       "frequency": 1,
       "attestations": [
         "PKZb26"
@@ -13094,10 +13179,10 @@
         "heads_document": 1
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI."
     },
     {
       "token": "TU-JU-MA",
@@ -13708,16 +13793,16 @@
     {
       "token": "U-NU-*21F",
       "normalized": "unu21f",
-      "type": "personal_name",
+      "type": "toponym",
       "type_confidence": "SPECULATIVE",
       "affiliation": "unknown",
       "language_family": null,
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "U-NU-*21F",
+      "reading": "Unuḫu",
+      "meaning": "(the men of) Unuḫu, a town named in a text from Ugarit (RS 17.251), location unknown",
       "frequency": 1,
       "attestations": [
         "HT26a"
@@ -13736,7 +13821,7 @@
         "heads_document": 0
       },
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [
         {
@@ -13755,7 +13840,7 @@
           "distance": 0.1
         }
       ],
-      "note": ""
+      "note": "ᵘʳᵘÚ-nu-ḫi, 'man of Unuḫu', a town named in a legal text from Ugarit (RS 17.251:19f.; RGTC 12/2, 324, location unknown); language unknown."
     },
     {
       "token": "U-QE-TI",
@@ -13924,14 +14009,14 @@
       "normalized": "uti",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "hurrian",
+      "language_family": "Hurro-Urartian",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "U-TI",
+      "reading": "Utti",
+      "meaning": "Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti",
       "frequency": 1,
       "attestations": [
         "HT10b"
@@ -13957,7 +14042,7 @@
           "category": "administrative"
         }
       ],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [
         {
@@ -13976,7 +14061,7 @@
           "distance": 0.1
         }
       ],
-      "note": ""
+      "note": "HT 10b .1 U-TI 1, first entry, before DA-RE 2 and TA-RI-NA 15 (GORILA I 21). Utti, as Alalakh Ú-ti (AlT 414.7,17; Niedorf 2008, 309) and Nuzi Uttija, var. Ú-ti-ia (NPN 169). See the lexicon entry U-TI."
     },
     {
       "token": "WA-*362",
@@ -14535,7 +14620,7 @@
           "distance": 0.1
         }
       ],
-      "note": "Corpus distribution favors a recipient, title, or institution over the former 'surplus' gloss. HT105 supplies the strongest control: KA-PA and SA-RA₂ stand in parallel before VIR totals 234 and 235. The royal reading remains CANDIDATE because RA₂ is uncertain and exact Akkadian šarratu would require an unwritten final /t/."
+      "note": "Corpus distribution favors a recipient, title, or institution over a 'surplus' gloss. HT105 supplies the strongest control: KA-PA and SA-RA₂ stand in parallel before VIR totals 234 and 235. The royal reading remains CANDIDATE because RA₂ is uncertain and exact Akkadian šarratu would require an unwritten final /t/."
     },
     {
       "token": "PU-RA₂",
@@ -15257,14 +15342,14 @@
       "normalized": "ruja",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "semitic",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "RU-JA-TA-DI",
+      "reading": "Ruya",
+      "meaning": "personal name; Ugaritic rwy",
       "frequency": 1,
       "attestations": [
         "KNWc26"
@@ -15278,10 +15363,10 @@
       },
       "position_summary": {},
       "co_occurring_known": [],
-      "provenance": "auto",
+      "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "KN Wc 26, a roundel: RU-JA on line 1, NI-PI on line 2. No reading."
+      "note": "KN Wc 26, a roundel, RU-JA on face a and NI-PI on face b (GORILA II 85): Ruya, the Ugaritic PN rwy (DULAT 738), the name that opens RU-JA-TA-DI Ruya-dādī. See the lexicon entry RU-JA-TA-DI."
     },
     {
       "token": "NI-PI",
@@ -15999,7 +16084,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "KH 14 .1 ]RA · A-MA-JA · CYP 6[, whole between dividers (GORILA III 45). A-MA ʿamma 'kinsman' + -ya: the Ugaritic name ʿmy ʿAmmaya (KTU 3.10:9), syllabic am-ma-ia (DULAT 73). Rival: ʾAmaya 'maidservant'."
+      "note": "KH 14 .1 ]RA · A-MA-JA · CYP 6[, whole between dividers (GORILA III 45). A-MA ʿamma 'kinsman' + -ya: the Ugaritic name ʿmy ʿAmmaya (KTU 4.16:4), syllabic am-ma-ya (DULAT 164). Rival: ʾAmaya 'maidservant'."
     },
     {
       "token": "DA-I-PI-TA",
@@ -16378,15 +16463,15 @@
       "token": "KU-ZU-NI",
       "normalized": "kuzuni",
       "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "KU-ZU-NI",
       "reading": "Kuṯinu",
-      "meaning": "personal name; compare the Ugaritic personal name kṯn",
+      "meaning": "personal name, as Ugaritic Kušinu (kṯn)",
       "frequency": 2,
       "attestations": [
         "HT85a",
@@ -16418,7 +16503,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 85a KU-ZU-NI 5, in a roster counted under VIR; HT 13 KU-ZU-NI 18, in the KA-U-DE-TA wine list (KU-RO 130½). Compare the Ugaritic personal name kṯn, syllabic ki-še-na, ku-ši-nu, etymology uncertain (DULAT). Rival: Ug. ktn 'tunic', which has t, not ṯ. Weak point: the choice rests on ZU = /ṯu/, which is unconfirmed, so the name supports that value without confirming it."
+      "note": "HT 85a KU-ZU-NI 5, in a roster counted under VIR; HT 13 KU-ZU-NI 18, in the KA-U-DE-TA wine list (KU-RO 130½). Ugaritic kṯn, syllabic ku-ši-nu (Kinlaw 1967, 76), ki-še-na, etym. unc. (DULAT s.v. kṯn (I)); ZU writes ṯ. Rival: Ug. ktn 'tunic', which has t, not ṯ."
     },
     {
       "token": "ZU-DI-RA",

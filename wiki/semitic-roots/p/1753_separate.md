@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SEDonline 1769 sets Mehri fərūz, Jibbali férɔ́z and Soq. féroz under PWS \*prz 'to break' (EDA I 312), with Mand. prz and Gz. tafarzaza.
+SEDonline 1769 sets Mehri fərūz, Jibbali férɔ́z and Soq. féroz under PWS \*prz 'to break', with Mand. prz and Gz. tafarzaza. EDA I 311–312 (◊P0543) gives Arb. frz 'to set apart, to remove, to separate' (Lane 2365) as the closest match for Akk. parāzu (meaning uncertain), and the Mand., Gz., Amh. and MSA forms as 'less suitable, but still comparable meanings for \*p-r-z'.
 
 <!-- END kaphtor:record -->

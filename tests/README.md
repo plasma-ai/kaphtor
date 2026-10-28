@@ -2,10 +2,10 @@
 
 The test suite: unit, data and maintainer tiers.
 
-- [ane/](ane/README.md): offline tests for the `tools/ane/` query clients, the data paths and the name layers (8 files, 225 tests)
+- [ane/](ane/README.md): offline tests for the `tools/ane/` query clients, the data paths and the name layers (9 files, 233 tests)
 - [linear_a/](linear_a/README.md): tests for the `tools/core/` library, the Shoresh engine and commands, and the corpus
-  analyses (28 files, 752 tests, 429 of them on the shipped data)
-- [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (3 files, 114 tests, 6 of them on
+  analyses (30 files, 952 tests, 564 of them on the shipped data)
+- [views/](views/README.md): tests for the record wiki's builder in `tools/views/` (3 files, 116 tests, 6 of them on
   the live Linear A data and 1 that runs plasma-wiki's `wiki`)
 - [fixtures/](fixtures/README.md): the Shoresh gold set and its baseline, byte for byte as deposited
 
@@ -17,6 +17,8 @@ The test suite: unit, data and maintainer tiers.
   on scratch trees; the gate's pre-commit stage runs no fixer, and its local hooks, run in a scratch repository, flag
   each whitespace defect and rewrite no file (18 tests)
 - `test_markers.py`: every test carries exactly one marker, and none that skips without data is a unit test (2 tests)
+- `test_metadata.py`: `codemeta.json` names the package and version `pyproject.toml` gives (1 test)
+- `test_readme_counts.py`: the README's count badges match the counts computed from the data (1 test)
 
 All of them run with `uv sync --all-groups`, then `PYTHONDONTWRITEBYTECODE=1 uv run --no-sync python -m pytest`; the 8
 live tests skip until the Linear A files they read are in `data/linear-a/` (the 6 view tests need all seven), and the
@@ -31,7 +33,7 @@ Markers (registered in `pyproject.toml`; `--strict-markers` refuses any other):
 
 - `data`: reads the datasets shipped under `data/` (the five ANE client runs in `ane/test_data_paths.py`, the
   notation census on the shipped `egytext`, `pnm` and `tla` views in `ane/test_ane_keys.py`, the checks of the four
-  name layers in `ane/test_name_layers.py` and their searches in `ane/test_query_name_layers.py`, the LFS scan, the three rival-language root files, the Syriac and Akkadian contact lexica, `cognate_search` on the shipped lexicon,
+  name layers in `ane/test_name_layers.py` and their searches in `ane/test_query_name_layers.py`, the LFS scan, the README's count badges (`test_readme_counts.py`), the three rival-language root files, the Syriac and Akkadian contact lexica, `cognate_search` on the shipped lexicon,
   and most of the Shoresh tests, which read the nine files `linear_a/shoresh_inputs.py` names). With `data/`
   removed, every `unit` test still passes. `-m "unit or data"` is what a fresh clone can run.
 - `maintainer`: needs a dataset not yet shipped, and skips without it: the 8 live tests (`LIVE` in

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Hapax heading on roundel HTWc3024. Mimated form of A-RA-TU (CANDIDATE, ZA7a). Akk. erṣetum shows regular feminine mimation; if Minoan uses East-Semitic-style case mimation (both genders), ʾarṣ̂atum is regular. Sole feminine mimation candidate in corpus (14 fem. -at tokens otherwise unmimated). Context: roundel = sealed receipt, heading = citation form where mimation expected.
+Hapax heading on roundel HTWc3024. Mimated form of A-RA-TU (CANDIDATE, ZA7a). Akk. erṣetum shows regular feminine mimation; if Minoan uses East-Semitic-style case mimation (both genders), ʾarṣ̂atum is regular. Amorite feminine names keep -atum: Ḥananatum, Ḥayyatum (Gelb AS 21 nos. 477, 1809). Sole feminine mimation candidate in corpus (14 fem. -at tokens otherwise unmimated). Context: roundel = sealed receipt, heading = citation form where mimation expected.
 
 ### Cognates
 

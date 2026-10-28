@@ -64,6 +64,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PL/PLZf/PLZf1\|PLZf1]] | nīnūn (?) | offspring(?) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/PL/PLZf/PLZf1\|PLZf1]] | nīnūn | offspring(?) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

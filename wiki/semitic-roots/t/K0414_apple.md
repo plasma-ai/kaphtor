@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/K0414_apple
 title: "*tVpVḥ-: 'apple'"
-desc: "Proto-Semitic *tVpVḥ-, 'apple': reflexes in 6 language(s)."
+desc: "Proto-Semitic *tVpVḥ-, 'apple': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0414"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | tappūḥā (HALOT 1773) | HALOT 1773 |  |
 | Geez | tĕfūḥ, tĕfāḥ (HALOT 1774) | HALOT 1774 |  |
 | Tigre | tōfāḥ (HALOT 1774) | HALOT 1774 |  |
+| Eblaitic | du-bù-u₉ /tuppuḥ/ (Sanmartín GlOS 2, 299) | Sanmartín GlOS 2, 299 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

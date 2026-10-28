@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3188_flame
 title: "*nabal-: 'flame'"
-desc: "Proto-Semitic *nabal-, 'flame': reflexes in 3 language(s)."
+desc: "Proto-Semitic *nabal-, 'flame': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3188"
@@ -32,6 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Akkadian | nablu (Kogan 2011, 195) | Kogan 2011 195 |  |
 | Ugaritic | nblʾat (Kogan 2011, 195) | Kogan 2011 195 |  |
 | Geez | nabal (Kogan 2011, 195) | Kogan 2011 195 |  |
+| Amorite | nabl: cf. na-ab-la-núm/nu-um (Ur III) (Sanmartín GlOS 2, 74) | Sanmartín GlOS 2, 74 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

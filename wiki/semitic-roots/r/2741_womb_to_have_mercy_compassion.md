@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab rḥm (SD 116, 117; Biella 485; Sabaweb lemmas 8456, 4903) | SD 116, 117; Biella 485; Sabaweb lemmas 8456, 4903 | gloss withheld |
 | Mehri | raḥm \[JM 321\]; also mǝrḥām \[ibid. 322\] | JM 321; JM 322 | gloss withheld |
 | Tigre | rǝḥm \[LH 146\]. | LH 146 | gloss withheld |
-| Eblaitic | rí-ʔex(EN)-mu, rí-mu-um /reḥmum/ \[Kr 14; Bl E No. 80\] | Kr 14 | gloss withheld |
+| Eblaitic | rí-ʔex(EN)-mu, rí-mu-um /reḥmum/ \[Kr 14; Bl E No. 80\]; rí-ʔeₓ(EN)-mu, rí-mu-um /reḥm, riḥm/ (Sanmartín GlOS 2, 160) | Kr 14; Sanmartín GlOS 2, 160 | gloss withheld |
 | Phoenician | \*rḥm (in rḥm-y) \[Estañol 227\] |  | gloss withheld |
 | Modern Aramaic | MAL raḥmṯa \[Berg 76\] HRT raḥme \[J Hert 197\] NASS raḫmi (pl.) \[Tser 0195\] MMND rehem \[M MND 510\] | Berg 76; J Hert 197; Tser 0195; M MND 510 | gloss withheld |
 | Jibbali | raḥm \[JJ 210\] (EAST) mǝrḥám \[JM 322\] | JJ 210; JM 322 | gloss withheld |
@@ -50,7 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | reḥām (SED I 204) | SED I 204 | gloss withheld |
 | Amharic | marä (SED I 204–205) | SED I 204–205 | gloss withheld |
 | East Ethiopic | WOL marä, SEL ZWY mārä (SED I 205) | SED I 205 | gloss withheld |
-| Amorite | rḥm: jirḥam, jarḥam, raḥimum, raḥima (Gelb AS 21, 30); raḥmu, yirḥam (Buck 2019, 331) | Gelb AS 21 30; Buck 2019, 331 | gloss withheld |
+| Amorite | rḥm: jirḥam, jarḥam, raḥimum, raḥima (Gelb AS 21, 30); raḥmu, yirḥam (Buck 2019, 331); r-ḥ-m: ia-ar-ḫa-mu, ia-ar-ḫa-ma-an, ia-ar-a-mu-um; raḥm: ra-aḫ-ma-ia, ra-aḫ-mi-ì-lí, an-nu-ra-aḫ-mi (Sanmartín GlOS 2, 160) | Gelb AS 21 30; Buck 2019, 331; Sanmartín GlOS 2, 160 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

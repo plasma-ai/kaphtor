@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T19:16:09Z
+updated: 2026-10-29T21:35:46Z
 ---
 
 # wiki/linear-a/words/T
@@ -15,9 +15,11 @@ updated: 2026-10-27T19:16:09Z
 
 [[wiki/linear-a/words/T/TAMIR|TAMIR]]: tamir: proposed Semitic lexical name of the PALM/TREE sign. Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/T/TA_DI|TA_DI]]: dādī: my beloved, a name and name element; alternate spelling DE-DI. Lexicon, SPECULATIVE (tier 1).
+
 [[wiki/linear-a/words/T/TA_I|TA_I]]: Unread (unread): no role; 3 occurrence(s).
 
-[[wiki/linear-a/words/T/TA_I_NU_MA_PA|TA_I_NU_MA_PA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/T/TA_I_NU_MA_PA|TA_I_NU_MA_PA]]: Tainumapa: She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_JA|TA_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -33,7 +35,7 @@ updated: 2026-10-27T19:16:09Z
 
 [[wiki/linear-a/words/T/TA_NA_MA_JE|TA_NA_MA_JE]]: Tanʿamay: personal name, 'She is gracious'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU|TA_NA_RA_TE_U_TI_NU]]: tan-raṣē-u-tī-n(u): may you (f.) be favorable toward us (N-stem of √r-ṣ-y + indicative -u + analogical 2fs subject clitic -tī + 1cp object -n; energic -n the alternative). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU|TA_NA_RA_TE_U_TI_NU]]: tan-raṣē-u-tī-n(u): may you (f.) be favorable toward us (N-stem of √r-ṣ-y + indicative -u + analogical 2fs subject clitic -tī + 1cp object -n). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/T/TA_NA_SU_TE_KE|TA_NA_SU_TE_KE]]: tanašutē-kī: may [it] be drunk for you (f.)—N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī. Lexicon, CANDIDATE (tier 2).
 
@@ -130,8 +132,6 @@ updated: 2026-10-27T19:16:09Z
 [[wiki/linear-a/words/T/TO_ME|TO_ME]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TO_MI_RE|TO_MI_RE]]: tamir: palm/tree or date-palm produce. Lexicon, CANDIDATE (tier 2).
-
-[[wiki/linear-a/words/T/TO_PA3_DI|TO_PA3_DI]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/T/TO_SA|TO_SA]]: Unread (role only): personal name; 1 occurrence(s).
 

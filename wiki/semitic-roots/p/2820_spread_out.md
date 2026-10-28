@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/2820_spread_out
 title: "*pVšVṭ-: 'spread out'"
-desc: "Proto-Semitic *pVšVṭ-, 'spread out': reflexes in 6 language(s)."
+desc: "Proto-Semitic *pVšVṭ-, 'spread out': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2820"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | pəšaṭ (HALOT 980) | HALOT 980 |  |
 | Arabic | basaṭa (HALOT 980) | HALOT 980 |  |
 | Syrian Aramaic | pšaṭ 'stretch out, extend; be straight' (Payne Smith 467) | Payne Smith 467 |  |
+| Eblaitic | ba-sa-tum /p-S-ṭ/ (Sanmartín GlOS 2, 140) | Sanmartín GlOS 2, 140 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -56,6 +56,11 @@ except NotInCheckout as e:
     missing = str(e).split(' is not')[0]
 result = [list(m.key_of({'Consonantal_Root': 'ka-ta-bu', 'Meaning': 'write'})), m.is_name({'Meaning': 'Baal (DN)'}),
           missing]""",
+    "meaning_shuffle": """
+c = {'d': {'support': 'Tablet', 'transliteratedWords': ['KA-NA-SI', 'VIN', '1']},
+     'e': {'support': 'Stone vessel', 'transliteratedWords': ['JA-SA-SA-RA-ME']}}
+result = [{w: sorted(d) for w, d in m.anchored(c, 'all').items()}, m.t_rank([[0.0, 1.0, 1.0]], [0]),
+          m.p_value(2, [1, 2, 3]), m.count_row([0.3, 0.31, m.INF], 0.3)]""",
 }
 # The private originals' values on the same calls.
 EXPECTED = {
@@ -64,6 +69,8 @@ EXPECTED = {
     "semantic_gate": [["maritime"], ["A", "PA3"]],
     "root_match": [["ʾ", "ṯ", "r"], ["KU", "PA₃", "NU"], ["b", "a"], ["b", "d", "k", "p", "q", "t"]],
     "competitors": [["k", "t", "b"], True, "luwian_roots.json"],
+    "meaning_shuffle": [{"KA-NA-SI": ["agriculture", "food_drink"], "JA-SA-SA-RA-ME": ["deity", "ritual_cultic"]}, 1.0,
+                        0.75, [1.0, 0.0, 0.0]],
 }
 
 

@@ -48,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | mi(e)ma (HALOT 576) | HALOT 576 |  |
 | Judaic Aramaic | mayyā (HALOT 576) | HALOT 576 |  |
 | Mandaic Aramaic | mia, mai (HALOT 576) | HALOT 576 |  |
-| Eblaitic | ma-wu/ma-u₉ i-da (Kogan 2011, 191; VE 626a; Krebernik 1983, 24) | Kogan 2011 191; VE 626a; Krebernik 1983, 24 |  |
+| Eblaitic | ma-wu/ma-u₉ i-da (Kogan 2011, 191; VE 626a; Krebernik 1983, 24); mu-ù, ma-wu i-da-a, ma-u₉ i-da /maʾw, māw, māy/ (Sanmartín GlOS 2, 27) | Kogan 2011 191; VE 626a; Krebernik 1983, 24; Sanmartín GlOS 2, 27 | gloss withheld |
 | Tigre | may (Kogan 2015, ch. 7 §2.2 no. 94) | Kogan 2015 ch. 7 §2.2 no. 94 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic my (Al-Jallad–Jaworska 101) | Al-Jallad–Jaworska 101 | gloss withheld |
 | Punic | mm 'water' | Anderson–Moser 2024 root mw |  |

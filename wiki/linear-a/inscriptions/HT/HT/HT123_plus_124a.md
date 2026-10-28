@@ -85,7 +85,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī(?) | press-estate(?) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | press-estate(?) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/O/OLIV\|OLIV]] | \[ideogram\] | olives |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/star/star308\|\*308]] | šamnu | pressed oil, oil derivative | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed, outstanding balance | CONFIRMED | CONFIRMED (lexicon) |

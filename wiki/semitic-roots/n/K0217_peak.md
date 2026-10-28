@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0217_peak
 title: "*nVwVp-: 'peak'"
-desc: "Proto-Semitic *nVwVp-, 'peak': reflexes in 4 language(s)."
+desc: "Proto-Semitic *nVwVp-, 'peak': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0217"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | nôp (Ps 48:3) (HALOT 682) | HALOT 682 | gloss withheld |
 | Judaic Aramaic | nôpā (HALOT 682) | HALOT 682 | gloss withheld |
 | Arabic | nwf; nauf (HALOT 682); munīf (Lane 3039) | HALOT 682; Lane 3039 | gloss withheld |
+| Amorite | nwp?: nūpum, fem. nūpatum (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

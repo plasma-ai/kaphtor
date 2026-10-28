@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | mdbr (DULAT 520) | DULAT 520 | gloss withheld |
 | Hebrew | midbār (HALOT 547) | HALOT 547 | gloss withheld |
-| Amorite | madbaru (Streck 2011, 366); Mari ma-ad-ba-rum (ARM 26/1 14:10) | Streck 2011, 366 | gloss withheld |
+| Amorite | madbaru: ma-ad-ba-rum (ARM 26/1, 14: 10) (Streck 2000, 103; Streck 2011, 366) | Streck 2000 103; Streck 2011, 366 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

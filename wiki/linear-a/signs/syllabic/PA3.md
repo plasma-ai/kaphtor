@@ -46,7 +46,7 @@ Evidence: b 14/20, p 12/20, and p yields a root for every cited word; a labial, 
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿabadī | PROBABLE |
+| [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_PA3_NA\|DU-PA₃-NA]] | Dubbān | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_RO_PA3\|KA-RO-PA₃]] | karbu | PROBABLE |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2724_pilgrimage_festival
 title: "*ḥagg-: 'pilgrimage, festival'"
-desc: "Proto-Semitic *ḥagg-, 'pilgrimage, festival': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḥagg-, 'pilgrimage, festival': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2724"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥaggā (Kogan 2015, ch. 3 §5.2 no. 23) | Kogan 2015 ch. 3 §5.2 no. 23 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥgg (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |
 | Phoenician | ḥgy (root ḥgg), a personal name (Benz PNPPI 307) |  | gloss withheld |
+| Eblaitic | /ḥagg/: names ʔà-gi, ʔà-ki-a, ʔà-a-ki-al₆; /ḥaggūt/: cf. names ʔà-gú-ud, ʔà-gú-du (Sanmartín GlOS 1, 234) | Sanmartín GlOS 1, 234 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

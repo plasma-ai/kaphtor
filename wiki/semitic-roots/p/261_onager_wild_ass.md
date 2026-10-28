@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/261_onager_wild_ass
 title: "*par(a)ʾ-: 'onager, wild ass'"
-desc: "Proto-Semitic *par(a)ʾ-, 'onager, wild ass': reflexes in 6 language(s)."
+desc: "Proto-Semitic *par(a)ʾ-, 'onager, wild ass': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "261"
@@ -36,6 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | pärä(ʔ) (HALOT 961) (with an orthographic variant pärä(h) in Jr 2.24), pB. \[Ja. 1213\] | HALOT 961; Ja. 1213 | gloss withheld |
 | Epigraphic South Arabian | Sab. ʔ-frʔ (pl.) \[Robin-Gajda 116; Sabaweb lemma 3046\] | Sabaweb lemma 3046 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic frʾ (Al-Jallad–Jaworska 69) | Al-Jallad–Jaworska 69 | gloss withheld |
+| Amorite | pār (Sanmartín GlOS 2, 131) | Sanmartín GlOS 2, 131 | gloss withheld |
+| Eblaitic | /parʾ/: name bar-i (Sanmartín GlOS 2, 131) | Sanmartín GlOS 2, 131 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

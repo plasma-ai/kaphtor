@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/ġ
 desc: "Semitic roots whose first radical is ġ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T02:25:00Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/ġ
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/ġ/1151_young_man_slave_1_youth_2|1151_young_man_slave_1_youth_2]]: Proto-Semitic *ɣulām-, 'young man, slave' 1, 'youth' 2: reflexes in 11 language(s).
+[[wiki/semitic-roots/ġ/1151_young_man_slave_1_youth_2|1151_young_man_slave_1_youth_2]]: Proto-Semitic *ɣulām-, 'young man, slave' 1, 'youth' 2: reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ġ/1316_kind_of_clothes|1316_kind_of_clothes]]: Proto-Semitic *ɣ/ʕVpar-, 'kind of clothes': reflexes in 1 language(s).
 
@@ -41,7 +41,7 @@ updated: 2026-10-28T02:25:00Z
 
 [[wiki/semitic-roots/ġ/2207_eagle|2207_eagle]]: Proto-Semitic *ɣVrVn-, 'eagle': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ġ/2208_gazelle|2208_gazelle]]: Proto-Semitic *ɣVzāl-, 'gazelle': reflexes in 5 language(s).
+[[wiki/semitic-roots/ġ/2208_gazelle|2208_gazelle]]: Proto-Semitic *ɣVzāl-, 'gazelle': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ġ/2331_have_a_thick_neck|2331_have_a_thick_neck]]: Proto-Semitic *ɣ/ʕilb-, 'have a thick neck': reflexes in 1 language(s).
 
@@ -113,7 +113,7 @@ updated: 2026-10-28T02:25:00Z
 
 [[wiki/semitic-roots/ġ/3312_film_membrane_chaff|3312_film_membrane_chaff]]: Proto-Semitic *ɣVp-, 'film, membrane; chaff': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ġ/3314_yoke_collar|3314_yoke_collar]]: Proto-Semitic *ɣull-, 'yoke, collar': reflexes in 5 language(s).
+[[wiki/semitic-roots/ġ/3314_yoke_collar|3314_yoke_collar]]: Proto-Semitic *ɣull-, 'yoke, collar': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ġ/3315_to_immerse_plunge_to_swim_dive_to_disappear|3315_to_immerse_plunge_to_swim_dive_to_disappear]]: Proto-Semitic *ɣms, 'to immerse, plunge; to swim, dive; to disappear': reflexes in 8 language(s).
 

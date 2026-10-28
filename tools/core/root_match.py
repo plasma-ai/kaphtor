@@ -55,7 +55,7 @@ try:
     from .semantic_gate import Contexts, cluster_domains, fits
     from .semitic_root_schema import _correspondences
     from .shoresh_nulls import GEMINABLE_STOPS, fabricate, load_corpus_words, permuted_cons_map, position_tables
-    from .skeleton import _SUBSCRIPT_MAP, _lookup_sign, extract_skeleton, load_registry
+    from .skeleton import _SUBSCRIPT_MAP, SIGN_DECOMPOSITION, SIGN_STATUS, _lookup_sign, extract_skeleton, load_registry
 except ImportError:
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
     from tools.core.corpus_utils import load_corpus
@@ -70,7 +70,14 @@ except ImportError:
         permuted_cons_map,
         position_tables,
     )
-    from tools.core.skeleton import _SUBSCRIPT_MAP, _lookup_sign, extract_skeleton, load_registry
+    from tools.core.skeleton import (
+        _SUBSCRIPT_MAP,
+        SIGN_DECOMPOSITION,
+        SIGN_STATUS,
+        _lookup_sign,
+        extract_skeleton,
+        load_registry,
+    )
 
 SEED = 20261016
 DEFAULT_N = 1000
@@ -220,11 +227,49 @@ def _canon(sign: str) -> str:
     return sign.upper().translate(_SUBSCRIPT_MAP)
 
 
-def sign_decomposition(sign: str) -> tuple[str | None, str]:
-    """(consonant or None, vowel), loud: a Linear A sign number (A303) or an unknown sign raises."""
+_LINEAR_B_GRID = re.compile(r"[DJKMNPQRSTWZ]?[AEIOU]|RA2")    # sign names Linear B gives a CV value
+# The tentative Linear B values of three signs Linear B leaves untransliterated, where the engine reads beyond them:
+# *56 pa₃, *65 ju, *79 zu (ju and zu: Davis 2026, 174 n. 641). Melena reads *56 as pa₂, a labial sonorant (ᵐb), and
+# *79 as wo₂ (Melena, The Untransliterated Syllabograms, §§5, 15).
+LINEAR_B_VALUES: dict[str, tuple[str | None, str]] = {"PA3": ("p", "a"), "JU": ("y", "u"), "ZU": ("z", "u")}
+# A21: signs that write their consonants before every vowel, as Old Babylonian PI writes wa, we, wi and wu
+# (Huehnergard 2011, 69). ZU writes ṯ, ḏ and ṯ̣ so, and *305 writes ḏa beside it.
+FULL_SERIES = ("ZU",)
+
+
+def _table_key(sign: str) -> str:
+    upper = _canon(sign)
+    return upper if upper in SIGN_DECOMPOSITION else re.sub(r"\d+$", "", upper)
+
+
+def _beyond_linear_b(sign: str) -> bool:
+    """The value _lookup_sign reads for the sign is not its Linear B value and not resolved: listed in SIGN_STATUS,
+    or, failing closed, a sign off the Linear B grid that SIGN_STATUS does not list."""
+    key = _table_key(sign)
+    status = SIGN_STATUS.get(key)
+    return status != "resolved" if status else not _LINEAR_B_GRID.fullmatch(key)
+
+
+def conventional_consonant_map() -> dict[str, str | None]:
+    """Each sign's consonant as a conventional run reads it, the signs it leaves unmapped out (family C's base)."""
+    out: dict[str, str | None] = {}
+    for sign in SIGN_DECOMPOSITION:
+        try:
+            out[sign] = sign_decomposition(sign, conventional=True)[0]
+        except UnmappedSign:
+            continue
+    return out
+
+
+def sign_decomposition(sign: str, conventional: bool = False) -> tuple[str | None, str]:
+    """(consonant or None, vowel), loud: a Linear A sign number (A303) or an unknown sign raises. With conventional,
+    a sign whose value goes beyond Linear B, unless resolved, reads its Linear B value, and raises where Linear B
+    gives none (A5)."""
     if _A_NUMBER.fullmatch(_canon(sign)):
         raise UnmappedSign(sign)
     decomp = _lookup_sign(sign)
+    if decomp is not None and conventional and _beyond_linear_b(sign):
+        decomp = LINEAR_B_VALUES.get(_table_key(sign))
     if decomp is None:
         raise UnmappedSign(sign)
     return decomp[0] or None, decomp[1]
@@ -235,23 +280,36 @@ def _registry() -> dict:
     return load_registry()
 
 
-def sign_options(sign: str, registry: dict | None = None) -> list[tuple[str | None, str]]:
-    """The sign's readings that differ in consonant, primary first (QA → q, z; RA₂ → l, r)."""
-    primary = sign_decomposition(sign)
+def sign_options(sign: str, registry: dict | None = None,
+                 conventional: bool = False) -> list[tuple[str | None, str]]:
+    """The sign's readings that differ in consonant, primary first (QA → q, z; RA₂ → l, r). With conventional,
+    Linear B values only: the alternates whose status is conventional (RA₂ → r), and no value beyond Linear B."""
+    primary = sign_decomposition(sign, conventional)
     out = [primary]
     reg = _registry() if registry is None else registry
     upper = _canon(sign)
     data = reg.get(upper) or reg.get(re.sub(r"\d+$", "", upper))
     for r in (data or {}).get("readings", []):
         c = r.get("consonant")
+        if conventional and r.get("status") != "conventional":
+            continue
         if not r.get("is_primary") and c and c not in {o[0] for o in out}:
             out.append((c, primary[1]))
     return out
 
 
 def readings(signs: list[list[tuple[str | None, str]]]) -> list[list[tuple[str | None, str]]]:
-    """Every combination of per-sign options, primary first, at most MAX_READINGS."""
-    return [list(r) for r in itertools.islice(itertools.product(*signs), MAX_READINGS)]
+    """Every combination of per-sign options, primary first, at most MAX_READINGS. Over the cap, the combinations
+    fewest steps down the signs' options are kept, ties broken by the signs and not their places, so a word and its
+    shuffles keep the same readings (ZU-QA-RA₂ reads ZU as ḏ, and RA₂-QA-ZU reads RA₂ as r)."""
+    combos = itertools.product(*signs)
+    if math.prod(len(o) for o in signs) <= MAX_READINGS:
+        return [list(r) for r in combos]
+
+    def rank(r: tuple) -> tuple:
+        steps = [(str(o), o.index(c)) for o, c in zip(signs, r)]     # a sign is its options, not its primary
+        return sum(i for _, i in steps), sorted(s for s in steps if s[1])
+    return [list(r) for r in sorted(combos, key=rank)[:MAX_READINGS]]
 
 
 def skeleton_of(cv: list[tuple[str | None, str]]) -> str:
@@ -314,12 +372,12 @@ def _skeleton_tokens(word: str) -> tuple[str, ...]:
     return phonemes(extract_skeleton(word))
 
 
-def written_consonants(registry: dict) -> frozenset[str]:
-    """Every consonant some sign's reading writes: the script's inventory."""
+def written_consonants(registry: dict, conventional: bool = False) -> frozenset[str]:
+    """Every consonant some sign's reading writes: the script's inventory (with conventional, Linear B values)."""
     out: set[str] = set()
     for sign in registry:
         try:
-            opts = sign_options(sign, registry)
+            opts = sign_options(sign, registry, conventional)
         except UnmappedSign:
             continue
         out.update(t for c, _ in opts if c for t in phonemes(c))
@@ -540,11 +598,14 @@ class Shoresh:
     def __init__(self, index: RootIndex, *, names: bool = False, exclude: Iterable[str] = (),
                  corpus_words: list[str] | None = None, registry: dict | None = None,
                  competitors: Iterable[Any] = (), correspondences: dict[str, Any] | None = None,
-                 contexts: Contexts | None = None):
+                 contexts: Contexts | None = None, conventional: bool = False):
         """competitors: competitors.CompetitorSpace objects (§2), queried on the real word's own decoys.
         correspondences: the sound-law table (default data/semitic-roots/semitic_correspondences.json). contexts: the
-        attested contexts of the semantic gate (A18; default: data/linear-a/corpus.json, read on first use)."""
+        attested contexts of the semantic gate (A18; default: data/linear-a/corpus.json, read on first use).
+        conventional: Linear B values only (sign_options), for the real word and its decoys; a word with a sign
+        Linear B gives no value is unmapped (A5), and family B draws no such sign."""
         self.index = index
+        self.conventional = conventional
         self._contexts = contexts
         self._cluster_domains: dict[str, frozenset[str]] | None = None
         self.competitors = list(competitors)
@@ -706,12 +767,16 @@ class Shoresh:
     # --- the real word ---
 
     def word_readings(self, word: str) -> list[list[tuple[str | None, str]]]:
-        return readings([sign_options(s, self.registry) for s in word_signs(word)])
+        return readings([sign_options(s, self.registry, self.conventional) for s in word_signs(word)])
 
     @property
     def written(self) -> frozenset[str]:
+        """The sound laws' inventory, as A9 spells: the Linear B grid's consonants, and the consonants a FULL_SERIES
+        sign writes before every vowel (A21: ZU's ṯ, ḏ and ẓ; a conventional run reads ZU as zu alone)."""
         if self._written is None:
-            self._written = written_consonants(self.registry)
+            full = {t for s in FULL_SERIES if s in self.registry
+                    for c, _ in sign_options(s, self.registry, self.conventional) if c for t in phonemes(c)}
+            self._written = written_consonants(self.registry, conventional=True) | full
         return self._written
 
     def sound_laws(self, number: str, la: tuple[str, ...]) -> dict[str, Any] | None:
@@ -756,8 +821,8 @@ class Shoresh:
 
     # --- decoys ---
 
-    def _polyphonic_slots(self, signs: list[str]) -> int:
-        return sum(len(sign_options(s, self.registry)) > 1 for s in signs)
+    def _reading_count(self, signs: list[str]) -> int:
+        return math.prod(len(sign_options(s, self.registry, self.conventional)) for s in signs)
 
     def family_a(self, word: str, n: int, seed: int) -> tuple[list[list[str]], int]:
         signs = word_signs(word)
@@ -784,14 +849,17 @@ class Shoresh:
         return self._tables, set(self._corpus_words or ())
 
     def family_b(self, word: str, n: int, seed: int) -> tuple[list[list[str]], int]:
-        """A3: root_match_phase0.fabricate, with the word's number of polyphonic slots kept (A11). Returns the
+        """A3: root_match_phase0.fabricate, with the word's number of readings kept (A11; ZU's four count as two
+        two-way slots, A20). Returns the
         decoys and the number of draws that found no match (reported, never padded). A17: the OCP holds only if the
-        word keeps it; a word with two identical consonants side by side gets decoys that may have them too."""
+        word keeps it; a word with two identical consonants side by side gets decoys that may have them too. A
+        conventional run checks the OCP on its own readings (fabricate's tokens are the engine's values)."""
         signs = word_signs(word)
         toks = phonemes(skeleton_of(self.word_readings(word)[0]))
         skel_len = len(toks)
         ocp = all(a != b for a, b in itertools.pairwise(toks))
-        slots = self._polyphonic_slots(signs)
+        ocp_here = ocp and self.conventional
+        count = self._reading_count(signs)
         tables, real = self._corpus()
         rng = _rng(seed, word, "B")
         out, gaps = [], 0
@@ -800,13 +868,15 @@ class Shoresh:
                 gaps += n - i           # the shape is not fabricable: report the whole family as gaps
                 break
             for _ in range(FABRICATE_CALLS):
-                fab = fabricate(rng, len(signs), skel_len, tables, real, tokens=_skeleton_tokens, ocp=ocp)
+                fab = fabricate(rng, len(signs), skel_len, tables, real, tokens=_skeleton_tokens,
+                                ocp=ocp and not self.conventional)
                 if fab is None:
                     continue
                 fs = word_signs(fab)
                 try:
-                    if self._polyphonic_slots(fs) == slots and \
-                            len(phonemes(skeleton_of(self.word_readings(fab)[0]))) == skel_len:
+                    ftoks = phonemes(skeleton_of(self.word_readings(fab)[0]))
+                    if self._reading_count(fs) == count and len(ftoks) == skel_len and \
+                            (not ocp_here or all(a != b for a, b in itertools.pairwise(ftoks))):
                         out.append(fs)
                         break
                 except UnmappedSign:
@@ -818,13 +888,15 @@ class Shoresh:
     def family_c(self, word: str, n: int, seed: int) -> list[list[list[tuple[str | None, str]]]]:
         """§2 C: blind_corpus_test.permuted_cons_map applied to the same signs. A polyphonic sign keeps its number
         of readings; its alternates take the permuted consonant of another, randomly chosen consonant sign, redrawn
-        until it differs from the sign's other readings (sign_options keeps only readings that differ)."""
+        until it differs from the sign's other readings (sign_options keeps only readings that differ). A
+        conventional run permutes the Linear B values (conventional_consonant_map)."""
         signs = word_signs(word)
-        opts = [sign_options(s, self.registry) for s in signs]
+        opts = [sign_options(s, self.registry, self.conventional) for s in signs]
         rng = _rng(seed, word, "C")
         out = []
+        base = conventional_consonant_map() if self.conventional else None
         for _ in range(n):
-            cmap = permuted_cons_map(rng)
+            cmap = permuted_cons_map(rng, base)
             consonant_signs = sorted(s for s, c in cmap.items() if c)
             per_sign = []
             for s, o in zip(signs, opts):
@@ -1007,9 +1079,9 @@ class Shoresh:
         if not run_comp:
             notes.append("competitor null (§2) not run")
             notes.append("CONVERGENT needs the competitor null (§2): unavailable in this run")
-        total_readings = math.prod(len(sign_options(s, self.registry)) for s in word_signs(word))
+        total_readings = self._reading_count(word_signs(word))
         if total_readings > MAX_READINGS:
-            notes.append(f"{total_readings} readings: the first {MAX_READINGS}, primary first, are queried (A17)")
+            notes.append(f"{total_readings} readings: the {MAX_READINGS} nearest the primary are queried (A17)")
         uniq =sum(1 for h in hits if h.distance <= d + UNIQUENESS_SLACK) if d != INF else 0
         fams: dict[str, FamilyResult] = {}
         saturation = None

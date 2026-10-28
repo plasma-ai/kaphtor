@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2715_to_pour_a_libation
 title: "*nVsVk-: 'to pour a libation'"
-desc: "Proto-Semitic *nVsVk-, 'to pour a libation': reflexes in 10 language(s)."
+desc: "Proto-Semitic *nVsVk-, 'to pour a libation': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2715"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | nsk (T 214) | T 214 |  |
 | Biblical Aramaic | nesak (T 214) | T 214 |  |
 | Amorite | nasku (Buck 2019, 330) | Buck 2019, 330 | gloss withheld |
+| Eblaitic | =na-za-gúm /n-s-k/ (Sanmartín GlOS 2, 101) | Sanmartín GlOS 2, 101 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

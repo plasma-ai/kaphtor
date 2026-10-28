@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*pry |
 | Meaning | 'to insult, blame' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1754 |
 
 ## Reflexes
 
@@ -36,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*pry 'to insult' (EDA I 228 apud SEDonline 1754). Cf. 1745 \*pVrVy- 'cut' (Akk. parû 'to cut through', Arb. fry 'slit').
+PS \*pry 'to insult' (SEDonline 1754); EDA I 228–229 (◊P0389) compares Akk. parû 'to insult, to speak basely' with Arb. fry (IV) 'to blame, to censure'. Cf. 1745 \*pVrVy- 'cut' (Akk. parû 'to cut through', Arb. fry 'slit').
 
 <!-- END kaphtor:record -->

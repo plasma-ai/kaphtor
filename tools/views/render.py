@@ -71,7 +71,9 @@ def sign_links(model: Model, form: str) -> str:
 
 
 def _alternate(value) -> str:
-    return f"/{value.get('consonant') or ''}{value.get('vowel') or ''}/" if isinstance(value, dict) else str(value)
+    if not isinstance(value, dict):
+        return str(value)
+    return f"/{value.get('value') or (value.get('consonant') or '') + (value.get('vowel') or '')}/"   # value: ṯ̣u, keyed ẓ
 
 
 # ---------------------------------------------------------------- words
@@ -101,6 +103,11 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
     elif u:
         desc = (f"Unread ({_words(u['status'])}): {_words(u.get('role') or 'no role')}; "
                 f"{u.get('frequency', 0)} occurrence(s).")
+    elif o.get("reading"):
+        ref = o.get("lexicon_ref")
+        desc = (f"{o['reading']}: {o.get('meaning') or _words(o.get('type') or 'name')}. "
+                f"Onomasticon {_words(o.get('type') or 'entry')}"
+                + (f"; lexicon entry {ref}." if ref and ref != form else "."))
     else:
         desc = f"Onomasticon {_words(o.get('type') or 'entry')}, no reading."
     attestations = list(dict.fromkeys(a for rec in (e, o, u) if rec for a in rec.get("attestations") or []))
@@ -111,6 +118,8 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
     if e:
         fields |= {"tier": e["tier"], "confidence": e["confidence"], "confidence_score": e.get("confidence_score"),
                    "reading": e.get("reading")}
+    elif o and o.get("reading"):
+        fields["reading"] = o["reading"]
     fields["attestations"] = attestations
 
     body = [f"**Signs.** {sign_links(model, form)}", ""]
@@ -176,6 +185,12 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
                 ["Occurrences", f"{o.get('frequency', 0)} in {len(o.get('attestations') or [])} documents"],
                 ["Sites", esc(", ".join(o.get("sites") or []))],
                 ["Supports", esc(", ".join(f"{k} {v}" for k, v in (o.get("genre_supports") or {}).items()))]]
+        if not e:   # a name with no lexicon entry of its own: its reading, and the entry it is read under
+            rows[:0] = [[name, esc(o[key])] for name, key in (("Reading", "reading"), ("Meaning", "meaning"))
+                        if o.get(key)]
+            ref = o.get("lexicon_ref")
+            if ref and ref != form:
+                rows.append(["Lexicon entry", link(word_path(ref), esc(ref)) if has_page(model, ref) else esc(ref)])
         if o.get("contact_ref"):
             rows.append(["Contact reference", esc(o["contact_ref"])])
         body += ["## Onomasticon", ""] + table(["Field", "Value"], rows) + [""]

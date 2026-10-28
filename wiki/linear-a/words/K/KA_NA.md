@@ -67,6 +67,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | qanû | aromatic reed, sweet cane (heading; NI-RA fills the slot on HT23b) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | qānā / qanû(?) | sweet cane or reed(?) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | qānā / qanû | sweet cane or reed(?) | CANDIDATE |
 
 <!-- END kaphtor:record -->

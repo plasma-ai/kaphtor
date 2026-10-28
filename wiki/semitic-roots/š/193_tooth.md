@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | sinn- \[BK 1 1147\] | BK 1 1147 |  |
 | Akkadian | šinnu OA on \[CAD š3 48\], \[AHw 1242\] | CAD š3 48; AHw 1242 |  |
-| Eblaitic | si-nu-u\[m\], si-na-tum /šinnum/, /šinnātum/ \[Kr 6-7, 8; Bl E No. 90\] | Kr 6-7, 8 |  |
+| Eblaitic | si-nu-u\[m\], si-na-tum /šinnum/, /šinnātum/ \[Kr 6-7, 8; Bl E No. 90\]; si-nu-um, si-na-tum, si-nu a-ḫa-mu /Sinn, Sinnat/ (Sanmartín GlOS 2, 257) | Kr 6-7, 8; Sanmartín GlOS 2, 257 | gloss withheld |
 | Mandaic Aramaic | šina \[DM 789\] | DM 789 |  |
 | Ugaritic | šn \[Aist 311\] | Aist 311 |  |
 | East Ethiopic | SEL isn, WOL ǝsǝn, ZWY sǝn \[LGur 549\]. | LGur 549 |  |

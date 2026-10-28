@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Proposed I-NA hinna 'behold!' + JA-PA-QA, 3ms yaqtul of √p-q-ḥ 'open (the eyes).' It closes the damaged PKZa11 prayer; JA-PA-QA is independently attested on PKZa12. Hebrew hinnēh/hēn and Ugaritic hn support the presentative, while Isa 42:7 supplies the 'open eyes' usage. IOZa6 is no longer counted as a bare-I-NA control: I-NA-TA-I-ZU-DI-SI-KA is preferred there as ʿInatī ṯudī-šiqā, though hinna remains a rival segmentation.
+Proposed I-NA hinna 'behold!' + JA-PA-QA, 3ms yaqtul of √p-q-ḥ 'open (the eyes).' It closes the damaged PKZa11 prayer; JA-PA-QA is independently attested on PKZa12. Hebrew hinnēh/hēn and Ugaritic hn support the presentative, while Isa 42:7 supplies the 'open eyes' usage. IOZa6 is not a bare-I-NA control: I-NA-TA-I-ZU-DI-SI-KA there reads ʿInatī ṯudī-šiqā, though hinna remains a rival segmentation.
 
 ### Cognates
 

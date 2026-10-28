@@ -33,7 +33,7 @@ updated: 2026-10-26T14:26:59Z
 | Punic | ytm 'orphan' | Anderson–Moser 2024 root ytm |  |
 | Ugaritic | ytm 'orphan' | Anderson–Moser 2024 root ytm |  |
 | Soqotri | aitōmōh (HALOT 451) | HALOT 451 | gloss withheld |
-| Amorite | jatamum, jatmum; jatumum, jitumum (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
+| Amorite | jatamum, jatmum; jatumum, jitumum (Gelb AS 21, 21); maytmiy: cf. me-et-mi-iu-um (Sanmartín GlOS 2, 378) | Gelb AS 21 21; Sanmartín GlOS 2, 378 | gloss withheld |
 | Phoenician | ytm (T 131) | T 131 | gloss withheld |
 | Syrian Aramaic | yatmā (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Mehri | ḥə-ytīm (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Ug qṭ (I) 'flax' (DUL s.v.), n.m., attested 4× in KTU: 1.71, 1.72, 1.85 (hippiatric prescriptions—št bln qṭ, linseed ground with mixed fodder) and 2.36 (ḥwt qṭ 'the land of flax' beside ḥwt ugrt—a known crux, possibly Egypt). Wanderwort family \*kito- 'flax/linen': Akk kitû, Aram kittānā, Sum gada, Gk χιτών; Ugaritic branch shows q for k. \|\| \*118 = ṭa, a speculative value, stands where the root demands the emphatic. \|\| CONTEXT: KH10 (Khania grain ledger, GRA 10 … A-KI-PI-E-TE GRA 90); flax recorded beside grain matches Ugaritic field-crop practice, but the visible ideogram is GRA—the reading rides on the lexical match.
+Ug qṭ (I) 'flax' (DULAT 708), n.m., attested 4× in KTU: 1.71, 1.72, 1.85 (hippiatric prescriptions—št bln qṭ, linseed ground with mixed fodder) and 2.36 (ḥwt qṭ 'the land of flax' beside ḥwt ugrt—a known crux, possibly Egypt). Wanderwort family \*kito- 'flax/linen': Akk kitû, Aram kittānā, Sum gada, Gk χιτών; Ugaritic branch shows q for k. \|\| \*118 = ṭa, a speculative value, stands where the root demands the emphatic. \|\| CONTEXT: KH10 (Khania grain ledger, GRA 10 … A-KI-PI-E-TE GRA 90); flax recorded beside grain matches Ugaritic field-crop practice, but the visible ideogram is GRA—the reading rides on the lexical match.
 
 ### Cognates
 

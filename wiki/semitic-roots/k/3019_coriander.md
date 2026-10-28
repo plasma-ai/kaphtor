@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | kisibirru (kusibirru, kissibirru, kisibarru) (CAD K 420) | CAD K 420 | gloss withheld |
 | Syrian Aramaic | kūsbartā 'coriander' (Payne Smith 210) | Payne Smith 210 |  |
-| Amorite | kisibir(r)atum (Gelb AS 21, 23) | Gelb AS 21 23 |  |
+| Amorite | kisibir(r)atum (Gelb AS 21, 23); kiSibirr: ki-zi-bi-ra-tum (Sanmartín GlOS 1, 322) | Gelb AS 21 23; Sanmartín GlOS 1, 322 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

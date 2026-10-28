@@ -47,7 +47,7 @@ Attested only within I-DA-PA₃-I-SA-RI (PH6), following the b= proclitic; the m
 | Language | Comparison |
 |---|---|
 | Hebrew | yōšer (יֹשֶׁר) 'uprightness, equity'; yāšār (יָשָׁר) 'upright' |
-| Ugaritic | yšr 'straight, upright' (DUL 928) |
+| Ugaritic | yšr 'straight, upright' (DULAT 973) |
 | Akkadian | išaru 'straight, just'; mīšaru 'justice, equity' (CAD M/II 116) |
 
 ### Source

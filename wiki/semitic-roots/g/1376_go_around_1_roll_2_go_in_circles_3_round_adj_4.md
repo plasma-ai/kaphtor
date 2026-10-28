@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǯwl 3, ǯlǯl? |  |  |
+| Arabic | ǯwl 3, ǯlǯl?; jāla 'he went round, or about, or round about'; jawwāl 'one who goes about, or round about, much, or often, in the countries, or districts' (Lane 488, 490) | Lane 488, 490 |  |
 | Akkadian | galālu 2 |  |  |
 | Mandaic Aramaic | glal- |  | gloss withheld |
 | Hebrew | gll 2 |  |  |

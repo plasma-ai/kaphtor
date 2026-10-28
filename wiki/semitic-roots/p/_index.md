@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/p
 desc: "Semitic roots whose first radical is p."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-29T00:24:55Z
 ---
 
 # wiki/semitic-roots/p
@@ -11,7 +11,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/1002_pull_out|1002_pull_out]]: Proto-Semitic *pVṣ-, 'pull (out)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/p/1014_open_begin|1014_open_begin]]: Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 22 language(s).
+[[wiki/semitic-roots/p/1014_open_begin|1014_open_begin]]: Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/p/1015_open|1015_open]]: Proto-Semitic *pVg-, 'open': reflexes in 1 language(s).
 
@@ -51,9 +51,9 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/142_bull_s_bladder|142_bull_s_bladder]]: Proto-Semitic *paw(V)p-, 'bull's bladder': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/p/143_mouth|143_mouth]]: Proto-Semitic *pay-, 'mouth': reflexes in 22 language(s).
+[[wiki/semitic-roots/p/143_mouth|143_mouth]]: Proto-Semitic *pay-, 'mouth': reflexes in 23 language(s).
 
-[[wiki/semitic-roots/p/144_face|144_face]]: Proto-Semitic *pan-, 'face': reflexes in 12 language(s).
+[[wiki/semitic-roots/p/144_face|144_face]]: Proto-Semitic *pan-, 'face': reflexes in 14 language(s).
 
 [[wiki/semitic-roots/p/1503_damage_of_a_bone_v|1503_damage_of_a_bone_v]]: Proto-Semitic *pVnaḫ-, 'damage (of a bone)' (v.): reflexes in 1 language(s).
 
@@ -105,7 +105,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/1734_wet_moisten|1734_wet_moisten]]: Proto-Semitic *pVḥaš-, 'wet, moisten': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/p/1735_sprout_1_flower_2|1735_sprout_1_flower_2]]: Proto-Semitic *piraḫ-, 'sprout' 1, 'flower' 2: reflexes in 8 language(s).
+[[wiki/semitic-roots/p/1735_sprout_1_flower_2|1735_sprout_1_flower_2]]: Proto-Semitic *piraḫ-, 'sprout' 1, 'flower' 2: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/p/1736_burst_open_1_burst_2_break_be_broken_3|1736_burst_open_1_burst_2_break_be_broken_3]]: Proto-Semitic *pVrVṭ-, 'burst open' 1, 'burst' 2, 'break, be broken' 3: reflexes in 9 language(s).
 
@@ -153,7 +153,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/1988_fat|1988_fat]]: Proto-Semitic *pidr-, 'fat': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/p/1989_body_esp_dead_body_corpse|1989_body_esp_dead_body_corpse]]: Proto-Semitic *pagr-, 'body, esp. dead body, corpse': reflexes in 7 language(s).
+[[wiki/semitic-roots/p/1989_body_esp_dead_body_corpse|1989_body_esp_dead_body_corpse]]: Proto-Semitic *pagr-, 'body, esp. dead body, corpse': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/p/1990_thigh_penis|1990_thigh_penis]]: Proto-Semitic *paḥ(a)l-, 'thigh; penis': reflexes in 8 language(s).
 
@@ -219,11 +219,11 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/2580_to_puncture_separate|2580_to_puncture_separate]]: Proto-Semitic *p(y)z, 'to puncture, separate': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/p/2606_to_spread_out_curtain_divider|2606_to_spread_out_curtain_divider]]: Proto-Semitic *prŝ, 'to spread out; curtain, divider': reflexes in 10 language(s).
+[[wiki/semitic-roots/p/2606_to_spread_out_curtain_divider|2606_to_spread_out_curtain_divider]]: Proto-Semitic *prŝ, 'to spread out; curtain, divider': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/p/261_onager_wild_ass|261_onager_wild_ass]]: Proto-Semitic *par(a)ʾ-, 'onager, wild ass': reflexes in 6 language(s).
+[[wiki/semitic-roots/p/261_onager_wild_ass|261_onager_wild_ass]]: Proto-Semitic *par(a)ʾ-, 'onager, wild ass': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/p/2625_escape_save|2625_escape_save]]: Proto-Semitic *plṭ, 'escape, save': reflexes in 7 language(s).
+[[wiki/semitic-roots/p/2625_escape_save|2625_escape_save]]: Proto-Semitic *plṭ, 'escape, save': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/p/262_horse|262_horse]]: Proto-Semitic *paraš- {} *paras-, 'horse': reflexes in 16 language(s).
 
@@ -241,7 +241,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/2819_interpret|2819_interpret]]: Proto-Semitic *pVšVr-, 'interpret': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/p/2820_spread_out|2820_spread_out]]: Proto-Semitic *pVšVṭ-, 'spread out': reflexes in 6 language(s).
+[[wiki/semitic-roots/p/2820_spread_out|2820_spread_out]]: Proto-Semitic *pVšVṭ-, 'spread out': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/p/2821_step_stride|2821_step_stride]]: Proto-Semitic *pVśVʿ-, 'step, stride': reflexes in 3 language(s).
 
@@ -291,7 +291,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/325_draw_the_bow|325_draw_the_bow]]: Proto-Semitic *pVg-, 'draw (the bow)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/p/3260_to_be_separated_to_separate_to_distinguish_to_ju|3260_to_be_separated_to_separate_to_distinguish_to_ju]]: Proto-Semitic *prd, 'to be separated, to separate; to distinguish, to judge': reflexes in 12 language(s).
+[[wiki/semitic-roots/p/3260_to_be_separated_to_separate_to_distinguish_to_ju|3260_to_be_separated_to_separate_to_distinguish_to_ju]]: Proto-Semitic *prd, 'to be separated, to separate; to distinguish, to judge': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/p/326_close_lock|326_close_lock]]: Proto-Semitic *pVḫVʾ-, 'close, lock': reflexes in 1 language(s).
 
@@ -327,7 +327,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/334_wick_1_kind_of_cord_2|334_wick_1_kind_of_cord_2]]: Proto-Semitic *patil-, 'wick' 1, 'kind of cord' 2: reflexes in 9 language(s).
 
-[[wiki/semitic-roots/p/335_edge|335_edge]]: Proto-Semitic *pVʾ-, 'edge': reflexes in 7 language(s).
+[[wiki/semitic-roots/p/335_edge|335_edge]]: Proto-Semitic *pVʾ-, 'edge': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/p/3386_to_cover_to_wear_clothes|3386_to_cover_to_wear_clothes]]: Proto-Semitic *pḳy, 'to cover, to wear clothes': reflexes in 4 language(s).
 
@@ -455,7 +455,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/K0254_indulge|K0254_indulge]]: Proto-Semitic *panaq-, 'indulge': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/p/K0256_entrust_trust|K0256_entrust_trust]]: Proto-Semitic *paqād-, 'entrust', 'trust': reflexes in 16 language(s).
+[[wiki/semitic-roots/p/K0256_entrust_trust|K0256_entrust_trust]]: Proto-Semitic *paqād-, 'entrust', 'trust': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/p/K0257_love|K0257_love]]: Proto-Semitic *pVqVr-, 'love': reflexes in 4 language(s).
 
@@ -483,7 +483,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/p/K0288_fat|K0288_fat]]: Proto-Semitic *paṭām-, 'fat': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/p/K0289_loose|K0289_loose]]: Proto-Semitic *paṭār-, 'loose': reflexes in 7 language(s).
+[[wiki/semitic-roots/p/K0289_loose|K0289_loose]]: Proto-Semitic *paṭār-, 'loose': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/p/S109_son_child|S109_son_child]]: Proto-Semitic *perhu/*fruh, 'son / child': reflexes in 1 language(s).
 

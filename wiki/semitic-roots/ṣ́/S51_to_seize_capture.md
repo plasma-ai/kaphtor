@@ -43,7 +43,7 @@ updated: 2026-10-26T14:26:59Z
 | Argobba | č̣ebbäṭa (LGz. 148) | LGz. 148 | gloss withheld |
 | Gurage | ṭäbbäṭä, č̣äbbäṭä (LGz. 148) | LGz. 148 | gloss withheld |
 | Amorite | ṣbṭ: ṣabṭum, ṣibiṭṭa (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
-| Eblaitic | ne-il-da-ba-at /niltabat/ (ARET XIII 13 obv. VI 2, Kogan–Krebernik 2021b: 686 apud SEDonline 1573) | SEDonline 1573 | gloss withheld |
+| Eblaitic | ne-il-da-ba-at /niltabat/ (ARET XIII 13 obv. VI 2, Kogan–Krebernik 2021b: 686 apud SEDonline 1573); ni-za-ba-ad, ne-il-da-ba-ad, i-zi-ba-dè-ga /ṣ́-b-t/ (Sanmartín GlOS 2, 284) | ARET XIII 13 obv. VI 2, Kogan–Krebernik 2021b: 686; SEDonline 1573; Sanmartín GlOS 2, 284 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

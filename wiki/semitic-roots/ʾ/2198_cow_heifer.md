@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʔarḫ \[DULAT 98\] | DULAT 98 | gloss withheld |
 | Aramaic | Dem. ʔrḫ \[HJ 1253\]. | HJ 1253 | gloss withheld |
 | Tigrinya | ʔarḥi 'heifer, cow that has not yet calved' \[Bass. 493\], ʔarḥo 'toro' \[ibid.\]. | Bass. 493 |  |
-| Amorite | ʾarḫum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
+| Amorite | ʾarḫum (Gelb AS 21, 13); ʾarḫ: ar-ḫu-um, ar-ḫa-nu-um, ar-ḫi-ᵈUTU-ši (Sanmartín GlOS 1, 39) | Gelb AS 21 13; Sanmartín GlOS 1, 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

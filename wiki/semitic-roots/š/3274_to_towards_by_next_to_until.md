@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Eblaitic | si-in (Tonietti 1997:79–83 apud SEDonline 1424) | Tonietti 1997 79–83; SEDonline 1424 | gloss withheld |
+| Eblaitic | si-in (Tonietti 1997:79–83 apud SEDonline 1424); si-in, si-ma /Sin/ (Sanmartín GlOS 2, 256) | Tonietti 1997 79–83; SEDonline 1424; Sanmartín GlOS 2, 256 | gloss withheld |
 | Epigraphic South Arabian | Sab. s₁n (SD 127 apud SEDonline 1424); Sab. s₃n (SD 139 apud SEDonline 1424) | SD 127; SEDonline 1424; SD 139 | gloss withheld |
 | Gurage | Cha. End. Enn. Gye. Gog. sən, Ezha Muh. Msq. sənn (EDG 549 apud SEDonline 1424) | EDG 549; SEDonline 1424 | gloss withheld |
 | Mehri | hən (ML 158 apud SEDonline 1424) | ML 158; SEDonline 1424 | gloss withheld |

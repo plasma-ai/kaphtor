@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1735_sprout_1_flower_2
 title: "*piraḫ-: 'sprout' 1, 'flower' 2"
-desc: "Proto-Semitic *piraḫ-, 'sprout' 1, 'flower' 2: reflexes in 8 language(s)."
+desc: "Proto-Semitic *piraḫ-, 'sprout' 1, 'flower' 2: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1735"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | parḥ- 2 |  |  |
 | Mandaic Aramaic | pra (HALOT 965) | HALOT 965 | gloss withheld |
 | Judaic Aramaic | parḥā (HALOT 966) | HALOT 966 | gloss withheld |
+| Amorite | pirḫ (Sanmartín GlOS 2, 133) | Sanmartín GlOS 2, 133 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

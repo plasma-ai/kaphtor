@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/2096_to_be_sated_1_satiety_2
 title: "*ŝbʕ {} *ĉbʕ (-a-): 'to be sated' 1, 'satiety' 2"
-desc: "Proto-Semitic *ŝbʕ {} *ĉbʕ (-a-), 'to be sated' 1, 'satiety' 2: reflexes in 15 language(s)."
+desc: "Proto-Semitic *ŝbʕ {} *ĉbʕ (-a-), 'to be sated' 1, 'satiety' 2: reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2096"
@@ -45,6 +45,7 @@ updated: 2026-10-27T22:12:55Z
 | Aramaic | OLD OFF PLM šbʕ \[HJ 1011\] | HJ 1011 | gloss withheld |
 | Modern Aramaic | Maʿlula śbʿ (HALOT 1302) | HALOT 1302 |  |
 | Phoenician | šbʿ (HALOT 1304) | HALOT 1304 |  |
+| Eblaitic | /S-b-ʿ/ 1: names áš-ba-ì, iš-ba-ì, iš-ba-il (Sanmartín GlOS 2, 272; Krebernik 1988, 51–52) | Sanmartín GlOS 2, 272; Krebernik 1988, 51–52 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

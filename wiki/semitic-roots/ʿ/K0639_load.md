@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʿms 'load' | Anderson–Moser 2024 root ʿms |  |
 | Arabic | ʿamisa (HALOT 846) | HALOT 846 |  |
 | Tigre | ʿamsa (HALOT 846) | HALOT 846 |  |
-| Amorite | ʿms: jaʿmus, jāʿmis (Gelb AS 21, 15); yaʿmus (Buck 2019, 325) | Gelb AS 21 15; Buck 2019, 325 | gloss withheld |
+| Amorite | ʿms: jaʿmus, jāʿmis (Gelb AS 21, 15); yaʿmus (Buck 2019, 325); ʿ-m-s: e-mu-zum, ia-aḫ-mus-DINGIR, e-me/mi-zum (Ur III) (Sanmartín GlOS 1, 81) | Gelb AS 21 15; Buck 2019, 325; Sanmartín GlOS 1, 81 | gloss withheld |
 | Phoenician | ʿms: yʿmsn (T 250) | T 250 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

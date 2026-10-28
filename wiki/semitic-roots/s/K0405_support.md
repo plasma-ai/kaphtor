@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | saʕida 'happy'; sāʕadahu 'he aided, assisted, helped him' (Lane 1360) | Lane 1360; Anderson–Moser 2024 root sʿd |  |
 | Aramaic | SʿD 'help' | Anderson–Moser 2024 root sʿd |  |
 | Hebrew | saʿad 'support' | Anderson–Moser 2024 root sʿd |  |
-| Amorite | sʿd (Huffmon APNM 245) | Huffmon APNM 245 | gloss withheld |
+| Amorite | sʿd (Huffmon APNM 245); s-ʿ-d: cf. sa-a-di-ia, ia-ás-ta-aḫ-di-el (Sanmartín GlOS 2, 191) | Huffmon APNM 245; Sanmartín GlOS 2, 191 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic sʿd (Al-Jallad–Jaworska 119) | Al-Jallad–Jaworska 119 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

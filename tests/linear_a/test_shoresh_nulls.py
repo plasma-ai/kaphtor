@@ -88,6 +88,15 @@ def test_the_permuted_consonant_map():
     assert sorted(c for c in cmap.values() if c) == sorted(c for c in base.values() if c)
 
 
+def test_a_given_base_map_is_permuted():
+    assert sn.permuted_cons_map(random.Random(0), sn.base_consonant_map()) == sn.permuted_cons_map(random.Random(0))
+    base = {s: c for s, c in sn.base_consonant_map().items() if s not in {"*301", "*306"}} | {"PA3": "p"}
+    cmap = sn.permuted_cons_map(random.Random(0), base)
+    assert set(cmap) == set(base)
+    assert sorted(c for c in cmap.values() if c) == sorted(c for c in base.values() if c)
+    assert cmap != base
+
+
 def test_corpus_words_are_the_multi_sign_words(tmp_path, monkeypatch):
     corpus = tmp_path / "corpus.json"
     corpus.write_text(json.dumps({"HT1": {"transliteratedWords": ["KU-RO", "A", "1-2", "KU-RO"]},

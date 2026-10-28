@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | duwām- 'vertigo, spinning of the head' \[BK 1 753\]. | BK 1 753 |  |
-| Akkadian | dâmu SB \[CAD d 80\], \[AHw 146\]. | CAD d 80; AHw 146 | gloss withheld |
+| Akkadian | dâmu SB \[CAD d 80\], \[AHw 146\] (AHw 146, 1549, SAD 2 1 apud Kogan 2025, 3). | CAD d 80; AHw 146; AHw 146, 1549, SAD 2 1; Kogan 2025, 3 | gloss withheld |
 | Jibbali | (?) edmím \[JJ 39\] | JJ 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

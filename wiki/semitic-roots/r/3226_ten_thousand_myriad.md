@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3226_ten_thousand_myriad
 title: "*rib(a)b-at-, *ribw-at-: 'ten thousand, myriad'"
-desc: "Proto-Semitic *rib(a)b-at-, *ribw-at-, 'ten thousand, myriad': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rib(a)b-at-, *ribw-at-, 'ten thousand, myriad': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3226"
@@ -33,7 +33,8 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | rəbābā (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015 ch. 3 §5.2 no. 47 | gloss withheld |
 | Syrian Aramaic | rebbu (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015 ch. 3 §5.2 no. 47 | gloss withheld |
 | Arabic | ribbiyy-, rabbiyy-, rubbiyy-, rabw-, rubwat-, ribwat-, rubat- (Kogan 2015, ch. 3 §5.2 no. 47) | Kogan 2015 ch. 3 §5.2 no. 47 | gloss withheld |
-| Amorite | rabbatu, rab(a)bātu (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
+| Amorite | rabbatu, rab(a)bātu: ra-ab-ba-tim; ra-ba-ba-tam (Florilegium Marianum III, 10: 8') (Streck 2000, 111; Streck 2011, 367); rabbat; ribbat (Sanmartín GlOS 2, 153) | Streck 2000 111; Streck 2011, 367; Sanmartín GlOS 2, 153 | gloss withheld |
+| Eblaitic | rí-bab /ribab/ (Sanmartín GlOS 2, 152) | Sanmartín GlOS 2, 152 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

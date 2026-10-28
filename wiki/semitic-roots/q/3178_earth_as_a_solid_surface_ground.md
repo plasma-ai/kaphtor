@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3178_earth_as_a_solid_surface_ground
 title: "*ḳarḳar-: 'earth as a solid surface (ground)'"
-desc: "Proto-Semitic *ḳarḳar-, 'earth as a solid surface (ground)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḳarḳar-, 'earth as a solid surface (ground)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3178"
@@ -34,6 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Judaic Aramaic | JPA ḳrḳˁ (DJPA 507 apud SEDonline 514); JBA ḳarḳˁā (DJBA 1046 apud SEDonline 514) | DJPA 507; SEDonline 514; DJBA 1046 | gloss withheld |
 | Arabic | qarqar- (LA 5 100 apud SEDonline 514) | LA 5 100; SEDonline 514 | gloss withheld |
 | Soqotri | ḳárḳɛhɛr (LS 387; SLOnline 7838) | LS 387; SLOnline 7838 | gloss withheld |
+| Eblaitic | cf. na-iš g\[àr-ga-ri-im\] /qaqqar, qarqar/ (Sanmartín GlOS 1, 351); /naʾiš qaqqarim/ (= Sum. níg-ki; MEE 4 116, restoring MEE 4 112 r. ii) (Civil 2017, 78 n. 14, 125) | Sanmartín GlOS 1, 351; MEE 4 116, restoring MEE 4 112 r. ii; Civil 2017, 78 n. 14, 125 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

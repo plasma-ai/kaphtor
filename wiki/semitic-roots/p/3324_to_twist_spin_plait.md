@@ -46,6 +46,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*ptl 'to plait' (EDA I apud SEDonline 1329). Verb of the same root as 334 \*patil- 'wick' 1, 'kind of cord' 2.
+PS \*ptl 'to plait' (EDA I 512, ◊P0951; SEDonline 1329). Verb of the same root as 334 \*patil- 'wick' 1, 'kind of cord' 2.
 
 <!-- END kaphtor:record -->

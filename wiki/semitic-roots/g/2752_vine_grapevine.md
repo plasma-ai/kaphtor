@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2752_vine_grapevine
 title: "*gVpn-: 'vine, grapevine'"
-desc: "Proto-Semitic *gVpn-, 'vine, grapevine': reflexes in 6 language(s)."
+desc: "Proto-Semitic *gVpn-, 'vine, grapevine': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2752"
@@ -35,6 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gepen (HALOT 200) | HALOT 200 | gloss withheld |
 | Syrian Aramaic | gufnā (HALOT 200) | HALOT 200 |  |
 | Epigraphic South Arabian | gpnt (HALOT 200) | HALOT 200 |  |
+| Amorite | gapn, gupn: gu-pa-num (Sanmartín GlOS 1, 185) | Sanmartín GlOS 1, 185 | gloss withheld |
+| Eblaitic | /gapn, gupn/: names ga-pi-nu, gu-pi-nu/núm, ga-bí-núm (Sanmartín GlOS 1, 185) | Sanmartín GlOS 1, 185 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

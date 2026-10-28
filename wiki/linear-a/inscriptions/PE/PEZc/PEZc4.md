@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥayyā? | possibly "Life!" (liturgical exclamation) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥayyā | possibly "Life!" (liturgical exclamation) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_SI\|JA-SI]] | yašīʿ | he saves / Salvation (√y-š-ʿ) | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes

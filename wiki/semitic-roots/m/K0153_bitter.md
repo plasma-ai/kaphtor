@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0153_bitter
 title: "*marār-: 'bitter'"
-desc: "Proto-Semitic *marār-, 'bitter': reflexes in 16 language(s)."
+desc: "Proto-Semitic *marār-, 'bitter': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0153"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | märärä (LGz. 360) | LGz. 360 |  |
 | Eblaitic | \[m\]ar-ru₁₂-um, mu-ru₁₂ (Kogan 2011, 238); \[m\]ar-ru₁₂-um /marrum/ (VE 884; Krebernik 1983, 34) | Kogan 2011 238; VE 884; Krebernik 1983, 34 |  |
 | Mehri | mər (Kogan 2011, 238) | Kogan 2011 238 | gloss withheld |
+| Amorite | tamrir (Sanmartín GlOS 2, 50) | Sanmartín GlOS 2, 50 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

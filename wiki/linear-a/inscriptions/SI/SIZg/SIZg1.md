@@ -49,6 +49,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA IV 168: A-\[·\]-DA-\*118, one word with a sign lost between A and DA. The former divider was the worn sign's two strokes.
+GORILA IV 168: A-\[·\]-DA-\*118, one word with a sign lost between A and DA; the lost sign's two worn strokes are not a divider.
 
 <!-- END kaphtor:record -->

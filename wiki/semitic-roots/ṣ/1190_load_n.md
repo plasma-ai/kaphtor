@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔiṣr- |  |  |
+| Arabic | ʔiṣr- 'a weight, or burden' (Lane 63) | Lane 63 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

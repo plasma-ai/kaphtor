@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/S25_fine_flour_semolina
 title: "*sult-: 'fine flour, semolina'"
-desc: "Proto-Semitic *sult-, 'fine flour, semolina': reflexes in 5 language(s)."
+desc: "Proto-Semitic *sult-, 'fine flour, semolina': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S25"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | sōltā (HALOT 758) | HALOT 758 |  |
 | Arabic | sult (HALOT 758) | HALOT 758 |  |
 | Akkadian | siltu (HALOT 758) | HALOT 758 |  |
+| Eblaitic | cf. za-la-tum /Salt, sulta/ (Sanmartín GlOS 2, 198) | Sanmartín GlOS 2, 198 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1626_see_examine
 title: "*bVrVy-: 'see, examine'"
-desc: "Proto-Semitic *bVrVy-, 'see, examine': reflexes in 3 language(s)."
+desc: "Proto-Semitic *bVrVy-, 'see, examine': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1626"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | bry \[-i-\] |  |  |
 | Akkadian | barû |  |  |
 | Jibbali | ebrer |  |  |
+| Eblaitic | 1st sg. ab-rí-a-ḫu (Krebernik 1988, 46 n. 4, 52) | Krebernik 1988, 46 n. 4, 52 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

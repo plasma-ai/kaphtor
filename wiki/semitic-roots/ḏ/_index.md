@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḏ
 desc: "Semitic roots whose first radical is ḏ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/ḏ
@@ -33,7 +33,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ḏ/2111_to_fornicate|2111_to_fornicate]]: Proto-Semitic *ḏmm {} *ǯmm, 'to fornicate': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ḏ/2158_wolf|2158_wolf]]: Proto-Semitic *ḏiʾb-, 'wolf': reflexes in 16 language(s).
+[[wiki/semitic-roots/ḏ/2158_wolf|2158_wolf]]: Proto-Semitic *ḏiʾb-, 'wolf': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/ḏ/2160_kind_of_worm_insect|2160_kind_of_worm_insect]]: Proto-Semitic *ḏVr-, 'kind of worm, insect': reflexes in 7 language(s).
 
@@ -41,7 +41,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ḏ/2786_sweat|2786_sweat]]: Proto-Semitic *ḏiʕ-at-, 'sweat': reflexes in 12 language(s).
 
-[[wiki/semitic-roots/ḏ/282_fly_n|282_fly_n]]: Proto-Semitic *ḏVbVb-, 'fly' (n.): reflexes in 18 language(s).
+[[wiki/semitic-roots/ḏ/282_fly_n|282_fly_n]]: Proto-Semitic *ḏVbVb-, 'fly' (n.): reflexes in 19 language(s).
 
 [[wiki/semitic-roots/ḏ/2902_be_low|2902_be_low]]: Proto-Semitic *ḏVlVl-, 'be low': reflexes in 3 language(s).
 
@@ -61,13 +61,13 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ḏ/3328_to_be_old_grow_old|3328_to_be_old_grow_old]]: Proto-Semitic *ḏḳn, 'to be old, grow old': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḏ/3329_old_man|3329_old_man]]: Proto-Semitic *ḏiḳn-, 'old man': reflexes in 3 language(s).
+[[wiki/semitic-roots/ḏ/3329_old_man|3329_old_man]]: Proto-Semitic *ḏiḳn-, 'old man': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḏ/3350_stranger|3350_stranger]]: Proto-Semitic *ḏVrīʾ-, 'stranger': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḏ/3464_to_stand|3464_to_stand]]: Proto-Semitic *ḏwḏ, 'to stand': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḏ/3465_to_protect_guard_strength|3465_to_protect_guard_strength]]: Proto-Semitic *ḏmr, 'to protect, guard; strength': reflexes in 4 language(s).
+[[wiki/semitic-roots/ḏ/3465_to_protect_guard_strength|3465_to_protect_guard_strength]]: Proto-Semitic *ḏmr, 'to protect, guard; strength': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ḏ/3540_to_smell_pungently_ill_smelling_plant|3540_to_smell_pungently_ill_smelling_plant]]: Proto-Semitic *ḏfr, 'to smell pungently; ill-smelling plant': reflexes in 2 language(s).
 
@@ -75,7 +75,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ḏ/445_go_away|445_go_away]]: Proto-Semitic *ḏVhab-, 'go away': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḏ/699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea|699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea]]: Proto-Semitic *ḏVwVb-, 'flow' 1, 'pour' 2, 'melt' 3, 'dissolve, ooze' 4, 'river', 'stream, torrent' 5: reflexes in 11 language(s).
+[[wiki/semitic-roots/ḏ/699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea|699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea]]: Proto-Semitic *ḏVwVb-, 'flow' 1, 'pour' 2, 'melt' 3, 'dissolve, ooze' 4, 'river', 'stream, torrent' 5: reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ḏ/773_dust|773_dust]]: Proto-Semitic *ḏurw-, 'dust': reflexes in 2 language(s).
 

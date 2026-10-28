@@ -201,7 +201,8 @@ def expand(parsed: Parsed, view: str) -> set[str]:
         if "bare" in row["shape"]:
             out |= bare
         if "hyphen" in row["shape"]:
-            out |= {"-".join(b) for b in bare}
+            # Letter by letter, so s1 and a letter with its marks stay whole.
+            out |= {"-".join(unicodedata.normalize("NFC", u) for u in units(b)) for b in bare}
         if "typed" in row["shape"]:
             out |= spellings(units(p.text), row, scheme)
     return {k for k in out if k}

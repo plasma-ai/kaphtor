@@ -38,8 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | yäbəs (LGz. 626) | LGz. 626 | gloss withheld |
 | Aramaic | yəḇeš (LGz. 626; Qumran 98 apud CAL) | LGz. 626; CAL |  |
 | Syrian Aramaic | īḇeš (LGz. 626) | LGz. 626 |  |
-| Amorite | jbś: jībiś, jābiś, mēbiśum (Gelb AS 21, 21); mêbiša (Buck 2019, 334) | Gelb AS 21 21; Buck 2019, 334 | gloss withheld |
-| Eblaitic | a-bí-iš-tum /yabištum/ (VE 1269; Krebernik 1983, 42) | VE 1269; Krebernik 1983, 42 | gloss withheld |
+| Amorite | jbś: jībiś, jābiś, mēbiśum (Gelb AS 21, 21); mêbiša (Buck 2019, 334); yabisu: ja-bi-sa-tum (ARM 19, 462: 1f.) (Streck 2000, 121); yabaS: ia-ba-sa, ia-ab-za(?)-tum, place name ya-ba-si-im-KI; yabiS, yabis₁: ia-bi-šu/šum, ia-bi-su-um; yabuS: ia-bu-uš, ia-bu-šum, ia-bu-sú-um (Sanmartín GlOS 2, 370) | Gelb AS 21 21; Buck 2019, 334; Streck 2000 121; Sanmartín GlOS 2, 370 | gloss withheld |
+| Eblaitic | a-bí-iš-tum /yabištum/ (VE 1269; Krebernik 1983, 42); ì-da-um a-bí-iš-tum /yabiS, yabis₁/ (Sanmartín GlOS 2, 370) | VE 1269; Krebernik 1983, 42; Sanmartín GlOS 2, 370 | gloss withheld |
 | Emar | ia-biš-ti /yabištu/ (Pentiuc 2001, 87) | Pentiuc 2001 87 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

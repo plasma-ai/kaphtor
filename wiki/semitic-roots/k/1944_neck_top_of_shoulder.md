@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | kǝnséd, pl. kénábsǝd \[JJ 133\] | JJ 133 | gloss withheld |
 | Amharic | kǝsad \[K 1411\] | K 1411 | gloss withheld |
 | Tigrinya | kǝsad 'neck' \[Bass 598\] | Bass 598 |  |
-| Eblaitic | gi-da-šum /kidāšum/ \[Kreb. 37\], \[Bla. Ebl. 55\] | Kreb. 37; Bla. Ebl. 55 |  |
+| Eblaitic | gi-da-šum /kidāšum/ \[Kreb. 37\], \[Bla. Ebl. 55\]; cf. gi-da-šum /kidaS/ (Sanmartín GlOS 1, 323); gi-da-sum₆ = Sum. gú (VE 1030; Civil 2017, 149) | Kreb. 37; Bla. Ebl. 55; Sanmartín GlOS 1, 323; VE 1030; Civil 2017, 149 | gloss withheld |
 | Tigre | səgad \[LH 199\] | LH 199 | gloss withheld |
 | Arabic | kds 'to walk swinging the shoulders' \[BK 2 874\] | BK 2 874 |  |
 

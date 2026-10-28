@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2970_shoot_slip_seedling_to_plant_transplant
 title: "*šitl-: 'shoot, slip, seedling; to plant, transplant'"
-desc: "Proto-Semitic *šitl-, 'shoot, slip, seedling; to plant, transplant': reflexes in 7 language(s)."
+desc: "Proto-Semitic *šitl-, 'shoot, slip, seedling; to plant, transplant': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2970"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ŠTL (HALOT 1670); šitla (HALOT 1670) | HALOT 1670 | gloss withheld |
 | Arabic | šatala; šatla (HALOT 1670) | HALOT 1670 | gloss withheld |
 | Punic | sithil (Greek-letter spelling σιθιλ, Dioscorides) (Krahmalkov 485, s.v. ŠTL) | Krahmalkov 485, s.v. ŠTL | gloss withheld |
+| Eblaitic | sa-ti-um /Satil/ (Sanmartín GlOS 2, 263) | Sanmartín GlOS 2, 263 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

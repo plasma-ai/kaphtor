@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Eblaitic | áš-kà-lum, iš₁₁-kà-um (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Eblaitic | áš-kà-lum, iš₁₁-kà-um (Kogan 2011, 204; VE 660; Civil 2017, 97); iš-ga-lu, áš-ga-lum, iš₁₁-ga-um /ʾaṯkāl, ʾiṯkāl/ (Sanmartín GlOS 1, 50) | Kogan 2011 204; VE 660; Civil 2017, 97; Sanmartín GlOS 1, 50 | gloss withheld |
 | Ugaritic | ʾuṯkl (Kogan 2011, 204) | Kogan 2011 204 |  |
 | Hebrew | ʾäškōl (Kogan 2011, 204) | Kogan 2011 204 |  |
 | Judaic Aramaic | JBA ʾitkālā (Kogan 2011, 204) | Kogan 2011 204 |  |

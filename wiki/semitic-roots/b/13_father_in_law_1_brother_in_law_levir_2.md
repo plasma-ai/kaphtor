@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/13_father_in_law_1_brother_in_law_levir_2
 title: "*wa-bām-: 'father-in-law' 1, 'brother-in-law, levir' 2"
-desc: "Proto-Semitic *wa-bām-, 'father-in-law' 1, 'brother-in-law, levir' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *wa-bām-, 'father-in-law' 1, 'brother-in-law, levir' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "13"
@@ -34,6 +34,7 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | yabāmum 'father-in-law' 1 | Anderson–Moser 2024 root ybm |  |
 | Ugaritic | ybm 'brother-in-law' 2 | Anderson–Moser 2024 root ybm |  |
 | Syrian Aramaic | yibam 'brother-in-law, levir' 2 (Payne Smith 185) | Payne Smith 185 |  |
+| Amorite | yabamu 2 (Streck 2000, 120) | Streck 2000 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

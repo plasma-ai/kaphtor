@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_ZU_RA
 title: "A-ZU-RA"
-desc: "ʾAṯirat: Athirat (divine name: the Goddess). Lexicon, CANDIDATE (tier 2)."
+desc: "ʾAṯrat: Athirat (divine name: the Goddess). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "divine_name"]
 kind: "word"
 form: "A-ZU-RA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.7
-reading: "ʾAṯirat"
+reading: "ʾAṯrat"
 attestations: ["KNZc7"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,7 +31,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾAṯirat |
+| Reading | ʾAṯrat |
 | Meaning | Athirat (divine name: the Goddess) |
 | Root | ʾ-ṯ-r |
 | Language layer | NWS |
@@ -40,15 +40,15 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZU is the only available /ṯ/-carrier in the syllabary; its /u/ vowel is a dead vowel—the consonant is the semantic carrier (Gordon §147). The spelling does not specify the middle vowel, so the Ugaritic vocalization ʾAṯirat- (with /i/) is adopted as the best-attested form. Final -t (feminine marker) implied but unwritten per CV orthography. The preserved interdental /ṯ/ is the key: Akkadian Aširat- (OB onward) and Hebrew ʾĂšērā already show the sibilant shift ṯ→š. The Minoan form aligns with Ugaritic ʾAṯirat- in retaining /ṯ/, and may predate the shift.
+ZU is the only /ṯ/-carrier in the syllabary and covers the whole ṯ-series, as Old Babylonian PI writes wa, we, wi and wu (Huehnergard 2011, 69), so A-ZU-RA writes ʾAṯrat or ʾAṯirat. Final RA writes the live /a/ of the feminine ending, which rules out ʾaṯirt- (Amarna a-ši-ir-te, Aramaic ʾăšērtā). ʾAṯrat, with the middle vowel syncopated, matches ᵈaš-ra-tu at Ugarit (RS 20.24: 20), ᵈaš-ra-tum in Old Babylonian, and 18 of the 95 Amarna spellings of ʿAbdi-Aširta, his own EA 60 among them; ʾAṯirat matches Ugaritic ʾaṯrt /ʾaṯiratu/ and Amorite a-še-ra-tum (George and Krebernik 2022; Hess 2025, 1–2; Huehnergard 2012, 142; semitic_roots 2718). Final -t is unwritten, and the ṯ is kept against the š of Akkadian and Hebrew.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | ašratu 'sanctuary; goddess Ašratu' (CAD A2 454) |
-| Ugaritic | ʾaṯrt (Athirat) 'goddess of the sea' (DUL 130) |
-| Hebrew | ʾăšērā (אֲשֵׁרָה) 'Asherah, goddess/cult pole' (HALOT 92) |
+| Ugaritic | ʾaṯrt (Athirat) 'goddess of the sea' (DULAT 125) |
+| Hebrew | ʾăšērā (אֲשֵׁרָה) 'Asherah, goddess/cult pole' (HALOT 99) |
 | Phoenician | ʾšrt 'Asherah' (DNWSI 117) |
 
 ### Source
@@ -65,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZc/KNZc7\|KNZc7]] | ʾAṯirat | Athirat (the Goddess) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KN/KNZc/KNZc7\|KNZc7]] | ʾAṯrat | Athirat (the Goddess) | CANDIDATE |
 
 ## Onomasticon
 
@@ -81,7 +81,7 @@ di Mino
 
 ### Note
 
-KN Zc 7, an inked inscription: A-KA-NU-ZA-TI · DU-RA-RE · A-ZU-RA ·, then JA-SA-RA-A-NA-NE. ʾAṯirat, Athirat: ZU writes /ṯ/ with a dead vowel, keeping the interdental that Akkadian Aširat and Hebrew ʾĂšērā have lost; the middle vowel is unwritten and given as Ugaritic ʾAṯirat, final -t unwritten. One attestation.
+KN Zc 7, an inked inscription: A-KA-NU-ZA-TI · DU-RA-RE · A-ZU-RA ·, then JA-SA-RA-A-NA-NE. ʾAṯrat or ʾAṯirat, Athirat: ZU writes /ṯ/ with any vowel or none, keeping the interdental that Akkadian Aširat and Hebrew ʾĂšērā have lost; final RA writes the live /a/ of the feminine ending, and the middle vowel is either syncopated, as in ᵈaš-ra-tu at Ugarit and aš-ra-tu in EA 60, or kept, as in Ugaritic ʾaṯrt /ʾaṯiratu/; final -t unwritten. One attestation.
 
 ### Co-occurring lexicon words
 

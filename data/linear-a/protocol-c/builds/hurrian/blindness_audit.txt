@@ -1,0 +1,23 @@
+commands: 21
+paths outside the kit: 0
+$ /bin/zsh -lc "pwd; rg --files -g 'BRIEF.md' -g 'AGENTS.md' -g '"'!node_modules'"' -g '"'!vendor'"'"
+$ /bin/zsh -lc 'cat BRIEF.md'
+$ /bin/zsh -lc 'ls -la'
+$ /bin/zsh -lc 'cat units.md schema.json grammar_files.txt protocol.md'
+$ /bin/zsh -lc "head -70 Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md; rg -n 'Possessiv|Kasusmorpheme lauten|Tabelle [0-9]|Position|nicht-indikative|Postpositionen|Die Partikeln|enklitischen Partikeln|Der Jussiv und' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md"
+$ /bin/zsh -lc "which pdftoppm pdftotext python3; python3 -c 'import importlib.util; print({m:bool(importlib.util.find_spec(m)) for m in [\"fitz\",\"jsonschema\",\"PIL\"]})'"
+$ /bin/zsh -lc "sed -n '1942,2062p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md; sed -n '2252,2430p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md"
+$ /bin/zsh -lc "python3 -c 'import fitz; p=fitz.open(\"Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf\"); print(len(p)); [(p[n-1].get_pixmap(matrix=fitz.Matrix(1.65,1.65)).save(f\"work/pdf-{n}.png\")) for n in [1,27,28,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,56,57,58]]'"
+$ /bin/zsh -lc "sed -n '2664,2800p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md; sed -n '2840,2896p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md; sed -n '2977,3161p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md"
+$ /bin/zsh -lc "sed -n '3162,3545p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md; sed -n '3570,3655p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md; sed -n '3997,4028p' Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md; sed -n '4055,4065p' Wegner-2000-Einfuehrung-in-die-hurritisch
+$ /bin/zsh -lc "python3 -c 'import fitz; from PIL import Image; p=fitz.open(\"Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf\"); specs={54:(27,0),55:(27,1),57:(28,1),65:(32,1),66:(33,0),69:(34,1),75:(37,1),76:(38,0),77:(38,1),78:(39,0),80:(40,0),81:(40,1),82:(41,0),85:(42,1),86:(43,0),88:(44,0
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; rows=[x.split(\"|\")[1:-1] for x in Path(\"units.md\").read_text().splitlines() if x.startswith(\"| \")][1:]; print(len(rows)); [print(i,repr(r[2].strip()),repr(r[3].strip())) for i,r in enumerate(rows)]'"
+$ /bin/zsh -lc "python3 -c 'import fitz; p=fitz.open(\"Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf\"); [(p[n-1].get_pixmap(matrix=fitz.Matrix(3,3),clip=fitz.Rect(0,0,p[n-1].rect.width/2,p[n-1].rect.height)).save(f\"work/plain-{n}.png\")) for n in [56,57]]'"
+$ /bin/zsh -lc "python3 work/build_inventory.py; python3 -c 'import json,jsonschema; d=json.load(open(\"inventory.json\")); s=json.load(open(\"schema.json\")); jsonschema.Draft202012Validator(s,format_checker=jsonschema.FormatChecker()).validate(d); print(\"Schema validation passed\"); print(\"Entries
+$ /bin/zsh -lc 'cat work/coverage.md'
+$ /bin/zsh -lc "python3 -c 'import fitz; p=fitz.open(\"Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf\"); [(p[n-1].get_pixmap(matrix=fitz.Matrix(5,5),clip=fitz.Rect(*r)).save(f\"work/detail-{k}.png\")) for k,n,r in [(\"poss\",27,(70,195,265,355)),(\"case\",28,(295,35,510,205)),(\"juss\",44,(45
+$ /bin/zsh -lc "python3 work/build_inventory.py; python3 -c 'from pathlib import Path; p=Path(\"notes.md\"); p.write_text(p.read_text()+Path(\"work/coverage.md\").read_text())'"
+$ /bin/zsh -lc "cat kit.sha256; python3 -c 'import json,jsonschema,collections,re; from pathlib import Path; d=json.loads(Path(\"inventory.json\").read_text()); jsonschema.Draft202012Validator(json.loads(Path(\"schema.json\").read_text()),format_checker=jsonschema.FormatChecker()).validate(d); assert 
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; import hashlib; checks=[]; [(checks.append((name,hashlib.sha256(Path(name).read_bytes()).hexdigest()==digest))) for line in Path(\"kit.sha256\").read_text().splitlines() for digest,name in [line.split(None,1)]]; [print(name+\": \"+(\"unchanged\" if
+$ /bin/zsh -lc "python3 work/build_inventory.py; python3 -c 'from pathlib import Path; p=Path(\"notes.md\"); t=p.read_text(); marker=\"| Einheit | Gedruckte Seite | Realisierungen |\\n|---|---|---:|\\n\"; assert t.count(marker)==1; p.write_text(t.split(marker)[0]+marker+Path(\"work/coverage.md\").read
+$ /bin/zsh -lc "python3 -c 'import json,jsonschema,hashlib; from pathlib import Path; d=json.loads(Path(\"inventory.json\").read_text()); jsonschema.Draft202012Validator(json.loads(Path(\"schema.json\").read_text()),format_checker=jsonschema.FormatChecker()).validate(d); assert len(d[\"entries\"])==le

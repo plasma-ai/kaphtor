@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/2192_gazelle
 title: "*ṯ̣aby(-at)-: 'gazelle'"
-desc: "Proto-Semitic *ṯ̣aby(-at)-, 'gazelle': reflexes in 12 language(s)."
+desc: "Proto-Semitic *ṯ̣aby(-at)-, 'gazelle': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2192"
@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḏ̣aby- 'gazelle (male or female)', ḏ̣abyat- 'female gazelle; cow, ewe' \[BK 2 132\], \[Fr. III 86\], \[Lane 1908\], \[LA XV 23\] | BK 2 132; Fr. III 86; Lane 1908; LA XV 23 |  |
 | Akkadian | ṣabītu OB on \[CAD ṣ 42\], \[AHw. 1071\] | CAD ṣ 42; AHw. 1071 | gloss withheld |
-| Eblaitic | za-ba-a-tum /ẓabaytum/ = DÀRA.MAS̆.DÀ \[MEE 4 1191\] | MEE 4 1191 |  |
+| Eblaitic | za-ba-a-tum /ẓabaytum/ = DÀRA.MAS̆.DÀ \[MEE 4 1191\] | MEE 4 1191 | gloss withheld |
 | Mandaic Aramaic | ṭabia \[DM 173\]. | DM 173 | gloss withheld |
 | Ugaritic | ṯ̣by \[DULAT 986\] | DULAT 986 | gloss withheld |
 | Hebrew | ṣǝbī (HALOT 998), ṣǝbiyyā (ibid.); pB. ṣǝbī, ṣǝbiyyā \[Ja. 1258\] | HALOT 998; Ja. 1258 | gloss withheld |
@@ -42,6 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Anc. ṣby \[HJ 958\] | HJ 958 | gloss withheld |
 | Modern Aramaic | NSyr. ṭôyâ, ṭwitâ, NAssyr. ṭōya, Tlk. ṭōya (SED II 311) | SED II 311 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ẓby (Al-Jallad–Jaworska 143) | Al-Jallad–Jaworska 143 | gloss withheld |
+| Amorite | ṯ̣abiy, ṯ̣abiyat: cf. za-bu-um, za-bi-ia-tum (Sanmartín GlOS 2, 332) | Sanmartín GlOS 2, 332 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

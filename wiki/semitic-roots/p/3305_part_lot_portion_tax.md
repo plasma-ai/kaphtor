@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*pas- |
 | Meaning | 'part, lot, portion; tax' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1966 |
 
 ## Reflexes
 
@@ -41,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*pas- 'part, lot' (EDA I 402 apud SEDonline 1966). Cf. 72 \*pas-/\*pis- 'palm'.
+PWS \*pas- 'part, lot' (SEDonline 1966); EDA I 402 (◊P0728) adduces Nab. ps, JBA paysā, Syr. pessā, Gz. tafāsasa and the EthS 'tax' words for Akk. passu 'doll; gamepiece', assuming that it first designated a piece of stone used as a lot. Cf. 72 \*pas-/\*pis- 'palm'.
 
 <!-- END kaphtor:record -->

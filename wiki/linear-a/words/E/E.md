@@ -77,7 +77,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | ḥemʾat | fat, butter, ghee | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] |  | commodity, unread | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] |  | commodity |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ḥemʾat? | unidentified quantified commodity; perhaps dairy fat |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ḥemʾat | unidentified quantified commodity; perhaps dairy fat |  |
 | [[wiki/linear-a/inscriptions/KN/KN/KN1b\|KN1b]] | ḥemʾat | butter, ghee, clarified dairy fat |  |
 
 <!-- END kaphtor:record -->

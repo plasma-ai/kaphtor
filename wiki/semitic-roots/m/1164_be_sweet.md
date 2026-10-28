@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | metūq (HALOT 654) | HALOT 654 |  |
 | Arabic | mṭq (HALOT 655) | HALOT 655 |  |
 | Amorite | mataqum, matiqum, matqum (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
-| Eblaitic | tá-ma-tù-ḳù (Kogan 2011, 239; VE 42; Krebernik 1983, 2) | Kogan 2011 239; VE 42; Krebernik 1983, 2 |  |
+| Eblaitic | tá-ma-tù-ḳù (Kogan 2011, 239; VE 42; Krebernik 1983, 2); da-ma-du-gu-um, da-ma-du-gu /tamtuq/ (Sanmartín GlOS 2, 59); Civil 2017, 98, 125 divides da-ma-du gú-(um) (= Sum. níg-ki) and takes da-ma-du as, cf. 1052 \*tmm | Kogan 2011 239; VE 42; Krebernik 1983, 2; Sanmartín GlOS 2, 59; Civil 2017 | gloss withheld |
 | Judaic Aramaic | mətīḳ (Kogan 2011, 239) | Kogan 2011 239 | gloss withheld |
 | Jibbali | miṭáyḳ (Kogan 2011, 239) | Kogan 2011 239 | gloss withheld |
 

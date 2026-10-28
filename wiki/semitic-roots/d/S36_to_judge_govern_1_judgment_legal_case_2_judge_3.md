@@ -42,10 +42,10 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | danya, dayna (LGz. 146) | LGz. 146 | gloss withheld |
 | Argobba | daňňa (n.) (LGz. 146) | LGz. 146 | gloss withheld |
 | Gurage | daňňä (LGz. 146) | LGz. 146 |  |
-| Amorite | djn: jadīn, dīnum (Gelb AS 21, 17); dān, ladīn, dīn (Buck 2019, 326) | Gelb AS 21 17; Buck 2019, 326 | gloss withheld |
+| Amorite | djn: jadīn, dīnum (Gelb AS 21, 17); dān, ladīn, dīn (Buck 2019, 326); d-y-n 1, 3: ia/i-di-nim, ia-di-in-ᵈIM; dān 1, 3: a-bi-da-an (Sanmartín GlOS 1, 155) | Gelb AS 21 17; Buck 2019, 326; Sanmartín GlOS 1, 155 | gloss withheld |
 | Syrian Aramaic | dān 'judge; plead, contend' (Payne Smith 86) | Payne Smith 86 |  |
 | East Ethiopic | Wol. daññä, Zwy. dāñña (EDG 216 apud SEDonline 1991) | EDG 216; SEDonline 1991 | gloss withheld |
-| Eblaitic | da-ne-u\[m\] /daynim/ (gen.), in ba-da-gu da-ne-u\[m\] (VE 1327; Krebernik 1983, 43) | VE 1327; Krebernik 1983, 43 | gloss withheld |
+| Eblaitic | da-ne-u\[m\] /daynim/ (gen.), in ba-da-gu da-ne-u\[m\] (VE 1327; Krebernik 1983, 43); /d-y-n/ 1, 3: names i-da-nu, ti-ti-na/nu; cf. i-da-i-nu (Sanmartín GlOS 1, 155) | VE 1327; Krebernik 1983, 43; Sanmartín GlOS 1, 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,7 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Akkadian | (?) šimtu. |  | gloss withheld |
 | Hebrew | PB šūmā 'mark, mole, wart' \[Ja 1536\] | Ja 1536 |  |
 | Epigraphic South Arabian | Min. s₁m-t \[LM 105\], Qat. s₁m-t \[Ricks 57; Sabaweb lemma 5441\] | LM 105; Ricks 57; Sabaweb lemma 5441 | gloss withheld |
-| Eblaitic | si-tum /šittum/ \[Fron. Ebl. 181\] (VE 693, 761; Krebernik 1983, 38 n. 136) | Fron. Ebl. 181; VE 693, 761; Krebernik 1983, 38 n. 136 | gloss withheld |
+| Eblaitic | si-tum /šittum/ \[Fron. Ebl. 181\] (VE 693, 761; Krebernik 1983, 38 n. 136); /šimtu/ (= Sum. še-gín, VE 693; gín-ir, VE 761) (Civil 2017, 101) | Fron. Ebl. 181; VE 693, 761; Krebernik 1983, 38 n. 136; VE 693; VE 761; Civil 2017, 101 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -9,7 +9,7 @@ site: "Miletos"
 support: "Clay vessel"
 period: ""
 translation: "none"
-words: []
+words: ["SI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐝫𐘤𐘃𐝫
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/S/SI_TE|SI-TE]].
 
 <!-- END kaphtor:record -->

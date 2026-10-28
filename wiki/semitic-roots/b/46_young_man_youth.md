@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/46_young_man_youth
 title: "*baḫūr-: 'young man, youth'"
-desc: "Proto-Semitic *baḫūr-, 'young man, youth': reflexes in 2 language(s)."
+desc: "Proto-Semitic *baḫūr-, 'young man, youth': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "46"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | bḫr /baḫḫuru/ (Huehnergard 2012, 144) | Huehnergard 2012 144 | gloss withheld |
 | Hebrew | bāḥūr | SEDonline semet 28 |  |
+| Amorite | baḥūrum (Gelb AS 21, 16) | Gelb AS 21 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

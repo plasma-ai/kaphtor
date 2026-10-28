@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | SAB wrk \[SD 162; Sabaweb lemma 5429\] | SD 162; Sabaweb lemma 5429 | gloss withheld |
 | Judaic Aramaic | yǝrak, yarḵā, yīrāk, yarḵūnā \[Ja 597\]; yrk, det. yarḵā \[DJPA 245b apud CAL\] | Ja 597; DJPA 245b; CAL | gloss withheld |
 | Tigrinya | wäräkät 'the bone of slaughtered animals, especially of chickens, which is a morsel reserved for the lady of the house' \[Bass 642\] | Bass 642 |  |
-| Eblaitic | wa-rí-gú-um, wa-rí⟨-gú⟩-um (SED I 258; VE 864; Krebernik 1983, 33) | SED I 258; VE 864; Krebernik 1983, 33 |  |
+| Eblaitic | wa-rí-gú-um, wa-rí⟨-gú⟩-um (SED I 258; VE 864; Krebernik 1983, 33); wa-rí-gúm, wa-rí-gú-um, wa-rí&lt;-gú&gt;-um /warik/ (Sanmartín GlOS 2, 354) | SED I 258; VE 864; Krebernik 1983, 33; Sanmartín GlOS 2, 354 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

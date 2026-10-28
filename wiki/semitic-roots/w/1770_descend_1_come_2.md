@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/1770_descend_1_come_2
 title: "*wVrVd-: 'descend' 1, 'come' 2"
-desc: "Proto-Semitic *wVrVd-, 'descend' 1, 'come' 2: reflexes in 20 language(s)."
+desc: "Proto-Semitic *wVrVd-, 'descend' 1, 'come' 2: reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1770"
@@ -45,11 +45,12 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | wärda (LGz. 617) | LGz. 617 |  |
 | Argobba | wärräda (LGz. 617) | LGz. 617 |  |
 | Harari | wäräda (LGz. 617) | LGz. 617 |  |
-| Amorite | jrd: jīrid, jārid, mārid(ān)um (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |
+| Amorite | jrd: jīrid, jārid, mārid(ān)um (Gelb AS 21, 22); y-r-d 1: cf. ia-ri-du-um, i-ri-da-nu-um, ma-ri-du-nu-um (Sanmartín GlOS 2, 353) | Gelb AS 21 22; Sanmartín GlOS 2, 353 | gloss withheld |
 | Modern South Arabian | Bathari wərōd (Gasparini - Morris 2025 221 apud SEDonline 257) | SEDonline 257 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic wrd (Al-Jallad–Jaworska 141) | Al-Jallad–Jaworska 141 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. wärädä (EDG 662 apud SEDonline 257) | EDG 662; SEDonline 257 | gloss withheld |
 | Emar | ia-ar-da-ni, ia-ra-dá-a-ni /yardānu/, /yaradānu/ (Pentiuc 2001, 86–87) | Pentiuc 2001 86–87 | gloss withheld |
+| Eblaitic | u₉-li-da-am₆ /w-r-d/ 1 (Sanmartín GlOS 2, 353) | Sanmartín GlOS 2, 353 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

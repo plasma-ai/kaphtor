@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥor 1 |  |  |
 | Judaic Aramaic | ḥwrtʾ (HALOT 348) | HALOT 348 |  |
 | Syrian Aramaic | ḥūrā (LGz. 265) | LGz. 265 | gloss withheld |
-| Eblaitic | ḫu-ru₁₂-um, ḫur-rúm /ḫurrum/ (VE 839; Krebernik 1983, 33) | VE 839; Krebernik 1983, 33 | gloss withheld |
+| Eblaitic | ḫu-ru₁₂-um, ḫur-rúm /ḫurrum/ (VE 839; Krebernik 1983, 33); ḫur-rúm /ḫurr/ 1 (Sanmartín GlOS 1, 280) | VE 839; Krebernik 1983, 33; Sanmartín GlOS 1, 280 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

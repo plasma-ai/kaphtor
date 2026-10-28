@@ -12,6 +12,7 @@ The remote clients fetch one bounded page per call, cache it, and send a project
 | `query_deaps.py` | One DEAPS search page or textual-object record | remote |
 | `query_diconab.py` | One public DiCoNab query page or inscription record | remote |
 | `query_elephantine.py` | One public Elephantine query, object or text page | remote |
+| `query_hathitrust.py` | The pages of a HathiTrust volume (search-only ones included) that hold a token, from its HTRC Extracted Features file (CC BY 4.0, doi:10.13012/R2TE-C227); `docs/corpora/hathitrust-search-only-volumes.md` | remote |
 | `query_idai_gazetteer.py` | Bounded, cached lookup in the public iDAI.gazetteer API | remote |
 | `query_place_authorities.py` | Pleiades and Trismegistos place records (iDAI records are not shipped) | local |
 | `query_portal_common.py` | Shared safeguards for the remote clients | — |

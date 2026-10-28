@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | išû (CAD I 289, AHw. 420 apud SEDonline 2032) | CAD I 289, AHw. 420; SEDonline 2032 | gloss withheld |
-| Eblaitic | i-ša-wu /yiṯāwu/ (VE 624, VE 789, Kogan–Krebernik 2021b: 689 apud SEDonline 2032) | VE 624, VE 789, Kogan–Krebernik 2021b: 689; SEDonline 2032 | gloss withheld |
+| Eblaitic | i-ša-wu /yiṯāwu/ (= Sum. a-ĝál, an-ĝál) (VE 624, VE 789, Kogan–Krebernik 2021b: 689 apud SEDonline 2032; Civil 2017, 119) | VE 624, VE 789, Kogan–Krebernik 2021b: 689; SEDonline 2032; Civil 2017, 119 | gloss withheld |
 | Ugaritic | ˀiṯ (DUL 120 apud SEDonline 2032; HALOT 443) | DUL 120; SEDonline 2032; HALOT 443 | gloss withheld |
 | Hebrew | yēš (HALOT 443) | HALOT 443 | gloss withheld |
 | Phoenician | yš (HALOT 443) | HALOT 443 | gloss withheld |

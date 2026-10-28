@@ -67,7 +67,7 @@ Non-phonetic commodity ideogram denoting grain/cereal. 60 standalone, 52 in comp
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | dagān | grain, cereal |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | grain |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | dagān | grain, cereal |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | dagān? | grain |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | dagān | grain |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95a\|HT95a]] | GRA | grain (ideogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | grain | grain (logogram) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | grain | grain/cereal (commodity ideogram) | PROBABLE |

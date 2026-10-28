@@ -41,7 +41,7 @@ updated: 2026-10-26T14:26:59Z
 | Syrian Aramaic | nedrā, nᵉdārā (HALOT 674; Payne Smith 328) | HALOT 674; Payne Smith 328 |  |
 | Soqotri | naddara (HALOT 674) | HALOT 674 |  |
 | Tigre | naddara (HALOT 674) | HALOT 674 |  |
-| Amorite | ndr (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
+| Amorite | ndr (Gelb AS 21, 27); n-d-r: cf. ia-an-du-rum(?) (Sanmartín GlOS 2, 80) | Gelb AS 21 27; Sanmartín GlOS 2, 80 | gloss withheld |
 | Mandaic Aramaic | ndr (T 210) | T 210 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

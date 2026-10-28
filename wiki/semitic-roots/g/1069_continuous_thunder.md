@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | galgāl- |  |  |
+| Arabic | galgāl-; jaljalah 'the sound … of thunder'; mujaljil 'clouds in which is the sound of thunder', and so jaljāl, applied to rain (Lane 438) | Lane 438 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

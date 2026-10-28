@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥsw \[-u-\] |  |  |
+| Arabic | ḥsw \[-u-\]; ḥasā 'he supped, or sipped, or drank by little and little, soup, or broth' (Lane 572) | Lane 572 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2266_bird_of_prey
 title: "*raḫam-: 'bird of prey'"
-desc: "Proto-Semitic *raḫam-, 'bird of prey': reflexes in 6 language(s)."
+desc: "Proto-Semitic *raḫam-, 'bird of prey': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2266"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ɛrḫõt (pl. erḫúhm) \[JJ 218\]. | JJ 218 |  |
 | Hebrew | rāḥām, rāḥāmā (HALOT 1217), pB. \[Ja. 1467\] | HALOT 1217; Ja. 1467 | gloss withheld |
 | Aramaic | D.-Alla rḥm \[HJ 1070\] | HJ 1070 | gloss withheld |
+| Eblaitic | la-ḫa-bù /Raḫabu/ (= BURU₄.MUŠEN, VE 1370'; Kogan 2025, 8) | VE 1370; Kogan 2025, 8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

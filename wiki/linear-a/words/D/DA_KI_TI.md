@@ -46,7 +46,7 @@ KNZc6 register .2, after QI-TI-RI 'my incense' and A-DI 'until': incense ground 
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | dqt /daqatu/ 'small, tiny, thin' (DUL) |
+| Ugaritic | dqt /daqatu/ 'small, tiny, thin' (DULAT 276) |
 | Hebrew | daq, f. daqqâ (דַּקָּה) 'fine, crushed': qəṭōret sammîm daqqâ 'finely ground sweet incense' (Lev 16:12); hādēq 'very fine', of the sanctuary incense (Exod 30:36) |
 
 ### Source

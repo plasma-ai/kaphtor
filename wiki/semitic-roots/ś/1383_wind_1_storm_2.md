@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/1383_wind_1_storm_2
 title: "*ŝaʕar-: 'wind' 1, 'storm' 2"
-desc: "Proto-Semitic *ŝaʕar-, 'wind' 1, 'storm' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *ŝaʕar-, 'wind' 1, 'storm' 2: reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1383"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | šāru 1 |  |  |
 | Hebrew | ŝaʕar, ŝǝʕārā 2 |  |  |
+| Eblaitic | /Saʿr/ 1: cf. names sá-a-ra, sa-ra-an (Sanmartín GlOS 2, 271) | Sanmartín GlOS 2, 271 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/g
 desc: "Semitic roots whose first radical is g."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/g
@@ -61,7 +61,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/g/1379_soil_ground|1379_soil_ground]]: Proto-Semitic *gad-, 'soil, ground': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1380_bowl|1380_bowl]]: Proto-Semitic *gull-, 'bowl': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/1380_bowl|1380_bowl]]: Proto-Semitic *gull-, 'bowl': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/1381_hot_ash|1381_hot_ash]]: Proto-Semitic *gurār-, 'hot ash': reflexes in 1 language(s).
 
@@ -151,7 +151,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/g/1911_throat|1911_throat]]: Proto-Semitic *gargūm-at-, 'throat': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/g/1912_body_bone|1912_body_bone]]: Proto-Semitic *garm-, 'body; bone': reflexes in 10 language(s).
+[[wiki/semitic-roots/g/1912_body_bone|1912_body_bone]]: Proto-Semitic *garm-, 'body; bone': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/g/1913_throat|1913_throat]]: Proto-Semitic *girān-, 'throat': reflexes in 4 language(s).
 
@@ -271,7 +271,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/g/268_ram_with_long_legs|268_ram_with_long_legs]]: Proto-Semitic *galam-, 'ram with long legs': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/2752_vine_grapevine|2752_vine_grapevine]]: Proto-Semitic *gVpn-, 'vine, grapevine': reflexes in 6 language(s).
+[[wiki/semitic-roots/g/2752_vine_grapevine|2752_vine_grapevine]]: Proto-Semitic *gVpn-, 'vine, grapevine': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/g/2778_to_cut_divide_decide|2778_to_cut_divide_decide]]: Proto-Semitic *gazVr-, 'to cut, divide, decide': reflexes in 11 language(s).
 
@@ -295,7 +295,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/g/2880_cut_off|2880_cut_off]]: Proto-Semitic *gVlVm-, 'cut off': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/g/2881_complete_deal_fully_with_spare|2881_complete_deal_fully_with_spare]]: Proto-Semitic *gVmal-, 'complete, deal fully with; spare': reflexes in 5 language(s).
+[[wiki/semitic-roots/g/2881_complete_deal_fully_with_spare|2881_complete_deal_fully_with_spare]]: Proto-Semitic *gVmal-, 'complete, deal fully with; spare': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/g/2882_cut_off|2882_cut_off]]: Proto-Semitic *gVrVz-, 'cut off': reflexes in 9 language(s).
 
@@ -329,7 +329,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/g/3242_threshing_floor|3242_threshing_floor]]: Proto-Semitic *gurn-, 'threshing floor': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune|3243_to_be_lucky_fortunate_luck_fortune]]: Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 10 language(s).
+[[wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune|3243_to_be_lucky_fortunate_luck_fortune]]: Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/g/3267_to_gather_fruit_garden_crop|3267_to_gather_fruit_garden_crop]]: Proto-Semitic *gny, 'to gather fruit; garden crop': reflexes in 2 language(s).
 
@@ -411,7 +411,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/g/662_pilon|662_pilon]]: Proto-Semitic *gad(V)l-, 'pilon': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/663_flat_roof|663_flat_roof]]: Proto-Semitic *gāg-, 'flat roof': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/663_flat_roof|663_flat_roof]]: Proto-Semitic *gāg-, 'flat roof': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/70_stranger|70_stranger]]: Proto-Semitic *gir-, 'stranger': reflexes in 4 language(s).
 
@@ -425,7 +425,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/g/851_procure|851_procure]]: Proto-Semitic *galab-, 'procure': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/868_hill_height|868_hill_height]]: Proto-Semitic *gabʕ-/*gibʕ-, 'hill, height': reflexes in 7 language(s).
+[[wiki/semitic-roots/g/868_hill_height|868_hill_height]]: Proto-Semitic *gabʕ-/*gibʕ-, 'hill, height': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/g/875_big_1_be_big_2_become_big_strong_3|875_big_1_be_big_2_become_big_strong_3]]: Proto-Semitic *gVdVl-, 'big' 1, 'be big' 2, 'become big, strong' 3: reflexes in 6 language(s).
 

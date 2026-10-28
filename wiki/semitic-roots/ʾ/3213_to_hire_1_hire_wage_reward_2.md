@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3213_to_hire_1_hire_wage_reward_2
 title: "*ʾgr: 'to hire' 1, 'hire, wage, reward' 2"
-desc: "Proto-Semitic *ʾgr, 'to hire' 1, 'hire, wage, reward' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʾgr, 'to hire' 1, 'hire, wage, reward' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3213"
@@ -34,6 +34,7 @@ updated: 2026-10-26T17:41:55Z
 | Jibbali | ʾɔ́ʾgɔ́r; ʾiz̃írét (Kogan 2011, 237) | Kogan 2011 237 | gloss withheld |
 | Syrian Aramaic | ʾegar 'to hire; bribe' 1; ʾagrā 'wage, fee, fare; reward' 2 (Payne Smith 3) | Payne Smith 3 |  |
 | Akkadian | agāru 1 (CAD A/1 146) | CAD A/1 146 | gloss withheld |
+| Eblaitic | a-gàr-du /ʾagart/ 2 (Sanmartín GlOS 1, 12) | Sanmartín GlOS 1, 12 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

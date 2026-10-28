@@ -16,7 +16,7 @@ from tools.core import semantic_gate as sg
 from tools.core.phonetics import LUWIAN_DISTANCES
 from tools.core.root_index import RootIndex, write_index
 from tools.linear_a import root_match as cli
-from tools.linear_a.validation.root_match_phase0 import GOLD_SECTIONS
+from tools.linear_a.validation.root_match_phase0 import GOLD_SECTIONS, gold_guard
 
 pytestmark = SHORESH
 
@@ -75,6 +75,22 @@ class TestRun:
         assert "unmapped sign A303" in out["results"][0]["error"]
         assert out["results"][1]["verdict"] in {"PHONOLOGICAL_ONLY", "NO_SIGNAL"}
         assert "bh_q" not in out["results"][0]
+
+    def test_conventional_values_unmap_a_value_beyond_linear_b(self, built):
+        _, index = built
+        default = _run(index, ["KU-*306-NU", "KA-NA-SI", "KU-PA3-NU"])
+        assert default["sign_values"] == "all" and "error" not in default["results"][0]
+        conv = _run(index, ["KU-*306-NU", "KA-NA-SI", "KU-PA3-NU"], conventional=True)
+        assert conv["sign_values"] == "conventional" and cli._RUN["engine"].conventional
+        assert "unmapped sign *306" in conv["results"][0]["error"]
+        assert "beyond Linear B" in conv["results"][0]["error"]
+        assert conv["results"][1]["verdict"] in {"PHONOLOGICAL_ONLY", "NO_SIGNAL"}
+        assert "error" not in conv["results"][2]                                    # PA₃ reads Linear B's pa₃
+        other = _run(index, ["KA-A303-SI"], conventional=True)["results"][0]["error"]
+        assert "unmapped sign A303" in other and "beyond Linear B" not in other     # unmapped in either mode
+        for word, sign in (("KA-*999-SI", "*999"), ("BU-KA-SI", "BU")):               # no table value at all
+            err = _run(index, [word], conventional=True)["results"][0]["error"]
+            assert f"unmapped sign {sign}" in err and "beyond Linear B" not in err, err
 
     def test_key_set_is_named_and_exclusions_apply(self, built):
         _, index = built
@@ -138,6 +154,17 @@ class TestSemanticInputs:
         assert report["corpus_sha256"] == hashlib.sha256(path.read_bytes()).hexdigest()
         assert report["tagger_sha256"] == sg.TAGGER_SHA256
         assert report["results"][0]["semantic"]["context"] == ["administrative", "kinship"]   # these very bytes
+
+    def test_the_conventional_flag_reaches_the_engine_and_the_report(self, built, tmp_path, monkeypatch, capsys):
+        self._corpus(tmp_path, monkeypatch, {})
+        argv = ["KA-NA-SI", "--index", str(built[1]), "--full-index", "--n", "10", "--no-competitors"]
+        assert cli.main([*argv, "--json", "--conventional-values"]) == 0
+        assert json.loads(capsys.readouterr().out)["sign_values"] == "conventional"
+        assert cli.main(argv) == 0
+        assert "Linear B values only" not in capsys.readouterr().out
+        assert cli.main([*argv, "--conventional-values"]) == 0
+        assert "sign values: Linear B values only" in capsys.readouterr().out
+        assert cli.main(["KU-*306-NU", *argv[1:], "--conventional-values"]) == 1        # unmapped, never shortened
 
     def test_a_sweep_stamps_the_corpus_too(self, built, tmp_path, monkeypatch, capsys):
         self._corpus(tmp_path, monkeypatch, {})
@@ -351,7 +378,7 @@ class TestExplain:
             {"language": "Hebrew", "branch": "Hebrew", "text": "zākār 'male' (HALOT, 271)"}]}
         assert [(x["id"], x["basis"]) for x in h["joined"]] == [("phoenician:p10", "root_key_exact"),
                                                                  ("phoenician:p7", "fk")]
-        assert h["sound_laws"]["profile"] == ["A", "C"]
+        assert h["sound_laws"]["profile"] == ["A"]                  # C keeps ḏ, which ZU writes (A21)
 
     def test_a_link_without_gloss_overlap_does_not_join(self, explain_index):
         index = RootIndex.load(explain_index)
@@ -377,8 +404,8 @@ class TestExplain:
         text = cli.render(_run(explain_index, ["ZA-KA-RA"], explained=True))
         assert "*ḏakar- 'male'" in text and "Hebrew (Hebrew): zākār 'male' (HALOT, 271)" in text
         assert "joined phoenician:p7 zkr 'male' (fk)" in text
-        assert "sound laws vs *ḏakar- (ḏ-k-r): *ḏ:z diagnostic (A, C); *k:k not diagnostic; *r:r not diagnostic" in text
-        assert "profile: A, C" in text
+        assert "sound laws vs *ḏakar- (ḏ-k-r): *ḏ:z diagnostic (A); *k:k not diagnostic; *r:r not diagnostic" in text
+        assert "profile: A" in text and "profile: A, C" not in text
 
     def test_render_edge_cases(self):
         base = {"record": None, "joined": [], "sound_laws": None}
@@ -610,6 +637,17 @@ class TestGuardByReading:
         assert cli.main(["--sweep", "unread", "--index", str(built[1]), *self.ARGS]) == 0
         report = json.loads(capsys.readouterr().out)
         assert [r["word"] for r in report["results"]] == ["KA-NA-SI"] and report["sweep"]["skipped_gold"] == 1
+
+    def test_a_conventional_run_holds_back_a_twin_by_its_linear_b_values(self, tmp_path, monkeypatch, capsys):
+        path = tmp_path / "gold.json"
+        path.write_text(json.dumps({s: [{"word": "TO-PA3-PU"}] for s in GOLD_SECTIONS}), encoding="utf-8")
+        monkeypatch.setattr(cli, "GOLD", path)
+        assert not gold_guard(path)("TO-PA-PU")                       # b against p: no twin by default
+        assert gold_guard(path, conventional=True)("TO-PA-PU")        # p a in both
+        assert gold_guard(path, conventional=True)("TO2-PA3-PU")      # the default twin stays held back
+        assert cli.main(["TO-PA-PU", "--index", str(tmp_path / "absent.sqlite"), *self.ARGS,
+                         "--conventional-values"]) == 3
+        assert "refused" in capsys.readouterr().err
 
     @pytest.mark.parametrize("content", ["{}", '{"positives": []}', "[]", '{"positives": [{"word": "KU-RO"}]}'])
     def test_a_gold_file_of_the_wrong_shape_refuses(self, built, capsys, monkeypatch, tmp_path, content):

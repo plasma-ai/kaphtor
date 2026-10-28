@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 84: \*21F-JA-DU heads the tablet over NU-TI · VIR+\[?\]. ḥayya + Addu, 'Addu lives', cf. Amorite ḪAJJ-A + DN names (Gelb AS 21 nos. 1651–1653) and A-DU, A-DU-NI-TA-NA. Weak point: \*21F as an optional H-sign; no Ḫayya-Addu is attested. Rival: a heading or place over the men. One attestation.
+HT 84: \*21F-JA-DU heads the tablet over NU-TI · VIR+\[?\]. ḥayya + Addu, 'Addu lives', cf. Amorite ḪAJJ-A + DN names (Gelb AS 21 nos. 1651–1653) and A-DU, A-DU-NI-TA-NA; Ebla ha-a ḥayya 'the living one' (Pagan 1998, row 2198). Weak point: \*21F as an optional H-sign; no Ḫayya-Addu is attested. Rival: a heading or place over the men. One attestation.
 
 ### Cognates
 

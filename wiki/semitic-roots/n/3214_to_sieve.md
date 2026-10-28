@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3214_to_sieve
 title: "*npy: 'to sieve'"
-desc: "Proto-Semitic *npy, 'to sieve': reflexes in 5 language(s)."
+desc: "Proto-Semitic *npy, 'to sieve': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3214"
@@ -34,6 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Judaic Aramaic | JPA npy (Kogan 2011, 242) | Kogan 2011 242 |  |
 | Syrian Aramaic | nfātā (Kogan 2011, 242) | Kogan 2011 242 | gloss withheld |
 | Geez | nafaya (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Eblaitic | cf. ni-bí-tum /nipīt/ (Sanmartín GlOS 2, 99) | Sanmartín GlOS 2, 99 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

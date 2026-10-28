@@ -47,7 +47,7 @@ HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each und
 | Language | Comparison |
 |---|---|
 | Hebrew | kerem (כֶּרֶם) "vineyard" (BDB 501) |
-| Ugaritic | krm "vineyard" (DUL 450) |
+| Ugaritic | krm "vineyard" (DULAT 451) |
 | Akkadian | karmu "ruin" (different sense; CAD K 220) |
 | Arabic | karm "vine, vineyard" (Lane) |
 

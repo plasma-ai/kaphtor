@@ -47,7 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | Language | Comparison |
 |---|---|
 | Hebrew | dīn (דִּין) 'to judge' |
-| Ugaritic | dn 'to judge' (CUC, DUL 278); dn-il 'El judges' (Daniʾilu) |
+| Ugaritic | dn 'to judge' (CUC, DULAT 272); dn-il 'El judges' (Daniʾilu) |
 | Akkadian | dīnu 'judgment' (CAD D 150) |
 | Arabic | dīn (دِين) 'judgment, religion' |
 

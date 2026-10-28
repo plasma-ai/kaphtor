@@ -64,6 +64,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | tidata / ṯādīt-(?) | sixth(?) or sixth section(?) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | tidata / ṯādīt- | sixth(?) or sixth section(?) | CANDIDATE |
 
 <!-- END kaphtor:record -->

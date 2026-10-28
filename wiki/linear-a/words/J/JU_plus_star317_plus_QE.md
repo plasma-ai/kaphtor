@@ -38,7 +38,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-GORILA decomposes the unit as JU+\*317+QE; SigLA catalogs it as the single composite sign A542. On HT89 it labels 22 persons within the exact total 23+22+24+13+5=87. Its components are not independently shown to be phonetic here. The former LUQḤU 'receipts/offerings' reading is withdrawn for this composite.
+GORILA decomposes the unit as JU+\*317+QE; SigLA catalogs it as the single composite sign A542. On HT89 it labels 22 persons within the exact total 23+22+24+13+5=87. Its components are not independently shown to be phonetic here. It is not read LUQḤU 'receipts/offerings'.
 
 ### Source
 

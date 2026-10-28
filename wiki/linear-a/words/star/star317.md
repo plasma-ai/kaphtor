@@ -38,14 +38,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-The previous LUQḤU 'receipts/offerings' reading depended on treating JU and QE in HT89 JU+\*317+QE as phonetic complements. SigLA analyzes that written unit as the single composite logogram A542, and Uchitel's personnel-list analysis places its count of 22 among four other human categories. HT89 therefore cannot establish an l-...-q frame and is removed from the isolated \*317 attestation list. The remaining \*317, \*323-\*317, and \*317-QE-\*353 occurrences warrant separate study; √l-q-ḥ survives only as a rejected historical proposal, not a reading.
+The previous LUQḤU 'receipts/offerings' reading depended on treating JU and QE in HT89 JU+\*317+QE as phonetic complements. SigLA analyzes that written unit as the single composite logogram A542, and Uchitel's personnel-list analysis places its count of 22 among four other human categories. HT89 therefore cannot establish an l-...-q frame and is not an isolated \*317 attestation. The remaining \*317, \*323-\*317, and \*317-QE-\*353 occurrences warrant separate study; √l-q-ḥ survives only as a rejected historical proposal, not a reading.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | leqû, laqû "to take, receive" (CAD L 138); liqtu "collection, gleaning" |
-| Ugaritic | lqḥ "to take" (DUL 505) |
+| Ugaritic | lqḥ "to take" (DULAT 496) |
 | Hebrew | lāqaḥ "to take" (BDB 542, HALOT 534); miqqāḥ "wares, taking" |
 | Phoenician | lqḥ "to take" (DNWSI 589) |
 

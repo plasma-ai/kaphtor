@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | nṭʕ |  |  |
 | Epigraphic South Arabian | Sab nṭʿ (Biella 302) (Sabaweb lemma 2996) | Biella 302; Sabaweb lemma 2996 | gloss withheld |
 | Punic | nṭʿ 'plant' | Anderson–Moser 2024 root nṭʿ |  |
-| Amorite | nṭʿ: jānṭiʿ (Gelb AS 21, 27) | Gelb AS 21 27 | gloss withheld |
+| Amorite | nṭʿ: jānṭiʿ (Gelb AS 21, 27); n-ṭ-ʿ: cf. place name ia-an-di-ḫa-KI (Sanmartín GlOS 2, 108) | Gelb AS 21 27; Sanmartín GlOS 2, 108 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

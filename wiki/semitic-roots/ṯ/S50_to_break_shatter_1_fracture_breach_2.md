@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern South Arabian | Bathari ṯəbōr (Gasparini - Morris 2025 429 apud SEDonline 1881) | SEDonline 1881 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. säbärä (EDG 532 apud SEDonline 1881) | EDG 532; SEDonline 1881 | gloss withheld |
 | Gafat | säbärä (Leslau 1945:170 apud SEDonline 1881) | Leslau 1945:170; SEDonline 1881 | gloss withheld |
-| Eblaitic | ša-ba-um /ṯabārum/ (VE 208, Kogan–Krebernik 2021b: 686 apud SEDonline 1881) | VE 208, Kogan–Krebernik 2021b: 686; SEDonline 1881 | gloss withheld |
+| Eblaitic | ša-ba-um /ṯabārum/ (VE 208, Kogan–Krebernik 2021b: 686 apud SEDonline 1881); cf. ì-ša-ba-lum/lu-um, dal-da-bí-lum/lu-um /ṯ-b-r/ 1 (Sanmartín GlOS 2, 317); iš-bí-lu /išbiru/ (= Sum. níg-sal-sal) (VE 77; Civil 2017, 120) | VE 208, Kogan–Krebernik 2021b: 686; SEDonline 1881; Sanmartín GlOS 2, 317; VE 77; Civil 2017, 120 | gloss withheld |
 | Harsusi | ṯebōr (HL 132 apud SEDonline 1881) | HL 132; SEDonline 1881 | gloss withheld |
 | Jibbali | ṯɔ̄r (JL 282; MLZ 171 apud SEDonline 1881) | JL 282; SEDonline 1881 | gloss withheld |
 | Mehri | ṯəbūr (ML 414–415 apud SEDonline 1881) | ML 414–415; SEDonline 1881 | gloss withheld |

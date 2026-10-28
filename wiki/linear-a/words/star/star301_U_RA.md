@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT115a accounting tablet with GRA+BOSm. √NWR 'to shine, give light' is pan-Semitic (Hebrew נוּר nūr, Arabic nūr, Ugaritic nrt 'lamp'). As a personal name element 'Light' is extremely common across Semitic onomastics. The r alternative (r-u-ra) produces awkward reduplication. \|\| Huehnergard: Ug nwr /nāra/ ~ /yanūr-/ "G: to be/become bright, shine"; I-n / hollow-looking w root. G suffix nāra, prefix yanūr-. BH cognate: nēr "lamp" (Huehnergard 2012, p. 50 (line ref.); cf. BH \[9\]) In erasure on HT 115a.2 (GORILA I, 188–91).
+HT115a accounting tablet with GRA+BOSm. √NWR 'to shine, give light' is pan-Semitic (Hebrew נוּר nūr, Arabic nūr, Ugaritic nrt 'lamp'). As a personal name element 'Light' is extremely common across Semitic onomastics: Amorite Niwru and ʾAbu-niwra (Gelb AS 21 nos. 5026, 162), Ebla nu-ru₁₂-ud 'light' (Pagan 1998, row 3919); PS \*nūr- (#1196). The r alternative (r-u-ra) produces awkward reduplication. \|\| Huehnergard: Ug nwr /nāra/ ~ /yanūr-/ "G: to be/become bright, shine"; I-n / hollow-looking w root. G suffix nāra, prefix yanūr-. BH cognate: nēr "lamp" (Huehnergard 2012, p. 50 (line ref.); cf. BH \[9\]) In erasure on HT 115a.2 (GORILA I, 188–91).
 
 ### Source
 

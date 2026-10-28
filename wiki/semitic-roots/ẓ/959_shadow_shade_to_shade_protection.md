@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/959_shadow_shade_to_shade_protection
 title: "*ṯ̣il(l)-: 'shadow, shade', 'to shade', 'protection'"
-desc: "Proto-Semitic *ṯ̣il(l)-, 'shadow, shade', 'to shade', 'protection': reflexes in 20 language(s)."
+desc: "Proto-Semitic *ṯ̣il(l)-, 'shadow, shade', 'to shade', 'protection': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "959"
@@ -47,9 +47,10 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | ṭəlal (LGz. 555) | LGz. 555 |  |
 | Argobba | ṭəla (LGz. 555) | LGz. 555 |  |
 | Gafat | č̣əlayä (LGz. 555) | LGz. 555 |  |
-| Amorite | ṣll: ṣalilum, ṣillum (Gelb AS 21, 34); ṣillu / (Buck 2019, 333) | Gelb AS 21 34; Buck 2019, 333 | gloss withheld |
+| Amorite | ṣll: ṣalilum, ṣillum (Gelb AS 21, 34); ṣillu / (Buck 2019, 333); ṯ̣ill: cf. zi-la-an, zi-il-la-an, ṣíl-lí-ak-ka (Sanmartín GlOS 2, 333) | Gelb AS 21 34; Buck 2019, 333; Sanmartín GlOS 2, 333 | gloss withheld |
 | East Ethiopic | Sel. č̣āl, Wol. č̣al, Zwy. č̣āya (EDG 618 apud SEDonline 556) | EDG 618; SEDonline 556 | gloss withheld |
 | Harari | č̣āya (EDH 52 apud SEDonline 556) | EDH 52; SEDonline 556 | gloss withheld |
+| Eblaitic | /ṯ̣ill/: names zi-la=DN; cf. zi-la, zi-lu (Sanmartín GlOS 2, 333) | Sanmartín GlOS 2, 333 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

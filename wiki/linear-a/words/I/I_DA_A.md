@@ -46,7 +46,7 @@ Preferred as the diptotic genitive in dubur ʾIda, 'the sanctuary of Ida.' Compa
 
 | Language | Comparison |
 |---|---|
-| Hebrew | hāhārāh (הָהָרָה) 'toward the mountain' (Gen 19:17, the hē locale -āh); yad (יָד) 'hand, arm' (H3027) |
+| Hebrew | hāhārāh (הָהָרָה) 'toward the mountain' (Gen 19:17, the hē locale -āh); yad (יָד) 'hand, arm' (HALOT 386) |
 | Ugaritic | ʾugarita, diptotic genitive 'of Ugarit' in ḥmyt ugrt /ḥāmiyātu ʾugarita/ 'the walls of Ugarit'; yd 'hand' |
 | Akkadian | idum 'arm, side; strength' (Old Assyrian idu) |
 | Phoenician | yd 'hand, arm' |

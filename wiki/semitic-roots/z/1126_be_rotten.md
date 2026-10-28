@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | znḫ \[-a-\]; zaniḫa (HALOT 276) | HALOT 276 | gloss withheld |
+| Arabic | znḫ \[-a-\]; zaniḫa (HALOT 276) (Lane 1257) | HALOT 276; Lane 1257 | gloss withheld |
 | Hebrew | znḥ hif. (HALOT 276) | HALOT 276 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

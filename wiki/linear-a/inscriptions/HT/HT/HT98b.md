@@ -64,7 +64,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | \]\*188\[ | BUṬNU | terebinth/pistachio products | PROBABLE |  |
 | \]VIN | VIN | wine | CONFIRMED |  |
-| [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | Dwelling/endurance of Anat (PN); rivals Neith (Egyptian Nt) as the second element, a simplex feminine name | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | Anat is everlasting (personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Neith as the second element | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 

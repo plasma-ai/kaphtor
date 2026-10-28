@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SEDonline 1956 gives the root as PS \*ˀtm 'to bring together' (EDA I 528), var. \*ˀdm.
+SEDonline 1956 gives the root as PS \*ˀtm 'to bring together', var. \*ˀdm. EDA I 528 (◊P0979, n. b) sets \*ˀdm/ˀtm 'to form a group, to do things together' with Akk. adāmu (or atāmu), Arb. ˀdm and ˀtm, Sab. ˀtm and Soq. étom.
 
 <!-- END kaphtor:record -->

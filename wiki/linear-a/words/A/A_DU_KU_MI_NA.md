@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 10a: a roster name counted 1, beside A-KU-MI-NA from the same verb. A-DU (Addu) + √k-m-n 'hide, shelter', built like A-DU-NI-TA-NA 'Addu has given'. KU for ka as in Linear B ku-mi-no = kamūn-. Not 'Addu's cumin': cumin is always measured (MY Ge 605 ku-mi-no Z 2), and KU-MI-NA 'cumin' is a homograph. Weak point: KU for ka. Rival: A-DU + KU-MI-NA 'cumin', which a roster count of 1 argues against.
+ZA 10a: a roster name counted 1, beside A-KU-MI-NA from the same verb. A-DU (Addu) + √k-m-n 'hide, shelter', built like A-DU-NI-TA-NA 'Addu has given'. Amorite names have the root: ka-mi-nu-um, ia-ak-me-ni (GlOS 1, 309), Kaminum (Gelb AS 21 no. 3970). KU for ka as in Linear B ku-mi-no = kamūn-. Not 'Addu's cumin': cumin is always measured (MY Ge 605 ku-mi-no Z 2), and KU-MI-NA 'cumin' is a homograph. Weak point: KU for ka. Rival: A-DU + KU-MI-NA 'cumin', which a roster count of 1 argues against.
 
 ### Cognates
 

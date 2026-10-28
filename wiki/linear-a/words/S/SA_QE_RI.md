@@ -55,7 +55,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | Šaqeli(?) | personal name (√š-q-l 'to weigh') | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT11b\|HT11b]] | Šaqeli | personal name (√š-q-l 'to weigh') | CANDIDATE |
 
 ## Onomasticon
 

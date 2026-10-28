@@ -67,7 +67,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | parched (roasted) grain | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu(?) | owed / outstanding balance (deficit) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Zuzu | personal name; compare Ugaritic {m}zu-zu; rival an institutional name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DI_DI_ZA_KE\|DI-DI-ZA-KE]] |  | personal or institutional name. Not readable. |  | unread |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE | PROBABLE (lexicon) |

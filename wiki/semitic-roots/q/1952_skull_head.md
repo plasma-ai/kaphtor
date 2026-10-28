@@ -32,14 +32,14 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | muḳadd- 'the back of the head and neck between the two ears' \[BK 2 683\] | BK 2 683 |  |
 | Akkadian | ḳaḳḳadu OA, OB on \[CAD ḳ 100\], \[AHw 899\] | CAD ḳ 100; AHw 899 | gloss withheld |
-| Eblaitic | gag-gú-tum /ḳaḳḳudum/ \[Kr 12-13; Bl E 59\] | Kr 12-13 |  |
+| Eblaitic | gag-gú-tum /ḳaḳḳudum/ \[Kr 12-13; Bl E 59\]; /qaqqad/: name ga-ga-da-nu; gag-&lt;gú&gt;-du-nu, gag-gú-tum /qaqqud/ (Sanmartín GlOS 1, 340) | Kr 12-13; Sanmartín GlOS 1, 340 | gloss withheld |
 | Ugaritic | ḳdḳd \[Aist 247\] | Aist 247 | gloss withheld |
 | Modern Aramaic | (?) MLH kotke \[J Mlah 180\]. | J Mlah 180 | gloss withheld |
 | Hebrew | ḳodḳōd (HALOT 1071) | HALOT 1071 | gloss withheld |
 | Judaic Aramaic | ḳodḳǝdā, ḳodḳōdā \[Ja 1317\]; ḳwdḳd \[DJPA 478a apud CAL\] | Ja 1317; DJPA 478a; CAL | gloss withheld |
 | Harari | ēḳäd \[LHar 30\] | LHar 30 | gloss withheld |
 | Mehri | ḳədēd (SED I 145) | SED I 145 |  |
-| Amorite | qaqqadum, qaqqadān (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
+| Amorite | qaqqadum, qaqqadān (Gelb AS 21, 29); qaqqad: qa-aq-qa-da-an (Sanmartín GlOS 1, 340) | Gelb AS 21 29; Sanmartín GlOS 1, 340 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

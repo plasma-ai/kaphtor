@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*plk 'to split, to separate' (EDA I 255 apud SEDonline 1802). Hbr. päläk 'district' must be borrowed from Akk. pilku (HALOT 933 apud SEDonline 1802). SEDonline 1802 also sets here Tgr. fälkät 'way between rocks, wall of rock' (WTS 653). Cf. K0249 \*pVlVq- 'cleave'.
+PS \*plk 'to split, to separate' (EDA I 255, ◊P0436; SEDonline 1802). Hbr. päläk 'district' must be borrowed from Akk. pilku (HALOT 933; EDA I 255, ◊P0436). SEDonline 1802 and EDA I 255 (◊P0436) also set here Tgr. fälkät 'way between rocks, wall of rock' (WTS 653). Cf. K0249 \*pVlVq- 'cleave'.
 
 <!-- END kaphtor:record -->

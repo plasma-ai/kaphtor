@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/2112_to_fornicate
 title: "*z/ḏny {} *ʒ/ǯny: 'to fornicate'"
-desc: "Proto-Semitic *z/ḏny {} *ʒ/ǯny, 'to fornicate': reflexes in 15 language(s)."
+desc: "Proto-Semitic *z/ḏny {} *ʒ/ǯny, 'to fornicate': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2112"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | zny (Pa., Etpa.) 'he fornicated', zānītā 'whore, prostitute' \[Brock 200\] | Brock 200 |  |
 | Aramaic | PLM znyt \[HJ 337\] | HJ 337 | gloss withheld |
 | Amorite | znj: zanijatum, māznijatum (Gelb AS 21, 35) | Gelb AS 21 35 | gloss withheld |
+| Eblaitic | za-ne-tum (= Sum. geme-kar-AK, VE 1412a; Viganò apud Civil 2017, 123 n. 18) | VE 1412a; Civil 2017, 123 n. 18 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

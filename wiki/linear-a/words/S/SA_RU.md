@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 86a and 86b (A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10), HT 95a (DA-DU-MA-TA · GRA, SA-RU 20 among DA-ME, MI-NU-TE, KU-NI-SU, DI-DE-RU and QE-RA₂-U) and HT 95b (A-DU · SA-RU 10, the same list): an entry in grain lists. HT 123+124a SA-RU OLIV 16, \*308 4, beside KI-TA-I, PU-VIN and DA-TU; HT 94b SA-RU 1, one of five entries totalled KU-RO 5. A native reflex of PS \*sVrw- 'chief, prince' (Ug. srn, Heb. sǝrānîm) or Akkadian šarru (Heb. śar). Rival: śaʿru 'barley' (Woudhuizen 2016, 226; Heb. śəʿōrâ, Ug. šʿrm, Old Aramaic šʿrh), ʿ unwritten, a grain kind beside KU-NI-SU 'emmer' and QE-RA₂-U 'parched grain'; it fits the four grain lists but not the olive and roster entries.
+HT 86a and 86b (A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10), HT 95a (DA-DU-MA-TA · GRA, SA-RU 20 among DA-ME, MI-NU-TE, KU-NI-SU, DI-DE-RU and QE-RA₂-U) and HT 95b (A-DU · SA-RU 10, the same list): an entry in grain lists. HT 123+124a SA-RU OLIV 16, \*308 4, beside KI-TA-I, PU-VIN and DA-TU; HT 94b SA-RU 1, one of five entries totalled KU-RO 5. A native reflex of PS \*sVrw- 'chief, prince' (Ug. srn, Heb. sǝrānîm) or Akkadian šarru (Heb. śar). Rival: śaʿru 'barley' (Woudhuizen 2016, 226; Heb. śəʿōrâ, Ug. šʿrm, Old Aramaic šʿrh), ʿ unwritten, a grain kind beside QE-RA₂-U 'parched grain'; it fits the four grain lists but not the olive and roster entries.
 
 ### Cognates
 
@@ -48,7 +48,7 @@ HT 86a and 86b (A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-
 |---|---|
 | Akkadian | šarru 'king' |
 | Proto-Semitic | \*sVrw(-ay)- '(military) chief, prince' (PS #15) |
-| Ugaritic | srn 'prince' (DUL 770) |
+| Ugaritic | srn 'prince' (DULAT 759) |
 | Hebrew | sǝrānīm 'city-princes' (KB 727); śar 'prince, chief' belongs with Akkadian šarru |
 | Arabic | sarw- 'chief, prince'; sarīr- 'royal dignity' (BK I 1076) |
 
@@ -96,6 +96,6 @@ Reading from the lexicon (di Mino).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, DE-ME-TE, [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]] Kakkaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_DU|A-DU]] ʾAddu / adû, [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, DE-ME-TE, [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]] Kakkaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunīšu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
 
 <!-- END kaphtor:record -->

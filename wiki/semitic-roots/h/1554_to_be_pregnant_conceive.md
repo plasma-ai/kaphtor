@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | hry (HALOT 255, 256) | HALOT 255, 256 | gloss withheld |
 | Epigraphic South Arabian | (?) SAB hry, hry (Sabaweb lemmas 2246, 2245). | Sabaweb lemmas 2246, 2245 | gloss withheld |
 | Aramaic | OLD hry \[HJ 293\], DSS hry \[Beyer 564\] | HJ 293; Beyer 564 | gloss withheld |
-| Eblaitic | ʔà-rí-tum /harītum/ \[Kreb. 23\] | Kreb. 23 |  |
+| Eblaitic | ʔà-rí-tum /harītum/ \[Kreb. 23\]; ʔà-rí-tum /harīt/ (Sanmartín GlOS 1, 221) | Kreb. 23; Sanmartín GlOS 1, 221 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

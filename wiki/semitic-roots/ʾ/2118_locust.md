@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔarbǟ (HALOT 83), pB. \[Ja. 114\]. | HALOT 83; Ja. 114 | gloss withheld |
 | Epigraphic South Arabian | Sab. ʔrby \[SD 7; Sabaweb lemma 2991\] | SD 7; Sabaweb lemma 2991 | gloss withheld |
 | Aramaic | Anc. ʔrbh \[HJ 101\] | HJ 101 | gloss withheld |
-| Eblaitic | ir-bí-núm \[Kreb. 34\] | Kreb. 34 |  |
+| Eblaitic | ir-bí-núm \[Kreb. 34\]; cf. ir-bí-núm /ʾirbiyn/ (Sanmartín GlOS 1, 38) | Kreb. 34; Sanmartín GlOS 1, 38 | gloss withheld |
 | Arabic | ʔirbiyān- (SED II 16) | SED II 16 | gloss withheld |
 | Syrian Aramaic | ʔarbītā (SED II 16) | SED II 16 | gloss withheld |
 

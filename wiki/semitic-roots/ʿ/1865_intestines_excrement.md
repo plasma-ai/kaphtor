@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1865_intestines_excrement
 title: "*ʕVrray-(at-): 'intestines; excrement'"
-desc: "Proto-Semitic *ʕVrray-(at-), 'intestines; excrement': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕVrray-(at-), 'intestines; excrement': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1865"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕurrat- 'human excrement, or bird excrement' \[BK 2 205\]; ʕurr- 'bird excrement' \[ibid.\] | BK 2 205 |  |
 | Soqotri | ʕérieh \[LS 327\]. | LS 327 | gloss withheld |
 | Akkadian | irrū (wirrū) OB on \[CAD i 181\], erru, pl. \[AHw 244\] | CAD i 181; AHw 244 | gloss withheld |
+| Eblaitic | ir-ru₁₂ (= Sum. níg-gi₆) (VE 51; Civil 2017, 120) | VE 51; Civil 2017, 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

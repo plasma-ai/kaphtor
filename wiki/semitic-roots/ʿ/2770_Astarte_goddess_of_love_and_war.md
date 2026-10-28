@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʕṯtrt (DULAT 191) | DULAT 191 | gloss withheld |
 | Phoenician | ʕštrt (Krahmalkov 390) | Krahmalkov 390 | gloss withheld |
 | Hebrew | ʕaštōret (HALOT 899) | HALOT 899 | gloss withheld |
-| Eblaitic | aš-dar /ʕaṯtar/ DN (= ᵈINANNA) (VE 805; Krebernik 1983, 31) | VE 805; Krebernik 1983, 31 |  |
+| Eblaitic | aš-dar /ʕaṯtar/ DN (= ᵈINANNA) (VE 805; Krebernik 1983, 31); month ITU ᵈaš-tár, the eleventh; names eb-du-aš-tár, puzur₄-aš-tár (Antalík 1998, 45) | VE 805; Krebernik 1983, 31; Antalík 1998, 45 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

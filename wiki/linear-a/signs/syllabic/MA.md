@@ -85,6 +85,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_MA_RO\|SA-MA-RO]] | Samarō | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_TI\|SA-MA-TI]] | Ṣamidi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_MA\|SI-MA]] | šima | CANDIDATE |
+| [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-lēwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | tittma | CANDIDATE |

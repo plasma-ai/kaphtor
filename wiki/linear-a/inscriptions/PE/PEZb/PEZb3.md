@@ -55,10 +55,10 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| A-KA-RA | ? | undeciphered prefix or separate word(s) | SPECULATIVE |  |
+| A-KA-RA |  | undeciphered prefix or separate word(s) | SPECULATIVE |  |
 | [[wiki/linear-a/words/K/KI_TA_NA\|KI-TA-NA]] | kitāna | linen | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | adjectival formation (vessel label): 'of linen, linen-ware'; alt. šī-yāṣē 'which goes out' | CANDIDATE | CANDIDATE (lexicon) |
-| VIR+\[?\]-ZA | ? | sign complex, uncertain reading | SPECULATIVE |  |
+| VIR+\[?\]-ZA |  | sign complex, uncertain reading | SPECULATIVE |  |
 
 ### Notes
 

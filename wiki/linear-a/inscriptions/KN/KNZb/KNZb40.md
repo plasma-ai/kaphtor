@@ -63,11 +63,11 @@ Unicode (Linear A block):
 
 ### Notes
 
-Two complete three-sign groups are incised on separate lines of a pithoid jar. Findspot: Unexplored Mansion, Knossos; LM II destruction deposit, jar typologically LM I, inscription probably LM IB (Popham, Pope & Raison 1976, Kadmos 15; Owens 1998–99, Talanta 30–31, 147–48). The Mansion's upper floor held a domestic shrine with a goddess figurine (Owens). Both lexical identifications and the composite translation remain speculative.
+Two complete three-sign groups are incised on separate lines of a pithoid jar. Findspot: Unexplored Mansion, Knossos; LM II destruction deposit, jar typologically LM I, inscription probably LM IB (Popham 1976, Kadmos 15; Owens 1998–99, Talanta 30–31, 147–48). The Mansion's upper floor held a domestic shrine with a goddess figurine (Owens). Both lexical identifications and the composite translation remain speculative.
 
 ### Source
 
-Popham, Pope & Raison 1976; Owens 1998–99, 147–48; Tropper §81.11a; ORACC P273162, P338383; di Mino, Ya Diktu
+Popham 1976; Owens 1998–99, 147–48; Tropper §81.11a; ORACC P273162, P338383; di Mino, Ya Diktu
 
 ## Lexicon words citing this document
 

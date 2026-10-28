@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0712_embrace
 title: "*ḥabaq-: 'embrace'"
-desc: "Proto-Semitic *ḥabaq-, 'embrace': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḥabaq-, 'embrace': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0712"
@@ -38,7 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḥafqa (Wb. 77b, Leslau 19 apud HALOT 287) | Wb. 77b, Leslau 19; HALOT 287 |  |
 | Geez | ḥfq, ḥqf \[HALOT 287\] | HALOT 287 | gloss withheld |
 | Arabic | ḥabaqa \[HALOT 287\] | HALOT 287 | gloss withheld |
-| Eblaitic | ʔà-ba-gú-um /ḥabāḳum/ (VE 1184; Krebernik 1983, 42) | VE 1184; Krebernik 1983, 42 | gloss withheld |
+| Eblaitic | ʔà-ba-gú-um /ḥabāḳum/ (VE 1184; Krebernik 1983, 42); ʔà-ba-gú-um /ḥ-B-G/; /ḥiBG/: cf. names ib-gi, ib-gi-a-ḫa (Sanmartín GlOS 1, 228) | VE 1184; Krebernik 1983, 42; Sanmartín GlOS 1, 228 | gloss withheld |
+| Amorite | ḥ-B-G: ia-bu-kum, a-ba-gu-um; ḥiBG: i-bi-iq=DN, ip-ku=DN (Sanmartín GlOS 1, 228) | Sanmartín GlOS 1, 228 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

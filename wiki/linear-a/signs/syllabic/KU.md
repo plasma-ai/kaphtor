@@ -70,14 +70,14 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/J/JA_KU\|JA-KU]] | Yaqū | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_KU_TI\|JA-KU-TI]] | Yaqūti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU\|KA-KU]] | Kakku | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | CANDIDATE |
 | [[wiki/linear-a/words/K/KU\|KU]] | kull | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_DA\|KU-DA]] | Gūda | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_MA_JU\|KU-MA-JU]] | Qumalu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_MI_NA\|KU-MI-NA]] | kamūna | PROBABLE |
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunāšu | CONFIRMED |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_NI_TE\|KU-NI-TE]] | kuhnēt | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA\|KU-PA]] | quppa | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA_JA\|KU-PA-JA]] | Kubbaya | SPECULATIVE |
@@ -93,7 +93,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/K/KU_RU_KU\|KU-RU-KU]] | kurkū | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RU_MA\|KU-RU-MA]] | kurma / gurma | PROBABLE |
 | [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |
-| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |
 | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |

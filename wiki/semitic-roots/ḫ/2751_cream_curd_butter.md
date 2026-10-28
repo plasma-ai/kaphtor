@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2751_cream_curd_butter
 title: "*ḫimʔ-at-: 'cream, curd, butter'"
-desc: "Proto-Semitic *ḫimʔ-at-, 'cream, curd, butter': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ḫimʔ-at-, 'cream, curd, butter': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2751"
@@ -36,6 +36,8 @@ updated: 2026-10-26T14:26:59Z
 | Epigraphic South Arabian | ḥmʾt (HALOT 325) | HALOT 325 |  |
 | Harsusi | ḥāmi (Kogan 2011, 240) | Kogan 2011 240 |  |
 | Soqotri | ḥámi (Kogan 2011, 240) | Kogan 2011 240 |  |
+| Amorite | ḫimʾat (Sanmartín GlOS 1, 272) | Sanmartín GlOS 1, 272 | gloss withheld |
+| Eblaitic | ḫi-ma-ad /ḫimʾat/ (Sanmartín GlOS 1, 272) | Sanmartín GlOS 1, 272 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

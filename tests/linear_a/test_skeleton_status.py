@@ -52,6 +52,19 @@ def test_labels_match_the_resolution_summary():
         assert label == expected.get(sign, "speculative"), sign
 
 
+REGISTRY = LINEAR_A_DATA / "sign-registry.json"
+
+
+@pytest.mark.data
+@pytest.mark.skipif(not REGISTRY.exists(), reason="sign-registry.json is not in this checkout")
+def test_the_registry_s_project_readings_carry_the_sign_s_label():
+    for s in json.loads(REGISTRY.read_text(encoding="utf-8"))["signs"]:
+        key = s["name"].upper() if s["name"].upper() in SIGN_STATUS else "*" + s["ab_number"].lstrip("AB")
+        for r in s["readings"]:
+            if key in SIGN_STATUS and r.get("status") != "conventional":
+                assert r.get("status") == SIGN_STATUS[key], (s["ab_number"], r["value"])
+
+
 @LIVE
 def test_every_summary_sign_in_the_table_is_labelled():
     unlabelled = sorted(s for s in _expected() if s in SIGN_DECOMPOSITION and s not in SIGN_STATUS)

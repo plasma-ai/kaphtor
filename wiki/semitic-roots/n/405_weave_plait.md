@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/405_weave_plait
 title: "*nVsVk-: 'weave, plait'"
-desc: "Proto-Semitic *nVsVk-, 'weave, plait': reflexes in 2 language(s)."
+desc: "Proto-Semitic *nVsVk-, 'weave, plait': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "405"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | nsk |  |  |
 | Aramaic | nsk (HALOT 703; CAL s.v. nsk) | HALOT 703; CAL s.v. nsk |  |
+| Amorite | nasāku (A.1285: 40f.) (Streck 2000, 107) | Streck 2000 107 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

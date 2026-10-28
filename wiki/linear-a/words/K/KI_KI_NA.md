@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT88 places KI-KI-NA after the NI fig logogram and before the quantity 7, favoring a recipient, group, or other named entity. Gelb's Amorite onomasticon repeatedly writes the close KIKKIN name as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The former vessel comparison is rejected: the Ugaritic word is kknt, with final -t, and Huehnergard notes that it may be an error for kkbt. Ugaritic kkn is instead catalogued as a personal name of uncertain etymology. Translate 'figs—Kikkina(?), 7,' not 'seven pots.'
+HT88 places KI-KI-NA after the NI fig logogram and before the quantity 7, favoring a recipient, group, or other named entity. Gelb's Amorite onomasticon repeatedly writes the close KIKKIN name as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The vessel comparison fails: the Ugaritic word is kknt, with final -t, and Huehnergard notes that it may be an error for kkbt. Ugaritic kkn is instead catalogued as a personal name of uncertain etymology. Translate 'figs—Kikkina(?), 7,' not 'seven pots.'
 
 ### Cognates
 
@@ -79,7 +79,7 @@ di Mino; Gelb 1980, AS 21 nos. 4036–4038
 
 ### Note
 
-HT88 places the name after the NI fig logogram and before 7. Gelb's Amorite onomasticon repeatedly writes KIKKIN-I/U/UM as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The former Ugaritic 'pot' comparison is rejected because the vessel word is kknt, with final -t; Ugaritic kkn is itself a personal name of uncertain etymology.
+HT88 places the name after the NI fig logogram and before 7. Gelb's Amorite onomasticon repeatedly writes KIKKIN-I/U/UM as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The Ugaritic 'pot' comparison fails because the vessel word is kknt, with final -t; Ugaritic kkn is itself a personal name of uncertain etymology.
 
 ### Co-occurring lexicon words
 

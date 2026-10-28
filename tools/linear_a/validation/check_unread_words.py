@@ -91,7 +91,7 @@ LABEL_ONLY = re.compile(r'unread|opaque|unresolved|^unknown|^roster entry|^recip
                         r'^personal name( \(unread|\s*$)|^tentative|segmentation contested|possibly a personal name|'
                         r'^\[unresolved|^personal name or institution|^personal or institutional (label|name)|'
                         r'^administrative label|^untranslated|^unidentified|^transaction sign|'
-                        r'^personal name\s*\(\?\)\s*$|(No reading|Not readable|Not a word)\.\s*$', re.IGNORECASE)
+                        r'^personal name\s*\(\?\)\s*$|^broken word\b|(No reading|Not readable|Not a word)\.\s*$', re.IGNORECASE)
 # A translation `reading` that is a placeholder, tentative (?...?) or partial (...) proposes nothing
 NO_READING = re.compile(r'^\s*(\?|\[?unknown\]?|unread|—|-|)\s*$|^\?|\?$|…|\.\.\.', re.IGNORECASE)
 READ_BINS = ('lexicon', 'composite', 'translation', 'onomasticon')

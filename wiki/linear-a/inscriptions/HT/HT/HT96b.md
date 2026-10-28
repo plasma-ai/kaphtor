@@ -66,7 +66,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | heading name, also on HT96a; Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | incense, incense-offering (√q-ṭ-r) | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/star/star516\|\*516]] | šipru? | transaction or account sign; written over an erasure (GORILA I 157) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star516\|\*516]] | šipru | transaction or account sign; written over an erasure (GORILA I 157) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | grain | grain/cereal (commodity ideogram) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | olive oil (U-type) | olive oil variant | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | NI | figs (commodity ideogram) | CONFIRMED | CONFIRMED (lexicon) |

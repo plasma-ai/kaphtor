@@ -48,7 +48,7 @@ PS #1446 \*yašar- "straight, right." In KN Zc 7 the sequence is written continu
 |---|---|
 | Hebrew | yāšar (יָשָׁר) 'straight, just, upright' |
 | Akkadian | išaru 'straight' |
-| Ugaritic | yšr 'to be right, straight' (DUL 928) |
+| Ugaritic | yšr 'uprightness' (DULAT 973); the verb is Hebrew yāšar 'to be straight, right' (HALOT 450) |
 | Aramaic | yašrā 'straight' |
 
 ### Source

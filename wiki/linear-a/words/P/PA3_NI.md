@@ -58,6 +58,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | bānī | builder(s) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | bānī? | builder or personnel designation: GRA+PA 33 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | bānī | builder or personnel designation: GRA+PA 33 | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -34,13 +34,21 @@ def _spell(form: str, seed: int = 0) -> str:
 
 
 class TestSeries:
-    def test_only_linear_b_values(self):
+    def test_linear_b_values_and_zu_s_full_series(self):
         assert SERIES["k"]["a"] == "KA" and SERIES["y"]["a"] == "JA"
-        assert "l" not in SERIES and "ṯ" not in SERIES          # RA₂, JU and ZU carry campaign or fitted values
+        assert "l" not in SERIES                                  # RA₂ and JU carry campaign or fitted values
         assert "u" not in SERIES["y"]
+        for c in ("ṯ", "ḏ", "ẓ"):                                 # A21: ZU writes them before every vowel
+            assert SERIES[c] == {v: "ZU" for v in "aeiou"}
+        assert SERIES["z"]["a"] == "ZA" and SERIES["z"]["u"] == "ZU" and "i" not in SERIES["z"]   # zu alone
+
+    def test_a_conventional_series_has_zu_as_zu_alone(self):
+        conv = chk.lb_series(conventional=True)
+        assert not {"ṯ", "ḏ", "ẓ"} & set(conv) and conv["z"]["u"] == "ZU"
+        assert chk.series_consonant("ṯ", conv) == "z"
 
     @pytest.mark.parametrize("c, written", [("b", "p"), ("g", "k"), ("ṭ", "t"), ("š", "s"), ("ṣ", "z"), ("l", "r"),
-                                            ("f", "p"), ("k", "k"), ("ṯ", "z")])
+                                            ("f", "p"), ("k", "k"), ("ṯ", "ṯ")])
     def test_unwritten_consonants_take_the_nearest_series(self, c, written):
         assert chk.series_consonant(c, SERIES) == written
 
@@ -75,6 +83,10 @@ class TestSpell:
     def test_kh_is_written_or_not_by_seed(self):
         firsts = {_spell("*ḫVṣ̂ib-", s).split("-")[0] for s in range(60)}
         assert firsts & {"KA", "KI", "KU"} and firsts & {"A", "I", "U"}
+
+    def test_zu_writes_the_interdentals_before_any_vowel(self):
+        assert re.fullmatch(r"ZU-R[AIU]", _spell("*ṯawr-"))
+        assert re.fullmatch(r"ZU-KA-R[AIU]", _spell("*ḏakar-"))
 
     def test_missing_vowel_takes_one_the_series_has(self):
         assert re.fullmatch(r"Q[AE]-R[AIU]", _spell("*qir-"))
@@ -188,6 +200,14 @@ class TestCompetitorPower:
         keys = [("p", "t", "r"), ("m", "n", "r"), ("s", "d", "m"), ("n", "p", "r"), ("t", "m", "s"), ("k", "m", "t")]
         vowels = {re.sub(r"[^AEIOU-]", "", chk.plant_competitor(space, k, ["1"], rm.SEED, SERIES)["word"]) for k in keys}
         assert len(vowels) > 1                                  # each key draws from its own stream
+
+    def test_a_competitor_s_t_and_d_are_not_spelled_with_zu(self):
+        from tools.core.phonetics import EGYPTIAN_DISTANCES
+        space = self._space(["ṯp", "ḏr"], EGYPTIAN_DISTANCES)
+        assert chk.competitor_series(SERIES) == chk.lb_series(conventional=True)    # the grid and zu, A21's rows out
+        for seed in range(20):
+            assert re.fullmatch(r"T[AEIOU]-P[AEIOU]", chk.plant_competitor(space, ("ṯ", "p"), ["1"], seed, SERIES)["word"])
+            assert re.fullmatch(r"Z[AEIOU]-R[AEIOU]", chk.plant_competitor(space, ("ḏ", "r"), ["2"], seed, SERIES)["word"])
 
     def test_a9_rows_carry_the_competitors_both_ways(self, tmp_path, monkeypatch):
         import test_root_match as trm

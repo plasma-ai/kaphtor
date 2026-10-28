@@ -93,7 +93,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾaššē | fire offering | CANDIDATE | CANDIDATE (lexicon) |
 | I |  | sign before GRA+PA (unread) |  |  |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] |  | grain composite (unread) |  | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra(?) | queen/princess or royal establishment | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | queen/princess or royal establishment | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | personal name, 'Ground'; recipient of I GRA+PA | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | personal name, 'burning, kindled' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/O/O_TI_q_broken_end\|O-TI-&#91;?&#93;]] |  | unread |  | unread |

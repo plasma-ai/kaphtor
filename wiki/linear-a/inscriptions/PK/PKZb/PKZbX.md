@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Clay vessel"
 period: ""
 translation: "complete"
-words: ["A-PA₃-DI", "RE"]
+words: ["RE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -39,13 +39,11 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. A-PA₃-DI
-2. RE ¹⁄₃
+1. RE ¹⁄₃
 
 Unicode (Linear A block):
 
 ```text
-𐘇𐘰𐘆𐝫
 𐘙𐝁
 ```
 
@@ -53,23 +51,22 @@ Unicode (Linear A block):
 
 **PROBABLE**, complete.
 
-> My servant: for 1/5 (sign B)
+> For: 1/5 (sign B)
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿabadī | my servant (√ʿ-b-d + 1cs suffix -ī) |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/R/RE\|RE]] | le- | to, for (preposition) |  | CONFIRMED (lexicon) |
 
 ### Notes
 
-Allocation vessel at Palaikastro. Fractional portion (sign B = 1/5; GORILA rendered 1/3) designated for a servant. RE = le- is CONFIRMED; A-PA₃-DI is PROBABLE. \[key normalized from 'PKZb?' to 'PKZbX' — the trailing '?' marked an unassigned/uncertain GORILA catalog number; 'X' is an explicit unassigned marker (not a fabricated catalog number). Site remains Palaikastro.\]
+Conical cup fragment, RE B (Hood 1964; Younger, Linear A Texts). Sign B = 1/5; GORILA rendered 1/3.
 
 ### Source
 
-GORILA
+di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_PA3_DI|A-PA₃-DI]], [[wiki/linear-a/words/R/RE|RE]].
+[[wiki/linear-a/words/R/RE|RE]].
 
 <!-- END kaphtor:record -->

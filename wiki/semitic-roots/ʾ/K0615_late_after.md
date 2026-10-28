@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0615_late_after
 title: "*ʾVḫVr-: 'late', 'after'"
-desc: "Proto-Semitic *ʾVḫVr-, 'late', 'after': reflexes in 17 language(s)."
+desc: "Proto-Semitic *ʾVḫVr-, 'late', 'after': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0615"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʾḥry (T 11) | T 11 | gloss withheld |
 | Biblical Aramaic | ʾaḥar (T 11) | T 11 |  |
 | Judaic Aramaic | ʾaḥōre (T 11) | T 11 |  |
+| Eblaitic | a-ḫi-lu /ʾ-ḫ-r/; a-ḫa-ra-am, aḫ-la, a-aḫ-la /ʾaḫ(a)r/; a-ḫé-ri, a-ḫé-tum, a-ḫir-tum /ʾaḫir/ (Sanmartín GlOS 1, 16–17) | Sanmartín GlOS 1, 16–17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

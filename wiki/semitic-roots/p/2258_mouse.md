@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | faʔr-, fem. faʔr-at- 'rat; mouse' \[BK 2 529\], \[Fr. III 309\], \[Lane 2324\], \[LA V 42\]. | BK 2 529; Fr. III 309; Lane 2324; LA V 42 |  |
 | Akkadian | pērūrūtu OB on \[AHw. 856\] | AHw. 856 | gloss withheld |
-| Eblaitic | pá-ra-tum, pá-ar-tum /paʔratum, pāratum/ = NIN.PÉS̆ \[MEE 4 0297\] | MEE 4 0297 |  |
+| Eblaitic | pá-ra-tum, pá-ar-tum /paʔratum, pāratum/ = NIN.PÉS̆ \[MEE 4 0297\] | MEE 4 0297 | gloss withheld |
 | Gurage | End. Enm. Gyt. fuʔur, Cha. Eža Muh. Msq. fur, Sel. ufr, Wol. Zwy. ufur, Gog. Sod. äfur \[LGur. 226\]. | LGur. 226 | gloss withheld |
 | Amharic | färfär \[K 2290\] | K 2290 | gloss withheld |
 | Harari | fūr \[LHar. 63\] (also fuʔur \[ibid. 60\]). | LHar. 63; LHar. 60 | gloss withheld |

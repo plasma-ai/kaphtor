@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/854_bring_away
 title: "*mutaʕ-: 'bring away'"
-desc: "Proto-Semitic *mutaʕ-, 'bring away': reflexes in 3 language(s)."
+desc: "Proto-Semitic *mutaʕ-, 'bring away': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "854"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | mtʕ a,1,12 |  |  |
 | Ugaritic | mtʿ (CUC; DULAT 591) | CUC; DULAT 591 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic mtʿ (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |
+| Amorite | m-t-ʿ: cf. ia-ma-(at-)ti-DINGIR (Sanmartín GlOS 2, 58) | Sanmartín GlOS 2, 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

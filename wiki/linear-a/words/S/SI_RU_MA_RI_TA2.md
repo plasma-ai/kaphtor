@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/S/SI_RU_MA_RI_TA2
 title: "SI-RU-MA-RI-TA₂"
-desc: "Onomasticon personal name, no reading."
+desc: "Ṣill-marʾita: Shade of the Lady. Onomasticon personal name; lexicon entry SI-RU."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "SI-RU-MA-RI-TA₂"
 datasets: ["onomasticon"]
 attestations: ["HT90"]
+reading: "Ṣill-marʾita"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -37,6 +38,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | Ṣill-marʾita |
+| Meaning | Shade of the Lady |
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
@@ -44,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Lexicon entry | [[wiki/linear-a/words/S/SI_RU\|SI-RU]] |
 
 ### Note
 

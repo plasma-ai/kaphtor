@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | nimr- 'panther', namir-, fem. namirat-, nāmirat- 'leopard, panther' \[BK 2 1346-7\], \[Fr. IV 337\], \[Lane 2853\], \[LA V 234\]. | BK 2 1346-7; Fr. IV 337; Lane 2853; LA V 234 |  |
 | Akkadian | nimru (nammar) OAkk. on \[CAD n2 234\], \[AHw. 790\] | CAD n2 234; AHw. 790 | gloss withheld |
-| Eblaitic | na-me-lum | MEE 4 005; MEE 4 0503 |  |
+| Eblaitic | na-me-lum | MEE 4 005; MEE 4 0503; Sanmartín GlOS 2, 96; MEE 4 96 ii 1, 116 i 5; Civil 2017, 126 | gloss withheld |
 | Mandaic Aramaic | namar (nimar, namr) \[DM 283\], nimria (pl.) \[ibid. 298\]. | DM 283; DM 298 | gloss withheld |
 | Geez | namr \[LGz. 398\]. | LGz. 398 | gloss withheld |
 | Gurage | Sel. näwǝr, Wol. näwr \[LGur. 465\]. | LGur. 465 | gloss withheld |

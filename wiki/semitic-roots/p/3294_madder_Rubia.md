@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*puw-at- |
 | Meaning | 'madder (Rubia)' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1763 |
 
 ## Reflexes
 
@@ -38,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*puw-at- 'madder' (EDA I 118 apud SEDonline 1763). Akk. puwatu (CAD P 555) is the Ugaritic word in an Akkadian text (SEDonline 1763).
+PWS \*puw-at- 'madder' (SEDonline 1763); EDA I 118 (◊P0178) sets JPA pwˀh, JBA pūtā, Syr. putā and Arb. fuwwat- beside Ugr. pwt. Akk. puwatu (CAD P 555) is the Ugaritic word in an Akkadian text (EDA I 118, ◊P0178; SEDonline 1763).
 
 <!-- END kaphtor:record -->

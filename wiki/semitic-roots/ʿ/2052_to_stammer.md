@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ALG \[DM 19\]; alga \[ibid.\] | DM 19 | gloss withheld |
 | Ugaritic | ʕlg \[DULAT 154\]; tʕlgt \[Gordon 456\] | DULAT 154; Gordon 456 | gloss withheld |
 | Hebrew | ʕillēg (HALOT 828). | HALOT 828 | gloss withheld |
-| Eblaitic | a-a-gú-(um) (in a-a-gú-(um) li-sa-nu, VE 180) | VE 180 |  |
+| Eblaitic | a-a-gú-(um) (in a-a-gú-(um) li-sa-nu, VE 180); a-gú-um /ʿalg/; ù-li-gú /ʿulīg/ (Sanmartín GlOS 1, 76) | VE 180; Sanmartín GlOS 1, 76 | gloss withheld |
 | Arabic | ʿalaja (HALOT 828) | HALOT 828 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

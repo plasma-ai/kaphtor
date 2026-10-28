@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | fḍḫ 1 a,1 |  |  |
+| Arabic | fḍḫ 1 a,1; faḍaḫa 'he broke a hollow thing, such as a head, and a melon; he broke, or crushed' 3 (Lane 2410) | Lane 2410 |  |
 | Geez | fṣḥ 2,3 |  |  |
 | Hebrew | pṣḥ 3 |  |  |
 | Tigrinya | fṣḥ 3 |  |  |

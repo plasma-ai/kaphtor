@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/S14_to_take_receive_1_offering_receipt_2
 title: "*lVḳVḥ-: 'to take, receive' 1, 'offering, receipt' 2"
-desc: "Proto-Semitic *lVḳVḥ-, 'to take, receive' 1, 'offering, receipt' 2: reflexes in 11 language(s)."
+desc: "Proto-Semitic *lVḳVḥ-, 'to take, receive' 1, 'offering, receipt' 2: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S14"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | LQḤ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Punic | lqḥ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Canaanite | Moab lḳḥ (DNWSI 581 apud SEDonline 886) | DNWSI 581; SEDonline 886 | gloss withheld |
+| Eblaitic | a-a-da-ga-si /l-q-ḥ/ 1 (Sanmartín GlOS 2, 13) | Sanmartín GlOS 2, 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

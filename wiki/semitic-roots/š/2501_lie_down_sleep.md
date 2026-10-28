@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | sakba (HALOT 1486) | HALOT 1486 |  |
 | Aramaic | šəḵeḇ (LGz. 496; DNWSI 1132 apud CAL) | LGz. 496; DNWSI 1132; CAL |  |
 | Tigrinya | säḵäbä (LGz. 496) | LGz. 496 |  |
-| Eblaitic | si-kà-pù-um (VE 1132; Krebernik 1983: 40 apud SEDonline 999) | VE 1132; Krebernik 1983: 40; SEDonline 999 | gloss withheld |
+| Eblaitic | si-kà-pù-um (VE 1132; Krebernik 1983: 40 apud SEDonline 999); cf. si-ga-bù-um /S-k-b/ (Sanmartín GlOS 2, 240) | VE 1132; Krebernik 1983: 40; SEDonline 999; Sanmartín GlOS 2, 240 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

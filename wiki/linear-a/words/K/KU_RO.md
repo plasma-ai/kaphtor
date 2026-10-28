@@ -74,7 +74,7 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Duhoux 2012
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT104\|HT104]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT109\|HT109]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT109\|HT109]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT110a\|HT110a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Haghia Triada | Tablet | complete |
@@ -106,6 +106,7 @@ Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Duhoux 2012
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | kull | total, sum | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | kull | total: 1,060 | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT104\|HT104]] | kull | total: 95 | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT109\|HT109]] | kull | total | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | kull | total, sum |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | kull | total, sum | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | kull | total, sum | CONFIRMED |

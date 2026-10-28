@@ -46,8 +46,8 @@ AP Za 2 .2 I-NA-JA-RE-TA\[ \]QA; no divider follows TA, and the word may run on 
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*yarVʾ- 'to fear, be afraid, revere' (cf. Ugaritic yrʾ DUL 976, Hebrew yārēʾ HALOT 432) |
-| Ugaritic | hn "behold!"; yrʾ "to fear, revere" (DUL 976) |
+| Proto-Semitic | \*yarVʾ- 'to fear, be afraid, revere' (cf. Ugaritic yrʾ DULAT 962, Hebrew yārēʾ HALOT 432) |
+| Ugaritic | hn "behold!"; yrʾ "to fear, revere" (DULAT 962) |
 | Hebrew | hēn yirʾat (הֵן יִרְאַת) "behold, the fear of" (Job 28:28); yārēʾ (יָרֵא) "to fear, revere" (HALOT 432); yirʾā (יִרְאָה) "fear, reverence, awe" |
 | Aramaic | yᵉrēʾ 'to fear' (Jastrow 587) |
 

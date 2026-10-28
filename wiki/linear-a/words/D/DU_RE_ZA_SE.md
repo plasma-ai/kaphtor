@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | — | unread; ends in -SE, as on ZA 10b and ZA 20 |  |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] | ? | unread |  |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10b\|ZA10b]] |  | unread |  |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] |  | heading word (unread) |  |
 
 ## Unread

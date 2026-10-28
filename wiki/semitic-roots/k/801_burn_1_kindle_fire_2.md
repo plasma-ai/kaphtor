@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | kwy \[-i-\] 2 (Lane 3004) | Lane 3004 |  |
 | Akkadian | kawû 1 |  |  |
 | Hebrew | kwy 1 |  |  |
-| Eblaitic | ga-PI-um /kawāHum/ (VE 850; Krebernik 1983, 19 n. 65) | VE 850; Krebernik 1983, 19 n. 65 | gloss withheld |
+| Eblaitic | ga-PI-um /kawāHum/ (VE 850; Krebernik 1983, 19 n. 65); ga-wa-um /k-w-y/ 1 (Sanmartín GlOS 1, 334) | VE 850; Krebernik 1983, 19 n. 65; Sanmartín GlOS 1, 334 | gloss withheld |
 | Judaic Aramaic | kwʾ (HALOT 463) | HALOT 463 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

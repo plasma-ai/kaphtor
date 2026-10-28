@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3588_silver
 title: "*ṣrp: 'silver'"
-desc: "Proto-Semitic *ṣrp, 'silver': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ṣrp, 'silver': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3588"
@@ -32,6 +32,7 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | ṣarpu (CAD Ṣ 113) | CAD Ṣ 113 | gloss withheld |
 | Arabic | ṣarīf (Lane 1682); ṣarīf (Biella 430) | Lane 1682; Biella 430 | gloss withheld |
 | Epigraphic South Arabian | Sab ṣrf (SD 144; Biella 430) | SD 144; Biella 430 | gloss withheld |
+| Eblaitic | sùr-bù-um, sùr-bí-im, sùr-ba-am₆ /ṣurp/; sùr-ba-núm /ṣurpān/ (Sanmartín GlOS 2, 223–224) | Sanmartín GlOS 2, 223–224 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

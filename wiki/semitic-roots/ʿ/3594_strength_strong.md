@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3594_strength_strong
 title: "*ʕmḳ: 'strength; strong'"
-desc: "Proto-Semitic *ʕmḳ, 'strength; strong': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ʕmḳ, 'strength; strong': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3594"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Akkadian | emūqu (CAD E 157); bēl emūqi (CAD E 161); šūt emūqi (CAD E 162) | CAD E 157; CAD E 161; CAD E 162 | gloss withheld |
 | Ugaritic | ʿmq (DULAT 162) | DULAT 162 | gloss withheld |
+| Amorite | ʿamuq: cf. ḫa-mu-qí-im (Sanmartín GlOS 1, 79) | Sanmartín GlOS 1, 79 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

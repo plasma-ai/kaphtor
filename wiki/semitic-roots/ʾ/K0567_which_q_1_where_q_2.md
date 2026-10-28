@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0567_which_q_1_where_q_2
 title: "*ʾayy-: 'which?' 1, 'where?' 2"
-desc: "Proto-Semitic *ʾayy-, 'which?' 1, 'where?' 2: reflexes in 15 language(s)."
+desc: "Proto-Semitic *ʾayy-, 'which?' 1, 'where?' 2: reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0567"
@@ -42,8 +42,9 @@ updated: 2026-10-26T14:26:59Z
 | Amharic | yät 2 (LGz. 51) | LGz. 51 | gloss withheld |
 | Argobba | yed 2 (LGz. 51) | LGz. 51 | gloss withheld |
 | Gurage | et 2 (LGz. 51) | LGz. 51 | gloss withheld |
-| Amorite | ʾajja, ʾajjan, ʾajji, ʾijja 2 (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
+| Amorite | ʾajja, ʾajjan, ʾajji, ʾijja 2 (Gelb AS 21, 13); ʾayya 2: a-a-, a-a-a-bu-ú, a-a-ḫa-am-mu-ú; ʾayyan 2: a-an-a-ba-al, a-an-li-im; ʾiyya 2: i-a-a-ab-DINGIR (Sanmartín GlOS 1, 59) | Gelb AS 21 13; Sanmartín GlOS 1, 59 | gloss withheld |
 | Phoenician | ʾy 2 (B 265) | B 265 | gloss withheld |
+| Eblaitic | a, a-sa-ma /ʾayy/ 2; /ʾayya/ 2: names a-a-ne(NE)-àr(ḪAR), a-a-bar-ru₁₂ (Sanmartín GlOS 1, 58–59) | Sanmartín GlOS 1, 58–59 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

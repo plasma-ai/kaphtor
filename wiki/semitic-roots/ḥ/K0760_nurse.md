@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0760_nurse
 title: "*ḥVḍVn-: 'nurse'"
-desc: "Proto-Semitic *ḥVḍVn-, 'nurse': reflexes in 15 language(s)."
+desc: "Proto-Semitic *ḥVḍVn-, 'nurse': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0760"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | SEL WOL ZWY č̣ən (SED I 118) | SED I 118 | gloss withheld |
 | Gurage | MUH č̣ənä (SED I 118) | SED I 118 |  |
 | Soqotri | ẓ̂ánaḥ (Kogan 2011, 218) | Kogan 2011 218 | gloss withheld |
+| Amorite | ḥṣn: jaḥṣun, jāḥṣin, ḥaṣanum, fem. ḥaṣanatum, ḥaṣnatum, ḥiṣnum, ḥuṣānum (Gelb AS 21, 20) | Gelb AS 21 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

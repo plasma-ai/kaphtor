@@ -30,17 +30,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | šams- 1 |  |  |
+| Arabic | šams- 1; aš-šams 'the sun; the body of the solar light, that runs its course in the firmament' 1 (Lane 1597) | Lane 1597 |  |
 | Soqotri | šam |  |  |
-| Akkadian | šamšu 1 |  |  |
+| Akkadian | šamšu 1 (CAD Š/1 335) | CAD Š/1 335 | gloss withheld |
 | Tigre | šämš 1 |  |  |
 | Ugaritic | špš /šapšu/ (Huehnergard 2012, 157) | Huehnergard 2012 157 | gloss withheld |
 | Phoenician | šmš (Krahmalkov 472); šmš (T 325) | Krahmalkov 472; T 325 | gloss withheld |
 | Hebrew | šemeš 1; (?) pl. šǝbīs-īm (HALOT 1392, 1393) | HALOT 1392, 1393 | gloss withheld |
-| Epigraphic South Arabian | šmŝ 1 |  |  |
+| Epigraphic South Arabian | šmŝ 1; Sab šms 1 (Biella 518); s²ms¹-n 1 (SD 133) | Biella 518; SD 133 | gloss withheld |
 | Syrian Aramaic | šemš- 1 (Payne Smith 586) | Payne Smith 586 |  |
 | Aramaic | šimšā (OLA80 §30.5) | OLA80 §30.5 | gloss withheld |
-| Punic | šmš 'sun' | Anderson–Moser 2024 root šamš |  |
+| Punic | šmš (T 325) | T 325; Anderson–Moser 2024 root šamš | gloss withheld |
 | Amorite | śamśum (Gelb AS 21, 31); ŝapŝ(um); šamšu, šapšu (Buck 2019, 333) | Gelb AS 21 31; Buck 2019, 333 | gloss withheld |
 | Jibbali | s̃um 2 (Kogan 2011, 193) | Kogan 2011 193 | gloss withheld |
 | Eblaitic | sí-piš; si-piš (OLA80 §11.9, §13.2) | OLA80 §11.9, §13.2 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/144_face
 title: "*pan-: 'face'"
-desc: "Proto-Semitic *pan-, 'face': reflexes in 12 language(s)."
+desc: "Proto-Semitic *pan-, 'face': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "144"
@@ -42,6 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | fināʾ (HALOT 938) | HALOT 938 | gloss withheld |
 | Mehri | fenē (LGz. 163) | LGz. 163 | gloss withheld |
 | Epigraphic South Arabian | Sab fnw (Kogan 2011, 220; Sabaweb lemma 4108) | Kogan 2011 220; Sabaweb lemma 4108 | gloss withheld |
+| Amorite | panw/y: pa-ni-la, pa-(an-)ni-ia-tum (Sanmartín GlOS 2, 130–131) | Sanmartín GlOS 2, 130–131 | gloss withheld |
+| Eblaitic | ba-na-ù, ba-na-sa, ba-na-a /panw/y/ (Sanmartín GlOS 2, 130) | Sanmartín GlOS 2, 130 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

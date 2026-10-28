@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | raqqa (HALOT 1293) | HALOT 1293 |  |
 | Syrian Aramaic | rəqāqā (HALOT 1293) | HALOT 1293 | gloss withheld |
 | Aramaic | RQQ (Aramaic Root Atlas; CAL s.v. rqq#2) | Aramaic Root Atlas; CAL s.v. rqq#2; Anderson–Moser 2024 root rqq | gloss withheld |
-| Eblaitic | ra-gu /raḳḳu/ (VE 76, Kogan–Krebernik 2021b: 696 apud SEDonline 2045; Krebernik 1983, 4) | VE 76, Kogan–Krebernik 2021b: 696; SEDonline 2045; Krebernik 1983, 4 | gloss withheld |
+| Eblaitic | ra-gu /raḳḳu/ (VE 76, Kogan–Krebernik 2021b: 696 apud SEDonline 2045; Krebernik 1983, 4; Civil 2017, 120) | VE 76, Kogan–Krebernik 2021b: 696; SEDonline 2045; Krebernik 1983, 4; Civil 2017, 120 | gloss withheld |
 | Amharic | räḳḳäḳä (AED 387 apud SEDonline 2045) | AED 387; SEDonline 2045 | gloss withheld |
 | Tigrinya | räḳ̌äḳ̌ä (TED 560 apud SEDonline 2045) | TED 560; SEDonline 2045 |  |
 | Emar | ru-qa-nu /ruqqānu/ (Pentiuc 2001, 153) | Pentiuc 2001 153 | gloss withheld |

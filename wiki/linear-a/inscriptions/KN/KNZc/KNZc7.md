@@ -61,7 +61,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_KA_NU\|A-KA-NU]] | ʾagānu | bowl (self-referential vessel label) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/Z/ZA_TI\|ZA-TI]] | zāt | this (f.sg. demonstrative) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durar | freedom; release | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | Athirat (the Goddess) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯrat | Athirat (the Goddess) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_SA_RA\|JA-SA-RA]] | yašara | righteous | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | favor, grace | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/W/WI_PI_q_broken_end\|WI-PI-&#91;?&#93;]] |  | unread |  | unread |

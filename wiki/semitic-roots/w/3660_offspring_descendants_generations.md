@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3660_offspring_descendants_generations
 title: "*wld: 'offspring, descendants, generations'"
-desc: "Proto-Semitic *wld, 'offspring, descendants, generations': reflexes in 4 language(s)."
+desc: "Proto-Semitic *wld, 'offspring, descendants, generations': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3660"
@@ -33,6 +33,7 @@ updated: 2026-10-26T15:47:57Z
 | Hebrew | tôlēdôt (pl.) (HALOT 1699–1700) | HALOT 1699–1700 | gloss withheld |
 | Syrian Aramaic | tawledtā 'generation, descent, origin, race, kindred' (Payne Smith 607) | Payne Smith 607 |  |
 | Geez | təwlədd, tawlədd, tulaidd (for təwləd-t, tawləd-t, tulaid-t) (LGz. 613) | LGz. 613 | gloss withheld |
+| Eblaitic | du-la-ti, du-la-ti-SÙ, du-la-ti-su-ma /tawladt/ (Sanmartín GlOS 2, 351) | Sanmartín GlOS 2, 351 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

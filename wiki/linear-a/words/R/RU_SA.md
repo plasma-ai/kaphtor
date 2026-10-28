@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/R/RU_SA
 title: "RU-SA"
-desc: "Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647. Lexicon, SPECULATIVE (tier 1)."
+desc: "Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "RU-SA"
@@ -32,18 +32,18 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Rusa |
-| Meaning | personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647 |
+| Meaning | personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake' |
 | Language layer | Minoan_Aegean |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before \*323-\*317 1, with no logogram of its own (GORILA I 157). The writing board BM EA 5647 heads seven names 'making names of Crete' (jr.t rn.w n\[y.w\] kftjw); the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais & Gabolde 2025, 9, 14, Table 2 p. 15). The editors take rw-sȝ as Greek Lysis, Linear B ru-si; Schneider as a short Egyptian name, rw-zA (Louvre E 5608) (ibid., 14 nn. 87–88). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet that has di-du-me on .3, the name the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). No etymology is adopted here. The final vowel differs from Linear B (a against i). Cf. the Urartian royal name Rusa, 8th c. BCE (RINAP 2, Sargon II 001). Two signs; one attestation.
+HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before \*323-\*317 1, with no logogram of its own (GORILA I 157). The writing board BM EA 5647 heads seven names 'making names of Crete' (jr.t rn.w n\[y.w\] kftjw); the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais & Gabolde 2025, 9, 14, Table 2 p. 15). The editors take rw-sȝ as Greek Lysis, Linear B ru-si; Schneider as a short Egyptian name, rw-zA (Louvre E 5608) (ibid., 14 nn. 87–88). Rival: Egyptian Rs '(he) who is awake' (Ranke I, 226.18; II, 303.1), 59 attestations, late 12th to 18th Dynasty (PNM v6); Vercoutter reads the board's name as Rs (Ru-sa), 'vraisemblablement égyptien' (Vercoutter 1956, 45, 48). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet that has di-du-me on .3, the name the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). No etymology is adopted here. The final vowel differs from Linear B (a against i). Cf. the Urartian royal name Rusa, 8th c. BCE (RINAP 2, Sargon II 001). Two signs; one attestation.
 
 ### Source
 
-Dautais & Gabolde 2025, 9, 14–15; DMic II s.v. ru-si; di Mino
+Dautais & Gabolde 2025, 9, 14–15; Vercoutter 1956, 45, 48; Ilin-Tomich 2025 (PNM v6), s.v. rs; DMic II s.v. ru-si; di Mino
 
 ## Attestations
 
@@ -63,7 +63,7 @@ Dautais & Gabolde 2025, 9, 14–15; DMic II s.v. ru-si; di Mino
 |---|---|
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
@@ -71,7 +71,7 @@ Dautais & Gabolde 2025, 9, 14–15; DMic II s.v. ru-si; di Mino
 
 ### Note
 
-Egyptian rw-sȝ, one of seven 'names of Crete' on BM EA 5647 (Dautais & Gabolde 2025, 14–15); Linear B ru-si (KN Ak 634, L 588.1).
+Egyptian rw-sȝ, one of seven 'names of Crete' on BM EA 5647 (Dautais & Gabolde 2025, 14–15); Linear B ru-si (KN Ak 634, L 588.1). Rival: Egyptian Rs 'he who is awake' (Vercoutter 1956, 45, 48).
 
 ### Co-occurring lexicon words
 

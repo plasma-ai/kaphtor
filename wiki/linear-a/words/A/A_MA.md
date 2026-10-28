@@ -40,11 +40,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PS #44/#99 \*ʕamm- "relative, uncle, ancestor" + PS #S10 \*ʕamam- "people, nation, kinfolk". 3 attestations across 3 geographically dispersed sites. On MA1b, A-MA appears alongside QE-DE-MI-NU (Qadmīnu "primordial/eastern", cf. Kadmos)—a kinship term adjacent to a recognized Semitic PN parallels NWS naming formulae (ʿAmminadab, ʿAmmiśaday). 2-consonant skeleton is underdetermined: competing roots include \*ʔamm-at- "cubit" (#1156), \*ʔam(a)t- "maidservant" (#2783). The \*306=/ʿa/ vs standard A ambiguity also applies.
+PS #44/#99 \*ʕamm- "relative, uncle, ancestor" + PS #S10 \*ʕamam- "people, nation, kinfolk". 3 attestations across 3 geographically dispersed sites. On MA1b, A-MA appears alongside QE-DE-MI-NU (Qadmīnu "primordial/eastern", cf. Kadmos)—a kinship term adjacent to a recognized Semitic PN parallels NWS naming formulae (ʿAmminadab, ʿAmmiśaday). Ebla has the name a-ma ʿamma 'the uncle' (Pagan 1998, row 672). 2-consonant skeleton is underdetermined: competing roots include \*ʔamm-at- "cubit" (#1156), \*ʔam(a)t- "maidservant" (#2783). The \*306=/ʿa/ vs standard A ambiguity also applies.
 
 ### Cognates
 
-Hebrew ʿam "people, nation" (HALOT 837), Ugaritic ʿm "people, kinsmen" (DUL 169), Akkadian ummānu "people, army" (CAD U/W 106), Phoenician ʿm "people" (Tomback 255)
+Hebrew ʿam "people, nation" (HALOT 837), Ugaritic ʿm "lineage, ancestors" (DULAT 160), Akkadian ummānu "people, army" (CAD U/W 106), Phoenician ʿm "people" (Tomback 255)
 
 ### Source
 

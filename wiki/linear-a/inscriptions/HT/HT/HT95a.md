@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Settlement(s)(?): grain. Blood (ritual category) 10, count/reckoning 10, king/royal establishment 20, emmer wheat 10, nobles/council(?) 10, parched grain(?) 7.
+> Settlement(s): grain. Blood (ritual category) 10, count/reckoning 10, king/royal establishment 20, the assembly 10, nobles/council 10, parched grain 7.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -73,18 +73,17 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damu | blood (ritual allocation category) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | amount, number; counting or reckoning | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king, prince; rival 'barley' | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunāšu | emmer wheat | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | assembly; rival 'emmer' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | nobles, council of elders | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | parched (roasted) grain | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
-Context: Grain allocation—administrative tablet with GRA ideogram and commodity distributions. DA-ME is read damu 'blood', a recurring quantified ritual category; rivals dimtu 'district', Aramaic dmy 'value'. QE-RA₂-U /qelwu/ 'parched grain' is a second grain product beside KU-NI-SU 'emmer'.
+Context: Grain allocation—administrative tablet with GRA ideogram and commodity distributions. DA-ME is read damu 'blood', a recurring quantified ritual category; rivals dimtu 'district', Aramaic dmy 'value'. KU-NI-SU is read kunīšu 'assembly', one of the parties the grain goes to; rival kunāšu 'emmer'. QE-RA₂-U /qelwu/ 'parched grain' is the one grain product in the set.
 
 ### Source
 
-- di Mino: DA-DU-MA-TA, DA-ME, MI-NU-TE, SA-RU, DI-DE-RU
-- Gordon 1966: KU-NI-SU
+- di Mino: DA-DU-MA-TA, DA-ME, MI-NU-TE, SA-RU, KU-NI-SU, DI-DE-RU
 
 ## Lexicon words citing this document
 

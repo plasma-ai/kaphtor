@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KI-RA occurs on HT103 with 5½ and opens ZA8 before A-TA-RE, which is followed by NI ‘figs’ ½. The former gloss ‘balance’ was inferred from resemblance to KI-RO, but HT103 provides no balancing equation: NI 40 is not marked as a total, and no KU-RO occurs. Akkadian kirû(m) ‘garden, orchard’ (base kiri-; Huehnergard 1997, 126) fits the horticultural contexts, although KI-RA does not reproduce its inflection exactly. Akkadian qīru ‘liquid bitumen,’ attested syllabically as qi-ra, is formally closer but requires KI to represent /qi/ and fits ZA8 less well. ‘Garden/orchard’ is the preferred candidate; the entry remains unproved.
+KI-RA occurs on HT103 with 5½ and opens ZA8 before A-TA-RE, which is followed by NI ‘figs’ ½. ‘Balance’, from its resemblance to KI-RO, has no support on HT103, which provides no balancing equation: NI 40 is not marked as a total, and no KU-RO occurs. Akkadian kirû(m) ‘garden, orchard’ (base kiri-; Huehnergard 1997, 126) fits the horticultural contexts, although KI-RA does not reproduce its inflection exactly. Akkadian qīru ‘liquid bitumen,’ attested syllabically as qi-ra, is formally closer but requires KI to represent /qi/ and fits ZA8 less well. ‘Garden/orchard’ is the preferred candidate; the entry remains unproved.
 
 ### Source
 
@@ -56,7 +56,7 @@ di Mino; GORILA I 170–171; Huehnergard 1997, 126; ORACC qīru attestations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | kirû?/qīra? | possibly garden/orchard; alternatively liquid bitumen | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | kirû/qīra | possibly garden/orchard; alternatively liquid bitumen | CANDIDATE |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | kirû/qīra | garden, orchard (heading); alternatively liquid bitumen | CANDIDATE |
 
 <!-- END kaphtor:record -->

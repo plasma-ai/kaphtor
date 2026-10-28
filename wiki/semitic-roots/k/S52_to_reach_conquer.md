@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/S52_to_reach_conquer
 title: "*kšd: 'to reach, conquer'"
-desc: "Proto-Semitic *kšd, 'to reach, conquer': reflexes in 1 language(s)."
+desc: "Proto-Semitic *kšd, 'to reach, conquer': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S52"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ikšud (OLA80 §54.6) | OLA80 §54.6 | gloss withheld |
+| Eblaitic | nu-gú-su-da-su /k-S-d/ (Sanmartín GlOS 1, 322) | Sanmartín GlOS 1, 322 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

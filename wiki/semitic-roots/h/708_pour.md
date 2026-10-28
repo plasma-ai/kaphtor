@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/708_pour
 title: "*hVmVw/y-: 'pour'"
-desc: "Proto-Semitic *hVmVw/y-, 'pour': reflexes in 1 language(s)."
+desc: "Proto-Semitic *hVmVw/y-, 'pour': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "708"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | hmw, hmy \[-i-, -u-\] |  |  |
+| Amorite | h-m-w: cf. ia-aḫ-mu-ú, ia-aḫ-mu-ᵈda-gan (Sanmartín GlOS 1, 217) | Sanmartín GlOS 1, 217 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

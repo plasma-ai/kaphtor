@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | yarbūʕ- 'jerboa' \[BK 1 811\], \[LA VIII 111\], yurbūʕ- id. \[BK 2 1626\] (both forms in \[Fr. IV 517\], \[Lane 1020\]) | BK 1 811; LA VIII 111; BK 2 1626; Fr. IV 517; Lane 1020 |  |
 | Akkadian | arrabu (arrabû, f. arrabtu) OB on \[CAD a2 302\], \[AHw. 70\] | CAD a2 302; AHw. 70 | gloss withheld |
-| Eblaitic | a-ra-bù-um, ar-ra-bù = NI.PÉS̆ \[MEE 4 873\]. | MEE 4 873 |  |
+| Eblaitic | a-ra-bù-um, ar-ra-bù = NI.PÉS̆ \[MEE 4 873\] (Civil 2017, 126).; a-ra-bù(-um) /yarbuʿ/ (Sanmartín GlOS 2, 376) | MEE 4 873; Civil 2017, 126; Sanmartín GlOS 2, 376 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/2606_to_spread_out_curtain_divider
 title: "*prŝ: 'to spread out; curtain, divider'"
-desc: "Proto-Semitic *prŝ, 'to spread out; curtain, divider': reflexes in 10 language(s)."
+desc: "Proto-Semitic *prŝ, 'to spread out; curtain, divider': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2606"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | pāraś (HALOT 975); mipraś (HALOT 618) | HALOT 975; HALOT 618 | gloss withheld |
 | Judaic Aramaic | JPA prās (DJPA 448 apud SEDonline 1293) | DJPA 448; SEDonline 1293 | gloss withheld |
 | Syrian Aramaic | pras (Kogan 2015, ch. 2 §5.2.2.3 no. 8) | Kogan 2015 ch. 2 §5.2.2.3 no. 8 | gloss withheld |
+| Eblaitic | cf. bar-su-um /parS/ (Sanmartín GlOS 2, 137) | Sanmartín GlOS 2, 137 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 10a .8 ME-ZA 3, the last issue of emmer under KU-NI-SU, after DA-RE 16½, U-\*325-ZA and DA-RI-DA 8 (GORILA I 20–21); HT 85b ME-ZA 1, among single entries under KI-KI-RA-JA beside QA-\*310-I qaynī 'smith' (GORILA I 130–131). Alalakh writes the gang ma-zi and issues it grain (CAD M/1 327), as HT 10a issues ME-ZA emmer. The word of MA-ZA mazza (ZA 10b); ME for ma is a vowel mismatch only. Rival: the Hurrian name mzy, ma-zi-i (DULAT 600).
+HT 10a .8 ME-ZA 3, the last issue under KU-NI-SU 'the assembly', after DA-RE 16½, U-\*325-ZA and DA-RI-DA 8 (GORILA I 20–21); HT 85b ME-ZA 1, among single entries under KI-KI-RA-JA beside QA-\*310-I qaynī 'smith' (GORILA I 130–131). Alalakh writes the gang ma-zi and issues it grain (CAD M/1 327), as HT 10a issues ME-ZA 3. The word of MA-ZA mazza (ZA 10b); ME for ma is a vowel mismatch only. Rival: the Hurrian name mzy, ma-zi-i (DULAT 600).
 
 ### Cognates
 
@@ -86,6 +86,6 @@ Massu 'corvée gang', the word of MA-ZA: ME-ZA 3 closes the emmer issues of HT 1
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star301|\*301]] nawā, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star301|\*301]] nawā, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunīšu, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
 
 <!-- END kaphtor:record -->

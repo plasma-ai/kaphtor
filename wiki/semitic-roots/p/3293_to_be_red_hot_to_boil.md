@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*plḥ |
 | Meaning | 'to be red-hot; to boil' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1756 |
 
 ## Reflexes
 
@@ -42,6 +43,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*plḥ 'to be red-hot' (EDA I 222 apud SEDonline 1756). Cf. 1752 \*pVlaḥ- 'split; till'.
+PS \*plḥ 'to be red-hot' (SEDonline 1756); EDA I 222 (◊P0376) connects Akk. pelû 'to be red' with Gz. falḥa and its EthS cognates, which would suggest an underlying meaning 'to be red-hot'. Cf. 1752 \*pVlaḥ- 'split; till'.
 
 <!-- END kaphtor:record -->

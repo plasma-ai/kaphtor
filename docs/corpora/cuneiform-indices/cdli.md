@@ -11,7 +11,7 @@ updated: 2026-10-22T18:14:10Z
 
 ## Scope
 
-This index describes the local 2026-10-09 CDLI text-only snapshot. It counts catalogue artifacts separately from text versions. Eight canonical P-numbers have two distinct ATF versions, and both versions are retained. Catalogue labels and target slices overlap; their counts are not additive.
+This index describes the local 2026-10-09 CDLI text-only snapshot, which is not in this repository, nor are the files it names under `data/ingest/`. It counts catalogue artifacts separately from text versions. Eight canonical P-numbers have two distinct ATF versions, and both versions are retained. Catalogue labels and target slices overlap; their counts are not additive.
 
 ## Corpus baseline
 

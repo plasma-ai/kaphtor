@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | QALAN-B šḫoh (and other dialectal forms) \[SSL LS 1476\]; šḥoʰ (SLOnline 6175). | SSL LS 1476; SLOnline 6175 | gloss withheld |
 | Akkadian | šaḫātu OA, OB on \[CAD š1 81\], \[AHw 1129\]. | CAD š1 81; AHw 1129 |  |
 | Harsusi | mešḫáwt \[JH 125\]. | JH 125 |  |
-| Eblaitic | iš/sa-ḫa-tum /šaḫātum/ \[Kr 21; Bl E No. 85\] | Kr 21 |  |
+| Eblaitic | iš/sa-ḫa-tum /šaḫātum/ \[Kr 21; Bl E No. 85\]; sa-ḫa-tum, iš-ḫa-tum /Saḫat, ʾiSḫat/ (Sanmartín GlOS 2, 240) | Kr 21; Sanmartín GlOS 2, 240 | gloss withheld |
 | Jibbali | šḫɔ́t \[JJ 264\] | JJ 264 |  |
 | Hebrew | PB šäḥī, šēḥī \[Ja 1547\]. | Ja 1547 |  |
 | Judaic Aramaic | šǝḥā(ʔ)tā, šaḥătā \[Ja 1545, 1552\] | Ja 1545, 1552 |  |

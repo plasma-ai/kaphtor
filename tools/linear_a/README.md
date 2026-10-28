@@ -40,7 +40,8 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 `analysis/` holds the engine's phases, each also a command: `ventris_stats.py`, `ventris_grid.py`,
 `ventris_paradigms.py`, `ventris_ideograms.py`, `ventris_toponyms.py`, `ventris_morphology.py`, and
 `affix_doublet_miner.py`. Beside them: sign and spelling statistics (`sign_analysis.py`, `slot_grammar.py`,
-`orthographic_audit.py`), the fraction signs (`fraction_arithmetic.py`), language-layer sweeps
+`orthographic_audit.py`, `series_minimal_pairs.py`, minimal pairs between consonant series against a slot-matched
+permutation null), the fraction signs (`fraction_arithmetic.py`), language-layer sweeps
 (`luwian_detector.py`, `wy_isogloss_sweep.py`, `branch_distribution.py`, `amorite_grammar_sweep.py`,
 `amorite_template_match.py`, `gordon_morphology_overlay.py`, `morphology_sign_constraints.py`), the Linear B name
 bridge (`lb_onomastic_bridge.py`), and `lb_roc_calibration.py`, which writes the thresholds
@@ -50,9 +51,43 @@ install a run; the file it replaces is backed up first). By default outputs go t
 `validation/` holds `null_model_audit.py` (permutation nulls for the skeleton matcher and its lenses),
 `root_match_phase0.py` (the Shoresh gold set and baselines; its `gold*` and `baseline*` commands write fixtures),
 `root_match_checks.py` (the Shoresh pre-gold checks), the database and guttural audits (`db_composition_audit.py`,
-`guttural_audit.py`, `guttural_compression_analysis.py`), `hapax_analysis.py`, `blind_corpus_test.py`, and
+`guttural_audit.py`, `guttural_compression_analysis.py`), `hapax_analysis.py`, `blind_corpus_test.py`,
+`meaning_shuffle.py` (the meaning-shuffle test, refused without its signed pre-registration, `--prereg`),
+`meaning_shuffle_power.py` (that test's calibration and power on fabricated and planted words; writes `--out`),
+`paradigm_b.py` (verifies the frozen paradigm B test against its hashes and reproduces its numbers),
+`protocol_c.py` (verifies Protocol C's C0 and C1 record against its hashes and reruns its C1 checks), and
 `check_unread_words.py`, which reports drift between `unread_words.json` and the corpus and writes nothing.
 `--save` runs go through `tools/core/run_saver.py`, so `ventris_runs.py` lists them.
+
+## What the tests show
+
+Distance matches at d ≤ 0.3–0.5 are saturated: at budget 0.3 with guttural transparency the Semitic skeleton
+database matches about 90% of any consonant sequence. A match count or match rate at those thresholds is evidence for
+no language, and the ranking tools (`cognate_search.py`, `sign_proposer.py`, the Ventris Engine, `luwian_detector.py`,
+`branch_distribution.py`, the Amorite sweeps) give rankings, not tests.
+
+- `blind_corpus_test.py`: pre-registered 2026-07-06, and failed (z = −0.72 against the sign-value permutation null).
+  Its threshold sweep is post hoc.
+- `null_model_audit.py`: diagnostic only. Its p is a normal approximation, its `significant` and `bonferroni` flags
+  ignore the saturation, and pooling consonants breaks real phonotactics, which favours any real word list.
+- `lb_onomastic_bridge.py`: whether Linear A names, read with Linear B values, recur in the Linear B archives. It tests
+  the values and the names Crete shared, not the language. The syllable-shuffle null is lenient: report the
+  position-matched null and exact match first.
+- `root_match.py` (Shoresh): pre-registered; the gold run (`--calibrate`) is not built. A per-word p is uncorrected
+  across words, and the default readings include proposed sign values: family C alone tests the value grid.
+- `meaning_shuffle.py`: the pre-registration is unsigned and the test has not run. The registered values include
+  proposed sign values, so `--conventional-values` (Linear B values only) is the check that no proposed value carries
+  the result.
+- `logogram_analyzer.py`: complementary distribution is a left-tail Fisher test per full form, uncorrected. Tablets are
+  not independent, and site and genre confound it.
+- `paradigm_b.py`: verifies and reproduces the paradigm B test (`docs/paradigm-b-preregistration.md`). Its calibration
+  gate failed, so it gives no probability for any language (`docs/paradigm-b-result.md`).
+- `protocol_c.py`: verifies Protocol C's record (`docs/protocol-c-preregistration.md`) and reruns its C1 checks. The
+  protocol is signed and its six blind inventories are built, but nothing has been rendered or scored, so it gives no
+  result for any language.
+- Not evidence for now: `hypothesis_test.py` (a per-candidate p < 0.05 gate with no correction, and a neighbour axis
+  that counts the project's own CONFIRMED and PROBABLE readings) and `analysis/wy_isogloss_sweep.py` (run in the
+  saturated band, uncorrected across its cells).
 
 ## Images, fetches and renders
 

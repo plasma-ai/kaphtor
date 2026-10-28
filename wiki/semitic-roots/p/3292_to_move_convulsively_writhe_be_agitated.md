@@ -44,6 +44,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*prpr 'to move convulsively, to be in panic, agitation, agony' (EDA I 201 apud SEDonline 1749). Cf. 515 \*pVr- 'break' and its reduplicated stem \*prpr 'to break, to crush' (SEDonline 1748).
+PWS \*prpr 'to move convulsively, to be in panic, agitation, agony' (EDA I 201, ◊P0335; SEDonline 1749). Cf. 515 \*pVr- 'break' and its reduplicated stem \*prpr 'to break, to crush' (EDA I 201, ◊P0335; SEDonline 1748).
 
 <!-- END kaphtor:record -->

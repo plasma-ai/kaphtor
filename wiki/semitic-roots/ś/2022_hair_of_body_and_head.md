@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ŝáʕihor (pl.) \[LS 432\] \[SSL LS 1472\]; QALAN-V ŝä́ʕihoer \[SSL 4 97\] | LS 432; SSL LS 1472; SSL 4 97 | gloss withheld |
 | Akkadian | šārtu OB on \[CAD š2 125\], \[AHw 1191\]. | CAD š2 125; AHw 1191 | gloss withheld |
 | Harsusi | ŝōr \[JH 117\] | JH 117 | gloss withheld |
-| Eblaitic | sa-ra-tum, šè-ra-du-um /syaʕratum/ \[Fr 180; Kr 35; Bl E No. 28\] | Fr 180; Kr 35 |  |
+| Eblaitic | sa-ra-tum, šè-ra-du-um /syaʕratum/ \[Fr 180; Kr 35; Bl E No. 28\]; sa-ra-tum, šè(?)-ra-du-um, si-rí-a-du /Saʿrat, Seʿrat/ (Sanmartín GlOS 2, 271) | Fr 180; Kr 35; Sanmartín GlOS 2, 271 | gloss withheld |
 | Mandaic Aramaic | sara \[DM 315\] | DM 315 | gloss withheld |
 | Ugaritic | šʕrt \[Aist 312\], /šaʕartu/ (UVST 183) | Aist 312; UVST 183 | gloss withheld |
 | Geez | ŝǝʕǝrt \[LGz 525\]. | LGz 525 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/3122_grow_dark_be_black
 title: "*ẓlm: 'grow dark, be black'"
-desc: "Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 19 language(s)."
+desc: "Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3122"
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | həḏ̣láwm (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
 | Jibbali | ḏ̣əliũt (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
 | Soqotri | ṭlm (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
+| Amorite | ṯ̣alm: ṣa-al-ma-nu-um (Ur III) (Sanmartín GlOS 2, 334) | Sanmartín GlOS 2, 334 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

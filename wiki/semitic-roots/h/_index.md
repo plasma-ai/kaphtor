@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/h
 desc: "Semitic roots whose first radical is h."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-29T00:24:55Z
 ---
 
 # wiki/semitic-roots/h
@@ -81,9 +81,9 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/h/3033_hither_here|3033_hither_here]]: Proto-Semitic *halum(ma), 'hither, here': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/h/3036_to_praise_cheer|3036_to_praise_cheer]]: Proto-Semitic *hVll-, 'to praise, cheer': reflexes in 7 language(s).
+[[wiki/semitic-roots/h/3036_to_praise_cheer|3036_to_praise_cheer]]: Proto-Semitic *hVll-, 'to praise, cheer': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/h/3186_thunder|3186_thunder]]: Proto-Semitic *hadad-, 'thunder': reflexes in 9 language(s).
+[[wiki/semitic-roots/h/3186_thunder|3186_thunder]]: Proto-Semitic *hadad-, 'thunder': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/h/3245_this_deictic_element|3245_this_deictic_element]]: Proto-Semitic *hanni-, 'this (deictic element)': reflexes in 5 language(s).
 
@@ -99,11 +99,11 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/h/3471_to_suffer_cold_perish_of_cold|3471_to_suffer_cold_perish_of_cold]]: Proto-Semitic *hrʾ, 'to suffer cold, perish of cold': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/h/3472_here|3472_here]]: Proto-Semitic *hn, 'here': reflexes in 6 language(s).
+[[wiki/semitic-roots/h/3472_here|3472_here]]: Proto-Semitic *hn, 'here': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/h/3482_behold|3482_behold]]: Proto-Semitic *hn, 'behold': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/h/3491_to_flee|3491_to_flee]]: Proto-Semitic *hrb, 'to flee': reflexes in 3 language(s).
+[[wiki/semitic-roots/h/3491_to_flee|3491_to_flee]]: Proto-Semitic *hrb, 'to flee': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/h/3563_war_battle|3563_war_battle]]: Proto-Semitic *hyg, 'war, battle': reflexes in 2 language(s).
 
@@ -133,7 +133,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/h/579_strike|579_strike]]: Proto-Semitic *hVbag-, 'strike': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/708_pour|708_pour]]: Proto-Semitic *hVmVw/y-, 'pour': reflexes in 1 language(s).
+[[wiki/semitic-roots/h/708_pour|708_pour]]: Proto-Semitic *hVmVw/y-, 'pour': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/h/726_soak_be_wet|726_soak_be_wet]]: Proto-Semitic *hVlVb-, 'soak, be wet': reflexes in 1 language(s).
 

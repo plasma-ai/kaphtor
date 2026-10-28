@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | dibn- |  |  |
+| Arabic | dibn-; dibn 'enclos pour les bestiaux en plein champ' (BK 1 668); 'caula gregis, mandra' (Freytag 2 7) | BK 1 668; Freytag 2 7 |  |
 | Syrian Aramaic | debn- |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

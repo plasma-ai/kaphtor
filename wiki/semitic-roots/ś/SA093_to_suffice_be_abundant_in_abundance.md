@@ -34,7 +34,7 @@ updated: 2026-10-25T05:11:48Z
 | Judaic Aramaic | JPA spḳ (DJPA 386 apud SEDonline 2160); JBA spḳ (DJBA 827 apud SEDonline 2160) | DJPA 386; SEDonline 2160; DJBA 827 | gloss withheld |
 | Syrian Aramaic | spḳ (LSyr. 491 apud SEDonline 2160) | LSyr. 491; SEDonline 2160 | gloss withheld |
 | Tigre | šafḳa (WTS 231 apud SEDonline 2160) | WTS 231; SEDonline 2160 | gloss withheld |
-| Amorite | śipqu (Buck 2019, 332) | Buck 2019, 332 | gloss withheld |
+| Amorite | śipqu (Buck 2019, 332); Sipq: si-ip-ku-na-da, si-ip-ku-na-ᵈIM (Sanmartín GlOS 2, 277) | Buck 2019, 332; Sanmartín GlOS 2, 277 | gloss withheld |
 | Emar | sa-pí-qu /sapiqū/ (Pentiuc 2001, 155) | Pentiuc 2001 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

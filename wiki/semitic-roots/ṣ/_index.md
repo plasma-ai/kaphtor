@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ
 desc: "Semitic roots whose first radical is ṣ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/ṣ
@@ -21,11 +21,11 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ṣ/1331_be_white_1_shimmer_2_be_clear_3|1331_be_white_1_shimmer_2_be_clear_3]]: Proto-Semitic *ṣVḥ-, 'be white' 1, 'shimmer' 2, 'be clear' 3: reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ṣ/1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war|1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war]]: Proto-Semitic *ṣ/ṣ̂V̄bVʾ- ~ *ṣ/ṣ̂ābaʾ-, 'army' 1, 'warfare' 2, 'soldiers' 3, 'wage war' 4, 'go to war' 5, 'come out against someone' 6: reflexes in 10 language(s).
+[[wiki/semitic-roots/ṣ/1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war|1333_army_1_warfare_2_soldiers_3_wage_war_4_go_to_war]]: Proto-Semitic *ṣ/ṣ̂V̄bVʾ- ~ *ṣ/ṣ̂ābaʾ-, 'army' 1, 'warfare' 2, 'soldiers' 3, 'wage war' 4, 'go to war' 5, 'come out against someone' 6: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ṣ/1479_shout|1479_shout]]: Proto-Semitic *ṣVwat-, 'shout': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṣ/1480_observe|1480_observe]]: Proto-Semitic *ṣVpVy-, 'observe': reflexes in 7 language(s).
+[[wiki/semitic-roots/ṣ/1480_observe|1480_observe]]: Proto-Semitic *ṣVpVy-, 'observe': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ṣ/1482_warm_v|1482_warm_v]]: Proto-Semitic *ṣVrVḫ-, 'warm' (v.): reflexes in 1 language(s).
 
@@ -139,7 +139,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ṣ/3576_to_protect_guard_to_decide|3576_to_protect_guard_to_decide]]: Proto-Semitic *ṣry, 'to protect, guard; to decide': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ṣ/3588_silver|3588_silver]]: Proto-Semitic *ṣrp, 'silver': reflexes in 3 language(s).
+[[wiki/semitic-roots/ṣ/3588_silver|3588_silver]]: Proto-Semitic *ṣrp, 'silver': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ṣ/3607_bag_purse|3607_bag_purse]]: Proto-Semitic *ṣrr, 'bag, purse': reflexes in 4 language(s).
 
@@ -231,7 +231,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ṣ/K0824_argue|K0824_argue]]: Proto-Semitic *ṣVʾVl-, 'argue': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṣ/K0825_exit|K0825_exit]]: Proto-Semitic *ṣVʾVt-, 'exit': reflexes in 4 language(s).
+[[wiki/semitic-roots/ṣ/K0825_exit|K0825_exit]]: Proto-Semitic *ṣVʾVt-, 'exit': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ṣ/K0826_go|K0826_go]]: Proto-Semitic *ṣVʿVd-, 'go': reflexes in 4 language(s).
 

@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/D/DE_DI
 title: "DE-DI"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "Dedī: 'my beloved'. Onomasticon personal name; lexicon entry TA-DI."
+tags: ["linear-a", "word"]
 kind: "word"
 form: "DE-DI"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["onomasticon"]
 attestations: ["HT94b"]
+reading: "Dedī"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -31,28 +32,29 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | DE-DI | PN (unresolved) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | Dedī | PN, 'my beloved' (√d-w-d) | SPECULATIVE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
+| Reading | Dedī |
+| Meaning | 'my beloved' |
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
-| Entry | auto |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Lexicon entry | [[wiki/linear-a/words/T/TA_DI\|TA-DI]] |
+
+### Note
+
+HT 94b .2 DE-DI 1, in the KI-RO list of five one-unit entries (GORILA I 153). Dedī 'my beloved', as the Ugaritic PN ddy, syll. da-de₄-ya (DULAT 264); the alternate spelling of TA-DI dādī. See the lexicon entry TA-DI.
 
 ### Co-occurring lexicon words
 
 Readings from the lexicon as it stands: DE-ME-TE, [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]] Kakkaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
-
-## Unread
-
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
-
-HT 94b .2 DE-DI 1, whole and undotted, in the list headed KI-RO ·, after PA-TA-NE 1 and before KE-KI-RU 1 (GORILA I 153). No reading.
 
 <!-- END kaphtor:record -->

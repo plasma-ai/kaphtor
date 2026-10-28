@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0743_sword
 title: "*ḥereb-: 'sword'"
-desc: "Proto-Semitic *ḥereb-, 'sword': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḥereb-, 'sword': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0743"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | harba (LGz. 241; Drower/Macuch 126b apud CAL) | LGz. 241; Macuch 126b; CAL |  |
 | Epigraphic South Arabian | Sab ḥrb (Kogan 2015, ch. 3 §5.3 no. 13; Sabaweb lemma 1707) | Kogan 2015 ch. 3 §5.3 no. 13; Sabaweb lemma 1707 | gloss withheld |
 | Syrian Aramaic | ḥarbā (Kogan 2015, ch. 3 §5.3 no. 13) | Kogan 2015 ch. 3 §5.3 no. 13 | gloss withheld |
+| Amorite | ḥarb: cf. ar-ba-ta-nu(-um), ar-bi-tu-ra-am (Sanmartín GlOS 1, 248) | Sanmartín GlOS 1, 248 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

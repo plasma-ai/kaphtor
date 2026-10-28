@@ -43,6 +43,7 @@ Evidence: TELA+\*312 (HT38) fits; \*312 1 sits in a name list (HT49a)
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star312\|\*312]] | kitnu | CANDIDATE |
+| [[wiki/linear-a/words/star/star312_TA\|\*312-TA]] | gitta | SPECULATIVE |
 | [[wiki/linear-a/words/star/star312_TE_TE\|\*312-TE-TE]] | kitītu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

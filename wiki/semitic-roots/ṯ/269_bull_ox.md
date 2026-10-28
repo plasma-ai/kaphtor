@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/269_bull_ox
 title: "*ṯawr-: 'bull, ox'"
-desc: "Proto-Semitic *ṯawr-, 'bull, ox': reflexes in 18 language(s)."
+desc: "Proto-Semitic *ṯawr-, 'bull, ox': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "269"
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | sor 'castrated one of goats' \[Bass. 176\] | Bass. 176 |  |
 | Modern Aramaic | M. Mnd. tūrta/ā, Maʕl. ṯaura, Mlḥ. tawro, Hrt. tora, Krd. tawra, NSyr. tôrâ, Azr. tora, NAssyr. tōrā, JNA tōra, tawra, Tlk. tōra, Ass. tōra, Tur. tawro (SED II 308) | SED II 308 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ṯr (Al-Jallad–Jaworska 136) | Al-Jallad–Jaworska 136 | gloss withheld |
+| Amorite | Suwr, ṯuwr: šu-ra-nu, ab-du-šu-ri-im (Sanmartín GlOS 2, 330) | Sanmartín GlOS 2, 330 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

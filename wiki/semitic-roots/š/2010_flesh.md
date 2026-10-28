@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2010_flesh
 title: "*šiʾr- {} *siʾr-: 'flesh'"
-desc: "Proto-Semitic *šiʾr- {} *siʾr-, 'flesh': reflexes in 6 language(s)."
+desc: "Proto-Semitic *šiʾr- {} *siʾr-, 'flesh': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2010"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šǝʔēr (HALOT 1378, 1379) | HALOT 1378, 1379 | gloss withheld |
 | Punic | šʾr (HALOT 1378) | HALOT 1378 |  |
 | Soqotri | širhi (HALOT 1378) | HALOT 1378 |  |
+| Eblaitic | si-rí, si-ru₁₂-um /Siʾr/ (Sanmartín GlOS 2, 231) | Sanmartín GlOS 2, 231 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

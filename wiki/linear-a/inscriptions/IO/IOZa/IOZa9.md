@@ -76,6 +76,6 @@ IO Za 9 is preserved on the broken corner of a square marble libation table. Lin
 
 ## Corpus note
 
-Corner of a square marble libation table (HM 3898). Line a, retrograde, keeps \]JA-SA-SA- and line b, after the divider, U̇-NA-KA-\[, the two running outward from the corner; GORILA restores RA-ME and NA-SI from the formula (V 32–33), as does Younger. JA-SA-SA-RA-ME is read in full on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1, PK Za 8, SY Za 2 and TL Za 1. The former JA-SA-SA-RA-ME and U-NA-KA-NA-SI printed the restorations as read.
+Corner of a square marble libation table (HM 3898). Line a, retrograde, keeps \]JA-SA-SA- and line b, after the divider, U̇-NA-KA-\[, the two running outward from the corner; GORILA restores RA-ME and NA-SI from the formula (V 32–33), as does Younger. JA-SA-SA-RA-ME is read in full on IO Za 6 and PS Za 2, U-NA-KA-NA-SI on KO Za 1, PK Za 8, SY Za 2 and TL Za 1.
 
 <!-- END kaphtor:record -->

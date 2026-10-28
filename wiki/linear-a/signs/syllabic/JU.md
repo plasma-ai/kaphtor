@@ -39,7 +39,7 @@ Evidence: l and d 17/20, r 15/20; the /ra/ elimination assumes no repeated sign,
 | Value | Confidence | Evidence |
 |---|---|---|
 | /la/ | 0.85 | Vowel coloring uncertain—root identification confirms /l/ regardless of inherent vowel |
-| /yu/ | 0.50 | Another possible value: KNZc6 JU-KU-NA = yukūna 'shall be established' (√k-w-n, DULAT 442); Linear B \*65 = ju (Melena 43–44). l stays primary. |
+| /yu/ | 0.50 | Second value of the same sign, not a rival: JU is a palatal liquid, /ʎu/ ~ /lʸu/. KNZc6 JU-KU-NA = yukūna 'shall be established' (√k-w-n, DULAT 442); A-RA-JU = ᵘʳᵘA-ra-yu (RGTC 12/2, 30); Linear B \*65 = ju (Melena 2014, 16). l stays primary. |
 
 ### Forms cited for the value
 
@@ -49,12 +49,13 @@ Evidence: l and d 17/20, r 15/20; the /ra/ elimination assumes no repeated sign,
 
 ### Note
 
-Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /la/, JU = /lu/. Both fill the L/R distinction gap needed by Semitic substrate. \|\| Position rule: (a) standalone JU + numeral/fraction in a list (ARKH4a, HT68, HT97a, HT108, ZA11a) = commodity ABBREVIATION, gloss 'flour (commodity)' CANDIDATE—a GORILA positional gloss, not acrophonic (no Semitic flour word is /l/-initial); mark '\[commodity?\]' where ambiguous. (b) standalone JU without quantity, separator-delimited votive context (KNZb4 'JU 𐄁 JA-SI 𐄁 SI') = syllabic /lu/—dedicatory preposition l(u) 'to/for' or asseverative lū, CANDIDATE. (c) word-internal JU = /lu/ or /yu/ (below). \*ḳamḥ- 'flour' for KE-JU-MI stays rejected (unaccounted l). \|\| yu is another possible value (Linear B \*65 = ju, Melena 43–44): the verb prefix in KNZc6 JU-KU-NA yukūna 'shall be established' (√k-w-n, DULAT 442) and the endings -iyyu, -y (KU-RE-JU beside KU-RE).
+Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /la/, JU = /lu/. Both fill the L/R distinction gap needed by Semitic substrate. \|\| Position rule: (a) standalone JU + numeral/fraction in a list (ARKH4a, HT68, HT97a, HT108, ZA11a) = commodity ABBREVIATION, gloss 'flour (commodity)' CANDIDATE—a GORILA positional gloss, not acrophonic (no Semitic flour word is /l/-initial); mark '\[commodity?\]' where ambiguous. (b) standalone JU without quantity, separator-delimited votive context (KNZb4 'JU 𐄁 JA-SI 𐄁 SI') = syllabic /lu/—dedicatory preposition l(u) 'to/for' or asseverative lū, CANDIDATE. (c) word-internal JU = /lu/ or /yu/ (below). \*ḳamḥ- 'flour' for KE-JU-MI stays rejected (unaccounted l). \|\| JU writes a palatal liquid, /ʎu/ ~ /lʸu/: lu in Semitic roots (DA-JU-TE, SU-JU-TA), yu where the word needs the glide (KNZc6 JU-KU-NA yukūna, √k-w-n, DULAT 442; the endings -iyyu, -y, KU-RE-JU beside KU-RE; A-RA-JU ʾArāyu = ᵘʳᵘA-ra-yu, RGTC 12/2, 30). It is the u-member of RA₂'s series: Linear B \*76 ra₂ = /rya, lya/ and ro₂ = /ryo, lyo/, 'liquid yodized resonants', \*76 'already attested in Linear A' (Melena 2014, 63); Linear A had 'a series of post-palatalized and post-labialized consonants' (Palaima 2020, 8). Linear B took JU over as \*65, which writes both ju and zu (Melena 2014, 16), and renders Linear A JU words with a glide: ku-ma-ju &gt; ka-ma-jo, qa-ti-ju &gt; qa-ti-ja (Davis 2026, 162–163).
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] | ʾArāyu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_JU_TE\|DA-JU-TE]] | dalut | CANDIDATE |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] | ʾukulti | SPECULATIVE |

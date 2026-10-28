@@ -42,7 +42,7 @@ updated: 2026-10-27T21:50:34Z
 
 ### Note
 
-The only word on each of two Early Bronze Age clay spindle whorls from Troy; Godart suggests the workshop patron's name (Godart 1994, 721). See the unread_words entry. No reading.
+The only word on each of two Early Bronze Age clay spindle whorls from Troy; Godart suggests the workshop patron's name (Godart 1994, 721). No reading.
 
 ## Unread
 

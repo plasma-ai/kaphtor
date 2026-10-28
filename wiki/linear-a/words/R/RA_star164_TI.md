@@ -32,8 +32,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Ra-?-ti (\*164 unread) | institutional/account heading—\*164 is non-phonetic (standalone on 12-13 Khania roundels), so the label is functionally read, not vocalized | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | Ra-?-ti (\*164 unread) | institutional/account heading—\*164 is non-phonetic (standalone on 12-13 Khania roundels), so the label is functionally read, not vocalized | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Ra-\*164-ti (\*164 unread) | institutional/account heading—\*164 is non-phonetic (standalone on 12-13 Khania roundels), so the label is functionally read, not vocalized | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | Ra-\*164-ti (\*164 unread) | institutional/account heading—\*164 is non-phonetic (standalone on 12-13 Khania roundels), so the label is functionally read, not vocalized | CANDIDATE |
 
 ## Onomasticon
 

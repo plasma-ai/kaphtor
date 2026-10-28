@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Probable personal name in the damaged HT126a administrative list, immediately followed by 1. Ugaritic alphabetic śdy is attested as a PN in šmbʿl bn śdy (BAH 214, 7, o 14), and syllabic {m}ša-di-ia occurs at Ugarit in RS 15.0173, r. 2′. The first-vowel difference prevents treating the syllabic spelling as identical, but the consonantal and onomastic agreement is strong. The former derivation 'of Shaddai' is withdrawn; comparison with the Semitic field/estate root remains a lexical rival, not the adopted name etymology.
+Probable personal name in the damaged HT126a administrative list, immediately followed by 1. Ugaritic alphabetic śdy is attested as a PN in šmbʿl bn śdy (BAH 214, 7, o 14), and syllabic {m}ša-di-ia occurs at Ugarit in RS 15.0173, r. 2′. The first-vowel difference prevents treating the syllabic spelling as identical, but the consonantal and onomastic agreement is strong. It is not 'of Shaddai'; the Semitic field/estate root remains a lexical rival, not the name's etymology.
 
 ### Source
 

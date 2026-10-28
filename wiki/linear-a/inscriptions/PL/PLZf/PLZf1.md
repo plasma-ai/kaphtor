@@ -59,13 +59,13 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/W/WI_TE_JA_MU\|WI-TE-JA-MU]] | Widd-tiyāmu | Beloved of the Deep | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | the burning one (f.) | SPECULATIVE | SPECULATIVE (lexicon) |
 | JA-SA-SA-RA-\[ME?\] | yaššaram | in righteousness(?) | CANDIDATE |  |
-| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ (?) | chant a dirge!(?) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn (?) | offspring(?) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | chant a dirge!(?) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn | offspring(?) | SPECULATIVE | SPECULATIVE (lexicon) |
 | \[?\]-I-\[?\] |  | \[I within a damaged word\] |  |  |
 
 ### Notes
 
-PL Zf 1 is a fragmentary LM I inscription on a silver pin from the immediate vicinity of Platanos Tholos A, a funerary rather than peak-sanctuary context (Monti 2022, 113). It is read sinistroverse. Initial \]TA and final \[?\]-I-\[?\] are word fragments, WI and MU in WI-TE-JA-MU are doubtful, and the ending of JA-SA-SA-RA-\[ME?\] is restored. The final preserved phrase is now provisionally read /tannî qînâ nīnūn/, ‘Chant a dirge, O offspring.’ The lack of a divider within TA-NU-NI-KI-NA and the ambiguity between grammatically regular plural/collective -ūn and case -un keep the identifications speculative; the morphology itself is well formed. ‘Posterity’ remains a possible interpretive gloss for /nīnūn/, not the direct translation. Duhoux's structural analysis makes WI-TE-JA-MU and U-QE-TI possible onomastic X-terms, but this is a syntactic classification, not a decipherment.
+PL Zf 1 is a fragmentary LM I inscription on a silver pin from the immediate vicinity of Platanos Tholos A, a funerary rather than peak-sanctuary context (Monti 2022, 113). It is read sinistroverse. Initial \]TA and final \[?\]-I-\[?\] are word fragments, WI and MU in WI-TE-JA-MU are doubtful, and the ending of JA-SA-SA-RA-\[ME?\] is restored. The final preserved phrase is provisionally read /tannî qînâ nīnūn/, ‘Chant a dirge, O offspring.’ The lack of a divider within TA-NU-NI-KI-NA and the ambiguity between grammatically regular plural/collective -ūn and case -un keep the identifications speculative; the morphology itself is well formed. ‘Posterity’ remains a possible interpretive gloss for /nīnūn/, not the direct translation. Duhoux's structural analysis makes WI-TE-JA-MU and U-QE-TI possible onomastic X-terms, but this is a syntactic classification, not a decipherment.
 
 ### Source
 

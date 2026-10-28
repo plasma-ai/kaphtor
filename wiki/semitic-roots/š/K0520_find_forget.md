@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0520_find_forget
 title: "*šakaḥ-: 'find', 'forget'"
-desc: "Proto-Semitic *šakaḥ-, 'find', 'forget': reflexes in 6 language(s)."
+desc: "Proto-Semitic *šakaḥ-, 'find', 'forget': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0520"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | šəkaḥ (HALOT 1489) | HALOT 1489 |  |
 | Syrian Aramaic | škaḥ 'find, meet; be able' (Payne Smith 576) | Payne Smith 576 |  |
 | Biblical Aramaic | škḥ (Kogan 2015, ch. 6 §9.2 no. 8) | Kogan 2015 ch. 6 §9.2 no. 8 | gloss withheld |
+| Amorite | miSkiḥ: cf. mi-is-ki-ḫi (Sanmartín GlOS 2, 241) | Sanmartín GlOS 2, 241 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

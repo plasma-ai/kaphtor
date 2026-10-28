@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/282_fly_n
 title: "*ḏVbVb-: 'fly' (n.)"
-desc: "Proto-Semitic *ḏVbVb-, 'fly' (n.): reflexes in 18 language(s)."
+desc: "Proto-Semitic *ḏVbVb-, 'fly' (n.): reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "282"
@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʔedbíboh \[LS 121\]. | LS 121 |  |
 | Akkadian | zumbu (zubbu, zunbu) OB on \[CAD z 154\], \[AHw. 1535-6\] | CAD z 154; AHw. 1535-6 | gloss withheld |
 | Harsusi | ḏebbēt \[JH 27\]. | JH 27 |  |
-| Eblaitic | za-ba-bù-um = NINza-bux(NI) \[MEE IV 368\]. | MEE IV 368 | gloss withheld |
+| Eblaitic | za-ba-bù-um = NINza-bux(NI) \[MEE IV 368\].; za-ba-bù-um /ḏab(a)b/ (Sanmartín GlOS 1, 159) | MEE IV 368; Sanmartín GlOS 1, 159 | gloss withheld |
 | Geez | zǝnb \[LGz. 640\]. | LGz. 640 | gloss withheld |
 | Gurage | (all dialects) zǝmb \[LGur. 708\]. | LGur. 708 | gloss withheld |
 | Jibbali | ḏǝbbɔ́t \[JJ 45\]. | JJ 45 |  |
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | zǝmb \[LArg. 227\] | LArg. 227 |  |
 | Tigrinya | zǝnbi 'fly' \[Bass. 735\]. | Bass. 735 |  |
 | Modern Aramaic | Maʕl. ḏappōpa, Mlḥ. dedve, Krd. didwa, NSyr. didwâ, JNA dɨdwā, dɨdūṯa, Tlk. dɨdwa, Ass. dɨdwa, Tur. didwōno (SED II 109) | SED II 109 |  |
+| Amorite | ḏab(a)b, ḏubāb: za-ab-bu-um, za-ba-bu-um, du-ba-bu-um, zu-ba-bu-um (Sanmartín GlOS 1, 159) | Sanmartín GlOS 1, 159 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

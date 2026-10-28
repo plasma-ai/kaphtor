@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/K0695_to_press_to_be_narrow_distressed
 title: "*ḍVwVq-: 'to press; to be narrow, distressed'"
-desc: "Proto-Semitic *ḍVwVq-, 'to press; to be narrow, distressed': reflexes in 11 language(s)."
+desc: "Proto-Semitic *ḍVwVq-, 'to press; to be narrow, distressed': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0695"
@@ -40,6 +40,7 @@ updated: 2026-10-26T15:47:57Z
 | Gurage | č̣əqäč̣äqä (LGz. 544) | LGz. 544 | gloss withheld |
 | Hebrew | ṣuwq (BDB 847); ṣûqâ (HALOT 1014–1015) | BDB 847; HALOT 1014–1015; Anderson–Moser 2024 root ṣwq | gloss withheld |
 | Ugaritic | ṣq (Š) (Tropper Kausativ 65; DULAT 778) | DULAT 778 | gloss withheld |
+| Eblaitic | cf. zi-kam₄ /ṣ́iyq/ (Sanmartín GlOS 2, 288) | Sanmartín GlOS 2, 288 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

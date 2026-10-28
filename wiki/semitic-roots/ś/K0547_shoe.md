@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/K0547_shoe
 title: "*śVʾVn-: 'shoe'"
-desc: "Proto-Semitic *śVʾVn-, 'shoe': reflexes in 10 language(s)."
+desc: "Proto-Semitic *śVʾVn-, 'shoe': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0547"
@@ -39,6 +39,7 @@ updated: 2026-10-24T15:25:56Z
 | Tigrinya | saʾni (LGz. 524) | LGz. 524 |  |
 | Harari | ašīn (LGz. 524) | LGz. 524 |  |
 | East Ethiopic | Zwy. ašən (LGz. 524) | LGz. 524 |  |
+| Eblaitic | sa-na (= Sum. ᵉGI₄×GI₄) (VE 1323; Civil 2017, 116, 152) | VE 1323; Civil 2017, 116, 152 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

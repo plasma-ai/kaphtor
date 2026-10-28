@@ -15,7 +15,7 @@ says how each sign is written and where it comes from. The values beyond Linear 
 
 | Field | Content |
 | --- | --- |
-| `ab_number`, `name` | the sign's number, and its label: a Linear B value (`da`), a logogram (`VIN`), a number (`*86`) or, for A325, its value `bu`; empty on 255 signs |
+| `ab_number`, `name` | the sign's number, and its label: a Linear B value (`da`), a logogram (`VIN`), a number (`*86`) or, for A325, its value `bu`; empty on 254 signs |
 | `unicode_codepoint`, `unicode_glyph` | the code point and character, on the 320 signs Unicode encodes |
 | `readings` | the sign's values, each `{value, consonant, vowel, source, confidence, is_primary, implications, status}`; *86's na carries a `note` |
 | `rendering` | `unicode`, `unicode_glyph`, `unicode_name`, `unicode_block`, `unicode_status`, `unicode_source_refs`, `tier`, the Noto `font`, and the SigLA image of one attestation (`sigla_image`, `sigla_url`; none for A400, A408VAS, A409VAS and A805). AB100 VIR and AB131 VIN add `unicode_alias_conflict`: the code point the sign does not take (`not_unicode`), and why |
@@ -24,11 +24,14 @@ says how each sign is written and where it comes from. The values beyond Linear 
 | `semantic_context` | for the same 20 signs, the `pictograph` |
 | `pictographic_note`, `classification`, `classification_note` | the description of one pictograph (AB04), and the commodity class of one logogram (A304) |
 
-**Status.** `conventional` marks the 49 Linear B values and AB76's `ra`: Linear B ra₂ is rya or lya, and AB76
-reads /la/ with /ra/ beside it. `speculative` marks a value no summary list holds: QA's za, SE's se2, *86's na
-(a mostly standalone sign whose syllabic value is undetermined) and *325's bu and at. Each reading keeps its own
-`confidence`: HIGH, MEDIUM or LOW, or for *86 and *325 the lexicon's tier word (SPECULATIVE). The readings are the Linear B values and these
-four signs' values; AU, TA₂ and the other values beyond Linear B are in `sign_values.json` alone.
+**Status.** `conventional` marks the 49 Linear B values, AB76's `ra` and AB79's `zu`: Linear B ra₂ is rya or
+lya, and AB76 reads /la/ with /ra/ beside it; Linear B *79 is tentatively zu (Davis 2026, 174 n. 641; Melena
+reads wo₂, *The Untransliterated Syllabograms*, §15). A value beyond Linear B takes the standing `sign_values.json`
+gives its sign: `proposed` marks ZU's ṯu, ḏu and ṯ̣u (the interdental range, which ZU writes before every vowel;
+ṯ̣ keyed ẓ), and `speculative` a value held in its sign record only: QA's za, SE's se2, *86's na (a mostly
+standalone sign whose syllabic value is undetermined), and *325's bu and at. Each reading keeps its own `confidence`: HIGH,
+MEDIUM or LOW, or for *86 and *325 the lexicon's tier word (SPECULATIVE; CANDIDATE on *325's bu). The readings are the Linear B values and
+these five signs' values; AU, TA₂ and the other values beyond Linear B are in `sign_values.json` alone.
 `tools/core/skeleton.py` and `root_match.py` read the non-primary readings as alternate consonants.
 
 **Rendering.** 320 signs have a standard Unicode code point (`unicode_status` STANDARD_UNICODE, tier

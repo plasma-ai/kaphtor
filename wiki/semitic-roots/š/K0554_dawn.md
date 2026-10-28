@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | šḥr 'dawn' | Anderson–Moser 2024 root šḥr |  |
 | Judaic Aramaic | šaḥrā (HALOT 1466) | HALOT 1466 | gloss withheld |
 | Arabic | saḥar (HALOT 1466) | HALOT 1466 | gloss withheld |
-| Eblaitic | si-EN-lum (Kogan 2011, 196; VE 776; Krebernik 1983, 29) | Kogan 2011 196; VE 776; Krebernik 1983, 29 |  |
+| Eblaitic | si-EN-lum (Kogan 2011, 196; VE 776; Krebernik 1983, 29); šè-er a-me-mu, ša-ar /Saḥ(a)r, Seḥ(e)r/ (Sanmartín GlOS 2, 238) | Kogan 2011 196; VE 776; Krebernik 1983, 29; Sanmartín GlOS 2, 238 | gloss withheld |
 | Jibbali | šḥor (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
 | Soqotri | ḥer (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
 | Emar | ša-aḫ-ri /šaḥru/ (Pentiuc 2001, 167) | Pentiuc 2001 167 | gloss withheld |

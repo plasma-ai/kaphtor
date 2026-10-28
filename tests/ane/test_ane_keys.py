@@ -144,6 +144,14 @@ class TestExpandQuran:
         assert "مني" in keys.expand(keys.parse_query("م ن ي"), "quran")
 
 
+class TestHyphenKeys:
+    @pytest.mark.parametrize("typed,view,key", [("s1-m-ʕ", "term", "s1-m-ʕ"), ("s1mʿ", "quran", "s1-m-ʿ")])
+    def test_a_hyphened_key_is_spelled_letter_by_letter(self, typed, view, key):
+        out = keys.expand(keys.parse_query(typed), view)
+        assert key in out
+        assert not any(re.search(r"(^|-)(\d|[̀-ͯ])", nfd(k)) for k in out)
+
+
 class TestExpandOthers:
     def test_hebrew_points_are_dropped_before_romanising(self):
         assert "šwšnh" in keys.expand(keys.parse_query("שׁוֹשַׁנָּה"), "ahi")

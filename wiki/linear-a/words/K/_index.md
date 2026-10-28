@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T22:29:24Z
+updated: 2026-10-29T17:28:27Z
 ---
 
 # wiki/linear-a/words/K
@@ -29,7 +29,7 @@ updated: 2026-10-27T22:29:24Z
 
 [[wiki/linear-a/words/K/KA_KU|KA_KU]]: Kakku: personal name (Amorite Kakku). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_KU_NE_TE|KA_KU_NE_TE]]: Kakku-ʿAnēt: Weapon of Anat (theophoric compound PN: kakkum 'weapon' + goddess ʿAnatu). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_KU_NE_TE|KA_KU_NE_TE]]: Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_KU_PA|KA_KU_PA]]: kawkab: star (celestial toponym; Semitic kawkab with b→p voicing). Lexicon, CANDIDATE (tier 2).
 
@@ -175,7 +175,7 @@ updated: 2026-10-27T22:29:24Z
 
 [[wiki/linear-a/words/K/KU_MI_NA|KU_MI_NA]]: kamūna: cumin (Cuminum cyminum). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KU_NI_SU|KU_NI_SU]]: kunāšu: emmer wheat. Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/K/KU_NI_SU|KU_NI_SU]]: kunīšu: assembly, the gathered body; rival Akkadian kunāšu 'emmer wheat'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KU_NI_TE|KU_NI_TE]]: kuhnēt: priestess (fem. singular). Lexicon, SPECULATIVE (tier 1).
 
@@ -221,7 +221,7 @@ updated: 2026-10-27T22:29:24Z
 
 [[wiki/linear-a/words/K/KU_ZU_NA|KU_ZU_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_ZU_NI|KU_ZU_NI]]: Kuṯinu: personal name; compare the Ugaritic personal name kṯn. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KU_ZU_NI|KU_ZU_NI]]: Kuṯinu: personal name, as Ugaritic Kušinu (kṯn). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KU_star305|KU_star305]]: Unread (role only): personal name; 1 occurrence(s).
 

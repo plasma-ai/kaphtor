@@ -1,16 +1,16 @@
 ---
 name: wiki/linear-a/words/A/A_PA3_DI
 title: "A-PA₃-DI"
-desc: "ʿabadī: my servant. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "noun"]
+desc: "ʿAbdī: personal name, ʿAbdī 'my servant' or ʿAbdi-[DN] 'servant of [DN]'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "A-PA₃-DI"
-datasets: ["lexicon"]
-tier: 3
-confidence: "PROBABLE"
-confidence_score: 0.7
-reading: "ʿabadī"
-attestations: ["PKZbX"]
+datasets: ["lexicon", "onomasticon"]
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.5
+reading: "ʿAbdī"
+attestations: ["PKZb26"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -27,41 +27,59 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**PROBABLE**, tier 3 of 4, score 0.70
+**CANDIDATE**, tier 2 of 4, score 0.50
 
 | Field | Value |
 |---|---|
-| Reading | ʿabadī |
-| Meaning | my servant |
+| Reading | ʿAbdī |
+| Meaning | personal name, ʿAbdī 'my servant' or ʿAbdi-\[DN\] 'servant of \[DN\]' |
 | Root | ʿ-b-d |
 | Language layer | NWS |
-| Category | noun |
-| Semantic field | kinship |
+| Category | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-PS \*ʕabd- 'slave, servant'. Uses \*306=ʿA. With 1sg possessive -ī. PN or title.
+PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy, syll. ÌR-ya (DULAT 141), or the head of an ʿAbdi-DN name, as ʕbdyrḫ (DULAT 141) and Amarna ÌR-a-ši-ir-ta (EA 71:17). Amorite ḫa-ab-di-ia ʿabdiya at Tuttul (Buck 2018, 328). One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amarna | {'form': 'ʿabada', 'meaning': 'servant, to serve', 'root': '√ʿ-b-d', 'ea_references': \['EA 151 n.1'\], 'moran_page': 'WS Word Index', 'note': 'ʿAbdi-X theophoric pattern is the most common WS PN type in Amarna (ʿAbdi-Aširta, ʿAbdi-Ḫeba, ʿAbdi-Milki, etc.). Confirms √ʿ-b-d as productive WS root in Bronze Age onomastics.'} |
+| Proto-Semitic | \*ʕVbd- 'to serve; servant' (semitic_roots no. 2739) |
+| Ugaritic | ʕbd (I) 'servant, slave' (DULAT 136); ʕbdy PN, syll. ÌR-ya (DULAT 141) |
+| Amarna | ÌR-a-ši-ir-ta ʿAbdi-Aširta (EA 71:17) |
 
 ### Source
 
-di Mino
+di Mino; DULAT
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PKZb/PKZbX\|PKZbX]] | Palaikastro | Clay vessel | complete |
+| [[wiki/linear-a/inscriptions/PK/PKZb/PKZb26\|PKZb26]] | Palaikastro | Clay vessel | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PKZb/PKZbX\|PKZbX]] | ʿabadī | my servant (√ʿ-b-d + 1cs suffix -ī) |  |
+| [[wiki/linear-a/inscriptions/PK/PKZb/PKZb26\|PKZb26]] | ʿAbdī | personal name, ʿAbdī 'my servant' or ʿAbdi-\[DN\] 'servant of \[DN\]' |  |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Palaikastro |
+| Supports | Clay vessel 1 |
+
+### Note
+
+PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy (DULAT 141), or the head of an ʿAbdi-DN name. See the lexicon entry A-PA₃-DI.
 
 <!-- END kaphtor:record -->

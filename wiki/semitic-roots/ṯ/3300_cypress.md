@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | šurmēnu (CAD Š₃ 349; AHw. 1284 apud SEDonline 1845) | CAD Š₃ 349; AHw. 1284; SEDonline 1845 | gloss withheld |
-| Eblaitic | ša-mi-nu /ṯa(r)mīnu/, šè-rí-mi-nu /ṯirmīnu/ (VE 379 apud SEDonline 1845) | VE 379; SEDonline 1845 | gloss withheld |
+| Eblaitic | ša-mi-nu /ṯa(r)mīnu/, šè-rí-mi-nu /ṯirmīnu/ (VE 379 apud SEDonline 1845; Civil 2017, 96); ša-mi-nu, še-rí-mi-nu /Sarmīn, Sirmīn/ (Sanmartín GlOS 2, 206) | VE 379; SEDonline 1845; Civil 2017, 96; Sanmartín GlOS 2, 206 | gloss withheld |
 | Judaic Aramaic | JBA šurbīnā (DJBA 1124 apud SEDonline 1845) | DJBA 1124; SEDonline 1845 | gloss withheld |
 | Syrian Aramaic | šurbīnā, šarwainā (LSyr. 806 apud SEDonline 1845) | LSyr. 806; SEDonline 1845 | gloss withheld |
 | Mandaic Aramaic | šurbina (MD 457 apud SEDonline 1845) | MD 457; SEDonline 1845 | gloss withheld |

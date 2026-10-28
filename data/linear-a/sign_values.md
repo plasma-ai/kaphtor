@@ -22,9 +22,9 @@ composites). Values beyond Linear B are di Mino's unless a record names another 
 | `fractions` | the A700-series fraction signs: `signs`, `composites_attested`, `source` |
 
 A value is **resolved** only on support that does not depend on a Semitic match: a Linear B value, a scribe's
-arithmetic, or a spelling variant of the same word. `resolution_summary.proposed` lists the other values of CANDIDATE
-or above, each `{entry, evidence}`, with the evidence where given. A **speculative** value sits in its sign's record
-only. The resolved total counts phonemic values and logograms; fractions are counted apart. The file holds 38 values:
+arithmetic, or a spelling variant of the same word. `resolution_summary.proposed` lists the proposed values, each
+`{entry, evidence}`, with the evidence where given. A **speculative** value sits in its sign's record only, whatever
+its tier: *325's bu, CANDIDATE in the lexicon, is one. The resolved total counts phonemic values and logograms; fractions are counted apart. The file holds 38 values:
 5 resolved (2 phonemic, 3 logograms) and 33 proposed (12 phonemic, 21 logograms), plus 3 resolved and 11 proposed
 fraction values.
 
@@ -40,8 +40,9 @@ Each syllabogram record:
 | `confirmed_by` | the grounds for the value: the Linear B value, attestations, words it reads |
 | `logographic_value`, `note` | a logographic use of the sign, and further evidence, where given |
 
-Three records (PA₃, ZU and AU) carry `reading`, `ipa`, `consonant`, `vowel`, `confidence`, `sign_type` and `notes`
-in place of `ab_number` and `primary`.
+Two records (PA₃ and AU) carry `reading`, `ipa`, `consonant`, `vowel`, `confidence` and `notes` (AU also
+`sign_type`) in place of `ab_number` and `primary`. ZU carries those fields beside its `ab_number`, `primary` and
+`alternates`, and *310 and *325 carry `reading` and `ipa` beside theirs.
 
 Each logogram record gives its `commodity` and `gloss`; a tiered logogram has its `tier`, `status` and `confidence`
 (as in the lexicon: CONFIRMED, PROBABLE, CANDIDATE, SPECULATIVE), the proposed `root` and `semitic_term`, `standalone_count` and

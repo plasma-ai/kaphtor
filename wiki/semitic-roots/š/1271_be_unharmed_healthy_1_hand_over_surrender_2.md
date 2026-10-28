@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | slm |  |  |
+| Arabic | slm; salima 'he was, or became, safe, or secure; or he escaped; … free, from evils of any kind' 1; sallama ilayhi š-šayʾa 'he gave to him the thing; or delivered it to him' 2 (Lane 1412) | Lane 1412 |  |
 | Akkadian | šalāmu; cf. salāmu, salīmu OB |  | gloss withheld |
 | Ugaritic | šlm |  | gloss withheld |
 | Phoenician | šlm 1; šlm 2 (Krahmalkov 464) | Krahmalkov 464 | gloss withheld |
@@ -45,7 +45,7 @@ updated: 2026-10-26T14:26:59Z
 | Mandaic Aramaic | šlama (LGz. 500) | LGz. 500 | gloss withheld |
 | Tigrinya | sälam (LGz. 500) | LGz. 500 | gloss withheld |
 | Amharic | sälam (LGz. 500) | LGz. 500 | gloss withheld |
-| Amorite | ślm: jiślam, śalamum, śalamatum, śalimum (Gelb AS 21, 32); yašlam, yašlim/yišlam (Buck 2019, 332) | Gelb AS 21 32; Buck 2019, 332 | gloss withheld |
+| Amorite | ślm: jiślam, śalamum, śalamatum, śalimum (Gelb AS 21, 32); yašlam, yašlim/yišlam (Buck 2019, 332); S-l-m 2: e-es-li-mu-um, ia-áš-la-mu-um, iš-la-ma-na; Salim 2: sa-li-im, sa-li-ma-tim (Sanmartín GlOS 2, 196–197) | Gelb AS 21 32; Buck 2019, 332; Sanmartín GlOS 2, 196–197 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic slm (Al-Jallad–Jaworska 122); ʾslm 2 (Al-Jallad–Jaworska 47) | Al-Jallad–Jaworska 122; Al-Jallad–Jaworska 47 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

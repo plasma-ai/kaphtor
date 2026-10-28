@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/2109_to_bear_give_birth_to_1_boy_child_2
 title: "*wld: 'to bear, give birth to' 1, 'boy, child' 2"
-desc: "Proto-Semitic *wld, 'to bear, give birth to' 1, 'boy, child' 2: reflexes in 22 language(s)."
+desc: "Proto-Semitic *wld, 'to bear, give birth to' 1, 'boy, child' 2: reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2109"
@@ -52,6 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | wälläda (LGz. 613) | LGz. 613 |  |
 | Pre-Islamic North Arabian | Safaitic wld (Al-Jallad–Jaworska 140) | Al-Jallad–Jaworska 140 | gloss withheld |
 | Eblaitic | mu-li-tum, mu-li-du /mullittum/ (VE 581; Krebernik 1983, 23) | VE 581; Krebernik 1983, 23 | gloss withheld |
+| Amorite | y-l-d 1: cf. ia-li-id-ᵈIM (Sanmartín GlOS 2, 350) | Sanmartín GlOS 2, 350 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

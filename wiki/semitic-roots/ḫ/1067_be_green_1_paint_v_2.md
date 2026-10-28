@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫdb \[-i-\] 2 |  |  |
+| Arabic | ḫdb \[-i-\] 2; ḫaḍaba 'he coloured, or tinged, a thing' 2 (Lane 753) | Lane 753 |  |
 | Akkadian | ḫaṣabu 1 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

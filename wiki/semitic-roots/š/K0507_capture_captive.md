@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | šebāʾ (HALOT 1382) | HALOT 1382 |  |
 | Mandaic Aramaic | ŠBA (HALOT 1382) | HALOT 1382 |  |
 | Epigraphic South Arabian | Sab. sby (HALOT 1382; Sabaweb lemmas 2031, 1713) | HALOT 1382; Sabaweb lemmas 2031, 1713 | gloss withheld |
-| Amorite | śbj: jaśbī (Gelb AS 21, 31) | Gelb AS 21 31 | gloss withheld |
+| Amorite | śbj: jaśbī (Gelb AS 21, 31); S-b-y: cf. ia-aš-bi-DINGIR, ia-aš-bi-i-la, iš-bi-⁽ᵈ⁾ìr-ra (Sanmartín GlOS 2, 234) | Gelb AS 21 31; Sanmartín GlOS 2, 234 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic sby (Al-Jallad–Jaworska 120) | Al-Jallad–Jaworska 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

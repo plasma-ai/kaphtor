@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/143_mouth
 title: "*pay-: 'mouth'"
-desc: "Proto-Semitic *pay-, 'mouth': reflexes in 22 language(s)."
+desc: "Proto-Semitic *pay-, 'mouth': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "143"
@@ -51,7 +51,8 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʔaf, pl. ʔafaw \[LGz. 8\] | LGz. 8 | gloss withheld |
 | Tigrinya | ʔaf \[Bass. 580\] | Bass. 580 |  |
 | Argobba | af \[LArg. 189\] | LArg. 189 | gloss withheld |
-| Amorite | pum (Gelb AS 21, 28); pâ/pî / (Buck 2019, 331) | Gelb AS 21 28; Buck 2019, 331 | gloss withheld |
+| Amorite | pum (Gelb AS 21, 28); pâ/pî / (Buck 2019, 331); pu(w), pū, pi(y), pī: bu, pu, da-dum-pi₅-DINGIR (Ur III) (Sanmartín GlOS 2, 144) | Gelb AS 21 28; Buck 2019, 331; Sanmartín GlOS 2, 144 | gloss withheld |
+| Eblaitic | cf. pù-wu /pu(w), pū, pi(y), pī/ (Sanmartín GlOS 2, 143) | Sanmartín GlOS 2, 143 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

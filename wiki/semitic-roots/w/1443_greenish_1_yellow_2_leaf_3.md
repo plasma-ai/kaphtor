@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/1443_greenish_1_yellow_2_leaf_3
 title: "*waraḳ-: 'greenish' 1, 'yellow' 2, 'leaf' 3"
-desc: "Proto-Semitic *waraḳ-, 'greenish' 1, 'yellow' 2, 'leaf' 3: reflexes in 17 language(s)."
+desc: "Proto-Semitic *waraḳ-, 'greenish' 1, 'yellow' 2, 'leaf' 3: reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1443"
@@ -46,7 +46,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | wärqi (LGz. 618) | LGz. 618 | gloss withheld |
 | Tigre | wärq (LGz. 618) | LGz. 618 | gloss withheld |
 | Judaic Aramaic | yǝrōqā (HALOT 437) | HALOT 437 |  |
-| Eblaitic | su-da-ra-gu /śutawraḳum/ (Š) (VE 618; Krebernik 1983, 24) | VE 618; Krebernik 1983, 24 | gloss withheld |
+| Eblaitic | su-da-ra-gu /śutawraḳum/ (Š) (VE 618; Krebernik 1983, 24); ù-ra-gú, cf. wa-ru₁₂/ra-ga-tum, wa-ru₁₂-ga-na-tum /waraq, waruq, wurq/ 1; name wa-ru₁₂-ga-nu (Sanmartín GlOS 2, 354) | VE 618; Krebernik 1983, 24; Sanmartín GlOS 2, 354 | gloss withheld |
+| Amorite | yarq-, compared perhaps with \*wrq 1, 2 (Huffmon APNM 215) | Huffmon APNM 215 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

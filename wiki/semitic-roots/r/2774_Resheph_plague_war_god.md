@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ršp (Krahmalkov 448) | Krahmalkov 448 | gloss withheld |
 | Hebrew | rešep (HALOT 1298) | HALOT 1298 | gloss withheld |
 | Amorite | rśp: jarśap (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
-| Eblaitic | ra-sa-ab /rašap/ DN (= ᵈNÈ.UNU) (VE 806; Krebernik 1983, 31) | VE 806; Krebernik 1983, 31 |  |
+| Eblaitic | ra-sa-ab /rašap/ DN (= ᵈNÈ.UNU) (VE 806; Krebernik 1983, 31); ᵈra-sa-ap, later god of death, pestilence and fire: ᵈra-sa-ap lú ʾà-da-niᵏⁱ (Sallaberger 2018, 122, 132); ᵈra-sa-ap gú-nuᵏⁱ, cf. Ugaritic ršp gn (Antalík 1998, 41) | VE 806; Krebernik 1983, 31; Sallaberger 2018, 122, 132; Antalík 1998, 41 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

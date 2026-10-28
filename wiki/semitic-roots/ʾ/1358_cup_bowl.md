@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1358_cup_bowl
 title: "*ʾigān-: 'cup, bowl'"
-desc: "Proto-Semitic *ʾigān-, 'cup, bowl': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ʾigān-, 'cup, bowl': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1358"
@@ -30,7 +30,6 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔiggān-at- |  |  |
 | Akkadian | agannu |  |  |
 | Hebrew | ʔaggān |  |  |
 | Punic | ʔgnn (T 3) | T 3 | gloss withheld |
@@ -42,6 +41,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Arabic ʾijjānat and the Ethiopic word are loans from Aramaic (Fraenkel 68 and Leslau 9 apud HALOT 11).
+Arabic ʾijjānat and the Ethiopic word are loans from Aramaic (Fraenkel 68 and Leslau 9 apud HALOT 11). Lane 26 glosses ʾijjānat 'a vessel in which clothes are washed'.
 
 <!-- END kaphtor:record -->

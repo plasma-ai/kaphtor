@@ -57,7 +57,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_JU\|A-JU]] |  | unread—vowel+JU carries ≤1 consonant, too little for a match to beat chance; hinges on the standalone-JU value dispute |  | unread |
-| NA-MA-MA-TI-TI-A319 | naʿma(?) \| mattitt(u) \| A319 | NA-MA \| MA-TI-TI \| A319, cut by the MA-TI-TI-A319 that closes HT Zd 157. NA-MA, cf. √n-ʿ-m 'pleasant'; MA-TI-TI 'gift' (Heb. mattat &lt; \*mattant, HALOT 656); A319 an unidentified commodity logogram with no sound value | CANDIDATE |  |
+| NA-MA-MA-TI-TI-A319 | naʿma \| mattitt(u) \| A319 | NA-MA \| MA-TI-TI \| A319, cut by the MA-TI-TI-A319 that closes HT Zd 157. NA-MA, cf. √n-ʿ-m 'pleasant'; MA-TI-TI 'gift' (Heb. mattat &lt; \*mattant, HALOT 656); A319 an unidentified commodity logogram with no sound value | CANDIDATE |  |
 
 ### Notes
 

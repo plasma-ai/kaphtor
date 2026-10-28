@@ -35,7 +35,7 @@ updated: 2026-10-26T14:26:59Z
 | Soqotri | šínoh \[LS 419\]; míšin \[LS 252\] | LS 419; LS 252 | gloss withheld |
 | Akkadian | šittu OB, SB \[CAD š 3 140\], \[AHw 1252\]; also šuttu OA, OB on \[CAD š3 405\], \[AHw 1292-1293\] | CAD š 3 140; AHw 1252; CAD š3 405; AHw 1292-1293 | gloss withheld |
 | Harsusi | šenēt \[JH 124\] | JH 124 | gloss withheld |
-| Eblaitic | si-tum, šit-t-um (HALOT 1601, 1602) (apud Fronzaroli); si-tum /šittum/ (VE 1131; Krebernik 1983, 40) | HALOT 1601, 1602; VE 1131; Krebernik 1983, 40 | gloss withheld |
+| Eblaitic | si-tum, šit-t-um (HALOT 1601, 1602) (apud Fronzaroli); si-tum /šittum/ (VE 1131; Krebernik 1983, 40); /w-s₁-n/: cf. names si-na-du, si-na-ḫu, si-na-ma-lik; /Sinat/: cf. name si-na-du; si-dè, si-tum /Sitt/ (Sanmartín GlOS 2, 359) | HALOT 1601, 1602; VE 1131; Krebernik 1983, 40; Sanmartín GlOS 2, 359 | gloss withheld |
 | Mandaic Aramaic | šinta \[DM 462\] | DM 462 | gloss withheld |
 | Ugaritic | yšn \[Aist 137-138\], šnt \[ibid.\] | Aist 137-138 | gloss withheld |
 | Jibbali | s̃ónút \[JJ 293\] | JJ 293 | gloss withheld |

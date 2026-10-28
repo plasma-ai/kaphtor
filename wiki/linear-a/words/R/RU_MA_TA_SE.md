@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/R/RU_MA_TA_SE
 title: "RU-MA-TA-SE"
-desc: "Onomasticon gentilic, no reading."
+desc: "rūmatā-se: of / from Rūmatā (-SE derivative). Onomasticon gentilic; lexicon entry RU-MA-TA."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "RU-MA-TA-SE"
 datasets: ["onomasticon"]
 attestations: ["ZA20"]
+reading: "rūmatā-se"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -37,6 +38,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | rūmatā-se |
+| Meaning | of / from Rūmatā (-SE derivative) |
 | Type | gentilic (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
@@ -44,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+| Lexicon entry | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] |
 
 ### Note
 

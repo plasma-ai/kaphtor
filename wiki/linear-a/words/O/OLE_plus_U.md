@@ -67,7 +67,7 @@ OLE ideogram + U adjunct: 21 tokens in 13 documents. The corpus establishes a di
 | [[wiki/linear-a/inscriptions/HT/HT/HT2\|HT2]] | \[ideogram\] | olive oil subtype U |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šamnu U | U-grade oil (highest-frequency OLE compound, 22 att.; specific grade TBD). 7 + 2 + \[qty lost\] units | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | olive oil subtype U |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ʿuṣru? | oil subtype; perhaps pressed oil |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | ʿuṣru | oil subtype; perhaps pressed oil |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | olive oil (U-type) | olive oil variant | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | olive oil subtype U |  |
 

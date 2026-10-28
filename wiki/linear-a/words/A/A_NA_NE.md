@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Split from JA-SA-RA-A-NA-NE (GORILA reads as one word). A- writes /ḥa/ with guttural dropping. qatāl nominal pattern from geminate root. In prayer context on KNZc7: yašara ḥanān = 'righteous grace.'
+Split from JA-SA-RA-A-NA-NE (GORILA reads as one word). A- writes /ḥa/ with guttural dropping. qatāl nominal pattern from geminate root, PS \*ḥanan- (#K0736): Amorite Ḥanana (Gelb AS 21 no. 475), a-na-na-tum (GlOS 1, 245). In prayer context on KNZc7: yašara ḥanān = 'righteous grace.'
 
 ### Cognates
 

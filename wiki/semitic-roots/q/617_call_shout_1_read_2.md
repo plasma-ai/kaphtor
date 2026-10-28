@@ -40,9 +40,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | qərāʾ (HALOT 1128) | HALOT 1128 |  |
 | Mandaic Aramaic | QRA (HALOT 1128) | HALOT 1128 |  |
 | Tigre | qarʾa (HALOT 1128) | HALOT 1128 |  |
-| Amorite | qrʾ: qaraʾ, qariʾum, qariḥum, jāqriʾ (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
+| Amorite | qrʾ: qaraʾ, qariʾum, qariḥum, jāqriʾ (Gelb AS 21, 29); q-r-ʾ 1: qa/ga-ra-su-mu/mi-ia (Sanmartín GlOS 1, 349) | Gelb AS 21 29; Sanmartín GlOS 1, 349 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic qrʾ (Al-Jallad–Jaworska 111) | Al-Jallad–Jaworska 111 | gloss withheld |
-| Eblaitic | ga-la-um, ga-ra-um, ga-ru₁₂-um /ḳarāʔum/ (VE 225; Krebernik 1983, 18 n. 65) | VE 225; Krebernik 1983, 18 n. 65 | gloss withheld |
+| Eblaitic | ga-la-um, ga-ra-um, ga-ru₁₂-um /ḳarāʔum/ (VE 225; Krebernik 1983, 18 n. 65); ga-la/ra-um, ga-ru₁₂-um /q-r-ʾ/ 1 (Sanmartín GlOS 1, 349) | VE 225; Krebernik 1983, 18 n. 65; Sanmartín GlOS 1, 349 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

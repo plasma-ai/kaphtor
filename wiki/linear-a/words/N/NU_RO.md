@@ -48,7 +48,7 @@ Sole word on both clay vessel inscriptions (Kamilari + unknown site). PS \*nūr-
 |---|---|
 | Akkadian | nūru "light, fire" (CAD N/II) |
 | Hebrew | נוּר (nūr) "fire"; נֵר (nēr) "lamp" |
-| Ugaritic | nr "light" (DUL) |
+| Ugaritic | nr "light" (DULAT 633) |
 | Arabic | nūr "light" |
 
 ### Source

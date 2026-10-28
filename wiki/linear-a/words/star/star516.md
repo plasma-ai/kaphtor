@@ -65,9 +65,9 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | šipru? | transaction or account sign; written over an erasure (GORILA I 157) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | šipru? | transaction/account marker | CANDIDATE |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2066\|KHWc2066]] | šipru? | account, record, register | CANDIDATE |
-| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2070\|KHWc2070]] | šipru? | account, record, register | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT96b\|HT96b]] | šipru | transaction or account sign; written over an erasure (GORILA I 157) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT118\|HT118]] | šipru | transaction/account marker | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2066\|KHWc2066]] | šipru | account, record, register | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2070\|KHWc2070]] | šipru | account, record, register | CANDIDATE |
 
 <!-- END kaphtor:record -->

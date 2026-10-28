@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1384_drink
 title: "*šVtVy-: 'drink'"
-desc: "Proto-Semitic *šVtVy-, 'drink': reflexes in 16 language(s)."
+desc: "Proto-Semitic *šVtVy-, 'drink': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1384"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | säčča (LGz. 518) | LGz. 518 |  |
 | Gurage | säče (LGz. 518) | LGz. 518 |  |
 | Tigrinya | sätäyä (Kogan 2015, ch. 7 §2.2 no. 19) | Kogan 2015 ch. 7 §2.2 no. 19 |  |
+| Eblaitic | mu-sa-da-tum /muStayt/; /S-t-y/: šè-ti, si-ti, si-ti-gi-lu (Sanmartín GlOS 2, 264) | Sanmartín GlOS 2, 264 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

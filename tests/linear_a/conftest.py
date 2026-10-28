@@ -1,7 +1,8 @@
-"""Every Shoresh engine a test builds without contexts gets an empty one, and the command's corpus
-(tools/linear_a/root_match.py CORPUS) is an empty corpus file, so no unit test reads data/linear-a/corpus.json and no
-verdict in one depends on it. A test of the default itself is marked `live_contexts` and keeps it; a test that gives
-the command its own corpus patches CORPUS itself.
+"""Every Shoresh engine a test builds without contexts gets an empty one, and the commands' corpus (CORPUS in
+tools/linear_a/root_match.py, tools/linear_a/validation/meaning_shuffle.py and meaning_shuffle_power.py) is an empty
+corpus file, so no unit test reads data/linear-a/corpus.json and no verdict in one depends on it. A test of the
+default itself is marked `live_contexts` and keeps it; a test that gives a command its own corpus patches CORPUS
+itself.
 """
 from __future__ import annotations
 
@@ -25,6 +26,8 @@ def _no_live_contexts(request, monkeypatch, _empty_corpus):
     if rm is not None:
         from tools.core.semantic_gate import Contexts
         monkeypatch.setattr(rm.Shoresh, "_live_contexts", staticmethod(lambda: Contexts({})))
-    cli = sys.modules.get("tools.linear_a.root_match")
-    if cli is not None and hasattr(cli, "CORPUS"):
-        monkeypatch.setattr(cli, "CORPUS", _empty_corpus)
+    for name in ("tools.linear_a.root_match", "tools.linear_a.validation.meaning_shuffle",
+                 "tools.linear_a.validation.meaning_shuffle_power"):   # the corpus readers
+        cli = sys.modules.get(name)
+        if cli is not None and hasattr(cli, "CORPUS"):
+            monkeypatch.setattr(cli, "CORPUS", _empty_corpus)

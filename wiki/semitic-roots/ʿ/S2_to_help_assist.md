@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/S2_to_help_assist
 title: "*ʕaḏar-: 'to help, assist'"
-desc: "Proto-Semitic *ʕaḏar-, 'to help, assist': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʕaḏar-, 'to help, assist': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S2"
@@ -36,14 +36,15 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʿădar 'to help' (Jastrow 1046) | Jastrow 1046 |  |
 | Punic | ʿzr 'help' | Anderson–Moser 2024 root ʿḏr |  |
 | Syrian Aramaic | ʿedrā (HALOT 811) | HALOT 811 | gloss withheld |
-| Amorite | ʿḏr: jaʿḏar, ʿaḏar, ʿaḏarum, ʿāḏirum (Gelb AS 21, 15); yaʿḏur, ʿaḏru/ʿaḏiru (Buck 2019, 324–325) | Gelb AS 21 15; Buck 2019, 324–325 | gloss withheld |
+| Amorite | ʿḏr: jaʿḏar, ʿaḏar, ʿaḏarum, ʿāḏirum (Gelb AS 21, 15); yaʿḏur, ʿaḏru/ʿaḏiru (Buck 2019, 324–325); ḫāziru (Streck 2000, 96); ʿ-ḏ-r, ʿ-d-r: ta-da-ra, ia-dar-DINGIR, ia-aḫ-za-ar-DINGIR; ʿaḏr, ʿadr, ʿiḏr, ʿidr: ḫa-az-ra-an, ḫa-az-ri-ia, ad-ra-nu-um (Ur III) (Sanmartín GlOS 1, 71) | Gelb AS 21 15; Buck 2019, 324–325; Streck 2000 96; Sanmartín GlOS 1, 71 | gloss withheld |
 | Canaanite | EA i-zi-ir-tu, i-zir-t\[a\], ḫi-zi-ir-ta (Kogan 2015, ch. 3 §5.3 no. 2, fn. 608) | Kogan 2015 ch. 3 §5.3 no. 2, fn. 608 | gloss withheld |
 | Akkadian | azāru (CAD A/2 527) | CAD A/2 527 | gloss withheld |
+| Eblaitic | /ʿaḏr, ʿadr, ʿiḏr, ʿidr/: name iš₁₁-rí-mu-ud (Sanmartín GlOS 1, 71) | Sanmartín GlOS 1, 71 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-PS \*ḏ &gt; Hebrew z, Arabic ḏ. The Ugaritic form ʿḏr confirms the interdental.
+PS \*ḏ &gt; Hebrew z, Arabic ḏ. The Ugaritic form ʿḏr confirms the interdental. Krebernik 1988, 51 n. 17 weighs ṯ-r-y (?) for iš₁₁-rí-mu-ud (cf. Akk. šarûm 'to be rich', išru!), or /ʿidrī-/ 'my help'.
 
 <!-- END kaphtor:record -->

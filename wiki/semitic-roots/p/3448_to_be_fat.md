@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*pˀm 'to be fat' (EDA I 136 apud SEDonline 1804). SEDonline 1804 also sets here Gz. ˀafˀama 'to put a morsel of food in another's mouth, to feed' (CDG 154) and (tä)famä 'to take a bite' (Leslau 1956: 198). Cf. 143 \*pay- 'mouth'.
+PWS \*pˀm 'to be fat' (SEDonline 1804). SEDonline 1804 also sets here Gz. ˀafˀama 'to put a morsel of food in another's mouth, to feed' (CDG 154) and (tä)famä 'to take a bite' (Leslau 1956: 198); EDA I 135–136 (◊P0210) sets Hbr. pīmā and Arb. fˀm (after von Soden), with Gz. ˀafˀama and Gaf. (tä)famä, beside Akk. piyāmu 'hero (?)', and finds the link of 'fat' and 'hero' not straightforward. Cf. 143 \*pay- 'mouth'.
 
 <!-- END kaphtor:record -->

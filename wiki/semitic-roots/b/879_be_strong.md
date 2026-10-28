@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/879_be_strong
 title: "*bVʾuš-: 'be strong'"
-desc: "Proto-Semitic *bVʾuš-, 'be strong': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bVʾuš-, 'be strong': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "879"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | bʔs \[-u-\] (Lane 146) | Lane 146 |  |
 | Geez | bəʾsa (LGz. 83) | LGz. 83 | gloss withheld |
+| Eblaitic | bí-ì-šum /biʾs₁/ (Sanmartín GlOS 1, 105) | Sanmartín GlOS 1, 105 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

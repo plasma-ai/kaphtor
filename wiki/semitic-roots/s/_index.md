@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T07:37:32Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/s
@@ -77,7 +77,7 @@ updated: 2026-10-28T07:37:32Z
 
 [[wiki/semitic-roots/s/2280_swallow|2280_swallow]]: Proto-Semitic *su/inūn(Vw/y)-at- {} *cu/inūn(Vw/y)-at-, 'swallow': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/s/2286_horse|2286_horse]]: Proto-Semitic *sVwsVw- {} *cVwcVw-, 'horse': reflexes in 10 language(s).
+[[wiki/semitic-roots/s/2286_horse|2286_horse]]: Proto-Semitic *sVwsVw- {} *cVwcVw-, 'horse': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/s/2363_intestine|2363_intestine]]: Proto-Semitic *sur(u)m-, 'intestine': reflexes in 3 language(s).
 
@@ -91,7 +91,7 @@ updated: 2026-10-28T07:37:32Z
 
 [[wiki/semitic-roots/s/2529_sand|2529_sand]]: Proto-Semitic *sīl-at-, 'sand': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/s/2586_drag_pull_cloud|2586_drag_pull_cloud]]: Proto-Semitic *sḥb, 'drag, pull (> cloud)': reflexes in 16 language(s).
+[[wiki/semitic-roots/s/2586_drag_pull_cloud|2586_drag_pull_cloud]]: Proto-Semitic *sḥb, 'drag, pull (> cloud)': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/s/259_flock_of_birds_swarm|259_flock_of_birds_swarm]]: Proto-Semitic *sVr-, 'flock of birds, swarm': reflexes in 1 language(s).
 
@@ -105,7 +105,7 @@ updated: 2026-10-28T07:37:32Z
 
 [[wiki/semitic-roots/s/2809_hide|2809_hide]]: Proto-Semitic *sVtVr-, 'hide': reflexes in 17 language(s).
 
-[[wiki/semitic-roots/s/2827_carry|2827_carry]]: Proto-Semitic *sVbVl-, 'carry': reflexes in 4 language(s).
+[[wiki/semitic-roots/s/2827_carry|2827_carry]]: Proto-Semitic *sVbVl-, 'carry': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/s/2828_bend|2828_bend]]: Proto-Semitic *sVgVp-, 'bend': reflexes in 2 language(s).
 
@@ -211,7 +211,7 @@ updated: 2026-10-28T07:37:32Z
 
 [[wiki/semitic-roots/s/K0523_support|K0523_support]]: Proto-Semitic *sVmVk-, 'support': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/s/S25_fine_flour_semolina|S25_fine_flour_semolina]]: Proto-Semitic *sult-, 'fine flour, semolina': reflexes in 5 language(s).
+[[wiki/semitic-roots/s/S25_fine_flour_semolina|S25_fine_flour_semolina]]: Proto-Semitic *sult-, 'fine flour, semolina': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/s/S64_to_expel|S64_to_expel]]: Proto-Semitic *sdd, 'to expel': reflexes in 2 language(s).
 

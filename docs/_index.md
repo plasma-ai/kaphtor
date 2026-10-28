@@ -4,7 +4,7 @@ title: Docs
 desc: The repository's rules and methods, and the guides to its corpora.
 tags: [docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-25T23:10:00Z
+updated: 2026-10-28T22:26:23Z
 ---
 
 # Docs
@@ -19,9 +19,17 @@ updated: 2026-10-25T23:10:00Z
 
 [[docs/corpus-census|corpus-census]]: How many Linear A documents GORILA and RILA-S1 publish, which of them corpus.json holds and under which keys, and why the corpus holds more.
 
+[[docs/meaning-shuffle-preregistration|meaning-shuffle-preregistration]]: The meaning-shuffle test's pre-registration, a draft for signature: hypothesis, word set, statistic, null, the calibration rerun before the run, competitor arms and how to read the result.
+
+[[docs/paradigm-b-preregistration|paradigm-b-preregistration]]: The held-out paradigm-prediction test's pre-registration as frozen on 2026-10-09, with the logged amendments that bind it.
+
+[[docs/paradigm-b-result|paradigm-b-result]]: The outcome of the held-out paradigm-prediction test as run under its freeze (G1 passed, G2 failed, so no posterior), the descriptive G3 figures, and the post-run review.
+
+[[docs/protocol-c-preregistration|protocol-c-preregistration]]: Protocol C, the blind-inventory prediction test of unseen Linear A word edges: its pre-registration as signed on 2026-10-29, with amendments A1–A4; not yet frozen or run.
+
 [[docs/reproduce|reproduce]]: What `kaphtor reproduce` reruns, what each headline number rests on, and the tolerance a rerun must meet.
 
-[[docs/shoresh-preregistration|shoresh-preregistration]]: The full pre-registration of the Shoresh root-match engine, with its Phase 0 baseline and the dated amendments A1–A19.
+[[docs/shoresh-preregistration|shoresh-preregistration]]: The full pre-registration of the Shoresh root-match engine, with its Phase 0 baseline and the dated amendments A1–A21.
 
 [[docs/shoresh-usage|shoresh-usage]]: How to build Shoresh's index, run the root-match command and read its output, from the statistic and verdicts to the gold guard and exit codes.
 

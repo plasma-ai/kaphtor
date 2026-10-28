@@ -79,7 +79,7 @@ di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT47a\|HT47a]] | Kubānatu(?) | devotees of Kubaba(?) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT47a\|HT47a]] | Kubānatu | devotees of Kubaba(?) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT119\|HT119]] | Kubānatu | devotees of Kubaba, a personnel group | CANDIDATE |
 
 ## Onomasticon

@@ -64,7 +64,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
 | A-DI-KI-TE-TE-\[DU-PU₂\]-RE | ʾa-Diqqite de \[dubu\]re | O Dikte, she of the Dubur | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | Pitrī/Puṭrī (personal name) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhēn? | the priest (proposed title) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhēn | the priest (proposed title) | CANDIDATE | CANDIDATE (lexicon) |
 | A |  | line-break artifact (part of A-SA-SA-RA-ME) |  |  |
 | [[wiki/linear-a/words/S/SA_SA_RA_ME\|SA-SA-RA-ME]] | yaššaram | uprightly (accusative -am, √y-š-r; Palaikastro dialect drops JA- prefix) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | so, behold, may you gather! | CANDIDATE | CANDIDATE (lexicon) |
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary libation formula—longest liturgical inscription (11 words, 25 signs). Palaikastro dialect.  Complete 11-word liturgical inscription—longest in the corpus. The surface order is opening verb → invoked deity and title → proposed speaker's name and priestly title → adverbial formula element → standard body → lacuna → unique closure. Davis (2013, 42–43) and Thomas (2020, 8–10) independently place PI-TE-RI A-KO-A-NE in the subject/dedicant slot, though they infer two names rather than a name plus title. Reading the pair as 'Pitrī, the priest' supplies the explicit subject of the first-person opening without the former unattested 'first-offering' or unsupported plural vocative. The lacuna between SI-RU and I-NA-JA-PA-QA separates the formula from a masculine verbal closure whose subject remains unnamed.
+Context: Peak sanctuary libation formula—longest liturgical inscription (11 words, 25 signs). Palaikastro dialect.  Complete 11-word liturgical inscription—longest in the corpus. The surface order is opening verb → invoked deity and title → proposed speaker's name and priestly title → adverbial formula element → standard body → lacuna → unique closure. Davis (2013, 42–43) and Thomas (2020, 8–10) independently place PI-TE-RI A-KO-A-NE in the subject/dedicant slot, though they infer two names rather than a name plus title. Reading the pair as 'Pitrī, the priest' supplies the explicit subject of the first-person opening without an unattested 'first-offering' or an unsupported plural vocative. The lacuna between SI-RU and I-NA-JA-PA-QA separates the formula from a masculine verbal closure whose subject remains unnamed.
 
 ### Source
 

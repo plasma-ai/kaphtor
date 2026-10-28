@@ -57,9 +57,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kōhinīma | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_TA_NI_TE\|KI-TA-NI-TE]] | kitānit | CANDIDATE |
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunāšu | CONFIRMED |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_NI_TE\|KU-NI-TE]] | kuhnēt | SPECULATIVE |
-| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | matni | SPECULATIVE |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | CONFIRMED |
 | [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn | SPECULATIVE |

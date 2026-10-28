@@ -50,10 +50,10 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | bedu (OLA80 §32.28) | OLA80 §32.28 | gloss withheld |
 | Punic | bt, byt (T 58) | T 58 | gloss withheld |
 | Canaanite | Moab bt (DNWSI 156 apud SEDonline 1383) | DNWSI 156; SEDonline 1383 | gloss withheld |
-| Eblaitic | ba-du (VE 336; Krebernik 1983: 14 apud SEDonline 1383) | VE 336; Krebernik 1983: 14; SEDonline 1383 | gloss withheld |
+| Eblaitic | ba-du (VE 336; Krebernik 1983: 14 apud SEDonline 1383); ba-da-a, ba-da-ga, ba-zu /bayt/: names ba-da, ba-du, ba-ti; /bīt/: names du-bí(NE)-ti, a-ma-bí(NE)-du (Sanmartín GlOS 1, 135) | VE 336; Krebernik 1983: 14; SEDonline 1383; Sanmartín GlOS 1, 135 | gloss withheld |
 | Syrian Aramaic | baytā (Payne Smith 43) | Payne Smith 43 |  |
 | Pre-Islamic North Arabian | Safaitic bt (Al-Jallad–Jaworska 62) | Al-Jallad–Jaworska 62 | gloss withheld |
-| Amorite | bīt (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
+| Amorite | bīt (Buck 2019, 325; Sanmartín GlOS 1, 135) | Buck 2019, 325; Sanmartín GlOS 1, 135 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

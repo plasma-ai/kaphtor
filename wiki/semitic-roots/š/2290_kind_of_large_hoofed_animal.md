@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | sappāru (šappāru, sabbāru) OB on \[CAD s 166\], \[AHw. 1027\] | CAD s 166; AHw. 1027 | gloss withheld |
-| Eblaitic | šè-bar-ru12 \[MEE 4 004\] | MEE 4 004 |  |
+| Eblaitic | šè-bar-ru12 \[MEE 4 004\] | MEE 4 004 | gloss withheld |
 | Geez | sappirā \[LGz. 509\] | LGz. 509 | gloss withheld |
 | Epigraphic South Arabian | Sab. s1frt \[SD 125\], \[Biella 342\] (Sabaweb lemma 3058) | SD 125; Biella 342; Sabaweb lemma 3058 | gloss withheld |
 

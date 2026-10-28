@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3652_bed_couch_resting_place
 title: "*škb: 'bed, couch, resting place'"
-desc: "Proto-Semitic *škb, 'bed, couch, resting place': reflexes in 7 language(s)."
+desc: "Proto-Semitic *škb, 'bed, couch, resting place': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3652"
@@ -36,6 +36,7 @@ updated: 2026-10-26T15:47:57Z
 | Syrian Aramaic | maškbā (Payne Smith 306; HALOT 646) | Payne Smith 306; HALOT 646 | gloss withheld |
 | Geez | məskāb (LGz. 496) | LGz. 496 | gloss withheld |
 | Tigre | maskab (HALOT 646) | HALOT 646 |  |
+| Amorite | maškabu (Streck 2000, 105) | Streck 2000 105 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/1480_observe
 title: "*ṣVpVy-: 'observe'"
-desc: "Proto-Semitic *ṣVpVy-, 'observe': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ṣVpVy-, 'observe': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1480"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ṣpʾ (HALOT 1044) | HALOT 1044 | gloss withheld |
 | Ugaritic | ṣp (HALOT 1044) | HALOT 1044 | gloss withheld |
 | Phoenician | ṣp (Krahmalkov 418) | Krahmalkov 418 | gloss withheld |
+| Amorite | ṣ-p-y: la-ṣa-pa-tim (Sanmartín GlOS 2, 222) | Sanmartín GlOS 2, 222 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

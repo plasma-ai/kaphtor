@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥirbāʔ- 'male chameleon' \[BK 1 403\], \[Lane 541\], \[LA I 307\]. | BK 1 403; Lane 541; LA I 307 |  |
 | Akkadian | ḫurbabillu (urbabillu) SB \[CAD ḫ 248\], \[AHw. 358\] | CAD ḫ 248; AHw. 358 | gloss withheld |
-| Eblaitic | ḫur-ba-um = Sum. NIN.ḪUR.BA.UM (VE 0293); àr-ba-um /ḥarbāHum/ (Krebernik 1983, 46 n. 158) | VE 0293; Krebernik 1983, 46 n. 158 |  |
+| Eblaitic | ḫur-ba-um = Sum. NIN.ḪUR.BA.UM (VE 0293; Civil 2017, 126); àr-ba-um /ḥarbāHum/ (Krebernik 1983, 46 n. 158) | VE 0293; Civil 2017, 126; Krebernik 1983, 46 n. 158 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

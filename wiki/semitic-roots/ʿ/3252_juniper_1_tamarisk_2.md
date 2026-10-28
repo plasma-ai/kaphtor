@@ -40,6 +40,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*ˁarˁar- '(a plant)' (Kogan 2012: 242–244 apud SEDonline 424), which also sets here Akk. erēnu 'cedar' (CAD E 274) and Ebl. ù-ri-núm 'cedar' (VE 1362ʹ). Cf. 2735 \*ʾVrz- 'cedar'.
+PS \*ˁarˁar- '(a plant)' (Kogan 2012: 242–244 apud SEDonline 424), which also sets here Akk. erēnu 'cedar' (CAD E 274) and Ebl. ù-rí-núm 'cedar' (VE 1362ʹ; Civil 2017, 122, 151 n. 22). Cf. 2735 \*ʾVrz- 'cedar'.
 
 <!-- END kaphtor:record -->

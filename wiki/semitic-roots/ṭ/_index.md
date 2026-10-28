@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṭ
 desc: "Semitic roots whose first radical is ṭ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T06:21:26Z
+updated: 2026-10-28T22:08:35Z
 ---
 
 # wiki/semitic-roots/ṭ
@@ -11,7 +11,7 @@ updated: 2026-10-28T06:21:26Z
 
 [[wiki/semitic-roots/ṭ/1123_throw|1123_throw]]: Proto-Semitic *ṭVraḥ-, 'throw': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṭ/1170_throw|1170_throw]]: Proto-Semitic *ṭVḥ-, 'throw': reflexes in 1 language(s).
+[[wiki/semitic-roots/ṭ/1170_throw|1170_throw]]: Proto-Semitic *ṭVḥ-, 'throw': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṭ/1188_burden_n|1188_burden_n]]: Proto-Semitic *ṭurḥ-, 'burden (n.)': reflexes in 2 language(s).
 
@@ -57,7 +57,7 @@ updated: 2026-10-28T06:21:26Z
 
 [[wiki/semitic-roots/ṭ/2660_to_be_clean_pure|2660_to_be_clean_pure]]: Proto-Semitic *ṭahar-, 'to be clean, pure': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/ṭ/2670_to_drive_navigate|2670_to_drive_navigate]]: Proto-Semitic *ṭVrd-, 'to drive, navigate': reflexes in 8 language(s).
+[[wiki/semitic-roots/ṭ/2670_to_drive_navigate|2670_to_drive_navigate]]: Proto-Semitic *ṭVrd-, 'to drive, navigate': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/ṭ/2870_send_away|2870_send_away]]: Proto-Semitic *ṭVlVq-, 'send away': reflexes in 2 language(s).
 
@@ -127,9 +127,9 @@ updated: 2026-10-28T06:21:26Z
 
 [[wiki/semitic-roots/ṭ/490_fly_1_jump_up_2|490_fly_1_jump_up_2]]: Proto-Semitic *ṭVwVŝ-, 'fly' 1, 'jump up' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ṭ/539_slaughter_1_sacrifice_2_skin_v_3|539_slaughter_1_sacrifice_2_skin_v_3]]: Proto-Semitic *ṭVbVḫ-, 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3: reflexes in 17 language(s).
+[[wiki/semitic-roots/ṭ/539_slaughter_1_sacrifice_2_skin_v_3|539_slaughter_1_sacrifice_2_skin_v_3]]: Proto-Semitic *ṭVbVḫ-, 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3: reflexes in 18 language(s).
 
-[[wiki/semitic-roots/ṭ/583_strike_with_a_spear_1_pierce_2|583_strike_with_a_spear_1_pierce_2]]: Proto-Semitic *ṭVʕa/un-, 'strike with a spear' 1, 'pierce' 2: reflexes in 4 language(s).
+[[wiki/semitic-roots/ṭ/583_strike_with_a_spear_1_pierce_2|583_strike_with_a_spear_1_pierce_2]]: Proto-Semitic *ṭVʕa/un-, 'strike with a spear' 1, 'pierce' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ṭ/589_call_1_buzz_tinkle_2|589_call_1_buzz_tinkle_2]]: Proto-Semitic *ṭin-, 'call' 1, 'buzz, tinkle' 2: reflexes in 2 language(s).
 

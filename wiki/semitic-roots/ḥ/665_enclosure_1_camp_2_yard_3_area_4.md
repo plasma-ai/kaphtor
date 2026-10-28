@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/665_enclosure_1_camp_2_yard_3_area_4
 title: "*ḥič̣/ṣ/ĉ̣ar-: 'enclosure'1, 'camp' 2, 'yard' 3, 'area' 4"
-desc: "Proto-Semitic *ḥič̣/ṣ/ĉ̣ar-, 'enclosure'1, 'camp' 2, 'yard' 3, 'area' 4: reflexes in 19 language(s)."
+desc: "Proto-Semitic *ḥič̣/ṣ/ĉ̣ar-, 'enclosure'1, 'camp' 2, 'yard' 3, 'area' 4: reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "665"
@@ -49,6 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | aṭṭärä (LGz. 247) | LGz. 247 | gloss withheld |
 | Gurage | aṭärä (LGz. 247) | LGz. 247 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥḍr (Al-Jallad–Jaworska 84) | Al-Jallad–Jaworska 84 | gloss withheld |
+| Amorite | ḫaṣāru (ARM 26/1, 40: 24) (Streck 2000, 94–95) | Streck 2000 94–95 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

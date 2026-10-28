@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/979_be_small_be_light
 title: "*ḳVlVl-: 'be small, be light'"
-desc: "Proto-Semitic *ḳVlVl-, 'be small, be light': reflexes in 16 language(s)."
+desc: "Proto-Semitic *ḳVlVl-, 'be small, be light': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "979"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | qälläla (LGz. 428) | LGz. 428 |  |
 | Gafat | qälliyä (LGz. 428) | LGz. 428 | gloss withheld |
 | Geez | qalla (LGz. 428) | LGz. 428 | gloss withheld |
+| Eblaitic | /qall/: name gal-lum; /qallil/: name gal-li-lu (Sanmartín GlOS 1, 345) | Sanmartín GlOS 1, 345 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

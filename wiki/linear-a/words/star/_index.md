@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:04:43Z
+updated: 2026-10-28T21:37:27Z
 ---
 
 # wiki/linear-a/words/star
@@ -37,7 +37,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/star/star23M|star23M]]: mūru: young bull, head of cattle (live livestock logogram; MU-onset abbreviation of *mūru). Complementary to TU = ṯawr 'cattle products'—*23M counts live animals (whole numbers 1-5), TU measures processed portions (fractional quantities 1/16–3/4). Zero tablet overlap.. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/star/star28B_NU_MA_RE|star28B_NU_MA_RE]]: Onomasticon title, no reading.
+[[wiki/linear-a/words/star/star28B_NU_MA_RE|star28B_NU_MA_RE]]: yinumare: wine-lords, wine-stewards (personnel category). Onomasticon title; lexicon entry JI-NU-MA-RE.
 
 [[wiki/linear-a/words/star/star28B_TI_q_broken_end|star28B_TI_q_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -97,9 +97,7 @@ updated: 2026-10-26T15:04:43Z
 
 [[wiki/linear-a/words/star/star312|star312]]: kitnu: flax/linen—dual-use crop: fiber for textiles (TELA+*312), linseed for food/oil (standalone with small quantities). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/star/star312_TA|star312_TA]]: Unread (unread): no role; 1 occurrence(s).
-
-[[wiki/linear-a/words/star/star312_TA2|star312_TA2]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/star/star312_TA|star312_TA]]: gitta: farmstead, press-estate, an entry drawing grain; alternate spelling *312-TA₂. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star312_TE_TE|star312_TE_TE]]: kitītu: fine cloth (Akk. kitītu "fine, lit. linen-like, wool"). Lexicon, SPECULATIVE (tier 1).
 

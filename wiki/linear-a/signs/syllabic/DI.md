@@ -48,7 +48,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE\|A-DI-KI-TE]] | Dikte | PROBABLE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqite de | PROBABLE |
-| [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿabadī | PROBABLE |
+| [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI\|DI]] | dibšu | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |
@@ -56,6 +56,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DI_KI_SE\|DI-KI-SE]] | Dikise | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_RO\|DI-NA-RO]] | Dānīlo / Dānīlu | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | CANDIDATE |
+| [[wiki/linear-a/words/D/DI_NE\|DI-NE]] | dīn | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_NI\|DI-NI]] | Dīnī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddir-dīnā | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | SPECULATIVE |
@@ -67,14 +68,17 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kadd | PROBABLE |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | SPECULATIVE |
 | [[wiki/linear-a/words/M/ME_KI_DI\|ME-KI-DI]] | Majd | SPECULATIVE |
+| [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_DI\|OLE+DI]] | dišpu | CANDIDATE |
 | [[wiki/linear-a/words/O/OLE_plus_QE_plus_DI\|OLE+QE+DI]] | A623 (OLE+QE+DI) | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_DI_SE\|RE-DI-SE]] | Redis | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_DI\|RU-DI]] | rūdī | SPECULATIVE |
+| [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_DI\|SA-DI]] | šadī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Sidiya/Šadiya | PROBABLE |
+| [[wiki/linear-a/words/T/TA_DI\|TA-DI]] | dādī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdumī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 | [[wiki/linear-a/words/W/WI_DI_NA\|WI-DI-NA]] | Widdīna | SPECULATIVE |

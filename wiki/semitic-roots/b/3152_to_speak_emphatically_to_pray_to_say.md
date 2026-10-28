@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | baˀālu (CAD B 2, AHw. 101, EDA I 85 apud SEDonline 1107) | CAD B 2, AHw. 101, EDA I 85; SEDonline 1107 | gloss withheld |
+| Akkadian | baˀālu (CAD B 2, AHw. 101, EDA I 85, ◊P0128) | CAD B 2, AHw. 101, EDA I 85, ◊P0128 | gloss withheld |
 | Arabic | bhl (Lane 267 apud SEDonline 1107) | Lane 267; SEDonline 1107 | gloss withheld |
 | Geez | bəhla (CDG 89 apud SEDonline 1107) | CDG 89; SEDonline 1107 | gloss withheld |
 | Tigre | belä (WTS 267 apud SEDonline 1107) | WTS 267; SEDonline 1107 | gloss withheld |

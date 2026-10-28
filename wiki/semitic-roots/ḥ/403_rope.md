@@ -39,8 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ḥbl (Aramaic Root Atlas; DNWSI 345 apud CAL) | Aramaic Root Atlas; DNWSI 345; CAL; Anderson–Moser 2024 root ḥbl | gloss withheld |
 | Syrian Aramaic | ḥablā (HALOT 286) | HALOT 286 | gloss withheld |
 | Tigre | ḥabl (Wb. 78a; HALOT 286) | Wb. 78a; HALOT 286 | gloss withheld |
-| Eblaitic | ʔà-ba-lu /ḥablu(m)/ (VE 1174b; Krebernik 1983, 41) | VE 1174b; Krebernik 1983, 41 | gloss withheld |
-| Amorite | ḫabalu (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
+| Eblaitic | ʔà-ba-lu /ḥablu(m)/ (VE 1174b; Krebernik 1983, 41); ʔà-ba-lu /ḥab(a)l/ (Sanmartín GlOS 1, 229) | VE 1174b; Krebernik 1983, 41; Sanmartín GlOS 1, 229 | gloss withheld |
+| Amorite | ḫabalu (Streck 2000, 90; Streck 2011, 367); ḥab(a)l: ḫa-ba-lu (Sanmartín GlOS 1, 229) | Streck 2000 90; Streck 2011, 367; Sanmartín GlOS 1, 229 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

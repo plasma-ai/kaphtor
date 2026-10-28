@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | baṭaḥ 'trust' (BDB 105) | BDB 105; Anderson–Moser 2024 root bṭḥ |  |
 | Punic | bṭḥ 'trust' | Anderson–Moser 2024 root bṭḥ |  |
 | Phoenician | bṭḥ (Krahmalkov 100) | Krahmalkov 100 | gloss withheld |
-| Eblaitic | ma-ba-da-ʔà, ma-ba-da-a, ma-ba-da-u₉ /mabṭāḥay/, /mabṭāḥū/ (VE 469; Krebernik 1983, 17) | VE 469; Krebernik 1983, 17 |  |
+| Eblaitic | ma-ba-da-ʔà, ma-ba-da-a, ma-ba-da-u₉ /mabṭāḥay/, /mabṭāḥū/ (VE 469; Krebernik 1983, 17); ma-ba-da-ʔà /mabṭaḥ/ (Sanmartín GlOS 1, 131) | VE 469; Krebernik 1983, 17; Sanmartín GlOS 1, 131 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

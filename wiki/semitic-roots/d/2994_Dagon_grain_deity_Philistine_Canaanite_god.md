@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2994_Dagon_grain_deity_Philistine_Canaanite_god
 title: "*dagān-: 'Dagon (grain deity; Philistine/Canaanite god)'"
-desc: "Proto-Semitic *dagān-, 'Dagon (grain deity; Philistine/Canaanite god)': reflexes in 4 language(s)."
+desc: "Proto-Semitic *dagān-, 'Dagon (grain deity; Philistine/Canaanite god)': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2994"
@@ -33,11 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | dgn DN (DULAT 265; HALOT 213) | DULAT 265; HALOT 213 |  |
 | Phoenician | dgn (HALOT 213) | HALOT 213 |  |
 | Akkadian | Dagana, Daguna (Babylonian; HALOT 213) | HALOT 213 |  |
+| Amorite | Dagan, \*Dagan (Huffmon APNM 180); Dagān, DN (Gelb AS 21, 17) | Huffmon APNM 180; Gelb AS 21 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-HALOT 213 also cites Greek Σίτων ('grain' god). Cf. 2315 \*dagan- 'grain'.
+HALOT 213 also cites Greek Σίτων ('grain' god). Cf. 2315 \*dagan- 'grain'. At Ebla Dagan is the 'Lord of Tuttul', ᵈBE du-du-luᵏⁱ = ᵈLUGAL du-du-luᵏⁱ (Antalík 1998, 36; Sallaberger 2018, 116).
 
 <!-- END kaphtor:record -->

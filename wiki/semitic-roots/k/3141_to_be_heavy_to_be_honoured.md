@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3141_to_be_heavy_to_be_honoured
 title: "*kbd: 'to be heavy; to be honoured'"
-desc: "Proto-Semitic *kbd, 'to be heavy; to be honoured': reflexes in 7 language(s)."
+desc: "Proto-Semitic *kbd, 'to be heavy; to be honoured': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3141"
@@ -34,8 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | kbd (HALOT 455); \*/kubuddatu/?, pl. /kubuddātu/ (UVST 135) | HALOT 455; UVST 135 | gloss withheld |
 | Canaanite | EA kabātu (HALOT 455) | HALOT 455 |  |
 | Phoenician | kbd (HALOT 455) | HALOT 455 |  |
-| Amorite | kbd: kabidum, kabida, kabdum (Gelb AS 21, 22) | Gelb AS 21 22 | gloss withheld |
+| Amorite | kbd: kabidum, kabida, kabdum (Gelb AS 21, 22); kabd: ka-ab-tu-ka-a-bi, qa-sú-ka-ab-ta-at; kabid: ga-bi-da-nu-um, i-bi-iš-ga-bi-id, mu-ut-ga-bi-id; kabbid: ka-ab-bi-da (Sanmartín GlOS 1, 295–296) | Gelb AS 21 22; Sanmartín GlOS 1, 295–296 | gloss withheld |
 | Emar | ku-ba-da, ku-ba-di, ki-ba-dì, ki-ba-da-ti /kubbadu/, /kibbadu/, /kibbadātu/ (Pentiuc 2001, 106–107) | Pentiuc 2001 106–107 | gloss withheld |
+| Eblaitic | /k-b-d/: cf. name ig-da-bad; /kabd/: names kab-du, kab-da-an, kab-da-nu (Sanmartín GlOS 1, 295) | Sanmartín GlOS 1, 295 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

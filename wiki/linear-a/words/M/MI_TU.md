@@ -47,7 +47,7 @@ HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-S
 | Language | Comparison |
 |---|---|
 | Akkadian | mītu 'dead' (CAD M/2 140) |
-| Hebrew | mēt (HALOT 653) |
+| Hebrew | mēt 'dead', participle of mût 'to die' (HALOT 562) |
 | Amorite | rival: MUT-UM 'man' in names (Gelb 1980, nos. 4827–4831) |
 | Ugaritic | rival: mt 'man' (DULAT 590) |
 

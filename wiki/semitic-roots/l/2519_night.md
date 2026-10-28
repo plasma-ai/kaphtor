@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/2519_night
 title: "*layl-: 'night'"
-desc: "Proto-Semitic *layl-, 'night': reflexes in 21 language(s)."
+desc: "Proto-Semitic *layl-, 'night': reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2519"
@@ -51,6 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic ll (Al-Jallad–Jaworska 92) | Al-Jallad–Jaworska 92 | gloss withheld |
 | Soqotri | ľéľhe (LS 233; SLOnline 7783) | LS 233; SLOnline 7783 | gloss withheld |
 | Mehri | līlət (Kogan 2011, 196) | Kogan 2011 196 |  |
+| Amorite | lēl: le-e-lum, li-li-a-nu-um (Sanmartín GlOS 2, 20) | Sanmartín GlOS 2, 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

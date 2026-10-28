@@ -75,8 +75,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | ʿAnānu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | CANDIDATE |
-| [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿabadī | PROBABLE |
+| [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_PI\|A-PI]] | ʾāpi | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] | ʾArāyu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]] | ʾarṣ̂atu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU_ME\|A-RA-TU-ME]] | ʾarṣ̂atum | CANDIDATE |
@@ -99,6 +100,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | ʾaššē-ya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] | ʾAšdōdī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
@@ -109,11 +111,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_TA_NA\|A-TA-NA]] | ʾAtanat | PROBABLE |
 | [[wiki/linear-a/words/A/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | Hathar | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
 | [[wiki/linear-a/words/A/A_WA_PI\|A-WA-PI]] | ʾawpiʿ | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | CANDIDATE |
+| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯrat | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/P/PI_star310_A\|PI-\*310-A]] | pīnā | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_A\|U-NA-A]] | wannā(h) / winnā(h) | SPECULATIVE |

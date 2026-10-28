@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Hapax heading before the TE transaction sign on HT116a. Akkadian watrum (stem watar-) means 'additional, in excess,' and substantivized watartum/watarti means 'excess, surplus, extra' (Huehnergard 1997, §10.1). This provides a closer consonantal and administrative comparison than the former \*ʿattāru 'supplicant.' U may represent /wV/ and final RO may contain a dead vowel, but the precise form and syntax remain uncertain. Hebrew √ʿ-t-r 'entreat' is genuine (Gen 25:21; Judg 13:8), yet the proposed agent noun and donor interpretation are unattested and survive only as a weak rival.
+Hapax heading before the TE transaction sign on HT116a. Akkadian watrum (stem watar-) means 'additional, in excess,' and substantivized watartum/watarti means 'excess, surplus, extra' (Huehnergard 1997, §10.1). This provides a closer consonantal and administrative comparison than \*ʿattāru 'supplicant.' U may represent /wV/ and final RO may contain a dead vowel, but the precise form and syntax remain uncertain. Hebrew √ʿ-t-r 'entreat' is genuine (Gen 25:21; Judg 13:8), yet the proposed agent noun and donor interpretation are unattested and survive only as a weak rival.
 
 ### Source
 

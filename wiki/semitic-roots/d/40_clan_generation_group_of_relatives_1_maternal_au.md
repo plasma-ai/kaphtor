@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab dwr (Biella 81) | Biella 81 | gloss withheld |
 | Geez | dor (LGz. 141) | LGz. 141 | gloss withheld |
 | Akkadian | dāru; dārû (CAD D 115) | CAD D 115 | gloss withheld |
-| Amorite | dāru (Streck 2011, 366) | Streck 2011, 366 | gloss withheld |
+| Amorite | dāru (Streck 2000, 88; Streck 2011, 366) | Streck 2000 88; Streck 2011, 366 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

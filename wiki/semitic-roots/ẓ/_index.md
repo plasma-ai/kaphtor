@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ẓ
 desc: "Semitic roots whose first radical is ẓ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-27T22:12:57Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/ẓ
@@ -25,7 +25,7 @@ updated: 2026-10-27T22:12:57Z
 
 [[wiki/semitic-roots/ẓ/2108_to_be_thirsty_1_drought_2|2108_to_be_thirsty_1_drought_2]]: Proto-Semitic *ṯ̣mʾ {} *č̣mʾ (-a-), 'to be thirsty' 1, 'drought' 2: reflexes in 18 language(s).
 
-[[wiki/semitic-roots/ẓ/2192_gazelle|2192_gazelle]]: Proto-Semitic *ṯ̣aby(-at)-, 'gazelle': reflexes in 12 language(s).
+[[wiki/semitic-roots/ẓ/2192_gazelle|2192_gazelle]]: Proto-Semitic *ṯ̣aby(-at)-, 'gazelle': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/ẓ/246_locust|246_locust]]: Proto-Semitic *ṯ̣Vl-, 'locust': reflexes in 1 language(s).
 
@@ -33,7 +33,7 @@ updated: 2026-10-27T22:12:57Z
 
 [[wiki/semitic-roots/ẓ/3101_piece_of_wood|3101_piece_of_wood]]: Proto-Semitic *ṯ̣arb-, 'piece of wood': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ẓ/3122_grow_dark_be_black|3122_grow_dark_be_black]]: Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 19 language(s).
+[[wiki/semitic-roots/ẓ/3122_grow_dark_be_black|3122_grow_dark_be_black]]: Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 20 language(s).
 
 [[wiki/semitic-roots/ẓ/3406_to_nag_to_offend|3406_to_nag_to_offend]]: Proto-Semitic *ṯ̣br, 'to nag, to offend': reflexes in 3 language(s).
 
@@ -47,7 +47,7 @@ updated: 2026-10-27T22:12:57Z
 
 [[wiki/semitic-roots/ẓ/792_shine|792_shine]]: Proto-Semitic *ṯ̣VhVl-, 'shine': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ẓ/959_shadow_shade_to_shade_protection|959_shadow_shade_to_shade_protection]]: Proto-Semitic *ṯ̣il(l)-, 'shadow, shade', 'to shade', 'protection': reflexes in 20 language(s).
+[[wiki/semitic-roots/ẓ/959_shadow_shade_to_shade_protection|959_shadow_shade_to_shade_protection]]: Proto-Semitic *ṯ̣il(l)-, 'shadow, shade', 'to shade', 'protection': reflexes in 21 language(s).
 
 [[wiki/semitic-roots/ẓ/K0827_load_1_to_journey_depart_2|K0827_load_1_to_journey_depart_2]]: Proto-Semitic *ṯ̣VʿVn-, 'load' 1, 'to journey, depart' 2: reflexes in 17 language(s).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/1845_all_inhabited_arable_land_earth_area
 title: "*daym(-ūm)- ~ *damdam- ~ *ʾadam(-at)-: 'all (inhabited, arable) land, earth, area'"
-desc: "Proto-Semitic *daym(-ūm)- ~ *damdam- ~ *ʾadam(-at)-, 'all (inhabited, arable) land, earth, area': reflexes in 8 language(s)."
+desc: "Proto-Semitic *daym(-ūm)- ~ *damdam- ~ *ʾadam(-at)-, 'all (inhabited, arable) land, earth, area': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1845"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔădāmā (HALOT 15); also ʔādām, ʕēn ʔ. (HALOT 14, 15) (in: Zech 9:1, Jr 32:20, etc.) | HALOT 15; HALOT 14, 15 | gloss withheld |
 | Judaic Aramaic | ʔadamtā 'earth' \[Ja 17\] | Ja 17 |  |
 | Syrian Aramaic | ʔadamtā 'earth; dust; starch' \[Brock 6\] | Brock 6 |  |
+| Amorite | ʾadm: ad-mu-a (Ur III), ⁽ᵈ⁾ad-mu= (Sanmartín GlOS 1, 9) | Sanmartín GlOS 1, 9 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

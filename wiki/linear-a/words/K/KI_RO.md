@@ -40,14 +40,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Function CONFIRMED from independent arithmetic and structural controls: (A) corpus complementarity—KU-RO functions as 'total' and KI-RO as 'owed/outstanding'; KI-RA is excluded because its relationship to KI-RO remains unproved; (B) HT15 arithmetic forcing case—684 + 570 = 1254 ≠ 400, so KI-RO 400 cannot be a total, but reads cleanly as 'owed/outstanding 400'; (C) structure—KI-RO heads sections that END in KU-RO with exact sums (HT88: six 1s = KU-RO 6 ✓; HT117a: ten × 1 = KU-RO 10 ✓; HT94b: five × 1 = KU-RO 5 ✓); a total cannot head a list. HT1 supplies a further control: KI-RO 197 is not the total of the four following quantities, which sum to 336. HT30's KI-RO section re-lists the main section's commodities with smaller quantities—the delivered/outstanding split; HT34's mid-list KI-RO 30 (a 7 erased) sums nothing visible \|\| Not kuro/kiru √k-l-l 'all, total' (Gordon 1966 §163): that conflates it with KU-RO through the Gordon KI=/ku/ sign alternate, whose only evidence was this very word. Under primary KI=/ki/, KI-RO ≠ KU-RO phonetically and the two terms are cleanly complementary. Fongaro kirru 'container' recorded as a possible ETYMOLOGY only (excluded as the function—a container cannot head the HT88/HT117a/HT94b recipient lists). The function stands independently of the etymology \|\| Usage: KI-RO quantities are NOT summed into KU-RO checks; residuals compute as (delivered − owed) where the tablet marks the split. What would flip it: a tablet where KI-RO's quantity equals the exact sum of the items above it (none among the 13). \|\| ETYMOLOGY (CANDIDATE): √k-l-ʾ 'hold back, withhold'. KI-RO = \*kilʾu (R-series writes l; the glottal stop is unwritten; -u case ending), the qitl noun preserved in Hebrew keleʾ 'restraint' (&lt; \*kilʾ): 'what is held back', the amount outstanding. Cognates: Hebrew kālāʾ 'withhold, keep back' / keleʾ (H3607/H3608), Akkadian kalû 'detain, hold back', Syriac klʾ 'restrain', Geʿez kalʾa 'retinuit, denegavit'. The pair KU-RO \*kull- 'all' (√k-l-l) / KI-RO \*kilʾ- 'withheld' (√k-l-ʾ) differs in vowel and third radical—which explains Gordon's conflation of the two.
+Function CONFIRMED from independent arithmetic and structural controls: (A) corpus complementarity—KU-RO functions as 'total' and KI-RO as 'owed/outstanding'; KI-RA is excluded because its relationship to KI-RO remains unproved; (B) HT15 arithmetic forcing case—684 + 570 = 1254 ≠ 400, so KI-RO 400 cannot be a total, but reads cleanly as 'owed/outstanding 400'; (C) structure—KI-RO heads sections that END in KU-RO with exact sums (HT88: six 1s = KU-RO 6 ✓; HT117a: ten × 1 = KU-RO 10 ✓; HT94b: five × 1 = KU-RO 5 ✓); a total cannot head a list. HT1 supplies a further control: KI-RO 197 is not the total of the four following quantities, which sum to 336. HT30's KI-RO section re-lists the main section's commodities with smaller quantities—the delivered/outstanding split; HT34's mid-list KI-RO 30 (a 7 erased) sums nothing visible \|\| Not kuro/kiru √k-l-l 'all, total' (Gordon 1966 §163): that conflates it with KU-RO through the Gordon KI=/ku/ sign alternate, whose only evidence was this very word. Under primary KI=/ki/, KI-RO ≠ KU-RO phonetically and the two terms are cleanly complementary. Fongaro kirru 'container' recorded as a possible ETYMOLOGY only (excluded as the function—a container cannot head the HT88/HT117a/HT94b recipient lists). The function stands independently of the etymology \|\| Usage: KI-RO quantities are NOT summed into KU-RO checks; residuals compute as (delivered − owed) where the tablet marks the split. What would flip it: a tablet where KI-RO's quantity equals the exact sum of the items above it (none among the 13). \|\| ETYMOLOGY (CANDIDATE): √k-l-ʾ (2998) 'hold back, withhold'. KI-RO = \*kilʾu 'what is held back', the amount outstanding (R-series writes l; the glottal stop is unwritten; -u case ending): Hebrew kālāʾ 'withhold, keep back', Akkadian kalû 'hold back'. Not Akkadian kalû 'totality', KU-RO's √k-l-l. The pair KU-RO \*kull- 'all' (√k-l-l) / KI-RO \*kilʾ- 'withheld' (√k-l-ʾ) differs in vowel and third radical—which explains Gordon's conflation of the two.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | keleʾ (כֶּלֶא) 'restraint'; kālāʾ (כָּלָא) 'withhold, keep back' (H3608, H3607) |
-| Akkadian | kalû 'detain, hold back' |
+| Hebrew | kālāʾ (כָּלָא) 'withhold, keep back' (HALOT 475) |
+| Akkadian | kalû 'hold back, detain'; adj. kalû 'held (back)' (ORACC CAMS/GKAB) |
 | Syriac | klʾ (ܟܠܐ) 'restrain' |
 | Geʿez | kalʾa (ከልአ) 'held back, refused' |
 
@@ -79,11 +79,11 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | kilʾu(?) | owed / outstanding balance (deficit) | CONFIRMED |
-| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | kilʾu(?) | owed / outstanding balance (deficit) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT1\|HT1]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93b\|HT93b]] | kilʾu | owed, outstanding | CONFIRMED |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | kilʾu(?) | owed (transaction header) | CONFIRMED |
-| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | kilʾu(?) | owed / outstanding balance (deficit) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | kilʾu | owed (transaction header) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | kilʾu | owed / outstanding balance (deficit) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | kilʾu | owed, outstanding balance | CONFIRMED |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | kilʾu | owed, outstanding balance | CONFIRMED |
 

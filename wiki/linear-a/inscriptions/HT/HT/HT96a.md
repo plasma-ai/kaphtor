@@ -86,7 +86,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitara / batūla | maiden; rival a recipient's name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star323_star344\|\*323-\*344]] |  | transaction sign + logogram |  | unread |
 | [[wiki/linear-a/words/K/KU_MA_RO_broken_start\|&#93;-KU-MA-RO]] |  | broken before KU |  | unread |
-| [[wiki/linear-a/words/T/TE\|TE]] | terûmā(?) | transaction or category sign; perhaps contribution | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TE\|TE]] | terûmā | transaction or category sign; perhaps contribution | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | NI | figs (commodity ideogram) | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes

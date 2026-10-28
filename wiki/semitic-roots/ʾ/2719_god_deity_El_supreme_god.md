@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2719_god_deity_El_supreme_god
 title: "*ʾil-: 'god, deity; El (supreme god)'"
-desc: "Proto-Semitic *ʾil-, 'god, deity; El (supreme god)': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾil-, 'god, deity; El (supreme god)': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2719"
@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʔl (Krahmalkov 49) | Krahmalkov 49 | gloss withheld |
 | Hebrew | ʔēl (HALOT 48) | HALOT 48 | gloss withheld |
 | Epigraphic South Arabian | Sab ʾl, ʾlt (SD 5; Biella 15; Sabaweb lemmas 1539, 7528) | SD 5; Biella 15; Sabaweb lemmas 1539, 7528 | gloss withheld |
-| Amorite | ʾilum, ʾillum, ʾelum, ʾiltum, ʾilī (Gelb AS 21, 14); ʾalla, ʾila, ʾilānu (Buck 2019, 323) | Gelb AS 21 14; Buck 2019, 323 | gloss withheld |
+| Amorite | ʾilum, ʾillum, ʾelum, ʾiltum, ʾilī (Gelb AS 21, 14); ʾalla, ʾila, ʾilānu (Buck 2019, 323); ʾil: i-la-el/DINGIR, el=, e-lV=; e-lV= (Ur III) (Sanmartín GlOS 1, 19) | Gelb AS 21 14; Buck 2019, 323; Sanmartín GlOS 1, 19 | gloss withheld |
 | Punic | ʾl, ʿl (T 16) | T 16 | gloss withheld |
 | Syrian Aramaic | ʔīl 'God' (Payne Smith 13); ʔalāh 'God; a false god' (Payne Smith 17) | Payne Smith 13; Payne Smith 17 |  |
 | Pre-Islamic North Arabian | Safaitic ʾlh (Al-Jallad–Jaworska 43) | Al-Jallad–Jaworska 43 | gloss withheld |
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | OAram. ʾlh (Kogan 2015, ch. 3 §5.2 no. 2, fn. 503) | Kogan 2015 ch. 3 §5.2 no. 2, fn. 503 | gloss withheld |
 | Modern Aramaic | Tur. aloho (RW 32 apud SEDonline 1115) | RW 32; SEDonline 1115 | gloss withheld |
 | Emar | i-la-i, i-la-ú /ʾilāhū/ (Pentiuc 2001, 82–83) | Pentiuc 2001 82–83 | gloss withheld |
+| Eblaitic | ab-da-rí-ì, cf. li-sa-ne-lum/lu-um /ʾil/ (Sanmartín GlOS 1, 19); DN Il, absent from the offering lists: names en-na-il, i-ti-il, a-ba-il, a-da-il, iš-ra-il, iš-má-il, iš-ma-ì-lum, mi-kà-il (Antalík 1998, 33) | Sanmartín GlOS 1, 19; Antalík 1998, 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

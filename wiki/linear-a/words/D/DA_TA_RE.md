@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/D/DA_TA_RE
 title: "DA-TA-RE"
-desc: "Onomasticon personal name, no reading."
+desc: "Daṯar: Old (man's name); rival 'He of the gate'. Onomasticon personal name; lexicon entry DA-TA-RA."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "DA-TA-RE"
 datasets: ["onomasticon"]
 attestations: ["HT88"]
+reading: "Daṯar"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -37,6 +38,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | Daṯar |
+| Meaning | Old (man's name); rival 'He of the gate' |
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
@@ -44,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Lexicon entry | [[wiki/linear-a/words/D/DA_TA_RA\|DA-TA-RA]] |
 
 ### Note
 

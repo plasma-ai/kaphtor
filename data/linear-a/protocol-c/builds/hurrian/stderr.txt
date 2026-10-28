@@ -1,0 +1,3 @@
+Reading additional input from stdin...
+2026-10-29T18:20:36.394093Z ERROR codex_skills_extension::loader::host: skills scan reached its traversal limit (root: file://CODEX_HOME/skills)
+2026-10-29T18:20:36.403559Z ERROR codex_core::session::session: failed to load skill linear-a-decipherment/references/linear-b/SKILL.md: missing YAML frontmatter delimited by ---

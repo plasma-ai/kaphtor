@@ -1,0 +1,42 @@
+commands: 24
+paths outside the kit: 0
+$ /bin/zsh -lc "pwd && rg --files -g 'BRIEF.md' -g 'AGENTS.md' -g 'package.json' -g 'README*' -g '"'!node_modules'"' -g '"'!vendor'"'"
+$ /bin/zsh -lc 'cat BRIEF.md'
+$ /bin/zsh -c 'ls -la && cat grammar_files.txt && cat units.md && cat schema.json && cat protocol.md'
+$ /bin/zsh -c "sed -n '1280,1420p' Allen-MiddleEgyptian-3rd-ed-2014.md; sed -n '1745,1900p' Allen-MiddleEgyptian-3rd-ed-2014.md; sed -n '2160,2230p' Allen-MiddleEgyptian-3rd-ed-2014.md"
+$ /bin/zsh -c "python3 -c 'import re,html; s=open(\"Allen-MiddleEgyptian-3rd-ed-2014.md\").read().splitlines()
+for a,b in [(1395,1418),(1753,1812),(2470,2500),(2565,2597),(2798,2835),(3000,3185),(3933,4028)]:
+ print(\"\\nLINES\",a,b); t=\"\\n\".join(s[a-1:b]); t=re.sub(r\"<span class=\\\"underline1\\\
+$ /bin/zsh -c "python3 -c 'import re,html; s=open(\"Allen-MiddleEgyptian-3rd-ed-2014.md\").read().splitlines()
+for a,b in [(3004,3078),(3079,3132)]:
+ print(\"\\nLINES\",a,b); t=\"\\n\".join(s[a-1:b]); t=re.sub(r\"<span class=\\\"underline1\\\">(.*?)</span>\",lambda m: {\"t\":\"ṯ\",\"d\":\"ḏ\",\"h\":\"
+$ /bin/zsh -c 'python3 read_units.py 5065:5200 5538:5640 6015:6080 6274:6420'
+$ /bin/zsh -c 'python3 read_units.py 6598:6695 7080:7135 7740:7810 8750:8830 8925:8995 9074:9124 9180:9260'
+$ /bin/zsh -c 'python3 read_units.py 7746:7793 8753:8790 10822:10958'
+$ /bin/zsh -c 'python3 read_units.py 11465:11595 11902:11980 12155:12275'
+$ /bin/zsh -c "python3 -c 'import re; s=open(\"units.md\").read(); rows=[x for x in s.splitlines() if re.match(r\"\\| (Nominal|Pronominal|Verbal|Clitics) \\|\",x)]; print(\"Units:\",len(rows)); print(\"\\n\".join(str(i+1)+\" \"+r.split(\"|\")[3].strip()+\" \"+re.search(r\"md line (\\d+)\",r)[1] for i,
+$ /bin/zsh -c 'python3 read_units.py 1297:1308 1321:1331 1339:1349 1359:1414 1767:1807 1851:1865 1875:1887 2177:2217 3944:3949'
+$ /bin/zsh -c "python3 -c 'import importlib.util; print(\"jsonschema available:\",importlib.util.find_spec(\"jsonschema\") is not None)'"
+$ /bin/zsh -c 'python3 read_units.py 1:75 5167:5175 6050:6061 6611:6630 6635:6645 8941:8959'
+$ /bin/zsh -c 'python3 build_inventory.py'
+$ /bin/zsh -c "python3 -c 'import re; s=open(\"Allen-MiddleEgyptian-3rd-ed-2014.md\").read().splitlines(); page=\"\"
+for i,l in enumerate(s,1):
+ a=re.findall(r\"_page_(\\d+)\",l)
+ if a: page=a[-1]
+ if 3004<=i<=3132 or 6274<=i<=6393:
+  if a or re.match(r\"[0-9]+[)\\\\]\",l) or any(x in l for x in (\"jm
+$ /bin/zsh -c 'python3 build_inventory.py'
+$ /bin/zsh -c "python3 -c 'import json,jsonschema,re; from pathlib import Path
+x=json.loads(Path(\"inventory.json\").read_text()); schema=json.loads(Path(\"schema.json\").read_text()); jsonschema.Draft202012Validator(schema,format_checker=jsonschema.FormatChecker()).validate(x)
+assert len({e[\"id\"] f
+$ /bin/zsh -c 'python3 build_inventory.py'
+$ /bin/zsh -c "python3 -c 'import json,re,html; from pathlib import Path
+x=json.loads(Path(\"inventory.json\").read_text()); lines=Path(\"Allen-MiddleEgyptian-3rd-ed-2014.md\").read_text().splitlines(); bad=[]
+for e in x[\"entries\"]:
+ start=int(re.search(r\"md line (\\d+)\",e[\"source\"][\"unit\"])[1
+$ /bin/zsh -c "python3 -c 'from pathlib import Path; p=Path(\"notes.md\"); p.write_text(p.read_text()+Path(\"coverage.tmp\").read_text())'"
+$ /bin/zsh -c 'cat kit.sha256'
+$ /bin/zsh -c "python3 -c 'import json,re,jsonschema; from pathlib import Path
+x=json.loads(Path(\"inventory.json\").read_text()); s=json.loads(Path(\"schema.json\").read_text()); jsonschema.Draft202012Validator(s,format_checker=jsonschema.FormatChecker()).validate(x)
+assert x[\"builder\"]=={\"model\"
+$ /bin/zsh -c 'shasum -a 256 -c kit.sha256'

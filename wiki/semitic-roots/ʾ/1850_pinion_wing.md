@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1850_pinion_wing
 title: "*ʾa/ibr-: 'pinion, wing'"
-desc: "Proto-Semitic *ʾa/ibr-, 'pinion, wing': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ʾa/ibr-, 'pinion, wing': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1850"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʔēbārā, ʔēbǝrā 'arm, wing, pinion' \[Ja 44\] | Ja 44 |  |
 | Syrian Aramaic | ʔebrā 'feather' \[Brock 3\] | Brock 3 |  |
 | Aramaic | PLM ʔbr \[HJ 7\] | HJ 7 | gloss withheld |
+| Eblaitic | a-bar-tum (= Sum. ti₈ᵐᵘˢᵉⁿ) (VE 545; Civil 2017, 127) | VE 545; Civil 2017, 127 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

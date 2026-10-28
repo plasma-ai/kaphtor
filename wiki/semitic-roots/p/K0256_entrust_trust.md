@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/K0256_entrust_trust
 title: "*paqād-: 'entrust', 'trust'"
-desc: "Proto-Semitic *paqād-, 'entrust', 'trust': reflexes in 16 language(s)."
+desc: "Proto-Semitic *paqād-, 'entrust', 'trust': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0256"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | fäḳḳädä (AED 2300 apud SEDonline 1823) | AED 2300; SEDonline 1823 | gloss withheld |
 | Harari | fāḳädä, täfāḳädä (EDH 63 apud SEDonline 1823) | EDH 63; SEDonline 1823 | gloss withheld |
 | Mehri | fəḳáwd (ML 91 apud SEDonline 1823) | ML 91; SEDonline 1823 | gloss withheld |
+| Amorite | pqd: japqid, pāqidum, fem. piqdatum (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

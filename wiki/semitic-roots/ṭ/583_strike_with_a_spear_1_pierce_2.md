@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/583_strike_with_a_spear_1_pierce_2
 title: "*ṭVʕa/un-: 'strike with a spear' 1, 'pierce' 2"
-desc: "Proto-Semitic *ṭVʕa/un-, 'strike with a spear' 1, 'pierce' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *ṭVʕa/un-, 'strike with a spear' 1, 'pierce' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "583"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṭʕn 2 |  |  |
 | Mehri | ṭan 2 | SEDonline semet 1510 |  |
 | Harsusi | ṭon 2 | SEDonline semet 1510 |  |
+| Amorite | ṭaḫānu: ṭá-aḫ-nu (ARM 2, 25: 4') (Streck 2000, 119) | Streck 2000 119 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -82,7 +82,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | dignitary, prince (title); rival a personal name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit) | CANDIDATE | CANDIDATE (lexicon) |
 | 30 | 30 | 30 | CONFIRMED |  |
-| [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli(?) | personal name (√š-q-l 'to weigh') | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli | personal name (√š-q-l 'to weigh') | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KA\|KA]] | kapp | palm-measure, bowl (unit) | CANDIDATE | CANDIDATE (lexicon) |
 | 30 | 30 | 30 | CONFIRMED |  |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |

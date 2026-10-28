@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṣarḫa 'cry' | Anderson–Moser 2024 root ṣrḫ |  |
 | Hebrew | ṣaraḥ 'cry' | Anderson–Moser 2024 root ṣrḫ |  |
 | Mandaic Aramaic | ṢRK, ṢRA (HALOT 1055) | HALOT 1055 |  |
-| Akkadian | ṣarāḫu(m) (HALOT 1055) | HALOT 1055 |  |
+| Akkadian | ṣarāḫu(m) (HALOT 1055); ṣarāḫu B; Š (CAD Ṣ 99); ṣarḫu B (CAD Ṣ 110) | HALOT 1055; CAD Ṣ 99; CAD Ṣ 110 | gloss withheld |
 | Epigraphic South Arabian | Sab. ṣrḫ (HALOT 1055; Sabaweb lemma 5211) | HALOT 1055; Sabaweb lemma 5211 | gloss withheld |
 | Syrian Aramaic | ṣəraḥ (HALOT 1055) | HALOT 1055 |  |
 | Mehri | ṣōreḫ (LGz. 563) | LGz. 563 | gloss withheld |

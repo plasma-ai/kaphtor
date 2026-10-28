@@ -81,6 +81,6 @@ Context: Peak sanctuary libation formula—fullest attestation.  PRESERVATION: F
 
 ## Corpus note
 
-GORILA V, 18–19: four-sided libation table, two lines around faces a–d. Line 1: JA-SA-SA-RA-\[ME · U-NA-KA-NA\]-SI ⌊·⌋ I-PI-NA-MA; face c breaks after RA and face d resumes at SI; GORILA restores ME and U-NA-KA-NA from the formula (V 19). Line 2 ends TA-NA-RA-TE-U-TI-NU · I-DA-\[: I closes face b and DA opens face c, joined by a hyphen into the break, with no divider between them in the transcription or the facsimile (GORILA V 19, 18). The former divider after I and the dropped DA were lineara.xyz errors. Younger: the last word probably had about six signs.
+GORILA V, 18–19: four-sided libation table, two lines around faces a–d. Line 1: JA-SA-SA-RA-\[ME · U-NA-KA-NA\]-SI ⌊·⌋ I-PI-NA-MA; face c breaks after RA and face d resumes at SI; GORILA restores ME and U-NA-KA-NA from the formula (V 19). Line 2 ends TA-NA-RA-TE-U-TI-NU · I-DA-\[: I closes face b and DA opens face c, joined by a hyphen into the break, with no divider between them in the transcription or the facsimile (GORILA V 19, 18). Younger: the last word probably had about six signs.
 
 <!-- END kaphtor:record -->

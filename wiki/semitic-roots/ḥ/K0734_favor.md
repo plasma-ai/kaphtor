@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0734_favor
 title: "*ḥen-: 'favor'"
-desc: "Proto-Semitic *ḥen-, 'favor': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḥen-, 'favor': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0734"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḥannat; ḥanīn (HALOT 332, 333) | HALOT 332, 333 |  |
 | Phoenician | ḥn (T 108) | T 108 | gloss withheld |
 | Aramaic | ḥn (T 108) | T 108 |  |
+| Amorite | ḥinnum, fem. ḥinnatum (Gelb AS 21, 20) | Gelb AS 21 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

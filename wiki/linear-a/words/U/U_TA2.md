@@ -55,6 +55,6 @@ di Mino; GORILA I 170–171; ORACC Uda comparison
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Uta/Uda? | possible entity or place name heading the fig entry | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Uta/Uda | possible entity or place name heading the fig entry | CANDIDATE |
 
 <!-- END kaphtor:record -->

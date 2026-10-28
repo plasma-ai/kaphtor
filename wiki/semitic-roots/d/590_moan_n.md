@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/590_moan_n
 title: "*dimm-: 'moan' (n.)"
-desc: "Proto-Semitic *dimm-, 'moan' (n.): reflexes in 3 language(s)."
+desc: "Proto-Semitic *dimm-, 'moan' (n.): reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "590"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | dimm-at- |  |  |
 | Ugaritic | dmm (CUC; DULAT 271) | CUC; DULAT 271 | gloss withheld |
 | Akkadian | dimmatu (CAD D 143); dimmu (CAD D 144) | CAD D 143; CAD D 144 |  |
+| Eblaitic | cf. ti-mu-mu /dimm/; da-ma-ti /dammat/ (Sanmartín GlOS 1, 148) | Sanmartín GlOS 1, 148 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

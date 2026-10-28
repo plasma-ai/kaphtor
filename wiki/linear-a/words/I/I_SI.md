@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KH9 MI I-SI CYP+D ½ 2 (cyperus); PYRWc4 roundel TI (figs) I-SI. Hebrew ʾiššeh 'offering by fire' (BDB; H0801). /i/-vocalized counterpart of A-SE ʾaššē; the two spellings do not share a site (A-SE: HT, ZA; I-SI: KH, PYR). One-consonant skeleton—reading rests on offering-commodity context alone.
+KH9 MI I-SI CYP+D ½ 2 (cyperus); PYRWc4 roundel TI (figs) I-SI. Hebrew ʾiššeh 'offering by fire' (HALOT 93). /i/-vocalized counterpart of A-SE ʾaššē; the two spellings do not share a site (A-SE: HT, ZA; I-SI: KH, PYR). One-consonant skeleton—reading rests on offering-commodity context alone.
 
 ### Source
 

@@ -68,6 +68,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] |  | transaction sign, divider-bounded |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | b(i)=?; bād(i)? | if separate, possibly ‘in/by’ or administrative shorthand ‘in the charge of’ | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | b(i)= / bād(i) | if separate, possibly ‘in/by’ or administrative shorthand ‘in the charge of’ | CANDIDATE |
 
 <!-- END kaphtor:record -->

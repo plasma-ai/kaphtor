@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/849_give
 title: "*wVhVb-: 'give'"
-desc: "Proto-Semitic *wVhVb-, 'give': reflexes in 17 language(s)."
+desc: "Proto-Semitic *wVhVb-, 'give': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "849"
@@ -47,6 +47,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | whb (Tropper UG 274) | Tropper UG 274 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic whb (Al-Jallad–Jaworska 139) | Al-Jallad–Jaworska 139 | gloss withheld |
 | Soqotri | hábe (LS 140; CSOL I 550; CSOL II 470 apud SEDonline 340) | LS 140; SEDonline 340 | gloss withheld |
+| Amorite | y-h-b: cf. ia-a-ab-el (Sanmartín GlOS 2, 346) | Sanmartín GlOS 2, 346 | gloss withheld |
+| Eblaitic | /w-h-b/: cf. names i-i-bù, i-ì-bu, i-ib-ma-lik (Sanmartín GlOS 2, 346) | Sanmartín GlOS 2, 346 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

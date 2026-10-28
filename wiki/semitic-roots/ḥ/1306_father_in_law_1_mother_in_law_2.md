@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | emu (HALOT 324); cf. ḫammu; emētu (CAD E 154, AHw. 214 apud SEDonline 570) | HALOT 324; CAD E 154, AHw. 214; SEDonline 570 | gloss withheld |
+| Akkadian | emu 1 (CAD E 154; HALOT 324); cf. ḫammu; emētu 2 (CAD E 149, AHw. 214 apud SEDonline 570) | CAD E 154; HALOT 324; CAD E 149, AHw. 214; SEDonline 570 | gloss withheld |
 | Syrian Aramaic | ḥmā (HALOT 324; Payne Smith 145); ḥmātā (LSyr. 242, SL 469 apud SEDonline 570) | HALOT 324; Payne Smith 145; LSyr. 242, SL 469; SEDonline 570 | gloss withheld |
 | Arabic | ḥam (HALOT 324),; ḥamū l-raǧul 1 (Lane 650); ḥamāt 2 (Lane 650) | HALOT 324; Lane 650 | gloss withheld |
 | Geez | ḥam (HALOT 324); ḥamot (LLA 77 apud SEDonline 570) | HALOT 324; LLA 77; SEDonline 570 | gloss withheld |

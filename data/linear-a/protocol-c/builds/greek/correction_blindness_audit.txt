@@ -1,0 +1,21 @@
+commands: 10
+paths outside the kit: 0
+$ /bin/zsh -lc "pwd; rg --files -g 'AGENTS.md' -g 'BRIEF.md' -g 'protocol.md' -g 'inventory.json' -g 'notes.md' -g '*.pdf' -g '*.md'"
+$ /bin/zsh -lc 'cat BRIEF.md protocol.md notes.md'
+$ /bin/zsh -lc "rg -n -C 5 'greek_274|VII\\.D\\.2|167|vorgeschlagene Deutung' inventory.json bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; git status --short"
+$ /bin/zsh -lc "rg -n -B 17 -A 2 '\"id\": \"greek_274\"' inventory.json; rg -n '"'^167$'"' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; tail -n 8 notes.md; command -v pdftotext; command -v python3"
+$ /bin/zsh -lc "sed -n '4160,4205p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; pdftotext -f 167 -l 167 bartonek-HMG-2003-part1-pp001-250.pdf -"
+$ /bin/zsh -lc 'pdfinfo bartonek-HMG-2003-part1-pp001-250.pdf | head -n 18; pdftoppm -f 167 -l 167 -scale-to 1800 -singlefile -png bartonek-HMG-2003-part1-pp001-250.pdf .page167'
+$ /bin/zsh -lc 'pdftoppm -f 101 -l 101 -scale-to 1800 -singlefile -png bartonek-HMG-2003-part1-pp001-250.pdf .page167'
+$ /bin/zsh -lc "rg --files -g '"'!*.pdf'"'; pdftoppm -f 130 -l 130 -scale-to 1800 -singlefile -png bartonek-HMG-2003-part1-pp001-250.pdf .page167"
+$ /bin/zsh -lc 'pdftoppm -f 121 -l 121 -scale-to 1800 -singlefile -png bartonek-HMG-2003-part1-pp001-250.pdf .page167'
+$ /bin/zsh -lc "python3 -c 'import json, re
+from pathlib import Path
+p = Path('\\''inventory.json'\\'')
+before = p.read_bytes()
+data = json.loads(before)
+def entries(value):
+    if isinstance(value, dict):
+        if value.get('\\''id'\\'') == '\\''greek_274'\\'':
+            yield value
+        for c

@@ -17,9 +17,21 @@ SigLA sign list (data/linear-a/sigla-sign-map.json)
   fields added under CC BY 4.0. The SigLA images it names are not in this repository.
 
 Semitic root reflexes (data/semitic-roots/semitic_roots.json)
-  903 reflexes come from Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
-  doi:10.5281/zenodo.14160276, CC BY 4.0; each cites it. The consonant correspondences
+  1,406 reflexes cite Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
+  doi:10.5281/zenodo.14160276, CC BY 4.0. The consonant correspondences
   (data/semitic-roots/semitic_correspondences.json) follow Huehnergard 2019, Table 3.2 (p. 51), as cited facts.
+
+Rival-language root keys (data/linear-a/egyptian_roots.json, luwian_roots.json, hurrian_roots.json)
+  The Egyptian file holds 2,202 entries from Wiktionary's Egyptian lemmas (through kaikki.org), CC BY-SA 4.0, and
+  carries that licence; 726 come from Persons and Names of the Middle Kingdom (2018), Zenodo,
+  doi:10.5281/zenodo.1411392, CC BY 4.0. Three Luwian entries cite Wiktionary, CC BY-SA 4.0. The ACLT and TIED terms
+  are set out in data/linear-a/rival-roots.md. Anything derived from the Wiktionary entries carries CC BY-SA 4.0.
+
+Contact lexica (data/contact/)
+  Hebrew: TBESH, STEPBible Data, Tyndale House, Cambridge, CC BY 4.0, with Brown, Driver and Briggs (1906), public
+  domain. Aramaic: the Aramaic Root Atlas, Apache-2.0. Akkadian: ORACC CAMS/GKAB, CC0 1.0. Amarna Canaanite: the
+  aemw/amarna Project, ORACC, CC0 1.0, with our changes under CC BY 4.0. Syriac: English Wiktionary's Classical
+  Syriac entries, CC BY-SA 4.0; anything derived from that file carries the same terms.
 
 Akkadian literary glossary (data/ane/akkadian_literary.jsonl)
   From ORACC CAMS/GKAB, CC0 1.0.

@@ -59,7 +59,7 @@ di Mino; Gelb 1980
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3007\|HTWc3007]] | Haghia Triada | Roundel | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3008\|HTWc3008]] | Haghia Triada | Roundel | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3008\|HTWc3008]] | Haghia Triada | Roundel | complete; form not in transliteration |
 
 ## In translations
 

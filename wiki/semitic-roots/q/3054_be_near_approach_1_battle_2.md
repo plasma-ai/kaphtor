@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3054_be_near_approach_1_battle_2
 title: "*qrb: 'be near, approach' 1, 'battle' 2"
-desc: "Proto-Semitic *qrb, 'be near, approach' 1, 'battle' 2: reflexes in 9 language(s)."
+desc: "Proto-Semitic *qrb, 'be near, approach' 1, 'battle' 2: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3054"
@@ -38,6 +38,7 @@ updated: 2026-10-26T14:26:59Z
 | Geez | qarba (LGz. 440) | LGz. 440 | gloss withheld |
 | Syrian Aramaic | qreb 'come near, touch; bring, offer; fight' (Payne Smith 517) | Payne Smith 517 |  |
 | Epigraphic South Arabian | Sab qrb (Biella 465; Sabaweb lemma 1718) | Biella 465; Sabaweb lemma 1718 | gloss withheld |
+| Amorite | q-r-b 1, Š: iq-ri-ba-nu-um (Ur III) (Sanmartín GlOS 1, 350) | Sanmartín GlOS 1, 350 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

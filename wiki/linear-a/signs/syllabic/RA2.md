@@ -48,6 +48,8 @@ The only sign that reliably distinguishes /l/ from /r/ in Linear A.
 |---|---|---|
 | [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasīr- | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]] | ʾilā(t) | SPECULATIVE |
+| [[wiki/linear-a/words/O/O_RA2\|O-RA₂]] | ʾŌl | SPECULATIVE |
+| [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | SPECULATIVE |
 | [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl/Baʿl | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |

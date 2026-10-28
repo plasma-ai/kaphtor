@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/K0499_be_grey_haired_old
 title: "*śVyVb-: 'be grey-haired, old'"
-desc: "Proto-Semitic *śVyVb-, 'be grey-haired, old': reflexes in 5 language(s)."
+desc: "Proto-Semitic *śVyVb-, 'be grey-haired, old': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0499"
@@ -34,6 +34,8 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | śiyb (BDB 966; HALOT 1318) | BDB 966; HALOT 1318; Anderson–Moser 2024 root śyb | gloss withheld |
 | Akkadian | šiābu 'be(come)-old' | Anderson–Moser 2024 root śʾb |  |
 | Aramaic | SʾB (Qumran 246 apud CAL) | CAL; Anderson–Moser 2024 root śʾb | gloss withheld |
+| Amorite | Siyb, Siybt, Siybat: ši-bu-na-a-ta-am, ši-ib-tum, ši-ba-tum (Sanmartín GlOS 2, 281) | Sanmartín GlOS 2, 281 | gloss withheld |
+| Eblaitic | si-bù-um /Siyb, Siybt, Siybat/ (Sanmartín GlOS 2, 281) | Sanmartín GlOS 2, 281 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

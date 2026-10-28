@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*312", "*312-TE-TE", "*406VAS+KE", "MI-KI-SE-NA", "TA-TI"]
+words: ["*312", "*312-TE-TE", "*406VAS+KE", "MI-KI-SE-NA", "TA-TI", "U-NU-*21F"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -60,6 +60,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/star/star312_TE_TE|\*312-TE-TE]], [[wiki/linear-a/words/star/star406VAS_plus_KE|\*406VAS+KE]], [[wiki/linear-a/words/M/MI_KI_SE_NA|MI-KI-SE-NA]], [[wiki/linear-a/words/T/TA_TI|TA-TI]].
+[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/star/star312_TE_TE|\*312-TE-TE]], [[wiki/linear-a/words/star/star406VAS_plus_KE|\*406VAS+KE]], [[wiki/linear-a/words/M/MI_KI_SE_NA|MI-KI-SE-NA]], [[wiki/linear-a/words/T/TA_TI|TA-TI]], [[wiki/linear-a/words/U/U_NU_star21F|U-NU-\*21F]].
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1912_body_bone
 title: "*garm-: 'body; bone'"
-desc: "Proto-Semitic *garm-, 'body; bone': reflexes in 10 language(s)."
+desc: "Proto-Semitic *garm-, 'body; bone': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1912"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | garmā 'bone; crab shell', gǝrūmā 'bone, kernel; seed' \[Brock 133\]. | Brock 133 |  |
 | Aramaic | OFF grm (in grmyk - pl.suff.) \[HJ 235\] | HJ 235 | gloss withheld |
 | Modern Arabic | Yem. Daṯ. garm (Biella 76) | Biella 76 |  |
+| Amorite | girm: gi-ri-im-mu-um, gi-ri-ma-ia (Sanmartín GlOS 1, 187) | Sanmartín GlOS 1, 187 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

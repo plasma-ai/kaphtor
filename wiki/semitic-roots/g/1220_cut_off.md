@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | gamāmu |  |  |
 | Geez | gammama (LGz. 194) | LGz. 194 | gloss withheld |
 | Tigrinya | gämʿe (LGz. 193); gʷaʿmämä (LGz. 194) | LGz. 193; LGz. 194 | gloss withheld |
-| Arabic | ǧamma (LGz. 194) | LGz. 194 | gloss withheld |
+| Arabic | ǧamma (LGz. 194); ʾujimma l-ʿinabu (Lane 448) | LGz. 194; Lane 448 | gloss withheld |
 | Syrian Aramaic | gam (gmm) (LGz. 194) | LGz. 194 | gloss withheld |
 | Aramaic | gəmam (LGz. 194) | LGz. 194 | gloss withheld |
 | Mandaic Aramaic | gumma (LGz. 194) | LGz. 194 | gloss withheld |

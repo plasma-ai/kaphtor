@@ -45,7 +45,7 @@ Second allomorph wa-: WA-DU-NI-MI 'and (to) the lord(s)' (HT6b, HT85b; see DU-NI
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | w 'and, but, then' (DUL) |
+| Ugaritic | w 'and, but, then' (DULAT 926) |
 | Hebrew | wə- (וְ) 'and'; û- (וּ) before b, m, p and shewa (Gesenius §104e) |
 | Akkadian | u 'and' (Gordon 1966 §163) |
 | Phoenician | w 'and' (Punic w-) |

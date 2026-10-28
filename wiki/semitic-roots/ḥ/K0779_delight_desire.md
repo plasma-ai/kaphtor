@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0779_delight_desire
 title: "*ḥVpVẓ-: 'delight, desire'"
-desc: "Proto-Semitic *ḥVpVẓ-, 'delight, desire': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḥVpVẓ-, 'delight, desire': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0779"
@@ -35,6 +35,7 @@ updated: 2026-10-26T14:26:59Z
 | Judaic Aramaic | ḥpṣʾ (HALOT 340) | HALOT 340 |  |
 | Phoenician | ḥpṣ (B 316); mḥpṣ (HALOT 339) | B 316; HALOT 339 | gloss withheld |
 | Syrian Aramaic | ḥfaṭ (HALOT 339) | HALOT 339 |  |
+| Amorite | ḥ-p-ṯ̣: ia-aḫ-pí-ṣum (Sanmartín GlOS 1, 247) | Sanmartín GlOS 1, 247 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

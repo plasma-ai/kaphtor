@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["*312", "GRA+PA", "I-KU-JU-TI", "VIN", "VIN+RA"]
+words: ["*312", "*312-TA", "GRA+PA", "I-KU-JU-TI", "VIN", "VIN+RA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,6 +64,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/I/I_KU_JU_TI|I-KU-JU-TI]], [[wiki/linear-a/words/V/VIN|VIN]], [[wiki/linear-a/words/V/VIN_plus_RA|VIN+RA]].
+[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/star/star312_TA|\*312-TA]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/I/I_KU_JU_TI|I-KU-JU-TI]], [[wiki/linear-a/words/V/VIN|VIN]], [[wiki/linear-a/words/V/VIN_plus_RA|VIN+RA]].
 
 <!-- END kaphtor:record -->

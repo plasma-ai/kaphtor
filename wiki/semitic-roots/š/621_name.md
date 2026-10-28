@@ -56,8 +56,8 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | sǝm |  |  |
 | Tigrinya | sǝm; šəm (OLA80 §14.9) | OLA80 §14.9 | gloss withheld |
 | Punic | šm, šʿm (T 321) | T 321; Anderson–Moser 2024 root šm | gloss withheld |
-| Eblaitic | su-mu-um /šumum/ (VE 1144, Kogan–Krebernik 2021b: 684 apud SEDonline 37; Krebernik 1983, 40) | VE 1144, Kogan–Krebernik 2021b: 684; SEDonline 37; Krebernik 1983, 40 | gloss withheld |
-| Amorite | šum- (OLA80 §63.5); šumu (Buck 2019, 333) | OLA80 §63.5; Buck 2019, 333 | gloss withheld |
+| Eblaitic | su-mu-um /šumum/ (VE 1144, Kogan–Krebernik 2021b: 684 apud SEDonline 37; Krebernik 1983, 40); /Sam/: names sa-ma, sá-ma, sá-mu; su-mu-um /Sum/ (Sanmartín GlOS 2, 249–250) | VE 1144, Kogan–Krebernik 2021b: 684; SEDonline 37; Krebernik 1983, 40; Sanmartín GlOS 2, 249–250 | gloss withheld |
+| Amorite | šum- (OLA80 §63.5); šumu (Buck 2019, 333); Sam: sa-mu-mu-ú, sa-mu-a-bi-im, ša-ma-bu-um (Ur III); Sim: cf. si-im-me-a-tar, si-mu (Ur III); Sum: su-ma-an, su-mu-mu, šu-mi-in-ni (Ur III) (Sanmartín GlOS 2, 249–250) | OLA80 §63.5; Buck 2019, 333; Sanmartín GlOS 2, 249–250 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1156_elbow_forearm
 title: "*ʾamm-at-: 'elbow, forearm'"
-desc: "Proto-Semitic *ʾamm-at-, 'elbow, forearm': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾamm-at-, 'elbow, forearm': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1156"
@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ammatu OA, OB on \[CAD a2 70\], \[AHw 44\] | CAD a2 70; AHw 44 | gloss withheld |
 | Tigre | ʔammät \[LH 355\] | LH 355 | gloss withheld |
-| Eblaitic | a-ma-tum /ʔammatum/ \[Fr 149; Kr 20; Bl E No. 1\] | Fr 149; Kr 20 |  |
+| Eblaitic | a-ma-tum /ʔammatum/ \[Fr 149; Kr 20; Bl E No. 1\]; a-ma-tum /ʾammat/ (Sanmartín GlOS 1, 26) | Fr 149; Kr 20; Sanmartín GlOS 1, 26 | gloss withheld |
 | Mandaic Aramaic | ama \[DM 21\] | DM 21 | gloss withheld |
 | Ugaritic | ʔamt \[DULAT 71\] | DULAT 71 | gloss withheld |
 | Geez | ʔəmat \[LGz. 26\] | LGz. 26 | gloss withheld |
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | OFF PLM NBT ʔmh \[HJ 69-70\] | HJ 69-70 |  |
 | Tigrinya | ʔəmmät 'cubit' \[Bass. 487\] | Bass. 487 |  |
 | Soqotri | ʾemeh (LGz. 26) | LGz. 26 | gloss withheld |
+| Amorite | ʾammat (Sanmartín GlOS 1, 26) | Sanmartín GlOS 1, 26 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

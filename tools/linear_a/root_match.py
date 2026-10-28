@@ -15,6 +15,15 @@ Usage:
   uv run tools/linear_a/root_match.py DA-ME --families BC --top 5 --no-breadth
   uv run tools/linear_a/root_match.py SI-KI-NE --explain --top 3          # reflexes, citations, joined lexemes, sound laws
   uv run tools/linear_a/root_match.py --sweep unread --top 50 --workers 8  # unread_words.json ranked by q (run on a snapshot)
+  uv run tools/linear_a/root_match.py SI-KI-NE --conventional-values       # Linear B values only
+
+--conventional-values reads a sign whose engine value is not its Linear B value (tools/core/skeleton.py
+SIGN_STATUS, failing closed for an unlisted sign off the grid) by Linear B's value: PA₃, JU and ZU as pa₃, ju and
+zu (rm.LINEAR_B_VALUES), AU by its resolved /aw/. A word with a sign Linear B gives no value (*306, *118, ...) is
+unmapped (A5), and an alternate is read only if its status is conventional (RA₂ → r, not QA → z). All three decoy
+families follow, so p moves even for a word with no such sign. A report-only sensitivity analysis outside the
+registered statistic: reported beside the default run, it shows which results stand without the
+project's proposed values.
 
 --sweep unread queries every entry of data/linear-a/unread_words.json, sets gold-set words aside (counted, never queried),
 ranks by Benjamini–Hochberg q and stamps the report with the sha256 of the word list and of the index (§7.1).
@@ -150,7 +159,10 @@ def _one(word: str) -> dict[str, Any]:
     try:
         return _RUN["engine"].query(word, **_RUN["opts"]).to_json()
     except rm.UnmappedSign as e:
-        return {"word": word, "error": f"unmapped sign {e.args[0]}: the word is never shortened (A5)"}
+        gated = _RUN["engine"].conventional and rm._lookup_sign(e.args[0]) is not None and \
+            rm._beyond_linear_b(e.args[0])
+        why = " (a value beyond Linear B, --conventional-values)" if gated else ""
+        return {"word": word, "error": f"unmapped sign {e.args[0]}{why}: the word is never shortened (A5)"}
 
 
 def unread_words(path: Path) -> tuple[list[str], str]:
@@ -198,8 +210,9 @@ def ranked(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
 def run(words: list[str], *, index: RootIndex, exclusions: dict[str, str] | None, n: int, seed: int,
         families: str, names: bool, top: int, breadth: bool, corpus_words: list[str] | None = None,
         competitors: list[Any] = (), explained: bool = False, workers: int = 1,
-        contexts: Any = None, index_sha: str | None = None) -> dict[str, Any]:
+        contexts: Any = None, index_sha: str | None = None, conventional: bool = False) -> dict[str, Any]:
     """exclusions: the A4 Numbers left out (primary result), or None for the full index (secondary).
+    conventional: Linear B values only (--conventional-values; rm.sign_options).
     competitors: competitors.CompetitorSpace objects for the competitor null (§2), or none. explained: --explain.
     contexts: semantic_gate.Contexts for the semantic gate (A18), or None for data/linear-a/corpus.json.
     The contexts, the tagger and the clusters' Meanings are read once, in the parent, before a pool forks; with
@@ -209,7 +222,7 @@ def run(words: list[str], *, index: RootIndex, exclusions: dict[str, str] | None
     workers > 1 forks a pool over the same engine; every word's decoys come from its own seeded stream, so the
     results equal a serial run. A worker that dies (OOM, a kill) raises BrokenProcessPool rather than hanging."""
     engine = rm.Shoresh(index, names=names, exclude=exclusions or (), corpus_words=corpus_words,
-                        competitors=competitors, contexts=contexts)
+                        competitors=competitors, contexts=contexts, conventional=conventional)
     _ = engine.contexts, engine._domains()
     if index_sha is not None and _sha256(index.path) != index_sha:
         raise IndexChanged(f"{index.path} changed before its Meanings were read; rerun on a frozen snapshot "
@@ -231,6 +244,7 @@ def run(words: list[str], *, index: RootIndex, exclusions: dict[str, str] | None
     out = {"index": str(index.path), "index_checked": index.checked,
            "key_set": "full (secondary)" if exclusions is None else f"primary (A4: {len(exclusions)} Numbers out)",
            "n": n, "seed": seed, "families": families, "names": names,
+           "sign_values": "conventional" if conventional else "all",
            "competitors": {c.name: len(c.keys) for c in competitors}, "results": results}
     if exclusions is not None:                       # A17: listed Numbers the index no longer holds
         held = {k.number for k in index.keys if k.number is not None}
@@ -317,6 +331,8 @@ def render(report: dict[str, Any], rows: int = 50) -> str:
              f"key set {report['key_set']}; N={report['n']} per family; seed {report['seed']}"]
     if report.get("a4_absent"):
         lines.append(f"A4 lists Numbers the index no longer holds: {', '.join(report['a4_absent'])}")
+    if report.get("sign_values") == "conventional":
+        lines.append("sign values: Linear B values only (--conventional-values)")
     if report.get("gold_run"):
         lines.append("GOLD RUN: gold-set guard off (--gold-run)")
     if report.get("sweep"):
@@ -385,6 +401,10 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--json", action="store_true")
     parser.add_argument("--gold-run", action="store_true", help="lift the gold-set guard: the gold run only")
     parser.add_argument("--no-competitors", action="store_true", help="skip the competitor null (§2)")
+    parser.add_argument("--conventional-values", action="store_true",
+                        help="Linear B values only: a sign reads its Linear B value (PA₃, JU, ZU as pa₃, ju, zu), "
+                             "a word with a sign Linear B gives no value is unmapped (A5), and only conventional "
+                             "alternates are read")
     parser.add_argument("--explain", action="store_true",
                         help="per cluster: the record's reflexes with their citations, joined lexemes, possible "
                              "cognates, sound laws; per word: unlinked lexemes at or under d*")
@@ -419,7 +439,7 @@ def main(argv: list[str] | None = None) -> int:
     if not args.gold_run:
         try:
             gold_bytes = GOLD.read_bytes()
-            is_gold = gold_guard(GOLD)
+            is_gold = gold_guard(GOLD, conventional=args.conventional_values)
         except (OSError, ValueError, UnicodeDecodeError) as e:
             print(f"gold set unreadable, so no word can be checked against it: {e}", file=sys.stderr)
             return 3
@@ -464,7 +484,8 @@ def main(argv: list[str] | None = None) -> int:
                      seed=args.seed, families=args.families, names=args.names, top=1 if args.sweep else args.top,
                      breadth=not args.no_breadth,
                      competitors=competitors,
-                     explained=args.explain, workers=args.workers, contexts=contexts, index_sha=index_sha)
+                     explained=args.explain, workers=args.workers, contexts=contexts, index_sha=index_sha,
+                     conventional=args.conventional_values)
     except sg.TaggerChanged as e:
         print(f"semantic gate refused: {e}", file=sys.stderr)
         return 4

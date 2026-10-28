@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/335_edge
 title: "*pVʾ-: 'edge'"
-desc: "Proto-Semitic *pVʾ-, 'edge': reflexes in 7 language(s)."
+desc: "Proto-Semitic *pVʾ-, 'edge': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "335"
@@ -37,6 +37,8 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | pāʾtā (HALOT 907) | HALOT 907 |  |
 | Syrian Aramaic | paʾtā, patā (HALOT 907) | HALOT 907 |  |
 | Geez | fe (LGz. 154) | LGz. 154 | gloss withheld |
+| Amorite | piʾat (Sanmartín GlOS 2, 119) | Sanmartín GlOS 2, 119 | gloss withheld |
+| Eblaitic | bí-a-tum /piʾat/ (Sanmartín GlOS 2, 119) | Sanmartín GlOS 2, 119 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

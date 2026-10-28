@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṯ
 desc: "Semitic roots whose first radical is ṯ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T02:25:00Z
+updated: 2026-10-28T22:13:43Z
 ---
 
 # wiki/semitic-roots/ṯ
@@ -23,7 +23,7 @@ updated: 2026-10-28T02:25:00Z
 
 [[wiki/semitic-roots/ṯ/2036_woman_s_breast|2036_woman_s_breast]]: Proto-Semitic *ṯa/ud-, '(woman's) breast': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/ṯ/2037_neck_and_shoulders|2037_neck_and_shoulders]]: Proto-Semitic *ṯVkm- {} *čVkm-, 'neck and shoulders': reflexes in 9 language(s).
+[[wiki/semitic-roots/ṯ/2037_neck_and_shoulders|2037_neck_and_shoulders]]: Proto-Semitic *ṯVkm- {} *čVkm-, 'neck and shoulders': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ṯ/2038_perineum_vagina_anus|2038_perineum_vagina_anus]]: Proto-Semitic *ṯapr- {} *čapr-, 'perineum; vagina; anus': reflexes in 4 language(s).
 
@@ -35,7 +35,7 @@ updated: 2026-10-28T02:25:00Z
 
 [[wiki/semitic-roots/ṯ/2296_rock_hyrax|2296_rock_hyrax]]: Proto-Semitic *ṯapan-, 'rock hyrax': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṯ/2297_fox|2297_fox]]: Proto-Semitic *ṯVʕ(V)l-, *ṯaʕlab- {} *čVʕ(V)l-, *čaʕlab-, 'fox': reflexes in 12 language(s).
+[[wiki/semitic-roots/ṯ/2297_fox|2297_fox]]: Proto-Semitic *ṯVʕ(V)l-, *ṯaʕlab- {} *čVʕ(V)l-, *čaʕlab-, 'fox': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/ṯ/2298_kind_of_worm_snail|2298_kind_of_worm_snail]]: Proto-Semitic *ṯVbl-, 'kind of worm, snail': reflexes in 3 language(s).
 
@@ -47,15 +47,15 @@ updated: 2026-10-28T02:25:00Z
 
 [[wiki/semitic-roots/ṯ/2686_scarlet_crimson_dye|2686_scarlet_crimson_dye]]: Proto-Semitic *ṯāniy-, 'scarlet, crimson (dye)': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṯ/269_bull_ox|269_bull_ox]]: Proto-Semitic *ṯawr-, 'bull, ox': reflexes in 18 language(s).
+[[wiki/semitic-roots/ṯ/269_bull_ox|269_bull_ox]]: Proto-Semitic *ṯawr-, 'bull, ox': reflexes in 19 language(s).
 
-[[wiki/semitic-roots/ṯ/2704_shekel_weight_unit|2704_shekel_weight_unit]]: Proto-Semitic *ṯiḳl-, 'shekel, weight (unit)': reflexes in 7 language(s).
+[[wiki/semitic-roots/ṯ/2704_shekel_weight_unit|2704_shekel_weight_unit]]: Proto-Semitic *ṯiḳl-, 'shekel, weight (unit)': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ṯ/2748_eight|2748_eight]]: Proto-Semitic *ṯamāniy-, 'eight': reflexes in 22 language(s).
 
 [[wiki/semitic-roots/ṯ/2791_ewe|2791_ewe]]: Proto-Semitic *ṯaʾ(w/y)-at- {} *čaʾ(w/y)-at-, 'ewe': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/ṯ/2904_fruit|2904_fruit]]: Proto-Semitic *ṯVmVr-, 'fruit': reflexes in 7 language(s).
+[[wiki/semitic-roots/ṯ/2904_fruit|2904_fruit]]: Proto-Semitic *ṯVmVr-, 'fruit': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ṯ/2922_prevail_be_strong|2922_prevail_be_strong]]: Proto-Semitic *ṯVqVp-, 'prevail, be strong': reflexes in 5 language(s).
 
@@ -75,7 +75,7 @@ updated: 2026-10-28T02:25:00Z
 
 [[wiki/semitic-roots/ṯ/3405_dung_pellet|3405_dung_pellet]]: Proto-Semitic *ṯVfVr-at-, 'dung pellet': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṯ/3488_to_plunder_booty|3488_to_plunder_booty]]: Proto-Semitic *ṯll, 'to plunder; booty': reflexes in 5 language(s).
+[[wiki/semitic-roots/ṯ/3488_to_plunder_booty|3488_to_plunder_booty]]: Proto-Semitic *ṯll, 'to plunder; booty': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ṯ/3547_to_repeat_do_again|3547_to_repeat_do_again]]: Proto-Semitic *ṯny, 'to repeat, do again': reflexes in 7 language(s).
 
@@ -101,13 +101,13 @@ updated: 2026-10-28T02:25:00Z
 
 [[wiki/semitic-roots/ṯ/K0854_sitting|K0854_sitting]]: Proto-Semitic *ṯVbVt-, 'sitting': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ṯ/K0857_snow|K0857_snow]]: Proto-Semitic *ṯVlVg-, 'snow': reflexes in 10 language(s).
+[[wiki/semitic-roots/ṯ/K0857_snow|K0857_snow]]: Proto-Semitic *ṯVlVg-, 'snow': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ṯ/K0862_almond|K0862_almond]]: Proto-Semitic *ṯVqVd-, 'almond': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ṯ/K0864_be_moist_soak|K0864_be_moist_soak]]: Proto-Semitic *ṯVrVy-, 'be moist, soak': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ṯ/K0865_return_1_to_recompense_reward_reward_2|K0865_return_1_to_recompense_reward_reward_2]]: Proto-Semitic *ṯVwVb-, 'return' 1, 'to recompense, reward; reward' 2: reflexes in 7 language(s).
+[[wiki/semitic-roots/ṯ/K0865_return_1_to_recompense_reward_reward_2|K0865_return_1_to_recompense_reward_reward_2]]: Proto-Semitic *ṯVwVb-, 'return' 1, 'to recompense, reward; reward' 2: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ṯ/K0867_break|K0867_break]]: Proto-Semitic *ṯVġVr-, 'break': reflexes in 10 language(s).
 

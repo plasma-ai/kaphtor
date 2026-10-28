@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/2827_carry
 title: "*sVbVl-: 'carry'"
-desc: "Proto-Semitic *sVbVl-, 'carry': reflexes in 4 language(s)."
+desc: "Proto-Semitic *sVbVl-, 'carry': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2827"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | sabala/sabbala 'carry, bear' (Aramaic Root Atlas 0816) | Aramaic Root Atlas 0816 |  |
 | Akkadian | zabālu (HALOT 741) | HALOT 741 |  |
 | Syrian Aramaic | sbal 'bear, carry; suffer, endure' (Payne Smith 358) | Payne Smith 358 |  |
+| Eblaitic | iš₍₁₁₎-ba-lum, \[za\]-ba-lu-um /ḏ-b-l/ (Sanmartín GlOS 2, 185) | Sanmartín GlOS 2, 185 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

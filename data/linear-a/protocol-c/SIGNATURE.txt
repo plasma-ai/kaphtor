@@ -1,0 +1,3 @@
+PROTOCOL-C-DRAFT.md signed by di Mino, 2026-10-29 (given in session; recorded by instruction).
+sha256 at signature: 5a7b442c02336f31058a7fc51da7ecc382ff86eb6cdef7783883de108ed41ea0
+Any later change to the protocol is a dated amendment in its §15 or a new section, never a silent edit.

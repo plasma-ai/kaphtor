@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A-DU occurs in 8 documents at two sites, regularly in initial or administrative-heading position. This establishes its heading or entity function but not its semantic identity, and the spelling may be homographic across contexts. Gordon's Addu/Haddu remains viable: the spelling fits Old Babylonian Amorite/Akkadian Addu without initial h, and second-millennium syllabic forms such as eh-li-a-du independently preserve the divine element (Howard 2023). Alternatively, Akkadian adû 'a (day's) work, stint' is independently attested and fits allocation and roster contexts (ORACC ARM/EP). HT92 places A-DU between TE and commodities, slightly favoring a named recipient such as Addu, but the administrative distribution cannot confirm that interpretation.
+A-DU occurs in 8 documents at two sites, regularly in initial or administrative-heading position. This establishes its heading or entity function but not its semantic identity, and the spelling may be homographic across contexts. Gordon's Addu/Haddu remains viable: the spelling fits Old Babylonian Amorite/Akkadian Addu without initial h, and second-millennium syllabic forms such as eh-li-a-du independently preserve the divine element (Howard 2023). Ebla has ʾa₃-du, the DN Ḫaddu as a personal name (Pagan 1998, row 27). Alternatively, Akkadian adû 'a (day's) work, stint' is independently attested and fits allocation and roster contexts (ORACC ARM/EP). HT92 places A-DU between TE and commodities, slightly favoring a named recipient such as Addu, but the administrative distribution cannot confirm that interpretation.
 
 ### Cognates
 
@@ -73,8 +73,8 @@ Corpus distribution; Gordon 1966; ORACC ARM/EP; Huffmon 1965; Howard 2023
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | ʾAddu | Storm god; rival adû 'work assignment' | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | ʾAddu | Storm God (= Hadad/Baal, section 2 heading); rival adû 'work assignment' | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | adū(?) / ʾAddu | work assignment/account(?) or Addu/Haddu heading | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | ʾAddu / adû(?) | Storm God or work-stint/account heading | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | adū / ʾAddu | work assignment/account(?) or Addu/Haddu heading | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT92\|HT92]] | ʾAddu / adû | Storm God or work-stint/account heading | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT95b\|HT95b]] | ʾAddu | Storm God (= Hadad/Baal)—heading/recipient; rival adû 'work assignment' | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | ʾAddu | Addu/Haddu, initial heading; rival adû 'work assignment' | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT133\|HT133]] | ʾAddu | Storm God (Hadad/Baal) | CANDIDATE |
@@ -97,6 +97,6 @@ Gordon's Addu/Haddu remains an onomastic candidate, especially in compounds. Sta
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunāšu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_KA_RU|A-KA-RU]] Agaru, [[wiki/linear-a/words/D/DA_RE|DA-RE]] dār, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_NI_SU|KU-NI-SU]] kunīšu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_PA3_PA3|KU-PA₃-PA₃]] Kubaba, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/P/PA_JA_RE|PA-JA-RE]] Payare, [[wiki/linear-a/words/P/PA3_NI|PA₃-NI]] bānī.
 
 <!-- END kaphtor:record -->

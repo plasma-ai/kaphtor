@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ś
 desc: "Semitic roots whose first radical is ś."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/ś
@@ -51,7 +51,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ś/1368_be_afraid|1368_be_afraid]]: Proto-Semitic *ŝVḫat-, 'be afraid': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ś/1383_wind_1_storm_2|1383_wind_1_storm_2]]: Proto-Semitic *ŝaʕar-, 'wind' 1, 'storm' 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/ś/1383_wind_1_storm_2|1383_wind_1_storm_2]]: Proto-Semitic *ŝaʕar-, 'wind' 1, 'storm' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ś/1399_buy_1_sell_2|1399_buy_1_sell_2]]: Proto-Semitic *ŝVʾVm-, 'buy' 1, 'sell' 2: reflexes in 6 language(s).
 
@@ -87,7 +87,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ś/2028_birth_mark_mole|2028_birth_mark_mole]]: Proto-Semitic *ŝₓaw/ym-at- {} *ŝaw/ym-at-, 'birth-mark, mole': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ś/2096_to_be_sated_1_satiety_2|2096_to_be_sated_1_satiety_2]]: Proto-Semitic *ŝbʕ {} *ĉbʕ (-a-), 'to be sated' 1, 'satiety' 2: reflexes in 15 language(s).
+[[wiki/semitic-roots/ś/2096_to_be_sated_1_satiety_2|2096_to_be_sated_1_satiety_2]]: Proto-Semitic *ŝbʕ {} *ĉbʕ (-a-), 'to be sated' 1, 'satiety' 2: reflexes in 16 language(s).
 
 [[wiki/semitic-roots/ś/2097_to_be_rabid_mad|2097_to_be_rabid_mad]]: Proto-Semitic *ŝₓgʕ {} *ŝgʕ, 'to be rabid, mad': reflexes in 3 language(s).
 
@@ -167,13 +167,13 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ś/3398_to_skin|3398_to_skin]]: Proto-Semitic *ŝry, 'to skin': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ś/3433_to_be_high_tall_to_grow_abundantly|3433_to_be_high_tall_to_grow_abundantly]]: Proto-Semitic *ŝmḫ, 'to be high, tall; to grow abundantly': reflexes in 2 language(s).
+[[wiki/semitic-roots/ś/3433_to_be_high_tall_to_grow_abundantly|3433_to_be_high_tall_to_grow_abundantly]]: Proto-Semitic *ŝmḫ, 'to be high, tall; to grow abundantly': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ś/3463_king_prince_official|3463_king_prince_official]]: Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 5 language(s).
+[[wiki/semitic-roots/ś/3463_king_prince_official|3463_king_prince_official]]: Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ś/3489_winter|3489_winter]]: Proto-Semitic *ŝtw, 'winter': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ś/3517_to_strive_contend|3517_to_strive_contend]]: Proto-Semitic *ŝry, 'to strive, contend': reflexes in 3 language(s).
+[[wiki/semitic-roots/ś/3517_to_strive_contend|3517_to_strive_contend]]: Proto-Semitic *ŝry, 'to strive, contend': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ś/3534_lime_plaster|3534_lime_plaster]]: Proto-Semitic *ŝyd, 'lime, plaster': reflexes in 4 language(s).
 
@@ -283,7 +283,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ś/K0497_wander|K0497_wander]]: Proto-Semitic *śVwVṭ-, 'wander': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ś/K0499_be_grey_haired_old|K0499_be_grey_haired_old]]: Proto-Semitic *śVyVb-, 'be grey-haired, old': reflexes in 5 language(s).
+[[wiki/semitic-roots/ś/K0499_be_grey_haired_old|K0499_be_grey_haired_old]]: Proto-Semitic *śVyVb-, 'be grey-haired, old': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ś/K0500_place|K0500_place]]: Proto-Semitic *śVyVm-, 'place': reflexes in 18 language(s).
 
@@ -291,7 +291,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ś/K0503_scatter|K0503_scatter]]: Proto-Semitic *śVʿVy-, 'scatter': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ś/K0547_shoe|K0547_shoe]]: Proto-Semitic *śVʾVn-, 'shoe': reflexes in 10 language(s).
+[[wiki/semitic-roots/ś/K0547_shoe|K0547_shoe]]: Proto-Semitic *śVʾVn-, 'shoe': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/ś/S45_to_rejoice_be_glad_1_joy_gladness_2|S45_to_rejoice_be_glad_1_joy_gladness_2]]: Proto-Semitic *śmḫ-, 'to rejoice, be glad' 1, 'joy, gladness' 2: reflexes in 4 language(s).
 

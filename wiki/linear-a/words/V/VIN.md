@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Non-phonetic commodity ideogram denoting wine. 52 standalone, 10 sites—widest commodity distribution in the corpus. On HT89 it follows KU-RO in a separate commodity section; the numeral 6 is damaged. \|\| ETYMOLOGY: PS \*wayn- (Heb. yayin, Ug. yn, Gk. oinos &lt; \*woinos). VIN+WA compound (2×, HT27b) shows WA as possible phonetic complement for /wa-/ of \*wayn-. \|\| VIN-GRA-SA triad on HT27b = canonical wine-grain-beer commodity set. \|\| No JA-NE 'wine' occurs in the corpus, so the \*wayn- etymology rests on the VIN+WA complement alone, distinct from the secure commodity function.
+Non-phonetic commodity ideogram denoting wine. 52 standalone, 10 sites—widest commodity distribution in the corpus. On HT89 it follows KU-RO in a separate commodity section; the numeral 6 is damaged. \|\| ETYMOLOGY: PS \*wayn- (Heb. yayin, Ug. yn, Gk. oinos &lt; \*woinos). VIN+WA compound (2×, HT27b) shows WA as possible phonetic complement for /wa-/ of \*wayn-. \|\| VIN-GRA-SA triad on HT27b = canonical wine-grain-beer commodity set. \|\| No JA-NE 'wine' occurs in the corpus: Gordon's ya-ne (1966, §123) is KNZb4, whose corrected reading is JA-SI (see JA-SI). The \*wayn- etymology rests on the VIN+WA complement alone, distinct from the secure commodity function.
 
 ## Attestations
 
@@ -70,7 +70,7 @@ Non-phonetic commodity ideogram denoting wine. 52 standalone, 10 sites—widest 
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | wine | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | wine |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | wayn? | wine |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | wayn | wine |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | wine; 1 + A706 (conventionally ≈⅙?) |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | wine |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | wayn | wine | PROBABLE |

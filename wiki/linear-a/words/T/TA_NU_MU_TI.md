@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-GORILA IV, 8–9 prints \]TA-NU-MU-TI; the initial break is of indeterminate extent, so this analysis applies only if TA begins the word. Proposed G u-class /ta-nʿum-u-tī/: Arabic naʿuma/yanʿumu supports the u-vocalism; Sabaic n²m ‘be favourable, prosper’ supplies the closest semantics (Beeston et al. 1982, 90); Hebrew nāʿamt (Song 7:7) is a 2fs semantic/person control. The ʿ is unrepresented, and -tī is di Mino's analogical 2fs subject clitic rather than an independently attested prefix-conjugation ending; Thomas's plural-agreement reading remains a rival. The former √t-n-m ‘I dedicated’ and tD \*/tanaʿʿamti/ analyses are withdrawn.
+GORILA IV, 8–9 prints \]TA-NU-MU-TI; the initial break is of indeterminate extent, so this analysis applies only if TA begins the word. Proposed G u-class /ta-nʿum-u-tī/: Arabic naʿuma/yanʿumu supports the u-vocalism; Sabaic n²m ‘be favourable, prosper’ supplies the closest semantics (Beeston et al. 1982, 90); Hebrew nāʿamt (Song 7:7) is a 2fs semantic/person control. The ʿ is unrepresented, and -tī is di Mino's analogical 2fs subject clitic rather than an independently attested prefix-conjugation ending; Thomas's plural-agreement reading remains a rival. It is not √t-n-m ‘I dedicated’ or tD \*/tanaʿʿamti/.
 
 ### Source
 

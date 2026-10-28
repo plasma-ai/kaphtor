@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/432_go_come_1_enter_2_return_3
 title: "*bVwVʾ-: 'go,come' 1, 'enter' 2, 'return' 3"
-desc: "Proto-Semitic *bVwVʾ-, 'go,come' 1, 'enter' 2, 'return' 3: reflexes in 13 language(s)."
+desc: "Proto-Semitic *bVwVʾ-, 'go,come' 1, 'enter' 2, 'return' 3: reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "432"
@@ -42,7 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | boʔe 2 |  |  |
 | Punic | bʾ 'come' | Anderson–Moser 2024 root bwʾ |  |
 | Gurage | bʷəyä (LGz. 115) | LGz. 115 | gloss withheld |
-| Amorite | bwʾ: jabāʾ, jibāʾ, bāʾum, ʾubāʾ (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Amorite | bwʾ: jabāʾ, jibāʾ, bāʾum, ʾubāʾ (Gelb AS 21, 17); b-w-ʾ 1, 2: ia-ba-a, i-ba-um, i-ba-(a-)ia (Sanmartín GlOS 1, 133) | Gelb AS 21 17; Sanmartín GlOS 1, 133 | gloss withheld |
+| Eblaitic | a-ba-a, ti-ba-a /b-w-ʾ/ 1, 2 (Sanmartín GlOS 1, 133) | Sanmartín GlOS 1, 133 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

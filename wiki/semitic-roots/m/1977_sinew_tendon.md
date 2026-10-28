@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | matn, mǝtān \[LGz 372\] | LGz 372 | gloss withheld |
 | Amharic | mätǝn \[K 250\]. | K 250 | gloss withheld |
 | Tigrinya | mätni 'nerves of the animal body' \[Bass 101\] | Bass 101 |  |
-| Eblaitic | ma-da-nu /matnu(m)/ \[Fron. Ebl. 172\], \[Bla. Ebl. No. 68\] | Fron. Ebl. 172; Bla. Ebl. No. 68 | gloss withheld |
+| Eblaitic | ma-da-nu /matnu(m)/ \[Fron. Ebl. 172\], \[Bla. Ebl. No. 68\]; ma-da-nu /matn/ (Sanmartín GlOS 2, 59) | Fron. Ebl. 172; Bla. Ebl. No. 68; Sanmartín GlOS 2, 59 | gloss withheld |
 | Ugaritic | mtn (LGz. 372) | LGz. 372 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

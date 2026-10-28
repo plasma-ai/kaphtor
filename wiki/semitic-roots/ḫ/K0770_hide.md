@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab xbʾ (Biella 195; Sabaweb lemma 4237) | Biella 195; Sabaweb lemma 4237 | gloss withheld |
 | Tigre | ḥabʿa (Wb. 80b apud HALOT 284) | Wb. 80b; HALOT 284 |  |
 | Arabic | ḫabaʾa \[HALOT 284\] | HALOT 284 | gloss withheld |
-| Amorite | ḫbʾ (Huffmon APNM 189; HALOT 284) | Huffmon APNM 189; HALOT 284 |  |
+| Amorite | ḫbʾ (Huffmon APNM 189; HALOT 284); ḫ-b-ʾ: ia-aḫ-ba-ᵈra-šap, ia-aḫ-bu-ú-um, place name ia-aḫ-bi-laᵏⁱ (Sanmartín GlOS 1, 265) | Huffmon APNM 189; HALOT 284; Sanmartín GlOS 1, 265 | gloss withheld |
 | Hebrew | ḥbʾ (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015 ch. 2 §5.2.2.1 no. 10 | gloss withheld |
 | Mandaic Aramaic | hba (Kogan 2015, ch. 2 §5.2.2.1 no. 10) | Kogan 2015 ch. 2 §5.2.2.1 no. 10 | gloss withheld |
 | Canaanite | ḫiḫbē (gloss, EA 256:7; HALOT 284) | HALOT 284 | gloss withheld |

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | frk u,1 |  |  |
 | Hebrew | \*prk (HALOT 968) | HALOT 968 | gloss withheld |
 | Judaic Aramaic | pərak (HALOT 968) | HALOT 968 |  |
-| Syrian Aramaic | pārkā (HALOT 968) | HALOT 968 |  |
+| Syrian Aramaic | prak, act. part. pārkā (Payne Smith 460; HALOT 968) | Payne Smith 460; HALOT 968 | gloss withheld |
 | Mandaic Aramaic | prk (HALOT 968) | HALOT 968 |  |
 | Aramaic | Off. prk (DNWSI 938 apud SEDonline 1745) | DNWSI 938; SEDonline 1745 | gloss withheld |
 | Amharic | täfräkärräkä (AED 2283 apud SEDonline 1745) | AED 2283; SEDonline 1745 | gloss withheld |

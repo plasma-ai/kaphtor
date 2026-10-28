@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | buṭnu (CAD B 358; Kogan 2011, 202); buṭuttu A, buṭumtu, buṭnatu (CAD B 359; Kogan 2011, 202) | CAD B 358; Kogan 2011 202; CAD B 359 | gloss withheld |
-| Eblaitic | bù-ṭa-ma-tim (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Eblaitic | bù-ṭa-ma-tim (Kogan 2011, 202); a-ga-lu bù-da-ma-tim /buṭutt/ (Sanmartín GlOS 1, 131); a-ga-lu bù-da-ma-tim = Sum. ninda-eš₂₂ (VE 32; Civil 2017, 123) | Kogan 2011 202; Sanmartín GlOS 1, 131; VE 32; Civil 2017, 123 | gloss withheld |
 | Hebrew | boṭnīm (Kogan 2011, 202); \*boṭnâ, pl. boṭnîm (HALOT 121) | Kogan 2011 202; HALOT 121 | gloss withheld |
 | Judaic Aramaic | JPA bwṭnh, boṭmā (Kogan 2011, 202) | Kogan 2011 202 |  |
 | Syrian Aramaic | beṭmtā (Kogan 2011, 202) | Kogan 2011 202 |  |

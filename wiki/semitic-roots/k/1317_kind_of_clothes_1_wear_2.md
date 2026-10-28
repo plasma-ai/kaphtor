@@ -30,8 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ksw (u) 2; kiswat 1 (HALOT 489) | HALOT 489 |  |
-| Akkadian | kusītu 1 |  |  |
+| Arabic | ksw (u) 2; kiswat 1 (HALOT 489); kisāʾ 1; kāsin 2 (Lane 3000) | HALOT 489; Lane 3000 | gloss withheld |
+| Akkadian | kusītu 1 (CAD K 585) | CAD K 585 | gloss withheld |
 | Ugaritic | ks-t 1 |  |  |
 | Hebrew | kǝsūt 1 |  |  |
 | Punic | kst (T 148) | T 148 | gloss withheld |

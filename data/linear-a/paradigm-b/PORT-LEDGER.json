@@ -1,0 +1,887 @@
+{
+ "_meta": {
+  "what": "Port of the option B (held-out paradigm prediction) package into kaphtor: every shipped file with its path and sha256 in the frozen research package, what pins that hash, and the literal substitutions the port made; every SHA256SUMS entry not shipped, with the reason.",
+  "frozen_package": "ioza2-adjudication (research tree)",
+  "freeze": {
+   "frozen_at": "2026-10-09T19:44:46.441569+00:00",
+   "files_hashed": 89,
+   "sha256sums_sha256": "f5d6733fbf922c951b5e690725cdedf6fda4bf52747c59e284807efc351cd7ca",
+   "record": "data/linear-a/paradigm-b/freeze-record.md"
+  },
+  "reverse": "each substitution records the text the port wrote (new) and how often it occurs (count); the strings it replaced (the research credit and private paths) are withheld and kept in the maintainer's key. verify checks every file's shipped_sha256, and frozen_sha256 for every file without a substitution; with --key it undoes each file's substitutions in reverse order and checks frozen_sha256 for all",
+  "verifier": "tools/linear_a/validation/paradigm_b.py verify",
+  "attribution": "di Mino",
+  "license": "CC BY 4.0",
+  "key": "the withheld strings are in the maintainer's key, PORT-KEY.json, not shipped; reviewers may ask for it"
+ },
+ "files": [
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/run_paradigm.py",
+   "frozen_path": "scripts/run_paradigm.py",
+   "frozen_sha256": "a53de76f5f796f043bb1453f3257c67f74445a595850cc2dee209ec9beabd941",
+   "pinned_by": [
+    "PROTOCOL-B freeze record"
+   ],
+   "substitutions": [
+    {
+     "new": "Attribution: di Mino.",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "50b82ba7bbf8804fffc1d80057baa3789aa43cb2267b5ebfd09660ede2348299",
+   "note": "the runner: null, observed, gate"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/common/__init__.py",
+   "frozen_path": "scripts/common/__init__.py",
+   "frozen_sha256": "dddb8d6a8d6c2b9513ddc6d5ba4dd6d11d3a9ef5751c41c217ed1570b8c534da",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "dddb8d6a8d6c2b9513ddc6d5ba4dd6d11d3a9ef5751c41c217ed1570b8c534da"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/common/paths.py",
+   "frozen_path": "scripts/common/paths.py",
+   "frozen_sha256": "c3756cac9462216ee9438ad0034762f0c0903f087f09e8bfd7d35af7e7000b91",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "c3756cac9462216ee9438ad0034762f0c0903f087f09e8bfd7d35af7e7000b91",
+   "note": "unchanged: the wrapper runs the package rebuilt in a temporary folder, where these constants resolve as frozen"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/common/paradigm.py",
+   "frozen_path": "scripts/common/paradigm.py",
+   "frozen_sha256": "1e815dee2f8de90fb7cb7207a3a19f3a04227f132e37cf27405bd728032b5ee8",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "Attribution: di Mino.",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "c73ed05d5603e3342c9a588561eb6a124832a65d47df12bae193a20737f4d5ae",
+   "note": "alignment, inventories, the statistic"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/common/nulls.py",
+   "frozen_path": "scripts/common/nulls.py",
+   "frozen_sha256": "7803b3c12b13f860a80eb184bc623a37356bc502f4e14a80a96765b55dac5222",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "7803b3c12b13f860a80eb184bc623a37356bc502f4e14a80a96765b55dac5222",
+   "note": "nulls D and D2"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/common/stats.py",
+   "frozen_path": "scripts/common/stats.py",
+   "frozen_sha256": "796c889833718153f08bebc2db3c34fb6ef8266fb5d1f46852207603507fb548",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "796c889833718153f08bebc2db3c34fb6ef8266fb5d1f46852207603507fb548",
+   "note": "Monte Carlo p, AUC, bootstrap"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/common/matcher.py",
+   "frozen_path": "scripts/common/matcher.py",
+   "frozen_sha256": "29b49e03551480e351e06ec50b55b2976f2a63884727a2a42eb44e0c1e51ae06",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "    source: linear-a-decipherment/scripts/validation/blind_corpus_test.py",
+     "count": 1
+    },
+    {
+     "new": "Attribution: di Mino.",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "5d751766ae10d7465af8c32f54bd6ec265e76cda5f6bf814fe744f44b533fa27",
+   "note": "imported by nulls.py for syllabic_signs and base_consonant_map"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/render_la.py",
+   "frozen_path": "scripts/render_la.py",
+   "frozen_sha256": "b10f6c149dcf074c314ef4041d33f4e473b3ff33007b0df8a82535ee29dc13ec",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [
+    {
+     "new": "Attribution: di Mino.",
+     "count": 1
+    },
+    {
+     "new": "ATTRIBUTION = \"di Mino\"",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "8f50eb2cc344e5baa04753b6c7114f7763f04a307f1d2c42a25f4072c34db4e6",
+   "note": "pinned at port, not in the freeze: SHA256SUMS hashes scripts/common/ only, and PROTOCOL-B pins four scripts, not this one. Its mtime, 2026-09-08T01:21:47Z, precedes the option B freeze (2026-10-09T19:44:46Z)"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/vendor/__init__.py",
+   "frozen_path": "vendor/__init__.py",
+   "frozen_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/vendor/skeleton.py",
+   "frozen_path": "vendor/skeleton.py",
+   "frozen_sha256": "565393a47299e10d56ea72e0071b53af130a06cd5b32abb2cb54b7fe852b2702",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "565393a47299e10d56ea72e0071b53af130a06cd5b32abb2cb54b7fe852b2702",
+   "note": "the frozen sign table (*86 = ṇa, no *324); not kaphtor's tools/core/skeleton.py"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/vendor/phonetics.py",
+   "frozen_path": "vendor/phonetics.py",
+   "frozen_sha256": "93d8a520deae0367fd87140a0ba1fa663e3e4fce2952430179f10e2018fa7194",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "93d8a520deae0367fd87140a0ba1fa663e3e4fce2952430179f10e2018fa7194"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/build_paradigm.py",
+   "frozen_path": "scripts/build_paradigm.py",
+   "frozen_sha256": "ede9e39503272d4f95128f7a45e7e3264d0ca9c83db9edbeab17721f719bf7b6",
+   "pinned_by": [
+    "PROTOCOL-B freeze record"
+   ],
+   "substitutions": [
+    {
+     "new": "Attribution: di Mino.",
+     "count": 1
+    },
+    {
+     "new": "ATTRIBUTION = \"di Mino\"",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "5bfd09d5ea136daa81cc98c9221892826aade7535a09a2448a017838b254ebeb",
+   "note": "build time only: wrote data/paradigm/*.json; shipped for transparency"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/build_windows_b.py",
+   "frozen_path": "scripts/build_windows_b.py",
+   "frozen_sha256": "266318fccb490ed96d2516cc6674c86a8a3839f481bba891fc806b03536afbe4",
+   "pinned_by": [
+    "PROTOCOL-B freeze record"
+   ],
+   "substitutions": [
+    {
+     "new": "Attribution: di Mino.",
+     "count": 1
+    },
+    {
+     "new": "ATTRIBUTION = \"di Mino\"",
+     "count": 1
+    },
+    {
+     "new": "SKILL_LA = Path(\"linear-a-decipherment/data\")",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "74a5c6c4e1d031503aba8a1a8f5dac93035ef520a08301568f761c86538c3c70",
+   "note": "build time only: wrote controls/controls_b.jsonl from sources outside the package; shipped for transparency"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/selftest_b.py",
+   "frozen_path": "scripts/selftest_b.py",
+   "frozen_sha256": "bb286bae44156692b5cad32c376a43431188451f7ec07266d73aecd3cc4113c2",
+   "pinned_by": [
+    "PROTOCOL-B freeze record"
+   ],
+   "substitutions": [
+    {
+     "new": "Attribution: di Mino.",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "427d584d620a0186e6ec38275b868ab549bcad96f6e6fab33db71b801ad2d484",
+   "note": "the option B selftest (PROTOCOL-B §8)"
+  },
+  {
+   "path": "tools/core/frozen/paradigm_b/scripts/freeze_protocol.py",
+   "frozen_path": "scripts/freeze_protocol.py",
+   "frozen_sha256": "25b5837026f52c67e025d025da7cdea35509a02c7332acd363fccb19db2b79c5",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "25b5837026f52c67e025d025da7cdea35509a02c7332acd363fccb19db2b79c5",
+   "note": "build time only: wrote SHA256SUMS and the freeze record; pinned at port; shipped for transparency"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/SHA256SUMS",
+   "frozen_path": "SHA256SUMS",
+   "frozen_sha256": "f5d6733fbf922c951b5e690725cdedf6fda4bf52747c59e284807efc351cd7ca",
+   "pinned_by": [
+    "PROTOCOL.md freeze record sha256sums_sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f5d6733fbf922c951b5e690725cdedf6fda4bf52747c59e284807efc351cd7ca",
+   "note": "verbatim; its sha256 is the freeze record's sha256sums_sha256"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/formula_family.json",
+   "frozen_path": "data/formula_family.json",
+   "frozen_sha256": "8f1add5ef0a1367f274257a7032547ef725fbb50aa7504a942ceb2e3c425d807",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "8f1add5ef0a1367f274257a7032547ef725fbb50aa7504a942ceb2e3c425d807",
+   "note": "the 33 inscriptions and their slots"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/paradigm/cs.json",
+   "frozen_path": "data/paradigm/cs.json",
+   "frozen_sha256": "7230bd7466d4ef59f788bf16d8aac54595a30aff22d140d6eda827ed9be576f7",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "  \"attribution\": \"di Mino\",",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "a4588772ad99793b941f23fcdf242f9a2f6d48f7327d510b3413430486e88805"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/paradigm/nws_floor.json",
+   "frozen_path": "data/paradigm/nws_floor.json",
+   "frozen_sha256": "9f32da1cdd079f19b909c4ad93ec6ba90c5d0bbdb165855248cbdf8484a55b25",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "  \"attribution\": \"di Mino\",",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "5303e10dc723c4a6767f14b9b722f2b73bef6de72ecaeee543624bc0172ec3de"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/paradigm/luwian.json",
+   "frozen_path": "data/paradigm/luwian.json",
+   "frozen_sha256": "91cf5ad3b4fe0907e1bfb8cc84ab5468e4c107fca9d165b0e5c400804ba9c8e8",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "  \"attribution\": \"di Mino\",",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "bad0949658deed0a59844136ac9967dd2bda1f370810a7a58cbf77f3b1b7d8e1"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/paradigm/hurrian.json",
+   "frozen_path": "data/paradigm/hurrian.json",
+   "frozen_sha256": "f706ac5986c8b19b94f04c5ed9dc4eaa0eeabf2c43914b8d15e873c7d2c3ec61",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "  \"attribution\": \"di Mino\",",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "ae854b7e3246995f2d182a180151e9830c20e380008fe57e59da930661fefc6a"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/paradigm/egyptian.json",
+   "frozen_path": "data/paradigm/egyptian.json",
+   "frozen_sha256": "c99c4d504904cee932b1adb40af676eed0ccc1d3417d53eab79eecb7f4f3f8ec",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "  \"attribution\": \"di Mino\",",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "53d036cd8983c8df03be6e06ea0542be9a599acf929c94517b35779ec3081533"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/snapshot/corpus.json",
+   "frozen_path": "data/snapshot/corpus.json",
+   "frozen_sha256": "197430e8a1c69a9a8769ffbb85dcd8f534435e1b1557fb7e5aebda3db6ec1a2a",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "      \"source\": \"di Mino\",",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "956531e662c4fff6577c861e39e89f634c84ab7e9fed3a731649279cb5a8250f",
+   "note": "the corpus snapshot the nulls' bigram model is trained on (the family's own inscriptions excluded); the substitution is SY Za 4's rila.source, as in data/linear-a/corpus.json"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/controls_b.jsonl",
+   "frozen_path": "controls/controls_b.jsonl",
+   "frozen_sha256": "c1ebff162de891a2f2202da18854e99bdad457869d6d9769d9dc8f434a9e4677",
+   "pinned_by": [
+    "SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "\"linear-a-decipherment/data/",
+     "count": 3
+    },
+    {
+     "new": "\"attribution\": \"di Mino\", \"rules\"",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "9c459f0ebf0d51bc2d12fa6c4a0f8424dc53d3fea4220ce0b68f6adb4815b73b",
+   "note": "the 128 control windows; first line is the build _meta"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194551Z-paradigm-observed-strict-base.results.json",
+   "frozen_path": "runs/20261009T194551Z-paradigm-observed-strict-base/results.json",
+   "frozen_sha256": "a8e4501677f4b70464c6878e087d30a23ae24552db8d09f7a5e1df9f1ecc0f66",
+   "pinned_by": [
+    "run_manifest.json results_sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a8e4501677f4b70464c6878e087d30a23ae24552db8d09f7a5e1df9f1ecc0f66"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194551Z-paradigm-observed-strict-base.manifest.json",
+   "frozen_path": "runs/20261009T194551Z-paradigm-observed-strict-base/manifest.json",
+   "frozen_sha256": "0a8081a266a9fdc415a264598fe6f87b04d5eae87d3868c836856d443799be10",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "0a8081a266a9fdc415a264598fe6f87b04d5eae87d3868c836856d443799be10"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913.results.json",
+   "frozen_path": "runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913/results.json",
+   "frozen_sha256": "dea3516b33fb94d350a5f5fd904ff46ec1acabe9a84f016ba749d7d00593f120",
+   "pinned_by": [
+    "run_manifest.json results_sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "dea3516b33fb94d350a5f5fd904ff46ec1acabe9a84f016ba749d7d00593f120"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913.manifest.json",
+   "frozen_path": "runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913/manifest.json",
+   "frozen_sha256": "67a7009f0f043f5dee65ffba758b8a823cf80c58f66416486055c2f2c5313eb9",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "67a7009f0f043f5dee65ffba758b8a823cf80c58f66416486055c2f2c5313eb9"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913.null_vectors.npy",
+   "frozen_path": "runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913/null_vectors.npy",
+   "frozen_sha256": "f93f615c2bb5efb8fba85cb9cff03dbbc9e6a3ac29a4110411bdc4b30652e53f",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f93f615c2bb5efb8fba85cb9cff03dbbc9e6a3ac29a4110411bdc4b30652e53f"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914.results.json",
+   "frozen_path": "runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914/results.json",
+   "frozen_sha256": "eba06123d278b8c6ddb4ce5a50f0b8117708bee5a140567f20a57f6e5ecf7f7a",
+   "pinned_by": [
+    "run_manifest.json results_sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "eba06123d278b8c6ddb4ce5a50f0b8117708bee5a140567f20a57f6e5ecf7f7a"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914.manifest.json",
+   "frozen_path": "runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914/manifest.json",
+   "frozen_sha256": "ee0bb98482c360a34ec3d6361d4eec41410da4ce687ebd47698ed651a938aa28",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ee0bb98482c360a34ec3d6361d4eec41410da4ce687ebd47698ed651a938aa28"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914.null_vectors.npy",
+   "frozen_path": "runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914/null_vectors.npy",
+   "frozen_sha256": "c39f6d54514f230203216c01e32825f2a2d6980b84abee721f8daf0baab1b576",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "c39f6d54514f230203216c01e32825f2a2d6980b84abee721f8daf0baab1b576"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915.results.json",
+   "frozen_path": "runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915/results.json",
+   "frozen_sha256": "89c3abc0f18f1414dfa1d004575ff23aad38372ee7e438907170115a9a800139",
+   "pinned_by": [
+    "run_manifest.json results_sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "89c3abc0f18f1414dfa1d004575ff23aad38372ee7e438907170115a9a800139"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915.manifest.json",
+   "frozen_path": "runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915/manifest.json",
+   "frozen_sha256": "04c8bcee5d3fb83d2f68f5487fa99833f27192a37e91911bab00ab61046a923f",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "04c8bcee5d3fb83d2f68f5487fa99833f27192a37e91911bab00ab61046a923f"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915.null_vectors.npy",
+   "frozen_path": "runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915/null_vectors.npy",
+   "frozen_sha256": "3caae3deb0013f8068afd58873b08e8ddcb0ed23cd286c548a9fafc3dd8894f7",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "3caae3deb0013f8068afd58873b08e8ddcb0ed23cd286c548a9fafc3dd8894f7"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194557Z-paradigm-gate-strict-base.results.json",
+   "frozen_path": "runs/20261009T194557Z-paradigm-gate-strict-base/results.json",
+   "frozen_sha256": "b3b4285acf8ac38ef4c17db5afe42afeca50fad23e625b7653d18e66aa3043c2",
+   "pinned_by": [
+    "run_manifest.json results_sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "b3b4285acf8ac38ef4c17db5afe42afeca50fad23e625b7653d18e66aa3043c2"
+  },
+  {
+   "path": "data/linear-a/paradigm-b/runs/20261009T194557Z-paradigm-gate-strict-base.manifest.json",
+   "frozen_path": "runs/20261009T194557Z-paradigm-gate-strict-base/manifest.json",
+   "frozen_sha256": "7c5762183b03f1904204b015955a7082c3d1eaffc22b823d267cafbe2a7a804a",
+   "pinned_by": [
+    "port (not pinned at the freeze)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "7c5762183b03f1904204b015955a7082c3d1eaffc22b823d267cafbe2a7a804a"
+  }
+ ],
+ "withheld": [
+  {
+   "frozen_path": "controls/controls.jsonl",
+   "frozen_sha256": "3b5f43423ca096354ec45d3e97f98fe4b755affdf7f719cf718b94b2280e1cc1",
+   "reason": "stage 1–3 controls; option B reads only controls_b.jsonl"
+  },
+  {
+   "frozen_path": "controls/holdout_entries.json",
+   "frozen_sha256": "ca6c51075c0ec69dd70650a127f85d13657440377b3743ac0d39d9e3fa8e8500",
+   "reason": "stage 1–3 controls; option B reads only controls_b.jsonl"
+  },
+  {
+   "frozen_path": "controls/prev-20260907-freeze1/controls.jsonl",
+   "frozen_sha256": "f71bcd0d0224ea76740f4e781384006b1637bbb5249464c2a579416752af39f8",
+   "reason": "stage 1–3 controls; option B reads only controls_b.jsonl"
+  },
+  {
+   "frozen_path": "controls/prev-20260907-freeze1/render_log.json",
+   "frozen_sha256": "e6186ba1b7277853bbdf349f1cd2db6055df7aec488dd2c8e8cb4913f7c6d000",
+   "reason": "stage 1–3 controls; option B reads only controls_b.jsonl"
+  },
+  {
+   "frozen_path": "controls/render_log.json",
+   "frozen_sha256": "8dfb3e2902d4e5263cae677584db0a776a44407a588305f9fc564537ece781e1",
+   "reason": "stage 1–3 controls; option B reads only controls_b.jsonl"
+  },
+  {
+   "frozen_path": "controls/render_log_b.json",
+   "frozen_sha256": "fffb9e9583305fcc92d72da109c0eeee4ff80d2cb8a1ecf1983827bb7b19bd2b",
+   "reason": "build log of controls_b.jsonl; not read by the run"
+  },
+  {
+   "frozen_path": "controls/sources.md",
+   "frozen_sha256": "009e144f5161ebf03cef80e1e75227ed7a5f2dfda58a2c8bfe89f83115e7836e",
+   "reason": "stage 1–3 controls; option B reads only controls_b.jsonl"
+  },
+  {
+   "frozen_path": "data/family_additions.json",
+   "frozen_sha256": "5a91a0510908a484cdd3f0205f1e40e7a8b48326d702e313789c9f6e3846a21a",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/formula_family.json.prev-20260908T004533Z",
+   "frozen_sha256": "8d6819dfb26d8e64af05a91040e23f0e372be059afa126e7f74633b88ac16ddc",
+   "reason": "superseded family file of the 2026-09-08 refreeze"
+  },
+  {
+   "frozen_path": "data/innovations.json",
+   "frozen_sha256": "d921461fe3cb700e625415eb9afa4fc16983f09fda1a201fe03f56e4e8ff5449",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/ioza2.json",
+   "frozen_sha256": "8f79921a4bca9a6a0671680d03b66db91e76bc15babbdd823f6c7238f9bd1801",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/provenance.json",
+   "frozen_sha256": "c1698bf136ee0b5be519b173ede3479c07b6c2b3d3e8dcf05dd09ca4c7296cd8",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/coverage.json",
+   "frozen_sha256": "4ec1a63f9b31256e3af9ea536f0d00f1114980d52ef88120b3b1ac2355561953",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/coverage.json.prev",
+   "frozen_sha256": "e08a3abd08e64852c84369c6b47690c007b2c4f05f53cde884ae5b400b71bf46",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/egyptian.json",
+   "frozen_sha256": "de23337219c23f68e0be7bf9c6a3fc10d689ac6e356f2731f931d36b91a1d69d",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/hurrian.json",
+   "frozen_sha256": "2ae10f16774073b291e7ea38b9a6c112a6e8478c8f6f7292830ab95ccfda0d31",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/keywords.json",
+   "frozen_sha256": "b116fa3412b89cc34f25aece401d67f01b1a5c064580b08a5164627229426122",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/luwian.json",
+   "frozen_sha256": "3457c863d5b84cee877d5339e0add974e6413d0a2a7c59ac4162aa74fe205572",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/nws.json",
+   "frozen_sha256": "613f2ec57a4d3640f58bf920548695502e318fc72811744b5f0c0bbbb1673838",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/register/nws_onomastic.json",
+   "frozen_sha256": "293c6d136da998dc002ec48dbf8a3c847ff192bd1496d533e4213825e9bd33cc",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/snapshot/affix_templates.json",
+   "frozen_sha256": "bad3f00cdfa0b7b5db2f8b019c19cf3dfdc5a59369c4d23fc146761bddc0fd9b",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/b2_control_tokens.jsonl",
+   "frozen_sha256": "02aae1041c442fff00b3e36595088d4b4f9ca3eab5364c9cdd635e644aa9505b",
+   "reason": "the token streams controls_b.jsonl was cut from; build input, not read by the run"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_akkadian_lexicon.jsonl",
+   "frozen_sha256": "576cb0b838846be8c2c0d6d2a059bf96b91c2a7dd6a73f2c9c5ac008f6ca3dab",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_amarna_canaanite.jsonl",
+   "frozen_sha256": "f578f85e0cae5d0f54f174fdebbb32b311100bb3435df760a283348031e7636b",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_amorite_onomasticon.jsonl",
+   "frozen_sha256": "3b02814613b7de3979a9f944095285141d74c01f424998d684ca8c4f4fa2616f",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_anatolian_lexicon.jsonl",
+   "frozen_sha256": "34d1a55dc9287af42699a95ae158026ed9be9eb737b6ac16cd114fefd0e2bbc4",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_cultic_register.jsonl",
+   "frozen_sha256": "7325917137528f48202de221ff750f4c3e5e739622b035675e5cbf686d97d8a5",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_egyptian_lexicon.jsonl",
+   "frozen_sha256": "8e7390afc5cdb7ef6d5ec8b920ff9e344365dfd1423423ec4da6a68d0461189b",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_hebrew_lexicon.jsonl",
+   "frozen_sha256": "1b45aa7e0c6445082a2063185ae174f20f02184f31f199c52cbc6bc066b78c01",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_hurrian_lexicon.jsonl",
+   "frozen_sha256": "84699b313c7f5de3a1131ad7e97624df42230fb649090c1835925513ac98ddef",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_mari_onomastics.jsonl",
+   "frozen_sha256": "9e81a84588d07260bbbe0feec739239c2a4bdc4a33977e5016fbb00f34ee02b8",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_phoenician_lexicon.jsonl",
+   "frozen_sha256": "359f8d44f6d05eda4b9961f39b541ce12a22d75861d24828034ef1722240bfb7",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/contact_ugaritic_lexicon.jsonl",
+   "frozen_sha256": "66fde9cedc9639bc721ae63e684b073ffbcc30af3236e1cf8a3fef8ff9eb0bd4",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/egyptian_htp_dj_nswt.jsonl",
+   "frozen_sha256": "53f271d98dfa7301d6918b21bd0009abc5d47d41bec81a32c48d9fe65b82f625",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/egyptian_roots.json",
+   "frozen_sha256": "5b55da6e2dc1ec68c9d199949c65cf5b707186f0a4ce21f30a55756d2e8bf012",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/eteocretan_inscriptions.json",
+   "frozen_sha256": "2740b0c364f6370872be636a1c67bb0c90e77a4622baa7451c12e4c84c6a20c7",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/formula_data.json",
+   "frozen_sha256": "5524301152de2c97cd11db859bd53dbdf0793ea08eaba95317e4d2afabf52ad4",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/hurrian_roots.json",
+   "frozen_sha256": "0e1d2637ac7fdef287ca384b7089be3699b7b13caf80fdb36778a3a9e4c76f3e",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/lb_subset.json",
+   "frozen_sha256": "58e746aefd34e8f81e6ef7a59e503381f0e0fb478e9c6fbcc5a824e1bd1414b0",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/lexicon.json",
+   "frozen_sha256": "ef66e2050faf737ff8fc07f28c1445fb07345b8440000a44403ebea10f33cbe5",
+   "reason": "drifted after the freeze: SHA256SUMS has ef66c51075c0…, the research copy is now 8862ac1539aa…; read only by build_paradigm.family_needles (the blindness check), never by the run"
+  },
+  {
+   "frozen_path": "data/snapshot/luwian_roots.json",
+   "frozen_sha256": "b9195c02fdfd8ba607859f9afb39e14e0b478d5b5f05ba1a27222b50d01b8898",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/onomasticon.json",
+   "frozen_sha256": "dd85761a8387d81a707573b437e35512c551a14e84f0464992f87c2eedbc1a03",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/phoenician_onomasticon.jsonl",
+   "frozen_sha256": "7dad2387f7de92481f02d65aaea4bf4371480e4d7c7a6d1f957bffb2ed3b2a33",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/proto_semitic_roots.json",
+   "frozen_sha256": "76f2c6c144fdde7aa066dd80f85135fd230332b518857dba6fbb8123c39ec9b0",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/semitic_roots.json",
+   "frozen_sha256": "fcf23a2682249a5a0d6091352b4de6abaad771377b7fe875118aa08a1cf81ed5",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/sign_values.json",
+   "frozen_sha256": "592b1497c10f4968102b4d2b01ab0932f5c72f39bafb6d001b7164d416be18d1",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/site_classes.json",
+   "frozen_sha256": "e4470e970d8a3459a3834f262079fbb5d39281850abeb6e42ac0e3289514a372",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/translations.json",
+   "frozen_sha256": "6cd32ab191f59febfc2a1acf1e6da0dca61c73fb95779206f9e8759bb508922a",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/validation_results_2026-06-16.json",
+   "frozen_sha256": "2d5faa16da12bbcbdbc646d5aa0865067613036de72158564c7b4cacc8431ea1",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/snapshot/verb_templates.json",
+   "frozen_sha256": "0c409d0d964fd4f16ce64d151556197ce8aec686f6ff948d3a5c005917e76d3d",
+   "reason": "stage 1–3 snapshot (egyptian_htp_dj_nswt.jsonl also fed the B2 window build); the option B run reads only corpus.json"
+  },
+  {
+   "frozen_path": "data/templates_phonemic/egyptian.json",
+   "frozen_sha256": "a65c68da1cfb7a0f3b01a93ed116437d28f8c31f11a968d3f4b95158bb80abb3",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/templates_phonemic/hurrian.json",
+   "frozen_sha256": "b4db307ee06655e366eb4993f2bb859fc46089a44c7831945e63264dbea4acb5",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/templates_phonemic/luwian.json",
+   "frozen_sha256": "fca189eb8890d34bc3cdf130a496ef6e33c6d6b6b26699f8a7a254d1c56d9169",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/templates_phonemic/nws.json",
+   "frozen_sha256": "e4fea7a68e6579451cd69a3c38f73988e542aa3a6980c5a8f9bc8fd97942af42",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/templates_phonemic/nws_onomastic.json",
+   "frozen_sha256": "44ee4eb48796e191fe9d4f224f6cf2b535336581486fe8a397bc4850d787dab9",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "data/transducer_rules.json",
+   "frozen_sha256": "ede3e0b0b6dc0e09b7e86ea1e73a3340677bf1f7e253e21c66748fc216f98bda",
+   "reason": "stage 1–3 model component; option B does not read it"
+  },
+  {
+   "frozen_path": "scripts/common/INTERFACES.md",
+   "frozen_sha256": "2d9669b24b1a59140a3ac6bd01fb270fc9b9299ec992981843f1bf9a8e4f5328",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/claims.py",
+   "frozen_sha256": "04a86fab558d8a891517270380205f535b64cdde74bdb710af81be51a3377be6",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/gloss.py",
+   "frozen_sha256": "4c6b14b18890696e9ac194e6cce4203e5079219eb954e1caed5afd3053cac3bb",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/grammar.py",
+   "frozen_sha256": "cdf54d3d554d600b549819b6a22173274e35e5d8dee1ff7ca202e9f37fd39437",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/lexicon_arms.py",
+   "frozen_sha256": "ae5fa802b0d874748c3ec137b075e8ae5229c75e22a09543db84975fd8889f75",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/parse_types.py",
+   "frozen_sha256": "d6e3b8146705fc4bddffbb59deb9323227d29d6fd781ecbc7145a1341ea0e114",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/parser.py",
+   "frozen_sha256": "8a393c551b4db45f6e72bcc91854a31503c9a923bf9ed359eb94c22661c835f1",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/phon.py",
+   "frozen_sha256": "c21f489e4be4d92c8285892af0eab79cceb00f1e776fc5816f51c49a3b065182",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "scripts/common/transducer.py",
+   "frozen_sha256": "851268a98a0048abb2573990c567a0238db77d2f956aa5330e2890092e17e313",
+   "reason": "stage 1–3 code; the option B run does not import it"
+  },
+  {
+   "frozen_path": "vendor/PROVENANCE.json",
+   "frozen_sha256": "e3dc3f175caa7398a58fdfdd98088bde457fc5543085cddb01eff4384e9d738c",
+   "reason": "vendor module the option B run does not import"
+  },
+  {
+   "frozen_path": "vendor/anatolian_morphology.py",
+   "frozen_sha256": "3ae7bbb7e9593617dfc78151b735ba017b6d095fc541cd50af4d471cdcde0db1",
+   "reason": "vendor module the option B run does not import"
+  },
+  {
+   "frozen_path": "vendor/contact_lexicon.py",
+   "frozen_sha256": "b262e38b1838550b4b8886434773ddee7511dd09bd195e15b24a764f9512db09",
+   "reason": "vendor module the option B run does not import"
+  },
+  {
+   "frozen_path": "vendor/egyptian_morphology.py",
+   "frozen_sha256": "babbf1b63b1c5edb09d1cee186782ec38251452f2263930e26740aba76370474",
+   "reason": "vendor module the option B run does not import"
+  },
+  {
+   "frozen_path": "vendor/phrase_grammar.py",
+   "frozen_sha256": "af5fe312ee2ca5bcfb4b1004cb2445962b687e17ef860358ce5872b293dcf1ba",
+   "reason": "vendor module the option B run does not import"
+  },
+  {
+   "frozen_path": "vendor/semitic_morphology.py",
+   "frozen_sha256": "343d0c0d30589d4251c310f8c9b1c296609aa0073b07e0442bb8a43d26b19fdc",
+   "reason": "vendor module the option B run does not import"
+  },
+  {
+   "frozen_path": "vendor/verb_morphology.py",
+   "frozen_sha256": "434caba5caedeb18630d6646afec1abf13669209c27291c9ead2d30d740afce5",
+   "reason": "vendor module the option B run does not import"
+  },
+  {
+   "frozen_path": "run_manifest.json",
+   "reason": "carries the research tree's paths; its results_sha256 for the five runs are in runs_results_sha256 below"
+  },
+  {
+   "frozen_path": "PROTOCOL.md",
+   "reason": "the stage 1–3 protocol; its option B freeze record is freeze-record.md"
+  }
+ ],
+ "runs_results_sha256": {
+  "20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913": "dea3516b33fb94d350a5f5fd904ff46ec1acabe9a84f016ba749d7d00593f120",
+  "20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914": "eba06123d278b8c6ddb4ce5a50f0b8117708bee5a140567f20a57f6e5ecf7f7a",
+  "20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915": "89c3abc0f18f1414dfa1d004575ff23aad38372ee7e438907170115a9a800139",
+  "20261009T194551Z-paradigm-observed-strict-base": "a8e4501677f4b70464c6878e087d30a23ae24552db8d09f7a5e1df9f1ecc0f66",
+  "20261009T194557Z-paradigm-gate-strict-base": "b3b4285acf8ac38ef4c17db5afe42afeca50fad23e625b7653d18e66aa3043c2"
+ },
+ "port_files": [
+  "data/linear-a/paradigm-b/_index.md",
+  "data/linear-a/paradigm-b/paradigm/_index.md",
+  "data/linear-a/paradigm-b/runs/_index.md",
+  "data/linear-a/paradigm-b/freeze-record.md",
+  "data/linear-a/paradigm-b/PORT-LEDGER.json",
+  "tools/core/frozen/paradigm_b/README.md",
+  "tools/core/frozen/paradigm_b/scripts/README.md",
+  "tools/core/frozen/paradigm_b/scripts/common/README.md",
+  "tools/core/frozen/paradigm_b/vendor/README.md"
+ ]
+}

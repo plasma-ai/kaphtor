@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3735_member_of_a_lower_social_class_freedman_free
 title: "*ḫpṯ: 'member of a lower social class; freedman, free'"
-desc: "Proto-Semitic *ḫpṯ, 'member of a lower social class; freedman, free': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḫpṯ, 'member of a lower social class; freedman, free': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3735"
@@ -33,6 +33,7 @@ updated: 2026-10-28T02:25:00Z
 | Ugaritic | ḫpṯ; ḫpṯt (DULAT 396–397) | DULAT 396–397 | gloss withheld |
 | Hebrew | ḥopšî (HALOT 341) | HALOT 341 | gloss withheld |
 | Emar | ḫu-up-šu /ḥupθū/ (Pentiuc 2001, 78) | Pentiuc 2001 78 | gloss withheld |
+| Amorite | ḫupṯ: ḫu-up-šum; ḫu-un-ḫu-up-še (Ur III) (Sanmartín GlOS 1, 267) | Sanmartín GlOS 1, 267 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

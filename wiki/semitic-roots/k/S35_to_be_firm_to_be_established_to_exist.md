@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/S35_to_be_firm_to_be_established_to_exist
 title: "*kwn-: 'to be firm, to be established, to exist'"
-desc: "Proto-Semitic *kwn-, 'to be firm, to be established, to exist': reflexes in 19 language(s)."
+desc: "Proto-Semitic *kwn-, 'to be firm, to be established, to exist': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S35"
@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | SAB kwn (SD 80; Sabaweb lemma 1431). | SD 80; Sabaweb lemma 1431 | gloss withheld |
 | Judaic Aramaic | kūn Pa. "to direct, aim"; pass. part. "straight, firm, upright" (Ja. 622). | Ja. 622 |  |
 | Punic | Neo-Punic kn (Krahmalkov 235) | Krahmalkov 235 | gloss withheld |
-| Amorite | Ia-ki-in- (OLA80 §44.13); kīn, mêkīnum, kāna, kūn, yakūn, yikūn, takūn (Buck 2019, 328) | OLA80 §44.13; Buck 2019, 328 | gloss withheld |
+| Amorite | Ia-ki-in- (OLA80 §44.13); kīn, mêkīnum, kāna, kūn, yakūn, yikūn, takūn (Buck 2019, 328); k-w-n: ia-ku-un=, ta-ku-un=, ia₈-gu-na-an (Ur III); mekīn: me-ki-nu-um (Sanmartín GlOS 1, 331, 333) | OLA80 §44.13; Buck 2019, 328; Sanmartín GlOS 1, 331, 333 | gloss withheld |
 | Geez | Geʿez kona (ኮነ) Causative ʾakvana (LGz. 288–289). | LGz. 288–289 | gloss withheld |
 | Amharic | honä (LGz. 288–289) | LGz. 288–289 | gloss withheld |
 | Mandaic Aramaic | kan (LGz. 300) | LGz. 300 |  |
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | kuna (HALOT 464) | HALOT 464 |  |
 | Jibbali | kun (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015 ch. 2 §4.2 no. 30 | gloss withheld |
 | Soqotri | kɔn (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015 ch. 2 §4.2 no. 30 | gloss withheld |
+| Eblaitic | du-gi₄, ti-gi, da-ga-ma /k-w-n/; /kunn/: name gú-núm (Sanmartín GlOS 1, 331–332); i-ku-wa-an /yikuwwan/ (G present), or i-ku-pi-AN /yikūn-pī-ʾil(im)/ (Krebernik 1988, 59) | Sanmartín GlOS 1, 331–332; Krebernik 1988, 59 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

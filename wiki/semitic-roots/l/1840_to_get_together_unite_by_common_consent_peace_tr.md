@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | lam 'gathered' Brock. 367 | Brock. 367 |  |
 | Tigrinya | cf. läʔamä LH 42 | LH 42 | gloss withheld |
 | Punic | lʾm 'people' | Anderson–Moser 2024 root lʾm |  |
-| Amorite | līmu (Streck 2011, 366); liʾmu, yaṯūb-liʾm (Buck 2019, 296, 329) | Streck 2011, 366; Buck 2019, 296, 329 | gloss withheld |
+| Amorite | līmu: li-im-ka (Mémoires de N.A.B.U. 1, 115: 24) (Streck 2000, 102–103; Streck 2011, 366); liʾmu, yaṯūb-liʾm (Buck 2019, 296, 329) | Streck 2000 102–103; Streck 2011, 366; Buck 2019, 296, 329 | gloss withheld |
 | Emar | li-iʾ-mi, li-im /liʾmu/ (Pentiuc 2001, 110–111) | Pentiuc 2001 110–111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

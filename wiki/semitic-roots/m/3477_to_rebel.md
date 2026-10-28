@@ -34,7 +34,7 @@ updated: 2026-10-25T06:28:07Z
 | Syrian Aramaic | mrad 'rebel, revolt; resist; surpass'; merdā 'rebellion; stronghold, citadel'; mardūtā 'rebellion, revolt; insolence' (Payne Smith 299) | Payne Smith 299 |  |
 | Arabic | marada; mārid 'one who exalts himself, or is insolent and audacious, in pride and in acts of rebellion or disobedience; an insolent and audacious rebel' (Lane 2706) | Lane 2706 |  |
 | Pre-Islamic North Arabian | Safaitic mrd; mrd (Al-Jallad–Jaworska 99) | Al-Jallad–Jaworska 99 | gloss withheld |
-| Amorite | marādu (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
+| Amorite | marādu: ma-ar-du (ARM 26/1, 74: 17f.) (Streck 2000, 105; Streck 2011, 367) | Streck 2000 105; Streck 2011, 367 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

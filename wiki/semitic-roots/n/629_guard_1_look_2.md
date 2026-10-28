@@ -44,9 +44,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | näṣra (LGz. 406) | LGz. 406 | gloss withheld |
 | Tigrinya | näṣṣärä (LGz. 406) | LGz. 406 |  |
 | Amharic | näṭṭärä (LGz. 406) | LGz. 406 | gloss withheld |
-| Amorite | nṣr: jaṣṣur, nāṣirum, niṣrum, nuṣrum (Gelb AS 21, 27); nāṣiru (Buck 2019, 330) | Gelb AS 21 27; Buck 2019, 330 | gloss withheld |
+| Amorite | nṣr: jaṣṣur, nāṣirum, niṣrum, nuṣrum (Gelb AS 21, 27); nāṣiru (Buck 2019, 330); n-ṯ̣-r 1: ia-an-ṣur-DINGIR, ia-an-zu-ur-ìl, ia-an-zu-ur-ᵈda-gan; nāṯ̣ir 1: ia-di-na-ṣir, ᵈa-šar-na-ṣir, ᵈda-gan-na-ṣir (Sanmartín GlOS 2, 110) | Gelb AS 21 27; Buck 2019, 330; Sanmartín GlOS 2, 110 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic nẓr (Al-Jallad–Jaworska 108) | Al-Jallad–Jaworska 108 | gloss withheld |
-| Eblaitic | na-za-lum /naṣāRum/ (VE 908, Kogan–Krebernik 2021b: 688 apud SEDonline 2018; Krebernik 1983, 34) | VE 908, Kogan–Krebernik 2021b: 688; SEDonline 2018; Krebernik 1983, 34 | gloss withheld |
+| Eblaitic | na-za-lum /naṣāRum/ (VE 908, Kogan–Krebernik 2021b: 688 apud SEDonline 2018; Krebernik 1983, 34); na-za-lum, na-za-lu-um, na-za-lu, cf. i-na-sar /n-ṯ̣-r/ 1; ma-za-lum /maṯ̣ṯ̣ar/ 1; /maṯ̣ṯ̣ur/ 1: name ma-zu-ra-ḫu; cf. ma-SUM(zàr?)-tum /maṯ̣ṯ̣art/ 1 (Sanmartín GlOS 2, 110–111) | VE 908, Kogan–Krebernik 2021b: 688; SEDonline 2018; Krebernik 1983, 34; Sanmartín GlOS 2, 110–111 | gloss withheld |
 | Judaic Aramaic | neṭar (T 221) | T 221 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

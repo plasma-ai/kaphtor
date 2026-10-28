@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/3186_thunder
 title: "*hadad-: 'thunder'"
-desc: "Proto-Semitic *hadad-, 'thunder': reflexes in 9 language(s)."
+desc: "Proto-Semitic *hadad-, 'thunder': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3186"
@@ -30,7 +30,7 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | adad, addu (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
-| Eblaitic | dʾà-da (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
+| Eblaitic | dʾà-da (Kogan 2011, 194); Hadda, from Arabic hadda: ᵈʾà-da a-ba-tiᵏⁱ, ᵈʾà-da ʾà-ta-niᵏⁱ, ᵈʾà-da ḫa-lamᵏⁱ, ᵈʾà-da lu-ubᵏⁱ (Antalík 1998, 38); Hadda of Ḫalab (Sallaberger 2018, 117) | Kogan 2011 194; Antalík 1998, 38; Sallaberger 2018, 117 | gloss withheld |
 | Ugaritic | hd, hdd (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
 | Tigre | hadud, hədud (Kogan 2011, 194) | Kogan 2011 194 |  |
 | Mehri | həd (Kogan 2011, 194) | Kogan 2011 194 |  |
@@ -38,6 +38,7 @@ updated: 2026-10-24T15:25:56Z
 | Soqotri | šed (Kogan 2011, 194) | Kogan 2011 194 |  |
 | Arabic | hāddat- (Kogan 2011, 194) | Kogan 2011 194 |  |
 | Tigrinya | hadädä (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
+| Amorite | Haddu, Hadu, Hadda, Hada, Hedda, Handa, Handu, DN (Gelb AS 21, 19); Addu, \*Haddu, Northwest Semitic deity (Huffmon APNM 156) | Gelb AS 21 19; Huffmon APNM 156 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

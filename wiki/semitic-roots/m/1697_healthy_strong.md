@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1697_healthy_strong
 title: "*mar-: 'healthy, strong'"
-desc: "Proto-Semitic *mar-, 'healthy, strong': reflexes in 3 language(s)."
+desc: "Proto-Semitic *mar-, 'healthy, strong': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1697"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | marīr- (Lane 2701) | Lane 2701 |  |
 | Akkadian | marmaru |  |  |
 | Phoenician | mrr ? (B 354) | B 354 | gloss withheld |
+| Eblaitic | mar-ma-ru₁₂-lum, cf. mar-mar-LUM /marmarr/; /marr/: names gi-ti-ma-ar, en-mar-ru₁₂ (Sanmartín GlOS 2, 49–50) | Sanmartín GlOS 2, 49–50 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

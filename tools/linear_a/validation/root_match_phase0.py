@@ -259,27 +259,28 @@ def gold_sign_groups(path: Path = GOLD_V3_PATH) -> set[tuple[str, ...]]:
             for row in rows if isinstance(row, dict) for f in ("word", "lexicon_word") if row.get(f)}
 
 
-def reading_key(word: str) -> tuple | None:
+def reading_key(word: str, conventional: bool = False) -> tuple | None:
     """A sign group as the engine reads it: each sign's readings (lib.root_match.sign_options); None with an unmapped
     sign, which the engine refuses anyway. KU2-RO, KU-RO9 and KU-*310-SU read as KU-RO and KU-NI-SU do."""
     from ...core import root_match as rm
     try:
-        return tuple(tuple(rm.sign_options(s)) for s in rm.word_signs(word))
+        return tuple(tuple(rm.sign_options(s, conventional=conventional)) for s in rm.word_signs(word))
     except rm.UnmappedSign:
         return None
 
 
-def gold_guard(path: Path = GOLD_V3_PATH) -> Callable[[str], bool]:
+def gold_guard(path: Path = GOLD_V3_PATH, conventional: bool = False) -> Callable[[str], bool]:
     """word → whether it is a gold-set sign group, by name (sign_group_key) or by reading (reading_key): a spelling
-    the engine reads as a gold word gives that word's numbers, so it is held back with it (A14)."""
+    the engine reads as a gold word gives that word's numbers, so it is held back with it (A14). A conventional run
+    also holds back a spelling that reads as one by Linear B values (X-PA-Y as X-PA₃-Y)."""
     names = gold_sign_groups(path)
-    readings = {k for k in (reading_key("-".join(g)) for g in names) if k is not None}
+    modes = (False, True) if conventional else (False,)
+    readings = {(m, k) for m in modes for g in names if (k := reading_key("-".join(g), m)) is not None}
 
     def is_gold(word: str) -> bool:
         if sign_group_key(word) in names:
             return True
-        k = reading_key(word)
-        return k is not None and k in readings
+        return any((m, k) in readings for m in modes if (k := reading_key(word, m)) is not None)
     return is_gold
 
 

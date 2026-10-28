@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA26a\|ZA26a]] | Zakros | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA26a\|ZA26a]] | Zakros | Tablet | incomplete; form not in transliteration |
 
 ## Unread
 

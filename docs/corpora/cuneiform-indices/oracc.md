@@ -9,7 +9,7 @@ updated: 2026-10-22T18:14:10Z
 
 # ORACC local corpus index and table of contents
 
-Generated from the locally acquired ORACC ZIP archives and the edition-aware derived JSONL. This is an inventory of the local holding, not a claim about all texts published by ORACC.
+Generated from the locally acquired ORACC ZIP archives and the edition-aware derived JSONL. This is an inventory of the local holding, not a claim about all texts published by ORACC. The archives and derived files it names under `data/ingest/` are not in this repository.
 
 ## At a glance
 

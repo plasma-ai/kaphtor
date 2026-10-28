@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A-JA is complete at PE Zc 4 and SY Za 2; MA 4b reads A-\[?\]-\[?\]-\[?\]-JA and is not an attestation. The closest spelling control is Old Babylonian Mari, where West Semitic ḥaya "lives" appears as both ha-ia- and a-ia-; Weeden suggests that a-ia- may attempt to reproduce an unrepresented /ḥ/. At Alalakh VII, a-ia-/ha-ia- alternate in the same name (Weeden 2009, 96–100). This makes A-JA compatible with /ḥaya/ or /ḥayyā/ without treating pharyngeal /ḥ/ as ordinary /h/. Linear B omission of Greek /h/ is an independent Aegean orthographic control only. The divine name Haya is attested as dḫa-ià from Early Dynastic Fara onward and in the Old Babylonian Hymn to Haia for Rim-Sin, whose line 59 calls him the god who loves the petition "Give me life!" (ORACC AMGG, "Haya"; ETCSL 2.6.9.2.59). Keep three analyses separate: Haya; Semitic /ḥaya/ or /ḥayyā/ "(the) Living One/Life"; and the independently attested goddess Aya. Their historical relationship is disputed. Davis's "much" remains a structural rival.
+A-JA is complete at PE Zc 4 and SY Za 2; MA 4b reads A-\[?\]-\[?\]-\[?\]-JA and is not an attestation. The closest spelling control is Old Babylonian Mari, where West Semitic ḥaya "lives" appears as both ha-ia- and a-ia-; Weeden suggests that a-ia- may attempt to reproduce an unrepresented /ḥ/. At Alalakh VII, a-ia-/ha-ia- alternate in the same name (Weeden 2009, 96–100). Amorite has Ḥajja as a DN (Gelb AS 21, 19), as in Milki-Ḥayya (no. 4724). This makes A-JA compatible with /ḥaya/ or /ḥayyā/ without treating pharyngeal /ḥ/ as ordinary /h/. Linear B omission of Greek /h/ is an independent Aegean orthographic control only. The divine name Haya is attested as dḫa-ià from Early Dynastic Fara onward and in the Old Babylonian Hymn to Haia for Rim-Sin, whose line 59 calls him the god who loves the petition "Give me life!" (ORACC AMGG, "Haya"; ETCSL 2.6.9.2.59). Keep three analyses separate: Haya; Semitic /ḥaya/ or /ḥayyā/ "(the) Living One/Life"; and the independently attested goddess Aya. Their historical relationship is disputed. Davis's "much" remains a structural rival.
 
 ### Cognates
 
@@ -61,8 +61,8 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PEZc/PEZc4\|PEZc4]] | ḥayyā? | possibly "Life!" (liturgical exclamation) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa2\|SYZa2]] | ḥaya? / ḥayyā? / Haya? / Aya? | possible divine name or liturgical predicate; untranslated | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PE/PEZc/PEZc4\|PEZc4]] | ḥayyā | possibly "Life!" (liturgical exclamation) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa2\|SYZa2]] | ḥaya / ḥayyā / Haya / Aya | possible divine name or liturgical predicate; untranslated | CANDIDATE |
 
 ## Onomasticon
 

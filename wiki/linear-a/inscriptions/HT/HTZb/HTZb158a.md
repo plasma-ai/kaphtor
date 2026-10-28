@@ -50,6 +50,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA IV 64: \]\[·\]-TU-SE-SU-KI, a lost first sign of the same word, TU dotted. The former divider was the lacuna.
+GORILA IV 64: \]\[·\]-TU-SE-SU-KI, a lost first sign of the same word, TU dotted.
 
 <!-- END kaphtor:record -->

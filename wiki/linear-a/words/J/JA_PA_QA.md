@@ -64,6 +64,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa12\|PKZa12]] | yapqaḥ? | \[he opens (his eyes)?\] | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa12\|PKZa12]] | yapqaḥ | \[he opens (his eyes)?\] | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -48,7 +48,7 @@ Feminine counterpart of SA-RU = šarru 'king'; the -u/-a terminal vowel is the S
 |---|---|
 | Akkadian | šarratu 'queen' |
 | Proto-Semitic | \*sVrw(-ay)- '(military) chief, prince' (PS #15)—feminine form |
-| Ugaritic | srn 'prince' (DUL 770); feminine not independently attested |
+| Ugaritic | srn 'prince' (DULAT 759); feminine not independently attested |
 | Hebrew | śārā 'princess' (Gen 17:15); sǝrānīm 'city-princes' (KB 727) |
 | Arabic | sarw- 'chief, prince'; feminine form regular |
 

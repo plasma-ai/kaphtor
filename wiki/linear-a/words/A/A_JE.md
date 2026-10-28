@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-THEZb7 (Thera, clay vessel): sole word on vessel—inscribed on an island, possibly labeling origin or dedication. Dialectal variant of I-JA /ʾiya/ (Knossos) and I-JA-TE /ʾiyyate/ (Phaistos): A-JE spelling at Thera vs I-JA at Eastern Cretan sites may reflect regional vowel variation, parallel to the Phaistos-vs-Eastern Crete dialectal patterns observed in the libation formulae.
+THEZb7 (Thera, clay vessel): sole word on vessel—inscribed on an island, possibly labeling origin or dedication. Dialectal variant of I-JA /ʾiya/ (Knossos) and I-JA-TE /ʾiyyate/ (Phaistos): A-JE spelling at Thera vs I-JA at Eastern Cretan sites may reflect regional vowel variation, parallel to the Phaistos-vs-Eastern Crete dialectal patterns observed in the libation formulae. PS \*ʾVy- 'island' (#K0604): Ug. ỉht 'islands, coastal region' (DULAT 31).
 
 ### Cognates
 

@@ -60,7 +60,7 @@ Non-phonetic commodity ideogram denoting olive fruit (distinct from OLE = šamnu
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | \[ideogram\] | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | \[ideogram\] | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | olives |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | zayt? | olives |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | zayt | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | \[ideogram\] | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | zayt | olive (fruit) |  |
 | [[wiki/linear-a/inscriptions/HT/HTW/HTW231a\|HTW231a]] | zayt | olive fruit |  |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O
 desc: "Words whose first sign begins with O."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T15:14:19Z
+updated: 2026-10-28T13:27:44Z
 ---
 
 # wiki/linear-a/words/O
@@ -39,7 +39,9 @@ updated: 2026-10-27T15:14:19Z
 
 [[wiki/linear-a/words/O/O_MI|O_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/O/O_RA2_DI_NE|O_RA2_DI_NE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/O/O_RA2|O_RA2]]: ʾŌl: the Foremost (name element), from 'priority, supremacy'. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/O/O_RA2_DI_NE|O_RA2_DI_NE]]: ʾŌl-dīn: personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/O/O_SU_QA_RE|O_SU_QA_RE]]: ʾō Sukar: O Sokar (Egyptian Skr), the deity addressed; rival Ušḫara the Snake. Lexicon, CANDIDATE (tier 2).
 

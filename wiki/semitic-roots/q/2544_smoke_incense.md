@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḳṭr, ḳuṭār-, ḳaṭūr- |  | gloss withheld |
 | Akkadian | ḳatār-, ḳutr-, ḳutrēn-, ḳutrinn- |  | gloss withheld |
 | Tigre | ḳǝtare |  | gloss withheld |
-| Eblaitic | /ḳuṭṭurū/ |  |  |
+| Eblaitic | /ḳuṭṭurū/; ga-du-ru₁₂ u₉-ga-da-ra /q-D-r/ (Sanmartín GlOS 1, 359) | Sanmartín GlOS 1, 359 | gloss withheld |
 | Mandaic Aramaic | guṭr-, gṭr |  | gloss withheld |
 | Ugaritic | ḳṭr (Kogan 2015, ch. 5 §2.1.2 no. 78) | Kogan 2015 ch. 5 §2.1.2 no. 78 | gloss withheld |
 | Geez | ḳtr, ḳǝttār(e) LGz 452 | LGz 452 | gloss withheld |
@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḳiṭr- (DJBA 1009 apud CAL) | DJBA 1009; CAL | gloss withheld |
 | Phoenician | qṭr (Krahmalkov 426) | Krahmalkov 426 | gloss withheld |
 | Punic | qṭrt (Krahmalkov 426); qṭrt, ktrt (T 287) | Krahmalkov 426; T 287 | gloss withheld |
-| Amorite | qaṭar (Buck 2019, 331) | Buck 2019, 331 | gloss withheld |
+| Amorite | qaṭar (Buck 2019, 331); qaDar: ga-at-ra-nu-um, ga-ta-ru-um, ga-tar-a-bi (Sanmartín GlOS 1, 359) | Buck 2019, 331; Sanmartín GlOS 1, 359 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

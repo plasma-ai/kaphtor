@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/K0825_exit
 title: "*ṣVʾVt-: 'exit'"
-desc: "Proto-Semitic *ṣVʾVt-, 'exit': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ṣVʾVt-, 'exit': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0825"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ṣat 'issue' | Anderson–Moser 2024 root ṣʾt |  |
 | Phoenician | mṣʾ (T 192) | T 192 | gloss withheld |
 | Hebrew | mōṣāʾ (T 192) | T 192 |  |
+| Eblaitic | /tawḍiʾ/ &gt; /tūḍiʾ/ (Akk. tūṣi), 3rd f./2nd m.: names da-zi-du-du, da-zi-ma-ad(-um)/ma-du, du-zi-i-šar (Krebernik 1988, 53–56) | Krebernik 1988, 53–56 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

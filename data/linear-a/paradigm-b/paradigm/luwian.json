@@ -1,0 +1,2322 @@
+{
+ "_meta": {
+  "built_by": "scripts/build_paradigm.py",
+  "built_at": "2026-09-08T01:52:15.286576+00:00",
+  "inputs": {
+   "data/formula_family.json": "8f1add5ef0a1367f274257a7032547ef725fbb50aa7504a942ceb2e3c425d807"
+  },
+  "attribution": "di Mino",
+  "protocol": "PROTOCOL-B.md §4",
+  "blindness_rule": "no entry mentions a Linear A form, a lexicon.json headword, 'Linear A', 'Minoan' or 'Ya Diktu' (checked mechanically at build)",
+  "citation_status": "section numbers marked '(topic)' are to be verified against the cited grammar before REPORT-B cites them; records for Al-Jallad 2015, Beeston 1984, Joüon–Muraoka 2006, Huffmon 1965, Payne 2014, Melchert 1993/2003, Wegner 2007, Laroche 1980, Allen 2014, Loprieno 1995 to be added to sources/sources_database.json"
+ },
+ "arm": "luwian",
+ "languages": [
+  "luwian"
+ ],
+ "languages_with_sabaic": [
+  "luwian"
+ ],
+ "classes": {
+  "prefix": [
+   "sentence-initial connector + clitic chain"
+  ],
+  "suffix": [
+   "derivational",
+   "case/number",
+   "verbal ending",
+   "Wackernagel clitic"
+  ]
+ },
+ "morphemes": [
+  {
+   "id": "luw_p_a",
+   "position": 1,
+   "function": "sentence-initial connector a-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014 §… particles",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_p_awa",
+   "position": 1,
+   "function": "connector a- + quotative =wa",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014 (a-wa/i)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "w",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_p_pa",
+   "position": 1,
+   "function": "contrastive connector pa-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014 (pa-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "p",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_p_wa",
+   "position": 1,
+   "function": "quotative particle wa- on the first word",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014 (=wa)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "w",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_asa",
+   "position": 1,
+   "function": "possessive/toponymic -assa-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 2003",
+    "Payne 2014 (-assa/i-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "s",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_asi",
+   "position": 1,
+   "function": "possessive adjective -assi-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 2003",
+    "Payne 2014 (-assa/i-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "s",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_ali",
+   "position": 1,
+   "function": "denominative -alli-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-alli-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "l",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_wani",
+   "position": 1,
+   "function": "gentilic -wanni-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-wanni-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "a"
+    ],
+    [
+     "n",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_ahi",
+   "position": 1,
+   "function": "abstract -ahi(t)-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-ahit-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "ḫ",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_anza",
+   "position": 1,
+   "function": "participle -anza",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-anza)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "z",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_ant",
+   "position": 1,
+   "function": "participial -ant-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-ant-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_iya",
+   "position": 1,
+   "function": "adjective -iya-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-iya-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ],
+    [
+     "y",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_ami",
+   "position": 1,
+   "function": "deverbative -(a)mmi-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-(a)mma/i-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "m",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_ana",
+   "position": 1,
+   "function": "relational -anna/i-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-anna/i-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_atar",
+   "position": 1,
+   "function": "abstract -atar",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-atar)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "t",
+     "a"
+    ],
+    [
+     "r",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_ala",
+   "position": 1,
+   "function": "agent -ala-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-ala-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "l",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_d_ahit",
+   "position": 1,
+   "function": "abstract -ahit-",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-ahit-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "ḫ",
+     "i"
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_s",
+   "position": 2,
+   "function": "nom. sg. common -s",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014 §… nouns",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_n",
+   "position": 2,
+   "function": "acc. sg. common / nom.-acc. sg. neuter -n",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_i",
+   "position": 2,
+   "function": "dat.-loc. sg. -i",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_ati",
+   "position": 2,
+   "function": "abl.-instr. -ati",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "t",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_as",
+   "position": 2,
+   "function": "gen. sg. -as (archaic)",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "s",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_nzi",
+   "position": 2,
+   "function": "nom. pl. common -nzi",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ],
+    [
+     "z",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_nz",
+   "position": 2,
+   "function": "acc. pl. common -nz",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ],
+    [
+     "z",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_a",
+   "position": 2,
+   "function": "nom.-acc. pl. neuter / collective -a",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_us",
+   "position": 2,
+   "function": "u-stem nom. sg. -us",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (u-stems)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "s",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_un",
+   "position": 2,
+   "function": "u-stem acc. sg. -un",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (u-stems)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_unzi",
+   "position": 2,
+   "function": "u-stem nom. pl. -unzi",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (u-stems)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "z",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_za",
+   "position": 2,
+   "function": "neuter nom.-acc. particle -za/-sa",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993 (-sa/-za)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "z",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_c_anza",
+   "position": 2,
+   "function": "dat. pl. -anza",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "z",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_wi",
+   "position": 3,
+   "function": "1sg pres. -wi",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014 §… verbs",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_si",
+   "position": 3,
+   "function": "2sg pres. -si",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_ti",
+   "position": 3,
+   "function": "3sg pres. -ti",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_i",
+   "position": 3,
+   "function": "3sg pres. -i (ḫi-conjugation)",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_mina",
+   "position": 3,
+   "function": "1pl pres. -mina",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "i"
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_tani",
+   "position": 3,
+   "function": "2pl pres. -tani",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ],
+    [
+     "n",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_nti",
+   "position": 3,
+   "function": "3pl pres. -nti",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ],
+    [
+     "t",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_ha",
+   "position": 3,
+   "function": "1sg pret. -ḫa",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "ḫ",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_ta",
+   "position": 3,
+   "function": "2sg/3sg pret. -ta",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_nta",
+   "position": 3,
+   "function": "3pl pret. -nta",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ],
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_tu",
+   "position": 3,
+   "function": "3sg impv. -tu",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_ntu",
+   "position": 3,
+   "function": "3pl impv. -ntu",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ],
+    [
+     "t",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_ru",
+   "position": 3,
+   "function": "2sg impv. medio-passive -ru",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "r",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_taru",
+   "position": 3,
+   "function": "3sg impv. medio-passive -taru",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ],
+    [
+     "r",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_hari",
+   "position": 3,
+   "function": "1sg medio-passive -ḫari",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "ḫ",
+     "a"
+    ],
+    [
+     "r",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_tari",
+   "position": 3,
+   "function": "2/3sg medio-passive -tari",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ],
+    [
+     "r",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_ari",
+   "position": 3,
+   "function": "3sg medio-passive -ari",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "r",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_ntari",
+   "position": 3,
+   "function": "3pl medio-passive -ntari",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ],
+    [
+     "t",
+     "a"
+    ],
+    [
+     "r",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_una",
+   "position": 3,
+   "function": "infinitive -una",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_man",
+   "position": 3,
+   "function": "supine -man",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_v_tanu",
+   "position": 3,
+   "function": "2pl impv. -tanu",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ],
+    [
+     "n",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_wa",
+   "position": 4,
+   "function": "quotative =wa",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014 §… clitics",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_pa",
+   "position": 4,
+   "function": "contrastive =pa",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "p",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_ha",
+   "position": 4,
+   "function": "'and also' =ḫa",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "ḫ",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_ta",
+   "position": 4,
+   "function": "local particle =tta/=ta",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_mu",
+   "position": 4,
+   "function": "1sg dat. =mu",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_ti",
+   "position": 4,
+   "function": "2sg dat. / reflexive =ti",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_si",
+   "position": 4,
+   "function": "3sg poss. =si",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_an",
+   "position": 4,
+   "function": "3sg acc. =an",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_ata",
+   "position": 4,
+   "function": "3sg dat. / neuter =ata",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 1993"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_du",
+   "position": 4,
+   "function": "3sg dat. =du/=tu",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "d",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_mi",
+   "position": 4,
+   "function": "1sg poss. =mi",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_za",
+   "position": 4,
+   "function": "reflexive =za",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014",
+    "Melchert 2003"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "z",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_sa",
+   "position": 4,
+   "function": "neuter resumptive =sa",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_as",
+   "position": 4,
+   "function": "3sg nom. / 3pl acc. =as",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "s",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_mas",
+   "position": 4,
+   "function": "3pl dat. =(m)mas",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Melchert 1993"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ],
+    [
+     "s",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_manza",
+   "position": 4,
+   "function": "1sg reflexive =manza",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "z",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "luw_k_anza",
+   "position": 4,
+   "function": "3sg abl. =anza",
+   "attested_in": [
+    "luwian"
+   ],
+   "citations": [
+    "Payne 2014"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "z",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  }
+ ],
+ "attested_forms": [
+  {
+   "id": "lu_masanas",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masana",
+   "suffixes": [
+    "luw_c_s"
+   ],
+   "surface": "masanas",
+   "citation": "Payne 2014 (massana- 'god', nom. sg.)"
+  },
+  {
+   "id": "lu_masanan",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masana",
+   "suffixes": [
+    "luw_c_n"
+   ],
+   "surface": "masanan",
+   "citation": "Payne 2014 (acc. sg.)"
+  },
+  {
+   "id": "lu_masani",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masana",
+   "suffixes": [
+    "luw_c_i"
+   ],
+   "surface": "masanai",
+   "citation": "Payne 2014 (dat.-loc.)"
+  },
+  {
+   "id": "lu_masanati",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masan",
+   "suffixes": [
+    "luw_c_ati"
+   ],
+   "surface": "masanati",
+   "citation": "Payne 2014 (abl.-instr. -ati; KARATEPE 1)"
+  },
+  {
+   "id": "lu_masaninzi",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masani",
+   "suffixes": [
+    "luw_c_nzi"
+   ],
+   "surface": "masaninzi",
+   "citation": "Payne 2014 (nom. pl. -nzi)"
+  },
+  {
+   "id": "lu_masaninz",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masani",
+   "suffixes": [
+    "luw_c_nz"
+   ],
+   "surface": "masaninz",
+   "citation": "Payne 2014 (acc. pl. -nz)"
+  },
+  {
+   "id": "lu_masanasis",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masan",
+   "suffixes": [
+    "luw_d_asi",
+    "luw_c_s"
+   ],
+   "surface": "masanasis",
+   "citation": "Melchert 2003 (massanassi- 'divine')"
+  },
+  {
+   "id": "lu_tarhuntas",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "tarhunt",
+   "suffixes": [
+    "luw_c_as"
+   ],
+   "surface": "tarhuntas",
+   "citation": "Payne 2014 (gen. -as)"
+  },
+  {
+   "id": "lu_tarhuntiyas",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "tarhunt",
+   "suffixes": [
+    "luw_d_iya",
+    "luw_c_s"
+   ],
+   "surface": "tarhuntiyas",
+   "citation": "Melchert 1993 (-iya-)"
+  },
+  {
+   "id": "lu_tarhunzanza",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "tarhunz",
+   "suffixes": [
+    "luw_d_anza"
+   ],
+   "surface": "tarhunzanza",
+   "citation": "Melchert 1993 (-anza)"
+  },
+  {
+   "id": "lu_pipisati",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "pipisa",
+   "suffixes": [
+    "luw_v_ti"
+   ],
+   "surface": "pipisati",
+   "citation": "Payne 2014 (3sg pres. -ti)"
+  },
+  {
+   "id": "lu_piyata",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "piya",
+   "suffixes": [
+    "luw_v_ta"
+   ],
+   "surface": "piyata",
+   "citation": "Payne 2014 (3sg pret. -ta)"
+  },
+  {
+   "id": "lu_piyanta",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "piya",
+   "suffixes": [
+    "luw_v_nta"
+   ],
+   "surface": "piyanta",
+   "citation": "Payne 2014 (3pl pret. -nta)"
+  },
+  {
+   "id": "lu_piyatu",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "piya",
+   "suffixes": [
+    "luw_v_tu"
+   ],
+   "surface": "piyatu",
+   "citation": "Payne 2014 (3sg impv. -tu)"
+  },
+  {
+   "id": "lu_iziha",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "izi",
+   "suffixes": [
+    "luw_v_ha"
+   ],
+   "surface": "iziḫa",
+   "citation": "Payne 2014, KARATEPE 1 (i-zi-i-ha 'I made')"
+  },
+  {
+   "id": "lu_tamaha",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "tama",
+   "suffixes": [
+    "luw_v_ha"
+   ],
+   "surface": "tamaḫa",
+   "citation": "Payne 2014, KARATEPE 1 (ta-ma-ha 'I built')"
+  },
+  {
+   "id": "lu_asata",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "asa",
+   "suffixes": [
+    "luw_v_ta"
+   ],
+   "surface": "asata",
+   "citation": "Payne 2014 (asa- 'sit', pret.)"
+  },
+  {
+   "id": "lu_azuna",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "az",
+   "suffixes": [
+    "luw_v_una"
+   ],
+   "surface": "azuna",
+   "citation": "Payne 2014 (infinitive -una)"
+  },
+  {
+   "id": "lu_iyaman",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "iya",
+   "suffixes": [
+    "luw_v_man"
+   ],
+   "surface": "iyaman",
+   "citation": "Payne 2014 (supine -man)"
+  },
+  {
+   "id": "lu_hantawatis",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "hantawati",
+   "suffixes": [
+    "luw_c_s"
+   ],
+   "surface": "hantawatis",
+   "citation": "Payne 2014 (hantawati- 'king')"
+  },
+  {
+   "id": "lu_hantawatin",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "hantawati",
+   "suffixes": [
+    "luw_c_n"
+   ],
+   "surface": "hantawatin",
+   "citation": "Payne 2014"
+  },
+  {
+   "id": "lu_hantawatalis",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "hantawat",
+   "suffixes": [
+    "luw_d_ali",
+    "luw_c_s"
+   ],
+   "surface": "hantawatalis",
+   "citation": "Melchert 1993 (-alli-)"
+  },
+  {
+   "id": "lu_zas",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "za",
+   "suffixes": [
+    "luw_c_s"
+   ],
+   "surface": "zas",
+   "citation": "Payne 2014 (demonstrative za-)"
+  },
+  {
+   "id": "lu_zan",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "za",
+   "suffixes": [
+    "luw_c_n"
+   ],
+   "surface": "zan",
+   "citation": "Payne 2014"
+  },
+  {
+   "id": "lu_apas",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "apa",
+   "suffixes": [
+    "luw_c_s"
+   ],
+   "surface": "apas",
+   "citation": "Payne 2014 (apa- 'that')"
+  },
+  {
+   "id": "lu_apanzi",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "apa",
+   "suffixes": [
+    "luw_c_nzi"
+   ],
+   "surface": "apanzi",
+   "citation": "Payne 2014"
+  },
+  {
+   "id": "lu_kwis",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "kwi",
+   "suffixes": [
+    "luw_c_s"
+   ],
+   "surface": "kwis",
+   "citation": "Payne 2014 (relative kwi-)"
+  },
+  {
+   "id": "lu_amun",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "amu",
+   "suffixes": [
+    "luw_c_n"
+   ],
+   "surface": "amun",
+   "citation": "Payne 2014 (1sg pronoun)"
+  },
+  {
+   "id": "lu_warpi",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "warp",
+   "suffixes": [
+    "luw_c_i"
+   ],
+   "surface": "warpi",
+   "citation": "Melchert 2003 (i-mutation)"
+  },
+  {
+   "id": "lu_tiyamahi",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "tiyam",
+   "suffixes": [
+    "luw_d_ahi"
+   ],
+   "surface": "tiyamaḫi",
+   "citation": "Melchert 1993 (-ahi(t)-)"
+  },
+  {
+   "id": "lu_lukawanis",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "luka",
+   "suffixes": [
+    "luw_d_wani",
+    "luw_c_s"
+   ],
+   "surface": "lukawanis",
+   "citation": "Melchert 1993 (-wanni-)"
+  },
+  {
+   "id": "lu_tarhuntasas",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "tarhunt",
+   "suffixes": [
+    "luw_d_asa",
+    "luw_c_s"
+   ],
+   "surface": "tarhuntasas",
+   "citation": "Payne 2014 (-assa-)"
+  },
+  {
+   "id": "lu_hantawatatar",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "hantawat",
+   "suffixes": [
+    "luw_d_atar"
+   ],
+   "surface": "hantawatatar",
+   "citation": "Melchert 1993 (-atar)"
+  },
+  {
+   "id": "lu_azari",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "az",
+   "suffixes": [
+    "luw_v_ari"
+   ],
+   "surface": "azari",
+   "citation": "Payne 2014 (medio-passive -ari)"
+  },
+  {
+   "id": "lu_azantari",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "aza",
+   "suffixes": [
+    "luw_v_ntari"
+   ],
+   "surface": "azantari",
+   "citation": "Payne 2014 (-ntari)"
+  },
+  {
+   "id": "lu_asaru",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "asa",
+   "suffixes": [
+    "luw_v_ru"
+   ],
+   "surface": "asaru",
+   "citation": "Payne 2014 (impv. medio-passive -ru)"
+  },
+  {
+   "id": "lu_tarhuntimi",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "tarhunti",
+   "suffixes": [
+    "luw_k_mi"
+   ],
+   "surface": "tarhuntimi",
+   "citation": "Payne 2014 (=mi)"
+  },
+  {
+   "id": "lu_apasha",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "apa",
+   "suffixes": [
+    "luw_c_s",
+    "luw_k_ha"
+   ],
+   "surface": "apasḫa",
+   "citation": "Payne 2014 (=ḫa)"
+  },
+  {
+   "id": "lu_apanpa",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "apa",
+   "suffixes": [
+    "luw_c_n",
+    "luw_k_pa"
+   ],
+   "surface": "apanpa",
+   "citation": "Payne 2014 (=pa)"
+  },
+  {
+   "id": "lu_azantu",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "aza",
+   "suffixes": [
+    "luw_v_ntu"
+   ],
+   "surface": "azantu",
+   "citation": "Payne 2014 (3pl impv. -ntu)"
+  },
+  {
+   "id": "lu_wanatis",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "wanati",
+   "suffixes": [
+    "luw_c_s"
+   ],
+   "surface": "wanatis",
+   "citation": "Payne 2014 (wanati- 'woman')"
+  },
+  {
+   "id": "lu_masanawa",
+   "language": "luwian",
+   "prefixes": [],
+   "stem": "masana",
+   "suffixes": [
+    "luw_k_wa"
+   ],
+   "surface": "masanawa",
+   "citation": "Payne 2014 (=wa on the first word)"
+  }
+ ],
+ "counts": {
+  "total": 68,
+  "headline": 68,
+  "distinct_headline": 59,
+  "one_sign_headline": 37,
+  "priced": 0,
+  "sabaic_only": 0,
+  "prefix": 4,
+  "suffix": 64,
+  "ratio_distinct_headline_vs_cs": 1.169,
+  "ratio_one_sign_headline_vs_cs": 1.486
+ }
+}

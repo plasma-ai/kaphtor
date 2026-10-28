@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/t
 desc: "Semitic roots whose first radical is t."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:19:35Z
+updated: 2026-10-28T22:08:35Z
 ---
 
 # wiki/semitic-roots/t
@@ -39,9 +39,9 @@ updated: 2026-10-28T12:19:35Z
 
 [[wiki/semitic-roots/t/1418_pour_pour_too_much|1418_pour_pour_too_much]]: Proto-Semitic *tuḫ-, 'pour, pour too much': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/t/1419_lift|1419_lift]]: Proto-Semitic *tVrVʾ-, 'lift': reflexes in 1 language(s).
+[[wiki/semitic-roots/t/1419_lift|1419_lift]]: Proto-Semitic *tVrVʾ-, 'lift': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/t/1420_turn|1420_turn]]: Proto-Semitic *tVwVr-, 'turn': reflexes in 3 language(s).
+[[wiki/semitic-roots/t/1420_turn|1420_turn]]: Proto-Semitic *tVwVr-, 'turn': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/t/1421_white_cedar|1421_white_cedar]]: Proto-Semitic *tiʾal-, 'white cedar': reflexes in 1 language(s).
 
@@ -77,7 +77,7 @@ updated: 2026-10-28T12:19:35Z
 
 [[wiki/semitic-roots/t/2375_intelligent|2375_intelligent]]: Proto-Semitic *tabin-, 'intelligent': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/t/238_mythical_snake_dragon|238_mythical_snake_dragon]]: Proto-Semitic *tVnnVn-, '(mythical) snake, dragon': reflexes in 7 language(s).
+[[wiki/semitic-roots/t/238_mythical_snake_dragon|238_mythical_snake_dragon]]: Proto-Semitic *tVnnVn-, '(mythical) snake, dragon': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/t/2426_snake_dragon|2426_snake_dragon]]: Proto-Semitic *taman-, 'snake, dragon': reflexes in 3 language(s).
 
@@ -89,7 +89,7 @@ updated: 2026-10-28T12:19:35Z
 
 [[wiki/semitic-roots/t/2765_deep_primordial_ocean_abyss_Tiamat_DN|2765_deep_primordial_ocean_abyss_Tiamat_DN]]: Proto-Semitic *tihām-, 'deep, primordial ocean, abyss; Tiamat (DN)': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/t/2914_twin|2914_twin]]: Proto-Semitic *tVʾVm-, 'twin': reflexes in 6 language(s).
+[[wiki/semitic-roots/t/2914_twin|2914_twin]]: Proto-Semitic *tVʾVm-, 'twin': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/t/2967_Tanit_Tinit_Punic_goddess_face_of_Baal|2967_Tanit_Tinit_Punic_goddess_face_of_Baal]]: Proto-Semitic *tinnīt-, 'Tanit/Tinit (Punic goddess, face of Baal)': reflexes in 3 language(s).
 
@@ -105,7 +105,7 @@ updated: 2026-10-28T12:19:35Z
 
 [[wiki/semitic-roots/t/3262_furrow|3262_furrow]]: Proto-Semitic *tVlm-, 'furrow': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/t/3320_to_be_in_order_to_set_right_establish|3320_to_be_in_order_to_set_right_establish]]: Proto-Semitic *tḳn, 'to be in order; to set right, establish': reflexes in 4 language(s).
+[[wiki/semitic-roots/t/3320_to_be_in_order_to_set_right_establish|3320_to_be_in_order_to_set_right_establish]]: Proto-Semitic *tḳn, 'to be in order; to set right, establish': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/t/3334_to_follow|3334_to_follow]]: Proto-Semitic *tlw, 'to follow': reflexes in 4 language(s).
 
@@ -157,7 +157,7 @@ updated: 2026-10-28T12:19:35Z
 
 [[wiki/semitic-roots/t/688_flow_1_pour_of_rain_2|688_flow_1_pour_of_rain_2]]: Proto-Semitic *tyʕ- ~ *twy, 'flow' 1, 'pour (of rain)' 2: reflexes in 2 language(s).
 
-[[wiki/semitic-roots/t/737_palm_tree|737_palm_tree]]: Proto-Semitic *tam(V)r-, 'palm tree': reflexes in 11 language(s).
+[[wiki/semitic-roots/t/737_palm_tree|737_palm_tree]]: Proto-Semitic *tam(V)r-, 'palm tree': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/t/777_earth_dust|777_earth_dust]]: Proto-Semitic *tur(V)b-, 'earth, dust': reflexes in 3 language(s).
 
@@ -181,7 +181,7 @@ updated: 2026-10-28T12:19:35Z
 
 [[wiki/semitic-roots/t/K0413_sew|K0413_sew]]: Proto-Semitic *tapar-, 'sew': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/t/K0414_apple|K0414_apple]]: Proto-Semitic *tVpVḥ-, 'apple': reflexes in 6 language(s).
+[[wiki/semitic-roots/t/K0414_apple|K0414_apple]]: Proto-Semitic *tVpVḥ-, 'apple': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/t/K0417_fear|K0417_fear]]: Proto-Semitic *tVyVh-, 'fear': reflexes in 1 language(s).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3319_to_heap_up_pile_up
 title: "*kmr: 'to heap up, pile up'"
-desc: "Proto-Semitic *kmr, 'to heap up, pile up': reflexes in 3 language(s)."
+desc: "Proto-Semitic *kmr, 'to heap up, pile up': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3319"
@@ -32,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Akkadian | kamāru (CAD K 112; AHw. 430 apud SEDonline 2144) | CAD K 112; AHw. 430; SEDonline 2144 | gloss withheld |
 | Geez | kamara (CDG 286; Leslau 1944:56 apud SEDonline 2144) | CDG 286; Leslau 1944 56; SEDonline 2144 | gloss withheld |
 | Tigre | kämmära (WTS 395; CDG 286 apud SEDonline 2144) | WTS 395; CDG 286; SEDonline 2144 | gloss withheld |
+| Eblaitic | gú-mu-ra-nu-um, gú-mar-núm /kumārān, kum(ū)rān/ (Sanmartín GlOS 1, 310) | Sanmartín GlOS 1, 310 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

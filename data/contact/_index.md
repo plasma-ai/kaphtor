@@ -42,5 +42,5 @@ index's provenance. The statistic runs on root clusters (A17 of
 [the pre-registration](../../docs/shoresh-preregistration.md)), and a lexeme that joins a cluster brings its keys
 into d\*, its language into branch breadth and its gloss into the semantic gate (A18). A missing lexicon therefore
 can move d\*, p and the verdicts: a run on this checkout is not the private configuration the baseline was measured
-on. On the 326 unread words the engine scores, the two give the same verdicts (the pre-registration's note has the
-counts).
+on. On the 326 unread words the engine scored when the pre-registration measured them, the two gave the same
+verdicts (its note has the counts).

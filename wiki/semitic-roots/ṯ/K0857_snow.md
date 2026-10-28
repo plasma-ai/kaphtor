@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/K0857_snow
 title: "*ṯVlVg-: 'snow'"
-desc: "Proto-Semitic *ṯVlVg-, 'snow': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ṯVlVg-, 'snow': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0857"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ṯalg (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
 | Syrian Aramaic | talgā 'snow' (Payne Smith 613) | Payne Smith 613 |  |
 | Pre-Islamic North Arabian | Safaitic ṯlg (Al-Jallad–Jaworska 135) | Al-Jallad–Jaworska 135 | gloss withheld |
+| Amorite | ṯ-l-g, ṯalg, ṯalk (Sanmartín GlOS 2, 321) | Sanmartín GlOS 2, 321 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

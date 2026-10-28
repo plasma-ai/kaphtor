@@ -46,10 +46,9 @@ PS \*sū-t- "garment". ZA20 allocation list: SI-TU qty 6 alongside SI-TE-TU (fem
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*šit- / \*sut- 'garment' (SED I) |
-| Hebrew | šēt (שֵׁת) 'garment' (Ps 73:6); šît (שִׁית) 'to set, place' |
-| Akkadian | šittu / šuttu 'woven cloth' (CAD Š/III) |
-| Ugaritic | št 'garment' (DUL) |
+| Hebrew | sût (סוּת) 'garment' (Gen 49:11; HALOT 749); šît (שִׁית) 'clothing, garment' (Ps 73:6, Prov 7:10; HALOT 1486) |
+| Phoenician | swt 'garment' (DNWSI 781, cited by DULAT 781) |
+| Ugaritic | ṣt 'a garment' (DULAT 781–82) |
 
 ### Source
 

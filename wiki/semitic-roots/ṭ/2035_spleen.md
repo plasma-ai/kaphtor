@@ -46,7 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | ṭāḥa \[LArg. 223\]. | LArg. 223 |  |
 | Syrian Aramaic | ṭǝḥālā \[Brock 272\] | Brock 272 |  |
 | Ugaritic | ṭḥl 'spleen' | Anderson–Moser 2024 root ṭḥl |  |
-| Eblaitic | ṭì-ʔà-mu (VE 582 apud SEDonline 748) | VE 582; SEDonline 748 | gloss withheld |
+| Eblaitic | ṭì-ʔà-mu (VE 582 apud SEDonline 748); /ṭiLḥāmu/ (= ŠÀ.GI₆, VE 582; Kogan 2025, 6) | VE 582; SEDonline 748; Kogan 2025, 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

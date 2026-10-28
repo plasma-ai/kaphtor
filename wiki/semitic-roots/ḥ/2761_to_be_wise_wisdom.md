@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ḥkm (DULAT 353) | DULAT 353 | gloss withheld |
 | Phoenician | ḥkmt (Krahmalkov 183) | Krahmalkov 183 | gloss withheld |
 | Hebrew | ḥākām (HALOT 314) | HALOT 314 | gloss withheld |
-| Amorite | ḥkm: jaḥkum, ḥakamum, ḥakamatum (Gelb AS 21, 20); ḥakīmānu (Buck 2019, 327) | Gelb AS 21 20; Buck 2019, 327 | gloss withheld |
+| Amorite | ḥkm: jaḥkum, ḥakamum, ḥakamatum (Gelb AS 21, 20); ḥakīmānu (Buck 2019, 327); ḥ-k-m: ia-aḫ-ku-mu-um; ḥakam: ḫa-ka-ma-a-ia, ḫa-ka-ma-tum (Sanmartín GlOS 1, 235) | Gelb AS 21 20; Buck 2019, 327; Sanmartín GlOS 1, 235 | gloss withheld |
 | Aramaic | Pal. ḥkm |  | gloss withheld |
 | Syrian Aramaic | ḥkam (Payne Smith 141); ḥekmᵉtā (HALOT 314) | Payne Smith 141; HALOT 314 | gloss withheld |
 | Biblical Aramaic | ḥakkīm (HALOT 314) | HALOT 314 | gloss withheld |

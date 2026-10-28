@@ -76,7 +76,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | fine flour, semolina (account heading) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | My mother is exalted (sentence name); heading |  | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra(?) | queen/princess or royal establishment |  | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | queen/princess or royal establishment |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | dagān | grain, cereal |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_DI\|OLE+DI]] | dišpu | honey-infused olive oil |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] | \*nikuleon | figs | CONFIRMED | CONFIRMED (lexicon) |

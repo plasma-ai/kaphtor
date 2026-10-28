@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/980_be_small_be_thin
 title: "*ḳVṭVn-: 'be small, be thin'"
-desc: "Proto-Semitic *ḳVṭVn-, 'be small, be thin': reflexes in 22 language(s)."
+desc: "Proto-Semitic *ḳVṭVn-, 'be small, be thin': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "980"
@@ -52,6 +52,8 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | qäṭänä (LGz. 453) | LGz. 453 |  |
 | Phoenician | qṭn (B 403) | B 403 | gloss withheld |
 | Harari | qäṭäna \[LHar 131\] | LHar 131 | gloss withheld |
+| Amorite | quṭṭun (Sanmartín GlOS 1, 358) | Sanmartín GlOS 1, 358 | gloss withheld |
+| Eblaitic | /qaDn/: names ga-da-nu/ne/na, ga-da-na-ti; cf. ga-da-dè/du/tum (Sanmartín GlOS 1, 358) | Sanmartín GlOS 1, 358 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

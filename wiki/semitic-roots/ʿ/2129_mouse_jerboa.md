@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2129_mouse_jerboa
 title: "*ʕakbar-: 'mouse, jerboa'"
-desc: "Proto-Semitic *ʕakbar-, 'mouse, jerboa': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ʕakbar-, 'mouse, jerboa': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2129"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʕakbār (ʕakbǝrā) \[Ja. 1078\], \[Levy WT II 215\], \[Levy WTM III 645\], ʕkbr (det. ʕkbrh, ʕwkbrh) \[DJPA 406a apud CAL\], ʕkbrh \[DJPA 406a apud CAL\] // Sam. ʕkbr \[Tal 634\] | Ja. 1078; Levy WT II 215; Levy WTM III 645; DJPA 406a; CAL; Tal 634 | gloss withheld |
 | Syrian Aramaic | ʔagbǝrā, ʕuḳbǝrā (SED II 48) | SED II 48 |  |
 | Modern Aramaic | NAssyr. uḳbra, NSyr. ʕâḳübrâ, ʕüḳbʼrâ, Tlk. ʕaḳubra, Ass. ʔāḳubra, JNA ʔaḳubra (SED II 48) | SED II 48 |  |
+| Amorite | ʿakbar: cf. ḫa-ak-ba-ru-um; ak-ba-ri (Sanmartín GlOS 1, 74) | Sanmartín GlOS 1, 74 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

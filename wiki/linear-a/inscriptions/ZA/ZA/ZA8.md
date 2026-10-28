@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["A-RI-NI-TA", "DA-I-PI-TA", "KA-I-RO", "KI-RA", "KU-TU-KO-RE", "MA-KA-I-SE", "NI"]
+words: ["A-RI-NI-TA", "A-TA-RE", "DA-I-PI-TA", "KA-I-RO", "KI-RA", "KU-TU-KO-RE", "MA-KA-I-SE", "NI", "TA-I-NU-MA-PA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -66,16 +66,16 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> Garden: A-TA-RE, figs ½; Kutukkore, a fraction; She-of-the-Lion 1\[…\]; TA-I-NU-MA-PA ½; the tax-man 2 + fractions; Ṭayyibat 2½; the measurer 4 + fractions.
+> Garden: for Hathor, figs ½; Kutukkore, a fraction; She-of-the-Lion 1\[…\]; She-of-Memphis ½; the tax-man 2 + fractions; Ṭayyibat 2½; the measurer 4 + fractions.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû/qīra | garden, orchard (heading); alternatively liquid bitumen | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] |  | personal name (unread) |  | unread |
+| [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | Hathar | Hathor (Egyptian goddess), for | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | figs (logogram), ½ | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | Hurrian personal name, with a fraction | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (priestess or cult title), 1\[ | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] |  | personal name (unread), ½ |  | unread |
+| [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | She-of-Memphis (Egyptian woman's name), ½ | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | makisu | tax-man, customs official, 2 + fractions | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | personal name, 'Good (f.)', 2½ | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | the measurer (professional-title PN), 4 + fractions; rival a name on g-y-l 'to rejoice' | SPECULATIVE | SPECULATIVE (lexicon) |
@@ -90,6 +90,6 @@ A fig issue headed KI-RA ·, names with fractions (GORILA III 165).
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/D/DA_I_PI_TA|DA-I-PI-TA]], [[wiki/linear-a/words/K/KA_I_RO|KA-I-RO]], [[wiki/linear-a/words/K/KI_RA|KI-RA]], [[wiki/linear-a/words/K/KU_TU_KO_RE|KU-TU-KO-RE]], [[wiki/linear-a/words/M/MA_KA_I_SE|MA-KA-I-SE]], [[wiki/linear-a/words/N/NI|NI]].
+[[wiki/linear-a/words/A/A_RI_NI_TA|A-RI-NI-TA]], [[wiki/linear-a/words/A/A_TA_RE|A-TA-RE]], [[wiki/linear-a/words/D/DA_I_PI_TA|DA-I-PI-TA]], [[wiki/linear-a/words/K/KA_I_RO|KA-I-RO]], [[wiki/linear-a/words/K/KI_RA|KI-RA]], [[wiki/linear-a/words/K/KU_TU_KO_RE|KU-TU-KO-RE]], [[wiki/linear-a/words/M/MA_KA_I_SE|MA-KA-I-SE]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/T/TA_I_NU_MA_PA|TA-I-NU-MA-PA]].
 
 <!-- END kaphtor:record -->

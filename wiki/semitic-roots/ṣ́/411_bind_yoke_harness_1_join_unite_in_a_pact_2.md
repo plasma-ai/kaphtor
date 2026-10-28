@@ -44,7 +44,7 @@ updated: 2026-10-26T14:26:59Z
 | East Ethiopic | Sel. Wol. Zwy. ṭämädä (EDG 621 apud SEDonline 2021) | EDG 621; SEDonline 2021 | gloss withheld |
 | Gafat | ṭämädä (EDG 621 apud SEDonline 2021) | EDG 621; SEDonline 2021 | gloss withheld |
 | Tigrinya | ṣämädä (TED 2560 apud SEDonline 2021) | TED 2560; SEDonline 2021 | gloss withheld |
-| Eblaitic | a-za-me-du /ʔaṣammid/ (ARET V 1 obv. I 1, Kogan–Krebernik 2021b: 686 apud SEDonline 2021) | SEDonline 2021 | gloss withheld |
+| Eblaitic | a-za-me-du /ʔaṣammid/ (ARET V 1 obv. I 1, Kogan–Krebernik 2021b: 686 apud SEDonline 2021); a-za-me-du, mu-za-da /ṣ́-m-d/ 1 (Sanmartín GlOS 2, 285) | ARET V 1 obv. I 1, Kogan–Krebernik 2021b: 686; SEDonline 2021; Sanmartín GlOS 2, 285 | gloss withheld |
 | Harari | ṭämäda \[LHar 154\] | LHar 154 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

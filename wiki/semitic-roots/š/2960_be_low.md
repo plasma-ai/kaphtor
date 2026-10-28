@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2960_be_low
 title: "*šVpVl-: 'be low'"
-desc: "Proto-Semitic *šVpVl-, 'be low': reflexes in 10 language(s)."
+desc: "Proto-Semitic *šVpVl-, 'be low': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2960"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | (?) šaffala, mašfāl (HALOT 1631) | HALOT 1631 | gloss withheld |
 | Biblical Aramaic | šəpal (HALOT 1632) | HALOT 1632 | gloss withheld |
 | Eblaitic | si-bí-lum /šiplum/ (VE 781, Kogan–Krebernik 2021b: 681 apud SEDonline 160) | VE 781, Kogan–Krebernik 2021b: 681; SEDonline 160 | gloss withheld |
+| Amorite | Sapl (Sanmartín GlOS 2, 258) | Sanmartín GlOS 2, 258 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

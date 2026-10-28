@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | šql: šiqlum, šuqultum, šataqlum (Gelb AS 21, 33) | Gelb AS 21 33 | gloss withheld |
 | Phoenician | mšql (T 203) | T 203 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ṯql (Al-Jallad–Jaworska 136) | Al-Jallad–Jaworska 136 | gloss withheld |
-| Eblaitic | ša-ga-lum /ṯaḳālum/ (VE 418, Kogan–Krebernik 2021b: 689 apud SEDonline 2030); ti-iš-da-gi-lum /tiṯtaḳḳilum/ (VE 1184; Krebernik 1983, 42) | VE 418, Kogan–Krebernik 2021b: 689; SEDonline 2030; VE 1184; Krebernik 1983, 42 | gloss withheld |
+| Eblaitic | ša-ga-lum /ṯaḳālum/ (VE 418, Kogan–Krebernik 2021b: 689 apud SEDonline 2030); ti-iš-da-gi-lum /tiṯtaḳḳilum/ (= Sum. lá-lá) (VE 1184; Krebernik 1983, 42; Civil 2017, 151); daš(TUKUₓ)-gul, cf. ša-ga-lum /ṯ-q-l/; ša-gú-um /ṯaqul/ (Sanmartín GlOS 2, 320–321) | VE 418, Kogan–Krebernik 2021b: 689; SEDonline 2030; VE 1184; Krebernik 1983, 42; Civil 2017, 151; Sanmartín GlOS 2, 320–321 | gloss withheld |
 | Biblical Aramaic | teqal (T 330) | T 330 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

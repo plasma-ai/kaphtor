@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1627_lightning_1_shine_of_lightning_2
 title: "*bariḳ-: 'lightning' 1, 'shine (of lightning)' 2"
-desc: "Proto-Semitic *bariḳ-, 'lightning' 1, 'shine (of lightning)' 2: reflexes in 21 language(s)."
+desc: "Proto-Semitic *bariḳ-, 'lightning' 1, 'shine (of lightning)' 2: reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1627"
@@ -44,13 +44,14 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | brq (B 292) | B 292 | gloss withheld |
 | Aramaic | BRQ (Aramaic Root Atlas; CAL s.v. brq); brq (Aramaic Root Atlas; DNWSI 203 apud CAL) | Aramaic Root Atlas; CAL s.v. brq; DNWSI 203; CAL; Anderson–Moser 2024 root brq | gloss withheld |
 | Soqotri | brq 2 (HALOT 162) | HALOT 162 |  |
-| Amorite | brq: jabruq, burq(ān)um, burqatum (Gelb AS 21, 17); burqān, yabruq (Buck 2019, 326) | Gelb AS 21 17; Buck 2019, 326 | gloss withheld |
+| Amorite | brq: jabruq, burq(ān)um, burqatum (Gelb AS 21, 17); burqān, yabruq (Buck 2019, 326); b-r-q 2: ia-ab-ru-qu-um, ia-ab-ru-uq-DINGIR, ia-ab-ru-uq-li-im; barq, burq: bur-qa-an, bu-ur-qa-an, bu-úr-ga-nu(-um) (Sanmartín GlOS 1, 125) | Gelb AS 21 17; Buck 2019, 326; Sanmartín GlOS 1, 125 | gloss withheld |
 | Jibbali | bɛrḳ (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
 | Gurage | End. Sod. bəraˀ, Muh. Msq. Sod. bəraḳ (EDG 155 apud SEDonline 543) | EDG 155; SEDonline 543 | gloss withheld |
 | East Ethiopic | Sel. bərāḳ, Wol. bərāḳ, bərāˀ, Zwy. bərrəḳat (EDG 155 apud SEDonline 543) | EDG 155; SEDonline 543 | gloss withheld |
 | Harari | bərāḳ (EDH 46 apud SEDonline 543) | EDH 46; SEDonline 543 | gloss withheld |
 | Mandaic Aramaic | brq 2 (LGz. 106) | LGz. 106 |  |
 | Judaic Aramaic | JPA brḳ (DJPA 115 apud SEDonline 1837); JBA brḳ (DJBA 247 apud SEDonline 1837) | DJPA 115; SEDonline 1837; DJBA 247 | gloss withheld |
+| Eblaitic | /b-r-q/ 2: names ib-da-ra-ag, ib-da-ra-gú; /barq, burq/: name bar-ga-ì (Sanmartín GlOS 1, 125) | Sanmartín GlOS 1, 125 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

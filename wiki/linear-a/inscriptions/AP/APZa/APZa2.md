@@ -57,7 +57,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| \]NA-SI | nasīʾ? | \[damaged; possible 'chief/prince'\] | SPECULATIVE |  |
+| \]NA-SI | nasīʾ | \[damaged; possible 'chief/prince'\] | SPECULATIVE |  |
 | I-PI-NA-MA\[…\] | ʾippina=ma\[…\] | presence/face \[…\] | CANDIDATE |  |
 | [[wiki/linear-a/words/K/KU_PA3_NA_TU_NA_TE_broken_both\|&#93;-KU-PA₃-NA-TU-NA-TE-&#91;]] |  | a form of KU-PA₃-NA-TU, its ending lost. Not readable. |  | unread |
 | \[…\]PI-MI-NA-TE | \[…\]-pi-minate | \[damaged; possible portion/allotment term\] | SPECULATIVE |  |

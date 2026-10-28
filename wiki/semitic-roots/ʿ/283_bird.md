@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/283_bird
 title: "*ʕVṣūr-: 'bird'"
-desc: "Proto-Semitic *ʕVṣūr-, 'bird': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʕVṣūr-, 'bird': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "283"
@@ -30,10 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | iṣṣūru (Kogan 2015, ch. 5 §2.2.2.2 no. 6) | Kogan 2015 ch. 5 §2.2.2.2 no. 6 |  |
+| Akkadian | iṣṣūru (CAD I/J 210; Kogan 2015, ch. 5 §2.2.2.2 no. 6) | CAD I/J 210; Kogan 2015 ch. 5 §2.2.2.2 no. 6 | gloss withheld |
 | Ugaritic | ʕṣr /ʿuṣṣūru/ (UVST 162) | UVST 162 | gloss withheld |
 | Amharic | č̣ǝre |  |  |
 | Tigrinya | č̣ǝru K 2503 (also ṣir?) | K 2503 | gloss withheld |
+| Amorite | ʿuṣṣūr: cf. place name ḫe/ḫu-ṣú-ra-tim (Sanmartín GlOS 1, 89) | Sanmartín GlOS 1, 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,9 @@
 words are passed in, so no test reads an index, the corpus or a lexicon from data/."""
 from __future__ import annotations
 
+import itertools
 import json
+import math
 import random
 import unicodedata
 from dataclasses import replace
@@ -17,6 +19,7 @@ from tools.core import semantic_gate as sg
 from tools.core.phonetics import SEMITIC_DISTANCES, _tokenize_phonemes, weighted_levenshtein
 from tools.core.root_index import LEXICA, RootIndex, write_index
 from tools.core.shoresh_nulls import fabricate, position_tables
+from tools.core.skeleton import SIGN_STATUS
 
 pytestmark = SHORESH
 
@@ -114,6 +117,16 @@ class TestSigns:
         assert rm.sign_options("RA2") == [("l", "a"), ("r", "a")]
         assert rm.sign_options("KA") == [("k", "a")]
 
+    @pytest.mark.parametrize("sign", ["ZU", "ZU2", "zu"])
+    def test_zu_reads_the_interdental_range(self, sign):              # ṯ, its Linear B value z, ḏ and ṯ̣ (keyed ẓ)
+        assert rm.sign_options(sign) == [("ṯ", "u"), ("z", "u"), ("ḏ", "u"), ("ẓ", "u")]
+
+    def test_zu_reads_four_ways_and_the_inventory_writes_its_range(self, index):
+        assert _engine(index)._reading_count(["ZU", "TI"]) == 4
+        assert _engine(index, conventional=True)._reading_count(["ZU", "TI"]) == 1
+        assert {"ṯ", "ḏ", "ẓ"} <= rm.written_consonants(rm._registry())
+        assert not {"ṯ", "ḏ", "ẓ"} & rm.written_consonants(rm._registry(), conventional=True)
+
     @pytest.mark.parametrize("sign", ["A303", "a303", "A301", "ZZ"])
     def test_sign_numbers_and_unknown_signs_raise(self, sign):
         with pytest.raises(rm.UnmappedSign):
@@ -125,6 +138,35 @@ class TestSigns:
         assert len(rs) == rm.MAX_READINGS
         assert rs[0] == [o[0] for o in opts]
 
+    @pytest.mark.parametrize("signs", [["ZU", "QA", "RA2"], ["ZU", "QA", "RA2", "QA"]])   # 16 and 32 readings
+    def test_the_cap_keeps_the_same_readings_wherever_the_signs_stand(self, signs):
+        kept = []
+        for order in sorted(set(itertools.permutations(signs))):
+            rs = rm.readings([rm.sign_options(s) for s in order])
+            assert len(rs) == rm.MAX_READINGS and rs[0] == [rm.sign_options(s)[0] for s in order]
+            kept.append({frozenset(zip(order, r)) for r in rs})
+        assert all(k == kept[0] for k in kept)
+
+    def test_the_cap_tells_signs_apart_that_share_a_primary(self):
+        # family C can give two signs one permuted primary; their ties must still follow the signs, not the places
+        signs = {"X": [("t", "a"), ("k", "a"), ("g", "a"), ("b", "a")],
+                 "Y": [("t", "a"), ("m", "a"), ("n", "a"), ("p", "a")],
+                 "W": [("q", "a"), ("z", "a")]}             # 32 readings; the cap cuts between X's and Y's second steps
+        kept = []
+        for order in itertools.permutations(signs):
+            rs = rm.readings([signs[s] for s in order])
+            kept.append({frozenset(zip(order, r)) for r in rs})
+        assert all(k == kept[0] for k in kept)
+
+    def test_the_cap_reaches_every_sign_s_alternates(self):
+        rs = rm.readings([rm.sign_options(s) for s in ["ZU", "QA", "RA2"]])
+        chosen = {p for r in rs for p in zip(["ZU", "QA", "RA2"], r)}
+        assert {("ZU", ("ḏ", "u")), ("RA2", ("r", "a")), ("QA", ("z", "a"))} <= chosen
+
+    def test_under_the_cap_the_readings_keep_their_order(self):
+        opts = [rm.sign_options(s) for s in ["QA", "ZU", "TI"]]                 # 8 readings
+        assert rm.readings(opts) == [list(r) for r in itertools.product(*opts)]
+
     def test_variants_keep_the_cheapest_penalty_per_skeleton(self):
         vs = rm.variants(rm.readings([rm.sign_options(s) for s in ["QA", "RA2", "TI"]]), "QA-RA2-TI")
         assert len({v.tokens for v in vs}) == len(vs)
@@ -135,6 +177,134 @@ class TestSigns:
         assert rm.distinct_orders(["KA", "NA", "SI"]) == 6
         assert rm.distinct_orders(["SA", "SA", "RA"]) == 3
         assert rm.distinct_orders(["A", "B", "C", "D", "E", "F"]) == 720
+
+
+class TestConventionalValues:
+    """Linear B values only: a sign whose value goes beyond Linear B reads its Linear B value, or is unmapped (A5)
+    where Linear B gives none; a resolved value stays, and an alternate is kept only if its status is conventional."""
+
+    @pytest.mark.parametrize("sign", ["*306", "*118", "*86", "*314", "*28B"])
+    def test_a_sign_linear_b_gives_no_value_is_unmapped(self, sign):
+        assert rm.sign_options(sign)
+        with pytest.raises(rm.UnmappedSign):
+            rm.sign_options(sign, conventional=True)
+
+    @pytest.mark.parametrize("sign,default,linear_b", [
+        ("PA3", ("b", "a"), ("p", "a")), ("PA₃", ("b", "a"), ("p", "a")), ("JU", ("l", "u"), ("y", "u")),
+        ("ZU", ("ṯ", "u"), ("z", "u")), ("ZU2", ("ṯ", "u"), ("z", "u"))])                   # ZU2 reads as ZU
+    def test_a_linear_b_sign_reads_its_linear_b_value(self, sign, default, linear_b):
+        assert rm.sign_options(sign)[0] == default
+        assert rm.sign_options(sign, conventional=True) == [linear_b]
+
+    def test_the_tentative_linear_b_values(self):                            # *56 pa₃, *65 ju, *79 zu
+        assert rm.LINEAR_B_VALUES == {"PA3": ("p", "a"), "JU": ("y", "u"), "ZU": ("z", "u")}
+        assert all(SIGN_STATUS[s] != "resolved" for s in rm.LINEAR_B_VALUES)
+
+    def test_every_status_but_resolved_is_gated(self):
+        for sign, status in SIGN_STATUS.items():
+            if status == "resolved":
+                assert rm.sign_options(sign, conventional=True) == rm.sign_options(sign), sign
+            elif sign in rm.LINEAR_B_VALUES:
+                assert rm.sign_decomposition(sign, conventional=True) == rm.LINEAR_B_VALUES[sign], sign
+            else:
+                with pytest.raises(rm.UnmappedSign):
+                    rm.sign_decomposition(sign, conventional=True)
+
+    def test_linear_b_values_stay(self):
+        for sign in ("KA", "AU", "QA", "RA2", "ZA", "KI2"):
+            assert rm.sign_options(sign, conventional=True)[0] == rm.sign_options(sign)[0], sign
+
+    def test_only_conventional_alternates_are_kept(self):
+        assert rm.sign_options("QA", conventional=True) == [("q", "a")]                 # z is di Mino's
+        assert rm.sign_options("RA2", conventional=True) == [("l", "a"), ("r", "a")]    # r is Ventris's
+
+    def test_the_written_inventory_follows(self):
+        reg = {"JU": {"readings": []}, "*306": {"readings": []}, "KA": {"readings": []}}
+        assert rm.written_consonants(reg) == {"l", "ʿ", "k"}
+        assert rm.written_consonants(reg, conventional=True) == {"y", "k"}
+
+    def test_the_engine_inventory_is_the_spelling_series(self, index):    # A9's spelling rule with A21's ZU
+        reg = {"JU": {"readings": []}, "*306": {"readings": []}, "KA": {"readings": []}}
+        assert _engine(index, registry=reg).written == {"y", "k"}
+        assert _engine(index, registry=reg, conventional=True).written == {"y", "k"}
+        assert _engine(index).written == frozenset("dklmnpqrstwyz") | {"ṯ", "ḏ", "ẓ"}   # ZU, before every vowel
+        assert _engine(index, conventional=True).written == frozenset("dklmnpqrstwyz")
+        assert rm.spelled("ṯ", _engine(index).written) == "ṯ"
+        assert rm.spelled("ṯ", _engine(index, conventional=True).written) == "z"
+
+    def test_the_engine_reads_conventionally(self, index):
+        default, conv = _engine(index), _engine(index, conventional=True)
+        assert len(default.word_readings("QA-RA2-TI")) == 4 and len(conv.word_readings("QA-RA2-TI")) == 2
+        assert default.word_readings("KU-PA3-NU") == [[("k", "u"), ("b", "a"), ("n", "u")]]
+        assert conv.word_readings("KU-PA3-NU") == [[("k", "u"), ("p", "a"), ("n", "u")]]
+        assert default.word_readings("KA-*306-TI")
+        with pytest.raises(rm.UnmappedSign):
+            conv.word_readings("KA-*306-TI")
+        assert conv.conventional and not default.conventional
+
+    def test_family_b_decoys_hold_no_gated_sign(self, index):
+        words = [*CORPUS, "PA3-NU-KA", "ZU-KA-NA", "KA-*306-TI", "JU-NA-SI", "TA-*118-RE"]
+        conv = rm.Shoresh(index, corpus_words=words, contexts=sg.Contexts({}), conventional=True)
+        default = rm.Shoresh(index, corpus_words=words, contexts=sg.Contexts({}))
+        gated, linear_b = {"*306", "*118"}, {"PA3", "ZU", "JU"}
+        fabs, _ = conv.family_b("KA-NA-SI", 200, 1)
+        drawn = {s for f in fabs for s in f}
+        assert fabs and not drawn & gated and drawn & linear_b      # Linear B's pa₃, ju, zu are drawn
+        fabs, _ = default.family_b("KA-NA-SI", 200, 1)
+        assert {s for f in fabs for s in f} & gated                  # the default draws them
+
+    def test_family_b_keeps_the_ocp_on_the_values_the_run_reads(self, index):
+        words = [*CORPUS, "PA-PA3-KO", "ZA-ZU-SI", "PA3-PE-SI", "RA2-JU-NA", "KA-JU", "RA2-NA"]
+        conv = rm.Shoresh(index, corpus_words=words, contexts=sg.Contexts({}), conventional=True)
+        default = rm.Shoresh(index, corpus_words=words, contexts=sg.Contexts({}))
+
+        def toks(engine, fab):
+            return rm.phonemes(rm.skeleton_of(engine.word_readings("-".join(fab))[0]))
+        for word in ("KA-NA-SI", "RA2-NA"):
+            for engine in (conv, default):
+                fabs, _ = engine.family_b(word, 400, 1)
+                assert fabs and all(a != b for f in fabs for a, b in pairwise(toks(engine, f))), (word, engine)
+        assert ["RA2", "JU"] in conv.family_b("RA2-NA", 400, 1)[0]                 # l y: kept
+        assert ["RA2", "JU"] not in default.family_b("RA2-NA", 400, 1)[0]          # l l: out
+
+    def test_the_reading_count_follows(self, index):
+        assert _engine(index)._reading_count(["QA", "TI"]) == 2
+        assert _engine(index, conventional=True)._reading_count(["QA", "TI"]) == 1
+
+    def test_family_c_permutes_linear_b_consonants_only(self, index):
+        project_only = {"ʿ", "ḥ", "h", "ṭ", "ṯ", "ḏ", "b"}          # written by no Linear B sign
+        def consonants(engine, word):
+            return {c for rs in engine.family_c(word, 300, 1) for r in rs for c, _ in r if c}
+        assert consonants(_engine(index), "DA-TA-RE") & project_only               # the default draws them
+        assert consonants(_engine(index), "QA-RA2-TI") & project_only
+        assert not consonants(_engine(index, conventional=True), "DA-TA-RE") & project_only
+        assert not consonants(_engine(index, conventional=True), "QA-RA2-TI") & project_only
+
+    def test_family_c_permutes_the_conventional_consonants(self):
+        cmap = rm.conventional_consonant_map()
+        assert {s: cmap[s] for s in ("PA3", "JU", "ZU", "AU", "KA", "A")} == {
+            "PA3": "p", "JU": "y", "ZU": "z", "AU": "w", "KA": "k", "A": None}
+        assert not {"*306", "*118", "*86", "*314"} & set(cmap)
+        assert set(cmap) == {s for s in rm.SIGN_DECOMPOSITION if not rm._beyond_linear_b(s) or s in rm.LINEAR_B_VALUES}
+
+    def test_the_gate_fails_closed(self, monkeypatch):
+        monkeypatch.setitem(rm.SIGN_DECOMPOSITION, "*82", ("s", "i"))     # a new value with no SIGN_STATUS entry
+        assert rm.sign_options("*82") == [("s", "i")]
+        with pytest.raises(rm.UnmappedSign):
+            rm.sign_options("*82", conventional=True)
+
+    def test_every_value_off_the_linear_b_grid_has_a_status(self):
+        lb = {"D": "d", "J": "y", "K": "k", "M": "m", "N": "n", "P": "p", "Q": "q", "R": "r", "S": "s", "T": "t",
+              "W": "w", "Z": "z"}
+
+        def linear_b(sign: str, decomp: tuple) -> bool:
+            if sign == "RA2":
+                return decomp == ("l", "a")
+            if len(sign) == 1:
+                return decomp == ("", sign.lower()) or decomp == (None, sign.lower())
+            return len(sign) == 2 and lb.get(sign[0]) == decomp[0] and sign[1].lower() == decomp[1]
+        off = sorted(s for s, d in rm.SIGN_DECOMPOSITION.items() if not linear_b(s, d))
+        assert off and all(s in SIGN_STATUS for s in off), [s for s in off if s not in SIGN_STATUS]
 
 
 # --- the index as Shoresh reads it ---
@@ -326,8 +496,16 @@ class TestFamilies:
         assert len(decoys) + gaps == 40 and decoys
         for d in decoys:
             assert len(d) == 3 and "-".join(d) not in CORPUS
-            assert engine._polyphonic_slots(d) == 2
+            assert engine._reading_count(d) == 4
             assert len(_tokenize_phonemes(rm.skeleton_of(engine.word_readings("-".join(d))[0]))) == skel
+
+    @pytest.mark.parametrize("word,count", [("RU-ZU-NA", 4), ("QA-NU-TI", 2)])
+    def test_family_b_keeps_the_word_s_number_of_readings(self, index, word, count):
+        words = [*CORPUS, "RU-ZU-NA", "ZU-KA-NA", "KA-ZU-SI", "SI-RA2-ZU", "QA-NU-TI", "TI-QA-SE"]
+        engine = rm.Shoresh(index, corpus_words=words, contexts=sg.Contexts({}))
+        decoys, _ = engine.family_b(word, 300, rm.SEED)
+        counts = {math.prod(len(rm.sign_options(s)) for s in d) for d in decoys}
+        assert decoys and counts == {count}
 
     def test_family_b_reports_an_unfabricable_shape_as_gaps(self, index):
         decoys, gaps = _engine(index).family_b("QA-QA-QA-QA-QA-QA", 30, rm.SEED)
@@ -537,7 +715,7 @@ class TestSoundLaws:
 
     def test_hits_carry_their_laws(self, laws_engine):
         hits = {h.number: h.sound_laws for h in laws_engine.clusters("ZA-KA-RA")[0]}
-        assert hits["7"]["headword"] == "*ḏakar-" and hits["7"]["profile"] == ["A", "C"]
+        assert hits["7"]["headword"] == "*ḏakar-" and hits["7"]["profile"] == ["A"]    # C keeps ḏ, which ZU writes
         assert hits["8"]["profile"] is None                           # z for *z: every branch agrees
 
     def test_the_nearest_ps_headword_is_used(self, laws_engine):

@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Sel. Wol. afärräsä (EDG 244 apud SEDonline 1316) | EDG 244; SEDonline 1316 | gloss withheld |
 | Amharic | färräsä (AED 2277 apud SEDonline 1316) | AED 2277; SEDonline 1316 | gloss withheld |
 | Tigrinya | färäsä (TED 2660 apud SEDonline 1316) | TED 2660; SEDonline 1316 | gloss withheld |
-| Eblaitic | bù-ra-zu-um /purāsum/ (VE 195, EDA I 300 apud SEDonline 1316; Krebernik 1983, 8) | VE 195, EDA I 300; SEDonline 1316; Krebernik 1983, 8 | gloss withheld |
+| Eblaitic | bù-ra-zu-um /purāsum/ (VE 195 apud SEDonline 1316; Krebernik 1983, 8); a-ba-rí-zu /yapparris/ (N present of p-r-s) (ARET 16, 1 obv. X 12 – rev. I 15); ⸢a-ba⸣-rí-zu (ARET 16, 1 rev. V 26 – VI 11) (Kogan 2025, 10) | VE 195; SEDonline 1316; Krebernik 1983, 8; ARET 16, 1 obv. X 12 – rev. I 15; ARET 16, 1 rev. V 26 – VI 11; Kogan 2025, 10 | gloss withheld |
 | Jibbali | fɔ́rɔ́s (JL 61 apud SEDonline 1316) | JL 61; SEDonline 1316 | gloss withheld |
 | Argobba | (a)färräsa (LGz. 167) | LGz. 167 |  |
 

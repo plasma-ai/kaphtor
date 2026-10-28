@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʔáʕreb \[Nakano 118\]; áˁreb (SLOnline 3284). | Nakano 118; SLOnline 3284 | gloss withheld |
 | Akkadian | āribu (ēribu, ḫērebu) OB on \[CAD a2 265\], \[AHw. 68\] | CAD a2 265; AHw. 68 | gloss withheld |
 | Harsusi | yeɣereb \[JH 45\]. | JH 45 | gloss withheld |
-| Eblaitic | ḫa-ri-bù̀, \[ḫ\]a-ri-bù-um, g\[a-r\]í-bù = UGA.MUS̆EN \[MEE 4 295\] (/ɣāribum/ \[Conti 114\], cf. \[Kreb. 13\]). | MEE 4 295; Kreb. 13 | gloss withheld |
+| Eblaitic | ḫa-ri-bù̀, \[ḫ\]a-ri-bù-um, g\[a-r\]í-bù = UGA.MUS̆EN \[MEE 4 295\] (/ɣāribum/ \[Conti 114\], cf. \[Kreb. 13\]).; ga-rí-bù /ġārib/ (Sanmartín GlOS 1, 203) | MEE 4 295; Kreb. 13; Sanmartín GlOS 1, 203 | gloss withheld |
 | Mandaic Aramaic | ʕurba \[DM 346\], arbana \[ibid. 36\]. | DM 346; DM 36 | gloss withheld |
 | Jibbali | ʔaɣǝréb \[JJ 2\]. | JJ 2 | gloss withheld |
 | Hebrew | ʕōrēb (HALOT 879), pB. \[Ja. 1058\]. | HALOT 879; Ja. 1058 | gloss withheld |

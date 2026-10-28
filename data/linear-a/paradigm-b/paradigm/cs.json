@@ -1,0 +1,3698 @@
+{
+ "_meta": {
+  "built_by": "scripts/build_paradigm.py",
+  "built_at": "2026-09-08T01:52:15.286576+00:00",
+  "inputs": {
+   "data/formula_family.json": "8f1add5ef0a1367f274257a7032547ef725fbb50aa7504a942ceb2e3c425d807"
+  },
+  "attribution": "di Mino",
+  "protocol": "PROTOCOL-B.md §4",
+  "blindness_rule": "no entry mentions a Linear A form, a lexicon.json headword, 'Linear A', 'Minoan' or 'Ya Diktu' (checked mechanically at build)",
+  "citation_status": "section numbers marked '(topic)' are to be verified against the cited grammar before REPORT-B cites them; records for Al-Jallad 2015, Beeston 1984, Joüon–Muraoka 2006, Huffmon 1965, Payne 2014, Melchert 1993/2003, Wegner 2007, Laroche 1980, Allen 2014, Loprieno 1995 to be added to sources/sources_database.json"
+ },
+ "arm": "cs",
+ "languages": [
+  "amarna",
+  "amorite",
+  "arabic",
+  "aramaic",
+  "dadanitic",
+  "hebrew",
+  "hismaic",
+  "phoenician",
+  "safaitic",
+  "ugaritic"
+ ],
+ "languages_with_sabaic": [
+  "amarna",
+  "amorite",
+  "arabic",
+  "aramaic",
+  "dadanitic",
+  "hebrew",
+  "hismaic",
+  "minaic",
+  "phoenician",
+  "qatabanic",
+  "sabaic",
+  "safaitic",
+  "ugaritic"
+ ],
+ "classes": {
+  "prefix": [
+   "proclitic particle",
+   "person prefix",
+   "stem prefix"
+  ],
+  "suffix": [
+   "gender/derivation",
+   "case/number/verbal ending",
+   "state (mimation/nunation)",
+   "energic",
+   "pronominal",
+   "enclitic",
+   "energic after pronominal (priced)"
+  ]
+ },
+ "morphemes": [
+  {
+   "id": "cs_p_wa",
+   "position": 1,
+   "function": "conjunction 'and'",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §83.11",
+    "Huehnergard 2012 §…conjunctions",
+    "Al-Jallad 2019 (wa-)",
+    "Beeston 1984 (w-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "w",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_u",
+   "position": 1,
+   "function": "conjunction 'and', allomorph û- before labials and shewa",
+   "attested_in": [
+    "hebrew"
+   ],
+   "citations": [
+    "Joüon–Muraoka 2006 §104c"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_pa",
+   "position": 1,
+   "function": "conjunction 'and then, so' (Ug. p, Ar. fa-, Saf. f)",
+   "attested_in": [
+    "arabic",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §83.12",
+    "Huehnergard 2019: 67 (*pa)",
+    "Al-Jallad 2015 (f)",
+    "Beeston 1984 (f-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "p",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_la",
+   "position": 1,
+   "function": "asseverative / precative la=; negative lā; preposition la-",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §85.2",
+    "Huehnergard 1983",
+    "Huffmon 1965: 78–80 (la-yaqtul)",
+    "Al-Jallad 2019 (la-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "l",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_li",
+   "position": 1,
+   "function": "preposition 'to, for'",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §82.11",
+    "Al-Jallad 2015 (l)",
+    "Beeston 1984 (l-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "l",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_bi",
+   "position": 1,
+   "function": "preposition 'in, with'",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §82.12",
+    "Al-Jallad 2015 (b-)",
+    "Beeston 1984 (b-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "b",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_ka",
+   "position": 1,
+   "function": "preposition 'like'",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §82.13",
+    "Huffmon 1965: 102 (ka/ki)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "k",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_ki",
+   "position": 1,
+   "function": "subordinator / emphatic kī 'that, indeed'",
+   "attested_in": [
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §83.24",
+    "Joüon–Muraoka 2006 §157"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "k",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_ya",
+   "position": 1,
+   "function": "vocative particle yā 'O'",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §84.2",
+    "Al-Jallad 2019 (yā)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "y",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_ha",
+   "position": 1,
+   "function": "article ha- (Heb.), h- (Safaitic); Safaitic vocative h",
+   "attested_in": [
+    "hebrew",
+    "safaitic"
+   ],
+   "citations": [
+    "Joüon–Muraoka 2006 §35",
+    "Al-Jallad 2015 (h- article; h vocative)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "h",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_al",
+   "position": 1,
+   "function": "prohibitive ʾal + jussive",
+   "attested_in": [
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §87.3",
+    "Huehnergard 2019: 68"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "a"
+    ],
+    [
+     "l",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_p_hal",
+   "position": 1,
+   "function": "presentative hal/han 'behold'; Ar. hal (interrogative)",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §81.4 (hl)",
+    "Huehnergard 2019: 68 (*han/*hal)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "h",
+     "a"
+    ],
+    [
+     "l",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_a",
+   "position": 2,
+   "function": "1cs person prefix",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.222",
+    "Huehnergard 2019: 62–63",
+    "Huffmon 1965: 66"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_ta",
+   "position": 2,
+   "function": "2ms / 3fs person prefix",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.222",
+    "Huehnergard 2019: 62–63",
+    "Huffmon 1965: 85"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_ya",
+   "position": 2,
+   "function": "3ms person prefix",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.222",
+    "Huehnergard 2019: 62–63",
+    "Huffmon 1965: 63–65"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "y",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_na",
+   "position": 2,
+   "function": "1cp person prefix",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.222",
+    "Huehnergard 2019: 62–63"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_i",
+   "position": 2,
+   "function": "1cs prefix, i-grade (Barth–Ginsberg, a-theme verbs)",
+   "attested_in": [
+    "amorite",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.242",
+    "Lipiński 1997 §40.21",
+    "Huffmon 1965: 63"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_ti",
+   "position": 2,
+   "function": "2ms / 3fs prefix, i-grade",
+   "attested_in": [
+    "amorite",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.242",
+    "Lipiński 1997 §40.21"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "t",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_yi",
+   "position": 2,
+   "function": "3ms prefix, i-grade",
+   "attested_in": [
+    "amorite",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.242",
+    "Lipiński 1997 §40.21",
+    "Huffmon 1965: 63 (Emar/Amorite yi-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "y",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_ni",
+   "position": 2,
+   "function": "1cp prefix, i-grade",
+   "attested_in": [
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.242"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "n",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_u",
+   "position": 2,
+   "function": "1cs prefix, u-grade (D, Š, internal passive)",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.412",
+    "Huehnergard 2019: 64–65",
+    "Huffmon 1965: 75 (yuqtal)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_tu",
+   "position": 2,
+   "function": "2ms / 3fs prefix, u-grade",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.412",
+    "Huehnergard 2019: 64–65"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "t",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_yu",
+   "position": 2,
+   "function": "3ms prefix, u-grade",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.412",
+    "Huehnergard 2019: 64–65",
+    "Huffmon 1965: 75"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "y",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pp_nu",
+   "position": 2,
+   "function": "1cp prefix, u-grade",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.412"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "n",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_n",
+   "position": 3,
+   "function": "N-stem prefix in the prefix conjugation (unassimilated in Ar. yanfaʿilu; assimilated in Ug./Heb.)",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (stem VII)",
+    "Tropper 2000 §74.32",
+    "Huehnergard 2019: 64"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_na",
+   "position": 3,
+   "function": "N-stem prefix, suffix conjugation and participle (naqtala)",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.32"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_ni",
+   "position": 3,
+   "function": "N-stem prefix, suffix conjugation (Heb. niqṭal)",
+   "attested_in": [
+    "hebrew"
+   ],
+   "citations": [
+    "Joüon–Muraoka 2006 §51"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "n",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_in",
+   "position": 3,
+   "function": "N-stem with prosthetic vowel, suffix conjugation (Ar. ʾinfaʿala)",
+   "attested_in": [
+    "arabic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (stem VII)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "i"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic"
+   ]
+  },
+  {
+   "id": "cs_s_ta",
+   "position": 3,
+   "function": "prefixed t-stem (Ug. tD, Ar. V/VI, Sab. t-); also nominal ta- (taqtīl)",
+   "attested_in": [
+    "arabic",
+    "sabaic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.43",
+    "Al-Jallad 2019 (stems V–VI)",
+    "Beeston 1984 (t-stems)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_hit",
+   "position": 3,
+   "function": "Heb. hitpaʿel prefix",
+   "attested_in": [
+    "hebrew"
+   ],
+   "citations": [
+    "Joüon–Muraoka 2006 §53"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "h",
+     "i"
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_i",
+   "position": 3,
+   "function": "prosthetic vowel of t-stems and N-stems (Ug. Gt ʾiqtatil; Ar. VII–X)",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.23",
+    "Al-Jallad 2019 (stems VII–X)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_sha",
+   "position": 3,
+   "function": "Š causative prefix",
+   "attested_in": [
+    "amarna",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.62",
+    "Rainey 1996 II (Š-stem)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "š",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_ha",
+   "position": 3,
+   "function": "h-causative prefix (Heb. hifʿil, Aram. hafʿel, Sab. h-)",
+   "attested_in": [
+    "aramaic",
+    "hebrew",
+    "sabaic"
+   ],
+   "citations": [
+    "Joüon–Muraoka 2006 §54",
+    "Beeston 1984 (h-causative)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "h",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_a",
+   "position": 3,
+   "function": "ʾ-causative prefix (Ar. IV ʾafʿala, Aram. ʾafʿel)",
+   "attested_in": [
+    "arabic",
+    "aramaic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (stem IV)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_shta",
+   "position": 3,
+   "function": "Št causative-reflexive prefix",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.64"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "š",
+     null
+    ],
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_ista",
+   "position": 3,
+   "function": "Ar. X ʾistafʿala prefix",
+   "attested_in": [
+    "arabic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (stem X)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "ʾ",
+     "i"
+    ],
+    [
+     "s",
+     null
+    ],
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic"
+   ]
+  },
+  {
+   "id": "cs_s_ma",
+   "position": 3,
+   "function": "nominal prefix ma- (maqtal-)",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §51.45",
+    "Huffmon 1965: 98 (ma-prefix nouns)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_mi",
+   "position": 3,
+   "function": "nominal prefix mi- (miqtal-)",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §51.45"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "m",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_mu",
+   "position": 3,
+   "function": "participle prefix mu- of the derived stems",
+   "attested_in": [
+    "arabic",
+    "sabaic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §74.4 (muqattilu)",
+    "Al-Jallad 2019 (participles)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "m",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_s_sa",
+   "position": 3,
+   "function": "s¹-causative prefix (Qatabanic, Minaic; Sabaic h-)",
+   "attested_in": [
+    "minaic",
+    "qatabanic"
+   ],
+   "citations": [
+    "Beeston 1984 (causative s¹-)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": "sabaic_only",
+   "vowel_status": "attested",
+   "kind": "prefix",
+   "phonemic": [
+    [
+     "s",
+     "a"
+    ]
+   ],
+   "sabaic_only": true,
+   "branches": [
+    "asa"
+   ]
+  },
+  {
+   "id": "cs_g_at",
+   "position": 1,
+   "function": "feminine -at-",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §54.111",
+    "Huehnergard 2019: 60–61",
+    "Al-Jallad 2015 (-t)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_g_t",
+   "position": 1,
+   "function": "feminine -t (bound state; 3fs suffix conjugation after vowel)",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §52.5",
+    "Al-Jallad 2015 (-t)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_g_ut",
+   "position": 1,
+   "function": "abstract -ūt",
+   "attested_in": [
+    "arabic",
+    "aramaic",
+    "hebrew"
+   ],
+   "citations": [
+    "Joüon–Muraoka 2006 §88Mj",
+    "Al-Jallad 2019 (-ūt)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_g_an",
+   "position": 1,
+   "function": "-ān augmentative / hypocoristic / adjectival",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §51.46",
+    "Huffmon 1965: 135 (-ān)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_g_iy",
+   "position": 1,
+   "function": "nisbe -iyy-",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §51.43",
+    "Al-Jallad 2019 (nisba)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ],
+    [
+     "y",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_u",
+   "position": 2,
+   "function": "nominative -u; indicative -u; 3mp -ū; nom. pl. -ū; locative -u",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §54.1, §73.2",
+    "Huehnergard 2019: 60",
+    "Huffmon 1965: 105"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_i",
+   "position": 2,
+   "function": "genitive -i; 2fs -ī; oblique pl. -ī; 1cs possessive -ī",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §54.1",
+    "Huehnergard 2019: 60",
+    "Huffmon 1965: 106"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_a",
+   "position": 2,
+   "function": "accusative -a; volitive -a; 3ms suffix conjugation -a; dual nom. -ā; 3fp -ā",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §54.1, §73.2",
+    "Huehnergard 2019: 60, 63"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_e",
+   "position": 2,
+   "function": "dual oblique -ē",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §53.22"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "e"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_ay",
+   "position": 2,
+   "function": "dual oblique -ay(na) (PS *-ay-na, Ar. -ayni)",
+   "attested_in": [
+    "arabic",
+    "hebrew"
+   ],
+   "citations": [
+    "Huehnergard 2019: 60–61",
+    "Al-Jallad 2019 (dual)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "y",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_una",
+   "position": 2,
+   "function": "masc. pl. nom. -ūna; 3mp/2mp indicative -ūna",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §53.31, §73.222",
+    "Al-Jallad 2019 (-ūna)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_ina",
+   "position": 2,
+   "function": "masc. pl. oblique -īna; 2fs indicative -īna",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §53.31, §73.222"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_ana",
+   "position": 2,
+   "function": "dual indicative -āna",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.223"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_ani",
+   "position": 2,
+   "function": "dual nominative -āni",
+   "attested_in": [
+    "arabic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (dual)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic"
+   ]
+  },
+  {
+   "id": "cs_c_ayna",
+   "position": 2,
+   "function": "dual oblique -ayna",
+   "attested_in": [
+    "arabic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (dual)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "y",
+     null
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic"
+   ]
+  },
+  {
+   "id": "cs_c_na",
+   "position": 2,
+   "function": "fem. pl. -na; 1cp suffix conjugation -nā",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.223, §73.3",
+    "Al-Jallad 2019 (suffix conjugation)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_ta",
+   "position": 2,
+   "function": "2ms suffix conjugation -ta",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.3",
+    "Huffmon 1965: 91"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_ti",
+   "position": 2,
+   "function": "2fs suffix conjugation -ti; 1cs -ti (Amorite)",
+   "attested_in": [
+    "amorite",
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.3",
+    "Huffmon 1965: 91"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_tu",
+   "position": 2,
+   "function": "1cs suffix conjugation -tu",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.3 (-tū?)",
+    "Al-Jallad 2019 (-tu)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_tumu",
+   "position": 2,
+   "function": "2mp suffix conjugation -tumū",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.3"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "u"
+    ],
+    [
+     "m",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_tum",
+   "position": 2,
+   "function": "2mp suffix conjugation -tum",
+   "attested_in": [
+    "arabic",
+    "hebrew"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (suffix conjugation)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "u"
+    ],
+    [
+     "m",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_aha",
+   "position": 2,
+   "function": "directive -ah(a)",
+   "attested_in": [
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §54.3",
+    "Joüon–Muraoka 2006 §93c"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "h",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_c_w",
+   "position": 2,
+   "function": "3mp suffix conjugation -w",
+   "attested_in": [
+    "sabaic"
+   ],
+   "citations": [
+    "Beeston 1984 (suffix conjugation)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": "sabaic_only",
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     null
+    ]
+   ],
+   "sabaic_only": true,
+   "branches": [
+    "asa"
+   ]
+  },
+  {
+   "id": "cs_st_m",
+   "position": 3,
+   "function": "mimation -m after a short case vowel",
+   "attested_in": [
+    "amorite",
+    "sabaic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §53.31",
+    "Huehnergard 2019: 59–61",
+    "Huffmon 1965: 95"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_st_n",
+   "position": 3,
+   "function": "nunation -n after a short case vowel; Sab. postposed definite -n",
+   "attested_in": [
+    "arabic",
+    "sabaic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (tanwīn)",
+    "Beeston 1984 (-n)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa"
+   ]
+  },
+  {
+   "id": "cs_st_ma",
+   "position": 3,
+   "function": "nonbound -ma after long vowels (dual, masc. pl.)",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §53.31, §54.121"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_st_mi",
+   "position": 3,
+   "function": "nonbound -mi after long vowels (dual)",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §53.22"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_e_n",
+   "position": 4,
+   "function": "energic -n after a vowel (yaqtulu-n)",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.6",
+    "Al-Jallad 2019 (energic)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_e_an",
+   "position": 4,
+   "function": "energic -an",
+   "attested_in": [
+    "amarna",
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.6",
+    "Rainey 1996 II: 234–44",
+    "Al-Jallad 2019 (energic)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_e_anna",
+   "position": 4,
+   "function": "energic -anna",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §73.6",
+    "Al-Jallad 2019 (energic)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_i",
+   "position": 5,
+   "function": "1cs possessive -ī",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_ya",
+   "position": 5,
+   "function": "1cs -ya (after vowels)",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2",
+    "Al-Jallad 2019 (-ya)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "y",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_ni",
+   "position": 5,
+   "function": "1cs object -nī",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_ka",
+   "position": 5,
+   "function": "2ms -ka",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2",
+    "Al-Jallad 2015 (-k)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "k",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_ki",
+   "position": 5,
+   "function": "2fs -ki",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "k",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_hu",
+   "position": 5,
+   "function": "3ms -hū",
+   "attested_in": [
+    "arabic",
+    "sabaic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2",
+    "Al-Jallad 2015 (-h)",
+    "Beeston 1984 (-hw)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "h",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_ha",
+   "position": 5,
+   "function": "3fs -hā",
+   "attested_in": [
+    "arabic",
+    "safaitic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "h",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_na",
+   "position": 5,
+   "function": "1cp -nā",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_kumu",
+   "position": 5,
+   "function": "2mp -kumū",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "k",
+     "u"
+    ],
+    [
+     "m",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_kum",
+   "position": 5,
+   "function": "2mp -kum",
+   "attested_in": [
+    "arabic",
+    "hebrew",
+    "safaitic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (pronominal suffixes)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "k",
+     "u"
+    ],
+    [
+     "m",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_humu",
+   "position": 5,
+   "function": "3mp -humū",
+   "attested_in": [
+    "sabaic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §41.2",
+    "Beeston 1984 (-hmw)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "h",
+     "u"
+    ],
+    [
+     "m",
+     "u"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "asa",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_pr_hum",
+   "position": 5,
+   "function": "3mp -hum",
+   "attested_in": [
+    "arabic",
+    "safaitic"
+   ],
+   "citations": [
+    "Al-Jallad 2019 (pronominal suffixes)",
+    "Al-Jallad 2015 (-hm)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "h",
+     "u"
+    ],
+    [
+     "m",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic"
+   ]
+  },
+  {
+   "id": "cs_pr_s",
+   "position": 5,
+   "function": "3ms -s¹ (Sabaic)",
+   "attested_in": [
+    "sabaic"
+   ],
+   "citations": [
+    "Beeston 1984 (-s¹)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": "sabaic_only",
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     null
+    ]
+   ],
+   "sabaic_only": true,
+   "branches": [
+    "asa"
+   ]
+  },
+  {
+   "id": "cs_pr_ti_arch",
+   "position": 5,
+   "function": "archaic *-t- object suffix (2nd person), unattested in Central Semitic",
+   "attested_in": [],
+   "citations": [
+    "Lipiński 1997 §36"
+   ],
+   "cost": 0.4,
+   "innovation_id": "archaic_t_object_suffix",
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": []
+  },
+  {
+   "id": "cs_pr_ta_arch",
+   "position": 5,
+   "function": "archaic *-t- object suffix (2nd person), unattested in Central Semitic",
+   "attested_in": [],
+   "citations": [
+    "Lipiński 1997 §36"
+   ],
+   "cost": 0.4,
+   "innovation_id": "archaic_t_object_suffix",
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": []
+  },
+  {
+   "id": "cs_en_ma",
+   "position": 6,
+   "function": "enclitic -ma (focus)",
+   "attested_in": [
+    "arabic",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §89.2",
+    "Huehnergard 2019: 68 (*=ma)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "arabic",
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_en_mi",
+   "position": 6,
+   "function": "enclitic -mi",
+   "attested_in": [
+    "amorite",
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §89.2",
+    "Huffmon 1965: 102 (-mi)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "i"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_en_m",
+   "position": 6,
+   "function": "enclitic -m",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §89.2"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_en_na",
+   "position": 6,
+   "function": "enclitic -na (topicalizing)",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §89.3"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_en_n",
+   "position": 6,
+   "function": "enclitic -n",
+   "attested_in": [
+    "ugaritic"
+   ],
+   "citations": [
+    "Tropper 2000 §89.3"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": [
+    "nws"
+   ]
+  },
+  {
+   "id": "cs_ep_n",
+   "position": 7,
+   "function": "energic -n placed after the object suffix (reverses the attested order)",
+   "attested_in": [],
+   "citations": [
+    "Huehnergard 2012 §IV.D.4",
+    "Rainey 1996 II: 234–44"
+   ],
+   "cost": 0.4,
+   "innovation_id": "energic_after_object",
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": []
+  },
+  {
+   "id": "cs_ep_an",
+   "position": 7,
+   "function": "energic -an after the object suffix",
+   "attested_in": [],
+   "citations": [
+    "Huehnergard 2012 §IV.D.4"
+   ],
+   "cost": 0.4,
+   "innovation_id": "energic_after_object",
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": []
+  },
+  {
+   "id": "cs_ep_anna",
+   "position": 7,
+   "function": "energic -anna after the object suffix",
+   "attested_in": [],
+   "citations": [
+    "Huehnergard 2012 §IV.D.4"
+   ],
+   "cost": 0.4,
+   "innovation_id": "energic_after_object",
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false,
+   "branches": []
+  }
+ ],
+ "attested_forms": [
+  {
+   "id": "ug_yamluku",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "yamluku",
+   "citation": "Tropper 2000 §73.222"
+  },
+  {
+   "id": "ug_tamluku",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ta"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "tamluku",
+   "citation": "Tropper 2000 §73.222"
+  },
+  {
+   "id": "ug_amluku",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_a"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "ʾamluku",
+   "citation": "Tropper 2000 §73.222"
+  },
+  {
+   "id": "ug_namluku",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_na"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "namluku",
+   "citation": "Tropper 2000 §73.222"
+  },
+  {
+   "id": "ug_yamlukuna",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_una"
+   ],
+   "surface": "yamlukūna",
+   "citation": "Tropper 2000 §73.222"
+  },
+  {
+   "id": "ug_tamlukina",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ta"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_ina"
+   ],
+   "surface": "tamlukīna",
+   "citation": "Tropper 2000 §73.222"
+  },
+  {
+   "id": "ug_yamlukan",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_e_an"
+   ],
+   "surface": "yamlukan",
+   "citation": "Tropper 2000 §73.6"
+  },
+  {
+   "id": "ug_yamlukanna",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_e_anna"
+   ],
+   "surface": "yamlukanna",
+   "citation": "Tropper 2000 §73.6"
+  },
+  {
+   "id": "ug_yamlukun",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_u",
+    "cs_e_n"
+   ],
+   "surface": "yamlukun",
+   "citation": "Tropper 2000 §73.6"
+  },
+  {
+   "id": "ug_malaka",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malak",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "malaka",
+   "citation": "Tropper 2000 §73.3"
+  },
+  {
+   "id": "ug_malakat",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malak",
+   "suffixes": [
+    "cs_g_at"
+   ],
+   "surface": "malakat",
+   "citation": "Tropper 2000 §73.3"
+  },
+  {
+   "id": "ug_malakta",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malak",
+   "suffixes": [
+    "cs_c_ta"
+   ],
+   "surface": "malaktā",
+   "citation": "Tropper 2000 §73.3"
+  },
+  {
+   "id": "ug_malakti",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malak",
+   "suffixes": [
+    "cs_c_ti"
+   ],
+   "surface": "malaktī",
+   "citation": "Tropper 2000 §73.3"
+  },
+  {
+   "id": "ug_malakna",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malak",
+   "suffixes": [
+    "cs_c_na"
+   ],
+   "surface": "malaknā",
+   "citation": "Tropper 2000 §73.3"
+  },
+  {
+   "id": "ug_malaktumu",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malak",
+   "suffixes": [
+    "cs_c_tumu"
+   ],
+   "surface": "malaktumū",
+   "citation": "Tropper 2000 §73.3"
+  },
+  {
+   "id": "ug_malku",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "malku",
+   "citation": "Tropper 2000 §54.1"
+  },
+  {
+   "id": "ug_malki",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_i"
+   ],
+   "surface": "malki",
+   "citation": "Tropper 2000 §54.1"
+  },
+  {
+   "id": "ug_malka",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "malka",
+   "citation": "Tropper 2000 §54.1"
+  },
+  {
+   "id": "ug_malkatu",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_g_at",
+    "cs_c_u"
+   ],
+   "surface": "malkatu",
+   "citation": "Tropper 2000 §54.111"
+  },
+  {
+   "id": "ug_malkuma",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_u",
+    "cs_st_ma"
+   ],
+   "surface": "malkūma",
+   "citation": "Tropper 2000 §53.31"
+  },
+  {
+   "id": "ug_malkima",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_i",
+    "cs_st_ma"
+   ],
+   "surface": "malkīma",
+   "citation": "Tropper 2000 §53.31"
+  },
+  {
+   "id": "ug_malkami",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_a",
+    "cs_st_mi"
+   ],
+   "surface": "malkāmi",
+   "citation": "Tropper 2000 §53.22"
+  },
+  {
+   "id": "ug_malkemi",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_e",
+    "cs_st_mi"
+   ],
+   "surface": "malkēmi",
+   "citation": "Tropper 2000 §53.22"
+  },
+  {
+   "id": "ug_malkuka",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_u",
+    "cs_pr_ka"
+   ],
+   "surface": "malkuka",
+   "citation": "Tropper 2000 §41.2"
+  },
+  {
+   "id": "ug_malkuhu",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_u",
+    "cs_pr_hu"
+   ],
+   "surface": "malkuhū",
+   "citation": "Tropper 2000 §41.2"
+  },
+  {
+   "id": "ug_malkiya",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_i",
+    "cs_pr_ya"
+   ],
+   "surface": "malkiya",
+   "citation": "Tropper 2000 §41.2"
+  },
+  {
+   "id": "ug_malkuhumu",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_u",
+    "cs_pr_humu"
+   ],
+   "surface": "malkuhumū",
+   "citation": "Tropper 2000 §41.2"
+  },
+  {
+   "id": "ug_yamlukuni",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [
+    "cs_c_u",
+    "cs_pr_ni"
+   ],
+   "surface": "yamlukunī",
+   "citation": "Tropper 2000 §41.2"
+  },
+  {
+   "id": "ug_yasalhimu",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ya",
+    "cs_s_sha"
+   ],
+   "stem": "lḥim",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "yašalḥimu",
+   "citation": "Tropper 2000 §74.62"
+  },
+  {
+   "id": "ug_tistahwiyu",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_pp_ti",
+    "cs_s_shta"
+   ],
+   "stem": "ḥwiy",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "tištaḥwiyu",
+   "citation": "Tropper 2000 §74.64"
+  },
+  {
+   "id": "ug_naqtala",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_s_na"
+   ],
+   "stem": "qtal",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "naqtala",
+   "citation": "Tropper 2000 §74.32"
+  },
+  {
+   "id": "ug_taqattala",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_s_ta"
+   ],
+   "stem": "qattal",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "taqattala",
+   "citation": "Tropper 2000 §74.43"
+  },
+  {
+   "id": "ug_muqattilu",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_s_mu"
+   ],
+   "stem": "qattil",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "muqattilu",
+   "citation": "Tropper 2000 §74.4"
+  },
+  {
+   "id": "ug_maqtalu",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_s_ma"
+   ],
+   "stem": "qtal",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "maqtalu",
+   "citation": "Tropper 2000 §51.45"
+  },
+  {
+   "id": "ug_wamalku",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_p_wa"
+   ],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "wamalku",
+   "citation": "Tropper 2000 §83.11"
+  },
+  {
+   "id": "ug_layamluk",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_p_la",
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [],
+   "surface": "layamluk",
+   "citation": "Tropper 2000 §85.2"
+  },
+  {
+   "id": "ug_limalki",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_p_li"
+   ],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_i"
+   ],
+   "surface": "limalki",
+   "citation": "Tropper 2000 §82.11"
+  },
+  {
+   "id": "ug_bimalki",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_p_bi"
+   ],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_i"
+   ],
+   "surface": "bimalki",
+   "citation": "Tropper 2000 §82.12"
+  },
+  {
+   "id": "ug_yabaslu",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_p_ya"
+   ],
+   "stem": "baʿl",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "yabaʿlu",
+   "citation": "Tropper 2000 §84.2 (y bʿl)"
+  },
+  {
+   "id": "ug_alyamluk",
+   "language": "ugaritic",
+   "prefixes": [
+    "cs_p_al",
+    "cs_pp_ya"
+   ],
+   "stem": "mluk",
+   "suffixes": [],
+   "surface": "ʾalyamluk",
+   "citation": "Tropper 2000 §87.3"
+  },
+  {
+   "id": "ug_ugaritiyyu",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "ʾugarit",
+   "suffixes": [
+    "cs_g_iy",
+    "cs_c_u"
+   ],
+   "surface": "ʾugaritiyu",
+   "citation": "Tropper 2000 §51.43"
+  },
+  {
+   "id": "ug_salmanu",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "šalm",
+   "suffixes": [
+    "cs_g_an",
+    "cs_c_u"
+   ],
+   "surface": "šalmānu",
+   "citation": "Tropper 2000 §51.46"
+  },
+  {
+   "id": "hb_malkut",
+   "language": "hebrew",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_g_ut"
+   ],
+   "surface": "malkūt",
+   "citation": "Joüon–Muraoka 2006 §88Mj"
+  },
+  {
+   "id": "ug_malkukumu",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "malk",
+   "suffixes": [
+    "cs_c_u",
+    "cs_pr_kumu"
+   ],
+   "surface": "malkukumū",
+   "citation": "Tropper 2000 §41.2"
+  },
+  {
+   "id": "ug_binama",
+   "language": "ugaritic",
+   "prefixes": [],
+   "stem": "bin",
+   "suffixes": [
+    "cs_c_a",
+    "cs_en_ma"
+   ],
+   "surface": "binama",
+   "citation": "Tropper 2000 §89.2"
+  },
+  {
+   "id": "ar_kataba",
+   "language": "arabic",
+   "prefixes": [],
+   "stem": "katab",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "kataba",
+   "citation": "Al-Jallad 2019 (suffix conjugation)"
+  },
+  {
+   "id": "ar_yaktubu",
+   "language": "arabic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "ktub",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "yaktubu",
+   "citation": "Al-Jallad 2019 (prefix conjugation)"
+  },
+  {
+   "id": "ar_katabtu",
+   "language": "arabic",
+   "prefixes": [],
+   "stem": "katab",
+   "suffixes": [
+    "cs_c_tu"
+   ],
+   "surface": "katabtu",
+   "citation": "Al-Jallad 2019 (suffix conjugation)"
+  },
+  {
+   "id": "ar_kitabun",
+   "language": "arabic",
+   "prefixes": [],
+   "stem": "kitab",
+   "suffixes": [
+    "cs_c_u",
+    "cs_st_n"
+   ],
+   "surface": "kitābun",
+   "citation": "Al-Jallad 2019 (tanwīn)"
+  },
+  {
+   "id": "ar_istaqbala",
+   "language": "arabic",
+   "prefixes": [
+    "cs_s_ista"
+   ],
+   "stem": "qbal",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "ʾistaqbala",
+   "citation": "Al-Jallad 2019 (stem X)"
+  },
+  {
+   "id": "ar_infatala",
+   "language": "arabic",
+   "prefixes": [
+    "cs_s_in"
+   ],
+   "stem": "fatal",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "ʾinfatala",
+   "citation": "Al-Jallad 2019 (stem VII)"
+  },
+  {
+   "id": "ar_yanfatilu",
+   "language": "arabic",
+   "prefixes": [
+    "cs_pp_ya",
+    "cs_s_n"
+   ],
+   "stem": "fatil",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "yanfatilu",
+   "citation": "Al-Jallad 2019 (stem VII)"
+  },
+  {
+   "id": "ar_yukattibu",
+   "language": "arabic",
+   "prefixes": [
+    "cs_pp_yu"
+   ],
+   "stem": "kattib",
+   "suffixes": [
+    "cs_c_u"
+   ],
+   "surface": "yukattibu",
+   "citation": "Al-Jallad 2019 (stem II)"
+  },
+  {
+   "id": "ar_katabtum",
+   "language": "arabic",
+   "prefixes": [],
+   "stem": "katab",
+   "suffixes": [
+    "cs_c_tum"
+   ],
+   "surface": "katabtum",
+   "citation": "Al-Jallad 2019 (suffix conjugation)"
+  },
+  {
+   "id": "ar_kitabuhum",
+   "language": "arabic",
+   "prefixes": [],
+   "stem": "kitab",
+   "suffixes": [
+    "cs_c_u",
+    "cs_pr_hum"
+   ],
+   "surface": "kitābuhum",
+   "citation": "Al-Jallad 2019 (pronominal suffixes)"
+  },
+  {
+   "id": "ar_malikayni",
+   "language": "arabic",
+   "prefixes": [],
+   "stem": "malik",
+   "suffixes": [
+    "cs_c_ayna"
+   ],
+   "surface": "malikayna",
+   "citation": "Al-Jallad 2019 (dual)"
+  },
+  {
+   "id": "sf_yawir",
+   "language": "safaitic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "ʿwir",
+   "suffixes": [],
+   "surface": "yaʿwir",
+   "citation": "OCIANA AAEK 253 (yʿwr); Al-Jallad 2015 (prefix conjugation)"
+  },
+  {
+   "id": "sf_wagama",
+   "language": "safaitic",
+   "prefixes": [],
+   "stem": "wagam",
+   "suffixes": [
+    "cs_c_a"
+   ],
+   "surface": "wagama",
+   "citation": "OCIANA AAEK 130 (wgm); Al-Jallad 2015 (suffix conjugation)"
+  },
+  {
+   "id": "sf_gayrat",
+   "language": "safaitic",
+   "prefixes": [],
+   "stem": "ġayr",
+   "suffixes": [
+    "cs_g_at"
+   ],
+   "surface": "ġayrat",
+   "citation": "OCIANA AAEK 141 (ġyrt); Al-Jallad 2015 (feminine -t)"
+  },
+  {
+   "id": "sf_halat",
+   "language": "safaitic",
+   "prefixes": [
+    "cs_p_ha"
+   ],
+   "stem": "lat",
+   "suffixes": [],
+   "surface": "halat",
+   "citation": "OCIANA AAEK 51 (h lt); Al-Jallad 2015 (vocative h)"
+  },
+  {
+   "id": "sf_ahuhu",
+   "language": "safaitic",
+   "prefixes": [],
+   "stem": "ʾaḫ",
+   "suffixes": [
+    "cs_c_u",
+    "cs_pr_hu"
+   ],
+   "surface": "ʾaḫuhu",
+   "citation": "OCIANA AAEK 139 (ʾḫ -h); Al-Jallad 2015 (-h)"
+  },
+  {
+   "id": "sb_yfln",
+   "language": "sabaic",
+   "prefixes": [
+    "cs_pp_ya"
+   ],
+   "stem": "fʿal",
+   "suffixes": [
+    "cs_e_n"
+   ],
+   "surface": "yafʿaln",
+   "citation": "Beeston 1984 (yfʿln); sabaic_dictionary.jsonl"
+  },
+  {
+   "id": "sb_hfl",
+   "language": "sabaic",
+   "prefixes": [
+    "cs_s_ha"
+   ],
+   "stem": "fʿal",
+   "suffixes": [],
+   "surface": "hafʿal",
+   "citation": "Beeston 1984 (h-causative)"
+  },
+  {
+   "id": "sb_sfl",
+   "language": "sabaic",
+   "prefixes": [
+    "cs_s_sa"
+   ],
+   "stem": "fʿal",
+   "suffixes": [],
+   "surface": "safʿal",
+   "citation": "Beeston 1984 (s¹-causative, Qatabanic/Minaic)"
+  },
+  {
+   "id": "sb_flw",
+   "language": "sabaic",
+   "prefixes": [],
+   "stem": "faʿal",
+   "suffixes": [
+    "cs_c_w"
+   ],
+   "surface": "faʿalw",
+   "citation": "Beeston 1984 (3mp -w)"
+  },
+  {
+   "id": "sb_bytn",
+   "language": "sabaic",
+   "prefixes": [],
+   "stem": "bayt",
+   "suffixes": [
+    "cs_st_n"
+   ],
+   "surface": "baytn",
+   "citation": "Beeston 1984 (postposed -n)"
+  },
+  {
+   "id": "sb_byths",
+   "language": "sabaic",
+   "prefixes": [],
+   "stem": "bayt",
+   "suffixes": [
+    "cs_pr_s"
+   ],
+   "surface": "bayts",
+   "citation": "Beeston 1984 (-s¹)"
+  }
+ ],
+ "counts": {
+  "total": 93,
+  "headline": 85,
+  "distinct_headline": 69,
+  "one_sign_headline": 55,
+  "priced": 5,
+  "sabaic_only": 3,
+  "prefix": 39,
+  "suffix": 46
+ }
+}

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/S44_to_weep_cry_lament_1_weeping_lamentation_2
 title: "*bky-: 'to weep, cry, lament' 1, 'weeping, lamentation' 2"
-desc: "Proto-Semitic *bky-, 'to weep, cry, lament' 1, 'weeping, lamentation' 2: reflexes in 16 language(s)."
+desc: "Proto-Semitic *bky-, 'to weep, cry, lament' 1, 'weeping, lamentation' 2: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S44"
@@ -44,7 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic bky (Al-Jallad–Jaworska 60) | Al-Jallad–Jaworska 60 | gloss withheld |
 | East Ethiopic | Sel. Wol. bäčä, Zwy. bäčī (EDG 136 apud SEDonline 1654) | EDG 136; SEDonline 1654 | gloss withheld |
 | Jibbali | béké (JL 25 apud SEDonline 1654) | JL 25; SEDonline 1654 | gloss withheld |
-| Eblaitic | ba-ga-um /bakāHum/ (VE 717; Krebernik 1983, 27) | VE 717; Krebernik 1983, 27 | gloss withheld |
+| Eblaitic | ba-ga-um /bakāHum/ (VE 717; Krebernik 1983, 27); ba-ga-um, da-ba-ga /b-k-y/: names ba-ga, ba-ga-da-mu (Sanmartín GlOS 1, 115) | VE 717; Krebernik 1983, 27; Sanmartín GlOS 1, 115 | gloss withheld |
+| Amorite | bakūt 2 (Sanmartín GlOS 1, 115) | Sanmartín GlOS 1, 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

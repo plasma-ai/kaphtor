@@ -43,6 +43,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*ligām-/lugām- 'bridle' (EDA P 25 apud SEDonline 1320).
+PWS \*ligām-/lugām- 'bridle' (EDA I 172, ◊P0282; SEDonline 1320). Akk. pagūmu &lt;a part of harness&gt; comes close in form and sense, with an Anlaut discrepancy 'difficult to explain' (EDA I 171–172, ◊P0282).
 
 <!-- END kaphtor:record -->

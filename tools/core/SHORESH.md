@@ -1,6 +1,7 @@
 # Shoresh: the ids in the code
 
-Shoresh (`root_match.py`, `root_index.py`, `competitors.py`, `semantic_gate.py`) asks whether a Linear A sign group
+Shoresh (`root_match.py`, `root_index.py`, `competitors.py`, `semantic_gate.py`, `shoresh_nulls.py`) and its
+corpus-level companion `meaning_shuffle.py` ask whether a Linear A sign group
 is closer to a Semitic root than chance. Its test was specified before it was run on the gold set, and the code cites
 that specification by section (§) and amendment (A). An amendment binds where it differs from a section. This page
 says what each id fixes; the specification itself, with its baseline and dated amendments, is
@@ -47,6 +48,8 @@ and read its output is [docs/shoresh-usage.md](../../docs/shoresh-usage.md).
 | A17 | The OCP kept only if the real word keeps it; the A4 list read, never recomputed; an empty family enters p\_max at 1; at most 8 readings, primary first; root clusters only |
 | A18 | The semantic gate's context (adjacent logogram by its conventional identification, then document type), the logogram and document maps, and the frozen domain tagger |
 | A19 | Adjacency skips line breaks and dividers; spelling variants and fused logograms; controls scored under their positive's context |
+| A20 | ZU reads ṯ, z, ḏ or ẓ, primary first (A11 polyphony); family B keeps a word's number of readings, not of polyphonic slots; over A17's cap of 8, the readings fewest steps down the signs' options are kept, ties broken by sign and never by place; `--conventional-values` is a report-only sensitivity run on Linear B values, outside the statistic, whose gold guard also holds back a spelling that reads as a gold word by Linear B values |
+| A21 | ZU writes ṯ, ḏ and ẓ before every vowel (`FULL_SERIES`): A9's speller and the power study's Semitic plants write them with ZU; a competitor's plants are spelled without those rows (`competitor_series`); the sound laws' inventory is the Linear B grid's 13 consonants with ṯ, ḏ and ẓ |
 
 ## Other ids
 

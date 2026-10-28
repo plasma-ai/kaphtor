@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2789_scorpion
 title: "*ʕaqrab-: 'scorpion'"
-desc: "Proto-Semitic *ʕaqrab-, 'scorpion': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ʕaqrab-, 'scorpion': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2789"
@@ -42,6 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʕənḳərbit \[K Tna. 1884\] | K Tna. 1884 |  |
 | Jibbali | ʕaḳréb \[Bittner 16\] | Bittner 16 |  |
 | Amharic | aḳrab \[K 1185\] | K 1185 |  |
+| Amorite | ʿaqrab: aq-ra-ba (Sanmartín GlOS 1, 76) | Sanmartín GlOS 1, 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -76,7 +76,7 @@
         },
         {
           "entry": "*21F=HA",
-          "evidence": "h 4/10 word types, ∅ 6/10, m 7/10; *21F-TU-NE yields no root under h"
+          "evidence": "As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11, so root shape does not decide. In context H gives *21F-*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a), *21F-TU-NE hatune 'son-in-law' (HT 7b, HT 87, HT 117b), *21F-JA-DU Ḥayya-Addu and TU-*21F-RI-NA ṭuhārī-nā. HT Scribe 11 writes *21F-TU-NE (HT 7b, a roster of men) and QE-TU-NE (HT 12, among goods), keeping *21F apart from Q."
         },
         {
           "entry": "*314=ḤA",
@@ -2345,7 +2345,7 @@
           "vowel": "u",
           "confidence": 0.5,
           "evidence": [
-            "Another possible value: KNZc6 JU-KU-NA = yukūna 'shall be established' (√k-w-n, DULAT 442); Linear B *65 = ju (Melena 43–44). l stays primary."
+            "Second value of the same sign, not a rival: JU is a palatal liquid, /ʎu/ ~ /lʸu/. KNZc6 JU-KU-NA = yukūna 'shall be established' (√k-w-n, DULAT 442); A-RA-JU = ᵘʳᵘA-ra-yu (RGTC 12/2, 30); Linear B *65 = ju (Melena 2014, 16). l stays primary."
           ]
         }
       ],
@@ -2355,7 +2355,7 @@
         "SU-JU-TA = šalāṭa \"to rule\" (√š-l-ṭ)—unique to /l/",
         "Co-occurrence proof: JU ≠ RA (JU-RA in same word, HT80); JU ≠ RU (PI-RU-E-JU, PH2)"
       ],
-      "note": "Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /la/, JU = /lu/. Both fill the L/R distinction gap needed by Semitic substrate. || Position rule: (a) standalone JU + numeral/fraction in a list (ARKH4a, HT68, HT97a, HT108, ZA11a) = commodity ABBREVIATION, gloss 'flour (commodity)' CANDIDATE—a GORILA positional gloss, not acrophonic (no Semitic flour word is /l/-initial); mark '[commodity?]' where ambiguous. (b) standalone JU without quantity, separator-delimited votive context (KNZb4 'JU 𐄁 JA-SI 𐄁 SI') = syllabic /lu/—dedicatory preposition l(u) 'to/for' or asseverative lū, CANDIDATE. (c) word-internal JU = /lu/ or /yu/ (below). *ḳamḥ- 'flour' for KE-JU-MI stays rejected (unaccounted l). || yu is another possible value (Linear B *65 = ju, Melena 43–44): the verb prefix in KNZc6 JU-KU-NA yukūna 'shall be established' (√k-w-n, DULAT 442) and the endings -iyyu, -y (KU-RE-JU beside KU-RE).",
+      "note": "Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /la/, JU = /lu/. Both fill the L/R distinction gap needed by Semitic substrate. || Position rule: (a) standalone JU + numeral/fraction in a list (ARKH4a, HT68, HT97a, HT108, ZA11a) = commodity ABBREVIATION, gloss 'flour (commodity)' CANDIDATE—a GORILA positional gloss, not acrophonic (no Semitic flour word is /l/-initial); mark '[commodity?]' where ambiguous. (b) standalone JU without quantity, separator-delimited votive context (KNZb4 'JU 𐄁 JA-SI 𐄁 SI') = syllabic /lu/—dedicatory preposition l(u) 'to/for' or asseverative lū, CANDIDATE. (c) word-internal JU = /lu/ or /yu/ (below). *ḳamḥ- 'flour' for KE-JU-MI stays rejected (unaccounted l). || JU writes a palatal liquid, /ʎu/ ~ /lʸu/: lu in Semitic roots (DA-JU-TE, SU-JU-TA), yu where the word needs the glide (KNZc6 JU-KU-NA yukūna, √k-w-n, DULAT 442; the endings -iyyu, -y, KU-RE-JU beside KU-RE; A-RA-JU ʾArāyu = ᵘʳᵘA-ra-yu, RGTC 12/2, 30). It is the u-member of RA₂'s series: Linear B *76 ra₂ = /rya, lya/ and ro₂ = /ryo, lyo/, 'liquid yodized resonants', *76 'already attested in Linear A' (Melena 2014, 63); Linear A had 'a series of post-palatalized and post-labialized consonants' (Palaima 2020, 8). Linear B took JU over as *65, which writes both ju and zu (Melena 2014, 16), and renders Linear A JU words with a glide: ku-ma-ju > ka-ma-jo, qa-ti-ju > qa-ti-ja (Davis 2026, 162–163).",
       "linear_b": null,
       "sign_number": "AB65"
     },
@@ -2383,7 +2383,7 @@
       "primary": {
         "consonant": "h",
         "vowel": "a",
-        "confidence": 0.9
+        "confidence": 0.75
       },
       "alternates": [],
       "neutralization_class": null,
@@ -2418,29 +2418,70 @@
     },
     "ZU": {
       "ab_number": "AB79",
+      "primary": {
+        "consonant": "ṯ",
+        "vowel": "u",
+        "confidence": 0.74
+      },
       "consonant": "ṯ",
       "vowel": "u",
       "reading": "ṮU",
       "ipa": "θu",
       "confidence": 0.74,
-      "notes": "PROBABLE. /ṯu/ (voiceless interdental + /u/). The evidence is cross-script: (1) A-ZU-RA = ʾAṯirat on KNZc7 incantation bowl—primary anchor; (2) Linear B Z-series has ZA/ZE/ZO but no deciphered ZU; B79 survives as one of 14 undeciphered syllabograms (Judson 2020) with only 3–4 attestations—extreme rarity predicted if value is interdental; (3) No known /ṯ/→/z/ merger in any Semitic language; (4) ZA already covers /za/; (5) Complementary distribution confirmed: ZA-SI-ZU (ARKH4b) places ZA and ZU in same word; (6) MA-ZU = maṯu 'child/male' (PS #1702) on HT102—supportive match; (7) Cross-script parallel: Linear B ma-*79 (PY En 74+, PY Eo 276) = same sign sequence, same commodity (grain), same qty (3) as Linear A MA-ZU (HT102); (8) Linear B a-*79 (KN Ap 618+, MY Oe 123) may = PS *ʾanṯ-/ʾaṯt- 'female/woman'—women's personnel + wool contexts. Open issues: (a) Vowel mismatch in Aṯirat; (b) /zu/ gap. Contexts scored blind run 3:1:17 TH/ZU/neutral; the /zu/ gap is no obstacle; complementary distribution holds on 18 of 32 tablets; onomastic parallels run 4:3 TH/ZU. KU-ZU-NI = Ugaritic PN Kuṯinu/Kṯn (DULAT p.467; syllabic vocalization ku-ši-nu, PRU 3 195, UVST 231). ZU-DI-RA = /ṯudira/ (Ugaritic ṯdr 'waitress/girl', Hurro-Hittite loan from šiduri; contact layer). Phonetic range note: ZU covers [θ ~ s̪] zone (native NWS /ṯ/ and borrowed Hurrian /š/ both render as ṯ in Ugaritic orthography), not a point value. || Two values, as SA writes s and š: ZU is the u-member of the Z-row and writes zu as well as ṯu. ṯ reads A-ZU-RA, MA-ZU, ZU-DI-RA, ZU-RI-NI-MA, DU-ZU-WA, KU-ZU-NI and ZU-JU-PU₂; z reads RU-ZU-NA rāzin 'dignitary' (Heb. rōzēn, HALOT 1210; Ar. razuna, Lane 1079, PS *z); ZU-DU and ZU-DI read 'breast' under both (ṯd, zd: DULAT 886, 983). Linear B *79 stands in the z-row.",
+      "notes": "PROBABLE. /ṯu/ (voiceless interdental + /u/). The evidence is cross-script: (1) A-ZU-RA = ʾAṯrat or ʾAṯirat on KNZc7 incantation bowl—primary anchor; (2) Linear B *79 is zu (Davis 2026, 174 n. 641), with only 3–4 attestations—extreme rarity predicted if value is interdental; (3) Voiceless *ṯ merges with z in no Semitic language (> š, s, ś, t; Kogan 2011, 85–103); z for ṯ is sporadic (Ugar. zd 'breast', KTU 1.23:24, DULAT 983), while *ḏ > z is regular; (4) Complementary distribution confirmed: ZA-SI-ZU (ARKH4b) places ZA and ZU in same word; (5) MA-ZU = maṯu 'child/male' (PS #1702) on HT102—supportive match; (6) Cross-script parallel: Linear B ma-*79 (PY En 74+, PY Eo 276) = same sign sequence, same commodity (grain), same qty (3) as Linear A MA-ZU (HT102); (7) Linear B a-*79 (KN Ap 618+, MY Oe 123) may = PS *ʾanṯ-/ʾaṯt- 'female/woman'—women's personnel + wool contexts. Contexts scored blind run 3:1:17 TH/ZU/neutral; complementary distribution holds on 18 of 32 tablets; onomastic parallels run 4:3 TH/ZU. KU-ZU-NI = Ugaritic PN Kuṯinu/Kṯn (DULAT p.467; syllabic vocalization ku-ši-nu, PRU 3 195, UVST 231). ZU-DI-RA = /ṯudira/ (Ugaritic ṯdr 'waitress/girl', Hurro-Hittite loan from šiduri; contact layer). Phonetic range note: ZU covers [θ ~ s̪] zone (native NWS /ṯ/ and borrowed Hurrian /š/ both render as ṯ in Ugaritic orthography), not a point value. || ZU writes the interdental range, ṯ, ḏ and ṯ̣, before every vowel, as Old Babylonian PI writes wa, we, wi and wu (Huehnergard 2011, 69), and as the u-member of the Z-row zu as well, as SA writes s and š. ṯ reads A-ZU-RA, MA-ZU, ZU-DI-RA, ZU-RI-NI-MA, DU-ZU-WA, KU-ZU-NI and ZU-JU-PU₂; z reads RU-ZU-NA rāzin 'dignitary' (Heb. rōzēn, HALOT 1210; Ar. razuna, Lane 1079, PS *z); ZU-DU and ZU-DI read 'breast' under both (ṯd, zd: DULAT 886, 983). Linear B *79 stands in the z-row.",
       "alternate_value": {
         "reading": "ZU",
         "ipa": "zu",
         "confidence": 0.5,
         "rationale": "Second value of the same sign, not a rival: RU-ZU-NA = rāzin 'dignitary' (Heb. rōzēn, HALOT 1210), PS *z. ṯ stays primary."
       },
+      "alternates": [
+        {
+          "consonant": "z",
+          "vowel": "u",
+          "confidence": 0.5,
+          "evidence": ["RU-ZU-NA = rāzin 'dignitary' (HALOT 1210), PS *z; Linear B *79 zu (Davis 2026, 174 n. 641)"]
+        },
+        {
+          "consonant": "ḏ",
+          "vowel": "u",
+          "evidence": ["ZU writes the interdental range: voiced ḏ beside ṯ (di Mino)"]
+        },
+        {
+          "consonant": "ẓ",
+          "vowel": "u",
+          "value": "ṯ̣u",
+          "evidence": ["ZU writes the interdental range: emphatic ṯ̣, keyed ẓ (di Mino)"]
+        }
+      ],
       "confirmed_by": [
-        "A-ZU-RA = ʾAṯirat (KNZc7 incantation bowl)—divine name on ritual vessel",
-        "Linear B Z-series lacks ZU; B79 undeciphered with 3–4 attestations (Judson 2020)—predicted if interdental value",
-        "No ṯ→z merger in Semitic typology—/zu/ cannot approximate /ṯ/",
-        "Phonemic gap: interdental /ṯ/ is open; /z/ already covered by ZA",
-        "Complementary distribution: ZA-SI-ZU (ARKH4b)—ZA and ZU in same word, proving different phonemic classes",
+        "A-ZU-RA = ʾAṯrat or ʾAṯirat (KNZc7 incantation bowl)—divine name on ritual vessel",
+        "Linear B *79 = zu (Davis 2026, 174 n. 641), 3–4 attestations—the rarity an interdental value predicts",
+        "No ṯ→z merger in Semitic typology",
+        "Phonemic gap: ZU writes the interdentals before every vowel, and only *305 (ḏa) writes one beside it",
+        "Complementary distribution: ZA-SI-ZU (ARKH4b)—ZA and ZU in the same word",
         "MA-ZU = maṯu 'child/male' (HT102)—supportive PS #1702 match",
         "Cross-script parallel: Linear B ma-*79 ↔ Linear A MA-ZU—potential independent confirmation",
         "KU-ZU-NI = Kuṯinu (HT 13, HT 85a), the Ugaritic personal name kṯn, syll. ku-ši-nu (DULAT 467)",
         "ZU-JU-PU₂ = ṯulubu 'flute' (HT 25a), sign for sign Ugaritic ṯlb (DULAT 892)"
       ],
+      "linear_b": {
+        "sign_number": "B 79",
+        "value": "zu",
+        "note": "tentative (Davis 2026, 174 n. 641)",
+        "unicode": "U+10059",
+        "unicode_glyph": "𐁙",
+        "unicode_name": "LINEAR B SYMBOL B079",
+        "unicode_block": "Linear B Syllabary",
+        "unicode_status": "STANDARD_UNICODE",
+        "unicode_source_refs": [
+          {
+            "source_family": "Unicode",
+            "source": "Unicode names list / Python unicodedata",
+            "locator": "Linear B Syllabary U+10000..U+1007F; Linear B Ideograms U+10080..U+100FF; Aegean Numbers U+10100..U+1013F"
+          }
+        ]
+      },
       "sign_number": "AB79",
       "logographic_value": {
         "reading": "ṯūm",
@@ -3054,7 +3095,7 @@
       "embedded_count": 32,
       "embedded_contexts": [
         "A-TA-I-*301-WA-JA (libation formula verb, 11 att., 5 peak sanctuary sites)",
-        "TA-NA-I-*301-U-TI-NU (3fs + energic variant, IOZa6)",
+        "TA-NA-I-*301-U-TI-NU (2fs + 1cp object, IOZa6)",
         "TA-NA-I-*301-(TI/E) (disputed final sign; PSZa2)",
         "JA-TA-I-*301-U-JA (3ms variant, APZa1)",
         "A-NA-TI-*301-WA-JA (IOZa8; ʿAnatī nawaya 'my Anat, my abode', √n-w-y noun)",

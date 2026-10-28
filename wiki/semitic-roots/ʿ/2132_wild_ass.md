@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʕărōd, ʕărād, ʕărādā \[Ja. 1114\], \[Levy WT II 243\], \[Levy WTM III 696\], ʕărād \[DJPA 418b apud CAL\] | Ja. 1114; Levy WT II 243; Levy WTM III 696; DJPA 418b; CAL | gloss withheld |
 | Syrian Aramaic | ʕǝrādā 'wild ass/donkey', ʕǝrādǝta 'wild she-ass' \[Brock. 547\], \[PS 2988\]. | Brock. 547; PS 2988 |  |
 | Aramaic | Off. ʕrdʔ \[HJ 887\] | HJ 887 | gloss withheld |
-| Amorite | ʿaradum, ʿardum, ʿardatum (Gelb AS 21, 15); ʿardu (Buck 2019, 325) | Gelb AS 21 15; Buck 2019, 325 | gloss withheld |
+| Amorite | ʿaradum, ʿardum, ʿardatum (Gelb AS 21, 15); ʿardu (Buck 2019, 325); ʿard: ḫa-ar-du-um, ḫa-ar-da-nu-um, ḫa-ar-da-ia; ʿarad: ḫa-ra-da-an, ḫa-ra-di-im (Sanmartín GlOS 1, 87) | Gelb AS 21 15; Buck 2019, 325; Sanmartín GlOS 1, 87 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʿrd (Al-Jallad–Jaworska 54) | Al-Jallad–Jaworska 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

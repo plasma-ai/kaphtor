@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | sbʔ 1 |  |  |
 | Judaic Aramaic | sbʔ 1 |  |  |
 | Amorite | s-b-ʾ: sāb- (George and Krebernik 2022, 120, 155); sābu (Golinets 2025, 887) | George and Krebernik 2022 120, 155; Golinets 2025 887 | gloss withheld |
-| Eblaitic | za-bí-tum /sābiʔtum/ (VE 1412a–b; Krebernik 1983, 45) | VE 1412a–b; Krebernik 1983, 45 | gloss withheld |
+| Eblaitic | za-bí-tum /sābiʔtum/ (VE 1412a–b; Krebernik 1983, 45; Civil 2017, 123) | VE 1412a–b; Krebernik 1983, 45; Civil 2017, 123 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

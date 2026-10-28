@@ -150,9 +150,9 @@ def base_consonant_map() -> dict[str, str | None]:
     return {sign: decomp[0] for sign, decomp in SIGN_DECOMPOSITION.items()}
 
 
-def permuted_cons_map(rng: random.Random) -> dict[str, str | None]:
-    """Null A: permute consonant assignments across consonant-bearing signs."""
-    cmap = base_consonant_map()
+def permuted_cons_map(rng: random.Random, base: dict[str, str | None] | None = None) -> dict[str, str | None]:
+    """Null A: permute consonant assignments across the consonant-bearing signs of base (base_consonant_map())."""
+    cmap = dict(base_consonant_map() if base is None else base)
     signs = [s for s, c in cmap.items() if c]
     cons = [cmap[s] for s in signs]
     rng.shuffle(cons)

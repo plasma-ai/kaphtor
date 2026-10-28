@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔiskat- 'lip of a woman's vagina' \[BK 1 33\] | BK 1 33 |  |
 | Akkadian | išku OB on \[CAD i 250\], \[AHw 396\] | CAD i 250; AHw 396 |  |
-| Eblaitic | iš-gúm /ʔiškum/ \[Fr 152; Bl E No. 4\] | Fr 152 |  |
+| Eblaitic | iš-gúm /ʔiškum/ \[Fr 152; Bl E No. 4\]; iš-gúm /ʾis₁k/ (Sanmartín GlOS 1, 47) | Fr 152; Sanmartín GlOS 1, 47 | gloss withheld |
 | Ugaritic | ʔušk \[DULAT 113\] | DULAT 113 | gloss withheld |
 | Geez | ʔǝskit \[LGz 43\] | LGz 43 | gloss withheld |
 | Hebrew | ʔäšäk (HALOT 95) &lt;\*ʔašk-. PB ʔōšäk (HALOT 95, apud Porath) | HALOT 95 |  |

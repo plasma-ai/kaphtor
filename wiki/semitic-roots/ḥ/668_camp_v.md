@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/668_camp_v
 title: "*ḥVnVy-: 'camp' (v.)"
-desc: "Proto-Semitic *ḥVnVy-, 'camp' (v.): reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḥVnVy-, 'camp' (v.): reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "668"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ḥny (HALOT 332) | HALOT 332 | gloss withheld |
+| Amorite | ḥ-n-w, maḥ(a)n (Sanmartín GlOS 1, 246) | Sanmartín GlOS 1, 246 | gloss withheld |
+| Eblaitic | nu-u₉-nu, nu-u₉-nu-ma /ḥ-n-w/ (Sanmartín GlOS 1, 246) | Sanmartín GlOS 1, 246 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

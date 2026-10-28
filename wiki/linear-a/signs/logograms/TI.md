@@ -93,6 +93,7 @@ Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone wi
 | [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | tittma | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | CANDIDATE |
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | SPECULATIVE |
+| [[wiki/linear-a/words/U/U_TI\|U-TI]] | Utti | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZA_TI\|ZA-TI]] | zāt | CANDIDATE |
 

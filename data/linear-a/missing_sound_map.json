@@ -441,7 +441,7 @@
       "gap_id": "plain_h_laryngeal",
       "sign": "*21F",
       "value": "HA",
-      "confidence": 0.9,
+      "confidence": 0.75,
       "phonemes_covered": [
         "h",
         "ḥ",
@@ -618,7 +618,7 @@
           "positional_behavior": "9 initial, 11 medial, 6 final, 5 standalone",
           "assigned_value": "ṮU (/θu/), with ZU (/zu/) a second value; proposed",
           "confidence": 0.74,
-          "rationale": "ZU writes two values, as SA writes s and š. ṯu is primary: A-ZU-RA = ʾAṯirat (KNZc7), MA-ZU = maṯu beside Linear B ma-*79, and no scribe alternates ZU with another sign. zu is the second value, on RU-ZU-NA = rāzin (PS *z)."
+          "rationale": "ZU writes two values, as SA writes s and š. ṯu is primary: A-ZU-RA = ʾAṯrat or ʾAṯirat (KNZc7), MA-ZU = maṯu beside Linear B ma-*79, and no scribe alternates ZU with another sign. zu is the second value, on RU-ZU-NA = rāzin (PS *z)."
         },
         {
           "sign": "*305 (AB305)",

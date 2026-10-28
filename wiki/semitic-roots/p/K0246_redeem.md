@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | fäǧǧä (LGz. 156) | LGz. 156 | gloss withheld |
 | Harari | fäǧa (LGz. 156) | LGz. 156 | gloss withheld |
 | Gurage | fäǧä (LGz. 156) | LGz. 156 | gloss withheld |
-| Amorite | pdj: japdī (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
+| Amorite | pdj: japdī (Gelb AS 21, 28); p-d-y: cf. ia-ap-di/du-um (Sanmartín GlOS 2, 122) | Gelb AS 21 28; Sanmartín GlOS 2, 122 | gloss withheld |
 | Phoenician | pdy/w (B 389) | B 389 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic fd (Al-Jallad–Jaworska 69) | Al-Jallad–Jaworska 69 | gloss withheld |
 | Jibbali | fédé (JL 51 apud SEDonline 1104) | JL 51; SEDonline 1104 | gloss withheld |

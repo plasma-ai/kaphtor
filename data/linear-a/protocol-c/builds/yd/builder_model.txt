@@ -1,0 +1,1 @@
+gpt-6-astra (OpenAI Codex CLI 0.165.0; reasoning effort high) [recorded after the run, from run_builder.sh]

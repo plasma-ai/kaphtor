@@ -1,0 +1,2463 @@
+{
+ "_meta": {
+  "built_by": "scripts/build_paradigm.py",
+  "built_at": "2026-09-08T01:52:15.286576+00:00",
+  "inputs": {
+   "data/formula_family.json": "8f1add5ef0a1367f274257a7032547ef725fbb50aa7504a942ceb2e3c425d807"
+  },
+  "attribution": "di Mino",
+  "protocol": "PROTOCOL-B.md §4",
+  "blindness_rule": "no entry mentions a Linear A form, a lexicon.json headword, 'Linear A', 'Minoan' or 'Ya Diktu' (checked mechanically at build)",
+  "citation_status": "section numbers marked '(topic)' are to be verified against the cited grammar before REPORT-B cites them; records for Al-Jallad 2015, Beeston 1984, Joüon–Muraoka 2006, Huffmon 1965, Payne 2014, Melchert 1993/2003, Wegner 2007, Laroche 1980, Allen 2014, Loprieno 1995 to be added to sources/sources_database.json"
+ },
+ "arm": "hurrian",
+ "languages": [
+  "hurrian"
+ ],
+ "languages_with_sabaic": [
+  "hurrian"
+ ],
+ "classes": {
+  "prefix": [],
+  "suffix": [
+   "derivational / root complement",
+   "tense",
+   "valence / mood",
+   "possessive",
+   "plural",
+   "article",
+   "case",
+   "article (Suffixaufnahme)",
+   "case (Suffixaufnahme)",
+   "agreement / enclitic pronoun",
+   "sentence enclitic / negation"
+  ]
+ },
+ "morphemes": [
+  {
+   "id": "hur_d_uhe",
+   "position": 1,
+   "function": "gentilic -(u)ḫe",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980; Wegner 2007 §… Derivation"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "ḫ",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ubhi",
+   "position": 1,
+   "function": "adjectival -ubḫi",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "b",
+     null
+    ],
+    [
+     "ḫ",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ushi",
+   "position": 1,
+   "function": "instrument noun -usḫi",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "š",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ugari",
+   "position": 1,
+   "function": "abstract -ugari",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "g",
+     "a"
+    ],
+    [
+     "r",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_uhli",
+   "position": 1,
+   "function": "agent -uḫli",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "ḫ",
+     null
+    ],
+    [
+     "l",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_an",
+   "position": 1,
+   "function": "root complement -an-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Wurzelerweiterungen)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ol",
+   "position": 1,
+   "function": "desiderative / root complement -ol-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "o"
+    ],
+    [
+     "l",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ost",
+   "position": 2,
+   "function": "past -ošt-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Tempus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "o"
+    ],
+    [
+     "š",
+     null
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ast",
+   "position": 1,
+   "function": "intensive -ast-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "s",
+     null
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ug",
+   "position": 1,
+   "function": "root complement -ug-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "g",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ill",
+   "position": 1,
+   "function": "optative -ill-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Modus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ],
+    [
+     "l",
+     null
+    ],
+    [
+     "l",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_du",
+   "position": 1,
+   "function": "causative/derivational -du-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007",
+    "EA 24 un-du-mann-i-n"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "d",
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_mann",
+   "position": 1,
+   "function": "desiderative -mann-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007",
+    "EA 24"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ],
+    [
+     "n",
+     null
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_d_ui",
+   "position": 1,
+   "function": "passive-reflexive -ui-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     null,
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_a",
+   "position": 3,
+   "function": "intransitive valence / 3sg pret. -a",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Valenz)",
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_i",
+   "position": 3,
+   "function": "transitive valence -i-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Valenz)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_o",
+   "position": 3,
+   "function": "valence -o-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "o"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_oz",
+   "position": 2,
+   "function": "past -ož-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Tempus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "o"
+    ],
+    [
+     "z",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_ed",
+   "position": 2,
+   "function": "future -ed-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Tempus)",
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "e"
+    ],
+    [
+     "d",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_et",
+   "position": 2,
+   "function": "future -et- (class B)",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "e"
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_us",
+   "position": 2,
+   "function": "preterite -us- (class A)",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "s",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_ust",
+   "position": 2,
+   "function": "preterite -ust- (class B)",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "s",
+     null
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_amb",
+   "position": 3,
+   "function": "intransitive -am(b)-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980",
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "m",
+     null
+    ],
+    [
+     "b",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_umma",
+   "position": 3,
+   "function": "infinitive -umma",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "m",
+     null
+    ],
+    [
+     "m",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_v_um",
+   "position": 3,
+   "function": "infinitive -um",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "m",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ps_we",
+   "position": 4,
+   "function": "1sg possessive -we/-ffe",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980",
+    "Wegner 2007 (Possessivsuffixe)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ps_iffe",
+   "position": 4,
+   "function": "1sg possessive -iffe",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Possessivsuffixe)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ],
+    [
+     "f",
+     null
+    ],
+    [
+     "f",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ps_b",
+   "position": 4,
+   "function": "2sg possessive -b/-v",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "b",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ps_ya",
+   "position": 4,
+   "function": "3sg possessive -(y)a",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "y",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ps_wwas",
+   "position": 4,
+   "function": "1pl possessive -wwaš",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     null
+    ],
+    [
+     "w",
+     "a"
+    ],
+    [
+     "š",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ps_yas",
+   "position": 4,
+   "function": "3pl possessive -yaš",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "y",
+     "a"
+    ],
+    [
+     "š",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_pl_as",
+   "position": 5,
+   "function": "plural -aš-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Numerus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "š",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_pl_ast",
+   "position": 5,
+   "function": "plural -ašt-",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Numerus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "š",
+     null
+    ],
+    [
+     "t",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ar_ne",
+   "position": 6,
+   "function": "article / anaphoric -ne",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Artikel)",
+    "EA 24"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ar_ni",
+   "position": 6,
+   "function": "article -ni",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Artikel)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ar_na",
+   "position": 6,
+   "function": "article plural -na",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Artikel)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_se",
+   "position": 7,
+   "function": "ergative -še",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "š",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_s",
+   "position": 7,
+   "function": "ergative -š",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)",
+    "EA 24"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "š",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_we",
+   "position": 7,
+   "function": "genitive -we",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)",
+    "EA 24"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_wa",
+   "position": 7,
+   "function": "dative -wa",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_da",
+   "position": 7,
+   "function": "directive -da",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "d",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_dan",
+   "position": 7,
+   "function": "ablative -dan",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "d",
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_ae",
+   "position": 7,
+   "function": "instrumental / essive -ae",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     null,
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_os",
+   "position": 7,
+   "function": "equative -oš",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "o"
+    ],
+    [
+     "š",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_ra",
+   "position": 7,
+   "function": "associative -ra",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "r",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_ura",
+   "position": 7,
+   "function": "comitative -ura",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ],
+    [
+     "r",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_a",
+   "position": 7,
+   "function": "allative / locative -a",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Kasus)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_se_pl",
+   "position": 7,
+   "function": "plural genitive -se",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_sa",
+   "position": 7,
+   "function": "plural dative -sa",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c_sta",
+   "position": 7,
+   "function": "plural directive -sta",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "s",
+     null
+    ],
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ar2_ne",
+   "position": 8,
+   "function": "article resumed after a genitive (Suffixaufnahme)",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Suffixaufnahme)",
+    "EA 24"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     "e"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c2_s",
+   "position": 9,
+   "function": "ergative copied from the head",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Suffixaufnahme)",
+    "EA 24"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "š",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c2_wa",
+   "position": 9,
+   "function": "dative copied from the head",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Suffixaufnahme)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_c2_da",
+   "position": 9,
+   "function": "directive copied from the head",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Suffixaufnahme)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "d",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_b",
+   "position": 10,
+   "function": "3sg intransitive agreement -b",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Verbalmorphologie)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "b",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_m",
+   "position": 10,
+   "function": "3sg agreement -m",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_a",
+   "position": 10,
+   "function": "3sg absolutive -a",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_ya",
+   "position": 10,
+   "function": "3sg present -ya",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "y",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_au",
+   "position": 10,
+   "function": "1sg -au",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     null,
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_iu",
+   "position": 10,
+   "function": "2sg present -iu",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "i"
+    ],
+    [
+     null,
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_u",
+   "position": 10,
+   "function": "2sg preterite -u",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "u"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_tilla",
+   "position": 10,
+   "function": "1pl -tilla",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     "i"
+    ],
+    [
+     "l",
+     null
+    ],
+    [
+     "l",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_lla",
+   "position": 10,
+   "function": "3pl -lla",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980",
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "l",
+     null
+    ],
+    [
+     "l",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_tta",
+   "position": 10,
+   "function": "1sg absolutive clitic -tta",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Enklitika)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "t",
+     null
+    ],
+    [
+     "t",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_mma",
+   "position": 10,
+   "function": "2sg absolutive clitic -mma",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Enklitika)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     null
+    ],
+    [
+     "m",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_nna",
+   "position": 10,
+   "function": "3sg absolutive clitic -nna",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Enklitika)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ],
+    [
+     "n",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_n",
+   "position": 10,
+   "function": "3sg absolutive -n",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "EA 24 un-du-mann-i-n"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_ag_l",
+   "position": 10,
+   "function": "3pl -l(la)",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "l",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_en_ma",
+   "position": 11,
+   "function": "connective -ma",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Satzpartikeln)"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_en_man",
+   "position": 11,
+   "function": "connective -mān",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "EA 24",
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_en_an",
+   "position": 11,
+   "function": "connective -an",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     null,
+     "a"
+    ],
+    [
+     "n",
+     null
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_en_wa",
+   "position": 11,
+   "function": "negation -wa",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007 (Negation)",
+    "EA 24 tān-a-wa"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "w",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_en_ki",
+   "position": 11,
+   "function": "assertive negation -ki",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Laroche 1980"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "k",
+     "i"
+    ]
+   ],
+   "sabaic_only": false
+  },
+  {
+   "id": "hur_en_mma",
+   "position": 11,
+   "function": "connective -mma",
+   "attested_in": [
+    "hurrian"
+   ],
+   "citations": [
+    "Wegner 2007"
+   ],
+   "cost": 0.0,
+   "innovation_id": null,
+   "note": null,
+   "vowel_status": "attested",
+   "kind": "suffix",
+   "phonemic": [
+    [
+     "m",
+     null
+    ],
+    [
+     "m",
+     "a"
+    ]
+   ],
+   "sabaic_only": false
+  }
+ ],
+ "attested_forms": [
+  {
+   "id": "hu_enne",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_ar_ne"
+   ],
+   "surface": "enine",
+   "citation": "Wegner 2007 (eni 'god' + article)"
+  },
+  {
+   "id": "hu_simigene",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "šimige",
+   "suffixes": [
+    "hur_ar_ne"
+   ],
+   "surface": "šimigene",
+   "citation": "EA 24 (Šimige-ne)"
+  },
+  {
+   "id": "hu_sauskane",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "šauška",
+   "suffixes": [
+    "hur_ar_ne"
+   ],
+   "surface": "šauškane",
+   "citation": "EA 24 (Šauška-ne)"
+  },
+  {
+   "id": "hu_ninuawene",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "ninua",
+   "suffixes": [
+    "hur_c_we",
+    "hur_ar2_ne"
+   ],
+   "surface": "ninuawene",
+   "citation": "EA 24 (Ninua-we-ne)"
+  },
+  {
+   "id": "hu_tessubwenes",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tešub",
+   "suffixes": [
+    "hur_c_we",
+    "hur_ar2_ne",
+    "hur_c2_s"
+   ],
+   "surface": "tešubweneš",
+   "citation": "EA 24 (Teššub-we-ne-š)"
+  },
+  {
+   "id": "hu_ewrines",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "ewri",
+   "suffixes": [
+    "hur_ar_ne",
+    "hur_c_s"
+   ],
+   "surface": "ewrineš",
+   "citation": "EA 24 (ewri-ne-š)"
+  },
+  {
+   "id": "hu_enast",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "en",
+   "suffixes": [
+    "hur_pl_ast"
+   ],
+   "surface": "enašt",
+   "citation": "Wegner 2007 (plural -ašt-)"
+  },
+  {
+   "id": "hu_eniwa",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_c_wa"
+   ],
+   "surface": "eniwa",
+   "citation": "Wegner 2007 (dative)"
+  },
+  {
+   "id": "hu_enida",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_c_da"
+   ],
+   "surface": "enida",
+   "citation": "Wegner 2007 (directive)"
+  },
+  {
+   "id": "hu_enidan",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_c_dan"
+   ],
+   "surface": "enidan",
+   "citation": "Wegner 2007 (ablative)"
+  },
+  {
+   "id": "hu_eniura",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_c_ura"
+   ],
+   "surface": "eniura",
+   "citation": "Wegner 2007 (comitative)"
+  },
+  {
+   "id": "hu_enios",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_c_os"
+   ],
+   "surface": "enioš",
+   "citation": "Wegner 2007 (equative)"
+  },
+  {
+   "id": "hu_tadiwe",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tadi",
+   "suffixes": [
+    "hur_c_we"
+   ],
+   "surface": "tadiwe",
+   "citation": "Wegner 2007 (genitive)"
+  },
+  {
+   "id": "hu_tadiae",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tadi",
+   "suffixes": [
+    "hur_c_ae"
+   ],
+   "surface": "tadiae",
+   "citation": "Wegner 2007 (instrumental)"
+  },
+  {
+   "id": "hu_tadira",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tadi",
+   "suffixes": [
+    "hur_c_ra"
+   ],
+   "surface": "tadira",
+   "citation": "Wegner 2007 (associative)"
+  },
+  {
+   "id": "hu_senaiffe",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "šena",
+   "suffixes": [
+    "hur_ps_iffe"
+   ],
+   "surface": "šenaiffe",
+   "citation": "Wegner 2007 (šena-iffe 'my brother')"
+  },
+  {
+   "id": "hu_attaiffe",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "attai",
+   "suffixes": [
+    "hur_ps_iffe"
+   ],
+   "surface": "attaiffe",
+   "citation": "Wegner 2007 (attai-ffe 'my father')"
+  },
+  {
+   "id": "hu_enniyas",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_ps_ya",
+    "hur_c_s"
+   ],
+   "surface": "eniyaš",
+   "citation": "Laroche 1980 (3sg poss. + erg.)"
+  },
+  {
+   "id": "hu_tiwena",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tiwe",
+   "suffixes": [
+    "hur_ar_na"
+   ],
+   "surface": "tiwena",
+   "citation": "Wegner 2007 (tiwe-na 'the words')"
+  },
+  {
+   "id": "hu_pahia",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "paḫ",
+   "suffixes": [
+    "hur_v_i",
+    "hur_ag_a"
+   ],
+   "surface": "paḫia",
+   "citation": "Wegner 2007 (paḫ- 'build')"
+  },
+  {
+   "id": "hu_pahiosta",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "paḫ",
+   "suffixes": [
+    "hur_d_ost",
+    "hur_v_i",
+    "hur_ag_a"
+   ],
+   "surface": "paḫoštia",
+   "citation": "Wegner 2007 (past -ošt-)"
+  },
+  {
+   "id": "hu_pahiawa",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "paḫ",
+   "suffixes": [
+    "hur_v_i",
+    "hur_ag_a",
+    "hur_en_wa"
+   ],
+   "surface": "paḫiawa",
+   "citation": "Wegner 2007 (negation -wa)"
+  },
+  {
+   "id": "hu_unab",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "un",
+   "suffixes": [
+    "hur_v_a",
+    "hur_ag_b"
+   ],
+   "surface": "unab",
+   "citation": "Wegner 2007 (un- 'come', 3sg intr.)"
+  },
+  {
+   "id": "hu_undumannin",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "un",
+   "suffixes": [
+    "hur_d_du",
+    "hur_v_i",
+    "hur_ag_n"
+   ],
+   "surface": "undui n",
+   "citation": "EA 24 (un-du-mann-i-n)"
+  },
+  {
+   "id": "hu_tanawa",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tan",
+   "suffixes": [
+    "hur_v_a",
+    "hur_en_wa"
+   ],
+   "surface": "tanawa",
+   "citation": "EA 24 (tān-a-wa)"
+  },
+  {
+   "id": "hu_akkaduhe",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "akkad",
+   "suffixes": [
+    "hur_d_uhe"
+   ],
+   "surface": "akkaduḫe",
+   "citation": "Laroche 1980 (Akkad-uḫe)"
+  },
+  {
+   "id": "hu_ahrushi",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "aḫr",
+   "suffixes": [
+    "hur_d_ushi"
+   ],
+   "surface": "aḫrusḫi",
+   "citation": "Laroche 1980 (aḫr-usḫi 'censer')"
+  },
+  {
+   "id": "hu_tadugari",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_d_ugari"
+   ],
+   "surface": "tadugari",
+   "citation": "Laroche 1980 (tad-ugari)"
+  },
+  {
+   "id": "hu_unumma",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "un",
+   "suffixes": [
+    "hur_v_umma"
+   ],
+   "surface": "unumma",
+   "citation": "Laroche 1980 (infinitive -umma)"
+  },
+  {
+   "id": "hu_tadau",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_ag_au"
+   ],
+   "surface": "tadau",
+   "citation": "Laroche 1980 (1sg -au)"
+  },
+  {
+   "id": "hu_tadiu",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_ag_iu"
+   ],
+   "surface": "tadiu",
+   "citation": "Laroche 1980 (2sg -iu)"
+  },
+  {
+   "id": "hu_tadatilla",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_v_a",
+    "hur_ag_tilla"
+   ],
+   "surface": "tadatilla",
+   "citation": "Laroche 1980 (1pl -tilla)"
+  },
+  {
+   "id": "hu_eniwenes",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_c_we",
+    "hur_ar2_ne",
+    "hur_c2_s"
+   ],
+   "surface": "eniweneš",
+   "citation": "Wegner 2007 (Suffixaufnahme)"
+  },
+  {
+   "id": "hu_enastines",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "en",
+   "suffixes": [
+    "hur_pl_ast",
+    "hur_ar_ni",
+    "hur_c_s"
+   ],
+   "surface": "enaštiniš",
+   "citation": "Wegner 2007 (enašt-i-ne-š)"
+  },
+  {
+   "id": "hu_tadiawwas",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tadi",
+   "suffixes": [
+    "hur_ps_wwas"
+   ],
+   "surface": "tadiwwaš",
+   "citation": "Laroche 1980 (1pl poss.)"
+  },
+  {
+   "id": "hu_tadozi",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_v_oz",
+    "hur_v_i"
+   ],
+   "surface": "tadozi",
+   "citation": "Wegner 2007 (past -ož- before the valence vowel)"
+  },
+  {
+   "id": "hu_tadastab",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_d_ast",
+    "hur_v_a",
+    "hur_ag_b"
+   ],
+   "surface": "tadastab",
+   "citation": "Laroche 1980 (intensive -ast-)"
+  },
+  {
+   "id": "hu_tadilla",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_v_i",
+    "hur_ag_lla"
+   ],
+   "surface": "tadilla",
+   "citation": "Laroche 1980 (3pl -lla)"
+  },
+  {
+   "id": "hu_tadinna",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tad",
+   "suffixes": [
+    "hur_v_i",
+    "hur_ag_nna"
+   ],
+   "surface": "tadinna",
+   "citation": "Wegner 2007 (3sg abs. clitic)"
+  },
+  {
+   "id": "hu_enise",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "eni",
+   "suffixes": [
+    "hur_c_se"
+   ],
+   "surface": "eniše",
+   "citation": "Wegner 2007 (ergative -še)"
+  },
+  {
+   "id": "hu_tadiman",
+   "language": "hurrian",
+   "prefixes": [],
+   "stem": "tadi",
+   "suffixes": [
+    "hur_en_man"
+   ],
+   "surface": "tadiman",
+   "citation": "EA 24 (-mān)"
+  }
+ ],
+ "counts": {
+  "total": 74,
+  "headline": 74,
+  "distinct_headline": 62,
+  "one_sign_headline": 40,
+  "priced": 0,
+  "sabaic_only": 0,
+  "prefix": 0,
+  "suffix": 74,
+  "ratio_distinct_headline_vs_cs": 1.113,
+  "ratio_one_sign_headline_vs_cs": 1.375
+ }
+}

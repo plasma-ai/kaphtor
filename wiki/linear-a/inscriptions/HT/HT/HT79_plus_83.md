@@ -79,7 +79,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Two fragments, GORILA I 127: .1 \]Ị · \*305̣\[ … \]KA · … DA-PA₃\[, .2 \]TU-PẠ-RỊ 1̣\[ … \]TU-\[·\] 3, .3 \]KU-NI\[ … \]ZỤ 3̣. Every word is broken. \]KU-NI\[ fits KU-NI-SU 'emmer', written at Haghia Triada on HT 10a (also from the Villa Magazine), HT 86a/b and HT 95a/b.
+Two fragments, GORILA I 127: .1 \]Ị · \*305̣\[ … \]KA · … DA-PA₃\[, .2 \]TU-PẠ-RỊ 1̣\[ … \]TU-\[·\] 3, .3 \]KU-NI\[ … \]ZỤ 3̣. Every word is broken. \]KU-NI\[ fits KU-NI-SU 'assembly', written at Haghia Triada on HT 10a (also from the Villa Magazine), HT 86a/b and HT 95a/b.
 
 ### Source
 

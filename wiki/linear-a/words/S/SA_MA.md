@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Commodity reading for SA-MA on allocation tablets. HT10a: follows KU-NI-SU (emmer wheat) with qty 4 in grain register. Akkadian šammu(m) is the primary cognate (sibilant merger š→s, geminate -mm- not written). Also classified as toponym in onomasticon (qty 35 on HT6b supports settlement-level distribution)—dual identity likely, with settlement named for local product. No Proto-Semitic \*š-m-m is reconstructed, and the toponym/commodity ambiguity persists.
+Commodity reading for SA-MA on allocation tablets. HT10a: the first entry under KU-NI-SU 'the assembly', with qty 4. Akkadian šammu(m) is the primary cognate (sibilant merger š→s, geminate -mm- not written). Also classified as toponym in onomasticon (qty 35 on HT6b supports settlement-level distribution)—dual identity likely, with settlement named for local product. No Proto-Semitic \*š-m-m is reconstructed, and the toponym/commodity ambiguity persists.
 
 ### Cognates
 

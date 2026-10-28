@@ -38,11 +38,11 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab ʿbd (SD 11; Sabaweb lemma 1400) | SD 11; Sabaweb lemma 1400 | gloss withheld |
 | Aramaic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
 | Punic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
-| Amorite | ʿabdum (Gelb AS 21, 15); ʿabdu (Buck 2019, 324) | Gelb AS 21 15; Buck 2019, 324 | gloss withheld |
+| Amorite | ʿabdum (Gelb AS 21, 15); ʿabdu (Buck 2019, 324); ʿabd: ab-dV=, ab-tV=, ab-de₄(TE)-il (Ur III) (Sanmartín GlOS 1, 64) | Gelb AS 21 15; Buck 2019, 324; Sanmartín GlOS 1, 64 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʿbd (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 50 | gloss withheld |
 | Mandaic Aramaic | ʾabd (T 235) | T 235 |  |
 | Judaic Aramaic | ʿabad (T 235) | T 235 |  |
-| Eblaitic | íb-tum, ì-ba-tum /ʕebdum/ (VE 253a, 1428; Krebernik 1983, 12) | VE 253a, 1428; Krebernik 1983, 12 | gloss withheld |
+| Eblaitic | íb-tum, ì-ba-tum /ʕebdum/ (VE 253a, 1428; Krebernik 1983, 12); Civil 2017, 104 reads them /ibṭu/ (= Sum. sag-kéš), cf. 3311 \*ɣbṭ; /ʿabd/: names ab-da₅, ib-du, ib-du-na (Sanmartín GlOS 1, 64) | VE 253a, 1428; Krebernik 1983, 12; Civil 2017; Sanmartín GlOS 1, 64 | gloss withheld |
 | Emar | a-bá-dì /ʿabādu/ (Pentiuc 2001, 21) | Pentiuc 2001 21 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

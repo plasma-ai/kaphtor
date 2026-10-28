@@ -63,4 +63,8 @@ di Mino
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
 
+### Note
+
+Egyptian Ri-ka-ta, Kom el-Hetan list of Amenhotep III, beside the names read as Amnisos and Knossos; Lyktos (Astour 1966, 317). The -ata ending matches the Egyptian form, a Semitic feminine in status absolutus, which Astour puts down to transmission through the Syrian coast; language unknown. See the lexicon entry.
+
 <!-- END kaphtor:record -->

@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: h 4/10 word types, ∅ 6/10, m 7/10; \*21F-TU-NE yields no root under h
+Evidence: As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11, so root shape does not decide. In context H gives \*21F-\*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a), \*21F-TU-NE hatune 'son-in-law' (HT 7b, HT 87, HT 117b), \*21F-JA-DU Ḥayya-Addu and TU-\*21F-RI-NA ṭuhārī-nā. HT Scribe 11 writes \*21F-TU-NE (HT 7b, a roster of men) and QE-TU-NE (HT 12, among goods), keeping \*21F apart from Q.
 
 ## Phonetic value
 
@@ -58,5 +58,6 @@ An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes Wes
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārī-nā | PROBABLE |
+| [[wiki/linear-a/words/U/U_NU_star21F\|U-NU-\*21F]] | Unuḫu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

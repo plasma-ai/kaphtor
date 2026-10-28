@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2611_to_be_good
 title: "*nʕm: 'to be good'"
-desc: "Proto-Semitic *nʕm, 'to be good': reflexes in 8 language(s)."
+desc: "Proto-Semitic *nʕm, 'to be good': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2611"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | nᵉʿīmā (HALOT 704) | HALOT 704 |  |
 | Amorite | nʿm: naʿimum, naʿmum, niʿimatum, niʿima (Gelb AS 21, 26); naʿmu, niʿmu, nuʿmu, niʿimu (Buck 2019, 329–330) | Gelb AS 21 26; Buck 2019, 329–330 | gloss withheld |
 | Arabic | nʕm 'be good, pleasant' (Lane 3035) | Lane 3035 |  |
+| Eblaitic | /naʿmūt/: names na-mu-ud, na-mu-du (Sanmartín GlOS 2, 70); /-naʿim/: name ì-lum-na-im (Krebernik 1988, 45) | Sanmartín GlOS 2, 70; Krebernik 1988, 45 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

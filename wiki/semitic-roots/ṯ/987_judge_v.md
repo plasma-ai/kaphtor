@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šāpaṭ; šōpēṭ; mišpāṭ |  | gloss withheld |
 | Punic | špṭ 'judge' | Anderson–Moser 2024 root ṯpṭ |  |
 | Epigraphic South Arabian | Sab. ṯpṭ (HALOT 1622) | HALOT 1622 |  |
-| Amorite | špṭ: šipṭum (Gelb AS 21, 33); ṯipṭi (Buck 2019, 334) | Gelb AS 21 33; Buck 2019, 334 | gloss withheld |
+| Amorite | špṭ: šipṭum (Gelb AS 21, 33); ṯipṭi (Buck 2019, 334); šapāṭu (ARM 26/1, 31: 11), šāpiṭu, šāpiṭūtu, šipṭu (Streck 2000, 117–118); ṯāpiṭ: ša-pí-ṭum, ša-pí-ṭim (Sanmartín GlOS 2, 327) | Gelb AS 21 33; Buck 2019, 334; Streck 2000 117–118; Sanmartín GlOS 2, 327 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

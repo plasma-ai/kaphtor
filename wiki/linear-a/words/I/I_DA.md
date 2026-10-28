@@ -46,7 +46,7 @@ Attested as a complete sign group on ritual stone vessels across 3 sites (Neroku
 
 | Language | Comparison |
 |---|---|
-| Hebrew | yad (יָד) 'hand, arm' (H3027) |
+| Hebrew | yad (יָד) 'hand, arm' (HALOT 386) |
 | Ugaritic | yd 'hand' |
 | Akkadian | idum 'arm, side; strength' (Old Assyrian idu) |
 | Phoenician | yd 'hand, arm' |

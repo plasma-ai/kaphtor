@@ -59,7 +59,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/R/RE_I_KE_broken_start\|&#93;-RE-I-KE]] |  | \[untranslated fragment\] |  | unread |
-| TA-NA-I-\*301-(TI/E) | tanaʿʿīnā-tī(?) / tanʿanē(?) | TI: May you (f.) answer; E: May she/you answer | CANDIDATE |  |
+| TA-NA-I-\*301-(TI/E) | tanaʿʿīnā-tī / tanʿanē | TI: May you (f.) answer; E: May she/you answer | CANDIDATE |  |
 | [[wiki/linear-a/words/E/etc_JA_TI_E_broken_start\|&#91;…&#93;-JA-(TI/E)]] |  | \[damaged; untranslated\] |  | unread |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA_ME\|JA-SA-SA-RA-ME]] | yaššaram | uprightly (accusative -am, √y-š-r) | CONFIRMED | CONFIRMED (lexicon) |
 

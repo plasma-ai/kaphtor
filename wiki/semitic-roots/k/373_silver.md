@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/373_silver
 title: "*kasp-: 'silver'"
-desc: "Proto-Semitic *kasp-, 'silver': reflexes in 8 language(s)."
+desc: "Proto-Semitic *kasp-, 'silver': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "373"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | kspʾ (T 147) | T 147 |  |
 | Judaic Aramaic | kaspaʾ (T 147) | T 147 |  |
 | Mandaic Aramaic | kaspaʾ (T 147) | T 147 |  |
+| Eblaitic | /kasp/: name bù-KÙ:BABBAR, bù-KÙ:BABBAR!(AN) (Sanmartín GlOS 1, 324) | Sanmartín GlOS 1, 324 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

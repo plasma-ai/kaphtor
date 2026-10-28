@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | ənč̣a (LGz. 57) | LGz. 57 |  |
 | Harari | inč̣i (LGz. 57) | LGz. 57 |  |
 | Gurage | äč̣č̣ä (LGz. 57) | LGz. 57 |  |
-| Eblaitic | ì-ṣú (Kogan 2011, 199; VE 411; Krebernik 1983, 16) | Kogan 2011 199; VE 411; Krebernik 1983, 16 |  |
+| Eblaitic | ì-ṣú (Kogan 2011, 199; VE 411; Krebernik 1983, 16); i-zu ba-ne(-um), ì-zu gu-PI /ʿiṣ́/ (Sanmartín GlOS 1, 92); /ʿiṣu ḳuwi/ (= GIŠ.URUDU.URUDU, VE 411; Kogan 2025, 7) | Kogan 2011 199; VE 411; Krebernik 1983, 16; Sanmartín GlOS 1, 92; Kogan 2025, 7 | gloss withheld |
 | East Ethiopic | Wol ənč̣e (Kogan 2015, ch. 7 §2.2 no. 90) | Kogan 2015 ch. 7 §2.2 no. 90 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

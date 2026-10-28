@@ -21,7 +21,7 @@ from tools.paths import ANE_DATA, CACHE, SHARE_ALIKE
 # Each portal client and the module attribute holding its query cache.
 PORTAL_CACHES = {
     "query_deaps": "CACHE", "query_elephantine": "CACHE", "query_rsti": "CACHE", "query_diconab": "CACHE",
-    "query_idai_gazetteer": "DEFAULT_CACHE",
+    "query_idai_gazetteer": "DEFAULT_CACHE", "query_hathitrust": "CACHE",
 }
 
 

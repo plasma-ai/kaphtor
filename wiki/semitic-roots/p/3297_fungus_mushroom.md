@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*pVṭr- |
 | Meaning | 'fungus, mushroom' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1818 |
 
 ## Reflexes
 
@@ -37,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PCS \*pVṭr- 'fungus' (EDA I 518 apud SEDonline 1818). Hbr. piṭrā is post-Biblical. Cf. 3204 \*kamʾ-at- 'mushroom, truffle'. Arabic fuṭr 'toadstool, fungus' (Lane 2416) is a loan from Syriac (Brock. 565); Lane's sources derive it from faṭara 'to cleave' (TA).
+PCS \*pVṭr- 'fungus' (SEDonline 1818); EDA I 518 (◊P0960) cites JBA piṭṭūrā, Syr. peṭṭortā, Arb. fuṭr- and Hbr. piṭrā for Akk. puṭūru &lt;a foodstuff&gt;, possibly a loanword from Aramaic. Hbr. piṭrā is post-Biblical. Cf. 3204 \*kamʾ-at- 'mushroom, truffle'. Arabic fuṭr 'toadstool, fungus' (Lane 2416) is a loan from Syriac (Brock. 565); Lane's sources derive it from faṭara 'to cleave' (TA).
 
 <!-- END kaphtor:record -->

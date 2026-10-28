@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/2286_horse
 title: "*sVwsVw- {} *cVwcVw-: 'horse'"
-desc: "Proto-Semitic *sVwsVw- {} *cVwcVw-, 'horse': reflexes in 10 language(s)."
+desc: "Proto-Semitic *sVwsVw- {} *cVwcVw-, 'horse': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2286"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | sūsǝyā 'horse', sūsǝtā 'mare' \[Brock. 464-5\], \[PS 2574\]. | Brock. 464-5; PS 2574 |  |
 | Aramaic | D.-Alla ssh \[HJ 795\] | HJ 795 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ss (Al-Jallad–Jaworska 123) | Al-Jallad–Jaworska 123 | gloss withheld |
+| Eblaitic | su-su-um /sūs(w)/ (Sanmartín GlOS 2, 210) | Sanmartín GlOS 2, 210 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

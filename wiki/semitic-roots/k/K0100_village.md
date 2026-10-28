@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0100_village
 title: "*kapār-: 'village'"
-desc: "Proto-Semitic *kapār-, 'village': reflexes in 8 language(s)."
+desc: "Proto-Semitic *kapār-, 'village': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0100"
@@ -37,6 +37,8 @@ updated: 2026-10-24T15:25:56Z
 | Ugaritic | kpr 'village' | Anderson–Moser 2024 root kpr |  |
 | Epigraphic South Arabian | kpr (HALOT 494) | HALOT 494 | gloss withheld |
 | Syrian Aramaic | kpar 'village, hamlet' (Payne Smith 223) | Payne Smith 223 |  |
+| Amorite | kapr (Sanmartín GlOS 1, 315) | Sanmartín GlOS 1, 315 | gloss withheld |
+| Eblaitic | ga-ba-ru₁₂ /kapr/ (Sanmartín GlOS 1, 315); ga-ba-ru₁₂ /kapru/ = Sum. é-dur (for é-dur₅) (VE 316; Civil 2017, 115) | Sanmartín GlOS 1, 315; VE 316; Civil 2017, 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

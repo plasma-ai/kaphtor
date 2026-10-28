@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/3329_old_man
 title: "*ḏiḳn-: 'old man'"
-desc: "Proto-Semitic *ḏiḳn-, 'old man': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḏiḳn-, 'old man': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3329"
@@ -31,7 +31,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Arabic | ḏiqn 'a decrepit, old and weak, or extremely aged, man' (Lane 967) | Lane 967 |  |
 | Hebrew | zāqēn (HALOT 278) | HALOT 278 | gloss withheld |
-| Amorite | ḏaqnum (Gelb AS 21, 18) | Gelb AS 21 18 | gloss withheld |
+| Amorite | ḏaqnum (Gelb AS 21, 18); ḏaqan: za-ka-nu-um, za-aq-ni-ia; daqan: da-qa-ni-ia; daqin: da-aq-ni-tum (Sanmartín GlOS 1, 163) | Gelb AS 21 18; Sanmartín GlOS 1, 163 | gloss withheld |
+| Eblaitic | /daqan/: name da-ga-na | Sanmartín GlOS 1, 163 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

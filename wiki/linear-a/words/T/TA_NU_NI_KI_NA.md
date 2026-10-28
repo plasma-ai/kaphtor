@@ -65,6 +65,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PL/PLZf/PLZf1\|PLZf1]] | tannî qînâ (?) | chant a dirge!(?) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/PL/PLZf/PLZf1\|PLZf1]] | tannî qînâ | chant a dirge!(?) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

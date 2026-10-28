@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Written KA-NA-TI in U-NA-RU-KA-NA-TI (PK Za 11). Linear B omits /s/ before a stop (pa-ka-na /phasgana/), and the Linear A/B place-name PA-I-TO /Phaistos/ supplies the closer Aegean control; KA-NA-TI may therefore spell \*/kanasti/, the 2fs suffix form of √k-n-s, with /s/ unrepresented before /t/ (Ventris and Chadwick 1956, 45, 80; Meissner 2024, 121–23); after RU /lū/ it reads 'may you gather!' (di Mino, Ya Diktu). Rival: a feminine collective \*/kanast/\*, with final I as a support vowel; the consonantal formation K-N-S-T is comparable to later Hebrew כְּנֶסֶת kəneset and Aramaic/Syriac knuštā 'assembly,' but the exact Bronze Age noun and its vocalization are unattested. Rival: phonetic -TĪ permits /qānastī/ 'I gathered' (Eccl 2:8).
+Written KA-NA-TI in U-NA-RU-KA-NA-TI (PK Za 11). Linear B omits /s/ before a stop (pa-ka-na /phasgana/), and the Linear A/B place-name PA-I-TO /Phaistos/ supplies the closer Aegean control; KA-NA-TI may therefore spell \*/kanasti/, the 2fs suffix form of √k-n-s, with /s/ unrepresented before /t/ (Ventris and Chadwick 1956, 45, 80); after RU /lū/ it reads 'may you gather!' (di Mino, Ya Diktu). Rival: a feminine collective \*/kanast/\*, with final I as a support vowel; the consonantal formation K-N-S-T is comparable to later Hebrew כְּנֶסֶת kəneset and Aramaic/Syriac knuštā 'assembly,' but the exact Bronze Age noun and its vocalization are unattested. Rival: phonetic -TĪ permits /qānastī/ 'I gathered' (Eccl 2:8).
 
 ### Cognates
 

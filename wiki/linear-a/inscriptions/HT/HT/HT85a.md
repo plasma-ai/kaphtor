@@ -79,7 +79,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | builder(s) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs | stall or storehouse (PS \*ʾabūs-), a standing unit like DA-RE | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | those of Acacia (a group of 24 men) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | personal name or roster label (5 personnel); compare the Ugaritic personal name kṯn | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | personal name, 5 personnel; Ugaritic Kušinu (kṯn) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | personal name; Hurrian tegi 'beautiful' (spelling of TE-KI) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3195_ear_of_corn
 title: "*šu(n)bul-at-: 'ear of corn'"
-desc: "Proto-Semitic *šu(n)bul-at-, 'ear of corn': reflexes in 9 language(s)."
+desc: "Proto-Semitic *šu(n)bul-at-, 'ear of corn': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3195"
@@ -38,6 +38,7 @@ updated: 2026-10-24T15:25:56Z
 | Geez | sabl (Kogan 2011, 201) | Kogan 2011 201 |  |
 | Mehri | səbəlēt (Kogan 2011, 201) | Kogan 2011 201 |  |
 | Soqotri | seboléh (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Eblaitic | sa-ba-tum /Sabalt/ (Sanmartín GlOS 2, 233) | Sanmartín GlOS 2, 233 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

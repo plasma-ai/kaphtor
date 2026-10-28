@@ -1,0 +1,134 @@
+{
+ "G1": {
+  "A_free_family": 0.8599019607843138,
+  "D_p95": 0.5,
+  "D_mean": 0.29198287769367975,
+  "r": 0,
+  "p": 9.999000099990002e-05,
+  "p_ci95": [
+   0.0,
+   0.0003688199146187622
+  ],
+  "pass": true
+ },
+ "G2": {
+  "windows_scored": 126,
+  "windows_unscorable": 2,
+  "n_semitic": 67,
+  "n_other": 59,
+  "auc_lm_delta": {
+   "auc": 0.9040920716112532,
+   "ci95": [
+    0.8091737155388471,
+    0.9746096451070692
+   ],
+   "pairs": 782,
+   "auc_unmatched": 0.9152542372881356
+  },
+  "auc_lm_A_cs": {
+   "auc": 0.9309462915601023,
+   "ci95": [
+    0.8435869292559108,
+    0.989150428250686
+   ],
+   "pairs": 782,
+   "auc_unmatched": 0.952314697697951
+  },
+  "linear_b_above_h1_band_median": [
+   {
+    "id": "B-NEG-mycenaean_greek-02",
+    "delta": 0.25,
+    "h1_band_median": 0.0
+   }
+  ],
+  "pass": false
+ },
+ "G3": {
+  "delta_family": 0.5788725490196078,
+  "D2_delta_p95": 0.18713064713064692,
+  "r": 0,
+  "p": 9.999000099990002e-05,
+  "p_ci95": [
+   0.0,
+   0.0003688199146187622
+  ],
+  "A_cs_family": 0.8898529411764706,
+  "H1_A_cs_median": 1.0,
+  "A_rivals_family": {
+   "luwian": 0.11014705882352942,
+   "hurrian": 0.31098039215686274,
+   "egyptian": 0.2627450980392157
+  },
+  "delta_above_D2_p95": true,
+  "A_cs_at_least_H1_median": false,
+  "A_cs_above_every_rival": true,
+  "D2x2": {
+   "r": 0,
+   "p": 9.999000099990002e-05
+  }
+ },
+ "class_means": {
+  "H1_semitic_prayer": {
+   "A_free": 0.5970869408369409,
+   "A_cs": 0.8342261904761905,
+   "A_nws_floor": 0.8342261904761905,
+   "A_luwian": 0.2619318181818182,
+   "A_hurrian": 0.2996212121212121,
+   "A_egyptian": 0.28572330447330446,
+   "delta": 0.26762265512265515,
+   "delta_floor": 0.26762265512265515,
+   "n": 44
+  },
+  "H2_egyptian": {
+   "A_free": 0.7587384259259259,
+   "A_cs": 0.3,
+   "A_nws_floor": 0.3,
+   "A_luwian": 0.008333333333333333,
+   "A_hurrian": 0.10891203703703704,
+   "A_egyptian": 0.3859953703703704,
+   "delta": -0.13391203703703705,
+   "delta_floor": -0.13391203703703705,
+   "n": 24
+  },
+  "H2_luwian": {
+   "A_free": 0.3961535783904205,
+   "A_cs": 0.1645224171539961,
+   "A_nws_floor": 0.1645224171539961,
+   "A_luwian": 0.623910470620997,
+   "A_hurrian": 0.36345725424672787,
+   "A_egyptian": 0.3292919799498747,
+   "delta": -0.5007414369256474,
+   "delta_floor": -0.5007414369256474,
+   "n": 19
+  },
+  "H3_semitic_nonprayer": {
+   "A_free": 0.6202380952380953,
+   "A_cs": 1.0,
+   "A_nws_floor": 1.0,
+   "A_luwian": 0.34666149068322977,
+   "A_hurrian": 0.5937629399585921,
+   "A_egyptian": 0.34666149068322977,
+   "delta": 0.35551242236024844,
+   "delta_floor": 0.35551242236024844,
+   "n": 23
+  },
+  "NEG_linear_b": {
+   "A_free": 0.7521329365079366,
+   "A_cs": 0.20560515873015872,
+   "A_nws_floor": 0.20560515873015872,
+   "A_luwian": 0.10491071428571429,
+   "A_hurrian": 0.6746031746031746,
+   "A_egyptian": 0.21845238095238095,
+   "delta": -0.4689980158730158,
+   "delta_floor": -0.4689980158730158,
+   "n": 16
+  }
+ },
+ "posterior": null,
+ "observed_run": "runs/20261009T194551Z-paradigm-observed-strict-base",
+ "null_runs": [
+  "runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913",
+  "runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914",
+  "runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915"
+ ]
+}

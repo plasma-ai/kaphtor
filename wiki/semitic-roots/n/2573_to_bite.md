@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | näkkäsa (LGz. 402) | LGz. 402 |  |
 | Harari | näxäsa (LGz. 402) | LGz. 402 |  |
 | Gurage | näkäsä (LGz. 402) | LGz. 402 |  |
-| Eblaitic | na-ša-gúm /naṯākum/ (VE 195, Kogan–Krebernik 2021b: 689 apud SEDonline 4; Krebernik 1983, 8) | VE 195, Kogan–Krebernik 2021b: 689; SEDonline 4; Krebernik 1983, 8 | gloss withheld |
+| Eblaitic | na-ša-gúm /naṯākum/ (VE 195, Kogan–Krebernik 2021b: 689 apud SEDonline 4; Krebernik 1983, 8); na-ša-gúm/gú-um wa pur-ra-zu-um a-ba-a/lu /n-ṯ-k/ (Sanmartín GlOS 2, 109) | VE 195, Kogan–Krebernik 2021b: 689; SEDonline 4; Krebernik 1983, 8; Sanmartín GlOS 2, 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

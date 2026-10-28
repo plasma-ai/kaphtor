@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3217_broth
 title: "*maraḳ-: 'broth'"
-desc: "Proto-Semitic *maraḳ-, 'broth': reflexes in 6 language(s)."
+desc: "Proto-Semitic *maraḳ-, 'broth': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3217"
@@ -35,6 +35,7 @@ updated: 2026-10-24T15:25:56Z
 | Mehri | mərēḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
 | Jibbali | mírɛ́ḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
 | Soqotri | maraḳ (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Eblaitic | mar-gúm, ma-la-gu-um /marq/ (Sanmartín GlOS 2, 48) | Sanmartín GlOS 2, 48 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

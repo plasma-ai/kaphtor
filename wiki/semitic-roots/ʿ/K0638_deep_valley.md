@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0638_deep_valley
 title: "*ʿVmVq-: 'deep', 'valley'"
-desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 18 language(s)."
+desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0638"
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ʿenqot (Biella 372) | Biella 372 |  |
 | Soqotri | ʿamiqoh (Biella 372) | Biella 372 |  |
 | Emar | am-qí, am-qú /ʿamqu/ (Pentiuc 2001, 31–32) | Pentiuc 2001 31–32 | gloss withheld |
+| Amorite | ḫamqu: ḫa-am-qa-am (Florilegium Marianum II, 38: 8) (Streck 2000, 93); ʿamq (Sanmartín GlOS 1, 79) | Streck 2000 93; Sanmartín GlOS 1, 79 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/y/K0458_base
 title: "*yVśVd-: 'base'"
-desc: "Proto-Semitic *yVśVd-, 'base': reflexes in 6 language(s)."
+desc: "Proto-Semitic *yVśVd-, 'base': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0458"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ysd (HALOT 417) | HALOT 417 |  |
 | Hebrew | yəsōd (HALOT 417) | HALOT 417 | gloss withheld |
 | Phoenician | ysd (Krahmalkov 211) | Krahmalkov 211 | gloss withheld |
+| Eblaitic | iš-dum /ʾiSD/ (Sanmartín GlOS 1, 45) | Sanmartín GlOS 1, 45 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

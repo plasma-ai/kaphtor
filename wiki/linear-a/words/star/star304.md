@@ -93,14 +93,14 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | pidru(?) | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | pidru(?) | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | pidru(?) | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | pidru(?) | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | pidru(?) | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | pidru(?) | oil/fat-register commodity: 3 | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | pidru(?) | oil/fat-register commodity; perhaps fat or suet | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | pidru(?) | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | pidru(?) | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | pidru | oil/fat-register commodity: 3 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | pidru | oil/fat-register commodity; perhaps fat or suet | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
 
 <!-- END kaphtor:record -->

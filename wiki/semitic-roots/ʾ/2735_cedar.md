@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʾarzā (LGz. 41; Payne Smith 28) | LGz. 41; Payne Smith 28 |  |
 | Mandaic Aramaic | arza (LGz. 41; Drower/Macuch 37a apud CAL) | LGz. 41; Macuch 37a; CAL |  |
 | Soqotri | ʾárz (Kogan 2011, 202) | Kogan 2011 202 | gloss withheld |
-| Eblaitic | ar-za-tum /ʔarzatum/ (VE 471 apud SEDonline 425; Krebernik 1983, 17) | VE 471; SEDonline 425; Krebernik 1983, 17 | gloss withheld |
+| Eblaitic | ar-za-tum /ʔarzatum/ (VE 471 apud SEDonline 425; Krebernik 1983, 17); ar-za /ʾarz/; ar-za-tum /ʾarzat/ (Sanmartín GlOS 1, 43–44) | VE 471; SEDonline 425; Krebernik 1983, 17; Sanmartín GlOS 1, 43–44 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -59,17 +59,17 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| \]NU | \[…\]nū? | fragmentary ending; possibly indeed, verily | CANDIDATE |  |
+| \]NU | \[…\]nū | fragmentary ending; possibly indeed, verily | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PA3_E\|PA₃-E]] | bē | in, at … (possible preposition bē) | CANDIDATE | CANDIDATE (lexicon) |
 | JA-DI-KI-TE-TE-\*307-PU₂-RE | yā Diqqite de dubure | O Dikte, she of the Dubur | PROBABLE |  |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | my wholeness (noun \*tumm- + 1cs -ī) | CANDIDATE | CANDIDATE (lexicon) |
 | JA-SA\[…\] | yaššara\[m\] | \[in\] righteousness | CANDIDATE |  |
 | U-NA-KA-NA-SI\[…\] | wannā kanāsī | so, behold my gathering | PROBABLE |  |
-| I-PI\[…\] | ʾippina\[=ma\]? | in the pres\[ence of …\] | CANDIDATE |  |
+| I-PI\[…\] | ʾippina\[=ma\] | in the pres\[ence of …\] | CANDIDATE |  |
 
 ### Notes
 
-Context: Fragmentary Palaikastro libation formula with DUBUR logogram and phonetic complement. Diplomatic sequence: \]NU · PA₃-E · JA-DI-KI-TE-TE-\*307-PU₂-RE · TU-ME-I / JA-SA\[ … \] U-NA-KA-NA-SI\[ … \] / I-PI\[ … \]. Valério 2007 restores JA-SA-\[SA-RA-ME\] \| U-NA-KA-NA-SI; the former database form JA-SA-U-NA-KA-NA-SI incorrectly presented the two groups as one continuous word. JA-SA-\[SA-RA-ME\] and I-PI-\[NA-MA\] remain formulaic restorations, not preserved text. The translation leaves the opening and closing damage visible. TU-ME-I is rendered 'my wholeness' to distinguish √t-m-m completeness from √y-š-r righteousness while retaining their ritual pairing.
+Context: Fragmentary Palaikastro libation formula with DUBUR logogram and phonetic complement. Diplomatic sequence: \]NU · PA₃-E · JA-DI-KI-TE-TE-\*307-PU₂-RE · TU-ME-I / JA-SA\[ … \] U-NA-KA-NA-SI\[ … \] / I-PI\[ … \]. Valério 2007 restores JA-SA-\[SA-RA-ME\] \| U-NA-KA-NA-SI, two groups, not one continuous word. JA-SA-\[SA-RA-ME\] and I-PI-\[NA-MA\] remain formulaic restorations, not preserved text. The translation leaves the opening and closing damage visible. TU-ME-I is rendered 'my wholeness' to distinguish √t-m-m completeness from √y-š-r righteousness while retaining their ritual pairing.
 
 ### Source
 

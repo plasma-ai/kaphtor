@@ -2,7 +2,8 @@
 
 The Sabaic dictionaries, Harding, the Kitāb al-Aṣnām, the Zohar and Pagan's Ebla names are not redistributable here,
 so neither ane_keys nor query_proper_names names them. The Egyptian foreign-name index is held too: its rows carry
-commentary from the editions they cite. No network.
+commentary from the editions they cite. So are Sanmartín's Glossary of Old Syrian, Pentiuc's West Semitic vocabulary
+at Emar, Streck's Amorite loanwords and Heimpel's Mari letters. No network.
 """
 import os
 import subprocess
@@ -15,7 +16,7 @@ sys.path.insert(0, str(ANE))
 
 from ane_keys import VIEW_NOTATION, expand, parse_query
 
-WITHHELD_VIEWS = ("sabaic", "harding", "asnam", "zohar", "ebla")
+WITHHELD_VIEWS = ("sabaic", "harding", "asnam", "zohar", "ebla", "glos")
 
 
 def run(*args: str) -> subprocess.CompletedProcess:

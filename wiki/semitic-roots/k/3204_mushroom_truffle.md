@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3204_mushroom_truffle
 title: "*kamʾ-at-: 'mushroom, truffle'"
-desc: "Proto-Semitic *kamʾ-at-, 'mushroom, truffle': reflexes in 3 language(s)."
+desc: "Proto-Semitic *kamʾ-at-, 'mushroom, truffle': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3204"
@@ -32,6 +32,8 @@ updated: 2026-10-24T15:25:56Z
 | Akkadian | kamʾatu (Kogan 2011, 202) | Kogan 2011 202 |  |
 | Arabic | kamʾat- (Kogan 2011, 202) | Kogan 2011 202 |  |
 | Judaic Aramaic | JPA kmhh (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Amorite | kamʾ(at) (Sanmartín GlOS 1, 307) | Sanmartín GlOS 1, 307 | gloss withheld |
+| Eblaitic | ga/kam₄-ma-a-tum /kamʾ(at)/; ga-me-ù /kamiʾ/ (Sanmartín GlOS 1, 307) | Sanmartín GlOS 1, 307 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

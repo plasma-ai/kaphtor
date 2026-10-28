@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | lišānu OB on \[CAD l 209\], \[AHw 556\] | CAD l 209; AHw 556 | gloss withheld |
 | Harsusi | lēšen \[JH 85\] | JH 85 |  |
 | Tigre | lǝs(s)an \[LH 36\], nǝssal \[ibid. 325\] | LH 36; LH 325 |  |
-| Eblaitic | li-sa-nu /lišānu(m)/ \[Kr 7-8; Bl E No. 66\] | Kr 7-8 |  |
+| Eblaitic | li-sa-nu /lišānu(m)/ \[Kr 7-8; Bl E No. 66\]; a-a-gú(-um) li-sa-nu /liSān/ (Sanmartín GlOS 2, 17) | Kr 7-8; Sanmartín GlOS 2, 17 | gloss withheld |
 | Mandaic Aramaic | lišana \[DM 237\] | DM 237 |  |
 | Ugaritic | lšn \[DULAT 501\]; /lašānu/ (UVST 143) | DULAT 501; UVST 143 |  |
 | Geez | lǝssan \[LGz 318\]. | LGz 318 |  |

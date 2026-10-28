@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | yuʔyuʔ- 'merlin (bird of prey)' \[BK 2 1621\], \[LA I 202\]. | BK 2 1621; LA I 202 |  |
 | Akkadian | a-IA-ú MUS̆EN = a-a-\[ú\] \[CAD a1 236\] | CAD a1 236 | gloss withheld |
-| Eblaitic | a-a-tum = Sum. BURU4.MUS̆EN \[MEE 4 1370', 049\]. | MEE 4 1370', 049 |  |
+| Eblaitic | a-a-tum = Sum. BURU4.MUS̆EN \[MEE 4 1370', 049\].; a-a-ti-mi, a-a-ti-mu, a-a-tum /ʾayyat/ (Sanmartín GlOS 1, 60) | MEE 4 1370', 049; Sanmartín GlOS 1, 60 | gloss withheld |
 | Hebrew | ʔayyā (HALOT 39), pB. \[Ja. 1707\] | HALOT 39; Ja. 1707 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

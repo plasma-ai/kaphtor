@@ -38,7 +38,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-VIR establishes the human referent, and the quantified occurrences establish a personnel category. Three palaeographic variants (a/b/c) occur in comparable list contexts. No phonetic complement identifies \*313. The former RĀQIḪŪ 'perfumers/aromatic workers' expansion relied on commodity co-occurrence and remains an archived conjecture, not a reading; CYP and other aromatics are not exclusive to these tablets, and on HT89 CYP occurs only after the personnel total in a separate section.
+VIR establishes the human referent, and the quantified occurrences establish a personnel category. Three palaeographic variants (a/b/c) occur in comparable list contexts. No phonetic complement identifies \*313. A RĀQIḪŪ 'perfumers/aromatic workers' expansion rests on commodity co-occurrence and is not a reading; CYP and other aromatics are not exclusive to these tablets, and on HT89 CYP occurs only after the personnel total in a separate section.
 
 ### Cognates
 

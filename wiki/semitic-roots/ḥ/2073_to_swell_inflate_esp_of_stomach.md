@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2073_to_swell_inflate_esp_of_stomach
 title: "*ḥbṭ: 'to swell, inflate (esp. of stomach)'"
-desc: "Proto-Semitic *ḥbṭ, 'to swell, inflate (esp. of stomach)': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ḥbṭ, 'to swell, inflate (esp. of stomach)': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2073"
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḥabäṭä 'to swell up' \[Bass 53\] | Bass 53 |  |
 | Argobba | habbäṭa, həbbač̣ (SED I 288) | SED I 288 | gloss withheld |
 | Harari | ḥabäṭa (SED I 288) | SED I 288 |  |
+| Eblaitic | i-ba-tum /ḥ-b-ṭ/ (Sanmartín GlOS 1, 230) | Sanmartín GlOS 1, 230 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

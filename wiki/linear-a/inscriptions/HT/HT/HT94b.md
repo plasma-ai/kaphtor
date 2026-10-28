@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["KE-KI-RU", "KI-RO", "KU-RO", "PA-TA-NE", "SA-RU", "TU-MA"]
+words: ["KE-KI-RU", "KI-RO", "KU-RO", "PA-TA-NE", "SA-RU", "TA-DI", "TU-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -70,16 +70,16 @@ Unicode (Linear A block):
 
 **no confidence given**, complete (status: complete).
 
-> Owed: Tūma 1, Patne 1, DE-DI 1, Kakkaru 1, šarru 1. Total: 5. \[Section 2:\] RA-\[?\]-DE-ME-TE (unread) 1, \*21F-TU-\[?\] (unread) 1.
+> Owed: Tūma 1, Patne 1, Dedī 1, Kakkaru 1, šarru 1. Total: 5. \[Section 2:\] RA-\[?\]-DE-ME-TE (unread) 1, \*21F-TU-\[?\] (unread) 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu(?) | owed (transaction header) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed (transaction header) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | Tūma | PN (twin, √t-ʾ-m) | CANDIDATE | CANDIDATE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | PN, 'Viper' (rival Ptah-theophoric) | CANDIDATE | CANDIDATE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
-| [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | DE-DI | PN (unresolved) | SPECULATIVE | unread |
+| [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | PN, 'my beloved' (√d-w-d) | SPECULATIVE |  |
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kakkaru | personal name, 'Disk, Round loaf'; rival a title | SPECULATIVE | SPECULATIVE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
@@ -99,10 +99,10 @@ Context: Debt register—KI-RO header with 5 one-unit entries, names or titles, 
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_TA_NE|PA-TA-NE]], [[wiki/linear-a/words/S/SA_RU|SA-RU]], [[wiki/linear-a/words/T/TU_MA|TU-MA]].
+[[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_TA_NE|PA-TA-NE]], [[wiki/linear-a/words/S/SA_RU|SA-RU]], [[wiki/linear-a/words/T/TA_DI|TA-DI]], [[wiki/linear-a/words/T/TU_MA|TU-MA]].
 
 ## Corpus note
 
-GORILA I 153 line .5: \*86 · RA-\[·\]-DẸ-ME-TE 1, one word with a sign lost after RA and DE dotted; the former divider was the lacuna. The facsimile (three crossbars), the transcription and the index end the word in TE, as does SigLA; GORILA's note offers RA-RỊ-DẸ-ME-PA. Line .6: \*21F-TU-\[·\] 1\[, a sign lost after TU, not a divider, and a trace after the numeral; the note offers \*21F-TU-NẸ.
+GORILA I 153 line .5: \*86 · RA-\[·\]-DẸ-ME-TE 1, one word with a sign lost after RA and DE dotted. The facsimile (three crossbars), the transcription and the index end the word in TE, as does SigLA; GORILA's note offers RA-RỊ-DẸ-ME-PA. Line .6: \*21F-TU-\[·\] 1\[, a sign lost after TU, not a divider, and a trace after the numeral; the note offers \*21F-TU-NẸ.
 
 <!-- END kaphtor:record -->

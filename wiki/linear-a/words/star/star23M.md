@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-7 tokens across 6 tablets at 3 sites (HT 4×, KH 2×, GOW 1×). \|\| PS RECONSTRUCTION: \*muhr- (Starling #2243) / \*mVrVʔ- (#2245). Akk mūru 'foal (donkey or horse); calf', from OAkk on (CAD M2 229–30; eBL mūru I 'young animal; young bull; foal'). Middle Assyrian ledgers write it with the ox determinative, {gu₄}mu-ru{nita₂} 'young bull' (MARV 2 6), and count it by head: 67 mu-ru ša MU '67 calves, yearlings' (KAJ 289:11). mīru A 'young bull' (SB, CAD M2 109; eBL mīru I 'breeding bull'). Ug mru (DLU 288, √mrʔ Hip. 'to fatten'). Heb מְרִיא mǝrīʾ 'fatted steer' (1 Kgs 1:9, Amos 5:22). MU = /mu/ spells mūru's /ū/; the calf sense runs through Middle and Neo-Assyrian, so the Cretan form needs no early equine/bovine split \|\| Alternative: \*ʾalpu 'cattle' (PS \*ʾalp-, Starling #2113) if purely pictographic rather than syllabic-abbreviation
+7 tokens across 6 tablets at 3 sites (HT 4×, KH 2×, GOW 1×). \|\| PS RECONSTRUCTION: \*muhr- (Starling #2243) / \*mVrVʔ- (#2245). Akk mūru 'foal (donkey or horse); calf', from OAkk on (CAD M2 229–30; eBL mūru I 'young animal; young bull; foal'). Middle Assyrian ledgers write it with the ox determinative, {gu₄}mu-ru{nita₂} 'young bull' (MARV 2 6), and count it by head: 67 mu-ru ša MU '67 calves, yearlings' (KAJ 289:11). mīru A 'young bull' (SB, CAD M2 109; eBL mīru I 'breeding bull'). Ug mrủ 'fattened, fatling' (DULAT 563). Heb מְרִיא mǝrīʾ 'fatted steer' (1 Kgs 1:9, Amos 5:22). MU = /mu/ spells mūru's /ū/; the calf sense runs through Middle and Neo-Assyrian, so the Cretan form needs no early equine/bovine split \|\| Alternative: \*ʾalpu 'cattle' (PS \*ʾalp-, Starling #2113) if purely pictographic rather than syllabic-abbreviation
 
 ### Source
 

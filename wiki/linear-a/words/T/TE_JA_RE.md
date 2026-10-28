@@ -47,7 +47,7 @@ HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each, KU
 | Language | Comparison |
 |---|---|
 | Hebrew | šôr (שׁוֹר) "bull, ox" (BDB 1004); from PS \*ṯawr- via ṯ→š |
-| Ugaritic | ṯr "bull" (DUL 907); epithet of El (ṯr ʾil) |
+| Ugaritic | ṯr "bull" (DULAT 916); epithet of El (ṯr ʾil) |
 | Akkadian | šūru "bull" (CAD Š/III 385) |
 | Arabic | ṯawr "bull" (Lane) |
 

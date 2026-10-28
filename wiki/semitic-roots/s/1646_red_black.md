@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | saḥm-; ʾasḥam- (Kogan 2011, 199) | Kogan 2011 199 | gloss withheld |
+| Arabic | saḥm-; ʾasḥam- (Kogan 2011, 199); saḥima; ʾasḥamu (Lane 1321) | Kogan 2011 199; Lane 1321 | gloss withheld |
 | Akkadian | sāmu |  |  |
 | Syrian Aramaic | šḥāmā (Kogan 2011, 199) | Kogan 2011 199 | gloss withheld |
 | Jibbali | šḥamúm (Kogan 2011, 199) | Kogan 2011 199 | gloss withheld |

@@ -40,11 +40,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-OLE ideogram + MI complement (19 att., Haghia Triada + Tylissos). Northwest Semitic √m-š-ḥ 'anoint' is attested in Ugaritic mšḥ (DUL 585) and Hebrew māšaḥ. Biblical cult inventories repeatedly use שֶׁמֶן הַמִּשְׁחָה šemen ham-mišḥā 'the anointing oil' (Exod 25:6; 29:7; 31:11); Exod 30:25, 31 has שֶׁמֶן מִשְׁחַת קֹדֶשׁ šemen mišḥat qōdeš 'holy anointing oil.' This supplies a precise commodity-plus-MI structural parallel. Akkadian provides only a semantic control—pašāšum 'anoint' with šamnum 'oil' (Huehnergard 1997, §5.5)—not an m-š-ḥ cognate. MI may therefore be a phonetic complement for mišḥ-, but does not prove the reading. OLE+MI co-occurs with OLE+U and OLE+KI on allocation tablets (HT42+59, HT91, TY3a) and appears with PA as PA-OLE+MI (TY3b). Confidence remains CANDIDATE.
+OLE ideogram + MI complement (19 att., Haghia Triada + Tylissos). Northwest Semitic √m-š-ḥ 'anoint' is attested in Ugaritic mšḥ (DULAT 582) and Hebrew māšaḥ. Biblical cult inventories repeatedly use שֶׁמֶן הַמִּשְׁחָה šemen ham-mišḥā 'the anointing oil' (Exod 25:6; 29:7; 31:11); Exod 30:25, 31 has שֶׁמֶן מִשְׁחַת קֹדֶשׁ šemen mišḥat qōdeš 'holy anointing oil.' This supplies a precise commodity-plus-MI structural parallel. Akkadian provides only a semantic control—pašāšum 'anoint' with šamnum 'oil' (Huehnergard 1997, §5.5)—not an m-š-ḥ cognate. MI may therefore be a phonetic complement for mišḥ-, but does not prove the reading. OLE+MI co-occurs with OLE+U and OLE+KI on allocation tablets (HT42+59, HT91, TY3a) and appears with PA as PA-OLE+MI (TY3b). Confidence remains CANDIDATE.
 
 ### Source
 
-Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DUL 585; Huehnergard 1997, §5.5; corpus distribution
+Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; Huehnergard 1997, §5.5; corpus distribution
 
 ## Attestations
 
@@ -72,7 +72,7 @@ Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DUL 585; Huehnergard 1997, §5.
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | mišḥā | anointing oil | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šamnu mišḥā | anointing oil (sacred/ceremonial grade). 2 units | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | mišḥā | oil for anointing, sacred oil |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | mišḥā? | oil subtype; perhaps anointing or ceremonial oil |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | mišḥā | oil subtype; perhaps anointing or ceremonial oil |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | mišḥā | anointing oil | CANDIDATE |
 
 <!-- END kaphtor:record -->

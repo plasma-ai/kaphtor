@@ -56,6 +56,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | buṭnu šamni(?) | Pistacia/terebinth oil or related processed product(?) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | buṭnu šamni | Pistacia/terebinth oil or related processed product(?) | CANDIDATE |
 
 <!-- END kaphtor:record -->

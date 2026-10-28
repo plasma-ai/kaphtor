@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/D/DA_U_star49
 title: "DA-U-*49"
-desc: "Onomasticon personal name, no reading."
+desc: "dawmi: the enduring one (personal name). Onomasticon personal name; lexicon entry DA-U-MI."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "DA-U-*49"
 datasets: ["onomasticon"]
 attestations: ["HT120"]
+reading: "dawmi"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -37,6 +38,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | dawmi |
+| Meaning | the enduring one (personal name) |
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
@@ -44,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Lexicon entry | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] |
 
 ### Note
 

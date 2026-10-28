@@ -31,13 +31,15 @@ updated: 2026-10-22T18:14:10Z
 
 [[docs/corpora/egyptian-corpora|egyptian-corpora]]: Acquisition routes, file formats and gaps for the Egyptian texts layer, built on the open ORAEC/TLA corpus, with the texts that name Keftiu or the Levant.
 
+[[docs/corpora/hathitrust-search-only-volumes|hathitrust-search-only-volumes]]: Find the pages of an in-copyright HathiTrust book that hold a word, through the HTRC Extracted Features file of its scan.
+
 [[docs/corpora/proper-name-and-place-authorities|proper-name-and-place-authorities]]: ORACC QPN, PNM v6, Prosopographia Memphitica, the TLA v18 names, Gauthier's DNG, the Kassite name concordances, the Egyptian foreign-name witnesses and the place authorities, and why a place match identifies a place but never counts as linguistic evidence.
 
 [[docs/corpora/query-notation|query-notation]]: How a typed root or form is read and spelled in each view's own transliteration, and how a matched row reports the basis of its match.
 
 [[docs/corpora/sefaria_api|sefaria_api]]: How to query Sefaria's public API for Hebrew Bible passages, Targums, commentaries, links and search, one passage at a time.
 
-[[docs/corpora/single-query-portals|single-query-portals]]: The one-query clients for DiCoNab, DEAPS, Elephantine and RSTI, what each request may fetch, and what the parsers keep.
+[[docs/corpora/single-query-portals|single-query-portals]]: The one-query clients for DiCoNab, DEAPS, Elephantine, RSTI and HathiTrust, what each request may fetch, and what the parsers keep.
 
 [[docs/corpora/south-semitic-corpora|south-semitic-corpora]]: The Geʿez, Ancient South Arabian and Modern South Arabian layers, kept as separate comparative evidence, with their scope and how to search them.
 

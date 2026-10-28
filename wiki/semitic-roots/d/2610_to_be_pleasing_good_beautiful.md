@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2610_to_be_pleasing_good_beautiful
 title: "*dmḳ: 'to be pleasing, good, beautiful'"
-desc: "Proto-Semitic *dmḳ, 'to be pleasing, good, beautiful': reflexes in 10 language(s)."
+desc: "Proto-Semitic *dmḳ, 'to be pleasing, good, beautiful': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2610"
@@ -39,7 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | dämmäqa (LGz. 135) | LGz. 135 | gloss withheld |
 | Gurage | dämäqä (LGz. 135) | LGz. 135 |  |
 | Harari | dämäqa (LGz. 135) | LGz. 135 | gloss withheld |
-| Amorite | dmq: damqum, damqatum, damiqtum, damqa (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Amorite | dmq: damqum, damqatum, damiqtum, damqa (Gelb AS 21, 17); damqa(t): an-nu-dam-qa, ᵈiš-ḫa-ra-dam-qa, EŠ₄.DAR-dam-qa (Sanmartín GlOS 1, 147) | Gelb AS 21 17; Sanmartín GlOS 1, 147 | gloss withheld |
+| Eblaitic | /dam(a)q/: name da-ma-ga-an (Sanmartín GlOS 1, 147) | Sanmartín GlOS 1, 147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,0 +1,192 @@
+"""Consonantal skeleton extraction from Linear A transliterations.
+
+Linear A is written in a CV (consonant-vowel) syllabary projected from Linear B.
+Each sign encodes one syllable. To compare with Semitic roots (which are consonantal),
+strip the vowels to produce a "skeleton": KI-RE-TA -> k-r-t.
+"""
+from __future__ import annotations
+
+from pathlib import Path
+
+# (consonant | None, vowel) — None consonant means pure vowel sign
+SignDecomposition = tuple[str | None, str]
+
+SIGN_DECOMPOSITION: dict[str, SignDecomposition] = {
+    # Pure vowels
+    "A": (None, "a"), "E": (None, "e"), "I": (None, "i"),
+    "O": (None, "o"), "U": (None, "u"),
+    # Labials
+    "PA": ("p", "a"), "PE": ("p", "e"), "PI": ("p", "i"),
+    "PO": ("p", "o"), "PU": ("p", "u"),
+    # Dentals (voiceless)
+    "TA": ("t", "a"), "TE": ("t", "e"), "TI": ("t", "i"),
+    "TO": ("t", "o"), "TU": ("t", "u"),
+    # Dentals (voiced)
+    "DA": ("d", "a"), "DE": ("d", "e"), "DI": ("d", "i"),
+    "DO": ("d", "o"), "DU": ("d", "u"),
+    # Velars
+    "KA": ("k", "a"), "KE": ("k", "e"), "KI": ("k", "i"),
+    "KO": ("k", "o"), "KU": ("k", "u"),
+    # Sibilants
+    "SA": ("s", "a"), "SE": ("s", "e"), "SI": ("s", "i"),
+    "SO": ("s", "o"), "SU": ("s", "u"),
+    "ZA": ("z", "a"), "ZE": ("z", "e"),
+    # Liquids
+    "RA": ("r", "a"), "RE": ("r", "e"), "RI": ("r", "i"),
+    "RO": ("r", "o"), "RU": ("r", "u"),
+    # Nasals
+    "MA": ("m", "a"), "ME": ("m", "e"), "MI": ("m", "i"),
+    "MO": ("m", "o"), "MU": ("m", "u"),
+    "NA": ("n", "a"), "NE": ("n", "e"), "NI": ("n", "i"),
+    "NO": ("n", "o"), "NU": ("n", "u"),
+    # Uvulars / emphatics
+    "QA": ("q", "a"), "QE": ("q", "e"),
+    # Semivowels
+    "JA": ("y", "a"), "JE": ("y", "e"),
+    "WA": ("w", "a"), "WE": ("w", "e"), "WI": ("w", "i"),
+    # Known polyphonous: RA2 = /la/ (distinct from RA = /ra/)
+    "RA2": ("l", "a"),
+    # Campaign-resolved Semitic innovation signs
+    # VC signs (AU, *310) stored as CV for skeleton extraction — vowel order
+    # is inverted vs phonology, but consonant output is correct for root matching.
+    "PA3": ("b", "a"),     # PA₃ = /ba/ (voiced bilabial)
+    "JU": ("l", "u"),      # /lu/ (lateral liquid)
+    "ZU": ("ṯ", "u"),      # /ṯu/ (voiceless interdental)
+    "AU": ("w", "a"),      # /aw/ (VC diphthong, stored as CV)
+    "*306": ("ʿ", "a"),    # ʿayin (voiced pharyngeal)
+    "*314": ("ḥ", "a"),    # ḥet (voiceless pharyngeal)
+    "*21F": ("h", "a"),    # he (voiceless laryngeal)
+    "*118": ("ṭ", "a"),    # emphatic dental
+    "*86": ("ṇ", "a"),     # emphatic nasal
+    "*34": ("q", "i"),     # QI
+    "*325": ("b", "u"),    # BU (voiced labial)
+    "*47": ("m", "o"),     # MO (glyph variant)
+    "*28B": ("y", "i"),    # JI (semivowel)
+    "*305": ("ḏ", "a"),    # PS *ḏ (voiced interdental) — synchronic /da/
+    "*310": ("n", "i"),    # /in/ (VC nasal coda, stored as CV)
+    # Logogram with rebus-derived phonetic value (√n-w-y)
+    "*301": ("n", "a"),    # NWY logogram, rebus /na/
+}
+
+
+_SUBSCRIPT_MAP = str.maketrans("₂₃₄₅", "2345")
+
+
+def _lookup_sign(sign: str) -> SignDecomposition | None:
+    """Look up a sign, falling back to base form for subscript variants.
+
+    PA₃ → PA3 (found directly). Unregistered variants fall back: KI2 → KI.
+    """
+    import re
+    # Normalize Unicode subscripts to ASCII digits first
+    upper = sign.upper().translate(_SUBSCRIPT_MAP)
+    decomp = SIGN_DECOMPOSITION.get(upper)
+    if decomp:
+        return decomp
+    # Strip trailing digits (subscript variants like PA3, KI2)
+    base = re.sub(r"\d+$", "", upper)
+    if base and base != upper:
+        return SIGN_DECOMPOSITION.get(base)
+    return None
+
+
+def extract_skeleton(transliteration: str) -> str:
+    """Extract consonantal skeleton from a transliteration.
+
+    Example: KI-RE-TA -> k-r-t, JA-SA-SA-RA-ME -> y-s-s-r-m
+    Handles subscript variants: KU-PA₃-NU -> k-b-n (PA₃ = /ba/)
+    """
+    syllables = transliteration.split("-")
+    consonants = []
+    for syl in syllables:
+        decomp = _lookup_sign(syl)
+        if decomp and decomp[0]:
+            consonants.append(decomp[0])
+    return "".join(consonants)
+
+
+def extract_full(transliteration: str) -> list[SignDecomposition]:
+    """Extract full CV decomposition (consonant, vowel) for each syllable."""
+    result = []
+    for syl in transliteration.split("-"):
+        decomp = _lookup_sign(syl)
+        if decomp:
+            result.append(decomp)
+    return result
+
+
+def validate_decomposition_coverage(corpus_signs: set[str]) -> list[str]:
+    """Return signs present in corpus but missing from SIGN_DECOMPOSITION."""
+    return sorted(corpus_signs - set(SIGN_DECOMPOSITION.keys()))
+
+
+def load_registry() -> dict:
+    """Load sign registry from data/sign-registry.json."""
+    import json
+    registry_path = Path(__file__).resolve().parent.parent / "data" / "sign-registry.json"
+    if not registry_path.exists():
+        return {}
+    data = json.loads(registry_path.read_text(encoding="utf-8"))
+    by_name: dict[str, dict] = {}
+    for sign in data.get("signs", []):
+        name = sign.get("name", "").upper()
+        if name:
+            by_name[name] = sign
+    return by_name
+
+
+def extract_skeleton_polyphonic(
+    transliteration: str,
+    registry: dict | None = None,
+) -> list[tuple[str, list[str]]]:
+    """Return all possible skeletons considering polyphonic signs.
+
+    Primary skeleton first, then alternatives (max 8).
+    Each entry: (skeleton_string, [notes about which signs were read differently])
+    """
+    if registry is None:
+        registry = load_registry()
+
+    syllables = transliteration.split("-")
+    primary_consonants: list[str] = []
+    alt_positions: list[tuple[int, str, str, list[str]]] = []
+
+    for i, syl in enumerate(syllables):
+        decomp = _lookup_sign(syl)
+        if decomp and decomp[0]:
+            primary_consonants.append(decomp[0])
+
+            upper = syl.upper().translate(_SUBSCRIPT_MAP)
+            import re
+            base = re.sub(r"\d+$", "", upper)
+            sign_data = registry.get(upper) or registry.get(base)
+            if sign_data:
+                readings = sign_data.get("readings", [])
+                for r in readings:
+                    if not r.get("is_primary") and r.get("consonant"):
+                        alt_c = r["consonant"]
+                        alt_positions.append((
+                            len(primary_consonants) - 1,
+                            alt_c,
+                            f"{syl} read as /{r['value']}/ instead of primary",
+                            r.get("implications", []),
+                        ))
+
+    primary = "".join(primary_consonants)
+    results: list[tuple[str, list[str]]] = [(primary, [])]
+    seen_skeletons: set[str] = {primary}
+
+    for pos, alt_c, note, implications in alt_positions:
+        if len(results) >= 8:
+            break
+        variant = list(primary_consonants)
+        variant[pos] = alt_c
+        variant_str = "".join(variant)
+        notes = [note] + implications
+        if variant_str not in seen_skeletons:
+            results.append((variant_str, notes))
+            seen_skeletons.add(variant_str)
+        elif variant_str == primary and notes:
+            results[0] = (primary, results[0][1] + notes)
+
+    return results

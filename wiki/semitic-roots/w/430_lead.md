@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʾaubel (HALOT 383) | HALOT 383 |  |
 | Amorite | \*ybl (HALOT 383); yabal, yîbal (Buck 2019, 334) | HALOT 383; Buck 2019, 334 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic tbl (Al-Jallad–Jaworska 131) | Al-Jallad–Jaworska 131 | gloss withheld |
-| Eblaitic | wa-ba-lu /wabālu(m)/ (VE 979; Krebernik 1983, 35) | VE 979; Krebernik 1983, 35 | gloss withheld |
+| Eblaitic | wa-ba-lu /wabālu(m)/ (VE 979; Krebernik 1983, 35); /tawbil/ &gt; /tūbil/ (Akk. tūbil), 3rd f./2nd m.: names da-bíl-da-mu, du-bíl-da-mu, du-bíl-ma-lik (Krebernik 1988, 53–55) | VE 979; Krebernik 1983, 35; Krebernik 1988, 53–55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

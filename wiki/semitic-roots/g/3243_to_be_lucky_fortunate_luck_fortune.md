@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3243_to_be_lucky_fortunate_luck_fortune
 title: "*gd: 'to be lucky, fortunate; luck, fortune'"
-desc: "Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 10 language(s)."
+desc: "Proto-Semitic *gd, 'to be lucky, fortunate; luck, fortune': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3243"
@@ -39,6 +39,8 @@ updated: 2026-10-25T05:11:48Z
 | Tigrinya | gäddi (TED 2356 apud SEDonline 40) | TED 2356; SEDonline 40 | gloss withheld |
 | Amharic | gädd (AED 2034 apud SEDonline 40) | AED 2034; SEDonline 40 | gloss withheld |
 | Emar | ga-ad-dá, ga₁₄-ad-da, gad-dá /gaddu/ (Pentiuc 2001, 50) | Pentiuc 2001 50 | gloss withheld |
+| Amorite | g-d-d, g-y-d: ia-gi-id-li-im; gadd, gayd, gād: ga-da-nim; gidd, giyd, gīd: gi-da-an; gudd, guwd, gūd: gu-ú-da (Sanmartín GlOS 1, 175) | Sanmartín GlOS 1, 175 | gloss withheld |
+| Eblaitic | /g-d-d, g-y-d/: name i-gi-da-ga-mu; /gadd, gayd, gād/: names ga-da(-), ga-du-um, ga-ti; /gidd, giyd, gīd/: names gi-dum, gi-da-na-im, ki-da-NI; /gudd, guwd, gūd/: names gú-du, gú-da, gu₄-du-nu; /gadduwat, gayduwat, gāduwat/: names ga-du-wa-ad, ga-du-wa-du (Sanmartín GlOS 1, 175) | Sanmartín GlOS 1, 175 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

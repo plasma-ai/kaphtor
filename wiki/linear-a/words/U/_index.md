@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U
 desc: "Words whose first sign begins with U."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:37Z
+updated: 2026-10-29T21:45:52Z
 ---
 
 # wiki/linear-a/words/U
@@ -37,7 +37,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI|U_NA_RU_KA_NA_TI]]: wannā lū kanasti / winnā lū kanasti: so, behold, may you gather!. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/U/U_NU_star21F|U_NU_star21F]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/U/U_NU_star21F|U_NU_star21F]]: Unuḫu: (the men of) Unuḫu, a town named in a text from Ugarit (RS 17.251), location unknown. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/U/U_QE_TI|U_QE_TI]]: wōqedt: the burning one (f.); name or epithet. Lexicon, SPECULATIVE (tier 1).
 
@@ -55,7 +55,7 @@ updated: 2026-10-25T05:42:37Z
 
 [[wiki/linear-a/words/U/U_TE|U_TE]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/U/U_TI|U_TI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/U/U_TI|U_TI]]: Utti: Utti (Hurrian personal name), stem utt-; rival the Anatolian name Utti. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/U/U_TI_NU|U_TI_NU]]: -u-tī-n(u): verbal ending: indicative -u + 2fs -tī + -n(u) 'us'. Lexicon, CANDIDATE (tier 2).
 

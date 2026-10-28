@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ʾnṯt (HALOT 93; Sabaweb lemma 1336) | HALOT 93; Sabaweb lemma 1336 | gloss withheld |
 | Tigrinya | ʾanəsti (Kogan 2011, 233) | Kogan 2011 233 | gloss withheld |
 | Gurage | SOD ənəst, ənšəttatä (Kogan 2011, 233) | Kogan 2011 233 | gloss withheld |
-| Amorite | ʾ-n-ṯ: taʾnīṯ- (George and Krebernik 2022, 126, 155) | George and Krebernik 2022 126, 155 | gloss withheld |
+| Amorite | ʾ-n-ṯ: taʾnīṯ- (George and Krebernik 2022, 126, 155); iššu (Streck 2000, 101); ʾiṯṯ: iš-šu (Sanmartín GlOS 1, 33) | George and Krebernik 2022 126, 155; Streck 2000 101; Sanmartín GlOS 1, 33 | gloss withheld |
 | Amharic | ənəst (Kogan 2015, ch. 1 §1.3 no. 99) | Kogan 2015 ch. 1 §1.3 no. 99 | gloss withheld |
 | East Ethiopic | SEL ZWY ənnəst, Wol ənəst (Kogan 2015, ch. 1 §1.3 no. 99) | Kogan 2015 ch. 1 §1.3 no. 99 | gloss withheld |
 | Harari | ənəsti (Kogan 2015, ch. 1 §1.3 no. 99) | Kogan 2015 ch. 1 §1.3 no. 99 | gloss withheld |

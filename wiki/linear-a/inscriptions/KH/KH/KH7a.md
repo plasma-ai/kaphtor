@@ -111,6 +111,6 @@ Three sections under E-NA-SI, I-JA-PA-ME · TA-TA and SE-\*305, each with \*313b
 
 ## Corpus note
 
-GORILA III 29: .1 \]NẸ-\[·\]-KI \*334 4, KI written small; the lost sign is not a divider; .2 CYP+D 1\[, .3 \]I CYP+E K, .10 \[ \]18; sup. mut. GORILA III 29: KU-\[·\]-KO-E across lines 4–5, one word with a sign lost; the former divider was the lacuna. The following numeral \[ \]18 may be 28 or 38.
+GORILA III 29: .1 \]NẸ-\[·\]-KI \*334 4, KI written small; the lost sign is not a divider; .2 CYP+D 1\[, .3 \]I CYP+E K, .10 \[ \]18; sup. mut. GORILA III 29: KU-\[·\]-KO-E across lines 4–5, one word with a sign lost. The following numeral \[ \]18 may be 28 or 38.
 
 <!-- END kaphtor:record -->

@@ -70,11 +70,11 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Emmer wheat: herbs 4 · ground (flour) · the estate 16½; the storehouse 4; pasture product 6; the storehouse 14; seed-grain 2½; Dardaʿ 8; corvée gang 3.
+> The assembly: herbs 4 · ground (flour) · the estate 16½; the storehouse 4; pasture product 6; the storehouse 14; seed-grain 2½; Dardaʿ 8; corvée gang 3.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunāšu | emmer wheat (heading) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | the assembly (heading); rival 'emmer' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | šamm- | herbs, aromatic plants, 4 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA\|PA]] |  | crushed, ground (flour) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household,16½ | CANDIDATE | CANDIDATE (lexicon) |
@@ -87,11 +87,11 @@ Unicode (Linear A block):
 
 ### Notes
 
-KU-NI-SU · heads the list; the entries total 58.
+KU-NI-SU · heads the list, which names no commodity; the entries total 58.
 
 ### Source
 
-- di Mino: ME-ZA
+- di Mino: KU-NI-SU, ME-ZA
 
 ## Lexicon words citing this document
 

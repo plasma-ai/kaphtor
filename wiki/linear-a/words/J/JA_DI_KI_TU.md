@@ -46,7 +46,7 @@ Peak sanctuary libation formula position 2. Syllabary spells DI-KI-TU (/diktu/),
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | dqt 'female goat, young she-goat' (DUL 280); theonym Diqatu attested in offering lists (KTU 1.148:3) |
+| Ugaritic | dqt 'female head of small cattle for sacrifice', a ewe or she-goat (Gordon UT §19.695, cited by Astour 1966, 283 n. 74); DN dqt, KTU 1.102:8 (Astour 1966, 283–84; DULAT 276) |
 | Hebrew | Not directly attested as theonym; cf. se'îrāh (שְׂעִירָה) 'she-goat' and se'îrîm (שְׂעִירִים) 'goat-demons' (Lev 17:7, 2 Chr 11:15) |
 | Akkadian | diqāru 'cooking pot' (unrelated); goat-deity pattern parallels Amurrite theophoric names |
 | Arabic | No direct reflex; goat-deity pattern preserved in Yazidi Melek Tawus traditions |

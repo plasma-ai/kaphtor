@@ -75,7 +75,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | — | standard oil (logogram) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šamnu kīnu | genuine oil (standard grade). 8 + 8 + ³⁄₄ units across three sections | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | \[ideogram\] | olive oil subtype KI |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | kīnu? | oil subtype; perhaps standard or genuine-grade oil |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | kīnu | oil subtype; perhaps standard or genuine-grade oil |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | — | standard oil (compound logogram) | CANDIDATE |
 
 <!-- END kaphtor:record -->

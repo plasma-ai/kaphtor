@@ -68,6 +68,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA III 166–67 line .4–5: A-TA-NA-\[·\] QI+SI 2̣, one word with its last sign lost and no divider after NA (note: "A-TA-NA-TE possible"); line .5: \[·\]-MA-JU \*21F 2. The former dividers were the lacunae. GORILA and SigLA (OVISf) read \*21F on .5 and .6.
+GORILA III 166–67 line .4–5: A-TA-NA-\[·\] QI+SI 2̣, one word with its last sign lost and no divider after NA (note: "A-TA-NA-TE possible"); line .5: \[·\]-MA-JU \*21F 2. GORILA and SigLA (OVISf) read \*21F on .5 and .6.
 
 <!-- END kaphtor:record -->

@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Proposed presentative hinna 'behold!' (Hebrew hinnēh/hēn; Ugaritic hn), the bare counterpart of U-NA = u=hinna. It is proposed in PKZa11 I-NA-JA-PA-QA and may occur in APZa2. Akkadian ina 'when, in' remains an alternative in suitable contexts. IOZa6 is excluded from the positive attestation list: its complete middle group is now preferred as ʿInatī ṯudī-šiqā, with initial hinna retained only as a rival segmentation.
+Proposed presentative hinna 'behold!' (Hebrew hinnēh/hēn; Ugaritic hn), the bare counterpart of U-NA = u=hinna. It is proposed in PKZa11 I-NA-JA-PA-QA and may occur in APZa2. Akkadian ina 'when, in' remains an alternative in suitable contexts. IOZa6 is not an attestation: its complete middle group reads ʿInatī ṯudī-šiqā, with initial hinna a rival segmentation.
 
 ### Cognates
 

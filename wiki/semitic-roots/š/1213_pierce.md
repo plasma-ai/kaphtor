@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1213_pierce
 title: "*šVḳVr-: 'pierce'"
-desc: "Proto-Semitic *šVḳVr-, 'pierce': reflexes in 5 language(s)."
+desc: "Proto-Semitic *šVḳVr-, 'pierce': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1213"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | säqʷärä |  |  |
 | Soqotri | śuqahar (LGz. 510) | LGz. 510 | gloss withheld |
 | Amharic | säqqʷärä (LGz. 510) | LGz. 510 |  |
+| Eblaitic | sa-ga-ru₁₂-um, si-ga-lum /S-q-r/ (Sanmartín GlOS 2, 245) | Sanmartín GlOS 2, 245 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

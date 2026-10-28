@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | napāšu (u/u) OA, OB on \[CAD n1 288\], \[AHw 736\]; napištu (napuštu, napaštu, napšatu) OAkk on \[CAD n1 296\], \[AHw 738\] | CAD n1 288; AHw 736; CAD n1 296; AHw 738 | gloss withheld |
 | Harsusi | nefesét \[JH 94\] | JH 94 | gloss withheld |
 | Tigre | näfsä, tǝnäffäsä \[LH 346\]; näfs \[LH 346\] | LH 346 | gloss withheld |
-| Eblaitic | nu-bù-uš-tum, nu-bù-uš-du-um /nupuštum/ (VE 1050, 1315; Krebernik 1983, 37); na-pu-uš-tu-um (HALOT 711, apud Pettinato) | VE 1050, 1315; Krebernik 1983, 37; HALOT 711 | gloss withheld |
+| Eblaitic | nu-bù-uš-tum, nu-bù-uš-du-um /nupuštum/ (VE 1050, 1315; Krebernik 1983, 37); na-pu-uš-tu-um (HALOT 711, apud Pettinato); /n-p-S/ 1: name en-bù-uš-li-im; /nap(a)S, nap(i)S/ 2: names nab-sa-su, na-bí-iš; /napiSat/ 2: name na-bí-sa-dum; nu-bù-uš-tum/du-um /nupuSt/ 2 (Sanmartín GlOS 2, 98–99) | VE 1050, 1315; Krebernik 1983, 37; HALOT 711; Sanmartín GlOS 2, 98–99 | gloss withheld |
 | Mandaic Aramaic | NPS̆ \[DM 304\]; napša \[ibid. 285\] | DM 304; DM 285 | gloss withheld |
 | Ugaritic | npš; \[Aist 211\] (DULAT 627) | Aist 211; DULAT 627 | gloss withheld |
 | East Ethiopic | SEL WOL ZWY näfäsä \[LGur 452\]; SEL WOL näfs, ZWY näfis \[LGur 452\] | LGur 452 | gloss withheld |
@@ -52,7 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | SAMAL OLD OFF NAB PLM HTR npš \[HJ 744-9\] | HJ 744-9 | gloss withheld |
 | Tigrinya | näfäsä 'to blow wind; evaporate liquor etc.' \[Bass 468\]; näfsi 'soul' \[Bass 468\] | Bass 468 |  |
 | Argobba | tänäffäsa (LGz. 577) | LGz. 577 | gloss withheld |
-| Amorite | napśum (Gelb AS 21, 26); napšu, napišu (Buck 2019, 330) | Gelb AS 21 26; Buck 2019, 330 | gloss withheld |
+| Amorite | napśum (Gelb AS 21, 26); napšu, napišu (Buck 2019, 330); nap(a)S, nap(i)S 2: na-pí-zu-um, na-ap-si-i-la, na-ap-sa/ša-nu-um (Ur III) (Sanmartín GlOS 2, 98) | Gelb AS 21 26; Buck 2019, 330; Sanmartín GlOS 2, 98 | gloss withheld |
 | Punic | npš, nʾpš (T 218) | T 218 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic nfs (Al-Jallad–Jaworska 103) | Al-Jallad–Jaworska 103 | gloss withheld |
 | Modern Arabic | Yem. nēfis (Biella 309) | Biella 309 |  |

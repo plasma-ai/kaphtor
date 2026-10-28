@@ -5,7 +5,7 @@ desc: The confidence tiers, the tests a reading passes to rise a tier, and what 
 tags: [docs, linear-a]
 authors: "di Mino"
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-10-29T12:00:00Z
 ---
 
 # Confidence
@@ -30,8 +30,22 @@ given, or as speculative when it is held only in its sign record.
 
 ## The tests
 
-*Not yet written:* each corpus test in full (crossword, inscription, complementary distribution, the fourth test),
-what it checks and what fails it, and the rescoring of every Semitic match against Luwian, Egyptian and Hurrian roots.
+Four tests decide a reading's tier. They are judgments recorded on the reading's page, not significance tests.
+
+1. **Crossword:** the value, substituted wherever the sign occurs, gives words with Semitic matches in more than one
+   context.
+2. **Inscription:** the reading leaves every inscription it touches more readable. One inscription made less readable
+   blocks promotion.
+3. **Complementary distribution:** a sign value fills a gap in the sign grid without colliding with another sign's
+   value. For a word, a full spelling and its abbreviation never stand in the same document (GRA+KU: the full
+   spelling as a section heading, the ligature in the list).
+4. **Structural fit:** the value fits the CV grid and the Proto-Semitic consonant inventory.
+
+Tests 1 and 4 assume a Semitic language: they rank readings within that hypothesis and do not test it. The tests of
+the hypothesis itself are pre-registered: `paradigm-b-preregistration.md` (run, with its result in
+`paradigm-b-result.md`), `shoresh-preregistration.md` and `meaning-shuffle-preregistration.md`.
+
+*Not yet written:* the rescoring of every Semitic match against Luwian, Egyptian and Hurrian roots.
 
 ## Prohibited readings
 

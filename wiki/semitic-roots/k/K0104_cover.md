@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ksy 'cover' | Anderson–Moser 2024 root ksy |  |
 | Arabic | ksw (HALOT 487) | HALOT 487 |  |
 | Epigraphic South Arabian | ksw (HALOT 487) | HALOT 487 |  |
-| Amorite | ksy (Huffmon APNM 222) | Huffmon APNM 222 | gloss withheld |
+| Amorite | ksy (Huffmon APNM 222); k-s-y: ik-zu-el/il, mu-ka-sa-a-je-em, ia-ak-sí-ia (Sanmartín GlOS 1, 325) | Huffmon APNM 222; Sanmartín GlOS 1, 325 | gloss withheld |
 | Syrian Aramaic | ksā 'cover, conceal; clothe, protect' (Payne Smith 220) | Payne Smith 220 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

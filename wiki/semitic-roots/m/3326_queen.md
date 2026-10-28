@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3326_queen
 title: "*mlk: 'queen'"
-desc: "Proto-Semitic *mlk, 'queen': reflexes in 10 language(s)."
+desc: "Proto-Semitic *mlk, 'queen': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3326"
@@ -39,6 +39,8 @@ updated: 2026-10-25T06:28:07Z
 | Mandaic Aramaic | malakta (HALOT 592) | HALOT 592 | gloss withheld |
 | Arabic | malikat (HALOT 592) | HALOT 592 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic mlkt (Al-Jallad–Jaworska 97) | Al-Jallad–Jaworska 97 | gloss withheld |
+| Amorite | malika, malikat, malikt: ma-li-ka, ma-li-ka-tum, ši-ma-li-ik-ti (Sanmartín GlOS 2, 42) | Sanmartín GlOS 2, 42 | gloss withheld |
+| Eblaitic | ma-lik-tum /malkat/ (Sanmartín GlOS 2, 42) | Sanmartín GlOS 2, 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

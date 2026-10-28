@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA26a
 title: "ZA26a"
-desc: "Tablet, Zakros. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros. Translation: incomplete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA26a"
 site: "Zakros"
 support: "Tablet"
 period: ""
-translation: "none"
-words: []
+translation: "incomplete"
+words: ["SI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -55,5 +55,28 @@ Unicode (Linear A block):
 𐝫𐘸𐝫
 𐝫
 ```
+
+## Translation
+
+**CANDIDATE**, incomplete (status: incomplete).
+
+> The East: DI-DI-\[…\]; ewes 13; JA-KI\[…
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/S/SI_TE\|SI-TE]] | Ṣīt | the East, eastern Crete (place name) |  | CANDIDATE (lexicon) |
+| \*21F | OVISf | ewes |  |  |
+
+### Notes
+
+SI-TE heads the tablet, then DI-DI-\[, broken after its second sign, and 13 ewes; JA-KI\[ and \]KI\[ are broken (GORILA III 202–203).
+
+### Source
+
+di Mino
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/S/SI_TE|SI-TE]].
 
 <!-- END kaphtor:record -->

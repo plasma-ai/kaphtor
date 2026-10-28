@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 610 compares Arabic ġyn, maġnan; Sab. ʿ answers \*ʿ, not \*ġ. Biella 359 sets Sab. mʿnhw 'dwelling' under ʿWN II (?) with Arabic maʿān and Hebrew māʿôn.
+HALOT 610 compares Arabic ġyn, maġnan; Sab. ʿ answers \*ʿ, not \*ġ. Biella 359 sets Sab. mʿnhw 'dwelling' under ʿWN II (?) with Arabic maʿān and Hebrew māʿôn. Kogan 2025, 5 n. 14 doubts HALOT 610's division of māʕōn I 'help, assistance' and māʕōn II 'dwelling' and sets māʕōn 'refuge; habitation' (BDB 732) under \*ʕwn 'help' (3442).
 
 <!-- END kaphtor:record -->

@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | silāḥ- 1 (Lane 1402) | Lane 1402 |  |
 | Ugaritic | šlḥ 2 (KTU 1.6 vi 18) | KTU 1.6 vi 18 | gloss withheld |
-| Hebrew | šelaḥ 2 |  |  |
+| Hebrew | šelaḥ (Jl 2:8, Neh 4:11, 2C 23:10, 32:5) 2 (HALOT 1516–1517) | HALOT 1516–1517 | gloss withheld |
 | Aramaic | šilḥa 1 |  |  |
 | Pre-Islamic North Arabian | Safaitic slḥ (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |
 

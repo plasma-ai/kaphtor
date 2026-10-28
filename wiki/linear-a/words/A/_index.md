@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T19:16:09Z
+updated: 2026-10-29T21:35:46Z
 ---
 
 # wiki/linear-a/words/A
@@ -109,7 +109,7 @@ updated: 2026-10-27T19:16:09Z
 
 [[wiki/linear-a/words/A/A_NU|A_NU]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_PA3_DI|A_PA3_DI]]: ʿabadī: my servant. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_PA3_DI|A_PA3_DI]]: ʿAbdī: personal name, ʿAbdī 'my servant' or ʿAbdi-[DN] 'servant of [DN]'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_PA3_broken_end|A_PA3_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -127,9 +127,9 @@ updated: 2026-10-27T19:16:09Z
 
 [[wiki/linear-a/words/A/A_PU2_NA_DU|A_PU2_NA_DU]]: Unread (role only): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_RA_JU|A_RA_JU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RA_JU|A_RA_JU]]: ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RA_JU_U_DE_ZA|A_RA_JU_U_DE_ZA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RA_JU_U_DE_ZA|A_RA_JU_U_DE_ZA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_RA_KO_KU_QA_WA_SA_TO_MA_RO_AU_TA_DE_PO_NI_ZA|A_RA_KO_KU_QA_WA_SA_TO_MA_RO_AU_TA_DE_PO_NI_ZA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -197,7 +197,7 @@ updated: 2026-10-27T19:16:09Z
 
 [[wiki/linear-a/words/A/A_SI|A_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_SI_DA_TO_I|A_SI_DA_TO_I]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_SI_DA_TO_I|A_SI_DA_TO_I]]: ʾAšdōdī: the Ashdodite, a man of Ashdod (gentilic). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_SI_JA_KA|A_SI_JA_KA]]: šawīqu: fine flour, semolina. Lexicon, CANDIDATE (tier 2).
 
@@ -227,7 +227,7 @@ updated: 2026-10-27T19:16:09Z
 
 [[wiki/linear-a/words/A/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: ʾAtanat, 'She-who-gives'—feminine reflex of √y-t-n 'to give'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_TA_RE|A_TA_RE]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_TA_RE|A_TA_RE]]: Hathar: Hathor (Egyptian goddess). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_TA_star350|A_TA_star350]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -241,7 +241,7 @@ updated: 2026-10-27T19:16:09Z
 
 [[wiki/linear-a/words/A/A_WA_PI|A_WA_PI]]: ʾawpiʿ: shone forth (causative of y-p-ʿ 'rise, shine forth'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_ZU_RA|A_ZU_RA]]: ʾAṯirat: Athirat (divine name: the Goddess). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_ZU_RA|A_ZU_RA]]: ʾAṯrat: Athirat (divine name: the Goddess). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_etc_NE_broken_start|A_etc_NE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 

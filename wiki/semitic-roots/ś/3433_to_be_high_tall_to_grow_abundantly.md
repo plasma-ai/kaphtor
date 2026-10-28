@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3433_to_be_high_tall_to_grow_abundantly
 title: "*ŝmḫ: 'to be high, tall; to grow abundantly'"
-desc: "Proto-Semitic *ŝmḫ, 'to be high, tall; to grow abundantly': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ŝmḫ, 'to be high, tall; to grow abundantly': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3433"
@@ -31,11 +31,12 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Akkadian | šamāḫu (CAD Š₁ 288, AHw. 1153 apud SEDonline 293) | CAD Š₁ 288, AHw. 1153; SEDonline 293 | gloss withheld |
 | Arabic | šmḫ (Lane 1595 apud SEDonline 293) | Lane 1595; SEDonline 293 | gloss withheld |
+| Eblaitic | /š-m-ḫ/ (?) (cf. Akk. šamāḫum,; or š-m-ʿ, or al₆ with Akk. šâlum): name iš-AL₆-da-mu, AL₆ read maḫ after iš-má-aḫ-ma-lik; with infixed /-ta-/: iš-da-AL₆ (maḫ/al₆?), íl-da-ma-ḫu, dal-da-ma-ḫu, dùl-da-ma-ḫu/ḫa (Krebernik 1988, 51, 53, 56–58) | Krebernik 1988, 51, 53, 56–58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-PS \*ŝmḫ 'to be high, tall' (Kogan 2015: 307 apud SEDonline 293). CAD Š₁ 288 defines šamāḫu also 'to flourish, to attain extraordinary beauty or stature'. Cf. S45 \*śmḥ- 'to rejoice, be glad'.
+PS \*ŝmḫ 'to be high, tall' (Kogan 2015: 307 apud SEDonline 293). CAD Š₁ 288 defines šamāḫu also 'to flourish, to attain extraordinary beauty or stature'. Cf. S45 \*śmḥ- 'to rejoice, be glad'. Krebernik 1988, 51 n. 12 leaves the root of Ebl. iš-AL₆- between š-m-ʿ and š-m-ḫ, preferring š-m-ḫ if dal/dùl-da-ma-ḫu/ḫa belongs here, since ʿ is not written ḫa/ḫi/ḫu at Ebla; al₆ (Akk. šâlum 'to ask') is not excluded.
 
 <!-- END kaphtor:record -->

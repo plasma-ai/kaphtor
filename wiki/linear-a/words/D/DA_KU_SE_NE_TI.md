@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/D/DA_KU_SE_NE_TI
 title: "DA-KU-SE-NE-TI"
-desc: "Onomasticon personal name, no reading."
+desc: "Takušenni-ti: probable Hurrian-style name or entity with final TI; exact function unresolved. Onomasticon personal name; lexicon entry DA-KU-SE-NE."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "DA-KU-SE-NE-TI"
 datasets: ["onomasticon"]
 attestations: ["HT104"]
+reading: "Takušenni-ti"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -37,6 +38,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | Takušenni-ti |
+| Meaning | probable Hurrian-style name or entity with final TI; exact function unresolved |
 | Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
@@ -44,6 +47,7 @@ updated: 2026-10-24T16:17:50Z
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+| Lexicon entry | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] |
 
 ### Note
 

@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | RWA (HALOT 1194) | HALOT 1194 |  |
 | Tigrinya | rawā, rāwī (HALOT 1194, 1195) | HALOT 1194, 1195 |  |
 | Tigre | räwa (LGz. 478) | LGz. 478 |  |
-| Amorite | rwj: jārwī (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rwj: jārwī (Gelb AS 21, 30); r-w-y: cf. ia-ar-wi-um, a-ar-wi-DINGIR (Sanmartín GlOS 2, 178) | Gelb AS 21 30; Sanmartín GlOS 2, 178 | gloss withheld |
 | Mehri | ráywi (Kogan 2011, 239) | Kogan 2011 239 | gloss withheld |
 | Jibbali | rē (Kogan 2011, 239) | Kogan 2011 239 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic rwy (Al-Jallad–Jaworska 118) | Al-Jallad–Jaworska 118 | gloss withheld |

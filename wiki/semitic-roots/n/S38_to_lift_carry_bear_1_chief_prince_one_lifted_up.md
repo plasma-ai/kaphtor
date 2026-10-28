@@ -46,9 +46,9 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | nässa (LGz. 404) | LGz. 404 |  |
 | Harari | näsaʾa (LGz. 404) | LGz. 404 | gloss withheld |
 | Gurage | nässa (LGz. 404) | LGz. 404 | gloss withheld |
-| Amorite | nśʾ: jaśśiʾ, naśūʾum (Gelb AS 21, 27); naśīʾu, nāśiʾ, yaśśiʾ (Buck 2019, 330) | Gelb AS 21 27; Buck 2019, 330 | gloss withheld |
+| Amorite | nśʾ: jaśśiʾ, naśūʾum (Gelb AS 21, 27); naśīʾu, nāśiʾ, yaśśiʾ (Buck 2019, 330); n-S-ʾ 1: ia-áš-si-ia-an, i-si-ᵈda-gan, ià-ši-li-im (Ur III); nāSiʾ 2: ḫa-mu-la-na-sí, ia-aḫ-wi-na-si, ia-du-ur-na-si (Sanmartín GlOS 2, 106) | Gelb AS 21 27; Buck 2019, 330; Sanmartín GlOS 2, 106 | gloss withheld |
 | Punic | nšʾ, nʾšʾ (T 222) | T 222 | gloss withheld |
-| Eblaitic | na-si-NI /nāśiʔ(i/u)/, in a-na-a na-si-NI (VE 723; Krebernik 1983, 27–28) | VE 723; Krebernik 1983, 27–28 | gloss withheld |
+| Eblaitic | na-si-NI /nāśiʔ(i/u)/, in a-na-a na-si-NI (VE 723; Krebernik 1983, 27–28); ʔa₅-si, ʔa₅-su, i-si /n-S-ʾ/ 1; na-si-i a-na-a /nāSiʾ/ 2 (Sanmartín GlOS 2, 106) | VE 723; Krebernik 1983, 27–28; Sanmartín GlOS 2, 106 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

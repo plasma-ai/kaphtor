@@ -71,7 +71,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-TU-RU-SA occupies the formula's variable invocation slot and is therefore treated as a vocative addressee, not a dedicant. Preferred parse: DU-\*314-RE is a word-specific variant of DU-PU₂-RE /dubur/ 'sanctuary' (PKZa15; HTZb160; Facchetti 1999, 132; Davis 2013, 44 n. 46; Thomas 2020, 8). I-DA-A is the diptotic genitive ʾIda, 'of Ida'; cf. Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). U-NA is provisionally /wannā/, comparing Ugaritic w hn ~ wn and \*wa-hanna/u; its exact vowels remain reconstructed. The former du ḥōr(e) is withdrawn; 'toward Ida' remains an alternative.
+TU-RU-SA occupies the formula's variable invocation slot and is therefore treated as a vocative addressee, not a dedicant. Preferred parse: DU-\*314-RE is a word-specific variant of DU-PU₂-RE /dubur/ 'sanctuary' (PKZa15; HTZb160; Facchetti 1999, 132; Davis 2013, 44 n. 46; Thomas 2020, 8). I-DA-A is the diptotic genitive ʾIda, 'of Ida'; cf. Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit' (Huehnergard 2012, §IV.B.3, p. 40). U-NA is provisionally /wannā/, comparing Ugaritic w hn ~ wn and \*wa-hanna/u; its exact vowels remain reconstructed. 'Toward Ida' remains an alternative.
 
 ### Source
 

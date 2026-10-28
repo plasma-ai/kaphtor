@@ -46,7 +46,7 @@ On HT31, the vessel tablet, the word is written into a vessel sign: \*415-VS-SU-
 
 | Language | Comparison |
 |---|---|
-| Hebrew | sap (סַף) 'basin, goblet, bowl' (H5592a) |
+| Hebrew | sap (סַף) 'basin, goblet, bowl' (HALOT 762) |
 | Ugaritic | sp 'bowl' (DULAT) |
 | Phoenician | sp 'cup, bowl' |
 

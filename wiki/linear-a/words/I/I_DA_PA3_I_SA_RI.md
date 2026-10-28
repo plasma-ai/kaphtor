@@ -47,7 +47,7 @@ Segmentation: I-DA (Mount Ida, PROBABLE) + PA₃-I-SA-RI = bi-ʾišarī 'in righ
 | Language | Comparison |
 |---|---|
 | Hebrew | yōšer (יֹשֶׁר) 'uprightness, equity'; yāšār (יָשָׁר) 'upright' |
-| Ugaritic | yšr 'straight, upright' (DUL 928) |
+| Ugaritic | yšr 'straight, upright' (DULAT 973) |
 | Akkadian | išaru 'straight, just'; mīšaru 'justice, equity' (CAD M/II 116) |
 
 ### Source

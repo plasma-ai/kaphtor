@@ -81,6 +81,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA I 319: TU-\[, broken after. GORILA I 319: .5 \]A-MI-DA-O AB21M 1\[, a ram, as SigLA; the start is broken. .4 SUS+SI\[, broken after; no RE survives (SigLA A1001 SUS+SI). .4 \[·\] 1̣ \[·\]-RU-MA-TI \*21M (note: perhaps OVISm 1̣ before it), the first sign of the word lost in the transcription, normalized column and note, the facsimile (I 318) blank there; SigLA reads a worn vertical with a curled foot as ri (AB53), the source of the former RI-RU-MA-TI.
+GORILA I 319: TU-\[, broken after. GORILA I 319: .5 \]A-MI-DA-O AB21M 1\[, a ram, as SigLA; the start is broken. .4 SUS+SI\[, broken after; no RE survives (SigLA A1001 SUS+SI). .4 \[·\] 1̣ \[·\]-RU-MA-TI \*21M (note: perhaps OVISm 1̣ before it), the first sign of the word lost in the transcription, normalized column and note, the facsimile (I 318) blank there; SigLA reads a worn vertical with a curled foot as ri (AB53), giving RI-RU-MA-TI.
 
 <!-- END kaphtor:record -->

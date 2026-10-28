@@ -63,6 +63,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | gittī(?) | press-estate(?) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | gittī | press-estate(?) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

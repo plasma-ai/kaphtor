@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ezēbu 'leave' | Anderson–Moser 2024 root ʿḏb |  |
 | Hebrew | ʿazab 'leave' | Anderson–Moser 2024 root ʿḏb |  |
 | Ugaritic | ʿdb 'leave' | Anderson–Moser 2024 root ʿḏb |  |
-| Amorite | ʿzb: jaʿzub, ʿazabum, ʿazibum, ʿaziba (Gelb AS 21, 15) | Gelb AS 21 15 | gloss withheld |
+| Amorite | ʿzb: jaʿzub, ʿazabum, ʿazibum, ʿaziba (Gelb AS 21, 15); ʿ-ḏ-b: ia-aḫ-zu-ub-DINGIR, i-zi-ib-na, i/ia-zi-bu-um (Sanmartín GlOS 1, 70) | Gelb AS 21 15; Sanmartín GlOS 1, 70 | gloss withheld |
 | Emar | a-zi-ib-tu, az-ba-ti /ʿazibtu/, /ʿazbāti/ (Pentiuc 2001, 29) | Pentiuc 2001 29 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

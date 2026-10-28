@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2533_see_watch_beware
 title: "*ḥmy: 'see, watch, beware'"
-desc: "Proto-Semitic *ḥmy, 'see, watch, beware': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḥmy, 'see, watch, beware': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2533"
@@ -33,6 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥmy, imp. (HALOT 326) | HALOT 326 | gloss withheld |
 | Syrian Aramaic | ḥmy Br 239 |  | gloss withheld |
 | Aramaic | Pal ḥmy (DJPA 205a apud CAL) | DJPA 205a; CAL | gloss withheld |
+| Amorite | ḥ-m-y: cf. ia-aḫ-mu-ú (Sanmartín GlOS 1, 243) | Sanmartín GlOS 1, 243 | gloss withheld |
+| Eblaitic | cf. a-ma-um /ḥ-m-y/ (Sanmartín GlOS 1, 243) | Sanmartín GlOS 1, 243 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

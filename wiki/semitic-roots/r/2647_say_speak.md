@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | rǯm (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015 ch. 3 §5.3 no. 28 | gloss withheld |
 | Akkadian | ragāmu (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015 ch. 3 §5.3 no. 28 |  |
 | Ugaritic | rgm /ragāmu/? (UVST 177) | UVST 177 | gloss withheld |
-| Amorite | rgm: ʾargam, rigm(ān)um (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rgm: ʾargam, rigm(ān)um (Gelb AS 21, 30); r-g-m: ar-ga-ma-tum (Sanmartín GlOS 2, 156) | Gelb AS 21 30; Sanmartín GlOS 2, 156 | gloss withheld |
 | Geez | ragama (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015 ch. 3 §5.3 no. 28 | gloss withheld |
 | Jibbali | s̃érégəm (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015 ch. 3 §5.3 no. 28 | gloss withheld |
 

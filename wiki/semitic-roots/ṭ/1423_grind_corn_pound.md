@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ṭäḥanä (LGz. 590) | LGz. 590 |  |
 | Tigre | ṭäḥana (LGz. 590) | LGz. 590 |  |
 | Harari | ṭäḥana (LGz. 590) | LGz. 590 |  |
-| Eblaitic | ṭa-ʾà-nu-um (Kogan 2011, 241; VE 656; Krebernik 1983, 25) | Kogan 2011 241; VE 656; Krebernik 1983, 25 |  |
+| Eblaitic | ṭa-ʾà-nu-um (Kogan 2011, 241; VE 656; Krebernik 1983, 25); a-da-i-in, da-ʔà-núm/nu-um /ṭ-ḥ-n/ (Sanmartín GlOS 2, 308) | Kogan 2011 241; VE 656; Krebernik 1983, 25; Sanmartín GlOS 2, 308 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

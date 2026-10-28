@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*prk |
 | Meaning | 'to be dislocated' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1744 |
 
 ## Reflexes
 
@@ -36,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*prk 'to be dislocated' (EDA I 261 apud SEDonline 1744). SEDonline 1744 also sets here Akk. parāku 'to lie across' (CAD P 153, AHw 828) and Ebl. ba-la-gú-um /paRākum/ 'to be hostile' (VE 851, Kogan–Krebernik 2021b: 695). Cf. 1035 \*pVruk- 'grind, spread', 2978 \*pVrVk-at- 'curtain, veil (parokhet)'.
+PS \*prk 'to be dislocated' (SEDonline 1744). SEDonline 1744 also sets here Akk. parāku 'to lie across' (CAD P 153, AHw 828) and Ebl. ba-la-gú-um /paRākum/ 'to be hostile' (VE 851, Kogan–Krebernik 2021b: 695); EDA I 260–261 (◊P0446) finds Arb. frk (VII) and Jib. fɔ́trək 'to be dislocated' semantically more appealing for parāku than Arm. prk and Arb. frk 'to break, to rub', and glosses the Eblaite verb 'to lie across'. Cf. 1035 \*pVruk- 'grind, spread', 2978 \*pVrVk-at- 'curtain, veil (parokhet)'.
 
 <!-- END kaphtor:record -->

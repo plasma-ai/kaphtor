@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RA_JU_U_DE_ZA
 title: "A-RA-JU-U-DE-ZA"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
+desc: "Unread (edge overlap): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "A-RA-JU-U-DE-ZA"
@@ -31,12 +31,12 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] |  | roster entry (cf. U-DE-ZA, HT122a) |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT122b\|HT122b]] |  | roster entry: U-DE-ZA of ʾArāyu (A-RA-JU, a town of the kingdom of Ugarit; cf. U-DE-ZA, HT122a) | SPECULATIVE |
 
 ## Unread
 
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
+Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
 
-HT122b .3 A-RA-JU-U-DE-ZẠ, ZA dotted, the numeral partly restored, at the head of the line after .2 breaks off (GORILA I 209). The ending matches U-DE-ZA (HT122a .1). Sole attestation. Not readable.
+HT122b .3 \]A-RA-JU-U-DE-ZẠ 2, ZA dotted, A at the left edge (GORILA I 208–209). A-RA-JU is the town ʾArāyu, as on HT 109; the ending matches U-DE-ZA (HT122a .1). Sole attestation. No reading.
 
 <!-- END kaphtor:record -->

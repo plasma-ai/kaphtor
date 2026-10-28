@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ́
 desc: "Semitic roots whose first radical is ṣ́."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/ṣ́
@@ -11,7 +11,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ṣ́/1332_attack_1_wage_war_2_fight_3|1332_attack_1_wage_war_2_fight_3]]: Proto-Semitic *ṣ̂Vbaʾ-, 'attack' 1, 'wage war' 2, 'fight' 3: reflexes in 9 language(s).
 
-[[wiki/semitic-roots/ṣ́/1369_plaiting_1_braid_2|1369_plaiting_1_braid_2]]: Proto-Semitic *ṣ̂apīr-, 'plaiting' 1, 'braid' 2: reflexes in 11 language(s).
+[[wiki/semitic-roots/ṣ́/1369_plaiting_1_braid_2|1369_plaiting_1_braid_2]]: Proto-Semitic *ṣ̂apīr-, 'plaiting' 1, 'braid' 2: reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ṣ́/1370_join_bind|1370_join_bind]]: Proto-Semitic *ṣ̂um-, 'join, bind': reflexes in 4 language(s).
 
@@ -71,7 +71,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/ṣ́/894_fog|894_fog]]: Proto-Semitic *ṣ̂abāb-, 'fog': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṣ́/K0695_to_press_to_be_narrow_distressed|K0695_to_press_to_be_narrow_distressed]]: Proto-Semitic *ḍVwVq-, 'to press; to be narrow, distressed': reflexes in 11 language(s).
+[[wiki/semitic-roots/ṣ́/K0695_to_press_to_be_narrow_distressed|K0695_to_press_to_be_narrow_distressed]]: Proto-Semitic *ḍVwVq-, 'to press; to be narrow, distressed': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/ṣ́/K0698_glow|K0698_glow]]: Proto-Semitic *ḍVḥVḥ-, 'glow': reflexes in 2 language(s).
 

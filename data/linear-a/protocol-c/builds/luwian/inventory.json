@@ -1,0 +1,1692 @@
+{
+  "arm": "luwian",
+  "grammar": {
+    "citation": "Ilya Yakubovich (Moscow/Marburg), The Luwian Language, 2015 manuscript (date supplied in units.md; title page is undated).",
+    "file_sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "builder": {
+    "model": "runner",
+    "session_started_utc": "1970-01-01T00:00:00Z",
+    "transcript_file": "runner"
+  },
+  "class_order": {
+    "prefix": [
+      "p_clitic",
+      "p_preposition",
+      "p_article",
+      "p_person",
+      "p_stem"
+    ],
+    "suffix": [
+      "s_stem",
+      "s_gender_number",
+      "s_case_person",
+      "s_mood",
+      "s_enclitic_inner",
+      "s_pronoun",
+      "s_enclitic"
+    ],
+    "basis": [
+      {
+        "statement": "Table 8 orders the Wackernagel clitics: 1 Conjunctions, 2 Particles, 3 Dative pronominal clitics, 4 (Dative) reflexive pronominal clitics, 5 Nominative and accusative pronominal clitics, 6 Locative particles. Thus conjunctions and particles precede pronominal clitics, and locative particles follow them.",
+        "section": "7.1 Clause structure, Table 8",
+        "page": "19"
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": "luwian_001",
+      "morpheme_id": "luwian_nom_sg_common",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-s",
+      "segments": [
+        "s"
+      ],
+      "function": "nominative singular common",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_002",
+      "morpheme_id": "luwian_acc_sg_common",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-n",
+      "segments": [
+        "n"
+      ],
+      "function": "accusative singular common",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_003",
+      "morpheme_id": "luwian_neuter_sg_extension",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Ø(+sa/za)",
+      "segments": [
+        "s",
+        "a"
+      ],
+      "function": "nominative and accusative singular neuter: extension",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      },
+      "notes": "The cell spans nominative and accusative. Only the nonzero extensions are realized; the zero-only option is omitted."
+    },
+    {
+      "id": "luwian_004",
+      "morpheme_id": "luwian_neuter_sg_extension",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Ø(+sa/za)",
+      "segments": [
+        "z",
+        "a"
+      ],
+      "function": "nominative and accusative singular neuter: extension",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      },
+      "notes": "The cell spans nominative and accusative. Only the nonzero extensions are realized; the zero-only option is omitted."
+    },
+    {
+      "id": "luwian_005",
+      "morpheme_id": "luwian_nom_acc_sg_neuter_n",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-n(+za)",
+      "segments": [
+        "n"
+      ],
+      "function": "nominative and accusative singular neuter",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      },
+      "notes": "The cell spans nominative and accusative; + marks attachment of the optional extension."
+    },
+    {
+      "id": "luwian_006",
+      "morpheme_id": "luwian_nom_acc_sg_neuter_n",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-n(+za)",
+      "segments": [
+        "n",
+        "z",
+        "a"
+      ],
+      "function": "nominative and accusative singular neuter",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      },
+      "notes": "The cell spans nominative and accusative; + marks attachment of the optional extension."
+    },
+    {
+      "id": "luwian_007",
+      "morpheme_id": "luwian_nom_pl_common",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-nzi",
+      "segments": [
+        "n",
+        "z",
+        "i"
+      ],
+      "function": "nominative plural common",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_008",
+      "morpheme_id": "luwian_acc_pl_common",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-nz",
+      "segments": [
+        "n",
+        "z"
+      ],
+      "function": "accusative plural common",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_009",
+      "morpheme_id": "luwian_acc_pl_common",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-nzi",
+      "segments": [
+        "n",
+        "z",
+        "i"
+      ],
+      "function": "accusative plural common",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_010",
+      "morpheme_id": "luwian_nom_acc_pl_neuter",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-a",
+      "segments": [
+        "a"
+      ],
+      "function": "nominative and accusative plural neuter",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_011",
+      "morpheme_id": "luwian_genitive",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-as",
+      "segments": [
+        "a",
+        "s"
+      ],
+      "function": "genitive singular and plural",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_012",
+      "morpheme_id": "luwian_genitive",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-assi",
+      "segments": [
+        "a",
+        "ss",
+        "i"
+      ],
+      "function": "genitive singular and plural",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_013",
+      "morpheme_id": "luwian_genitive",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-assa",
+      "segments": [
+        "a",
+        "ss",
+        "a"
+      ],
+      "function": "genitive singular and plural",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_014",
+      "morpheme_id": "luwian_dat_sg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-i",
+      "segments": [
+        "i"
+      ],
+      "function": "dative-locative singular",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_015",
+      "morpheme_id": "luwian_dat_sg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ya",
+      "segments": [
+        "y",
+        "a"
+      ],
+      "function": "dative-locative singular",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_016",
+      "morpheme_id": "luwian_dat_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-anz(a)",
+      "segments": [
+        "a",
+        "n",
+        "z"
+      ],
+      "function": "dative-locative plural",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_017",
+      "morpheme_id": "luwian_dat_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-anz(a)",
+      "segments": [
+        "a",
+        "n",
+        "z",
+        "a"
+      ],
+      "function": "dative-locative plural",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_018",
+      "morpheme_id": "luwian_ablative",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-adi",
+      "segments": [
+        "a",
+        "d",
+        "i"
+      ],
+      "function": "ablative-instrumental singular and plural",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_019",
+      "morpheme_id": "luwian_voc_sg_common",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-s",
+      "segments": [
+        "s"
+      ],
+      "function": "vocative singular common",
+      "source": {
+        "unit": "Table 2 (section 6.2 text introduces it)",
+        "section": "6.2 Noun and adjective",
+        "page": "12"
+      }
+    },
+    {
+      "id": "luwian_020",
+      "morpheme_id": "luwian_neuter_sg_extension",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "(-za)",
+      "segments": [
+        "z",
+        "a"
+      ],
+      "function": "nominative and accusative singular neuter: extension",
+      "source": {
+        "unit": "Table 3",
+        "section": "6.2 Noun and adjective",
+        "page": "13"
+      },
+      "notes": "The parenthesized, hyphen-delimited component of parnan(-za) is copied with its parentheses. The entire cell spans nominative and accusative. The unextended word is not a bound form."
+    },
+    {
+      "id": "luwian_021",
+      "morpheme_id": "luwian_pron_3sg_nom_common",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=as",
+      "segments": [
+        "a",
+        "s"
+      ],
+      "function": "3sg. nom. (c.)",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_022",
+      "morpheme_id": "luwian_pron_3sg_acc_common",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=an",
+      "segments": [
+        "a",
+        "n"
+      ],
+      "function": "3sg. acc. (c.)",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_023",
+      "morpheme_id": "luwian_pron_3_nom_acc",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=ada",
+      "segments": [
+        "a",
+        "d",
+        "a"
+      ],
+      "function": "3sg. nom. and acc. (n); 3pl. nom. and acc.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_024",
+      "morpheme_id": "luwian_pron_1sg_oblique",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=mu",
+      "segments": [
+        "m",
+        "u"
+      ],
+      "function": "1sg acc. and dat.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_025",
+      "morpheme_id": "luwian_pron_2_3sg_oblique",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=du",
+      "segments": [
+        "d",
+        "u"
+      ],
+      "function": "2sg acc. and dat.; 3sg. dat.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_026",
+      "morpheme_id": "luwian_pron_1pl_oblique",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=anz(a)",
+      "segments": [
+        "a",
+        "n",
+        "z"
+      ],
+      "function": "1pl. acc. and dat.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_027",
+      "morpheme_id": "luwian_pron_1pl_oblique",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=anz(a)",
+      "segments": [
+        "a",
+        "n",
+        "z",
+        "a"
+      ],
+      "function": "1pl. acc. and dat.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_028",
+      "morpheme_id": "luwian_pron_2_3pl_oblique",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=mmanz(a)",
+      "segments": [
+        "mm",
+        "a",
+        "n",
+        "z"
+      ],
+      "function": "2pl. acc. and dat.; 3pl. dat.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_029",
+      "morpheme_id": "luwian_pron_2_3pl_oblique",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=mmanz(a)",
+      "segments": [
+        "mm",
+        "a",
+        "n",
+        "z",
+        "a"
+      ],
+      "function": "2pl. acc. and dat.; 3pl. dat.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_030",
+      "morpheme_id": "luwian_pron_1sg_reflexive",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=mi",
+      "segments": [
+        "m",
+        "i"
+      ],
+      "function": "1sg dat. refl.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_031",
+      "morpheme_id": "luwian_pron_2_3sg_reflexive",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=di",
+      "segments": [
+        "d",
+        "i"
+      ],
+      "function": "2sg and 3sg. dat. refl.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_032",
+      "morpheme_id": "luwian_pron_1pl_reflexive",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=anza",
+      "segments": [
+        "a",
+        "n",
+        "z",
+        "a"
+      ],
+      "function": "1pl. dat. refl.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_033",
+      "morpheme_id": "luwian_pron_2_3pl_reflexive",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "=mmanza",
+      "segments": [
+        "mm",
+        "a",
+        "n",
+        "z",
+        "a"
+      ],
+      "function": "2pl. and 3pl. dat. refl.",
+      "source": {
+        "unit": "Table 5",
+        "section": "6.4 Pronoun",
+        "page": "15"
+      }
+    },
+    {
+      "id": "luwian_034",
+      "morpheme_id": "luwian_pres_act_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-wi",
+      "segments": [
+        "w",
+        "i"
+      ],
+      "function": "indicative present active 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_035",
+      "morpheme_id": "luwian_pres_act_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-si",
+      "segments": [
+        "s",
+        "i"
+      ],
+      "function": "indicative present active 2 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_036",
+      "morpheme_id": "luwian_pres_act_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Ti(s)",
+      "segments": [
+        "T",
+        "i"
+      ],
+      "function": "indicative present active 2 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_037",
+      "morpheme_id": "luwian_pres_act_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Ti(s)",
+      "segments": [
+        "T",
+        "i",
+        "s"
+      ],
+      "function": "indicative present active 2 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_038",
+      "morpheme_id": "luwian_pres_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-di",
+      "segments": [
+        "d",
+        "i"
+      ],
+      "function": "indicative present active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_039",
+      "morpheme_id": "luwian_pres_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(t)ti",
+      "segments": [
+        "t",
+        "i"
+      ],
+      "function": "indicative present active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_040",
+      "morpheme_id": "luwian_pres_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(t)ti",
+      "segments": [
+        "tt",
+        "i"
+      ],
+      "function": "indicative present active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_041",
+      "morpheme_id": "luwian_pres_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-i",
+      "segments": [
+        "i"
+      ],
+      "function": "indicative present active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_042",
+      "morpheme_id": "luwian_pres_act_1pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-unni",
+      "segments": [
+        "u",
+        "nn",
+        "i"
+      ],
+      "function": "indicative present active 1 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_043",
+      "morpheme_id": "luwian_pres_act_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Tani",
+      "segments": [
+        "T",
+        "a",
+        "n",
+        "i"
+      ],
+      "function": "indicative present active 2 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_044",
+      "morpheme_id": "luwian_pres_act_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)nti",
+      "segments": [
+        "n",
+        "t",
+        "i"
+      ],
+      "function": "indicative present active 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_045",
+      "morpheme_id": "luwian_pres_act_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)nti",
+      "segments": [
+        "a",
+        "n",
+        "t",
+        "i"
+      ],
+      "function": "indicative present active 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_046",
+      "morpheme_id": "luwian_pres_mid_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Tar(i)",
+      "segments": [
+        "T",
+        "a",
+        "r"
+      ],
+      "function": "indicative present Middle 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_047",
+      "morpheme_id": "luwian_pres_mid_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Tar(i)",
+      "segments": [
+        "T",
+        "a",
+        "r",
+        "i"
+      ],
+      "function": "indicative present Middle 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_048",
+      "morpheme_id": "luwian_pres_mid_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ar(i)",
+      "segments": [
+        "a",
+        "r"
+      ],
+      "function": "indicative present Middle 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_049",
+      "morpheme_id": "luwian_pres_mid_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ar(i)",
+      "segments": [
+        "a",
+        "r",
+        "i"
+      ],
+      "function": "indicative present Middle 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_050",
+      "morpheme_id": "luwian_pres_mid_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Tuwari",
+      "segments": [
+        "T",
+        "u",
+        "w",
+        "a",
+        "r",
+        "i"
+      ],
+      "function": "indicative present Middle 2 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_051",
+      "morpheme_id": "luwian_pres_mid_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)ntari",
+      "segments": [
+        "n",
+        "t",
+        "a",
+        "r",
+        "i"
+      ],
+      "function": "indicative present Middle 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_052",
+      "morpheme_id": "luwian_pres_mid_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)ntari",
+      "segments": [
+        "a",
+        "n",
+        "t",
+        "a",
+        "r",
+        "i"
+      ],
+      "function": "indicative present Middle 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_053",
+      "morpheme_id": "luwian_pret_act_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ha",
+      "segments": [
+        "h",
+        "a"
+      ],
+      "function": "indicative preterit active 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_054",
+      "morpheme_id": "luwian_pret_act_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(h)ha",
+      "segments": [
+        "h",
+        "a"
+      ],
+      "function": "indicative preterit active 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_055",
+      "morpheme_id": "luwian_pret_act_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(h)ha",
+      "segments": [
+        "hh",
+        "a"
+      ],
+      "function": "indicative preterit active 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_056",
+      "morpheme_id": "luwian_pret_act_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-hhan",
+      "segments": [
+        "hh",
+        "a",
+        "n"
+      ],
+      "function": "indicative preterit active 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_057",
+      "morpheme_id": "luwian_pret_act_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "(s)sa",
+      "segments": [
+        "s",
+        "a"
+      ],
+      "function": "indicative preterit active 2 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      },
+      "notes": "The PDF table prints (s)sa without an initial hyphen; this is preserved."
+    },
+    {
+      "id": "luwian_058",
+      "morpheme_id": "luwian_pret_act_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "(s)sa",
+      "segments": [
+        "ss",
+        "a"
+      ],
+      "function": "indicative preterit active 2 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      },
+      "notes": "The PDF table prints (s)sa without an initial hyphen; this is preserved."
+    },
+    {
+      "id": "luwian_059",
+      "morpheme_id": "luwian_pret_act_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Ta",
+      "segments": [
+        "T",
+        "a"
+      ],
+      "function": "indicative preterit active 2 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      },
+      "notes": "The PDF table prints (s)sa without an initial hyphen; this is preserved."
+    },
+    {
+      "id": "luwian_060",
+      "morpheme_id": "luwian_pret_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-da",
+      "segments": [
+        "d",
+        "a"
+      ],
+      "function": "indicative preterit active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_061",
+      "morpheme_id": "luwian_pret_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(t)ta",
+      "segments": [
+        "t",
+        "a"
+      ],
+      "function": "indicative preterit active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_062",
+      "morpheme_id": "luwian_pret_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(t)ta",
+      "segments": [
+        "tt",
+        "a"
+      ],
+      "function": "indicative preterit active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_063",
+      "morpheme_id": "luwian_pret_act_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)nta",
+      "segments": [
+        "n",
+        "t",
+        "a"
+      ],
+      "function": "indicative preterit active 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_064",
+      "morpheme_id": "luwian_pret_act_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)nta",
+      "segments": [
+        "a",
+        "n",
+        "t",
+        "a"
+      ],
+      "function": "indicative preterit active 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_065",
+      "morpheme_id": "luwian_pret_mid_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(h)hasi",
+      "segments": [
+        "h",
+        "a",
+        "s",
+        "i"
+      ],
+      "function": "indicative preterit Middle 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_066",
+      "morpheme_id": "luwian_pret_mid_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(h)hasi",
+      "segments": [
+        "hh",
+        "a",
+        "s",
+        "i"
+      ],
+      "function": "indicative preterit Middle 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_067",
+      "morpheme_id": "luwian_pret_mid_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Tasi",
+      "segments": [
+        "T",
+        "a",
+        "s",
+        "i"
+      ],
+      "function": "indicative preterit Middle 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_068",
+      "morpheme_id": "luwian_pret_mid_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-asi",
+      "segments": [
+        "a",
+        "s",
+        "i"
+      ],
+      "function": "indicative preterit Middle 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_069",
+      "morpheme_id": "luwian_pret_mid_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)ntasi",
+      "segments": [
+        "n",
+        "t",
+        "a",
+        "s",
+        "i"
+      ],
+      "function": "indicative preterit Middle 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_070",
+      "morpheme_id": "luwian_pret_mid_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)ntasi",
+      "segments": [
+        "a",
+        "n",
+        "t",
+        "a",
+        "s",
+        "i"
+      ],
+      "function": "indicative preterit Middle 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_071",
+      "morpheme_id": "luwian_imp_act_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-llu",
+      "segments": [
+        "ll",
+        "u"
+      ],
+      "function": "imperative active 1 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_072",
+      "morpheme_id": "luwian_imp_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-du",
+      "segments": [
+        "d",
+        "u"
+      ],
+      "function": "imperative active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_073",
+      "morpheme_id": "luwian_imp_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(t)tu",
+      "segments": [
+        "t",
+        "u"
+      ],
+      "function": "imperative active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_074",
+      "morpheme_id": "luwian_imp_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(t)tu",
+      "segments": [
+        "tt",
+        "u"
+      ],
+      "function": "imperative active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_075",
+      "morpheme_id": "luwian_imp_act_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-u",
+      "segments": [
+        "u"
+      ],
+      "function": "imperative active 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_076",
+      "morpheme_id": "luwian_imp_act_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-Tan",
+      "segments": [
+        "T",
+        "a",
+        "n"
+      ],
+      "function": "imperative active 2 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_077",
+      "morpheme_id": "luwian_imp_act_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-danu",
+      "segments": [
+        "d",
+        "a",
+        "n",
+        "u"
+      ],
+      "function": "imperative active 2 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_078",
+      "morpheme_id": "luwian_imp_act_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)ntu",
+      "segments": [
+        "n",
+        "t",
+        "u"
+      ],
+      "function": "imperative active 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_079",
+      "morpheme_id": "luwian_imp_act_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(a)ntu",
+      "segments": [
+        "a",
+        "n",
+        "t",
+        "u"
+      ],
+      "function": "imperative active 3 plural",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_080",
+      "morpheme_id": "luwian_imp_mid_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aru",
+      "segments": [
+        "a",
+        "r",
+        "u"
+      ],
+      "function": "imperative Middle 3 singular",
+      "source": {
+        "unit": "Table 7",
+        "section": "6.5 Verb",
+        "page": "16"
+      }
+    },
+    {
+      "id": "luwian_081",
+      "morpheme_id": "luwian_conjunction_ha",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic_inner",
+      "form": "=ha",
+      "segments": [
+        "h",
+        "a"
+      ],
+      "function": "Conjunctions",
+      "source": {
+        "unit": "Table 8",
+        "section": "7.1 Clause structure",
+        "page": "19"
+      },
+      "notes": "Table 8 rank 1."
+    },
+    {
+      "id": "luwian_082",
+      "morpheme_id": "luwian_conjunction_ba",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic_inner",
+      "form": "=ba",
+      "segments": [
+        "b",
+        "a"
+      ],
+      "function": "Conjunctions",
+      "source": {
+        "unit": "Table 8",
+        "section": "7.1 Clause structure",
+        "page": "19"
+      },
+      "notes": "Table 8 rank 1."
+    },
+    {
+      "id": "luwian_083",
+      "morpheme_id": "luwian_particle_wa",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic_inner",
+      "form": "=wa",
+      "segments": [
+        "w",
+        "a"
+      ],
+      "function": "Particles",
+      "source": {
+        "unit": "Table 8",
+        "section": "7.1 Clause structure",
+        "page": "19"
+      },
+      "notes": "Table 8 rank 2; the table does not specify the relation between =wa and =gwa."
+    },
+    {
+      "id": "luwian_084",
+      "morpheme_id": "luwian_particle_gwa",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic_inner",
+      "form": "=gwa",
+      "segments": [
+        "g",
+        "w",
+        "a"
+      ],
+      "function": "Particles",
+      "source": {
+        "unit": "Table 8",
+        "section": "7.1 Clause structure",
+        "page": "19"
+      },
+      "notes": "Table 8 rank 2; segmentation of gw is uncertain; see notes.md."
+    },
+    {
+      "id": "luwian_085",
+      "morpheme_id": "luwian_locative_tta",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "=(t)ta",
+      "segments": [
+        "t",
+        "a"
+      ],
+      "function": "Locative particles",
+      "source": {
+        "unit": "Table 8",
+        "section": "7.1 Clause structure",
+        "page": "19"
+      },
+      "notes": "Table 8 rank 6."
+    },
+    {
+      "id": "luwian_086",
+      "morpheme_id": "luwian_locative_tta",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "=(t)ta",
+      "segments": [
+        "tt",
+        "a"
+      ],
+      "function": "Locative particles",
+      "source": {
+        "unit": "Table 8",
+        "section": "7.1 Clause structure",
+        "page": "19"
+      },
+      "notes": "Table 8 rank 6."
+    },
+    {
+      "id": "luwian_087",
+      "morpheme_id": "luwian_locative_dar",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "=dar",
+      "segments": [
+        "d",
+        "a",
+        "r"
+      ],
+      "function": "Locative particles",
+      "source": {
+        "unit": "Table 8",
+        "section": "7.1 Clause structure",
+        "page": "19"
+      },
+      "notes": "Table 8 rank 6."
+    }
+  ],
+  "units_read": [
+    "Table 2 (section 6.2 text introduces it)",
+    "Table 3",
+    "Table 5",
+    "Table 7",
+    "Table 8"
+  ],
+  "units_without_entries": []
+}

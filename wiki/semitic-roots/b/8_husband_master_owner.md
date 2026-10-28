@@ -55,7 +55,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | baḫlu; balu (HALOT 142); baʿlu (Buck 2019, 325) | HALOT 142; Buck 2019, 325 | gloss withheld |
 | Canaanite | baḫlu; balu (HALOT 142) | HALOT 142 |  |
 | Mandaic Aramaic | bil (LGz. 84; Drower/Macuch 60b apud CAL) | LGz. 84; Macuch 60b; CAL | gloss withheld |
-| Eblaitic | ba-lu /baʕlu/, in ba-lu da-a-tim (VE 1245; Krebernik 1983, 42) | VE 1245; Krebernik 1983, 42 | gloss withheld |
+| Eblaitic | ba-lu /baʕlu/, in ba-lu da-a-tim (VE 1245; Krebernik 1983, 42); DN element ba-al: names en-na-ba-al, wa-a-ga-ba-al (Antalík 1998, 38) | VE 1245; Krebernik 1983, 42; Antalík 1998, 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

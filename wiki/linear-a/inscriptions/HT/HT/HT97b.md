@@ -56,11 +56,11 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra(?) | queen/princess or royal establishment |  | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | queen/princess or royal establishment |  | CANDIDATE (lexicon) |
 
 ### Notes
 
-One-word docket or recipient label. Its isolation suits a name, title, or institution better than the former unattested accounting gloss 'surplus.' The SA-RA/SA-RU title family favors 'queen/princess' or 'royal establishment,' but RA₂ and the missing final /t/ keep the reading provisional.
+One-word docket or recipient label. Its isolation suits a name, title, or institution better than an unattested accounting gloss 'surplus.' The SA-RA/SA-RU title family favors 'queen/princess' or 'royal establishment,' but RA₂ and the missing final /t/ keep the reading provisional.
 
 ### Source
 

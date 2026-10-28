@@ -392,6 +392,15 @@ def test_a_sign_page_writes_alternates_and_linear_b_as_text(data):
         assert "Unicode names list" not in body
 
 
+def test_an_alternate_s_value_is_written_over_its_key(data):
+    model, render = views("model"), views("render")
+    m = model.load(data)
+    m.sign_values["signs"]["*21F"]["alternates"] = [
+        {"consonant": "ẓ", "vowel": "u", "value": "ṯ̣u", "evidence": ["ṯ̣, keyed ẓ"]}, {"consonant": "z", "vowel": "u"}]
+    _, star = render.sign_page(m, "syllabic", "*21F")
+    assert "| Alternates | /ṯ̣u/, /zu/ |" in star and "| /ṯ̣u/ |  | ṯ̣, keyed ẓ |" in star
+
+
 # ---------------------------------------------------------------- Markdown
 
 @pytest.mark.parametrize("text, escaped", [
@@ -514,6 +523,24 @@ def test_a_lexicon_entry_without_a_reading_prints_no_none(data):
     _, text = render.word_page(m, "OLE+KI")
     assert markdown.parse_frontmatter(text)["desc"] == "oil of a kind. Lexicon, CANDIDATE (tier 2)."
     assert "None" not in text
+
+
+def test_a_name_read_under_another_spelling_gives_its_reading_and_links_the_lexicon_entry(data):
+    model, render, markdown = views("model"), views("render"), views("markdown")
+    m = model.load(data)
+    m.onomasticon["KU-PA-NU"] = {**ONOMASTICON["entries"][0], "token": "KU-PA-NU", "reading": "Kupanu",
+                                 "meaning": "a name", "lexicon_ref": "KU-PA₃-NU"}
+    _, text = render.word_page(m, "KU-PA-NU")
+    fields = markdown.parse_frontmatter(text)
+    assert fields["desc"] == "Kupanu: a name. Onomasticon personal name; lexicon entry KU-PA₃-NU."
+    assert fields["reading"] == "Kupanu"
+    onomasticon = text.split("## Onomasticon\n", 1)[1].split("\n#", 1)[0]
+    assert "| Reading | Kupanu |" in onomasticon
+    assert f"| Lexicon entry | [[{model.word_path('KU-PA₃-NU')}\\|KU-PA₃-NU]] |" in onomasticon
+    m.onomasticon["KU-PA-NU"] |= {"reading": None, "meaning": "", "lexicon_ref": None}
+    _, text = render.word_page(m, "KU-PA-NU")
+    assert markdown.parse_frontmatter(text)["desc"] == "Onomasticon personal name, no reading."
+    assert "Lexicon entry" not in text and "None" not in text
 
 
 def test_a_confirmed_word_page_names_its_reviewer_and_the_outside_scholar(data):

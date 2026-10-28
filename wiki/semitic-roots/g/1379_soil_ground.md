@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | gadad- |  |  |
+| Arabic | gadad-; jadad 'hard ground: or hard level ground' (Lane 386); jadjad 'hard level ground' (Lane 387) | Lane 386; Lane 387 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

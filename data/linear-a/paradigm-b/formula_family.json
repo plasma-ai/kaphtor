@@ -1,0 +1,1030 @@
+{
+ "source": "formula_data.json:inscriptions_all (32) + position_site_matrix + family_additions.json approved (1: KNZa10)",
+ "n": 33,
+ "inscriptions": [
+  {
+   "id": "IOZa2",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-DI-KI-TU",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-SA-SA-RA-ME",
+     "damaged": true
+    },
+    {
+     "linear_a": "U-NA-KA-NA-SI",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-PI-NA-MA",
+     "damaged": true
+    },
+    {
+     "linear_a": "SI-RU-TE",
+     "damaged": false
+    },
+    {
+     "linear_a": "TA-NA-RA-TE-U-TI-NU",
+     "damaged": false
+    },
+    {
+     "linear_a": "I",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ],
+    "2": [
+     "JA-DI-KI-TU"
+    ],
+    "3": [
+     "JA-SA-SA-RA-ME"
+    ],
+    "4": [
+     "U-NA-KA-NA-SI"
+    ],
+    "5": [
+     "I-PI-NA-MA"
+    ],
+    "6": [
+     "SI-RU-TE"
+    ],
+    "7": [
+     "TA-NA-RA-TE-U-TI-NU"
+    ]
+   }
+  },
+  {
+   "id": "PKZa11",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-E",
+     "damaged": false
+    },
+    {
+     "linear_a": "A-DI-KI-TE-TE",
+     "damaged": true
+    },
+    {
+     "linear_a": "RE",
+     "damaged": true
+    },
+    {
+     "linear_a": "PI-TE-RI",
+     "damaged": false
+    },
+    {
+     "linear_a": "A-KO-A-NE",
+     "damaged": false
+    },
+    {
+     "linear_a": "A",
+     "damaged": false
+    },
+    {
+     "linear_a": "SA-SA-RA-ME",
+     "damaged": false
+    },
+    {
+     "linear_a": "U-NA-RU-KA-NA-TI",
+     "damaged": false
+    },
+    {
+     "linear_a": "I-PI-NA-MI-NA",
+     "damaged": true
+    },
+    {
+     "linear_a": "SI-RU",
+     "damaged": true
+    },
+    {
+     "linear_a": "𐝫",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-NA-JA-PA-QA",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-E"
+    ],
+    "2": [
+     "A-DI-KI-TE-TE"
+    ],
+    "3": [
+     "SA-SA-RA-ME"
+    ],
+    "4": [
+     "U-NA-RU-KA-NA-TI"
+    ],
+    "5": [
+     "I-PI-NA-MI-NA"
+    ],
+    "6": [
+     "SI-RU"
+    ]
+   }
+  },
+  {
+   "id": "TLZa1",
+   "in_corpus": true,
+   "site": "Troullos",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "O-SU-QA-RE",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-SA-SA-RA-ME",
+     "damaged": false
+    },
+    {
+     "linear_a": "U-NA-KA-NA",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-PI-NA-MA",
+     "damaged": true
+    },
+    {
+     "linear_a": "SI-RU-TE",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ],
+    "2": [
+     "O-SU-QA-RE"
+    ],
+    "3": [
+     "JA-SA-SA-RA-ME"
+    ],
+    "4": [
+     "U-NA-KA-NA"
+    ],
+    "5": [
+     "I-PI-NA-MA"
+    ],
+    "6": [
+     "SI-RU-TE"
+    ]
+   }
+  },
+  {
+   "id": "KOZa1",
+   "in_corpus": true,
+   "site": "Kophinas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "TU-RU-SA",
+     "damaged": false
+    },
+    {
+     "linear_a": "DU-*314-RE",
+     "damaged": false
+    },
+    {
+     "linear_a": "I-DA-A",
+     "damaged": false
+    },
+    {
+     "linear_a": "U-NA-KA-NA-SI",
+     "damaged": false
+    },
+    {
+     "linear_a": "I-PI-NA-MA",
+     "damaged": false
+    },
+    {
+     "linear_a": "SI-RU-TE",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ],
+    "2": [
+     "TU-RU-SA",
+     "DU-*314-RE",
+     "I-DA-A"
+    ],
+    "4": [
+     "U-NA-KA-NA-SI"
+    ],
+    "5": [
+     "I-PI-NA-MA"
+    ],
+    "6": [
+     "SI-RU-TE"
+    ]
+   }
+  },
+  {
+   "id": "PKZa12",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "A-DI-KI-TE",
+     "damaged": true
+    },
+    {
+     "linear_a": "SI",
+     "damaged": true
+    },
+    {
+     "linear_a": "RA-ME",
+     "damaged": true
+    },
+    {
+     "linear_a": "A-NE",
+     "damaged": true
+    },
+    {
+     "linear_a": "U-NA-RU-KA-JA-SI",
+     "damaged": true
+    },
+    {
+     "linear_a": "A-PA-DU-PA",
+     "damaged": true
+    },
+    {
+     "linear_a": "JA",
+     "damaged": true
+    },
+    {
+     "linear_a": "JA-PA-QA",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ],
+    "2": [
+     "A-DI-KI-TE"
+    ],
+    "4": [
+     "U-NA-RU-KA-JA-SI"
+    ]
+   }
+  },
+  {
+   "id": "SYZa3",
+   "in_corpus": true,
+   "site": "Syme",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": true
+    },
+    {
+     "linear_a": "SE-KA-NA-SI",
+     "damaged": true
+    },
+    {
+     "linear_a": "SI-RU-TE",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ],
+    "4": [
+     "SE-KA-NA-SI"
+    ],
+    "6": [
+     "SI-RU-TE"
+    ]
+   }
+  },
+  {
+   "id": "IOZa15",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "I-PI-NA-MA",
+     "damaged": true
+    },
+    {
+     "linear_a": "SI-RU-TE",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "5": [
+     "I-PI-NA-MA"
+    ],
+    "6": [
+     "SI-RU-TE"
+    ]
+   }
+  },
+  {
+   "id": "IOZa16",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "AROM",
+     "damaged": true
+    },
+    {
+     "linear_a": "JA-SA-SA-RA",
+     "damaged": false
+    },
+    {
+     "linear_a": "ME",
+     "damaged": false
+    },
+    {
+     "linear_a": "U-NA-RU-KA-NA-SI",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "3": [
+     "JA-SA-SA-RA"
+    ],
+    "4": [
+     "U-NA-RU-KA-NA-SI"
+    ]
+   }
+  },
+  {
+   "id": "IOZa6",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "TA-NA-I-*301-U-TI-NU",
+     "damaged": false
+    },
+    {
+     "linear_a": "I-NA-TA-I-ZU-DI-SI-KA",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-SA-SA-RA-ME",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "TA-NA-I-*301-U-TI-NU"
+    ],
+    "3": [
+     "JA-SA-SA-RA-ME"
+    ]
+   }
+  },
+  {
+   "id": "IOZa9",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "JA-SA-SA-RA-ME",
+     "damaged": true
+    },
+    {
+     "linear_a": "U-NA-KA-NA-SI",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "3": [
+     "JA-SA-SA-RA-ME"
+    ],
+    "4": [
+     "U-NA-KA-NA-SI"
+    ]
+   }
+  },
+  {
+   "id": "PKZa27",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "JA-SA-SA-RA-ME",
+     "damaged": false
+    },
+    {
+     "linear_a": "U-NA-KA-NA-SI",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "3": [
+     "JA-SA-SA-RA-ME"
+    ],
+    "4": [
+     "U-NA-KA-NA-SI"
+    ]
+   }
+  },
+  {
+   "id": "SYZa1",
+   "in_corpus": true,
+   "site": "Syme",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-DA-MI",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ],
+    "2": [
+     "I-DA-MI"
+    ]
+   }
+  },
+  {
+   "id": "VRYZa1",
+   "in_corpus": true,
+   "site": "Vrysinas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "I-PI-NA-MA",
+     "damaged": true
+    },
+    {
+     "linear_a": "SI-RU-TE",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "5": [
+     "I-PI-NA-MA"
+    ],
+    "6": [
+     "SI-RU-TE"
+    ]
+   }
+  },
+  {
+   "id": "APZa1",
+   "in_corpus": true,
+   "site": "Apodoulou",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "JA-TA-I-*301-U-JA",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "JA-TA-I-*301-U-JA"
+    ]
+   }
+  },
+  {
+   "id": "APZa2",
+   "in_corpus": true,
+   "site": "Apodoulou",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "NA-SI",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-PI-NA-MA",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-KU-PA₃-NA-TU-NA-TE",
+     "damaged": true
+    },
+    {
+     "linear_a": "PI-MI-NA-TE",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-NA-JA-RE-TA",
+     "damaged": true
+    },
+    {
+     "linear_a": "QA",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "5": [
+     "I-PI-NA-MA"
+    ]
+   }
+  },
+  {
+   "id": "IOZa14",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "SI-RU-TE",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-DI",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "6": [
+     "SI-RU-TE"
+    ]
+   }
+  },
+  {
+   "id": "IOZa3",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "AU",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ]
+   }
+  },
+  {
+   "id": "IOZa7",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-TI-*321",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ]
+   }
+  },
+  {
+   "id": "PKZa10",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "SI",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-PI-NA-MI-NA",
+     "damaged": false
+    },
+    {
+     "linear_a": "SI",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "5": [
+     "I-PI-NA-MI-NA"
+    ]
+   }
+  },
+  {
+   "id": "PKZa14",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "TU-ME",
+     "damaged": true
+    },
+    {
+     "linear_a": "I",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-SA-SA",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "3": [
+     "JA-SA-SA"
+    ]
+   }
+  },
+  {
+   "id": "PKZa18",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "TE",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-DA",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-JA",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "2": [
+     "I-DA"
+    ]
+   }
+  },
+  {
+   "id": "PKZa8",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "NU",
+     "damaged": true
+    },
+    {
+     "linear_a": "PA₃-E",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-DI-KI-TE-TE-*307-PU₂-RE",
+     "damaged": false
+    },
+    {
+     "linear_a": "TU-ME-I",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-SA-U-NA-KA-NA-SI",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-PI",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "5": [
+     "I-PI"
+    ]
+   }
+  },
+  {
+   "id": "PLZf1",
+   "in_corpus": true,
+   "site": "Platanos",
+   "support": "Metal object",
+   "tokens": [
+    {
+     "linear_a": "TA",
+     "damaged": true
+    },
+    {
+     "linear_a": "WI-TE-JA-MU",
+     "damaged": false
+    },
+    {
+     "linear_a": "U-QE-TI",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-SA-SA-RA-ME",
+     "damaged": false
+    },
+    {
+     "linear_a": "TA-NU-NI-KI-NA",
+     "damaged": false
+    },
+    {
+     "linear_a": "NI-NU-NI",
+     "damaged": false
+    },
+    {
+     "linear_a": "𐝫",
+     "damaged": true
+    },
+    {
+     "linear_a": "I",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "3": [
+     "JA-SA-SA-RA-ME"
+    ]
+   }
+  },
+  {
+   "id": "PSZa2",
+   "in_corpus": true,
+   "site": "Psykhro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "RE-I-KE",
+     "damaged": true
+    },
+    {
+     "linear_a": "TA-NA-I-*301-TI",
+     "damaged": false
+    },
+    {
+     "linear_a": "𐄌-JA-TI",
+     "damaged": true
+    },
+    {
+     "linear_a": "JA-SA-SA-RA-ME",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "TA-NA-I-*301-TI"
+    ]
+   }
+  },
+  {
+   "id": "SYZa2",
+   "in_corpus": true,
+   "site": "Syme",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-SU-MA-TU-OLIV",
+     "damaged": false
+    },
+    {
+     "linear_a": "1",
+     "damaged": false
+    },
+    {
+     "linear_a": "U-NA-KA-NA-SI-OLE",
+     "damaged": false
+    },
+    {
+     "linear_a": "A-JA",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ]
+   }
+  },
+  {
+   "id": "SYZa4",
+   "in_corpus": true,
+   "site": "Syme",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": false
+    },
+    {
+     "linear_a": "JA-I-NWA-ZA",
+     "damaged": false
+    },
+    {
+     "linear_a": "PA₃-NI-WI",
+     "damaged": false
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ]
+   }
+  },
+  {
+   "id": "SYZa8",
+   "in_corpus": true,
+   "site": "Syme",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-TA-I-*301-WA-JA",
+     "damaged": true
+    },
+    {
+     "linear_a": "JA-JA",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "1": [
+     "A-TA-I-*301-WA-JA"
+    ]
+   }
+  },
+  {
+   "id": "IOZa11",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "NA",
+     "damaged": true
+    },
+    {
+     "linear_a": "DA-DA",
+     "damaged": true
+    },
+    {
+     "linear_a": "U-TI-NU",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-NA-I-DA",
+     "damaged": true
+    }
+   ],
+   "slots": {}
+  },
+  {
+   "id": "IOZa12",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "JA-SA",
+     "damaged": false
+    },
+    {
+     "linear_a": "SA-RA-ME",
+     "damaged": false
+    },
+    {
+     "linear_a": "I-TI",
+     "damaged": true
+    }
+   ],
+   "slots": {}
+  },
+  {
+   "id": "IOZa4",
+   "in_corpus": true,
+   "site": "Iouktas",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "*301-WA",
+     "damaged": true
+    }
+   ],
+   "slots": {}
+  },
+  {
+   "id": "PKZa20",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "U-NA-KA",
+     "damaged": true
+    }
+   ],
+   "slots": {}
+  },
+  {
+   "id": "PKZa4",
+   "in_corpus": true,
+   "site": "Palaikastro",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "A-SA-SA-RA",
+     "damaged": true
+    }
+   ],
+   "slots": {}
+  },
+  {
+   "id": "KNZa10",
+   "in_corpus": true,
+   "site": "Knossos",
+   "support": "Stone vessel",
+   "tokens": [
+    {
+     "linear_a": "TA-NU-MU-TI",
+     "damaged": true
+    },
+    {
+     "linear_a": "JA-SA-SA-RA-MA",
+     "damaged": false
+    },
+    {
+     "linear_a": "NA",
+     "damaged": false
+    },
+    {
+     "linear_a": "DA-WA",
+     "damaged": true
+    },
+    {
+     "linear_a": "DU-WA-TO",
+     "damaged": true
+    },
+    {
+     "linear_a": "I-JA",
+     "damaged": true
+    }
+   ],
+   "slots": {
+    "3": [
+     "JA-SA-SA-RA-MA"
+    ]
+   },
+   "added": {
+    "decided": "2026-09-08",
+    "reason": "JA-SA-SA-RA-MA on a Knossos stone vessel (slot-3 type; -MA for -ME). Found outside the frozen 32 by the claims recurrence scan (CLAIMS-REPORT.md). Tom, 2026-09-08: move into the family at the refreeze."
+   }
+  }
+ ]
+}

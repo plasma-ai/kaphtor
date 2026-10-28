@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0575_love
 title: "*ʾVhVb-: 'love'"
-desc: "Proto-Semitic *ʾVhVb-, 'love': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʾVhVb-, 'love': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0575"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʾHB (CAL s.v. ʾhb) | CAL s.v. ʾhb; Anderson–Moser 2024 root ʾhb | gloss withheld |
 | Hebrew | ʾahab 'love' | Anderson–Moser 2024 root ʾhb |  |
 | Ugaritic | ʾhb (Kogan 2015, ch. 5 §3.1 no. 7) | Kogan 2015 ch. 5 §3.1 no. 7; Anderson–Moser 2024 root ʾhb | gloss withheld |
+| Eblaitic | i-ib-ma /ʾ-h-b/ (Sanmartín GlOS 1, 13) | Sanmartín GlOS 1, 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

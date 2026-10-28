@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Za 10 writes JA-SA-SA-RA-MA / NA across the side break without a divider, so the sequence is one graphic word. Amorite IA-SA-RA-AM directly attests accusative /yašaram/ (Gelb 1980, no. 3448), permitting the Semitic manner accusative ‘uprightly, in righteousness.’ NA is provisionally an emphatic/topical clitic =na, compared with Ugaritic -n or -(Vn)na (Tropper §§89.1–2). No exact /yašaram=na/ is externally attested, and regular Semitic dual/plural endings do not produce -MA-NA. The former √m-n-y compound ‘righteous portion/Righteous Allotter’ is withdrawn.
+KN Za 10 writes JA-SA-SA-RA-MA / NA across the side break without a divider, so the sequence is one graphic word. Amorite IA-SA-RA-AM directly attests accusative /yašaram/ (Gelb 1980, no. 3448), permitting the Semitic manner accusative ‘uprightly, in righteousness.’ NA is provisionally an emphatic/topical clitic =na, compared with Ugaritic -n or -(Vn)na (Tropper §§89.1–2). No exact /yašaram=na/ is externally attested, and regular Semitic dual/plural endings do not produce -MA-NA. It is not a √m-n-y compound ‘righteous portion/Righteous Allotter’.
 
 ### Source
 

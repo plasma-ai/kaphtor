@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Cross-site paradigm JA-SI (KNZb4, PEZc4) ~ JA-SI-E (KEZb4 lamp dedication) + the JA- vocative frame. On KNZb4 read inside the votive frame JU 𐄁 JA-SI 𐄁 SI = l(u) 'for' + yašīʕ + šay 'tribute' (JU votive arm); on PEZc4 paired with A-JA: 'Life! — he saves!'.
+Cross-site paradigm JA-SI (KNZb4, PEZc4) ~ JA-SI-E (KEZb4 lamp dedication) + the JA- vocative frame. On KNZb4 read inside the votive frame JU 𐄁 JA-SI 𐄁 SI = l(u) 'for' + yašīʕ + šay 'tribute' (JU votive arm); on PEZc4 paired with A-JA: 'Life! — he saves!'. Gordon's ya-ne 'wine' (1966, §123; his text II,3 = Brice ILA II 3) is this KNZb4 group; the corrected reading of its second sign is SI (Packard 1974, 260; GORILA IV).
 
 ### Cognates
 

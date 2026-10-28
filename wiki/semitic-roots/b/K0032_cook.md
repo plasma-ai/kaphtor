@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0032_cook
 title: "*bašāl-: 'cook'"
-desc: "Proto-Semitic *bašāl-, 'cook': reflexes in 19 language(s)."
+desc: "Proto-Semitic *bašāl-, 'cook': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0032"
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | bäsälä (LGz. 109) | LGz. 109 | gloss withheld |
 | Mehri | behēl (Kogan 2011, 242) | Kogan 2011 242 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. bäsälä (CDG 159 apud SEDonline 1071) | CDG 159; SEDonline 1071 | gloss withheld |
+| Eblaitic | dab₆-su-a-a /tabs₁ūl/ (Sanmartín GlOS 1, 128) | Sanmartín GlOS 1, 128 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

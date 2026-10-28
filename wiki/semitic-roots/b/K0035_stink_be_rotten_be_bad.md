@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0035_stink_be_rotten_be_bad
 title: "*bVʾVš-: 'stink, be rotten; be bad'"
-desc: "Proto-Semitic *bVʾVš-, 'stink, be rotten; be bad': reflexes in 12 language(s)."
+desc: "Proto-Semitic *bVʾVš-, 'stink, be rotten; be bad': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0035"
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | bəʾəsa (LGz. 82) | LGz. 82 |  |
 | Epigraphic South Arabian | Sab bʾs1; bʾs1, bʾs1t (SD 25); bʾs (Biella 34) | SD 25; Biella 34 | gloss withheld |
 | Syrian Aramaic | bʾeš 'be evil, displease, harm'; beʾštā 'a misfortune' (Payne Smith 34); bīš 'bad, evil' (Payne Smith 43); bīšūtā 'evil, harm; wickedness, envy' (Payne Smith 43) | Payne Smith 34; Payne Smith 43 |  |
+| Eblaitic | bí-ì-šum /biʾs₁/; /buʾs₁ān/: cf. bù-sa-nu (Sanmartín GlOS 1, 105) | Sanmartín GlOS 1, 105 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

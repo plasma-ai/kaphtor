@@ -63,13 +63,13 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾata-inawaya | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
 | A-DI-KI-TE-\[ | A-Dikte… | \[Dikte …\] | CANDIDATE |  |
-| \]SI-\[ | \[šīrūte?\] | \[sacred song?\] | SPECULATIVE |  |
-| \]RA-ME\[ | \[yaššara\]me? | \[in righteousness?\] | SPECULATIVE |  |
+| \]SI-\[ | \[šīrūte\] | \[sacred song?\] | SPECULATIVE |  |
+| \]RA-ME\[ | \[yaššara\]me | \[in righteousness?\] | SPECULATIVE |  |
 | [[wiki/linear-a/words/A/A_etc_NE_broken_start\|&#93;A-&#91;…&#93;-NE]] |  | \[untranslated fragment\] | SPECULATIVE | unread |
 | U-NA-RU-KA-\[?\]-JA-SI | wannā lū kanāsī | And behold, may \[there be\] my gathering! | CANDIDATE |  |
-| A-PA-DU-PA-\[…\] | ʿabdu…? | \[damaged sequence, possibly beginning ‘servant’\] | SPECULATIVE |  |
+| A-PA-DU-PA-\[…\] | ʿabdu… | \[damaged sequence, possibly beginning ‘servant’\] | SPECULATIVE |  |
 | \]JA-\[…\] |  | \[untranslated fragment\] |  |  |
-| [[wiki/linear-a/words/J/JA_PA_QA\|JA-PA-QA]] | yapqaḥ? | \[he opens (his eyes)?\] | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/J/JA_PA_QA\|JA-PA-QA]] | yapqaḥ | \[he opens (his eyes)?\] | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 

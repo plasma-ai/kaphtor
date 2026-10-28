@@ -80,11 +80,11 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/W/WA_star362\|WA-\*362]] | ? | unknown (heading?) | SPECULATIVE | unread |
-| [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | ? | unread |  | unread |
+| [[wiki/linear-a/words/W/WA_star362\|WA-\*362]] |  | unknown (heading?) | SPECULATIVE | unread |
+| [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] |  | unread |  | unread |
 | [[wiki/linear-a/words/U/U_star49\|U-\*49]] | ʾummi | mother; or capital; rival 'and palm/tree produce' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | Weapon of Anat (PN) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | Weapon of Anat (personal name); rival Neith as the second element | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | Mourner (personal name, Akk. lallaru); rival Amorite Li-lu-ri | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (PNM v6) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/D/DU\|DU]] | du | that, of (relative pronoun) | CONFIRMED | CONFIRMED (lexicon) |

@@ -41,6 +41,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PCS \*ŝbr 'to hope, to consider' (SEDonline 1816). Hbr. ŝbr is likely an Aramaism (EDA I 440 apud SEDonline 1816).
+PCS \*ŝbr 'to hope, to consider' (SEDonline 1816). Hbr. ŝbr is likely an Aramaism, and Arb. sbr 'to probe the wound; to try, to examine' is also likely borrowed from Aramaic (EDA I 440, ◊P0807).
 
 <!-- END kaphtor:record -->

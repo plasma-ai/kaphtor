@@ -43,6 +43,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*bṣ̂r 'to cut, to tear' (EDA I 442 apud SEDonline 1961). Distinct from 2875 \*bVṣVr- 'be inaccessible' and K0043 \*bVṣVr- 'see'.
+PS \*bṣ̂r 'to cut, to tear' (EDA I 442, ◊P0811; SEDonline 1961). Distinct from 2875 \*bVṣVr- 'be inaccessible' and K0043 \*bVṣVr- 'see'.
 
 <!-- END kaphtor:record -->

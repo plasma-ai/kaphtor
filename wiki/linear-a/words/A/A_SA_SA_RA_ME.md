@@ -40,14 +40,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Iouktas and Prassa variant (on PRZa1 RA is drawn reversed, the A802 form, and normalized RA in GORILA IV 48) with ʾA- prefix instead of JA- (ya-). The prefix alternation JA-/A- parallels the formula verb (A-TA-I-\*301-WA-JA vs. JA-TA-I-\*301-U-JA), suggesting these are person markers or article variants, not different roots. Huehnergard: /yušru/ "uprightness" (yuCCu nominal pattern); confirms adverbial accusative with -m. \|\| COGNATES: those of JA-SA-SA-RA-ME, whose reading this spelling shares.
+Iouktas and Prassa variant (on PRZa1 RA is drawn reversed, the A802 form, and normalized RA in GORILA IV 48) with ʾA- prefix instead of JA- (ya-). Ebla writes the same base with a- for ya-: names a-sa-ar, a-sa-ra /yaSar/, beside Amorite ia-sa-rum and a-ša-ru-um (Sanmartín GlOS 2, 377; semitic_roots 1446). The prefix alternation JA-/A- parallels the formula verb (A-TA-I-\*301-WA-JA vs. JA-TA-I-\*301-U-JA), suggesting these are person markers or article variants, not different roots. Huehnergard: /yušru/ "uprightness" (yuCCu nominal pattern); confirms adverbial accusative with -m. \|\| COGNATES: those of JA-SA-SA-RA-ME, whose reading this spelling shares.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | yāšār (יָשָׁר) 'upright, straight, righteous' (Deut 32:4, Ps 119:137, 1 Kgs 9:4, Prov 2:7); yōšer (יֹשֶׁר) 'uprightness, equity' (Ps 111:8, Prov 2:13); √y-š-r 'to be straight'; Yeshurun (יְשֻׁרוּן) poetic name for Israel = 'the upright one' (Deut 32:15, 33:5, 33:26, Isa 44:2); cf. Num 23:10 yĕšārīm (Balaam's pun on Yeshurun) |
-| Ugaritic | yšr 'straight, upright' (DUL 928); yšr in ritual context = moral/cultic fitness |
+| Ugaritic | yšr 'straight, upright' (DULAT 973); yšr in ritual context = moral/cultic fitness |
 | Akkadian | ešēru 'to be/go straight, prosper' (CAD E 354); išaru 'straight, just, normal'; mīšaru 'justice, equity' (CAD M/II 116)—Hammurabi's mīšarum edicts: royal debt-release decrees that 'set things straight' |
 | Arabic | yasara (يسر) 'to be easy, smooth'; yasār 'ease, prosperity' |
 

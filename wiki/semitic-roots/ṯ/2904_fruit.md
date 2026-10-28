@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/2904_fruit
 title: "*ṯVmVr-: 'fruit'"
-desc: "Proto-Semitic *ṯVmVr-, 'fruit': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ṯVmVr-, 'fruit': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2904"
@@ -36,7 +36,12 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | sämärä (LGz. 503) | LGz. 503 |  |
 | Amorite | ṯmr (Huffmon APNM 267) | Huffmon APNM 267 | gloss withheld |
 | Modern Arabic | Yem. aṯmār (Biella 546) | Biella 546 |  |
+| Eblaitic | ša-ma-la /ṯamr/ (Sanmartín GlOS 2, 324) | Sanmartín GlOS 2, 324 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Krebernik 1988, 59 n. 36 prefers for the name verb Gt ṯtmr a link with Akk. šitmurum 'to praise' over 'to bear fruit' (Huffmon APNM 267).
 
 <!-- END kaphtor:record -->

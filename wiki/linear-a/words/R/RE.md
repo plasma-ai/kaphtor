@@ -46,7 +46,7 @@ RE read as /le/ not /re/—preposition function. EXCLUDED as commodity logogram.
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | l 'to, for' (DUL) |
+| Ugaritic | l 'to, for' (DULAT 471) |
 | Hebrew | lə- (לְ) 'to, for' (BDB 510) |
 | Arabic | li- (لِ) 'for, to, belonging to' |
 | Phoenician | l 'to, for' (Krahmalkov) |
@@ -67,7 +67,7 @@ Gordon 1966 §163
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH4a\|ARKH4a]] | Arkhanes | Tablet | none |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH4b\|ARKH4b]] | Arkhanes | Tablet | none |
 | [[wiki/linear-a/inscriptions/GO/GO/GO2v\|GO2v]] | Gournia | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT109\|HT109]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT109\|HT109]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT66\|HT66]] | Haghia Triada | Tablet | none |

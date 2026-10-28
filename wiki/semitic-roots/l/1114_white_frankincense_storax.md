@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/1114_white_frankincense_storax
 title: "*lVban-: 'white; frankincense; storax'"
-desc: "Proto-Semitic *lVban-, 'white; frankincense; storax': reflexes in 15 language(s)."
+desc: "Proto-Semitic *lVban-, 'white; frankincense; storax': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1114"
@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | lubān- (BK 2, 962); lubnā (HALOT 518) | BK 2, 962; HALOT 518 | gloss withheld |
+| Arabic | lubān- (BK 2, 962); lubnā (HALOT 518); ʿasal al-lubnā (Lane 3007) | BK 2, 962; HALOT 518; Lane 3007 | gloss withheld |
 | Mehri | lbōn |  |  |
 | Soqotri | libn-on; ḷébhon (SLOnline 7795) | SLOnline 7795 | gloss withheld |
 | Akkadian | lubbunu (CAD L 231) | CAD L 231 | gloss withheld |
@@ -41,10 +41,11 @@ updated: 2026-10-25T06:28:07Z
 | Epigraphic South Arabian | lbnt (HALOT 518); Sab lbny (SD 81) | HALOT 518; SD 81 | gloss withheld |
 | Mandaic Aramaic | lubana (HALOT 518) | HALOT 518 | gloss withheld |
 | Tigre | lebān (HALOT 518) | HALOT 518 | gloss withheld |
-| Amorite | lbn: labanum, labnum, labbinum (Gelb AS 21, 24); labbīnu (Buck 2019, 329) | Gelb AS 21 24; Buck 2019, 329 | gloss withheld |
+| Amorite | lbn: labanum, labnum, labbinum (Gelb AS 21, 24); labbīnu (Buck 2019, 329); labn, laban: la-ab-nu-um, la-ba-an, la-ba-NE-rí-iš (Ur III) (Sanmartín GlOS 2, 9) | Gelb AS 21 24; Buck 2019, 329; Sanmartín GlOS 2, 9 | gloss withheld |
 | Judaic Aramaic | labnaʾ (T 155); lebūntaʾ (T 156) | T 155; T 156 | gloss withheld |
 | Syrian Aramaic | lebuntaʾ (T 156) | T 156 | gloss withheld |
 | Aramaic | Off. lbwnh (DNWSI 564 apud SEDonline 1796); CPA lbwnh, lybwnh (DCPA 193 apud SEDonline 1796); Sam. lbwnh (DSA 425 apud SEDonline 1796) | DNWSI 564; SEDonline 1796; DSA 425 | gloss withheld |
+| Eblaitic | /labn, laban/: name la-ba-na-AN (?) (Sanmartín GlOS 2, 9) | Sanmartín GlOS 2, 9 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

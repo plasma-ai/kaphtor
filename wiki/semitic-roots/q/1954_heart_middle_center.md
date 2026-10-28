@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1954_heart_middle_center
 title: "*ḳalb- (or *ḳabl-): 'heart, middle, center'"
-desc: "Proto-Semitic *ḳalb- (or *ḳabl-), 'heart, middle, center': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḳalb- (or *ḳabl-), 'heart, middle, center': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1954"
@@ -32,6 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḳalb- 'heart' \[BK 2 796\] | BK 2 796 |  |
 | Akkadian | ḳablu OAkk on \[CAD ḳ 6-\], \[AHw 887-888\] | CAD ḳ 6-; AHw 887-888 | gloss withheld |
+| Amorite | qabliy (Sanmartín GlOS 1, 338) | Sanmartín GlOS 1, 338 | gloss withheld |
+| Eblaitic | ga-bí-li-tum, ga-ab-li-tum /qabliy/ (Sanmartín GlOS 1, 338) | Sanmartín GlOS 1, 338 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

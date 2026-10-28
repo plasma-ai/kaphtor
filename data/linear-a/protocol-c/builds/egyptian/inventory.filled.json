@@ -1,0 +1,2226 @@
+{
+ "arm": "egyptian",
+ "grammar": {
+  "citation": "James P. Allen, Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs, third edition, revised and reorganized, with a new analysis of the verbal system. Cambridge University Press, 2014.",
+  "file_sha256": "182ffd1a834aa7219260c011beae057534569b5eb8db625a4d43b02ea8f269d7"
+ },
+ "builder": {
+  "model": "gpt-6-astra (OpenAI Codex CLI 0.165.0; reasoning effort high) [recorded after the run, from run_builder.sh]",
+  "session_started_utc": "2026-10-29T18:20:34Z",
+  "transcript_file": "transcript.jsonl"
+ },
+ "class_order": {
+  "prefix": [
+   "p_clitic",
+   "p_preposition",
+   "p_article",
+   "p_person",
+   "p_stem"
+  ],
+  "suffix": [
+   "s_stem",
+   "s_gender_number",
+   "s_case_person",
+   "s_mood",
+   "s_pronoun",
+   "s_enclitic"
+  ],
+  "basis": []
+ },
+ "entries": [
+  {
+   "id": "egyptian_001",
+   "morpheme_id": "egyptian_feminine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "t",
+   "segments": [
+    "t"
+   ],
+   "function": "feminine ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.4 \"Gender\"; md line 1299)",
+    "section": "§4.4",
+    "page": "44"
+   }
+  },
+  {
+   "id": "egyptian_002",
+   "morpheme_id": "egyptian_masculine_singular",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "j",
+   "segments": [
+    "j"
+   ],
+   "function": "masculine singular noun ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.4 \"Gender\"; md line 1299)",
+    "section": "§4.4",
+    "page": "44"
+   }
+  },
+  {
+   "id": "egyptian_002b",
+   "morpheme_id": "egyptian_masculine_singular",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "w",
+   "segments": [
+    "w"
+   ],
+   "function": "masculine singular noun ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.4 \"Gender\"; md line 1299)",
+    "section": "§4.4",
+    "page": "44"
+   }
+  },
+  {
+   "id": "egyptian_003",
+   "morpheme_id": "egyptian_masculine_plural",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "w",
+   "segments": [
+    "w"
+   ],
+   "function": "masculine plural ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.5 \"Number\"; md line 1321)",
+    "section": "§4.5",
+    "page": "45"
+   }
+  },
+  {
+   "id": "egyptian_004",
+   "morpheme_id": "egyptian_feminine_plural",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "wt",
+   "segments": [
+    "w",
+    "t"
+   ],
+   "function": "feminine plural noun ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.5 \"Number\"; md line 1321)",
+    "section": "§4.5",
+    "page": "45"
+   }
+  },
+  {
+   "id": "egyptian_005",
+   "morpheme_id": "egyptian_masculine_dual",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "wj",
+   "segments": [
+    "w",
+    "j"
+   ],
+   "function": "masculine dual ending added to the singular noun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.7 \"The dual\"; md line 1359)",
+    "section": "§4.7",
+    "page": "46"
+   }
+  },
+  {
+   "id": "egyptian_006",
+   "morpheme_id": "egyptian_feminine_dual",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "j",
+   "segments": [
+    "j"
+   ],
+   "function": "feminine dual ending added to the feminine singular noun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.7 \"The dual\"; md line 1359)",
+    "section": "§4.7",
+    "page": "46"
+   },
+   "notes": "The singular noun already ends in t; the table under §4.8 explicitly gives SINGULAR + j."
+  },
+  {
+   "id": "egyptian_005b",
+   "morpheme_id": "egyptian_masculine_dual",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "–wj",
+   "segments": [
+    "w",
+    "j"
+   ],
+   "function": "masculine dual ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.7 \"The dual\"; md line 1373)",
+    "section": "§4.7",
+    "page": "46"
+   }
+  },
+  {
+   "id": "egyptian_006b",
+   "morpheme_id": "egyptian_feminine_dual",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "–tj",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "feminine dual ending as written",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 4.7 \"The dual\"; md line 1373)",
+    "section": "§4.7",
+    "page": "46"
+   },
+   "notes": "The table prints –tj; this includes the feminine t. The other dual tables and §4.8 analyse the addition to the feminine singular as j."
+  },
+  {
+   "id": "egyptian_007",
+   "morpheme_id": "egyptian_nisbe_masculine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "j",
+   "segments": [
+    "j"
+   ],
+   "function": "masculine singular nisbe ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 6.2 \"Adjectives as modifiers\"; md line 2177)",
+    "section": "§6.2",
+    "page": "75"
+   }
+  },
+  {
+   "id": "egyptian_008",
+   "morpheme_id": "egyptian_suffix_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".j",
+   "segments": [
+    "j"
+   ],
+   "function": "1s suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "60"
+   },
+   "notes": "Written j is retained in segments. The 1s row calls its pronunciation the vowel i."
+  },
+  {
+   "id": "egyptian_009",
+   "morpheme_id": "egyptian_suffix_pronoun_2ms",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".k",
+   "segments": [
+    "k"
+   ],
+   "function": "2ms suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_010",
+   "morpheme_id": "egyptian_suffix_pronoun_2fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".ṯ",
+   "segments": [
+    "ṯ"
+   ],
+   "function": "2fs suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_010b",
+   "morpheme_id": "egyptian_suffix_pronoun_2fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".t",
+   "segments": [
+    "t"
+   ],
+   "function": "2fs suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_011",
+   "morpheme_id": "egyptian_suffix_pronoun_3ms",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".f",
+   "segments": [
+    "f"
+   ],
+   "function": "3ms suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_012",
+   "morpheme_id": "egyptian_suffix_pronoun_3fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".s",
+   "segments": [
+    "s"
+   ],
+   "function": "3fs suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_013",
+   "morpheme_id": "egyptian_suffix_pronoun_1pl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".n",
+   "segments": [
+    "n"
+   ],
+   "function": "1pl suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_014",
+   "morpheme_id": "egyptian_suffix_pronoun_2pl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".ṯn",
+   "segments": [
+    "ṯ",
+    "n"
+   ],
+   "function": "2pl suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_014b",
+   "morpheme_id": "egyptian_suffix_pronoun_2pl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".tn",
+   "segments": [
+    "t",
+    "n"
+   ],
+   "function": "2pl suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_015",
+   "morpheme_id": "egyptian_suffix_pronoun_3pl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".sn",
+   "segments": [
+    "s",
+    "n"
+   ],
+   "function": "3pl suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   }
+  },
+  {
+   "id": "egyptian_008b",
+   "morpheme_id": "egyptian_suffix_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "i",
+   "segments": [
+    "i"
+   ],
+   "function": "1s suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "60"
+   },
+   "notes": "Vocalic realization explicitly named inside the 1s table cell: “This suffix was just the vowel i.”"
+  },
+  {
+   "id": "egyptian_015b",
+   "morpheme_id": "egyptian_suffix_pronoun_3pl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".w",
+   "segments": [
+    "w"
+   ],
+   "function": "3pl suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+    "section": "§5.3",
+    "page": "61"
+   },
+   "notes": "The table cell says this replacement for .sn occasionally occurs in nonstandard texts beginning in Dynasty 18."
+  },
+  {
+   "id": "egyptian_016",
+   "morpheme_id": "egyptian_adherence_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "wj",
+   "segments": [
+    "w",
+    "j"
+   ],
+   "function": "1s dependent pronoun in the combined expression meaning “I belong”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_016b",
+   "morpheme_id": "egyptian_adherence_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "w(j)",
+   "segments": [
+    "w",
+    "j"
+   ],
+   "function": "1s dependent pronoun in the combined expression meaning “I belong”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_016c",
+   "morpheme_id": "egyptian_adherence_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "w(j)",
+   "segments": [
+    "w"
+   ],
+   "function": "1s dependent pronoun in the combined expression meaning “I belong”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_016d",
+   "morpheme_id": "egyptian_adherence_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-w(j)",
+   "segments": [
+    "w",
+    "j"
+   ],
+   "function": "1s dependent pronoun in the combined expression meaning “I belong”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_016e",
+   "morpheme_id": "egyptian_adherence_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-w(j)",
+   "segments": [
+    "w"
+   ],
+   "function": "1s dependent pronoun in the combined expression meaning “I belong”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_017",
+   "morpheme_id": "egyptian_adherence_pronoun_3ms",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "sw",
+   "segments": [
+    "s",
+    "w"
+   ],
+   "function": "3ms dependent pronoun in the combined expression meaning “he belongs”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_017b",
+   "morpheme_id": "egyptian_adherence_pronoun_3ms",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sw",
+   "segments": [
+    "s",
+    "w"
+   ],
+   "function": "3ms dependent pronoun in the combined expression meaning “he belongs”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_018",
+   "morpheme_id": "egyptian_adherence_pronoun_3fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "sj",
+   "segments": [
+    "s",
+    "j"
+   ],
+   "function": "3fs dependent pronoun in the combined expression meaning “she belongs”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_018b",
+   "morpheme_id": "egyptian_adherence_pronoun_3fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "s(j)",
+   "segments": [
+    "s",
+    "j"
+   ],
+   "function": "3fs dependent pronoun in the combined expression meaning “she belongs”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_018c",
+   "morpheme_id": "egyptian_adherence_pronoun_3fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "s(j)",
+   "segments": [
+    "s"
+   ],
+   "function": "3fs dependent pronoun in the combined expression meaning “she belongs”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_018d",
+   "morpheme_id": "egyptian_adherence_pronoun_3fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-s(j)",
+   "segments": [
+    "s",
+    "j"
+   ],
+   "function": "3fs dependent pronoun in the combined expression meaning “she belongs”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_018e",
+   "morpheme_id": "egyptian_adherence_pronoun_3fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-s(j)",
+   "segments": [
+    "s"
+   ],
+   "function": "3fs dependent pronoun in the combined expression meaning “she belongs”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+    "section": "§7.8",
+    "page": "90"
+   },
+   "notes": "Restricted to the combinations with n(j), which the immediately preceding text says are pronounced and often written as one word. Not a general bound-pronoun analysis of the separate dependent series."
+  },
+  {
+   "id": "egyptian_010c",
+   "morpheme_id": "egyptian_suffix_pronoun_2fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".(t)",
+   "segments": [
+    "t"
+   ],
+   "function": "2fs suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 10.5 \"Personal pronouns as subjects\"; md line 3996)",
+    "section": "§10.5",
+    "page": "143"
+   },
+   "notes": "From tw.(t). The absent realization is zero and is recorded only in notes.md."
+  },
+  {
+   "id": "egyptian_019",
+   "morpheme_id": "egyptian_infinitive",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "t",
+   "segments": [
+    "t"
+   ],
+   "function": "infinitive ending with the base stem",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 13.3 \"The forms of the infinitive\"; md line 5079)",
+    "section": "§13.3",
+    "page": "180"
+   },
+   "notes": "Written in the weak-verb and caus. 2-lit. forms, including jrt, ḥmst, smnt, rdjt, djt, jt, jjt and jwt. Zero-ending forms are not entries."
+  },
+  {
+   "id": "egyptian_020",
+   "morpheme_id": "egyptian_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "s",
+   "segments": [
+    "s"
+   ],
+   "function": "causative stem prefix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 13.3 \"The forms of the infinitive\"; md line 5079)",
+    "section": "§13.3",
+    "page": "180"
+   },
+   "notes": "Extracted from the initial s of the examples explicitly labelled caus. in the table; no boundary sign is printed there."
+  },
+  {
+   "id": "egyptian_021",
+   "morpheme_id": "egyptian_negatival_complement",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "w",
+   "segments": [
+    "w"
+   ],
+   "function": "negatival complement ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 13.17 \"The form of the negatival complement\"; md line 5551)",
+    "section": "§13.17",
+    "page": "192"
+   }
+  },
+  {
+   "id": "egyptian_022",
+   "morpheme_id": "egyptian_complementary_infinitive",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "t",
+   "segments": [
+    "t"
+   ],
+   "function": "complementary infinitive ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 13.20 \"The form of the complementary infinitive\"; md line 5609)",
+    "section": "§13.20",
+    "page": "194"
+   }
+  },
+  {
+   "id": "egyptian_022b",
+   "morpheme_id": "egyptian_complementary_infinitive",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "yt",
+   "segments": [
+    "y",
+    "t"
+   ],
+   "function": "complementary infinitive ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 13.20 \"The form of the complementary infinitive\"; md line 5609)",
+    "section": "§13.20",
+    "page": "194"
+   },
+   "notes": "Printed in msyt and ḥnmnmyt. The root-class label of the latter is retained without correcting the table."
+  },
+  {
+   "id": "egyptian_023",
+   "morpheme_id": "egyptian_imperative_plural",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "i",
+   "segments": [
+    "i"
+   ],
+   "function": "MPL and FPL imperative ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 15.1 \"Definition and regular forms of the imperative\"; md line 6051)",
+    "section": "§15.1",
+    "page": "209"
+   },
+   "notes": "The table explicitly labels these as Coptic imperative forms: amvi and amhi. Only final i is extracted, identified as the plural ending in the paragraph following the table. No complete-word phonemic analysis is supplied."
+  },
+  {
+   "id": "egyptian_024",
+   "morpheme_id": "egyptian_stative_1s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".kw",
+   "segments": [
+    "k",
+    "w"
+   ],
+   "function": "1s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_024b",
+   "morpheme_id": "egyptian_stative_1s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".kj",
+   "segments": [
+    "k",
+    "j"
+   ],
+   "function": "1s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   },
+   "notes": "An older form explicitly listed in the table cell and said to occur rarely or occasionally in the texts."
+  },
+  {
+   "id": "egyptian_025",
+   "morpheme_id": "egyptian_stative_2s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".tj",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "2s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_026",
+   "morpheme_id": "egyptian_stative_3ms",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".w",
+   "segments": [
+    "w"
+   ],
+   "function": "3ms stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_026b",
+   "morpheme_id": "egyptian_stative_3ms",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".j",
+   "segments": [
+    "j"
+   ],
+   "function": "3ms stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   },
+   "notes": "An older form explicitly listed in the table cell and said to occur rarely or occasionally in the texts."
+  },
+  {
+   "id": "egyptian_027",
+   "morpheme_id": "egyptian_stative_3fs",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".tj",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "3fs stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_028",
+   "morpheme_id": "egyptian_stative_1pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".nw",
+   "segments": [
+    "n",
+    "w"
+   ],
+   "function": "1pl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_028b",
+   "morpheme_id": "egyptian_stative_1pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".wjn",
+   "segments": [
+    "w",
+    "j",
+    "n"
+   ],
+   "function": "1pl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_029",
+   "morpheme_id": "egyptian_stative_2pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".tjwnj",
+   "segments": [
+    "t",
+    "j",
+    "w",
+    "n",
+    "j"
+   ],
+   "function": "2pl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_030",
+   "morpheme_id": "egyptian_stative_3pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".wj",
+   "segments": [
+    "w",
+    "j"
+   ],
+   "function": "3pl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "229"
+   }
+  },
+  {
+   "id": "egyptian_030b",
+   "morpheme_id": "egyptian_stative_3pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".y",
+   "segments": [
+    "y"
+   ],
+   "function": "3pl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "229"
+   }
+  },
+  {
+   "id": "egyptian_030c",
+   "morpheme_id": "egyptian_stative_3pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".w",
+   "segments": [
+    "w"
+   ],
+   "function": "3pl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "229"
+   }
+  },
+  {
+   "id": "egyptian_031",
+   "morpheme_id": "egyptian_stative_3fpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".tj",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "3fpl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "An older form explicitly listed in the table cell and said to occur rarely or occasionally in the texts."
+  },
+  {
+   "id": "egyptian_032",
+   "morpheme_id": "egyptian_stative_3mdu",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".wjj",
+   "segments": [
+    "w",
+    "j",
+    "j"
+   ],
+   "function": "3mdu stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "An older form explicitly listed in the table cell and said to occur rarely or occasionally in the texts."
+  },
+  {
+   "id": "egyptian_033",
+   "morpheme_id": "egyptian_stative_3fdu",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".tjj",
+   "segments": [
+    "t",
+    "j",
+    "j"
+   ],
+   "function": "3fdu stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "An older form explicitly listed in the table cell and said to occur rarely or occasionally in the texts."
+  },
+  {
+   "id": "egyptian_025b",
+   "morpheme_id": "egyptian_stative_2s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".t(j)",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "2s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_025c",
+   "morpheme_id": "egyptian_stative_2s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".t(j)",
+   "segments": [
+    "t"
+   ],
+   "function": "2s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_025d",
+   "morpheme_id": "egyptian_stative_2s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".(tj)",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "2s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   },
+   "notes": "Parenthesized whole ending in the table example. The zero realization is not entered."
+  },
+  {
+   "id": "egyptian_027b",
+   "morpheme_id": "egyptian_stative_3fs",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".t(j)",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "3fs stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_027c",
+   "morpheme_id": "egyptian_stative_3fs",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".t(j)",
+   "segments": [
+    "t"
+   ],
+   "function": "3fs stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   }
+  },
+  {
+   "id": "egyptian_027d",
+   "morpheme_id": "egyptian_stative_3fs",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".(tj)",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "3fs stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+    "section": "§16.2",
+    "page": "228"
+   },
+   "notes": "Parenthesized whole ending in the table example. The zero realization is not entered."
+  },
+  {
+   "id": "egyptian_024c",
+   "morpheme_id": "egyptian_stative_1s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "ku",
+   "segments": [
+    "k",
+    "u"
+   ],
+   "function": "1s stative suffix in the reconstructed paradigm",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "Suffix substring of the reconstructed whole form *ḥatpáku. The asterisk belongs to the whole word, before its stem; no new asterisk or boundary is added to this substring. See notes.md for the segmentation limitation."
+  },
+  {
+   "id": "egyptian_025e",
+   "morpheme_id": "egyptian_stative_2s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "ta",
+   "segments": [
+    "t",
+    "a"
+   ],
+   "function": "2ms stative suffix in the reconstructed paradigm",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "Suffix substring of the reconstructed whole form *ḥatpáta. The asterisk belongs to the whole word, before its stem; no new asterisk or boundary is added to this substring. See notes.md for the segmentation limitation."
+  },
+  {
+   "id": "egyptian_025f",
+   "morpheme_id": "egyptian_stative_2s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "ti",
+   "segments": [
+    "t",
+    "i"
+   ],
+   "function": "2fs stative suffix in the reconstructed paradigm",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "Suffix substring of the reconstructed whole form *ḥatpáti. The asterisk belongs to the whole word, before its stem; no new asterisk or boundary is added to this substring. See notes.md for the segmentation limitation."
+  },
+  {
+   "id": "egyptian_027e",
+   "morpheme_id": "egyptian_stative_3fs",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "ta",
+   "segments": [
+    "t",
+    "a"
+   ],
+   "function": "3fs stative suffix in the reconstructed paradigm",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "Suffix substring of the reconstructed whole form *ḥatápta. The asterisk belongs to the whole word, before its stem; no new asterisk or boundary is added to this substring. See notes.md for the segmentation limitation."
+  },
+  {
+   "id": "egyptian_028c",
+   "morpheme_id": "egyptian_stative_1pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "nu",
+   "segments": [
+    "n",
+    "u"
+   ],
+   "function": "1pl stative suffix in the reconstructed paradigm",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "Suffix substring of the reconstructed whole form *ḥatpánu. The asterisk belongs to the whole word, before its stem; no new asterisk or boundary is added to this substring. See notes.md for the segmentation limitation."
+  },
+  {
+   "id": "egyptian_029b",
+   "morpheme_id": "egyptian_stative_2pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "tunu",
+   "segments": [
+    "t",
+    "u",
+    "n",
+    "u"
+   ],
+   "function": "2mpl stative suffix in the reconstructed paradigm",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "Suffix substring of the reconstructed whole form *ḥatpátunu / *ḥatáptunu. The asterisk belongs to the whole word, before its stem; no new asterisk or boundary is added to this substring. See notes.md for the segmentation limitation."
+  },
+  {
+   "id": "egyptian_029c",
+   "morpheme_id": "egyptian_stative_2pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "tina",
+   "segments": [
+    "t",
+    "i",
+    "n",
+    "a"
+   ],
+   "function": "2fpl stative suffix in the reconstructed paradigm",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+    "section": "§16.2",
+    "page": "229"
+   },
+   "notes": "Suffix substring of the reconstructed whole form *ḥatpátina / *ḥatáptina. The asterisk belongs to the whole word, before its stem; no new asterisk or boundary is added to this substring. See notes.md for the segmentation limitation."
+  },
+  {
+   "id": "egyptian_026c",
+   "morpheme_id": "egyptian_stative_3ms",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".(w)",
+   "segments": [
+    "w"
+   ],
+   "function": "3ms stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.3 \"The stative stem\"; md line 6653)",
+    "section": "§16.3",
+    "page": "229"
+   }
+  },
+  {
+   "id": "egyptian_026d",
+   "morpheme_id": "egyptian_stative_3ms",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "y",
+   "segments": [
+    "y"
+   ],
+   "function": "3ms stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.3 \"The stative stem\"; md line 6653)",
+    "section": "§16.3",
+    "page": "229"
+   },
+   "notes": "The 3ae-inf. cell explicitly identifies final y in place of the suffix w; the word crosses the page boundary into p.230."
+  },
+  {
+   "id": "egyptian_030d",
+   "morpheme_id": "egyptian_stative_3pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "y",
+   "segments": [
+    "y"
+   ],
+   "function": "3pl stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.3 \"The stative stem\"; md line 6653)",
+    "section": "§16.3",
+    "page": "230"
+   },
+   "notes": "The anomalous-verb cell explicitly labels dy “put” as 3pl."
+  },
+  {
+   "id": "egyptian_024d",
+   "morpheme_id": "egyptian_stative_1s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".k(w)",
+   "segments": [
+    "k",
+    "w"
+   ],
+   "function": "1s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.3 \"The stative stem\"; md line 6653)",
+    "section": "§16.3",
+    "page": "230"
+   }
+  },
+  {
+   "id": "egyptian_024e",
+   "morpheme_id": "egyptian_stative_1s",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".k(w)",
+   "segments": [
+    "k"
+   ],
+   "function": "1s stative suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 16.3 \"The stative stem\"; md line 6653)",
+    "section": "§16.3",
+    "page": "230"
+   }
+  },
+  {
+   "id": "egyptian_034",
+   "morpheme_id": "egyptian_completed_action",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": ".n",
+   "segments": [
+    "n"
+   ],
+   "function": "sḏm.n.f suffix",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 17.2 \"Form\"; md line 7093)",
+    "section": "§17.2",
+    "page": "246"
+   },
+   "notes": "The table gives forms translated with “has” and completed actions; n precedes the subject suffix."
+  },
+  {
+   "id": "egyptian_008c",
+   "morpheme_id": "egyptian_suffix_pronoun_1s",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".(j)",
+   "segments": [
+    "j"
+   ],
+   "function": "1s suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 17.2 \"Form\"; md line 7093)",
+    "section": "§17.2",
+    "page": "246"
+   },
+   "notes": "Printed in several forms with an unwritten 1s suffix. The absent realization is zero."
+  },
+  {
+   "id": "egyptian_035",
+   "morpheme_id": "egyptian_finite_prefix",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "j.",
+   "segments": [
+    "j"
+   ],
+   "function": "prefix of the sḏm.f of some 2-lit. verbs",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 18.2 \"Form\"; md line 7754)",
+    "section": "§18.2",
+    "page": "266"
+   },
+   "notes": "Printed in j.ḏd.k; the table calls prefixed forms rare."
+  },
+  {
+   "id": "egyptian_036",
+   "morpheme_id": "egyptian_finite_final_vowel",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "w",
+   "segments": [
+    "w"
+   ],
+   "function": "final stressed vowel of the sḏm.f as written in older texts",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 18.2 \"Form\"; md line 7754)",
+    "section": "§18.2",
+    "page": "266"
+   },
+   "notes": "The 3ae-inf., 4ae-inf., and caus. 2-lit. cells explicitly discuss final w. Final y identified as a weak radical or consonantal realization of a stem vowel is not made a separate suffix."
+  },
+  {
+   "id": "egyptian_037",
+   "morpheme_id": "egyptian_passive_sdm",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "w",
+   "segments": [
+    "w"
+   ],
+   "function": "passive sḏm.f ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.2 \"Form\"; md line 8764)",
+    "section": "§19.2",
+    "page": "290"
+   }
+  },
+  {
+   "id": "egyptian_037b",
+   "morpheme_id": "egyptian_passive_sdm",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "y",
+   "segments": [
+    "y"
+   ],
+   "function": "passive sḏm.f ending",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.2 \"Form\"; md line 8764)",
+    "section": "§19.2",
+    "page": "290"
+   }
+  },
+  {
+   "id": "egyptian_038",
+   "morpheme_id": "egyptian_biliteral_jn",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": ".jn",
+   "segments": [
+    "j",
+    "n"
+   ],
+   "function": "biliteral suffix in forms translated “said,” “was,” “embraced,” “washed,” and “came”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.9 \"Forms\"; md line 8941)",
+    "section": "§19.9",
+    "page": "295"
+   }
+  },
+  {
+   "id": "egyptian_039",
+   "morpheme_id": "egyptian_biliteral_khr",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": ".ḫr",
+   "segments": [
+    "ḫ",
+    "r"
+   ],
+   "function": "biliteral suffix in forms translated “has to,” “have to,” and “had to”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.9 \"Forms\"; md line 8941)",
+    "section": "§19.9",
+    "page": "295"
+   }
+  },
+  {
+   "id": "egyptian_040",
+   "morpheme_id": "egyptian_impersonal_tw",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": ".tw",
+   "segments": [
+    "t",
+    "w"
+   ],
+   "function": "impersonal subject “one”",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.9 \"Forms\"; md line 8941)",
+    "section": "§19.9",
+    "page": "295"
+   },
+   "notes": "Printed in the forms translated “one has to winnow” and “one has to set.”"
+  },
+  {
+   "id": "egyptian_041",
+   "morpheme_id": "egyptian_passive_tw",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": ".t(w)",
+   "segments": [
+    "t",
+    "w"
+   ],
+   "function": "passive suffix of the biliteral-suffix forms",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.9 \"Forms\"; md line 8941)",
+    "section": "§19.9",
+    "page": "296"
+   },
+   "notes": "Printed in the forms translated “will be made sound” and “will be put”; no separate person is encoded in this occurrence."
+  },
+  {
+   "id": "egyptian_041b",
+   "morpheme_id": "egyptian_passive_tw",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": ".t(w)",
+   "segments": [
+    "t"
+   ],
+   "function": "passive suffix of the biliteral-suffix forms",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.9 \"Forms\"; md line 8941)",
+    "section": "§19.9",
+    "page": "296"
+   },
+   "notes": "Printed in the forms translated “will be made sound” and “will be put”; no separate person is encoded in this occurrence."
+  },
+  {
+   "id": "egyptian_042",
+   "morpheme_id": "egyptian_sdmt",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "t",
+   "segments": [
+    "t"
+   ],
+   "function": "sḏmt.f ending added directly to the verb stem",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 19.13 \"Form\"; md line 9088)",
+    "section": "§19.13",
+    "page": "299"
+   }
+  },
+  {
+   "id": "egyptian_043",
+   "morpheme_id": "egyptian_active_participle_stem",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "–j",
+   "segments": [
+    "j"
+   ],
+   "function": "masculine singular or plural participle stem ending with the geminated stem; active or passive",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.4 \"Forms\"; md line 11514)",
+    "section": "§23.4",
+    "page": "383"
+   }
+  },
+  {
+   "id": "egyptian_043b",
+   "morpheme_id": "egyptian_active_participle_stem",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "–y",
+   "segments": [
+    "y"
+   ],
+   "function": "masculine singular or plural active participle stem ending with the geminated stem",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.4 \"Forms\"; md line 11514)",
+    "section": "§23.4",
+    "page": "383"
+   }
+  },
+  {
+   "id": "egyptian_043c",
+   "morpheme_id": "egyptian_active_participle_stem",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "j",
+   "segments": [
+    "j"
+   ],
+   "function": "masculine singular or plural participle stem ending with the geminated stem; active or passive",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.4 \"Forms\"; md line 11525)",
+    "section": "§23.4",
+    "page": "383"
+   }
+  },
+  {
+   "id": "egyptian_043d",
+   "morpheme_id": "egyptian_active_participle_stem",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "y",
+   "segments": [
+    "y"
+   ],
+   "function": "masculine singular or plural active participle stem ending with the geminated stem",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.4 \"Forms\"; md line 11525)",
+    "section": "§23.4",
+    "page": "383"
+   }
+  },
+  {
+   "id": "egyptian_044",
+   "morpheme_id": "egyptian_participle_prefix",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "j.",
+   "segments": [
+    "j"
+   ],
+   "function": "rare prefix of the active participle of a 2-lit. verb",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.5 \"Forms of the active participle\"; md line 11546)",
+    "section": "§23.5",
+    "page": "384"
+   },
+   "notes": "From j.ḫm “who does not know.”"
+  },
+  {
+   "id": "egyptian_011b",
+   "morpheme_id": "egyptian_suffix_pronoun_3ms",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".fj",
+   "segments": [
+    "f",
+    "j"
+   ],
+   "function": "3ms suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11921)",
+    "section": "§23.13",
+    "page": "395"
+   },
+   "notes": "Regular suffix pronoun used to mark gender and number agreement in the sḏmtj.fj. The singular forms can have an extra j."
+  },
+  {
+   "id": "egyptian_012b",
+   "morpheme_id": "egyptian_suffix_pronoun_3fs",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": ".sj",
+   "segments": [
+    "s",
+    "j"
+   ],
+   "function": "3fs suffix pronoun",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11921)",
+    "section": "§23.13",
+    "page": "395"
+   },
+   "notes": "Regular suffix pronoun used to mark gender and number agreement in the sḏmtj.fj. The singular forms can have an extra j."
+  },
+  {
+   "id": "egyptian_045",
+   "morpheme_id": "egyptian_sdmtj",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "tj",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "stem ending of the sḏmtj.fj",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11935)",
+    "section": "§23.13",
+    "page": "395"
+   }
+  },
+  {
+   "id": "egyptian_045b",
+   "morpheme_id": "egyptian_sdmtj",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "t(j)",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "stem ending of the sḏmtj.fj",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11935)",
+    "section": "§23.13",
+    "page": "395"
+   }
+  },
+  {
+   "id": "egyptian_045c",
+   "morpheme_id": "egyptian_sdmtj",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "t(j)",
+   "segments": [
+    "t"
+   ],
+   "function": "stem ending of the sḏmtj.fj",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11935)",
+    "section": "§23.13",
+    "page": "395"
+   }
+  },
+  {
+   "id": "egyptian_045d",
+   "morpheme_id": "egyptian_sdmtj",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "wt(j)",
+   "segments": [
+    "w",
+    "t",
+    "j"
+   ],
+   "function": "stem ending of the sḏmtj.fj",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11935)",
+    "section": "§23.13",
+    "page": "395"
+   },
+   "notes": "The wt(j) spelling occurs in the 3ae-inf. example for “who shall go down.”"
+  },
+  {
+   "id": "egyptian_045e",
+   "morpheme_id": "egyptian_sdmtj",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "wt(j)",
+   "segments": [
+    "w",
+    "t"
+   ],
+   "function": "stem ending of the sḏmtj.fj",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11935)",
+    "section": "§23.13",
+    "page": "395"
+   },
+   "notes": "The wt(j) spelling occurs in the 3ae-inf. example for “who shall go down.”"
+  },
+  {
+   "id": "egyptian_046",
+   "morpheme_id": "egyptian_passive_participle_stem",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "y",
+   "segments": [
+    "y"
+   ],
+   "function": "passive participle stem ending with the base stem",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 24.1 \"Definition\"; md line 12186)",
+    "section": "§24.1",
+    "page": "403"
+   },
+   "notes": "The ending-column image is unavailable; y is readable in jryt and the example translated “sent.”"
+  },
+  {
+   "id": "egyptian_046b",
+   "morpheme_id": "egyptian_passive_participle_stem",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "w",
+   "segments": [
+    "w"
+   ],
+   "function": "passive participle stem ending with both stems",
+   "source": {
+    "unit": "None printed (uncaptioned table under § 24.1 \"Definition\"; md line 12186)",
+    "section": "§24.1",
+    "page": "403"
+   },
+   "notes": "The ending-column image is unavailable; w is readable in jtw and jrrw."
+  },
+  {
+   "id": "egyptian_047",
+   "morpheme_id": "egyptian_enclitic_r",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "r.f",
+   "segments": [
+    "r",
+    "f"
+   ],
+   "function": "so; relates the clause to a preceding statement",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "217"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_047b",
+   "morpheme_id": "egyptian_enclitic_r",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "jr.f",
+   "segments": [
+    "j",
+    "r",
+    "f"
+   ],
+   "function": "so; relates the clause to a preceding statement",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "218"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_047c",
+   "morpheme_id": "egyptian_enclitic_r",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "r.s",
+   "segments": [
+    "r",
+    "s"
+   ],
+   "function": "relates the clause to a preceding statement; rare feminine form",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "218"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_047d",
+   "morpheme_id": "egyptian_enclitic_r",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "r.k",
+   "segments": [
+    "r",
+    "k"
+   ],
+   "function": "relates the action to the person being addressed",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "218"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_048",
+   "morpheme_id": "egyptian_enclitic_js",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "js",
+   "segments": [
+    "j",
+    "s"
+   ],
+   "function": "mark of subordination",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "219"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_049",
+   "morpheme_id": "egyptian_enclitic_negative",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "w",
+   "segments": [
+    "w"
+   ],
+   "function": "not; rare negation",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "219"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_050",
+   "morpheme_id": "egyptian_enclitic_wnnt",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "wnnt",
+   "segments": [
+    "w",
+    "n",
+    "n",
+    "t"
+   ],
+   "function": "really, indeed",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "219"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_050b",
+   "morpheme_id": "egyptian_enclitic_wnnt",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "wnt",
+   "segments": [
+    "w",
+    "n",
+    "t"
+   ],
+   "function": "really, indeed",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "219"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_051",
+   "morpheme_id": "egyptian_enclitic_mj",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "mj",
+   "segments": [
+    "m",
+    "j"
+   ],
+   "function": "now, please; after the imperative or rarely another verb form",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "220"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_052",
+   "morpheme_id": "egyptian_enclitic_ms",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "ms",
+   "segments": [
+    "m",
+    "s"
+   ],
+   "function": "surely, indeed",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "220"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_052b",
+   "morpheme_id": "egyptian_enclitic_ms",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "msw",
+   "segments": [
+    "m",
+    "s",
+    "w"
+   ],
+   "function": "surely, indeed",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "220"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_053",
+   "morpheme_id": "egyptian_enclitic_hm",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "ḥm",
+   "segments": [
+    "ḥ",
+    "m"
+   ],
+   "function": "and, also, moreover",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "220"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_054",
+   "morpheme_id": "egyptian_enclitic_swt",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "swt",
+   "segments": [
+    "s",
+    "w",
+    "t"
+   ],
+   "function": "but, and; contrast with the preceding statement",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "220"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_055",
+   "morpheme_id": "egyptian_enclitic_grt",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "grt",
+   "segments": [
+    "g",
+    "r",
+    "t"
+   ],
+   "function": "now, moreover, but; new topic or new line of thought",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "221"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_056",
+   "morpheme_id": "egyptian_enclitic_question",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "tr",
+   "segments": [
+    "t",
+    "r"
+   ],
+   "function": "question particle; sometimes “actually” or “really”",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "221"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  },
+  {
+   "id": "egyptian_056b",
+   "morpheme_id": "egyptian_enclitic_question",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "tj",
+   "segments": [
+    "t",
+    "j"
+   ],
+   "function": "question particle; sometimes “actually” or “really”",
+   "source": {
+    "unit": "None printed (section \"Enclitic particles\"; md line 6274)",
+    "section": "§15.7",
+    "page": "221"
+   },
+   "notes": "Explicitly included in the section headed “Enclitic particles”; retained under the brief’s explicit inclusion of forms the grammar calls enclitic."
+  }
+ ],
+ "units_read": [
+  "None printed (uncaptioned table under § 4.4 \"Gender\"; md line 1299)",
+  "None printed (uncaptioned table under § 4.5 \"Number\"; md line 1321)",
+  "None printed (uncaptioned table under § 4.6 \"Writing the plural\"; md line 1339)",
+  "None printed (uncaptioned table under § 4.7 \"The dual\"; md line 1359)",
+  "None printed (uncaptioned table under § 4.7 \"The dual\"; md line 1373)",
+  "None printed (uncaptioned table under § 4.7 \"The dual\"; md line 1383)",
+  "None printed (uncaptioned table under § 4.8 \"Summary of gender and number\"; md line 1401)",
+  "None printed (uncaptioned table under § 6.2 \"Adjectives as modifiers\"; md line 2177)",
+  "None printed (uncaptioned table under § 6.2 \"Adjectives as modifiers\"; md line 2187)",
+  "None printed (uncaptioned table under § 6.2 \"Adjectives as modifiers\"; md line 2197)",
+  "None printed (uncaptioned table under § 6.2 \"Adjectives as modifiers\"; md line 2209)",
+  "None printed (uncaptioned table under § 5.3 \"Personal pronouns: suffix\"; md line 1767)",
+  "None printed (uncaptioned table under § 5.4 \"Personal pronouns: dependent\"; md line 1790)",
+  "None printed (uncaptioned table under § 5.6 \"Personal pronouns: summary\"; md line 1851)",
+  "None printed (uncaptioned table under § 5.7 \"Suffix pronouns with nouns\"; md line 1875)",
+  "None printed (uncaptioned table under § 7.3 \"The subject in adjectival sentences\"; md line 2480)",
+  "None printed (uncaptioned table under § 7.8 \"A B nominal sentences of adherence\"; md line 2576)",
+  "None printed (uncaptioned table under § 7.14 \"The first person in adjectival sentences\"; md line 2809)",
+  "None printed (uncaptioned table under § 8.4 \"The object of prepositions\"; md line 3157)",
+  "None printed (uncaptioned table under § 10.4 \"Other particles\"; md line 3944)",
+  "None printed (uncaptioned table under § 10.5 \"Personal pronouns as subjects\"; md line 3996)",
+  "None printed (uncaptioned table under § 13.3 \"The forms of the infinitive\"; md line 5079)",
+  "None printed (uncaptioned table under § 13.3 \"The forms of the infinitive\"; md line 5169)",
+  "None printed (uncaptioned table under § 13.17 \"The form of the negatival complement\"; md line 5551)",
+  "None printed (uncaptioned table under § 13.20 \"The form of the complementary infinitive\"; md line 5609)",
+  "None printed (uncaptioned table under § 15.1 \"Definition and regular forms of the imperative\"; md line 6030)",
+  "None printed (uncaptioned table under § 15.1 \"Definition and regular forms of the imperative\"; md line 6051)",
+  "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6611)",
+  "None printed (uncaptioned table under § 16.2 \"The stative suffixes\"; md line 6635)",
+  "None printed (uncaptioned table under § 16.3 \"The stative stem\"; md line 6653)",
+  "None printed (uncaptioned table under § 17.2 \"Form\"; md line 7093)",
+  "None printed (uncaptioned table under § 18.2 \"Form\"; md line 7754)",
+  "None printed (uncaptioned table under § 19.2 \"Form\"; md line 8764)",
+  "None printed (uncaptioned table under § 19.4 \"The meaning of the passive sdm.f\"; md line 8807)",
+  "None printed (uncaptioned table under § 19.9 \"Forms\"; md line 8941)",
+  "None printed (uncaptioned table under § 19.13 \"Form\"; md line 9088)",
+  "None printed (uncaptioned table under § 19.18 \"Forms\"; md line 9194)",
+  "None printed (uncaptioned table under § 22.12 \"Unmarked relative clauses with the sdm.n.f\"; md line 10834)",
+  "None printed (uncaptioned table under § 22.13 \"Unmarked relative clauses with the sdm.f\"; md line 10870)",
+  "None printed (uncaptioned table under § 23.2 \"Gender and number\"; md line 11481)",
+  "None printed (uncaptioned table under § 23.4 \"Forms\"; md line 11514)",
+  "None printed (uncaptioned table under § 23.4 \"Forms\"; md line 11525)",
+  "None printed (uncaptioned table under § 23.5 \"Forms of the active participle\"; md line 11546)",
+  "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11921)",
+  "None printed (uncaptioned table under § 23.13 \"The sdmtj.fj\"; md line 11935)",
+  "None printed (uncaptioned table under § 24.1 \"Definition\"; md line 12173)",
+  "None printed (uncaptioned table under § 24.1 \"Definition\"; md line 12186)",
+  "None printed (uncaptioned table under § 24.1 \"Definition\"; md line 12194)",
+  "None printed (uncaptioned table under § 24.2 \"Forms\"; md line 12211)",
+  "None printed (section \"Primary prepositions\"; md line 3004)",
+  "None printed (section \"Enclitic particles\"; md line 6274)",
+  "None printed (section \"Compound prepositions\"; md line 3133)"
+ ],
+ "units_without_entries": [
+  {
+   "unit": "None printed (uncaptioned table under § 5.4 \"Personal pronouns: dependent\"; md line 1790)",
+   "reason": "The dependent pronouns are explicitly called separate words in §5.4; the table does not call them bound or enclitic. No suffix is extracted from these complete pronouns."
+  },
+  {
+   "unit": "None printed (uncaptioned table under § 7.3 \"The subject in adjectival sentences\"; md line 2480)",
+   "reason": "Only the uninflected predicate nfr and separate dependent-pronoun subjects occur in this table. No bound realization is printed."
+  },
+  {
+   "unit": "None printed (uncaptioned table under § 13.3 \"The forms of the infinitive\"; md line 5169)",
+   "reason": "Only reconstructed infinitive stems and unavailable spelling images are tabulated; the suffix pronoun itself is not printed. V is a vowel cover symbol in a stem, not a bound morpheme."
+  },
+  {
+   "unit": "None printed (section \"Compound prepositions\"; md line 3133)",
+   "reason": "The section explicitly describes compound prepositions formed from several words. No bound preposition or other identifiable eligible affix is printed in its examples."
+  }
+ ]
+}

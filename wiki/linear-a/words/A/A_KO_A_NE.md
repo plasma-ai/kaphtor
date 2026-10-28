@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Hapax on PK Za 11; damaged A-\[?\]-NE may recur in the corresponding slot on PK Za 12 but does not establish the restoration. Proposed as a singular title in apposition: PI-TE-RI A-KO-A-NE, 'Pitrī, the priest.' The root is secure (Ug. /kāhinu/, Heb. kōhēn; Phoenician khn), and Canaanite ha- is a Common Central Semitic article historically related to \*han. Exact vocalization and the underrepresentation of /h/ remain uncertain. The former /ha-kōhānē/ 'O priests' is withdrawn: Hebrew kōhănê is construct plural, Ugaritic plural is /kāhinūma/, and no direct vocative plural in -ē is attested. Rivals are a second personal name (Davis/Thomas), Akkadian/Nuzi Aḫūni 'our brother,' and Arabic ʾaḫawāni 'two brothers'; the latter two fit the signs poorly.
+Hapax on PK Za 11; damaged A-\[?\]-NE may recur in the corresponding slot on PK Za 12 but does not establish the restoration. Proposed as a singular title in apposition: PI-TE-RI A-KO-A-NE, 'Pitrī, the priest.' The root is secure (Ug. /kāhinu/, Heb. kōhēn; Phoenician khn), and Canaanite ha- is a Common Central Semitic article historically related to \*han. Exact vocalization and the underrepresentation of /h/ remain uncertain. It is not /ha-kōhānē/ 'O priests': Hebrew kōhănê is construct plural, Ugaritic plural is /kāhinūma/, and no direct vocative plural in -ē is attested. Rivals are a second personal name (Davis/Thomas), Akkadian/Nuzi Aḫūni 'our brother,' and Arabic ʾaḫawāni 'two brothers'; the latter two fit the signs poorly.
 
 ### Cognates
 
@@ -65,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa11\|PKZa11]] | ha-kōhēn? | the priest (proposed title) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa11\|PKZa11]] | ha-kōhēn | the priest (proposed title) | CANDIDATE |
 
 ## Onomasticon
 

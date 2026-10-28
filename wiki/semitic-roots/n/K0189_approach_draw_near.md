@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0189_approach_draw_near
 title: "*nagāš-: 'approach, draw near'"
-desc: "Proto-Semitic *nagāš-, 'approach, draw near': reflexes in 4 language(s)."
+desc: "Proto-Semitic *nagāš-, 'approach, draw near': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0189"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | nagaš 'draw near, approach' (BDB 620) | BDB 620; Anderson–Moser 2024 root ngš |  |
 | Ugaritic | ngš 'approach' | Anderson–Moser 2024 root ngš |  |
 | Judaic Aramaic | nᵉgīšā (HALOT 670) | HALOT 670 |  |
+| Eblaitic | /n-g-s₁/: cf. names a-gú-šum, i-gú-uš (Sanmartín GlOS 2, 82) | Sanmartín GlOS 2, 82 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

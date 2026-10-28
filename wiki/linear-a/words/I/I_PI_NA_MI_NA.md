@@ -47,7 +47,7 @@ Reduplicative expansion of I-PI-NA-MA (=ipinama, √p-n-m 'face/presence', PROBA
 | Language | Comparison |
 |---|---|
 | Hebrew | pānīm (פָּנִים) 'face, presence' (Gen 32:31, Exod 33:14–15, Lev 1:3–4, Ps 19:15, Mal 1:8); lipnê (לִפְנֵי) 'before the face of' = standard cult-approach formula; √p-n-y 'to turn, face' |
-| Ugaritic | pnm 'face, presence' (DUL 666); pn ilm 'face of the gods' in ritual texts |
+| Ugaritic | pnm 'face, presence' (DULAT 664); pn ilm 'face of the gods' in ritual texts |
 | Akkadian | pānu 'face, front, presence' (CAD P 92); ina pāni 'before, in the presence of' |
 | Arabic | fanā' (فناء) 'courtyard, forecourt'; related to approaching a presence |
 

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-4× at HT (HT7a, HT10b, HT49a, HT98a). Support: (1) significant frequency, (2) HT49a context with known Layer 3 names, (3) Hvidberg-Hansen 1979 scholarly framework, (4) Zakros variant TA-NA-TE reinforces the TNT goddess identification.
+4× at HT (HT7a, HT10b, HT49a, HT98a). Support: (1) HT49a context with known Layer 3 names, (2) Hvidberg-Hansen 1979 scholarly framework, (3) Zakros variant TA-NA-TE reinforces the TNT goddess identification.
 
 ### Cognates
 
@@ -57,7 +57,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10b\|HT10b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT49a\|HT49a]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Haghia Triada | Tablet | incomplete |

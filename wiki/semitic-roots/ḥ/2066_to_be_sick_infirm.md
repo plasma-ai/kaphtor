@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ḥɛ́l \[JJ 121\] | JJ 121 | gloss withheld |
 | Hebrew | ḥālā (HALOT 316) | HALOT 316 | gloss withheld |
 | Modern Aramaic | MAL ḥayla (SED I 292) | SED I 292 | gloss withheld |
-| Amorite | ḥ?lj: jāḥlī, jīḥlī (Gelb AS 21, 20); yiḥlî (Buck 2019, 327) | Gelb AS 21 20; Buck 2019, 327 | gloss withheld |
+| Amorite | ḥ?lj: jāḥlī, jīḥlī (Gelb AS 21, 20); yiḥlî (Buck 2019, 327); ḫalû (Streck 2000, 92) | Gelb AS 21 20; Buck 2019, 327; Streck 2000 92 | gloss withheld |
 | Judaic Aramaic | ḥlyʾ (HALOT 318) | HALOT 318 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

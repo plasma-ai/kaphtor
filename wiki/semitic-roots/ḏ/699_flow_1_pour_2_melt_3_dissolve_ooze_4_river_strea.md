@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḏ/699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea
 title: "*ḏVwVb-: 'flow' 1, 'pour' 2, 'melt' 3, 'dissolve, ooze' 4, 'river', 'stream, torrent' 5"
-desc: "Proto-Semitic *ḏVwVb-, 'flow' 1, 'pour' 2, 'melt' 3, 'dissolve, ooze' 4, 'river', 'stream, torrent' 5: reflexes in 11 language(s)."
+desc: "Proto-Semitic *ḏVwVb-, 'flow' 1, 'pour' 2, 'melt' 3, 'dissolve, ooze' 4, 'river', 'stream, torrent' 5: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "699"
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | dwb 1 (DJPA 140b apud CAL) | DJPA 140b; CAL |  |
 | Syrian Aramaic | dwb 1 (Payne Smith 84) | Payne Smith 84 |  |
 | Epigraphic South Arabian | mḏb (HALOT 266; Sabaweb lemma 4056) | HALOT 266; Sabaweb lemma 4056 | gloss withheld |
+| Eblaitic | ma-ša-ba-tum /mahḏabt/ 1, 5 (Sanmartín GlOS 1, 168) | Sanmartín GlOS 1, 168 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/K0058_pierce
 title: "*daqar-: 'pierce'"
-desc: "Proto-Semitic *daqar-, 'pierce': reflexes in 3 language(s)."
+desc: "Proto-Semitic *daqar-, 'pierce': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0058"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | DQR (DNWSI 258 apud CAL) | DNWSI 258; CAL; Anderson–Moser 2024 root dqr | gloss withheld |
 | Hebrew | daqar 'pierce' (BDB 201) | BDB 201; Anderson–Moser 2024 root dqr |  |
 | Syrian Aramaic | dqar 'dig, pierce; gore, butt' (Payne Smith 96) | Payne Smith 96 |  |
+| Amorite | d-q-r: cf. da-aq-qar-tum (Sanmartín GlOS 1, 145) | Sanmartín GlOS 1, 145 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

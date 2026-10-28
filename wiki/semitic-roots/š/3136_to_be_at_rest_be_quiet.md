@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | šqṭ (HALOT 1641) | HALOT 1641 | gloss withheld |
-| Amorite | šqṭ: Ya-às-qí-iṭ-AN (Huffmon APNM 253) | Huffmon APNM 253 | gloss withheld |
+| Amorite | šqṭ: Ya-às-qí-iṭ-AN (Huffmon APNM 253); śqṭ: śaqṭum, jāśqiṭ (Gelb AS 21, 33) | Huffmon APNM 253; Gelb AS 21 33 | gloss withheld |
 | Syrian Aramaic | šqāṭā (LSyr. 798, SL 1560 apud SEDonline 320) | LSyr. 798, SL 1560; SEDonline 320 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

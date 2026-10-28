@@ -47,7 +47,7 @@ Name on the HT 55a KI-RO list (SI-RU 1) and first element of HT 90 SI-RU-MA-RI-T
 | Language | Comparison |
 |---|---|
 | Amorite | ṣill- 'shade, protection' (Huffmon, APNM 257); Ṣillī-Baʿli, Ṣill-Haddu |
-| Hebrew | ṣēl (צֵל) 'shade' (H6738); Ṣillāh (H6741) |
+| Hebrew | ṣēl (צֵל) 'shade' (HALOT 1024); Ṣillāh (HALOT 1025) |
 | Ugaritic | ẓl /ẓillu/ 'shade' (Huehnergard 2012) |
 
 ### Source

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T12:05:36Z
+updated: 2026-10-28T20:08:42Z
 ---
 
 # wiki/semitic-roots/l
@@ -11,7 +11,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/l/1054_kill_1_to_fight_2_war_3|1054_kill_1_to_fight_2_war_3]]: Proto-Semitic *lVḥum-, 'kill' 1, 'to fight' 2, 'war' 3: reflexes in 7 language(s).
 
-[[wiki/semitic-roots/l/1114_white_frankincense_storax|1114_white_frankincense_storax]]: Proto-Semitic *lVban-, 'white; frankincense; storax': reflexes in 15 language(s).
+[[wiki/semitic-roots/l/1114_white_frankincense_storax|1114_white_frankincense_storax]]: Proto-Semitic *lVban-, 'white; frankincense; storax': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/l/1217_split_1_strike_2|1217_split_1_strike_2]]: Proto-Semitic *lVtaʾ-, 'split' 1, 'strike' 2: reflexes in 2 language(s).
 
@@ -57,7 +57,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/l/1840_to_get_together_unite_by_common_consent_peace_tr|1840_to_get_together_unite_by_common_consent_peace_tr]]: Proto-Semitic *lʾm, *lmm, 'to get together, unite by common consent, peace treaty', *liʔa/ām- 'union, fraternity, people': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/l/1963_heart|1963_heart]]: Proto-Semitic *libb-, 'heart': reflexes in 26 language(s).
+[[wiki/semitic-roots/l/1963_heart|1963_heart]]: Proto-Semitic *libb-, 'heart': reflexes in 27 language(s).
 
 [[wiki/semitic-roots/l/1964_bladder_in_animals|1964_bladder_in_animals]]: Proto-Semitic *li/abbuḫ- ~ *labīḫ-at-, 'bladder (in animals)': reflexes in 2 language(s).
 
@@ -91,7 +91,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/l/2479_grow|2479_grow]]: Proto-Semitic *lhḳ, 'grow': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/l/2519_night|2519_night]]: Proto-Semitic *layl-, 'night': reflexes in 21 language(s).
+[[wiki/semitic-roots/l/2519_night|2519_night]]: Proto-Semitic *layl-, 'night': reflexes in 22 language(s).
 
 [[wiki/semitic-roots/l/2521_not|2521_not]]: Proto-Semitic *la(ʾ), 'not': reflexes in 12 language(s).
 
@@ -119,7 +119,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/l/3041_to_touch_grasp|3041_to_touch_grasp]]: Proto-Semitic *lbk, 'to touch, grasp': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/l/3065_touch_grasp_strike|3065_touch_grasp_strike]]: Proto-Semitic *lpt, 'touch, grasp, strike': reflexes in 3 language(s).
+[[wiki/semitic-roots/l/3065_touch_grasp_strike|3065_touch_grasp_strike]]: Proto-Semitic *lpt, 'touch, grasp, strike': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/l/3087_to_be_kind|3087_to_be_kind]]: Proto-Semitic *lṭp, 'to be kind': reflexes in 2 language(s).
 
@@ -155,7 +155,7 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/l/3754_depth_of_the_sea_abyss|3754_depth_of_the_sea_abyss]]: Proto-Semitic *lgg, 'depth of the sea, abyss': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/l/398_twist_bend_1_turn_2_accompany_join_3|398_twist_bend_1_turn_2_accompany_join_3]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 11 language(s).
+[[wiki/semitic-roots/l/398_twist_bend_1_turn_2_accompany_join_3|398_twist_bend_1_turn_2_accompany_join_3]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 12 language(s).
 
 [[wiki/semitic-roots/l/553_strike|553_strike]]: Proto-Semitic *lVbaḫ-, 'strike': reflexes in 1 language(s).
 
@@ -187,13 +187,13 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/l/K0123_grow_late|K0123_grow_late]]: Proto-Semitic *laqaš-, 'grow-late': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/l/K0125_pick|K0125_pick]]: Proto-Semitic *lVqVṭ-, 'pick': reflexes in 8 language(s).
+[[wiki/semitic-roots/l/K0125_pick|K0125_pick]]: Proto-Semitic *lVqVṭ-, 'pick': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/l/K0126_butter|K0126_butter]]: Proto-Semitic *lVsVd-, 'butter': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/l/K0127_run|K0127_run]]: Proto-Semitic *lasām-, 'run': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/l/K0128_lodge|K0128_lodge]]: Proto-Semitic *luwn-, 'lodge': reflexes in 3 language(s).
+[[wiki/semitic-roots/l/K0128_lodge|K0128_lodge]]: Proto-Semitic *luwn-, 'lodge': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/l/K0129_board_tablet|K0129_board_tablet]]: Proto-Semitic *luwaḥ-, 'board, tablet': reflexes in 11 language(s).
 
@@ -215,9 +215,9 @@ updated: 2026-10-28T12:05:36Z
 
 [[wiki/semitic-roots/l/K0144_sharp|K0144_sharp]]: Proto-Semitic *laṭaš-, 'sharp': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/l/S14_to_take_receive_1_offering_receipt_2|S14_to_take_receive_1_offering_receipt_2]]: Proto-Semitic *lVḳVḥ-, 'to take, receive' 1, 'offering, receipt' 2: reflexes in 11 language(s).
+[[wiki/semitic-roots/l/S14_to_take_receive_1_offering_receipt_2|S14_to_take_receive_1_offering_receipt_2]]: Proto-Semitic *lVḳVḥ-, 'to take, receive' 1, 'offering, receipt' 2: reflexes in 12 language(s).
 
-[[wiki/semitic-roots/l/S53_to_learn|S53_to_learn]]: Proto-Semitic *lmd, 'to learn': reflexes in 10 language(s).
+[[wiki/semitic-roots/l/S53_to_learn|S53_to_learn]]: Proto-Semitic *lmd, 'to learn': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/l/S61_to_send|S61_to_send]]: Proto-Semitic *lʾk, 'to send': reflexes in 17 language(s).
 

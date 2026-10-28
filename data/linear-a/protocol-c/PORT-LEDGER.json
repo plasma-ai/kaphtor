@@ -1,0 +1,2041 @@
+{
+ "_meta": {
+  "what": "Port of the Protocol C record (phases C0 and C1: the signed protocol, the unit tables, the schema, the renderer table, the six blind builds and the C1 scripts) into kaphtor: every shipped file with its path and sha256 in the research tree, what pins that hash and the literal substitutions the port made; every redacted builder log with the hash of the full log it was derived from; every hashed file not shipped, with the reason.",
+  "frozen_package": "ioza2-adjudication (research tree)",
+  "phase": "C0 and C1 built and hashed; not frozen (the freeze is phase C5); no Linear A form rendered or scored",
+  "reverse": "each substitution records the text the port wrote (new) and how often it occurs (count); the strings it replaced (private paths, private source ids, the maintainer's first name, the research tree's frontmatter) are withheld and kept in the maintainer's key. verify checks every file's shipped_sha256, and frozen_sha256 for every file without a substitution; with --key it undoes each file's substitutions in reverse order and checks frozen_sha256 for all",
+  "derive": "each derived file is the full log with every command's output replaced by its output_sha256 and output_bytes, each event dumped compact (ensure_ascii off), the kit path written $KIT; its sha256 is redacted_sha256. The row's substitutions then apply as for a shipped file",
+  "name": "the maintainer's first name is cut from every shipped file, each cut a ledgered substitution; the Ya Diktu PDF keeps its published file name",
+  "not_shipped": "the research tree's pilot and set-aside builds (builds/pilot-*, builds/setaside-*), which are not part of C1, and the drafting scratch",
+  "verifier": "tools/linear_a/validation/protocol_c.py verify",
+  "attribution": "di Mino",
+  "license": "CC BY 4.0",
+  "key": "the withheld strings are in the maintainer's key, PORT-KEY.json, not shipped; reviewers may ask for it"
+ },
+ "protocol": {
+  "signed_sha256": "5a7b442c02336f31058a7fc51da7ecc382ff86eb6cdef7783883de108ed41ea0",
+  "signed_text": "data/linear-a/protocol-c/PROTOCOL-C-SIGNED-2026-10-29.md",
+  "signature": "data/linear-a/protocol-c/SIGNATURE.txt",
+  "current_sha256": "ad38b33517bc17eebfa0da00470466eaac6f8b00bd2d2528cee0d31b5dfce0c8",
+  "current_text": "docs/protocol-c-preregistration.md",
+  "amendments": [
+   "A1",
+   "A2",
+   "A3",
+   "A4"
+  ],
+  "note": "the signed text restores to the sha256 SIGNATURE.txt records; the shipped protocol restores to the research tree's PROTOCOL-C-DRAFT.md with amendments A1–A4"
+ },
+ "kit_amendments": {
+  "cs": "A1–A2",
+  "yd": "A1–A3",
+  "luwian": "A1–A2",
+  "hurrian": "A1–A2",
+  "egyptian": "A1–A2",
+  "greek": "A1–A2"
+ },
+ "c1_corpus": {
+  "research": "the corpus.json check_inventory.py read in the research tree",
+  "research_sha256": "8eda2663a40cc4f8afa89a24f3bde805899782107eb9627b44018349fe7949cf",
+  "kaphtor": "data/linear-a/corpus.json",
+  "needles": 1070,
+  "needles_sha256": "e60a13f086fc0068e32dfef8264934db0b8ec148cb52387089dfbec13057191a",
+  "needles_rule": "the lowercased transliteratedWords strings holding a hyphen, sorted, joined by line breaks, sha256 of the UTF-8",
+  "note": "check_inventory.py read the skill's corpus.json; the repository's corpus.json differs but yields the same 1,070 hyphenated words, so the checks reproduce on it"
+ },
+ "files": [
+  {
+   "path": "docs/protocol-c-preregistration.md",
+   "frozen_path": "PROTOCOL-C-DRAFT.md",
+   "frozen_sha256": "ad38b33517bc17eebfa0da00470466eaac6f8b00bd2d2528cee0d31b5dfce0c8",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "| **Primary** | Secure Linear B values: the core CV grid and the doublets Linear B transliterates without query (A₂, A₃, AU, DWE, DWO, NWA, PTE, PU₂, RA₂, RA₃, RO₂, TA₂, TWE, TWO and the rest of the secure list in Bartoněk, *Handbuch des mykenischen Griechisch*, the syllabary chapter). Every other sign, including *301, *314, *802, *306, *21F, *86, PA₃, JU, ZU and every Linear A–only sign, is an **opaque symbol**. Opaque symbols align by identity and never render from a morpheme | registered |",
+     "count": 1
+    },
+    {
+     "new": "| `cs` | H1, blind, co-primary | Huehnergard, \"Proto-Semitic,\" in *The Semitic Languages*, 2nd ed., ch. 3 (2019): noun, pronoun and verb paradigm tables. Central Semitic innovations from Huehnergard, \"Features of Central Semitic\" (2005, `sources/huehnergard/`, record to add) and Huehnergard and Rubin, \"Phyla and Waves\" | yes |",
+     "count": 1
+    },
+    {
+     "new": "| `luwian` | H2 | Yakubovich, *The Luwian Language* (2015 manuscript), tables of nominal and verbal endings | yes |",
+     "count": 1
+    },
+    {
+     "new": "| `hurrian` | H2 | Wegner, *Einführung in die hurritische Sprache* (2000), suffix-chain tables | yes |",
+     "count": 1
+    },
+    {
+     "new": "| `egyptian` | H2 | Allen, *Middle Egyptian*, 3rd ed. (2014), suffix pronoun, gender-number and verbal ending tables | yes (3rd ed. EPUB, ruling 6) |",
+     "count": 1
+    },
+    {
+     "new": "| `greek` | H2, new | Bartoněk, *Handbuch des mykenischen Griechisch* (2003), nominal and verbal inflection tables | yes |",
+     "count": 1
+    },
+    {
+     "new": "   (Steele and Meissner, \"From Linear B to Linear A,\" 2017). They under-write Semitic gutturals and",
+     "count": 1
+    },
+    {
+     "new": "6. The Egyptian grammar is Allen, *Middle Egyptian*, 3rd ed. (2014). No substitute.",
+     "count": 1
+    },
+    {
+     "new": "`https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf`",
+     "count": 2
+    },
+    {
+     "new": "## Scratch files (drafting only, not part of the freeze)\n\nThe drafting scripts behind the counts in §3 and §10.1 stay in the research tree; none of them computes an arm, inventory or null on Linear A.\n\n",
+     "count": 1
+    },
+    {
+     "new": "# Protocol C: Blind-Inventory Prediction of Unseen Linear A Forms\n\n> [!NOTE]\n> This is the signed text with its amendments A1–A4, kept as written but for five changes: the private source ids\n> after citations are cut, the maintainer is named di Mino throughout, the *Ya Diktu* PDF is named by its public\n> address, the list of drafting scripts at the end is cut to one line, and this note is added. The text as signed,\n> before the amendments, is\n> `data/linear-a/protocol-c/PROTOCOL-C-SIGNED-2026-10-29.md`, at the sha256 `SIGNATURE.txt` records.\n> `tools/linear_a/validation/protocol_c.py verify --key`, given the maintainer's key, undoes the changes to both files\n> and checks them against their hashes. Phases C0 and C1 are built and hashed; nothing is frozen, and no Linear A form has been rendered or scored.\n> The text names files by their paths in the research package it was written in. In this repository they are:\n>\n> | Named here | In this repository |\n> |---|---|\n> | `protocol-c/` (§11 item 1) | split as amendment A4 sets out, in the rows below |\n> | `protocol-c/inventories/` (`TABLES.md`, `tables/<arm>.md`, `schema.json`) | `data/linear-a/protocol-c/inventories/`, same layout, `TABLES.md` as `TABLES-C0.md` |\n> | `protocol-c/render/series.json` | `data/linear-a/protocol-c/render/series.json` |\n> | the builder transcripts and the six C1 builds | `data/linear-a/protocol-c/builds/<arm>/`, each log as `transcript.redacted.jsonl` (A4) |\n> | `protocol-c/scripts/` (`run_builder.sh`, `check_inventory.py`) | `tools/core/frozen/protocol_c/scripts/` |\n> | `SIGNATURE.txt` | `data/linear-a/protocol-c/SIGNATURE.txt` |\n> | `data/formula_family.json` | `data/linear-a/paradigm-b/formula_family.json` (the same bytes) |\n> | `PROTOCOL-B.md`, `STAGE-B-REPORT.md` | [paradigm-b-preregistration.md](paradigm-b-preregistration.md), [paradigm-b-result.md](paradigm-b-result.md) |\n>\n> Not in this repository: `data/family_additions.json`, `DECISIONS.md`, `campaign_workspace.json`, `artifacts/`\n> (the Option B review and the statistical battery, with the review's `null_r.py` and `rand_inv.py`), the drafting\n> scripts and their outputs under `scratchpad/protocol-c/`, the research tree's `corpus.json`, `lexicon.json`,\n> `translations.json`, `onomasticon.json` and `unread_words.json` (the repository's own, in `data/linear-a/`, have\n> changed since the counts in §3 were made), the grammars and the *Ya Diktu* PDF (their sha256 are in each build's\n> `kit.sha256`), and the builders' full logs (their sha256 are in each build's `SHA256SUMS`). Not yet written: the\n> phase C2–C6 scripts (`null_r.py`, `null_inventory.py`, `score_c.py`), the own-language selftest, `inputs/`,\n> `predictions/`, `controls/`, `power/`, `runs/`, the freeze's `SHA256SUMS` and the tag. `protocol_c.py reproduce`\n> reruns the C1 checks ([reproduce.md](reproduce.md)).\n\n## 0. Status",
+     "count": 1
+    },
+    {
+     "new": "---\nname: docs/protocol-c-preregistration\ntitle: \"Protocol C: Blind-Inventory Prediction of Unseen Linear A Forms\"\ndesc: \"Protocol C, the blind-inventory prediction test of unseen Linear A word edges: its pre-registration as signed on 2026-10-29, with amendments A1–A4; not yet frozen or run.\"\ntags: [docs]\nauthors: \"di Mino\"\nstatus: \"SIGNED 2026-10-29 (SIGNATURE.txt 5a7b442c…); amendments A1–A4; phases C0 and C1 built and hashed; not frozen, no Linear A form rendered or scored\"\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 6
+    },
+    {
+     "new": "di Mino s",
+     "count": 2
+    },
+    {
+     "new": "di Mino d",
+     "count": 1
+    },
+    {
+     "new": "di Mino c",
+     "count": 1
+    },
+    {
+     "new": "di Mino, 2",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "bb8aa25b1ab6bc8650d9c7f97aa626e855bb170f76cf5793ed8b4bdc24a38670",
+   "note": "the protocol with amendments A1–A4; the signed text before them is PROTOCOL-C-SIGNED-2026-10-29.md"
+  },
+  {
+   "path": "data/linear-a/protocol-c/SIGNATURE.txt",
+   "frozen_path": "protocol-c/SIGNATURE.txt",
+   "frozen_sha256": "8f76b8206771c10eaecc3de0b2ab234aa5287fc310f3d69142cfdd8fb29e1295",
+   "pinned_by": [
+    "the signature"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "8f76b8206771c10eaecc3de0b2ab234aa5287fc310f3d69142cfdd8fb29e1295",
+   "note": "the signature record: the sha256 of the protocol as signed"
+  },
+  {
+   "path": "data/linear-a/protocol-c/PROTOCOL-C-SIGNED-2026-10-29.md",
+   "frozen_path": "protocol-c/PROTOCOL-C-SIGNED-2026-10-29.md",
+   "frozen_sha256": "5a7b442c02336f31058a7fc51da7ecc382ff86eb6cdef7783883de108ed41ea0",
+   "pinned_by": [
+    "SIGNATURE.txt"
+   ],
+   "substitutions": [
+    {
+     "new": "| **Primary** | Secure Linear B values: the core CV grid and the doublets Linear B transliterates without query (A₂, A₃, AU, DWE, DWO, NWA, PTE, PU₂, RA₂, RA₃, RO₂, TA₂, TWE, TWO and the rest of the secure list in Bartoněk, *Handbuch des mykenischen Griechisch*, the syllabary chapter). Every other sign, including *301, *314, *802, *306, *21F, *86, PA₃, JU, ZU and every Linear A–only sign, is an **opaque symbol**. Opaque symbols align by identity and never render from a morpheme | registered |",
+     "count": 1
+    },
+    {
+     "new": "| `cs` | H1, blind, co-primary | Huehnergard, \"Proto-Semitic,\" in *The Semitic Languages*, 2nd ed., ch. 3 (2019): noun, pronoun and verb paradigm tables. Central Semitic innovations from Huehnergard, \"Features of Central Semitic\" (2005, `sources/huehnergard/`, record to add) and Huehnergard and Rubin, \"Phyla and Waves\" | yes |",
+     "count": 1
+    },
+    {
+     "new": "| `luwian` | H2 | Yakubovich, *The Luwian Language* (2015 manuscript), tables of nominal and verbal endings | yes |",
+     "count": 1
+    },
+    {
+     "new": "| `hurrian` | H2 | Wegner, *Einführung in die hurritische Sprache* (2000), suffix-chain tables | yes |",
+     "count": 1
+    },
+    {
+     "new": "| `egyptian` | H2 | Allen, *Middle Egyptian*, 3rd ed. (2014), suffix pronoun, gender-number and verbal ending tables | yes (3rd ed. EPUB, ruling 6) |",
+     "count": 1
+    },
+    {
+     "new": "| `greek` | H2, new | Bartoněk, *Handbuch des mykenischen Griechisch* (2003), nominal and verbal inflection tables | yes |",
+     "count": 1
+    },
+    {
+     "new": "   (Steele and Meissner, \"From Linear B to Linear A,\" 2017). They under-write Semitic gutturals and",
+     "count": 1
+    },
+    {
+     "new": "6. The Egyptian grammar is Allen, *Middle Egyptian*, 3rd ed. (2014). No substitute.",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/PROTOCOL-C-SIGNED-2026-10-29\ntitle: \"Protocol C: Blind-Inventory Prediction of Unseen Linear A Forms\"\ndesc: \"The Protocol C pre-registration as signed on 2026-10-29, before amendments A1–A4; SIGNATURE.txt records its sha256.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\nauthors: \"di Mino\"\nstatus: \"SIGNED 2026-10-29; not frozen (freeze at C5)\"\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 2
+    },
+    {
+     "new": "di Mino s",
+     "count": 2
+    },
+    {
+     "new": "di Mino d",
+     "count": 1
+    },
+    {
+     "new": "di Mino c",
+     "count": 1
+    },
+    {
+     "new": "di Mino, 2",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "16f99b494132c347196d5d5b0bf4ba0b3b9ceca3569805b872c78ebbe030fae1",
+   "note": "the protocol as signed; restores to the sha256 SIGNATURE.txt records"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/TABLES-C0.md",
+   "frozen_path": "protocol-c/inventories/TABLES.md",
+   "frozen_sha256": "3e1d5f4630cf70b73f94fb4bfb675c83ddb46d77e023659457e9d4766b87eb5f",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "| `cs` | Huehnergard, \"Proto-Semitic,\" *The Semitic Languages*, 2nd ed. (2019), ch. 3; innovations: Huehnergard and Rubin, \"Phyla and Waves\" (2011), and Huehnergard, \"Features of Central Semitic\" (2005) | `tables/cs.md` | 24 | Tables 3.5–3.9, §§3.1.1 (bound forms), 3.3.2.1–3.3.2.4, 3.5.3–3.5.5, 3.6, 3.7, 3.10; innovations: H&R §§3, 4, 8.1, 8.2 and Huehnergard 2005 (Mistral OCR) §§II.1, II.10, which restate *yaqtulu* and Barth-Ginsberg and add no form. Its other confident innovations are free words; its hedged features stay out |",
+     "count": 1
+    },
+    {
+     "new": "| `luwian` | Yakubovich, *The Luwian Language* (2015 ms.) | `tables/luwian.md` | 5 | Tables 2, 3, 5, 7, 8. The participle and infinitive are prose under \"6.5 Verb\" and stay out |",
+     "count": 1
+    },
+    {
+     "new": "| `hurrian` | Wegner, *Einführung in die hurritische Sprache* (2000) (Mistral OCR) | `tables/hurrian.md` | 32 | Tabelle 3–13, lists, 10 headed sections (§§11–15 moods, 16 Wunschformen, 17 Der Infinitiv, Postpositionen und Partikeln, the particle sections); exercises F.1–F.4 out |",
+     "count": 1
+    },
+    {
+     "new": "| `egyptian` | Allen, *Middle Egyptian*, 3rd ed. (2014) | `tables/egyptian.md` | 52 | uncaptioned tables cited by section and page anchor; §8.2, §15.7 lists; ky, ntj, jwtj and numerals out (free words) |",
+     "count": 1
+    },
+    {
+     "new": "| `greek` | Bartoněk, *Handbuch des mykenischen Griechisch* (2003) (Mistral OCR) | `tables/greek.md` | 25 + spelling rules | declension sections and tables, VII.E.4.b Personalendungen (p. 337), VII.E.4.c (p. 338); verb attestation lists out; -qe, -de the only enclitics |",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/inventories/TABLES-C0\ntitle: \"TABLES.md\"\ndesc: \"The signed list of grammar units each blind builder of Protocol C transcribes: the unit rule, the six arms with their grammars and unit counts, and the page checks.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\nauthors: \"di Mino\"\nstatus: \"SIGNED 2026-10-29 (given in session, recorded by instruction); hashed at C1 before any build\"\nprotocol: \"../../PROTOCOL-C-DRAFT.md §5.1–5.3, §16 A1\"\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "5a94409b913d0e3af4c4ec88c8e5285dc781a02dd35c475fa79024a0806f1c24",
+   "note": "TABLES.md, signed at C0; renamed because the wiki reads TABLES and tables/ as one name"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/schema.json",
+   "frozen_path": "protocol-c/inventories/schema.json",
+   "frozen_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "pinned_by": [
+    "kit.sha256 (every build)"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "note": "the inventory format (amendment A2)"
+  },
+  {
+   "path": "data/linear-a/protocol-c/render/series.json",
+   "frozen_path": "protocol-c/render/series.json",
+   "frozen_sha256": "29a1e67c543e7f6ba9c23268aa6f2d21ade7036f5bd316258852b6babbd8d331",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "di Mino's",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "696b614530bff58ed1e9b863a656be952ab16c03285d495e7418a6820f4a79b8",
+   "note": "the renderer's phoneme-to-series table (§5.5 item 1)"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/BRIEF.md",
+   "frozen_path": "protocol-c/builds/BRIEF.md",
+   "frozen_sha256": "0f4b1cf535925cae3c17f9786835a25eaa32faee05ea4fe9058bdc2c3a4e150e",
+   "pinned_by": [
+    "kit.sha256 (every build)"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/BRIEF\ntitle: \"Builder brief\"\ndesc: \"The brief every blind builder of Protocol C was given, copied into each kit unchanged.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Builder brief\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "42cbabd48b377c8834ef516855aae48cd5c56a5ae57c1325700eea5622f2aae6"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/C1-MANIFEST.md",
+   "frozen_path": "protocol-c/builds/C1-MANIFEST.md",
+   "frozen_sha256": "bafcc2bca53805a502990851ca8c726cdaca37e47c5a749d5e09e9182d265754",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "Codex's user-level AGENTS.md",
+     "count": 1
+    },
+    {
+     "new": "Codex's user skills folder links every Claude skill",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/C1-MANIFEST\ntitle: \"C1 manifest\"\ndesc: \"The C1 manifest of Protocol C: the six blind builds with their entry counts, probes, audits and inventory hashes, the blindness record, what is not part of C1, and the review points before rendering.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\nauthors: \"di Mino\"\ndate: 2026-10-29\nstatus: \"built and checked; not yet committed or tagged (commit waits for di Mino). No Linear A form has been rendered.\"\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "7704b7effee261cdd0ab75b29fc003d282201f689d80038e390c3855376a68c3",
+   "note": "records each inventory.filled.json sha256"
+  },
+  {
+   "path": "tools/core/frozen/protocol_c/scripts/run_builder.sh",
+   "frozen_path": "protocol-c/scripts/run_builder.sh",
+   "frozen_sha256": "b6793a1dad56c13aad680f3ca348d4bdb8f843c05f17c58e7df06ddef79f035b",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "ROOT=research-tree",
+     "count": 1
+    },
+    {
+     "new": "(\"minoanmystery-astro/public/linear-a/\")",
+     "count": 1
+    },
+    {
+     "new": "git -C minoanmystery-astro show",
+     "count": 1
+    },
+    {
+     "new": "if \"/Users\" \"/\" in text",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 1
+    },
+    {
+     "new": "di Mino:",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "43e4673873747b2d6726da8501bd5ad1148766508c7dd408fd3c7d4971ae3938",
+   "note": "the C1 runner: kit, probe, Codex session, blindness audit, copy-out"
+  },
+  {
+   "path": "tools/core/frozen/protocol_c/scripts/check_inventory.py",
+   "frozen_path": "protocol-c/scripts/check_inventory.py",
+   "frozen_sha256": "22de5c669122d63c4b7bb3688584e99f19d14ad697a51d401a740525e641a4d1",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "CORPUS = Path(\"linear-a-decipherment/data/corpus.json\")",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "e0e75f72d70054c185e95710f560f74bb2cf97e48a7cf352e47f632f59ca1774",
+   "note": "the C1 checker: schema, blindness, coverage; writes inventory.filled.json"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/BRIEF.md",
+   "frozen_path": "protocol-c/builds/cs/BRIEF.md",
+   "frozen_sha256": "0f4b1cf535925cae3c17f9786835a25eaa32faee05ea4fe9058bdc2c3a4e150e",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS",
+    "builds/cs/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/cs/BRIEF\ntitle: \"Builder brief\"\ndesc: \"The builder brief in the cs kit, the text of builds/BRIEF.md.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Builder brief\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "c7d72040168792c7b2117190c338ee4f8fb30cca816da2732191535ae32c0949"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/blindness_audit.txt",
+   "frozen_path": "protocol-c/builds/cs/blindness_audit.txt",
+   "frozen_sha256": "2ad19d6dc39fa72938f2322922f86f94e8df11df7b30880d5635cfeedfb8d13a",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "2ad19d6dc39fa72938f2322922f86f94e8df11df7b30880d5635cfeedfb8d13a"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/builder_model.txt",
+   "frozen_path": "protocol-c/builds/cs/builder_model.txt",
+   "frozen_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/grammar_files.txt",
+   "frozen_path": "protocol-c/builds/cs/grammar_files.txt",
+   "frozen_sha256": "7e62ffa1a6b4bf346b92d99b5a7401613630ef0894a0d16d938d1e1fc06876ee",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS",
+    "builds/cs/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "7e62ffa1a6b4bf346b92d99b5a7401613630ef0894a0d16d938d1e1fc06876ee"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/inventory.filled.json",
+   "frozen_path": "protocol-c/builds/cs/inventory.filled.json",
+   "frozen_sha256": "73266e62f1457d7cfff26581310b7cfd4f1c2156abc267179428a37a820d7020",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS",
+    "C1-MANIFEST.md"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "73266e62f1457d7cfff26581310b7cfd4f1c2156abc267179428a37a820d7020"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/inventory.json",
+   "frozen_path": "protocol-c/builds/cs/inventory.json",
+   "frozen_sha256": "0e1a58619ae860d5f4763f4e69c2cfc214dbc8ffc2a2c28c768593f1289fdf66",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "0e1a58619ae860d5f4763f4e69c2cfc214dbc8ffc2a2c28c768593f1289fdf66"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/kit.sha256",
+   "frozen_path": "protocol-c/builds/cs/kit.sha256",
+   "frozen_sha256": "a809b0f58115e7d6ad724193e393fe559c90ab62a5ad9ebd52ca8103fbe9c128",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a809b0f58115e7d6ad724193e393fe559c90ab62a5ad9ebd52ca8103fbe9c128"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/notes.md",
+   "frozen_path": "protocol-c/builds/cs/notes.md",
+   "frozen_sha256": "d4f788a53f8b81159ee6f770a78afe214af9bca31f64a2f6f994cb1436c531c9",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/cs/notes\ntitle: \"Transcription notes\"\ndesc: \"The cs builder's notes on the units, forms, segmentations and doubts, as written.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Transcription notes\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "410b16bf16d498569f30bf04be8583a9cbcd199cae94b05a3992f1db4f87bf68"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/probe.txt",
+   "frozen_path": "protocol-c/builds/cs/probe.txt",
+   "frozen_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/protocol.md",
+   "frozen_path": "protocol-c/builds/cs/protocol.md",
+   "frozen_sha256": "de0d9a47cd2018d7b1dda222eed8de611a6a0a86f3998b8b896e38a75fc79d23",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS",
+    "builds/cs/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/cs/protocol\ntitle: \"Protocol C: the rules this inventory is built under (extract)\"\ndesc: \"The protocol extract in the cs kit: §5.2–5.3 and amendments A1–A2, cut from the protocol by run_builder.sh.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C: the rules this inventory is built under (extract)\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 1
+    },
+    {
+     "new": "di Mino ",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "067b42d177e3b2240a900146924e5ee7f37adc9888725f92d5d0802d9cf46478"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/schema.json",
+   "frozen_path": "protocol-c/builds/cs/schema.json",
+   "frozen_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS",
+    "builds/cs/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/session_started_utc.txt",
+   "frozen_path": "protocol-c/builds/cs/session_started_utc.txt",
+   "frozen_sha256": "846027e1251b39f583227e6888b86eff5f5c6627dc5fb1a8d15fffea70ce1f4c",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "846027e1251b39f583227e6888b86eff5f5c6627dc5fb1a8d15fffea70ce1f4c"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/stderr.txt",
+   "frozen_path": "protocol-c/builds/cs/stderr.txt",
+   "frozen_sha256": "054495c783d7e0fb82ae761a4b48e11a02e497ade374c1caa5cf9fb1376fe9b1",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "(root: file://CODEX_HOME/skills)",
+     "count": 1
+    },
+    {
+     "new": "failed to load skill linear-a-decipherment/",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "6ae9ff043be32cb6b1f8a54bf023c2c08ce3ad9276181d3cb6c38e61a854aeb1"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/units.md",
+   "frozen_path": "protocol-c/builds/cs/units.md",
+   "frozen_sha256": "5158675fbed63a55a7efd364b1f932ab67de6786a3350d0854833f909fbb5768",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS",
+    "builds/cs/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "2. John Huehnergard, \"Features of Central Semitic,\" in *Biblical and Oriental Essays in Memory of William L. Moran*, ed. Gianto, Biblica et Orientalia 48 (Pontificio Istituto Biblico, 2005), printed pp. 155–203: `huehnergard-2005-features-central-semitic.pdf` (two printed pages per PDF page; pdf 1 = p. 155). Scan with no text layer; read in the Mistral OCR `huehnergard-2005-features-central-semitic.md`.",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/cs/units\ntitle: \"Arm `cs` (Central Semitic): table list\"\ndesc: \"The cs unit list as given to the builder: tables/cs.md with its folder prefixes stripped.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Arm `cs` (Central Semitic): table list\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "7499552c620f51bf1093734c948b339a1bed53df9b2d04547dbd0deebb72979c"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/SHA256SUMS",
+   "frozen_path": "protocol-c/builds/cs/SHA256SUMS",
+   "frozen_sha256": "0dedef394e2f7c7d76655418f460b54b2ed6c64f0b8b87464607057c3f6927d0",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "0dedef394e2f7c7d76655418f460b54b2ed6c64f0b8b87464607057c3f6927d0",
+   "note": "the runner's sha256 of every file the build left, the full log included"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/tables/cs.md",
+   "frozen_path": "protocol-c/inventories/tables/cs.md",
+   "frozen_sha256": "d8001fb78836945d217826f1e062451700d2494a33b92b7a6b6ed95bd6e922e4",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "1. John Huehnergard, \"Proto-Semitic,\" ch. 3 in *The Semitic Languages*, 2nd ed., ed. Huehnergard and Pat-El (Routledge, 2019), printed pp. 49–79: `huehnergard-2019-proto-semitic.pdf` (printed page = PDF page + 43).",
+     "count": 1
+    },
+    {
+     "new": "2. John Huehnergard, \"Features of Central Semitic,\" in *Biblical and Oriental Essays in Memory of William L. Moran*, ed. Gianto, Biblica et Orientalia 48 (Pontificio Istituto Biblico, 2005), printed pp. 155–203: `huehnergard-2005-features-central-semitic.pdf` (two printed pages per PDF page; pdf 1 = p. 155). Scan with no text layer; read in the Mistral OCR `huehnergard-2005-features-central-semitic.md`.",
+     "count": 1
+    },
+    {
+     "new": "3. John Huehnergard and Aaron D. Rubin, \"Phyla and Waves: Models of Classification of the Semitic Languages,\" ch. 9 in *The Semitic Languages: An International Handbook* (De Gruyter, 2011), printed pp. 259–278: `huehnergard-rubin-2011-phyla-and-waves.pdf` (printed page = PDF page + 257).",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/inventories/tables/cs\ntitle: \"Arm `cs` (Central Semitic): table list\"\ndesc: \"The units the cs builder transcribes (Central Semitic), with section and page, as signed at C0.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Arm `cs` (Central Semitic): table list\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "0439a08140bb6d1b0b2d8a8d893d4820a616a6cb21b42e26e0968a4127ca7ea6",
+   "note": "the same text as builds/cs/units.md"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/BRIEF.md",
+   "frozen_path": "protocol-c/builds/yd/BRIEF.md",
+   "frozen_sha256": "0f4b1cf535925cae3c17f9786835a25eaa32faee05ea4fe9058bdc2c3a4e150e",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS",
+    "builds/yd/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/yd/BRIEF\ntitle: \"Builder brief\"\ndesc: \"The builder brief in the yd kit, the text of builds/BRIEF.md.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Builder brief\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "538a181715cb7dfa9e742a8c343e81036031d968b21669c74c8ac79b63c309bc"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/blindness_audit.txt",
+   "frozen_path": "protocol-c/builds/yd/blindness_audit.txt",
+   "frozen_sha256": "3d44862061e741515eca35a4987a8357530cef117ae4d1f3955d1b5355b1530a",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "on\\\\\\\": \\\\\\\"di Mino",
+     "count": 2
+    }
+   ],
+   "shipped_sha256": "c10d4c07b8e20f6213f327ac97fe464fc196347e9e46c8e7a6b9b93bada12770"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/builder_model.txt",
+   "frozen_path": "protocol-c/builds/yd/builder_model.txt",
+   "frozen_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/grammar_files.txt",
+   "frozen_path": "protocol-c/builds/yd/grammar_files.txt",
+   "frozen_sha256": "32e5e7b685a9e7043cc90872d2ffad27f2bb615f3f40763ee31823f7584be735",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS",
+    "builds/yd/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "32e5e7b685a9e7043cc90872d2ffad27f2bb615f3f40763ee31823f7584be735"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/inventory.filled.json",
+   "frozen_path": "protocol-c/builds/yd/inventory.filled.json",
+   "frozen_sha256": "82fc1ef17a2ec04c14e042dd6113e7c8eff0f55c066d059ecd7e729aa034dc76",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS",
+    "C1-MANIFEST.md"
+   ],
+   "substitutions": [
+    {
+     "new": "citation\": \"di Mino",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "76171ba118da4f4329c825c1f57d87d150238718bd81c2d712a1f5ca40b30466"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/inventory.json",
+   "frozen_path": "protocol-c/builds/yd/inventory.json",
+   "frozen_sha256": "9d72f2c3dd3767b676ea2261d48b098786b32a49ddedffa0556f5e4d2194bfa0",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "citation\": \"di Mino",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "064fbb1b74f630fa2d28df7c136e0d13d78ef3131538367c36f7f65f86fc68b4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/kit.sha256",
+   "frozen_path": "protocol-c/builds/yd/kit.sha256",
+   "frozen_sha256": "909a83fb0fa028576f3e23ede7eb07d1d5c8b701abc27f49c4c43be625f20e99",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "909a83fb0fa028576f3e23ede7eb07d1d5c8b701abc27f49c4c43be625f20e99"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/notes.md",
+   "frozen_path": "protocol-c/builds/yd/notes.md",
+   "frozen_sha256": "5e6c221686963ddcae115e363e2cde8f5339f4cd55ee5c583bba05e39a9b4b5c",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/yd/notes\ntitle: \"Transcription notes\"\ndesc: \"The yd builder's notes on the units, forms, segmentations and doubts, as written.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Transcription notes\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "f54da328806bc76984f16f846fa3a3ca9c1e820432604dddbf00af3428f1c108"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/probe.txt",
+   "frozen_path": "protocol-c/builds/yd/probe.txt",
+   "frozen_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/protocol.md",
+   "frozen_path": "protocol-c/builds/yd/protocol.md",
+   "frozen_sha256": "515956b5391d0092c1c661bf70693568ef1f48d55b02a3ece1bd1ee4db0e7fe5",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS",
+    "builds/yd/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/yd/protocol\ntitle: \"Protocol C: the rules this inventory is built under (extract)\"\ndesc: \"The protocol extract in the yd kit: §5.2–5.3 and amendments A1–A3, cut from the protocol by run_builder.sh.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C: the rules this inventory is built under (extract)\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 3
+    },
+    {
+     "new": "di Mino ",
+     "count": 1
+    },
+    {
+     "new": "`https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf`",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "565f0551898c84ed0aff10b020405049d7c03cd412939271c0ebbdb14fa13683"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/schema.json",
+   "frozen_path": "protocol-c/builds/yd/schema.json",
+   "frozen_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS",
+    "builds/yd/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/session_started_utc.txt",
+   "frozen_path": "protocol-c/builds/yd/session_started_utc.txt",
+   "frozen_sha256": "c18412d1e9678aee98480371e9e03ed81f7b0191bcba92a079a4b66f3e05b848",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "c18412d1e9678aee98480371e9e03ed81f7b0191bcba92a079a4b66f3e05b848"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/stderr.txt",
+   "frozen_path": "protocol-c/builds/yd/stderr.txt",
+   "frozen_sha256": "803949c54c5d18287cc183f06a4ded7a08cfcc40c219a08f494673d1bd2d9bba",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "(root: file://CODEX_HOME/skills)",
+     "count": 1
+    },
+    {
+     "new": "failed to load skill linear-a-decipherment/",
+     "count": 1
+    },
+    {
+     "new": "target $KIT/",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "1353987fd4a7de9cd90344437ca812c75ad89457d8b0206b8d143aebc47cea3b"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/units.md",
+   "frozen_path": "protocol-c/builds/yd/units.md",
+   "frozen_sha256": "09a3146b7d88166135e6233e6bec924d979788a4810e3e8fd86a68a53ffde5aa",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS",
+    "builds/yd/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "Contested-value dependence:\n\n- ",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/yd/units\ntitle: \"TABLES.md entry, `yd` arm\"\ndesc: \"The yd unit list as given to the builder: tables/yd.md with its folder prefixes stripped.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# TABLES.md entry, `yd` arm\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "307221479af7c3eaedd19a9a61e9f11e4ee794d9732505dd0c1709484bfcf8c7"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/SHA256SUMS",
+   "frozen_path": "protocol-c/builds/yd/SHA256SUMS",
+   "frozen_sha256": "17e0e6cfc827398d478d348769013d98c87ea3201a5b81372b41c917747b3d21",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "17e0e6cfc827398d478d348769013d98c87ea3201a5b81372b41c917747b3d21",
+   "note": "the runner's sha256 of every file the build left, the full log included"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/tables/yd.md",
+   "frozen_path": "protocol-c/inventories/tables/yd.md",
+   "frozen_sha256": "be81f14694d383a77bc37bff2eed6949fb51aa7c9b8209a2c446cb7a3d201c03",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "Source: di Mino, *Ya Diktu: Grammar of the Minoan Peak Sanctuary Libation Formula* (October 2026; published PDF, commit d9a3f93, SHA-256 d111b8db…; amendment A3), `ya-diktu-grammar-tom-di-mino.pdf`, 46 pp. Text layer: `pdftotext -layout`. Printed page numbers equal PDF page numbers (the title page is p. 1; every footer number matches its PDF page). Where a section heading falls on one page and its paradigm table on the next, both are given. Rows are the grammar's own statements; no judgment of correctness.",
+     "count": 1
+    },
+    {
+     "new": "Contested-value dependence:\n\n- ",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/inventories/tables/yd\ntitle: \"TABLES.md entry, `yd` arm\"\ndesc: \"The units the yd builder transcribes (Ya Diktu), with section and page, as signed at C0.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# TABLES.md entry, `yd` arm\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "e63cf2b2054ce13a98ba701fba7ba0d5273b582d75c2766b4024257f45b0e35c",
+   "note": "the same text as builds/yd/units.md"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/BRIEF.md",
+   "frozen_path": "protocol-c/builds/luwian/BRIEF.md",
+   "frozen_sha256": "0f4b1cf535925cae3c17f9786835a25eaa32faee05ea4fe9058bdc2c3a4e150e",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS",
+    "builds/luwian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/luwian/BRIEF\ntitle: \"Builder brief\"\ndesc: \"The builder brief in the luwian kit, the text of builds/BRIEF.md.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Builder brief\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "909f937174962250a50cacef50ff226cb5265d65ebbb37e649b17e1e4d8a2665"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/blindness_audit.txt",
+   "frozen_path": "protocol-c/builds/luwian/blindness_audit.txt",
+   "frozen_sha256": "ea911a31034b6f35f66928637c90f6890850445ae2772f6198199d6c1b55d204",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ea911a31034b6f35f66928637c90f6890850445ae2772f6198199d6c1b55d204"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/builder_model.txt",
+   "frozen_path": "protocol-c/builds/luwian/builder_model.txt",
+   "frozen_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/grammar_files.txt",
+   "frozen_path": "protocol-c/builds/luwian/grammar_files.txt",
+   "frozen_sha256": "fe30f46846dc5d2f523dc89f921b5d0f1620eac514ff0c320a9780c82008b809",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS",
+    "builds/luwian/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "fe30f46846dc5d2f523dc89f921b5d0f1620eac514ff0c320a9780c82008b809"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/inventory.filled.json",
+   "frozen_path": "protocol-c/builds/luwian/inventory.filled.json",
+   "frozen_sha256": "df9ba92e89ab2d42f170a2186bb0529e7b23a59e0424e1a27b2b89ff3b3cc8e9",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS",
+    "C1-MANIFEST.md"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "df9ba92e89ab2d42f170a2186bb0529e7b23a59e0424e1a27b2b89ff3b3cc8e9"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/inventory.json",
+   "frozen_path": "protocol-c/builds/luwian/inventory.json",
+   "frozen_sha256": "270a30f7309ea4491cbf078851e90656c94e68cfffe950a8a2b9fd0238d62ea0",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "270a30f7309ea4491cbf078851e90656c94e68cfffe950a8a2b9fd0238d62ea0"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/kit.sha256",
+   "frozen_path": "protocol-c/builds/luwian/kit.sha256",
+   "frozen_sha256": "b444f3c3966e463fd0d94a9c5a0161c93bcbc772c893a97870ace0d7822797ac",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "b444f3c3966e463fd0d94a9c5a0161c93bcbc772c893a97870ace0d7822797ac"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/notes.md",
+   "frozen_path": "protocol-c/builds/luwian/notes.md",
+   "frozen_sha256": "66ec3c34b80956f0b6703325f8e4878ef05a629a88934e3cae60ab0078f407c0",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/luwian/notes\ntitle: \"Transcription notes\"\ndesc: \"The luwian builder's notes on the units, forms, segmentations and doubts, as written.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Transcription notes\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "94165c2e13700f234165a71e96a94941eab1d9772c2d92e2d3ed09bcf9eba3ca"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/probe.txt",
+   "frozen_path": "protocol-c/builds/luwian/probe.txt",
+   "frozen_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/protocol.md",
+   "frozen_path": "protocol-c/builds/luwian/protocol.md",
+   "frozen_sha256": "de0d9a47cd2018d7b1dda222eed8de611a6a0a86f3998b8b896e38a75fc79d23",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS",
+    "builds/luwian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/luwian/protocol\ntitle: \"Protocol C: the rules this inventory is built under (extract)\"\ndesc: \"The protocol extract in the luwian kit: §5.2–5.3 and amendments A1–A2, cut from the protocol by run_builder.sh.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C: the rules this inventory is built under (extract)\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 1
+    },
+    {
+     "new": "di Mino ",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "46766574af83a438ffe07bd988fd019632e1fa900eeabd6445f6d7856183d9a6"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/schema.json",
+   "frozen_path": "protocol-c/builds/luwian/schema.json",
+   "frozen_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS",
+    "builds/luwian/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/session_started_utc.txt",
+   "frozen_path": "protocol-c/builds/luwian/session_started_utc.txt",
+   "frozen_sha256": "846027e1251b39f583227e6888b86eff5f5c6627dc5fb1a8d15fffea70ce1f4c",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "846027e1251b39f583227e6888b86eff5f5c6627dc5fb1a8d15fffea70ce1f4c"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/stderr.txt",
+   "frozen_path": "protocol-c/builds/luwian/stderr.txt",
+   "frozen_sha256": "2e84225dbcfd21b53e3384941c45386489a5d4852af0e69eba0fd354a186785c",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "(root: file://CODEX_HOME/skills)",
+     "count": 1
+    },
+    {
+     "new": "failed to load skill linear-a-decipherment/",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "a87d7634dff3f3715f4b01dbda565250c1b1e8119ff0bed640f091cab20c3214"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/units.md",
+   "frozen_path": "protocol-c/builds/luwian/units.md",
+   "frozen_sha256": "d13480beb5474673debef6482c52096f9512eb0b2e8f78392f57fe20936cbfdf",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS",
+    "builds/luwian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "Not tabulated:\n\n- ",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/luwian/units\ntitle: \"Protocol C, luwian build: units\"\ndesc: \"The luwian unit list as given to the builder: tables/luwian.md with its folder prefixes stripped.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\nSource: Ilia Yakubovich, *The Luwian Language* (2015 manuscript), `Yakubovich-2015-The-Luwian-Language.pdf` (26 pdf pages; text layer clean via `pdftotext -layout`; printed page number equals PDF page number, page 1 carries no printed number).\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "93c02485b4ed4cd2d44f3228bc85a68f0c53d780495a2cd609fee34f11b4162f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/SHA256SUMS",
+   "frozen_path": "protocol-c/builds/luwian/SHA256SUMS",
+   "frozen_sha256": "15a1bcddb8849cfb11ff9c8afa4cc558b0071b0e7975d557918b9ec95932ff51",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "15a1bcddb8849cfb11ff9c8afa4cc558b0071b0e7975d557918b9ec95932ff51",
+   "note": "the runner's sha256 of every file the build left, the full log included"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/tables/luwian.md",
+   "frozen_path": "protocol-c/inventories/tables/luwian.md",
+   "frozen_sha256": "07d31f7325dd231858880277f9b2def24fc0990e1384d0706f1fdcf5525ad714",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "Source: Ilia Yakubovich, *The Luwian Language* (2015 manuscript), `Yakubovich-2015-The-Luwian-Language.pdf` (26 pdf pages; text layer clean via `pdftotext -layout`; printed page number equals PDF page number, page 1 carries no printed number).",
+     "count": 1
+    },
+    {
+     "new": "Not tabulated:\n\n- ",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/inventories/tables/luwian\ntitle: \"Protocol C units: luwian\"\ndesc: \"The units the luwian builder transcribes (Luwian), with section and page, as signed at C0.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\nSource: Ilia Yakubovich, *The Luwian Language* (2015 manuscript), `Yakubovich-2015-The-Luwian-Language.pdf` (26 pdf pages; text layer clean via `pdftotext -layout`; printed page number equals PDF page number, page 1 carries no printed number).\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "6caed5fcb074dd33bdb6d1bf53e83103446ce9d86f49d471c3ebd9de7c32e0fc",
+   "note": "the same text as builds/luwian/units.md"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/BRIEF.md",
+   "frozen_path": "protocol-c/builds/hurrian/BRIEF.md",
+   "frozen_sha256": "0f4b1cf535925cae3c17f9786835a25eaa32faee05ea4fe9058bdc2c3a4e150e",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS",
+    "builds/hurrian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/hurrian/BRIEF\ntitle: \"Builder brief\"\ndesc: \"The builder brief in the hurrian kit, the text of builds/BRIEF.md.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Builder brief\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "5a7d066d142a6cc2610e3dbc1bbfa69c16bcf56b639824d5ddb06d1151b75a4d"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/blindness_audit.txt",
+   "frozen_path": "protocol-c/builds/hurrian/blindness_audit.txt",
+   "frozen_sha256": "6274a39953d5f9b503230e4719c7c4bc4a972bd8c20ed29636a4c56bc762b223",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "6274a39953d5f9b503230e4719c7c4bc4a972bd8c20ed29636a4c56bc762b223"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/builder_model.txt",
+   "frozen_path": "protocol-c/builds/hurrian/builder_model.txt",
+   "frozen_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/grammar_files.txt",
+   "frozen_path": "protocol-c/builds/hurrian/grammar_files.txt",
+   "frozen_sha256": "fc365561ee2717f4efce0ca92728180b9561a5928547d5449a00f000f2da8151",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS",
+    "builds/hurrian/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "fc365561ee2717f4efce0ca92728180b9561a5928547d5449a00f000f2da8151"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/inventory.filled.json",
+   "frozen_path": "protocol-c/builds/hurrian/inventory.filled.json",
+   "frozen_sha256": "aee54dafd9f04533e57055bffec8ce4e4a1f0d9d30cd5ebb01f7de1825683b3b",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS",
+    "C1-MANIFEST.md"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "aee54dafd9f04533e57055bffec8ce4e4a1f0d9d30cd5ebb01f7de1825683b3b"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/inventory.json",
+   "frozen_path": "protocol-c/builds/hurrian/inventory.json",
+   "frozen_sha256": "8c43797f9e39b5f6ce691d2cf0c100f18a4619c1ea6c89aebabcd866c84dd1e4",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "8c43797f9e39b5f6ce691d2cf0c100f18a4619c1ea6c89aebabcd866c84dd1e4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/kit.sha256",
+   "frozen_path": "protocol-c/builds/hurrian/kit.sha256",
+   "frozen_sha256": "39bde0cc4c6b9282cb159c6f9e333fd1e8274aa90bd4c61b2d44ebdb332c66e3",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "39bde0cc4c6b9282cb159c6f9e333fd1e8274aa90bd4c61b2d44ebdb332c66e3"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/notes.md",
+   "frozen_path": "protocol-c/builds/hurrian/notes.md",
+   "frozen_sha256": "83290cc3d575dbf595316265c5b61feb5aea058c7a605c131e74bc0126e0b6b0",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/hurrian/notes\ntitle: \"Transkriptionsnotizen\"\ndesc: \"The hurrian builder's notes on the units, forms, segmentations and doubts, as written.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Transkriptionsnotizen\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "82dee53539f5ddd1e3264eb6d711c0245660aa297064c84faa5355235cb44878"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/page_renders.sha256",
+   "frozen_path": "protocol-c/builds/hurrian/page_renders.sha256",
+   "frozen_sha256": "26914c01477b43f894d9dbdaa6b8892f704bce3eee85b8569f754bd205a3e7c7",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "26914c01477b43f894d9dbdaa6b8892f704bce3eee85b8569f754bd205a3e7c7"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/probe.txt",
+   "frozen_path": "protocol-c/builds/hurrian/probe.txt",
+   "frozen_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/protocol.md",
+   "frozen_path": "protocol-c/builds/hurrian/protocol.md",
+   "frozen_sha256": "de0d9a47cd2018d7b1dda222eed8de611a6a0a86f3998b8b896e38a75fc79d23",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS",
+    "builds/hurrian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/hurrian/protocol\ntitle: \"Protocol C: the rules this inventory is built under (extract)\"\ndesc: \"The protocol extract in the hurrian kit: §5.2–5.3 and amendments A1–A2, cut from the protocol by run_builder.sh.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C: the rules this inventory is built under (extract)\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 1
+    },
+    {
+     "new": "di Mino ",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "50d15deff6d660c8bd6da76980b4ef88fb4bfaa3afc2d75ce7fb7828a53f52e1"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/schema.json",
+   "frozen_path": "protocol-c/builds/hurrian/schema.json",
+   "frozen_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS",
+    "builds/hurrian/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/session_started_utc.txt",
+   "frozen_path": "protocol-c/builds/hurrian/session_started_utc.txt",
+   "frozen_sha256": "7fcd56858d2df5caf5da3bce3b9dfa818be5af8013267360fc4fe4305fc0c048",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "7fcd56858d2df5caf5da3bce3b9dfa818be5af8013267360fc4fe4305fc0c048"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/stderr.txt",
+   "frozen_path": "protocol-c/builds/hurrian/stderr.txt",
+   "frozen_sha256": "ebf3fb1d8759610fdc8f0fe94fdc4ff7618b9555f99f0d48bcbbce99215508bc",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "(root: file://CODEX_HOME/skills)",
+     "count": 1
+    },
+    {
+     "new": "failed to load skill linear-a-decipherment/",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "166be4cd07e50d57dc3dd9486e45d5dd1e58e7fe4eb02aad3260d42c52d9ac1d"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/units.md",
+   "frozen_path": "protocol-c/builds/hurrian/units.md",
+   "frozen_sha256": "f570bf24f19bedc20fc3db5c5254635f0ce76859415ff2e58ad9790da07b2ae4",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS",
+    "builds/hurrian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "Not tabulated or left out:\n\n- ",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/hurrian/units\ntitle: \"Protocol C, hurrian build: units\"\ndesc: \"The hurrian unit list as given to the builder: tables/hurrian.md with its folder prefixes stripped.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\nSource: Ilse Wegner, *Einführung in die hurritische Sprache* (Wiesbaden: Harrassowitz, 2000), `Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf`. The PDF has no text layer (`pdftotext` returns nothing); read from the existing Mistral OCR beside it (`Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md` and `.ocr.json`). Each PDF page is a two-page spread: PDF page n carries printed pages 2n and 2n+1 (e.g. PDF 28 = pp. 56-57). Table captions and numbers are those of the printed \"Verzeichnis der Tabellen\" (PDF 3) and the table heads. Printed pages for Tables 4 and 7 were confirmed on the page image. Rows marked \"list\" are itemised paradigms set in running text or a plain ruled grid with no caption; the title column then gives the introducing words.\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "0c564b3eadab44c7c434b15e76550afb02e80f35321ed23ac69650c90e00d32f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/work/build_inventory.py",
+   "frozen_path": "protocol-c/builds/hurrian/work/build_inventory.py",
+   "frozen_sha256": "2a19a097605d11b2cb1c2a477e5c88363d38e10a56c9e7b55bcdd5c18786874b",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "2a19a097605d11b2cb1c2a477e5c88363d38e10a56c9e7b55bcdd5c18786874b"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/work/coverage.md",
+   "frozen_path": "protocol-c/builds/hurrian/work/coverage.md",
+   "frozen_sha256": "702ebed3ad54af1a6687bdef721bb2ac2be15b025ae7f0455229d1338c8a68b4",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/hurrian/work/coverage\ntitle: \"Protocol C, hurrian build: builder's coverage table\"\ndesc: \"The hurrian builder's scratch count of entries per unit, as left in its kit.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n| II.C.2, 2. Position (list) | 54-55 | 13 |\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "6acde0fdaf52106daf6f013f1b6fa14e9f3248c3445f67f92a8015ed9a27e32d"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/SHA256SUMS",
+   "frozen_path": "protocol-c/builds/hurrian/SHA256SUMS",
+   "frozen_sha256": "7a285873a50c12447d7ab0b4a4badc8fd7c497f5faf9a5d09c72d094699d1000",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "7a285873a50c12447d7ab0b4a4badc8fd7c497f5faf9a5d09c72d094699d1000",
+   "note": "the runner's sha256 of every file the build left, the full log included"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/tables/hurrian.md",
+   "frozen_path": "protocol-c/inventories/tables/hurrian.md",
+   "frozen_sha256": "5824f4344114ad9130e93cf7ba3a2f998b28cfc77cc3158c96672dd5fc1be302",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "Source: Ilse Wegner, *Einführung in die hurritische Sprache* (Wiesbaden: Harrassowitz, 2000), `Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf`. The PDF has no text layer (`pdftotext` returns nothing); read from the existing Mistral OCR beside it (`Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md` and `.ocr.json`). Each PDF page is a two-page spread: PDF page n carries printed pages 2n and 2n+1 (e.g. PDF 28 = pp. 56-57). Table captions and numbers are those of the printed \"Verzeichnis der Tabellen\" (PDF 3) and the table heads. Printed pages for Tables 4 and 7 were confirmed on the page image. Rows marked \"list\" are itemised paradigms set in running text or a plain ruled grid with no caption; the title column then gives the introducing words.",
+     "count": 1
+    },
+    {
+     "new": "Not tabulated or left out:\n\n- ",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/inventories/tables/hurrian\ntitle: \"Protocol C units: hurrian\"\ndesc: \"The units the hurrian builder transcribes (Hurrian), with section and page, as signed at C0.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\nSource: Ilse Wegner, *Einführung in die hurritische Sprache* (Wiesbaden: Harrassowitz, 2000), `Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf`. The PDF has no text layer (`pdftotext` returns nothing); read from the existing Mistral OCR beside it (`Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md` and `.ocr.json`). Each PDF page is a two-page spread: PDF page n carries printed pages 2n and 2n+1 (e.g. PDF 28 = pp. 56-57). Table captions and numbers are those of the printed \"Verzeichnis der Tabellen\" (PDF 3) and the table heads. Printed pages for Tables 4 and 7 were confirmed on the page image. Rows marked \"list\" are itemised paradigms set in running text or a plain ruled grid with no caption; the title column then gives the introducing words.\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "f4dae2d1173cd4cb377e80be98f5f0b9c91d59605a25b2a17d87813814f0e35e",
+   "note": "the same text as builds/hurrian/units.md"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/BRIEF.md",
+   "frozen_path": "protocol-c/builds/egyptian/BRIEF.md",
+   "frozen_sha256": "0f4b1cf535925cae3c17f9786835a25eaa32faee05ea4fe9058bdc2c3a4e150e",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS",
+    "builds/egyptian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/egyptian/BRIEF\ntitle: \"Builder brief\"\ndesc: \"The builder brief in the egyptian kit, the text of builds/BRIEF.md.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Builder brief\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "900d7088a7453cf672e5ab7a33165fbdaa88aeb004817f66de5d93ac139a5ecb"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/blindness_audit.txt",
+   "frozen_path": "protocol-c/builds/egyptian/blindness_audit.txt",
+   "frozen_sha256": "4b6e20947dc7066ba4a252a523e00e64f3c308c5822b72a0632c75fa8fea0dcd",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "4b6e20947dc7066ba4a252a523e00e64f3c308c5822b72a0632c75fa8fea0dcd"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/builder_model.txt",
+   "frozen_path": "protocol-c/builds/egyptian/builder_model.txt",
+   "frozen_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/grammar_files.txt",
+   "frozen_path": "protocol-c/builds/egyptian/grammar_files.txt",
+   "frozen_sha256": "1092b54533703ff8e72cf1daf358f36490751f223b9ea6726f946cbec96f6fc0",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS",
+    "builds/egyptian/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "1092b54533703ff8e72cf1daf358f36490751f223b9ea6726f946cbec96f6fc0"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/inventory.filled.json",
+   "frozen_path": "protocol-c/builds/egyptian/inventory.filled.json",
+   "frozen_sha256": "a38b77152b38345d5a9e199596506acd98bf8955bd39c81f8a3a538d2c954521",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS",
+    "C1-MANIFEST.md"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a38b77152b38345d5a9e199596506acd98bf8955bd39c81f8a3a538d2c954521"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/inventory.json",
+   "frozen_path": "protocol-c/builds/egyptian/inventory.json",
+   "frozen_sha256": "2034a1e1e2583223af6f99acb3ef973bce9c8ce653cd00f66f2e3b3f232621af",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "2034a1e1e2583223af6f99acb3ef973bce9c8ce653cd00f66f2e3b3f232621af"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/kit.sha256",
+   "frozen_path": "protocol-c/builds/egyptian/kit.sha256",
+   "frozen_sha256": "9491c22798319710239d8c511300b310940dd75acf41e756982ac51ba451e917",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "9491c22798319710239d8c511300b310940dd75acf41e756982ac51ba451e917"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/notes.md",
+   "frozen_path": "protocol-c/builds/egyptian/notes.md",
+   "frozen_sha256": "a1cd9c86b3818269394ea3b007de3317f74a494e3348e4f9beb049c6c033071b",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/egyptian/notes\ntitle: \"Inventory notes\"\ndesc: \"The egyptian builder's notes on the units, forms, segmentations and doubts, as written.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Inventory notes\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "f8c14be1ceaad94e3e7cf2bcf3b38830d007d4eb6192a26a8bda73128bac9d5d"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/probe.txt",
+   "frozen_path": "protocol-c/builds/egyptian/probe.txt",
+   "frozen_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/protocol.md",
+   "frozen_path": "protocol-c/builds/egyptian/protocol.md",
+   "frozen_sha256": "de0d9a47cd2018d7b1dda222eed8de611a6a0a86f3998b8b896e38a75fc79d23",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS",
+    "builds/egyptian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/egyptian/protocol\ntitle: \"Protocol C: the rules this inventory is built under (extract)\"\ndesc: \"The protocol extract in the egyptian kit: §5.2–5.3 and amendments A1–A2, cut from the protocol by run_builder.sh.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C: the rules this inventory is built under (extract)\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 1
+    },
+    {
+     "new": "di Mino ",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "f459bcfb3fccd23ac138bf435adaa3ec01ad53f875c91c10159c9f8cb2b31674"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/schema.json",
+   "frozen_path": "protocol-c/builds/egyptian/schema.json",
+   "frozen_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS",
+    "builds/egyptian/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/session_started_utc.txt",
+   "frozen_path": "protocol-c/builds/egyptian/session_started_utc.txt",
+   "frozen_sha256": "0dbfe16f79bbf129232c626c8c6cecad723ca0b37fa2d4bcf80ad857fb2b7e01",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "0dbfe16f79bbf129232c626c8c6cecad723ca0b37fa2d4bcf80ad857fb2b7e01"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/stderr.txt",
+   "frozen_path": "protocol-c/builds/egyptian/stderr.txt",
+   "frozen_sha256": "ab2d95c74e9fdc4aff1a370649b53780de88d93ce1e69404cbe007b6391e959d",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "(root: file://CODEX_HOME/skills)",
+     "count": 1
+    },
+    {
+     "new": "failed to load skill linear-a-decipherment/",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "8a6ab4d61d4bba7c747efdbae7dd9bebf845160de774d1cd1bb5cfc3865b81cd"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/units.md",
+   "frozen_path": "protocol-c/builds/egyptian/units.md",
+   "frozen_sha256": "77e8f0fba4a61ea67956007365d91fb319aedff29523815e8ddb90ea73ede29d",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS",
+    "builds/egyptian/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/egyptian/units\ntitle: \"Protocol C table inventory: Egyptian arm\"\ndesc: \"The egyptian unit list as given to the builder: tables/egyptian.md with its folder prefixes stripped.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C table inventory: Egyptian arm\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "c9d84ecf440b283183efeb77d663d28f164364c8217284c08595aa23768bd25f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/SHA256SUMS",
+   "frozen_path": "protocol-c/builds/egyptian/SHA256SUMS",
+   "frozen_sha256": "cd12affffaaa001f9bb27d00af5f6e0c7da07a3160123e8fe76269660752cc3f",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "cd12affffaaa001f9bb27d00af5f6e0c7da07a3160123e8fe76269660752cc3f",
+   "note": "the runner's sha256 of every file the build left, the full log included"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/tables/egyptian.md",
+   "frozen_path": "protocol-c/inventories/tables/egyptian.md",
+   "frozen_sha256": "747312bd5c97a8db161296fbfecfd16bcd48cabc165ff6dbc8a20ea1c730447e",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "Source: James P. Allen, *Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs*, 3rd ed., Cambridge: Cambridge University Press, 2014. File: `Allen-MiddleEgyptian-3rd-ed-2014.md`.",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/inventories/tables/egyptian\ntitle: \"Protocol C table inventory: Egyptian arm\"\ndesc: \"The units the egyptian builder transcribes (Middle Egyptian), with section and page, as signed at C0.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C table inventory: Egyptian arm\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "88cac26b263d76e7c2239939f776b5d8c6fa7f90f40336863ca62e692f0898b3",
+   "note": "the same text as builds/egyptian/units.md"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/BRIEF.md",
+   "frozen_path": "protocol-c/builds/greek/BRIEF.md",
+   "frozen_sha256": "0f4b1cf535925cae3c17f9786835a25eaa32faee05ea4fe9058bdc2c3a4e150e",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS",
+    "builds/greek/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/greek/BRIEF\ntitle: \"Builder brief\"\ndesc: \"The builder brief in the greek kit, the text of builds/BRIEF.md.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Builder brief\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "63c569bbd990d8906a8f1a6ac6bfb9efe6695350ccd6ec04890b499dbac7b454"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/blindness_audit.txt",
+   "frozen_path": "protocol-c/builds/greek/blindness_audit.txt",
+   "frozen_sha256": "41a7f40b36e1bbbb8cb178a72bb3d4da1142cc52efae9a30cca4b70c28ac9d12",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "41a7f40b36e1bbbb8cb178a72bb3d4da1142cc52efae9a30cca4b70c28ac9d12"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/builder_model.txt",
+   "frozen_path": "protocol-c/builds/greek/builder_model.txt",
+   "frozen_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ebbd236884b1c4c651266c2410c3f3666b74179c0517435c44ef6f9b841b188a"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/correction-stderr.txt",
+   "frozen_path": "protocol-c/builds/greek/correction-stderr.txt",
+   "frozen_sha256": "c00b1d378b06afb476c3e2fd9694653e46389fb0e84c6d39cb6bf8bcadbf424c",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "(root: file://CODEX_HOME/skills)",
+     "count": 1
+    },
+    {
+     "new": "failed to load skill linear-a-decipherment/",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "d3ed56d0c0e4fc24b6f994669898ed5c95c6cf4690feccea8b486f56bad0436b"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/correction_blindness_audit.txt",
+   "frozen_path": "protocol-c/builds/greek/correction_blindness_audit.txt",
+   "frozen_sha256": "9433f76e4d3cd66ec5871213553b972c7593fc0c80d847085fda408c36c070bf",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "9433f76e4d3cd66ec5871213553b972c7593fc0c80d847085fda408c36c070bf"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/grammar_files.txt",
+   "frozen_path": "protocol-c/builds/greek/grammar_files.txt",
+   "frozen_sha256": "8e70e281ea2954a8d6e5d9627272df6351c983c830f9d6c6086675e443ec3ea6",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS",
+    "builds/greek/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "8e70e281ea2954a8d6e5d9627272df6351c983c830f9d6c6086675e443ec3ea6"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/inventory.filled.json",
+   "frozen_path": "protocol-c/builds/greek/inventory.filled.json",
+   "frozen_sha256": "557c3b43cb56ea280b67d7624cee47a15096cd77329469c65fd054161676753b",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS",
+    "C1-MANIFEST.md"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "557c3b43cb56ea280b67d7624cee47a15096cd77329469c65fd054161676753b"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/inventory.json",
+   "frozen_path": "protocol-c/builds/greek/inventory.json",
+   "frozen_sha256": "27954ff499e517896d3615fc17dc7a881e7c0644618b6b4c124f0e0746805115",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "27954ff499e517896d3615fc17dc7a881e7c0644618b6b4c124f0e0746805115"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/inventory.v1.json",
+   "frozen_path": "protocol-c/builds/greek/inventory.v1.json",
+   "frozen_sha256": "8da7ded7015e3b3eb60a1758b58377f5f08d9fb8cad7892389ccae3445b99b11",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "8da7ded7015e3b3eb60a1758b58377f5f08d9fb8cad7892389ccae3445b99b11"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/kit.sha256",
+   "frozen_path": "protocol-c/builds/greek/kit.sha256",
+   "frozen_sha256": "ba113660f2eef284979724623ae61fdef3feb9b9b6156eaae1417534eea17ee3",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "ba113660f2eef284979724623ae61fdef3feb9b9b6156eaae1417534eea17ee3"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/notes.md",
+   "frozen_path": "protocol-c/builds/greek/notes.md",
+   "frozen_sha256": "f685c9b48cab9ffcd3517dfda705f13aeb2899744f521decac73ceae9a62719e",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/greek/notes\ntitle: \"Transkriptionsnotizen\"\ndesc: \"The greek builder's notes on the units, forms, segmentations and doubts, as written.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Transkriptionsnotizen\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "788d87bee6756271f52cd3871f5e357da9b5ec84c64e9ee85ab0238cdf4b3b66"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/probe.txt",
+   "frozen_path": "protocol-c/builds/greek/probe.txt",
+   "frozen_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a36ed14d8f85f082128179915cca0c34136c962d8142323ebc0970d81272f36f"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/protocol.md",
+   "frozen_path": "protocol-c/builds/greek/protocol.md",
+   "frozen_sha256": "de0d9a47cd2018d7b1dda222eed8de611a6a0a86f3998b8b896e38a75fc79d23",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS",
+    "builds/greek/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/greek/protocol\ntitle: \"Protocol C: the rules this inventory is built under (extract)\"\ndesc: \"The protocol extract in the greek kit: §5.2–5.3 and amendments A1–A2, cut from the protocol by run_builder.sh.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C: the rules this inventory is built under (extract)\n",
+     "count": 1
+    },
+    {
+     "new": "di Mino's",
+     "count": 1
+    },
+    {
+     "new": "di Mino ",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "0c1e6ea7e633147b87fede7ca585092da560668ff6a7cdff248f70ca963e10f8"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/schema.json",
+   "frozen_path": "protocol-c/builds/greek/schema.json",
+   "frozen_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS",
+    "builds/greek/kit.sha256"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "f001868138a7dca8757e8984f396de9d205c2d7b253561eef8763a1ea99ab2f4"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/session_started_utc.txt",
+   "frozen_path": "protocol-c/builds/greek/session_started_utc.txt",
+   "frozen_sha256": "846027e1251b39f583227e6888b86eff5f5c6627dc5fb1a8d15fffea70ce1f4c",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "846027e1251b39f583227e6888b86eff5f5c6627dc5fb1a8d15fffea70ce1f4c"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/stderr.txt",
+   "frozen_path": "protocol-c/builds/greek/stderr.txt",
+   "frozen_sha256": "4e3262daca9e44cc0eb02a1ef1f773646eca51369d3e268200c553fb95977d71",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "substitutions": [
+    {
+     "new": "(root: file://CODEX_HOME/skills)",
+     "count": 1
+    },
+    {
+     "new": "failed to load skill linear-a-decipherment/",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "9ecabadcafed44be1f79e70533b8db0be7039a81a935a5953ce1262f80fdafc6"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/units.md",
+   "frozen_path": "protocol-c/builds/greek/units.md",
+   "frozen_sha256": "02ddf22aed8584f107ce62d08606ec9a6aae56c228efec1a0191951adbeb051f",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS",
+    "builds/greek/kit.sha256"
+   ],
+   "substitutions": [
+    {
+     "new": "---\nname: data/linear-a/protocol-c/builds/greek/units\ntitle: \"Protocol C table inventory: Greek arm\"\ndesc: \"The greek unit list as given to the builder: tables/greek.md with its folder prefixes stripped.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C table inventory: Greek arm\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "e4f2746d679c40abb62c199767d944c635184ea5dd9ccb67caa884ec0f4c8711"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/SHA256SUMS",
+   "frozen_path": "protocol-c/builds/greek/SHA256SUMS",
+   "frozen_sha256": "a80c32890ab1e0efd2ac9a0506dd6075f903f06e6c9320346f12ccb680644819",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [],
+   "shipped_sha256": "a80c32890ab1e0efd2ac9a0506dd6075f903f06e6c9320346f12ccb680644819",
+   "note": "the runner's sha256 of every file the build left, the full log included"
+  },
+  {
+   "path": "data/linear-a/protocol-c/inventories/tables/greek.md",
+   "frozen_path": "protocol-c/inventories/tables/greek.md",
+   "frozen_sha256": "3543f1dd1956bd8c6f444bfb6caabc4588de0032aa1321e63826f59107ae6fc0",
+   "pinned_by": [
+    "the port"
+   ],
+   "substitutions": [
+    {
+     "new": "Source: Antonín Bartoněk, *Handbuch des mykenischen Griechisch*, Heidelberg: Universitätsverlag C. Winter, 2003. File: `bartonek-2003-handbuch-mykenisches-griechisch-mistral.md` (Mistral OCR; the single PDF named in the brief, `bartonek-2003-handbuch-mykenisches-griechisch.pdf`, is not present in that folder). Exact file names (all in ``): OCR `bartonek-2003-handbuch-mykenisches-griechisch-mistral.md`; page images: `bartonek-HMG-2003-part1-pp001-250.pdf` and `bartonek-HMG-2003-part2-pp251-489.pdf` in the same folder; both are image-only (no text layer), so every page number below was read from the OCR running heads.",
+     "count": 1
+    },
+    {
+     "new": "---\nname: data/linear-a/protocol-c/inventories/tables/greek\ntitle: \"Protocol C table inventory: Greek arm\"\ndesc: \"The units the greek builder transcribes (Mycenaean Greek), with section and page, as signed at C0.\"\ntags: [data, linear-a, protocol-c]\nlicense: CC BY 4.0\ncreated: 2026-10-29T19:48:19Z\nupdated: 2026-10-29T19:48:19Z\n---\n\n# Protocol C table inventory: Greek arm\n",
+     "count": 1
+    }
+   ],
+   "shipped_sha256": "7f998c87d87c4f8c943ab62752b3cf3528ddb5e2b9e07f3edd88424f2da4ce74",
+   "note": "the same text as builds/greek/units.md"
+  }
+ ],
+ "derived": [
+  {
+   "path": "data/linear-a/protocol-c/builds/cs/transcript.redacted.jsonl",
+   "frozen_path": "protocol-c/builds/cs/transcript.jsonl",
+   "frozen_sha256": "d6cce8a94072926308d78876d949c24556490500ef4e3b8accf4aac14c3f2021",
+   "pinned_by": [
+    "builds/cs/SHA256SUMS"
+   ],
+   "kit": "/private/tmp/pcb/cs",
+   "lines": 81,
+   "derived_by": "tools/linear_a/validation/protocol_c.py redact(line, kit) on every line",
+   "redacted_sha256": "684611326677c5d5f462a9c67602681c651ffe1d5104b278d90efd8f8c3bafc4",
+   "substitutions": [],
+   "shipped_sha256": "684611326677c5d5f462a9c67602681c651ffe1d5104b278d90efd8f8c3bafc4",
+   "withheld": "the full log: its command outputs carry the grammars' text and local paths"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/yd/transcript.redacted.jsonl",
+   "frozen_path": "protocol-c/builds/yd/transcript.jsonl",
+   "frozen_sha256": "8a21c02bc80724c075735696bcaf9fafc75b5ef42d50f17b7196a08d82b2251d",
+   "pinned_by": [
+    "builds/yd/SHA256SUMS"
+   ],
+   "kit": "/private/tmp/pcb/yd",
+   "lines": 55,
+   "derived_by": "tools/linear_a/validation/protocol_c.py redact(line, kit) on every line",
+   "redacted_sha256": "88da6c82b434146411cd6ea13341d82a0ad07bc4252bb3bc95d44c3a8f2c5b1d",
+   "substitutions": [
+    {
+     "new": "\\\": \\\\\\\\\\\\\\\"di Mino",
+     "count": 4
+    }
+   ],
+   "shipped_sha256": "a6d4cdd50bd6fa808f4526c76e681779e5eeb53787f2c0a0b169e2cb15032ea7",
+   "withheld": "the full log: its command outputs carry the grammars' text and local paths"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/luwian/transcript.redacted.jsonl",
+   "frozen_path": "protocol-c/builds/luwian/transcript.jsonl",
+   "frozen_sha256": "b58c1fb1f4178890ef23b32fd099100cc6c2dbc0e33e9e431dfcd42dc565f83b",
+   "pinned_by": [
+    "builds/luwian/SHA256SUMS"
+   ],
+   "kit": "/private/tmp/pcb/luwian",
+   "lines": 34,
+   "derived_by": "tools/linear_a/validation/protocol_c.py redact(line, kit) on every line",
+   "redacted_sha256": "f362d49d4b54c00f64209b0997dd3532e6f30df811cf959c07cefb9ed79129d6",
+   "substitutions": [],
+   "shipped_sha256": "f362d49d4b54c00f64209b0997dd3532e6f30df811cf959c07cefb9ed79129d6",
+   "withheld": "the full log: its command outputs carry the grammars' text and local paths"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/hurrian/transcript.redacted.jsonl",
+   "frozen_path": "protocol-c/builds/hurrian/transcript.jsonl",
+   "frozen_sha256": "d925fd6f999e4764605e76bf33cb9b7b21aca6e6bc0a0c9cb6e74ed3a426f358",
+   "pinned_by": [
+    "builds/hurrian/SHA256SUMS"
+   ],
+   "kit": "/private/tmp/pcb/hurrian",
+   "lines": 59,
+   "derived_by": "tools/linear_a/validation/protocol_c.py redact(line, kit) on every line",
+   "redacted_sha256": "9e1314980c0d2066199e451a1678238ad6a0b75afa5c3bd8b8f799a342914f20",
+   "substitutions": [],
+   "shipped_sha256": "9e1314980c0d2066199e451a1678238ad6a0b75afa5c3bd8b8f799a342914f20",
+   "withheld": "the full log: its command outputs carry the grammars' text and local paths"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/egyptian/transcript.redacted.jsonl",
+   "frozen_path": "protocol-c/builds/egyptian/transcript.jsonl",
+   "frozen_sha256": "ab357eb8f9db21568a48532d3e5ad34d82435b96fe5a38aadaca3949b2264a0f",
+   "pinned_by": [
+    "builds/egyptian/SHA256SUMS"
+   ],
+   "kit": "/private/tmp/pcb/egyptian",
+   "lines": 71,
+   "derived_by": "tools/linear_a/validation/protocol_c.py redact(line, kit) on every line",
+   "redacted_sha256": "7da5a0741f8c5733b1620e44050cdc6b3048869338d8be886128455775d91f00",
+   "substitutions": [],
+   "shipped_sha256": "7da5a0741f8c5733b1620e44050cdc6b3048869338d8be886128455775d91f00",
+   "withheld": "the full log: its command outputs carry the grammars' text and local paths"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/correction-transcript.redacted.jsonl",
+   "frozen_path": "protocol-c/builds/greek/correction-transcript.jsonl",
+   "frozen_sha256": "56c9496f8a47c495408f8837a558f74caebd326df5da713e6310196121581944",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "kit": "/private/tmp/pcb/greek",
+   "lines": 26,
+   "derived_by": "tools/linear_a/validation/protocol_c.py redact(line, kit) on every line",
+   "redacted_sha256": "1c0b0af61b84dcb12ec90b780f2d30244558ca44f2678bb730be51c7dbc67dfc",
+   "substitutions": [],
+   "shipped_sha256": "1c0b0af61b84dcb12ec90b780f2d30244558ca44f2678bb730be51c7dbc67dfc",
+   "withheld": "the full log: its command outputs carry the grammars' text and local paths"
+  },
+  {
+   "path": "data/linear-a/protocol-c/builds/greek/transcript.redacted.jsonl",
+   "frozen_path": "protocol-c/builds/greek/transcript.jsonl",
+   "frozen_sha256": "8c7b8d55b6adb7b0ea92d70b46b0179125bbc47b03a268003f65bdb93da21926",
+   "pinned_by": [
+    "builds/greek/SHA256SUMS"
+   ],
+   "kit": "/private/tmp/pcb/greek",
+   "lines": 94,
+   "derived_by": "tools/linear_a/validation/protocol_c.py redact(line, kit) on every line",
+   "redacted_sha256": "0eeb23d0edf00a7054dd7712d060fe910bfbbaceae55b2fe176e7f91b49ce5bd",
+   "substitutions": [],
+   "shipped_sha256": "0eeb23d0edf00a7054dd7712d060fe910bfbbaceae55b2fe176e7f91b49ce5bd",
+   "withheld": "the full log: its command outputs carry the grammars' text and local paths"
+  }
+ ],
+ "withheld": [
+  {
+   "frozen_path": "protocol-c/builds/cs/huehnergard-2005-features-central-semitic.md",
+   "frozen_sha256": "fa0e8581e0997fb501250befe7fb93e51fbbc745f0dfbcf04e769d3d754d3bcc",
+   "pinned_by": [
+    "builds/cs/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/cs/huehnergard-2005-features-central-semitic.pdf",
+   "frozen_sha256": "03e42f5f065d7687bb113759339d8c0847ca3a698e695a40e0ad412fe1254278",
+   "pinned_by": [
+    "builds/cs/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/cs/huehnergard-2019-proto-semitic-mistral.md",
+   "frozen_sha256": "3c9b0d4b35316c3177841870bb913703ad778b37915d5f661d3965bff977fdbc",
+   "pinned_by": [
+    "builds/cs/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/cs/huehnergard-2019-proto-semitic.pdf",
+   "frozen_sha256": "19183346403c311f50248a631b42e648c56539c9de1e4610226daae3aba24744",
+   "pinned_by": [
+    "builds/cs/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/cs/huehnergard-rubin-2011-phyla-and-waves.pdf",
+   "frozen_sha256": "d74e6d3e0bd82423bd35be3fd54f9a55da25f0c0f5607e3ba12c99361745a1b7",
+   "pinned_by": [
+    "builds/cs/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/cs/huehnergard-rubin-2011-phyla-and-waves.txt",
+   "frozen_sha256": "fe577459c3611fc61c0da1db0179e92d7adfb57bd5e6f5bc25976a79d8711a49",
+   "pinned_by": [
+    "builds/cs/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/yd/ya-diktu-grammar-tom-di-mino.pdf",
+   "frozen_sha256": "d111b8dbb196b2aaf4b8d50412a1106b7ca29cb531200f6a42a8b64c4c24be9d",
+   "pinned_by": [
+    "builds/yd/kit.sha256"
+   ],
+   "reason": "the Ya Diktu PDF (linked, not shipped; amendment A3 pins its sha256) or its pdftotext layer"
+  },
+  {
+   "frozen_path": "protocol-c/builds/yd/ya-diktu-grammar-tom-di-mino.txt",
+   "frozen_sha256": "dfc1f7c74c96f39e1f54a04d3bf9d78de3fd3fca604d280caf0698cc004c3331",
+   "pinned_by": [
+    "builds/yd/kit.sha256"
+   ],
+   "reason": "the Ya Diktu PDF (linked, not shipped; amendment A3 pins its sha256) or its pdftotext layer"
+  },
+  {
+   "frozen_path": "protocol-c/builds/luwian/Yakubovich-2015-The-Luwian-Language.pdf",
+   "frozen_sha256": "b3446d596b16e088872767554a5bcae4fad3f8ef4aacaf1866b4151674c6daf5",
+   "pinned_by": [
+    "builds/luwian/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/luwian/Yakubovich-2015-The-Luwian-Language.txt",
+   "frozen_sha256": "f4facf48c9584863e9feb87c6b400b094a8333c189be03da56a25207f00c1f93",
+   "pinned_by": [
+    "builds/luwian/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/hurrian/Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.md",
+   "frozen_sha256": "5e0184d9cd4d4eb4e91dd9044488c29bc90079f5934117a6e2cd986c7eebbe36",
+   "pinned_by": [
+    "builds/hurrian/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/hurrian/Wegner-2000-Einfuehrung-in-die-hurritische-Sprache.pdf",
+   "frozen_sha256": "eb2062cafc3671c42040716e299673f596db3217b4cdf4e4e53cf8d468c3cd6f",
+   "pinned_by": [
+    "builds/hurrian/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/egyptian/Allen-MiddleEgyptian-3rd-ed-2014.md",
+   "frozen_sha256": "182ffd1a834aa7219260c011beae057534569b5eb8db625a4d43b02ea8f269d7",
+   "pinned_by": [
+    "builds/egyptian/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/greek/bartonek-2003-handbuch-mykenisches-griechisch-mistral.md",
+   "frozen_sha256": "d00e365d9fd5785089d38b8d51ebc32a8cefb9c99c74dccbbf3d45b583895a05",
+   "pinned_by": [
+    "builds/greek/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/greek/bartonek-HMG-2003-part1-pp001-250.pdf",
+   "frozen_sha256": "bf496bcc29386c7c7544b6edc3b381586f1eee15f84ef508f35021bd8e965891",
+   "pinned_by": [
+    "builds/greek/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  },
+  {
+   "frozen_path": "protocol-c/builds/greek/bartonek-HMG-2003-part2-pp251-489.pdf",
+   "frozen_sha256": "f0e04ff7f4c86e8d9c23009fe99876de7b0ea7aec20cbf165026e84011608de8",
+   "pinned_by": [
+    "builds/greek/kit.sha256"
+   ],
+   "reason": "a copy of the arm's grammar, or its text layer (copyrighted)"
+  }
+ ],
+ "port_files": [
+  "data/linear-a/protocol-c/_index.md",
+  "data/linear-a/protocol-c/PORT-LEDGER.json",
+  "data/linear-a/protocol-c/inventories/_index.md",
+  "data/linear-a/protocol-c/inventories/tables/_index.md",
+  "data/linear-a/protocol-c/render/_index.md",
+  "data/linear-a/protocol-c/builds/_index.md",
+  "data/linear-a/protocol-c/builds/cs/_index.md",
+  "data/linear-a/protocol-c/builds/yd/_index.md",
+  "data/linear-a/protocol-c/builds/luwian/_index.md",
+  "data/linear-a/protocol-c/builds/hurrian/_index.md",
+  "data/linear-a/protocol-c/builds/egyptian/_index.md",
+  "data/linear-a/protocol-c/builds/greek/_index.md",
+  "data/linear-a/protocol-c/builds/hurrian/work/_index.md",
+  "tools/core/frozen/protocol_c/README.md",
+  "tools/core/frozen/protocol_c/scripts/README.md"
+ ]
+}

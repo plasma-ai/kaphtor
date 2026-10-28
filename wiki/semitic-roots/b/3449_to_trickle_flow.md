@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*bṣ̂ṣ̂ |
 | Meaning | 'to trickle, flow' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1834 |
 
 ## Reflexes
 
@@ -36,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*bṣ̂ṣ̂ 'to trickle, to flow' (EDA I 420 apud SEDonline 1834). Akk. derived biṣṣu 'trickle' (CAD B 268 apud SEDonline 1834). Akk. baṣāṣu is probably related to either Arb. bḍḍ or Arb. baṣṣa l-māˀu = rašaḥa 'to leak, to ooze (of water)' (TA 17 491 apud SEDonline 1834). Cf. 776 \*baṣ̂- 'sand' 1, 'silt' 2, 'waterlogged ground' 3.
+PS \*bṣ̂ṣ̂ 'to trickle, to flow' (SEDonline 1834). Akk. derived biṣṣu 'trickle' (EDA I 399, ◊P0723). Akk. baṣāṣu is probably related to either Arb. bḍḍ or Arb. baṣṣa l-māˀu = rašaḥa 'to leak, to ooze (of water)' (TA 17 491 apud EDA I 399, ◊P0723). Cf. 776 \*baṣ̂- 'sand' 1, 'silt' 2, 'waterlogged ground' 3.
 
 <!-- END kaphtor:record -->

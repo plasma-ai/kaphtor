@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Ug. rpum KTU 1.20–22 (Rephaim as ancestral healers/shades); alt. Ug. ʿrpt 'clouds' from rkb ʿrpt 'Rider of Clouds' (Baal epithet, = Ps 68:5). PE2 Petras. Guttural ʿ drops transparently.
+Ug. rpum KTU 1.20–22 (Rephaim as ancestral healers/shades), Amorite Rapiʾum (Gelb AS 21 no. 5238), r-p-ʾ names at Mari and Alalakh (GlOS 2, 168); alt. Ug. ʿrpt 'clouds' from rkb ʿrpt 'Rider of Clouds' (Baal epithet, = Ps 68:5). PE2 Petras. Guttural ʿ drops transparently.
 
 ### Cognates
 

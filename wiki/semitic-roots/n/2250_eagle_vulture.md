@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2250_eagle_vulture
 title: "*nVšr- {} *nVsr-: 'eagle, vulture'"
-desc: "Proto-Semitic *nVšr- {} *nVsr-, 'eagle, vulture': reflexes in 17 language(s)."
+desc: "Proto-Semitic *nVšr- {} *nVsr-, 'eagle, vulture': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2250"
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | nešrā 'eagle' \[Brock 451\], \[PS 2479\]. | Brock 451; PS 2479 |  |
 | Aramaic | D.-Alla nšr(t) \[HJ 765-6\] | HJ 765-6; HJ 765 | gloss withheld |
 | Tigrinya | nǝsri 'eagle' \[Bass. 441\]. | Bass. 441 |  |
+| Eblaitic | /naSr/: cf. name na-sa-ra-ì (Sanmartín GlOS 2, 105) | Sanmartín GlOS 2, 105 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

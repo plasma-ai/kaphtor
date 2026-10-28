@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2514_mountain
 title: "*šad(d)-: 'mountain'"
-desc: "Proto-Semitic *šad(d)-, 'mountain': reflexes in 4 language(s)."
+desc: "Proto-Semitic *šad(d)-, 'mountain': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2514"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | šadû |  | gloss withheld |
 | Ugaritic | šd |  | gloss withheld |
 | Phoenician | šdʾ (B 414) | B 414 | gloss withheld |
+| Amorite | šadūm, also deified (Gelb AS 21, 33); šad- (Huffmon APNM 267) | Gelb AS 21 33; Huffmon APNM 267 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

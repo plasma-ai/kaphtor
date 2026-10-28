@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3191_autumn_1_year_2
 title: "*ḫVrp-: 'autumn' 1, 'year' 2"
-desc: "Proto-Semitic *ḫVrp-, 'autumn' 1, 'year' 2: reflexes in 9 language(s)."
+desc: "Proto-Semitic *ḫVrp-, 'autumn' 1, 'year' 2: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3191"
@@ -38,6 +38,8 @@ updated: 2026-10-24T15:25:56Z
 | Jibbali | ḫɔrf (Kogan 2011, 197) | Kogan 2011 197 |  |
 | Soqotri | ḥorf (Kogan 2011, 197) | Kogan 2011 197 |  |
 | Pre-Islamic North Arabian | Safaitic ḫrf; ḫrf (D-stem) (Al-Jallad–Jaworska 81) | Al-Jallad–Jaworska 81 | gloss withheld |
+| Amorite | ḫarp 1 (Sanmartín GlOS 1, 279) | Sanmartín GlOS 1, 279 | gloss withheld |
+| Eblaitic | /ḫarp/ 1: names ḫal/ḫar-bí-a, ḫar-ba-an (Sanmartín GlOS 1, 279) | Sanmartín GlOS 1, 279 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

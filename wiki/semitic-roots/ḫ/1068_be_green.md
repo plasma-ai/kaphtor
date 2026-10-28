@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫḍr \[-a-\] |  |  |
+| Arabic | ḫḍr \[-a-\]; ḫaḍira, iḫḍarra 'it was, or became, of the colour termed ḫuḍra \[i. e. green\]'; ḫaḍir 'what is green; seed-produce; goodly green herbage' (Lane 755) | Lane 755 |  |
 | Hebrew | \*ḥṣr (HALOT 344) | HALOT 344 |  |
 | Tigre | ḫadra (HALOT 344) | HALOT 344 |  |
 | Punic | Neo-Punic mḥṣrt (T 172); pi. pt. (HALOT 344) | T 172; HALOT 344 | gloss withheld |

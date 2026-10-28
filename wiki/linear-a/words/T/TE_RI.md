@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-TE-RI introduces a secondary allocation on HT91, stands before one ram on PH(?)31b, and occurs in the short ARKH6 sequence. These contexts support a recipient, category, or section heading, but not one fixed gloss. The former derivation from Akkadian tārum 'return' and unattested \*tēri is rejected. √w-t-r/y-t-r supplies genuine 'excess/surplus' vocabulary, but its attested forms do not yield bare TE-RI cleanly; 'surplus' remains secondary.
+TE-RI introduces a secondary allocation on HT91, stands before one ram on PH(?)31b, and occurs in the short ARKH6 sequence. These contexts support a recipient, category, or section heading, but not one fixed gloss. A derivation from Akkadian tārum 'return' would need an unattested \*tēri. √w-t-r/y-t-r supplies genuine 'excess/surplus' vocabulary, but its attested forms do not yield bare TE-RI cleanly; 'surplus' remains secondary.
 
 ### Cognates
 
@@ -61,6 +61,6 @@ TE-RI introduces a secondary allocation on HT91, stands before one ram on PH(?)3
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | tēri? | second recipient or section heading; perhaps an excess or surplus entry | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT91\|HT91]] | tēri | second recipient or section heading; perhaps an excess or surplus entry | CANDIDATE |
 
 <!-- END kaphtor:record -->

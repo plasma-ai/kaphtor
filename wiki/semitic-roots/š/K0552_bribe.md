@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šāḥad 'give a present, bribe' (BDB 1005) | BDB 1005 |  |
 | Judaic Aramaic | šəḥad (HALOT 1456; DJPA 543b apud CAL); šəḥādā (HALOT 1457) | HALOT 1456; DJPA 543b; CAL; HALOT 1457 | gloss withheld |
 | Syrian Aramaic | šəḥad (HALOT 1456; Payne Smith 570); šuḥdā (HALOT 1457) | HALOT 1456; Payne Smith 570; HALOT 1457 | gloss withheld |
-| Amorite | šaḫādu (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
+| Amorite | šaḫādu (Streck 2000, 117; Streck 2011, 367) | Streck 2000 117; Streck 2011, 367 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

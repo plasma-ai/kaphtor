@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/454_pasture_guard_livestock_herd_graze_trans_v_1_her
 title: "*rVʕVy- 1, *rāʕ- 2: 'pasture, guard livestock, herd, graze (trans.)' (v.) 1, 'herdsman' 2"
-desc: "Proto-Semitic *rVʕVy- 1, *rāʕ- 2, 'pasture, guard livestock, herd, graze (trans.)' (v.) 1, 'herdsman' 2: reflexes in 18 language(s)."
+desc: "Proto-Semitic *rVʕVy- 1, *rāʕ- 2, 'pasture, guard livestock, herd, graze (trans.)' (v.) 1, 'herdsman' 2: reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "454"
@@ -46,8 +46,9 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | RʿY (Aramaic Root Atlas; Qumran 224 apud CAL) | Aramaic Root Atlas; CAL; Anderson–Moser 2024 root rʿy | gloss withheld |
 | Punic | rʿ 'shepherd' | Anderson–Moser 2024 root rʿy |  |
 | Judaic Aramaic | rəʿā, rāʿăyā, rāʿītā (HALOT 1258) | HALOT 1258 |  |
-| Amorite | rʿj: jarʿī (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
+| Amorite | rʿj: jarʿī (Gelb AS 21, 29); r-ʿ-y: cf. ya-ri-a-du, ia-ar-ḫi-DINGIR (Sanmartín GlOS 2, 150) | Gelb AS 21 29; Sanmartín GlOS 2, 150 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic rʿy (Al-Jallad–Jaworska 114) | Al-Jallad–Jaworska 114 | gloss withheld |
+| Eblaitic | u₉-šarₓ(NE)-ì /r-ʿ-y/ 1 (Sanmartín GlOS 2, 150) | Sanmartín GlOS 2, 150 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

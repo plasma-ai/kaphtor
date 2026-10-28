@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T21:51:03Z
+updated: 2026-10-29T17:28:27Z
 ---
 
 # wiki/linear-a/words/D
@@ -33,7 +33,7 @@ updated: 2026-10-27T21:51:03Z
 
 [[wiki/linear-a/words/D/DA_KU_SE_NE|DA_KU_SE_NE]]: Takušenni: probable Hurrian-style personal name; compare Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/D/DA_KU_SE_NE_TI|DA_KU_SE_NE_TI]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/D/DA_KU_SE_NE_TI|DA_KU_SE_NE_TI]]: Takušenni-ti: probable Hurrian-style name or entity with final TI; exact function unresolved. Onomasticon personal name; lexicon entry DA-KU-SE-NE.
 
 [[wiki/linear-a/words/D/DA_MA_TE|DA_MA_TE]]: damat: tower; the unprefixed base of I-DA-MA-TE. Lexicon, SPECULATIVE (tier 1).
 
@@ -61,7 +61,7 @@ updated: 2026-10-27T21:51:03Z
 
 [[wiki/linear-a/words/D/DA_RO_PA|DA_RO_PA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_RU_NE_TE|DA_RU_NE_TE]]: Dāru-ʿAnēt: Dwelling/endurance of Anat (theophoric compound PN: √DWR + goddess ʿAnatu); rivals Egyptian Neith (Nt) as the second element, a simplex feminine name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_RU_NE_TE|DA_RU_NE_TE]]: Dāru-ʿAnēt: Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_RU_star329|DA_RU_star329]]: Dārum: personal name, 'Eternal'; rival Arabic Dārim. Lexicon, SPECULATIVE (tier 1).
 
@@ -71,19 +71,19 @@ updated: 2026-10-27T21:51:03Z
 
 [[wiki/linear-a/words/D/DA_TA_RA|DA_TA_RA]]: Daṯar: Old (man's name); rival 'He of the gate'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_TA_RE|DA_TA_RE]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/D/DA_TA_RE|DA_TA_RE]]: Daṯar: Old (man's name); rival 'He of the gate'. Onomasticon personal name; lexicon entry DA-TA-RA.
 
 [[wiki/linear-a/words/D/DA_TU|DA_TU]]: Unread (role only): recipient or allocation heading; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DA_U_MI|DA_U_MI]]: dawmi: the enduring one (personal name). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DA_U_star49|DA_U_star49]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/D/DA_U_star49|DA_U_star49]]: dawmi: the enduring one (personal name). Onomasticon personal name; lexicon entry DA-U-MI.
 
 [[wiki/linear-a/words/D/DA_WA_q_DU_WA_TO|DA_WA_q_DU_WA_TO]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DA_star118|DA_star118]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DE_DI|DE_DI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DE_DI|DE_DI]]: Dedī: 'my beloved'. Onomasticon personal name; lexicon entry TA-DI.
 
 [[wiki/linear-a/words/D/DE_JU_KU|DE_JU_KU]]: Dalqu: personal name, 'burning, kindled'. Lexicon, SPECULATIVE (tier 1).
 
@@ -122,6 +122,8 @@ updated: 2026-10-27T21:51:03Z
 [[wiki/linear-a/words/D/DI_NA_broken_both|DI_NA_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/D/DI_NA_broken_start|DI_NA_broken_start]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/D/DI_NE|DI_NE]]: dīn: judgment (name element). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DI_NI|DI_NI]]: Dīnī: personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wdny. Lexicon, SPECULATIVE (tier 1).
 

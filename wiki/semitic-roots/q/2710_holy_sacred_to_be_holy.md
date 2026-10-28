@@ -46,8 +46,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | qäddäsä (LGz. 423) | LGz. 423 | gloss withheld |
 | Amharic | qäddäsä (LGz. 423) | LGz. 423 | gloss withheld |
 | Gurage | qiddäsä (LGz. 423) | LGz. 423 | gloss withheld |
-| Amorite | qdś: qadiśum, qudāśum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
-| Eblaitic | ga-ti-šum /ḳadišum/ (VE 100, Kogan–Krebernik 2021b: 684 apud SEDonline 1864; Krebernik 1983, 4) | VE 100, Kogan–Krebernik 2021b: 684; SEDonline 1864; Krebernik 1983, 4 | gloss withheld |
+| Amorite | qdś: qadiśum, qudāśum (Gelb AS 21, 29); qadiS, qadis₁: ka-di-šum; qidiS: ᵈi-šar-qí-di-su; qudāS: gu-da-su-um (Sanmartín GlOS 1, 342) | Gelb AS 21 29; Sanmartín GlOS 1, 342 | gloss withheld |
+| Eblaitic | ga-ti-šum /ḳadišum/ (VE 100, Kogan–Krebernik 2021b: 684 apud SEDonline 1864; Krebernik 1983, 4); /qadas₁/: name mu-lu-ga-da-šum; ga-ti-šum /qadiS, qadis₁/ (Sanmartín GlOS 1, 342) | VE 100, Kogan–Krebernik 2021b: 684; SEDonline 1864; Krebernik 1983, 4; Sanmartín GlOS 1, 342 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

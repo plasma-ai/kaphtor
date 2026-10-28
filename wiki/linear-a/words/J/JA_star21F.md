@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/J/JA_star21F
 title: "JA-*21F"
-desc: "Onomasticon theonym, no reading."
+desc: "Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Onomasticon theonym; lexicon entry JA-HA."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "JA-*21F"
 datasets: ["onomasticon"]
 attestations: ["HT28a", "HT28b"]
+reading: "Yāh(a)"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -32,6 +33,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | Yāh(a) |
+| Meaning | Yāh, divine name; deity receiving offerings alongside Baal on HT28b |
 | Type | theonym (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
@@ -39,6 +42,7 @@ updated: 2026-10-24T16:17:50Z
 | Occurrences | 2 in 2 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 2 |
+| Lexicon entry | [[wiki/linear-a/words/J/JA_HA\|JA-HA]] |
 
 ### Note
 

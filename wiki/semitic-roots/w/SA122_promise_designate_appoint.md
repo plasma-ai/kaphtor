@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/SA122_promise_designate_appoint
 title: "*wʕd: 'promise; designate, appoint'"
-desc: "Epigraphic South Arabian headword *wʕd, 'promise; designate, appoint': reflexes in 5 language(s)."
+desc: "Epigraphic South Arabian headword *wʕd, 'promise; designate, appoint': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA122"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | yʿd (HALOT 419) | HALOT 419 | gloss withheld |
 | Phoenician | yʿd (B 324) | B 324 | gloss withheld |
 | Syrian Aramaic | waʿdā, waʿʿed (HALOT 419) | HALOT 419 | gloss withheld |
+| Eblaitic | ù-wa-ì-da-am₆, ù-wa-ì-da-ga /w-ʿ-d/ (Sanmartín GlOS 2, 338) | Sanmartín GlOS 2, 338 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

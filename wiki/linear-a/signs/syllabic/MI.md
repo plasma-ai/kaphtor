@@ -68,6 +68,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_JA\|MI-JA]] | mayya | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_KI_SE_NA\|MI-KI-SE-NA]] | miksēna | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | PROBABLE |
+| [[wiki/linear-a/words/M/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_TA\|MI-TA]] | mitta | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_TU\|MI-TU]] | mītu | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_ZA_SE\|MI-ZA-SE]] | mizza-se | SPECULATIVE |

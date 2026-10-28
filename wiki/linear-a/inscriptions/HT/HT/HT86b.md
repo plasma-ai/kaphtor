@@ -58,12 +58,12 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> \[Erased draft of HT86a lines 1–3:\] Agaru: emmer wheat, GRA+K+L: 20; king/royal establishment: 20; DI-DE\[…\].
+> \[Erased draft of HT86a lines 1–3:\] Agaru: the assembly, GRA+K+L: 20; king/royal establishment: 20; DI-DE\[…\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | field or estate heading; possibly the deified Ugaritic 'Field' | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunāšu | emmer wheat | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | assembly; rival 'emmer' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king, prince; rival 'barley' | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
@@ -72,8 +72,8 @@ Side b is an erased first text: GORILA I 135 sets every line in erasure brackets
 
 ### Source
 
-- Gordon 1966: A-KA-RU, KU-NI-SU
-- di Mino: SA-RU
+- Gordon 1966: A-KA-RU
+- di Mino: KU-NI-SU, SA-RU
 
 ## Lexicon words citing this document
 

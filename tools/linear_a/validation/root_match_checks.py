@@ -235,8 +235,10 @@ def run_a12(args: argparse.Namespace) -> None:
 # A9
 # ---------------------------------------------------------------------------
 
-def lb_series() -> dict[str, dict[str, str]]:
-    """consonant → vowel → sign, for the CV grid signs whose engine value is their Linear B value."""
+def lb_series(conventional: bool = False) -> dict[str, dict[str, str]]:
+    """consonant → vowel → sign, for the CV grid signs whose engine value is their Linear B value, and a sign that
+    writes its consonants before every vowel (A21, rm.FULL_SERIES): ZU for ṯ, ḏ and ẓ, and zu in the Z-row. With
+    conventional, ZU is zu alone."""
     out: dict[str, dict[str, str]] = {}
     for letter, c in LB_CONSONANTS.items():
         for v in "aeiou":
@@ -246,7 +248,22 @@ def lb_series() -> dict[str, dict[str, str]]:
                     out.setdefault(c, {})[v] = sign
             except rm.UnmappedSign:
                 continue
+    grid = set(LB_CONSONANTS.values())
+    for sign in rm.FULL_SERIES:
+        for c, v in rm.sign_options(sign, conventional=conventional):
+            row = out.setdefault(c, {})
+            for w in (v if c in grid else "aeiou"):
+                row.setdefault(w, sign)
     return out
+
+
+def competitor_series(series: dict[str, dict[str, str]]) -> dict[str, dict[str, str]]:
+    """The series a competitor's plants are spelled with: A21's interdental rows out, since ṯ, ḏ and ṯ̣ are Semitic
+    phonemes ZU writes, and a competitor letter spelled alike (Egyptological ṯ and ḏ are palatals) takes its own
+    table's cheapest series. ZU keeps zu, its Linear B value."""
+    kept = {(c, v) for s in rm.FULL_SERIES for c, v in rm.sign_options(s, conventional=True)}
+    out = {c: {v: s for v, s in row.items() if s not in rm.FULL_SERIES or (c, v) in kept} for c, row in series.items()}
+    return {c: row for c, row in out.items() if row}
 
 
 def series_consonant(c: str, series: dict[str, dict[str, str]], sub=rm._sub) -> str:
@@ -391,18 +408,21 @@ def plant_all(eligible: list[Any], k: int, seed: int, series: dict[str, dict[str
 
 
 def writable(key: tuple[str, ...], series: dict[str, dict[str, str]], sub) -> bool:
-    """Every token is a guttural (the script's rule decides it) or has a series at a substitution cost under 1.0."""
+    """Every token of a competitor key is a guttural (the script's rule decides it) or has a series at a substitution
+    cost under 1.0, on the competitor's series."""
+    series = competitor_series(series)
     return all(t in rm.GUTTURAL_PHONEMES or sub(t, series_consonant(t, series, sub)) < 1.0 for t in key)
 
 
 def plant_competitor(space: Any, key: tuple[str, ...], numbers: list[str], seed: int,
                      series: dict[str, dict[str, str]]) -> dict[str, Any]:
-    """A competitor key spelled the A9 way (A15): open pattern, series chosen on the competitor's own table."""
+    """A competitor key spelled the A9 way (A15): open pattern, series chosen on the competitor's own table, from
+    competitor_series."""
     rng = rm._rng(seed, f"{space.name}:{''.join(key)}", "plant")
     pattern, trailing = open_pattern(key)
     return {"competitor": space.name, "number": numbers[0], "numbers": numbers, "key": "".join(key),
             "radicals": " ".join(key), "spelled_from": "open",
-            "word": spell(pattern, trailing, rng, series, space.sub)}
+            "word": spell(pattern, trailing, rng, competitor_series(series), space.sub)}
 
 
 def a9_one(job: tuple[dict[str, Any], int, int]) -> dict[str, Any]:

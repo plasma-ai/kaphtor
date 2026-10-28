@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Akkadian darāru means 'become free, move about freely, run off,' while (an)durāru denotes remission, manumission, or release from imposed service (CAD D, 109, s.v. darāru A; CAD A/2, 115–17, s.v. andurāru). Hebrew dĕrōr denotes liberty or release (HALOT, 230, s.v. III דְּרוֹר). These sources support 'freedom/release,' not the former contextual glosses 'deliverance' or 'purity.' DU-RA on MA2a and the -RA-RE sequence in QA-\*118-RA-RE (HT96b) are formal comparanda only; neither independently establishes the meaning. On KN Zc 7 its exact syntactic relation to A-KA-NU ZA-TI remains uncertain.
+Akkadian darāru means 'become free, move about freely, run off,' while (an)durāru denotes remission, manumission, or release from imposed service (CAD D, 109, s.v. darāru A; CAD A/2, 115–17, s.v. andurāru). Hebrew dĕrōr denotes liberty or release (HALOT, 230, s.v. III דְּרוֹר). These sources support 'freedom/release,' not 'deliverance' or 'purity.' DU-RA on MA2a and the -RA-RE sequence in QA-\*118-RA-RE (HT96b) are formal comparanda only; neither independently establishes the meaning. On KN Zc 7 its exact syntactic relation to A-KA-NU ZA-TI remains uncertain.
 
 ### Cognates
 

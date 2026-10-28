@@ -1,0 +1,56 @@
+{
+  "_meta": {
+    "protocol": "PROTOCOL-C-DRAFT.md §5.5 item 1",
+    "status": "adopted 2026-10-29 under di Mino's delegation (\"use your judgement here\"), with the three rules added after the Luwian pilot; binds from C1",
+    "rule": "One articulatory table for every arm, the controls and the nulls. A phoneme maps by place and manner, never by fit to any Linear A form. ZERO = written with the bare vowel sign (no consonant series).",
+    "stated_in_protocol": {
+      "labial stops": "P",
+      "dental and alveolar stops, emphatics and interdentals included": "T",
+      "voiced d": "D",
+      "velar and uvular stops": "K",
+      "labiovelars": "Q",
+      "sibilants": "S",
+      "z": "Z",
+      "liquids": "R",
+      "nasals": "M or N",
+      "glides": "J or W",
+      "laryngeals and pharyngeals": "ZERO"
+    },
+    "decided_here_where_the_protocol_is_silent": [
+      "Labial fricative f (Egyptian, Hurrian) → P: the nearest series by place; Linear B writes Greek ph with P.",
+      "Aspirates ph, th, kh, kʷh → the series of their plain stop (P, T, K, Q), as Linear B writes them.",
+      "Voiced interdental ḏ (Semitic) → T: the protocol names plain d alone for D, and interdentals for T.",
+      "Egyptological ṯ and ḏ (palatal affricates) → T: nearest stop series by place; no palatal series exists.",
+      "Velar and uvular fricatives ḫ, ġ, Egyptian ẖ → K: same place as the velar and uvular stops; they are neither laryngeal nor pharyngeal.",
+      "Luwian and Hittite cuneiform ḫ / h, ḫḫ (laryngeals) → ZERO.",
+      "Luwian and Hurrian z (affricate /ts/) and Greek z → Z, by the protocol's own z → Z.",
+      "Hurrian ž (voiced sibilant) → S.",
+      "Egyptian ꜣ (aleph) → ZERO; Egyptian j → J everywhere (one mechanical rule, though j is sometimes an aleph).",
+      "Semitic and Egyptian w, y/j → W, J; Greek digamma w → W.",
+      "A doubled consonant (tt, ss, mm, hh, Luwian fortis), whether a builder wrote it as one segment or two, renders as one consonant of its series: Linear B writes no gemination (added after the 2026-10-29 Luwian pilot).",
+      "Yakubovich's capital T, a cover symbol for fortis t(t) or lenis d where the grammar cannot tell them apart (p. 16), → T: the grammar names it by t, and the series must not depend on the renderer's guess (added after the pilot).",
+      "Luwian labiovelar gw → Q.",
+      "Before mapping, adjacent segments that together spell a multi-letter key of this map (g+w, k+w, t+s, p+h, t+h, k+h) are joined, so the series never depends on whether a builder split a digraph (the Codex and Claude Luwian builds differ only in g-w-a vs gw-a)."
+    ],
+    "vowels": "a e i o u map to themselves; long vowels map to their short vowel; ə → e; Egyptian filler vowel per §13 item 7; diphthongs written as two signs (V + J/W) except where the arm's edition writes them as one vowel."
+  },
+  "map": {
+    "p": "P", "b": "P", "f": "P", "ph": "P", "bh": "P",
+    "t": "T", "ṭ": "T", "ṯ": "T", "ḏ": "T", "ẓ": "T", "ṯ̣": "T", "θ": "T", "th": "T",
+    "d": "D",
+    "k": "K", "g": "K", "q": "K", "ḳ": "K", "kh": "K", "ḫ": "K", "ġ": "K", "ẖ": "K", "x": "K",
+    "kʷ": "Q", "gʷ": "Q", "kʷh": "Q", "kw": "Q", "gw": "Q",
+    "T": "T",
+    "s": "S", "š": "S", "ś": "S", "ṣ": "S", "ž": "S",
+    "z": "Z", "ts": "Z",
+    "l": "R", "r": "R",
+    "m": "M", "n": "N",
+    "y": "J", "j": "J", "w": "W",
+    "ʾ": "ZERO", "ʿ": "ZERO", "ꜣ": "ZERO", "ꜥ": "ZERO", "h": "ZERO", "ḥ": "ZERO", "ḫḫ": "ZERO"
+  },
+  "arm_overrides": {
+    "luwian": {"ḫ": "ZERO", "h": "ZERO", "hh": "ZERO", "ḫḫ": "ZERO"},
+    "hurrian": {"ḫ": "K"},
+    "egyptian": {"ḫ": "K", "ẖ": "K", "ṯ": "T", "ḏ": "T", "h": "ZERO", "ḥ": "ZERO"}
+  }
+}

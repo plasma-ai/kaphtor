@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | hamara (DM 122), humar (DM 135), himara (DM 145) | DM 122; DM 135; DM 145 | gloss withheld |
 | Epigraphic South Arabian | Sab. ḥmr (SD 68; Sabaweb lemma 3049); Min. ḥmr (LM 48) | SD 68; Sabaweb lemma 3049; LM 48 | gloss withheld |
 | Gurage | Wol. Zwy. umar, Sel. umār (LGur. 51); Cha. Eža Muh. Msq. Gog. əmar, Gye. əm̱ā̃r, Enn. ə̃m̱ār, Sod. ämar, End. äwãn (LGur. 51) | LGur. 51 |  |
-| Amorite | ḥimārum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
+| Amorite | ḥimārum (Gelb AS 21, 19); ḥimār: ḫi-ma-rum, place name ḫi-ma-ra-an (Sanmartín GlOS 1, 241) | Gelb AS 21 19; Sanmartín GlOS 1, 241 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥmr (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

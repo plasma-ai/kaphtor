@@ -1,0 +1,41 @@
+commands: 35
+paths outside the kit: 0
+$ /bin/zsh -lc "pwd; rg --files -g 'BRIEF.md' -g 'AGENTS.md' -g '"'!node_modules'"' -g '"'!vendor'"'"
+$ /bin/zsh -lc 'cat BRIEF.md'
+$ /bin/zsh -c 'ls -la'
+$ /bin/zsh -c 'cat grammar_files.txt'
+$ /bin/zsh -c 'cat protocol.md'
+$ /bin/zsh -c 'cat schema.json'
+$ /bin/zsh -c 'cat units.md'
+$ /bin/zsh -c "sed -n '3930,4135p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md"
+$ /bin/zsh -c "python3 -c 'import importlib.util; print({m:bool(importlib.util.find_spec(m)) for m in [\"fitz\",\"pypdf\",\"PIL\",\"jsonschema\"]})'"
+$ /bin/zsh -c "sed -n '4135,4260p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '4655,4810p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md"
+$ /bin/zsh -c "python3 -c 'import fitz; from pathlib import Path; p=Path(\".work\"); p.mkdir(exist_ok=True); d=fitz.open(\"bartonek-HMG-2003-part1-pp001-250.pdf\"); print(len(d)); d[118].get_pixmap(matrix=fitz.Matrix(1.5,1.5)).save(str(p/\"p119.png\"))'"
+$ /bin/zsh -c "sed -n '5130,5205p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '5495,5625p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '5748,5795p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md"
+$ /bin/zsh -c "sed -n '6072,6118p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '6292,6343p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '6482,6548p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '6815,6926p' bartonek-2003-handbuch-mykenische
+$ /bin/zsh -c "sed -n '7560,7652p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '8570,8630p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; sed -n '8880,8950p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md"
+$ /bin/zsh -c "python3 -c 'import fitz; from pathlib import Path; p=Path(\".work\"); d=fitz.open(\"bartonek-HMG-2003-part1-pp001-250.pdf\"); pages=[77,78,79,80,114,115,116,117,118,120,121,122,142,153,160,161,168,177,181,187,197,198,210,217,218]; [(d[n-1].get_pixmap(matrix=fitz.Matrix(1.25,1.25)).save(
+$ /bin/zsh -c "sed -n '2400,2705p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md"
+$ /bin/zsh -c "python3 -c 'from pathlib import Path; a=Path(\"bartonek-2003-handbuch-mykenisches-griechisch-mistral.md\").read_text().splitlines(); print(\"\\n\".join(str(i+1)+\": \"+a[i] for i in range(4135,5501) if a[i] and not a[i].startswith(\"|\")))'"
+$ /bin/zsh -c "python3 -c 'from pathlib import Path; a=Path(\"bartonek-2003-handbuch-mykenisches-griechisch-mistral.md\").read_text().splitlines(); print(\"\\n\".join(str(i+1)+\": \"+a[i] for i in range(5500,6823) if a[i] and not a[i].startswith(\"|\")))'"
+$ /bin/zsh -c "python3 -c 'from pathlib import Path; a=Path(\"bartonek-2003-handbuch-mykenisches-griechisch-mistral.md\").read_text().splitlines(); print(\"\\n\".join(str(i+1)+\": \"+a[i] for i in range(6858,7420) if a[i] and not a[i].startswith(\"|\")))'"
+$ /bin/zsh -c "sed -n '7418,7463p' bartonek-2003-handbuch-mykenisches-griechisch-mistral.md; head -90 bartonek-2003-handbuch-mykenisches-griechisch-mistral.md"
+$ /bin/zsh -c "python3 -c 'import re,fitz; from pathlib import Path; a=Path(\"bartonek-2003-handbuch-mykenisches-griechisch-mistral.md\").read_text().splitlines(); start=1; page=1; targets=[4396,4474,4556,5344,5402,5827,5921,6000,6767,7428]; out={};
+for i,l in enumerate(a,1):
+ m=re.match(r\"<"'!-- Pag
+$ /bin/zsh -c 'python3 .work/build_inventory.py'
+$ /bin/zsh -c 'python3 .work/build_inventory.py'
+$ /bin/zsh -c "python3 -c 'import json,collections; import jsonschema; from pathlib import Path; d=json.loads(Path(\"inventory.json\").read_text()); jsonschema.Draft202012Validator(json.loads(Path(\"schema.json\").read_text()),format_checker=jsonschema.FormatChecker()).validate(d); print(\"Schema vali
+$ /bin/zsh -c "python3 -c 'import fitz; d=fitz.open(\"bartonek-HMG-2003-part1-pp001-250.pdf\"); p=d[196]; p.get_pixmap(matrix=fitz.Matrix(2.5,2.5),clip=fitz.Rect(p.rect.width*.51,p.rect.height*.12,p.rect.width,p.rect.height*.95)).save(\".work/s_table.png\"); p=d[160]; p.get_pixmap(matrix=fitz.Matrix(2
+$ /bin/zsh -c 'python3 .work/build_inventory.py'
+$ /bin/zsh -c "python3 -c 'from pathlib import Path; import json,re,collections; d=json.loads(Path(\"inventory.json\").read_text()); t=Path(\"bartonek-2003-handbuch-mykenisches-griechisch-mistral.md\").read_text(); f=collections.defaultdict(set);
+for e in d[\"entries\"]:
+ if e[\"form\"] not in t: f[e[
+$ /bin/zsh -c "python3 -c 'import fitz; d=fitz.open(\"bartonek-HMG-2003-part1-pp001-250.pdf\"); d[199].get_pixmap(matrix=fitz.Matrix(1.5,1.5)).save(\".work/p200.png\"); d[141].get_pixmap(matrix=fitz.Matrix(2.5,2.5),clip=fitz.Rect(0,150,370,450)).save(\".work/d2_table.png\"); d[0].get_pixmap(matrix=fit
+$ /bin/zsh -c "python3 -c 'import fitz; d=fitz.open(\"bartonek-HMG-2003-part1-pp001-250.pdf\"); p=d[136]; p.get_pixmap(matrix=fitz.Matrix(3,3),clip=fitz.Rect(0,0,p.rect.width,p.rect.height*.22)).save(\".work/part_f.png\"); p=d[119]; p.get_pixmap(matrix=fitz.Matrix(2.5,2.5),clip=fitz.Rect(0,p.rect.heig
+$ /bin/zsh -c "python3 -c 'import fitz; d=fitz.open(\"bartonek-HMG-2003-part1-pp001-250.pdf\"); p=d[141]; p.get_pixmap(matrix=fitz.Matrix(5,5),clip=fitz.Rect(150,210,260,260)).save(\".work/length_mark.png\")'"
+$ /bin/zsh -c 'python3 .work/build_inventory.py'
+$ /bin/zsh -c "python3 -c 'import json,re,collections; from pathlib import Path; import jsonschema; d=json.loads(Path(\"inventory.json\").read_text()); s=json.loads(Path(\"schema.json\").read_text()); jsonschema.Draft202012Validator(s,format_checker=jsonschema.FormatChecker()).validate(d); es=d[\"entr
+$ /bin/zsh -c 'shasum -a 256 -c kit.sha256'
+$ /bin/zsh -c 'python3 .work/build_inventory.py'
+$ /bin/zsh -c "python3 -c 'import json,collections,shutil; from pathlib import Path; import jsonschema; root=Path.cwd(); d=json.loads((root/\"inventory.json\").read_text()); jsonschema.Draft202012Validator(json.loads((root/\"schema.json\").read_text()), format_checker=jsonschema.FormatChecker()).valid

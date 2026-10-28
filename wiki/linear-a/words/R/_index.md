@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-28T12:49:18Z
+updated: 2026-10-29T21:45:52Z
 ---
 
 # wiki/linear-a/words/R
@@ -95,9 +95,9 @@ updated: 2026-10-28T12:49:18Z
 
 [[wiki/linear-a/words/R/RU_DI|RU_DI]]: rūdī: Rule! / may you rule (jussive/imperative). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RU_JA|RU_JA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RU_JA|RU_JA]]: Ruya: personal name; Ugaritic rwy. Onomasticon personal name; lexicon entry RU-JA-TA-DI.
 
-[[wiki/linear-a/words/R/RU_JA_TA_DI|RU_JA_TA_DI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RU_JA_TA_DI|RU_JA_TA_DI]]: Ruya-dādī: personal name, Ruya + dādī 'my beloved'; Ruya alone on KN Wc 26. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_KA|RU_KA]]: ruqāq: thin bread, wafers (qualifier of *309C KIKKARU). Lexicon, SPECULATIVE (tier 1).
 
@@ -105,7 +105,7 @@ updated: 2026-10-28T12:49:18Z
 
 [[wiki/linear-a/words/R/RU_MA_TA|RU_MA_TA]]: rūmatā: the Height (toponym of the Ramah/Ramoth type). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/R/RU_MA_TA_SE|RU_MA_TA_SE]]: Onomasticon gentilic, no reading.
+[[wiki/linear-a/words/R/RU_MA_TA_SE|RU_MA_TA_SE]]: rūmatā-se: of / from Rūmatā (-SE derivative). Onomasticon gentilic; lexicon entry RU-MA-TA.
 
 [[wiki/linear-a/words/R/RU_MI|RU_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -117,7 +117,7 @@ updated: 2026-10-28T12:49:18Z
 
 [[wiki/linear-a/words/R/RU_RA2|RU_RA2]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RU_SA|RU_SA]]: Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_SA|RU_SA]]: Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_ZU_NA|RU_ZU_NA]]: rāzin(a): dignitary, prince (title of a recipient); rival a personal name. Lexicon, SPECULATIVE (tier 1).
 

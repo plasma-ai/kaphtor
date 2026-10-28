@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZAZb34 (Zakros clay vessel) PU₂-RE-JA · KO-MU · RU-DI. Hebrew בָּרָא bārāʾ "to create" (Gen 1:1); Arabic baraʾa. PU₂=/bu/ as in DU-PU₂-RE=dubur. Final ʾ drops (guttural rule). -JA = -yā 1cs suffix "my." PK Za 16 \]TO-SA · PỤ₂-RE-JẠ\[, no divider between PU₂ and RE, broken after JA (GORILA IV 42), is a damaged second witness, so the tier stays SPECULATIVE; the base PU₂-RE stands alone on PKZa28. Rival: PU₂-RE + -JA on that Palaikastro base; √p-r-y "fruit" (\*puriyya).
+ZAZb34 (Zakros clay vessel) PU₂-RE-JA · KO-MU · RU-DI. Hebrew בָּרָא bārāʾ "to create" (Gen 1:1); Arabic baraʾa. PU₂=/bu/ as in DU-PU₂-RE=dubur. Final ʾ drops (guttural rule). -JA = -yā 1cs suffix "my." PK Za 16 \]TO-SA · PỤ₂-RE-JẠ\[, no divider between PU₂ and RE, broken after JA (GORILA IV 42), is a damaged second witness, so the tier is SPECULATIVE; the base PU₂-RE stands alone on PKZa28. Rival: PU₂-RE + -JA on that Palaikastro base; √p-r-y "fruit" (\*puriyya).
 
 ### Cognates
 

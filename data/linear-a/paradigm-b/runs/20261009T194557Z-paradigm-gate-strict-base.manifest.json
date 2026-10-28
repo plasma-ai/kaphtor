@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "scripts/run_paradigm.py",
+  "gate",
+  "--observed-run",
+  "runs/20261009T194551Z-paradigm-observed-strict-base",
+  "--null-runs",
+  "runs/20261009T194512Z-paradigm-null-D-strict-base-B10000-s20260913",
+  "runs/20261009T194527Z-paradigm-null-D2-strict-base-B10000-s20260914",
+  "runs/20261009T194546Z-paradigm-null-D2x2-strict-base-B10000-s20260915"
+ ],
+ "ts": "20261009T194557Z",
+ "sha256sums": "f5d6733fbf922c951b5e690725cdedf6fda4bf52747c59e284807efc351cd7ca"
+}

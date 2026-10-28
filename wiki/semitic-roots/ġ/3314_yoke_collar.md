@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/3314_yoke_collar
 title: "*ɣull-: 'yoke, collar'"
-desc: "Proto-Semitic *ɣull-, 'yoke, collar': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ɣull-, 'yoke, collar': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3314"
@@ -30,10 +30,11 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ullu (CAD Ḫ 229, CAD U–W 81; AHw. 354, 1410 apud SEDonline 2095) | CAD Ḫ 229, CAD U–W 81; AHw. 354, 1410; SEDonline 2095 | gloss withheld |
-| Eblaitic | ḫu-lu (Kogan–Krebernik 2021b: 723; Pasquali 1995: 52 apud SEDonline 2095) | SEDonline 2095 | gloss withheld |
+| Eblaitic | ḫu-lu (Kogan–Krebernik 2021b: 723; Pasquali 1995: 52 apud SEDonline 2095); ḫu-lu/li, ḫu-lu/i-ḫu-lu/i /ġull/ (Sanmartín GlOS 1, 199) | SEDonline 2095; Sanmartín GlOS 1, 199 | gloss withheld |
 | Canaanite | EA ḫullu (CAD Ḫ 230, EA 257:15, 296:38 apud SEDonline 2095) | CAD Ḫ 230, EA 257:15, 296:38; SEDonline 2095 | gloss withheld |
 | Hebrew | ˁōl (BDB 760; HALOT 827-828 apud SEDonline 2095) | BDB 760; HALOT 827-828; SEDonline 2095 | gloss withheld |
 | Arabic | ɣll (Lane 2277; Dozy 1927 II: 219 apud SEDonline 2095); ɣull- (Lane 2278 apud SEDonline 2095) | Lane 2277; Dozy 1927 II: 219; SEDonline 2095; Lane 2278 | gloss withheld |
+| Amorite | ġull (Sanmartín GlOS 1, 199) | Sanmartín GlOS 1, 199 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

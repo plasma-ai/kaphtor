@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2776_to_dwell_settle_to_place_set
 title: "*šakVn-: 'to dwell, settle; to place, set'"
-desc: "Proto-Semitic *šakVn-, 'to dwell, settle; to place, set': reflexes in 12 language(s)."
+desc: "Proto-Semitic *šakVn-, 'to dwell, settle; to place, set': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2776"
@@ -40,7 +40,8 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic skn (Al-Jallad–Jaworska 121) | Al-Jallad–Jaworska 121 | gloss withheld |
 | Ugaritic | škn (HALOT 1497; DULAT 803) | HALOT 1497; DULAT 803 | gloss withheld |
 | Epigraphic South Arabian | Sab s₁kn (Kogan 2015, ch. 3 §5.3 no. 32; Sabaweb lemma 8477) | Kogan 2015 ch. 3 §5.3 no. 32; Sabaweb lemma 8477 | gloss withheld |
-| Amorite | šākin (Buck 2019, 332) | Buck 2019, 332 | gloss withheld |
+| Amorite | šākin (Buck 2019, 332); sakānu, maskanu, maskanû: ma-ás-ka-ni-i (ARM 5, 78: 6) (Streck 2000, 105, 114); S-k-n: áš-ki-na-nu-um, a-bí-iš-ki-in (Ur III); maSkan: ma-aš-ka-nu, ma-às-ka-an-šu-nu (Sanmartín GlOS 2, 242–243) | Buck 2019, 332; Streck 2000 105, 114; Sanmartín GlOS 2, 242–243 | gloss withheld |
+| Eblaitic | /S-k-n/: name iš₁₁-gú-nu (š-k-n? Krebernik 1988, 50 n. 10); cf. íl-gú-nu (Sanmartín GlOS 2, 242) | Krebernik 1988; Sanmartín GlOS 2, 242 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

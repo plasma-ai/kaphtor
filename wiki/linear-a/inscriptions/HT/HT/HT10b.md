@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/HT/HT/HT10b
 title: "HT10b"
-desc: "Tablet, Haghia Triada, LMIB. Translation: incomplete (CANDIDATE)."
-tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
+desc: "Tablet, Haghia Triada, LMIB. Translation: complete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "HT10b"
 site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
-translation: "incomplete"
-words: ["*312", "DA-RE", "KA-SA-RU", "TA-NA-TI", "TA-RI-NA"]
+translation: "complete"
+words: ["*312", "*312-TA", "DA-RE", "KA-SA-RU", "TA-NA-TI", "TA-RI-NA", "U-TI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -60,16 +60,16 @@ Unicode (Linear A block):
 
 ## Translation
 
-**CANDIDATE**, incomplete (status: incomplete).
+**CANDIDATE**, complete.
 
-> U-TI 1; the estate (DA-RE) 2; Tarinna 15; \*312-TA 6½; Qaṣṣāru ('Fuller') 6; Tanāti 9¼.
+> Utti 1; the estate (DA-RE) 2; Tarinna 15; the farmstead (\*312-TA) 6½; Qaṣṣāru ('Fuller') 6; Tanāti 9¼.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/U/U_TI\|U-TI]] |  | unread, 1 |  | unread |
+| [[wiki/linear-a/words/U/U_TI\|U-TI]] | Utti | personal name (Hurrian), 1; rival the Anatolian name Utti | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household,2 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TA_RI_NA\|TA-RI-NA]] | Tarinna | personal name (Hurrian), 15; rival trn 'mast' | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/star/star312_TA\|\*312-TA]] |  | unread, 6½ |  | unread |
+| [[wiki/linear-a/words/star/star312_TA\|\*312-TA]] | gitta | farmstead, press-estate, 6½ | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | personal name, 'Fuller', 6; rival Kaṣṣāru 'donkey driver' | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | Tanit variant (theonym or personal name), 9¼ | CANDIDATE | CANDIDATE (lexicon) |
 
@@ -79,10 +79,10 @@ The face is written over an erasure and has no heading (GORILA I 21). Six entrie
 
 ### Source
 
-- di Mino: TA-RI-NA, KA-SA-RU
+- di Mino: U-TI, TA-RI-NA, \*312-TA, KA-SA-RU
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/K/KA_SA_RU|KA-SA-RU]], [[wiki/linear-a/words/T/TA_NA_TI|TA-NA-TI]], [[wiki/linear-a/words/T/TA_RI_NA|TA-RI-NA]].
+[[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/star/star312_TA|\*312-TA]], [[wiki/linear-a/words/D/DA_RE|DA-RE]], [[wiki/linear-a/words/K/KA_SA_RU|KA-SA-RU]], [[wiki/linear-a/words/T/TA_NA_TI|TA-NA-TI]], [[wiki/linear-a/words/T/TA_RI_NA|TA-RI-NA]], [[wiki/linear-a/words/U/U_TI|U-TI]].
 
 <!-- END kaphtor:record -->

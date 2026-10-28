@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*bwḥ 'to be powerful, to have authority' (EDA 115 apud SEDonline 1376). Cf. 136 \*būḥ- 'phallus; genitalia'. Lane 273 sets bāḥa 'it became apparent' and IV ʾabāḥa 'he made the thing allowable' in one article; LGz. 115 parts bwḥ I 'be seen, be revealed' from bwḥ II 'receive authority, permission'.
+PWS \*bwḥ 'to be powerful, to have authority' (EDA I 77, ◊P0115; SEDonline 1376); EDA tentatively compares Akk. Puʾāʾu 'to intimidate (?)'. Cf. 136 \*būḥ- 'phallus; genitalia'. Lane 273 sets bāḥa 'it became apparent' and IV ʾabāḥa 'he made the thing allowable' in one article; LGz. 115 parts bwḥ I 'be seen, be revealed' from bwḥ II 'receive authority, permission'.
 
 <!-- END kaphtor:record -->

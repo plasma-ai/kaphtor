@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0509_seven
 title: "*šVbVʿ-: 'seven'"
-desc: "Proto-Semitic *šVbVʿ-, 'seven': reflexes in 24 language(s)."
+desc: "Proto-Semitic *šVbVʿ-, 'seven': reflexes in 25 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0509"
@@ -53,6 +53,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern South Arabian | Bathari ḥəbəˁēt (Gasparini - Morris 2025 162 apud SEDonline 857) | SEDonline 857 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic sbʿ (Al-Jallad–Jaworska 119) | Al-Jallad–Jaworska 119 | gloss withheld |
 | East Ethiopic | Sel. saˀabt, Wol. sabt, Zwy. sābət (EDG 534 apud SEDonline 857) | EDG 534; SEDonline 857 | gloss withheld |
+| Eblaitic | /Sabaʿ/: cf. name sá-ba (Sanmartín GlOS 2, 232) | Sanmartín GlOS 2, 232 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,0 +1,3592 @@
+{
+ "arm": "cs",
+ "grammar": {
+  "citation": "John Huehnergard, “Proto-Semitic,” in The Semitic Languages, 2nd edition, edited by John Huehnergard and Na’ama Pat-El (Routledge, 2019), pp. 49–79; John Huehnergard, “Features of Central Semitic,” in Biblical and Oriental Essays in Memory of William L. Moran, edited by Agustinus Gianto, Biblica et Orientalia 48 (Pontificio Istituto Biblico, 2005), pp. 155–203; John Huehnergard and Aaron D. Rubin, “Phyla and Waves: Models of Classification of the Semitic Languages,” in The Semitic Languages: An International Handbook (De Gruyter, 2011), pp. 259–278.",
+  "file_sha256": "19183346403c311f50248a631b42e648c56539c9de1e4610226daae3aba24744"
+ },
+ "builder": {
+  "model": "gpt-6-astra (OpenAI Codex CLI 0.165.0; reasoning effort high) [recorded after the run, from run_builder.sh]",
+  "session_started_utc": "2026-10-29T18:20:04Z",
+  "transcript_file": "transcript.jsonl"
+ },
+ "class_order": {
+  "prefix": [
+   "p_clitic",
+   "p_preposition",
+   "p_article",
+   "p_person",
+   "p_stem"
+  ],
+  "suffix": [
+   "s_stem",
+   "s_gender_number",
+   "s_case_person",
+   "s_mood",
+   "s_pronoun",
+   "s_enclitic"
+  ],
+  "basis": []
+ },
+ "entries": [
+  {
+   "id": "cs_001",
+   "morpheme_id": "cs_pro_1sg_gen",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-iː",
+   "segments": [
+    "iː"
+   ],
+   "function": "1csg gen",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_002",
+   "morpheme_id": "cs_pro_1sg_gen",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-ja",
+   "segments": [
+    "j",
+    "a"
+   ],
+   "function": "1csg gen",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_003",
+   "morpheme_id": "cs_pro_1sg_acc",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-niː",
+   "segments": [
+    "n",
+    "iː"
+   ],
+   "function": "1csg acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_004",
+   "morpheme_id": "cs_pro_1pl_gen",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-ni",
+   "segments": [
+    "n",
+    "i"
+   ],
+   "function": "1cpl gen",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_005",
+   "morpheme_id": "cs_pro_1pl_acc",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "1cpl acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_006",
+   "morpheme_id": "cs_pro_2msg",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-ka",
+   "segments": [
+    "k",
+    "a"
+   ],
+   "function": "2msg gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_007",
+   "morpheme_id": "cs_pro_2fsg",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-ki",
+   "segments": [
+    "k",
+    "i"
+   ],
+   "function": "2fsg gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_008",
+   "morpheme_id": "cs_pro_3msg",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-su",
+   "segments": [
+    "s",
+    "u"
+   ],
+   "function": "3msg gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_009",
+   "morpheme_id": "cs_pro_3fsg",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sa",
+   "segments": [
+    "s",
+    "a"
+   ],
+   "function": "3fsg gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_010",
+   "morpheme_id": "cs_pro_2du",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-kuma:",
+   "segments": [
+    "k",
+    "u",
+    "m",
+    "a:"
+   ],
+   "function": "2cdu gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_011",
+   "morpheme_id": "cs_pro_2du",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-kumaj",
+   "segments": [
+    "k",
+    "u",
+    "m",
+    "a",
+    "j"
+   ],
+   "function": "2cdu gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_012",
+   "morpheme_id": "cs_pro_3du",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sumaː",
+   "segments": [
+    "s",
+    "u",
+    "m",
+    "aː"
+   ],
+   "function": "3cdu gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_013",
+   "morpheme_id": "cs_pro_3du",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sumaj",
+   "segments": [
+    "s",
+    "u",
+    "m",
+    "a",
+    "j"
+   ],
+   "function": "3cdu gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_014",
+   "morpheme_id": "cs_pro_2mpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-kum(±uː)",
+   "segments": [
+    "k",
+    "u",
+    "m"
+   ],
+   "function": "2mpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_015",
+   "morpheme_id": "cs_pro_2mpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-kum(±uː)",
+   "segments": [
+    "k",
+    "u",
+    "m",
+    "uː"
+   ],
+   "function": "2mpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_016",
+   "morpheme_id": "cs_pro_2fpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-kin(±aː)",
+   "segments": [
+    "k",
+    "i",
+    "n"
+   ],
+   "function": "2fpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_017",
+   "morpheme_id": "cs_pro_2fpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-kin(±aː)",
+   "segments": [
+    "k",
+    "i",
+    "n",
+    "aː"
+   ],
+   "function": "2fpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_018",
+   "morpheme_id": "cs_pro_3mpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sum(±uː)",
+   "segments": [
+    "s",
+    "u",
+    "m"
+   ],
+   "function": "3mpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_019",
+   "morpheme_id": "cs_pro_3mpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sum(±uː)",
+   "segments": [
+    "s",
+    "u",
+    "m",
+    "uː"
+   ],
+   "function": "3mpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_020",
+   "morpheme_id": "cs_pro_3fpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sin(±aː)",
+   "segments": [
+    "s",
+    "i",
+    "n"
+   ],
+   "function": "3fpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_021",
+   "morpheme_id": "cs_pro_3fpl",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "-sin(±aː)",
+   "segments": [
+    "s",
+    "i",
+    "n",
+    "aː"
+   ],
+   "function": "3fpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+    "section": "§3.1.1, Table 3.5",
+    "page": "54"
+   },
+   "notes": "Also in Huehnergard 2019, 3.1.1 Personal pronouns, §3.1.1, p. 54."
+  },
+  {
+   "id": "cs_022",
+   "morpheme_id": "cs_pred_2msg",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-ta",
+   "segments": [
+    "t",
+    "a"
+   ],
+   "function": "2msg; enclitic ending on a verbal adjective in a predicative construction",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "53"
+   }
+  },
+  {
+   "id": "cs_023",
+   "morpheme_id": "cs_pred_1pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-nu",
+   "segments": [
+    "n",
+    "u"
+   ],
+   "function": "1pl; enclitic ending on a verbal adjective in a predicative construction",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "53"
+   }
+  },
+  {
+   "id": "cs_024",
+   "morpheme_id": "cs_pro_mpl_extension",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*-uː",
+   "segments": [
+    "uː"
+   ],
+   "function": "2/3mpl optional ending, derived from predicative third-person endings",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "54"
+   },
+   "notes": "An ending named in the prose; complete additional suffix-pronoun forms are not supplied there."
+  },
+  {
+   "id": "cs_025",
+   "morpheme_id": "cs_pro_fpl_extension",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*-aː",
+   "segments": [
+    "aː"
+   ],
+   "function": "2/3fpl optional ending, derived from predicative third-person endings",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "54"
+   },
+   "notes": "An ending named in the prose; complete additional suffix-pronoun forms are not supplied there."
+  },
+  {
+   "id": "cs_026",
+   "morpheme_id": "cs_pro_fpl_extension",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*-na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "2/3fpl alternative ending",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "54"
+   },
+   "notes": "An ending named in the prose; complete additional suffix-pronoun forms are not supplied there."
+  },
+  {
+   "id": "cs_027",
+   "morpheme_id": "cs_pro_oblique_extension",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-tiː",
+   "segments": [
+    "t",
+    "iː"
+   ],
+   "function": "gen/acc (obl) enclitic on third-person pronouns",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "54"
+   }
+  },
+  {
+   "id": "cs_028",
+   "morpheme_id": "cs_noun_du_nom",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-aː",
+   "segments": [
+    "aː"
+   ],
+   "function": "nom dual nominal ending",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "53"
+   }
+  },
+  {
+   "id": "cs_029",
+   "morpheme_id": "cs_noun_du_obl",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-aj",
+   "segments": [
+    "a",
+    "j"
+   ],
+   "function": "gen/acc dual nominal ending",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "53"
+   }
+  },
+  {
+   "id": "cs_030",
+   "morpheme_id": "cs_verb_du",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-aː",
+   "segments": [
+    "aː"
+   ],
+   "function": "dual verb ending; dual ending, including the discussed first-person dual",
+   "source": {
+    "unit": "3.1.1 Personal pronouns",
+    "section": "§3.1.1",
+    "page": "53"
+   },
+   "notes": "Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 73 n. 18. The note calls the first-person dual more likely an independent innovation than an inherited form."
+  },
+  {
+   "id": "cs_031",
+   "morpheme_id": "cs_relative_msg_nominative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θuː",
+   "segments": [
+    "θ",
+    "uː"
+   ],
+   "function": "msg nominative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_032",
+   "morpheme_id": "cs_relative_msg_genitive",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θiː",
+   "segments": [
+    "θ",
+    "iː"
+   ],
+   "function": "msg genitive relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_033",
+   "morpheme_id": "cs_relative_msg_accusative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θaː",
+   "segments": [
+    "θ",
+    "aː"
+   ],
+   "function": "msg accusative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_034",
+   "morpheme_id": "cs_relative_fsg_nominative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θaːtu",
+   "segments": [
+    "θ",
+    "aː",
+    "t",
+    "u"
+   ],
+   "function": "fsg nominative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_035",
+   "morpheme_id": "cs_relative_fsg_genitive",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θaːti",
+   "segments": [
+    "θ",
+    "aː",
+    "t",
+    "i"
+   ],
+   "function": "fsg genitive relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_036",
+   "morpheme_id": "cs_relative_fsg_accusative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θaːta",
+   "segments": [
+    "θ",
+    "aː",
+    "t",
+    "a"
+   ],
+   "function": "fsg accusative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_037",
+   "morpheme_id": "cs_relative_mdu_nominative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θawaː",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "aː"
+   ],
+   "function": "mdu nominative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_038",
+   "morpheme_id": "cs_relative_mdu_gen_acc",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θawaj",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "a",
+    "j"
+   ],
+   "function": "mdu gen/acc relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_039",
+   "morpheme_id": "cs_relative_fdu_nominative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θ(aw)aːtaː",
+   "segments": [
+    "θ",
+    "aː",
+    "t",
+    "aː"
+   ],
+   "function": "fdu nominative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_040",
+   "morpheme_id": "cs_relative_fdu_nominative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θ(aw)aːtaː",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "aː",
+    "t",
+    "aː"
+   ],
+   "function": "fdu nominative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_041",
+   "morpheme_id": "cs_relative_fdu_gen_acc",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θ(aw)aːtaj",
+   "segments": [
+    "θ",
+    "aː",
+    "t",
+    "a",
+    "j"
+   ],
+   "function": "fdu gen/acc relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_042",
+   "morpheme_id": "cs_relative_fdu_gen_acc",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θ(aw)aːtaj",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "aː",
+    "t",
+    "a",
+    "j"
+   ],
+   "function": "fdu gen/acc relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_043",
+   "morpheme_id": "cs_relative_mpl_nominative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θawuː",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "uː"
+   ],
+   "function": "mpl nominative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_044",
+   "morpheme_id": "cs_relative_mpl_gen_acc",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θawiː",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "iː"
+   ],
+   "function": "mpl gen/acc relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_045",
+   "morpheme_id": "cs_relative_fpl_nominative",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θawaːtu",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "aː",
+    "t",
+    "u"
+   ],
+   "function": "fpl nominative relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_046",
+   "morpheme_id": "cs_relative_fpl_gen_acc",
+   "category": "pronominal",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "θawaːti",
+   "segments": [
+    "θ",
+    "a",
+    "w",
+    "aː",
+    "t",
+    "i"
+   ],
+   "function": "fpl gen/acc relative marker; bound form",
+   "source": {
+    "unit": "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+    "section": "§3.1.3, Table 3.6",
+    "page": "55"
+   }
+  },
+  {
+   "id": "cs_047",
+   "morpheme_id": "cs_noun_feminine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*-at",
+   "segments": [
+    "a",
+    "t"
+   ],
+   "function": "feminine marker",
+   "source": {
+    "unit": "3.3.2.1 Gender",
+    "section": "§3.3.2.1",
+    "page": "58"
+   }
+  },
+  {
+   "id": "cs_048",
+   "morpheme_id": "cs_noun_feminine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*-t",
+   "segments": [
+    "t"
+   ],
+   "function": "feminine marker; feminine extension of a preposition",
+   "source": {
+    "unit": "3.3.2.1 Gender",
+    "section": "§3.3.2.1",
+    "page": "58"
+   },
+   "notes": "Also in Huehnergard 2019, \"A list of probable PS prepositions follows\" (no caption), §3.6, p. 67."
+  },
+  {
+   "id": "cs_049",
+   "morpheme_id": "cs_noun_feminine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*-aj",
+   "segments": [
+    "a",
+    "j"
+   ],
+   "function": "feminine marker",
+   "source": {
+    "unit": "3.3.2.1 Gender",
+    "section": "§3.3.2.1",
+    "page": "58"
+   }
+  },
+  {
+   "id": "cs_050",
+   "morpheme_id": "cs_noun_feminine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*aːʔ",
+   "segments": [
+    "aː",
+    "ʔ"
+   ],
+   "function": "feminine marker",
+   "source": {
+    "unit": "3.3.2.1 Gender",
+    "section": "§3.3.2.1",
+    "page": "58"
+   }
+  },
+  {
+   "id": "cs_051",
+   "morpheme_id": "cs_noun_fpl_element",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "*-aː",
+   "segments": [
+    "aː"
+   ],
+   "function": "fpl marker",
+   "source": {
+    "unit": "3.3.2.1 Gender",
+    "section": "§3.3.2.1",
+    "page": "73 n. 14"
+   },
+   "notes": "The attached note explicitly identifies this also as the nominative dual marker."
+  },
+  {
+   "id": "cs_052",
+   "morpheme_id": "cs_pred_3mpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-u:",
+   "segments": [
+    "u:"
+   ],
+   "function": "3mpl predication",
+   "source": {
+    "unit": "3.3.2.2 Number",
+    "section": "§3.3.2.2",
+    "page": "59"
+   },
+   "notes": "Printed within *maliʔ-u:; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_053",
+   "morpheme_id": "cs_pred_3fpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-a:",
+   "segments": [
+    "a:"
+   ],
+   "function": "3fpl predication",
+   "source": {
+    "unit": "3.3.2.2 Number",
+    "section": "§3.3.2.2",
+    "page": "59"
+   },
+   "notes": "Printed within *maliʔ-a:; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_054",
+   "morpheme_id": "cs_noun_fpl_element",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "-aː-",
+   "segments": [
+    "aː"
+   ],
+   "function": "fpl element before the feminine marker",
+   "source": {
+    "unit": "3.3.2.2 Number",
+    "section": "§3.3.2.2",
+    "page": "59"
+   },
+   "notes": "Printed within *maliʔ-aː-t-um; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_055",
+   "morpheme_id": "cs_noun_feminine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "-t-",
+   "segments": [
+    "t"
+   ],
+   "function": "feminine marker after fpl element",
+   "source": {
+    "unit": "3.3.2.2 Number",
+    "section": "§3.3.2.2",
+    "page": "59"
+   },
+   "notes": "Printed within *maliʔ-aː-t-um; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_056",
+   "morpheme_id": "cs_noun_mpl_nom",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-uː",
+   "segments": [
+    "uː"
+   ],
+   "function": "mpl.nom external ending",
+   "source": {
+    "unit": "3.3.2.2 Number",
+    "section": "§3.3.2.2",
+    "page": "59"
+   },
+   "notes": "Printed within *kalab-uːna; only the indicated affix is inventoried. Table 3.7 explicitly separates this ending from following nonbound-state na."
+  },
+  {
+   "id": "cs_057",
+   "morpheme_id": "cs_noun_nom",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-u",
+   "segments": [
+    "u"
+   ],
+   "function": "nom",
+   "source": {
+    "unit": "3.3.2.2 Number",
+    "section": "§3.3.2.2",
+    "page": "59"
+   },
+   "notes": "Printed within *kalb-um; only the indicated affix is inventoried. Table 3.7 explicitly separates this ending from following nonbound-state m."
+  },
+  {
+   "id": "cs_058",
+   "morpheme_id": "cs_noun_nonbound",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-m",
+   "segments": [
+    "m"
+   ],
+   "function": "nonbound state marker",
+   "source": {
+    "unit": "3.3.2.3 State and definiteness",
+    "section": "§3.3.2.3",
+    "page": "59"
+   },
+   "notes": "After short vowels."
+  },
+  {
+   "id": "cs_059",
+   "morpheme_id": "cs_noun_nonbound",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "nonbound state marker",
+   "source": {
+    "unit": "3.3.2.3 State and definiteness",
+    "section": "§3.3.2.3",
+    "page": "59"
+   },
+   "notes": "Otherwise."
+  },
+  {
+   "id": "cs_060",
+   "morpheme_id": "cs_subordinative",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "-u",
+   "segments": [
+    "u"
+   ],
+   "function": "sbrd",
+   "source": {
+    "unit": "3.3.2.3 State and definiteness",
+    "section": "§3.3.2.3",
+    "page": "59"
+   },
+   "notes": "Printed within ta-ʔmur-u; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_061",
+   "morpheme_id": "cs_subordinative",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "-na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "sbrd after the dual ending",
+   "source": {
+    "unit": "3.3.2.3 State and definiteness",
+    "section": "§3.3.2.3",
+    "page": "59"
+   },
+   "notes": "Printed within ja-ʔmur-aː-na; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_062",
+   "morpheme_id": "cs_noun_nom",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-u-",
+   "segments": [
+    "u"
+   ],
+   "function": "nom",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-u-m; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_063",
+   "morpheme_id": "cs_noun_gen",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-i-",
+   "segments": [
+    "i"
+   ],
+   "function": "gen; also fpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-i-m; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_064",
+   "morpheme_id": "cs_noun_acc",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-a-",
+   "segments": [
+    "a"
+   ],
+   "function": "acc singular",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-a-m; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_065",
+   "morpheme_id": "cs_noun_du_nom",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-aː-",
+   "segments": [
+    "aː"
+   ],
+   "function": "dual nom",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-aː-na; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_066",
+   "morpheme_id": "cs_noun_du_obl",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-aj-",
+   "segments": [
+    "a",
+    "j"
+   ],
+   "function": "dual gen/acc",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-aj-na; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_067",
+   "morpheme_id": "cs_noun_mpl_nom",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-uː-",
+   "segments": [
+    "uː"
+   ],
+   "function": "mpl nom",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-uː-na; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_068",
+   "morpheme_id": "cs_noun_mpl_obl",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-iː-",
+   "segments": [
+    "iː"
+   ],
+   "function": "mpl gen/acc",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-iː-na; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_069",
+   "morpheme_id": "cs_noun_feminine",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "-at-",
+   "segments": [
+    "a",
+    "t"
+   ],
+   "function": "feminine singular and dual",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-at-u-m; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_070",
+   "morpheme_id": "cs_noun_fpl",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_gender_number",
+   "form": "-aːt-",
+   "segments": [
+    "aː",
+    "t"
+   ],
+   "function": "feminine plural",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Printed within t’aːb-aːt-u-m; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_071",
+   "morpheme_id": "cs_noun_nonbound",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-m",
+   "segments": [
+    "m"
+   ],
+   "function": "nonbound state marker; absent in bound (construct) forms",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_072",
+   "morpheme_id": "cs_noun_nonbound",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "nonbound state marker; absent in bound (construct) forms",
+   "source": {
+    "unit": "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+    "section": "§3.3.2.4, Table 3.7",
+    "page": "60"
+   },
+   "notes": "Also in Huehnergard 2019, 3.3.2.4 Case and declension, §3.3.2.4, p. 60."
+  },
+  {
+   "id": "cs_073",
+   "morpheme_id": "cs_locative",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-u(m)",
+   "segments": [
+    "u"
+   ],
+   "function": "locative adverbial ending",
+   "source": {
+    "unit": "3.3.2.4 Case and declension",
+    "section": "§3.3.2.4",
+    "page": "61"
+   },
+   "notes": "The author prefers an adverbial analysis over a case-marker analysis."
+  },
+  {
+   "id": "cs_074",
+   "morpheme_id": "cs_locative",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-u(m)",
+   "segments": [
+    "u",
+    "m"
+   ],
+   "function": "locative adverbial ending",
+   "source": {
+    "unit": "3.3.2.4 Case and declension",
+    "section": "§3.3.2.4",
+    "page": "61"
+   },
+   "notes": "The author prefers an adverbial analysis over a case-marker analysis."
+  },
+  {
+   "id": "cs_075",
+   "morpheme_id": "cs_directional",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-isa",
+   "segments": [
+    "i",
+    "s",
+    "a"
+   ],
+   "function": "directional adverbial ending",
+   "source": {
+    "unit": "3.3.2.4 Case and declension",
+    "section": "§3.3.2.4",
+    "page": "61"
+   }
+  },
+  {
+   "id": "cs_076",
+   "morpheme_id": "cs_directional",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-ah(a)",
+   "segments": [
+    "a",
+    "h"
+   ],
+   "function": "directional adverbial ending",
+   "source": {
+    "unit": "3.3.2.4 Case and declension",
+    "section": "§3.3.2.4",
+    "page": "61"
+   }
+  },
+  {
+   "id": "cs_077",
+   "morpheme_id": "cs_directional",
+   "category": "nominal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-ah(a)",
+   "segments": [
+    "a",
+    "h",
+    "a"
+   ],
+   "function": "directional adverbial ending",
+   "source": {
+    "unit": "3.3.2.4 Case and declension",
+    "section": "§3.3.2.4",
+    "page": "61"
+   }
+  },
+  {
+   "id": "cs_078",
+   "morpheme_id": "cs_person_1sg",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ʔa",
+   "segments": [
+    "ʔ",
+    "a"
+   ],
+   "function": "1csg short prefix conjugation",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *ʔaðkur; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 62. Printed within *ʔasrik’; only the indicated affix is inventoried. Prefix vowel a with theme vowel i; prefix vowel i with theme vowel a."
+  },
+  {
+   "id": "cs_079",
+   "morpheme_id": "cs_person_1pl",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "1cpl short prefix conjugation",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *naðkur; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63."
+  },
+  {
+   "id": "cs_080",
+   "morpheme_id": "cs_person_t",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ta",
+   "segments": [
+    "t",
+    "a"
+   ],
+   "function": "2nd person; 3fsg short prefix conjugation; 2fsg long prefix conjugation",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *taðkur; only the indicated affix is inventoried.  Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *taðkuruː; only the indicated affix is inventoried. Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *taðkuriː; only the indicated affix is inventoried. Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *taðkurna; only the indicated affix is inventoried. Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *taðkuraː; only the indicated affix is inventoried. Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *taðkur; only the indicated affix is inventoried. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 62. Printed within *tasrik’; only the indicated affix is inventoried. Prefix vowel a with theme vowel i; prefix vowel i with theme vowel a. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Printed within *taðakkariː; only the indicated affix is inventoried. Alternative prefix vowels are explicitly uncertain."
+  },
+  {
+   "id": "cs_081",
+   "morpheme_id": "cs_verb_mpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "uː",
+   "segments": [
+    "uː"
+   ],
+   "function": "2/3mpl short prefix conjugation; 2mpl imperative",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *taðkuruː; only the indicated affix is inventoried.  Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *jaðkuruː; only the indicated affix is inventoried. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Also in Huehnergard 2019, TABLE 3.9 CONJUGATION OF THE IMPERATIVE IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.9, p. 63. Printed within *ðukuruː; only the indicated affix is inventoried. The same ending also occurs in the short prefix conjugation."
+  },
+  {
+   "id": "cs_082",
+   "morpheme_id": "cs_verb_2fsg",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "iː",
+   "segments": [
+    "iː"
+   ],
+   "function": "2fsg short prefix conjugation; 2fsg imperative",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *taðkuriː; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Also in Huehnergard 2019, TABLE 3.9 CONJUGATION OF THE IMPERATIVE IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.9, p. 63. Printed within *ðukuriː; only the indicated affix is inventoried. The same ending also occurs in the short prefix conjugation."
+  },
+  {
+   "id": "cs_083",
+   "morpheme_id": "cs_verb_fpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "2/3fpl short prefix conjugation; 2fpl imperative",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *taðkurna; only the indicated affix is inventoried.  Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *jaðkurna; only the indicated affix is inventoried. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Also in Huehnergard 2019, TABLE 3.9 CONJUGATION OF THE IMPERATIVE IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.9, p. 63. Printed within *ðukurna; only the indicated affix is inventoried. The same ending also occurs in the short prefix conjugation."
+  },
+  {
+   "id": "cs_084",
+   "morpheme_id": "cs_verb_du",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "aː",
+   "segments": [
+    "aː"
+   ],
+   "function": "2/3cdu short prefix conjugation; 2cdu imperative",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *taðkuraː; only the indicated affix is inventoried.  Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *jaðkuraː; only the indicated affix is inventoried. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Also in Huehnergard 2019, TABLE 3.9 CONJUGATION OF THE IMPERATIVE IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.9, p. 63. Printed within *ðukuraː; only the indicated affix is inventoried. The same ending also occurs in the short prefix conjugation."
+  },
+  {
+   "id": "cs_085",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ja",
+   "segments": [
+    "j",
+    "a"
+   ],
+   "function": "3msg, 3pl and 3cdu short prefix conjugation; 3msg short prefix conjugation; 3msg long prefix conjugation",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "63"
+   },
+   "notes": "Printed within *jaðkur; only the indicated affix is inventoried.  Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *jaðkuruː; only the indicated affix is inventoried. Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *jaðkurna; only the indicated affix is inventoried. Also in Huehnergard 2019, TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE', §3.5.3, Table 3.8, p. 63. Printed within *jaðkuraː; only the indicated affix is inventoried. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 62. Printed within *jasrik’; only the indicated affix is inventoried. Prefix vowel a with theme vowel i; prefix vowel i with theme vowel a. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Printed within *jaðakkar; only the indicated affix is inventoried. Alternative prefix vowels are explicitly uncertain."
+  },
+  {
+   "id": "cs_086",
+   "morpheme_id": "cs_person_1sg",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ʔi",
+   "segments": [
+    "ʔ",
+    "i"
+   ],
+   "function": "1csg short prefix conjugation",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "62"
+   },
+   "notes": "Printed within *ʔislam; only the indicated affix is inventoried. Prefix vowel a with theme vowel i; prefix vowel i with theme vowel a."
+  },
+  {
+   "id": "cs_087",
+   "morpheme_id": "cs_person_t",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ti",
+   "segments": [
+    "t",
+    "i"
+   ],
+   "function": "2nd person; 3fsg short prefix conjugation; 2fsg long prefix conjugation",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "62"
+   },
+   "notes": "Printed within *tislam; only the indicated affix is inventoried. Prefix vowel a with theme vowel i; prefix vowel i with theme vowel a. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Printed within *tiðakkariː; only the indicated affix is inventoried. Alternative prefix vowels are explicitly uncertain."
+  },
+  {
+   "id": "cs_088",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ji",
+   "segments": [
+    "j",
+    "i"
+   ],
+   "function": "3msg short prefix conjugation; 3msg long prefix conjugation",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "62"
+   },
+   "notes": "Printed within *jislam; only the indicated affix is inventoried. Prefix vowel a with theme vowel i; prefix vowel i with theme vowel a. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 63. Printed within *jiðakkar; only the indicated affix is inventoried. Alternative prefix vowels are explicitly uncertain."
+  },
+  {
+   "id": "cs_089",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ji-",
+   "segments": [
+    "j",
+    "i"
+   ],
+   "function": "3msg long prefix conjugation; 3msg/3pl person prefix in an alternative reconstruction",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "63"
+   },
+   "notes": "The vowel of the long-conjugation prefixes, a or i or both, is explicitly uncertain. Also in Huehnergard 2019, 3.5.3 Inflection, §3.5.3, p. 73 n. 17. A proposal reported in the note attached to §3.5.3; the author also cites counter-arguments. No choice between reconstructions is made."
+  },
+  {
+   "id": "cs_090",
+   "morpheme_id": "cs_person_t",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ti-",
+   "segments": [
+    "t",
+    "i"
+   ],
+   "function": "2fsg long prefix conjugation",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "63"
+   },
+   "notes": "The vowel of the long-conjugation prefixes, a or i or both, is explicitly uncertain."
+  },
+  {
+   "id": "cs_091",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ya",
+   "segments": [
+    "y",
+    "a"
+   ],
+   "function": "3msg short prefix conjugation; active G prefix with theme vowel u or i",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "63"
+   },
+   "notes": "Printed within *yaðkur; only the indicated affix is inventoried. The printed y is retained; it is not silently changed to j. Also in Huehnergard and Rubin 2011, \"Prefixes of the active G stem (the 'Barth-Ginsberg Law')\", §8.2, p. 271. Printed within *yaqtul; only the indicated affix is inventoried."
+  },
+  {
+   "id": "cs_092",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "yi",
+   "segments": [
+    "y",
+    "i"
+   ],
+   "function": "3msg short prefix conjugation; active G prefix with theme vowel a",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "63"
+   },
+   "notes": "Printed within yilmad; only the indicated affix is inventoried. The printed y is retained; it is not silently changed to j. Also in Huehnergard 2005, \"10. Barth-Ginsberg Law\", §II.10; summary item (11), p. 180–181. Printed within yiqtal; only the indicated affix is inventoried."
+  },
+  {
+   "id": "cs_093",
+   "morpheme_id": "cs_person_1sg",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ʔa-",
+   "segments": [
+    "ʔ",
+    "a"
+   ],
+   "function": "1sg person prefix in an alternative reconstruction",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "73 n. 17"
+   },
+   "notes": "A proposal reported in the note attached to §3.5.3; the author also cites counter-arguments. No choice between reconstructions is made."
+  },
+  {
+   "id": "cs_094",
+   "morpheme_id": "cs_person_t",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ta-",
+   "segments": [
+    "t",
+    "a"
+   ],
+   "function": "2sg/2pl/3fsg person prefix in an alternative reconstruction",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "73 n. 17"
+   },
+   "notes": "A proposal reported in the note attached to §3.5.3; the author also cites counter-arguments. No choice between reconstructions is made."
+  },
+  {
+   "id": "cs_095",
+   "morpheme_id": "cs_person_1pl",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ni-",
+   "segments": [
+    "n",
+    "i"
+   ],
+   "function": "1cpl person prefix in an alternative reconstruction",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "73 n. 17"
+   },
+   "notes": "A proposal reported in the note attached to §3.5.3; the author also cites counter-arguments. No choice between reconstructions is made."
+  },
+  {
+   "id": "cs_096",
+   "morpheme_id": "cs_person_3fpl_alternative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "t-",
+   "segments": [
+    "t"
+   ],
+   "function": "possible 3fpl prefix",
+   "source": {
+    "unit": "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+    "section": "§3.5.3, Table 3.8",
+    "page": "73 n. 19"
+   },
+   "notes": "The source says the 3fpl may instead have had this prefix; no vowel is supplied."
+  },
+  {
+   "id": "cs_097",
+   "morpheme_id": "cs_sc_3msg",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-a",
+   "segments": [
+    "a"
+   ],
+   "function": "3msg suffix conjugation; 3msg active perfective",
+   "source": {
+    "unit": "3.5.3 Inflection",
+    "section": "§3.5.3",
+    "page": "63"
+   },
+   "notes": "Printed within *ðakar-a; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.4 Non-finite forms, §3.5.4, p. 63. Printed within *θabar-a; only the indicated affix is inventoried."
+  },
+  {
+   "id": "cs_098",
+   "morpheme_id": "cs_pred_1pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-nu",
+   "segments": [
+    "n",
+    "u"
+   ],
+   "function": "1cpl enclitic subject on the uninflected verbal adjective",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "63"
+   },
+   "notes": "Printed within *θabir-nu; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_099",
+   "morpheme_id": "cs_pred_2fsg",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-ti",
+   "segments": [
+    "t",
+    "i"
+   ],
+   "function": "2fsg enclitic subject on the uninflected verbal adjective",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "63"
+   },
+   "notes": "Printed within *k’arub-ti; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_100",
+   "morpheme_id": "cs_pred_3msg",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-a",
+   "segments": [
+    "a"
+   ],
+   "function": "3msg ending of the verbal adjective in predication",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "63"
+   }
+  },
+  {
+   "id": "cs_101",
+   "morpheme_id": "cs_pred_3fsg",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-at",
+   "segments": [
+    "a",
+    "t"
+   ],
+   "function": "3fsg ending of the verbal adjective in predication",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "63"
+   }
+  },
+  {
+   "id": "cs_102",
+   "morpheme_id": "cs_pred_3mpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-uː",
+   "segments": [
+    "uː"
+   ],
+   "function": "3mpl ending of the verbal adjective in predication",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "63"
+   }
+  },
+  {
+   "id": "cs_103",
+   "morpheme_id": "cs_pred_3fpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "*-aː",
+   "segments": [
+    "aː"
+   ],
+   "function": "3fpl ending of the verbal adjective in predication",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "63"
+   }
+  },
+  {
+   "id": "cs_104",
+   "morpheme_id": "cs_sc_1pl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "-nu",
+   "segments": [
+    "n",
+    "u"
+   ],
+   "function": "1cpl active perfective",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "63"
+   },
+   "notes": "Printed within *θabar-nu; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_105",
+   "morpheme_id": "cs_participle",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "*mu-",
+   "segments": [
+    "m",
+    "u"
+   ],
+   "function": "active and passive participles of the derived stems",
+   "source": {
+    "unit": "3.5.4 Non-finite forms",
+    "section": "§3.5.4",
+    "page": "64"
+   }
+  },
+  {
+   "id": "cs_106",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "*s(a)",
+   "segments": [
+    "s"
+   ],
+   "function": "C, causative stem",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_107",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "*s(a)",
+   "segments": [
+    "s",
+    "a"
+   ],
+   "function": "C, causative stem",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_108",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "*h",
+   "segments": [
+    "h"
+   ],
+   "function": "C, causative stem",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Explicitly described as an areal development. Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_109",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "ʔ",
+   "segments": [
+    "ʔ"
+   ],
+   "function": "causative marker in a further development",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_110",
+   "morpheme_id": "cs_n_stem",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "*n",
+   "segments": [
+    "n"
+   ],
+   "function": "N; ingressive, usually passive or middle",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_111",
+   "morpheme_id": "cs_t_stem",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "t",
+   "segments": [
+    "t"
+   ],
+   "function": "t stems; medio-passive, reflexive, reciprocal",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Only the prefixed realization is represented; the root-internal position is not an edge affix. Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_112",
+   "morpheme_id": "cs_t_stem",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "*t",
+   "segments": [
+    "t"
+   ],
+   "function": "medio-passive marker",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_113",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "*s",
+   "segments": [
+    "s"
+   ],
+   "function": "causative marker",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_114",
+   "morpheme_id": "cs_ct_stem",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "s-t",
+   "segments": [
+    "s",
+    "t"
+   ],
+   "function": "Ct; t immediately after causative s",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_115",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ju-",
+   "segments": [
+    "j",
+    "u"
+   ],
+   "function": "3rd-person C prefix conjugation; 3rd-person D prefix conjugation; 3rd-person G passive short prefix conjugation",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Printed within *ju-sa-smiʕ; only the indicated affix is inventoried.  Also in Huehnergard 2019, \"The following derived stems can be reconstructed to PS\" (no caption), §3.5.5, items 1–7, p. 64. Printed within *ju-sallim; only the indicated affix is inventoried. Also in Huehnergard 2019, \"The following derived stems can be reconstructed to PS\" (no caption), §3.5.5, items 1–7, p. 65. Printed within *ju-ðkar; only the indicated affix is inventoried. Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_116",
+   "morpheme_id": "cs_person_t",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*tu-",
+   "segments": [
+    "t",
+    "u"
+   ],
+   "function": "2nd-person C prefix conjugation",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Printed within *tu-sa-ʕrib; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_117",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "-sa-",
+   "segments": [
+    "s",
+    "a"
+   ],
+   "function": "C, causative",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Printed within *ju-sa-smiʕ; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_118",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "-ha-",
+   "segments": [
+    "h",
+    "a"
+   ],
+   "function": "C, causative",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "64"
+   },
+   "notes": "Printed within *tu-ha-ʕrib; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 64."
+  },
+  {
+   "id": "cs_119",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*jV-",
+   "segments": [
+    "j",
+    "V"
+   ],
+   "function": "3rd-person N prefix conjugation",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Printed within *jV-n-θabir; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_120",
+   "morpheme_id": "cs_n_stem",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "-n-",
+   "segments": [
+    "n"
+   ],
+   "function": "N; ingressive, passive or middle",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Printed within *jV-n-θabir; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_121",
+   "morpheme_id": "cs_t_stem",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "-t-",
+   "segments": [
+    "t"
+   ],
+   "function": "prefixed tG and tD; medio-passive, reflexive, reciprocal",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Printed within *jV-t-C₁aC₂VC₃; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_122",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*ja-",
+   "segments": [
+    "j",
+    "a"
+   ],
+   "function": "3rd-person G active short prefix conjugation",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "65"
+   },
+   "notes": "Printed within *ja-ðkur; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 65."
+  },
+  {
+   "id": "cs_123",
+   "morpheme_id": "cs_causative",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_stem",
+   "form": "-ʔa-",
+   "segments": [
+    "ʔ",
+    "a"
+   ],
+   "function": "causative prefix in a further development",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "74 n. 24"
+   },
+   "notes": "Printed within *ju-ʔa-C₁aC₂C₂aC₃; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 74 n. 24."
+  },
+  {
+   "id": "cs_124",
+   "morpheme_id": "cs_person_3_causative_contracted",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*jaː-",
+   "segments": [
+    "j",
+    "aː"
+   ],
+   "function": "contracted prefix in the C long prefix conjugation",
+   "source": {
+    "unit": "\"The following derived stems can be reconstructed to PS\" (no caption)",
+    "section": "§3.5.5, items 1–7",
+    "page": "74 n. 24"
+   },
+   "notes": "Printed within *jaː-C₁aC₂C₂aC₃; only the indicated affix is inventoried. The attached note prints this contraction; it is retained as one prefix rather than divided into unattested parts. Also in Huehnergard 2019, 3.5.5 Derived stems and voice, §3.5.5, p. 74 n. 24."
+  },
+  {
+   "id": "cs_125",
+   "morpheme_id": "cs_prep_in",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʔin",
+   "segments": [
+    "ʔ",
+    "i",
+    "n"
+   ],
+   "function": "in",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_126",
+   "morpheme_id": "cs_prep_in",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʔin-tV",
+   "segments": [
+    "ʔ",
+    "i",
+    "n",
+    "t",
+    "V"
+   ],
+   "function": "at, via; with",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_127",
+   "morpheme_id": "cs_prep_in",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʔin-t-aj",
+   "segments": [
+    "ʔ",
+    "i",
+    "n",
+    "t",
+    "a",
+    "j"
+   ],
+   "function": "at, via; with",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_128",
+   "morpheme_id": "cs_prep_without",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*bal",
+   "segments": [
+    "b",
+    "a",
+    "l"
+   ],
+   "function": "without, non-",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_129",
+   "morpheme_id": "cs_prep_loc_ins",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*bi=",
+   "segments": [
+    "b",
+    "i"
+   ],
+   "function": "in, with (loc/ins)",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_130",
+   "morpheme_id": "cs_prep_to_for",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ha=",
+   "segments": [
+    "h",
+    "a"
+   ],
+   "function": "to, for",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_131",
+   "morpheme_id": "cs_prep_like",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ka=",
+   "segments": [
+    "k",
+    "a"
+   ],
+   "function": "like, as",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_132",
+   "morpheme_id": "cs_prep_like",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*kiː",
+   "segments": [
+    "k",
+    "iː"
+   ],
+   "function": "like, as",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_133",
+   "morpheme_id": "cs_prep_like",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*kaj",
+   "segments": [
+    "k",
+    "a",
+    "j"
+   ],
+   "function": "like, as; questioned",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_134",
+   "morpheme_id": "cs_prep_dat_dir",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*la=",
+   "segments": [
+    "l",
+    "a"
+   ],
+   "function": "to, for (dat/dir)",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_135",
+   "morpheme_id": "cs_prep_toward",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*sin",
+   "segments": [
+    "s",
+    "i",
+    "n"
+   ],
+   "function": "toward, at?",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_136",
+   "morpheme_id": "cs_prep_toward",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʦin",
+   "segments": [
+    "ʦ",
+    "i",
+    "n"
+   ],
+   "function": "toward, at?",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "§3.6 calls prepositions bound forms; an equals sign specifically marks the usually proclitic subset. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_137",
+   "morpheme_id": "cs_prep_until",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʕad(aj)",
+   "segments": [
+    "ʕ",
+    "a",
+    "d"
+   ],
+   "function": "up to, until",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_138",
+   "morpheme_id": "cs_prep_until",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʕad(aj)",
+   "segments": [
+    "ʕ",
+    "a",
+    "d",
+    "a",
+    "j"
+   ],
+   "function": "up to, until",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_139",
+   "morpheme_id": "cs_prep_on",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʕal(aj)",
+   "segments": [
+    "ʕ",
+    "a",
+    "l"
+   ],
+   "function": "on, against",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_140",
+   "morpheme_id": "cs_prep_on",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*ʕal(aj)",
+   "segments": [
+    "ʕ",
+    "a",
+    "l",
+    "a",
+    "j"
+   ],
+   "function": "on, against",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_141",
+   "morpheme_id": "cs_prep_between",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*bajn(-aj)",
+   "segments": [
+    "b",
+    "a",
+    "j",
+    "n"
+   ],
+   "function": "between",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_142",
+   "morpheme_id": "cs_prep_between",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*bajn(-aj)",
+   "segments": [
+    "b",
+    "a",
+    "j",
+    "n",
+    "a",
+    "j"
+   ],
+   "function": "between",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_143",
+   "morpheme_id": "cs_prep_from",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*min(V)",
+   "segments": [
+    "m",
+    "i",
+    "n"
+   ],
+   "function": "from",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_144",
+   "morpheme_id": "cs_prep_from",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*min(V)",
+   "segments": [
+    "m",
+    "i",
+    "n",
+    "V"
+   ],
+   "function": "from",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_145",
+   "morpheme_id": "cs_prep_within",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*wist’(aj)",
+   "segments": [
+    "w",
+    "i",
+    "s",
+    "t’"
+   ],
+   "function": "in, at",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_146",
+   "morpheme_id": "cs_prep_within",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*wist’(aj)",
+   "segments": [
+    "w",
+    "i",
+    "s",
+    "t’",
+    "a",
+    "j"
+   ],
+   "function": "in, at",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_147",
+   "morpheme_id": "cs_prep_within",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*wast’(aj)",
+   "segments": [
+    "w",
+    "a",
+    "s",
+    "t’"
+   ],
+   "function": "in, at",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_148",
+   "morpheme_id": "cs_prep_within",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*wast’(aj)",
+   "segments": [
+    "w",
+    "a",
+    "s",
+    "t’",
+    "a",
+    "j"
+   ],
+   "function": "in, at",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_149",
+   "morpheme_id": "cs_prep_without",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "ʔǝn-bälä",
+   "segments": [
+    "ʔ",
+    "ǝ",
+    "n",
+    "b",
+    "ä",
+    "l",
+    "ä"
+   ],
+   "function": "without",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_150",
+   "morpheme_id": "cs_prep_in",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "ʔǝntä",
+   "segments": [
+    "ʔ",
+    "ǝ",
+    "n",
+    "t",
+    "ä"
+   ],
+   "function": "at, via",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_151",
+   "morpheme_id": "cs_prep_in",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "itti",
+   "segments": [
+    "i",
+    "t",
+    "t",
+    "i"
+   ],
+   "function": "with",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_152",
+   "morpheme_id": "cs_prep_in",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "ʔɛt",
+   "segments": [
+    "ʔ",
+    "ɛ",
+    "t"
+   ],
+   "function": "with",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_153",
+   "morpheme_id": "cs_prep_from",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "mɨn",
+   "segments": [
+    "m",
+    "ɨ",
+    "n"
+   ],
+   "function": "from",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_154",
+   "morpheme_id": "cs_prep_from",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "ʔǝm",
+   "segments": [
+    "ʔ",
+    "ǝ",
+    "m"
+   ],
+   "function": "from",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_155",
+   "morpheme_id": "cs_prep_from",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "ʔǝmǝnnä",
+   "segments": [
+    "ʔ",
+    "ǝ",
+    "m",
+    "ǝ",
+    "n",
+    "n",
+    "ä"
+   ],
+   "function": "from",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_156",
+   "morpheme_id": "cs_prep_in",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "min",
+   "segments": [
+    "m",
+    "i",
+    "n"
+   ],
+   "function": "in",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_157",
+   "morpheme_id": "cs_prep_from",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "minu",
+   "segments": [
+    "m",
+    "i",
+    "n",
+    "u"
+   ],
+   "function": "from",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_158",
+   "morpheme_id": "cs_prep_to_for",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "ana",
+   "segments": [
+    "a",
+    "n",
+    "a"
+   ],
+   "function": "to, for",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "An explicitly printed attested preposition in the list, not a newly reconstructed form. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_159",
+   "morpheme_id": "cs_prep_to_for",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "/hana/",
+   "segments": [
+    "h",
+    "a",
+    "n",
+    "a"
+   ],
+   "function": "to, for",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "The list supplies this phonemic interpretation of its syllabic spelling; slashes are transcription delimiters. Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_160",
+   "morpheme_id": "cs_prep_to_for",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "he=",
+   "segments": [
+    "h",
+    "e"
+   ],
+   "function": "to",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Printed within he=ʃ; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_161",
+   "morpheme_id": "cs_pro_3msg",
+   "category": "pronominal",
+   "side": "suffix",
+   "slot": "s_pronoun",
+   "form": "=ʃ",
+   "segments": [
+    "ʃ"
+   ],
+   "function": "him; object of a preposition",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Printed within he=ʃ; only the indicated affix is inventoried.  Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_162",
+   "morpheme_id": "cs_while",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "ʔǝn-zä",
+   "segments": [
+    "ʔ",
+    "ǝ",
+    "n",
+    "z",
+    "ä"
+   ],
+   "function": "while; in-rel",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_163",
+   "morpheme_id": "cs_prep_extension_na",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "*=na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "enclitic extending the preposition meaning to, for",
+   "source": {
+    "unit": "\"A list of probable PS prepositions follows\" (no caption)",
+    "section": "§3.6",
+    "page": "67"
+   },
+   "notes": "Also in Huehnergard 2019, 3.6 Prepositions, §3.6, p. 67."
+  },
+  {
+   "id": "cs_164",
+   "morpheme_id": "cs_prep_optional_aj",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_stem",
+   "form": "*-aj",
+   "segments": [
+    "a",
+    "j"
+   ],
+   "function": "optional ending on several prepositions",
+   "source": {
+    "unit": "3.6 Prepositions",
+    "section": "§3.6",
+    "page": "66"
+   }
+  },
+  {
+   "id": "cs_165",
+   "morpheme_id": "cs_prep_within",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*wist’aj",
+   "segments": [
+    "w",
+    "i",
+    "s",
+    "t’",
+    "a",
+    "j"
+   ],
+   "function": "in, with",
+   "source": {
+    "unit": "3.6 Prepositions",
+    "section": "§3.6",
+    "page": "66"
+   }
+  },
+  {
+   "id": "cs_166",
+   "morpheme_id": "cs_prep_within",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_preposition",
+   "form": "*wist’-a",
+   "segments": [
+    "w",
+    "i",
+    "s",
+    "t’",
+    "a"
+   ],
+   "function": "within",
+   "source": {
+    "unit": "3.6 Prepositions",
+    "section": "§3.6",
+    "page": "66"
+   },
+   "notes": "Printed within *wist’-a bajt-im; only the indicated affix is inventoried. A substantive used adverbially as a bound form; the source gloss is interior-acc.bnd."
+  },
+  {
+   "id": "cs_167",
+   "morpheme_id": "cs_person_1sg",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "ʔi-",
+   "segments": [
+    "ʔ",
+    "i"
+   ],
+   "function": "1csg short prefix conjugation",
+   "source": {
+    "unit": "3.6 Prepositions",
+    "section": "§3.6",
+    "page": "66"
+   },
+   "notes": "Printed within ʔi-smaʕ-u; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_168",
+   "morpheme_id": "cs_conj_and",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "*wa",
+   "segments": [
+    "w",
+    "a"
+   ],
+   "function": "and",
+   "source": {
+    "unit": "3.7 Conjunctions",
+    "section": "§3.7",
+    "page": "67"
+   },
+   "notes": "The source calls these conjunctions proclitic in some languages; pa/ʔap is printed as a slash pair."
+  },
+  {
+   "id": "cs_169",
+   "morpheme_id": "cs_conj_then",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "*pa",
+   "segments": [
+    "p",
+    "a"
+   ],
+   "function": "and then, and so",
+   "source": {
+    "unit": "3.7 Conjunctions",
+    "section": "§3.7",
+    "page": "67"
+   },
+   "notes": "The source calls these conjunctions proclitic in some languages; pa/ʔap is printed as a slash pair."
+  },
+  {
+   "id": "cs_170",
+   "morpheme_id": "cs_conj_then",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "ʔap",
+   "segments": [
+    "ʔ",
+    "a",
+    "p"
+   ],
+   "function": "and then, and so",
+   "source": {
+    "unit": "3.7 Conjunctions",
+    "section": "§3.7",
+    "page": "67"
+   },
+   "notes": "The source calls these conjunctions proclitic in some languages; pa/ʔap is printed as a slash pair."
+  },
+  {
+   "id": "cs_171",
+   "morpheme_id": "cs_asseverative",
+   "category": "clitic",
+   "side": "prefix",
+   "slot": "p_clitic",
+   "form": "*la=",
+   "segments": [
+    "l",
+    "a"
+   ],
+   "function": "asseveration or affirmation; with the short prefix conjugation, injunctive",
+   "source": {
+    "unit": "3.10 Other particles",
+    "section": "§3.10",
+    "page": "68"
+   },
+   "notes": "Can be prefixed to virtually any form except imperatives."
+  },
+  {
+   "id": "cs_172",
+   "morpheme_id": "cs_topicalizer",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "*=ma",
+   "segments": [
+    "m",
+    "a"
+   ],
+   "function": "topicalizing particle",
+   "source": {
+    "unit": "3.10 Other particles",
+    "section": "§3.10",
+    "page": "68"
+   }
+  },
+  {
+   "id": "cs_173",
+   "morpheme_id": "cs_topicalizer",
+   "category": "clitic",
+   "side": "suffix",
+   "slot": "s_enclitic",
+   "form": "=ma",
+   "segments": [
+    "m",
+    "a"
+   ],
+   "function": "topicalizes whole clauses; clause connector",
+   "source": {
+    "unit": "3.10 Other particles",
+    "section": "§3.10",
+    "page": "68"
+   }
+  },
+  {
+   "id": "cs_174",
+   "morpheme_id": "cs_indicative",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "u",
+   "segments": [
+    "u"
+   ],
+   "function": "imperfective",
+   "source": {
+    "unit": "\"Hetzron's model and Central Semitic\"",
+    "section": "§3",
+    "page": "261"
+   },
+   "notes": "Printed within *yaqtulu; only the indicated affix is inventoried. The complete pattern is printed; its final vowel is identified as indicative -u in §8.1. Also in Huehnergard and Rubin 2011, \"Modifications to Hetzron's model\", §4, p. 262. Printed within yaqtulu; only the indicated affix is inventoried. The complete pattern is printed; its final vowel is identified as indicative -u in §8.1. Also in Huehnergard 2005, \"1. *yaqtulu\", §II.1; summary item (1), p. 165. Printed within yaqtulu; only the indicated affix is inventoried."
+  },
+  {
+   "id": "cs_175",
+   "morpheme_id": "cs_indicative",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "-u",
+   "segments": [
+    "u"
+   ],
+   "function": "indicative; new imperfective",
+   "source": {
+    "unit": "\"yaqtulu and the TMA System\"",
+    "section": "§8.1",
+    "page": "270"
+   }
+  },
+  {
+   "id": "cs_176",
+   "morpheme_id": "cs_verb_mpl",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_case_person",
+   "form": "ū",
+   "segments": [
+    "ū"
+   ],
+   "function": "plural new imperfective; plural imperfective",
+   "source": {
+    "unit": "\"yaqtulu and the TMA System\"",
+    "section": "§8.1",
+    "page": "270"
+   },
+   "notes": "Printed within *yaqtulūna; only the indicated affix is inventoried. The ending na is separately identified in the 2005 source, p. 165 n. 23. Also in Huehnergard 2005, \"1. *yaqtulu\", §II.1; summary item (1), p. 165 n. 23. Printed within *yaqtulūna; only the indicated affix is inventoried. Checked against the scan: ū, not the OCR ā. The note also explicitly identifies *-na."
+  },
+  {
+   "id": "cs_177",
+   "morpheme_id": "cs_indicative",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "plural imperfective ending after the plural marker",
+   "source": {
+    "unit": "\"yaqtulu and the TMA System\"",
+    "section": "§8.1",
+    "page": "270"
+   },
+   "notes": "Printed within *yaqtulūna; only the indicated affix is inventoried. The ending is explicitly identified as *-na in the 2005 source, p. 165 n. 23."
+  },
+  {
+   "id": "cs_178",
+   "morpheme_id": "cs_modal",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "a",
+   "segments": [
+    "a"
+   ],
+   "function": "modal: subjunctive, injunctive, cohortative; volitive or subjunctive",
+   "source": {
+    "unit": "\"yaqtulu and the TMA System\"",
+    "section": "§8.1",
+    "page": "271"
+   },
+   "notes": "Printed within yaqtula; only the indicated affix is inventoried.  Also in Huehnergard 2005, \"1. *yaqtulu\", §II.1; summary item (1), p. 165. Printed within yaqtula; only the indicated affix is inventoried."
+  },
+  {
+   "id": "cs_179",
+   "morpheme_id": "cs_energic",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "an",
+   "segments": [
+    "a",
+    "n"
+   ],
+   "function": "energic",
+   "source": {
+    "unit": "\"yaqtulu and the TMA System\"",
+    "section": "§8.1",
+    "page": "271"
+   },
+   "notes": "Printed within yaqtulan; only the indicated affix is inventoried. Two complete energic forms are printed separately, without optional-parenthesis notation."
+  },
+  {
+   "id": "cs_180",
+   "morpheme_id": "cs_energic",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "anna",
+   "segments": [
+    "a",
+    "n",
+    "n",
+    "a"
+   ],
+   "function": "energic",
+   "source": {
+    "unit": "\"yaqtulu and the TMA System\"",
+    "section": "§8.1",
+    "page": "271"
+   },
+   "notes": "Printed within yaqtulanna; only the indicated affix is inventoried. Two complete energic forms are printed separately, without optional-parenthesis notation."
+  },
+  {
+   "id": "cs_181",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "*yi",
+   "segments": [
+    "y",
+    "i"
+   ],
+   "function": "active G prefix with theme vowel a",
+   "source": {
+    "unit": "\"Prefixes of the active G stem (the 'Barth-Ginsberg Law')\"",
+    "section": "§8.2",
+    "page": "271"
+   },
+   "notes": "Printed within *yiqtal; only the indicated affix is inventoried. "
+  },
+  {
+   "id": "cs_182",
+   "morpheme_id": "cs_indicative",
+   "category": "verbal",
+   "side": "suffix",
+   "slot": "s_mood",
+   "form": "*-na",
+   "segments": [
+    "n",
+    "a"
+   ],
+   "function": "ending in the plural imperfective",
+   "source": {
+    "unit": "\"1. *yaqtulu\"",
+    "section": "§II.1; summary item (1)",
+    "page": "165 n. 23"
+   }
+  },
+  {
+   "id": "cs_183",
+   "morpheme_id": "cs_person_3",
+   "category": "verbal",
+   "side": "prefix",
+   "slot": "p_person",
+   "form": "ya",
+   "segments": [
+    "y",
+    "a"
+   ],
+   "function": "active G prefix with theme vowel u or i",
+   "source": {
+    "unit": "\"10. Barth-Ginsberg Law\"",
+    "section": "§II.10; summary item (11)",
+    "page": "180–181"
+   },
+   "notes": "Printed within yaqtul; only the indicated affix is inventoried. "
+  }
+ ],
+ "units_read": [
+  "TABLE 3.5 PROTO-SEMITIC ENCLITIC PERSONAL PRONOUNS",
+  "3.1.1 Personal pronouns",
+  "TABLE 3.6 THE PROTO-SEMITIC RELATIVE MARKER",
+  "3.3.2.1 Gender",
+  "3.3.2.2 Number",
+  "3.3.2.3 State and definiteness",
+  "3.3.2.4 Case and declension",
+  "TABLE 3.7 THE PROTO-SEMITIC CASE SYSTEM, ON *T'AːB- 'GOOD'",
+  "3.5.3 Inflection",
+  "TABLE 3.8 CONJUGATION OF THE SHORT PREFIX CONJUGATION (pcs) IN PS; *Ð-K-R 'TO INVOKE'",
+  "TABLE 3.9 CONJUGATION OF THE IMPERATIVE IN PS; *Ð-K-R 'TO INVOKE'",
+  "3.5.4 Non-finite forms",
+  "3.5.5 Derived stems and voice",
+  "\"The following derived stems can be reconstructed to PS\" (no caption)",
+  "3.6 Prepositions",
+  "\"A list of probable PS prepositions follows\" (no caption)",
+  "3.7 Conjunctions",
+  "3.10 Other particles",
+  "\"Hetzron's model and Central Semitic\"",
+  "\"Modifications to Hetzron's model\"",
+  "\"yaqtulu and the TMA System\"",
+  "\"Prefixes of the active G stem (the 'Barth-Ginsberg Law')\"",
+  "\"1. *yaqtulu\"",
+  "\"10. Barth-Ginsberg Law\""
+ ],
+ "units_without_entries": []
+}

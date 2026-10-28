@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | ḥālāḳ | SEDonline semet 1092 |  |
-| Arabic | ḫaluqa, ḫalaqa (HALOT 322) | HALOT 322 | gloss withheld |
+| Hebrew | ḥālāḳ (HALOT 323); ḥălaqlaqqôt (HALOT 324) | HALOT 323; HALOT 324 | gloss withheld |
+| Arabic | ḫaluqa, ḫalaqa (HALOT 322); ḫaliqa, ḫaluqa; ḫalaqahu (Lane 800); muḫallaq (Lane 803) | HALOT 322; Lane 800; Lane 803 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

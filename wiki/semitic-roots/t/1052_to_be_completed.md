@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | tm; tmm (T 342); tm (B 429) | T 342; B 429 | gloss withheld |
 | Hebrew | tmm (Kogan 2015, ch. 3 §5.3 no. 33) | Kogan 2015 ch. 3 §5.3 no. 33 | gloss withheld |
 | Syrian Aramaic | pa. tammem |  | gloss withheld |
-| Eblaitic | tam-mim (HALOT 1742) | HALOT 1742 | gloss withheld |
+| Eblaitic | tam-mim (HALOT 1742); da-da-mu /dad(a)mu/ (= Sum. gù-kin) (VE 222; Civil 2017, 98–99); Civil 2017, 125 also reads VE 42 da-ma-du, cf. 1164 | HALOT 1742; VE 222; Civil 2017, 98–99; Civil 2017 | gloss withheld |
 | Epigraphic South Arabian | Sab tmm (Kogan 2015, ch. 3 §5.3 no. 33; Sabaweb lemma 8544) | Kogan 2015 ch. 3 §5.3 no. 33; Sabaweb lemma 8544 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

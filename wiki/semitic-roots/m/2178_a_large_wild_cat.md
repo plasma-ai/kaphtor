@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ʔal-madīn- \[BK 2 1079\], \[Fr. IV 161\], \[TA1 IX 343\] | BK 2 1079; Fr. IV 161 | gloss withheld |
 | Akkadian | mindinu (middinu, mandinu) OB on \[CAD m2 85\], \[AHw. 655\] | CAD m2 85; AHw. 655 | gloss withheld |
-| Eblaitic | mu-da-ne-núm | MEE 4 007; MEE 4 0214 |  |
+| Eblaitic | mu-da-ne-núm | MEE 4 007; MEE 4 0214; MEE 4 96 ii 2f; MEE 4 116; Civil 2017, 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

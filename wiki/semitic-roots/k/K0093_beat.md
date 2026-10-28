@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0093_beat
 title: "*kamād-: 'beat'"
-desc: "Proto-Semitic *kamād-, 'beat': reflexes in 2 language(s)."
+desc: "Proto-Semitic *kamād-, 'beat': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0093"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | kamādu 'beat' | Anderson–Moser 2024 root kmd |  |
 | Arabic | kamada 'beat' | Anderson–Moser 2024 root kmd |  |
+| Eblaitic | gi-ma-da-tum, gi-me-da-tum, gi-me-da-du /kimdat/ (Sanmartín GlOS 1, 307) | Sanmartín GlOS 1, 307 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

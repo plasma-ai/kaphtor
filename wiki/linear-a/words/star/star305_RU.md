@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 10a .3–4 \*305-RU 2½, whole and undotted at the end of .3, the side written over an erasure (GORILA I 21), in a KU-NI-SU (emmer) list. Ug. d/ḏrʕ 'seed-grain' (DULAT 277–278), Heb. zeraʿ, OSArb. ḏrʾ (HALOT 282), the ʿ unwritten. Rivals: dr 'association' (DULAT 277), a personal name. One attestation.
+HT 10a .3–4 \*305-RU 2½, whole and undotted at the end of .3, the side written over an erasure (GORILA I 21), in the list headed KU-NI-SU 'the assembly'. Ug. d/ḏrʕ 'seed-grain' (DULAT 277–278), Heb. zeraʿ, OSArb. ḏrʾ (HALOT 282), the ʿ unwritten. Rivals: dr 'association' (DULAT 277), a personal name. One attestation.
 
 ### Cognates
 

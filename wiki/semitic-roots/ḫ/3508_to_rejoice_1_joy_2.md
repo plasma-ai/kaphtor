@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3508_to_rejoice_1_joy_2
 title: "*ḫdw: 'to rejoice' 1, 'joy' 2"
-desc: "Proto-Semitic *ḫdw, 'to rejoice' 1, 'joy' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḫdw, 'to rejoice' 1, 'joy' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3508"
@@ -34,6 +34,7 @@ updated: 2026-10-25T06:28:07Z
 | Ugaritic | ḫdw (HALOT 291) | HALOT 291 |  |
 | Aramaic | ḥdʾ (HALOT 291) | HALOT 291 |  |
 | Syrian Aramaic | ḥdā 'be glad, rejoice' (Payne Smith 127); ḥadwā 'gladness, joy' (Payne Smith 127) | Payne Smith 127 |  |
+| Eblaitic | /ḫudy/ 2: name ḫu-ti (Sanmartín GlOS 1, 268) | Sanmartín GlOS 1, 268 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

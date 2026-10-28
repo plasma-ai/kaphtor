@@ -49,6 +49,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-GORILA IV 95: QA-\*305-\[·\], \*305 dotted in the second transcription. The former divider was the worn third sign.
+GORILA IV 95: QA-\*305-\[·\], \*305 dotted in the second transcription; the worn third sign is not a divider.
 
 <!-- END kaphtor:record -->

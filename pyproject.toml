@@ -18,6 +18,11 @@ fetch = ["certifi", "httpx>=0.27,<1"]
 render = ["pillow>=13,<14"]
 # lq's SQL views over the Linear A data (tools/linear_a/lq.py).
 sql = ["duckdb>=1.5,<3"]
+# Paradigm B's frozen runner and its rerun (tools/linear_a/validation/paradigm_b.py reproduce, selftest). numpy 2.5
+# and scipy 1.18 need Python 3.12; on 3.11 the extra installs nothing and the rerun's tests skip.
+paradigm = ["numpy>=2.5,<3; python_version >= '3.12'", "scipy>=1.18,<2; python_version >= '3.12'"]
+# jsonschema: Protocol C's frozen C1 checker (tools/linear_a/validation/protocol_c.py reproduce).
+protocol-c = ["jsonschema>=4.23,<5"]
 
 [project.scripts]
 kaphtor = "tools.cli.main:main"
@@ -26,8 +31,10 @@ kaphtor = "tools.cli.main:main"
 Repository = "https://github.com/plasma-ai/kaphtor"
 
 [dependency-groups]
-# duckdb, so the suite runs lq's tests too.
-dev = ["pytest>=9,<10", "pre-commit>=4,<5", "duckdb>=1.5,<3"]
+# duckdb, so the suite runs lq's tests too; numpy and scipy, so it reruns Paradigm B; jsonschema, so it reruns
+# Protocol C's checker.
+dev = ["pytest>=9,<10", "pre-commit>=4,<5", "duckdb>=1.5,<3", "numpy>=2.5,<3; python_version >= '3.12'",
+       "scipy>=1.18,<2; python_version >= '3.12'", "jsonschema>=4.23,<5"]
 # The version the wiki builder and its toy-wiki trial were checked against.
 lint = ["plasma-wiki==1.2.0"]
 

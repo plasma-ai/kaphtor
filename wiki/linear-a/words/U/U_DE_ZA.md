@@ -53,6 +53,6 @@ Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DU|DU]] du, [[wi
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT122a .1 U-DE-ZA 2, whole and undotted, the numeral underdotted (GORILA I 207). First entry after \]RA-RI ·, in a list of names totalled KU-RO 31. The other face has A-RA-JU-U-DE-ZẠ 2 (HT122b .3, GORILA I 209), its last sign underdotted. No reading.
+HT122a .1 U-DE-ZA 2, whole and undotted, the numeral underdotted (GORILA I 207). First entry after \]RA-RI ·, in a list of names totalled KU-RO 31. The other face has A-RA-JU-U-DE-ZẠ 2 (HT122b .3, GORILA I 209), its last sign underdotted, after A-RA-JU ʾArāyu. No reading.
 
 <!-- END kaphtor:record -->

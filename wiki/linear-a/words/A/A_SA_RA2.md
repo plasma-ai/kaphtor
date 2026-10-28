@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT89 A-SA-RA₂ · \*307 (dubur 'sanctuary') heads five personnel classes, KU-RO 87, then rations of cyperus, figs and wine. Written as one group, with no divider or space between A and SA (GORILA I 141). /ʾasīr-/ 'captive(s)': Ug. åsr (DULAT 111); Akk. asīru, a western word of administrative lists, with rations for the prisoner compound (CAD A/2 331–32). Captives of the sanctuary, cf. the Gibeonites made hewers of wood and drawers of water for the house of God (Josh 9:23, 27) and the captives given to the Levites (Num 31:47); compare MA-I-MI, TA-RA. Rival: A + SA-RA₂ 'concerning the queen', A as abbreviated Akkadian aššum (EA 287:34; Huehnergard 2008: 285, 399), a cut the tablet does not mark. One witness.
+HT89 A-SA-RA₂ · \*307 (dubur 'sanctuary') heads five personnel classes, KU-RO 87, then rations of cyperus, figs and wine. Written as one group, with no divider or space between A and SA (GORILA I 141). /ʾasīr-/ 'captive(s)': Ug. åsr (DULAT 111), syllabic a-si-ru at Ugarit and Amarna (GlOS 1, 46); Akk. asīru, a western word of administrative lists, with rations for the prisoner compound (CAD A/2 331–32). Captives of the sanctuary, cf. the Gibeonites made hewers of wood and drawers of water for the house of God (Josh 9:23, 27) and the captives given to the Levites (Num 31:47); compare MA-I-MI, TA-RA. Rival: A + SA-RA₂ 'concerning the queen', A as abbreviated Akkadian aššum (EA 287:34; Huehnergard 2008: 285, 399), a cut the tablet does not mark. One witness.
 
 ### Cognates
 

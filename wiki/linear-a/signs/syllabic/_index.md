@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/syllabic
 title: Syllabic signs
 desc: Each syllabic sign with its value, its Linear B counterpart, the forms cited for it and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-27T20:25:40Z
+updated: 2026-10-28T19:41:00Z
 ---
 
 # Syllabic signs
@@ -128,7 +128,7 @@ updated: 2026-10-27T20:25:40Z
 
 [[wiki/linear-a/signs/syllabic/ZE|ZE]]: Linear A syllabic ZE, conventional: ze.
 
-[[wiki/linear-a/signs/syllabic/ZU|ZU]]: Linear A syllabic ZU, proposed.
+[[wiki/linear-a/signs/syllabic/ZU|ZU]]: Linear A syllabic ZU, proposed: ṯu.
 
 [[wiki/linear-a/signs/syllabic/star118|star118]]: Linear A syllabic *118, proposed: ṭa.
 

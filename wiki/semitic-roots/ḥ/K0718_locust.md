@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0718_locust
 title: "*ḥagab-: 'locust'"
-desc: "Proto-Semitic *ḥagab-, 'locust': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḥagab-, 'locust': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0718"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ḥgb 'grasshopper' | Anderson–Moser 2024 root ḥgb |  |
 | Hebrew | ḥagab 'locust' | Anderson–Moser 2024 root ḥgb |  |
 | Ugaritic | ḥgb 'locust' | Anderson–Moser 2024 root ḥgb |  |
+| Eblaitic | /ḥagib/: names ʔà-gi-bu₁₄, ʔà-gi-bù-um (Sanmartín GlOS 1, 234) | Sanmartín GlOS 1, 234 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

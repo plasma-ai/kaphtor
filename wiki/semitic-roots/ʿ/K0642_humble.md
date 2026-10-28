@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0642_humble
 title: "*ʿVnVw-: 'humble'"
-desc: "Proto-Semitic *ʿVnVw-, 'humble': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʿVnVw-, 'humble': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0642"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | \*ʿnh (HALOT 852) | HALOT 852 |  |
 | Judaic Aramaic | ʿanyā (HALOT 856) | HALOT 856 | gloss withheld |
 | Syrian Aramaic | ʿanwāyā (Kogan 2015, ch. 3 §5.2 no. 8) | Kogan 2015 ch. 3 §5.2 no. 8 | gloss withheld |
+| Amorite | ʿ-n-w: a-ni-te-el, ia-aḫ-ni-DINGIR (Sanmartín GlOS 1, 84) | Sanmartín GlOS 1, 84 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

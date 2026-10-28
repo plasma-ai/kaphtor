@@ -75,7 +75,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_JU\|KA-JU]] | kallû | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU\|KA-KU]] | Kakku | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | CANDIDATE |
+| [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA\|KA-NA]] | qana / qanû | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | CANDIDATE |

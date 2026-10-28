@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʕayir (HALOT 822), pB. ʕayir \[Ja. 1720\], ʕīr \[ibid.\] | HALOT 822; Ja. 1720 | gloss withheld |
 | Judaic Aramaic | \*ʕayir \[Ja. 1075\], \[Levy WTM III 643\]. // Sam. ʕyr \[Tal 634\]. | Ja. 1075; Levy WTM III 643; Tal 634 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʿr (Al-Jallad–Jaworska 54) | Al-Jallad–Jaworska 54 | gloss withheld |
-| Amorite | ḫâru, /ʿayra/im/ (Streck 2011, 367) | Streck 2011, 367 | gloss withheld |
+| Amorite | ḫâru, /ʿayra/im/ (Streck 2011, 367); ḫāru: ḫa-a-ru (ARM 26/2, 404: 33) (Streck 2000, 94); ʿayar: a-ia-ri-im (Sanmartín GlOS 1, 99) | Streck 2011, 367; Streck 2000 94; Sanmartín GlOS 1, 99 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

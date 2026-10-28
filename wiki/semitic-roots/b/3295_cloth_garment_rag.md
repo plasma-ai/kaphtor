@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*bVt- |
 | Meaning | 'cloth, garment; rag' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1764 |
 
 ## Reflexes
 
@@ -41,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PWS \*bVt- 'cloth' (EDA I 69 apud SEDonline 1764). Cf. 1640 \*batt- 'bottle'.
+PWS \*bVt- 'cloth' (SEDonline 1764); EDA I 68–69 (◊P0097) finds a connection of Akk. bittu 'weft' with Ugr. bt, Hbr. bat, Arb. batt- and the EthS 'rag' words not unlikely. Cf. 1640 \*batt- 'bottle'.
 
 <!-- END kaphtor:record -->

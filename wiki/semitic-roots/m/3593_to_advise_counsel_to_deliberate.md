@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3593_to_advise_counsel_to_deliberate
 title: "*mlk: 'to advise, counsel; to deliberate'"
-desc: "Proto-Semitic *mlk, 'to advise, counsel; to deliberate': reflexes in 5 language(s)."
+desc: "Proto-Semitic *mlk, 'to advise, counsel; to deliberate': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3593"
@@ -34,6 +34,8 @@ updated: 2026-10-26T14:26:59Z
 | Judaic Aramaic | milkā (HALOT 592) | HALOT 592 | gloss withheld |
 | Syrian Aramaic | mlak 'to counsel; to promise'; melkā 'counsel, advice' (Payne Smith 277) | Payne Smith 277 |  |
 | Mandaic Aramaic | mlk (HALOT 591) | HALOT 591 | gloss withheld |
+| Eblaitic | /miliktum/: name mi-li-gi-du (Scarpa 2020, 111) | Scarpa 2020, 111 | gloss withheld |
+| Amorite | milkum (Gelb AS 21, 25); milk-: \*milk- or \*milk- (Huffmon APNM 231) | Gelb AS 21 25; Huffmon APNM 231 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

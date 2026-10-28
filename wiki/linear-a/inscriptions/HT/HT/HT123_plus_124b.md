@@ -77,14 +77,14 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni(?) | Pistacia/terebinth oil or related processed product(?) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/star/star312\|\*312]] | kitnu(?) | flax or linen(?) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt-(?) | sixth(?) or sixth section(?) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | Pistacia/terebinth oil or related processed product(?) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/star/star312\|\*312]] | kitnu | flax or linen(?) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | sixth(?) or sixth section(?) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | recipient name | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/star/star188\|\*188]] | buṭnu(?) | Pistacia/terebinth product(?) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/star/star188\|\*188]] | buṭnu | Pistacia/terebinth product(?) | PROBABLE | PROBABLE (lexicon) |
 | \*188-DU | \[commodity subtype\] | DU-qualified \*188 product | CANDIDATE |  |
 | [[wiki/linear-a/words/T/TU_PA_DI_DA\|TU-PA-DI-DA]] | \[unknown\] | administrative label or name |  | unread |
-| [[wiki/linear-a/words/K/KA_NA\|KA-NA]] | qānā / qanû(?) | sweet cane or reed(?) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KA_NA\|KA-NA]] | qānā / qanû | sweet cane or reed(?) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SI_DU\|SI-DU]] |  | personal name(?). Not readable. |  | unread |
 | [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | \[unknown\] | administrative label or name |  | unread |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total, sum | CONFIRMED | CONFIRMED (lexicon) |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3579_to_obey_to_command
 title: "*wḳh: 'to obey; to command'"
-desc: "Proto-Semitic *wḳh, 'to obey; to command': reflexes in 3 language(s)."
+desc: "Proto-Semitic *wḳh, 'to obey; to command': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3579"
@@ -32,6 +32,8 @@ updated: 2026-10-26T14:26:59Z
 | Arabic | waqiha; ittaqaha (BK 2 1592); waqiha (Biella 144) | BK 2 1592; Biella 144 | gloss withheld |
 | Epigraphic South Arabian | Sab wqh; qh, qht (SD 161); wqh; qh, qht (Biella 144, 145) | SD 161; Biella 144, 145 | gloss withheld |
 | Hebrew | \*yǝqāhâ (cs. yiqqǝhat) (HALOT 430) | HALOT 430 | gloss withheld |
+| Amorite | w-q-h: ù-ga (Ur III) (Sanmartín GlOS 2, 348) | Sanmartín GlOS 2, 348 | gloss withheld |
+| Eblaitic | /w-q-h/: names ù-ga, ù-ga-ù, da-a-ga-ù (Sanmartín GlOS 2, 348) | Sanmartín GlOS 2, 348 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

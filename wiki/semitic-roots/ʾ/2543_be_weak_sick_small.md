@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2543_be_weak_sick_small
 title: "*ʾVnVš-: 'be weak, sick, small'"
-desc: "Proto-Semitic *ʾVnVš-, 'be weak, sick, small': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ʾVnVš-, 'be weak, sick, small': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2543"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | hannäsa, mans (Kogan 2015, ch. 7 §2.3 no. 77), mass | Kogan 2015 ch. 7 §2.3 no. 77 | gloss withheld |
 | Tigrinya | nuʔus (Kogan 2015, ch. 7 §2.3 no. 77) | Kogan 2015 ch. 7 §2.3 no. 77 | gloss withheld |
 | Syrian Aramaic | (?) nšš (HALOT 73) | HALOT 73 | gloss withheld |
+| Eblaitic | /ʾanis₁/: name a-ni-šu/šum (Sanmartín GlOS 1, 32) | Sanmartín GlOS 1, 32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

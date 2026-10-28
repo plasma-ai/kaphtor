@@ -23,7 +23,8 @@ updated: 2026-10-25T05:11:48Z
 |---|---|
 | Reconstruction | \*psps |
 | Meaning | 'to be spoiled; to break up' |
-| Basis | project |
+| Basis | SED |
+| SED | SEDonline 1976 |
 
 ## Reflexes
 
@@ -37,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*psps 'to be spoiled' (EDA I 401 apud SEDonline 1976). Cf. 2265 \*pVšpVš- 'bug'.
+PS \*psps 'to be spoiled' (SEDonline 1976); EDA I 401 (◊P0727) does not rule out a connection of Tna. fäsfäsä, Mhr. fásfəs and Jib. əfsfés with Akk. pasāsu 'to erase, to cancel', presuming a biconsonantal element \*ps 'to break'. Cf. 2265 \*pVšpVš- 'bug'.
 
 <!-- END kaphtor:record -->

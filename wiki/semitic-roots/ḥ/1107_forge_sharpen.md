@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḥdd u/i,1 |  |  |
+| Arabic | ḥdd u/i,1; ḥadda 'he edged, or sharpened, a knife … with a stone or file' (Lane 524) | Lane 524 |  |
 | Hebrew | ḥdd (hof.); \*ḥad (HALOT 291) | HALOT 291 | gloss withheld |
 | Akkadian | edēdu; eddu (HALOT 291) | HALOT 291 | gloss withheld |
 | Amorite | ḥiddu, ḥadīdu (Buck 2019, 327) | Buck 2019, 327 | gloss withheld |

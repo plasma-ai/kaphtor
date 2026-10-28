@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | bsr, bǝsar (DJPA 116a apud CAL) | DJPA 116a; CAL |  |
 | Tigrinya | bsr |  |  |
 | Soqotri | baššara (HALOT 163) | HALOT 163 |  |
-| Amorite | bśr: jibaśśir (Gelb AS 21, 17) | Gelb AS 21 17 | gloss withheld |
+| Amorite | bśr: jibaśśir (Gelb AS 21, 17); b-S-r: i-ba-ás-si-ir, la-ba-ša-ar; cf. place name ḪUR.SAG ba-ša-ar (Sanmartín GlOS 1, 129) | Gelb AS 21 17; Sanmartín GlOS 1, 129 | gloss withheld |
 | Aramaic | CPA bsr (DCPA 54 apud SEDonline 1312) | SEDonline 1312 | gloss withheld |
 | Jibbali | ōŝər (JL 29 apud SEDonline 1312) | JL 29; SEDonline 1312 | gloss withheld |
 

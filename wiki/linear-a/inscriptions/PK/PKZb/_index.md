@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/PK/PKZb
 desc: "Inscriptions from Palaikastro, series PKZb."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-28T21:25:46Z
 ---
 
 # wiki/linear-a/inscriptions/PK/PKZb
@@ -19,7 +19,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/inscriptions/PK/PKZb/PKZb25|PKZb25]]: Clay vessel, Palaikastro. Translation: none.
 
-[[wiki/linear-a/inscriptions/PK/PKZb/PKZb26|PKZb26]]: Clay vessel, Palaikastro. Translation: none.
+[[wiki/linear-a/inscriptions/PK/PKZb/PKZb26|PKZb26]]: Clay vessel, Palaikastro. Translation: complete (CANDIDATE).
 
 [[wiki/linear-a/inscriptions/PK/PKZb/PKZbX|PKZbX]]: Clay vessel, Palaikastro. Translation: complete (PROBABLE).
 

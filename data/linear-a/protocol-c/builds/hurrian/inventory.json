@@ -1,0 +1,5809 @@
+{
+  "arm": "hurrian",
+  "grammar": {
+    "citation": "Ilse Wegner, Einführung in die hurritische Sprache. Wiesbaden: Harrassowitz Verlag, 2000.",
+    "file_sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "builder": {
+    "model": "runner",
+    "session_started_utc": "1970-01-01T00:00:00Z",
+    "transcript_file": "runner"
+  },
+  "class_order": {
+    "prefix": [
+      "p_clitic",
+      "p_preposition",
+      "p_article",
+      "p_person",
+      "p_stem"
+    ],
+    "suffix": [
+      "s_stem",
+      "s_gender_number",
+      "s_case_person",
+      "s_mood",
+      "s_pronoun",
+      "s_enclitic"
+    ],
+    "basis": [
+      {
+        "statement": "Tabelle 1 und Tabelle 2 ordnen Artikel, Possessiv-Pronomen, Pluralisator, Kasus, Suffixaufnahme, Pluralität und Kasus des Bezugswortes, enklitische Pronomina, syntaktische Partikeln an. Diese Reihenfolge ist mit den einmalig verwendbaren Schema-Slots nicht vollständig darstellbar: s_pronoun und s_gender_number müssten wiederholt werden. Deshalb bleibt die Vorlagenreihenfolge als technische Projektion erhalten; sie behauptet keine vollständige hurritische Suffixkette. Siehe notes.md.",
+        "section": "II.C.2, Tabelle 1 und Tabelle 2",
+        "page": "65, 69"
+      },
+      {
+        "statement": "Die verbalen Tabellen stellen Wurzelerweiterungen, Tempus und Transitivitäts-/Negationskennzeichen vor Subjektanzeiger, danach Pluralität, enklitische Pronomina und syntaktische Partikeln. Tabelle 8 bis 11 stellen die Modalformanten vor Personen- bzw. Pluralanzeiger; diese wurzelnahen Modalformanten stehen daher in s_stem, finite Personen-/Numerusendungen in s_case_person.",
+        "section": "II.C.4, Tabelle 3–11",
+        "page": "80, 82, 85–86, 88, 92–95"
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": "hurrian_001",
+      "morpheme_id": "hurrian_poss_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-iffə",
+      "segments": [
+        "i",
+        "f",
+        "f",
+        "ə"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 1. Person Singular.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "54"
+      },
+      "notes": "Im Absolutiv und im absoluten Auslaut; ə bezeichnet unsichere Auslautung (Anm. 59). Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_002",
+      "morpheme_id": "hurrian_poss_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-iffe",
+      "segments": [
+        "i",
+        "f",
+        "f",
+        "e"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 1. Person Singular.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "54"
+      },
+      "notes": "Im Absolutiv vor weiteren Suffixen. Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_003",
+      "morpheme_id": "hurrian_poss_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-iff=u-",
+      "segments": [
+        "i",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 1. Person Singular.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "54"
+      },
+      "notes": "Mit Bindevokal -u- vor Genitiv, Dativ und wohl allen konsonantisch anlautenden Kasus."
+    },
+    {
+      "id": "hurrian_004",
+      "morpheme_id": "hurrian_poss_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-v",
+      "segments": [
+        "v"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 2. Person Singular.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      },
+      "notes": "Themavokal bleibt erhalten."
+    },
+    {
+      "id": "hurrian_005",
+      "morpheme_id": "hurrian_poss_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "(-b/p)",
+      "segments": [
+        "b"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 2. Person Singular.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      },
+      "notes": "In Klammern angegebene Varianten zu -v; keine fakultative Nullrealisierung gemeint."
+    },
+    {
+      "id": "hurrian_006",
+      "morpheme_id": "hurrian_poss_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "(-b/p)",
+      "segments": [
+        "p"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 2. Person Singular.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      },
+      "notes": "In Klammern angegebene Varianten zu -v; keine fakultative Nullrealisierung gemeint."
+    },
+    {
+      "id": "hurrian_007",
+      "morpheme_id": "hurrian_poss_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-i-",
+      "segments": [
+        "i"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 3. Person Singular.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      },
+      "notes": "Themavokal des Substantivs fällt weg. Weitere Belege derselben Schreibung: Tabelle 2 (S. 69); 5. Die Postpositionen und Partikeln (S. 97)."
+    },
+    {
+      "id": "hurrian_008",
+      "morpheme_id": "hurrian_poss_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-iff + aš",
+      "segments": [
+        "i",
+        "f",
+        "f",
+        "a",
+        "š"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 1. Person Plural.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      }
+    },
+    {
+      "id": "hurrian_009",
+      "morpheme_id": "hurrian_poss_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "iffāš",
+      "segments": [
+        "i",
+        "f",
+        "f",
+        "ā",
+        "š"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 1. Person Plural.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      }
+    },
+    {
+      "id": "hurrian_010",
+      "morpheme_id": "hurrian_poss_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-šu?",
+      "segments": [
+        "š",
+        "u"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 2. Person Plural.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      },
+      "notes": "Bei -šu? ist die Bestimmung unsicher; nur in der Bilingue belegt."
+    },
+    {
+      "id": "hurrian_011",
+      "morpheme_id": "hurrian_poss_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-i + aš",
+      "segments": [
+        "i",
+        "a",
+        "š"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 3. Person Plural.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      }
+    },
+    {
+      "id": "hurrian_012",
+      "morpheme_id": "hurrian_poss_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "iaš",
+      "segments": [
+        "i",
+        "a",
+        "š"
+      ],
+      "function": "Enklitisches Possessiv-Pronomen, 3. Person Plural.",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      }
+    },
+    {
+      "id": "hurrian_013",
+      "morpheme_id": "hurrian_nom_plural",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "-aš-",
+      "segments": [
+        "a",
+        "š"
+      ],
+      "function": "Plural des Possessiv-Suffixes und Plural vor Kasusmorphemen (außer im Absolutiv).",
+      "source": {
+        "unit": "II.C.2, 2. Position (list)",
+        "section": "II.C.2, 2. Position (list)",
+        "page": "55"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 1 (S. 65); Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_014",
+      "morpheme_id": "hurrian_article_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "-(na)",
+      "segments": [
+        "n",
+        "a"
+      ],
+      "function": "Absolutiv Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_015",
+      "morpheme_id": "hurrian_erg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-š",
+      "segments": [
+        "š"
+      ],
+      "function": "Ergativ Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 1 (S. 65); Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_016",
+      "morpheme_id": "hurrian_erg_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aš=u=š",
+      "segments": [
+        "a",
+        "š",
+        "u",
+        "š"
+      ],
+      "function": "Ergativ Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_017",
+      "morpheme_id": "hurrian_gen",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ve",
+      "segments": [
+        "v",
+        "e"
+      ],
+      "function": "Genitiv Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 1 (S. 65); Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_018",
+      "morpheme_id": "hurrian_gen_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aš=ve",
+      "segments": [
+        "a",
+        "š",
+        "v",
+        "e"
+      ],
+      "function": "Genitiv Plural; so nur in Nuzi.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_019",
+      "morpheme_id": "hurrian_gen_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "aše",
+      "segments": [
+        "a",
+        "š",
+        "e"
+      ],
+      "function": "Genitiv Plural; sonst.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_020",
+      "morpheme_id": "hurrian_dat",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-va",
+      "segments": [
+        "v",
+        "a"
+      ],
+      "function": "Dativ Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 1 (S. 65); Tabelle 2 (S. 69); 5. Die Postpositionen und Partikeln (S. 98)."
+    },
+    {
+      "id": "hurrian_021",
+      "morpheme_id": "hurrian_dat_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-*aš=va",
+      "segments": [
+        "a",
+        "š",
+        "v",
+        "a"
+      ],
+      "function": "Dativ Plural; Ausgangsform der angegebenen Entwicklung.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_022",
+      "morpheme_id": "hurrian_dat_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "aša",
+      "segments": [
+        "a",
+        "š",
+        "a"
+      ],
+      "function": "Dativ Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_023",
+      "morpheme_id": "hurrian_dir",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-t/da",
+      "segments": [
+        "t",
+        "a"
+      ],
+      "function": "Direktiv Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_024",
+      "morpheme_id": "hurrian_dir",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-t/da",
+      "segments": [
+        "d",
+        "a"
+      ],
+      "function": "Direktiv Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_025",
+      "morpheme_id": "hurrian_dir",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-u-da",
+      "segments": [
+        "u",
+        "d",
+        "a"
+      ],
+      "function": "Direktiv Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_026",
+      "morpheme_id": "hurrian_dir_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aš=ta",
+      "segments": [
+        "a",
+        "š",
+        "t",
+        "a"
+      ],
+      "function": "Direktiv Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_027",
+      "morpheme_id": "hurrian_abl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-t/dan",
+      "segments": [
+        "t",
+        "a",
+        "n"
+      ],
+      "function": "Ablativ Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_028",
+      "morpheme_id": "hurrian_abl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-t/dan",
+      "segments": [
+        "d",
+        "a",
+        "n"
+      ],
+      "function": "Ablativ Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_029",
+      "morpheme_id": "hurrian_abl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-u-dan",
+      "segments": [
+        "u",
+        "d",
+        "a",
+        "n"
+      ],
+      "function": "Ablativ Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_030",
+      "morpheme_id": "hurrian_abl_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aš=tan",
+      "segments": [
+        "a",
+        "š",
+        "t",
+        "a",
+        "n"
+      ],
+      "function": "Ablativ Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_031",
+      "morpheme_id": "hurrian_com",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ra",
+      "segments": [
+        "r",
+        "a"
+      ],
+      "function": "Komitativ Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_032",
+      "morpheme_id": "hurrian_com_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aš=u=ra",
+      "segments": [
+        "a",
+        "š",
+        "u",
+        "r",
+        "a"
+      ],
+      "function": "Komitativ Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_033",
+      "morpheme_id": "hurrian_equ_adv",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-nna",
+      "segments": [
+        "n",
+        "n",
+        "a"
+      ],
+      "function": "Äquativ-Adverbialis Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_034",
+      "morpheme_id": "hurrian_equ_adv_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aš=u=nna",
+      "segments": [
+        "a",
+        "š",
+        "u",
+        "n",
+        "n",
+        "a"
+      ],
+      "function": "Äquativ-Adverbialis Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_035",
+      "morpheme_id": "hurrian_equ_bog",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-uš",
+      "segments": [
+        "u",
+        "š"
+      ],
+      "function": "Äquativ (Boğ.).",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_036",
+      "morpheme_id": "hurrian_instr",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ae",
+      "segments": [
+        "a",
+        "e"
+      ],
+      "function": "Instrumental, auch adverbial.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_037",
+      "morpheme_id": "hurrian_loc_instr",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ni/e?",
+      "segments": [
+        "n",
+        "i"
+      ],
+      "function": "Lokativ-Instrumental (auch Abl.-Instr.); unsicher.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_038",
+      "morpheme_id": "hurrian_loc_instr",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ni/e?",
+      "segments": [
+        "n",
+        "e"
+      ],
+      "function": "Lokativ-Instrumental (auch Abl.-Instr.); unsicher.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_039",
+      "morpheme_id": "hurrian_ess",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-a",
+      "segments": [
+        "a"
+      ],
+      "function": "Essiv Singular.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_040",
+      "morpheme_id": "hurrian_ess_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aš=a",
+      "segments": [
+        "a",
+        "š",
+        "a"
+      ],
+      "function": "Essiv Plural.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_041",
+      "morpheme_id": "hurrian_adv",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-nni",
+      "segments": [
+        "n",
+        "n",
+        "i"
+      ],
+      "function": "Adverbialis.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_042",
+      "morpheme_id": "hurrian_adv",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-nnae",
+      "segments": [
+        "n",
+        "n",
+        "a",
+        "e"
+      ],
+      "function": "Adverbialis; aus -nn(i) + ae.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_043",
+      "morpheme_id": "hurrian_e_case",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-e?",
+      "segments": [
+        "e"
+      ],
+      "function": "Kasus auf -e?; unsicher.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      }
+    },
+    {
+      "id": "hurrian_044",
+      "morpheme_id": "hurrian_gen",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "/fe/",
+      "segments": [
+        "f",
+        "e"
+      ],
+      "function": "Genitiv; Lautung nach Anm. 65.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Grundlautung mit „wohl“ eingeschränkt; [v] nach Vokal, [w] nach u. Lautschrift der Tabellenfußnote."
+    },
+    {
+      "id": "hurrian_045",
+      "morpheme_id": "hurrian_gen",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "[ve]",
+      "segments": [
+        "v",
+        "e"
+      ],
+      "function": "Genitiv; Lautung nach Anm. 65.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Grundlautung mit „wohl“ eingeschränkt; [v] nach Vokal, [w] nach u. Lautschrift der Tabellenfußnote."
+    },
+    {
+      "id": "hurrian_046",
+      "morpheme_id": "hurrian_gen",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "[we]",
+      "segments": [
+        "w",
+        "e"
+      ],
+      "function": "Genitiv; Lautung nach Anm. 65.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Grundlautung mit „wohl“ eingeschränkt; [v] nach Vokal, [w] nach u. Lautschrift der Tabellenfußnote."
+    },
+    {
+      "id": "hurrian_047",
+      "morpheme_id": "hurrian_dat",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "/fa/",
+      "segments": [
+        "f",
+        "a"
+      ],
+      "function": "Dativ; Lautung nach Anm. 66.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Grundlautung mit „wohl“ eingeschränkt; [v] nach Vokal, [w] nach u. Lautschrift der Tabellenfußnote."
+    },
+    {
+      "id": "hurrian_048",
+      "morpheme_id": "hurrian_dat",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "[va]",
+      "segments": [
+        "v",
+        "a"
+      ],
+      "function": "Dativ; Lautung nach Anm. 66.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Grundlautung mit „wohl“ eingeschränkt; [v] nach Vokal, [w] nach u. Lautschrift der Tabellenfußnote."
+    },
+    {
+      "id": "hurrian_049",
+      "morpheme_id": "hurrian_dat",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "[wa]",
+      "segments": [
+        "w",
+        "a"
+      ],
+      "function": "Dativ; Lautung nach Anm. 66.",
+      "source": {
+        "unit": "II.C.2, 4. Position (untitled table)",
+        "section": "II.C.2, 4. Position (untitled table)",
+        "page": "57"
+      },
+      "notes": "Grundlautung mit „wohl“ eingeschränkt; [v] nach Vokal, [w] nach u. Lautschrift der Tabellenfußnote."
+    },
+    {
+      "id": "hurrian_050",
+      "morpheme_id": "hurrian_article_sg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "-ni",
+      "segments": [
+        "n",
+        "i"
+      ],
+      "function": "Sog. „Artikel“, Singular.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_051",
+      "morpheme_id": "hurrian_article_sg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "/ne/",
+      "segments": [
+        "n",
+        "e"
+      ],
+      "function": "Sog. „Artikel“, Singular; Lautung.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_052",
+      "morpheme_id": "hurrian_article_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "-na",
+      "segments": [
+        "n",
+        "a"
+      ],
+      "function": "Sog. „Artikel“, Plural.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_053",
+      "morpheme_id": "hurrian_relator_sg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "-NE-",
+      "segments": [
+        "N",
+        "E"
+      ],
+      "function": "Suffixaufnahme; Singular des Bezugswortes.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Kapitälchen der Tabelle als Großbuchstaben bewahrt; N und E/A sind einzelne Segmente, kein Decksymbol. Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_054",
+      "morpheme_id": "hurrian_relator_pl",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "-NA-",
+      "segments": [
+        "N",
+        "A"
+      ],
+      "function": "Suffixaufnahme; Plural des Bezugswortes.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Kapitälchen der Tabelle als Großbuchstaben bewahrt; N und E/A sind einzelne Segmente, kein Decksymbol. Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_055",
+      "morpheme_id": "hurrian_dir",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ta",
+      "segments": [
+        "t",
+        "a"
+      ],
+      "function": "Direktiv.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 2 (S. 69)."
+    },
+    {
+      "id": "hurrian_056",
+      "morpheme_id": "hurrian_assoc_an",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "-an",
+      "segments": [
+        "a",
+        "n"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): „und“; verbindet Wörter, Verben oder Sätze.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 2 (S. 69); II.C.2, 9. Position (list) (S. 68); Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86); Tabelle 8 (S. 88); Tabelle 9 (S. 92); Tabelle 10 (S. 93); Tabelle 11 (S. 95); 5. Die Postpositionen und Partikeln (S. 100); Die enklitischen Partikeln oder „Assoziative“ (S. 100)."
+    },
+    {
+      "id": "hurrian_057",
+      "morpheme_id": "hurrian_assoc_man",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "-man",
+      "segments": [
+        "m",
+        "a",
+        "n"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): „aber, eben o.ä.“",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 2 (S. 69); Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86); Tabelle 9 (S. 92); 5. Die Postpositionen und Partikeln (S. 100); Die enklitischen Partikeln oder „Assoziative“ (S. 100)."
+    },
+    {
+      "id": "hurrian_058",
+      "morpheme_id": "hurrian_gen",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ve-",
+      "segments": [
+        "v",
+        "e"
+      ],
+      "function": "Genitiv, Position 4.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      }
+    },
+    {
+      "id": "hurrian_059",
+      "morpheme_id": "hurrian_poss_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-iff-u",
+      "segments": [
+        "i",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Possessiv-Pronomen 1. Sg. mit Bindevokal.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      }
+    },
+    {
+      "id": "hurrian_060",
+      "morpheme_id": "hurrian_encl_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-tta/t",
+      "segments": [
+        "t",
+        "t",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_061",
+      "morpheme_id": "hurrian_encl_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-tta/t",
+      "segments": [
+        "t"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_062",
+      "morpheme_id": "hurrian_encl_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-mma/m",
+      "segments": [
+        "m",
+        "m",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_063",
+      "morpheme_id": "hurrian_encl_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-mma/m",
+      "segments": [
+        "m"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_064",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-nna/n",
+      "segments": [
+        "n",
+        "n",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82)."
+    },
+    {
+      "id": "hurrian_065",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-nna/n",
+      "segments": [
+        "n"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82)."
+    },
+    {
+      "id": "hurrian_066",
+      "morpheme_id": "hurrian_encl_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-tilla/til",
+      "segments": [
+        "t",
+        "i",
+        "l",
+        "l",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 5 und 6 (S. 85)."
+    },
+    {
+      "id": "hurrian_067",
+      "morpheme_id": "hurrian_encl_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-tilla/til",
+      "segments": [
+        "t",
+        "i",
+        "l"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 5 und 6 (S. 85)."
+    },
+    {
+      "id": "hurrian_068",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-ffa/f",
+      "segments": [
+        "f",
+        "f",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 5 und 6 (S. 85)."
+    },
+    {
+      "id": "hurrian_069",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-ffa/f",
+      "segments": [
+        "f"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 5 und 6 (S. 85)."
+    },
+    {
+      "id": "hurrian_070",
+      "morpheme_id": "hurrian_encl_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-lla/l",
+      "segments": [
+        "l",
+        "l",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 5 und 6 (S. 85)."
+    },
+    {
+      "id": "hurrian_071",
+      "morpheme_id": "hurrian_encl_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-lla/l",
+      "segments": [
+        "l"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 1",
+        "section": "II.C.2",
+        "page": "65"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 5 und 6 (S. 85)."
+    },
+    {
+      "id": "hurrian_072",
+      "morpheme_id": "hurrian_poss_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-iff-",
+      "segments": [
+        "i",
+        "f",
+        "f"
+      ],
+      "function": "Possessiv-Pronomen 1. Sg., vor Bindevokal.",
+      "source": {
+        "unit": "Tabelle 2",
+        "section": "II.C.2",
+        "page": "69"
+      }
+    },
+    {
+      "id": "hurrian_073",
+      "morpheme_id": "hurrian_poss_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-v-",
+      "segments": [
+        "v"
+      ],
+      "function": "Possessiv-Pronomen 2. Sg.",
+      "source": {
+        "unit": "Tabelle 2",
+        "section": "II.C.2",
+        "page": "69"
+      }
+    },
+    {
+      "id": "hurrian_074",
+      "morpheme_id": "hurrian_encl_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-tta",
+      "segments": [
+        "t",
+        "t",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 2",
+        "section": "II.C.2",
+        "page": "69"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.2, 8. Position (untitled table) (S. 66); Tabelle 8 (S. 88); Tabelle 10 (S. 93); Tabelle 11 (S. 95); II.C.4, 12. (S. 90)."
+    },
+    {
+      "id": "hurrian_075",
+      "morpheme_id": "hurrian_encl_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-mma",
+      "segments": [
+        "m",
+        "m",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 2",
+        "section": "II.C.2",
+        "page": "69"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.2, 8. Position (untitled table) (S. 66); Tabelle 8 (S. 88); Tabelle 11 (S. 95)."
+    },
+    {
+      "id": "hurrian_076",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-nna",
+      "segments": [
+        "n",
+        "n",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 2",
+        "section": "II.C.2",
+        "page": "69"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.2, 8. Position (untitled table) (S. 66); Tabelle 8 (S. 88); Tabelle 11 (S. 95); II.C.4, 12. (S. 91)."
+    },
+    {
+      "id": "hurrian_077",
+      "morpheme_id": "hurrian_encl_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-t",
+      "segments": [
+        "t"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_078",
+      "morpheme_id": "hurrian_encl_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "[-d]",
+      "segments": [
+        "d"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_079",
+      "morpheme_id": "hurrian_encl_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-m",
+      "segments": [
+        "m"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_080",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-n",
+      "segments": [
+        "n"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_081",
+      "morpheme_id": "hurrian_encl_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-tilla",
+      "segments": [
+        "t",
+        "i",
+        "l",
+        "l",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 8 (S. 88)."
+    },
+    {
+      "id": "hurrian_082",
+      "morpheme_id": "hurrian_encl_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "[-dilla]",
+      "segments": [
+        "d",
+        "i",
+        "l",
+        "l",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_083",
+      "morpheme_id": "hurrian_encl_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-til",
+      "segments": [
+        "t",
+        "i",
+        "l"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_084",
+      "morpheme_id": "hurrian_encl_1pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "[-dil]",
+      "segments": [
+        "d",
+        "i",
+        "l"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_085",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-ppa",
+      "segments": [
+        "p",
+        "p",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_086",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "[-ffa]",
+      "segments": [
+        "f",
+        "f",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      },
+      "notes": "[-ffa]: so in der Boğ.-Bil. bezeugt."
+    },
+    {
+      "id": "hurrian_087",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-p",
+      "segments": [
+        "p"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_088",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "[b/v]",
+      "segments": [
+        "b"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_089",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "[b/v]",
+      "segments": [
+        "v"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_090",
+      "morpheme_id": "hurrian_encl_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-lla",
+      "segments": [
+        "l",
+        "l",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 8 (S. 88); Tabelle 9 (S. 92)."
+    },
+    {
+      "id": "hurrian_091",
+      "morpheme_id": "hurrian_encl_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-l",
+      "segments": [
+        "l"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.2, 8. Position (untitled table)",
+        "section": "II.C.2, 8. Position (untitled table)",
+        "page": "66"
+      }
+    },
+    {
+      "id": "hurrian_092",
+      "morpheme_id": "hurrian_assoc_man",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "/man/",
+      "segments": [
+        "m",
+        "a",
+        "n"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): „aber, eben o.ä.“",
+      "source": {
+        "unit": "II.C.2, 9. Position (list)",
+        "section": "II.C.2, 9. Position (list)",
+        "page": "68"
+      }
+    },
+    {
+      "id": "hurrian_093",
+      "morpheme_id": "hurrian_assoc_man",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "/mān/",
+      "segments": [
+        "m",
+        "ā",
+        "n"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): „aber, eben o.ä.“",
+      "source": {
+        "unit": "II.C.2, 9. Position (list)",
+        "section": "II.C.2, 9. Position (list)",
+        "page": "68"
+      }
+    },
+    {
+      "id": "hurrian_094",
+      "morpheme_id": "hurrian_assoc_nin",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "-nin",
+      "segments": [
+        "n",
+        "i",
+        "n"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): „fürwahr o.ä.“; steht immer am Wortende.",
+      "source": {
+        "unit": "II.C.2, 9. Position (list)",
+        "section": "II.C.2, 9. Position (list)",
+        "page": "68"
+      },
+      "notes": "Weitere Belege derselben Schreibung: 5. Die Postpositionen und Partikeln (S. 100); Die enklitischen Partikeln oder „Assoziative“ (S. 100)."
+    },
+    {
+      "id": "hurrian_095",
+      "morpheme_id": "hurrian_assoc_mmaman",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "-mma-man",
+      "segments": [
+        "m",
+        "m",
+        "a",
+        "m",
+        "a",
+        "n"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): „und nämlich, und zwar“ oder ähnlich.",
+      "source": {
+        "unit": "II.C.2, 9. Position (list)",
+        "section": "II.C.2, 9. Position (list)",
+        "page": "68"
+      }
+    },
+    {
+      "id": "hurrian_096",
+      "morpheme_id": "hurrian_preterite",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-oš-",
+      "segments": [
+        "o",
+        "š"
+      ],
+      "function": "Präteritum; perfektiver Aspekt (beendete Handlung/Zustand).",
+      "source": {
+        "unit": "II.C.4, 2. Position (untitled table)",
+        "section": "II.C.4, 2. Position (untitled table)",
+        "page": "77"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86); Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_097",
+      "morpheme_id": "hurrian_future",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-et-",
+      "segments": [
+        "e",
+        "t"
+      ],
+      "function": "Futur; imperfektiver Aspekt (nicht beendete Handlung/Zustand).",
+      "source": {
+        "unit": "II.C.4, 2. Position (untitled table)",
+        "section": "II.C.4, 2. Position (untitled table)",
+        "page": "77"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86); Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_098",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av",
+      "segments": [
+        "a",
+        "v"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 1. Pers. Sg.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_099",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-affu-",
+      "segments": [
+        "a",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 1. Pers. Sg., Langform vor enkl. Pron. und nach Negationssuffix.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_100",
+      "morpheme_id": "hurrian_agent_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o",
+      "segments": [
+        "o"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 2. Pers. Sg.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 7 (S. 86); Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_101",
+      "morpheme_id": "hurrian_agent_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-a",
+      "segments": [
+        "a"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 3. Pers. Sg.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 7 (S. 86); Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_102",
+      "morpheme_id": "hurrian_agent_1pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av + š(a)",
+      "segments": [
+        "a",
+        "v",
+        "š"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 1. Pers. Pl.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_103",
+      "morpheme_id": "hurrian_agent_1pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av + š(a)",
+      "segments": [
+        "a",
+        "v",
+        "š",
+        "a"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 1. Pers. Pl.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_104",
+      "morpheme_id": "hurrian_agent_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-aššu",
+      "segments": [
+        "a",
+        "š",
+        "š",
+        "u"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 2. Pers. Pl.; nur in der Boğ.-Bil.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_105",
+      "morpheme_id": "hurrian_agent_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-a + š(a)",
+      "segments": [
+        "a",
+        "š"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 3. Pers. Pl.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_106",
+      "morpheme_id": "hurrian_agent_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-a + š(a)",
+      "segments": [
+        "a",
+        "š",
+        "a"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 3. Pers. Pl.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_107",
+      "morpheme_id": "hurrian_agent_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-t + a",
+      "segments": [
+        "t",
+        "a"
+      ],
+      "function": "Personenanzeiger (= Subjektanzeiger), transitiv-ergativisch positiv: 3. Pers. Pl.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_108",
+      "morpheme_id": "hurrian_verb_plural",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-š",
+      "segments": [
+        "š"
+      ],
+      "function": "Pluralisator nach dem Personenanzeiger; -ša vor weiteren Formanten.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 14. (S. 93)."
+    },
+    {
+      "id": "hurrian_109",
+      "morpheme_id": "hurrian_verb_plural",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ša",
+      "segments": [
+        "š",
+        "a"
+      ],
+      "function": "Pluralisator nach dem Personenanzeiger; -ša vor weiteren Formanten.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 14. (S. 93)."
+    },
+    {
+      "id": "hurrian_110",
+      "morpheme_id": "hurrian_verb_plural",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-š(a)",
+      "segments": [
+        "š"
+      ],
+      "function": "Pluralisator nach dem Personenanzeiger; -ša vor weiteren Formanten.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 10 (S. 93); Tabelle 11 (S. 95); Tabelle 13 (S. 114); II.C.4, 14. (S. 94); II.C.4, 15. (S. 95)."
+    },
+    {
+      "id": "hurrian_111",
+      "morpheme_id": "hurrian_verb_plural",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-š(a)",
+      "segments": [
+        "š",
+        "a"
+      ],
+      "function": "Pluralisator nach dem Personenanzeiger; -ša vor weiteren Formanten.",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 10 (S. 93); Tabelle 11 (S. 95); Tabelle 13 (S. 114); II.C.4, 14. (S. 94); II.C.4, 15. (S. 95)."
+    },
+    {
+      "id": "hurrian_112",
+      "morpheme_id": "hurrian_verb_plural_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-t-",
+      "segments": [
+        "t"
+      ],
+      "function": "Pluralisator; als Allophon von -id- anerkannt (Anm. 77).",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      }
+    },
+    {
+      "id": "hurrian_113",
+      "morpheme_id": "hurrian_verb_plural_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-id-",
+      "segments": [
+        "i",
+        "d"
+      ],
+      "function": "Pluralisator (Anm. 77).",
+      "source": {
+        "unit": "II.C.4, 7. Position (list)",
+        "section": "II.C.4, 7. Position (list)",
+        "page": "78"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 12 (S. 112)."
+    },
+    {
+      "id": "hurrian_114",
+      "morpheme_id": "hurrian_caus",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-an(n)-",
+      "segments": [
+        "a",
+        "n"
+      ],
+      "function": "Kausativ.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "75"
+      }
+    },
+    {
+      "id": "hurrian_115",
+      "morpheme_id": "hurrian_caus",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-an(n)-",
+      "segments": [
+        "a",
+        "n",
+        "n"
+      ],
+      "function": "Kausativ.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "75"
+      }
+    },
+    {
+      "id": "hurrian_116",
+      "morpheme_id": "hurrian_fact_am",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-am-",
+      "segments": [
+        "a",
+        "m"
+      ],
+      "function": "Faktitiv.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_117",
+      "morpheme_id": "hurrian_fact_iter_ar",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ar-",
+      "segments": [
+        "a",
+        "r"
+      ],
+      "function": "Faktitiv und Iterativ.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 7 (S. 86); Tabelle 8 (S. 88); Tabelle 9 (S. 92)."
+    },
+    {
+      "id": "hurrian_118",
+      "morpheme_id": "hurrian_intens_as",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-aš-",
+      "segments": [
+        "a",
+        "š"
+      ],
+      "function": "Intensivierend o.ä.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 8 (S. 88); Tabelle 9 (S. 92)."
+    },
+    {
+      "id": "hurrian_119",
+      "morpheme_id": "hurrian_we_ahh",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "*-ahh-",
+      "segments": [
+        "a",
+        "h",
+        "h"
+      ],
+      "function": "Unklar; vielleicht räumliche Dimension „weg-“.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Stern: nur im sog. „Althurritischen“."
+    },
+    {
+      "id": "hurrian_120",
+      "morpheme_id": "hurrian_recip_ukar",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-uk+ar",
+      "segments": [
+        "u",
+        "k",
+        "a",
+        "r"
+      ],
+      "function": "Gegenseitigkeit; auch Iterativ-Durativ.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_121",
+      "morpheme_id": "hurrian_recip_ukar",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ukar-",
+      "segments": [
+        "u",
+        "k",
+        "a",
+        "r"
+      ],
+      "function": "Gegenseitigkeit; auch Iterativ-Durativ.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_122",
+      "morpheme_id": "hurrian_reflex_ul",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u/ol-",
+      "segments": [
+        "u",
+        "l"
+      ],
+      "function": "Reflexiv, aber auch intransitivierend.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_123",
+      "morpheme_id": "hurrian_reflex_ul",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u/ol-",
+      "segments": [
+        "o",
+        "l"
+      ],
+      "function": "Reflexiv, aber auch intransitivierend.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_124",
+      "morpheme_id": "hurrian_we_ol",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ol-",
+      "segments": [
+        "o",
+        "l"
+      ],
+      "function": "Unklar; vielleicht räumliche Beziehung „hin-“.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_125",
+      "morpheme_id": "hurrian_we_om",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-om-",
+      "segments": [
+        "o",
+        "m"
+      ],
+      "function": "Unklar.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_126",
+      "morpheme_id": "hurrian_we_on",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-on-",
+      "segments": [
+        "o",
+        "n"
+      ],
+      "function": "Unklar.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_127",
+      "morpheme_id": "hurrian_we_Vst",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-Všt-",
+      "segments": [
+        "V",
+        "š",
+        "t"
+      ],
+      "function": "Wurzelerweiterung; Vokal richtet sich nach dem Wurzelvokal; teils denominalisierend, vielleicht Aspekt/Aktionsart.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 3 (S. 80); Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_128",
+      "morpheme_id": "hurrian_inchoative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "*-ill-",
+      "segments": [
+        "i",
+        "l",
+        "l"
+      ],
+      "function": "Inchoativ oder Ingressiv; Eintritt oder Beginn eines Geschehens.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Stern: nur im sog. „Althurritischen“."
+    },
+    {
+      "id": "hurrian_129",
+      "morpheme_id": "hurrian_we_us",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-uš-",
+      "segments": [
+        "u",
+        "š"
+      ],
+      "function": "Morphem unklarer Bedeutung; nicht der Tempusanzeiger.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_130",
+      "morpheme_id": "hurrian_we_upp",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-upp-",
+      "segments": [
+        "u",
+        "p",
+        "p"
+      ],
+      "function": "Unklar.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      }
+    },
+    {
+      "id": "hurrian_131",
+      "morpheme_id": "hurrian_we_ut",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ut-",
+      "segments": [
+        "u",
+        "t"
+      ],
+      "function": "Unklar; vielleicht in zul(l)=ud- und keb=ud-.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      }
+    },
+    {
+      "id": "hurrian_132",
+      "morpheme_id": "hurrian_we_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-t-",
+      "segments": [
+        "t"
+      ],
+      "function": "Unklar; nicht Pluralmorphem oder Kennzeichen der Objektlosigkeit.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      }
+    },
+    {
+      "id": "hurrian_133",
+      "morpheme_id": "hurrian_we_uh",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-uh/-oh",
+      "segments": [
+        "u",
+        "h"
+      ],
+      "function": "Unklar.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      }
+    },
+    {
+      "id": "hurrian_134",
+      "morpheme_id": "hurrian_we_uh",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-uh/-oh",
+      "segments": [
+        "o",
+        "h"
+      ],
+      "function": "Unklar.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      }
+    },
+    {
+      "id": "hurrian_135",
+      "morpheme_id": "hurrian_we_ur",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "*-o/ur-",
+      "segments": [
+        "o",
+        "r"
+      ],
+      "function": "Unklar.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      },
+      "notes": "Stern: nur im sog. „Althurritischen“."
+    },
+    {
+      "id": "hurrian_136",
+      "morpheme_id": "hurrian_we_ur",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "*-o/ur-",
+      "segments": [
+        "u",
+        "r"
+      ],
+      "function": "Unklar.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      },
+      "notes": "Stern: nur im sog. „Althurritischen“."
+    },
+    {
+      "id": "hurrian_137",
+      "morpheme_id": "hurrian_we_Vst",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "ašt-",
+      "segments": [
+        "a",
+        "š",
+        "t"
+      ],
+      "function": "Realisierung der im Listeneintrag behandelten Wurzelerweiterung.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Affixteil der ausdrücklich segmentierten Beispiele im Listeneintrag; keine lexikalische Wurzel aufgenommen."
+    },
+    {
+      "id": "hurrian_138",
+      "morpheme_id": "hurrian_we_Vst",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "ešt-",
+      "segments": [
+        "e",
+        "š",
+        "t"
+      ],
+      "function": "Realisierung der im Listeneintrag behandelten Wurzelerweiterung.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Affixteil der ausdrücklich segmentierten Beispiele im Listeneintrag; keine lexikalische Wurzel aufgenommen."
+    },
+    {
+      "id": "hurrian_139",
+      "morpheme_id": "hurrian_we_Vst",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "ušt-",
+      "segments": [
+        "u",
+        "š",
+        "t"
+      ],
+      "function": "Realisierung der im Listeneintrag behandelten Wurzelerweiterung.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Affixteil der ausdrücklich segmentierten Beispiele im Listeneintrag; keine lexikalische Wurzel aufgenommen."
+    },
+    {
+      "id": "hurrian_140",
+      "morpheme_id": "hurrian_recip_ukar",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "ugar-",
+      "segments": [
+        "u",
+        "g",
+        "a",
+        "r"
+      ],
+      "function": "Realisierung der im Listeneintrag behandelten Wurzelerweiterung.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      },
+      "notes": "Affixteil der ausdrücklich segmentierten Beispiele im Listeneintrag; keine lexikalische Wurzel aufgenommen."
+    },
+    {
+      "id": "hurrian_141",
+      "morpheme_id": "hurrian_we_ut",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "ud-",
+      "segments": [
+        "u",
+        "d"
+      ],
+      "function": "Realisierung der im Listeneintrag behandelten Wurzelerweiterung.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      },
+      "notes": "Affixteil der ausdrücklich segmentierten Beispiele im Listeneintrag; keine lexikalische Wurzel aufgenommen."
+    },
+    {
+      "id": "hurrian_142",
+      "morpheme_id": "hurrian_we_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "d-",
+      "segments": [
+        "d"
+      ],
+      "function": "Realisierung der im Listeneintrag behandelten Wurzelerweiterung.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      },
+      "notes": "Affixteil der ausdrücklich segmentierten Beispiele im Listeneintrag; keine lexikalische Wurzel aufgenommen."
+    },
+    {
+      "id": "hurrian_143",
+      "morpheme_id": "hurrian_we_ut",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ud-",
+      "segments": [
+        "u",
+        "d"
+      ],
+      "function": "Nach Anm. 76 möglicherweise Negativmorphem „ent-, los-, ab-“.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "77"
+      },
+      "notes": "Abweichende Deutung zum Listeneintrag -ut-; nicht entschieden."
+    },
+    {
+      "id": "hurrian_144",
+      "morpheme_id": "hurrian_preterite",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-uš-",
+      "segments": [
+        "u",
+        "š"
+      ],
+      "function": "Tempusanzeiger; ausdrücklich vom gleichlautenden Wurzelerweiterungsmorphem unterschieden.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_145",
+      "morpheme_id": "hurrian_preterite",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "/oš/",
+      "segments": [
+        "o",
+        "š"
+      ],
+      "function": "Lautung des im Listeneintrag genannten Tempusanzeigers -uš-.",
+      "source": {
+        "unit": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "section": "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+        "page": "76"
+      }
+    },
+    {
+      "id": "hurrian_146",
+      "morpheme_id": "hurrian_caus",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-an-",
+      "segments": [
+        "a",
+        "n"
+      ],
+      "function": "Wurzelerweiterung (Position 1).",
+      "source": {
+        "unit": "Tabelle 3",
+        "section": "II.C.4",
+        "page": "80"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 4 (S. 82); Tabelle 7 (S. 86); Tabelle 8 (S. 88)."
+    },
+    {
+      "id": "hurrian_147",
+      "morpheme_id": "hurrian_transitive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i-",
+      "segments": [
+        "i"
+      ],
+      "function": "Kennzeichen der Transitivität (Position 5).",
+      "source": {
+        "unit": "Tabelle 3",
+        "section": "II.C.4",
+        "page": "80"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 4 (S. 82); Tabelle 5 und 6 (S. 85); Tabelle 7 (S. 86); Tabelle 13 (S. 114); II.C.4, 16. (S. 96)."
+    },
+    {
+      "id": "hurrian_148",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av/-affu-",
+      "segments": [
+        "a",
+        "v"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Sg.",
+      "source": {
+        "unit": "Tabelle 3",
+        "section": "II.C.4",
+        "page": "80"
+      }
+    },
+    {
+      "id": "hurrian_149",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av/-affu-",
+      "segments": [
+        "a",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Sg.",
+      "source": {
+        "unit": "Tabelle 3",
+        "section": "II.C.4",
+        "page": "80"
+      }
+    },
+    {
+      "id": "hurrian_150",
+      "morpheme_id": "hurrian_verb_plural",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-š(a-)",
+      "segments": [
+        "š"
+      ],
+      "function": "Kennzeichen der Pluralität des Subjekts.",
+      "source": {
+        "unit": "Tabelle 3",
+        "section": "II.C.4",
+        "page": "80"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 4 (S. 82); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_151",
+      "morpheme_id": "hurrian_verb_plural",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-š(a-)",
+      "segments": [
+        "š",
+        "a"
+      ],
+      "function": "Kennzeichen der Pluralität des Subjekts.",
+      "source": {
+        "unit": "Tabelle 3",
+        "section": "II.C.4",
+        "page": "80"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 4 (S. 82); Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_152",
+      "morpheme_id": "hurrian_agent_3pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "t=a",
+      "segments": [
+        "t",
+        "a"
+      ],
+      "function": "Alternative für die 3. Person Plural (Tabellenfußnote).",
+      "source": {
+        "unit": "Tabelle 3",
+        "section": "II.C.4",
+        "page": "80"
+      }
+    },
+    {
+      "id": "hurrian_153",
+      "morpheme_id": "hurrian_negative_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-uffu",
+      "segments": [
+        "u",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Transitiv-ergativisch negativ, 1. Sg.",
+      "source": {
+        "unit": "II.C.4, 8. (list)",
+        "section": "II.C.4, 8. (list)",
+        "page": "81"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 4 (S. 82)."
+    },
+    {
+      "id": "hurrian_154",
+      "morpheme_id": "hurrian_negative_1pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-uffu=š",
+      "segments": [
+        "u",
+        "f",
+        "f",
+        "u",
+        "š"
+      ],
+      "function": "Transitiv-ergativisch negativ, 1. Pl.",
+      "source": {
+        "unit": "II.C.4, 8. (list)",
+        "section": "II.C.4, 8. (list)",
+        "page": "81"
+      }
+    },
+    {
+      "id": "hurrian_155",
+      "morpheme_id": "hurrian_negative_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-uššu",
+      "segments": [
+        "u",
+        "š",
+        "š",
+        "u"
+      ],
+      "function": "Transitiv-ergativisch negativ, 2. Pl.",
+      "source": {
+        "unit": "II.C.4, 8. (list)",
+        "section": "II.C.4, 8. (list)",
+        "page": "81"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 4 (S. 82)."
+    },
+    {
+      "id": "hurrian_156",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u(w)/wa",
+      "segments": [
+        "u"
+      ],
+      "function": "Kennzeichen der Negation, transitiv.",
+      "source": {
+        "unit": "Tabelle 4",
+        "section": "II.C.4",
+        "page": "82"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_157",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u(w)/wa",
+      "segments": [
+        "u",
+        "w"
+      ],
+      "function": "Kennzeichen der Negation, transitiv.",
+      "source": {
+        "unit": "Tabelle 4",
+        "section": "II.C.4",
+        "page": "82"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_158",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u(w)/wa",
+      "segments": [
+        "w",
+        "a"
+      ],
+      "function": "Kennzeichen der Negation, transitiv.",
+      "source": {
+        "unit": "Tabelle 4",
+        "section": "II.C.4",
+        "page": "82"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_159",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "+(a)ffu",
+      "segments": [
+        "a",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Sg., nach Negation.",
+      "source": {
+        "unit": "Tabelle 4",
+        "section": "II.C.4",
+        "page": "82"
+      }
+    },
+    {
+      "id": "hurrian_160",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "+(a)ffu",
+      "segments": [
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Sg., nach Negation.",
+      "source": {
+        "unit": "Tabelle 4",
+        "section": "II.C.4",
+        "page": "82"
+      }
+    },
+    {
+      "id": "hurrian_161",
+      "morpheme_id": "hurrian_agent_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "+(a)ššu",
+      "segments": [
+        "a",
+        "š",
+        "š",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 2. Pl., nach Negation.",
+      "source": {
+        "unit": "Tabelle 4",
+        "section": "II.C.4",
+        "page": "82"
+      }
+    },
+    {
+      "id": "hurrian_162",
+      "morpheme_id": "hurrian_agent_2pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "+(a)ššu",
+      "segments": [
+        "š",
+        "š",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 2. Pl., nach Negation.",
+      "source": {
+        "unit": "Tabelle 4",
+        "section": "II.C.4",
+        "page": "82"
+      }
+    },
+    {
+      "id": "hurrian_163",
+      "morpheme_id": "hurrian_objectless",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-t-",
+      "segments": [
+        "t"
+      ],
+      "function": "Kennzeichen der Objektlosigkeit.",
+      "source": {
+        "unit": "Tabelle 5 und 6",
+        "section": "II.C.4",
+        "page": "85"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 7 (S. 86); Tabelle 13 (S. 114)."
+    },
+    {
+      "id": "hurrian_164",
+      "morpheme_id": "hurrian_intransitive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-a-",
+      "segments": [
+        "a"
+      ],
+      "function": "Kennzeichen der Intransitivität; o ist ein Allophon von a.",
+      "source": {
+        "unit": "Tabelle 5 und 6",
+        "section": "II.C.4",
+        "page": "85"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 7 (S. 86)."
+    },
+    {
+      "id": "hurrian_165",
+      "morpheme_id": "hurrian_intransitive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-o-",
+      "segments": [
+        "o"
+      ],
+      "function": "Kennzeichen der Intransitivität; o ist ein Allophon von a.",
+      "source": {
+        "unit": "Tabelle 5 und 6",
+        "section": "II.C.4",
+        "page": "85"
+      }
+    },
+    {
+      "id": "hurrian_166",
+      "morpheme_id": "hurrian_negative_intrans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-kko",
+      "segments": [
+        "k",
+        "k",
+        "o"
+      ],
+      "function": "Kennzeichen der Negation, intransitiv; eigentlich a, unterliegt der Vokalharmonie.",
+      "source": {
+        "unit": "Tabelle 5 und 6",
+        "section": "II.C.4",
+        "page": "85"
+      },
+      "notes": "o > a vor -tta, -mma usw.; die Tabelle druckt keine selbständige Form -kka."
+    },
+    {
+      "id": "hurrian_167",
+      "morpheme_id": "hurrian_negative_intrans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-kki",
+      "segments": [
+        "k",
+        "k",
+        "i"
+      ],
+      "function": "Negation beim Antipassiv.",
+      "source": {
+        "unit": "Tabelle 5 und 6",
+        "section": "II.C.4",
+        "page": "85"
+      },
+      "notes": "i > a vor -tta, -mma usw."
+    },
+    {
+      "id": "hurrian_168",
+      "morpheme_id": "hurrian_imbu",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-imbu-",
+      "segments": [
+        "i",
+        "m",
+        "b",
+        "u"
+      ],
+      "function": "Position 4: unklar.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      }
+    },
+    {
+      "id": "hurrian_169",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u(w)/wa-",
+      "segments": [
+        "u"
+      ],
+      "function": "Kennzeichen der Negation.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 13. (S. 92)."
+    },
+    {
+      "id": "hurrian_170",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u(w)/wa-",
+      "segments": [
+        "u",
+        "w"
+      ],
+      "function": "Kennzeichen der Negation.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 13. (S. 92)."
+    },
+    {
+      "id": "hurrian_171",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u(w)/wa-",
+      "segments": [
+        "w",
+        "a"
+      ],
+      "function": "Kennzeichen der Negation.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 13. (S. 92)."
+    },
+    {
+      "id": "hurrian_172",
+      "morpheme_id": "hurrian_negative_intrans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-kkV-",
+      "segments": [
+        "k",
+        "k",
+        "V"
+      ],
+      "function": "Kennzeichen der Negation; V ist ein Vokaldecksymbol.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      }
+    },
+    {
+      "id": "hurrian_173",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av/-(a)ffu-",
+      "segments": [
+        "a",
+        "v"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Sg.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      }
+    },
+    {
+      "id": "hurrian_174",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av/-(a)ffu-",
+      "segments": [
+        "a",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Sg.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      }
+    },
+    {
+      "id": "hurrian_175",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av/-(a)ffu-",
+      "segments": [
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Sg.",
+      "source": {
+        "unit": "Tabelle 7",
+        "section": "II.C.4",
+        "page": "86"
+      }
+    },
+    {
+      "id": "hurrian_176",
+      "morpheme_id": "hurrian_recip_ukar",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ugar-",
+      "segments": [
+        "u",
+        "g",
+        "a",
+        "r"
+      ],
+      "function": "Wurzelerweiterung.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 9 (S. 92)."
+    },
+    {
+      "id": "hurrian_177",
+      "morpheme_id": "hurrian_jussive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i-",
+      "segments": [
+        "i"
+      ],
+      "function": "Kennzeichen des Jussivs; vor Pluralisator und Personenanzeiger.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 9 (S. 92); II.C.4, 11. (S. 87); II.C.4, 12. (S. 88); II.C.4, 13. (S. 92)."
+    },
+    {
+      "id": "hurrian_178",
+      "morpheme_id": "hurrian_jussive_3",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-en",
+      "segments": [
+        "e",
+        "n"
+      ],
+      "function": "Personenanzeiger des Jussivs, 3. Person.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 9 (S. 92); II.C.4, 12. (S. 91)."
+    },
+    {
+      "id": "hurrian_179",
+      "morpheme_id": "hurrian_caus",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-an",
+      "segments": [
+        "a",
+        "n"
+      ],
+      "function": "Wurzelerweiterung.",
+      "source": {
+        "unit": "Tabelle 9",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      }
+    },
+    {
+      "id": "hurrian_180",
+      "morpheme_id": "hurrian_verb_plural_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(i)t-",
+      "segments": [
+        "t"
+      ],
+      "function": "Pluralisator im positiven Jussiv.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_181",
+      "morpheme_id": "hurrian_verb_plural_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-(i)t-",
+      "segments": [
+        "i",
+        "t"
+      ],
+      "function": "Pluralisator im positiven Jussiv.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_182",
+      "morpheme_id": "hurrian_voluntative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-l+e",
+      "segments": [
+        "l",
+        "e"
+      ],
+      "function": "Personenanzeiger des Jussivs: Voluntativ, 1. Sg.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_183",
+      "morpheme_id": "hurrian_imperative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-i/e",
+      "segments": [
+        "i"
+      ],
+      "function": "Personenanzeiger des Jussivs: Imperativ, 2. Sg.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_184",
+      "morpheme_id": "hurrian_imperative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-i/e",
+      "segments": [
+        "e"
+      ],
+      "function": "Personenanzeiger des Jussivs: Imperativ, 2. Sg.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_185",
+      "morpheme_id": "hurrian_verb_plural",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-š(?)",
+      "segments": [
+        "š"
+      ],
+      "function": "Pluralisator, 1. Pl. des positiven Jussivs; unsicher.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      },
+      "notes": "(?) ist ein Unsicherheitszeichen, kein fakultativer Laut."
+    },
+    {
+      "id": "hurrian_186",
+      "morpheme_id": "hurrian_imperative_pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "e+š(?)",
+      "segments": [
+        "e",
+        "š"
+      ],
+      "function": "2. Pl. des positiven Jussivs; in der Spalte Pluralisator.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      },
+      "notes": "(?) ist ein Unsicherheitszeichen."
+    },
+    {
+      "id": "hurrian_187",
+      "morpheme_id": "hurrian_encl_2pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "-ffa",
+      "segments": [
+        "f",
+        "f",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "Tabelle 8",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      },
+      "notes": "Die enklitischen Pronomina werden meist vorverlegt. Weitere Belege derselben Schreibung: II.C.4, 12. (S. 90)."
+    },
+    {
+      "id": "hurrian_188",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-wa-",
+      "segments": [
+        "w",
+        "a"
+      ],
+      "function": "Kennzeichen der Negation im Jussiv.",
+      "source": {
+        "unit": "Tabelle 9",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 13. (S. 92)."
+    },
+    {
+      "id": "hurrian_189",
+      "morpheme_id": "hurrian_verb_plural_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "(-id-)",
+      "segments": [
+        "i",
+        "d"
+      ],
+      "function": "Pluralisator des negierten Jussivs; eingeklammert.",
+      "source": {
+        "unit": "Tabelle 9",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Tabellenfußnote: Ein negierter Jussiv in der 3. Pers. Pl. ist nicht belegt. Nur der gedruckte Formant wird aufgenommen."
+    },
+    {
+      "id": "hurrian_190",
+      "morpheme_id": "hurrian_voluntative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-l+e/-lli",
+      "segments": [
+        "l",
+        "e"
+      ],
+      "function": "Personenanzeiger des negierten Jussivs: Voluntativ.",
+      "source": {
+        "unit": "Tabelle 9",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      }
+    },
+    {
+      "id": "hurrian_191",
+      "morpheme_id": "hurrian_voluntative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-l+e/-lli",
+      "segments": [
+        "l",
+        "l",
+        "i"
+      ],
+      "function": "Personenanzeiger des negierten Jussivs: Voluntativ.",
+      "source": {
+        "unit": "Tabelle 9",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      }
+    },
+    {
+      "id": "hurrian_192",
+      "morpheme_id": "hurrian_modal_ol",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "(-ol-)",
+      "segments": [
+        "o",
+        "l"
+      ],
+      "function": "Formant vor -il- und -eva; fakultativ.",
+      "source": {
+        "unit": "Tabelle 10",
+        "section": "II.C.4, 14.",
+        "page": "93"
+      }
+    },
+    {
+      "id": "hurrian_193",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "(-il-)",
+      "segments": [
+        "i",
+        "l"
+      ],
+      "function": "Formant des Optativs; fakultativ.",
+      "source": {
+        "unit": "Tabelle 10",
+        "section": "II.C.4, 14.",
+        "page": "93"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Tabelle 11 (S. 95)."
+    },
+    {
+      "id": "hurrian_194",
+      "morpheme_id": "hurrian_conditional_opt",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-eva",
+      "segments": [
+        "e",
+        "v",
+        "a"
+      ],
+      "function": "Formant des konditionellen Optativs; Können oder Wollen.",
+      "source": {
+        "unit": "Tabelle 10",
+        "section": "II.C.4, 14.",
+        "page": "93"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 14. (S. 93)."
+    },
+    {
+      "id": "hurrian_195",
+      "morpheme_id": "hurrian_debitive_final",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ae/-ai",
+      "segments": [
+        "a",
+        "e"
+      ],
+      "function": "Formant des Debitiv-Finalis; Zweck oder Sollen.",
+      "source": {
+        "unit": "Tabelle 11",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 15. (S. 94)."
+    },
+    {
+      "id": "hurrian_196",
+      "morpheme_id": "hurrian_debitive_final",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ae/-ai",
+      "segments": [
+        "a",
+        "i"
+      ],
+      "function": "Formant des Debitiv-Finalis; Zweck oder Sollen.",
+      "source": {
+        "unit": "Tabelle 11",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 15. (S. 94)."
+    },
+    {
+      "id": "hurrian_197",
+      "morpheme_id": "hurrian_fact_iter_ar",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ar",
+      "segments": [
+        "a",
+        "r"
+      ],
+      "function": "Wurzelerweiterung.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_198",
+      "morpheme_id": "hurrian_we_Vst",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-Všt-?",
+      "segments": [
+        "V",
+        "š",
+        "t"
+      ],
+      "function": "Wurzelerweiterung? Wahrscheinlich aber Aspekt/Aktionsart.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_199",
+      "morpheme_id": "hurrian_inchoative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ill-",
+      "segments": [
+        "i",
+        "l",
+        "l"
+      ],
+      "function": "Wurzelerweiterung? Wahrscheinlich aber Aspekt/Aktionsart.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_200",
+      "morpheme_id": "hurrian_we_ahh",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ahh-",
+      "segments": [
+        "a",
+        "h",
+        "h"
+      ],
+      "function": "Wurzelerweiterung? Wahrscheinlich aber Aspekt/Aktionsart.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_201",
+      "morpheme_id": "hurrian_reflex_ul",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ul-",
+      "segments": [
+        "u",
+        "l"
+      ],
+      "function": "Wurzelerweiterung? Wahrscheinlich aber Aspekt/Aktionsart.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists) (S. 117)."
+    },
+    {
+      "id": "hurrian_202",
+      "morpheme_id": "hurrian_old_trans_o",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-o",
+      "segments": [
+        "o"
+      ],
+      "function": "Kennzeichen transitiv-ergativisch.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_203",
+      "morpheme_id": "hurrian_transitive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i",
+      "segments": [
+        "i"
+      ],
+      "function": "Kennzeichen transitiv-nicht ergativisch.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_204",
+      "morpheme_id": "hurrian_intransitive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-a",
+      "segments": [
+        "a"
+      ],
+      "function": "Kennzeichen intransitiv; auch bei Verben der Bewegung.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_205",
+      "morpheme_id": "hurrian_old_u",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u",
+      "segments": [
+        "u"
+      ],
+      "function": "Unklar, vielleicht bei intransitiven Handlungsverben.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_206",
+      "morpheme_id": "hurrian_old_agent_m",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-m",
+      "segments": [
+        "m"
+      ],
+      "function": "Subjektanzeiger: 3. Pers. Sg. Agens.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_207",
+      "morpheme_id": "hurrian_old_subject_b",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-b",
+      "segments": [
+        "b"
+      ],
+      "function": "Subjektanzeiger: 3. Person; bei -i und -a.",
+      "source": {
+        "unit": "Tabelle 12",
+        "section": "II.E",
+        "page": "112"
+      }
+    },
+    {
+      "id": "hurrian_208",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av/affu",
+      "segments": [
+        "a",
+        "v"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Person.",
+      "source": {
+        "unit": "Tabelle 13",
+        "section": "II.E",
+        "page": "114"
+      }
+    },
+    {
+      "id": "hurrian_209",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-av/affu",
+      "segments": [
+        "a",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Kennzeichen des Subjekts der Handlung, 1. Person.",
+      "source": {
+        "unit": "Tabelle 13",
+        "section": "II.E",
+        "page": "114"
+      }
+    },
+    {
+      "id": "hurrian_210",
+      "morpheme_id": "hurrian_erg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "= š",
+      "segments": [
+        "š"
+      ],
+      "function": "Kasus Ergativ des Subjekts der Handlung (= Agens).",
+      "source": {
+        "unit": "II.D.2 (boxed schema)",
+        "section": "II.D.2 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_211",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "= av/affu",
+      "segments": [
+        "a",
+        "v"
+      ],
+      "function": "Charakteristischer Personenanzeiger des transitiven Verbs, 1. Person.",
+      "source": {
+        "unit": "II.D.2 (boxed schema)",
+        "section": "II.D.2 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_212",
+      "morpheme_id": "hurrian_agent_1sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "= av/affu",
+      "segments": [
+        "a",
+        "f",
+        "f",
+        "u"
+      ],
+      "function": "Charakteristischer Personenanzeiger des transitiven Verbs, 1. Person.",
+      "source": {
+        "unit": "II.D.2 (boxed schema)",
+        "section": "II.D.2 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_213",
+      "morpheme_id": "hurrian_agent_2sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "= o",
+      "segments": [
+        "o"
+      ],
+      "function": "Charakteristischer Personenanzeiger des transitiven Verbs, 2. Person.",
+      "source": {
+        "unit": "II.D.2 (boxed schema)",
+        "section": "II.D.2 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_214",
+      "morpheme_id": "hurrian_agent_3sg",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "= a",
+      "segments": [
+        "a"
+      ],
+      "function": "Charakteristischer Personenanzeiger des transitiven Verbs, 3. Person.",
+      "source": {
+        "unit": "II.D.2 (boxed schema)",
+        "section": "II.D.2 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_215",
+      "morpheme_id": "hurrian_encl_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "= tta/t",
+      "segments": [
+        "t",
+        "t",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.D.3 (boxed schema)",
+        "section": "II.D.3 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_216",
+      "morpheme_id": "hurrian_encl_1sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "= tta/t",
+      "segments": [
+        "t"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 1. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.D.3 (boxed schema)",
+        "section": "II.D.3 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_217",
+      "morpheme_id": "hurrian_encl_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "= mma/m",
+      "segments": [
+        "m",
+        "m",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.D.3 (boxed schema)",
+        "section": "II.D.3 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_218",
+      "morpheme_id": "hurrian_encl_2sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "= mma/m",
+      "segments": [
+        "m"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 2. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.D.3 (boxed schema)",
+        "section": "II.D.3 (boxed schema)",
+        "page": "102"
+      }
+    },
+    {
+      "id": "hurrian_219",
+      "morpheme_id": "hurrian_voluntative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-le",
+      "segments": [
+        "l",
+        "e"
+      ],
+      "function": "Voluntativ-Morphem; weitere Segmentierung unklar.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_220",
+      "morpheme_id": "hurrian_voluntative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "l+e",
+      "segments": [
+        "l",
+        "e"
+      ],
+      "function": "Personenkennzeichen des Voluntativs.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_221",
+      "morpheme_id": "hurrian_imperative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-i",
+      "segments": [
+        "i"
+      ],
+      "function": "Imperativ, 2. Pers. Sg.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_222",
+      "morpheme_id": "hurrian_imperative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-e",
+      "segments": [
+        "e"
+      ],
+      "function": "Positionsbedingtes Allophon von -i im Imperativ.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_223",
+      "morpheme_id": "hurrian_imperative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-a",
+      "segments": [
+        "a"
+      ],
+      "function": "Positionsbedingtes Allophon von -i im Imperativ.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "88"
+      }
+    },
+    {
+      "id": "hurrian_224",
+      "morpheme_id": "hurrian_jussive_3",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-e",
+      "segments": [
+        "e"
+      ],
+      "function": "Verkürzung von -en vor konsonantisch anlautenden Wörtern.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "91"
+      }
+    },
+    {
+      "id": "hurrian_225",
+      "morpheme_id": "hurrian_verb_plural_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-it-",
+      "segments": [
+        "i",
+        "t"
+      ],
+      "function": "Pluralmorphem; t wird als Allomorph betrachtet.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "89-90"
+      }
+    },
+    {
+      "id": "hurrian_226",
+      "morpheme_id": "hurrian_verb_plural_t",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "[-id-]",
+      "segments": [
+        "i",
+        "d"
+      ],
+      "function": "Pluralmorphem; gedruckte Lautvariante von -it-.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "89"
+      }
+    },
+    {
+      "id": "hurrian_227",
+      "morpheme_id": "hurrian_imperative_pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-eš",
+      "segments": [
+        "e",
+        "š"
+      ],
+      "function": "Pluralischer Imperativ.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "91"
+      }
+    },
+    {
+      "id": "hurrian_228",
+      "morpheme_id": "hurrian_imperative_pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-e+š",
+      "segments": [
+        "e",
+        "š"
+      ],
+      "function": "Pluralischer Imperativ.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "91"
+      }
+    },
+    {
+      "id": "hurrian_229",
+      "morpheme_id": "hurrian_jussive_3_o",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o",
+      "segments": [
+        "o"
+      ],
+      "function": "Weiterer Imperativformant; Verweis auf S. 116.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "91"
+      }
+    },
+    {
+      "id": "hurrian_230",
+      "morpheme_id": "hurrian_jussive_3_os",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o=š",
+      "segments": [
+        "o",
+        "š"
+      ],
+      "function": "Weiterer Imperativausgang; Verweis auf S. 116.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "91"
+      }
+    },
+    {
+      "id": "hurrian_231",
+      "morpheme_id": "hurrian_old_wish_in",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-in",
+      "segments": [
+        "i",
+        "n"
+      ],
+      "function": "Ausgang der Wunschformen der Til-atal-Inschrift; noch nicht völlig geklärt (Anm. 81).",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "90"
+      }
+    },
+    {
+      "id": "hurrian_232",
+      "morpheme_id": "hurrian_jussive_3_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-ien",
+      "segments": [
+        "i",
+        "e",
+        "n"
+      ],
+      "function": "Ausgang einer Jussivform mit direktem Objekt; Segmentierung von -en diskutiert.",
+      "source": {
+        "unit": "II.C.4, 12.",
+        "section": "II.C.4, 12.",
+        "page": "89"
+      }
+    },
+    {
+      "id": "hurrian_233",
+      "morpheme_id": "hurrian_negative_trans",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-wa",
+      "segments": [
+        "w",
+        "a"
+      ],
+      "function": "Volle Gestalt des Negationsformanten.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      }
+    },
+    {
+      "id": "hurrian_234",
+      "morpheme_id": "hurrian_voluntative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-lli",
+      "segments": [
+        "l",
+        "l",
+        "i"
+      ],
+      "function": "Allomorph für die 1. Pers. Sg. des Jussivs (Voluntativ).",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      }
+    },
+    {
+      "id": "hurrian_235",
+      "morpheme_id": "hurrian_jussive_3_negative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-iwaen",
+      "segments": [
+        "i",
+        "w",
+        "a",
+        "e",
+        "n"
+      ],
+      "function": "Ausgang des negierten Jussivs.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      }
+    },
+    {
+      "id": "hurrian_236",
+      "morpheme_id": "hurrian_owen_modal",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o/uw(a)en",
+      "segments": [
+        "o",
+        "w",
+        "a",
+        "e",
+        "n"
+      ],
+      "function": "Von einigen Forschern als negierter Jussiv betrachtet; Deutung offen.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Die Alternative wird nicht entschieden."
+    },
+    {
+      "id": "hurrian_237",
+      "morpheme_id": "hurrian_owen_modal",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o/uw(a)en",
+      "segments": [
+        "o",
+        "w",
+        "e",
+        "n"
+      ],
+      "function": "Von einigen Forschern als negierter Jussiv betrachtet; Deutung offen.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Die Alternative wird nicht entschieden."
+    },
+    {
+      "id": "hurrian_238",
+      "morpheme_id": "hurrian_owen_modal",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o/uw(a)en",
+      "segments": [
+        "u",
+        "w",
+        "a",
+        "e",
+        "n"
+      ],
+      "function": "Von einigen Forschern als negierter Jussiv betrachtet; Deutung offen.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Die Alternative wird nicht entschieden."
+    },
+    {
+      "id": "hurrian_239",
+      "morpheme_id": "hurrian_owen_modal",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o/uw(a)en",
+      "segments": [
+        "u",
+        "w",
+        "e",
+        "n"
+      ],
+      "function": "Von einigen Forschern als negierter Jussiv betrachtet; Deutung offen.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Die Alternative wird nicht entschieden."
+    },
+    {
+      "id": "hurrian_240",
+      "morpheme_id": "hurrian_owen_modal",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o/uwen",
+      "segments": [
+        "o",
+        "w",
+        "e",
+        "n"
+      ],
+      "function": "Mögliche alternative Lesung; positive Bedeutung erwogen.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Die Alternative wird nicht entschieden."
+    },
+    {
+      "id": "hurrian_241",
+      "morpheme_id": "hurrian_owen_modal",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-o/uwen",
+      "segments": [
+        "u",
+        "w",
+        "e",
+        "n"
+      ],
+      "function": "Mögliche alternative Lesung; positive Bedeutung erwogen.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "92"
+      },
+      "notes": "Die Alternative wird nicht entschieden."
+    },
+    {
+      "id": "hurrian_242",
+      "morpheme_id": "hurrian_owen_modal",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "-owen",
+      "segments": [
+        "o",
+        "w",
+        "e",
+        "n"
+      ],
+      "function": "Möglicherweise eigene positive Form.",
+      "source": {
+        "unit": "II.C.4, 13.",
+        "section": "II.C.4, 13.",
+        "page": "93"
+      },
+      "notes": "Die Alternative wird nicht entschieden."
+    },
+    {
+      "id": "hurrian_243",
+      "morpheme_id": "hurrian_conditional_opt",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ewa",
+      "segments": [
+        "e",
+        "w",
+        "a"
+      ],
+      "function": "Formant des konditionellen Optativs; Können oder Wollen.",
+      "source": {
+        "unit": "II.C.4, 14.",
+        "section": "II.C.4, 14.",
+        "page": "93"
+      }
+    },
+    {
+      "id": "hurrian_244",
+      "morpheme_id": "hurrian_conditional_opt",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "/eva/",
+      "segments": [
+        "e",
+        "v",
+        "a"
+      ],
+      "function": "Lautung des Formanten des konditionellen Optativs.",
+      "source": {
+        "unit": "II.C.4, 14.",
+        "section": "II.C.4, 14.",
+        "page": "93"
+      }
+    },
+    {
+      "id": "hurrian_245",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-il-",
+      "segments": [
+        "i",
+        "l"
+      ],
+      "function": "Vielleicht zweiter Formant des konditionellen Optativs.",
+      "source": {
+        "unit": "II.C.4, 14.",
+        "section": "II.C.4, 14.",
+        "page": "93"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.C.4, 15. (S. 95); II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists) (S. 117)."
+    },
+    {
+      "id": "hurrian_246",
+      "morpheme_id": "hurrian_modal_ol",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ol-",
+      "segments": [
+        "o",
+        "l"
+      ],
+      "function": "Formant vor -eva; sehr ähnliche Funktion wie -il-.",
+      "source": {
+        "unit": "II.C.4, 14.",
+        "section": "II.C.4, 14.",
+        "page": "93"
+      }
+    },
+    {
+      "id": "hurrian_247",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "/l/",
+      "segments": [
+        "l"
+      ],
+      "function": "Allomorph von -il- bei Zusammentreffen mit Liquid l.",
+      "source": {
+        "unit": "II.C.4, 14.",
+        "section": "II.C.4, 14.",
+        "page": "94"
+      }
+    },
+    {
+      "id": "hurrian_248",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "/r/",
+      "segments": [
+        "r"
+      ],
+      "function": "Allomorph von -il- bei Zusammentreffen mit Liquid r.",
+      "source": {
+        "unit": "II.C.4, 14.",
+        "section": "II.C.4, 14.",
+        "page": "94"
+      }
+    },
+    {
+      "id": "hurrian_249",
+      "morpheme_id": "hurrian_gerund_im",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i-m-",
+      "segments": [
+        "i",
+        "m"
+      ],
+      "function": "Weitere Formanten bei -ai; i mit nominalisierender Wirkung.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      }
+    },
+    {
+      "id": "hurrian_250",
+      "morpheme_id": "hurrian_gerund_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i-l-",
+      "segments": [
+        "i",
+        "l"
+      ],
+      "function": "Weitere Formanten bei -ai; i mit nominalisierender Wirkung.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      }
+    },
+    {
+      "id": "hurrian_251",
+      "morpheme_id": "hurrian_nominalizing_i",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i-",
+      "segments": [
+        "i"
+      ],
+      "function": "Nominalisierende Wirkung vor ursprünglich kasueller Endung.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      }
+    },
+    {
+      "id": "hurrian_252",
+      "morpheme_id": "hurrian_gerund_il_ai",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i-l-ai",
+      "segments": [
+        "i",
+        "l",
+        "a",
+        "i"
+      ],
+      "function": "Grammatikalisierte infinite Verbalform; gerundiumähnliche Bildung.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95-96"
+      }
+    },
+    {
+      "id": "hurrian_253",
+      "morpheme_id": "hurrian_gerund_im_ai",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i-m-ai",
+      "segments": [
+        "i",
+        "m",
+        "a",
+        "i"
+      ],
+      "function": "Grammatikalisierte infinite Verbalform; gerundiumähnliche Bildung.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95-96"
+      }
+    },
+    {
+      "id": "hurrian_254",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "(i)l",
+      "segments": [
+        "l"
+      ],
+      "function": "Formant vor ae/ai; fakultatives i in den gedruckten Segmentierungen.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      }
+    },
+    {
+      "id": "hurrian_255",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "(i)l",
+      "segments": [
+        "i",
+        "l"
+      ],
+      "function": "Formant vor ae/ai; fakultatives i in den gedruckten Segmentierungen.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      }
+    },
+    {
+      "id": "hurrian_256",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "n(na)",
+      "segments": [
+        "n"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      },
+      "notes": "Gedruckte Segmentierung der Beispiele zu -ae/-ai."
+    },
+    {
+      "id": "hurrian_257",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "n(na)",
+      "segments": [
+        "n",
+        "n",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "II.C.4, 15.",
+        "section": "II.C.4, 15.",
+        "page": "95"
+      },
+      "notes": "Gedruckte Segmentierung der Beispiele zu -ae/-ai."
+    },
+    {
+      "id": "hurrian_258",
+      "morpheme_id": "hurrian_wish_iles",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=i+l=e=š",
+      "segments": [
+        "i",
+        "l",
+        "e",
+        "š"
+      ],
+      "function": "Wunschform; Einzelheiten bedürfen weiterer Klärung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_259",
+      "morpheme_id": "hurrian_wish_ilanni",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=i+l=anni",
+      "segments": [
+        "i",
+        "l",
+        "a",
+        "n",
+        "n",
+        "i"
+      ],
+      "function": "Wunschform; Einzelheiten bedürfen weiterer Klärung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_260",
+      "morpheme_id": "hurrian_wish_oles",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=o+l=e=š",
+      "segments": [
+        "o",
+        "l",
+        "e",
+        "š"
+      ],
+      "function": "Wunschform; Einzelheiten bedürfen weiterer Klärung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_261",
+      "morpheme_id": "hurrian_wish_olaes",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=o+l=ae=š",
+      "segments": [
+        "o",
+        "l",
+        "a",
+        "e",
+        "š"
+      ],
+      "function": "Wunschform; Einzelheiten bedürfen weiterer Klärung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_262",
+      "morpheme_id": "hurrian_wish_oles",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ol-e-š",
+      "segments": [
+        "o",
+        "l",
+        "e",
+        "š"
+      ],
+      "function": "Wunschform; Einzelheiten bedürfen weiterer Klärung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_263",
+      "morpheme_id": "hurrian_wish_olaes",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ol-ae-š",
+      "segments": [
+        "o",
+        "l",
+        "a",
+        "e",
+        "š"
+      ],
+      "function": "Wunschform; Einzelheiten bedürfen weiterer Klärung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_264",
+      "morpheme_id": "hurrian_wish_ae",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ae-(š)",
+      "segments": [
+        "a",
+        "e"
+      ],
+      "function": "Ausgang der Wunschformen; von -ai „Gerundium“ zu trennen.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_265",
+      "morpheme_id": "hurrian_wish_ae",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-ae-(š)",
+      "segments": [
+        "a",
+        "e",
+        "š"
+      ],
+      "function": "Ausgang der Wunschformen; von -ai „Gerundium“ zu trennen.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_266",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=il=",
+      "segments": [
+        "i",
+        "l"
+      ],
+      "function": "Modalformant; bevorzugte Deutung gegenüber weiterer Zerlegung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      },
+      "notes": "Weitere Belege derselben Schreibung: II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists) (S. 116)."
+    },
+    {
+      "id": "hurrian_267",
+      "morpheme_id": "hurrian_modal_ol",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=ol=",
+      "segments": [
+        "o",
+        "l"
+      ],
+      "function": "Modalformant; bevorzugte Deutung gegenüber weiterer Zerlegung.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      }
+    },
+    {
+      "id": "hurrian_268",
+      "morpheme_id": "hurrian_desiderative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=anni",
+      "segments": [
+        "a",
+        "n",
+        "n",
+        "i"
+      ],
+      "function": "Suffix des Desiderativs; intensiv-desiderative Modalform.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96-97"
+      },
+      "notes": "Als Deutung anderer Autoren referiert; Segmentierung nicht gesichert."
+    },
+    {
+      "id": "hurrian_269",
+      "morpheme_id": "hurrian_desid_l",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-l-",
+      "segments": [
+        "l"
+      ],
+      "function": "Verstärkendes Modalelement nach der referierten Analyse.",
+      "source": {
+        "unit": "II.C.4, 16.",
+        "section": "II.C.4, 16.",
+        "page": "96"
+      },
+      "notes": "Nicht als gesicherte weitere Zerlegung von -il- behandelt."
+    },
+    {
+      "id": "hurrian_270",
+      "morpheme_id": "hurrian_infinitive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-umme",
+      "segments": [
+        "u",
+        "m",
+        "m",
+        "e"
+      ],
+      "function": "Bildet Nomina der Handlung bzw. Infinitive.",
+      "source": {
+        "unit": "II.C.4, 17.",
+        "section": "II.C.4, 17.",
+        "page": "97"
+      }
+    },
+    {
+      "id": "hurrian_271",
+      "morpheme_id": "hurrian_infinitive",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-umma",
+      "segments": [
+        "u",
+        "m",
+        "m",
+        "a"
+      ],
+      "function": "Bildet Nomina der Handlung bzw. Infinitive; produktiv in Nuzi-Fügungen.",
+      "source": {
+        "unit": "II.C.4, 17.",
+        "section": "II.C.4, 17.",
+        "page": "97"
+      }
+    },
+    {
+      "id": "hurrian_272",
+      "morpheme_id": "hurrian_voluntative_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i= l+e",
+      "segments": [
+        "i",
+        "l",
+        "e"
+      ],
+      "function": "Voluntativ, 1. Sg.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_273",
+      "morpheme_id": "hurrian_imperative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i/e",
+      "segments": [
+        "i"
+      ],
+      "function": "Imperativ, 2. Sg.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_274",
+      "morpheme_id": "hurrian_imperative",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i/e",
+      "segments": [
+        "e"
+      ],
+      "function": "Imperativ, 2. Sg.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_275",
+      "morpheme_id": "hurrian_imperative_pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=e+ š",
+      "segments": [
+        "e",
+        "š"
+      ],
+      "function": "Imperativ Plural.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_276",
+      "morpheme_id": "hurrian_jussive_3_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i= en",
+      "segments": [
+        "i",
+        "e",
+        "n"
+      ],
+      "function": "3. Person des Jussivs.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_277",
+      "morpheme_id": "hurrian_jussive_3_o",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=u [o]",
+      "segments": [
+        "u"
+      ],
+      "function": "3. Person; modale Form.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_278",
+      "morpheme_id": "hurrian_jussive_3_o",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=u [o]",
+      "segments": [
+        "o"
+      ],
+      "function": "3. Person; modale Form.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_279",
+      "morpheme_id": "hurrian_jussive_3_os",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=u [o]=š",
+      "segments": [
+        "u",
+        "š"
+      ],
+      "function": "3. Person, auch Plural; modale Form.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_280",
+      "morpheme_id": "hurrian_jussive_3_os",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=u [o]=š",
+      "segments": [
+        "o",
+        "š"
+      ],
+      "function": "3. Person, auch Plural; modale Form.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_281",
+      "morpheme_id": "hurrian_jussive_3pl_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i= (i)d en",
+      "segments": [
+        "i",
+        "d",
+        "e",
+        "n"
+      ],
+      "function": "Plural des Jussivs.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_282",
+      "morpheme_id": "hurrian_jussive_3pl_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i= (i)d en",
+      "segments": [
+        "i",
+        "i",
+        "d",
+        "e",
+        "n"
+      ],
+      "function": "Plural des Jussivs.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_283",
+      "morpheme_id": "hurrian_desid_sg_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i+l= anni",
+      "segments": [
+        "i",
+        "l",
+        "a",
+        "n",
+        "n",
+        "i"
+      ],
+      "function": "Intensiv-desiderative transitive Modalform, Singular.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_284",
+      "morpheme_id": "hurrian_desid_pl_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i= (i)d= anni",
+      "segments": [
+        "i",
+        "d",
+        "a",
+        "n",
+        "n",
+        "i"
+      ],
+      "function": "Intensiv-desiderative transitive Modalform, Plural.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_285",
+      "morpheme_id": "hurrian_desid_pl_full",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "=i= (i)d= anni",
+      "segments": [
+        "i",
+        "i",
+        "d",
+        "a",
+        "n",
+        "n",
+        "i"
+      ],
+      "function": "Intensiv-desiderative transitive Modalform, Plural.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_286",
+      "morpheme_id": "hurrian_modal_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "(=il=)",
+      "segments": [
+        "i",
+        "l"
+      ],
+      "function": "Fakultativer Formant vor eva.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_287",
+      "morpheme_id": "hurrian_conditional_opt",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "eva",
+      "segments": [
+        "e",
+        "v",
+        "a"
+      ],
+      "function": "Formen auf -eva; gelegentlich dem Futur ähnliche Geltung.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_288",
+      "morpheme_id": "hurrian_conditional_opt_pl",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_case_person",
+      "form": "eva = š",
+      "segments": [
+        "e",
+        "v",
+        "a",
+        "š"
+      ],
+      "function": "Plural der Formen auf -eva.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_289",
+      "morpheme_id": "hurrian_gerund_il",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=i+l",
+      "segments": [
+        "i",
+        "l"
+      ],
+      "function": "Formanten vor =ai; nominalisierendes i.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_290",
+      "morpheme_id": "hurrian_gerund_im",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=i+m",
+      "segments": [
+        "i",
+        "m"
+      ],
+      "function": "Formanten vor =ai; nominalisierendes i.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_291",
+      "morpheme_id": "hurrian_debitive_final",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "=ai",
+      "segments": [
+        "a",
+        "i"
+      ],
+      "function": "Formant; ursprünglich eine Kasusendung, davor nominalisierender Themavokal.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "116"
+      }
+    },
+    {
+      "id": "hurrian_292",
+      "morpheme_id": "hurrian_modal_ulil",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u/ol+il",
+      "segments": [
+        "u",
+        "l",
+        "i",
+        "l"
+      ],
+      "function": "Formen auf -u/ol+il; intransitiv, auch reflexivisch bzw. distributiv-iterativ gedeutet.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "117"
+      }
+    },
+    {
+      "id": "hurrian_293",
+      "morpheme_id": "hurrian_modal_ulil",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-u/ol+il",
+      "segments": [
+        "o",
+        "l",
+        "i",
+        "l"
+      ],
+      "function": "Formen auf -u/ol+il; intransitiv, auch reflexivisch bzw. distributiv-iterativ gedeutet.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "117"
+      }
+    },
+    {
+      "id": "hurrian_294",
+      "morpheme_id": "hurrian_modal_ulil_i",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "u/oll = i",
+      "segments": [
+        "u",
+        "l",
+        "l",
+        "i"
+      ],
+      "function": "Ausgang der Formen auf -u/ol+il; verbleibendes i nicht recht klar.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "117"
+      }
+    },
+    {
+      "id": "hurrian_295",
+      "morpheme_id": "hurrian_modal_ulil_i",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "u/oll = i",
+      "segments": [
+        "o",
+        "l",
+        "l",
+        "i"
+      ],
+      "function": "Ausgang der Formen auf -u/ol+il; verbleibendes i nicht recht klar.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "117"
+      }
+    },
+    {
+      "id": "hurrian_296",
+      "morpheme_id": "hurrian_unclear_final_i",
+      "category": "verbal",
+      "side": "suffix",
+      "slot": "s_stem",
+      "form": "-i",
+      "segments": [
+        "i"
+      ],
+      "function": "Verbleibender Formant nicht recht klar.",
+      "source": {
+        "unit": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "section": "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+        "page": "117"
+      }
+    },
+    {
+      "id": "hurrian_297",
+      "morpheme_id": "hurrian_article_sg",
+      "category": "nominal",
+      "side": "suffix",
+      "slot": "s_gender_number",
+      "form": "-ne",
+      "segments": [
+        "n",
+        "e"
+      ],
+      "function": "Morphem -ne am Adjektiv ohne Direktiv- oder Dativmorphem.",
+      "source": {
+        "unit": "5. Die Postpositionen und Partikeln",
+        "section": "II.C.5",
+        "page": "98"
+      }
+    },
+    {
+      "id": "hurrian_298",
+      "morpheme_id": "hurrian_encl_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "/lle/",
+      "segments": [
+        "l",
+        "l",
+        "e"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "5. Die Postpositionen und Partikeln",
+        "section": "II.C.5",
+        "page": "99"
+      },
+      "notes": "Optionales Allomorph von /lla/ ausschließlich nach satzeinleitenden Konjunktionen und der Relativpartikel. Weitere Belege derselben Schreibung: Die Partikeln (S. 99)."
+    },
+    {
+      "id": "hurrian_299",
+      "morpheme_id": "hurrian_encl_3pl",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "/lla/",
+      "segments": [
+        "l",
+        "l",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Pl.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "5. Die Postpositionen und Partikeln",
+        "section": "II.C.5",
+        "page": "99"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Die Partikeln (S. 99)."
+    },
+    {
+      "id": "hurrian_300",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "/me/",
+      "segments": [
+        "m",
+        "e"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "5. Die Postpositionen und Partikeln",
+        "section": "II.C.5",
+        "page": "99"
+      },
+      "notes": "Optionales Allomorph von /nna/ ausschließlich nach satzeinleitenden Konjunktionen und der Relativpartikel. Weitere Belege derselben Schreibung: Die Partikeln (S. 99)."
+    },
+    {
+      "id": "hurrian_301",
+      "morpheme_id": "hurrian_encl_3sg",
+      "category": "pronominal",
+      "side": "suffix",
+      "slot": "s_pronoun",
+      "form": "/nna/",
+      "segments": [
+        "n",
+        "n",
+        "a"
+      ],
+      "function": "Enklitisches Personalpronomen des Absolutivs, 3. Pers. Sg.; Subjekt- bzw. Objektanzeiger.",
+      "source": {
+        "unit": "5. Die Postpositionen und Partikeln",
+        "section": "II.C.5",
+        "page": "99"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Die Partikeln (S. 99)."
+    },
+    {
+      "id": "hurrian_302",
+      "morpheme_id": "hurrian_assoc_ma",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "-ma",
+      "segments": [
+        "m",
+        "a"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): Etwa dieselbe Bedeutung wie -an; häufiger in Boğazköy.",
+      "source": {
+        "unit": "5. Die Postpositionen und Partikeln",
+        "section": "II.C.5",
+        "page": "100"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Die enklitischen Partikeln oder „Assoziative“ (S. 100)."
+    },
+    {
+      "id": "hurrian_303",
+      "morpheme_id": "hurrian_assoc_mmaman",
+      "category": "clitic",
+      "side": "suffix",
+      "slot": "s_enclitic",
+      "form": "-mmaman",
+      "segments": [
+        "m",
+        "m",
+        "a",
+        "m",
+        "a",
+        "n"
+      ],
+      "function": "Enklitische Partikel (Assoziativ): „und nämlich, und zwar“ oder ähnlich.",
+      "source": {
+        "unit": "5. Die Postpositionen und Partikeln",
+        "section": "II.C.5",
+        "page": "100"
+      },
+      "notes": "Weitere Belege derselben Schreibung: Die enklitischen Partikeln oder „Assoziative“ (S. 100)."
+    }
+  ],
+  "units_read": [
+    "II.C.2, 2. Position (list)",
+    "II.C.2, 4. Position (untitled table)",
+    "Tabelle 1",
+    "II.C.2, 8. Position (untitled table)",
+    "II.C.2, 9. Position (list)",
+    "Tabelle 2",
+    "II.C.4, 2. Position (untitled table)",
+    "II.C.4, 7. Position (list)",
+    "Tabelle 3",
+    "II.C.4, 8. (list)",
+    "Tabelle 4",
+    "Tabelle 5 und 6",
+    "Tabelle 7",
+    "Tabelle 8",
+    "Tabelle 9",
+    "Tabelle 10",
+    "Tabelle 11",
+    "Tabelle 12",
+    "Tabelle 13",
+    "II.E, \"Der Jussiv und andere Modalformen der Bilingue\" (untitled ruled lists)",
+    "II.D.2 (boxed schema)",
+    "II.D.3 (boxed schema)",
+    "II.C.4, Position 1 (Wurzelerweiterungen, itemised)",
+    "II.C.4, 11.",
+    "II.C.4, 12.",
+    "II.C.4, 13.",
+    "II.C.4, 14.",
+    "II.C.4, 15.",
+    "II.C.4, 16.",
+    "II.C.4, 17.",
+    "5. Die Postpositionen und Partikeln",
+    "Die Partikeln",
+    "Die enklitischen Partikeln oder „Assoziative“"
+  ],
+  "units_without_entries": []
+}

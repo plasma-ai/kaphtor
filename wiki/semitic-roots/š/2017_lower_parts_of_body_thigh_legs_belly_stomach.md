@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2017_lower_parts_of_body_thigh_legs_belly_stomach
 title: "*ša/ipūl- ~ šapil- {} *sa/ipūl- ~ *sapil-: 'lower parts of body; thigh, legs; belly, stomach'"
-desc: "Proto-Semitic *ša/ipūl- ~ šapil- {} *sa/ipūl- ~ *sapil-, 'lower parts of body; thigh, legs; belly, stomach': reflexes in 15 language(s)."
+desc: "Proto-Semitic *ša/ipūl- ~ šapil- {} *sa/ipūl- ~ *sapil-, 'lower parts of body; thigh, legs; belly, stomach': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2017"
@@ -45,6 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | šplyn (pl.) \[DJPA 562b apud CAL\]. | DJPA 562b; CAL | gloss withheld |
 | Tigrinya | šǝnfǝlla 'omasum, stomach chamber of ruminants' \[Bass 234\] | Bass 234 |  |
 | Epigraphic South Arabian | Sab s1fl (SD 124, 125; Sabaweb lemma 4995) | SD 124, 125; Sabaweb lemma 4995 | gloss withheld |
+| Eblaitic | si-bí-lum /Sipl/ (Sanmartín GlOS 2, 258) | Sanmartín GlOS 2, 258 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

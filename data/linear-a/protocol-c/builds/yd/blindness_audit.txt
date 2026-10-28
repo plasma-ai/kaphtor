@@ -1,0 +1,36 @@
+commands: 21
+paths outside the kit: 0
+$ /bin/zsh -lc "pwd; rg --files -g 'BRIEF.md' -g 'AGENTS.md' -g 'package.json' -g 'pyproject.toml' -g 'README*'"
+$ /bin/zsh -lc 'cat BRIEF.md'
+$ /bin/zsh -lc 'ls -la'
+$ /bin/zsh -lc 'cat grammar_files.txt units.md schema.json protocol.md'
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; p=Path(\"ya-diktu-grammar-tom-di-mino.txt\").read_text().split(\"\\f\"); print(\"PAGES\",len(p)); [print(\"\\nPAGE\",i+1,\"\\n\",p[i]) for i in [0,3,4,5,6,7,8,9,10,11,12,13,14]]'"
+$ /bin/zsh -lc "python3 -c 'import importlib.util; [print(m, bool(importlib.util.find_spec(m))) for m in [\"fitz\",\"jsonschema\",\"pypdf\"]]'"
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; p=Path(\"ya-diktu-grammar-tom-di-mino.txt\").read_text().split(\"\\f\"); [print(\"\\nPAGE\",i,\"\\n\",p[i-1]) for i in [8,9,10,11]]'"
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; p=Path(\"ya-diktu-grammar-tom-di-mino.txt\").read_text().split(\"\\f\"); [print(\"\\nPAGE\",i,\"\\n\",p[i-1]) for i in [16,17,18,19,20]]'"
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; p=Path(\"ya-diktu-grammar-tom-di-mino.txt\").read_text().split(\"\\f\"); [print(\"\\nPAGE\",i,\"\\n\",p[i-1]) for i in [21,22,23,24,25,26,27]]'"
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; p=Path(\"ya-diktu-grammar-tom-di-mino.txt\").read_text().split(\"\\f\"); [print(\"\\nPAGE\",i,\"\\n\",p[i-1]) for i in [39,40,41,42]]'"
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; p=Path(\"ya-diktu-grammar-tom-di-mino.txt\").read_text().split(\"\\f\"); [print(\"\\nPAGE\",i,\"\\n\",p[i-1]) for i in [43,44,45,46]]'"
+$ /bin/zsh -lc "python3 -c 'import subprocess, pathlib; a=pathlib.Path(\"ya-diktu-grammar-tom-di-mino.txt\").read_bytes(); b=subprocess.check_output([\"pdftotext\",\"-layout\",\"ya-diktu-grammar-tom-di-mino.pdf\",\"-\"]); print(\"PDF text matches supplied text:\",a==b); print(\"PDF pages:\",len(b.spli
+$ /bin/zsh -lc "python3 -c 'import fitz; d=fitz.open(\"ya-diktu-grammar-tom-di-mino.pdf\"); [d[i-1].get_pixmap(matrix=fitz.Matrix(1.4,1.4)).save(\"review-page-\"+str(i)+\".png\") for i in [5,13,43,44]]'"
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path; s=Path(\"units.md\").read_text().split(\"## Counts\")[0]; r=[x.split(\"|\")[1:-1] for x in s.splitlines() if x.startswith(\"| \")][1:]; print(\"ROWS\",len(r)); [print(i+1,*(c.strip() for c in x[:4]),sep=\" | \") for i,x in enumerate(r)]'"
+$ /bin/zsh -lc 'date -u +%H:%M:%S'
+$ /bin/zsh -lc 'cat inventory.json'
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path
+Path('\\''inventory.json'\\'').write_text(\"{\\n  \\\"arm\\\": \\\"yd\\\",\\n  \\\"grammar\\\": {\\n    \\\"citation\\\": \\\"di Mino. Ya Diktu [title abbreviated under the brief’s output restriction]. October 2026.\\\",\\n    \\\"file_sha256\\\
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path
+Path('\\''inventory.json'\\'').write_text(\"{\\n  \\\"arm\\\": \\\"yd\\\",\\n  \\\"grammar\\\": {\\n    \\\"citation\\\": \\\"di Mino. Ya Diktu [title abbreviated under the brief’s output restriction]. October 2026.\\\",\\n    \\\"file_sha256\\\
+$ /bin/zsh -lc "python3 -c 'import json, pathlib, re, collections
+import jsonschema
+root=pathlib.Path(\".\")
+inv=json.loads((root/\"inventory.json\").read_text())
+schema=json.loads((root/\"schema.json\").read_text())
+jsonschema.Draft202012Validator(schema,format_checker=jsonschema.FormatChecker()).val
+$ /bin/zsh -lc 'cat kit.sha256'
+$ /bin/zsh -lc "python3 -c 'from pathlib import Path
+import hashlib
+for row in Path(\"kit.sha256\").read_text().splitlines():
+    expected, name=row.split(maxsplit=1)
+    assert hashlib.sha256(Path(name).read_bytes()).hexdigest()==expected, name
+for n in [5,13,43,44]:
+    Path(f\"review-page-{n}.png\"

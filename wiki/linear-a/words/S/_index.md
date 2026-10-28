@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T03:07:18Z
+updated: 2026-10-29T14:19:38Z
 ---
 
 # wiki/linear-a/words/S
@@ -73,7 +73,7 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/words/S/SE_SI_TA|SE_SI_TA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SE_TO_I_JA|SE_TO_I_JA]]: Setoiya: Setoiya (Knossian place name). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/S/SE_TO_I_JA|SE_TO_I_JA]]: Ṣētiya: the Eastern (one), of the East: a central Cretan place or a divine epithet; rival pre-Greek toponym Setoiya. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/S/SE_WA_AU_DE|SE_WA_AU_DE]]: šawaʿ-dē: who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē). Lexicon, SPECULATIVE (tier 1).
 
@@ -93,7 +93,7 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/words/S/SI_DU_QI_KU_MI|SI_DU_QI_KU_MI]]: ṣidqī-kummī: Seat of Righteousness (toponym/institutional name). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_DU_star34_KU_MI|SI_DU_star34_KU_MI]]: Onomasticon toponym, no reading.
+[[wiki/linear-a/words/S/SI_DU_star34_KU_MI|SI_DU_star34_KU_MI]]: ṣidqī-kummī: Seat of Righteousness (toponym/institutional name). Onomasticon toponym; lexicon entry SI-DU-QI-KU-MI.
 
 [[wiki/linear-a/words/S/SI_I_SI|SI_I_SI]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -123,11 +123,11 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/words/S/SI_RU|SI_RU]]: ṣillu: shade, protection (personal-name element). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_RU_MA_RI_TA2|SI_RU_MA_RI_TA2]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/S/SI_RU_MA_RI_TA2|SI_RU_MA_RI_TA2]]: Ṣill-marʾita: Shade of the Lady. Onomasticon personal name; lexicon entry SI-RU.
 
 [[wiki/linear-a/words/S/SI_RU_TE|SI_RU_TE]]: šīrūt: sacred song, hymnody (proposed abstract in -ūt of √š-y-r "sing"). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/S/SI_TE|SI_TE]]: Unread (role only): toponym; 2 occurrence(s).
+[[wiki/linear-a/words/S/SI_TE|SI_TE]]: Ṣīt: the East, lit. 'the going-out (of the sun)', a name for eastern Crete; rival ṣīt 'issue, outlay'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_TE_TU|SI_TE_TU]]: šetātu: woven (cloth), a textile entry; rival šittātu 'remainder'. Lexicon, SPECULATIVE (tier 1).
 

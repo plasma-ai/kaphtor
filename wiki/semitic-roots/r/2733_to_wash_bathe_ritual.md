@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | rḥṣ (HALOT 1220); rḥʿ (CAL s.v. rḥʿ) | HALOT 1220; CAL s.v. rḥʿ | gloss withheld |
 | Gafat | (tä)raṣä (LGz. 466) | LGz. 466 |  |
 | Gurage | (tä)raṭä (LGz. 466) | LGz. 466 |  |
-| Amorite | rḫṣ: raḫaṣum, riḫṣum (Gelb AS 21, 30) | Gelb AS 21 30 | gloss withheld |
+| Amorite | rḫṣ: raḫaṣum, riḫṣum (Gelb AS 21, 30); riḥṣ́: ì-lí-ri-iḫ-zi (Sanmartín GlOS 2, 161) | Gelb AS 21 30; Sanmartín GlOS 2, 161 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic rḥḍ (Al-Jallad–Jaworska 117) | Al-Jallad–Jaworska 117 | gloss withheld |
 | East Ethiopic | Sel. täraṭä (EDG 528 apud SEDonline 911) | EDG 528; SEDonline 911 | gloss withheld |
 

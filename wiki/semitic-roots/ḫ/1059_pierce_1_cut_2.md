@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ḫll \[-u-\] 1, ḫly 2 |  |  |
+| Arabic | ḫll \[-u-\] 1, ḫly 2; ḫalā 'he cut the herbage called ḫalan, or he plucked it up' 2 (Lane 806) | Lane 806 |  |
 | Hebrew | ḥll 1 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

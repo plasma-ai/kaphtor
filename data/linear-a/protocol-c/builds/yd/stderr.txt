@@ -1,0 +1,4 @@
+Reading additional input from stdin...
+2026-10-29T19:09:13.983584Z ERROR codex_skills_extension::loader::host: skills scan reached its traversal limit (root: file://CODEX_HOME/skills)
+2026-10-29T19:09:13.994391Z ERROR codex_core::session::session: failed to load skill linear-a-decipherment/references/linear-b/SKILL.md: missing YAML frontmatter delimited by ---
+2026-10-29T19:18:50.479024Z ERROR codex_core::tools::router: error=apply_patch verification failed: invalid patch: multiple operations target $KIT/inventory.json

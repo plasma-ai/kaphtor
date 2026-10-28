@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | kaltā 1, 2 (Ja. 645); kallā 1, 2 (DJPA 259a apud CAL) | Ja. 645; DJPA 259a; CAL |  |
 | Syrian Aramaic | kallǝt- 1, 2, 4 (also 'clitoris, praeputium') (Brock. 326-7) | Brock. 326-7 |  |
 | Aramaic | Palm. klh 1 (HJ 510); Sam. klh 1 (Tal 2, 387) | HJ 510; Tal 2, 387 |  |
-| Eblaitic | kál-la-tum (Kogan 2011, 236; VE 322; Krebernik 1983, 14) | Kogan 2011 236; VE 322; Krebernik 1983, 14 |  |
+| Eblaitic | kál-la-tum (Kogan 2011, 236; VE 322; Krebernik 1983, 14); gal-la-tum, gal-la-du, gal-tum /kallat/ 2 (Sanmartín GlOS 1, 306) | Kogan 2011 236; VE 322; Krebernik 1983, 14; Sanmartín GlOS 1, 306 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

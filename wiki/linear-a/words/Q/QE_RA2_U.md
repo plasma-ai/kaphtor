@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Heads HT1 (KI-RO 197, ZU-SU 70, DI-DI-ZA-KE 52, KU-PA₃-NU 109, A-RA-NA-RE 105), a list with no commodity logogram. Closes the fixed set DA-ME, MI-NU-TE, SA-RU, KU-NI-SU 'emmer', DI-DE-RU on HT95a (under DA-DU-MA-TA · GRA) and HT95b; QA-RA₂-WA closes the same set on HT86a. PS \*ḳVlVw- 'roast': Hebrew קָלִי 'parched grain', listed with wheat, barley and flour (2 Sam 17:28; Lev 23:14); Syriac qelyātā, Geʿez qēlēw 'roasted' (HALOT s.v. קָלִי); Akkadian qalītu 'parched grain' (CAD Q 59), verb qalû 'burn, roast' (CAD Q 69; OB to NA, Boğazköy and El-Amarna included). QE writes the e of qelyātā and qēlēw; RA₂ = /la/; U = /wu/. As a grain product it gives the HT95 set a second commodity beside KU-NI-SU, which bears on SA-RU and DI-DE-RU as recipients.
+Heads HT1 (KI-RO 197, ZU-SU 70, DI-DI-ZA-KE 52, KU-PA₃-NU 109, A-RA-NA-RE 105), a list with no commodity logogram. Closes the fixed set DA-ME, MI-NU-TE, SA-RU, KU-NI-SU 'assembly', DI-DE-RU on HT95a (under DA-DU-MA-TA · GRA) and HT95b; QA-RA₂-WA closes the same set on HT86a. PS \*ḳVlVw- 'roast': Hebrew קָלִי 'parched grain', listed with wheat, barley and flour (2 Sam 17:28; Lev 23:14); Syriac qelyātā, Geʿez qēlēw 'roasted' (HALOT s.v. קָלִי); Akkadian qalītu 'parched grain' (CAD Q 59), verb qalû 'burn, roast' (CAD Q 69; OB to NA, Boğazköy and El-Amarna included). QE writes the e of qelyātā and qēlēw; RA₂ = /la/; U = /wu/. As a grain product it is the one commodity in a set of parties (KU-NI-SU, SA-RU, DI-DE-RU).
 
 ### Source
 

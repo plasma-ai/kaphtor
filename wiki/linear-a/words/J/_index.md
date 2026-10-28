@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T15:14:17Z
+updated: 2026-10-28T21:28:32Z
 ---
 
 # wiki/linear-a/words/J
@@ -101,7 +101,7 @@ updated: 2026-10-27T15:14:17Z
 
 [[wiki/linear-a/words/J/JA_WI|JA_WI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/J/JA_star21F|JA_star21F]]: Onomasticon theonym, no reading.
+[[wiki/linear-a/words/J/JA_star21F|JA_star21F]]: Yāh(a): Yāh, divine name; deity receiving offerings alongside Baal on HT28b. Onomasticon theonym; lexicon entry JA-HA.
 
 [[wiki/linear-a/words/J/JA_star304|JA_star304]]: Unread (unread): no role; 1 occurrence(s).
 

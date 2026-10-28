@@ -77,7 +77,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | smith or administrator (occupational title) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | village, settlement | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (PNM v6) | PROBABLE | PROBABLE (lexicon) |
-| \*86+'\*188' | na-BUṬNU(?) | terebinth compound (product subtype or modifier) | SPECULATIVE |  |
+| \*86+'\*188' | na-BUṬNU | terebinth compound (product subtype or modifier) | SPECULATIVE |  |
 
 ### Notes
 

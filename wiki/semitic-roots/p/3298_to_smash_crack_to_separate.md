@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*prˁ 'to smash, to crack' (EDA I 226 apud SEDonline 1825). SEDonline 1825 also sets here Akk. parāˀu 'to slice, to slit' (CAD P 181, AHw 832), which shows no e-colouring for \*ʕ and stands in 1745 \*pVrVy- 'cut'. Cf. 452 \*pVrVʕ- 'climb', 387 \*parāʕ- 'axe'.
+PS \*prˁ 'to smash, to crack' (SEDonline 1825). SEDonline 1825 also sets here Akk. parāˀu 'to slice, to slit' (CAD P 181, AHw 832), which shows no e-colouring for \*ʕ and stands in 1745 \*pVrVy- 'cut'; EDA I 226 (◊P0385) gives \*prˁ, with JBA prˁ, Arb. frˁ, Tna. färaˁ bälä, Mhr. fátra and Jib. efráˁ, as an alternative prototype of parāˀu, and finds von Soden's match with Arb. fry phonologically unlikely (the Akkadian 'strong aleph' against -y). Cf. 452 \*pVrVʕ- 'climb', 387 \*parāʕ- 'axe'.
 
 <!-- END kaphtor:record -->

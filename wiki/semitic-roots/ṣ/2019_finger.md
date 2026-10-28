@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | neṣbettu \[CAD n2 190\], \[AHw 782\]. | CAD n2 190; AHw 782 |  |
 | Harsusi | ḥaṣ̌báʔ \[JH 126\] | JH 126 |  |
 | Tigre | č̣ǝbʕǝt \[LH 627\] | LH 627 |  |
-| Eblaitic | iš-ba-um, ì-sa-ba-um, iš11-ba-ḫum /ʔiṣbaʕum/ \[Kr 18; Bl E No. 20\]; iṣ-ba-um (OLA80 §27.17) | Kr 18; OLA80 §27.17 | gloss withheld |
+| Eblaitic | iš-ba-um, ì-sa-ba-um, iš11-ba-ḫum /ʔiṣbaʕum/ \[Kr 18; Bl E No. 20\]; iṣ-ba-um (OLA80 §27.17); iš-ba-um /ʾiṣbaʿ/ (Sanmartín GlOS 1, 47) | Kr 18; OLA80 §27.17; Sanmartín GlOS 1, 47 | gloss withheld |
 | Mandaic Aramaic | ṣibita, ʕṣba \[DM 355\] | DM 355 | gloss withheld |
 | Ugaritic | ʔuṣbʕ \[DULAT 111\] | DULAT 111 | gloss withheld |
 | East Ethiopic | SEL ZWY ǝnṭābit, WOL ǝnṭabit \[LGur 108\] | LGur 108 |  |

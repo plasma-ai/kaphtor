@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/2037_neck_and_shoulders
 title: "*ṯVkm- {} *čVkm-: 'neck and shoulders'"
-desc: "Proto-Semitic *ṯVkm- {} *čVkm-, 'neck and shoulders': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ṯVkm- {} *čVkm-, 'neck and shoulders': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2037"
@@ -39,6 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | tašäkkämä (LGz. 496) | LGz. 496 |  |
 | Gafat | täsikkämä (LGz. 496) | LGz. 496 |  |
 | Punic | škm (Neo-Punic; Krahmalkov 460) | Krahmalkov 460 | gloss withheld |
+| Amorite | ṯākim: ša-ki-mu-um, a-ḫi-ša-ki-im; ṯakūm: sa-ku-mu-um (Sanmartín GlOS 2, 319) | Sanmartín GlOS 2, 319 | gloss withheld |
+| Eblaitic | \[iš\]-gim-\[t\]um, iš₁₁-gi-du-núm /ʾiṯkimt/; iš-gi-da-nu /ʾiṯkittān/; /ṯakūm/: cf. names ša-gú-um, ša-gú-mu (Sanmartín GlOS 2, 319) | Sanmartín GlOS 2, 319 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

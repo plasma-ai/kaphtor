@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ebēṭu (CAD E 13, AHw. 182 apud SEDonline 2087) | CAD E 13, AHw. 182; SEDonline 2087 | gloss withheld |
-| Eblaitic | ù-bù-tum, ù-bù-du-um /ˁubbuṭum/ (VE 124; Krebernik 1996:239 apud SEDonline 2087) | VE 124; Krebernik 1996:239; SEDonline 2087 | gloss withheld |
+| Eblaitic | ù-bù-tum, ù-bù-du-um /ˁubbuṭum/, su-bù-tum /šūbuṭum/ (= Sum. níg-esirₓ(LAK 173)-sá) (VE 124; Krebernik 1996:239 apud SEDonline 2087; Civil 2017, 98); ì-ba-tum, íb-tum /ibṭu/ (= Sum. sag-kéš) (VE 253, 1428; Civil 2017, 104) | VE 124; Krebernik 1996:239; SEDonline 2087; Civil 2017, 98; VE 253, 1428; Civil 2017, 104 | gloss withheld |
 | Arabic | ɣubṭat- (Lane 2226 apud SEDonline 2087) | Lane 2226; SEDonline 2087 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

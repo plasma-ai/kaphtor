@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/y/838_to_suck
 title: "*ynḳ: 'to suck'"
-desc: "Proto-Semitic *ynḳ, 'to suck': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ynḳ, 'to suck': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "838"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | yǝnaḳ \[Ja 581\], \[DJPA 242b apud CAL\] | Ja 581; DJPA 242b; CAL |  |
 | Syrian Aramaic | ʔīnēḳ \[Brock 304\] | Brock 304 |  |
 | Aramaic | OLD OFF ynḳ, caus. \[HJ 461\] | HJ 461 | gloss withheld |
+| Eblaitic | uš-a-na-ga /y-n-q/ (Sanmartín GlOS 2, 374) | Sanmartín GlOS 2, 374 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

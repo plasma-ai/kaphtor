@@ -11,7 +11,7 @@ updated: 2026-10-22T18:14:10Z
 
 ## Scope
 
-`data/aramaic_texts.jsonl` is a passage-level research index built from local source caches. The current manifest records **368,017 passages**, **3,983,946 source nodes/tokens**, and **1,036,685 structured token rows**. It is broad, not exhaustive, and does not turn texts of different dates and dialects into one synchronic corpus.
+`data/aramaic_texts.jsonl` is a passage-level research index built from local source caches; it is not in this repository, and this page describes a user's own build. The current manifest records **368,017 passages**, **3,983,946 source nodes/tokens**, and **1,036,685 structured token rows**. It is broad, not exhaustive, and does not turn texts of different dates and dialects into one synchronic corpus.
 
 | Layer | Passages | Tokens | Source and status |
 |---|---:|---:|---|
