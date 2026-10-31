@@ -48,11 +48,11 @@ TY3b (Tylissos, LM IB) KI-RI-SI OLE+MI 6 heads side b of an oil-distribution tab
 |---|---|
 | Amorite | Gelb AS 21 glossary 'Kiriš, Kirišu, DN' (root KRS); ʾAwij-Kiriš A-WI-KI-RI-IŠ (no. 563; ARM XIV 106:18) and Iluna-Kiriš (no. 2556; ARM XIII 8:19 = LAPO 16 no. 104), Mari, Zimri-Lim era. Kiri(š) in 2 women's and 5 men's name types (Nakata 1995, Orient 30–31, charts pp. 251–252); seal of Iluna-Kiriš, servant of Zimri-Lim (Topçuoğlu 2016 no. 251 = Otto 2000 fig. 435) |
 | Linear B | qe-ra-si-ja (KN Fp 1+31, 5, 6, 13, 14, 48; fem. dat., oil offerings beside pa-si-te-o-i), masc. qe-ra-si-jo (KN Fp 16.2): comparandum, not identity (KI/QE, RI/RA) |
-| Hurrian | Gelb 1944 (Hurrians and Subarians, 113) parses Ur III Pudum-kiriš as Hurrian kir + -š |
+| Hurrian | Gelb 1944 (Hurrians and Subarians, 113) parses Ur III Pudum-kiriš as Hurrian kir + -š; Karana ki-ri-šu Kirišu, in Monti's Hurrian list (Monti 2017, 390) |
 
 ### Source
 
-di Mino
+di Mino; Monti 2017
 
 ## Attestations
 

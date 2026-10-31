@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kās |
 | Meaning | cup, drinking vessel—commodity ideogram for a specific vessel type, with KE phonetic complement indicating initial syllable of Semitic \*kaʾs- |
 | Root | k-ʾ-s |
+| Proto-Semitic | \*kaʾs- (#297) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Vessel ideogram (\*406VAS) with phonetic complement KE, functioning as tablet header on both sides of HT26 (Haghia Triada, Villa Magazine, LMIB). The VAS sign is pictographic—a vessel drawing—probably a compound or ligature component, not a phonetic sign. The +KE complement narrows the generic vessel ideogram to a specific type, paralleling Linear B vessel ideogram + phonetic complement conventions. PS #297 \*kaʾs- "vessel for beer, bowl" (Akk. kāsu, Heb. kōs, Arab. kaʾs; Ebla ga-sa-a-tum kāsāt 'cups', GlOS 1, 322): the medial aleph triggers vowel fronting in NWS, yielding \*kēs → KE as initial syllable complement. KA-SI (skeleton k-s) attested on HTWa1027 (Haghia Triada nodule)—same site, same consonantal skeleton, possibly the same word spelled syllabically on a different document type. HT93a has the bare form \*406-VS (without KE complement) alongside DA-RI-DA with quantity 2, confirming the sign functions as a vessel-class commodity marker across multiple tablets. HT26b opens with \*406VAS+KE followed by VIR+\[?\] 9 and named allocations (RO-NI 3, KA-U-ZU-NI 4, KI+MU 12)—a personnel/commodity distribution ledger organized by vessel type.
+Vessel ideogram (\*406VAS) with phonetic complement KE, functioning as tablet header on both sides of HT26 (Haghia Triada, Villa Magazine, LMIB). The VAS sign is pictographic—a vessel drawing—probably a compound or ligature component, not a phonetic sign. The +KE complement narrows the generic vessel ideogram to a specific type, paralleling Linear B vessel ideogram + phonetic complement conventions. Akk. kāsu, Heb. kōs, Arab. kaʾs, Ebla ga-sa-a-tum kāsāt 'cups' (GlOS 1, 322): the medial aleph triggers vowel fronting in NWS, yielding \*kēs → KE as initial syllable complement. KA-SI (skeleton k-s) attested on HTWa1027 (Haghia Triada nodule)—same site, same consonantal skeleton, possibly the same word spelled syllabically on a different document type. HT93a has the bare form \*406-VS (without KE complement) alongside DA-RI-DA with quantity 2, confirming the sign functions as a vessel-class commodity marker across multiple tablets. HT26b opens with \*406VAS+KE followed by VIR+\[?\] 9 and named allocations (RO-NI 3, KA-U-ZU-NI 4, KI+MU 12)—a personnel/commodity distribution ledger organized by vessel type.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | kāsu 'goblet, cup; cup as measure' (CAD K 253) |
+| Hebrew | kôs 'cup, goblet' (HALOT 466) |
+| Ugaritic | ks (I) 'cup, goblet' (DULAT 454) |
 
 ### Source
 

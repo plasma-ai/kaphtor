@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ha-Śikira |
 | Meaning | personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded' |
 | Root | ś-k-r |
+| Proto-Semitic | \*śVkVr- (#K0481) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

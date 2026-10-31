@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kadd |
 | Meaning | jar, jug (liquid container) |
 | Root | k-d-d |
+| Proto-Semitic | \*kad- (#319) |
 | Language layer | NWS |
 | Category | vessel |
 | Semantic field | vessel |
@@ -46,14 +47,13 @@ ZA 15b: KA-DI · VIN 3, then KU-RO VIN 78. ZA 4a: KA-DI 3, the last entry of the
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | kd "jar; measure of capacity for liquids" (DULAT 424) |
+| Ugaritic | kd "jar; measure of capacity for liquids" (DULAT 424); syll. DUG ka-du-ma 'jars' (GlOS 1, 301) |
 | Hebrew | kad כַּד "jar, pitcher" (Gen 24:14) |
 | Akkadian | kandu "a container of earthenware or silver, mainly for wine", NB, West Semitic word (CAD K 148) |
-| Proto-Semitic | \*kad- "mug" |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

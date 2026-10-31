@@ -128,8 +128,11 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
         body += ["## Lexicon", "",
                  f"**{e['confidence']}**, tier {e['tier']} of 4" + (f", score {score:.2f}" if score is not None else "")
                  + (" · anchor" if e.get("is_anchor") else ""), ""]
+        ps = e.get("proto_semitic") or []
+        ps = ps if isinstance(ps, list) else [ps]
         rows = [[name, esc(value)] for name, value in (
             ("Reading", e.get("reading")), ("Meaning", e.get("meaning")), ("Root", e.get("root")),
+            ("Proto-Semitic", " + ".join(f"{p['form']} (#{p['id']})" for p in ps)),
             ("Language layer", e.get("language_layer")), ("Category", e.get("category")),
             ("Semantic field", e.get("semantic_field"))) if value]
         body += table(["Field", "Value"], rows) + [""]

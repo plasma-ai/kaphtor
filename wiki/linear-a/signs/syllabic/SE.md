@@ -70,5 +70,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_MU_SA_SE\|TE-MU-SA-SE]] | temussasē | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 
 <!-- END kaphtor:record -->

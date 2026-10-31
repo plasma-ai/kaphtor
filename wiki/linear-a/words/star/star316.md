@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kiššanu |
 | Meaning | bean or legume; food commodity in ration allocations |
 | Root | k-š-n |
+| Proto-Semitic | \*kišan- (#1606) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,12 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Commodity ideogram \*316 (6 att., Khania + Phaistos). KI complement on nodules KHWa1001/1002 gives initial syllable /ki/. Akk kiššanu 'bean' (CAD K 454). On KH91, positioned between VIN (wine) and NI (figs) in a rations list alongside GRA and \*401+RU/RO—food commodity context. On PH1a, allocated to named individuals (DI-RA-DI-NA, JA) with CYP—three independent contexts across two sites and three document types. Akkadian-only attestation; no Hebrew or Ugaritic reflexes confirmed.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | kiššanu, kiššenu 'a leguminous plant' (CAD K 456) |
 
 ### Source
 

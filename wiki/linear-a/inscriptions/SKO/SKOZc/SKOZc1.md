@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1
 title: "SKOZc1"
-desc: "Clay chalice rim (two nonjoining fragments); painted inscription, Skoteino Cave, LM IA–B. Translation: complete (CANDIDATE)."
-tags: ["linear-a", "inscription", "translation-complete", "clay-chalice-rim-(two-nonjoining-fragments);-painted-inscription"]
+desc: "Clay chalice rim (two nonjoining fragments); painted inscription, Skoteino Cave, LM IA–B. Translation: incomplete (CANDIDATE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "clay-chalice-rim-(two-nonjoining-fragments);-painted-inscription"]
 kind: "inscription"
 id: "SKOZc1"
 site: "Skoteino Cave"
 support: "Clay chalice rim (two nonjoining fragments); painted inscription"
 period: "LM IA–B"
-translation: "complete"
-words: ["NA-TU-*301-NE", "QA-KI-TI"]
+translation: "incomplete"
+words: ["NA-TU-*301-NE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐄁 NA-TU-\*301-NE
-2. QA-KI-TI
+2. \]QA-KI-TI\[
 
 Unicode (Linear A block):
 
@@ -51,14 +51,14 @@ Unicode (Linear A block):
 
 ## Translation
 
-**CANDIDATE**, complete.
+**CANDIDATE**, incomplete (status: incomplete).
 
-> The dedicated one; the top (?).—OR: The Giver; the top (?).
+> The dedicated one; \[…\]QA-KI-TI\[…\].—OR: The Giver; \[…\]QA-KI-TI\[…\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān / nātānān | the dedicated one (passive) or the giver (active)—from √n-t-n 'to give' + -ān suffix | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/Q/QA_KI_TI\|QA-KI-TI]] | qaqqiti | the top, head (?) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/Q/QA_KI_TI_broken_both\|&#93;QA-KI-TI&#91;]] |  | unread |  | unread |
 
 ### Notes
 
@@ -66,11 +66,11 @@ Context: Cave sanctuary votive—two words painted on a chalice rim, two non-joi
 
 ### Source
 
-- di Mino: NA-TU-\*301-NE, QA-KI-TI
+- di Mino: NA-TU-\*301-NE
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/N/NA_TU_star301_NE|NA-TU-\*301-NE]], [[wiki/linear-a/words/Q/QA_KI_TI|QA-KI-TI]].
+[[wiki/linear-a/words/N/NA_TU_star301_NE|NA-TU-\*301-NE]].
 
 ## Corpus note
 

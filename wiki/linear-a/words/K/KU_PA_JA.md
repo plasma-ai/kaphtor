@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 116a: KU-PA-JA GRA 16, first of six grain recipients under U-TA-RO · TE ·, with PU-RA₂, SI+SE, PI-\*34-TE, SI-KI-NE and QA-NU-MA. KU-PA-JA writes Kubbaya, the geminate unwritten, -aya the hypocoristic ending; cf. Amorite KUBB-IJA at Mari, KUBB-AN-UM (Gelb AS 21 nos. 4148–4149). Rival: KU-PA quppa 'box, basket' (HT 110a, KH 29, ZA 11a/b) with -ya; or a name on Kubaba (Gelb's Kupapa). One attestation.
+HT 116a: KU-PA-JA GRA 16, first of six grain recipients under U-TA-RO · TE ·, with PU-RA₂, SI+SE, PI-\*34-TE, SI-KI-NE and QA-NU-MA. KU-PA-JA writes Kubbaya, the geminate unwritten, -aya the hypocoristic ending; cf. Amorite KUBB-IJA at Mari, KUBB-AN-UM (Gelb AS 21 nos. 4148–4149). Rival: KU-PA quppa 'box, basket' (HT 110a, KH 29, ZA 11a/b) with -ya; or a name on Kubaba (Kupapa, Gelb 1980, 23). One attestation.
 
 ### Cognates
 

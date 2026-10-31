@@ -34,17 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | watru |
 | Meaning | additional, surplus, or excess (administrative heading) |
 | Root | w-t-r |
+| Proto-Semitic | \*wtr (#S92) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-Hapax heading before the TE transaction sign on HT116a. Akkadian watrum (stem watar-) means 'additional, in excess,' and substantivized watartum/watarti means 'excess, surplus, extra' (Huehnergard 1997, §10.1). This provides a closer consonantal and administrative comparison than \*ʿattāru 'supplicant.' U may represent /wV/ and final RO may contain a dead vowel, but the precise form and syntax remain uncertain. Hebrew √ʿ-t-r 'entreat' is genuine (Gen 25:21; Judg 13:8), yet the proposed agent noun and donor interpretation are unattested and survive only as a weak rival.
+Hapax heading before the TE transaction sign on HT116a. U writes wa, RO a dead vowel: watr- 'surplus', Akk. watrum 'additional, in excess', watartum 'excess, surplus'. Rival: Heb. √ʿ-t-r 'entreat' (Gen 25:21; Judg 13:8), an agent noun \*ʿattār 'supplicant', unattested. See TE-RI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | watrum 'additional, in excess'; watartum 'excess, surplus' (Huehnergard 1997, §10.1) |
+| Eblaite | a-BAN(tarₓ) watār 'abundance' (GlOS 2, 363) |
+| Alalakh | at-rù 'excellent; too much' (GlOS 2, 363) |
 
 ### Source
 
-Huehnergard 1997, §10.1; HT116a structural comparison
+di Mino; Huehnergard 1997, §10.1; GlOS 2
 
 ## Attestations
 

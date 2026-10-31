@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | barq- 1 (Lane 190) | Lane 190 |  |
-| Mehri | bōreq 1 |  |  |
+| Mehri | bōreq 1; barḳ 1 (Rubin 2018 823, 556) | Rubin 2018 823, 556 | gloss withheld |
 | Akkadian | berqu, birqu 1 |  |  |
 | Tigre | bärq 1 |  |  |
 | Ugaritic | brq 1 |  |  |

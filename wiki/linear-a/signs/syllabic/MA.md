@@ -78,6 +78,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_NU_MA\|QA-NU-MA]] | qanūma | CANDIDATE |
 | [[wiki/linear-a/words/R/RI_RU_MA\|RI-RU-MA]] | Lirumā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_SU_MA\|RI-SU-MA]] | rīšum(a) | CANDIDATE |
+| [[wiki/linear-a/words/R/RI_TA_MA\|RI-TA-MA]] | Ritmā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA\|RU-MA]] | Rūma | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_JA_MA\|SA-JA-MA]] | śaymā | SPECULATIVE |
@@ -87,9 +88,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SI_MA\|SI-MA]] | šima | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
-| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-lēwīt | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | tittma | CANDIDATE |
-| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar/Tamar | CANDIDATE |
+| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿlum | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | tūma | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯawrinima | SPECULATIVE |

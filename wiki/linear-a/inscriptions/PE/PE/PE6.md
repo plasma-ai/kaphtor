@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/inscriptions/PE/PE/PE6
 title: "PE6"
-desc: "Tablet, Petras. Translation: complete (CANDIDATE)."
+desc: "Tablet, Petras. Translation: complete (SPECULATIVE)."
 tags: ["linear-a", "inscription", "translation-complete", "tablet"]
 kind: "inscription"
 id: "PE6"
@@ -40,23 +40,22 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. I-NA TE-TA-NA-MA-JE
+1. I-NA-\[?\]-TE 𐄁 TA-NA-MA-JE 𐄁
 
 ## Translation
 
-**CANDIDATE**, complete.
+**SPECULATIVE**, complete.
 
-> Behold, the offering—Tanʿamay ('She is gracious').
+> I-NA-\[?\]-TE \[…\] / Tanʿamay ('She is gracious').
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/I/I_NA\|I-NA]] | hinna | behold! (presentative particle) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/T/TE\|TE]] | terûmā | contribution, sacred offering (logographic abbreviation) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | personal name (dedicant), 'She is gracious' | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/I/I_NA_q_TE\|I-NA-&#91;?&#93;-TE]] |  | one word with a sign lost after NA. Not readable. |  | unread |
+| [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | personal name, 'She is gracious' | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 
-Context: MM III clay tablet. Simplest complete votive formula in the corpus: presentative + offering term + dedicant name. Recorded twice in lineara.xyz, as PE 6 and as a 'stone object' PE Zg 6; the two drawings are one tablet. Segmentation: SigLA runs I-NA-TE as one word; lineara divides I-NA 𐄁 TE, and the Younger/Devroye word-list registers TA-NA-MA-JE at PE Zg 6. MM III date makes Tanʿamay an early attestation of the √n-ʿ-m name family (Ug. nʿmy, nʿmn; Heb. Naʿamah, Naʿaman, Noʿomī, Abinoam).
+Context: MM III clay tablet, two lines: .1 I-NA-\[?\]-TE, one word with a sign lost after NA, above a ruling; .2 TA-NA-MA-JE alone below it (Younger; SigLA runs I-NA-TE). The earlier division I-NA 𐄁 TE 𐄁 TA-NA-MA-JE is superseded. Recorded twice in lineara.xyz, as PE 6 and as a 'stone object' PE Zg 6; the two drawings are one tablet. MM III date makes Tanʿamay an early attestation of the √n-ʿ-m name family (Ug. nʿmy, nʿmn; Heb. Naʿamah, Naʿaman, Noʿomī, Abinoam).
 
 ### Source
 

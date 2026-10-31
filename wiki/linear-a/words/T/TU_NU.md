@@ -46,6 +46,7 @@ KA Zf 1, a bronze double axe from Kardamoutsa (BM 1954,10-20.1), TU and NU · on
 | Language | Comparison |
 |---|---|
 | Hurrian | element tun- 'H.', cf. tu-u-ni, du-u-ni (KUB XXV 44, 45) (NPN 269); Nuzi TUN-TEŠUP, Du-un-te-šu-up, var. Du-un-te-šup, f. of Arbi (NPN 158) |
+| Middle Assyrian | Tunuya, tu-nu-ia (MARV 9 95, Aššur) |
 
 ### Source
 

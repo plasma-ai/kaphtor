@@ -30,7 +30,7 @@ Evidence: the meaning is given; one GRA+DA (HT133) among 36 syllabic riders
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/G/GRA\|GRA]] |  | PROBABLE |
-| [[wiki/linear-a/words/G/GRA_plus_KU\|GRA+KU]] |  | PROBABLE |
+| [[wiki/linear-a/words/G/GRA_plus_KU\|GRA+KU]] |  | CANDIDATE |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | parīsu | CANDIDATE |
 | [[wiki/linear-a/words/G/GRA_plus_QE\|GRA+QE]] | qemāḥu | CANDIDATE |
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/1658_speak
 title: "*dVbVb-: 'speak'"
-desc: "Proto-Semitic *dVbVb-, 'speak': reflexes in 1 language(s)."
+desc: "Proto-Semitic *dVbVb-, 'speak': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1658"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | dābab (Klein s.v. דבב ᴵᴵ) | Klein s.v. דבב ᴵᴵ | gloss withheld |
 | Akkadian | dabābu |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

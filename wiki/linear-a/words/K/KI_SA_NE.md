@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qīšāne |
 | Meaning | personal or clan name, 'Kishite(s)' |
 | Root | q-y-š |
+| Proto-Semitic | \*ḳyš (#3843) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

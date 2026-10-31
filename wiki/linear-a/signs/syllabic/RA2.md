@@ -36,17 +36,19 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - PU-RA₂ compared with Bōlu/Baʿal by Gordon (candidate lexical identification)
-- RA2 specifically marks /la/ distinct from RA = /ra/
+- Linear B inherits AB76 as ra₂, /rya, lya/ &gt; /rra, lla/, alternating with plain ra; the /la/ of Heubeck and Leukart is at least equally /lla/ (Judson 2020, 72, 74, 75 n. 278)
+- SA-RA₂ (20 HT tablets) writes šarra 'queen' with RA₂ for the geminate; SA-RA (SAMWa1) leaves it unwritten
+- PU-RA₂ (HT 28b, 116a) ~ PU-RA (KN 54): RA₂ alternates with RA, as Linear B ra₂ with ra
 
 ### Note
 
-The only sign that reliably distinguishes /l/ from /r/ in Linear A.
+A marked liquid: /la/ and the geminates /lla/, /rra/, which RA also writes, unmarked.
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasīr- | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasāra | CANDIDATE |
 | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]] | ʾilā(t) | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_RA2\|O-RA₂]] | ʾŌl | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | SPECULATIVE |

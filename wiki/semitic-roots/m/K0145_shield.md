@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0145_shield
 title: "*mVgVn-: 'shield'"
-desc: "Proto-Semitic *mVgVn-, 'shield': reflexes in 6 language(s)."
+desc: "Proto-Semitic *mVgVn-, 'shield': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0145"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | māgēn (Klein s.v. מָגֵן) | Klein s.v. מָגֵן | gloss withheld |
 | Punic | mgn 'shield' | Anderson–Moser 2024 root mgn |  |
 | Phoenician | mgn (T 165) | T 165 | gloss withheld |
 | Arabic | miǧann 'shield' (Lane 464) | Lane 464 |  |

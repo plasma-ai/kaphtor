@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | si-SIPRU |
 | Meaning | the account/record (phonetic complement + logogram) |
 | Root | s-p-r |
+| Proto-Semitic | \*sapVr- (#2701) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | administrative |
@@ -41,6 +42,14 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 SI prefix = phonetic complement marking /s/-onset of logogram \*516=SIPRU. Parallel to PA₃-\*188 (marking /b/-onset of BUṬNU). Single attestation on HT34. Huehnergard: /sipru/ qitl pattern, pl. /siparūma/; BH sēper.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | spr (II) 'tablet, register, list, inventory; record of tribute' (DULAT 756) |
+| Hebrew | sēper 'inscription, letter, scroll' (HALOT 766) |
+| Phoenician | spr 'inscription; document' (Krahmalkov 347) |
 
 ### Source
 

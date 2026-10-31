@@ -72,7 +72,7 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> Disbursed (I-TI-TI-KU-NI) · ʿAbrāne · A-\*123-TE: Śīmat grain 5; Rusa 4; \*323-\*317 1; the Maiden 1; \*323-\*344 1. — \]KU-MA-RO: TE, figs 20; \[…\] figs 2.
+> Disbursed (I-TI-TI-KU-NI) · ʿAbrāne · A-\*123-TE: Śīmat grain 5; Rusa 4; \*323-\*317 1; the agents 1; \*323-\*344 1. — \]KU-MA-RO: TE, figs 20; \[…\] figs 2.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/G/GRA\|GRA]] | grain | grain (logogram) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | recipient; personal name | SPECULATIVE | SPECULATIVE (lexicon) |
 | \*323-\*317 |  | transaction sign + logogram |  |  |
-| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitara / batūla | maiden; rival a recipient's name | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | trade agents, a personnel group drawing grain; rivals bitāri 'portions', a recipient's name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star323_star344\|\*323-\*344]] |  | transaction sign + logogram |  | unread |
 | [[wiki/linear-a/words/K/KU_MA_RO_broken_start\|&#93;-KU-MA-RO]] |  | broken before KU |  | unread |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | transaction or category sign; perhaps contribution | CANDIDATE | CANDIDATE (lexicon) |

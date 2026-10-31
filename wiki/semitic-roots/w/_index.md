@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/w
 desc: "Semitic roots whose first radical is w."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T00:24:55Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/w
@@ -149,7 +149,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/w/3561_to_flow_continually_ever_flowing|3561_to_flow_continually_ever_flowing]]: Proto-Semitic *wtn, 'to flow continually; ever-flowing': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/w/3575_wadi_river_valley|3575_wadi_river_valley]]: Proto-Semitic *wdy, 'wadi, river valley': reflexes in 2 language(s).
+[[wiki/semitic-roots/w/3575_wadi_river_valley|3575_wadi_river_valley]]: Proto-Semitic *wdy, 'wadi, river valley': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/w/3579_to_obey_to_command|3579_to_obey_to_command]]: Proto-Semitic *wḳh, 'to obey; to command': reflexes in 5 language(s).
 
@@ -175,6 +175,8 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/w/3762_to_apply_oneself_assiduously_be_diligent|3762_to_apply_oneself_assiduously_be_diligent]]: Proto-Semitic *wkb, 'to apply oneself assiduously, be diligent': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/w/3833_to_be_fitting_proper_1_comely_beautiful_2|3833_to_be_fitting_proper_1_comely_beautiful_2]]: Proto-Semitic *wsm, 'to be fitting, proper' 1, 'comely, beautiful' 2: reflexes in 3 language(s).
+
 [[wiki/semitic-roots/w/430_lead|430_lead]]: Proto-Semitic *wVbVl-, 'lead': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/w/461_make_large_steps_of_camels|461_make_large_steps_of_camels]]: Proto-Semitic *wVʕVš-, 'make large steps (of camels)': reflexes in 1 language(s).
@@ -193,7 +195,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/w/644_imagine_conceive|644_imagine_conceive]]: Proto-Semitic *wVhVm-, 'imagine, conceive': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/w/685_watercourse_1_to_shed_heavy_rain_2|685_watercourse_1_to_shed_heavy_rain_2]]: Proto-Semitic *w/yabal-, 'watercourse' 1, 'to shed heavy rain' 2: reflexes in 4 language(s).
+[[wiki/semitic-roots/w/685_watercourse_1_to_shed_heavy_rain_2|685_watercourse_1_to_shed_heavy_rain_2]]: Proto-Semitic *w/yabal-, 'watercourse' 1, 'to shed heavy rain' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/w/692_rain_v|692_rain_v]]: Proto-Semitic *wVṭVp-, 'rain' (v.): reflexes in 1 language(s).
 
@@ -233,7 +235,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/w/K0430_trust|K0430_trust]]: Proto-Semitic *wVkVl-, 'trust': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/w/K0432_visible_fine|K0432_visible_fine]]: Proto-Semitic *wVpVy-, 'visible', 'fine': reflexes in 5 language(s).
+[[wiki/semitic-roots/w/K0432_visible_fine|K0432_visible_fine]]: Proto-Semitic *wVpVy-, 'visible', 'fine': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/w/K0433_rare_precious_esteemed_1_to_be_heavy_to_load_bur|K0433_rare_precious_esteemed_1_to_be_heavy_to_load_bur]]: Proto-Semitic *waqār-, 'rare; precious, esteemed' 1, 'to be heavy; to load, burden' 2: reflexes in 11 language(s).
 
@@ -293,7 +295,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/w/SA122_promise_designate_appoint|SA122_promise_designate_appoint]]: Epigraphic South Arabian headword *wʕd, 'promise; designate, appoint': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/w/SA123_completion_of_job|SA123_completion_of_job]]: Epigraphic South Arabian headword *wʕb, 'completion of job': reflexes in 1 language(s).
+[[wiki/semitic-roots/w/SA123_completion_of_job|SA123_completion_of_job]]: Epigraphic South Arabian headword *wʕb, 'completion of job': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/w/SA124_ORDINANCE_DECREE|SA124_ORDINANCE_DECREE]]: Epigraphic South Arabian headword *wṣt, 'ORDINANCE, DECREE': reflexes in 1 language(s).
 

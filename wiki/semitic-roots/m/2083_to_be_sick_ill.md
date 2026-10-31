@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mrḍ 'to be sick' \[BK 2 1091\] | BK 2 1091 |  |
-| Mehri | merēź \[JM 271\] | JM 271 | gloss withheld |
+| Mehri | merēź \[JM 271\]; mīrǝṣ́; mǝráyṣ́ (Rubin 2018 123, 107) | JM 271; Rubin 2018 123, 107 | gloss withheld |
 | Soqotri | hemrôḍ (caus.) \[LS 251\] | LS 251 | gloss withheld |
 | Akkadian | marāṣu (a/a; NB, LB u/u) OA, OB on \[CAD M/1 269\], \[AHw 609\] | CAD M/1 269; AHw 609 | gloss withheld |
 | Harsusi | mēreź \[JH 90\] | JH 90 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3502_to_turn_over
 title: "*ḳlb: 'to turn over'"
-desc: "Proto-Semitic *ḳlb, 'to turn over': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḳlb, 'to turn over': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3502"
@@ -29,6 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ḳǝlūb; ḳátlǝb (Rubin 2018 150) | Rubin 2018 150 | gloss withheld |
 | Arabic | qallaba 'turned it over and over' (Lane 2552); qalīb 'earth turned over' (Lane 2554); miqlab 'iron implement with which the earth is turned over for sowing' (Lane 2555) | Lane 2552; Lane 2554; Lane 2555 |  |
 | Epigraphic South Arabian | Sab qlb (SD 104) | SD 104 | gloss withheld |
 

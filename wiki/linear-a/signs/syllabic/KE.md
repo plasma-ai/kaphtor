@@ -52,8 +52,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kakkaru | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
-| [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōkēl | SPECULATIVE |
+| [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōqēaḥ | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
+| [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | SPECULATIVE |
+| [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 
 <!-- END kaphtor:record -->

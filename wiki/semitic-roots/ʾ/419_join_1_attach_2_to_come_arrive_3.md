@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/419_join_1_attach_2_to_come_arrive_3
 title: "*ʾ/wVṣVl-: 'join' 1, 'attach' 2, 'to come, arrive' 3"
-desc: "Proto-Semitic *ʾ/wVṣVl-, 'join' 1, 'attach' 2, 'to come, arrive' 3: reflexes in 7 language(s)."
+desc: "Proto-Semitic *ʾ/wVṣVl-, 'join' 1, 'attach' 2, 'to come, arrive' 3: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "419"
@@ -30,6 +30,7 @@ updated: 2026-10-27T22:12:55Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | wīṣǝl 3 (Rubin 2018 124) | Rubin 2018 124 | gloss withheld |
 | Arabic | wṣl 1 \[BK 2 1548 apud SED I 260\]; waṣṣalahu 1; waṣalahu, waṣala ʾilayhi 3 (Lane 3054) | BK 2 1548; SED I 260; Lane 3054 | gloss withheld |
 | Hebrew | ʔṣl III nif. 2 (HALOT 82) | HALOT 82 | gloss withheld |
 | Phoenician | ʔṣl (T 28) | T 28 | gloss withheld |

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qepīta |
 | Meaning | box, chest, basket (container or unit) |
 | Root | q-p-t |
+| Proto-Semitic | \*ḳupp- (#301) |
 | Language layer | NWS |
 | Category | vessel |
 | Semantic field | commodity |
 
 ### Note
 
-HT 6a, after DA-QE-RA: QE-PI-TA 22¾, counted in quarters, a container or unit. Ug. qpt 'box, chest, basket' (DULAT 696); Akk. quppatu, quppu (CAD Q 307). Weak point: QE-PI for the u-a of quppatu. One attestation.
+HT 6a, after DA-QE-RA: QE-PI-TA 22¾, counted in quarters, a container or unit. Ug. qpt 'box, chest, basket' (DULAT 696); Akk. quppatu, quppu (CAD Q 307). Weak point: QE-PI for the u-a of quppatu. One attestation. See KU-PA.
 
 ### Cognates
 

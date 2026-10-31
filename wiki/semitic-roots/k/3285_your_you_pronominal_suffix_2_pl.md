@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3285_your_you_pronominal_suffix_2_pl
 title: "*-kVmV/*-kVnV: 'your; you (pronominal suffix, 2 pl.)'"
-desc: "Proto-Semitic *-kVmV/*-kVnV, 'your; you (pronominal suffix, 2 pl.)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *-kVmV/*-kVnV, 'your; you (pronominal suffix, 2 pl.)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3285"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | -ǝkǝm; -ǝkǝn (Rubin 2018 55, 29); -īkǝm; -īkǝn (Rubin 2018 59) | Rubin 2018 55, 29; Rubin 2018 59 | gloss withheld |
 | Akkadian | -kina (GAG § 42 g apud SEDonline 1569); -kunu (GAG § 42 g apud SEDonline 1569) | GAG § 42 g; SEDonline 1569 | gloss withheld |
 | Arabic | -kum/-kumu (Fischer 2002 § 268 apud SEDonline 1569); -kunna (Fischer 2002 § 268 apud SEDonline 1569) | SEDonline 1569 | gloss withheld |
 | Geez | -kəmu (CDG 285 apud SEDonline 1569); -kən (CDG 286 apud SEDonline 1569) | CDG 285; SEDonline 1569; CDG 286 | gloss withheld |

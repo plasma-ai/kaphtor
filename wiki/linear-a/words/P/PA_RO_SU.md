@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Parʿōš |
 | Meaning | personal or clan name, 'Flea' |
 | Root | p-r-ʿ-š |
+| Proto-Semitic | \*ṗVrɣVṯ- ~ \*ṗVrṯaɣ- {} \*ṗVrɣVč-, \*ṗVrčaɣ- (#2264) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -49,11 +50,11 @@ HT 20 (GORILA I 37): PA-RO-SU · heads six fraction entries (KU-MA-JU ¼, QE-KU-
 | Hebrew | Parʿōš (פַּרְעֹשׁ), a clan, 'the sons of Parʿōš' (Ezra 2:3; HALOT 971); parʿōš 'flea' (1 Sam 24:15) |
 | Phoenician | PRʿŠ 'Flea', a name element (Benz 1972, 395) |
 | Ugaritic | prġt, a name (Benz 1972, 395) |
-| Amorite | purʿušum 'flea', in names (Gelb 1980, glossary) |
+| Amorite | purʿušum 'flea'; PURʿUŠ-AN-U, PU-UR-ḪU-ŠA-NU, Mari (Gelb 1980, no. 5184) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980
 
 ## Attestations
 

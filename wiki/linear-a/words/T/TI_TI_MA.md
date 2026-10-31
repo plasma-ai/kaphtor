@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tittma |
 | Meaning | sixty (numeral) |
 | Root | θ-d-θ |
+| Proto-Semitic | \*šidṯ- (#S98) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-Exact skeleton match to Ugaritic ttm "sixty" (Huehnergard 2012, vocalization /tittma/). PS \*θitt-ūma (from \*θidθ- "six" × decade suffix). Pairs with TI-DA-TA = tdt "sixth" from the same root. Third instance of the geminate-orthography law: the geminate tt is spelled with the doubled sign TI-TI. On the PHWc40 roundel with NA; a bare numeral suits the roundel unit-count convention, though the precative reading of NA sits oddly beside it—pairing unresolved. Single attestation; no independent mathematical cross-check.
+Exact skeleton match to Ugaritic ttm "sixty" (Huehnergard 2012, vocalization /tittma/). Pairs with TI-DA-TA = tdt "sixth" from the same root. Third instance of the geminate-orthography law: the geminate tt is spelled with the doubled sign TI-TI. On the PHWc40 roundel with NA; a bare numeral suits the roundel unit-count convention, though the precative reading of NA sits oddly beside it—pairing unresolved. Single attestation; no independent mathematical cross-check.
 
 ### Cognates
 

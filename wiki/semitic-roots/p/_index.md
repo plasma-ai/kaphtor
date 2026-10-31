@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/p
 desc: "Semitic roots whose first radical is p."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T00:24:55Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/p
@@ -135,7 +135,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/p/1750_exchange|1750_exchange]]: Proto-Semitic *pVḫ-, 'exchange': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/p/1751_assemble|1751_assemble]]: Proto-Semitic *pVḫVr-, 'assemble': reflexes in 8 language(s).
+[[wiki/semitic-roots/p/1751_assemble|1751_assemble]]: Proto-Semitic *pVḫVr-, 'assemble': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/p/1752_split_1_till_cultivate_2|1752_split_1_till_cultivate_2]]: Proto-Semitic *pVlaḥ-, 'split' 1, 'till, cultivate' 2: reflexes in 4 language(s).
 
@@ -249,7 +249,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/p/2925_yearling_foal_small_domestic_animals|2925_yearling_foal_small_domestic_animals]]: Proto-Semitic *pVlw/y-, 'yearling foal, small domestic animals': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/p/2944_loose_hair_of_the_head|2944_loose_hair_of_the_head]]: Proto-Semitic *parʕ-, '(loose) hair of the head': reflexes in 4 language(s).
+[[wiki/semitic-roots/p/2944_loose_hair_of_the_head|2944_loose_hair_of_the_head]]: Proto-Semitic *parʕ-, '(loose) hair of the head': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/p/294_bottle_mug|294_bottle_mug]]: Proto-Semitic *pak-, 'bottle, mug': reflexes in 1 language(s).
 
@@ -345,7 +345,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/p/3448_to_be_fat|3448_to_be_fat]]: Proto-Semitic *pʔm, 'to be fat': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/p/3450_to_jump_be_agile_to_be_excited|3450_to_jump_be_agile_to_be_excited]]: Proto-Semitic *pzz, 'to jump, be agile; to be excited': reflexes in 3 language(s).
+[[wiki/semitic-roots/p/3450_to_jump_be_agile_to_be_excited|3450_to_jump_be_agile_to_be_excited]]: Proto-Semitic *pzz, 'to jump, be agile; to be excited': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/p/3453_to_be_spoiled_to_break_up|3453_to_be_spoiled_to_break_up]]: Proto-Semitic *psps, 'to be spoiled; to break up': reflexes in 3 language(s).
 
@@ -363,7 +363,11 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/p/375_pure_gold|375_pure_gold]]: Proto-Semitic *piḏḏ-, 'pure gold': reflexes in 3 language(s).
 
+[[wiki/semitic-roots/p/3796_and_then_and_so_coordinating_conjunction|3796_and_then_and_so_coordinating_conjunction]]: Proto-Semitic *pa, 'and then, and so' (coordinating conjunction): reflexes in 2 language(s).
+
 [[wiki/semitic-roots/p/384_axe|384_axe]]: Proto-Semitic *paʾs-, 'axe': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/p/3852_tablet_ballot_decree_1_a_goblet_so_named_2|3852_tablet_ballot_decree_1_a_goblet_so_named_2]]: Proto-Semitic *pitḳ-, 'tablet, ballot, decree' 1, 'a goblet so named' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/p/387_axe|387_axe]]: Proto-Semitic *parāʕ-, 'axe': reflexes in 1 language(s).
 

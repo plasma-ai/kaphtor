@@ -54,5 +54,6 @@ SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. \*47-
 |---|---|---|
 | [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkina | SPECULATIVE |
 | [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 
 <!-- END kaphtor:record -->

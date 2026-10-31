@@ -34,25 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | minūt |
 | Meaning | amount, number; counting, reckoning |
 | Root | m-n-y |
+| Proto-Semitic | \*mVnVw- (#643) |
 | Language layer | Akkadian |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu is the closest independent formal and semantic parallel: CAD M/2 98 gives 'amount, number,' and the spellings mi-nu-te occur in administrative or reckoning contexts (Ebeling, Parfümrez. p. 26 ii 20; AKA 143 iv 33). This makes 'count/reckoning' preferable to a goddess Minut. Linear A does not mark vowel length, and final TE may carry a support vowel. Linear A writes i where Amorite has a: MI-NU-TE against Ma-nu-tum (Gelb no. 4528), as I-PI-NA-MA against pān-. Arabic Manāt remains a remote comparison, not the primary identification.
+Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu is the closest independent formal and semantic parallel: CAD M/2 98 gives 'amount, number,' and the spellings mi-nu-te occur in administrative or reckoning contexts (Ebeling, Parfümrez. p. 26 ii 20; AKA 143 iv 33). This makes 'count/reckoning' preferable to a goddess Minut. Linear A does not mark vowel length, and final TE may carry a support vowel. Linear A writes i where Amorite has a: MI-NU-TE against Ma-nu-tum (Gelb no. 4528), as I-PI-NA-MA against pān-. Arabic Manāt remains a remote comparison, not the primary identification. See MI+\*301.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | minūtu 'amount, number; contingent; standard of coinage' (CAD M/2 98); minûtu, cross-reference to manûtu (CAD M/2 99); manû 'count' |
+| Ugaritic | mnt 'portion, ration' and 'enumeration, list' (GlOS 2, 45) |
 | Hebrew | mānāh 'count, number, allot' and derivatives |
 | Arabic | Manāt, a remote divine-name comparison from the same apportioning semantic field |
 
 ### Source
 
-CAD M/2 98–99; di Mino
+CAD M/2 98–99; di Mino; GlOS 2
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/3115_to_drown
 title: "*ɣrḳ: 'to drown'"
-desc: "Proto-Semitic *ɣrḳ, 'to drown': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ɣrḳ, 'to drown': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3115"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ġariqa (Tāj 26:238) | Tāj 26:238 | gloss withheld |
 | Mehri | ɣáyrəḳ (ML 141 apud SEDonline 2152) | ML 141; SEDonline 2152 | gloss withheld |
 | Jibbali | ɣérḳ (JL 88 apud SEDonline 2152) | JL 88; SEDonline 2152 | gloss withheld |
 | Soqotri | ˁóriḳ (LS 329; SLOnline 26186) | LS 329; SLOnline 26186 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ́
 desc: "Semitic roots whose first radical is ṣ́."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ṣ́
@@ -35,7 +35,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ṣ́/2187_a_wild_cat|2187_a_wild_cat]]: Proto-Semitic *ṣ̂Vy(V)w-, 'a wild cat': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ṣ́/2272_small_cattle|2272_small_cattle]]: Proto-Semitic *ṣ̂aʾn- {} *ĉ̣aʾn-, 'small cattle': reflexes in 15 language(s).
+[[wiki/semitic-roots/ṣ́/2272_small_cattle|2272_small_cattle]]: Proto-Semitic *ṣ̂aʾn- {} *ĉ̣aʾn-, 'small cattle': reflexes in 16 language(s).
 
 [[wiki/semitic-roots/ṣ́/2283_hyena|2283_hyena]]: Proto-Semitic *ṣ̂ab(u)ʕ- {} *ĉ̣ab(u)ʕ-, 'hyena': reflexes in 9 language(s).
 
@@ -71,7 +71,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ṣ́/894_fog|894_fog]]: Proto-Semitic *ṣ̂abāb-, 'fog': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ṣ́/K0695_to_press_to_be_narrow_distressed|K0695_to_press_to_be_narrow_distressed]]: Proto-Semitic *ḍVwVq-, 'to press; to be narrow, distressed': reflexes in 12 language(s).
+[[wiki/semitic-roots/ṣ́/K0695_to_press_to_be_narrow_distressed|K0695_to_press_to_be_narrow_distressed]]: Proto-Semitic *ḍVwVq-, 'to press; to be narrow, distressed': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/ṣ́/K0698_glow|K0698_glow]]: Proto-Semitic *ḍVḥVḥ-, 'glow': reflexes in 2 language(s).
 

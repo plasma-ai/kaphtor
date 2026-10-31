@@ -34,13 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tēnā |
 | Meaning | Fig (personal name); a recipient in allocation lists |
 | Root | t-ʾ-n |
+| Proto-Semitic | \*tiʾin- (#2324) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-A recipient on both tablets: HT8a TE-\*301 2 in the OLE+KI list between PA 3½ and QA-\*310-I ¾ (QA-\*310-I receives again on HT8b); HT98a TE-\*301 ¾ between DI-RE-DI-NA and RO-KE. Hebrew təʾēnāh 'fig tree' (HALOT 1675), contracted in Mishnaic Hebrew tīnā and Aramaic tyn; Akkadian tittu (tiʾittu), pl. tinātu, with an Old Assyrian 'Month of Figs' (CAD T 435); Arabic tīn. A fruit-tree name as a personal name, as Hebrew Tamar 'date palm' (HALOT 1756) and Ugaritic tmr (DULAT 859). No fig-name is attested elsewhere. NI (AB30) remains the fig ideogram.
+A recipient on both tablets: HT8a TE-\*301 2 in the OLE+KI list between PA 3½ and QA-\*310-I ¾ (QA-\*310-I receives again on HT8b); HT98a TE-\*301 ¾ between DI-RE-DI-NA and RO-KE. TE-\*301 writes the shape of Hebrew təʾēnāh with the ʾ lost, as in Mishnaic tīnā. A fruit-tree name as a personal name, as Hebrew Tamar 'date palm' (HALOT 1756) and Ugaritic tmr (DULAT 859). No fig-name is attested elsewhere. NI (AB30) remains the fig ideogram. See TI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | təʾēnāh (תְּאֵנָה) 'fig tree' (HALOT 1675); Mishnaic tīnā |
+| Aramaic | tyn 'fig' |
+| Akkadian | tittu (tiʾittu), pl. tinātu 'fig'; Old Assyrian 'Month of Figs' (CAD T 435) |
+| Arabic | tīn 'fig' |
+| Ugarit | PÈŠ = ti-\[n\]a-tu₄ tiʔnat 'fig' (GlOS 2, 290) |
+| Eblaite | GIŠ.PÈŠ = ti-ì-tum 'fig (tree)' (GlOS 2, 290) |
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3665_to_hang_on_cling_adhere
 title: "*ʕVlaḳ-: 'to hang (on), cling, adhere'"
-desc: "Proto-Semitic *ʕVlaḳ-, 'to hang (on), cling, adhere': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕVlaḳ-, 'to hang (on), cling, adhere': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3665"
@@ -29,6 +29,7 @@ updated: 2026-10-26T15:47:57Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ālēḳ (Rubin 2018 822); ātlǝḳ; ātǝlūḳ (Rubin 2018 129) | Rubin 2018 822; Rubin 2018 129 | gloss withheld |
 | Arabic | ʿaliqa bihi (Lane 2132); ʿallaqahu (Lane 2133); ʿlq \[-a-\] (HSED 1062) | Lane 2132; Lane 2133; HSED 1062 | gloss withheld |
 | Syrian Aramaic | pa. ʿallaq 'to stick, adhere; be attached' (Payne Smith 416) | Payne Smith 416 |  |
 | Harsusi | ʿayleq (HSED 1062) | HSED 1062 | gloss withheld |

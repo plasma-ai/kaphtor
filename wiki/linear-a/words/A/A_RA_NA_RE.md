@@ -41,6 +41,14 @@ updated: 2026-10-24T16:17:50Z
 
 HT 1 A-RA-NA-RE 105, the last of the counted names, whole (GORILA I 3). Ugaritic ålnr, a personal name classed Hurrian and set beside Linear B a-ra-na-ro (DULAT 57); first element allai 'the Lady' (Laroche, GLH 42–43), as in Allan-šeridani at Ugarit (Kinlaw 1967, 19). Hurrian r and l alternate; RA writes r here, as the same scribe writes RA₂ for la in QE-RA₂-U. Linear B a-ra-na-ro is a man, VIR 1, on KN As 1516.11. HT 47b \]RA-NA-RE\[, room for one sign before (GORILA I 91), is the same name if the lost sign is A. Rival: Gordon's Egyptian ꜥꜣ-rn-Rꜥ 'Great-is-the-name-of-Re' (Gordon 1966 §127).
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ålnr PN, Hurrian (DULAT 57) |
+| Hurrian | Allanšeridanu, {1}al-la-an-še-ri-da-ni, a man at Ugarit, RS 16.251:5 (Kinlaw 1967, 19) |
+| Linear B | a-ra-na-ro, a man on the Knossos roster KN As(2) 1516 |
+
 ### Source
 
 di Mino; DULAT 57; Laroche 1980; KN As 1516.11; Gordon 1966 §127

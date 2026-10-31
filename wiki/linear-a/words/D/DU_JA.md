@@ -39,13 +39,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 7a .3 DU-JA 4, whole and undotted, under QE-TI · VIR after I-RU-JA 3, a Hurrian -ja hypocoristic (GORILA I 15). tu-ya sign for sign as the Nuzi name Tu-ú-ia (NPN 156), its element -tuja Hurrian (NPN 268). Rival: Ḏū-Yā 'He of Yah', ḏū as in DU-RU-WI ḏu-lēwī and DA-NA-SI Ḏā-Naśiʾ, + JA = Yā(h), as JA-\*21F Yāh (HT 28b). One witness.
+HT 7a .3 DU-JA 4, whole and undotted, under QE-TI · VIR after I-RU-JA 3, a Hurrian -ja hypocoristic (GORILA I 15). tu-ya sign for sign as the Nuzi name Tu-ú-ia (NPN 156), its element -tuja Hurrian (NPN 268). Rival: Ḏū-Yā 'He of Yah', ḏū as in DU-RU-WI ḏu-luwwī and DA-NA-SI Ḏā-Naśiʾ, + JA = Yā(h), as JA-\*21F Yāh (HT 28b). One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Nuzi | TUIA, Tu-ú-ia, var. Tu-ú?-ia (NPN 156); -tuja 'H. Perhaps a formative in Akituja' (NPN 268) |
+| Hittite | Tuya, f. (KBo 28.50 1; Hittite Personal Names 0.1) |
 
 ### Source
 

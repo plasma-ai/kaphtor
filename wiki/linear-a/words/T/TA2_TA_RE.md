@@ -41,6 +41,14 @@ updated: 2026-10-24T16:17:50Z
 
 PK 1 .2 TA₂-TA-RE 1, a single-unit entry in a column of names, TA₂ distinct from TA (GORILA I 281). Linear B ta-ta-ro is a man on the Knossos roster KN As(1) 607.2 (VIR 1), also KN Pp 498, Xd 8605 and PY Eb 874, Ep 301.6, Eo 224.7. Final -RE answers Linear B -ro as in A-RA-NA-RE / a-ra-na-ro (KN As 1516), PA-JA-RE / pa-ja-ro (KN As 1519) and NA-DA-RE / no-da-ro (KN As 609), all on the same roster series. Mari ᶠTatara, ta-da-ra, a woman, Hurrian with a query (Sasson 1974, 370; ARM XVI/1, 201; Monti 2017, 302); TA₂-TI-TE Tati-te, Hurrian, two lines below. The Greek gloss Tantalos is the Mycenologists'. One attestation.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hurrian | Tatara, ta-da-ra, a woman at Mari, Hurrian with a query (Monti 2017, 302) |
+| Akkadian | (f) Tadara, ta-da-ra, a musician at Mari (FM IV, 284) |
+| Linear B | ta-ta-ro, a man on the Knossos roster KN As(1) 607, also KN Pp 498, PY Eb 874, Eo 224, Ep 301 |
+
 ### Source
 
 KN As(1) 607.2; di Mino; Monti 2017

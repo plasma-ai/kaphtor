@@ -34,12 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kawkab |
 | Meaning | star (celestial toponym; Semitic kawkab with b→p voicing) |
 | Root | k-w-k-b |
+| Proto-Semitic | \*kabkab- (#2548) |
 | Language layer | NWS |
 | Semantic field | toponym |
 
 ### Note
 
-Pan-Semitic: Hebrew kōkāb, Akkadian kakkabu, Arabic kawkab. Functions as toponym/header on roundels with CYP. Three attestations at HT.
+Pan-Semitic: Hebrew kōkāb, Akkadian kakkabu, Arabic kawkab. Functions as toponym/header on roundels with CYP; Mari has a town Kabkab, 'Star'. Three attestations at HT.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | kbkb 'star' (GlOS 1, 297) |
+| Eblaite | ᵈMUL = gag-gáb 'star', also a DN; names ga-kab, ga-ba-ga-bù (GlOS 1, 297) |
+| Mari | Kabkab, ka-ab-ka-ab, a place name (M.7630:4; FM II 338; MTT I/1, s.v. KABKAB) |
+
+### Source
+
+di Mino; GlOS 1; FM II; MTT I/1
 
 ## Attestations
 

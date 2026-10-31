@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ṣētiya |
 | Meaning | the Eastern (one), of the East: a central Cretan place or a divine epithet; rival pre-Greek toponym Setoiya |
 | Root | y-ṣ-ʾ |
+| Proto-Semitic | \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |

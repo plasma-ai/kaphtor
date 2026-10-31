@@ -30,7 +30,7 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | libittu (CAD L 176); EA labittu (DULAT 487) | CAD L 176; DULAT 487 | gloss withheld |
-| Eblaitic | li-ba-tum, li-bí-tum (VE 146 apud DULAT 487) | VE 146; DULAT 487 |  |
+| Eblaitic | li-ba-tum, li-bí-tum (VE 146 apud DULAT 487), /libattum/, /libittum/ (Krebernik 1983, 6) | VE 146; DULAT 487; Krebernik 1983, 6 | gloss withheld |
 | Ugaritic | lbnt (DULAT 487) | DULAT 487 | gloss withheld |
 | Canaanite | labinat (EA; HALOT 518) | HALOT 518 |  |
 | Hebrew | lᵉbēnā (HALOT 518) | HALOT 518 | gloss withheld |

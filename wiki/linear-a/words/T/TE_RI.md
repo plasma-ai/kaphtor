@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tēri |
 | Meaning | recipient or section heading; perhaps an excess or surplus entry |
 | Root | w-t-r? |
+| Proto-Semitic | \*wtr (#S92) |
 | Language layer | uncertain; Akkadian and Northwest Semitic comparison |
 | Semantic field | administrative |
 
 ### Note
 
-TE-RI introduces a secondary allocation on HT91, stands before one ram on PH(?)31b, and occurs in the short ARKH6 sequence. These contexts support a recipient, category, or section heading, but not one fixed gloss. A derivation from Akkadian tārum 'return' would need an unattested \*tēri. √w-t-r/y-t-r supplies genuine 'excess/surplus' vocabulary, but its attested forms do not yield bare TE-RI cleanly; 'surplus' remains secondary.
+TE-RI introduces a secondary allocation on HT91, stands before one ram on PH(?)31b, and occurs in the short ARKH6 sequence. These contexts support a recipient, category, or section heading, but not one fixed gloss. A derivation from Akkadian tārum 'return' would need an unattested \*tēri. √w-t-r/y-t-r supplies genuine 'excess/surplus' vocabulary, but its attested forms do not yield bare TE-RI cleanly; 'surplus' remains secondary. See U-TA-RO.
 
 ### Cognates
 

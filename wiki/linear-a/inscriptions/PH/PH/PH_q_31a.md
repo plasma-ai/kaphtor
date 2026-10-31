@@ -40,14 +40,14 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐝫
-2. A
-3. RU CAPm+KU 1
+2. \]A\[
+3. \]RU CAPm+KU 1
 4. MA-DI \*21M 1
-5. \*21F
+5. \*21F\[
 6. \]-NE 1
 7. KU-PA₃-NU SUS+SI+RE 1
-8. PA-TA-DA
-9. 1
+8. PA-TA-DA\[
+9. \]1
 10. KU-RO CAPm+KU 1
 11. \*21M 5
 12. \*21F 3

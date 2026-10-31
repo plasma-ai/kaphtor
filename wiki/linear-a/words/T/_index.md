@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-29T21:35:46Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/T
@@ -61,13 +61,13 @@ updated: 2026-10-29T21:35:46Z
 
 [[wiki/linear-a/words/T/TA_RI_NA|TA_RI_NA]]: Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_SA_ZA|TA_SA_ZA]]: Unread (role only): no role; 1 occurrence(s).
+[[wiki/linear-a/words/T/TA_SA_ZA|TA_SA_ZA]]: taḫsaz: she remembers. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TA_TA|TA_TA]]: Tatta: Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE|TA_TE_I_KE_ZA_RE]]: Unread (role only): no role; 1 occurrence(s).
+[[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE|TA_TE_I_KE_ZA_RE]]: ṯāt ʾikezzer: with which one curls (the hair). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_TI|TA_TI]]: tati: father (Luwian tati-). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TA_TI|TA_TI]]: Tati: personal name; rival tati 'father' (Luwian tati-). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TA_U|TA_U]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -75,7 +75,7 @@ updated: 2026-10-29T21:35:46Z
 
 [[wiki/linear-a/words/T/TE_JA|TE_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TE_JA_RE|TE_JA_RE]]: Tayru: personal name, 'Bull' (PS *ṯawr-). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TE_JA_RE|TE_JA_RE]]: Teyar: personal name; rival tayyār 'trader' (√t-w-r). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TE_KE|TE_KE]]: Tegi: Tegi (personal name; spelling of TE-KI). Lexicon, SPECULATIVE (tier 1).
 
@@ -87,7 +87,7 @@ updated: 2026-10-29T21:35:46Z
 
 [[wiki/linear-a/words/T/TE_RI|TE_RI]]: tēri: recipient or section heading; perhaps an excess or surplus entry. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I|TE_SU_DE_SE_KE_I]]: Unread (role only): no role; 1 occurrence(s).
+[[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I|TE_SU_DE_SE_KE_I]]: tesʾad šeqī: she serves; give (him) drink!. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TE_TE|TE_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -101,7 +101,7 @@ updated: 2026-10-29T21:35:46Z
 
 [[wiki/linear-a/words/T/TI_DA_TA|TI_DA_TA]]: tidata / ṯādīt-: sixth(?) or sixth section(?). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TI_DI_TE_QA_TI|TI_DI_TE_QA_TI]]: Unread (role only): no role; 1 occurrence(s).
+[[wiki/linear-a/words/T/TI_DI_TE_QA_TI|TI_DI_TE_QA_TI]]: tidī teqaʿti: 'fix it, you have fastened it' (of the pin); rival Tidiʿ-Teqaʿt, personal name 'Teqaʿt knows', after one of the Kotharat. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_DU|TI_DU]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -111,7 +111,7 @@ updated: 2026-10-29T21:35:46Z
 
 [[wiki/linear-a/words/T/TI_MA|TI_MA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI_MA_RU_WI_TE]]: Tīmar-lēwīt: Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TI_MA_RU_WI_TE|TI_MA_RU_WI_TE]]: Tīmar-luwwīt: Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_NA|TI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -121,13 +121,13 @@ updated: 2026-10-29T21:35:46Z
 
 [[wiki/linear-a/words/T/TI_NI_broken_end|TI_NI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TI_NU_JA|TI_NU_JA]]: Ṯaniya: personal name, 'Second(-born)'; rival Dīnuya. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TI_NU_JA|TI_NU_JA]]: Ṯinuya: personal name, 'Second(-born)'; rival Dīnuya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TI_TI_KU|TI_TI_KU]]: tittuk(u) / tittōk: outpouring, pouring-out—(header) disbursed; (libation) may it be poured. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TI_TI_MA|TI_TI_MA]]: tittma: sixty (numeral). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/T/TO_MA_RO|TO_MA_RO]]: Tōmar/Tamar: possible personal name Tōmar/Tamar; palm-name. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/T/TO_MA_RO|TO_MA_RO]]: Tōmar: personal name, 'palm'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/T/TO_ME|TO_ME]]: Unread (role only): personal name; 1 occurrence(s).
 

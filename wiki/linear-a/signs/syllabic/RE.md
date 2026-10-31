@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-rāpiʾ-rinnā | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-āna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | Hathar | SPECULATIVE |
@@ -91,9 +91,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RE_ZA\|RE-ZA]] | (ʾa)raz | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | siddāru | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
-| [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Tayru | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Teyar | CANDIDATE |
 | [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tamir | CANDIDATE |
+| [[wiki/linear-a/words/U/U_KA_RE\|U-KA-RE]] | ʾugār | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] | ʾūr-lēwī | CANDIDATE |
 
 <!-- END kaphtor:record -->

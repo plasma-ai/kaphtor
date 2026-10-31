@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Raḥil |
 | Meaning | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra' |
 | Root | r-ḥ-l |
+| Proto-Semitic | \*raḫil- (#2267) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. raḥil 'ewe' (semitic_roots no. 2267), Heb. rāḥēl 'ewe' (HALOT 1216) and the name Rachel (Gen 29:6); \*314 writes the ḥ, RA the final l as in KU-RO kull. Rivals: the commodity 'ewe'; Egyptian ḥr-rꜥ 'Horus-Ra' (Ranke I, 249.15; PNM v6), Horus first. One witness.
+HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. raḥil 'ewe', Heb. rāḥēl 'ewe' (HALOT 1216) and the name Rachel (Gen 29:6); \*314 writes the ḥ, RA the final l as in KU-RO kull. Rivals: the commodity 'ewe'; Egyptian ḥr-rꜥ 'Horus-Ra' (Ranke I, 249.15; PNM v6), Horus first. One witness.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | rāḥēl 'ewe'; Rāḥēl, PN, Gen 29:6 (HALOT 1216) |
+| Akkadian | laḫru 'ewe, full-grown female sheep', with metathesis (CAD L 42) |
+| Arabic | riḫl, raḫil 'ewe-lamb' (Lane 1059) |
 
 ### Source
 

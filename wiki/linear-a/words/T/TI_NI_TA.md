@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tinitu |
 | Meaning | Tinit (goddess, = Phoenician Tanit) |
 | Root | t-n-t |
+| Proto-Semitic | \*tinnīt- (#2967) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |
 
 ### Note
 
-On HT27a, TI-NI-TA appears directly before \*307 (= DUBUR, sanctuary). Pattern "Goddess + Sanctuary" = Linear A equivalent of Linear B Potnia Daboritu. Variant TA-NA-TI (4 attestations: HT10b, HT49a, HT7a, HT98a) is more frequent. \|\| Vocalization: the Greek transcription ΘΙΝΙΘ Thinith records i–i, not conventional 'Tanit'—the same vowels as TI-NI-TA, a vocalic match across a millennium, not consonants alone. Against the Berber-origin view of Tanit (t…t feminine pattern of Tamazight names): an LM I attestation a millennium before Carthage favours a Levantine–Aegean origin.
+On HT27a, TI-NI-TA appears directly before \*307 (= DUBUR, sanctuary). Pattern "Goddess + Sanctuary" = Linear A equivalent of Linear B Potnia Daboritu. Variant TA-NA-TI (4 attestations: HT10b, HT49a, HT7a, HT98a) is more frequent. \|\| Vocalization: the Greek transcription ΘΙΝΙΘ Thinith records i–i, not conventional 'Tanit'—the same vowels as TI-NI-TA, a vocalic match across a millennium, not consonants alone. Against the Berber-origin view of Tanit (t…t feminine pattern of Tamazight names): an LM I attestation a millennium before Carthage favours a Levantine–Aegean origin. See TI-NI-TA \*307.
 
 ### Cognates
 

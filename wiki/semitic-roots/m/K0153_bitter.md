@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | märrära (LGz. 360) | LGz. 360 |  |
 | Harari | märära (LGz. 360) | LGz. 360 |  |
 | Gurage | märärä (LGz. 360) | LGz. 360 |  |
-| Eblaitic | \[m\]ar-ru₁₂-um, mu-ru₁₂ (Kogan 2011, 238); \[m\]ar-ru₁₂-um /marrum/ (VE 884; Krebernik 1983, 34) | Kogan 2011 238; VE 884; Krebernik 1983, 34 |  |
+| Eblaitic | \[m\]ar-ru₁₂-um, mu-ru₁₂ (Kogan 2011, 238); \[m\]ar-ru₁₂-um /marrum/ (VE 884; Krebernik 1983, 34); mu-ru₁₂-um, mu-ru₁₂ /murr/ (Sanmartín GlOS 2, 49) | Kogan 2011 238; VE 884; Krebernik 1983, 34; Sanmartín GlOS 2, 49 | gloss withheld |
 | Mehri | mər (Kogan 2011, 238) | Kogan 2011 238 | gloss withheld |
 | Amorite | tamrir (Sanmartín GlOS 2, 50) | Sanmartín GlOS 2, 50 | gloss withheld |
 

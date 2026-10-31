@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | pidru + PA |
 | Meaning | \*304 oil/fat-register commodity with PA adjunct; exact commodity and function of PA uncertain |
 | Root | p-d-r |
+| Proto-Semitic | \*pidr- (#1988) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,12 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 The \*304 commodity logogram carries a PA adjunct in seven administrative attestations. PA may be a phonetic complement or a commodity qualifier, paralleling other logogram-plus-sign compounds, but it does not independently establish the proposed reading \*pidr- 'fat, tallow.' The commodity classification is secure; the lexical identification and the function of PA remain CANDIDATE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | peder 'kidney fat, suet', Lev 1:8 (HALOT 914) |
 
 ### Source
 

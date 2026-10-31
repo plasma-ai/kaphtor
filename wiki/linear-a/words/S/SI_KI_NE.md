@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Sikinet |
 | Meaning | stewardess or female administrator; compare masculine prefect/commissioner |
 | Root | š-k-n |
+| Proto-Semitic | \*sākin- (#3842) |
 | Language layer | NWS |
 | Category | administrative_title |
 | Semantic field | personnel |
 
 ### Note
 
-Strong root and title candidate. The displayed reading Sikinet, vocalized /šikinēt/, follows SI-KI-NE syllable for syllable and requires only an unwritten feminine final /t/. Ugaritic šknt is tentatively vocalized /sākinat-/ 'female administrator, stewardess' (Tropper 2000, 180, KTU 4.135:2; škn 4.36:3), and Hebrew has the same feminine participle, sōkenet, of Abishag (1 Kgs 1:2, 4), while later Akkadian šakintu, oblique šakinte, denotes a female official or governess. The masculine comparison is independently strong: Ugaritic skn /sākinu/ means 'prefect' and is written syllabically sā-ki-ni, while Amarna Canaanite sū-ki-ni /sōkini/ denotes a prefect or commissioner. Thus 'stewardess' is preferred, with 'prefect/commissioner' retained as the economical title comparison. The exact historical vowel pattern remains a project reconstruction. The older 'Shekhinah/divine dwelling' interpretation survives only as a weak root-level association: the specialized divine-presence sense is much later and is not independently established here.
+Strong root and title candidate. The displayed reading Sikinet, vocalized /šikinēt/, follows SI-KI-NE syllable for syllable and requires only an unwritten feminine final /t/. Ugaritic šknt is tentatively vocalized /sākinat-/ 'female administrator, stewardess' (Tropper 2000, 180, KTU 4.135:2; škn 4.36:3), and Hebrew has the same feminine participle, sōkenet, of Abishag (1 Kgs 1:2, 4), while later Akkadian šakintu, oblique šakinte, denotes a female official or governess. The masculine comparison is independently strong: Ugaritic skn /sākinu/ means 'prefect' and is written syllabically sā-ki-ni, while Amarna Canaanite sū-ki-ni /sōkini/ denotes a prefect or commissioner. Thus 'stewardess' is preferred, with 'prefect/commissioner' retained as the economical title comparison. The exact historical vowel pattern remains a project reconstruction. The older 'Shekhinah/divine dwelling' interpretation survives only as a weak root-level association: the specialized divine-presence sense is much later and is not independently established here. See \*47-KU-NA.
 
 ### Cognates
 

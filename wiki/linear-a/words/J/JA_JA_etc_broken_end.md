@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Meaning | damaged theonym or divine epithet; possibly 'the Living One' |
-| Root | ḥ-y-y? |
+| Root | ḥ-y-y |
 | Language layer | unclassified |
 | Category | divine |
 | Semantic field | divine |
@@ -40,6 +40,14 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Fragment entry, not a complete lexical word. In PKZa18 it follows the fully delimited I-DA on a ritual stone vessel; in SYZa8 it follows the recurring libation-formula opener A-TA-I-\*301-WA-JA. Those two positions support classification as a theonym or divine epithet. Comparison with Semitic √ḥ-y-y 'live; life' permits the contextual restoration 'the Living One,' but both witnesses break immediately after the second JA, so the complete form, ending, and vocalization remain unknown. No HA sign precedes JA-JA. Aegean spelling nevertheless permits unexpressed /h/: Linear B e-qe-ta /hekwetās/ and e-qe-ta-i /hekwetāhi/, a-mo-ta /harmota/, and a-u-po-no /ahupnos/ all omit an etymological /h/ (Chadwick and Baumbach 1963, s.vv. ἕπομαι, ἅρμα, ἀ-/ἀν-). These Greek parallels establish an orthographic possibility only; they do not prove Semitic /ḥ/ here.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ḥy (I) 'alive' (DULAT 376) |
+| Hebrew | ḥay 'living, alive' (HALOT 308) |
+| Amorite | ḤJJ 'live': ḥajjum, ḥajja, jaḥī (Gelb AS 21, 19) |
 
 ### Source
 

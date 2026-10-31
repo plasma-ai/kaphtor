@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3284_our_us_pronominal_suffix_1_pl
 title: "*-nV: 'our; us (pronominal suffix, 1 pl.)'"
-desc: "Proto-Semitic *-nV, 'our; us (pronominal suffix, 1 pl.)': reflexes in 8 language(s)."
+desc: "Proto-Semitic *-nV, 'our; us (pronominal suffix, 1 pl.)': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3284"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | -ǝn; -īn (Rubin 2018 55, 53, 60) | Rubin 2018 55, 53, 60 | gloss withheld |
 | Akkadian | -ni (GAG § 42 g apud SEDonline 1568) | GAG § 42 g; SEDonline 1568 | gloss withheld |
 | Hebrew | -nū (Gesenius 1910:508 apud SEDonline 1568) | SEDonline 1568 | gloss withheld |
 | Arabic | -nā (Fischer 2002 § 268 apud SEDonline 1568) | SEDonline 1568 | gloss withheld |

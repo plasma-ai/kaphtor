@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kunīšu |
 | Meaning | assembly, the gathered body; rival Akkadian kunāšu 'emmer wheat' |
 | Root | k-n-s |
+| Proto-Semitic | \*kanVs- (#2763) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-HT 86a A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10; HT 95a/b the same set with DA-ME, MI-NU-TE and QE-RA₂-U; heads HT 10a. The set recurs under three headings and names parties, not grains (Montecchi 2008, 319): the logogram stands on the first entry only, and DA-ME takes the same GRA+K+L on HT 120. Passive \*kunīš- 'gathered': NI writes the ī of Aramaic kenīštā; the u of the first syllable is dialectal, as SU-PU against Hebrew sap and KU-MI-NA against Akkadian kamūnu; Egyptian Ku-nu-sha, Knossos, has the same u and a "true" š (Astour 1966, 313, 317). Alternatively the U is silent over a reduced first vowel, as the shewa of kenīštā. Rival: kunāšu 'emmer wheat' (Gordon 1966), with GRA+KU on HT 128a/b, an Akkadian loan of PS \*kunaṯ-, whose ṯ Minoan writes with ZU or the T-series.
+HT 86a A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10; HT 95a/b the same set with DA-ME, MI-NU-TE and QE-RA₂-U; heads HT 10a. The set recurs under three headings and names parties, not grains (Montecchi 2008, 319): the logogram stands on the first entry only, and DA-ME takes the same GRA+K+L on HT 120. Passive \*kunīš- 'gathered': NI writes the ī of Aramaic kenīštā; the u of the first syllable is dialectal, as SU-PU against Hebrew sap and KU-MI-NA against Akkadian kamūnu; Egyptian Ku-nu-sha, Knossos, has the same u and a "true" š (Astour 1966, 313, 317). Alternatively the U is silent over a reduced first vowel, as the shewa of kenīštā. Rival: kunāšu 'emmer wheat' (Gordon 1966), with GRA+KU on HT 128a/b, an Akkadian loan of PS \*kunaṯ-, whose ṯ Minoan writes with ZU or the T-series. See U-NA-KA-NA-SI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*kanVs- 'to gather, assemble' (semitic_roots no. 2763) |
 | Aramaic | kenīštā 'assembly' (Tg. Amos 8:13) |
 | Akkadian | kiništu 'assembly, priesthood', {lú}ki-niš-tu₄, ki-na-al-tu₄ (ORACC hbtin P296719); rival kunāšu 'emmer' (CAD K 536), from PS \*kunaṯ- (semitic_roots no. 1604) |
 

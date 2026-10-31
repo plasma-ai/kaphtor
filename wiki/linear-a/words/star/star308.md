@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šamnu |
 | Meaning | pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity |
 | Root | š-m-n |
+| Proto-Semitic | \*šam(a)n- ~ \*sam(a)n- (#2014) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,15 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Oil derivative modifier. HT123+124a places \*308 after OLIV; the three securely evaluable pairs give a stable 26.6–28.3% ratio, while the third fraction is damaged. Always in oil/liquid commodity neighborhoods (OLE+X, CYP, VIN). Three-site attestation (HT, KH, ARKH). Possible reading šamnu 'oil' (Akk. šamnu, Heb. šemen), but the lexical identification is less secure than the commodity function, and OLE also carries šamnu.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | šmn 'oil; fat, butter' (DULAT 815) |
+| Hebrew | šemen 'oil, fat' (HALOT 1567) |
+| Akkadian | šamnu 'oil, fat, cream' (CAD Š/1 321) |
+| Phoenician | šmn 'oil' (Krahmalkov 470) |
 
 ### Source
 

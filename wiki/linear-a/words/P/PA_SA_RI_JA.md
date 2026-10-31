@@ -33,6 +33,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Baṣariya |
 | Meaning | the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading |
+| Root | b-ṣ-r |
+| Proto-Semitic | \*bVṣVr- (#2875) |
 | Language layer | NWS |
 | Category | gentilic |
 | Semantic field | toponym |
@@ -40,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT 24a .4 PA-SA-RI-JA ·, all four signs whole, heads the second wool section as KU-PA₃-RI-JA Kubariya heads the first (GORILA I 43). Baṣīru, a town of Ugarit: alphabetic bṣr, gentilic bṣry, syllabic URU ba-ṣi-ri (DULAT 240; RGTC 12/2, 53). Both towns stand in the same lists: RS 25.455A+ I 4 and I 10, KTU 4.800 II 18 and II 29. PA for b; -JA the gentilic -iya, as bṣry. One document.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | bṣr, a town of Ugarit, syllabic URU ba-ṣi-ri, RS 25.455 A+B I 10, 'inaccessible place' (Watson, apud DULAT 240); gentilic bṣry (DULAT 240) |
+| Akkadian | \*Baṣīru (RGTC 12/2, 53) |
 
 ### Source
 

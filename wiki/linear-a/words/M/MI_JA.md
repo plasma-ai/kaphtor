@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mayya |
 | Meaning | water |
 | Root | m-y |
+| Proto-Semitic | \*maʾ-/\*may- (#711) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-SYZa5 stone libation vessel at Syme peak sanctuary—object-label match; Ug. my/mw, Heb. mayim, Akk. mû.
+SYZa5 stone libation vessel at Syme peak sanctuary—object-label match; Ug. my/mw, Heb. mayim, Akk. mû. See M'-Y3 and MA-I-MI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | mh/y 'water' (DULAT 529) |
+| Hebrew | mayim 'water' (HALOT 576) |
+| Akkadian | mû 'water; liquid' (CAD M/2 149) |
+| Phoenician | mm 'water' (Krahmalkov 292) |
 
 ### Source
 

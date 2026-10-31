@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kuhnēt |
 | Meaning | priestess (fem. singular) |
 | Root | k-h-n-t |
+| Proto-Semitic | \*kVhVn- (#2381) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
 
 ### Note
 
-KH 92 .1 A-DA-QIf-RI · KU-NI-TE 10\[ (Younger): a counted entry, with \]NA-KI 1 on .2. Punic khnt 'priestess' (Krahmalkov); Ugaritic khn 'priest'. Part of the √k-h-n group with KI-NI-MA and KA-NU-TI. Weak point: KU for the ā of kāhin-.
+KH 92 .1 A-DA-QIf-RI · KU-NI-TE 10\[ (Younger): a counted entry, with \]NA-KI 1 on .2. Punic khnt 'priestess' (Krahmalkov); Ugaritic khn 'priest'. Part of the √k-h-n group with KI-NI-MA and KA-NU-TI. Weak point: KU for the ā of kāhin-. See A-KO-A-NE.
 
 ### Cognates
 

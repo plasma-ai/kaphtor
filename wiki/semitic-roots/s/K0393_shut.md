@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/K0393_shut
 title: "*sekēr-: 'shut'"
-desc: "Proto-Semitic *sekēr-, 'shut': reflexes in 5 language(s)."
+desc: "Proto-Semitic *sekēr-, 'shut': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0393"
@@ -29,11 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | sakara (Klein s.v. סכר ᴵ) (Tāj 12:60) (Tāj 12:67) | Klein s.v. סכר ᴵ; Tāj 12:60; Tāj 12:67 | gloss withheld |
 | Akkadian | sekēru 'shut off' | Anderson–Moser 2024 root skr |  |
 | Aramaic | SKR (Aramaic Root Atlas; DNWSI 786 apud CAL) | Aramaic Root Atlas; DNWSI 786; CAL; Anderson–Moser 2024 root skr | gloss withheld |
 | Hebrew | saker 'shut' (BDB 698) | BDB 698; Anderson–Moser 2024 root skr |  |
 | Ugaritic | skr 'bolt' | Anderson–Moser 2024 root skr |  |
 | Syrian Aramaic | skar 'to shut, stop, block' (Payne Smith 378) | Payne Smith 378 |  |
+| Eblaitic | zi-gi-lum (D) /sikrum/, za-gi-rí a (A, B) /sakīri māyī/ (= Sum. a-ušₓ-ki) (VE 612; Bonechi 2008, 7) | VE 612; Bonechi 2008, 7 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

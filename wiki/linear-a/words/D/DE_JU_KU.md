@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dalqu |
 | Meaning | personal name, 'burning, kindled' |
 | Root | d-l-q |
+| Proto-Semitic | \*dalaḳ- (#2661) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT 93a .6 DE-JU-KU 1½, whole and undotted, in a grain list between VIR+\[·\]-I 6 and O-TI-\[·\] 3 (GORILA I 147). Amorite DALQ-UM and DALAQ-UM (Gelb 1980, nos. 1396, 1462) and the root DLQ 'to burn' in Gelb's glossary; Hebrew dālaq 'burn'. JU writes l. Rival: √d-l-g 'leap' (Hebrew dālag), with KU for g. One document.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | DALQ-UM, DALAQ-UM (Gelb 1980, nos. 1396, 1462), under DLQ 'burn': dalqum, dalaqum (Gelb AS 21, 17) |
+| Hebrew | dlq 'burn, pursue' (HALOT 223) |
 
 ### Source
 

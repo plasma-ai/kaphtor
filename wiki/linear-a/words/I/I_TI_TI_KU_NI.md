@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | (y)ittatkūni |
 | Meaning | which have been poured out—disbursed (derived-stem header); rival a heading name |
 | Root | n-t-k |
+| Proto-Semitic | \*natāk- (#K0210) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |

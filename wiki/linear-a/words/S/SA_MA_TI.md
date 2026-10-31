@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SA_MA_TI
 title: "SA-MA-TI"
-desc: "Ṣamidi: personal name, 'Harnessed'(?); cf. Amorite Ṣamidum. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ṣamidi: personal name, 'Harnessed'; cf. Amorite Ṣamidum. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "SA-MA-TI"
@@ -32,8 +32,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ṣamidi |
-| Meaning | personal name, 'Harnessed'(?); cf. Amorite Ṣamidum |
+| Meaning | personal name, 'Harnessed'; cf. Amorite Ṣamidum |
 | Root | ṣ-m-d |
+| Proto-Semitic | \*ṣ̂VmVd- (#411) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

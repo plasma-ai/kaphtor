@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Sukritēya |
 | Meaning | of Sukrita (Sybrita): origin label on a jar |
 | Root | s-g-r |
+| Proto-Semitic | \*sagar- (#K0391) |
 | Language layer | NWS |
 | Category | gentilic |
 | Semantic field | toponym |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT Zb 158b, a jar: the only word on side b (GORILA IV 65); side a reads \[·\]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI; Linear B has the ethnic su-ki-ri-ta-jo (KN C 911). Davis (Aura Suppl. 13, 46) pairs the two forms as alternating endings. -I-JA is the Semitic nisba \*-iy- (fem. \*-iyya), the gentilic suffix of Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Fischer §116). Rival: Anatolian -iya-. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. One document.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | suGir 'bolt', the base of the town name (GlOS 2, 190) |
+| Linear B | su-ki-ri-ta-jo, the ethnic of the town, KN C(2) 911 |
 
 ### Source
 

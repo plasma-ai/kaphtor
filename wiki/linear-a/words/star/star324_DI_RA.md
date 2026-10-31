@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | sōdir |
 | Meaning | one who sets in order (title or name) |
 | Root | s-d-r |
+| Proto-Semitic | \*sadār- (#K0390) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-A recipient in the HT 9a/9b wine lists under SA-RO · TE · VIN (2½, 2) and on HT 122a (1), one roster in three copies, among names and titles. \*324 = SO: Linear A has no other SO sign, and LA 324 may be a Haghia Triada variant of LA 363/364 (Ferrara, Montecchi & Valério 2022, 88), compared with Linear B so (ibid. 98). SO-DI-RA = sōdir, active participle of s-d-r with ō for older ā and DI for d: Akk. sadāru 'to array, set in a row' (CAD S 11); Heb. śĕdērôt 'ranks' (2 Kgs 11:8, 15). SI-DA-RE stands on the same HT 122a roster. Rivals: šōṭēr 'officer' (√š-ṭ-r; Exod 5:6–19), which needs DI for ṭ; ʾaddīr 'noble' (Ug. yn (…) l ádrm 'wine (…) for the nobles', KTU 4.246:7, DULAT 21), which needs \*324 for ʾa, a value plain A already writes.
+A recipient in the HT 9a/9b wine lists under SA-RO · TE · VIN (2½, 2) and on HT 122a (1), one roster in three copies, among names and titles. \*324 = SO: Linear A has no other SO sign, and LA 324 may be a Haghia Triada variant of LA 363/364 (Ferrara, Montecchi & Valério 2022, 88), compared with Linear B so (ibid. 98). SO-DI-RA = sōdir, active participle of s-d-r with ō for older ā and DI for d: Akk. sadāru 'to array, set in a row' (CAD S 11); Heb. śĕdērôt 'ranks' (2 Kgs 11:8, 15). SI-DA-RE stands on the same HT 122a roster. Rivals: šōṭēr 'officer' (√š-ṭ-r; Exod 5:6–19), which needs DI for ṭ; ʾaddīr 'noble' (Ug. yn (…) l ádrm 'wine (…) for the nobles', KTU 4.246:7, DULAT 21; Ebla a-ti-ir 'powerful', a name, Pagan 1998, row 845), which needs \*324 for ʾa, a value plain A already writes. See SI-DA-RO.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | sadāru 'to do regularly, set in a row' (CAD S 11) |
+| Hebrew | sēder 'order, regulation', wəlōʾ sədārîm 'and without order' (Job 10:22; HALOT 744) |
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998
 
 ## Attestations
 

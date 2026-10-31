@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/1804_a_measured_plot_of_open_country_cultivated_land
 title: "*ŝady-: 'a (measured) plot of open country, cultivated land'"
-desc: "Proto-Semitic *ŝady-, 'a (measured) plot of open country, cultivated land': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ŝady-, 'a (measured) plot of open country, cultivated land': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1804"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | säd(d)a (Kane 1990, 574) | Kane 1990 574 | gloss withheld |
 | Epigraphic South Arabian | Sab. s2dw (SD 131) (Sabaweb lemma 5069) | SD 131; Sabaweb lemma 5069 | gloss withheld |
 | Syrian Aramaic | saddā 'furrow; the space of a furrow, i.e. 400 ells' (Brock. 460) | Brock. 460 |  |
+| Punic | šd 'field' | Anderson–Moser 2024 root śdy |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

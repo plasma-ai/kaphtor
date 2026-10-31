@@ -34,24 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṣidqī-kummī |
 | Meaning | Seat of Righteousness (toponym/institutional name) |
 | Root | ṣ-d-q + Akkadian kummu |
+| Proto-Semitic | \*ṣidq- (#2762) |
 | Language layer | NWS + Akkadian |
 | Category | toponym |
 | Semantic field | toponym |
 
 ### Note
 
-NWS √ṣ-d-q 'righteous' (SI=ṣi via S-class neutralization) + Akkadian kummu A 'cella, private room (of a temple or palace)' (CAD K 533). Institutional name at Haghia Triada. \*34=QI (K-class: covers /qi/, /gi/, /ki/). \|\| Huehnergard: Ug ṣdq /ṣidqu/ "rightness, legitimacy"; qiCCu noun pattern. ṣdqh /ṣidqi-hū/ "his legitimate/rightful". BH cognate: ṣēdeq "righteousness" (Ug. i/u vowels vs. BH development) (Huehnergard 2012, p. 87) \|\| Rival: 'Ṣidq of Kummi', with Kummi the city of Tešub, Hitt. Kummiyaš, and Kummeni his epithet (Laroche 1980, 154). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo Sydyk)—theophoric "Shrine of Ṣedeq" also possible.
+NWS √ṣ-d-q 'righteous' (SI=ṣi via S-class neutralization) + Akkadian kummu A 'cella, private room (of a temple or palace)' (CAD K 533). Institutional name at Haghia Triada. \*34=QI (K-class: covers /qi/, /gi/, /ki/). \|\| Huehnergard: Ug ṣdq /ṣidqu/ "rightness, legitimacy"; qiCCu noun pattern. ṣdqh /ṣidqi-hū/ "his legitimate/rightful". BH cognate: ṣēdeq "righteousness" (Ug. i/u vowels vs. BH development) (Huehnergard 2012, p. 87) \|\| Rival: 'Ṣidq of Kummi', with Kummi the city of Tešub, Hitt. Kummiyaš, and Kummeni his epithet (Laroche 1980, 154). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo Sydyk)—theophoric "Shrine of Ṣedeq" also possible. See A-SA-DA-KA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | kummu A 'cella, private room (of a temple or palace)' (CAD K 533) |
+| Amorite | ṣidqum 'justice'; DN Ṣaduq, Ṣaduqa (Gelb 1980, glossary) |
 | Hurrian | Kummi, the city of Tešub (Hitt. Kummiyaš); Kummeni, epithet of Tešub (Laroche 1980, 154) |
 
 ### Source
 
-di Mino; CAD K; Laroche 1980; Huehnergard 2012
+di Mino; CAD K; Laroche 1980; Huehnergard 2012; Gelb 1980
 
 ## Attestations
 

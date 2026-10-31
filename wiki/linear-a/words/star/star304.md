@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | pidru |
 | Meaning | oil/fat-register commodity; possibly fat, lard, or tallow |
 | Root | p-d-r |
+| Proto-Semitic | \*pidr- (#1988) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,12 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Non-phonetic commodity ideogram: 42 occurrences on 38 tablets; 25 stand alone, 24 directly before quantities, regularly among GRA, OLE, OLIV, and related commodities. The tentative comparison is Central Semitic \*pidr- 'fat' (Hebrew peder, Judaic Aramaic pidrā, Arabic fidra), consistent with but not proven by the oil/fat register. \*304+PA may add a phonetic complement or commodity qualifier.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | peder 'kidney fat, suet', burnt on the altar with the head, wəʾet-happāder, Lev 1:8 (HALOT 914) |
 
 ### Source
 

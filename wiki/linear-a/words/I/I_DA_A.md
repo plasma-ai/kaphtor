@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾIda |
 | Meaning | of Ida (preferred diptotic genitive after DU-\*314-RE); alternatively, toward Ida |
 | Root | y-d |
+| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Preferred as the diptotic genitive in dubur ʾIda, 'the sanctuary of Ida.' Compare Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit,' where a diptotic place-name has genitive -a (Huehnergard 2012, §IV.B.3, p. 40). 'Toward Ida' remains possible by comparison with Ugaritic directive -h /-ah(a)/ and Hebrew -āh, but final A alone does not prove that analysis. Bare I-DA is independently attested; Ida's proposed connection with PS \*yad- ~ \*ʾid- remains interpretive.
+Preferred as the diptotic genitive in dubur ʾIda, 'the sanctuary of Ida.' Compare Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit,' where a diptotic place-name has genitive -a (Huehnergard 2012, §IV.B.3, p. 40). 'Toward Ida' remains possible by comparison with Ugaritic directive -h /-ah(a)/ and Hebrew -āh, but final A alone does not prove that analysis. Bare I-DA is independently attested; Ida's proposed connection with PS \*yad- ~ \*ʾid- remains interpretive; Ebla spells 'hand(s)' i-da-a (A.ŠU.LUḪ = ma-wu i-da-a 'water of the hands', GlOS 2, 27, 371).
 
 ### Cognates
 
@@ -53,7 +54,7 @@ Preferred as the diptotic genitive in dubur ʾIda, 'the sanctuary of Ida.' Compa
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

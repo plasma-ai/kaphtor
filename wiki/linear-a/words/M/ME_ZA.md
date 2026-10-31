@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | massu |
 | Meaning | corvée gang, labour gang (personnel term); the word of MA-ZA |
 | Root | m-s-s |
+| Proto-Semitic | \*mass- (#S31) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
@@ -46,7 +47,6 @@ HT 10a .8 ME-ZA 3, the last issue under KU-NI-SU 'the assembly', after DA-RE 16�
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*mass- 'forced labor, corvée levy, labor gang' (semitic_roots S31) |
 | Akkadian | massu 'corvée worker': idi LÚ.MEŠ ma-zi 'wages for the corvée workers' (Wiseman Alalakh 246:6); LÚ.MEŠ ma-as-sa.MEŠ (EA 365:14) (CAD M/1 327) |
 | Hebrew | mas 'corvée, labour gang' (1 Kgs 5:27) |
 

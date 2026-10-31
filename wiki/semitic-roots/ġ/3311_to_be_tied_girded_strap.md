@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*ɣbṭ 'to be tied, girded' (Kogan 2001: 266 apud SEDonline 2087). Akk. cf. nībittu 'a girdle' (CAD N₂ 201); ebēṭu 'to have cramps' is another verb (2073 \*ḥbṭ).
+PS \*ɣbṭ 'to be tied, girded' (Kogan 2001: 266 apud SEDonline 2087). Akk. cf. nībittu 'a girdle' (CAD N₂ 201); ebēṭu 'to have cramps' is another verb (2073 \*ḥbṭ). Hajouz 2013, 37–38 reads VE 124 sa-b\[ù\]-tum, su-bù-tum as /šaʾbuṭum/, /šuʾbuṭum/ (Š inf.) and ù-bù-tum as /ʾubbuṭum/ (D inf.), and VE 253 ì-ba-tum as /ʾabṭum/, from ʾ-b-ṭ 'to bind'.
 
 <!-- END kaphtor:record -->

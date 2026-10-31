@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾišarī |
 | Meaning | uprightness, righteousness (genitive after the b= proclitic) |
 | Root | y-š-r |
+| Proto-Semitic | \*yašar- (#1446) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
@@ -49,10 +50,11 @@ Attested only within I-DA-PA₃-I-SA-RI (PH6), following the b= proclitic; the m
 | Hebrew | yōšer (יֹשֶׁר) 'uprightness, equity'; yāšār (יָשָׁר) 'upright' |
 | Ugaritic | yšr 'straight, upright' (DULAT 973) |
 | Akkadian | išaru 'straight, just'; mīšaru 'justice, equity' (CAD M/II 116) |
+| Eblaite | i-sa-rí 'just, favourable' in running text; i-sar Yiśar, a name and DN (GlOS 2, 377; Pagan 1998, row 2604) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2; Pagan 1998
 
 ## Attestations
 

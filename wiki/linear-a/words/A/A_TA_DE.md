@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾaʿtid(u) |
 | Meaning | I make ready (1cs prefix form; proposed) |
 | Root | ʿ-t-d |
+| Proto-Semitic | \*ʕVtVd- (#2962) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |

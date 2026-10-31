@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | gbʿ (Aramaic Root Atlas; CAL s.v. gbʿ#2) | Aramaic Root Atlas; CAL s.v. gbʿ#2; Anderson–Moser 2024 root gbʿ | gloss withheld |
 | Amorite | gabʾu: ga-ab-i-im (ARM 26/2, 388: 12), ga-ba-i (ARM 26/2, 414: 25) (Streck 2000, 88; Streck 2011, 366) | Streck 2000 88; Streck 2011, 366 | gloss withheld |
 | Emar | ga-ab-a /gabʿu/ (Pentiuc 2001, 49–50) | Pentiuc 2001 49–50 | gloss withheld |
-| Eblaitic | cf. ga-bí-a-nu /gabʿ/ (Sanmartín GlOS 1, 171) | Sanmartín GlOS 1, 171 | gloss withheld |
+| Eblaitic | cf. ga-bí-a-nu /gabʿ/ (Sanmartín GlOS 1, 171); Bonechi 2008, 16 reads ga-bí-a-núm /kalbiyānum/ (VE 1091), see 2173 | Sanmartín GlOS 1, 171; Bonechi 2008; VE 1091 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

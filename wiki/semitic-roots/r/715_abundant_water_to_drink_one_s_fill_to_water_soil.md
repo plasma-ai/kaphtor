@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | re, riho |  | gloss withheld |
 | Geez | rawaya (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015 ch. 2 §4.2 no. 53 | gloss withheld |
 | Hebrew | rwy |  | gloss withheld |
-| Epigraphic South Arabian | h-rwy (Kogan 2015, ch. 2 §4.2 no. 53) | Kogan 2015 ch. 2 §4.2 no. 53 | gloss withheld |
+| Epigraphic South Arabian | h-rwy (Kogan 2015, ch. 2 §4.2 no. 53); Qat. mrwy (Ricks 1982 s.v. mrwy) | Kogan 2015 ch. 2 §4.2 no. 53; Ricks 1982 s.v. mrwy | gloss withheld |
 | Syrian Aramaic | rwy |  | gloss withheld |
 | Judaic Aramaic | rwy (HALOT 1194) | HALOT 1194 |  |
 | Aramaic | rwy, \*rwy (HALOT 1194, 1195) | HALOT 1194, 1195 |  |

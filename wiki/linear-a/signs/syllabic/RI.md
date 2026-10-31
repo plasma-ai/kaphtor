@@ -59,7 +59,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] | Kiriš | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RI_TA2\|KI-RI-TA₂]] | Kirīta | PROBABLE |
-| [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kubīri | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kuparī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA3_RI_JA\|KU-PA₃-RI-JA]] | Kubariya | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_RI_RE_I\|MA-RI-RE-I]] | marīrēy | CANDIDATE |
@@ -73,6 +73,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RI_QE_TI\|RI-QE-TI]] | riqitt- | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_RU_MA\|RI-RU-MA]] | Lirumā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_SU_MA\|RI-SU-MA]] | rīšum(a) | CANDIDATE |
+| [[wiki/linear-a/words/R/RI_TA_MA\|RI-TA-MA]] | Ritmā | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | CANDIDATE |

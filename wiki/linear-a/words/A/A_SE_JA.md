@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾaššē-ya |
 | Meaning | (portion) of the fire offering (-iya derivative of A-SE) |
 | Root | ʾ-š-š |
+| Proto-Semitic | \*ʾišs- (#812) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
@@ -46,7 +47,6 @@ HT 115a .4 A-SE-JA with four fraction signs, whole and undotted, after PA-RA-NE 
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾišs- 'fire' (semitic_roots no. 812) |
 | Hebrew | ʾiššeh אִשֶּׁה 'fire offering' (Lev 1:9); ʾēš 'fire' |
 
 ### Source
@@ -58,5 +58,11 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Haghia Triada | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | ʾaššē-ya | (portion) of the fire offering, ⅔ | SPECULATIVE |
 
 <!-- END kaphtor:record -->

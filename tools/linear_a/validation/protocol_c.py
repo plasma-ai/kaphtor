@@ -23,9 +23,11 @@ schema.json are the C0 files, protocol.md is the protocol's extract at the arm's
 NONE/no/no); and checks that no redacted log keeps a command output and that no shipped file names a private path, a
 private source id, the maintainer's first name or an email address.
 
-reproduce imports check_inventory.py, points it at data/linear-a/corpus.json (which must yield the recorded 1,070
-hyphenated words), and reruns it on each build in a temporary folder: every inventory.filled.json must come out byte
-for byte, and the greek builder's first inventory must be refused as it was. It then reruns the blindness audit cut
+reproduce imports check_inventory.py, points it at the 1,070 hyphenated words it read in C1
+(data/linear-a/protocol-c-c1-words.txt, which must give the recorded count and sha256), and reruns it on each build
+in a temporary folder: every inventory.filled.json must come out byte for byte, and the greek builder's first
+inventory must be refused as it was. It also reports how far data/linear-a/corpus.json, which the readings keep
+changing, has moved from that list; the move fails nothing. It then reruns the blindness audit cut
 from run_builder.sh on each redacted log, which must give the shipped audit byte for byte; where the port's
 substitutions shorten a command the audit truncates, the audit's verdict (its counts and every OUTSIDE line) must
 match, and --key restores the bytes. Without --key it runs on the files as shipped, with --key on the research bytes.
@@ -60,6 +62,7 @@ from ...paths import DATA, LINEAR_A_DATA, REPO
 
 PROTOCOL_DATA = LINEAR_A_DATA / "protocol-c"
 LEDGER = PROTOCOL_DATA / "PORT-LEDGER.json"
+C1_WORDS = LINEAR_A_DATA / "protocol-c-c1-words.txt"   # outside the record's folders, which the ledger seals
 FROZEN = REPO / "tools" / "core" / "frozen" / "protocol_c"
 PREREG = REPO / "docs" / "protocol-c-preregistration.md"
 SIGNED_SHA256 = "5a7b442c02336f31058a7fc51da7ecc382ff86eb6cdef7783883de108ed41ea0"
@@ -196,6 +199,20 @@ def read_sums(data: bytes) -> dict[str, str]:
 
 def needles_sha256(needles: set[str]) -> str:
     return sha256("\n".join(sorted(needles)).encode("utf-8"))
+
+
+def c1_words() -> set[str]:
+    """The hyphenated words check_inventory.py read in C1, one per line."""
+    if not C1_WORDS.is_file():
+        raise LedgerError(f"{C1_WORDS.name} is not in this checkout")
+    return set(C1_WORDS.read_text(encoding="utf-8").splitlines())
+
+
+def corpus_needles(path: Path) -> set[str]:
+    """The ledger's needles_rule on a corpus.json: its lowercased transliteratedWords strings holding a hyphen."""
+    docs = json.loads(path.read_text(encoding="utf-8"))
+    return {w.lower() for doc in docs.values() for w in doc.get("transliteratedWords") or []
+            if isinstance(w, str) and "-" in w}
 
 
 def build_dir(arm: str) -> str:
@@ -429,13 +446,16 @@ def audit_verdict(text: bytes) -> list[str]:
 
 
 def load_checker(ledger: dict, tmp: Path, key: dict | None = None):
-    """check_inventory.py, imported from a temporary copy, reading this repository's corpus.json."""
+    """check_inventory.py, imported from a temporary copy, reading the C1 words as a one-record corpus.json."""
     source = tmp / "check_inventory.py"
     source.write_bytes(restored_file(ledger, "protocol-c/scripts/check_inventory.py", key))
     spec = importlib.util.spec_from_file_location("protocol_c_check_inventory", source)
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
-    module.CORPUS = LINEAR_A_DATA / "corpus.json"
+    corpus = tmp / "c1-corpus.json"
+    corpus.write_text(json.dumps({"C1": {"transliteratedWords": sorted(c1_words())}}, ensure_ascii=False),
+                      encoding="utf-8")
+    module.CORPUS = corpus
     return module
 
 
@@ -492,8 +512,14 @@ def cmd_reproduce(arms: list[str], transcripts: Path | None, key_path: Path | No
         corpus = ledger["c1_corpus"]
         same = len(needles) == corpus["needles"] and needles_sha256(needles) == corpus["needles_sha256"]
         ok &= same
-        print(f"corpus.json: {len(needles)} hyphenated words, sha256 {needles_sha256(needles)[:12]}… "
+        print(f"{C1_WORDS.name}: {len(needles)} hyphenated words, sha256 {needles_sha256(needles)[:12]}… "
               f"({'as recorded' if same else 'DIFFERS from ' + corpus['needles_sha256'][:12] + '…'})")
+        live_path = LINEAR_A_DATA / "corpus.json"
+        if live_path.is_file():
+            live = corpus_needles(live_path)
+            moved = ("the same words" if live == needles else
+                     f"{len(needles - live)} gone, {len(live - needles)} new; the checks run on the C1 words")
+            print(f"corpus.json now: {len(live)} hyphenated words ({moved})")
         program = audit_program(ledger, key)
         derived = {r["frozen_path"]: r for r in ledger["derived"]}
         for arm in arms:

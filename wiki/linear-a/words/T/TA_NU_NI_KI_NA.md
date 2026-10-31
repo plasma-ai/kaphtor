@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tannî qînâ |
 | Meaning | chant a dirge! (proposed internal segmentation) |
 | Root | t-n-y + q-y-n |
+| Proto-Semitic | \*ṯny (#3547) + \*ḳyn (#3509) |
 | Language layer | NWS candidate |
 | Category | ritual |
 | Semantic field | ritual |
 
 ### Note
 
-PL Zf 1 hapax on a silver pin from a funerary context. Proposed internal segmentation TA-NU-NI / KI-NA = /tannî qînâ/, naturally ‘chant a dirge!’: /tannî/ is the expected 2fs Piʿel imperative of √t-n-y ‘recount, recite,’ while /qînâ/ is the standard Hebrew funeral song or dirge. The English ‘chant’ reflects HALOT's proposed repetition in antiphonal performance; the stricter lexical gloss is ‘recite/repeat.’ TA-NU-NI can preserve the doubled middle radical with a dead vowel in NU, while KI-NA can represent /qînâ/ without vowel length or final /h/. The principal cost is epigraphic: no divider occurs between NI and KI, so the two-word segmentation is proposed rather than written.
+PL Zf 1 hapax on a silver pin from a funerary context. Proposed internal segmentation TA-NU-NI / KI-NA = /tannî qînâ/, naturally ‘chant a dirge!’: /tannî/ is the expected 2fs Piʿel imperative of √t-n-y ‘recount, recite,’ while /qînâ/ is the standard Hebrew funeral song or dirge. The English ‘chant’ reflects HALOT's proposed repetition in antiphonal performance; the stricter lexical gloss is ‘recite/repeat.’ TA-NU-NI can preserve the doubled middle radical with a dead vowel in NU, while KI-NA can represent /qînâ/ without vowel length or final /h/. The principal cost is epigraphic: no divider occurs between NI and KI, so the two-word segmentation is proposed rather than written. See TI-NU-JA.
 
 ### Cognates
 

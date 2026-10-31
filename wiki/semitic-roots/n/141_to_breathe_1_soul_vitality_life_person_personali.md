@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nfs V 'to breathe' \[BK 2 1310\]; nafs- 'soul, vital principle; blood; person' \[BK 2 1310\] | BK 2 1310 |  |
-| Mehri | (?) šǝnfūs (caus.) \[JM 285\]; cf. also nǝfh \[JM 284\]. | JM 285; JM 284 | gloss withheld |
+| Mehri | (?) šǝnfūs (caus.) \[JM 285\]; cf. also nǝfh \[JM 284\].; nōf- 2; ḥǝnōf- (Rubin 2018 75, 98) | JM 285; JM 284; Rubin 2018 75, 98 | gloss withheld |
 | Soqotri | néfoš \[LS 271\]; nófoš, pl. of nafh- \[LS 271, 260\] | LS 271; LS 271, 260 | gloss withheld |
 | Akkadian | napāšu (u/u) OA, OB on \[CAD n1 288\], \[AHw 736\]; napištu (napuštu, napaštu, napšatu) OAkk on \[CAD n1 296\], \[AHw 738\] | CAD n1 288; AHw 736; CAD n1 296; AHw 738 | gloss withheld |
 | Harsusi | nefesét \[JH 94\] | JH 94 | gloss withheld |

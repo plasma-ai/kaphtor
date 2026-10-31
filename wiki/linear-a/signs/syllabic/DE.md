@@ -52,5 +52,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PU_DE\|PU-DE]] | pudē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
+| [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 
 <!-- END kaphtor:record -->

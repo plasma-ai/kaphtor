@@ -34,25 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | siddāru |
 | Meaning | siddāru 'Arranger' (personal name; spelling of SI-DA-RE) |
 | Root | s-d-r |
+| Proto-Semitic | \*sadār- (#K0390) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personnel |
 
 ### Note
 
-GO 2 recto .3 SI-DA-RO with ¼, broken after the fraction, below single-sign entries SI\[, KA ⅛, SI 2 and DA\[ (Younger, Linear A Texts). SI-DA-RE (HT 17, HT 122a) with the final vowel o; JA-SI-DA-RA (PH 7a) carries the same stem. A second site, not a second context for SI-DA-RE. Rival: a commodity term, as the single-sign entries around it are. See SI-DA-RE.
+GO 2 recto .3 SI-DA-RO with ¼, broken after the fraction, below single-sign entries SI\[, KA ⅛, SI 2 and DA\[ (Younger, Linear A Texts). SI-DA-RE (HT 17, HT 122a) with the final vowel o; JA-SI-DA-RA (PH 7a) carries the same stem. A second site, not a second context for SI-DA-RE. Rival: a commodity term, as the single-sign entries around it are: Eblaite GÀR.SAR = si-da-ru₁₂ 'a plant' (GlOS 2, 187). See SI-DA-RE.
 
 ### Cognates
 
-| Language | Comparison |
-|---|---|
-| Proto-Semitic | \*sadār- 'order' (semitic_roots K0390) |
-| Akkadian | sadāru 'place in order' |
-| Hebrew | sēder 'order', pl. sĕdārîm (Job 10:22) |
+see SI-DA-RE
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

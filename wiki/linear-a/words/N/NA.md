@@ -33,6 +33,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | nā |
 | Meaning | please, pray—precative/entreaty particle used in prayer constructions before jussives and after divine addresses |
+| Root | n-ʾ |
+| Proto-Semitic | \*nā (#3784) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | ritual |

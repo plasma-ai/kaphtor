@@ -34,12 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qanūma |
 | Meaning | unresolved entity or commodity category; comparative /qanūma/ 'reeds' |
 | Root | q-n-w / possible q-n-y |
+| Proto-Semitic | \*ḳanaw/y- (#3035) |
 | Language layer | NWS |
 | Semantic field | administrative |
 
 ### Note
 
-Two administrative attestations, HT116a and KH88. Ugaritic alphabetic qnm is explicitly reconstructed as /qanūma/ &lt; \*qanawūma 'reeds' (Huehnergard 2008, p. 291), with Eblaite qā-nu-wu / qā-nu-um comparisons; this is the closest exact vocalic parallel. 'Reeds' does not fit the HT116a allocation-heading slot transparently. A separate comparison with √q-n-y 'acquire, possess' could yield an acquisition category, but the proposed nominal formation and mimation are not independently attested. Preserve both comparisons and leave the contextual meaning unresolved.
+Two administrative attestations, HT116a and KH88. Ugaritic alphabetic qnm is explicitly reconstructed as /qanūma/ &lt; \*qanawūma 'reeds' (Huehnergard 2008, p. 291), with Eblaite qā-nu-wu / qā-nu-um comparisons; this is the closest exact vocalic parallel. 'Reeds' does not fit the HT116a allocation-heading slot transparently. A separate comparison with √q-n-y 'acquire, possess' could yield an acquisition category, but the proposed nominal formation and mimation are not independently attested. Preserve both comparisons and leave the contextual meaning unresolved. See QA-NE and KA-NA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | qanû 'reed; arrow; measuring rod' (CAD Q 85) |
+| Hebrew | qāneh 'reed, stalk' (HALOT 1113) |
+| Ugaritic | qn 'cane' (DULAT 694) |
+| Phoenician | qn 'reeds, reed pens or pipes' (Krahmalkov 427) |
+| Eblaite | ga-nu-wu, \[ga\]-nu-um /qan(u)wum/ 'reed' (VE 416; Krebernik 1983, 16) |
 
 ### Source
 

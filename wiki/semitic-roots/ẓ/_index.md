@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ẓ
 desc: "Semitic roots whose first radical is ẓ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ẓ
@@ -23,7 +23,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ẓ/2107_to_limp_be_lame|2107_to_limp_be_lame]]: Proto-Semitic *ṯ̣lʕ {} *č̣lʕ, 'to limp, be lame': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/ẓ/2108_to_be_thirsty_1_drought_2|2108_to_be_thirsty_1_drought_2]]: Proto-Semitic *ṯ̣mʾ {} *č̣mʾ (-a-), 'to be thirsty' 1, 'drought' 2: reflexes in 18 language(s).
+[[wiki/semitic-roots/ẓ/2108_to_be_thirsty_1_drought_2|2108_to_be_thirsty_1_drought_2]]: Proto-Semitic *ṯ̣mʾ {} *č̣mʾ (-a-), 'to be thirsty' 1, 'drought' 2: reflexes in 19 language(s).
 
 [[wiki/semitic-roots/ẓ/2192_gazelle|2192_gazelle]]: Proto-Semitic *ṯ̣aby(-at)-, 'gazelle': reflexes in 13 language(s).
 

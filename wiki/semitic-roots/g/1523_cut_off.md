@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1523_cut_off
 title: "*gVdVm-: 'cut off'"
-desc: "Proto-Semitic *gVdVm-, 'cut off': reflexes in 3 language(s)."
+desc: "Proto-Semitic *gVdVm-, 'cut off': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1523"
@@ -30,6 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | gādam (Klein s.v. גדם) | Klein s.v. גדם | gloss withheld |
+| Syrian Aramaic | gᵉdam (Klein s.v. גדם) | Klein s.v. גדם | gloss withheld |
 | Arabic | gdm |  |  |
 | Akkadian | gadāmu |  |  |
 | Aramaic | gdm (CAL s.v. gdm) | CAL s.v. gdm |  |

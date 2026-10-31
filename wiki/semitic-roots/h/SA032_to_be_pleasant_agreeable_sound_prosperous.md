@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab hnʾ, pl. hnʾn; hnʾ; hnʾt (SD 56); hnʾ (Biella 115) | SD 56; Biella 115 | gloss withheld |
+| Epigraphic South Arabian | Sab hnʾ, pl. hnʾn; hnʾ; hnʾt (SD 56); hnʾ (Biella 115); Qat. hnʔm (Ricks 1982 s.v. hnʔm) | SD 56; Biella 115; Ricks 1982 s.v. hnʔm | gloss withheld |
 | Arabic | hanuʾa, haniʾa 'it was pleasant, productive of enjoyment' (Lane 2902) | Lane 2902 |  |
 | Pre-Islamic North Arabian | Safaitic hnʾ; hnʾ (D); hnʾ; hnʾn (Al-Jallad–Jaworska 78) | Al-Jallad–Jaworska 78 | gloss withheld |
 | Syrian Aramaic | hnā 'to be agreeable, pleasant; to profit, benefit' (Payne Smith 104); hanī 'sweet, fragrant, pleasant, agreeable' (Payne Smith 105) | Payne Smith 104; Payne Smith 105 |  |

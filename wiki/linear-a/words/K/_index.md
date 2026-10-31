@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-29T17:28:27Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/K
@@ -27,7 +27,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/K/KA_KI|KA_KI]]: Unread (role only): personal name; 2 occurrence(s).
 
-[[wiki/linear-a/words/K/KA_KU|KA_KU]]: Kakku: personal name (Amorite Kakku). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_KU|KA_KU]]: Kakku: personal name, 'Weapon' (Amorite Kakku). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_KU_NE_TE|KA_KU_NE_TE]]: Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1).
 
@@ -45,13 +45,13 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/K/KA_NI_JA_MI|KA_NI_JA_MI]]: qāniy-yammi: Creator of the Sea (El epithet). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_NU_TI|KA_NU_TI]]: kanuti / ganuti: emmer (cereal grain). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/K/KA_NU_TI|KA_NU_TI]]: Ganuti: place name, 25 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): entity, institution, or settlement; perhaps village. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KA_PA_QE|KA_PA_QE]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KA_PO_RU|KA_PO_RU]]: kabīru: great one (Kabeiri divine epithet); rival kōper 'ransom'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_PO_RU|KA_PO_RU]]: kapōru: bowl; rival kubburu 'extra share'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_QA|KA_QA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -77,7 +77,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/K/KA_TA_RE|KA_TA_RE]]: kaṯare: Kothar (divine craftsman god). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_TI|KA_TI]]: Gattī: the man of the press, or the Gittite (nisbe of gat 'press'); rivals Qəhātî 'Kohathite', Kittî 'Kittian'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_TI|KA_TI]]: Qāti: personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_U_DE_TA|KA_U_DE_TA]]: Kaw-tatta: Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt. Lexicon, SPECULATIVE (tier 1).
 
@@ -115,9 +115,9 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/K/KI_NI_MA|KI_NI_MA]]: kōhinīma: priests (plural + mimation). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KI_NU|KI_NU]]: Kīnu: personal name: 'the Just/True One' — Akkadian kīnu 'true, reliable, just'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KI_NU|KI_NU]]: Kīnu: personal name, 'the True One' (kīnu 'true, reliable'). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KI_RA|KI_RA]]: kirû/qīra: possibly garden/orchard; alternatively liquid bitumen. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KI_RA|KI_RA]]: kirû/qīra: possibly garden/orchard; alternatively hot bitumen. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KI_RE_TA2|KI_RE_TA2]]: Kirēta / Kret: Kret (eponym of Crete). Lexicon, PROBABLE (tier 3).
 
@@ -159,7 +159,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/K/KO_RU|KO_RU]]: kōr: kor (dry measure); rival 'ram'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KO_SA_I_TI|KO_SA_I_TI]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/K/KO_SA_I_TI|KO_SA_I_TI]]: Kōšayīt: the Kushite woman (origin label); rival kusītu 'robe'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU|KU]]: kull: all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal). Lexicon, CANDIDATE (tier 2).
 
@@ -195,7 +195,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/K/KU_PA_JA|KU_PA_JA]]: Kubbaya: personal name (hypocoristic in -aya), cf. Amorite Kubbiya. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KU_PA_RI|KU_PA_RI]]: kubīri: great ones (Kabeiri, pl./oblique); rival kᵉpārîm 'villages'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KU_PA_RI|KU_PA_RI]]: kuparī: the villages, a group of men drawing grain; rival kaparrī 'junior shepherds'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_PA_ZU|KU_PA_ZU]]: Kapizzi: Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'. Lexicon, SPECULATIVE (tier 1).
 

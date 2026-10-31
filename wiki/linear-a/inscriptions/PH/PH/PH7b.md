@@ -41,9 +41,9 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐝫
-2. TA 1 L
-3. DA-RA L
-4. \*131C 𐝈𐝃
+2. \]TA 1 L
+3. \]DA-RA L
+4. \[?\] 𐝈𐝃
 5. 𐝫
 
 Unicode (Linear A block):
@@ -52,7 +52,7 @@ Unicode (Linear A block):
 𐝫
 𐝫𐘳𐄇𐝈𐝫
 𐝫𐘀𐘴𐝈𐝫
-𐝫𐙏𐝈𐝃
+𐝫𐝫𐝈𐝃
 𐝫
 ```
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kummu |
 | Meaning | cella, inner sanctuary |
 | Root | k-m-m |
+| Proto-Semitic | \*kumm- (#3788) |
 | Language layer | Akkadian |
 | Semantic field | ritual |
 
@@ -46,10 +47,11 @@ Akkadian kummu 'cella, inner room of a temple'; cf. DU-PU₂-RE dubur 'sanctuary
 | Language | Comparison |
 |---|---|
 | Akkadian | kummu "cella, inner room of a temple" |
+| Ugaritic | kbm, a (closed) cult installation (DULAT 423), filed with kummu under √k-m-m (GlOS 1, 308) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

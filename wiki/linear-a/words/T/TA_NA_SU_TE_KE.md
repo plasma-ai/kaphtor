@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tanašutē-kī |
 | Meaning | may \[it\] be drunk for you (f.)—N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī |
 | Root | š-t-y |
+| Proto-Semitic | \*šVtVy- (#1384) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | verbal |
@@ -48,7 +49,8 @@ Hapax. Position 1 on PRZa1 (Prassa stone vessel, LMIA), occupying the formula ve
 |---|---|
 | Hebrew | šātâ (שָׁתָה) 'to drink' |
 | Akkadian | šatû 'to drink' |
-| Ugaritic | šty 'to drink' |
+| Ugaritic | šty 'to drink'; mštt 'drink, libation' (DULAT 588) |
+| Emar | ta-ši-ti tašitu 'goblet' (GlOS 2, 264) |
 
 ### Source
 

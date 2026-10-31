@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qemāḥu |
 | Meaning | flour/meal as a grain subtype; processed grain product for rations and offerings |
 | Root | q-m-ḥ |
+| Proto-Semitic | \*ḳamḥ- (#1613) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-GRA ideogram + QE complement (4 att., all Haghia Triada). PS \*qamāḥ- 'to grind, mill': Akk qēmu(m) 'flour, meal' (CAD Q 254), Heb קֶמַח qemaḥ (Gen 18:6, Num 5:15), Ug qmḥ (KTU 1.14 ii:29). QE = /qe/ = initial syllable of qemāḥu. GRA+QE appears with dry-measure bulk quantities (5, 20, 40 units) in multi-commodity allocation tablets alongside OLE+KI, OLE+MI, VIN, and plain GRA. On HT36, \*307+\*387-GRA+QE 44½ (20 erased from 64½) records a flour allocation to a dubur sanctuary—the largest attested quantity. GRA+QE is distinct from plain GRA (whole grain) as a processed subtype.
+GRA ideogram + QE complement (4 att., all Haghia Triada). Akk qēmu(m) 'flour, meal' (CAD Q 254), Heb קֶמַח qemaḥ (Gen 18:6, Num 5:15), Ug qmḥ (KTU 1.14 ii:29). QE = /qe/ = initial syllable of qemāḥu. GRA+QE appears with dry-measure bulk quantities (5, 20, 40 units) in multi-commodity allocation tablets alongside OLE+KI, OLE+MI, VIN, and plain GRA. On HT36, \*307+\*387-GRA+QE 44½ (20 erased from 64½) records a flour allocation to a dubur sanctuary—the largest attested quantity. GRA+QE is distinct from plain GRA (whole grain) as a processed subtype.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | qēmu 'flour' (CAD Q 204) |
+| Hebrew | qemaḥ 'flour' (HALOT 1107) |
+| Ugaritic | qmḥ 'flour' (DULAT 692) |
 
 ### Source
 

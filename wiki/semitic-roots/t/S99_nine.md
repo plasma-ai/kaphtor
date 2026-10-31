@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern South Arabian | Bathari saˁēt (Gasparini - Morris 2025 162 apud SEDonline 859) | SEDonline 859 | gloss withheld |
 | Tigrinya | təšəˁattä, täsˁattä (TED 1254 apud SEDonline 859) | TED 1254; SEDonline 859 | gloss withheld |
 | Jibbali | sɔʕ (JL 220 apud SEDonline 859) | JL 220; SEDonline 859 | gloss withheld |
-| Mehri | sɛ̄ (ML 338 apud SEDonline 859) | ML 338; SEDonline 859 | gloss withheld |
+| Mehri | sɛ̄ (ML 338 apud SEDonline 859); sayt, sǝʿáyt (Rubin 2018 296, 297); tīsa (Rubin 2018 300) | ML 338; SEDonline 859; Rubin 2018 296, 297; Rubin 2018 300 | gloss withheld |
 | Phoenician | tšʿ (DNWSI 1235 apud SEDonline 859) | DNWSI 1235; SEDonline 859 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

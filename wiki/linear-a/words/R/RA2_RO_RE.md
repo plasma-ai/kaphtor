@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Lallor |
 | Meaning | personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri |
 | Root | l-l-r |
+| Proto-Semitic | \*lallār- (#3851) |
 | Language layer | Akkadian |
 | Category | personal_name |
 | Semantic field | personal_name |

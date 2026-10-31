@@ -34,21 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | samidē |
 | Meaning | groats, semolina, processed grain |
 | Root | s-m-d |
+| Proto-Semitic | \*samīd- (#1647) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Both attestations on Zakros stone vessels (ZA5a, ZA15a). Compare PS \*samid-. The -E suffix may be a Minoan grammatical ending on a borrowed Akkadian commodity noun. Related to SA-MA-TI (HT39) only if that word is a commodity, which its slot does not show; shares the smt skeleton with JA-SU-MA-TU. Receives quantity 4 on ZA15a. \|\| Huehnergard: Ug ṣmd /ṣimdu/ "pair, yoke, team (also: pairs of wheels)"; CiCCu noun pattern. Pl. ṣmdm /ṣimadūma/. BH cognate: ṣémed "pair, yoke" (segolate pattern) (Huehnergard 2012, pp. 130-135 (line 202)) \|\| ONOMASTIC ALTERNATIVE—the X-dāʿ paradigm: Šumī/Šammī-dāʿē 'my Name knows', of the kinship-theophoric X-dāʿ name type beside A-MI-DA-U/A-MI-DA-O (ʿAmmī-dāʿ) — the -U/-E endings would need a final-vowel variation; Howard (JSS 68.1) documents /u/ &gt; /a/ only in √ypʿ names (Niqmī-yapuʿ &gt; Niqmēpaʿ). Amorite template fit 0.0 (sammi opener ×catalog, daʿi final, Gelb AS 21); biblical template ʾĂbîdāʿ/ʾEldāʿā (Gen 25:4). Context split: ZA15a quantity 4 favors the commodity; ZA5a list slot (after KI-NI-MA 7, O-TA-NI-ZA-SE 6) admits either.
+Both attestations on Zakros stone vessels (ZA5a, ZA15a). The -E suffix may be a Minoan grammatical ending on a borrowed Akkadian commodity noun. Related to SA-MA-TI (HT39) only if that word is a commodity, which its slot does not show; shares the smt skeleton with JA-SU-MA-TU. Receives quantity 4 on ZA15a. \|\| Huehnergard: Ug ṣmd /ṣimdu/ "pair, yoke, team (also: pairs of wheels)"; CiCCu noun pattern. Pl. ṣmdm /ṣimadūma/. BH cognate: ṣémed "pair, yoke" (segolate pattern) (Huehnergard 2012, pp. 130-135 (line 202)) \|\| ONOMASTIC ALTERNATIVE—the X-dāʿ paradigm: Šumī/Šammī-dāʿē 'my Name knows', of the kinship-theophoric X-dāʿ name type beside A-MI-DA-U/A-MI-DA-O (ʿAmmī-dāʿ) — the -U/-E endings would need a final-vowel variation; Howard (JSS 68.1) documents /u/ &gt; /a/ only in √ypʿ names (Niqmī-yapuʿ &gt; Niqmēpaʿ). Amorite has the name: SA-MI-DA-ḪU-UM Śami-daʿum (Gelb 1980, no. 5450); biblical template ʾĂbîdāʿ/ʾEldāʿā (Gen 25:4). Context split: ZA15a quantity 4 favors the commodity; ZA5a list slot (after KI-NI-MA 7, O-TA-NI-ZA-SE 6) admits either.
 
 ### Cognates
 
-Akkadian samīdu/samiddu 'groats, coarse meal, semolina' (temple ration lists); related to SA-MA-TI (HT39) from same root
+Akkadian samīdu/samiddu 'groats, coarse meal, semolina' (temple ration lists); Emar si-im-mi-da-ti simmidatu 'a kind of flour' (GlOS 2, 198; Pentiuc 2001, 156); related to SA-MA-TI (HT39) from same root
 
 ### Source
 
-di Mino
+di Mino; GlOS 2; Pentiuc 2001; Gelb 1980
 
 ## Attestations
 

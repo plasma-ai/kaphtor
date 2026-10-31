@@ -34,21 +34,18 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾabūs(a) |
 | Meaning | the stall, storehouse |
 | Root | ʾ-b-s |
+| Proto-Semitic | \*ʾabūs- (#1336) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-\*325 = /bu/ (CANDIDATE). PS \*s = \[ts\] takes the Z-series. PE2 fraction list (¼). Spells PS \*ʾabūs- sign for sign. Variant of U-\*325-ZA, as Akk. abūsātu beside ubsātu.
+\*325 = /bu/ (CANDIDATE). PS \*s = \[ts\] takes the Z-series. PE2 fraction list (¼). Spells ʾabūs- sign for sign. Variant of U-\*325-ZA, as Akk. abūsātu beside ubsātu.
 
 ### Cognates
 
-| Language | Comparison |
-|---|---|
-| Proto-Semitic | \*ʾabūs- 'warehouse, manger' |
-| Akkadian | abūsu 'storehouse', pl. abūsātu, ubsātu (CAD A/1 92); bēl abūsi 'overseer of the storehouse', Ras Shamra (CAD A/1 93) |
-| Hebrew | ʾēbûs (אֵבוּס) 'crib, manger, stall' (HALOT 4; Isa 1:3, Prov 14:4) |
+see U-\*325-ZA
 
 ### Source
 

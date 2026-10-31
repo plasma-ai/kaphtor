@@ -34,13 +34,20 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yidu-ti |
 | Meaning | entity name: yidu 'strength' with TI |
 | Root | yidu |
+| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | Eblaite |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 104 .2–3 I-DU-TI 20 ½, I at the end of .2, DU-TI at the head of .3, all three signs whole and undotted, the ½ dotted (GORILA I 171). Eblaite names built on yidu 'strength', as yidu-na 'our strength' (Pagan 1998, Ebla personal names, row 2466); TI is unexplained. Rivals: I-DU followed by TI as an ideogram, which GORILA's note allows; Ida, written I-DA-A on KO Za 1. One document.
+HT 104 .2–3 I-DU-TI 20 ½, I at the end of .2, DU-TI at the head of .3, all three signs whole and undotted, the ½ dotted (GORILA I 171). Eblaite names built on yidu 'strength', as yidu-na 'our strength' (Pagan 1998, Ebla personal names, row 2466); TI is unexplained. Rivals: I-DU followed by TI as an ideogram, which GORILA's note allows; Ida, written I-DA-A on KO Za 1. One document. See I-DU-NE-SI and JA-DI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | i-du-na yidu-na 'our strength' and other yidu names, i-du i₃-la yidu-ʾila 'strength is god' (Pagan 1998, rows 2460–2470) |
 
 ### Source
 

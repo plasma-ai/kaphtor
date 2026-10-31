@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾadunim / ʾadunīm |
 | Meaning | (to) the lord / lords—recipient entry; written only as WA-DU-NI-MI 'and (to) the lord(s)' |
 | Root | ʾ-d-n |
+| Proto-Semitic | \*ʾadōn- (#2744) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | personnel |

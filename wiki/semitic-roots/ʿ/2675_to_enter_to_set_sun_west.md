@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | erēbu (CAD E 258) | CAD E 258 | gloss withheld |
 | Ugaritic | ʕrb (DULAT 176) | DULAT 176 | gloss withheld |
 | Hebrew | ʕereb (HALOT 877) | HALOT 877 | gloss withheld |
-| Epigraphic South Arabian | Sab mʿrb, mʿrbyt (SD 18, 19; Biella 382; Sabaweb lemmas 3807, 3808) | SD 18, 19; Biella 382; Sabaweb lemmas 3807, 3808 | gloss withheld |
+| Epigraphic South Arabian | Sab mʿrb, mʿrbyt (SD 18, 19; Biella 382; Sabaweb lemmas 3807, 3808); Qat. mʕrbn (Ricks 1982 s.v. mʕrbn) | SD 18, 19; Biella 382; Sabaweb lemmas 3807, 3808; Ricks 1982 s.v. mʕrbn | gloss withheld |
 | Aramaic | ʿRB (Qumran 187 apud CAL) | CAL; Anderson–Moser 2024 root ġrb | gloss withheld |
 | Judaic Aramaic | maʿarbā (HALOT 615) | HALOT 615 |  |
 | Syrian Aramaic | ʿreb (HALOT 877) | HALOT 877 |  |

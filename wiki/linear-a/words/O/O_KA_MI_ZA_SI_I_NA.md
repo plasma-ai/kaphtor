@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ukammis-Sîn |
 | Meaning | personal name: 'Sîn has gathered in / laid up (the child)'—verb + DN sentence name |
 | Root | k-m-s + DN Sîn |
+| Proto-Semitic | \*kamas- (#2835) |
 | Language layer | Akkadian |
 | Category | personal_name |
 | Semantic field | personal_name |

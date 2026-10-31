@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Samarō |
 | Meaning | Samarō, personal name; compare Northwest Semitic √š-m-r and Egyptian smr |
 | Root | š-m-r |
+| Proto-Semitic | \*šVmVr- (#K0524) |
 | Language layer | NWS_or_Egyptian |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -47,12 +48,12 @@ HT 88, one of six one-unit entries in the KI-RO roster. √š-m-r 'guard', the A
 | Language | Comparison |
 |---|---|
 | Hebrew | šmr 'to guard' (HALOT 1581) |
-| Amorite | samar, a name element 'guard, watch' (Huffmon 1965, 251) |
+| Amorite | samar, a name element 'guard, watch' (Huffmon 1965, 251); bare ŚAMAR-A, SA-MA-RA (Gelb 1980, no. 5437); ʾAbī-Śamar (no. 134) |
 | Egyptian | smr 'courtier' (ORAEC) |
 
 ### Source
 
-di Mino
+di Mino; Huffmon 1965; Gelb 1980
 
 ## Attestations
 

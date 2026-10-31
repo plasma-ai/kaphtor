@@ -33,12 +33,24 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | my Healer (deity invocation—divine title of Rapʾu) |
 | Root | √r-p-ʾ |
+| Proto-Semitic | \*rVpVʾ- (#K0355) |
 | Language layer | NWS |
 | Semantic field | divine |
 
 ### Note
 
-Egyptian group-writing \[element 8, Det: A40 'seated god' (male)\]. Keftiu Spell #33, LMP BM 10059. A40 confirms divine status \|\| ETYMOLOGY: √r-p-ʾ 'to heal' + 1cs -ī = 'my healer.' Ug. rpʾu divine title (KTU 1.108:1 rpʾu mlk ʿlm 'the Healer, eternal king'; KTU 1.20–22 rpʾīm/Rephaim), Heb. rāpāʾ (Exod 15:26 rōpʾekā; Ps 103:3), Phoen. mrpʾ month name (KAI 37:3) \|\| STEINER'S READING: r-p-y = rpʾy. Akulov reads Erupa-j, connects to Greek Europa via Hattic \*lup 'bull'—same consonantal skeleton, different etymology
+Egyptian group-writing \[element 8, Det: A40 'seated god' (male)\]. Keftiu Spell #33, LMP BM 10059. A40 confirms divine status \|\| ETYMOLOGY: √r-p-ʾ 'to heal' + 1cs -ī = 'my healer.' Ug. rpʾu divine title (KTU 1.108:1 rpʾu mlk ʿlm 'the Healer, eternal king'; KTU 1.20–22 rpʾīm/Rephaim), Heb. rāpāʾ (Exod 15:26 rōpʾekā; Ps 103:3), Phoen. mrpʾ month name (KAI 37:3) \|\| STEINER'S READING: r-p-y = rpʾy. Akulov reads Erupa-j, connects to Greek Europa via Hattic \*lup 'bull'—same consonantal skeleton, different etymology. See A-RE-PI-RE-NA and A-RI-PA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | rpỉy, a personal name; rpủ 'healer', DN, in ỉlrpỉ, ʿmrpỉ, mlkrpỉ (GlOS 2, 170) |
+| Egyptian | r-pꜢ-y, a Semitic name (GlOS 2, 168, after Schneider, APÄQ no. 319) |
+
+### Source
+
+di Mino; Steiner 1992; GlOS 2
 
 ### Review
 

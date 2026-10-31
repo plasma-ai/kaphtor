@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yāṣē |
 | Meaning | that which goes out, it goes out (3ms imperfect/participle √y-ṣ-ʾ with ʾaleph-III loss) |
 | Root | y-ṣ-ʾ |
+| Proto-Semitic | \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | verbal |
@@ -44,11 +45,11 @@ Component morpheme, broken out on its second compound attestation: within SI-JA-
 
 ### Cognates
 
-Hebrew יָצָא (yāṣāʾ) "go out", participle יֹצֵא (yōṣē); Ugaritic √yṣʾ "go out, appear"; Akkadian (w)aṣû "go out", ṣītu "expenditure, outflow"
+Hebrew יָצָא (yāṣāʾ) "go out", participle יֹצֵא (yōṣē); Ugaritic √yṣʾ "go out, appear"; Akkadian (w)aṣû "go out", ṣītu "expenditure, outflow"; Amorite names with the 3ms imperfect: ʾAWIJ+JA-JṢIʾ (A-WI-IA-ZI), JI-JṢIʾ+ʾAŠAR (I-ṢI-A-ŠAR) (Gelb 1980, nos. 561, 2602); Euphratian ia-zi-e, Alalakh ia-ṣí, Ugarit syll. i-ṣa-ʔa (GlOS 2, 361)
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; GlOS 2
 
 ## Attestations
 

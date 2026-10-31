@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | bīdi Sūka |
 | Meaning | In the charge of Sūka—custody formula + personal name on a sealed receipt |
 | Root | b-y-d |
+| Proto-Semitic | \*bV-- (#K0007) + \*yad- ~ \*ʾid- (#2046) |
 | Language layer | NWS |
 | Semantic field | administrative |
 
 ### Note
 
-HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the charge of' (Ug. bd) + Sūka, a name without a secure etymology. Pair of HT Wc 3010 \*333-DI-NA-SU-KA. Weak point: \*333 = bi rests on its three words. Rival: the whole group a personal name. One attestation.
+HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the charge of' (Ug. bd) + Sūka, a name without a secure etymology. Pair of HT Wc 3010 \*333-DI-NA-SU-KA. Weak point: \*333 = bi rests on its three words. Rival: the whole group a personal name. One attestation. See PA₃.
 
 ### Cognates
 

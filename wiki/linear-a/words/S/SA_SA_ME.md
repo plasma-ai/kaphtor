@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šašamā |
 | Meaning | sesame (seed-spice commodity) |
 | Root | š-š-m |
+| Proto-Semitic | \*sim-sim- (#762) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |

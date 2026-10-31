@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/SA137_dbt_penalty_amends
 title: "*ʕḏb: 'ʿḏbt penalty, amends'"
-desc: "Epigraphic South Arabian headword *ʕḏb, 'ʿḏbt penalty, amends': reflexes in 1 language(s)."
+desc: "Epigraphic South Arabian headword *ʕḏb, 'ʿḏbt penalty, amends': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA137"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ʕaḏāb (Tāj 3:329) | Tāj 3:329 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿḏb (SD 12, 13; Sabaweb lemmas 3669, 3670) | SD 12, 13; Sabaweb lemmas 3669, 3670 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

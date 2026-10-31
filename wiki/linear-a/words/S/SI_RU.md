@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṣillu |
 | Meaning | shade, protection (personal-name element) |
 | Root | ṣ-l-l |
+| Proto-Semitic | \*ṯ̣il(l)- (#959) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Name on the HT 55a KI-RO list (SI-RU 1) and first element of HT 90 SI-RU-MA-RI-TA₂ (GORILA I 107, 143). Amorite ṣill- 'shade, protection' (Huffmon, APNM 257): Ṣillī-Baʿli (APNM 58), Ṣill-Haddu, Ṣillān (Gelb, AS 21); Hebrew ṣēl, the name Ṣillāh (Gen 4:19); Ugaritic ẓl /ẓillu/ (Huehnergard 2012). PS \*ẓill-, written with SI and one RU for the geminate. Distinct from SI-RU-TE in the libation formula.
+Name on the HT 55a KI-RO list (SI-RU 1) and first element of HT 90 SI-RU-MA-RI-TA₂ (GORILA I 107, 143). Amorite ṣill- 'shade, protection' (Huffmon, APNM 257): Ṣillī-Baʿli (APNM 58), Ṣill-Haddu, Ṣillān (Gelb, AS 21, nos. 6482–6483); Hebrew ṣēl, the name Ṣillāh (Gen 4:19); Ugaritic ẓl /ẓillu/ (Huehnergard 2012). ẓill-, written with SI and one RU for the geminate. Distinct from SI-RU-TE in the libation formula.
 
 ### Cognates
 

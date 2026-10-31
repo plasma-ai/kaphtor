@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔēl-īm pl. (HALOT 40); ʔallā (HALOT 52), ʔallōn, pB (HALOT 54); ʔēlā (HALOT 51) | HALOT 40; HALOT 52; HALOT 54; HALOT 51 | gloss withheld |
 | Syrian Aramaic | ʔīlān- |  | gloss withheld |
 | Aramaic | Pal ʔīlān |  | gloss withheld |
-| Eblaitic | ʔaₓ(NI)-a-la-nu, ʔaₓ(NI)-la-núm /ʔaylānum/ (VE 496; Krebernik 1983, 18) | VE 496; Krebernik 1983, 18 | gloss withheld |
+| Eblaitic | ʔaₓ(NI)-a-la-nu, ʔaₓ(NI)-la-núm /ʔaylānum/ (VE 496; Krebernik 1983, 18); al₆-la-nu, al₆-la-na /ʾallānu(m)/ (ARET IV; MEE 10 20 v. V 15; Fronzaroli 1995, 61) | VE 496; Krebernik 1983, 18; ARET IV; MEE 10 20 v. V 15; Fronzaroli 1995, 61 | gloss withheld |
 | Phoenician | ʾln (HALOT 54) | HALOT 54 |  |
 | Arabic | ˀalāˀ- (LA 14 53 apud SEDonline 415) | LA 14 53; SEDonline 415 | gloss withheld |
 

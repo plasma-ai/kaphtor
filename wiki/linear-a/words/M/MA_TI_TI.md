@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mattitt(u) |
 | Meaning | gift |
 | Root | n-t-n |
+| Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
 
 ### Note
 
-HT Zd 155 and HT Zd 157, each time right before A319 with no divider before MA; the cut rests on the ending the two graffiti share (Duhoux 1978, §29 A6). Heb. mattat 'gift' &lt; \*mattant, Ph. mtt (HALOT 656). MA-TI-TI writes the i-grade \*mattint- &gt; mattitt-, the final TI a dead vowel. WI-JA-SU on HT Zd 157 is likely the recipient's name. The rival √š-m-ṭ 'release' parse needs TI-TI to write a geminate.
+HT Zd 155 and HT Zd 157, each time right before A319 with no divider before MA; the cut rests on the ending the two graffiti share (Duhoux 1978, §29 A6). Heb. mattat 'gift' &lt; \*mattant, Ph. mtt (HALOT 656). MA-TI-TI writes the i-grade \*mattint- &gt; mattitt-, the final TI a dead vowel. WI-JA-SU on HT Zd 157 names the recipient. The rival √š-m-ṭ 'release' parse needs TI-TI to write a geminate. See NA-TU-\*301-NE.
 
 ### Cognates
 
@@ -49,10 +50,13 @@ HT Zd 155 and HT Zd 157, each time right before A319 with no divider before MA; 
 | Hebrew | mattat 'gift' &lt; \*mattant (1 Kgs 13:7; Prov 25:14; Eccl 3:13; 5:18; Ezek 46:5, 11; HALOT 656) |
 | Phoenician | mtt 'gift' (HALOT 656) |
 | Aramaic | JArm. מתנא 'gift' (HALOT 654) |
+| Emar | mu-ta-at-te-e muttat 'gift', a name element (GlOS 2, 79) |
+| Eblaite | ma-da-nu mātanu 'gift', a name (Pagan 1998, row 3564) |
+| Amorite | MATAN-I, MA-AT-TA-NI (Gelb 1980, no. 4445); Tuttul ma-ta-an 'Gift' (Buck 2018, 342) |
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; Gelb 1980; Buck 2018; GlOS 2
 
 ## Attestations
 

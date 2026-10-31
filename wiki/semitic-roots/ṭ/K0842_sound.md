@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ṭäqʿe (LGz. 595) | LGz. 595 | gloss withheld |
 | Amharic | ṭäqqa (LGz. 595) | LGz. 595 | gloss withheld |
 | Judaic Aramaic | tᵉqaʿ (HALOT 1785) | HALOT 1785 |  |
-| Ugaritic | tqʿ (HALOT 1785) | HALOT 1785 |  |
+| Ugaritic | tqʿ (HALOT 1785); tqʿt /Tāqiʿatu/, act. ptc. f. G, a kṯrt goddess (KTU 1.24:49; DULAT 862) | HALOT 1785; KTU 1.24:49; DULAT 862 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ṯawrinima |
 | Meaning | Bull- (personal name) |
 | Root | ṯ-w-r |
+| Proto-Semitic | \*ṯawr- (#269) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |

@@ -46,10 +46,11 @@ HT 11a .3–4 A-SU-JA 1, A at the end of .3 and SU-JA on .4, whole and undotted,
 | Language | Comparison |
 |---|---|
 | Nuzi | AZ(Z)UIA, A-zu-ia, var. Az-zu-ia, a woman (Gelb, Purves, and MacRae 1943, 41); az(z), Hurrian, in women's names (ibid., 208) |
+| Hurrian | Azzuāya, az-zu-a-ia, f. (Mari, VHN 81); base Azzu 'woman', f. (Mari, Karana; Monti 2017, 234, 386) |
 
 ### Source
 
-di Mino; Gelb, Purves, and MacRae 1943
+di Mino; Gelb, Purves, and MacRae 1943; Monti 2017
 
 ## Attestations
 

@@ -34,13 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | buṭnu |
 | Meaning | commodity ideogram; probably a Pistacia/terebinth product (resin, mastic, or nuts) |
 | Root | b-ṭ-n |
+| Proto-Semitic | \*buṭm(-at)- (#3201) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Commodity status is secure; the exact identification remains PROBABLE. It occurs in 29 contexts on 26 documents. Three forms occur on damaged HT123+124b: \*188-\*308 (11), \*188-DU (10), and \*188 (1). Their relation cannot be recovered by simply summing the preserved quantities. \*308 also modifies OLIV and may denote a processed or oil product. \*188 co-occurs with VIN on HT98b, appears on Khania roundels, and occurs in ritual context on PSIZa1. The proposed Pistacia identification compares Hebrew boṭnā (Gen 43:11), Akkadian buṭnu, and Arabic buṭm. PA₃-\*188 is compatible with a /b/-initial reading only if PA₃ is a phonetic complement; it cannot independently prove that value. The proposed CH 009 vessel/container ancestry (Ferrara et al. 2022, Pasiphae XVI) likewise establishes neither the commodity nor its name. Ebla writes the word bù-da-ma-tim and GIŠ.EŠ₁₁ = buₓ-du-du 'pistachio' (GlOS 1, 131), PS \*buṭm- (#3201), and has bu₃-du-du as a name (Pagan 1998, row 1278).
+Commodity status is secure; the exact identification remains PROBABLE. It occurs in 29 contexts on 26 documents. Three forms occur on damaged HT123+124b: \*188-\*308 (11), \*188-DU (10), and \*188 (1). Their relation cannot be recovered by simply summing the preserved quantities. \*308 also modifies OLIV and may denote a processed or oil product. \*188 co-occurs with VIN on HT98b, appears on Khania roundels, and occurs in ritual context on PSIZa1. The proposed Pistacia identification compares Hebrew boṭnā (Gen 43:11), Akkadian buṭnu, and Arabic buṭm. PA₃-\*188 is compatible with a /b/-initial reading only if PA₃ is a phonetic complement; it cannot independently prove that value. The proposed CH 009 vessel/container ancestry (Ferrara et al. 2022, Pasiphae XVI) likewise establishes neither the commodity nor its name. Ebla writes the word bù-da-ma-tim and GIŠ.EŠ₁₁ = buₓ-du-du 'pistachio' (GlOS 1, 131), and has bu₃-du-du as a name (Pagan 1998, row 1278).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | buṭnu 'terebinth' (CAD B 358); buṭuttu A 'pistachio tree, wood, nut' (CAD B 359) |
+| Hebrew | boṭnîm 'pistachio nuts', among the choice products of the land sent down to Egypt, Gen 43:11 (HALOT 121) |
 
 ### Source
 

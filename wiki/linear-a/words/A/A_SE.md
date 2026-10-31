@@ -33,13 +33,26 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | ʾaššē 'fire offering, burnt offering' |
 | Root | ʾ-š-š |
+| Proto-Semitic | \*ʾišs- (#812) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Proto-NWS \*ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/&gt;/i/ via Barth's Law). Four attestations across two sites and two registers (HT tablets, ZAZb3 vessel). On HT81, HT93a and HT132 A-SE opens an entry, followed by a divider and a commodity (MI+JA+RU myrrh, I GRA+PA, A319); on HT93a the personal name QA-QA-RU stands before the same grain, so a recipient is the rival there. Commodity co-occurrences match Biblical pattern: grain (HT93a I GRA+PA), aromatics (HT81 MI+JA+RU myrrh), oil contexts (Lev 2:1, Num 28:5). Competing hypothesis: ʾaš "who/which" (Phoenician relative pronoun ʾš), the better phonological fit. Ugaritic cognate uncertain (Huehnergard: itt /ʾiṭtātu/? with /ṭ/ not /š/).
+Proto-NWS \*ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/&gt;/i/ via Barth's Law). Four attestations across two sites and two registers (HT tablets, ZAZb3 vessel). On HT81, HT93a and HT132 A-SE opens an entry, followed by a divider and a commodity (MI+JA+RU myrrh, I GRA+PA, A319); on HT93a the personal name QA-QA-RU stands before the same grain, so a recipient is the rival there. Commodity co-occurrences match Biblical pattern: grain (HT93a I GRA+PA), aromatics (HT81 MI+JA+RU myrrh), oil contexts (Lev 2:1, Num 28:5). Competing hypothesis: ʾaš "who/which" (Phoenician relative pronoun ʾš), the better phonological fit. See I-SI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | ʾiššeh (אִשֶּׁה) 'offering made by fire', a noun of unity from ʾēš 'fire' (HALOT 92f.) |
+| Ugaritic | ỉšt 'fire', also a DN (GlOS 1, 48) |
+| Eblaite | ᵈIZI = ì-sa-du 'fire'; names ì-sa-ad/du/dum (GlOS 1, 48) |
+
+### Source
+
+di Mino; HALOT; GlOS 1
 
 ## Attestations
 

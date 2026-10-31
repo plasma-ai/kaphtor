@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | biśāmu |
 | Meaning | Balsam, perfume—aromatic personal name (cf. Basemath) on a metal ornament |
 | Root | b-ś-m |
+| Proto-Semitic | \*bśm (#S84) |
 | Language layer | NWS |
 | Semantic field | personal_name |
 
 ### Note
 
-MO Zf 1, a metal ornament from Mokhlos, the word alone. With \*333 = bi, \*333-SA-MU writes biśāmu 'balsam', before the Canaanite shift of ā (Heb. bōśem); a name of the aromatic class, cf. Basemath (Gen 26:34). Weak point: \*333 = bi is a working value. Rival: a label for the object, or a non-Semitic name. One attestation.
+MO Zf 1, a metal ornament from Mokhlos, the word alone. With \*333 = bi, \*333-SA-MU writes biśāmu 'balsam', before the Canaanite shift of ā (Heb. bōśem); a name of the aromatic class, cf. Basemath (Gen 26:34). Weak point: \*333 = bi is a working value. Rival: a label for the object, or a non-Semitic name. One attestation. See PA₃-SI-MO.
 
 ### Cognates
 

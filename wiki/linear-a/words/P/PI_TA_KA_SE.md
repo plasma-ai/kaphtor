@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Bīt-kissē |
 | Meaning | House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI |
 | Root | b-y-t + k-s-ʾ |
+| Proto-Semitic | \*bayt- (#652) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | administrative |
@@ -46,7 +47,6 @@ HT 21 PI-TA-KA-SE · TE · GRA 161, then OLE+U 11, OLE+E 3¾, \*304 7¾, OLIV 1�
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*bayt- 'house' (semitic_roots no. 652) |
 | Akkadian | bīt kussî, É.GIŠ.GU.ZA, '1. royal property (real estate), 2. royal service' (CAD K 593); grain to PN ša GIŠ.GU.ZA (CAD K 592) |
 | Ugaritic | ksu 'seat, throne'; Emar /kissu/ (DULAT 456) |
 | Hebrew | kissēʾ כִּסֵּא 'throne' (Gen 41:40) |

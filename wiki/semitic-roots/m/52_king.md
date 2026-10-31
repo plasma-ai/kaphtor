@@ -46,9 +46,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | mälka (LGz. 343) | LGz. 343 | gloss withheld |
 | Tigrinya | mäläḵä (LGz. 343) | LGz. 343 | gloss withheld |
 | Punic | mlk (Krahmalkov 285); mmlkt, mmlkʾt (T 184) | Krahmalkov 285; T 184 | gloss withheld |
-| Epigraphic South Arabian | Sab mlk (Kogan 2015, ch. 2 §4.2 no. 38; Sabaweb lemma 1371) | Kogan 2015 ch. 2 §4.2 no. 38; Sabaweb lemma 1371 | gloss withheld |
+| Epigraphic South Arabian | Sab mlk (Kogan 2015, ch. 2 §4.2 no. 38; Sabaweb lemma 1371); Qat. mlk (Ricks 1982 s.v. mlk) | Kogan 2015 ch. 2 §4.2 no. 38; Sabaweb lemma 1371; Ricks 1982 s.v. mlk | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic mlk (Al-Jallad–Jaworska 97) | Al-Jallad–Jaworska 97 | gloss withheld |
-| Eblaitic | ma-li-gú-um /malikum/ (VE 1088; Krebernik 1983, 38); =ma-lik in names, passim /malk/; ma-li-gú-um /mal(i)k/ (Sanmartín GlOS 2, 39, 41) | VE 1088; Krebernik 1983, 38; Sanmartín GlOS 2, 39, 41 | gloss withheld |
+| Eblaitic | ma-li-gú-um /malikum/ (VE 1088; Krebernik 1983, 38); =ma-lik in names, passim /malk/; ma-li-gú-um /mal(i)k/ (Sanmartín GlOS 2, 39, 41); Bonechi 2008, 15 reads ma-li-gú-um /malīkum/ (= Sum. nam-en, VE 1088), beside du-da-li-gú-um /tumtallikum/ (= Sum. nam-nam-en, VE 1089) | VE 1088; Krebernik 1983, 38; Sanmartín GlOS 2, 39, 41; Bonechi 2008; VE 1089 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

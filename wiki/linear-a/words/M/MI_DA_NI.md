@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | matni |
 | Meaning | loin, hip meat—choice cut on sacrificial fat allocation tablet |
 | Root | m-t-n |
+| Proto-Semitic | \*matn- (#1977) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | body_part |
 
 ### Note
 
-HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-DA-NI PA-JA 2, a weight. PS \*matn- 'loins' (Heb. māṯnayim). Weak points: MI for ma, DA for t. Rival: a heading or title before PA-JA. One attestation.
+HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-DA-NI PA-JA 2, a weight. Heb. māṯnayim 'loins'. Ebla writes matn 'tendon' SA.ŠU = ma-da-nu, with DA for t (GlOS 2, 59). Weak point: MI for ma. Rival: a heading or title before PA-JA. One attestation.
 
 ### Cognates
 
@@ -48,10 +49,11 @@ HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-D
 |---|---|
 | Hebrew | māṯnayim 'loins, hips' (Deut 33:11; Exod 28:42) |
 | Akkadian | matnu 'sinew, tendon' (CAD M/1 412) |
+| Ugaritic | mtnt 'loin', a cult term (GlOS 2, 59) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

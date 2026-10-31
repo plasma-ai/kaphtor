@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/3315_to_immerse_plunge_to_swim_dive_to_disappear
 title: "*ɣms: 'to immerse, plunge; to swim, dive; to disappear'"
-desc: "Proto-Semitic *ɣms, 'to immerse, plunge; to swim, dive; to disappear': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ɣms, 'to immerse, plunge; to swim, dive; to disappear': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3315"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ġamasa (Tāj 16:311) | Tāj 16:311 | gloss withheld |
 | Syrian Aramaic | ˁmaš (LSyr. 533 apud SEDonline 2105) | LSyr. 533; SEDonline 2105 | gloss withheld |
 | Mandaic Aramaic | amš (MD 23 apud SEDonline 2105) | MD 23; SEDonline 2105 | gloss withheld |
 | Geez | ḫammasa (CDG 234 apud SEDonline 2105) | CDG 234; SEDonline 2105 | gloss withheld |

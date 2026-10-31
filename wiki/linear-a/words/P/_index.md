@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T21:51:03Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/P
@@ -11,7 +11,7 @@ updated: 2026-10-27T21:51:03Z
 
 [[wiki/linear-a/words/P/P33_W_RY|P33_W_RY]]: I cry out! / my invocation (ritual speech act). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA|PA]]: parūs- 'crushed, ground (flour)'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA|PA]]: barr: barr- 'wheat, threshed grain'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3|PA3]]: b(i)=; bād(i): in, with, by; on HT103 perhaps administrative ‘in the charge of’. Lexicon, CANDIDATE (tier 2).
 
@@ -41,13 +41,13 @@ updated: 2026-10-27T21:51:03Z
 
 [[wiki/linear-a/words/P/PA_DA_SU_TI|PA_DA_SU_TI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PA_DE|PA_DE]]: Padī: personal name 'redeemed' (p-d-y); recipient of wine. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PA_DE|PA_DE]]: Padī: personal name 'redeemer' (p-d-y); recipient of wine. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_I_KI_broken_end|PA_I_KI_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PA_I_TO|PA_I_TO]]: Paito: Phaistos (place name). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/P/PA_JA|PA_JA]]: Pay: personal name; Egyptian Pꜣjj, the first element of PA-JA-RE. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PA_JA|PA_JA]]: Pay: personal name; Egyptian pꜣ.jj, the first element of PA-JA-RE. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_JA_RE|PA_JA_RE]]: Payare: He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro. Lexicon, PROBABLE (tier 3).
 
@@ -79,7 +79,7 @@ updated: 2026-10-27T21:51:03Z
 
 [[wiki/linear-a/words/P/PA_TA_NE|PA_TA_NE]]: Patne: personal name, 'Viper'; rival Ptah-theophoric. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA_TA_QE|PA_TA_QE]]: pitqē: a kind of *402 cup, Aramaic pitqa 'winecup' compared. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_TA_QE|PA_TA_QE]]: pitqē: a kind of *402 cup. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_ZA|PA_ZA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -105,17 +105,19 @@ updated: 2026-10-27T21:51:03Z
 
 [[wiki/linear-a/words/P/PI_SA|PI_SA]]: Pīsa: personal or institutional name, a recipient. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_JA|PI_TA_JA]]: Patiya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_TA_JA|PI_TA_JA]]: Pitaya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TA_KA_SE|PI_TA_KA_SE]]: Bīt-kissē: House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TA_KE_SI|PI_TA_KE_SI]]: Bīt-kissi: (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bitara / batūla: virgin, maiden (divine epithet). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bidāla: trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TE_RI|PI_TE_RI]]: piṭrī: Pitrī/Puṭrī (personal name; perhaps 'my release'). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PI_TI_NE_A_broken_end|PI_TI_NE_A_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
+
+[[wiki/linear-a/words/P/PI_q_SE_broken_end|PI_q_SE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PI_star310_A|PI_star310_A]]: pīnā: face, front, portion. Lexicon, CANDIDATE (tier 2).
 

@@ -39,11 +39,18 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-ZA 8 .3–4 TA-I-NU-MA-PA ∠, intact, after A-RI-NI-TA 'She-of-the-Lion' (GORILA III 165). PNM v6 has the woman's name tꜣ-n.t-mn-nfr 'she of Memphis' (Ranke I, 360.14), Amenhotep II to Amenhotep III (Ilin-Tomich 2025, personal_names_id 142613640). TA writes tꜣ, NU n(.t), MA-PA Mn-nfr with n and r unwritten, as Hebrew writes Memphis מֹף Mōp (Hos 9:6); the I is unexplained. One witness. Rival: a Minoan name.
+ZA 8 .3–4 TA-I-NU-MA-PA ∠, intact, after A-RI-NI-TA 'She-of-the-Lion' (GORILA III 165). PNM v6 has the woman's name tꜣ-n.t-mn-nfr 'she of Memphis' (Ranke I, 360.14; Ilin-Tomich 2025, personal_names_id 142613640), borne by three Memphite women from Amenhotep II to Sety I (Prosopographia Memphitica, persons 1509, 1828, 2490). TA writes tꜣ, NU n(.t), MA-PA Mn-nfr with n and r unwritten, as Hebrew writes Memphis מֹף Mōp (Hos 9:6); the I is unexplained. One witness. Rival: a Minoan name.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | tꜣ-n.t-mn-nfr 'she of Memphis', a woman's name (PNM v6, personal_names_id 142613640; Ranke I, 360.14) |
+| Hebrew | Mōp 'Memphis', miṣrayim təqabbəṣēm mōp təqabbərēm 'Egypt shall gather them, Memphis shall bury them' (Hos 9:6; HALOT 617) |
 
 ### Source
 
-Ilin-Tomich 2025 (PNM v6), s.v. tꜣ-n.t-mn-nfr
+di Mino; Ilin-Tomich 2025 (PNM v6); Prosopographia Memphitica
 
 ## Attestations
 

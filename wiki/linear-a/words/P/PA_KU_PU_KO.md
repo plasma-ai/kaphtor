@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | pak / pukku |
 | Meaning | flask, vial (small libation/oil vessel) |
 | Root | p-k(-k) |
+| Proto-Semitic | \*pak- (#294) |
 | Language layer | NWS |
 | Category | vessel |
 | Semantic field | vessel |
@@ -47,7 +48,6 @@ Two spellings of one vessel word; the '/' marks the alternation. PU-KO stands al
 | Language | Comparison |
 |---|---|
 | Hebrew | pak פַּךְ 'flask, vial' — pak ha-šemen, the anointing-oil flask (1 Sam 10:1; 2 Kgs 9:1-3) |
-| Proto-Semitic | \*pak- 'bottle, mug', with \*u &gt; \*a after a labial (semitic_roots #294) |
 | Ugaritic | bk rb 'a large vessel' (KTU 1.3 I 12), in the passage that pairs ks // krpn |
 
 ### Source

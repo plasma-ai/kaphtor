@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šannāri |
 | Meaning | Cat (personal name) |
 | Root | š-n-r |
+| Proto-Semitic | \*šVn(n)ār- ~ \*šurān- (#2190) |
 | Language layer | NWS |
 | Semantic field | personal_name |
 
@@ -47,10 +48,12 @@ ZA 11b: E-TO-RI-\[·\] \*516 / SA-\*301-RI GRA+PA 1 / I OLIV 1. With \*301 = na,
 |---|---|
 | Akkadian | šurānu 'cat'; Šu-ra-nu, a personal name (CAD Š/3 339) |
 | Arabic | sinnawr 'cat' (Lane 1445) |
+| Ugaritic | snr, syll. si-na-ri, si-na-ru, a personal name (Kinlaw 1967, 101), read 'cat' (GlOS 2, 201) |
+| Amorite | Šurān-at-um, a woman's name (Gelb 1980, no. 5952) |
 
 ### Source
 
-di Mino
+di Mino; Kinlaw 1967; GlOS 2; Gelb 1980
 
 ## Attestations
 

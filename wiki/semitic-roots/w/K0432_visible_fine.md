@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/K0432_visible_fine
 title: "*wVpVy-: 'visible', 'fine'"
-desc: "Proto-Semitic *wVpVy-, 'visible', 'fine': reflexes in 5 language(s)."
+desc: "Proto-Semitic *wVpVy-, 'visible', 'fine': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0432"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | yp 'proper' | Anderson–Moser 2024 root wpy |  |
 | Ugaritic | wpy (Tropper UG §74.36) | Tropper UG §74.36 | gloss withheld |
 | Syrian Aramaic | pʔy (Payne Smith 432); pʾy (HALOT 423) | Payne Smith 432; HALOT 423 | gloss withheld |
+| Eblaitic | wa-bí-um (A, B), wa-bù-um (C), a-bu₁₆-um (D) /wapiyum/, /wappuyum/ (= Sum. an-edin) (VE 807); a-ba-i /wapāyim/, in u₄ a-ba-i (ARET I, III, IV) (Fronzaroli 1995, 59, 64) | VE 807; ARET I, III, IV; Fronzaroli 1995, 59, 64 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

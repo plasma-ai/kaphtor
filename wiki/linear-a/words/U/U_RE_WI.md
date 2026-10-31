@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾūr-lēwī |
 | Meaning | light of the Levite (compound PN) |
 | Root | ʾ-w-r + l-w-y |
+| Proto-Semitic | \*ʾVr- (#1462) + \*lVwVy- (#398) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
 
 ### Note
 
-HT25a personnel roster alongside DU-RU-WI, qty 1. U = /ʾūr/ 'light/flame' (√ʾ-w-r) + RE-WI = /lēwī/. Parallel to Hebrew אוּרִיָּה ʾŪriyyāh 'flame of Yah.' Both -RE-WI and -RU-WI terminals on same tablet suggest ethnonymic element.
+HT25a personnel roster alongside DU-RU-WI, qty 1. U = /ʾūr/ 'light/flame' (√ʾ-w-r) + RE-WI = /lēwī/. Parallel to Hebrew אוּרִיָּה ʾŪriyyāh 'flame of Yah.' Both -RE-WI and -RU-WI terminals on same tablet suggest ethnonymic element. Rival: lāwī, the Ebla name la-wi 'one who encircles' (Pagan 1998, row 3460).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | ʾūr- 'light' in names: ù-rí-lum, ù-rí-ḫa-mu (GlOS 1, 54) |
+| Alalakh | ú-re-el-mu, ú-ri-ya (GlOS 1, 54) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1; Pagan 1998
 
 ## Attestations
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | śaymā |
 | Meaning | setting, arrangement; a set/group (of vessels)—deverbal noun from √ś-y-m 'to place, set' |
 | Root | ś-y-m |
+| Proto-Semitic | \*śVyVm- (#K0500) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | administrative |
 
 ### Note
 
-HT 31 .3, after \*416-VS-KA-RO-PA₃ 10: SA-JA-MA 30\[, two tens visible and the surface lost after them. MA is the last sign. The five vessel names on the tablet stand over their logograms; SA-JA-MA stands without one, as KI-DE-MA-\*323-NA does on .4. A noun /śaymā/ of √ś-y-m 'to set, place' (Heb. śîm, Amarna sīm); JA writes the y, so not the perfect śām. Gordon (1975, 153 n. 13) read sa-ya-ma-n\[a\] 'silver', after Aramaic סים: the tablet has no NA, and Jastrow (1903, 980) derives סִימָא 'silver' from Persian. Rival: a vessel name written without its logogram. Hapax.
+HT 31 .3, after \*416-VS-KA-RO-PA₃ 10: SA-JA-MA 30\[, two tens visible and the surface lost after them. MA is the last sign. The five vessel names on the tablet stand over their logograms; SA-JA-MA stands without one, as KI-DE-MA-\*323-NA does on .4. A noun /śaymā/ of √ś-y-m 'to set, place' (Heb. śîm, Amarna sīm); JA writes the y, so not the perfect śām. Gordon (1975, 153 n. 13) read sa-ya-ma-n\[a\] 'silver', after Aramaic סים: the tablet has no NA, and Jastrow (1903, 980) derives סִימָא 'silver' from Persian. Rival: a vessel name written without its logogram. Hapax. See SI-MI-TA.
 
 ### Cognates
 

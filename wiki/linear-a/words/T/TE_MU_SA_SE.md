@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | temussasē |
 | Meaning | she who melts; the melting one (goddess epithet) |
 | Root | m-s-s |
+| Proto-Semitic | \*mVsVw- (#K0164) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
@@ -42,9 +43,15 @@ updated: 2026-10-24T16:17:50Z
 
 tD-stem (intensive reflexive) feminine participle of √m-s-s 'to melt, dissolve' (Hebrew māsas, Akkadian masāsu). TA- = reflexive/feminine prefix, doubled -s-s- = geminate root in intensive stem, -ē = feminine participial ending. Cf. Hebrew hitpolel hitmōsēs. tD-stem prefix vowel /e/ (te-) is archaic—Akkadian/Arabic retain /a/ (ta-), Hebrew innovates to /i/ (hit-); the Theran form shows an intermediate stage. Single attestation: THE-9 (RILA-S1, Del Freo & Zurbach 2024); SigLA independently corroborates sign-by-sign (te-mu-sa-se, AB04-AB23-AB31-AB09) and supplies metadata: LM IA clay tablet, 4.6×3.8 cm — a pre-eruption Akrotiri document. RILA-S1 prints the word broken at the right, its last sign uncertain: TE-MU-SA-SẸ\[.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ymsś 'dissolve' (Gpass/N); tmsm, read as tD (GlOS 2, 53) |
+
 ### Source
 
-RILA-S1 (Del Freo & Zurbach, Études Crétoises XXI.6, 2024); di Mino
+RILA-S1 (Del Freo & Zurbach, Études Crétoises XXI.6, 2024); di Mino; GlOS 2
 
 ## Attestations
 

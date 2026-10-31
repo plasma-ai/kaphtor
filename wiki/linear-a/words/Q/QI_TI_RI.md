@@ -34,23 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qiṭrī |
 | Meaning | my incense (ritual term) |
 | Root | q-ṭ-r |
+| Proto-Semitic | \*ḳuṭr- (#2544) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Written \*34-TI-RI, with \*34 read QI. Hebrew qiṭṭēr 'to burn incense', qeṭōret 'incense'. TI for /ṭi/ via T/Ṭ neutralization. Register .1 of KNZc6, an ink-inscribed clay cup from a sanctuary deposit above the Basement of the Monolithic Pillars, Knossos; followed by A-DI DA-KI-TI 'until fine' (Lev 16:12 qəṭōret … daqqâ). 1cs possessive suffix -ī.
+Written \*34-TI-RI, with \*34 read QI. Hebrew qiṭṭēr 'to burn incense', qeṭōret 'incense'. TI for /ṭi/ via T/Ṭ neutralization. Register .1 of KNZc6, an ink-inscribed clay cup from a sanctuary deposit above the Basement of the Monolithic Pillars, Knossos; followed by A-DI DA-KI-TI 'until fine' (Lev 16:12 qəṭōret … daqqâ). 1cs possessive suffix -ī. See QA-\*118-RA-RE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | qiṭṭēr 'to burn incense', qəṭōret 'incense' |
+| Egyptian | group writing qu₄-da-ru₂-ta 'incense' (GlOS 1, 359, after Hoch, SWET 305, no. 440) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

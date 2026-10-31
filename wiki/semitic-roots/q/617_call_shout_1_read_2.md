@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/617_call_shout_1_read_2
 title: "*ḳVrVʾ-: 'call, shout' 1, 'read' 2"
-desc: "Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 13 language(s)."
+desc: "Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "617"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Phoenician | qrʾ 1 (Klein s.v. קרא ᴵ) | Klein s.v. קרא ᴵ | gloss withheld |
 | Arabic | qaraʾa; qurʾān |  | gloss withheld |
 | Akkadian | qerû (CAD Q 242) | CAD Q 242 | gloss withheld |
 | Ugaritic | qrʾ (DULAT 697); yqrʾ (KTU 1.114:1); mqrʾ | DULAT 697; KTU 1.114:1 | gloss withheld |

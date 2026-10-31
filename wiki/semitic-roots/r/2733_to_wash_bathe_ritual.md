@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2733_to_wash_bathe_ritual
 title: "*rVḥVṣ̂-: 'to wash, bathe (ritual)'"
-desc: "Proto-Semitic *rVḥVṣ̂-, 'to wash, bathe (ritual)': reflexes in 12 language(s)."
+desc: "Proto-Semitic *rVḥVṣ̂-, 'to wash, bathe (ritual)': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2733"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | rǝḥāṣ́ (Rubin 2018 205) | Rubin 2018 205 | gloss withheld |
 | Arabic | raḥaḍa 'to wash' (BK 1, 836) | BK 1, 836 |  |
 | Akkadian | raḫāṣu (CAD R 74) | CAD R 74 | gloss withheld |
 | Ugaritic | rḥṣ (DULAT 726) | DULAT 726 | gloss withheld |

@@ -34,27 +34,28 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kakku-ʿAnēt |
 | Meaning | Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element |
 | Root | k-k-k + ʿ-n-t |
+| Proto-Semitic | \*kakk- (#3844) + \*ʕanat- (#2771) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 10b KA-KU-NE-TE ½, in a must (\*131B) list of recipients, after the Egyptian PA-JA-RE Payare 1. KA-KU kakku 'weapon', also the god Kakka (Gelb 1980), as in Iddin-Kakka (Podany 2002, 11) and ᶠKakka-lidi (ARM 26/1, 597); -NE-TE ʿAnat (2771), as Šum-Anati and Abdi-Anati at Ugarit (Kinlaw 1967, 111, 7). Anat is the warrior: 'ʿAnat the divine, she the victorious, a woman acting as a warrior' (P. Chester Beatty VII vs. 1, 5–8; Gardiner 1935, I, 62); the king is mhr.j ꜥnṯj 'warrior of Anat' (ORAEC 113, 564, 922). Face a writes TA-NA-TE and A-TA-NA-TE: the lost ʿa- and the e of -NE-TE are unexplained. Rival: Egyptian Neith (n.t), as sꜣ-n.t, wsr-n.t (PNM v6).
+ZA 10b KA-KU-NE-TE ½, in a must (\*131B) list of recipients, after the Egyptian PA-JA-RE Payare 1. KA-KU kakku 'weapon', also the god Kakka (Gelb 1980), as in Iddin-Kakka (Podany 2002, 11) and ᶠKakka-lidi (ARM 26/1, 597); -NE-TE ʿAnat (2771), as Šum-Anati and Abdi-Anati at Ugarit (Kinlaw 1967, 111, 7). Anat is the warrior: 'ʿAnat the divine, she the victorious, a woman acting as a warrior' (P. Chester Beatty VII vs. 1, 5–8; Gardiner 1935, I, 62); the king is mhr.j ꜥnṯj 'warrior of Anat' (ORAEC 113, 564, 922). Face a writes TA-NA-TE and A-TA-NA-TE: the lost ʿa- and the e of -NE-TE are unexplained. Rival: Egyptian Neith (n.t), as sꜣ-n.t, wsr-n.t (PNM v6). See I-NA-TA-I.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | kakku 'weapon, arms' (CAD K 52); Kakka, DN |
-| Amorite | kakkum, fem. kakka 'weapon'; Kakka, DN (Gelb 1980) |
+| Amorite | kakkum, fem. kakka 'weapon'; Kakka, DN (Gelb 1980); names KAKK-U KA-AK-KU, KAKK-AH KA-AK-KÁ (nos. 3913, 3904); ʿAnat names, see DA-RU-NE-TE |
 | Akkadian (Ugarit) | Šum-Anati, Abdi-Anati (Kinlaw 1967, 111, 7) |
 | Ugaritic | ʿnt 'Anat' (DULAT 167) |
 | Egyptian | mhr.j ꜥnṯj 'warrior of Anat', of the king (ORAEC 113, 564, 922); n.t 'Neith' in sꜣ-n.t, wsr-n.t (PNM v6) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980
 
 ## Attestations
 

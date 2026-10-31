@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yašʿaya |
 | Meaning | personal name '(DN) has helped', hypocoristic |
 | Root | y-š-ʿ |
+| Proto-Semitic | \*yṯʿ (#3332) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KN Zg 55, a steatite disk seal (CMS II 2, no. 213): face a a boar's head and knife, face b JA-SA-JA, the whole text, SA underlined in Younger's text (Younger, Linear A Texts). Amorite JŠʿ 'to help', jišʿum 'help', and the hypocoristic name Jišʿ-ija (Gelb 1980, glossary; no. 3768): ʿ unwritten, -JA the hypocoristic ending. Rival: an abbreviation of JA-SA-SA-RA (Younger). One attestation.
+KN Zg 55, a steatite disk seal (CMS II 2, no. 213): face a a boar's head and knife, face b JA-SA-JA, the whole text, SA underlined in Younger's text (Younger, Linear A Texts). Amorite JŠʿ 'to help', jišʿum 'help', and the hypocoristic name Jišʿ-ija (Gelb 1980, glossary; no. 3768): ʿ unwritten, -JA the hypocoristic ending. Rival: an abbreviation of JA-SA-SA-RA (Younger). One attestation. See JA-SI and JA-SI-E.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | ia-še-ia (GlOS 2, 379); JIŠʿ-IJA (see note) |
+| Amarna | ya-šu-ia (EA 256:18; Hess 1993, 166) |
 
 ### Source
 
-Gelb 1980, glossary s.v. JŠʿ and no. 3768; Younger, Linear A Texts; di Mino
+Gelb 1980, glossary s.v. JŠʿ and no. 3768; GlOS 2; Hess 1993; Younger, Linear A Texts; di Mino
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_TA_QE
 title: "PA-TA-QE"
-desc: "pitqē: a kind of *402 cup, Aramaic pitqa 'winecup' compared. Lexicon, CANDIDATE (tier 2)."
+desc: "pitqē: a kind of *402 cup. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "vessel"]
 kind: "word"
 form: "PA-TA-QE"
@@ -32,15 +32,22 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | pitqē |
-| Meaning | a kind of \*402 cup, Aramaic pitqa 'winecup' compared |
+| Meaning | a kind of \*402 cup |
 | Root | p-t-q |
+| Proto-Semitic | \*pitḳ- (#3852) |
 | Language layer | NWS |
 | Category | vessel |
 | Semantic field | vessel |
 
 ### Note
 
-HT 31 vessel inventory, written on the \*402-VS cup logogram, qty 3000—the largest allocation on the tablet. Two competing Semitic etymologies: (1) Astour proposed Akkadian patāqu 'to cast metal,' reading PA-TA-QE as 'metal vessel' (JAOS 87, 1967, 292 n. 13). (2) Stieglitz preferred Aramaic pitqa 'winecup' (Lewy, Chaldäisches Wörterbuch) and Akkadian naptaqu 'smelting-jar' (AHw). Root skeleton p-t-q is an exact match. The -QE ending may correspond to Semitic -ey (archaic Hebrew plural -êy or Ugaritic dual construct -ê), per Stieglitz's morphological analysis of HT 31 case endings. Part of Gordon's HT 31 vessel inventory (§163), confirmed by both Astour and Stieglitz as Semitic.
+HT 31 vessel inventory, written on the \*402-VS cup logogram, qty 3000—the largest allocation on the tablet. Two competing Semitic etymologies: (1) Astour proposed Akkadian patāqu 'to cast metal,' reading PA-TA-QE as 'metal vessel' (JAOS 87, 1967, 292 n. 13). (2) Stieglitz preferred Aramaic pitqa 'winecup' (Lewy, Chaldäisches Wörterbuch) and Akkadian naptaqu 'smelting-jar' (AHw). Jastrow 1173 gives pitqā as 'tablet, ballot, decree'; the cup is a large goblet named Pithka, 'Decree', in Targ. II Esth. 1:8. Root skeleton p-t-q is an exact match. The -QE ending may correspond to Semitic -ey (archaic Hebrew plural -êy or Ugaritic dual construct -ê), per Stieglitz's morphological analysis of HT 31 case endings. Part of Gordon's HT 31 vessel inventory (§163), confirmed by both Astour and Stieglitz as Semitic.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | patāqu B 'to drink', pa-ta-qu (Malku VIII 8), liptiqu (En. el. III 9) (CAD P 275) |
 
 ### Source
 

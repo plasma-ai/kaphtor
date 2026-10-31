@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḍirs- 'tooth, especially molar tooth' \[BK 2 21\] | BK 2 21 |  |
 | Soqotri | máẑrǝh \[JJ 327\]. | JJ 327 |  |
-| Eblaitic | za-ra-sa-tum /ḍaraštum/ \[Conti 110; Bl E No. 33\]; /ḍaršātum/ (VE 227; Krebernik 1983, 10) | VE 227; Krebernik 1983, 10 | gloss withheld |
+| Eblaitic | za-ra-sa-tum /ḍaraštum/ \[Conti 110; Bl E No. 33\]; /ḍaršātum/, za-la-šum /ḍaršum/ (VE 227; Krebernik 1983, 10) | VE 227; Krebernik 1983, 10 | gloss withheld |
 | Geez | ḍǝrs \[LGz 153\] | LGz 153 |  |
 | Modern Aramaic | MAL ʕerša \[Berg 6\] MLH ʕarše (pl.) \[J Mlah 167\] | Berg 6; J Mlah 167 | gloss withheld |
 | Jibbali | mǝẕ̂rɛ́š \[JJ 327\] | JJ 327 |  |

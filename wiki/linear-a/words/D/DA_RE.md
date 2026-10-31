@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dār |
 | Meaning | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
 | Root | d-w-r |
+| Proto-Semitic | \*dār- (#657) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-Seven documents at Haghia Triada, Khania and Palaikastro: a head count on three rosters of men (HT 7a, 85a, 122b), beside named men and work groups, and a grain or goods share on four lists (HT 10a, 10b, KH 104, PK 3), the largest on HT 10a (16½) and PK 3 (72). \*dār- 'dwelling, house' (no. 657). Rival \*dawr- 'clan, group of relatives' (no. 40).
+Seven documents at Haghia Triada, Khania and Palaikastro: a head count on three rosters of men (HT 7a, 85a, 122b), beside named men and work groups, and a grain or goods share on four lists (HT 10a, 10b, KH 104, PK 3), the largest on HT 10a (16½) and PK 3 (72). \*dār- 'dwelling, house' (no. 657). Rival \*dawr- 'clan, group of relatives' (no. 40). See DI-RI-NA.
 
 ### Cognates
 

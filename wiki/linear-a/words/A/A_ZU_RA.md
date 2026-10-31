@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAṯrat |
 | Meaning | Athirat (divine name: the Goddess) |
 | Root | ʾ-ṯ-r |
+| Proto-Semitic | \*ʾaṯir-at- (#2718) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |
 
 ### Note
 
-ZU is the only /ṯ/-carrier in the syllabary and covers the whole ṯ-series, as Old Babylonian PI writes wa, we, wi and wu (Huehnergard 2011, 69), so A-ZU-RA writes ʾAṯrat or ʾAṯirat. Final RA writes the live /a/ of the feminine ending, which rules out ʾaṯirt- (Amarna a-ši-ir-te, Aramaic ʾăšērtā). ʾAṯrat, with the middle vowel syncopated, matches ᵈaš-ra-tu at Ugarit (RS 20.24: 20), ᵈaš-ra-tum in Old Babylonian, and 18 of the 95 Amarna spellings of ʿAbdi-Aširta, his own EA 60 among them; ʾAṯirat matches Ugaritic ʾaṯrt /ʾaṯiratu/ and Amorite a-še-ra-tum (George and Krebernik 2022; Hess 2025, 1–2; Huehnergard 2012, 142; semitic_roots 2718). Final -t is unwritten, and the ṯ is kept against the š of Akkadian and Hebrew.
+ZU is the only /ṯ/-carrier in the syllabary and covers the whole ṯ-series, as Old Babylonian PI writes wa, we, wi and wu (Huehnergard 2011, 69), so A-ZU-RA writes ʾAṯrat or ʾAṯirat. Final RA writes the live /a/ of the feminine ending, which rules out ʾaṯirt- (Amarna a-ši-ir-te, Aramaic ʾăšērtā). ʾAṯrat, with the middle vowel syncopated, matches ᵈaš-ra-tu at Ugarit (RS 20.24: 20), ᵈaš-ra-tum in Old Babylonian, and 18 of the 95 Amarna spellings of ʿAbdi-Aširta, his own EA 60 among them; ʾAṯirat matches Ugaritic ʾaṯrt /ʾaṯiratu/ and Amorite a-še-ra-tum (George and Krebernik 2022; Hess 2025, 1–2; Huehnergard 2012, 142). Final -t is unwritten, and the ṯ is kept against the š of Akkadian and Hebrew.
 
 ### Cognates
 

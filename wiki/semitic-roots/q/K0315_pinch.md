@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0315_pinch
 title: "*qaraṣ-: 'pinch'"
-desc: "Proto-Semitic *qaraṣ-, 'pinch': reflexes in 17 language(s)."
+desc: "Proto-Semitic *qaraṣ-, 'pinch': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0315"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ḳǝrūṣ (Rubin 2018 217) | Rubin 2018 217 | gloss withheld |
 | Akkadian | karāṣu 'break' | Anderson–Moser 2024 root qrṣ |  |
 | Arabic | qaraṣa 'pinched' (Lane 2514) | Lane 2514; Anderson–Moser 2024 root qrṣ |  |
 | Geez | qaraṣa 'incise' | Anderson–Moser 2024 root qrṣ |  |

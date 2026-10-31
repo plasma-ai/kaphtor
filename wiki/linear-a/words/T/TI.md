@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tiʾin |
 | Meaning | figs (logographic abbreviation of TI-NI) |
 | Root | t-ʔ-n |
+| Proto-Semitic | \*tiʾin- (#2324) |
 | Language layer | NWS |
 | Category | logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone with quantities. Abbreviation of lexicon entry TI-NI. 12 standalone across 6 sites. 58% followed by numerals. Quantities: ¼–100. Pan-Semitic \*tiʔin- in Deut 8:8 Seven Species. \|\| Against it: a standalone fig logogram collides with NI = figs (CONFIRMED); complementary distribution would let both notations stand, co-occurrence in the same lists would rule one out. HT119 TI 7 stands inside a personnel total (KU-RO 160 with VIR 68) and is not figs there.
+Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone with quantities. Abbreviation of lexicon entry TI-NI. 12 standalone across 6 sites. 58% followed by numerals. Quantities: ¼–100. Pan-Semitic \*tiʔin- in Deut 8:8 Seven Species. \|\| Against it: a standalone fig logogram collides with NI = figs (CONFIRMED); complementary distribution would let both notations stand, co-occurrence in the same lists would rule one out. HT119 TI 7 stands inside a personnel total (KU-RO 160 with VIR 68) and is not figs there. See TE-\*301.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*tiʔin- "fig tree, figs" (SED I #260) |
 | Hebrew | tᵉʔēnā (תְּאֵנָה) "fig tree" |
 | Ugaritic | tʾn |
 | Akkadian | tittu / tiʔittu / tīnātu |

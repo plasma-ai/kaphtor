@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šipru |
 | Meaning | transaction/account marker; possible account or register logogram |
 | Root | s-p-r |
+| Proto-Semitic | \*sapVr- (#2701) |
 | Language layer | Semitic comparison |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-Administrative logogram, identified by SigLA as a transaction sign on HT118. Ten occurrences across Haghia Triada, Khania, and Zakros; nine stand alone, several head quantified entries, and two occur on sealed Khania roundels. SI-\*516 may be an /s/-onset phonetic complement, permitting comparison with Akkadian šipru 'work, message, record', Hebrew sēfer/sōfēr, and Ugaritic spr. The value remains CANDIDATE because no full phonetic spelling is attested.
+Administrative logogram, identified by SigLA as a transaction sign on HT118. Ten occurrences across Haghia Triada, Khania, and Zakros; nine stand alone, several head quantified entries, and two occur on sealed Khania roundels. SI-\*516 may be an /s/-onset phonetic complement, permitting comparison with Ugaritic spr 'tablet, register' and Hebrew sēper/sōpēr. The value remains CANDIDATE because no full phonetic spelling is attested.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | spr (II) 'tablet, register, list, inventory; in accounting, record of tribute' (DULAT 756); spr (III) 'number, inventory' (DULAT 757) |
+| Hebrew | sēper 'inscription, letter, scroll' (HALOT 766) |
+| Phoenician | spr 'inscription; document' (Krahmalkov 347) |
 
 ### Source
 

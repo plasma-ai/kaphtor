@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kilʾu |
 | Meaning | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | Root | k-l-ʾ |
+| Proto-Semitic | \*kVlVʔ- (#2998) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |

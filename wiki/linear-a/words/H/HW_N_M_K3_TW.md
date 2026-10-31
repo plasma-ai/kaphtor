@@ -33,12 +33,24 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | strangling-demon (feminine personification of disease) |
 | Root | √ḥ-n-q |
+| Proto-Semitic | \*ḫVnVq- (#K0776) |
 | Language layer | NWS |
 | Semantic field | ritual |
 
 ### Note
 
 Egyptian group-writing \[element 7, Det: A2 'to speak/think'\]. Keftiu Spell #33, LMP BM 10059 \|\| ETYMOLOGY: \*ḥanqatu 'she who strangles'—disease demon name. √ḥ-n-q: Akk. ḫanāqu (CAD Ḫ 75), Heb. ḥānaq (Nahum 2:13), Syr. ḥnaq, Ar. ḫanaqa. Egyptian h for ḥ standard. The m' in the middle is problematic (vowel marker or scribal convention) \|\| STEINER'S READING: ḥanqatu. Samānu disease involves swelling/constriction—'strangler-demon' etiology is medically coherent
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ḫnqt 'strangler', du. ḫnqtm (GlOS 1, 275) |
+| Eblaite | Ì.SIG.SIG = ḫu-nu-ga-tum 'constriction' (GlOS 1, 275) |
+
+### Source
+
+di Mino; Steiner 1992; GlOS 1
 
 ## Attestations
 

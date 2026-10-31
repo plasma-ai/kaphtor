@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2998_to_hinder_restrain
 title: "*kVlVʔ-: 'to hinder, restrain'"
-desc: "Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 10 language(s)."
+desc: "Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2998"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Syrian Aramaic | kᵉlā (Klein s.v. כלא ᴵ) | Klein s.v. כלא ᴵ | gloss withheld |
 | Hebrew | kālāʔ (HALOT 475); keleʾ; bêt keleʾ (HALOT 475) | HALOT 475 | gloss withheld |
 | Ugaritic | klʾ (HALOT 475) | HALOT 475 |  |
 | Akkadian | kalū (HALOT 475); kīlu (killu) (CAD K 359); bīt kīli (CAD K 360); rab bīt kīli (CAD K 361) | HALOT 475; CAD K 359; CAD K 360; CAD K 361 | gloss withheld |

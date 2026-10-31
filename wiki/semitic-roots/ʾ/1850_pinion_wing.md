@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʔēbārā, ʔēbǝrā 'arm, wing, pinion' \[Ja 44\] | Ja 44 |  |
 | Syrian Aramaic | ʔebrā 'feather' \[Brock 3\] | Brock 3 |  |
 | Aramaic | PLM ʔbr \[HJ 7\] | HJ 7 | gloss withheld |
-| Eblaitic | a-bar-tum (= Sum. ti₈ᵐᵘˢᵉⁿ) (VE 545; Civil 2017, 127) | VE 545; Civil 2017, 127 | gloss withheld |
+| Eblaitic | a-bar-tum (= Sum. ti₈ᵐᵘˢᵉⁿ) (VE 545; Civil 2017, 127); a-bar-tum /ʾabartum/ (VE 545; Hajouz 2013, 33) | VE 545; Civil 2017, 127; Hajouz 2013, 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

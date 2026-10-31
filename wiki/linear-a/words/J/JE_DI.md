@@ -34,20 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yedī |
 | Meaning | gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean' |
 | Root | y-d |
+| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | NWS |
 | Category | ethnonym |
 | Semantic field | toponym |
 
 ### Note
 
-HT 8a: JE-DI OLE+KI 10, heading the list; HT 36: JE-DI GRA+QE 44½; HT 122b: JE-DI · \*346 · VIR+\[?\], heading a roster of men; HT 140: JE-DI · OLE+KI 1½ in mid-line, damaged JE, with a sign possibly lost before it. A recipient on three tablets. Read as yedī 'the Idaean,' gentilic of Mount Ida; if Ida relates to Semitic \*yad 'hand,' the Idaean Daktyls are 'fingers of the hand' (di Mino, Ya Diktu). Rivals: yēdīʿ 'he knows' as a personal name, with ʿ unwritten (Hebrew Yĕdîʿăʾēl, 1 Chr 11:45; Amorite JDʿ in names, Gelb 1980); yehūdī 'Judean', which leaves the ū of -hū- unwritten (U writes /hu/ in U-NA, so the expected spelling is JE-U-DI) and needs Judah, first attested under Tiglath-pileser III (c. 734 BCE), some 700 years after LM IB.
+HT 8a: JE-DI OLE+KI 10, heading the list; HT 36: JE-DI GRA+QE 44½; HT 122b: JE-DI · \*346 · VIR+\[?\], heading a roster of men; HT 140: JE-DI · OLE+KI 1½ in mid-line, damaged JE, with a sign possibly lost before it. A recipient on three tablets. Read as yedī 'the Idaean,' gentilic of Mount Ida; if Ida relates to Semitic \*yad 'hand,' the Idaean Daktyls are 'fingers of the hand' (di Mino, Ya Diktu). Rivals: yēdīʿ 'he knows' as a personal name, with ʿ unwritten (Hebrew Yĕdîʿăʾēl, 1 Chr 11:45; Amorite JDʿ in names, Gelb 1980); yehūdī 'Judean', which leaves the ū of -hū- unwritten (U writes /hu/ in U-NA, so the expected spelling is JE-U-DI) and needs Judah, first attested under Tiglath-pileser III (c. 734 BCE), some 700 years after LM IB. See I-DA and JA-DI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | yād 'hand', if Ida relates to \*yad; for the rivals, Yĕdîʿăʾēl (יְדִיעֲאֵל), a y-d-ʿ name (1 Chr 11:45; 26:2), and yehūdī (יְהוּדִי) 'Judean' |
-| Amorite | for the rival, JDʿ 'to know' as a name element (Gelb 1980, glossary); JADAʿ+JAT-UM (Gelb 1980, no. 3168) |
+| Amorite | for the rival, JDʿ 'to know' as a name element (Gelb 1980, glossary); JADAʿ+JAT-UM (Gelb 1980, no. 3168); bare JID-I, written I-DI (no. 2432) |
 | Akkadian | for the rival, ia-ú-du 'Judah' (Sennacherib, 701 BCE) |
 
 ### Source

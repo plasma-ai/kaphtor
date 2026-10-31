@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAddē |
 | Meaning | Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' |
 | Root | ʾ-d |
+| Proto-Semitic | \*ʾad- (#2567) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ ZA 10b .4 A-DE 4, whole, between SA-MA 5 and A-MI-TA ʾamita 'handmaid' 3, in a 
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾad- 'father, lord' (semitic_roots no. 2567) |
 | Ugaritic | ʾad 'father', par. um 'mother' (DULAT 16); PN ʾady, syll. a-da-a-a, ad-di-ya (DULAT 23) |
 | Amorite | /ʔad/ 'lord, father' (Huffmon APNMT 156, apud DULAT 16) |
 

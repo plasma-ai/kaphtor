@@ -39,11 +39,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Hapax opening HT103 before the divider and NI 40. Its position favors an entity, institution, recipient, or place name associated with the fig entry. Uta is attested as a much later Akkadian personal name; Uda is a Middle Babylonian geographical name attested at Ugarit. Either is compatible with Aegean stop neutralization, but neither identifies the Linear A form or supplies its etymology. NI 40 is an item, not a marked total.
+Hapax opening HT103 before the divider and NI 40. Its position favors an entity, institution, recipient, or place name associated with the fig entry. Uta is attested as a much later Akkadian personal name; Uda is an Anatolian town near Firaktin, named at Ugarit (dIŠKUR ᵘʳᵘU-da, RS 17.338+; RGTC 12/2, 304), Hittite Uta. NI 40 is an item, not a marked total.
 
 ### Source
 
-di Mino; GORILA I 170–171; ORACC Uda comparison
+di Mino; GORILA I 170–171; ORACC; RGTC 12/2
 
 ## Attestations
 

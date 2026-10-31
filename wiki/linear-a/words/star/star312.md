@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kitnu |
 | Meaning | flax/linen—dual-use crop: fiber for textiles (TELA+\*312), linseed for food/oil (standalone with small quantities) |
 | Root | k-t-n |
+| Proto-Semitic | \*kitn- (#2678) |
 | Language layer | NWS |
 | Category | commodity ideogram |
 | Semantic field | commodity |

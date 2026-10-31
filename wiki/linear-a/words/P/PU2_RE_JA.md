@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | burēyā |
 | Meaning | my Creator (divine epithet) |
 | Root | b-r-ʾ |
+| Proto-Semitic | \*bVraʾ- (#1173) |
 | Language layer | NWS |
 | Semantic field | divine |
 
 ### Note
 
-ZAZb34 (Zakros clay vessel) PU₂-RE-JA · KO-MU · RU-DI. Hebrew בָּרָא bārāʾ "to create" (Gen 1:1); Arabic baraʾa. PU₂=/bu/ as in DU-PU₂-RE=dubur. Final ʾ drops (guttural rule). -JA = -yā 1cs suffix "my." PK Za 16 \]TO-SA · PỤ₂-RE-JẠ\[, no divider between PU₂ and RE, broken after JA (GORILA IV 42), is a damaged second witness, so the tier is SPECULATIVE; the base PU₂-RE stands alone on PKZa28. Rival: PU₂-RE + -JA on that Palaikastro base; √p-r-y "fruit" (\*puriyya).
+ZAZb34 (Zakros clay vessel) PU₂-RE-JA · KO-MU · RU-DI. Hebrew בָּרָא bārāʾ "to create" (Gen 1:1); Arabic baraʾa. PU₂=/bu/ as in DU-PU₂-RE=dubur. Final ʾ drops (guttural rule). -JA = -yā 1cs suffix "my." PK Za 16 \]TO-SA · PỤ₂-RE-JẠ\[, no divider between PU₂ and RE, broken after JA (GORILA IV 42), is a damaged second witness, so the tier is SPECULATIVE; the base PU₂-RE stands alone on PKZa28. Rival: PU₂-RE + -JA on that Palaikastro base; √p-r-y "fruit" (\*puriyya). See A-PA-RA-NE.
 
 ### Cognates
 
@@ -57,7 +58,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | Zakros | Clay vessel | complete |
+| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | Zakros | Clay vessel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa16\|PKZa16]] | Palaikastro | Stone vessel | none; form not in transliteration |
 
 ## In translations

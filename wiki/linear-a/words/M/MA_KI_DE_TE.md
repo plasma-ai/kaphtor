@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Majdat |
 | Meaning | personal name, 'glory' (feminine) |
 | Root | m-g-d |
+| Proto-Semitic | \*magd- (#3225) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 ZA 10b .3 MA-KI-DE-TE 5, intact, between MA-ZA 5 and SA-MA 5 in a name list (GORILA III 171). Safaitic MJDT beside MJD (Harding 1971, 528); Hebrew meged 'excellence' and Magdîʾēl (Gen 36:43). With ME-KI-DI (ZA 14) the feminine and masculine of one name at one site, as Harding's MJDT and MJD. Rival: Arabian MQʿDT 'posterior, seat' (Harding 1971, 560), with ʿ unwritten. One document.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Safaitic | MJDT, a personal name, 6 Safaitic (Harding 1971, 528) |
+| Arabic | majd 'glory, honour, nobility' (Lane 2689) |
 
 ### Source
 

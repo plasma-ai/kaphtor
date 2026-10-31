@@ -34,25 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rōqaḥ |
 | Meaning | compounded perfume, ointment (vessel label) |
 | Root | r-q-ḥ |
+| Proto-Semitic | \*rVḳVḥ- (#S15) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | commodity |
 
 ### Note
 
-SY Za 11, the sole word on a stone vessel from the Syme sanctuary: · RO-QA. Heb. rōqaḥ 'compounded perfume' (Exod 30:25, 35), final ḥ unwritten; a label for the vessel's contents. Rival: rōqēaḥ 'perfumer' (Ug. rqḥ, DULAT 734), the maker or owner. One attestation.
+SY Za 11, the sole word on a stone vessel from the Syme sanctuary: · RO-QA. Heb. rōqaḥ 'compounded perfume' (Exod 30:25, 35), final ḥ unwritten; a label for the vessel's contents. Rival: rōqēaḥ 'perfumer' (Ug. rqḥ, DULAT 734), the maker or owner. One attestation. See \*401, OLE+RI, VIN+RA and RO-KE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | rōqaḥ 'compounded perfume' (Exod 30:25, 35); rōqēaḥ 'perfumer' (Exod 30:25; 37:29) |
-| Ugaritic | rqḥ 'perfumer, druggist' (DULAT 734) |
+| Ugaritic | rqḥ 'perfumer, druggist' (DULAT 734); rqḥ 'perfume, ointment' (GlOS 2, 165) |
+| Eblaite | GIŠ.NAGA = rí-ga-tum 'spiced, oily ointment'; Ì.RÁ.RA = ra-gi-um 'oil-perfumer' (GlOS 2, 165) |
 | Akkadian | raqqû in bīt raqqî 'perfume makers' bureau' (CAD R 174) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

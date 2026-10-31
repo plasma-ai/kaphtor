@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3585_to_serve_servant
 title: "*ḫdm: 'to serve; servant'"
-desc: "Proto-Semitic *ḫdm, 'to serve; servant': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫdm, 'to serve; servant': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3585"
@@ -29,6 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | xōdǝm, pl. xǝddōmǝt (Rubin 2018 95, 96) | Rubin 2018 95, 96 | gloss withheld |
 | Arabic | ḫadama 'he served him'; ḫidmat 'service' (Lane 711); ḫādim 'a servant' (Lane 712) | Lane 711; Lane 712 |  |
 | Epigraphic South Arabian | Sab ḫdmt (SD 59); ḫdmt (Biella 197) | SD 59; Biella 197 | gloss withheld |
 

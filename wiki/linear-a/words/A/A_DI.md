@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿadi |
 | Meaning | until, as far as (preposition) |
 | Root | ʿ-d |
+| Proto-Semitic | \*ʿadi/\*qadu(m) (#S72) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | particle |
@@ -48,10 +49,11 @@ Opens register .2 of KNZc6 after QI-TI-RI and governs DA-KI-TI: ʿadi daqqati '(
 |---|---|
 | Ugaritic | ʿd /ʿad(ē)/ 'up to, as far as, until' (Huehnergard 2012) |
 | Hebrew | ʿad (עַד) 'until'; ʿad ʾăšer dāq 'until it was fine' (Exod 32:20, Deut 9:21) |
+| Phoenician | ʿd 'as far as, up to', Phoenician and Punic (Krahmalkov 2000, 360) |
 
 ### Source
 
-di Mino
+di Mino; Krahmalkov 2000
 
 ## Attestations
 

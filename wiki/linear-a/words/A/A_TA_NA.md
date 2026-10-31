@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAtanat |
 | Meaning | ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with regular I-y &gt; ʾ weakening; the etymon of Athena (di Mino, Ya Diktu p. 20) |
 | Root | y-t-n |
+| Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |
@@ -48,14 +49,14 @@ Root √ʾ-t-n (lexicalized divine name from √y-t-n after y &gt; ʾ weakening)
 |---|---|
 | Linear B | a-ta-na-po-ti-ni-ja (KN V 52)—divine offering list alongside e-nu-wa-ri-jo, pa-ja-wo-ne, po-se-da-o-ne |
 | Greek | Ἀθάνα (Doric), Ἀθήνη (Ionic/Attic)—universally pre-Greek, no established etymology (Beekes 2010) |
-| Hurrian | Atana—PN attested at Nuzi, but lacks Hurrian morphology; likely substrate borrowing, not Hurrian origin |
+| Hurrian | a-da-na, Atana, a personal name at Kaneš (Monti 2017, 451), the rival |
 | Ugaritic | ytn 'to give' (√y-t-n; cf. ntn, Tropper) |
 | Phoenician | ytn 'give, present' (Krahmalkov 2000); cf. BʿLYTN Baʿal-yatōn 'Baʿal has given' |
 | Hebrew | nātan (נָתַן) 'to give' |
 
 ### Source
 
-di Mino
+di Mino; Monti 2017
 
 ## Attestations
 

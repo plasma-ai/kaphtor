@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḥayya-ʾAddu |
 | Meaning | personal name, 'Addu lives' |
 | Root | ḥ-y-y + ʾ-d-d |
+| Proto-Semitic | \*ḥayy- (#2760) + \*hadad- (#3186) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -47,7 +48,7 @@ HT 84: \*21F-JA-DU heads the tablet over NU-TI · VIR+\[?\]. ḥayya + Addu, 'Ad
 | Language | Comparison |
 |---|---|
 | Amorite | ḪAJJ-A + DN names (Gelb AS 21 nos. 1651–1653); names in -Addu written -A-DU: LI-MA-A-DU (no. 4368), NI-MA-A-DU (no. 5057) |
-| Hebrew | ḥay 'living' (HALOT 307) |
+| Hebrew | ḥay 'living' (HALOT 308) |
 
 ### Source
 

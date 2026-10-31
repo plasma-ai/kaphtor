@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3299_to_be_early_be_first_first_fruits_early_crop
 title: "*bkr: 'to be early, be first; first fruits, early crop'"
-desc: "Proto-Semitic *bkr, 'to be early, be first; first fruits, early crop': reflexes in 7 language(s)."
+desc: "Proto-Semitic *bkr, 'to be early, be first; first fruits, early crop': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3299"
@@ -36,11 +36,12 @@ updated: 2026-10-25T05:11:48Z
 | Arabic | bkr (Lane 239 apud SEDonline 1832) | Lane 239; SEDonline 1832 | gloss withheld |
 | Epigraphic South Arabian | Sab. bkr (SD 28 apud SEDonline 1832) | SD 28; SEDonline 1832 | gloss withheld |
 | Amorite | bakūr: ba-ku-ra-tum (Sanmartín GlOS 1, 115) | Sanmartín GlOS 1, 115 | gloss withheld |
+| Eblaitic | ba-ga-lu(-um) (VE 243; Krebernik 1983, 13) | VE 243; Krebernik 1983, 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-PS \*bkr 'to be early' (EDA I 156, ◊P0255; SEDonline 1832). Arb. bakar-, bukrat- 'early morning', bākūrat- 'the first of fruit' (Lane 239). Cf. 3148 \*bVkVr- 'firstborn'.
+PS \*bkr 'to be early' (EDA I 156, ◊P0255; SEDonline 1832). Arb. bakar-, bukrat- 'early morning', bākūrat- 'the first of fruit' (Lane 239). Cf. 3148 \*bVkVr- 'firstborn'. Hajouz 2013, 163 reads VE 243 ba-ga-lu-um as /bakkāru(m)/ 'early', where Krebernik 1983, 13 has 'first-fruit offering'.
 
 <!-- END kaphtor:record -->

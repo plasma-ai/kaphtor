@@ -33,12 +33,21 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | and the bahaq-rash (wa- + pan-Semitic skin-disease noun—rubric disease name) |
 | Root | √b-h-q |
+| Proto-Semitic | \*wV-- (#K0425) + \*bahaḳ- (#135) |
 | Language layer | NWS |
 | Semantic field | ritual |
 
 ### Note
 
-Egyptian group-writing: wbqy \[rubric element 4, Akulov 2023, 3\], disease determinative; Kyriakidis reads final sign as l (w-b-ql), Steiner w-b-qi(?). Read as wa- 'and' + \*b(u)haq-ī: SED #135 \*bahaḳ- '(kind of) skin disease'—Heb bōhaq 'tetter' (Lev 13:39), JAram bōhăqā, Syr behqītā 'scabies', Mandaic baqiata 'decay, gangrene' (h-less, precedent for unwritten h here), Arab bahaq (still clinical for vitiligo), Mehri/Harsusi/Jibbali white-patch terms, Tigre bähaq 'blisters'. Names a skin disease beside samāwnā (Akk sāmānu 'the red one') in a skin-disease papyrus. Rivals: Arabic-only √w-b-q 'perish' (Q 18:52, 42:34—'the Perdition'); Akulov's Eg. wbnw 'wound' (n→q unexplained). Kyriakidis 2002, 215: 'the combination wbq may suggest a Semitic language'. Steiner left unread. Weak points: unwritten medial h; the final sign is disputed.
+Egyptian group-writing: wbqy \[rubric element 4, Akulov 2023, 3\], disease determinative; Kyriakidis reads final sign as l (w-b-ql), Steiner w-b-qi(?). Read as wa- 'and' + \*b(u)haq-ī: SED #135 \*bahaḳ- '(kind of) skin disease'—Heb bōhaq 'tetter' (Lev 13:39), JAram bōhăqā, Syr behqītā 'scabies', Mandaic baqiata 'decay, gangrene' (h-less, precedent for unwritten h here), Arab bahaq (still clinical for vitiligo), Mehri/Harsusi/Jibbali white-patch terms, Tigre bähaq 'blisters'. Names a skin disease beside samāwnā (Akk sāmānu 'the red one') in a skin-disease papyrus. Rivals: Arabic-only √w-b-q 'perish' (Q 18:52, 42:34—'the Perdition'); Akulov's Eg. wbnw 'wound' (n→q unexplained). Kyriakidis 2002, 215: 'the combination wbq may suggest a Semitic language'. Steiner left unread. Weak points: unwritten medial h; the final sign is disputed. See U.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | bōhaq 'white spot on skin', bōhaq hûʾ pāraḥ bāʿôr 'it is a bōhaq that has broken out on the skin' (Lev 13:39; HALOT 112) |
+| Aramaic | Jewish Aramaic bwhqʾ, bhqytʾ (HALOT 112) |
+| Arabic | bahaq (HALOT 112) |
 
 ## Attestations
 

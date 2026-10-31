@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JE_TA_NA
 title: "JE-TA-NA"
-desc: "Yatana: He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same formation as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yattan-Dagan. Lexicon, PROBABLE (tier 3)."
+desc: "Yatana: He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "verb"]
 kind: "word"
 form: "JE-TA-NA"
@@ -32,8 +32,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yatana |
-| Meaning | He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same formation as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yattan-Dagan |
+| Meaning | He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555) |
 | Root | y-t-n |
+| Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | verb |
 | Semantic field | verbal |
@@ -41,6 +42,14 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Skeleton ytn. It stands in a name or title slot, not a verb's: it may be a theophoric PN element. Huehnergard: G /yatana/ 3ms, prefix /yittinu/ (n-assimilation); BH nātan. \|\| Not 'she gave': NWS 3fs prefix-forms take t-, never y- (she gave = ta-ttin/tētin; qatal 3fs yātinat), and a single sign JE cannot encode a /ye/-feminine vs /ya/-masculine switch. JE-TA-NA occurs once, HTWa1020; HT88 has none. Gloss describes the name's formation, not the bearer's gender. \|\| JE conventionally gives /ye/, but the Semitic reconstruction demands /ya/—the JE sign likely covers /ya/ here, the way Linear B je covers both values. In Ugaritic the root is ytn (not n-t-n as in Hebrew), so the 3ms perfect is yatana. Masculine counterpart of A-TA-NA (ʾAtanā &gt; Athena), which is the feminine form of the same root with regular I-y &gt; ʾ weakening. The root has 5 entries in the lexicon.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ytn (II) PN, syllabic ia-ta-nu, PRU 3 94 (RS 16.245):4 (DULAT 977); /y-t-n/ 'to give, grant' (DULAT 974); Yatanu, Milki-Yatanu in the Akkadian texts of Ugarit (Kinlaw 1967, 135, 81) |
+| Phoenician | ytn PN 'gave', Ia-a-tu-na; YTNʾL Ia-ta-na-e-li 'God gave' (Krahmalkov 220) |
+| Amorite | NTN 'give': jantin, natūnum (Gelb AS 21, 27) |
 
 ### Source
 

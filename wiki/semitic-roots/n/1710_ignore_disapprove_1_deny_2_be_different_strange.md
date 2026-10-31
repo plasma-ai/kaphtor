@@ -35,7 +35,7 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | nakāru 2 (CAD N/1 165); nukurrû 2 (CAD N/2 328); nakārum 3 (Huehnergard 1997 GAk, 508) | CAD N/1 165; CAD N/2 328; Huehnergard 1997 GAk, 508 | gloss withheld |
 | Geez | nakir 3 (LGz. 397) | LGz. 397 | gloss withheld |
 | Hebrew | nkr; nēkār 3 (HALOT 699, 700) | HALOT 699, 700 | gloss withheld |
-| Epigraphic South Arabian | nkr 3 (HALOT 699; Sabaweb lemma 4647); Sab hnkr 3 (Biella 305); nkr 3 (Sabaweb lemma 5701) | HALOT 699; Sabaweb lemma 4647; Biella 305; Sabaweb lemma 5701 | gloss withheld |
+| Epigraphic South Arabian | nkr 3 (HALOT 699; Sabaweb lemma 4647); Sab hnkr 3 (Biella 305); nkr 3 (Sabaweb lemma 5701); Qat. nkr 3 (Ricks 1982 s.v. nkr) | HALOT 699; Sabaweb lemma 4647; Biella 305; Sabaweb lemma 5701; Ricks 1982 s.v. nkr | gloss withheld |
 | Mandaic Aramaic | nukraia 3 (LGz. 397) | LGz. 397 | gloss withheld |
 | Tigre | näkära 1 (LGz. 397) | LGz. 397 | gloss withheld |
 | Amharic | näkkärä 3 (LGz. 397) | LGz. 397 | gloss withheld |

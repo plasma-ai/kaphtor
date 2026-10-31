@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾummi |
 | Meaning | mother; or capital (Akk. ummu 'capital'); rival u- 'and' + PALM/TREE |
 | Root | ʾ-m-m |
+| Proto-Semitic | \*ʾu/imm- (#1839) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | commodity |
 
 ### Note
 
-ZA 10b .3 U-\*49 6, in a list of entries with numbers. \*49 writes mi, as in DA-U-\*49 Dawmi and TO-\*49-RE tamir; U-MI ʾummi 'mother', or Akk. ummu 'initial investment, capital' (CAD U/W 120), an account term. Rival: u- 'and' + \*49 PALM/TREE, though \*49 never stands alone. HT 126a \]U-\*49 1 is broken before U. One witness.
+ZA 10b .3 U-\*49 6, in a list of entries with numbers. \*49 writes mi, as in DA-U-\*49 Dawmi and TO-\*49-RE tamir; U-MI ʾummi 'mother', or Akk. ummu 'initial investment, capital' (CAD U/W 120), an account term. Rival: u- 'and' + \*49 PALM/TREE, though \*49 never stands alone. HT 126a \]U-\*49 1 is broken before U. One witness. See U-MI-NA-SI and A-RE-TU-MI.
 
 ### Cognates
 

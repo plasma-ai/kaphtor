@@ -34,17 +34,24 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿAtīqa |
 | Meaning | personal name, 'enduring'; compare Linear B a-ti-ka |
 | Root | ʿ-t-q |
+| Proto-Semitic | \*ʕatVq- (#2658) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA Wc 2, a Zakros roundel: .1 A-TI-KA-A, .2 DỤ-KO-⟦MI⟧, the signs of .1 evenly spaced; GORILA divides A-TI-KA · A-DU-KO-⟦MI⟧ (GORILA II 98). Perna and Anastasiadou, after autopsy, read the last sign as the numeral 2, matching the two seal impressions on the rim (CMS II,7 no. 25; Anastasiadou 2026, 37–39). Ugaritic ʿtq "durable", syllabic at-qá (DULAT 189); Safaitic personal name ʿtq (Harding 1971, 405). Linear B a-ti-ka is a man at Knossos (KN V 831.4; DMic I 119). One attestation.
+ZA Wc 2, a Zakros roundel: .1 A-TI-KA-A, .2 DỤ-KO-⟦MI⟧, the signs of .1 evenly spaced; GORILA divides A-TI-KA · A-DU-KO-⟦MI⟧ (GORILA II 98). Perna and Anastasiadou, after autopsy, read the last sign as the numeral 2, matching the two seal impressions on the rim (CMS II,7 no. 25; Anastasiadou 2026, 37–39). Ugaritic ʿtq "durable", syllabic at-qá (DULAT 189); Safaitic personal name ʿtq (Harding 1971, 405). Linear B a-ti-ka is a man at Knossos (KN V 831.4; DMic I 119). One attestation. See \*306-TI-KA-A-RE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | a-ti-gu ʿatīq 'old', AL₆.GÍD = a-ti-gu-um (GlOS 1, 93); a-ti-ga, a name (EbDA, ARET 20 0014) |
 
 ### Source
 
-di Mino; DULAT; Harding 1971; DMic I 119; CMS II,7; Anastasiadou 2026, 37–39, in Salgarella & Petrakis (eds.) 2026
+di Mino; DULAT; Harding 1971; DMic I 119; CMS II,7; Anastasiadou 2026, 37–39, in Salgarella & Petrakis (eds.) 2026; GlOS 1; EbDA
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_QE_RA
 title: "DA-QE-RA"
-desc: "diḳaru: pot, vessel (for grain storage). Lexicon, CANDIDATE (tier 2)."
+desc: "diḳaru: pot, bowl. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "DA-QE-RA"
@@ -32,27 +32,27 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | diḳaru |
-| Meaning | pot, vessel (for grain storage) |
+| Meaning | pot, bowl |
 | Root | d-q-r |
+| Proto-Semitic | \*diḳar- (#1655) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | vessel |
 
 ### Note
 
-Skeleton dqr, the emphatic ḳ of \*diḳar- written q. HT120 shows DA-QE-RA heading a list with GRA+K+L 74, GRA+PA 62—grain commodities measured in vessels. A vessel category heading in a grain allocation tablet is semantically strong. HT57a is fragmentary (DA-QE-RA 1 A ¹⁄₈). The Akkadian diqāru is well-attested as a large storage vessel for grain and liquids.
+Skeleton dqr, the emphatic ḳ of \*diḳar- written q. HT120 shows DA-QE-RA heading a list with GRA+K+L 74, GRA+PA 62—grain commodities measured in vessels. A vessel category heading in a grain allocation tablet is semantically strong. HT57a is fragmentary (DA-QE-RA 1 A ¹⁄₈). Akk. diqāru, a round-bottomed bowl for serving and heating (CAD D 157); Ug. dqr 'a kind of pot or pan' (DULAT 276).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*diḳar- 'pot' |
 | Akkadian | diqāru(m) 'large pot, cauldron' |
 | Hebrew | not directly attested |
 
 ### Source
 
-di Mino
+di Mino; CAD D; DULAT
 
 ## Attestations
 

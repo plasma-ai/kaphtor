@@ -10,7 +10,7 @@ tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.45
 reading: "kull"
-attestations: ["HT127b", "HT131a", "HT42+59", "HT45b", "HT39", "HT40", "HT49b", "HT154a", "KH18", "PK3", "ARKH6", "TYWc5"]
+attestations: ["HT127b", "HT131a", "HT45b", "HT39", "HT40", "HT49b", "HT154a", "KH18", "PK3", "ARKH6", "TYWc5"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kull |
 | Meaning | all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal) |
 | Root | k-l-l |
+| Proto-Semitic | \*kʷall- (#2418) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-168 standalone attestations (152 single-sign HT nodules HTWa1471–1622, plus 16 multi-word tablets across 5 sites). Second most common nodule category after \*301 (226). On HT127b, KU 72 appears as one sub-category alongside \*307, VIR+\*313c, KI+MU, \*301—all summing to KU-RO 292 (the sum includes the erased KI+MU 14, GORILA I 219). This confirms KU is a CATEGORY LABEL, not an abbreviation of KU-RO. On HT42+59, KU directly precedes OLE ("all oil"). On HT131a, KU 353 is the largest number (subtotal). On HT45b, KU ¼ appears 3×. The semantic distinction kull "all/section" vs kull-rōʿu (KU-RO) "grand total" parallels administrative subtotal vs grandtotal conventions. Alternative: kōhēn "priest"—rejected (152 nodules too many for personnel; full spelling KI-NI exists separately). Huehnergard: /kalīlu/ "entirety", /kullu/ "all" CuCC pattern; BH kālīl.
+167 standalone attestations (152 single-sign HT nodules HTWa1471–1622, plus 15 multi-word tablets across 5 sites). Second most common nodule category after \*301 (226). On HT127b, KU 72 appears as one sub-category alongside \*307, VIR+\*313c, KI+MU, \*301—all summing to KU-RO 292 (the sum includes the erased KI+MU 14, GORILA I 219). This confirms KU is a CATEGORY LABEL, not an abbreviation of KU-RO. HT 42+59 has KU-\[ \]OLE\[, a broken longer word, not KU. On HT131a, KU 353 is the largest number (subtotal). On HT45b, KU ¼ appears 3×. The semantic distinction kull "all/section" vs kull-rōʿu (KU-RO) "grand total" parallels administrative subtotal vs grandtotal conventions. Alternative: kōhēn "priest"—rejected (152 nodules too many for personnel; full spelling KI-NI exists separately). Huehnergard: /kalīlu/ "entirety", /kullu/ "all" CuCC pattern; BH kālīl.
 
 ### Cognates
 
@@ -60,7 +61,6 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT45b\|HT45b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT39\|HT39]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT40\|HT40]] | Haghia Triada | Tablet | none |
@@ -75,7 +75,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | kull | all, totality—subtotal marker before OLE | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT127b\|HT127b]] |  | counted class, 72 |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | kull | all, totality (subtotal marker) |  |
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/y
 desc: "Semitic roots whose first radical is y."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T02:57:39Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/y
@@ -48,6 +48,10 @@ updated: 2026-10-29T02:57:39Z
 [[wiki/semitic-roots/y/3552_wet_nurse|3552_wet_nurse]]: Proto-Semitic *ynḳ, 'wet-nurse': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/y/370_be_tired_1_work_2_feel_pain_3|370_be_tired_1_work_2_feel_pain_3]]: Proto-Semitic *yVgVʕ-, 'be tired' 1, 'work' 2, 'feel pain' 3: reflexes in 4 language(s).
+
+[[wiki/semitic-roots/y/3790_Yah_Yahweh_divine_name|3790_Yah_Yahweh_divine_name]]: Proto-Semitic *yah-, 'Yah, Yahweh (divine name)': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/y/3792_my_me_pronominal_suffix_1_sg|3792_my_me_pronominal_suffix_1_sg]]: Proto-Semitic *-ī/*-ya, *-nī, 'my; me' (pronominal suffix, 1 sg.): reflexes in 3 language(s).
 
 [[wiki/semitic-roots/y/71_right_right_hand_1_south_2|71_right_right_hand_1_south_2]]: Proto-Semitic *yamīn- ~ *yamān-, 'right, right hand' 1, 'south' 2: reflexes in 20 language(s).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI_DE_RU
 title: "DI-DE-RU"
-desc: "ʾaddīru: nobles, assembly of elders, council. Lexicon, PROBABLE (tier 3)."
+desc: "ʾaddīru: nobles, notables; rival ʾadr 'granary'. Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "title"]
 kind: "word"
 form: "DI-DE-RU"
@@ -32,27 +32,27 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾaddīru |
-| Meaning | nobles, assembly of elders, council |
+| Meaning | nobles, notables; rival ʾadr 'granary' |
 | Root | ʾ-d-r |
+| Proto-Semitic | \*ʾaddīr- (#1340) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-DI-DE- renders the Semitic geminate -dd- in ʾaddīr-. Always co-occurs with SA-RU in the formulaic allocation set. 3 tablets, all Haghia Triada LMIB. Cross-tablet allocation series (HT86a/95a/95b)—consistent ordering and quantities. It co-occurs structurally with SA-RU, MI-NU-TE, QE-RA₂-U.
+DI-DE- renders the Semitic geminate -dd- in ʾaddīr-. Always co-occurs with SA-RU in the formulaic allocation set. 3 tablets, all Haghia Triada LMIB. Cross-tablet allocation series (HT86a/95a/95b)—consistent ordering and quantities. It co-occurs structurally with SA-RU, MI-NU-TE, QE-RA₂-U. Ug. adr 'strong, of good quality; noble, notable' (DULAT 21). Rival: Ug. ʾadr 'granary, barn' (GlOS 1, 10), a store drawing grain. See A-DA-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʔaddīr- 'noble, notable' 1, 'majestic, powerful' 2, 'assembly of elders, council' 3 |
 | Hebrew | ʾaddīr 'mighty, majestic, noble' (Ps 8:2, 93:4; Isa 33:21) |
 | Akkadian | adāru 'to be afraid, to fear' (semantic shift from 'awe-inspiring') |
 
 ### Source
 
-di Mino
+di Mino; DULAT; GlOS 1
 
 ## Attestations
 

@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯudu |
 | Meaning | breast (woman's) |
 | Root | \*ṯa/ud- (PS #2036) |
+| Proto-Semitic | \*ṯa/ud- (#2036) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | kinship |
 
 ### Note
 
-Ug. ṯd, Heb. šād, Ar. ṯady-. Biconsonantal root. Fractional quantities (5/8, 1) suggest commodity subdivision.
+Ug. ṯd, Heb. šād, Ar. ṯady-. Biconsonantal root. Fractional quantities (5/8, 1) suggest commodity subdivision. See ZU-DI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ṯd 'breast, bosom, chest, teat, udder' (DULAT 886) |
+| Hebrew | šad 'mother's breast' (HALOT 1418) |
+| Arabic | ṯady 'the breast, mamma' (Lane 333) |
 
 ### Source
 

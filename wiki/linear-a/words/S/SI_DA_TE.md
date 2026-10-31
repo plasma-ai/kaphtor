@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṣēdat |
 | Meaning | provisions (cf. Heb. ṣêdâ, travelling provision) |
 | Root | ṣ-y-d |
+| Proto-Semitic | \*ṣVwad/\*ṣVyad- (#847) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-ARKH 2 .1, intact: SI-DA-TE heads the tablet without a numeral over a must list, KU-RA \*131B 5, then A-SI-DA-TO-I 12, ZU-\*301-SE-DE-\*21F-\*118 6, A-SU-PU-WA 4, RU-MI\[ (GORILA III 7). Heb. ṣêdâ 'provisions' (Gen 42:25; Josh 1:11), Ug. ṣd. SI writes ṣē, contracted from \*ṣayd-; TE the feminine -t. Weak point: SI for ṣē. Rival: a personal name or party heading, as on HT 20 and HT 16; cf. SI-DA-RE (HT 17, HT 122a). One attestation.
+ARKH 2 .1, intact: SI-DA-TE heads the tablet without a numeral over a must list, KU-RA \*131B 5, then A-SI-DA-TO-I 12, ZU-\*301-SE-DE-\*21F-\*118 6, A-SU-PU-WA 4, RU-MI\[ (GORILA III 7). Heb. ṣêdâ 'provisions' (Gen 42:25; Josh 1:11), Ug. ṣd. SI writes ṣē, contracted from \*ṣayd-; TE the feminine -t. Weak point: SI for ṣē. Rival: a personal name or party heading, as on HT 20 and HT 16; cf. SI-DA-RE (HT 17, HT 122a). One attestation. See SE-\*305 and MA-SI-DU.
 
 ### Cognates
 

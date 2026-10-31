@@ -5,7 +5,7 @@ desc: "bānī: builder or personnel designation. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "noun"]
 kind: "word"
 form: "PA₃-NI"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | bānī |
 | Meaning | builder or personnel designation |
 | Root | b-n-y |
+| Proto-Semitic | \*bVn- (#649) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | personnel |
 
 ### Note
 
-The comparison is the Semitic active participle of √b-n-y 'build', \*bāniyu &gt; bānī in a weak-final form. Its personnel sense suits HT102, but the bare form is lexically ambiguous and the proposed relation to PA₃-NI-NA does not by itself establish the reading.
+The comparison is the Semitic active participle of √b-n-y 'build', \*bāniyu &gt; bānī in a weak-final form. Its personnel sense suits HT102, but the bare form is lexically ambiguous and the proposed relation to PA₃-NI-NA does not by itself establish the reading. See PA₃-NI-WI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | bny 'builder' (GlOS 1, 122) |
+| Amorite | BANIJ-IM Baniyim, the active participle as a name (Gelb 1980, no. 1128) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1; Gelb 1980
 
 ## Attestations
 
@@ -59,5 +67,21 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | bānī | builder(s) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | bānī | builder or personnel designation: GRA+PA 33 | CANDIDATE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 2 in 2 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 2 |
+
+### Note
+
+A recipient: HT 85a after DA-RI-DA 12, counted 12; HT 102 with GRA+PA 33. √b-n-y. See PA₃-NI-NA.
 
 <!-- END kaphtor:record -->

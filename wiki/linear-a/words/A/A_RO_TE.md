@@ -46,6 +46,7 @@ CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net r
 | Language | Comparison |
 |---|---|
 | Nuzi | Ha-lu-ti, var. Ha-lu-u-ti, a woman's name (NPN 51) |
+| Hittite | Ḫaluti (KBo 40.365 1; Hittite Personal Names 0.1) |
 | Hebrew | ʾālāh, pl. ʾālôt 'oaths, curses' (Deut 29:20; 30:7; 2 Chr 34:24), the rival |
 
 ### Source

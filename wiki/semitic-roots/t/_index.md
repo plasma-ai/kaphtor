@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/t
 desc: "Semitic roots whose first radical is t."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T22:08:35Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/t
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/t/1052_to_be_completed|1052_to_be_completed]]: Proto-Semitic *tmm, '(to be) completed': reflexes in 8 language(s).
+[[wiki/semitic-roots/t/1052_to_be_completed|1052_to_be_completed]]: Proto-Semitic *tmm, '(to be) completed': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/t/1057_deceive|1057_deceive]]: Proto-Semitic *tVl-, 'deceive': reflexes in 1 language(s).
 
@@ -124,6 +124,8 @@ updated: 2026-10-28T22:08:35Z
 [[wiki/semitic-roots/t/3614_to_be_straight_right_to_set_straight|3614_to_be_straight_right_to_set_straight]]: Proto-Semitic *trṣ, 'to be straight, right; to set straight': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/t/3630_partner_colleague_friend_companion|3630_partner_colleague_friend_companion]]: Proto-Semitic *tappāʾ-, 'partner, colleague, friend, companion': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/t/3789_shield_1_door_bar_2|3789_shield_1_door_bar_2]]: Proto-Semitic *turs-, 'shield' 1, 'door-bar' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/t/434_advance_quickly|434_advance_quickly]]: Proto-Semitic *tVḳtVḳ-, 'advance quickly': reflexes in 1 language(s).
 

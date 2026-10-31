@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾiqurna |
 | Meaning | at the horn / promontory (toponym?) |
 | Root | q-r-n (PS \*ḳarn-) |
+| Proto-Semitic | \*ḳarn- (#1959) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
@@ -41,6 +42,15 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT90 (Haghia Triada): heads GRA 20, OLE+DI 3 distribution. Skeleton i-k-r-n—initial I- could be locative prefix ("at/in"). If √q-r-n, reads as "at the horn"—a promontory toponym. Alternatively a personal name built on √q-r-n. The k-r-n element echoes KA-RO-NA on HT11a. \|\| If I- is a preposition, its noun is genitive \*qarni\*, not -NA (Fischer 2002, §292); the toponym reading avoids this.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | qeren 'horn', and of a hill in qeren ben-šāmen 'a fertile hill', Isa 5:1 (HALOT 1144) |
+| Ugaritic | qrn 'horn' (DULAT 700) |
+| Akkadian | qarnu 'horn, ... protruding part' (CAD Q 134) |
+| Phoenician | qrn 'horn' (Krahmalkov 432); Carne, a city in Phoenicia named from it (Krahmalkov 433) |
 
 ### Source
 

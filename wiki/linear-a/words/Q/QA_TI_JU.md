@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Qātilu |
 | Meaning | Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said' |
 | Root | q-t-l |
+| Proto-Semitic | \*ḳtl (#2498) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
@@ -46,7 +47,6 @@ ZA 14 QA-TI-JU 8, a name among recipients (ME-KI-DI 1, PU-NI-KA-\*363 3, KU-PI 1
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ḳtl 'kill' (semitic_roots 2498) |
 | Safaitic | qtl PN; Arabic Qātila, Qattāl (Harding 1971, 476) |
 | Hurrian | Katiya, ka-ti-ia, kad=i=ya 'He/She said', Mari (Monti 2017, 255); Nuzi Kataja, Qa-ta-a-a (NPN 224) |
 

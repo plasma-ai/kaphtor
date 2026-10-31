@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yā Šumāt |
 | Meaning | O Šumāt! (vocative particle yā + proper name; possibly \*šum- ‘name, posterity’ + plural \*-āt) |
 | Root | š-m; \*šum- + plural \*-āt (?) |
+| Proto-Semitic | \*(ʾi-)šim- (#621) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
 
 ### Note
 
-Segment JA \| SU-MA-TU: JA = Semitic vocative yā, internally paralleling JA-DI-KI-TU /yā Diktu/ in the same formula position. Huffmon lists Amorite sumat- as an unexplained name element but reports Birot's proposal that it is a plural of sum- ‘name (&gt; posterity)’; the resulting analysis is \*šum- + \*-āt → Šumāt. SU-MA-TU can write /šu-mā-t/, with TU carrying a dead vowel after final /t/ and vowel length unmarked. The derivation and the human or divine identity of the addressee remain uncertain. Amorite independently attests the element in Šumat-Yaraḥ, Šumat-ʾIlī, Šumatān, and Šumatānum (Gelb 1980, AS 21, nos. 5581–5582, 5588–5589; Huffmon 1965, pp. 57, 247–249, 252). Epigraphic caveat: GORILA V 64–65 and Davis read the following sign as OLIV, yielding yā Šumāt \| OLIV 1; Metaxa-Muhly 1984 and Finkelberg 1990 read it as syllabic RE, which may extend the name.
+Segment JA \| SU-MA-TU: JA = Semitic vocative yā, internally paralleling JA-DI-KI-TU /yā Diktu/ in the same formula position. Huffmon lists Amorite sumat- as an unexplained name element but reports Birot's proposal that it is a plural of sum- ‘name (&gt; posterity)’; the resulting analysis is \*šum- + \*-āt → Šumāt. SU-MA-TU can write /šu-mā-t/, with TU carrying a dead vowel after final /t/ and vowel length unmarked. The derivation and the human or divine identity of the addressee remain uncertain. Amorite independently attests the element in Šumat-Yaraḥ, Šumat-ʾIlī, Šumatān, and Šumatānum (Gelb 1980, AS 21, nos. 5581–5582, 5588–5589; Huffmon 1965, pp. 57, 247–249, 252). Epigraphic caveat: GORILA V 64–65 and Davis read the following sign as OLIV, yielding yā Šumāt \| OLIV 1; Metaxa-Muhly 1984 and Finkelberg 1990 read it as syllabic RE, which may extend the name. See SI-MA.
 
 ### Cognates
 

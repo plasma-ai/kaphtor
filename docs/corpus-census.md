@@ -53,10 +53,10 @@ A record is a catalogue entry; tablet sides (`HT9a`, `HT9b`), recto and verso (`
 <!-- END kaphtor:census corpus -->
 
 <!-- BEGIN kaphtor:census labels -->
-Every record carries `source_provenance` except `SKOZc2`. 1,376 documents carry the label `GORILA`.
+Every record carries `source_provenance` except `SKOZc2`. 1,375 documents carry the label `GORILA`.
 <!-- END kaphtor:census labels -->
 
-The labels follow lineara.xyz and undercount GORILA documents, and one labelled record, `THEZb5`, is not a GORILA document.
+The labels follow lineara.xyz and undercount GORILA documents.
 
 ## 3. RILA-S1 accepted documents in the corpus
 
@@ -283,7 +283,7 @@ Four records that lineara.xyz or SigLA held as GORILA documents are not GORILA d
 - `KH79` was SigLA's record of the fragment KH 79, which GORILA V counts only in the join KH 79 + 89; it is merged into `KH79+89`.
 - GORILA V brackets KN (?) Wc <24> as withdrawn, "= HT Wc 3004" (p. 109); `KNWc<24a>`/`KNWc<24b>` are merged into `HTWc3004`, and SigLA's reading stays in the snapshot.
 - GORILA V also withdraws KN Wc 25 (p. 109); `KNWc<25>` falls outside both editions.
-- `THEZb5`, labelled GORILA, is not in GORILA V, which has THE Zb 1–4 only. It holds one sign and falls outside both editions. RILA-S1's THE Zb 6 is a different reading, held as `THEZb6`.
+- `THEZb5` is not in GORILA V, which has THE Zb 1–4 only. It is the jug inv. 1110 from Akrotiri with one sign, published by Michailidou (*Minos* 35–36, pl. IIB), and falls outside both editions. The old number THE Zb 5 belongs to the ostrakon, RILA-S1's THE Zg 5 (`THEZg5`); RILA-S1's THE Zb 6 is a different reading, held as `THEZb6`.
 
 ### Second records merged into their keeper
 
@@ -367,3 +367,4 @@ They fall into four groups:
 - Salgarella, E. & Castellan, S. (2021). "SigLA: The Signs of Linear A. A Palæographical Database." In Y. Haralambous (ed.), *Grapholinguistics in the 21st Century 2020: Proceedings, Part 2*, pp. 945–962. Brest: Fluxus Editions. Database: sigla.phis.me.
 - Hogan, R. (2019–). *Linear A Explorer*. lineara.xyz.
 - Younger, J. G. *Linear A Texts in Phonetic Transcription* (archived).
+- Michailidou, A. (2000–2001 [2002]). "Indications of Literacy in Bronze Age Thera." *Minos* 35–36: 7–30.

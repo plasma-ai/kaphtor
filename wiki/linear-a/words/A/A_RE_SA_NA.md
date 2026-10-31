@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAriš-āna |
 | Meaning | 'The Requested One'—votive birth-name from √ʾ-r-š "to request, desire" + hypocoristic -ān; the child asked of the goddess, the name a receipt |
 | Root | ʾ-r-š |
+| Proto-Semitic | \*ʾVrVš- (#K0596) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

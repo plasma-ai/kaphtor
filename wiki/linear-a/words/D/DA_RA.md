@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH7b\|PH7b]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH7b\|PH7b]] | Phaistos | Tablet | none; form not in transliteration |
 
 ## Unread
 

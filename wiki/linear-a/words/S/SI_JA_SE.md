@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šī-yāṣē |
 | Meaning | which goes out (disbursement marker)—relative particle šī + 3ms imperfect √y-ṣ-ʾ "to go out" |
 | Root | y-ṣ-ʾ |
+| Proto-Semitic | \*ša (#3139) + \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |

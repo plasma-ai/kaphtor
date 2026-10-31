@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Pirʾu-ʾēlu |
 | Meaning | personal name, 'Offspring of El'; rival 'Fruit of El' |
 | Root | p-r-ɣ + ʾ-l |
+| Proto-Semitic | \*pirɣ- (#3194) + \*ʾil- (#2719) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ PH 2 .3 PI-RU-E-JU 60, between RA-O-DI-KI 60 and SE-SA-PA₃ 60, under the headi
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*pirɣ- 'shoot' (semitic_roots no. 3194) + \*ʾil- 'god; El' (no. 2719) |
 | Akkadian | pirʾu, pirḫu '1. shoot, 2. offspring' (CAD P 416); Pir-ḫi-ì-lí-šu 'Offspring-of-His-God', wr. Pi-ir-i-ì-lí-šu (CAD P 418) |
 | Hebrew | pərî 'fruit' (semitic_roots no. 756), rival |
 

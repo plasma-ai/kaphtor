@@ -34,12 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ḥārišu |
 | Meaning | the craftsman, artisan (title) |
 | Root | ḥ-r-š |
+| Proto-Semitic | \*ḥaraš- (#2721) |
 | Language layer | NWS |
 | Semantic field | occupation |
 
 ### Note
 
-Hapax on HT118, where it receives 4 pigs with 1 owed, among MA-DI, QA-QA-RU (Qaqqaru) and RI-RU-MA. The qātil participle 'craftsman': Ugaritic ḥrš 'craftsman, manual worker; artisan, builder' (DULAT 366); Amorite ḥariš-, \*ḥāriṯ- 'artificer, worker', from \*ḥrṯ 'engrave, cut', in the Mari name Ḫa-ri-ša-an (Huffmon, APNM 205). A title in a recipient list, as QA-\*310-I qaynī 'the smith' takes KI-oil on HT8a. Rivals: a personal name /ʾarīšu/ on √ʾ-r-š 'to request': Amorite Ariš-ān and Ariš-ān-u (Gelb, AS 21, nos. 2190–91), glossary ʾariśum, and ʾARUŠ-U (A-RU-SU, no. 511); A-RE-SA-NA (THE Zb 2) is read on that root. Akkadian eršu (Neo-Assyrian aršu) 'plowed and sown', substantivally 'plowed field' (CAD E, s.v. eršu B), a sense the recipient slot does not fit.
+Hapax on HT118, where it receives 4 pigs with 1 owed, among MA-DI, QA-QA-RU (Qaqqaru) and RI-RU-MA. The qātil participle 'craftsman': Ugaritic ḥrš 'craftsman, manual worker; artisan, builder' (DULAT 366); Ugarit's polyglot list ḫa-ra-šu 'craftsman, builder' (GlOS 1, 251); Amorite ḥariš-, \*ḥāriṯ- 'artificer, worker', from \*ḥrṯ 'engrave, cut', in the Mari name Ḫa-ri-ša-an (Huffmon, APNM 205). A title in a recipient list, as QA-\*310-I qaynī 'the smith' takes KI-oil on HT8a. Rivals: a personal name /ʾarīšu/ on √ʾ-r-š 'to request': Amorite ʾARUŠ-U (A-RU-SU, Gelb, AS 21, no. 511), glossary ʾariśum; A-RE-SA-NA (THE Zb 2) is read on that root. Akkadian eršu (Neo-Assyrian aršu) 'plowed and sown', substantivally 'plowed field' (CAD E, s.v. eršu B), a sense the recipient slot does not fit.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ḥrš 'craftsman, manual worker; artisan, builder' (DULAT 366) |
+| Hebrew | ḥārāš 'craftsman' (HALOT 358) |
+| Phoenician | ḥrš, ḥōreš 'artisan, craftsman' (Krahmalkov 198) |
+
+### Source
+
+di Mino; GlOS 1
 
 ## Attestations
 

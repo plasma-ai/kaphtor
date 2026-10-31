@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḏā-Naśiʾ |
 | Meaning | He of Naśiʾ (personal name heading HT 126a) |
 | Root | ḏ + n-ś-ʾ |
+| Proto-Semitic | \*nśʾ- (#S38) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ HT 126a .1 DA-NA-SI · \*318 ·, heading the tablet, before A-NA-\[·\] 1 and SI
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*nśʾ- 'to lift' (semitic_roots S38) |
 | Amorite | Naśiʾ DN, written NA-SI: Niqmi-la-Naśiʾ NI-IQ-MI-LA-NA-SI (Gelb no. 5051), Yadur-Naśiʾ IA-DU-UR-NA-SI (no. 3218); ḏu 'he/she of', written ZU (Gelb 1980, 18) |
 | Hebrew | nāśîʾ נָשִׂיא 'leader, prince' (HALOT 727): nəśîʾ ʾĕlōhîm נְשִׂיא אֱלֹהִים 'a prince of God' (Gen 23:6), wə-nāśîʾ bə-ʿammǝkā lōʾ tāʾōr וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר (Exod 22:27), nəśîʾê maṭṭôt נְשִׂיאֵי מַטּוֹת (Num 1:16) |
 

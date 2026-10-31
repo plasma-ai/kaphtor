@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tappāʾu |
 | Meaning | partners, the heading of a shares account |
 | Root | t-p-ʾ |
+| Proto-Semitic | \*tappāʾ- (#3630) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | personnel |
 
 ### Note
 
-HT 104 .1 TA-PA · \*505 ·, heading three entries, DA-KU-SE-NE-TI 45½, I-DU-TI 20½ and PA-DA-SU-TI 29, whose sum is KU-RO 95 (GORILA I 170–171). ta-pa(ʾu) on primary values, the geminate and final ʾu unwritten: the partners in a divided account, as Akk. tappû 'business partner' (CAD T 184). Rival: ṭap 'children' (semitic_roots no. 66), TA writing ṭ. One witness.
+HT 104 .1 TA-PA · \*505 ·, heading three entries, DA-KU-SE-NE-TI 45½, I-DU-TI 20½ and PA-DA-SU-TI 29, whose sum is KU-RO 95 (GORILA I 170–171). ta-pa(ʾu) on primary values, the geminate and final ʾu unwritten: the partners in a divided account, as Akk. tappû 'business partner' (CAD T 184). Rival: ṭap 'children' (#66), TA writing ṭ. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*tappāʾ- 'partner, colleague, friend, companion' (semitic_roots no. 3630) |
 | Akkadian | tappû, tappāu 'partner, colleague … business partner'; Bogh. and Alalakh tappûtu (CAD T 184) |
 | Eblaite | da-ba-u₃ tappāʾu 'comrade', a personal name (Pagan 1998, row 1378) |
 

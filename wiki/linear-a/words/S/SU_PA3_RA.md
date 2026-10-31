@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | subāra |
 | Meaning | vessel (pot) |
 | Root | s-p-l |
+| Proto-Semitic | \*sipVl- (#1103) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | vessel |
@@ -42,9 +43,17 @@ updated: 2026-10-24T16:17:50Z
 
 Gordon's etymology holds via intervocalic lenition. Gordon (§163) read su-pa-ra = sēpel (Hebrew ספל 'bowl'), treating PA=/p/ and RA=/l/. PA₃=/ba/ (a proposed value) shifts surface skeleton s-p-r → s-b-r, but underlying PS root √s-p-l is preserved: intervocalic \*p→b is regular lenition in Minoan phonological adaptation (V_V environment: /u_a/), l→r = standard liquid mapping \|\| SEMANTIC CONFIRMATION: Vessel meaning independently secured—\*402-VS logogram (pictographic vessel determinative) + position in HT31 vessel inventory (alongside QA-PA₃, SU-PU, KA-RO-PA₃) + V&C independent identification. Part of Gordon's HT31 vessel quartet (§163): 4 of 5 vessel names identified as Semitic \|\| The scribe writes PA₃ precisely because the word was pronounced with /b/ in Minoan—supporting rather than undermining PA₃ = /ba/
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | spl 'platter, tray' (DULAT 754) |
+| Old Syrian | sà-ap-lu ZABAR sapl 'platter, bowl, cauldron' (GlOS 2, 202) |
+| Egyptian | group writing ṯi₂-pa-ra sipl 'large drinking bowl, crater', ra for l (GlOS 2, 203, after Hoch, SWET 364, no. 541) |
+
 ### Source
 
-Gordon 1966 §163; di Mino
+Gordon 1966 §163; di Mino; DULAT; GlOS 2
 
 ## Attestations
 

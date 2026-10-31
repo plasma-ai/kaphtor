@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | quppa |
 | Meaning | box, basket (standardized container for measured commodity allocations) |
 | Root | q-p-p |
+| Proto-Semitic | \*ḳupp- (#301) |
 | Language layer | NWS (PS \*ḳupp-) |
 | Semantic field | administrative |
 
 ### Note
 
-No QU sign in Linear A syllabary — /qu/ written as KU. Accusative \*quppa(m) gives KU-PA. Diagnostic pattern: KU-PA 𐄁 GRA+PA N on both ZA11a (qty 1) and ZA11b (qty 3) — container label before measured grain. All quantities small (1-3), consistent with individual containers. Distinct from KA-PA 'village' (√k-p-r, different vowel, HT-only).
+No QU sign in Linear A syllabary — /qu/ written as KU. Accusative \*quppa(m) gives KU-PA. Diagnostic pattern: KU-PA 𐄁 GRA+PA N on both ZA11a (qty 1) and ZA11b (qty 3) — container label before measured grain. All quantities small (1-3), consistent with individual containers. Distinct from KA-PA 'village' (√k-p-r, different vowel, HT-only). See QE-PI-TA.
 
 ### Cognates
 
@@ -50,6 +51,11 @@ No QU sign in Linear A syllabary — /qu/ written as KU. Accusative \*quppa(m) g
 | Geez | qafo 'basket' |
 | Mehri | ḳeffēt 'basket' |
 | Soqotri | ḳefet 'basket' |
+| Ugaritic | qpt 'box, chest, basket' (GlOS 1, 349) |
+
+### Source
+
+di Mino; GlOS 1
 
 ## Attestations
 

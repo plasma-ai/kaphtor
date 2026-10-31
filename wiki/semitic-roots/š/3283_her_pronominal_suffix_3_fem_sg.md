@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3283_her_pronominal_suffix_3_fem_sg
 title: "*-šā̆: 'her (pronominal suffix, 3 fem. sg.)'"
-desc: "Proto-Semitic *-šā̆, 'her (pronominal suffix, 3 fem. sg.)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *-šā̆, 'her (pronominal suffix, 3 fem. sg.)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3283"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | -ǝs; -īs (Rubin 2018 55, 24, 60) | Rubin 2018 55, 24, 60 | gloss withheld |
 | Akkadian | -ša (GAG § 42 g apud SEDonline 1567) | GAG § 42 g; SEDonline 1567 | gloss withheld |
 | Geez | -ā, -hā (CDG 213, Bulakh–Kogan 2013b:101 apud SEDonline 1567) | CDG 213, Bulakh–Kogan 2013b:101; SEDonline 1567 | gloss withheld |
 | Tigre | -a/-ha (Bulakh–Kogan 2013b:101, WTS 1 apud SEDonline 1567) | SEDonline 1567 | gloss withheld |

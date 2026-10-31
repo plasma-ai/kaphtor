@@ -33,13 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | qāti |
 | Meaning | in the charge of (list heading); Akk. qātu 'hand; charge' |
+| Proto-Semitic | \*qāt- (#S87) |
 | Language layer | Akkadian comparison |
 | Category | unknown |
 | Semantic field | unknown |
 
 ### Note
 
-HT 7a: QE-TI · VIR+\[?\] heads a list of five men with numbers. Akk. qātu 'hand; custody, charge' (CAD Q 183), the word that marks whose charge a list records; QE writes qā. Cf. QẸ-TI-RA-DU · VIR+\[?\] (HT 58), in the same slot. Rival: a personal name. One attestation.
+HT 7a: QE-TI · VIR+\[?\] heads a list of five men with numbers. Akk. qātu 'hand; custody, charge' (CAD Q 183), the word that marks whose charge a list records; QE writes qā. Cf. QẸ-TI-RA-DU · VIR+\[?\] (HT 58), in the same slot. Rival: a personal name, as Ebla ga-ti qāti 'hand' (Pagan 1998, row 1975). One attestation. See KA-TI.
 
 ### Cognates
 
@@ -50,7 +51,7 @@ HT 7a: QE-TI · VIR+\[?\] heads a list of five men with numbers. Akk. qātu 'han
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998
 
 ## Attestations
 

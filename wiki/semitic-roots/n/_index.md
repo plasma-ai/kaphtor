@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/n
 desc: "Semitic roots whose first radical is n."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-30T02:12:24Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/n
@@ -51,7 +51,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/1289_fat_grease|1289_fat_grease]]: Proto-Semitic *nāḫ-, 'fat, grease': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/n/1294_caterpillar|1294_caterpillar]]: Proto-Semitic *napil-, 'caterpillar': reflexes in 1 language(s).
+[[wiki/semitic-roots/n/1294_caterpillar|1294_caterpillar]]: Proto-Semitic *napil-, 'caterpillar': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/n/1299_go|1299_go]]: Proto-Semitic *nVpVʕ-, 'go': reflexes in 1 language(s).
 
@@ -245,7 +245,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/3231_shoe_sandal|3231_shoe_sandal]]: Proto-Semitic *naʿl-, 'shoe, sandal': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/n/3253_to_roar_cry_shout|3253_to_roar_cry_shout]]: Proto-Semitic *nʕr, 'to roar, cry, shout': reflexes in 4 language(s).
+[[wiki/semitic-roots/n/3253_to_roar_cry_shout|3253_to_roar_cry_shout]]: Proto-Semitic *nʕr, 'to roar, cry, shout': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/n/3254_to_spring_up_gush_out|3254_to_spring_up_gush_out]]: Proto-Semitic *nbg, 'to spring up, gush out': reflexes in 4 language(s).
 
@@ -255,7 +255,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/3272_spirit_soul|3272_spirit_soul]]: Proto-Semitic *našam-at-, 'spirit, soul': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/n/3284_our_us_pronominal_suffix_1_pl|3284_our_us_pronominal_suffix_1_pl]]: Proto-Semitic *-nV, 'our; us (pronominal suffix, 1 pl.)': reflexes in 8 language(s).
+[[wiki/semitic-roots/n/3284_our_us_pronominal_suffix_1_pl|3284_our_us_pronominal_suffix_1_pl]]: Proto-Semitic *-nV, 'our; us (pronominal suffix, 1 pl.)': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/n/3380_sand_hill|3380_sand_hill]]: Proto-Semitic *nag(V)r-, 'sand hill': reflexes in 2 language(s).
 
@@ -309,7 +309,17 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/3757_to_keep_away_from_shun|3757_to_keep_away_from_shun]]: Proto-Semitic *nzh, 'to keep away from, shun': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/n/3784_pray_please_surely_precative_particle|3784_pray_please_surely_precative_particle]]: Proto-Semitic *nā, 'pray, please; surely' (precative particle): reflexes in 6 language(s).
+
+[[wiki/semitic-roots/n/3800_to_comfort_console|3800_to_comfort_console]]: Proto-Semitic *nḥm, 'to comfort, console': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/n/3813_naphtha|3813_naphtha]]: Proto-Semitic *napṭ-, 'naphtha': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/n/382_arrow_1_dart_an_arrow_2|382_arrow_1_dart_an_arrow_2]]: Proto-Semitic *nabl- 1 ~ *nVbul- 2, 'arrow' 1, 'dart (an arrow)' 2: reflexes in 1 language(s).
+
+[[wiki/semitic-roots/n/3847_descendants_offspring|3847_descendants_offspring]]: Proto-Semitic *nīn-, 'descendants, offspring': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/n/3854_palm_grove_palm_trees|3854_palm_grove_palm_trees]]: Proto-Semitic *naḫl-, 'palm grove, palm trees': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/n/3_woman|3_woman]]: Proto-Semitic *nišw-, 'woman': reflexes in 6 language(s).
 
@@ -321,7 +331,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/498_fall|498_fall]]: Proto-Semitic *nVpVl-, 'fall': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/n/4_man|4_man]]: Proto-Semitic *(ʾi-)nVš-, 'man': reflexes in 14 language(s).
+[[wiki/semitic-roots/n/4_man|4_man]]: Proto-Semitic *(ʾi-)nVš-, 'man': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/n/534_break_1_tear_2|534_break_1_tear_2]]: Proto-Semitic *nVtVḥ-, 'break' 1, 'tear' 2: reflexes in 2 language(s).
 
@@ -345,7 +355,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/694_be_wet|694_be_wet]]: Proto-Semitic *nVdaw-/*naday-, 'be wet': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/n/701_flow_1_descend_2|701_flow_1_descend_2]]: Proto-Semitic *nVzVl-, 'flow' 1, 'descend' 2: reflexes in 4 language(s).
+[[wiki/semitic-roots/n/701_flow_1_descend_2|701_flow_1_descend_2]]: Proto-Semitic *nVzVl-, 'flow' 1, 'descend' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/n/719_drip|719_drip]]: Proto-Semitic *nVḳVṭ-, 'drip': reflexes in 1 language(s).
 
@@ -367,7 +377,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/K0182_name|K0182_name]]: Proto-Semitic *nabah-, 'name': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/n/K0184_grow_shine_appear_look_of_water_to_well_forth_to|K0184_grow_shine_appear_look_of_water_to_well_forth_to]]: Proto-Semitic *nabāṭ-, 'grow', 'shine, appear, look', '(of water) to well forth; to dig down to water': reflexes in 8 language(s).
+[[wiki/semitic-roots/n/K0184_grow_shine_appear_look_of_water_to_well_forth_to|K0184_grow_shine_appear_look_of_water_to_well_forth_to]]: Proto-Semitic *nabāṭ-, 'grow', 'shine, appear, look', '(of water) to well forth; to dig down to water': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/n/K0185_move|K0185_move]]: Proto-Semitic *nadal-, 'move': reflexes in 2 language(s).
 
@@ -407,7 +417,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/K0206_weave|K0206_weave]]: Proto-Semitic *nasag-, 'weave': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/n/K0207_arrange|K0207_arrange]]: Proto-Semitic *nVsVq-, 'arrange': reflexes in 3 language(s).
+[[wiki/semitic-roots/n/K0207_arrange|K0207_arrange]]: Proto-Semitic *nVsVq-, 'arrange': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/n/K0208_saw|K0208_saw]]: Proto-Semitic *nasār-, 'saw': reflexes in 2 language(s).
 
@@ -415,7 +425,7 @@ updated: 2026-10-30T02:12:24Z
 
 [[wiki/semitic-roots/n/K0210_pour|K0210_pour]]: Proto-Semitic *natāk-, 'pour': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/n/K0211_pluck|K0211_pluck]]: Proto-Semitic *nVtVp-, 'pluck': reflexes in 6 language(s).
+[[wiki/semitic-roots/n/K0211_pluck|K0211_pluck]]: Proto-Semitic *nVtVp-, 'pluck': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/n/K0212_pull|K0212_pull]]: Proto-Semitic *nVtVq-, 'pull': reflexes in 8 language(s).
 

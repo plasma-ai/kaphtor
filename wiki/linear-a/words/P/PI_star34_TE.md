@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | piqitti |
 | Meaning | provisions, provisioning (allocation entry); rivals bayti 'house', a recipient name |
 | Root | p-q-d |
+| Proto-Semitic | \*paqād- (#K0256) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT 116a PI-\*34-TE GRA 5, then OLE 5, OLE+MI 1, \*OLIV+TU 2: one of six entries under U-TA-RO · TE, each a sign group with GRA and a number, as KU-PA-JA, PU-RA₂, SI+SE, SI-KI-NE and QA-NU-MA. Read PI-QI-TE with \*34 = QI, a speculative value. Akkadian piqittu(m), oblique piqitti, sense 1 'provisioning, provisions' (CAD P 388), from paqādu(m) 'entrust, assign, inspect' (Huehnergard 1997, pp. 104, 614); the entry draws grain, oil and olives. Rivals: bayti 'house; temple, household, estate' (DULAT 243; HALOT 124; CAD B 282) with \*34 = ai, Linear B a₅ /hai/, an institution among recipients that include PU-RA₂ and SI+SE; a recipient name, as its neighbours. Younger compares \]PI-MI-NA-TE (AP Za 2.2), with \*34 for MI-NA. One witness. Weak point: \*34 = qi is speculative.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | piqittu 'provisioning, control, muster, charge' (CAD P 388) |
+| Hebrew | piqqādôn 'deposit, stored goods', wəhāyâ hāʾōkel ləpiqqādôn lāʾāreṣ 'and the food shall be a store for the land' (Gen 41:36; HALOT 958) |
 
 ### Source
 

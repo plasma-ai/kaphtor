@@ -34,13 +34,24 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ta-nʿum-u-tī |
 | Meaning | may you (f.) be gracious/favourable (if TA begins the word) |
 | Root | n-ʿ-m |
+| Proto-Semitic | \*nʕm (#2611) |
 | Language layer | NWS |
 | Category | verb |
 | Semantic field | ritual |
 
 ### Note
 
-GORILA IV, 8–9 prints \]TA-NU-MU-TI; the initial break is of indeterminate extent, so this analysis applies only if TA begins the word. Proposed G u-class /ta-nʿum-u-tī/: Arabic naʿuma/yanʿumu supports the u-vocalism; Sabaic n²m ‘be favourable, prosper’ supplies the closest semantics (Beeston et al. 1982, 90); Hebrew nāʿamt (Song 7:7) is a 2fs semantic/person control. The ʿ is unrepresented, and -tī is di Mino's analogical 2fs subject clitic rather than an independently attested prefix-conjugation ending; Thomas's plural-agreement reading remains a rival. It is not √t-n-m ‘I dedicated’ or tD \*/tanaʿʿamti/.
+GORILA IV, 8–9 prints \]TA-NU-MU-TI; the initial break is of indeterminate extent, so this analysis applies only if TA begins the word. Proposed G u-class /ta-nʿum-u-tī/: Arabic naʿuma/yanʿumu supports the u-vocalism; Sabaic n²m ‘be favourable, prosper’ supplies the closest semantics (Beeston et al. 1982, 90); Hebrew nāʿamt (Song 7:7) is a 2fs semantic/person control. The ʿ is unrepresented, and -tī is di Mino's analogical 2fs subject clitic rather than an independently attested prefix-conjugation ending; Thomas's plural-agreement reading remains a rival. It is not √t-n-m ‘I dedicated’ or tD \*/tanaʿʿamti/. See TA-NA-MA-JE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | nʿm (I) 'handsome; pleasant; beneficent, gracious; good' (DULAT 605) |
+| Hebrew | nāʿam 'be pleasant' (HALOT 705); nōʿam 'kindness, favour' (HALOT 706) |
+| Phoenician | nʿm 'good, excellent' (Krahmalkov 331) |
+| Amorite | NʿM 'be pleasant': naʿimum, niʿimatum (Gelb AS 21, 26) |
+| Arabic | naʿima 'it was good, pleasant' (Lane 3035) |
 
 ### Source
 

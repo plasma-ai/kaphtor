@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAddu-nittāna |
 | Meaning | given by Addu (compound theophoric PN) |
 | Root | ʾ-d-d + n-t-n |
+| Proto-Semitic | \*hadad- (#3186) + \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

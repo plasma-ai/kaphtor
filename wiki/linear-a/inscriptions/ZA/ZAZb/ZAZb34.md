@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. PU₂-RE-JA 𐄁 KO-MU 𐄁 RU-DI
+1. \]PU₂-RE-JA 𐄁 KO-MU 𐄁 RU-DI\[
 
 Unicode (Linear A block):
 
@@ -70,5 +70,9 @@ Context: LMIB prayer with divine epithet + sacred space + imperative verb  Divin
 ## Lexicon words citing this document
 
 [[wiki/linear-a/words/K/KO_MU|KO-MU]], [[wiki/linear-a/words/P/PU2_RE_JA|PU₂-RE-JA]], [[wiki/linear-a/words/R/RU_DI|RU-DI]].
+
+## Corpus note
+
+GORILA IV 115: \]PU₂-RE-JẠ · KỌ-MỤ · RỤ-DI\[.
 
 <!-- END kaphtor:record -->

@@ -43,16 +43,16 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ŝeba, ŝibat \[LGz 539\] | LGz 539 | gloss withheld |
 | Gurage | MUH MSQ šäbbätä, SOD šibbätä, CHA EZHA MUH MSQ GOG SOD šǝbät \[LGur 572\] | LGur 572 | gloss withheld |
 | Jibbali | eŝŝéb, ŝub \[JJ 259\] | JJ 259 | gloss withheld |
-| Hebrew | ŝyb, ŝēb, ŝēbā (HALOT 1318) | HALOT 1318 | gloss withheld |
+| Hebrew | ŝyb, ŝēb, ŝēbā (HALOT 1318; BDB 966) | HALOT 1318; BDB 966 | gloss withheld |
 | Amharic | šǝbät \[K 638\] | K 638 | gloss withheld |
 | Judaic Aramaic | sǝʔēb, sā(ʔ)b 'to be old' \[Ja 947\], sāb(ā) 'grey, old', sīb 'to be grey, old' \[ibid. 948\], sīb 'grey, old', sēb 'to be old', sēbā 'old age' \[ibid. 974\]; sēbǝtā 'grey color, grey hair; eldership' \[ibid. 975\] | Ja 947; Ja 948; Ja 974; Ja 975 |  |
 | Syrian Aramaic | sābā 'old man', sābǝtā 'old woman', saybātā (pl.) 'white hair' \[Brock 469\] | Brock 469 |  |
-| Aramaic | OFF šb \[HJ 1099\], PLM sybw \[ibid. 784\] | HJ 1099; HJ 784 | gloss withheld |
+| Aramaic | OFF šb \[HJ 1099\], PLM sybw \[ibid. 784\]; SʾB (Qumran 246 apud CAL) | HJ 1099; HJ 784; CAL; Anderson–Moser 2024 root śʾb | gloss withheld |
 | Biblical Aramaic | ŝābē (pl. constr.), ŝābayyā (det.) 'grey-head; elder' (BDB 1114) | BDB 1114 |  |
 | Tigrinya | säyyäbä, šäyyäbä 'to turn grey(-haired)', šǝbät 'greying (of hair)' \[Bass 237\] | Bass 237 |  |
-| Eblaitic | si-bù-um /šībum/ (VE 108) | VE 108 |  |
+| Eblaitic | si-bù-um /šībum/ (VE 108), /Siyb, Siybt, Siybat/ (Sanmartín GlOS 2, 281) | VE 108; Sanmartín GlOS 2, 281 | gloss withheld |
 | Argobba | šəbäd (LGz. 539) | LGz. 539 | gloss withheld |
-| Amorite | śībum, śībatum, śībtum (Gelb AS 21, 31) | Gelb AS 21 31 | gloss withheld |
+| Amorite | śībum, śībatum, śībtum (Gelb AS 21, 31); ši-bu-na-a-ta-am, ši-ib-tum, ši-ba-tum /Siyb, Siybt, Siybat/ (Sanmartín GlOS 2, 281) | Gelb AS 21 31; Sanmartín GlOS 2, 281 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT88 places KI-KI-NA after the NI fig logogram and before the quantity 7, favoring a recipient, group, or other named entity. Gelb's Amorite onomasticon repeatedly writes the close KIKKIN name as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The vessel comparison fails: the Ugaritic word is kknt, with final -t, and Huehnergard notes that it may be an error for kkbt. Ugaritic kkn is instead catalogued as a personal name of uncertain etymology. Translate 'figs—Kikkina(?), 7,' not 'seven pots.'
+HT88 places KI-KI-NA after the NI fig logogram and before the quantity 7, favoring a recipient, group, or other named entity. Gelb's Amorite onomasticon repeatedly writes the close KIKKIN name as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The vessel comparison fails: the Ugaritic word is kknt, with final -t, and Huehnergard notes that it may be an error for kkbt. Ugaritic kkn is instead catalogued as a personal name of uncertain etymology. Translate 'figs—Kikkina, 7,' not 'seven pots.'
 
 ### Cognates
 
@@ -48,10 +48,12 @@ HT88 places KI-KI-NA after the NI fig logogram and before the quantity 7, favori
 |---|---|
 | Amorite | KIKKIN-I (KI-IK-KI-NI), KIKKIN-U (KI-IK-KI-NU), KIKKIN-UM (KI-IK-KI-NUM), with KI-KI-NU-UM and KI-IK-KI-NI-IM variants |
 | Ugaritic | kkn, personal name of uncertain etymology; distinct kknt 'pot/vessel' has final -t |
+| Eblaite | Gi-gi-na, a singer (nar) from Mari (Prosopography of Ebla, list nar) |
+| Old Babylonian | Ki-ki-nu-um at Sippar (de Boer 2014, 369) |
 
 ### Source
 
-di Mino; Gelb 1980, AS 21 nos. 4036–4038
+di Mino; Gelb 1980, AS 21 nos. 4036–4038; Prosopography of Ebla; de Boer 2014
 
 ## Attestations
 

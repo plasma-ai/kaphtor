@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dišpu |
 | Meaning | DI-oil subtype; perhaps honeyed oil |
 | Root | d-š-p |
+| Proto-Semitic | \*dVbš- (#2737) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,14 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 OLE ideogram + DI adjunct: 12 tokens on 8 Haghia Triada tablets. Akkadian dišpu(m) and Hebrew dǝbaš mean 'honey,' so DI could abbreviate a honey-related modifier; Ugaritic normally uses nbt for honey. The corpus securely establishes an oil subtype, not the expansion dišpu or an exact ancient 'honey-oil' expression. Co-occurrence with OLE+MI is administrative evidence for distinct oil classes, not by itself proof of ritual use.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | dišpu 'honey' (CAD D 161) |
+| Hebrew | dəbaš 'honey' (HALOT 212) |
+| Arabic | dibs 'the expressed juice of fresh ripe dates, date honey' (Lane 848) |
 
 ### Source
 

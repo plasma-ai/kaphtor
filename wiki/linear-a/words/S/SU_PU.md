@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | sapu |
 | Meaning | bowl, basin (the vessel named on HT31) |
 | Root | s-p-p |
+| Proto-Semitic | \*sapp- (#311) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | vessel |
 
 ### Note
 
-On HT31, the vessel tablet, the word is written into a vessel sign: \*415-VS-SU-PU 10, beside \*416-VS-KA-RO-PA₃ 10 (the jar, Akkadian karpu) and \*402-VS-QA-PA₃ 10. Every cognate names a bowl or basin (Hebrew sap, Ugaritic sp, Phoenician sp), which also keeps HT31's two vessels distinct.
+On HT31, the vessel tablet, the word is written into a vessel sign: \*415-VS-SU-PU 10, beside \*416-VS-KA-RO-PA₃ 10 (the jar, Akkadian karpu) and \*402-VS-QA-PA₃ 10. Every cognate names a bowl or basin (Hebrew sap, Ugaritic sp, Phoenician sp), which also keeps HT31's two vessels distinct. See SU-PU₂-\*188.
 
 ### Cognates
 
@@ -49,10 +50,11 @@ On HT31, the vessel tablet, the word is written into a vessel sign: \*415-VS-SU-
 | Hebrew | sap (סַף) 'basin, goblet, bowl' (HALOT 762) |
 | Ugaritic | sp 'bowl' (DULAT) |
 | Phoenician | sp 'cup, bowl' |
+| Old Syrian | Mari sà-ap-pu sapp 'a type of bowl' (GlOS 2, 203) |
 
 ### Source
 
-Gordon 1966 §163
+Gordon 1966 §163; GlOS 2
 
 ### Review
 

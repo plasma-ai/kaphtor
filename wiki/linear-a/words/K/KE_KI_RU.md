@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kakkaru |
 | Meaning | personal name, 'Disk, Round loaf' |
 | Root | k-k-r |
+| Proto-Semitic | \*kakkar-/\*kikkar- (#1097) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 94b under KI-RO: TU-MA 1, PA-TA-NE 1, DE-DI 1, KE-KI-RU 1, SA-RU 1, KU-RO 5, one unit each with no commodity sign: a name. The noun kakkaru 'disk, round loaf' (CAD K 49) as a name, as Amorite KAKKAR-I (Gelb AS 21 no. 3957). Weak points: KE and KI for ka-ka. Rival: a title. KI-KI-RA-JA (HT 85b) is on the same root. One attestation.
+HT 94b under KI-RO: TU-MA 1, PA-TA-NE 1, DE-DI 1, KE-KI-RU 1, SA-RU 1, KU-RO 5, one unit each with no commodity sign: a name. The noun kakkaru 'disk, round loaf' (CAD K 49) as a name, as Amorite KAKKAR-I (Gelb AS 21 no. 3957). Weak points: KE and KI for ka-ka. Rival: a title. KI-KI-RA-JA (HT 85b) is on the same root. One attestation. See QA-KU-RE and QE-KU-RE.
 
 ### Cognates
 

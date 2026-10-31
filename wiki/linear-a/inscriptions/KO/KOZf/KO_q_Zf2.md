@@ -51,7 +51,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[Untranslated continuous inscription; possibly contains the personal name Tōmar/Tamar.\]
+> \[Continuous inscription, unread but for the personal name Tōmar ('Palm').\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-GORILA IV 158–159 records a bronze bowl and prints all sixteen signs without dividers; the attribution KO(?) is uncertain. No nine-word segmentation or full Northwest Semitic translation is supported. TO-MA-RO remains a credible Semitic personal-name candidate, but its boundaries and the surrounding syntax are inferred. Woudhuizen (2016, 230–31) divides the same sequence differently, independently illustrating the segmentation problem.
+GORILA IV 158–159 records a bronze bowl and prints all sixteen signs without dividers; the attribution KO(?) is uncertain. TO-MA-RO reads Tōmar, a palm name (Amorite Tamar-u, Ugaritic tmr, Hebrew Tāmār); the rest of the sequence is unread. Woudhuizen (2016, 230–31) divides the same sequence differently, independently illustrating the segmentation problem.
 
 ### Source
 

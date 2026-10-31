@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-29T21:45:52Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/R
@@ -73,7 +73,7 @@ updated: 2026-10-29T21:45:52Z
 
 [[wiki/linear-a/words/R/RI_TA_JE|RI_TA_JE]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RI_TA_MA|RI_TA_MA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RI_TA_MA|RI_TA_MA]]: Ritmā: personal name, 'broom (bush)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RI_star305|RI_star305]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -83,7 +83,7 @@ updated: 2026-10-29T21:45:52Z
 
 [[wiki/linear-a/words/R/RO_E|RO_E]]: rōʿē: herdsman, shepherd (title on a label). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RO_KE|RO_KE]]: rōkēl: trader, merchant (title); rival rōqēaḥ 'perfumer'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RO_KE|RO_KE]]: rōqēaḥ: perfumer (title); rival rōkēl 'trader, merchant'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RO_NI|RO_NI]]: Unread (unread): no role; 1 occurrence(s).
 

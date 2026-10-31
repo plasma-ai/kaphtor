@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-29T14:19:38Z
+updated: 2026-10-31T14:13:41Z
 ---
 
 # wiki/linear-a/words/S
@@ -23,7 +23,7 @@ updated: 2026-10-29T14:19:38Z
 
 [[wiki/linear-a/words/S/SA_MA_RO|SA_MA_RO]]: Samarō: Samarō, personal name; compare Northwest Semitic √š-m-r and Egyptian smr. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SA_MA_TI|SA_MA_TI]]: Ṣamidi: personal name, 'Harnessed'(?); cf. Amorite Ṣamidum. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/S/SA_MA_TI|SA_MA_TI]]: Ṣamidi: personal name, 'Harnessed'; cf. Amorite Ṣamidum. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SA_MI_DA_E|SA_MI_DA_E]]: samidē: groats, semolina, processed grain. Lexicon, CANDIDATE (tier 2).
 
@@ -55,7 +55,7 @@ updated: 2026-10-29T14:19:38Z
 
 [[wiki/linear-a/words/S/SA_SA_ME|SA_SA_ME]]: šašamā: sesame (seed-spice commodity). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SA_SA_RA_ME|SA_SA_RA_ME]]: yaššaram: uprightly (= JA-SA-SA-RA-ME with JA- prefix dropped in Palaikastro dialect). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/S/SA_SA_RA_MI_broken_start|SA_SA_RA_MI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SA_TA|SA_TA]]: Šata: Šata (personal name, heading the second section); rival śadā '(those of) the field'. Lexicon, SPECULATIVE (tier 1).
 
@@ -115,7 +115,7 @@ updated: 2026-10-29T14:19:38Z
 
 [[wiki/linear-a/words/S/SI_NI|SI_NI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/S/SI_PI_KI|SI_PI_KI]]: sipkī: pourings, libation portions (wine administration term). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SI_PI_KI|SI_PI_KI]]: šipkī: pourings, libation portions (wine administration term). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SI_PU|SI_PU]]: Unread (role only): personal name; 1 occurrence(s).
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kamūna |
 | Meaning | cumin (Cuminum cyminum) |
 | Root | k-m-n |
+| Proto-Semitic | \*kamm-ūn- (#2696) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |

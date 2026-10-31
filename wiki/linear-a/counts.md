@@ -22,15 +22,15 @@ Every number on this page is computed from the data files.
 
 | Measure | Count |
 |---|---|
-| Translated inscriptions (complete) | 448 |
-| Translations incomplete | 73 |
+| Translated inscriptions (complete) | 447 |
+| Translations incomplete | 75 |
 | Corpus records | 1,719 |
 | Documents | 1,603 |
-| Lexicon entries | 607 |
+| Lexicon entries | 614 |
 | Resolved signs (syllabic + logogram) | 5 (2 + 3) |
 | Fraction values resolved | 3 |
-| Onomasticon entries | 338 |
-| Unread words listed | 400 |
+| Onomasticon entries | 352 |
+| Unread words listed | 398 |
 
 ## Documents against the published census
 
@@ -53,9 +53,9 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 | Confidence | Tier | Entries |
 |---|---|---|
 | CONFIRMED | 4 | 20 |
-| PROBABLE | 3 | 73 |
-| CANDIDATE | 2 | 244 |
-| SPECULATIVE | 1 | 270 |
+| PROBABLE | 3 | 70 |
+| CANDIDATE | 2 | 245 |
+| SPECULATIVE | 1 | 279 |
 
 ## Signs by status
 
@@ -69,20 +69,20 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 
 | Type | Entries |
 |---|---|
-| personal name | 236 |
-| title | 37 |
-| theonym | 30 |
-| toponym | 21 |
-| gentilic | 11 |
-| toponym gentilic | 3 |
+| personal name | 246 |
+| title | 40 |
+| theonym | 27 |
+| toponym | 23 |
+| gentilic | 12 |
+| toponym gentilic | 4 |
 
 ## Unread words by status
 
 | Status | Words | Meaning |
 |---|---|---|
-| edge overlap | 23 | a lexicon word sits at one edge; often a chance 2-sign overlap |
-| role only | 234 | classed by role only (onomasticon type or translation label), no reading |
-| unread | 143 | nothing known |
+| edge overlap | 22 | a lexicon word sits at one edge; often a chance 2-sign overlap |
+| role only | 229 | classed by role only (onomasticon type or translation label), no reading |
+| unread | 147 | nothing known |
 
 ## By site
 
@@ -90,17 +90,17 @@ Sites with ten or more records; every site is in [[wiki/linear-a/by_site|by site
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 329 | 345 |
-| Khania | 225 | 222 | 36 | 66 |
+| Haghia Triada | 1,111 | 1,053 | 329 | 347 |
+| Khania | 226 | 223 | 36 | 66 |
 | Phaistos | 66 | 48 | 9 | 38 |
-| Knossos | 58 | 52 | 12 | 39 |
-| Zakros | 53 | 40 | 5 | 88 |
+| Knossos | 57 | 51 | 12 | 44 |
+| Zakros | 53 | 40 | 5 | 87 |
 | Palaikastro | 25 | 25 | 10 | 36 |
 | Malia | 22 | 11 | 0 | 9 |
 | Thera | 19 | 18 | 2 | 4 |
 | Iouktas | 16 | 16 | 12 | 17 |
-| Arkhanes | 12 | 9 | 2 | 23 |
+| Arkhanes | 12 | 9 | 2 | 22 |
 | Syme | 12 | 12 | 6 | 16 |
-| Petras | 11 | 11 | 3 | 14 |
+| Petras | 11 | 11 | 3 | 15 |
 
 <!-- END kaphtor:record -->

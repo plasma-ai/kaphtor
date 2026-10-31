@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Widd-tiyāmu |
 | Meaning | Beloved of the Deep (title or name) |
 | Root | w-d-d + t-h-m |
+| Proto-Semitic | \*tihām- (#2765) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
@@ -50,6 +51,7 @@ PL Zf 1, a silver pin from beside Platanos Tholos A: \]TA · WI-TE-JA-MU · U-QE
 | Ugaritic | thm 'ocean', thmt 'Primordial Ocean' (DULAT 851); ydd il ġzr 'beloved of El, the hero' (DULAT 943) |
 | Hebrew | təhôm 'the Deep' (HALOT 1689) |
 | Akkadian | tâmtu, tiāmtu 'sea'; Tiāmat (CAD T 150) |
+| Eblaite | AB.A = ti-ʔà-ma-tum tihāmat 'sea' (GlOS 2, 292) |
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_ME
 title: "DA-ME"
-desc: "damu: blood (ritual allocation category); rival dimtu 'district'. Lexicon, SPECULATIVE (tier 1)."
+desc: "damu: blood (ritual allocation category); rival dam 'kinfolk'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "vocabulary"]
 kind: "word"
 form: "DA-ME"
@@ -32,27 +32,28 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | damu |
-| Meaning | blood (ritual allocation category); rival dimtu 'district' |
+| Meaning | blood (ritual allocation category); rival dam 'kinfolk' |
 | Root | d-m |
+| Proto-Semitic | \*dam-, \*ʾa-dam- (#156) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative_accounting |
 
 ### Note
 
-HT 95a/b and HT 86a: DA-ME with MI-NU-TE, always together, in the set SA-RU, KU-NI-SU, DI-DE-RU, QE-RA₂-U (QA-RA₂-WA on HT 86a). HT 120: DA-ME GRA+K+L 74, GRA+PA 62⅕, beside DA-U-\*49, KI-RE-TA-NA and PA-I-TO. PS \*dam- 'blood' (Ug. dm, Heb. dām, Akk. damu), which DA-ME spells: a ritual category drawing grain. Rival: Akk. dimtu 'tower; district' (CAD D 144–147), Ug. dmt 'tower' (DULAT 272), which fits the place names on HT 120 but needs DA for di and lacks the -t. Four attestations, all Haghia Triada.
+HT 95a/b and HT 86a: DA-ME with MI-NU-TE, always together, in the set SA-RU, KU-NI-SU, DI-DE-RU, QE-RA₂-U (QA-RA₂-WA on HT 86a). HT 120: DA-ME GRA+K+L 74, GRA+PA 62⅕, beside DA-U-\*49, KI-RE-TA-NA and PA-I-TO. Ug. dm, Heb. dām, Akk. damu 'blood', which DA-ME spells: a ritual category drawing grain. Rival: Old Syrian dam 'kinfolk' (GlOS 1, 147), a kin group drawing grain. Four attestations, all Haghia Triada. See \*118-MI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | dm 'blood' (Huehnergard 2012, glossary); dmt 'tower' (DULAT 272), rival |
+| Ugaritic | dm 'blood' (Huehnergard 2012, glossary) |
 | Hebrew | dām 'blood' |
-| Akkadian | damu 'blood' (CAD D 75); dimtu 'tower; fortified area; district' (CAD D 144–147), rival |
+| Akkadian | damu 'blood' (CAD D 75) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

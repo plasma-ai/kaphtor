@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥrš 2 (HALOT 357) | HALOT 357 |  |
 | Punic | ḥrt (T 115) | T 115 | gloss withheld |
 | Amharic | arräsä 2 |  |  |
-| Epigraphic South Arabian | Sab m-ḥrṯ-t 3 (Sabaweb lemma 4379) | Sabaweb lemma 4379 | gloss withheld |
+| Epigraphic South Arabian | Sab m-ḥrṯ-t 3 (Sabaweb lemma 4379); Qat. ḥrṯ 2 (Ricks 1982 s.v. ḥrṯ) | Sabaweb lemma 4379; Ricks 1982 s.v. ḥrṯ | gloss withheld |
 | Syrian Aramaic | ḥrt |  |  |
 | Gafat | arräsä 2 |  |  |
 | Tigrinya | ḥaräsä 2 |  |  |

@@ -52,6 +52,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 1642, root A. Ug. ṯql survives only in the noun: see 2704 \*šiql- 'shekel'. Distinct from the homonym B 'take, remove' (JArm. šᵉqal, Syr. šᵉqal, Mnd. ŠQL, Ug. šql; HALOT 1642).
+HALOT 1642, root A. Ug. ṯql survives only in the noun: see 2704 \*šiql- 'shekel'. Distinct from the homonym B 'take, remove' (JArm. šᵉqal, Syr. šᵉqal, Mnd. ŠQL, Ug. šql; HALOT 1642). Hajouz 2013, 717 reads VE 1184 ti-iš-tá-qì-lum as /tištaqilum/ 'balance' (Gt nominal form) or /tištaqqilum/ (Dt), where Krebernik 1983, 42 has /tiṯtaḳḳilum/.
 
 <!-- END kaphtor:record -->

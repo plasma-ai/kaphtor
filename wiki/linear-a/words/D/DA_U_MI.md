@@ -34,13 +34,20 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dawmi |
 | Meaning | the enduring one (personal name) |
 | Root | d-w-m |
+| Proto-Semitic | \*dVm-/\*dVwVm- (#1497) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
 
 ### Note
 
-Retained CANDIDATE name from DA-U-\*49: Dawmi, 'the enduring one,' compared with √d-w-m 'endure, remain,' Hebrew Dūmah and Assyrian Adummatu. The reading requires \*49 to carry the candidate syllabic value /mi/ and U to represent the medial glide /w/; neither step is independently settled. The sign's official semantic reading is PALM/TREE, with TAMIR its proposed Semitic lexical name, so an unresolved DA-U-PALM/TREE analysis remains available.
+Retained CANDIDATE name from DA-U-\*49: Dawmi, 'the enduring one,' compared with √d-w-m 'endure, remain,' Hebrew Dūmah and Assyrian Adummatu. The reading requires \*49 to carry the candidate syllabic value /mi/ and U to represent the medial glide /w/; neither step is independently settled. The sign's official semantic reading is PALM/TREE, with TAMIR its proposed Semitic lexical name, so an unresolved DA-U-PALM/TREE analysis remains available. See DU-ME-DI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Arabic | dāma, inf. n. dawm 'it continued, lasted, endured' (Lane 935) |
 
 ### Source
 

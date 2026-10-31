@@ -40,13 +40,13 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐝫
-2. \*22F 2
+2. \]\*22F 2
 3. \*21F 1
-4. DU-RI \*22M 1
+4. \]-DU-RI \*22M 1
 5. TU-\[
-6. NE-\*22M 1
+6. \]NE-\*22M 1
 7. \*22F 5
-8. TE-RI \*21M
+8. TE-RI \*21M\[
 9. 1
 10. \[?\]-RU-MA-TI \*21M
 11. SUS+SI\[

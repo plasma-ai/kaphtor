@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/m
 desc: "Semitic roots whose first radical is m."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T00:24:55Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/m
@@ -93,7 +93,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/m/1977_sinew_tendon|1977_sinew_tendon]]: Proto-Semitic *matn-, 'sinew, tendon': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/m/1978_hip_loin_flesh_of_the_back|1978_hip_loin_flesh_of_the_back]]: Proto-Semitic *ma/utn-, 'hip, loin; flesh of the back': reflexes in 11 language(s).
+[[wiki/semitic-roots/m/1978_hip_loin_flesh_of_the_back|1978_hip_loin_flesh_of_the_back]]: Proto-Semitic *ma/utn-, 'hip, loin; flesh of the back': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/m/207_suck|207_suck]]: Proto-Semitic *mVlag-/*mVlug-, 'suck': reflexes in 2 language(s).
 
@@ -117,7 +117,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/m/2406_earth|2406_earth]]: Proto-Semitic *mar-, 'earth': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/m/2407_kind_type|2407_kind_type]]: Proto-Semitic *min-, 'kind, type': reflexes in 2 language(s).
+[[wiki/semitic-roots/m/2407_kind_type|2407_kind_type]]: Proto-Semitic *min-, 'kind, type': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/m/2437_herd_rich_in_cattle_booty_bride_prize|2437_herd_rich_in_cattle_booty_bride_prize]]: Proto-Semitic *mawl- ~ *mVly-at-, 'herd, rich in cattle; booty; bride-prize': reflexes in 6 language(s).
 
@@ -203,7 +203,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/m/3217_broth|3217_broth]]: Proto-Semitic *maraḳ-, 'broth': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/m/3218_from_1_than_2|3218_from_1_than_2]]: Proto-Semitic *min, 'from' 1, 'than' 2: reflexes in 7 language(s).
+[[wiki/semitic-roots/m/3218_from_1_than_2|3218_from_1_than_2]]: Proto-Semitic *min, 'from' 1, 'than' 2: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/m/3225_excellence|3225_excellence]]: Proto-Semitic *magd-, 'excellence': reflexes in 3 language(s).
 
@@ -264,6 +264,14 @@ updated: 2026-10-29T00:24:55Z
 [[wiki/semitic-roots/m/3756_to_macerate_steep_preserved_marinated|3756_to_macerate_steep_preserved_marinated]]: Proto-Semitic *mḳr, 'to macerate, steep; preserved, marinated': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/m/3769_to_draw_out|3769_to_draw_out]]: Proto-Semitic *mšy, 'to draw out': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3776_bestow_grant_a_favour_1_favour_benefit_2|3776_bestow_grant_a_favour_1_favour_benefit_2]]: Proto-Semitic *mVnn-, 'bestow, grant a favour' 1, 'favour, benefit' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/3794_when_q_interrogative_adverb|3794_when_q_interrogative_adverb]]: Proto-Semitic *matay, 'when?' (interrogative adverb): reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/3797_enclitic_topicalizing_and_emphatic_particle|3797_enclitic_topicalizing_and_emphatic_particle]]: Proto-Semitic *=ma, enclitic topicalizing and emphatic particle: reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/3858_to_despise_reject|3858_to_despise_reject]]: Proto-Semitic *mʾs, 'to despise, reject': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/m/386_knife|386_knife]]: Proto-Semitic *mVdy-, 'knife': reflexes in 1 language(s).
 
@@ -335,7 +343,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/m/946_weak_suffering_pain|946_weak_suffering_pain]]: Proto-Semitic *marih-, 'weak, suffering pain': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/K0145_shield|K0145_shield]]: Proto-Semitic *mVgVn-, 'shield': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/K0145_shield|K0145_shield]]: Proto-Semitic *mVgVn-, 'shield': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/K0148_pull|K0148_pull]]: Proto-Semitic *mVlVḫ-, 'pull': reflexes in 7 language(s).
 
@@ -373,11 +381,11 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/m/K0178_small|K0178_small]]: Proto-Semitic *mVṭVʾ-, 'small': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/K0179_compare_1_saying_proverb_2|K0179_compare_1_saying_proverb_2]]: Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 14 language(s).
+[[wiki/semitic-roots/m/K0179_compare_1_saying_proverb_2|K0179_compare_1_saying_proverb_2]]: Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 15 language(s).
 
 [[wiki/semitic-roots/m/K0180_wipe|K0180_wipe]]: Proto-Semitic *mVṯVṯ-, 'wipe': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/S100_hundred|S100_hundred]]: Proto-Semitic *mʾt, 'hundred': reflexes in 21 language(s).
+[[wiki/semitic-roots/m/S100_hundred|S100_hundred]]: Proto-Semitic *mʾt, 'hundred': reflexes in 22 language(s).
 
 [[wiki/semitic-roots/m/S110_to_squash_to_hit_on_the_head|S110_to_squash_to_hit_on_the_head]]: Proto-Semitic *marāsu, 'to squash / to hit on the head': reflexes in 1 language(s).
 

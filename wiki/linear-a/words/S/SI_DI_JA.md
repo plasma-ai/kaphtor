@@ -39,11 +39,18 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Probable personal name in the damaged HT126a administrative list, immediately followed by 1. Ugaritic alphabetic śdy is attested as a PN in šmbʿl bn śdy (BAH 214, 7, o 14), and syllabic {m}ša-di-ia occurs at Ugarit in RS 15.0173, r. 2′. The first-vowel difference prevents treating the syllabic spelling as identical, but the consonantal and onomastic agreement is strong. It is not 'of Shaddai'; the Semitic field/estate root remains a lexical rival, not the name's etymology.
+Probable personal name in the damaged HT126a administrative list, immediately followed by 1. Ugaritic alphabetic śdy is attested as a PN in šmbʿl bn śdy (BAH 214, 7, o 14), and syllabic {m}ša-di-ia occurs at Ugarit in RS 15.0173, r. 2′. Ugarit also writes it ši-DI-ia (PRU 6 78:4, 16), SI-DI-JA sign for sign, and DULAT files both spellings under šdy (II) (DULAT 799). Kiš has ša-di-ia as a name too (de Boer 2014, 401).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | šdy (II) PN, syllabic ši-DI-ia, PRU 6 78 (RS 19.41):4, 16, and ša-TI-ya, PRU 3 40 (RS 15.173) rev. 2 (DULAT 799) |
+| Akkadian | Šadīya, a personal name at Kiš (de Boer 2014, 401) |
 
 ### Source
 
-GORILA I 217; ORACC aemw/ugarit P521356.17.3 (BAH 214, 7, o 14); P503354.14.2 (RS 15.0173, r. 2′)
+GORILA I 217; ORACC aemw/ugarit P521356.17.3 (BAH 214, 7, o 14); P503354.14.2 (RS 15.0173, r. 2′); de Boer 2014
 
 ## Attestations
 

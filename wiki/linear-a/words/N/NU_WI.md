@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/N/NU_WI
 title: "NU-WI"
-desc: "nōwē / nwē: (man) of the encampment, herdsman?—qualifier after a personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "nōwē / nwē: steppe-dweller, (man) of the encampment—qualifier after a personal name. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "title"]
 kind: "word"
 form: "NU-WI"
@@ -32,28 +32,30 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | nōwē / nwē |
-| Meaning | (man) of the encampment, herdsman?—qualifier after a personal name |
+| Meaning | steppe-dweller, (man) of the encampment—qualifier after a personal name |
 | Root | n-w-y |
+| Proto-Semitic | \*nwy (#3654) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-HT115b TI-NU-JA · NU-WI · GRA ½; HT115a RI-TA-MA / NU-WI 2 (line break on the GORILA facsimile). Two recipients, one scribe (Scribe 8), under a GRA+BOSm (grain + cattle) heading. No NO, WE or WO signs: NU-WI covers nō-wē and a cluster nw- (cf. Linear B pe-ru-si-nu-wo perusinwos, ke-se-nu-wi-ja ksenwia). Needs ā→ō (participle nōwē) or first-vowel reduction (construct nᵊwē). Rivals: (ʿa)nwī 'the humble, dependent' √ʿ-n-w (Hebrew ʿānāw, Ugaritic ʿnw), with initial ʿa- lost as in A-PA-RA-NE/PA-RA-NE; a patronymic '(son of) Nuwī' (Arabian PN nwy, Harding 1971: 604). Rejected: Hurrian genitive -we/-wi (NU-WI stands as a word on HT115b).
+HT115b TI-NU-JA · NU-WI · GRA ½; HT115a RI-TA-MA / NU-WI 2 (line break on the GORILA facsimile). Two recipients, one scribe (Scribe 8), under a GRA+BOSm (grain + cattle) heading: two men carry it, so it names a class, as LÚ na-mu-ú 'steppe-dweller' at Ugarit. On HT115a the copie tabulaire joins RỊ-TẠ-MẠ-NU-WI; GORILA's note on .2 allows the divider (GORILA I 189). No NO, WE or WO signs: NU-WI covers nō-wē and a cluster nw- (cf. Linear B pe-ru-si-nu-wo perusinwos, ke-se-nu-wi-ja ksenwia). Every cuneiform witness keeps a in the first syllable (Akkadian na-wu-um, na-we-e-em, Ugarit na-mu-ú, GlOS 2, 116; Amorite NA-WI-E), which Linear A writes NA-WI: NU-WI needs ā→ō (participle nōwē, unattested) or a lost first vowel (construct nᵊwē). Rival: a patronymic '(son of) Nuwī' (Arabian PN nwy, Harding 1971: 604), which needs the two men to be brothers. Rival: Egyptian nw 'hunter; scout', a title (Wb 2, 218.19–21), still in the New Kingdom: nw n tꜣ ḫꜣs.t 'hunter of the desert' (pKoller, pAnastasi; ORAEC 313, 360). See \*301 and I-NA-WA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | NW \*naw(u)-, \*nawiy- 'steppe; encampment (man and beast)'; Mari nawûm, feminine (Huffmon APNM p. 237) |
+| Amorite | NW \*naw(u)-, \*nawiy- 'steppe; encampment (man and beast)'; Mari nawûm, feminine (Huffmon APNM p. 237); BU-NU-NA-WI-E (Gelb 1980, no. 1342) |
+| Akkadian (Ugarit, Alalakh) | LÚ na-mu-ú 'steppe-dweller' (Ugarit), ERÍN.MEŠ na-me-e (Alalakh IV), personnel terms (GlOS 2, 116) |
 | Hebrew | נָוֶה nāweh 'pasture, abode'; construct נְוֵה nᵊwēh, as נְוֵה רֹעִים 'abode of shepherds' (Jer 33:12) |
 | Akkadian | nawû / namû 'pasturage; flocks; steppe' (ORACC CAMS/GKAB) |
 | Sabaic | nwy 'watering place; channel' (Biella 1982: 297) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; GlOS 2; Wb 2; ORAEC
 
 ## Attestations
 
@@ -66,7 +68,8 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | nōwē | (man) of the encampment, herdsman (qualifier after a personal name) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | nōwē | steppe-dweller, (man) of the encampment (qualifier after a personal name), 2 | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | nōwē | steppe-dweller, (man) of the encampment (qualifier after a personal name) | SPECULATIVE |
 
 ## Onomasticon
 
@@ -86,6 +89,6 @@ Qualifier after a personal name: HT115a RI-TA-MA / NU-WI 2; HT115b TI-NU-JA · N
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/G/GRA|GRA]], GRA+BOSm, [[wiki/linear-a/words/R/RI_TA_MA|RI-TA-MA]], [[wiki/linear-a/words/T/TI_NU_JA|TI-NU-JA]] Ṯaniya.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/G/GRA|GRA]], GRA+BOSm, [[wiki/linear-a/words/R/RI_TA_MA|RI-TA-MA]] Ritmā, [[wiki/linear-a/words/T/TI_NU_JA|TI-NU-JA]] Ṯinuya.
 
 <!-- END kaphtor:record -->

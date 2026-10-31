@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | lhb \[-a-\] 3 |  |  |
+| Arabic | lhb \[-a-\] 3; lahab 1; lahabān (Tāj 4:227) | Tāj 4:227 | gloss withheld |
 | Akkadian | laʔbu 1, 2 |  |  |
 | Geez | lhb 3 |  |  |
 | Hebrew | lahab, lähābā 1, lhb 3; šalhebet 1 (HALOT 1504) | HALOT 1504 | gloss withheld |

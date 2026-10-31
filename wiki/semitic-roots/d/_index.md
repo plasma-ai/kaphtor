@@ -2,14 +2,14 @@
 name: wiki/semitic-roots/d
 desc: "Semitic roots whose first radical is d."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T22:08:35Z
+updated: 2026-10-31T13:29:00Z
 ---
 
 # wiki/semitic-roots/d
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/d/1062_hunt_v|1062_hunt_v]]: Proto-Semitic *dVhVr-, 'hunt (v.)': reflexes in 1 language(s).
+[[wiki/semitic-roots/d/1062_dash_gallop|1062_dash_gallop]]: Proto-Semitic *dVhVr-, 'dash, gallop': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/d/1063_push|1063_push]]: Proto-Semitic *dVp-, 'push': reflexes in 3 language(s).
 
@@ -73,7 +73,7 @@ updated: 2026-10-28T22:08:35Z
 
 [[wiki/semitic-roots/d/1657_be_weak|1657_be_weak]]: Proto-Semitic *dVwVn-, 'be weak': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/1658_speak|1658_speak]]: Proto-Semitic *dVbVb-, 'speak': reflexes in 1 language(s).
+[[wiki/semitic-roots/d/1658_speak|1658_speak]]: Proto-Semitic *dVbVb-, 'speak': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/d/1659_grind_to_a_powder|1659_grind_to_a_powder]]: Proto-Semitic *dug-, 'grind (to a powder)': reflexes in 2 language(s).
 
@@ -193,7 +193,7 @@ updated: 2026-10-28T22:08:35Z
 
 [[wiki/semitic-roots/d/263_mule|263_mule]]: Proto-Semitic *damdam-, 'mule': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/d/2661_to_pursue_to_burn_kindle|2661_to_pursue_to_burn_kindle]]: Proto-Semitic *dalaḳ-, 'to pursue; to burn/kindle': reflexes in 3 language(s).
+[[wiki/semitic-roots/d/2661_to_pursue_to_burn_kindle|2661_to_pursue_to_burn_kindle]]: Proto-Semitic *dalaḳ-, 'to pursue; to burn/kindle': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/d/2737_honey|2737_honey]]: Proto-Semitic *dVbš-, 'honey': reflexes in 15 language(s).
 
@@ -237,7 +237,7 @@ updated: 2026-10-28T22:08:35Z
 
 [[wiki/semitic-roots/d/3009_be_extinguished|3009_be_extinguished]]: Proto-Semitic *dVʕVk-, 'be extinguished': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/d/3059_bury_cover_up|3059_bury_cover_up]]: Proto-Semitic *dpn, 'bury, cover up': reflexes in 10 language(s).
+[[wiki/semitic-roots/d/3059_bury_cover_up|3059_bury_cover_up]]: Proto-Semitic *dpn, 'bury, cover up': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/d/3085_to_rise_sun|3085_to_rise_sun]]: Proto-Semitic *dnḥ, 'to rise (sun)': reflexes in 3 language(s).
 
@@ -260,6 +260,12 @@ updated: 2026-10-28T22:08:35Z
 [[wiki/semitic-roots/d/3723_to_guide_show_the_way|3723_to_guide_show_the_way]]: Proto-Semitic *dll, 'to guide, show the way': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/d/3749_to_flee_withdraw_to_a_distance|3749_to_flee_withdraw_to_a_distance]]: Proto-Semitic *dḥl, 'to flee, withdraw to a distance': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/d/3774_to_become_effaced_obliterated_1_to_become_old_2|3774_to_become_effaced_obliterated_1_to_become_old_2]]: Proto-Semitic *dṯr, 'to become effaced, obliterated' 1, 'to become old' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/d/3785_aurochs_antelope|3785_aurochs_antelope]]: Proto-Semitic *dīšān- {} *ditān-, 'aurochs, antelope': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/d/3809_seek_inquire_1_study_interpret_2|3809_seek_inquire_1_study_interpret_2]]: Proto-Semitic *drš, 'seek, inquire' 1, 'study, interpret' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/d/39_nursing_mother|39_nursing_mother]]: Proto-Semitic *dad-, 'nursing mother': reflexes in 4 language(s).
 

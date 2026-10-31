@@ -38,7 +38,7 @@ updated: 2026-10-25T06:28:07Z
 | Phoenician | lbn (T 155) | T 155 | gloss withheld |
 | Jibbali | lūn (Kogan 2015, ch. 8 §3.2.2.1 no. 97) | Kogan 2015 ch. 8 §3.2.2.1 no. 97 |  |
 | Hebrew | lābān; libneh (HALOT 518) | HALOT 518 | gloss withheld |
-| Epigraphic South Arabian | lbnt (HALOT 518); Sab lbny (SD 81) | HALOT 518; SD 81 | gloss withheld |
+| Epigraphic South Arabian | lbnt (HALOT 518); Sab lbny (SD 81); Qat. lbny (Ricks 1982 s.v. lbny) | HALOT 518; SD 81; Ricks 1982 s.v. lbny | gloss withheld |
 | Mandaic Aramaic | lubana (HALOT 518) | HALOT 518 | gloss withheld |
 | Tigre | lebān (HALOT 518) | HALOT 518 | gloss withheld |
 | Amorite | lbn: labanum, labnum, labbinum (Gelb AS 21, 24); labbīnu (Buck 2019, 329); labn, laban: la-ab-nu-um, la-ba-an, la-ba-NE-rí-iš (Ur III) (Sanmartín GlOS 2, 9) | Gelb AS 21 24; Buck 2019, 329; Sanmartín GlOS 2, 9 | gloss withheld |

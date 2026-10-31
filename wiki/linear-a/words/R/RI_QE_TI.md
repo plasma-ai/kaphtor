@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | riqitt- |
 | Meaning | dance (√r-q-d); rival raqqitt- 'female dancer' |
 | Root | r-q-d |
+| Proto-Semitic | \*raḳad- (#492) |
 | Language layer | NWS |
 | Category | unknown |
 | Semantic field | unknown |

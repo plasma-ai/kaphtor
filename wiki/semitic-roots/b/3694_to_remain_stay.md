@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3694_to_remain_stay
 title: "*bḳy: 'to remain, stay'"
-desc: "Proto-Semitic *bḳy, 'to remain, stay': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bḳy, 'to remain, stay': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3694"
@@ -29,6 +29,7 @@ updated: 2026-10-26T17:41:55Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | báyḳi (Rubin 2018 134) | Rubin 2018 134 | gloss withheld |
 | Arabic | baqiya 'he, or it, remained, continued, lasted, endured'; ʾabqāhu 'he made, or caused, him, or it, to remain' (Lane 237) | Lane 237 |  |
 | Punic | Neo-Punic tbqy (Krahmalkov 124) (T 53) | Krahmalkov 124; T 53 | gloss withheld |
 

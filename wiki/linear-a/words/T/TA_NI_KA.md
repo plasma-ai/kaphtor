@@ -42,6 +42,14 @@ updated: 2026-10-24T16:17:50Z
 
 HT Wc 3004 and HT Wc 3005, two roundels by one scribe, each reading TA-NI-KA with SE (GORILA II 73): one context. Taanach is Hebrew Taʿnak (HALOT 1770; Josh 12:21; 17:11; 21:25; Judg 1:27) and Amarna URU Taḫnaka, EA 248:14, 'perhaps biblical Taanach' (Moran 1992, index). ʿ is unwritten, NI writes the a, and a Canaanite town on Haghia Triada roundels is unexplained. Rival: a local personal name.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | Taʿnak 'Taanach', melek taʿnak ʾeḥād 'the king of Taanach, one' (Josh 12:21; HALOT 1770) |
+| Akkadian | {uru}Ta-aḫ-n\[a-k\]a, Amarna, EA 248:14 (RGTC 12/2, 281, s.v. \*Taʿannaku) |
+| Egyptian | Tʿnk in the Thutmose III list, Urk IV 650:10 (RGTC 12/2, 281) |
+
 ### Source
 
 Moran 1992, EA 248:14; di Mino

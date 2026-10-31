@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_JA
 title: "PA-JA"
-desc: "Pay: personal name; Egyptian Pꜣjj, the first element of PA-JA-RE. Lexicon, SPECULATIVE (tier 1)."
+desc: "Pay: personal name; Egyptian pꜣ.jj, the first element of PA-JA-RE. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "PA-JA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Pay |
-| Meaning | personal name; Egyptian Pꜣjj, the first element of PA-JA-RE |
+| Meaning | personal name; Egyptian pꜣ.jj, the first element of PA-JA-RE |
 | Language layer | Middle Egyptian |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -40,6 +40,12 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT 41a .4 MI-DA-NI · PA-JA 2 and two fraction signs, both signs whole and undotted, the last line of the face (GORILA I 79). Egyptian Pꜣjj is a common name, borne under Thutmose III and Amenhotep II among others (PNM v6, s.v. pꜣjj); PA-JA-RE (HT 8b, 29, 88, ZA 10b) reads Pꜣjj-Rꜥ with the same JA. Egyptian two-consonant names are many, so the match rests on the identity with PA-JA-RE. Rival: a Semitic hypocoristic. Two signs; one attestation.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | pꜣ.jj, a name borne by men and women, late 12th–18th Dynasty before Amenhotep IV (PNM v6, personal_names_id 142610149; Ranke I, 129.4) |
 
 ### Source
 

@@ -80,16 +80,19 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt(ē) | CANDIDATE |
+| [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA2_TI_TE\|TA₂-TI-TE]] | Tati-te | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_star301\|TE-\*301]] | Tēnā | CANDIDATE |
-| [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Tayru | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Teyar | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_KI\|TE-KI]] | Tegi | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_MU_SA_SE\|TE-MU-SA-SE]] | temussasē | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_RI\|TE-RI]] | tēri | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] | Tetu | SPECULATIVE |
-| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-lēwīt | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_TE_JA_MU\|WI-TE-JA-MU]] | Widd-tiyāmu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

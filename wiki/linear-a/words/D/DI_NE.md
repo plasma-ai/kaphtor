@@ -34,6 +34,7 @@ updated: 2026-10-28T13:27:44Z
 | Reading | dīn |
 | Meaning | judgment (name element) |
 | Root | d-y-n |
+| Proto-Semitic | \*dyn- (#S36) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4): dī-n, the final vowel
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*dyn- 'to judge; judgment' (semitic_roots no. S36) |
 | Ugaritic | dn 'judgment, case, sentence' (DULAT 273); the last element of ảwldn, ỉldn, bʕldn (DULAT 128, 52, 207) |
 | Linear A | DI-NI Dīnī, DI-RE-DI-NA ʾaddir-dīnā |
 

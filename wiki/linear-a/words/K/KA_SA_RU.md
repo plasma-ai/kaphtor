@@ -34,17 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Qaṣṣāru |
 | Meaning | Qaṣṣāru 'Fuller' (personal name); compare Linear B ka-sa-ro; rival Kaṣṣāru 'donkey driver' |
 | Root | q-ṣ-r |
+| Proto-Semitic | \*ḳaṣṣār- (#3782) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 10b .3 KA-SA-RU 6, a personnel entry on a face written over an erasure; the three signs are clear (GORILA I 21). Ebla ga-za-ru₁₂, read /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980), sign for sign with its vowels. Linear B ka-sa-ro is a man's name at Knossos (KN C(2) 912.8, Dv 1450), with no Greek interpretation; final -RU against Linear B -ro, as I-TA-NU against u-ta-no. Ugarit has DUMU ka-ša₂-ri (ORACC P503760). Rivals: Kaṣṣāru 'donkey driver'; Amorite Kašerum (Gelb 1980, no. 4000), √kṯr (semitic_roots no. 3548), which needs S for ṯ, against KA-TA-RE. One attestation.
+HT 10b .3 KA-SA-RU 6, a personnel entry on a face written over an erasure; the three signs are clear (GORILA I 21). Ebla ga-za-ru₁₂, read /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980), sign for sign with its vowels; Sanmartín files ga-za-ru₁₂ under q-ṣ-r 'to be short' (GlOS 1, 355). Linear B ka-sa-ro is a man's name at Knossos (KN C(2) 912.8, Dv 1450), with no Greek interpretation; final -RU against Linear B -ro, as I-TA-NU against u-ta-no. Ugarit has DUMU ka-ša₂-ri (ORACC P503760). Rivals: Kaṣṣāru 'donkey driver'; Amorite Kašerum (Gelb 1980, no. 4000), √kṯr (#3548), which needs S for ṯ, against KA-TA-RE. One attestation.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | ga-za-ru₁₂, a personal name, read /qaṣṣāru/ 'fuller' or /kaṣṣāru/ 'donkey driver' (Pagan 1998, rows 1979–1980) |
+| Arabic | qaṣṣār 'one who beats and washes and whitens clothes' (Lane 2535); qaṣṣara 'he beat, washed, and whitened the cloth' (Lane 2534) |
+| Syriac | qāṣrā 'fuller' (HALOT 819, s.v. ʿên rōgēl 'spring of the fuller') |
+| Linear B | ka-sa-ro, a man at Knossos, KN C(2) 912, Dv 1450 |
 
 ### Source
 
-KN C(2) 912.8; KN Dv 1450; di Mino; Pagan 1998
+KN C(2) 912.8; KN Dv 1450; di Mino; Pagan 1998; GlOS 1
 
 ## Attestations
 

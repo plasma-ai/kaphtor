@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾippina=ma |
 | Meaning | in the presence of |
 | Root | p-n-y |
+| Proto-Semitic | \*pan- (#144) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | body_part |
 
 ### Note
 
-Four complete attestations occur at three peak-sanctuary sites (Iouktas, Kophinas, Vrysinas), with damaged sequences at Troullos (TLZa1 \[…\]NA-MA) and Apodoulou and only I-PI\[ preserved at the broken end of PKZa8. The PKZa8 fragment supports membership in this formula family by position but does not attest a complete standalone I-PI or the restoration I-PI-NA-MA by itself. In APZa2, I-PI-NA-MA reaches a broken edge and no following divider is preserved; it therefore supports recurrence of the sequence but not its completeness or complement there. Skeleton pnm compares with Hebrew pānīm and Ugaritic pnm 'face, presence.' Biblical cultic language pairs approach before the divine presence with acceptance (Lev 1:3–4; Ps 19:15; Mal 1:8), providing a structural comparison for I-PI-NA-MA beside the proposed √r-ṣ-y verb in the fuller formula. The precise preposition and vowels remain reconstructed. PI writes pin- against Hebrew pānīm and Akkadian pānu: one root, a different vowel, as the cognate languages show among themselves, e.g. PS #3001 \*zVrVḳ- 'blue, bright (of the eyes)', Akkadian zarriqu (CAD Z 69), Syriac zārqā (Payne Smith 121), Arabic zurqa, azraq. Hebrew shifted \*a &gt; \*i more than once (Suchard 2016, 189). The noun's own vowel varies: Punic writes Tinnit's epithet pn bʿl as Θινιθ-Φανεβαλ and Θεννειθ-Φενηβαλ (Krahmalkov 2000, 398, 495), and SED reconstructs \*yad- 'hand', of the same noun pattern as \*pan-, 'with a variant \*id- … probably for PS too' (SED I, p. CXXX). Davis 2026 instead proposes the functional gloss 'a favor/blessing' (in Salgarella & Petrakis eds., The Wor(l)ds of Linear A, pp. 43–60).
+Four complete attestations occur at three peak-sanctuary sites (Iouktas, Kophinas, Vrysinas), with damaged sequences at Troullos (TLZa1 \[…\]NA-MA) and Apodoulou and only I-PI\[ preserved at the broken end of PKZa8. The PKZa8 fragment supports membership in this formula family by position but does not attest a complete standalone I-PI or the restoration I-PI-NA-MA by itself. In APZa2, I-PI-NA-MA reaches a broken edge and no following divider is preserved; it therefore supports recurrence of the sequence but not its completeness or complement there. Skeleton pnm compares with Hebrew pānīm and Ugaritic pnm 'face, presence.' Biblical cultic language pairs approach before the divine presence with acceptance (Lev 1:3–4; Ps 19:15; Mal 1:8), providing a structural comparison for I-PI-NA-MA beside the proposed √r-ṣ-y verb in the fuller formula. PI writes pin- against Hebrew pānīm and Akkadian pānu: one root, a different vowel, as the cognate languages show among themselves, e.g. \*zVrVḳ- (#3001) 'blue, bright (of the eyes)', Akkadian zarriqu (CAD Z 69), Syriac zārqā (Payne Smith 121), Arabic zurqa, azraq. Hebrew shifted \*a &gt; \*i more than once (Suchard 2016, 189). The noun's own vowel varies: Punic writes Tinnit's epithet pn bʿl as Θινιθ-Φανεβαλ and Θεννειθ-Φενηβαλ (Krahmalkov 2000, 398, 495), and SED reconstructs \*yad- 'hand', of the same noun pattern as \*pan-, 'with a variant \*id- … probably for PS too' (SED I, p. CXXX). Davis 2026 instead proposes the functional gloss 'a favor/blessing' (in Salgarella & Petrakis eds., The Wor(l)ds of Linear A, pp. 43–60). See PI-\*310-A.
 
 ### Cognates
 
@@ -50,10 +51,12 @@ Four complete attestations occur at three peak-sanctuary sites (Iouktas, Kophina
 | Ugaritic | pnm 'face, presence' (DULAT 664); pn ilm 'face of the gods' in ritual texts |
 | Akkadian | pānu 'face, front, presence' (CAD P 92); ina pāni 'before, in the presence of' |
 | Arabic | fanā' (فناء) 'courtyard, forecourt'; related to approaching a presence |
+| Amarna Canaanite | pa-ni-mu /panīmū &lt; paniy=humu/ 'before them' (Moran: 'before him'), 'face' as a preposition (GlOS 2, 130) |
+| Eblaite | ba-na-ù /panwū/ 'face', ba-nu 'front' (GlOS 2, 130) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

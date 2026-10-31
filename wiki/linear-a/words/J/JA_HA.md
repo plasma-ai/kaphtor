@@ -34,20 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yāh(a) |
 | Meaning | Yāh, divine name; deity receiving offerings alongside Baal on HT28b |
 | Root | y-h-w |
+| Proto-Semitic | \*yah- (#3790) |
 | Language layer | NWS |
 | Semantic field | divine |
 
 ### Note
 
-Corpus form JA-\*21F; \*21F = HA (/h/, /ḫ/). HT28b: recipient of VIN 6, between PU-RA₂ (Baal, NI 6) and WI-DI-NA (OLE+DI 3 VIN 3¼), as in Ugaritic offering lists (KTU 1.39, 1.41). HT28a: heads its own commodity list after A-SI-JA-KA. Rival: a ya- verbal form of a /h/ root.
+Corpus form JA-\*21F; \*21F = HA (/h/, /ḫ/). HT28b: recipient of VIN 6, between PU-RA₂ (Baal, NI 6) and WI-DI-NA (OLE+DI 3 VIN 3¼), as in Ugaritic offering lists (KTU 1.39, 1.41). HT28a: heads its own commodity list after A-SI-JA-KA. Rival: a ya- verbal form of h-w-y, the Amorite name type Yahwiy-ʾIl, Yahwiy-Haddu (Gelb 1980, nos. 2871, 3593). DULAT 980 keeps Ugaritic yw apart from Hebrew yh.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | יָהּ Yāh (Ex 15:2 ʿozzī wə-zimrāt Yāh; Ps 68:5 bə-Yāh šemō; Ex 17:16 kēs Yāh) |
+| Ugaritic | yw, a name of the god Yam: šm bny yw 'the name of my son is yw' (KTU 1.1 IV 14; DULAT 980) |
 | Egyptian | tꜣ šꜣsw yhwꜣ 'land of the Shasu of YHW' (Soleb, Amenhotep III c. 1390 BCE; Amarah West, Ramesses II) |
-| Elephantine | yhw (5th c. BCE papyri, consistent trigrammatic form) |
+
+### Source
+
+di Mino; Gelb 1980; DULAT
 
 ## Attestations
 

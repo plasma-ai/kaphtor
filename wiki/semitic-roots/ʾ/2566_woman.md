@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2566_woman
 title: "*ʾanṯ-at-: 'woman'"
-desc: "Proto-Semitic *ʾanṯ-at-, 'woman': reflexes in 20 language(s)."
+desc: "Proto-Semitic *ʾanṯ-at-, 'woman': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2566"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | tēṯ; yǝnīṯ (Rubin 2018 91, 99) | Rubin 2018 91, 99 | gloss withheld |
 | Tigre | ʔǝssit (Kogan 2015, ch. 1 §1.3 no. 99) | Kogan 2015 ch. 1 §1.3 no. 99 |  |
 | Mandaic Aramaic | ant- |  |  |
 | Ugaritic | ʔaṯt (Kogan 2015, ch. 5 §2.2.1 no. 99) | Kogan 2015 ch. 5 §2.2.1 no. 99 |  |
@@ -49,7 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | ənəst (Kogan 2015, ch. 1 §1.3 no. 99) | Kogan 2015 ch. 1 §1.3 no. 99 | gloss withheld |
 | East Ethiopic | SEL ZWY ənnəst, Wol ənəst (Kogan 2015, ch. 1 §1.3 no. 99) | Kogan 2015 ch. 1 §1.3 no. 99 | gloss withheld |
 | Harari | ənəsti (Kogan 2015, ch. 1 §1.3 no. 99) | Kogan 2015 ch. 1 §1.3 no. 99 | gloss withheld |
-| Eblaitic | ù-nu-sum (EV 0221; Krebernik 1983: 45–46, Fronzaroli 1984: 151 apud SEDonline 101) | Krebernik 1983: 45–46, Fronzaroli 1984: 151; SEDonline 101 | gloss withheld |
+| Eblaitic | ù-nu-sum (EV 0221; Krebernik 1983: 45–46, Fronzaroli 1984: 151 apud SEDonline 101); ù-nu-sum /ʾunūṯum/ (= Sum. nam-munus, MEE 4 86 obv. I 1–2) (EV 0221; Bonechi 2008, 11, 16) | EV 0221; Krebernik 1983: 45–46, Fronzaroli 1984: 151; SEDonline 101; MEE 4 86; Bonechi 2008, 11, 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

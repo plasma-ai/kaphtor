@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾammāwāṣī |
 | Meaning | Strong One (El epithet) |
 | Root | ʾ-m-ṣ |
+| Proto-Semitic | \*ʾVmVṣ- (#3778) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |

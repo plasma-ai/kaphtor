@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kumru |
 | Meaning | priest(s) (personnel category, ligatured onset abbreviation) |
 | Root | k-m-r |
+| Proto-Semitic | \*kumir- (#48) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | personnel |
@@ -42,9 +43,18 @@ updated: 2026-10-24T16:17:50Z
 
 Two-sign onset abbreviation of kumru (√k-m-r). No complete √k-m-r spelling survives: HT 96a has \]KU-MA-RO, broken before KU, and HT 24a KỊ-MA+RU\[. Category label on personnel registers; meets full-spelling/abbreviation complementary distribution criterion.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | gúm-ri-im 'priest' (GlOS 1, 309) |
+| Mari | ku-mu-ur, ku-um-rum 'priest' (GlOS 1, 309) |
+| Emar | kà-ma-ru, ku-ma-ri 'priests' (Pentiuc 2001, 95; GlOS 1, 309) |
+| Hebrew | kōmer, pl. kəmārîm 'priests' (2 Kgs 23:5) |
+
 ### Source
 
-di Mino
+di Mino; Pentiuc 2001; GlOS 1
 
 ## Attestations
 

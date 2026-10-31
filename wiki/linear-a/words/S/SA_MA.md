@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šamm- |
 | Meaning | herb, aromatic plant (commodity term in allocation lists) |
 | Root | š-m-m |
+| Proto-Semitic | \*samm- (#2409) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |

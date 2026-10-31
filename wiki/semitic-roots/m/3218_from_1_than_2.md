@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3218_from_1_than_2
 title: "*min: 'from' 1, 'than' 2"
-desc: "Proto-Semitic *min, 'from' 1, 'than' 2: reflexes in 7 language(s)."
+desc: "Proto-Semitic *min, 'from' 1, 'than' 2: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3218"
@@ -36,6 +36,7 @@ updated: 2026-10-26T14:26:59Z
 | Mehri | mən (Kogan 2015, ch. 2 §4.2 no. 39) | Kogan 2015 ch. 2 §4.2 no. 39 | gloss withheld |
 | Jibbali | mən (Kogan 2015, ch. 2 §4.2 no. 39) | Kogan 2015 ch. 2 §4.2 no. 39 | gloss withheld |
 | Soqotri | mən (Kogan 2015, ch. 2 §4.2 no. 39) | Kogan 2015 ch. 2 §4.2 no. 39 | gloss withheld |
+| Eblaitic | mi-in, in whose place ARET XI 2 v. XV 10 writes si-in (Fronzaroli 1995, 64 n. 92) | ARET XI 2; Fronzaroli 1995, 64 n. 92 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

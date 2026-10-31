@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mišḥā |
 | Meaning | oil subtype; perhaps anointing or ceremonial oil |
 | Root | m-š-ḥ |
+| Proto-Semitic | \*mašḥ- (#2714) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,15 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 OLE ideogram + MI complement (19 att., Haghia Triada + Tylissos). Northwest Semitic √m-š-ḥ 'anoint' is attested in Ugaritic mšḥ (DULAT 582) and Hebrew māšaḥ. Biblical cult inventories repeatedly use שֶׁמֶן הַמִּשְׁחָה šemen ham-mišḥā 'the anointing oil' (Exod 25:6; 29:7; 31:11); Exod 30:25, 31 has שֶׁמֶן מִשְׁחַת קֹדֶשׁ šemen mišḥat qōdeš 'holy anointing oil.' This supplies a precise commodity-plus-MI structural parallel. Akkadian provides only a semantic control—pašāšum 'anoint' with šamnum 'oil' (Huehnergard 1997, §5.5)—not an m-š-ḥ cognate. MI may therefore be a phonetic complement for mišḥ-, but does not prove the reading. OLE+MI co-occurs with OLE+U and OLE+KI on allocation tablets (HT42+59, HT91, TY3a) and appears with PA as PA-OLE+MI (TY3b). Confidence remains CANDIDATE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | mišḥâ 'anointing, anointing oil'; šemen hammišḥâ 'the anointing oil', Exod 25:6 (HALOT 644) |
+| Aramaic | mešḥā 'oil' (HALOT 1568) |
+| Ugaritic | /m-š-ḥ/ 'to anoint, oil' (DULAT 582) |
+| Amorite | MŚḤ 'anoint': maśīḥum, maśḥatum (Gelb AS 21, 25) |
 
 ### Source
 
@@ -52,7 +62,7 @@ Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; Huehnergard 1997, §
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT50a\|HT50a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT58\|HT58]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | Haghia Triada | Tablet | complete |

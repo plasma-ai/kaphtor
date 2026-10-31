@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ruqāq |
 | Meaning | thin bread, wafers (qualifier of \*309C KIKKARU) |
 | Root | r-q-q |
+| Proto-Semitic | \*riḳ- (#1187) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | food |
@@ -49,10 +50,11 @@ TY 2 .5 \*309C-\[?\]-RU-KA 30, one of eight qualifiers joined to \*309; the AB53
 | Arabic | ruqāq (الرُقاق) 'thin bread'; ruqāqa 'a single thin, round cake of bread' (Lane 1131) |
 | Hebrew | rāqîq (רָקִיק) 'wafer', beside kikkar leḥem 'round of bread' (Exod 29:23) |
 | Akkadian | raqqatu D '(a type of bread)', Emar (CAD R 171) |
+| Old Syrian | Emar NINDA ru-qa-nu ruqqānu, Ebla ra-ga-gu raqaq 'thin cake, waffle' (GlOS 2, 166) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

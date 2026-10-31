@@ -81,9 +81,9 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | \*kanasti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NI_JA_MI\|KA-NI-JA-MI]] | qāniy-yammi | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | kanuti / ganuti | PROBABLE |
+| [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | Ganuti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kabīru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RO_NA\|KA-RO-NA]] | Qarna | PROBABLE |
@@ -91,7 +91,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_RU\|KA-RU]] | karru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | kaṯare | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_TI\|KA-TI]] | Gattī | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_TI\|KA-TI]] | Qāti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | makisu | CANDIDATE |
@@ -106,6 +106,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/S/SI_KA\|SI-KA]] | šikā | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_KA_IOZa6\|SI-KA (IOZa6)]] | šiqā | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NI_KA\|TA-NI-KA]] | Taʿnaku | SPECULATIVE |
+| [[wiki/linear-a/words/U/U_KA_RE\|U-KA-RE]] | ʾugār | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_NA_KA_NA_SI\|U-NA-KA-NA-SI]] | wannā kanāsī / winnā kanāsī | CONFIRMED |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_SI\|U-NA-RU-KA-NA-SI]] | wannā lū kanāsī | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | CANDIDATE |

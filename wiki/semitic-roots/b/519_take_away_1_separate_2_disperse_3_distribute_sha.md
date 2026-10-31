@@ -42,7 +42,7 @@ updated: 2026-10-26T14:26:59Z
 | Tigre | bädäd bela (LGz. 86) | LGz. 86 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic bd (Al-Jallad–Jaworska 59) | Al-Jallad–Jaworska 59 | gloss withheld |
 | Jibbali | bedd (JL 22 apud SEDonline 1311) | JL 22; SEDonline 1311 | gloss withheld |
-| Epigraphic South Arabian | Sab mbd 4 (Biella 36) | Biella 36 | gloss withheld |
+| Epigraphic South Arabian | Sab mbd 4 (Biella 36); Qat. tbdd 4 (Ricks 1982 s.v. tbdd) | Biella 36; Ricks 1982 s.v. tbdd | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

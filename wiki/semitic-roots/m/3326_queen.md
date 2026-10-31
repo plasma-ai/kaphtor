@@ -40,7 +40,7 @@ updated: 2026-10-25T06:28:07Z
 | Arabic | malikat (HALOT 592) | HALOT 592 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic mlkt (Al-Jallad–Jaworska 97) | Al-Jallad–Jaworska 97 | gloss withheld |
 | Amorite | malika, malikat, malikt: ma-li-ka, ma-li-ka-tum, ši-ma-li-ik-ti (Sanmartín GlOS 2, 42) | Sanmartín GlOS 2, 42 | gloss withheld |
-| Eblaitic | ma-lik-tum /malkat/ (Sanmartín GlOS 2, 42) | Sanmartín GlOS 2, 42 | gloss withheld |
+| Eblaitic | ma-lik-tum /malkat/ (Sanmartín GlOS 2, 42); ma-lik-tum, a Semitic logogram, pl. ma-lik-tum ma-lik-tum (ARET I 32 r. VI 13; Fronzaroli 1995, 54) | Sanmartín GlOS 2, 42; ARET I 32 r. VI 13; Fronzaroli 1995, 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

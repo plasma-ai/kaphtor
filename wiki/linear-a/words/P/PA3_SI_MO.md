@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | basimo |
 | Meaning | balsam, spice (aromatic resin) |
 | Root | b-ś-m |
+| Proto-Semitic | \*bśm (#S84) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Anchor reading for \*47=MO. Hebrew bōśem (בֹּשֶׂם) 'spice, balsam, perfume'. Single-word vessel inscription from Miletos—a Minoan trade colony on the Anatolian coast. Balsam was among the highest-value aromatics in Bronze Age Mediterranean trade. PA₃=/ba/, SI=/si/, \*47=/mo/.
+Anchor reading for \*47=MO. Hebrew bōśem (בֹּשֶׂם) 'spice, balsam, perfume'. Single-word vessel inscription from Miletos—a Minoan trade colony on the Anatolian coast. Balsam was among the highest-value aromatics in Bronze Age Mediterranean trade. PA₃=/ba/, SI=/si/, \*47=/mo/. See \*333-SA-MU.
 
 ### Cognates
 

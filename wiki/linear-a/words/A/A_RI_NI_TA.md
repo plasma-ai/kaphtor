@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾarīnīt |
 | Meaning | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) |
 | Root | ʾ-r-y |
+| Proto-Semitic | \*ʾarway- (#2120) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -86,6 +87,6 @@ HT 25a and ZA 8. ʾarīnīt 'She-of-the-Lion': feminine -īt on ari 'lion', as I
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DU_RU_WI|DU-RU-WI]] ḏu-lēwī.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DU_RU_WI|DU-RU-WI]] ḏu-luwwī.
 
 <!-- END kaphtor:record -->

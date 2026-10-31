@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾubūs(a) |
 | Meaning | the stall, storehouse |
 | Root | ʾ-b-s |
+| Proto-Semitic | \*ʾabūs- (#1336) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
@@ -46,13 +47,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾabūs- 'warehouse, manger' |
 | Akkadian | abūsu 'storehouse', pl. abūsātu, ubsātu (CAD A/1 92); bēl abūsi 'overseer of the storehouse', Ras Shamra (CAD A/1 93) |
 | Hebrew | ʾēbûs (אֵבוּס) 'crib, manger, stall' (HALOT 4; Isa 1:3, Prov 14:4) |
+| Ugaritic | ỉbsn 'warehouse' (GlOS 1, 6) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿuṣru |
 | Meaning | U-qualified oil subtype; exact product unknown; pressed oil is a tentative Arabic comparison |
 | Root | ʿ-ṣ-r |
+| Proto-Semitic | \*ʿVṣVr- (#K0685) |
 | Language layer | NWS |
 | Category | commodity ideogram |
 | Semantic field | commodity |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 OLE ideogram + U adjunct: 21 tokens in 13 documents. The corpus establishes a distinct oil subtype, not its name. Arabic √ʿ-ṣ-r 'squeeze, press' permits a tentative comparison with pressed oil if initial ʿ is unrepresented, but the exact noun and vocalization \*ʿuṣru are unattested. Ugaritic ʿṣr denotes a bird, not 'press,' and therefore supplies no support for this commodity reading.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Arabic | ʿaṣara 'he pressed it so as to force out its juice, honey, oil' (Lane 2061) |
+| Aramaic | Syriac ʿṣar 'tread, press out; crush' (Payne Smith 423) |
 
 ## Attestations
 

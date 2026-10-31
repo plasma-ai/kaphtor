@@ -34,25 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾatanāya |
 | Meaning | My Giver / My Athena — 1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my') |
 | Root | y-t-n |
+| Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |
 
 ### Note
 
-THEZb6 (Thera, clay vessel). Single-word devotional inscription. Variant of the A-TA-NA paradigm: feminine absolute A-TA-NA-TE (ZA10a, -tu; ZA9 A-TA-NA-\[·\] probably the same word), 1cs possessive A-TA-NA-JE (THEZb6, -ya). Two suffixed forms at two sites (Zakros, Thera) confirm productive derivation. The -JE suffix writes NWS 1cs possessive -ya, paralleling PU₂-RE-JA = burēyā 'my Creator' (same suffix on divine epithet). On a votive vessel, 'My Giver' is a natural devotional dedication—the worshiper claiming personal relationship with the goddess. √y-t-n is the Ugaritic/Phoenician (coastal NWS) form; Minoan patterns with the coastal languages.
+THE Zb 6, a clay vessel from Thera, its one word: A-TA-NA ʾAtanat 'She-who-gives', the etymon of Athena (see A-TA-NA), + -ya 'my', the 1cs suffix of PU₂-RE-JA burēyā 'my Creator'. The paradigm stands at two sites: A-TA-NA (ZA 9), A-TA-NA-TE (ZA 10a), A-TA-NA-JE (Thera). At Knossos Athena heads KN V 52.1 among the gods, a-ta-na-po-ti-ni-ja beside Enyalios, Paiawon and Poseidon. At Ugarit the god is the one who gives, Milki-Yatanu 'Milku has given' (mlkytn, son of a priest of Baal; Kinlaw 1967, 81), and the verb stands alone as a name, Yatanu (ytn); Alalakh has nādin 'giver' as a name. √y-t-n is the Ugaritic and Phoenician form. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Linear B | a-ta-na-po-ti-ni-ja (KN V 52)—Athena Potnia |
+| Linear B | a-ta-na-po-ti-ni-ja, KN V 52.1, beside e-na-wa-ri-jo, pa-ja-wo-ne, po-se-da\[-o-ne\] (DMic I, s.v.)—Athena Potnia |
 | Greek | Ἀθάνα (Doric), Ἀθήνη (Ionic/Attic)—pre-Greek, no IE etymology (Beekes 2010) |
-| Ugaritic | 1cs possessive -y: ʾaby 'my father,' ʾumy 'my mother' (Huehnergard 2012) |
+| Ugaritic | ytn 'give'; names ytn Yatanu, mlkytn Milki-Yatanu (Kinlaw 1967, 135, 81), bʿltn (GlOS 2, 78); 1cs possessive -y: ʾaby 'my father,' ʾumy 'my mother' (Huehnergard 2012) |
+| Alalakh | na-di-na nādin 'giver', a name (GlOS 2, 78) |
 
 ### Source
 
-di Mino
+di Mino; DMic I; Kinlaw 1967; GlOS 2
 
 ## Attestations
 

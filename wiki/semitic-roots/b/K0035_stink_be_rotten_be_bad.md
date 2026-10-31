@@ -39,9 +39,9 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | bäˀasä (TED 1167 apud SEDonline 1108) | TED 1167; SEDonline 1108 | gloss withheld |
 | Ugaritic | bʔš (HALOT 107 apud SEDonline 1108) | HALOT 107; SEDonline 1108 | gloss withheld |
 | Tigre | bəʾəsa (LGz. 82) | LGz. 82 |  |
-| Epigraphic South Arabian | Sab bʾs1; bʾs1, bʾs1t (SD 25); bʾs (Biella 34) | SD 25; Biella 34 | gloss withheld |
+| Epigraphic South Arabian | Sab bʾs1; bʾs1, bʾs1t (SD 25); bʾs (Biella 34); Qat. bʔs1tm (Ricks 1982 s.v. bʔs1tm) | SD 25; Biella 34; Ricks 1982 s.v. bʔs1tm | gloss withheld |
 | Syrian Aramaic | bʾeš 'be evil, displease, harm'; beʾštā 'a misfortune' (Payne Smith 34); bīš 'bad, evil' (Payne Smith 43); bīšūtā 'evil, harm; wickedness, envy' (Payne Smith 43) | Payne Smith 34; Payne Smith 43 |  |
-| Eblaitic | bí-ì-šum /biʾs₁/; /buʾs₁ān/: cf. bù-sa-nu (Sanmartín GlOS 1, 105) | Sanmartín GlOS 1, 105 | gloss withheld |
+| Eblaitic | bí-ì-šum /biʾs₁/; /buʾs₁ān/: cf. bù-sa-nu (Sanmartín GlOS 1, 105); bí-ì-šum /biʾšum/, probably (= Sum. ḫáb, VE 966 = EV 092) (Bonechi 2008, 4, 6) | Sanmartín GlOS 1, 105; VE 966; Bonechi 2008, 4, 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

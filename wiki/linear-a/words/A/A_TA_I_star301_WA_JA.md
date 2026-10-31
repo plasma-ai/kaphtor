@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾatainawaya |
 | Meaning | I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY) |
 | Root | n-w-y |
+| Proto-Semitic | \*nwy (#3654) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | verbal |

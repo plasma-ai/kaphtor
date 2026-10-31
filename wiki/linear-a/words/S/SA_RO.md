@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šarrō |
 | Meaning | royal allocation/account (the King's entry—šarr- royal-title family) |
 | Root | š-r-r |
+| Proto-Semitic | \*ŝarr- (#3463) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |

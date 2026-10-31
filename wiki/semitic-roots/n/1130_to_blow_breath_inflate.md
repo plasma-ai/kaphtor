@@ -50,7 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | näfḥe 'to blow in order to inflate a skin, to sound the trumpet' \[Bass 469\] | Bass 469 |  |
 | Egyptian | nšp (OLA80 §2.16) | OLA80 §2.16 | gloss withheld |
 | Aramaic | NPḤ (Qumran 158 apud CAL) | CAL; Anderson–Moser 2024 root npḫ | gloss withheld |
-| Eblaitic | na-ba-ḫu-um /napāḫum/ (= Sum. KA.DIRI, VE 229); na-ba-ḫu(-um) /n-p-ḫ/ (Sanmartín GlOS 2, 97) | VE 229; Sanmartín GlOS 2, 97 | gloss withheld |
+| Eblaitic | na-ba-ḫu-um /napāḫum/ (= Sum. KA.DIRI, VE 229); na-ba-ḫu(-um) /n-p-ḫ/; ma-ba-ḫu-um /mappaḫ/ (Sanmartín GlOS 2, 97) | VE 229; Sanmartín GlOS 2, 97 | gloss withheld |
 | Ugaritic | \*npḫ in mpḫm (LGz. 388; DULAT 559) | LGz. 388; DULAT 559 | gloss withheld |
 | Amorite | npḫ: jippiḫ (Gelb AS 21, 27); n-p-ḫ: i-bi-ḫu, ib-bi-iḫ-li-di-ni (Sanmartín GlOS 2, 97) | Gelb AS 21 27; Sanmartín GlOS 2, 97 | gloss withheld |
 

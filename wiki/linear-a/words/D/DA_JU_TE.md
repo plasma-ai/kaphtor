@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dalut |
 | Meaning | door, doorway |
 | Root | d-l-t |
+| Proto-Semitic | \*dal-t- (#1120) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-Exact skeleton match to Ugaritic dlt "door" (Huehnergard 2012, /daltu/). PS \*dalt- — one of the most stable pan-Semitic nouns (BH dēlet, Akk. daltu). JU=/lu/ gives DA-JU-TE = d-l-t. Appears as header word on HT34 (Haghia Triada, grain accounting tablet with GRA 200, KI-RO 30). First-position on admin tablets typically indicates location or distribution category; "door/doorway" as storage/distribution point parallels Akkadian administrative usage.
+Exact skeleton match to Ugaritic dlt "door" (Huehnergard 2012, /daltu/). BH dēlet, Akk. daltu. JU=/lu/ gives DA-JU-TE = d-l-t. Appears as header word on HT34 (Haghia Triada, grain accounting tablet with GRA 200, KI-RO 30). First-position on admin tablets typically indicates location or distribution category; "door/doorway" as storage/distribution point parallels Akkadian administrative usage.
 
 ### Cognates
 

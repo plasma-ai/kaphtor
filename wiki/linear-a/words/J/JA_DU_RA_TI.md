@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yadurati |
 | Meaning | personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38) |
 | Root | d-w-r |
+| Proto-Semitic | \*dVwVr- ~ \*dVrdVr- (#995) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,7 @@ Verso of KN1 tablet. Format: WORD + E + QTY (105); the recto JA-KU-TI · E · 24
 
 | Language | Comparison |
 |---|---|
-| Amorite | JA-DWIR-AT-UM Yadwiratum (Gelb 1980, no. 3209); JA-DWIR-UM, JA-DWIR-I, JA-DWIR-AN (nos. 3210–3214); Ya-du-ra-an, Ya-du-ri-im (Huffmon 1965, 38); element jadūr (Gelb glossary) |
+| Amorite | JA-DWIR-AT-UM Yadwiratum (Gelb 1980, no. 3209); JA-DWIR-UM, JA-DWIR-I, JA-DWIR-AN (nos. 3210–3214); Ya-du-ra-an, Ya-du-ri-im (Huffmon 1965, 38); element jadūr, B stem of DWR 'to turn around, to dwell' (Gelb glossary) |
 
 ### Source
 

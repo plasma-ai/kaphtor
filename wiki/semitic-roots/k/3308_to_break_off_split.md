@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | kasāpu (CAD K 241, AHw. 453 apud SEDonline 2006) | CAD K 241, AHw. 453; SEDonline 2006 | gloss withheld |
-| Eblaitic | ga-za-bù /kasāpu(m)/ (VE 104, Kogan–Krebernik 2021b: 686 apud SEDonline 2006); ga-za-bù(-um) /k-s-p/ (Sanmartín GlOS 1, 324) | VE 104, Kogan–Krebernik 2021b: 686; SEDonline 2006; Sanmartín GlOS 1, 324 | gloss withheld |
+| Eblaitic | ga-za-bù /kasāpu(m)/ (VE 104, Kogan–Krebernik 2021b: 686 apud SEDonline 2006); ga-za-bù(-um) /k-s-p/ (Sanmartín GlOS 1, 324); ga-za-bù-um /kasāpum/ (Fronzaroli 1995, 52) | VE 104, Kogan–Krebernik 2021b: 686; SEDonline 2006; Sanmartín GlOS 1, 324; Fronzaroli 1995, 52 | gloss withheld |
 | Arabic | ksf (BK 2 898 apud SEDonline 2006) | BK 2 898; SEDonline 2006 | gloss withheld |
 | Amorite | k-s-p: ga-za-bu-um (Ur III) (Sanmartín GlOS 1, 324) | Sanmartín GlOS 1, 324 | gloss withheld |
 

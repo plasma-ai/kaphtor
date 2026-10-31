@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-GORILA I 231 reads HT 135a .1 \]NẸ-MI-NA 10\[: broken before NE, NE dotted. Not readable.
+GORILA I 231 reads HT 135a .1 \]NẸ-MI-NA 10\[: broken before NE, NE dotted. It matches the end of NA-\*21F-NE-MI-NA (HT 115a). Not readable.
 
 <!-- END kaphtor:record -->

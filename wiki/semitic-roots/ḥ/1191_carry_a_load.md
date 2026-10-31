@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1191_carry_a_load
 title: "*ḥVmil-: 'carry (a load)'"
-desc: "Proto-Semitic *ḥVmil-, 'carry (a load)': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḥVmil-, 'carry (a load)': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1191"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ḥǝmūl; ḥāmǝl, pl. ḥǝmōwǝl (Rubin 2018 131, 827) | Rubin 2018 131, 827 | gloss withheld |
 | Arabic | ḥml i,1,12 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

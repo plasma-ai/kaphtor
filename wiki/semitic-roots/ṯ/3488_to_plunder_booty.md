@@ -34,7 +34,7 @@ updated: 2026-10-25T06:28:07Z
 | Ugaritic | ṯll (HALOT 1531) | HALOT 1531 | gloss withheld |
 | Epigraphic South Arabian | Sab ṯll (SD 150) | SD 150 | gloss withheld |
 | Arabic | ṯalla (HALOT 1531) | HALOT 1531 | gloss withheld |
-| Eblaitic | ša-la-tum /ṯallat/ (Sanmartín GlOS 2, 322) | Sanmartín GlOS 2, 322 | gloss withheld |
+| Eblaitic | ša-la-tum /ṯallat/ (Sanmartín GlOS 2, 322); ša-la-tum /ṯallatum/ (= Sum. nam-ra-aka) (VE 1093; Bonechi 2008, 15) | Sanmartín GlOS 2, 322; VE 1093; Bonechi 2008, 15 | gloss withheld |
 | Amorite | śll: jaślal, śalalum, śalilum, śullalum, śullulum, juśtallil (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

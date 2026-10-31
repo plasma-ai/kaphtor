@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ġayr 'other, other than; exclusively of' (Lane 2315); ġayr 'except, save' (Lane 2316) | Lane 2315; Lane 2316 |  |
-| Epigraphic South Arabian | Sab ġyr, ġr; b-ġyr (SD 55); ġr, ġyr; b-ġyr (Biella 394) | SD 55; Biella 394 | gloss withheld |
+| Epigraphic South Arabian | Sab ġyr, ġr; b-ġyr (SD 55); ġr, ġyr; b-ġyr (Biella 394); Qat. ġyr (Ricks 1982 s.v. ġyr) | SD 55; Biella 394; Ricks 1982 s.v. ġyr | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

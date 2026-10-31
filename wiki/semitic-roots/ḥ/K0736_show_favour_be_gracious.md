@@ -48,6 +48,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-The noun is K0734 \*ḥen- 'favour'.
+The noun is K0734 \*ḥen- 'favour'. Hajouz 2013, 302 reads VE 68 ʔà-na-núm as /ḥan(a)num/, verbal adjective 'gracious', where Sanmartín GlOS 1, 244 has the noun /ḥann/.
 
 <!-- END kaphtor:record -->

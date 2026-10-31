@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/S100_hundred
 title: "*mʾt: 'hundred'"
-desc: "Proto-Semitic *mʾt, 'hundred': reflexes in 21 language(s)."
+desc: "Proto-Semitic *mʾt, 'hundred': reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S100"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | myēt; mī (Rubin 2018 299) | Rubin 2018 299 | gloss withheld |
 | Akkadian | mi-at/me-at (OLA80 §35.20); meʾatu | OLA80 §35.20; Anderson–Moser 2024 root mʾt | gloss withheld |
 | Hebrew | mēʾā (OLA80 §35.20) | OLA80 §35.20 |  |
 | Arabic | miʾat (OLA80 §35.20) | OLA80 §35.20 |  |
@@ -46,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | mäto (LGz. 324) | LGz. 324 |  |
 | Gurage | mäto (LGz. 324) | LGz. 324 |  |
 | Pre-Islamic North Arabian | Safaitic mʾt (Al-Jallad–Jaworska 94) | Al-Jallad–Jaworska 94 | gloss withheld |
-| Eblaitic | ma-i-at, ma-i-ḫu-at (VE 1363', 1364' apud SEDonline 1607) | VE 1363', 1364'; SEDonline 1607 | gloss withheld |
+| Eblaitic | ma-i-at, ma-i-ḫu-at (VE 1363', 1364' apud SEDonline 1607; Krebernik 1983, 44) | VE 1363', 1364'; SEDonline 1607; Krebernik 1983, 44 | gloss withheld |
 | Canaanite | Moab mˀt (DNWSI 586 apud SEDonline 1607) | DNWSI 586; SEDonline 1607 | gloss withheld |
 | Judaic Aramaic | JBA mˀā (DJBA 634 apud SEDonline 1607) | DJBA 634; SEDonline 1607 | gloss withheld |
 | Tigre | məˀət (WTS 131 apud SEDonline 1607) | WTS 131; SEDonline 1607 | gloss withheld |
@@ -55,6 +56,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-OLA80 §35.20. Common origin across Semitic and Libyco-Berber. Tuareg tə-meḍe related to Semitic m't with emphatic d replacing voiceless t.
+OLA80 §35.20. Common origin across Semitic and Libyco-Berber. Tuareg tə-meḍe related to Semitic m't with emphatic d replacing voiceless t. Eblaite ma-i-AD, the numeral '100,000' of the administrative texts, is /miʾ-at/ '100' or m-ʾ-d 'to be much' (1704) for Krebernik 1983, 44; Sanmartín GlOS 2, 28 files it under maʔid 'abundant, great; 100.000' (m-ʔ-d), reading dubious.
 
 <!-- END kaphtor:record -->

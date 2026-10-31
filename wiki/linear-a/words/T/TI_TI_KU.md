@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tittuk(u) / tittōk |
 | Meaning | outpouring, pouring-out—(header) disbursed; (libation) may it be poured |
 | Root | n-t-k |
+| Proto-Semitic | \*natāk- (#K0210) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-Ugaritic √n-t-k 'to pour out, forth' (Huehnergard; Kirta: tntkn udmʿth km ṯqlm arṣh, 'his tears pour out like shekels to the ground,' KTU 1.14 I 28–30); Hebrew nifal nittak of rain (Exod 9:33), wrath (2 Chr 34:25), molten metal (Ezek 22:20–22); Akkadian natāku 'drip,' tabāku 'pour out' as the standard verb of commodity disbursement. Surface tt = geminate from assimilated nun, spelled with the doubled sign TI-TI (geminate-orthography law). Across genres: header of HT35, where every commodity is pourable (cyperus, myrrh, three oil grades, butter, wine, all in fractional liquid measures)—the pour-class counterpart of the given/received/counted header family; final word of the ZAZb3 wine-libation formula (wine 32, ʾaššē fire-offering, √n-w-y formula word, Eshmun epithet), closing as a libation should. Noun tittuk(u) 'outpouring' vs G imperfect tittōk 'may it be poured' left open; both fit both slots. 2 Kgs 22:9 הִתִּיכוּ hittīkū (Hiphil 3cp √n-t-k with nun→geminate): "Your servants have disbursed the silver found in the house"—the exact administrative disbursement sense on a financial report, with the same geminate /tt/ orthography. \|\| ZAZb3 translation reads a toponym, 'from Tittiku'; the HT35 header reading 'disbursed' and the toponym remain rivals.
+Ugaritic √n-t-k 'to pour out, forth' (Huehnergard; Kirta: tntkn udmʿth km ṯqlm arṣh, 'his tears pour out like shekels to the ground,' KTU 1.14 I 28–30); Hebrew nifal nittak of rain (Exod 9:33), wrath (2 Chr 34:25), molten metal (Ezek 22:20–22); Akkadian natāku 'drip,' tabāku 'pour out' as the standard verb of commodity disbursement. Surface tt = geminate from assimilated nun, spelled with the doubled sign TI-TI (geminate-orthography law). Across genres: header of HT35, where every commodity is pourable (cyperus, myrrh, three oil grades, butter, wine, all in fractional liquid measures)—the pour-class counterpart of the given/received/counted header family; final word of the ZAZb3 wine-libation formula (wine 32, ʾaššē fire-offering, √n-w-y formula word, Eshmun epithet), closing as a libation should. Noun tittuk(u) 'outpouring' vs G imperfect tittōk 'may it be poured' left open; both fit both slots. 2 Kgs 22:9 הִתִּיכוּ hittīkū (Hiphil 3cp √n-t-k with nun→geminate): "Your servants have disbursed the silver found in the house"—the exact administrative disbursement sense on a financial report, with the same geminate /tt/ orthography. \|\| ZAZb3 translation reads a toponym, 'from Tittiku'; the HT35 header reading 'disbursed' and the toponym remain rivals. See I-TI-TI-KU-NI.
 
 ### Cognates
 

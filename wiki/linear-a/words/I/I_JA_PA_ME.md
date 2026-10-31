@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/I/I_JA_PA_ME
 title: "I-JA-PA-ME"
-desc: "yabame: progenitress, sister-in-law (divine epithet of Anath). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine"]
+desc: "yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "kinship"]
 kind: "word"
 form: "I-JA-PA-ME"
 datasets: ["lexicon", "onomasticon"]
@@ -32,27 +32,28 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yabame |
-| Meaning | progenitress, sister-in-law (divine epithet of Anath) |
+| Meaning | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet |
 | Root | y-b-m |
+| Proto-Semitic | \*wa-bām- (#13) |
 | Language layer | NWS |
-| Category | divine |
-| Semantic field | divine |
+| Category | kinship |
+| Semantic field | kinship |
 
 ### Note
 
-Ug. ybmt limm 'Progenitress of Heroes'—Anath's primary epithet alongside btlt. Near-exact 4-syllable match at Khania, the most Semitic-looking Linear A site. All shifts regular: y→y, b→p, m→m. \|\| Huehnergard: Ug ybmt /yabam(a)tu/ "sister-in-law, kinswoman"; Feminine noun. ybmt limm /yabam(a)tu li-ʾēmima/ "kinswoman to the terrible ones(?)" — epithet of Anath. Possible Št stem: pštbm. BH cognate: yəbāmā "sister-in-law" (levirate context) (Huehnergard 2012, p. 87 (epithet))
+KH 7a: sections under E-NA-SI 'copper', I-JA-PA-ME · TA-TA and SE-\*305 'provisions'; the second holds QA-TI-KI, \*313b men 4, cyperus ⅓ (GORILA III 29). yabam 'brother-in-law', as Tell Rimah ia-ba-mi-ša and Ugaritic ybm (GlOS 2, 341; DULAT 937); before TA-TA, yabam Tatta 'the brother-in-law of Tatta', a woman's name at Mari and Tuttul (Monti 2017, 302, 335): her husband's brother, as ia-ba-mi-ša 'her brother-in-law'. Rival: ybmt 'widowed sister-in-law', Anat's epithet ybmt limm (DULAT 937; Huehnergard 2012, 87). One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*yabam- 'brother-in-law' |
 | Hebrew | יָבָם (yābām) 'brother-in-law'; יְבָמָה (yᵊbāmāh) 'levirate widow' |
-| Ugaritic | ybmt 'progenitress / kinswoman' |
+| Ugaritic | ybm 'brother-in-law' (DULAT 937); ybmt 'widowed sister-in-law', Anat's epithet ybmt limm, the rival |
+| Tell Rimah | ia-ba-mi-ša 'her brother-in-law' (GlOS 2, 341) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2; DULAT; Huehnergard 2012; Monti 2017
 
 ## Attestations
 
@@ -64,19 +65,23 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | yabame | progenitress, sister-in-law (divine epithet of Anath) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | yabame | brother-in-law (of Tatta) | CANDIDATE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | theonym (SPECULATIVE) |
+| Type | title (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Khania |
 | Supports | Tablet 1 |
+
+### Note
+
+Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937).
 
 ### Co-occurring lexicon words
 

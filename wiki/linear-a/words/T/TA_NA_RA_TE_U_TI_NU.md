@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tan-raṣē-u-tī-n(u) |
 | Meaning | may you (f.) be favorable toward us (N-stem of √r-ṣ-y + indicative -u + analogical 2fs subject clitic -tī + 1cp object -n) |
 | Root | r-ṣ-y |
+| Proto-Semitic | \*rṣ̂w (#3176) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | verbal |

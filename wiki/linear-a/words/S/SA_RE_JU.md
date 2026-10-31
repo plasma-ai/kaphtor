@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Šarr-ēlu |
 | Meaning | personal name, 'El is king'; rival Hurrian Šar-elli |
 | Root | ŝ-r-r + ʾ-l |
+| Proto-Semitic | \*ŝarr- (#3463) + \*ʾil- (#2719) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 20 .4 SA-RE-JU ⅛, after CAPm ⅛ and before TELA, in the list under PA-RO-SU beside KU-MA-JU and QE-KU-RE (GORILA I 36–37). ša-r(ʾ)ē-lu sign for sign: JU writes lu, the nominative of ʾēlu, and RE carries the ē once the ʾ drops at the join. Weak point: Northwest Semitic 'king' is mlk, šarru is the Akkadian and Amorite word, and Hebrew śar is 'prince'. Rival: Hurrian Šar-elli, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), whose -li mismatches JU. One witness.
+HT 20 .4 SA-RE-JU ⅛, after CAPm ⅛ and before TELA, in the list under PA-RO-SU beside KU-MA-JU and QE-KU-RE (GORILA I 36–37). ša-r(ʾ)ē-lu sign for sign: JU writes lu, the nominative of ʾēlu, and RE carries the ē once the ʾ drops at the join. Weak point: Northwest Semitic 'king' is mlk, šarru is the Akkadian and Amorite word, and Hebrew śar is 'prince'. Rival: Hurrian Šar-elli, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), whose -li mismatches JU. One witness. See SA-RU, I-RA₂, PI-RU-E-JU and DI-NA-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ŝarr- 'king, prince, official' (semitic_roots no. 3463) + \*ʾil- 'god; El' (no. 2719) |
 | Amorite | ŚARR-A+ʾIL, ŠAR-RA-DINGIR, Alalakh IV (Gelb 1980 no. 5846) |
 | Hebrew | Malkîʾēl, the same sentence with mlk (Gen 46:17) |
 | Hurrian | Šar-elli, the queen ṯryl, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), rival |

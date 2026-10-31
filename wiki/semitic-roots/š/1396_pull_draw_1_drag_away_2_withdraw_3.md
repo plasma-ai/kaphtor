@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1396_pull_draw_1_drag_away_2_withdraw_3
 title: "*šul-: 'pull, draw' 1, 'drag away' 2, 'withdraw' 3"
-desc: "Proto-Semitic *šul-, 'pull, draw' 1, 'drag away' 2, 'withdraw' 3: reflexes in 5 language(s)."
+desc: "Proto-Semitic *šul-, 'pull, draw' 1, 'drag away' 2, 'withdraw' 3: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1396"
@@ -30,6 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | sǝll 2 (Rubin 2018 442) | Rubin 2018 442 | gloss withheld |
 | Arabic | sll \[-u-\] 1 (Lane 1395) | Lane 1395 |  |
 | Jibbali | sell 2 |  |  |
 | Hebrew | šly 1; šll 1 (HALOT 1531) | HALOT 1531 | gloss withheld |

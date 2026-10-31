@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | baqarāti |
 | Meaning | cattle, heifers (fem.pl.) |
 | Root | b-q-r |
+| Proto-Semitic | \*baḳar- (#1832) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | animal |
 
 ### Note
 
-PS \*baḳar- 'large cattle'. Hebrew bāqār. Fem.pl. -āti. Livestock allocation term.
+Hebrew bāqār. Fem.pl. -āti. Livestock allocation term.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | bqr 'cattle' (GlOS 1, 117) |
+| Emar | ba-qa-ra, bu-qà-ri 'cattle' (GlOS 1, 117) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ### Review
 

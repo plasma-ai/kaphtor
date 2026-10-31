@@ -2189,9 +2189,11 @@
       "neutralization_class": "R",
       "confirmed_by": [
         "PU-RA₂ compared with Bōlu/Baʿal by Gordon (candidate lexical identification)",
-        "RA2 specifically marks /la/ distinct from RA = /ra/"
+        "Linear B inherits AB76 as ra₂, /rya, lya/ > /rra, lla/, alternating with plain ra; the /la/ of Heubeck and Leukart is at least equally /lla/ (Judson 2020, 72, 74, 75 n. 278)",
+        "SA-RA₂ (20 HT tablets) writes šarra 'queen' with RA₂ for the geminate; SA-RA (SAMWa1) leaves it unwritten",
+        "PU-RA₂ (HT 28b, 116a) ~ PU-RA (KN 54): RA₂ alternates with RA, as Linear B ra₂ with ra"
       ],
-      "note": "The only sign that reliably distinguishes /l/ from /r/ in Linear A.",
+      "note": "A marked liquid: /la/ and the geminates /lla/, /rra/, which RA also writes, unmarked.",
       "linear_b": {
         "sign_number": "B 76",
         "value": "ra₂",

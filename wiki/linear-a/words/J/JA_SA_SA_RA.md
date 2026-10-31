@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yaššar- |
 | Meaning | line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'uprightly; in righteousness'; not independently attested as a bare lemma |
 | Root | y-š-r |
+| Proto-Semitic | \*yašar- (#1446) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual language |
 
 ### Note
 
-IO Za 16, a fragmentary square serpentine libation table from the Iouktas peak sanctuary (HM 5317), reads JA-SA-SA-RA- / -ME across a line break without a divider. The break is word-internal, so this is evidence for JA-SA-SA-RA-ME /yaššaram/, not an independent bare lemma or divine epithet. PK Za 4 likewise preserves only A-SA-SA-RA-\[ at a broken edge. Compare Amorite IA-SA-RA-AM (Gelb 1980, no. 3448).
+IO Za 16, a fragmentary square serpentine libation table from the Iouktas peak sanctuary (HM 5317), reads JA-SA-SA-RA- / -ME across a line break without a divider. The break is word-internal, so this is evidence for JA-SA-SA-RA-ME /yaššaram/, not an independent bare lemma or divine epithet. PK Za 4 likewise preserves only A-SA-SA-RA-\[ at a broken edge. Compare Amorite IA-SA-RA-AM (Gelb 1980, no. 3448). See JA-SA-SA-RA-MA-NA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | yāšār 'straight, upright' (HALOT 450); mêšārîm 'uprightly', mêšārîm tišpəṭû, Ps 58:2 (HALOT 578) |
+| Ugaritic | yšr 'uprightness, lawfulness' (DULAT 973) |
+| Amorite | JŚR 'be straight': jaśar, jaśara (Gelb AS 21, 22) |
+| Phoenician | yšr 'good, righteous' (Krahmalkov 218) |
 
 ### Source
 

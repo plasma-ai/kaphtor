@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3058_estimate_assess_crops
 title: "*ḫrṣ: 'estimate, assess (crops)'"
-desc: "Proto-Semitic *ḫrṣ, 'estimate, assess (crops)': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫrṣ, 'estimate, assess (crops)': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3058"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ḫaraṣa; ḫarṣ (Tāj 17:544) | Tāj 17:544 | gloss withheld |
 | Epigraphic South Arabian | Sab ḫrṣ (Biella 211; Sabaweb lemma 4281); ḫrṣ (SD 62; Sabaweb lemma 4279) | Biella 211; Sabaweb lemma 4281; SD 62; Sabaweb lemma 4279 | gloss withheld |
 | Modern Arabic | Yem. ḫarraṣ, Daṯ. ḫaraṣa (Biella 211) | Biella 211 |  |
 

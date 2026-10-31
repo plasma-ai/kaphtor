@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/701_flow_1_descend_2
 title: "*nVzVl-: 'flow' 1, 'descend' 2"
-desc: "Proto-Semitic *nVzVl-, 'flow' 1, 'descend' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *nVzVl-, 'flow' 1, 'descend' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "701"
@@ -30,6 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Syrian Aramaic | nᵉzal 2 (Klein s.v. נזל) | Klein s.v. נזל | gloss withheld |
 | Hebrew | nzl |  |  |
 | Arabic | nazala 2 (HALOT 683; Lane 3031) | HALOT 683; Lane 3031 | gloss withheld |
 | Epigraphic South Arabian | Sab nzl 2 (SD 102; Biella 299) | SD 102; Biella 299 | gloss withheld |

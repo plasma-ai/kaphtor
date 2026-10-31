@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kitānit |
 | Meaning | linen robe, linen cloth |
 | Root | k-t-n (PS \*kitn-) |
+| Proto-Semitic | \*kitn- (#2678) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -51,7 +52,6 @@ PK Zb 21 pithos, incised before firing. -t derivative of KI-TA-NA (PE Zb 3 KI-TA
 | Ugaritic | ktn "tunic" |
 | Phoenician | KTN "tunic" (Krahmalkov 2000) |
 | Aramaic | kittānā "flax" (Tg. Onq. Exod 9:31 for pištāh) |
-| Proto-Semitic | \*kitn- 'linen, tunic' |
 
 ### Source
 

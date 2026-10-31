@@ -45,12 +45,12 @@ HT 13 .3–4 TE-KI 27½, after TE-TU 56 and before KU-ZU-NI 18, under KA-U-DE-TA
 
 | Language | Comparison |
 |---|---|
-| Hurrian | tagi 'beau', RS voc. te-gi-še 'beau prix'; onom. Tagi(b)-šarri, Tagu(b)-šini, Taguya (Laroche 1980, 249–50) |
+| Hurrian | tagi 'beau', RS voc. te-gi-še 'beau prix'; onom. Tagi(b)-šarri, Tagu(b)-šini, Taguya (Laroche 1980, 249–50); bare name Taki 'good', ta-gi (Mari, VHN 290), ta-ki (Šušarrā), ta-ki-e (Kaneš) (Monti 2017, 299, 413, 456) |
 | Ugaritic | tg PN, Hurrian (DULAT 847) |
 
 ### Source
 
-di Mino; Laroche 1980
+di Mino; Laroche 1980; Monti 2017
 
 ## Attestations
 

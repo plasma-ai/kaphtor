@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-28T21:28:32Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/J
@@ -49,7 +49,7 @@ updated: 2026-10-28T21:28:32Z
 
 [[wiki/linear-a/words/J/JA_QE|JA_QE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/J/JA_RA|JA_RA]]: yara: he instructs/directs (impf. 3ms of √y-r-h). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_RA|JA_RA]]: Yaraḫ: Moon (personal name, after the moon god); rival yarē 'he instructs'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/J/JA_RE|JA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -109,7 +109,7 @@ updated: 2026-10-28T21:28:32Z
 
 [[wiki/linear-a/words/J/JE_DI|JE_DI]]: yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JE_TA_NA|JE_TA_NA]]: Yatana: He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same formation as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yattan-Dagan. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/J/JE_TA_NA|JE_TA_NA]]: Yatana: He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/J/JI_NU_MA_RE|JI_NU_MA_RE]]: yinumare: wine-lords, wine-stewards (personnel category). Lexicon, CANDIDATE (tier 2).
 

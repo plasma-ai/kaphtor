@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | damat |
 | Meaning | tower; the unprefixed base of I-DA-MA-TE |
 | Root | d-m-t |
+| Proto-Semitic | \*dim- (#656) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
 
 ### Note
 
-KY Za 2, a stone vessel from Kythera, DA-MA-TE alone. The base of I-DA-MA-TE (AR Zf 1, 2), read 'the tower': Ug. dmt (I) 'tower', in 'the tower of the mother of(?) the god\[s(?)' (KTU 2.31:46; DULAT 272), Akk. dimtu 'tower; fortified area; district' (CAD D 144–147). Rival: a personal name. One attestation.
+KY Za 2, a stone vessel from Kythera, DA-MA-TE alone. The base of I-DA-MA-TE (AR Zf 1, 2), read 'the tower': Ug. dmt (I) 'tower', in 'the tower of the mother of(?) the god\[s(?)' (KTU 2.31:46; DULAT 272), Akk. dimtu 'tower; fortified area; district' (CAD D 144–147). Rival: a personal name on the same noun, as Ugarit dmty, dmtn (GlOS 1, 147) and Ebla ti-ma-ti 'pillar' (Pagan 1998, row 4489). One attestation.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | dmt (I) 'tower' (DULAT 272) |
+| Akkadian | dimtu 'tower; fortified area; district' (CAD D 144) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1; Pagan 1998
 
 ## Attestations
 

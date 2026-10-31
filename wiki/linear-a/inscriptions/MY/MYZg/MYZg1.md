@@ -47,4 +47,8 @@ Unicode (Linear A block):
 𐘲
 ```
 
+## Corpus note
+
+Grave stele fragment, Grave Circle A (Protonotariou-Deilaki 1990, 69-83, fig. 27; Younger). Single sign.
+
 <!-- END kaphtor:record -->

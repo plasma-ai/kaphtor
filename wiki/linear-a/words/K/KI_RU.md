@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kirru |
 | Meaning | large vessel (vessel label) |
 | Root | k-r(-r) |
+| Proto-Semitic | \*kirr- (#3849) |
 | Language layer | Akkadian |
 | Category | vocabulary |
 | Semantic field | vessel |

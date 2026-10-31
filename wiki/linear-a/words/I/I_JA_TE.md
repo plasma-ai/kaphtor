@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾiyyate |
 | Meaning | island (genitive after SI-MA 'name of'; -i written with an E-series sign) |
 | Root | ʾ-y "island" |
+| Proto-Semitic | \*ʾVy- (#K0604) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | toponym |

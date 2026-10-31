@@ -34,25 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šarra |
 | Meaning | queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading) |
 | Root | š-r-r |
+| Proto-Semitic | \*ŝarr- (#3463) |
 | Language layer | NWS |
 | Category | title / institution |
 | Semantic field | administrative |
 
 ### Note
 
-20 Haghia Triada accounting-tablet witnesses: 19 preserve the complete group, while HT125a has \]SA-RA₂ at a broken left edge and cannot independently prove that the group was complete there. Distribution strongly disfavors the šeʾāra 'remainder/surplus' analysis. HT105 places KA-PA and SA-RA₂ in parallel before VIR totals 234 and 235; HT100 and HT94a place SA-RA₂ after a completed KU-RO and before a new commodity section; HT30 and HT34 already use KI-RO for an actual deficit; HT97b preserves SA-RA₂ alone as a plausible docket or recipient label. Montecchi independently excludes a transactional meaning and identifies SA-RA₂ as probably a sender, recipient, personal name, or local name. Within the Semitic hypothesis, the SA-RA/SA-RU title family makes /šarra/ 'queen/princess' the strongest positive candidate; in administrative contexts this may refer metonymically to the queen's establishment, or more broadly the royal establishment. This remains CANDIDATE rather than PROBABLE: exact Akkadian šarratu would require an unwritten final /t/, and RA₂'s value is not securely /ra/ (proposals include /rya/, /rra/, /lya/, and /lla/). A √š-ʾ-r 'surplus' derivation rests on positional recurrence alone, which does not establish the sense.
+20 Haghia Triada accounting-tablet witnesses: 19 preserve the complete group, while HT125a has \]SA-RA₂ at a broken left edge and cannot independently prove that the group was complete there. Distribution strongly disfavors the šeʾāra 'remainder/surplus' analysis. HT105 places KA-PA and SA-RA₂ in parallel before VIR totals 234 and 235; HT100 and HT94a place SA-RA₂ after a completed KU-RO and before a new commodity section; HT30 and HT34 already use KI-RO for an actual deficit; HT97b preserves SA-RA₂ alone as a plausible docket or recipient label. Montecchi independently excludes a transactional meaning and identifies SA-RA₂ as probably a sender, recipient, personal name, or local name. Within the Semitic hypothesis, the SA-RA/SA-RU title family makes /šarra/ 'queen/princess' the strongest positive candidate; in administrative contexts this may refer metonymically to the queen's establishment, or more broadly the royal establishment. Amorite šarra needs no final -t (see SA-RA). RA₂ writes the geminate, as Linear B ra₂ writes /rra, lla/ beside plain ra (Judson 2020, 74); SA-RA is the same word with the geminate unwritten. Rival: Alalakh has Šar-ra as a man's name, a witness (Niedorf 2008, 490; ATmB 36.1,16). A √š-ʾ-r 'surplus' derivation rests on positional recurrence alone, which does not establish the sense.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | šarratu (construct šarrat-) 'queen' |
+| Amorite | šarra 'queen' (Gelb 1980, glossary); see SA-RA |
 | Hebrew | śārâ 'princess' (Gen 17:15) |
 | Linear A | SA-RU /šarru/ 'king/prince' and SA-RA /šarra/ 'queen/princess' are proposed members of the same title family |
 
 ### Source
 
-Corpus distribution; Montecchi 2008, 321; comparative Akkadian šarratu and Hebrew śārâ
+Corpus distribution; Montecchi 2008, 321; comparative Akkadian šarratu and Hebrew śārâ; Gelb 1980; Niedorf 2008; Judson 2020
 
 ## Attestations
 

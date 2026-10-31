@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/T/TE_JA_RE
 title: "TE-JA-RE"
-desc: "Tayru: personal name, 'Bull' (PS *ṯawr-). Lexicon, CANDIDATE (tier 2)."
+desc: "Teyar: personal name; rival tayyār 'trader' (√t-w-r). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "TE-JA-RE"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "Tayru"
+reading: "Teyar"
 attestations: ["HT117a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,29 +31,28 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Tayru |
-| Meaning | personal name, 'Bull' (PS \*ṯawr-) |
-| Root | ṯ-w-r (PS \*ṯawr- "bull") |
+| Reading | Teyar |
+| Meaning | personal name; rival tayyār 'trader' (√t-w-r) |
+| Root | t-y-r |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each, KU-RO 10, under the MA-KA-RI-TE heading ("merchants," CANDIDATE); a name on the noun 'bull', as Tēnā 'Fig' (TE-\*301). Alongside KU-RA-MU (Kurmu 'Vineyard'), KU-PA₃-NU (Kubānu, PROBABLE), NA-DA-RE (Nadr 'Vow', PROBABLE). The NWS w→y shift turns \*ṯawr- into tayr-: JA renders the /y/. The initial /ṯ/ is written with TE because no /ṯe/ or /ṯa/ sign exists—only ZU=/ṯu/. This ṯ→T neutralization before non-/u/ vowels independently confirms ZU's vowel-specific function. Bull-horn dyad with KA-RO-NA (qarna "horn") on HT11a—same archive, same period. Ugaritic El is ṯr ʾil "Bull El"—the bull as divine epithet. PY Ta 711 (Linear B) qo-u-ka-ra = gʷou-kara ("bull-headed") ritual vessels belonging to the wanassa.
+HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each, KU-RO 10, under the MA-KA-RI-TE heading ("merchants," CANDIDATE), alongside KU-RA-MU (Kurmu 'Vineyard'), KU-PA₃-NU (Kubānu, PROBABLE), NA-DA-RE (Nadr 'Vow', PROBABLE). Ugarit has the man's name Tiyaru, ti-ya-ru₃ (RS 14.0016 r 3), the same consonants t-y-r; Linear B has the man's name te-ja-ro (KN V 479). Rival: tayyār 'trader', √t-w-r 'travel about' (Heb. hattārîm 'traders', 1 Kgs 10:15; Ug. t-r 'scour, travel through'), on the qattāl pattern of Heb. ṣayyād 'hunter' (√ṣ-w-d); tayyār itself is unattested. Not 'bull': PS \*ṯawr- keeps its w in every reflex (Ug. ṯr, Heb. šôr, Akk. šūru, Ebla šūra), and no \*tayr- is attested.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | šôr (שׁוֹר) "bull, ox" (BDB 1004); from PS \*ṯawr- via ṯ→š |
-| Ugaritic | ṯr "bull" (DULAT 916); epithet of El (ṯr ʾil) |
-| Akkadian | šūru "bull" (CAD Š/III 385) |
-| Arabic | ṯawr "bull" (Lane) |
+| Ugarit | ti-ya-ru₃ Tiyaru, a man's name (RS 14.0016 r 3, ORACC aemw/ugarit) |
+| Hebrew | hattārîm 'traders', beside rōkəlîm (1 Kgs 10:15 = 2 Chr 9:14; HALOT 1708) |
+| Ugaritic | t-r 'scour, travel through' (DULAT 862f.; GlOS 2, 304) |
 
 ### Source
 
-di Mino
+di Mino; ORACC aemw/ugarit; HALOT 1708; DULAT 862
 
 ## Attestations
 
@@ -65,7 +64,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Tayru | personal name, 'Bull' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Teyar | personal name (Ugarit Tiyaru); rival tayyār 'trader' | CANDIDATE |
 
 ## Onomasticon
 
@@ -81,6 +80,6 @@ di Mino
 
 ### Note
 
-HT 117a, one of ten entries counted 1 each under MA-KA-RI-TE (KU-RO 10), before NA-DA-RE: a name on the noun 'bull', PS \*ṯawr- with w &gt; y (Ugaritic ṯr). One witness.
+HT 117a, one of ten entries counted 1 each under MA-KA-RI-TE (KU-RO 10), before NA-DA-RE: Ugarit has the man's name Tiyaru, ti-ya-ru₃ (RS 14.0016 r 3). Rival: tayyār 'trader' (√t-w-r). See the lexicon entry. One witness.
 
 <!-- END kaphtor:record -->

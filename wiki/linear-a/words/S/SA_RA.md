@@ -34,27 +34,28 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šarra |
 | Meaning | queen, princess (feminine of šarru) |
 | Root | š-r-r |
+| Proto-Semitic | \*ŝarr- (#3463) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-Feminine counterpart of SA-RU = šarru 'king'; the -u/-a terminal vowel is the Semitic masculine/feminine marker. The only bare SA-RA is SAMWa1 (Samothrace nodule), JA-SA SA-RA TE 10 ¹⁄₁₆, whose edition is untraced; it may be JA-SA-SA-RA across a line break, as IO Za 12 writes JA-SA / SA-RA-ME and IO Za 16 JA-SA-SA-RA / ME. HT 62 .1 has \[·-·\]-SA-RA, broken before (GORILA I 117). The same family is written SA-RA₂ (20 HT tablets), A-SA-RA₂ (HT 89) and SA-RA-RA (HT 30, the geminate written out). Hebrew Sarah (שָׂרָה) 'princess' (Gen 17:15) keeps the feminine form.
+Feminine counterpart of SA-RU = šarru 'king'; the -u/-a terminal vowel is the Semitic masculine/feminine marker. The only bare SA-RA is SAMWa1 (Samothrace nodule), JA-SA SA-RA TE 10 ¹⁄₁₆, whose edition is untraced; it may be JA-SA-SA-RA across a line break, as IO Za 12 writes JA-SA / SA-RA-ME and IO Za 16 JA-SA-SA-RA / ME. HT 62 .1 has \[·-·\]-SA-RA, broken before (GORILA I 117). The same word is written SA-RA₂ (20 HT tablets). Hebrew Sarah (שָׂרָה) 'princess' (Gen 17:15) keeps the feminine form. See SA-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | šarratu 'queen' |
-| Proto-Semitic | \*sVrw(-ay)- '(military) chief, prince' (PS #15)—feminine form |
+| Amorite | šarra beside šarratum 'queen' (Gelb 1980, glossary); ʿAštar-šarra, EŠ₄-DAR-ŠAR-RA (no. 1693); Mari women's names DN-šarra(t) 'DN is the queen' (Nakata 1995, 249) |
 | Ugaritic | srn 'prince' (DULAT 759); feminine not independently attested |
 | Hebrew | śārā 'princess' (Gen 17:15); sǝrānīm 'city-princes' (KB 727) |
 | Arabic | sarw- 'chief, prince'; feminine form regular |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; Nakata 1995
 
 ## Attestations
 

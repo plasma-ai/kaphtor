@@ -34,20 +34,20 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾarṣ̂atum |
 | Meaning | earth (feminine noun with mimation—cf. Akk. erṣetum) |
 | Root | ʾ-r-ṣ̂ |
+| Proto-Semitic | \*ʾar(V)ṣ̂- (#768) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | toponym |
 
 ### Note
 
-Hapax heading on roundel HTWc3024. Mimated form of A-RA-TU (CANDIDATE, ZA7a). Akk. erṣetum shows regular feminine mimation; if Minoan uses East-Semitic-style case mimation (both genders), ʾarṣ̂atum is regular. Amorite feminine names keep -atum: Ḥananatum, Ḥayyatum (Gelb AS 21 nos. 477, 1809). Sole feminine mimation candidate in corpus (14 fem. -at tokens otherwise unmimated). Context: roundel = sealed receipt, heading = citation form where mimation expected.
+Hapax heading on roundel HTWc3024. Mimated form of A-RA-TU (CANDIDATE, ZA7a). Akk. erṣetum shows regular feminine mimation; if Minoan uses East-Semitic-style case mimation (both genders), ʾarṣ̂atum is regular. Amorite feminine names keep -atum: Ḥananatum, Ḥayyatum (Gelb AS 21 nos. 477, 1809). Sole feminine mimation candidate in corpus (14 fem. -at tokens otherwise unmimated). Context: roundel = sealed receipt, heading = citation form where mimation expected. See A-RE-TU-MI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | erṣetum "earth, land, ground"—standard fem. citation form with mimation (ORACC freq. 62) |
-| Proto-Semitic | \*ʾar(V)ṣ̂- "earth" (PS #768) |
 | Ugaritic | ʾarṣ "earth" |
 | Hebrew | ʾereṣ (אֶרֶץ) "earth, land" |
 

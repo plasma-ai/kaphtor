@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | nīnūn |
 | Meaning | offspring, descendants, posterity |
 | Root | n-y-n + plural/collective -ūn or case -un |
+| Proto-Semitic | \*nīn- (#3847) |
 | Language layer | NWS candidate |
 | Category | kinship |
 | Semantic field | kinship |

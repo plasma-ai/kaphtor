@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T03:07:18Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/I
@@ -17,7 +17,7 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/words/I/I_DA_MA_TE|I_DA_MA_TE]]: ʾidamat: the tower (DA-MA-TE with prothetic I-). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/I/I_DA_MI|I_DA_MI]]: Ida-mī: Waters of Ida—sacred springs and caves of the Idaean sanctuary. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_DA_MI|I_DA_MI]]: ʾIda=mi: Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI|I_DA_PA3_I_SA_RI]]: ʾIdā bi-ʾišarī: Ida, in righteousness (toponym + prepositional phrase written as one word). Lexicon, CANDIDATE (tier 2).
 
@@ -33,7 +33,7 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/words/I/I_JA_PA|I_JA_PA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_JA_PA_ME|I_JA_PA_ME]]: yabame: progenitress, sister-in-law (divine epithet of Anath). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_JA_PA_ME|I_JA_PA_ME]]: yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_JA_RE_DI_JA|I_JA_RE_DI_JA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -72,6 +72,8 @@ updated: 2026-10-27T03:07:18Z
 [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA|I_NA_TA_I_ZU_DI_SI_KA]]: ʿInatī ṯudī-šiqā: my Anat, Breast-Who-Gives-Drink—theonym plus compound divine epithet. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_NA_WA|I_NA_WA]]: ʾi-nawā: the dwelling, abode (sanctuary as divine habitation). Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/I/I_NA_q_TE|I_NA_q_TE]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/I/I_PA_SA_JA|I_PA_SA_JA]]: Ipšaja: Ipšaja (personal name; Hurrian hypocoristic). Lexicon, SPECULATIVE (tier 1).
 

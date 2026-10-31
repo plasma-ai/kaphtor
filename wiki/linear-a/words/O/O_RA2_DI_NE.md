@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾŌl-dīn |
 | Meaning | personal name, 'the Foremost is judge' (Ugaritic PN ảwldn); rival ʾIl-dīn 'El is judge' |
 | Root | ʾ-w-l + d-y-n |
+| Proto-Semitic | \*dyn- (#S36) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ HT 6a .4 O-RA₂-DI-NE 2, all four signs whole and undotted, in a list of NI aft
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*dyn- 'to judge; judgment' (semitic_roots no. S36) |
 | Ugaritic | ảwldn PN, etym. unc. (DULAT 128; 4.54:9, 4.129:5); ảwl 'priority, supremacy' (DULAT 128); bʕldn PN, syll. ba-aʔ-la-da/dá-ni (DULAT 207); dn 'judgment, case, sentence' (DULAT 273) |
 | Arabic | ʾāla, ʾawila 'to precede, to be first' (Lane 126) |
 | Linear A | O-RA₂ ʾŌl, DI-NE dīn; DI-RE-DI-NA ʾaddir-dīnā, DI-NI Dīnī |

@@ -46,11 +46,11 @@ The matched roundel pair HT Wc 3001 (PA-SE-JA ½) and 3002 (PA-SE-JA), Scribe 10
 | Language | Comparison |
 |---|---|
 | Nuzi | PAŠŠIJA, Pa-aš-ši-ia, two bearers, one the son of Pula-ḫali who also bears Pašši-tilla (Gelb, Purves, and MacRae 1943, 112); "Hypocoristic for Paššip-tilla" (ibid., 243) |
-| Hurrian | pašš- 'mander', Mitanni letter pa-aš-ši-en; paššithi 'messager' (Laroche 1980, 197–99) |
+| Hurrian | pašš- 'mander', Mitanni letter pa-aš-ši-en; paššithi 'messager' (Laroche 1980, 197–99); PN Paššitḫe, pa-aš-ši-it-ḫe 'messenger' (Karana; Monti 2017, 392) |
 
 ### Source
 
-di Mino; Gelb, Purves, and MacRae 1943; Laroche 1980
+di Mino; Gelb, Purves, and MacRae 1943; Laroche 1980; Monti 2017
 
 ## Attestations
 

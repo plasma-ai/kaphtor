@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | wannā lū kanāsī |
 | Meaning | and behold, may my gathering \[take place\] (proposed precative lū) |
 | Root | k-n-s |
+| Proto-Semitic | \*kanVs- (#2763) |
 | Language layer | NWS |
 | Category | libation_formula |
 | Semantic field | verbal |
 
 ### Note
 
-Normalized formula, not an independently complete spelling in the listed witness. PKZa12 preserves U-NA-RU-KA-\[?\]-JA-SI, with JA legible (GORILA IV 38). The lost sign is restored as NA from the formula, and NI fits the trace equally (Soldani 2012, 221–22 n. 129). NA-JA recurs in I-NA-JA-PA-QA on PK Za 11, which makes JA a Palaikastro spelling. Soldani's KA-NI-JA- beside KA-NI-JA-MI (CR Zf 1) would make SI an ending, not a radical. IO Za 16 is only a structural comparator: it ends U-NA-RU-KA\[ and does not preserve -NA-SI or -NA-TI. PKZa11 independently preserves U-NA-RU-KA-NA-TI. Proposed analysis: U-NA /wannā/ 'and behold' + RU /lū/ 'may' + KA-NA-SI /kanāsī/ 'my gathering.' Akkadian lū can introduce a positive injunction in a verbless clause (Huehnergard 1997 §22.2), but Duhoux 1992, 69–70 and Thomas 2020 establish only that -RU- is a morphological variant; its value and function remain uncertain.
+Normalized formula, not an independently complete spelling in the listed witness. PKZa12 preserves U-NA-RU-KA-\[?\]-JA-SI, with JA legible (GORILA IV 38). The lost sign is restored as NA from the formula, and NI fits the trace equally (Soldani 2012, 221–22 n. 129). NA-JA recurs in I-NA-JA-PA-QA on PK Za 11, which makes JA a Palaikastro spelling. Soldani's KA-NI-JA- beside KA-NI-JA-MI (CR Zf 1) would make SI an ending, not a radical. IO Za 16 is only a structural comparator: it ends U-NA-RU-KA\[ and does not preserve -NA-SI or -NA-TI. PKZa11 independently preserves U-NA-RU-KA-NA-TI. Proposed analysis: U-NA /wannā/ 'and behold' + RU /lū/ 'may' + KA-NA-SI /kanāsī/ 'my gathering.' Akkadian lū can introduce a positive injunction in a verbless clause (Huehnergard 1997 §22.2), but Duhoux 1992, 69–70 and Thomas 2020 establish only that -RU- is a morphological variant; its value and function remain uncertain. Rival √k-n-š: see U-NA-KA-NA-SI.
 
 ### Cognates
 

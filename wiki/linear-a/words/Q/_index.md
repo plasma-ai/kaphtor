@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T03:07:18Z
+updated: 2026-10-31T14:13:41Z
 ---
 
 # wiki/linear-a/words/Q
@@ -11,9 +11,11 @@ updated: 2026-10-27T03:07:18Z
 
 [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI|QA_KI_SE_NU_TI]]: Kaki-šenni-ti: personal name, Hurrian type in -šenni 'brother'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QA_KI_TI|QA_KI_TI]]: qaqqiti: the top, head (?). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QA_KI_TI_broken_both|QA_KI_TI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/Q/QA_KU_RE|QA_KU_RE]]: kakkarē: rounds of (a commodity); talent. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/Q/QA_MI_star47_NA_RA|QA_MI_star47_NA_RA]]: qāmī šū-nāra: personal name, 'who stands: He is fire'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QA_NE|QA_NE]]: qanē: reed, cane; or lapis lazuli (precious stone). Lexicon, CANDIDATE (tier 2).
 

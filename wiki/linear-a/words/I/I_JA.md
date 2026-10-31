@@ -34,24 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾiya |
 | Meaning | island |
 | Root | ʾ-y "island" |
+| Proto-Semitic | \*ʾVy- (#K0604) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | toponym |
 
 ### Note
 
-KN Za 10 preserves only right-broken I-JA\[, so it does not attest a complete standalone word or support ‘of the island.’ CR(?)Zf1 supplies the complete I-JA form in minimal context. Homograph risk remains: I-JA could be the Semitic ‘island’ word, a demonstrative or personal-name element, or—on CR(?)Zf1—a shortened vocative for Yamm. Cf. Ugaritic rbt ʾaṯrt ym and the cross-Semitic vocative particle \*yā\*. The proposed relation to A-JE /ʾaye/ remains dialectal and CANDIDATE.
+CR Zf 1 A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE: I-JA complete, after KA-NI-JA-MI qāniy-yammi 'Creator of the Sea'; KN Za 10 I-JA\[ breaks after JA. ʾiy 'island', as Hebrew ʾî Kaptôr, Crete itself (Jer 47:4). Rivals: the vocative yā; the name element ʾIyya 'where?' (Emar i-ia; GlOS 1, 59). See A-JE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | ʾī (אִי) "island, coastland" |
-| Ugaritic | iht (pl.) "islands, coastal region" (KTU 1.3 VI 8) |
+| Hebrew | ʾî (אִי) 'island, coastland', šəʾērît ʾî Kaptôr 'the remnant of the island of Caphtor' (Jer 47:4) |
+| Ugaritic | ỉht (pl. cstr.) 'islands, coastal region' (KTU 1.3 VI 8; DULAT 31; GlOS 1, 60) |
 
 ### Source
 
-di Mino
+di Mino; DULAT; GlOS 1
 
 ## Attestations
 

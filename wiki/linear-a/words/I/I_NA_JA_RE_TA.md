@@ -34,26 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | hinna yirʾat-\[…\] |
 | Meaning | behold, the reverence of… (broken) |
 | Root | h-n-n + y-r-ʾ |
+| Proto-Semitic | \*yarVʾ- (#S17) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
 
 ### Note
 
-AP Za 2 .2 I-NA-JA-RE-TA\[ \]QA; no divider follows TA, and the word may run on across the lacuna. If it ends at TA, hinna yirʾat… 'behold, the reverence of…' (Job 28:28; di Mino, Ya Diktu), with I-NA- as in I-NA-JA-PA-QA hinna yapqaḥ (PK Za 11). Rival: a toponym.
+AP Za 2 .2 I-NA-JA-RE-TA\[ \]QA; no divider follows TA, and the word may run on across the lacuna. If it ends at TA, hinna yirʾat… 'behold, the reverence of…' (Job 28:28; di Mino, Ya Diktu), with I-NA- as in I-NA-JA-PA-QA hinna yapqaḥ (PK Za 11); Ebla writes hinna i-na, in-na (GlOS 1, 218). Rival: a toponym.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*yarVʾ- 'to fear, be afraid, revere' (cf. Ugaritic yrʾ DULAT 962, Hebrew yārēʾ HALOT 432) |
 | Ugaritic | hn "behold!"; yrʾ "to fear, revere" (DULAT 962) |
 | Hebrew | hēn yirʾat (הֵן יִרְאַת) "behold, the fear of" (Job 28:28); yārēʾ (יָרֵא) "to fear, revere" (HALOT 432); yirʾā (יִרְאָה) "fear, reverence, awe" |
 | Aramaic | yᵉrēʾ 'to fear' (Jastrow 587) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

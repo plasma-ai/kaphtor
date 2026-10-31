@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yidu-naḥši |
 | Meaning | Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity' |
 | Root | y-d + n-ḥ-š |
+| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 13 .5–6 I-DU-NE-SI 5, the last recipient in the VIN · TE list headed KA-U-DE-TA, after TE-KI 27½, KU-ZU-NI 18, DA-SI-ṬA 19, before KU-RO 130½; lines .4–7 over an erasure (GORILA I 27). I-DU = yidu 'arm, strength', as in I-DU-TI; NE-SI = naḥši, ḥ unwritten: the Eblaite name i-du na-sa yidu-naḥša 'strength is alive' word for word. Cf. Amorite E-DU-NA-SA (Gelb no. 1599), unanalysed. Rivals: Hurrian nešše 'prosperity', vowels exact, beside Hurrian TE-KI; Naśiʾ, the god of DA-NA-SI, 'Naśiʾ is strength'.
+HT 13 .5–6 I-DU-NE-SI 5, the last recipient in the VIN · TE list headed KA-U-DE-TA, after TE-KI 27½, KU-ZU-NI 18, DA-SI-ṬA 19, before KU-RO 130½; lines .4–7 over an erasure (GORILA I 27). I-DU = yidu 'arm, strength', as in I-DU-TI; NE-SI = naḥši, ḥ unwritten: the Eblaite name i-du na-sa yidu-naḥša 'strength is alive' word for word. Cf. Amorite E-DU-NA-SA (Gelb no. 1599), unanalysed. Rivals: Hurrian nešše 'prosperity', vowels exact, beside Hurrian TE-KI; Naśiʾ, the god of DA-NA-SI, 'Naśiʾ is strength'. See JA-DI and I-DA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*yad- ~ \*ʾid- 'hand' (semitic_roots no. 2046) |
 | Eblaite | i-du na-sa, yidu-naḥša 'strength is alive'; i-du na, yidu-na 'our strength' (Pagan 1998, rows 2469, 2466) |
 | Akkadian | naḫāšu 'to prosper' (CAD N/1 133); naḫšu 'healthy, prosperous', PN Na-aḫ-šum (CAD N/1 142) |
 | Hurrian | nešše 'prospérité', ne-eš-ši (Laroche, GLH 181), rival |

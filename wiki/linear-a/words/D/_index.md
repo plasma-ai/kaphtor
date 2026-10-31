@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-29T17:28:27Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/D
@@ -37,7 +37,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/D/DA_MA_TE|DA_MA_TE]]: damat: tower; the unprefixed base of I-DA-MA-TE. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_ME|DA_ME]]: damu: blood (ritual allocation category); rival dimtu 'district'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_ME|DA_ME]]: damu: blood (ritual allocation category); rival dam 'kinfolk'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_MI_NU|DA_MI_NU]]: Dimenu: Dimenu (personal name; Ugaritic name type dmn). Lexicon, SPECULATIVE (tier 1).
 
@@ -49,7 +49,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/D/DA_PA3_broken_end|DA_PA3_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_QE_RA|DA_QE_RA]]: diḳaru: pot, vessel (for grain storage). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DA_QE_RA|DA_QE_RA]]: diḳaru: pot, bowl. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_RA|DA_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -97,7 +97,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/D/DI_DE|DI_DE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI_DE_RU|DI_DE_RU]]: ʾaddīru: nobles, assembly of elders, council. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/D/DI_DE_RU|DI_DE_RU]]: ʾaddīru: nobles, notables; rival ʾadr 'granary'. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/D/DI_DI|DI_DI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -175,7 +175,7 @@ updated: 2026-10-29T17:28:27Z
 
 [[wiki/linear-a/words/D/DU_RI_TE|DU_RI_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_RU_WI|DU_RU_WI]]: ḏu-lēwī: the Levite (ethnonymic designation). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DU_RU_WI|DU_RU_WI]]: ḏu-luwwī: the Levite (ethnonymic designation). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DU_SU_NI|DU_SU_NI]]: Dišon: personal name, 'antelope'. Lexicon, SPECULATIVE (tier 1).
 

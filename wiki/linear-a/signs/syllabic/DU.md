@@ -60,7 +60,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DU_PA3_NA\|DU-PA₃-NA]] | Dubbān | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_PU2_RE\|DU-PU₂-RE]] | dubur | PROBABLE |
 | [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durar | PROBABLE |
-| [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-lēwī | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-luwwī | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_SU_NI\|DU-SU-NI]] | Dišon | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |

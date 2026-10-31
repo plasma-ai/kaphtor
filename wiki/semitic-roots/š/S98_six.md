@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/S98_six
 title: "*šidṯ-: 'six'"
-desc: "Proto-Semitic *šidṯ-, 'six': reflexes in 24 language(s)."
+desc: "Proto-Semitic *šidṯ-, 'six': reflexes in 25 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S98"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | yǝtīt; hǝtt (Rubin 2018 295, 297); šīdǝṯ (Rubin 2018 300) | Rubin 2018 295, 297; Rubin 2018 300 | gloss withheld |
 | Hebrew | šiššā (OLA80 §35.2, §35.11) | OLA80 §35.2, §35.11 |  |
 | Arabic | sitta (OLA80 §35.2, §35.11) | OLA80 §35.2, §35.11 |  |
 | Ugaritic | ṯṯ (OLA80 §35.11) | OLA80 §35.11 |  |

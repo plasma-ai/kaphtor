@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tan-ʿinā-u-tī-n(u) |
 | Meaning | may you (f.) answer us (N-stem of √ʿ-n-y in the TA-NA-\[X\]-U-TI-NU frame: 2fs prefix + indicative -u + subject clitic -tī + 1cp object -n) |
 | Root | ʿ-n-y |
+| Proto-Semitic | \*ʕVnVy- (#606) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | verbal |
@@ -44,11 +45,11 @@ Paradigm entry for the √ʿ-n-y verbal family (\*301=NA writes the proposed N-s
 
 ### Cognates
 
-Hebrew עָנָה (ʿānāh) 'answer'; Ugaritic ʿny 'answer'; Amarna Canaanite ʿ-n-y forms
+Hebrew עָנָה (ʿānāh) 'answer'; Ugaritic ʿny 'answer'; Amarna Canaanite ʿ-n-y forms; Eblaite i-na-a yiʿnay, na-ni naʿni, the ʿ unwritten, Amorite ia-aḫ-nu-ú yaʿnū (GlOS 1, 84)
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

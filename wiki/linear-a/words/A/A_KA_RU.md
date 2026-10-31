@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Agaru |
 | Meaning | field or estate heading; possible Ugaritic Ugaru theonym |
 | Root | ʾ-g-r |
+| Proto-Semitic | \*(ʾV-)g(w)ar- (or \*hugar-)/\*garh- (#1807) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-Linear A writes A-KA-RU, hence Agaru; Ugaritic supplies Ugaru (ugr II), 'Field,' paired with Gapnu ('Vine') as one of Baal's two messenger-deities (DULAT 27; KTU 1.3; 1.5). A-KA-RU heads accounts at HT2 and HT86a/b as a field or estate heading; on HT86a its section stands beside one headed A-DU (Addu), so a divine or cult-institutional sense remains possible. Initial a/u remains unexplained. Rival with initial a: ʾ-g-r 'hire', Ebla a-gàr-du, Ugarit a-ga-ru-ta 'hire contract' (GlOS 1, 12–13). Akkadian ugāru is usually derived from Sumerian A.GÀR, so the term may be a Wanderwort rather than an inherited ʾ-g-r root.
+Linear A writes A-KA-RU, hence Agaru; Ugaritic supplies Ugaru (ugr II), 'Field,' paired with Gapnu ('Vine') as one of Baal's two messenger-deities (DULAT 27; KTU 1.3; 1.5). A-KA-RU heads accounts at HT2 and HT86a/b as a field or estate heading; on HT86a its section stands beside one headed A-DU (Addu), so a divine or cult-institutional sense remains possible. Initial a/u remains unexplained. Rival with initial a: ʾ-g-r 'hire', Ebla a-gàr-du, Ugarit a-ga-ru-ta 'hire contract' (GlOS 1, 12–13). Akkadian ugāru is usually derived from Sumerian A.GÀR, so the term may be a Wanderwort rather than an inherited ʾ-g-r root. See U-KA-RE.
 
 ### Cognates
 

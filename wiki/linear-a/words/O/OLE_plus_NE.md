@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | neseku |
 | Meaning | oil designated for ritual libation; sacred oil poured as an offering |
 | Root | n-s-k |
+| Proto-Semitic | \*nVsVk- (#2715) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 OLE ideogram + NE complement (5 att., Haghia Triada + Tylissos). Exclusively very small quantities (¾, ≈⅙, 2 units)—consistent with measured ritual portions, not bulk commodity \|\| ETYMOLOGY: Akk nasāku 'to pour a libation' (CAD N/II 26), Heb נֶסֶךְ nesek 'libation, drink offering' (Num 15:5, Isa 48:5), √n-s-k. NE = /ne/ = initial syllable of neseku \|\| DISTRIBUTION: HT32—allocated under \*307 (dubur 'sanctuary') heading, explicitly sacred. HT23a—OLE+NE ≈⅙ in a group of four oil preparations (OLE+NE, OLE+TU, OLE+RI, \*308) all at identical ≈⅙ quantities, suggesting a ritual recipe or sacred oil blend formula. TY3b—minor complement (2 units) alongside massive OLE+MI (anointing oil) quantities \|\| Alternative: nēru 'lamp' (√n-w-r) → lamp oil, but tiny quantities and sanctuary contexts rule it out \|\| HT32 places it under a dubur sanctuary heading.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | nesek 'libation' (HALOT 703); at Bethel Jacob wayyassēk ʿālêhā nesek and poured oil on the pillar, Gen 35:14 |
+| Ugaritic | /n-s-k/ 'to pour (out), spill' (DULAT 635) |
 
 ### Source
 

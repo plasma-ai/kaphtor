@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 | Scribe |  |
 | Edition | unattributed |
 | Series | ARGZg |
-| Images | © École Française d'Athènes |
+| Images |  |
 
 ## Text
 
@@ -49,6 +49,6 @@ Unicode (Linear A block):
 
 ## Corpus note
 
-Doubtful inscription (Del Freo & Zurbach 2011, 86)
+Doubtful inscription (Del Freo & Zurbach 2011, 86; Protonotariou-Deilaki 1990, 81, fig. 28)
 
 <!-- END kaphtor:record -->

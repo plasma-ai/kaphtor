@@ -40,6 +40,13 @@ updated: 2026-10-24T16:17:50Z
 
 Cyperus commodity logogram, not cypress and not copper. Khania is its principal distribution: 35× plain + 28× in fraction-ligatures (CYP+D, CYP+E; D/E are Bennett-convention fraction letters). The sign continues as the Linear B CYPERUS ideogram, associated with phonetic ku-pa-ro. On HT89 it opens the post-total commodity section at 2 + A732; ¾ is a modern fraction-model value rather than an uncontested reading. KH co-occurrence set includes aromatics (myrrh, \*401+RU, fine oil).
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | suādu 'an aromatic plant, Cyperus esculentus', also suʾādu, sumādu (CAD S 338) |
+| Arabic | suʿd, a species of cyperus (Lane 1361) |
+
 ### Source
 
 di Mino; conventional Aegean identification

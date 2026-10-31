@@ -34,26 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qanē |
 | Meaning | reed, cane; or lapis lazuli (precious stone) |
 | Root | q-n-y |
+| Proto-Semitic | \*ḳanaw/y- (#3035) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Exact skeleton match to Ugaritic qn with two senses: (A) "reed, cane" (√q-n-y, vocalization /qanē/; BH qāneh קָנֶה "reed, measuring rod," source of English "cane" and "canon"); (B) "lapis lazuli" (precious stone, Ugaritic-specific sense). On KH47 (Khania tablet) with quantity 6 in a commodity context—distributional evidence favors commodity over personal name. Khania is a western Cretan port with strong trade connections, consistent with either imported lapis lazuli or local reed/cane as accounting items. \|\| VARIANT: KA-NA (HT23a header of aromatics ledger, HT123+124b) is the same lexeme with q→K neutralization — attestation at two sites (HT+KH) strengthens the cane reading; lapis sense disfavored there (vowel-initial iqnu predicts I-/U- spelling).
+Exact skeleton match to Ugaritic qn with two senses: (A) "reed, cane" (√q-n-y, vocalization /qanē/; BH qāneh קָנֶה "reed, measuring rod," source of English "cane" and "canon"); (B) "lapis lazuli" (precious stone, Ugaritic-specific sense). On KH47 (Khania tablet) with quantity 6 in a commodity context—distributional evidence favors commodity over personal name. Khania is a western Cretan port with strong trade connections, consistent with either imported lapis lazuli or local reed/cane as accounting items. \|\| VARIANT: KA-NA (HT23a header of aromatics ledger, HT123+124b) is the same lexeme with q→K neutralization — attestation at two sites (HT+KH) strengthens the cane reading; the aromatics ledger disfavors the lapis sense there.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | qn "reed, cane; lapis lazuli" (DULAT; CUC) |
+| Ugaritic | qn 'cane; arrow'; lapis lazuli is ỉqnủ, var. qnỉm (KTU 2.73:7) (GlOS 1, 19, 348) |
+| Eblaite | GIŠ.GI = ga-nu-um, ga-nu-wu 'reed' (GlOS 1, 348) |
 | Hebrew | qāneh קָנֶה "reed, cane, measuring rod" (Exod 30:23, Ezek 40:3) |
 | Akkadian | qanû "reed, cane" |
-| Proto-Semitic | \*qan-ay- "reed" |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

@@ -34,12 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rōš |
 | Meaning | principal, primary, capital (quality/grade marker on sealed goods and commodity allocations) |
 | Root | r-ʔ-š |
+| Proto-Semitic | \*raʾ(i)š- (#2000) |
 | Language layer | NWS (PS \*raʔ(i)š-) |
 | Semantic field | administrative |
 
 ### Note
 
-95 total attestations (91 standalone HTWa nodules + 4 multi-word). Functions as pre-commodity modifier: RO GRA = 'principal grain', RO VIN = 'principal wine'. On standalone nodules, marks sealed goods as prime/principal category. Pan-Semitic: Akk rēšu, Heb rō(ʔ)š, Ug rʔiš, Ar raʾs, Aram rēš + Ethiopic, South Arabian, Modern South Arabian.
+95 total attestations (91 standalone HTWa nodules + 4 multi-word). Functions as pre-commodity modifier: RO GRA = 'principal grain', RO VIN = 'principal wine'. On standalone nodules, marks sealed goods as prime/principal category. Pan-Semitic: Akk rēšu, Heb rō(ʔ)š, Ug rʔiš, Ar raʾs, Aram rēš + Ethiopic, South Arabian, Modern South Arabian. See RI-SU-MA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | rūštu 'fine quality of oil', written Ì.SAG (CAD R 430); rēštû 'first, firstborn' (CAD R 274) |
+| Hebrew | rōʾš 'head; first, best'; bəśāmîm rōʾš 'the finest spices', Exod 30:23 (HALOT 1164) |
+| Ugaritic | riš 'head; authority; top; firstfruits' (DULAT 713) |
+| Phoenician | rʾš 'head, leader, capital' (Krahmalkov 436) |
 
 ## Attestations
 

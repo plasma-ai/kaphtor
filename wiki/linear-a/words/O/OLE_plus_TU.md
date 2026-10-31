@@ -33,6 +33,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | ṭuhūru 'purified/ritually clean oil' |
 | Root | ṭ-h-r |
+| Proto-Semitic | \*ṭahar- (#2660) |
 | Language layer | NWS |
 | Category | commodity ideogram |
 | Semantic field | ritual |
@@ -40,6 +41,16 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 OLE ideogram + TU adjunct. Acrophonic candidate ṭuhūru 'purified' (Ug ṭhr 'pure', vocalized /ṭuhūru/ per Huehnergard; Heb ṭāhôr); Linear A writes √ṭ-h-r in TU-\*21F-RI-NA ṭuhārī-nā (HT129). HT23a: four oil preparations (OLE+NE, OLE+TU, OLE+RI, \*308) at the same fraction under KA-NA. \*OLIV+TU (HT50a, HT101, HT116a) may write the same word on the olive host.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ṭhr 'pure'; syll. ṭu-ú-ru = Akk. ellu 'pure', h unwritten (GlOS 2, 307) |
+
+### Source
+
+di Mino; GlOS 2
 
 ## Attestations
 

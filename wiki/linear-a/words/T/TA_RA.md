@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯa(ġ)ra |
 | Meaning | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' |
 | Root | \*ṯaġr- 'gate' |
+| Proto-Semitic | \*ŝₓaʕar- (#677) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |

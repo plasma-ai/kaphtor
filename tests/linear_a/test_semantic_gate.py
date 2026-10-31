@@ -44,7 +44,7 @@ class TestMap:
                   "Fragment of a locally made limestone bowl or krater", "Serpentine cylindrical jar; HM 2479 + HM 2480",
                   "Square red-orange serpentine libation table (HM 5317)", "Square serpentine libation-table fragment",
                   "Stone libation table fragment", "Fragmentary circular serpentine libation table"]
-        pottery = ["Clay vessel", "clay vessel", "Painted clay vessel", "Pithoid jar", "Inked inscription",
+        pottery = ["Clay vessel", "clay vessel", "Painted clay vessel", "Painted cup", "Pithoid jar", "Inked inscription",
                    "Clay chalice rim (two nonjoining fragments); painted inscription"]
         unknown = ["Tablet", "Lames (short thin tablet)", "3-sided bar", "4-sided bar", "Roundel", "Nodule", "Sealing",
                    "Architecture", "Graffito", "Grave stele fragment", "Clay reel", "Clay larnax fragment",

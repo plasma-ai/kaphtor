@@ -32,7 +32,7 @@ updated: 2026-10-25T06:28:07Z
 | Hebrew | qāhāl (HALOT 1079) | HALOT 1079 | gloss withheld |
 | Judaic Aramaic | qǝhālā (HALOT 1079) | HALOT 1079 | gloss withheld |
 | Syrian Aramaic | qhālā 'gathering, assembly' (Payne Smith 491) | Payne Smith 491 |  |
-| Epigraphic South Arabian | Sab qhl (SD 104); qhl, qhlt (Biella 447) | SD 104; Biella 447 | gloss withheld |
+| Epigraphic South Arabian | Sab qhl (SD 104); qhl, qhlt (Biella 447); Qat. qhlm (Ricks 1982 s.v. qhlm) | SD 104; Biella 447; Ricks 1982 s.v. qhlm | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

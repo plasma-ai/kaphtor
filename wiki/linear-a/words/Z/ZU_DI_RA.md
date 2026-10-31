@@ -42,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 
 Exact interdental skeleton. Two roundels in the HTWc series (HTWc3011, HTWc3012) (administrative genre). Dual reading: common noun 'waitress/girl' OR Hurrian feminine PN Šiduri (see onomasticon entry). Contact layer—word is a Hurro-Hittite loan into Ugaritic (Laroche GLH 229, CAD Š/2 408); reaches Crete via Hurrian or Ugaritic channel. DULAT's own gloss carries '(?)'—marginality at Ugarit (2 attestations, both Hurrian-context texts). The Ashtart rival fails on orthographic grounds.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ṯdr 'waitress, girl', from Hurro-Hittite šiduri (DULAT 886) |
+| Akkadian | šiduri 'young woman' (CAD Š/2 408) |
+
 ### Source
 
 di Mino

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | nawā |
 | Meaning | pastureland, pastoral product (commodity logogram: nawum in administrative register, nawā in ritual/general) |
 | Root | n-w-y |
+| Proto-Semitic | \*nwy (#3654) |
 | Language layer | NWS |
 | Category | ideogram |
 | Semantic field | commodity |

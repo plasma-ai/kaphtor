@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KU_PA_RI
 title: "KU-PA-RI"
-desc: "kubīri: great ones (Kabeiri, pl./oblique); rival kᵉpārîm 'villages'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "divine_epithet"]
+desc: "kuparī: the villages, a group of men drawing grain; rival kaparrī 'junior shepherds'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "toponym"]
 kind: "word"
 form: "KU-PA-RI"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "kubīri"
+reading: "kuparī"
 attestations: ["PE1"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,33 +31,39 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | kubīri |
-| Meaning | great ones (Kabeiri, pl./oblique); rival kᵉpārîm 'villages' |
-| Root | k-b-r |
+| Reading | kuparī |
+| Meaning | the villages, a group of men drawing grain; rival kaparrī 'junior shepherds' |
+| Root | k-p-r |
+| Proto-Semitic | \*kapār- (#K0100) |
 | Language layer | NWS |
-| Category | divine_epithet |
-| Semantic field | divine |
+| Category | toponym |
+| Semantic field | toponym |
 
 ### Note
 
-PE 1 KU-PA-RI VIR 50, GRA+PA 26½, parallel to E-KA VIR 72, GRA+PA 36: two groups of men, each drawing about half a unit of grain per man. kubīri, plural/oblique of kabīru 'great one' (cf. KA-PO-RU). Rival: Hebrew kāpār 'village', pl. kᵉpārîm (Song 7:12; 1 Chr 27:25, the king's stores 'in the cities and in the villages'). One witness.
+PE 1 .2 KU-PA-RI VIR 5̣0\[, whole, under the heading U-KA-RE A-SE-SI-NA; .3 GRA+PA 26½; .3–4 E-KA\[ VIR 72, .4–5 GRA+PA 36: grain rations at ½ unit a head, VIR 53 restored from 26½ (Younger, Linear A Texts, after Tsipopoulou & Hallager 1996, 25–30). ku-pa-rī, plural oblique of \*kupr 'village', Hebrew kōper (1 Sam 6:18), with the a of the qutl plural, as bōqer, pl. bᵉqārîm (Lam 3:23). KA-PA kapa(r) heads VIR+\[?\] 62 on HT 94a in the same frame. Rival: Akkadian kaparru 'shepherd of low rank', whose men draw grain rations at Chagar Bazar and Mari (CAD K 177), which needs KU for ka. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | kabbîr 'mighty' (HALOT 458); rival kāpār 'village', pl. kᵉpārîm (HALOT 495) |
-| Akkadian | kapru 'village' (HALOT 495), the rival's cognate |
-| Arabic | kabīr, pl. kubarāʾ 'great' (Lane 2585) |
+| Hebrew | kōper 'village', wᵉʿad kōper happᵉrāzî 'and to the village of the open country' (1 Sam 6:18); pl. kᵉpārîm, beʿārîm ûbakkᵉpārîm 'in the cities and in the villages' (1 Chr 27:25) |
+| Akkadian | kaparru 'shepherd of low rank': ŠE.BA 7 LÚ ka-pa-ar-ri 'grain rations of 7 k.-shepherds' (Chagar Bazar, AOAT 1 206 A 931:16); rations ša LÚ.NA.GADA.MEŠ u LÚ ka-pa-ar-ri (ARM 5 71:6, 14) (CAD K 177), the rival |
 
 ### Source
 
-di Mino
+di Mino; CAD K
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | none |
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | kuparī | the villages, a group of men drawing grain; rival kaparrī 'junior shepherds' | SPECULATIVE |
 
 <!-- END kaphtor:record -->

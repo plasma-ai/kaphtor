@@ -34,17 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kapa(r) |
 | Meaning | entity, institution, or settlement; perhaps village |
 | Root | k-p-r |
+| Proto-Semitic | \*kapār- (#K0100) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Six Haghia Triada attestations. First word on HT 102 (SA-RA₂ GRA 976 follows; KU-RO 1060), HT 94a (VIR+\[?\] 62 follows on the line; KU-RO 110), HT 6a (divider, then DA-TA-RA) and HT 105 (broken after PA; VIR+\[?\] 234 below). An entry with ½ on HT 8b and HT 140; KA-PA-QE 5¾ on HT 6a. Hebrew and Aramaic kĕpar 'village', with final /r/ unwritten; the ½ entries make an institution or entity the rival to a place. Rival: Akkadian gabbu 'all' (Gordon, via Rendsburg 1996, 38), spelt ka-pa-šu-nu and qa-pa-šu-ma at Nuzi, where it follows a total of men (Gordon 1934, 20 §100). It fits the heads of HT 94a and HT 105, but not the ½ entries, and HT 94a closes with KU-RO.
+Six Haghia Triada attestations. First word on HT 102 (SA-RA₂ GRA 976 follows; KU-RO 1060), HT 94a (VIR+\[?\] 62 follows on the line; KU-RO 110), HT 6a (divider, then DA-TA-RA) and HT 105 (broken after PA; VIR+\[?\] 234 below). An entry with ½ on HT 8b and HT 140; KA-PA-QE 5¾ on HT 6a. Hebrew and Aramaic kĕpar 'village', with final /r/ unwritten; Bronze Age kapr 'village' at Ebla, Alalakh VII and on the Euphrates, Ug. kpr (GlOS 1, 315). The ½ entries make an institution or entity the rival to a place. Rival: Akkadian gabbu 'all' (Gordon, via Rendsburg 1996, 38), spelt ka-pa-šu-nu and qa-pa-šu-ma at Nuzi, where it follows a total of men (Gordon 1934, 20 §100). It fits the heads of HT 94a and HT 105, but not the ½ entries, and HT 94a closes with KU-RO. See KU-PA-RI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | kōper 'open village' (HALOT 495) |
+| Akkadian | kapru A 'village, farm' (CAD K 189) |
+| Ugaritic | kpr (I) 'village' (DULAT 447) |
+| Phoenician | kpr 'town, village' (Krahmalkov 240) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | piṭrī |
 | Meaning | Pitrī/Puṭrī (personal name; perhaps 'my release') |
 | Root | p-ṭ-r |
+| Proto-Semitic | \*paṭār- (#K0289) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | ritual |
@@ -46,8 +47,8 @@ Hapax on PK Za 11. Davis (2013, 42–43) and Thomas (2020, 8–10) place PI-TE-R
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | pṭry, Semitic personal name (DULAT 677); /piṭru/ 'loosening, release' |
-| Amorite | PTR 'solve, redeem'; Annu-puṭri, Ištar-puṭri |
+| Ugaritic | pṭry, Semitic personal name (DULAT 677); /piṭru/ 'loosening, release', pí-iṭ-r\[ù\] (GlOS 2, 142) |
+| Amorite | PTR 'solve, redeem'; Annu-puṭri, Ištar-puṭri; Paṭriya (Gelb 1980, no. 1056) |
 | Akkadian | paṭāru 'to release, loosen' (CAD P 297) |
 | Hebrew | פָּטַר pāṭar 'to open, release' |
 
@@ -85,6 +86,6 @@ Candidate name in PI-TE-RI A-KO-A-NE, proposed 'Pitrī, the priest'; compare Uga
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A-TA-I-\*301-WA-E]] ʾatainawē, [[wiki/linear-a/words/S/SA_SA_RA_ME|SA-SA-RA-ME]] yaššaram.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_SA_SA_RA_ME|A-SA-SA-RA-ME]] ʾaššaram, [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A-TA-I-\*301-WA-E]] ʾatainawē.
 
 <!-- END kaphtor:record -->

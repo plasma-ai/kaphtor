@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rūdī |
 | Meaning | Rule! / may you rule (jussive/imperative) |
 | Root | r-d-y |
+| Proto-Semitic | \*rVdVw-/\*rVdVy- (#1765) |
 | Language layer | NWS |
 | Semantic field | ritual |
 
 ### Note
 
-Hebrew רָדָה rādâ "to rule, have dominion" (Gen 1:26, Ps 72:8, 1 Kgs 5:4). Prayer-command on the Zakros clay vessel ZAZb34, after PU₂-RE-JA · KO-MU. Also HT141 (Haghia Triada tablet) after A-RI (harrī 'mountain of'). Weak point: the imperative of √r-d-y is rdī; RU writes the u.
+Hebrew רָדָה rādâ "to rule, have dominion" (Gen 1:26, Ps 72:8, 1 Kgs 5:4). ZA Zb 34 \]PU₂-RE-JA · KO-MU · RU-DI\[, broken after DI (GORILA IV 115); HT 141 .2 \]RU-DỊ-\[, broken on both sides (GORILA I 239). Neither witness is whole. Weak point: the imperative of √r-d-y is rdī; RU writes the u.
 
 ### Cognates
 
@@ -57,8 +58,8 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | Zakros | Clay vessel | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT141\|HT141]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | Zakros | Clay vessel | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT141\|HT141]] | Haghia Triada | Tablet | none; form not in transliteration |
 
 ## In translations
 

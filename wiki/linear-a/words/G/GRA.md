@@ -33,13 +33,22 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | dagān 'grain, cereal' |
 | Root | d-g-n |
+| Proto-Semitic | \*dVng(ʷ)- ~ \*dagan- (#2315) |
 | Language layer | NWS |
 | Category | commodity ideogram |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting grain/cereal. 60 standalone, 52 in compounds, 5 sites \|\| ETYMOLOGY: Pan-Semitic \*dagān (Heb. דָּגָן, Ug. dgn, Phoen. dgn). GRA+DA compound (HT133) shows DA as phonetic complement for /da-/ of dagān. DA-KA on 5 HTWa nodules may be phonetic /daga(n)/ equivalent \|\| 4 co-occurrences with A-DU (Storm God) confirm agricultural-cultic context. 47 tablets, 5 sites. Universal Linear B commodity logogram
+Non-phonetic commodity ideogram denoting grain/cereal. 60 standalone, 52 in compounds, 5 sites \|\| ETYMOLOGY: Pan-Semitic \*dagān (Heb. דָּגָן, Ug. dgn, Phoen. dgn). GRA+DA compound (HT133) shows DA as phonetic complement for /da-/ of dagān. DA-KA on 5 HTWa nodules may be phonetic /daga(n)/ equivalent \|\| 4 co-occurrences with A-DU (Storm God) confirm agricultural-cultic context. 47 tablets, 5 sites. Universal Linear B commodity logogram. See DA-KU-NA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | dgn (I) 'grain, wheat' (DULAT 265) |
+| Hebrew | dāgān 'grain, corn' (HALOT 214) |
+| Phoenician | dgn 'grain' (Krahmalkov 146) |
 
 ## Attestations
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | eqlu |  |  |
 | Geez | ḥaql |  |  |
 | Syrian Aramaic | ḥaql- |  |  |
-| Epigraphic South Arabian | Sab ḥql (SD 69; Biella 186; Sabaweb lemma 1554) | SD 69; Biella 186; Sabaweb lemma 1554 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥql (SD 69; Biella 186; Sabaweb lemma 1554); Qat. ḥql (Ricks 1982 s.v. ḥql) | SD 69; Biella 186; Sabaweb lemma 1554; Ricks 1982 s.v. ḥql | gloss withheld |
 | Aramaic | ḥăqal (LGz. 240) | LGz. 240 |  |
 | Mandaic Aramaic | haqal (LGz. 240) | LGz. 240 |  |
 

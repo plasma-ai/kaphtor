@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kallû |
 | Meaning | messenger, courier (title) |
 | Root | q-l-l |
+| Proto-Semitic | \*ḳVlVl- (#979) |
 | Language layer | Akkadian |
 | Category | title |
 | Semantic field | personnel |
@@ -46,7 +47,6 @@ HT 88 .4 KA-JU 1, both signs whole and undotted, the second of six one-unit entr
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ḳVlVl- 'be light' (semitic_roots no. 979) |
 | Akkadian | kallû 'messenger', LÚ ka-al-la at Ugarit (RS 16.188 r. 7; CAD K 83–84) |
 | Ugaritic | ql (II) 'courier' (KTU 4.213:27; DULAT 689) |
 

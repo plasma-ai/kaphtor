@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šima |
 | Meaning | name, renown, progeny (common noun in construct state; also attested as personal name Šima = Shem) |
 | Root | š-m (PS #621 \*(ʔi-)šim-) |
+| Proto-Semitic | \*(ʾi-)šim- (#621) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | personal_name |
 
 ### Note
 
-PHZb4 (Phaistos, clay vessel): SI-MA 𐄁 I-JA-TE. Dual function: (1) common noun šima "name of" in construct state; (2) personal name Šima = Shem, meaning "Name/Renown/Progeny." On a vessel, the PN reading is more natural — a person identified on a commodity vessel, paralleling DI-NA-U 𐄁 VIN on KNZb&lt;27&gt;. The Amorite onomastic parallel is exact: šumu- is the most productive name element in Old Babylonian Amorite onomastics (Sumu-abum, Sumu-la-El, Šumu-ditāna in Hammurabi's genealogy). Pan-Semitic noun, no root dispute. \|\| Case unassigned: nothing here selects it (Fischer 2002, §140).
+PHZb4 (Phaistos, clay vessel): SI-MA 𐄁 I-JA-TE. Dual function: (1) common noun šima "name of" in construct state; (2) personal name Šima = Shem, meaning "Name/Renown/Progeny." On a vessel, the PN reading is more natural — a person identified on a commodity vessel, paralleling DI-NA-U 𐄁 VIN on KNZb&lt;27&gt;. The Amorite onomastic parallel is exact: šumu- is the most productive name element in Old Babylonian Amorite onomastics (Sumu-abum, Sumu-la-El, Šumu-ditāna in Hammurabi's genealogy). Pan-Semitic noun, no root dispute. Amorite has the bare name ŠU-MU-UM Šumum (Gelb 1980, no. 5941). Rival: the name Šimaʿ 'hear!', Ebla si-ma, three witnesses (Pagan 1998, row 4222). \|\| Case unassigned: nothing here selects it (Fischer 2002, §140). See JA-SU-MA-TU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*šim- "name" (PS #621) |
 | Hebrew | šēm (שֵׁם) "name, renown" (BDB 1027); personal name Shem (Gen 5:32) |
 | Ugaritic | šm "name" |
 | Akkadian | šumu "name, offspring, progeny" (CAD Š/III 281); Amorite PN element: Sumu-abum "Progeny of the Father" (founder of 1st Dynasty of Babylon, c. 1894 BCE), Sumu-la-El "Progeny of God" |
@@ -55,7 +55,7 @@ PHZb4 (Phaistos, clay vessel): SI-MA 𐄁 I-JA-TE. Dual function: (1) common nou
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; Pagan 1998
 
 ## Attestations
 

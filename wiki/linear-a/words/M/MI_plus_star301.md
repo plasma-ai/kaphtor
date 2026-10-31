@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | minā |
 | Meaning | mina, portion (weight/measure unit) |
 | Root | m-n-y |
+| Proto-Semitic | \*mVnVw- (#643) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-Ligature on Khania roundels (administrative context). Akkadian manû 'to count, allot', Hebrew māneh 'mina' (standard weight unit across the ANE from Ur III through Persian period). The mina as commodity label on administrative roundels is contextually ideal.
+Ligature on Khania roundels (administrative context). Akkadian manû 'to count, allot', Hebrew māneh 'mina' (standard weight unit across the ANE from Ur III through Persian period). The mina as commodity label on administrative roundels is contextually ideal. See MI-NU-TE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | mn 'mina' (GlOS 2, 45) |
+| Egyptian | group writing man-nu₂ 'mina', a Semitic loan (GlOS 2, 45, after Hoch, SWET 127, no. 162) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Rūma |
 | Meaning | Height (toponym), the bare form of RU-MA-TA rūmatā |
 | Root | r-w-m |
+| Proto-Semitic | \*rVyVm- (#1135) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
@@ -46,7 +47,6 @@ HT 64 .2 \]NA 2 RU-MA, whole against the tablet's right edge; only GORILA's norm
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*rVyVm- 'be high, long' (semitic_roots no. 1135) |
 | Hebrew | TN Rûmâ (2 Kgs 23:36) |
 | Amorite | RUWM-AT-UM, RU-MA-TUM, personal name (Gelb 1980, no. 5306) |
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ŝáʕihor (pl.) \[LS 432\] \[SSL LS 1472\]; QALAN-V ŝä́ʕihoer \[SSL 4 97\] | LS 432; SSL LS 1472; SSL 4 97 | gloss withheld |
 | Akkadian | šārtu OB on \[CAD š2 125\], \[AHw 1191\]. | CAD š2 125; AHw 1191 | gloss withheld |
 | Harsusi | ŝōr \[JH 117\] | JH 117 | gloss withheld |
-| Eblaitic | sa-ra-tum, šè-ra-du-um /syaʕratum/ \[Fr 180; Kr 35; Bl E No. 28\]; sa-ra-tum, šè(?)-ra-du-um, si-rí-a-du /Saʿrat, Seʿrat/ (Sanmartín GlOS 2, 271) | Fr 180; Kr 35; Sanmartín GlOS 2, 271 | gloss withheld |
+| Eblaitic | sa-ra-tum, šè-ra-du-um /syaʕratum/ \[Fr 180; Kr 35; Bl E No. 28\]; sa-ra-tum, šè(?)-ra-du-um, si-rí-a-du /Saʿrat, Seʿrat/ (Sanmartín GlOS 2, 271); sa-ra-du-um (A), sa-ra-tum (B) /šaʿratum/ (= Sum. SIKI.UZUD, SIKI.LAK-175) (VE 972; Bonechi 2008, 2–3, 7); sa-ra-du-um /šaʿrātum/ (= Sum. (sag)munzerₓ(SAG×KÍD), source D) (VE 260; Bonechi 2008, 3); sa-rí-a-du /šaʿrīyatum/ (= Sum. munsub(LAK-672), MEE 4 85 obv. I 1–2 = EV 0467) (Bonechi 2008, 1, 9), read /šaʿrīyatu(m)/ (VE 970) by Fronzaroli 1995, 58; si-rí-a-du /šiʿrīyātum/ (= Sum. igi-LAK-672, sources D, B) (VE 730; Bonechi 2008, 9) | Fr 180; Kr 35; Sanmartín GlOS 2, 271; B; VE 972; Bonechi 2008, 2–3, 7; VE 260; Bonechi 2008, 3; MEE 4 85; Bonechi 2008, 1, 9; VE 970; Fronzaroli 1995; VE 730; Bonechi 2008, 9 | gloss withheld |
 | Mandaic Aramaic | sara \[DM 315\] | DM 315 | gloss withheld |
 | Ugaritic | šʕrt \[Aist 312\], /šaʕartu/ (UVST 183) | Aist 312; UVST 183 | gloss withheld |
 | Geez | ŝǝʕǝrt \[LGz 525\]. | LGz 525 | gloss withheld |

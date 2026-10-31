@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | buṭnu šamni |
 | Meaning | processed Pistacia/terebinth product, perhaps oil |
 | Root | b-ṭ-n + š-m-n |
+| Proto-Semitic | \*buṭm(-at)- (#3201) + \*šam(a)n- ~ \*sam(a)n- (#2014) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,14 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Compounds proposed commodity \*188 with modifier \*308, which also occurs with OLIV on HT123+124a and may denote an oil or processed product. The exact lexical reading and process are not independently established. HT123+124b is damaged, and its preserved quantities do not transparently reconstruct the closing totals.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | buṭnu 'terebinth' (CAD B 358); šamnu 'oil, fat, cream' (CAD Š/1 321) |
+| Hebrew | boṭnîm 'pistachio nuts', Gen 43:11 (HALOT 121); šemen 'oil, fat' (HALOT 1567) |
+| Ugaritic | šmn 'oil; fat, butter' (DULAT 815) |
 
 ### Source
 

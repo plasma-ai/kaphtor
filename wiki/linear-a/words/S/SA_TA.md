@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 117a .7 SA-TA ·, whole and undotted, heading the second section over five names with 1 each, in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI holds in the first (GORILA I 197). ša-ta on primary values, sign for sign as the Nuzi name Ša-a-ta, Ša-ta (NPN 126), which NPN files under the Hurrian element šat (NPN 252). Rival: śadā '(those of) the field', TA writing d as the T class allows, the root of SA-DI šadī (semitic_roots no. 1804; DULAT 795), since HT 87 and HT 117b put group terms in this slot. One witness.
+HT 117a .7 SA-TA ·, whole and undotted, heading the second section over five names with 1 each, in the place MA-KA-RI-TE · KI-RO · U-MI-NA-SI holds in the first (GORILA I 197). ša-ta on primary values, sign for sign as the Nuzi name Ša-a-ta, Ša-ta (NPN 126), which NPN files under the Hurrian element šat (NPN 252). Rival: śadā '(those of) the field', TA writing d as the T class allows, the root of SA-DI šadī (#1804; DULAT 795), since HT 87 and HT 117b put group terms in this slot. One witness.
 
 ### Cognates
 

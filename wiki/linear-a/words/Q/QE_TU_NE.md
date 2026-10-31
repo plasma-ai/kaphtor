@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qaṭunē |
 | Meaning | small, fine (amounts)—quality term over the QA₂-ligature entry |
 | Root | q-ṭ-n |
+| Proto-Semitic | \*ḳVṭVn- (#980) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-HT 12: QE-TU-NE · QA₂+\[?\]+PU 1, after QA-TI-DA-TE · OLE+DI 5 and \*304 5, before E 30 and MA+RU · \*118 5 (GORILA I 25). QE-TU-NE writes qaṭunē, \*qaṭun- 'small, thin' with -ē: Heb. qāṭōn, qāṭān; Akk. qatnu 'thin, fine'; Ug. qṭn. QE-TU (HT 41a) is the form without the ending. Weak point: QE for qa. Rival: a heading or name over the QA₂ entry. One attestation.
+HT 12: QE-TU-NE · QA₂+\[?\]+PU 1, after QA-TI-DA-TE · OLE+DI 5 and \*304 5, before E 30 and MA+RU · \*118 5 (GORILA I 25). QE-TU-NE writes qaṭunē, \*qaṭun- 'small, thin' with -ē: Heb. qāṭōn, qāṭān; Akk. qatnu 'thin, fine'; Ug. qṭn. QE-TU (HT 41a) is the form without the ending. Ebla writes the name ga-da-ne beside ga-da-nu, ga-da-na (GlOS 1, 358); see QE-TU. Weak point: QE for qa. Rival: a heading or name over the QA₂ entry. One attestation.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ HT 12: QE-TU-NE · QA₂+\[?\]+PU 1, after QA-TI-DA-TE · OLE+DI 5 and \*304 5, 
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

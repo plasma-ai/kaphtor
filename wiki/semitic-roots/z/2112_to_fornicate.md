@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | zny (Pa., Etpa.) 'he fornicated', zānītā 'whore, prostitute' \[Brock 200\] | Brock 200 |  |
 | Aramaic | PLM znyt \[HJ 337\] | HJ 337 | gloss withheld |
 | Amorite | znj: zanijatum, māznijatum (Gelb AS 21, 35) | Gelb AS 21 35 | gloss withheld |
-| Eblaitic | za-ne-tum (= Sum. geme-kar-AK, VE 1412a; Viganò apud Civil 2017, 123 n. 18) | VE 1412a; Civil 2017, 123 n. 18 | gloss withheld |
+| Eblaitic | za-ne-tum (= Sum. geme-kar-AK, VE 1412a; Viganò apud Civil 2017, 123 n. 18), /zāniy(a)t/ (Sanmartín GlOS 2, 384) | VE 1412a; Civil 2017, 123 n. 18; Sanmartín GlOS 2, 384 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

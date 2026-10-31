@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0211_pluck
 title: "*nVtVp-: 'pluck'"
-desc: "Proto-Semitic *nVtVp-, 'pluck': reflexes in 6 language(s)."
+desc: "Proto-Semitic *nVtVp-, 'pluck': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0211"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | natafa (Tāj 24:386) | Tāj 24:386 | gloss withheld |
 | Geez | natafa 'tear' | Anderson–Moser 2024 root ntp |  |
 | Jibbali | ntef (LGz. 407) | LGz. 407 | gloss withheld |
 | Syrian Aramaic | nətap (LGz. 407) | LGz. 407 | gloss withheld |

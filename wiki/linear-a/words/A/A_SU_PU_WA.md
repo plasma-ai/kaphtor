@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾasuppūa |
 | Meaning | store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa |
 | Root | ʾ-s-p |
+| Proto-Semitic | \*ʾVsVp- (#1467) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
@@ -46,13 +47,12 @@ ARKH 2 .5–6 A-SU-PU-WA 4, the final WA over an erasure, an entry under the hea
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾVsVp- 'gather, collect; harvest' (semitic_roots no. 1467) |
 | Hebrew | bêt hāʾăsuppîm 'the house of the stores' (1 Chr 26:15); ʾăsuppê 'storehouses of' (Neh 12:25) |
-| Ugaritic | ʾasp 'gather' |
+| Ugaritic | \|ʾ-s-p\| 'to gather up' (GlOS 1, 45) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

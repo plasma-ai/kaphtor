@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṭami |
 | Meaning | blood (with case ending -i) |
 | Root | d-m |
+| Proto-Semitic | \*dam-, \*ʾa-dam- (#156) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | body_part |
 
 ### Note
 
-ZA 21a is a tablet: \*118-MI 2 closes a quantity list (PI-MU 40, TE 2, PA 5, TA-MA-PI 3). ṭa-mi ~ Heb. דָּם dam 'blood' (HALOT 224), Ug. dm (DULAT 270), with ṭ for plain d. Rival: √ṭ-m-m with the emphatic (Harding tmm 'a kind of grass?'; Ar. ṭamma 'overflow'). A counted entry favours a commodity. One attestation, two signs. \|\| Case unassigned: nothing here selects it (Fischer 2002, §140).
+ZA 21a is a tablet: \*118-MI 2 closes a quantity list (PI-MU 40, TE 2, PA 5, TA-MA-PI 3). ṭa-mi ~ Heb. דָּם dam 'blood' (HALOT 224), Ug. dm (DULAT 270), with ṭ for plain d. Rival: √ṭ-m-m with the emphatic (Harding tmm 'a kind of grass?'; Ar. ṭamma 'overflow'). A counted entry favours a commodity. One attestation, two signs. \|\| Case unassigned: nothing here selects it (Fischer 2002, §140). See DA-ME.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | dm (II) 'blood' (DULAT 270) |
+| Hebrew | dām 'blood' (HALOT 224) |
+| Akkadian | damu 'blood; bloodshed; kin' (CAD D 75) |
 
 ### Source
 

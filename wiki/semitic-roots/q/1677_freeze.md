@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1677_freeze
 title: "*ḳVrVš-: 'freeze'"
-desc: "Proto-Semitic *ḳVrVš-, 'freeze': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḳVrVš-, 'freeze': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1677"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | qāraš (Klein s.v. קרשׁ) | Klein s.v. קרשׁ | gloss withheld |
 | Arabic | qrs |  |  |
 | Mandaic Aramaic | qaruš- adj |  | gloss withheld |
 | Syrian Aramaic | qraš 'to become chilled, frozen; to cool' (Payne Smith 521) | Payne Smith 521 |  |

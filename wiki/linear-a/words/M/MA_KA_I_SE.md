@@ -34,17 +34,18 @@ updated: 2026-10-24T16:17:50Z
 | Reading | makisu |
 | Meaning | Tax-man, Customs Official (professional-title PN, maqtil pattern) |
 | Root | m-k-s |
+| Proto-Semitic | \*mak(i)s- (#S20) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-The Egyptian reading (mk + agentive -šē) is rejected as hybrid; PS \*mak(i)s- fits consonant for consonant. The -I- is the regular epenthetic vowel in the maqtil noun pattern (instrument/place noun from √m-k-s): /makis/ → MA-KA-I-SE. The -SE is the final root consonant /s/ with dead vowel, not a gentilic suffix. Context: ZA8 allocation tablet—a tax document with personnel receiving numbered portions. Professional-title PN "Tax-man" on a tax list is semantically ideal.
+The Egyptian reading (mk + agentive -šē) is rejected as hybrid; \*mak(i)s- fits consonant for consonant. The -I- is the regular epenthetic vowel in the maqtil noun pattern (instrument/place noun from √m-k-s): /makis/ → MA-KA-I-SE. The -SE is the final root consonant /s/ with dead vowel, not a gentilic suffix. Context: ZA8 allocation tablet—a tax document with personnel receiving numbered portions. Professional-title PN "Tax-man" on a tax list is semantically ideal.
 
 ### Cognates
 
-PS \*mak(i)s- "customs dues, customs official"; Heb. מֶכֶס mekes "tax/levy" (Num 31:28); Akk. miksu "customs duty"; 1 Kgs 4:9 Māqaṣ (Solomon tax district)
+Heb. מֶכֶס mekes "tax/levy" (Num 31:28); Akk. miksu "customs duty"; 1 Kgs 4:9 Māqaṣ (Solomon tax district)
 
 ### Source
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Patne |
 | Meaning | personal name, 'Viper'; rival Ptah-theophoric |
 | Root | p-t-n |
+| Proto-Semitic | \*pa/itn- (#2423) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ HT 94b (KI-RO · TU-MA 1, PA-TA-NE 1, DE-DI 1 …), HT 122a (PA-TA-NE 1 after KU
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*pa/itn- 'asp, adder' |
 | Hebrew | peten (פֶּתֶן) 'horned viper' |
 | Syriac | patnā 'viper, asp' |
 

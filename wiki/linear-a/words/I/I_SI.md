@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾiššê |
 | Meaning | fire offering(s) |
 | Root | ʾ-š-š |
+| Proto-Semitic | \*ʾišs- (#812) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
@@ -41,6 +42,10 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 KH9 MI I-SI CYP+D ½ 2 (cyperus); PYRWc4 roundel TI (figs) I-SI. Hebrew ʾiššeh 'offering by fire' (HALOT 93). /i/-vocalized counterpart of A-SE ʾaššē; the two spellings do not share a site (A-SE: HT, ZA; I-SI: KH, PYR). One-consonant skeleton—reading rests on offering-commodity context alone.
+
+### Cognates
+
+see A-SE
 
 ### Source
 

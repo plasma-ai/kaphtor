@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kīnu |
 | Meaning | oil subtype; perhaps standard or genuine-grade oil |
 | Root | k-w-n |
+| Proto-Semitic | \*kwn- (#S35) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,15 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 OLE ideogram + KI adjunct (21 tokens at Haghia Triada, Tylissos, and Zakros). Akkadian kīnu 'true, genuine, legitimate' and Hebrew kēn 'correct, right' provide a plausible quality term, and Linear A KI-NU may preserve the full word, although its personal-name interpretation remains viable. No exact ancient collocation 'genuine oil' has been identified, so the subtype is secure but 'standard/genuine grade' remains tentative.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | kīnu 'true, reliable, just, honest' (CAD K 389) |
+| Hebrew | kēn 'correct, right, accurate' (HALOT 482) |
+| Ugaritic | kn 'fixed, immutable; complete, in order' (DULAT 443) |
+| Amorite | KWN 'be firm': kīnum (Gelb AS 21, 23) |
 
 ### Source
 

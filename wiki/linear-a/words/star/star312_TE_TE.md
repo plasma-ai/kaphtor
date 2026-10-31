@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kitītu |
 | Meaning | fine cloth (Akk. kitītu "fine, lit. linen-like, wool") |
 | Root | k-t-n |
+| Proto-Semitic | \*kitn- (#2678) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | commodity |

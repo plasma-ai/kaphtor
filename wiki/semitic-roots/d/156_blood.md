@@ -52,7 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | OLD OFF dm \[HJ 251\] | HJ 251 |  |
 | Tigrinya | däm (Kogan 2015, ch. 7 §2.2 no. 9) | Kogan 2015 ch. 7 §2.2 no. 9 |  |
 | Punic | dume (sg. with 1 sg. suff.) \[HJ 251\]; ʔdmy \[Fuentes 60\]; edom (Augustine apud HALOT 15) | HJ 251; Fuentes 60; HALOT 15 | gloss withheld |
-| Eblaitic | da-mu /damu(m)/ (VE 970; Krebernik 1983, 35; Civil 2017, 128); da-mu-da-mu, da-mu-II, da-mu /dam/ (Sanmartín GlOS 1, 147) | VE 970; Krebernik 1983, 35; Civil 2017, 128; Sanmartín GlOS 1, 147 | gloss withheld |
+| Eblaitic | da-mu /damu(m)/ (VE 970; Krebernik 1983, 35; Civil 2017, 128; Fronzaroli 1995, 58; Bonechi 2008, 2, 7); da-mu-da-mu, da-mu-II, da-mu /dam/ (Sanmartín GlOS 1, 147) | VE 970; Krebernik 1983, 35; Civil 2017, 128; Fronzaroli 1995, 58; Bonechi 2008, 2, 7; Sanmartín GlOS 1, 147 | gloss withheld |
 | Amorite | dam (Sanmartín GlOS 1, 147) | Sanmartín GlOS 1, 147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

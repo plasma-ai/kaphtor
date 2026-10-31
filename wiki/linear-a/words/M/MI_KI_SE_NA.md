@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | miksēna |
 | Meaning | coverings, blankets |
 | Root | k-s-y (miqtal \*miksay-) |
+| Proto-Semitic | \*kVsVy- (#K0104) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-HT26a: MI-KI-SE-NA 15 under the \*406VAS+KE heading, after \*312-TE-TE (linen item) and TA-TI 21. miqtal of √k-s-y: \*miksay- &gt; miksē (Heb. miksê), SE a sounded ē; -NA the plural \*-īna. KI echoes the preceding i. Not MI-KI-SA-NE (ARKH1a), read as MI + KI-SA-NE.
+HT26a: MI-KI-SE-NA 15 under the \*406VAS+KE heading, after \*312-TE-TE (linen item) and TA-TI 21. miqtal of √k-s-y: \*miksay- &gt; miksē (Heb. miksê), SE a sounded ē; -NA the plural \*-īna. KI echoes the preceding i. Not MI-KI-SA-NE (ARKH1a), read as MI + KI-SA-NE. See JA-KI-SI-KI-NU.
 
 ### Cognates
 

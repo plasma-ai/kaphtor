@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kurmu |
 | Meaning | personal name, 'Vineyard' (√k-r-m) |
 | Root | k-r-m (PS \*karm-) |
+| Proto-Semitic | \*karm- (#1045) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), a name on the noun 'vineyard', as Tēnā 'Fig' (TE-\*301). Skeleton k-r-m matches PS \*karm- "mountain with vineyard." Hebrew kerem is the exact cognate.
+HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), a name on the noun 'vineyard', as Tēnā 'Fig' (TE-\*301). Hebrew kerem is the exact cognate; Ebla has the same noun as a name, gar₃-mu karmu 'vineyard' (Pagan 1998, row 1991). See KU-RU-MA.
 
 ### Cognates
 
@@ -53,7 +54,7 @@ HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each und
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3059_bury_cover_up
 title: "*dpn: 'bury, cover up'"
-desc: "Proto-Semitic *dpn, 'bury, cover up': reflexes in 10 language(s)."
+desc: "Proto-Semitic *dpn, 'bury, cover up': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3059"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | dǝfūn (Rubin 2018 774) | Rubin 2018 774 | gloss withheld |
 | Arabic | dafīn (Lane 894); dafana (LGz. 124) | Lane 894; LGz. 124 | gloss withheld |
 | Epigraphic South Arabian | Sab dfn (Biella 85) (SD 35) | Biella 85; SD 35 | gloss withheld |
 | Geez | dafana (LGz. 124) | LGz. 124 | gloss withheld |

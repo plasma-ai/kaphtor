@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qaššāpu |
 | Meaning | sorcerer, diviner (occupational title or PN) |
 | Root | q-š-p |
+| Proto-Semitic | \*kVšVp- (#2815) |
 | Language layer | NWS |
 | Semantic field | personnel |
 

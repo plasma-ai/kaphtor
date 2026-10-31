@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šetātu |
 | Meaning | woven (cloth), a textile entry; rival šittātu 'remainder' |
 | Root | š-t-y |
+| Proto-Semitic | \*šVtVy- (#1408) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | textile |
@@ -46,7 +47,6 @@ ZA 20 .2 SI-TE-TU 1, after DU-RE-ZA-SE MI · 4 and before SI-TU 6, in a list end
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*šVtVy- 'tie, weave' (semitic_roots no. 1408) |
 | Ugaritic | štt adj. f. 'spun, woven'; RS Akk. TÚG še-ta-ti (DULAT 839) |
 | Akkadian | šatû adj. 'woven (cloth)' (CAD Š/2 207); šittātu 'remainder', pl. of šittu A (CAD Š/3 136), rival |
 

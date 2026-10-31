@@ -37,4 +37,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Hajouz 2013, 189 reads VE 469 ma-ba-da-ʔà, ma-ba-da-a as /mabṭāḥā(n)/, nominative dual, where Krebernik 1983, 17 has /mabṭāḥay/.
+
 <!-- END kaphtor:record -->

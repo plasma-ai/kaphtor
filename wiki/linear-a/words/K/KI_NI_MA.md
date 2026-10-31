@@ -34,17 +34,24 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kōhinīma |
 | Meaning | priests (plural + mimation) |
 | Root | k-h-n |
+| Proto-Semitic | \*kVhVn- (#2381) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
 
 ### Note
 
-h guttural-transparent; Heb. kōhănīm; ZA5a Zakros. Medial h drops, same pattern as RA-ME /raḥmē/, E-NA-SI /naḥāši/, JA-JA /ḥayyā/. Huehnergard: CāCiCu pattern /kāhinu/, pl. /kāhinūma/; BH kōhēn exact cognate.
+h guttural-transparent; Heb. kōhănīm; ZA5a Zakros. Medial h drops, same pattern as RA-ME /raḥmē/, E-NA-SI /naḥāši/, JA-JA /ḥayyā/. Huehnergard: CāCiCu pattern /kāhinu/, pl. /kāhinūma/; BH kōhēn exact cognate. See A-KO-A-NE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | khn 'priest', pl. khnm (GlOS 1, 302) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

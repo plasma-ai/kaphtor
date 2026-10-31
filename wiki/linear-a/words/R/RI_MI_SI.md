@@ -40,17 +40,17 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT119 RI-MI-SI 13, a group in a personnel list. /rimši/ matches the Amorite element in Rimši-ʾIl, Rimši-ʾIli, ʾAnnu-rimši, Kakka-rimši (Gelb, AS 21, nos. 5285–86, 831, 3912); Gelb leaves RMŠ unglossed. Ugaritic rmš is a divine name receiving a ram (š l rmš) in KTU 1.46:13, 1.109:7, 1.130:21 (DULAT 730). One attestation.
+HT119 RI-MI-SI 13, a group in a personnel list. /rimši/ matches the Amorite element in Rimši-ʾIl, Rimši-ʾIli, ʾAnnu-rimši, Kakka-rimši (Gelb, AS 21, nos. 5285–86, 831, 3912); Gelb leaves RMŠ unglossed, Sanmartín reads rimš 'moving, setting in motion', with Ebla ra-maš (GlOS 2, 167). Ugaritic rmš is a divine name receiving a ram (š l rmš) in KTU 1.46:13, 1.109:7, 1.130:21 (DULAT 730). One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | Gelb AS 21 root RMS (unglossed): Rimši-ʾIl RI-IM-SI-DINGIR (no. 5285) and Rimši-ʾIli RI-IM-SI-I₃-LI₂ (no. 5286), Mari; feminine ʾAnnu-rimši AN-NU-RI-IM-SI (no. 831, Mari) and Kakka-rimši KA-AK-KA-RI-IM-ŠI (no. 3912); same root Ramaši RA-MA-SI (FN), Ramišum RA-MI-SUM |
+| Amorite | Gelb AS 21 root RMS (unglossed): Rimši-ʾIl RI-IM-ŠI-DINGIR (no. 5285) and Rimši-ʾIli RI-IM-ŠI-I₃-LI₂ (no. 5286), Mari; feminine ʾAnnu-rimši AN-NU-RI-IM-ŠI (no. 831, Mari) and Kakka-rimši KA-AK-KA-RI-IM-ŠI (no. 3912); same root Ramaši RA-MA-SI (FN), Ramišum RA-MI-SUM |
 
 ### Source
 
-Gelb 1980, AS 21, nos. 831, 3912, 5285–5286; di Mino
+Gelb 1980, AS 21, nos. 831, 3912, 5285–5286; GlOS 2; di Mino
 
 ## Attestations
 

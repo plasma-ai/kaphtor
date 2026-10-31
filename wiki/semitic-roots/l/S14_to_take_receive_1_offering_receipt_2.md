@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | LQḤ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Punic | lqḥ 'take' | Anderson–Moser 2024 root lqḥ |  |
 | Canaanite | Moab lḳḥ (DNWSI 581 apud SEDonline 886) | DNWSI 581; SEDonline 886 | gloss withheld |
-| Eblaitic | a-a-da-ga-si /l-q-ḥ/ 1 (Sanmartín GlOS 2, 13) | Sanmartín GlOS 2, 13 | gloss withheld |
+| Eblaitic | a-a-da-ga-si /l-q-ḥ/ 1 (Sanmartín GlOS 2, 13); a-a-da-ga-si \[layltaqqaḥši\] /la-yiltaqqaḥ-ši/ (ARET XI 1; Fronzaroli 1995, 62) | Sanmartín GlOS 2, 13; ARET XI 1; Fronzaroli 1995, 62 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

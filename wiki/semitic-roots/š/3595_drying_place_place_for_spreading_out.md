@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3595_drying_place_place_for_spreading_out
 title: "*šṭḥ: 'drying-place, place for spreading out'"
-desc: "Proto-Semitic *šṭḥ, 'drying-place, place for spreading out': reflexes in 2 language(s)."
+desc: "Proto-Semitic *šṭḥ, 'drying-place, place for spreading out': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3595"
@@ -29,6 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | misṭaḥ, Yemeni (Tāj 6:473) | Tāj 6:473 | gloss withheld |
 | Akkadian | mašṭû, malṭû, mešṭû, melṭû (CAD M/1 396) | CAD M/1 396 | gloss withheld |
 | Hebrew | mišṭôaḥ, \*mišṭāḥ (Ezk 26:5, 14; 47:10; HALOT 644) | HALOT 644 | gloss withheld |
 

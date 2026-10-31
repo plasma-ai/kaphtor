@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ripī-Ḏāmir |
 | Meaning | personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r) |
 | Root | r-p-ʾ + ḏ-m-r |
+| Proto-Semitic | \*rVpVʾ- (#K0355) + \*ḏmr (#3465) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -49,10 +50,11 @@ PE 2: RU-PI-\*305-MI 1⅛, after a broken line, followed by A-\*325-ZA, A-RI-PA,
 | Amorite | RIPʾ-I+DN names, RI-IP-I-D-DA-GAN, RI-IP-E-D-IM (Gelb 1980, nos. 5272, 5287–5293); IR-PA-D-IM (no. 3757); ḍimrum 'protection', DIMR- names |
 | Hebrew | rpʾ 'to heal' (HALOT 1272); Zimrī (HALOT 274) |
 | Ugaritic | ḏmr 'guardian', /ḏ-m-r/ 'to protect' (DULAT 283–284) |
+| Eblaite | za-mi-lu ḏāmiru 'guardian', a name (Pagan 1998, row 5034; GlOS 1, 164) |
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; GlOS 1
 
 ## Attestations
 

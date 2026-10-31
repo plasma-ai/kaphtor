@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾilā(t) |
 | Meaning | goddess; rival ʾila 'god' |
 | Root | ʾ-l |
+| Proto-Semitic | \*ʾil- (#2719) |
 | Language layer | NWS |
 | Category | divine |
 | Semantic field | divine |
 
 ### Note
 
-HT Wa 1006–1013: eight sealings bearing only I-RA₂, in two hands (scribes 52 and 53), from one deposit, Portico 11 and Room 13, LM IB. One context. I = /ʾi/, RA₂ = /la/. PS \*ʾil- 'god', feminine \*ʾilat- 'goddess' (Akk. ilat, Ug. ilt), final -t unwritten. Rival: masculine ʾila 'god', the Amorite name element \*ilāh, almost always first in a name (Huffmon 1965, 165: I-la-sa-lim, Sa-mu-ū-i-la). \|\| Huehnergard: Ug il /ʾilu/ "god; El (supreme deity)"; Biradical qil nominal. Pl. ilm /ʾilūma/. BH cognate: ʾēl "God, El" (Canaanite Shift ī &gt; ē) (Huehnergard 2012, p. 41, §II.F)
+HT Wa 1006–1013: eight sealings bearing only I-RA₂, in two hands (scribes 52 and 53), from one deposit, Portico 11 and Room 13, LM IB. One context. I = /ʾi/, RA₂ = /la/. Feminine ʾilat- 'goddess' (Akk. ilat, Ug. ilt), final -t unwritten. Rival: masculine ʾila 'god', the Amorite name element \*ilāh, almost always first in a name (Huffmon 1965, 165: I-la-sa-lim, Sa-mu-ū-i-la); Ebla has bare i-la 'the god' as a name (Pagan 1998, row 2700). \|\| Huehnergard: Ug il /ʾilu/ "god; El (supreme deity)"; Biradical qil nominal. Pl. ilm /ʾilūma/. BH cognate: ʾēl "God, El" (Canaanite Shift ī &gt; ē) (Huehnergard 2012, p. 41, §II.F). See SA-RE-JU, PI-RU-E-JU and DI-NA-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾil- 'god, deity; El' |
 | Akkadian | ilat 'goddess' |
 | Ugaritic | ilt 'goddess' |
 | Hebrew | ʾēlat (construct) 'goddess of' |

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʔrṣ |  |  |
 | Jibbali | ʔerḍ |  |  |
 | Hebrew | ʔereṣ |  |  |
-| Epigraphic South Arabian | ʔrḍ (Sabaweb lemma 1284) | Sabaweb lemma 1284 | gloss withheld |
+| Epigraphic South Arabian | ʔrḍ (Sabaweb lemma 1284); Qat. ʔrḍ (Ricks 1982 s.v. ʔrḍ) | Sabaweb lemma 1284; Ricks 1982 s.v. ʔrḍ | gloss withheld |
 | Syrian Aramaic | (Palest, Syr) ʔarʕ- |  |  |
 | Aramaic | (Emp) ʔrq, (Nab, Palm) ʔrʕ, (Bibl) ʔăraʕ, ʔăraq (BDB 1083) | BDB 1083 |  |
 | Punic | ʾrṣ 'earth' | Anderson–Moser 2024 root ʾrḍ |  |

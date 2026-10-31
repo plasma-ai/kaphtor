@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kabīru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
 | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
 
 <!-- END kaphtor:record -->

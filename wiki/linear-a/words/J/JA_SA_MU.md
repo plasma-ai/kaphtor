@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yaśmaʿū |
 | Meaning | 'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū |
 | Root | š-m-ʿ |
+| Proto-Semitic | \*šVmaʕ- (#216) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

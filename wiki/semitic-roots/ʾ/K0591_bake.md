@@ -39,11 +39,15 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | mofe (LGz. 10) | LGz. 10 | gloss withheld |
 | Syrian Aramaic | ʾepā (LGz. 10) | LGz. 10 |  |
 | Phoenician | \*ʾpy: ʾpm (T 27) | T 27 | gloss withheld |
-| Eblaitic | a-pá-um (Kogan 2011, 242) | Kogan 2011 242 |  |
+| Eblaitic | a-pá-um (Kogan 2011, 242); a-bí-tum, a-bí-a-tum /ʾāpiytum, ʾāpiyātum/ (ARET IX; Fronzaroli 1995, 60); a-ba-um /ʾappāyum/ (= Sum. ninda-du₈-du₈) (VE 44; Bonechi 2008, 12–13); a-ba-um (= Sum. níg-du₈-du₈, EV 0237) (Fronzaroli 1995, 60) | Kogan 2011 242; ARET IX; Fronzaroli 1995, 60; VE 44; Bonechi 2008, 12–13; EV 0237 | gloss withheld |
 | Arabic | mīfan (Kogan 2011, 242) | Kogan 2011 242 | gloss withheld |
 | Judaic Aramaic | ʾape (T 27) | T 27 |  |
 | Mandaic Aramaic | ʾapʾ (T 27) | T 27 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Hajouz 2013, 65 reads VE 44 a-ba-um as /ʾapāʾum/ 'to bake', G infinitive, where Bonechi 2008, 12–13 reads /ʾappāyum/ 'baker'.
 
 <!-- END kaphtor:record -->

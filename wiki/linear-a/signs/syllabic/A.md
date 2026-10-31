@@ -44,7 +44,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
 | [[wiki/linear-a/words/A/A_star325_ZA\|A-\*325-ZA]] | ʾabūs(a) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
-| [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾaddar(t) | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | SPECULATIVE |
@@ -72,7 +72,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] | ʾamita | PROBABLE |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | CANDIDATE |
-| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | ʿAnānu | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | Ḥanānu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | CANDIDATE |
 | [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | CANDIDATE |
@@ -84,7 +84,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-rāpiʾ-rinnā | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-āna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI\|A-RI]] | harrī | CANDIDATE |
@@ -95,7 +95,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ṣadaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
-| [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasīr- | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasāra | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | CONFIRMED |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | ʾaššē-ya | SPECULATIVE |

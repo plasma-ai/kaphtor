@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | karru |
 | Meaning | pasture, meadow (estate heading) |
 | Root | k-r-r |
+| Proto-Semitic | \*karr- (#3848) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | toponym |

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dubur |
 | Meaning | sanctuary, inner sanctum (dubur) |
 | Root | d-b-r |
+| Proto-Semitic | \*dVb(V)r- (#151) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
 
 ### Note
 
-di Mino's hypothesis linking three orthographic strategies: \*307 alone, \*307-PU₂-RE, and DU-PU₂-RE. The phonetic spelling, Hebrew dəbîr 'inner sanctuary' and Linear B da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702) make /dubur/ a strong candidate. The equivalence is not epigraphically automatic in every \*307 occurrence: on HT89, \*307 is an uncomplemented heading sign and does not independently establish 'sanctuary.' No independent evidence shows that the three spellings are semantically identical. DU-PU₂-RE never stands alone: it is written inside JA-DI-KI-TE-TE-DU-PU₂-RE (PK Za 15) and PA-TA-DA-DU-PU₂-RE (HT Zb 160). PK Za 11 reads A-DI-KI-TE-TE-\[··\]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15.
+di Mino's hypothesis linking three orthographic strategies: \*307 alone, \*307-PU₂-RE, and DU-PU₂-RE. The phonetic spelling, Hebrew dəbîr 'inner sanctuary' and Linear B da-pu₂-ri-to-jo po-ti-ni-ja (KN Gg 702) make /dubur/ a strong candidate; Egyptian group writing has d-bi₄-r dabīr 'naos, inner sanctuary' (GlOS 1, 140, after Hoch, SWET 376, no. 561). The equivalence is not epigraphically automatic in every \*307 occurrence: on HT89, \*307 is an uncomplemented heading sign and does not independently establish 'sanctuary.' No independent evidence shows that the three spellings are semantically identical. DU-PU₂-RE never stands alone: it is written inside JA-DI-KI-TE-TE-DU-PU₂-RE (PK Za 15) and PA-TA-DA-DU-PU₂-RE (HT Zb 160). PK Za 11 reads A-DI-KI-TE-TE-\[··\]-RE (GORILA IV 34), two signs lost before RE, the slot DU-PU₂ fills on PK Za 15. See DU-\*314-RE.
 
 ### Cognates
 
@@ -51,7 +52,7 @@ di Mino's hypothesis linking three orthographic strategies: \*307 alone, \*307-P
 
 ### Source
 
-di Mino; Facchetti 1999; Thomas 2020
+di Mino; Facchetti 1999; Thomas 2020; GlOS 1
 
 ## Attestations
 

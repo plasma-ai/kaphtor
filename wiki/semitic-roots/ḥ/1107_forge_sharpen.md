@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1107_forge_sharpen
 title: "*ḥVdVd-: 'forge, sharpen'"
-desc: "Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1107"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Aramaic | ḥaddēd (Klein s.v. חדד) | Klein s.v. חדד | gloss withheld |
 | Arabic | ḥdd u/i,1; ḥadda 'he edged, or sharpened, a knife … with a stone or file' (Lane 524) | Lane 524 |  |
 | Hebrew | ḥdd (hof.); \*ḥad (HALOT 291) | HALOT 291 | gloss withheld |
 | Akkadian | edēdu; eddu (HALOT 291) | HALOT 291 | gloss withheld |

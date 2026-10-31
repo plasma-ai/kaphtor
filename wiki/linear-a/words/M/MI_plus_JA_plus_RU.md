@@ -34,29 +34,31 @@ updated: 2026-10-24T16:17:50Z
 | Reading | murru |
 | Meaning | myrrh or aromatic resin (compound logogram) |
 | Root | m-r-r |
+| Proto-Semitic | \*mrr (#3469) |
 | Language layer | NWS |
 | Category | logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Compound logogram (3-sign ligature). 8 tablets across 2 sites (HT×5, KH×3). Always in oil/aromatic commodity sequences alongside \*308 (šamnu), OLE+NE, OLE+RI, OLE+TA, CYP, VIN. Fractional quantities (⅙, ⅓, ½) typical of aromatics. ME-MI-JA-RU on ZAZg35 may be prefixed form \|\| ETYMOLOGY: Pan-Semitic \*mrr 'bitter' → murru 'myrrh' attested in all major branches. 3-sign compound for 2-consonant root suggests ideographic rather than phonetic compound. Cf. Uluburun shipwreck (c. 1300 BCE): aromatic resins traded between Levant and Aegean \|\| Exod 30:23 mōr-dərōr heads the anointing oil recipe in the same position MI+JA+RU occupies in LA aromatic lists
+Compound logogram (3-sign ligature). 8 tablets across 2 sites (HT×5, KH×3). Always in oil/aromatic commodity sequences alongside \*308 (šamnu), OLE+NE, OLE+RI, OLE+TA, CYP, VIN. Fractional quantities (⅙, ⅓, ½) typical of aromatics. ME-MI-JA-RU on ZAZg35 may be prefixed form \|\| ETYMOLOGY: Pan-Semitic \*mrr 'bitter' → murru 'myrrh' attested in all major branches. 3-sign compound for 2-consonant root suggests ideographic rather than phonetic compound. Cf. Uluburun shipwreck (c. 1300 BCE): aromatic resins traded between Levant and Aegean \|\| Exod 30:23 mōr-dərōr heads the anointing oil recipe in the same position MI+JA+RU occupies in LA aromatic lists. See MA-RI-RE-I.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*mrr- "to be bitter" → \*murru "myrrh, bitter resin" |
 | Akkadian | murru "myrrh, bitter resin" (CAD M/2 222; OB medical/ritual texts, c. 2000–1600 BCE) |
 | Hebrew | mōr (מֹר) "myrrh" (Exod 30:23, Song 1:13, 3:6, 4:6) |
 | Aramaic | murrā "myrrh" |
 | Arabic | murr "myrrh, bitter" |
 | Egyptian | mꜣrw "myrrh" (attested from 2400 BCE, imported from Punt) |
 | Greek | myrrha (μύρρα)—Semitic loan |
+| Ugaritic | mr 'myrrh' (DULAT 561f.) |
+| Amarna | ŠIM.ZAR.MEŠ : mu-ur-ra, a Canaanite gloss (GlOS 2, 49) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

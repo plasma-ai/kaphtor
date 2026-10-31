@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_RE_PI_RE_NA
 title: "A-RE-PI-RE-NA"
-desc: "ʾa-rāpiʾ-rinnā: Healer of Jubilation (Eshmun epithet). Lexicon, SPECULATIVE (tier 1)."
+desc: "ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "vocabulary"]
 kind: "word"
 form: "A-RE-PI-RE-NA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "ʾa-rāpiʾ-rinnā"
+reading: "ʾa-repiʾ-rennā"
 attestations: ["ZAZb3"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,20 +31,29 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾa-rāpiʾ-rinnā |
+| Reading | ʾa-repiʾ-rennā |
 | Meaning | Healer of Jubilation (Eshmun epithet) |
 | Root | r-p-ʾ + r-n-n |
+| Proto-Semitic | \*rVpVʾ- (#K0355) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
 
 ### Note
 
-Compound epithet: vocative ʾa- + rāpiʾ (participle √r-p-ʾ 'heal'; Ug. rpu) + rinnā(h) (√r-n-n 'joyful cry, jubilation'). ZAZb3 … A-TA-I-\*301-DE-KA · A-RE-PI-RE-NA · TI-TI-KU: the formula's deity slot after the A-TA-I-\*301- verb, on the vessel that names A-SA-MU-NE (Eshmun). Ps 30:3 wattirpāʾēnî and 30:6 rinnâ join the two roots. Hapax. The third sign is damaged: PI favoured, MA not excluded. Rivals: Gordon (1975, 153) reads re-ma-re-na, Aramaic mārēnā 'our lord' ('for our lord Titiku'); Woudhuizen (2016, 230) a-re ma-re-na 'our guild-master'; or prosthetic A- with ʾa-rāpiʾ-ēnā 'O our Healer' (participle + 1cp suffix).
+ZA Zb 3 .2 A-TA-I-\*301-DE-KA · A-RE-PI-RE-NA · TI-TI-KU, a healer's title on the pithos that offers wine to A-SA-MU-NE Eshmun, the healing god. Vocative ʾa-, the east-Cretan form of yā, as A-DI-KI-TE-TE (di Mino, Ya Diktu, 20), then rāpiʾ 'healer' (√r-p-ʾ) and rinnā 'joyful cry' (√r-n-n), participle and genitive in one word as KA-NI-JA-MI qāniy-yammi. It names the god whom -DE-KA addresses, as rōpʾekā 'your healer' names YHWH (Exod 15:26); Ps 30:3 and 30:6 join the two roots. RE-PI is written over an erased PI, and damage crosses PI (GORILA IV 113). Rival: Gordon (1975, 153) reads MA for PI: re-ma-re-na, Aramaic mārēnā 'our lord'. One witness. See A-RI-PA, RP-33-Y, RU-PI-\*305-MI and RA-NA-TU-SU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | rpu 'healer', divine ancestor and eponymous god (DULAT 731); rnn 'to shout', åp ån årnn ql 'then let me myself shout' (KTU 1.82:6; DULAT 731) |
+| Amorite | rāpiʾ 'healer', a DN (Gelb 1980, §0.7); RA-BI-U₂-UM, RA-BI-A-TUM (nos. 5243, 5237) |
+| Hebrew | rōpʾekā (רֹפְאֶךָ) 'your healer', kî ʾănî YHWH rōpʾekā 'for I am YHWH your healer' (Exod 15:26); wattirpāʾēnî 'and you healed me' (Ps 30:3); rinnâ 'joyful cry' (Ps 30:6) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; DULAT; GORILA IV; Gordon 1975
 
 ## Attestations
 
@@ -56,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | ʾa-rāpiʾ-rinnā | Healer of Jubilation (Eshmun epithet) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | ʾa-repiʾ-rennā | Healer of Jubilation (Eshmun epithet) | SPECULATIVE |
 
 ## Onomasticon
 
@@ -69,6 +78,10 @@ di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Clay vessel 1 |
+
+### Note
+
+Reading from the lexicon (di Mino). Exod 15:26 rōpʾekā 'your healer'.
 
 ### Co-occurring lexicon words
 

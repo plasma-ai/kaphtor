@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯudī |
 | Meaning | breast (√ṯ-d-y, PS \*ṯad-); at IOZa6 first member of ZU-DI SI-KA (ṯudī-šiqā) |
 | Root | ṯ-d |
+| Proto-Semitic | \*ṯa/ud- (#2036) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |
 
 ### Note
 
-IOZa6: first member of the compound epithet ZU-DI SI-KA (ṯudī-šiqā, 'Breast-Who-Gives-Drink'), following I-NA-TA-I (ʿInatī, 'my Anat'). The -ī on ZU-DI is treated as a construct/bound vowel linking to SI-KA, not the possessive suffix on the preceding theonym. MSA cognates (Mehri ṯódi, Harsusi ṯōdi) are close; compare Ugaritic KTU 1.23 b-ṯd aṯrt, 'at the breast of Athirat.' ZU-DI-RA occurs on HTWc3011–3012.
+IOZa6: first member of the compound epithet ZU-DI SI-KA (ṯudī-šiqā, 'Breast-Who-Gives-Drink'), following I-NA-TA-I (ʿInatī, 'my Anat'). The -ī on ZU-DI is treated as a construct/bound vowel linking to SI-KA, not the possessive suffix on the preceding theonym. MSA cognates (Mehri ṯódi, Harsusi ṯōdi) are close; compare Ugaritic KTU 1.23 b-ṯd aṯrt, 'at the breast of Athirat.' ZU-DI-RA occurs on HTWc3011–3012. See ZU-DU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ṯa/ud- "(woman's) breast" (PS #2036) |
 | Ugaritic | ṯd "breast, udder; breast-piece" (Aistleitner 332) |
 | Hebrew | šād (du. šādayim) "breast" (KB 1316); šōd "mother-breast" (KB 1317) |
 | Aramaic | taddā "breast" (Jastrow 1647) |

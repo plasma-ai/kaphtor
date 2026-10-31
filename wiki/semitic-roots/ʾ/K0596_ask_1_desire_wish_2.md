@@ -41,6 +41,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 91 sets Hebrew ʾrś 'to betroth' (Middle Hebrew ʾrs pi., Jewish Aramaic ʾrs) with Akkadian ērišu 'bridegroom' and erēšu 'to ask', in an entry apart from \*ʾrš (ʾărešet); its ś and the Aramaic s do not answer the š of ʾărešet.
+HALOT 91 sets Hebrew ʾrś 'to betroth' (Middle Hebrew ʾrs pi., Jewish Aramaic ʾrs) with Akkadian ērišu 'bridegroom' and erēšu 'to ask', in an entry apart from \*ʾrš (ʾărešet); its ś and the Aramaic s do not answer the š of ʾărešet. Hajouz 2013, 72 reads VE 234 ì-rí-sa-tum (= Sum. al-du₁₁-ga) as /ʾirišatum/ 'wish', where Sanmartín GlOS 1, 41 has /ʾiriSt, ʾirSat/.
 
 <!-- END kaphtor:record -->

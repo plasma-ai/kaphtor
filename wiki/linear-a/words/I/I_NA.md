@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | hinna |
 | Meaning | behold! (presentative particle) |
 | Root | h-n-n |
+| Proto-Semitic | \*hn (#3482) |
 | Language layer | NWS |
 | Semantic field | particle |
 
 ### Note
 
-Proposed presentative hinna 'behold!' (Hebrew hinnēh/hēn; Ugaritic hn), the bare counterpart of U-NA = u=hinna. It is proposed in PKZa11 I-NA-JA-PA-QA and may occur in APZa2. Akkadian ina 'when, in' remains an alternative in suitable contexts. IOZa6 is not an attestation: its complete middle group reads ʿInatī ṯudī-šiqā, with initial hinna a rival segmentation.
+Proposed presentative hinna 'behold!' (Hebrew hinnēh/hēn; Ugaritic hn), the bare counterpart of U-NA = u=hinna. It is proposed in PKZa11 I-NA-JA-PA-QA and may occur in APZa2. Akkadian ina 'when, in' remains an alternative in suitable contexts. IOZa6 is not an attestation: its complete middle group reads ʿInatī ṯudī-šiqā, with initial hinna a rival segmentation. See I-NA-JA-RE-TA.
 
 ### Cognates
 
@@ -47,6 +48,7 @@ Proposed presentative hinna 'behold!' (Hebrew hinnēh/hēn; Ugaritic hn), the ba
 |---|---|
 | Hebrew | hinnēh (הִנֵּה) "behold"; hēn (הֵן) "behold" |
 | Ugaritic | hn "behold!" (CUC) |
+| Eblaite | i-na, in-na, en-ma 'behold' (GlOS 1, 218) |
 | Arabic | ʾinna (إنّ) "indeed, behold" (later form, ʾ for h) |
 
 ### Source
@@ -59,11 +61,5 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa11\|PKZa11]] | Palaikastro | Stone vessel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/AP/APZa/APZa2\|APZa2]] | Apodoulou | Serpentine cylindrical jar; HM 2479 + HM 2480 | incomplete; form not in transliteration |
-
-## In translations
-
-| Document | Reading there | Gloss there | Confidence |
-|---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PE/PE6\|PE6]] | hinna | behold! (presentative particle) | CANDIDATE |
 
 <!-- END kaphtor:record -->

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mārē |
 | Meaning | lord, master (title, an entry in a KI-RO roster); rival a personal name |
 | Root | m-r-ʾ |
+| Proto-Semitic | \*marʾ- (#53) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-HT 55a .1 \]KI-RO · MA-RE 1, whole and undotted, the first of single entries owed (GORILA I 106–107). mā-rē, the -MA-RE of JI-NU-MA-RE 'wine-lords'; Ebla mar-a 'the lord' (Pagan 1998, row 3651). Ugaritic has no mrʾ 'lord' (DULAT 562). Rival: a personal name. One witness.
+HT 55a .1 \]KI-RO · MA-RE 1, whole and undotted, the first of single entries owed (GORILA I 106–107). mā-rē, the -MA-RE of JI-NU-MA-RE 'wine-lords'; Ebla mar-a 'the lord' (Pagan 1998, row 3651). Ugaritic has no mrʾ 'lord' (DULAT 562). Rival: a personal name. One witness. See MA-RI-TA₂.
 
 ### Cognates
 

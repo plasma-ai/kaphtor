@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḫ
 desc: "Semitic roots whose first radical is ḫ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T22:13:43Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ḫ
@@ -187,7 +187,7 @@ updated: 2026-10-28T22:13:43Z
 
 [[wiki/semitic-roots/ḫ/2736_wine_fermented_drink|2736_wine_fermented_drink]]: Proto-Semitic *ḫVmr-, 'wine, fermented drink': reflexes in 13 language(s).
 
-[[wiki/semitic-roots/ḫ/2749_five|2749_five]]: Proto-Semitic *ḫVmVš-, 'five': reflexes in 23 language(s).
+[[wiki/semitic-roots/ḫ/2749_five|2749_five]]: Proto-Semitic *ḫVmVš-, 'five': reflexes in 24 language(s).
 
 [[wiki/semitic-roots/ḫ/2751_cream_curd_butter|2751_cream_curd_butter]]: Proto-Semitic *ḫimʔ-at-, 'cream, curd, butter': reflexes in 9 language(s).
 
@@ -221,7 +221,7 @@ updated: 2026-10-28T22:13:43Z
 
 [[wiki/semitic-roots/ḫ/3053_scratch_scrape|3053_scratch_scrape]]: Proto-Semitic *ḫrś, 'scratch, scrape': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/3058_estimate_assess_crops|3058_estimate_assess_crops]]: Proto-Semitic *ḫrṣ, 'estimate, assess (crops)': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḫ/3058_estimate_assess_crops|3058_estimate_assess_crops]]: Proto-Semitic *ḫrṣ, 'estimate, assess (crops)': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḫ/308_night_pot|308_night_pot]]: Proto-Semitic *ḫadām-, 'night pot': reflexes in 1 language(s).
 
@@ -261,7 +261,7 @@ updated: 2026-10-28T22:13:43Z
 
 [[wiki/semitic-roots/ḫ/3555_to_cut_in_incise_to_determine|3555_to_cut_in_incise_to_determine]]: Proto-Semitic *ḫrṣ, 'to cut in, incise; to determine': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḫ/3585_to_serve_servant|3585_to_serve_servant]]: Proto-Semitic *ḫdm, 'to serve; servant': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḫ/3585_to_serve_servant|3585_to_serve_servant]]: Proto-Semitic *ḫdm, 'to serve; servant': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḫ/3586_to_act_treacherously|3586_to_act_treacherously]]: Proto-Semitic *ḫyš, 'to act treacherously': reflexes in 2 language(s).
 
@@ -281,7 +281,9 @@ updated: 2026-10-28T22:13:43Z
 
 [[wiki/semitic-roots/ḫ/3735_member_of_a_lower_social_class_freedman_free|3735_member_of_a_lower_social_class_freedman_free]]: Proto-Semitic *ḫpṯ, 'member of a lower social class; freedman, free': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/ḫ/378_ring_1_seal_on_a_ring_2|378_ring_1_seal_on_a_ring_2]]: Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 14 language(s).
+[[wiki/semitic-roots/ḫ/378_ring_1_seal_on_a_ring_2|378_ring_1_seal_on_a_ring_2]]: Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 15 language(s).
+
+[[wiki/semitic-roots/ḫ/3863_to_think_of_remember|3863_to_think_of_remember]]: Proto-Semitic *ḫss, 'to think of, remember': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḫ/407_sew|407_sew]]: Proto-Semitic *ḫVwiṭ-, 'sew': reflexes in 6 language(s).
 
@@ -311,7 +313,7 @@ updated: 2026-10-28T22:13:43Z
 
 [[wiki/semitic-roots/ḫ/739_bread|739_bread]]: Proto-Semitic *ḫubVz-, 'bread': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḫ/754_leaf|754_leaf]]: Proto-Semitic *ḫūṣ-, 'leaf': reflexes in 4 language(s).
+[[wiki/semitic-roots/ḫ/754_leaf|754_leaf]]: Proto-Semitic *ḫūṣ-, 'leaf': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ḫ/783_appear_in_the_clouds_of_lightning|783_appear_in_the_clouds_of_lightning]]: Proto-Semitic *ḫVpVw-, 'appear in the clouds (of lightning)': reflexes in 1 language(s).
 
@@ -359,7 +361,7 @@ updated: 2026-10-28T22:13:43Z
 
 [[wiki/semitic-roots/ḫ/K0781_dry_dry_up_1_be_desolate_devastated_2|K0781_dry_dry_up_1_be_desolate_devastated_2]]: Proto-Semitic *ḫVrVb-, 'dry, dry up' 1, 'be desolate, devastated' 2: reflexes in 10 language(s).
 
-[[wiki/semitic-roots/ḫ/K0782_gnash|K0782_gnash]]: Proto-Semitic *ḫVrVq-, 'gnash': reflexes in 3 language(s).
+[[wiki/semitic-roots/ḫ/K0782_gnash|K0782_gnash]]: Proto-Semitic *ḫVrVq-, 'gnash': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḫ/K0784_dung|K0784_dung]]: Proto-Semitic *ḫVrVʾ-, 'dung': reflexes in 2 language(s).
 

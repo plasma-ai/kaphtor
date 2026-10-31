@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3575_wadi_river_valley
 title: "*wdy: 'wadi, river valley'"
-desc: "Proto-Semitic *wdy, 'wadi, river valley': reflexes in 2 language(s)."
+desc: "Proto-Semitic *wdy, 'wadi, river valley': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3575"
@@ -29,6 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | wōdi; ḥǝwōdi (Rubin 2018 98) | Rubin 2018 98 | gloss withheld |
 | Arabic | wādin 'a valley; a water-course, torrent-bed' (Lane 3051) | Lane 3051 |  |
 | Epigraphic South Arabian | Sab wdy-n, pl. ʾwdyt, ʾwdw (SD 156); wd, wdy(n), pl. ʾwdytn; pl. ʾwdwn (Biella 121) | SD 156; Biella 121 | gloss withheld |
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ʾ
 desc: "Semitic roots whose first radical is ʾ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T00:24:55Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ʾ
@@ -269,7 +269,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ʾ/2561_what_q|2561_what_q]]: Proto-Semitic *ʾini(m)-, 'what?': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ʾ/2566_woman|2566_woman]]: Proto-Semitic *ʾanṯ-at-, 'woman': reflexes in 20 language(s).
+[[wiki/semitic-roots/ʾ/2566_woman|2566_woman]]: Proto-Semitic *ʾanṯ-at-, 'woman': reflexes in 21 language(s).
 
 [[wiki/semitic-roots/ʾ/2567_father_1_lord_2|2567_father_1_lord_2]]: Proto-Semitic *ʾad-, 'father' 1, 'lord' 2: reflexes in 5 language(s).
 
@@ -299,7 +299,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ʾ/2861_be_confused|2861_be_confused]]: Proto-Semitic *ʾVlVḫ-, 'be confused': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ʾ/2913_four|2913_four]]: Proto-Semitic *ʾarbaʕ-, 'four': reflexes in 19 language(s).
+[[wiki/semitic-roots/ʾ/2913_four|2913_four]]: Proto-Semitic *ʾarbaʕ-, 'four': reflexes in 20 language(s).
 
 [[wiki/semitic-roots/ʾ/2982_tin|2982_tin]]: Proto-Semitic *ʔannāk-, 'tin': reflexes in 6 language(s).
 
@@ -335,7 +335,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ʾ/3232_there_is_not|3232_there_is_not]]: Proto-Semitic *ʾayn-, 'there is not': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ʾ/3233_you_fem_pl|3233_you_fem_pl]]: Proto-Semitic *ʾantinna, 'you (fem. pl.)': reflexes in 9 language(s).
+[[wiki/semitic-roots/ʾ/3233_you_fem_pl|3233_you_fem_pl]]: Proto-Semitic *ʾantinna, 'you (fem. pl.)': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/ʾ/3265_to_grant_give_a_gift_gift|3265_to_grant_give_a_gift_gift]]: Proto-Semitic *ʔwš, 'to grant, give a gift; gift': reflexes in 3 language(s).
 
@@ -359,11 +359,25 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ʾ/368_plait_weave|368_plait_weave]]: Proto-Semitic *ʾVrVg-, 'plait, weave': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ʾ/3713_where_q_whither_q_whence_q|3713_where_q_whither_q_whence_q]]: Proto-Semitic *ʾn, 'where?, whither?; whence?': reflexes in 2 language(s).
+[[wiki/semitic-roots/ʾ/3713_where_q_whither_q_whence_q|3713_where_q_whither_q_whence_q]]: Proto-Semitic *ʾn, 'where?, whither?; whence?': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ʾ/3778_be_strong_1_strong_strength_2|3778_be_strong_1_strong_strength_2]]: Proto-Semitic *ʾVmVṣ-, 'be strong' 1, 'strong; strength' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ʾ/3783_precede_be_first_1_priority_supremacy_2|3783_precede_be_first_1_priority_supremacy_2]]: Proto-Semitic *ʾawl-, 'precede, be first' 1, 'priority, supremacy' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ʾ/3791_you_masc_pl_independent_pronoun|3791_you_masc_pl_independent_pronoun]]: Proto-Semitic *ʾantum(ū), 'you (masc. pl.)' (independent pronoun): reflexes in 6 language(s).
+
+[[wiki/semitic-roots/ʾ/3795_in_at_through_preposition|3795_in_at_through_preposition]]: Proto-Semitic *ʾin, 'in, at, through' (preposition): reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ʾ/3814_a_costly_or_sacral_garment_tunic_ephod|3814_a_costly_or_sacral_garment_tunic_ephod]]: Proto-Semitic *ʾipād-, 'a costly or sacral garment, tunic, ephod': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/ʾ/3818_dust_fine_powder|3818_dust_fine_powder]]: Proto-Semitic *ʾabaq-, 'dust, fine powder': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ʾ/3864_to_embrace_fibula|3864_to_embrace_fibula]]: Proto-Semitic *ʾdr, 'to embrace; fibula': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ʾ/408_bind_join_1_hobble_2|408_bind_join_1_hobble_2]]: Proto-Semitic *ʾVsir-, 'bind, join' 1, 'hobble' 2: reflexes in 17 language(s).
 
-[[wiki/semitic-roots/ʾ/419_join_1_attach_2_to_come_arrive_3|419_join_1_attach_2_to_come_arrive_3]]: Proto-Semitic *ʾ/wVṣVl-, 'join' 1, 'attach' 2, 'to come, arrive' 3: reflexes in 7 language(s).
+[[wiki/semitic-roots/ʾ/419_join_1_attach_2_to_come_arrive_3|419_join_1_attach_2_to_come_arrive_3]]: Proto-Semitic *ʾ/wVṣVl-, 'join' 1, 'attach' 2, 'to come, arrive' 3: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ʾ/425_run_away_of_slaves|425_run_away_of_slaves]]: Proto-Semitic *ʾVbiḳ-, 'run away (of slaves)': reflexes in 1 language(s).
 

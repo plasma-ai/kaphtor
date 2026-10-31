@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾi-ṯawrīnīt |
 | Meaning | She-of-the-Bull (feminine personal/divine name) |
 | Root | ṯ-w-r |
+| Proto-Semitic | \*ṯawr- (#269) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
@@ -44,11 +45,11 @@ Feminine counterpart of ZU-RI-NI-MA (KN Zb 52, masculine with mimation). I- = pr
 
 ### Cognates
 
-PS \*ṯawr- "bull, ox" (#269); Ug. ṯr/ṯrn "bull" (KTU deity epithet, PN element); Heb. שׁוֹר šōr "ox" (&lt; \*ṯawr with interdental→sibilant); Ar. ṯawr "bull"
+Ug. ṯr/ṯrn "bull" (KTU deity epithet, PN element); Heb. שׁוֹר šōr "ox" (&lt; \*ṯawr with interdental→sibilant); Ar. ṯawr "bull"; Ebla šu-ra, šu-ru₁₂, su-rí-a, 'bull' names (Pagan 1998, rows 4404, 4410, 4294); Euphratian šu-ra-nu, ab-du-šu-ri-im (GlOS 2, 330)
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; GlOS 2
 
 ## Attestations
 

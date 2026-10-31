@@ -71,7 +71,7 @@ maintainer's key, not shipped; with it, `--key KEY` restores every file to its r
 
 | Check | Rests on | Recorded value | Rerun |
 |---|---|---|---|
-| blindness word list | `data/linear-a/corpus.json`, read by `check_inventory.py` | 1,070 hyphenated words, sha256 `e60a13f0…` (the research corpus gives the same list) | `reproduce` |
+| blindness word list | `data/linear-a/protocol-c-c1-words.txt`, the hyphenated words of the `corpus.json` `check_inventory.py` read in C1 | 1,070 hyphenated words, sha256 `e60a13f0…` (the research corpus gives the same list) | `reproduce`, which also reports how far today's `corpus.json` has moved from it |
 | the six inventories | `builds/<arm>/inventory.json` and its kit, through `check_inventory.py` | `inventory.filled.json`: cs `73266e62…` (183 entries), yd `82fc1ef1…` (52), luwian `df9ba92e…` (87), hurrian `aee54daf…` (303), egyptian `a38b7715…` (116), greek `557c3b43…` (382) | `reproduce`, byte for byte |
 | greek refusal | `builds/greek/inventory.v1.json` | refused: `greek_274`, corpus word `a-i` | `reproduce` |
 | blindness audits | the audit in `run_builder.sh`, on each `*.redacted.jsonl` | cs 30 commands, yd 21, luwian 12, hurrian 21, egyptian 24, greek 35 and its correction 10; no path outside the kit | `reproduce`, byte for byte |

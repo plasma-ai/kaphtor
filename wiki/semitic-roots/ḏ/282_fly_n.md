@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʔedbíboh \[LS 121\]. | LS 121 |  |
 | Akkadian | zumbu (zubbu, zunbu) OB on \[CAD z 154\], \[AHw. 1535-6\] | CAD z 154; AHw. 1535-6 | gloss withheld |
 | Harsusi | ḏebbēt \[JH 27\]. | JH 27 |  |
-| Eblaitic | za-ba-bù-um = NINza-bux(NI) \[MEE IV 368\].; za-ba-bù-um /ḏab(a)b/ (Sanmartín GlOS 1, 159) | MEE IV 368; Sanmartín GlOS 1, 159 | gloss withheld |
+| Eblaitic | za-ba-bù-um = NINza-bux(NI) \[MEE IV 368\].; za-ba-bù-um /ḏab(a)b/ (Sanmartín GlOS 1, 159); šè-bù /ḏibbum/ (= Sum. bir₅) (VE 1098; Bonechi 2008, 16 and n. 75) | MEE IV 368; Sanmartín GlOS 1, 159; VE 1098; Bonechi 2008, 16 and n. 75 | gloss withheld |
 | Geez | zǝnb \[LGz. 640\]. | LGz. 640 | gloss withheld |
 | Gurage | (all dialects) zǝmb \[LGur. 708\]. | LGur. 708 | gloss withheld |
 | Jibbali | ḏǝbbɔ́t \[JJ 45\]. | JJ 45 |  |

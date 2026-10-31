@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/S105_to_swear_adjure
 title: "*šbʿ: 'to swear, adjure'"
-desc: "Proto-Semitic *šbʿ, 'to swear, adjure': reflexes in 2 language(s)."
+desc: "Proto-Semitic *šbʿ, 'to swear, adjure': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S105"
@@ -29,6 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Judaic Aramaic | ʾištᵉbaʿ, ʾištabbaʿ (Klein s.v. שׁבע ᴵᴵ) | Klein s.v. שׁבע ᴵᴵ | gloss withheld |
 | Hebrew | nišbaʿ (OLA80 §35.34); šǝbûʿâ (HALOT 1384) | OLA80 §35.34; HALOT 1384 | gloss withheld |
 | Punic | Neo-Punic šbʿt (T 312) | T 312 | gloss withheld |
 

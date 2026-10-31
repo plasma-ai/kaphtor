@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḏā-šiṭṭa |
 | Meaning | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa |
 | Root | ḏ + š-n-ṭ |
+| Proto-Semitic | \*šint- (#3629) |
 | Language layer | NWS |
 | Category | gentilic |
 | Semantic field | personnel |
@@ -46,7 +47,7 @@ HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*šint- 'acacia' (semitic_roots no. 3629), a loan from Egyptian šnd.t |
+| Egyptian | šnd.t 'acacia', the source of the Semitic loan |
 | Hebrew | šiṭṭâ, pl. šiṭṭîm 'acacia' (HALOT 1473); place names Beth-Shittah (Judg 7:22), Abel-Shittim (Num 33:49) |
 | Akkadian | šamṭu, šanṭu (HALOT 1473) |
 

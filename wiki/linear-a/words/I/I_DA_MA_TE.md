@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾidamat |
 | Meaning | the tower (DA-MA-TE with prothetic I-) |
 | Root | d-m-t |
+| Proto-Semitic | \*dim- (#656) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
 
 ### Note
 
-AR Zf 1 and AR Zf 2 are separate one-word inscriptions on metal objects from Arkhalkhori. Their I-DA-MA-TE form stands in a formal I-/zero alternation with DA-MA-TE at KY Za 2. This supports prothetic I- before the same lexical base and rules out the syntactically reversed Akkadian construct Ida-māt, "Land of Ida." The lexical identification remains CANDIDATE because the inscriptions supply no sentence-level context.
+AR Zf 1 and AR Zf 2 are separate one-word inscriptions on metal objects from Arkhalkhori; AR Zf 2 breaks after TE (I-DA-MA-TE\[). Their I-DA-MA-TE form stands in a formal I-/zero alternation with DA-MA-TE at KY Za 2. This supports prothetic I- before the same lexical base and rules out the syntactically reversed Akkadian construct Ida-māt, "Land of Ida." The lexical identification remains CANDIDATE because the inscriptions supply no sentence-level context. Rival: a personal name, as for DA-MA-TE.
 
 ### Cognates
 
@@ -55,7 +56,7 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/AR/ARZf/ARZf1\|ARZf1]] | Arkhalkhori | Metal object | complete |
-| [[wiki/linear-a/inscriptions/AR/ARZf/ARZf2\|ARZf2]] | Arkhalkhori | Metal object | complete |
+| [[wiki/linear-a/inscriptions/AR/ARZf/ARZf2\|ARZf2]] | Arkhalkhori | Metal object | complete; form not in transliteration |
 
 ## In translations
 

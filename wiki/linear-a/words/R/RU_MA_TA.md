@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rūmatā |
 | Meaning | the Height (toponym of the Ramah/Ramoth type) |
 | Root | r-w-m |
+| Proto-Semitic | \*rVyVm- (#1135) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Bare RU-MA-TA at HT29 (qty 2) and HT99b (qty 1, after SI+SE-NI); RU-MA-TA-SE on ZA20 (qty 3) beside DU-RE-ZA-SE: bare at home, -SE abroad. Every attestation carries a quantity: a recipient entry, not a header. √r-w-m 'to be high': \*rūmat-, feminine noun of place. Hebrew toponyms רוּמָה Rûmâ (2 Kgs 23:36, the u-vowel form), אֲרוּמָה ʾĂrûmâ (Judg 9:41), רָמַת Rāmat (Josh 13:26), הָרָמָתָה hā-Rāmātâ (1 Sam 1:19), רָאמֹת Rāʾmōt (Josh 20:8); Ugaritic rm 'to go up'. Final -A is the written vowel. Aegean comparandum: LB o-ru-ma-to = \*Orumanthos (PY Cn 3.6; ethnic o-ru-ma-si-ja-jo, PY An 519.12), cf. Ἐρύμανθος, a mountain; Linear A spelling hides a nasal before a stop, so RU-MA-TA may write \*rumanth-. The three-consonant skeleton alone matches names no better than chance.
+Bare RU-MA-TA at HT29 (qty 2) and HT99b (qty 1, after SI+SE-NI); RU-MA-TA-SE on ZA20 (qty 3) beside DU-RE-ZA-SE: bare at home, -SE abroad. Every attestation carries a quantity: a recipient entry, not a header. √r-w-m 'to be high': \*rūmat-, feminine noun of place. Hebrew toponyms רוּמָה Rûmâ (2 Kgs 23:36, the u-vowel form), אֲרוּמָה ʾĂrûmâ (Judg 9:41), רָמַת Rāmat (Josh 13:26), הָרָמָתָה hā-Rāmātâ (1 Sam 1:19), רָאמֹת Rāʾmōt (Josh 20:8); Ugaritic rm 'to go up'. Final -A is the written vowel. Aegean comparandum: LB o-ru-ma-to = \*Orumanthos (PY Cn 3.6; ethnic o-ru-ma-si-ja-jo, PY An 519.12), cf. Ἐρύμανθος, a mountain; Linear A spelling hides a nasal before a stop, so RU-MA-TA may write \*rumanth-. The three-consonant skeleton alone matches names no better than chance. See RU-MA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | rāmâ 'height, high place' (HALOT 1240), and the town hārāmâ, Judg 4:5 |
+| Ugaritic | rm 'high, lofty'; 'height' (DULAT 730) |
+| Amorite | RWM 'be high': rāmum, rāmatum (Gelb AS 21, 29–30) |
+| Phoenician | rm 'high, lofty' (Krahmalkov 444) |
 
 ### Source
 

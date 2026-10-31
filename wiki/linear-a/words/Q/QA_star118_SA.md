@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qaṭʿ-ša |
 | Meaning | its portion (a measured share); rival qadaša 'holy portion' |
 | Root | q-ṭ-ʕ |
+| Proto-Semitic | \*qVṭVʿ- (#K0337) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |

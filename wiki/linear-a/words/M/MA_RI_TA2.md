@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | marʾ(i)tā |
 | Meaning | the Lady (divine title; personal-name element) |
 | Root | m-r-ʾ |
+| Proto-Semitic | \*marʾ-at- (#55) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Second element of HT 90 SI-RU-MA-RI-TA₂, written as one word (GORILA I 143): Ṣill-marʾita 'Shade of the Lady', the Amorite pattern of Ṣill-Haddu. PS \*marʾ-at- 'woman, lady', feminine of \*marʾ- 'lord': Sabaic mrʾt 'woman, girl; lady, divine or human' (Biella 1982, 283), Akkadian mārtu (marʾatu, merʾatu) (CAD M/1 300), Aramaic mārtā 'lady' (the name Martha), Arabic marʾat-. The glottal stop is unwritten, and TA₂ gives final -ta as in KI-RE-TA₂.
+Second element of HT 90 SI-RU-MA-RI-TA₂, written as one word (GORILA I 143): Ṣill-marʾita 'Shade of the Lady', the Amorite pattern of Ṣill-Haddu (Gelb 1980, no. 6482) and Ṣill-ʿAnat, with a goddess (no. 4716). Feminine of marʾ- 'lord': Sabaic mrʾt 'woman, girl; lady, divine or human' (Biella 1982, 283), Akkadian mārtu (marʾatu, merʾatu) (CAD M/1 300), Aramaic mārtā 'lady' (the name Martha), Arabic marʾat-. The glottal stop is unwritten, and TA₂ gives final -ta as in KI-RE-TA₂. See MA-RE.
 
 ### Cognates
 
@@ -50,10 +51,11 @@ Second element of HT 90 SI-RU-MA-RI-TA₂, written as one word (GORILA I 143): �
 | Akkadian | mārtu (marʾatu, merʾatu) 'daughter, girl, woman' (CAD M/1 300) |
 | Aramaic | mārtā 'lady' (Martha) |
 | Arabic | marʾat-, imraʾat- 'woman' |
+| Amorite | MA-RA-TUM maʾratum, MA-RI-TUM maʾritum, names (Gelb 1980, nos. 4536, 4541) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980
 
 ## Attestations
 

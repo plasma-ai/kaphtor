@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/SA025_plaster_lime_plaster
 title: "*gyr: 'plaster; lime-plaster'"
-desc: "Epigraphic South Arabian headword *gyr, 'plaster; lime-plaster': reflexes in 4 language(s)."
+desc: "Epigraphic South Arabian headword *gyr, 'plaster; lime-plaster': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA025"
@@ -29,7 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab gyr (SD 52; Biella 71; Sabaweb lemma 4184) | SD 52; Biella 71; Sabaweb lemma 4184 | gloss withheld |
+| Judaic Aramaic | gīrā (Klein s.v. גִּיר) | Klein s.v. גִּיר | gloss withheld |
+| Epigraphic South Arabian | Sab gyr (SD 52; Biella 71; Sabaweb lemma 4184); Qat. mgyrtn (Ricks 1982 s.v. mgyrtn) | SD 52; Biella 71; Sabaweb lemma 4184; Ricks 1982 s.v. mgyrtn | gloss withheld |
 | Arabic | Ar jayr (Biella 71) | Biella 71 | gloss withheld |
 | Geez | gayara (LGz. 208) | LGz. 208 | gloss withheld |
 | Hebrew | gīr (LGz. 208) | LGz. 208 | gloss withheld |

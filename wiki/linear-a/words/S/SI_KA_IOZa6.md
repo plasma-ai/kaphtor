@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šiqā |
 | Meaning | Who Gives Drink (proposed second member of a divine epithet; participial/verbal noun of √š-q-y) |
 | Root | š-q-y |
+| Proto-Semitic | \*šVḳ- (#1389) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |
 
 ### Note
 
-Ritual homograph, kept separate from administrative SI-KA √š-k-n (HT nodules, KH5). In the undivided IO Za 6 group I-NA-TA-I-ZU-DI-SI-KA, it is tentatively segmented after ZU-DI and read as the second member of ṯudī-šiqā, "Breast-Who-Gives-Drink." The root and divine-epithet syntax are Semitically plausible, but Linear A supplies neither a divider before SI-KA nor independent confirmation of this vocalization.
+Ritual homograph, kept separate from administrative SI-KA √š-k-n (HT nodules, KH5). In the undivided IO Za 6 group I-NA-TA-I-ZU-DI-SI-KA, it is tentatively segmented after ZU-DI and read as the second member of ṯudī-šiqā, "Breast-Who-Gives-Drink." The participle sāqiy 'waterer' (GlOS 2, 245), Ebla saqat 'libation' (GlOS 2, 246) and the Ebla name si-gi-da-mu 'give drink, Damu!' (Pagan 1998, row 4205) attest the root. The root and divine-epithet syntax are Semitically plausible, but Linear A supplies neither a divider before SI-KA nor independent confirmation of this vocalization.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*š-q-y "to give drink, to water" (PS #2705) |
 | Ugaritic | šqy "to give drink" (DULAT 827) |
 | Hebrew | hišqā (הִשְׁקָה) "to give drink, to water" (HALOT 1640); šiqqūy (שִׁקּוּי) "drink, watering"; mašqeh (מַשְׁקֶה) "cupbearer, drink" |
 | Akkadian | šaqû "to give to drink, to irrigate" (CAD Š2 20); šāqû "cupbearer" |
@@ -54,7 +54,7 @@ Ritual homograph, kept separate from administrative SI-KA √š-k-n (HT nodules,
 
 ### Source
 
-di Mino
+di Mino; GlOS 2; Pagan 1998
 
 ## Attestations
 

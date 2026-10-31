@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_DE
 title: "PA-DE"
-desc: "Padī: personal name 'redeemed' (p-d-y); recipient of wine. Lexicon, SPECULATIVE (tier 1)."
+desc: "Padī: personal name 'redeemer' (p-d-y); recipient of wine. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "PA-DE"
@@ -32,8 +32,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Padī |
-| Meaning | personal name 'redeemed' (p-d-y); recipient of wine |
+| Meaning | personal name 'redeemer' (p-d-y); recipient of wine |
 | Root | p-d-y |
+| Proto-Semitic | \*pVdVy- (#K0246) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -42,9 +43,16 @@ updated: 2026-10-24T16:17:50Z
 
 HT 9a SA-RO · TE · VIN · PA-DE · 5¾, the first entry of the wine roster; HT 9b PẠ-DẸ 3, both signs dotted (GORILA I 18–19); HT 122a PA-DE 1. HT 122a recopies the HT 9 roster, so the three are one context. Ugaritic pdy (II) is a personal name, spelled syllabically pa-di, pa-di-ya (DULAT 653); Padi is also the king of Ekron in Neo-Assyrian texts (ORACC). DE writes the final ī. Rival: pa-de, a divine recipient at Knossos (KN Fp 1, Fp 48), which Landau compares with Linear A PA-DE (DMic II s.v.).
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | ba-ti pādī 'ransomer', ba-ti-a (Pagan 1998, rows 1132–1133) |
+| Ugaritic | pdy (II), a name, syll. pa-di, pa-di-ya (DULAT 653); pādiy 'redeemer, ransomer' (GlOS 2, 123) |
+
 ### Source
 
-DULAT 653 s.v. pdy (II); DMic II s.v. pa-de; di Mino
+DULAT 653 s.v. pdy (II); DMic II s.v. pa-de; Pagan 1998; GlOS 2; di Mino
 
 ## Attestations
 

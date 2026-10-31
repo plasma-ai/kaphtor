@@ -79,6 +79,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Sidiya/Šadiya | PROBABLE |
 | [[wiki/linear-a/words/T/TA_DI\|TA-DI]] | dādī | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdumī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 | [[wiki/linear-a/words/W/WI_DI_NA\|WI-DI-NA]] | Widdīna | SPECULATIVE |

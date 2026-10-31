@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dānīlo / Dānīlu |
 | Meaning | personal name ("El judges"—Ugaritic hero-king Dāniʾēlu) |
 | Root | d-y-n + ʾēl |
+| Proto-Semitic | \*dyn- (#S36) + \*ʾil- (#2719) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

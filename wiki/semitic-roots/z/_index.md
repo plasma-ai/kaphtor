@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T02:57:39Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/z
@@ -122,6 +122,8 @@ updated: 2026-10-29T02:57:39Z
 [[wiki/semitic-roots/z/3681_to_buzz_resound_make_a_confused_sound|3681_to_buzz_resound_make_a_confused_sound]]: Proto-Semitic *zmm, 'to buzz, resound, make a confused sound': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/z/3764_to_spread_the_wings|3764_to_spread_the_wings]]: Proto-Semitic *zpp, 'to spread the wings': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/3811_prince_1_princely_seat_exalted_dwelling_2|3811_prince_1_princely_seat_exalted_dwelling_2]]: Proto-Semitic *zabul-, 'prince' 1, 'princely seat, exalted dwelling' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/z/421_reed_mat_1_k_of_grass_used_for_basketwork_2|421_reed_mat_1_k_of_grass_used_for_basketwork_2]]: Proto-Semitic *zibn- 1 ~ *zabaz- 2, 'reed mat' 1, 'k. of grass used for basketwork' 2: reflexes in 2 language(s).
 

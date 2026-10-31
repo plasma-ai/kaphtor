@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1220_cut_off
 title: "*gVm-: 'cut off'"
-desc: "Proto-Semitic *gVm-, 'cut off': reflexes in 10 language(s)."
+desc: "Proto-Semitic *gVm-, 'cut off': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1220"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | gāmam (Klein s.v. גמם) | Klein s.v. גמם | gloss withheld |
 | Akkadian | gamāmu |  |  |
 | Geez | gammama (LGz. 194) | LGz. 194 | gloss withheld |
 | Tigrinya | gämʿe (LGz. 193); gʷaʿmämä (LGz. 194) | LGz. 193; LGz. 194 | gloss withheld |

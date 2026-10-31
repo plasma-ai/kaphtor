@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | maṯu |
 | Meaning | infants or young dependents (personnel category) |
 | Root | m-ṯ |
+| Proto-Semitic | \*ma/iṯ- (#1702) |
 | Language layer | NWS candidate |
 | Category | personnel |
 | Semantic field | personnel |

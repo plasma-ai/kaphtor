@@ -34,13 +34,18 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kirīta |
 | Meaning | Kret (variant spelling) |
 | Root | k-r-t |
+| Proto-Semitic | \*karVt- (#2766) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | toponym |
 
 ### Note
 
-Variant spelling of KI-RE-TA₂ with RE→RI vowel alternation. Both tablets pair it with SA-RA₂ in an identical administrative template; SA-RA₂ is read as a recipient or institution, provisionally the queen or royal establishment. Corpus form uses TA₂. Huehnergard gives Ugaritic krt /kirta/ 'Kirta' and lkrt /li-kirta/ 'belonging to the story of Kirta,' while rejecting 'keret' as a Ugaritic vocalization (2012: 60, 68). Biblical Hebrew kərētī 'Kerethite' differs in vocalism.
+Variant spelling of KI-RE-TA₂ with RE→RI vowel alternation. Both tablets pair it with SA-RA₂ in an identical administrative template; SA-RA₂ is read as a recipient or institution, provisionally the queen or royal establishment. Corpus form uses TA₂. Huehnergard gives Ugaritic krt /kirta/ 'Kirta' and lkrt /li-kirta/ 'belonging to the story of Kirta,' while rejecting 'keret' as a Ugaritic vocalization (2012: 60, 68). Biblical Hebrew kərētī 'Kerethite' differs in vocalism. For Bronze Age Ki-ir-ta, see KI-RE-TA₂. See KI-RE-TA-NA.
+
+### Cognates
+
+see KI-RE-TA₂
 
 ### Source
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qaqqadu |
 | Meaning | head, top, capital (Akkadian qaqqadu(m)) |
 | Root | q-q-d |
+| Proto-Semitic | \*ḳVdḳVd- (#1952) |
 | Language layer | Akkadian |
 | Category | administrative |
 | Semantic field | body_part |
 
 ### Note
 
-PE 2, among fractional entries: A-RI-PA ¼, QA-QA-DA ½, TO-ME ⅓. QA-QA-DA writes qaqqada, the geminate unmarked, as QA-QA-RU qaqqaru. Akk. qaqqadu 'head; original amount, principal' (CAD Q 100, 109). Rival: a personal name, as on the neighbouring entries. One attestation.
+PE 2, among fractional entries: A-RI-PA ¼, QA-QA-DA ½, TO-ME ⅓. QA-QA-DA writes qaqqada, the geminate unmarked, as QA-QA-RU qaqqaru. Akk. qaqqadu 'head; original amount, principal' (CAD Q 100, 109). Rival: a personal name, as on the neighbouring entries: Qaqqadum (Old Babylonian, ORACC rimanum), Amorite qa-aq-qa-da-an, Ebla ga-ga-da-nu (GlOS 1, 340). One attestation.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ PE 2, among fractional entries: A-RI-PA ¼, QA-QA-DA ½, TO-ME ⅓. QA-QA-DA wri
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

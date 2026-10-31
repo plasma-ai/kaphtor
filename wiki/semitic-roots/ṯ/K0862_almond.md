@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | šᵉgedtā (HALOT 1638) | HALOT 1638 |  |
 | Mandaic Aramaic | šigda (HALOT 1638) | HALOT 1638 |  |
 | Geez | šĕgd (HALOT 1638) | HALOT 1638 |  |
-| Eblaitic | ša-ḳì-dum (VE 457; Zurro 1983: 266; Kogan 2012: 254 apud SEDonline 479) | VE 457; Kogan 2012: 254; SEDonline 479 | gloss withheld |
+| Eblaitic | ša-ḳì-dum (VE 457; Zurro 1983: 266; Kogan 2012: 254 apud SEDonline 479), /šaqidum/ (Hajouz 2013, 714) | VE 457; Kogan 2012: 254; SEDonline 479; Hajouz 2013, 714 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

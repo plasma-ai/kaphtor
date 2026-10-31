@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mītu |
 | Meaning | personal name, 'dead one' (?) |
 | Root | m-w-t |
+| Proto-Semitic | \*mw/yt (#945) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type. HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: Amorite mutum 'man', which needs MU. One attestation.
+HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type. HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: Amorite mutum 'man', which needs MU. One attestation. See JA-MA-U-TI.
 
 ### Cognates
 

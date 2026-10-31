@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾarṣ̂atu |
 | Meaning | earth (feminine noun—PS \*ʾar(V)ṣ̂- "earth") |
 | Root | ʾ-r-ṣ̂ |
+| Proto-Semitic | \*ʾar(V)ṣ̂- (#768) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | toponym |
 
 ### Note
 
-ZA7a (Zakros stone vessel allocation): A-RA-TU 4, A-RE-TU-MI \[broken\]. PS \*ʾar(V)ṣ̂- "earth" (PS #768) with ṣ̂ (emphatic lateral) dropped—same ṣ̂-loss as A-RE-TU-MI (ʾarṣ̂-ummī "Earth is my mother," CANDIDATE). The -TU = feminine ending -at(u). Vowel /a/ in A-RA-TU preserves absolute state \*ʾarṣ̂atu, while A-RE-TU-MI shows /e/ reduction in construct (bound) form before -ummī. Co-occurrence on ZA7a forms a semantic cluster: the noun "earth" alongside the theophoric compound "Earth is my mother." Allat reading REJECTED: the script distinguishes RA (/ra/, AB27) from RA₂ (/la/, AB76), and ʾAllāt requires /l/. The scribe wrote RA, confirming /r/ not /l/. \|\| MIMATION NOTE: A-RA-TU-ME (hapax heading on roundel HTWc3024) would be ʾarṣ̂atum—a feminine noun with mimation. The corpus-derived mimation rule says functional mimation marks masculine absolute-state nouns only (14 feminine -at tokens, none mimated). This is the sole feminine mimation candidate. AKKADIAN DEFENSE: Akkadian feminine nouns take mimation routinely—erṣetum itself is the standard citation form. If Minoan mimation is East-Semitic-style case mimation (both genders) rather than the masculine-only absolute marker, ʾarṣ̂atum is regular. This reading would require revising the mimation rule to allow both genders, which must be weighed against the 14 unmimated feminines. The -TU/-TU-ME alternation is noted as an unresolved suffix pair pending resolution of the mimation scope question.
+ZA7a (Zakros stone vessel allocation): A-RA-TU 4, A-RE-TU-MI \[broken\]. ṣ̂ (emphatic lateral) dropped—same ṣ̂-loss as A-RE-TU-MI (ʾarṣ̂-ummī "Earth is my mother," CANDIDATE). The -TU = feminine ending -at(u). Vowel /a/ in A-RA-TU preserves absolute state \*ʾarṣ̂atu, while A-RE-TU-MI shows /e/ reduction in construct (bound) form before -ummī. Co-occurrence on ZA7a forms a semantic cluster: the noun "earth" alongside the theophoric compound "Earth is my mother." Allat reading REJECTED: the script distinguishes RA (/ra/, AB27) from RA₂ (/la/, AB76), and ʾAllāt requires /l/. The scribe wrote RA, confirming /r/ not /l/. \|\| MIMATION NOTE: A-RA-TU-ME (hapax heading on roundel HTWc3024) would be ʾarṣ̂atum—a feminine noun with mimation. The corpus-derived mimation rule says functional mimation marks masculine absolute-state nouns only (14 feminine -at tokens, none mimated). This is the sole feminine mimation candidate. AKKADIAN DEFENSE: Akkadian feminine nouns take mimation routinely—erṣetum itself is the standard citation form. If Minoan mimation is East-Semitic-style case mimation (both genders) rather than the masculine-only absolute marker, ʾarṣ̂atum is regular. This reading would require revising the mimation rule to allow both genders, which must be weighed against the 14 unmimated feminines. The -TU/-TU-ME alternation is noted as an unresolved suffix pair pending resolution of the mimation scope question.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾar(V)ṣ̂- "earth" (PS #768)—ṣ̂ = voiceless emphatic lateral fricative |
 | Akkadian | erṣetu(m) "earth, land, ground"—standard citation form erṣetum carries feminine mimation, supporting ʾarṣ̂atum as regular East-Semitic-style case marking |
 | Ugaritic | ʾarṣ "earth" (ṣ̂→ṣ merger) |
 | Hebrew | ʾereṣ (אֶרֶץ) "earth, land" (ṣ̂→ṣ merger) |

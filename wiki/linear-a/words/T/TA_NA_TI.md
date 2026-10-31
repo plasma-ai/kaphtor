@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tanāti |
 | Meaning | Tanit variant—TNT goddess at Haghia Triada (a-vowel pattern). Dual etymology: (A) √t-n-n feminine 'she-dragon', (B) t-ʿAnatu (Hvidberg-Hansen 1979). Context: HT49a alongside KU-PA₃-NU (Kubānu, a probable name or title) and TU-SU-PU₂ (Teshub). |
 | Root | t-n-n |
+| Proto-Semitic | \*tinnīt- (#2967) + \*tVnnVn- (#238) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |

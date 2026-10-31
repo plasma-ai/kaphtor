@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tinitu Dubur |
 | Meaning | Tinit of the Sanctuary (Goddess + Sanctuary pattern) |
 | Root | t-n-t + d-b-r |
+| Proto-Semitic | \*tinnīt- (#2967) + \*dVb(V)r- (#151) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |
 
 ### Note
 
-HT27a: TI-NI-TA \*307 = 'Tinit of the Sanctuary.' Three-script chain: Linear A TI-NI-TA \*307 = Linear B Potnia da-pu2-ri-to-jo = Hebrew Baʿalat ha-Dəḇîr. \|\| Word-field notation: 'TI-NI-TA \*307' records the attested epithet phrase (goddess name + sanctuary logogram) as it appears on HT27a; not split into separate entries.
+HT27a: TI-NI-TA \*307 = 'Tinit of the Sanctuary.' Three-script chain: Linear A TI-NI-TA \*307 = Linear B Potnia da-pu2-ri-to-jo = Hebrew Baʿalat ha-Dəḇîr. \|\| Word-field notation: 'TI-NI-TA \*307' records the attested epithet phrase (goddess name + sanctuary logogram) as it appears on HT27a; not split into separate entries. For \*307, see VIR+\*307.
 
 ### Cognates
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | bry \[-i-\] |  |  |
 | Akkadian | barû |  |  |
 | Jibbali | ebrer |  |  |
-| Eblaitic | 1st sg. ab-rí-a-ḫu (Krebernik 1988, 46 n. 4, 52) | Krebernik 1988, 46 n. 4, 52 | gloss withheld |
+| Eblaitic | 1st sg. ab-rí-a-ḫu (Krebernik 1988, 46 n. 4, 52); ba-la-um /barāyum/ (= Sum. igi-gar) (VE 145; Bonechi 2008, 12) | Krebernik 1988, 46 n. 4, 52; VE 145; Bonechi 2008, 12 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -40,7 +40,13 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 4:31), with ʿ unwritten. Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a.
+An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten. Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | Dardaʿ, a wise man, wəkalkōl wədardaʿ bənê māḥôl 'and Calcol and Darda, sons of Mahol' (1 Kgs 5:11; HALOT 230) |
 
 ### Source
 

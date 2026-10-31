@@ -34,13 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Qadmān |
 | Meaning | the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān) |
 | Root | q-d-m |
+| Proto-Semitic | \*ḳdm (#2607) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
+### Note
+
+Amorite ga-ad-ma-nu-um Qadmānum 'eastern' (Gelb 1980, no. 1704; GlOS 1, 341); Ug. qdmn 'eastern; leader' (GlOS 1, 341). See QE-DE-MI-NU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | qadmānum 'eastern' (Gelb AS 21, 29); PN QADM-AN-UM (Gelb AS 21 no. 1704) |
+| Hebrew | qadmōnî 'eastern'; haqqadmōnî 'the Kadmonites (easterners)', Gen 15:19 (HALOT 1071) |
+| Ugaritic | qdm (I) 'front; the East' (DULAT 683) |
+| Akkadian | qudmu, qadmu 'early times; front' (CAD Q 295) |
+
 ### Source
 
-Gordon 1966
+Gordon 1966; Gelb 1980; GlOS 1
 
 ### Review
 

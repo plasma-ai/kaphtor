@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mazza |
 | Meaning | corvée workers, labour gang (personnel term) |
 | Root | m-s-s |
+| Proto-Semitic | \*mass- (#S31) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-ZA 10b .2–3 MA-ZA 5, after U-\*49 6 and before MA-KI-DE-TE 5 (GORILA III 171), in a list that counts A-MI-TA ʾamita 'handmaid' 3. MA-ZA writes ma-za on primary values: Alalakh's z spelling, the geminate unwritten. A labour gang issued in a list, as Alalakh issues wages to the ma-zi. Rivals: the Eblaite name ma-za (Pagan 1998); the Hurrian name mzy, ma-zi-i (DULAT 600).
+ZA 10b .2–3 MA-ZA 5, after U-\*49 6 and before MA-KI-DE-TE 5 (GORILA III 171), in a list that counts A-MI-TA ʾamita 'handmaid' 3. MA-ZA writes ma-za on primary values: Alalakh's z spelling, the geminate unwritten. A labour gang issued in a list, as Alalakh issues wages to the ma-zi. Rivals: the Eblaite name ma-za (Pagan 1998); the Hurrian name mzy, ma-zi-i (DULAT 600). See ME-ZA and MI-ZA-SE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*mass- 'forced labor, corvée levy, labor gang' (semitic_roots S31) |
 | Akkadian | massu 'corvée worker': idi LÚ.MEŠ ma-zi 'wages for the corvée workers' (Wiseman Alalakh 246:6; CAD M/1 s.v.) |
 | Hebrew | mas מַס 'corvée, labour gang': wayyaʿal ham-melek šəlōmōh mas 'King Solomon raised a levy' (1 Kgs 5:27) |
 

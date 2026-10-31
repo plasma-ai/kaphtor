@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | teʔttā, pl. tēʔnē (HALOT 1675) | HALOT 1675 | gloss withheld |
 | Phoenician | tyn (T 339) | T 339 | gloss withheld |
 | Aramaic | CPArm. tynʾ (HALOT 1675) | HALOT 1675 |  |
-| Eblaitic | ti-ì-tum (Kogan 2011, 204; VE 368a; Krebernik 1983, 14) | Kogan 2011 204; VE 368a; Krebernik 1983, 14 |  |
+| Eblaitic | ti-ì-tum (Kogan 2011, 204; VE 368a; Krebernik 1983, 14), /tiʾittum/ &lt; /tiʾintum/ (Krebernik 1983, 14 n. 49) | Kogan 2011 204; VE 368a; Krebernik 1983, 14; Krebernik 1983, 14 n. 49 |  |
 | Ugaritic | /tiʾnatu/ (UVST 184) | UVST 184 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

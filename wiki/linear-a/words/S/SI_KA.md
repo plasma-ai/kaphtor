@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šikā |
 | Meaning | dwelling/sanctuary (√š-k-n) or covered booth (√s-k-k, cf. sukkā); administrative: steward/prefect office |
 | Root | š-k-n |
+| Proto-Semitic | \*šakVn- (#2776) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | personnel |
@@ -46,7 +47,6 @@ updated: 2026-10-24T16:17:50Z
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*sakVn- "to dwell, settle; steward, governor" (PS #2776) |
 | Ugaritic | skn "steward, prefect" (DULAT 746) |
 | Hebrew | šākan "to dwell" (HALOT 1496); šĕkīnā "Shekhinah"; OR sukkā (סֻכָּה) "booth, tabernacle" (√s-k-k "to cover"); Sukkot (סֻכּוֹת) festival of booths |
 | Akkadian | šakānu "to place, set, establish" (CAD Š1 115); šaknu "governor" |

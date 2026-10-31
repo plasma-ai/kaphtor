@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KA_KU
 title: "KA-KU"
-desc: "Kakku: personal name (Amorite Kakku). Lexicon, SPECULATIVE (tier 1)."
+desc: "Kakku: personal name, 'Weapon' (Amorite Kakku). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "KA-KU"
@@ -32,8 +32,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kakku |
-| Meaning | personal name (Amorite Kakku) |
+| Meaning | personal name, 'Weapon' (Amorite Kakku) |
 | Root | k-k-k |
+| Proto-Semitic | \*kakk- (#3844) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

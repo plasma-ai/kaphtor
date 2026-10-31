@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿInatī |
 | Meaning | my Anat—theonym plus 1cs -ī; proposed "She Who Answers" (√ʿ-n-y) |
 | Root | ʿ-n-y |
+| Proto-Semitic | \*ʕanat- (#2771) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |
 
 ### Note
 
-IOZa6 position 2. The vessel is chipped, but the complete group I-NA-TA-I-ZU-DI-SI-KA has no internal lacuna. Proposed segmentation: I-NA-TA-I + ZU-DI + SI-KA, 'my Anat, Breast-Who-Gives-Drink.' Initial I may be laryngeal-bearing rather than a separate particle: Ugaritic has three vowel-conditioned aleph signs (Huehnergard 2012, 21), and syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). This is an orthographic parallel, not proof of the Linear A value; final I is tentatively the 1cs suffix -ī. IOZa8 is not counted: \]A-NA-TI-\*301-WA-JA\[ is broken at both edges.
+IOZa6 position 2. The vessel is chipped, but the complete group I-NA-TA-I-ZU-DI-SI-KA has no internal lacuna. Proposed segmentation: I-NA-TA-I + ZU-DI + SI-KA, 'my Anat, Breast-Who-Gives-Drink.' Initial I carries the laryngeal ʿ, not a separate particle: Ugaritic has three vowel-conditioned aleph signs (Huehnergard 2012, 21), and syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). Final I is the 1cs suffix -ī. IOZa8 is not counted: \]A-NA-TI-\*301-WA-JA\[ is broken at both edges. See TA-NA-I-\*301-U-TI-NU, DA-RU-NE-TE, KA-KU-NE-TE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʔanat- "Anat" (PS #2771) |
 | Ugaritic | ʿnt /ʿanatu/ "Anat"; syllabic ᵈa-na-tu₄ = /ʿanatu/; btlt ʿnt "the young woman Anat" |
 | Hebrew | ʿAnāt (עֲנָת) in Shamgar ben Anath (Judg 3:31); Beth-Anath (Josh 19:38); Anathoth (Jer 1:1) |
 | Akkadian | Antu "Anu's consort" (CAD A2, 148) |

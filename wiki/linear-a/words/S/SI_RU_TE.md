@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šīrūt |
 | Meaning | sacred song, hymnody (proposed abstract in -ūt of √š-y-r "sing") |
 | Root | š-y-r |
+| Proto-Semitic | \*šVyVr- (#618) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |

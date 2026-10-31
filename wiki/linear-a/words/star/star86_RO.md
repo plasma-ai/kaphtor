@@ -34,17 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | naʿaru |
 | Meaning | attendant, lad (personnel designation on administrative sealings) |
 | Root | n-ʿ-r |
+| Proto-Semitic | \*nVʿVr- (#K0226) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | personnel |
 
 ### Note
 
-Contingent on \*86 = /na/, a proposed value. Reading: na-ro → naʿaru with guttural ʿayin elided per standard CV spelling rules. Cognate: Ugaritic nʿr "lad, attendant, apprentice" (personnel-class term in administrative/ration contexts), Hebrew naʿar נַעַר "youth, servant, attendant." Context: sole word on four Khania LMIB nodules, one scribe—administrative sealings. The two signs stand on different faces, \*86 on face a and RO on face g, read together as \*86-RO. Sister nodules at same site carry commodity designations (ZE "seed-grain" ×6, \*301 "pastureland" ×3) and fractions, establishing the genre as category labels on sealed goods. Four identical attestations from one site = consistent administrative usage, not a rare personal name.
+Contingent on \*86 = /na/, a proposed value. Reading: na-ro → naʿaru with guttural ʿayin elided per standard CV spelling rules. Context: sole word on four Khania LMIB nodules, one scribe—administrative sealings. The two signs stand on different faces, \*86 on face a and RO on face g, read together as \*86-RO. Sister nodules at same site carry commodity designations (ZE "seed-grain" ×6, \*301 "pastureland" ×3) and fractions, establishing the genre as category labels on sealed goods. Four identical attestations from one site = consistent administrative usage, not a rare personal name.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | nʿr 'boy; servant' (DULAT 607f.) |
+| Hebrew | naʿar (נַעַר) 'youth, servant, attendant' |
+| Eblaite | na-ʔa₅-rí naʿr 'servant; soldier' (GlOS 2, 71) |
+| Egyptian | n-ʿ-ru₂-na, pl. naʿarūna (GlOS 2, 71, after Hoch, SWET no. 245) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

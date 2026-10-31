@@ -34,7 +34,7 @@ updated: 2026-10-28T07:37:32Z
 | Geez | kabra (yəkbar) 3; kəbur 3; kəbr 3 (LGz. 274) | LGz. 274 | gloss withheld |
 | Akkadian | kabāru |  |  |
 | Modern Arabic | Leb kbeyr, Mec kabiyr, Malt kbīr |  | gloss withheld |
-| Epigraphic South Arabian | Sab kbr; kbr (SD 76) (Sabaweb lemma 1527) | SD 76; Sabaweb lemma 1527 | gloss withheld |
+| Epigraphic South Arabian | Sab kbr; kbr (SD 76) (Sabaweb lemma 1527); Qat. kbr 3 (Ricks 1982 s.v. kbr) | SD 76; Sabaweb lemma 1527; Ricks 1982 s.v. kbr | gloss withheld |
 | Syrian Aramaic | kbr Br 316 |  | gloss withheld |
 | Amorite | Yakba/urum (PN) (HALOT 459); kabru, kabaru, kibru, kibiru, kubburu (Buck 2019, 328); k-b-r 3: ia-ak-bu-ri-im; kibr 1: ki-bi-ir-é-a, =ᵈab-ba, =a-ḫi; kabar 1, 3: EŠ₄.DAR-ka-bar, be-lí-ka-ab-ra-at, ᵈiš-ḫa-ra-ka-ab-ra-at; kabir 1, 3: cf. ka-bi-rum (Sanmartín GlOS 1, 298) | HALOT 459; Buck 2019, 328; Sanmartín GlOS 1, 298 | gloss withheld |
 | Phoenician | kbr (Krahmalkov 223) | Krahmalkov 223 | gloss withheld |

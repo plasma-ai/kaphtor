@@ -34,12 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Šaqeli |
 | Meaning | personal name, from √š-q-l 'to weigh' |
 | Root | š-q-l |
+| Proto-Semitic | \*ṯVḳVl- (#2961) |
 | Language layer | NWS |
 | Semantic field | personal_name |
 
 ### Note
 
 HT11b SA-QE-RI · KA 30, the last of five KA entries summed to KU-RO 180: a recipient, so a name, not the unit 'shekel'. Skeleton s-q-r matches š-q-l via the Linear A r/l merger. Names on the root: Amorite ŠIQL-AN-U, ŠIQL-AN-UM, ŠIQL-IM (Gelb 1980, nos. 5881–5883; glossary ŠQL 'to weigh'); Akkadian Šaqilia (ORACC P514274) and Šiqila (ORACC Q003427, Q006330).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ṯql 'shekel' (DULAT 914) |
+| Hebrew | šāqal 'weigh' (HALOT 1642); šeqel 'weight, shekel' (HALOT 1643) |
+| Akkadian | šaqālu 'to weigh, balance, pay' (CAD Š/2 1) |
+| Phoenician | mšql 'weight'; šql 'fixed weight, shekel' (Krahmalkov 318, 480) |
+| Amorite | ŠQL 'weigh': šiqlum (Gelb AS 21, 33); PN ŠIQL-AN-UM (Gelb AS 21 no. 5532) |
 
 ### Source
 

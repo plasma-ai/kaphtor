@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | bīdi Našūka |
 | Meaning | In the charge of Našūka ('the Bitten one')—custody formula + personal name on a sealed receipt |
 | Root | b-y-d + n-š-k |
+| Proto-Semitic | \*bV-- (#K0007) + \*yad- ~ \*ʾid- (#2046) |
 | Language layer | NWS |
 | Semantic field | administrative |
 
 ### Note
 
-HT Wc 3010, a roundel: \*333-DI-NA-SU-KA alone. With \*333 = bi, bīdi 'in the charge of' (Ug. bd &lt; bi-yadi, the custody preposition of administrative receipts) + Našūka, qatūl of √n-š-k, 'the Bitten one'; cf. the serpent names Naḥash (1 Sam 11:1) and Naḥshon. Pair of HT Wc 3009 \*333-DI-SU-KA: the same frame, another name. Weak points: \*333 = bi rests on its three words; -KA where the genitive wants -ki. Rival: the whole group a personal name. One attestation.
+HT Wc 3010, a roundel: \*333-DI-NA-SU-KA alone. With \*333 = bi, bīdi 'in the charge of' (Ug. bd &lt; bi-yadi, the custody preposition of administrative receipts) + Našūka, qatūl of √n-š-k, 'the Bitten one'; cf. the serpent names Naḥash (1 Sam 11:1) and Naḥshon. Pair of HT Wc 3009 \*333-DI-SU-KA: the same frame, another name. Weak points: \*333 = bi rests on its three words; -KA where the genitive wants -ki. Rival: the whole group a personal name. One attestation. See PA₃.
 
 ### Cognates
 

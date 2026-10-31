@@ -33,14 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | iqa-\*118 |
 | Meaning | section heading over mixed commodities |
-| Root | q-ṭ-ʿ (if \*118 = ṭa) |
+| Root | q-ṭ-ʿ |
 | Language layer | unresolved |
 | Category | administrative |
 | Semantic field | administration |
 
 ### Note
 
-Heads a mixed commodity section on both tablets: HT 44a I-QA-\*118 · GRA, OLE+KI, OLE+U, OLE+RA, OLIV, NI, VIN; HT 131a I-QA-\*118 GRA 58, OLE 12½, \*304 12¾. If \*118 = ṭa, cf. Arabic iqṭaʿ, imperative of √q-ṭ-ʿ 'cut, divide', with final ʿ unwritten. Weak point: \*118 = ṭa is speculative. Rivals: a personal or institutional name. Two attestations.
+Heads a mixed commodity section on both tablets: HT 44a I-QA-\*118 · GRA, OLE+KI, OLE+U, OLE+RA, OLIV, NI, VIN; HT 131a I-QA-\*118 GRA 58, OLE 12½, \*304 12¾. With \*118 = ṭa, Arabic iqṭaʿ, imperative of √q-ṭ-ʿ 'cut, divide', with final ʿ unwritten. Weak point: \*118 = ṭa is a proposed value. Rivals: a personal or institutional name. Two attestations.
 
 ### Source
 

@@ -34,20 +34,20 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dīr-īna |
 | Meaning | households, granaries (grain recipient); rivals the Amorite place name Dīr, a personal name |
 | Root | d-w-r |
+| Proto-Semitic | \*dār- (#657) |
 | Language layer | NWS candidate |
 | Category | entity |
 | Semantic field | administrative |
 
 ### Note
 
-A grain recipient in two Scribe 5 lists: HT 93a DI-RI-NA · DA+RE+SE 43½; HT 102 DI-RI-NA 10, beside SA-RA₂ GRA 976, PA₃-NI, VIR, MA-ZU and I-KA. DI-RI = dīr-, the base of Amorite dīrum and Dīr under √d-w-r (Gelb AS 21, 17–18); -NA = masculine plural -īna: households. Rivals: the place name Dīr ('the people of Dīr'), a personal name. Two attestations.
+A grain recipient in two Scribe 5 lists: HT 93a DI-RI-NA · DA+RE+SE 43½; HT 102 DI-RI-NA 10, beside SA-RA₂ GRA 976, PA₃-NI, VIR, MA-ZU and I-KA. DI-RI = dīr-, the base of Amorite dīrum and Dīr under √d-w-r (Gelb AS 21, 17–18); -NA = masculine plural -īna: households. Rivals: the place name Dīr ('the people of Dīr'), a personal name. Two attestations. See DA-RE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Amorite | dīrum (noun), Dīr, Dīrum (GN), Dīrītum (DN), under DWR 'to turn around' (Gelb 1980, AS 21, pp. 17–18) |
-| Proto-Semitic | \*dār- 'dwelling, house' |
 
 ### Source
 

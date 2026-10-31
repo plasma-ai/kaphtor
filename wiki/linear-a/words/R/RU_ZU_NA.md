@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rāzin(a) |
 | Meaning | dignitary, prince (title of a recipient); rival a personal name |
 | Root | r-z-n |
+| Proto-Semitic | \*rVzan- (#S1) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
@@ -48,10 +49,11 @@ HT 11b .4 RU-ZU-NA KA 30, whole and undotted (GORILA I 23), the fourth of five K
 |---|---|
 | Hebrew | rōzēn, pl. rōzĕnîm 'dignitary, prince' (HALOT 1210) |
 | Arabic | razuna 'was weighty; grave, sedate' (Lane 1079) |
+| Amorite | razinum (Gelb 1980, glossary); RAZIN-IM, RA-ZI-NI-IM (no. 5268) |
 
 ### Source
 
-Woudhuizen 2016, 223–224; di Mino
+Woudhuizen 2016, 223–224; Gelb 1980; di Mino
 
 ## Attestations
 

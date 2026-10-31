@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qaṭara(re) |
 | Meaning | incense, incense-offering (Semitic cultic term) |
 | Root | q-ṭ-r |
+| Proto-Semitic | \*ḳuṭr- (#2544) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
 
 ### Note
 
-Contingent on \*118 = ṬA. HT96b (Haghia Triada, Casa Room 7, LMIB)—commodity tablet header. Full line: A-PA-RA-NE 𐄁 QA-\*118-RA-RE 𐄁 \*516 𐄁 GRA 𐄁 40¾ \| OLE+U 4 \| NI 2 1/16. A major commodity allocation (40¾ units grain, 4 olive oil). √q-ṭ-r "to smoke, burn incense"—Hebrew qeṭōret (THE ritual incense term in Biblical Hebrew), Arabic qaṭara "to drop, distill." The -RA-RE suffix could render the final root consonant + case ending, or a Semitic noun pattern like qaṭṭāra. "Incense" as a commodity header on a grain-and-oil ledger is semantically perfect. \*118 = ṭa is speculative; √q-ṭ-r is well attested.
+Contingent on \*118 = ṬA. HT96b (Haghia Triada, Casa Room 7, LMIB)—commodity tablet header. Full line: A-PA-RA-NE 𐄁 QA-\*118-RA-RE 𐄁 \*516 𐄁 GRA 𐄁 40¾ \| OLE+U 4 \| NI 2 1/16. A major commodity allocation (40¾ units grain, 4 olive oil). √q-ṭ-r "to smoke, burn incense"—Hebrew qeṭōret (THE ritual incense term in Biblical Hebrew), Arabic qaṭara "to drop, distill." The -RA-RE suffix could render the final root consonant + case ending, or a Semitic noun pattern like qaṭṭāra. "Incense" as a commodity header on a grain-and-oil ledger is semantically perfect. \*118 = ṭa is speculative; √q-ṭ-r is well attested. See QI-TI-RI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | qatāru 'incense' (CAD Q 166) |
+| Hebrew | qəṭōret 'incense, smoke of sacrifice' (HALOT 1095) |
+| Ugaritic | qṭr 'smoke' (DULAT 709) |
+| Phoenician | qṭrt 'incense' (Krahmalkov 426) |
 
 ### Source
 

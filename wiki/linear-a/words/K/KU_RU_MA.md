@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kurma / gurma |
 | Meaning | vineyard / mountain with vineyard |
 | Root | k-r-m |
+| Proto-Semitic | \*karm- (#1045) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | commodity |
 
 ### Note
 
-HT 115b, in a list of entries with small quantities (PA-RA-NE ½, DU-PA₃-NA 1, \*306-TU-JA 1). √k-r-m: kurma or gurma 'vineyard', a place, or a name drawn from it.
+HT 115b, in a list of entries with small quantities (PA-RA-NE ½, DU-PA₃-NA 1, \*306-TU-JA 1). √k-r-m: kurma or gurma 'vineyard', a place, or a name drawn from it; cf. KU-RA-MU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | kerem 'vineyard' (HALOT 498) |
+| Ugaritic | krm 'vineyard' (DULAT 451) |
+| Phoenician | krm 'vineyard' (Krahmalkov 242) |
 
 ### Source
 

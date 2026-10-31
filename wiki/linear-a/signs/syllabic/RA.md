@@ -52,7 +52,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | CANDIDATE |
 | [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | sōdir | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾaddar(t) | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA_RA_NE\|A-MA-RA-NE]] | ʾAmarānu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] | ʾArāyu | SPECULATIVE |
@@ -72,7 +72,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_PA_RA\|JA-PA-RA]] | yapʾara | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | yara | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | Yaraḫ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_SA_RA\|JA-SA-RA]] | yašara | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA\|JA-SA-SA-RA]] | yaššar- | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA\|JA-SA-SA-RA-MA-NA]] | yašaram=na | CANDIDATE |
@@ -86,8 +86,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne / parāne | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CONFIRMED |
-| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitara / batūla | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
+| [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] | Raḥil | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] | rāʿû diqqi | SPECULATIVE |
@@ -95,13 +96,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_RA\|SA-RA]] | šarra | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_SA_RA_ME\|SA-SA-RA-ME]] | yaššaram | PROBABLE |
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_KI_RA\|SI-KI-RA]] | Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | subāra | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_RA\|TA-RA]] | ṯa(ġ)ra | SPECULATIVE |
-| [[wiki/linear-a/words/V/VIN_plus_RA\|VIN+RA]] |  | CANDIDATE |
+| [[wiki/linear-a/words/V/VIN_plus_RA\|VIN+RA]] | raqḥ | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | CANDIDATE |
 
 <!-- END kaphtor:record -->

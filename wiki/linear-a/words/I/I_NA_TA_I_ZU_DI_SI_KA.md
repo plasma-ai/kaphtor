@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿInatī ṯudī-šiqā |
 | Meaning | my Anat, Breast-Who-Gives-Drink—theonym plus compound divine epithet |
 | Root | ṯ-d-y + š-q-y |
+| Proto-Semitic | \*ṯa/ud- (#2036) + \*šVḳ- (#1389) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |
@@ -46,7 +47,6 @@ Complete, undivided IOZa6 group, tentatively segmented I-NA-TA-I + ZU-DI + SI-KA
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ṯad- "breast" (PS #2036) + \*š-q-y "to give drink" (PS #2705) |
 | Ugaritic | ṯd "breast" (KTU 1.23: b-ṯd aṯrt 'at the breast of Athirat'; yiṯdyn 'they suckle') |
 | Hebrew | šād "breast" (KB 1316); hišqā (הִשְׁקָה) "to give drink" (√š-q-y, HALOT 1640) |
 | Arabic | ṯady "breast" (BK 2 220); saqā "to water, give drink" (BK 1 1076) |

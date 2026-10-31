@@ -34,17 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dārum |
 | Meaning | personal name, 'Eternal'; rival Arabic Dārim |
 | Root | d-w-r |
+| Proto-Semitic | \*dawr- (#40) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 7b .2 DA-RU-\*329 2, after \*21F-TU-NE 1, both over an erasure (GORILA I 15); face a lists Iruja, Tuya and Tetu. \*329 read mo: Montecchi queries A 329 = Linear B \*15 mo (Montecchi 2024, 173). Amorite dārum 'eternity, eternal', on DWR (Gelb 1980, §0.7); Old Babylonian da-ru-um 'lasting' (CAD D 117). DA-RU- recurs in DA-RU-NE-TE (HT 98b). Rival Arabic Dārim, Safaitic drm (Harding 1971, 239). One attestation.
+HT 7b .2 DA-RU-\*329 2, after \*21F-TU-NE 1, both over an erasure (GORILA I 15); face a lists Iruja, Tuya and Tetu. \*329 read mo: Montecchi queries A 329 = Linear B \*15 mo (Montecchi 2024, 173). DA-RU- recurs in DA-RU-NE-TE (HT 98b). Rival Arabic Dārim, Safaitic drm (Harding 1971, 239). One attestation.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | dārum 'eternity, eternal', on DWR (Gelb 1980, §0.7) |
+| Eblaite | da-ri₂ dārī 'eternal', fem. da₅-ri₂-da dārīta; ʾila-Dārum 'Dārum is god' (Pagan 1998, rows 1471, 1507, 1591; GlOS 1, 153) |
+| Akkadian | Old Babylonian da-ru-um 'lasting' (CAD D 117) |
 
 ### Source
 
-di Mino; Montecchi 2024; Gelb 1980; CAD D; Harding 1971
+di Mino; Montecchi 2024; Gelb 1980; Pagan 1998; GlOS 1; CAD D; Harding 1971
 
 ## Attestations
 

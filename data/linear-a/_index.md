@@ -52,6 +52,8 @@ updated: 2026-10-29T15:12:45Z
 
 [[data/linear-a/paradigm-b/_index|paradigm-b/]]: The frozen inputs and the five production runs of Paradigm B, the pre-registered held-out paradigm-prediction test, with the freeze's SHA256SUMS and the port ledger.
 
+[[data/linear-a/protocol-c-c1-words.txt|protocol-c-c1-words.txt]]: The 1,070 hyphenated words of the corpus.json Protocol C's checker read in C1, one per line, which `protocol_c.py reproduce` reruns it on; CC BY-NC-SA 4.0 and CC BY 4.0, as `corpus.json`.
+
 [[data/linear-a/protocol-c/_index|protocol-c/]]: The phase C0 and C1 record of Protocol C, the pre-registered blind-inventory test, with the signature and the port ledger; nothing rendered or scored.
 
 [[data/linear-a/rival-roots|rival-roots]]: The Egyptian, Luwian and Hurrian root keys the competitor null rescores every Semitic match against, each with its form and its citations or source labels.

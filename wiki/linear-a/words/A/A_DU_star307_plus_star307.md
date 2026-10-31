@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Addu dubur-dubur |
 | Meaning | Addu's sanctuary (Storm God + doubled sanctuary sign) |
 | Root | d-b-r |
+| Proto-Semitic | \*hadad- (#3186) + \*dVb(V)r- (#151) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |
 
 ### Note
 
-HT85a.1: A-DU · \*307+\*307 · VIR+\[?\] ·, heading a personnel register with 66 workers. The middle sign is \*307 written twice, joined by a top bar (A 638; GORILA I 131); Montecchi 2008, 316 n. 30 also reads A 638 as doubled \*307. KA-RU · \*307+\*307 · VIR+KA heads HT97a. \|\| Word-field notation: 'A-DU \*307+\*307' records a two-element phrase (theonym A-DU + the doubled \*307) as attested on HT85a; not split into separate entries to avoid breaking the attested-phrase citation.
+HT85a.1: A-DU · \*307+\*307 · VIR+\[?\] ·, heading a personnel register with 66 workers. The middle sign is \*307 written twice, joined by a top bar (A 638; GORILA I 131); Montecchi 2008, 316 n. 30 also reads A 638 as doubled \*307. KA-RU · \*307+\*307 · VIR+KA heads HT97a. \|\| Word-field notation: 'A-DU \*307+\*307' records a two-element phrase (theonym A-DU + the doubled \*307) as attested on HT85a; not split into separate entries to avoid breaking the attested-phrase citation. See DU-PU₂-RE.
 
 ### Cognates
 

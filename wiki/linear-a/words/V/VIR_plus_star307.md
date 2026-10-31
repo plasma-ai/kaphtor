@@ -34,19 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | VIR-dubur |
 | Meaning | sanctuary personnel |
 | Root | d-b-r |
+| Proto-Semitic | \*dVb(V)r- (#151) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
 
 ### Note
 
-Compound logogram: VIR + DUBUR. Temple workers receiving rations at Khania.
+Compound logogram: VIR + DUBUR. Temple workers receiving rations at Khania. See DU-PU₂-RE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | dəvîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5) |
+| Egyptian | group writing d-bi₄-r dabīr 'naos, inner sanctuary' (GlOS 1, 140, after Hoch, SWET 376, no. 561) |
 
 ### Source
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | u-dirik |
 | Meaning | conjunction u- "and" + dirik "way, path"—Hebrew derek דֶּרֶךְ, Akkadian darāku "to tread"; cross-ref DA-RE-KU (ZA18a, same √d-r-k skeleton, different vowel class) |
 | Root | d-r-k |
+| Proto-Semitic | \*dirk- (#2639) |
 | Language layer | NWS |
 | Category | spatial |
 | Semantic field | toponym |
 
 ### Note
 
-Mari name Dark-i-Ma (Gelb AS 21 no. 1497) attests drk as a name-former; DA-RE-KU (ZA18a) is an independent √d-r-k token at Zakros.
+PH 7a .2 U-DI-RI-KI\[, broken after KI (GORILA I 295). Amorite and Ebla names on √d-r-k mean 'successor': darikum (Gelb 1980, nos. 1404, 1481–82), Dark-i-Ma (no. 1497), Ebla dar-gi (GlOS 1, 150); the sense 'way' rests on Hebrew derek. DA-RE-KU (ZA18a) is an independent √d-r-k token at Zakros.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ Mari name Dark-i-Ma (Gelb AS 21 no. 1497) attests drk as a name-former; DA-RE-KU
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; GlOS 1
 
 ## Attestations
 

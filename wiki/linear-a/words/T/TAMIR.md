@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tamir |
 | Meaning | proposed Semitic lexical name of the PALM/TREE sign |
 | Root | t-m-r |
+| Proto-Semitic | \*tam(V)r- (#737) |
 | Language layer | NWS |
 | Category | logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Official semantic reading of \*49 (AB049): PALM/TREE, based on its pictorial form and counted administrative contexts. TAMIR is the retained Semitic lexical identification: Proto-Semitic \*tam(V)r- 'date palm,' Hebrew tāmār, Ugaritic tmr and Arabic tamr. The associated syllabic value /mi/ remains CANDIDATE, not established: TO-\*49-RE yields the attractive skeleton t-m-r only if /mi/ is first assumed, while Linear B writes \*49 beside ordinary MI in tu-\*49-mi. ZA10b preserves complete U-\*49; HT126a has \]U-\*49 after a left break and cannot establish the compound or an initial conjunction. DA-U-\*49 remains the candidate name Dawmi. Four \*49 occurrences survive across three sites.
+Official semantic reading of \*49 (AB049): PALM/TREE, based on its pictorial form and counted administrative contexts. TAMIR is the retained Semitic lexical identification: Proto-Semitic \*tam(V)r- 'date palm,' Hebrew tāmār, Ugaritic tmr and Arabic tamr. The associated syllabic value /mi/ remains CANDIDATE, not established: TO-\*49-RE yields the attractive skeleton t-m-r only if /mi/ is first assumed, while Linear B writes \*49 beside ordinary MI in tu-\*49-mi. ZA10b preserves complete U-\*49; HT126a has \]U-\*49 after a left break and cannot establish the compound or an initial conjunction. DA-U-\*49 remains the candidate name Dawmi. Four \*49 occurrences survive across three sites. See TO-MI-RE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | tāmār 'date palm' (HALOT 1756) |
+| Ugaritic | syllabic \[ta\]-ma-ru 'date palm' (HALOT 1756) |
+| Phoenician | tmr 'date palm' (Krahmalkov 494) |
+| Arabic | tamr 'dried dates' (Lane 317) |
 
 ### Source
 

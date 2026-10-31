@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/G
 desc: "Words whose first sign begins with G."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/G
@@ -11,7 +11,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/words/G/GRA|GRA]]: dagān 'grain, cereal'. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/G/GRA_plus_KU|GRA_plus_KU]]: kunāšu 'emmer wheat' (logographic abbreviation). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/G/GRA_plus_KU|GRA_plus_KU]]: kunāšu 'emmer wheat' (logographic abbreviation). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/G/GRA_plus_PA|GRA_plus_PA]]: parīsu: parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś). Lexicon, CANDIDATE (tier 2).
 

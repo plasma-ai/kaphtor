@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2731_to_kneel_bless
 title: "*bVrVk-: 'to kneel, bless'"
-desc: "Proto-Semitic *bVrVk-, 'to kneel, bless': reflexes in 19 language(s)."
+desc: "Proto-Semitic *bVrVk-, 'to kneel, bless': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2731"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | bǝrūk; hǝbrūk (Rubin 2018 134) | Rubin 2018 134 | gloss withheld |
 | Arabic | baraka 'to kneel, bless' (BK 1, 116) | BK 1, 116 |  |
 | Ugaritic | brk tD, Gpass.; brk (DULAT 234–235) | DULAT 234–235 | gloss withheld |
 | Phoenician | brk (Krahmalkov 126); brkt (T 57) | Krahmalkov 126; T 57 | gloss withheld |

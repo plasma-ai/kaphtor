@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAddu-ʿazz |
 | Meaning | ʾAddu-ʿazz (personal name), 'Addu is strong'; rival Hadas 'Myrtle' |
 | Root | ʕ-z-z |
+| Proto-Semitic | \*ʕazVz- (#2769) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PK 1 .2 A-DU-ZA 1, the first name below the ruling, after KA-QA 2 and before TA₂-TA-RE 1, in a list of names at 1 each (GORILA I 281). Addu + ʿazz 'strong' (semitic_roots 2769), the god first as in A-DU-NI-TA-NA and A-DU-KU-MI-NA. ZA writes (ʿa)zz. Ugaritic sets the god before ʿz: mt ʕz 'Mot was strong' (KTU 1.6 VI 17; DULAT 194); cf. Heb. ʾElʿûzay (1 Chr 12:6), Akk. Enlil-ezzu. Weak point: Amorite puts ʿazz first (ʿAzz-ʿammi, Gelb 1980, 568), and no Addu-ʿazz is attested. Rival: hadas 'myrtle' (semitic_roots K0080), which needs ZA for s. One witness.
+PK 1 .2 A-DU-ZA 1, the first name below the ruling, after KA-QA 2 and before TA₂-TA-RE 1, in a list of names at 1 each (GORILA I 281). Addu + ʿazz 'strong', the god first as in A-DU-NI-TA-NA and A-DU-KU-MI-NA. ZA writes (ʿa)zz. Ugaritic sets the god before ʿz: mt ʕz 'Mot was strong' (KTU 1.6 VI 17; DULAT 194); cf. Heb. ʾElʿûzay (1 Chr 12:6), Akk. Enlil-ezzu. Weak point: Amorite puts ʿazz first (ʿAzz-ʿammi, Gelb 1980, 568), and no Addu-ʿazz is attested. Rival: hadas 'myrtle' (#K0080), which needs ZA for s. One witness.
 
 ### Cognates
 

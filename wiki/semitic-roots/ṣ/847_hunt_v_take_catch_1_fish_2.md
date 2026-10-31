@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṣyd \[-i-, -a-\] (Lane 1752) | Lane 1752 |  |
+| Arabic | ṣyd \[-i-, -a-\] (Lane 1752); ṣayd 2, Yemeni (Tāj 8:309) | Lane 1752; Tāj 8:309 | gloss withheld |
 | Mehri | c̣ayd 2 |  |  |
 | Soqotri | ṣode 2; ṣóde (SLOnline 7560) | SLOnline 7560 | gloss withheld |
 | Akkadian | ṣâdu |  |  |

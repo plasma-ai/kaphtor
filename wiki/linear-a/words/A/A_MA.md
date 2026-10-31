@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿamma |
 | Meaning | people, kinfolk—social/kinship term |
 | Root | ʿ-m-m |
+| Proto-Semitic | \*ʕamm- (#44) |
 | Language layer | NWS |
 | Category | social |
 | Semantic field | kinship |
 
 ### Note
 
-PS #44/#99 \*ʕamm- "relative, uncle, ancestor" + PS #S10 \*ʕamam- "people, nation, kinfolk". 3 attestations across 3 geographically dispersed sites. On MA1b, A-MA appears alongside QE-DE-MI-NU (Qadmīnu "primordial/eastern", cf. Kadmos)—a kinship term adjacent to a recognized Semitic PN parallels NWS naming formulae (ʿAmminadab, ʿAmmiśaday). Ebla has the name a-ma ʿamma 'the uncle' (Pagan 1998, row 672). 2-consonant skeleton is underdetermined: competing roots include \*ʔamm-at- "cubit" (#1156), \*ʔam(a)t- "maidservant" (#2783). The \*306=/ʿa/ vs standard A ambiguity also applies.
+Beside it \*ʕamam- "people, nation, kinfolk" (#S10). 3 attestations across 3 geographically dispersed sites. On MA1b, A-MA appears alongside QE-DE-MI-NU (Qadmīnu "primordial/eastern", cf. Kadmos)—a kinship term adjacent to a recognized Semitic PN parallels NWS naming formulae (ʿAmminadab, ʿAmmiśaday). Ebla has the name a-ma ʿamma 'the uncle' (Pagan 1998, row 672). 2-consonant skeleton is underdetermined: competing roots include \*ʔamm-at- "cubit" (#1156), \*ʔam(a)t- "maidservant" (#2783). The \*306=/ʿa/ vs standard A ambiguity also applies. See \*306+MI.
 
 ### Cognates
 

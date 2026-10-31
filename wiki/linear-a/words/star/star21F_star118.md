@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ḥiṭṭa |
 | Meaning | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' |
 | Root | ḥ-n-ṭ |
+| Proto-Semitic | \*ḥiṭṭ-at- (#2691) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |

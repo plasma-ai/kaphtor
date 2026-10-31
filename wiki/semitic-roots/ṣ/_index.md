@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṣ
 desc: "Semitic roots whose first radical is ṣ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ṣ
@@ -163,9 +163,15 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ṣ/3737_to_be_healthy_sound_to_restore_to_health_health|3737_to_be_healthy_sound_to_restore_to_health_health]]: Proto-Semitic *ṣḥḥ, 'to be healthy, sound; to restore to health; health, order': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ṣ/3768_to_heap_up_grain_heap|3768_to_heap_up_grain_heap]]: Proto-Semitic *ṣbr, 'to heap up (grain); heap': reflexes in 2 language(s).
+[[wiki/semitic-roots/ṣ/3768_to_heap_up_grain_heap|3768_to_heap_up_grain_heap]]: Proto-Semitic *ṣbr, 'to heap up (grain); heap': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṣ/376_harpune|376_harpune]]: Proto-Semitic *ṣil-ṣal-, 'harpune': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/ṣ/3820_bowl_dish|3820_bowl_dish]]: Proto-Semitic *ṣaḥn- {} *ṣaḥl-, 'bowl, dish': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṣ/3837_to_overlay_plate_cover|3837_to_overlay_plate_cover]]: Proto-Semitic *ṣpy, 'to overlay, plate, cover': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ṣ/3838_tassel_1_lock_of_hair_2|3838_tassel_1_lock_of_hair_2]]: Proto-Semitic *ṣīṣīt-, 'tassel' 1, 'lock of hair' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ṣ/397_stick|397_stick]]: Proto-Semitic *ṣawlag-, 'stick': reflexes in 1 language(s).
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yapaʿ(u) |
 | Meaning | personal name ("he shines"—Amarna Yapaḫu) |
 | Root | y-p-ʿ |
+| Proto-Semitic | \*yVpVʕ- (#782) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 4a .3-4 JA-PẠ 1̣\[, PA dotted, numeral dotted and broken after (GORILA III 149). One witness. Standalone JA-PA on ZA4a (Zakros). Of 6 corpus occurrences of JA-PA, only ZA4a is standalone—extended forms JA-PA-QA, I-NA-JA-PA-QA, JA-PA-RA-JA-SE are likely different words/roots. Skeleton y-p maps to √y-p-ʿ with guttural ʿ dropping (standard in Linear A); the Amarna spelling Yapaḫu writes ʿ with cuneiform -ḫ-, and Hebrew preserves the PN as Yāpîaʿ (Josh 10:3). Amarna Yapaḫu (EA 297-300, ruler of Gezer) is the closest Bronze Age parallel; the Amorite name family Jāpuʿ/Jēpaʿ (√JPʿ) carries the same element. ARKH3b \[…\]-JA-PI is a damaged ending and supplies no independent inflectional parallel.
+ZA 4a .3-4 JA-PẠ 1̣\[, PA dotted, numeral dotted and broken after (GORILA III 149). One witness. Standalone JA-PA on ZA4a (Zakros). Of 6 corpus occurrences of JA-PA, only ZA4a is standalone—extended forms JA-PA-QA, I-NA-JA-PA-QA, JA-PA-RA-JA-SE are likely different words/roots. Skeleton y-p maps to √y-p-ʿ with guttural ʿ dropping (standard in Linear A); the Amarna spelling Yapaḫu writes ʿ with cuneiform -ḫ-, and Hebrew preserves the PN as Yāpîaʿ (Josh 10:3). Alalakh has bare ia-pa yapaʿ (Buck 2018, 334; Gelb 1980, no. 3395), beside Amarna Yapaḫu (EA 297-300, ruler of Gezer); the Amorite name family Jāpuʿ/Jēpaʿ (√JPʿ) carries the same element. ARKH3b \[…\]-JA-PI is a damaged ending and supplies no independent inflectional parallel. See A-WA-PI.
 
 ### Cognates
 
@@ -53,7 +54,7 @@ ZA 4a .3-4 JA-PẠ 1̣\[, PA dotted, numeral dotted and broken after (GORILA III
 
 ### Source
 
-ZA4a; GORILA III 149; Gelb 1980, no. 2792
+ZA4a; GORILA III 149; Gelb 1980, nos. 2792, 3395; Buck 2018
 
 ## Attestations
 

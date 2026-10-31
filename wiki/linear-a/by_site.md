@@ -20,18 +20,18 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 329 | 345 |
-| Khania | 225 | 222 | 36 | 66 |
+| Haghia Triada | 1,111 | 1,053 | 329 | 347 |
+| Khania | 226 | 223 | 36 | 66 |
 | Phaistos | 66 | 48 | 9 | 38 |
-| Knossos | 58 | 52 | 12 | 39 |
-| Zakros | 53 | 40 | 5 | 88 |
+| Knossos | 57 | 51 | 12 | 44 |
+| Zakros | 53 | 40 | 5 | 87 |
 | Palaikastro | 25 | 25 | 10 | 36 |
 | Malia | 22 | 11 | 0 | 9 |
 | Thera | 19 | 18 | 2 | 4 |
 | Iouktas | 16 | 16 | 12 | 17 |
-| Arkhanes | 12 | 9 | 2 | 23 |
+| Arkhanes | 12 | 9 | 2 | 22 |
 | Syme | 12 | 12 | 6 | 16 |
-| Petras | 11 | 11 | 3 | 14 |
+| Petras | 11 | 11 | 3 | 15 |
 | Kea | 8 | 8 | 1 | 2 |
 | Tylissos | 6 | 5 | 0 | 8 |
 | Gournia | 5 | 3 | 0 | 5 |
@@ -48,7 +48,7 @@ Every number on this page is computed from the data files.
 | Poros Herakleiou | 2 | 2 | 1 | 2 |
 | Pseira | 2 | 2 | 0 | 1 |
 | Samothrace | 2 | 2 | 1 | 2 |
-| Skoteino Cave | 2 | 2 | 1 | 2 |
+| Skoteino Cave | 2 | 2 | 0 | 1 |
 | Troy | 2 | 2 | 0 | 0 |
 | Zominthos | 2 | 2 | 0 | 0 |
 | (no site) | 1 | 1 | 1 | 1 |

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | igirû OB on \[CAD i 41\], \[AHw. 367\] | CAD i 41; AHw. 367 | gloss withheld |
 | Hebrew | ʕāgūr (HALOT 784) | HALOT 784 | gloss withheld |
 | Aramaic | D.-Alla ʕgr \[HJ 824\] | HJ 824 | gloss withheld |
-| Eblaitic | sa-su-ga-lum = Sum. NAM.DAR.MUŠEN (SED II 46) | SED II 46 |  |
+| Eblaitic | sa-su-ga-lum = Sum. NAM.DAR.MUŠEN (SED II 46); sa-su-ga-lum /šašuʿgarum/ (VE 1097; Bonechi 2008, 16 and n. 73) | SED II 46; VE 1097; Bonechi 2008, 16 and n. 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

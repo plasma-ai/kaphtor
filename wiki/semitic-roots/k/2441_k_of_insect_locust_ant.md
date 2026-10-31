@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2441_k_of_insect_locust_ant
 title: "*kʷars/z(-ap/b)-: 'k. of insect, locust, ant'"
-desc: "Proto-Semitic *kʷars/z(-ap/b)-, 'k. of insect, locust, ant': reflexes in 5 language(s)."
+desc: "Proto-Semitic *kʷars/z(-ap/b)-, 'k. of insect, locust, ant': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2441"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | PB karsäpät 'a species of locusts ' \[Ja 672\] | Ja 672 |  |
 | Judaic Aramaic | kǝrāzā \[Ja 665\]; krzb \[DJPA 269a apud CAL\] | Ja 665; DJPA 269a; CAL | gloss withheld |
 | Akkadian | kurṣiptu (kurṣibtu) (SED II 164) | SED II 164 | gloss withheld |
+| Eblaitic | gul-zi-bí-tum /kurṣiptum, kurṣibtum/ (MEE 4 116 r. IV 12; MEE 4 96 v. V 1′; reading unconfirmed) (Bonechi 2008, 16 n. 77) | MEE 4 116 r. IV 12; MEE 4 96 v. V 1′; Bonechi 2008, 16 n. 77 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

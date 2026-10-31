@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ikkara |
 | Meaning | farmer, tenant farmer (occupational title) |
 | Root | ikkaru |
+| Proto-Semitic | \*ʾkr 1, \*ʾa/ikkār- 2 (#1810) |
 | Language layer | Akkadian |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-HT 25a personnel list, I-KI-RA 1. Akkadian ikkaru 'farmer, plowman' (ORACC); Hebrew ʾikkār (Isa 61:5; Jer 14:4). Cf. I-KA ʾikkār (HT 91, HT 102), with final r unwritten; here r is written with a following vowel. Rival: a personal name.
+HT 25a personnel list, I-KI-RA 1. Akkadian ikkaru 'farmer, plowman' (ORACC); Hebrew ʾikkār (Isa 61:5; Jer 14:4). Cf. I-KA ʾikkār (HT 91, HT 102), with final r unwritten; here r is written with a following vowel. Rival: a personal name. See A-KI-RO.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | ikkaru 'plowman, farmer, farm bailiff' (CAD I/J 49) |
+| Hebrew | ʾikkār 'farmer, agricultural worker', bōšû ʾikkārîm 'the farmers were ashamed' (Jer 14:4; HALOT 47) |
+| Syriac | ʾakkārā 'farmer' (HALOT 47) |
 
 ### Source
 

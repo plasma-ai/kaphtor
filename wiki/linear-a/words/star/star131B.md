@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tirōšu |
 | Meaning | must, new wine (unfermented or partially fermented grape juice) — commodity logogram |
 | Root | t-r-š |
+| Proto-Semitic | \*tīrāṯ- (#S26) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -47,7 +48,7 @@ Wine-variant logogram. AB131 family: VIN=wine (\*wayn\*), \*131B=must (\*tirōš
 | Language | Comparison |
 |---|---|
 | Hebrew | tīrōš (תִּירוֹשׁ) 'must, new wine' (HALOT 1727; Deut 7:13, 11:14, 12:17; Hos 2:10; Joel 2:19) |
-| Ugaritic | trṯ 'new wine' (DULAT 867) |
+| Ugaritic | trṯ 'new wine', also a DN (DULAT 867) |
 
 ### Source
 

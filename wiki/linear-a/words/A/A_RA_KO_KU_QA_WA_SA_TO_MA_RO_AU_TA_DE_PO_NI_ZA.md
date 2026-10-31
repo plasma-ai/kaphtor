@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-GORILA IV 158–159 prints this sixteen-sign bronze-bowl inscription without dividers and dots the initial A, RA, and KO. TO-MA-RO is a CANDIDATE personal-name segment. Not readable.
+GORILA IV 158–159 prints this sixteen-sign bronze-bowl inscription without dividers and dots the initial A, RA, and KO. TO-MA-RO within it reads Tōmar, a personal name (see the lexicon). Not readable.
 
 <!-- END kaphtor:record -->

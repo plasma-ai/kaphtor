@@ -31,7 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Akkadian | ṣarpu (CAD Ṣ 113) | CAD Ṣ 113 | gloss withheld |
 | Arabic | ṣarīf (Lane 1682); ṣarīf (Biella 430) | Lane 1682; Biella 430 | gloss withheld |
-| Epigraphic South Arabian | Sab ṣrf (SD 144; Biella 430) | SD 144; Biella 430 | gloss withheld |
+| Epigraphic South Arabian | Sab ṣrf (SD 144; Biella 430); Qat. ṣrf (Ricks 1982 s.v. ṣrfn) | SD 144; Biella 430; Ricks 1982 s.v. ṣrfn | gloss withheld |
 | Eblaitic | sùr-bù-um, sùr-bí-im, sùr-ba-am₆ /ṣurp/; sùr-ba-núm /ṣurpān/ (Sanmartín GlOS 2, 223–224) | Sanmartín GlOS 2, 223–224 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

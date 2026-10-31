@@ -39,7 +39,7 @@ updated: 2026-10-24T15:25:56Z
 | Tigrinya | saʾni (LGz. 524) | LGz. 524 |  |
 | Harari | ašīn (LGz. 524) | LGz. 524 |  |
 | East Ethiopic | Zwy. ašən (LGz. 524) | LGz. 524 |  |
-| Eblaitic | sa-na (= Sum. ᵉGI₄×GI₄) (VE 1323; Civil 2017, 116, 152) | VE 1323; Civil 2017, 116, 152 | gloss withheld |
+| Eblaitic | sa-na (= Sum. ᵉGI₄×GI₄) (VE 1323; Civil 2017, 116, 152), /šaʾnā(n)/ (dual) (Hajouz 2013, 664) | VE 1323; Civil 2017, 116, 152; Hajouz 2013, 664 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

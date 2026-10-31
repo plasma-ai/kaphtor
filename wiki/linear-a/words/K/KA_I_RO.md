@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kāʾil |
 | Meaning | Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice' |
 | Root | k-y-l |
+| Proto-Semitic | \*kalVy- ~ \*kayl- (#298) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ ZA 8 .6 KA-I-RO 4 B B, intact, the last entry of the fig list headed KI-RA · (G
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*kalVy- ~ \*kayl- 'vessel, measure' (semitic_roots no. 298) |
 | Arabic | kāʾil 'measurer', active participle of kāla 'to measure (grain)'; kayl 'measure' (Q 12:59–65) |
 | Hebrew | kûl 'to measure' (Isa 40:12) |
 

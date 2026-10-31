@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kikkarāya |
 | Meaning | (men) of the Kikkar, 'round district' (gentilic heading of a head-count roster) |
 | Root | k-k-r |
+| Proto-Semitic | \*kakkar-/\*kikkar- (#1097) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
@@ -48,7 +49,6 @@ HT 85b: KI-KI-RA-JA · heads the face over eleven entries of one unit each (KI-R
 |---|---|
 | Hebrew | kikkār (כִּכָּר) 'round district' (Gen 13:12; Neh 12:28); ʾanšê hakkikkār 'the men of the Kikkar' (Neh 3:22); also 'round loaf' (1 Sam 2:36) |
 | Ugaritic | kkr /kakkaru/ 'talent' (DULAT 430) |
-| Proto-Semitic | \*kakkar-/\*kikkar- 'round bread, disk' (#1097) |
 
 ### Source
 

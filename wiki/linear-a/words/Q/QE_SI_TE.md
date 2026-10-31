@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qašt |
 | Meaning | bow, incised on the Malia palace wall; alternative 'throne, seat' (PS \*kussīʾ-) |
 | Root | q-š-t |
+| Proto-Semitic | \*ḳa(w)š- (#362) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kaṯare |
 | Meaning | Kothar (divine craftsman god) |
 | Root | k-ṯ-r |
+| Proto-Semitic | \*kuṯar- (#2773) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |

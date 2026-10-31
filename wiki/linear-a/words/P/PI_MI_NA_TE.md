@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | \[…\]-pi-minate |
 | Meaning | damaged sequence; possible mnt/mināt 'portion, allotment'; rival minḥâ 'offering' |
 | Root | m-n-y |
+| Proto-Semitic | \*maniy-at- (#2703) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | unknown |
 
 ### Note
 
-APZa2 line 2 preserves \]PI-MI-NA-TE from a broken left edge to a divider after TE; PI and MI are written over an erasure (GORILA IV 5). Because no beginning is preserved, PI cannot securely be isolated as a preposition, and the sequence is not a complete attestation of \*mināt. Ugaritic mnt (I) 'portion, ration' (DULAT 558) and Semitic √m-n-y 'count, allot' remain possible lexical comparisons only. Rival: Hebrew minḥâ 'gift, offering' (Lev 2:1), Ugaritic mnḥt 'tribute' (DULAT 556); the spelling drops ḥ. Younger restores I-\]PI-MI-NA-TE and compares PI-\*34-TE (HT 116a); no I survives before PI.
+APZa2 line 2 preserves \]PI-MI-NA-TE from a broken left edge to a divider after TE; PI and MI are written over an erasure (GORILA IV 5). Because no beginning is preserved, PI cannot securely be isolated as a preposition, and the sequence is not a complete attestation of \*mināt. Ugaritic mnt (I) 'portion, ration' (DULAT 558) and Semitic √m-n-y 'count, allot' remain possible lexical comparisons only. Rival: Hebrew minḥâ 'gift, offering' (Lev 2:1), Ugaritic mnḥt 'tribute' (DULAT 556); the spelling drops ḥ. Younger restores I-\]PI-MI-NA-TE and compares PI-\*34-TE (HT 116a); no I survives before PI. See MI+\*301, MI-NU-TE and DA-DU-MI-NE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*maniy-at- 'allotment, portion' (PS #2703 √m-n-y 'to count, allot') |
 | Ugaritic | mnt 'part, portion' (DULAT 558); mnty 'my portion' |
 | Hebrew | mānā (מָנָה) 'portion, share' (HALOT 600); mān (מָן) 'manna' (Exod 16:15); mānāh 'to count, allot' |
 | Arabic | manāt 'fate, destiny; that which is allotted' (the goddess Manāt, Quran 53:20) |

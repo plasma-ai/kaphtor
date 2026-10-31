@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yarīm |
 | Meaning | personal name, '(DN) is exalted' (Amorite type) |
 | Root | r-w-m |
+| Proto-Semitic | \*rVyVm- (#1135) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 87: JA-RE-MI 1 in a roster of men under \*21F-TU-NE · MA-KA-RI-TE. Yarīm, the yaqtul of √r-w-m, a hypocoristic of the Amorite Yarim-DN names (Gelb 1980, nos. 3432–3442: Yarim-Lim, Yarim-Addu); cf. Heb. Yirmᵉyāhû. Weak point: RE for /ri/. Rival: √y-r-ḫ 'moon', the god Yariḫ (Huehnergard 2012, 42, 87). One attestation.
+HT 87: JA-RE-MI 1 in a roster of men under \*21F-TU-NE · MA-KA-RI-TE. Yarīm, the yaqtul of √r-w-m, a hypocoristic of the Amorite Yarim-DN names (Gelb 1980, nos. 3432–3442: Yarim-Lim, Yarim-Addu); cf. Heb. Yirmᵉyāhû. Weak point: RE for /ri/. Rival: √y-r-ḫ 'moon', the god Yariḫ (Huehnergard 2012, 42, 87). One attestation. See RU-MA-TA.
 
 ### Cognates
 

@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | śakaru |
 | Meaning | beer, strong drink—logographic abbreviation of \*śakaru/\*šikaru; commodity logogram, compounded with VIN |
 | Root | θ-k-r |
+| Proto-Semitic | \*škr (#3611) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-HT56a: paired with \*188 (buṭnu). Compound forms: VIN+SA (HT131b), SA-VIN (HT114b, ZA15a), a compounded beverage 'wine-beer' (cf. the yayin/šēkār doublet, Num 6:3, Isa 5:11). PS \*θVkVr- → Akk. šikaru "barley beer", Heb. śēkār "strong drink", Arab. sakar. Rival 'flax': no Semitic flax word is /sa/-initial, and Linear B writes linen syllabically. On HT 27b SA n is paired with RE m (SA 4, RE 70 on one line), a transaction notation, not beer; no reading there.
+HT56a: paired with \*188 (buṭnu). Compound forms: VIN+SA (HT131b), SA-VIN (HT114b, ZA15a), a compounded beverage 'wine-beer' (cf. the yayin/šēkār doublet, Num 6:3, Isa 5:11). Akk. šikaru "barley beer", Heb. śēkār "strong drink", Arab. sakar. Rival 'flax': no Semitic flax word is /sa/-initial, and Linear B writes linen syllabically. On HT 27b SA n is paired with RE m (SA 4, RE 70 on one line), a transaction notation, not beer; no reading there.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | šikaru 'beer; fermented alcoholic beverage' (CAD Š/2 420) |
+| Hebrew | šēkār 'intoxicating drink, beer' (HALOT 1501) |
+| Ugaritic | /š-k-r/ (II) 'to become intoxicated' (DULAT 804) |
 
 ### Source
 

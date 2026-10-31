@@ -49,9 +49,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_RU_star329\|DA-RU-\*329]] | Dārum | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |
-| [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-lēwī | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-luwwī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kabīru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RU\|KA-RU]] | karru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | CANDIDATE |
 | [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kakkaru | SPECULATIVE |
@@ -79,7 +79,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_RU\|SI-RU]] | ṣillu | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_RU_TE\|SI-RU-TE]] | šīrūt | PROBABLE |
-| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-lēwīt | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] | Tursa | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_SI\|U-NA-RU-KA-NA-SI]] | wannā lū kanāsī | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | CANDIDATE |

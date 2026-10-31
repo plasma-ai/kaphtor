@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3253_to_roar_cry_shout
 title: "*nʕr: 'to roar, cry, shout'"
-desc: "Proto-Semitic *nʕr, 'to roar, cry, shout': reflexes in 4 language(s)."
+desc: "Proto-Semitic *nʕr, 'to roar, cry, shout': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3253"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | nāʿar (Klein s.v. נער ᴵᴵ) | Klein s.v. נער ᴵᴵ | gloss withheld |
 | Akkadian | naˀāru (CAD N₁ 7, AHw. 694 apud SEDonline 766) | CAD N₁ 7, AHw. 694; SEDonline 766 | gloss withheld |
 | Syrian Aramaic | nˁr (LSyr. 435, SL 928 apud SEDonline 766) | LSyr. 435, SL 928; SEDonline 766 | gloss withheld |
 | Arabic | nˁr (Lane 2815 apud SEDonline 766) | Lane 2815; SEDonline 766 | gloss withheld |

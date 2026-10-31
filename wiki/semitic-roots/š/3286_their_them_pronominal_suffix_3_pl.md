@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3286_their_them_pronominal_suffix_3_pl
 title: "*-šVmV/*-šVnV: 'their; them (pronominal suffix, 3 pl.)'"
-desc: "Proto-Semitic *-šVmV/*-šVnV, 'their; them (pronominal suffix, 3 pl.)': reflexes in 8 language(s)."
+desc: "Proto-Semitic *-šVmV/*-šVnV, 'their; them (pronominal suffix, 3 pl.)': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3286"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | -ǝhǝm; -ǝsǝn (Rubin 2018 55, 58); -īhǝm; -īsǝn (Rubin 2018 60) | Rubin 2018 55, 58; Rubin 2018 60 | gloss withheld |
 | Akkadian | -šina (GAG § 42 g apud SEDonline 1570); -šunu (GAG § 42 g apud SEDonline 1570) | GAG § 42 g; SEDonline 1570 | gloss withheld |
 | Arabic | -hum/-humu (Fischer 2002 § 268 apud SEDonline 1570); -hunna (Fischer 2002 § 268 apud SEDonline 1570) | SEDonline 1570 | gloss withheld |
 | Geez | -omu, -homu (CDG 218, Bulakh–Kogan 2013b:101 apud SEDonline 1570); -on, -hon (CDG 218, Bulakh–Kogan 2013b:101 apud SEDonline 1570) | CDG 218, Bulakh–Kogan 2013b:101; SEDonline 1570 | gloss withheld |

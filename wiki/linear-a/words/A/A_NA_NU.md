@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_NA_NU
 title: "A-NA-NU"
-desc: "ʿAnānu: personal name ʿAnānu; rival Ḥanānu. Lexicon, SPECULATIVE (tier 1)."
+desc: "Ḥanānu: personal name Ḥanānu 'gracious'; rival ʿAnānu 'cloud'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "A-NA-NU"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "ʿAnānu"
+reading: "Ḥanānu"
 attestations: ["HTZb159"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,20 +31,21 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʿAnānu |
-| Meaning | personal name ʿAnānu; rival Ḥanānu |
-| Root | ʿ-n-n |
+| Reading | Ḥanānu |
+| Meaning | personal name Ḥanānu 'gracious'; rival ʿAnānu 'cloud' |
+| Root | ḥ-n-n |
+| Proto-Semitic | \*ḥanan- (#K0736) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Owner/recipient name on a painted pithos, base of A-NA-NU-SI-JA-SE (HTZb159)—the 'cloud' substantive is the etymology, not the function. -SI-JA-SE is the vessel-label adjectival formation shared with KI-TA-NA-SI-JA-SE (PEZb3). Amorite A-NA-NU-UM-DINGIR (Gelb 1980, no. 476a) has the same spelling; cuneiform does not tell ʿ from ḥ. Rival: Ḥanānu, √ḥ-n-n 'be gracious'; Amorite Ḥanan- (Gelb, AS 21, nos. 475–478), and Neh 10:27 names Ḥānān beside ʿĀnān.
+Owner/recipient name on a painted pithos, base of A-NA-NU-SI-JA-SE (HTZb159). -SI-JA-SE is the vessel-label adjectival formation shared with KI-TA-NA-SI-JA-SE (PEZb3). Gelb reads the same spelling, A-NA-NU-UM-DINGIR, as ḤANAN-UM+ʾIL (Add. 476a), as do Ugarit Ḫananu (Kinlaw 1967, 55) and the Amorite Ḥanan- names (nos. 475–478); cuneiform does not tell ḥ from ʿ. Rival: ʿAnānu 'cloud', and Neh 10:27 names ʿĀnān beside Ḥānān. See A-NA-NE.
 
 ### Cognates
 
-Hebrew עָנָן (ʿānān) 'cloud'; biblical PN עָנָן (ʿĀnān, Neh 10:27; HALOT 858); Amorite A-NA-NU-UM-DINGIR (Gelb 1980, no. 476a), written as A-NA-NU; PS \*ʿanan-; rival: Amorite Ḥanan-a, Ḥanan-at-um, Ḥanan-im (Gelb, AS 21, nos. 475–478), biblical PN חָנָן (Ḥānān, Neh 10:27; HALOT 335)
+Amorite A-NA-NU-UM-DINGIR, read ḤANAN-UM+ʾIL (Gelb 1980, Add. 476a), and Ḥanan-a, Ḥanan-at-um, Ḥanan-im (Gelb, AS 21, nos. 475–478); Ugarit Ḫananu (Kinlaw 1967, 55); biblical PN חָנָן (Ḥānān, Neh 10:27; HALOT 335); rival: Hebrew עָנָן (ʿānān) 'cloud', biblical PN עָנָן (ʿĀnān, Neh 10:27; HALOT 858)
 
 ### Source
 

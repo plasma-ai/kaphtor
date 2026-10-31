@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿabrāne / bārāʾāne |
 | Meaning | the crosser (√ʿ-b-r 'to cross over,' cf. ʿibrī 'Hebrew') OR creator (√b-r-ʾ 'to create,' Gen 1:1) |
 | Root | ʿ-b-r / b-r-ʾ |
+| Proto-Semitic | \*ʕVbur- ~ \*ʕa/ibr- (#1543) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

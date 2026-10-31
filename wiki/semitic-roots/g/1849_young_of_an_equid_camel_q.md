@@ -44,4 +44,8 @@ updated: 2026-10-22T17:38:31Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
+## Notes
+
+Hajouz 2013, 98 reads EV 0039 ag-lum as /ʿag(a)lum/, from ʿ-g-l 'bison, calf' (1824), with Akk. agalu 'riding donkey'.
+
 <!-- END kaphtor:record -->

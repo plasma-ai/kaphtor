@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | bʾr, a place name (DULAT 201) | DULAT 201 | gloss withheld |
 | Gurage | bʷǝr; Gog. bur (EDG 150 apud SEDonline 534) | EDG 150; SEDonline 534 | gloss withheld |
 | Hebrew | bōr |  |  |
-| Eblaitic | BU-rúm (VE 520; Conti 1990: 146 apud SEDonline 534) | VE 520; Conti 1990 146; SEDonline 534 | gloss withheld |
+| Eblaitic | BU-rúm (VE 520; Conti 1990: 146 apud SEDonline 534), /buʔr/ (Sanmartín GlOS 1, 104) | VE 520; Conti 1990 146; SEDonline 534; Sanmartín GlOS 1, 104 | gloss withheld |
 | East Ethiopic | Zwy. bur (EDG 150 apud SEDonline 534) | EDG 150; SEDonline 534 | gloss withheld |
 | Amorite | biʾr: divine name ᵈNIN bi-i-rim (Sanmartín GlOS 1, 104) | Sanmartín GlOS 1, 104 | gloss withheld |
 

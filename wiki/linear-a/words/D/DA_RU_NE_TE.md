@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dāru-ʿAnēt |
 | Meaning | Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element |
 | Root | d-w-r + ʿ-n-t |
+| Proto-Semitic | \*dawr- (#40) + \*ʕanat- (#2771) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,7 @@ HT 98b .2 DA-RU-NE-TE 1/10, after \]VIN ¾ (GORILA I 161); face a lists TA-NA-TI
 
 | Language | Comparison |
 |---|---|
-| Amorite | dāru 'generation; lasting' (40); Šumī-dāru 'my name is lasting' (Buck 2018, 349); ʿAnat, DN (Gelb 1980) |
+| Amorite | dāru 'generation; lasting' (40); Šumī-dāru 'my name is lasting' (Buck 2018, 349); ʿAnat second in ʿAmmī-ʿAnat, Mut-ʿAnat, ʿAbd-ʿAnat, written ḪA-NA-AT (Gelb 1980, nos. 2132, 4857, 1844); Tuttul ʿabdu-ʿanata (Buck 2018, 320) |
 | Akkadian | dārû 'everlasting' (CAD D 115); dūru 'wall, fortress' (CAD D 196) |
 | Akkadian (Ugarit) | Šum-Anati, Abdi-Anati (Kinlaw 1967, 111, 7) |
 | Ugaritic | ʿnt 'Anat' (DULAT 167); dr 'circle, assembly; generation' (DULAT 277) |
@@ -55,7 +56,7 @@ HT 98b .2 DA-RU-NE-TE 1/10, after \]VIN ¾ (GORILA I 161); face a lists TA-NA-TI
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; Buck 2018
 
 ## Attestations
 

@@ -33,13 +33,15 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | du |
 | Meaning | that, of (relative pronoun) |
+| Root | ḏ |
+| Proto-Semitic | \*ḏī- (#K0877) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | particle |
 
 ### Note
 
-Relative/determinative from PWS \*ḏū; Akkadian ša kept apart. Open question: the corpus attestations are list entries with their own quantities—HT122a '\*306-TU 1 / DU 1 / KU-PA₃-NU 1' (list totalled KU-RO 31), ZA10b 'TA 2 / DU 1', ZA31 'DU 2' (HT47a's \]DU 2̣0\[ ends a word begun on the line before, GORILA I 91)—a slot for a name or abbreviation, with no clause for a relative to head. Gordon's reading rests on II,2:1; the roster DU is uninvestigated (cf. KI's accounting use)
+Relative/determinative from PWS \*ḏū; Akkadian ša kept apart. Open question: the corpus attestations are list entries with their own quantities—HT122a '\*306-TU 1 / DU 1 / KU-PA₃-NU 1' (list totalled KU-RO 31), ZA10b 'TA 2 / DU 1', ZA31 'DU 2' (HT47a's \]DU 2̣0\[ ends a word begun on the line before, GORILA I 91)—a slot for a name or abbreviation, with no clause for a relative to head. Gordon's reading rests on II,2:1. Ebla and Amorite names open with ḏū 'he of' (ḏū-ʾIl, Pagan 1998, row 1609; ḎU+DAWD-I, Gelb 1980, no. 6583), so the roster DU can abbreviate such a name (cf. KI's accounting use). See DU-RU-WI, KA-\*305 and SE-WA-AU-DE.
 
 ### Cognates
 
@@ -52,7 +54,7 @@ Relative/determinative from PWS \*ḏū; Akkadian ša kept apart. Open question:
 
 ### Source
 
-Gordon 1966 §163
+Gordon 1966 §163; Pagan 1998; Gelb 1980
 
 ### Review
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | maṣīdu |
 | Meaning | provisions (list heading); rival a personal name, cf. Linear B ma-si-dwo |
 | Root | ṣ-w-d |
+| Proto-Semitic | \*ṣVwad/\*ṣVyad- (#847) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-HT 43 .1 MA-SI-DU ·, all three signs whole, heading the tablet before PA-\*342-I · I GRA+PA 5̣\[ (GORILA I 83). maṣīdu 'provisions': Ug. mṣd '(feast of) game' (DULAT 578), Heb. ṣêdâ 'provisions' (HALOT 1021); SI writes ṣi. Rival: a personal name, cf. Linear B ma-si-dwo, a man at Knossos (KN Fh 360.b; DMic I s.v.), with -Cu for Linear B -Co (Woudhuizen 2016, 218). One attestation.
+HT 43 .1 MA-SI-DU ·, all three signs whole, heading the tablet before PA-\*342-I · I GRA+PA 5̣\[ (GORILA I 83). maṣīdu 'provisions': Ug. mṣd '(feast of) game' (DULAT 578), Heb. ṣêdâ 'provisions' (HALOT 1021); SI writes ṣi. Rival: a personal name, cf. Linear B ma-si-dwo, a man at Knossos (KN Fh 360.b; DMic I s.v.), with -Cu for Linear B -Co (Woudhuizen 2016, 218). One attestation. See SE-\*305 and SI-DA-TE.
 
 ### Cognates
 

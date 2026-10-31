@@ -34,6 +34,7 @@ updated: 2026-10-28T13:27:44Z
 | Reading | ʾŌl |
 | Meaning | the Foremost (name element), from 'priority, supremacy' |
 | Root | ʾ-w-l |
+| Proto-Semitic | \*ʾawl- (#3783) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
@@ -48,10 +49,11 @@ Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4). ʾōl &lt; \*ʾawl, O 
 |---|---|
 | Ugaritic | ảwl 'priority, supremacy' (?), 1.12 II 56, 'Cf. ảwldn' (DULAT 128) |
 | Arabic | ʾāla, ʾawila 'to precede, to be first' (Lane 126) |
+| Eblaite | ʾūl 'strength', a name element, √ʾwl 'to be strong, foremost' (Pagan 1998, elements 1971–1972) |
 
 ### Source
 
-di Mino; DULAT; Lane
+di Mino; DULAT; Lane; Pagan 1998
 
 ## Attestations
 

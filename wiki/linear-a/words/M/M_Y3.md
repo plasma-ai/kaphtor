@@ -33,12 +33,22 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | Mayyā—deified Water (deity name) |
 | Root | √m-y-y |
+| Proto-Semitic | \*maʾ-/\*may- (#711) |
 | Language layer | NWS |
 | Semantic field | divine |
 
 ### Note
 
-Egyptian group-writing: m'y3 \[element 10, Det: A40 'seated god' (male)\]. Keftiu Spell #33, LMP BM 10059. √m-y-y: PS \*maʔ-/\*may- 'water' is grammatically masculine across all branches (Akk mû, Heb mayim m.pl., Ug my, Ar māʾ m.), but -ā suffix = productive NWS feminine singular marker (cf. malkā, ʾilat). Mayyā = mayy- + -ā (fem.): 'the feminine Water' = Water-Goddess \|\| THREE SUPPORTING LINES: (1) Arabic مَيَّة (Mayya)—standard feminine PN 'water,' well-attested from pre-Islamic poetry (Dhū l-Rumma, d. 735); geminated mayy- + fem. -a(t). (2) Ugaritic divine epithet pattern—feminine deity names from common nouns with -ā/-at: ʿAṯirat-, ʿAnat- from √ʿ-n-y; hypothetical \*Mayyat- follows identical formation. (3) ANE primordial water = feminine deity: Tiʾāmat (Akk, fem.), Tĕhôm (Heb, fem.), Namma (Sum, fem.) \|\| A40 male determinative: Egyptian scribal default for foreign deities—the -ā morpheme in the NWS source already marks feminine gender. Paired with rpʾī (Healer): cure + purification. Ritual instructions: 'over liquid, fermented drink, urine'—water-based media for a water deity. Akulov reads as 'Maja,' connects to Greek Μαῖα (Pleiad)
+Egyptian group-writing: m'y3 \[element 10, Det: A40 'seated god' (male)\]. Keftiu Spell #33, LMP BM 10059. √m-y-y: PS \*maʔ-/\*may- 'water' is grammatically masculine across all branches (Akk mû, Heb mayim m.pl., Ug my, Ar māʾ m.), but -ā suffix = productive NWS feminine singular marker (cf. malkā, ʾilat). Mayyā = mayy- + -ā (fem.): 'the feminine Water' = Water-Goddess \|\| THREE SUPPORTING LINES: (1) Arabic مَيَّة (Mayya)—standard feminine PN 'water,' well-attested from pre-Islamic poetry (Dhū l-Rumma, d. 735); geminated mayy- + fem. -a(t). (2) Ugaritic divine epithet pattern—feminine deity names from common nouns with -ā/-at: ʿAṯirat-, ʿAnat- from √ʿ-n-y; hypothetical \*Mayyat- follows identical formation. (3) ANE primordial water = feminine deity: Tiʾāmat (Akk, fem.), Tĕhôm (Heb, fem.), Namma (Sum, fem.) \|\| A40 male determinative: Egyptian scribal default for foreign deities—the -ā morpheme in the NWS source already marks feminine gender. Paired with rpʾī (Healer): cure + purification. Ritual instructions: 'over liquid, fermented drink, urine'—water-based media for a water deity. Akulov reads as 'Maja,' connects to Greek Μαῖα (Pleiad). See MI-JA and MA-I-MI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | mh/y 'water' (DULAT 529) |
+| Hebrew | mayim 'water' (HALOT 576) |
+| Akkadian | mû 'water; liquid' (CAD M/2 149) |
+| Phoenician | mm 'water' (Krahmalkov 292) |
 
 ## Attestations
 

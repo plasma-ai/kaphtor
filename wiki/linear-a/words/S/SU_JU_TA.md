@@ -34,17 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | sulta |
 | Meaning | fine flour, semolina |
 | Root | s-l-t |
+| Proto-Semitic | \*sult- (#S25) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Skeleton s-l-t exact match to √s-l-t \*sult- (Heb. sōlet, Phoen. slt). KN22a lames tablet: SU-JU-TA 20 KA-JE. Qty 20 consistent with bulk commodity allocation. Biblical sōlet is the primary offering flour (Lev 2:1, Ex 29:2).
+JU writes /lu/: su-lu-ta, the skeleton s-l-t. KN22a lames tablet: SU-JU-TA 20 KA-JE. Qty 20 consistent with bulk commodity allocation. Biblical sōlet is the primary offering flour (Lev 2:1, Ex 29:2).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | sōlet 'fine flour, semolina' (Lev 2:1) |
+| Eblaite | za-la-tum 'finely ground wheat flour' (GlOS 2, 198) |
+| Egyptian | group writing ṯu-ru₂-ta 'fine flour' (GlOS 2, 198, after Hoch, SWET 369f., no. 550) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/2944_loose_hair_of_the_head
 title: "*parʕ-: '(loose) hair of the head'"
-desc: "Proto-Semitic *parʕ-, '(loose) hair of the head': reflexes in 4 language(s)."
+desc: "Proto-Semitic *parʕ-, '(loose) hair of the head': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2944"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | päraʕ (SED I 192) | SED I 192 | gloss withheld |
 | Modern Aramaic | HRT perča (coll.) (SED I 192) | SED I 192 | gloss withheld |
 | Arabic | farʕ- (SED I 192) | SED I 192 | gloss withheld |
+| Eblaitic | bar-a-tum /parʿātum/ (= Sum. (sag)munzerₓ(SAG×KÍD)) (VE 260; Bonechi 2008, 3) | VE 260; Bonechi 2008, 3 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

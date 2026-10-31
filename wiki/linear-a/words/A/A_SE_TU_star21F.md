@@ -45,11 +45,11 @@ PH 2 .1 A-SE-TU-\*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and
 
 | Language | Comparison |
 |---|---|
-| Hurrian | aštuḫḫi 'féminin', opp. turuḫḫi 'masculin', from ašte 'femme'; instr. aš-tu-uḫ-ḫa-a-i (Laroche GLH 62); Ugaritic alphabetic aštḫ-n (GLH 63); Nuzi ᶠAš-du-uḫ-ḫa-a-a (NPN 37, 206) |
+| Hurrian | aštuḫḫi 'féminin', opp. turuḫḫi 'masculin', from ašte 'femme'; instr. aš-tu-uḫ-ḫa-a-i (Laroche GLH 62); Ugaritic alphabetic aštḫ-n (GLH 63); Nuzi ᶠAš-du-uḫ-ḫa-a-a (NPN 37, 206); Aštuḫa, aš-tu-ḫa, f. (Sippar, TCL 1 109:14; Monti 2017, 502) |
 
 ### Source
 
-di Mino; Laroche GLH; NPN
+di Mino; Laroche GLH; NPN; Monti 2017
 
 ## Attestations
 

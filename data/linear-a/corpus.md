@@ -41,3 +41,6 @@ Castellan) and on [lineara.xyz](https://github.com/mwenge/lineara.xyz) (Hogan). 
 GORILA, Younger's *Linear A Texts* and the other primary editions, and many were corrected. SigLA's data is under
 CC BY-NC-SA 4.0, and lineara.xyz states no licence. Our corrections and added layers, and `census_classes.json`, are CC BY 4.0. The underlying
 texts keep their sources' terms.
+
+`protocol-c-c1-words.txt` holds the 1,070 hyphenated words of `corpus.json` as Protocol C's checker read them in C1,
+lowercased and sorted one per line; it keeps the corpus's terms.

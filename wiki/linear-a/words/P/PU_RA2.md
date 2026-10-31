@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Bōl/Baʿl |
 | Meaning | allocation heading; possibly Baal, 'Lord' |
 | Root | b-ʿ-l |
+| Proto-Semitic | \*baʕl- (#8) |
 | Language layer | NWS |
 | Category | entity_or_divine_name |
 | Semantic field | administrative |
 
 ### Note
 
-PU-RA₂ occupies an allocation-heading position on HT28b and HT116a. Gordon's comparison with Baʿl/Bōl is semantically apt and uses di Mino's proposed PU=/bV/ and RA₂=/l/ correspondences, with loss of ʿayin. It nevertheless requires an acknowledged U/O correspondence and dead-vowel spelling, while RA₂=/l/ and the Baal identification partly support one another. Retain Baal as a candidate, not a confirmed reading. ZA6a \]PU₂-RA₂ GRA+PA 20 may be the same name at Zakros, with PU₂ = /bu/, in the same name-with-grain slot; the line is broken before PU₂, so a longer word is not excluded.
+PU-RA₂ occupies an allocation-heading position on HT28b and HT116a. Gordon's comparison with Baʿl/Bōl is semantically apt and uses di Mino's proposed PU=/bV/ and RA₂=/l/ correspondences, with loss of ʿayin. It nevertheless requires an acknowledged U/O correspondence and dead-vowel spelling, while RA₂=/l/ and the Baal identification partly support one another. Retain Baal as a candidate, not a confirmed reading. ZA6a \]PU₂-RA₂ GRA+PA 20 may be the same name at Zakros, with PU₂ = /bu/, in the same name-with-grain slot; the line is broken before PU₂, so a longer word is not excluded. Ebla has bare ba-lu, ba₄-lum 'lord' as personal names (Pagan 1998, rows 1110, 1153).
 
 ### Cognates
 
@@ -50,7 +51,7 @@ PU-RA₂ occupies an allocation-heading position on HT28b and HT116a. Gordon's c
 
 ### Source
 
-Gordon 1966 §150; HT28b and HT116a corpus contexts
+Gordon 1966 §150; HT28b and HT116a corpus contexts; Pagan 1998
 
 ## Attestations
 

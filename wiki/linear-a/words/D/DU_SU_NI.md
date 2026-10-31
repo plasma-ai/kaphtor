@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dišon |
 | Meaning | personal name, 'antelope' |
 | Root | d-y-š-n |
+| Proto-Semitic | \*dīšān- {} \*ditān- (#3785) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -41,6 +42,12 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT 108 .2 DI-NA-RO 2 DU-SU-NI 4\[, whole and undotted, a recipient in the grain list under KI-RE-TA-NA (GORILA I 175). Hebrew Dîšôn and Dîšān, clans of Seir (Gen 36:21), and dîšôn 'antelope' (Deut 14:5). Rival: a Hurrian name in -nni, as DA-KU-SE-NE. One document.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | Dîšôn, Horite and Edomite clan, wədîšôn wəʾēṣer wədîšān (Gen 36:21); dîšôn 'aurochs, antelope', among the clean animals (Deut 14:5) (HALOT 221) |
 
 ### Source
 

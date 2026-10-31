@@ -31,7 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Geez | śaraqa 'rise' | Anderson–Moser 2024 root śrq |  |
 | Arabic | šaraqa (LGz. 534; Lane 1539) | LGz. 534; Lane 1539 | gloss withheld |
-| Epigraphic South Arabian | Sab s2rq (LGz. 534; Sabaweb lemma 3122); s2rq (Biella 528) | LGz. 534; Sabaweb lemma 3122; Biella 528 | gloss withheld |
+| Epigraphic South Arabian | Sab s2rq (LGz. 534; Sabaweb lemma 3122); s2rq (Biella 528); Qat. ms2rq 2 (Ricks 1982 s.v. ms2rq) | LGz. 534; Sabaweb lemma 3122; Biella 528; Ricks 1982 s.v. ms2rq | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic śrqy 2 (Al-Jallad–Jaworska 126) | Al-Jallad–Jaworska 126 | gloss withheld |
 | Harsusi | śeroq (LGz. 534) | LGz. 534 | gloss withheld |
 | Hebrew | Ben Sira ʾwr msr(y)q (LGz. 534) | LGz. 534 |  |

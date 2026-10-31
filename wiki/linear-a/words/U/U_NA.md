@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | wannā |
 | Meaning | and behold (contracted conjunction + h-n presentative) |
 | Root | w + h-n |
+| Proto-Semitic | \*hn (#3482) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | particle |
 
 ### Note
 
-Working vocalization /wannā/ 'and behold,' comparing Ugaritic w hn beside contracted wn (KTU 1.23:46; 1.4 IV 50; Watson 1996, 285–87; Sivan 2001, 34, 186) and Lipiński's \*wa-hanna/u &gt; wn (1997, §27.25). The initial w- already contains the conjunction, so \*/u-winnā/ is excluded. Alphabetic Ugaritic does not determine the vowels; /winnā/ remains possible, and Tropper 2000, §33.142.23 permits \*/wa-hinnV/ &gt; /winnV/ while preferring w + enclitic -n. Hebrew wəhinnē retains /h/. The Linear A equation remains a project hypothesis, not an Ugaritic vocalization.
+Working vocalization /wannā/ 'and behold,' comparing Ugaritic w hn beside contracted wn (KTU 1.23:46; 1.4 IV 50; Watson 1996, 285–87; Sivan 2001, 34, 186) and Lipiński's \*wa-hanna/u &gt; wn (1997, §27.25). The initial w- already contains the conjunction, so \*/u-winnā/ is excluded. Alphabetic Ugaritic does not determine the vowels; /winnā/ remains possible, and Tropper 2000, §33.142.23 permits \*/wa-hinnV/ &gt; /winnV/ while preferring w + enclitic -n. Hebrew wəhinnē retains /h/; Ebla a-na, an-na, i-na, in-na and Ugarit syllabic a-né-en-na write the presentative without h- (GlOS 1, 218). The Linear A equation remains a project hypothesis, not an Ugaritic vocalization. See U-NA-A, I-NA.
 
 ### Cognates
 
@@ -54,7 +55,7 @@ Working vocalization /wannā/ 'and behold,' comparing Ugaritic w hn beside contr
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

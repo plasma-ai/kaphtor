@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/1538_height_elevation_the_above_1_upper_part_2_be_hig
 title: "*ʕall- ~ *ʕVlʕVl- ~ *laʕl-: 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4"
-desc: "Proto-Semitic *ʕall- ~ *ʕVlʕVl- ~ *laʕl-, 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4: reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʕall- ~ *ʕVlʕVl- ~ *laʕl-, 'height, elevation, the above' 1, 'upper part' 2, 'be high, elevated' 3, 'raise, elevate' 4: reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1538"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ālēw 2 (Rubin 2018 823) | Rubin 2018 823 | gloss withheld |
 | Arabic | ʕall- 1, 2; ʕll 3; min ʕalu, min ʕali 'from above'; ʕalu 'above, in the higher, or highest, part of' 1 (Lane 2144) | Lane 2144 |  |
 | Geez | ʕalʕala 4, lāʕl 1 |  |  |
 | Phoenician | ʿl (Krahmalkov 368–369) | Krahmalkov 368–369 | gloss withheld |
@@ -40,5 +41,9 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic ʿl (Al-Jallad–Jaworska 51) | Al-Jallad–Jaworska 51 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Cf. 457 \*ʕVlVy/w- 'be high'.
 
 <!-- END kaphtor:record -->

@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Daguna |
 | Meaning | personal name, probably derived from Dagan/Dagon; cf. attested Daguna |
 | Root | d-g-n |
+| Proto-Semitic | \*dagān- (#2994) |
 | Language layer | Akkadian |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-DA-KU-NA corresponds exactly, allowing Linear A stop neutralization, to syllabic Da-gu-na. Daguna is attested as an Old Akkadian personal name and later as an Akkadian divine name. Because HT103 is a counted administrative list, an anthroponym or recipient is safer here than a direct reference to the god. The connection with Dagan/Dagon is probable but does not determine the bearer.
+DA-KU-NA corresponds exactly, allowing Linear A stop neutralization, to syllabic Da-gu-na. Daguna is attested as an Old Akkadian personal name and later as an Akkadian divine name. Because HT103 is a counted administrative list, an anthroponym or recipient is safer here than a direct reference to the god. The connection with Dagan/Dagon is probable but does not determine the bearer. See GRA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | Daguna, Dagana, the Babylonian forms of the god's name (HALOT 213) |
+| Ugaritic | dgn (II) DN (DULAT 265) |
+| Hebrew | dāgôn 'Dagon, god of the Philistines' (HALOT 213) |
+| Amorite | Dagān DN (Gelb AS 21, 17) |
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2407_kind_type
 title: "*min-: 'kind, type'"
-desc: "Proto-Semitic *min-, 'kind, type': reflexes in 2 language(s)."
+desc: "Proto-Semitic *min-, 'kind, type': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2407"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Judaic Aramaic | mīnā (Klein s.v. מִין ᴵ) | Klein s.v. מִין ᴵ | gloss withheld |
 | Ugaritic | mn (DULAT 554) | DULAT 554 | gloss withheld |
 | Hebrew | mīn |  |  |
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kapp |
 | Meaning | palm-measure, bowl (unit of dry/liquid measure; administrative commodity category) |
 | Root | k-p-p |
+| Proto-Semitic | \*kapp- (#1945) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |

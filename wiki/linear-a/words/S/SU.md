@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Logographic abbreviation. AB58 pictographic ancestor = pig/boar (CH 035, Ferrara 2022). 7 standalone occurrences across 3 sites (KH 4×, HT 2×, ZA 1×), 85% followed by numerals. Fractional quantity on HT115a (2 ¹⁄₅) = measured commodity (processed meat/weight), not head count \|\| ETYMOLOGY: Akkadian šaḫû (Sumerian loanword). Guttural ḫ drops → šaū contracts to šū → SU. Linear B separated pig ideogram (\*85 SUS₂) from syllabogram B 58, implying AB58 served both functions in Linear A \|\| DISTRIBUTION: Co-occurs with VIN, NI, SI, CYP on KH11
+Logographic abbreviation. AB58 pictographic ancestor = pig/boar (CH 035, Ferrara 2022). 7 standalone occurrences across 3 sites (KH 4×, HT 2×, ZA 1×), 85% followed by numerals. Fractional quantity on HT115a (2 ¹⁄₅) = measured commodity (processed meat/weight), not head count \|\| ETYMOLOGY: Akkadian šaḫû (Sumerian loanword). Guttural ḫ drops → šaū contracts to šū → SU. Linear B separated pig ideogram (\*85 SUS₂) from syllabogram B 58, implying AB58 served both functions in Linear A \|\| DISTRIBUTION: Co-occurs with VIN, NI, SI, CYP on KH11. Rival: NWS ḫuzīr (PS 2170 \*ḫV(n)zīr-), Mari names ḫu-zi-ra-nu-um, ḫu-zi-ra-tum 'sow' (GlOS 1, 277).
 
 ### Cognates
 
@@ -49,6 +49,11 @@ Logographic abbreviation. AB58 pictographic ancestor = pig/boar (CH 035, Ferrara
 | Akkadian | šaḫû "pig" (&lt; Sumerian ŠAḪ₅) |
 | Hebrew | ḥazīr (different root—NWS replaced Akk. term) |
 | Arabic | ḫinzīr (different root—PS \*ḫinzīr-) |
+| Ugaritic | polyglot list \[ŠA\]Ḫ = še-ḫu-ú = ú-ḫi = ḫu-zi-rù: Akk. šaḫû beside local ḫuzīr (GlOS 1, 277) |
+
+### Source
+
+di Mino; Ferrara 2022; GlOS 1
 
 ## Attestations
 
@@ -66,6 +71,7 @@ Logographic abbreviation. AB58 pictographic ancestor = pig/boar (CH 035, Ferrara
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | šaḫū | pig, 2 ⅙\[ | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH63\|KH63]] | šaḫū | pigs (logogram) | PROBABLE |
 
 <!-- END kaphtor:record -->

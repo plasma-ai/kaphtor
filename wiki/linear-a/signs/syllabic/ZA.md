@@ -54,6 +54,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_ZA_SE\|MI-ZA-SE]] | mizza-se | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_ZA\|RE-ZA]] | (ʾa)raz | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_SA_ZA\|TA-SA-ZA]] | taḫsaz | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZA_TI\|ZA-TI]] | zāt | CANDIDATE |
 

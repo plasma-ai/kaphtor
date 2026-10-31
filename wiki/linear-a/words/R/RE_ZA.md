@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | (ʾa)raz |
 | Meaning | cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure |
 | Root | ʾ-r-z |
+| Proto-Semitic | \*ʾVrz- (#2735) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -46,7 +47,6 @@ Always counted: KH 86 \]RE-ZA CYP, before the aromatic cyperus, broken before; H
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾVrz- 'cedar' (semitic_roots no. 2735) |
 | Ugaritic | arz 'a conifer; cedar' (DULAT 109) |
 | Eblaite | ar-za-tum /ʔarzatum/ 'cedar' (VE 471) |
 | Hebrew | ʾerez 'cedar' beside bərôš 'juniper' (1 Kgs 5:22) |

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mizza-se |
 | Meaning | for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA |
 | Root | m-s-s |
+| Proto-Semitic | \*mass- (#S31) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
@@ -44,14 +45,11 @@ ZA 15a .4 MI-ZA-SE 3, first entry under ME+VIN in a wine issue, beside \*363-KE-
 
 ### Cognates
 
-| Language | Comparison |
-|---|---|
-| Proto-Semitic | \*mass- 'forced labor, corvée levy, labor gang' (semitic_roots S31) |
-| Akkadian | massu 'corvée worker': idi LÚ.MEŠ ma-zi 'wages for the corvée workers' (CAD M/1 327) |
+see ME-ZA
 
 ### Source
 
-di Mino; CAD M/1; Huehnergard 2011
+di Mino; Huehnergard 2011
 
 ## Attestations
 

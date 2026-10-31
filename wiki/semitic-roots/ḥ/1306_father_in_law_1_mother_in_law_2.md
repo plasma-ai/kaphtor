@@ -46,7 +46,7 @@ updated: 2026-10-25T05:11:48Z
 | Amorite | ḥamum (Gelb AS 21, 19); ḥamu (Buck 2019, 327) | Gelb AS 21 19; Buck 2019, 327 | gloss withheld |
 | Mehri | ḥaym, ḥəmáyt (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Soqotri | ḥam, ḥámit (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
-| Eblaitic | ʔà-mu-mu (VE 280; Wilcke 1985: 240–241 apud SEDonline 569) | VE 280; SEDonline 569 | gloss withheld |
+| Eblaitic | ʔà-mu-mu (VE 280; Wilcke 1985: 240–241 apud SEDonline 569), /ḥam/ (Sanmartín GlOS 1, 239) | VE 280; SEDonline 569; Sanmartín GlOS 1, 239 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

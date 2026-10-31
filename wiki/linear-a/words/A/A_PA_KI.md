@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾabkī |
 | Meaning | I weep (G prefix form, 1cs); rival ʾabakki (G present) |
 | Root | b-k-y |
+| Proto-Semitic | \*bky- (#S44) |
 | Language layer | NWS |
 | Category | verb |
 | Semantic field | verbal |
@@ -48,12 +49,13 @@ KN Zb 40 line 1, incised on a pithoid jar. A = 1cs ʾa- (as in ʾata-inawaya), P
 |---|---|
 | Hebrew | G 1cs ʾebkeh 'I weep' (Isa 16:9; Jer 48:32); wāʾebkeh 'and I wept' beside prayer (Neh 1:4); D-stem bikkâ 'bewail': məbakkôt ʾet-hattammûz, women bewailing Tammuz (Ezek 8:14) |
 | Akkadian | bakû 'weep' (ORACC CAMS; 3cs preterite ibki, so 1cs abki); a-bak-ki = G present 1cs abakki (ORACC P273162, P338383) |
-| Ugaritic | bky 'weeping, lament' (DULAT) |
+| Ugaritic | bky 'weeping, lament'; G prefix ỉbky, ảky, tbky, ybky (DULAT 217f.) |
+| Eblaite | da-ba-ga tabkay, G prefix; ib-gi yibkī, a name (GlOS 1, 115) |
 | Geʿez | bäkäyä 'flere, plorare, lamentari' (Dillmann 1865, no. 4035), imperfect of the yəqättəl type |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

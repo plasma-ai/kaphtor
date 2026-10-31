@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | batkull |
 | Meaning | grandtotal (lit. 'daughter of all') |
 | Root | b-t + k-l |
+| Proto-Semitic | \*bint- (#K0016) + \*kʷall- (#2418) |
 | Language layer | NWS |
 | Category | accounting |
 | Semantic field | administrative |

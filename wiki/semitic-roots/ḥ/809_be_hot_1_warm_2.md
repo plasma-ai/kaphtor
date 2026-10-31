@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ḤMM (Aramaic Root Atlas; DNWSI 381 apud CAL) | Aramaic Root Atlas; DNWSI 381; CAL; Anderson–Moser 2024 root ḥmm | gloss withheld |
 | Phoenician | ḥmm (HALOT 325) | HALOT 325 |  |
 | Judaic Aramaic | ḥūmᵉtā (HALOT 326) | HALOT 326 | gloss withheld |
-| Eblaitic | a-PI-mu ʾà-mu-tum, ma-wu ʾà-mu-tum (Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30); im-ma /ḥ-m-m/ 1; ma-wu ʔà-mu-tum, a(-wa)-mu ʔà-mu-tum /ḥamm/ 1 (Sanmartín GlOS 1, 240–241) | Kogan 2011 195; VE 637, 777; Krebernik 1983, 25, 30; Sanmartín GlOS 1, 240–241 | gloss withheld |
+| Eblaitic | a-PI-mu ʾà-mu-tum, ma-wu ʾà-mu-tum (Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30); im-ma /ḥ-m-m/ 1; ma-wu ʔà-mu-tum, a(-wa)-mu ʔà-mu-tum /ḥamm/ 1 (Sanmartín GlOS 1, 240–241); /māyū ḥammūtum/, (?) (= Sum. a-kum₄) (VE 637; Bonechi 2008, 6) | Kogan 2011 195; VE 637, 777; Krebernik 1983, 25, 30; Sanmartín GlOS 1, 240–241; VE 637; Bonechi 2008, 6 | gloss withheld |
 | Amorite | ḥ-m-m, Š: cf. ḫa-mi-mu-um (Sanmartín GlOS 1, 240) | Sanmartín GlOS 1, 240 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

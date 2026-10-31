@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN 1a: JA-KU-TI E 240; the verso has JA-DU-RA-TI E 105 in the same layout (SigLA reads AB38, E, on both faces), so both are names. Base JA-KU (MA 2b), Amorite ia-ku-ú (Gelb 1980, no. 3314). JA-DU-RA-TI carries the same ending -TI; its function is open. One attestation.
+KN 1a: JA-KU-TI E 240; the verso has JA-DU-RA-TI E 105 in the same layout (SigLA reads AB38, E, on both faces), so both are names. Base JA-KU (MA 2b), Amorite ia-ku-ú (Gelb 1980, no. 3314). -TI is the -at-i of Amorite hypocoristics, JIŠʿ-AT-I, IŠ-A-TI and JIŠʿ-AT-IJA, IŠ-ḪA-TI-IA (Gelb 1980, nos. 3764, 3787), as on JA-DU-RA-TI. One attestation.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ KN 1a: JA-KU-TI E 240; the verso has JA-DU-RA-TI E 105 in the same layout (SigLA
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0638_deep_valley
 title: "*ʿVmVq-: 'deep', 'valley'"
-desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 19 language(s)."
+desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0638"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | āmūḳ (Rubin 2018 823) | Rubin 2018 823 | gloss withheld |
 | Akkadian | emēqu 'be(come) wise' | Anderson–Moser 2024 root ʿmq |  |
 | Arabic | ʕamuqa 'deep' (Lane 2157) | Lane 2157; Anderson–Moser 2024 root ʿmq |  |
 | Geez | ʿamaqa 'deep' (Dillmann 06941) | Dillmann 06941; Anderson–Moser 2024 root ʿmq |  |

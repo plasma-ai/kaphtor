@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | sōkina |
 | Meaning | prefect, administrator (heading of a wine issue); rivals mōgun- 'regalement, gift', Dagan |
 | Root | s-k-n |
+| Proto-Semitic | \*sākin- (#3842) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-ZA 15a .1 \*47-KU-NA SA-VIN, all four signs whole and undotted (GORILA III 183), heading a wine issue with libation portions (SI-PI-KI) and groats. With \*47 = so: sōkina 'prefect', the vowels of the Canaanite gloss su₂-ki-na (EA 362), with the ō of the Canaanite shift. Rivals: mōgun- 'regalement, gift' with \*47 = mo, /m-g-n/ 'to wine and dine, regale' (DULAT 525); Dagan with \*47 = do (DULAT 265). One witness.
+ZA 15a .1 \*47-KU-NA SA-VIN, all four signs whole and undotted (GORILA III 183), heading a wine issue with libation portions (SI-PI-KI) and groats. With \*47 = so: sōkina 'prefect', the vowels of the Canaanite gloss su₂-ki-na (EA 362), with the ō of the Canaanite shift. Rivals: mōgun- 'regalement, gift' with \*47 = mo, /m-g-n/ 'to wine and dine, regale' (DULAT 525); Dagan with \*47 = do (DULAT 265). One witness. See SI-KI-NE.
 
 ### Cognates
 

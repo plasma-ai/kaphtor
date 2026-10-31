@@ -34,37 +34,38 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tanʿamay |
 | Meaning | personal name, 'She is gracious' |
 | Root | n-ʿ-m |
+| Proto-Semitic | \*nʕm (#2611) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PE 6 .2 TA-NA-MA-JE, alone on the line below the ruling, under .1 I-NA-\[?\]-TE (Younger). ta-nʿam-ay: ta- the 3 f. sg. prefix of women's names such as Amorite TAB-NI-EŠ₄-DAR (Gelb no. 6055), √n-ʿ-m with the ʿ unwritten, -ay the hypocoristic of Ugaritic nʿmy, nu-ú-ma-ya (DULAT 607). One witness.
+PE 6 .2 TA-NA-MA-JE, alone on the line below the ruling, under .1 I-NA-\[?\]-TE (Younger). ta-nʿam-ay: ta- the 3 f. sg. prefix of women's names such as Amorite TAB-NI-EŠ₄-DAR (Gelb no. 6055), √n-ʿ-m with the ʿ unwritten, -ay the hypocoristic of Ugaritic nʿmy, nu-ú-ma-ya (DULAT 607). Rival: Ugaritic tnmy 'overflow (?)', an exact consonant match, once, in a broken line (KTU 1.1 IV 9; DULAT 860). One witness. See TA-NU-MU-TI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*nʕm 'to be good' (semitic_roots no. 2611) |
-| Amorite | NAʿM-IJA, NA-MI-IA, fem. (Gelb 1980 no. 5001); 3 f. sg. ta- in TA-BNIJ+ʿAŠTAR, TAB-NI-EŠ₄-DAR, fem. (no. 6055) |
+| Amorite | NAʿM-IJA, NA-MI-IA, fem. (Gelb 1980 no. 5001); NAʿM-IJA, NA-AḪ-MI-IA, with ḫ for ʿ (no. 4896); 3 f. sg. ta- in TA-BNIJ+ʿAŠTAR, TAB-NI-EŠ₄-DAR, fem. (no. 6055) |
 | Ugaritic | nʿmy, syll. nu-ú-ma-ya, PN (DULAT 607) |
+| Eblaite | na-mi, naʿm-ī 'my grace', PN (Pagan 1998, rows 3821–3822) |
 
 ### Source
 
-di Mino; Gelb 1980; DULAT
+di Mino; Gelb 1980; DULAT; Pagan 1998
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PE/PE6\|PE6]] | Petras | Tablet | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/PE/PE/PE6\|PE6]] | Petras | Tablet | complete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PE/PE6\|PE6]] | Tanʿamay | personal name (dedicant), 'She is gracious' | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/PE/PE/PE6\|PE6]] | Tanʿamay | personal name, 'She is gracious' | SPECULATIVE |
 
 ## Onomasticon
 

@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | rittu OB on \[AHw 990\] | AHw 990 | gloss withheld |
 | Harsusi | ǝrḥāt, rīḥet \[JH 107\] | JH 107 | gloss withheld |
 | Tigre | räḥat \[LH 147\]. | LH 147 | gloss withheld |
-| Eblaitic | ra/la-ʔà-tum /raḥ(a)tum/ \[Kr 19; Bl E No. 83\] | Kr 19 |  |
+| Eblaitic | ra/la-ʔà-tum /raḥ(a)tum/ \[Kr 19; Bl E No. 83\]; ra-ʾà-⸢tum⸣ (= Sum. šu-sal, VE 517, source D) (Fronzaroli 1995, 60 n. 60) | Kr 19; VE 517; Fronzaroli 1995, 60 n. 60 | gloss withheld |
 | Ugaritic | rḥt \[Aist 290\] | Aist 290 |  |
 | Geez | ʔǝrāḥ \[LGz 38\] | LGz 38 | gloss withheld |
 | Jibbali | irɔ́ḥɔ́t \[JJ 218\] | JJ 218 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-27T15:14:18Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/N
@@ -25,7 +25,7 @@ updated: 2026-10-27T15:14:18Z
 
 [[wiki/linear-a/words/N/NA_q_DA_DA|NA_q_DA_DA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_star21F_NE_MI_NA|NA_star21F_NE_MI_NA]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/N/NA_star21F_NE_MI_NA|NA_star21F_NE_MI_NA]]: naḫnemina: nẖnm-oil, one of the seven sacred oils (Egyptian loanword); rival personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_star21F_NE_broken_end|NA_star21F_NE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -63,6 +63,6 @@ updated: 2026-10-27T15:14:18Z
 
 [[wiki/linear-a/words/N/NU_TI|NU_TI]]: nuti: the given ones, a personnel class (√n-t-n), heading before men; rival Egyptian nʾ.tjw 'townsmen'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/N/NU_WI|NU_WI]]: nōwē / nwē: (man) of the encampment, herdsman?—qualifier after a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NU_WI|NU_WI]]: nōwē / nwē: steppe-dweller, (man) of the encampment—qualifier after a personal name. Lexicon, SPECULATIVE (tier 1).
 
 ***

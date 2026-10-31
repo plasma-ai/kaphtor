@@ -35,10 +35,10 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | špl (DULAT 823) | DULAT 823 | gloss withheld |
 | Akkadian | šapālu(m) (HALOT 1631); šaplu(m) (HALOT 1632) | HALOT 1631; HALOT 1632 | gloss withheld |
 | Arabic | safala, safila (HALOT 1631); suflī (HALOT 1632) | HALOT 1631; HALOT 1632 | gloss withheld |
-| Epigraphic South Arabian | Sab s1fl (HALOT 1631; Sabaweb lemmas 1708, 4995) | HALOT 1631; Sabaweb lemmas 1708, 4995 | gloss withheld |
+| Epigraphic South Arabian | Sab s1fl (HALOT 1631; Sabaweb lemmas 1708, 4995); Qat. s1flm (Ricks 1982 s.v. s1flm) | HALOT 1631; Sabaweb lemmas 1708, 4995; Ricks 1982 s.v. s1flm | gloss withheld |
 | Tigre | (?) šaffala, mašfāl (HALOT 1631) | HALOT 1631 | gloss withheld |
 | Biblical Aramaic | šəpal (HALOT 1632) | HALOT 1632 | gloss withheld |
-| Eblaitic | si-bí-lum /šiplum/ (VE 781, Kogan–Krebernik 2021b: 681 apud SEDonline 160) | VE 781, Kogan–Krebernik 2021b: 681; SEDonline 160 | gloss withheld |
+| Eblaitic | si-bí-lum /šiplum/ (VE 781, Kogan–Krebernik 2021b: 681 apud SEDonline 160), /Sipl/ (Sanmartín GlOS 2, 258) | VE 781, Kogan–Krebernik 2021b: 681; SEDonline 160; Sanmartín GlOS 2, 258 | gloss withheld |
 | Amorite | Sapl (Sanmartín GlOS 2, 258) | Sanmartín GlOS 2, 258 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

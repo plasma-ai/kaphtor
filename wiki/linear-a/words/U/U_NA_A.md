@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | wannā(h) / winnā(h) |
 | Meaning | and here, hither |
 | Root | w- + h-n |
+| Proto-Semitic | \*hn (#3472) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | particle |
 
 ### Note
 
-KN Zb 40 .2, under A-PA-KI. U-NA- as in U-NA-KA-NA-SI and U-NA-RU-KA-NA-TI, w- + hn (di Mino, Ya Diktu); final A = -ā(h), as Hebrew hēnnâ 'here, hither' (Gen 45:8), Ugaritic hnh 'hither?' (Tropper §81.11a). Rival: hunāha without the conjunction.
+KN Zb 40 .2, under A-PA-KI. U-NA- as in U-NA-KA-NA-SI and U-NA-RU-KA-NA-TI, w- + hn (di Mino, Ya Diktu); final A = -ā(h), as Hebrew hēnnâ 'here, hither' (Gen 45:8), Ugaritic hnh 'hither?' (Tropper §81.11a). Rival: hunāha without the conjunction. See U-NA.
 
 ### Cognates
 
@@ -48,11 +49,12 @@ KN Zb 40 .2, under A-PA-KI. U-NA- as in U-NA-KA-NA-SI and U-NA-RU-KA-NA-TI, w- +
 |---|---|
 | Ugaritic | hnh 'hither?' (reading uncertain; possibly hn + terminative -h), beside hnn 'here' (Tropper §81.11a-b) |
 | Hebrew | hēnnâ 'here, hither' (Gen 45:8) |
+| Eblaite | ʔà-na, an-na hanna 'here'; ʔà-na-sa hanna-iš-am 'hither' (GlOS 1, 218) |
 | Arabic | hunā 'here' |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

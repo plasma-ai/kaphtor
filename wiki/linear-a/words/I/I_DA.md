@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾIda |
 | Meaning | Ida, 'the Hand' (sacred mountain—toponym/theonym) |
 | Root | y-d |
+| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Attested as a complete sign group on ritual stone vessels across 3 sites (Nerokurou, Palaikastro, Zakros); in PKZa18 it alone is bounded by dividers between the broken groups \]-TE and JA-JA-\[…. Distribution + dedicatory genre fit a sacred-mountain name (cf. Mt. Ida / Idaean cave). I-DA-MA-TE (ARZf1–2) is prothetic ʾi- + DA-MA-TE 'the tower' (√d-m-t), not an Ida compound, and lends no support here. The toponym class is behavior-supported; the specific Ida identification is the speculative element. \|\| PH6 (MM IIB, Phaistos): earliest attestation, within the fused prepositional phrase I-DA-PA₃-I-SA-RI = ʾIdā bi-ʾišarī—Phaistos lies directly under the mountain. \|\| ROOT: Ida = 'the Hand', PS \*yad- ~ \*ʾid- (semitic_roots 2046); Linear A writes the \*ʾid- variant, with the initial i of Akkadian idu, Soqotri ʔed, Tigre ʔǝde. Per the Ya Diktu grammar's footnote (Chantraine, DELG s.v. Ἴδη, calls Ἴδη pre-Hellenic): the Idaean Daktyls, 'fingers', are the Greek doublet—'fingers of the hand' (Pollux, Onom. 2.156)—and the gentilic JE-DI yedī 'the Idaean' (HT8a, HT36, HT122b, HT140) may corroborate.
+Attested as a complete sign group on ritual stone vessels across 3 sites (Nerokurou, Palaikastro, Zakros); in PKZa18 it alone is bounded by dividers between the broken groups \]-TE and JA-JA-\[…. Distribution + dedicatory genre fit a sacred-mountain name (cf. Mt. Ida / Idaean cave). I-DA-MA-TE (ARZf1–2) is prothetic ʾi- + DA-MA-TE 'the tower' (√d-m-t), not an Ida compound, and lends no support here. The toponym class is behavior-supported; the specific Ida identification is the speculative element. \|\| PH6 (MM IIB, Phaistos): earliest attestation, within the fused prepositional phrase I-DA-PA₃-I-SA-RI = ʾIdā bi-ʾišarī—Phaistos lies directly under the mountain. \|\| ROOT: Ida = 'the Hand'; Linear A writes the \*ʾid- variant, with the initial i of Eblaite i-da 'hand' (GlOS 2, 371), Akkadian idu, Soqotri ʔed, Tigre ʔǝde. Per the Ya Diktu grammar's footnote (Chantraine, DELG s.v. Ἴδη, calls Ἴδη pre-Hellenic): the Idaean Daktyls, 'fingers', are the Greek doublet—'fingers of the hand' (Pollux, Onom. 2.156)—and the gentilic JE-DI yedī 'the Idaean' (HT8a, HT36, HT122b, HT140) may corroborate.
 
 ### Cognates
 
@@ -53,7 +54,7 @@ Attested as a complete sign group on ritual stone vessels across 3 sites (Neroku
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

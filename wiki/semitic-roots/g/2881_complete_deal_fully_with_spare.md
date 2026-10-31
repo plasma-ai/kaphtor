@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | gml 'repay' (Aramaic Root Atlas 0269) | Aramaic Root Atlas 0269 |  |
 | Akkadian | gamālu (CAD G 21) | CAD G 21 | gloss withheld |
 | Amorite | gml: gamil?, guml, gamilum, gamlum (Gelb AS 21, 19); g-m-l: ì-lí-gu-um-li-ia, ᵈiš-ḫa-ra-gu-um-li (Sanmartín GlOS 1, 181) | Gelb AS 21 19; Sanmartín GlOS 1, 181 | gloss withheld |
-| Eblaitic | ga-ma-lum, ga-ma-lu-um /g-m-l/ (Sanmartín GlOS 1, 181) | Sanmartín GlOS 1, 181 | gloss withheld |
+| Eblaitic | ga-ma-lu-um /gamālum/ (VE 236; Krebernik 1983, 11); ga-ma-lum, ga-ma-lu-um /g-m-l/ (Sanmartín GlOS 1, 181) | VE 236; Krebernik 1983, 11; Sanmartín GlOS 1, 181 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

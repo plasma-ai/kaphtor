@@ -35,12 +35,12 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | mt (T 204) | T 204 | gloss withheld |
 | Hebrew | māwet (HALOT 563) | HALOT 563 | gloss withheld |
 | Greek | Μουθ (OLA80 §21.9,13) | OLA80 §21.9,13 | gloss withheld |
-| Epigraphic South Arabian | Sab mwt (SD 89; Biella 269, 270; Sabaweb lemma 2828) | SD 89; Biella 269, 270; Sabaweb lemma 2828 | gloss withheld |
+| Epigraphic South Arabian | Sab mwt (SD 89; Biella 269, 270; Sabaweb lemma 2828); Qat. mwt (Ricks 1982 s.v. mwt) | SD 89; Biella 269, 270; Sabaweb lemma 2828; Ricks 1982 s.v. mwt | gloss withheld |
 | Geez | māwtā (LGz. 376) | LGz. 376 | gloss withheld |
 | Syrian Aramaic | mīt 'dead' (Payne Smith 269) | Payne Smith 269 |  |
 | Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |
 | Amorite | yamūt (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
-| Eblaitic | ma-tim /mawt, mōt/ (Sanmartín GlOS 2, 63) | Sanmartín GlOS 2, 63 | gloss withheld |
+| Eblaitic | ma-tim /mawt, mōt/ (Sanmartín GlOS 2, 63); é ma-tim /bayt mawtim/ (Fronzaroli 1995, 53) | Sanmartín GlOS 2, 63; Fronzaroli 1995, 53 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

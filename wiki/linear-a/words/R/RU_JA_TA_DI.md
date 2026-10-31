@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ruya-dādī |
 | Meaning | personal name, Ruya + dādī 'my beloved'; Ruya alone on KN Wc 26 |
 | Root | d-w-d |
+| Proto-Semitic | \*dawid- (#19) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ HT Wc 3008 face b, four signs whole with no divider, opposite WA · DI-NI (GORIL
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*dawid- 'uncle; beloved' (semitic_roots no. 19) |
 | Ugaritic | ddy PN, syll. ta-di-e (DULAT 264); dd (I) 'loved one', 'the element /dādu/ in PNN' (DULAT 262); rwy PN, bn rwy, etym. unc. (DULAT 738) |
 | Amorite | AQ-BU-DA-DI ʿAqbu-Dādī (Gelb 1980 no. 884) |
 | Linear A | TA-DI dādī |

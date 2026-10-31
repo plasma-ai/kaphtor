@@ -33,13 +33,20 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | pudē |
 | Meaning | refined gold |
-| Root | p-d |
+| Root | p-ḏ |
 | Category | vocabulary |
 | Semantic field | material |
 
 ### Note
 
-Ugaritic pd 'refined gold' (Baal Cycle, Kothar workshop passages). Context: KH88 acquisitions ledger headed QA-NU-MA, listing \*21F-\*118 = ḫaṭṭu 'scepter' and NI figs 10 before PU-DE 8. Sole attestation. \|\| Against a higher tier: the precious-goods framing needs NI = honey, but NI is figs; the etymology stands.
+Ugaritic pḏ 'gold' (DULAT 654), Hebrew paz 'pure gold' (HALOT 921), with DE for ḏ. Context: KH88 acquisitions ledger headed QA-NU-MA, listing \*21F-\*118 = ḫaṭṭu 'scepter' and NI figs 10 before PU-DE 8. Sole attestation. \|\| Against a higher tier: the precious-goods framing needs NI = honey, but NI is figs; the etymology stands.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | pḏ 'gold' (DULAT 654) |
+| Hebrew | paz 'pure gold' (HALOT 921) |
 
 ### Source
 

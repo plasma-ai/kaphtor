@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yapʾara yāṣē |
 | Meaning | may that which goes out glorify—volitive yaqtula √p-ʾ-r + √y-ṣ-ʾ participle/imperfect (the outpoured libation as subject) |
 | Root | p-ʾ-r + y-ṣ-ʾ |
+| Proto-Semitic | \*pVʔVr- (#2964) + \*wVṣ̂Vʾ- (#K0448) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | verbal |

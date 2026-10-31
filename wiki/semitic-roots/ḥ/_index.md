@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḥ
 desc: "Semitic roots whose first radical is ḥ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T00:24:55Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ḥ
@@ -25,7 +25,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ḥ/1098_sharp|1098_sharp]]: Proto-Semitic *ḥaḏim-, 'sharp': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḥ/1107_forge_sharpen|1107_forge_sharpen]]: Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 4 language(s).
+[[wiki/semitic-roots/ḥ/1107_forge_sharpen|1107_forge_sharpen]]: Proto-Semitic *ḥVdVd-, 'forge, sharpen': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ḥ/1139_rise_of_water|1139_rise_of_water]]: Proto-Semitic *ḥVpil-, 'rise (of water)': reflexes in 1 language(s).
 
@@ -35,7 +35,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ḥ/1180_number|1180_number]]: Proto-Semitic *ḥaṣy-, 'number': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḥ/1191_carry_a_load|1191_carry_a_load]]: Proto-Semitic *ḥVmil-, 'carry (a load)': reflexes in 1 language(s).
+[[wiki/semitic-roots/ḥ/1191_carry_a_load|1191_carry_a_load]]: Proto-Semitic *ḥVmil-, 'carry (a load)': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḥ/1193_load_v|1193_load_v]]: Proto-Semitic *ḥVdig-, 'load (v.)': reflexes in 1 language(s).
 
@@ -171,7 +171,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ḥ/2482_be_black_and_white|2482_be_black_and_white]]: Proto-Semitic *ḥwr, 'be black and white': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/ḥ/2484_burn|2484_burn]]: Proto-Semitic *ḥrḳ, 'burn': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḥ/2484_burn|2484_burn]]: Proto-Semitic *ḥrḳ, 'burn': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḥ/2518_new|2518_new]]: Proto-Semitic *ḥad(i)ṯ-, 'new': reflexes in 28 language(s).
 
@@ -231,7 +231,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ḥ/3011_hold_back_withhold|3011_hold_back_withhold]]: Proto-Semitic *ḥVśVk-, 'hold back, withhold': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ḥ/3048_be_cautious_beware_fear|3048_be_cautious_beware_fear]]: Proto-Semitic *ḥḏr, 'be cautious, beware, fear': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḥ/3048_be_cautious_beware_fear|3048_be_cautious_beware_fear]]: Proto-Semitic *ḥḏr, 'be cautious, beware, fear': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḥ/3049_edge_sharp_edge|3049_edge_sharp_edge]]: Proto-Semitic *ḥrp, 'edge, sharp edge': reflexes in 2 language(s).
 
@@ -295,6 +295,8 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ḥ/3734_ornament_jewellery_to_adorn|3734_ornament_jewellery_to_adorn]]: Proto-Semitic *ḥly, 'ornament, jewellery; to adorn': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/ḥ/3826_surround_enclose_cover_1_canopy_bridal_chamber_2|3826_surround_enclose_cover_1_canopy_bridal_chamber_2]]: Proto-Semitic *ḥpp, 'surround, enclose, cover' 1, 'canopy, bridal chamber' 2: reflexes in 5 language(s).
+
 [[wiki/semitic-roots/ḥ/385_sabre|385_sabre]]: Proto-Semitic *ḥušām-, 'sabre': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ḥ/403_rope|403_rope]]: Proto-Semitic *ḥabl-, 'rope': reflexes in 11 language(s).
@@ -303,7 +305,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/ḥ/412_knot_v|412_knot_v]]: Proto-Semitic *ḥVyVd-, 'knot' (v.): reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḥ/413_tie|413_tie]]: Proto-Semitic *ḥVbVŝₓ, 'tie': reflexes in 6 language(s).
+[[wiki/semitic-roots/ḥ/413_tie|413_tie]]: Proto-Semitic *ḥVbVŝₓ, 'tie': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ḥ/415_untie|415_untie]]: Proto-Semitic *ḥul-, 'untie': reflexes in 1 language(s).
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | littu (lītu), pl. liātu, lâtu (SED II 191) | SED II 191 | gloss withheld |
-| Eblaitic | lí-a-núm, lí-a-nu-um = Sum. ALIM; lí-a-tum = Sum. ALIM.SAL, /liʔattum/ or /liʔatum/ (SED II 191; VE 713, 732; Civil 2017, 124–125); lí-a-núm, lí-a-nu-um /liʾyan/ (Sanmartín GlOS 2, 7) | SED II 191; VE 713, 732; Civil 2017, 124–125; Sanmartín GlOS 2, 7 | gloss withheld |
+| Eblaitic | lí-a-núm, lí-a-nu-um = Sum. ALIM; lí-a-tum = Sum. ALIM.SAL, /liʔattum/ or /liʔatum/ (SED II 191; VE 731, 732; Civil 2017, 124–125); lí-a-núm, lí-a-nu-um /liʾyan/ (Sanmartín GlOS 2, 7) | SED II 191; VE 731, 732; Civil 2017, 124–125; Sanmartín GlOS 2, 7 | gloss withheld |
 | Arabic | lāʔaⁿ, laʔāt- (SED II 191) | SED II 191 |  |
 | Mehri | ləháytən (SED II 191) | SED II 191 |  |
 | Harsusi | ləhētəh (SED II 191) | SED II 191 |  |
@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-SED II No. 142, which files the Modern South Arabian forms with h here.
+SED II No. 142, which files the Modern South Arabian forms with h here. Hajouz 2013, 389 reads VE 731 lí-a-núm as /liʾānum/ and VE 732 lí-a-tum as /liʾayatum/, where Sanmartín GlOS 2, 7 has /liʾyan/ and SED II 191 /liʔattum/ or /liʔatum/.
 
 <!-- END kaphtor:record -->

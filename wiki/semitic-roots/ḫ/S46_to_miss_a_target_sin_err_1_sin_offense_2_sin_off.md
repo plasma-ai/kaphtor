@@ -32,7 +32,7 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | ḫaṭû (CAD Ḫ 156); ḫiṭītu; ḫaṭṭiʾu 4 (CAD Ḫ 153); ḫāṭû 4 (CAD Ḫ 159) | CAD Ḫ 156; CAD Ḫ 153; CAD Ḫ 159 | gloss withheld |
 | Ugaritic | ḫṭʾ (DULAT 410); ḫṭʾt (KTU 1.40:18); ḫṭʾ in ritual atonement texts | DULAT 410; KTU 1.40:18 | gloss withheld |
 | Hebrew | ḥāṭāʾ; ḥēṭʾ; ḥaṭṭāʾt; ḥaṭṭāʾ 4 (HALOT 306) | HALOT 306 | gloss withheld |
-| Epigraphic South Arabian | Sab ḫṭʾ (SD 63; Sabaweb lemma 1676) | SD 63; Sabaweb lemma 1676 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫṭʾ (SD 63; Sabaweb lemma 1676); Qat. ḫṭʔtn 2 (Ricks 1982 s.v. ḫṭʔtn) | SD 63; Sabaweb lemma 1676; Ricks 1982 s.v. ḫṭʔtn | gloss withheld |
 | Geez | ḫaṭʾa (HALOT 305) | HALOT 305 | gloss withheld |
 | Soqotri | ḥaṭaʾ (LGz. 268) | LGz. 268 | gloss withheld |
 | Aramaic | ḥăṭā(ʾ), ḥăṭī (LGz. 268) | LGz. 268 |  |

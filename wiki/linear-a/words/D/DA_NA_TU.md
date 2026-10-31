@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dānatu |
 | Meaning | personal name (f.), 'she who judges' |
 | Root | d-y-n |
+| Proto-Semitic | \*dyn- (#S36) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine participle dānat- + -u, √d-y-n 'to judge'; cf. Ug. dnty, Danel's wife (KTU 1.17 V 16), Heb. Dînāh, and DI-NA-U. Weak point: -t may make an abstract 'judgment' as well as a feminine. Rival: dannatu 'hardship; fortress' (CAD D 87), a heading. One attestation.
+ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine participle dānat- + -u, √d-y-n 'to judge'; cf. Ug. dnty, Danel's wife (KTU 1.17 V 16), Heb. Dînāh, and DI-NA-U. Da-na-tum is an early Old Babylonian personal name (ORACC epsd2, P448453, P454854). Weak point: -t may make an abstract 'judgment' as well as a feminine. Rival: dannatu 'hardship; fortress' (CAD D 87), a heading. One attestation. See DI-NA-RO.
 
 ### Cognates
 
@@ -51,7 +52,7 @@ ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine partic
 
 ### Source
 
-di Mino
+di Mino; ORACC epsd2
 
 ## Attestations
 

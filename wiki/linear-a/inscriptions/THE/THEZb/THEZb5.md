@@ -31,9 +31,9 @@ updated: 2026-10-24T16:17:50Z
 | Support | Clay vessel |
 | Period |  |
 | Scribe |  |
-| Edition | GORILA 4 |
+| Edition | post_gorila_publication |
 | Series | THEZb |
-| Images |  |
+| Images | Michailidou |
 
 ## Text
 
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐘧
 ```
+
+## Corpus note
+
+Jug, Akrotiri (inv. 1110). Isolated sign incised before firing: A 318 in Michailidou (Minos 35-36, pl. IIB), JE in Younger (his THE Zb 6). Not an inscription; outside GORILA and RILA-S1. The old THE Zb 5 is the ostrakon THEZg5.
 
 <!-- END kaphtor:record -->

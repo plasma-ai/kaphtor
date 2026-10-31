@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2313_bread_corn_food
 title: "*ʕayŝₓ-: 'bread, corn food'"
-desc: "Proto-Semitic *ʕayŝₓ-, 'bread, corn food': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕayŝₓ-, 'bread, corn food': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2313"
@@ -30,6 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ʕayš, Yemeni | Tāj 17:283 | gloss withheld |
 | Tigre | ʕeš (LH 481), ʕayyäša (Ibid.) | LH 481 | gloss withheld |
 | Hebrew | pB. ʕīsā 'started dough, quantity of flour used for one person's meal' (Ja. 1072), ʕăsāsīt 'pounded wheat or peas' (Ibid. 1098) | Ja. 1072; Ja. 1098 |  |
 | Epigraphic South Arabian | Sab ʿys₂ (Biella 363) | Biella 363 | gloss withheld |

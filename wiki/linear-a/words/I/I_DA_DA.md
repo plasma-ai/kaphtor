@@ -34,26 +34,29 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dādā |
 | Meaning | O Beloved!—vocative of the reduplicative divine epithet (with i- prosthesis) |
 | Root | d-w-d |
+| Proto-Semitic | \*dawid- (#19) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
 
 ### Note
 
-CR Zg 4: I-DA-DA, with A-RO-TE on line 2. Cf. Ugaritic dd 'loved one', ydd 'beloved'; Amorite dad- 'favorite' (Huffmon 1965, 181). The IO Za 11 DA-DA parallel fails: IO Za 11 reads \]NA-\[·\]-DA-DA\[ as one broken group (Karetsou, Godart & Olivier, Kadmos 24, 1985, 142). Weak point: dād- has no initial cluster to call for a prosthetic I-. Rival: a personal name.
+CR Zg 4: I-DA-DA, with A-RO-TE on line 2. Cf. Ugaritic dd 'loved one', ydd 'beloved'; Amorite dad- 'favorite' (Huffmon 1965, 181). The IO Za 11 DA-DA parallel fails: IO Za 11 reads \]NA-\[·\]-DA-DA\[ as one broken group (Karetsou, Godart & Olivier, Kadmos 24, 1985, 142). Weak point: dād- has no initial cluster to call for a prosthetic I-. Rival: a personal name. See TA-DI and DU-DA-MA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*dad- 'beloved' |
 | Hebrew | dōd 'beloved' (Song of Songs) |
 | Ugaritic | dd 'love; loved one'; ydd /yadīdu/ 'beloved' (CUC) |
-| Amorite | dad- 'favorite' (Huffmon 1965, 181); dādum 'beloved' (Gelb 1980) |
+| Amorite | dad- 'favorite' (Huffmon 1965, 181); dādum 'beloved' (Gelb 1980); Alalakh DAWD-A, DA-DA (Gelb 1980, no. 1413) |
+| Eblaite | da-da dādā 'the beloved', a name (Pagan 1998, row 1396) |
+| Mari | Dâdâ, a name (ARM 26/1, 594) |
+| Akkadian (Ugarit) | Dadâ, a name (Kinlaw 1967, 47) |
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; Gelb 1980; ARM 26/1; Kinlaw 1967
 
 ## Attestations
 

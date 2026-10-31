@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qāniy-yammi |
 | Meaning | Creator of the Sea (El epithet) |
 | Root | q-n-y + y-m |
+| Proto-Semitic | \*qVnVy- (#K0304) + \*yamm- (#724) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |
@@ -50,7 +51,7 @@ CR(?)Zf1 (unprovenanced metal object), word 2 of 5. Masculine construct particip
 | Hebrew | קֹנֵה שָׁמַיִם וָאָרֶץ qōnēh šāmayim wāʾāreṣ (Gen 14:19)—epithet of El ʿElyon; also קֹנֵה qōnēh alone as divine title |
 | Phoenician | ʾl qn ʾrṣ 'El Creator of the Earth' (KAI 26 III 18, Karatepe bilingual) |
 | Amarna | EA 266:16—Canaanite vassal invokes qny in theophoric context |
-| Amorite | qanij(ān)um 'to create' (QNJ; Gelb 1980, glossary p. 29) |
+| Amorite | qanij(ān)um 'to create' (QNJ; Gelb 1980, glossary p. 29); names KA-NI-IA-NU qaniyānu (no. 3980), fem. QA-NI-A-TUM (no. 5196); jammum 'sea' in IA-AM-MU-U₂ (no. 2946) |
 
 ### Source
 

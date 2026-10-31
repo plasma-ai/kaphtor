@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿūlū |
 | Meaning | burnt offering |
 | Root | ʿ-l-h |
+| Proto-Semitic | \*ʕōl-at- (#2707) |
 | Language layer | NWS |
 | Semantic field | ritual |
 

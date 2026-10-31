@@ -46,19 +46,9 @@ Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted 
 
 | Language | Comparison |
 |---|---|
-| Anatolian/North Syrian | Kubaba, divine name; base of Kubānu |
+| Anatolian/North Syrian | Kubaba, divine name (Laroche 1980, 150; DULAT 419); base of Kubānu |
 | Amorite | Kubb-ān-um (Gelb, AS 21, no. 4148) |
 | Ugaritic | rival {m}gu-pa-na, personal name (RS 11.839 r.8); gpn/Gupan, messenger-deity |
-
-### Parallels
-
-| Tradition | Parallel |
-|---|---|
-| linear a | Shares KU-PA₃-N- with the independently attested Kubānatu. HT101.4 preserves the damaged entity heading KU-PA₃-\[…\] before OLE+U 2. KU-PA₃-\[NU\] is the strongest internal restoration, but the lost ending is not counted as an attestation. |
-| linear b | Mycenaean ku-pa-nu-we-to may be related to KU-PA₃-NU or KU-PA₃-NA-TU (Jiménez Delgado 2024, 439). |
-| amorite | Kubb-ān-um carries the short base with the same ending (Gelb, AS 21, no. 4148). |
-| ugaritic | Rival: syllabic {m}gu-pa-na is an attested personal name at Ugarit (RS 11.839 r.8; ORACC P503288); alphabetic gpn, Gupan, is one of Baal's messenger-deities (KTU 1.3 III:36, VI:6). The comparison depends on the value of PA₃. |
-| gordon | Gordon compared Ugaritic Gupanu, now the rival. |
 
 ### Source
 

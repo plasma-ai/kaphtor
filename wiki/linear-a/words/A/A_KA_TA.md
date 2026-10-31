@@ -46,11 +46,12 @@ KN 32a .2 A-KA-TA, whole at the left edge, broken after (GORILA I 264–65). Sig
 | Language | Comparison |
 |---|---|
 | Amorite | ʾAKK-AT-UM, A-KA-TUM (Gelb 1980 no. 329); fem. ʾAKK-AT-IJA (nos. 327–28); ʾAKK-ATAN-UM, A-KA-TA-A-NU-UM (no. 326) |
+| Mari | a-ka-tum, a woman musician (FM IV, 261) |
 | Linear B | a-ka-ta-jo, a man's name (PY Eo 269, KN Dv 1331; DMic I 34) |
 
 ### Source
 
-di Mino; Gelb 1980; DMic
+di Mino; Gelb 1980; FM IV; DMic
 
 ## Attestations
 

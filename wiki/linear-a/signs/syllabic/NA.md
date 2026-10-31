@@ -48,9 +48,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]] | ʾakmina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | CANDIDATE |
-| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | ʿAnānu | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | Ḥanānu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-rāpiʾ-rinnā | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-āna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_NA\|A-TA-NA]] | ʾAtanat | PROBABLE |
 | [[wiki/linear-a/words/A/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | CANDIDATE |
@@ -86,6 +86,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_KI_SE_NA\|MI-KI-SE-NA]] | miksēna | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA\|NA]] | nā | CANDIDATE |
+| [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] | naḫnemina | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_DA_RE\|NA-DA-RE]] | Nadr | PROBABLE |
 | [[wiki/linear-a/words/N/NA_SI\|NA-SI]] | nasīʾ | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān / nātānān | PROBABLE |
@@ -93,6 +94,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | PROBABLE |
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | \[…\]-pi-minate | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_NA_TU_SU\|RA-NA-TU-SU]] | Rannatušu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |

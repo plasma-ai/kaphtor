@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Rannatušu |
 | Meaning | personal name, 'his shout of joy'; rival two names, RA-NA and TU-SU |
 | Root | r-n-n |
+| Proto-Semitic | \*rVnVn- (#K0351) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PK 1 .6 RA-NA-TU-SU 1, one word, written with its 1 and the next NI over an erasure, in a roster of names each counted 1 (GORILA I 281). rannat-u-šu: the verbal noun rannat- of √r-n-n 'cry out' (semitic_roots K0351), nominative -u, and -šu 'his', as in JA-DA-SU yadaʿšu; the geminate is unwritten. Arabic rannah keeps the a of RA; Hebrew rinnāh takes the same suffixes (rinnātî 'my cry', Ps 17:1). Akkadian DINGIR-tušu and Bānītušu join a -t- noun to -šu the same way (ORACC). Weak point: no West Semitic name ends in -šu. Rivals: two names, RA-NA and TU-SU (TU-SU stands alone on .6–7); Egyptian rnn 'jubeln' (DULAT 731), which leaves -TU-SU unread. One witness.
+PK 1 .6 RA-NA-TU-SU 1, one word, written with its 1 and the next NI over an erasure, in a roster of names each counted 1 (GORILA I 281). rannat-u-šu: the verbal noun rannat- of √r-n-n 'cry out', nominative -u, and -šu 'his', as in JA-DA-SU yadaʿšu; the geminate is unwritten. Arabic rannah keeps the a of RA; Hebrew rinnāh takes the same suffixes (rinnātî 'my cry', Ps 17:1). Akkadian DINGIR-tušu and Bānītušu join a -t- noun to -šu the same way (ORACC). Weak point: no West Semitic name ends in -šu. Rivals: two names, RA-NA and TU-SU (TU-SU stands alone on .6–7); Egyptian rnn 'jubeln' (DULAT 731), which leaves -TU-SU unread. One witness. See A-RE-PI-RE-NA.
 
 ### Cognates
 

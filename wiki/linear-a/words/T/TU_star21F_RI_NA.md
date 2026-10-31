@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṭuhārī-nā |
 | Meaning | our purification (genitive + 1cp -nā) |
 | Root | ṭ-h-r |
+| Proto-Semitic | \*ṭahar- (#2660) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
 
 ### Note
 
-The main support for \*21F = /ha/, a speculative value. √ṭ-h-r 'to be clean, purify'—pan-Semitic: Ugaritic ṭhr 'pure' (DULAT 875), Hebrew ṭāhēr 'to be clean, pure' (HALOT 369), Arabic ṭahura, Aramaic ṭǝhar. Central to temple/ritual vocabulary across all Semitic traditions. TU writes /ṭu/ (T/Ṭ not distinguished in Linear A). -NA is the 1cp possessive -nā after the genitive -i, since Linear A has no definite article; cf. lə-ṭohŏrātô 'for his purification' (Lev 14:23). Rival: emphatic enclitic =na (Tropper 2000, §89). \|\| Huehnergard: Ug ṭhr /ṭuhūru/ &lt; \*ṭahūru "pure"; II-guttural adjective. qutūl &lt; qatūl pattern (vowel raising before guttural). BH cognate: ṭāhōr "pure, clean" (Huehnergard 2012, p. 42). In context, grain 40½ and three oils (OLE+DI 1, OLE+KI 6, OLE\[) stand under the heading on HT129: the offering of Hebrew ṭohŏrâ, where on 'the day of his purification' (bəyôm ṭohŏrātô, Lev 14:2) the man brings fine flour mixed with oil and a log of oil (Lev 14:10, 21) 'for his purification' (lə-ṭohŏrātô, Lev 14:23). TU- fits the u of Ug. /ṭuhūru/ and Heb. ṭohŏrâ. Ugaritic ṭhrm 'pure' occurs in KTU 1.4, 1.24, 2.39.
+The main support for \*21F = /ha/, a speculative value. √ṭ-h-r 'to be clean, purify'—pan-Semitic: Ugaritic ṭhr 'pure' (DULAT 875), Hebrew ṭāhēr 'to be clean, pure' (HALOT 369), Arabic ṭahura, Aramaic ṭǝhar. Central to temple/ritual vocabulary across all Semitic traditions. TU writes /ṭu/ (T/Ṭ not distinguished in Linear A). -NA is the 1cp possessive -nā after the genitive -i, since Linear A has no definite article; cf. lə-ṭohŏrātô 'for his purification' (Lev 14:23). Rival: emphatic enclitic =na (Tropper 2000, §89). \|\| Huehnergard: Ug ṭhr /ṭuhūru/ &lt; \*ṭahūru "pure"; II-guttural adjective. qutūl &lt; qatūl pattern (vowel raising before guttural). BH cognate: ṭāhōr "pure, clean" (Huehnergard 2012, p. 42). In context, grain 40½ and three oils (OLE+DI 1, OLE+KI 6, OLE\[) stand under the heading on HT129: the offering of Hebrew ṭohŏrâ, where on 'the day of his purification' (bəyôm ṭohŏrātô, Lev 14:2) the man brings fine flour mixed with oil and a log of oil (Lev 14:10, 21) 'for his purification' (lə-ṭohŏrātô, Lev 14:23). TU- fits the u of Ug. /ṭuhūru/ and Heb. ṭohŏrâ. Ugaritic ṭhrm 'pure' occurs in KTU 1.4, 1.24, 2.39. See OLE+TU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | ṭohŏrâ 'cleanness, purification', dəmê ṭohŏrâ 'blood of purification', Lev 12:4 (HALOT 370); ṭōhar 'purity' (HALOT 370) |
+| Ugaritic | ṭhr 'pure, sparkling' (DULAT 875) |
+| Phoenician | ṭhr 'pure' (Krahmalkov 201) |
+| Arabic | ṭahura 'he became pure'; ṭuhr 'pureness' (Lane 1886–1887) |
 
 ### Source
 

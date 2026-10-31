@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dīnāyu |
 | Meaning | personal name: hypocoristic of a √d-y-n name ('Judge') |
 | Root | d-y-n |
+| Proto-Semitic | \*dyn- (#S36) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-6 attestations across Haghia Triada and Knossos. Not 'our judge': 1cp is -nā/-nū (Fischer 2002, §268; Heb. -nû), and no Semitic 1cp is -āʾu. -U after NA writes the hypocoristic -āyu/-āʾu (Amorite -ay-um: ʾAhlul-ay-um, Gelb 1980, no. 690; cf. Diyn-i-Baddu, no. 1512). Appears in personnel lists (HT25a: names × 1, appears twice on same tablet) and commodity allocations (HT9a: VIN context, DI-NA-U 4; HT9b: AROM context, DI-NA-U 4; KNZb27: VIN 17). Cross-site distribution (HT + Knossos) confirms a stable common NWS name. Note: √ʾ-d-n 'lord' with laryngeal loss gives the same d-n skeleton (ʾadōnū 'our lord'), but the extra assumption makes it less parsimonious. AMORITE CORROBORATION: Huffmon APNM p. 182 glossary — DN dyn 'judge' (Common Semitic), an onomastic element at Mari: G imperfect Ya-di-nim (yaqtil class), precative La-di-nam, I-di-AN; Noth IPN 187-88, Stamm ANG parallels. The root is a productive name-former in the closest NWS onomasticon upstream of Linear A.
+6 attestations across Haghia Triada and Knossos. Not 'our judge': 1cp is -nā/-nū (Fischer 2002, §268; Heb. -nû), and no Semitic 1cp is -āʾu. -U after NA writes the hypocoristic -āyu/-āʾu (Amorite -ay-um: ʾAhlul-ay-um, Gelb 1980, no. 690; cf. Diyn-i-Baddu, no. 1512). Appears in personnel lists (HT25a: names × 1, appears twice on same tablet) and commodity allocations (HT9a: VIN context, DI-NA-U 4; HT9b: AROM context, DI-NA-U 4; KNZb27: VIN 17). Cross-site distribution (HT + Knossos) confirms a stable common NWS name. Note: √ʾ-d-n 'lord' with laryngeal loss gives the same d-n skeleton (ʾadōnū 'our lord'), but the extra assumption makes it less parsimonious. AMORITE CORROBORATION: Huffmon APNM p. 182 glossary — DN dyn 'judge' (Common Semitic), an onomastic element at Mari: G imperfect Ya-di-nim (yaqtil class), precative La-di-nam, I-di-AN; Noth IPN 187-88, Stamm ANG parallels. The root is a productive name-former in the closest NWS onomasticon upstream of Linear A. See DI-NE.
 
 ### Cognates
 

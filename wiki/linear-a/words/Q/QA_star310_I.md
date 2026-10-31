@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qaynī |
 | Meaning | smith or cultic administrator; occupational title |
 | Root | q-y-n |
+| Proto-Semitic | \*ḳVyVn- (#572) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | occupation |

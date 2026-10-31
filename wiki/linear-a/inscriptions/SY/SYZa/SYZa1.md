@@ -51,17 +51,17 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> I make myself a dwelling—Waters of Ida… \[broken\]
+> I make myself a dwelling—Ida herself! … \[broken\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾata-inawaya | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
-| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | Ida-mī | Waters of Ida | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | ʾIda=mi | Ida herself (emphatic enclitic -mi) | CANDIDATE | CANDIDATE (lexicon) |
 | JA\[ |  | broken (vocative particle?) |  |  |
 
 ### Notes
 
-Context: Peak sanctuary libation formula—Syme variant  MMIIIB date makes this among the earliest formula attestations. I-DA-MI in position 2 names Mount Ida, as JA-DI-KI-TU names Dikte at Iouktas and I-DA-A Ida at Kophinas; a personal name is the rival. The trailing JA- at the break hints at a continuation into the standard formula sequence.
+Context: Peak sanctuary libation formula—Syme variant  MMIIIB date makes this among the earliest formula attestations. I-DA-MI in position 2 names Mount Ida, with the emphatic enclitic -mi, as JA-DI-KI-TU names Dikte at Iouktas and I-DA-A Ida at Kophinas. The trailing JA- at the break hints at a continuation into the standard formula sequence.
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1978_hip_loin_flesh_of_the_back
 title: "*ma/utn-: 'hip, loin; flesh of the back'"
-desc: "Proto-Semitic *ma/utn-, 'hip, loin; flesh of the back': reflexes in 11 language(s)."
+desc: "Proto-Semitic *ma/utn-, 'hip, loin; flesh of the back': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1978"
@@ -34,7 +34,6 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | mōtǝn \[JM 273\] | JM 273 | gloss withheld |
 | Soqotri | móten \[LS 254\] | LS 254 | gloss withheld |
 | Harsusi | mōtǝn \[JH 91\] | JH 91 | gloss withheld |
-| Eblaitic | ma-da-nu /matnu(m)/ = SUM sa-šu \[Fr 172; Bl E No. 68\] | Fr 172 |  |
 | Mandaic Aramaic | matna, mitna \[DM 257, 271\] | DM 257, 271 | gloss withheld |
 | Ugaritic | mtn-m \[Aist 199\] | Aist 199 | gloss withheld |
 | Jibbali | mútun \[JJ 76\] | JJ 76 | gloss withheld |

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | gitta |
 | Meaning | farmstead, press-estate, an entry drawing grain; alternate spelling \*312-TA₂ |
 | Root | g-t |
+| Proto-Semitic | \*gint- (#3779) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |

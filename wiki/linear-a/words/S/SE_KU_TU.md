@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Šakūtu |
 | Meaning | personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent' |
 | Root | š-k-t |
+| Proto-Semitic | \*škt (#3250) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ HT 115a .3 SE-KU-TU ½, between NA-\*21F-NE-MI-NA 1 and PA-RA-NE 1, a recipient 
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*škt 'to be silent, quiet; to rest' (semitic_roots no. 3250) |
 | Akkadian | sakātu 'to be silent' (CAD S 74) |
 | Amorite | Ya-ās-qī-iṭ-AN, 'rest' in a name, where Huffmon allows skt 'be calm' (Huffmon, APNM 253) |
 | Eblaite | za-ku-tu /ḏakūtu/ 'innocent' (Pagan 1998, row 5026), rival, PS \*zVkVy- (no. K0462) |

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ha-kōhēn |
 | Meaning | the priest (proposed title after PI-TE-RI) |
 | Root | k-h-n |
+| Proto-Semitic | \*kVhVn- (#2381) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-Hapax on PK Za 11; damaged A-\[?\]-NE may recur in the corresponding slot on PK Za 12 but does not establish the restoration. Proposed as a singular title in apposition: PI-TE-RI A-KO-A-NE, 'Pitrī, the priest.' The root is secure (Ug. /kāhinu/, Heb. kōhēn; Phoenician khn), and Canaanite ha- is a Common Central Semitic article historically related to \*han. Exact vocalization and the underrepresentation of /h/ remain uncertain. It is not /ha-kōhānē/ 'O priests': Hebrew kōhănê is construct plural, Ugaritic plural is /kāhinūma/, and no direct vocative plural in -ē is attested. Rivals are a second personal name (Davis/Thomas), Akkadian/Nuzi Aḫūni 'our brother,' and Arabic ʾaḫawāni 'two brothers'; the latter two fit the signs poorly.
+Hapax on PK Za 11; damaged A-\[?\]-NE may recur in the corresponding slot on PK Za 12 but does not establish the restoration. Proposed as a singular title in apposition: PI-TE-RI A-KO-A-NE, 'Pitrī, the priest.' The root is secure (Ug. /kāhinu/, Heb. kōhēn; Phoenician khn), and Canaanite ha- is a Common Central Semitic article historically related to \*han. Exact vocalization and the underrepresentation of /h/ remain uncertain. It is not /ha-kōhānē/ 'O priests': Hebrew kōhănê is construct plural, Ugaritic plural is /kāhinūma/, and no direct vocative plural in -ē is attested. Rivals are a second personal name (Davis/Thomas), Akkadian/Nuzi Aḫūni 'our brother,' and Arabic ʾaḫawāni 'two brothers'; the latter two fit the signs poorly. See KI-NI-MA.
 
 ### Cognates
 
@@ -85,6 +86,6 @@ Candidate singular priestly title in apposition to PI-TE-RI. Root √k-h-n is se
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A-TA-I-\*301-WA-E]] ʾatainawē, [[wiki/linear-a/words/S/SA_SA_RA_ME|SA-SA-RA-ME]] yaššaram.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_SA_SA_RA_ME|A-SA-SA-RA-ME]] ʾaššaram, [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A-TA-I-\*301-WA-E]] ʾatainawē.
 
 <!-- END kaphtor:record -->

@@ -46,11 +46,12 @@ HT 116a: SI+SE GRA 16, OLE+KI 1, OLE+MI 6, OLIV 3, a recipient among KU-PA-JA, P
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | špš 'sun; Sun, DN' (DULAT 824) |
+| Ugaritic | špš 'sun; Sun, DN' (DULAT 824); špšyn Šapšiyanu, a name (Kinlaw 1967, 106) |
+| Alalakh | ša-ap-ša Šapša, a name (Buck 2018, 347) |
 
 ### Source
 
-di Mino
+di Mino; Kinlaw 1967; Buck 2018
 
 ## Attestations
 

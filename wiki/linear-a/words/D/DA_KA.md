@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dagu |
 | Meaning | fish |
 | Root | d-g |
+| Proto-Semitic | \*dāg- (#2464) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | animal |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 5× sole word on HT nodules = commodity label; Heb. דָּג, Ug. dg; g→KA standard voicing neutralization.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | dg (I) 'fish' (DULAT 264) |
+| Hebrew | dāg 'fish' (HALOT 213) |
 
 ### Source
 

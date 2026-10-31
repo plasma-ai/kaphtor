@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕby II (LGz. 55), ʔaɣbā; wʕb BK 2 1565 | LGz. 55; BK 2 1565 | gloss withheld |
+| Arabic | ʕby II (LGz. 55), ʔaɣbā | LGz. 55 | gloss withheld |
 | Akkadian | ebû (LGz. 55) | LGz. 55 | gloss withheld |
 | Tigre | ʕäbi |  | gloss withheld |
 | Mandaic Aramaic | aba |  | gloss withheld |

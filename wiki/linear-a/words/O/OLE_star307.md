@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | OLE-dubur |
 | Meaning | sanctuary oil |
 | Root | d-b-r |
+| Proto-Semitic | \*dVb(V)r- (#151) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Compound logogram: OLE + DUBUR. Oil for sanctuary use at Petras.
+Compound logogram: OLE + DUBUR. Oil for sanctuary use at Petras. See DU-PU₂-RE.
 
 ### Cognates
 

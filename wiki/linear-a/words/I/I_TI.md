@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾitti |
 | Meaning | with, at (comitative preposition); IOZa12 possibly ʔittī 'with me' |
 | Root | ʔ-t-t (&lt; \*ʔin-t-) |
+| Proto-Semitic | \*ʾVt- (#K0601) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | particle |

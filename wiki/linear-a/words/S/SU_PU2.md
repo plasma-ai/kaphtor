@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ṣubʾu |
 | Meaning | Ṣubʾu (personal name); rival ṣābu 'workers, troop' |
 | Root | ṣ-b-w |
+| Proto-Semitic | \*ṣbw (#3456) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 63 .1 SU-PU₂, whole and undotted, the third entry under \*305 · TE 1, after KA-TI 1, against the tablet's upper right corner; no numeral survives, and GORILA's normalized line brackets the end, SU-PU₂\[ (GORILA I 118–119). ṣu-bu, PU₂ for bu as in DU-PU₂-RE dubur, the final ʾu unwritten as in TA-PA tappāʾu: the Amorite name Ṣubʾu (Gelb 1980, AS 21, 652). Linear B su-po (KN Dc 5812) and su-pu-wo (KN C 912) are men's names at Knossos (DMic II 304). HT 8b .1 SU-PU₂ \*188 1 may be the same word before the logogram (SU-PU₂-\*188). Rival: ṣābu 'workers, troop' (semitic_roots no. 1333), a collective under the personnel sign \*305. One witness.
+HT 63 .1 SU-PU₂, whole and undotted, the third entry under \*305 · TE 1, after KA-TI 1, against the tablet's upper right corner; no numeral survives, and GORILA's normalized line brackets the end, SU-PU₂\[ (GORILA I 118–119). ṣu-bu, PU₂ for bu as in DU-PU₂-RE dubur, the final ʾu unwritten as in TA-PA tappāʾu: the Amorite name Ṣubʾu (Gelb 1980, AS 21, 652). Linear B su-po (KN Dc 5812) and su-pu-wo (KN C 912) are men's names at Knossos (DMic II 304). HT 8b .1 SU-PU₂ \*188 1 may be the same word before the logogram (SU-PU₂-\*188). Rival: ṣābu 'workers, troop' (#1333), a collective under the personnel sign \*305. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ṣbw 'to wish, desire' (semitic_roots no. 3456) |
 | Amorite | ṢUBUʾ-UM, ZU-BU-U₂-UM and ZU-BU-UM (Gelb 1980, AS 21, 652, nos. 6581–6582) |
 | Eblaite | zu-bu₃, zu-bu₁₆ (Pagan 1998, rows 5264–5265) |
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/1317_kind_of_clothes_1_wear_2
 title: "*kusī-t- ~ *kisū-t 1, *ksw 2: 'kind of clothes' 1, 'wear' 2"
-desc: "Proto-Semitic *kusī-t- ~ *kisū-t 1, *ksw 2, 'kind of clothes' 1, 'wear' 2: reflexes in 10 language(s)."
+desc: "Proto-Semitic *kusī-t- ~ *kisū-t 1, *ksw 2, 'kind of clothes' 1, 'wear' 2: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1317"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ksǝwēt 1 (Rubin 2018 86) | Rubin 2018 86 | gloss withheld |
 | Arabic | ksw (u) 2; kiswat 1 (HALOT 489); kisāʾ 1; kāsin 2 (Lane 3000) | HALOT 489; Lane 3000 | gloss withheld |
 | Akkadian | kusītu 1 (CAD K 585) | CAD K 585 | gloss withheld |
 | Ugaritic | ks-t 1 |  |  |

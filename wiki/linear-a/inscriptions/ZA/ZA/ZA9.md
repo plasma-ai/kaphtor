@@ -42,7 +42,7 @@ Transliteration, line by line:
 
 1. \]-NU-TI 𐄁
 2. ZA-\[
-3. RA QI+SI 5
+3. \]-RA QI+SI 5
 4. 𐝫
 5. \]RO-SI-RA QI+SI 4
 6. A-TA-NA-\[?\] QI+SI 2

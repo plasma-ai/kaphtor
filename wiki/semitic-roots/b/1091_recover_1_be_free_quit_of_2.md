@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/1091_recover_1_be_free_quit_of_2
 title: "*bVrVʾ-: 'recover' 1, 'be free, quit (of)' 2"
-desc: "Proto-Semitic *bVrVʾ-, 'recover' 1, 'be free, quit (of)' 2: reflexes in 7 language(s)."
+desc: "Proto-Semitic *bVrVʾ-, 'recover' 1, 'be free, quit (of)' 2: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1091"
@@ -30,6 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | bǝráy; abōri 2 (Rubin 2018 107, 130) | Rubin 2018 107, 130 | gloss withheld |
 | Arabic | brʔ \[-a-\] 'recover'; bariʾa mina l-maraḍi, baraʾa 'he became free from the disease, sickness, or malady; he became convalescent' 1 (Lane 178); bariʾa 'he was, or became, clear, or free, of a thing' 2 (Lane 178); barīʾ 'free' 2 (Lane 179) | Lane 178; Lane 179 |  |
 | Phoenician | brʔ (Krahmalkov 125) | Krahmalkov 125 | gloss withheld |
 | Hebrew | brʔ/y; \*bārūt (HALOT 154, 155); pB brʔ | HALOT 154, 155 | gloss withheld |

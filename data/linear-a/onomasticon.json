@@ -27,14 +27,14 @@
     "auto"
   ],
   "stats": {
-    "total": 338,
+    "total": 352,
     "by_type": {
-      "gentilic": 11,
-      "personal_name": 236,
-      "theonym": 30,
-      "title": 37,
-      "toponym": 21,
-      "toponym_gentilic": 3
+      "gentilic": 12,
+      "personal_name": 246,
+      "theonym": 27,
+      "title": 40,
+      "toponym": 23,
+      "toponym_gentilic": 4
     },
     "by_affiliation": {
       "akkadian_contact": 4,
@@ -42,7 +42,7 @@
       "egyptian": 11,
       "hurrian": 34,
       "indo_aryan": 1,
-      "semitic": 240,
+      "semitic": 254,
       "unknown": {
         "total": 46,
         "intact": 37,
@@ -56,16 +56,16 @@
       "Egyptian": 11,
       "Hurro-Urartian": 34,
       "Indo-European": 3,
-      "Semitic": 244,
+      "Semitic": 258,
       "unassigned": 46
     },
     "by_provenance": {
       "auto": 57,
-      "manual": 281
+      "manual": 295
     },
-    "manual_count": 281,
+    "manual_count": 295,
     "auto_count": 57,
-    "total_entries": 338
+    "total_entries": 352
   },
   "entries": [
     {
@@ -1480,7 +1480,7 @@
       "contact_ref": null,
       "lexicon_ref": "PA-DE",
       "reading": "Padī",
-      "meaning": "personal name 'redeemed' (p-d-y); recipient of wine",
+      "meaning": "personal name 'redeemer' (p-d-y); recipient of wine",
       "frequency": 3,
       "attestations": [
         "HT9a",
@@ -3245,6 +3245,42 @@
       "note": "Reading from the lexicon (di Mino). In erasure on HT 115a.2 (GORILA I, 188–91). Rival: naʿar 'servant, retainer' (√n-ʿ-r; Heb. נַעַר), which suits a list of people and grain just as well."
     },
     {
+      "token": "*306+MI",
+      "normalized": "306mi",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "*306+MI",
+      "reading": "ʿAmmī",
+      "meaning": "my kinsman (personal name)",
+      "frequency": 1,
+      "attestations": [
+        "HT115b"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 115b, a recipient counted 1. The ligature ʿA+MI, a hypocoristic of the ʿAmmī-DN names: Amorite ʿAMM-IJA (Gelb 1980, no. 735)."
+    },
+    {
       "token": "*306-KI-TA₂",
       "normalized": "306kita2",
       "type": "personal_name",
@@ -3975,6 +4011,40 @@
       "note": "ʾAddu-ʿazz 'Addu is strong': Addu + ʿazz (semitic_roots 2769), the god first as in A-DU-NI-TA-NA; Ugaritic mt ʕz 'Mot was strong' (DULAT 194). Rival: hadas 'myrtle'."
     },
     {
+      "token": "A-JA-KU",
+      "normalized": "ajaku",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-JA-KU",
+      "reading": "ʾAyaku",
+      "meaning": "Where are you? (personal name)",
+      "frequency": 1,
+      "attestations": [
+        "KNZf13"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Metal object": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KN Zf 13, the last four signs of the undivided 19-sign spiral, ending at the centre of the bezel; the start of the word is not marked and KU is underdotted (GORILA IV 152–153). Amorite ʾAjak-u (Gelb 1980, no. 320). Rival: Akk. ajakku, a temple structure (CAD A/1, 224–25)."
+    },
+    {
       "token": "A-JU",
       "normalized": "aju",
       "type": "personal_name",
@@ -4452,6 +4522,40 @@
       "note": ""
     },
     {
+      "token": "A-NA-NU-SI-JA-SE",
+      "normalized": "ananusijase",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-NA-NU",
+      "reading": "Ḥanānu",
+      "meaning": "gracious (personal name), in the vessel-label form -SI-JA-SE",
+      "frequency": 1,
+      "attestations": [
+        "HTZb159"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Clay vessel": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT Zb 159, painted on a pithos and broken after SE: the owner's name with the vessel-label ending -SI-JA-SE. Ugarit Ḫananu (Kinlaw 1967, 55); Amorite Ḥanan- (Gelb 1980, nos. 475–478). Rival: ʿAnānu 'cloud'."
+    },
+    {
       "token": "A-NU",
       "normalized": "anu",
       "type": "personal_name",
@@ -4722,7 +4826,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "A-RE-PI-RE-NA",
-      "reading": "ʾa-rāpiʾ-rinnā",
+      "reading": "ʾa-repiʾ-rennā",
       "meaning": "Healer of Jubilation (Eshmun epithet)",
       "frequency": 1,
       "attestations": [
@@ -4752,7 +4856,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "Reading from the lexicon (di Mino). Exod 15:26 rōpʾekā 'your healer'."
     },
     {
       "token": "A-RE-SA-NA",
@@ -5311,6 +5415,42 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "KN Zb 5, a clay vessel. Pre-Greek Turis- (LB tu-ri-so, Tylissos) with the article ha- and the NWS feminine gentilic -īt, as Hebrew ha-kkĕnaʿănît; LB writes the feminine ethnic tu-ri-si-ja."
+    },
+    {
+      "token": "A-WA-PI",
+      "normalized": "awapi",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "A-WA-PI",
+      "reading": "ʾAwpiʿ",
+      "meaning": "He shone forth (personal name)",
+      "frequency": 1,
+      "attestations": [
+        "KNZf31"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Metal object": 1
+      },
+      "position_summary": {
+        "follows": {
+          "word": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KN Zf 31, a silver pin, among the man's names in the first line. A verb as a name, as Amorite Ya-a-pa-aḫ (*wpʿ 'be brilliant', Huffmon 1965, 212) and Ugaritic ypʿ (DULAT 958)."
     },
     {
       "token": "A-ZU-RA",
@@ -6553,7 +6693,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "DU-RU-WI",
-      "reading": "ḏu-lēwī",
+      "reading": "ḏu-luwwī",
       "meaning": "the Levite (ethnonymic designation)",
       "frequency": 1,
       "attestations": [
@@ -6592,7 +6732,7 @@
           "distance": 1.0
         }
       ],
-      "note": "ḏu 'the one of' + lēwī (√l-w-y). Rival: √ḏ-r-w 'winnow'."
+      "note": "ḏu 'the one of' + luwwī 'joined' (√l-w-y, the u of the D-stem, Ebla lu-wu, GlOS 2, 19)."
     },
     {
       "token": "DU-ZU-WA",
@@ -6766,6 +6906,42 @@
       "note": ""
     },
     {
+      "token": "I-DA-MI",
+      "normalized": "idami",
+      "type": "toponym",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "I-DA-MI",
+      "reading": "ʾIda",
+      "meaning": "Ida, the sacred mountain, with emphatic enclitic -mi",
+      "frequency": 1,
+      "attestations": [
+        "SYZa1"
+      ],
+      "sites": [
+        "Syme"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Stone vessel": 1
+      },
+      "position_summary": {
+        "follows": {
+          "word": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "SY Za 1, after A-TA-I-*301-WA-JA, the slot of JA-DI-KI-TU. I-DA with enclitic -mi."
+    },
+    {
       "token": "I-DU-NE-SI",
       "normalized": "idunesi",
       "type": "personal_name",
@@ -6860,7 +7036,7 @@
     {
       "token": "I-JA-PA-ME",
       "normalized": "ijapame",
-      "type": "theonym",
+      "type": "title",
       "type_confidence": "SPECULATIVE",
       "affiliation": "semitic",
       "language_family": "Semitic",
@@ -6869,7 +7045,7 @@
       "contact_ref": null,
       "lexicon_ref": "I-JA-PA-ME",
       "reading": "yabame",
-      "meaning": "progenitress, sister-in-law (divine epithet of Anath)",
+      "meaning": "brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'",
       "frequency": 1,
       "attestations": [
         "KH7a"
@@ -6898,7 +7074,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
+      "note": "Reading from the lexicon (di Mino). Tell Rimah ia-ba-mi-ša 'her brother-in-law', Ugaritic ybm (GlOS 2, 341; DULAT 937)."
     },
     {
       "token": "I-KI-RA",
@@ -7585,6 +7761,40 @@
       "note": "Mari bare name IA-A-PA-AH Yaypaʿ (Gelb 1980, no. 2792); Amarna Yapaḫu."
     },
     {
+      "token": "JA-RA",
+      "normalized": "jara",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "JA-RA",
+      "reading": "Yaraḫ",
+      "meaning": "personal name 'Moon', after the moon god",
+      "frequency": 1,
+      "attestations": [
+        "KNWc30"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Roundel": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "Reading from the lexicon (di Mino). Amorite JARAḪ-T-UM, IA-RA-AḪ-TUM (Gelb 1980, no. 3419)."
+    },
+    {
       "token": "JA-RE-MI",
       "normalized": "jaremi",
       "type": "personal_name",
@@ -8088,6 +8298,76 @@
       "note": "Kakku-ʿAnēt, kakku 'weapon' + ʿAnat, as Šum-Anati at Ugarit (Kinlaw 1967, 111). Rival: Egyptian Neith (n.t) as the second element (PNM v6)."
     },
     {
+      "token": "KA-NA-NI-TI",
+      "normalized": "kananiti",
+      "type": "gentilic",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "KA-NA-NI-TI",
+      "reading": "kanaʿanītī",
+      "meaning": "the Canaanite (ethnonymic designation)",
+      "frequency": 1,
+      "attestations": [
+        "KHWc2005"
+      ],
+      "sites": [
+        "Khania"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Roundel": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KH Wc 2005, a roundel, the word alone. Nisbe -ītī, as DU-RU-WI ḏu-luwwī; Hebrew kĕnaʿanī; Punic Chanani (Krahmalkov 2000, 236)."
+    },
+    {
+      "token": "KA-NU-TI",
+      "normalized": "kanuti",
+      "type": "toponym",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "KA-NU-TI",
+      "reading": "Ganuti",
+      "meaning": "place name, 25 men",
+      "frequency": 1,
+      "attestations": [
+        "HT97a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "precedes": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "Reading from the lexicon (di Mino). Ebla ga-nu-ti, a personal name (ARET 20 15 r. 3, 11)."
+    },
+    {
       "token": "KA-PA-QE",
       "normalized": "kapaqe",
       "type": "personal_name",
@@ -8128,65 +8408,6 @@
       "provenance": "auto",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": ""
-    },
-    {
-      "token": "KA-PO-RU",
-      "normalized": "kaporu",
-      "type": "theonym",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "semitic",
-      "language_family": "Semitic",
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
-      "lexicon_ref": "KA-PO-RU",
-      "reading": "kabīru",
-      "meaning": "great one (Kabeiri divine epithet); rival kōper 'ransom'",
-      "frequency": 1,
-      "attestations": [
-        "HT115a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Tablet": 1
-      },
-      "position_summary": {
-        "follows": {
-          "numeral": 1
-        },
-        "heads_document": 0
-      },
-      "co_occurring_known": [
-        {
-          "word": "*301-U-RA",
-          "reading": "naura",
-          "meaning": "light, radiance (personal name or epithet)",
-          "category": "personal_name"
-        }
-      ],
-      "provenance": "manual",
-      "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*ʕakbar-",
-          "language": "Proto-Semitic",
-          "distance": 0.2
-        },
-        {
-          "root": "*kumir-",
-          "language": "Proto-Semitic",
-          "distance": 1.0
-        },
-        {
-          "root": "*napr-",
-          "language": "Proto-Semitic",
-          "distance": 1.0
-        }
-      ],
       "note": ""
     },
     {
@@ -8292,6 +8513,42 @@
         }
       ],
       "note": "Kariru: Nuzi Qa-ri-ru, Ka-ri-ru(m), Qa-ri-ri (NPN 80), root qrr (NPN 322); Purves takes it as Hurrian kar- (NPN 223). Rival: *ka/irr- 'ram' (semitic_roots no. 2220)."
+    },
+    {
+      "token": "KA-RO-NA",
+      "normalized": "karona",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "KA-RO-NA",
+      "reading": "Qarna",
+      "meaning": "horn (personal name)",
+      "frequency": 1,
+      "attestations": [
+        "HT11a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 11a, a recipient counted 2 within a KU-RO total. Amorite Qar-ni-li-im (Huffmon 1965, 58, 259); Hebrew Qeren-happûk (Job 42:14)."
     },
     {
       "token": "KA-SA-RU",
@@ -8439,6 +8696,42 @@
         }
       ],
       "note": "HT 63, under the personnel logogram *305: gat 'press' with the nisbe -ī, as Ugaritic gt /gittu/ 'press; farmstead, estate' (DULAT 307) and Hebrew hag-Gittî 'the Gittite' (2 Sam 6:10). Rivals: Qəhātî 'Kohathite' (Num 3:27), Kittî 'Kittian'. See the lexicon entry."
+    },
+    {
+      "token": "KI-DA-RO",
+      "normalized": "kidaro",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "KI-DA-RO",
+      "reading": "Qidaru",
+      "meaning": "Dark (personal name)",
+      "frequency": 1,
+      "attestations": [
+        "HT117a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 117a, counted once in a roster of people. √ḳ-d-r 'be dark'; cf. Hebrew Qēdār (Gen 25:13). HT 47a KI-DA-RO[ is broken (GORILA I 91)."
     },
     {
       "token": "KI-KI-NA",
@@ -10085,6 +10378,80 @@
       "note": "Egyptian ptḥ-dj⸗f 'Ptah gives', a man's name under Thutmose IV–Amenhotep III (PNM v6). Rival: Hurrian pṭḏ, a man at Ugarit (DULAT 676). See the lexicon entry."
     },
     {
+      "token": "PA₃-NI",
+      "normalized": "pa3ni",
+      "type": "title",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "PA₃-NI",
+      "reading": "bānī",
+      "meaning": "builder",
+      "frequency": 2,
+      "attestations": [
+        "HT85a",
+        "HT102"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 2
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 2
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "A recipient: HT 85a after DA-RI-DA 12, counted 12; HT 102 with GRA+PA 33. √b-n-y. See PA₃-NI-NA."
+    },
+    {
+      "token": "PA₃-NI-NA",
+      "normalized": "pa3nina",
+      "type": "title",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "PA₃-NI-NA",
+      "reading": "banīna",
+      "meaning": "our builder",
+      "frequency": 2,
+      "attestations": [
+        "HT6b",
+        "HT93a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 2
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 1
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 6b, counted 17 after SA-MA 35; HT 93a heads the tablet before GRA. Bānī with 1cp -na. See PA₃-NI."
+    },
+    {
       "token": "PA₃-PU₂",
       "normalized": "pa3pu2",
       "type": "personal_name",
@@ -10272,7 +10639,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "PI-TA-JA",
-      "reading": "Patiya",
+      "reading": "Pitaya",
       "meaning": "personal name, hypocoristic in -ya",
       "frequency": 1,
       "attestations": [
@@ -10302,7 +10669,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "A recipient in the HT 6a fig list, PI-TA-JA 24. Patiya, a hypocoristic in -ya, as Amorite PATIJ-UM. Rival: the Egyptian personal name ptjj."
+      "note": "A recipient in the HT 6a fig list, PI-TA-JA 24. Pitaya, a hypocoristic in -ya on √p-t-ḥ 'open', as Amorite PATIḤ-UM. Rival: the Egyptian personal name ptjj."
     },
     {
       "token": "PI-TA-KA-SE",
@@ -10382,65 +10749,6 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "HT 87 PI-TA-KE-SI 1, first under MA-KA-RI-TE 'merchants'. bīt-kissi, genitive of PI-TA-KA-SE Bīt-kissē (HT 21): a man of the crown, as the šūt GIŠ.GU.ZA of an Old Akkadian roster (CAD K 592). Rival: Hurrian Pidi-kešḫi, kešḫi 'throne' (Laroche 1980, 143–44)."
-    },
-    {
-      "token": "PI-TA-RA",
-      "normalized": "pitara",
-      "type": "theonym",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "semitic",
-      "language_family": "Semitic",
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "lexicon_reading",
-      "contact_ref": null,
-      "lexicon_ref": "PI-TA-RA",
-      "reading": "bitara / batūla",
-      "meaning": "virgin, maiden (divine epithet)",
-      "frequency": 1,
-      "attestations": [
-        "HT96a"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Tablet": 1
-      },
-      "position_summary": {
-        "follows": {
-          "numeral": 1
-        },
-        "heads_document": 0
-      },
-      "co_occurring_known": [
-        {
-          "word": "KU-MA-RO",
-          "reading": "kumaro / komaro",
-          "meaning": "priest",
-          "category": "personal_name"
-        }
-      ],
-      "provenance": "manual",
-      "bucket": "onomastic",
-      "weak_cognates": [
-        {
-          "root": "*putr-",
-          "language": "Proto-Semitic",
-          "distance": 0.0
-        },
-        {
-          "root": "*pidr-",
-          "language": "Proto-Semitic",
-          "distance": 0.1
-        },
-        {
-          "root": "*patil-",
-          "language": "Proto-Semitic",
-          "distance": 0.15
-        }
-      ],
-      "note": ""
     },
     {
       "token": "PU₂-RE-JA",
@@ -10529,6 +10837,42 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "Hurrian-type name in -šenni, after DA-KU-SE-NE /Takušenni/ and DA-KU-SE-NE-TI; also KN Wb 33 QA-KI-SE-NU-[ (Younger)."
+    },
+    {
+      "token": "QA-MI-*47-NA-RA",
+      "normalized": "qami47nara",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "QA-MI-*47-NA-RA",
+      "reading": "Qāmī-šū-nāra",
+      "meaning": "Who stands: He is fire (personal name)",
+      "frequency": 1,
+      "attestations": [
+        "KNZf31"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Metal object": 1
+      },
+      "position_summary": {
+        "follows": {
+          "word": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KN Zf 31, a silver pin, among the man's names in the first line. Amorite Qawmī-ʾIl (Gelb 1980, no. 1743); the Ebla type šū-X 'he is X' (Pagan 1998)."
     },
     {
       "token": "QA-QA-RU",
@@ -11523,6 +11867,49 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "Ugaritic lrmn 'pomegranate' (DULAT 499); Middle Assyrian lurimā'u, lu-ri-ma-e (CAD L 255 f.). A man's name: Hebrew Rimmon (2 Sam 4:2), Akkadian Lu-ri-in-di-ya (HALOT 1242). See the lexicon entry."
+    },
+    {
+      "token": "RI-TA-MA",
+      "normalized": "ritama",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "RI-TA-MA",
+      "reading": "Ritmā",
+      "meaning": "personal name, 'broom (bush)'",
+      "frequency": 1,
+      "attestations": [
+        "HT115a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "word": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [
+        {
+          "word": "NU-WI",
+          "reading": "nōwē / nwē",
+          "meaning": "steppe-dweller, (man) of the encampment—qualifier after a personal name",
+          "category": "title"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 115a .1–2 RỊ-TẠ-MẠ · NU-WI 2, all three signs underdotted (GORILA I 189). Ritmā, √r-t-m 'broom': Hebrew Ritmâ, a wilderness encampment (Num 33:18); Arabian PN rtm (Harding 1971, 269). See the lexicon entry."
     },
     {
       "token": "RO-E",
@@ -13100,7 +13487,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "TI-NU-JA",
-      "reading": "Ṯaniya",
+      "reading": "Ṯinuya",
       "meaning": "personal name, 'Second(-born)'; rival Dīnuya",
       "frequency": 1,
       "attestations": [
@@ -13146,7 +13533,7 @@
           "distance": 1.0
         }
       ],
-      "note": "HT 115b .2 TI-NU-JA · NU-WI · GRA ½, a person (GORILA I 191). Ṯaniya 'Second(-born)', ṯ-n-y + -ya (Sabaic PN tny, Harding 1971, 148–49), TI for ṯ unestablished. Rival: Dīnuya, √d-y-n 'judge'. One witness."
+      "note": "HT 115b .2 TI-NU-JA · NU-WI · GRA ½, a person (GORILA I 191). Ṯinuya 'Second(-born)', ṯ-n-y + -ya (Sabaic PN tny, Harding 1971, 148–49), TI for ṯ unestablished. Rival: Dīnuya, √d-y-n 'judge'. One witness."
     },
     {
       "token": "A-PA₃-DI",
@@ -15844,7 +16231,7 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "TI-MA-RU-WI-TE",
-      "reading": "Tīmar-lēwīt",
+      "reading": "Tīmar-luwwīt",
       "meaning": "Timar the Levite (f.), priestess (woman's name and title); rival Tamar + WI-TE",
       "frequency": 1,
       "attestations": [
@@ -15867,7 +16254,7 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "PY R 1 .1–2 TI-MA-RU-WI-TE, a ligature and VIN 90, the only entry (GORILA I 322). Tīmar 'palm', final r unwritten, + lēwīt, fem. of lēwī as in DU-RU-WI: name and title, as Minaean lwʾtn S¹lmy 'the priestess Salmay' (M 333). Rival: TA-MA-RU Tamar (Gelb no. 6027) + WI-TE."
+      "note": "PY R 1 .1–2 TI-MA-RU-WI-TE, a ligature and VIN 90, the only entry (GORILA I 322). Tīmar 'palm', final r unwritten, + luwwīt, fem. of luwwī as in DU-RU-WI: name and title, as Minaean lwʾtn S¹lmy 'the priestess Salmay' (M 333). Rival: TA-MA-RU Tamar (Gelb no. 6027) + WI-TE."
     },
     {
       "token": "KI-RI-SI",
@@ -16172,7 +16559,7 @@
       "contact_ref": null,
       "lexicon_ref": "KI-NU",
       "reading": "Kīnu",
-      "meaning": "personal name: 'the Just/True One'—Akkadian kīnu 'true, reliable, just'",
+      "meaning": "personal name, 'the True One' (kīnu 'true, reliable')",
       "frequency": 1,
       "attestations": [
         "ARKH3a"
@@ -16664,7 +17051,7 @@
       "contact_ref": null,
       "lexicon_ref": "NU-WI",
       "reading": "nōwē / nwē",
-      "meaning": "(man) of the encampment, herdsman?—qualifier after a personal name",
+      "meaning": "steppe-dweller, (man) of the encampment—qualifier after a personal name",
       "frequency": 2,
       "attestations": [
         "HT115a",
@@ -16726,7 +17113,7 @@
       },
       "co_occurring_known": [
         "A-TA-I-*301-WA-E",
-        "SA-SA-RA-ME"
+        "A-SA-SA-RA-ME"
       ],
       "provenance": "manual",
       "bucket": "onomastic",
@@ -16765,7 +17152,7 @@
       },
       "co_occurring_known": [
         "A-TA-I-*301-WA-E",
-        "SA-SA-RA-ME"
+        "A-SA-SA-RA-ME"
       ],
       "provenance": "manual",
       "bucket": "onomastic",
@@ -16891,8 +17278,8 @@
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
       "lexicon_ref": "TE-JA-RE",
-      "reading": "Tayru",
-      "meaning": "personal name, 'Bull' (PS *ṯawr-)",
+      "reading": "Teyar",
+      "meaning": "personal name; rival tayyār 'trader' (√t-w-r)",
       "frequency": 1,
       "attestations": [
         "HT117a"
@@ -16914,7 +17301,77 @@
       "provenance": "manual",
       "bucket": "onomastic",
       "weak_cognates": [],
-      "note": "HT 117a, one of ten entries counted 1 each under MA-KA-RI-TE (KU-RO 10), before NA-DA-RE: a name on the noun 'bull', PS *ṯawr- with w > y (Ugaritic ṯr). One witness."
+      "note": "HT 117a, one of ten entries counted 1 each under MA-KA-RI-TE (KU-RO 10), before NA-DA-RE: Ugarit has the man's name Tiyaru, ti-ya-ru₃ (RS 14.0016 r 3). Rival: tayyār 'trader' (√t-w-r). See the lexicon entry. One witness."
+    },
+    {
+      "token": "KO-SA-I-TI",
+      "normalized": "kosaiti",
+      "type": "toponym_gentilic",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "KO-SA-I-TI",
+      "reading": "Kōšayīt",
+      "meaning": "the Kushite woman (origin label); rival kusītu 'robe'",
+      "frequency": 1,
+      "attestations": [
+        "HT117a"
+      ],
+      "sites": [
+        "Haghia Triada"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "numeral": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "HT 117a, the second of five counted 1 each under SA-TA, between KU-KU-DA-RA and DA-MI-NU: the feminine nisbe of Kōš 'Kush' (Coptic ⲉϭⲱϣ; Amarna ka-ši-yi, EA 287:33), an origin label as U-SU and U-DI-MI. Rival: kusītu 'robe'. See the lexicon entry. One witness."
+    },
+    {
+      "token": "TO-MA-RO",
+      "normalized": "tomaro",
+      "type": "personal_name",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "TO-MA-RO",
+      "reading": "Tōmar",
+      "meaning": "personal name, 'palm'",
+      "frequency": 1,
+      "attestations": [
+        "KO(?)Zf2"
+      ],
+      "sites": [
+        "Kophinas (?)"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Metal object": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KO(?) Zf 2, a bronze bowl, inside the undivided sequence A-RA-KO-KU-QA-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA: a palm name, Amorite Tamar-u (Gelb 1980, no. 6027), Ugaritic tmr, Hebrew Tāmār. See the lexicon entry. One witness."
     }
   ]
 }

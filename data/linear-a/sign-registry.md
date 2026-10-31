@@ -25,7 +25,7 @@ says how each sign is written and where it comes from. The values beyond Linear 
 | `pictographic_note`, `classification`, `classification_note` | the description of one pictograph (AB04), and the commodity class of one logogram (A304) |
 
 **Status.** `conventional` marks the 49 Linear B values, AB76's `ra` and AB79's `zu`: Linear B ra₂ is rya or
-lya, and AB76 reads /la/ with /ra/ beside it; Linear B *79 is tentatively zu (Davis 2026, 174 n. 641; Melena
+lya, by tablet time rra or lla (Judson 2020, 74), and AB76 reads /la/ with /ra/ beside it; Linear B *79 is tentatively zu (Davis 2026, 174 n. 641; Melena
 reads wo₂, *The Untransliterated Syllabograms*, §15). A value beyond Linear B takes the standing `sign_values.json`
 gives its sign: `proposed` marks ZU's ṯu, ḏu and ṯ̣u (the interdental range, which ZU writes before every vowel;
 ṯ̣ keyed ẓ), and `speculative` a value held in its sign record only: QA's za, SE's se2, *86's na (a mostly

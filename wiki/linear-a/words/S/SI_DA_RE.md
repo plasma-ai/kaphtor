@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | siddāru |
 | Meaning | personal name, 'Arranger' |
 | Root | s-d-r |
+| Proto-Semitic | \*sadār- (#K0390) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 17: SI-DA-RE 5 after SA-RO 10 under RA-\*164-TI · TE · VIN 38. HT 122a: SI-DA-RE 1 in a roster of men, KU-RO 31. √s-d-r 'to set in order' (Akk. sadāru, Heb. sēder); SI-DA-RO (GO 2r) and JA-SI-DA-RA\[ (PH 7a) are on the same signs. Weak point: the -E. Rival: √s-t-r 'to hide', Heb. Sitrī (Exod 6:22). Two attestations.
+HT 17: SI-DA-RE 5 after SA-RO 10 under RA-\*164-TI · TE · VIN 38. HT 122a: SI-DA-RE 1 in a roster of men, KU-RO 31. √s-d-r 'to set in order' (Akk. sadāru, Heb. sēder); SI-DA-RO (GO 2r) and JA-SI-DA-RA\[ (PH 7a) are on the same signs. Weak point: the -E. Rival: √s-t-r 'to hide', Heb. Sitrī (Exod 6:22). Two attestations. See \*324-DI-RA.
 
 ### Cognates
 

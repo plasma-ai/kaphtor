@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab nky (SD 96; Biella 304; Sabaweb lemma 1448) | SD 96; Biella 304; Sabaweb lemma 1448 | gloss withheld |
+| Epigraphic South Arabian | Sab nky (SD 96; Biella 304; Sabaweb lemma 1448); Qat. nky (Ricks 1982 s.v. nky) | SD 96; Biella 304; Sabaweb lemma 1448; Ricks 1982 s.v. nky | gloss withheld |
 | Arabic | Ar nakâ (Biella 304); nakiya; nikāyat (Lane 3038) | Biella 304; Lane 3038 | gloss withheld |
 | Harari | näkaʾa \[LHar 118\] | LHar 118 | gloss withheld |
 | Geez | nakaya (LLA 669) | LLA 669 |  |

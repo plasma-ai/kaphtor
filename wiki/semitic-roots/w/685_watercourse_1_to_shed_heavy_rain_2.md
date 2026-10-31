@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/685_watercourse_1_to_shed_heavy_rain_2
 title: "*w/yabal-: 'watercourse' 1, 'to shed heavy rain' 2"
-desc: "Proto-Semitic *w/yabal-, 'watercourse' 1, 'to shed heavy rain' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *w/yabal-, 'watercourse' 1, 'to shed heavy rain' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "685"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Qat. mwblm 2 (Ricks 1982 s.v. mwblm) | Ricks 1982 s.v. mwblm | gloss withheld |
 | Arabic | wbl 2, wabala (HALOT 541); wabl- | HALOT 541 | gloss withheld |
 | Hebrew | yūbal 1; yābāl |  | gloss withheld |
 | Judaic Aramaic | yablā 1 |  |  |

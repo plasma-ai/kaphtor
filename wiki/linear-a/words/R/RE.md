@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | le- |
 | Meaning | to, for, as (preposition) |
 | Root | l |
+| Proto-Semitic | \*lV-- (#K0116) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | particle |

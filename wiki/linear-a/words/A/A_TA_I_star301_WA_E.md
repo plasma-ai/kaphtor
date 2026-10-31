@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾatainawē |
 | Meaning | I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY) |
 | Root | n-w-y |
+| Proto-Semitic | \*nwy (#3654) |
 | Language layer | NWS |
 | Category | libation_formula |
 | Semantic field | verbal |

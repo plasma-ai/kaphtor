@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾawrēt |
 | Meaning | luminous one (feminine) |
 | Root | ʾ-w-r |
+| Proto-Semitic | \*ʾVr- (#1462) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-From √ʾ-w-r 'to shine, be light' (Hebrew ʾōr &lt; \*ʾawr 'light') + feminine -ēt ending. Personal name or epithet on a Khania cyperus distribution tablet. \|\| 'Feminine' rests on the name slot: -t also forms abstracts and unit nouns (Fischer 2002, §64), so ʾawrēt may equally be 'light'.
+From √ʾ-w-r 'to shine, be light' (Hebrew ʾōr &lt; \*ʾawr 'light') + feminine -ēt ending. Personal name or epithet on a Khania cyperus distribution tablet. \|\| 'Feminine' rests on the name slot: -t also forms abstracts and unit nouns (Fischer 2002, §64), so ʾawrēt may equally be 'light'. See U-RE-WI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | ʾôrâ 'light, brightness', feminine, Esth 8:16 (HALOT 25) |
+| Ugaritic | ár 'light' (DULAT 91) |
+| Phoenician | ʾr 'light' (Krahmalkov 70) |
+| Amorite | ʾWR 'shine': ʾūrum 'light', jāʾwir (Gelb AS 21, 14) |
 
 ### Source
 

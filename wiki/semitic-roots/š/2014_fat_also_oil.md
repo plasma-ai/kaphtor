@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | samn- 'fat' \[BK 1 1143\]. | BK 1 1143 |  |
 | Akkadian | šamnu (NA also šamanu) OB on \[CAD š1 321\], \[AHw 1157\] | CAD š1 321; AHw 1157 | gloss withheld |
 | Mandaic Aramaic | šamina, šumna \[DM 443, 455\] | DM 443, 455 | gloss withheld |
-| Ugaritic | šmn \[Aist 309\] | Aist 309 | gloss withheld |
+| Ugaritic | šmn \[Aist 309\]; šmn /Šamnu/ DN, oil deified, l šmn (KTU 1.164:9; Pardee 2002, 75, 283), later Eshmun (DULAT 817) | Aist 309; KTU 1.164:9; Pardee 2002 75, 283; DULAT 817 | gloss withheld |
 | Phoenician | šmn \[T 323\] | T 323 | gloss withheld |
 | Modern Aramaic | MAL šomna \[Berg 91\] MMND šamīna \[M MND 502, 521\] | Berg 91; M MND 502, 521 | gloss withheld |
 | Jibbali | šɛ̃n \[JJ 262\] | JJ 262 | gloss withheld |

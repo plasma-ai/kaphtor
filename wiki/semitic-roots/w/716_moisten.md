@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | w/ydn 1,10 |  |  |
-| Epigraphic South Arabian | Sab wdn; s1twdn (SD 156); wdn; s1twdn (Biella 122) | SD 156; Biella 122 | gloss withheld |
+| Epigraphic South Arabian | Sab wdn; s1twdn (SD 156); wdn; s1twdn (Biella 122); Qat. wdn (Ricks 1982 s.v. wdn) | SD 156; Biella 122; Ricks 1982 s.v. wdn | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

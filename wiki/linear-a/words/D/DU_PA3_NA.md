@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dubbān |
 | Meaning | personal name, 'bear' with -ān |
 | Root | d-b-b |
+| Proto-Semitic | \*dubb- (#2153) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -42,9 +43,18 @@ updated: 2026-10-24T16:17:50Z
 
 HT 115b .2 DU-PA₃-NA 1, whole and undotted, after TI-NU-JA · NU-WI · GRA ½ and before KU-RU-MA · I ½, on a palimpsest (GORILA I 191). Amorite DABIN-UM (Gelb 1980, no. 1411) and the root DBB in Gelb's glossary; Arabian DBN (Harding 1971, 234). Rival: Harding's own gloss, dibbān 'fly'. One document.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | AZ = dab₆-bù, da-bù 'bear' (GlOS 1, 139) |
+| Akkadian | dabû, dabbu 'bear', in Old Akkadian personal names before the literary texts (CAD D 17; AHw 148) |
+| Hebrew | dōb 'bear' (1 Sam 17:34), pl. dubbîm (2 Kgs 2:24) |
+| Arabic | dubb 'bear' (Lane 841) |
+
 ### Source
 
-di Mino
+di Mino; GlOS 1; CAD D; Lane
 
 ## Attestations
 

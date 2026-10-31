@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | RDM 'slumber' | Anderson–Moser 2024 root rdm |  |
 | Hebrew | rdm (HALOT 1191) | HALOT 1191 | gloss withheld |
 | Judaic Aramaic | rədam (HALOT 1191) | HALOT 1191 |  |
-| Eblaitic | ra-da-mu, la-da-mu-mu /radāmum/ (VE 820; Krebernik 1983, 32) | VE 820; Krebernik 1983, 32 |  |
+| Eblaitic | ra-da-mu, la-da-mu-mu /radāmum/ (VE 820; Krebernik 1983, 32); ra-da-mu, la-da-mu-mu, la-da-mu-um /r-d-m/ (Sanmartín GlOS 2, 155) | VE 820; Krebernik 1983, 32; Sanmartín GlOS 2, 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3233_you_fem_pl
 title: "*ʾantinna: 'you (fem. pl.)'"
-desc: "Proto-Semitic *ʾantinna, 'you (fem. pl.)': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ʾantinna, 'you (fem. pl.)': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3233"
@@ -29,6 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ǝtēn (Rubin 2018 51, 52) | Rubin 2018 51, 52 | gloss withheld |
 | Hebrew | ʾattēn, ʾattēnā (HALOT 103) | HALOT 103 |  |
 | Aramaic | ʾattin, ʾatten (LGz. 33) | LGz. 33 |  |
 | Syrian Aramaic | ʾattēn (HALOT 103; LGz. 33) | HALOT 103; LGz. 33 |  |

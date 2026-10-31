@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-GORILA I 231 reads HT 135a .3 NA-\*21F-NE\[, broken after NE. Not readable.
+GORILA I 231 reads HT 135a .3 NA-\*21F-NE\[, broken after NE. It matches the head of NA-\*21F-NE-MI-NA (HT 115a). Not readable.
 
 <!-- END kaphtor:record -->

@@ -34,17 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yašīʿ-ē |
 | Meaning | O Salvation—vocative/petitionary extension of yašīʿ |
 | Root | y-š-ʿ |
+| Proto-Semitic | \*yṯʿ (#3332) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
 
 ### Note
 
-KEZb4 (Kea lamp): single-word lamp dedication. Completes the three-member mini-paradigm with JA-SI (KNZb4 'Salvation' dedication term, PEZc4 'he saves')—same √y-š-ʿ across three sites, Rendsburg paradigm criterion. JA- vocative frame established (JA-DI-KI-TU 'O Diktu!' PROBABLE, IOZa2). Phonology rule-standard: š→S-class, final ʿ dropped. Open morphological question: the -E extension (vocative/petitionary?) vs bare JA-SI—recorded, not resolved.
+KEZb4 (Kea lamp): single-word lamp dedication. Completes the three-member mini-paradigm with JA-SI (KNZb4 'Salvation' dedication term, PEZc4 'he saves')—same √y-š-ʿ across three sites, Rendsburg paradigm criterion. JA- vocative frame established (JA-DI-KI-TU 'O Diktu!' PROBABLE, IOZa2). Phonology rule-standard: š→S-class, final ʿ dropped. Open morphological question: the -E extension (vocative/petitionary?) vs bare JA-SI—recorded, not resolved. Amorite ia-še-ia (GlOS 2, 379) has the hypocoristic -iya on the same stem.
+
+### Cognates
+
+see JA-SI
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

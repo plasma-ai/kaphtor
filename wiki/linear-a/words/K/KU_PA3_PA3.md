@@ -33,36 +33,27 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kubaba |
 | Meaning | Kubaba (Anatolian/North Syrian divine or personal name) |
+| Root | Kubaba (Sumerian Kug-Baba) |
 | Language layer | Anatolian/North Syrian theonym |
 | Category | divine_name |
 | Semantic field | divine |
 
 ### Note
 
-Layer 3 contact name. Conditional on PA₃ = /ba/, KU-PA₃-PA₃ spells Kubaba exactly. The name is externally attested both for the goddess and in personal names; HT88's one-unit roster therefore does not decide whether the referent is the goddess, a woman bearing the name, or a cult institution. The reading and the PA₃ value must not be used circularly to prove one another. Kubaba and Phrygian Cybele are distinct deities in current scholarship.
+Layer 3 contact name. Conditional on PA₃ = /ba/, KU-PA₃-PA₃ spells Kubaba exactly. The name is externally attested both for the goddess and in personal names; HT88's one-unit roster therefore does not decide whether the referent is the goddess, a woman bearing the name, or a cult institution. The reading and the PA₃ value must not be used circularly to prove one another. The name is Sumerian Kug-Baba 'Pure is Baba': the Sumerian King List writes ku₃-ᵈba-ba₆ for the tavern-keeper who founded Kish (SKL 224–227), an Old Babylonian omen already calls her Kubaba (CAD Ṣ 32), and Haas reads the goddess of Carchemish the same way, 'reine Baba', the Sumerian Kar 'trading place' in her city's name supporting it (Haas 1994, 406). Rival: an Old Syrian-Anatolian name of unknown meaning (Haas 1994, 406); Assyrian KÙ.KA₂ kù-bābu 'holy gate' is a folk etymology at most (Haas 1994, 406). Haas holds her identity with Phrygian Kybele and Lydian Kybebe secure (Haas 1994, 408).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | Kupapa 'divine name' (Gelb) |
-| Akkadian | Kubabat (ku-ba-ba-at) 'Kubaba', with the Semitic feminine -t (Old Assyrian, Kanesh; see parallels) |
-
-### Parallels
-
-| Tradition | Parallel |
-|---|---|
-| cuneiform writing | dku-pa-pa in Hittite texts (Hawkins 1983, p. 257) |
-| sumerian king list | Queen Kubaba of Kish (Early Dynastic III, c. 2500 BCE)—only female ruler in the SKL |
-| kanesh | Kubabat (ku-ba-ba-at) with Semitic feminine -t suffix, Old Assyrian period c. 1950–1750 BCE. Priests (kumrum/GUDU₄) attested. (Kryszat 2006, p. 112; Taracha 2009, p. 29) |
-| alalakh | Theophoric names Ili-Kubaba and Ini-Kubaba attested in legal texts, c. 1780–1600 BCE (Lauinger 2015, p. 297; Frayne 1990, pp. 781, 789) |
-| carchemish | Tutelary goddess by c. 1770 BCE—cylinder seal of princess Matrunna, daughter of king Aplahanda. One of three principal deities alongside Nergal and Nubandag. (Marchesi & Marchetti 2019, pp. 527, 532) |
-| ugarit | Listed in offering ritual RS 24.261 (bilingual Ugaritic-Hurrian); two theophoric names under king Arḫalba c. 1315–1313 BCE (Pardee 2002, pp. 93–95; van Soldt 2016, pp. 101, 106) |
-| emar | Theophoric names attested; Hurrian text alongside Carchemish, Išḫara, and Ebla (Beckman 2002, pp. 45, 51) |
-| hattusa | In kaluti (offering lists) of Ḫepat, alongside Adamma and Hašuntarhi (Taracha 2009, p. 96) |
-| kizzuwatna | Hurrian religious context, dyad with Adamma (Archi 2013, p. 15) |
-| cybele note | Current consensus (Rutherford 2020, Hutter 2017, Oreshko 2021): Kubaba and Cybele are DISTINCT goddesses whose cults partially overlapped in Lydia. Kubaba was civic, never 'Mother,' no mountain associations. Cybele is Phrygian Matar Kubeleya, from Mount Kubela near Pessinus. |
-| chronological overlap | Alalakh attestations (c. 1780–1600 BCE) in northwest Syria—a known Minoan trade zone with Minoan pottery finds—predate LM IB by 150–200 years. Kubaba cult active in Levantine coastal corridor during exact period Haghia Triada tablets were written. |
+| Sumerian | ku₃-ᵈba-ba₆ Kug-Baba, the woman tavern-keeper (munus lu₂-kurun-na) who made firm the foundations of Kish and reigned 100 years (Sumerian King List 224–227, CDLI P479895); Ur III PN Ku-ba-ba-e (Monti 2017, 179) |
+| Akkadian | Old Babylonian awat Kubaba ša šarrūtam iṣbatu 'the case of Kubaba, who seized the kingship' (CAD Ṣ 32); ᵈNIN ku-ba-ba GAŠAN KUR.URU kar-ga-miš 'Lady Kubaba, Lady of the land of Carchemish' (RS 17.146; DULAT 208); ᵈku₃-KA₂ ᵈ15 ša uru gar-ga-mis 'Kubaba, Ištar of Carchemish' (SAA 2 6:469; CAD R 359) |
+| Old Assyrian | Kubabat (ku-ba-ba-at), with the Semitic feminine -t, in the pantheon of Kaneš (Haas 1994, 384, 406, 614); PNN Ṣilli-Kubabat, Ummi-Kubabat (CDLI P357798, P360824) |
+| Ugaritic | kbby PN 'Kubaba' (KTU 4.695:7), syllabic {f}ku-ba-ba, wife of Arḫalba, king of Ugarit (RS 16.144:6) (DULAT 419; Watson 2012, 332; Kinlaw 1967, 74); Hurrian kbbd 'for Kubaba' (KTU 1.116:23; Pardee 2002, 94–95) |
+| Amorite | Kupapa fem. DN (Gelb 1980, 23); ʾAlli-Kupapa, Baʿli-Kupapa (Gelb 1980, nos. 708, 2094); Mari ḫa-ià-ku-ba-ba 'Kubaba is alive' (Weeden 2009, 96 n. 118) |
+| Hurrian | ᵈKu-pa-pa, gen. Ku-ba-ba-be, with Adamma and Ḫašuntarḫi (Laroche 1980, 150); Alalakh fKubaba-danni (AT 364:7; Draffkorn 1959, 39) |
+| Hittite | ᵈKu-pa-pa, ᵈKu-ba-ba, in the circle of Ḫebat (van Gessel 1998, 264–266; Haas 1994, 406–407) |
+| Luwian | the 'Queen' of Carchemish, her name written with rhombus, bird and vessel (Haas 1994, 406) |
 
 ### Source
 

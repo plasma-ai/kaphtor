@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿAmmaya |
 | Meaning | (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant' |
 | Root | ʿ-m-m |
+| Proto-Semitic | \*ʕamm- (#44) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ KH 14 .1 \]RA · A-MA-JA · CYP 6\[, whole and undotted between dividers, a cype
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʕamm- 'relative, uncle, ancestor' (semitic_roots no. 44) |
 | Ugaritic | PN ʿmy ʿAmmaya (KTU 4.16:4), syll. am-ma-ya (DULAT 164); PN ảmy (KTU 2.76:3), syll. am-ma-ia (RS 88.2158:31') (DULAT 73) |
 | Amorite | ʾAMAT-AN, A-MA-TA-AN (Gelb 1980 no. 404), rival |
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯulubu |
 | Meaning | flute; here the flautist, a qualifier after the name TU-QE-NU; rival Hurrian Tulbiya |
 | Root | ṯ-l-b |
+| Proto-Semitic | \*ṯulp- (#3787) |
 | Language layer | NWS |
 | Category | occupation |
 | Semantic field | occupation |

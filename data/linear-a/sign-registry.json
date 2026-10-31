@@ -2828,7 +2828,7 @@
      "value": "ra2",
      "consonant": "l",
      "vowel": "a",
-     "source": "Ventris 1952 (projected via Linear B)",
+     "source": "Ventris 1952 (projected via Linear B); the /la/ is at least equally /lla/ (Judson 2020, 75 n. 278)",
      "confidence": "HIGH",
      "is_primary": true,
      "implications": [],
@@ -2838,7 +2838,7 @@
      "value": "ra",
      "consonant": "r",
      "vowel": "a",
-     "source": "Ventris 1952 (projected via Linear B: ra₂ is rya or lya)",
+     "source": "Ventris 1952 (projected via Linear B: ra₂ is rya or lya, by tablet time rra or lla, alternating with ra; Judson 2020, 72, 74)",
      "confidence": "HIGH",
      "is_primary": false,
      "implications": [

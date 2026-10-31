@@ -31,7 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Hebrew | ʾzn (hif.) (HALOT 27) | HALOT 27 | gloss withheld |
 | Arabic | ʾaḏina 'he gave ear, listened' (Lane 41); istaʾḏana 'he asked of him permission, leave'; ʾiḏn 'permission, leave' (Lane 42) | Lane 41; Lane 42 |  |
-| Epigraphic South Arabian | Sab ʾḏn (Biella 5); ʾḏn (Biella 6); ʾḏn (SD 2) | Biella 5; Biella 6; SD 2 | gloss withheld |
+| Epigraphic South Arabian | Sab ʾḏn (Biella 5); ʾḏn (Biella 6); ʾḏn (SD 2); Qat. ʔḏn (Ricks 1982 s.v. ʔḏn) | Biella 5; Biella 6; SD 2; Ricks 1982 s.v. ʔḏn | gloss withheld |
 | Akkadian | uzzunu (wazzunu) (CAD U/W 396) | CAD U/W 396 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

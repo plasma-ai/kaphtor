@@ -34,24 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tursa |
 | Meaning | Shield, Protector (invoked in formula position two); the name Tursha |
 | Root | t-r-s |
+| Proto-Semitic | \*turs- (#3789) |
 | Language layer | NWS |
 | Category | divine_epithet |
 | Semantic field | divine |
 
 ### Note
 
-KO Za 1, formula position two, before DU-\*314-RE · I-DA-A dubur ʾIda 'the sanctuary of Ida'. √t-r-s 'to shield, protect' (Ar. turs; Lane 302); the shield-bearing Kouretes of Ida, and the Sea People Tursha, named from the same root (di Mino, Ya Diktu). One attestation.
+KO Za 1, formula position two, before DU-\*314-RE · I-DA-A dubur ʾIda 'the sanctuary of Ida'. √t-r-s 'to shield, protect' (Ar. turs; Lane 302); the shield-bearing Kouretes of Ida, and the Sea People Tursha, named from the same root (di Mino, Ya Diktu). Rival: Mari has Tursa as a place or ethnic name (FM V, 281). One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Arabic | تُرْس turs 'shield', tatarrasa 'he shielded himself' (Lane 302) |
+| Aramaic | תְּרִיסָא tᵉrîsā 'shield', rendering Hebrew māgēn (Tg. Ps 3:4) and ṣinnāh (Tg. Ps 5:13) (Jastrow 1698) |
 | Egyptian | twršꜣ Tursha, a Sea People, under Merneptah and at Medinet Habu (di Mino, Ya Diktu) |
 
 ### Source
 
-di Mino
+di Mino; FM V
 
 ## Attestations
 

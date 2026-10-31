@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2607_to_precede_be_in_front
 title: "*ḳdm: 'to precede, be in front'"
-desc: "Proto-Semitic *ḳdm, 'to precede, be in front': reflexes in 23 language(s)."
+desc: "Proto-Semitic *ḳdm, 'to precede, be in front': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2607"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ḳǝdūm (Rubin 2018 129) | Rubin 2018 129 | gloss withheld |
 | Arabic | ḳadam- 'the first step; step; foot' (BK 2, 690); qadīm- 'ancient, old' (BK 2, 691) | BK 2, 690; BK 2, 691 |  |
 | Modern Arabic | Mec. gadam |  | gloss withheld |
 | Geez | qadama (LGz. 421) | LGz. 421 | gloss withheld |
@@ -48,7 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | qäddämä (LGz. 421) | LGz. 421 |  |
 | Harari | qädäma (LGz. 421) | LGz. 421 |  |
 | Phoenician | qdm (Krahmalkov 424); qdm (T 284) | Krahmalkov 424; T 284 | gloss withheld |
-| Epigraphic South Arabian | Sab. qdm, qdmy (HALOT 1067; Sabaweb lemma 7203) | HALOT 1067; Sabaweb lemma 7203 | gloss withheld |
+| Epigraphic South Arabian | Sab. qdm, qdmy (HALOT 1067; Sabaweb lemma 7203); Qat. qdm (Ricks 1982 s.v. qdm) | HALOT 1067; Sabaweb lemma 7203; Ricks 1982 s.v. qdm | gloss withheld |
 | Amorite | qdm: qadimatum, qadm(ān)um, qidm(ān)um, qudmum (Gelb AS 21, 29); aqdamātu: aq-da-ma-tim (ARM 27, 27: 10f.); aqdamu: aq-da-mi-ni-ma (Florilegium Marianum II, 216: 14') (Streck 2000, 84); qudm: PUZUR-qú-ud-ma, ad-mu-ku-ud-mi, an-nu-ku-ud-mi (Sanmartín GlOS 1, 341) | Gelb AS 21 29; Streck 2000 84; Sanmartín GlOS 1, 341 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. ḳädä (EDG 473 apud SEDonline 331) | EDG 473; SEDonline 331 | gloss withheld |
 | Soqotri | ḳédem (LS 367; CSOL I 585; Naumkin et al. 2015a:74; Naumkin et al. 2022:254 apud SEDonline 1601) | LS 367; SEDonline 1601 | gloss withheld |

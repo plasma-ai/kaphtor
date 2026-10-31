@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qaṭun |
 | Meaning | small (portions) |
 | Root | q-ṭ-n |
+| Proto-Semitic | \*ḳVṭVn- (#980) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-HT 41a .2 QE-TU 10, complete at the start (GORILA I 79), over \*305 ·, \*304 10, RE · \*304 10, MI-DA-NI · PA-JA 2. QE-TU writes qaṭun 'small', the final n unwritten; QE-TU-NE (HT 12) writes it out. Weak point: QE for qa. Rival: Ug. qṭ 'flax, flaxseed (?)' (DULAT 708), a commodity; or a heading over the \*304 entries. One attestation.
+HT 41a .2 QE-TU 10, complete at the start (GORILA I 79), over \*305 ·, \*304 10, RE · \*304 10, MI-DA-NI · PA-JA 2. QE-TU writes qaṭun 'small', the final n unwritten; QE-TU-NE (HT 12) writes it out. Ebla has the name ga-da-na qaṭana 'the small one' (Pagan 1998, row 1924); Ugarit qà-ṭú-na (GlOS 1, 358). Weak point: QE for qa. Rival: Ug. qṭ 'flax, flaxseed (?)' (DULAT 708), a commodity; or a heading over the \*304 entries. One attestation.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ HT 41a .2 QE-TU 10, complete at the start (GORILA I 79), over \*305 ·, \*304 10
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; GlOS 1
 
 ## Attestations
 

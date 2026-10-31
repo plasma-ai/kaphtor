@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yašīʿ |
 | Meaning | Salvation—votive exclamation/dedication term |
 | Root | y-š-ʕ |
+| Proto-Semitic | \*yṯʿ (#3332) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |
@@ -46,13 +47,13 @@ Cross-site paradigm JA-SI (KNZb4, PEZc4) ~ JA-SI-E (KEZb4 lamp dedication) + the
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*yṯʿ / NWS y-š-ʕ 'to save' |
 | Hebrew | yēšaʿ 'salvation'; yōšīaʿ 'he saves' |
 | Ugaritic | yṯʿ in PNs |
+| Amorite | ia-še-ia, ia-ši-iḫ-ìl; Alalakh zu-ia-še-ia; the noun in iš-ḫa, iš-a-ti (GlOS 2, 379); jišʿum 'help' (Gelb 1980, glossary) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2; Gelb 1980
 
 ## Attestations
 

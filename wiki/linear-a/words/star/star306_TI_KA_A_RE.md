@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿatīq+are |
 | Meaning | the ancient, the noble; or 'became fertile' (t-stem heading) |
 | Root | ʿ-t-q (or ʿ-k-r t-stem) |
+| Proto-Semitic | \*ʕatVq- (#2658) |
 | Language layer | NWS |
 | Category | adjective |
 | Semantic field | personal_name |
 
 ### Note
 
-Uses resolved \*306=/ʿa/. HT4: heads a short allocation list (DU-RI-TE 2, PA-RE, TA-PI-SI-DI 1). NWS √ʿ-t-q 'to be old, noble' (Hebrew ʿātīq, Arabic ʿatīq); the +are ending may be a nominal suffix. Rival reading covers the full sign sequence with no leftover suffix: Sabaic ʿtkr 'become fertile (of land)' (Beeston 1982 p. 14, Ry 522/2)—a t-infix stem of √ʿ-k-r, so ʿa-ti-ka-(a)-re = ʿ-t-k-r exactly. A 'yielded/became fertile' heading over an allocation list is contextually viable; the ʿ-t-q reading leaves -RE unexplained but has the broader NWS pedigree.
+Uses resolved \*306=/ʿa/. HT4: heads a short allocation list (DU-RI-TE 2, PA-RE, TA-PI-SI-DI 1). NWS √ʿ-t-q 'to be old, noble' (Hebrew ʿātīq, Arabic ʿatīq); the +are ending may be a nominal suffix. Rival reading covers the full sign sequence with no leftover suffix: Sabaic ʿtkr 'become fertile (of land)' (Beeston 1982 p. 14, Ry 522/2)—a t-infix stem of √ʿ-k-r, so ʿa-ti-ka-(a)-re = ʿ-t-k-r exactly. A 'yielded/became fertile' heading over an allocation list is contextually viable; the ʿ-t-q reading leaves -RE unexplained but has the broader NWS pedigree. See A-TI-KA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | \*ʿattîq 'old, ancient', wəhaddəbārîm ʿattîqîm 'and the records are ancient' (1 Chr 4:22; HALOT 903) |
+| Arabic | ʿatīq 'old; excellent, generous' (Lane 1947) |
+| Sabaic | ʿtkr 'become fertile (land)', Ry 522/2 (Beeston 14), the rival |
 
 ### Source
 

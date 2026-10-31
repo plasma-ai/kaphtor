@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | bukru (CAD B 309, AHw. 137 apud SEDonline 503) | CAD B 309, AHw. 137; SEDonline 503 | gloss withheld |
-| Eblaitic | bù-ku₁₇-lu, bù-kà-lu, bù-kà-ru₁₂ (VE 270; Krebernik 1983: 13 apud SEDonline 503); ba-ga-lu(-um) (VE 243; Krebernik 1983, 13) | VE 270; Krebernik 1983: 13; SEDonline 503; VE 243; Krebernik 1983, 13 | gloss withheld |
+| Eblaitic | bù-ku₁₇-lu, bù-kà-lu, bù-kà-ru₁₂ /bukru(m)/ (VE 270; Krebernik 1983: 13 apud SEDonline 503) | VE 270; Krebernik 1983: 13; SEDonline 503 | gloss withheld |
 | Ugaritic | bkr (DULAT 217) | DULAT 217 | gloss withheld |
 | Phoenician | bkr (DNWSI 164 apud SEDonline 503) | DNWSI 164; SEDonline 503 | gloss withheld |
 | Hebrew | bəkōr (HALOT 131 apud SEDonline 503) | HALOT 131; SEDonline 503 | gloss withheld |
@@ -51,6 +51,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-JPA bakkīr 'early, first rain' (DJPA 103 apud SEDonline 503). Not 2150 \*bVkVr(-at)- 'young (she-)camel'. Cf. 3299 \*bkr 'to be early, be first; first fruits, early crop'.
+JPA bakkīr 'early, first rain' (DJPA 103 apud SEDonline 503). Not 2150 \*bVkVr(-at)- 'young (she-)camel'. Cf. 3299 \*bkr 'to be early, be first; first fruits, early crop', which holds VE 243 ba-ga-lu(-um) 'first fruits'.
 
 <!-- END kaphtor:record -->

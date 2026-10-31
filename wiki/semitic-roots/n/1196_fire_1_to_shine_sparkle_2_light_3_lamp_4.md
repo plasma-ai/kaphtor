@@ -32,7 +32,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Arabic | nwr (u) 2; nūr- 3, nār- 1 (Kogan 2011, 195) | Kogan 2011 195 | gloss withheld |
 | Akkadian | namru, nawru 2 (CAD N/1 239); nawāru 2; nūru 3 (Kogan 2011, 195); nūru in bīt nūri, ša nūri 4 (CAD N/2 351) | CAD N/1 239; Kogan 2011 195; CAD N/2 351 | gloss withheld |
-| Ugaritic | nr 1 |  |  |
+| Ugaritic | nr 3, 4 (DULAT 633) | DULAT 633 | gloss withheld |
 | Hebrew | nūr 1; nēr 3 (Kogan 2011, 195), 4 (HALOT 723) | Kogan 2011 195; HALOT 723 | gloss withheld |
 | Epigraphic South Arabian | nwr 2 (Sabaweb lemma 7173) | Sabaweb lemma 7173 | gloss withheld |
 | Judaic Aramaic | nūrā 1 |  |  |

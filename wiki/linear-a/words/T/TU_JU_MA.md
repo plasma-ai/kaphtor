@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tuʿlum |
 | Meaning | personal name, 'hidden one' (?) |
 | Root | ʿ-l-m |
+| Proto-Semitic | \*ɣlm (#3633) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

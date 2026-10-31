@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Lirumā |
 | Meaning | personal name, 'Pomegranate' (Ug. lrmn); recipient of pigs |
 | Root | l-r-m-n |
+| Proto-Semitic | \*rummān- (#2699) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

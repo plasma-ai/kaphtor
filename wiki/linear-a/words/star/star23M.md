@@ -34,13 +34,20 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mūru |
 | Meaning | young bull, head of cattle (live livestock logogram; MU-onset abbreviation of \*mūru). Complementary to TU = ṯawr 'cattle products'—\*23M counts live animals (whole numbers 1-5), TU measures processed portions (fractional quantities 1/16–3/4). Zero tablet overlap. |
 | Root | m-r-ʾ |
+| Proto-Semitic | \*muhr- (#2243) |
 | Language layer | NWS |
 | Category | logogram |
 | Semantic field | commodity |
 
 ### Note
 
-7 tokens across 6 tablets at 3 sites (HT 4×, KH 2×, GOW 1×). \|\| PS RECONSTRUCTION: \*muhr- (Starling #2243) / \*mVrVʔ- (#2245). Akk mūru 'foal (donkey or horse); calf', from OAkk on (CAD M2 229–30; eBL mūru I 'young animal; young bull; foal'). Middle Assyrian ledgers write it with the ox determinative, {gu₄}mu-ru{nita₂} 'young bull' (MARV 2 6), and count it by head: 67 mu-ru ša MU '67 calves, yearlings' (KAJ 289:11). mīru A 'young bull' (SB, CAD M2 109; eBL mīru I 'breeding bull'). Ug mrủ 'fattened, fatling' (DULAT 563). Heb מְרִיא mǝrīʾ 'fatted steer' (1 Kgs 1:9, Amos 5:22). MU = /mu/ spells mūru's /ū/; the calf sense runs through Middle and Neo-Assyrian, so the Cretan form needs no early equine/bovine split \|\| Alternative: \*ʾalpu 'cattle' (PS \*ʾalp-, Starling #2113) if purely pictographic rather than syllabic-abbreviation
+7 tokens across 6 tablets at 3 sites (HT 4×, KH 2×, GOW 1×). \|\| Akk mūru 'foal (donkey or horse); calf', from OAkk on (CAD M2 229–30; eBL mūru I 'young animal; young bull; foal'). Middle Assyrian ledgers write it with the ox determinative, {gu₄}mu-ru{nita₂} 'young bull' (MARV 2 6), and count it by head: 67 mu-ru ša MU '67 calves, yearlings' (KAJ 289:11). Ug mrủ 'fattened, fatling' (DULAT 563). Heb מְרִיא mǝrīʾ 'fatted steer' (1 Kgs 1:9, Amos 5:22). MU = /mu/ spells mūru's /ū/; the calf sense runs through Middle and Neo-Assyrian, so the Cretan form needs no early equine/bovine split \|\| Alternative: \*ʾalpu 'cattle' (#2113) if purely pictographic rather than syllabic-abbreviation. See MU-RU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | mūru 'foal; calf' (CAD M/2 229); mīru A 'young bull' (CAD M/2 109) |
 
 ### Source
 

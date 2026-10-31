@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | parr(u) |
 | Meaning | skin, fleece (a hide with its wool); rival 'hair' |
 | Root | p-r(-w) |
+| Proto-Semitic | \*parw- ~ \*parr- (#1995) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -46,7 +47,6 @@ PH 3a .3 \]MA+RU ⅓ · PẠ-RẠ ⅓ (GORILA I 291): after the wool ligature MA
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*parw- ~ \*parr- 'skin, shell, husk' (SED I No. 217) |
 | Akkadian | paru A (parru, baru) 'skin, hide' (CAD P 209); pāru, parru, bāru 'Haut' (AHw 836) |
 | Arabic | farw- 'fur'; farwa 'a skin, but not unless having upon it fur or wool' (Lane 2390) |
 | Syriac | partā, pl. parrē 'bran, husk; scurf of the head' (Brock. 591) |

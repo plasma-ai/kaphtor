@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Šakma-se |
 | Meaning | the one of Šakmu (Shechem) (gentilic in -SE on the toponym) |
 | Root | ṯ-k-m |
+| Proto-Semitic | \*ṯVkm- ~ \*čVkm- (#2037) |
 | Language layer | NWS |
 | Category | gentilic |
 | Semantic field | personnel |
@@ -46,15 +47,15 @@ ZA 15a .7 \*363-KE-MA-SE 5, the last entry of the wine issue headed \*47-KU-NA, 
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ṯVkm- 'neck and shoulders' (semitic_roots no. 2037) |
 | Hebrew | šǝkem 'shoulder, mountain ridge'; Šǝkem Shechem, gentilic haš-šikmî (Num 26:31) |
 | Ugaritic | ṯkm 'shoulder' &gt; 'top' (DULAT 890) |
 | Amarna | KUR ša-ak-mi 'the land of Šakmu', Shechem (EA 289) |
 | Amorite | ŠKM: Šākim, DN (Gelb 1980, 33); ŠAKIM-UM, ŠA-KI-MU-UM (no. 5804) |
+| Egyptian | skmimi, Shechem, Execration Texts, Brussels E6 (Streit 2017, 64–65) |
 
 ### Source
 
-di Mino; Gelb 1980; DULAT
+di Mino; Gelb 1980; DULAT; Streit 2017
 
 ## Attestations
 

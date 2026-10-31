@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/star/star21F_RI_TU_QA
 title: "*21F-RI-TU-QA"
-desc: "ha-ritūqa: the tied, sealed (packet) (?). Lexicon, SPECULATIVE (tier 1)."
+desc: "ha-ritūqa: the tied, sealed (packet). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "vocabulary"]
 kind: "word"
 form: "*21F-RI-TU-QA"
@@ -32,8 +32,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ha-ritūqa |
-| Meaning | the tied, sealed (packet) (?) |
+| Meaning | the tied, sealed (packet) |
 | Root | r-t-q |
+| Proto-Semitic | \*rtḳ (#3712) |
 | Language layer | Semitic |
 | Category | vocabulary |
 | Semantic field | commodity |
@@ -47,12 +48,13 @@ HT 23a, K-fraction entry between E 17 and sesame in an aromatics ledger; RI dott
 | Language | Comparison |
 |---|---|
 | Ugaritic | rtq 'to tie up, close' (DULAT 737) |
+| Eblaite | ru₁₂-du-ga-tum rutuqt- 'binding, clamping' (GlOS 2, 174) |
 | Hebrew | ruttəqû 'they were bound' (Nah 3:10); rətuqôt 'chains' (Isa 40:19); rattôq (Ezek 7:23) |
 | Arabic | ratq 'closed up' (Q 21:30) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

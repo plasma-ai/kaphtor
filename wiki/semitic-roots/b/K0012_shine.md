@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0012_shine
 title: "*bahiq-: 'shine'"
-desc: "Proto-Semitic *bahiq-, 'shine': reflexes in 3 language(s)."
+desc: "Proto-Semitic *bahiq-, 'shine': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0012"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | bāhaq (Klein s.v. בהק) | Klein s.v. בהק | gloss withheld |
 | Arabic | bahiqa 'was, or became, affected with bahaq'; bahaq 'a whiteness that affects the skin' (Lane 267) | Lane 267; Anderson–Moser 2024 root bhq |  |
 | Aramaic | BHQ (C) 'to shine' (Ja. 143) | Ja. 143; Anderson–Moser 2024 root bhq |  |
 | Syrian Aramaic | ʔabheq 'shine white, glitter' (Payne Smith 36) | Payne Smith 36 |  |

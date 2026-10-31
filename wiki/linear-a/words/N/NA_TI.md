@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] kanuti / ganuti, KI, [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, KI, [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
 
 ## Unread
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0641_necklace
 title: "*ʿVnVq-: 'necklace'"
-desc: "Proto-Semitic *ʿVnVq-, 'necklace': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʿVnVq-, 'necklace': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0641"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | miʿnaqa (Tāj 26:212) | Tāj 26:212 | gloss withheld |
 | Aramaic | ʿnq 'neck'; ʿnq 'necklace' | Anderson–Moser 2024 root ʿnq |  |
 | Hebrew | ʿanaq 'necklace' | Anderson–Moser 2024 root ʿnq |  |
 | Ugaritic | ʿnq 'necklace' | Anderson–Moser 2024 root ʿnq |  |

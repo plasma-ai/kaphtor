@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šawīqu |
 | Meaning | fine flour, semolina |
 | Root | š-w-q |
+| Proto-Semitic | \*šawīḳ- (#748) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -46,7 +47,6 @@ Skeleton syk against šwq: š is written s and ḳ is written k. HT28a context i
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*šawīḳ- 'fine flour' |
 | Akkadian | šawīqu 'fine flour, semolina' |
 | Arabic | sawīq 'parched barley flour' |
 

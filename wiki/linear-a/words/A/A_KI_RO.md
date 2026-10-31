@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAkiru |
 | Meaning | ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman') |
 | Root | ʾ-k-r |
+| Proto-Semitic | \*ʾkr 1, \*ʾa/ikkār- 2 (#1810) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personnel |
 
 ### Note
 
-ARKH 4b .4 A-KI-RO 3, after the numeral \]9 that closes the entry of .3–4 and before ZA-SI-ZU\[ \]3, in a list of whole-number entries with no logogram on the face (GORILA III 14–15). Intact and undotted. A-KI-RO spells A-KI-RU-UM / A-KI-RI / A-KI-RA sign for sign, RO for the case vowel. The noun ʾikkār behind the name is this lexicon's analysis, not Gelb's. Rivals: the Akkadian name Ikkaru; A + KI-RO 'owed'.
+ARKH 4b .4 A-KI-RO 3, after the numeral \]9 that closes the entry of .3–4 and before ZA-SI-ZU\[ \]3, in a list of whole-number entries with no logogram on the face (GORILA III 14–15). Intact and undotted. A-KI-RO spells A-KI-RU-UM / A-KI-RI / A-KI-RA sign for sign, RO for the case vowel. The noun ʾikkār behind the name is this lexicon's analysis, not Gelb's. Rivals: the Akkadian name Ikkaru; A + KI-RO 'owed'. See I-KI-RA and I-KA.
 
 ### Cognates
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yašara |
 | Meaning | righteous, upright (proposed adjective modifying A-NA-NE) |
 | Root | y-š-r |
+| Proto-Semitic | \*yašar- (#1446) |
 | Language layer | NWS |
 | Category | adjective |
 | Semantic field | ethical/ritual |
 
 ### Note
 
-PS #1446 \*yašar- "straight, right." In KN Zc 7 the sequence is written continuously as JA-SA-RA-A-NA-NE; the proposed segmentation JA-SA-RA \| A-NA-NE gives \*yašara ḥanān\*, "righteous grace." Because no divider marks the boundary on this inked vessel, both the segmentation and adjectival syntax remain provisional. A verbal jussive, "may she make right," is a possible rival but is not the preferred translation.
+In KN Zc 7 the sequence is written continuously as JA-SA-RA-A-NA-NE; the proposed segmentation JA-SA-RA \| A-NA-NE gives \*yašara ḥanān\*, "righteous grace." Because no divider marks the boundary on this inked vessel, both the segmentation and adjectival syntax remain provisional. A verbal jussive, "may she make right," is a possible rival but is not the preferred translation. Ebla has the form as a name, a-sa-ra yašara 'the just one' (Pagan 1998, row 804). See JA-SA-SA-RA-ME and JA-SA.
 
 ### Cognates
 
@@ -53,7 +54,7 @@ PS #1446 \*yašar- "straight, right." In KN Zc 7 the sequence is written continu
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998
 
 ## Attestations
 

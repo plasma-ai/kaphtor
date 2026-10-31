@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | naḥāši |
 | Meaning | copper, bronze (commodity category) |
 | Root | n-ḥ-š (PS \*naḥaš-) |
+| Proto-Semitic | \*nVḥVš- (#2745) |
 | Language layer | NWS |
 | Category | noun |
 | Semantic field | commodity |
 
 ### Note
 
-KH7a (Khania, LMIB): section heading for 10 copper-workers (VIR+\*313b 10) receiving ½ unit CYP+D. Three named worker groups on the tablet, each with CYP+D copper allocation \|\| ETYMOLOGY: Skeleton n-s against PS \*naḥaš- 'snake', with interior ḥ unwritten (no \*314 sign on any KH tablet). Prosthetic E- not standard for this root (Hebrew neḥōšet has no initial vowel)—possible adjectival/nisbe naḥāšī 'of copper' or dialectal prosthesis before initial nasal \|\| The dual meaning 'serpent/copper' (shared shininess) is pan-Semitic; Hebrew neḥushtan collapses both into Moses' bronze serpent (Num 21:9).
+KH7a (Khania, LMIB): section heading for 10 copper-workers (VIR+\*313b 10) receiving ½ unit CYP+D. Three named worker groups on the tablet, each with CYP+D copper allocation \|\| ETYMOLOGY: Skeleton n-s against naḥaš- 'snake; bronze', with interior ḥ unwritten (no \*314 sign on any KH tablet). The copper sense is Bronze Age: Emar naḫšu 'bronze(-vessel)', Amarna nuḫuštu (GlOS 2, 87). Prosthetic E- not standard for this root (Hebrew neḥōšet has no initial vowel)—possible adjectival/nisbe naḥāšī 'of copper' or dialectal prosthesis before initial nasal \|\| The dual meaning 'serpent/copper' (shared shininess) is pan-Semitic; Hebrew neḥushtan collapses both into Moses' bronze serpent (Num 21:9).
 
 ### Cognates
 
@@ -54,7 +55,7 @@ KH7a (Khania, LMIB): section heading for 10 copper-workers (VIR+\*313b 10) recei
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

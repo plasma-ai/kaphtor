@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾaripāʾ / ʿarpa |
 | Meaning | healer, Rephaim (√r-p-ʾ) OR clouds (√ʿ-r-p, Baal epithet rkb ʿrpt) |
 | Root | r-p-ʾ / ʿ-r-p |
+| Proto-Semitic | \*rVpVʾ- (#K0355) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | divine |
 
 ### Note
 
-Ug. rpum KTU 1.20–22 (Rephaim as ancestral healers/shades), Amorite Rapiʾum (Gelb AS 21 no. 5238), r-p-ʾ names at Mari and Alalakh (GlOS 2, 168); alt. Ug. ʿrpt 'clouds' from rkb ʿrpt 'Rider of Clouds' (Baal epithet, = Ps 68:5). PE2 Petras. Guttural ʿ drops transparently.
+Ug. rpum KTU 1.20–22 (Rephaim as ancestral healers/shades), Amorite Rapiʾum (Gelb AS 21 no. 5238), r-p-ʾ names at Mari and Alalakh (GlOS 2, 168); alt. Ug. ʿrpt 'clouds' from rkb ʿrpt 'Rider of Clouds' (Baal epithet, = Ps 68:5). PE2 Petras. Guttural ʿ drops transparently. See RP-33-Y and A-RE-PI-RE-NA.
 
 ### Cognates
 
@@ -57,7 +58,7 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PE/PE/PE2\|PE2]] | Petras | Tablet | none |
 
 <!-- END kaphtor:record -->

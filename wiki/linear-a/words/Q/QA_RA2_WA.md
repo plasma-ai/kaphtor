@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qalwa |
 | Meaning | parched (roasted) grain; rival Ugaritic qrwn 'offering' |
 | Root | q-l-w |
+| Proto-Semitic | \*ḳVlVw- (#798) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-HT 86a, intact: QA-RA₂-WA 10, where HT 95a/b write QE-RA₂-U (qelwu 'parched grain') in the same set (KU-NI-SU, SA-RU, DI-DE-RU, DA-ME, MI-NU-TE). With RA₂ = /la/, PS √q-l-w 'roast': Geʿez qalawa, Heb. qālî (Lev 23:14; Ruth 2:14), Aram. qəlā. Rival: Ugaritic qrwn 'offering' (DULAT 703; KTU 1.127:10–11), with RA₂ = /ra/ and final n unwritten. Cf. LB qa-ra₂-wo, a personal name (KN Ce 50; DMic II). One attestation.
+HT 86a, intact: QA-RA₂-WA 10, where HT 95a/b write QE-RA₂-U (qelwu 'parched grain') in the same set (KU-NI-SU, SA-RU, DI-DE-RU, DA-ME, MI-NU-TE). With RA₂ = /la/, √q-l-w 'roast': Geʿez qalawa, Heb. qālî (Lev 23:14; Ruth 2:14), Aram. qəlā. Rival: Ugaritic qrwn 'offering' (DULAT 703; KTU 1.127:10–11), with RA₂ = /ra/ and final n unwritten. Cf. LB qa-ra₂-wo, a personal name (KN Ce 50; DMic II). One attestation.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | qālî 'roasted grain', eaten before the first-fruits offering, Lev 23:14 (HALOT 1102) |
+| Akkadian | qalītu 'parched grain' (CAD Q 59); qalû 'roasted' (CAD Q 68) |
+| Arabic | qalā 'he fried wheat, roasted it in a pan' (Lane 2993) |
 
 ### Source
 

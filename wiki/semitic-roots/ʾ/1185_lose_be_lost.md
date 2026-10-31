@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ʾabbädä, ʿabädä (LGz. 2) | LGz. 2 | gloss withheld |
 | Amharic | abbädä (LGz. 2) | LGz. 2 | gloss withheld |
 | Soqotri | šɛʔɛ́bid (CSOL I 464 apud SEDonline 1992) | SEDonline 1992 | gloss withheld |
-| Eblaitic | a-ba-ad, a-ba-tum, a-buₓ-du /ʾ-b-d/ (Sanmartín GlOS 1, 4); a-ba-tum, a-buₓ(NI)-du = Sum. a-záḫ (VE 610; Civil 2017, 119) | Sanmartín GlOS 1, 4; VE 610; Civil 2017, 119 | gloss withheld |
+| Eblaitic | a-ba-ad, a-ba-tum, a-buₓ-du /ʾ-b-d/ (Sanmartín GlOS 1, 4); a-ba-tum, a-buₓ(NI)-du = Sum. a-záḫ (VE 610; Civil 2017, 119); a-ba-tum /ʾabātu(m)/ (G inf.), a-buₓ(NI)-du /ʾabbutu(m)/ (D inf.) (VE 610; Hajouz 2013, 35) | Sanmartín GlOS 1, 4; VE 610; Civil 2017, 119; Hajouz 2013, 35 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

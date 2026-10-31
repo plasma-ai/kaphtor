@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star
 desc: "Words that open with a sign known by its number, such as *306."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-28T21:37:27Z
+updated: 2026-10-31T14:13:39Z
 ---
 
 # wiki/linear-a/words/star
@@ -27,7 +27,7 @@ updated: 2026-10-28T21:37:27Z
 
 [[wiki/linear-a/words/star/star21F_JA_DU|star21F_JA_DU]]: Ḥayya-ʾAddu: personal name, 'Addu lives'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/star/star21F_RI_TU_QA|star21F_RI_TU_QA]]: ha-ritūqa: the tied, sealed (packet) (?). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/star/star21F_RI_TU_QA|star21F_RI_TU_QA]]: ha-ritūqa: the tied, sealed (packet). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/star/star21F_TU_NE|star21F_TU_NE]]: hatune: bridegroom, son-in-law (or: the bridegroom). Lexicon, CANDIDATE (tier 2).
 

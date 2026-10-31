@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3037_to_stir
 title: "*bḥš: 'to stir'"
-desc: "Proto-Semitic *bḥš, 'to stir': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bḥš, 'to stir': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3037"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | bāḥaš (Klein s.v. בחש) | Klein s.v. בחש | gloss withheld |
 | Akkadian | beʾēšu (baʾāšu, baḫāšu) (CAD B 185) | CAD B 185 | gloss withheld |
 | Syrian Aramaic | bḥaš 'stir, shake, agitate; hasten' (Payne Smith 41) | Payne Smith 41 |  |
 

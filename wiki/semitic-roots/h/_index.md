@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/h
 desc: "Semitic roots whose first radical is h."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-29T00:24:55Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/h
@@ -115,6 +115,8 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/h/3724_they_two_3rd_person_dual_pronoun|3724_they_two_3rd_person_dual_pronoun]]: Proto-Semitic *hm, 'they two (3rd person dual pronoun)': reflexes in 3 language(s).
 
+[[wiki/semitic-roots/h/3835_to_blow_of_wind|3835_to_blow_of_wind]]: Proto-Semitic *hbb, 'to blow (of wind)': reflexes in 3 language(s).
+
 [[wiki/semitic-roots/h/453_go_ahead_in_awe|453_go_ahead_in_awe]]: Proto-Semitic *hVṭaʕ-, 'go ahead in awe': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/h/45_hero|45_hero]]: Proto-Semitic *humām-, 'hero': reflexes in 1 language(s).
@@ -141,7 +143,7 @@ updated: 2026-10-29T00:24:55Z
 
 [[wiki/semitic-roots/h/984_a_little|984_a_little]]: Proto-Semitic *hunay-, 'a little': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/h/K0080_myrtle|K0080_myrtle]]: Proto-Semitic *hadas-, 'myrtle': reflexes in 5 language(s).
+[[wiki/semitic-roots/h/K0080_myrtle|K0080_myrtle]]: Proto-Semitic *hadas-, 'myrtle': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/h/K0081_lead|K0081_lead]]: Proto-Semitic *haday-, 'lead': reflexes in 5 language(s).
 

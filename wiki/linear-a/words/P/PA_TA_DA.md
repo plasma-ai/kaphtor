@@ -41,6 +41,13 @@ updated: 2026-10-24T16:17:50Z
 
 PH(?) 31a .3 PA-TA-DA\[, after KU-PA₃-NU SUS+SI+RE 1, broken after DA at the line end; HT Zb 160 PA-TA-DA DU-PU₂-RE\[, a vessel label 'Patada: to the sanctuary'. Egyptian ptḥ-dj⸗f, a man's name under Thutmose IV–Amenhotep III (PNM v6, Louvre C 277), the ḥ and the ⸗f unwritten; Amarna writes Ptah -ptaḫ in Ḫi-ku-up-ta-aḫ (EA 84:37; RGTC 12/2, 105). Rival: Hurrian pṭḏ, a man at Ugarit (KTU 4.357:23; DULAT 676).
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | ptḥ-dj⸗f, a man's name (PNM v6, personal_names_id 142614558) |
+| Ugaritic | pṭḏ PN, Hurrian (DULAT 676), the rival |
+
 ### Source
 
 Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino
@@ -49,7 +56,7 @@ Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none |
+| [[wiki/linear-a/inscriptions/PH/PH/PH_q_31a\|PH(?)31a]] | Phaistos | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTZb/HTZb160\|HTZb160]] | Haghia Triada | Clay vessel | complete |
 
 ## In translations

@@ -34,12 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | zēru |
 | Meaning | seed-grain (agricultural category marker for planting stock allocations) |
 | Root | z-r-ʕ |
+| Proto-Semitic | \*ʒVry/ʾ/ʕ- ~ \*ǯVry/ʾ/ʕ, \*ʒry/wʾ/ʕ ~ \*ǯry/w/ʾ/ʕ (#1815) |
 | Language layer | NWS (PS \*zVrVʕ-) |
 | Semantic field | administrative |
 
 ### Note
 
-47 total attestations (40 HTWa nodules + 6 KHWa nodules + 1 multi-word HT16). On standalone nodules, marks sealed goods as seed-grain category, distinct from GRA (harvested grain). HT16 context: SA-PO ZE 1/16 — smallest fractional allocation on a distribution tablet. Pan-Semitic: Akk zēru 'seed, acreage' (OAkk on), Heb zeraʿ 'seed', Phoen zrʕ, Aram zǝraʿ (Empire, Egyptian, Biblical, Judaic, Syriac, Mandaic). LMIB-only dating consistent with seasonal planting batch.
+47 total attestations (40 HTWa nodules + 6 KHWa nodules + 1 multi-word HT16). On standalone nodules, marks sealed goods as seed-grain category, distinct from GRA (harvested grain). HT16 context: SA-PO ZE 1/16 — smallest fractional allocation on a distribution tablet. Pan-Semitic: Akk zēru 'seed, acreage' (OAkk on), Heb zeraʿ 'seed', Phoen zrʕ, Aram zǝraʿ (Empire, Egyptian, Biblical, Judaic, Syriac, Mandaic). LMIB-only dating consistent with seasonal planting batch. See \*305-RU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | zēru 'seed, acreage, semen, descendants' (CAD Z 89) |
+| Ugaritic | d/ḏrʕ 'seed, seed-grain, sowing' (DULAT 278) |
+| Hebrew | zeraʿ 'seed, offspring' (HALOT 282) |
+| Phoenician | zrʿ 'seed, offspring' (Krahmalkov 174) |
+| Amorite | ḎRʿ 'sow, seed': jaḏraʿ, ḏarʿum (Gelb AS 21, 18) |
 
 ## Attestations
 

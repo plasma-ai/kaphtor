@@ -32,7 +32,7 @@ updated: 2026-10-25T06:28:07Z
 | Arabic | haraba 'fled; ran away' (Lane 2889); mahrab 'a place to which one flees; a place of refuge' (Lane 2889) | Lane 2889 |  |
 | Pre-Islamic North Arabian | Safaitic hrb (Al-Jallad–Jaworska 78) | Al-Jallad–Jaworska 78 | gloss withheld |
 | Epigraphic South Arabian | Sab hrb (SD 56) | SD 56 | gloss withheld |
-| Eblaitic | ʔà-ra/la-bù-um /h-r-b/ (Sanmartín GlOS 1, 219); ʔà-ra-bu-um = Sum. ba-kar (VE 1027; Civil 2017, 119) | Sanmartín GlOS 1, 219; VE 1027; Civil 2017, 119 | gloss withheld |
+| Eblaitic | ʔà-ra/la-bù-um /h-r-b/ (Sanmartín GlOS 1, 219); ʔà-ra-bu-um = Sum. ba-kar (VE 1027; Civil 2017, 119), /harābum/ (Krebernik 1983, 37) | Sanmartín GlOS 1, 219; VE 1027; Civil 2017, 119; Krebernik 1983, 37 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

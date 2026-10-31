@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*118 1 ³⁄₄
+1. \]\*118 1 ³⁄₄
 2. SI+ME-KI-\*118 1 ³⁄₄
 3. \*539-\*118 1
 

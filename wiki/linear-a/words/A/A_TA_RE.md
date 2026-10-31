@@ -41,6 +41,12 @@ updated: 2026-10-24T16:17:50Z
 
 ZA 8 .1 KI-RA · A-TA-RE · NI ½, intact, heading the fig list (GORILA III 165). Egyptian Ḥw.t-Ḥr.w Hathor, Lady of the Sycomore (nb.t-nh.t, 5th Dyn.; 'Lady of the Southern Sycomore' in the Praise of Memphis, pSallier IV vso.). A writes the dropped ḥ, TA-RE t-ḥr. One witness.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | Ḥw.t-Ḥr.w 'Hathor' (AED lemma 99960; Wb 3, 5.11) |
+
 ### Source
 
 di Mino

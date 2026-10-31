@@ -17,6 +17,7 @@ updated: 2026-10-22T18:14:10Z
 | `reading` | phonetic reconstruction, or null where none is proposed |
 | `meaning` | English gloss |
 | `root` | consonantal root, where one is proposed |
+| `proto_semitic` | the `semitic_roots.json` record the reading rests on, `{"id", "form"}`, or a list of them for a compound; absent where no record fits and on grammatical endings |
 | `cognates` | cognate forms by language (an object), or a sentence |
 | `tier`, `confidence` | 4 CONFIRMED, 3 PROBABLE, 2 CANDIDATE, 1 SPECULATIVE |
 | `confidence_score` | a score from 0 to 1 that ranks entries within a tier |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/1052_to_be_completed
 title: "*tmm: '(to be) completed'"
-desc: "Proto-Semitic *tmm, '(to be) completed': reflexes in 8 language(s)."
+desc: "Proto-Semitic *tmm, '(to be) completed': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1052"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | tǝmm; tǝmūm (Rubin 2018 135, 236) | Rubin 2018 135, 236 | gloss withheld |
 | Arabic | tmm 'to be complete, accomplished' (Lane 315) | Lane 315 |  |
 | Mandaic Aramaic | tmm |  | gloss withheld |
 | Ugaritic | tm |  | gloss withheld |

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Majd |
 | Meaning | personal name, 'glory' (masculine) |
 | Root | m-g-d |
+| Proto-Semitic | \*magd- (#3225) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 1 and QA-TI-JU 8 (GORILA III 181). Safaitic MJD (Harding 1971, 528); Hebrew meged 'excellence'. The masculine of MA-KI-DE-TE (ZA 10b). Rival: Ugaritic mkt 'immolation, offering (?)'. One document.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Safaitic | MJD, a personal name, 25 Safaitic (Harding 1971, 528) |
+| Arabic | majd 'glory, honour, nobility' (Lane 2689) |
 
 ### Source
 

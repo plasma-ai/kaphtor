@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/SA123_completion_of_job
 title: "*wʕb: 'completion of job'"
-desc: "Epigraphic South Arabian headword *wʕb, 'completion of job': reflexes in 1 language(s)."
+desc: "Epigraphic South Arabian headword *wʕb, 'completion of job': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA123"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | waʕaba; istawʕaba (Tāj 4:350); wʕb (BK 2 1565) | Tāj 4:350; BK 2 1565 | gloss withheld |
 | Epigraphic South Arabian | Sab wʿb (SD 154, 155; Biella 134; Sabaweb lemma 5335) | SD 154, 155; Biella 134; Sabaweb lemma 5335 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

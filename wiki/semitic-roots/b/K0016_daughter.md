@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0016_daughter
 title: "*bint-: 'daughter'"
-desc: "Proto-Semitic *bint-, 'daughter': reflexes in 7 language(s)."
+desc: "Proto-Semitic *bint-, 'daughter': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0016"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Qat. bnt (Ricks 1982 s.v. bnt) | Ricks 1982 s.v. bnt | gloss withheld |
 | Akkadian | bintu 'daughter' | Anderson–Moser 2024 root bnt |  |
 | Hebrew | bat 'daughter' | Anderson–Moser 2024 root bnt |  |
 | Punic | bt 'daughter' | Anderson–Moser 2024 root bnt |  |

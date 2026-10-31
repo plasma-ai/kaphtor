@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/O/O_SU_QA_RE
 title: "O-SU-QA-RE"
-desc: "ʾō Sukar: O Sokar (Egyptian Skr), the deity addressed; rival Ušḫara the Snake. Lexicon, CANDIDATE (tier 2)."
+desc: "ʾō Sukar: O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "divine_name"]
 kind: "word"
 form: "O-SU-QA-RE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾō Sukar |
-| Meaning | O Sokar (Egyptian Skr), the deity addressed; rival Ušḫara the Snake |
+| Meaning | O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur |
 | Root | s-k-r |
 | Language layer | Middle Egyptian |
 | Category | divine_name |
@@ -40,11 +40,18 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-TL Za 1 A-TA-I-\*301-WA-JA · O-SU-QA-RE ·, the deity slot of the libation formula. ʾō Sukar: vocative ʾō (Geʿez ʾo-, Leslau 1987, 1) + Egyptian Skr 'Sokar', final E dead after r (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr, only as úšḫr ḫlmẓ 'Ušḫara the Snake' (KTU 1.115:2, 12; DULAT 113), from Akk. Išḫara, with QA where KA writes ḫ. One witness.
+TL Za 1 A-TA-I-\*301-WA-JA · O-SU-QA-RE ·, the deity slot of the libation formula. ʾō Sukar: vocative ʾō (Geʿez ʾo-, Leslau 1987, 1) + Egyptian Skr 'Sokar', final E dead after r (di Mino, Ya Diktu). Rival: Ušḫara, Ugaritic úšḫr, only as úšḫr ḫlmẓ 'Ušḫara the Snake' (KTU 1.115:2, 12; DULAT 113), from Akk. Išḫara, with QA where KA writes ḫ. Rival: ʾAšqur, an Amorite DN in names at Mari and Alalakh (aš-kur-ᵈIM), with O for ʾa; Sanmartín derives it from \|S-ḳ-r\| 'the very high one' (GlOS 2, 195; cf. Akk. zaqāru), Gelb from ŚKR 'to remember' (AS 21, nos. 949–950). One witness.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | Zkr 'Sokar' (AED lemma 146890; Wb 3, 487.13) |
+| Ugaritic | ủšḫr DN, from Akkadian Išḫara (DULAT 113), the rival |
 
 ### Source
 
-di Mino, Ya Diktu; DULAT 113
+di Mino, Ya Diktu; DULAT 113; GlOS 2, 195; Gelb, AS 21
 
 ## Attestations
 

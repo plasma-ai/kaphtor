@@ -61,12 +61,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO\|RO]] | rōš | PROBABLE |
 | [[wiki/linear-a/words/R/RO_E\|RO-E]] | rōʿē | SPECULATIVE |
-| [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōkēl | SPECULATIVE |
+| [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōqēaḥ | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_QA\|RO-QA]] | rōqaḥ | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_RO\|SA-MA-RO]] | Samarō | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | SPECULATIVE |
-| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar/Tamar | CANDIDATE |
+| [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |
 
 <!-- END kaphtor:record -->

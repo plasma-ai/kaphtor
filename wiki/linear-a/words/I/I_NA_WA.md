@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾi-nawā |
 | Meaning | the dwelling, abode (sanctuary as divine habitation) |
 | Root | n-w-y |
+| Proto-Semitic | \*nwy (#3654) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | ritual |

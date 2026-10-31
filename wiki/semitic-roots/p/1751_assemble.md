@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1751_assemble
 title: "*pVḫVr-: 'assemble'"
-desc: "Proto-Semitic *pVḫVr-, 'assemble': reflexes in 8 language(s)."
+desc: "Proto-Semitic *pVḫVr-, 'assemble': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1751"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | pḫr: japḫur, puḫ(u)r, puḫrum, puḫurtum (Gelb AS 21, 28); yapḫur (Buck 2019, 331) | Gelb AS 21 28; Buck 2019, 331 | gloss withheld |
 | Phoenician | mpḥrt (DNWSI 673 apud SEDonline 3) | DNWSI 673; SEDonline 3 | gloss withheld |
 | Epigraphic South Arabian | Sab fḫr (Biella 402) (Sabaweb lemma 2629) | Biella 402; Sabaweb lemma 2629 | gloss withheld |
+| Eblaitic | ba-ḫa-lumᵘᵐ /paḫārum/ (= Sum. KA-kin, VE 222, source D) (Fronzaroli 1995, 57) | VE 222; Fronzaroli 1995, 57 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

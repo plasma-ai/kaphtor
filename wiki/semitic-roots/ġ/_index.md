@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ġ
 desc: "Semitic roots whose first radical is ġ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ġ
@@ -81,7 +81,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ġ/3103_to_give_birth_animals|3103_to_give_birth_animals]]: Proto-Semitic *ɣyg, 'to give birth (animals)': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ġ/3115_to_drown|3115_to_drown]]: Proto-Semitic *ɣrḳ, 'to drown': reflexes in 3 language(s).
+[[wiki/semitic-roots/ġ/3115_to_drown|3115_to_drown]]: Proto-Semitic *ɣrḳ, 'to drown': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ġ/3116_to_cover_to_wrap_to_make_obscure_invisible|3116_to_cover_to_wrap_to_make_obscure_invisible]]: Proto-Semitic *ɣmd, 'to cover, to wrap, to make obscure, invisible': reflexes in 2 language(s).
 
@@ -115,7 +115,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ġ/3314_yoke_collar|3314_yoke_collar]]: Proto-Semitic *ɣull-, 'yoke, collar': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/ġ/3315_to_immerse_plunge_to_swim_dive_to_disappear|3315_to_immerse_plunge_to_swim_dive_to_disappear]]: Proto-Semitic *ɣms, 'to immerse, plunge; to swim, dive; to disappear': reflexes in 8 language(s).
+[[wiki/semitic-roots/ġ/3315_to_immerse_plunge_to_swim_dive_to_disappear|3315_to_immerse_plunge_to_swim_dive_to_disappear]]: Proto-Semitic *ɣms, 'to immerse, plunge; to swim, dive; to disappear': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/ġ/3337_to_know|3337_to_know]]: Proto-Semitic *ɣrb, 'to know': reflexes in 3 language(s).
 
@@ -142,6 +142,8 @@ updated: 2026-10-28T20:08:42Z
 [[wiki/semitic-roots/ġ/3736_rancour_malice_to_be_filled_with_hatred|3736_rancour_malice_to_be_filled_with_hatred]]: Proto-Semitic *ɣll, 'rancour, malice; to be filled with hatred': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ġ/3739_to_be_in_excess_surplus_to_be_profuse|3739_to_be_in_excess_surplus_to_be_profuse]]: Proto-Semitic *ɣdp, 'to be in excess, surplus; to be profuse': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ġ/3840_to_pamper_oneself_take_delight_1_pampered_delica|3840_to_pamper_oneself_take_delight_1_pampered_delica]]: Proto-Semitic *ġng, 'to pamper oneself, take delight' 1, 'pampered, delicate' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ġ/778_dust|778_dust]]: Proto-Semitic *ɣabar-, 'dust': reflexes in 2 language(s).
 

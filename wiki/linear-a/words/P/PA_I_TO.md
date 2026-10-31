@@ -41,6 +41,13 @@ updated: 2026-10-24T16:17:50Z
 
 Same spelling in Linear B—direct overlap.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | byšt, recarved on the Kom el-Hetan Aegean list of Amenhotep III, identified with Phaistos (Cline and Stannish 2011, 7–9) |
+| Linear B | pa-i-to, the town, on the Knossos sheep tablets (KN Da 1163, Da 1156, Db 1159 and others) |
+
 ### Source
 
 Gordon 1966; Linear B overlap
@@ -81,6 +88,6 @@ Reading from the lexicon (Gordon 1966; Linear B pa-i-to).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] kanuti / ganuti, KI, [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretana.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, KI, [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretana.
 
 <!-- END kaphtor:record -->

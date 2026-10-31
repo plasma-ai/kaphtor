@@ -34,17 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿAmmī-dāʿ(u) |
 | Meaning | My kinsman knows (sentence name) |
 | Root | ʿ-m-m + y-d-ʿ |
+| Proto-Semitic | \*ʕamm- (#44) + \*ydʕ (#2500) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Kinship-theophoric sentence name: ʿammī 'my kinsman (as divine epithet)' + dāʿ (√y-d-ʿ 'know'). Both elements independently productive—ʿammī- in ʿAmmîšaddāy (Num 1:12), ʿAmmînādāb (Exod 6:23), ʿAmmîhûd (Num 1:10), Amorite royal Ammi-ditana/Ammi-ṣaduqa; -dāʿ in ʾĂbîdāʿ and ʾEldāʿā (both Gen 25:4), ʾElyādāʿ (2 Sam 5:16), Ugaritic ydʿ attested as personal/divine name. The abī-/aḫī-/ʿammī- rotation (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab—all on one base) makes ʿAmmī-dāʿ a predicted paradigm cell beside attested ʾĂbî-dāʿ. Initial ʿa- &gt; A per guttural dropping; qty 1 on ZA10a among personal names. A-MI-DA-O (PH(?) 31b.5) is broken at the start, \]A-MI-DA-O (GORILA I 319), and is not counted. RIVAL: a Hurrian-layer name (cf. MI-TA). Cf. JA-DA-SU (yadaʿšu), same verbal root. Howard (JSS 68.1, 2023) tabulates the ʿAmmī+verb sentence-name template in the appendix (ʿAmmi-yepuʿ, kings of Talhayum, attested Mari/Terqa/Šeḥna), with ʾIli-yepaʿ at Alalah showing the first-element rotation in cuneiform.
+Kinship-theophoric sentence name: ʿammī 'my kinsman (as divine epithet)' + dāʿ (√y-d-ʿ 'know'). Both elements independently productive—ʿammī- in ʿAmmîšaddāy (Num 1:12), ʿAmmînādāb (Exod 6:23), ʿAmmîhûd (Num 1:10), Amorite royal Ammi-ditana/Ammi-ṣaduqa; -dāʿ in ʾĂbîdāʿ and ʾEldāʿā (both Gen 25:4), ʾElyādāʿ (2 Sam 5:16), Ugaritic ydʿ attested as personal/divine name. The abī-/aḫī-/ʿammī- rotation (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab—all on one base) makes ʿAmmī-dāʿ a predicted paradigm cell beside attested ʾĂbî-dāʿ. Initial ʿa- &gt; A per guttural dropping; qty 1 on ZA10a among personal names. A-MI-DA-O (PH(?) 31b.5) is broken at the start, \]A-MI-DA-O (GORILA I 319), and is not counted. RIVAL: a Hurrian-layer name (cf. MI-TA). Cf. JA-DA-SU (yadaʿšu), same verbal root. Howard (JSS 68.1, 2023) tabulates the ʿAmmī+verb sentence-name template in the appendix (ʿAmmi-yepuʿ, kings of Talhayum, attested Mari/Terqa/Šeḥna), with ʾIli-yepaʿ at Alalah showing the first-element rotation in cuneiform. See \*306+MI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | ʿamm-ī-ʾIl 'ʾIl is my uncle'; yādaʿ-ʾabu 'father knows' (Pagan 1998, rows 718, 538) |
+| Amorite | noun-ī + dāʿ: Śamī-dāʿum, Śamšī-dāʿī; Yadaʿ-ʿammu (Gelb 1980, nos. 5450, 6272, 3172) |
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; Gelb 1980
 
 ## Attestations
 

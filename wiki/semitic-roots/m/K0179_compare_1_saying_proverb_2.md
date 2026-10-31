@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0179_compare_1_saying_proverb_2
 title: "*mVṯVl-: 'compare' 1, 'saying, proverb' 2"
-desc: "Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0179"
@@ -29,6 +29,7 @@ updated: 2026-10-26T15:47:57Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Aramaic | mᵉtal 1 (Klein s.v. משׁל ᴵᴵ) | Klein s.v. משׁל ᴵᴵ | gloss withheld |
 | Akkadian | mašālu 'equal' | Anderson–Moser 2024 root mṯl |  |
 | Geez | masala 'like' | Anderson–Moser 2024 root mṯl |  |
 | Hebrew | mšl; mōšel (HALOT 647, 648); māšāl 2 (HALOT 648) | HALOT 647, 648; HALOT 648 | gloss withheld |

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṣarār- |
 | Meaning | bundle, bag (commodity or container) |
 | Root | ṣ-r-r |
+| Proto-Semitic | \*ṣrr (#3607) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | commodity |
 
 ### Note
 
-HT 30 .3 SA-RA-RA ½: three separate signs, both RA of the plain form (RA₂ in SA-RA₂ on .1), on a tablet written over an erasure, between QA2+\[?\]+PU ⅕ and \*23M 1 (GORILA I 57). The tablet lists commodities with fractions and no names. Heb. I צְרוֹר 'little pack, bag', for money (Gen 42:35) and myrrh (Song 1:13), JArm. Syr. ṣərārā 'bundle, bag', Arab. ṣurrat 'purse' (HALOT 1054); Ug. mṣrr(t), a piece of fabric or a garment (DULAT 581). Rival: a personal name (Heb. Šārār, 2 Sam 23:33), against the slot. One attestation.
+HT 30 .3 SA-RA-RA ½: three separate signs, both RA of the plain form (RA₂ in SA-RA₂ on .1), on a tablet written over an erasure, between QA2+\[?\]+PU ⅕ and \*23M 1 (GORILA I 57). The tablet lists commodities with fractions and no names. Heb. I צְרוֹר 'little pack, bag', for money (Gen 42:35) and myrrh (Song 1:13), JArm. Syr. ṣərārā 'bundle, bag', Arab. ṣurrat 'purse' (HALOT 1054). Rival: a personal name (Heb. Šārār, 2 Sam 23:33), against the slot. One attestation.
 
 ### Cognates
 
@@ -48,10 +49,11 @@ HT 30 .3 SA-RA-RA ½: three separate signs, both RA of the plain form (RA₂ in 
 |---|---|
 | Hebrew | צְרוֹר ṣərôr "little pack, bag" (HALOT 1054) |
 | Aramaic | ṣərārā "bundle, bag" |
+| Ugaritic | mṣrr(t) 'a piece of fabric or a garment' (DULAT 581); 'bundle, parcel' (GlOS 2, 224) |
 
 ### Source
 
-HALOT 1054; di Mino
+HALOT 1054; DULAT 581; GlOS 2; di Mino
 
 ## Attestations
 

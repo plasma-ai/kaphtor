@@ -57,8 +57,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_star118_SA\|QA-\*118-SA]] | qaṭʿ-ša | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
-| [[wiki/linear-a/words/Q/QA_KI_TI\|QA-KI-TI]] | qaqqiti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_NE\|QA-NE]] | qanē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_NU_MA\|QA-NU-MA]] | qanūma | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_PA3\|QA-PA₃]] | qubaʿ | PROBABLE |
@@ -70,5 +70,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_TI_JU\|QA-TI-JU]] | Qātilu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_QA\|RO-QA]] | rōqaḥ | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | SPECULATIVE |
 
 <!-- END kaphtor:record -->

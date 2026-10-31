@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_SA_SA_RA_ME
 title: "A-SA-SA-RA-ME"
-desc: "ʾaššaram: uprightly (variant of yaššaram, ʾa- for ya-). Lexicon, CONFIRMED (tier 4)."
+desc: "ʾaššaram: uprightly, in righteousness (variant of yaššaram, ʾa- for ya-). Lexicon, CONFIRMED (tier 4)."
 tags: ["linear-a", "word", "tier-4", "ritual"]
 kind: "word"
 form: "A-SA-SA-RA-ME"
@@ -10,7 +10,7 @@ tier: 4
 confidence: "CONFIRMED"
 confidence_score: 0.85
 reading: "ʾaššaram"
-attestations: ["IOZb10", "PRZa1"]
+attestations: ["IOZb10", "PRZa1", "PKZa11"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -32,15 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾaššaram |
-| Meaning | uprightly (variant of yaššaram, ʾa- for ya-) |
+| Meaning | uprightly, in righteousness (variant of yaššaram, ʾa- for ya-) |
 | Root | y-š-r |
+| Proto-Semitic | \*yašar- (#1446) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Iouktas and Prassa variant (on PRZa1 RA is drawn reversed, the A802 form, and normalized RA in GORILA IV 48) with ʾA- prefix instead of JA- (ya-). Ebla writes the same base with a- for ya-: names a-sa-ar, a-sa-ra /yaSar/, beside Amorite ia-sa-rum and a-ša-ru-um (Sanmartín GlOS 2, 377; semitic_roots 1446). The prefix alternation JA-/A- parallels the formula verb (A-TA-I-\*301-WA-JA vs. JA-TA-I-\*301-U-JA), suggesting these are person markers or article variants, not different roots. Huehnergard: /yušru/ "uprightness" (yuCCu nominal pattern); confirms adverbial accusative with -m. \|\| COGNATES: those of JA-SA-SA-RA-ME, whose reading this spelling shares.
+Iouktas, Prassa and Palaikastro variant (on PRZa1 RA is drawn reversed, the A802 form, and normalized RA in GORILA IV 48) with ʾA- prefix instead of JA- (ya-). PK Za 11 writes · A, then SA-SA-RA-ME · on the next line, no divider between. Ebla writes the same base with a- for ya-: names a-sa-ar, a-sa-ra /yaSar/, beside Amorite ia-sa-rum and a-ša-ru-um (Sanmartín GlOS 2, 377). The prefix alternation JA-/A- parallels the formula verb (A-TA-I-\*301-WA-JA vs. JA-TA-I-\*301-U-JA), suggesting these are person markers or article variants, not different roots. Huehnergard: /yušru/ "uprightness" (yuCCu nominal pattern); confirms adverbial accusative with -m. \|\| COGNATES: those of JA-SA-SA-RA-ME, whose reading this spelling shares.
 
 ### Cognates
 
@@ -65,12 +66,14 @@ Gordon 1966; di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/IO/IOZb/IOZb10\|IOZb10]] | Iouktas | Clay vessel | complete |
 | [[wiki/linear-a/inscriptions/PR/PRZa/PRZa1\|PRZa1]] | Prassa | Stone vessel | complete |
+| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa11\|PKZa11]] | Palaikastro | Stone vessel | complete; form not in transliteration |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/IO/IOZb/IOZb10\|IOZb10]] | ʾaššaram | uprightly (variant of yaššaram, ʾa- for ya-) |  |
+| [[wiki/linear-a/inscriptions/PK/PKZa/PKZa11\|PKZa11]] | ʾaššaram | uprightly, in righteousness (cf. IO Za 2) | CONFIRMED |
 | [[wiki/linear-a/inscriptions/PR/PRZa/PRZa1\|PRZa1]] | ʾaššaram | uprightly (variant of yaššaram, ʾa- for ya-) | CONFIRMED |
 
 <!-- END kaphtor:record -->

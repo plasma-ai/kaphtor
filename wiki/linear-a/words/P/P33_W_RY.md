@@ -33,12 +33,23 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | I cry out! / my invocation (ritual speech act) |
 | Root | √p-ʿ-r |
+| Proto-Semitic | \*pVɣVr- (#1508) |
 | Language layer | NWS |
 | Semantic field | ritual |
 
 ### Note
 
 Egyptian group-writing: p33wry \[element 9, Det: A2 'to speak/think'\]. √p-ʿ-r 'to open wide (the mouth)' + 1cs -ī: Heb pāʿar (Isa 5:14 ūpāʿărāh pīhā; Ps 119:131 pī pāʿartī), Ar faġara (regular ʿ→ġ). Form \*paʿūr-ī (qatūl verbal noun + possessive). A2 determinative fits speech act. Alternative: √p-ʾ-r 'to glorify' (Isa 60:7). Structurally bridges the two deity names: rpʾī — paʿūrī — Mayyā = 'My Healer — I cry out to — Mayyā.' Keftiu Spell #33, LMP BM 10059.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | pʿr 'open the mouth; shout, proclaim', ypʿr, tpʿr (GlOS 2, 121) |
+
+### Source
+
+di Mino; Steiner 1992; GlOS 2
 
 ## Attestations
 

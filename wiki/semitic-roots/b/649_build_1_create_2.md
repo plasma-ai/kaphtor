@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | bny 1 (T 49) | T 49 | gloss withheld |
 | Jibbali | bené 1 |  |  |
 | Hebrew | bny 1 |  |  |
-| Epigraphic South Arabian | bny 1; Sab bny (SD 29, 30; Biella 48; Sabaweb lemma 3947) | SD 29, 30; Biella 48; Sabaweb lemma 3947 | gloss withheld |
+| Epigraphic South Arabian | bny 1; Sab bny (SD 29, 30; Biella 48; Sabaweb lemma 3947); Qat. bny 1 (Ricks 1982 s.v. bny) | SD 29, 30; Biella 48; Sabaweb lemma 3947; Ricks 1982 s.v. bny | gloss withheld |
 | Amorite | bny 1; yabnî, yibnî, yabannî (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
 | Aramaic | bny 1 OAram bny, Aram (Emp, Nab) bnh, bnʔ, (Palm) bnʔ 1 (DNWSI 173 apud CAL) | DNWSI 173; CAL |  |
 | Punic | bnʾ, bʿn, bʾn (T 49) | T 49 | gloss withheld |

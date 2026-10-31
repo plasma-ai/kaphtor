@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 448" src="https://img.shields.io/badge/translations-448-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 607 entries" src="https://img.shields.io/badge/lexicon-607%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 338" src="https://img.shields.io/badge/names-338-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,347" src="https://img.shields.io/badge/Semitic%20roots-4,347-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 447" src="https://img.shields.io/badge/translations-447-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 614 entries" src="https://img.shields.io/badge/lexicon-614%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 352" src="https://img.shields.io/badge/names-352-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,415" src="https://img.shields.io/badge/Semitic%20roots-4,415-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 38" src="https://img.shields.io/badge/sign%20values-38-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>

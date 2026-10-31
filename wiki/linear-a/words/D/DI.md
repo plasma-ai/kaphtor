@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dibšu |
 | Meaning | honey, fruit syrup—commodity abbreviation of \*dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation |
 | Root | d-b-š |
+| Proto-Semitic | \*dVbš- (#2737) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -46,7 +47,6 @@ Two uses, all at Haghia Triada (GORILA I 7, 37, 61, 121, 123, 133, 159, 181, 209
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | PS \*dVbš- 'honey' (SED #2737)—core vocabulary attested across all Semitic branches |
 | Akkadian | dišpu 'honey' (CAD D 161–63); delivered with oil, EA 55:12 |
 | Hebrew | דְּבַשׁ dǝbaš 'honey'; Deut 32:13–14 beside חֶמְאַת בָּקָר (cf. DI and E on HT12) |
 | Arabic | dibs 'grape molasses' |

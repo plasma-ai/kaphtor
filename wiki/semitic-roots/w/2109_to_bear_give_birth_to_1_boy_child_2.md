@@ -51,7 +51,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | wŭläği (OLA80 §15.5, §43.6); wɔläda \[LHar 159\] | OLA80 §15.5, §43.6; LHar 159 | gloss withheld |
 | Argobba | wälläda (LGz. 613) | LGz. 613 |  |
 | Pre-Islamic North Arabian | Safaitic wld (Al-Jallad–Jaworska 140) | Al-Jallad–Jaworska 140 | gloss withheld |
-| Eblaitic | mu-li-tum, mu-li-du /mullittum/ (VE 581; Krebernik 1983, 23) | VE 581; Krebernik 1983, 23 | gloss withheld |
+| Eblaitic | mu-li-tum, mu-li-du /mullittum/ (VE 581; Krebernik 1983, 23); mu-wa-li-tum /muwallidt/ (ARET I; Sanmartín GlOS 2, 351) | VE 581; Krebernik 1983, 23; ARET I; Sanmartín GlOS 2, 351 | gloss withheld |
 | Amorite | y-l-d 1: cf. ia-li-id-ᵈIM (Sanmartín GlOS 2, 350) | Sanmartín GlOS 2, 350 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

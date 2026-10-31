@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mesek |
 | Meaning | mixed wine (wine-section heading); rival 'must' |
 | Root | m-s-k |
+| Proto-Semitic | \*mVŝug- (#1022) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 ZA 15a .3 ME VIN, two separate signs after I-TI-NI-SA 10, no numeral: it heads the second section of the wine list, as SA VIN heads the first (GORILA III 182–183). ME as the onset of Ugaritic msk 'mixture, mixed wine' (DULAT 575; KTU 1.19 IV 61, // yn), Hebrew mesek (HALOT 605; Ps 75:9). VIN takes single-sign qualifiers elsewhere (VIN+RA, VIN+KA, VIN+TE, VIN+WA). Rival: mrṯ 'must' (DULAT 571–572). One witness.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | msk 'mixture, mixed wine, mixed drink', paired with yn 'wine' (DULAT 575) |
+| Hebrew | mesek 'spiced drink', wəyayin ḥāmar mālēʾ mesek 'and the wine foams, full of mixture' (Ps 75:9; HALOT 605) |
 
 ### Source
 

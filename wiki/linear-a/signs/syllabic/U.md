@@ -60,6 +60,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdumī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 | [[wiki/linear-a/words/U/U_JU\|U-JU]] | ʿūlū | SPECULATIVE |
+| [[wiki/linear-a/words/U/U_KA_RE\|U-KA-RE]] | ʾugār | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA\|U-NA]] | wannā | PROBABLE |
 | [[wiki/linear-a/words/U/U_NA_A\|U-NA-A]] | wannā(h) / winnā(h) | SPECULATIVE |

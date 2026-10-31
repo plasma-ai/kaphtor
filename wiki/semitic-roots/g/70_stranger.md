@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/70_stranger
 title: "*gir-: 'stranger'"
-desc: "Proto-Semitic *gir-, 'stranger': reflexes in 4 language(s)."
+desc: "Proto-Semitic *gir-, 'stranger': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "70"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ǧār; ǧār nafīḥ (Tāj 10:478) | Tāj 10:478 | gloss withheld |
 | Hebrew | gēr |  |  |
 | Phoenician | gr (B 298) | B 298 | gloss withheld |
 | Geez | gayyara, gəyyur (LGz. 208) | LGz. 208 | gloss withheld |

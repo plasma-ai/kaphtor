@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3288_before_in_front_of_opposite
 title: "*ḳVbl: 'before, in front of, opposite'"
-desc: "Proto-Semitic *ḳVbl, 'before, in front of, opposite': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḳVbl, 'before, in front of, opposite': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3288"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Hebrew | qăbāl (Klein s.v. קֲבָל) | Klein s.v. קֲבָל | gloss withheld |
 | Aramaic | Off. Palm. ḳbl (DNWSI 981 apud SEDonline 1589) | DNWSI 981; SEDonline 1589 | gloss withheld |
 | Syrian Aramaic | luḳbal (LSyr. 641, SL 1311 apud SEDonline 1589) | LSyr. 641, SL 1311; SEDonline 1589 | gloss withheld |
 | Arabic | qubulan (BK 2 667 apud SEDonline 1589) | BK 2 667; SEDonline 1589 | gloss withheld |

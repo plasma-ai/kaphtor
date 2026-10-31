@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rōʿē |
 | Meaning | herdsman, shepherd (title on a label) |
 | Root | r-ʿ-y |
+| Proto-Semitic | \*rVʕVy-, \*rāʕ- (#454) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-PH 24, an MM II label, RO-E the only group, whole and undotted (GORILA I 310–311). rō-ʿē, the qōtēl participle as in RO-KE rōkēl, ʿ unwritten: Heb. rōʿeh, Ug. rʿy 'shepherd' (DULAT 716). Rival: rōʾē 'seer' (semitic_roots no. 627). One witness.
+PH 24, an MM II label, RO-E the only group, whole and undotted (GORILA I 310–311). rō-ʿē, the qōtēl participle as in RO-KE rōkēl, ʿ unwritten: Heb. rōʿeh, Ug. rʿy 'shepherd' (DULAT 716). Rival: rōʾē 'seer' (#627). One witness. See RA-O-DI-KI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*rāʕ- 'herdsman' (semitic_roots no. 454) |
 | Hebrew | rōʿeh 'shepherd' |
 | Ugaritic | rʿy 'shepherd', in ration lists: rʿym tlt ddm 'shepherds: three cauldronsful (of flour)' (DULAT 716) |
 

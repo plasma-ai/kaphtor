@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ś
 desc: "Semitic roots whose first radical is ś."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:29:00Z
 ---
 
 # wiki/semitic-roots/ś
@@ -73,7 +73,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ś/1803_to_hoe_border_furrows_to_measure_a_field_distrib|1803_to_hoe_border_furrows_to_measure_a_field_distrib]]: Proto-Semitic *ŝdd ~ *ŝʾd, 'to hoe border-furrows; to measure a field, distribute plots': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/ś/1804_a_measured_plot_of_open_country_cultivated_land|1804_a_measured_plot_of_open_country_cultivated_land]]: Proto-Semitic *ŝady-, 'a (measured) plot of open country, cultivated land': reflexes in 9 language(s).
+[[wiki/semitic-roots/ś/1804_a_measured_plot_of_open_country_cultivated_land|1804_a_measured_plot_of_open_country_cultivated_land]]: Proto-Semitic *ŝady-, 'a (measured) plot of open country, cultivated land': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/ś/2022_hair_of_body_and_head|2022_hair_of_body_and_head]]: Proto-Semitic *ŝaʕr- {} *ĉaʕr-, 'hair (of body and head)': reflexes in 14 language(s).
 
@@ -147,7 +147,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ś/3095_frankincense|3095_frankincense]]: Proto-Semitic *ŝaḥz-, 'frankincense': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/ś/3096_milk|3096_milk]]: Proto-Semitic *ŝVḫāp-, 'milk': reflexes in 4 language(s).
+[[wiki/semitic-roots/ś/3096_milk|3096_milk]]: Proto-Semitic *ŝVḫāp-, 'milk': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/ś/3133_wax_candle|3133_wax_candle]]: Proto-Semitic *śmʕ, 'wax, candle': reflexes in 8 language(s).
 
@@ -205,6 +205,8 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ś/381_sharp_weapon|381_sharp_weapon]]: Proto-Semitic *ŝuk-, 'sharp weapon': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/ś/3831_to_set_in_order_ordain_prescribe_1_law_ordinance|3831_to_set_in_order_ordain_prescribe_1_law_ordinance]]: Proto-Semitic *śrʕ, 'to set in order, ordain, prescribe' 1, 'law, ordinance' 2: reflexes in 4 language(s).
+
 [[wiki/semitic-roots/ś/383_arrow|383_arrow]]: Proto-Semitic *nu-ŝab-, 'arrow': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/ś/389_knife|389_knife]]: Proto-Semitic *ŝakīn-, 'knife': reflexes in 4 language(s).
@@ -261,8 +263,6 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ś/K0478_muzzle|K0478_muzzle]]: Proto-Semitic *śVbVm-, 'muzzle': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ś/K0480_field|K0480_field]]: Proto-Semitic *śVdVy-, 'field': reflexes in 1 language(s).
-
 [[wiki/semitic-roots/ś/K0481_hire|K0481_hire]]: Proto-Semitic *śVkVr-, 'hire': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/ś/K0484_hate|K0484_hate]]: Proto-Semitic *śVnVʾ-, 'hate': reflexes in 12 language(s).
@@ -282,8 +282,6 @@ updated: 2026-10-28T20:08:42Z
 [[wiki/semitic-roots/ś/K0496_sprout|K0496_sprout]]: Proto-Semitic *śVwVḥ-, 'sprout': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ś/K0497_wander|K0497_wander]]: Proto-Semitic *śVwVṭ-, 'wander': reflexes in 6 language(s).
-
-[[wiki/semitic-roots/ś/K0499_be_grey_haired_old|K0499_be_grey_haired_old]]: Proto-Semitic *śVyVb-, 'be grey-haired, old': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/ś/K0500_place|K0500_place]]: Proto-Semitic *śVyVm-, 'place': reflexes in 18 language(s).
 

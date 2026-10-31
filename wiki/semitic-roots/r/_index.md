@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/r
 desc: "Semitic roots whose first radical is r."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T21:17:10Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/r
@@ -71,7 +71,7 @@ updated: 2026-10-28T21:17:10Z
 
 [[wiki/semitic-roots/r/2092_to_be_hungry|2092_to_be_hungry]]: Proto-Semitic *rɣb, 'to be hungry': reflexes in 13 language(s).
 
-[[wiki/semitic-roots/r/2093_to_have_intercourse_mount_ride|2093_to_have_intercourse_mount_ride]]: Proto-Semitic *rkb, 'to have intercourse, mount', 'ride': reflexes in 11 language(s).
+[[wiki/semitic-roots/r/2093_to_have_intercourse_mount_ride|2093_to_have_intercourse_mount_ride]]: Proto-Semitic *rkb, 'to have intercourse, mount', 'ride': reflexes in 12 language(s).
 
 [[wiki/semitic-roots/r/211_foot|211_foot]]: Proto-Semitic *rigl-, 'foot': reflexes in 12 language(s).
 
@@ -105,7 +105,7 @@ updated: 2026-10-28T21:17:10Z
 
 [[wiki/semitic-roots/r/2729_to_embroider_variegate|2729_to_embroider_variegate]]: Proto-Semitic *rVḳVm-, 'to embroider, variegate': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/r/2733_to_wash_bathe_ritual|2733_to_wash_bathe_ritual]]: Proto-Semitic *rVḥVṣ̂-, 'to wash, bathe (ritual)': reflexes in 12 language(s).
+[[wiki/semitic-roots/r/2733_to_wash_bathe_ritual|2733_to_wash_bathe_ritual]]: Proto-Semitic *rVḥVṣ̂-, 'to wash, bathe (ritual)': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/r/2741_womb_to_have_mercy_compassion|2741_womb_to_have_mercy_compassion]]: Proto-Semitic *rVḥVm-, 'womb; to have mercy, compassion': reflexes in 21 language(s).
 
@@ -223,6 +223,8 @@ updated: 2026-10-28T21:17:10Z
 
 [[wiki/semitic-roots/r/3715_swamp_marsh_muddy_remains_of_water|3715_swamp_marsh_muddy_remains_of_water]]: Proto-Semitic *rgrg, 'swamp, marsh; muddy remains of water': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/r/3830_to_fear_revere_1_fear_respect_2|3830_to_fear_revere_1_fear_respect_2]]: Proto-Semitic *rgb, 'to fear, revere' 1, 'fear, respect' 2: reflexes in 2 language(s).
+
 [[wiki/semitic-roots/r/454_pasture_guard_livestock_herd_graze_trans_v_1_her|454_pasture_guard_livestock_herd_graze_trans_v_1_her]]: Proto-Semitic *rVʕVy- 1, *rāʕ- 2, 'pasture, guard livestock, herd, graze (trans.)' (v.) 1, 'herdsman' 2: reflexes in 19 language(s).
 
 [[wiki/semitic-roots/r/483_run_for_help_1_run_2|483_run_for_help_1_run_2]]: Proto-Semitic *rVwVṯ̣-, 'run for help' 1, 'run' 2: reflexes in 14 language(s).
@@ -243,7 +245,7 @@ updated: 2026-10-28T21:17:10Z
 
 [[wiki/semitic-roots/r/675_shelf_rack_bunk|675_shelf_rack_bunk]]: Proto-Semitic *rVp-, 'shelf, rack, bunk': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/r/713_pour_out_1_sprinkle_2|713_pour_out_1_sprinkle_2]]: Proto-Semitic *rVḳ-, 'pour out' 1, 'sprinkle' 2: reflexes in 8 language(s).
+[[wiki/semitic-roots/r/713_pour_out_1_sprinkle_2|713_pour_out_1_sprinkle_2]]: Proto-Semitic *rVḳ-, 'pour out' 1, 'sprinkle' 2: reflexes in 9 language(s).
 
 [[wiki/semitic-roots/r/715_abundant_water_to_drink_one_s_fill_to_water_soil|715_abundant_water_to_drink_one_s_fill_to_water_soil]]: Proto-Semitic *riw-/*rwy-, 'abundant water', 'to drink one's fill, to water (soil)': reflexes in 16 language(s).
 

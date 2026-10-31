@@ -25,7 +25,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | none |
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] |  | a second group of men, broken after KA. Not readable. |  |
 
 ## Unread
 

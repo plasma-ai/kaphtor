@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U
 desc: "Words whose first sign begins with U."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-29T21:45:52Z
+updated: 2026-10-31T14:13:41Z
 ---
 
 # wiki/linear-a/words/U
@@ -19,7 +19,7 @@ updated: 2026-10-29T21:45:52Z
 
 [[wiki/linear-a/words/U/U_JU|U_JU]]: ʿūlū: burnt offering. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/U/U_KA_RE_A_SE_SI_NA|U_KA_RE_A_SE_SI_NA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/U/U_KA_RE|U_KA_RE]]: ʾugār: the field (of), meadowland (heading of a grain-ration list); rivals ʾikkār 'ploughman', the personal name Ugār. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/U/U_KI|U_KI]]: Unread (role only): personal name; 1 occurrence(s).
 

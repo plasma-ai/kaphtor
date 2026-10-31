@@ -34,13 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | karbu |
 | Meaning | carafe, drinking vessel (Akkadian karpatu; Ugaritic krpn) |
 | Root | k-r-p |
+| Proto-Semitic | \*karp- (#2838) |
 | Language layer | NWS |
 | Category | vessel |
 | Semantic field | vessel |
 
 ### Note
 
-Gordon's etymology holds via intervocalic lenition. Gordon (§163) read ka-ro-pa = karpu (Akkadian karpatu, one of the most common vessel terms in cuneiform). PA₃=/ba/ shifts surface skeleton k-r-p → k-r-b, but the underlying PS root √k-r-p is preserved: simplex \*p→b is regular intervocalic lenition in Minoan phonological adaptation (V_V environment: /o_a/). Preceded by \*416-VS vessel ideogram on HT31 (qty 10). Part of Gordon's HT31 vessel quartet (§163). Stieglitz (1971) independently confirmed the identification citing Gordon and the Akkadian/Ugaritic cognates. Rendsburg (forthcoming Ugaritic Dictionary) cites 'Min. ka-ro-pà (HT 31.3) (Gordon, EML, 26, 30, 39; Stieglitz 1971)' as cognate to Ugaritic krpn 'carafe, goblet, flagon.' The Ugaritic evidence (6 passages: El blessing Kirta, ʿAnat drinking wine, Baʿal's feast) narrows the semantic range to a drinking vessel, not a generic pot. The Ugaritic form krpn carries an affirmative -n suffix (Dahood 1965) absent from the Minoan bare root karp-.
+Gordon's etymology holds via intervocalic lenition. Gordon (§163) read ka-ro-pa = karpu (Akkadian karpatu, one of the most common vessel terms in cuneiform). PA₃=/ba/ shifts surface skeleton k-r-p → k-r-b, but the underlying root √k-r-p is preserved: simplex \*p→b is regular intervocalic lenition in Minoan phonological adaptation (V_V environment: /o_a/). Preceded by \*416-VS vessel ideogram on HT31 (qty 10). Part of Gordon's HT31 vessel quartet (§163). Stieglitz (1971) independently confirmed the identification citing Gordon and the Akkadian/Ugaritic cognates. Rendsburg (forthcoming Ugaritic Dictionary) cites 'Min. ka-ro-pà (HT 31.3) (Gordon, EML, 26, 30, 39; Stieglitz 1971)' as cognate to Ugaritic krpn 'carafe, goblet, flagon.' The Ugaritic evidence (6 passages: El blessing Kirta, ʿAnat drinking wine, Baʿal's feast) narrows the semantic range to a drinking vessel, not a generic pot. The Ugaritic form krpn carries an affirmative -n suffix (Dahood 1965) absent from the Minoan bare root karp-.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | krpn 'cup, goblet' (DULAT 452), where DULAT records Stieglitz 1971's equation with Minoan ka-ro-pa₃ |
+| Akkadian | karpatu 'earthen pot; a measure' (CAD K 219); karpu 'pot, earthen container' (CAD K 221) |
 
 ### Source
 

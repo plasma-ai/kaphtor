@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | marīrēy |
 | Meaning | myrrh (the bitter resin) |
 | Root | √m-r-r |
+| Proto-Semitic | \*mrr (#3469) |
 | Language layer | NWS |
 | Semantic field | commodity |
 
 ### Note
 
-qaṭīl + nisbe: \*marīr-ēy\* 'the bitter stuff' = myrrh. Perfect consonant match. Co-occurs with SA-MA 'spice' on aromatic allocation tablet HT6. Front of same tablet (HT6a) has O-RA₂-DI-NE (possible ladanum). Song of Songs 4:14 lists mōr alongside qāneh and saffron.
+qaṭīl + nisbe: \*marīr-ēy\* 'the bitter stuff' = myrrh. Perfect consonant match. Co-occurs with SA-MA 'spice' on aromatic allocation tablet HT6. Front of same tablet (HT6a) has O-RA₂-DI-NE (possible ladanum). Song of Songs 4:14 lists mōr alongside qāneh and saffron. See MI+JA+RU.
 
 ### Cognates
 

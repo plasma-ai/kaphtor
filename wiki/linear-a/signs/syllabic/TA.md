@@ -86,12 +86,13 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |
-| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Patiya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
-| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bitara / batūla | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_KA_TA\|RI-KA-TA]] | Likata | SPECULATIVE |
+| [[wiki/linear-a/words/R/RI_TA_MA\|RI-TA-MA]] | Ritmā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_TA\|SA-TA]] | Šata | SPECULATIVE |
@@ -112,8 +113,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_PA\|TA-PA]] | tappāʾu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_RA\|TA-RA]] | ṯa(ġ)ra | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_RI_NA\|TA-RI-NA]] | Tarinna | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_SA_ZA\|TA-SA-ZA]] | taḫsaz | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_TA\|TA-TA]] | Tatta | SPECULATIVE |
-| [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | tati | CANDIDATE |
+| [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
+| [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | Tati | CANDIDATE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | CONFIRMED |

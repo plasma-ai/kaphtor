@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qēpu |
 | Meaning | official, commissioner (title); rival: the personal name Qīpu |
 | Root | q-y-p |
+| Proto-Semitic | \*ḳīp- (#3850) |
 | Language layer | Akkadian |
 | Category | title |
 | Semantic field | personnel |

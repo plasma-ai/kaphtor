@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yapʾara |
 | Meaning | may he/it glorify, adorn (3ms volitive yaqtula √p-ʾ-r; guttural ʾ unwritten) |
 | Root | p-ʾ-r |
+| Proto-Semitic | \*pVʔVr- (#2964) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | verbal |

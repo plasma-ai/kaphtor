@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | daqqati |
 | Meaning | fine (powder), ground fine |
 | Root | d-q-q |
+| Proto-Semitic | \*diḳ(ḳ)- (#1654) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |
@@ -47,11 +48,12 @@ KNZc6 register .2, after QI-TI-RI 'my incense' and A-DI 'until': incense ground 
 | Language | Comparison |
 |---|---|
 | Ugaritic | dqt /daqatu/ 'small, tiny, thin' (DULAT 276) |
+| Eblaite | du-gu-um duqq 'powder' (GlOS 1, 143) |
 | Hebrew | daq, f. daqqâ (דַּקָּה) 'fine, crushed': qəṭōret sammîm daqqâ 'finely ground sweet incense' (Lev 16:12); hādēq 'very fine', of the sanctuary incense (Exod 30:36) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

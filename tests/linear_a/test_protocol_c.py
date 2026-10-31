@@ -51,6 +51,7 @@ def copy_record(tmp_path: Path, corpus: bool = False) -> Path:
     shutil.copytree(LINEAR_A_DATA / "protocol-c", data / "linear-a" / "protocol-c")
     if corpus:
         shutil.copy2(LINEAR_A_DATA / "corpus.json", data / "linear-a" / "corpus.json")
+        shutil.copy2(pc.C1_WORDS, data / "linear-a" / pc.C1_WORDS.name)
     return data
 
 
@@ -143,7 +144,8 @@ def test_reproduce_reruns_the_checker_and_the_audits_byte_for_byte():
     result = run("reproduce")
     out = result.stdout
     assert result.returncode == 0, out + result.stderr
-    assert "corpus.json: 1070 hyphenated words, sha256 e60a13f086fc… (as recorded)" in out
+    assert "protocol-c-c1-words.txt: 1070 hyphenated words, sha256 e60a13f086fc… (as recorded)" in out
+    assert "corpus.json now: " in out   # the readings move the corpus; the report fails nothing
     assert "on the files as shipped" in out
     assert out.count("inventory.filled.json byte for byte") == 6
     assert out.count("blindness_audit.txt byte for byte from the redacted log") == 6
@@ -185,6 +187,26 @@ def test_reproduce_catches_a_read_outside_the_kit_added_to_a_log(tmp_path):
     result = run("reproduce", "--arm", "cs", env={"KAPHTOR_DATA": str(data)})
     assert result.returncode == 1, result.stdout + result.stderr
     assert "cs: blindness_audit.txt DIFFERS from the redacted log" in result.stdout
+
+
+@pytest.mark.data
+@NEEDS_JSONSCHEMA
+def test_reproduce_fails_a_changed_c1_word_list(tmp_path):
+    data = copy_record(tmp_path, corpus=True)
+    words = data / "linear-a" / pc.C1_WORDS.name
+    words.write_text(words.read_text(encoding="utf-8") + "zz-zz\n", encoding="utf-8")   # not a Linear A word
+    result = run("reproduce", "--arm", "cs", env={"KAPHTOR_DATA": str(data)})
+    assert result.returncode == 1, result.stdout + result.stderr
+    assert "protocol-c-c1-words.txt: 1071 hyphenated words" in result.stdout and "DIFFERS from e60a13f086fc" in result.stdout
+
+
+@pytest.mark.data
+@NEEDS_JSONSCHEMA
+def test_reproduce_stops_without_the_c1_word_list(tmp_path):
+    data = copy_record(tmp_path)
+    result = run("reproduce", "--arm", "cs", env={"KAPHTOR_DATA": str(data)})
+    assert result.returncode == 2, result.stdout + result.stderr
+    assert "protocol-c-c1-words.txt is not in this checkout" in result.stderr
 
 
 @pytest.mark.maintainer

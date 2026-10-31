@@ -34,17 +34,24 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kull |
 | Meaning | total, sum (accounting term) |
 | Root | k-l-l? |
+| Proto-Semitic | \*kʷall- (#2418) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
 
 ### Note
 
-Function confirmed corpus-internally by final or section-final position and arithmetic. HT89 supplies an exact control: 23+22+24+13+5=87. The comparison with Semitic \*kull- 'all, entirety' is an etymological hypothesis rather than the basis of the decipherment. Linear B normally writes TO-SO for 'total'; no Linear B KU-RO cognate should be claimed. Complements KI-RO 'owed/outstanding' in Linear A accounting.
+Function confirmed corpus-internally by final or section-final position and arithmetic. HT89 supplies an exact control: 23+22+24+13+5=87. The comparison with Semitic \*kull- 'all, entirety' is an etymological hypothesis rather than the basis of the decipherment. Linear B normally writes TO-SO for 'total'; no Linear B KU-RO cognate should be claimed. Complements KI-RO 'owed/outstanding' in Linear A accounting. See KU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | gú-lu-ma kull=um=ma, kul-a kullat 'totality' (GlOS 1, 305) |
 
 ### Source
 
-Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Duhoux 2012
+Corpus-internal arithmetic; Gordon 1966 for the Semitic comparison; Duhoux 2012; GlOS 1
 
 ### Review
 

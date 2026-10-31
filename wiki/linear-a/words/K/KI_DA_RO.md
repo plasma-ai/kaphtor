@@ -5,7 +5,7 @@ desc: "Qidaru: personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār).
 tags: ["linear-a", "word", "tier-3", "personal_name"]
 kind: "word"
 form: "KI-DA-RO"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Qidaru |
 | Meaning | personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār) |
 | Root | ḳ-d-r |
+| Proto-Semitic | \*qVḏVr- (#K0328) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -64,5 +65,21 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Qidaru | Qidaru (personal name, 'Dark') | PROBABLE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Note
+
+HT 117a, counted once in a roster of people. √ḳ-d-r 'be dark'; cf. Hebrew Qēdār (Gen 25:13). HT 47a KI-DA-RO\[ is broken (GORILA I 91).
 
 <!-- END kaphtor:record -->

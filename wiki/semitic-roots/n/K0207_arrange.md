@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0207_arrange
 title: "*nVsVq-: 'arrange'"
-desc: "Proto-Semitic *nVsVq-, 'arrange': reflexes in 3 language(s)."
+desc: "Proto-Semitic *nVsVq-, 'arrange': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0207"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | nasaq (Tāj 26:419) | Tāj 26:419 | gloss withheld |
 | Geez | nasaqa 'pave' | Anderson–Moser 2024 root nsq |  |
 | Akkadian | nasāqu (Št-stem) (LGz. 403) | LGz. 403 | gloss withheld |
 | Tigre | näsqa (LGz. 403) | LGz. 403 | gloss withheld |

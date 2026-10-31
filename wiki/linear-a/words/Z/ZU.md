@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯūm |
 | Meaning | garlic (logographic abbreviation) |
 | Root | ṯ-w-m |
+| Proto-Semitic | \*ṯūm- (#S34) |
 | Language layer | Semitic |
 | Category | vocabulary |
 | Semantic field | commodity |
 
 ### Note
 
-PS \*ṯūm- 'garlic (Allium sativum)'; ZU carries /ṯu/ under the sibilant mergers, abbreviating ṯūm as NI abbreviates nūb(at). Context: KH91 mixed ration list — grain, wine, beans, ZU ≈⅙, cattle, honey, aromatics. Garlic between beans and beef in a ration list.
+ZU carries /ṯu/ under the sibilant mergers, abbreviating ṯūm as NI abbreviates nūb(at). Context: KH91 mixed ration list — grain, wine, beans, ZU ≈⅙, cattle, honey, aromatics. Garlic between beans and beef in a ration list.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | šūmū 'garlic' (CAD Š/3 298) |
+| Hebrew | šûmîm 'garlic', among the foods of Egypt, Num 11:5 (HALOT 1442) |
+| Arabic | ṯūm 'garlic, Allium sativum' (Lane 365) |
+| Aramaic | tūmā 'garlic' (HALOT 1442) |
 
 ### Source
 

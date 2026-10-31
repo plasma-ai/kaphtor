@@ -62,7 +62,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/star/star28B_NU_MA_RE\|\*28B-NU-MA-RE]] | yīnu-mārē | wine-stewards (compound: wine + lords) | CANDIDATE |  |
 | 20 | 20 | quantity: 20 units |  |  |
-| [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | sipkī | pourings, libation portions | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | pourings, libation portions | CANDIDATE | CANDIDATE (lexicon) |
 | 1½ | 1½ | quantity: 1½ units |  |  |
 | [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | makita | magical protection (Egyptian mk.t) | CANDIDATE | CANDIDATE (lexicon) |
 | 3 | 3 | quantity: 3 units |  |  |

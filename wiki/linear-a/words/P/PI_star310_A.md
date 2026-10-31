@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | pīnā |
 | Meaning | face, front, portion |
 | Root | p-n-y |
+| Proto-Semitic | \*pan- (#144) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | body_part |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Same root as I-PI-NA-MA (/ipinama/ "face, presence"). At Zakros before OLIV · 2. PI-IN-A = pīnā or pinā.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | \*pāneh 'face, front', only in the plural pānîm (HALOT 938) |
+| Ugaritic | pnm 'face, countenance', also as a preposition (DULAT 664) |
 
 ### Source
 

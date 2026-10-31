@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾagānu |
 | Meaning | cup, bowl |
 | Root | ʾ-g-n |
+| Proto-Semitic | \*ʾigān- (#1358) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | vessel |
 
 ### Note
 
-Hebrew/Aramaic ʾaggān 'bowl'; Qatna and Amarna write a-ga-nu (GlOS 1, 12). Gordon §119: 'opens with the word a-ka-nu = Hebrew and Aramaic ʾaggan bowl, which happens to be applied specifically to a magic bowl in an Aramaic incantation.' Self-referential vessel label: the bowl names itself. II,2 = KNZc7 (Brice/GORILA concordance). GORILA writes A-KA-NU-ZA-TI as one sign group, but Gordon segments A-KA-NU as a standalone noun. GORILA IV, 125 begins the diplomatic transcription directly with complete A-KA-NU-ZA-TI and marks no opening lacuna; no lost word should be supplied before it. The following ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), giving ʾagānu zāt 'this bowl.' Hebrew zō(ʾ)t supplies the closest lexical parallel. Phoenician ʾGN is feminine, and FK D 35 has the postposed demonstrative construction hʾgn hz, 'this bowl' (Krahmalkov 2000, 31), so feminine agreement is independently plausible. The alternative single-word √k-n-s verbal parse is weak because that root is consistently written KA-NA-SI elsewhere. The segmentation remains analytical: ZA-TI is a hapax, its first sign is disputed ZA/ZE, and final TI = /t/ with a nonphonemic support vowel is not an established Linear B rule.
+Hebrew/Aramaic ʾaggān 'bowl'; Qatna and Amarna write a-ga-nu (GlOS 1, 12). Gordon §119: 'opens with the word a-ka-nu = Hebrew and Aramaic ʾaggan bowl, which happens to be applied specifically to a magic bowl in an Aramaic incantation.' Self-referential vessel label: the bowl names itself. II,2 = KNZc7 (Brice/GORILA concordance). GORILA writes A-KA-NU-ZA-TI as one sign group, but Gordon segments A-KA-NU as a standalone noun. GORILA IV, 125 begins the diplomatic transcription directly with complete A-KA-NU-ZA-TI and marks no opening lacuna; no lost word should be supplied before it. The following ZA-TI may be /zāt/ 'this' (historically perhaps /zāʾt/), giving ʾagānu zāt 'this bowl.' Hebrew zō(ʾ)t supplies the closest lexical parallel. Phoenician ʾGN is feminine, and FK D 35 has the postposed demonstrative construction hʾgn hz, 'this bowl' (Krahmalkov 2000, 31), so feminine agreement is independently plausible. The alternative single-word √k-n-s verbal parse is weak because that root is consistently written KA-NA-SI elsewhere. The segmentation remains analytical: ZA-TI is a hapax, its first sign is disputed ZA/ZE, and final TI = /t/ with a nonphonemic support vowel is not an established Linear B rule. See \*412.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | agannu 'a large bowl' (CAD A/1 142) |
+| Hebrew | ʾaggān 'large bowl', bāʾaggānōt, Exod 24:6 (HALOT 11) |
+| Ugaritic | ågn 'cauldron, earthenware bowl' (DULAT 26) |
+| Phoenician | ʾgn 'bowl' (Krahmalkov 31) |
 
 ### Source
 

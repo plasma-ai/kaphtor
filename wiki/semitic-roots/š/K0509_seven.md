@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0509_seven
 title: "*šVbVʿ-: 'seven'"
-desc: "Proto-Semitic *šVbVʿ-, 'seven': reflexes in 25 language(s)."
+desc: "Proto-Semitic *šVbVʿ-, 'seven': reflexes in 26 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0509"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | yǝbáyt; hōba (Rubin 2018 295, 297); šība (Rubin 2018 300) | Rubin 2018 295, 297; Rubin 2018 300 | gloss withheld |
 | Akkadian | sebe (seba, fem. sebet) (CAD S 203) | CAD S 203; Anderson–Moser 2024 root šbʿ | gloss withheld |
 | Arabic | sabʕat 'seven' (Lane 1297) | Lane 1297 |  |
 | Aramaic | šbʿ (Aramaic Root Atlas; DNWSI 1102 apud CAL) | Aramaic Root Atlas; DNWSI 1102; CAL; Anderson–Moser 2024 root šbʿ | gloss withheld |

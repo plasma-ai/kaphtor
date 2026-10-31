@@ -33,13 +33,23 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | šamnu 'oil, olive oil' |
 | Root | š-m-n |
+| Proto-Semitic | \*šam(a)n- ~ \*sam(a)n- (#2014) |
 | Language layer | NWS |
 | Category | commodity ideogram |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting oil/olive oil. 21 standalone, 9 sites. PS \*šamnu (Heb. šemen, Ug. šmn, Akk. šamnu). \*308 = ŠAMNU already resolved as pressed oil derivative with same root—OLE is the base ideogram \|\| COMPOUND SYSTEM: Richest of any commodity—18 types: OLE+KI standard, OLE+MI anointing, OLE+DI honey-infused, OLE+TA fine-grade, OLE+NE libation, OLE+RI aromatic. OLE+MI/OLE+KI compound system confirms base value \|\| 20 tablets, 7 sites. Universal Linear B commodity logogram.
+Non-phonetic commodity ideogram denoting oil/olive oil. 21 standalone, 9 sites. Heb. šemen, Ug. šmn, Akk. šamnu. \*308 = ŠAMNU already resolved as pressed oil derivative with same root—OLE is the base ideogram \|\| COMPOUND SYSTEM: Richest of any commodity—18 types: OLE+KI standard, OLE+MI anointing, OLE+DI honey-infused, OLE+TA fine-grade, OLE+NE libation, OLE+RI aromatic. OLE+MI/OLE+KI compound system confirms base value \|\| 20 tablets, 7 sites. Universal Linear B commodity logogram.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | šmn 'oil; fat, butter' (DULAT 815) |
+| Hebrew | šemen 'oil, fat' (HALOT 1567) |
+| Akkadian | šamnu 'oil, fat, cream' (CAD Š/1 321) |
+| Phoenician | šmn 'oil' (Krahmalkov 470) |
 
 ## Attestations
 
@@ -58,7 +68,6 @@ Non-phonetic commodity ideogram denoting oil/olive oil. 21 standalone, 9 sites. 
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3b\|ARKH3b]] | \[ideogram\] | olive oil |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT23b\|HT23b]] |  | oil | PROBABLE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šamnu | oil, olive oil (base commodity, follows KU as subtotal object) | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT114a\|HT114a]] | šamnu | oil | PROBABLE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | šamnu | oil, olive oil |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT121\|HT121]] | šamnu | oil, olive oil | PROBABLE |

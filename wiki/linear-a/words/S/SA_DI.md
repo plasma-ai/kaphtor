@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šadī |
 | Meaning | land labourer, field worker; rival the personal name Šadī |
 | Root | ś-d-w |
+| Proto-Semitic | \*ŝady- (#1804) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
@@ -46,7 +47,6 @@ HT 111b .1 SA-DI 4\[, whole and undotted, the numeral broken after (GORILA I 181
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*śVdVy- 'field' (semitic_roots K0480) |
 | Ugaritic | šdy (I) 'land labourer', nʿrm šdym (KTU 4.868:4); PN šdy (II), syll. ša-de₄-ya (DULAT 799) |
 | Hebrew | śādeh שָׂדֶה 'field' (Gen 2:19) |
 

@@ -33,23 +33,26 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | mūru |
 | Meaning | young bull, young animal |
-| Root | m-r-ʾ |
+| Root | m-h-r |
+| Proto-Semitic | \*muhr- (#2243) |
 | Language layer | NWS |
 | Semantic field | commodity |
 
 ### Note
 
-Syllabic spelling of the \*23M logogram word: MU-RU = mūru, both syllables exact. Counted 1 on HT3 and HT46a, as \*23M counts whole animals. HT30 carries the logogram \*23M, not MU-RU.
+Syllabic spelling of the \*23M logogram word: MU-RU = mūru, both syllables exact. Counted 1 on HT3 and HT46a, as \*23M counts whole animals. HT30 carries the logogram \*23M, not MU-RU. Rival root: m-r-ʾ 'fatling' (Ug. mrỉ, DULAT 563).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | mūru 'young animal; young bull; foal' (eBL mūru I; CAD M2 229–30) |
+| Ugaritic | mr 'young of an animal, cub' (DULAT 562f.) |
+| Eblaite | mu-ra, mu-rí, names 'foal' (GlOS 2, 32) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

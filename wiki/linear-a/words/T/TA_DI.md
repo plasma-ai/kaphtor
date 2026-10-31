@@ -34,6 +34,7 @@ updated: 2026-10-28T21:25:46Z
 | Reading | dādī |
 | Meaning | my beloved, a name and name element; alternate spelling DE-DI |
 | Root | d-w-d |
+| Proto-Semitic | \*dawid- (#19) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |
@@ -46,14 +47,15 @@ Two spellings. TA-DI within RU-JA-TA-DI Ruya-dādī (HT Wc 3008). DE-DI, the alt
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*dawid- 'uncle; beloved' (semitic_roots no. 19) |
 | Ugaritic | dd (I) 'love', 'loved one' (DULAT 262); ddy PN, syll. ta-di-e, da-de₄-ya (DULAT 264) |
 | Hebrew | דּוֹדַי Dōday PN (1 Chr 27:4) |
 | Mari | di-di Didi PN, a carpenter (ARM 21 397; ARCHIBAB T16508) |
+| Amorite | da-di-i, dādī 'my beloved', a Sutean (ARM 23 341; Buck 2018, 327) |
+| Eblaite | da-du, dādu 'beloved', PN (Pagan 1998, row 1401) |
 
 ### Source
 
-di Mino; DULAT
+di Mino; DULAT; Buck 2018; Pagan 1998
 
 ## Attestations
 

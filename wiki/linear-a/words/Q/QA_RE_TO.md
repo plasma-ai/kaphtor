@@ -34,17 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qart- |
 | Meaning | city of (Phoenician construct form) |
 | Root | q-r-y |
+| Proto-Semitic | \*ḳʷary- (#672) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | toponym |
 
 ### Note
 
-Skeleton qrt = Phoenician qart- 'city (of)'. PS #2772 \*milk-qart- 'Melqart (king of the city)' confirms the Phoenician construct. Uses unambiguous RE (not RA₂), providing a comparison for RA₂=/ra/ in QA-RA₂-WA and QE-RA₂-JA. On HT132 in commodity allocation context with \*305. Huehnergard: fem. /qar(i)yatu/, construct /qart-/; BH qiryā.
+Skeleton qrt = Phoenician qart- 'city (of)'. Melqart, milk-qart 'king of the city' (#2772), confirms the Phoenician construct. Uses unambiguous RE (not RA₂), providing a comparison for RA₂=/ra/ in QA-RA₂-WA and QE-RA₂-JA. On HT132 in commodity allocation context with \*305. Huehnergard: fem. /qar(i)yatu/, construct /qart-/; BH qiryā. The Ugarit polyglot vocabulary has qa-ri-t\[u₄\] 'city' (GlOS 1, 354).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Phoenician | qrt 'city' (Krahmalkov 433); construct in qrtḥdšt 'Carthage, New City' (Krahmalkov 434) |
+| Ugaritic | qrt 'city' (DULAT 702) |
+| Hebrew | qeret 'city', mərōmê qāret, Prov 9:3 (HALOT 1149) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ḏarʿ(u) |
 | Meaning | seed-grain; rival a personal name |
 | Root | ḏ-r-ʕ |
+| Proto-Semitic | \*ʒVry/ʾ/ʕ- ~ \*ǯVry/ʾ/ʕ 1, \*ʒry/wʾ/ʕ ~ \*ǯry/w/ʾ/ʕ 2 (#1815) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-HT 10a .3–4 \*305-RU 2½, whole and undotted at the end of .3, the side written over an erasure (GORILA I 21), in the list headed KU-NI-SU 'the assembly'. Ug. d/ḏrʕ 'seed-grain' (DULAT 277–278), Heb. zeraʿ, OSArb. ḏrʾ (HALOT 282), the ʿ unwritten. Rivals: dr 'association' (DULAT 277), a personal name. One attestation.
+HT 10a .3–4 \*305-RU 2½, whole and undotted at the end of .3, the side written over an erasure (GORILA I 21), in the list headed KU-NI-SU 'the assembly'. Ug. d/ḏrʕ 'seed-grain' (DULAT 277–278), Heb. zeraʿ, OSArb. ḏrʾ (HALOT 282), the ʿ unwritten. Rivals: dr 'association' (DULAT 277), a personal name. One attestation. See ZE.
 
 ### Cognates
 

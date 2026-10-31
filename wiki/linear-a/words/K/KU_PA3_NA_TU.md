@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT88, where KU-PA₃-NU also stands). HT119 KU-RO 160 includes \*327 34 and VIR 68, so KU-PA₃-NA-TU 7 counts persons. HT47a KU-PA₃-NA-TU 20\[ is broken. Amorite has the short base with the same -ān- in Kubb-ān-um (Gelb, AS 21, no. 4148), and in Kuba-ʾEl (nos. 4099–4100), so the name need not write Kubaba's second BA. Akkadian ištarītu, a priestess named from Ištar, is the same type. APZa2 I-KU-PA₃-NA-TU-NA-TE carries the stem. Rival: gubnatu 'cheese(s)', which HT119's personnel total excludes there.
+Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT88, where KU-PA₃-NU also stands). HT119 KU-RO 160 includes \*327 34 and VIR 68, so KU-PA₃-NA-TU 7 counts persons. HT47a KU-PA₃-NA-TU 20\[ is broken. Amorite has the short base with the same -ān- in Kubb-ān-um (Gelb, AS 21, no. 4148), and in Kuba-ʾEl (nos. 4099–4100), so the name need not write Kubaba's second BA. Akkadian ištarītu, a priestess named from Ištar, is the same type. APZa2 I-KU-PA₃-NA-TU-NA-TE carries the stem.
 
 ### Cognates
 
@@ -48,25 +48,11 @@ Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT88, whe
 |---|---|
 | Anatolian/North Syrian | Kubaba, divine name (Ugarit, Carchemish); Hurrian Kubaba (Laroche 1980, 150) |
 | Amorite | Kupapa, fem. DN (Gelb glossary); ʾAlli-Kupapa, Baʿli-Kupapa (nos. 708, 2094); short base in Kubb-ān-um (no. 4148) and Kuba-ʾEl (nos. 4099–4100), which Gelb segments kubb-, kuʾb- |
-| Akkadian | ištarītu 'a priestess', named from Ištar; Kubabat (Old Assyrian); rival gubnatu 'cheese made from sheep milk', CAD G 117, Late Babylonian and labeled an Aramaic loanword |
-| Hebrew | rival gəbīnā 'cheese, curds' (Job 10:10) |
-| Aramaic | rival gubnā 'cheese' |
-| Arabic | rival jubn 'cheese' |
-
-### Parallels
-
-| Tradition | Parallel |
-|---|---|
-| linear a | Both administrative attestations are quantified: 20 on broken HT47a and 7 on HT119, where KU-RO 160 includes \*327 34 and VIR 68, so the entry counts persons. The base KU-PA₃- takes -NU (KU-PA₃-NU), -NA-TU and -RI-JA (KU-PA₃-RI-JA); HT88 has KU-PA₃-PA₃ Kubaba beside KU-PA₃-NU. Thomas treats the longer APZa2 sequence as an inflectional variant of this base. |
-| semitic | With PA₃ = /ba/ and K-series voicing left open, KU-PA₃-NA-TU can spell /gubnatu/: KU = /gu/, BA closes /gub/ with a dead vowel, followed by NA-TU. CAD records Akkadian gubnatu 'cheese (made from sheep milk)' in explicitly numbered allocations. |
-| derivation | Furumark analyzes KU-PA₃-NA-TU-NA as an ethnic adjective, 'from/belonging to Kupanatu.' |
-| linear b | Mycenaean ku-pa-nu-we-to may belong to the same Aegean onomastic family (Jiménez Delgado 2024, 439). |
-| apza2 preferred | The damaged APZa2 sequence is preferably segmented I- + KU-PA₃-NA-TU + -NA + -TE: a derived or inflected Kupanatu form, with initial I- and final -TE unresolved. |
-| apza2 alternative | Alternatively, I-KU-PA₃ + NA-TU-NA-TE permits comparison of the second member with reconstructed Semitic \*natūnāt 'given/dedicated persons or things' from √n-t-n; no divider or independent I-KU-PA₃ confirms this split. |
+| Akkadian | ištarītu 'a priestess', named from Ištar; Kubabat (Old Assyrian; Haas 1994, 406, 614) |
 
 ### Source
 
-di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, 150; CAD G, 117, s.v. gubnatu; Leslau 1987, 178; Thomas 2020, 10–11; Furumark 1988, 63, 67 (cited by Sucharski 2002, 28); Jiménez Delgado 2024, 439
+di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, 150
 
 ## Attestations
 

@@ -34,20 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | sapu buṭni |
 | Meaning | bowl of terebinth (pistachio) nuts (commodity measured in bowl-units) |
 | Root | s-p-p + b-ṭ-n |
+| Proto-Semitic | \*sapp- (#311) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-SU-PU₂ = /sapu/ 'bowl, basin' (see SU-PU). Commodity \*188 = buṭn- 'terebinth/pistachio nuts' (Hebrew boṭnîm, Gen 43:11; Ugaritic bṭm) in bowl-units. HT8b Villa Magazine, qty 1.
+SU-PU₂ = /sapu/ 'bowl, basin' (see SU-PU). Commodity \*188 = buṭn- 'terebinth/pistachio nuts' (Hebrew boṭnîm, Gen 43:11; Ugaritic bṭm) in bowl-units. HT8b Villa Magazine, qty 1. For \*188, see \*188 and PA₃-\*188.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | boṭnîm (בָּטְנִים) 'pistachio nuts' (HALOT 121; Gen 43:11) |
-| Ugaritic | bṭm 'pistachio' (DULAT) |
+| Ugaritic | bṭm 'pistachio' (DULAT 249) |
 | Phoenician | sp 'cup, bowl' (see SU-PU) |
 
 ### Source

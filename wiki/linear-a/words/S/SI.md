@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šay |
 | Meaning | tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings |
 | Root | š-y |
+| Proto-Semitic | \*ṯay- (#3780) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | commodity |
@@ -48,10 +49,11 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Hebrew | šay (שַׁי) tribute, gift, present. Ps 68:30—tribute brought to the Temple; Ps 76:12—tribute brought to the Awesome One; Isa 18:7—tribute brought to YHWH Ṣebaʾôt. √š-y biconsonantal root |
 | Akkadian | šūtu / šâtu gift, present—functional parallel |
+| Phoenician | šy 'gift' (Tomback 1978, 316) |
 
 ### Source
 
-di Mino
+di Mino; Tomback 1978
 
 ## Attestations
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | nuti |
 | Meaning | the given ones, a personnel class (√n-t-n), heading before men; rival Egyptian nʾ.tjw 'townsmen' |
 | Root | n-t-n |
+| Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |

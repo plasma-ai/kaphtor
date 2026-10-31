@@ -51,6 +51,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-The noun 'ascent, height; steps' is 3606.
+The noun 'ascent, height; steps' is 3606. Cf. 1538 \*ʕall- 'height, the above'.
 
 <!-- END kaphtor:record -->

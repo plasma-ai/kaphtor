@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | nūr- |
 | Meaning | light, fire (divine epithet or votive label on clay vessels) |
 | Root | n-w-r |
+| Proto-Semitic | \*nūr- (#1196) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | divine |
 
 ### Note
 
-Sole word on both clay vessel inscriptions (Kamilari + unknown site). PS \*nūr-, an exact match. Votive vessel context favors divine epithet reading—nūru "Light" as address to deity (cf. Shamash epithets). PN alternative (Nūr as theophoric element) cannot be excluded. Two attestations and no sentence context. \|\| Huehnergard: Ug nwr /nāra/ ~ /yanūr-/ "G: to be/become bright, shine"; I-n / hollow-looking w root. G suffix nāra, prefix yanūr-. BH cognate: nēr "lamp" (Huehnergard 2012, p. 50 (line ref.); cf. BH \[9\])
+Sole word on both clay vessel inscriptions (Kamilari + unknown site). Votive vessel context favors divine epithet reading—nūru "Light" as address to deity (cf. Shamash epithets). Rival: a name on nūr, as Mari nu-ur-me-er, Emar nu-ri-ᵈda-gan, Ugarit nu-ri-ia-nu (GlOS 2, 114). Two attestations and no sentence context. \|\| Huehnergard: Ug nwr /nāra/ ~ /yanūr-/ "G: to be/become bright, shine"; I-n / hollow-looking w root. G suffix nāra, prefix yanūr-. BH cognate: nēr "lamp" (Huehnergard 2012, p. 50 (line ref.); cf. BH \[9\]). See \*301-U-RA.
 
 ### Cognates
 
@@ -50,10 +51,11 @@ Sole word on both clay vessel inscriptions (Kamilari + unknown site). PS \*nūr-
 | Hebrew | נוּר (nūr) "fire"; נֵר (nēr) "lamp" |
 | Ugaritic | nr "light" (DULAT 633) |
 | Arabic | nūr "light" |
+| Eblaite | nu-ru₁₂-um 'light' (GlOS 2, 114) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

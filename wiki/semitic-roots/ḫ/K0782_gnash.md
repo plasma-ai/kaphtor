@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/K0782_gnash
 title: "*ḫVrVq-: 'gnash'"
-desc: "Proto-Semitic *ḫVrVq-, 'gnash': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḫVrVq-, 'gnash': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0782"
@@ -29,10 +29,15 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | ḥaraqa (Tāj 25:149) | Tāj 25:149 | gloss withheld |
 | Aramaic | ḤRQ (CAL s.v. ḥrq) | CAL s.v. ḥrq; Anderson–Moser 2024 root ḫrq | gloss withheld |
 | Hebrew | ḥaraq 'gnash' | Anderson–Moser 2024 root ḫrq |  |
 | Syrian Aramaic | ḥraq 'cut; fix, appoint, destine; gnash teeth' (Payne Smith 159) | Payne Smith 159 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Arabic ḥaraqa has ḥ. Cf. 2484 \*ḥrḳ 'burn'.
 
 <!-- END kaphtor:record -->

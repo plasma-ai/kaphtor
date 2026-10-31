@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/G/GRA_plus_KU
 title: "GRA+KU"
-desc: "kunāšu 'emmer wheat' (logographic abbreviation). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity ideogram"]
+desc: "kunāšu 'emmer wheat' (logographic abbreviation). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity ideogram"]
 kind: "word"
 form: "GRA+KU"
 datasets: ["lexicon"]
-tier: 3
-confidence: "PROBABLE"
-confidence_score: 0.75
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.5
 reading: null
 attestations: ["HT61", "HT128a", "HT128b"]
 created: 2026-10-24T16:17:50Z
@@ -27,19 +27,30 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**PROBABLE**, tier 3 of 4, score 0.75
+**CANDIDATE**, tier 2 of 4, score 0.50
 
 | Field | Value |
 |---|---|
 | Meaning | kunāšu 'emmer wheat' (logographic abbreviation) |
 | Root | loan (Akk. kunāšu) |
+| Proto-Semitic | \*kunaṯ- (#1604) |
 | Language layer | Akkadian loanword |
 | Category | commodity ideogram |
 | Semantic field | commodity |
 
 ### Note
 
-GRA ideogram + KU adjunct (7 att.). Full spelling KU-NI-SU (CONFIRMED, 5 tablets) and abbreviation GRA+KU (3 tablets) at the same site in complementary distribution — full word as section heading without GRA, abbreviation inside GRA-headed allocation lists, never co-occurring. It meets Salgarella's full-spelling/monogram coexistence criterion at tablet level, the only ligature adjunct with a CONFIRMED expansion. On HT128a co-occurs with GRA+PA as distinct grain subtype.
+GRA ideogram + KU adjunct (7 att.): KU, the onset of kunāšu 'emmer', a word the corpus never writes in full. The Ugarit polyglot writes the word ku-na-šu beside native ku-sú-mu, so a West Semitic scribe knew it. On HT128a it co-occurs with GRA+PA as a distinct grain subtype. KU-NI-SU, at the same site, is read 'assembly', with kunāšu as its rival (see its entry).
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | polyglot \[ÁŠ = ku-na\]-šu = ku-sú-mu 'emmer' (GlOS 1, 323) |
+
+### Source
+
+di Mino; GlOS 1
 
 ## Attestations
 

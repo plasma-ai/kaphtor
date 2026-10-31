@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʔǝbn (Kogan 2015, ch. 1 §1.3 no. 81) | Kogan 2015 ch. 1 §1.3 no. 81 |  |
 | Phoenician | ʔbn (T 2) | T 2 | gloss withheld |
 | Hebrew | ʔĕbĕn |  |  |
-| Epigraphic South Arabian | ʔbn (Sabaweb lemma 3455) | Sabaweb lemma 3455 | gloss withheld |
+| Epigraphic South Arabian | ʔbn (Sabaweb lemma 3455); Qat. ʔbn (Ricks 1982 s.v. ʔbnm) | Sabaweb lemma 3455; Ricks 1982 s.v. ʔbnm | gloss withheld |
 | Harari | un (Kogan 2015, ch. 7 §2.2 no. 81) | Kogan 2015 ch. 7 §2.2 no. 81 |  |
 | Syrian Aramaic | ʔabn- Br 2 Js 65:3, 1 Petr 2:27 |  | gloss withheld |
 | Aramaic | (Emp) ʔbn (DNWSI 6 apud CAL) | DNWSI 6; CAL |  |

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qubaʿ |
 | Meaning | goblet, cup (vessel term on HT31 inventory) |
 | Root | q-b-ʿ |
+| Proto-Semitic | \*ḳab- (#1610) |
 | Language layer | NWS |
 | Category | vessel |
 | Semantic field | vessel |
@@ -42,9 +43,16 @@ updated: 2026-10-24T16:17:50Z
 
 Gordon (§163) read qa-pa = kappu (√k-p-p 'palm/vessel'). PA₃=/ba/ changes the surface consonant to /b/. Written on the \*402-VS vessel logogram on HT31 (qty 10). Part of Gordon's HT31 vessel quartet (§163) \|\| LENITION ARGUMENT: Unlike SU-PA₃-RA and KA-RO-PA₃, lenition does NOT restore Gordon here: kappu has geminate /pp/, and geminates resist intervocalic voicing cross-linguistically (cf. begadkephat: post-vocalic /p/→/f/ but /pp/ stays). The scribe wrote PA₃ because the word genuinely had /b/ \|\| Hebrew qubaʿat (קֻבַּעַת, Isaiah 51:17,22) 'goblet/cup'—an actual vessel term with original /b/. ʿAyin drops per 99.3% convention
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Emar | qú-pa-ḫu, qu-bá-ḫu ZABAR qubbaʿ 'cup, goblet', written with PA (GlOS 1, 338) |
+| Ugaritic | qbʿt 'goblet' (DULAT 681) |
+
 ### Source
 
-Gordon 1966 §163; di Mino; cf. Stieglitz (Kadmos 10, 1971, 111) who proposed Akkadian qapūtu / Hebrew qūpāh as alternative
+Gordon 1966 §163; di Mino; GlOS 1; DULAT; cf. Stieglitz (Kadmos 10, 1971, 111) who proposed Akkadian qapūtu / Hebrew qūpāh as alternative
 
 ## Attestations
 

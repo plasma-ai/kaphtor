@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ṯ
 desc: "Semitic roots whose first radical is ṯ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T22:13:43Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/ṯ
@@ -51,7 +51,7 @@ updated: 2026-10-28T22:13:43Z
 
 [[wiki/semitic-roots/ṯ/2704_shekel_weight_unit|2704_shekel_weight_unit]]: Proto-Semitic *ṯiḳl-, 'shekel, weight (unit)': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ṯ/2748_eight|2748_eight]]: Proto-Semitic *ṯamāniy-, 'eight': reflexes in 22 language(s).
+[[wiki/semitic-roots/ṯ/2748_eight|2748_eight]]: Proto-Semitic *ṯamāniy-, 'eight': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/ṯ/2791_ewe|2791_ewe]]: Proto-Semitic *ṯaʾ(w/y)-at- {} *čaʾ(w/y)-at-, 'ewe': reflexes in 9 language(s).
 
@@ -84,6 +84,12 @@ updated: 2026-10-28T22:13:43Z
 [[wiki/semitic-roots/ṯ/3600_to_roar_cry_of_animals_1_roaring_neighing_2|3600_to_roar_cry_of_animals_1_roaring_neighing_2]]: Proto-Semitic *ṯʾg, 'to roar, cry (of animals)' 1, 'roaring, neighing' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṯ/3710_to_smash_break_to_defeat|3710_to_smash_break_to_defeat]]: Proto-Semitic *ṯlʕ, 'to smash, break; to defeat': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṯ/3780_gift_tribute|3780_gift_tribute]]: Proto-Semitic *ṯay-, 'gift, tribute': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ṯ/3787_stalk_reed_1_reed_flute_2|3787_stalk_reed_1_reed_flute_2]]: Proto-Semitic *ṯulp-, 'stalk, reed' 1, 'reed flute' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ṯ/3807_noble_lord|3807_noble_lord]]: Proto-Semitic *ṯVwVʕ-, 'noble, lord': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ṯ/484_march_proudly|484_march_proudly]]: Proto-Semitic *ṯVnVy-, 'march proudly': reflexes in 1 language(s).
 

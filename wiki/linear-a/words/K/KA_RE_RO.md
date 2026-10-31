@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT Wc 3003, a roundel (HM 77), KA-RE-RO alone, all three signs whole and undotted, no ideogram (GORILA II 72). Nuzi Qa-ri-ru, Ka-ri-ru(m), Qa-ri-ri, at least six men (NPN 80); Gelb gives root qrr, cf. Qar-ru-ru (NPN 322), Purves a Hurrian kar- (NPN 223). Sign for sign, RE for ri. A word alone on a roundel as ZU-DI-RA on HT Wc 3011. Rival: \*ka/irr- 'ram' (semitic_roots no. 2220; Ug. kr, DULAT 449), the roundel's commodity, with the r written twice. One witness.
+HT Wc 3003, a roundel (HM 77), KA-RE-RO alone, all three signs whole and undotted, no ideogram (GORILA II 72). Nuzi Qa-ri-ru, Ka-ri-ru(m), Qa-ri-ri, at least six men (NPN 80); Gelb gives root qrr, cf. Qar-ru-ru (NPN 322), Purves a Hurrian kar- (NPN 223). Sign for sign, RE for ri. A word alone on a roundel as ZU-DI-RA on HT Wc 3011. Rival: \*ka/irr- 'ram' (#2220; Ug. kr, DULAT 449), the roundel's commodity, with the r written twice. One witness.
 
 ### Cognates
 

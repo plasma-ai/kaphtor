@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tanāt(ē) |
 | Meaning | Tanāt—the Serpent-Goddess (= Punic Tanit/TNT). Feminine of \*tannīn\* with -t suffix; or related to A-TA-NA-TE (ʾAtanat, √y-t-n), which follows it on ZA10a. |
 | Root | t-n-n |
+| Proto-Semitic | \*tinnīt- (#2967) + \*tVnnVn- (#238) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |
 
 ### Note
 
-Cf. LB ta-na-to (KN De 1618). Related to A-TA-NA-TE (ʾAtanat, √y-t-n), or else √t-n-n (Tinit) (di Mino, Ya Diktu, there ṯ-n-n); Ugaritic tnn and Punic tnt write t, and Linear A writes ṯ with ZU. The a-vocalization (\*Tanāt\*) reflects the archaic form; TI-NI-TA (\*Tinnīt\*) reflects the Punic vowel-raising shift (\*a &gt; i\* in geminate -nn- environment), attested in El-Hofra Greek-Punic bilinguals (Θεννειθ alongside Θινιθ). Three TNT-family forms span HT and ZA.
+Cf. LB ta-na-to (KN De 1618). Related to A-TA-NA-TE (ʾAtanat, √y-t-n), or else √t-n-n (Tinit) (di Mino, Ya Diktu, there ṯ-n-n); Ugaritic tnn and Punic tnt write t, and Linear A writes ṯ with ZU. The a-vocalization (\*Tanāt\*) reflects the archaic form; TI-NI-TA (\*Tinnīt\*) reflects the Punic vowel-raising shift (\*a &gt; i\* in geminate -nn- environment), attested in El-Hofra Greek-Punic bilinguals (Θεννειθ alongside Θινιθ). Three TNT-family forms span HT and ZA. See TA-NA-TI.
 
 ### Cognates
 

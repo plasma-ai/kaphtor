@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾakmina |
 | Meaning | I shelter (verbal PN) |
 | Root | k-m-n |
+| Proto-Semitic | \*kmn (#3237) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

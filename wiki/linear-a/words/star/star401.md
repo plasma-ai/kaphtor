@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ruqqû |
 | Meaning | aromatic preparation, compounded ointment—commodity ideogram for perfumed/refined oil products |
 | Root | r-q-ḥ |
+| Proto-Semitic | \*rVḳVḥ- (#S15) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Commodity ideogram with two phonetic complements: +RU (×7, all Khania) and +RO (×3, KH31/KH91/MI2), plus compound +\*304 (×2, HT33/KH12). PS S15 √r-q-ḥ "to mix aromatics, compound ointment": Akk. ruqqû "perfumed oil" (CAD R 418), rāqiḫu "ointment-mixer"; Heb. rōqēaḥ "perfumer, apothecary" (BDB 955), riqqūḥīm "spices, perfumes" (Song 8:2); Ug. rqḥ "perfumer" (DULAT 734), mrqḥt "mixed spices"; Phoen. rqḥ "perfumer" (DNWSI 1082). +RU = ru- initial → ruqqû "perfumed/refined oil"; +RO = rō- initial → rōqēaḥ "compounded ointment". Both subtypes appear on KH91 proving distinct products. +\*304(pidru) compound = fat-based aromatic preparation. Co-occurrence profile: CYP (cyperus), OLE (olive oil), \*308 (šamnu), \*304 (pidru)—exclusively aromatic/oil register. Fractional quantities (¹⁄₅, ¹⁄₁₆) = concentrated aromatic. 13/15 attestations at Khania, paralleling Pylos as Mycenaean perfume center (PY Un 267).
+Commodity ideogram with two phonetic complements: +RU (×7, all Khania) and +RO (×3, KH31/KH91/MI2), plus compound +\*304 (×2, HT33/KH12). √r-q-ḥ "to mix aromatics, compound ointment": Akk. ruqqû "perfumed oil" (CAD R 418), rāqiḫu "ointment-mixer"; Heb. rōqēaḥ "perfumer, apothecary" (BDB 955), riqqūḥīm "spices, perfumes" (Song 8:2); Ug. rqḥ "perfumer" (DULAT 734), mrqḥt "mixed spices"; Phoen. rqḥ "perfumer" (DNWSI 1082). +RU = ru- initial → ruqqû "perfumed/refined oil"; +RO = rō- initial → rōqēaḥ "compounded ointment". Both subtypes appear on KH91 proving distinct products. +\*304(pidru) compound = fat-based aromatic preparation. Co-occurrence profile: CYP (cyperus), OLE (olive oil), \*308 (šamnu), \*304 (pidru)—exclusively aromatic/oil register. Fractional quantities (¹⁄₅, ¹⁄₁₆) = concentrated aromatic. 13/15 attestations at Khania, paralleling Pylos as Mycenaean perfume center (PY Un 267). See RO-QA.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | ruqqû 'to prepare perfume'; ruqqû adj. 'perfumed (oil)' (CAD R 420); raqqû 'oil presser, perfume maker' (CAD R 173) |
+| Ugaritic | rqḥ 'perfumer, druggist', in šmn rqḥ 'perfumer's oil', KTU 4.91:5 (DULAT 734); rqḥ 'perfume, ointment' (DULAT 735) |
+| Hebrew | rōqaḥ 'mixture of ointments'; reqaḥ 'spice mixture' (HALOT 1290); šemen mišḥat-qōdeš rōqaḥ, Exod 30:25 |
+| Phoenician | rqḥ 'ointment mixer, perfumer'; rqḥ 'ointment, perfume, spice' (Krahmalkov 447) |
 
 ### Source
 

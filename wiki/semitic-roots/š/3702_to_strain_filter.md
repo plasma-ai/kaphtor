@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Akkadian šāḫilu 'strainer, filter' (CAD Š/1 96–97) and Syriac šaḥlā 'strainer, filter; firepan; lamp saucer' (Payne Smith 571) are two formations; CAD Š/1 97 cites von Soden for taking the late NB references of šāḫilu as Aramaic šᵉḥīlā 'bucket'. Cf. 3215 \*nḫl 'to sieve'. Not 399 \*šVḥal- 'make a cloth', nor 2414 \*šaḥal- 'lion'.
+Arabic šaḫala 'to strain (a drink)' (Tāj 29:251) has š where \*š gives Arabic s. Akkadian šāḫilu 'strainer, filter' (CAD Š/1 96–97) and Syriac šaḥlā 'strainer, filter; firepan; lamp saucer' (Payne Smith 571) are two formations; CAD Š/1 97 cites von Soden for taking the late NB references of šāḫilu as Aramaic šᵉḥīlā 'bucket'. Cf. 3215 \*nḫl 'to sieve'. Not 399 \*šVḥal- 'make a cloth', nor 2414 \*šaḥal- 'lion'.
 
 <!-- END kaphtor:record -->

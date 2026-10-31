@@ -33,13 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | dādu-Mīnō |
 | Meaning | Beloved of Minos (theophoric PN) |
-| Root | d-w-d + m-n-y |
+| Root | d-w-d + m-n-y / m-n-n |
+| Proto-Semitic | \*dawid- (#19) + \*maniy-at- (#2703) + \*mVnn- (#3776) |
 | Language layer | NWS |
 | Semantic field | personal_name |
 
 ### Note
 
-KN Zf 31, a silver dress pin from a Mavro Spelio tomb: DA-DỤ-MI-NE between \]SỊ-ZẠ-NE-\*310 and QA-MI-\*47-NA-RA, DU dotted (GORILA IV 155). DA-DU 'beloved' + MI-NE, Minos (√m-n-y 'to allot'). 'Beloved of DN' is a name type: Heb. Yədîdyāh (2 Sam 12:25), Ug. ydd il (KTU 1.4 VII 46). Ebla has da-du dādu 'beloved' as a name (Pagan 1998, row 1401). Hurrian builds the type on tad- 'to love'; DA writes /da/ and /ta/. Weak point: MI-NE as Minos stands on this word alone (TRYZb1 \]MI-NE\[ ≈ \]NE-MI\[ is broken both sides). Rival: a Hurrian tadu- name. One attestation.
+KN Zf 31, a silver dress pin from a Mavro Spelio tomb: DA-DỤ-MI-NE between \]SỊ-ZẠ-NE-\*310 and QA-MI-\*47-NA-RA, DU dotted (GORILA IV 155). DA-DU 'beloved' + MI-NE, Minos (√m-n-y 'to allot'). 'Beloved of DN' is a name type: Heb. Yədîdyāh (2 Sam 12:25), Ug. ydd il (KTU 1.4 VII 46). The type dādu + DN: Ebla da-du-ʾIl 'beloved is ʾIl' (Pagan 1998, row 1402), Mari da-du-ma-lik, da-du-me-er (GlOS 1, 152). Hurrian builds the type on tad- 'to love'; DA writes /da/ and /ta/. Weak point: MI-NE as Minos stands on this word alone (TRYZb1 \]MI-NE\[ ≈ \]NE-MI\[ is broken both sides). Rival: a Hurrian tadu- name. One attestation. See TA-DI, I-DA-DA, DA-DU-\*301 and PI-MI-NA-TE.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ KN Zf 31, a silver dress pin from a Mavro Spelio tomb: DA-DỤ-MI-NE between \]S
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998; GlOS 1
 
 ## Attestations
 

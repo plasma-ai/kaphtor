@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kinnār |
 | Meaning | lyre (Hebrew kinnōr כִּנּוֹר) |
 | Root | k-n-r |
+| Proto-Semitic | \*kinor- (#K0097) |
 | Language layer | NWS |
 | Category | vessel |
 | Semantic field | ritual |
@@ -42,9 +43,16 @@ updated: 2026-10-24T16:17:50Z
 
 Qty 1 on inventory tablet. KI-IN-RE = ki+in+re → kinnār. Anchor reading for \*310=/in/. Hebrew kinnōr is the ancient stringed instrument played by David.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Old Syrian | kinnār 'harp, lyre', ki-na-ri-im, GIŠ ki-in-na-ra-tim (GlOS 1, 312) |
+| Ugaritic | knr 'harp, lyre' (GlOS 1, 313) |
+
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

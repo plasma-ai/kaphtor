@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/747_seed_1_peppers_2
 title: "*bizr-: 'seed' 1, 'peppers' 2"
-desc: "Proto-Semitic *bizr-, 'seed' 1, 'peppers' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *bizr-, 'seed' 1, 'peppers' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "747"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Qat. bzrtm (pl.) 1 (Ricks 1982 s.v. bzrtm) | Ricks 1982 s.v. bzrtm | gloss withheld |
 | Arabic | bizr- 1 (Lane 199) | Lane 199 |  |
 | Mehri | bezār 2 |  |  |
 | Harsusi | bezār 2 |  |  |

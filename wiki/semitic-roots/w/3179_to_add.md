@@ -37,7 +37,7 @@ updated: 2026-10-24T15:25:56Z
 | Judaic Aramaic | JPA ysp (aph.) (DJPA 243 apud SEDonline 2029); JBA ysp (aph.) (DJBA 539 apud SEDonline 2029) | DJPA 243; SEDonline 2029; DJBA 539 | gloss withheld |
 | Syrian Aramaic | ysp (aph.) (LSyr. 304 apud SEDonline 2029) | LSyr. 304; SEDonline 2029 | gloss withheld |
 | Mandaic Aramaic | yzp (ettaf.) (MD 191 apud SEDonline 2029) | MD 191; SEDonline 2029 | gloss withheld |
-| Epigraphic South Arabian | Sab ws₃f (SD 164 apud SEDonline 2029; Sabaweb lemma 1214) | SD 164; SEDonline 2029; Sabaweb lemma 1214 | gloss withheld |
+| Epigraphic South Arabian | Sab ws₃f (SD 164 apud SEDonline 2029; Sabaweb lemma 1214); Qat. ws3f (Ricks 1982 s.v. ws3f) | SD 164; SEDonline 2029; Sabaweb lemma 1214; Ricks 1982 s.v. ws3f | gloss withheld |
 | Soqotri | sef (LS 283; SLOnline 24538) | LS 283; SLOnline 24538 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

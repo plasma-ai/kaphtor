@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | bē |
 | Meaning | in, at (preposition) |
 | Root | b |
+| Proto-Semitic | \*bV-- (#K0007) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | particle |

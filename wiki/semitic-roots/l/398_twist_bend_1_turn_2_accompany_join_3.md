@@ -31,7 +31,7 @@ updated: 2026-10-26T14:26:59Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | lwy \[-i-\] 1 (Lane 3015) | Lane 3015 |  |
-| Mehri | lewō 2 |  |  |
+| Mehri | lewō 2; látwi 1 (Rubin 2018 829) | Rubin 2018 829 | gloss withheld |
 | Harsusi | lewō 2 |  |  |
 | Jibbali | lwy 2 |  |  |
 | Geez | lawaya (LGz. 322); lawawa (LGz. 321) | LGz. 322; LGz. 321 | gloss withheld |

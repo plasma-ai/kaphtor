@@ -33,18 +33,28 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | riqqu |
 | Meaning | aromatic/fragrant olive oil preparation |
-| Root | r-q-q |
+| Root | r-q-ḥ |
+| Proto-Semitic | \*rVḳVḥ- (#S15) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-OLE ideogram + RI complement (4 att., Haghia Triada + Khania). Akk riqqu 'aromatic substance' (CAD R 371). RI = /ri/ = initial syllable of riqqu. Co-occurs with OLE+NE and OLE+TU on HT23a (all in fractional quantities ≈⅙). Cf. \*401=RUQQÛ (√r-q-ḥ 'perfumed oil')—related aromatic register but different root (√r-q-q vs √r-q-ḥ). \|\| Myrrh co-occurs on 3 of 4 tablets, independent contextual evidence.
+OLE ideogram + RI complement (4 att., Haghia Triada + Khania). Akk riqqu 'aromatic substance' (CAD R 371). RI = /ri/ = initial syllable of riqqu. Co-occurs with OLE+NE and OLE+TU on HT23a (all in fractional quantities ≈⅙). Same root as \*401 RUQQÛ: Akk. rīqu/riqqu, Ebla GIŠ.NAGA = rí-ga-tum riqaḥt 'spiced, oily ointment' and Ug. rqḥ 'perfume, ointment' stand under one root \|r-ḳ-ħ\| (GlOS 2, 165). \|\| Myrrh co-occurs on 3 of 4 tablets, independent contextual evidence.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | riqqu 'aromatic plant, aromatics' (CAD R 368) |
+| Ugaritic | rqḥ (II) 'perfume, ointment' (DULAT 735) |
+| Hebrew | reqaḥ 'spice mixture, spices' (HALOT 1290) |
+| Phoenician | rqḥ 'ointment, perfume, spice' (Krahmalkov 447) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 

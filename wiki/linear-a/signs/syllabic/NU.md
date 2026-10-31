@@ -45,11 +45,11 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KA_NU\|A-KA-NU]] | ʾagānu | CONFIRMED |
-| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | ʿAnānu | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | Ḥanānu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Dimenu | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_KI_SI_KI_NU\|JA-KI-SI-KI-NU]] | yaksīkin | CANDIDATE |
 | [[wiki/linear-a/words/J/JI_NU_MA_RE\|JI-NU-MA-RE]] | yinumare | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | kanuti / ganuti | PROBABLE |
+| [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | Ganuti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_NU\|KI-NU]] | Kīnu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | PROBABLE |
 | [[wiki/linear-a/words/M/MI_NU_TE\|MI-NU-TE]] | minūt | PROBABLE |
@@ -66,7 +66,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
-| [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯaniya | SPECULATIVE |
+| [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_NU\|TU-NU]] | Tunu | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_NU_star21F\|U-NU-\*21F]] | Unuḫu | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | CANDIDATE |

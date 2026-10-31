@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Dūdāma |
 | Meaning | Beloved (personal name, √d-w-d + -ma); rival the Aegean name of the Keftiu board and Linear B di-du-me |
 | Root | d-w-d |
+| Proto-Semitic | \*dawid- (#19) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). The same name has the consonants d-d-m in three scripts: Egyptian d-ȝ-d-ȝ-m of the Keftiu writing board and Linear B di-du-me, di-du-mo (Dautais & Gabolde 2025, 14–15). Not DA-DU-MA-TA dadmatu (√d-d-m). One attestation.
+HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). The same name has the consonants d-d-m in three scripts: Egyptian d-ȝ-d-ȝ-m of the Keftiu writing board and Linear B di-du-me, di-du-mo (Dautais & Gabolde 2025, 14–15). Not DA-DU-MA-TA dadmatu (√d-d-m). One attestation. See TA-DI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*dawid- 'uncle; beloved' (semitic_roots no. 19) |
 | Hebrew | dûdāʾîm 'mandrakes, love-apples' (Gen 30:14; Song 7:14), the u-ā form of √d-w-d |
 | Amorite | DAWD-U\*MA, DA-DU-MA (Gelb 1980, no. 1433); DAWD-A (no. 1413) |
 | Egyptian | {d-j}-d-ȝ-d-ȝ-m{a}, an 'Aegean' beneficiary of a wine account, BM EA 5647 v. I 3a (Dautais & Gabolde 2025, 14–15) |

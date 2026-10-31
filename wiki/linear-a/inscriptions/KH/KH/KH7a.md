@@ -76,7 +76,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Copper: \*313b-men 10; cyperus ½. Yabame · Tatta ·; Kattike: \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
+> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Copper: \*313b-men 10; cyperus ½. The brother-in-law of Tatta: Kattike, \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | naḥāši | copper, bronze (section heading) | CANDIDATE | CANDIDATE (lexicon) |
 | VIR+\*313b |  | men of the \*313b class, 10 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
-| [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | progenitress, sister-in-law (divine epithet of Anath) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | brother-in-law (of Tatta) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TA_TA\|TA-TA]] | Tatta | Hurrian personal name; rival the Anatolian name Tata | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_TI_KI\|QA-TI-KI]] | Kattike | Hurrian personal name, on kad- 'to say'; rival katki 'utterance' | SPECULATIVE | SPECULATIVE (lexicon) |
 | VIR+\*313b |  | men of the \*313b class, 4 | CONFIRMED |  |

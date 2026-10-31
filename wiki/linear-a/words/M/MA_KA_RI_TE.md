@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | makkārītu |
 | Meaning | merchants (heading of a roster of men); rival 'red (wool)' |
 | Root | m-k-r |
+| Proto-Semitic | \*makir- (#S22) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |

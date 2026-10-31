@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/K/KI_RA
 title: "KI-RA"
-desc: "kirû/qīra: possibly garden/orchard; alternatively liquid bitumen. Lexicon, CANDIDATE (tier 2)."
+desc: "kirû/qīra: possibly garden/orchard; alternatively hot bitumen. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "administrative"]
 kind: "word"
 form: "KI-RA"
@@ -32,14 +32,22 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kirû/qīra |
-| Meaning | possibly garden/orchard; alternatively liquid bitumen |
+| Meaning | possibly garden/orchard; alternatively hot bitumen |
+| Root | k-r-y |
+| Proto-Semitic | \*kiry- (#2312) |
 | Language layer | Akkadian_or_NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-KI-RA occurs on HT103 with 5½ and opens ZA8 before A-TA-RE, which is followed by NI ‘figs’ ½. ‘Balance’, from its resemblance to KI-RO, has no support on HT103, which provides no balancing equation: NI 40 is not marked as a total, and no KU-RO occurs. Akkadian kirû(m) ‘garden, orchard’ (base kiri-; Huehnergard 1997, 126) fits the horticultural contexts, although KI-RA does not reproduce its inflection exactly. Akkadian qīru ‘liquid bitumen,’ attested syllabically as qi-ra, is formally closer but requires KI to represent /qi/ and fits ZA8 less well. ‘Garden/orchard’ is the preferred candidate; the entry remains unproved.
+KI-RA occurs on HT103 with 5½ and opens ZA8 before A-TA-RE, which is followed by NI ‘figs’ ½. ‘Balance’, from its resemblance to KI-RO, has no support on HT103, which provides no balancing equation: NI 40 is not marked as a total, and no KU-RO occurs. Akkadian kirû(m) ‘garden, orchard’ (base kiri-; Huehnergard 1997, 126) fits the horticultural contexts, although KI-RA does not reproduce its inflection exactly. Akkadian qīru ‘hot bitumen’ (CAD Q 270), attested syllabically as qi-ra, is formally closer but requires KI to represent /qi/ and fits ZA8 less well. ‘Garden/orchard’ is the preferred candidate; the entry remains unproved.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | kirû 'garden, orchard, palm grove' (CAD K 411); qīru 'hot bitumen' (CAD Q 270), the rival |
 
 ### Source
 

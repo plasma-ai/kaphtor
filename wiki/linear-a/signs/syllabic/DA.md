@@ -48,7 +48,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
-| [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾaddar(t) | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
@@ -85,7 +85,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_DA\|I-DA-DA]] | dādā | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidamat | CANDIDATE |
-| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | Ida-mī | CANDIDATE |
+| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | ʾIda=mi | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | yadaʿšu | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | SPECULATIVE |

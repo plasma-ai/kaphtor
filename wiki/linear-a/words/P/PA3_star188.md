@@ -34,17 +34,24 @@ updated: 2026-10-24T16:17:50Z
 | Reading | bu-BUṬNU |
 | Meaning | terebinth (phonetic complement confirming /b/-onset) |
 | Root | b-ṭ-n |
+| Proto-Semitic | \*buṭm(-at)- (#3201) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-PA₃ = /b/ phonetic complement (dash notation). Confirms commodity name starts with /b/. HT8b Villa Magazine, qty 2.
+PA₃ = /b/ phonetic complement (dash notation). Confirms commodity name starts with /b/. HT8b Villa Magazine, qty 2. See \*188.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | GIŠ.EŠ₁₁ = buₓ-du-du buṭutt 'pistachio' (GlOS 1, 131) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

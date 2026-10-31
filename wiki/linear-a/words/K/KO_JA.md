@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Qōya / Quya |
 | Meaning | personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong') |
 | Root | q-w-y (Amorite QWJ, unglossed) |
+| Proto-Semitic | \*ḳVw- (#1678) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT119 KO-JA 10, second named entry of a personnel list (Scribe 9). Hypocoristic qōy-/quy- + -a (cf. Amorite -ya hypocoristics). Cuneiform has no o-vowel, so Gelb's KU- spellings fit /qō/ as well as /qu/; KO-JA needs /qō/ (from \*qaw- with aw &gt; ō) or a Minoan o/u interchange. Root gloss open: 'wait for, hope' (Hebrew qāwāh, as קַוֵּה אֶל־יְהוָה Ps 27:14, matching the imperative + DN shape of Quwi-Haddu; Akkadian quʾʾû 'await') or 'be strong' (Arabic qawiya). Weak points: two signs, vowel mismatch. One attestation.
+HT119 KO-JA 10, second named entry of a personnel list (Scribe 9). Hypocoristic qōy-/quy- + -a (cf. Amorite -ya hypocoristics). Cuneiform has no o-vowel, so Gelb's KU- spellings fit /qō/ as well as /qu/; KO-JA needs /qō/ (from \*qaw- with aw &gt; ō) or a Minoan o/u interchange. Root gloss open: 'wait for, hope' (Hebrew qāwāh, as קַוֵּה אֶל־יְהוָה Ps 27:14, matching the imperative + DN shape of Quwi-Haddu; Akkadian quʾʾû 'await') or 'be strong' (Arabic qawiya). Weak points: two signs, vowel mismatch. One attestation. See JA-KU and JA-KU-TI.
 
 ### Cognates
 

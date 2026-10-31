@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kōr |
 | Meaning | kor (dry measure); rival 'ram' |
 | Root | k-r-r |
+| Proto-Semitic | \*kurr- (#2993) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 HT 23a .5 · KO-RU 1, the last entry of side a after SI+ME 10, in a list of commodities with quantities (GORILA I 41). Akkadian kurru A 'a measure of capacity' (CAD K 564), Hebrew kōr (HALOT 496; 1 Kgs 5:2). Rival: Hebrew kar 'ram' (HALOT 496; Isa 16:1). One witness.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | kurru A 'a measure of capacity' (CAD K 564) |
+| Hebrew | kōr 'kor, dry or liquid measure', šəlōšîm kōr sōlet 'thirty kor of fine flour' (1 Kgs 5:2; HALOT 496); kar 'ram' (HALOT 496), the rival |
 
 ### Source
 

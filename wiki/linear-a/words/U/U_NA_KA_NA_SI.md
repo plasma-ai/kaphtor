@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | wannā kanāsī / winnā kanāsī |
 | Meaning | So, behold my gathering! (conjunction + presentative + G verbal noun kanāsī + 1cs -ī) |
 | Root | k-n-s |
+| Proto-Semitic | \*kanVs- (#2763) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | particle |
 
 ### Note
 
-U-NA is provisionally /wannā/ 'and behold,' comparing Ugaritic w hn ~ wn and Lipiński's \*wa-hanna/u &gt; wn; the alphabetic spelling does not fix the vowels, and /winnā/ remains possible. KA-NA-SI = \*kanāsī, a regular but unattested G verbal noun + 1cs -ī; Aramaic-shaped alternative \*knāšī (knāš 'gathering'); Syriac knšy 'gather!' (Peshitta Jer 10:17) is a live verbal rival. The -ī suffix is 1cs possessive, consistent with 1cs A- at Position 1. Translate the proposed action noun as 'my gathering'; reserve 'assembly' for a lexicalized collective formation. IO Za 2 and IO Za 9 are restored or partial witnesses; the group is intact on KO Za 1, PK Za 8, SY Za 2 and TL Za 1.
+U-NA is provisionally /wannā/ 'and behold,' comparing Ugaritic w hn ~ wn and Lipiński's \*wa-hanna/u &gt; wn; the alphabetic spelling does not fix the vowels, and /winnā/ remains possible. KA-NA-SI = \*kanāsī, a regular but unattested G verbal noun + 1cs -ī; Aramaic-shaped alternative \*knāšī (knāš 'gathering'); Syriac knšy 'gather!' (Peshitta Jer 10:17) is a live verbal rival. The -ī suffix is 1cs possessive, consistent with 1cs A- at Position 1. Translate the proposed action noun as 'my gathering'; reserve 'assembly' for a lexicalized collective formation. IO Za 2 and IO Za 9 are restored or partial witnesses; the group is intact on KO Za 1, PK Za 8, SY Za 2 and TL Za 1. Rival: kanāšī 'my submission' (√k-n-š, Akk. kanāšu 'bow down'; Amorite ka-na-šum, ka-ni-šum, Ebla gi-ne-su-um, GlOS 1, 313), the sense of Arabic ʾislām 'submission' (Q 3:19); SA and SI do not mark s against š. See U-NA-RU-KA-NA-SI and KU-NI-SU.
 
 ### Cognates
 
@@ -53,7 +54,7 @@ U-NA is provisionally /wannā/ 'and behold,' comparing Ugaritic w hn ~ wn and Li
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ### Review
 

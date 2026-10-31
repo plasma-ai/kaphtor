@@ -34,20 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯāpiṭu |
 | Meaning | judge (title) |
 | Root | ṯ-p-ṭ |
+| Proto-Semitic | \*ṯVpVṭ- (#987) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-PORZf2 (Poros Herakleiou, metal object): sole inscription—single word stamped on bronze, consistent with authority token or judicial seal \|\| ETYMOLOGY: PS #987 \*tVpVṭ- 'judge': Ug. ṯpṭ (Yamm's epithet ṯpṭ nhr 'Judge River'), Heb. šōpēṭ 'judge' (√š-p-ṭ, with ṯ→š in Hebrew), Arab. ṣabiṭ \|\| PHONOLOGY: Three neutralizations: T→ṯ, P→p (trivial), T→ṭ. Initial TU (not ZU) expected: ṯāpiṭu starts with /ṯā-/, and ZU=/ṯu/ only writes /ṯ/ before /u/. Before /ā/, the /ṯ/ neutralizes to T-series—same pattern as TE-JA-RE (tayru 'bull') where /ṯ/ before /a/ → TE. Independently confirms ZU's vowel-specific function
+PORZf2 (Poros Herakleiou, metal object): sole inscription—single word stamped on bronze, consistent with authority token or judicial seal \|\| ETYMOLOGY: Ug. ṯpṭ (Yamm's epithet ṯpṭ nhr 'Judge River'), Heb. šōpēṭ 'judge' (√š-p-ṭ, with ṯ→š in Hebrew), Arab. ṣabiṭ \|\| PHONOLOGY: Three neutralizations: T→ṯ, P→p (trivial), T→ṭ. Initial TU (not ZU) expected: ṯāpiṭu starts with /ṯā-/, and ZU=/ṯu/ only writes /ṯ/ before /u/. Before /ā/, the /ṯ/ neutralizes to the T-series.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*tVpVṭ- 'judge' (#987) |
-| Ugaritic | ṯpṭ 'judge' (epithet of Yamm) |
+| Ugaritic | ṯpṭ 'judge, ruler'; epithet of Yamm (DULAT 913) |
+| Old Syrian | Mari šāpiṭum 'judge, ruler' (GlOS 2, 327) |
 | Hebrew | šōpēṭ 'judge' (שׁוֹפֵט, with ṯ→š shift) |
 | Arabic | ḍābiṭ 'one who holds, regulates' |
 

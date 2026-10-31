@@ -57,6 +57,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_DU_MA_NE\|KA-DU-MA-NE]] | Qadmān | CONFIRMED |
 | [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] | Kakku-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_SA_NE\|KI-SA-NE]] | qīšāne | SPECULATIVE |
+| [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] | naḫnemina | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān / nātānān | PROBABLE |
 | [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_NE\|OLE+NE]] | neseku | CANDIDATE |

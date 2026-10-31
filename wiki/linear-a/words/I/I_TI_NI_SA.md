@@ -34,19 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾItniša |
 | Meaning | ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)' |
 | Root | y-t-n |
+| Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 15a .2 I-TI-NI-SA 10, intact, second entry under the first wine heading, after QE-SI-ZU-E 57 (GORILA III 183). ʾi-t-n-ša sign for sign as the Mari name IT-NU-ŠA (Gelb 1980, AS 21, 610); NI for nu is a vowel mismatch only. I-TI is not the preposition ʾitti, which cannot head a counted entry. Rival: ʾitnī-ša 'her gift (portion)', Ugaritic ỉtnn 'present' (DULAT 119). One witness.
+ZA 15a .2 I-TI-NI-SA 10, intact, second entry under the first wine heading, after QE-SI-ZU-E 57 (GORILA III 183). ʾi-t-n-ša sign for sign as the Mari name IT-NU-ŠA (Gelb 1980, AS 21, 610); NI for nu is a vowel mismatch only. I-TI is not the preposition ʾitti, which cannot head a counted entry. Rival: ʾitnī-ša 'her gift (portion)', Ugaritic ỉtnn 'present' (DULAT 119). One witness. See JE-TA-NA, A-DU-NI-TA-NA and MA-TI-TI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ytn ~ \*ntn 'give' (semitic_roots 2608) |
 | Amorite | IT-NU-ŠA, Mari (Gelb 1980, AS 21, 610, no. 3828) |
 | Ugaritic | ỉtn PN, syll. it-ta-na\[; ỉtnn 'present' (DULAT 119) |
 

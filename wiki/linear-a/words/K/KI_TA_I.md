@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | gittī |
 | Meaning | of the (olive-)press, press-estate (nisbe -ī on gitt- 'press; farmstead, estate') |
 | Root | g-t |
+| Proto-Semitic | \*gint- (#3779) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-KI for /gi/, TA for /tt/, -I for the nisbe -ī. HT 123+124a, two joining palimpsest fragments (GORILA I 210–211): KI-TA-I · OLIV 31, \*308 8¼, KI-RO 1, the first of four parties in an olive and pressed-oil account beside PU-\*131A, SA-RU (šarru) and DA-TU; KU-RO OLIV 93½. A press-estate fits as a party beside a royal establishment: Ug. gt 'press; farmstead, estate' (DULAT 307). Rival: a personal or institutional name. One attestation; HT 29 has \[?\]-KI-TA, a name.
+KI for /gi/, TA for /tt/, -I for the nisbe -ī. HT 123+124a, two joining palimpsest fragments (GORILA I 210–211): KI-TA-I · OLIV 31, \*308 8¼, KI-RO 1, the first of four parties in an olive and pressed-oil account beside PU-\*131A, SA-RU (šarru) and DA-TU; KU-RO OLIV 93½. A press-estate fits as a party beside a royal establishment: Ug. gt 'press; farmstead, estate' (DULAT 307). Rival: a personal or institutional name. One attestation; HT 29 has \[?\]-KI-TA, a name. See \*312-TA.
 
 ### Cognates
 

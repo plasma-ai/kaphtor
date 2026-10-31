@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/l
@@ -154,6 +154,16 @@ updated: 2026-10-28T20:08:42Z
 [[wiki/semitic-roots/l/3753_to_strike_a_blow_with_the_fist|3753_to_strike_a_blow_with_the_fist]]: Proto-Semitic *lkm, 'to strike; a blow with the fist': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/l/3754_depth_of_the_sea_abyss|3754_depth_of_the_sea_abyss]]: Proto-Semitic *lgg, 'depth of the sea, abyss': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3816_turnip_rape|3816_turnip_rape]]: Proto-Semitic *lapt-, 'turnip, rape': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/l/3823_ladanum_aromatic_resin|3823_ladanum_aromatic_resin]]: Proto-Semitic *ladan-, 'ladanum (aromatic resin)': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/l/3851_mourner_wailer|3851_mourner_wailer]]: Proto-Semitic *lallār-, 'mourner, wailer': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/l/3856_to_catch_up_to_overtake|3856_to_catch_up_to_overtake]]: Proto-Semitic *lḥḳ, 'to catch up to, overtake': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3859_to_wrap_wind_around|3859_to_wrap_wind_around]]: Proto-Semitic *lpp, 'to wrap, wind around': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/l/398_twist_bend_1_turn_2_accompany_join_3|398_twist_bend_1_turn_2_accompany_join_3]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 12 language(s).
 

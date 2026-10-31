@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḏā-naquddi |
 | Meaning | He of the speckled (flock) (personal name); rival 'He of the head shepherd' |
 | Root | ḏ + n-q-d |
+| Proto-Semitic | \*naḳid-, \*naḳad- (#2577) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ HT 117a .8–9 DA-NE-KU-TI 1, after DA-MI-NU 1 and before KI-DA-RO 1, in the sec
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*naḳid- 'shepherd', \*naḳad- 'sheep' (semitic_roots no. 2577) |
 | Ugaritic | ksp d nqdm 'silver of the head shepherds' (KTU 4.369:8); nqd 'head shepherd' (DULAT 630); syll. mu-qa-dī 'grazing rights' (PRU 6 116; UVST NQD¹) |
 | Hebrew | nōqēd נֹקֵד 'sheep-breeder', of Mesha (2 Kgs 3:4); nāqōd נָקֹד 'speckled' (Gen 30:32) |
 

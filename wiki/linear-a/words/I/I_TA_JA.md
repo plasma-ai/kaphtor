@@ -47,12 +47,13 @@ HT 28a: I-TA-JA OLE+DI 10, the last recipient of the A-SI-JA-KA list, after A-RU
 | Language | Comparison |
 |---|---|
 | Hebrew | ʾIttay (אִתַּי), Ittai the Gittite (2 Sam 15:19; HALOT 102); Ittai son of Ribai (2 Sam 23:29) |
+| Old Babylonian | it-ta-ia Ittāya, a woman at Kiš (de Boer 2014, 402) |
 | Neo-Assyrian | {m}i-ta-a-a (Schøyen 52, Assur) |
 | Linear B | i-ta-ja, a woman (KN Ap 769.2); o-pi i-ta-ja\[ (KN Od 537.3) |
 
 ### Source
 
-di Mino
+di Mino; de Boer 2014
 
 ## Attestations
 

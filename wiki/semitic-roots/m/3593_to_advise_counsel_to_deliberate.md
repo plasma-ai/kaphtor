@@ -34,7 +34,7 @@ updated: 2026-10-26T14:26:59Z
 | Judaic Aramaic | milkā (HALOT 592) | HALOT 592 | gloss withheld |
 | Syrian Aramaic | mlak 'to counsel; to promise'; melkā 'counsel, advice' (Payne Smith 277) | Payne Smith 277 |  |
 | Mandaic Aramaic | mlk (HALOT 591) | HALOT 591 | gloss withheld |
-| Eblaitic | /miliktum/: name mi-li-gi-du (Scarpa 2020, 111) | Scarpa 2020, 111 | gloss withheld |
+| Eblaitic | /miliktum/: name mi-li-gi-du (Scarpa 2020, 111); mi-ga-an mi-ga \[milkan milka(m)\] (impv. /milik-an/) (Fronzaroli 1995, 53) | Scarpa 2020, 111; Fronzaroli 1995, 53 | gloss withheld |
 | Amorite | milkum (Gelb AS 21, 25); milk-: \*milk- or \*milk- (Huffmon APNM 231) | Gelb AS 21 25; Huffmon APNM 231 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

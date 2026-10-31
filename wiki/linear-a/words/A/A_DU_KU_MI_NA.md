@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAddu-kamina |
 | Meaning | Addu has sheltered (compound theophoric PN) |
 | Root | ʾ-d-d + k-m-n |
+| Proto-Semitic | \*hadad- (#3186) + \*kmn (#3237) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |

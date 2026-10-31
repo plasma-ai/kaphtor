@@ -33,13 +33,27 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | wayn 'wine' |
 | Root | w-y-n |
+| Proto-Semitic | \*wayn- (#K0457) |
 | Language layer | NWS |
 | Category | commodity ideogram |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting wine. 52 standalone, 10 sites—widest commodity distribution in the corpus. On HT89 it follows KU-RO in a separate commodity section; the numeral 6 is damaged. \|\| ETYMOLOGY: PS \*wayn- (Heb. yayin, Ug. yn, Gk. oinos &lt; \*woinos). VIN+WA compound (2×, HT27b) shows WA as possible phonetic complement for /wa-/ of \*wayn-. \|\| VIN-GRA-SA triad on HT27b = canonical wine-grain-beer commodity set. \|\| No JA-NE 'wine' occurs in the corpus: Gordon's ya-ne (1966, §123) is KNZb4, whose corrected reading is JA-SI (see JA-SI). The \*wayn- etymology rests on the VIN+WA complement alone, distinct from the secure commodity function.
+Non-phonetic commodity ideogram denoting wine. 52 standalone, 10 sites—widest commodity distribution in the corpus. On HT89 it follows KU-RO in a separate commodity section; the numeral 6 is damaged. \|\| ETYMOLOGY: Heb. yayin, Ug. yn, Gk. oinos &lt; \*woinos. VIN+WA compound (2×, HT27b) shows WA as possible phonetic complement for /wa-/ of \*wayn-. Canaanite is y-initial (Ug. yn; Amarna ye-ni, EA 84:44; Aphek ye-nu; GlOS 2, 366), so a WA complement writes pre-shift wayn. \|\| VIN-GRA-SA triad on HT27b = canonical wine-grain-beer commodity set. \|\| No JA-NE 'wine' occurs in the corpus: Gordon's ya-ne (1966, §123) is KNZb4, whose corrected reading is JA-SI (see JA-SI). The \*wayn- etymology rests on the VIN+WA complement alone, distinct from the secure commodity function. See JI-NU-MA-RE.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | yn 'wine' (DULAT 954) |
+| Hebrew | yayin 'wine' (HALOT 409) |
+| Phoenician | yn 'wine' (Krahmalkov 211) |
+| Arabic | wayn 'grapes, vine' (HALOT 409) |
+
+### Source
+
+di Mino; GlOS 2
 
 ## Attestations
 

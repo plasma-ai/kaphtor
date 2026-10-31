@@ -33,7 +33,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | qê |
 | Meaning | measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation |
-| Root | q-b-b |
+| Root | q-w |
+| Proto-Semitic | \*ḳū- (#3853) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | administrative |

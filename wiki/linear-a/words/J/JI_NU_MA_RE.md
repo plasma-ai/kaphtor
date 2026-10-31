@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yinumare |
 | Meaning | wine-lords, wine-stewards (personnel category) |
 | Root | y-y-n + m-r |
+| Proto-Semitic | \*wayn- (#K0457) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
 
 ### Note
 
-Compound: yīnu (wine, √y-y-n) + mārē (lords/sons, √m-r-y). Appears exclusively on wine distribution tablets at Zakros (3× with quantities 6, 13, 20). Functions as a personnel category label alongside personal names and SI-PI-KI 'pressings'. Wine-steward officials who administer palace wine allocations. The main support for \*28B = JI, a proposed value; WE (wēnu-mārē, wēnu &lt; \*wayn) reads the word as well as JI. Negri (SMEA 43/1, 2001, 82) assigns i-nu-ma-re to personal names, from its recurring slot beside SI-PI-KI.
+Compound: yīnu (wine, √y-y-n) + mārē (lords/sons, √m-r-y). Appears exclusively on wine distribution tablets at Zakros (3× with quantities 6, 13, 20). Functions as a personnel category label alongside personal names and SI-PI-KI 'pressings'. Wine-steward officials who administer palace wine allocations. The main support for \*28B = JI, a proposed value; WE (wēnu-mārē, wēnu &lt; \*wayn) reads the word as well as JI. Negri (SMEA 43/1, 2001, 82) assigns i-nu-ma-re to personal names, from its recurring slot beside SI-PI-KI. See VIN.
 
 ### Cognates
 
@@ -49,7 +50,6 @@ Compound: yīnu (wine, √y-y-n) + mārē (lords/sons, √m-r-y). Appears exclus
 | Hebrew | yayin (יַיִן) 'wine' + mārē plural of 'lord' |
 | Ugaritic | yn 'wine' |
 | Akkadian | māru 'son/lord', plural mārē/mārū |
-| Proto-Semitic | \*wayn- / \*yayn- 'wine' (→ Greek oinos &lt; \*woinos) |
 
 ### Source
 

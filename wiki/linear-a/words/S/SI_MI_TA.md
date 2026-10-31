@@ -34,25 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Śīmat |
 | Meaning | personal name (f.), on √ś-y-m 'to place, fix'; rival Šimʿat |
 | Root | ś-y-m |
+| Proto-Semitic | \*śVyVm- (#K0500) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE (GORILA I 156). śīmat, the women's name of Amorite ŚIJM-AT-UM, ŠI-MA-TUM (Gelb no. 5893): SI writes ś, which merges into the S series, and MI for ma is a vowel mismatch only. Rival: Hebrew Šimʿat (2 Kgs 12:22), with the ʿ unwritten. One witness.
+HT 96a .2 SI-MI-TA GRA 5, the first recipient under I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE (GORILA I 156). śīmat, the women's name of Amorite ŚIJM-AT-UM, ŠI-MA-TUM (Gelb no. 5893): SI writes ś, which merges into the S series, and MI for ma is a vowel mismatch only. Rival: Hebrew Šimʿat (2 Kgs 12:22), with the ʿ unwritten. One witness. See SA-JA-MA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*śVyVm- 'place' (semitic_roots no. K0500) |
 | Amorite | ŚIJM-AT-UM, ŠI-MA-TUM, fem.; ŚIJM-AT+DAGAN, ŠI-MA-AT-D-DA-GAN, fem. (Gelb 1980 nos. 5893, 5888) |
+| Eblaite | si-mi-dum, śīm(a)t 'destiny' (GlOS 2, 282) |
+| Mari | Šīmatum, ši-ma-tim, daughter of Zimri-Lim (FM IV, 283; FM V, 285) |
 | Hebrew | Šimʿat, PN (2 Kgs 12:22), rival |
 
 ### Source
 
-di Mino; Gelb 1980
+di Mino; Gelb 1980; GlOS 2; FM IV; FM V
 
 ## Attestations
 

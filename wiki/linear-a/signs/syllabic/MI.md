@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Dimenu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] | dawmi | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_NI_MI\|DU-NI-MI]] | ʾadunim / ʾadunīm | CANDIDATE |
-| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | Ida-mī | CANDIDATE |
+| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | ʾIda=mi | CANDIDATE |
 | [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | ʾī-Mīšaru | PROBABLE |
 | [[wiki/linear-a/words/I/I_PI_NA_MI_NA\|I-PI-NA-MI-NA]] | ʾippina=mi=na | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | SPECULATIVE |
@@ -72,9 +72,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_TA\|MI-TA]] | mitta | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_TU\|MI-TU]] | mītu | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_ZA_SE\|MI-ZA-SE]] | mizza-se | SPECULATIVE |
+| [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] | naḫnemina | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_MI\|OLE+MI]] | mišḥā | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | \[…\]-pi-minate | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_MI_SI\|RI-MI-SI]] | Rimši | CANDIDATE |
 | [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |

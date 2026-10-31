@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kidinni |
 | Meaning | personal name, 'protection (of the god)' (Akk. kidinnu) |
 | Root | k-d-n |
+| Proto-Semitic | \*kdn (#3846) |
 | Language layer | Akkadian |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT93a .3 KI-DI-NI 5 J H, in a grain list of recipients with DI-RI-NA, A-SE, SA-RA₂ and QA-QA-RU. Akkadian kidinnu 'divine protection', in Old Babylonian personal names Ki-din-Amurrum and Ki-di-nu-um (CAD K 342–343). Rival: kittini 'linen' (Akk. kitû, Ug. ktn), which needs DI for ti and a textile in a grain list. One attestation.
+HT93a .3 KI-DI-NI 5 J H, in a grain list of recipients with DI-RI-NA, A-SE, SA-RA₂ and QA-QA-RU. Akkadian kidinnu 'divine protection', in Old Babylonian personal names Ki-din-Amurrum and Ki-di-nu-um (CAD K 342–343); the bare name is Middle Assyrian ki-di-ni Kidinni (ORACC tcma/assur, Assur 3/1 no. 2, r. 27). Rival: kittini 'linen' (Akk. kitû, Ug. ktn), which needs DI for ti and a textile in a grain list. One attestation.
 
 ### Cognates
 
@@ -50,7 +51,7 @@ HT93a .3 KI-DI-NI 5 J H, in a grain list of recipients with DI-RI-NA, A-SE, SA-R
 
 ### Source
 
-di Mino
+di Mino; ORACC tcma
 
 ## Attestations
 

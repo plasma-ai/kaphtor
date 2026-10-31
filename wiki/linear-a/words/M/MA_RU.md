@@ -34,26 +34,27 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Maruʾ |
 | Meaning | Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool' |
 | Root | m-r-ʾ |
+| Proto-Semitic | \*mrʾ ~ \*mariʾ- (#1084) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a, the fourth of ten men at 1 each under MA-KA-RI-TE · KI-RO · U-MI-NA-SI (KU-RO 10), between KU-RA-MU Kurmu and KU-PA₃-NU Kubānu. Amorite names open with MA-RU on MRʾ: MARUʾ+JAT-UM MA-RU-IA-TUM, MARUʾ+LI+ʾEL MA-RU-LI-EL, MAʾR-U+ZAʾT-U-HU MA-RU-ZA-TU-U₂ (Gelb 1980, nos. 4542, 4543, 4545), beside MAʾR-A+ʾEL MA-RA-EL and MAʾR-AT-UM MA-RA-TUM (nos. 4531, 4536); Gelb lists MRʾ? as a verb. MA-RU is the stem alone, the glottal stop unwritten. \*mrʾ 'to be fat; fat cattle' (semitic_roots no. 1084), Ugaritic mrủ 'fatling' (DULAT 563): an animal name, as TE-JA-RE Tayru 'Bull' on the same list. Rival: Maru 'Wool', the wool word of the ligature MA+RU (A559) and MA+RU-ME (HT 24a), source of Greek μαλλός; Linear B ma-ro-ne, a man at Knossos (KN Fh 347). One witness.
+HT 117a, the fourth of ten men at 1 each under MA-KA-RI-TE · KI-RO · U-MI-NA-SI (KU-RO 10), between KU-RA-MU Kurmu and KU-PA₃-NU Kubānu. Amorite names open with MA-RU on MRʾ: MARUʾ+JAT-UM MA-RU-IA-TUM, MARUʾ+LI+ʾEL MA-RU-LI-EL, MAʾR-U+ZAʾT-U-HU MA-RU-ZA-TU-U₂ (Gelb 1980, nos. 4542, 4543, 4545), beside MAʾR-A+ʾEL MA-RA-EL and MAʾR-AT-UM MA-RA-TUM (nos. 4531, 4536); Gelb lists MRʾ? as a verb. MA-RU is the stem alone, the glottal stop unwritten. Ugaritic mrủ 'fatling' (DULAT 563): an animal name, as TE-JA-RE Tayru 'Bull' on the same list. Rival: Maru 'Wool', the wool word of the ligature MA+RU (A559) and MA+RU-ME (HT 24a), source of Greek μαλλός; Linear B ma-ro-ne, a man at Knossos (KN Fh 347). One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | MARUʾ+JAT-UM, MARUʾ+LI+ʾEL, MAʾR-U+ZAʾT-U-HU, all written MA-RU- (Gelb 1980, nos. 4542, 4543, 4545) |
-| Ugaritic | mrủ 'fattened; fatling' (DULAT 563) |
+| Amorite | MARUʾ+JAT-UM, MARUʾ+LI+ʾEL, MAʾR-U+ZAʾT-U-HU, all written MA-RU- (Gelb 1980, nos. 4542, 4543, 4545); Tuttul dādu-marʾum 'my beloved is fat' (Buck 2018, 327) |
+| Ugaritic | mrủ 'fattened; fatling' (DULAT 563); syll. ma-ru-u 'fattened' (GlOS 2, 46) |
 | Hebrew | mərîʾ 'fatling' |
 | Linear A | rival MA+RU (A559), the wool logogram, and MA+RU-ME (HT 24a) |
 
 ### Source
 
-di Mino; Gelb 1980; DULAT
+di Mino; Gelb 1980; DULAT; Buck 2018; GlOS 2
 
 ## Attestations
 

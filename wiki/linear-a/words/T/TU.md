@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṯawr |
 | Meaning | bull, cattle (logographic abbreviation of ṯawr; administrative commodity category for bovine livestock/products) |
 | Root | ṯ-w-r |
+| Proto-Semitic | \*ṯawr- (#269) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | animal |
 
 ### Note
 
-Two complete witnesses: HT 49a .8 TU 4 (GORILA I 93) and KH 91 .3 TU ¹⁄₁₆ (V 45). The fraction on KH 91 marks a measured commodity, not a person. Every other TU is broken or dotted: HT 55a \]TU 1\[ (I 107), HT 79+83 \]TU-\[·\] 3 (I 127), HT 98a \]TU 1 (I 161), HT 126b \]TU 6 (I 217), KH 2 TU-\[ (III 23), KH 51 TU\[ (III 75), KH 57 \]TU\[ (III 79), ZA 12b \]TỤ\[ (III 177), PH(?) 31b TU-\[ (I 319). Spelling: ṯ→TU under the interdental mapping (as ZU = /ṯu/), √ṯ-w-r → ṯawr → TU, first-syllable abbreviation. \|\| Huehnergard: Ug ṯwr /ṯōru/ &lt; \*ṯawru "bull"; II-w qatl nominal. Pl. /ṯōrūma/ or /ṯarūma/(?). Also √ṯwr "mountain": /ġūru/ &lt; \*ṯuwru (qutl pattern). BH cognate: šōr "bull, ox" (&lt; \*ṯawr- with interdental &gt; sibilant shift) (Huehnergard 2012, p. 42)
+Two complete witnesses: HT 49a .8 TU 4 (GORILA I 93) and KH 91 .3 TU ¹⁄₁₆ (V 45). The fraction on KH 91 marks a measured commodity, not a person. Every other TU is broken or dotted: HT 55a \]TU 1\[ (I 107), HT 79+83 \]TU-\[·\] 3 (I 127), HT 98a \]TU 1 (I 161), HT 126b \]TU 6 (I 217), KH 2 TU-\[ (III 23), KH 51 TU\[ (III 75), KH 57 \]TU\[ (III 79), ZA 12b \]TỤ\[ (III 177), PH(?) 31b TU-\[ (I 319). Spelling: ṯ→TU under the interdental mapping (as ZU = /ṯu/), √ṯ-w-r → ṯawr → TU, first-syllable abbreviation. \|\| Huehnergard: Ug ṯwr /ṯōru/ &lt; \*ṯawru "bull"; II-w qatl nominal. Pl. /ṯōrūma/ or /ṯarūma/(?). Also √ṯwr "mountain": /ġūru/ &lt; \*ṯuwru (qutl pattern). BH cognate: šōr "bull, ox" (&lt; \*ṯawr- with interdental &gt; sibilant shift) (Huehnergard 2012, p. 42). See I-ZU-RI-NI-TA.
 
 ### Cognates
 

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾamita |
 | Meaning | handmaid (of the goddess) |
 | Root | ʾ-m-t |
+| Proto-Semitic | \*ʾam(a)t- (#2783) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
@@ -46,7 +47,6 @@ Ug. amt aṯrt 'handmaid of Asherah' (Gordon p. 91). On the Zakros tablet ZA10b,
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʾamat- |
 | Akkadian | amtu 'slave woman, handmaid' |
 | Hebrew | אָמָה (ʾāmāh) 'handmaid' |
 | Arabic | أَمَة (ʾamat) 'slave woman' |

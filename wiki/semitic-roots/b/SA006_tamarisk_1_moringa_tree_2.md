@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab bwn (SD 33; Biella 38; Sabaweb lemma 1946) | SD 33; Biella 38; Sabaweb lemma 1946 | gloss withheld |
+| Epigraphic South Arabian | Sab bwn (SD 33; Biella 38; Sabaweb lemma 1946); Qat. ʔbwn (pl.) 2 (Ricks 1982 s.v. ʔbwn) | SD 33; Biella 38; Sabaweb lemma 1946; Ricks 1982 s.v. ʔbwn | gloss withheld |
 | Arabic | Ar bānaᵗ, coll bān (Biella 38) | Biella 38 |  |
 | Akkadian | bīnu (Kogan 2011, 202) | Kogan 2011 202 | gloss withheld |
 | Eblaitic | ba-ne, ba-nu (Kogan 2011, 202; VE 395; Krebernik 1983, 15); ì-zu ba-ne(-um) /bayn/ 1 (Sanmartín GlOS 1, 135) | Kogan 2011 202; VE 395; Krebernik 1983, 15; Sanmartín GlOS 1, 135 | gloss withheld |

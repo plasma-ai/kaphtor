@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾukulti |
 | Meaning | food, provisions (section heading) |
 | Root | ʾ-k-l |
+| Proto-Semitic | \*ʾVkul- (#819) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -47,13 +48,14 @@ Heads ZA6b's first section over GRA+PA 50¼, VIN+RA 40, VIN+KA 10; \*312-TA₂ h
 | Language | Comparison |
 |---|---|
 | Akkadian | ukultu 'food, fodder' |
+| Ugaritic | ảkl 'food, grain, fodder' (GlOS 1, 18) |
 | Hebrew | ʾoklâ (אָכְלָה) 'food' (Gen 1:29–30) |
 | Geʿez | ʾəkl 'frumentum, hordeum' (Dillmann 1865, no. 5774) |
 | Sabaic | ʾkl 'grain crops' (Beeston 1982, 4–5) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

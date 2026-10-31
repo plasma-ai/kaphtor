@@ -33,13 +33,23 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | zayt 'olive (fruit)' |
 | Root | z-y-t |
+| Proto-Semitic | \*zayt- (#2694) |
 | Language layer | NWS |
 | Category | commodity ideogram |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting olive fruit (distinct from OLE = šamnu 'oil'). PS \*zayt (Heb. zayit, Ug. zt, Arab. zaytūn). OLIV and OLE co-occur on same tablets with separate quantities (HT50a, HT101, HT116a)—fruit vs product. HT123+124a: OLIV 31 + \*308 (pressed oil) 8¼ = olive processing record. HTW231a: OLIV alone on sealing = commodity label. \*OLIV+TU sub-type compound (3×). 24 standalone, 17 tablets, 5 sites. Standard commodity logogram shared with Linear B.
+Non-phonetic commodity ideogram denoting olive fruit (distinct from OLE = šamnu 'oil'). Heb. zayit, Ug. zt, Arab. zaytūn. OLIV and OLE co-occur on same tablets with separate quantities (HT50a, HT101, HT116a)—fruit vs product. HT123+124a: OLIV 31 + \*308 (pressed oil) 8¼ = olive processing record. HTW231a: OLIV alone on sealing = commodity label. \*OLIV+TU sub-type compound (3×). 24 standalone, 17 tablets, 5 sites. Standard commodity logogram shared with Linear B.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | zt 'olive; olive tree; olive grove' (DULAT 984) |
+| Hebrew | zayit 'olive tree, olive' (HALOT 268) |
+| Phoenician | zt 'olive(s)' (Krahmalkov 174) |
+| Arabic | zayt 'olive oil' (Lane 1274) |
 
 ## Attestations
 

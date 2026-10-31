@@ -34,6 +34,7 @@ updated: 2026-10-26T15:04:43Z
 | Reading | Dīnī |
 | Meaning | personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wdny |
 | Root | d-y-n |
+| Proto-Semitic | \*dyn- (#S36) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ HT Wc 3007 WA-DI-NI, the only text; HT Wc 3008 face a WA · DI-NI, the point aft
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*dyn- 'to judge; judgment' (semitic_roots no. S36) |
 | Amorite | Dīnī-Haddu, DI-NI-A-DU, DI-NA-A-DU (Gelb nos. 1513, 1512) |
 | Linear A | DI-NA-U Dīnāyu beside WA on HT 16 |
 

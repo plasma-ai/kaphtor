@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/K0080_myrtle
 title: "*hadas-: 'myrtle'"
-desc: "Proto-Semitic *hadas-, 'myrtle': reflexes in 5 language(s)."
+desc: "Proto-Semitic *hadas-, 'myrtle': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0080"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Arabic | hadas, Yemeni (Tāj 17:27) | Tāj 17:27 | gloss withheld |
 | Aramaic | hds (DJA 43a apud CAL) | CAL; Anderson–Moser 2024 root hadas | gloss withheld |
 | Geez | ʾadas 'myrtle' | Anderson–Moser 2024 root hadas |  |
 | Hebrew | hadas 'myrtle' | Anderson–Moser 2024 root hadas |  |

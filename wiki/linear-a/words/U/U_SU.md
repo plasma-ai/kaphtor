@@ -40,7 +40,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Amarna {uru}Usu (ORACC qpn, 4 instances; EA 121 among them)—Ušu, the mainland twin of Tyre. Standard š→s merger; no other assumption required. Counted roster item (qty 1, within the KU-RO 10) on HT117a, where the reverse face independently labels personnel by origin (DI-KI-SE 'the Diktaian', HT117b) and U-DI-MI (ʾUdumī) sits seven lines below—an origin-labeling practice, Levantine workers on a Haghia Triada roster. The gentilic personnel practice answers the objection that a toponym cannot designate a roster person. Against 6 u-initial Amarna toponyms and 19 U-initial short word types in the corpus, the two matches fall on one tablet face. Dissolves the u- 'and' conjunctive reading of the HT117a U- words.
+Amarna {uru}Usu (ORACC qpn, 4 instances: EA 148, 149, 150)—Ušu, the mainland twin of Tyre. Standard š→s merger; no other assumption required. Counted roster item (qty 1, within the KU-RO 10) on HT117a, where the reverse face independently labels personnel by origin (DI-KI-SE 'the Diktaian', HT117b) and U-DI-MI (ʾUdumī) sits seven lines below—an origin-labeling practice, Levantine workers on a Haghia Triada roster. The gentilic personnel practice answers the objection that a toponym cannot designate a roster person. Against 6 u-initial Amarna toponyms and 19 U-initial short word types in the corpus, the two matches fall on one tablet face. Dissolves the u- 'and' conjunctive reading of the HT117a U- words.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | {uru}U₂-su₂ Usu, Amarna, EA 148:11, 148 r. 30, 149 r. 49, 150 r. 18 (ORACC aemw/amarna) |
+| Hebrew | Ḥōsâ, a town of Asher by Tyre, wəšāb haggəbûl ḥōsâ 'and the border turned to Hosah' (Josh 19:29; HALOT 337, which sets Akkadian Uzu, Ušu beside it) |
 
 ### Source
 

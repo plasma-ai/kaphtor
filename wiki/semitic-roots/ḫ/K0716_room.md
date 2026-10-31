@@ -37,7 +37,7 @@ updated: 2026-10-26T14:26:59Z
 | Arabic | ḫidr- (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015 ch. 2 §4.2 no. 17 | gloss withheld |
 | Epigraphic South Arabian | Sab ḫdr (Kogan 2015, ch. 2 §4.2 no. 17; Sabaweb lemma 4248) | Kogan 2015 ch. 2 §4.2 no. 17; Sabaweb lemma 4248 | gloss withheld |
 | Jibbali | ḫádər (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015 ch. 2 §4.2 no. 17 | gloss withheld |
-| Eblaitic | ʔà-da-ru₁₂, ʔà-da-lu-um /ḥadrum/ (VE 337, 595; Krebernik 1983, 14) | VE 337, 595; Krebernik 1983, 14 | gloss withheld |
+| Eblaitic | ʔà-da-ru₁₂, ʔà-da-lu-um /ḥadrum/ (VE 337, 595; Krebernik 1983, 14; Bonechi 2008, 8) | VE 337, 595; Krebernik 1983, 14; Bonechi 2008, 8 | gloss withheld |
 | Emar | ḫi-id-ru /ḫidru/ (Pentiuc 2001, 67) | Pentiuc 2001 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

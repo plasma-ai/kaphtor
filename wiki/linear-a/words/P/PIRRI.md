@@ -33,12 +33,21 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Meaning | fruit |
 | Root | p-r-y |
+| Proto-Semitic | \*pir- (#756) |
 | Language layer | NWS |
 | Semantic field | commodity |
 
 ### Note
 
-Logogram \*322. 3× standalone on Khania roundels (commodity marker behavior). 1× \*322-RI on HT11a with phonetic complement -RI confirming /-rī/ ending. PS \*pir- (#756): Hebrew pǝrī, Ugaritic pr, Phoenician pr. Compare DUBUR and BUṬNU; \*49 PALM/TREE → TAMIR remains only a candidate complement pattern. HT11a context: allocation list alongside A-RU-RA-\[?\] (unread) and KA-RO-NA 'horn'.
+Logogram \*322. 3× standalone on Khania roundels (commodity marker behavior). 1× \*322-RI on HT11a with phonetic complement -RI confirming /-rī/ ending. Hebrew pǝrī, Ugaritic pr, Phoenician pr. Compare DUBUR and BUṬNU; \*49 PALM/TREE → TAMIR remains only a candidate complement pattern. HT11a context: allocation list alongside A-RU-RA-\[?\] (unread) and KA-RO-NA 'horn'.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | pərî 'fruit, produce' (HALOT 967) |
+| Ugaritic | pr (I) 'fruit', /pirû/ (DULAT 667) |
+| Phoenician | pr 'fruit, wealth' (Krahmalkov 406) |
 
 ## Attestations
 

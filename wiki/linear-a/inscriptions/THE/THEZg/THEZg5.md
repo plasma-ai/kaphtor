@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 | Scribe |  |
 | Edition | unattributed |
 | Series | THEZg |
-| Images |  |
+| Images | Michailidou |
 
 ## Text
 

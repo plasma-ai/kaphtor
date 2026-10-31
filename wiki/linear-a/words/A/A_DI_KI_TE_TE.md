@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾa-Diqqite de |
 | Meaning | O Dikte, she of \[the Dubur\] (name + determinative de) |
 | Root | d-q-q |
+| Proto-Semitic | \*diḳ(ḳ)- (#1654) |
 | Language layer | NWS |
 | Semantic field | divine |
 

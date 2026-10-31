@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | bet |  |  |
 | Hebrew | bayit |  |  |
 | Amharic | bēt |  |  |
-| Epigraphic South Arabian | byt (Sabaweb lemma 1285) | Sabaweb lemma 1285 | gloss withheld |
+| Epigraphic South Arabian | byt (Sabaweb lemma 1285); Qat. byt (Ricks 1982 s.v. byt) | Sabaweb lemma 1285; Ricks 1982 s.v. byt | gloss withheld |
 | Aramaic | (Palest) bayt-, bet-, (Nab, Palm) byt |  |  |
 | Tigrinya | bet |  |  |
 | Modern South Arabian | Mehri a-bətk (OLA80 §33.9) | OLA80 §33.9 | gloss withheld |

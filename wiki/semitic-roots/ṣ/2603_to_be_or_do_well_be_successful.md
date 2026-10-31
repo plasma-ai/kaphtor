@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mehri | ṣáyleḥ, ṣáyleḥ and haṣlēḥ (JM 363) | JM 363 | gloss withheld |
+| Mehri | ṣáyleḥ, ṣáyleḥ and haṣlēḥ (JM 363; Rubin 2018 831) | JM 363; Rubin 2018 831 | gloss withheld |
 | Harsusi | ṣáyleḥ |  | gloss withheld |
 | Hebrew | ṣlḥ (HALOT 1025) | HALOT 1025 | gloss withheld |
 | Judaic Aramaic | ṣlḥ af. (HALOT 1025) | HALOT 1025 | gloss withheld |

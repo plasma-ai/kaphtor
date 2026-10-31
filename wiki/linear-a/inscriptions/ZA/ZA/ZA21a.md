@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["*118-MI", "PA", "TE"]
+words: ["*118-MI", "PA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -72,6 +72,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star118_MI|\*118-MI]], [[wiki/linear-a/words/P/PA|PA]], [[wiki/linear-a/words/T/TE|TE]].
+[[wiki/linear-a/words/star/star118_MI|\*118-MI]], [[wiki/linear-a/words/P/PA|PA]].
 
 <!-- END kaphtor:record -->

@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾIdā bi-ʾišarī |
 | Meaning | Ida, in righteousness (toponym + prepositional phrase written as one word) |
 | Root | y-š-r (second element) |
+| Proto-Semitic | \*yad- ~ \*ʾid- (#2046) + \*yašar- (#1446) |
 | Language layer | NWS |
 | Category | ritual |
 | Semantic field | ritual |

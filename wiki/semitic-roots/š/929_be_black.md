@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/929_be_black
 title: "*šVwad-: 'be black'"
-desc: "Proto-Semitic *šVwad-, 'be black': reflexes in 1 language(s)."
+desc: "Proto-Semitic *šVwad-, 'be black': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "929"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ǝstǝwūd (Rubin 2018 830) | Rubin 2018 830 | gloss withheld |
 | Arabic | swd a,4 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

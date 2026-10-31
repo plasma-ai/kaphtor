@@ -51,7 +51,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_DA\|I-DA-DA]] | dādā | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidamat | CANDIDATE |
-| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | Ida-mī | CANDIDATE |
+| [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | ʾIda=mi | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |
@@ -86,6 +86,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |
+| [[wiki/linear-a/words/K/KO_SA_I_TI\|KO-SA-I-TI]] | Kōšayīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_I_MI\|MA-I-MI]] | mayimi | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | makisu | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | makita | CANDIDATE |
@@ -97,6 +98,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
+| [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
+| [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | CANDIDATE |
 
 <!-- END kaphtor:record -->

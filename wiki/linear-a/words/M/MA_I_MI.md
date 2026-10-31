@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | mayimi |
 | Meaning | water(-men), water-drawers of the sanctuary; rival Anatolian 'grown-ups' |
 | Root | \*may- 'water' |
+| Proto-Semitic | \*maʾ-/\*may- (#711) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT89 MA-I-MI 24, third of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /mayimi/ 'water' (DULAT 529): the sanctuary's water-drawers, cf. Josh 9:27 and Ezra 7:24 (gatekeepers, Nethinim); compare TA-RA. Rival: Uchitel 2006, 75, Anatolian 'grown-ups' from mai- 'to grow'; but Hittite makes the participle mi(y)ant- (EDHIL 541–42), and the -mi participle is Luwian (Finkelberg 1990/91: 80 n. 86), which has no verb mai- (Melchert 1993, 146). One witness.
+HT89 MA-I-MI 24, third of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /mayimi/ 'water' (DULAT 529): the sanctuary's water-drawers, cf. Josh 9:27 and Ezra 7:24 (gatekeepers, Nethinim); compare TA-RA. Rival: Uchitel 2006, 75, Anatolian 'grown-ups' from mai- 'to grow'; but Hittite makes the participle mi(y)ant- (EDHIL 541–42), and the -mi participle is Luwian (Finkelberg 1990/91: 80 n. 86), which has no verb mai- (Melchert 1993, 146). One witness. See MI-JA.
 
 ### Cognates
 

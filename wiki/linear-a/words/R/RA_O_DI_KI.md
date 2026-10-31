@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | rāʿû diqqi |
 | Meaning | herdsman of the small cattle (title, over a flock of 60); rival a personal name |
 | Root | r-ʿ-y + d-q-q |
+| Proto-Semitic | \*rVʕVy-, \*rāʕ- (#454) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
 
 ### Note
 
-PH 2 .1–2 RA-O-DI-KI 60, RA at the end of .1, under A-SE-TU-\*21F (the female small-cattle sign) and beside PI-RU-E-JU 60 and SE-SA-PA₃ 60 (GORILA I 288–289). rāʿû diqqi: the contracted nominative rāʿû &lt; \*rāʿiyu 'herdsman' (semitic_roots 454), O writing ʿu, and the genitive diqqi of \*diqq- 'small (cattle)', as in KA-NI-JA-MI qāniy-yammi. The same root as RO-E rōʿē (PH 24). Weak points: the spelling differs from RO-E; the attested words for small cattle are feminine (dqt, daqīqa). Rivals: a personal name; Hurrian -tiki (Papan-tiki, Monti 2017, 411), which leaves RA-O unread. One witness.
+PH 2 .1–2 RA-O-DI-KI 60, RA at the end of .1, under A-SE-TU-\*21F (the female small-cattle sign) and beside PI-RU-E-JU 60 and SE-SA-PA₃ 60 (GORILA I 288–289). rāʿû diqqi: the contracted nominative rāʿû &lt; \*rāʿiyu 'herdsman', O writing ʿu, and the genitive diqqi of \*diqq- 'small (cattle)', as in KA-NI-JA-MI qāniy-yammi. The same root as RO-E rōʿē (PH 24). Weak points: the spelling differs from RO-E; the attested words for small cattle are feminine (dqt, daqīqa). Rivals: a personal name; Hurrian -tiki (Papan-tiki, Monti 2017, 411), which leaves RA-O unread. One witness.
 
 ### Cognates
 

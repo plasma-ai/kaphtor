@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | banātu / panātu / (Ku)bānatu |
 | Meaning | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) |
 | Root | b-n-t (PS \*bint- "daughter") / p-n-y (PS \*pan- "face") / Kubaba derivative |
+| Proto-Semitic | \*bint- (#K0016) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | divine |
 
 ### Note
 
-Standalone on KH7b vessel allocation tablet (Khania) \|\| THREE READINGS: (1) banātu 'daughters' (P→/b/, Akk. fem. pl. of bintu, Ug. bnt, Heb. bānōt)—personnel category. (2) panātu 'faces/portions' (Akk., Heb. pānîm)—share categories. (3) (Ku)bānatu—tail of KU-PA-NA-TU (Kubaba feminine form attested in lexicon), possibly standalone devotee title \|\| Khania's Anatolian contact layer supports reading (3). Distinct from KU-PA-NA-TU which carries a KU- prefix. Dual registration per di Mino
+Standalone on KH7b vessel allocation tablet (Khania) \|\| THREE READINGS: (1) banātu 'daughters' (P→/b/, Akk. fem. pl. of bintu, Ug. bnt, Heb. bānōt)—personnel category. (2) panātu 'faces/portions' (Akk., Heb. pānîm)—share categories. (3) (Ku)bānatu—tail of KU-PA-NA-TU (Kubaba feminine form attested in lexicon), possibly standalone devotee title \|\| Khania's Anatolian contact layer supports reading (3). Distinct from KU-PA-NA-TU which carries a KU- prefix. Dual registration per di Mino. See PO-TO-KU-RO.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | bānôt 'daughters', plural of bat (HALOT 165) |
+| Ugaritic | bt 'daughter' (DULAT 241) |
+| Phoenician | bt 'daughter' (Krahmalkov 128) |
 
 ### Source
 

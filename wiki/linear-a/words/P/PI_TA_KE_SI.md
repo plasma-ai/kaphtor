@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Bīt-kissi |
 | Meaning | (Man) of the throne-house, crown dependant (title); rival Hurrian PN Pidi-kešḫi |
 | Root | b-y-t + k-s-ʾ |
+| Proto-Semitic | \*bayt- (#652) |
 | Language layer | NWS |
 | Category | title |
 | Semantic field | personnel |
@@ -46,7 +47,6 @@ HT 87 PI-TA-KE-SI 1, first of six one-unit entries under MA-KA-RI-TE in a roster
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*bayt- 'house' (semitic_roots no. 652) |
 | Akkadian | bīt kussî, É.GIŠ.GU.ZA, '1. royal property (real estate), 2. royal service' (CAD K 593); PN and PN ša GIŠ.GU.ZA 'belonging to the crown' (Alalakh 7:26; CAD K 592) |
 | Ugaritic | ksu 'seat, throne'; Emar /kissu/ (DULAT 456) |
 | Hurrian | kešḫi 'siège, trône', ki-iš-hi = Akk. kussû (Laroche 1980, 143–44), rival |

@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1), a name added below the total. Amorite GUʾUD-A, written GU-U₂-DA (Gelb 1980, no. 1791), sign for sign with the glottal stop unwritten; KU writes gu. Rivals: Kutta, Ku-ut-ta, a name NPN marks H.? (NPN 231); qāʾid 'chief' (semitic_roots no. 51; Sabaic qwd, Beeston 1982, 110). One witness.
+HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1), a name added below the total. Amorite GUʾUD-A, written GU-U₂-DA (Gelb 1980, no. 1791), sign for sign with the glottal stop unwritten; KU writes gu. Rivals: Kutta, Ku-ut-ta, a name NPN marks H.? (NPN 231); qāʾid 'chief' (#51; Sabaic qwd, Beeston 1982, 110). One witness.
 
 ### Cognates
 

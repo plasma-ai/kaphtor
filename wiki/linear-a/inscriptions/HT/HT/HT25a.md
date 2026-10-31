@@ -85,7 +85,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | She-of-the-Lion (priestess or cult title), 1 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TU_QE_NU\|TU-QE-NU]] |  | personal name (unread) |  | unread |
 | [[wiki/linear-a/words/Z/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulubu | the flautist, qualifier after TU-QE-NU, 1; rival Hurrian Tulbiya | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-lēwī | the Levite (ethnonymic designation) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-luwwī | the Levite (ethnonymic designation) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | farmer, tenant farmer, 1 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PA\|PA]] |  | single sign with 1 |  | CANDIDATE (lexicon) |
 

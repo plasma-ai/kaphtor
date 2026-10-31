@@ -33,13 +33,15 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | u |
 | Meaning | and (conjunction) |
+| Root | w |
+| Proto-Semitic | \*wV-- (#K0425) |
 | Language layer | NWS |
 | Category | particle |
 | Semantic field | particle |
 
 ### Note
 
-Second allomorph wa-: WA-DU-NI-MI 'and (to) the lord(s)' (HT6b, HT85b; see DU-NI-MI). Prefixed u-: U-DI-RI-KI. \|\| Gordon's only citation, Brice I,14 (\*ya-ta-no-x u ya-\[\*), is a ghost—in GORILA the U sits inside the formula verb JA-TA-I-\*301-U-JA (AP Za 1). GORILA has standalone U after a number on ARKH 4b (RE 10 U DE-MI 10) and HT 56a (… 11 ½ U \[). HT126a has U\[ broken after the sign and cannot establish an independent particle; HT47a's U̥\[ is likewise dotted and broken after (GORILA I 91). "And" fits but is unproven: Linear A accounts do not otherwise join entries with a conjunction. Other support: prefixed U-DI-RI-KI and the WA- allomorph (WA-DU-NI-MI).
+Second allomorph wa-: WA-DU-NI-MI 'and (to) the lord(s)' (HT6b, HT85b; see DU-NI-MI). Prefixed u-: U-DI-RI-KI. \|\| Gordon's only citation, Brice I,14 (\*ya-ta-no-x u ya-\[\*), is a ghost—in GORILA the U sits inside the formula verb JA-TA-I-\*301-U-JA (AP Za 1). GORILA has standalone U after a number on ARKH 4b (RE 10 U DE-MI 10) and HT 56a (… 11 ½ U \[). HT126a has U\[ broken after the sign and cannot establish an independent particle; HT47a's U̥\[ is likewise dotted and broken after (GORILA I 91). "And" fits but is unproven: Linear A accounts do not otherwise join entries with a conjunction. Other support: prefixed U-DI-RI-KI and the WA- allomorph (WA-DU-NI-MI). See WBQY.
 
 ### Cognates
 

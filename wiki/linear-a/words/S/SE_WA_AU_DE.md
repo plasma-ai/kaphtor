@@ -34,13 +34,20 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šawaʿ-dē |
 | Meaning | who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē) |
 | Root | š-w-ʿ |
+| Proto-Semitic | \*ŝVwVʕ- (#615) + \*ḏī- (#K0877) |
 | Language layer | NWS |
 | Category | verb_phrase |
 | Semantic field | ritual |
 
 ### Note
 
-ZA Zg 35 (label): \]A-MI-JA-RU · SE-WA-AU-DE. √š-w-ʿ 'cry for help' (Heb. šiwwaʿ, Isa 58:9; šawʿâ) + -DE dē, the relative of A-TA-I-\*301-DE-KA (di Mino, Ya Diktu): 'the one who cries out'. Weak point: AU is /aw/, one w more than the root. Rival: a second personal name, as on a label.
+ZA Zg 35 (label): \]A-MI-JA-RU · SE-WA-AU-DE. √š-w-ʿ 'cry for help' (Heb. šiwwaʿ, Isa 58:9; šawʿâ) + -DE dē, the relative of A-TA-I-\*301-DE-KA (di Mino, Ya Diktu): 'the one who cries out'. Weak point: AU is /aw/, one w more than the root. Rival: a second personal name, as on a label. See DU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | šwʿ 'call for help', təšawwaʿ wəyōʾmar hinnēnî 'you will cry for help, and he will say: Here I am' (Isa 58:9; HALOT 1443) |
 
 ### Source
 

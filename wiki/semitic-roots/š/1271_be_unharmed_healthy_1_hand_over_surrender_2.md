@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1271_be_unharmed_healthy_1_hand_over_surrender_2
 title: "*šVlVm- ~ *sVlVm-: 'be unharmed, healthy' 1, 'hand over, surrender' 2"
-desc: "Proto-Semitic *šVlVm- ~ *sVlVm-, 'be unharmed, healthy' 1, 'hand over, surrender' 2: reflexes in 17 language(s)."
+desc: "Proto-Semitic *šVlVm- ~ *sVlVm-, 'be unharmed, healthy' 1, 'hand over, surrender' 2: reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1271"
@@ -30,6 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | sīlǝm 1 (Rubin 2018 123) | Rubin 2018 123 | gloss withheld |
 | Arabic | slm; salima 'he was, or became, safe, or secure; or he escaped; … free, from evils of any kind' 1; sallama ilayhi š-šayʾa 'he gave to him the thing; or delivered it to him' 2 (Lane 1412) | Lane 1412 |  |
 | Akkadian | šalāmu; cf. salāmu, salīmu OB |  | gloss withheld |
 | Ugaritic | šlm |  | gloss withheld |

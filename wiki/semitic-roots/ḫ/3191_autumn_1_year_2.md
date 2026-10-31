@@ -32,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Akkadian | ḫarpu (Kogan 2011, 197) | Kogan 2011 197 |  |
 | Hebrew | ḥōräp (Kogan 2011, 197; HALOT 356) | Kogan 2011 197; HALOT 356 |  |
 | Arabic | ḫarīf- (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
-| Epigraphic South Arabian | ḫrf (Kogan 2011, 197; Sabaweb lemma 1379) (SD 62; Biella 211; Sabaweb lemma 1387) | Kogan 2011 197; Sabaweb lemma 1379; SD 62; Biella 211; Sabaweb lemma 1387 | gloss withheld |
+| Epigraphic South Arabian | ḫrf (Kogan 2011, 197; Sabaweb lemma 1379) (SD 62; Biella 211; Sabaweb lemma 1387); Qat. ḫrf 1, 2 (Ricks 1982 s.v. ḫrf) | Kogan 2011 197; Sabaweb lemma 1379; SD 62; Biella 211; Sabaweb lemma 1387; Ricks 1982 s.v. ḫrf | gloss withheld |
 | Geez | ḫarif (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
 | Mehri | ḫarf (Kogan 2011, 197) | Kogan 2011 197 |  |
 | Jibbali | ḫɔrf (Kogan 2011, 197) | Kogan 2011 197 |  |

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ʿbd (Krahmalkov 351) | Krahmalkov 351 | gloss withheld |
 | Hebrew | ʕebed (HALOT 774) | HALOT 774 | gloss withheld |
 | Greek | Αβδαδουσαρος (OLA80 §32.5) | OLA80 §32.5 | gloss withheld |
-| Epigraphic South Arabian | Sab ʿbd (SD 11; Sabaweb lemma 1400) | SD 11; Sabaweb lemma 1400 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿbd (SD 11; Sabaweb lemma 1400); Qat. ʕbd (Ricks 1982 s.v. ʕbd) | SD 11; Sabaweb lemma 1400; Ricks 1982 s.v. ʕbd | gloss withheld |
 | Aramaic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
 | Punic | ʿbd 'servant' | Anderson–Moser 2024 root ʿabd |  |
 | Amorite | ʿabdum (Gelb AS 21, 15); ʿabdu (Buck 2019, 324); ʿabd: ab-dV=, ab-tV=, ab-de₄(TE)-il (Ur III) (Sanmartín GlOS 1, 64) | Gelb AS 21 15; Buck 2019, 324; Sanmartín GlOS 1, 64 | gloss withheld |

@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["A-TI-RU", "E", "JA-PA", "JI-NU-MA-RE", "KA-DI", "SI-PI-KI"]
+words: ["A-TI-RU", "JA-PA", "JI-NU-MA-RE", "KA-DI", "SI-PI-KI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -42,8 +42,8 @@ Transliteration, line by line:
 
 1. 𐝫
 2. 𐝫
-3. E
-4. PI-\[?\]-SE 5
+3. \]E\[
+4. PI-\[?\]-SE\[ 5
 5. JA-TO-JA 3
 6. A-TI-RU 4
 7. JA-PA 1
@@ -88,7 +88,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/Q/q_TU_ME_SE_broken_start\|&#91;?&#93;-TU-ME-SE]] |  | unread, 18 units |  | unread |
 | [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] |  | unresolved, 4 units |  | unread |
 | [[wiki/linear-a/words/star/star28B_NU_MA_RE\|\*28B-NU-MA-RE]] | yīnu-mārē | wine-stewards (personnel category), 13 units | CANDIDATE |  |
-| [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | sipkī | pourings (libation portions), 5 units | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | pourings (libation portions), 5 units | CANDIDATE | CANDIDATE (lexicon) |
 | E-\*82 | ʿasī(s) | must, new wine—the bulk lot, 50 units | SPECULATIVE |  |
 | [[wiki/linear-a/words/K/KA_DI\|KA-DI]] | kaddū | jars, 3 units—closes the list | PROBABLE | PROBABLE (lexicon) |
 
@@ -102,7 +102,7 @@ di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_TI_RU|A-TI-RU]], [[wiki/linear-a/words/E/E|E]], [[wiki/linear-a/words/J/JA_PA|JA-PA]], [[wiki/linear-a/words/J/JI_NU_MA_RE|JI-NU-MA-RE]], [[wiki/linear-a/words/K/KA_DI|KA-DI]], [[wiki/linear-a/words/S/SI_PI_KI|SI-PI-KI]].
+[[wiki/linear-a/words/A/A_TI_RU|A-TI-RU]], [[wiki/linear-a/words/J/JA_PA|JA-PA]], [[wiki/linear-a/words/J/JI_NU_MA_RE|JI-NU-MA-RE]], [[wiki/linear-a/words/K/KA_DI|KA-DI]], [[wiki/linear-a/words/S/SI_PI_KI|SI-PI-KI]].
 
 ## Corpus note
 

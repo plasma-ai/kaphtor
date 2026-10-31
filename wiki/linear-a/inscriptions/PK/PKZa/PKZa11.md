@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Stone vessel"
 period: ""
 translation: "complete"
-words: ["A-DI-KI-TE-TE", "A-KO-A-NE", "A-TA-I-*301-WA-E", "DU-PU₂-RE", "I-NA", "I-NA-JA-PA-QA", "I-PI-NA-MI-NA", "JA-PA-QA", "KA-NA-TI", "PI-TE-RI", "SA-SA-RA-ME", "U-NA", "U-NA-RU-KA-NA-TI"]
+words: ["A-DI-KI-TE-TE", "A-KO-A-NE", "A-SA-SA-RA-ME", "A-TA-I-*301-WA-E", "DU-PU₂-RE", "I-NA", "I-NA-JA-PA-QA", "I-PI-NA-MI-NA", "JA-PA-QA", "KA-NA-TI", "PI-TE-RI", "U-NA", "U-NA-RU-KA-NA-TI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -65,8 +65,7 @@ Unicode (Linear A block):
 | A-DI-KI-TE-TE-\[DU-PU₂\]-RE | ʾa-Diqqite de \[dubu\]re | O Dikte, she of the Dubur | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | Pitrī/Puṭrī (personal name) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhēn | the priest (proposed title) | CANDIDATE | CANDIDATE (lexicon) |
-| A |  | line-break artifact (part of A-SA-SA-RA-ME) |  |  |
-| [[wiki/linear-a/words/S/SA_SA_RA_ME\|SA-SA-RA-ME]] | yaššaram | uprightly (accusative -am, √y-š-r; Palaikastro dialect drops JA- prefix) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | uprightly, in righteousness (cf. IO Za 2) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | so, behold, may you gather! | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/I/I_PI_NA_MI_NA\|I-PI-NA-MI-NA]] | ʾippina=mi=na | in the presence of | CANDIDATE | CANDIDATE (lexicon) |
 | SI-RU-\[?\] | šīrū | song | PROBABLE |  |
@@ -79,11 +78,11 @@ Context: Peak sanctuary libation formula—longest liturgical inscription (11 wo
 ### Source
 
 - Gordon 1966: A-TA-I-\*301-WA-E, RE
-- di Mino: A-TA-I-\*301-WA-E, A-DI-KI-TE-TE, PI-TE-RI, A-KO-A-NE, SA-SA-RA-ME, U-NA-RU-KA-NA-TI, I-PI-NA-MI-NA, I-NA-JA-PA-QA
+- di Mino: A-TA-I-\*301-WA-E, A-DI-KI-TE-TE, PI-TE-RI, A-KO-A-NE, A-SA-SA-RA-ME, U-NA-RU-KA-NA-TI, I-PI-NA-MI-NA, I-NA-JA-PA-QA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DI_KI_TE_TE|A-DI-KI-TE-TE]], [[wiki/linear-a/words/A/A_KO_A_NE|A-KO-A-NE]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A-TA-I-\*301-WA-E]], [[wiki/linear-a/words/D/DU_PU2_RE|DU-PU₂-RE]], [[wiki/linear-a/words/I/I_NA|I-NA]], [[wiki/linear-a/words/I/I_NA_JA_PA_QA|I-NA-JA-PA-QA]], [[wiki/linear-a/words/I/I_PI_NA_MI_NA|I-PI-NA-MI-NA]], [[wiki/linear-a/words/J/JA_PA_QA|JA-PA-QA]], [[wiki/linear-a/words/K/KA_NA_TI|KA-NA-TI]], [[wiki/linear-a/words/P/PI_TE_RI|PI-TE-RI]], [[wiki/linear-a/words/S/SA_SA_RA_ME|SA-SA-RA-ME]], [[wiki/linear-a/words/U/U_NA|U-NA]], [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI|U-NA-RU-KA-NA-TI]].
+[[wiki/linear-a/words/A/A_DI_KI_TE_TE|A-DI-KI-TE-TE]], [[wiki/linear-a/words/A/A_KO_A_NE|A-KO-A-NE]], [[wiki/linear-a/words/A/A_SA_SA_RA_ME|A-SA-SA-RA-ME]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A-TA-I-\*301-WA-E]], [[wiki/linear-a/words/D/DU_PU2_RE|DU-PU₂-RE]], [[wiki/linear-a/words/I/I_NA|I-NA]], [[wiki/linear-a/words/I/I_NA_JA_PA_QA|I-NA-JA-PA-QA]], [[wiki/linear-a/words/I/I_PI_NA_MI_NA|I-PI-NA-MI-NA]], [[wiki/linear-a/words/J/JA_PA_QA|JA-PA-QA]], [[wiki/linear-a/words/K/KA_NA_TI|KA-NA-TI]], [[wiki/linear-a/words/P/PI_TE_RI|PI-TE-RI]], [[wiki/linear-a/words/U/U_NA|U-NA]], [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI|U-NA-RU-KA-NA-TI]].
 
 ## Corpus note
 

@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. JU 𐄁 JA-SI 𐄁 SI
+1. \]-JU 𐄁 JA-SI 𐄁 SI\[
 
 Unicode (Linear A block):
 

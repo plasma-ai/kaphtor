@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qanah 'get' | Anderson–Moser 2024 root qny |  |
 | Punic | qny 'acquire' | Anderson–Moser 2024 root qny |  |
 | Ugaritic | qny (Leslau CDG 437) | Leslau CDG 437 | gloss withheld |
-| Epigraphic South Arabian | Sab qny (SD 106; Biella 458, 459; Sabaweb lemma 1332) | SD 106; Biella 458, 459; Sabaweb lemma 1332 | gloss withheld |
+| Epigraphic South Arabian | Sab qny (SD 106; Biella 458, 459; Sabaweb lemma 1332); Qat. qny (Ricks 1982 s.v. qny) | SD 106; Biella 458, 459; Sabaweb lemma 1332; Ricks 1982 s.v. qny | gloss withheld |
 | Judaic Aramaic | qənā (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Phoenician | qnh (HALOT 1111) | HALOT 1111 | gloss withheld |
 | Syrian Aramaic | qənā (HALOT 1111; Payne Smith 509); qanāyūtā (Payne Smith 510) | HALOT 1111; Payne Smith 509; Payne Smith 510 | gloss withheld |

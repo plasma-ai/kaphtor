@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | palaṭ 'escape' (BDB 812) | BDB 812 |  |
 | Punic | plṭ 'deliver' | Anderson–Moser 2024 root plṭ |  |
 | Phoenician | plṭ (B 390) | B 390 | gloss withheld |
-| Ugaritic | plṭ (Fronzaroli 1965b: 250 apud SEDonline 1593); /pullaṭu/ (UVST 168) | SEDonline 1593; UVST 168 | gloss withheld |
+| Ugaritic | plṭ (Fronzaroli 1965b: 250 apud SEDonline 1593); /pullaṭu/ (UVST 168) | Fronzaroli 1965b: 250; SEDonline 1593; UVST 168 | gloss withheld |
 | Amorite | p-l-ṭ: ia-ab-lu-te₉-el, a-ḫi-la-ap-la-aṭ (Sanmartín GlOS 2, 130) | Sanmartín GlOS 2, 130 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

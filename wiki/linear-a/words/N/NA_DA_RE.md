@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Nadr |
 | Meaning | personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re' |
 | Root | n-d-r |
+| Proto-Semitic | \*nVḏr- (#2709) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -42,9 +43,15 @@ updated: 2026-10-24T16:17:50Z
 
 From √n-d-r 'to vow'. Also read as Egyptian PN by Gordon. Huehnergard: G /nadara/, prefix /yaddur-/ (n-assimilation); impersonal 3mp attested; BH nādar. \|\| Attested on the HT117a personnel list (qty 1, beside MI-TU, KU-PA₃-NU, TE-JA-RE); Amorite NDR 'to vow' (Gelb AS 21 §0.7)—nadir- 'vowed one' as PN fits the roster slot. LB no-da-ro (KN As(1) 609, personnel) preserves the n-d-r frame.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Ugaritic | ndr 'vow', noun (GlOS 2, 80) |
+
 ### Source
 
-di Mino; Gordon (Egyptian PN)
+di Mino; Gordon (Egyptian PN); GlOS 2
 
 ## Attestations
 

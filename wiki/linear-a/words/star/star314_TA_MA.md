@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ḥatam(a) |
 | Meaning | seal, signet; or 'he sealed' (3ms perfective); rival buṭma 'pistachio' |
 | Root | ḥ-t-m |
+| Proto-Semitic | \*ḫatm- (#378) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |
@@ -41,6 +42,15 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 Contingent on \*314 = ḤA. Phaistos roundel (MMII)—sole word on the roundel. √ḥ-t-m 'to seal, stamp': Hebrew ḥōtām (חותם) 'seal, signet ring' (HALOT 300), Arabic ḫatama 'he sealed' (Lane 702); Akkadian ḫatāmu means only 'to muzzle, block' (CAD Ḫ 152). Either the noun 'seal' (labeling the administrative sealing device itself) or the 3ms perfective verb 'he sealed' (performative inscription). A word meaning 'seal' inscribed on a seal—contextually perfect. Pan-Semitic root attested from Old Akkadian through Modern Hebrew; Egyptian ḫtm 'seal, contract' extends the family Afroasiatic-wide. Weaker Egyptian rival ḥtm 'provide, supply' would suit a roundel-as-receipt, but the Semitic root carries the exact pharyngeal ḥ that \*314 encodes. \|\| TA is dotted (GORILA II 94). Rival with \*314 = bu, a PU₂ variant: bṭm 'pistachio' (DULAT 249), Arb. buṭm 'fruit of the terebinth' (Lane 219), a roundel commodity, Ebla bù-da-ma-tim 'pistachio' (GlOS 1, 131), cf. \*188 BUṬNU.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | ḥôtām 'seal, signet', Judah's ḥōtāmkā, Gen 38:18 (HALOT 300); ḥātam 'to seal' (HALOT 364) |
+| Phoenician | ḥtm 'signet-ring, seal'; hḥtm 'the seal-keeper' (Krahmalkov 200) |
+| Arabic | ḫatm, ḫātam 'seal, signet ring' (HALOT 300) |
+| Egyptian | ḫtm 'seal, signet ring; to close, seal', the source of the Semitic word (HALOT 300) |
 
 ### Source
 

@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 117a .7 KU-KU-DA-RA 1, all four signs whole and undotted, the first name under SA-TA Šata (GORILA I 197). Hurrian kukk- (NPN 229; ᶠKukku, Kukkuia, ᶠKukk-urašše, NPN 90) + adal 'strong' (Laroche GLH s.v. adali; NPN 207; Mari Tawen-atal 'Strong, pour (him)!', Monti 2017, 302), DA for d as Nuzi Zi-li-ip-a-da-al and Ur III Ḫa-ši-ba-da-al write it (NPN 207), RA for the final l. Linear B ku-ka-da-ro, a man at Knossos (KN Uf 836.b; DMic I), writes the a of adal. Both elements are attested, never together; Laroche counts Kuku among the Lallnamen (GLH Intro §6). Rival: ḳdr 'dark' (semitic_roots no. 1679) with KU-KU reduplicated, as KI-DA-RO Qidaru in the same roster. One witness.
+HT 117a .7 KU-KU-DA-RA 1, all four signs whole and undotted, the first name under SA-TA Šata (GORILA I 197). Hurrian kukk- (NPN 229; ᶠKukku, Kukkuia, ᶠKukk-urašše, NPN 90) + adal 'strong' (Laroche GLH s.v. adali; NPN 207; Mari Tawen-atal 'Strong, pour (him)!', Monti 2017, 302), DA for d as Nuzi Zi-li-ip-a-da-al and Ur III Ḫa-ši-ba-da-al write it (NPN 207), RA for the final l. Linear B ku-ka-da-ro, a man at Knossos (KN Uf 836.b; DMic I), writes the a of adal. Both elements are attested, never together; Laroche counts Kuku among the Lallnamen (GLH Intro §6). Rival: ḳdr 'dark' (#1679) with KU-KU reduplicated, as KI-DA-RO Qidaru in the same roster. One witness.
 
 ### Cognates
 

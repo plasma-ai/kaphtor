@@ -65,9 +65,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA\|KU-PA]] | quppa | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA_JA\|KU-PA-JA]] | Kubbaya | SPECULATIVE |
-| [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kubīri | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kuparī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA\|PA]] |  | CANDIDATE |
+| [[wiki/linear-a/words/P/PA\|PA]] | barr | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_DE\|PA-DE]] | Padī | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_I_TO\|PA-I-TO]] | Paito | CONFIRMED |
 | [[wiki/linear-a/words/P/PA_JA\|PA-JA]] | Pay | SPECULATIVE |

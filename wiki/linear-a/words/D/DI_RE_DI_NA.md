@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾaddir-dīnā |
 | Meaning | mighty is the judge (compound sentence name); rival a simplex recipient name |
 | Root | ʾ-d-r + d-y-n |
+| Proto-Semitic | \*ʾaddīr- (#1340) + \*dyn- (#S36) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Both constituent roots have their own lexicon entries: DI-DE-RU = ʾaddīru (PROBABLE, √ʾ-d-r), DI-NA-U = dīnāʾu (CANDIDATE, √d-y-n), DI-NA-RO = Dānīlu (CANDIDATE). NWS sentence-name formation: predicate adjective + agent noun. Hapax, a recipient of ½ on HT98a: ʾaddīr requires DI for /ʾad-/ with its vowel unwritten.
+Both constituent roots have their own lexicon entries: DI-DE-RU = ʾaddīru (PROBABLE, √ʾ-d-r), DI-NA-U = dīnāʾu (CANDIDATE, √d-y-n), DI-NA-RO = Dānīlu (CANDIDATE). NWS sentence-name formation: predicate adjective + agent noun, the Ebla type ʾaddīr-X 'X is powerful': ʾaddīr-ʾIl, ʾaddīr-Malik (Pagan 1998, rows 848, 852). Hapax, a recipient of ½ on HT98a: ʾaddīr requires DI for /ʾad-/ with its vowel unwritten.
 
 ### Cognates
 
@@ -54,7 +55,7 @@ Both constituent roots have their own lexicon entries: DI-DE-RU = ʾaddīru (PRO
 
 ### Source
 
-di Mino
+di Mino; Pagan 1998
 
 ## Attestations
 

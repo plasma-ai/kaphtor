@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3490_to_be_hungry_hunger
 title: "*gwʕ: 'to be hungry; hunger'"
-desc: "Proto-Semitic *gwʕ, 'to be hungry; hunger': reflexes in 3 language(s)."
+desc: "Proto-Semitic *gwʕ, 'to be hungry; hunger': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3490"
@@ -29,6 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | gūya; agǝwɛ́ʾ (Rubin 2018 244, 278) | Rubin 2018 244, 278 | gloss withheld |
 | Arabic | ǧāʿa 'he was, became, hungry' (Lane 487); ǧūʿ 'hunger, emptiness of the belly' (Lane 487) | Lane 487 |  |
 | Pre-Islamic North Arabian | Safaitic gyʿ (Al-Jallad–Jaworska 74); gʿ (Al-Jallad–Jaworska 70) | Al-Jallad–Jaworska 74; Al-Jallad–Jaworska 70 | gloss withheld |
 | Epigraphic South Arabian | Sab gwʿ (SD 51); gwʿm (Biella 68) | SD 51; Biella 68 | gloss withheld |

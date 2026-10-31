@@ -41,6 +41,13 @@ updated: 2026-10-24T16:17:50Z
 
 The four Linear A occurrences behave as a personal name. Linear B pa-ja-ro is a masculine personal name in the Knossian roster KN As(2) 1519.6, and DMic compares it with Linear A PA-JA-RE; Davis 2026 likewise treats the pair as Minoan. Gordon reads Egyptian Pꜣy-Rꜥ 'He-of-Re' (Gordon 1966a, 31, §127). PNM v6 has the man's name pꜣ-rꜥ 'he (of) Ra' (Ranke I, 114.11, as PNM cites it), used from Thutmose III to Amenhotep III and spelled pꜣjj-rꜥ under Hatshepsut, the date of the LM IB tablets (Ilin-Tomich 2025, personal_names_id 142613047); JA writes the jj. Amarna writes the same Re as -ri- in na-ap-ḫur-ri-ia, Nfr-ḫprw-rꜥ 'beautiful of form is Rē' (Hess 1993, 116). Rival: a Minoan name, as Davis treats it.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Egyptian | pꜣ-rꜥ 'he (of) Ra', a man's name, Thutmose III–Amenhotep III (PNM v6, personal_names_id 142613047; Ranke I, 114.11) |
+| Linear B | pa-ja-ro, a man on the Knossos roster KN As(2) 1519 |
+
 ### Source
 
 Gordon 1966a, 31 (§127); Ilin-Tomich 2025 (PNM v6), s.v. pꜣ-rꜥ; DMic II; Davis 2026; Hess 1993, 116

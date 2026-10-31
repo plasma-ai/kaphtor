@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kitāna |
 | Meaning | linen (material adjectival base in jar labels) |
 | Root | k-t-n |
+| Proto-Semitic | \*kitn- (#2678) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
@@ -48,12 +49,13 @@ Base of KI-TA-NA-SI-JA-SE (PEZb3 clay vessel) = "linen which goes out" — commo
 |---|---|
 | Ugaritic | ktn 'linen tunic' |
 | Akkadian | kitûm/kitinnû 'linen' |
-| Proto-Semitic | \*kitn- 'linen, tunic' |
+| Mari | ku-ta-na-am kutān 'a fabric' (ARM 30 55; GlOS 1, 176) |
+| Eblaite | GÍD.TÚG = gu-da-núm 'a garment' (GlOS 1, 176) |
 | Greek | χιτών via LB ki-to, here fully vocalized |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

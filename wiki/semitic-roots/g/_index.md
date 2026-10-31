@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/g
 desc: "Semitic roots whose first radical is g."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/g
@@ -37,7 +37,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/g/1197_burning_log|1197_burning_log]]: Proto-Semitic *gVz(V)w-, 'burning log': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1220_cut_off|1220_cut_off]]: Proto-Semitic *gVm-, 'cut off': reflexes in 10 language(s).
+[[wiki/semitic-roots/g/1220_cut_off|1220_cut_off]]: Proto-Semitic *gVm-, 'cut off': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/g/1322_leave_1_depart_2_uncover_3|1322_leave_1_depart_2_uncover_3]]: Proto-Semitic *galaw/y-, 'leave' 1, 'depart' 2, 'uncover' 3: reflexes in 11 language(s).
 
@@ -75,13 +75,13 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/g/1519_grandfather_ancestor|1519_grandfather_ancestor]]: Proto-Semitic *gadd-, 'grandfather, ancestor': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/g/1520_cut_off|1520_cut_off]]: Proto-Semitic *gVd-, 'cut off': reflexes in 10 language(s).
+[[wiki/semitic-roots/g/1520_cut_off|1520_cut_off]]: Proto-Semitic *gVd-, 'cut off': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/g/1521_river_bank_1_well_2|1521_river_bank_1_well_2]]: Proto-Semitic *gadd/y-, 'river-bank' 1, 'well' 2: reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/1522_land_beach|1522_land_beach]]: Proto-Semitic *gadīl-, 'land, beach': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/g/1523_cut_off|1523_cut_off]]: Proto-Semitic *gVdVm-, 'cut off': reflexes in 3 language(s).
+[[wiki/semitic-roots/g/1523_cut_off|1523_cut_off]]: Proto-Semitic *gVdVm-, 'cut off': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/1524_throw_overturn|1524_throw_overturn]]: Proto-Semitic *gVlaʾ-, 'throw, overturn': reflexes in 1 language(s).
 
@@ -349,7 +349,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/g/3438_to_be_massive_solid_to_form_create|3438_to_be_massive_solid_to_form_create]]: Proto-Semitic *gbl, 'to be massive, solid; to form, create': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/g/3490_to_be_hungry_hunger|3490_to_be_hungry_hunger]]: Proto-Semitic *gwʕ, 'to be hungry; hunger': reflexes in 3 language(s).
+[[wiki/semitic-roots/g/3490_to_be_hungry_hunger|3490_to_be_hungry_hunger]]: Proto-Semitic *gwʕ, 'to be hungry; hunger': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/g/3497_to_protect_shield|3497_to_protect_shield]]: Proto-Semitic *gwb, 'to protect; shield': reflexes in 4 language(s).
 
@@ -376,6 +376,10 @@ updated: 2026-10-28T20:08:42Z
 [[wiki/semitic-roots/g/3765_inside_interior_midst|3765_inside_interior_midst]]: Proto-Semitic *gaw(w)-, 'inside, interior, midst': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/g/3767_cud_to_chew_the_cud|3767_cud_to_chew_the_cud]]: Proto-Semitic *girrat-, 'cud; to chew the cud': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/g/3779_wine_or_olive_press_1_farmstead_estate_2|3779_wine_or_olive_press_1_farmstead_estate_2]]: Proto-Semitic *gint-, 'wine or olive press' 1, 'farmstead, estate' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/g/3801_to_steal|3801_to_steal]]: Proto-Semitic *gnb, 'to steal': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/g/392_jubba_kind_of_clothes|392_jubba_kind_of_clothes]]: Proto-Semitic *gubb-, 'jubba, kind of clothes': reflexes in 2 language(s).
 
@@ -413,7 +417,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/g/663_flat_roof|663_flat_roof]]: Proto-Semitic *gāg-, 'flat roof': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/g/70_stranger|70_stranger]]: Proto-Semitic *gir-, 'stranger': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/70_stranger|70_stranger]]: Proto-Semitic *gir-, 'stranger': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/717_wave|717_wave]]: Proto-Semitic *gal-, 'wave': reflexes in 3 language(s).
 
@@ -461,7 +465,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/g/S62_to_be_perfect_complete|S62_to_be_perfect_complete]]: Proto-Semitic *gmr, 'to be perfect, complete': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/g/S77_to_plunder_to_set_fire_on|S77_to_plunder_to_set_fire_on]]: Proto-Semitic *gzl, 'to plunder, to set fire on': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/S77_to_plunder_to_set_fire_on|S77_to_plunder_to_set_fire_on]]: Proto-Semitic *gzl, 'to plunder, to set fire on': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/SA020_ravage_fields_vineyards|SA020_ravage_fields_vineyards]]: Epigraphic South Arabian headword *gbḏ, 'ravage fields, vineyards': reflexes in 1 language(s).
 
@@ -473,7 +477,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/g/SA024_swift_riding_beast|SA024_swift_riding_beast]]: Epigraphic South Arabian headword *gwd, 'swift riding beast': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/g/SA025_plaster_lime_plaster|SA025_plaster_lime_plaster]]: Epigraphic South Arabian headword *gyr, 'plaster; lime-plaster': reflexes in 4 language(s).
+[[wiki/semitic-roots/g/SA025_plaster_lime_plaster|SA025_plaster_lime_plaster]]: Epigraphic South Arabian headword *gyr, 'plaster; lime-plaster': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/g/SA026_to_sell_wholesale_wholesale_purchase|SA026_to_sell_wholesale_wholesale_purchase]]: Epigraphic South Arabian headword *gzp, 'to sell wholesale; wholesale purchase': reflexes in 2 language(s).
 

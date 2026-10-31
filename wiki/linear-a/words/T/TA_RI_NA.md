@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 10b .1–2 TA-RI-NA 15, TA closing .1 and RI-NA opening .2, whole and undotted, on a face written over an erasure (GORILA I 21); after U-TI 1 and DA-RE 2, before \*312-TA 6½. Hurrian stem tarinn(i): Tarinnam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351), Tarinam at Šemšara (Monti 2017, 413), Tarinze (Monti 2017, 301). Sign for sign, the final -m unwritten. Rival: Ugaritic trn 'mast' (semitic_roots no. 2979), out of place in a grain list. One witness.
+HT 10b .1–2 TA-RI-NA 15, TA closing .1 and RI-NA opening .2, whole and undotted, on a face written over an erasure (GORILA I 21); after U-TI 1 and DA-RE 2, before \*312-TA 6½. Hurrian stem tarinn(i): Tarinnam, tarinn(i)=a=m(e/a) (VHN 299; Monti 2017, 351), Tarinam at Šemšara (Monti 2017, 413), Tarinze (Monti 2017, 301). Sign for sign, the final -m unwritten. Rival: Ugaritic trn 'mast' (#2979), out of place in a grain list. One witness.
 
 ### Cognates
 

@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾippina=mi=na |
 | Meaning | face, presence (of)—expanded variant of I-PI-NA-MA |
 | Root | p-n-m |
+| Proto-Semitic | \*pan- (#144) |
 | Language layer | NWS |
 | Category | libation_formula |
 | Semantic field | body_part |
 
 ### Note
 
-Reduplicative expansion of I-PI-NA-MA (=ipinama, √p-n-m 'face/presence', PROBABLE). Co-occurs with the core libation formula (A-TA-I-\*301-WA-E, SA-SA-RA-ME) on Palaikastro stone vessels (PKZa10, PKZa11). Reading inherits from I-PI-NA-MA. \|\| COGNATES: those of I-PI-NA-MA, whose reading this spelling shares.
+Reduplicative expansion of I-PI-NA-MA (=ipinama, √p-n-m 'face/presence', PROBABLE). Co-occurs with the core libation formula (A-TA-I-\*301-WA-E, A-SA-SA-RA-ME) on Palaikastro stone vessels (PKZa10, PKZa11). Reading inherits from I-PI-NA-MA. \|\| COGNATES: those of I-PI-NA-MA, whose reading this spelling shares.
 
 ### Cognates
 

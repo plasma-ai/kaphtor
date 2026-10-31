@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 12 .1 QA-TI-DA-TE · OLE+DI 5, the heading of an issue of oils, fats, wool and figs totalled DA-I 50 (GORILA I 25). qa-ti-da-te: Nuzi writes kat- with QA (Qa-ti-ri, NPN 224) and -tati with DA (Še-en-da-ti, NPN 263). A recipient heading a mixed issue, as A-PU₂-NA-DU on HT 14. Rival: katītat 'beaten (oil)', √k-t-t (semitic_roots 3644), Hebrew šemen kātît (Exod 27:20), an adjective only. One witness.
+HT 12 .1 QA-TI-DA-TE · OLE+DI 5, the heading of an issue of oils, fats, wool and figs totalled DA-I 50 (GORILA I 25). qa-ti-da-te: Nuzi writes kat- with QA (Qa-ti-ri, NPN 224) and -tati with DA (Še-en-da-ti, NPN 263). A recipient heading a mixed issue, as A-PU₂-NA-DU on HT 14. Rival: katītat 'beaten (oil)', √k-t-t (#3644), Hebrew šemen kātît (Exod 27:20), an adjective only. One witness.
 
 ### Cognates
 

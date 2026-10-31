@@ -34,17 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | parīsu |
 | Meaning | parīsu, the half-gur grain measure (CAD P 186; DULAT 671–672 prś) |
 | Root | p-r-s |
+| Proto-Semitic | \*pVris- (#517) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-GRA ideogram + PA, the initial of parīsu, attested at four sites and often assigned large dry-measure quantities: Akkadian parīsu B '(a measure of capacity) one-half of a gur' (CAD P 186), Ugaritic prś/prs, a dry measure of half a gur (DULAT 671–72), and Biblical Aramaic pĕrēs 'half-portion' (Dan 5:28). HT102 has PA₃-NI GRA+PA 33 and, after a lacuna, VIR GRA+PA 33; the source reads \]VIR, not VIR+\[?\]. HT120 distinguishes GRA+PA from GRA+K+L and GRA+B.
+GRA ideogram + PA, the initial of parīsu, attested at four sites and often assigned large dry-measure quantities: Akkadian parīsu B '(a measure of capacity) one-half of a gur' (CAD P 186), Ugaritic prś/prs, a dry measure of half a gur (DULAT 671–72), and Biblical Aramaic pĕrēs 'half-portion' (Dan 5:28); Ebla writes it ba-rí-zu, Mari and Alalakh VII pa-ri-si (GlOS 2, 135). HT102 has PA₃-NI GRA+PA 33 and, after a lacuna, VIR GRA+PA 33; the source reads \]VIR, not VIR+\[?\]. HT120 distinguishes GRA+PA from GRA+K+L and GRA+B.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | parīsu B 'measure of capacity, half a gur' (CAD P 186) |
+| Ugaritic | prś/s 'dry measure, ½ gur' (DULAT 671) |
+| Eblaite | ba-ri-zu, a dry measure (DULAT 671) |
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 
@@ -57,7 +66,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT125b\|HT125b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT128a\|HT128a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH27\|KH27]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | none |
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA6b\|ZA6b]] | Zakros | Tablet | none |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
@@ -72,5 +81,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] |  | grain composite (unread) |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | \[ideogram\] | parīsu, the half-gur grain measure |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | \[ideogram\] | parīsu, the half-gur grain measure |  |
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | \[ideogram\] | grain, parīsu measure, 26½ |  |
+| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | \[ideogram\] | grain, parīsu measure, 36 |  |
 
 <!-- END kaphtor:record -->

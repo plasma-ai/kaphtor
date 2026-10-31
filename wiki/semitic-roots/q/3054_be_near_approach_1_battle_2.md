@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3054_be_near_approach_1_battle_2
 title: "*qrb: 'be near, approach' 1, 'battle' 2"
-desc: "Proto-Semitic *qrb, 'be near, approach' 1, 'battle' 2: reflexes in 10 language(s)."
+desc: "Proto-Semitic *qrb, 'be near, approach' 1, 'battle' 2: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3054"
@@ -29,6 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ḳǝrūb, ḳáyrǝb 1 (Rubin 2018 124); ḳǝráyb (Rubin 2018 110) | Rubin 2018 124; Rubin 2018 110 | gloss withheld |
 | Arabic | qaruba (HALOT 1132) | HALOT 1132 |  |
 | Hebrew | qrb (HALOT 1132) | HALOT 1132 | gloss withheld |
 | Ugaritic | qrb (HALOT 1132) | HALOT 1132 |  |

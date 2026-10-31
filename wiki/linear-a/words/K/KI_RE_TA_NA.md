@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kretana |
 | Meaning | Cretan (gentilic: 'of Crete') |
 | Root | k-r-t |
+| Proto-Semitic | \*karVt- (#2766) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |
@@ -42,9 +43,18 @@ updated: 2026-10-24T16:17:50Z
 
 Cf. Hebrew Kerethite (כְּרֵתִי). -ān gentilic suffix. 4 tablets, all HT. See also KI-RE-TA₂ (2×) and KI-RI-TA₂ (2×) short name forms. \|\| Huehnergard: Ug krt /kirta/ "Kirta (royal protagonist PN)"; lkrt /li-kirta/ "belonging to the story of Kirta." Huehnergard rejects vocalization "keret" as non-Ugaritic \[p. 68\]. BH cognate: kərētī "Kerethite" (but vocalization differs) (Huehnergard 2012, pp. 60, 68)
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | kərētîm (כְּרֵתִים) 'Kerethites': gôy kərētîm 'nation of Kerethites', beside kənaʿan ʾereṣ pəlištîm 'Canaan, land of the Philistines' (Zeph 2:5); wəhikrattî ʾet-kərētîm 'and I will cut off the Kerethites' (Ezek 25:16); hakkərētî wəhappəlētî 'the Kerethite and the Pelethite', David's guard (2 Sam 8:18) |
+| Linear B | ke-re-te Krētes 'Cretans', an ethnic (PY An 128.3; Ventris and Chadwick 1956, 147); ke-re-si-jo we-ke 'of Cretan workmanship', of tripods (PY Ta 641, 709; Ventris and Chadwick 1956, 396) |
+| Greek | Κρής, pl. Κρῆτες 'Cretan(s)'; Κρήτη 'Crete' |
+| Ugaritic | see KI-RE-TA₂ |
+
 ### Source
 
-Gordon 1966
+Gordon 1966; Ventris and Chadwick 1956
 
 ### Review
 

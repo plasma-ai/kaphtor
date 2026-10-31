@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tidata / ṯādīt- |
 | Meaning | sixth(?) or sixth section(?) |
 | Root | ṯ-d-ṯ |
+| Proto-Semitic | \*šidṯ- (#S98) |
 | Language layer | NWS |
 | Category | vocabulary |
 | Semantic field | administrative |

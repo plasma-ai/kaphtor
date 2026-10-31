@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Panūq |
 | Meaning | personal name, 'Pampered'; rival Amorite Banuq |
 | Root | p-n-q |
+| Proto-Semitic | \*panaq- (#K0254) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ ZA 14 .4 PA-NU-QE 2, after TU-MI-TI-ZA-SE 45 and before JA-WI\[, a recipient amo
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*panaq- 'indulge' (semitic_roots no. K0254) |
 | Hebrew | pānaq 'indulge' (BDB 819) |
 | Amorite | BANUQ-UM, BA-NU-KU-UM, and BANUQ-AN, BA-NU-KA-AN (Gelb 1980 nos. 1132, 1131), rival |
 

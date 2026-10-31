@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | VIR+KA |
 | Meaning | personnel class marked by the KA complement; possibly Akkadian kāribū |
 | Root | k-r-b |
+| Proto-Semitic | \*kVrVb- (#1250) |
 | Language layer | NWS |
 | Category | personnel |
 | Semantic field | personnel |
@@ -41,6 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Note
 
 VIR securely marks personnel; KA is a written complement. Akkadian kāribu(m) 'one who blesses, intercessor, dedicant' supplies a plausible expansion, but HT88 writes neither RI nor BU, so 'intercessory priests' is not established by the spelling. Translate VIR+KA as a personnel class and retain kāribū as the leading lexical hypothesis. HT97a counts 82, HT100 counts 58, HT88 counts 20, and HT28a has VIR+KA-VIN 6. Alternative: Akkadian kallu 'temple servant.'
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Akkadian | kāribu 'worshipper'; deity in adoration (CAD K 216); karābu 'prayer, blessing' (CAD K 192) |
+| Amorite | KRB 'bless, pray': jakrub, kirb(ān)um (Gelb AS 21, 23) |
 
 ### Source
 
@@ -59,7 +67,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | VIR+KA | personnel class marked by KA; kāribū is possible but unproved | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT88\|HT88]] | VIR+KA | men (VIR+KA) | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | personnel category KA (male workers) |  |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2029\|KHWc2029]] | (logogram) | temple/sanctuary personnel class | CANDIDATE |
 | [[wiki/linear-a/inscriptions/KH/KHWc/KHWc2030\|KHWc2030]] | (logogram) | temple/sanctuary personnel class | CANDIDATE |

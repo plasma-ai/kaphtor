@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/T/TA_TI
 title: "TA-TI"
-desc: "tati: father (Luwian tati-). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "kinship"]
+desc: "Tati: personal name; rival tati 'father' (Luwian tati-). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "TA-TI"
 datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.45
-reading: "tati"
+reading: "Tati"
 attestations: ["HT26a", "HT97a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,15 +31,15 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | tati |
-| Meaning | father (Luwian tati-) |
+| Reading | Tati |
+| Meaning | personal name; rival tati 'father' (Luwian tati-) |
 | Language layer | Anatolian |
-| Category | kinship |
-| Semantic field | kinship |
+| Category | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-Exact predicted Linear A rendering of CL Luwian tati- 'father' (Melchert 1993 p. 209). The Luwian identification is speculative: TA-TI could equally be a NWS form or abbreviation.
+An entry in two lists of quantities: HT26a TA-TI 21, before MI-KI-SE-NA 15 and U-NU-\*21F 5; HT97a TA-TI 2, under VIR+KA 82 beside PA-I-TO and KA-NU-TI. Ugarit has the man's name Tati, {m}ta-ti (ORACC aemw/ugarit). Rival: CL Luwian tati- 'father' (Melchert 1993, 209).
 
 ### Cognates
 
@@ -50,7 +50,7 @@ Exact predicted Linear A rendering of CL Luwian tati- 'father' (Melchert 1993 p.
 
 ### Source
 
-di Mino
+di Mino; ORACC aemw/ugarit; Melchert 1993
 
 ## Attestations
 
@@ -77,6 +77,6 @@ Roster +numeral; co PA-I-TO.
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] kanuti / ganuti, KI, [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, KI, [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]] Paito.
 
 <!-- END kaphtor:record -->

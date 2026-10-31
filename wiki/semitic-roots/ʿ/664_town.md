@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/664_town
 title: "*ʕir-: 'town'"
-desc: "Proto-Semitic *ʕir-, 'town': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʕir-, 'town': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "664"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʕīr (Kogan 2015, ch. 5 §3.1 no. 18) | Kogan 2015 ch. 5 §3.1 no. 18 |  |
 | Epigraphic South Arabian | ʕr (Sabaweb lemma 1376) | Sabaweb lemma 1376 | gloss withheld |
 | Modern Arabic | Yem. Daṯ. ʿurr (Biella 385) | Biella 385 |  |
+| Eblaitic | ì-rí-a-tum /ʿīrīyatum/ (= Sum. uru-bar) (VE 1151; Bonechi 2008, 9 n. 39) | VE 1151; Bonechi 2008, 9 n. 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

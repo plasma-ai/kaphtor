@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šeraka |
 | Meaning | levy, gift—fiscal category on a commodity nodule |
 | Root | š-r-k |
+| Proto-Semitic | \*šrk (#3845) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |

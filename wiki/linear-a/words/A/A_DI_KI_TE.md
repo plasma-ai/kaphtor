@@ -33,6 +33,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Dikte |
 | Meaning | Dikte; opening of a damaged name or title |
+| Root | d-q-q |
+| Proto-Semitic | \*diḳ(ḳ)- (#1654) |
 | Language layer | NWS |
 | Category | toponym |
 | Semantic field | toponym |

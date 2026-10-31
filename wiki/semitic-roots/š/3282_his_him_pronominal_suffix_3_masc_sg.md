@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3282_his_him_pronominal_suffix_3_masc_sg
 title: "*-šū̆: 'his; him (pronominal suffix, 3 masc. sg.)'"
-desc: "Proto-Semitic *-šū̆, 'his; him (pronominal suffix, 3 masc. sg.)': reflexes in 6 language(s)."
+desc: "Proto-Semitic *-šū̆, 'his; him (pronominal suffix, 3 masc. sg.)': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3282"
@@ -29,6 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | -ǝh; -īh (Rubin 2018 55, 109, 60) | Rubin 2018 55, 109, 60 | gloss withheld |
 | Akkadian | -šu (GAG § 42 g apud SEDonline 1566) | GAG § 42 g; SEDonline 1566 | gloss withheld |
 | Geez | -o, -hu (Bulakh–Kogan 2013b:101 apud SEDonline 1566); -u/-o, -hu (CDG 213, Bulakh–Kogan 2013b:101 apud SEDonline 1566) | SEDonline 1566; CDG 213, Bulakh–Kogan 2013b:101 | gloss withheld |
 | Tigre | -u (Bulakh–Kogan 2013b:101 apud SEDonline 1566) | SEDonline 1566 | gloss withheld |

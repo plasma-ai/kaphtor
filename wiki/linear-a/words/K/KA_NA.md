@@ -34,26 +34,28 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qana / qanû |
 | Meaning | aromatic reed, sweet cane (commodity; spelling variant of QA-NE) |
 | Root | q-n-y |
+| Proto-Semitic | \*ḳanaw/y- (#3035) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Spelling variant of QA-NE (KH47, CANDIDATE qanē) with q→K neutralization proposed under Gordon §4/§76. Cross-site comparison: HT (2×) + KH (1×). HT23a heads an aromatics ledger (CYP, oil sub-types, VIN, and SA-SA-ME sesame), providing the principal contextual support for comparison with Hebrew qāneh and qəneh-bośem. On HT123+124b KA-NA is followed by the central lacuna, probably containing a lost quantity; that tablet supports administrative recurrence but not the product identification. Lapis-lazuli (Ugaritic iqnu &lt; Akkadian uqnû) is a rival homograph, though its vowel-initial form fits the Linear A spelling less directly.
+Spelling variant of QA-NE (KH47, CANDIDATE qanē) with q→K neutralization proposed under Gordon §4/§76. Cross-site comparison: HT (2×) + KH (1×). HT23a heads an aromatics ledger (CYP, oil sub-types, VIN, and SA-SA-ME sesame), providing the principal contextual support for comparison with Hebrew qāneh and qəneh-bośem. On HT123+124b KA-NA is followed by the central lacuna, probably containing a lost quantity; that tablet supports administrative recurrence but not the product identification. Lapis lazuli (Ugaritic ỉqnủ, var. qnỉm, &lt; Akkadian uqnû) is a rival homograph.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Ugaritic | qn 'reed, cane' (DULAT; also 'lapis lazuli' = iqnu, a distinct lexeme written identically) |
+| Ugaritic | qn 'reed, cane' (DULAT); see QA-NE |
+| Eblaite | GIŠ.GI = ga-nu-um 'reed', q in the G-series (GlOS 1, 348) |
 | Hebrew | qāneh קָנֶה 'reed, cane' — qəneh-bośem 'aromatic cane' Exod 30:23, anointing-oil ingredient |
 | Akkadian | qanû 'reed' |
 | Linear B | cf. ko-no (σχοῖνος 'aromatic rush') — semantic parallel in Mycenaean spice accounting |
 
 ### Source
 
-di Mino
+di Mino; GlOS 1
 
 ## Attestations
 

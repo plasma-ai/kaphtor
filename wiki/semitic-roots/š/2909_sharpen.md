@@ -32,7 +32,7 @@ updated: 2026-10-26T14:26:59Z
 | Geez | məsḥāl (LGz. 493) | LGz. 493 | gloss withheld |
 | Arabic | saḥala (LGz. 493) | LGz. 493 | gloss withheld |
 | Akkadian | šêlu (LGz. 493) | LGz. 493 | gloss withheld |
-| Eblaitic | sa-ʔà-lum, sa-ʔà-a-um /s₁-ḥ-l/ (Sanmartín GlOS 2, 238); sa-ʔà-lum = Sum. u₄-SAR-ak (VE 1135; Civil 2017, 122) | Sanmartín GlOS 2, 238; VE 1135; Civil 2017, 122 | gloss withheld |
+| Eblaitic | sa-ʔà-lum, sa-ʔà-a-um /s₁-ḥ-l/ (Sanmartín GlOS 2, 238); sa-ʔà-lum = Sum. ù-sar-ak (VE 1135; Civil 2017, 122, 469), /šaḥālum/ (G inf.) (Hajouz 2013, 680) | Sanmartín GlOS 2, 238; VE 1135; Civil 2017, 122, 469; Hajouz 2013, 680 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

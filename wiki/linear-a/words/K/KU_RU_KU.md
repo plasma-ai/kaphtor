@@ -34,13 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | kurkū |
 | Meaning | saffron, crocus (PN from plant term) |
 | Root | k-r-k |
+| Proto-Semitic | \*kurkum- (#2657) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | personal_name |
 
 ### Note
 
-Hapax; personnel list, Scribe 9; exact match to PS \*kurk- 'saffron' base: \*kurkum- Starling #2657; Akk kurkānū CAD K; Heb כַּרְכֹּם karkōm Song of Songs 4:14; Greek κρόκος is Semitic loanword; CROC ideogram on 59 Linear B tablets at Knossos; Xeste 3 saffron-gathering frescoes.
+Hapax; personnel list, Scribe 9; Akk kurkānū CAD K; Heb כַּרְכֹּם karkōm Song of Songs 4:14; Greek κρόκος is Semitic loanword; CROC ideogram on 59 Linear B tablets at Knossos; Xeste 3 saffron-gathering frescoes.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | karkōm 'saffron', Song 4:14 (HALOT 498) |
+| Aramaic | Jewish Aramaic and Syriac kurkəmā 'saffron' (HALOT 498) |
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/2748_eight
 title: "*ṯamāniy-: 'eight'"
-desc: "Proto-Semitic *ṯamāniy-, 'eight': reflexes in 22 language(s)."
+desc: "Proto-Semitic *ṯamāniy-, 'eight': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2748"
@@ -29,6 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | ṯǝmǝnīt; ṯǝmōni (Rubin 2018 295, 297); ṯīmǝn (Rubin 2018 300) | Rubin 2018 295, 297; Rubin 2018 300 | gloss withheld |
 | Arabic | ṯamāniya 'eight' (BK 1, 237) | BK 1, 237 |  |
 | Akkadian | samānu (CAD S 112) | CAD S 112 | gloss withheld |
 | Ugaritic | ṯmn (DULAT 901) | DULAT 901 | gloss withheld |

@@ -77,7 +77,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_PA_QA\|JA-PA-QA]] | yapqaḥ | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_PA_RA\|JA-PA-RA]] | yapʾara | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | yara | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | Yaraḫ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_RE_MI\|JA-RE-MI]] | Yarīm | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_SA\|JA-SA]] | yašar | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_JA\|JA-SA-JA]] | Yašʿaya | SPECULATIVE |
@@ -101,7 +101,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE_JA\|PA-SE-JA]] | Paššiya | SPECULATIVE |
-| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Patiya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burēyā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_JA_MA\|SA-JA-MA]] | śaymā | SPECULATIVE |
@@ -109,8 +109,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Sidiya/Šadiya | PROBABLE |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
-| [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Tayru | CANDIDATE |
-| [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯaniya | SPECULATIVE |
+| [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Teyar | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_TE_JA_MU\|WI-TE-JA-MU]] | Widd-tiyāmu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -33,20 +33,22 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾikkār |
 | Meaning | farmer, plowman (recipient) |
+| Root | ʾ-k-r |
+| Proto-Semitic | \*ʾkr 1, \*ʾa/ikkār- 2 (#1810) |
 | Language layer | Akkadian administrative contact |
 | Category | personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine; HT 102 I-KA 5 (KA dotted) in a personnel total (KU-RO 1060). Akk. ikkaru 'farmer', Heb. ʾikkār, Syr. ʾakkārā; geminate and final r unwritten. Rival: the personal name Ikkaru (ORACC QPN).
+HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine; HT 102 I-KA 5 (KA dotted) in a personnel total (KU-RO 1060). Akk. ikkaru 'farmer', Heb. ʾikkār, Syr. ʾakkārā; geminate and final r unwritten. Rival: the personal name Ikkaru (ORACC QPN). See I-KI-RA and A-KI-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | ikkarum 'farmer, farm laborer, plowman' (Huehnergard 1997, glossary) |
-| Hebrew | ʾikkār (אִכָּר) 'farmer, agricultural worker' (HALOT 48) |
+| Hebrew | ʾikkār (אִכָּר) 'farmer, agricultural worker' (HALOT 47) |
 | Syriac | ʾakkārā 'farmer, husbandman, plowman' |
 
 ### Source

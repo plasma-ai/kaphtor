@@ -34,13 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṣadaqa |
 | Meaning | righteous one (PN) |
 | Root | ṣ-d-q |
+| Proto-Semitic | \*ṣidq- (#2762) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-SA=ṣ, KA=q via emphatic neutralization. Amorite PN şadaqa (√ṣ-d-q). Mallia roundels, administrative grain context. Cf. Zadok, Zedekiah, Melchizedek. The initial A- needs a prothetic vowel. Rival: Hurrian aštaga 'woman', the diminutive in -(a)ga of ašte 'woman' (Wilhelm, "Hurrian," 103; Laroche 1980, 61–62), written aš-ta-ka (Meskene) and aš-da-a-ga-bi (KUB XXIX 8 IV 23): coda š with a dead A, as A-SA-MU-NE, accounts for every sign.
+SA=ṣ, KA=q via emphatic neutralization. Amorite PN şadaqa (√ṣ-d-q). Mallia roundels, administrative grain context. Cf. Zadok, Zedekiah, Melchizedek. The initial A- needs a prothetic vowel. Rival: Hurrian aštaga 'woman', the diminutive in -(a)ga of ašte 'woman' (Wilhelm, "Hurrian," 103; Laroche 1980, 61–62), written aš-ta-ka (Meskene) and aš-da-a-ga-bi (KUB XXIX 8 IV 23): coda š with a dead A, as A-SA-MU-NE, accounts for every sign. See SI-DU-QI-KU-MI.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | ṢDQ 'be just': ṣadaqa, jaṣduq (Gelb AS 21, 34); PN ṢADAQ-AH, written ZA-DA-GA (Gelb AS 21 no. 6350) |
+| Ugaritic | ṣdq (I) 'justice, legitimacy, lawful' (DULAT 768) |
+| Hebrew | ṣaddîq 'just, righteous' (HALOT 1001); ṣedeq 'rightness, justice' (HALOT 1004) |
+| Phoenician | ṣdq 'good, righteous, legitimate' (Krahmalkov 414) |
 
 ## Attestations
 

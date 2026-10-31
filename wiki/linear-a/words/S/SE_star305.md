@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṣēdā |
 | Meaning | provisions (section heading); same word as SI-DA-TE ṣēdat |
 | Root | ṣ-y-d |
+| Proto-Semitic | \*ṣVwad/\*ṣVyad- (#847) |
 | Language layer | NWS |
 | Category | administrative |
 | Semantic field | administrative |
@@ -46,12 +47,12 @@ KH 7a .4 SE-\*305 ·, whole, heading the third section, KU-\[·\]-KO-E VIR+\*313
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ṣVwad/\*ṣVyad- 'hunt, take, catch' (semitic_roots no. 847) |
 | Hebrew | ṣēdâ 'provisions': lātēt lāhem ṣēdâ laddārek 'to give them provisions for the way' (Gen 42:25); lāqaḥat ṣēdâ lāʿām 'to fetch provisions for the people' (Judg 20:10) |
+| Ugaritic | ṣd /ṣēdu/ 'provisions, sustenance': bn dgn b-m ṣdk 'son of Dagan, with your provisions' (KTU 1.14 II 25–26; Huehnergard 2012, 130) |
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2012
 
 ## Attestations
 

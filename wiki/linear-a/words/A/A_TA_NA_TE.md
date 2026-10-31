@@ -34,25 +34,26 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAtanat |
 | Meaning | ʾAtanat, 'She-who-gives'—feminine reflex of √y-t-n 'to give' |
 | Root | y-t-n |
+| Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | NWS |
 | Category | divine_name |
 | Semantic field | divine |
 
 ### Note
 
-Feminine reflex of √y-t-n 'to give', final E a dead vowel after /t/; the etymon of Greek Ἀθήνα; cf. LB a-ta-na-po-ti-ni-ja (KN V 52) (di Mino, Ya Diktu). ZA9 A-TA-NA-\[·\] (GORILA III 166–67: "A-TA-NA-TE possible") is probably the same word. On ZA10a it follows TA-NA-TE, related to it or else √t-n-n (Tinit).
+Feminine reflex of √y-t-n 'to give', final E a dead vowel after /t/; the etymon of Greek Ἀθήνα; cf. LB a-ta-na-po-ti-ni-ja (KN V 52) (di Mino, Ya Diktu). ZA9 A-TA-NA-\[·\] (GORILA III 166–67: "A-TA-NA-TE possible") is probably the same word. On ZA10a it follows TA-NA-TE, related to it or else √t-n-n (Tinit). See A-TA-NA-JE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Greek | Athena (Ἀθηνᾶ/Ἀθάνα—proposed NWS etymology) |
-| Ugaritic | √ytn 'to give; to set, place' (Huehnergard 2012) |
-| Phoenician | BʿLYTN Baʿal Yaton 'Baʿal has given' |
+| Ugaritic | √ytn 'to give; to set, place' (Huehnergard 2012); ytnt 'she gave' (GlOS 2, 78) |
+| Phoenician | BʿLYTN Baʿal Yaton 'Baʿal has given'; YTNT, a woman's name 'she gave' (Benz 1972, 328; Krahmalkov 2000, 220) |
 
 ### Source
 
-di Mino
+di Mino; Benz 1972; Krahmalkov 2000; GlOS 2
 
 ## Attestations
 

@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-10-31T13:28:57Z
 ---
 
 # wiki/semitic-roots/s
@@ -173,6 +173,8 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/s/379_thorny_bush|379_thorny_bush]]: Proto-Semitic *sVn-, 'thorny bush': reflexes in 4 language(s).
 
+[[wiki/semitic-roots/s/3842_administrator_prefect_governor|3842_administrator_prefect_governor]]: Proto-Semitic *sākin-, 'administrator, prefect, governor': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/s/762_sesam|762_sesam]]: Proto-Semitic *sim-sim-, 'sesam': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/s/833_drink_1_be_satisfied_with_drinking_2_buy_wine_in|833_drink_1_be_satisfied_with_drinking_2_buy_wine_in]]: Proto-Semitic *sVbVʾ-/*sVʾab-, 'drink' 1, 'be satisfied with drinking' 2, 'buy wine in order to drink it' 3: reflexes in 5 language(s).
@@ -185,7 +187,7 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/s/K0391_close|K0391_close]]: Proto-Semitic *sagar-, 'close': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/s/K0393_shut|K0393_shut]]: Proto-Semitic *sekēr-, 'shut': reflexes in 5 language(s).
+[[wiki/semitic-roots/s/K0393_shut|K0393_shut]]: Proto-Semitic *sekēr-, 'shut': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/s/K0394_move_q|K0394_move_q]]: Proto-Semitic *salad-, 'move?': reflexes in 2 language(s).
 

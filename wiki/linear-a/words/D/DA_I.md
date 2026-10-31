@@ -34,13 +34,21 @@ updated: 2026-10-24T16:17:50Z
 | Reading | dayu |
 | Meaning | good, sufficient—commodity quality designation on oil/fat allocation tablets |
 | Root | d-y |
+| Proto-Semitic | \*day- (#2495) |
 | Language layer | substrate |
 | Category | vocabulary |
 | Semantic field | vessel |
 
 ### Note
 
-PS \*day- 'good, sufficient'. Cross-site: HT12 (50 units, oil/fat inventory) and KH13 (3 units, after \*304-CYP fat/cypress compound). Both contexts pair with \*304 (fat/tallow) and CYP (cypress) commodities. Large quantity range (3–50) suggests a bulk commodity or quality grade. Hebrew day 'enough, sufficiency', Aramaic day.
+Cross-site: HT12 (50 units, oil/fat inventory) and KH13 (3 units, after \*304-CYP fat/cypress compound). Both contexts pair with \*304 (fat/tallow) and CYP (cypress) commodities. Large quantity range (3–50) suggests a bulk commodity or quality grade. Hebrew day 'enough, sufficiency', Aramaic day.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | \*day 'sufficiency, enough' (HALOT 219) |
+| Ugaritic | dy /dayyu/ 'sufficiency' (Huehnergard 2012, 145) |
 
 ### Source
 

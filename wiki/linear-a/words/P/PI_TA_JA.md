@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_TA_JA
 title: "PI-TA-JA"
-desc: "Patiya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1)."
+desc: "Pitaya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "PI-TA-JA"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Patiya"
+reading: "Pitaya"
 attestations: ["HT6a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,16 +31,24 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Patiya |
+| Reading | Pitaya |
 | Meaning | personal name, hypocoristic in -ya |
-| Root | p-t-y |
+| Root | p-t-ḥ |
+| Proto-Semitic | \*pVtaḥ- (#1014) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 6a .2–3 PI-TA-JA 24, intact, in a fig list after DA-TA-RA · TE · NI 15 (GORILA I 13). Amorite PATIJ-UM (Gelb 1980, nos. 5160, 5162); or √p-t-ḥ 'open' with ḥ unwritten, as PTḤ in Gelb's glossary and Hebrew Pəṯaḥyāh. Rival: the Egyptian personal name ptjj (PNM). One document.
+HT 6a .2–3 PI-TA-JA 24, intact, in a fig list after DA-TA-RA · TE · NI 15 (GORILA I 13). √p-t-ḥ 'open' with ḥ unwritten: Amorite PATIḤ-UM, PA-TE-ḪU-UM, and PATIḤ-AH, PA-TI-ḪA (Gelb 1980, nos. 5160–5161), Hebrew Pəṯaḥyāh. Rival: the Egyptian personal name ptjj (PNM). One document.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Amorite | PATIḤ-UM, PATIḤ-AH (Gelb 1980, nos. 5160–5161), under PTḤ 'open' (Gelb AS 21, 28) |
+| Hebrew | Pəṯaḥyâ 'Yahweh has opened (the womb)' (HALOT 989) |
 
 ### Source
 
@@ -66,7 +74,7 @@ di Mino
 
 ### Note
 
-A recipient in the HT 6a fig list, PI-TA-JA 24. Patiya, a hypocoristic in -ya, as Amorite PATIJ-UM. Rival: the Egyptian personal name ptjj.
+A recipient in the HT 6a fig list, PI-TA-JA 24. Pitaya, a hypocoristic in -ya on √p-t-ḥ 'open', as Amorite PATIḤ-UM. Rival: the Egyptian personal name ptjj.
 
 ### Co-occurring lexicon words
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_PI_KI
 title: "SI-PI-KI"
-desc: "sipkī: pourings, libation portions (wine administration term). Lexicon, CANDIDATE (tier 2)."
+desc: "šipkī: pourings, libation portions (wine administration term). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "commodity"]
 kind: "word"
 form: "SI-PI-KI"
@@ -9,7 +9,7 @@ datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "sipkī"
+reading: "šipkī"
 attestations: ["ZA4a", "ZA5b", "ZA15a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,24 +31,25 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | sipkī |
+| Reading | šipkī |
 | Meaning | pourings, libation portions (wine administration term) |
-| Root | s-p-k |
+| Root | š-p-k |
+| Proto-Semitic | \*šapāk- (#K0529) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-Fixed co-occurrence with JI-NU-MA-RE (wine-stewards, PROBABLE) on all 3 Zakros stone vessels (ZA4a, ZA5b, ZA15a). On ZA5b followed by MA-KA-I-TA (makita 'magical protection'). Wine distribution context makes 'pourings/libation portions' semantically strong. Receives quantities (5, 1.5, 2.5) consistent with commodity allocation.
+Fixed co-occurrence with JI-NU-MA-RE (wine-stewards, PROBABLE) on all 3 Zakros stone vessels (ZA4a, ZA5b, ZA15a). On ZA5b followed by MA-KA-I-TA (makita 'magical protection'). Wine distribution context makes 'pourings/libation portions' semantically strong. Receives quantities (5, 1.5, 2.5) consistent with commodity allocation. Rival: the attested noun šipku, Mari SÍG ši-ip-ku 'in bulk, loose' and šipku 'cereal(s)' (GlOS 2, 257–58; CAD Š/3 71).
 
 ### Cognates
 
-Akkadian šapāku 'to pour, heap up'; Hebrew šāpak (שָׁפַךְ) 'to pour out, shed'; Ugaritic špk 'to pour'
+Akkadian šapāku 'to pour, heap up'; Hebrew šāpak (שָׁפַךְ) 'to pour out, shed'; Ugaritic špk 'to spill, shed' (DULAT 823)
 
 ### Source
 
-di Mino
+di Mino; GlOS 2
 
 ## Attestations
 
@@ -62,7 +63,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | sipkī | pourings (libation portions), 5 units | CANDIDATE |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | sipkī | pourings, libation portions | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA4a\|ZA4a]] | šipkī | pourings (libation portions), 5 units | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | šipkī | pourings, libation portions | CANDIDATE |
 
 <!-- END kaphtor:record -->

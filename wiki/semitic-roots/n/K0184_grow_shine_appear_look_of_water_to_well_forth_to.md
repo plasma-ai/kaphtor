@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0184_grow_shine_appear_look_of_water_to_well_forth_to
 title: "*nabāṭ-: 'grow', 'shine, appear, look', '(of water) to well forth; to dig down to water'"
-desc: "Proto-Semitic *nabāṭ-, 'grow', 'shine, appear, look', '(of water) to well forth; to dig down to water': reflexes in 8 language(s)."
+desc: "Proto-Semitic *nabāṭ-, 'grow', 'shine, appear, look', '(of water) to well forth; to dig down to water': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0184"
@@ -29,6 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Aramaic | nᵉbaṭ (Klein s.v. נבט ᴵ) | Klein s.v. נבט ᴵ | gloss withheld |
 | Akkadian | nabāṭu 'be(come) bright' | Anderson–Moser 2024 root nbṭ |  |
 | Geez | nabaṭa 'boil' | Anderson–Moser 2024 root nbṭ |  |
 | Hebrew | nabaṭ 'look' (BDB 613) | BDB 613; Anderson–Moser 2024 root nbṭ |  |

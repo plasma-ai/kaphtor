@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/378_ring_1_seal_on_a_ring_2
 title: "*ḫatm-: 'ring' 1, 'seal (on a ring)' 2"
-desc: "Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *ḫatm-, 'ring' 1, 'seal (on a ring)' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "378"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Mehri | xōtǝm, pl. xtūm 1 (Rubin 2018 833) | Rubin 2018 833 | gloss withheld |
 | Arabic | ḫatm- 1, 2 |  |  |
 | Harsusi | ḫotem 1 |  |  |
 | Phoenician | ḥtm (Krahmalkov 200) | Krahmalkov 200 | gloss withheld |

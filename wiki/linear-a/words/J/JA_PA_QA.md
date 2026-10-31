@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | yapqaḥ |
 | Meaning | he opens (the eyes)? |
 | Root | p-q-ḥ |
+| Proto-Semitic | \*paqaḥ- (#K0259) |
 | Language layer | NWS |
 | Semantic field | ritual |
 
 ### Note
 
-Complete final group on PKZa12 and also attested after I-NA on PKZa11. Candidate 3ms yaqtul from √p-q-ḥ 'open (the eyes)': Proto-Semitic \*paqaḥ-, Hebrew pāqaḥ, and Aramaic pqḥ. The final laryngeal would be unrepresented. JA- is masculine /ya-/, so the subject cannot simply be identified as the goddess without further explanation; the damaged context may have lost its subject. No secure Akkadian cognate or Ugaritic pqḥ attestation has been identified. √p-q-d is weaker because it requires an absent final /d/.
+Complete final group on PKZa12 and also attested after I-NA on PKZa11. Candidate 3ms yaqtul from √p-q-ḥ 'open (the eyes)': Proto-Semitic \*paqaḥ-, Hebrew pāqaḥ, and Aramaic pqḥ. The final laryngeal would be unrepresented. JA- is masculine /ya-/, so the subject cannot simply be identified as the goddess without further explanation; the damaged context may have lost its subject. No secure Akkadian cognate or Ugaritic pqḥ attestation has been identified. √p-q-d is weaker because it requires an absent final /d/. See I-NA-JA-PA-QA.
 
 ### Cognates
 
@@ -48,6 +49,7 @@ Complete final group on PKZa12 and also attested after I-NA on PKZa11. Candidate
 | Hebrew | פָּקַח pāqaḥ "to open (eyes)" (Isa 42:7 lipqōaḥ ʿēnayim ʿiwwərōt "to open blind eyes") |
 | Aramaic | pqḥ 'to open (the eyes)' |
 | Ugaritic | pqḥ not attested; pqd 'to command' is a distinct competing root |
+| Eblaite | ib-ga-il yipqaḥ-ʾIl 'ʾIl opened', a name (Pagan 1998, row 2878) |
 
 ### Source
 

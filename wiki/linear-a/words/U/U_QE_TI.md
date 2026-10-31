@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | wōqedt |
 | Meaning | the burning one (f.); name or epithet |
 | Root | w-q-d |
+| Proto-Semitic | \*y/wḳd (#2483) |
 | Language layer | NWS |
 | Category | onomastic |
 | Semantic field | personal_name |

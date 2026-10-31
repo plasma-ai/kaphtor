@@ -57,6 +57,7 @@ An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes Wes
 | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
+| [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] | naḫnemina | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārī-nā | PROBABLE |
 | [[wiki/linear-a/words/U/U_NU_star21F\|U-NU-\*21F]] | Unuḫu | SPECULATIVE |
 

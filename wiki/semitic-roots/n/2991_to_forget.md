@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | nasiya (HALOT 728) | HALOT 728 | gloss withheld |
 | Phoenician | nšy (B 363) | B 363 | gloss withheld |
 | Geez | nāḥsaya (LGz. 395) | LGz. 395 | gloss withheld |
-| Epigraphic South Arabian | ns₁y-m (LGz. 395); ns₁y (LGz. 403) | LGz. 395; LGz. 403 | gloss withheld |
+| Epigraphic South Arabian | ns₁y-m (LGz. 395); ns₁y (LGz. 403); Qat. ns1ym (Ricks 1982 s.v. ns1ym) | LGz. 395; LGz. 403; Ricks 1982 s.v. ns1ym | gloss withheld |
 | Soqotri | neše (LGz. 395) | LGz. 395 |  |
 | Syrian Aramaic | nəšā (LGz. 395) | LGz. 395 |  |
 | Mandaic Aramaic | nša (LGz. 395) | LGz. 395 |  |

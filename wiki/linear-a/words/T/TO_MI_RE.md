@@ -34,13 +34,22 @@ updated: 2026-10-24T16:17:50Z
 | Reading | tamir |
 | Meaning | palm/tree or date-palm produce |
 | Root | t-m-r |
+| Proto-Semitic | \*tam(V)r- (#737) |
 | Language layer | NWS |
 | Category | commodity |
 | Semantic field | commodity |
 
 ### Note
 
-PE2 commodity tablet at Petras. With the official PALM/TREE semantic reading, the entry plausibly denotes palm or date-palm produce. Reading \*49 syllabically as /mi/ gives TO-MI-RE and the exact consonantal skeleton t-m-r, comparable to Proto-Semitic \*tam(V)r-, Hebrew tāmār, Ugaritic tmr and Arabic tamr. This supports TAMIR as a candidate lexical identification but does not independently prove /mi/, because the same word supplies the proposed value. Final RE may support coda /r/.
+PE2 commodity tablet at Petras. With the official PALM/TREE semantic reading, the entry plausibly denotes palm or date-palm produce. Reading \*49 syllabically as /mi/ gives TO-MI-RE and the exact consonantal skeleton t-m-r, comparable to Proto-Semitic \*tam(V)r-, Hebrew tāmār, Ugaritic tmr and Arabic tamr. This supports TAMIR as a candidate lexical identification but does not independently prove /mi/, because the same word supplies the proposed value. Final RE may support coda /r/. See TO-MA-RO.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Hebrew | tōmer 'palm', tōmer Dəbôrâ, Judg 4:5 (HALOT 1757); tāmār 'date palm' (HALOT 1756) |
+| Ugaritic | syllabic \[ta\]-ma-ru 'date palm' (HALOT 1756) |
+| Phoenician | tmr 'date palm' (Krahmalkov 494) |
 
 ### Source
 

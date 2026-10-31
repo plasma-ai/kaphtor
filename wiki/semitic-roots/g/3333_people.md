@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Hebrew | gôy (HALOT 182); gēw (Jb 30:5) (HALOT 182) | HALOT 182 | gloss withheld |
 | Amorite | gaʾjum (Gelb AS 21, 18); gāyu (Buck 2019, 327); gayyu; gayyišam: ga-ji-ša-am (A.3993) (Streck 2000, 89) | Gelb AS 21 18; Buck 2019, 327; Streck 2000 89 | gloss withheld |
-| Epigraphic South Arabian | Sab gwy, gw-m (SD 51); gw, gwy (Biella 67) | SD 51; Biella 67 | gloss withheld |
+| Epigraphic South Arabian | Sab gwy, gw-m (SD 51); gw, gwy (Biella 67); Qat. gw (Ricks 1982 s.v. gw) | SD 51; Biella 67; Ricks 1982 s.v. gw | gloss withheld |
 | Phoenician | gw, with the article hgw (KAI 60) (Krahmalkov 137; T 63) | KAI 60; Krahmalkov 137; T 63 | gloss withheld |
 | Punic | Neo-Punic hgw (Krahmalkov 137; T 63) | Krahmalkov 137; T 63 | gloss withheld |
 

@@ -85,7 +85,7 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/S/SI_KI_RA\|SI-KI-RA]] | Śikira | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_MA\|SI-MA]] | šima | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | SPECULATIVE |
-| [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | sipkī | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_RU\|SI-RU]] | ṣillu | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_RU_TE\|SI-RU-TE]] | šīrūt | PROBABLE |
 | [[wiki/linear-a/words/S/SI_TE\|SI-TE]] | Ṣīt | CANDIDATE |

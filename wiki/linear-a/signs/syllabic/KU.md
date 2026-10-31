@@ -63,7 +63,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | PROBABLE |
 | [[wiki/linear-a/words/D/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | SPECULATIVE |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | SPECULATIVE |
-| [[wiki/linear-a/words/G/GRA_plus_KU\|GRA+KU]] |  | PROBABLE |
+| [[wiki/linear-a/words/G/GRA_plus_KU\|GRA+KU]] |  | CANDIDATE |
 | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] | ʾukulti | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_KU_RI_NA\|I-KU-RI-NA]] | ʾiqurna | CANDIDATE |
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | SPECULATIVE |
@@ -81,7 +81,7 @@ No CH ancestor—Linear A innovation, possibly from MM flying bird motif (Ferrar
 | [[wiki/linear-a/words/K/KU_NI_TE\|KU-NI-TE]] | kuhnēt | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA\|KU-PA]] | quppa | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA_JA\|KU-PA-JA]] | Kubbaya | SPECULATIVE |
-| [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kubīri | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_PA_RI\|KU-PA-RI]] | kuparī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA3_NA_TU\|KU-PA₃-NA-TU]] | Kubānatu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | PROBABLE |

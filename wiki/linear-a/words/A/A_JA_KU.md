@@ -5,7 +5,7 @@ desc: "ʾAyaku: personal name ('Where are you?'). Lexicon, SPECULATIVE (tier 1).
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "A-JA-KU"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAyaku |
 | Meaning | personal name ('Where are you?') |
 | Root | ʾ-y |
+| Proto-Semitic | \*ʾayy- (#K0567) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KN Zf 13, the last four signs of an undivided 19-sign spiral, ending at the centre of the bezel; the start of the word is not marked and KU is underdotted (GORILA IV 152–153). Amorite ʾAjak-u (Gelb 1980, no. 320). Rival: Akk. ajakku, a temple structure (CAD A/1, 224–25).
+KN Zf 13, the last four signs of an undivided 19-sign spiral, ending at the centre of the bezel; the start of the word is not marked and KU is underdotted (GORILA IV 152–153). Amorite ʾAjak-u (Gelb 1980, no. 320). Rival: Akk. ajakku, a temple structure (CAD A/1, 224–25). See A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU.
 
 ### Cognates
 
@@ -64,5 +65,21 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KN/KNZf/KNZf13\|KNZf13]] | ʾAyaku | personal name ('Where are you?') | SPECULATIVE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Knossos |
+| Supports | Metal object 1 |
+
+### Note
+
+KN Zf 13, the last four signs of the undivided 19-sign spiral, ending at the centre of the bezel; the start of the word is not marked and KU is underdotted (GORILA IV 152–153). Amorite ʾAjak-u (Gelb 1980, no. 320). Rival: Akk. ajakku, a temple structure (CAD A/1, 224–25).
 
 <!-- END kaphtor:record -->

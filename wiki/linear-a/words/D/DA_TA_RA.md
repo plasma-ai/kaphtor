@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Daṯar |
 | Meaning | Old (man's name); rival 'He of the gate' |
 | Root | d-ṯ-r |
+| Proto-Semitic | \*dṯr (#3774) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -44,15 +45,11 @@ HT 6a .1–2 KA-PA · DA-TA-RA · TE · NI 15, heading a fig entry (GORILA I 13)
 
 ### Cognates
 
-| Language | Comparison |
-|---|---|
-| Amorite | DAŠUR-UM, DA-ŠU-RU-UM (Gelb 1980 no. 1490); fem. DA-ŠU-RA-TUM (no. 1489); dašurum 'old' (Gelb 1980, 17) |
-| Arabic | daṯara 'became old', of a man 'overcome by old age' (Lane 851) |
-| Ugaritic | ṯġr 'gate' (semitic_roots no. 677), rival |
+see DA-SE-RA-TE
 
 ### Source
 
-di Mino; Gelb 1980; Lane
+di Mino; Gelb 1980
 
 ## Attestations
 

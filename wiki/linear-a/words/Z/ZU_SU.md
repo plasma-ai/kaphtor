@@ -42,9 +42,16 @@ updated: 2026-10-24T16:17:50Z
 
 HT 1 .2 ZU-SU 70, whole and undotted, the second entry under QE-RA₂-U, after KI-RO 197 and before DỊ-DI-ZA-KE 52 (GORILA I 3). The personal name Zuzu at Late Bronze Ugarit (RSO 7, 3, lower edge 3; ORACC P347841). SU for the second z stands against ZU for the first. Rival: an institutional name in the same quantified slot. One document.
 
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Eblaite | zu-zu, PN (Pagan 1998, row 5285; ARET 8 525, ARET 20 22) |
+| Mari | Zuzu, king of Apum (FM V, 286) |
+
 ### Source
 
-di Mino
+di Mino; Pagan 1998; FM V
 
 ## Attestations
 

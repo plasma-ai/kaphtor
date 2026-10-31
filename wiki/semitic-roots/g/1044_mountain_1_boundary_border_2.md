@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | gbl 2 (Kogan 2015, ch. 6 §8.1.3.3 no. 2) | Kogan 2015 ch. 6 §8.1.3.3 no. 2 |  |
 | Hebrew | gǝbūl 1, 2 (Kogan 2015, ch. 6 §8.1.3.3 no. 2) | Kogan 2015 ch. 6 §8.1.3.3 no. 2 |  |
 | Aramaic | Old gbl 2 (Kogan 2015, ch. 6 §9.1 no. 4) | Kogan 2015 ch. 6 §9.1 no. 4 |  |
-| Epigraphic South Arabian | Sab gblt (HALOT 171; Sabaweb lemma 4145) (Biella 65) | HALOT 171; Sabaweb lemma 4145; Biella 65 | gloss withheld |
+| Epigraphic South Arabian | Sab gblt (HALOT 171; Sabaweb lemma 4145) (Biella 65); Qat. gblt 2 (Ricks 1982 s.v. gblt) | HALOT 171; Sabaweb lemma 4145; Biella 65; Ricks 1982 s.v. gblt | gloss withheld |
 | Amorite | gabūlum (Buck 2019, 326) | Buck 2019, 326 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

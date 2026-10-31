@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʿAbdī |
 | Meaning | personal name, ʿAbdī 'my servant' or ʿAbdi-\[DN\] 'servant of \[DN\]' |
 | Root | ʿ-b-d |
+| Proto-Semitic | \*ʕVbd- (#2739) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -46,7 +47,6 @@ PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Young
 
 | Language | Comparison |
 |---|---|
-| Proto-Semitic | \*ʕVbd- 'to serve; servant' (semitic_roots no. 2739) |
 | Ugaritic | ʕbd (I) 'servant, slave' (DULAT 136); ʕbdy PN, syll. ÌR-ya (DULAT 141) |
 | Amarna | ÌR-a-ši-ir-ta ʿAbdi-Aširta (EA 71:17) |
 

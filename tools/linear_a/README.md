@@ -19,6 +19,7 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 | `lq.py` | DuckDB SQL over the data: raw queries, and `word`, `root`, `inscription`, `site`, `xref`, `field`, `tier`, `stats`, `audit`, `unread`. A view whose file is not in the checkout is left out, and a query that uses it names the file. Needs the `sql` extra | `lexicon.json`, `onomasticon.json`, `corpus.json`, `translations.json`, `unread_words.json`, `sign_values.json`, `semitic_roots.json`, `data/contact/` |
 | `onomasticon_lookup.py` | The corpus onomasticon: one token, or entries by affiliation, type or provenance, and its counts | `onomasticon.json` |
 | `phaistos_disc_lookup.py` | The Phaistos Disc: signs, groups, sides, patterns, positions, neighbours | `phaistos_disc.json`, `phaistos_disc_sign_map.json` (not shipped yet) |
+| `semitic_roots_lookup.py` | Whether a root is already in `semitic_roots.json`, or one close to it: give a root or headword (`ʔ-s-d`, `'*ʔasad-'`, `knš`) and get the records whose keys match it exactly, share its consonant classes (ś/š/s, ḳ/k/g, ḥ/ḫ/ʿ), or are one consonant off, each ranked by a distance over the actual radicals; `--meaning lion` adds the records whose meaning has the word (`--glosses`: the reflexes' glosses too), `--json` for the full rows. Build the index first (`build_root_index.py --allow-missing`) | the root index |
 | `sign_lookup.py` | One sign by AB number, phonetic value or codepoint, with each reading's status, polyphony and evolution | `sign-registry.json` |
 
 ## Search and analysis

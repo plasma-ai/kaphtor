@@ -34,6 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾAmarānu |
 | Meaning | personal name, ʾAmar- 'he has spoken, seen' with -ānu |
 | Root | ʾ-m-r |
+| Proto-Semitic | \*ʾmr (#2530) |
 | Language layer | NWS |
 | Category | personal_name |
 | Semantic field | personal_name |
@@ -48,11 +49,12 @@ SK Zb 1, a clay vessel from Skhinia, the word alone. A-MA-RA-NE writes ʾAmarān
 |---|---|
 | Amorite | ʾAMAR+ʾIL-I (Gelb AS 21 no. 408); ʾAMAR-A+HADD-U, ʾAMAR-U (nos. 720, 724); ʾMR 'to see, to command, to speak' (p. 14) |
 | Hebrew | ʾĂmaryāh (HALOT 68) |
-| Ugaritic | amr 'order, demand; word (?)' (DULAT 69) |
+| Ugaritic | amr 'order, demand; word (?)' (DULAT 69); names Amar-Addu, a-mar-ᵈIM, amrbʿl (Kinlaw 1967, 20) |
+| Eblaite | ʔa₅-ma-ra-am₆ ʾammar-am, prefix conjugation (GlOS 1, 27) |
 
 ### Source
 
-di Mino
+di Mino; Kinlaw 1967; GlOS 1
 
 ## Attestations
 
