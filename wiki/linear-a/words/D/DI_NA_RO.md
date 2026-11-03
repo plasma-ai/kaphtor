@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DI_NA_RO
 title: "DI-NA-RO"
 desc: "Dānīlo / Dānīlu: personal name (\"El judges\"—Ugaritic hero-king Dāniʾēlu). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DI-NA-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name ("El judges"—Ugaritic hero-king Dāniʾēlu) |
 | Root | d-y-n + ʾēl |
 | Proto-Semitic | \*dyn- (#S36) + \*ʾil- (#2719) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Hapax on HT108 (Scribe HT2, LMIB). Grain ration list headed by KI-RE-TA-NA ('Cretan,' CONFIRMED gentilic): DI-NA-RO receives 2 units, DU-SU-NI 5, RA₂-TI 10 \|\| ETYMOLOGY: Skeleton d-n-r → d-n-l via R-class liquid neutralization (RO=/lo/). √d-y-n + theophoric ʾēl contracted to -lo. Morphological parallel: DI-NA-U (Dīnāyu, hypocoristic PN, CANDIDATE, 6 att.) shares same √d-y-n base with 1pl possessive suffix. Vowel indifference DI=/di/ for expected DA=/da/ within documented tolerance (cf. KI-RO/KU-RO per Gordon §147) \|\| Both Ugaritic epic root names (Keret + Danel) appear on same tablet HT108—administratively coincidental but onomastically notable
+HT 108 (Scribe HT 2, LM IB), a grain ration list headed by KI-RE-TA-NA 'Cretan': DI-NA-RO 2, DU-SU-NI 5, RA₂-TI 10. Dānīlu 'El judges', the Ugaritic hero-king Dāniʾēlu: √d-y-n with theophoric ʾēl contracted to -lo, RO writing lo. DI for the a of Dāniʾēlu writes the i of the root's noun dīnu 'judgment' (CAD D 150). DI-NA-U Dīnāyu shares the base. HT 108 thus holds the roots of both Ugaritic epic heroes' names, Keret and Danel. One attestation.
 
 ### Cognates
 
@@ -71,8 +71,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
@@ -81,6 +81,6 @@ di Mino
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretana.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretan.
 
 <!-- END kaphtor:record -->

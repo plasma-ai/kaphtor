@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ṣām; ṣōm (Leslau CDG 566) | Leslau CDG 566 | gloss withheld |
-| Aramaic | ṣwm, ṣwmʾ (HALOT 1012; DNWSI 965 apud CAL) | HALOT 1012; DNWSI 965; CAL |  |
+| Aramaic | ṣwm, ṣwmʾ (HALOT 1012; DNWSI 965) | HALOT 1012; DNWSI 965 |  |
 | Judaic Aramaic | ṣwmʾ (HALOT 1012; DJPA 460a apud CAL) | HALOT 1012; DJPA 460a; CAL |  |
 | Syrian Aramaic | ṣaumā (HALOT 1012) | HALOT 1012 |  |
 | Mandaic Aramaic | ṣuma (HALOT 1012) | HALOT 1012 |  |

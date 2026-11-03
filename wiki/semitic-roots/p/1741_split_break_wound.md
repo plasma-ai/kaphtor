@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | fqʕ |  |  |
+| Geez | fqʕ; faqqa (LGz. 164) | LGz. 164 | gloss withheld |
 | Aramaic | PQʿ (Aramaic Root Atlas; CAL s.v. pqʿ) | Aramaic Root Atlas; CAL s.v. pqʿ; Anderson–Moser 2024 root pqʿ | gloss withheld |
-| Arabic | faqaʿa, faqaʾa (LGz. 163) | LGz. 163 | gloss withheld |
+| Arabic | faqaʿa, faqaʾa (LGz. 163); faqqa (LGz. 164) | LGz. 163; LGz. 164 | gloss withheld |
 | Syrian Aramaic | pəqaʿ (LGz. 163; Payne Smith 456); puqāʿā (Payne Smith 438); paqʿā (Payne Smith 456) | LGz. 163; Payne Smith 456; Payne Smith 438 | gloss withheld |
-| Mandaic Aramaic | pqa (LGz. 163; Drower/Macuch 376b apud CAL) | LGz. 163; Macuch 376b; CAL |  |
+| Mandaic Aramaic | pqa (LGz. 163; MD 376) | LGz. 163; MD 376 |  |
 | Tigre | fäqʾa, fäqʿa (LGz. 163) | LGz. 163 | gloss withheld |
 | Tigrinya | fäqʿe (LGz. 163) | LGz. 163 |  |
 | Amharic | fäqqa (LGz. 163) | LGz. 163 | gloss withheld |

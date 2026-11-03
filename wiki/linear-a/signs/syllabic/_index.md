@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/syllabic
 title: Syllabic signs
 desc: Each syllabic sign with its value, its Linear B counterpart, the forms cited for it and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-28T19:41:00Z
+updated: 2026-11-03T12:43:04Z
 ---
 
 # Syllabic signs
@@ -138,7 +138,7 @@ updated: 2026-10-28T19:41:00Z
 
 [[wiki/linear-a/signs/syllabic/star301|star301]]: Linear A syllabic *301, proposed: na.
 
-[[wiki/linear-a/signs/syllabic/star305|star305]]: Linear A syllabic *305, proposed: ḏa.
+[[wiki/linear-a/signs/syllabic/star305|star305]]: Linear A syllabic *305, proposed: da.
 
 [[wiki/linear-a/signs/syllabic/star306|star306]]: Linear A syllabic *306, proposed: ʿa.
 

@@ -55,6 +55,7 @@ Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /l
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/A/A_JU\|A-JU]] | Ḥayyu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] | ʾArāyu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_JU_TE\|DA-JU-TE]] | dalut | CANDIDATE |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | SPECULATIVE |
@@ -69,6 +70,6 @@ Second /l/-sign alongside RA₂ (AB76). Possibly vowel-distinguished: RA₂ = /l
 | [[wiki/linear-a/words/S/SU_JU_TA\|SU-JU-TA]] | sulta | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_JU_MA\|TU-JU-MA]] | Tuʿlum | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_JU\|U-JU]] | ʿūlū | SPECULATIVE |
-| [[wiki/linear-a/words/Z/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulubu | SPECULATIVE |
+| [[wiki/linear-a/words/Z/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulpu | CANDIDATE |
 
 <!-- END kaphtor:record -->

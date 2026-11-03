@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/956_be_tired_1_be_slow_2
 title: "*lVʾay-: 'be tired' 1, 'be slow' 2"
-desc: "Proto-Semitic *lVʾay-, 'be tired' 1, 'be slow' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *lVʾay-, 'be tired' 1, 'be slow' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "956"
@@ -30,8 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Punic | lʾy 1, in lʾty (Krahmalkov 251) | Krahmalkov 251 | gloss withheld |
 | Arabic | lʔy \[-a-\] 2 |  |  |
 | Hebrew | lʔy 1 |  |  |
+| Ugaritic | lʔy 1 (DULAT 485) | DULAT 485 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

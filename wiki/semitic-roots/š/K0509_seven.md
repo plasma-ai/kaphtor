@@ -32,8 +32,8 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | yǝbáyt; hōba (Rubin 2018 295, 297); šība (Rubin 2018 300) | Rubin 2018 295, 297; Rubin 2018 300 | gloss withheld |
 | Akkadian | sebe (seba, fem. sebet) (CAD S 203) | CAD S 203; Anderson–Moser 2024 root šbʿ | gloss withheld |
 | Arabic | sabʕat 'seven' (Lane 1297) | Lane 1297 |  |
-| Aramaic | šbʿ (Aramaic Root Atlas; DNWSI 1102 apud CAL) | Aramaic Root Atlas; DNWSI 1102; CAL; Anderson–Moser 2024 root šbʿ | gloss withheld |
-| Hebrew | šebaʿ 'seven' | Anderson–Moser 2024 root šbʿ |  |
+| Aramaic | šbʿ (Aramaic Root Atlas; DNWSI 1102) | Aramaic Root Atlas; DNWSI 1102; Anderson–Moser 2024 root šbʿ | gloss withheld |
+| Hebrew | šebaʿ; šbwʕ (DNWSI 1100) | DNWSI 1100; Anderson–Moser 2024 root šbʿ | gloss withheld |
 | Punic | šbʿ (T 311); šbʿm (T 312) | T 311; T 312; Anderson–Moser 2024 root šbʿ | gloss withheld |
 | Ugaritic | šbʿ (DULAT 790) | DULAT 790 | gloss withheld |
 | Biblical Aramaic | \*šibʿā (HALOT 1399) | HALOT 1399 |  |
@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | hobeḥ (LGz. 483) | LGz. 483 |  |
 | Jibbali | šebʿet (LGz. 483) | LGz. 483 |  |
 | Syrian Aramaic | šəḇaʿ (LGz. 483; Payne Smith 557) | LGz. 483; Payne Smith 557 |  |
-| Mandaic Aramaic | šaba (LGz. 483; Drower/Macuch 438b apud CAL) | LGz. 483; Macuch 438b; CAL |  |
+| Mandaic Aramaic | šaba (LGz. 483; MD 438) | LGz. 483; MD 438 |  |
 | Tigre | säbuʿ (LGz. 483) | LGz. 483 |  |
 | Tigrinya | šobʿatte (LGz. 483) | LGz. 483 |  |
 | Amharic | säbat (LGz. 483) | LGz. 483 |  |

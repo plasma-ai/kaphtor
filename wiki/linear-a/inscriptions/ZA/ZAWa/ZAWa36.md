@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Nodule"
 period: ""
 translation: "none"
-words: []
+words: ["RO"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐘁
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/R/RO|RO]].
 
 <!-- END kaphtor:record -->

@@ -1,12 +1,12 @@
 ---
 name: docs/meaning-shuffle-preregistration
 title: "Meaning-Shuffle Test: Pre-Registration"
-desc: The meaning-shuffle test's pre-registration, a draft for signature: hypothesis, word set, statistic, null, the calibration rerun before the run, competitor arms and how to read the result.
+desc: The meaning-shuffle test's pre-registration: hypothesis, word set, statistic, null, the calibration rerun before the run, competitor arms and how to read the result.
 tags: [docs]
 authors: "di Mino"
 status: "DRAFT FOR SIGNATURE (calibrated on synthetic words; no distance on a real anchored word)"
 created: 2026-10-28T23:30:00Z
-updated: 2026-10-28T23:30:00Z
+updated: 2026-11-03T00:00:00Z
 ---
 
 # Meaning-Shuffle Test: Pre-Registration
@@ -30,10 +30,10 @@ the answer is almost never yes, and per-word verdicts do not add up. This test a
 the Linear A words that stand beside a logogram lie nearer Semitic roots whose meaning fits that logogram than roots
 that fit another logogram's? Shuffling the contexts among the words keeps the words, the lexicon and its density
 fixed and moves only the pairing of word and meaning (Baxter & Manaster Ramer 1999; Kessler 2001). The same test is
-run against Luwian, Egyptian and Hurrian.
+run against Luwian, Egyptian, Hurrian and Hattic.
 
 Everything below was fixed on synthetic words before any distance was taken on a real anchored word. The
-calibration and power study is `artifacts/meaning-shuffle-2026-10-28/POWER.md` in the research tree (findings 1–21);
+calibration and power study is `artifacts/meaning-shuffle-2026-10-28/POWER.md` in the research tree (findings 1–23);
 the numbers here are its.
 
 ## 0. Status
@@ -88,7 +88,7 @@ statistics calibrated on every one of five decoy pools, the one with the highest
 - **Shuffle:** the contexts are permuted among the words, keeping their multiset, inside the **fine strata**: a word
   moves only among words of the same sign count (5 standing for 5 or more), skeleton length and reading count, what
   family B keeps of a word (A3, A11). A word alone in its stratum falls back to its sign count (`ms.fine_strata`;
-  ruled 2026-10-28, Tom: "Sure").
+  ruled 2026-10-28, di Mino: "Sure").
 - **N = 10,000** permutations, seed 20261028.
 - **p = (1 + #{T_perm ≥ T_obs}) / (1 + N)**, one-sided, ties counted against H₁. This is the p the calibration
   measured.
@@ -116,18 +116,35 @@ well. None of these replaces or rescues the primary.
 
 ## 7. Competitor arms and cross-talk
 
-- **Arms:** Luwian, Egyptian and Hurrian, each run with the primary's words, statistic, strata, N, seed and α, each
-  against its own lexicon gated by its own glosses (`--competitors`). Each arm is reported with its own p.
-- **No hurdle** (ruled 2026-10-28, Tom: "It doesn't have to beat each competitor. It should be objective."): no
+- **Arms:** Luwian, Egyptian, Hurrian and Hattic, each run with the primary's words, statistic, strata, N, seed and
+  α, each against its own lexicon gated by its own glosses (`--competitors`). Each arm is reported with its own p.
+  Hattic's lexicon is `hattic_roots.json`, on the keys and table of Shoresh's amendment A23. Its glosses are
+  Soysal 2004's, put into English and keeping his "?", and 106 of its 361 entries tag a domain.
+- **Hattic, added before signature** (2026-11-02). Its numbers come from a calibration run at finding 21's settings
+  and are written here before signature: type I and KS p on every pool; own power at each k, with `plant_limited`
+  and the maximum fill; and cross-talk both ways at k = 40 or Hattic's maximum fill. Where Hattic cannot fill a k,
+  that k is reported as untestable, never padded. Measured on 2026-11-02 (POWER.md finding 23) on the corrected
+  file (299 keyed entries, A23), with Shoresh's k~ḫ at 0.3 in every competitor arm (D14). Like the other arms, this
+  one needs the glossed research copy: the shipped rival files carry no glosses.
+  - **Calibration:** type I 0.037–0.050 on the five pools, and the KS p at least 0.020 on each.
+  - **Own power:** 0.526 at 10 planted words, 0.827 at 14 and 0.996 at 20. Hattic fills 23–27 slots by pool (mean
+    24.9), so 40 is `plant_limited`, and power at the maximum fill is 1.000.
+  - **Cross-talk:** Hattic plants read 0.018 on the Semitic test at maximum fill, and Semitic plants read 0.056 on
+    the Hattic test at 40.
+  - **The other arms on the same inputs:** the corpus gave 83 slots, against finding 21's 84. Egyptian plants read
+    0.073 on the Semitic test, above 0.064, and Semitic plants read 0.057 on the Luwian test. §5's rerun on the
+    frozen inputs gives the figures that bind.
+- **No hurdle** (ruled 2026-10-28, di Mino: "It doesn't have to beat each competitor. It should be objective."): no
   competitor result gates the Semitic one.
-- **Cross-talk is reported, never a gate** (ruled 2026-10-28, Tom: "Sure"). Measured on synthetic plants under the
-  registered statistic: no cross-talk exceeds 0.064. Egyptian plants read 0.062 on the Semitic test at 40 planted,
-  Luwian and Hurrian plants stay below α, and the competitors' tests read 0.016–0.051 on Semitic plants. A
+- **Cross-talk is reported, never a gate** (ruled 2026-10-28, di Mino: "Sure"). Measured on synthetic plants under the
+  registered statistic, finding 21 found no cross-talk above 0.064. Egyptian plants read 0.062 on the Semitic
+  test at 40 planted, Luwian and Hurrian plants stay below α, and the competitors' tests read 0.016–0.051 on
+  Semitic plants. A
   competitor's cross-talk can account for a Semitic positive only if that competitor's own test also rejects on the
   real words; if both reject, both are reported and neither is ranked. The same rule reads a competitor's positive.
 - **Own power,** at the registered statistic: Luwian 0.847 at 14 planted, Egyptian 0.777 at 20 and 0.999 at 40,
   Hurrian 1.000 at 10 (Hurrian fills at most 14 slots). A competitor that does not reject was able to.
-- **Shoresh's A15 stands** (ruled 2026-10-28, Tom: "Sure"): this section covers the corpus test only.
+- **Shoresh's A15 stands** (ruled 2026-10-28, di Mino: "Sure"): this section covers the corpus test only.
 
 ## 8. Reading the result
 
@@ -141,7 +158,7 @@ figure, in `artifacts/meaning-shuffle-2026-10-28/RESULT.md`.
 
 ## 9. Gold words
 
-The gold set's words are set aside and counted (ruled 2026-10-28, Tom: "drop the gold words for now"). Every tier
+The gold set's words are set aside and counted (ruled 2026-10-28, di Mino: "drop the gold words for now"). Every tier
 3–4 Semitic word is in the gold set, so the primary tests the tier 1–2 residue and the unread words. `--gold-run`
 is not registered here.
 
@@ -153,7 +170,7 @@ is not registered here.
   10 more carry an alternate. The conventional-values run (§6) shows what rests on Linear B's values alone.
 - **The tagger reads English glosses,** so a lexicon glossed in another language fits fewer contexts.
 - **A word written as logograms alone** (`*21F-*118`) is in the word set, as it was in the calibration.
-- **Power:** the Semitic arm is the weakest of the four; a relation carried by 20 of the 84 words goes undetected
+- **Power:** the Semitic arm is the weakest of the five; a relation carried by 20 of the 84 words goes undetected
   70% of the time.
 
 ## 11. Freeze and signature

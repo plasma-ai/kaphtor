@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | tall- (Lane 311) | Lane 311 |  |
-| Akkadian | tīlu |  |  |
+| Akkadian | tīlu (AHw 1359) | AHw 1359 |  |
 | Ugaritic | tl |  |  |
 | Hebrew | tēl |  |  |
 | Syrian Aramaic | tell- |  |  |

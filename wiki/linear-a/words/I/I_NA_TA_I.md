@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_NA_TA_I
 title: "I-NA-TA-I"
 desc: "ʿInatī: my Anat—theonym plus 1cs -ī; proposed \"She Who Answers\" (√ʿ-n-y). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "theonym"]
 kind: "word"
 form: "I-NA-TA-I"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | my Anat—theonym plus 1cs -ī; proposed "She Who Answers" (√ʿ-n-y) |
 | Root | ʿ-n-y |
 | Proto-Semitic | \*ʕanat- (#2771) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-IOZa6 position 2. The vessel is chipped, but the complete group I-NA-TA-I-ZU-DI-SI-KA has no internal lacuna. Proposed segmentation: I-NA-TA-I + ZU-DI + SI-KA, 'my Anat, Breast-Who-Gives-Drink.' Initial I carries the laryngeal ʿ, not a separate particle: Ugaritic has three vowel-conditioned aleph signs (Huehnergard 2012, 21), and syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). Final I is the 1cs suffix -ī. IOZa8 is not counted: \]A-NA-TI-\*301-WA-JA\[ is broken at both edges. See TA-NA-I-\*301-U-TI-NU, DA-RU-NE-TE, KA-KU-NE-TE.
+IO Za 6, position 2. The vessel is chipped, but the complete group I-NA-TA-I-ZU-DI-SI-KA has no internal lacuna. Segmented I-NA-TA-I + ZU-DI + SI-KA, 'my Anat, Breast-Who-Gives-Drink.' Initial I carries the laryngeal ʿ, not a separate particle: Ugaritic has three vowel-conditioned aleph signs (Huehnergard 2012, 21), and syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). Final I is the 1cs suffix -ī. IO Za 8 \]A-NA-TI-\*301-WA-JA\[ is broken at both edges. See TA-NA-I-\*301-U-TI-NU, DA-RU-NE-TE, KA-KU-NE-TE.
 
 ### Cognates
 

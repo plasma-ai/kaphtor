@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sabā 'capture' (Lane 1303) | Lane 1303 |  |
-| Aramaic | ŠBY (Aramaic Root Atlas; CAL s.v. šby) | Aramaic Root Atlas; CAL s.v. šby; Anderson–Moser 2024 root šby | gloss withheld |
+| Aramaic | ŠBY (Aramaic Root Atlas; CAL s.v. šby); šby (DNWSI 1101) | Aramaic Root Atlas; CAL s.v. šby; DNWSI 1101; Anderson–Moser 2024 root šby | gloss withheld |
 | Hebrew | šabah 'capture' | Anderson–Moser 2024 root šby |  |
 | Punic | šb 'captive' | Anderson–Moser 2024 root šby |  |
 | Ugaritic | šby (Kogan 2015, ch. 3 §5.3 no. 31) | Kogan 2015 ch. 3 §5.3 no. 31; Anderson–Moser 2024 root šby | gloss withheld |

@@ -20,10 +20,10 @@ only the sets under `data/`, and each folder's index lists them.
 
 | File | Rows | Source |
 |---|---|---|
-| `data/quran_roots.jsonl` | 1,651 roots | QAC 0.4 morphology |
-| `data/quran_text.jsonl` | 6,236 ayahs | Tanzil Uthmani |
-| `data/arabian_epigraphy.jsonl` | 74 inscriptions | OCIANA (OSU) |
-| `data/south_arabian_epigraphy.jsonl` | 187 curated entries | DASI (CNR), from the DASI lexicon, which is not in this repository |
+| `data/share-alike/quran/quran_roots.jsonl` | 1,651 roots | QAC 0.4 morphology |
+| `data/ane/quran_text.jsonl` | 6,236 ayahs | Tanzil Uthmani |
+| `data/ane/arabian_epigraphy.jsonl` | 74 inscriptions | OCIANA (OSU) |
+| `data/ane/south_arabian_epigraphy.jsonl` | 187 curated entries | DASI (CNR), from the DASI lexicon, which is not in this repository |
 
 Not in this repository, for rights: the Faris 1952 Kitāb al-Aṣnām index, the Beeston and Biella Sabaic
 dictionaries, and Harding 1971, with the name-element search and theonym list built from Harding and the Aṣnām.
@@ -81,7 +81,7 @@ correspondence: recall over precision for deep cognate hunting).
 - **SabaWeb (sabaweb.uni-jena.de)**: the Sabaic dictionary, offline. The print dictionaries are Beeston et al.,
   *Sabaic Dictionary* (1982) and Biella, *Dictionary of Old South Arabic* (1982).
 - **SEDonline (http://sed-online.ru)**: the Semitic Etymological Database, live (HSE University; L. Kogan,
-  I. Arkhipov), about 2,060 reconstructions and 24,500 forms. The old host sed-online.uni-jena.de is gone. No
+  I. Arkhipov). The old host sed-online.uni-jena.de is gone. No
   licence, API or export. Print SED I–II remain the reference.
 
 ## Pre-Islamic Arabian epigraphy
@@ -92,14 +92,15 @@ correspondence: recall over precision for deep cognate hunting).
   under Al-Jallad). The old Oxford host `krc.orient.ox.ac.uk/ociana` is gone.
 - ~40,000 inscriptions: Safaitic, Hismaic, Dadanitic, Taymanitic. Transliteration,
   translation, commentary, bibliography, provenance, photos.
-- No API, no bulk export → **targeted harvest only** (probe-gated, ≥3 s delay, cached, resumable). Deity query set:
-  mnt, lt, ʿzy, rḍw, bʿlsmn.
+- No API. OCIANA's official research download (ORA) holds 37,955 inscriptions, and aneq's `ociana` view reads it. A
+  targeted harvest keyed on deity names is the fallback (probe-gated, ≥3 s delay, cached, resumable). Deity query
+  set: mnt, lt, ʿzy, rḍw, bʿlsmn.
 - **Scrape mechanics:** Rails app, server-rendered. Search:
   `GET /inscriptions?search[transliterated_text]=<q>&search[last_updated]=0&per_page=48&search[layout]=list`,
   pagination via `page=`. Records at `/inscriptions/<id>` as dt/dd pairs (Siglum,
   Transliteration, Translation, Language and Script, Site, Subjects). The harvest holds
-  74 inscriptions (mnt 10, lt 25, ʿzy 14, rḍw 25, bʿlsmn 0, likely spelled bʿls¹mn
-  in OCIANA's conventions). Among them is **RWQ 319** (Wādī Salmā, Jordan), a
+  74 inscriptions (mnt 10, lt 25, ʿzy 14, rḍw 25, bʿlsmn 0; OCIANA writes bʿls¹mn).
+  Among them is **RWQ 319** (Wādī Salmā, Jordan), a
   Safaitic prayer invoking three deities, "h ds²r w mnt w lt s¹lm": Dushara, Manāt,
   and Allāt together.
 

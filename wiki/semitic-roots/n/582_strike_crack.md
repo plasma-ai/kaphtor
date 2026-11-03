@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/582_strike_crack
 title: "*nVgVʕ-: 'strike, crack'"
-desc: "Proto-Semitic *nVgVʕ-, 'strike, crack': reflexes in 7 language(s)."
+desc: "Proto-Semitic *nVgVʕ-, 'strike, crack': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "582"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | nägʷʿe (intr.) (LGz. 390) | LGz. 390 | gloss withheld |
 | Amharic | näggʷa (LGz. 390) | LGz. 390 | gloss withheld |
 | Gurage | (tä)nagga (LGz. 390) | LGz. 390 | gloss withheld |
+| Canaanite | ig-gi-ú-šu /yiggeʿū=/ (EA 288:44) (Sanmartín GlOS 2, 80) | Sanmartín GlOS 2, 80 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

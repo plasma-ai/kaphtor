@@ -9,7 +9,7 @@ site: "Petras"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["A-*325-ZA", "A-RI-PA", "QA-QA-DA", "RU-PI-*305-MI", "TAMIR", "TO-MI-RE"]
+words: ["A-*325-ZA", "A-RI-PA", "QA-QA-DA", "RU-PI", "SA-*305-MI", "TAMIR", "TO-MI-RE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -42,20 +42,22 @@ Transliteration, line by line:
 
 1. 𐝫
 2. 3 ¹⁄₃
-3. RU-PI-\*305-MI 1 ¹⁄₈
-4. A-\*325-ZA ¹⁄₄
-5. A-RI-PA ¹⁄₄
-6. QA-QA-DA ¹⁄₂
-7. TO-ME ¹⁄₃
-8. TO-\*49-RE 1
-9. 𐝫
+3. RU-PI 𐝫 ¹⁄₃
+4. SA-\*305-MI 1 ¹⁄₈
+5. A-\*325-ZA ¹⁄₄
+6. A-RI-PA ¹⁄₄
+7. QA-QA-DA ¹⁄₂
+8. TO-ME ¹⁄₃
+9. TO-\*49-RE 1
+10. 𐝫
 
 Unicode (Linear A block):
 
 ```text
 𐝫
 𐄉𐝁
-𐘘𐘢𐝫𐙙𐘻𐄇𐝄
+𐘘𐘢𐝫𐝁
+𐘞𐙙𐘻𐄇𐝄
 𐘇𐙱𐘍𐝃
 𐘇𐘭𐘂𐝃
 𐘌𐘌𐘀𐝆
@@ -66,7 +68,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_star325_ZA|A-\*325-ZA]], [[wiki/linear-a/words/A/A_RI_PA|A-RI-PA]], [[wiki/linear-a/words/Q/QA_QA_DA|QA-QA-DA]], [[wiki/linear-a/words/R/RU_PI_star305_MI|RU-PI-\*305-MI]], [[wiki/linear-a/words/T/TAMIR|TAMIR]], [[wiki/linear-a/words/T/TO_MI_RE|TO-MI-RE]].
+[[wiki/linear-a/words/A/A_star325_ZA|A-\*325-ZA]], [[wiki/linear-a/words/A/A_RI_PA|A-RI-PA]], [[wiki/linear-a/words/Q/QA_QA_DA|QA-QA-DA]], [[wiki/linear-a/words/R/RU_PI|RU-PI]], [[wiki/linear-a/words/S/SA_star305_MI|SA-\*305-MI]], [[wiki/linear-a/words/T/TAMIR|TAMIR]], [[wiki/linear-a/words/T/TO_MI_RE|TO-MI-RE]].
 
 ## Edition differences
 

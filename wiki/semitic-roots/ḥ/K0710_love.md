@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | taḥābaba (Wb. 80a apud HALOT 284) | Wb. 80a; HALOT 284 | gloss withheld |
 | Amorite | ḥbb: ʾaḥbab, ḥabībum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
 | Syrian Aramaic | ḥab 'kindle; love' (Payne Smith 122) | Payne Smith 122 |  |
-| Pre-Islamic North Arabian | Safaitic ḥb (Al-Jallad–Jaworska 83) | Al-Jallad–Jaworska 83 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥb (Al-Jallad–Jaworska 83); ʾḥbb; ḥbb, fem. ḥbbt; mḥbb; mḥb; ʾḥb; Hismaic ḥb; Thamudic D ḥb, ḥbb (Al-Jallad 2026, 72) | Al-Jallad–Jaworska 83; Al-Jallad 2026 72 | gloss withheld |
 | Modern Arabic | Daṯ. ḥabāb (Biella 163) | Biella 163 |  |
 | Judaic Aramaic | ḥabbeb (T 169) | T 169 |  |
 | Mandaic Aramaic | hbb, hmbb (T 169) | T 169 |  |

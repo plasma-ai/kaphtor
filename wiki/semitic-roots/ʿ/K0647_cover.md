@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0647_cover
 title: "*ʿVpVy-: 'cover'"
-desc: "Proto-Semitic *ʿVpVy-, 'cover': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ʿVpVy-, 'cover': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0647"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Punic | ʿpy 'wrap' | Anderson–Moser 2024 root ʿpy |  |
+| Phoenician | hʿpyt (Krahmalkov 383) | Krahmalkov 383 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

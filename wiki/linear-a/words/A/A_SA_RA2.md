@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_SA_RA2
 title: "A-SA-RA₂"
 desc: "ʾasāra: locked house, work-house (of the sanctuary), heading its personnel classes; rivals ʾasīr- 'captives', aššum šarra 'concerning the queen'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative heading"]
+tags: ["linear-a", "word", "tier-2", "administrative", "hapax", "noun"]
 kind: "word"
 form: "A-SA-RA₂"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | locked house, work-house (of the sanctuary), heading its personnel classes; rivals ʾasīr- 'captives', aššum šarra 'concerning the queen' |
 | Root | ʾ-s-r |
 | Proto-Semitic | \*ʾVsir- (#408) |
-| Language layer | NWS |
-| Category | administrative heading |
+| Language layer | Semitic |
+| Tags | administrative, hapax, noun |
 | Semantic field | administrative |
 
 ### Note

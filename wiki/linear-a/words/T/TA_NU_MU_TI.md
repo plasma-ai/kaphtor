@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/T/TA_NU_MU_TI
 title: "TA-NU-MU-TI"
-desc: "ta-nʿum-u-tī: may you (f.) be gracious/favourable (if TA begins the word). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "verb"]
+desc: "ta-nʿum-u-tī: may you (f.) be gracious, favourable. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "fragmentary", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "TA-NU-MU-TI"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ta-nʿum-u-tī |
-| Meaning | may you (f.) be gracious/favourable (if TA begins the word) |
+| Meaning | may you (f.) be gracious, favourable |
 | Root | n-ʿ-m |
 | Proto-Semitic | \*nʕm (#2611) |
-| Language layer | NWS |
-| Category | verb |
+| Language layer | Semitic |
+| Tags | fragmentary, hapax, libation_formula, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-GORILA IV, 8–9 prints \]TA-NU-MU-TI; the initial break is of indeterminate extent, so this analysis applies only if TA begins the word. Proposed G u-class /ta-nʿum-u-tī/: Arabic naʿuma/yanʿumu supports the u-vocalism; Sabaic n²m ‘be favourable, prosper’ supplies the closest semantics (Beeston et al. 1982, 90); Hebrew nāʿamt (Song 7:7) is a 2fs semantic/person control. The ʿ is unrepresented, and -tī is di Mino's analogical 2fs subject clitic rather than an independently attested prefix-conjugation ending; Thomas's plural-agreement reading remains a rival. It is not √t-n-m ‘I dedicated’ or tD \*/tanaʿʿamti/. See TA-NA-MA-JE.
+KN Za 10: \]TA-NU-MU-TI · before JA-SA-SA-RA-MA-NA (GORILA IV 8–9). ta-nʿum-u-tī 'may you (f.) be gracious', a G u-class prefix form of √n-ʿ-m: Arabic naʿuma/yanʿumu has the u-vowel, Sabaic n²m 'be favourable, prosper' the closest sense (Beeston et al. 1982, 90), and Hebrew nāʿamt (Song 7:7) the 2fs in the same sense. The ʿ is unwritten. Byblos marks person twice in the same way, ta-šap-pár-ta (EA 102:10), and PS Za 2 writes TA-NA-I-\*301-TI (di Mino, Ya Diktu 14). Weak point: the break before TA is of indeterminate extent. Rival: Thomas's plural-agreement reading, with -ti a third-person plural subject marker (Thomas 2020, 12–14). One attestation. See TA-NA-MA-JE.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ GORILA IV, 8–9 prints \]TA-NU-MU-TI; the initial break is of indeterminate ext
 
 ### Source
 
-GORILA IV, 8–9; Beeston et al. 1982, 90, s.v. N²M; Fischer 2002, §162f; Harding 1971, 139; di Mino
+di Mino; GORILA IV, 8–9; Beeston et al. 1982, 90, s.v. N²M; Fischer 2002, §162f; Harding 1971, 139; Thomas 2020
 
 ## Attestations
 

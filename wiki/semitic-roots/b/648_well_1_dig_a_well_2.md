@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/648_well_1_dig_a_well_2
 title: "*biʾr- 1, *bVʾVr- 2: 'well' 1, 'dig (a well)' 2"
-desc: "Proto-Semitic *biʾr- 1, *bVʾVr- 2, 'well' 1, 'dig (a well)' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *biʾr- 1, *bVʾVr- 2, 'well' 1, 'dig (a well)' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "648"
@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | biʔr- 1, bʔr \[-a-\] 2 (Lane 145) | Lane 145 |  |
 | Akkadian | bīru 1 |  |  |
-| Mandaic Aramaic | bira 1 (Drower/Macuch 62a apud CAL) | Macuch 62a; CAL |  |
+| Mandaic Aramaic | bira 1 (MD 62) | MD 62 |  |
 | Hebrew | bǝʔēr 1 |  |  |
 | Aramaic | (Emp) bʔr 1, (Palest) bǝʔērē 1 (DJPA 101b apud CAL) | DJPA 101b; CAL |  |
 | Phoenician | bʔr (T 43) | T 43 | gloss withheld |
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | bayr (ML 40 apud SEDonline 534) | ML 40; SEDonline 534 | gloss withheld |
 | Syrian Aramaic | bir 'a well, a pit' (Payne Smith 34, 54) | Payne Smith 34, 54 |  |
 | Soqotri | ʿébehor (Kogan 2011, 192) | Kogan 2011 192 | gloss withheld |
+| Moabite | br 1 (DNWSI 155) | DNWSI 155 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

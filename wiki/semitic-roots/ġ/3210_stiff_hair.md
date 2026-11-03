@@ -30,7 +30,7 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | apparrû, ḫapparrû (Kogan 2011, 223) | Kogan 2011 223 | gloss withheld |
-| Arabic | ɣafar- (Kogan 2011, 223) | Kogan 2011 223 | gloss withheld |
+| Arabic | ɣafar- (Kogan 2011, 223); ɣifrāt-, ɣufār- (BK 2, 483 apud SED I 99) | Kogan 2011 223; BK 2, 483; SED I 99 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

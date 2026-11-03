@@ -51,11 +51,11 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> The tower
+> The Tower
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidamat | the tower (DA-MA-TE with prothetic I-) |  | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidmat | the Tower, a sacred title (DA-MA-TE with prothetic I-) |  | CANDIDATE (lexicon) |
 
 ### Notes
 

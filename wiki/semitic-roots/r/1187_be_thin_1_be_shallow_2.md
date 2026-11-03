@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | req 2 |  |  |
 | Geez | rqq 1 |  |  |
 | Jibbali | reḳḳ 2 |  |  |
-| Ugaritic | rq 'fine' | Anderson–Moser 2024 root rq |  |
+| Ugaritic | rq; rq (I) 1 (DULAT 733); rqt 1 (DULAT 735) | DULAT 733; DULAT 735 | gloss withheld |
 | Hebrew | \*raq, rāqīq, \*rqq, \*raqq (HALOT 1286, 1290, 1293); raḳḳā (HALOT 1288 apud SEDonline 2045) | HALOT 1286, 1290, 1293; HALOT 1288; SEDonline 2045 | gloss withheld |
 | Tigre | raqqa (HALOT 1293) | HALOT 1293 |  |
 | Syrian Aramaic | rəqāqā (HALOT 1293) | HALOT 1293 | gloss withheld |

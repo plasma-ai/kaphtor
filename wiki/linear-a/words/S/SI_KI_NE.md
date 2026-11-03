@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_KI_NE
 title: "SI-KI-NE"
 desc: "Sikinet: stewardess or female administrator; compare masculine prefect/commissioner. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative_title"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "personnel", "title"]
 kind: "word"
 form: "SI-KI-NE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | stewardess or female administrator; compare masculine prefect/commissioner |
 | Root | š-k-n |
 | Proto-Semitic | \*sākin- (#3842) |
-| Language layer | NWS |
-| Category | administrative_title |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel, title |
 | Semantic field | personnel |
 
 ### Note
 
-Strong root and title candidate. The displayed reading Sikinet, vocalized /šikinēt/, follows SI-KI-NE syllable for syllable and requires only an unwritten feminine final /t/. Ugaritic šknt is tentatively vocalized /sākinat-/ 'female administrator, stewardess' (Tropper 2000, 180, KTU 4.135:2; škn 4.36:3), and Hebrew has the same feminine participle, sōkenet, of Abishag (1 Kgs 1:2, 4), while later Akkadian šakintu, oblique šakinte, denotes a female official or governess. The masculine comparison is independently strong: Ugaritic skn /sākinu/ means 'prefect' and is written syllabically sā-ki-ni, while Amarna Canaanite sū-ki-ni /sōkini/ denotes a prefect or commissioner. Thus 'stewardess' is preferred, with 'prefect/commissioner' retained as the economical title comparison. The exact historical vowel pattern remains a project reconstruction. The older 'Shekhinah/divine dwelling' interpretation survives only as a weak root-level association: the specialized divine-presence sense is much later and is not independently established here. See \*47-KU-NA.
+HT 116a: SI-KI-NE GRA 12, then \*304 12, in a list of grain and oil issues, after \*OLIV+TU 2 and before QA-NU-MA GRA 20. Sikinet /šikinēt/ follows SI-KI-NE syllable for syllable, with the feminine final /t/ unwritten. Ugaritic šknt /sākinat-/ 'female administrator, stewardess' (Tropper 2000, 180, KTU 4.135:2; škn 4.36:3), and Hebrew has the same feminine participle, sōkenet, of Abishag (1 Kgs 1:2, 4); Akk. šakintu, oblique šakinte, 'woman manager' (CAD Š/1 165). The masculine is Ugaritic skn /sākinu/ 'prefect', syllabic sā-ki-ni (Huehnergard 2012, 156), and Amarna Canaanite sū-ki-ni /sōkini/, a prefect or commissioner. Rival: the masculine title 'prefect, commissioner'. Weak point: one attestation. See \*47-KU-NA.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Strong root and title candidate. The displayed reading Sikinet, vocalized /šiki
 
 ### Source
 
-Huehnergard 2012, p. 212; Lipiński 1997, §21.12; Tropper 2000, 180; CAD Š/1
+di Mino; Tropper 2000; Huehnergard 2012; Lipiński 1997; CAD Š/1
 
 ## Attestations
 
@@ -64,8 +64,8 @@ Huehnergard 2012, p. 212; Lipiński 1997, §21.12; Tropper 2000, 180; CAD Š/1
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

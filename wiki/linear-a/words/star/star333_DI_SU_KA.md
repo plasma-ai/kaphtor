@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star333_DI_SU_KA
 title: "*333-DI-SU-KA"
 desc: "bīdi Sūka: In the charge of Sūka—custody formula + personal name on a sealed receipt. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "administrative", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "*333-DI-SU-KA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | In the charge of Sūka—custody formula + personal name on a sealed receipt |
 | Root | b-y-d |
 | Proto-Semitic | \*bV-- (#K0007) + \*yad- ~ \*ʾid- (#2046) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | administrative, compound, hapax, personal_name |
 | Semantic field | administrative |
 
 ### Note
 
-HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the charge of' (Ug. bd) + Sūka, a name without a secure etymology. Pair of HT Wc 3010 \*333-DI-NA-SU-KA. Weak point: \*333 = bi rests on its three words. Rival: the whole group a personal name. One attestation. See PA₃.
+HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the charge of' (Ug. bd, DULAT 211) + Sūka, a name without a secure etymology. Pair of HT Wc 3010 \*333-DI-NA-SU-KA. Weak point: \*333 = bi rests on its three words. Rivals: the whole group a personal name; \*333 as ZU (AB 79) after Facchetti, ZU-DI-SU-KA beside ZU-DI-SI-KA of IO Za 6 (Schoep 2002, 50), where the HT Wc 3009 sign has the form of \*333 on HT Wc 3010. One attestation. See PA₃.
 
 ### Cognates
 
@@ -51,7 +52,7 @@ HT Wc 3009, a roundel: \*333-DI-SU-KA \*188. With \*333 = bi, bīdi 'in the char
 
 ### Source
 
-di Mino
+di Mino; DULAT; Schoep 2002
 
 ## Attestations
 

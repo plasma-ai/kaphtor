@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0669_refuge
 title: "*ʿVwVḏ-: 'refuge'"
-desc: "Proto-Semitic *ʿVwVḏ-, 'refuge': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ʿVwVḏ-, 'refuge': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0669"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | ʿuwz (HALOT 797) | HALOT 797; Anderson–Moser 2024 root ʿwḏ | gloss withheld |
 | Aramaic | ʿwz (HALOT 797) | HALOT 797 |  |
+| Pre-Islamic North Arabian | Safaitic ʿwḏ; ʿwḏ; ʿwḏ (D); ʾʿḏ; ʾstʿḏ; Thamudic B ʿwḏ (Al-Jallad 2026, 20) | Al-Jallad 2026 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

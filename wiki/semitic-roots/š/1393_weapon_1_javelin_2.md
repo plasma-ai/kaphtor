@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1393_weapon_1_javelin_2
 title: "*šilāḥ-: 'weapon' 1, 'javelin' 2"
-desc: "Proto-Semitic *šilāḥ-, 'weapon' 1, 'javelin' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *šilāḥ-, 'weapon' 1, 'javelin' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1393"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šelaḥ (Jl 2:8, Neh 4:11, 2C 23:10, 32:5) 2 (HALOT 1516–1517) | HALOT 1516–1517 | gloss withheld |
 | Aramaic | šilḥa 1 |  |  |
 | Pre-Islamic North Arabian | Safaitic slḥ (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |
+| Epigraphic South Arabian | Sab slḥm, slḥhw 1 (Biella 334) | Biella 334 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

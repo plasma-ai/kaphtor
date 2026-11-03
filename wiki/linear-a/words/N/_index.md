@@ -2,14 +2,12 @@
 name: wiki/linear-a/words/N
 desc: "Words whose first sign begins with N."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:13:39Z
+updated: 2026-11-07T03:55:55Z
 ---
 
 # wiki/linear-a/words/N
 
 [[wiki/linear-a/words/_index|..]]
-
-[[wiki/linear-a/words/N/NA|NA]]: nā: please, pray—precative/entreaty particle used in prayer constructions before jussives and after divine addresses. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/N/NA_A_PA3|NA_A_PA3]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -17,11 +15,13 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/N/NA_KI_broken_start|NA_KI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_SI|NA_SI]]: nasīʾ: damaged final sequence; possible nasīʾ 'chief, prince'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NA_MA|NA_MA]]: Naʿma: Naʿma 'Grace' (personal name). Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/N/NA_SI|NA_SI]]: nasīʾ: chief, prince (nasīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NA_TI|NA_TI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/N/NA_TU_star301_NE|NA_TU_star301_NE]]: natūnān / nātānān: Dual reading: (A) the dedicated one (passive participle qatūl of √n-t-n 'to give' + -ān suffix); (B) the giver (active participle qātāl + -ān), a theophanic title parallel to A-TA-NA = ʾatanā 'She-who-gives' (Athena). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/N/NA_TU_star301_NE|NA_TU_star301_NE]]: natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/N/NA_q_DA_DA|NA_q_DA_DA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -47,7 +47,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/N/NI_NU_NI|NI_NU_NI]]: nīnūn: offspring, descendants, posterity. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/N/NI_PI|NI_PI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/N/NI_PI|NI_PI]]: nīb: fruit (commodity). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/N/NI_RA|NI_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -61,8 +61,8 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/N/NU_RO|NU_RO]]: nūr-: light, fire (divine epithet or votive label on clay vessels). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/N/NU_TI|NU_TI]]: nuti: the given ones, a personnel class (√n-t-n), heading before men; rival Egyptian nʾ.tjw 'townsmen'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/N/NU_TI_broken_start|NU_TI_broken_start]]: Unread (unread): no role; 2 occurrence(s).
 
-[[wiki/linear-a/words/N/NU_WI|NU_WI]]: nōwē / nwē: steppe-dweller, (man) of the encampment—qualifier after a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/N/NU_WI|NU_WI]]: nōwē: steppe-dweller, (man) of the encampment—qualifier after a personal name. Lexicon, SPECULATIVE (tier 1).
 
 ***

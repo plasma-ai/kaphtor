@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/OLE_plus_RI
 title: "OLE+RI"
 desc: "riqqu: aromatic/fragrant olive oil preparation. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "abbreviation", "aromatic", "commodity", "ligature", "logogram", "oil"]
 kind: "word"
 form: "OLE+RI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | aromatic/fragrant olive oil preparation |
 | Root | r-q-ḥ |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, aromatic, commodity, ligature, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-OLE ideogram + RI complement (4 att., Haghia Triada + Khania). Akk riqqu 'aromatic substance' (CAD R 371). RI = /ri/ = initial syllable of riqqu. Co-occurs with OLE+NE and OLE+TU on HT23a (all in fractional quantities ≈⅙). Same root as \*401 RUQQÛ: Akk. rīqu/riqqu, Ebla GIŠ.NAGA = rí-ga-tum riqaḥt 'spiced, oily ointment' and Ug. rqḥ 'perfume, ointment' stand under one root \|r-ḳ-ħ\| (GlOS 2, 165). \|\| Myrrh co-occurs on 3 of 4 tablets, independent contextual evidence.
+OLE with the complement RI, on HT 23a, HT 35, HT 60 and KH 82, at Haghia Triada and Khania; myrrh stands on three of the four tablets. riqqu 'aromatic substance' (CAD R 371), RI its first syllable. On HT 23a it stands with OLE+NE and OLE+TU, all at ≈⅙. The root is that of \*401 RUQQÛ: Akk. rīqu, riqqu, Ebla GIŠ.NAGA = rí-ga-tum riqaḥt 'spiced, oily ointment' and Ug. rqḥ 'perfume, ointment' stand under one root \|r-ḳ-ħ\| (GlOS 2, 165).
 
 ### Cognates
 

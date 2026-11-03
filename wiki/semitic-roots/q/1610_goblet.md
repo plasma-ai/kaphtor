@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1610_goblet
 title: "*ḳab-: 'goblet'"
-desc: "Proto-Semitic *ḳab-, 'goblet': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḳab-, 'goblet': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1610"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | qubʿā (HALOT 1062) | HALOT 1062 |  |
 | Arabic | qubʿat (HALOT 1062) | HALOT 1062 |  |
 | Hebrew | qubaʿat (T 283) | T 283 |  |
+| Emar | qu-bá-ḫu /qubbaʿu/ (Pentiuc 2001, 150) | Pentiuc 2001 150 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

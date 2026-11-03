@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | säddära (HALOT 744) | HALOT 744 |  |
 | Judaic Aramaic | sidrā (HALOT 744; DJPA 368b apud CAL) | HALOT 744; DJPA 368b; CAL |  |
 | Syrian Aramaic | sedrā (HALOT 744; Payne Smith 362) | HALOT 744; Payne Smith 362 |  |
-| Mandaic Aramaic | sadrā (HALOT 744; Drower/Macuch 310a apud CAL) | HALOT 744; Macuch 310a; CAL |  |
+| Mandaic Aramaic | sadrā (HALOT 744; MD 310) | HALOT 744; MD 310 |  |
 | Gurage | siddärä (LGz. 486) | LGz. 486 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

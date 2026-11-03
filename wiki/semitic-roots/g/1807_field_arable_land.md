@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-OLA80 §63.5 sets Libyco-Berber ižžar &lt; \*iggar 'field' and Agaw agār 'country' beside the Semitic forms, and doubts a loan from Sumerian a-gār 'water meadow' or from Indo-European \*agr-.
+OLA80 §63.5 sets Libyco-Berber ižžar &lt; \*iggar 'field' and Agaw agār 'country' beside the Semitic forms, and doubts a loan from Sumerian a-gār 'water meadow' or from Indo-European \*agr-. Rendsburg takes Mycenaean a-ko-ro, Greek ἀγρός, Latin ager and ugr for one IE–Semitic lexeme from the spread of agriculture (2026, 205).
 
 <!-- END kaphtor:record -->

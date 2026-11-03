@@ -54,5 +54,6 @@ Voiced pharyngeal fricative. Fills the highest-priority gap in the phonemic inve
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
 | [[wiki/linear-a/words/star/star306_TU\|\*306-TU]] | ʿAttu | CANDIDATE |
 | [[wiki/linear-a/words/star/star306_TU_JA\|\*306-TU-JA]] | ʿAttuya | SPECULATIVE |
+| [[wiki/linear-a/words/D/DI_star306\|DI-\*306]] | Diʿa | SPECULATIVE |
 
 <!-- END kaphtor:record -->

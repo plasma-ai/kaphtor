@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | pasāsu |  |  |
-| Mandaic Aramaic | pss (Drower/Macuch 375b apud CAL) | Macuch 375b; CAL |  |
+| Mandaic Aramaic | pss (MD 375) | MD 375 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

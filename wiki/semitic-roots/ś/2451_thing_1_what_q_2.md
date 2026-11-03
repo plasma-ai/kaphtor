@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/2451_thing_1_what_q_2
 title: "*ŝayʾ-: 'thing' 1, 'what?' 2"
-desc: "Proto-Semitic *ŝayʾ-, 'thing' 1, 'what?' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ŝayʾ-, 'thing' 1, 'what?' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2451"
@@ -35,7 +35,12 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ŝī, ŝiʔ 1; ŝi (SLOnline 7488) | SLOnline 7488 | gloss withheld |
 | Harsusi | ŝī, ŝǝy |  |  |
 | Jibbali | ŝé 1 |  |  |
+| Pre-Islamic North Arabian | Safaitic śʾ 1 (Al-Jallad 2026, 144) | Al-Jallad 2026 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Al-Jallad (2026, 144) compares Sabaic šyʾ 'an indeterminate object, thing' (Sabaweb, s.v. šyʾ).
 
 <!-- END kaphtor:record -->

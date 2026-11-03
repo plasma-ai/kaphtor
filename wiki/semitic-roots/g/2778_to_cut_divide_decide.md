@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2778_to_cut_divide_decide
 title: "*gazVr-: 'to cut, divide, decide'"
-desc: "Proto-Semitic *gazVr-, 'to cut, divide, decide': reflexes in 11 language(s)."
+desc: "Proto-Semitic *gazVr-, 'to cut, divide, decide': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2778"
@@ -33,13 +33,17 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | gzr (DULAT 311) | DULAT 311 | gloss withheld |
 | Hebrew | gāzar (HALOT 187) | HALOT 187 | gloss withheld |
 | Geez | gazara (HALOT 187) | HALOT 187 |  |
-| Tigre | gezrat (HALOT 187) | HALOT 187 |  |
+| Tigre | gezrat (HALOT 187); gänzära (LGz. 211) | HALOT 187; LGz. 211 | gloss withheld |
 | Jibbali | gɔ́zɔ́r (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015 ch. 2 §4.2 no. 16 | gloss withheld |
 | Mehri | gəzōr (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015 ch. 2 §4.2 no. 16 | gloss withheld |
 | Syrian Aramaic | gzar (Kogan 2015, ch. 2 §4.2 no. 16) | Kogan 2015 ch. 2 §4.2 no. 16 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic gzr (Al-Jallad–Jaworska 74) | Al-Jallad–Jaworska 74 | gloss withheld |
 | Biblical Aramaic | gəzērā (HALOT 1844 apud SEDonline 1261) | HALOT 1844; SEDonline 1261 | gloss withheld |
 | Epigraphic South Arabian | Sab gzr (Biella 71) (Sabaweb lemma 7391) | Biella 71; Sabaweb lemma 7391 | gloss withheld |
+| Mandaic Aramaic | gzr (LGz. 211) | LGz. 211 | gloss withheld |
+| Tigrinya | gäzärä (LGz. 212) | LGz. 212 | gloss withheld |
+| Amharic | gäzzärä (LGz. 212) | LGz. 212 |  |
+| Aramaic | gzr (DNWSI 220) | DNWSI 220 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

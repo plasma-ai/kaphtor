@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star47_KU_NA
 title: "*47-KU-NA"
 desc: "sōkina: prefect, administrator (heading of a wine issue); rivals mōgun- 'regalement, gift', Dagan. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun", "personnel", "title"]
 kind: "word"
 form: "*47-KU-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | prefect, administrator (heading of a wine issue); rivals mōgun- 'regalement, gift', Dagan |
 | Root | s-k-n |
 | Proto-Semitic | \*sākin- (#3842) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | administrative, hapax, noun, personnel, title |
 | Semantic field | personnel |
 
 ### Note

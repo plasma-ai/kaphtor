@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/T/TA_NU_NI_KI_NA
 title: "TA-NU-NI-KI-NA"
-desc: "tannî qînâ: chant a dirge! (proposed internal segmentation). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "ritual"]
+desc: "tannî qînâ: chant a dirge!. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "ritual", "verb"]
 kind: "word"
 form: "TA-NU-NI-KI-NA"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | tannî qînâ |
-| Meaning | chant a dirge! (proposed internal segmentation) |
+| Meaning | chant a dirge! |
 | Root | t-n-y + q-y-n |
 | Proto-Semitic | \*ṯny (#3547) + \*ḳyn (#3509) |
-| Language layer | NWS candidate |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | compound, hapax, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-PL Zf 1 hapax on a silver pin from a funerary context. Proposed internal segmentation TA-NU-NI / KI-NA = /tannî qînâ/, naturally ‘chant a dirge!’: /tannî/ is the expected 2fs Piʿel imperative of √t-n-y ‘recount, recite,’ while /qînâ/ is the standard Hebrew funeral song or dirge. The English ‘chant’ reflects HALOT's proposed repetition in antiphonal performance; the stricter lexical gloss is ‘recite/repeat.’ TA-NU-NI can preserve the doubled middle radical with a dead vowel in NU, while KI-NA can represent /qînâ/ without vowel length or final /h/. The principal cost is epigraphic: no divider occurs between NI and KI, so the two-word segmentation is proposed rather than written. See TI-NU-JA.
+PL Zf 1, a silver pin from a funerary context: … TA-NU-NI-KI-NA · NI-NU-NI …. tannî qînâ 'chant a dirge!': tannî, the 2fs Piʿel imperative of √t-n-y 'recount, recite' (Judg 5:11; HALOT 1759), and qînâ 'funeral song, dirge' (HALOT 1097). TA-NU-NI keeps the doubled middle radical with a dead vowel in NU; KI-NA writes qînâ without the vowel length or the final h. The same Piʿel is the women's yearly rite for Jephthah's daughter, lətannôt (Judg 11:40; HALOT 1759). The votive texts join words without a divider, as U-NA-KA-NA-SI wannā kanāsī and JA-PA-RA-JA-SE yapʾara yāṣē (SY Za 9). Weak point: one attestation. See TI-NU-JA.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ PL Zf 1 hapax on a silver pin from a funerary context. Proposed internal segment
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sʕl (u) 'to cough', suʕāl- 'cough' \[BK 1 1093\] | BK 1 1093 |  |
-| Akkadian | saʔālu (-u-) SB \[CAD s 1\], \[AHw 999\], suʔālu MB, SB \[CAD s 340\], \[AHw 1052\] | CAD s 1; AHw 999; CAD s 340; AHw 1052 | gloss withheld |
+| Akkadian | saʔālu (-u-) SB \[CAD s 1\], \[AHw 999\], suʔālu MB, SB \[CAD s 340\], \[AHw 1052\]; šūlu SB (SED II 346) | CAD s 1; AHw 999; CAD s 340; AHw 1052; SED II 346 | gloss withheld |
 | Tigre | säʕalä, säʕal \[LH 194\] | LH 194 | gloss withheld |
 | Geez | saʕala, saʕāl \[LGz 481\] | LGz 481 | gloss withheld |
 | Gurage | GOG SOD sal \[LGur 542\] | LGur 542 | gloss withheld |

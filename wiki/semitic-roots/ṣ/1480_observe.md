@@ -29,10 +29,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣubbû (CAD Ṣ 226) | CAD Ṣ 226 | gloss withheld |
+| Akkadian | ṣubbû (CAD Ṣ 226; AHw 1107) | CAD Ṣ 226; AHw 1107 | gloss withheld |
 | Aramaic | ṢPY (Aramaic Root Atlas; CAL s.v. ṣpy) | Aramaic Root Atlas; CAL s.v. ṣpy; Anderson–Moser 2024 root ṣpy | gloss withheld |
 | Hebrew | ṣāpâ (HALOT 1044) | HALOT 1044 | gloss withheld |
-| Punic | ṣpy (Krahmalkov 419) | Krahmalkov 419; Anderson–Moser 2024 root ṣpy | gloss withheld |
+| Punic | ṣpy (Krahmalkov 419); N.Pu. ṣpʾ (T 279) | Krahmalkov 419; T 279; Anderson–Moser 2024 root ṣpy | gloss withheld |
 | Judaic Aramaic | ṣpʾ (HALOT 1044) | HALOT 1044 | gloss withheld |
 | Ugaritic | ṣp (HALOT 1044) | HALOT 1044 | gloss withheld |
 | Phoenician | ṣp (Krahmalkov 418) | Krahmalkov 418 | gloss withheld |

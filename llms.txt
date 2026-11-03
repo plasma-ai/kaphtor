@@ -1,6 +1,6 @@
 # kaphtor
 
-> An open record of Linear A, and a toolkit for comparative Semitics. A reconciled record of the Linear A inscriptions, proposed readings for their words and signs with their evidence and confidence tiers, tools for testing those readings against the corpus, a database of Semitic roots, and query tools for the corpora of the ancient Near East. Code is Apache-2.0; original data and writing are CC BY 4.0; third-party material keeps its own terms.
+> An open record of Linear A, and a toolkit for comparative Semitics. A reconciled record of the Linear A inscriptions, proposed readings for their words and signs with their evidence and confidence tiers, tools for testing those readings against the corpus, a database of Semitic roots, and query tools for the corpora of the ancient Near East. Code is Apache-2.0; original data and writing are CC BY 4.0; third-party material keeps its own terms, among them CC BY-SA 4.0 (Wiktionary, the TLA, Trismegistos) and CC BY-NC-SA 4.0 (SigLA).
 
 The readings follow a Semitic decipherment of Linear A. Each carries a tier (CONFIRMED, PROBABLE, CANDIDATE, SPECULATIVE) that describes support under the project's tests, not scholarly consensus. The datasets and tools work independently of the decipherment.
 
@@ -18,6 +18,7 @@ The readings follow a Semitic decipherment of Linear A. Each carries a tier (CON
 - [Signs](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/signs/_index.md): each sign with its value and evidence
 - [Counts](https://github.com/plasma-ai/kaphtor/blob/main/wiki/linear-a/counts.md): headline counts computed from the data
 - [Semitic roots](https://github.com/plasma-ai/kaphtor/blob/main/wiki/semitic-roots/_index.md): one page per root, with reflexes and sources
+- [Pre-Greek words](https://github.com/plasma-ai/kaphtor/blob/main/wiki/pre-greek/_index.md): one page per Greek word classed as Pre-Greek or as an early Semitic loan, with its sources, features and Semitic comparisons
 
 ## Data and tools
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/K0769_mistreat
 title: "*ḫVbVt-: 'mistreat'"
-desc: "Proto-Semitic *ḫVbVt-, 'mistreat': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫVbVt-, 'mistreat': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0769"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ḫabātu A (CAD Ḫ, 9) | CAD Ḫ, 9 | gloss withheld |
 | Ugaritic | ḫbt (CUC; DULAT 380) | CUC; DULAT 380 | gloss withheld |
+| Eblaitic | /ḫ-b-t/: ne-ḫa-ba-dam (Sanmartín GlOS 1, 267) | Sanmartín GlOS 1, 267 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

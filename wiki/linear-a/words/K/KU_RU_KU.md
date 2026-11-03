@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_RU_KU
 title: "KU-RU-KU"
 desc: "kurkū: saffron, crocus (PN from plant term). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "KU-RU-KU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | saffron, crocus (PN from plant term) |
 | Root | k-r-k |
 | Proto-Semitic | \*kurkum- (#2657) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Hapax; personnel list, Scribe 9; Akk kurkānū CAD K; Heb כַּרְכֹּם karkōm Song of Songs 4:14; Greek κρόκος is Semitic loanword; CROC ideogram on 59 Linear B tablets at Knossos; Xeste 3 saffron-gathering frescoes.
+HT 87: KU-RU-KU 1, fifth of six men at one unit each under the heading \*21F-TU-NE · MA-KA-RI-TE ·, Scribe 9: a personal name from the plant word. kurkū 'saffron, crocus': Akk. kurkānû, an aromatic plant (CAD K 560), Heb. כַּרְכֹּם karkōm 'saffron' (Song 4:14; HALOT 497); Greek κρόκος is a Semitic loan. One attestation. See \*21F-TU-NE.
 
 ### Cognates
 
@@ -70,8 +70,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

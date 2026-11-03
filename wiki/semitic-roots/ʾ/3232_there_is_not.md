@@ -32,7 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | ʾayin, ʾēn (HALOT 41) | HALOT 41 | gloss withheld |
 | Ugaritic | in, inn (DULAT 74) | DULAT 74 | gloss withheld |
 | Moabite | ʾn (HALOT 41) | HALOT 41 |  |
-| Punic | enny (HALOT 41); ynny, ennu (DNWSI 46 apud DULAT 74) | HALOT 41; DNWSI 46; DULAT 74 |  |
+| Punic | enny (HALOT 41); ynny, ennu (DNWSI 46 apud DULAT 74); bʾn (T 25) | HALOT 41; DNWSI 46; DULAT 74; T 25 | gloss withheld |
 | Aramaic | Sam. ʾīn (LGz. 27) | LGz. 27 |  |
 | Akkadian | yaʾnu, yānu (HALOT 41) | HALOT 41 | gloss withheld |
 | Arabic | ʾin (negative) (LGz. 27) | LGz. 27 |  |
@@ -42,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 41 derives it from a rhetorical 'where?' (Akk. yānu &lt; ayyānum; Arb. ʾaina 'where?'); cf. K0567 'which?'. Not 2523 \*ʾay ~ \*ʾī 'not'.
+HALOT 41 derives it from a rhetorical 'where?' (Akk. yānu &lt; ayyānum; Arb. ʾaina 'where?').
 
 <!-- END kaphtor:record -->

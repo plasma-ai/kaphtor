@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/409_bind_1_knot_2
 title: "*ʕVḳid-: 'bind' 1, 'knot' 2"
-desc: "Proto-Semitic *ʕVḳid-, 'bind' 1, 'knot' 2: reflexes in 12 language(s)."
+desc: "Proto-Semitic *ʕVḳid-, 'bind' 1, 'knot' 2: reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "409"
@@ -42,6 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | agäda 1 \[LHar 21\] | LHar 21 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿqd (Biella 380); a misreading of ʿsm (Sabaweb lemma 3800) | Biella 380; Sabaweb lemma 3800 | gloss withheld |
 | Soqotri | ˁóḳid (SLOnline 3233) | SLOnline 3233 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿqd (Al-Jallad 2026, 17) | Al-Jallad 2026 17 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

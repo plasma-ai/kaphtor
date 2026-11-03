@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2530_say_command
 title: "*ʾmr: 'say, command'"
-desc: "Proto-Semitic *ʾmr, 'say, command': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾmr, 'say, command': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2530"
@@ -31,18 +31,19 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʔmr 'to order' (Lane 95) | Lane 95 |  |
-| Mandaic Aramaic | ʔmr (Drower/Macuch 23a apud CAL) | Macuch 23a; CAL |  |
+| Mandaic Aramaic | ʔmr (MD 23) | MD 23 |  |
 | Ugaritic | ʾmr (?) (DULAT 69) | DULAT 69 | gloss withheld |
 | Biblical Aramaic | ʔmr (CAL s.v. ʾmr); mēʾmar (HALOT 540) | CAL s.v. ʾmr; HALOT 540 |  |
-| Phoenician | ʔmr |  |  |
+| Phoenician | ʔmr (T 24) | T 24 |  |
 | Modern Aramaic | Urm ʔmr |  |  |
 | Jibbali | ʔõr &lt;\*ʔmr &lt;Arb? ʔɛmr JJ 3 | JJ 3 | gloss withheld |
 | Hebrew | ʔmr (Kogan 2015, ch. 4 §3.1.2 no. 71) | Kogan 2015 ch. 4 §3.1.2 no. 71 |  |
 | Syrian Aramaic | ʔmr (Payne Smith 20) | Payne Smith 20 |  |
-| Aramaic | Pal ʔmr (DJPA 63a apud CAL); ʾMR (Aramaic Root Atlas; DNWSI 73 apud CAL) | DJPA 63a; CAL; Aramaic Root Atlas; DNWSI 73; Anderson–Moser 2024 root ʾmr | gloss withheld |
+| Aramaic | Pal ʔmr (DJPA 63a apud CAL); ʾMR (Aramaic Root Atlas; DNWSI 73); ʔmrh (DNWSI 78) | DJPA 63a; CAL; Aramaic Root Atlas; DNWSI 73; DNWSI 78; Anderson–Moser 2024 root ʾmr | gloss withheld |
 | Amorite | ʾmr: jaʾmur, ʾamar, ʾamara, ʾāmirum (Gelb AS 21, 14); ʾamar, yaʾmur, ʾamir, ʾatamru (Buck 2019, 324) | Gelb AS 21 14; Buck 2019, 324 | gloss withheld |
 | Judaic Aramaic | mēmᵉrā (HALOT 540) | HALOT 540 | gloss withheld |
-| Punic | ʾmr (Krahmalkov 61) | Krahmalkov 61; Anderson–Moser 2024 root ʾmr | gloss withheld |
+| Punic | ʾmr (Krahmalkov 61); umer; ʾmr (Krahmalkov 61) | Krahmalkov 61; Anderson–Moser 2024 root ʾmr | gloss withheld |
+| Pre-Islamic North Arabian | Taymanitic ʾmr (Al-Jallad 2026, 7) | Al-Jallad 2026 7 | gloss withheld |
 | Epigraphic South Arabian | Sab ʾmr (Sabaweb lemma 8632); Min ʾmr (LM 5 apud SEDonline 130); Qat ʾmr (LIQ 13 apud SEDonline 130) | Sabaweb lemma 8632; LM 5; SEDonline 130; LIQ 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/382_arrow_1_dart_an_arrow_2
 title: "*nabl- 1 ~ *nVbul- 2: 'arrow' 1, 'dart (an arrow)' 2"
-desc: "Proto-Semitic *nabl- 1 ~ *nVbul- 2, 'arrow' 1, 'dart (an arrow)' 2: reflexes in 1 language(s)."
+desc: "Proto-Semitic *nabl- 1 ~ *nVbul- 2, 'arrow' 1, 'dart (an arrow)' 2: reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "382"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic mnbl 2 (Al-Jallad 2026, 98) | Al-Jallad 2026 98 | gloss withheld |
 | Arabic | nabl- 1, nbl (u) 2 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

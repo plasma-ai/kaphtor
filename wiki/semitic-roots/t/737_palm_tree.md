@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/737_palm_tree
 title: "*tam(V)r-: 'palm tree'"
-desc: "Proto-Semitic *tam(V)r-, 'palm tree': reflexes in 12 language(s)."
+desc: "Proto-Semitic *tam(V)r-, 'palm tree': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "737"
@@ -42,6 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | təmrɛ́t (Kogan 2011, 204) | Kogan 2011 204 | gloss withheld |
 | Ugaritic | \[ta\]-ma-ru (HALOT 1756) | HALOT 1756 |  |
 | Amorite | tamar: qí-iš-ti-ᵈta-ma-ru (Sanmartín GlOS 2, 298) | Sanmartín GlOS 2, 298 | gloss withheld |
+| Punic | tmr (Krahmalkov 494) | Krahmalkov 494 | gloss withheld |
+| Aramaic | tmrn; tmry (DNWSI 1222) | DNWSI 1222 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

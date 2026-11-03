@@ -46,6 +46,7 @@ if __package__ in (None, ""):
     __package__ = "tools.linear_a.validation"
 
 from ...core import root_match as rm
+from ...core.competitors import COMPETITORS
 from ...core.competitors import load_all as load_competitors
 from ...core.root_index import DEFAULT_INDEX, IndexStale, RootIndex, record_keys, sha256_file, shadow_key
 from ...core.semitic_root_schema import roots_records
@@ -82,7 +83,7 @@ def _hashes(index_path: Path) -> dict[str, str | None]:
     out = input_hashes()
     core = REPO / "tools" / "core"
     for p in (core / "root_match.py", core / "root_index.py", GOLD_V3_PATH,
-              core / "competitors.py", DATA_DIR / "hurrian_roots.json"):
+              core / "competitors.py", core / "phonetics.py", *(DATA_DIR / s.file for s in COMPETITORS)):
         out[_rel(p)] = sha256_file(p) if p.exists() else None
     try:
         name = _rel(index_path)

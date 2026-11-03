@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_DU_star307_plus_star307
 title: "A-DU *307+*307"
 desc: "Addu dubur-dubur: Addu's sanctuary (Storm God + doubled sanctuary sign). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "divine_epithet"]
+tags: ["linear-a", "word", "tier-3", "administrative", "compound", "hapax", "ligature", "ritual"]
 kind: "word"
 form: "A-DU *307+*307"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Addu's sanctuary (Storm God + doubled sanctuary sign) |
 | Root | d-b-r |
 | Proto-Semitic | \*hadad- (#3186) + \*dVb(V)r- (#151) |
-| Language layer | NWS |
-| Category | divine_epithet |
-| Semantic field | divine |
+| Language layer | Semitic |
+| Tags | administrative, compound, hapax, ligature, ritual |
+| Semantic field | ritual |
 
 ### Note
 
-HT85a.1: A-DU · \*307+\*307 · VIR+\[?\] ·, heading a personnel register with 66 workers. The middle sign is \*307 written twice, joined by a top bar (A 638; GORILA I 131); Montecchi 2008, 316 n. 30 also reads A 638 as doubled \*307. KA-RU · \*307+\*307 · VIR+KA heads HT97a. \|\| Word-field notation: 'A-DU \*307+\*307' records a two-element phrase (theonym A-DU + the doubled \*307) as attested on HT85a; not split into separate entries to avoid breaking the attested-phrase citation. See DU-PU₂-RE.
+HT 85a .1 A-DU · \*307+\*307 · VIR+\[?\] ·, heading a personnel register of 66 workers. The middle sign is \*307 written twice, joined by a top bar (A 638; GORILA I 131), as Montecchi also reads A 638 (2008, 316 n. 30). KA-RU · \*307+\*307 · VIR+KA heads HT 97a. The entry keeps the attested phrase whole: the theonym A-DU with the doubled \*307. See DU-PU₂-RE.
 
 ### Cognates
 

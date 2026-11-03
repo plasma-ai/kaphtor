@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šalāgu 'snow'; šalgu 'snow' | Anderson–Moser 2024 root ṯlg |  |
+| Akkadian | šalāgu (AHw 1147); šalgu | AHw 1147; Anderson–Moser 2024 root ṯlg | gloss withheld |
 | Arabic | ṯalǧ 'snow' (Lane 350) | Lane 350 |  |
 | Aramaic | tlg (Qumran 253 apud CAL) | CAL; Anderson–Moser 2024 root ṯlg | gloss withheld |
 | Hebrew | šalag 'snow'; šeleg 'snow' | Anderson–Moser 2024 root ṯlg |  |

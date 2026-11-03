@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2981_net_dragnet_fishing
 title: "*mikmart-: 'net, dragnet (fishing)'"
-desc: "Proto-Semitic *mikmart-, 'net, dragnet (fishing)': reflexes in 1 language(s)."
+desc: "Proto-Semitic *mikmart-, 'net, dragnet (fishing)': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2981"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | mikmeret, mikmār (HALOT 580) | HALOT 580 | gloss withheld |
+| Canaanite | EG SYLL mak=ma=ru₂=ta /\*makmarōta/ (Hoch 168–169) | Hoch 168–169 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Fig (personal name); a recipient in allocation lists |
 | Root | t-ʾ-n |
 | Proto-Semitic | \*tiʾin- (#2324) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-A recipient on both tablets: HT8a TE-\*301 2 in the OLE+KI list between PA 3½ and QA-\*310-I ¾ (QA-\*310-I receives again on HT8b); HT98a TE-\*301 ¾ between DI-RE-DI-NA and RO-KE. TE-\*301 writes the shape of Hebrew təʾēnāh with the ʾ lost, as in Mishnaic tīnā. A fruit-tree name as a personal name, as Hebrew Tamar 'date palm' (HALOT 1756) and Ugaritic tmr (DULAT 859). No fig-name is attested elsewhere. NI (AB30) remains the fig ideogram. See TI.
+A recipient on both tablets: HT 8a TE-\*301 2 in the OLE+KI list between PA 3½ and QA-\*310-I ¾ (QA-\*310-I receives again on HT 8b); HT 98a TE-\*301 ¾ between DI-RE-DI-NA and RO-KE. Tēnā 'Fig': TE-\*301 writes the shape of Hebrew təʾēnāh 'fig' with the ʾ lost, as in Judaic Aramaic tēnəṯā (HALOT 1675). A fruit-tree name as a personal name, as Hebrew Tamar 'date palm' (HALOT 1756) and Ugaritic tmr (DULAT 859). Weak point: \*301 = na is a proposed value, and no other fig-name is attested. Two attestations. See TI.
 
 ### Cognates
 
@@ -56,7 +56,7 @@ A recipient on both tablets: HT8a TE-\*301 2 in the OLE+KI list between PA 3½ a
 
 ### Source
 
-di Mino
+di Mino; HALOT; DULAT
 
 ## Attestations
 

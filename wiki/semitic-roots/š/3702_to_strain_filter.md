@@ -29,7 +29,7 @@ updated: 2026-10-27T22:12:55Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šaḫālu (CAD Š/1 77); šaḫlu (CAD Š/1 98) | CAD Š/1 77; CAD Š/1 98 | gloss withheld |
+| Akkadian | šaḫālu (CAD Š/1 77; AHw 1128); šaḫlu (CAD Š/1 98) | CAD Š/1 77; AHw 1128; CAD Š/1 98 | gloss withheld |
 | Syrian Aramaic | šḥal 'to drip, trickle; to strain, filter' (Payne Smith 570) | Payne Smith 570 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

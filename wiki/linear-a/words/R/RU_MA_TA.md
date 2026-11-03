@@ -10,7 +10,7 @@ tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
 reading: "rūmatā"
-attestations: ["HT29", "HT99b"]
+attestations: ["HT29", "HT99b", "ZA20"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the Height (toponym of the Ramah/Ramoth type) |
 | Root | r-w-m |
 | Proto-Semitic | \*rVyVm- (#1135) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Bare RU-MA-TA at HT29 (qty 2) and HT99b (qty 1, after SI+SE-NI); RU-MA-TA-SE on ZA20 (qty 3) beside DU-RE-ZA-SE: bare at home, -SE abroad. Every attestation carries a quantity: a recipient entry, not a header. √r-w-m 'to be high': \*rūmat-, feminine noun of place. Hebrew toponyms רוּמָה Rûmâ (2 Kgs 23:36, the u-vowel form), אֲרוּמָה ʾĂrûmâ (Judg 9:41), רָמַת Rāmat (Josh 13:26), הָרָמָתָה hā-Rāmātâ (1 Sam 1:19), רָאמֹת Rāʾmōt (Josh 20:8); Ugaritic rm 'to go up'. Final -A is the written vowel. Aegean comparandum: LB o-ru-ma-to = \*Orumanthos (PY Cn 3.6; ethnic o-ru-ma-si-ja-jo, PY An 519.12), cf. Ἐρύμανθος, a mountain; Linear A spelling hides a nasal before a stop, so RU-MA-TA may write \*rumanth-. The three-consonant skeleton alone matches names no better than chance. See RU-MA.
+Bare RU-MA-TA at HT 29 (2) and HT 99b (1, in the SI+SE FIC list); RU-MA-TA-SE on ZA 20 (3) beside DU-RE-ZA-SE: bare at home, -SE abroad. Every attestation carries a quantity: a recipient entry. rūmatā, √r-w-m 'to be high', \*rūmat-, a feminine noun of place: Hebrew toponyms רוּמָה Rûmâ (2 Kgs 23:36, the u-vowel form), אֲרוּמָה ʾĂrûmâ (Judg 9:41), רָמַת Rāmat (Josh 13:26), הָרָמָתָה hā-Rāmātâ (1 Sam 1:19), רָאמֹת Rāʾmōt (Josh 20:8); Ug. rm 'to go up'. Final -A is the written vowel. Rival: \*rumanth-, the Aegean name of LB o-ru-ma-to \*Orumanthos (PY Cn 3.6; ethnic o-ru-ma-si-ja-jo, PY An 519.12; DMic II 50–51), cf. Ἐρύμανθος, a mountain, with the nasal before a stop that Linear A leaves unwritten. See RU-MA.
 
 ### Cognates
 
@@ -62,6 +62,7 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT29\|HT29]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99b\|HT99b]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA20\|ZA20]] | Zakros | Tablet | incomplete; form not in transliteration |
 
 ## Onomasticon
 

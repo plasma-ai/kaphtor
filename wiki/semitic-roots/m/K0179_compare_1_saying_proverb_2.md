@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0179_compare_1_saying_proverb_2
 title: "*mVṯVl-: 'compare' 1, 'saying, proverb' 2"
-desc: "Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 15 language(s)."
+desc: "Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0179"
@@ -44,6 +44,8 @@ updated: 2026-10-26T15:47:57Z
 | Argobba | mässäla (LGz. 366) | LGz. 366 |  |
 | Harari | mäsäla (LGz. 366) | LGz. 366 |  |
 | Gurage | mäsälä (LGz. 366) | LGz. 366 |  |
+| Phoenician | mšl 1 (Krahmalkov 317) | Krahmalkov 317 | gloss withheld |
+| Ugaritic | tmṯl 1 (DULAT 859–860) | DULAT 859–860 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

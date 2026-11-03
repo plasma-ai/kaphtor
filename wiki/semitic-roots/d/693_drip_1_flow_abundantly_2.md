@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/693_drip_1_flow_abundantly_2
 title: "*dir-/*dur-: 'drip' 1, 'flow abundantly' 2"
-desc: "Proto-Semitic *dir-/*dur-, 'drip' 1, 'flow abundantly' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *dir-/*dur-, 'drip' 1, 'flow abundantly' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "693"
@@ -32,6 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | drr 2 \[BK 1 681 apud SED I 55\] | BK 1 681; SED I 55 |  |
 | Hebrew | drr 1 |  |  |
+| Ugaritic | /d-r(-r)/ G 2 (DULAT 279) | DULAT 279 | gloss withheld |
+| Epigraphic South Arabian | Sab mdrrm 2; drrhmw 2 (Biella 86) | Biella 86 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

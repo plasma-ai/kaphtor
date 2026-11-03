@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | šyḫ 'to be old, to become old', šayḫ- 'vieillard; ancien, sheikh' BK 1 1296 | BK 1 1296 |  |
 | Mehri | ŝōḫ (m. only) JM 391 | JM 391 | gloss withheld |
-| Akkadian | šâḫu (šiāḫum) SB CAD š1 106, šīḫu ibid. š2 418 | CAD š1 106 | gloss withheld |
+| Akkadian | šâḫu (šiāḫum) SB CAD š1 106; AHw 1224, šīḫu ibid. š2 418 | CAD š1 106; AHw 1224 | gloss withheld |
 | Harsusi | ŝōḫ (m. only) |  | gloss withheld |
 | Hebrew | \*śīaḥ (HALOT 1319) | HALOT 1319 | gloss withheld |
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sūsān- 2 |  |  |
-| Akkadian | šišnu 1 (CAD Š/3 126) | CAD Š/3 126 | gloss withheld |
+| Akkadian | šišnu 1 (CAD Š/3 126; AHw 1250) | CAD Š/3 126; AHw 1250 | gloss withheld |
 | Hebrew | šōšān 2 |  |  |
 | Judaic Aramaic | šōšannā, šōšantā (HALOT 1454) | HALOT 1454 | gloss withheld |
 | Syrian Aramaic | šaušantā (HALOT 1454); šīšnā 1 (Payne Smith 575) | HALOT 1454; Payne Smith 575 | gloss withheld |

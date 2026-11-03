@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | môsī (LGz. 360) | LGz. 360 | gloss withheld |
 | Syrian Aramaic | maš (mšš) (LGz. 360) | LGz. 360 | gloss withheld |
 | Akkadian | mašāšu (LGz. 360) | LGz. 360 | gloss withheld |
-| Mandaic Aramaic | mšš (LGz. 360; Drower/Macuch 280b apud CAL) | LGz. 360; Macuch 280b; CAL |  |
+| Mandaic Aramaic | mšš (LGz. 360; MD 280) | LGz. 360; MD 280 |  |
 | Tigrinya | masäsä, masäwä (LGz. 360) | LGz. 360 | gloss withheld |
 | Tigre | mässa (mss), masäsa (LGz. 360) | LGz. 360 | gloss withheld |
 | Harari | māša (LGz. 360) | LGz. 360 | gloss withheld |

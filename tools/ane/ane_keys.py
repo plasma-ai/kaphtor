@@ -34,8 +34,8 @@ from tools.paths import SHARE_ALIKE
 
 # Signs a scholar may type for aleph and ayin. The ASCII apostrophe and the curly quote are
 # written for both, so they stay ambiguous and expand to every sign the view stores for either.
-ALEPHS = "ʾʔʼ"
-AYINS = "ʿʕ‘`ᶜ"
+ALEPHS = "ʾʔʼˀ"
+AYINS = "ʿʕ‘`ᶜˁˤ"
 AMBIGUOUS = "'’"
 SIBILANT = {"1": "s1", "2": "s2", "3": "s3", "¹": "s1", "²": "s2", "³": "s3", "₁": "s1", "₂": "s2", "₃": "s3"}
 UNIT = re.compile(r"s[123¹²³₁₂₃]|.[̀-֑ͯ-ׇً-ٰٟ]*", re.DOTALL)
@@ -282,3 +282,63 @@ def declared(view: str, ch: str) -> bool:
     row = VIEW_NOTATION[view]
     lo_hi = row.get("script")
     return ch in row["alphabet"] or bool(lo_hi and lo_hi[0] <= ch <= lo_hi[1])
+
+
+# Greek (the Pre-Greek lexicon's keys): one fold for the stored keys and the query. Every mark goes (accents,
+# breathings, diaeresis, iota subscript, macron, breve, and their spacing forms); final and lunate sigma are σ, ϐ is β,
+# ϑ is θ; the signs of an affix, a reconstruction, an optional letter or a Hesychian gloss (- * ( ) · ') go. Vowel
+# quality and gemination stay: η is not ε, ω is not ο, σσ is not σ.
+GREEK_LETTERS = str.maketrans({"ς": "σ", "ϲ": "σ", "ϐ": "β", "ϑ": "θ"})
+GREEK_SIGNS = set("*-()··'’ʼ")
+GREEK_ALPHABET = "αβγδεζηθικλμνξοπρστυφχψωϝϙϛϡ"
+
+
+def greek_fold(s: str) -> str:
+    s = unicodedata.normalize("NFD", s).lower()
+    s = "".join(c for c in s if not unicodedata.combining(c) and unicodedata.category(c) != "Sk"
+                and c not in GREEK_SIGNS)
+    return unicodedata.normalize("NFC", s.translate(GREEK_LETTERS))
+
+
+# A Greek form's consonants in Latin letters, for a root query (k-n-s): aspirates as their plain stops, ξ k-s, ψ p-s,
+# ζ z, ϝ w, γ before a velar n (γγ ng); vowels, the rough breathing and the nominative's final ς dropped; a doubled
+# consonant once.
+GREEK_CONSONANTS = {"β": "b", "γ": "g", "δ": "d", "ζ": "z", "θ": "t", "κ": "k", "λ": "l", "μ": "m", "ν": "n",
+                    "ξ": "ks", "π": "p", "ρ": "r", "σ": "s", "τ": "t", "φ": "p", "χ": "k", "ψ": "ps", "ϝ": "w"}
+
+
+def greek_skeleton(s: str, final_s: bool = False) -> str | None:
+    """`s` as its consonant skeleton (κνέφας → k-n-p), or None when it has no consonant; with `final_s` a final ς is
+    kept (a radical typed alone)."""
+    letters = unicodedata.normalize("NFD", s).lower()
+    letters = "".join(c for c in letters if not unicodedata.combining(c) and c not in GREEK_SIGNS)
+    if not final_s:
+        letters = re.sub(r"ς$", "", letters.strip())
+    out: list[str] = []
+    prev = None
+    for i, c in enumerate(letters.translate(GREEK_LETTERS)):
+        if c == "γ" and letters[i + 1:i + 2] in ("γ", "κ", "χ", "ξ"):
+            latin = "n"
+        else:
+            latin = GREEK_CONSONANTS.get(c, "")
+        if not latin:
+            prev = None                  # a vowel between: σεισμός keeps both s
+            continue
+        for x in latin:
+            if x != prev:
+                out.append(x)
+            prev = x
+    return "-".join(out) or None
+
+
+def pregreek_index(entries: list[dict]) -> dict[str, list[str]]:
+    """The lookup `data/pre-greek/pregreek_lexicon.index.json` holds: each match key of the Pre-Greek lexicon's
+    entries (the folded key, the transliteration key, each variant folded and the lemma's consonant skeleton) to the
+    ids it matches, keys and ids sorted."""
+    index: dict[str, set[str]] = {}
+    for e in entries:
+        keys = [e["key"], e["translit_key"], *(greek_fold(v) for v in e["variants"]), greek_skeleton(e["lemma"])]
+        for k in keys:
+            if k:
+                index.setdefault(k, set()).add(e["id"])
+    return {k: sorted(v) for k, v in sorted(index.items())}

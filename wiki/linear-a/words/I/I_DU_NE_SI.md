@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_DU_NE_SI
 title: "I-DU-NE-SI"
 desc: "Yidu-naḥši: Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "I-DU-NE-SI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Strength is alive, the arm thrives (personal name); rival Yidu-nešše, Hurrian 'prosperity' |
 | Root | y-d + n-ḥ-š |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 13 .5–6 I-DU-NE-SI 5, the last recipient in the VIN · TE list headed KA-U-DE-TA, after TE-KI 27½, KU-ZU-NI 18, DA-SI-ṬA 19, before KU-RO 130½; lines .4–7 over an erasure (GORILA I 27). I-DU = yidu 'arm, strength', as in I-DU-TI; NE-SI = naḥši, ḥ unwritten: the Eblaite name i-du na-sa yidu-naḥša 'strength is alive' word for word. Cf. Amorite E-DU-NA-SA (Gelb no. 1599), unanalysed. Rivals: Hurrian nešše 'prosperity', vowels exact, beside Hurrian TE-KI; Naśiʾ, the god of DA-NA-SI, 'Naśiʾ is strength'. See JA-DI and I-DA.
+HT 13 .5–6 I-DU-NE-SI 5, the last recipient in the VIN · TE list headed KA-U-DE-TA, after TE-KI 27½, KU-ZU-NI 18, DA-SI-ṬA 19, before KU-RO 130½; lines .4–7 over an erasure (GORILA I 27). I-DU = yidu 'arm, strength', as in I-DU-TI; NE-SI = naḥši, ḥ unwritten: the Eblaite name i-du na-sa yidu-naḥša 'strength is alive' word for word (Pagan 1998, row 2469). Cf. Amorite E-DU-NA-SA (Gelb no. 1599), unanalysed. Rivals: Hurrian nešše 'prosperity', the vowels match, beside Hurrian TE-KI; Naśiʾ, the god of DA-NA-SI, 'Naśiʾ is strength'. See JA-DI and I-DA.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 13 .5–6 I-DU-NE-SI 5, the last recipient in the VIN · TE list headed KA-U-
 
 ### Source
 
-di Mino; Pagan 1998; CAD
+di Mino; Pagan 1998; Gelb 1980
 
 ## Attestations
 
@@ -74,7 +74,7 @@ di Mino; Pagan 1998; CAD
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |

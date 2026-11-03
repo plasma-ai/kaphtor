@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/2694_olive_olive_tree
 title: "*zayt-: 'olive, olive tree'"
-desc: "Proto-Semitic *zayt-, 'olive, olive tree': reflexes in 10 language(s)."
+desc: "Proto-Semitic *zayt-, 'olive, olive tree': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2694"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | zeyt (LGz. 647) | LGz. 647 | gloss withheld |
 | Mandaic Aramaic | zaita (LGz. 647) | LGz. 647 |  |
 | Aramaic | zyt (T 93) | T 93 |  |
+| Canaanite | EG SYLL ḏi₃=tu, ḏ=t /\*zêtu/ (Hoch 395) | Hoch 395 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

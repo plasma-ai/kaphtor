@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | brr |  |  |
+| Ugaritic | brr; /burru/ or (UVST 115) | UVST 115 | gloss withheld |
 | Geez | brr |  |  |
 | Hebrew | brr; bārar (HALOT 162); bar (HALOT 153) | HALOT 162; HALOT 153 | gloss withheld |
 | Aramaic | (Palest) bǝrar |  |  |

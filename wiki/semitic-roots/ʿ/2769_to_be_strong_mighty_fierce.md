@@ -33,13 +33,13 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ezēzu (CAD E 428) | CAD E 428 | gloss withheld |
 | Ugaritic | ʕz (DULAT 193) | DULAT 193 | gloss withheld |
 | Hebrew | ʕāzaz (HALOT 808) | HALOT 808 | gloss withheld |
-| Aramaic | ʿZZ (Aramaic Root Atlas; DNWSI 835 apud CAL) | Aramaic Root Atlas; DNWSI 835; CAL; Anderson–Moser 2024 root ʿzz | gloss withheld |
+| Aramaic | ʿZZ (Aramaic Root Atlas; DNWSI 835) | Aramaic Root Atlas; DNWSI 835; Anderson–Moser 2024 root ʿzz | gloss withheld |
 | Geez | ʿazzaza (Kogan 2015, ch. 6 §9.1 no. 3) | Kogan 2015 ch. 6 §9.1 no. 3; Anderson–Moser 2024 root ʿzz | gloss withheld |
-| Punic | ʿz 'strong' | Anderson–Moser 2024 root ʿzz |  |
-| Phoenician | ʿz (HALOT 805) | HALOT 805 |  |
+| Punic | ʿz; ʿzz (T 241) | T 241; Anderson–Moser 2024 root ʿzz | gloss withheld |
+| Phoenician | ʿz (HALOT 805); ʿzt (T 240) | HALOT 805; T 240 | gloss withheld |
 | Judaic Aramaic | ʿazzīz (HALOT 808) | HALOT 808 |  |
 | Soqotri | ʿzz (LGz. 81) | LGz. 81 | gloss withheld |
-| Mandaic Aramaic | azz (ʿzz) (LGz. 81; Drower/Macuch 12a apud CAL) | LGz. 81; Macuch 12a; CAL | gloss withheld |
+| Mandaic Aramaic | azz (ʿzz) (LGz. 81; MD 12) | LGz. 81; MD 12 | gloss withheld |
 | Tigre | ʿazza (LGz. 81) | LGz. 81 |  |
 | Tigrinya | ʿazäzä (LGz. 81) | LGz. 81 |  |
 | Amharic | azzäzä (LGz. 81) | LGz. 81 | gloss withheld |

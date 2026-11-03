@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT 99b .1 SI+SE-NI 6, the ligature SI+SE with NI after it, the first of four entries before DA-SI-\*118 2, ZU-DU 1 and RU-MA-TA 1. No reading.
+HT 99b .1 SI+SE-NI 6, the ligature SI+SE with NI after it, the first of four entries before DA-SI-\*118 2, ZU-DU 1 and RU-MA-TA 1. SI+SE stands as an entry of its own: HT 42+59 \]-TA · SI+SE · TE ·, HT 116a SI+SE GRA 16. NI is the fig logogram, so the entry is SI+SE, figs 6. Not a word.
 
 <!-- END kaphtor:record -->

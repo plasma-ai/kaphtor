@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/539_slaughter_1_sacrifice_2_skin_v_3
 title: "*ṭVbVḫ-: 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3"
-desc: "Proto-Semitic *ṭVbVḫ-, 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3: reflexes in 18 language(s)."
+desc: "Proto-Semitic *ṭVbVḫ-, 'slaughter' 1, 'sacrifice' 2, 'skin' (v.) 3: reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "539"
@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭabāḫu 1 |  |  |
+| Akkadian | ṭabāḫu 1 (AHw 1375) | AHw 1375 |  |
 | Tigre | ṭäbḥe 3 |  |  |
 | Ugaritic | ṭbḫ 2 |  |  |
 | Geez | ṭabḥa 1, 2, 3 |  |  |
@@ -42,12 +42,14 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Palm ṭbḥ 2 |  |  |
 | Tigrinya | ṭäbḥa 3 |  |  |
 | Arabic | ṭabaḫa 'cook' (Lane 1821) | Lane 1821 |  |
-| Punic | ṭbḥ; hṭbḥ (Krahmalkov 201) | Krahmalkov 201; Anderson–Moser 2024 root ṭbḫ | gloss withheld |
+| Punic | ṭbḥ; hṭbḥ (Krahmalkov 201); mṭbḥ (T 173) | Krahmalkov 201; T 173; Anderson–Moser 2024 root ṭbḫ | gloss withheld |
 | Epigraphic South Arabian | ṭbḫ (HALOT 368; Sabaweb lemma 5310); Sab ṭbḫm (Biella 215) | HALOT 368; Sabaweb lemma 5310; Biella 215 | gloss withheld |
 | Harsusi | ṭebōḫ (LGz. 586) | LGz. 586 | gloss withheld |
 | Judaic Aramaic | ṭabbāḥaʾ (T 119) | T 119 |  |
 | Mandaic Aramaic | ṭabahaʾ (T 119) | T 119 |  |
 | Eblaitic | a-da-ba-aḫ, a-a-da-ba-aḫ /ṭ-b-ḫ/ 1; du-bù-ḫi /ṭubiḫ, ṭubuḫ/ 1, 2 (Sanmartín GlOS 2, 306–307) | Sanmartín GlOS 2, 306–307 | gloss withheld |
+| Amorite | ṭābiḫ(at)um 1 (Gelb AS 21, 35) | Gelb AS 21 35 | gloss withheld |
+| Biblical Aramaic | \*ṭabbāḥ 1 (HALOT 368) | HALOT 368 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

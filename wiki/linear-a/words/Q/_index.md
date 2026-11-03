@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q
 desc: "Words whose first sign begins with Q, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:13:41Z
+updated: 2026-11-03T12:43:04Z
 ---
 
 # wiki/linear-a/words/Q
@@ -17,9 +17,9 @@ updated: 2026-10-31T14:13:41Z
 
 [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA|QA_MI_star47_NA_RA]]: qāmī šū-nāra: personal name, 'who stands: He is fire'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QA_NE|QA_NE]]: qanē: reed, cane; or lapis lazuli (precious stone). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/Q/QA_NE|QA_NE]]: qanē: reed, cane; rival lapis lazuli. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Q/QA_NU_MA|QA_NU_MA]]: qanūma: unresolved entity or commodity category; comparative /qanūma/ 'reeds'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/Q/QA_NU_MA|QA_NU_MA]]: qanūma: reeds (qanūma); heading on KH 88, grain entry on HT 116a. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/Q/QA_PA3|QA_PA3]]: qubaʿ: goblet, cup (vessel term on HT31 inventory). Lexicon, PROBABLE (tier 3).
 
@@ -55,7 +55,7 @@ updated: 2026-10-31T14:13:41Z
 
 [[wiki/linear-a/words/Q/QE|QE]]: qê: measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QE_DE_MI_NU|QE_DE_MI_NU]]: Qadmīnu: personal name, 'Easterner' or 'Ancient one'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QE_DE_MI_NU|QE_DE_MI_NU]]: Qēdmīnu: personal name, 'Easterner, Ancient one'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_KA|QE_KA]]: Unread (role only): administrative roster label; 2 occurrence(s).
 
@@ -69,9 +69,9 @@ updated: 2026-10-31T14:13:41Z
 
 [[wiki/linear-a/words/Q/QE_RA2_U|QE_RA2_U]]: qelwu: parched (roasted) grain. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/Q/QE_SI_TE|QE_SI_TE]]: qašt: bow, incised on the Malia palace wall; alternative 'throne, seat' (PS *kussīʾ-). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/Q/QE_SI_TE|QE_SI_TE]]: qešet: bow, incised on the Malia palace wall; rival 'throne, seat' (PS *kussīʾ-). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/Q/QE_SI_ZU_E|QE_SI_ZU_E]]: Unread (unread): no role; 2 occurrence(s).
+[[wiki/linear-a/words/Q/QE_SI_ZU_E|QE_SI_ZU_E]]: qīši ṯuʿē: gift for the Heroes (construct: Amorite qīšum 'gift' + ṯuʿ 'Hero, Noble'), a recipient of wine; rival 'the noble's gift'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/Q/QE_SU_PU|QE_SU_PU]]: qaššāpu: sorcerer, diviner (occupational title or PN). Lexicon, CANDIDATE (tier 2).
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TI_NU_JA
 title: "TI-NU-JA"
 desc: "Ṯinuya: personal name, 'Second(-born)'; rival Dīnuya. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TI-NU-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Second(-born)'; rival Dīnuya |
 | Root | ṯ-n-y |
 | Proto-Semitic | \*ṯVny- (#2553) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 115b .2 TI-NU-JA · NU-WI · GRA ½, the frame of side a's \*47-NU-RA-JA · I · GRA+BOSm / NU-WI, so a person (GORILA I 191). ṯinu-ya, ṯ-n-y 'second' + hypocoristic -ya as in \*306-TU-JA on the same tablet. Weak point: TI for ṯ is unestablished, and no Semitic root reads the word on TI's primary value. Rival: Dīnuya, √d-y-n 'judge', which needs TI = d, while the judge words here are written DI (DI-NA). One witness.
+HT 115b .2 TI-NU-JA · NU-WI · GRA ½, the frame of side a's \*47-NU-RA-JA · I · GRA+BOSm / NU-WI, so a person (GORILA I 191). ṯinu-ya, Ugaritic ṯn 'two, twofold' (DULAT 905) + hypocoristic -ya as in \*306-TU-JA on the same tablet; Ugarit has the personal name ṯny (DULAT 911). TI writes ṯ, as in TI-DA-TA ṯādīta 'sixth' and TU-PI-TA ṯāpiṭu. Rival: Dīnuya, √d-y-n 'judge', which needs TI = d, while the judge words here are written DI (DI-NA). One witness.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 115b .2 TI-NU-JA · NU-WI · GRA ½, the frame of side a's \*47-NU-RA-JA · I
 
 ### Source
 
-di Mino; Gelb 1980; Harding 1971; Pagan 1998
+di Mino; DULAT
 
 ## Attestations
 

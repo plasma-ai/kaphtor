@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Paššiya |
 | Meaning | Paššiya (personal name; Hurrian hypocoristic on pašš- 'send') |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-The matched roundel pair HT Wc 3001 (PA-SE-JA ½) and 3002 (PA-SE-JA), Scribe 107 (GORILA II 72): one context. HT 93a .8 \]PA-SE-JA 20, broken before, PA dotted, \]PI-SE-JA possible (GORILA I 147). The base PA-SE heads HT 18 and stands on HT 27b as an entry parallel to MI-DA (· VIN+WA · SA n): name and -ya short form in one archive, as Pašši-tilla and Paššiya at Nuzi. SE writes the stem vowel i. Rival: the Semitic nisba -iya, 'the one of PA-SE', as KU-PA₃-RI-JA Gubliya, with PA-SE unexplained. Cf. LB pa-sa-ja, a spice recipient (KN Ga 953).
+The matched roundel pair HT Wc 3001 (PA-SE-JA ½) and HT Wc 3002 (PA-SE-JA), Scribe 107 (GORILA II 72): one context. Uncounted: HT 93a .8 \]PA-SE-JA 20, broken before, PA dotted, or \]PI-SE-JA (GORILA I 147). The base PA-SE Pašše heads HT 18 and stands on HT 27b as an entry parallel to MI-DA (· VIN+WA · SA n): name and -ya short form in one archive, as Pašši-tilla and Paššiya at Nuzi. SE writes the stem vowel i. Cf. LB pa-sa-ja, a spice recipient (KN Ga 953).
 
 ### Cognates
 
@@ -67,14 +67,14 @@ di Mino; Gelb, Purves, and MacRae 1943; Laroche 1980; Monti 2017
 | Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 3 in 3 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1, Roundel 2 |
 
 ### Note
 
-Intact on the roundel pair HT Wc 3001–3002 (GORILA II 72); HT 93a .8 \]PA-SE-JA 20, broken before and PA dotted, \]PI-SE-JA also possible (GORILA I 147). PA-SE heads HT 18 and opens an entry of HT 27b. Nuzi Paššija, Pa-aš-ši-ia, hypocoristic for Paššip-tilla (NPN 112, 243), Hurrian pašš- 'send'; rival the nisba 'the one of PA-SE'.
+Intact on the roundel pair HT Wc 3001–3002 (GORILA II 72); HT 93a .8 \]PA-SE-JA 20, broken before and PA dotted, \]PI-SE-JA also possible (GORILA I 147). PA-SE Pašše heads HT 18 and opens an entry of HT 27b. Nuzi Paššija, Pa-aš-ši-ia, hypocoristic for Paššip-tilla (NPN 112, 243), Hurrian pašš- 'send'.
 
 ### Co-occurring lexicon words
 

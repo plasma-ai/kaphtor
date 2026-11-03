@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0222_praise
 title: "*nVʾVd-: 'praise'"
-desc: "Proto-Semitic *nVʾVd-, 'praise': reflexes in 4 language(s)."
+desc: "Proto-Semitic *nVʾVd-, 'praise': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0222"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | nəʾda 'praise' | Anderson–Moser 2024 root nʾd |  |
 | Tigrinya | näʾadä (LGz. 381) | LGz. 381 |  |
 | Amharic | nadä (LGz. 381) | LGz. 381 |  |
+| Eblaitic | naʾd: names a-bí-na-du, a-mi-na-du, ḫu-ra-na-dum, na-da-iš, zi-bí-na-du (Sanmartín GlOS 2, 69) | Sanmartín GlOS 2, 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | imēru (CAD I/J 110) | CAD I/J 110 | gloss withheld |
 | Ugaritic | ḥmr \[DULAT 358\] | DULAT 358 | gloss withheld |
 | Hebrew | ḥămōr (HALOT 327); pB. ḥămōrā (Ja. 476) | HALOT 327; Ja. 476 | gloss withheld |
-| Aramaic | ḥmr (DNWSI 383 apud SEDonline 610) | DNWSI 383; SEDonline 610 | gloss withheld |
+| Aramaic | ḥmr (DNWSI 383) | DNWSI 383 | gloss withheld |
 | Judaic Aramaic | ḥāmārā (f. ḥămārtā), ḥămār, ḥmrh (det. ḥmrth), ḥmwrh |  |  |
 | Syrian Aramaic | ḥəmārā 'ass', ḥəmārtā 'she-ass' (Brock. 241, PS 1309) | Brock. 241, PS 1309 |  |
 | Modern Aramaic | Maʕl. ḥmōra (Berg. 38); JNA xmāra (Sabar 198); Tlk. xmāra; Ass. xmāra (Kuip. 90); Tur. ḫmōro (ibid.), ḥmōro (Ritter 232); Mlḥ. ḥmoro (Ja. Mlḥ. 178); Hrt. ḥmara (Ja. Hrt. 189); Krd. xma:ra (Kr. 155); NSyr. khmârâ (M 102); Azr. xmara (Garb. 340); NAssyr. ḫmārä (Tser. 084) | Berg. 38; Sabar 198; Kuip. 90; Ritter 232; Ja. Hrt. 189; Kr. 155; M 102; Garb. 340; Tser. 084 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KO_MU
 title: "KO-MU"
 desc: "kummu: cella, inner sanctuary. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "ritual"]
 kind: "word"
 form: "KO-MU"
 datasets: ["lexicon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | cella, inner sanctuary |
 | Root | k-m-m |
 | Proto-Semitic | \*kumm- (#3788) |
-| Language layer | Akkadian |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Akkadian kummu 'cella, inner room of a temple'; cf. DU-PU₂-RE dubur 'sanctuary'. ZA Zb 34 PU₂-RE-JA · KO-MU · RU-DI (clay vessel). Weak point: KO for /ku/. Rival: √q-w-m 'arise', qūmū (imperative plural).
+ZA Zb 34, a Zakros clay vessel: \]PU₂-RE-JẠ · KỌ-MỤ · RỤ-DI\[ (GORILA IV 115). kummu 'cella': Akkadian kummu 'cella, private room (of a temple)' (CAD K 533); cf. DU-PU₂-RE dubur 'sanctuary'. KO writes ku, as RO writes ru in SA-RO beside SA-RU šarru. Rival: √q-w-m 'arise', qūmū (imperative plural). One attestation.
 
 ### Cognates
 
@@ -51,7 +52,7 @@ Akkadian kummu 'cella, inner room of a temple'; cf. DU-PU₂-RE dubur 'sanctuary
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; CAD K; GlOS 1
 
 ## Attestations
 

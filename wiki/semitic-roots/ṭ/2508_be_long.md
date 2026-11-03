@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ṭwl 'to be long, to stretch out lengthwise', ṭawīl- 'long' BK 2 123 | BK 2 123 |  |
+| Arabic | ṭwl, ṭawīl- BK 2 123; ṭūl (Biella 217) | BK 2 123; Biella 217 | gloss withheld |
 | Tigre | ṭawwala LH |  | gloss withheld |
 | Modern Arabic | Leb ṭawil, Mec ṭawiyl, Mlt twīl |  | gloss withheld |
 | Hebrew | ṭwl (hif) |  | gloss withheld |
-| Epigraphic South Arabian | Sanb ṭl (HALOT 373) | HALOT 373 | gloss withheld |
+| Epigraphic South Arabian | Sanb ṭl (HALOT 373); Sab yhṭl; ṭlm (Biella 216–217) | HALOT 373; Biella 216–217 | gloss withheld |
 | Syrian Aramaic | ṭwl root-meaning 'to be long'; pa. ṭayel 'walk to and fro, pace up and down' (Payne Smith 169) | Payne Smith 169 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

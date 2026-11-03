@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name: hypocoristic of a √d-y-n name ('Judge') |
 | Root | d-y-n |
 | Proto-Semitic | \*dyn- (#S36) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-6 attestations across Haghia Triada and Knossos. Not 'our judge': 1cp is -nā/-nū (Fischer 2002, §268; Heb. -nû), and no Semitic 1cp is -āʾu. -U after NA writes the hypocoristic -āyu/-āʾu (Amorite -ay-um: ʾAhlul-ay-um, Gelb 1980, no. 690; cf. Diyn-i-Baddu, no. 1512). Appears in personnel lists (HT25a: names × 1, appears twice on same tablet) and commodity allocations (HT9a: VIN context, DI-NA-U 4; HT9b: AROM context, DI-NA-U 4; KNZb27: VIN 17). Cross-site distribution (HT + Knossos) confirms a stable common NWS name. Note: √ʾ-d-n 'lord' with laryngeal loss gives the same d-n skeleton (ʾadōnū 'our lord'), but the extra assumption makes it less parsimonious. AMORITE CORROBORATION: Huffmon APNM p. 182 glossary — DN dyn 'judge' (Common Semitic), an onomastic element at Mari: G imperfect Ya-di-nim (yaqtil class), precative La-di-nam, I-di-AN; Noth IPN 187-88, Stamm ANG parallels. The root is a productive name-former in the closest NWS onomasticon upstream of Linear A. See DI-NE.
+Five documents at Haghia Triada and Knossos: a personnel list (HT 25a, twice, among names with quantity 1) and commodity allocations (HT 9a under VIN, DI-NA-U 4; HT 9b under AROM, DI-NA-U 4; KN Zb 27, VIN 17), a common NWS name at both sites. A √d-y-n 'judge' name, with -U after NA writing the hypocoristic -āyu/-āʾu (Amorite -ay-um: ʾAhlul-ay-um, Gelb 1980, no. 690; cf. Diyn-i-Baddu, no. 1512). Huffmon's glossary gives dyn 'judge', Common Semitic, as a Mari name element: the G imperfect Ya-di-nim (yaqtil class), the precative La-di-nam, I-di-AN (Huffmon 1965, 182; Noth IPN 187–188). Rival: √ʾ-d-n 'lord' with the laryngeal lost, ʾadōnū 'our lord', on the same d-n skeleton at the cost of one more assumption. See DI-NE.
 
 ### Cognates
 

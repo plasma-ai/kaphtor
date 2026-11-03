@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2715_to_pour_a_libation
 title: "*nVsVk-: 'to pour a libation'"
-desc: "Proto-Semitic *nVsVk-, 'to pour a libation': reflexes in 11 language(s)."
+desc: "Proto-Semitic *nVsVk-, 'to pour a libation': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2715"
@@ -33,14 +33,15 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | nasāku (CAD N/2 15) | CAD N/2 15 | gloss withheld |
 | Ugaritic | nsk (DULAT 635) | DULAT 635 | gloss withheld |
 | Hebrew | nāsak (HALOT 703) | HALOT 703 | gloss withheld |
-| Phoenician | nsk (T 214) | T 214 | gloss withheld |
+| Phoenician | nsk (T 214); msk (T 188); mskt (T 189); mskt (Krahmalkov 298) | T 214; T 188; T 189; Krahmalkov 298 | gloss withheld |
 | Judaic Aramaic | niskā (HALOT 702, 703) | HALOT 702, 703 | gloss withheld |
 | Syrian Aramaic | neskᵉtā, nsīkā, nsākā (HALOT 702, 703) | HALOT 702, 703 | gloss withheld |
-| Punic | nskh (HALOT 703) | HALOT 703 | gloss withheld |
+| Punic | nskh (HALOT 703); msk (T 188); nsk; nskt (Krahmalkov 329) | HALOT 703; T 188; Krahmalkov 329 | gloss withheld |
 | Aramaic | nsk (T 214) | T 214 |  |
 | Biblical Aramaic | nesak (T 214) | T 214 |  |
 | Amorite | nasku (Buck 2019, 330) | Buck 2019, 330 | gloss withheld |
 | Eblaitic | =na-za-gúm /n-s-k/ (Sanmartín GlOS 2, 101) | Sanmartín GlOS 2, 101 | gloss withheld |
+| Emar | na-si-ku /nāsiku/ (Pentiuc 2001, 132–133) | Pentiuc 2001 132–133 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

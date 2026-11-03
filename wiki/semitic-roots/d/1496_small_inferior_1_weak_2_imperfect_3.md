@@ -30,11 +30,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | dallu 2 |  |  |
+| Akkadian | dallu 2 (HALOT 221); dalālu 1 (HALOT 223) | HALOT 221; HALOT 223 | gloss withheld |
 | Ugaritic | dl 2; /dallu/ (UVST 118) | UVST 118 | gloss withheld |
 | Phoenician | dl 3 |  |  |
 | Punic | dl 3 (T 72) | T 72 | gloss withheld |
-| Hebrew | dal 2 |  |  |
+| Hebrew | dal 2 (HALOT 221); דלל 1 (HALOT 223) | HALOT 221; HALOT 223 | gloss withheld |
 | Syrian Aramaic | dallīl (HALOT 221) | HALOT 221 | gloss withheld |
 | Judaic Aramaic | JBA dldl (DJBA 339 apud SEDonline 2000); dlyl (HALOT 221) | DJBA 339; SEDonline 2000; HALOT 221 | gloss withheld |
 

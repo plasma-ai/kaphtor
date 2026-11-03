@@ -42,10 +42,9 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star21F_JA_DU\|\*21F-JA-DU]] | Ḥayya-ʾAddu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DU\|A-DU]] | ʾAddu / adû | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_star307_plus_star307\|A-DU \*307+\*307]] | Addu dubur-dubur | PROBABLE |
-| [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kamina | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DU_KU_MI_NA\|A-DU-KU-MI-NA]] | ʾAddu-kummina | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_ZA\|A-DU-ZA]] | ʾAddu-ʿazz | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | SPECULATIVE |
@@ -55,19 +54,24 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dūdāma | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_JA\|DU-JA]] | Tuya | SPECULATIVE |
+| [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_ME_DI\|DU-ME-DI]] | Dūmatī | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_NE_MI\|DU-NE-MI]] | ḏū-naʿmi | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_NI_MI\|DU-NI-MI]] | ʾadunim / ʾadunīm | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_PA3_NA\|DU-PA₃-NA]] | Dubbān | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_PU2_RE\|DU-PU₂-RE]] | dubur | PROBABLE |
-| [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durar | PROBABLE |
+| [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durār | PROBABLE |
+| [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | turēṯa-se | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-luwwī | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_SU_NI\|DU-SU-NI]] | Dišon | SPECULATIVE |
+| [[wiki/linear-a/words/D/DU_ZU_WA\|DU-ZU-WA]] | ḏū-ṯuwāʕ | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_DU_MA_NE\|KA-DU-MA-NE]] | Qadmān | CONFIRMED |
 | [[wiki/linear-a/words/M/MA_SI_DU\|MA-SI-DU]] | maṣīdu | SPECULATIVE |
-| [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | ṣidqī-kummī | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
+| [[wiki/linear-a/words/W/WI_NA_DU\|WI-NA-DU]] | Winadu | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_DU\|ZU-DU]] | ṯudu | CANDIDATE |
 
 <!-- END kaphtor:record -->

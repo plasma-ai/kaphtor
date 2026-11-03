@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/166_foot_sole_of_foot_shoe
 title: "*ŝayṗ-: 'foot, sole of foot; shoe'"
-desc: "Proto-Semitic *ŝayṗ-, 'foot, sole of foot; shoe': reflexes in 12 language(s)."
+desc: "Proto-Semitic *ŝayṗ-, 'foot, sole of foot; shoe': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "166"
@@ -42,6 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Off. šp \[HJ 1181\] | HJ 1181 | gloss withheld |
 | Harsusi | ŝēf \[JH 119\] | JH 119 | gloss withheld |
 | Modern South Arabian | ʕAbd-el-Kuri ŝɔf, sāf \[SSL 4 97\] | SSL 4 97 | gloss withheld |
+| Eblaitic | Sayp: du. si-ba /Sēp=ā(n)/; names si-íb, si-bí-su, si-íb-da-mu, si-íb-i-sar (Sanmartín GlOS 2, 211) | Sanmartín GlOS 2, 211 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

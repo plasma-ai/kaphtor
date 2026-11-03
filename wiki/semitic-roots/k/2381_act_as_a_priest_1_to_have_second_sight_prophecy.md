@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2381_act_as_a_priest_1_to_have_second_sight_prophecy
 title: "*kVhVn-: 'act as a priest' 1, 'to have second sight, prophecy' 2, 'priest' 3"
-desc: "Proto-Semitic *kVhVn-, 'act as a priest' 1, 'to have second sight, prophecy' 2, 'priest' 3: reflexes in 9 language(s)."
+desc: "Proto-Semitic *kVhVn-, 'act as a priest' 1, 'to have second sight, prophecy' 2, 'priest' 3: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2381"
@@ -39,6 +39,7 @@ updated: 2026-10-26T14:26:59Z
 | Mandaic Aramaic | kahna (LGz. 278) | LGz. 278 |  |
 | Punic | khn (Krahmalkov 224); khn, kḥn, kʿn (T 138); khnt, knt, kʿnt (T 139) | Krahmalkov 224; T 138; T 139 | gloss withheld |
 | Aramaic | khn, khnʾ (T 138) | T 138 |  |
+| Biblical Aramaic | \*kāhēn 3 (HALOT 461) | HALOT 461 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

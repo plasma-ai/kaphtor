@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/2903_morning
 title: "*ṣVbVḥ-: 'morning'"
-desc: "Proto-Semitic *ṣVbVḥ-, 'morning': reflexes in 11 language(s)."
+desc: "Proto-Semitic *ṣVbVḥ-, 'morning': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2903"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṣ-b-ḥ 'dawn, become light; daily' (Dillmann 09290; Dillmann 09291) | Dillmann 09290; Dillmann 09291 |  |
 | Arabic | ṣbḥ (QAC صبح) | QAC صبح | gloss withheld |
 | Soqotri | ṣabḥ (LGz. 545); ṣabḥ (SLOnline 27978) | LGz. 545; SLOnline 27978 | gloss withheld |
+| Jibbali | ɛṣbəḥí (Rubin 2014 669) | Rubin 2014 669 | gloss withheld |
 | Tigre | ṣäbḥa (LGz. 545) | LGz. 545 | gloss withheld |
 | Tigrinya | ṣäbḥe (LGz. 545) | LGz. 545 |  |
 | Amharic | ṭäbba, ṭwat (LGz. 545) | LGz. 545 | gloss withheld |

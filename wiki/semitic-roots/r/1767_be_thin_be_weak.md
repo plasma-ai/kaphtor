@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | rkk \[-i-\] (Lane 1141) | Lane 1141 |  |
-| Hebrew | rak |  |  |
+| Hebrew | rak (HALOT 1230); rkk (HALOT 1236) | HALOT 1230; HALOT 1236 | gloss withheld |
 | Judaic Aramaic | rakkīkā (HALOT 1230) | HALOT 1230 | gloss withheld |
 | Aramaic | rkyk (HALOT 1230) | HALOT 1230 |  |
 | Syrian Aramaic | rakkīkā (HALOT 1230) | HALOT 1230 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3654_pasture_land_grazing_place_1_abode_settlement_2
 title: "*nwy: 'pasture land, grazing place' 1, 'abode, settlement' 2, 'to betake oneself to an abode' 3"
-desc: "Proto-Semitic *nwy, 'pasture land, grazing place' 1, 'abode, settlement' 2, 'to betake oneself to an abode' 3: reflexes in 7 language(s)."
+desc: "Proto-Semitic *nwy, 'pasture land, grazing place' 1, 'abode, settlement' 2, 'to betake oneself to an abode' 3: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3654"
@@ -29,6 +29,7 @@ updated: 2026-10-30T02:12:22Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic nw 3; nwy 1; nwy, nwʾ 3; ptc. nwy 3, KRS 1949 (Al-Jallad 2026, 107) | Al-Jallad 2026 107 | gloss withheld |
 | Hebrew | nāweh 1, 2 (HALOT 678); of YHWH 2: nəwēh qodšekā (Exod 15:13), nāwēhû (Jer 25:30; Ps 79:7); yinweh (Hab 2:5) | HALOT 678 | gloss withheld |
 | Akkadian | namû A (nawû) 1 (CAD N/1 249); lexical na-mu-ú = ālu 2 (MŠ); ERÍN.MEŠ na-me(-e) at Alalakh, LÚ na-mu-ú, LÚ.MEŠ na-mu-ti at Ugarit (Sanmartín GlOS 2, 116) | CAD N/1 249; Sanmartín GlOS 2, 116 | gloss withheld |
 | Amorite | nawū 1, in names: Tagīd-nawū, ta-nu-uḫ-na-wu-um (Streck 2000, 108, 140; Sanmartín GlOS 2, 116) | Streck 2000 108, 140; Sanmartín GlOS 2, 116 | gloss withheld |

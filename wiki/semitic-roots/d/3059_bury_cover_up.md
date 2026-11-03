@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3059_bury_cover_up
 title: "*dpn: 'bury, cover up'"
-desc: "Proto-Semitic *dpn, 'bury, cover up': reflexes in 11 language(s)."
+desc: "Proto-Semitic *dpn, 'bury, cover up': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3059"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | däffäna (LGz. 124) | LGz. 124 |  |
 | Gurage | däfänä (LGz. 124) | LGz. 124 |  |
 | Harari | däfäna \[LHar 54\] | LHar 54 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic dfn (Al-Jallad 2026, 33) | Al-Jallad 2026 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

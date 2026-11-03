@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star305
 title: "*305"
-desc: "personnel-category logogram; exact class unknown. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "logogram"]
+desc: "personnel-category logogram, a counted class of persons. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "logogram", "personnel"]
 kind: "word"
 form: "*305"
 datasets: ["lexicon"]
@@ -31,14 +31,14 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | personnel-category logogram; exact class unknown |
-| Language layer | unresolved |
-| Category | logogram |
+| Meaning | personnel-category logogram, a counted class of persons |
+| Language layer | logogram |
+| Tags | logogram, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-Dual-function sign: a logogram in standalone quantified contexts and a possible syllabogram in embedded groups. Its logographic personnel function is secure from HT89, where \*305 23 belongs to the exact headcount 23+22+24+13+5=KU-RO 87, and HT100, where it is a subcategory within a personnel total. Uchitel 2006, 75 independently proposes an age group; Montecchi 2008, 315 a group of persons, never with fractions. A ḎABBĀḤŪ 'sacrificers' expansion would be circular: it derives the logographic meaning from the proposed syllabic /ḏa/ value and then uses that meaning to support the value. No phonetic complement on HT89 establishes √ḏ-b-ḥ. The syllabic /ḏa/ or /da/ question remains separate and CANDIDATE.
+A logogram in standalone counted entries, a syllabogram inside sign groups. HT 89 counts \*305 23 in the headcount 23+22+24+13+5, KU-RO 87, and on HT 100 \*305 5 is a subcategory of the personnel total KU-RO 97 (Uchitel 2003, 85). Uchitel takes it for an age group (Uchitel 2006, 75), Montecchi for a group of persons, never counted in fractions (Montecchi 2008, 315). Ten documents. See KA-\*305.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ Dual-function sign: a logogram in standalone quantified contexts and a possible 
 
 ### Source
 
-Corpus distribution; Montecchi 2008, 315; Uchitel 2006, 'Listing by Age and Occupation in Minoan Linear A,' Kadmos 45: 73–81
+Uchitel 2003; Uchitel 2006; Montecchi 2008
 
 ## Attestations
 

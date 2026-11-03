@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_RE
 title: "MA-RE"
 desc: "mārē: lord, master (title, an entry in a KI-RO roster); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "title"]
 kind: "word"
 form: "MA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | lord, master (title, an entry in a KI-RO roster); rival a personal name |
 | Root | m-r-ʾ |
 | Proto-Semitic | \*marʾ- (#53) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, title |
 | Semantic field | personnel |
 
 ### Note
 
-HT 55a .1 \]KI-RO · MA-RE 1, whole and undotted, the first of single entries owed (GORILA I 106–107). mā-rē, the -MA-RE of JI-NU-MA-RE 'wine-lords'; Ebla mar-a 'the lord' (Pagan 1998, row 3651). Ugaritic has no mrʾ 'lord' (DULAT 562). Rival: a personal name. One witness. See MA-RI-TA₂.
+HT 55a .1 \]KI-RO · MA-RE 1, whole and undotted, the first of single entries owed (GORILA I 106–107). mā-rē, the -MA-RE of JI-NU-MA-RE 'wine-lords'; Aramaic mārēʾ 'lord', mārēʾ malkîn 'lord of kings' (Dan 2:47), and Ebla mar-a 'the lord' (Pagan 1998, row 3651). Ugarit's mrủ, mur-u, is a class name of uncertain etymology (DULAT 564). Rival: a personal name. Weak point: MA-RE stands alone among single entries owed. One witness. See MA-RI-TA₂.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 55a .1 \]KI-RO · MA-RE 1, whole and undotted, the first of single entries ow
 
 ### Source
 
-di Mino; Pagan 1998
+di Mino; Pagan 1998; DULAT
 
 ## Attestations
 

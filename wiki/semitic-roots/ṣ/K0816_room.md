@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/K0816_room
 title: "*ṣVrVḥ-: 'room'"
-desc: "Proto-Semitic *ṣVrVḥ-, 'room': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ṣVrVḥ-, 'room': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0816"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ṣərīḥā (LGz. 563) | LGz. 563 | gloss withheld |
 | Tigrinya | ṣərḥi (LGz. 563) | LGz. 563 | gloss withheld |
 | Epigraphic South Arabian | Sab ṣrḥ, ṣrḥt (Biella 428) | Biella 428 | gloss withheld |
+| Eblaitic | za-ra ba-tum (= Sum. ÙR) /ṣarḥ/ (Sanmartín GlOS 2, 222) | Sanmartín GlOS 2, 222 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

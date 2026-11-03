@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/301_box_1_basket_2
 title: "*ḳupp-: 'box' 1, 'basket' 2"
-desc: "Proto-Semitic *ḳupp-, 'box' 1, 'basket' 2: reflexes in 11 language(s)."
+desc: "Proto-Semitic *ḳupp-, 'box' 1, 'basket' 2: reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "301"
@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | quff-at- 2 (Lane 2991) | Lane 2991 |  |
 | Mehri | ḳeffēt 2 |  |  |
 | Soqotri | ḳefet 2 |  |  |
-| Akkadian | quppu 1, qappatu 2 |  |  |
+| Akkadian | quppu 1, qappatu 2; quppatu 2 (LGz. 424) | LGz. 424 |  |
 | Geez | qafo 2 |  |  |
 | Harsusi | qefet (LGz. 424) | LGz. 424 |  |
 | Tigrinya | qʷäfo (LGz. 424) | LGz. 424 | gloss withheld |
@@ -41,6 +41,11 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | qäfo (LGz. 424) | LGz. 424 | gloss withheld |
 | Gurage | qäfo (LGz. 424) | LGz. 424 | gloss withheld |
 | Syrian Aramaic | qūpī 'basket' (Payne Smith 497) | Payne Smith 497 |  |
+| Ugaritic | qpt 1, 2 (DULAT 696) | DULAT 696 | gloss withheld |
+| Modern Arabic | Oman qufāʕa 2 (LGz. 423) | LGz. 423 |  |
+| Aramaic | qp-t 2 (LGz. 424) | LGz. 424 |  |
+| Mandaic Aramaic | qupa 2 (LGz. 424) | LGz. 424 |  |
+| Argobba | qafo (LGz. 424) | LGz. 424 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

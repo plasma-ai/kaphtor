@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/K0770_hide
 title: "*ḫVbVʾ-: 'hide'"
-desc: "Proto-Semitic *ḫVbVʾ-, 'hide': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḫVbVʾ-, 'hide': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0770"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | ḫiḫbē (gloss, EA 256:7; HALOT 284) | HALOT 284 | gloss withheld |
 | Tigrinya | ḥabʾe (LGz. 255) | LGz. 255 |  |
 | Amharic | abba, həbuʾ (LGz. 255) | LGz. 255 |  |
+| Pre-Islamic North Arabian | Safaitic ḫbʾ (Al-Jallad 2026, 64) | Al-Jallad 2026 64 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

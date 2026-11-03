@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DI_DE_RU
 title: "DI-DE-RU"
 desc: "ʾaddīru: nobles, notables; rival ʾadr 'granary'. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "title"]
+tags: ["linear-a", "word", "tier-3", "noun", "personnel", "title"]
 kind: "word"
 form: "DI-DE-RU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | nobles, notables; rival ʾadr 'granary' |
 | Root | ʾ-d-r |
 | Proto-Semitic | \*ʾaddīr- (#1340) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | noun, personnel, title |
 | Semantic field | personnel |
 
 ### Note
 
-DI-DE- renders the Semitic geminate -dd- in ʾaddīr-. Always co-occurs with SA-RU in the formulaic allocation set. 3 tablets, all Haghia Triada LMIB. Cross-tablet allocation series (HT86a/95a/95b)—consistent ordering and quantities. It co-occurs structurally with SA-RU, MI-NU-TE, QE-RA₂-U. Ug. adr 'strong, of good quality; noble, notable' (DULAT 21). Rival: Ug. ʾadr 'granary, barn' (GlOS 1, 10), a store drawing grain. See A-DA-RO.
+HT 95a DI-DE-RU 10, HT 95b and HT 86a, in the Haghia Triada allocation set, always with SA-RU, MI-NU-TE and QE-RA₂-U, in the same order. ʾaddīru 'nobles', DI-DE- writing the geminate -dd-: Ug. adr 'strong, of good quality; noble, notable' (DULAT 21). Rival: Ug. ʾadr 'granary, barn' (GlOS 1, 10), a store drawing grain. Three attestations. See A-DA-RO.
 
 ### Cognates
 
@@ -74,8 +74,8 @@ di Mino; DULAT; GlOS 1
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 3 in 3 documents |

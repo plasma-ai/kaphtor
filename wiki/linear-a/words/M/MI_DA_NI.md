@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/M/MI_DA_NI
 title: "MI-DA-NI"
-desc: "matni: loin, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+desc: "mitāni: loins, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "body", "commodity", "foodstuff", "hapax", "noun", "ritual"]
 kind: "word"
 form: "MI-DA-NI"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.2
-reading: "matni"
+reading: "mitāni"
 attestations: ["HT41a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | matni |
-| Meaning | loin, hip meat—choice cut on sacrificial fat allocation tablet |
+| Reading | mitāni |
+| Meaning | loins, hip meat—choice cut on sacrificial fat allocation tablet |
 | Root | m-t-n |
 | Proto-Semitic | \*matn- (#1977) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | body, commodity, foodstuff, hapax, noun, ritual |
 | Semantic field | body_part |
 
 ### Note
 
-HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-DA-NI PA-JA 2, a weight. Heb. māṯnayim 'loins'. Ebla writes matn 'tendon' SA.ŠU = ma-da-nu, with DA for t (GlOS 2, 59). Weak point: MI for ma. Rival: a heading or title before PA-JA. One attestation.
+HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-DA-NI PA-JA 2, a weight. Heb. māṯnayim 'loins'. Ebla writes matn 'tendon' SA.ŠU = ma-da-nu, with DA for t (GlOS 2, 59). MI writes the i of the plural, as in Arabic mitān (Lane 3017). Rival: a heading or title before PA-JA. One attestation.
 
 ### Cognates
 
@@ -50,6 +50,7 @@ HT 41a, unquantified before PA-JA 2 on a tablet of \*304 (fat) allocations: MI-D
 | Hebrew | māṯnayim 'loins, hips' (Deut 33:11; Exod 28:42) |
 | Akkadian | matnu 'sinew, tendon' (CAD M/1 412) |
 | Ugaritic | mtnt 'loin', a cult term (GlOS 2, 59) |
+| Arabic | matn, pl. mitān (Lane 3017) |
 
 ### Source
 
@@ -65,6 +66,6 @@ di Mino; GlOS 2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | matni | loin/hip meat | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | mitāni | loins, hip meat | SPECULATIVE |
 
 <!-- END kaphtor:record -->

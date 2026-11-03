@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/1407_sun_1_sun_heat_2
 title: "*ŝam(ŝam)-: 'sun' 1, 'sun-heat' 2"
-desc: "Proto-Semitic *ŝam(ŝam)-, 'sun' 1, 'sun-heat' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *ŝam(ŝam)-, 'sun' 1, 'sun-heat' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1407"
@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | šams- 1; aš-šams 'the sun; the body of the solar light, that runs its course in the firmament' 1 (Lane 1597) | Lane 1597 |  |
 | Soqotri | šam |  |  |
-| Akkadian | šamšu 1 (CAD Š/1 335) | CAD Š/1 335 | gloss withheld |
+| Akkadian | šamšu 1 (CAD Š/1 335; AHw 1158) | CAD Š/1 335; AHw 1158 | gloss withheld |
 | Tigre | šämš 1 |  |  |
-| Ugaritic | špš /šapšu/ (Huehnergard 2012, 157) | Huehnergard 2012 157 | gloss withheld |
+| Ugaritic | špš /šapšu/ 1 (Huehnergard 2012, 157; DULAT 824); DN (DULAT 824) | Huehnergard 2012 157; DULAT 824 | gloss withheld |
 | Phoenician | šmš (Krahmalkov 472); šmš (T 325) | Krahmalkov 472; T 325 | gloss withheld |
 | Hebrew | šemeš 1; (?) pl. šǝbīs-īm (HALOT 1392, 1393) | HALOT 1392, 1393 | gloss withheld |
 | Epigraphic South Arabian | šmŝ 1; Sab šms 1 (Biella 518); s²ms¹-n 1 (SD 133) | Biella 518; SD 133 | gloss withheld |
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | śamśum (Gelb AS 21, 31); ŝapŝ(um); šamšu, šapšu (Buck 2019, 333) | Gelb AS 21 31; Buck 2019, 333 | gloss withheld |
 | Jibbali | s̃um 2 (Kogan 2011, 193) | Kogan 2011 193 | gloss withheld |
 | Eblaitic | sí-piš; si-piš (OLA80 §11.9, §13.2) | OLA80 §11.9, §13.2 | gloss withheld |
+| Biblical Aramaic | \*šəmaš 1 (HALOT 1589) | HALOT 1589 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_KI_RA
 title: "I-KI-RA"
 desc: "ikkara: farmer, tenant farmer (occupational title). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "agriculture", "hapax", "noun", "occupation", "personnel"]
 kind: "word"
 form: "I-KI-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | farmer, tenant farmer (occupational title) |
 | Root | ikkaru |
 | Proto-Semitic | \*ʾkr 1, \*ʾa/ikkār- 2 (#1810) |
-| Language layer | Akkadian |
-| Category | title |
+| Language layer | Semitic |
+| Tags | agriculture, hapax, noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT 25a personnel list, I-KI-RA 1. Akkadian ikkaru 'farmer, plowman' (ORACC); Hebrew ʾikkār (Isa 61:5; Jer 14:4). Cf. I-KA ʾikkār (HT 91, HT 102), with final r unwritten; here r is written with a following vowel. Rival: a personal name. See A-KI-RO.
+HT 25a .5, a personnel list: I-KI-RA 1, whole as written; the lower-left margin before it is lost (GORILA I 44–45). ikkara 'farmer': Akkadian ikkaru 'plowman, farmer' (CAD I/J 49), Hebrew ʾikkār (Isa 61:5; Jer 14:4; HALOT 47). I-KA ʾikkār (HT 91, HT 102) leaves the final r unwritten; here r is written with a following vowel. Rival: a personal name. One attestation. See A-KI-RO.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 25a personnel list, I-KI-RA 1. Akkadian ikkaru 'farmer, plowman' (ORACC); Heb
 
 ### Source
 
-di Mino
+di Mino; CAD I/J; HALOT
 
 ## Attestations
 
@@ -78,5 +78,9 @@ di Mino
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 25a, a personnel list: Akkadian ikkaru 'plowman, farmer' (CAD I/J 49), Hebrew ʾikkār. The same word as I-KA. See the lexicon entry.
 
 <!-- END kaphtor:record -->

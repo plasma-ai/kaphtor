@@ -315,7 +315,7 @@ def competitor_distance(space, spec, domains: dict[str, frozenset[str]], engine:
         s = spaces.get(ctx)
         if s is None:
             keys = {k: ns for k, ns in space.keys.items() if any(fits(domains.get(n, frozenset()), ctx) for n in ns)}
-            s = spaces[ctx] = CompetitorSpace(space.name, keys, spec.distances, spec.guttural_transparent)
+            s = spaces[ctx] = CompetitorSpace(space.name, keys, space.distances, spec.guttural_transparent)
         vs = variants.get(word)
         if vs is None:
             vs = variants[word] = rm.variants(engine.word_readings(word), word)

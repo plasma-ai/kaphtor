@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | mirṣepet 'pavement' (BDB 954) | BDB 954 |  |
+| Hebrew | mirṣepet (BDB 954); riṣpā (HALOT 1285) | BDB 954; HALOT 1285 | gloss withheld |
 | Aramaic | rṣp 'pave, stone' (Aramaic Root Atlas 0836) | Aramaic Root Atlas 0836 |  |
 | Arabic | raṣafa 'pave'; raṣīf 'sidewalk' (Aramaic Root Atlas 0836); raṣafa 'he put, or joined, together the stones in building; he built, or constructed, and joined together, the stones' (Lane 1094) | Aramaic Root Atlas 0836; Lane 1094 |  |
 | Akkadian | raṣāpu, riṣpu (HALOT 1284; HALOT 1285); raṣāpu (CAD R 184); raṣpu (CAD R 187) | HALOT 1284; HALOT 1285; CAD R 184; CAD R 187 | gloss withheld |

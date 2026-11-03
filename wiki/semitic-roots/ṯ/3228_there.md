@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/3228_there
 title: "*ṯamma: 'there'"
-desc: "Proto-Semitic *ṯamma, 'there': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ṯamma, 'there': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3228"
@@ -35,6 +35,8 @@ updated: 2026-10-24T15:25:56Z
 | Biblical Aramaic | tammā (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
 | Syrian Aramaic | tammān (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
 | Arabic | ṯamma (Kogan 2015, ch. 3 §5.2 no. 64) | Kogan 2015 ch. 3 §5.2 no. 64 | gloss withheld |
+| Phoenician | šm (T 320) | T 320 | gloss withheld |
+| Punic | N.Pu. šʿm (T 320) | T 320 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KO_RU
 title: "KO-RU"
 desc: "kōr: kor (dry measure); rival 'ram'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "hapax", "numeral_or_measure"]
 kind: "word"
 form: "KO-RU"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | kor (dry measure); rival 'ram' |
 | Root | k-r-r |
 | Proto-Semitic | \*kurr- (#2993) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | hapax, numeral_or_measure |
 | Semantic field | commodity |
 
 ### Note

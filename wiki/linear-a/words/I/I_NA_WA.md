@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_NA_WA
 title: "I-NA-WA"
 desc: "ʾi-nawā: the dwelling, abode (sanctuary as divine habitation). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "ritual", "votive"]
 kind: "word"
 form: "I-NA-WA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the dwelling, abode (sanctuary as divine habitation) |
 | Root | n-w-y |
 | Proto-Semitic | \*nwy (#3654) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual, votive |
 | Semantic field | ritual |
 
 ### Note
 
-The nominal core of the libation formula: A-TA-I-\*301-WA-JA = ʾata-i-nawa-ya 'I make myself a dwelling' (CONFIRMED, 11× at five peak sanctuaries) conjugates this noun, and \*301-WA = nawā (PROBABLE, IOZa4) writes it with the rebus sign \*301 = /na/ that derives from this very root. PH6 (MM IIB) spells it phonetically with plain NA—the tablet predates the \*301 rebus convention, making this the earliest witness of √n-w-y in the corpus. ʾi- = prosthetic vowel (cf. I-ZU-RI-NI-TA, I-DA-MA-TE vs DA-MA-TE). Set off by word-divider 𐄁 as heading of the PH6 dedication.
+PH 6 (MM IIB), the heading, set off by the divider: I-NA-WA · A-RI / I-ZU-RI-NI-TA / A-RI / I-DA-PA₃-I-SA-RI. ʾi-nawā 'the dwelling', the nominal core of the libation formula, spelled with plain NA: A-TA-I-\*301-WA-JA ʾata-i-nawa-ya 'I make myself a dwelling', eleven times at five peak sanctuaries, conjugates this noun, and \*301-WA nawā (IO Za 4) writes it with \*301 = na, the sign whose value derives from this root; PH 6 predates that convention. √n-w-y: Heb. nāweh 'grazing place; settlement' (HALOT 678–679), Amorite nawûm 'steppe; encampment' (Huffmon 1965, 237). ʾi- is the prosthetic vowel, as in I-ZU-RI-NI-TA and I-DA-MA-TE against DA-MA-TE. One attestation.
 
 ### Cognates
 

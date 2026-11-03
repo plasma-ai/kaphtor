@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/821_eat_munch
 title: "*gVzVr-: 'eat, munch'"
-desc: "Proto-Semitic *gVzVr-, 'eat, munch': reflexes in 2 language(s)."
+desc: "Proto-Semitic *gVzVr-, 'eat, munch': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "821"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | gzr |  |  |
 | Arabic | ǧazara (HALOT 187) | HALOT 187 | gloss withheld |
+| Ugaritic | ảgzry (DULAT 28) | DULAT 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

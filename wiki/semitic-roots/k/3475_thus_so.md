@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3475_thus_so
 title: "*kn: 'thus, so'"
-desc: "Proto-Semitic *kn, 'thus, so': reflexes in 5 language(s)."
+desc: "Proto-Semitic *kn, 'thus, so': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3475"
@@ -29,11 +29,14 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Sab kn (Biella 249) | Biella 249 | gloss withheld |
 | Akkadian | akanna, kanna (CAD A/1 259) | CAD A/1 259 | gloss withheld |
 | Hebrew | kēn (HALOT 482) | HALOT 482 | gloss withheld |
 | Phoenician | kn, lkn (T 145) | T 145 | gloss withheld |
 | Punic | chen (HALOT 482) | HALOT 482 | gloss withheld |
 | Syrian Aramaic | hākan 'so, thus, in this way' (Payne Smith 103) | Payne Smith 103 |  |
+| Ugaritic | kn (DULAT 443) | DULAT 443 | gloss withheld |
+| Biblical Aramaic | kēn (HALOT BArm. s.v. כֵּן) | HALOT BArm. s.v. כֵּן | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

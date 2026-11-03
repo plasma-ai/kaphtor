@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2450_take_pick_up_1_choose_2
 title: "*ḫār-: 'take, pick up' 1, 'choose' 2"
-desc: "Proto-Semitic *ḫār-, 'take, pick up' 1, 'choose' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫār-, 'take, pick up' 1, 'choose' 2: reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2450"
@@ -32,6 +32,7 @@ updated: 2026-10-26T15:47:57Z
 |---|---|---|---|
 | Akkadian | ḫâru (ḫiāru) OB CAD ḫ 119 | CAD ḫ 119 | gloss withheld |
 | Arabic | iḫtāra 'he chose, made choice of, selected, elected, or preferred' 2 (Lane 829); ḫiyār 'choice, option' 2 (Lane 830) | Lane 829; Lane 830 |  |
+| Eblaitic | IG\[I.SAG\] = ḫa-a-lum, ḫa-lu-um /ḫ-y-r/ 2, names i-ḫir-ma-lik, da-ḫir-ma-lik, da-ḫir-da-mu (Sanmartín GlOS 1, 289) | Sanmartín GlOS 1, 289 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/1442_give_a_meal_feed_1_prepare_a_meal_2
 title: "*wVlVm-: 'give a meal, feed' 1, 'prepare a meal' 2"
-desc: "Proto-Semitic *wVlVm-, 'give a meal, feed' 1, 'prepare a meal' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *wVlVm-, 'give a meal, feed' 1, 'prepare a meal' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1442"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | wlm 1 |  |  |
 | Mehri | awōlem 2 |  |  |
 | Harsusi | awlōm 2 |  |  |
+| Pre-Islamic North Arabian | Safaitic wlm 1 (Al-Jallad 2026, 167) | Al-Jallad 2026 167 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

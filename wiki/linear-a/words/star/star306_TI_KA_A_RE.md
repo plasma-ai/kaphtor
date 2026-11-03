@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star306_TI_KA_A_RE
 title: "*306-TI-KA-A-RE"
-desc: "ʿatīq+are: the ancient, the noble; or 'became fertile' (t-stem heading). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "adjective"]
+desc: "ʿatīq+are: the ancient, the noble (heading); rival 'became fertile'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "adjective", "administrative", "hapax"]
 kind: "word"
 form: "*306-TI-KA-A-RE"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿatīq+are |
-| Meaning | the ancient, the noble; or 'became fertile' (t-stem heading) |
-| Root | ʿ-t-q (or ʿ-k-r t-stem) |
+| Meaning | the ancient, the noble (heading); rival 'became fertile' |
+| Root | ʿ-t-q |
 | Proto-Semitic | \*ʕatVq- (#2658) |
-| Language layer | NWS |
-| Category | adjective |
-| Semantic field | personal_name |
+| Language layer | Semitic |
+| Tags | adjective, administrative, hapax |
+| Semantic field | administrative |
 
 ### Note
 
-Uses resolved \*306=/ʿa/. HT4: heads a short allocation list (DU-RI-TE 2, PA-RE, TA-PI-SI-DI 1). NWS √ʿ-t-q 'to be old, noble' (Hebrew ʿātīq, Arabic ʿatīq); the +are ending may be a nominal suffix. Rival reading covers the full sign sequence with no leftover suffix: Sabaic ʿtkr 'become fertile (of land)' (Beeston 1982 p. 14, Ry 522/2)—a t-infix stem of √ʿ-k-r, so ʿa-ti-ka-(a)-re = ʿ-t-k-r exactly. A 'yielded/became fertile' heading over an allocation list is contextually viable; the ʿ-t-q reading leaves -RE unexplained but has the broader NWS pedigree. See A-TI-KA.
+HT 4: heads a short allocation list (DU-RI-TE 2, PA-RE, TA-PI-SI-DI 1). With \*306 = ʿa, NWS √ʿ-t-q 'be old, noble' (Heb. ʿātīq, Arab. ʿatīq), with -A-RE a nominal suffix. Rival: Sabaic ʿtkr 'become fertile (of land)' (Beeston et al. 1982, 14; Ry 522/2), a t-infix stem of √ʿ-k-r, which covers the whole sequence, ʿa-ti-ka-(a)-re for ʿ-t-k-r, and suits a heading over an allocation list. The ʿ-t-q reading leaves -RE unexplained but has the broader NWS pedigree. Weak point: \*306 = ʿa is a proposed value, which \*306-TU ʿAttu (HT 9a, HT 9b, HT 119, HT 122a) and \*306+MI ʿAmmī (HT 115b) also carry. See A-TI-KA.
 
 ### Cognates
 

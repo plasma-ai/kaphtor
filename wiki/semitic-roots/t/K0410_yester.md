@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/K0410_yester
 title: "*timāl-: 'yester'"
-desc: "Proto-Semitic *timāl-, 'yester': reflexes in 10 language(s)."
+desc: "Proto-Semitic *timāl-, 'yester': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0410"
@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | timāli | HALOT 103; Anderson–Moser 2024 root tml | gloss withheld |
+| Akkadian | timāli (AHw 1359) | AHw 1359; Anderson–Moser 2024 root tml | gloss withheld |
 | Geez | təmāləm 'yesterday' | Anderson–Moser 2024 root tml |  |
 | Syrian Aramaic | ʾetmāly (HALOT 103; Payne Smith 33) | HALOT 103; Payne Smith 33 |  |
 | Mandaic Aramaic | ʾitmal (HALOT 103) | HALOT 103 |  |
@@ -39,6 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | tämale, mali (LGz. 576) | LGz. 576 |  |
 | Tigrinya | təmali (LGz. 576) | LGz. 576 |  |
 | Argobba | təmay (LGz. 576) | LGz. 576 |  |
+| Ugaritic | ủ/ỉtml (DULAT 119) | DULAT 119 | gloss withheld |
+| Canaanite | tu-ma-al /tumāl/ (EA 362:14–15) (Sanmartín GlOS 2, 297) | Sanmartín GlOS 2, 297 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

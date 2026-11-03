@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/S15_to_mix_aromatics_compound_ointment_1_perfumer_oi
 title: "*rVḳVḥ-: 'to mix aromatics, compound ointment' 1, 'perfumer, ointment-mixer' 2"
-desc: "Proto-Semitic *rVḳVḥ-, 'to mix aromatics, compound ointment' 1, 'perfumer, ointment-mixer' 2: reflexes in 7 language(s)."
+desc: "Proto-Semitic *rVḳVḥ-, 'to mix aromatics, compound ointment' 1, 'perfumer, ointment-mixer' 2: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S15"
@@ -30,12 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | ruqqû (CAD R 420); raqqû (rāqû) (CAD R 173) | CAD R 420; CAD R 173 | gloss withheld |
-| Ugaritic | rqḥ (DULAT 734); mrqḥt | DULAT 734 | gloss withheld |
+| Ugaritic | rqḥ (DULAT 734); mrqḥt; rqḥ (II) 1 (DULAT 735) | DULAT 734; DULAT 735 | gloss withheld |
 | Phoenician | rqḥ (Krahmalkov 447) | Krahmalkov 447 | gloss withheld |
-| Hebrew | rōqēaḥ 'perfumer, apothecary' (BDB 955); riqqūḥīm 'spices, perfumes' (Song 8:2); mereqāḥōt 'ointment preparations' (Ex. 30:25) | BDB 955 |  |
-| Punic | rqḥ 'mix ointments' | Anderson–Moser 2024 root rqḥ |  |
+| Hebrew | rōqēaḥ 'perfumer, apothecary' (BDB 955); riqqūḥīm 'spices, perfumes' (Isa 57:9); reqaḥ 'spice', yayin hāreqaḥ 'spiced wine' (Song 8:2); mereqāḥōt 'ointment preparations' (Ex. 30:25) | BDB 955 |  |
+| Punic | rqḥ; rqḥ, N.Pu. rqʾ (T 306–307); N.Pu. mrqḥ (T 307) | T 306–307; T 307; Anderson–Moser 2024 root rqḥ | gloss withheld |
 | Judaic Aramaic | mrqḥtʾ (HALOT 638) | HALOT 638 |  |
 | Eblaitic | rí-ga-tum /riqaḥt/ 1; ra-gi-um /rāqiḥ/ 2, glossing Ì.RÁ.RA (Sanmartín GlOS 2, 165; VE 892 apud ELISIR s.v. ra-gi-i₃); ra-gi-i₃ 1 (ELISIR s.v. ra-gi-i₃) | Sanmartín GlOS 2, 165; VE 892; ELISIR s.v. ra-gi-i₃ | gloss withheld |
+| Aramaic | rqḥ (DNWSI 1083) | DNWSI 1083 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

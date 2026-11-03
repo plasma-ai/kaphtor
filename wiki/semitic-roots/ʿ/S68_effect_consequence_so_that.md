@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/S68_effect_consequence_so_that
 title: "*ʿābūr: 'effect, consequence; so that'"
-desc: "Proto-Semitic *ʿābūr, 'effect, consequence; so that': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ʿābūr, 'effect, consequence; so that': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S68"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | ʿābūr; ba-ʿābūr (OLA80 §59.3) | OLA80 §59.3 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿbr (SD 11; Biella 350, 351) (Sabaweb lemma 8069) | SD 11; Biella 350, 351; Sabaweb lemma 8069 | gloss withheld |
+| Phoenician | bʿbr (T 236); bʿbr (Krahmalkov 109) | T 236; Krahmalkov 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

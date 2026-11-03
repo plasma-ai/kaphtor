@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/D/DU_RA_RE
 title: "DU-RA-RE"
-desc: "durar: freedom, release. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "abstract_noun"]
+desc: "durār: dove, swallow (offering bird). Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "hapax", "noun", "ritual"]
 kind: "word"
 form: "DU-RA-RE"
 datasets: ["lexicon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
-reading: "durar"
+reading: "durār"
 attestations: ["KNZc7"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,29 +31,29 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | durar |
-| Meaning | freedom, release |
+| Reading | durār |
+| Meaning | dove, swallow (offering bird) |
 | Root | d-r-r |
-| Proto-Semitic | \*dVr- (#503) |
-| Language layer | NWS |
-| Category | abstract_noun |
+| Proto-Semitic | \*dVrr- (#2157) |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Akkadian darāru means 'become free, move about freely, run off,' while (an)durāru denotes remission, manumission, or release from imposed service (CAD D, 109, s.v. darāru A; CAD A/2, 115–17, s.v. andurāru). Hebrew dĕrōr denotes liberty or release (HALOT, 230, s.v. III דְּרוֹר). These sources support 'freedom/release,' not 'deliverance' or 'purity.' DU-RA on MA2a and the -RA-RE sequence in QA-\*118-RA-RE (HT96b) are formal comparanda only; neither independently establishes the meaning. On KN Zc 7 its exact syntactic relation to A-KA-NU ZA-TI remains uncertain. See MI-RU-TA-RA-RE.
+KN Zc 7 · A-KA-NU-ZA-TI · DU-RA-RE · A-ZU-RA ·, between 'this bowl' and the Goddess. durār 'dove, swallow': Hebrew dərôr, the bird nesting at the altars (Ps 84:4) and in flight (Prov 26:2; HALOT 230), Deir ʿAlla drr (DNWSI 262), Arabic durrat 'parrot', DU writing the u. The cups lay above the crypt of the dove vase (Evans, PoM I 146, 587); the Knossian Goddess bears a dove and her votary offers one (PoM II 337, 339); doves attend Asherah and Tanit (Dever 2005, 232). Gordon read ḏū-layli 'that of the Night', the night-demon (1966 §§146, 156); night is contracted lēl in the period (EA 243:13; GlOS 2, 20), which Linear A writes with E. Weak point: drr 'bird' has no Bronze Age witness. See MI-RU-TA-RA-RE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | dĕrōr (דְּרוֹר) 'liberty, release' |
-| Akkadian | durāru 'freedom, remission, manumission' |
-| Arabic | darr 'to flow freely' |
+| Hebrew | dərôr (דְּרוֹר) 'a kind of bird, swallow or dove', Ps 84:4, Prov 26:2 (HALOT 230) |
+| Aramaic | Deir ʿAlla drr 'swallow or dove' (DNWSI 262) |
+| Arabic | durrat 'parrot' |
 
 ### Source
 
-di Mino
+di Mino; HALOT; DNWSI; Evans, PoM I–II; Dever 2005; Gordon 1966
 
 ## Attestations
 
@@ -65,6 +65,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZc/KNZc7\|KNZc7]] | durar | freedom; release | PROBABLE |
+| [[wiki/linear-a/inscriptions/KN/KNZc/KNZc7\|KNZc7]] | durār | dove (offering bird) | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -77,7 +77,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | disbursed; rival a heading name | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | heading name, also on HT96b; 'the crosser' (√ʿ-b-r) or 'creator' (√b-r-ʾ); Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | heading name, also on HT96b; 'the crosser' (√ʿ-b-r) or 'creator' (√b-r-ʾ); Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/A/A_star123_TE\|A-\*123-TE]] |  | heading word, in the slot of QA-\*118-RA-RE on HT96b |  | unread |
 | [[wiki/linear-a/words/S/SI_MI_TA\|SI-MI-TA]] | Śīmat | recipient of grain 5; personal name (f.), on √ś-y-m 'to place, fix' (Amorite ŚIJM-AT-UM, Gelb no. 5893); rival Šimʿat | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | grain | grain (logogram) | PROBABLE | PROBABLE (lexicon) |

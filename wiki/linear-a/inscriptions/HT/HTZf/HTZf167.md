@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Metal object"
 period: "LMIB"
 translation: "none"
-words: []
+words: ["*308"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,5 +46,9 @@ Unicode (Linear A block):
 ```text
 𐙜
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/star/star308|\*308]].
 
 <!-- END kaphtor:record -->

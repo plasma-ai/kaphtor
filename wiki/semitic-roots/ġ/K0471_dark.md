@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/K0471_dark
 title: "*ġVmVm-: 'dark'"
-desc: "Proto-Semitic *ġVmVm-, 'dark': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ġVmVm-, 'dark': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0471"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ʿmm (CUC; DULAT 161) | CUC; DULAT 161 | gloss withheld |
 | Judaic Aramaic | ʿmm (HALOT 846) | HALOT 846 | gloss withheld |
 | Geez | ʿamama (LGz. 63) | LGz. 63 |  |
+| Pre-Islamic North Arabian | Safaitic ġm (Al-Jallad 2026, 55) | Al-Jallad 2026 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

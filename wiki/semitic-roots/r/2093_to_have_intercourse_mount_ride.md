@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2093_to_have_intercourse_mount_ride
 title: "*rkb: 'to have intercourse, mount', 'ride'"
-desc: "Proto-Semitic *rkb, 'to have intercourse, mount', 'ride': reflexes in 12 language(s)."
+desc: "Proto-Semitic *rkb, 'to have intercourse, mount', 'ride': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2093"
@@ -42,6 +42,9 @@ updated: 2026-10-22T17:38:31Z
 | Modern South Arabian | Bathari rēkəb (Gasparini - Morris 2025 191 apud SEDonline 897) | SEDonline 897 | gloss withheld |
 | Hebrew | rékeb (Biella 488); rikbâ (HALOT 1235); rākab (Klein s.v. רכב) | Biella 488; HALOT 1235; Klein s.v. רכב | gloss withheld |
 | Eblaitic | /r-k-b/: names ìr-ga-bù, ìr-kab-bù, ìr-kab-ar (Sanmartín GlOS 2, 163) | Sanmartín GlOS 2, 163 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rkbt (Al-Jallad 2026, 123) | Al-Jallad 2026 123 | gloss withheld |
+| Epigraphic South Arabian | rkb (SD 117) | SD 117 | gloss withheld |
+| Aramaic | rkb (DNWSI 1075) | DNWSI 1075 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3725_heap_of_stones_cairn_tumulus
 title: "*wgr: 'heap of stones, cairn; tumulus'"
-desc: "Proto-Semitic *wgr, 'heap of stones, cairn; tumulus': reflexes in 3 language(s)."
+desc: "Proto-Semitic *wgr, 'heap of stones, cairn; tumulus': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3725"
@@ -32,6 +32,7 @@ updated: 2026-10-28T02:25:00Z
 | Epigraphic South Arabian | Sab wgr (Biella 120) | Biella 120 | gloss withheld |
 | Geez | wagr (pl. ʾawgər, ʾawgərāt) (LGz. 608) | LGz. 608 | gloss withheld |
 | Syrian Aramaic | yagrā 'a heap of stones, a barrier' (Payne Smith 186) | Payne Smith 186 |  |
+| Biblical Aramaic | \*yəgar (HALOT 386) | HALOT 386 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

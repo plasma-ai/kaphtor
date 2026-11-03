@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | dkk \[-u-\] (Lane 898) | Lane 898 |  |
 | Akkadian | dakāk- 1, dāk- 2 |  |  |
 | Ugaritic | dk |  |  |
-| Hebrew | hādēk 1 |  |  |
+| Hebrew | hādēk 1; dkʔ pi. 1 (HALOT 221); dakkāʔ 1 (HALOT 221) | HALOT 221 | gloss withheld |
 | Tigre | dakka (HALOT 221) | HALOT 221 | gloss withheld |
 | Jibbali | dekk (JL 37 apud SEDonline 2044) | JL 37; SEDonline 2044 | gloss withheld |
 | Judaic Aramaic | JPA dkk (DJPA 149 apud SEDonline 2044) | DJPA 149; SEDonline 2044 | gloss withheld |

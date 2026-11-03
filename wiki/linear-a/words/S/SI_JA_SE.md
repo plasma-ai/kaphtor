@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_JA_SE
 title: "SI-JA-SE"
 desc: "šī-yāṣē: which goes out (disbursement marker)—relative particle šī + 3ms imperfect √y-ṣ-ʾ \"to go out\". Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "compound", "verb"]
 kind: "word"
 form: "SI-JA-SE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | which goes out (disbursement marker)—relative particle šī + 3ms imperfect √y-ṣ-ʾ "to go out" |
 | Root | y-ṣ-ʾ |
 | Proto-Semitic | \*ša (#3139) + \*wVṣ̂Vʾ- (#K0448) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | accounting, administrative, compound, verb |
 | Semantic field | administrative |
 
 ### Note
 
-Productive suffix on pithos labels: A-NA-NU-SI-JA-SE (HTZb159), KI-TA-NA-SI-JA-SE (PEZb3). Parsed as two-morpheme relative clause: šī (Phoenician-type relative particle, cf. MLK Š-PʿL) + yāṣē (3ms impf. √y-ṣ-ʾ with ʾaleph-III loss, &gt; \*yiṣʾaʾu &gt; yāṣē). Tags commodity nouns as outgoing disbursements. \|\| Structural parallel: Hebrew אשר-יצא (2 Kgs 12:13) uses the identical construction (relative + impf. √y-ṣ-ʾ) in Temple accounting to mark expenditures. Akkadian ṣītu is the standard administrative term for disbursements, contrasted with erēbu/ēribu "income." \|\| Diagnostic value: if SI = š(ī) is the relative particle, Minoan clusters with Canaanite (š-type) rather than Ugaritic/Aramaic (d-type). \|\| Bare yāṣē (without the relative šī) now also read within JA-PA-RA-JA-SE = yapʾara yāṣē (SYZa9, Syme libation vessel): the same morpheme in liturgical register—the libation as "that which goes out." Component broken out as its own JA-SE entry.
+A suffix on pithos labels: A-NA-NU-SI-JA-SE (HT Zb 159), KI-TA-NA-SI-JA-SE (PE Zb 3). Two morphemes, a relative clause: šī, the Phoenician-type relative (cf. MLK Š-PʿL), with yāṣē, the 3ms imperfect of √y-ṣ-ʾ with the third aleph lost (\*yiṣʾaʾu &gt; yāṣē), marking goods as issued. Hebrew Temple accounts use the same construction, אשר-יצא (2 Kgs 12:13), relative with imperfect √y-ṣ-ʾ, for expenditure, and Akkadian ṣītu is the term for disbursements against ēribu 'income'. With SI the relative š(ī), Minoan sides with Canaanite š- against Ugaritic and Aramaic d-. Bare yāṣē stands in JA-PA-RA-JA-SE yapʾara yāṣē (SY Za 9, a Syme libation vessel), the libation as 'that which goes out'; see JA-SE.
 
 ### Cognates
 

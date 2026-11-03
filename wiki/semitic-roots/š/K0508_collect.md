@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šabāšu 'gather' | Anderson–Moser 2024 root šbš |  |
+| Akkadian | šabāšu (AHw 1119) | AHw 1119; Anderson–Moser 2024 root šbš | gloss withheld |
 | Aramaic | ŠBŠ (Aramaic Root Atlas; CAL s.v. šbš#3) | Aramaic Root Atlas; CAL s.v. šbš#3; Anderson–Moser 2024 root šbš | gloss withheld |
 | Ugaritic | šbš 'attract' | Anderson–Moser 2024 root šbš |  |
 

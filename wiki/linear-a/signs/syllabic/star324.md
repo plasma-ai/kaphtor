@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - Linear A has no SO sign (0 SO tokens; Linear B \*12 so has no Linear A form)
-- CH 043 &gt; LA 324 (= 370) / LA 363 (= 364); LA 324 only at Haghia Triada and LA 363/364 only at Zakros, so LA 324 may be a regional variant of either (Ferrara, Montecchi & Valério 2022, 88)
+- CH 043 &gt; LA 324 (=370 ?) / LA 363 (= 364 ?); LA 324 only at Haghia Triada and LA 363/364 only at Zakros, so LA 324 may be a regional variant of either (Ferrara, Montecchi & Valério 2022, 88)
 - LA 363/364 compared with Linear B B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98)
 - \*324-DI-RA = sōdir 'one who sets in order' (√s-d-r; Akk. sadāru, CAD S 11), DI for d: a recipient among names and titles in the HT9a/HT9b wine lists and HT122a; šōṭēr 'officer' would need DI for ṭ
 

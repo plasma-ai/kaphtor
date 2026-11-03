@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3222_together_with
 title: "*ʿimm(-a): 'together with'"
-desc: "Proto-Semitic *ʿimm(-a), 'together with': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʿimm(-a), 'together with': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3222"
@@ -34,6 +34,9 @@ updated: 2026-10-24T15:25:56Z
 | Judaic Aramaic | JPA ʿäm (Kogan 2015, ch. 3 §5.2 no. 6) | Kogan 2015 ch. 3 §5.2 no. 6 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿm, Min ʿm, Qat ʿm-n (Kogan 2015, ch. 3 §5.2 no. 6; Sabaweb lemma 2255) | Kogan 2015 ch. 3 §5.2 no. 6; Sabaweb lemma 2255 | gloss withheld |
 | Arabic | maʿa, ʿinda (Kogan 2015, ch. 3 §5.2 no. 6) | Kogan 2015 ch. 3 §5.2 no. 6 | gloss withheld |
+| Biblical Aramaic | ʿim (HALOT 839) | HALOT 839 | gloss withheld |
+| Punic | N.Pu. ʿmt (T 251) | T 251 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mʿ; Dadanitic mʿ (Al-Jallad–Jaworska 94) | Al-Jallad–Jaworska 94 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

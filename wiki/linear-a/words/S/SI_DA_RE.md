@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/S/SI_DA_RE
 title: "SI-DA-RE"
-desc: "siddāru: personal name, 'Arranger'. Lexicon, SPECULATIVE (tier 1)."
+desc: "Siddāri: personal name, 'Arranger'. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "SI-DA-RE"
@@ -9,7 +9,7 @@ datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "siddāru"
+reading: "Siddāri"
 attestations: ["HT17", "HT122a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,23 +31,23 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | siddāru |
+| Reading | Siddāri |
 | Meaning | personal name, 'Arranger' |
 | Root | s-d-r |
 | Proto-Semitic | \*sadār- (#K0390) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 17: SI-DA-RE 5 after SA-RO 10 under RA-\*164-TI · TE · VIN 38. HT 122a: SI-DA-RE 1 in a roster of men, KU-RO 31. √s-d-r 'to set in order' (Akk. sadāru, Heb. sēder); SI-DA-RO (GO 2r) and JA-SI-DA-RA\[ (PH 7a) are on the same signs. Weak point: the -E. Rival: √s-t-r 'to hide', Heb. Sitrī (Exod 6:22). Two attestations. See \*324-DI-RA.
+HT 17: SI-DA-RE 5 after SA-RO 10 under RA-\*164-TI · TE · VIN 38. HT 122a: SI-DA-RE 1 in a roster of men, KU-RO 31. √s-d-r 'to set in order' (Akk. sadāru, Heb. sēder); SI-DA-RO (GO 2r) and JA-SI-DA-RA\[ (PH 7a) are on the same signs. RE writes the -i of names in -I, as Amorite KAKKAR-I (Gelb 1980, no. 3957); SI-DA-RO has -u. Rival: √s-t-r 'to hide', Heb. Sitrī (Exod 6:22). Two attestations. See \*324-DI-RA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | sadāru 'to do regularly; to be lined up' (CAD S 11) |
+| Akkadian | sadāru 'to array, to set in a row' (CAD S 11) |
 | Hebrew | sēder 'order' (HALOT 744); rival Sitrī (Exod 6:22; HALOT 772) |
 
 ### Source
@@ -65,8 +65,8 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Siddāru | personal name: 'the arranger/steward' (√s-d-r); recurs on HT122a | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | siddāru | personal name ('arranger') | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Siddāri | personal name: 'the arranger/steward' (√s-d-r); recurs on HT122a | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Siddāri | personal name ('arranger') | SPECULATIVE |
 
 ## Onomasticon
 

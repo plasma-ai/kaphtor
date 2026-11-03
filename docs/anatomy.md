@@ -23,8 +23,10 @@ code folders, a `README.md`) that names what it holds; the gate checks it.
   with an unvalued sign is under `star/`.
 - A sign: `wiki/linear-a/signs/{syllabic,logograms,fractions}/`.
 - A Semitic root: `wiki/semitic-roots/<radical>/<id>_<slug>.md`.
-- A dataset: `data/<set>/<name>.json`, with its datasheet beside it as `<name>.md`, or a `MANIFEST.json` for a
-  third-party set.
+- A Pre-Greek word: `wiki/pre-greek/<initial>/<key>.md`, by its folded headword (`α/αξινη.md`); a homograph's `#2`
+  is written `_2`.
+- A dataset: `data/<set>/<name>.json` or `.jsonl`, with its datasheet beside it as `<name>.md` (one datasheet may
+  cover a family of files, as `rival-roots.md` and `semitic_roots.md` do), or a `MANIFEST.json` for a third-party set.
 
 ## Generated pages
 

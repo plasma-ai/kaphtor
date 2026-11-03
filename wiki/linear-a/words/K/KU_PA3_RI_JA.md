@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_PA3_RI_JA
 title: "KU-PA₃-RI-JA"
 desc: "Kubariya: Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "loanword", "toponym", "toponym_foreign"]
 kind: "word"
 form: "KU-PA₃-RI-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -33,8 +33,9 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kubariya |
 | Meaning | Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian' |
-| Language layer | NWS |
-| Category | toponym |
+| Root | Kubariya (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | administrative, hapax, loanword, toponym, toponym_foreign |
 | Semantic field | toponym |
 
 ### Note

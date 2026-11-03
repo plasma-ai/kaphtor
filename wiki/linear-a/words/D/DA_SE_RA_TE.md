@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_SE_RA_TE
 title: "DA-SE-RA-TE"
 desc: "Dašurat: Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old'). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DA-SE-RA-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,9 +35,9 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Dašurat 'Old (f.)' (woman's name; Amorite dašuratum 'old') |
 | Root | d-ṯ-r |
 | Proto-Semitic | \*dṯr (#3774) |
-| Language layer | NWS |
-| Category | personal_name |
-| Semantic field | personnel |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
@@ -68,7 +68,7 @@ di Mino; Gelb 1980; de Boer 2014; Lane
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Syme |
 | Supports | Stone vessel 1 |

@@ -40,10 +40,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 119 .4 JA-\*345 10, a personnel entry after KU-PA₃-NA-TU 7 (GORILA I 203). \*345 has no resolved value. No reading.
 
 ### Co-occurring lexicon words
 

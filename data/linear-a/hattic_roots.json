@@ -1,0 +1,2693 @@
+[
+ {
+  "Number": "4",
+  "Hattic": "alaḫzan",
+  "Consonantal_Root": "alaḫzan",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 274"
+  ]
+ },
+ {
+  "Number": "5",
+  "Hattic": "alep",
+  "Consonantal_Root": "alep",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 274"
+  ]
+ },
+ {
+  "Number": "8",
+  "Hattic": "anna",
+  "Consonantal_Root": "anna",
+  "Category": "particle",
+  "Sources": [
+   "Soysal 2004: 275"
+  ]
+ },
+ {
+  "Number": "13",
+  "Hattic": "ašti",
+  "Consonantal_Root": "ašti",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 275"
+  ]
+ },
+ {
+  "Number": "16",
+  "Hattic": "eštan",
+  "Consonantal_Root": "eštan",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 276"
+  ]
+ },
+ {
+  "Number": "17",
+  "Hattic": "[ḫaipin]",
+  "Consonantal_Root": "ḫaipin",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 276"
+  ]
+ },
+ {
+  "Number": "18",
+  "Hattic": "[ḫaipinamul]",
+  "Consonantal_Root": "ḫaipinamul",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 276"
+  ]
+ },
+ {
+  "Number": "19",
+  "Hattic": "[ḫaipule]",
+  "Consonantal_Root": "ḫaipule",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 276"
+  ]
+ },
+ {
+  "Number": "21",
+  "Hattic": "LÚḫagazuel",
+  "Consonantal_Root": "ḫagazuel",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 277"
+  ]
+ },
+ {
+  "Number": "22",
+  "Hattic": "ḫal",
+  "Consonantal_Root": "ḫal",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 277"
+  ]
+ },
+ {
+  "Number": "24",
+  "Hattic": "ḫalputti",
+  "Consonantal_Root": "ḫalputti",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 277"
+  ]
+ },
+ {
+  "Number": "25",
+  "Hattic": "ḫaluḫalu",
+  "Consonantal_Root": "ḫaluḫalu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 277"
+  ]
+ },
+ {
+  "Number": "26",
+  "Hattic": "ḫamuruwa",
+  "Consonantal_Root": "ḫamuruwa",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 277"
+  ]
+ },
+ {
+  "Number": "27",
+  "Hattic": "ḫan",
+  "Consonantal_Root": "ḫan",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 277"
+  ]
+ },
+ {
+  "Number": "28",
+  "Hattic": "ḫan",
+  "Consonantal_Root": "ḫan",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 278"
+  ]
+ },
+ {
+  "Number": "29",
+  "Hattic": "ḫana",
+  "Consonantal_Root": "ḫana",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 278"
+  ]
+ },
+ {
+  "Number": "32",
+  "Hattic": "ḫanti",
+  "Consonantal_Root": "ḫanti",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 278"
+  ]
+ },
+ {
+  "Number": "33",
+  "Hattic": "LÚḫantipšuwa",
+  "Consonantal_Root": "ḫantipšuwa",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 278"
+  ]
+ },
+ {
+  "Number": "34",
+  "Hattic": "ḫantiu",
+  "Consonantal_Root": "ḫantiu",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 278"
+  ]
+ },
+ {
+  "Number": "36",
+  "Hattic": "ḫapalki",
+  "Consonantal_Root": "ḫapalki",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 278"
+  ]
+ },
+ {
+  "Number": "37",
+  "Hattic": "ḫar",
+  "Consonantal_Root": "ḫar",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 278"
+  ]
+ },
+ {
+  "Number": "38",
+  "Hattic": "ḫarkimaḫ",
+  "Consonantal_Root": "ḫarkimaḫ",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 279"
+  ]
+ },
+ {
+  "Number": "39",
+  "Hattic": "ḫašaḫ",
+  "Consonantal_Root": "ḫašaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 279"
+  ]
+ },
+ {
+  "Number": "42",
+  "Hattic": "((LÚḫatwaₐya))",
+  "Consonantal_Root": "ḫatfaya",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 279"
+  ]
+ },
+ {
+  "Number": "43",
+  "Hattic": "ḫazuwaḫ",
+  "Consonantal_Root": "ḫazuwaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 279"
+  ]
+ },
+ {
+  "Number": "44",
+  "Hattic": "ḫel",
+  "Consonantal_Root": "ḫel",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 279"
+  ]
+ },
+ {
+  "Number": "45",
+  "Hattic": "ḫel",
+  "Consonantal_Root": "ḫel",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 280"
+  ]
+ },
+ {
+  "Number": "46",
+  "Hattic": "ḫer",
+  "Consonantal_Root": "ḫer",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 280"
+  ]
+ },
+ {
+  "Number": "47",
+  "Hattic": "ḫer",
+  "Consonantal_Root": "ḫer",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 280"
+  ]
+ },
+ {
+  "Number": "48",
+  "Hattic": "ḫer",
+  "Consonantal_Root": "ḫer",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 280"
+  ]
+ },
+ {
+  "Number": "49",
+  "Hattic": "ḫermaḫ",
+  "Consonantal_Root": "ḫermaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 280"
+  ]
+ },
+ {
+  "Number": "50",
+  "Hattic": "ḫikkirmaḫ",
+  "Consonantal_Root": "ḫikkirmaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 280"
+  ]
+ },
+ {
+  "Number": "53",
+  "Hattic": "ḫuḫḫupalli",
+  "Consonantal_Root": "ḫuḫḫupalli",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 281"
+  ]
+ },
+ {
+  "Number": "54",
+  "Hattic": "ḫukur",
+  "Consonantal_Root": "ḫukur",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 281"
+  ]
+ },
+ {
+  "Number": "55",
+  "Hattic": "ḫul",
+  "Consonantal_Root": "ḫul",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 281"
+  ]
+ },
+ {
+  "Number": "56",
+  "Hattic": "ḫunzinar",
+  "Consonantal_Root": "ḫunzinar",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 281"
+  ]
+ },
+ {
+  "Number": "57",
+  "Hattic": "ḫur",
+  "Consonantal_Root": "ḫur",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 281"
+  ]
+ },
+ {
+  "Number": "59",
+  "Hattic": "ḫuru",
+  "Consonantal_Root": "ḫuru",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 281"
+  ]
+ },
+ {
+  "Number": "60",
+  "Hattic": "ḫuš",
+  "Consonantal_Root": "ḫuš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 282"
+  ]
+ },
+ {
+  "Number": "61",
+  "Hattic": "ḫud",
+  "Consonantal_Root": "ḫud",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 282"
+  ]
+ },
+ {
+  "Number": "62",
+  "Hattic": "ḫuzzaššai(l)",
+  "Consonantal_Root": "ḫuzzaššail",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 282"
+  ]
+ },
+ {
+  "Number": "63",
+  "Hattic": "ḫuzzi",
+  "Consonantal_Root": "ḫuzzi",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 282"
+  ]
+ },
+ {
+  "Number": "64",
+  "Hattic": "iyara",
+  "Consonantal_Root": "iyara",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 282"
+  ]
+ },
+ {
+  "Number": "66",
+  "Hattic": "imallen",
+  "Consonantal_Root": "imallen",
+  "Category": "particle",
+  "Sources": [
+   "Soysal 2004: 282"
+  ]
+ },
+ {
+  "Number": "67",
+  "Hattic": "inta",
+  "Consonantal_Root": "inta",
+  "Category": "particle",
+  "Sources": [
+   "Soysal 2004: 282"
+  ]
+ },
+ {
+  "Number": "68",
+  "Hattic": "ippizinar",
+  "Consonantal_Root": "ippizinar",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 283"
+  ]
+ },
+ {
+  "Number": "69",
+  "Hattic": "išpel",
+  "Consonantal_Root": "išpel",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 283"
+  ]
+ },
+ {
+  "Number": "70",
+  "Hattic": "ištarrazil",
+  "Consonantal_Root": "ištarrazil",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 283"
+  ]
+ },
+ {
+  "Number": "72",
+  "Hattic": "izzi",
+  "Consonantal_Root": "izzi",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 283"
+  ]
+ },
+ {
+  "Number": "74",
+  "Hattic": "yaḫ",
+  "Consonantal_Root": "yaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 284"
+  ]
+ },
+ {
+  "Number": "75",
+  "Hattic": "yaḫšul",
+  "Consonantal_Root": "yaḫšul",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 284"
+  ]
+ },
+ {
+  "Number": "76",
+  "Hattic": "yay",
+  "Consonantal_Root": "yay",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 284"
+  ]
+ },
+ {
+  "Number": "77",
+  "Hattic": "kaiš",
+  "Consonantal_Root": "kaiš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 284"
+  ]
+ },
+ {
+  "Number": "78",
+  "Hattic": "kait",
+  "Consonantal_Root": "kait",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 284"
+  ]
+ },
+ {
+  "Number": "80",
+  "Hattic": "kap",
+  "Consonantal_Root": "kap",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 285"
+  ]
+ },
+ {
+  "Number": "81",
+  "Hattic": "karam",
+  "Consonantal_Root": "karam",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 285"
+  ]
+ },
+ {
+  "Number": "82",
+  "Hattic": "karat",
+  "Consonantal_Root": "karat",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 285"
+  ]
+ },
+ {
+  "Number": "83",
+  "Hattic": "karkar",
+  "Consonantal_Root": "karkar",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 285"
+  ]
+ },
+ {
+  "Number": "84",
+  "Hattic": "kaš",
+  "Consonantal_Root": "kaš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 286"
+  ]
+ },
+ {
+  "Number": "85",
+  "Hattic": "kaš",
+  "Consonantal_Root": "kaš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 286"
+  ]
+ },
+ {
+  "Number": "86",
+  "Hattic": "(D) Kašku",
+  "Consonantal_Root": "kašku",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 286"
+  ]
+ },
+ {
+  "Number": "87",
+  "Hattic": "kašmiša",
+  "Consonantal_Root": "kašmiša",
+  "Category": "interjection",
+  "Sources": [
+   "Soysal 2004: 286"
+  ]
+ },
+ {
+  "Number": "88",
+  "Hattic": "kašbaruyaḫ",
+  "Consonantal_Root": "kašbaruyaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 286"
+  ]
+ },
+ {
+  "Number": "89",
+  "Hattic": "[kaštip]",
+  "Consonantal_Root": "kaštip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 286"
+  ]
+ },
+ {
+  "Number": "91",
+  "Hattic": "kattaḫ",
+  "Consonantal_Root": "kattaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 286"
+  ]
+ },
+ {
+  "Number": "93",
+  "Hattic": "katakumi",
+  "Consonantal_Root": "katakumi",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 287"
+  ]
+ },
+ {
+  "Number": "94",
+  "Hattic": "[kataral]",
+  "Consonantal_Root": "kataral",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 287"
+  ]
+ },
+ {
+  "Number": "95",
+  "Hattic": "katte",
+  "Consonantal_Root": "katte",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 287"
+  ]
+ },
+ {
+  "Number": "97",
+  "Hattic": "kazza",
+  "Consonantal_Root": "kazza",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 288"
+  ]
+ },
+ {
+  "Number": "98",
+  "Hattic": "kazue",
+  "Consonantal_Root": "kazue",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 288"
+  ]
+ },
+ {
+  "Number": "99",
+  "Hattic": "LÚkiluḫ",
+  "Consonantal_Root": "kiluḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 288"
+  ]
+ },
+ {
+  "Number": "100",
+  "Hattic": "kimut",
+  "Consonantal_Root": "kimut",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 288"
+  ]
+ },
+ {
+  "Number": "101",
+  "Hattic": "kinawar",
+  "Consonantal_Root": "kinawar",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 288"
+  ]
+ },
+ {
+  "Number": "102",
+  "Hattic": "kip",
+  "Consonantal_Root": "kip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 288"
+  ]
+ },
+ {
+  "Number": "103",
+  "Hattic": "kip",
+  "Consonantal_Root": "kip",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 288"
+  ]
+ },
+ {
+  "Number": "104",
+  "Hattic": "[kitat]",
+  "Consonantal_Root": "kitat",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 289"
+  ]
+ },
+ {
+  "Number": "105",
+  "Hattic": "[gizeḫ]",
+  "Consonantal_Root": "gizeḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 289"
+  ]
+ },
+ {
+  "Number": "107",
+  "Hattic": "kuelzip",
+  "Consonantal_Root": "kuelzip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 289"
+  ]
+ },
+ {
+  "Number": "108",
+  "Hattic": "kuḫ",
+  "Consonantal_Root": "kuḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 289"
+  ]
+ },
+ {
+  "Number": "109",
+  "Hattic": "kuḫi",
+  "Consonantal_Root": "kuḫi",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 289"
+  ]
+ },
+ {
+  "Number": "110",
+  "Hattic": "kukkaš",
+  "Consonantal_Root": "kukkaš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 290"
+  ]
+ },
+ {
+  "Number": "111",
+  "Hattic": "kukku",
+  "Consonantal_Root": "kukku",
+  "Category": "word",
+  "Sources": [
+   "Soysal 2004: 290"
+  ]
+ },
+ {
+  "Number": "112",
+  "Hattic": "kulip",
+  "Consonantal_Root": "kulip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 290"
+  ]
+ },
+ {
+  "Number": "113",
+  "Hattic": "kun",
+  "Consonantal_Root": "kun",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 290"
+  ]
+ },
+ {
+  "Number": "114",
+  "Hattic": "kun",
+  "Consonantal_Root": "kun",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 290"
+  ]
+ },
+ {
+  "Number": "115",
+  "Hattic": "kunel",
+  "Consonantal_Root": "kunel",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 290"
+  ]
+ },
+ {
+  "Number": "116",
+  "Hattic": "kunkuḫu",
+  "Consonantal_Root": "kunkuḫu",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 290"
+  ]
+ },
+ {
+  "Number": "117",
+  "Hattic": "kup",
+  "Consonantal_Root": "kup",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 291"
+  ]
+ },
+ {
+  "Number": "118",
+  "Hattic": "kur",
+  "Consonantal_Root": "kur",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 291"
+  ]
+ },
+ {
+  "Number": "119",
+  "Hattic": "kur",
+  "Consonantal_Root": "kur",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 291"
+  ]
+ },
+ {
+  "Number": "120",
+  "Hattic": "kuraiti",
+  "Consonantal_Root": "kuraiti",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 291"
+  ]
+ },
+ {
+  "Number": "121",
+  "Hattic": "kurkupal",
+  "Consonantal_Root": "kurkupal",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 291"
+  ]
+ },
+ {
+  "Number": "122",
+  "Hattic": "kurkupenna",
+  "Consonantal_Root": "kurkupenna",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 291"
+  ]
+ },
+ {
+  "Number": "123",
+  "Hattic": "kurtapi",
+  "Consonantal_Root": "kurtapi",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 291"
+  ]
+ },
+ {
+  "Number": "124",
+  "Hattic": "kusim",
+  "Consonantal_Root": "kusim",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 292"
+  ]
+ },
+ {
+  "Number": "125",
+  "Hattic": "kut",
+  "Consonantal_Root": "kut",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 292"
+  ]
+ },
+ {
+  "Number": "126",
+  "Hattic": "kuzan",
+  "Consonantal_Root": "kuzan",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 292"
+  ]
+ },
+ {
+  "Number": "127",
+  "Hattic": "lama",
+  "Consonantal_Root": "lama",
+  "Category": "particle",
+  "Sources": [
+   "Soysal 2004: 292"
+  ]
+ },
+ {
+  "Number": "129",
+  "Hattic": "*leliyaḫ",
+  "Consonantal_Root": "leliyaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 292"
+  ]
+ },
+ {
+  "Number": "130",
+  "Hattic": "*lianu?",
+  "Consonantal_Root": "lianu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 292"
+  ]
+ },
+ {
+  "Number": "131",
+  "Hattic": "lin",
+  "Consonantal_Root": "lin",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 293"
+  ]
+ },
+ {
+  "Number": "132",
+  "Hattic": "liš",
+  "Consonantal_Root": "liš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 293"
+  ]
+ },
+ {
+  "Number": "133",
+  "Hattic": "liš",
+  "Consonantal_Root": "liš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 293"
+  ]
+ },
+ {
+  "Number": "135",
+  "Hattic": "LÚluizzil",
+  "Consonantal_Root": "luizzil",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 293"
+  ]
+ },
+ {
+  "Number": "136",
+  "Hattic": "lul",
+  "Consonantal_Root": "lul",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 293"
+  ]
+ },
+ {
+  "Number": "137",
+  "Hattic": "lumul",
+  "Consonantal_Root": "lumul",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 293"
+  ]
+ },
+ {
+  "Number": "140",
+  "Hattic": "malḫip",
+  "Consonantal_Root": "malḫip",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 294"
+  ]
+ },
+ {
+  "Number": "141",
+  "Hattic": "mane",
+  "Consonantal_Root": "mane",
+  "Category": "particle",
+  "Sources": [
+   "Soysal 2004: 294"
+  ]
+ },
+ {
+  "Number": "142",
+  "Hattic": "mar",
+  "Consonantal_Root": "mar",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 294"
+  ]
+ },
+ {
+  "Number": "143",
+  "Hattic": "LÚ maššel",
+  "Consonantal_Root": "maššel",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 294"
+  ]
+ },
+ {
+  "Number": "144",
+  "Hattic": "meme(n)",
+  "Consonantal_Root": "memen",
+  "Category": "interjection",
+  "Sources": [
+   "Soysal 2004: 294"
+  ]
+ },
+ {
+  "Number": "145",
+  "Hattic": "[milup]",
+  "Consonantal_Root": "milup",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 294"
+  ]
+ },
+ {
+  "Number": "146",
+  "Hattic": "minzu",
+  "Consonantal_Root": "minzu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 295"
+  ]
+ },
+ {
+  "Number": "147",
+  "Hattic": "miš",
+  "Consonantal_Root": "miš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 295"
+  ]
+ },
+ {
+  "Number": "148",
+  "Hattic": "miša",
+  "Consonantal_Root": "miša",
+  "Category": "interjection",
+  "Sources": [
+   "Soysal 2004: 295"
+  ]
+ },
+ {
+  "Number": "149",
+  "Hattic": "mišaruna",
+  "Consonantal_Root": "mišaruna",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 295"
+  ]
+ },
+ {
+  "Number": "152",
+  "Hattic": "muḫa",
+  "Consonantal_Root": "muḫa",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 295"
+  ]
+ },
+ {
+  "Number": "153",
+  "Hattic": "mumun",
+  "Consonantal_Root": "mumun",
+  "Category": "interjection",
+  "Sources": [
+   "Soysal 2004: 295"
+  ]
+ },
+ {
+  "Number": "154",
+  "Hattic": "muna",
+  "Consonantal_Root": "muna",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 296"
+  ]
+ },
+ {
+  "Number": "155",
+  "Hattic": "muš",
+  "Consonantal_Root": "muš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 296"
+  ]
+ },
+ {
+  "Number": "156",
+  "Hattic": "naḫ",
+  "Consonantal_Root": "naḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 296"
+  ]
+ },
+ {
+  "Number": "157",
+  "Hattic": "naḫ",
+  "Consonantal_Root": "naḫ",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 296"
+  ]
+ },
+ {
+  "Number": "158",
+  "Hattic": "nimaḫ",
+  "Consonantal_Root": "nimaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 296"
+  ]
+ },
+ {
+  "Number": "159",
+  "Hattic": "nimḫut",
+  "Consonantal_Root": "nimḫut",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 296"
+  ]
+ },
+ {
+  "Number": "161",
+  "Hattic": "niw",
+  "Consonantal_Root": "niw",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 297"
+  ]
+ },
+ {
+  "Number": "162",
+  "Hattic": "ntel",
+  "Consonantal_Root": "ntel",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 297"
+  ]
+ },
+ {
+  "Number": "163",
+  "Hattic": "nti",
+  "Consonantal_Root": "nti",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 297"
+  ]
+ },
+ {
+  "Number": "165",
+  "Hattic": "nuḫ",
+  "Consonantal_Root": "nuḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 298"
+  ]
+ },
+ {
+  "Number": "166",
+  "Hattic": "nuš",
+  "Consonantal_Root": "nuš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 298"
+  ]
+ },
+ {
+  "Number": "167",
+  "Hattic": "*nziš",
+  "Consonantal_Root": "nziš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 298"
+  ]
+ },
+ {
+  "Number": "169",
+  "Hattic": "pakkupaku",
+  "Consonantal_Root": "pakkupaku",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 298"
+  ]
+ },
+ {
+  "Number": "170",
+  "Hattic": "pala",
+  "Consonantal_Root": "pala",
+  "Category": "particle",
+  "Sources": [
+   "Soysal 2004: 299"
+  ]
+ },
+ {
+  "Number": "171",
+  "Hattic": "pama",
+  "Consonantal_Root": "pama",
+  "Category": "particle",
+  "Sources": [
+   "Soysal 2004: 299"
+  ]
+ },
+ {
+  "Number": "172",
+  "Hattic": "par",
+  "Consonantal_Root": "par",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 299"
+  ]
+ },
+ {
+  "Number": "173",
+  "Hattic": "paraya",
+  "Consonantal_Root": "paraya",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 299"
+  ]
+ },
+ {
+  "Number": "174",
+  "Hattic": "p(a)raš",
+  "Consonantal_Root": "paraš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 299"
+  ]
+ },
+ {
+  "Number": "175",
+  "Hattic": "parašni",
+  "Consonantal_Root": "parašni",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 299"
+  ]
+ },
+ {
+  "Number": "176",
+  "Hattic": "paril",
+  "Consonantal_Root": "paril",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 299"
+  ]
+ },
+ {
+  "Number": "177",
+  "Hattic": "parnulli",
+  "Consonantal_Root": "parnulli",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 300"
+  ]
+ },
+ {
+  "Number": "178",
+  "Hattic": "parningaš",
+  "Consonantal_Root": "parningaš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 300"
+  ]
+ },
+ {
+  "Number": "180",
+  "Hattic": "paštae",
+  "Consonantal_Root": "paštae",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 300"
+  ]
+ },
+ {
+  "Number": "181",
+  "Hattic": "pašun",
+  "Consonantal_Root": "pašun",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 300"
+  ]
+ },
+ {
+  "Number": "182",
+  "Hattic": "pezil",
+  "Consonantal_Root": "pezil",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 300"
+  ]
+ },
+ {
+  "Number": "184",
+  "Hattic": "pin",
+  "Consonantal_Root": "pin",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 301"
+  ]
+ },
+ {
+  "Number": "185",
+  "Hattic": "pip",
+  "Consonantal_Root": "pip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 301"
+  ]
+ },
+ {
+  "Number": "186",
+  "Hattic": "pir",
+  "Consonantal_Root": "pir",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 301"
+  ]
+ },
+ {
+  "Number": "187",
+  "Hattic": "piš",
+  "Consonantal_Root": "piš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 302"
+  ]
+ },
+ {
+  "Number": "188",
+  "Hattic": "pit",
+  "Consonantal_Root": "pit",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 302"
+  ]
+ },
+ {
+  "Number": "189",
+  "Hattic": "piuḫ",
+  "Consonantal_Root": "piuḫ",
+  "Category": "interjection",
+  "Sources": [
+   "Soysal 2004: 302"
+  ]
+ },
+ {
+  "Number": "190",
+  "Hattic": "pizzi",
+  "Consonantal_Root": "pizzi",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 302"
+  ]
+ },
+ {
+  "Number": "191",
+  "Hattic": "pnu",
+  "Consonantal_Root": "pnu",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 302"
+  ]
+ },
+ {
+  "Number": "193",
+  "Hattic": "pulašne",
+  "Consonantal_Root": "pulašne",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 303"
+  ]
+ },
+ {
+  "Number": "194",
+  "Hattic": "pule",
+  "Consonantal_Root": "pule",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 303"
+  ]
+ },
+ {
+  "Number": "195",
+  "Hattic": "puluku",
+  "Consonantal_Root": "puluku",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 303"
+  ]
+ },
+ {
+  "Number": "196",
+  "Hattic": "pulup",
+  "Consonantal_Root": "pulup",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 303"
+  ]
+ },
+ {
+  "Number": "197",
+  "Hattic": "pun",
+  "Consonantal_Root": "pun",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 303"
+  ]
+ },
+ {
+  "Number": "198",
+  "Hattic": "punamul",
+  "Consonantal_Root": "punamul",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 303"
+  ]
+ },
+ {
+  "Number": "199",
+  "Hattic": "pupišet",
+  "Consonantal_Root": "pupišet",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 303"
+  ]
+ },
+ {
+  "Number": "200",
+  "Hattic": "puš",
+  "Consonantal_Root": "puš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 304"
+  ]
+ },
+ {
+  "Number": "201",
+  "Hattic": "pušan",
+  "Consonantal_Root": "pušan",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 304"
+  ]
+ },
+ {
+  "Number": "202",
+  "Hattic": "put",
+  "Consonantal_Root": "put",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 304"
+  ]
+ },
+ {
+  "Number": "203",
+  "Hattic": "putu",
+  "Consonantal_Root": "putu",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 304"
+  ]
+ },
+ {
+  "Number": "204",
+  "Hattic": "puzel",
+  "Consonantal_Root": "puzel",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 304"
+  ]
+ },
+ {
+  "Number": "205",
+  "Hattic": "šaḫ",
+  "Consonantal_Root": "šaḫ",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 305"
+  ]
+ },
+ {
+  "Number": "206",
+  "Hattic": "*šaḫap",
+  "Consonantal_Root": "šaḫap",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 305"
+  ]
+ },
+ {
+  "Number": "207",
+  "Hattic": "šaḫiš",
+  "Consonantal_Root": "šaḫiš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 306"
+  ]
+ },
+ {
+  "Number": "208",
+  "Hattic": "šaḫḫu",
+  "Consonantal_Root": "šaḫḫu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 306"
+  ]
+ },
+ {
+  "Number": "209",
+  "Hattic": "LÚ šaḫtaril",
+  "Consonantal_Root": "šaḫtaril",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 306"
+  ]
+ },
+ {
+  "Number": "210",
+  "Hattic": "šail",
+  "Consonantal_Root": "šail",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 306"
+  ]
+ },
+ {
+  "Number": "211",
+  "Hattic": "[šaip]",
+  "Consonantal_Root": "šaip",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 306"
+  ]
+ },
+ {
+  "Number": "213",
+  "Hattic": "šakil",
+  "Consonantal_Root": "šakil",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 306"
+  ]
+ },
+ {
+  "Number": "214",
+  "Hattic": "[šalel]",
+  "Consonantal_Root": "šalel",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 307"
+  ]
+ },
+ {
+  "Number": "215",
+  "Hattic": "šam",
+  "Consonantal_Root": "šam",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 307"
+  ]
+ },
+ {
+  "Number": "217",
+  "Hattic": "šašip",
+  "Consonantal_Root": "šašip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 307"
+  ]
+ },
+ {
+  "Number": "218",
+  "Hattic": "[šawaₐt]",
+  "Consonantal_Root": "šafat",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 307"
+  ]
+ },
+ {
+  "Number": "219",
+  "Hattic": "šep",
+  "Consonantal_Root": "šep",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 307"
+  ]
+ },
+ {
+  "Number": "220",
+  "Hattic": "šet",
+  "Consonantal_Root": "šet",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 307"
+  ]
+ },
+ {
+  "Number": "221",
+  "Hattic": "šezzit",
+  "Consonantal_Root": "šezzit",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "222",
+  "Hattic": "*šḫezni",
+  "Consonantal_Root": "šḫezni",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "223",
+  "Hattic": "šiyawi",
+  "Consonantal_Root": "šiyawi",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "224",
+  "Hattic": "šim",
+  "Consonantal_Root": "šim",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "225",
+  "Hattic": "šim",
+  "Consonantal_Root": "šim",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "226",
+  "Hattic": "šin",
+  "Consonantal_Root": "šin",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "227",
+  "Hattic": "šin",
+  "Consonantal_Root": "šin",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "228",
+  "Hattic": "šip",
+  "Consonantal_Root": "šip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 308"
+  ]
+ },
+ {
+  "Number": "229",
+  "Hattic": "šuḫ",
+  "Consonantal_Root": "šuḫ",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 309"
+  ]
+ },
+ {
+  "Number": "230",
+  "Hattic": "šul",
+  "Consonantal_Root": "šul",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 309"
+  ]
+ },
+ {
+  "Number": "232",
+  "Hattic": "šup",
+  "Consonantal_Root": "šup",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 310"
+  ]
+ },
+ {
+  "Number": "233",
+  "Hattic": "taḫaya",
+  "Consonantal_Root": "taḫaya",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 310"
+  ]
+ },
+ {
+  "Number": "235",
+  "Hattic": "[taḫawaₐiušni]",
+  "Consonantal_Root": "taḫafaiušni",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 310"
+  ]
+ },
+ {
+  "Number": "236",
+  "Hattic": "((taḫuštama))",
+  "Consonantal_Root": "taḫuštama",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 310"
+  ]
+ },
+ {
+  "Number": "237",
+  "Hattic": "takeḫa",
+  "Consonantal_Root": "takeḫa",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 310"
+  ]
+ },
+ {
+  "Number": "238",
+  "Hattic": "takeḫal",
+  "Consonantal_Root": "takeḫal",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 311"
+  ]
+ },
+ {
+  "Number": "239",
+  "Hattic": "takeḫat",
+  "Consonantal_Root": "takeḫat",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 311"
+  ]
+ },
+ {
+  "Number": "240",
+  "Hattic": "LÚ dagulrunail",
+  "Consonantal_Root": "dagulrunail",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 311"
+  ]
+ },
+ {
+  "Number": "241",
+  "Hattic": "takušza",
+  "Consonantal_Root": "takušza",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 311"
+  ]
+ },
+ {
+  "Number": "242",
+  "Hattic": "talwiᵢt",
+  "Consonantal_Root": "talfit",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 311"
+  ]
+ },
+ {
+  "Number": "243",
+  "Hattic": "LÚ tanišawa",
+  "Consonantal_Root": "tanišawa",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 311"
+  ]
+ },
+ {
+  "Number": "244",
+  "Hattic": "(I) Tabarna",
+  "Consonantal_Root": "tabarna",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 311"
+  ]
+ },
+ {
+  "Number": "246",
+  "Hattic": "tar",
+  "Consonantal_Root": "tar",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 312"
+  ]
+ },
+ {
+  "Number": "247",
+  "Hattic": "tariš",
+  "Consonantal_Root": "tariš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 312"
+  ]
+ },
+ {
+  "Number": "248",
+  "Hattic": "taša",
+  "Consonantal_Root": "taša",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 312"
+  ]
+ },
+ {
+  "Number": "249",
+  "Hattic": "[tataet]",
+  "Consonantal_Root": "tataet",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 312"
+  ]
+ },
+ {
+  "Number": "250",
+  "Hattic": "tauwaa",
+  "Consonantal_Root": "taufa",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 312"
+  ]
+ },
+ {
+  "Number": "251",
+  "Hattic": "(MUNUS) Tawananna",
+  "Consonantal_Root": "tawananna",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 312"
+  ]
+ },
+ {
+  "Number": "252",
+  "Hattic": "[taziyaḫdu]",
+  "Consonantal_Root": "taziyaḫdu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 313"
+  ]
+ },
+ {
+  "Number": "253",
+  "Hattic": "[tazuḫašti]",
+  "Consonantal_Root": "tazuḫašti",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 313"
+  ]
+ },
+ {
+  "Number": "255",
+  "Hattic": "teatanna",
+  "Consonantal_Root": "teatanna",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 313"
+  ]
+ },
+ {
+  "Number": "256",
+  "Hattic": "teḫ",
+  "Consonantal_Root": "teḫ",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 313"
+  ]
+ },
+ {
+  "Number": "257",
+  "Hattic": "teli",
+  "Consonantal_Root": "teli",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 313"
+  ]
+ },
+ {
+  "Number": "259",
+  "Hattic": "tep",
+  "Consonantal_Root": "tep",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 313"
+  ]
+ },
+ {
+  "Number": "260",
+  "Hattic": "tepušne",
+  "Consonantal_Root": "tepušne",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 314"
+  ]
+ },
+ {
+  "Number": "261",
+  "Hattic": "teraḫ",
+  "Consonantal_Root": "teraḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 314"
+  ]
+ },
+ {
+  "Number": "262",
+  "Hattic": "tete",
+  "Consonantal_Root": "tete",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 314"
+  ]
+ },
+ {
+  "Number": "263",
+  "Hattic": "tetekuzzan",
+  "Consonantal_Root": "tetekuzzan",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 314"
+  ]
+ },
+ {
+  "Number": "265",
+  "Hattic": "tetimu",
+  "Consonantal_Root": "tetimu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 314"
+  ]
+ },
+ {
+  "Number": "267",
+  "Hattic": "til",
+  "Consonantal_Root": "til",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 315"
+  ]
+ },
+ {
+  "Number": "268",
+  "Hattic": "*tip",
+  "Consonantal_Root": "tip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 315"
+  ]
+ },
+ {
+  "Number": "269",
+  "Hattic": "tit",
+  "Consonantal_Root": "tit",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 315"
+  ]
+ },
+ {
+  "Number": "270",
+  "Hattic": "*tittaḫ",
+  "Consonantal_Root": "tittaḫ",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 315"
+  ]
+ },
+ {
+  "Number": "271",
+  "Hattic": "tittaḫzilat",
+  "Consonantal_Root": "tittaḫzilat",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 315"
+  ]
+ },
+ {
+  "Number": "272",
+  "Hattic": "tiuz",
+  "Consonantal_Root": "tiuz",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 315"
+  ]
+ },
+ {
+  "Number": "274",
+  "Hattic": "tuḫ",
+  "Consonantal_Root": "tuḫ",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 316"
+  ]
+ },
+ {
+  "Number": "275",
+  "Hattic": "duḫan",
+  "Consonantal_Root": "duḫan",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 316"
+  ]
+ },
+ {
+  "Number": "276",
+  "Hattic": "((tuḫkanti))",
+  "Consonantal_Root": "tuḫkanti",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 316"
+  ]
+ },
+ {
+  "Number": "277",
+  "Hattic": "[tuḫul]",
+  "Consonantal_Root": "tuḫul",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 316"
+  ]
+ },
+ {
+  "Number": "278",
+  "Hattic": "tuk",
+  "Consonantal_Root": "tuk",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 316"
+  ]
+ },
+ {
+  "Number": "279",
+  "Hattic": "tumil",
+  "Consonantal_Root": "tumil",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 316"
+  ]
+ },
+ {
+  "Number": "280",
+  "Hattic": "tun",
+  "Consonantal_Root": "tun",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "281",
+  "Hattic": "tunip",
+  "Consonantal_Root": "tunip",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "282",
+  "Hattic": "dundu",
+  "Consonantal_Root": "dundu",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "283",
+  "Hattic": "tup",
+  "Consonantal_Root": "tup",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "284",
+  "Hattic": "tup",
+  "Consonantal_Root": "tup",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "285",
+  "Hattic": "tupi",
+  "Consonantal_Root": "tupi",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "286",
+  "Hattic": "tur",
+  "Consonantal_Root": "tur",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "287",
+  "Hattic": "tuš",
+  "Consonantal_Root": "tuš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 317"
+  ]
+ },
+ {
+  "Number": "288",
+  "Hattic": "tuš",
+  "Consonantal_Root": "tuš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 318"
+  ]
+ },
+ {
+  "Number": "289",
+  "Hattic": "LÚ tušḫawaadun tanišawe",
+  "Consonantal_Root": "tušḫafaduntanišawe",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 318"
+  ]
+ },
+ {
+  "Number": "290",
+  "Hattic": "LÚ duddušḫiyal",
+  "Consonantal_Root": "duddušḫiyal",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 318"
+  ]
+ },
+ {
+  "Number": "291",
+  "Hattic": "[tuwaḫši]",
+  "Consonantal_Root": "tuwaḫši",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 318"
+  ]
+ },
+ {
+  "Number": "292",
+  "Hattic": "tuweentu",
+  "Consonantal_Root": "tufentu",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 318"
+  ]
+ },
+ {
+  "Number": "294",
+  "Hattic": "* ubala",
+  "Consonantal_Root": "ubala",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 318"
+  ]
+ },
+ {
+  "Number": "296",
+  "Hattic": "urana",
+  "Consonantal_Root": "urana",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 319"
+  ]
+ },
+ {
+  "Number": "298",
+  "Hattic": "uret",
+  "Consonantal_Root": "uret",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 319"
+  ]
+ },
+ {
+  "Number": "299",
+  "Hattic": "uril",
+  "Consonantal_Root": "uril",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 319"
+  ]
+ },
+ {
+  "Number": "300",
+  "Hattic": "uruwii",
+  "Consonantal_Root": "urufi",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 319"
+  ]
+ },
+ {
+  "Number": "301",
+  "Hattic": "utḫuru",
+  "Consonantal_Root": "utḫuru",
+  "Category": "interjection",
+  "Sources": [
+   "Soysal 2004: 319"
+  ]
+ },
+ {
+  "Number": "303",
+  "Hattic": "waael",
+  "Consonantal_Root": "fael",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 320"
+  ]
+ },
+ {
+  "Number": "304",
+  "Hattic": "waaḫa",
+  "Consonantal_Root": "faḫa",
+  "Category": "interjection",
+  "Sources": [
+   "Soysal 2004: 320"
+  ]
+ },
+ {
+  "Number": "306",
+  "Hattic": "waaku",
+  "Consonantal_Root": "faku",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 320"
+  ]
+ },
+ {
+  "Number": "307",
+  "Hattic": "waalwaal",
+  "Consonantal_Root": "falfal",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "308",
+  "Hattic": "waalwaal",
+  "Consonantal_Root": "falfal",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "309",
+  "Hattic": "wapaḫ",
+  "Consonantal_Root": "wapaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "310",
+  "Hattic": "wapaḫšul",
+  "Consonantal_Root": "wapaḫšul",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "311",
+  "Hattic": "waappaya",
+  "Consonantal_Root": "fappaya",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "312",
+  "Hattic": "[waapušne]",
+  "Consonantal_Root": "fapušne",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "313",
+  "Hattic": "warak",
+  "Consonantal_Root": "warak",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "314",
+  "Hattic": "waaril",
+  "Consonantal_Root": "faril",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 321"
+  ]
+ },
+ {
+  "Number": "315",
+  "Hattic": "waaš",
+  "Consonantal_Root": "faš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 322"
+  ]
+ },
+ {
+  "Number": "316",
+  "Hattic": "waašaḫ",
+  "Consonantal_Root": "fašaḫ",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 322"
+  ]
+ },
+ {
+  "Number": "317",
+  "Hattic": "waašḫap",
+  "Consonantal_Root": "fašḫap",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 322"
+  ]
+ },
+ {
+  "Number": "318",
+  "Hattic": "waašnu",
+  "Consonantal_Root": "fašnu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 322"
+  ]
+ },
+ {
+  "Number": "319",
+  "Hattic": "DWaašul",
+  "Consonantal_Root": "fašul",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 322"
+  ]
+ },
+ {
+  "Number": "320",
+  "Hattic": "waazarel",
+  "Consonantal_Root": "fazarel",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 323"
+  ]
+ },
+ {
+  "Number": "321",
+  "Hattic": "wet",
+  "Consonantal_Root": "wet",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 323"
+  ]
+ },
+ {
+  "Number": "322",
+  "Hattic": "wil",
+  "Consonantal_Root": "wil",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 323"
+  ]
+ },
+ {
+  "Number": "323",
+  "Hattic": "LÚwiᵢndukkaram",
+  "Consonantal_Root": "findukkaram",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 324"
+  ]
+ },
+ {
+  "Number": "324",
+  "Hattic": "witanu",
+  "Consonantal_Root": "witanu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 324"
+  ]
+ },
+ {
+  "Number": "325",
+  "Hattic": "wuuḫnetini",
+  "Consonantal_Root": "fuḫnetini",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 324"
+  ]
+ },
+ {
+  "Number": "326",
+  "Hattic": "wuul",
+  "Consonantal_Root": "ful",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 324"
+  ]
+ },
+ {
+  "Number": "327",
+  "Hattic": "wuur",
+  "Consonantal_Root": "fur",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 324"
+  ]
+ },
+ {
+  "Number": "328",
+  "Hattic": "(D) Wuᵤrunkatte",
+  "Consonantal_Root": "furunkatte",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 325"
+  ]
+ },
+ {
+  "Number": "330",
+  "Hattic": "wuᵤši",
+  "Consonantal_Root": "fuši",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 325"
+  ]
+ },
+ {
+  "Number": "331",
+  "Hattic": "wuᵤte",
+  "Consonantal_Root": "fute",
+  "Category": "adjective",
+  "Sources": [
+   "Soysal 2004: 325"
+  ]
+ },
+ {
+  "Number": "332",
+  "Hattic": "wuᵤti",
+  "Consonantal_Root": "futi",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 325"
+  ]
+ },
+ {
+  "Number": "333",
+  "Hattic": "wuᵤtiliš",
+  "Consonantal_Root": "futiliš",
+  "Category": "word",
+  "Sources": [
+   "Soysal 2004: 325"
+  ]
+ },
+ {
+  "Number": "334",
+  "Hattic": "zar",
+  "Consonantal_Root": "zar",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 326"
+  ]
+ },
+ {
+  "Number": "335",
+  "Hattic": "zar",
+  "Consonantal_Root": "zar",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 326"
+  ]
+ },
+ {
+  "Number": "336",
+  "Hattic": "zari",
+  "Consonantal_Root": "zari",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 326"
+  ]
+ },
+ {
+  "Number": "337",
+  "Hattic": "zaš",
+  "Consonantal_Root": "zaš",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 326"
+  ]
+ },
+ {
+  "Number": "339",
+  "Hattic": "zeḫar",
+  "Consonantal_Root": "zeḫar",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 327"
+  ]
+ },
+ {
+  "Number": "340",
+  "Hattic": "zel",
+  "Consonantal_Root": "zel",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 327"
+  ]
+ },
+ {
+  "Number": "342",
+  "Hattic": "ziḫartail",
+  "Consonantal_Root": "ziḫartail",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 327"
+  ]
+ },
+ {
+  "Number": "343",
+  "Hattic": "zi(y)ana",
+  "Consonantal_Root": "ziyana",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 327"
+  ]
+ },
+ {
+  "Number": "344",
+  "Hattic": "zik",
+  "Consonantal_Root": "zik",
+  "Category": "verb",
+  "Sources": [
+   "Soysal 2004: 327"
+  ]
+ },
+ {
+  "Number": "345",
+  "Hattic": "zilat",
+  "Consonantal_Root": "zilat",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 328"
+  ]
+ },
+ {
+  "Number": "348",
+  "Hattic": "zinar",
+  "Consonantal_Root": "zinar",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 328"
+  ]
+ },
+ {
+  "Number": "349",
+  "Hattic": "((zintuḫi))",
+  "Consonantal_Root": "zintuḫi",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 328"
+  ]
+ },
+ {
+  "Number": "350",
+  "Hattic": "zinzalmet",
+  "Consonantal_Root": "zinzalmet",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 328"
+  ]
+ },
+ {
+  "Number": "351",
+  "Hattic": "zipaḫ?",
+  "Consonantal_Root": "zipaḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 328"
+  ]
+ },
+ {
+  "Number": "352",
+  "Hattic": "zipikuka",
+  "Consonantal_Root": "zipikuka",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 328"
+  ]
+ },
+ {
+  "Number": "353",
+  "Hattic": "zipin",
+  "Consonantal_Root": "zipin",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 329"
+  ]
+ },
+ {
+  "Number": "354",
+  "Hattic": "zipina",
+  "Consonantal_Root": "zipina",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 329"
+  ]
+ },
+ {
+  "Number": "356",
+  "Hattic": "ziš",
+  "Consonantal_Root": "ziš",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 329"
+  ]
+ },
+ {
+  "Number": "357",
+  "Hattic": "zizintu",
+  "Consonantal_Root": "zizintu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 329"
+  ]
+ },
+ {
+  "Number": "358",
+  "Hattic": "zuḫ",
+  "Consonantal_Root": "zuḫ",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 329"
+  ]
+ },
+ {
+  "Number": "359",
+  "Hattic": "LÚzuluwee",
+  "Consonantal_Root": "zulufe",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 330"
+  ]
+ },
+ {
+  "Number": "360",
+  "Hattic": "zuwašini",
+  "Consonantal_Root": "zuwašini",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 330"
+  ]
+ },
+ {
+  "Number": "361",
+  "Hattic": "zuwatu",
+  "Consonantal_Root": "zuwatu",
+  "Category": "noun",
+  "Sources": [
+   "Soysal 2004: 330"
+  ]
+ }
+]

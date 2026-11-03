@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/S/SI_RU_TE
 title: "SI-RU-TE"
-desc: "šīrūt: sacred song, hymnody (proposed abstract in -ūt of √š-y-r \"sing\"). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "ritual"]
+desc: "šīrūt: sacred song, hymnody (abstract in -ūt of √š-y-r \"sing\"). Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "SI-RU-TE"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | šīrūt |
-| Meaning | sacred song, hymnody (proposed abstract in -ūt of √š-y-r "sing") |
+| Meaning | sacred song, hymnody (abstract in -ūt of √š-y-r "sing") |
 | Root | š-y-r |
 | Proto-Semitic | \*šVyVr- (#618) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | libation_formula, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Preferred \*/šīrūt/\*, a regular but unattested abstract in pan-Semitic -ūt from √š-y-r 'sing', rendered 'sacred song' from its exclusively ritual distribution; 'sacred' is not a separately written adjective. Ugaritic syllabic ši-i-ru /šīru/ 'song' secures the root and /šī-/ in the Bronze Age (Huehnergard 2012, 158). Secondary: /šīrōt/ 'songs' (Amos 8:3), but its ancestor \*šīrāt predicts SI-RA-TE and shifted /šīrōt/ predicts SI-RO-TE; Linear A has distinct O and U series (Steele 2024, 17), and the stone has RU, not RO, wherever the sign survives (IO Za 2, KO Za 1, SY Za 3, VRY Za 1). Rival, same consonants and vowels: \*/širrūt/\* 'cultic service' (√š-r-t), ancestor of MHeb. \*šêrût\*, JArm. \*šêrûtā\* 'service, worship' (HALOT 1661). The root is Canaanite: Levites 'stand before YHWH to minister to him' (\*lĕšārĕtô\*, Deut 10:8; 18:7) and singers 'ministered before the tabernacle with song' (\*mĕšārĕtîm … baššîr\*, 1 Chr 6:17); Ph. \*pʿl mšrt ʾt pn gw\* 'performed service before the community' (KAI 60.7–8); Pu. 'any person who shall not serve, Our Lady Tinnit-Phanebal and the Lord Baalhammon shall bind' (CIS i 5510.4–6, Carthage 406 BCE); NPu. \*rʾš ʿm šrt\* 'head of the service personnel' (KAI 136.4–5) (Krahmalkov s.vv. MŠRT, Š-R-T I, ŠRT II; Tomback s.v. MŠRT). Ugaritic \*šrd\* 'to serve' is doubtful, 'more likely' Š of √yrd (Huehnergard 2012, 157), so \*/širrūt/\* would be the Bronze Age ancestor of the Canaanite word. Final E may be a support vowel after /t/. 7 tokens on stone vessels at 5 peak-sanctuary sites (Iouktas, Kophinas, Syme, Troullos, Vrysinas); several are fragmentary (IO Za 14, IO Za 15, TL Za 1; PK Za 11 shows only SI-RU-\[). \|\| After I-PI-NA-MA a genitive \*šīrūti\* is expected (Fischer 2002, §292); the same TE spelling recurs in genitive position in APZa2 and PHZb4, against ZA-TI (KNZc7).
+šīrūt 'sacred song', an abstract in -ūt from √š-y-r 'sing', 'sacred' from its ritual distribution: 7 tokens on stone vessels at five peak sanctuaries (Iouktas, Kophinas, Syme, Troullos, Vrysinas), fragmentary on IO Za 14, IO Za 15 and TL Za 1; PK Za 11 breaks after SI-RU-\[. Ugaritic syllabic ši-i-ru /šīru/ 'song' gives the root and the long ī in the Bronze Age (Huehnergard 2012, 158). The plural šīrōt 'songs' (Amos 8:3) would be SI-RA-TE from \*šīrāt or SI-RO-TE from šīrōt; Linear A keeps O and U apart (Steele 2024, 17), and the stone has RU wherever the sign survives (IO Za 2, KO Za 1, SY Za 3, VRY Za 1). TE writes final t with a support vowel, as in genitive position on AP Za 2 and PH Zb 4. Rival: širrūt 'cultic service' (√š-r-t), MHeb. šêrût, JArm. šêrûtā 'service, worship' (HALOT 1661), the Levites who stand 'to minister to him' (lĕšārĕtô, Deut 10:8) and the singers who 'ministered … with song' (1 Chr 6:17), Ph. mšrt 'service' (KAI 60.7–8; Krahmalkov 2000, s.v. MŠRT); Ugaritic šrd 'to serve' is 'more likely' Š of √yrd (Huehnergard 2012, 157). Weak point: after I-PI-NA-MA a genitive šīrūti is expected (Fischer 2002, §292).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Preferred \*/šīrūt/\*, a regular but unattested abstract in pan-Semitic -ūt 
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2012; Steele 2024; HALOT; Krahmalkov 2000; Fischer 2002
 
 ## Attestations
 
@@ -64,7 +64,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/IO/IOZa/IOZa15\|IOZa15]] | Iouktas | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/KO/KOZa/KOZa1\|KOZa1]] | Kophinas | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/SY/SYZa/SYZa3\|SYZa3]] | Syme | Fragmentary circular serpentine libation table | complete |
-| [[wiki/linear-a/inscriptions/TL/TLZa/TLZa1\|TLZa1]] | Troullos | Stone ladle (HM 1545) | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/TL/TLZa/TLZa1\|TLZa1]] | Troullos | Stone ladle (HM 1545) | complete; restored |
 | [[wiki/linear-a/inscriptions/VRY/VRYZa/VRYZa1\|VRYZa1]] | Vrysinas | Square serpentine libation-table fragment | complete |
 
 ## In translations

@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/K/KA_star305
 title: "KA-*305"
-desc: "ka-ḏā: thus, likewise (ditto heading); rivals kaṯ 'flask, jar', a personal name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "particle"]
+desc: "ka-ḏā: thus, likewise (ditto heading). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "accounting", "administrative", "compound", "hapax", "particle"]
 kind: "word"
 form: "KA-*305"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ka-ḏā |
-| Meaning | thus, likewise (ditto heading); rivals kaṯ 'flask, jar', a personal name |
+| Meaning | thus, likewise (ditto heading) |
 | Root | k + ḏ |
 | Proto-Semitic | \*kV (#3266) + \*ḏī- (#K0877) |
-| Language layer | NWS |
-| Category | particle |
+| Language layer | Semitic |
+| Tags | accounting, administrative, compound, hapax, particle |
 | Semantic field | particle |
 
 ### Note
 
-HT 9b .2 KA-\*305 ·, unnumbered, below the ruling, over a roster that repeats the names of HT 9a in whole units (KU-RO 24); \*305 drawn whole at the edge of worn surface, undotted (GORILA I 19). k 'like, as' (DULAT 415) with the demonstrative ḏā 'this' (Heb. zeh, Ug. d, Arb. ḏā; HALOT 264), as Arb. kaḏā 'like this, thus' (Lane 948): a ditto heading over the repeated roster. The ḏ- demonstrative is a West Semitic innovation. Rivals: kaṯ 'flask, bottle, jar' (DULAT 466) with \*305 = ṯa; KA with the logogram \*305; a personal name. One attestation. See DU.
+HT 9b .2 KA-\*305 ·, unnumbered, below the ruling, over a roster that repeats the names of HT 9a in whole units (KU-RO 24); \*305 drawn whole at the edge of worn surface, undotted (GORILA I 19). k 'like, as' (DULAT 415) with the demonstrative ḏā 'this' (Heb. zeh, Ug. d, Arb. ḏā; HALOT 264), as Arb. kaḏā 'like this, thus' (Lane 948): a ditto heading over the repeated roster. The ḏ- demonstrative is a West Semitic innovation. One attestation. See DU.
 
 ### Cognates
 
@@ -65,6 +65,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | ka-ḏā | thus, likewise (ditto heading); rivals kaṯ 'flask, jar', a personal name | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | ka-ḏā | thus, likewise (ditto heading) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -34,7 +34,7 @@ updated: 2026-10-25T05:11:48Z
 | Syrian Aramaic | prpr (LSyr. 604, SL 1249 apud SEDonline 1749) | LSyr. 604, SL 1249; SEDonline 1749 | gloss withheld |
 | Arabic | frfr (Lane 2356 apud SEDonline 1749) | Lane 2356; SEDonline 1749 | gloss withheld |
 | Geez | ˀanfarfara (EDG 165 apud SEDonline 1749) | EDG 165; SEDonline 1749 | gloss withheld |
-| Tigrinya | tänfärfärä (TED 2675 apud SEDonline 1749) | TED 2675; SEDonline 1749 | gloss withheld |
+| Tigrinya | tänfärfärä (TED 2675 apud SEDonline 1749); ʔanfärfärä (LGz. 165) | TED 2675; SEDonline 1749; LGz. 165 | gloss withheld |
 | Amharic | tänfäräffärä (AED 2291 apud SEDonline 1749) | AED 2291; SEDonline 1749 | gloss withheld |
 | Harari | firfir bāya (EDH 64 apud SEDonline 1749) | EDH 64; SEDonline 1749 | gloss withheld |
 | Mehri | fərfīr (ML 98 apud SEDonline 1749) | ML 98; SEDonline 1749 | gloss withheld |

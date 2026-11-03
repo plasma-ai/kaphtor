@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | gār (ML 113 apud SEDonline 449) | ML 113; SEDonline 449 | gloss withheld |
-| Jibbali | gaˁár (JL 69 apud SEDonline 449) | JL 69; SEDonline 449 | gloss withheld |
+| Jibbali | gaˁár (JL 69 apud SEDonline 449); məgʿérɔ́t (Rubin 2014 660) | JL 69; SEDonline 449; Rubin 2014 660 | gloss withheld |
 | Soqotri | góʿor (Kogan 2015, ch. 8 §3.4.1 no. 24) | Kogan 2015 ch. 8 §3.4.1 no. 24 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

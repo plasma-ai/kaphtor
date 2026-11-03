@@ -52,7 +52,7 @@ A marked liquid: /la/ and the geminates /lla/, /rra/, which RA also writes, unma
 | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]] | ʾilā(t) | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_RA2\|O-RA₂]] | ʾŌl | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] | ʾŌl-dīn | SPECULATIVE |
-| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl/Baʿl | CANDIDATE |
+| [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōl | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |

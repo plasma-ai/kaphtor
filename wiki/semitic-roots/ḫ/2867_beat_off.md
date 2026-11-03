@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2867_beat_off
 title: "*ḫVbVṭ-: 'beat off'"
-desc: "Proto-Semitic *ḫVbVṭ-, 'beat off': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḫVbVṭ-, 'beat off': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2867"
@@ -33,6 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ḫbṭ (HALOT 285); Sab ḫbṭ (SD 58; Sabaweb lemma 4241) | HALOT 285; SD 58; Sabaweb lemma 4241 | gloss withheld |
 | Syrian Aramaic | ḥbaṭ 'beat down, thrash; dash down' (Payne Smith 123) | Payne Smith 123 |  |
 | Hebrew | ḥbṭ (HALOT 285) | HALOT 285 | gloss withheld |
+| Aramaic | ḥăḇaṭ (LGz. 260) | LGz. 260 |  |
+| Mandaic Aramaic | hbṭ (LGz. 260) | LGz. 260 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

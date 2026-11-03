@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TU_RU_SA
 title: "TU-RU-SA"
 desc: "Tursa: Shield, Protector (invoked in formula position two); the name Tursha. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "divine_epithet"]
+tags: ["linear-a", "word", "tier-1", "epithet", "hapax", "libation_formula", "ritual"]
 kind: "word"
 form: "TU-RU-SA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Shield, Protector (invoked in formula position two); the name Tursha |
 | Root | t-r-s |
 | Proto-Semitic | \*turs- (#3789) |
-| Language layer | NWS |
-| Category | divine_epithet |
+| Language layer | Semitic |
+| Tags | epithet, hapax, libation_formula, ritual |
 | Semantic field | divine |
 
 ### Note

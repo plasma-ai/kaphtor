@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/A/A_TA_NA_JE
 title: "A-TA-NA-JE"
-desc: "ʾatanāya: My Giver / My Athena — 1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my'). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine_name"]
+desc: "ʾatanāya: My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my'). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "A-TA-NA-JE"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾatanāya |
-| Meaning | My Giver / My Athena — 1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my') |
+| Meaning | My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my') |
 | Root | y-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | hapax, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-THE Zb 6, a clay vessel from Thera, its one word: A-TA-NA ʾAtanat 'She-who-gives', the etymon of Athena (see A-TA-NA), + -ya 'my', the 1cs suffix of PU₂-RE-JA burēyā 'my Creator'. The paradigm stands at two sites: A-TA-NA (ZA 9), A-TA-NA-TE (ZA 10a), A-TA-NA-JE (Thera). At Knossos Athena heads KN V 52.1 among the gods, a-ta-na-po-ti-ni-ja beside Enyalios, Paiawon and Poseidon. At Ugarit the god is the one who gives, Milki-Yatanu 'Milku has given' (mlkytn, son of a priest of Baal; Kinlaw 1967, 81), and the verb stands alone as a name, Yatanu (ytn); Alalakh has nādin 'giver' as a name. √y-t-n is the Ugaritic and Phoenician form. One attestation.
+THE Zb 6, a clay vessel from Thera, its one word: A-TA-NA ʾAtanat 'She-who-gives', the etymon of Athena (see A-TA-NA-TE), + -ya 'my', the 1cs suffix of PU₂-RE-JA burē(t)yā 'my Creatress'. The stem stands at two sites: A-TA-NA-TE (ZA 10a; ZA 9 A-TA-NA-\[TE\], GORILA III 166–167) and A-TA-NA-JE (Thera). At Knossos Athena heads KN V 52.1 among the gods, a-ta-na-po-ti-ni-ja beside Enyalios, Paiawon and Poseidon. At Ugarit the god is the one who gives, Milki-Yatanu 'Milku has given' (mlkytn, son of a priest of Baal; Kinlaw 1967, 81), and the verb stands alone as a name, Yatanu (ytn); Alalakh has nādin 'giver' as a name. √y-t-n is the Ugaritic and Phoenician form. One attestation.
 
 ### Cognates
 
@@ -72,8 +72,8 @@ di Mino; DMic I; Kinlaw 1967; GlOS 2
 
 | Field | Value |
 |---|---|
-| Type | theonym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | theonym (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
@@ -82,6 +82,6 @@ di Mino; DMic I; Kinlaw 1967; GlOS 2
 
 ### Note
 
-THE Zb 6, the only word on a Theran clay vessel: a votive dedication. -JE writes the 1cs possessive -ya, as in PU₂-RE-JA burēyā 'my Creator', on the A-TA-NA paradigm with feminine A-TA-NA-TE at Zakros: ʾatanāya 'My Giver'.
+THE Zb 6, the only word on a Theran clay vessel: a votive dedication. -JE writes the 1cs possessive -ya, as in PU₂-RE-JA burē(t)yā 'my Creatress', on the A-TA-NA paradigm with feminine A-TA-NA-TE at Zakros: ʾatanāya 'My Giver'.
 
 <!-- END kaphtor:record -->

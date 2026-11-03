@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3794_when_q_interrogative_adverb
 title: "*matay: 'when?' (interrogative adverb)"
-desc: "Proto-Semitic *matay, 'when?' (interrogative adverb): reflexes in 5 language(s)."
+desc: "Proto-Semitic *matay, 'when?' (interrogative adverb): reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3794"
@@ -34,6 +34,7 @@ updated: 2026-10-31T13:28:57Z
 | Akkadian | mati; immati (CAD M/1 406) | CAD M/1 406 | gloss withheld |
 | Hebrew | mātay; ʿad-mātay (HALOT 654) | HALOT 654 | gloss withheld |
 | Arabic | matā 'when?'; ḥattā matā 'until when? how long?' (Lane 3017) | Lane 3017 |  |
+| Phoenician | mtm (T 205) | T 205 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

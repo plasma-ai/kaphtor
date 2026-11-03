@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_KI_NA
 title: "KI-KI-NA"
 desc: "Kikkina: Kikkina, recipient or named administrative entity. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_or_institutional_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "loanword", "personal_name"]
 kind: "word"
 form: "KI-KI-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -33,14 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kikkina |
 | Meaning | Kikkina, recipient or named administrative entity |
-| Root | k-k-n |
-| Language layer | Amorite_or_Aegean |
-| Category | personal_or_institutional_name |
+| Root | Kikkina (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | hapax, loanword, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT88 places KI-KI-NA after the NI fig logogram and before the quantity 7, favoring a recipient, group, or other named entity. Gelb's Amorite onomasticon repeatedly writes the close KIKKIN name as KI-IK-KI-NI, KI-IK-KI-NU and KI-(IK)-KI-NU-UM. The vessel comparison fails: the Ugaritic word is kknt, with final -t, and Huehnergard notes that it may be an error for kkbt. Ugaritic kkn is instead catalogued as a personal name of uncertain etymology. Translate 'figs—Kikkina, 7,' not 'seven pots.'
+HT 88 .3 NI · KI-KI-NA 7: after the fig logogram NI and before the quantity, a recipient, group or other named entity, 'figs: Kikkina, 7'. Amorite has the close name KIKKIN, written KI-IK-KI-NI, KI-IK-KI-NU and KI-IK-KI-NUM (Gelb 1980, nos. 4036–4038). Ugaritic kkn is a personal name of unknown etymology (DULAT 429). One attestation.
 
 ### Cognates
 
@@ -71,8 +71,8 @@ di Mino; Gelb 1980, AS 21 nos. 4036–4038; Prosopography of Ebla; de Boer 2014
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

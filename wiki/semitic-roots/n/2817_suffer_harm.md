@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2817_suffer_harm
 title: "*nVzVq-: 'suffer harm'"
-desc: "Proto-Semitic *nVzVq-, 'suffer harm': reflexes in 6 language(s)."
+desc: "Proto-Semitic *nVzVq-, 'suffer harm': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2817"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | nzq (Krahmalkov 326) | Krahmalkov 326 | gloss withheld |
 | Hebrew | nēzeq 'injury, damage' (BDB 634) | BDB 634 |  |
 | Judaic Aramaic | nizqā (HALOT 684) | HALOT 684 | gloss withheld |
+| Biblical Aramaic | nzq, haf. (HALOT 684); \*hanzāqā (HALOT BArm. s.v. הַנְזָקָה) | HALOT 684; HALOT BArm. s.v. הַנְזָקָה | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

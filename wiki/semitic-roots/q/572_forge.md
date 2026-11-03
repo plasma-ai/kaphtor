@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/572_forge
 title: "*ḳVyVn-: 'forge'"
-desc: "Proto-Semitic *ḳVyVn-, 'forge': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḳVyVn-, 'forge': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "572"
@@ -30,8 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | qyn \[-i-\] |  |  |
-| Syrian Aramaic | qayen 'to work as a smith, forge' (Payne Smith 504) | Payne Smith 504 |  |
+| Arabic | qyn \[-i-\]; qayn (LGz. 286) | LGz. 286 | gloss withheld |
+| Syrian Aramaic | qayen (Payne Smith 504); qaynāyā (LGz. 286) | Payne Smith 504; LGz. 286 | gloss withheld |
+| Mandaic Aramaic | qanaia (LGz. 286) | LGz. 286 | gloss withheld |
+| Ugaritic | qyn (LGz. 286) | LGz. 286 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

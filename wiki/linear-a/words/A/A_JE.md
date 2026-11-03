@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_JE
 title: "A-JE"
 desc: "ʾaye: island. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "A-JE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | island |
 | Root | ʾ-y "island" |
 | Proto-Semitic | \*ʾVy- (#K0604) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | toponym |
 
 ### Note
 
-THEZb7 (Thera, clay vessel): sole word on vessel—inscribed on an island, possibly labeling origin or dedication. Dialectal variant of I-JA /ʾiya/ (Knossos) and I-JA-TE /ʾiyyate/ (Phaistos): A-JE spelling at Thera vs I-JA at Eastern Cretan sites may reflect regional vowel variation, parallel to the Phaistos-vs-Eastern Crete dialectal patterns observed in the libation formulae. Ug. ỉht 'islands, coastal region' (DULAT 31).
+THE Zb 7, a clay vessel from Thera: the sole word on it, inscribed on an island, a label of origin or dedication. A dialect form of I-JA /ʾiya/ (Knossos) and I-JA-TE /ʾiyyate/ (Phaistos): A-JE at Thera against I-JA at East Cretan sites is regional vowel variation, as the libation formulae differ between Phaistos and East Crete. Ug. ỉht 'islands, coastal region' (DULAT 31). One attestation.
 
 ### Cognates
 

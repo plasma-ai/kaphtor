@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1561_till_1_plow_2_plowland_3
 title: "*ḥVruṯ-: 'till' 1, 'plow' 2, 'plowland' 3"
-desc: "Proto-Semitic *ḥVruṯ-, 'till' 1, 'plow' 2, 'plowland' 3: reflexes in 20 language(s)."
+desc: "Proto-Semitic *ḥVruṯ-, 'till' 1, 'plow' 2, 'plowland' 3: reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1561"
@@ -50,6 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥrt (HALOT 357) | HALOT 357 | gloss withheld |
 | Canaanite | a/iḫrišu (HALOT 357) | HALOT 357 |  |
 | Amorite | ḫiršu 3: ḫi-ri-iš (ARM 23, 590: 14) (Streck 2000, 98) | Streck 2000 98 | gloss withheld |
+| Eblaitic | ma-la/ra-sum, má-ra-šim /maḥraṯ/ 3 (Sanmartín GlOS 1, 252) | Sanmartín GlOS 1, 252 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

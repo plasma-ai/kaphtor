@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/950_be_unable_weak
 title: "*ʕVga/iz-: 'be unable, weak'"
-desc: "Proto-Semitic *ʕVga/iz-, 'be unable, weak': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕVga/iz-, 'be unable, weak': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "950"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕgz \[-a-, -i-\] |  |  |
 | Mehri | ʔagōz |  |  |
 | Harsusi | ʔagōz 2 |  |  |
+| Pre-Islamic North Arabian | Safaitic ʿgz (Al-Jallad 2026, 13) | Al-Jallad 2026 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

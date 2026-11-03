@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2759_death_Mot_god_of_death
 title: "*māwit-: 'death; Mot (god of death)'"
-desc: "Proto-Semitic *māwit-, 'death; Mot (god of death)': reflexes in 12 language(s)."
+desc: "Proto-Semitic *māwit-, 'death; Mot (god of death)': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2759"
@@ -38,9 +38,10 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab mwt (SD 89; Biella 269, 270; Sabaweb lemma 2828); Qat. mwt (Ricks 1982 s.v. mwt) | SD 89; Biella 269, 270; Sabaweb lemma 2828; Ricks 1982 s.v. mwt | gloss withheld |
 | Geez | māwtā (LGz. 376) | LGz. 376 | gloss withheld |
 | Syrian Aramaic | mīt 'dead' (Payne Smith 269) | Payne Smith 269 |  |
-| Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mt (Al-Jallad–Jaworska 100); Dadanitic mt; Thamudic D mt (Al-Jallad 2026, 96) | Al-Jallad–Jaworska 100; Al-Jallad 2026 96 | gloss withheld |
 | Amorite | yamūt (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |
 | Eblaitic | ma-tim /mawt, mōt/ (Sanmartín GlOS 2, 63); é ma-tim /bayt mawtim/ (Fronzaroli 1995, 53) | Sanmartín GlOS 2, 63; Fronzaroli 1995, 53 | gloss withheld |
+| Aramaic | mwt (DNWSI 607) | DNWSI 607 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

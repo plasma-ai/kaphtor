@@ -37,10 +37,4 @@ updated: 2026-10-24T16:17:50Z
 
 - Linear B projection—less common in Linear A
 
-## Lexicon words written with this sign
-
-| Word | Reading | Confidence |
-|---|---|---|
-| [[wiki/linear-a/words/P/PA3_SI_MO\|PA₃-SI-MO]] | basimo | PROBABLE |
-
 <!-- END kaphtor:record -->

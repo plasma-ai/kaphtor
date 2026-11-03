@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1196_fire_1_to_shine_sparkle_2_light_3_lamp_4
 title: "*nūr-: 'fire' 1, 'to shine, sparkle' 2, 'light' 3, 'lamp' 4"
-desc: "Proto-Semitic *nūr-, 'fire' 1, 'to shine, sparkle' 2, 'light' 3, 'lamp' 4: reflexes in 11 language(s)."
+desc: "Proto-Semitic *nūr-, 'fire' 1, 'to shine, sparkle' 2, 'light' 3, 'lamp' 4: reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1196"
@@ -30,9 +30,10 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic nr 3 (Al-Jallad 2026, 106) | Al-Jallad 2026 106 | gloss withheld |
 | Arabic | nwr (u) 2; nūr- 3, nār- 1 (Kogan 2011, 195) | Kogan 2011 195 | gloss withheld |
 | Akkadian | namru, nawru 2 (CAD N/1 239); nawāru 2; nūru 3 (Kogan 2011, 195); nūru in bīt nūri, ša nūri 4 (CAD N/2 351) | CAD N/1 239; Kogan 2011 195; CAD N/2 351 | gloss withheld |
-| Ugaritic | nr 3, 4 (DULAT 633) | DULAT 633 | gloss withheld |
+| Ugaritic | nr 3, 4 (DULAT 633); /nēru/ or /nīru/ 4 (UVST 152) | DULAT 633; UVST 152 | gloss withheld |
 | Hebrew | nūr 1; nēr 3 (Kogan 2011, 195), 4 (HALOT 723) | Kogan 2011 195; HALOT 723 | gloss withheld |
 | Epigraphic South Arabian | nwr 2 (Sabaweb lemma 7173) | Sabaweb lemma 7173 | gloss withheld |
 | Judaic Aramaic | nūrā 1 |  |  |
@@ -41,6 +42,8 @@ updated: 2026-10-26T14:26:59Z
 | Mehri | nawr 3 (Kogan 2011, 195) | Kogan 2011 195 | gloss withheld |
 | Amorite | nwr 2: janūr; nūrum 3 (Gelb AS 21, 28); nīru, niwru, niwar, yanwur (Buck 2019, 330) | Gelb AS 21 28; Buck 2019, 330 | gloss withheld |
 | Eblaitic | cf. na₄ na-mur-ra-tum 2 (ARET V 5; ELISIR s.v. na-mur-ra-tum) | ARET V 5; ELISIR s.v. na-mur-ra-tum | gloss withheld |
+| Biblical Aramaic | nūr 1 (HALOT BArm. s.v. נוּר) | HALOT BArm. s.v. נוּר | gloss withheld |
+| Phoenician | nr 3 (B 363) | B 363 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

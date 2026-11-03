@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_PA3_NU
 title: "KU-PA₃-NU"
 desc: "Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+tags: ["linear-a", "word", "tier-3", "loanblend", "personal_name", "ritual", "title"]
 kind: "word"
 form: "KU-PA₃-NU"
 datasets: ["lexicon", "onomasticon"]
@@ -33,14 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kubānu |
 | Meaning | devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan |
-| Root | Kubaba + -ān- |
-| Language layer | Anatolian/North Syrian theonym with Semitic derivation |
-| Category | personal_name |
+| Root | Kubaba (Sumerian Kug-Baba, Haas 1994, 406) + -ān- |
+| Language layer | Semitic |
+| Tags | loanblend, personal_name, ritual, title |
 | Semantic field | personal_name |
 
 ### Note
 
-Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted personnel group of HT119 (di Mino, Ya Diktu). HT88 sets it beside KU-PA₃-PA₃ Kubaba. Amorite has the short base with this ending, Kubb-ān-um (Gelb, AS 21, no. 4148), so the form need not write Kubaba's second BA. Eight occurrences across seven inscriptions make name or title status probable. Rival: Gupana/Gupan, from Ugaritic syllabic {m}gu-pa-na and alphabetic Gupan, with Linear B ku-pa-nu-we-to. HT101.4 has KU-PA₃-\[…\] in an entity-heading position; KU-PA₃-\[NU\] is the strongest restoration but is not counted as an attestation.
+Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted personnel group of HT 119 (di Mino, Ya Diktu). HT 88 sets it beside KU-PA₃-PA₃ Kubaba. Amorite has the short base with this ending, Kubb-ān-um (Gelb 1980, no. 4148), so the form need not write Kubaba's second BA. A name or title, entered once on each of HT 1, HT 3, HT 49a, HT 88, HT 117a and PH(?) 31a and twice on HT 122a. Rival: Gupana/Gupan, the Ugaritic personal name gu-pa-na (RS 11.839) and the god gpn of gpn w ugr (KTU 1.3 III 36; DULAT 301), which Gordon compares with KU for g (Gordon 1966, §142), with Linear B ku-pa-nu-we-to. HT 101.4 KU-PA₃-\[…\] OLE+U 2 stands in an entry-heading position and restores as KU-PA₃-\[NU\]. See KU-PA₃-NA-TU.
 
 ### Cognates
 
@@ -48,11 +48,11 @@ Kubānu 'devotee of Kubaba', masculine of KU-PA₃-NA-TU Kubānatu, the counted 
 |---|---|
 | Anatolian/North Syrian | Kubaba, divine name (Laroche 1980, 150; DULAT 419); base of Kubānu |
 | Amorite | Kubb-ān-um (Gelb, AS 21, no. 4148) |
-| Ugaritic | rival {m}gu-pa-na, personal name (RS 11.839 r.8); gpn/Gupan, messenger-deity |
+| Ugaritic | rival {m}gu-pa-na, personal name gpn(y) (RS 11.839 r. 8, ORACC P503288; PRU 3 195:18, DULAT 301); gpn, Baal's messenger, gpn w ugr (KTU 1.3 III 36; DULAT 301) |
 
 ### Source
 
-di Mino, Ya Diktu; Gelb 1980, AS 21, no. 4148; RS 11.839 r.8; KTU 1.3 III:36, VI:6; Jiménez Delgado 2024, 439
+di Mino, Ya Diktu; Gelb 1980, AS 21, no. 4148; Gordon 1966; DULAT; ORACC P503288; Laroche 1980; Jiménez Delgado 2024, 439; Haas 1994
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/459_go_out_drive_out
 title: "*ḫVrug-: 'go out, drive out'"
-desc: "Proto-Semitic *ḫVrug-, 'go out, drive out': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḫVrug-, 'go out, drive out': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "459"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ḥerōg |  |  |
 | Jibbali | ḫárɔ́g |  | gloss withheld |
 | Hebrew | ḥrg; yaḥrəgû (Ps 18:46) (HALOT 350) | HALOT 350 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫrg (Al-Jallad 2026, 67) | Al-Jallad 2026 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

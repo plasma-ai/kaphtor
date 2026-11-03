@@ -34,6 +34,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-3× standalone on Khania roundels (KHWc2026, KHWc2027, KHWc2098) = commodity logogram behavior. 1× syllabic \*322-RI on HT11a = phonetic complement confirming word ends in /-ri/. PS \*pir- 'fruit' (Hebrew pǝrī, Ugaritic pr) is the strongest NWS commodity ending in -rī. Compare DUBUR and BUṬNU; \*49 PALM/TREE → TAMIR is only a candidate parallel. HT11a context: land-allocation tablet alongside A-RU-RA 'arable land' and KA-RO-NA 'horn'—fruit fits agricultural allocation.
+3× standalone on Khania roundels (KHWc2026, KHWc2027, KHWc2098) = commodity logogram behavior. PS \*pir- 'fruit' (Hebrew pǝrī, Ugaritic pr). Compare DUBUR and BUṬNU; \*49 PALM/TREE → TAMIR is only a candidate parallel. The sign of HT 11a \*322-RI is a tall loop with a small hook on its right, against the roundels' flat oval with an upright box (GORILA I 23; III 124, 141): another sign.
 
 <!-- END kaphtor:record -->

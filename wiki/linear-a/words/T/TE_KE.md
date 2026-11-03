@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TE_KE
 title: "TE-KE"
 desc: "Tegi: Tegi (personal name; spelling of TE-KI). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TE-KE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,8 +34,8 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tegi |
 | Meaning | Tegi (personal name; spelling of TE-KI) |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
@@ -71,10 +71,14 @@ di Mino; Laroche 1980
 | Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 85a .5 TE-KE 3, after KU-ZU-NI 5 (GORILA I 131), as TE-KI follows KU-ZU-NI on HT 13. See the lexicon entry.
 
 ### Co-occurring lexicon words
 

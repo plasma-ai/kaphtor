@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_NA
 title: "KA-NA"
 desc: "qana / qanû: aromatic reed, sweet cane (commodity; spelling variant of QA-NE). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "aromatic", "commodity", "noun"]
 kind: "word"
 form: "KA-NA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | aromatic reed, sweet cane (commodity; spelling variant of QA-NE) |
 | Root | q-n-y |
 | Proto-Semitic | \*ḳanaw/y- (#3035) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | aromatic, commodity, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Spelling variant of QA-NE (KH47, CANDIDATE qanē) with q→K neutralization proposed under Gordon §4/§76. Cross-site comparison: HT (2×) + KH (1×). HT23a heads an aromatics ledger (CYP, oil sub-types, VIN, and SA-SA-ME sesame), providing the principal contextual support for comparison with Hebrew qāneh and qəneh-bośem. On HT123+124b KA-NA is followed by the central lacuna, probably containing a lost quantity; that tablet supports administrative recurrence but not the product identification. Lapis lazuli (Ugaritic ỉqnủ, var. qnỉm, &lt; Akkadian uqnû) is a rival homograph.
+HT 23a: KA-NA heads an aromatics ledger (CYP, oil subtypes, VIN and SA-SA-ME 'sesame'), the ground for Heb. qāneh 'reed' and qəneh-bośem 'sweet cane'. A spelling of QA-NE (KH 47), with KA for q (Gordon 1966, §§4, 76). On HT 123+124b the central lacuna follows it, and the tablet shows the word recurring in the accounts without fixing the product. Rival: lapis lazuli, a homograph (Ugaritic ỉqnủ, var. qnỉm, from Akk. uqnû).
 
 ### Cognates
 

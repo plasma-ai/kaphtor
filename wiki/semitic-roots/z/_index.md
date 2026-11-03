@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/z
 desc: "Semitic roots whose first radical is z."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-31T13:28:57Z
+updated: 2026-11-05T22:08:06Z
 ---
 
 # wiki/semitic-roots/z
@@ -31,7 +31,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/z/163_much_hair_on_the_head_bristle|163_much_hair_on_the_head_bristle]]: Proto-Semitic *zapp-/*zabb-, '(much) hair (on the head), bristle': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/z/1815_seed_sowing_sown_field_1_to_sow_cultivate_2|1815_seed_sowing_sown_field_1_to_sow_cultivate_2]]: Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 28 language(s).
+[[wiki/semitic-roots/z/1815_seed_sowing_sown_field_1_to_sow_cultivate_2|1815_seed_sowing_sown_field_1_to_sow_cultivate_2]]: Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 29 language(s).
 
 [[wiki/semitic-roots/z/198_keep_from_urinating|198_keep_from_urinating]]: Proto-Semitic *zVnaʾ-, 'keep from urinating': reflexes in 1 language(s).
 
@@ -51,13 +51,13 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/z/2310_starling|2310_starling]]: Proto-Semitic *zVrzVr-, 'starling': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/z/2542_be_small|2542_be_small]]: Proto-Semitic *zVʕVr-, 'be small': reflexes in 5 language(s).
+[[wiki/semitic-roots/z/2542_be_small|2542_be_small]]: Proto-Semitic *zVʕVr-, 'be small': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/z/2635_moon|2635_moon]]: Proto-Semitic *zahar-, 'moon': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/z/2651_be_bright_shine|2651_be_bright_shine]]: Proto-Semitic *zhy, 'be bright, shine': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/z/2694_olive_olive_tree|2694_olive_olive_tree]]: Proto-Semitic *zayt-, 'olive, olive tree': reflexes in 10 language(s).
+[[wiki/semitic-roots/z/2694_olive_olive_tree|2694_olive_olive_tree]]: Proto-Semitic *zayt-, 'olive, olive tree': reflexes in 11 language(s).
 
 [[wiki/semitic-roots/z/2839_sack|2839_sack]]: Proto-Semitic *zVmVl-, 'sack': reflexes in 3 language(s).
 
@@ -71,11 +71,11 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/z/2859_wasp|2859_wasp]]: Proto-Semitic *zVnbVr-, 'wasp': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/z/2860_cry_out|2860_cry_out]]: Proto-Semitic *zVʿVq-, 'cry out': reflexes in 4 language(s).
+[[wiki/semitic-roots/z/2860_cry_out|2860_cry_out]]: Proto-Semitic *zVʿVq-, 'cry out': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/2917_to_be_dirty_stink_to_loathe|2917_to_be_dirty_stink_to_loathe]]: Proto-Semitic *zhm, 'to be dirty, stink; to loathe': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/z/2919_raise_lift_up_erect|2919_raise_lift_up_erect]]: Proto-Semitic *zqp, 'raise, lift up; erect': reflexes in 4 language(s).
+[[wiki/semitic-roots/z/2919_raise_lift_up_erect|2919_raise_lift_up_erect]]: Proto-Semitic *zqp, 'raise, lift up; erect': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/2921_curse_scold|2921_curse_scold]]: Proto-Semitic *zVġVm-, 'curse, scold': reflexes in 3 language(s).
 
@@ -99,17 +99,15 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/z/3487_gift|3487_gift]]: Proto-Semitic *zbd, 'gift': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/z/3505_provisions_for_a_journey_to_provision|3505_provisions_for_a_journey_to_provision]]: Proto-Semitic *zwd, 'provisions for a journey; to provision': reflexes in 2 language(s).
-
 [[wiki/semitic-roots/z/356_cut_chop|356_cut_chop]]: Proto-Semitic *zVʕab-, 'cut, chop': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/z/357_be_cut_off|357_be_cut_off]]: Proto-Semitic *zVʾVp-, 'be cut off': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/z/3610_to_turn_go_around_to_twist|3610_to_turn_go_around_to_twist]]: Proto-Semitic *zwr, 'to turn, go around; to twist': reflexes in 9 language(s).
+[[wiki/semitic-roots/z/3610_to_turn_go_around_to_twist_1_to_turn_aside_be_es|3610_to_turn_go_around_to_twist_1_to_turn_aside_be_es]]: Proto-Semitic *zwr, 'to turn, go around; to twist' 1, 'to turn aside, be estranged; strange' 2: reflexes in 12 language(s).
 
-[[wiki/semitic-roots/z/3621_to_feed_provide_food_food_provisions|3621_to_feed_provide_food_food_provisions]]: Proto-Semitic *zwn, 'to feed, provide food; food, provisions': reflexes in 3 language(s).
+[[wiki/semitic-roots/z/3621_to_feed_provide_food_food_provisions|3621_to_feed_provide_food_food_provisions]]: Proto-Semitic *zwn, 'to feed, provide food; food, provisions': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/z/3635_to_shine_be_bright|3635_to_shine_be_bright]]: Proto-Semitic *zhr, 'to shine, be bright': reflexes in 3 language(s).
+[[wiki/semitic-roots/z/3635_to_shine_be_bright_1_to_heed_a_warning_be_cautio|3635_to_shine_be_bright_1_to_heed_a_warning_be_cautio]]: Proto-Semitic *zhr, 'to shine, be bright' 1, 'to heed a warning, be cautious' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/3669_to_swell_be_full_to_boast|3669_to_swell_be_full_to_boast]]: Proto-Semitic *zḫr, 'to swell, be full; to boast': reflexes in 3 language(s).
 
@@ -125,7 +123,43 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/z/3811_prince_1_princely_seat_exalted_dwelling_2|3811_prince_1_princely_seat_exalted_dwelling_2]]: Proto-Semitic *zabul-, 'prince' 1, 'princely seat, exalted dwelling' 2: reflexes in 4 language(s).
 
+[[wiki/semitic-roots/z/3873_pitcher|3873_pitcher]]: Proto-Semitic *zbr, 'pitcher': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/z/3879_month_Ziv|3879_month_Ziv]]: Proto-Semitic *ziw-, 'month Ziv': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/3921_to_overflow|3921_to_overflow]]: Proto-Semitic *zḥḥ, 'to overflow': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/z/4119_to_boil_be_hot|4119_to_boil_be_hot]]: Proto-Semitic *zyd, 'to boil, be hot': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/z/4120_to_low_bellow_bark|4120_to_low_bellow_bark]]: Proto-Semitic *zɣw, 'to low, bellow, bark': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/4157_to_leap_forth_spring_to_spurt_throw|4157_to_leap_forth_spring_to_spurt_throw]]: Proto-Semitic *znq, 'to leap forth, spring; to spurt, throw': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/4161_to_press_together_squeeze_out|4161_to_press_together_squeeze_out]]: Proto-Semitic *zrr, 'to press together, squeeze out': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/4162_to_muzzle_bridle_1_nose_ring_ring_2|4162_to_muzzle_bridle_1_nose_ring_ring_2]]: Proto-Semitic *zmm, 'to muzzle, bridle' 1, 'nose-ring, ring' 2: reflexes in 5 language(s).
+
+[[wiki/semitic-roots/z/4164_to_stop_cut_short|4164_to_stop_cut_short]]: Proto-Semitic *zrm, 'to stop, cut short': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/4173_to_filter_purify_refine|4173_to_filter_purify_refine]]: Proto-Semitic *zḳḳ, 'to filter, purify, refine': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/4174_border_edge_frame_1_necklace_2_button_3|4174_border_edge_frame_1_necklace_2_button_3]]: Proto-Semitic *zirr-, 'border, edge, frame' 1, 'necklace' 2, 'button' 3: reflexes in 5 language(s).
+
+[[wiki/semitic-roots/z/4175_spark_comet_fire_arrow|4175_spark_comet_fire_arrow]]: Proto-Semitic *ziḳ(ḳ)-, 'spark, comet; fire-arrow': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/4176_to_be_cheap_worthless_to_sell_cheaply_to_lavish|4176_to_be_cheap_worthless_to_sell_cheaply_to_lavish]]: Proto-Semitic *zwl, 'to be cheap, worthless; to sell cheaply; to lavish': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/4181_to_press_squeeze_to_crush_1_fuller_s_rod_wringer|4181_to_press_squeeze_to_crush_1_fuller_s_rod_wringer]]: Proto-Semitic *zwr, 'to press, squeeze; to crush' 1, 'fuller's rod, wringer; snare' 2: reflexes in 4 language(s).
+
 [[wiki/semitic-roots/z/421_reed_mat_1_k_of_grass_used_for_basketwork_2|421_reed_mat_1_k_of_grass_used_for_basketwork_2]]: Proto-Semitic *zibn- 1 ~ *zabaz- 2, 'reed mat' 1, 'k. of grass used for basketwork' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/4431_drop_of_water|4431_drop_of_water]]: Proto-Semitic *zarzīp-, 'drop of water': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/z/4436_grape_stone_or_grape_skin|4436_grape_stone_or_grape_skin]]: Proto-Semitic *zVg-, 'grape-stone or grape-skin': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/z/4671_civet_cat_civet_musk|4671_civet_cat_civet_musk]]: Proto-Semitic *zabād-, 'civet cat, civet musk': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/z/4672_to_strike_beat_kick|4672_to_strike_beat_kick]]: Proto-Semitic *zbṭ, 'to strike, beat; kick': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/z/476_march_with_small_steps|476_march_with_small_steps]]: Proto-Semitic *zVkk-, 'march with small steps': reflexes in 1 language(s).
 
@@ -145,15 +179,15 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/z/842_swallow|842_swallow]]: Proto-Semitic *zVḳVm-, 'swallow': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/z/865_time|865_time]]: Proto-Semitic *zaman-, 'time': reflexes in 12 language(s).
+[[wiki/semitic-roots/z/865_time|865_time]]: Proto-Semitic *zaman-, 'time': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/z/882_increase|882_increase]]: Proto-Semitic *zayad-, 'increase': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/z/901_tremble_of_fear|901_tremble_of_fear]]: Proto-Semitic *zVwVʕ-, 'tremble of fear': reflexes in 7 language(s).
+[[wiki/semitic-roots/z/901_tremble_of_fear|901_tremble_of_fear]]: Proto-Semitic *zVwVʕ-, 'tremble of fear': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/z/K0461_prune|K0461_prune]]: Proto-Semitic *zVbVr-, 'prune': reflexes in 3 language(s).
+[[wiki/semitic-roots/z/K0461_prune|K0461_prune]]: Proto-Semitic *zVbVr-, 'prune': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/z/K0462_clean|K0462_clean]]: Proto-Semitic *zVkVy-, 'clean': reflexes in 9 language(s).
+[[wiki/semitic-roots/z/K0462_clean|K0462_clean]]: Proto-Semitic *zVkVy-, 'clean': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/z/K0463_glide|K0463_glide]]: Proto-Semitic *zVlVg-, 'glide': reflexes in 3 language(s).
 

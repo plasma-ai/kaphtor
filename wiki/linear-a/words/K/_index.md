@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:13:39Z
+updated: 2026-11-05T15:56:38Z
 ---
 
 # wiki/linear-a/words/K
@@ -31,13 +31,13 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KA_KU_NE_TE|KA_KU_NE_TE]]: Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_KU_PA|KA_KU_PA]]: kawkab: star (celestial toponym; Semitic kawkab with b→p voicing). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_KU_PA|KA_KU_PA]]: kawkab: Star (place name, as Mari Kabkab). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KA_NA|KA_NA]]: qana / qanû: aromatic reed, sweet cane (commodity; spelling variant of QA-NE). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KA_NA_NI_TI|KA_NA_NI_TI]]: kanaʿanītī: the Canaanite (ethnonymic designation). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KA_NA_TI|KA_NA_TI]]: *kanasti: you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_NA_TI|KA_NA_TI]]: kanasti: you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_NA_broken_both|KA_NA_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -47,7 +47,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KA_NU_TI|KA_NU_TI]]: Ganuti: place name, 25 men in the HT 97a roster beside PA-I-TO. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): entity, institution, or settlement; perhaps village. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KA_PA|KA_PA]]: kapa(r): village, settlement (kapar); rival an institution. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KA_PA_QE|KA_PA_QE]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
@@ -59,7 +59,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KA_RE_RO|KA_RE_RO]]: Kariru: Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_RI_star310_I|KA_RI_star310_I]]: karīnī: personal name/gentilic. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_RI_star310_I|KA_RI_star310_I]]: Qarīnī: 'Companion' (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_RO_NA|KA_RO_NA]]: Qarna: personal name, 'horn'. Lexicon, PROBABLE (tier 3).
 
@@ -83,13 +83,13 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KA_U_ZU_NI|KA_U_ZU_NI]]: Kawṯuni: Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KA_star305|KA_star305]]: ka-ḏā: thus, likewise (ditto heading); rivals kaṯ 'flask, jar', a personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KA_star305|KA_star305]]: ka-ḏā: thus, likewise (ditto heading). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KA_star314_SI|KA_star314_SI]]: Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KE_JU_MI_broken_both|KE_JU_MI_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KE_KI_RU|KE_KI_RU]]: Kakkaru: personal name, 'Disk, Round loaf'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KE_KI_RU|KE_KI_RU]]: Kikkaru: personal name, 'Disk, Round loaf'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KE_SI_TE|KE_SI_TE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -99,7 +99,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KI_DA_RO_broken_end|KI_DA_RO_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KI_DA_TA|KI_DA_TA]]: a party receiving grain (name or place). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KI_DA_TA|KI_DA_TA]]: Kidata: a party receiving grain (name or place). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KI_DE_MA_star323_NA_broken_end|KI_DE_MA_star323_NA_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -113,19 +113,19 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KI_MI_RA2|KI_MI_RA2]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KI_NI_MA|KI_NI_MA]]: kōhinīma: priests (plural + mimation). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KI_NI_MA|KI_NI_MA]]: kihinīma: priests (plural + mimation). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KI_NU|KI_NU]]: Kīnu: personal name, 'the True One' (kīnu 'true, reliable'). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KI_RA|KI_RA]]: kirû/qīra: possibly garden/orchard; alternatively hot bitumen. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KI_RA|KI_RA]]: kirû: garden, orchard; rival qīru 'hot bitumen'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KI_RE_TA2|KI_RE_TA2]]: Kirēta / Kret: Kret (eponym of Crete). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KI_RE_TA_NA|KI_RE_TA_NA]]: Kretana: Cretan (gentilic: 'of Crete'). Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/K/KI_RE_TA_NA|KI_RE_TA_NA]]: Kretan: Cretan (gentilic: 'of Crete'). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/K/KI_RE_ZA|KI_RE_ZA]]: Unread (edge overlap): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KI_RI_SI|KI_RI_SI]]: Kiriš: Kiriš, divine name (Amorite DN Kiriš/Kirišu) or theophoric short name; oil recipient. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KI_RI_SI|KI_RI_SI]]: Kiriš: Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KI_RI_TA2|KI_RI_TA2]]: Kirīta: Kret (variant spelling). Lexicon, PROBABLE (tier 3).
 
@@ -133,7 +133,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KI_RU|KI_RU]]: kirru: large vessel (vessel label). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KI_SA_NE|KI_SA_NE]]: qīšāne: personal or clan name, 'Kishite(s)'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KI_SA_NE_broken_start|KI_SA_NE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/K/KI_TA_I|KI_TA_I]]: gittī: of the (olive-)press, press-estate (nisbe -ī on gitt- 'press; farmstead, estate'). Lexicon, SPECULATIVE (tier 1).
 
@@ -153,7 +153,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KO_E|KO_E]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KO_JA|KO_JA]]: Qōya / Quya: personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong'). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KO_JA|KO_JA]]: Qōya: personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KO_MU|KO_MU]]: kummu: cella, inner sanctuary. Lexicon, SPECULATIVE (tier 1).
 
@@ -163,7 +163,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KU|KU]]: kull: all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/K/KU_DA|KU_DA]]: Gūda: Gūda (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KU_DA|KU_DA]]: Gūda: Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_KU_DA_RA|KU_KU_DA_RA]]: Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'. Lexicon, SPECULATIVE (tier 1).
 
@@ -173,9 +173,9 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KU_ME_TA_broken_start|KU_ME_TA_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_MI_NA|KU_MI_NA]]: kamūna: cumin (Cuminum cyminum). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/K/KU_MI_NA|KU_MI_NA]]: kumina: cumin (Cuminum cyminum). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KU_NI_SU|KU_NI_SU]]: kunīšu: assembly, the gathered body; rival Akkadian kunāšu 'emmer wheat'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/K/KU_NI_SU|KU_NI_SU]]: kunīšu: emmer (Akkadian loan). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/K/KU_NI_TE|KU_NI_TE]]: kuhnēt: priestess (fem. singular). Lexicon, SPECULATIVE (tier 1).
 
@@ -189,11 +189,11 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KU_PA3_NU|KU_PA3_NU]]: Kubānu: devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KU_PA3_PA3|KU_PA3_PA3]]: Kubaba: Kubaba (Anatolian/North Syrian divine or personal name). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/K/KU_PA3_PA3|KU_PA3_PA3]]: Kubaba: Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/K/KU_PA3_RI_JA|KU_PA3_RI_JA]]: Kubariya: Kubariya, a town of Ugarit, (wool) of Kubariya: a section heading; rival Gubliya 'the Byblian'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/K/KU_PA_JA|KU_PA_JA]]: Kubbaya: personal name (hypocoristic in -aya), cf. Amorite Kubbiya. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/K/KU_PA_JA|KU_PA_JA]]: Kubbaya: personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KU_PA_RI|KU_PA_RI]]: kuparī: the villages, a group of men drawing grain; rival kaparrī 'junior shepherds'. Lexicon, SPECULATIVE (tier 1).
 
@@ -201,7 +201,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/K/KU_PI|KU_PI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/K/KU_RA|KU_RA]]: Unread (unread): no role; 2 occurrence(s).
+[[wiki/linear-a/words/K/KU_RA|KU_RA]]: kulla: in all, total (accounting term), the -a form of KU-RO kull; rival a recipient. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/K/KU_RA_MU|KU_RA_MU]]: Kurmu: personal name, 'Vineyard' (√k-r-m). Lexicon, CANDIDATE (tier 2).
 

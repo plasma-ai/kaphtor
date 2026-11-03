@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-The diplomatic reading is \]\*301-WA\[: both edges are broken, and no divider establishes a complete word. With \*301 = NA, \]NA-WA\[ is compatible with the medial root sequence of A-TA-I-\*301-WA-JA, so IO Za 4 may preserve a fragment of the prayer. It is not independent evidence for a standalone noun nawā 'dwelling'.
+The diplomatic reading is \]\*301-WA\[: both edges are broken, and no divider establishes a complete word. With \*301 = NA, \]NA-WA\[ is compatible with the medial root sequence of A-TA-I-\*301-WA-JA, so IO Za 4 may preserve a fragment of the prayer.
 
 ### Source
 
@@ -67,6 +67,6 @@ The diplomatic reading is \]\*301-WA\[: both edges are broken, and no divider es
 
 ## Corpus note
 
-Iouktas peak sanctuary; fragmentary ritual inscription
+HM 3779, a fragment of a libation table from the Iouktas peak sanctuary (GORILA V 22–23, "Table à libations"): \]\*301-WẠ\[, broken at both ends, WA dotted. \*301-WA (\*301 = NA) stands elsewhere only in the formula verb A-TA-I-\*301-WA-JA, on IO Za 2, 3 and 7 from this sanctuary and at Kophinas, Palaikastro, Syme and Troullos, and in IO Za 8 A-NA-TI-\*301-WA-JA ʿAnatī nawaya: the fragment keeps the √n-w-y core of one of these.
 
 <!-- END kaphtor:record -->

@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | färräṭa 2 |  |  |
 | Tigrinya | färṭaʕ bälä 2 |  |  |
 | Hebrew | prṭ (HALOT 967 apud SEDonline 1318) | HALOT 967; SEDonline 1318 | gloss withheld |
-| Mandaic Aramaic | prṭ (MD 379 apud SEDonline 1318) | MD 379; SEDonline 1318 | gloss withheld |
+| Mandaic Aramaic | prṭ (MD 379) | MD 379 | gloss withheld |
 | East Ethiopic | Zwy. färäṭä (EDG 245 apud SEDonline 1318) | EDG 245; SEDonline 1318 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

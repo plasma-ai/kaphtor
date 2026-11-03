@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/SA055_FOOD
 title: "*mwn: 'FOOD'"
-desc: "Epigraphic South Arabian headword *mwn, 'FOOD': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *mwn, 'FOOD': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA055"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab mwn (SD 89; Biella 269) (Sabaweb lemma 4576) | SD 89; Biella 269; Sabaweb lemma 4576 | gloss withheld |
 | Arabic | Ar mūnaᵗ (DoJRAS'68/14; Biella 269). | Biella 269 | gloss withheld |
+| Eblaitic | ma-na /mawn=a/, ma-na-a /mawnay(n)/, cstr. mu-nu /mūn/ (Sanmartín GlOS 2, 61) | Sanmartín GlOS 2, 61 | gloss withheld |
+| Akkadian | mânu (CAD M/1 228) | CAD M/1 228 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3281_to_wander_stray
 title: "*šgy: 'to wander, stray'"
-desc: "Proto-Semitic *šgy, 'to wander, stray': reflexes in 3 language(s)."
+desc: "Proto-Semitic *šgy, 'to wander, stray': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3281"
@@ -32,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Hebrew | šgh (HALOT 1413 apud SEDonline 1561) | HALOT 1413; SEDonline 1561 | gloss withheld |
 | Syrian Aramaic | šgy (LSyr. 754, SL 1508 apud SEDonline 1561) | LSyr. 754, SL 1508; SEDonline 1561 | gloss withheld |
 | Geez | sakʷaya (CDG 498 apud SEDonline 1561) | CDG 498; SEDonline 1561 | gloss withheld |
+| Aramaic | šgʔ (DNWSI 1108) | DNWSI 1108 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

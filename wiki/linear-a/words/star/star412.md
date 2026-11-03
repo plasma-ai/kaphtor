@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star412
 title: "*412"
 desc: "ʾigān: large open bowl or basin for liquids; wine bowl. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "logogram", "vessel"]
 kind: "word"
 form: "*412"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | large open bowl or basin for liquids; wine bowl |
 | Root | ʔ-g-n |
 | Proto-Semitic | \*ʾigān- (#1358) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, logogram, vessel |
 | Semantic field | vessel |
 
 ### Note
 
-Commodity ideogram. \*412+E (×3, Malia MA10) + TI+\*412VAS (×1, MA10b) + \*412-VS-VIN (×1, Phaistos PH9b). VIN at PH9b confirms wine-vessel function. Distinct from \*406VAS = kās 'cup'—ʔaggān is larger basin type \|\| ETYMOLOGY: Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arab. ʔiggānat-, syllabic a-ga-nu at Qatna and Amarna (GlOS 1, 12). Arabic preserves /i/-class vowel; NWS /i/→/ē/ lowering yields /ʔēgān/; aleph drops → complement E = /ʔē-/ \|\| TI+\*412VAS = subtype (possibly ṭīn- 'clay bowl'). See A-KA-NU.
+Commodity logogram: \*412+E three times on MA 10, TI+\*412VAS once (MA 10b), \*412-VS-VIN once (PH 9b); VIN on PH 9b marks a wine vessel. Akk. agannu 'basin', Heb. ʔaggān (Exod 24:6, Song 7:3, Isa 22:24), Arb. ʔiggānat-, syllabic a-ga-nu at Qatna and Amarna (GlOS 1, 12): a larger basin than \*406VAS kās 'cup'. The complement E writes /ʔē-/: Arabic keeps the i-class vowel, Northwest Semitic lowers it to ē, ʔēgān, and the aleph is unwritten. TI+\*412VAS is a subtype, TI for ṭīn- 'clay bowl'. See A-KA-NU.
 
 ### Cognates
 

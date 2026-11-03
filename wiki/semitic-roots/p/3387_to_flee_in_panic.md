@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3387_to_flee_in_panic
 title: "*prd: 'to flee in panic'"
-desc: "Proto-Semitic *prd, 'to flee in panic': reflexes in 4 language(s)."
+desc: "Proto-Semitic *prd, 'to flee in panic': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3387"
@@ -34,6 +34,7 @@ updated: 2026-10-25T05:11:48Z
 | Jibbali | férɔ́d (JL 59 apud SEDonline 1489) | JL 59; SEDonline 1489 | gloss withheld |
 | Modern South Arabian | Bathari fərōd (Gasparini - Morris 2025 189 apud SEDonline 1489) | SEDonline 1489 | gloss withheld |
 | Soqotri | férod (Kogan 2015, ch. 8 §3.4.1 no. 88) | Kogan 2015 ch. 8 §3.4.1 no. 88 | gloss withheld |
+| Akkadian | parādu (CAD P 141) | CAD P 141 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

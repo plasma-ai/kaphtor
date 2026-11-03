@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_SA_MU
 title: "JA-SA-MU"
 desc: "yaśmaʿū: 'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "JA-SA-MU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | 'He hears'—yaqtal hypocoristic personal name with frozen nominative -ū |
 | Root | š-m-ʿ |
 | Proto-Semitic | \*šVmaʕ- (#216) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Zakros wine allocation list (ZA15a, stone vessel). JA-SA-MU receives 5 units alongside SI-PI-KI and SA-MI-DA-E (both read as Semitic). Proto-NWS sibilant merger (SA writes both /s/ and /š/) leaves the reading ambiguous: \*yasamu\* (with sāmek) or \*yašmuʿ\* (with šīn + ʿayin dropping). √š-m-ʿ "to hear" is the strongest parse—most productive NWS theophoric root in this shape, and the guttural-dropping rule accounts for the missing final radical. The Ishmael parallel is direct: Yišmāʿēl = yišmaʿ + ʾēl "El hears"; JA-SA-MU is the bare verbal element without the deity complement—a standalone sentence name "he (the god) hears." This is the first Linear A attestation of √š-m-ʿ, one of the most productive NWS theophoric roots. Secondary parse: Ya-ʾAšmu, Eshmun hypocoristic (ʾŠMN → ʾŠM- short form)—less likely because ya- prefix is not standard for Punic ʾŠMN short forms (which use ʾŠM-, not \*YŠM-). Huehnergard: infinitive replacing imperative /šamāʔu/ "hear!"; alternative parsing as jussive or infinitive-as-imperative. \|\| The form fits the yaqtal theme-vowel class with frozen nominative \*-ū, the citation form of an independent name (APNM pp. 104–15). Guttural-final root: cuneiform must write it (Ya-ás-ma-aḫ-{d}IM), Linear A must drop it—JA-SA-MU is the predicted Linear A shape of the Yašmaʿ hypocoristicon, APNM p. 132 Ya-ás-ma-ḫu-u\[m\]. The yaqtul parse yašmuʿ is the rival; both are G imperfects with identical Linear A surface. Fourth data point for the Yašmaʿ type at Zakros, independent of WI-JA-SU-MA-TI-TI/yašmaṭu (HTZd157+156).
+ZA 15a, a Zakros wine allocation list: JA-SA-MU 5, beside SI-PI-KI and SA-MI-DA-E. yaśmaʿū 'he hears', √š-m-ʿ, the bare verbal element of a sentence name, as Yišmāʿēl 'El hears' without the god; SA writes s and š alike, and the final ʿ is unwritten. Cuneiform writes the guttural (Ya-ás-ma-aḫ-{d}IM) and Linear A drops it: JA-SA-MU is the Linear A shape of the Yašmaʿ hypocoristicon, Ya-ás-ma-ḫu-u\[m\] (Huffmon 1965, 132). The form is the yaqtal theme-vowel class with the frozen nominative -ū, the citation form of an independent name (Huffmon 1965, 104–15); the yaqtul yašmuʿ is the rival parse, both G imperfects with one Linear A surface. Rivals: yasamu with sāmek; Ya-ʾAšmu, an Eshmun short form, though the short forms of ʾŠMN write ʾŠM-, not \*YŠM-. One attestation.
 
 ### Cognates
 
@@ -68,8 +68,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

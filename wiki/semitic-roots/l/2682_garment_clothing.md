@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/2682_garment_clothing
 title: "*libš-: 'garment, clothing'"
-desc: "Proto-Semitic *libš-, 'garment, clothing': reflexes in 15 language(s)."
+desc: "Proto-Semitic *libš-, 'garment, clothing': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2682"
@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | libās- 'garment, dress' (BK 2, 959) | BK 2, 959 |  |
 | Akkadian | lubuštu (CAD L 234); lubšu, lubūšu (HALOT 516) | CAD L 234; HALOT 516 | gloss withheld |
 | Ugaritic | lbš (DULAT 488) | DULAT 488 | gloss withheld |
-| Hebrew | lǝbūš (HALOT 516) | HALOT 516 | gloss withheld |
+| Hebrew | lǝbūš (HALOT 516); lābaš, hif. (HALOT 519–520) | HALOT 516; HALOT 519–520 | gloss withheld |
 | Epigraphic South Arabian | Sab lbs (Biella 257; Sabaweb lemma 4499); ʾlbs1 (SD 81; Sabaweb lemma 3160) | Biella 257; Sabaweb lemma 4499; SD 81; Sabaweb lemma 3160 | gloss withheld |
 | Tigre | lebs (HALOT 516) | HALOT 516 |  |
 | Geez | malbas (HALOT 587) | HALOT 587 |  |
@@ -43,7 +43,9 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | libšu (?) (George and Krebernik 2022, 151–152) | George and Krebernik 2022 151–152 | gloss withheld |
 | Syrian Aramaic | lbūš 'garment, raiment, clothing' (Payne Smith 234); lbāšā 'garment, clothing' (Payne Smith 235) | Payne Smith 234; Payne Smith 235 |  |
 | Amharic | läbbäsä (AED 78 apud SEDonline 1606) | AED 78; SEDonline 1606 | gloss withheld |
-| Aramaic | Off. lbš (DNWSI 565 apud SEDonline 1606) | DNWSI 565; SEDonline 1606 | gloss withheld |
+| Aramaic | Off. lbš (DNWSI 565) | DNWSI 565 | gloss withheld |
+| Eblaitic | du-a-ba-áš (D) /l-b-s₁/ (Sanmartín GlOS 2, 10) | Sanmartín GlOS 2, 10 | gloss withheld |
+| Biblical Aramaic | \*ləbūš (HALOT BArm. s.v. לְבוּשׁ); lbš, haf. (HALOT BArm. s.v. לבשׁ) | HALOT BArm. s.v. לְבוּשׁ; HALOT BArm. s.v. לבשׁ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/1659_grind_to_a_powder
 title: "*dug-: 'grind (to a powder)'"
-desc: "Proto-Semitic *dug-, 'grind (to a powder)': reflexes in 2 language(s)."
+desc: "Proto-Semitic *dug-, 'grind (to a powder)': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1659"
@@ -32,6 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | dgg \[-u-\] |  |  |
 | Eblaitic | du-gu-um /duqq/ (Sanmartín GlOS 1, 143) | Sanmartín GlOS 1, 143 | gloss withheld |
+| Geez | ʔadagdaga (LGz. 125) | LGz. 125 | gloss withheld |
+| Amharic | dägäddägä (LGz. 125) | LGz. 125 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

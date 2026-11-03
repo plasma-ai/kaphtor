@@ -51,11 +51,11 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> ʾAriš-āna (The Requested One)
+> ʾAriš-ān (The Requested One)
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-āna | 'The Requested One'—votive birth-name, √ʾ-r-š 'to request, desire' + hypocoristic -ān | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | 'The Requested One'—votive birth-name, √ʾ-r-š 'to request, desire' + hypocoristic -ān | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 

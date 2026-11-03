@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA3_NI_NA
 title: "PA₃-NI-NA"
 desc: "banīna: our builder. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "noun"]
+tags: ["linear-a", "word", "tier-3", "noun", "occupation", "personnel"]
 kind: "word"
 form: "PA₃-NI-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | our builder |
 | Root | b-n-y |
 | Proto-Semitic | \*bVn- (#649) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-√b-n-y 'to build' + 1pl possessive -na. Personnel designation. Huehnergard: III-y verb; participle /bāniyu/ → construct /bny/ "creator". Validates participial reading. See PA₃-NI.
+HT 6b and HT 93a: a personnel designation. √b-n-y 'build', the participle bāniyu with the 1pl possessive -na: banīna 'our builder'. See PA₃-NI.
 
 ### Cognates
 
@@ -72,8 +72,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | title (CANDIDATE) |
-| Affiliation | semitic (CANDIDATE) |
+| Type | title (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |

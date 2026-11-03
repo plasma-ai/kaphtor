@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2473_ashes
 title: "*ramṣ̂-: 'ashes'"
-desc: "Proto-Semitic *ramṣ̂-, 'ashes': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ramṣ̂-, 'ashes': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2473"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | rämmäč̣a, rämäč̣ |  | gloss withheld |
 | Geez | ramaḍa (LGz. 470) | LGz. 470 | gloss withheld |
 | Jibbali | rɛmĉ̣ |  |  |
+| Ugaritic | rmṣ (DULAT 730) | DULAT 730 | gloss withheld |
 | Hebrew | pB rmṣ 'roll or bake in hot ashes', rämäṣ 'hot ashes, embers' Ja. 1483 | Ja. 1483 |  |
 | Amharic | rämmäṭä |  | gloss withheld |
 | Syrian Aramaic | rǝmūʕ- |  | gloss withheld |

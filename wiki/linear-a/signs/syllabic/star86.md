@@ -48,10 +48,4 @@ updated: 2026-10-24T16:17:50Z
 
 Speculative. A mostly standalone sign (16 of 24 tokens) whose syllabic value is undetermined: na leads ro and da by a hair (0.795, 0.769, 0.767), and NA (AB06) and \*301 already write na. The emphatic ṇa stays an alternate; no test separates it from na. Syllabic witnesses are few: \*86-SI-NI (HT140); \*86-RO, \*86 on face a and RO on face g of KHWa1013–1016, one scribe; RE-\*86 (MILZb4), the second sign incomplete. In \*86-SI-\*118-KA (HT140) \*86 lies in the break. The other tokens are standalone \*86 with a numeral or the \*86+\*188 ligature. HT11b gives no co-occurrence proof: there \*86 stands before the logogram KA and its numeral. Linear B \*86 survives at 6 attestations, mostly in substrate toponyms, with no value.
 
-## Lexicon words written with this sign
-
-| Word | Reading | Confidence |
-|---|---|---|
-| [[wiki/linear-a/words/star/star86_RO\|\*86-RO]] | naʿaru | CANDIDATE |
-
 <!-- END kaphtor:record -->

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_NA_JA_PA_QA
 title: "I-NA-JA-PA-QA"
 desc: "hinna yapqaḥ: Behold, he opens (his eyes)!—theophanic epiphany closure. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "I-NA-JA-PA-QA"
 datasets: ["lexicon"]
@@ -35,20 +35,21 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Behold, he opens (his eyes)!—theophanic epiphany closure |
 | Root | h-n-n + p-q-ḥ |
 | Proto-Semitic | \*hn (#3482) + \*paqaḥ- (#K0259) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | compound, hapax, libation_formula, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Proposed I-NA hinna 'behold!' + JA-PA-QA, 3ms yaqtul of √p-q-ḥ 'open (the eyes).' It closes the damaged PKZa11 prayer; JA-PA-QA is independently attested on PKZa12. Hebrew hinnēh/hēn and Ugaritic hn support the presentative, while Isa 42:7 supplies the 'open eyes' usage. IOZa6 is not a bare-I-NA control: I-NA-TA-I-ZU-DI-SI-KA there reads ʿInatī ṯudī-šiqā, though hinna remains a rival segmentation. See JA-PA-QA, I-NA.
+PK Za 11 closes with I-NA-JA-PA-QA, after I-PI-NA-MI-NA SI-RU-\[?\] ·, the last words of the damaged prayer; JA-PA-QA stands alone on PK Za 12. I-NA hinna 'behold!' and JA-PA-QA yapqaḥ, 3ms yaqtul of √p-q-ḥ 'open (the eyes)'. Hebrew hinnēh/hēn and Ugaritic hn 'behold!' (DULAT 337) give the presentative, and Isa 42:7 lipqōaḥ ʿênayim 'to open eyes' the usage. One attestation. See JA-PA-QA, I-NA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | פָּקַח pāqaḥ "to open (eyes)" (Isa 42:7); hinnēh (הִנֵּה) "behold" |
-| Ugaritic | hn "behold!" |
-| Arabic | ʾinna (إنّ) "behold" (later form, ʾ for h) |
+| Hebrew | פָּקַח pāqaḥ 'to open (eyes)' (Isa 42:7; HALOT 959); hinnēh (הִנֵּה) 'behold' (HALOT 252) |
+| Ugaritic | hn 'behold!' (DULAT 337) |
+| Arabic | ʾinna (إنّ) 'look' (HALOT 251) |
 
 ### Source
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šāḫu, sāḫu, š/sīḫu CAD š1 105 | CAD š1 105 |  |
+| Akkadian | šāḫu, sāḫu, š/sīḫu CAD š1 105; AHw 1132 | CAD š1 105; AHw 1132 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

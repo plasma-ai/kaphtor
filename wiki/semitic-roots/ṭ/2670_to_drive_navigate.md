@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/2670_to_drive_navigate
 title: "*ṭVrd-: 'to drive, navigate'"
-desc: "Proto-Semitic *ṭVrd-, 'to drive, navigate': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ṭVrd-, 'to drive, navigate': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2670"
@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭarādu (CAD Ṭ 50) | CAD Ṭ 50 | gloss withheld |
+| Akkadian | ṭarādu (CAD Ṭ 50; AHw 1380) | CAD Ṭ 50; AHw 1380 | gloss withheld |
 | Ugaritic | ṭrd (DULAT 876) | DULAT 876 | gloss withheld |
 | Hebrew | ṭārad (HALOT 379) | HALOT 379 | gloss withheld |
 | Arabic | ṭrd \[-u-\] 'drive away' (Lane 1838) | Lane 1838 |  |
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ṭérod (LS 208; CSOL I 688; CSOL II 621; Naumkin et al. 2016b:69 apud SEDonline 1614) | LS 208; SEDonline 1614 | gloss withheld |
 | Eblaitic | du-ru₁₂-da-A, idₓ-da-ra-da-A /ṭ-r-d/ (Sanmartín GlOS 2, 310) | Sanmartín GlOS 2, 310 | gloss withheld |
 | Amorite | ṭrd: ṭaridum, ṭarudum (Gelb AS 21, 35) | Gelb AS 21 35 | gloss withheld |
+| Biblical Aramaic | ṭrd (HALOT BArm. s.v. טרד) | HALOT BArm. s.v. טרד | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3026_mustard
 title: "*ḫVrdVl-: 'mustard'"
-desc: "Proto-Semitic *ḫVrdVl-, 'mustard': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫVrdVl-, 'mustard': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3026"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫardal- 'mustard-seed' (Lane 721) | Lane 721 |  |
 | Syrian Aramaic | ḥardlā 'mustard seed; black mustard'; ḥardlūnā 'wild mustard, white mustard' (Payne Smith 156) | Payne Smith 156 |  |
+| Hebrew | ḥrdl (DNWSI 403) | DNWSI 403 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

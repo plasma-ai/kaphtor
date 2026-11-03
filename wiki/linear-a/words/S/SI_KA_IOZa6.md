@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_KA_IOZa6
 title: "SI-KA (IOZa6)"
 desc: "šiqā: Who Gives Drink (proposed second member of a divine epithet; participial/verbal noun of √š-q-y). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine_epithet"]
+tags: ["linear-a", "word", "tier-2", "epithet", "hapax", "libation_formula", "ritual"]
 kind: "word"
 form: "SI-KA (IOZa6)"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Who Gives Drink (proposed second member of a divine epithet; participial/verbal noun of √š-q-y) |
 | Root | š-q-y |
 | Proto-Semitic | \*šVḳ- (#1389) |
-| Language layer | NWS |
-| Category | divine_epithet |
+| Language layer | Semitic |
+| Tags | epithet, hapax, libation_formula, ritual |
 | Semantic field | divine |
 
 ### Note
 
-Ritual homograph, kept separate from administrative SI-KA √š-k-n (HT nodules, KH5). In the undivided IO Za 6 group I-NA-TA-I-ZU-DI-SI-KA, it is tentatively segmented after ZU-DI and read as the second member of ṯudī-šiqā, "Breast-Who-Gives-Drink." The participle sāqiy 'waterer' (GlOS 2, 245), Ebla saqat 'libation' (GlOS 2, 246) and the Ebla name si-gi-da-mu 'give drink, Damu!' (Pagan 1998, row 4205) attest the root. The root and divine-epithet syntax are Semitically plausible, but Linear A supplies neither a divider before SI-KA nor independent confirmation of this vocalization.
+IO Za 6, inside the undivided group I-NA-TA-I-ZU-DI-SI-KA, segmented after ZU-DI: the second member of ṯudī-šiqā 'Breast-Who-Gives-Drink'. √š-q-y 'give drink': the participle sāqiy 'waterer' (GlOS 2, 245), Ebla saqat 'libation' (GlOS 2, 246) and the Ebla name si-gi-da-mu 'give drink, Damu!' (Pagan 1998, row 4205). The same šiqā closes A-DA-KI-SI-KA (KH 5). Cf. administrative SI-KA (√š-k-n) on the HT nodules. Weak point: no divider stands before SI-KA. One attestation. See TE-SU-DE-SE-KE-I.
 
 ### Cognates
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2731_to_kneel_bless
 title: "*bVrVk-: 'to kneel, bless'"
-desc: "Proto-Semitic *bVrVk-, 'to kneel, bless': reflexes in 20 language(s)."
+desc: "Proto-Semitic *bVrVk-, 'to kneel, bless': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2731"
@@ -33,12 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | baraka 'to kneel, bless' (BK 1, 116) | BK 1, 116 |  |
 | Ugaritic | brk tD, Gpass.; brk (DULAT 234–235) | DULAT 234–235 | gloss withheld |
 | Phoenician | brk (Krahmalkov 126); brkt (T 57) | Krahmalkov 126; T 57 | gloss withheld |
-| Hebrew | bārak (HALOT 159) | HALOT 159 | gloss withheld |
+| Hebrew | bārak (HALOT 159); brkh (DNWSI 202) | HALOT 159; DNWSI 202 | gloss withheld |
 | Geez | bārəko(t) (OLA80 §42.11) | OLA80 §42.11 | gloss withheld |
 | Syrian Aramaic | bᵉrak (HALOT 159) | HALOT 159 |  |
 | Tigre | barka (HALOT 159) | HALOT 159 |  |
 | Epigraphic South Arabian | brk (HALOT 159; Sabaweb lemma 3969) | HALOT 159; Sabaweb lemma 3969 | gloss withheld |
-| Punic | ybarku (HALOT 159) | HALOT 159 |  |
+| Punic | ybarku (HALOT 159); brk, in brktk (Krahmalkov 126); Neo-Punic brk (Krahmalkov 127); Neo-Punic brkt, in ʾbbrktm (Krahmalkov 127) | HALOT 159; Krahmalkov 126; Krahmalkov 127 | gloss withheld |
 | Argobba | (əm)bäräkkäka (LGz. 105) | LGz. 105 | gloss withheld |
 | Gafat | (tän)birräkä (LGz. 105) | LGz. 105 | gloss withheld |
 | Soqotri | borik (LGz. 105) | LGz. 105 | gloss withheld |
@@ -49,6 +49,9 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | birketaʾ (T 57) | T 57 |  |
 | Mandaic Aramaic | brakaʾ (T 57) | T 57 |  |
 | Amorite | yabruk, bariku (Buck 2019, 325); b-r-k: ia-ab-ru-ka-bum, ia-ab-ru-uk-a-bu-um, ba-ri-ku-um (Sanmartín GlOS 1, 124) | Buck 2019, 325; Sanmartín GlOS 1, 124 | gloss withheld |
+| Canaanite | EG SYLL bi=ra=ku₂ /\*birkū/ (Hoch 103); bi=-r=ku, bi=ra=ku, bi₂=ra=ku, bi=ra=k /\*birkū/ (Hoch 104–105) | Hoch 103; Hoch 104–105 | gloss withheld |
+| Biblical Aramaic | brk pa.; pe. pt. pass. (HALOT 159) | HALOT 159 | gloss withheld |
+| Aramaic | brk; bryk (DNWSI 198–202); brkh (DNWSI 202) | DNWSI 198–202; DNWSI 202 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

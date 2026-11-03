@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/430_lead
 title: "*wVbVl-: 'lead'"
-desc: "Proto-Semitic *wVbVl-, 'lead': reflexes in 8 language(s)."
+desc: "Proto-Semitic *wVbVl-, 'lead': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "430"
@@ -32,12 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | ybl |  |  |
 | Aramaic | ybl |  |  |
-| Ugaritic | wbl (Tropper UG §75.511) | Tropper UG §75.511 | gloss withheld |
-| Akkadian | (w)abālu, babālu, tabālu; EA ubil (HALOT 383) | HALOT 383 |  |
+| Ugaritic | wbl (Tropper UG §75.511); /mōbalu/ (UVST 132) | Tropper UG §75.511; UVST 132 | gloss withheld |
+| Akkadian | (w)abālu, babālu, tabālu (AHw 1450); EA ubil (HALOT 383) | AHw 1450; HALOT 383 |  |
 | Syrian Aramaic | ʾaubel (HALOT 383) | HALOT 383 |  |
 | Amorite | \*ybl (HALOT 383); yabal, yîbal (Buck 2019, 334) | HALOT 383; Buck 2019, 334 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic tbl (Al-Jallad–Jaworska 131) | Al-Jallad–Jaworska 131 | gloss withheld |
 | Eblaitic | wa-ba-lu /wabālu(m)/ (VE 979; Krebernik 1983, 35); /tawbil/ &gt; /tūbil/ (Akk. tūbil), 3rd f./2nd m.: names da-bíl-da-mu, du-bíl-da-mu, du-bíl-ma-lik (Krebernik 1988, 53–55) | VE 979; Krebernik 1983, 35; Krebernik 1988, 53–55 | gloss withheld |
+| Biblical Aramaic | ybl haf. (HALOT 383) | HALOT 383 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

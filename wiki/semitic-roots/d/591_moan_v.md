@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/591_moan_v
 title: "*dVm-: 'moan' (v.)"
-desc: "Proto-Semitic *dVm-, 'moan' (v.): reflexes in 3 language(s)."
+desc: "Proto-Semitic *dVm-, 'moan' (v.): reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "591"
@@ -33,6 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | dmm |  |  |
 | Akkadian | damāmu (HALOT 226) | HALOT 226 | gloss withheld |
 | Hebrew | dmm (HALOT 226) | HALOT 226 | gloss withheld |
+| Arabic | damdama (LGz. 134) | LGz. 134 | gloss withheld |
+| Mandaic Aramaic | dmdm (LGz. 134) | LGz. 134 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | bṯt 1 (DULAT 250); bhṯ 1 (DULAT 216); bṯ 2 (DULAT 249) | DULAT 250; DULAT 216; DULAT 249 | gloss withheld |
 | Hebrew | būšâ 1 (HALOT 117); bôš 2 (HALOT 116) | HALOT 117; HALOT 116 | gloss withheld |
 | Syrian Aramaic | behtōt- 1, bht 2 (Payne Smith 37) | Payne Smith 37 |  |
-| Aramaic | (Emp) bwt (DNWSI 148 apud CAL) | DNWSI 148; CAL |  |
+| Aramaic | (Emp) bwt (DNWSI 148) | DNWSI 148 |  |
 | Amorite | bwš: bāš(ān)um, bāštum (Gelb AS 21, 17); bāṯ 2: =ba-ši, =ba-sa, ba-ša-nu(-um); bāṯt 1: ba-aš-tum, =ba-ša-at/ta, (=)ba-aš/áš-ti(=) (Sanmartín GlOS 1, 133) | Gelb AS 21 17; Sanmartín GlOS 1, 133 | gloss withheld |
 | Eblaitic | /bāṯ/ 2: name ba-sa/su; /būṯ/ 1: names bu-si, bù-su/sum, bu-su-um (Sanmartín GlOS 1, 133) | Sanmartín GlOS 1, 133 | gloss withheld |
 

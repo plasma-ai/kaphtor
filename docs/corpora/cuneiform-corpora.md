@@ -35,10 +35,8 @@ provenanced:
 | Ugarit Texts Database | 4,582 metadata rows | Identifier/archaeological catalogue only, never textual attestation; CC BY 4.0 |
 | Achemenet Babylonian | 2,830 documents; 262,127 token rows | Achaemenid-period corpus in five CoNLL-U collections; BabyLemmatizer analyses are automatic, not independent philological confirmation; CC BY 4.0 |
 
-The Copenhagen Ugaritic source checkout is current through v0.2.8, whose new
-Text-Fabric layer corrects word divisions. The existing 279-tablet project index
-continues to cite `auto_parsing/0.2.7`; do not silently relabel that derived
-index as v0.2.8 until it is rebuilt from the new Text-Fabric representation.
+The 279-tablet Copenhagen Ugaritic index is built from `auto_parsing/0.2.7`; v0.2.8's Text-Fabric layer corrects
+word divisions.
 
 The ORACC total includes SAAo, ATAE, RINAP, RIBo, TCMA, BALT, BabCity, Borsippa,
 HBTIN, Rīm-Anum, OBTA, OBMC, OBEL, AEMW/Amarna, AEMW/Ugarit,
@@ -63,7 +61,7 @@ AEMW/Alalakh-Idrimi, DCCLT/Ebla, NERE, and CAMS/GKAB.
 
 | Requested area | Assessment |
 |---|---|
-| Assyrian letters | Strong local coverage: SAAo contains 5,058 unique IDs across SAA 1–21 and SAAS 2; the broader ATAE/TCMA holdings are also present |
+| Assyrian letters | Strong local coverage: SAAo contains 5,055 editions of 5,054 objects across SAA 1–21 and SAAS 2; the broader ATAE/TCMA holdings are also present |
 | Old Babylonian administrative/legal | Materially improved, not comprehensive: CDLI supplies 38,783 OB administrative and 8,678 OB legal catalogue records; local ATF availability is much smaller and uneven |
 | Mari | Discovery coverage, not a comprehensive local text corpus: the CDLI filter returns 9,479 Mari + Early/Old Babylonian + Akkadian catalogue records; NERE contributes only the Epic of Zimri-Lim |
 | Ugarit | AEMW/Ugarit supplies 1,900 valid editions: 839 KTU 4 texts, 955 wholly alphabetic-Ugaritic documents, and extensive syllabic Akkadian material; CUC remains the independent sign-level KTU 1–3 layer |

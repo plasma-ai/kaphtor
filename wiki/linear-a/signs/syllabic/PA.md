@@ -50,9 +50,10 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/star/star304_plus_PA\|\*304+PA]] | pidru + PA | CANDIDATE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | CANDIDATE |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RI_PA\|A-RI-PA]] | ʾaripāʾ / ʿarpa | CANDIDATE |
+| [[wiki/linear-a/words/A/A_RI_PA\|A-RI-PA]] | ʾaripāʾ | CANDIDATE |
+| [[wiki/linear-a/words/D/DI_PA_JA\|DI-PA-JA]] | dipaya | CANDIDATE |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | parīsu | CANDIDATE |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_JA_PA_QA\|I-NA-JA-PA-QA]] | hinna yapqaḥ | CANDIDATE |
@@ -76,14 +77,16 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne / parāne | CANDIDATE |
+| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA_SE\|PA-SE]] | Pašše | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE_JA\|PA-SE-JA]] | Paššiya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_I_NU_MA_PA\|TA-I-NU-MA-PA]] | Tainumapa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_PA\|TA-PA]] | tappāʾu | SPECULATIVE |
+| [[wiki/linear-a/words/T/TU_PA_DI_DA\|TU-PA-DI-DA]] | ṭūb-dida | SPECULATIVE |
 
 <!-- END kaphtor:record -->

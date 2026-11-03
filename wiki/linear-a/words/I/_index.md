@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:13:39Z
+updated: 2026-11-05T18:37:24Z
 ---
 
 # wiki/linear-a/words/I
@@ -11,11 +11,11 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/I/I_DA|I_DA]]: ʾIda: Ida, 'the Hand' (sacred mountain—toponym/theonym). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/I/I_DA_A|I_DA_A]]: ʾIda: of Ida (preferred diptotic genitive after DU-*314-RE); alternatively, toward Ida. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/I/I_DA_A|I_DA_A]]: ʾIda: of Ida (diptotic genitive after DU-*314-RE); rival 'toward Ida'. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/I/I_DA_DA|I_DA_DA]]: dādā: O Beloved!—vocative of the reduplicative divine epithet (with i- prosthesis). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_DA_MA_TE|I_DA_MA_TE]]: ʾidamat: the tower (DA-MA-TE with prothetic I-). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_DA_MA_TE|I_DA_MA_TE]]: ʾidmat: the Tower, a sacred title (DA-MA-TE with prothetic I-). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_DA_MI|I_DA_MI]]: ʾIda=mi: Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi. Lexicon, CANDIDATE (tier 2).
 
@@ -51,13 +51,13 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/I/I_KU_PI|I_KU_PI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_KU_RI_NA|I_KU_RI_NA]]: ʾiqurna: at the horn / promontory (toponym?). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_KU_RI_NA|I_KU_RI_NA]]: ʾiqurna: at the horn, the promontory (place name). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/I/I_KU_TA|I_KU_TA]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/I/I_KU_TA|I_KU_TA]]: Ḥikuptaḥ: place name: Memphis, the seat of Kothar (Ug. Ḥkpt), a recipient of cyperus; rival 'the Memphite'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_MA|I_MA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_MI_SA_RA|I_MI_SA_RA]]: ʾī-Mīšaru: Divine Justice / ʾĪ-Mīšaru—theophoric compound: ʾī- (divine prefix) + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/I/I_MI_SA_RA|I_MI_SA_RA]]: Il-Mīšar: Il-Mīšar, god of justice—theophoric compound: ʾil 'god' + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/I/I_NA|I_NA]]: hinna: behold! (presentative particle). Lexicon, CANDIDATE (tier 2).
 
@@ -65,7 +65,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/I/I_NA_JA_PA_QA|I_NA_JA_PA_QA]]: hinna yapqaḥ: Behold, he opens (his eyes)!—theophanic epiphany closure. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/I/I_NA_JA_RE_TA|I_NA_JA_RE_TA]]: hinna yirʾat-[…]: behold, the reverence of… (broken). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_NA_JA_RE_TA|I_NA_JA_RE_TA]]: hinna yarēʾat-[…]: behold, she who reveres… (broken). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_NA_TA_I|I_NA_TA_I]]: ʿInatī: my Anat—theonym plus 1cs -ī; proposed "She Who Answers" (√ʿ-n-y). Lexicon, CANDIDATE (tier 2).
 
@@ -81,7 +81,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/I/I_PI_NA_MI_NA|I_PI_NA_MI_NA]]: ʾippina=mi=na: face, presence (of)—expanded variant of I-PI-NA-MA. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/I/I_QA_star118|I_QA_star118]]: iqa-*118: section heading over mixed commodities. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_QA_star118|I_QA_star118]]: iqṭaʿ: divide! (imperative of √q-ṭ-ʿ), heading over mixed commodities. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_RA2|I_RA2]]: ʾilā(t): goddess; rival ʾila 'god'. Lexicon, SPECULATIVE (tier 1).
 
@@ -95,15 +95,15 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/I/I_SI|I_SI]]: ʾiššê: fire offering(s). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_TA_JA|I_TA_JA]]: ʾIttaya: personal name, hypocoristic in -aya (cf. Hebrew ʾIttay). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/I/I_TA_JA|I_TA_JA]]: ʾIttaya: personal name, 'with me (is God)', hypocoristic in -aya (cf. Hebrew ʾIttay). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_TI|I_TI]]: ʾitti: with, at (comitative preposition); IOZa12 possibly ʔittī 'with me'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_TI|I_TI]]: ʾitti: with, at (comitative preposition); on IO Za 12 ʾittī 'with me'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_TI_NI_SA|I_TI_NI_SA]]: ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/I/I_TI_TI_KU_NI|I_TI_TI_KU_NI]]: (y)ittatkūni: which have been poured out—disbursed (derived-stem header); rival a heading name. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/I/I_ZU_RI_NI_TA|I_ZU_RI_NI_TA]]: ʾi-ṯawrīnīt: She-of-the-Bull (feminine personal/divine name). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/I/I_ZU_RI_NI_TA|I_ZU_RI_NI_TA]]: ʾi-ṯawrīnīta: She-of-the-Bull (feminine personal/divine name). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/I/I_q_WA_JA|I_q_WA_JA]]: Unread (role only): personal name; 1 occurrence(s).
 

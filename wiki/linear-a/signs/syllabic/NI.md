@@ -50,19 +50,20 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DU_SU_NI\|DU-SU-NI]] | Dišon | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
+| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NI_JA_MI\|KA-NI-JA-MI]] | qāniy-yammi | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | SPECULATIVE |
-| [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kōhinīma | CANDIDATE |
+| [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kihinīma | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_TA_NI_TE\|KI-TA-NI-TE]] | kitānit | CANDIDATE |
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | PROBABLE |
 | [[wiki/linear-a/words/K/KU_NI_TE\|KU-NI-TE]] | kuhnēt | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | CANDIDATE |
-| [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | matni | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | mitāni | SPECULATIVE |
 | [[wiki/linear-a/words/N/NI\|NI]] |  | CONFIRMED |
 | [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] | nīnūn | SPECULATIVE |
+| [[wiki/linear-a/words/N/NI_PI\|NI-PI]] | nīb | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]] | bānī | CANDIDATE |
 | [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | PROBABLE |
 | [[wiki/linear-a/words/P/PA3_NI_WI\|PA₃-NI-WI]] | bānīy | CANDIDATE |
@@ -70,6 +71,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NU_NI_KI_NA\|TA-NU-NI-KI-NA]] | tannî qînâ | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinitu Dubur | PROBABLE |
-| [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯawrinima | SPECULATIVE |
+| [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | SPECULATIVE |
 
 <!-- END kaphtor:record -->

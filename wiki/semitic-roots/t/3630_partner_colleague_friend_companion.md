@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tappû, tappāu, OA tappāū, from OAkk. on (CAD T 184) | CAD T 184 | gloss withheld |
+| Akkadian | tappû, tappāu, OA tappāū, from OAkk. on (CAD T 184; AHw 1321) | CAD T 184; AHw 1321 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

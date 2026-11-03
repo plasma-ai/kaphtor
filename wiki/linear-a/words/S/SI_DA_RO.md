@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_DA_RO
 title: "SI-DA-RO"
 desc: "siddāru: siddāru 'Arranger' (personal name; spelling of SI-DA-RE). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SI-DA-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -35,9 +35,9 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | siddāru 'Arranger' (personal name; spelling of SI-DA-RE) |
 | Root | s-d-r |
 | Proto-Semitic | \*sadār- (#K0390) |
-| Language layer | NWS |
-| Category | personal_name |
-| Semantic field | personnel |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
@@ -64,9 +64,13 @@ di Mino; GlOS 2
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Gournia |
 | Supports | Tablet 1 |
+
+### Note
+
+GO 2 recto .3 SI-DA-RO ¼ (Younger, Linear A Texts). SI-DA-RE (HT 17, HT 122a) with final o. See the lexicon entry.
 
 <!-- END kaphtor:record -->

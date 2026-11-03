@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0310_cluck
 title: "*qaraq-: 'cluck'"
-desc: "Proto-Semitic *qaraq-, 'cluck': reflexes in 3 language(s)."
+desc: "Proto-Semitic *qaraq-, 'cluck': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0310"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | qaraqa 'clucked' | Anderson–Moser 2024 root qrq |  |
 | Aramaic | QRQ (CAL s.v. qrq) | CAL s.v. qrq; Anderson–Moser 2024 root qrq | gloss withheld |
 | Syrian Aramaic | qareq 'to cluck', qarqar 'to cluck, cackle' (Payne Smith 521) | Payne Smith 521 |  |
+| Hebrew | Post-biblical qirqer (LGz. 443) | LGz. 443 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

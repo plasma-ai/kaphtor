@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | pd /piddu/ (Huehnergard 2012, 154) | Huehnergard 2012 154 | gloss withheld |
-| Hebrew | paz | SEDonline semet 336 |  |
+| Ugaritic | pd /piddu/ (Huehnergard 2012, 154); pḏ (DULAT 654) | Huehnergard 2012 154; DULAT 654 | gloss withheld |
+| Hebrew | paz (HALOT 921) | HALOT 921 | gloss withheld |
 | Judaic Aramaic | pᵉzā, pᵉzūzā (HALOT 921) | HALOT 921 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

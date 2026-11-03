@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔimraʔat-, marʔ-at- |  |  |
 | Epigraphic South Arabian | mrʔ-t (Sabaweb lemma 1335) | Sabaweb lemma 1335 | gloss withheld |
 | Akkadian | mārtu (marʾatu, merʾatu) (CAD M/1 300) | CAD M/1 300 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic mrʾt (Al-Jallad–Jaworska 98) | Al-Jallad–Jaworska 98 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mrʾt (Al-Jallad–Jaworska 98); Dadanitic mrʾt; Hismaic mrʾt; Thamudic mrʾt (Al-Jallad 2026, 93) | Al-Jallad–Jaworska 98; Al-Jallad 2026 93 | gloss withheld |
 | Eblaitic | ma-al-a-tum /marʔatum/ (VE 260; Krebernik 1983, 47) | VE 260; Krebernik 1983, 47 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

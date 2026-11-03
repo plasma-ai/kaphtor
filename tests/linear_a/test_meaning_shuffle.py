@@ -221,6 +221,14 @@ class TestCompetitorDistance:
         assert dist("KA-NA-SI", ADMIN) > dist("KA-NA-SI", FOOD)
         assert dist("KA-NA-SI", DEITY) == INF
 
+    def test_the_context_spaces_read_the_loaded_table_with_d14(self, engine):
+        # load() adds D14's k ~ ḫ to the space's table; the spec keeps the base table, which lacks it.
+        spec = SimpleNamespace(distances={}, guttural_transparent=True)
+        space = CompetitorSpace("toy", {("ḫ", "n", "s"): ["L1"]}, {("k", "ḫ"): 0.3})
+        dist = ms.competitor_distance(space, spec, {"L1": FOOD}, engine)
+        vs = rm.variants(engine.word_readings("KA-NA-SI"), "KA-NA-SI")
+        assert dist("KA-NA-SI", FOOD) == space.d_star(vs)
+
 
 class TestCompetitorDomains:
     def test_domains_come_from_the_meaning_gloss(self, tmp_path):
@@ -411,7 +419,7 @@ class TestCli:
         monkeypatch.setattr(cli, "RIVALS", _rivals(tmp_path))
         rc, out, _ = cli_run("--competitors")
         assert rc == 0
-        assert set(out["competitors"]) == {"luwian", "egyptian", "hurrian"}
+        assert set(out["competitors"]) == {"luwian", "egyptian", "hurrian", "hattic"}
         for t in out["competitors"].values():
             assert t["n"] == out["semitic"]["n"] and t["words_with_a_match"] >= 1
 

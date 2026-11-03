@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣâlu 'fight' | Anderson–Moser 2024 root ṣʾl |  |
+| Akkadian | ṣâlu (AHw 1079) | AHw 1079; Anderson–Moser 2024 root ṣʾl | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

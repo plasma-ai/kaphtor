@@ -1,7 +1,7 @@
 """The shipped files the Shoresh tests read, and the mark that runs them as `data` tests and skips them when one is not
 in the checkout. Every index a test builds keys its records through the correspondence table, every word is read
 through the sign registry, family B draws its decoys from the corpus, and the end-to-end runs read the roots, the
-lexicon, the sign values and the three rival-language files.
+lexicon, the sign values and the four rival-language files.
 """
 import pytest
 
@@ -17,6 +17,7 @@ INPUTS = (
     LINEAR_A_DATA / "luwian_roots.json",
     LINEAR_A_DATA / "egyptian_roots.json",
     LINEAR_A_DATA / "hurrian_roots.json",
+    LINEAR_A_DATA / "hattic_roots.json",
 )
 MISSING = [p.name for p in INPUTS if not p.exists()]
 SHORESH = [pytest.mark.data,

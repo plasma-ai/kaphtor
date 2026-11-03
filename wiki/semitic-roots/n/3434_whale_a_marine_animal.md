@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | nāḫiru (CAD N₁ 137, AHw. 714 apud SEDonline 314) | CAD N₁ 137, AHw. 714; SEDonline 314 | gloss withheld |
-| Ugaritic | ˀanḫr (DUL 79, Watson 2007:77 apud SEDonline 314) | DUL 79, Watson 2007:77; SEDonline 314 | gloss withheld |
+| Ugaritic | ˀanḫr (DULAT 76; Watson 2007:77 apud SEDonline 314) | DULAT 76; Watson 2007:77; SEDonline 314 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

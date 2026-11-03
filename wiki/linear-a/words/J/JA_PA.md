@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_PA
 title: "JA-PA"
 desc: "Yapaʿ(u): personal name (\"he shines\"—Amarna Yapaḫu). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-PA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name ("he shines"—Amarna Yapaḫu) |
 | Root | y-p-ʿ |
 | Proto-Semitic | \*yVpVʕ- (#782) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 4a .3-4 JA-PẠ 1̣\[, PA dotted, numeral dotted and broken after (GORILA III 149). One witness. Standalone JA-PA on ZA4a (Zakros). Of 6 corpus occurrences of JA-PA, only ZA4a is standalone—extended forms JA-PA-QA, I-NA-JA-PA-QA, JA-PA-RA-JA-SE are likely different words/roots. Skeleton y-p maps to √y-p-ʿ with guttural ʿ dropping (standard in Linear A); the Amarna spelling Yapaḫu writes ʿ with cuneiform -ḫ-, and Hebrew preserves the PN as Yāpîaʿ (Josh 10:3). Alalakh has bare ia-pa yapaʿ (Buck 2018, 334; Gelb 1980, no. 3395), beside Amarna Yapaḫu (EA 297-300, ruler of Gezer); the Amorite name family Jāpuʿ/Jēpaʿ (√JPʿ) carries the same element. ARKH3b \[…\]-JA-PI is a damaged ending and supplies no independent inflectional parallel. See A-WA-PI.
+ZA 4a .3–4 JA-PẠ 1̣\[, PA dotted, the numeral dotted and broken after (GORILA III 149), the only JA-PA standing alone: JA-PA-QA, I-NA-JA-PA-QA and JA-PA-RA-JA-SE are other words. Yapaʿ, √y-p-ʿ with ʿ unwritten: Amarna writes the ʿ with -ḫ- in Yapaḫu, ruler of Gezer (EA 297–300), Hebrew keeps the name as Yāpîaʿ (Josh 10:3), Alalakh has bare ia-pa yapaʿ (Buck 2018, 334), and Gelb files JA-JPAʿ at Mari and Alalakh (Gelb 1980, nos. 2792, 3395). ARKH 3b \[…\]-JA-PI is a damaged ending. One witness. See A-WA-PI.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ ZA 4a .3-4 JA-PẠ 1̣\[, PA dotted, numeral dotted and broken after (GORILA III
 
 ### Source
 
-ZA4a; GORILA III 149; Gelb 1980, nos. 2792, 3395; Buck 2018
+di Mino; GORILA III; Buck 2018; Gelb 1980
 
 ## Attestations
 

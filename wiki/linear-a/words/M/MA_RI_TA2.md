@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_RI_TA2
 title: "MA-RI-TA₂"
 desc: "marʾ(i)tā: the Lady (divine title; personal-name element). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "epithet", "hapax", "personal_name"]
 kind: "word"
 form: "MA-RI-TA₂"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the Lady (divine title; personal-name element) |
 | Root | m-r-ʾ |
 | Proto-Semitic | \*marʾ-at- (#55) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | epithet, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

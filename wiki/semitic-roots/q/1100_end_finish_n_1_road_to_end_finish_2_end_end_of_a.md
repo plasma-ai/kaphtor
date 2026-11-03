@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1100_end_finish_n_1_road_to_end_finish_2_end_end_of_a
 title: "*ḳVyVṣ-: 'end, finish' (n.) 1, '(road) to end, finish' 2, 'end, end of a road' 3"
-desc: "Proto-Semitic *ḳVyVṣ-, 'end, finish' (n.) 1, '(road) to end, finish' 2, 'end, end of a road' 3: reflexes in 11 language(s)."
+desc: "Proto-Semitic *ḳVyVṣ-, 'end, finish' (n.) 1, '(road) to end, finish' 2, 'end, end of a road' 3: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1100"
@@ -38,9 +38,10 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | kaṣûm, qaṣûm (HALOT 1120) | HALOT 1120 | gloss withheld |
 | Phoenician | qṣh, qṣt, qṣyt (HALOT 1121) | HALOT 1121 |  |
 | Judaic Aramaic | qiṣtā, qəṣāt (HALOT 1127; Jastrow 1409 apud CAL) | HALOT 1127; Jastrow 1409; CAL |  |
-| Aramaic | qṣt (HALOT 1127; DNWSI 1023 apud CAL) | HALOT 1127; DNWSI 1023; CAL |  |
+| Aramaic | qṣt (HALOT 1127; DNWSI 1023) | HALOT 1127; DNWSI 1023 |  |
 | Biblical Aramaic | \*qəṣāt (HALOT 1127) | HALOT 1127 |  |
 | Punic | qṣʾ (T 291) | T 291 | gloss withheld |
+| Amorite | quṣṣān 1 (Buck 2019, 331) | Buck 2019, 331 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

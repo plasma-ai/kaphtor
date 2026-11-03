@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | hdy (DUL 336 apud SEDonline 1406) | DUL 336; SEDonline 1406 | gloss withheld |
+| Ugaritic | hdy (DULAT 330; SEDonline 1406) | DULAT 330; SEDonline 1406 | gloss withheld |
 | Arabic | hḏw (LA 15 420 apud SEDonline 1406) | LA 15 420; SEDonline 1406 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

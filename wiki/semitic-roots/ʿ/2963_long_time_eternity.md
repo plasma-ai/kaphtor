@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | ʿôlām (HALOT 798) | HALOT 798 | gloss withheld |
 | Ugaritic | ʿlm (DULAT 155) | DULAT 155 | gloss withheld |
-| Phoenician | ʿlm; n.div. Ουλωμός (HALOT 798); lʿlm (Krahmalkov 372) | HALOT 798; Krahmalkov 372 | gloss withheld |
+| Phoenician | ʿlm; n.div. Ουλωμός (HALOT 798); lʿlm (Krahmalkov 372); ʿd ʿlm kqdm (Krahmalkov 361) | HALOT 798; Krahmalkov 372; Krahmalkov 361 | gloss withheld |
 | Moabite | ʿlm (HALOT 798) | HALOT 798 |  |
 | Aramaic | OArm., EgArm., Nab., Palm. ʿlm (HALOT 798) | HALOT 798 |  |
 | Biblical Aramaic | ʿālmā (HALOT 798) | HALOT 798 |  |
@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʿālam (HALOT 798; LGz. 61) | HALOT 798; LGz. 61 | gloss withheld |
 | Geez | ʿālam (LGz. 61) | LGz. 61 | gloss withheld |
 | Epigraphic South Arabian | ʿlm (HALOT 798; Sabaweb lemma 3698) | HALOT 798; Sabaweb lemma 3698 | gloss withheld |
-| Punic | ʿlm, ʾwlm, ʾlm (T 245) | T 245 | gloss withheld |
+| Punic | ʿlm, ʾwlm, ʾlm (T 245); ʿd ʿlm (Krahmalkov 361) | T 245; Krahmalkov 361 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

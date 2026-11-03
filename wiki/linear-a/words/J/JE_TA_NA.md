@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JE_TA_NA
 title: "JE-TA-NA"
 desc: "Yatana: He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "verb"]
+tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "JE-TA-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555) |
 | Root | y-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
-| Language layer | NWS |
-| Category | verb |
-| Semantic field | verbal |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-Skeleton ytn. It stands in a name or title slot, not a verb's: it may be a theophoric PN element. Huehnergard: G /yatana/ 3ms, prefix /yittinu/ (n-assimilation); BH nātan. \|\| Not 'she gave': NWS 3fs prefix-forms take t-, never y- (she gave = ta-ttin/tētin; qatal 3fs yātinat), and a single sign JE cannot encode a /ye/-feminine vs /ya/-masculine switch. JE-TA-NA occurs once, HTWa1020; HT88 has none. Gloss describes the name's formation, not the bearer's gender. \|\| JE conventionally gives /ye/, but the Semitic reconstruction demands /ya/—the JE sign likely covers /ya/ here, the way Linear B je covers both values. In Ugaritic the root is ytn (not n-t-n as in Hebrew), so the 3ms perfect is yatana. Masculine counterpart of A-TA-NA (ʾAtanā &gt; Athena), which is the feminine form of the same root with regular I-y &gt; ʾ weakening. The root has 5 entries in the lexicon.
+HT Wa 1020, its only attestation; HT 88 has none. Yatana 'he gave', the G 3ms perfect of √y-t-n in a name or title slot, a theophoric name element, Yatana-DN. Ugaritic keeps ytn where Hebrew has n-t-n: G /yatana/, prefix /yittinu/ with the n assimilated (Huehnergard 2012), BH nātan. The masculine of A-TA-NA-TE ʾAtanat, the feminine of the root with I-y &gt; ʾ. Ugarit writes the same name ia-ta-nu and ia-te-nu (DULAT 977; Kinlaw 1967, 135), E for a within it. Weak point: there the e falls on the second syllable; every held form has ya in the first.
 
 ### Cognates
 
@@ -65,8 +65,8 @@ di Mino; cf. Gordon 1966
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
@@ -76,6 +76,6 @@ di Mino; cf. Gordon 1966
 
 ### Note
 
-Qatal 3ms of √y-t-n. JE = /ya/ here (not /ye/), same ambiguity as LB je. Straight theophoric truncation: Yatana-DN 'DN-gave,' paralleling Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yattan-Dagan. Masculine counterpart of A-TA-NA (ʾAtanā), the divine name that becomes Athena—feminine of the same root with I-y &gt; ʾ weakening. Both forms attest √y-t-n productivity in Minoan onomastics. On the Haghia Triada nodule HTWa1020.
+Qatal 3ms of √y-t-n. JE = /ya/ here (not /ye/), same ambiguity as LB je. Straight theophoric truncation: Yatana-DN 'DN-gave,' paralleling Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555). Masculine counterpart of A-TA-NA-TE (ʾAtanat), the divine name that becomes Athena—feminine of the same root with I-y &gt; ʾ weakening. Both forms attest √y-t-n productivity in Minoan onomastics. On the Haghia Triada nodule HTWa1020.
 
 <!-- END kaphtor:record -->

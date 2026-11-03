@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ahl (HALOT 19) | HALOT 19 | gloss withheld |
 | Amorite | ʾahlum (Gelb AS 21, 13) | Gelb AS 21 13 | gloss withheld |
 | Phoenician | ʾhl (B 262) | B 262 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾhl (Al-Jallad–Jaworska 40) | Al-Jallad–Jaworska 40 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾhl (Al-Jallad–Jaworska 40); Hismaic ʾhl (Al-Jallad 2026, 4) | Al-Jallad–Jaworska 40; Al-Jallad 2026 4 | gloss withheld |
 | Epigraphic South Arabian | Sab ʾhl (Biella 7) (SD 3; Sabaweb lemma 3522); Qat. ʔhl (Ricks 1982 s.v. ʔhl) | Biella 7; SD 3; Sabaweb lemma 3522; Ricks 1982 s.v. ʔhl | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

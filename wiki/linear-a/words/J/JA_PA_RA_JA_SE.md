@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_PA_RA_JA_SE
 title: "JA-PA-RA-JA-SE"
 desc: "yapʾara yāṣē: may that which goes out glorify—volitive yaqtula √p-ʾ-r + √y-ṣ-ʾ participle/imperfect (the outpoured libation as subject). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "libation_formula", "participle", "ritual", "verb"]
 kind: "word"
 form: "JA-PA-RA-JA-SE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | may that which goes out glorify—volitive yaqtula √p-ʾ-r + √y-ṣ-ʾ participle/imperfect (the outpoured libation as subject) |
 | Root | p-ʾ-r + y-ṣ-ʾ |
 | Proto-Semitic | \*pVʔVr- (#2964) + \*wVṣ̂Vʾ- (#K0448) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | compound, hapax, libation_formula, participle, ritual, verb |
 | Semantic field | verbal |
 
 ### Note
 
-The Syme sanctuary's one otherwise unread word (first edition, transcription only: Muhly & Olivier 2008, 212–13, HM 5585, found 1987—no prior semantic interpretation). Segmentation JA-PA-RA \| JA-SE: two words, every morpheme attested elsewhere in the lexicon. (1) JA-PA-RA = yapʾara, ya- 3ms prefix conjugation + √p-ʾ-r with unwritten ʾ—spelling parallel JA-PA-QA = yapqaḥ (PKZa11/12, three signs write y-p-q-ḥ). Final -A = volitive yaqtula, apt in prayer. (2) JA-SE = yāṣē, identical to the yāṣē of SI-JA-SE (šī-yāṣē "which goes out", HTZb159/PEZb3)—administrative disbursement marker there, the outpoured libation here. \|\| Verb-first NWS syntax: "may that which is poured out glorify (her)"—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי "to beautify the place of my sanctuary"; hitpaʿel liturgical register Isa 60:21, 61:3; Ben Sira 50:20 (MS B) ובשם ייי התפאר. \|\| Rivals: Ugaritic pʿr "proclaim (a name)" (ypʿr šmthm, KTU 1.2 IV 11, 18) is orthographically identical (ʿ drops like ʾ) but attested only with šm "name" as complement, absent here; PS \*wpr "pilgrimage" has a nominal gloss, no attested denominal verb, and an initial-w assimilation problem. \|\| A hapax: √p-ʾ-r has no second corpus attestation yet. Support comes from yāṣē (×2 sites) and the ya- prefix paradigm. \|\| √p-ʾ-r also gives pəʾēr "diadem" and tipʾart "splendor".
+SY Za 9, Syme, HM 5585, found 1987 (Muhly and Olivier 2008, 212–13, transcription only): two words, JA-PA-RA and JA-SE. JA-PA-RA yapʾara, the 3 m. sg. ya- prefix with √p-ʾ-r 'glorify, adorn', the ʾ unwritten as in JA-PA-QA yapqaḥ (PK Za 11, PK Za 12), final -A the volitive yaqtula of prayer. JA-SE yāṣē, the yāṣē of SI-JA-SE šī-yāṣē 'which goes out' (HT Zb 159, PE Zb 3), the disbursement marker there, the outpoured libation here: 'may that which goes out glorify (her)', verb first. Hebrew puts the root in the sanctuary: לְפָאֵר מְקוֹם מִקְדָּשִׁי 'to beautify the place of my sanctuary' (Isa 60:13), the hitpaʿel in Isa 60:21 and 61:3, and Ben Sira 50:20 (MS B) ובשם ייי התפאר 'and in the name of YYY he gloried'. The root also gives pəʾēr 'diadem' and tipʾart 'splendor'. Rivals: Ugaritic pʿr 'proclaim (a name)' (ypʿr šmthm, KTU 1.2 IV 11, 18), the same spelling once ʿ drops, attested only with šm 'name' as object; PS \*wpr 'pilgrimage', a noun with no denominal verb and an initial w to lose. Weak point: one attestation of √p-ʾ-r; the support is yāṣē at two sites and the ya- prefix.
 
 ### Cognates
 

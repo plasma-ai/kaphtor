@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | sʿh (HALOT 761) | HALOT 761 |  |
 | Akkadian | seʾû (HALOT 761) | HALOT 761 |  |
 | Syrian Aramaic | sʿā (HALOT 761) | HALOT 761 |  |
-| Arabic | sʿy (HALOT 761) | HALOT 761 |  |
+| Arabic | sʿy (HALOT 761); šaʕā (šʕy) (LGz. 525) | HALOT 761; LGz. 525 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

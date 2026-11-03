@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/K0716_room
 title: "*ḫidr-: 'room'"
-desc: "Proto-Semitic *ḫidr-, 'room': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḫidr-, 'room': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0716"
@@ -33,12 +33,13 @@ updated: 2026-10-26T14:26:59Z
 | Ugaritic | ḥdr (Kogan 2015, ch. 2 §4.2 no. 17); /ḥudŭ̄ru/ (UVST 123) | Kogan 2015 ch. 2 §4.2 no. 17; UVST 123; Anderson–Moser 2024 root ḥdr | gloss withheld |
 | Geez | ḫədur (CDG 258); ḫedrat (HALOT 293) | CDG 258; HALOT 293 | gloss withheld |
 | Phoenician | ḥdr \[HALOT 293\] | HALOT 293 | gloss withheld |
-| Punic | ḥdr, ʿdr (T 98) | T 98 | gloss withheld |
+| Punic | ḥdr, ʿdr (T 98); ḥdrt (T 98) | T 98 | gloss withheld |
 | Arabic | ḫidr- (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015 ch. 2 §4.2 no. 17 | gloss withheld |
 | Epigraphic South Arabian | Sab ḫdr (Kogan 2015, ch. 2 §4.2 no. 17; Sabaweb lemma 4248) | Kogan 2015 ch. 2 §4.2 no. 17; Sabaweb lemma 4248 | gloss withheld |
 | Jibbali | ḫádər (Kogan 2015, ch. 2 §4.2 no. 17) | Kogan 2015 ch. 2 §4.2 no. 17 | gloss withheld |
 | Eblaitic | ʔà-da-ru₁₂, ʔà-da-lu-um /ḥadrum/ (VE 337, 595; Krebernik 1983, 14; Bonechi 2008, 8) | VE 337, 595; Krebernik 1983, 14; Bonechi 2008, 8 | gloss withheld |
 | Emar | ḫi-id-ru /ḫidru/ (Pentiuc 2001, 67) | Pentiuc 2001 67 | gloss withheld |
+| Amorite | ḥadūrum (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

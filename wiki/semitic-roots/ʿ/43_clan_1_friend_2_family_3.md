@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/43_clan_1_friend_2_family_3
 title: "*ʕaŝVr-: 'clan' 1, 'friend' 2, 'family' 3"
-desc: "Proto-Semitic *ʕaŝVr-, 'clan' 1, 'friend' 2, 'family' 3: reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʕaŝVr-, 'clan' 1, 'friend' 2, 'family' 3: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "43"
@@ -30,14 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | eširtu (CAD E 365); ušurtu (CAD U/W 332) | CAD E 365; CAD U/W 332 | gloss withheld |
 | Arabic | ʕašīr- 2 (BK 2, 262) | BK 2, 262 |  |
 | Mehri | ʔāŝǝr 2 (JM 32) | JM 32 |  |
 | Soqotri | ʕśr (LS 331) | LS 331 | gloss withheld |
 | Jibbali | ʕáśǝr/aʕśért; ʕáśǝr/ʕíśɔ́r (JJ 17) | JJ 17 | gloss withheld |
 | Epigraphic South Arabian | Sab. ʕs2r-t 1 (SD 21; Sabaweb lemma 1608) | SD 21; Sabaweb lemma 1608 | gloss withheld |
-| Ugaritic | ʿšr (DULAT 186); ʿšrt (DULAT 187) | DULAT 186; DULAT 187 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿśr (Al-Jallad–Jaworska 55) | Al-Jallad–Jaworska 55 | gloss withheld |
+| Ugaritic | ʿšr (DULAT 186) | DULAT 186 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿśr (Al-Jallad–Jaworska 55); Hismaic ʿśr (Al-Jallad 2026, 19) | Al-Jallad–Jaworska 55; Al-Jallad 2026 19 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

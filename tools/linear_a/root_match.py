@@ -3,8 +3,8 @@
 
 Report-only: prints, never writes. The statistic, decoys and verdicts are pre-registered in
 docs/shoresh-preregistration.md (§§1-4, §6 amendments). Every result enters at SPECULATIVE. The competitor null
-(§2, A15) runs against Luwian, Egyptian and Hurrian on the same decoys unless --no-competitors. The semantic gate
-(§3.1, A10, A18) reads each word's attested contexts from data/linear-a/corpus.json; CONVERGENT needs p_max and the gated
+(§2, A15; Hattic by A23) runs against Luwian, Egyptian, Hurrian and Hattic on the same decoys
+unless --no-competitors. The semantic gate (§3.1, A10, A18) reads each word's attested contexts from data/linear-a/corpus.json; CONVERGENT needs p_max and the gated
 p_max under 0.01 and the competitor null run and passed. POS (§3.2) holds vacuously, since no variant is a
 verbal-template parse. --calibrate (§7.4) runs the gold set and is not built here.
 

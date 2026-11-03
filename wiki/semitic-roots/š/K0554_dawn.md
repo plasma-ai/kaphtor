@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0554_dawn
 title: "*šaḥar-: 'dawn'"
-desc: "Proto-Semitic *šaḥar-, 'dawn': reflexes in 10 language(s)."
+desc: "Proto-Semitic *šaḥar-, 'dawn': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0554"
@@ -29,16 +29,18 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šēru; šeḫeru (CAD Š/2 263) | CAD Š/2 263; Anderson–Moser 2024 root šḥr | gloss withheld |
+| Akkadian | šēru (AHw 1219); šeḫeru (CAD Š/2 263) | AHw 1219; CAD Š/2 263; Anderson–Moser 2024 root šḥr | gloss withheld |
 | Aramaic | šḥr (Aramaic Root Atlas; CAL s.v. šḥr) | Aramaic Root Atlas; CAL s.v. šḥr; Anderson–Moser 2024 root šḥr | gloss withheld |
 | Hebrew | šaḥar 'dawn' (BDB 1007) | BDB 1007; Anderson–Moser 2024 root šḥr |  |
 | Ugaritic | šḥr 'dawn' | Anderson–Moser 2024 root šḥr |  |
 | Judaic Aramaic | šaḥrā (HALOT 1466) | HALOT 1466 | gloss withheld |
 | Arabic | saḥar (HALOT 1466) | HALOT 1466 | gloss withheld |
 | Eblaitic | si-EN-lum (Kogan 2011, 196; VE 776; Krebernik 1983, 29), /šeḥrum/ (Hajouz 2013, 682); šè-er a-me-mu, ša-ar /Saḥ(a)r, Seḥ(e)r/ (Sanmartín GlOS 2, 238) | Kogan 2011 196; VE 776; Krebernik 1983, 29; Hajouz 2013, 682; Sanmartín GlOS 2, 238 | gloss withheld |
-| Jibbali | šḥor (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
+| Jibbali | šḥor (Kogan 2011, 197); var. šḥér (Rubin 2014 670) | Kogan 2011 197; Rubin 2014 670 | gloss withheld |
 | Soqotri | ḥer (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |
 | Emar | ša-aḫ-ri /šaḥru/ (Pentiuc 2001, 167) | Pentiuc 2001 167 | gloss withheld |
+| Moabite | šḥrt (DNWSI 1122) | DNWSI 1122 | gloss withheld |
+| Punic | \*šiḥar (B 414) | B 414 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

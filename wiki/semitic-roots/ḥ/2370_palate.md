@@ -36,8 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ḥónúk, pl. aḥnik \[JJ 112\] | JJ 112 | gloss withheld |
 | Hebrew | ḥēk, with suff. ḥikk- 2 (HALOT 313); PB ḥănīkayim (dual) \[Ja 483\] | HALOT 313; Ja 483 | gloss withheld |
 | Judaic Aramaic | ḥikkā 2 \[Ja 455\]; ḥk (det. ḥykh) \[DJPA 200a apud CAL\] | Ja 455; DJPA 200a; CAL | gloss withheld |
-| Aramaic | OFF ḥnk 2 \[HJ 338\] | HJ 338 | gloss withheld |
-| Syrian Aramaic | ḥenkā \[HALOT 313\] | HALOT 313 | gloss withheld |
+| Aramaic | OFF ḥnk 2 \[HJ 388\] | HJ 388 | gloss withheld |
+| Syrian Aramaic | ḥenkā \[HALOT 313\]; ḥekkā, ḥunkā (Brock. 244 apud SED I 112) | HALOT 313; Brock. 244; SED I 112 | gloss withheld |
 | Harsusi | ḥénnek, pl. ḥenōket \[JH 60\] | JH 60 | gloss withheld |
 | Argobba | haññäha \[LArg 206\] | LArg 206 | gloss withheld |
 | Geez | ḥanaka (LGz. 237) | LGz. 237 | gloss withheld |

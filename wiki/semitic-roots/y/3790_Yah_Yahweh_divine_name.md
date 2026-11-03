@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/y/3790_Yah_Yahweh_divine_name
 title: "*yah-: 'Yah, Yahweh (divine name)'"
-desc: "Proto-Semitic *yah-, 'Yah, Yahweh (divine name)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *yah-, 'Yah, Yahweh (divine name)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3790"
@@ -34,6 +34,7 @@ updated: 2026-10-31T13:28:57Z
 | Ugaritic | yw: šm bny yw (KTU 1.1 IV 14; DULAT 980) | KTU 1.1 IV 14; DULAT 980 | gloss withheld |
 | Egyptian Aramaic | yhw, yhh, yh (HALOT 395) | HALOT 395 |  |
 | Nabataean | ʾhyw (HALOT 395) | HALOT 395 | gloss withheld |
+| Egyptian | y-h in the Northwest Semitic name ʾadōnī-rōʿē-yāh, 18th–19th Dynasty (Adrom and Müller 2013, 136) |  | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

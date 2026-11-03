@@ -28,8 +28,7 @@ This repository ships none of these layers.
 
 The TLHdig raw archive inventory finds 13,466 `<lb lg="Hur">` markers; the
 normalized index contains 13,442 Hurrian-tagged lines after excluding filesystem
-metadata, one encrypted payload, and non-indexable source structure. Preserve both
-counts with their definitions.
+metadata, one encrypted payload, and non-indexable source structure.
 
 ## Acquisition gaps
 
@@ -38,6 +37,4 @@ counts with their definitions.
   terms remains unavailable.
 - **Comprehensive Hurrian/ChS:** no supported complete export has been verified.
   TLHdig is the current open, language-tagged interim layer.
-- **IG XV 1:** retain the 99 failed record IDs in the acquisition manifest and
-  retry only through the documented official API; never claim completeness from
-  the 311 locally indexed records.
+- **IG XV 1:** 311 of 410 records are indexed.

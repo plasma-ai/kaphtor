@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/985_be_just
 title: "*ḳišu/iṭ-: 'be just'"
-desc: "Proto-Semitic *ḳišu/iṭ-, 'be just': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḳišu/iṭ-, 'be just': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "985"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qsṭ u/i,2 |  |  |
+| Aramaic | qšṭ (DNWSI 1038); qšyṭ (DNWSI 1038) | DNWSI 1038 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

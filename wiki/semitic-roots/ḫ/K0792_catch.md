@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/K0792_catch
 title: "*ḫVṭVp-: 'catch'"
-desc: "Proto-Semitic *ḫVṭVp-, 'catch': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḫVṭVp-, 'catch': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0792"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ḤṬP 'snatch' | Anderson–Moser 2024 root ḫṭp |  |
 | Hebrew | ḥaṭap 'catch' | Anderson–Moser 2024 root ḫṭp |  |
 | Syrian Aramaic | ḥṭap 'seize, snatch, rob; usurp' (Payne Smith 138) | Payne Smith 138 |  |
+| Pre-Islamic North Arabian | Safaitic ḫṭf (Al-Jallad 2026, 68) | Al-Jallad 2026 68 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

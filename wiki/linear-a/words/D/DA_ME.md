@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_ME
 title: "DA-ME"
 desc: "damu: blood (ritual allocation category); rival dam 'kinfolk'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "administrative", "body", "noun", "ritual"]
 kind: "word"
 form: "DA-ME"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | blood (ritual allocation category); rival dam 'kinfolk' |
 | Root | d-m |
 | Proto-Semitic | \*dam-, \*ʾa-dam- (#156) |
-| Language layer | NWS |
-| Category | vocabulary |
-| Semantic field | administrative_accounting |
+| Language layer | Semitic |
+| Tags | administrative, body, noun, ritual |
+| Semantic field | administrative |
 
 ### Note
 
-HT 95a/b and HT 86a: DA-ME with MI-NU-TE, always together, in the set SA-RU, KU-NI-SU, DI-DE-RU, QE-RA₂-U (QA-RA₂-WA on HT 86a). HT 120: DA-ME GRA+K+L 74, GRA+PA 62⅕, beside DA-U-\*49, KI-RE-TA-NA and PA-I-TO. Ug. dm, Heb. dām, Akk. damu 'blood', which DA-ME spells: a ritual category drawing grain. Rival: Old Syrian dam 'kinfolk' (GlOS 1, 147), a kin group drawing grain. Four attestations, all Haghia Triada. See \*118-MI.
+HT 95a/b and HT 86a: DA-ME with MI-NU-TE, always together, in the set SA-RU, KU-NI-SU, DI-DE-RU, QE-RA₂-U (QA-RA₂-WA on HT 86a). HT 120: DA-ME GRA+K+L 74, GRA+PA 62 J A, beside DA-U-\*49, KI-RE-TA-NA and PA-I-TO. Ug. dm (DULAT 270), Heb. dām (HALOT 224), Akk. damu 'blood' (CAD D 75), which DA-ME spells: a ritual category drawing grain. Rival: Old Syrian dam 'kinfolk' (GlOS 1, 147), a kin group drawing grain. Four attestations, all Haghia Triada. See \*118-MI.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 95a/b and HT 86a: DA-ME with MI-NU-TE, always together, in the set SA-RU, KU-
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; DULAT; HALOT; CAD D; GlOS 1
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3535_to_change_be_different
 title: "*šny: 'to change, be different'"
-desc: "Proto-Semitic *šny, 'to change, be different': reflexes in 4 language(s)."
+desc: "Proto-Semitic *šny, 'to change, be different': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3535"
@@ -29,15 +29,18 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šanû B (CAD Š/1 403) | CAD Š/1 403 | gloss withheld |
+| Akkadian | šanû B (CAD Š/1 403; AHw 1166) | CAD Š/1 403; AHw 1166 | gloss withheld |
 | Hebrew | šnh (HALOT 1597) | HALOT 1597 | gloss withheld |
 | Judaic Aramaic | šnʾ (HALOT 1597) | HALOT 1597 | gloss withheld |
 | Syrian Aramaic | šnā 'to be altered; to remove; to go mad; to change' (Payne Smith 586); šūnāyā 'change, removal, departure' (Payne Smith 566) | Payne Smith 586; Payne Smith 566 |  |
+| Ugaritic | šnw (DULAT 822) | DULAT 822 | gloss withheld |
+| Biblical Aramaic | šny (HALOT 1597) | HALOT 1597 | gloss withheld |
+| Aramaic | šny (DNWSI 1175) | DNWSI 1175 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Distinct from 3547 \*ṯny 'to repeat': HALOT 1597 keeps I šnh (šny) 'to change' apart from II šnh (ṯny) 'to repeat'. Ugaritic šny 'to change' is disputed (HALOT 1597).
+Distinct from 3547 \*ṯny 'to repeat': HALOT 1597 keeps I šnh (šny) 'to change' apart from II šnh (ṯny) 'to repeat'.
 
 <!-- END kaphtor:record -->

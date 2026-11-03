@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/1808_pasture_forage
 title: "*kwVlāʾ- ?: 'pasture; forage'"
-desc: "Proto-Semitic *kwVlāʾ- ?, 'pasture; forage': reflexes in 7 language(s)."
+desc: "Proto-Semitic *kwVlāʾ- ?, 'pasture; forage': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1808"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | kǝlkǝl (Kane 1990; Reinisch 1884, 376) | Kane 1990 | gloss withheld |
 | Tigrinya | mäḵälä (LGz. 339) | LGz. 339 | gloss withheld |
 | Epigraphic South Arabian | Sab. klʾ (SD 77; Sabaweb lemma 2275) | SD 77; Sabaweb lemma 2275 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic klʾ (Al-Jallad 2026, 82) | Al-Jallad 2026 82 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

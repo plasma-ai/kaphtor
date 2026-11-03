@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_RE_JU
 title: "SA-RE-JU"
 desc: "Šarr-ēlu: personal name, 'El is king'; rival Hurrian Šar-elli. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "SA-RE-JU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,19 +35,20 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'El is king'; rival Hurrian Šar-elli |
 | Root | ŝ-r-r + ʾ-l |
 | Proto-Semitic | \*ŝarr- (#3463) + \*ʾil- (#2719) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 20 .4 SA-RE-JU ⅛, after CAPm ⅛ and before TELA, in the list under PA-RO-SU beside KU-MA-JU and QE-KU-RE (GORILA I 36–37). ša-r(ʾ)ē-lu sign for sign: JU writes lu, the nominative of ʾēlu, and RE carries the ē once the ʾ drops at the join. Weak point: Northwest Semitic 'king' is mlk, šarru is the Akkadian and Amorite word, and Hebrew śar is 'prince'. Rival: Hurrian Šar-elli, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), whose -li mismatches JU. One witness. See SA-RU, I-RA₂, PI-RU-E-JU and DI-NA-RO.
+HT 20 .4 SA-RE-JU ⅛, after CAPm ⅛ and before TELA, in the list under PA-RO-SU beside KU-MA-JU and QE-KU-RE (GORILA I 36–37). ša-r(ʾ)ē-lu sign for sign: JU writes lu, the nominative of ʾēlu, and RE carries the ē once the ʾ drops at the join. Ugaritic šr 'Prince, Sovereign' is El's title in ỉl šr 'El, the Sovereign' (KTU 1.123:3; DULAT 829). Rival: Hurrian Šar-elli, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), whose -li mismatches JU. One witness. See SA-RU, I-RA₂, PI-RU-E-JU and DI-NA-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Amorite | ŚARR-A+ʾIL, ŠAR-RA-DINGIR, Alalakh IV (Gelb 1980 no. 5846) |
+| Ugaritic | šr (III) 'Prince, Sovereign', divine title: \[š\]lm ỉl šr (KTU 1.123:3; DULAT 829) |
 | Hebrew | Malkîʾēl, the same sentence with mlk (Gen 46:17) |
 | Hurrian | Šar-elli, the queen ṯryl, syll. šar-e-li (DULAT s.v. ṯryl; Laroche GLH 78), rival |
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3628_to_be_accustomed_to_keep_to_to_learn
 title: "*ʾlp: 'to be accustomed to, keep to; to learn'"
-desc: "Proto-Semitic *ʾlp, 'to be accustomed to, keep to; to learn': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʾlp, 'to be accustomed to, keep to; to learn': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3628"
@@ -32,6 +32,7 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | ʾlp qal; pi. (HALOT 59) | HALOT 59 | gloss withheld |
 | Syrian Aramaic | yilep 'to learn'; pa. ʾallep 'to teach, inform, show' (Payne Smith 18, 192) | Payne Smith 18, 192 |  |
 | Arabic | ʾalifa (Lane 79) (HALOT 59); maʾlaf (Lane 81) | Lane 79; HALOT 59; Lane 81 | gloss withheld |
+| Amorite | ʾ-l-p: names i/iḫ-la-ap=DN (Sanmartín GlOS 1, 23); ʾālip, fem. ʾālipā: names a-li-ib=DN, fem. ḫa-li-ba (Sanmartín GlOS 1, 23); ʾalūp, fem. ʾalūpat: names a-lu-bi, a-lu-pu-um, a-lu-pa-tum (Sanmartín GlOS 1, 23) | Sanmartín GlOS 1, 23 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

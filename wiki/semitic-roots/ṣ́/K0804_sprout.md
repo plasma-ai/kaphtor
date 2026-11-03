@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ṢHM, ṢMA, aṣmata, ṣahamta (HALOT 1033, 1034) | HALOT 1033, 1034 |  |
 | Arabic | ḍmḫ (HALOT 1033) | HALOT 1033 |  |
 | Judaic Aramaic | ṣimḥā (HALOT 1034; DJPA 466a apud CAL) | HALOT 1034; DJPA 466a; CAL |  |
-| Phoenician | ṣmḥ (HALOT 1034) | HALOT 1034 |  |
+| Phoenician | ṣmḥ (HALOT 1034); ṣmḥ ṣdq (Krahmalkov 418) | HALOT 1034; Krahmalkov 418 | gloss withheld |
 | Punic | Neo-Pun. ṣmḥ (HALOT 1034) | HALOT 1034 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

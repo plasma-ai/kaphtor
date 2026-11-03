@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/2727_to_dip_dye
 title: "*ṣVbVġ-: 'to dip, dye'"
-desc: "Proto-Semitic *ṣVbVġ-, 'to dip, dye': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ṣVbVġ-, 'to dip, dye': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2727"
@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṣabaġa 'to dye, tinge' (BK 1, 1307) | BK 1, 1307 |  |
-| Akkadian | ṣabû (ṣapû) (CAD Ṣ 45); ṣabû (CAD Ṣ 45); ṣābû (CAD Ṣ 55) | CAD Ṣ 45; CAD Ṣ 55 | gloss withheld |
+| Akkadian | ṣabû (ṣapû) (CAD Ṣ 45; AHw 1082); ṣabû (CAD Ṣ 45); ṣābû (CAD Ṣ 55) | CAD Ṣ 45; AHw 1082; CAD Ṣ 55 | gloss withheld |
 | Hebrew | ṣābaʕ (HALOT 998) | HALOT 998 | gloss withheld |
 | Syrian Aramaic | ṣbaʕ 'dip, moisten, dye' (Payne Smith 472) | Payne Smith 472 |  |
 | Geez | ṣabḫa 'dip' | Anderson–Moser 2024 root ṣbġ |  |
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ṣbʕ (HALOT 998) | HALOT 998 |  |
 | Mandaic Aramaic | ṣba (HALOT 998) | HALOT 998 |  |
 | Soqotri | ṣbʿ (LGz. 546) | LGz. 546 |  |
+| Biblical Aramaic | ṣbʿ pa.; hitpa. (HALOT 998) | HALOT 998 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

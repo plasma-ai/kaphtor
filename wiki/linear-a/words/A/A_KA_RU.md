@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/A/A_KA_RU
 title: "A-KA-RU"
-desc: "Agaru: field or estate heading; possible Ugaritic Ugaru theonym. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "administrative"]
+desc: "Agaru: field, estate (heading); rival the Ugaritic god Ugaru. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "administrative", "agriculture", "noun"]
 kind: "word"
 form: "A-KA-RU"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Agaru |
-| Meaning | field or estate heading; possible Ugaritic Ugaru theonym |
+| Meaning | field, estate (heading); rival the Ugaritic god Ugaru |
 | Root | ʾ-g-r |
 | Proto-Semitic | \*(ʾV-)g(w)ar- (or \*hugar-)/\*garh- (#1807) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, agriculture, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Linear A writes A-KA-RU, hence Agaru; Ugaritic supplies Ugaru (ugr II), 'Field,' paired with Gapnu ('Vine') as one of Baal's two messenger-deities (DULAT 27; KTU 1.3; 1.5). A-KA-RU heads accounts at HT2 and HT86a/b as a field or estate heading; on HT86a its section stands beside one headed A-DU (Addu), so a divine or cult-institutional sense remains possible. Initial a/u remains unexplained. Rival with initial a: ʾ-g-r 'hire', Ebla a-gàr-du, Ugarit a-ga-ru-ta 'hire contract' (GlOS 1, 12–13). Akkadian ugāru is usually derived from Sumerian A.GÀR, so the term may be a Wanderwort rather than an inherited ʾ-g-r root. See U-KA-RE.
+Linear A writes A-KA-RU, hence Agaru; Ugaritic supplies Ugaru (ugr II), 'Field,' paired with Gapnu ('Vine') as one of Baal's two messenger-deities (DULAT 27; KTU 1.3; 1.5). A-KA-RU heads accounts at HT 2 and HT 86a/b as a field or estate heading. Rival: a divine or cult-institutional sense, since on HT 86a its section stands beside one headed A-DU (Addu). Initial a/u: the Aegean field word is a-initial, Myc. a-ko-ro, Grk. ἀγρός, which Rendsburg sets beside Ug. ugr and Akk. ugāru as one IE–Semitic lexeme (2026, 205). Rival with initial a: ʾ-g-r 'hire', Ebla a-gàr-du, Ugarit a-ga-ru-ta 'hire contract' (GlOS 1, 12–13). Akk. ugāru is a Sumerian loan, attested at Ras Shamra and Emar (CAD U/W 27); in Old Babylonian it names an administrative unit of fields with its own overseer, UGULA A.GÀR (CAD U/W 29). See U-KA-RE.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Linear A writes A-KA-RU, hence Agaru; Ugaritic supplies Ugaru (ugr II), 'Field,'
 
 ### Source
 
-Gordon 1966
+Gordon 1966; Rendsburg 2026
 
 ## Attestations
 

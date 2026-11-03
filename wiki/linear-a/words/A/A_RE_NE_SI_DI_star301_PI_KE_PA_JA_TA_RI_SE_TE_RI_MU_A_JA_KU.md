@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU
 title: "A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU"
 desc: "[…] ʾAyaku: ring text ending with the personal name ʾAyaku. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "compound_phrase"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | ring text ending with the personal name ʾAyaku |
 | Root | ʾ-y |
 | Proto-Semitic | \*ʾayy- (#K0567) |
-| Language layer | NWS |
-| Category | compound_phrase |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KN Zf 13, gold ring HM 530: 19 signs in a spiral from the outer band inward, no dividers; RI (12, 15), MU (16) and KU (19) underdotted (GORILA IV 152–153). The last four signs are A-JA-KU, ʾAyaku (Amorite ʾAjak-u, Gelb 1980, no. 320); the first fifteen carry no reading, and the segmentation is not marked. Rival for the ending: Akkadian ajakku, a temple structure (CAD A/1, 224–25). One document.
+KN Zf 13, gold ring HM 530: 19 signs in a spiral from the outer band inward, no dividers; RI (12, 15), MU (16) and KU (19) underdotted (GORILA IV 152–153). The last four signs are A-JA-KU, ʾAyaku (Amorite ʾAjak-u, Gelb 1980, no. 320); the first fifteen carry no reading, and the segmentation is not marked. Rival for the ending: Akkadian ajakku, a temple structure (CAD A/1 224–25). One document.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ KN Zf 13, gold ring HM 530: 19 signs in a spiral from the outer band inward, no 
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; CAD A/1
 
 ## Attestations
 

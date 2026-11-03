@@ -11,7 +11,7 @@ updated: 2026-10-22T18:14:10Z
 
 ## Scope
 
-`data/aramaic_texts.jsonl` is a passage-level research index built from local source caches; it is not in this repository, and this page describes a user's own build. The current manifest records **368,017 passages**, **3,983,946 source nodes/tokens**, and **1,036,685 structured token rows**. It is broad, not exhaustive, and does not turn texts of different dates and dialects into one synchronic corpus.
+`data/ane/aramaic_texts.jsonl` is a passage-level research index built from local source caches; it is not in this repository, and this page describes a user's own build. The current manifest records **368,017 passages**, **3,983,946 source nodes/tokens**, and **1,036,685 structured token rows**. It is broad, not exhaustive, and does not turn texts of different dates and dialects into one synchronic corpus.
 
 | Layer | Passages | Tokens | Source and status |
 |---|---:|---:|---|
@@ -38,7 +38,7 @@ The ETCBC Targum `root` attribute is cut off at ṭet: no rooted token carries `
 
 ## Validation
 
-The index validates required CSV fields, unique record IDs, DSS word-to-line containment, and the Bavli segmentation checksum/schema/counts. Its manifest, `data/aramaic_texts.manifest.json`, carries builder/input/output hashes, source commits, per-corpus counts, DSS structural counts, and an explicit diagnostics ledger. The index retains sign-level critical state and does not manufacture roots for unannotated corpora. The current diagnostics list seven malformed upstream IIP XML files; they are not silently counted.
+The index validates required CSV fields, unique record IDs, DSS word-to-line containment, and the Bavli segmentation checksum/schema/counts. Its manifest, `data/ane/aramaic_texts.manifest.json`, carries builder/input/output hashes, source commits, per-corpus counts, DSS structural counts, and an explicit diagnostics ledger. The index retains sign-level critical state and does not manufacture roots for unannotated corpora. The current diagnostics list seven malformed upstream IIP XML files; they are not silently counted.
 
 ## Primary sources
 
@@ -66,7 +66,7 @@ For case-by-case research, bounded adapters query one DEAPS result page or one e
 
 ```bash
 python3 tools/ane/query_deaps.py 'TAD D.17.1' --field name
-python3 tools/ane/query_elephantine.py 309606
+python3 tools/ane/query_elephantine.py --object 309606
 python3 tools/ane/query_elephantine.py --text 309606
 ```
 

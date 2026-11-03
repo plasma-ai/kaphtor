@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/ZA/ZA/ZA9
 title: "ZA9"
-desc: "Tablet, Zakros, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Zakros, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "ZA9"
 site: "Zakros"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
-words: ["A-TA-NA", "NU-TI"]
+translation: "incomplete"
+words: ["WI-RA-RE-MI-TE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -62,9 +62,33 @@ Unicode (Linear A block):
 𐘣𐘴𐘙𐘻𐘃𐘐𐄇
 ```
 
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\]-NU-TI · — ZA-\[…\] — \[…\]-RA: QI+SI 5 — \[…\] — \[…\]RỌ-SI-RA: QI+SI 4̣ — A-TA-NA-\[…\]: QI+SI 2̣ — \[…\]-MA-JU: ewes 2 — Calf of the Wild Cow: ewe 1.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| NU-TI |  | broken word, \]-NU-TI ·, heading |  |  |
+| ZA |  | broken word, ZA-\[ |  |  |
+| RA |  | broken word, \]-RA; QI+SI 5 |  |  |
+| [[wiki/linear-a/words/R/RO_SI_RA\|RO-SI-RA]] |  | broken word, \]RỌ-SI-RA; QI+SI 4̣ |  | unread |
+| A-TA-NA |  | broken word, A-TA-NA-\[·\]; QI+SI 2̣ |  |  |
+| [[wiki/linear-a/words/M/MA_JU\|MA-JU]] |  | broken word, \[·\]-MA-JU; ewes 2 |  | unread |
+| [[wiki/linear-a/words/W/WI_RA_RE_MI_TE\|WI-RA-RE-MI-TE]] | Wild-rēmti | Calf of the Wild Cow (personal name, compound); ewe 1 | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+GORILA III 166–167: allocations under the \]-NU-TI heading, the ligature QI+SI (SigLA A512) to three entries, ewes (\*21F, Younger's OVISf) to the last two. Broken at the top and left, with an entry lost in the break before \]RỌ-SI-RA. ZA-\[, \]-RA, \]RỌ-SI-RA, A-TA-NA-\[·\] and \[·\]-MA-JU are broken.
+
+### Source
+
+- di Mino: WI-RA-RE-MI-TE
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_TA_NA|A-TA-NA]], [[wiki/linear-a/words/N/NU_TI|NU-TI]].
+[[wiki/linear-a/words/W/WI_RA_RE_MI_TE|WI-RA-RE-MI-TE]].
 
 ## Corpus note
 

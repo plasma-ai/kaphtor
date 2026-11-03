@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/617_call_shout_1_read_2
 title: "*ḳVrVʾ-: 'call, shout' 1, 'read' 2"
-desc: "Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *ḳVrVʾ-, 'call, shout' 1, 'read' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "617"
@@ -37,13 +37,14 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qārāʾ; miqrāʾ; qāriʾ |  | gloss withheld |
 | Aramaic | qrʔ 1 |  |  |
 | Epigraphic South Arabian | Sab qrʾ (Biella 465; Sabaweb lemma 4773) | Biella 465; Sabaweb lemma 4773 | gloss withheld |
-| Punic | qrʾ 'read' | Anderson–Moser 2024 root qrʾ |  |
+| Punic | qrʾ; qrʾ 1 (Krahmalkov 432) | Krahmalkov 432; Anderson–Moser 2024 root qrʾ | gloss withheld |
 | Syrian Aramaic | qərāʾ (HALOT 1128) | HALOT 1128 |  |
 | Mandaic Aramaic | QRA (HALOT 1128) | HALOT 1128 |  |
 | Tigre | qarʾa (HALOT 1128) | HALOT 1128 |  |
 | Amorite | qrʾ: qaraʾ, qariʾum, qariḥum, jāqriʾ (Gelb AS 21, 29); q-r-ʾ 1: qa/ga-ra-su-mu/mi-ia (Sanmartín GlOS 1, 349) | Gelb AS 21 29; Sanmartín GlOS 1, 349 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic qrʾ (Al-Jallad–Jaworska 111) | Al-Jallad–Jaworska 111 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qrʾ (Al-Jallad–Jaworska 111); Hismaic yqry 2 (Al-Jallad 2026, 112) | Al-Jallad–Jaworska 111; Al-Jallad 2026 112 | gloss withheld |
 | Eblaitic | ga-la-um, ga-ra-um, ga-ru₁₂-um /ḳarāʔum/ (VE 225; Krebernik 1983, 18 n. 65); ga-la/ra-um, ga-ru₁₂-um /q-r-ʾ/ 1 (Sanmartín GlOS 1, 349) | VE 225; Krebernik 1983, 18 n. 65; Sanmartín GlOS 1, 349 | gloss withheld |
+| Biblical Aramaic | qrʾ 1, 2 (HALOT 1128) | HALOT 1128 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

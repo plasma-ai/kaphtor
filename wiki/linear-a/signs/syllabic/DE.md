@@ -44,14 +44,17 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DE\|A-DE]] | ʾAddē | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
+| [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KI_DE_TE\|MA-KI-DE-TE]] | Majdat | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_DE\|PA-DE]] | Padī | SPECULATIVE |
-| [[wiki/linear-a/words/P/PU_DE\|PU-DE]] | pudē | CANDIDATE |
-| [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
+| [[wiki/linear-a/words/P/PU_DE\|PU-DE]] | buddē | CANDIDATE |
+| [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu | SPECULATIVE |
+| [[wiki/linear-a/words/S/SE_DE\|SE-DE]] | ṣēd | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
+| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudaṯu | CANDIDATE |
 
 <!-- END kaphtor:record -->

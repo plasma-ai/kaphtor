@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/SA108_plant
 title: "*wpd: 'plant'"
-desc: "Epigraphic South Arabian headword *wpd, 'plant': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *wpd, 'plant': reflexes in 1 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA108"
@@ -30,7 +30,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab wfd (SD 157; Biella 136) (Sabaweb lemma 5371) | SD 157; Biella 136; Sabaweb lemma 5371 | gloss withheld |
-| Arabic | Ar wafada (cf. Lane 2955; Biella 136). | Lane 2955; Biella 136 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

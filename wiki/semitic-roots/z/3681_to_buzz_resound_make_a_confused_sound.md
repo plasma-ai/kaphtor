@@ -30,7 +30,7 @@ updated: 2026-10-26T17:41:55Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | zamzama 'it made a distant sound, confused and continued'; zamzamat 'a distant sound, confused and continued' (Lane 1248) | Lane 1248 |  |
-| Syrian Aramaic | zam 'to sound, resound, buzz'; zamzem 'to make resound, make a bubbling noise'; zmāmā 'a buzzing or ringing sound' (Payne Smith 117); zam 'to whisper, to sound; to ring (of the ear)' (Brock. 198–199) | Payne Smith 117; Brock. 198–199 |  |
+| Syrian Aramaic | zam; zamzem; zmāmā (Payne Smith 117); zam (Brock. 198–199); zūmā (LGz. 638) | Payne Smith 117; Brock. 198–199; LGz. 638 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

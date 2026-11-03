@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/D/DA_DU_star301
 title: "DA-DU-*301"
-desc: "dādu-nā-…: possible opening 'our beloved …' (fragmentary and doubtful Linear A). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "fragmentary_nominal"]
+desc: "dādu-nā-…: 'our beloved …', the opening of a longer word. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "fragmentary", "hapax"]
 kind: "word"
 form: "DA-DU-*301"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | dādu-nā-… |
-| Meaning | possible opening 'our beloved …' (fragmentary and doubtful Linear A) |
+| Meaning | 'our beloved …', the opening of a longer word |
 | Root | d-w-d |
 | Proto-Semitic | \*dawid- (#19) |
-| Language layer | NWS |
-| Category | fragmentary_nominal |
-| Semantic field | uncertain |
+| Language layer | Semitic |
+| Tags | fragmentary, hapax |
+| Semantic field | unknown |
 
 ### Note
 
-DRA Zg 1 is a five-sign retrograde graffito on a clay reel from Drama-Kajrjaka, Bulgaria: DA-DU-\*301̣-\[?\]-\[?\]. Only the first three signs have been compared with Linear A; the final two remain unread, and RILA-S1 D 24 classifies the inscription as doubtful. DA-DU recurs initially in KN Zf 31 and HT 95. With \*301 = /na/, Amorite dādum/dawdum 'beloved' plus Ugaritic 1cp /-nā/ after the case vowel (cf. /malku-nā/ 'our king') permits /dādu-nā-/ 'our beloved ….' No boundary follows \*301, so the sequence may instead begin a longer name and cannot be treated as a complete prayer or epithet. Rival: the Amorite name type dawdān- (Gelb 1980, nos. 1397, 1407–1408, 1416–1419; Da-da-nu-um, Huffmon 1965, 28). See DA-DU-MI-NE and TA-DI.
+DRA Zg 1, a five-sign retrograde graffito on a clay reel from Drama-Kajrjaka, Bulgaria: DA-DU-\*301̣-\[?\]-\[?\], the last two signs unread; RILA-S1 D 24 classes the inscription as doubtful. DA-DU opens DA-DU-MI-NE on KN Zf 31 and DA-DU-MA-TA on HT 95a. With \*301 = na, dādu-nā 'our beloved': Amorite dādum, dawdum 'beloved' (DAWD-UM, Gelb 1980, no. 1437), with Ugaritic -nā 'our' after the case vowel, as malku-nā 'our king'. No divider follows \*301, so the word runs on into the two lost signs. Rival: the Amorite name type dawdān- (Gelb 1980, nos. 1397, 1407–1408, 1416–1419; Da-da-nu-um, Huffmon 1965, 28). See DA-DU-MI-NE and TA-DI.
 
 ### Cognates
 

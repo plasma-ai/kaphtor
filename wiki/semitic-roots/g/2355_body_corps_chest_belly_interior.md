@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2355_body_corps_chest_belly_interior
 title: "*gaw(w)iʾ- or *gʷay(y)aʾ-: 'body; corps; chest, belly; interior'"
-desc: "Proto-Semitic *gaw(w)iʾ- or *gʷay(y)aʾ-, 'body; corps; chest, belly; interior': reflexes in 12 language(s)."
+desc: "Proto-Semitic *gaw(w)iʾ- or *gʷay(y)aʾ-, 'body; corps; chest, belly; interior': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2355"
@@ -42,6 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | gēw, gaw, gawwā (constr. gō) \[Ja 216\]; gǝwiytā, giwyǝtā \[Ja 221\]; cf. gwyyh \[DJPA 123a apud CAL\] | Ja 216; Ja 221; DJPA 123a; CAL | gloss withheld |
 | Syrian Aramaic | gawā 'inner part of the body, belly, viscera' \[Brock 107\]; gǝwāyā 'intestines, viscera' \[ibid.\] | Brock 107 |  |
 | Geez | (?) gʷəyyā \[LGz 208\]; gəʕt \[ibid. 175\] | LGz 208; LGz 175 | gloss withheld |
+| Biblical Aramaic | \*gaw (HALOT 182) | HALOT 182 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

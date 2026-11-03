@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/I/I_NA_JA_RE_TA
 title: "I-NA-JA-RE-TA"
-desc: "hinna yirʾat-[…]: behold, the reverence of… (broken). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+desc: "hinna yarēʾat-[…]: behold, she who reveres… (broken). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "compound", "fragmentary", "hapax", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "I-NA-JA-RE-TA"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.2
-reading: "hinna yirʾat-[…]"
+reading: "hinna yarēʾat-[…]"
 attestations: ["APZa2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,29 +31,29 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | hinna yirʾat-\[…\] |
-| Meaning | behold, the reverence of… (broken) |
+| Reading | hinna yarēʾat-\[…\] |
+| Meaning | behold, she who reveres… (broken) |
 | Root | h-n-n + y-r-ʾ |
 | Proto-Semitic | \*yarVʾ- (#S17) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | compound, fragmentary, hapax, libation_formula, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-AP Za 2 .2 I-NA-JA-RE-TA\[ \]QA; no divider follows TA, and the word may run on across the lacuna. If it ends at TA, hinna yirʾat… 'behold, the reverence of…' (Job 28:28; di Mino, Ya Diktu), with I-NA- as in I-NA-JA-PA-QA hinna yapqaḥ (PK Za 11); Ebla writes hinna i-na, in-na (GlOS 1, 218). Rival: a toponym.
+AP Za 2 .2 I-NA-JA-RE-TA\[ \]QA, no divider after TA. hinna yarēʾat… 'behold, she who reveres…': I-NA- as in I-NA-JA-PA-QA hinna yapqaḥ (PK Za 11), Ebla i-na, in-na (GlOS 1, 218); yarēʾat the feminine construct of yārēʾ 'in fear of', Babylonian yərēʾat (HALOT 433), as ʾiššâ yirʾat YHWH 'a woman who fears YHWH' (Prov 31:30), JA writing ya and RE the ē. Rival: yārēʾtā 'you have feared' (2 Sam 1:14), the finite verb of I-NA-JA-PA-QA. Rival: the noun yirʾat 'the reverence of' (Job 28:28; di Mino, Ya Diktu). Weak point: no divider follows TA, and the genitive is lost in the lacuna. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | hn "behold!"; yrʾ "to fear, revere" (DULAT 962) |
-| Hebrew | hēn yirʾat (הֵן יִרְאַת) "behold, the fear of" (Job 28:28); yārēʾ (יָרֵא) "to fear, revere" (HALOT 432); yirʾā (יִרְאָה) "fear, reverence, awe" |
+| Hebrew | yārēʾ (יָרֵא) "fearing", f. cs. yirʾat, Bab. yərēʾat (HALOT 433; Prov 31:30); hēn yirʾat (הֵן יִרְאַת) "behold, the fear of" (Job 28:28); yirʾā (יִרְאָה) "fear, reverence, awe" |
 | Aramaic | yᵉrēʾ 'to fear' (Jastrow 587) |
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; GlOS 1; HALOT
 
 ## Attestations
 

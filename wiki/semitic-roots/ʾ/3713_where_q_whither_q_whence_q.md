@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3713_where_q_whither_q_whence_q
 title: "*ʾn: 'where?, whither?; whence?'"
-desc: "Proto-Semitic *ʾn, 'where?, whither?; whence?': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʾn, 'where?, whither?; whence?': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3713"
@@ -32,6 +32,7 @@ updated: 2026-10-28T02:25:00Z
 | Mehri | ḥõ (Rubin 2018 40) | Rubin 2018 40 | gloss withheld |
 | Hebrew | ʾān, ʾānâ, mēʾān, ʿad-ʾān (HALOT 69) | HALOT 69 | gloss withheld |
 | Arabic | ʾannā 'whence?; where?' (Lane 119) | Lane 119 |  |
+| Ugaritic | ản (II) (DULAT 73) | DULAT 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/991_desire_beauty
 title: "*ḥVmVd-: 'desire; beauty'"
-desc: "Proto-Semitic *ḥVmVd-, 'desire; beauty': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḥVmVd-, 'desire; beauty': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "991"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | hmd (T 106) | T 106 |  |
 | Arabic | ḥmd (Kogan 2015, ch. 3 §5.3 no. 9) | Kogan 2015 ch. 3 §5.3 no. 9 | gloss withheld |
 | Epigraphic South Arabian | Sab ḥmd (Kogan 2015, ch. 3 §5.3 no. 9; Sabaweb lemma 1331) | Kogan 2015 ch. 3 §5.3 no. 9; Sabaweb lemma 1331 | gloss withheld |
+| Phoenician | yḥmd (Krahmalkov 186); ḥmdt, in bḥmdt (Krahmalkov 187) | Krahmalkov 186; Krahmalkov 187 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

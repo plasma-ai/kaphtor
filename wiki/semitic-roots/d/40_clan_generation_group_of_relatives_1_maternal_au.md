@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/d/40_clan_generation_group_of_relatives_1_maternal_au
-title: "*dawr-: 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2"
-desc: "Proto-Semitic *dawr-, 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2: reflexes in 9 language(s)."
+title: "*dawr-: 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2, 'eternity' 3"
+desc: "Proto-Semitic *dawr-, 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2, 'eternity' 3: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "40"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-11-03T03:29:48Z
 ---
 
-# *dawr-: 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2
+# *dawr-: 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2, 'eternity' 3
 
 [[wiki/semitic-roots/d/_index|..]]
 
@@ -22,8 +22,8 @@ updated: 2026-10-22T17:38:31Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*dawr- |
-| Meaning | 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2 |
-| Basis | SED |
+| Meaning | 'clan, generation, group of relatives' 1, 'maternal aunt's children' 2, 'eternity' 3 |
+| Basis | reconstruction SED; meaning SED, corrected |
 | SED | SEDonline semet 22 |
 
 ## Reflexes
@@ -32,13 +32,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | dr (DULAT 277) | DULAT 277 | gloss withheld |
 | Gurage | Chaha dǝwǝrya (LGur 224) | LGur 224 | gloss withheld |
-| Phoenician | dr (T 75) | T 75 | gloss withheld |
+| Phoenician | dr (T 75); dr (T 74); dr bn ʾlm 1 (Krahmalkov 152) | T 75; T 74; Krahmalkov 152 | gloss withheld |
+| Punic | dr 1 (Krahmalkov 151); Neo-Punic drʾ 1; Neo-Punic dhr 1, in wdhrnm (Krahmalkov 151); Neo-Punic drʾ 3 (Krahmalkov 152) | Krahmalkov 151; Krahmalkov 152 | gloss withheld |
 | Hebrew | dōr (HALOT 217, 218); pB. dōr (Ja. 289) | HALOT 217, 218; Ja. 289 | gloss withheld |
 | Syrian Aramaic | dār- 'race of men (humankind), generation' (Brock 147) | Brock 147 |  |
 | Epigraphic South Arabian | Sab dwr (Biella 81) | Biella 81 | gloss withheld |
 | Geez | dor (LGz. 141) | LGz. 141 | gloss withheld |
-| Akkadian | dāru; dārû (CAD D 115) | CAD D 115 | gloss withheld |
-| Amorite | dāru (Streck 2000, 88; Streck 2011, 366) | Streck 2000 88; Streck 2011, 366 | gloss withheld |
+| Akkadian | dāru; dārû 3 (CAD D 115) | CAD D 115 | gloss withheld |
+| Amorite | dāru (Streck 2000, 88; Streck 2011, 366); dārum, dūrum 3 (Gelb AS 21, 17, 18) | Streck 2000 88; Streck 2011, 366; Gelb AS 21 17, 18 | gloss withheld |
+| Biblical Aramaic | dār 1 (HALOT 217) | HALOT 217 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

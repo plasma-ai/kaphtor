@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2784_to_shine_be_bright
 title: "*nVgVh-: 'to shine, be bright'"
-desc: "Proto-Semitic *nVgVh-, 'to shine, be bright': reflexes in 17 language(s)."
+desc: "Proto-Semitic *nVgVh-, 'to shine, be bright': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2784"
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | nägga, näg (LGz. 391) | LGz. 391 |  |
 | Gafat | näg (LGz. 391) | LGz. 391 |  |
 | Eblaitic | /n-g-h/: names en-ga-um, en-ga-am, en-ga-li-im; cf. a-ga-iš, a-ga-li-im; /nagah/: name na-ga-um (Sanmartín GlOS 2, 81); /n-g-h/: names en-ga-u₉/U₄, en-ga-da-ba-an, en-ga-mu-ud/du, en-ga-sum (Krebernik 1988, 48–49) | Sanmartín GlOS 2, 81; Krebernik 1988, 48–49 | gloss withheld |
+| Biblical Aramaic | \*nəgah (HALOT 667) | HALOT 667 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

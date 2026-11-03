@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_star118
 title: "QA-*118"
 desc: "qaṭṭ(u): flax, linseed—field-crop commodity. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "agriculture", "commodity", "hapax", "noun", "textile"]
 kind: "word"
 form: "QA-*118"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | flax, linseed—field-crop commodity |
 | Root | q-ṭ |
 | Proto-Semitic | \*ḳVṭ(Vw)- (#3781) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | agriculture, commodity, hapax, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-Ug qṭ (I) 'flax' (DULAT 708), n.m., attested 4× in KTU: 1.71, 1.72, 1.85 (hippiatric prescriptions—št bln qṭ, linseed ground with mixed fodder) and 2.36 (ḥwt qṭ 'the land of flax' beside ḥwt ugrt—a known crux, possibly Egypt). Wanderwort family \*kito- 'flax/linen': Akk kitû, Aram kittānā, Sum gada, Gk χιτών; Ugaritic branch shows q for k. \|\| \*118 = ṭa, a speculative value, stands where the root demands the emphatic. \|\| CONTEXT: KH10 (Khania grain ledger, GRA 10 … A-KI-PI-E-TE GRA 90); flax recorded beside grain matches Ugaritic field-crop practice, but the visible ideogram is GRA—the reading rides on the lexical match.
+KH 10, a Khania grain ledger (GRA 10 … A-KI-PI-E-TE GRA 90): flax beside grain, as in Ugaritic field-crop records. Ug. qṭ (I) 'flax', n. m. (DULAT 708), four times in KTU: the hippiatric prescriptions 1.71, 1.72 and 1.85 (št bln qṭ, linseed ground with mixed fodder) and 4.166:4, ḫmš mỉṣpt qṭ 'five m. of flax' in an administrative list; ḥwt qṭ (2.36:17) is a place name, qṭ (II). The Wanderwort \*kito- 'flax, linen': Akk. kitû, Aram. kittānā, Sum. gada, Gk. χιτών, the Ugaritic branch with q for k. \*118 at ṭa gives the emphatic the root requires. Rival: Aram. qaṭṭ- 'cucumber' (semitic_roots K0325: Syr. qaṭṭūṯā, Akk. qiššû), with ṭ for \*118. Weak points: ṭa for \*118 is a proposed value whose corpus test fails; QA-\*118 has no number of its own, after I-PA-SA-JA ·, and the GRA 90 below belongs to A-KI-PI-E-TE.
 
 ### Cognates
 

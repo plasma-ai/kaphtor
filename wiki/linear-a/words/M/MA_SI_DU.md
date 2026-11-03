@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_SI_DU
 title: "MA-SI-DU"
 desc: "maṣīdu: provisions (list heading); rival a personal name, cf. Linear B ma-si-dwo. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "administrative", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "MA-SI-DU"
 datasets: ["lexicon"]
@@ -34,9 +34,9 @@ updated: 2026-10-24T16:17:50Z
 | Reading | maṣīdu |
 | Meaning | provisions (list heading); rival a personal name, cf. Linear B ma-si-dwo |
 | Root | ṣ-w-d |
-| Proto-Semitic | \*ṣVwad/\*ṣVyad- (#847) |
-| Language layer | NWS |
-| Category | administrative |
+| Proto-Semitic | \*ṣyd ~ \*zwd (#3505) |
+| Language layer | Semitic |
+| Tags | administrative, foodstuff, hapax, noun |
 | Semantic field | administrative |
 
 ### Note

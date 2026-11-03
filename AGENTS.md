@@ -23,8 +23,8 @@ Run from the repository root.
 - `data/`: the datasets, each with a datasheet `<name>.md` or a manifest giving its licence (the gate checks it)
 - `wiki/`: pages generated from `data/` by `tools/views/`
 - `docs/`: rules, methods and corpus guides
-- `tools/`: the `tools` package behind `kaphtor`: `tools/core/` (the shared library), `tools/ane/` (the query
-  clients), `tools/views/` (the page builder), `tools/cli/` (the command); data paths in `tools/paths.py`
+- `tools/`: the `tools` package behind `kaphtor`: `tools/core/` (the shared library), `tools/linear_a/`
+  (the Linear A tools and validation scripts), `tools/ane/` (the query clients), `tools/views/` (the page builder), `tools/cli/` (the command); data paths in `tools/paths.py`
 - `skills/`: the two agent skills; `.claude-plugin/`: their Claude Code plugin manifests
 - `tests/`: `tests/linear_a/`, `tests/ane/`, `tests/views/`, and the repository checks at the top level
 
@@ -50,7 +50,7 @@ To find names in `data/linear-a/onomasticon.json` that split like DA-MI-NU (ḏ�
 4. Give each part its root and meaning under every parse. The lexicon entry carries the root, its
    `semitic_roots.json` id, one to three spelling analogs and the rivals, never the full reflex set.
 5. Read a tail as a title when a source writes name + title (Minaean lwʾtn S¹lmy "the priestess Salmay" for
-   TI-MA-RU-WI-TE Tīmar-lēwīt). A coda may go unwritten at the join: the r of Tīmar before the l of lēwīt.
+   TI-MA-RU-WI-TE Tīmar-luwwīt). A coda may go unwritten at the join: the r of Tīmar before the l of luwwīt.
 6. A catalogue's own spelling licenses a sign value: Gelb writes ṭaybatum DA-BA-TUM, so DA writes ṭ in DA-I-PI-TA.
 7. Vocalize the reading as spoken, gemination and length restored: Ṭayyibat, not Ṭaybat.
 8. Confirm every cited form against its catalogue row or page image, an agent's citations included, before it

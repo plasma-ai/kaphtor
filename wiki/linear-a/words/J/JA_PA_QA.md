@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/J/JA_PA_QA
 title: "JA-PA-QA"
-desc: "yapqaḥ: he opens (the eyes)?. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+desc: "yapqaḥ: he opens (the eyes). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "JA-PA-QA"
 datasets: ["lexicon"]
@@ -32,15 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yapqaḥ |
-| Meaning | he opens (the eyes)? |
+| Meaning | he opens (the eyes) |
 | Root | p-q-ḥ |
 | Proto-Semitic | \*paqaḥ- (#K0259) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | libation_formula, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Complete final group on PKZa12 and also attested after I-NA on PKZa11. Candidate 3ms yaqtul from √p-q-ḥ 'open (the eyes)': Proto-Semitic \*paqaḥ-, Hebrew pāqaḥ, and Aramaic pqḥ. The final laryngeal would be unrepresented. JA- is masculine /ya-/, so the subject cannot simply be identified as the goddess without further explanation; the damaged context may have lost its subject. No secure Akkadian cognate or Ugaritic pqḥ attestation has been identified. √p-q-d is weaker because it requires an absent final /d/. See I-NA-JA-PA-QA.
+PK Za 12, the complete final group, and PK Za 11, after I-NA. yapqaḥ, 3ms yaqtul of √p-q-ḥ 'open (the eyes)': Heb. pāqaḥ (HALOT 959), Aram. pqḥ, PS \*paqaḥ-, the final laryngeal unwritten. Rival: √p-q-d, which needs a final d. JA- requires a masculine subject: in Tropper's prefix paradigm the 3rd feminine takes t- in singular, plural and dual, and y- stands only in masculine cells (Tropper 2000, 432, §73.222), with gender agreement kept when the verb stands first (886). Hebrew leaves a preceding verb in the uninflected 3ms only before subjects 'denoting animals or things' (GKC §145 o, p. 465). Weak point: the damaged context has lost the subject. Two attestations. See I-NA-JA-PA-QA.
 
 ### Cognates
 
@@ -48,12 +49,11 @@ Complete final group on PKZa12 and also attested after I-NA on PKZa11. Candidate
 |---|---|
 | Hebrew | פָּקַח pāqaḥ "to open (eyes)" (Isa 42:7 lipqōaḥ ʿēnayim ʿiwwərōt "to open blind eyes") |
 | Aramaic | pqḥ 'to open (the eyes)' |
-| Ugaritic | pqḥ not attested; pqd 'to command' is a distinct competing root |
 | Eblaite | ib-ga-il yipqaḥ-ʾIl 'ʾIl opened', a name (Pagan 1998, row 2878) |
 
 ### Source
 
-di Mino
+di Mino; HALOT; Tropper 2000; GKC
 
 ## Attestations
 

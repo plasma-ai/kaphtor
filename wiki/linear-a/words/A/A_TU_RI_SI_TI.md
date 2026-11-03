@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_TU_RI_SI_TI
 title: "A-TU-RI-SI-TI"
 desc: "ha-Turisīt: the Tylissian (f.): provenance label on a jar. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "gentilic"]
+tags: ["linear-a", "word", "tier-2", "gentilic", "hapax", "loanblend"]
 kind: "word"
 form: "A-TU-RI-SI-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -33,13 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ha-Turisīt |
 | Meaning | the Tylissian (f.): provenance label on a jar |
-| Language layer | NWS |
-| Category | gentilic |
+| Root | ha- + Turis- (Pre-Greek; cf. suffix -ισ(σ)-, Beekes 2014, 37, 39) + -īt |
+| Language layer | Semitic |
+| Tags | gentilic, hapax, loanblend |
 | Semantic field | toponym |
 
 ### Note
 
-KN Zb 5, a clay vessel (MM IIIB), the single word A-TU-RI-SI-TI ·. Pre-Greek Turis- (LB tu-ri-so, Tylissos) with the NWS article ha- (h dropped to A, as A-KI-DA-RO) and the feminine gentilic -īt, as KA-NA-NI-TI kanaʿanītī. The feminine agrees with the jar (Ug. kd n. f., KA-DI kadd): a provenance label of the SU-KI-RI-TE-I-JA genre. Linear B writes the same feminine ethnic with Greek -ia, tu-ri-si-ja. A Semitic formation on a pre-Greek stem.
+KN Zb 5, a clay vessel (MM IIIB), the single word A-TU-RI-SI-TI ·. Pre-Greek Turis- (LB tu-ri-so, Tylissos) with the NWS article ha- (h dropped to A, as A-KI-DA-RO) and the feminine gentilic -īt, as KA-NA-NI-TI kanaʿanītī. The feminine agrees with the jar (Ug. kd n. f. 'jar', DULAT 424; KA-DI kadd): a provenance label of the SU-KI-RI-TE-I-JA genre. Linear B writes the same feminine ethnic with Greek -ia, tu-ri-si-ja (KN Lc 533.8; DMic II 378, s.v. tu-ri-si-jo). A Semitic formation on a pre-Greek stem.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ KN Zb 5, a clay vessel (MM IIIB), the single word A-TU-RI-SI-TI ·. Pre-Greek Tu
 
 ### Source
 
-di Mino; Gelb 1980; DULAT
+di Mino; Gelb 1980; DULAT; DMic II; Beekes 2014
 
 ## Attestations
 
@@ -70,7 +71,7 @@ di Mino; Gelb 1980; DULAT
 
 | Field | Value |
 |---|---|
-| Type | gentilic (SPECULATIVE) |
+| Type | gentilic (CANDIDATE) |
 | Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |

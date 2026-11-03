@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_MA
 title: "SI-MA"
 desc: "šima: name, renown, progeny (common noun in construct state; also attested as personal name Šima = Shem). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "SI-MA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | name, renown, progeny (common noun in construct state; also attested as personal name Šima = Shem) |
 | Root | š-m (PS #621 \*(ʔi-)šim-) |
 | Proto-Semitic | \*(ʾi-)šim- (#621) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | personal_name |
 
 ### Note
 
-PHZb4 (Phaistos, clay vessel): SI-MA 𐄁 I-JA-TE. Dual function: (1) common noun šima "name of" in construct state; (2) personal name Šima = Shem, meaning "Name/Renown/Progeny." On a vessel, the PN reading is more natural — a person identified on a commodity vessel, paralleling DI-NA-U 𐄁 VIN on KNZb&lt;27&gt;. The Amorite onomastic parallel is exact: šumu- is the most productive name element in Old Babylonian Amorite onomastics (Sumu-abum, Sumu-la-El, Šumu-ditāna in Hammurabi's genealogy). Pan-Semitic noun, no root dispute. Amorite has the bare name ŠU-MU-UM Šumum (Gelb 1980, no. 5941). Rival: the name Šimaʿ 'hear!', Ebla si-ma, three witnesses (Pagan 1998, row 4222). \|\| Case unassigned: nothing here selects it (Fischer 2002, §140). See JA-SU-MA-TU.
+PH Zb 4 (Phaistos, a clay vessel): SI-MA 𐄁 I-JA-TE. Either the common noun šima 'name of', in construct with I-JA-TE, šima ʾiyyate 'name of the island', or the personal name Šima, Shem, 'Name, Renown, Progeny', a person named on a commodity vessel, as DI-NA-U 𐄁 VIN on KN Zb 27. šumu- is the most productive element of Old Babylonian Amorite names (Sumu-abum, Sumu-la-El, Šumu-ditāna in Hammurabi's genealogy), and Amorite has the bare ŠU-MU-UM Šumum (Gelb 1980, no. 5941). Rival: the name Šimaʿ 'hear!', Ebla si-ma, three witnesses (Pagan 1998, row 4222). No case is assigned, since nothing here selects one (Fischer 2002, §140). One attestation. See JA-SU-MA-TU.
 
 ### Cognates
 

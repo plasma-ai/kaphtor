@@ -9,7 +9,7 @@ site: "Phaistos"
 support: "Roundel"
 period: "MMII"
 translation: "none"
-words: ["TI"]
+words: []
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -40,22 +40,18 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*328-E ≈ TI
+1. \*328 ¹⁄₄
 
 Unicode (Linear A block):
 
 ```text
-𐙴𐘡 ≈ 𐘠
+𐙴𐝃
 ```
-
-## Lexicon words citing this document
-
-[[wiki/linear-a/words/T/TI|TI]].
 
 ## Edition differences
 
 | Kind | SigLA | GORILA |
 |---|---|---|
-| corpus extra sign | A328 | \*328-E TI |
+| corpus extra sign | A328 | \*328 ¹⁄₄ |
 
 <!-- END kaphtor:record -->

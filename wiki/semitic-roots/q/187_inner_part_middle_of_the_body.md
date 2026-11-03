@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/187_inner_part_middle_of_the_body
 title: "*ḳVrb-: 'inner part, middle (of the body)'"
-desc: "Proto-Semitic *ḳVrb-, 'inner part, middle (of the body)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḳVrb-, 'inner part, middle (of the body)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "187"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ḳrb \[Aist 282\] | Aist 282 | gloss withheld |
 | Hebrew | ḳäräb (HALOT 1135) | HALOT 1135 | gloss withheld |
 | Eblaitic | (?) kir-buₓ /ḳirbu(m)/ (SED I 149; VE 586; Krebernik 1983, 22) | SED I 149; VE 586; Krebernik 1983, 22 |  |
+| Moabite | qrb (DNWSI 1030) | DNWSI 1030 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

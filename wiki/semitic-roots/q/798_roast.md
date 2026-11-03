@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/798_roast
 title: "*ḳVlVw-: 'roast'"
-desc: "Proto-Semitic *ḳVlVw-, 'roast': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ḳVlVw-, 'roast': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "798"
@@ -38,12 +38,15 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | qəlā (HALOT 1101) | HALOT 1101 |  |
 | Syrian Aramaic | qəlā (HALOT 1101) | HALOT 1101 |  |
 | Soqotri | qale (LGz. 431) | LGz. 431 |  |
+| Jibbali | məḳlét (Rubin 2014 665) | Rubin 2014 665 | gloss withheld |
 | Tigrinya | qäläwä (LGz. 431) | LGz. 431 |  |
 | Tigre | qäla (qly) (LGz. 431) | LGz. 431 |  |
 | Amharic | qʷälla (LGz. 431) | LGz. 431 | gloss withheld |
 | Argobba | qʷälla (LGz. 431) | LGz. 431 | gloss withheld |
 | Gafat | qollä (LGz. 431) | LGz. 431 |  |
 | Harari | qala \[LHar 123\] | LHar 123 | gloss withheld |
+| Eblaitic | ḳalwat: ga-a-tum (= Sum. ŠE.GIBIL₄) (Sanmartín GlOS 1, 346) | Sanmartín GlOS 1, 346 | gloss withheld |
+| Canaanite | EG SYLL qa=ra /\*qālē/ (Hoch 293); EG SYLL m=ga=-r, ma₅=qu /\*maqala/ (Hoch 170–171) | Hoch 293; Hoch 170–171 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/Q/QE_SI_TE
 title: "QE-SI-TE"
-desc: "qašt: bow, incised on the Malia palace wall; alternative 'throne, seat' (PS *kussīʾ-). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+desc: "qešet: bow, incised on the Malia palace wall; rival 'throne, seat' (PS *kussīʾ-). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "noun"]
 kind: "word"
 form: "QE-SI-TE"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "qašt"
+reading: "qešet"
 attestations: ["MAZe11"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | qašt |
-| Meaning | bow, incised on the Malia palace wall; alternative 'throne, seat' (PS \*kussīʾ-) |
+| Reading | qešet |
+| Meaning | bow, incised on the Malia palace wall; rival 'throne, seat' (PS \*kussīʾ-) |
 | Root | q-š-t |
 | Proto-Semitic | \*ḳa(w)š- (#362) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | administrative |
 
 ### Note
 
-MA Ze 11, incised in the Malia palace south of the north-west court (GORILA IV 140), complete. QE-SI-TE writes qašt 'bow', the feminine -t in TE: Akk. qaštu, Ug. qšt, Heb. qešet, Geʿez qast. Not variants: KN Ze 49 (KE-SI-TE) and KN Ze 45 (KA-SI-A-TE) are masons' marks; THE Zb 13 reads 77-08-41-&#91;&#91;?-?-04&#93;&#93; (Karnava & Nikolakopoulou); KO-SA-I-TI (HT 117a) is a name. QE-SI-TE follows Heb. qéšet: QE writes qe, TE the -t; SI for še is a vowel mismatch only. Rival: kussīʾ 'throne, seat' (Akk. kussû, Ug. ksu, Heb. kissēʾ), which suits a palace but has no -t for TE. One attestation.
+MA Ze 11, incised in the Malia palace south of the north-west court (GORILA IV 140), complete. qešet 'bow': QE writes qe, SI še, a vowel mismatch only, and TE the feminine -t, as Heb. qešet (HALOT 1155); Akk. qaštu (CAD Q 148), Ug. qšt (DULAT 707), Geʿez qast. Rival: kussīʾ 'throne, seat' (Akk. kussû, Ug. ksu, Heb. kissēʾ), which suits a palace but has no -t for TE. One attestation. Cf. QE-SI-ZU-E.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ MA Ze 11, incised in the Malia palace south of the north-west court (GORILA IV 1
 
 ### Source
 
-di Mino
+di Mino; GORILA IV; HALOT; CAD Q; DULAT
 
 ## Attestations
 

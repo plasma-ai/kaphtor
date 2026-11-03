@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star316
 title: "*316"
 desc: "kiššanu: bean or legume; food commodity in ration allocations. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "*316"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | bean or legume; food commodity in ration allocations |
 | Root | k-š-n |
 | Proto-Semitic | \*kišan- (#1606) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Commodity ideogram \*316 (6 att., Khania + Phaistos). KI complement on nodules KHWa1001/1002 gives initial syllable /ki/. Akk kiššanu 'bean' (CAD K 454). On KH91, positioned between VIN (wine) and NI (figs) in a rations list alongside GRA and \*401+RU/RO—food commodity context. On PH1a, allocated to named individuals (DI-RA-DI-NA, JA) with CYP—three independent contexts across two sites and three document types. Akkadian-only attestation; no Hebrew or Ugaritic reflexes confirmed.
+Commodity ideogram \*316, six occurrences on five documents at Khania and Phaistos. On the nodules KH Wa 1001 and KH Wa 1002 the KI complement (\*316+KI) gives the initial syllable /ki/. Akk. kiššanu, a leguminous plant, issued in the Alalakh ration lists (CAD K 456). On KH 91 \*316 1 13/20 follows VIN (wine) in a rations list with GRA, NI (figs), \*401+RU and \*401+RA; on PH 1a it is allocated to named individuals (DI-RA-DI-NA, JA) with CYP. Weak point: the comparison is Akkadian alone.
 
 ### Cognates
 

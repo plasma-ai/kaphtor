@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-ZA 13 .1 \]-SU-PA-\[, below sup. mut., broken on both sides with the word running into both breaks, traces before SU compatible with KU (GORILA III 179). SU-PA is a fragment of a longer word. Sole attestation. Not readable.
+ZA 13 .1 \]-SU-PA-\[, below sup. mut., broken on both sides with the word running into both breaks, traces before SU compatible with KU (GORILA III 179). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

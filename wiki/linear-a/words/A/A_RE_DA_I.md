@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RE_DA_I
 title: "A-RE-DA-I"
 desc: "Ar-tae: Ar-tae (personal name; Hurrian ar- 'give'). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-RE-DA-I"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ar-tae |
 | Meaning | Ar-tae (personal name; Hurrian ar- 'give') |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-HT 29 .5 A-RE-DA-I 2, whole and undotted, RE written over an erased sign, the whole tablet over an erasure (GORILA I 55). An entry of two units after \[?\]-KI-TA 2 and before KA-DU-MA-NE 1, on a tablet with PA-JA-RE. Nuzi writes the name A-ar-da-e beside A-ar-ta-e: RE writes ar- with a dead vowel, DA the -da- of that spelling. Rival: DA-I dayu as a second element, with A-RE unexplained.
+HT 29 .5 A-RE-DA-I 2, whole and undotted, RE written over an erased sign, the whole tablet over an erasure (GORILA I 55). An entry of two units after \[?\]-KI-TA 2 and before KA-DU-MA-NE 1, on a tablet with PA-JA-RE. Nuzi writes the name A-ar-da-e beside A-ar-ta-e (Gelb, Purves, and MacRae 1943, 33): RE writes ar- with a dead vowel, DA the -da- of that spelling. Rival: DA-I dayu as a second element, with A-RE unexplained.
 
 ### Cognates
 
@@ -64,10 +64,14 @@ di Mino; Gelb, Purves, and MacRae 1943
 | Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 29 .5 A-RE-DA-I 2 (GORILA I 55). Nuzi A-ar-da-e beside A-ar-ta-e (Gelb, Purves, and MacRae 1943, 33). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

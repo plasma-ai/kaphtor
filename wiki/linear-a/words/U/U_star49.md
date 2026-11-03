@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/U/U_star49
 title: "U-*49"
-desc: "ʾummi: mother; or capital (Akk. ummu 'capital'); rival u- 'and' + PALM/TREE. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+desc: "ʾummi: mother; rivals Akk. ummu 'capital', u- 'and' + PALM/TREE. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "kinship", "noun"]
 kind: "word"
 form: "U-*49"
 datasets: ["lexicon"]
@@ -32,12 +32,12 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾummi |
-| Meaning | mother; or capital (Akk. ummu 'capital'); rival u- 'and' + PALM/TREE |
+| Meaning | mother; rivals Akk. ummu 'capital', u- 'and' + PALM/TREE |
 | Root | ʾ-m-m |
 | Proto-Semitic | \*ʾu/imm- (#1839) |
-| Language layer | NWS |
-| Category | vocabulary |
-| Semantic field | commodity |
+| Language layer | Semitic |
+| Tags | hapax, kinship, noun |
+| Semantic field | kinship |
 
 ### Note
 

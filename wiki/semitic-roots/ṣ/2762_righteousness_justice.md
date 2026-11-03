@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/2762_righteousness_justice
 title: "*ṣidq-: 'righteousness, justice'"
-desc: "Proto-Semitic *ṣidq-, 'righteousness, justice': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ṣidq-, 'righteousness, justice': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2762"
@@ -34,8 +34,9 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ṣdq (Krahmalkov 414) | Krahmalkov 414 | gloss withheld |
 | Hebrew | ṣedeq (HALOT 1004) | HALOT 1004 | gloss withheld |
 | Epigraphic South Arabian | Sab ṣdq (SD 141; Biella 416, 417; Sabaweb lemma 1204) | SD 141; Biella 416, 417; Sabaweb lemma 1204 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ṣdq (Al-Jallad–Jaworska 128) | Al-Jallad–Jaworska 128 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṣdq (Al-Jallad–Jaworska 128); ṣdq; Hismaic ṣdq (Al-Jallad 2026, 146) | Al-Jallad–Jaworska 128; Al-Jallad 2026 146 | gloss withheld |
 | Amorite | ṣidqu (Buck 2019, 333); ṣidq: zi-id-kum, zi-id-qa-an, ṣi-id-ga-nu-um (Sanmartín GlOS 2, 214) | Buck 2019, 333; Sanmartín GlOS 2, 214 | gloss withheld |
+| Aramaic | ṣdq (DNWSI 962) | DNWSI 962 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

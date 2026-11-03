@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/Z/ZU_RI_NI_MA
 title: "ZU-RI-NI-MA"
-desc: "Ṯawrinima: Bull- (personal name). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "onomastic"]
+desc: "Ṯūrinima: Bull- (personal name). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "ZU-RI-NI-MA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
-reading: "Ṯawrinima"
+reading: "Ṯūrinima"
 attestations: ["KNZb52"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Ṯawrinima |
+| Reading | Ṯūrinima |
 | Meaning | Bull- (personal name) |
 | Root | ṯ-w-r |
 | Proto-Semitic | \*ṯawr- (#269) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KN Zb 52, a clay vessel: ZU-RI-NI-MA alone. √ṯ-w-r 'bull' with -īn and mimation -MA. Cf. I-ZU-RI-NI-TA (PH 6), with feminine -TA. Weak point: ZU = /ṯu/ is a proposed value. One attestation.
+KN Zb 52, a clay vessel: ZU-RI-NI-MA alone. √ṯ-w-r 'bull' (semitic_roots 269), ZU writing the ū of Ebla šu-ra /ṯūr/ (GlOS 2, 330) and Akk. šūru, with -īn and mimation -MA. Cf. I-ZU-RI-NI-TA (PH 6), with feminine -TA. One attestation.
 
 ### Cognates
 

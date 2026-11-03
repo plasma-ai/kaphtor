@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_I_RO
 title: "KA-I-RO"
 desc: "kāʾil: Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KA-I-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Measurer (professional-title PN), of grain; rival a name on g-y-l 'to rejoice' |
 | Root | k-y-l |
 | Proto-Semitic | \*kalVy- ~ \*kayl- (#298) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 8 .6 KA-I-RO 4 B B, intact, the last entry of the fig list headed KI-RA · (GORILA III 165), with the largest share. kāʾil 'measurer': I writes ʾi, RO the final l as in KU-RO kull; A-I writes -ay- in DA-I-PI-TA on the same tablet. Two entries after MA-KA-I-SE 'tax-man'. Rival: a name on g-y-l 'to rejoice'. One witness.
+ZA 8 .6 KA-I-RO 4 B B, intact, the last entry of the fig list headed KI-RA · (GORILA III 165), with the largest share, two entries after MA-KA-I-SE. kāʾil 'measurer', active participle of √k-y-l 'to measure (grain)': Arb. kayyāl 'a measurer of corn', mikyāl 'a measure for corn' (Lane 3005), kayl 'measure' (Q 12:59–65). I writes ʾi, RO the final l as in KU-RO kull; A-I writes -ay- in DA-I-PI-TA on the same tablet. Rival: a name on √g-y-l 'to rejoice', Heb. gîl (HALOT 189–190). One attestation.
 
 ### Cognates
 

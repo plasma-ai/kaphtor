@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/3174_zizyphus
 title: "*ṣ̂aʾl-: 'zizyphus'"
-desc: "Proto-Semitic *ṣ̂aʾl-, 'zizyphus': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ṣ̂aʾl-, 'zizyphus': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3174"
@@ -35,6 +35,7 @@ updated: 2026-10-24T15:25:56Z
 | Soqotri | ẓ̂áˀed (LS 359; SLOnline 7236) | LS 359; SLOnline 7236 | gloss withheld |
 | Syrian Aramaic | ʿā(ʾ)lā (Kogan 2015, ch. 2 §5.2.2.3 no. 14) | Kogan 2015 ch. 2 §5.2.2.3 no. 14 | gloss withheld |
 | Arabic | ḍāl- (Kogan 2015, ch. 2 §5.2.2.3 no. 14) | Kogan 2015 ch. 2 §5.2.2.3 no. 14 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḍlt (Al-Jallad 2026, 43) | Al-Jallad 2026 43 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

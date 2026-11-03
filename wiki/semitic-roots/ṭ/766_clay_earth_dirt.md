@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/766_clay_earth_dirt
 title: "*ṭīn-: 'clay, earth, dirt'"
-desc: "Proto-Semitic *ṭīn-, 'clay, earth, dirt': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ṭīn-, 'clay, earth, dirt': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "766"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ṭun |  |  |
 | Syrian Aramaic | ṭīn- |  |  |
 | Tigre | (tə)ṭäyyänä (Kogan 2011, 189) | Kogan 2011 189 | gloss withheld |
+| Biblical Aramaic | ṭīn (HALOT 374) | HALOT 374 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

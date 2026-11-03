@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/W/WI_DI_NA
 title: "WI-DI-NA"
-desc: "Widdīna: Beloved (personal name, widd 'love'). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Widdinā: personal name, 'our Beloved'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "WI-DI-NA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Widdīna"
+reading: "Widdinā"
 attestations: ["HT28b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Widdīna |
-| Meaning | Beloved (personal name, widd 'love') |
+| Reading | Widdinā |
+| Meaning | personal name, 'our Beloved' |
 | Root | w-d-d |
 | Proto-Semitic | \*wad- (#993) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 28b: WI-DI-NA OLE+DI 3, VIN 3¼, after PU-RA₂ and JA-\*21F, each with its own entry. widd 'love', the i-form of √w-d-d (Lane 2931), + -īn + -a; dd unwritten. Arabian names wdn, f. wdnt (Harding 1971, 639) share the skeleton w-d-n. Initial w- where Amorite (JADID, Gelb 1980, nos. 3183–3192), Ugaritic (ydd) and Hebrew (yādîd) have y-. Rival: Wadd, a god (Faris 1952, 9; Q 71:23), which needs WI for wa. Weak point: the -īn-a ending. Cf. WA-DI-NI (HT Wc 3007). One attestation. See WI-TE-JA-MU.
+HT 28b: WI-DI-NA OLE+DI 3, VIN 3¼, after PU-RA₂ and JA-\*21F, each with its own entry. widd 'love', the i-form of √w-d-d (Lane 2931), + -i- and the 1cp -nā, as PA₃-NI-NA banīna 'our builder' and Amorite I-LU-NA 'our god' (Gelb 1980, no. 2555); dd unwritten. Initial w- where Amorite (JADID, Gelb 1980, nos. 3183–3192), Ugaritic (ydd) and Hebrew (yādîd) have y-. Rival: Wadd, a god (Faris 1952, 9; Q 71:23), which needs WI for wa. Cf. WA-DI-NI (HT Wc 3007). One attestation. See WI-TE-JA-MU.
 
 ### Cognates
 
@@ -67,7 +67,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | Widdīna | Beloved (PN, widd 'love') |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | Widdinā | our Beloved (PN, widd 'love') |  |
 
 ## Onomasticon
 

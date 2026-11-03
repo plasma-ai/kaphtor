@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Z/ZU_star301
 title: "ZU-*301"
 desc: "ṯannān: chariot soldiers, archers (a troop drawing rations); rival a name ZU-*301-SE-DE. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation", "personnel"]
 kind: "word"
 form: "ZU-*301"
 datasets: ["lexicon"]
@@ -34,25 +34,26 @@ updated: 2026-10-27T03:07:18Z
 | Reading | ṯannān |
 | Meaning | chariot soldiers, archers (a troop drawing rations); rival a name ZU-\*301-SE-DE |
 | Root | ṯ-n-n |
-| Language layer | NWS |
-| Category | personnel |
+| Proto-Semitic | \*ṯanann- (#4113) |
+| Language layer | Semitic |
+| Tags | hapax, noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-ARKH 2 .3–4 ZU-\*301-SE-DE-\*21F-\*118 6, read ṯannān ṣēd ḥiṭṭa 'the chariot soldiers: provision of wheat, 6', under SI-DA-TE ṣēdat 'provisions', between A-SI-DA-TO-I 12 and A-SU-PU-WA 4 (GORILA III 6–7). \*301 and \*21F over erasures, no dividers. SE-DE ṣēd, √ṣ-y-d as SI-DA-TE. Ugarit lists the ṯnnm as a group with named members (KTU 4.68:70; 4.126:4), with a rb ṯnnm (4.382:5). ZU writes ṯ before any vowel or none, as in A-ZU-RA ʾAṯrat or ʾAṯirat. Weak points: the must list turns to wheat without a logogram, and DULAT records doubt over the archer sense. Rival: one name ZU-\*301-SE-DE + ḥiṭṭa 6. One witness.
+ARKH 2 .3–4 ZU-\*301-SE-DE-\*21F-\*118 6, read ṯannān ṣēd ḥiṭṭa 'the chariot soldiers: provision of wheat, 6', under SI-DA-TE ṣēdat 'provisions', between A-SI-DA-TO-I 12 and A-SU-PU-WA 4 (GORILA III 6–7). \*301 and \*21F over erasures, no dividers. SE-DE ṣēd, √ṣ-y-d as SI-DA-TE. Ugarit lists the ṯnnm as a group with named members (KTU 4.68:70; 4.126:4), with a rb ṯnnm (4.382:5). ZU writes ṯ before any vowel or none, as in A-ZU-RA ʾAṯirat. Egyptian snny, 'of the chariotry', takes the arrow determinative (Hoch 1994, 262, no. 371). Alalakh allots sheep to the šanannu as a body (CAD Š/1 366). Weak point: the must list turns to wheat without a logogram; \*21F-\*118 takes its numeral without one on ZA 14 too (\*21F-\*118 1). Rival: one name ZU-\*301-SE-DE + ḥiṭṭa 6. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | ṯnn, pl. ṯnnm, syll. LÚ ša-na-ni, LÚ ša-na-nu-ma; rb ṯnnm 'chief archer' (DULAT 909) |
-| Akkadian | šanannu, Alalakh (DULAT 909) |
+| Akkadian | šanannu 'archer(?)', MB Alalakh and Ras Shamra: 1006 ERÍN.MEŠ ša-na-an-nu (Wiseman, Alalakh 183:2); sheep belonging to the LÚ.MEŠ ša-na-an-ni-e (Alalakh 352:6); Hurrian pl. LÚ.MEŠ ša-na-nu-ḫē (Alalakh 350:9) (CAD Š/1 366) |
 | Egyptian | snny, \*ṯannānu 'chariot soldier, archer' (Hoch 1994, 261, no. 371) |
 
 ### Source
 
-di Mino; DULAT; Hoch 1994
+di Mino; DULAT; CAD; Hoch 1994
 
 ## Attestations
 

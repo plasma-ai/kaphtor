@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_RU_NE_TE
 title: "DA-RU-NE-TE"
 desc: "Dāru-ʿAnēt: Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DA-RU-NE-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Anat is everlasting (theophoric personal name); rivals Dūr-ʿAnat 'Wall of Anat', and Egyptian Neith as the second element |
 | Root | d-w-r + ʿ-n-t |
 | Proto-Semitic | \*dawr- (#40) + \*ʕanat- (#2771) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 98b .2 DA-RU-NE-TE 1/10, after \]VIN ¾ (GORILA I 161); face a lists TA-NA-TI ¾. DA-RU dāru 'lasting' (40), as DA-RU-\*329 Dārum and Amorite Šumī-dāru 'my name is lasting' (Buck 2018, 349); -NE-TE ʿAnat (2771), as Šum-Anati and Abdi-Anati at Ugarit (Kinlaw 1967, 111, 7). Anat is NA-TA in I-NA-TA-I and NA-TI on face a: the lost ʿa- and the e of -NE-TE are unexplained. Rivals: Dūr-ʿAnat 'Wall of Anat', as Ili-dūri 'my god is my wall' (de Boer 2014, 351) and the town Dūr-Addu (MTT I/1); Egyptian Neith (n.t), as sꜣ-n.t, wsr-n.t (PNM v6).
+HT 98b .2 DA-RU-NE-TE 1/10, after \]VIN ¾ (GORILA I 161); face a lists TA-NA-TI ¾. DA-RU dāru 'lasting' (#40), as DA-RU-\*329 Dārum and Amorite Šumī-dāru 'my name is lasting' (Buck 2018, 349); -NE-TE ʿAnat (#2771), as Šum-Anati and Abdi-Anati at Ugarit (Kinlaw 1967, 111, 7). Anat is NA-TA in I-NA-TA-I and NA-TI on face a: the lost ʿa- and the e of -NE-TE are unexplained. Rivals: Dūr-ʿAnat 'Wall of Anat', as Ili-dūri 'my god is my wall' (de Boer 2014, 351) and the town Dūr-Addu (MTT I/1, s.v. Dūr-Addu); Egyptian Neith (n.t), as sꜣ-n.t 'son of Neith', wsr-n.t 'Neith is powerful' (Ilin-Tomich 2025, s.v. n.t). One attestation.
 
 ### Cognates
 
@@ -56,7 +56,7 @@ HT 98b .2 DA-RU-NE-TE 1/10, after \]VIN ¾ (GORILA I 161); face a lists TA-NA-TI
 
 ### Source
 
-di Mino; Gelb 1980; Buck 2018
+di Mino; Gelb 1980; Buck 2018; Kinlaw 1967; de Boer 2014; MTT I/1; Ilin-Tomich 2025
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2354_side_of_body_body_chest
 title: "*gVŝŝ-: 'side of body; body; chest'"
-desc: "Proto-Semitic *gVŝŝ-, 'side of body; body; chest': reflexes in 9 language(s)."
+desc: "Proto-Semitic *gVŝŝ-, 'side of body; body; chest': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2354"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | PB gäsäs 'side, arm' \[Ja 261\]. | Ja 261 |  |
 | Judaic Aramaic | gīsǝsā 'side, arm' \[Ja 241\] | Ja 241 |  |
 | Syrian Aramaic | gessā 'hip, side (of the tongue, of the palate); girdle of the pubis' \[Brock 126\] | Brock 126 |  |
+| Emar | ge-eš-šu, ge₅-eš-ša /geššu/ (SED II 339) | SED II 339 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

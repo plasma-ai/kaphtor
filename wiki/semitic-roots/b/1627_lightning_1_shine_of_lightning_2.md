@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | barq- 1 (Lane 190) | Lane 190 |  |
 | Mehri | bōreq 1; barḳ 1 (Rubin 2018 823, 556) | Rubin 2018 823, 556 | gloss withheld |
-| Akkadian | berqu, birqu 1 |  |  |
+| Akkadian | berqu, birqu 1; barāqu 2 (CAD B 103) | CAD B 103 | gloss withheld |
 | Tigre | bärq 1 |  |  |
 | Ugaritic | brq 1 |  |  |
 | Geez | brq 2 |  |  |
@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | barq- 1 (Payne Smith 56) | Payne Smith 56 |  |
 | Tigrinya | bärqi 1 |  |  |
 | Phoenician | brq (B 292) | B 292 | gloss withheld |
-| Aramaic | BRQ (Aramaic Root Atlas; CAL s.v. brq); brq (Aramaic Root Atlas; DNWSI 203 apud CAL) | Aramaic Root Atlas; CAL s.v. brq; DNWSI 203; CAL; Anderson–Moser 2024 root brq | gloss withheld |
+| Aramaic | BRQ (Aramaic Root Atlas; CAL s.v. brq); brq (Aramaic Root Atlas; DNWSI 203) | Aramaic Root Atlas; CAL s.v. brq; DNWSI 203; Anderson–Moser 2024 root brq | gloss withheld |
 | Soqotri | brq 2 (HALOT 162) | HALOT 162 |  |
 | Amorite | brq: jabruq, burq(ān)um, burqatum (Gelb AS 21, 17); burqān, yabruq (Buck 2019, 326); b-r-q 2: ia-ab-ru-qu-um, ia-ab-ru-uq-DINGIR, ia-ab-ru-uq-li-im; barq, burq: bur-qa-an, bu-ur-qa-an, bu-úr-ga-nu(-um) (Sanmartín GlOS 1, 125) | Gelb AS 21 17; Buck 2019, 326; Sanmartín GlOS 1, 125 | gloss withheld |
 | Jibbali | bɛrḳ (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |

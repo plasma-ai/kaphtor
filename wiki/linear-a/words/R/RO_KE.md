@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RO_KE
 title: "RO-KE"
 desc: "rōqēaḥ: perfumer (title); rival rōkēl 'trader, merchant'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "aromatic", "hapax", "noun", "occupation"]
 kind: "word"
 form: "RO-KE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | perfumer (title); rival rōkēl 'trader, merchant' |
 | Root | r-q-ḥ |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | aromatic, hapax, noun, occupation |
 | Semantic field | personnel |
 
 ### Note
 
-HT 98a .4 RO-KE ½, whole and undotted, between TE-\*301 ¾ and KA-RI-\*310-I ¼, in a list of fractional issues with TA-NA-TI; wine on face b (GORILA I 161). The qōṭēl participle with Canaanite ō, as RO-E rōʿē; KE writes q, the final ḥ unwritten. Ebla (rāqiḥ) and Ugarit (rqḥ) attest the title. Rival: rōkēl 'trader', with KE at k and the final l unwritten, as Linear B drops a word-final liquid (ma-te mātēr, PY An 607); unattested in the Bronze Age. See RO-QA and \*401.
+HT 98a .4 RO-KE ½, whole and undotted, between TE-\*301 ¾ and KA-RI-\*310-I ¼, in a list of fractional issues with TA-NA-TI; wine on face b (GORILA I 161). The qōṭēl participle with Canaanite ō, as RO-E rōʿē; KE writes q, the final ḥ unwritten. Ebla rāqiḥ 'oil-perfumer' (GlOS 2, 165) and Ugarit rqḥ 'perfumer, druggist' (DULAT 734) attest the title. Rival: rōkēl 'trader', with KE at k and the final l unwritten, as Linear B drops a word-final liquid (ma-te mātēr, PY An 607); unattested in the Bronze Age. See RO-QA and \*401.
 
 ### Cognates
 
@@ -74,10 +74,14 @@ di Mino; DULAT; GlOS 2
 | Type | title (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 98a .4 RO-KE ½, in a list of fractional issues (GORILA I 161). Ugarit rqḥ 'perfumer' (DULAT 734). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

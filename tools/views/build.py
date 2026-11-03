@@ -37,7 +37,7 @@ if __package__ in (None, ""):
     __package__ = "tools.views"
 
 from ..paths import BACKUPS, NotInCheckout
-from . import aegean, indexes, markdown, model, render, roots
+from . import aegean, indexes, markdown, model, pregreek, render, roots
 
 INDEX = "_index.md"
 SHOWN = 10
@@ -81,13 +81,15 @@ def git_dirty(out: Path) -> list[str] | None:
 def plan(data: Path, out: Path) -> dict:
     """What a write would do, worked out without writing anything."""
     loaded = model.load(data)
-    roots_data = Path(data).parent / "semitic-roots"     # the repository's layout: data/linear-a, data/semitic-roots
+    # the repository's layout: data/linear-a, data/semitic-roots, data/pre-greek
+    roots_data, pregreek_data = Path(data).parent / "semitic-roots", Path(data).parent / "pre-greek"
     pages = render.collect([*render.pages(loaded).items(), *aegean.pages(data).items(),
-                            *roots.pages(roots_data).items()])
+                            *roots.pages(roots_data, pregreek.by_root(pregreek_data)).items(),
+                            *pregreek.pages(pregreek_data, roots_data).items()])
     fresh = {file_for(out, path): text for path, text in sorted(pages.items())}
     result = {"fresh": fresh, "missing": [], "stale": [], "current": [], "orphaned": [], "unmarked": [],
               "outside": [], "texts": {}, "indexes": {}}
-    for folder, desc in {**indexes.descs(loaded), **roots.descs(roots_data)}.items():
+    for folder, desc in {**indexes.descs(loaded), **roots.descs(roots_data), **pregreek.descs(pregreek_data)}.items():
         target = file_for(out, folder + "/" + INDEX.removesuffix(".md"))
         if not target.exists():
             result["indexes"][target] = markdown.frontmatter({"desc": desc}) + "\n"

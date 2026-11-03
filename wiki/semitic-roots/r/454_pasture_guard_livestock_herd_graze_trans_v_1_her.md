@@ -41,13 +41,13 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | rʕ 1 |  |  |
 | Jibbali | raʕé 1 |  |  |
 | Hebrew | rʕy 1, rōʕǟ 2 |  |  |
-| Epigraphic South Arabian | rʕy 1 (Sabaweb lemma 7187) | Sabaweb lemma 7187 | gloss withheld |
+| Epigraphic South Arabian | rʕy 1 (Sabaweb lemma 7187); rʕy 2 (SD 113) | Sabaweb lemma 7187; SD 113 | gloss withheld |
 | Syrian Aramaic | rǝʕā 1 |  |  |
 | Aramaic | RʿY (Aramaic Root Atlas; Qumran 224 apud CAL) | Aramaic Root Atlas; CAL; Anderson–Moser 2024 root rʿy | gloss withheld |
 | Punic | rʿ 'shepherd' | Anderson–Moser 2024 root rʿy |  |
 | Judaic Aramaic | rəʿā, rāʿăyā, rāʿītā (HALOT 1258) | HALOT 1258 |  |
 | Amorite | rʿj: jarʿī (Gelb AS 21, 29); r-ʿ-y: cf. ya-ri-a-du, ia-ar-ḫi-DINGIR (Sanmartín GlOS 2, 150) | Gelb AS 21 29; Sanmartín GlOS 2, 150 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic rʿy (Al-Jallad–Jaworska 114) | Al-Jallad–Jaworska 114 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rʿy (Al-Jallad–Jaworska 114); rʿyt 1; Hismaic rʿy 1; Dadanitic rʿy 2 (Al-Jallad 2026, 119) | Al-Jallad–Jaworska 114; Al-Jallad 2026 119 | gloss withheld |
 | Eblaitic | u₉-šarₓ(NE)-ì /r-ʿ-y/ 1 (Sanmartín GlOS 2, 150) | Sanmartín GlOS 2, 150 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

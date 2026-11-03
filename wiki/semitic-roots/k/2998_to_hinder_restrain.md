@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2998_to_hinder_restrain
 title: "*kVlVʔ-: 'to hinder, restrain'"
-desc: "Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 11 language(s)."
+desc: "Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2998"
@@ -34,12 +34,15 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | klʾ (HALOT 475) | HALOT 475 |  |
 | Akkadian | kalū (HALOT 475); kīlu (killu) (CAD K 359); bīt kīli (CAD K 360); rab bīt kīli (CAD K 361) | HALOT 475; CAD K 359; CAD K 360; CAD K 361 | gloss withheld |
 | Arabic | kalaʾa (HALOT 475) | HALOT 475 |  |
-| Geez | kalʾa (LGz. 281) | LGz. 281 | gloss withheld |
+| Geez | kalʾa (LGz. 281); kalkala (LGz. 283) | LGz. 281; LGz. 283 | gloss withheld |
 | Mandaic Aramaic | kla (LGz. 282) | LGz. 282 | gloss withheld |
-| Tigre | kälʾa (LGz. 282) | LGz. 282 |  |
-| Tigrinya | kälʾe (LGz. 282) | LGz. 282 |  |
+| Tigre | kälʾa (LGz. 282); kälkäla (LGz. 283) | LGz. 282; LGz. 283 | gloss withheld |
+| Tigrinya | kälʾe (LGz. 282); kälkälä (LGz. 283) | LGz. 282; LGz. 283 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic klʾ (Al-Jallad–Jaworska 89) | Al-Jallad–Jaworska 89 | gloss withheld |
 | Amharic | käläkkälä (AED 372 apud SEDonline 2088) | AED 372; SEDonline 2088 | gloss withheld |
+| Canaanite | EG SYLL ka=ru₂=ʾu={t} /\*kalʾu/ (Hoch 328) | Hoch 328 | gloss withheld |
+| Argobba | käläkkäla (LGz. 283) | LGz. 283 | gloss withheld |
+| Gafat | käläkkälä; (tä)klakkälä (LGz. 283) | LGz. 283 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

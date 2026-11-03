@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | rêqu (CAD R 266); rūqiš (CAD R 415) | CAD R 266; CAD R 415; Anderson–Moser 2024 root rḥq | gloss withheld |
-| Aramaic | RḤQ (Aramaic Root Atlas; DNWSI 1072 apud CAL) | Aramaic Root Atlas; DNWSI 1072; CAL; Anderson–Moser 2024 root rḥq | gloss withheld |
+| Aramaic | RḤQ (Aramaic Root Atlas; DNWSI 1072 apud CAL); rḥyq, rḥq (DNWSI 1074) | Aramaic Root Atlas; DNWSI 1072; CAL; DNWSI 1074 | gloss withheld |
 | Geez | rəḥqa 'distant' | Anderson–Moser 2024 root rḥq |  |
 | Hebrew | raḥaq (HALOT 1221; BDB 934) | HALOT 1221; BDB 934; Anderson–Moser 2024 root rḥq | gloss withheld |
 | Punic | rḥq 'far' | Anderson–Moser 2024 root rḥq |  |
 | Ugaritic | rḥq (CUC; DULAT 726) | CUC; DULAT 726 | gloss withheld |
 | Epigraphic South Arabian | Sab rḥq (SD 117; Sabaweb lemma 1717) | SD 117; Sabaweb lemma 1717 | gloss withheld |
-| Mandaic Aramaic | rahiq(a) (Drower/Macuch 419a apud CAL) | Macuch 419a; CAL | gloss withheld |
+| Mandaic Aramaic | rahiq(a) (MD 419) | MD 419 | gloss withheld |
 | Biblical Aramaic | \*rəḥīq (HALOT 1214) | HALOT 1214 |  |
 | Tigre | raḥaqa, rĕḥūq, reḥeq (HALOT 1215, 1221) | HALOT 1215, 1221 |  |
 | Mehri | reḥāq (HALOT 1215) | HALOT 1215 |  |

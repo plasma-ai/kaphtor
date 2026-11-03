@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3084_to_be_frightened_confused
 title: "*bhl: 'to be frightened, confused'"
-desc: "Proto-Semitic *bhl, 'to be frightened, confused': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bhl, 'to be frightened, confused': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3084"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | bhl (HALOT 111 apud SEDonline 1313) | HALOT 111; SEDonline 1313 | gloss withheld |
 | Judaic Aramaic | JPA bhl (DJPA 86 apud SEDonline 1313); JBA bhl (DJBA 189 apud SEDonline 1313) | DJPA 86; SEDonline 1313; DJBA 189 | gloss withheld |
+| Biblical Aramaic | bhl pa., hitpa. (HALOT 111) | HALOT 111 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

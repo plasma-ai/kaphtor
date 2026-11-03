@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | brḥ 1 |  |  |
 | Syrian Aramaic | brḥ 1 |  |  |
 | Punic | brḥ 'depart' | Anderson–Moser 2024 root brḥ |  |
-| Pre-Islamic North Arabian | Safaitic brḥ (Al-Jallad–Jaworska 62) | Al-Jallad–Jaworska 62 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic brḥ (Al-Jallad–Jaworska 62); Dhofari brḥ 2 (Al-Jallad 2026, 30) | Al-Jallad–Jaworska 62; Al-Jallad 2026 30 | gloss withheld |
 | Geez | barrəḥa (LGz. 104) | LGz. 104 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Canaanite | Amarna ṣú-ú-nu \[HJ 954\] | HJ 954 | gloss withheld |
 | Amorite | ṣōnu (George and Krebernik 2022, 152) | George and Krebernik 2022 152 | gloss withheld |
 | Punic | ṣʾn 'sheep' | Anderson–Moser 2024 root ḍʾn |  |
-| Pre-Islamic North Arabian | Safaitic ḍʾn (Al-Jallad–Jaworska 67) | Al-Jallad–Jaworska 67 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḍʾn (Al-Jallad–Jaworska 67); Hismaic ḍʾn (Al-Jallad 2026, 41) | Al-Jallad–Jaworska 67; Al-Jallad 2026 41 | gloss withheld |
 | Eblaitic | za-a-tim /ṣaʾattim/ (gen.), fem. form of the word for, in a-bí-lu za-a-tim /ḥāpir ṣaʾattim/ (= Sum. ki-dàraᵈⁱᵐ gar-gar) (VE 1212; Fronzaroli 1995, 61 n. 75) | VE 1212; Fronzaroli 1995, 61 n. 75 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

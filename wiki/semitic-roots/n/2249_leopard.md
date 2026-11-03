@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2249_leopard
 title: "*namir-: 'leopard'"
-desc: "Proto-Semitic *namir-, 'leopard': reflexes in 16 language(s)."
+desc: "Proto-Semitic *namir-, 'leopard': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2249"
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | näbri \[Bass. 447\] (in \[LGz.\], also nämri). | Bass. 447; LGz. | gloss withheld |
 | Modern Aramaic | NSyr. nimrâ, JNA nümra, Tlk. numra, Ass. nimra, Tur. nimro, namro (SED II 217) | SED II 217 | gloss withheld |
 | Argobba | näbər, näwər (Leslau 1997:214, 215, AAD 242 apud SEDonline 619) | Leslau 1997:214, 215, AAD 242; SEDonline 619 | gloss withheld |
+| Phoenician | nmr (B 361) | B 361 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

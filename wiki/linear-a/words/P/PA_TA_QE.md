@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_TA_QE
 title: "PA-TA-QE"
 desc: "pitqē: a kind of *402 cup. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vessel"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "vessel"]
 kind: "word"
 form: "PA-TA-QE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | a kind of \*402 cup |
 | Root | p-t-q |
 | Proto-Semitic | \*pitḳ- (#3852) |
-| Language layer | NWS |
-| Category | vessel |
+| Language layer | Semitic |
+| Tags | hapax, noun, vessel |
 | Semantic field | vessel |
 
 ### Note
 
-HT 31 vessel inventory, written on the \*402-VS cup logogram, qty 3000—the largest allocation on the tablet. Two competing Semitic etymologies: (1) Astour proposed Akkadian patāqu 'to cast metal,' reading PA-TA-QE as 'metal vessel' (JAOS 87, 1967, 292 n. 13). (2) Stieglitz preferred Aramaic pitqa 'winecup' (Lewy, Chaldäisches Wörterbuch) and Akkadian naptaqu 'smelting-jar' (AHw). Jastrow 1173 gives pitqā as 'tablet, ballot, decree'; the cup is a large goblet named Pithka, 'Decree', in Targ. II Esth. 1:8. Root skeleton p-t-q is an exact match. The -QE ending may correspond to Semitic -ey (archaic Hebrew plural -êy or Ugaritic dual construct -ê), per Stieglitz's morphological analysis of HT 31 case endings. Part of Gordon's HT 31 vessel inventory (§163), confirmed by both Astour and Stieglitz as Semitic.
+HT 31 .6, a vessel inventory: PA-TA-QE written over the \*402-VS cup logogram, 3000, the largest allocation on the tablet; one of Gordon's HT 31 vessels (Gordon 1966 §115). pitqē: Stieglitz compares Aramaic pitqā 'winecup' (Lewy, Chaldäisches Wörterbuch, s.v.) and Akkadian naptaqu 'smelting-jar' (AHw, s.v.), both apud Stieglitz 1971, 111; Jastrow 1173 gives pitqā 'tablet, ballot, decree', and Targ. II Esth. 1:8 names a large goblet Pithka, 'Decree'. Stieglitz sets the ending -e beside the archaic Hebrew plural -ê and the Ugaritic dual construct (Stieglitz 1971, 110). Rival: Akkadian patāqu 'to cast metal', 'metal vessel' (Astour, JAOS 87, 1967, 292 n. 13, apud Stieglitz 1971, 111).
 
 ### Cognates
 
@@ -51,7 +51,7 @@ HT 31 vessel inventory, written on the \*402-VS cup logogram, qty 3000—the lar
 
 ### Source
 
-Astour (JAOS 87, 1967, 292 n. 13); Stieglitz (Kadmos 10, 1971, 111)
+di Mino; Gordon 1966; Stieglitz 1971; Jastrow 1903
 
 ## Attestations
 

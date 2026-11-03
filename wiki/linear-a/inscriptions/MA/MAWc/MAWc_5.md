@@ -53,4 +53,8 @@ Unicode (Linear A block):
 
 [[wiki/linear-a/words/A/A_SA_DA_KA|A-SA-DA-KA]].
 
+## Corpus note
+
+GORILA II 88: a.1–2 A-SA-DA-KẠ with a dotted unit stroke after it; SA drawn damaged. b GRA+E 4 (A581, GRA with the fraction E), two strokes over two; SigLA omits the 4.
+
 <!-- END kaphtor:record -->

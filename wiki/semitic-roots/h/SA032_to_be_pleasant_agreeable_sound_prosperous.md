@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/SA032_to_be_pleasant_agreeable_sound_prosperous
 title: "*hnʾ: 'to be pleasant, agreeable; sound, prosperous'"
-desc: "Epigraphic South Arabian headword *hnʾ, 'to be pleasant, agreeable; sound, prosperous': reflexes in 4 language(s)."
+desc: "Epigraphic South Arabian headword *hnʾ, 'to be pleasant, agreeable; sound, prosperous': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA032"
@@ -33,6 +33,7 @@ updated: 2026-10-26T14:26:59Z
 | Arabic | hanuʾa, haniʾa 'it was pleasant, productive of enjoyment' (Lane 2902) | Lane 2902 |  |
 | Pre-Islamic North Arabian | Safaitic hnʾ; hnʾ (D); hnʾ; hnʾn (Al-Jallad–Jaworska 78) | Al-Jallad–Jaworska 78 | gloss withheld |
 | Syrian Aramaic | hnā 'to be agreeable, pleasant; to profit, benefit' (Payne Smith 104); hanī 'sweet, fragrant, pleasant, agreeable' (Payne Smith 105) | Payne Smith 104; Payne Smith 105 |  |
+| Hebrew | hny nif. (DNWSI 289) | DNWSI 289 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

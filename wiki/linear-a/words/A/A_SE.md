@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/A/A_SE
 title: "A-SE"
-desc: "ʾaššē 'fire offering, burnt offering'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+desc: "ʾāsē: physician, healer. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "loanword", "noun", "personnel", "title"]
 kind: "word"
 form: "A-SE"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.35
-reading: null
+reading: "ʾāsē"
 attestations: ["HT81", "HT93a", "HT132", "ZAZb3"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,28 +31,29 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | ʾaššē 'fire offering, burnt offering' |
-| Root | ʾ-š-š |
-| Proto-Semitic | \*ʾišs- (#812) |
-| Language layer | NWS |
-| Category | ritual |
-| Semantic field | ritual |
+| Reading | ʾāsē |
+| Meaning | physician, healer |
+| Root | ʾ-s-y |
+| Proto-Semitic | \*ʾsy (#4409) |
+| Language layer | Semitic |
+| Tags | loanword, noun, personnel, title |
+| Semantic field | personnel |
 
 ### Note
 
-Proto-NWS \*ʾaššay- with /a/ preserved (Hebrew ʾiššēh shifted /a/&gt;/i/ via Barth's Law). Four attestations across two sites and two registers (HT tablets, ZAZb3 vessel). On HT81, HT93a and HT132 A-SE opens an entry, followed by a divider and a commodity (MI+JA+RU myrrh, I GRA+PA, A319); on HT93a the personal name QA-QA-RU stands before the same grain, so a recipient is the rival there. Commodity co-occurrences match Biblical pattern: grain (HT93a I GRA+PA), aromatics (HT81 MI+JA+RU myrrh), oil contexts (Lev 2:1, Num 28:5). Competing hypothesis: ʾaš "who/which" (Phoenician relative pronoun ʾš), the better phonological fit. See I-SI.
+HT 81 A-SE · MI+JA+RU · ≈⅙, HT 93a A-SE · I GRA+PA 26¾, HT 132 A-SE · A319 5: A-SE opens an entry, then a divider and a commodity; ZA Zb 3, a clay vessel, writes VIN 32 over DI-DI-KA-SE A-SA-MU-NE A-SE. Four attestations at two sites, on tablets and a vessel. ʾāsē 'physician', a culture word from Sum. azu: Akk. asû, Aram. ʔsy(ʔ), Arb. ʔāsin, and the Euphrates name ì-lí-a-si-ia 'my god is my physician' (GlOS 1, 47); Official Aramaic, Nabataean and Palmyrene ʾsy 'physician' (DNWSI 88). Hebrew Asa is read 'physician' by Stamm (HALOT 73). Each entry is an allocation to the physician: myrrh, a drug, on HT 81; grain on HT 93a, as QA-QA-RU receives the same grain; on ZA Zb 3 the title follows Eshmun, the healing god, as A-KO-A-NE follows PI-TE-RI. Rival: ʾaššē 'fire offering', Heb. ʾiššeh (HALOT 93). Weak point: the West Semitic forms are Aramaic and Arabic; the Bronze Age witnesses are names, ì-lí-a-si-ia (GlOS 1, 47) and Asīya (A-SE-JA). See I-SI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | ʾiššeh (אִשֶּׁה) 'offering made by fire', a noun of unity from ʾēš 'fire' (HALOT 92f.) |
-| Ugaritic | ỉšt 'fire', also a DN (GlOS 1, 48) |
-| Eblaite | ᵈIZI = ì-sa-du 'fire'; names ì-sa-ad/du/dum (GlOS 1, 48) |
+| Akkadian | asû 'physician' (GlOS 1, 47) |
+| Aramaic | ʾsy 'physician' (DNWSI 88) |
+| Arabic | ʔāsin 'physician' (GlOS 1, 47) |
 
 ### Source
 
-di Mino; HALOT; GlOS 1
+di Mino; GlOS 1; DNWSI; HALOT
 
 ## Attestations
 
@@ -67,7 +68,27 @@ di Mino; HALOT; GlOS 1
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | ʾaššē | fire offering | CANDIDATE |
-| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | ʾaššē | fire offering, burnt offering | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | ʾāsē | physician (recipient) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb3\|ZAZb3]] | ʾāsē | the Physician (title of Eshmun) | CANDIDATE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 4 in 4 documents |
+| Sites | Haghia Triada, Zakros |
+| Supports | Tablet 3, Clay vessel 1 |
+
+### Note
+
+HT 81, HT 93a, HT 132, ZA Zb 3. See the lexicon entry.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/D/DI_RI_NA|DI-RI-NA]] dīr-īna, [[wiki/linear-a/words/P/PA3_NI_NA|PA₃-NI-NA]] banīna, [[wiki/linear-a/words/R/RI_SU_MA|RI-SU-MA]] rīšum(a).
 
 <!-- END kaphtor:record -->

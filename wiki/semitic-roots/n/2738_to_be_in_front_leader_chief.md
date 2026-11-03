@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2738_to_be_in_front_leader_chief
 title: "*nVgVd-: 'to be in front; leader, chief'"
-desc: "Proto-Semitic *nVgVd-, 'to be in front; leader, chief': reflexes in 3 language(s)."
+desc: "Proto-Semitic *nVgVd-, 'to be in front; leader, chief': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2738"
@@ -29,9 +29,11 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic ngd (Al-Jallad 2026, 101) | Al-Jallad 2026 101 | gloss withheld |
 | Arabic | naǧuda 'to be brave, courageous' (BK 2, 1200) | BK 2, 1200 |  |
 | Hebrew | nāgīd (HALOT 667) | HALOT 667 | gloss withheld |
 | Syrian Aramaic | nāgōdā (HALOT 665) | HALOT 665 |  |
+| Phoenician | ngd (Krahmalkov 325) | Krahmalkov 325 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

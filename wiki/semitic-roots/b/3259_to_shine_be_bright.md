@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3259_to_shine_be_bright
 title: "*brṣ: 'to shine, be bright'"
-desc: "Proto-Semitic *brṣ, 'to shine, be bright': reflexes in 4 language(s)."
+desc: "Proto-Semitic *brṣ, 'to shine, be bright': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3259"
@@ -33,6 +33,7 @@ updated: 2026-10-25T05:11:48Z
 | Arabic | barīṣ- (Lane 188 apud SEDonline 1322); burṣat- (Lane 188 apud SEDonline 1322) | Lane 188; SEDonline 1322 | gloss withheld |
 | Geez | tabāraṣa (CDG 107 apud SEDonline 1322) | CDG 107; SEDonline 1322 | gloss withheld |
 | Gurage | Cha. (a)braṭa, Ezha əmbraṭṭa, Enn. ambraṭā, Muh. ambraṭṭa, Gog. abraṭṭa (EDG 157 apud SEDonline 1322) | EDG 157; SEDonline 1322 | gloss withheld |
+| Tigrinya | bärṣäṣä (LGz. 108) | LGz. 108 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

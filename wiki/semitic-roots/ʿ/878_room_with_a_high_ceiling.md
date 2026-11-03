@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/878_room_with_a_high_ceiling
 title: "*ʕuliy-: 'room with a high ceiling'"
-desc: "Proto-Semitic *ʕuliy-, 'room with a high ceiling': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʕuliy-, 'room with a high ceiling': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "878"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʿellītā (HALOT 832) | HALOT 832 |  |
 | Aramaic | ʿlytʾ (HALOT 832) | HALOT 832 |  |
 | Tigre | ʿalēli (HALOT 832) | HALOT 832 |  |
+| Akkadian | elītu (CAD E 98) | CAD E 98 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -38,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Huffmon APNM 255 reads puls- as 'level' (Heb., Phoen.) or 'view, consider' (Akk.); B 391 glosses pls 'to watch, level'.
+Huffmon APNM 255 reads puls- as 'level' (Heb., Phoen.) or 'view, consider' (Akk.); B 391 glosses pls 'to watch, level'. Krahmalkov 397 reads pls in the Punic names plsḥr, plsmlqrt as 'deliver, save', comparing Ar. fallaṣa.
 
 <!-- END kaphtor:record -->

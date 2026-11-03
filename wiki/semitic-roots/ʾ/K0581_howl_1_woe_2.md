@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0581_howl_1_woe_2
 title: "*ʾVlVy-: 'howl' 1, 'woe!' 2"
-desc: "Proto-Semitic *ʾVlVy-, 'howl' 1, 'woe!' 2: reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʾVlVy-, 'howl' 1, 'woe!' 2: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0581"
@@ -35,6 +35,7 @@ updated: 2026-10-28T02:25:00Z
 | Syrian Aramaic | ʔelā 'to mourn, lament, howl' (Payne Smith 17) | Payne Smith 17 |  |
 | Judaic Aramaic | ʾilyā (HALOT 51) | HALOT 51 | gloss withheld |
 | Geez | ʾalle la-; ʾallelo, ʾalle lottu 2 (LGz. 17) | LGz. 17 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾll 1 (Al-Jallad 2026, 6) | Al-Jallad 2026 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

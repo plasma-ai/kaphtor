@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/292_barrel
 title: "*dann-: 'barrel'"
-desc: "Proto-Semitic *dann-, 'barrel': reflexes in 3 language(s)."
+desc: "Proto-Semitic *dann-, 'barrel': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "292"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | dann- |  |  |
 | Akkadian | dann- |  |  |
 | Syrian Aramaic | dann- |  |  |
+| Ugaritic | dn (DULAT 273) | DULAT 273 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

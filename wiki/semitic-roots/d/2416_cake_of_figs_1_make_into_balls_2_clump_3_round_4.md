@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2416_cake_of_figs_1_make_into_balls_2_clump_3_round_4
 title: "*dVbVl-: 'cake of figs' 1, 'make into balls' 2, 'clump' 3, 'round' 4"
-desc: "Proto-Semitic *dVbVl-, 'cake of figs' 1, 'make into balls' 2, 'clump' 3, 'round' 4: reflexes in 8 language(s)."
+desc: "Proto-Semitic *dVbVl-, 'cake of figs' 1, 'make into balls' 2, 'clump' 3, 'round' 4: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2416"
@@ -38,6 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Harari | dulālu 4 |  |  |
 | Epigraphic South Arabian | Sab dbl (SD 35; Biella 80) (Sabaweb lemma 4007) | SD 35; Biella 80; Sabaweb lemma 4007 | gloss withheld |
 | Syrian Aramaic | dbeltā 'cake of dried figs' (Payne Smith 82) | Payne Smith 82 |  |
+| Geez | dabala; dabl (LGz. 120) | LGz. 120 | gloss withheld |
+| Soqotri | dbl (LGz. 120) | LGz. 120 |  |
+| Tigre | däbbäla (LGz. 120) | LGz. 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

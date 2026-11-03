@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/2680_flax_linen
 title: "*piṯt-: 'flax, linen'"
-desc: "Proto-Semitic *piṯt-, 'flax, linen': reflexes in 3 language(s)."
+desc: "Proto-Semitic *piṯt-, 'flax, linen': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2680"
@@ -32,6 +32,7 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | pištā (HALOT 983); pešet | HALOT 983 | gloss withheld |
 | Phoenician | pšt (T 272) | T 272 | gloss withheld |
 | Ugaritic | pṯt (DULAT 677) | DULAT 677 | gloss withheld |
+| Punic | pšt (Krahmalkov 408) | Krahmalkov 408 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

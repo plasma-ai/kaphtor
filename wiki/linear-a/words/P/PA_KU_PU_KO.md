@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_KU_PU_KO
 title: "PA-KU / PU-KO"
 desc: "pak / pukku: flask, vial (small libation/oil vessel). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vessel"]
+tags: ["linear-a", "word", "tier-2", "noun", "ritual", "vessel"]
 kind: "word"
 form: "PA-KU / PU-KO"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | flask, vial (small libation/oil vessel) |
 | Root | p-k(-k) |
 | Proto-Semitic | \*pak- (#294) |
-| Language layer | NWS |
-| Category | vessel |
+| Language layer | Semitic |
+| Tags | noun, ritual, vessel |
 | Semantic field | vessel |
 
 ### Note
 
-Two spellings of one vessel word; the '/' marks the alternation. PU-KO stands alone on the HT31 vessel inventory directly before \*410-VS, the only vessel on the tablet without a name ligatured to its sign. PA-KU (KNZc6 inked cup, written as one unit after DA-KI-TI) is a segment of continuous writing on a dedicatory object, where an oil-vial word fits (Hebrew pak is the vessel of royal anointing). PU-KO pukku keeps the older vowel that Hebrew pak lost after the labial; -KO writes final /-ku/, as -RO does in KU-RO. Ugaritic bk rb 'a large vessel' (KTU 1.3 I 12) stands in the same passage as krpn, the counterpart of HT31's KA-RO-PA₃. Rival: bk is commonly compared with Greek βῖκος, and Smith & Pitard (2009, 108) call it 'apparently an Indo-European Kulturwort'.
+Two spellings of one vessel word. PU-KO stands alone on the HT 31 vessel inventory directly before \*410-VS, the only vessel on the tablet without a name ligatured to its sign. PA-KU (KN Zc 6, an inked cup, written as one unit after DA-KI-TI) is a segment of continuous writing on a dedicatory object, where an oil-vial word fits: Hebrew pak 'flask' (HALOT 926), the vessel of royal anointing (1 Sam 10:1; 2 Kgs 9:1–3). PU-KO pukku keeps the older vowel that Hebrew pak lost after the labial; -KO writes final -ku, as -RO does in KU-RO. Ugaritic bk rb 'a large vessel' (KTU 1.3 I 12) stands in the same passage as krpn, the counterpart of HT 31's KA-RO-PA₃. Rival: bk is commonly compared with Greek βῖκος, and Smith and Pitard (2009, 108) call it 'apparently an Indo-European Kulturwort'.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Two spellings of one vessel word; the '/' marks the alternation. PU-KO stands al
 
 ### Source
 
-di Mino; Smith & Pitard 2009, 108
+di Mino; HALOT; Smith and Pitard 2009
 
 ## Attestations
 

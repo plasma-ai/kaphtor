@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/1755_hole_aperture
 title: "*ḫVwVy- ~ *ḫawḫ-: 'hole, aperture'"
-desc: "Proto-Semitic *ḫVwVy- ~ *ḫawḫ-, 'hole, aperture': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḫVwVy- ~ *ḫawḫ-, 'hole, aperture': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1755"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ḫoh |  | gloss withheld |
 | Hebrew | ḥăwāḥ-īm pl. (HALOT 296) | HALOT 296 | gloss withheld |
 | Epigraphic South Arabian | Sab ḫwḫ SD 64 | SD 64 | gloss withheld |
+| Emar | ḫu-ḫi-in-nu, ḫu-ḫi-nu /ḫōḫinnu/ (Pentiuc 2001, 72–73) | Pentiuc 2001 72–73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

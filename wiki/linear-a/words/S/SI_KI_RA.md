@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_KI_RA
 title: "SI-KI-RA"
 desc: "Śikira: personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SI-KI-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Hired' (√ś-k-r 'to hire'); rival šēkār 'strong drink' |
 | Root | ś-k-r |
 | Proto-Semitic | \*śVkVr- (#K0481) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

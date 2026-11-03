@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/SA075_BASIN_STORAGE_CISTERN
 title: "*ḳld: 'BASIN, STORAGE CISTERN'"
-desc: "Epigraphic South Arabian headword *ḳld, 'BASIN, STORAGE CISTERN': reflexes in 3 language(s)."
+desc: "Epigraphic South Arabian headword *ḳld, 'BASIN, STORAGE CISTERN': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA075"
@@ -31,7 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab qld (SD 104; Biella 456) | SD 104; Biella 456 | gloss withheld |
 | Arabic | Ar qalada (Biella 456) | Biella 456 | gloss withheld |
-| Geez | maqlad (LGz. 353) | LGz. 353 | gloss withheld |
+| Geez | maqlad (LGz. 353); maqləd, maqlād, məqlād (LGz. 427) | LGz. 353; LGz. 427 | gloss withheld |
+| Modern Arabic | Dhofar mgālid (LGz. 427) | LGz. 427 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

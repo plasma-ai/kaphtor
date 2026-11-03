@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1974_gall_gall_bladder
 title: "*mi/ar(V)r-(at-): 'gall, gall-bladder'"
-desc: "Proto-Semitic *mi/ar(V)r-(at-), 'gall, gall-bladder': reflexes in 16 language(s)."
+desc: "Proto-Semitic *mi/ar(V)r-(at-), 'gall, gall-bladder': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1974"
@@ -46,6 +46,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | mertā 'gall, poison' \[Brock 400\]; mǝrārǝtā 'gall' \[ibid.\] | Brock 400 |  |
 | Aramaic | OFF WARKA mi-ir-ra-ʔ \[HJ 690\]; Dem. mrrh \[HJ 1260\] | HJ 690; HJ 1260 | gloss withheld |
 | Argobba | märara \[LArg. 213\] | LArg. 213 | gloss withheld |
+| Eblaitic | mar-tum (SED II 341) | SED II 341 | gloss withheld |
+| Ugaritic | mrrt (DULAT 570) | DULAT 570 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_TI_TI_KU_NI
 title: "I-TI-TI-KU-NI"
 desc: "(y)ittatkūni: which have been poured out—disbursed (derived-stem header); rival a heading name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "accounting", "administrative", "hapax", "verb"]
 kind: "word"
 form: "I-TI-TI-KU-NI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | which have been poured out—disbursed (derived-stem header); rival a heading name |
 | Root | n-t-k |
 | Proto-Semitic | \*natāk- (#K0210) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | accounting, administrative, hapax, verb |
 | Semantic field | administrative |
 
 ### Note
 
-I- (relative or 3ms yi-) + TI-TI-KU (Nt-stem n-t-k pour out, nun assimilated to geminate /tt/) + -NI (energic nun suffix, Ug. yaqtulan(na)). HT96a context: section header on grain-allocation tablet listing PNs with GRA quantities. Base form TI-TI-KU independently attested (HT35). Amarna -ni on verbs is the 1cs object or dative suffix, often through the ventive -anni (Rainey 1996, I:72–74, II:264). The 'pour out' sense suits the liquids of HT35 better than the grain and figs of HT96a. One witness.
+HT 96a: I-TI-TI-KU-NI · A-PA-RA-NE · A-\*123-TE ·, the heading of a grain list (SI-MI-TA GRA 5, RU-SA 4, PI-TA-RA 1). (y)ittatkūni 'which have been poured out', disbursed: I- the relative or the 3ms yi-, TI-TI-KU the Nt stem of √n-t-k 'pour out', the n assimilated in the geminate tt, and -NI the energic -n(n), as Ugaritic yqtln /yaqtulan(na)/ (Huehnergard 2012, 57). The base TI-TI-KU heads HT 35. Rivals: -NI the 1cs object or dative suffix, as Amarna -ni on verbs, often through the ventive -anni (Rainey 1996, I:72–74, II:264); a heading name. Hebrew uses the Hiphil of silver, 'to melt down, or to throw away (money)' (2 Kgs 22:9; HALOT 733). Weak point: no text uses n-t-k of grain or figs, which HT 96a issues. One attestation.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ I- (relative or 3ms yi-) + TI-TI-KU (Nt-stem n-t-k pour out, nun assimilated to 
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2012; Rainey 1996
 
 ## Attestations
 

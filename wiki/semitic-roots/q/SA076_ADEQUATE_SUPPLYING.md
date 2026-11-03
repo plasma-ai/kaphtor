@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/SA076_ADEQUATE_SUPPLYING
 title: "*ḳnʕ: 'ADEQUATE SUPPLYING'"
-desc: "Epigraphic South Arabian headword *ḳnʕ, 'ADEQUATE SUPPLYING': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *ḳnʕ, 'ADEQUATE SUPPLYING': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA076"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab qnʿ (Biella 461) | Biella 461 | gloss withheld |
 | Arabic | Ar qnʿ D and h; Dat qanaʿa (Biella 461) | Biella 461 | gloss withheld |
+| Eblaitic | ḳanaʿ: name ga-na-um (Sanmartín GlOS 1, 347) | Sanmartín GlOS 1, 347 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

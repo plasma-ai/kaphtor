@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_NE_KU_TI
 title: "DA-NE-KU-TI"
 desc: "Ḏā-naquddi: He of the speckled (flock) (personal name); rival 'He of the head shepherd'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DA-NE-KU-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | He of the speckled (flock) (personal name); rival 'He of the head shepherd' |
 | Root | ḏ + n-q-d |
 | Proto-Semitic | \*naḳid-, \*naḳad- (#2577) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a .8–9 DA-NE-KU-TI 1, after DA-MI-NU 1 and before KI-DA-RO 1, in the second list headed SA-TA (GORILA I 197). ḏā 'the one of', as in DA-MI-NU, + naquddi, genitive of naqudd- 'speckled', Jacob's flock (Gen 30:32), TI writing di: 'He of the speckled (flock)'. KU-TI answers to -qudd-, as Hebrew nəquddîm (Gen 30:39). Ugaritic joins the same d to nqdm in ksp d nqdm (KTU 4.369:8); Safaitic has the name Nqd (Harding 1971, 597). DA-MI-NU beside it answers to LB da-mi-ni-jo, a shepherd at Knossos. Rivals: nāqidi 'head shepherd' (Ebla na-gi-du-um), whose a-i vowels miss NE-KU; DA-NE + KU-TI, neither part attested alone.
+HT 117a .8–9 DA-NE-KU-TI 1, after DA-MI-NU 1 and before KI-DA-RO 1, in the second list headed SA-TA (GORILA I 197). ḏā 'the one of', as in DA-MI-NU, + naquddi, genitive of naqudd- 'speckled', Jacob's flock (Gen 30:32), TI writing di: 'He of the speckled (flock)'. KU-TI answers to -qudd-, as Hebrew nəquddîm (Gen 30:39; HALOT 719); Safaitic has the name Nqd (Harding 1971, 597). DA-MI-NU beside it answers to LB da-mi-ni-jo, a shepherd at Knossos. Rivals: nāqidi 'herdsman' (Ebla na-gi-du-um, GlOS 2, 92), as Ugaritic nqdm 'chief shepherds' with the same d in ksp d … nqdm (KTU 4.369:2–8; DULAT 253), whose a-i vowels miss NE-KU; DA-NE + KU-TI, neither part attested alone.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 117a .8–9 DA-NE-KU-TI 1, after DA-MI-NU 1 and before KI-DA-RO 1, in the sec
 
 ### Source
 
-di Mino; DULAT
+di Mino; HALOT; Harding 1971; GlOS 2; DULAT
 
 ## Attestations
 
@@ -73,7 +73,7 @@ di Mino; DULAT
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |

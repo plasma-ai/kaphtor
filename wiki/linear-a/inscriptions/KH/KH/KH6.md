@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/KH/KH/KH6
 title: "KH6"
-desc: "Tablet, Khania, LMIB. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "tablet"]
+desc: "Tablet, Khania, LMIB. Translation: incomplete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-incomplete", "tablet"]
 kind: "inscription"
 id: "KH6"
 site: "Khania"
 support: "Tablet"
 period: "LMIB"
-translation: "none"
-words: ["AU-RE-TE", "CYP", "KI-SA-NE", "PI-SA", "RE"]
+translation: "incomplete"
+words: ["AU-RE-TE", "CYP", "PI-SA", "RE", "RI-TA-JE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -43,7 +43,7 @@ Transliteration, line by line:
 1. CYP+D ¹⁄₂
 2. DI-SI-\[
 3. \]-TE-NU-RE\[
-4. KI-SA-NE CYP+D ¹⁄₂
+4. \]-KI-SA-NE CYP+D ¹⁄₂
 5. \*347
 6. CYP ¹⁄₂
 7. RI-TA-JE CYP+D
@@ -82,8 +82,33 @@ Unicode (Linear A block):
 𐙗𐄈𐝆𐝁
 ```
 
+## Translation
+
+**SPECULATIVE**, incomplete (status: incomplete).
+
+> \[…\] cyperus ½; DI-SI-\[…\] — \[…\]-TE-NU-RE\[…\] — \[…\]-KI-SA-NE: cyperus ½; \*347\[…\] — \[…\] cyperus \[…\] ½; Lītāy: cyperus ½\[…\] — \[…\] \*21M 1; cyperus ½; MU 1; PA\[…\] — \[…\]-RE · \*334 1; cyperus ½; Pīsa\[…\] — \[…\] cyperus ½; ʾAwrēt · \*306 1 — \[…\] 8; cyperus 2 J+\[…\].
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
+| [[wiki/linear-a/words/D/DI_SI\|DI-SI]] |  | broken word, DI-SI-\[ |  | unread |
+| [[wiki/linear-a/words/T/TE_NU_RE\|TE-NU-RE]] |  | broken word, \]-TE-NU-RE\[ |  | unread |
+| KI-SA-NE |  | broken word, \]KI-SA-NE; cyperus ½ |  |  |
+| [[wiki/linear-a/words/R/RI_TA_JE\|RI-TA-JE]] | Lītāy | (My) Might (personal name); cyperus ½\[; rival Rašiyya | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | recipient name, before the break | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | luminous one (f.); \*306 1 | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/C/CYP\|CYP]] |  | cyperus, 2 with a fraction | PROBABLE | PROBABLE (lexicon) |
+
+### Notes
+
+GORILA III 26–27 (KH Scribe 2): cyperus allotments of ½ (CYP+D J) to recipients, broken at the left and cut below. DI-SI, TE-NU-RE and KI-SA-NE are broken.
+
+### Source
+
+- di Mino: RI-TA-JE
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/K/KI_SA_NE|KI-SA-NE]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RE|RE]].
+[[wiki/linear-a/words/A/AU_RE_TE|AU-RE-TE]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/R/RE|RE]], [[wiki/linear-a/words/R/RI_TA_JE|RI-TA-JE]].
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3463_king_prince_official
 title: "*ŝarr-: 'king, prince, official'"
-desc: "Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ŝarr-, 'king, prince, official': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3463"
@@ -29,12 +29,13 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šarru (CAD Š₁ 76, AHw. 1118 apud SEDonline 2076) | CAD Š₁ 76, AHw. 1118; SEDonline 2076 | gloss withheld |
-| Ugaritic | šr (DUL 842 apud SEDonline 2076) | DUL 842; SEDonline 2076 | gloss withheld |
+| Akkadian | šarru (CAD Š/2 76; AHw 1188) | CAD Š/2 76; AHw 1188 | gloss withheld |
+| Ugaritic | šr (DULAT 829; SEDonline 2076) | DULAT 829; SEDonline 2076 | gloss withheld |
 | Hebrew | ŝar (HALOT 1351 apud SEDonline 2076) | HALOT 1351; SEDonline 2076 | gloss withheld |
 | Amorite | śarru, śartu (Buck 2019, 332) | Buck 2019, 332 | gloss withheld |
 | Emar | šar-ru, šàr-ru /śarrū/ (Pentiuc 2001, 171) | Pentiuc 2001 171 | gloss withheld |
 | Eblaitic | cf. sa-la-lum, sa-ra-ru₁₂-um /Sarr, s₁arr/ (Sanmartín GlOS 2, 278) | Sanmartín GlOS 2, 278 | gloss withheld |
+| Phoenician | šr (DNWSI 1190) | DNWSI 1190 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

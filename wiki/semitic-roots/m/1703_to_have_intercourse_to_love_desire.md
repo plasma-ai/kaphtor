@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1703_to_have_intercourse_to_love_desire
 title: "*mny: 'to have intercourse; to love, desire'"
-desc: "Proto-Semitic *mny, 'to have intercourse; to love, desire': reflexes in 16 language(s)."
+desc: "Proto-Semitic *mny, 'to have intercourse; to love, desire': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1703"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic tmny (Al-Jallad 2026, 93) | Al-Jallad 2026 93 | gloss withheld |
 | Amharic | tämäññä |  |  |
 | Akkadian | menû (manû) \[CAD m₂ 19\] | CAD m₂ 19 |  |
 | Arabic | mny; minä, minaⁿ; maniyy- \[BK 2 1159\] | BK 2 1159 |  |

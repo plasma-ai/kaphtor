@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Z/ZU
 title: "ZU"
 desc: "ṯūm: garlic (logographic abbreviation). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "hapax", "logogram"]
 kind: "word"
 form: "ZU"
 datasets: ["lexicon"]
@@ -36,25 +36,25 @@ updated: 2026-10-24T16:17:50Z
 | Root | ṯ-w-m |
 | Proto-Semitic | \*ṯūm- (#S34) |
 | Language layer | Semitic |
-| Category | vocabulary |
+| Tags | abbreviation, commodity, foodstuff, hapax, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-ZU carries /ṯu/ under the sibilant mergers, abbreviating ṯūm as NI abbreviates nūb(at). Context: KH91 mixed ration list — grain, wine, beans, ZU ≈⅙, cattle, honey, aromatics. Garlic between beans and beef in a ration list.
+KH 91, a ration list: GRA 1, VIN\[, \*316 1 13/20, ZU\[ \]≈ ⅙, TU ¹⁄₁₆, NI\[, \*401+RU ¹⁄₁₆, \*401+RA\[. ZU writes ṯu and abbreviates ṯūm 'garlic': Arab. ṯūm, Heb. šûmîm 'garlic' (Num 11:5; HALOT 1443), Akk. šumû (CAD Š/3 298). In the personnel lists HT 63, HT 66 and HT 97a ZU is a single-sign abbreviation beside DI, JU and KI (Montecchi 2008, 318). Weak point: GORILA marks a break after ZU on KH 91, where SigLA sets the fraction straight after it.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | šūmū 'garlic' (CAD Š/3 298) |
-| Hebrew | šûmîm 'garlic', among the foods of Egypt, Num 11:5 (HALOT 1442) |
+| Hebrew | šûmîm 'garlic', among the foods of Egypt, Num 11:5 (HALOT 1443) |
 | Arabic | ṯūm 'garlic, Allium sativum' (Lane 365) |
-| Aramaic | tūmā 'garlic' (HALOT 1442) |
+| Aramaic | tūmā 'garlic' (HALOT 1443) |
 
 ### Source
 
-di Mino
+di Mino; HALOT; CAD Š/3; Lane
 
 ## Attestations
 

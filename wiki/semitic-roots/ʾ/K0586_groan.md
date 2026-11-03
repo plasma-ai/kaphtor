@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0586_groan
 title: "*ʾVnVq-: 'groan'"
-desc: "Proto-Semitic *ʾVnVq-, 'groan': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ʾVnVq-, 'groan': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0586"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | ʾanaq 'cry' | Anderson–Moser 2024 root ʾnq |  |
 | Syrian Aramaic | ʔetaneq 'groan, sigh' (Payne Smith 21) | Payne Smith 21 |  |
+| Geez | ʔanaqa (LGz. 30) | LGz. 30 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

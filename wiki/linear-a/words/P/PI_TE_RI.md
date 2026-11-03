@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/P/PI_TE_RI
 title: "PI-TE-RI"
-desc: "piṭrī: Pitrī/Puṭrī (personal name; perhaps 'my release'). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+desc: "piṭrī: Piṭrī, personal name, 'my release'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "personal_name", "ritual"]
 kind: "word"
 form: "PI-TE-RI"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | piṭrī |
-| Meaning | Pitrī/Puṭrī (personal name; perhaps 'my release') |
+| Meaning | Piṭrī, personal name, 'my release' |
 | Root | p-ṭ-r |
 | Proto-Semitic | \*paṭār- (#K0289) |
-| Language layer | NWS |
-| Category | personal_name |
-| Semantic field | ritual |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, personal_name, ritual |
+| Semantic field | personal_name |
 
 ### Note
 
-Hapax on PK Za 11. Davis (2013, 42–43) and Thomas (2020, 8–10) place PI-TE-RI A-KO-A-NE in the subject/dedicant slot but infer two names without identifying either. DULAT 677 lists Ugaritic pṭry as a Semitic personal name; syllabic Ugaritic /piṭru/ 'loosening, release' supplies the qitl base, and Amorite has PTR 'solve, redeem' plus -puṭri in Annu-puṭri and Ištar-puṭri (Gelb 1980, 339; Nakata 1995, 244). Rival: Gordon (1966, §124) reads . pi-te za . 'this engraved monument', the table naming itself, after Phoenician ptḥ 'inscription, engraving' with z 'this' following, as in pthy z 'this inscription of mine' (KAI 10.3–5, 14; Krahmalkov s.v. PTḤ III); the third sign is a loop on a long stroke, between RI and ZA (GORILA dots RI), but no divider stands between TE and it, and Ugaritic ptḥ means only 'open' and 'door'. Preferred as a personal name in apposition to A-KO-A-NE 'the priest.' Common-noun /piṭrī/ 'my release/opening' and a 2fs imperative 'release!' remain morphological alternatives. Pidray (pdry; syllabic pi-id-ra-yu) is cultically attractive but requires unproved TE = /d/.
+PK Za 11, once: PI-TE-RI A-KO-A-NE, in the subject or dedicant slot (Davis 2013, 42–43; Thomas 2020, 8–10). Piṭrī 'my release', a personal name in apposition to A-KO-A-NE 'the priest', on the qitl base of Ugaritic /piṭru/ 'loosening, release' (GlOS 2, 142): Ugaritic PN pṭry (DULAT 677), Amorite PTR 'solve, redeem' in Annu-puṭri and Ištar-puṭri (Gelb 1980, 339; Nakata 1995, 244). Rivals: the common noun piṭrī 'my release'; a 2fs imperative 'release!'; the goddess Pidray (pdry, syllabic pi-id-ra-yu), with TE writing d; Gordon's pi-te za 'this engraved monument' (1966, §124), Phoenician ptḥ 'inscription' with z 'this' after it, as pthy z (KAI 10.3–5, 14), which reads the third sign, a loop on a long stroke, as ZA where GORILA dots RI, with no divider before it.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Hapax on PK Za 11. Davis (2013, 42–43) and Thomas (2020, 8–10) place PI-TE-R
 
 ### Source
 
-di Mino
+di Mino; Davis 2013; Thomas 2020; GlOS 2; DULAT; Gelb 1980; Nakata 1995; Gordon 1966
 
 ## Attestations
 
@@ -72,8 +72,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

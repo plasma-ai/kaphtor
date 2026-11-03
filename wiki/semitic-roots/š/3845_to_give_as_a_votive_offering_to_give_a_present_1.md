@@ -29,7 +29,7 @@ updated: 2026-10-31T13:28:57Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šarāku A 1 (CAD Š/2 40); širku B 2 (CAD Š/3 111) | CAD Š/2 40; CAD Š/3 111 | gloss withheld |
+| Akkadian | šarāku A 1 (CAD Š/2 40; AHw 1183); širku B 2 (CAD Š/3 111) | CAD Š/2 40; AHw 1183; CAD Š/3 111 | gloss withheld |
 | Amorite | ŠRK, B jašruk 1; šarikum (Gelb AS 21, 33) | Gelb AS 21 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

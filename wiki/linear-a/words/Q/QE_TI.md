@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE_TI
 title: "QE-TI"
 desc: "qāti: in the charge of (list heading); Akk. qātu 'hand; charge'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "unknown"]
+tags: ["linear-a", "word", "tier-1", "accounting", "administrative", "hapax", "preposition"]
 kind: "word"
 form: "QE-TI"
 datasets: ["lexicon"]
@@ -34,8 +34,8 @@ updated: 2026-10-24T16:17:50Z
 | Reading | qāti |
 | Meaning | in the charge of (list heading); Akk. qātu 'hand; charge' |
 | Proto-Semitic | \*qāt- (#S87) |
-| Language layer | Akkadian comparison |
-| Category | unknown |
+| Language layer | Semitic |
+| Tags | accounting, administrative, hapax, preposition |
 | Semantic field | unknown |
 
 ### Note

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3285_your_you_pronominal_suffix_2_pl
 title: "*-kVmV/*-kVnV: 'your; you (pronominal suffix, 2 pl.)'"
-desc: "Proto-Semitic *-kVmV/*-kVnV, 'your; you (pronominal suffix, 2 pl.)': reflexes in 6 language(s)."
+desc: "Proto-Semitic *-kVmV/*-kVnV, 'your; you (pronominal suffix, 2 pl.)': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3285"
@@ -35,6 +35,9 @@ updated: 2026-10-25T05:11:48Z
 | Geez | -kəmu (CDG 285 apud SEDonline 1569); -kən (CDG 286 apud SEDonline 1569) | CDG 285; SEDonline 1569; CDG 286 | gloss withheld |
 | Tigre | -kum (WTS 389 apud SEDonline 1569); -kən (WTS 389 apud SEDonline 1569) | WTS 389; SEDonline 1569 | gloss withheld |
 | Tigrinya | -kum (Bulakh–Kogan 2013b:101 apud SEDonline 1569); -kən (Bulakh–Kogan 2013b:101 apud SEDonline 1569) | SEDonline 1569 | gloss withheld |
+| Ugaritic | -km (DULAT 438); -kn (DULAT 442) | DULAT 438; DULAT 442 | gloss withheld |
+| Eblaitic | -gú-nu /=kunu/ (Sanmartín GlOS 1, 292) | Sanmartín GlOS 1, 292 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic km (Al-Jallad–Jaworska 146) | Al-Jallad–Jaworska 146 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

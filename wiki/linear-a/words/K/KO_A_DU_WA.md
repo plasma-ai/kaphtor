@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-TY 3a .6 KO-A-DU-WA \[OLE\] 7 and a fraction, the four signs whole and undotted at the head of the line, OLE restored. .5 breaks off after its numeral, and GORILA's tabular copy sets \] before the word (GORILA I 327). Sole attestation. No reading.
+TY 3a .6 KO-A-DU-WA \[OLE\] 7 and a fraction, the four signs whole and undotted at the head of the line, OLE restored. .5 breaks off after its numeral, and GORILA's tabular copy sets \] before the word (GORILA I 327). The copie normalisée starts .6 at the left edge. It is the second entry of the section headed A-DA OLE+U 21; A-DU-\[··\] OLE+KI 51 heads the section above. Sole attestation. No reading.
 
 <!-- END kaphtor:record -->

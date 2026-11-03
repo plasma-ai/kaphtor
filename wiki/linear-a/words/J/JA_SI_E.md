@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_SI_E
 title: "JA-SI-E"
 desc: "yašīʿ-ē: O Salvation—vocative/petitionary extension of yašīʿ. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "ritual", "votive"]
 kind: "word"
 form: "JA-SI-E"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | O Salvation—vocative/petitionary extension of yašīʿ |
 | Root | y-š-ʿ |
 | Proto-Semitic | \*yṯʿ (#3332) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual, votive |
 | Semantic field | ritual |
 
 ### Note
 
-KEZb4 (Kea lamp): single-word lamp dedication. Completes the three-member mini-paradigm with JA-SI (KNZb4 'Salvation' dedication term, PEZc4 'he saves')—same √y-š-ʿ across three sites, Rendsburg paradigm criterion. JA- vocative frame established (JA-DI-KI-TU 'O Diktu!' PROBABLE, IOZa2). Phonology rule-standard: š→S-class, final ʿ dropped. Open morphological question: the -E extension (vocative/petitionary?) vs bare JA-SI—recorded, not resolved. Amorite ia-še-ia (GlOS 2, 379) has the hypocoristic -iya on the same stem.
+KE Zb 4, a lamp from Kea: a one-word dedication. √y-š-ʿ 'save', as in JA-SI ('Salvation', KN Zb 4) and PE Zc 4 ('he saves'): one root at three sites. Š is written S and the final ʿ is unwritten. The vocative JA- is JA-DI-KI-TU's (IO Za 2). Amorite ia-še-ia carries the hypocoristic -iya on the same stem (GlOS 2, 379). Weak point: the -E extension, vocative or petitionary, against bare JA-SI. One attestation.
 
 ### Cognates
 

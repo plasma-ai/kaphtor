@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3534_lime_plaster
 title: "*ŝyd: 'lime, plaster'"
-desc: "Proto-Semitic *ŝyd, 'lime, plaster': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ŝyd, 'lime, plaster': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3534"
@@ -33,6 +33,7 @@ updated: 2026-10-25T06:28:07Z
 | Judaic Aramaic | sîdāʾ (HALOT 1319) | HALOT 1319 | gloss withheld |
 | Syrian Aramaic | saydā 'lime, plaster' (Payne Smith 374) | Payne Smith 374 |  |
 | Arabic | šīd 'anything with which a wall is plastered, gypsum and the like' (Lane 1630) | Lane 1630 |  |
+| Aramaic | šyd (DNWSI 1126) | DNWSI 1126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

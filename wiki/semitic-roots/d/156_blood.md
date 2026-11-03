@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/156_blood
 title: "*dam-, *ʾa-dam-: 'blood'"
-desc: "Proto-Semitic *dam-, *ʾa-dam-, 'blood': reflexes in 24 language(s)."
+desc: "Proto-Semitic *dam-, *ʾa-dam-, 'blood': reflexes in 26 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "156"
@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | dam- \[BK 1 736\] | BK 1 736 |  |
 | Mehri | dǝm \[JM 71\] | JM 71 | gloss withheld |
-| Soqotri | dīm \[SSL 3 94\]; also dem \[SSL LS 1454\] | SSL 3 94; SSL LS 1454 |  |
+| Soqotri | dīm \[SSL 4 94\]; also dem \[SSL LS 1454\] | SSL 4 94; SSL LS 1454 |  |
 | Akkadian | damu OA-OB on \[CAD d 75\], dāmu \[AHw 158\]; also adamatu SB \[CAD a1 94\], \[AHw 10\] | CAD d 75; AHw 158; CAD a1 94; AHw 10 | gloss withheld |
 | Tigre | däm, dämät \[LH 514\] | LH 514 | gloss withheld |
 | Mandaic Aramaic |  | DM 111; DM 168; DM 8, 111 | source's text withheld |
@@ -54,6 +54,8 @@ updated: 2026-10-22T17:38:31Z
 | Punic | dume (sg. with 1 sg. suff.) \[HJ 251\]; ʔdmy \[Fuentes 60\]; edom (Augustine apud HALOT 15) | HJ 251; Fuentes 60; HALOT 15 | gloss withheld |
 | Eblaitic | da-mu /damu(m)/ (VE 970; Krebernik 1983, 35; Civil 2017, 128; Fronzaroli 1995, 58; Bonechi 2008, 2, 7); da-mu-da-mu, da-mu-II, da-mu /dam/ (Sanmartín GlOS 1, 147) | VE 970; Krebernik 1983, 35; Civil 2017, 128; Fronzaroli 1995, 58; Bonechi 2008, 2, 7; Sanmartín GlOS 1, 147 | gloss withheld |
 | Amorite | dam (Sanmartín GlOS 1, 147) | Sanmartín GlOS 1, 147 | gloss withheld |
+| Argobba | däm (SED I 48) | SED I 48 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic dm (Al-Jallad 2026, 34) | Al-Jallad 2026 34 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

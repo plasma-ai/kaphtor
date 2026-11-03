@@ -1,0 +1,63 @@
+---
+name: wiki/semitic-roots/q/1959_horn_1_to_fight_oppose_2_to_guard_3
+title: "*ḳarn-: 'horn' 1, 'to fight, oppose' 2, 'to guard' 3"
+desc: "Proto-Semitic *ḳarn-, 'horn' 1, 'to fight, oppose' 2, 'to guard' 3: reflexes in 27 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "1959"
+created: 2026-11-03T03:29:48Z
+updated: 2026-11-03T03:29:48Z
+---
+
+# *ḳarn-: 'horn' 1, 'to fight, oppose' 2, 'to guard' 3
+
+[[wiki/semitic-roots/q/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*ḳarn- |
+| Meaning | 'horn' 1, 'to fight, oppose' 2, 'to guard' 3 |
+| Basis | reconstruction SED; meaning SED, corrected |
+| SED | SEDonline semet 2136 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Epigraphic South Arabian | Sab qrn, qrnw 2; qrn, qrnm 3 (Biella 467) | Biella 467 | gloss withheld |
+| Arabic | ḳarn- \[BK 2 727\]; qarana 3 (Biella 467) | BK 2 727; Biella 467 | gloss withheld |
+| Mehri | ḳōn (pl. ḳǝrūn) \[JM 236\] | JM 236 |  |
+| Soqotri | ḳan (pl. ḳírihon) \[LS 377\] | LS 377 |  |
+| Akkadian | ḳarnu OA, OB on \[CAD ḳ 134\], \[AHw 904\] | CAD ḳ 134; AHw 904 |  |
+| Harsusi | ḳōn (pl. ḳerōn) \[JH 77\] | JH 77 |  |
+| Tigre | ḳär, ḳärn \[LH 242\] | LH 242 |  |
+| Mandaic Aramaic | ḳarna \[DM 403\] | DM 403 |  |
+| Ugaritic | ḳrn \[Aist 283\] | Aist 283 |  |
+| East Ethiopic | SEL WOL ZWY ḳär \[LGur 494\] | LGur 494 |  |
+| Geez | ḳarn \[LGz 442\] | LGz 442 |  |
+| Gurage | MUH GOG ḳär, CHA ENN END GYE ḳän, EZ̆A MSQ ḳänn \[LGur 494\] | LGur 494 |  |
+| Biblical Aramaic | ḳärän (ḳarnā) (BDB 1111) | BDB 1111 |  |
+| Phoenician | PHO ḳrn \[T 294\] | T 294 |  |
+| Modern Aramaic | NSYR ḳāna \[MP 122\] MMND ḳarna \[M MND 506\] IRAN \*ḳānā (is written ḳrnʔ) c. suff. ḳânu | MP 122; M MND 506 | gloss withheld |
+| Jibbali | ḳun (pl. ḳérún) \[JJ 150\]. | JJ 150 |  |
+| Hebrew | ḳärän (HALOT 1144) | HALOT 1144 |  |
+| Amharic | ḳänd \[K 791\] | K 791 |  |
+| Judaic Aramaic | ḳǝran, ḳärän (ḳarnā) \[Ja 1422\]; ḳrn \[DJPA 506b apud CAL\] | Ja 1422; DJPA 506b; CAL |  |
+| Harari | ḳār \[LHar 128\] | LHar 128 | gloss withheld |
+| Syrian Aramaic | ḳarnā \[Brock 697\] | Brock 697 |  |
+| Gafat | ḳänd \[LGaf 224\] | LGaf 224 |  |
+| Aramaic | PLM ḳrnʔ \[HJ 1034\] | HJ 1034 |  |
+| Tigrinya | ḳärni \[Bass 255\] | Bass 255 |  |
+| Argobba | qand(a) (OLA80 §17.7) | OLA80 §17.7 | gloss withheld |
+| Punic | qrn 'horn' | Anderson–Moser 2024 root qrn |  |
+| Amorite | \*qarn (HALOT 1144); qarn: qar-na-na, qar-na-na-an, qar-na-nu-um; qarniy: qa-ar-ni-yu-um; maqrin: ma-aq-ri-in (Sanmartín GlOS 1, 351–352) | HALOT 1144; Sanmartín GlOS 1, 351–352 | gloss withheld |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

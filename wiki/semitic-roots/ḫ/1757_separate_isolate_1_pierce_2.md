@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/1757_separate_isolate_1_pierce_2
 title: "*ḫVrim-: 'separate, isolate' 1, 'pierce' 2"
-desc: "Proto-Semitic *ḫVrim-, 'separate, isolate' 1, 'pierce' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḫVrim-, 'separate, isolate' 1, 'pierce' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1757"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫarāmu 1 (CAD Ḫ, 89) | CAD Ḫ, 89 | gloss withheld |
 | Hebrew | ḥrm (HALOT 354) | HALOT 354 | gloss withheld |
 | Ugaritic | ḫrm 2 (DULAT 400) | DULAT 400 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫrm 2; ḫrm 2 (Al-Jallad 2026, 67) | Al-Jallad 2026 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

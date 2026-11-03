@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TAMIR
 title: "TAMIR"
 desc: "tamir: proposed Semitic lexical name of the PALM/TREE sign. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "logogram"]
+tags: ["linear-a", "word", "tier-2", "commodity", "logogram"]
 kind: "word"
 form: "TAMIR"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | proposed Semitic lexical name of the PALM/TREE sign |
 | Root | t-m-r |
 | Proto-Semitic | \*tam(V)r- (#737) |
-| Language layer | NWS |
-| Category | logogram |
+| Language layer | Semitic |
+| Tags | commodity, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Official semantic reading of \*49 (AB049): PALM/TREE, based on its pictorial form and counted administrative contexts. TAMIR is the retained Semitic lexical identification: Proto-Semitic \*tam(V)r- 'date palm,' Hebrew tāmār, Ugaritic tmr and Arabic tamr. The associated syllabic value /mi/ remains CANDIDATE, not established: TO-\*49-RE yields the attractive skeleton t-m-r only if /mi/ is first assumed, while Linear B writes \*49 beside ordinary MI in tu-\*49-mi. ZA10b preserves complete U-\*49; HT126a has \]U-\*49 after a left break and cannot establish the compound or an initial conjunction. DA-U-\*49 remains the candidate name Dawmi. Four \*49 occurrences survive across three sites. See TO-MI-RE.
+\*49 (AB049), PALM/TREE by its pictorial form, four tokens at three sites: TO-\*49-RE (PE 2), DA-U-\*49 (HT 120), U-\*49 whole (ZA 10b) and \]U-\*49 after a left break (HT 126a). tamir, PS \*tamr- 'date palm': Heb. tāmār (HALOT 1756), with Ug. syllabic \[ta\]-ma-ru (HALOT 1756), Arb. tamr 'dates, the fruit of the palm-tree' (Lane 317). TO-\*49-RE gives t-m-r with \*49 in its proposed value mi, and DA-U-\*49 reads Dawmi. Weak point: \*49 = mi is a proposed value; Linear B writes \*49 beside ordinary MI in tu-\*49-mi. See TO-MI-RE.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Official semantic reading of \*49 (AB049): PALM/TREE, based on its pictorial for
 
 ### Source
 
-di Mino
+di Mino; HALOT; Lane
 
 ## Attestations
 

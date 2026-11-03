@@ -44,7 +44,7 @@ updated: 2026-10-26T14:26:59Z
 | Pre-Islamic North Arabian | Safaitic ymnt 2 (Al-Jallad–Jaworska 142); ʾymn 2 (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 142; Al-Jallad–Jaworska 50 | gloss withheld |
 | Judaic Aramaic | yammīnā, yǝmīnā \[Ja 580\]; yammīn \[DJPA 242a apud CAL\] | Ja 580; DJPA 242a; CAL | gloss withheld |
 | Syrian Aramaic | yammīnā adj. 'right', n. 'right hand' \[Brock 303\] | Brock 303 |  |
-| Aramaic | OFF ymn PLM NBT ymyn \[HJ 461\] | HJ 461 | gloss withheld |
+| Aramaic | OFF ymn PLM NBT ymyn \[HJ 461\]; tymn (DNWSI 1212); tymny (DNWSI 1212) | HJ 461; DNWSI 1212 | gloss withheld |
 | Eblaitic | a-me-núm /yaminum/, a-me-tum /yamittum/, i-me-tum /yimittum/ (SED I 263; VE 534; Krebernik 1983, 20); a-me-núm, a-me-tum, i-me-tum /yamin, ya/imitt/ (Sanmartín GlOS 2, 373) | SED I 263; VE 534; Krebernik 1983, 20; Sanmartín GlOS 2, 373 | gloss withheld |
 | Amorite | jaminum (Gelb AS 21, 21); yamin, ya/imitt: ia-mi-na (Sanmartín GlOS 2, 373) | Gelb AS 21 21; Sanmartín GlOS 2, 373 | gloss withheld |
 | Mehri | ḥáyməl (Kogan 2011, 197) | Kogan 2011 197 | gloss withheld |

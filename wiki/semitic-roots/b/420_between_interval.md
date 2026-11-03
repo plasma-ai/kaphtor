@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/420_between_interval
 title: "*bayn-: 'between, interval'"
-desc: "Proto-Semitic *bayn-, 'between, interval': reflexes in 19 language(s)."
+desc: "Proto-Semitic *bayn-, 'between, interval': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "420"
@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | bīru, birītu, birtu; (ina) bīri / birīt / birti (HALOT 123) | HALOT 123 | gloss withheld |
 | Geez | bayna (LGz. 116) | LGz. 116 | gloss withheld |
 | Hebrew | ben (LGz. 116) | LGz. 116 | gloss withheld |
-| Aramaic | ben, be (LGz. 116) | LGz. 116 | gloss withheld |
+| Aramaic | ben, be (LGz. 116) (Palm) bynwt (DNWSI 154) | LGz. 116; DNWSI 154 | gloss withheld |
 | Syrian Aramaic | bayna-(y) (LGz. 116) | LGz. 116 | gloss withheld |
 | Mandaic Aramaic | binat-, binia (LGz. 116) | LGz. 116 | gloss withheld |
 | Tigre | bäyən (adj.), ʾəb bäyn (LGz. 116) | LGz. 116 | gloss withheld |
@@ -49,6 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic bn (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
 | Harsusi | bēn (HL 22 apud SEDonline 1253) | HL 22; SEDonline 1253 | gloss withheld |
 | Judaic Aramaic | bain (T 49) | T 49 |  |
+| Biblical Aramaic | bēn (HALOT 123) | HALOT 123 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

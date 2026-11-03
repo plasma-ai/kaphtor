@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/W/WI_TE_JA_MU
 title: "WI-TE-JA-MU"
 desc: "Widd-tiyāmu: Beloved of the Deep (title or name). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "onomastic"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name", "title"]
 kind: "word"
 form: "WI-TE-JA-MU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Beloved of the Deep (title or name) |
 | Root | w-d-d + t-h-m |
 | Proto-Semitic | \*tihām- (#2765) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name, title |
 | Semantic field | personal_name |
 
 ### Note
 
-PL Zf 1, a silver pin from beside Platanos Tholos A: \]TA · WI-TE-JA-MU · U-QE-TI · JA-SA-SA-RA-ME (GORILA IV 161). WI = wid(d)-, as in WI-DI-NA Widdīna, dd unwritten before t; TE-JA-MU = ti(h)āmu, h unwritten, JA the glide. Construct 'beloved of the Deep', the title type of Ug. ydd il. Sign dispute: GORILA reads WI and MU, both doubtful; a second reading of the facsimile takes the fourth sign as RU, which gives no reading. Weak point: -MU where the construct wants the genitive -MI. One attestation.
+PL Zf 1, a silver pin from beside Platanos Tholos A: \]TA · WI-TE-JA-MU · U-QE-TI · JA-SA-SA-RA-ME (GORILA IV 161). WI = wid(d)-, as in WI-DI-NA Widdinā, dd unwritten before t; TE-JA-MU = ti(h)āmu, h unwritten, JA the glide. Construct 'beloved of the Deep', the title type of Ug. ydd il. Sign dispute: GORILA reads WI and MU, both doubtful; a second reading of the facsimile takes the fourth sign as RU, which gives no reading. -MU the nominative the Amorite construct names keep, as SU-MU-A-BU-UM beside SU-MU-A-BI-IM (Gelb 1980, nos. 5606, 5608). One attestation.
 
 ### Cognates
 

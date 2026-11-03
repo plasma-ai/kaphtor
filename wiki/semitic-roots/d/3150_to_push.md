@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3150_to_push
 title: "*dḥp: 'to push'"
-desc: "Proto-Semitic *dḥp, 'to push': reflexes in 4 language(s)."
+desc: "Proto-Semitic *dḥp, 'to push': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3150"
@@ -33,6 +33,9 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | dḥp (HALOT 219 apud SEDonline 1987) | HALOT 219; SEDonline 1987 | gloss withheld |
 | Judaic Aramaic | JPA dḥp (DJPA 143 apud SEDonline 1987); JBA dḥp (DJBA 325 apud SEDonline 1987) | DJPA 143; SEDonline 1987; DJBA 325 | gloss withheld |
 | Geez | daḥafa (CDG 127 apud SEDonline 1987) | CDG 127; SEDonline 1987 | gloss withheld |
+| Aramaic | dəḥap̱ (LGz. 127) | LGz. 127 |  |
+| Arabic | daḥaf (LGz. 127) | LGz. 127 | gloss withheld |
+| Amharic | dafä (LGz. 127) | LGz. 127 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -55,13 +55,13 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> \[…\] In/at \[…\]—O Dikte, Mistress of the Dubur—my wholeness, \[in righteousness\]. So, behold my gathering in the pres\[ence of …\]
+> \[…\] In/at \[…\]—O Diktaean of the Sanctuary—my wholeness, \[in righteousness\]. So, behold my gathering in the pres\[ence of …\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \]NU | \[…\]nū | fragmentary ending; possibly indeed, verily | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PA3_E\|PA₃-E]] | bē | in, at … (possible preposition bē) | CANDIDATE | CANDIDATE (lexicon) |
-| JA-DI-KI-TE-TE-\*307-PU₂-RE | yā Diqqite de dubure | O Dikte, she of the Dubur | PROBABLE |  |
+| JA-DI-KI-TE-TE-\*307-PU₂-RE | yā Diqqitīt dubur | O Diktaean of the Sanctuary | PROBABLE |  |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | my wholeness (noun \*tumm- + 1cs -ī) | CANDIDATE | CANDIDATE (lexicon) |
 | JA-SA\[…\] | yaššara\[m\] | \[in\] righteousness | CANDIDATE |  |
 | U-NA-KA-NA-SI\[…\] | wannā kanāsī | so, behold my gathering | PROBABLE |  |

@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fāliyat- 'a kind of insect resembling the beetle, marked with black and white spots, that usually accompanies or precedes scorpions or vipers' \[BK 2 635\], \[LA 15 164\]. | BK 2 635; LA 15 164 |  |
-| Akkadian | uplu OB on \[AHw. 1432\] | AHw. 1432 | gloss withheld |
-| Judaic Aramaic | palyā, palyā bēʔārī \[Ja. 1181\], plyyt ḥywwyyh \[DJPA 436b apud CAL\]. | Ja. 1181; DJPA 436b; CAL | gloss withheld |
+| Akkadian | uplu OB on \[AHw. 1423\] | AHw. 1423 | gloss withheld |
+| Judaic Aramaic | palyā, palyā bēʔārī \[Ja. 1181\], plyyt ḥywwyyh \[DJPA 436b apud CAL\]; plyʔ byʔry (Sok. B 913 apud SED II 231) | Ja. 1181; DJPA 436b; CAL; Sok. B 913; SED II 231 | gloss withheld |
 | Syrian Aramaic | plā 'pick out lice; search minutely' (Payne Smith 446) | Payne Smith 446 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

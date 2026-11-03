@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3837_to_overlay_plate_cover
 title: "*ṣpy: 'to overlay, plate, cover'"
-desc: "Proto-Semitic *ṣpy, 'to overlay, plate, cover': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ṣpy, 'to overlay, plate, cover': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3837"
@@ -32,6 +32,9 @@ updated: 2026-10-31T13:28:57Z
 | Hebrew | ṣippâ piel; ṣippûy (HALOT 1045) | HALOT 1045 | gloss withheld |
 | Ugaritic | ṣpy: ṯlṯ mrkb\[t\] ṣpyt b ḫrṣ (KTU 4.167:2; DULAT 778); ṣp (II) (DULAT 776) | KTU 4.167:2; DULAT 778; DULAT 776 | gloss withheld |
 | Punic | ṣpʾt (HALOT 1045) | HALOT 1045 | gloss withheld |
+| Eblaitic | zi-bù /ṣipy/ (Sanmartín GlOS 2, 221); zi-ba-du/tum /ṣipayt/ (Sanmartín GlOS 2, 221); ṣuṣṣup(a)t: pl. zu-zu-ba-tum, zú-zú-ba-tum /ṣupṣupāt/ (Sanmartín GlOS 2, 221) | Sanmartín GlOS 2, 221 | gloss withheld |
+| Geez | ṣafṣafa (LGz. 549) | LGz. 549 | gloss withheld |
+| Akkadian | ṣuppu (LGz. 549) | LGz. 549 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,0 +1,4 @@
+{
+  "_doc": "Hand-curated sign-label resolutions for tools/core/sign_crosswalk.py. Key: the label exactly as it appears in its source. Value: {kind, codes (registry ab_numbers, '?' for an unknown component), note}. Overrides win over every automatic route; a code absent from sign-registry.json is rejected at load.",
+  "overrides": {}
+}

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star308
 title: "*308"
 desc: "šamnu: pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity"]
+tags: ["linear-a", "word", "tier-3", "commodity", "foodstuff", "logogram", "oil"]
 kind: "word"
 form: "*308"
 datasets: ["lexicon"]
@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
 reading: "šamnu"
-attestations: ["HT123+124a", "HT123+124b", "HT23a", "HT32", "HT35", "HT26b", "KH12", "KH85", "ARKH7"]
+attestations: ["HT123+124a", "HT123+124b", "HT23a", "HT32", "HT35", "HT26b", "HTZf167", "KH12", "KH85", "ARKH7"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | pressed oil, oil derivative—commodity modifier indicating oil extraction from base commodity |
 | Root | š-m-n |
 | Proto-Semitic | \*šam(a)n- ~ \*sam(a)n- (#2014) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-Oil derivative modifier. HT123+124a places \*308 after OLIV; the three securely evaluable pairs give a stable 26.6–28.3% ratio, while the third fraction is damaged. Always in oil/liquid commodity neighborhoods (OLE+X, CYP, VIN). Three-site attestation (HT, KH, ARKH). Possible reading šamnu 'oil' (Akk. šamnu, Heb. šemen), but the lexical identification is less secure than the commodity function, and OLE also carries šamnu.
+Oil-derivative modifier, on the tablets of HT, KH and ARKH always among oil and liquid commodities (OLE+X, CYP, VIN); on the metal object HT Zf 167 it stands alone. HT 123+124a sets it after OLIV four times: 8¼ of 31, 8¾ of 31½ and 4¼ of 15 give 26.6–28.3%, and the fraction after OLIV 16, 4 \[…\], is damaged. šamnu 'oil', Akk. šamnu 'oil, fat, cream' (CAD Š/1 321), Heb. šemen (HALOT 1567). Weak point: the commodity function is firmer than the word, and OLE also carries šamnu.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Oil derivative modifier. HT123+124a places \*308 after OLIV; the three securely 
 
 ### Source
 
-di Mino
+di Mino; CAD Š/1; HALOT
 
 ## Attestations
 
@@ -66,6 +66,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT26b\|HT26b]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTZf/HTZf167\|HTZf167]] | Haghia Triada | Metal object | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH12\|KH12]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH85\|KH85]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH7\|ARKH7]] | Arkhanes | Tablet | none |

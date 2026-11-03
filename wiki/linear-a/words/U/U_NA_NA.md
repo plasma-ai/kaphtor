@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap); role personal name.
 
-MA 2c .1 \]-U-NA-NA 3, broken before U, the word running into the break (GORILA I 271). Sole attestation. Not readable.
+MA 2c .1 \]-U-NA-NA 3, broken before U, the word running into the break (GORILA I 271). Cf. U-NA wannā 'and behold', spelled U-NA at Iouktas. Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

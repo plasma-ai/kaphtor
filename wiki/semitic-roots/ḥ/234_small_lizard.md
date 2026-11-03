@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/234_small_lizard
 title: "*ḥisl-: 'small lizard'"
-desc: "Proto-Semitic *ḥisl-, 'small lizard': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḥisl-, 'small lizard': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "234"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥisl- (Lane 569) | Lane 569 |  |
+| Eblaitic | ʔa₅-sa-lu-um, a-sa-lum /ḥas₁l/ (= Sum. KU₆.MUŠ) (Sanmartín GlOS 1, 255) | Sanmartín GlOS 1, 255 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

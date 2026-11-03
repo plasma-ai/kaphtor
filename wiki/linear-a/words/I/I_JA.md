@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | island |
 | Root | ʾ-y "island" |
 | Proto-Semitic | \*ʾVy- (#K0604) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | noun |
 | Semantic field | toponym |
 
 ### Note
@@ -58,7 +58,7 @@ di Mino; DULAT; GlOS 1
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZa/KNZa10\|KNZa10]] | Knossos | Stone vessel | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KN/KNZa/KNZa10\|KNZa10]] | Knossos | Stone vessel | complete; restored |
 | [[wiki/linear-a/inscriptions/CR/CRZf/CRZf1\|CRZf1]] | Crete | Metal object | complete |
 
 ## In translations

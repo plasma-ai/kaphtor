@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RE_ZA
 title: "RE-ZA"
 desc: "(ʾa)raz: cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "aromatic", "commodity", "noun"]
 kind: "word"
 form: "RE-ZA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure |
 | Root | ʾ-r-z |
 | Proto-Semitic | \*ʾVrz- (#2735) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | aromatic, commodity, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Always counted: KH 86 \]RE-ZA CYP, before the aromatic cyperus, broken before; HT 88 RE-ZA 6 before NI KI-KI-NA 7; HT 13 RE-ZA 5½, first entry of the VIN · TE list. ʾarz 'cedar', the aromatic wood, resin and oil, beside cyperus at Khania as cedar beside juniper in Hebrew (1 Kgs 5:22); RE writes ra, ZA the z. Weak point: initial ʾa- unwritten. Rival: Hieroglyphic Luwian aruza, a measure, attested later.
+KH 86 \]RE-ZA CYP, before the aromatic cyperus, broken before, with no numeral of its own; HT 88 RE-ZA 6 before NI KI-KI-NA 7; HT 13 RE-ZA 5½, first entry of the VIN · TE list. ʾarz 'cedar', the aromatic wood, resin and oil, beside cyperus at Khania as cedar beside juniper in Hebrew (1 Kgs 5:22); RE writes the ra of \*ʾaraz-, as Ugarit ar-zi-ma \|ʔarzīma\| &lt; \*\|ʔarazīma\| (GlOS 1, 43), ZA the z. Weak points: initial ʾa- unwritten; KH 20 \]DU-RE-ZA · CYP+E ½ fills the same slot before cyperus, so KH 86 \]RE-ZA can end DU-RE-ZA. Rival: Hieroglyphic Luwian aruza, a measure, attested later.
 
 ### Cognates
 

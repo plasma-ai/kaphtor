@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/S/SE_TO_I_JA
 title: "SE-TO-I-JA"
-desc: "Ṣētiya: the Eastern (one), of the East: a central Cretan place or a divine epithet; rival pre-Greek toponym Setoiya. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "toponym"]
+desc: "Ṣētiya: the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "hapax", "libation_formula", "ritual", "toponym"]
 kind: "word"
 form: "SE-TO-I-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Ṣētiya |
-| Meaning | the Eastern (one), of the East: a central Cretan place or a divine epithet; rival pre-Greek toponym Setoiya |
+| Meaning | the Eastern (place), a central Cretan toponym; rivals the epithet 'she of the East' and a pre-Greek toponym Setoiya |
 | Root | y-ṣ-ʾ |
 | Proto-Semitic | \*wVṣ̂Vʾ- (#K0448) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Same spelling as Linear B se-to-i-ja, 17 Knossos tablets (As 40+5093, As 1516, Dc 5687+, Lc 525, Le 654, Mc 4464+, Sd 4407+ and others). PR Za 1 formula slot 2, the site-specific slot (cf. TU-RU-SA at Kophinas, O-SU-QA-RE at Tylissos, I-DA-MI at Syme). √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya of SU-KI-RI-TE-I-JA; SE writes the ē of Hebrew ṣēʾt (Judg 5:31), SI-TE Ṣīt the ī. East with a gentilic names a people in haq-Qadmōnî 'the Kadmonites' (Gen 15:19) and a sea in hay-yām haq-qadmônî 'the eastern sea' (Ezek 47:18). Locative ('at Ṣētiya') or epithet ('she of the East') open. Rival: a pre-Greek toponym Setoiya.
+PR Za 1, formula slot 2, the site-specific slot (cf. TU-RU-SA at Kophinas, O-SU-QA-RE at Tylissos, I-DA-MI at Syme): 'at Ṣētiya', the place. Linear B writes the same spelling, se-to-i-ja, a Knossos toponym on 17 tablets (As 40+5093, As 1516, Dc 5687+, Lc 525, Le 654, Mc 4464+, Sd 4407+ and others; DMic II 288). √y-ṣ-ʾ (K0448): ṣēt 'the East' with the gentilic -iya of SU-KI-RI-TE-I-JA; SE writes the ē of Hebrew ṣēʾt (Judg 5:31), SI-TE Ṣīt the ī. East with a gentilic names a people in haq-Qadmōnî 'the Kadmonites' (Gen 15:19) and a sea in hay-yām haq-qadmônî 'the eastern sea' (Ezek 47:18). Rivals: an epithet 'she of the East'; a pre-Greek toponym Setoiya.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Same spelling as Linear B se-to-i-ja, 17 Knossos tablets (As 40+5093, As 1516, D
 
 ### Source
 
-di Mino; Linear B overlap
+di Mino; DMic II
 
 ## Attestations
 

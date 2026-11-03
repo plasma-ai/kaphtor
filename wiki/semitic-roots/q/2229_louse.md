@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2229_louse
 title: "*ḳaml- ~ *ḳalm-: 'louse'"
-desc: "Proto-Semitic *ḳaml- ~ *ḳalm-, 'louse': reflexes in 15 language(s)."
+desc: "Proto-Semitic *ḳaml- ~ *ḳalm-, 'louse': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2229"
@@ -42,7 +42,6 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḳumal id. \[Bass. 288\]. | Bass. 288 |  |
 | Harari | ḳumāy (Kogan 2015, ch. 7 §2.3 no. 49) | Kogan 2015 ch. 7 §2.3 no. 49 |  |
 | Modern Aramaic | Krd., JNA, Tlk., Ass. ḳalma; NSyr. ḳŭlmâ; Tur. ḳalmo (SED II 177) | SED II 177 |  |
-| Hebrew | qāmal (LGz. 432) | LGz. 432 | gloss withheld |
 | Argobba | qəmal (LGz. 432) | LGz. 432 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

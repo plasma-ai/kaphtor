@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1915_throat_gullet
 title: "*gʷar(gʷ)ar-, var. *gʷangʷar-, *gʷarar-: 'throat, gullet'"
-desc: "Proto-Semitic *gʷar(gʷ)ar-, var. *gʷangʷar-, *gʷarar-, 'throat, gullet': reflexes in 13 language(s)."
+desc: "Proto-Semitic *gʷar(gʷ)ar-, var. *gʷangʷar-, *gʷarar-, 'throat, gullet': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1915"
@@ -41,8 +41,6 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | gaggartā 'throat' \[Brock 103\] | Brock 103 |  |
 | Gafat | gurarä \[LGur 295\] | LGur 295 |  |
 | Tigrinya | gʷǝrgʷǝrit 'crop' \[Bass 870\]; gʷäräro 'throat, trachea' \[Bass 869\] | Bass 870; Bass 869 |  |
-| Geez | gʷərʿe, gurʿe (LGz. 200) | LGz. 200 | gloss withheld |
-| Tigre | gərəʿ (LGz. 201) | LGz. 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

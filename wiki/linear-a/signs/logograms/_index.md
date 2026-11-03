@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/logograms
 title: Logograms
 desc: Each logogram with its gloss or commodity, its Semitic term where one is proposed, and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-24T16:17:50Z
+updated: 2026-11-03T03:29:48Z
 ---
 
 # Logograms
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/signs/logograms/QE|QE]]: Linear A logogram QE, proposed: measure unit (qê, Akkadian genitive of qû ≈ 1.2 liters).
 
-[[wiki/linear-a/signs/logograms/SI_plus_SE|SI_plus_SE]]: Linear A logogram SI+SE, speculative: administrative entity or category; speculative comparison with Ugaritic Šapšu.
+[[wiki/linear-a/signs/logograms/SI_plus_SE|SI_plus_SE]]: Linear A logogram SI+SE, speculative: ṣiṣe, the salt-works, an establishment drawing grain, oil and figs; rival Šipšu, the Sun-deity.
 
 [[wiki/linear-a/signs/logograms/TI|TI]]: Linear A logogram TI, proposed: figs (abbreviation of TI-NI).
 
@@ -66,7 +66,7 @@ updated: 2026-10-24T16:17:50Z
 
 [[wiki/linear-a/signs/logograms/star309|star309]]: Linear A logogram *309, speculative: round (loaf/disc/talent-weight); on TY2 most plausibly bread-rounds in ration quantities.
 
-[[wiki/linear-a/signs/logograms/star312|star312]]: Linear A logogram *312, proposed: flax/linen (√k-t-n); inside a word it writes KI, the first syllable of kitnu.
+[[wiki/linear-a/signs/logograms/star312|star312]]: Linear A logogram *312, speculative: a logogram tied to cloth by TELA+*312; inside a word a syllable of unknown value.
 
 [[wiki/linear-a/signs/logograms/star316|star316]]: Linear A logogram *316, speculative: bean, legume (food commodity in ration allocations).
 

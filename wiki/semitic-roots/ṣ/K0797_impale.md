@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/K0797_impale
 title: "*ṣVlVb-: 'impale'"
-desc: "Proto-Semitic *ṣVlVb-, 'impale': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ṣVlVb-, 'impale': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0797"
@@ -34,7 +34,12 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṣalaba 'crucify' (Dillmann 09150) | Dillmann 09150; Anderson–Moser 2024 root ṣlb |  |
 | Syrian Aramaic | ṣəlaḇ (LGz. 555; Payne Smith 478) | LGz. 555; Payne Smith 478 |  |
 | Pre-Islamic North Arabian | Safaitic ṣlb (Al-Jallad–Jaworska 129) | Al-Jallad–Jaworska 129 | gloss withheld |
+| Punic | ṣlb (T 277–278) | T 277–278 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Tomback (T 277) compares N.Heb. ṣālab 'to hang, impale', Mandaic ṣlb and Chr.Pal.Aram. ṣlb.
 
 <!-- END kaphtor:record -->

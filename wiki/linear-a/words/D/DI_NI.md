@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI_NI
 title: "DI-NI"
-desc: "Dīnī: personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wdny. Lexicon, SPECULATIVE (tier 1)."
+desc: "Dīnī: personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "DI-NI"
@@ -32,16 +32,16 @@ updated: 2026-10-26T15:04:43Z
 | Field | Value |
 |---|---|
 | Reading | Dīnī |
-| Meaning | personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wdny |
+| Meaning | personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny |
 | Root | d-y-n |
 | Proto-Semitic | \*dyn- (#S36) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT Wc 3007 WA-DI-NI, the only text; HT Wc 3008 face a WA · DI-NI, the point after WA in GORILA's transcription, face b RU-JA-TA-DI; all signs whole and undotted (GORILA II 74). WA is the cloth sign, alone on HT Wc 3019 (WA ¼) and KH Wc 2124, and beside DI-NA-U Dīnāyu on HT 16. dī-nī 'my judgment', as Alalakh Dīnī-Haddu, DI-NI-A-DU (Gelb no. 1513). Rival: one word, Ugaritic PN wdny, 'etym. unc.' (DULAT 929). Two witnesses.
+HT Wc 3007 WA-DI-NI, the only text; HT Wc 3008 face a WA · DI-NI, the point after WA in GORILA's transcription, face b RU-JA-TA-DI; all signs whole and undotted (GORILA II 74). WA is the cloth sign, alone on HT Wc 3019 (WA ¼) and KH Wc 2124, and beside DI-NA-U Dīnāyu on HT 16. dī-nī 'my judgment', as Alalakh Dīnī-Haddu, DI-NI-A-DU (Gelb no. 1513). Rival: one word, Ugaritic PN wḏny, 'etym. unc.' (DULAT 929). Two witnesses.
 
 ### Cognates
 

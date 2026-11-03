@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3854_palm_grove_palm_trees
 title: "*naḫl-: 'palm grove, palm trees'"
-desc: "Proto-Semitic *naḫl-, 'palm grove, palm trees': reflexes in 2 language(s)."
+desc: "Proto-Semitic *naḫl-, 'palm grove, palm trees': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3854"
@@ -31,11 +31,8 @@ updated: 2026-10-31T13:28:57Z
 |---|---|---|---|
 | Epigraphic South Arabian | Qat. nḫl; Sab. nḫl (Ricks 1982 s.v. nḫl) | Ricks 1982 s.v. nḫl | gloss withheld |
 | Arabic | naḫl (coll.) (Ricks 1982 s.v. nḫl) | Ricks 1982 s.v. nḫl | gloss withheld |
+| Hebrew | נַ֫חַל (HALOT 687) | HALOT 687 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
-
-## Notes
-
-Not 3184 \*naḫl- 'river valley, wadi'.
 
 <!-- END kaphtor:record -->

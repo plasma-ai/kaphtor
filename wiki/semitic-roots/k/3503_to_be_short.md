@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3503_to_be_short
 title: "*kry: 'to be short'"
-desc: "Proto-Semitic *kry, 'to be short': reflexes in 2 language(s)."
+desc: "Proto-Semitic *kry, 'to be short': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3503"
@@ -31,6 +31,8 @@ updated: 2026-10-25T06:28:07Z
 |---|---|---|---|
 | Akkadian | karû (CAD K 229); kurû (CAD K 569) | CAD K 229; CAD K 569 | gloss withheld |
 | Syrian Aramaic | krā 'be short' (Payne Smith 224) | Payne Smith 224 |  |
+| Eblaitic | ga-rí-núm, gàr-a-nu (= Sum. LÚGUD.DA) /kary/; name gàr-u₉-su (Sanmartín GlOS 1, 321) | Sanmartín GlOS 1, 321 | gloss withheld |
+| Biblical Aramaic | kry itpe. (HALOT BArm. s.v. כרה) | HALOT BArm. s.v. כרה | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

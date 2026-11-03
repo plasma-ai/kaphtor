@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_RO_NA
 title: "KA-RO-NA"
 desc: "Qarna: personal name, 'horn'. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "noun"]
+tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "KA-RO-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'horn' |
 | Root | q-r-n (PS \*ḳarn-) |
 | Proto-Semitic | \*ḳarn- (#1959) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT11a (Haghia Triada, Villa Magazine, LMIB): A-RU-RA-\[·\] \]3, KA-RO-NA 2, \*322-RI 1, KU-RO 10, three entries in one total, so a recipient. KA = /qa/ under Gordon's stop neutralization. Horn names are common across Semitic: Amorite Qar-ni-li-im (Huffmon 1965, 58; element qarn- 'horn, strength', 259); Middle Babylonian Qarni-Ana (ORACC P503266), Middle Assyrian Qarna-Adad (ORACC P282214), Neo-Assyrian Qarnaya (ORACC P336263); Hebrew Qeren-happûk, a daughter of Job (Job 42:14). See I-KU-RI-NA.
+HT 11a (Haghia Triada, Villa Magazine, LM IB): A-RU-RA \]3, KA-RO-NA 2, \*322-RI 1, KU-RO 10, three entries in one total, so a recipient. KA writes /qa/: the k-signs cover k, g and q (Gordon 1966, §142). Horn names are common across Semitic: Amorite Qar-ni-li-im (Huffmon 1965, 58; element qarn- 'horn, strength', 259), Middle Babylonian Qarni-Ana (ORACC P503266), Middle Assyrian Qarna-Adad (ORACC P282214), Neo-Assyrian Qarnaya (ORACC P336263), and Hebrew Qeren-happûk, a daughter of Job (Job 42:14). One attestation. See I-KU-RI-NA.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT11a (Haghia Triada, Villa Magazine, LMIB): A-RU-RA-\[·\] \]3, KA-RO-NA 2, \*3
 
 ### Source
 
-di Mino
+di Mino; Gordon 1966; Huffmon 1965
 
 ## Attestations
 
@@ -72,8 +72,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TI_NI_TA_star307
 title: "TI-NI-TA *307"
 desc: "Tinitu Dubur: Tinit of the Sanctuary (Goddess + Sanctuary pattern). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "divine_epithet"]
+tags: ["linear-a", "word", "tier-3", "compound", "epithet", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "TI-NI-TA *307"
 datasets: ["lexicon"]
@@ -35,25 +35,25 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Tinit of the Sanctuary (Goddess + Sanctuary pattern) |
 | Root | t-n-t + d-b-r |
 | Proto-Semitic | \*tinnīt- (#2967) + \*dVb(V)r- (#151) |
-| Language layer | NWS |
-| Category | divine_epithet |
+| Language layer | Semitic |
+| Tags | compound, epithet, hapax, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-HT27a: TI-NI-TA \*307 = 'Tinit of the Sanctuary.' Three-script chain: Linear A TI-NI-TA \*307 = Linear B Potnia da-pu2-ri-to-jo = Hebrew Baʿalat ha-Dəḇîr. \|\| Word-field notation: 'TI-NI-TA \*307' records the attested epithet phrase (goddess name + sanctuary logogram) as it appears on HT27a; not split into separate entries. For \*307, see VIR+\*307.
+HT 27a: TI-NI-TA \*307 'Tinit of the Sanctuary', the goddess's name with the sanctuary logogram, kept whole as the attested epithet. Linear B Potnia da-pu₂-ri-to-jo and Hebrew Baʿalat ha-Dəḇîr carry the same title. For \*307, see VIR+\*307.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Phoenician | tnt 'Tanit' (Sarepta, KAI 285) |
-| Punic in Greek letters | ΘΙΝΙΘ Thinith 'Tinnit' (El-Hofra stele) |
+| Punic in Greek letters | Θινιθ 'Tinnit' on the El-Hofra stele EH 1.1/5 (Krahmalkov 2000, 126, 495) |
 | Hebrew | dəvîr (דְּבִיר) 'inner sanctuary' (1 Kgs 6:5) |
 
 ### Source
 
-di Mino
+di Mino; Krahmalkov 2000
 
 ## Attestations
 

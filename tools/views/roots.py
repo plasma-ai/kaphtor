@@ -3,7 +3,8 @@
 The set is optional: a folder without the file gets no pages. A page shows what the file ships and nothing more: the
 reconstruction and meaning with where each comes from, each reflex's form as shipped and its sources, and the
 project's note. A reflex whose gloss or text the file withholds says so. No Linear A entry is linked: a key match is
-a lead for review, never identity, and links wait for an explicit field in the lexicon.
+a lead for review, never identity, and links wait for an explicit field in the lexicon. A Pre-Greek word is listed
+only where its `proto_semitic`, set by hand review, names the root (`pregreek.by_root`).
 """
 from __future__ import annotations
 
@@ -13,7 +14,7 @@ from pathlib import Path
 
 from ..core.semitic_root_schema import ps_radical_keys
 from .markdown import escape as esc
-from .markdown import table
+from .markdown import link, table
 from .model import slug
 from .render import _page, collect
 
@@ -50,7 +51,8 @@ def _basis(value: str) -> str:
     return BASIS.get(value, value)
 
 
-def page(root: dict) -> tuple[str, str]:
+def page(root: dict, words: list[tuple[str, str]] = ()) -> tuple[str, str]:
+    """The root's page; `words` are the (path, title) of the Pre-Greek words whose `proto_semitic` names it."""
     ps, meaning = root["ps"], root["meaning"]
     sa = root["id"].startswith("SA")
     kind = "Epigraphic South Arabian headword" if sa else "Proto-Semitic"
@@ -71,13 +73,18 @@ def page(root: dict) -> tuple[str, str]:
         body += ["A form keeps its source's gloss only when the source is public domain or openly licensed.", ""]
     if root.get("notes"):
         body += ["## Notes", "", esc(root["notes"]), ""]
+    if words:
+        body += ["## Pre-Greek words", "", "Hand review ties these words of the Pre-Greek lexicon to this root: "
+                 + ", ".join(link(p, esc(t)) for p, t in words) + ".", ""]
     return _page(path(root), fields, body)
 
 
-def pages(folder: Path) -> dict[str, str]:
-    """Path -> text for every root page, or nothing when the folder has no semitic_roots.json."""
+def pages(folder: Path, pregreek: dict[str, list[tuple[str, str]]] | None = None) -> dict[str, str]:
+    """Path -> text for every root page, or nothing when the folder has no semitic_roots.json. `pregreek` maps a root
+    id to the Pre-Greek words tied to it (`pregreek.by_root`)."""
     doc = _read(folder)
-    return collect(page(r) for r in doc["roots"]) if doc else {}
+    pregreek = pregreek or {}
+    return collect(page(r, pregreek.get(r["id"], [])) for r in doc["roots"]) if doc else {}
 
 
 def descs(folder: Path) -> dict[str, str]:

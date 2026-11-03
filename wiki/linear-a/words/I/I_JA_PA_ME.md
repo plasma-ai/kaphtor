@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_JA_PA_ME
 title: "I-JA-PA-ME"
 desc: "yabame: brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "kinship"]
+tags: ["linear-a", "word", "tier-2", "hapax", "kinship", "noun"]
 kind: "word"
 form: "I-JA-PA-ME"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | brother-in-law (kin title); I-JA-PA-ME · TA-TA 'the brother-in-law of Tatta'; rival ybmt 'sister-in-law', Anat's epithet |
 | Root | y-b-m |
 | Proto-Semitic | \*wa-bām- (#13) |
-| Language layer | NWS |
-| Category | kinship |
+| Language layer | Semitic |
+| Tags | hapax, kinship, noun |
 | Semantic field | kinship |
 
 ### Note
 
-KH 7a: sections under E-NA-SI 'copper', I-JA-PA-ME · TA-TA and SE-\*305 'provisions'; the second holds QA-TI-KI, \*313b men 4, cyperus ⅓ (GORILA III 29). yabam 'brother-in-law', as Tell Rimah ia-ba-mi-ša and Ugaritic ybm (GlOS 2, 341; DULAT 937); before TA-TA, yabam Tatta 'the brother-in-law of Tatta', a woman's name at Mari and Tuttul (Monti 2017, 302, 335): her husband's brother, as ia-ba-mi-ša 'her brother-in-law'. Rival: ybmt 'widowed sister-in-law', Anat's epithet ybmt limm (DULAT 937; Huehnergard 2012, 87). One witness.
+KH 7a: sections under E-NA-SI 'men', I-JA-PA-ME · TA-TA and SE-\*305 'provisions'; the second holds QA-TI-KI, \*313b men 4, cyperus ⅓ (GORILA III 29). yabam 'brother-in-law', as Tell Rimah ia-ba-mi-ša and Ugaritic ybm (GlOS 2, 341; DULAT 937); before TA-TA, yabam Tatta 'the brother-in-law of Tatta', a woman's name at Mari and Tuttul (Monti 2017, 302, 335): her husband's brother, as ia-ba-mi-ša 'her brother-in-law'. Rival: ybmt 'widowed sister-in-law', Anat's epithet ybmt limm (DULAT 937; Huehnergard 2012, 87). One witness.
 
 ### Cognates
 
@@ -71,8 +71,8 @@ di Mino; GlOS 2; DULAT; Huehnergard 2012; Monti 2017
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

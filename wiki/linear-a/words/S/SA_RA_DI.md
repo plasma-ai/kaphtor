@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_RA_DI
 title: "SA-RA-DI"
 desc: "šalardi: group of daughters (Hurrian collective). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "fragmentary", "hapax", "kinship", "noun", "personnel"]
 kind: "word"
 form: "SA-RA-DI"
 datasets: ["lexicon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | šalardi |
 | Meaning | group of daughters (Hurrian collective) |
 | Language layer | Hurrian |
-| Category | noun |
+| Tags | fragmentary, hapax, kinship, noun, personnel |
 | Semantic field | personnel |
 
 ### Note

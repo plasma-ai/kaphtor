@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/3488_to_plunder_booty
 title: "*ṯll: 'to plunder; booty'"
-desc: "Proto-Semitic *ṯll, 'to plunder; booty': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ṯll, 'to plunder; booty': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3488"
@@ -29,18 +29,19 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šallatu (CAD Š/1 248); šalālu (CAD Š/1 196) | CAD Š/1 248; CAD Š/1 196 | gloss withheld |
+| Akkadian | šallatu (CAD Š/1 248; AHw 1148); šalālu (CAD Š/1 196) | CAD Š/1 248; AHw 1148; CAD Š/1 196 | gloss withheld |
 | Hebrew | šll (HALOT 1531); šālāl (HALOT 1531) | HALOT 1531 | gloss withheld |
-| Ugaritic | ṯll (HALOT 1531) | HALOT 1531 | gloss withheld |
+| Ugaritic | šl (DULAT 806) | DULAT 806 | gloss withheld |
 | Epigraphic South Arabian | Sab ṯll (SD 150) | SD 150 | gloss withheld |
 | Arabic | ṯalla (HALOT 1531) | HALOT 1531 | gloss withheld |
 | Eblaitic | ša-la-tum /ṯallat/ (Sanmartín GlOS 2, 322); ša-la-tum /ṯallatum/ (= Sum. nam-ra-aka) (VE 1093; Bonechi 2008, 15) | Sanmartín GlOS 2, 322; VE 1093; Bonechi 2008, 15 | gloss withheld |
 | Amorite | śll: jaślal, śalalum, śalilum, śullalum, śullulum, juśtallil (Gelb AS 21, 32) | Gelb AS 21 32 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sll; sl; nsl; tsll (Al-Jallad 2026, 132) | Al-Jallad 2026 132 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-HALOT 1531 sets Ug. ṯll, Akk. šalālu, OSArb. ṯll and Arb. ṯalla together. Judaic Aramaic šǝlālā (HALOT 1531) has š for \*ṯ.
+HALOT 1531 sets Ug. ṯll, Akk. šalālu, OSArb. ṯll and Arb. ṯalla together; DULAT 806 reads the Ugaritic šl, root /š-l(-l)/. Judaic Aramaic šǝlālā (HALOT 1531) has š for \*ṯ. Safaitic sll, sl have s for \*ṯ, as Hebrew and Aramaic š.
 
 <!-- END kaphtor:record -->

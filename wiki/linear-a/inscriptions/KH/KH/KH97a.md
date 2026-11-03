@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["NA"]
+words: []
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -42,10 +42,6 @@ Transliteration, line by line:
 
 1. \]RE 𐄁 A-JA\[
 2. \]NA\[
-
-## Lexicon words citing this document
-
-[[wiki/linear-a/words/N/NA|NA]].
 
 ## Edition differences
 

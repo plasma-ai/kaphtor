@@ -25,7 +25,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA9\|ZA9]] | Zakros | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA9\|ZA9]] | Zakros | Tablet | incomplete; form not in transliteration |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA9\|ZA9]] |  | broken word, \]RỌ-SI-RA; QI+SI 4̣ |  |
 
 ## Unread
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU_PA3_NA
 title: "DU-PA₃-NA"
 desc: "Dubbān: personal name, 'bear' with -ān. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DU-PA₃-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'bear' with -ān |
 | Root | d-b-b |
 | Proto-Semitic | \*dubb- (#2153) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

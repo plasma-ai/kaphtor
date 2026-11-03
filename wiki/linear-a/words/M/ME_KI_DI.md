@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/ME_KI_DI
 title: "ME-KI-DI"
 desc: "Majd: personal name, 'glory' (masculine). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "ME-KI-DI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'glory' (masculine) |
 | Root | m-g-d |
 | Proto-Semitic | \*magd- (#3225) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 1 and QA-TI-JU 8 (GORILA III 181). Safaitic MJD (Harding 1971, 528); Hebrew meged 'excellence'. The masculine of MA-KI-DE-TE (ZA 10b). Rival: Ugaritic mkt 'immolation, offering (?)'. One document.
+ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 1 and QA-TI-JU 8 (GORILA III 181). Safaitic MJD, feminine MJDT (Harding 1971, 528); Hebrew meged 'precious gift' (Deut 33:13; HALOT 543). The masculine of MA-KI-DE-TE (ZA 10b). Rival: Ugaritic mkt, which DULAT queries as 'immolation, offering' (DULAT 539). One document.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ ZA 14 .1 ME-KI-DI 1, intact, the first entry of a name list, before \*21F-\*118 
 
 ### Source
 
-di Mino
+di Mino; Harding 1971; HALOT; DULAT
 
 ## Attestations
 

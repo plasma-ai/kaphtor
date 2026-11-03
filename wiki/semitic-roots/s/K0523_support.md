@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/K0523_support
 title: "*sVmVk-: 'support'"
-desc: "Proto-Semitic *sVmVk-, 'support': reflexes in 7 language(s)."
+desc: "Proto-Semitic *sVmVk-, 'support': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0523"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Sab śmk (Biella 506) | Biella 506 | gloss withheld |
 | Geez | samaka 'lean' | Anderson–Moser 2024 root šmk |  |
 | Punic | smk 'support' | Anderson–Moser 2024 root šmk |  |
 | Phoenician | smk (B 366) | B 366 | gloss withheld |
@@ -41,6 +42,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Amorite ŚMK is written with SA, SU signs, not ZA, ZI (Gelb AS 21, 32), against NWS samekh. SAr. s₃mk is 'go up, ascend' in SabDic. 138 (LGz. 502).
+Amorite ŚMK is written with SA, SU signs, not ZA, ZI (Gelb AS 21, 32), against NWS samekh. SAr. s₃mk is 'go up, ascend' in SabDic. 138 (LGz. 502). Biella 506 compares Geez smk (causative) 'prop up, support'.
 
 <!-- END kaphtor:record -->

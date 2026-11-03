@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/P/PA3_NI
 title: "PA₃-NI"
-desc: "bānī: builder or personnel designation. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+desc: "bānī: builder (a personnel class). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "noun", "occupation", "personnel"]
 kind: "word"
 form: "PA₃-NI"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | bānī |
-| Meaning | builder or personnel designation |
+| Meaning | builder (a personnel class) |
 | Root | b-n-y |
 | Proto-Semitic | \*bVn- (#649) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-The comparison is the Semitic active participle of √b-n-y 'build', \*bāniyu &gt; bānī in a weak-final form. Its personnel sense suits HT102, but the bare form is lexically ambiguous and the proposed relation to PA₃-NI-NA does not by itself establish the reading. See PA₃-NI-WI.
+HT 85a PA₃-NI 12, a count of men under A-DU · \*307+\*307 · VIR+\[?\], beside DA-RI-DA 12 and U-\*325-ZA 6; HT 102 PA₃-NI GRA+PA 33, after SA-RA₂ GRA 976. bānī 'builder', the active participle of √b-n-y, \*bāniyu &gt; bānī: Ug. bny 'architect, builder' (DULAT 231), Akk. bānû 'housebuilder' (CAD B 95). Two attestations. See PA₃-NI-NA and PA₃-NI-WI.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ The comparison is the Semitic active participle of √b-n-y 'build', \*bāniyu &
 
 ### Source
 
-di Mino; GlOS 1; Gelb 1980
+di Mino; DULAT; CAD B; GlOS 1; Gelb 1980
 
 ## Attestations
 
@@ -66,7 +66,7 @@ di Mino; GlOS 1; Gelb 1980
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT85a\|HT85a]] | bānī | builder(s) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | bānī | builder or personnel designation: GRA+PA 33 | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | bānī | builder (a personnel class): GRA+PA 33 | CANDIDATE |
 
 ## Onomasticon
 

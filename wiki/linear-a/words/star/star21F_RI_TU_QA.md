@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star21F_RI_TU_QA
 title: "*21F-RI-TU-QA"
 desc: "ha-ritūqa: the tied, sealed (packet). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun"]
 kind: "word"
 form: "*21F-RI-TU-QA"
 datasets: ["lexicon"]
@@ -36,12 +36,12 @@ updated: 2026-10-24T16:17:50Z
 | Root | r-t-q |
 | Proto-Semitic | \*rtḳ (#3712) |
 | Language layer | Semitic |
-| Category | vocabulary |
+| Tags | commodity, hapax, noun |
 | Semantic field | commodity |
 
 ### Note
 
-HT 23a, K-fraction entry between E 17 and sesame in an aromatics ledger; RI dotted (GORILA I 41). RI-TU-QA from √r-t-q 'to tie, bind': Ug. rtq (DULAT 737); Heb. ruttəqû (Nah 3:10), rətuqôt (Isa 40:19); Ar. ratq (Q 21:30). \*21F the article ha-. Weak point: \*21F as an optional H-sign. One attestation.
+HT 23a, K-fraction entry between E 17 and sesame in an aromatics ledger; RI dotted (GORILA I 41). RI-TU-QA from √r-t-q 'to tie, bind': Ug. rtq (DULAT 737); Heb. ruttəqû (Nah 3:10), rətuqôt (Isa 40:19); Ar. ratq (Q 21:30). \*21F the article ha-, as Punic writes the article h- or ʾ- (Krahmalkov 2000, 154). Weak point: the only article written \*21F; no bare RI-TU-QA. One attestation.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 23a, K-fraction entry between E 17 and sesame in an aromatics ledger; RI dott
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; Krahmalkov 2000
 
 ## Attestations
 

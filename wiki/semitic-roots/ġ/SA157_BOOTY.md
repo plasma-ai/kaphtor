@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/SA157_BOOTY
 title: "*ġnm: 'BOOTY'"
-desc: "Epigraphic South Arabian headword *ġnm, 'BOOTY': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *ġnm, 'BOOTY': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA157"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ġnm (Biella 396; Sabaweb lemma 1231) | Biella 396; Sabaweb lemma 1231 | gloss withheld |
 | Arabic | Ar ġanima Ar ġnm h (Biella 396) | Biella 396 |  |
+| Pre-Islamic North Arabian | Safaitic ġnmt; ġnm; ġnm (D); Hismaic ġnmt; Dumaitic ġnm (Al-Jallad 2026, 56) | Al-Jallad 2026 56 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

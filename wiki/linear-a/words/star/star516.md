@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star516
 title: "*516"
-desc: "šipru: transaction/account marker; possible account or register logogram. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+desc: "šipru: account, register (šipru), a transaction logogram. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "logogram", "transaction_sign"]
 kind: "word"
 form: "*516"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | šipru |
-| Meaning | transaction/account marker; possible account or register logogram |
+| Meaning | account, register (šipru), a transaction logogram |
 | Root | s-p-r |
 | Proto-Semitic | \*sapVr- (#2701) |
-| Language layer | Semitic comparison |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | accounting, administrative, logogram, transaction_sign |
 | Semantic field | administrative |
 
 ### Note
 
-Administrative logogram, identified by SigLA as a transaction sign on HT118. Ten occurrences across Haghia Triada, Khania, and Zakros; nine stand alone, several head quantified entries, and two occur on sealed Khania roundels. SI-\*516 may be an /s/-onset phonetic complement, permitting comparison with Ugaritic spr 'tablet, register' and Hebrew sēper/sōpēr. The value remains CANDIDATE because no full phonetic spelling is attested.
+An administrative logogram, a transaction sign on HT 118 (SigLA). Ten occurrences at Haghia Triada, Khania and Zakros: nine stand alone, several head quantified entries, and two are on sealed Khania roundels. SI-\*516 reads as an s-onset phonetic complement, the ground for Ugaritic spr 'tablet, register' and Heb. sēper/sōpēr. Weak point: no full phonetic spelling is attested.
 
 ### Cognates
 

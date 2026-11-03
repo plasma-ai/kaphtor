@@ -14,14 +14,16 @@ and read its output is [docs/shoresh-usage.md](../../docs/shoresh-usage.md).
 |---|---|
 | §0 | Why the engine reports calibrated p-values rather than raw distances |
 | §1 | The statistic d\*(w): the minimum over root clusters, skeleton variants and keys of `weighted_levenshtein` (guttural-transparent, `SEMITIC_DISTANCES`) plus the variant's penalty. The verb and historical lenses stay out of d\*; onomastic clusters are out unless `--names` |
-| §2 | Three decoy families per word, N = 1,000 each, seeded per word: A, sign shuffle; B, matched fabrication; C, sign-value permutation. p\_F = (1 + #{decoys with d\* ≤ d\*(w)}) / (1 + N\_F); the verdict uses p\_max over the families. Also the competitor null (Luwian, Egyptian, Hurrian) |
+| §2 | Three decoy families per word, N = 1,000 each, seeded per word: A, sign shuffle; B, matched fabrication; C, sign-value permutation. p\_F = (1 + #{decoys with d\* ≤ d\*(w)}) / (1 + N\_F); the verdict uses p\_max over the families. Also the competitor null (Luwian, Egyptian, Hurrian, Hattic) |
 | §3 | Verdicts, first rule that applies: `UNINFORMATIVE` (≤ 2 consonants, or more than 90% of family-B decoys at d\* ≤ 0.3), `NO_SIGNAL` (p\_max ≥ 0.05), `CONVERGENT` (p\_max < 0.01, semantic fit, POS where a verbal parse is used, every competitor p\_max ≥ 0.05), else `PHONOLOGICAL_ONLY`. Report-only |
 | §3.1 | The semantic gate fails closed: an unknown context is "no semantic evidence" and can never be `CONVERGENT` |
 | §3.2 | A verbal-template parse counts only if the matched lexeme is a verb or participle |
 | §4 | Success criteria on the gold set (positives, negatives, controls): recovery, discrimination, control false positives, calibration, real minus shuffled, speed |
 | §5 | The baseline of the earlier matcher, measured before Shoresh |
 | §6 | The amendments below |
+| §7.1 | What goes stale on a data change; every report stamped with the sha256 of the inputs it read (word list, index, corpus) |
 | §7.3 | `build_root_index.py --diff`, read-only: record diff, key diff, the impact set (words whose d\* can change) and an impact preview |
+| §7.4 | Recalibration after a rebuild: the gold run, `--calibrate`, not built |
 | §7.7 | Long runs read a frozen copy of the data, not the live files |
 | §8 | What the index holds, and how a lexeme joins a cluster: by `fk`, or by an exact sound link with gloss overlap |
 
@@ -50,9 +52,11 @@ and read its output is [docs/shoresh-usage.md](../../docs/shoresh-usage.md).
 | A19 | Adjacency skips line breaks and dividers; spelling variants and fused logograms; controls scored under their positive's context |
 | A20 | ZU reads ṯ, z, ḏ or ẓ, primary first (A11 polyphony); family B keeps a word's number of readings, not of polyphonic slots; over A17's cap of 8, the readings fewest steps down the signs' options are kept, ties broken by sign and never by place; `--conventional-values` is a report-only sensitivity run on Linear B values, outside the statistic, whose gold guard also holds back a spelling that reads as a gold word by Linear B values |
 | A21 | ZU writes ṯ, ḏ and ẓ before every vowel (`FULL_SERIES`): A9's speller and the power study's Semitic plants write them with ZU; a competitor's plants are spelled without those rows (`competitor_series`); the sound laws' inventory is the Linear B grid's 13 consonants with ṯ, ḏ and ẓ |
+| A23 | Hattic, a fourth competitor on A15's terms (`hattic_roots.json`, `HATTIC_DISTANCES`); divine epithets and ethnics count as names for every competitor; `CONVERGENT` needs all four at p\_max ≥ 0.05, and A9 reports the share of Semitic plants any competitor rejects |
 
 ## Other ids
 
 | Id | Fixes |
 |---|---|
+| D14 | Shoresh's k ↔ ḫ at 0.3 (A11), added to each competitor's table on the letters its file writes the velar fricative with: ḫ for Egyptian and Hattic, ḫ and h for Luwian and Hurrian (`competitors.table`) |
 | L6 | The earlier competing-language test (`null_model_audit.py`), whose key extraction, defaults and guttural transparency the competitor null keeps |

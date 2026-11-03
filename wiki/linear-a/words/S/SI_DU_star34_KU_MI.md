@@ -1,13 +1,13 @@
 ---
 name: wiki/linear-a/words/S/SI_DU_star34_KU_MI
 title: "SI-DU-*34-KU-MI"
-desc: "ṣidqī-kummī: Seat of Righteousness (toponym/institutional name). Onomasticon toponym; lexicon entry SI-DU-QI-KU-MI."
+desc: "Ṣiduqi-kummi: the cella of Ṣiduq, the Just One (heading an aromatic list). Onomasticon toponym; lexicon entry SI-DU-QI-KU-MI."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "SI-DU-*34-KU-MI"
 datasets: ["onomasticon"]
 attestations: ["HT110a"]
-reading: "ṣidqī-kummī"
+reading: "Ṣiduqi-kummi"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -32,8 +32,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ṣidqī-kummī |
-| Meaning | Seat of Righteousness (toponym/institutional name) |
+| Reading | Ṣiduqi-kummi |
+| Meaning | the cella of Ṣiduq, the Just One (heading an aromatic list) |
 | Type | toponym (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
@@ -45,6 +45,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-NWS √ṣ-d-q + Akkadian kummu A 'cella, private room (of a temple or palace)' (CAD K 533). Rival: 'Ṣidq of Kummi', with Kummi the city of Tešub and Kummeni his epithet (Laroche 1980, 154). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo's Sydyk)—theophoric 'Shrine of Ṣedeq' also possible. HT110a writes \*34; the reading takes it as QI, against Linear B \*34 = ai₂.
+Reading from the lexicon (di Mino).
 
 <!-- END kaphtor:record -->

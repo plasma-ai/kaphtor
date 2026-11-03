@@ -48,6 +48,6 @@ The only word on each of two Early Bronze Age clay spindle whorls from Troy; God
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-TRO Zg 1 and 2, clay spindle whorls from Troy, late Troy II or early Troy III, 2700/2600–2250 BCE (Waal 2017, 115–16; Schliemann, Atlas, Taf. 13 No. 432, Taf. 6 No. 208); one text, five signs around the hole. Godart's 39-73-59-37-76 is read here as 39-73-37-59-76: the arch with an inner stroke is TI and the open C is TA (Schmidt 1902, Taf. VI, Kat. 5212); Godart calls AB37 'très douteuse' and reads 51 for the TROZg2 first sign, which has PI's bowl and stalk (Godart 1994, 723). Zurbach and Waal judge the signs hardly Linear A (Kloekhorst 2022, 203 n. 1). No reading.
+TRO Zg 1 and 2, clay spindle whorls from Troy, late Troy II or early Troy III, 2700/2600–2250 BCE (Waal 2017, 115–16; Schliemann, Atlas, Taf. 13 No. 432, Taf. 6 No. 208); one text, five signs around the hole. Godart's 39-73-59-37-76 is read here as 39-73-37-59-76: the arch with an inner stroke is TI and the open C is TA (Schmidt 1902, Taf. VI, Kat. 5212); Godart calls AB37 'très douteuse' and reads 51 for the TROZg2 first sign, which has PI's bowl and stalk (Godart 1994, 723). Zurbach and Waal judge the signs hardly Linear A (Kloekhorst 2022, 203 n. 1). A Troy inscription, outside the Cretan corpus. No reading.
 
 <!-- END kaphtor:record -->

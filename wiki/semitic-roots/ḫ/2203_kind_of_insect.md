@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2203_kind_of_insect
 title: "*ḫVnz(iz)-: 'kind of insect'"
-desc: "Proto-Semitic *ḫVnz(iz)-, 'kind of insect': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḫVnz(iz)-, 'kind of insect': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2203"
@@ -34,7 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ḫanzizītu (ḫazzizētu) SB \[CAD ḫ 83\], \[AHw. 321\] | CAD ḫ 83; AHw. 321 | gloss withheld |
 | Gurage | Cha. Eža Enm. End. Gyt. ǝnzǝz, Muh. Msq. Gog. Sod. ǝnzizza \[LGur. 78\]. | LGur. 78 | gloss withheld |
 | Amharic | ǝnzǝz, ǝnziz \[K 1228\]. | K 1228 | gloss withheld |
-| Tigrinya | ḥǝnǯiǯ 'a kind of hornet' \[Bass. 58\]. | Bass. 58 |  |
+| Tigrinya | ḥǝnǯiǯ \[Bass. 58\]; ḥǝnǯǝǯ, ḥǝnžiž (K Tna. 245 apud SED II 152) | Bass. 58; K Tna. 245; SED II 152 | gloss withheld |
+| Geez | ḥənzəz (LGz. 239) | LGz. 239 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

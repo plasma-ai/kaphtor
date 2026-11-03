@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/912_be_ill_tempered
 title: "*kVʕVs-: 'be ill-tempered'"
-desc: "Proto-Semitic *kVʕVs-, 'be ill-tempered': reflexes in 1 language(s)."
+desc: "Proto-Semitic *kVʕVs-, 'be ill-tempered': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "912"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | kʕs |  |  |
+| Aramaic | kʕs (DNWSI 528) | DNWSI 528 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

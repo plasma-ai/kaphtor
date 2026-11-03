@@ -217,7 +217,7 @@ def cmd_word(args: argparse.Namespace) -> None:
     if "linear_a_form" in lex_cols:
         clauses.append("linear_a_form ILIKE ?")
     _show(con, f"""
-        SELECT word, reading, root, meaning, confidence, category, language_layer
+        SELECT word, reading, root, meaning, confidence, array_to_string(tags, ', ') AS tags, language_layer
         FROM lexicon WHERE {' OR '.join(clauses)} ORDER BY confidence, word
     """, [pattern] * len(clauses), as_json=args.json)
     if not args.json:
@@ -232,7 +232,7 @@ def cmd_root(args: argparse.Namespace) -> None:
     con = _get_connection()
     pattern = f"%{args.root}%"
     _show(con, """
-        SELECT word, reading, root, meaning, confidence, category
+        SELECT word, reading, root, meaning, confidence, array_to_string(tags, ', ') AS tags
         FROM lexicon WHERE root ILIKE ? ORDER BY confidence, word
     """, [pattern], as_json=args.json)
 
@@ -415,7 +415,7 @@ def cmd_xref(args: argparse.Namespace) -> None:
     print(f"=== Cross-reference: {word} ===\n")
 
     lex = con.execute("""
-        SELECT word, reading, root, meaning, confidence, category
+        SELECT word, reading, root, meaning, confidence, array_to_string(tags, ', ') AS tags
         FROM lexicon WHERE word = ?
     """, [word]).fetchall()
     if lex:

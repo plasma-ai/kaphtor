@@ -1,13 +1,14 @@
-"""Shoresh competitor null (§2, A15; see SHORESH.md): the same d* and p_max against the Luwian, Egyptian and Hurrian root lists.
+"""Shoresh competitor null (§2, A15; Hattic by A23; see SHORESH.md): the same d* and p_max against the Luwian, Egyptian, Hurrian
+and Hattic root lists.
 
 The keys are the L6 test's (shoresh_nulls, from null_model_audit): the `Consonantal_Root` of each entry through
 `_extract_consonantal_root`, accented vowels it leaves removed too, and kept only when what remains is letters (the
 OCR-damaged Hurrian keys are not) with at least two tokens. Names are out unless names=True, as onomastica are on
-the Semitic side (§1): L6's `_is_onomastic`, Hurrian name categories, Egyptian entries with name elements, toponyms.
-Each competitor has its own table, guttural transparency as in L6, and an exact search over every key; the real
-word and its decoys are the ones the Semitic statistic uses.
+the Semitic side (§1): L6's `_is_onomastic`, the shared name categories, Egyptian entries with name elements, toponyms.
+Each competitor has its own table, with Shoresh's script-side k ~ ḫ (D14), guttural transparency as in L6, and an
+exact search over every key; the real word and its decoys are the ones the Semitic statistic uses.
 
-Report-only: reads the three data files, writes nothing.
+Report-only: reads the four data files, writes nothing.
 
 Attribution: di Mino
 """
@@ -29,6 +30,7 @@ try:
         EGYPTIAN_DISTANCES,
         GUTTURAL_INSERT_COST,
         GUTTURAL_PHONEMES,
+        HATTIC_DISTANCES,
         LUWIAN_DISTANCES,
         SEMITIC_DISTANCES,
     )
@@ -40,14 +42,17 @@ except ImportError:
         EGYPTIAN_DISTANCES,
         GUTTURAL_INSERT_COST,
         GUTTURAL_PHONEMES,
+        HATTIC_DISTANCES,
         LUWIAN_DISTANCES,
         SEMITIC_DISTANCES,
     )
     from tools.core.shoresh_nulls import _extract_consonantal_root, _is_onomastic
     from tools.paths import LINEAR_A_DATA, require
 
-DATA_DIR = LINEAR_A_DATA        # where data_cache.data_path keeps the Egyptian, Luwian and Hurrian roots
-_HURRIAN_NAMES = frozenset({"personal_name", "royal_name", "name_element", "divine_name", "toponym"})
+DATA_DIR = LINEAR_A_DATA        # where data_cache.data_path keeps the Egyptian, Luwian, Hurrian and Hattic roots
+# Name categories, shared by every competitor's file (the Hurrian ones, and Hattic's epithets and ethnics).
+_NAME_CATEGORIES = frozenset({"personal_name", "royal_name", "name_element", "divine_name", "toponym",
+                              "divine_epithet", "ethnic"})
 
 
 @dataclass(frozen=True)
@@ -57,20 +62,33 @@ class Spec:
     distances: dict[tuple[str, str], float]
     guttural_transparent: bool = True       # L6: Linear A cannot write a guttural, whatever the language
     digraphs: bool = True                   # bare ts, sh, kw, gw are one phoneme in this file's romanisation
+    fricative: tuple[str, ...] = ("ḫ",)     # the letters this file writes the velar fricative with (D14)
 
+
+# D14 (A23): Shoresh's own k ~ ḫ (A11), script-side, added to each competitor's table on its fricative letters.
+# The base tables stay as they are: a search whose Semitic side lacks it too loads with script_side=False.
+K_FRICATIVE = rm.SHORESH_DISTANCES[("k", "ḫ")]
 
 COMPETITORS = (
-    Spec("luwian", "luwian_roots.json", LUWIAN_DISTANCES),       # LUWIAN_DISTANCES prices kw and gw
-    Spec("egyptian", "egyptian_roots.json", EGYPTIAN_DISTANCES, digraphs=False),   # one letter per phoneme
-    Spec("hurrian", "hurrian_roots.json", SEMITIC_DISTANCES),     # no Hurrian table: weighted_levenshtein's default
+    Spec("luwian", "luwian_roots.json", LUWIAN_DISTANCES, fricative=("ḫ", "h")),   # prices kw, gw; ḫ also written h
+    Spec("egyptian", "egyptian_roots.json", EGYPTIAN_DISTANCES, digraphs=False),   # one letter a phoneme; h glottal
+    Spec("hurrian", "hurrian_roots.json", SEMITIC_DISTANCES, fricative=("ḫ", "h")),   # no Hurrian table; Ḫebat hebat
+    Spec("hattic", "hattic_roots.json", HATTIC_DISTANCES, digraphs=False),   # Soysal's stems: one letter per phoneme
 )
+
+
+def table(spec: Spec, script_side: bool = True) -> dict[tuple[str, str], float]:
+    """The competitor's table, with D14's k ~ fricative rows unless script_side is False."""
+    if not script_side:
+        return spec.distances
+    return {**spec.distances, **{("k", x): K_FRICATIVE for x in spec.fricative}}
 _DIGRAPHS = {"ts": "ṣ", "sh": "š", "kw": "kw", "gw": "gw"}       # _tokenize_phonemes's bare-letter digraphs
 
 
 def is_name(entry: dict[str, Any]) -> bool:
     if _is_onomastic(entry) or entry.get("Name_Elements"):
         return True
-    if _HURRIAN_NAMES & set(str(entry.get("Category") or "").split(",")):
+    if _NAME_CATEGORIES & set(str(entry.get("Category") or "").split(",")):
         return True
     return "toponym" in (entry.get("semantic_field") or ())
 
@@ -124,6 +142,7 @@ class CompetitorSpace:
                  guttural_transparent: bool = True, dropped: dict[str, int] | None = None):
         self.name = name
         self.keys = keys                            # tokens → the Numbers that carry them
+        self.distances = distances                  # the table it was loaded with (D14's rows included)
         self.dropped = dict(dropped or {})
 
         @cache
@@ -248,7 +267,7 @@ class CompetitorSpace:
         return {"key": "".join(k), "numbers": self.keys[k], "distance": rm._num(d), "variant_rule": v.rule}
 
 
-def load(spec: Spec, names: bool = False, data_dir: Path = DATA_DIR) -> CompetitorSpace:
+def load(spec: Spec, names: bool = False, data_dir: Path = DATA_DIR, script_side: bool = True) -> CompetitorSpace:
     entries = json.loads(require(data_dir / spec.file, spec.file).read_text(encoding="utf-8"))
     keys: dict[tuple[str, ...], list[str]] = {}
     dropped: Counter = Counter()
@@ -261,7 +280,7 @@ def load(spec: Spec, names: bool = False, data_dir: Path = DATA_DIR) -> Competit
             dropped["no_key"] += 1
             continue
         keys.setdefault(k, []).append(str(e.get("Number")))
-    return CompetitorSpace(spec.name, keys, spec.distances, spec.guttural_transparent, dropped)
+    return CompetitorSpace(spec.name, keys, table(spec, script_side), spec.guttural_transparent, dropped)
 
 
 def load_all(names: bool = False, data_dir: Path = DATA_DIR) -> list[CompetitorSpace]:

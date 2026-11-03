@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2767_to_write_inscribe
 title: "*katVb-: 'to write, inscribe'"
-desc: "Proto-Semitic *katVb-, 'to write, inscribe': reflexes in 8 language(s)."
+desc: "Proto-Semitic *katVb-, 'to write, inscribe': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2767"
@@ -33,10 +33,12 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ktb (DULAT 463) | DULAT 463 | gloss withheld |
 | Phoenician | ktb (Krahmalkov 245); ktb (T 150) | Krahmalkov 245; T 150 | gloss withheld |
 | Hebrew | kātab (HALOT 503) | HALOT 503 | gloss withheld |
-| Aramaic | ʾaktābū(t) (OLA80 §42.9) | OLA80 §42.9 | gloss withheld |
+| Aramaic | ʾaktābū(t) (OLA80 §42.9); ktwb (DNWSI 547) | OLA80 §42.9; DNWSI 547 | gloss withheld |
 | Judaic Aramaic | mktbʾ (HALOT 582) | HALOT 582 | gloss withheld |
 | Syrian Aramaic | maktᵉbā (HALOT 582) | HALOT 582 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ktb (Al-Jallad–Jaworska 91) | Al-Jallad–Jaworska 91 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ktb (Al-Jallad–Jaworska 91); Dadanitic ktb (Al-Jallad 2026, 84) | Al-Jallad–Jaworska 91; Al-Jallad 2026 84 | gloss withheld |
+| Punic | N.Pu. ktbt (T 150); mktb (DNWSI 626) | T 150; DNWSI 626 | gloss withheld |
+| Biblical Aramaic | ktb (HALOT BArm. s.v. כתב) | HALOT BArm. s.v. כתב | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

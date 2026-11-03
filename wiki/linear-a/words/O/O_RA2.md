@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/O_RA2
 title: "O-RA₂"
 desc: "ʾŌl: the Foremost (name element), from 'priority, supremacy'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "onomastic"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "O-RA₂"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-28T13:27:44Z
 | Meaning | the Foremost (name element), from 'priority, supremacy' |
 | Root | ʾ-w-l |
 | Proto-Semitic | \*ʾawl- (#3783) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

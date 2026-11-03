@@ -40,8 +40,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | rūmatā-se |
 | Meaning | of / from Rūmatā (-SE derivative) |
-| Type | gentilic (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | gentilic (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

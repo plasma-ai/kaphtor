@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2162_brood
 title: "*gawzal-: 'brood'"
-desc: "Proto-Semitic *gawzal-, 'brood': reflexes in 5 language(s)."
+desc: "Proto-Semitic *gawzal-, 'brood': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2162"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | gōzālā 'brood, chick, esp. pigeon' \[Ja. 220\], gōzāl 'young bird' \[ibid. 220\], \[Levy WTM I 318\]. | Ja. 220; Levy WTM I 318 |  |
 | Syrian Aramaic | zūgallā 'young pigeon' \[Brock. 188\], \[PS 1081\]. | Brock. 188; PS 1081 |  |
 | Punic | gozol (Krahmalkov 138) | Krahmalkov 138 | gloss withheld |
+| Eblaitic | /gawzal/: name gú-za-la (Sanmartín GlOS 1, 194) | Sanmartín GlOS 1, 194 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

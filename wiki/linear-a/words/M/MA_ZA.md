@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_ZA
 title: "MA-ZA"
 desc: "mazza: corvée workers, labour gang (personnel term). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "personnel"]
 kind: "word"
 form: "MA-ZA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | corvée workers, labour gang (personnel term) |
 | Root | m-s-s |
 | Proto-Semitic | \*mass- (#S31) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-ZA 10b .2–3 MA-ZA 5, after U-\*49 6 and before MA-KI-DE-TE 5 (GORILA III 171), in a list that counts A-MI-TA ʾamita 'handmaid' 3. MA-ZA writes ma-za on primary values: Alalakh's z spelling, the geminate unwritten. A labour gang issued in a list, as Alalakh issues wages to the ma-zi. Rivals: the Eblaite name ma-za (Pagan 1998); the Hurrian name mzy, ma-zi-i (DULAT 600). See ME-ZA and MI-ZA-SE.
+ZA 10b .2–3 MA-ZA 5, after U-\*49 6 and before MA-KI-DE-TE 5 (GORILA III 171), in a list that counts A-MI-TA ʾamita 'handmaid' 3. MA-ZA writes ma-za on primary values: Alalakh's z spelling, the geminate unwritten. A labour gang issued in a list, as Alalakh issues wages to the ma-zi (CAD M/1 327). Rivals: the Eblaite name ma-za (Pagan 1998); the Hurrian name mzy, ma-zi-i (DULAT 600). See ME-ZA and MI-ZA-SE.
 
 ### Cognates
 
@@ -67,10 +67,14 @@ di Mino; CAD M/1
 | Type | title (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+
+### Note
+
+ZA 10b .2–3 MA-ZA 5 (GORILA III 171). Alalakh issues wages to the ma-zi (CAD M/1 327). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

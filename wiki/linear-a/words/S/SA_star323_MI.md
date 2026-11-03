@@ -34,10 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 29 .4 SA-\*323-MI 1, after DI-JA-I 2 (GORILA I 55). \*323 has no value. No reading.
 
 ### Co-occurring lexicon words
 

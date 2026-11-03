@@ -72,7 +72,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | royal allocation/account | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarr | the king's account (heading) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | contribution (abbreviation) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/V/VIN\|VIN]] | wayn | wine | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/P/PA_DE\|PA-DE]] | Padī | personal name (cf. Padi of Ekron) | SPECULATIVE | SPECULATIVE (lexicon) |

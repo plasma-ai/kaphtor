@@ -53,7 +53,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Aramaic | MAL ʕwr (SED I 276) | SED I 276 | gloss withheld |
 | Argobba | əwwər (SED I 276) | SED I 276 |  |
 | Gafat | əwwərä (LGz. 79) | LGz. 79 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʿwr (Al-Jallad–Jaworska 57) | Al-Jallad–Jaworska 57 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿwr (Al-Jallad–Jaworska 57); ʿwr (D); ʾʿwr (Al-Jallad 2026, 21) | Al-Jallad–Jaworska 57; Al-Jallad 2026 21 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

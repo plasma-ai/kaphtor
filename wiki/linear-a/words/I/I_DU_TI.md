@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_DU_TI
 title: "I-DU-TI"
 desc: "Yidu-ti: entity name: yidu 'strength' with TI. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "I-DU-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | entity name: yidu 'strength' with TI |
 | Root | yidu |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
-| Language layer | Eblaite |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

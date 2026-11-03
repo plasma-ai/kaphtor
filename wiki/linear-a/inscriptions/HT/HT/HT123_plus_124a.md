@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*308", "KI-RO", "KI-TA-I", "KU-RO", "OLIV", "SA-RU"]
+words: ["*308", "DA-TU", "KI-RO", "KI-TA-I", "KU-RO", "OLIV", "PU-VIN", "SA-RU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,14 +46,14 @@ Transliteration, line by line:
 5. \*308 8 ³⁄₄
 6. KI-RO .3
 7. SA-RU OLIV 16
-8. \*308 4 A701 (damaged)
+8. \*308 4 ≈ ¹⁄₆
 9. KI-RO ³⁄₄
 10. DA-TU OLIV 15
 11. \*308 4 ¹⁄₄
 12. KI-RO ³⁄₄
 13. KU-RO OLIV 93 ¹⁄₂
 14. \*308 𐄁
-15. KU-RO 25 A706
+15. KU-RO 25 ≈ ¹⁄₆
 16. KI-RO 6
 
 Unicode (Linear A block):
@@ -81,7 +81,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> Press-estate(?)—olives 31; pressed oil 8¼; owed 1 + X (X perhaps ¹⁄₁₂). PU-\*131A—olives 31½; pressed oil 8¾; owed X. Šarru (king/prince)—olives 16; pressed oil 4 + A (A701; damaged); owed ¾. DA-TU—olives 15; pressed oil 4¼; owed ¾. Total olives: 93½. Total pressed oil: 25 + H (A706; value disputed). Owed: 6.
+> Press-estate(?)—olives 31; pressed oil 8¼; owed 1 + X (X perhaps ¹⁄₁₂). The vat—olives 31½; pressed oil 8¾; owed X. Šarru (king/prince)—olives 16; pressed oil 4 + A (A701; damaged); owed ¾. She of (…)—olives 15; pressed oil 4¼; owed ¾. Total olives: 93½. Total pressed oil: 25 + H (A706; value disputed). Owed: 6.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/O/OLIV\|OLIV]] | \[ideogram\] | olives |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/star/star308\|\*308]] | šamnu | pressed oil, oil derivative | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed, outstanding balance | CONFIRMED | CONFIRMED (lexicon) |
-| [[wiki/linear-a/words/P/PU_VIN\|PU-VIN]] | \[unknown\] | recipient heading (personal name or institution) |  | unread |
+| [[wiki/linear-a/words/P/PU_VIN\|PU-VIN]] | pūra | the (wine-)vat, a pressing unit | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king, prince (recipient category) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DA_TU\|DA-TU]] | \[unknown\] | recipient or allocation heading |  | unread |
+| [[wiki/linear-a/words/D/DA_TU\|DA-TU]] | ḏātu | She of (…), a woman named by her house (personal name); rival daṯʾu 'spring pasture' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total, sum | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
@@ -100,13 +100,13 @@ GORILA I, 210–211: olive and oil account on two joining fragments, written ove
 
 ### Source
 
-- di Mino: \*308, SA-RU, KI-TA-I, KI-RO
+- di Mino: \*308, SA-RU, KI-TA-I, KI-RO, DA-TU, PU-VIN
 - GORILA I, 210–211: transcription, damage, fractions
 - Gordon 1966: KU-RO
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KI_TA_I|KI-TA-I]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/O/OLIV|OLIV]], [[wiki/linear-a/words/S/SA_RU|SA-RU]].
+[[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/D/DA_TU|DA-TU]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KI_TA_I|KI-TA-I]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/O/OLIV|OLIV]], [[wiki/linear-a/words/P/PU_VIN|PU-VIN]], [[wiki/linear-a/words/S/SA_RU|SA-RU]].
 
 ## Edition differences
 

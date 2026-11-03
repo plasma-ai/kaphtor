@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Judaic Aramaic | JBA pšl (DJBA 944 apud SEDonline 1877) | DJBA 944; SEDonline 1877 | gloss withheld |
 | Syrian Aramaic | pšl (LSyr. 613, SL 1261 apud SEDonline 1877) | LSyr. 613, SL 1261; SEDonline 1877 | gloss withheld |
-| Mandaic Aramaic | pšl (MD 382 apud SEDonline 1877) | MD 382; SEDonline 1877 | gloss withheld |
+| Mandaic Aramaic | pšl (MD 382) | MD 382 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

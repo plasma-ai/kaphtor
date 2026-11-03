@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1913_throat
 title: "*girān-: 'throat'"
-desc: "Proto-Semitic *girān-, 'throat': reflexes in 4 language(s)."
+desc: "Proto-Semitic *girān-, 'throat': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1913"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | gārōn (HALOT 202). | HALOT 202 | gloss withheld |
 | Syrian Aramaic | gǝnārā 'dewlap' \[Brock 126\]; also gūnārā 'throat, dewlap' \[ibid.\] | Brock 126 |  |
 | Akkadian | girru, girānu (HALOT 202) | HALOT 202 |  |
+| Judaic Aramaic | gārōnā (SED I 89) | SED I 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

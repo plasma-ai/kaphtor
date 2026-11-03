@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | Off. dnḥ (DNWSI 256 apud SEDonline 1398) | DNWSI 256; SEDonline 1398 | gloss withheld |
+| Aramaic | Off. dnḥ (DNWSI 256) | DNWSI 256 | gloss withheld |
 | Judaic Aramaic | JPA dnḥ (DJPA 153 apud SEDonline 1398) | DJPA 153; SEDonline 1398 | gloss withheld |
 | Syrian Aramaic | dnḥ (LSyr. 159, SL 312 apud SEDonline 1398) | LSyr. 159, SL 312; SEDonline 1398 | gloss withheld |
 

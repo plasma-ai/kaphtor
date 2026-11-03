@@ -31,14 +31,14 @@ updated: 2026-10-24T15:25:56Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ẓurar-, ẓirr- 1 |  |  |
-| Akkadian | ṣurru 1 |  |  |
+| Akkadian | ṣurru 1 (AHw 1114) | AHw 1114 |  |
 | Mandaic Aramaic | ṭur- |  |  |
 | Ugaritic | ɣr; ṣr (DULAT 779) | DULAT 779 | gloss withheld |
 | Biblical Aramaic | ṭūr |  |  |
 | Modern Aramaic | Urm ṭūr- |  |  |
 | Hebrew | ṣōr 1; ṣūr (HALOT 1016) | HALOT 1016 | gloss withheld |
 | Phoenician | ṣr (Krahmalkov 421) | Krahmalkov 421 | gloss withheld |
-| Epigraphic South Arabian | ẓwr 2 (Sabaweb lemma 5554) | Sabaweb lemma 5554 | gloss withheld |
+| Epigraphic South Arabian | ẓwr 2 (Sabaweb lemma 5554); Sab ẓrn 2 (Biella 224) | Sabaweb lemma 5554; Biella 224 | gloss withheld |
 | Syrian Aramaic | ṭūr- |  |  |
 | Aramaic | Pal ṭwr 2 |  |  |
 | Judaic Aramaic | ṣirrā, ṣryrʾ, ṣərārā (HALOT 1052, 1055); ṭūrā (HALOT 1016) | HALOT 1052, 1055; HALOT 1016 | gloss withheld |

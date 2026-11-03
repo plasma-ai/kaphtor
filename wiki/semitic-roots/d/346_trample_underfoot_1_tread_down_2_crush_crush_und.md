@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/346_trample_underfoot_1_tread_down_2_crush_crush_und
 title: "*dVw/yVš- ~ *dVʕ/hVš-: 'trample underfoot' 1, 'tread down' 2, 'crush', 'crush underfoot' 4, 'thresh' 4"
-desc: "Proto-Semitic *dVw/yVš- ~ *dVʕ/hVš-, 'trample underfoot' 1, 'tread down' 2, 'crush', 'crush underfoot' 4, 'thresh' 4: reflexes in 12 language(s)."
+desc: "Proto-Semitic *dVw/yVš- ~ *dVʕ/hVš-, 'trample underfoot' 1, 'tread down' 2, 'crush', 'crush underfoot' 4, 'thresh' 4: reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "346"
@@ -42,6 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | däḥasä (LGz. 128) | LGz. 128 | gloss withheld |
 | Amharic | dasä (LGz. 128) | LGz. 128 | gloss withheld |
 | Gurage | dasä (LGz. 128) | LGz. 128 | gloss withheld |
+| Biblical Aramaic | dwš 2 (HALOT BArm. s.v. דושׁ) | HALOT BArm. s.v. דושׁ | gloss withheld |
+| Aramaic | dāš 1 (LGz. 145) | LGz. 145 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

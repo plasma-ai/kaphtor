@@ -34,23 +34,23 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tegi |
 | Meaning | Tegi 'Beautiful' (personal name; Hurrian tagi/tegi 'beautiful') |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-HT 13 .3–4 TE-KI 27½, after TE-TU 56 and before KU-ZU-NI 18, under KA-U-DE-TA VIN · TE · (GORILA I 27). HT 122a .3 TE-KI 2, before QA-\*310-I 3 (GORILA I 207). HT 85a writes TE-KE 3 in the same set of units (DA-SI-\*118, KU-ZU-NI), counted under VIR. Hurrian tagi 'beautiful' as a bare-stem name; the Ras Shamra form te-gi-še has e in the first syllable, as TE-KI does. Rival: PS \*diḳ(ḳ)- 'small' (Ug. dḳ, DULAT 275). A two-sign name: the vowel match, not the consonants, separates it from chance.
+HT 13 .3–4 TE-KI 27½, after TE-TU 56 and before KU-ZU-NI 18, under KA-U-DE-TA VIN · TE · (GORILA I 27). HT 122a .3 TE-KI 2, before QA-\*310-I 3 (GORILA I 207). HT 85a writes TE-KE 3 in the same set of units (DA-SI-\*118, KU-ZU-NI), counted under VIR. Hurrian tagi 'beautiful' (Laroche 1980, 249) as a bare-stem name, as Amarna ¹ta-gi (Hess 1993, no. 164); the Ras Shamra form te-gi-še has e in the first syllable, as TE-KI does. Rival: PS \*diḳ(ḳ)- 'small' (Ug. dḳ, DULAT 275). Two attestations.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hurrian | tagi 'beau', RS voc. te-gi-še 'beau prix'; onom. Tagi(b)-šarri, Tagu(b)-šini, Taguya (Laroche 1980, 249–50); bare name Taki 'good', ta-gi (Mari, VHN 290), ta-ki (Šušarrā), ta-ki-e (Kaneš) (Monti 2017, 299, 413, 456) |
+| Hurrian | tagi 'beau', RS voc. te-gi-še 'beau prix'; onom. Tagi(b)-šarri, Tagu(b)-šini, Taguya (Laroche 1980, 249–50); bare name Taki 'good', ta-gi (Mari, VHN 290), ta-ki (Šušarrā), ta-ki-e (Kaneš) (Monti 2017, 299, 413, 456); Amarna ¹ta-gi, ¹ta-a-gi, a Hurrian name (Hess 1993, no. 164) |
 | Ugaritic | tg PN, Hurrian (DULAT 847) |
 
 ### Source
 
-di Mino; Laroche 1980; Monti 2017
+di Mino; Laroche 1980; Monti 2017; Hess 1993
 
 ## Attestations
 
@@ -70,7 +70,7 @@ di Mino; Laroche 1980; Monti 2017
 
 | Field | Value |
 |---|---|
-| Type | personal name (CANDIDATE) |
+| Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |

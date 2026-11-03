@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 7
-2. AB21/OVISF 46
+2. OVISf 46
 
 ## Edition differences
 

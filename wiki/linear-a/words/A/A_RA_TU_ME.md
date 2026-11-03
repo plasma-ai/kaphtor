@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RA_TU_ME
 title: "A-RA-TU-ME"
 desc: "ʾarṣ̂atum: earth (feminine noun with mimation—cf. Akk. erṣetum). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "administrative", "hapax", "noun"]
 kind: "word"
 form: "A-RA-TU-ME"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | earth (feminine noun with mimation—cf. Akk. erṣetum) |
 | Root | ʾ-r-ṣ̂ |
 | Proto-Semitic | \*ʾar(V)ṣ̂- (#768) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | administrative, hapax, noun |
 | Semantic field | toponym |
 
 ### Note
 
-Hapax heading on roundel HTWc3024. Mimated form of A-RA-TU (CANDIDATE, ZA7a). Akk. erṣetum shows regular feminine mimation; if Minoan uses East-Semitic-style case mimation (both genders), ʾarṣ̂atum is regular. Amorite feminine names keep -atum: Ḥananatum, Ḥayyatum (Gelb AS 21 nos. 477, 1809). Sole feminine mimation candidate in corpus (14 fem. -at tokens otherwise unmimated). Context: roundel = sealed receipt, heading = citation form where mimation expected. See A-RE-TU-MI.
+Hapax heading on the roundel HT Wc 3024. Mimated form of A-RA-TU (ZA 7a). Feminine mimation is the Proto-Semitic nonbound singular, \*ṭāb-at-u-m (Huehnergard 2019, 59–60, Table 3.7), kept in Akk. erṣetum 'earth' (CAD E 308), Amorite a-še-ra-tum and ḫa-na-tum (George and Krebernik 2022, 131), and the names Ḥananatum, Ḥayyatum (Gelb 1980, nos. 477, 1809). The corpus's only feminine with mimation; masculine singulars take it rarely too (RI-SU-MA, MA-RU-ME). A roundel is a sealed receipt, and its heading names the item in citation form, where mimation stands. See A-RE-TU-MI.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Hapax heading on roundel HTWc3024. Mimated form of A-RA-TU (CANDIDATE, ZA7a). Ak
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2019; CAD E; George and Krebernik 2022; Gelb 1980
 
 ## Attestations
 

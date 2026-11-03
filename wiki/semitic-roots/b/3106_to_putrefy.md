@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3106_to_putrefy
 title: "*bsbs: 'to putrefy'"
-desc: "Proto-Semitic *bsbs, 'to putrefy': reflexes in 5 language(s)."
+desc: "Proto-Semitic *bsbs, 'to putrefy': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3106"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | bäsäbbäsä (AED 898 apud SEDonline 1884) | AED 898; SEDonline 1884 | gloss withheld |
 | East Ethiopic | Sel. bisäbäsä, Wol. Zwy. bəsäbäsä (EDG 158 apud SEDonline 1884) | EDG 158; SEDonline 1884 | gloss withheld |
 | Gurage | Cha. End. Enn. Gye. bəsäbäsä, Ezha Muh. Msq. Gog. Sod. bəsäbbäsä (EDG 158 apud SEDonline 1884) | EDG 158; SEDonline 1884 | gloss withheld |
+| Tigre | bäsbäsa (LGz. 109) | LGz. 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_ZU_NI
 title: "KU-ZU-NI"
 desc: "Kuṯinu: personal name, as Ugaritic Kušinu (kṯn). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "loanword", "personal_name"]
 kind: "word"
 form: "KU-ZU-NI"
 datasets: ["lexicon", "onomasticon"]
@@ -33,13 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kuṯinu |
 | Meaning | personal name, as Ugaritic Kušinu (kṯn) |
-| Language layer | NWS |
-| Category | personal_name |
+| Root | Kuṯinu (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | loanword, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 13 KU-ZU-NI 18, in the KA-U-DE-TA wine list beside TE-TU (Ugaritic tt); HT 85a KU-ZU-NI 5, in a roster counted in men; both tablets also list DA-SI-\*118 and TE-KE/TE-KI. ZU writes ṯ as in ZU-DI ṯudī and A-ZU-RA ʾAṯrat: KU-ZU-NI spells Ugaritic kṯn, syllabic ku-ši-nu (RS 15.09 B I 7; Kinlaw 1967, 76), ki-še-na, ki-ši-na, etym. unc. (DULAT s.v. kṯn (I)). Cf. kṯn (II), compared with Hebrew Kûšān (Hab 3:7; Judg 3:8; Dijkstra, apud DULAT s.v. kṯn (II)). Rival: Ug. ktn 'tunic' (DULAT 464), which has t, not ṯ.
+HT 13 KU-ZU-NI 18, in the KA-U-DE-TA wine list beside TE-TU (Ugaritic tt); HT 85a KU-ZU-NI 5, in a roster counted in men; both tablets also list DA-SI-\*118 and TE-KE/TE-KI. ZU writes ṯ as in ZU-DI ṯudī and A-ZU-RA ʾAṯirat: KU-ZU-NI spells Ugaritic kṯn, syllabic ku-ši-nu (RS 15.09 B I 7; Kinlaw 1967, 76), ki-še-na, ki-ši-na, etym. unc. (DULAT s.v. kṯn (I)). Cf. kṯn (II), compared with Hebrew Kûšān (Hab 3:7; Judg 3:8; Dijkstra, apud DULAT s.v. kṯn (II)). Rival: Ug. ktn 'tunic' (DULAT 464), which has t, not ṯ.
 
 ### Cognates
 

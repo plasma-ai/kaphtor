@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MU_RU
 title: "MU-RU"
 desc: "mūru: young bull, young animal. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+tags: ["linear-a", "word", "tier-2", "commodity", "livestock", "noun"]
 kind: "word"
 form: "MU-RU"
 datasets: ["lexicon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | young bull, young animal |
 | Root | m-h-r |
 | Proto-Semitic | \*muhr- (#2243) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | commodity, livestock, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Syllabic spelling of the \*23M logogram word: MU-RU = mūru, both syllables exact. Counted 1 on HT3 and HT46a, as \*23M counts whole animals. HT30 carries the logogram \*23M, not MU-RU. Rival root: m-r-ʾ 'fatling' (Ug. mrỉ, DULAT 563).
+HT 3 MU-RU 1 and HT 46a MU-RU 1, the latter before KU-RO 43½: whole units, as \*23M counts whole animals. MU-RU spells mūru sign for sign, the proposed value of the \*23M logogram: Akk. mūru 'foal; calf' (CAD M/2 229–230). Rival: √m-r-ʾ 'fatling', Ug. mrỉ (DULAT 563). Two attestations.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ Syllabic spelling of the \*23M logogram word: MU-RU = mūru, both syllables exac
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; CAD M/2; DULAT
 
 ## Attestations
 

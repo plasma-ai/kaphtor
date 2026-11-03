@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Arabic | talā 'he followed' (Lane 313) | Lane 313 |  |
 | Pre-Islamic North Arabian | Safaitic tly (Al-Jallad–Jaworska 133) | Al-Jallad–Jaworska 133 | gloss withheld |
-| Epigraphic South Arabian | Sab tlw (Biella 533) | Biella 533 | gloss withheld |
+| Epigraphic South Arabian | Sab tlw (Biella 533); ytlwn, tlwn (SD 148) | Biella 533; SD 148 | gloss withheld |
 | Geez | talawa (LGz. 575) | LGz. 575 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_PA_KI
 title: "A-PA-KI"
 desc: "ʾabkī: I weep (G prefix form, 1cs); rival ʾabakki (G present). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "verb"]
+tags: ["linear-a", "word", "tier-1", "hapax", "verb"]
 kind: "word"
 form: "A-PA-KI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | I weep (G prefix form, 1cs); rival ʾabakki (G present) |
 | Root | b-k-y |
 | Proto-Semitic | \*bky- (#S44) |
-| Language layer | NWS |
-| Category | verb |
+| Language layer | Semitic |
+| Tags | hapax, verb |
 | Semantic field | verbal |
 
 ### Note
 
-KN Zb 40 line 1, incised on a pithoid jar. A = 1cs ʾa- (as in ʾata-inawaya), PA = b with a dead vowel, KI = kī: ʾabkī, the G prefix form, Hebrew ʾebkeh 'I weep' (Isa 16:9; Jer 48:32). Not D: a D 1cs takes ʾu- (Ar. ʾu-, Fischer 2002, §211b; Akk. ubakka). Rival: the G present ʾabakki, which fills every vowel: Akk. a-bak-ki (ORACC P273162, P338383); Geʿez bäkäyä 'flere, lamentari' (Dillmann 1865, no. 4035), yəqättəl imperfect (Gragg 1997, Table 13.3). The G present is East and South Semitic; Central Semitic lost it. Findspot: Unexplored Mansion, Knossos; LM II destruction deposit, jar typologically LM I, inscription probably LM IB (Popham 1976, Kadmos 15; Owens 1998–99, Talanta 30–31, 147–48); the Mansion's upper floor held a domestic shrine with a goddess figurine (Owens). Weak points: one attestation; a lament on a household storage jar needs the shrine context to carry it. Rival: ʾa-pak- "jug, bottle" (Heb. pak, a small flask, poor fit for a pithoid jar; Ug. bk "beaker").
+KN Zb 40 .1 A-PA-KI, then U-NA-A, incised on a pithoid jar from the Unexplored Mansion, Knossos, in an LM II destruction deposit, the jar typologically LM I and the inscription LM IB (Popham 1976, 102–106, apud Owens 1998–99, 148), with a domestic shrine and a goddess figurine on the upper floor (Owens 1998–99, 148). A writes the 1cs ʾa- (as in ʾata-inawaya), PA b with a dead vowel, KI kī: ʾabkī, the G prefix form, Heb. ʾebkeh 'I weep' (Isa 16:9; Jer 48:32). A- marks the G, since a D 1cs takes ʾu- (Ar. ʾu-, Fischer 2002, §211b; Akk. ubakka). Rivals: the G present ʾabakki, which fills every vowel, Akk. a-bak-ki (ORACC P273162, P338383), Geʿez bäkäyä 'flere, lamentari' (Dillmann 1865, no. 4035) with the yəqättəl imperfect (Gragg 1997, Table 13.3), a present East and South Semitic keep and Central Semitic lost, and ʾa-pak- 'jug, bottle', Heb. pak, a small flask (HALOT 926), a poor fit for a pithoid jar, with Ug. bk 'beaker' (DULAT 216). Weak point: a lament on a household storage jar rests on the shrine context. One attestation.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ KN Zb 40 line 1, incised on a pithoid jar. A = 1cs ʾa- (as in ʾata-inawaya), P
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; GlOS 1; Owens 1998–99; HALOT; DULAT
 
 ## Attestations
 

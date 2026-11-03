@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | napālu |  |  |
 | Ugaritic | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015 ch. 3 §5.2 no. 41 |  |
-| Phoenician | npl (Krahmalkov 333) | Krahmalkov 333 | gloss withheld |
+| Phoenician | npl (Krahmalkov 333); mplt (T 191) | Krahmalkov 333; T 191 | gloss withheld |
 | Hebrew | npl (Kogan 2015, ch. 3 §5.2 no. 41) | Kogan 2015 ch. 3 §5.2 no. 41 |  |
 | Syrian Aramaic | nfl |  |  |
 | Aramaic | B nfl |  |  |

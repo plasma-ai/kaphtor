@@ -5,7 +5,7 @@ desc: The confidence tiers, the tests a reading passes to rise a tier, and what 
 tags: [docs, linear-a]
 authors: "di Mino"
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-29T12:00:00Z
+updated: 2026-11-03T00:00:00Z
 ---
 
 # Confidence
@@ -43,9 +43,12 @@ Four tests decide a reading's tier. They are judgments recorded on the reading's
 
 Tests 1 and 4 assume a Semitic language: they rank readings within that hypothesis and do not test it. The tests of
 the hypothesis itself are pre-registered: `paradigm-b-preregistration.md` (run, with its result in
-`paradigm-b-result.md`), `shoresh-preregistration.md` and `meaning-shuffle-preregistration.md`.
+`paradigm-b-result.md`), `shoresh-preregistration.md`, `meaning-shuffle-preregistration.md`,
+`protocol-c-preregistration.md` (phases C0 and C1 built; no form scored) and `d7-structural-preregistration.md`
+(S3 run, with its result in `d7-structural-result.md`; S1 failed its gate on the controls and did not run on Linear A).
 
-*Not yet written:* the rescoring of every Semitic match against Luwian, Egyptian and Hurrian roots.
+The competitor null rescores every Semitic match against the Luwian, Egyptian, Hurrian and Hattic keys
+(`shoresh-usage.md`, The competitor null).
 
 ## Prohibited readings
 

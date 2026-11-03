@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3124_pierce_prick_butt_gore_beat
 title: "*wgʾ: 'pierce, prick, butt, gore, beat'"
-desc: "Proto-Semitic *wgʾ, 'pierce, prick, butt, gore, beat': reflexes in 11 language(s)."
+desc: "Proto-Semitic *wgʾ, 'pierce, prick, butt, gore, beat': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3124"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | wägga, aǧǧä (LGz. 607) | LGz. 607 |  |
 | East Ethiopic | Sel. Wol. aǧe, Zwy. aǧī \[LHar 81\] | LHar 81 |  |
 | Harari | ḥaǧa \[LHar 81\] | LHar 81 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wgʾ (Al-Jallad 2026, 164) | Al-Jallad 2026 164 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

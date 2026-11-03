@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/SA006_tamarisk_1_moringa_tree_2
 title: "*bay(a)n-: 'tamarisk' 1, 'moringa tree' 2"
-desc: "Epigraphic South Arabian headword *bay(a)n-, 'tamarisk' 1, 'moringa tree' 2: reflexes in 5 language(s)."
+desc: "Epigraphic South Arabian headword *bay(a)n-, 'tamarisk' 1, 'moringa tree' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA006"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | bīnu (Kogan 2011, 202) | Kogan 2011 202 | gloss withheld |
 | Eblaitic | ba-ne, ba-nu (Kogan 2011, 202; VE 395; Krebernik 1983, 15); ì-zu ba-ne(-um) /bayn/ 1 (Sanmartín GlOS 1, 135) | Kogan 2011 202; VE 395; Krebernik 1983, 15; Sanmartín GlOS 1, 135 | gloss withheld |
 | Syrian Aramaic | bīnā (Kogan 2011, 202) | Kogan 2011 202 | gloss withheld |
+| Ugaritic | bnt 1 (DULAT 230) | DULAT 230 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

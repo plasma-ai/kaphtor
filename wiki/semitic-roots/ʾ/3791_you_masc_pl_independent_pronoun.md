@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3791_you_masc_pl_independent_pronoun
 title: "*ʾantum(ū): 'you (masc. pl.)' (independent pronoun)"
-desc: "Proto-Semitic *ʾantum(ū), 'you (masc. pl.)' (independent pronoun): reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʾantum(ū), 'you (masc. pl.)' (independent pronoun): reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3791"
@@ -35,6 +35,8 @@ updated: 2026-10-31T13:28:57Z
 | Ugaritic | ảtm: šmʕ ảtm (KTU 1.22 II 13; DULAT 118) | KTU 1.22 II 13; DULAT 118 | gloss withheld |
 | Arabic | ʾantum 'you (masc. pl.)', beside ʾanta 'thou' (Lane 111) | Lane 111 |  |
 | Geez | ʾantəmu (LGz. 33) | LGz. 33 | gloss withheld |
+| Punic | Neo-Punic ʾtm (Krahmalkov 90) | Krahmalkov 90 | gloss withheld |
+| Biblical Aramaic | ʾantūn (HALOT 102) | HALOT 102 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

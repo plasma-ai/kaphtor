@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3706_to_offer_present_a_gift_a_sacrifice
 title: "*ʕrb: 'to offer, present (a gift, a sacrifice)'"
-desc: "Proto-Semitic *ʕrb, 'to offer, present (a gift, a sacrifice)': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕrb, 'to offer, present (a gift, a sacrifice)': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3706"
@@ -32,6 +32,7 @@ updated: 2026-10-27T22:12:55Z
 | Phoenician | ʿrbt (Krahmalkov 386) | Krahmalkov 386 | gloss withheld |
 | Hebrew | IV ʿrb qal (sacrifices, Hos 9:4) (HALOT 877) | HALOT 877 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿrb (Sabaweb lemma 3809); ʿrb (Sabaweb lemma 3812) | Sabaweb lemma 3809; Sabaweb lemma 3812 | gloss withheld |
+| Eblaitic | /ʕirb/: names ir₁₁-bu₁₆, ir-bí, ìr-bù-ga-ma-al₆ /ʕirbu=DN/, ìr-ba-su(m), ìr-ba-ša/šu (Sanmartín GlOS 1, 203) | Sanmartín GlOS 1, 203 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

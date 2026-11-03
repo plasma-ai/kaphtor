@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/y/3235_to_despair
 title: "*yʾš: 'to despair'"
-desc: "Proto-Semitic *yʾš, 'to despair': reflexes in 5 language(s)."
+desc: "Proto-Semitic *yʾš, 'to despair': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3235"
@@ -34,6 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Arabic | yaʾisa, ʾayisa (HALOT 382; LGz. 50) | HALOT 382; LGz. 50 | gloss withheld |
 | Geez | ʾesa (LGz. 50; HALOT 382) | LGz. 50; HALOT 382 | gloss withheld |
 | Epigraphic South Arabian | ʾs (HALOT 382) | HALOT 382 |  |
+| Pre-Islamic North Arabian | Safaitic ʾs (Al-Jallad 2026, 10); yʾs, tʾs; yʾs (D), ʾyʾs (Al-Jallad 2026, 171) | Al-Jallad 2026 10; Al-Jallad 2026 171 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -34,8 +34,4 @@ updated: 2026-10-31T13:28:57Z
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
-## Notes
-
-Not K0332 \*qaṣar- 'short' nor S29 \*ḳaṣVr- 'to harvest'.
-
 <!-- END kaphtor:record -->

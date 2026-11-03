@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/P/PI_TA_RA
 title: "PI-TA-RA"
 desc: "bidāla: trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation", "personnel"]
 kind: "word"
 form: "PI-TA-RA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl |
 | Root | b-d-l |
 | Proto-Semitic | \*badal- (#K0010) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | hapax, noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
@@ -67,5 +67,21 @@ di Mino; GlOS 1; Gelb 1980; Pagan 1998; ORACC aemw/ugarit
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT96a\|HT96a]] | bidāla | trade agents, a personnel group drawing grain; rivals bitāri 'portions', a recipient's name | SPECULATIVE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Note
+
+HT 96a .4 PI-TA-RA 1, whole, in a grain list (GORILA I 157): bidāla 'trade agents', the sign sequence of Ugarit bi-da-lu-ma, glossing LÚ.MEŠ DAM.GÀR 'merchants' (GlOS 1, 110). Rivals: bitāri 'portions' (GlOS 1, 130); the names Paṭir and Batūl (Gelb 1980, nos. 1151, 1153). See the lexicon entry. One witness.
 
 <!-- END kaphtor:record -->

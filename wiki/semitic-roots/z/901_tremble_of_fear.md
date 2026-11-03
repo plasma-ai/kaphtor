@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/901_tremble_of_fear
 title: "*zVwVʕ-: 'tremble of fear'"
-desc: "Proto-Semitic *zVwVʕ-, 'tremble of fear': reflexes in 7 language(s)."
+desc: "Proto-Semitic *zVwVʕ-, 'tremble of fear': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "901"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | zaʿzaʿa (LGz. 645) | LGz. 645 | gloss withheld |
 | Tigrinya | zaʿ bälä (LGz. 645) | LGz. 645 | gloss withheld |
 | Judaic Aramaic | zōʿătā, zīʿătā, zyʿtʾ (HALOT 267) | HALOT 267 | gloss withheld |
+| Biblical Aramaic | zwʕ (HALOT 267) | HALOT 267 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

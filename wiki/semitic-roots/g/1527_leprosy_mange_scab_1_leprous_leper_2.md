@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1527_leprosy_mange_scab_1_leprous_leper_2
 title: "*garab-: 'leprosy, mange, scab' 1, 'leprous; leper' 2"
-desc: "Proto-Semitic *garab-, 'leprosy, mange, scab' 1, 'leprous; leper' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *garab-, 'leprosy, mange, scab' 1, 'leprous; leper' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1527"
@@ -44,6 +44,7 @@ updated: 2026-10-26T14:26:59Z
 | Harsusi | garb \[JH 41\] | JH 41 | gloss withheld |
 | Amharic | gʷärräbä, gʷärba gʷärba alä \[K 1934\] | K 1934 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic grb (Al-Jallad–Jaworska 73) | Al-Jallad–Jaworska 73 | gloss withheld |
+| Emar | /garib/: names ga-ri-bu, ga-ri-bi 2 (Sanmartín GlOS 1, 186) | Sanmartín GlOS 1, 186 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

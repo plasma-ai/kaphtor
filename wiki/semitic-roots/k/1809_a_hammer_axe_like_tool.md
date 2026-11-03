@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʔaklat- (Blachère, Chouémi & Denizeau 1964, 166) | Blachère Chouémi & Denizeau 1964, 166 | gloss withheld |
+| Arabic | ʔaklat- (Blachère 166) | Blachère 166 | gloss withheld |
 | Akkadian | akkullu OAkk. on (CAD A/1 276), kullu Lex. (Ibid. k 508) | CAD A/1 276; CAD k 508 | gloss withheld |
 | Syrian Aramaic | ʔaklā 'hammer' (Brock. 17) | Brock. 17 |  |
 | Argobba | S. Arg. kalka (Leslau 1997, 208) | Leslau 1997, 208 | gloss withheld |

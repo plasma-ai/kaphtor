@@ -30,7 +30,7 @@ updated: 2026-10-28T06:21:26Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | śəruḫ; śarḫ, śārḫ; śərrāḫe, śurāḫe (LGz. 533) | LGz. 533 | gloss withheld |
-| Akkadian | šarāḫu A; šurruḫu (CAD Š/2 36); šarḫu (CAD Š/2 61) | CAD Š/2 36; CAD Š/2 61 | gloss withheld |
+| Akkadian | šarāḫu A (AHw 1182); šurruḫu (CAD Š/2 36); šarḫu (CAD Š/2 61) | AHw 1182; CAD Š/2 36; CAD Š/2 61 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

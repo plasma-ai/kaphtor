@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3646_to_hew_carve_quarry_stone
 title: "*wḳr: 'to hew, carve, quarry (stone)'"
-desc: "Proto-Semitic *wḳr, 'to hew, carve, quarry (stone)': reflexes in 8 language(s)."
+desc: "Proto-Semitic *wḳr, 'to hew, carve, quarry (stone)': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3646"
@@ -37,6 +37,7 @@ updated: 2026-10-26T15:47:57Z
 | Harari | wäqära (LGz. 616) | LGz. 616 |  |
 | Arabic | waqara (BK 2 1582) (Biella 146) (LGz. 616) (HALOT 1090) | BK 2 1582; Biella 146; LGz. 616; HALOT 1090 | gloss withheld |
 | Epigraphic South Arabian | Sab wqr (Biella 146); wqr (SD 161) | Biella 146; SD 161 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wqr; Ḥimaitic wqr (Al-Jallad 2026, 167) | Al-Jallad 2026 167 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

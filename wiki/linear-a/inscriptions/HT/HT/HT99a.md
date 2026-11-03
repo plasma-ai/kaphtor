@@ -43,7 +43,7 @@ Transliteration, line by line:
 1. A-DU 𐄁
 2. SA-RA₂ CYP 4
 3. NI 4
-4. VIN 1 A706 (≈ ¹⁄₆?)
+4. VIN 1 ≈ ¹⁄₆
 5. GRA+QE
 6. 𐝫
 

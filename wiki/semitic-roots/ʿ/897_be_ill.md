@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/897_be_ill
 title: "*ʕVl-: 'be ill'"
-desc: "Proto-Semitic *ʕVl-, 'be ill': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ʕVl-, 'be ill': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "897"
@@ -30,7 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ʕll |  |  |
+| Epigraphic South Arabian | Sab ʿll (Biella 368) | Biella 368 | gloss withheld |
+| Arabic | ʕll; ʿalla, ʿillaᵗ (Biella 368) | Biella 368 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿll; ʿll (Al-Jallad 2026, 14) | Al-Jallad 2026 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2741_womb_to_have_mercy_compassion
 title: "*rVḥVm-: 'womb; to have mercy, compassion'"
-desc: "Proto-Semitic *rVḥVm-, 'womb; to have mercy, compassion': reflexes in 21 language(s)."
+desc: "Proto-Semitic *rVḥVm-, 'womb; to have mercy, compassion': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2741"
@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | raḥm \[JJ 210\] (EAST) mǝrḥám \[JM 322\] | JJ 210; JM 322 | gloss withheld |
 | Judaic Aramaic | raḥămā, raḥmā 'orifice of the matrix, womb' \[Ja 1467\] | Ja 1467 |  |
 | Syrian Aramaic | raḥmā 'womb' \[Brock 724\] | Brock 724 |  |
-| Aramaic | DALLA rḥm \[HJ 1070\] | HJ 1070 | gloss withheld |
+| Aramaic | DALLA rḥm \[HJ 1070\]; rḥm (DNWSI 1068); rḥym (DNWSI 1067); rḥm (DNWSI 1069); rḥmh (DNWSI 1070); rḥmn (DNWSI 1071); rḥmnyt (DNWSI 1072) | HJ 1070; DNWSI 1068; DNWSI 1067; DNWSI 1069; DNWSI 1070; DNWSI 1071; DNWSI 1072 | gloss withheld |
 | Biblical Aramaic | rḥm (HALOT 1216) | HALOT 1216 |  |
 | Geez | maḥara, mĕḥĕra (HALOT 1216) | HALOT 1216 |  |
 | Tigrinya | mäḥarä; rəḥm-u (SED I 204) | SED I 204 | gloss withheld |
@@ -51,6 +51,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | marä (SED I 204–205) | SED I 204–205 | gloss withheld |
 | East Ethiopic | WOL marä, SEL ZWY mārä (SED I 205) | SED I 205 | gloss withheld |
 | Amorite | rḥm: jirḥam, jarḥam, raḥimum, raḥima (Gelb AS 21, 30); raḥmu, yirḥam (Buck 2019, 331); r-ḥ-m: ia-ar-ḫa-mu, ia-ar-ḫa-ma-an, ia-ar-a-mu-um; raḥm: ra-aḫ-ma-ia, ra-aḫ-mi-ì-lí, an-nu-ra-aḫ-mi (Sanmartín GlOS 2, 160) | Gelb AS 21 30; Buck 2019, 331; Sanmartín GlOS 2, 160 | gloss withheld |
+| Canaanite | raḥmān: name ra-aḫ-ma-nu (Sanmartín GlOS 2, 160) | Sanmartín GlOS 2, 160 | gloss withheld |
+| Punic | rḥm (DNWSI 1068) | DNWSI 1068 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

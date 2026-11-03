@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/SA008_be_distant_remove_after_behind
 title: "*bʕd: 'be distant; remove; after, behind'"
-desc: "Epigraphic South Arabian headword *bʕd, 'be distant; remove; after, behind': reflexes in 16 language(s)."
+desc: "Epigraphic South Arabian headword *bʕd, 'be distant; remove; after, behind': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA008"
@@ -38,13 +38,14 @@ updated: 2026-10-24T15:25:56Z
 | Tigre | baʿəd (LGz. 83) | LGz. 83 | gloss withheld |
 | Amharic | badä (LGz. 83) | LGz. 83 | gloss withheld |
 | Gurage | bada (LGz. 83) | LGz. 83 |  |
-| Pre-Islamic North Arabian | Safaitic bʿd (Al-Jallad–Jaworska 58) | Al-Jallad–Jaworska 58 | gloss withheld |
-| Mandaic Aramaic | baʕad (MD 49 apud SEDonline 1249) | MD 49; SEDonline 1249 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bʿd (Al-Jallad–Jaworska 58); Safaitic bʿd; bʿd (Al-Jallad–Jaworska 58) | Al-Jallad–Jaworska 58 | gloss withheld |
+| Mandaic Aramaic | baʕad (MD 49) | MD 49 | gloss withheld |
 | Mehri | bād (ML 40 apud SEDonline 1249) | ML 40; SEDonline 1249 | gloss withheld |
 | Jibbali | baʕd (JL 21 apud SEDonline 1249) | JL 21; SEDonline 1249 | gloss withheld |
 | Harsusi | bād (HL 14 apud SEDonline 1249) | HL 14; SEDonline 1249 | gloss withheld |
 | Hebrew | baʕad (HALOT 141 apud SEDonline 1249) | HALOT 141; SEDonline 1249 | gloss withheld |
 | Ugaritic | bʕd (DULAT 202) | DULAT 202 | gloss withheld |
+| Amorite | baʿdum, beʿdum, biʿdum (Gelb AS 21, 16) | Gelb AS 21 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

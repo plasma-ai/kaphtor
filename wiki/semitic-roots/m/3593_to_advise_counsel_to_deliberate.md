@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3593_to_advise_counsel_to_deliberate
 title: "*mlk: 'to advise, counsel; to deliberate'"
-desc: "Proto-Semitic *mlk, 'to advise, counsel; to deliberate': reflexes in 7 language(s)."
+desc: "Proto-Semitic *mlk, 'to advise, counsel; to deliberate': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3593"
@@ -33,9 +33,11 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | nif. wayyimmālēk (Neh 5:7; HALOT 591) | HALOT 591 | gloss withheld |
 | Judaic Aramaic | milkā (HALOT 592) | HALOT 592 | gloss withheld |
 | Syrian Aramaic | mlak 'to counsel; to promise'; melkā 'counsel, advice' (Payne Smith 277) | Payne Smith 277 |  |
-| Mandaic Aramaic | mlk (HALOT 591) | HALOT 591 | gloss withheld |
+| Mandaic Aramaic | mlk (HALOT 591; MD 273) | HALOT 591; MD 273 | gloss withheld |
 | Eblaitic | /miliktum/: name mi-li-gi-du (Scarpa 2020, 111); mi-ga-an mi-ga \[milkan milka(m)\] (impv. /milik-an/) (Fronzaroli 1995, 53) | Scarpa 2020, 111; Fronzaroli 1995, 53 | gloss withheld |
 | Amorite | milkum (Gelb AS 21, 25); milk-: \*milk- or \*milk- (Huffmon APNM 231) | Gelb AS 21 25; Huffmon APNM 231 | gloss withheld |
+| Canaanite | ma-lik MEŠ /mālik/ (gloss to LÚ.MEŠ MAŠKIM, EA) (Sanmartín GlOS 2, 42) | Sanmartín GlOS 2, 42 | gloss withheld |
+| Biblical Aramaic | \*məlak (HALOT BArm. s.v. מְלַךְ) | HALOT BArm. s.v. מְלַךְ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/K0827_load_1_to_journey_depart_2
 title: "*ṯ̣VʿVn-: 'load' 1, 'to journey, depart' 2"
-desc: "Proto-Semitic *ṯ̣VʿVn-, 'load' 1, 'to journey, depart' 2: reflexes in 17 language(s)."
+desc: "Proto-Semitic *ṯ̣VʿVn-, 'load' 1, 'to journey, depart' 2: reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0827"
@@ -29,7 +29,7 @@ updated: 2026-10-27T22:12:55Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣênu 'load' | Anderson–Moser 2024 root ṣʿn |  |
+| Akkadian | ṣênu (AHw 1091) | AHw 1091; Anderson–Moser 2024 root ṣʿn | gloss withheld |
 | Geez | ṣaʿana 'load' (Dillmann 09507) | Dillmann 09507; Anderson–Moser 2024 root ṣʿn |  |
 | Tigre | ṣaʿana (HALOT 378) | HALOT 378 | gloss withheld |
 | Arabic | ẓaʿūn (LGz. 543); ẓaʿana 2; ẓuʿnat 2 (Lane 1911) | LGz. 543; Lane 1911 | gloss withheld |
@@ -46,6 +46,8 @@ updated: 2026-10-27T22:12:55Z
 | East Ethiopic | Sel. Zwy. ṭānä, Wol. ṭanä (EDG 182 apud SEDonline 2019) | EDG 182; SEDonline 2019 | gloss withheld |
 | Eblaitic | zi-a-núm /ṣiʕānum/ (VE 1320, Kogan–Krebernik 2021b: 688 apud SEDonline 2019) | VE 1320, Kogan–Krebernik 2021b: 688; SEDonline 2019 | gloss withheld |
 | Epigraphic South Arabian | Sab ẓʿnw 2 (Biella 227); ẓʿn 2 (Sabaweb lemma 2418) | Biella 227; Sabaweb lemma 2418 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ẓʿn 2 (Al-Jallad 2026, 176) | Al-Jallad 2026 176 | gloss withheld |
+| Aramaic | ṭʕwn 1 (DNWSI 428) | DNWSI 428 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

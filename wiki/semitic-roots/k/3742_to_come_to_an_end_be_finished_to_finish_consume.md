@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3742_to_come_to_an_end_be_finished_to_finish_consume
 title: "*kly: 'to come to an end, be finished; to finish, consume'"
-desc: "Proto-Semitic *kly, 'to come to an end, be finished; to finish, consume': reflexes in 3 language(s)."
+desc: "Proto-Semitic *kly, 'to come to an end, be finished; to finish, consume': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3742"
@@ -29,9 +29,11 @@ updated: 2026-10-28T02:25:00Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Phoenician | mkl (Krahmalkov 229); tklt (Krahmalkov 491) | Krahmalkov 229; Krahmalkov 491 | gloss withheld |
 | Hebrew | kālâ qal; pi. (HALOT 476–479) | HALOT 476–479 | gloss withheld |
 | Ugaritic | kly G; N; D (DULAT 479–480) | DULAT 479–480 | gloss withheld |
 | Akkadian | kalû 4; 5 (CAD K 95, OA OB on) | CAD K 95, OA OB on | gloss withheld |
+| Punic | bklty (T 143); Neo-Punic tklt, tklʾt (Krahmalkov 491) | T 143; Krahmalkov 491 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

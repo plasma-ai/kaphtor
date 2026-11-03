@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | sǝʕārǝtā 'hordeum' (Brock. 489) | Brock. 489 |  |
 | Gafat | sǝndä (LGz. 534) | LGz. 534 | gloss withheld |
 | Argobba | sǝrray (LGz. 534) | LGz. 534 | gloss withheld |
-| Aramaic | OArm. šʿrh, CPA sʿrʾ (HALOT 1345, 1346; DNWSI 1180 apud CAL) | HALOT 1345, 1346; DNWSI 1180; CAL | gloss withheld |
+| Aramaic | OArm. šʿrh, CPA sʿrʾ (HALOT 1345, 1346; DNWSI 1180) | HALOT 1345, 1346; DNWSI 1180 | gloss withheld |
 | Tigrinya | saʿri (LGz. 525) | LGz. 525 | gloss withheld |
 | Harari | säʾar (LGz. 525) | LGz. 525 |  |
 | Pre-Islamic North Arabian | Safaitic śʿr (Al-Jallad–Jaworska 125) | Al-Jallad–Jaworska 125 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3591_to_be_strong_prevail_1_strength_might_2
 title: "*gbr: 'to be strong, prevail' 1, 'strength, might' 2"
-desc: "Proto-Semitic *gbr, 'to be strong, prevail' 1, 'strength, might' 2: reflexes in 6 language(s)."
+desc: "Proto-Semitic *gbr, 'to be strong, prevail' 1, 'strength, might' 2: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3591"
@@ -35,6 +35,7 @@ updated: 2026-10-26T14:26:59Z
 | Judaic Aramaic | gǝbûrtā 2 (HALOT 172) | HALOT 172 | gloss withheld |
 | Punic | Neo-Punic gbrt; gbrtm 2 (Krahmalkov 135; T 61) | Krahmalkov 135; T 61 | gloss withheld |
 | Arabic | tajabbara (V) (HALOT 175); jabbār (Lane 374) | HALOT 175; Lane 374 | gloss withheld |
+| Aramaic | gbrh (DNWSI 211) | DNWSI 211 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

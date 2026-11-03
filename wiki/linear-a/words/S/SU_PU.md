@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SU_PU
 title: "SU-PU"
 desc: "sapu: bowl, basin (the vessel named on HT31). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "vocabulary"]
+tags: ["linear-a", "word", "tier-4", "hapax", "noun", "vessel"]
 kind: "word"
 form: "SU-PU"
 datasets: ["lexicon"]
@@ -35,26 +35,26 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | bowl, basin (the vessel named on HT31) |
 | Root | s-p-p |
 | Proto-Semitic | \*sapp- (#311) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun, vessel |
 | Semantic field | vessel |
 
 ### Note
 
-On HT31, the vessel tablet, the word is written into a vessel sign: \*415-VS-SU-PU 10, beside \*416-VS-KA-RO-PA₃ 10 (the jar, Akkadian karpu) and \*402-VS-QA-PA₃ 10. Every cognate names a bowl or basin (Hebrew sap, Ugaritic sp, Phoenician sp), which also keeps HT31's two vessels distinct. See SU-PU₂-\*188.
+On HT 31, the vessel tablet, the word is written into a vessel sign: \*415-VS-SU-PU 10, beside \*416-VS-KA-RO-PA₃ 10 (the jar, Akkadian karpu) and \*402-VS-QA-PA₃ 10. sapu 'bowl, basin': Heb. sap (HALOT 762), Ug. and Ph. sp 'bowl' (DULAT 753), Mari sà-ap-pu (GlOS 2, 203); a bowl, which also keeps HT 31's two vessels distinct. See SU-PU₂-\*188.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | sap (סַף) 'basin, goblet, bowl' (HALOT 762) |
-| Ugaritic | sp 'bowl' (DULAT) |
-| Phoenician | sp 'cup, bowl' |
+| Ugaritic | sp 'bowl' (DULAT 753) |
+| Phoenician | sp 'bowl' (DULAT 753) |
 | Old Syrian | Mari sà-ap-pu sapp 'a type of bowl' (GlOS 2, 203) |
 
 ### Source
 
-Gordon 1966 §163; GlOS 2
+Gordon 1966 §115; HALOT; DULAT; GlOS 2
 
 ### Review
 

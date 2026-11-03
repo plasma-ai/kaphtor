@@ -1,7 +1,7 @@
 ---
 name: docs/paradigm-b-result
 title: "Paradigm B: Result"
-desc: The outcome of the held-out paradigm-prediction test as run under its freeze (G1 passed, G2 failed, so no posterior), the descriptive G3 figures, and the post-run review.
+desc: The outcome of the held-out paradigm-prediction test as run under its freeze, its gates, the descriptive G3 figures, and the post-run review.
 tags: [docs]
 authors: "di Mino"
 status: "RUN 2026-10-09 under SHA256SUMS f5d6733f…; stopped at G2"
@@ -11,7 +11,8 @@ updated: 2026-10-29T00:00:00Z
 
 # Paradigm B: Result
 
-This test does not establish the language. A successor protocol is in preparation.
+This test does not establish the language. Its successor is Protocol C
+([pre-registration](protocol-c-preregistration.md)).
 
 Paradigm B asks whether one morphological inventory, fixed before the run, predicts the variant forms at the slots
 of a held-out inscription of the Linear A libation formula family from the forms at the other sites

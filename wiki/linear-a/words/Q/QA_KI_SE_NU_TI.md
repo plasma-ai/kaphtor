@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kaki-šenni-ti |
 | Meaning | personal name, Hurrian type in -šenni 'brother' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE. The name stands before the 1cs verb A-TA-DE, as the one who makes the pin ready. The second sign is KI, with GORILA IV 146–47, Younger and the photograph; it is not DE. KN Wb 33 joins QA-KI\[ (a) and NU-SE (b, read leftward) as QA-KI-SE-NU-\[ (Younger, Linear A Texts, other texts). Pattern of DA-KU-SE-NE /Takušenni/ (HT 103) beside DA-KU-SE-NE-TI (HT 104), with the same final -TI. The first element is Hurrian Kakki (Mari, Kaneš), with Kakki-še at Karana (Monti 2017, 252, 453, 388); QA, for a /q/ Hurrian lacks (Wilhelm, "Hurrian," 98–99), is the one non-Hurrian feature. Rival: Amorite two-element name, kakka + sanati.
+CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE. The name stands before the 1cs verb A-TA-DE, as the one who makes the pin ready. The second sign is KI, with GORILA IV 146–147, Younger and the photograph. KN Wb 33 joins QA-KI\[ (a) and NU-SE (b, read leftward) as QA-KI-SE-NU-\[ (Younger, Linear A Texts, other texts). The pattern is DA-KU-SE-NE Takušenni (HT 103) beside DA-KU-SE-NE-TI (HT 104), with the same final -TI. The first element is Hurrian Kakki (Mari, Kaneš), with Kakki-še at Karana (Monti 2017, 252, 453, 388). Rival: an Amorite name on kakka 'weapon', as KAKK-A+MANN-U (Gelb 1980, nos. 3905–3912). QA for the k as Nuzi Qa-ak-ki, var. Ka-ak-ki, Ga-ak-ki, and Kakkiše, Ka-ak-ki-še, ᶠQa-ak-ki-še (NPN 78). Two attestations.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ CR(?) Zf 1, a gold pin: A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A
 
 ### Source
 
-di Mino; Younger, Linear A Texts; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian; Gelb, Purves, and MacRae 1943; Monti 2017
+di Mino; Younger, Linear A Texts; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian; Gelb, Purves, and MacRae 1943; Monti 2017; Gelb 1980
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/K0402_cease
 title: "*suwp-: 'cease'"
-desc: "Proto-Semitic *suwp-, 'cease': reflexes in 5 language(s)."
+desc: "Proto-Semitic *suwp-, 'cease': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0402"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | swf (HALOT 746) | HALOT 746 |  |
 | Syrian Aramaic | sāp 'come to an end, perish, cease' (Payne Smith 369) | Payne Smith 369 |  |
 | Judaic Aramaic | sōfā (HALOT 747) | HALOT 747 | gloss withheld |
+| Biblical Aramaic | swp, haf. (HALOT 746); \*sōp (HALOT BArm. s.v. סוֹף) | HALOT 746; HALOT BArm. s.v. סוֹף | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

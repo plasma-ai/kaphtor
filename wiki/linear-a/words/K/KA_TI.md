@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_TI
 title: "KA-TI"
 desc: "Qāti: personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KA-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name Qāti 'Hand'; rivals Gattī 'the man of the press, the Gittite', Qəhātî 'Kohathite', Kittî 'Kittian' |
 | Root | q-t |
 | Proto-Semitic | \*qāt- (#S87) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -65,7 +65,7 @@ di Mino; DULAT; Pagan 1998
 
 | Field | Value |
 |---|---|
-| Type | gentilic (SPECULATIVE) |
+| Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
@@ -75,6 +75,6 @@ di Mino; DULAT; Pagan 1998
 
 ### Note
 
-HT 63, under the personnel logogram \*305: gat 'press' with the nisbe -ī, as Ugaritic gt /gittu/ 'press; farmstead, estate' (DULAT 307) and Hebrew hag-Gittî 'the Gittite' (2 Sam 6:10). Rivals: Qəhātî 'Kohathite' (Num 3:27), Kittî 'Kittian'. See the lexicon entry.
+HT 63, under the personnel logogram \*305: the name Qāti 'Hand', as Ebla ga-ti (Pagan 1998, row 1975). Rivals: Gattī 'the Gittite' (DULAT 307; 2 Sam 6:10), Qəhātî 'Kohathite' (Num 3:27), Kittî 'Kittian'. See the lexicon entry.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0014_worn
 title: "*balay-: 'worn'"
-desc: "Proto-Semitic *balay-, 'worn': reflexes in 10 language(s)."
+desc: "Proto-Semitic *balay-, 'worn': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0014"
@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | BLY (Aramaic Root Atlas; DNWSI 165 apud CAL) | Aramaic Root Atlas; DNWSI 165; CAL; Anderson–Moser 2024 root bly | gloss withheld |
+| Aramaic | BLY (Aramaic Root Atlas; DNWSI 166) | Aramaic Root Atlas; DNWSI 166; Anderson–Moser 2024 root bly | gloss withheld |
 | Geez | balya 'old' | Anderson–Moser 2024 root bly |  |
 | Hebrew | balah 'wear' | Anderson–Moser 2024 root bly |  |
 | Syrian Aramaic | bəlā (LGz. 98) | LGz. 98 |  |
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | bäläyä (LGz. 98) | LGz. 98 |  |
 | Tigre | bäla (LGz. 98) | LGz. 98 |  |
 | Amharic | bäläbbälä (LGz. 95) | LGz. 95 | gloss withheld |
+| Biblical Aramaic | bly pa. (HALOT 132) | HALOT 132 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_TA_NA
 title: "KI-TA-NA"
 desc: "kitāna: linen (material adjectival base in jar labels). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "noun", "textile"]
 kind: "word"
 form: "KI-TA-NA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | linen (material adjectival base in jar labels) |
 | Root | k-t-n |
 | Proto-Semitic | \*kitn- (#2678) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-Base of KI-TA-NA-SI-JA-SE (PEZb3 clay vessel) = "linen which goes out" — commodity + disbursement marker. SI-JA-SE = šī-yāṣē (relative particle + 3ms impf. √y-ṣ-ʾ "to go out"), tagging goods for outgoing allocation. The pithos label reads: ...kitāna šī-yāṣē pidr-qê "linen which goes out, a qê-measure of fat." \|\| LB ki-to (χιτών ← ktn) points to this word; the full form is recovered by segmentation. \|\| Parallel: A-NA-NU-SI-JA-SE (HTZb159) uses the same -SI-JA-SE disbursement suffix on a different stem. \|\| -t derivative: KI-TA-NI-TE kitānit "linen robe, linen cloth" (PK Zb 21 pithos).
+PE Zb 3, a pithos label: KI-TA-NA-SI-JA-SE, kitāna šī-yāṣē pidr-qê 'linen which goes out, a qê-measure of fat'. SI-JA-SE šī-yāṣē, the relative with the 3ms imperfect of √y-ṣ-ʾ 'to go out', marks goods for issue, as in A-NA-NU-SI-JA-SE (HT Zb 159) on another stem. Linear B ki-to, χιτών, comes from the same ktn. KI-TA-NI-TE kitānit 'linen robe, linen cloth' (PK Zb 21) is its -t derivative.
 
 ### Cognates
 
@@ -51,11 +51,11 @@ Base of KI-TA-NA-SI-JA-SE (PEZb3 clay vessel) = "linen which goes out" — commo
 | Akkadian | kitûm/kitinnû 'linen' |
 | Mari | ku-ta-na-am kutān 'a fabric' (ARM 30 55; GlOS 1, 176) |
 | Eblaite | GÍD.TÚG = gu-da-núm 'a garment' (GlOS 1, 176) |
-| Greek | χιτών via LB ki-to, here fully vocalized |
+| Greek | χιτών via LB ki-to, from Ug. ktn (Rendsburg 2026, 214); here fully vocalized |
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; GlOS 1; Rendsburg 2026
 
 ## Attestations
 

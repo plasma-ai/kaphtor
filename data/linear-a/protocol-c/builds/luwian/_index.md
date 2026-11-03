@@ -47,6 +47,6 @@ updated: 2026-10-29T19:48:19Z
 ***
 
 The kit held Yakubovich's *The Luwian Language* (2015 manuscript) as PDF and text layer. The builder read Tables 2,
-3, 5, 7 and 8; the participle and infinitive are prose under "6.5 Verb" and stay out (`TABLES.md`). Its scratch
+3, 5, 7 and 8; the participle and infinitive are prose under "6.5 Verb" and stay out (`TABLES-C0.md`). Its scratch
 folder `.review/` was not copied out (the runner then skipped dot-folders). The Claude Code pilot that tested the
 format, not part of C1, matches this build in 69 of its 70 distinct forms (the C1 manifest).

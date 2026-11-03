@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šâṭu (HALOT 1440) | HALOT 1440; Anderson–Moser 2024 root šʾṭ | gloss withheld |
+| Akkadian | šâṭu (HALOT 1440; AHw 1205) | HALOT 1440; AHw 1205; Anderson–Moser 2024 root šʾṭ | gloss withheld |
 | Hebrew | II šwṭ: šāʾṭîm, šāʾṭôt (HALOT 1440); šᵉʾāṭ (HALOT 1371) | HALOT 1440; HALOT 1371 | gloss withheld |
 | Syrian Aramaic | šāṭ (Payne Smith 564; HALOT 1440) | Payne Smith 564; HALOT 1440 | gloss withheld |
 | Mandaic Aramaic | ŠUṬ (HALOT 1440) | HALOT 1440 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/949_be_weak
 title: "*ḫa/uwar-: 'be weak'"
-desc: "Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḫa/uwar-, 'be weak': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "949"
@@ -35,9 +35,10 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ḫawr (LGz. 269) | LGz. 269 | gloss withheld |
 | Hebrew | ḥwr in ḥāru (Is. 24:6) (LGz. 269) | LGz. 269 | gloss withheld |
 | Tigre | ḥawära (LGz. 269) | LGz. 269 | gloss withheld |
-| Jibbali | ḫɛ́rín (Kogan 2015, ch. 8 §3.4.1 no. 51) | Kogan 2015 ch. 8 §3.4.1 no. 51 | gloss withheld |
+| Jibbali | ḫɛ́rín (Kogan 2015, ch. 8 §3.4.1 no. 51; Rubin 2014 673) | Kogan 2015 ch. 8 §3.4.1 no. 51; Rubin 2014 673 | gloss withheld |
 | Soqotri | ḥarə́rhɛn (Kogan 2015, ch. 8 §3.4.1 no. 51) | Kogan 2015 ch. 8 §3.4.1 no. 51 | gloss withheld |
 | Emar | ḫur-ḫu-ru /ḫurḫuru/ (Pentiuc 2001, 80) | Pentiuc 2001 80 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫwr (Al-Jallad 2026, 69) | Al-Jallad 2026 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

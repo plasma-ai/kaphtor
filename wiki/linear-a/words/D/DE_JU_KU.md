@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DE_JU_KU
 title: "DE-JU-KU"
 desc: "Dalqu: personal name, 'burning, kindled'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DE-JU-KU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'burning, kindled' |
 | Root | d-l-q |
 | Proto-Semitic | \*dalaḳ- (#2661) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

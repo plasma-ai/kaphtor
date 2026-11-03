@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2613_to_be_strong_and_good
 title: "*ḥsn: 'to be strong and good'"
-desc: "Proto-Semitic *ḥsn, 'to be strong and good': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḥsn, 'to be strong and good': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2613"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | hsn (HALOT 338) | HALOT 338 | gloss withheld |
 | Biblical Aramaic | ḥsn (Kogan 2015, ch. 6 §2 no. 8) | Kogan 2015 ch. 6 §2 no. 8 | gloss withheld |
 | Amorite | ḥasnatu (Buck 2019, 327) | Buck 2019, 327 | gloss withheld |
+| Eblaitic | /ḥasan/: names ḫa-za-an, ḫa-za-nu (Sanmartín GlOS 1, 253) | Sanmartín GlOS 1, 253 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star304
 title: "*304"
-desc: "pidru: oil/fat-register commodity; possibly fat, lard, or tallow. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+desc: "pidru: fat, tallow (an oil/fat-register commodity). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "logogram", "oil"]
 kind: "word"
 form: "*304"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | pidru |
-| Meaning | oil/fat-register commodity; possibly fat, lard, or tallow |
+| Meaning | fat, tallow (an oil/fat-register commodity) |
 | Root | p-d-r |
 | Proto-Semitic | \*pidr- (#1988) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram: 42 occurrences on 38 tablets; 25 stand alone, 24 directly before quantities, regularly among GRA, OLE, OLIV, and related commodities. The tentative comparison is Central Semitic \*pidr- 'fat' (Hebrew peder, Judaic Aramaic pidrā, Arabic fidra), consistent with but not proven by the oil/fat register. \*304+PA may add a phonetic complement or commodity qualifier.
+Commodity ideogram on 38 tablets, regularly among GRA, OLE, OLIV and related commodities, most often before a quantity. pidru 'fat': Central Semitic \*pidr- 'fat', Heb. peder 'suet from the kidney' (Lev 1:8; HALOT 914), JArm. pidrā 'fat', Arab. fidra 'piece of meat'. \*304+PA is A 629 in SigLA, a sign Schoep separates from A 304 (Schoep 2002, 123). Rival: an agricultural commodity booked between oil and olives, Palmer's pulses or a spice such as cyperus or coriander (Schoep 2002, 123–124).
 
 ### Cognates
 
@@ -51,7 +51,7 @@ Non-phonetic commodity ideogram: 42 occurrences on 38 tablets; 25 stand alone, 2
 
 ### Source
 
-di Mino
+di Mino; HALOT; Schoep 2002
 
 ## Attestations
 
@@ -73,15 +73,15 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1020\|HTWa1020]] | Haghia Triada | Nodule | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1021bis\|HTWa1021bis]] | Haghia Triada | Nodule | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH9\|KH9]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH12\|KH12]] | Khania | Tablet | none; form not in transliteration |
@@ -94,7 +94,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/PH/PH/PH14a\|PH14a]] | Phaistos | Lames (short thin tablet) | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PH/PH/PH28b\|PH28b]] | Phaistos | Tablet | none |
 | [[wiki/linear-a/inscriptions/PYR/PYR/PYR2\|PYR2]] | Pyrgos | Lames (short thin tablet) | none |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | incomplete |
 
 ## In translations
 
@@ -109,5 +109,6 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT116b\|HT116b]] | pidru | oil/fat-register commodity; perhaps fat or suet | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131a\|HT131a]] | pidru | oil/fat-register commodity; perhaps fat or tallow | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | pidru | oil/fat-register commodity | CANDIDATE |
 
 <!-- END kaphtor:record -->

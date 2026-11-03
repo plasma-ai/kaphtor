@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qiyr 'wall' | Anderson–Moser 2024 root qyr |  |
 | Punic | qr 'wall' | Anderson–Moser 2024 root qyr |  |
 | Ugaritic | qr 'wall' | Anderson–Moser 2024 root qyr |  |
-| Phoenician | qyr (HALOT 1099) | HALOT 1099 |  |
+| Phoenician | qyr (HALOT 1099); qr (T 292) | HALOT 1099; T 292 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

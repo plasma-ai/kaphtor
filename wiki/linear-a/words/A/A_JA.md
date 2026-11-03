@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/A/A_JA
 title: "A-JA"
-desc: "ḥaya / ḥayyā / Haya / Aya: possible divine name or liturgical predicate: Haya/Aya, or \"(the) Living One; Life\". Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+desc: "ḥayyā: 'the Living One', title of the Goddess (√ḥ-y-y). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "libation_formula", "ritual", "theonym"]
 kind: "word"
 form: "A-JA"
 datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "ḥaya / ḥayyā / Haya / Aya"
+reading: "ḥayyā"
 attestations: ["PEZc4", "SYZa2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ḥaya / ḥayyā / Haya / Aya |
-| Meaning | possible divine name or liturgical predicate: Haya/Aya, or "(the) Living One; Life" |
+| Reading | ḥayyā |
+| Meaning | 'the Living One', title of the Goddess (√ḥ-y-y) |
 | Root | ḥ-y-y |
 | Proto-Semitic | \*ḥayy- (#2760) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | libation_formula, ritual, theonym |
 | Semantic field | ritual |
 
 ### Note
 
-A-JA is complete at PE Zc 4 and SY Za 2; MA 4b reads A-\[?\]-\[?\]-\[?\]-JA and is not an attestation. The closest spelling control is Old Babylonian Mari, where West Semitic ḥaya "lives" appears as both ha-ia- and a-ia-; Weeden suggests that a-ia- may attempt to reproduce an unrepresented /ḥ/. At Alalakh VII, a-ia-/ha-ia- alternate in the same name (Weeden 2009, 96–100). Amorite has Ḥajja as a DN (Gelb AS 21, 19), as in Milki-Ḥayya (no. 4724). This makes A-JA compatible with /ḥaya/ or /ḥayyā/ without treating pharyngeal /ḥ/ as ordinary /h/. Linear B omission of Greek /h/ is an independent Aegean orthographic control only. The divine name Haya is attested as dḫa-ià from Early Dynastic Fara onward and in the Old Babylonian Hymn to Haia for Rim-Sin, whose line 59 calls him the god who loves the petition "Give me life!" (ORACC AMGG, "Haya"; ETCSL 2.6.9.2.59). Keep three analyses separate: Haya; Semitic /ḥaya/ or /ḥayyā/ "(the) Living One/Life"; and the independently attested goddess Aya. Their historical relationship is disputed. Davis's "much" remains a structural rival. See \*21F-JA-DU.
+PE Zc 4 A-JA ≈ JA-SI, inked, and SY Za 2, the last group of the formula, after U-NA-KA-NA-SI-OLE; MA 4b A-\[?\]-\[?\]-\[?\]-JA is a longer word. A for ḥ has its control at Old Babylonian Mari, where West Semitic ḥaya 'lives' is written both ha-ia- and a-ia-, and at Alalakh VII, where a-ia- and ha-ia- alternate in one name, a-ia- on Weeden's account reproducing an unrepresented /ḥ/ (Weeden 2009, 96–100). /ḥayyā/ 'the Living One', as Amorite Ḥajja, a divine name (Gelb 1980, 19), in Milki-Ḥayya (Gelb 1980, no. 4724). Rivals: the god Haya, dḫa-ià from Early Dynastic Fara on, whom the Old Babylonian Hymn to Haia for Rim-Sin calls the god who loves the petition 'Give me life!' (line 59; ORACC AMGG, 'Haya'; ETCSL 2.6.9.2.59); the goddess Aya; Davis's 'much', modifying the oil (Davis 2013, 41). Two attestations.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ Hebrew חַי ḥay "alive", חַיִּים ḥayyīm "life"; Ugaritic ḥyw "to
 
 ### Source
 
-di Mino
+di Mino; Weeden 2009; Gelb 1980; Davis 2013
 
 ## Attestations
 
@@ -62,8 +62,8 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PEZc/PEZc4\|PEZc4]] | ḥayyā | possibly "Life!" (liturgical exclamation) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa2\|SYZa2]] | ḥaya / ḥayyā / Haya / Aya | possible divine name or liturgical predicate; untranslated | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PE/PEZc/PEZc4\|PEZc4]] | ḥayyā | 'the Living One', title of the Goddess (√ḥ-y-y) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/SY/SYZa/SYZa2\|SYZa2]] | ḥayyā | possible divine name or liturgical predicate; untranslated | CANDIDATE |
 
 ## Onomasticon
 

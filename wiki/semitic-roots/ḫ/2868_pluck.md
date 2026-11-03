@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2868_pluck
 title: "*ḫVrVṭ-: 'pluck'"
-desc: "Proto-Semitic *ḫVrVṭ-, 'pluck': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḫVrVṭ-, 'pluck': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2868"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḫaraṭa (HALOT 353) | HALOT 353 | gloss withheld |
 | Ugaritic | ḫ-r-ṭ (CUC; DULAT 404) | CUC; DULAT 404 | gloss withheld |
 | Hebrew | \*ḥrṭ (HALOT 352) | HALOT 352 |  |
+| Epigraphic South Arabian | Sab ḫrṭ (SD 62) | SD 62 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

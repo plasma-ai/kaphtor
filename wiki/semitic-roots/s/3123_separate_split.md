@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/3123_separate_split
 title: "*sdḳ: 'separate, split'"
-desc: "Proto-Semitic *sdḳ, 'separate, split': reflexes in 7 language(s)."
+desc: "Proto-Semitic *sdḳ, 'separate, split': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3123"
@@ -29,13 +29,18 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | sadaqa (yəsdəq) (LGz. 486) | LGz. 486 | gloss withheld |
-| Gurage | sädäqä (LGz. 486) | LGz. 486 |  |
+| Geez | sadaqa (yəsdəq) (LGz. 486); śaṭaqa, saṭaqa (LGz. 537–538) | LGz. 486; LGz. 537–538 | gloss withheld |
+| Gurage | sädäqä (LGz. 486); säṭṭäqä (LGz. 538) | LGz. 486; LGz. 538 |  |
 | East Ethiopic | Sel. Wol. Zwy. sädäqä, Wol. sädäʾä \[LHar 137\] | LHar 137 |  |
 | Harari | sēdäqa \[LHar 137\] | LHar 137 | gloss withheld |
 | Hebrew | pB. sedeq (LGz. 486) | LGz. 486 |  |
 | Syrian Aramaic | sdeq (Payne Smith 361); sədaq (LGz. 486) | Payne Smith 361; LGz. 486 | gloss withheld |
 | Mandaic Aramaic | sdq (LGz. 486) | LGz. 486 |  |
+| Akkadian | šatāqu (LGz. 538) | LGz. 538 |  |
+| Aramaic | səṯaq (LGz. 538) | LGz. 538 |  |
+| Tigre | šäṭṭäqa (LGz. 538) | LGz. 538 | gloss withheld |
+| Tigrinya | sənäṭṭäqä (LGz. 538) | LGz. 538 |  |
+| Amharic | sänäṭṭäqä (LGz. 538) | LGz. 538 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

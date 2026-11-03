@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/2668_ship_large_vessel
 title: "*sappīn-at-: 'ship, large vessel'"
-desc: "Proto-Semitic *sappīn-at-, 'ship, large vessel': reflexes in 5 language(s)."
+desc: "Proto-Semitic *sappīn-at-, 'ship, large vessel': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2668"
@@ -34,6 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | sᵉpintā (HALOT 764) | HALOT 764 |  |
 | Arabic | safīnat (HALOT 764) | HALOT 764 |  |
 | Syrian Aramaic | spīnā 'a ship' (Payne Smith 385) | Payne Smith 385 |  |
+| Pre-Islamic North Arabian | Safaitic sfnt (Al-Jallad 2026, 130) | Al-Jallad 2026 130 | gloss withheld |
+| Epigraphic South Arabian | Sab sfnm (Biella 342) | Biella 342 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

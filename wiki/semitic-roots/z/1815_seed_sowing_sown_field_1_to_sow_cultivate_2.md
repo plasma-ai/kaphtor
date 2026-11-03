@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/1815_seed_sowing_sown_field_1_to_sow_cultivate_2
 title: "*ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2: 'seed, sowing, sown field' 1, 'to sow, cultivate' 2"
-desc: "Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 28 language(s)."
+desc: "Proto-Semitic *ʒVry/ʾ/ʕ- ~ *ǯVry/ʾ/ʕ 1, *ʒry/wʾ/ʕ ~ *ǯry/w/ʾ/ʕ 2, 'seed, sowing, sown field' 1, 'to sow, cultivate' 2: reflexes in 29 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1815"
@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḏry/w 'to spread the seed (while sowing), to sow' (BK 1, 771), ḏurat- 'dorra, a kind of millet' (Ibid. 772), ḏrʔ 'to sow (the earth)' (BK 1, 767), zrʕ 'to sow, spread the seed; to sow a field with some grain', zurʕ- 'seed; standing cereals, cultivated field' (Ibid. 985) | BK 1, 771; BK 772; BK 1, 767; BK 985 |  |
 | Mehri | zūra, ha-zrē, S. Mhr. zǝrɛ̄t (JM 469), ḏǝráyyǝt (Ibid. 81) | JM 469; JM 81 | gloss withheld |
 | Soqotri | deri (LS 135) | LS 135 | gloss withheld |
-| Akkadian | zēru (zarʔu) OAkk. on (CAD Z 89) | CAD Z 89 | gloss withheld |
+| Akkadian | zēru (zarʔu) OAkk. on (CAD Z 89; AHw 1521) | CAD Z 89; AHw 1521 | gloss withheld |
 | Tigre | zärʔa (LGz. 642) | LGz. 642 | gloss withheld |
 | Mandaic Aramaic | ZRA (DM 170), zira (Ibid. 167) | DM 170; DM 167 | gloss withheld |
 | Ugaritic | d/ḏrʕ, drʕ (DULAT 277–278) | DULAT 277–278 | gloss withheld |
@@ -52,12 +52,13 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | zärra (LGz. 642) | LGz. 642 | gloss withheld |
 | Tigrinya | zärʔe (LGz. 642) | LGz. 642 | gloss withheld |
 | Punic | mzrʿ (Neo-Punic; Krahmalkov 274); zrʿ | Krahmalkov 274; Anderson–Moser 2024 root ḏrʿ | gloss withheld |
-| Amorite | ḏrʿ?: jaḏraʿ, jiḏruʿ, ḏaraʿ, ḏariʿum (Gelb AS 21, 18); ḏāriʿu (Buck 2019, 326) | Gelb AS 21 18; Buck 2019, 326 | gloss withheld |
+| Amorite | ḏrʿ 2, 1: jaḏraʿ, jiḏruʿ, ḏaraʿ, ḏariʿum (Gelb AS 21, 18); ḏāriʿu 2 (Buck 2019, 326); ḏarʿat 1: za-ra-te-šu-nu (Alalakh) (Sanmartín GlOS 1, 167) | Gelb AS 21 18; Buck 2019, 326; Sanmartín GlOS 1, 167 | gloss withheld |
 | East Ethiopic | Sel. zära, Wol. zärä, Zwy. zärā (EDG 713 apud SEDonline 53) | EDG 713; SEDonline 53 | gloss withheld |
 | Eblaitic | ša-la-um /ḏaRʕum/ (VE 659, Kogan–Krebernik 2021b: 690 apud SEDonline 53; Krebernik 1983, 26); ša-la-ù, šar-ù (Kogan 2011, 200; VE 684; Krebernik 1983, 26); /ḏarʿu hadārtim/ (= Sum. še-AD₆) (VE 684; Bonechi 2008, 4) | VE 659, Kogan–Krebernik 2021b: 690; SEDonline 53; Krebernik 1983, 26; Kogan 2011 200; VE 684; Bonechi 2008, 4 | gloss withheld |
 | Modern Arabic | Yem. ḏirēʾ, ḏireh (Biella 99) | Biella 99 |  |
 | Pre-Islamic North Arabian | Safaitic zrʿ (Al-Jallad–Jaworska 143) | Al-Jallad–Jaworska 143 | gloss withheld |
 | Emar | zi-ir-a-ti /ðirʿatu/ (Pentiuc 2001, 195) | Pentiuc 2001 195 | gloss withheld |
+| Biblical Aramaic | \*zəraʕ 1 (HALOT 282) | HALOT 282 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

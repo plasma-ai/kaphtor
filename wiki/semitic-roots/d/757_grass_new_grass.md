@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/757_grass_new_grass
 title: "*diṯʾ-: 'grass, new grass'"
-desc: "Proto-Semitic *diṯʾ-, 'grass, new grass': reflexes in 9 language(s)."
+desc: "Proto-Semitic *diṯʾ-, 'grass, new grass': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "757"
@@ -38,7 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | daṯaʾiyy- (Kogan 2011, 200) | Kogan 2011 200 | gloss withheld |
 | Jibbali | dɔ́ṯɛʾ (Kogan 2011, 200) | Kogan 2011 200 | gloss withheld |
 | Soqotri | dóte (Kogan 2011, 200) | Kogan 2011 200 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic dṯʾ, mdṯʾ (Al-Jallad–Jaworska 65, 95) | Al-Jallad–Jaworska 65, 95 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic dṯʾ, mdṯʾ (Al-Jallad–Jaworska 65, 95); Dadanitic dṯʾ; Hismaic dṯʾ (Al-Jallad 2026, 35) | Al-Jallad–Jaworska 65, 95; Al-Jallad 2026 35 | gloss withheld |
+| Ugaritic | dṯt (DULAT 281) | DULAT 281 | gloss withheld |
+| Biblical Aramaic | \*dətēʾ (HALOT BArm. s.v. דֶּתֶא) | HALOT BArm. s.v. דֶּתֶא | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

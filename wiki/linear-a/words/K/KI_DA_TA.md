@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KI_DA_TA
 title: "KI-DA-TA"
-desc: "a party receiving grain (name or place). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+desc: "Kidata: a party receiving grain (name or place). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "loanword"]
 kind: "word"
 form: "KI-DA-TA"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
-reading: null
+reading: "Kidata"
 attestations: ["HT40"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,14 +31,16 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | Kidata |
 | Meaning | a party receiving grain (name or place) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Root | Kidata (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | administrative, hapax, loanword |
 | Semantic field | administrative |
 
 ### Note
 
-HT 40: NU-DU-\*331 · TE · GRA 207 / KI-DA-TA · GRA 134 / KU-RO; KI-DA-TA holds the slot of NU-DU-\*331, a party, with its own GRA entry. HT 27a .4 KI-DA-\[, broken after DA, where GORILA prefers KI-DA-TẸ\[ (GORILA I 49), may be a second witness. Rival: kaddat 'jar' (Ug. kd, a jar and a measure for liquids, ca. 22 l, DULAT 424), which leaves KI for ka unexplained and does not fit a grain entry.
+HT 40: NU-DU-\*331 · TE · GRA 207 / KI-DA-TA · GRA 134 / KU-RO; KI-DA-TA holds the slot of NU-DU-\*331, a party, with its own GRA entry. HT 27a .4 KI-DA-\[, broken after DA, where GORILA prefers KI-DA-TẸ\[ (GORILA I 49), is a damaged second witness. Rival: kaddat 'jar' (Ug. kd, a jar and a measure for liquids, ca. 22 l, DULAT 424), which leaves KI for ka unexplained and does not fit a grain entry.
 
 ### Cognates
 

@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | saqima 'he was, became, diseased, sick, ill' (Lane 1383); suqm 'sickness, illness' (Lane 1383) | Lane 1383 |  |
-| Pre-Islamic North Arabian | Safaitic sqm (D); sqm (Al-Jallad–Jaworska 123) | Al-Jallad–Jaworska 123 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sqm (D); sqm (Al-Jallad–Jaworska 123); Hismaic sqm; sqm (Al-Jallad 2026, 134) | Al-Jallad–Jaworska 123; Al-Jallad 2026 134 | gloss withheld |
 | Syrian Aramaic | šaqmā 'ill, sad' (Payne Smith 594) | Payne Smith 594 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

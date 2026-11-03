@@ -31,7 +31,7 @@ updated: 2026-10-26T14:26:59Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | ʔpl; ʾāpîl 2 (Ex 9:32; HALOT 78); ʾōpel 3 (HALOT 79) | HALOT 78; HALOT 79 | gloss withheld |
-| Akkadian | uppulu 2 (CAD U/W 186); uppulu 2 (CAD U/W 187) | CAD U/W 186; CAD U/W 187 | gloss withheld |
+| Akkadian | uppulu 2 (CAD U/W 186; AHw 1425); uppulu 2 (CAD U/W 187) | CAD U/W 186; AHw 1425; CAD U/W 187 | gloss withheld |
 | Judaic Aramaic | ʾăpîlā 2 (HALOT 78) | HALOT 78 | gloss withheld |
 | Arabic | ʾafala 'it was, became absent, hidden, concealed; it set' 1 (Lane 70) | Lane 70 |  |
 

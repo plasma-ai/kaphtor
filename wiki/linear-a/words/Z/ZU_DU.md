@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Z/ZU_DU
 title: "ZU-DU"
 desc: "ṯudu: breast (woman's). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "body", "noun"]
 kind: "word"
 form: "ZU-DU"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | breast (woman's) |
 | Root | \*ṯa/ud- (PS #2036) |
 | Proto-Semitic | \*ṯa/ud- (#2036) |
-| Language layer | NWS |
-| Category | noun |
-| Semantic field | kinship |
+| Language layer | Semitic |
+| Tags | body, noun |
+| Semantic field | body_part |
 
 ### Note
 
-Ug. ṯd, Heb. šād, Ar. ṯady-. Biconsonantal root. Fractional quantities (5/8, 1) suggest commodity subdivision. See ZU-DI.
+HT 51b \]ZU-DU ⅝, after \]KU-ME-TA 12\[; HT 99b ZU-DU 1, after SI+SE FIC 6 and DA-SI-\*118 2, before RU-MA-TA 1: a counted entry, in a fraction on HT 51b. ṯudu 'breast', a biconsonantal noun: Ug. ṯd 'breast, bosom', also 'breast (of meat)' (DULAT 886), Heb. šad 'breast' (HALOT 1416), Ar. ṯady-. Two attestations. See ZU-DI.
 
 ### Cognates
 

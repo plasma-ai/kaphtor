@@ -9,7 +9,7 @@ site: "Lachish"
 support: "Fragment of a locally made limestone bowl or krater"
 period: ""
 translation: "complete"
-words: []
+words: ["RI-DA-U"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -51,20 +51,24 @@ Unicode (Linear A block):
 
 **no confidence given**, complete (status: fragmentary).
 
-> \[…\]-MI(?) · RI-DA-U · SE ¾ \[…\]
+> \[…\]-MI(?) · Ridāyu · SE ¾ \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/R/RI_DA_U\|RI-DA-U]] |  | untranslated | UNREAD | unread |
+| [[wiki/linear-a/words/R/RI_DA_U\|RI-DA-U]] | Ridāyu | personal name, 'Helper' (hypocoristic, as DI-NA-U Dīnāyu); rival a vessel or contents name | SPECULATIVE | SPECULATIVE (lexicon) |
 | SE |  | commodity ideogram or capacity measure | UNREAD |  |
 
 ### Notes
 
-Incised right-to-left on a locally made limestone bowl or krater fragment; both ends are broken. The first preserved MI is probably the end of a lost word. Finkelberg, Uchitel and Ussishkin (1996, 195-203) offer only two functional possibilities: 'RI-DA-U: 3/4 of the SE commodity,' or a container for RI-DA-U of 3/4 SE capacity. RILA-S1 D 5 classifies the inscription as doubtful Linear A. No lexical translation is adopted.
+Incised right-to-left on a locally made limestone bowl or krater fragment; both ends are broken. The first preserved MI is probably the end of a lost word. Finkelberg, Uchitel and Ussishkin (1996, 195-203) offer only two functional possibilities: 'RI-DA-U: 3/4 of the SE commodity,' or a container for RI-DA-U of 3/4 SE capacity. Their closest parallel, KN Zb 27 DI-NA-U · VIN 17, is name, commodity, number. RILA-S1 D 5 classifies the inscription as doubtful Linear A.
 
 ### Source
 
 Finkelberg, Uchitel and Ussishkin 1996, 195-203
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/R/RI_DA_U|RI-DA-U]].
 
 ## Corpus note
 

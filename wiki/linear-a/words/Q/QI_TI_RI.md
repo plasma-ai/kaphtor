@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QI_TI_RI
 title: "QI-TI-RI"
 desc: "qiṭrī: my incense (ritual term). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "ritual"]
+tags: ["linear-a", "word", "tier-3", "aromatic", "hapax", "noun", "ritual"]
 kind: "word"
 form: "QI-TI-RI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | my incense (ritual term) |
 | Root | q-ṭ-r |
 | Proto-Semitic | \*ḳuṭr- (#2544) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | aromatic, hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Written \*34-TI-RI, with \*34 read QI. Hebrew qiṭṭēr 'to burn incense', qeṭōret 'incense'. TI for /ṭi/ via T/Ṭ neutralization. Register .1 of KNZc6, an ink-inscribed clay cup from a sanctuary deposit above the Basement of the Monolithic Pillars, Knossos; followed by A-DI DA-KI-TI 'until fine' (Lev 16:12 qəṭōret … daqqâ). 1cs possessive suffix -ī. See QA-\*118-RA-RE.
+KN Zc 6, an ink-inscribed clay cup from a sanctuary deposit above the Basement of the Monolithic Pillars, Knossos: .1 \*34-TI-RI, .2 A-DI DA-KI-TI 'until fine' (Lev 16:12 qəṭōret … daqqâ). qiṭrī 'my incense', \*34 read QI, TI for ṭi, with the 1cs possessive suffix -ī: Heb. qiṭṭēr 'to burn incense' (HALOT 1094), qəṭōret 'incense' (HALOT 1095). Rival: ʿiṭrī 'my scent', \*34 for ʿi: Heb. ʿătar 'smell (of incense)' (Ezek 8:11), Arb. ʿiṭr 'scent' (HALOT 906). Weak point: \*34 = qi is a proposed value. One attestation. See QA-\*118-RA-RE.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Written \*34-TI-RI, with \*34 read QI. Hebrew qiṭṭēr 'to burn incense', qe�
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; HALOT; GlOS 1
 
 ## Attestations
 

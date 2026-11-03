@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_DI
 title: "SA-DI"
 desc: "šadī: land labourer, field worker; rival the personal name Šadī. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "agriculture", "hapax", "noun", "occupation", "personnel"]
 kind: "word"
 form: "SA-DI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | land labourer, field worker; rival the personal name Šadī |
 | Root | ś-d-w |
 | Proto-Semitic | \*ŝady- (#1804) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | agriculture, hapax, noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT 111b .1 SA-DI 4\[, whole and undotted, the numeral broken after (GORILA I 181), on a fragment broken above and below. SA writes š in the S-class merger. A count of four fits a term for workers; the fragment gives no heading to choose between the occupation and the name. Rival: the name Šadī (Ugaritic šdy (II); Amorite šad- 'mountain').
+HT 111b .1 SA-DI 4\[, whole and undotted, the numeral broken after (GORILA I 181), on a fragment broken above and below. SA writes š in the S-class merger. Ugaritic šdy (I) 'land labourer', as nʿrm šdym 'serving lads, labourers in the fields' (KTU 4.868:4; DULAT 799). A count of four fits a term for workers; the fragment gives no heading to choose between the occupation and the name. Rival: the name Šadī, Ugaritic šdy (II), ša-du-ya (DULAT 799), and Amorite ŠADW-IJA, ŠA-DI-IA (Gelb 1980, no. 5781).
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 111b .1 SA-DI 4\[, whole and undotted, the numeral broken after (GORILA I 181
 
 ### Source
 
-di Mino; DULAT
+di Mino; DULAT; Gelb 1980
 
 ## Attestations
 
@@ -67,9 +67,13 @@ di Mino; DULAT
 | Type | title (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 111b .1 SA-DI 4\[, the numeral broken after (GORILA I 181). Ugaritic šdy 'land labourer' (KTU 4.868:4; DULAT 799). See the lexicon entry.
 
 <!-- END kaphtor:record -->

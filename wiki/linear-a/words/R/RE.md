@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RE
 title: "RE"
 desc: "le-: to, for, as (preposition). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "particle"]
+tags: ["linear-a", "word", "tier-4", "preposition"]
 kind: "word"
 form: "RE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | to, for, as (preposition) |
 | Root | l |
 | Proto-Semitic | \*lV-- (#K0116) |
-| Language layer | NWS |
-| Category | particle |
+| Language layer | Semitic |
+| Tags | preposition |
 | Semantic field | particle |
 
 ### Note
 
-RE read as /le/ not /re/—preposition function. EXCLUDED as commodity logogram. 62% numeral-following rate is a syntactic artifact—le- 'to, for' introduces allocation quantities on administrative tablets. The standalone occurrences outside HT 27 read grammatically. On HT 27a–b RE n is a counted entry (27a RE 20\[; on 27b paired with SA, SA 4 RE 70 on one line), not le-; no reading there. HT32: OLE+NE RE 104 = 'libation oil for 104.' Methodological note: prepositions introducing quantities are a known confounder for the %Num commodity diagnostic.
+RE writes le-, the preposition 'to, for', whose vowel goes with Arabic li (Gordon 1966 §161; Heb. lə-, HALOT 507). On administrative tablets it introduces quantities: HT 32 OLE+NE · RE 104, 'libation oil for 104'; HT 66 TA-MI · RE 1; PK Zb X RE ⅓. On HT 27a RE 20, and on HT 27b RE 14, RE 70\[ and RE \]40, each after SA n (SA 1, SA 4, SA 4), RE n is a counted entry, with no reading there.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ RE read as /le/ not /re/—preposition function. EXCLUDED as commodity logogram.
 
 ### Source
 
-Gordon 1966 §163
+Gordon 1966; HALOT
 
 ### Review
 
@@ -72,7 +72,7 @@ Gordon 1966 §163
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT41a\|HT41a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT66\|HT66]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PK/PKZb/PKZbX\|PKZbX]] | Palaikastro | Clay vessel | complete |
 

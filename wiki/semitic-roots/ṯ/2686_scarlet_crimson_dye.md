@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šinītu (CAD Š/3 47) | CAD Š/3 47 | gloss withheld |
+| Akkadian | šinītu (CAD Š/3 47; AHw 1242) | CAD Š/3 47; AHw 1242 | gloss withheld |
 | Phoenician | šnt (Krahmalkov 475) | Krahmalkov 475 | gloss withheld |
 | Hebrew | šānī (HALOT 1603) | HALOT 1603 | gloss withheld |
 | Ugaritic | ṯn (DULAT 908) | DULAT 908 | gloss withheld |

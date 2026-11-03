@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/2748_eight
 title: "*ṯamāniy-: 'eight'"
-desc: "Proto-Semitic *ṯamāniy-, 'eight': reflexes in 23 language(s)."
+desc: "Proto-Semitic *ṯamāniy-, 'eight': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2748"
@@ -38,7 +38,7 @@ updated: 2026-10-26T14:26:59Z
 | Geez | samāntu (OLA80 §35.2) | OLA80 §35.2 | gloss withheld |
 | Libyco-Berber | tam (OLA80 §35.13) | OLA80 §35.13 | gloss withheld |
 | Amharic | sant (may reflect \*ṭmān-t-) (OLA80 §35.13) | OLA80 §35.13 |  |
-| Aramaic | tmny (DNWSI 1163 apud CAL) | DNWSI 1163; CAL; Anderson–Moser 2024 root ṯmn | gloss withheld |
+| Aramaic | tmny (DNWSI 1163) | DNWSI 1163; Anderson–Moser 2024 root ṯmn | gloss withheld |
 | Punic | šmn (T 323); šmn, šmnm (T 323) | T 323; Anderson–Moser 2024 root ṯmn | gloss withheld |
 | Epigraphic South Arabian | ṯmny(t), ṯmn(t) (HALOT 1569; Sabaweb lemmas 7464, 5279) | HALOT 1569; Sabaweb lemmas 7464, 5279 | gloss withheld |
 | Soqotri | temeneh (LGz. 502) | LGz. 502 |  |
@@ -52,6 +52,7 @@ updated: 2026-10-26T14:26:59Z
 | Harari | sūt (LGz. 502) | LGz. 502 |  |
 | Phoenician | šmn, šmnh (T 323) | T 323 | gloss withheld |
 | East Ethiopic | Sel. Zwy. səmmut, Wol. summut (EDG 547 apud SEDonline 858) | EDG 547; SEDonline 858 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṯmny (Al-Jallad–Jaworska 136) | Al-Jallad–Jaworska 136 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

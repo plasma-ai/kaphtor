@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_JU
 title: "KA-JU"
 desc: "kallû: messenger, courier (title). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation"]
 kind: "word"
 form: "KA-JU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | messenger, courier (title) |
 | Root | q-l-l |
 | Proto-Semitic | \*ḳVlVl- (#979) |
-| Language layer | Akkadian |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, occupation |
 | Semantic field | personnel |
 
 ### Note
 
-HT 88 .4 KA-JU 1, both signs whole and undotted, the second of six one-unit entries after KI-RO, between KU-PA₃-PA₃ 1 and KU-PA₃-NU 1 (GORILA I 139). JU at its primary value lu: ka-lu, the geminate unwritten. A title in a roster of one-unit entries, as Ugarit issues wine to the courier. Rivals: Ugaritic qallu, with KA for q; kalû 'lamentation priest' (CAD K 91).
+HT 88 .4 KA-JU 1, both signs whole and undotted, the second of six one-unit entries after KI-RO, between KU-PA₃-PA₃ 1 and KU-PA₃-NU 1 (GORILA I 139). JU at its primary value lu: ka-lu, the geminate unwritten. A title in a roster of one-unit entries, as Ugarit issues decanted wine to the courier, yn ḥsp l ql (KTU 4.213:27; DULAT 689). Rivals: Ugaritic ql 'swift (courier)', with KA for q; kalû 'lamentation priest' (CAD K 91).
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 88 .4 KA-JU 1, both signs whole and undotted, the second of six one-unit entr
 
 ### Source
 
-di Mino; CAD K 83–84; DULAT
+di Mino; CAD K; DULAT
 
 ## Attestations
 
@@ -71,12 +71,16 @@ di Mino; CAD K 83–84; DULAT
 | Field | Value |
 |---|---|
 | Type | title (SPECULATIVE) |
-| Affiliation | akkadian_contact (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 88 .4 KA-JU 1, in the one-unit roster after KI-RO (GORILA I 139). Ugarit issues wine to the courier, yn ḥsp l ql (KTU 4.213:27). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

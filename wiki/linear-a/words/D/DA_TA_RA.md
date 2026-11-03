@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Old (man's name); rival 'He of the gate' |
 | Root | d-ṯ-r |
 | Proto-Semitic | \*dṯr (#3774) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -65,7 +65,7 @@ di Mino; Gelb 1980
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |

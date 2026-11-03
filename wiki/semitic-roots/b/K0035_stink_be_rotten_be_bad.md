@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0035_stink_be_rotten_be_bad
 title: "*bVʾVš-: 'stink, be rotten; be bad'"
-desc: "Proto-Semitic *bVʾVš-, 'stink, be rotten; be bad': reflexes in 13 language(s)."
+desc: "Proto-Semitic *bVʾVš-, 'stink, be rotten; be bad': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0035"
@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | baʾāšu A (CAD B 4); buʾšu A (CAD B 352) | CAD B 4; CAD B 352 | gloss withheld |
-| Aramaic | BʾŠ 'bad' | Anderson–Moser 2024 root bʾš |  |
+| Aramaic | BʾŠ; bʔš (DNWSI 142) | DNWSI 142; Anderson–Moser 2024 root bʾš | gloss withheld |
 | Geez | bəʾsa 'bad' | Anderson–Moser 2024 root bʾš |  |
 | Hebrew | baʾaš; bǝʾōš (HALOT 107) | HALOT 107; Anderson–Moser 2024 root bʾš | gloss withheld |
 | Gurage | Cha. Ezha Muh. Msq. Gog. Sod. basä, End. Enn. Gye. baˀasä (EDG 129 apud SEDonline 1108); Gog. Sod. bəs, bis (EDG 158 apud SEDonline 1108) | EDG 129; SEDonline 1108; EDG 158 | gloss withheld |
@@ -42,6 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab bʾs1; bʾs1, bʾs1t (SD 25); bʾs (Biella 34); Qat. bʔs1tm (Ricks 1982 s.v. bʔs1tm) | SD 25; Biella 34; Ricks 1982 s.v. bʔs1tm | gloss withheld |
 | Syrian Aramaic | bʾeš 'be evil, displease, harm'; beʾštā 'a misfortune' (Payne Smith 34); bīš 'bad, evil' (Payne Smith 43); bīšūtā 'evil, harm; wickedness, envy' (Payne Smith 43) | Payne Smith 34; Payne Smith 43 |  |
 | Eblaitic | bí-ì-šum /biʾs₁/; /buʾs₁ān/: cf. bù-sa-nu (Sanmartín GlOS 1, 105); bí-ì-šum /biʾšum/, probably (= Sum. ḫáb, VE 966 = EV 092) (Bonechi 2008, 4, 6) | Sanmartín GlOS 1, 105; VE 966; Bonechi 2008, 4, 6 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bʾs; bʾs; bʾs (D); ʾbʾs; Hismaic bʾs; Thamudic B bʾs (Al-Jallad 2026, 25) | Al-Jallad 2026 25 | gloss withheld |
+| Biblical Aramaic | bʾš (HALOT 107); \*bīš (HALOT BArm. s.v. בִּאישׁ) | HALOT 107; HALOT BArm. s.v. בִּאישׁ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

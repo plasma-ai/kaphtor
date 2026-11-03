@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | mīrət (ML 270 apud SEDonline 1470) | ML 270; SEDonline 1470 | gloss withheld |
-| Jibbali | mirt (JL 174 apud SEDonline 1470) | JL 174; SEDonline 1470 | gloss withheld |
+| Jibbali | mirt (JL 174 apud SEDonline 1470); s̃əmərtɔ́t (Rubin 2014 667) | JL 174; SEDonline 1470; Rubin 2014 667 | gloss withheld |
 | Soqotri | méret (LS 251 apud SEDonline 1470) | LS 251; SEDonline 1470 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-PH 9a, the only group on the face, followed by a fraction sign, on a pierced MM II tablet from Vano 25 whose other face carries a vessel logogram and numerals (GORILA I 298). Intact and undotted on both copies. \*317 is a logogram candidate (LIQḤU, CANDIDATE) and \*353 has no value, so two of the three signs are unresolved. No reading.
+PH 9a, a pierced MM II tablet from Vano 25: \*317, its axis drawn on into a dotted QE, then \*353 and, set apart at the right, a fraction (GORILA I 298); the other face carries a vessel logogram and numerals. HT 89 writes \*317 and QE as one ligature, JU+\*317+QE 22, and ARKH 3a has \*317 alone with numerals twice: a logogram with its QE rider. \*353 occurs only here. Not a word.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3129_press_flat_spread_out
 title: "*ṣpḥ: 'press flat, spread out'"
-desc: "Proto-Semitic *ṣpḥ, 'press flat, spread out': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ṣpḥ, 'press flat, spread out': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3129"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṣəfḥ (LGz. 548) | LGz. 548 | gloss withheld |
 | Tigrinya | ṣäfiḥ, ṣäfḥe (LGz. 548) | LGz. 548 |  |
 | Amharic | säffa (LGz. 548) | LGz. 548 |  |
+| Emar | ṣí-ip-ḫu, ṣì-pa-ḫi /ṣipḫū̆/, /ṣipaḫī̆/ (Pentiuc 2001, 163–164) | Pentiuc 2001 163–164 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

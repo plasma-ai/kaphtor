@@ -592,13 +592,13 @@ def sql_loose(field: str) -> str:
     """ane_keys.loose_key in SQL, for stored values: the same fold, without a Python call per row (the two must
     agree on every view's stored keys)."""
     return (f"regexp_replace(regexp_replace(regexp_replace(lower(strip_accents({field})), "
-            f"'s[123¹²³₁₂₃]', 's', 'g'), '[ʾʔʼʿʕ‘`ᶜ''’]', '''', 'g'), '[-. ⸗=^:√*]', '', 'g')")
+            f"'s[123¹²³₁₂₃]', 's', 'g'), '[ʾʔʼˀʿʕ‘`ᶜˁˤ''’]', '''', 'g'), '[-. ⸗=^:√*]', '', 'g')")
 
 
 def sql_marks_kept(field: str) -> str:
     """ane_keys.marks_kept in SQL (the two must agree on every view's stored keys)."""
     return (f"regexp_replace(regexp_replace(regexp_replace(lower({field}), "
-            f"'s[123¹²³₁₂₃]', 's', 'g'), '[ʾʔʼʿʕ‘`ᶜ''’]', '''', 'g'), '[-. ⸗=^:√*]', '', 'g')")
+            f"'s[123¹²³₁₂₃]', 's', 'g'), '[ʾʔʼˀʿʕ‘`ᶜˁˤ''’]', '''', 'g'), '[-. ⸗=^:√*]', '', 'g')")
 
 
 def loose_query(query: str) -> tuple[str, str] | None:

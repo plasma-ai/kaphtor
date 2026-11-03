@@ -19,7 +19,7 @@ from . import counts
 # Translation word items: each normalized field, and the item keys that may supply it (one at most).
 ITEM_ALIASES = {"form": ("linear_a",), "gloss": ("gloss", "meaning", "translation"), "note": ("note", "notes")}
 ITEM_KEYS = {"reading", "confidence", "reading_type", "root", "layer", "position", "quantity", "confidence_score",
-             "dialect_variant_of", "resolved", "morphology", "isogloss", "sigla_contested", "sigla_note"}
+             "dialect_variant_of", "resolved", "morphology", "isogloss", "sigla_contested", "sigla_note", "restored"}
 
 # resolution_summary's kinds -> the wiki's sign folders.
 SIGN_KINDS = {"phonemic": "syllabic", "logograms": "logograms", "fractions": "fractions"}

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1134_stand_up_rise
 title: "*ḳVwVm-: 'stand (up), rise'"
-desc: "Proto-Semitic *ḳVwVm-, 'stand (up), rise': reflexes in 18 language(s)."
+desc: "Proto-Semitic *ḳVwVm-, 'stand (up), rise': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1134"
@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḳwm \[-u-\] |  |  |
-| Mandaic Aramaic | ḳwm (Drower/Macuch 407a apud CAL) | Macuch 407a; CAL |  |
+| Mandaic Aramaic | QUM (MD 407) | MD 407 |  |
 | Ugaritic | ḳm (DULAT 692) | DULAT 692 | gloss withheld |
 | Geez | ḳwm |  | gloss withheld |
 | Gurage | Sod ḳomäm, Cha ḳʷämäm |  |  |
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | qwm: jaqūm, qāma, qāmum, jāqīm (Gelb AS 21, 29); maqīm, taqūm, yaqīm, taqīm (Buck 2019, 331); q-w-m: ia-kum, ia-ku-ú-um, ia-qum-ba-li; qām, qawm: qa-ma-da-num, ga-mi-DINGIR, ga-mu-ᵈIM (Sanmartín GlOS 1, 361–362) | Gelb AS 21 29; Buck 2019, 331; Sanmartín GlOS 1, 361–362 | gloss withheld |
 | Phoenician | qwm (B 404) | B 404 | gloss withheld |
 | Eblaitic | /q-w-m/: names a-gú-mu, gú-um; /qām, qawm/: cf. names a-du-ga-mu, a-ḫu-kam₄, ga-ma-bí (Sanmartín GlOS 1, 361–362) | Sanmartín GlOS 1, 361–362 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾqm (Al-Jallad 2026, 115) | Al-Jallad 2026 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

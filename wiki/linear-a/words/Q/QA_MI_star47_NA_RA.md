@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_MI_star47_NA_RA
 title: "QA-MI-*47-NA-RA"
 desc: "qāmī šū-nāra: personal name, 'who stands: He is fire'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "QA-MI-*47-NA-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,12 +35,13 @@ updated: 2026-10-31T14:13:39Z
 | Meaning | personal name, 'who stands: He is fire' |
 | Root | q-w-m + n-w-r |
 | Proto-Semitic | \*ḳVwVm- (#1134) + \*nūr- (#1196) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KN Zf 31, a silver pin, first line, between DA-DU-MI-NE and A-WA-PI; whole and undotted (GORILA IV 155). QA-MI qāmī 'who stands', the opener of Qawmī-ʾIl. \*47 = so writes šū, as in \*47-NU-RA-JA Šū-nūraya (HT 115a); so for šū is a vowel mismatch only. NA-RA nār 'fire' against NU-RA nūr 'light' on HT 115a, the Arabic pair. Standing, fire and shining forth are the theophany's: yāqûm ʾĕlōhîm (Ps 68:2); ʾĕlōhîm hôpîaʿ … ʾēš lə-pānāyw tōʾkēl (Ps 50:2–3), and A-WA-PI 'he shone forth' follows. The same pin writes SU in TE-SU-DE-SE-KE-I. Rival: \*47 = mo, manāra 'lampstand' (Ug. mnrt, DULAT 558). One attestation. See \*47-KU-NA.
+KN Zf 31, a silver pin, first line, between DA-DU-MI-NE and A-WA-PI; whole and undotted (GORILA IV 155). QA-MI qāmī 'who stands', the opener of Qawmī-ʾIl. \*47 = so writes šū, as in \*47-NU-RA-JA Šū-nūraya (HT 115a); so for šū is a vowel mismatch only. NA-RA nār 'fire' against NU-RA nūr 'light' on HT 115a, the Arabic pair. Standing, fire and shining forth are the theophany's: yāqûm ʾĕlōhîm 'God arises' (Ps 68:2); ʾĕlōhîm hôpîaʿ … ʾēš lə-pānāyw tōʾkēl 'God shone forth … fire devours before him' (Ps 50:2–3), and A-WA-PI 'he shone forth' follows. The same pin writes SU in TE-SU-DE-SE-KE-I. Rival: \*47 = mo, manāra 'lampstand' (Ug. mnrt, DULAT 558). One attestation. See \*47-KU-NA.
 
 ### Cognates
 

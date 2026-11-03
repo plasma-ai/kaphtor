@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/3577_to_be_humble_submit_to_humble_subjugate
 title: "*ṣ̂rʕ: 'to be humble, submit; to humble, subjugate'"
-desc: "Proto-Semitic *ṣ̂rʕ, 'to be humble, submit; to humble, subjugate': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṣ̂rʕ, 'to be humble, submit; to humble, subjugate': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3577"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Arabic | ḍaraʿa 'became lowly, humble, submissive; abased'; taḍarraʿa 'he lowered, humbled, abased himself' (Lane 1787); ḍaraʿ 'lowly, humble, submissive' (Lane 1788) | Lane 1787; Lane 1788 |  |
 | Epigraphic South Arabian | Sab ḍrʿ; hḍrʿ, tḍrʿ; ḍrʿt (SD 41–42); ḍrʿ; tḍrʿ; hḍrʿ (Biella 437) | SD 41–42; Biella 437 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḍrʿt (Al-Jallad 2026, 42) | Al-Jallad 2026 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

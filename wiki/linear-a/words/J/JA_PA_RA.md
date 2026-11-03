@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_PA_RA
 title: "JA-PA-RA"
 desc: "yapʾara: may he/it glorify, adorn (3ms volitive yaqtula √p-ʾ-r; guttural ʾ unwritten). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "JA-PA-RA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | may he/it glorify, adorn (3ms volitive yaqtula √p-ʾ-r; guttural ʾ unwritten) |
 | Root | p-ʾ-r |
 | Proto-Semitic | \*pVʔVr- (#2964) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, verb |
 | Semantic field | verbal |
 
 ### Note
 
-Component of JA-PA-RA-JA-SE (SYZa9)—see that entry; not attested standalone. Spelling parallel: JA-PA-QA = yapqaḥ (PKZa11/12), same ya- + p-initial root with dropped guttural.
+SY Za 9: only within JA-PA-RA-JA-SE. yapʾara, 3ms volitive yaqtula of √p-ʾ-r 'glorify, adorn', the guttural ʾ unwritten, as in JA-PA-QA yapqaḥ (PK Za 11, PK Za 12): the same ya- prefix before a p-initial root with the guttural dropped. One attestation. See JA-PA-RA-JA-SE.
 
 ### Cognates
 

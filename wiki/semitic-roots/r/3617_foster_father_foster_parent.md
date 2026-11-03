@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-D participle with -ān of the verb 'to grow; to rear' (CAD M/2 216: cf. rabû v.). The verb is 3632 \*rbw 'to grow, increase; to rear'. Cf. 3552 \*ynḳ 'wet-nurse', 60 \*rabīb- 'nursing mother', 2477 \*rabb- 'big'.
+D participle with -ān of the verb 'to grow; to rear' (CAD M/2 216: cf. rabû v.). The verb is 3632 \*rbw 'to grow, increase; to rear'. Cf. 838 \*ynḳ 'wet-nurse', 60 \*rabīb- 'nursing mother', 2477 \*rabb- 'big'.
 
 <!-- END kaphtor:record -->

@@ -46,12 +46,13 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka | SPECULATIVE |
 | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI_SU\|A-RI-SU]] | ḥārišu | CANDIDATE |
+| [[wiki/linear-a/words/A/A_SI_SU_PO_A\|A-SI-SU-PO-A]] | ʾassuppōa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SU_PU_WA\|A-SU-PU-WA]] | ʾasuppūa | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_SU_NI\|DU-SU-NI]] | Dišon | SPECULATIVE |
-| [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | yadaʿšu | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt | CANDIDATE |
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | CANDIDATE |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | PROBABLE |
 | [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sukar | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_SU_PU\|QE-SU-PU]] | qaššāpu | CANDIDATE |
@@ -69,6 +70,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | CANDIDATE |
 | [[wiki/linear-a/words/U/U_SU\|U-SU]] | ʾUšu | CANDIDATE |
-| [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Zuzu | SPECULATIVE |
+| [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Ṣūṣu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -1,18 +1,18 @@
 ---
 name: wiki/linear-a/words/S/SI_DU_QI_KU_MI
 title: "SI-DU-QI-KU-MI"
-desc: "ṣidqī-kummī: Seat of Righteousness (toponym/institutional name). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "toponym"]
+desc: "Ṣiduqi-kummi: the cella of Ṣiduq, the Just One (heading an aromatic list). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "noun", "ritual", "toponym"]
 kind: "word"
 form: "SI-DU-QI-KU-MI"
 datasets: ["lexicon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.5
-reading: "ṣidqī-kummī"
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "Ṣiduqi-kummi"
 attestations: ["HT110a"]
-created: 2026-10-24T16:17:50Z
-updated: 2026-10-24T16:17:50Z
+created: 2026-11-06T02:47:44Z
+updated: 2026-11-06T02:47:44Z
 ---
 
 # SI-DU-QI-KU-MI
@@ -27,33 +27,36 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.50
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
-| Reading | ṣidqī-kummī |
-| Meaning | Seat of Righteousness (toponym/institutional name) |
-| Root | ṣ-d-q + Akkadian kummu |
-| Proto-Semitic | \*ṣidq- (#2762) |
-| Language layer | NWS + Akkadian |
-| Category | toponym |
+| Reading | Ṣiduqi-kummi |
+| Meaning | the cella of Ṣiduq, the Just One (heading an aromatic list) |
+| Root | ṣ-d-q + k-m-m |
+| Proto-Semitic | \*ṣdḳ (#2614) + \*kumm- (#3788) |
+| Language layer | Semitic |
+| Tags | compound, hapax, noun, ritual, toponym |
 | Semantic field | toponym |
 
 ### Note
 
-NWS √ṣ-d-q 'righteous' (SI=ṣi via S-class neutralization) + Akkadian kummu A 'cella, private room (of a temple or palace)' (CAD K 533). Institutional name at Haghia Triada. \*34=QI (K-class: covers /qi/, /gi/, /ki/). \|\| Huehnergard: Ug ṣdq /ṣidqu/ "rightness, legitimacy"; qiCCu noun pattern. ṣdqh /ṣidqi-hū/ "his legitimate/rightful". BH cognate: ṣēdeq "righteousness" (Ug. i/u vowels vs. BH development) (Huehnergard 2012, p. 87) \|\| Rival: 'Ṣidq of Kummi', with Kummi the city of Tešub, Hitt. Kummiyaš, and Kummeni his epithet (Laroche 1980, 154). DDD s.v. Ṣedeq: deity name (Melchizedek, Adoni-ṣedeq, Philo Sydyk)—theophoric "Shrine of Ṣedeq" also possible. See A-SA-DA-KA.
+HT 110a .1 SI-DU-\*34-KU-MI, all five signs whole and undotted, heading the tablet before CYP+E 20, then KU-PA 1, KU-RO 100\[, NI 15\[ (GORILA I 178–179). Ṣiduqi-kummi 'the cella of Ṣiduq': DU writes the u of Amorite ṣaduq and Damascius' Sadykos, SI the i of Ṣidqiyyāhû and Arabic ṣiddīq; kummu 'cella' (CAD K 533). Weak point: \*34 = qi is a proposed value. Rival: a sentence name on ṣaduq. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | kummu A 'cella, private room (of a temple or palace)' (CAD K 533) |
-| Amorite | ṣidqum 'justice'; DN Ṣaduq, Ṣaduqa (Gelb 1980, glossary) |
-| Hurrian | Kummi, the city of Tešub (Hitt. Kummiyaš); Kummeni, epithet of Tešub (Laroche 1980, 154) |
+| Amorite | ṣaduq 'just, right, just case; DN': za-du-kum, a-bi-ṣa-du-uq (GlOS 2, 215); ṣidq 'justice, legitimacy; DN' (GlOS 2, 214); zi-id-ki-e-pa Ṣidqī-yapaʿ, Qaṭna (Buck 2018, 352) |
+| Ugaritic | ṣdq (B) 'lawful, righteous; DN' (GlOS 2, 215); Ṣidqanu (Kinlaw 1967, 103); kbm 'a cult installation', š kbmh 'a ram in the k.' (KTU 1.106:15), set beside Akk. kummu (DULAT 423) |
+| Phoenician | Sadykos, father of the eight Kabeiroi (Damascius, in Brown 1995, 36) |
+| Hebrew | ṣaddîq 'righteous' (HALOT 1003); צִדְקִיָּהוּ Ṣidqiyyāhû (2 Kgs 24:17) |
+| Arabic | ṣiddīq 'truthful' (Q 12:46, 19:41) |
+| Akkadian | kummu A 'cella, private room (of a temple or palace)', É.NUN agrun = kummu (CAD K 533) |
 
 ### Source
 
-di Mino; CAD K; Laroche 1980; Huehnergard 2012; Gelb 1980
+di Mino; GlOS 2; CAD K; DULAT; Buck 2018; Kinlaw 1967; Brown 1995
 
 ## Attestations
 

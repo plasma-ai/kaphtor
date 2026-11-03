@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣerru (CAD Ṣ 137) | CAD Ṣ 137 | gloss withheld |
+| Akkadian | ṣerru (CAD Ṣ 137; AHw 1093) | CAD Ṣ 137; AHw 1093 | gloss withheld |
 | Hebrew | ṣîr (HALOT 1024) | HALOT 1024 | gloss withheld |
 | Judaic Aramaic | ṣîrā, ṣîrtā (HALOT 1024) | HALOT 1024 | gloss withheld |
 | Syrian Aramaic | ṣayārtā 'door sockets; threshold stone' (Payne Smith 478) | Payne Smith 478 |  |

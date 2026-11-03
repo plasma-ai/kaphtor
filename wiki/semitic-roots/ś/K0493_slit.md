@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/K0493_slit
 title: "*śVtVr-: 'slit'"
-desc: "Proto-Semitic *śVtVr-, 'slit': reflexes in 12 language(s)."
+desc: "Proto-Semitic *śVtVr-, 'slit': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0493"
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | säntärä (v.) (LGz. 537) | LGz. 537 | gloss withheld |
 | Amharic | sänättärä, šänättärä (LGz. 537) | LGz. 537 | gloss withheld |
 | Judaic Aramaic | sᵉtar (HALOT 1363) | HALOT 1363 |  |
+| Biblical Aramaic | str (HALOT BArm. s.v. II סתר) | HALOT BArm. s.v. II סתר | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

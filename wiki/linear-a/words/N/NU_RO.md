@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N/NU_RO
 title: "NU-RO"
 desc: "nūr-: light, fire (divine epithet or votive label on clay vessels). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "epithet", "ritual", "votive"]
 kind: "word"
 form: "NU-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | light, fire (divine epithet or votive label on clay vessels) |
 | Root | n-w-r |
 | Proto-Semitic | \*nūr- (#1196) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | epithet, ritual, votive |
 | Semantic field | divine |
 
 ### Note
 
-Sole word on both clay vessel inscriptions (Kamilari + unknown site). Votive vessel context favors divine epithet reading—nūru "Light" as address to deity (cf. Shamash epithets). Rival: a name on nūr, as Mari nu-ur-me-er, Emar nu-ri-ᵈda-gan, Ugarit nu-ri-ia-nu (GlOS 2, 114). Two attestations and no sentence context. \|\| Huehnergard: Ug nwr /nāra/ ~ /yanūr-/ "G: to be/become bright, shine"; I-n / hollow-looking w root. G suffix nāra, prefix yanūr-. BH cognate: nēr "lamp" (Huehnergard 2012, p. 50 (line ref.); cf. BH \[9\]). See \*301-U-RA.
+IN Zb 1 and KAM Zb 1, the sole word on two clay vessels, from Kamilari and an unknown site, with no sentence context. nūr- 'light, fire', √n-w-r: Ug. nwr /nāra/, /yanūr-/ 'to be bright, shine' (Huehnergard 2012, 50), BH nēr 'lamp'. On a votive vessel nūru 'Light' addresses a god, as in the epithets of Shamash. Rival: a name on nūr, as Mari nu-ur-me-er, Emar nu-ri-ᵈda-gan, Ugarit nu-ri-ia-nu (GlOS 2, 114). Two attestations. See \*301-U-RA.
 
 ### Cognates
 
@@ -78,6 +78,6 @@ di Mino; GlOS 2
 
 ### Note
 
-Sole word on both attestations (KAMZb1, INZb1). Single-word inscriptions at Kamilari and Inatos—more consistent with votive label, divine epithet, or dedicatory formula than PN. Possible Semitic /nūru/ "light" (Akk. nūru, Heb. נוּר/נֵר)—divine epithet or theophoric. Cannot definitively exclude PN. PS \*nūr-; Ug. nr.
+IN Zb 1 and KAM Zb 1, the sole word on two clay vessels: nūr- 'Light', √n-w-r, addressing a god, as in the epithets of Shamash; Ugaritic nr 'light' (DULAT 633), Akkadian nūru. Rival: a name on nūr, as Mari nu-ur-me-er (GlOS 2, 114). See the lexicon entry.
 
 <!-- END kaphtor:record -->

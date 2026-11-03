@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/O/OLE_plus_KI
 title: "OLE+KI"
-desc: "kīnu: oil subtype; perhaps standard or genuine-grade oil. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+desc: "kīnu: genuine, standard-grade oil (kīnu). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "ligature", "logogram", "oil"]
 kind: "word"
 form: "OLE+KI"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kīnu |
-| Meaning | oil subtype; perhaps standard or genuine-grade oil |
+| Meaning | genuine, standard-grade oil (kīnu) |
 | Root | k-w-n |
 | Proto-Semitic | \*kwn- (#S35) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, foodstuff, ligature, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-OLE ideogram + KI adjunct (21 tokens at Haghia Triada, Tylissos, and Zakros). Akkadian kīnu 'true, genuine, legitimate' and Hebrew kēn 'correct, right' provide a plausible quality term, and Linear A KI-NU may preserve the full word, although its personal-name interpretation remains viable. No exact ancient collocation 'genuine oil' has been identified, so the subtype is secure but 'standard/genuine grade' remains tentative.
+OLE with the KI adjunct marks an oil subtype, 21 tokens on 17 documents at Haghia Triada, Tylissos and Zakros. kīnu 'true, standard': Akk. kīnu 'true, reliable, correct, normal, legitimate' (CAD K 389), Heb. kēn 'correct, right' (HALOT 482). Cf. KI-NU (ARKH 3a), read Kīnu, the full word or a personal name. Weak point: no Semitic text names a 'genuine' oil.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ OLE ideogram + KI adjunct (21 tokens at Haghia Triada, Tylissos, and Zakros). Ak
 
 ### Source
 
-di Mino
+di Mino; CAD K; HALOT
 
 ## Attestations
 
@@ -62,7 +62,7 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT8a\|HT8a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT50a\|HT50a]] | Haghia Triada | Tablet | none |
@@ -75,7 +75,7 @@ di Mino
 | [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT140\|HT140]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | none |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA18a\|ZA18a]] | Zakros | Tablet | none |
 
 ## In translations

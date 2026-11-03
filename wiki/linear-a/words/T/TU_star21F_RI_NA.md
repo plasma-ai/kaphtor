@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/T/TU_star21F_RI_NA
 title: "TU-*21F-RI-NA"
-desc: "ṭuhārī-nā: our purification (genitive + 1cp -nā). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+desc: "ṭuhārīna: the pure ones (adjective, masculine plural -īna), a grain and oil recipient. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "hapax", "noun", "ritual"]
 kind: "word"
 form: "TU-*21F-RI-NA"
 datasets: ["lexicon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
-reading: "ṭuhārī-nā"
+reading: "ṭuhārīna"
 attestations: ["HT129"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ṭuhārī-nā |
-| Meaning | our purification (genitive + 1cp -nā) |
+| Reading | ṭuhārīna |
+| Meaning | the pure ones (adjective, masculine plural -īna), a grain and oil recipient |
 | Root | ṭ-h-r |
 | Proto-Semitic | \*ṭahar- (#2660) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-The main support for \*21F = /ha/, a speculative value. √ṭ-h-r 'to be clean, purify'—pan-Semitic: Ugaritic ṭhr 'pure' (DULAT 875), Hebrew ṭāhēr 'to be clean, pure' (HALOT 369), Arabic ṭahura, Aramaic ṭǝhar. Central to temple/ritual vocabulary across all Semitic traditions. TU writes /ṭu/ (T/Ṭ not distinguished in Linear A). -NA is the 1cp possessive -nā after the genitive -i, since Linear A has no definite article; cf. lə-ṭohŏrātô 'for his purification' (Lev 14:23). Rival: emphatic enclitic =na (Tropper 2000, §89). \|\| Huehnergard: Ug ṭhr /ṭuhūru/ &lt; \*ṭahūru "pure"; II-guttural adjective. qutūl &lt; qatūl pattern (vowel raising before guttural). BH cognate: ṭāhōr "pure, clean" (Huehnergard 2012, p. 42). In context, grain 40½ and three oils (OLE+DI 1, OLE+KI 6, OLE\[) stand under the heading on HT129: the offering of Hebrew ṭohŏrâ, where on 'the day of his purification' (bəyôm ṭohŏrātô, Lev 14:2) the man brings fine flour mixed with oil and a log of oil (Lev 14:10, 21) 'for his purification' (lə-ṭohŏrātô, Lev 14:23). TU- fits the u of Ug. /ṭuhūru/ and Heb. ṭohŏrâ. Ugaritic ṭhrm 'pure' occurs in KTU 1.4, 1.24, 2.39. See OLE+TU.
+HT 129: KI-RE-TA₂ Kret receives grain, fat and figs; TU-\*21F-RI-NA, in the same slot, grain 40½ and three oils (OLE+DI 1, OLE+KI 6, OLE\[). ṭuhārīna 'the pure ones', the plural of the adjective √ṭ-h-r 'pure': Ug. ṭhr /ṭuhūru/ &lt; \*ṭahūru (DULAT 875; Huehnergard 2012, 42), plural in bht ṭhrm iqnim 'a palace of the purest lapis' (KTU 1.4 V 19; DULAT 90–91); Heb. ṭāhôr (HALOT 369); Ar. al-mutaṭahhirīna 'those who purify themselves' (Q 2:222). TU writes ṭu, the u of Ug. /ṭuhūru/. -NA is the plural \*-īna, which the external endings carried first on adjectives (Huehnergard 2019, 59), as on the grain recipient DI-RI-NA. Akkadian counts pure men, 7 LÚ.MEŠ KÙ.MEŠ (CAD E 104). Rival: ṭuhārī-nā 'our purification', Heb. ṭōhar 'purifying' (Lv 12:4, 6; HALOT 370), with the flour and oil of Lev 14:10, 21. Weak point: one attestation. See OLE+TU.
 
 ### Cognates
 
@@ -66,6 +66,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | ṭuhārī-nā | our purification (genitive + 1cp -nā) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT129\|HT129]] | ṭuhārīna | the pure ones (adjective, masculine plural -īna), a grain and oil recipient | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | bar (BDB 1085) | BDB 1085 |  |
 | Phoenician | br (n.m.) (T 54) | T 54 |  |
 | Modern Aramaic | bar (Maclean 37) | Maclean 37 |  |
-| Jibbali | bɛr (JJ 28) | JJ 28 |  |
+| Jibbali | bɛr (JJ 28); abs. ɛbrɛ́, cstr. bɛr (Rubin 2014 658) | JJ 28; Rubin 2014 658 |  |
 | Amharic | cf. yäʔayn brät (K 884) | K 884 | gloss withheld |
 | Epigraphic South Arabian | Sab brw (SD 32; Sabaweb lemma 1981); Min brw (LM 24) | SD 32; Sabaweb lemma 1981; LM 24 | gloss withheld |
 | Judaic Aramaic | bar (Ja 188), bēr, bar (DJPA 97a apud CAL) | Ja 188; DJPA 97a; CAL |  |

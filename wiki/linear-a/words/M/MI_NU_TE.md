@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MI_NU_TE
 title: "MI-NU-TE"
 desc: "minūt: amount, number; counting, reckoning. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+tags: ["linear-a", "word", "tier-3", "accounting", "administrative", "noun", "numeral_or_measure"]
 kind: "word"
 form: "MI-NU-TE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | amount, number; counting, reckoning |
 | Root | m-n-y |
 | Proto-Semitic | \*mVnVw- (#643) |
-| Language layer | Akkadian |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | accounting, administrative, noun, numeral_or_measure |
 | Semantic field | administrative |
 
 ### Note
 
-Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu is the closest independent formal and semantic parallel: CAD M/2 98 gives 'amount, number,' and the spellings mi-nu-te occur in administrative or reckoning contexts (Ebeling, Parfümrez. p. 26 ii 20; AKA 143 iv 33). This makes 'count/reckoning' preferable to a goddess Minut. Linear A does not mark vowel length, and final TE may carry a support vowel. Linear A writes i where Amorite has a: MI-NU-TE against Ma-nu-tum (Gelb no. 4528), as I-PI-NA-MA against pān-. Arabic Manāt remains a remote comparison, not the primary identification. See MI+\*301.
+HT 86a under A-DU and HT 95a–b list MI-NU-TE after DA-ME in grain allocations (HT 86a DA-ME GRA+B 20, MI-NU-TE 20; HT 95a–b DA-ME 10, MI-NU-TE 10), and HT 106 opens MI-NU-TE CYP 6½. Akkadian minūtu: CAD M/2 98 gives 'amount, number', and mi-nu-te is written in Tiglath-pileser I's tally of game, itti mi-nu-te annite 'with this count' (AKA 143 iv 33), and in an obscure Middle Assyrian ana mi-nu-te (Ebeling, Parfümrez. 26 ii 20; both CAD M/2 99). Linear A does not mark vowel length, and final TE may carry a support vowel. Rival: a goddess, Amorite Ma-nu-tum (Gelb 1980, no. 4528) and Arabic Manāt (Q 53:20), both with a where MI writes i. See MI+\*301.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Four Haghia Triada attestations (HT86a, HT95a, HT95b, HT106). Akkadian minūtu i
 
 ### Source
 
-CAD M/2 98–99; di Mino; GlOS 2
+di Mino; CAD M/2; Gelb 1980
 
 ## Attestations
 

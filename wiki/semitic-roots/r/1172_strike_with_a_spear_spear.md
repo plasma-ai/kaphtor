@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1172_strike_with_a_spear_spear
 title: "*rVmaḥ-: 'strike (with a spear)', 'spear'"
-desc: "Proto-Semitic *rVmaḥ-, 'strike (with a spear)', 'spear': reflexes in 13 language(s)."
+desc: "Proto-Semitic *rVmaḥ-, 'strike (with a spear)', 'spear': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1172"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | rumaḥ (LGz. 471) | LGz. 471 |  |
 | Mehri | rəmḥāt (Kogan 2015, ch. 2 §4.2 no. 51) | Kogan 2015 ch. 2 §4.2 no. 51 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic rmḥ (Al-Jallad–Jaworska 117) | Al-Jallad–Jaworska 117 | gloss withheld |
+| Canaanite | EG SYLL ma=-r=ḥa, ma=ra=ḥa /\*murḥa/ (Hoch 138–139) | Hoch 138–139 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

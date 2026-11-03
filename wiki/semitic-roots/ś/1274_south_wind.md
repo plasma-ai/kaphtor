@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šūtu |  |  |
+| Akkadian | šūtu (AHw 1293) | AHw 1293 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

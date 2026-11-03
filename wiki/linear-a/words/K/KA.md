@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA
 title: "KA"
 desc: "kapp: palm-measure, bowl (unit of dry/liquid measure; administrative commodity category). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+tags: ["linear-a", "word", "tier-2", "administrative", "logogram"]
 kind: "word"
 form: "KA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | palm-measure, bowl (unit of dry/liquid measure; administrative commodity category) |
 | Root | k-p-p |
 | Proto-Semitic | \*kapp- (#1945) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, logogram |
 | Semantic field | administrative |
 
 ### Note
 
-149 single-sign HT nodules (HTWa1322–1470) plus ~12 multi-word tablet appearances across 4 sites (HT, KH, Milos, Gournia). Third most common nodule category after \*301 (226) and KU (152). HT11b is decisive: \*86 · KA 40 · KA 30 · KA 50 · RU-ZU-NA KA 30 · SA-QE-RI · KA 30 · KU-RO 180—sum is exact, KA is a COMMODITY allocated in quantities of 30–50 to named recipients. On HT140, KA alternates with OLE+U (oil) in a ratio pattern (KA 1 · OLE+U 1). On GO2r, KA ⅛—fractional quantity consistent with a unit of measure. On HT85b, KA 1 in a personnel list (one unit per person). Metrological function is consistent across all contexts. Alternatives considered: kaspu "silver" (strong but abbreviation to first syllable weakens it), Egyptian ḫꜣw "goods" (too generic).
+HT 11b: \*86 KA 40, KA 30, KA 50, RU-ZU-NA KA 30, SA-QE-RI · KA 30, KU-RO 180: the sum is exact, and KA is the unit counted out to named recipients in 30s to 50s; on GO 2r KA ⅛ is a fraction of it. kapp 'bowl, palm-measure': Akk. kappu B 'bowl', and at Mari barley and linseed measured ina kappi maḫīrim 'in the k. of the market' (ARMT 13 100:7; CAD K 188). It stands alone on 149 HT nodules (HT Wa 1322–1470), the third commonest after \*301 and KU, and appears on tablets at HT, KH, Milos and Gournia. On HT 85b and HT 140 KA is an entry of its own: KA 1 stands among KI-RE-TA₂ 1, PA 1 and DI 1 under KI-KI-RA-JA (HT 85b); KA 1 and \]KA 1 alternate with OLE+U as KA-PA ½ does on the same tablet, so KA there abbreviates KA-PA (HT 140; Montecchi 2010, 15). Rival: kaspu 'silver', which the abbreviation to one syllable weakens.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Source
 
-di Mino
+di Mino; CAD K; Montecchi 2010
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3624_to_be_powerful_great_to_be_numerous
 title: "*ʕṯ̣m: 'to be powerful, great; to be numerous'"
-desc: "Proto-Semitic *ʕṯ̣m, 'to be powerful, great; to be numerous': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʕṯ̣m, 'to be powerful, great; to be numerous': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3624"
@@ -33,6 +33,9 @@ updated: 2026-10-26T14:26:59Z
 | Phoenician | ʿṣmt (Krahmalkov 385) | Krahmalkov 385 | gloss withheld |
 | Ugaritic | ʿẓm (II) (DULAT 194; HALOT 867); ʿẓm (III) (DULAT 194–195) | DULAT 194; HALOT 867; DULAT 194–195 | gloss withheld |
 | Arabic | ʿaẓuma (Lane 2086) (HALOT 868); ʿaẓīmat (Lane 2088) (HALOT 870) | Lane 2086; HALOT 868; Lane 2088; HALOT 870 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿẓm (Al-Jallad 2026, 23) | Al-Jallad 2026 23 | gloss withheld |
+| Punic | N.Pu. tʿṣmt, in dl šm tʿṣmt (T 344) | T 344 | gloss withheld |
+| Epigraphic South Arabian | Sab ʿẓm (D inf.) (Biella 362) | Biella 362 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

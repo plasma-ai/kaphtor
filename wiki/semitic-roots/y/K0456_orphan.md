@@ -38,7 +38,7 @@ updated: 2026-10-26T14:26:59Z
 | Syrian Aramaic | yatmā (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Mehri | ḥə-ytīm (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Jibbali | ótím (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ytm (Al-Jallad–Jaworska 142) | Al-Jallad–Jaworska 142 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ytm (Al-Jallad–Jaworska 142); ytm (Al-Jallad 2026, 172) | Al-Jallad–Jaworska 142; Al-Jallad 2026 172 | gloss withheld |
 | Harsusi | ḥe-ytēm/ḥe-ytōm (HL 147 apud SEDonline 1036) | HL 147; SEDonline 1036 | gloss withheld |
 | Judaic Aramaic | yātōmaʾ (T 131) | T 131 |  |
 | Mandaic Aramaic | yatimaʾ (T 131) | T 131 |  |

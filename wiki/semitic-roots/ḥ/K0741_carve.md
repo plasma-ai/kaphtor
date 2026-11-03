@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | uqqû 'incise' | Anderson–Moser 2024 root ḥqy |  |
+| Akkadian | uqqû (AHw 1427) | AHw 1427; Anderson–Moser 2024 root ḥqy | gloss withheld |
 | Hebrew | ḥaqah 'cut' | Anderson–Moser 2024 root ḥqy |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

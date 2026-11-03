@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_QE_TI
 title: "U-QE-TI"
 desc: "wōqedt: the burning one (f.); name or epithet. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "onomastic"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "U-QE-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the burning one (f.); name or epithet |
 | Root | w-q-d |
 | Proto-Semitic | \*y/wḳd (#2483) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

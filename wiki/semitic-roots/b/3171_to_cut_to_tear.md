@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3171_to_cut_to_tear
 title: "*bṣ̂r: 'to cut, to tear'"
-desc: "Proto-Semitic *bṣ̂r, 'to cut, to tear': reflexes in 9 language(s)."
+desc: "Proto-Semitic *bṣ̂r, 'to cut, to tear': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3171"
@@ -38,6 +38,7 @@ updated: 2026-10-24T15:25:56Z
 | Mehri | bəẑáwr (ML 62 apud SEDonline 1961) | ML 62; SEDonline 1961 | gloss withheld |
 | Jibbali | bɔ́ẓ̂ɔ́r (JL 33 apud SEDonline 1961) | JL 33; SEDonline 1961 | gloss withheld |
 | Soqotri | bö́ẓ̂ar (LS 93; SLOnline 3564) | LS 93; SLOnline 3564 | gloss withheld |
+| Akkadian | baṣāru, buṣṣuru (CAD B 134) | CAD B 134 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

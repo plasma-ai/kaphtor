@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/U/U_DI_MI
 title: "U-DI-MI"
-desc: "ʾUdumī: the Udumite—man of Udum (Kirta's city). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "ʾUdmī: the Udumite—man of Udum (Kirta's city), 'red (land)'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "gentilic", "hapax", "personal_name"]
 kind: "word"
 form: "U-DI-MI"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "ʾUdumī"
+reading: "ʾUdmī"
 attestations: ["HT117a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,16 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾUdumī |
-| Meaning | the Udumite—man of Udum (Kirta's city) |
+| Reading | ʾUdmī |
+| Meaning | the Udumite—man of Udum (Kirta's city), 'red (land)' |
 | Root | udm + -ī (nisbe) |
-| Language layer | NWS |
-| Category | personal_name |
+| Proto-Semitic | \*(ʾa-)dām- (#1844) |
+| Language layer | Semitic |
+| Tags | gentilic, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Toponym anchored twice: Ugaritic udm, Kirta's city (udm rbt 'Udum the great', KTU 1.14), and Amarna {uru}Udumu (ORACC qpn, city determinative). Weak point: the DI vowel—progressive echo, the primary dead-vowel rule, predicts U-DU-MI for the /dm/ cluster; DI requires the regressive rule outside its stated word-initial scope, or a real vowel mismatch if the Amarna medial /u/ is phonemic. The reading leans on its context: counted roster item (qty 1) beside the clean U-SU (ʾUšu, mainland Tyre), within the origin-labeling practice of HT117a/b (DI-KI-SE). A U-DU-MI variant in any join or re-reading would support this reading.
+HT 117a: U-DI-MI 1, the seventh of the ten men in KU-RO 10, on the list with U-SU ʾUšu (mainland Tyre); the reverse labels men by origin (DI-KI-SE, HT 117b). ʾUdmī 'the Udumite': Udum, Kirta's city, Ugaritic udm rbt 'Udum the great' (KTU 1.14 III 30), Amarna ᵘʳᵘú-du-mu (EA 256:24) (DULAT 18–19). DI writes the d of the -dm- cluster with the vowel of MI, as KI writes the k of -kr- in SU-KI-RI-TA Sukrita; Ugaritic udm, udmy. udm is \*ʾudum-, the form of Hebrew ʾēdōm (UVST 275 n. 39), Edom, '? orig. the area distinguished by red soil' (HALOT 12); HALOT 16 reads Adami-nekeb as 'red (place) at the pass', with a queried Ugaritic udm. One attestation. See U-SU.
 
 ### Cognates
 
@@ -50,7 +51,7 @@ Toponym anchored twice: Ugaritic udm, Kirta's city (udm rbt 'Udum the great', KT
 
 ### Source
 
-di Mino
+di Mino; DULAT; HALOT; Huehnergard 2008
 
 ## Attestations
 
@@ -62,7 +63,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | ʾUdumī | the Udumite, a man of Udum (Kirta's city) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | ʾUdmī | the Udumite, a man of Udum (Kirta's city) | SPECULATIVE |
 
 ## Onomasticon
 

@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/I/I_DA_A
 title: "I-DA-A"
-desc: "ʾIda: of Ida (preferred diptotic genitive after DU-*314-RE); alternatively, toward Ida. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "toponym"]
+desc: "ʾIda: of Ida (diptotic genitive after DU-*314-RE); rival 'toward Ida'. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "hapax", "libation_formula", "ritual", "toponym"]
 kind: "word"
 form: "I-DA-A"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾIda |
-| Meaning | of Ida (preferred diptotic genitive after DU-\*314-RE); alternatively, toward Ida |
+| Meaning | of Ida (diptotic genitive after DU-\*314-RE); rival 'toward Ida' |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Preferred as the diptotic genitive in dubur ʾIda, 'the sanctuary of Ida.' Compare Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit,' where a diptotic place-name has genitive -a (Huehnergard 2012, §IV.B.3, p. 40). 'Toward Ida' remains possible by comparison with Ugaritic directive -h /-ah(a)/ and Hebrew -āh, but final A alone does not prove that analysis. Bare I-DA is independently attested; Ida's proposed connection with PS \*yad- ~ \*ʾid- remains interpretive; Ebla spells 'hand(s)' i-da-a (A.ŠU.LUḪ = ma-wu i-da-a 'water of the hands', GlOS 2, 27, 371).
+The diptotic genitive in dubur ʾIda, 'the sanctuary of Ida', as Ugaritic /ḥāmiyātu ʾugarita/ 'the walls of Ugarit', where a diptotic place name has genitive -a (Huehnergard 2012, 40, §IV.B.3). Rival: 'toward Ida', with the directive of Ugaritic -h /-ah(a)/ and Hebrew -āh, which final A alone does not show. Bare I-DA is attested. Ida 'the Hand' (see I-DA): Ebla spells 'hand(s)' i-da-a, sign for sign (A.ŠU.LUḪ = ma-wu i-da-a 'water of the hands', GlOS 2, 27, 371); Cretan Greek writes the name Βίδα.
 
 ### Cognates
 
@@ -72,8 +72,8 @@ di Mino; GlOS 2
 
 | Field | Value |
 |---|---|
-| Type | toponym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | toponym (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

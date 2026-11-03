@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3260_to_be_separated_to_separate_to_distinguish_to_ju
 title: "*prd: 'to be separated, to separate; to distinguish, to judge'"
-desc: "Proto-Semitic *prd, 'to be separated, to separate; to distinguish, to judge': reflexes in 13 language(s)."
+desc: "Proto-Semitic *prd, 'to be separated, to separate; to distinguish, to judge': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3260"
@@ -31,17 +31,20 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Hebrew | prd (HALOT 962 apud SEDonline 1323) | HALOT 962; SEDonline 1323 | gloss withheld |
 | Judaic Aramaic | JPA prd (DJBA 927 apud SEDonline 1323) | DJBA 927; SEDonline 1323 | gloss withheld |
-| Mandaic Aramaic | prd (MD 378 apud SEDonline 1323) | MD 378; SEDonline 1323 | gloss withheld |
+| Mandaic Aramaic | prd (MD 378) | MD 378 | gloss withheld |
 | Arabic | frd (Lane 2363 apud SEDonline 1323) | Lane 2363; SEDonline 1323 | gloss withheld |
 | Epigraphic South Arabian | Sab. frd-m (SD 46 apud SEDonline 1323) | SD 46; SEDonline 1323 | gloss withheld |
 | Tigre | täfarädä (WTS 659 apud SEDonline 1323); färdä (WTS 659 apud SEDonline 1317) | WTS 659; SEDonline 1323; SEDonline 1317 | gloss withheld |
-| Geez | tafārada (CDG 165 apud SEDonline 1317); fərd (CDG 165 apud SEDonline 1317) | CDG 165; SEDonline 1317 | gloss withheld |
+| Geez | tafārada (CDG 165 apud SEDonline 1317); fərd (CDG 165 apud SEDonline 1317); farada (LGz. 165); tafarda (LGz. 165); fərud (LGz. 165) | CDG 165; SEDonline 1317; LGz. 165 | gloss withheld |
 | Tigrinya | färädä (TED 2670 apud SEDonline 1317) | TED 2670; SEDonline 1317 | gloss withheld |
 | Amharic | färrädä (AED 2284 apud SEDonline 1317) | AED 2284; SEDonline 1317 | gloss withheld |
 | Harari | färädä (EDH 63 apud SEDonline 1317) | EDH 63; SEDonline 1317 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. färädä (EDG 241 apud SEDonline 1317) | EDG 241; SEDonline 1317 | gloss withheld |
 | Gurage | Cha. Enn. Gye. fändä, Cha. fänädä, Ezha fännädä, End. färädä, Muh. Msq. Gog. Sod. färrädä (EDG 241 apud SEDonline 1317) | EDG 241; SEDonline 1317 | gloss withheld |
 | Amorite | p-r-d (Sanmartín GlOS 2, 132) | Sanmartín GlOS 2, 132 | gloss withheld |
+| Ugaritic | /b-r-d/, with b for \*p (DULAT 233) | DULAT 233 | gloss withheld |
+| Syrian Aramaic | pəraḏ (LGz. 165) | LGz. 165 | gloss withheld |
+| Aramaic | pəraḏ (LGz. 165) | LGz. 165 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

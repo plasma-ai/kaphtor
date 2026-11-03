@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3554_to_protect
 title: "*ḫpr: 'to protect'"
-desc: "Proto-Semitic *ḫpr, 'to protect': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḫpr, 'to protect': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3554"
@@ -33,6 +33,7 @@ updated: 2026-10-25T06:28:07Z
 | Epigraphic South Arabian | Sab ḫfr (SD 59); hḫfr (Biella 208) | SD 59; Biella 208 | gloss withheld |
 | Geez | ḫafara; māḫ(ə)far (LGz. 260) | LGz. 260 | gloss withheld |
 | Jibbali | š-ḫefer (LGz. 260) | LGz. 260 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫfr (Al-Jallad 2026, 65) | Al-Jallad 2026 65 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

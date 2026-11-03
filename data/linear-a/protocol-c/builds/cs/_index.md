@@ -48,5 +48,5 @@ updated: 2026-10-29T19:48:19Z
 
 The kit held Huehnergard's "Proto-Semitic" (2019) as PDF and OCR text, his "Features of Central Semitic" (2005) as
 PDF and OCR text, and Huehnergard and Rubin's "Phyla and Waves" (2011) as PDF and text layer. The builder read the 24
-units of `units.md`; per `TABLES.md`, the two Huehnergard 2005 sections restate *yaqtulu* and Barth-Ginsberg and add
+units of `units.md`; per `TABLES-C0.md`, the two Huehnergard 2005 sections restate *yaqtulu* and Barth-Ginsberg and add
 no form. The builder deleted its scratch scripts; the log records every command.

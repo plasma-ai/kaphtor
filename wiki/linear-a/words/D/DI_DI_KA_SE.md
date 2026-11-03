@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DI_DI_KA_SE
 title: "DI-DI-KA-SE"
 desc: "Djed-ka(.s): personal name, 'Her Ka endures' (Egyptian). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "contact_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DI-DI-KA-SE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,12 +35,12 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Her Ka endures' (Egyptian) |
 | Root | ḏd-kꜣ |
 | Language layer | Middle Egyptian |
-| Category | contact_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6); DI-DI writes ḏd, SE ⸗s. Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1) and DI-DI-KO-RA-ME-TA₂ (ZA 11a). One witness.
+ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6, personal_names_id 142608414); DI-DI writes ḏd, SE ⸗s. Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1) and DI-DI-KO-RA-ME-TA₂ (ZA 11a). One attestation.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. E
 
 ### Source
 
-di Mino; Ilin-Tomich 2025 (PNM v6)
+di Mino; Ranke; Ilin-Tomich 2025
 
 ## Attestations
 

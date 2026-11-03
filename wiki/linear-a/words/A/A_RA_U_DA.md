@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RA_U_DA
 title: "A-RA-U-DA"
 desc: "ʾArwada: Arwad (island city of the Phoenician coast), an entity in a transfer. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "toponym", "toponym_foreign"]
 kind: "word"
 form: "A-RA-U-DA"
 datasets: ["lexicon", "onomasticon"]
@@ -33,14 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾArwada |
 | Meaning | Arwad (island city of the Phoenician coast), an entity in a transfer |
-| Root | ʾ-r-w-d |
-| Language layer | NWS |
-| Category | toponym |
+| Root | ʾArwad (Pre-Greek; non-Semitic per Noth, HALOT 85) |
+| Language layer | Semitic |
+| Tags | hapax, loanword, toponym, toponym_foreign |
 | Semantic field | toponym |
 
 ### Note
 
-RA-U writes /raw/, as A-I writes /ay/: all four consonants ʾ-r-w-d stand in order, and SigLA reads U (AB10), not AU. KH 5: A-DA-KI-SI-KA · A-RA-U-DA · over WI-SA-SA-NE CYP+E 2, VINb+WI 2, then WI-NA-DU · \*301-NA ·, KU-PA-ZU CYP 3. Hogan takes the tablet as perhaps one transfer of CYP+E and VINb+WI to several entities, A-RA-U-DA among them (Hogan, in Salgarella and Petrakis, The Wor(l)ds of Linear A, 81): an entity slot, which a place fills. Late Bronze Ugarit writes the gentilic {iri}a-ru-a-di-yu (RS 19.0042) with the same u for w. Rival: the personal name ʾArōd (Num 26:17). One attestation.
+KH 5: A-DA-KI-SI-KA · A-RA-U-DA · over WI-SA-SA-NE CYP+E 2, VINb+WI 2, then WI-NA-DU · \*301-NA ·, KU-PA-ZU CYP 3. Hogan reads the tablet as one transfer of CYP+E and VINb+WI to several entities, A-RA-U-DA among them (Hogan, in Salgarella and Petrakis, The Wor(l)ds of Linear A, 81): an entity slot, which a place fills. RA-U writes /raw/, as A-I writes /ay/: all four consonants ʾ-r-w-d stand in order, and SigLA reads U (AB10), not AU. Late Bronze Ugarit writes the gentilic {iri}a-ru-a-di-yu (RS 19.0042) with the same u for w. Rival: the personal name ʾArōd (Num 26:17). One attestation.
 
 ### Cognates
 
@@ -53,13 +53,19 @@ RA-U writes /raw/, as A-I writes /ay/: all four consonants ʾ-r-w-d stand in ord
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | ʾArwada | Arwad, second word of the heading | SPECULATIVE |
 
 ## Onomasticon
 

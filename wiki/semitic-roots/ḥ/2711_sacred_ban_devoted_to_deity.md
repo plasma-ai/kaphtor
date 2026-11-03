@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2711_sacred_ban_devoted_to_deity
 title: "*ḥarām-: 'sacred ban, devoted (to deity)'"
-desc: "Proto-Semitic *ḥarām-, 'sacred ban, devoted (to deity)': reflexes in 18 language(s)."
+desc: "Proto-Semitic *ḥarām-, 'sacred ban, devoted (to deity)': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2711"
@@ -47,11 +47,12 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ḥōrəm, ḥrūm (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
 | Soqotri | ḥórim (Kogan 2015, ch. 2 §4.2 no. 23) | Kogan 2015 ch. 2 §4.2 no. 23 | gloss withheld |
 | Emar | ta-aḫ-ru-um /taḥrum/ (Pentiuc 2001, 176–177) | Pentiuc 2001 176–177 | gloss withheld |
+| Ugaritic | /ḥarmānu/ (UVST 126) | UVST 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Ugaritic ḥrm occurs only as a PN, syll. ḫa-ra-mì (DULAT 363); ḫrm 'to pierce' in KTU 1.13:3 (1757) is read 'to destroy under the ban' by De Moor (apud DULAT 400). HALOT 353 compares Akk. ḫarāmu 'to separate', ḫarīmtu 'prostitute' (1757); Huffmon APNM 204 gives the root as Common Semitic except Akkadian and compares the deity Ḥaram at Elephantine. Arabian PNN ḥrm, ḥrmt, ḥrmʾl, yḥrm, mḥrm (Harding 185).
+DULAT 363 gives Ugaritic ḥrm only as a PN, syll. ḫa-ra-mì; ḫrm 'to pierce' in KTU 1.13:3 (1757) is read 'to destroy under the ban' by De Moor (apud DULAT 400). HALOT 353 compares Akk. ḫarāmu 'to separate', ḫarīmtu 'prostitute' (1757); Huffmon APNM 204 gives the root as Common Semitic except Akkadian and compares the deity Ḥaram at Elephantine. Arabian PNN ḥrm, ḥrmt, ḥrmʾl, yḥrm, mḥrm (Harding 185).
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3651_rock_cliff
 title: "*kʾp: 'rock, cliff'"
-desc: "Proto-Semitic *kʾp, 'rock, cliff': reflexes in 5 language(s)."
+desc: "Proto-Semitic *kʾp, 'rock, cliff': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3651"
@@ -34,6 +34,8 @@ updated: 2026-10-26T15:47:57Z
 | Akkadian | kāpu (kābu, kappu) (CAD K 191) | CAD K 191 | gloss withheld |
 | Aramaic | kp (Kogan 2015, ch. 6 §9.2 no. 4) | Kogan 2015 ch. 6 §9.2 no. 4 | gloss withheld |
 | Judaic Aramaic | kp (Kogan 2015, ch. 6 §9.2 no. 4) | Kogan 2015 ch. 6 §9.2 no. 4 | gloss withheld |
+| Amorite | /kāp/: names a-bi-ga-pi, ka-bi-ia (Alalakh) (Sanmartín GlOS 1, 333) | Sanmartín GlOS 1, 333 | gloss withheld |
+| Emar | /kāp/: names a-bi-ka, a-bi-ka-pí (Sanmartín GlOS 1, 333) | Sanmartín GlOS 1, 333 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

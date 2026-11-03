@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2795_virgin
 title: "*batūl-: 'virgin'"
-desc: "Proto-Semitic *batūl-, 'virgin': reflexes in 6 language(s)."
+desc: "Proto-Semitic *batūl-, 'virgin': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2795"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | batūlum (Gelb AS 21, 16) | Gelb AS 21 16 | gloss withheld |
 | Syrian Aramaic | bəṯultā (LGz. 112) | LGz. 112 |  |
 | Ugaritic | btlt (LGz. 112) | LGz. 112 |  |
+| Aramaic | btlh (DNWSI 205–206) | DNWSI 205–206 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

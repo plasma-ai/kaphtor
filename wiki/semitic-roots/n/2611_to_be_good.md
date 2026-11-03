@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/2611_to_be_good
 title: "*nʕm: 'to be good'"
-desc: "Proto-Semitic *nʕm, 'to be good': reflexes in 9 language(s)."
+desc: "Proto-Semitic *nʕm, 'to be good': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2611"
@@ -30,11 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic nʿm; nʿmt; nʿm (D) (Al-Jallad 2026, 98) | Al-Jallad 2026 98 | gloss withheld |
 | Ugaritic | nʕm (Kogan 2015, ch. 3 §5.2 no. 40) | Kogan 2015 ch. 3 §5.2 no. 40 | gloss withheld |
-| Phoenician | nʕm; nʿm (HALOT 704, 705) | HALOT 704, 705 | gloss withheld |
+| Phoenician | nʕm; nʿm (HALOT 704, 705); mnʿm (T 187); nʿmt (T 217) | HALOT 704, 705; T 187; T 217 | gloss withheld |
 | Epigraphic South Arabian | Sab nʿm (Biella 308); Sab nʿm (Biella 308; Sabaweb lemma 1538); Sab nʿm (SD 90; Sabaweb lemma 3090) | Biella 308; Sabaweb lemma 1538; SD 90; Sabaweb lemma 3090 | gloss withheld |
 | Hebrew | naʿem 'pleasant' | Anderson–Moser 2024 root nʿm |  |
-| Punic | nʿm 'good' | Anderson–Moser 2024 root nʿm |  |
+| Punic | nʿm; N.Pu. nʿmm (T 216); N.Pu. nʿmt (T 217); Neo-Punic nema (Krahmalkov 330) | T 216; T 217; Krahmalkov 330; Anderson–Moser 2024 root nʿm | gloss withheld |
 | Judaic Aramaic | nᵉʿīmā (HALOT 704) | HALOT 704 |  |
 | Amorite | nʿm: naʿimum, naʿmum, niʿimatum, niʿima (Gelb AS 21, 26); naʿmu, niʿmu, nuʿmu, niʿimu (Buck 2019, 329–330) | Gelb AS 21 26; Buck 2019, 329–330 | gloss withheld |
 | Arabic | nʕm 'be good, pleasant' (Lane 3035) | Lane 3035 |  |

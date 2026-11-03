@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | zarriqu (CAD Z 69) | CAD Z 69 | gloss withheld |
+| Akkadian | zarriqu (CAD Z 69; AHw 1515) | CAD Z 69; AHw 1515 | gloss withheld |
 | Syrian Aramaic | zārqā 'sky-blue, blue-eyed' (Payne Smith 121) | Payne Smith 121 |  |
 | Arabic | zurqa, azraq (CAD Z 69) | CAD Z 69 |  |
 

@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Ground' (Akkadian qaqqarum) |
 | Root | q-q-r |
 | Proto-Semitic | \*ḳarḳar- (#3178) |
-| Language layer | Akkadian comparison |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-A recipient or listed person at all three intact witnesses: HT93a QA-QA-RU · I GRA+PA 5; HT118, 6 pigs with KI 4; HT122b, 2 in a personnel list totalled KU-RO 65. HT111a \]QA-QA-RU 8 is broken before. Ebla has the noun as a personal name: ga-ga-lum = qaqqarum 'ground' (ARET 8 539 v. 9, 13′), and gar₃-ga-ri₂ = qarqari, both on the base qarqar- (Pagan 1998).
+A recipient or listed person at all three intact witnesses: HT 93a QA-QA-RU · I GRA+PA 5; HT 118, 6 pigs with KI 4; HT 122b, 2 in a personnel list totalled KU-RO 65. HT 111a \]QA-QA-RU 8 is broken before, so the word there can be longer; it stays out of the count. Akk. qaqqaru 'ground': Ebla has the noun as a personal name, ga-ga-lum = qaqqarum 'ground' (ARET 8 539 v. 9, 13′; Pagan 1998, row 1936), and gar₃-ga-ri₂ = qarqari (Pagan 1998, row 1988), both on the base qarqar-.
 
 ### Cognates
 
@@ -50,7 +50,6 @@ A recipient or listed person at all three intact witnesses: HT93a QA-QA-RU · I 
 | Akkadian | qaqqaru(m) 'ground, earth, territory, plot of land' |
 | Eblaite | PN ga-ga-lum = qaqqarum 'ground'; gar₃-ga-ri₂ = qarqari (Pagan 1998) |
 | Hebrew | qarqaʿ (קַרְקַע) 'ground, floor' (metathesized form) |
-| Ugaritic | qqr not attested; arṣ 'earth' is the common word |
 
 ### Source
 

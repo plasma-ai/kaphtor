@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/802_be_hot
 title: "*ʕik-/*ʕuk-: 'be hot'"
-desc: "Proto-Semitic *ʕik-/*ʕuk-, 'be hot': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ʕik-/*ʕuk-, 'be hot': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "802"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕkk \[-i-, -u-\] (Lane 2118) | Lane 2118 |  |
+| Pre-Islamic North Arabian | Safaitic ʿky (Al-Jallad 2026, 13) | Al-Jallad 2026 13 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,42 +2,38 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:24:36Z
+updated: 2026-11-07T03:23:59Z
 ---
 
 # wiki/linear-a/words/A
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/A/A306_A707|A306_A707]]: Unread (unread): no role; 1 occurrence(s).
-
-[[wiki/linear-a/words/A/A548_A615_A303|A548_A615_A303]]: Unread (unread): no role; 1 occurrence(s).
-
 [[wiki/linear-a/words/A/AU_RE_TE|AU_RE_TE]]: ʾawrēt: luminous one (feminine). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/A/A_DA|A_DA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_DA_KI_SI_KA|A_DA_KI_SI_KA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_DA_KI_SI_KA|A_DA_KI_SI_KA]]: Ḫadki-šiqā: Ḫadki gives drink (personal name; Ḫadki, a Mari-area name of Adad, + šiqā 'who gives drink'); rival 'Ḫadki is (my) dwelling'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_DA_RA|A_DA_RA]]: ʾadra: the fibula, the pin; rivals ʾAdara 'the Strong One' (epithet), ʾaddart- 'mantle'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_DA_RO|A_DA_RO]]: ʾAddar: Addar, 'Mighty' (personal name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_DA_star21F_RI|A_DA_star21F_RI]]: dahiru: Charger, Galloper (PN, √d-h-r 'dash, gallop'; *21F = ha). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_DA_star21F_RI|A_DA_star21F_RI]]: ha-dāhari: the Charioteer (PN, √d-h-r 'dash, gallop'; *21F = ha). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_DE|A_DE]]: ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_DI|A_DI]]: ʿadi: until, as far as (preposition). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_DI_KI_TE|A_DI_KI_TE]]: Dikte: Dikte; opening of a damaged name or title. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqitīt: O Diktaean (f.), the feminine nisbe of Dikte. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/A/A_DI_KI_TE_TE|A_DI_KI_TE_TE]]: ʾa-Diqqite de: O Dikte, she of [the Dubur] (name + determinative de). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_DI_KI_TE_broken_end|A_DI_KI_TE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_DI_NE|A_DI_NE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_DU|A_DU]]: ʾAddu / adû: Addu/Haddu; alternatively an administrative work assignment or stint. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_DU|A_DU]]: ʾAddu / adû: Addu/Haddu (heading); rival adû 'work stint'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_DU_KU_MI_NA|A_DU_KU_MI_NA]]: ʾAddu-kamina: Addu has sheltered (compound theophoric PN). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_DU_KU_MI_NA|A_DU_KU_MI_NA]]: ʾAddu-kummina: the one of Addu's cella (cult title as a roster name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_DU_NI_TA_NA|A_DU_NI_TA_NA]]: ʾAddu-nittāna: given by Addu (compound theophoric PN). Lexicon, CANDIDATE (tier 2).
 
@@ -51,7 +47,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_I|A_I]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_JA|A_JA]]: ḥaya / ḥayyā / Haya / Aya: possible divine name or liturgical predicate: Haya/Aya, or "(the) Living One; Life". Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_JA|A_JA]]: ḥayyā: 'the Living One', title of the Goddess (√ḥ-y-y). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_JA_KU|A_JA_KU]]: ʾAyaku: personal name ('Where are you?'). Lexicon, SPECULATIVE (tier 1).
 
@@ -61,11 +57,11 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_JE_SA|A_JE_SA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_JU|A_JU]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_JU|A_JU]]: Ḥayyu: Ḥayyu 'Living' (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_KA_NU|A_KA_NU]]: ʾagānu: cup, bowl. Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/A/A_KA_RU|A_KA_RU]]: Agaru: field or estate heading; possible Ugaritic Ugaru theonym. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_KA_RU|A_KA_RU]]: Agaru: field, estate (heading); rival the Ugaritic god Ugaru. Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/A/A_KA_TA|A_KA_TA]]: ʾAkkata: personal name; compare Amorite ʾAkkatum. Lexicon, SPECULATIVE (tier 1).
 
@@ -73,11 +69,11 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_KI_RO|A_KI_RO]]: ʾAkiru: ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_KO_A_NE|A_KO_A_NE]]: ha-kōhēn: the priest (proposed title after PI-TE-RI). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_KO_A_NE|A_KO_A_NE]]: ha-kōhan: the priest (proposed title after PI-TE-RI). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_KU_JU_PA_star118|A_KU_JU_PA_star118]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_KU_MI_NA|A_KU_MI_NA]]: ʾakmina: I shelter (verbal PN). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_KU_MI_NA|A_KU_MI_NA]]: ha-kummina: the one of the cella (cult title as a roster name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_KU_TU_star361|A_KU_TU_star361]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -85,9 +81,9 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_MA_JA|A_MA_JA]]: ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_MA_RA_NE|A_MA_RA_NE]]: ʾAmarānu: personal name, ʾAmar- 'he has spoken, seen' with -ānu. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_MA_RA_NE_broken_end|A_MA_RA_NE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_MA_WA_SI|A_MA_WA_SI]]: ʾammāwāṣī: Strong One (El epithet). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_MA_WA_SI|A_MA_WA_SI]]: ʿAmma-wāṣiʾ: the Kinsman who comes forth (El epithet); rival 'Strong One'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_ME|A_ME]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -111,7 +107,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_NU|A_NU]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_PA3_DI|A_PA3_DI]]: ʿAbdī: personal name, ʿAbdī 'my servant' or ʿAbdi-[DN] 'servant of [DN]'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_PA3_DI|A_PA3_DI]]: ʿAbdī: personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_PA3_broken_end|A_PA3_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -119,7 +115,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_PA_KI|A_PA_KI]]: ʾabkī: I weep (G prefix form, 1cs); rival ʾabakki (G present). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_PA_RA_NE|A_PA_RA_NE]]: ʿabrāne / bārāʾāne: the crosser (√ʿ-b-r 'to cross over,' cf. ʿibrī 'Hebrew') OR creator (√b-r-ʾ 'to create,' Gen 1:1). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_PA_RA_NE|A_PA_RA_NE]]: ʿabrāne: the crosser, the one from beyond (√ʿ-b-r, the ʿApiru word); rival 'creator' (√b-r-ʾ). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_PA_broken_both|A_PA_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -130,8 +126,6 @@ updated: 2026-10-31T14:24:36Z
 [[wiki/linear-a/words/A/A_PU2_NA_DU|A_PU2_NA_DU]]: Unread (role only): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_RA_JU|A_RA_JU]]: ʾArāyu: a town of the kingdom of Ugarit, on the Ugarit–Alalakh border (toponym); rival Aralu. Lexicon, SPECULATIVE (tier 1).
-
-[[wiki/linear-a/words/A/A_RA_JU_U_DE_ZA|A_RA_JU_U_DE_ZA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_RA_KO_KU_QA_WA_SA_TO_MA_RO_AU_TA_DE_PO_NI_ZA|A_RA_KO_KU_QA_WA_SA_TO_MA_RO_AU_TA_DE_PO_NI_ZA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -155,7 +149,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_RE_PI_RE_NA|A_RE_PI_RE_NA]]: ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RE_SA_NA|A_RE_SA_NA]]: ʾAriš-āna: 'The Requested One'—votive birth-name from √ʾ-r-š "to request, desire" + hypocoristic -ān; the child asked of the goddess, the name a receipt. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_RE_SA_NA|A_RE_SA_NA]]: ʾAriš-ān: 'The Requested One'—votive birth-name from √ʾ-r-š "to request, desire" + hypocoristic -ān; the child asked of the goddess, the name a receipt. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_RE_TU_MI|A_RE_TU_MI]]: ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis). Lexicon, CANDIDATE (tier 2).
 
@@ -165,7 +159,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_RI_NI_TA|A_RI_NI_TA]]: ʾarīnīt: She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_RI_PA|A_RI_PA]]: ʾaripāʾ / ʿarpa: healer, Rephaim (√r-p-ʾ) OR clouds (√ʿ-r-p, Baal epithet rkb ʿrpt). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_RI_PA|A_RI_PA]]: ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ); rival ʿarpa 'clouds' (√ʿ-r-p). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_RI_SU|A_RI_SU]]: ḥārišu: the craftsman, artisan (title). Lexicon, CANDIDATE (tier 2).
 
@@ -175,11 +169,11 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_RU|A_RU]]: Ḫaru: Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RU_DA_RA|A_RU_DA_RA]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RU_DA_RA|A_RU_DA_RA]]: Arum-adal: Arum-adal (Hurrian personal name), ar=o=m-adal 'The Strong one gave him'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RU_RA_q_broken_end|A_RU_RA_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_RU_RA|A_RU_RA]]: ʾArura: place name, heading the HT 11a list under KU-RO 10. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_SA_DA_KA|A_SA_DA_KA]]: ṣadaqa: righteous one (PN). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_SA_DA_KA|A_SA_DA_KA]]: ʾaṣdaqa: Most Righteous (PN). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_SA_MU_NE|A_SA_MU_NE]]: ʾAšmūn: Eshmun (healing deity). Lexicon, PROBABLE (tier 3).
 
@@ -191,13 +185,13 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_SA_SU_MA_I_SE|A_SA_SU_MA_I_SE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_SE|A_SE]]: ʾaššē 'fire offering, burnt offering'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_SE|A_SE]]: ʾāsē: physician, healer. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_SE_JA|A_SE_JA]]: ʾaššē-ya: (portion) of the fire offering (-iya derivative of A-SE). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_SE_JA|A_SE_JA]]: Āsīya: Asīya, personal name, '(DN is) my physician'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_SE_RE_ZA_broken_both|A_SE_RE_ZA_broken_both]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_SE_SI_NA|A_SE_SI_NA]]: Unread (role only): toponym; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_SE_SI_NA|A_SE_SI_NA]]: ḥašīšin: of dry grass, of hay (genitive with nunation; ʾugār ḥašīšin 'the hay meadow', the field's name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_SE_TU_star21F|A_SE_TU_star21F]]: Aštuḫḫa: Female (Hurrian personal name); rival the line as a heading, 'female (ones)'. Lexicon, SPECULATIVE (tier 1).
 
@@ -209,7 +203,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_SI_KI_RA|A_SI_KI_RA]]: ha-Śikira: personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_SI_SU_PO_A|A_SI_SU_PO_A]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_SI_SU_PO_A|A_SI_SU_PO_A]]: ʾassuppōa: the storehouse (heading of issues), the word of A-SU-PU-WA; rival a personal or place heading in -uwa. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_SI_star118_KU_KA|A_SI_star118_KU_KA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -221,17 +215,17 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_TA|A_TA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_TA_DE|A_TA_DE]]: ʾaʿtid(u): I make ready (1cs prefix form; proposed). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_TA_DE|A_TA_DE]]: ʾaʿtid(u): I make ready (1cs prefix form). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A_TA_I_star301_WA_E]]: ʾatainawē: I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA|A_TA_I_star301_WA_JA]]: ʾatainawaya: I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/A/A_TA_NA|A_TA_NA]]: ʾAtanat: ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with regular I-y > ʾ weakening; the etymon of Athena (di Mino, Ya Diktu p. 20). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_TA_NA_JE|A_TA_NA_JE]]: ʾatanāya: My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my'). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_TA_NA_JE|A_TA_NA_JE]]: ʾatanāya: My Giver / My Athena — 1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my'). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with I-y > ʾ; the etymon of Athena (di Mino, Ya Diktu 20). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/A/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: ʾAtanat, 'She-who-gives'—feminine reflex of √y-t-n 'to give'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_TA_NA_q_broken_end|A_TA_NA_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/A/A_TA_RE|A_TA_RE]]: Hathar: Hathor (Egyptian goddess). Lexicon, SPECULATIVE (tier 1).
 
@@ -239,7 +233,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_TI_KA|A_TI_KA]]: ʿAtīqa: personal name, 'enduring'; compare Linear B a-ti-ka. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_TI_RU|A_TI_RU]]: ʿAttiru: ʿAttiru (divine name ʿAṯtar, assimilated—or theophoric ʿAttirī 'man of ʿAṯtar'). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_TI_RU|A_TI_RU]]: ʿAttiru: ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_TO_star349_TO_I|A_TO_star349_TO_I]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -247,7 +241,7 @@ updated: 2026-10-31T14:24:36Z
 
 [[wiki/linear-a/words/A/A_WA_PI|A_WA_PI]]: ʾawpiʿ: personal name, 'he shone forth' (causative of w-p-ʿ 'be brilliant'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_ZU_RA|A_ZU_RA]]: ʾAṯrat: Athirat (divine name: the Goddess). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/A/A_ZU_RA|A_ZU_RA]]: ʾAṯirat: Athirat (divine name: the Goddess). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/A/A_etc_NE_broken_start|A_etc_NE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 

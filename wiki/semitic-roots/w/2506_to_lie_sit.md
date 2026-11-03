@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/2506_to_lie_sit
 title: "*wkp ~ *kwp: 'to lie, sit'"
-desc: "Proto-Semitic *wkp ~ *kwp, 'to lie, sit': reflexes in 7 language(s)."
+desc: "Proto-Semitic *wkp ~ *kwp, 'to lie, sit': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2506"
@@ -30,7 +30,6 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | wakāpu (Mari) (CAD U/W 400) | CAD U/W 400 | gloss withheld |
 | Arabic | wkf, wakf- |  | gloss withheld |
 | Mehri | šǝ-wkūf |  | gloss withheld |
 | Harsusi | še-wkōf |  | gloss withheld |

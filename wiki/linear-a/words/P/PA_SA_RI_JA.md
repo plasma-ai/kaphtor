@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_SA_RI_JA
 title: "PA-SA-RI-JA"
 desc: "Baṣariya: the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "gentilic"]
+tags: ["linear-a", "word", "tier-1", "administrative", "gentilic", "hapax"]
 kind: "word"
 form: "PA-SA-RI-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading |
 | Root | b-ṣ-r |
 | Proto-Semitic | \*bVṣVr- (#2875) |
-| Language layer | NWS |
-| Category | gentilic |
+| Language layer | Semitic |
+| Tags | administrative, gentilic, hapax |
 | Semantic field | toponym |
 
 ### Note
@@ -73,7 +73,7 @@ di Mino; DULAT; RGTC 12/2
 | Type | gentilic (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |

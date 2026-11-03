@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | arz (DULAT 109) | DULAT 109 | gloss withheld |
 | Hebrew | ʔerez (HALOT 86) | HALOT 86 | gloss withheld |
 | Syrian Aramaic | ʾarzā (LGz. 41; Payne Smith 28) | LGz. 41; Payne Smith 28 |  |
-| Mandaic Aramaic | arza (LGz. 41; Drower/Macuch 37a apud CAL) | LGz. 41; Macuch 37a; CAL |  |
+| Mandaic Aramaic | arza (LGz. 41; MD 37) | LGz. 41; MD 37 |  |
 | Soqotri | ʾárz (Kogan 2011, 202) | Kogan 2011 202 | gloss withheld |
 | Eblaitic | ar-za-tum /ʔarzatum/ (VE 471 apud SEDonline 425; Krebernik 1983, 17); ar-za /ʾarz/; ar-za-tum /ʾarzat/ (Sanmartín GlOS 1, 43–44) | VE 471; SEDonline 425; Krebernik 1983, 17; Sanmartín GlOS 1, 43–44 | gloss withheld |
 

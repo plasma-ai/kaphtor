@@ -9,7 +9,7 @@ site: "Thera"
 support: ""
 period: ""
 translation: "none"
-words: ["TE-MU-SA-SE"]
+words: []
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -48,10 +48,6 @@ Unicode (Linear A block):
 ```text
 𐄑𐄙𐘃𐘕𐘞𐘈
 ```
-
-## Lexicon words citing this document
-
-[[wiki/linear-a/words/T/TE_MU_SA_SE|TE-MU-SA-SE]].
 
 ## Corpus note
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_SU
 title: "U-SU"
 desc: "ʾUšu: man of Ušu (mainland Tyre)—origin-labeled worker. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "gentilic", "hapax", "loanword", "personal_name"]
 kind: "word"
 form: "U-SU"
 datasets: ["lexicon", "onomasticon"]
@@ -33,14 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾUšu |
 | Meaning | man of Ušu (mainland Tyre)—origin-labeled worker |
-| Root | — (toponym) |
-| Language layer | NWS |
-| Category | personal_name |
+| Root | ʾUšu (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | gentilic, hapax, loanword, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Amarna {uru}Usu (ORACC qpn, 4 instances: EA 148, 149, 150)—Ušu, the mainland twin of Tyre. Standard š→s merger; no other assumption required. Counted roster item (qty 1, within the KU-RO 10) on HT117a, where the reverse face independently labels personnel by origin (DI-KI-SE 'the Diktaian', HT117b) and U-DI-MI (ʾUdumī) sits seven lines below—an origin-labeling practice, Levantine workers on a Haghia Triada roster. The gentilic personnel practice answers the objection that a toponym cannot designate a roster person. Against 6 u-initial Amarna toponyms and 19 U-initial short word types in the corpus, the two matches fall on one tablet face. Dissolves the u- 'and' conjunctive reading of the HT117a U- words.
+HT 117a: a counted roster item, quantity 1 within KU-RO 10. Amarna Ušu (EA 148, 149, 150), the mainland twin of Tyre, with š written s. The reverse labels personnel by origin (DI-KI-SE 'the Diktaian', HT 117b), and U-DI-MI (ʾUdmī) stands seven lines below: Levantine workers on a Haghia Triada roster, each entered under his town. One attestation.
 
 ### Cognates
 
@@ -69,8 +69,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | toponym gentilic (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | toponym gentilic (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
@@ -80,7 +80,7 @@ di Mino
 
 ### Note
 
-The Amarna toponym usu (EA 121) can name a roster person by origin: HT117b labels personnel by gentilic (DI-KI-SE 'the Diktaian'), and U-DI-MI (ʾUdumī, man of Udum) sits on the same face. A worker from Ušu.
+The Amarna toponym usu (EA 121) can name a roster person by origin: HT117b labels personnel by gentilic (DI-KI-SE 'the Diktaian'), and U-DI-MI (ʾUdmī, man of Udum) sits on the same face. A worker from Ušu.
 
 ### Co-occurring lexicon words
 

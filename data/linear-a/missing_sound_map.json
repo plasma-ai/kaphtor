@@ -67,7 +67,7 @@
       ],
       "note": "No phonemic /e/ or /o/ in PS; these develop later via vowel shifts (Canaanite ā > ō, a > e near gutturals)"
     },
-    "linear_a_coverage": "The standard 55-sign CV grid covers 12 consonant series. PS 29 consonants must map onto these 12 via neutralization (voicing, emphasis, place). The proposed values (*314=ḤA, *118=ṬA, *306=ʿA, *21F=HA, PA₃=BA, ZU=ṮU, *305=ḎA) extend coverage to ~19 consonant series, still short of the full 29."
+    "linear_a_coverage": "The standard 55-sign CV grid covers 12 consonant series. PS 29 consonants must map onto these 12 via neutralization (voicing, emphasis, place). The proposed values (*314=ḤA, *118=ṬA, *306=ʿA, *21F=HA, PA₃=BA, ZU=ṮU) extend coverage to ~18 consonant series, still short of the full 29."
   },
   "cuneiform_parallels": {
     "source": "Lipiński, OLA80 §§13.2, 18.3, 19.9",
@@ -292,7 +292,7 @@
       "gap_id": "emphatic_dental",
       "sign": "*118",
       "value": "ṬA",
-      "confidence": 0.7,
+      "confidence": 0.6,
       "phonemes_covered": [
         "ṭ",
         "ḍ",
@@ -333,13 +333,13 @@
           "meaning": "its portion; rival qadaša 'holy portion'",
           "root": "√q-ṭ-ʕ",
           "inscription": "HT70",
-          "note": "Broken before QA. Only this word would take d."
+          "note": "Broken before QA. The rival takes d."
         },
         {
           "word": "*118-MI",
-          "reading": "ṭami",
-          "meaning": "blood",
-          "root": "√d-m",
+          "reading": "ṭammi",
+          "meaning": "abundance; rival dam 'blood', which takes d",
+          "root": "√ṭ-m-m",
           "inscription": "ZA21a"
         }
       ],
@@ -457,8 +457,8 @@
       "key_evidence": [
         {
           "word": "TU-*21F-RI-NA",
-          "reading": "ṭuhārī-nā",
-          "meaning": "our purification",
+          "reading": "ṭuhārīna",
+          "meaning": "the pure ones",
           "root": "√ṭ-h-r",
           "inscription": "HT129"
         },
@@ -618,15 +618,15 @@
           "positional_behavior": "9 initial, 11 medial, 6 final, 5 standalone",
           "assigned_value": "ṮU (/θu/), with ZU (/zu/) a second value; proposed",
           "confidence": 0.74,
-          "rationale": "ZU writes two values, as SA writes s and š. ṯu is primary: A-ZU-RA = ʾAṯrat or ʾAṯirat (KNZc7), MA-ZU = maṯu beside Linear B ma-*79, and no scribe alternates ZU with another sign. zu is the second value, on RU-ZU-NA = rāzin (PS *z)."
+          "rationale": "ZU writes two values, as SA writes s and š. ṯu is primary: A-ZU-RA = ʾAṯirat (KNZc7), MA-ZU = maṯu beside Linear B ma-*79, and no scribe alternates ZU with another sign. zu is the second value, on RU-ZU-NA = rāzin (PS *z)."
         },
         {
           "sign": "*305 (AB305)",
           "occurrences": 20,
           "positional_behavior": "2 initial, 2 medial, 4 final, 12 standalone",
-          "assigned_value": "ḎA (/ḏa/), proposed",
-          "confidence": 0.65,
-          "rationale": "*305-RU = ḏarʿ- 'seed, grain' (√ḏ-r-ʿ, distance 0.100) on the HT10a emmer allocation, the one ḏ-root cell. ḏ is taken from the logogram reading ḎABBĀḤŪ (√ḏ-b-ḥ). DA co-occurs on 5 tablets. With ZU = /ṯu/ it gives the interdental pair. ṯa is another possible value (KA-*305, read ka-ḏā 'thus', rival kaṯ 'flask')."
+          "assigned_value": "DA (/da/), a second d-sign, proposed",
+          "confidence": 0.6,
+          "rationale": "d reads every legible syllabic word: SE-*305 ṣēdā, KA-*305 ka-ḏā, *305-RU ḏarʿ, *305-WA-NA Dawana (Linear B da-wa-no), SA-*305-MI šadmi 'terrace'; ḏ gives no root in SE-*305 and *305-WA-NA. Like DA, it writes PS *ḏ. DA co-occurs on 5 tablets."
         },
         {
           "sign": "TA₂ (AB66)",
@@ -641,7 +641,7 @@
         }
       ],
       "status": "PROPOSED",
-      "note": "ZU = /ṯu/ (0.74) and *305 = /ḏa/ (0.65) are proposed; TA₂ is /ta/ (Linear B *66), with /ṯa/ an alternate at 0.32.",
+      "note": "ZU = /ṯu/ (0.74) is proposed; *ḏ has no sign of its own, the d-signs write it (DA-TU ḏātu, *305-RU ḏarʿ), *305 = /da/ (0.60); TA₂ is /ta/ (Linear B *66), with /ṯa/ an alternate at 0.32.",
       "lipinski_chronology": {
         "source": "OLA80 §§13.1, 13.4, 13.7",
         "ps_system": "PS has three interdentals: ṯ [θ], ḏ [ð], emphatic ẓ. These are distinct phonemes, not allophones.",
@@ -652,7 +652,7 @@
           "ugaritic": "All three preserved in 30-letter alphabet",
           "amorite": "ṯ/š distinction preserved in 2nd millennium cuneiform names (§13.4)"
         },
-        "linear_a_implication": "Linear A texts (17th–15th c. BCE) predate the Canaanite merger. A NWS substrate of this period should preserve interdentals, as ZU = ṯu and *305 = ḏa propose. Amorite—the closest 2nd-millennium NWS comparandum—also preserves the distinction."
+        "linear_a_implication": "Linear A texts (17th–15th c. BCE) predate the Canaanite merger. A NWS substrate of this period should preserve interdentals, as ZU = ṯu proposes. Amorite—the closest 2nd-millennium NWS comparandum—also preserves the distinction."
       }
     },
     {
@@ -734,7 +734,7 @@
           "sign": "*305",
           "occurrences": 20,
           "positional_behavior": "2 initial, 2 medial, 4 final, 12 standalone",
-          "rationale": "*305 = syllabogram /ḏa/ and logogram ḎABBĀḤŪ, both proposed.",
+          "rationale": "*305 = syllabogram /da/, a second d-sign, and logogram ḎABBĀḤŪ, both proposed.",
           "status": "PROPOSED"
         },
         {
@@ -873,7 +873,7 @@
         "medial": 2,
         "final": 4,
         "standalone": 12,
-        "assessment": "dual function: logogram ḎABBĀḤŪ and syllabogram /ḏa/, both proposed"
+        "assessment": "dual function: logogram ḎABBĀḤŪ and syllabogram /da/, both proposed"
       },
       {
         "sign": "*307",

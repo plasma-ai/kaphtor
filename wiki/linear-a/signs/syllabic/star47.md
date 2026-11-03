@@ -37,7 +37,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /mo/ | 0.25 | \*47-KU-NA mōgun- 'regalement, gift', /m-g-n/ 'to wine and dine, regale' (DULAT 525); AB15 MO is absent from Linear A |
+| /mo/ | 0.25 | In \*47-KU-NA, mo gives the rival mōgun- 'regalement, gift', /m-g-n/ 'to wine and dine, regale' (DULAT 525) |
 | /do/ | 0.15 | \*47-KU-NA Dagan (DULAT 265), the shape of DA-KU-NA (HT103) |
 
 ### Forms cited for the value
@@ -46,7 +46,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. \*47-KU-NA, heading the ZA 15a wine issue, is sōkina 'prefect', with the vowels of the Canaanite gloss su₂-ki-na (EA 362) and the ō of the Canaanite shift. Linear A writes no other so; \*324 claims it only at SPECULATIVE 0.30. \*47-NU-RA-JA (HT 115a) is a person, Šū-nūraya 'He is light': so writes šū, as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282), with a vowel mismatch only. mo, from the AB15 gap, reads \*47-KU-NA as mōgun- 'regalement'; do reads it as Dagan. PA₃-SI-\*47 (MIL Zb 1) has no edition; HT 127a \*304+PA-DA-\*47-KU is unsegmented. Co-occurrence with MA, MI, ME and MU excludes those four values only.
+SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. \*47-KU-NA, heading the ZA 15a wine issue, is sōkina 'prefect', with the vowels of the Canaanite gloss su₂-ki-na (EA 362) and the ō of the Canaanite shift. Linear A writes no other so; \*324 claims it only at SPECULATIVE 0.30. \*47-NU-RA-JA (HT 115a) is a person, Šū-nūraya 'He is light': so writes šū, as Ebla su-nu-ri₂ šū-nūrī (Pagan 1998, row 4282), with a vowel mismatch only. mo, from the AB15 gap, reads \*47-KU-NA as mōgun- 'regalement'; do reads it as Dagan. so also reads PA₃-SI-\*47 (MIL Zb 1) ba-si-so, basīsa 'meal worked with oil' (Lane 201). Linear B keeps \*47 apart from \*15 mo. HT 127a \*304+PA-DA-\*47-KU is unsegmented. Co-occurrence with MA, MI, ME and MU excludes those four values only.
 
 ## Lexicon words written with this sign
 
@@ -54,6 +54,7 @@ SPECULATIVE. Ten tokens; two stand alone on MA 1 (a, b) without a numeral. \*47-
 |---|---|---|
 | [[wiki/linear-a/words/star/star47_KU_NA\|\*47-KU-NA]] | sōkina | SPECULATIVE |
 | [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]] | Šū-nūraya | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA3_SI_star47\|PA₃-SI-\*47]] | basīsa | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/A/A_KU_MI_NA
 title: "A-KU-MI-NA"
-desc: "ʾakmina: I shelter (verbal PN). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "ha-kummina: the one of the cella (cult title as a roster name). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name", "ritual"]
 kind: "word"
 form: "A-KU-MI-NA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "ʾakmina"
+reading: "ha-kummina"
 attestations: ["ZA10a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,29 +31,29 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾakmina |
-| Meaning | I shelter (verbal PN) |
-| Root | k-m-n |
-| Proto-Semitic | \*kmn (#3237) |
-| Language layer | NWS |
-| Category | personal_name |
+| Reading | ha-kummina |
+| Meaning | the one of the cella (cult title as a roster name) |
+| Root | k-m-m |
+| Proto-Semitic | \*kumm- (#3788) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name, ritual |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 10a: a roster name counted 1, beside A-DU-KU-MI-NA from the same verb. First-person ʾa- + √k-m-n 'hide, shelter', the counterpart of Amorite Yakmin-. Not 'he of cumin': cumin is always measured (MY Ge 605 ku-mi-no Z 2). Weak point: KU for ka. Rival: A- + KU-MI-NA 'cumin'.
+ZA 10a: a roster entry counted 1, beside A-DU-KU-MI-NA. The article ha- written A- (as A-TU-RI-SI-TI ha-Turisīt) + KU-MI kummi 'cella' + -NA, the gentilic -ān of KI-RE-TA-NA: 'the one of the cella', the title A-DU-KU-MI-NA ties to Addu. Rivals: ʾa- + √k-m-n 'I shelter' (#3237), Amorite Ia-ak-me-ni (Gelb 1980, no. 2909); A- + KU-MI-NA 'cumin', which is measured (MY Ge 605 ku-mi-no Z 2), where this entry is counted 1. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | Ia-ak-me-ni Yakmin- (Gelb 1980, no. 2909), prefix form of KMN |
-| Hebrew | כמן hiphil 'to hide' (Mishnaic; HALOT 481) |
-| Aramaic | kmn 'to hide oneself, lie in wait' (HALOT 481) |
+| Akkadian | kummu A 'cella, private room (of a temple)' (CAD K 533) |
+| Ugaritic | kbm 'a cult installation', set beside Akk. kummu (DULAT 423) |
+| Hebrew | ha-kkĕnaʿănî 'the Canaanite' (Gen 12:6): article + gentilic |
 
 ### Source
 
-di Mino
+di Mino; CAD K; DULAT; Gelb 1980
 
 ## Attestations
 
@@ -65,7 +65,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ʾakmina | PN 'I shelter': 1cs ʾa- + √k-m-n 'hide, shelter' (HALOT 481); cf. Amorite Ia-ak-me-ni Yakmin- (Gelb 1980, no. 2909) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ha-kummina | the one of the cella: article ha- + kummi 'cella' (CAD K 533) + gentilic -ān | SPECULATIVE |
 
 ## Onomasticon
 
@@ -81,6 +81,6 @@ di Mino
 
 ### Note
 
-First-person ʾa- + √k-m-n 'hide, shelter' (HALOT 481); cf. Amorite Ia-ak-me-ni Yakmin- (Gelb 1980, no. 2909). Beside A-DU-KU-MI-NA from the same verb on ZA 10a.
+The article ha- written A- + kummi 'cella' (CAD K 533) + the gentilic -ān of KI-RE-TA-NA: 'the one of the cella'. Beside A-DU-KU-MI-NA, the same title tied to Addu, on ZA 10a.
 
 <!-- END kaphtor:record -->

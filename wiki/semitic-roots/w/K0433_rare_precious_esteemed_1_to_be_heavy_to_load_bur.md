@@ -34,7 +34,7 @@ updated: 2026-10-26T17:41:55Z
 | Hebrew | yaqar 'esteem' | Anderson–Moser 2024 root wqr |  |
 | Ugaritic | yqr (HALOT 431) | HALOT 431 |  |
 | Arabic | waqura (HALOT 431); ʾawqarahu, waqarahu 2 (Lane 2960) | HALOT 431; Lane 2960 | gloss withheld |
-| Amorite | wqr: yaqir-, yaqur- (Huffmon APNM 214); yaqqīrum (Buck 2019, 334); y-q-r: ia-ki-ra-nu, ia-ki-ra-a-bu-um, ia-ki-ra-a-ḫi; yaqar 1: ia-qar(-DINGIR), ia-qa-ru, ia-ga/qa-rum; yaqir, yaqqir 1: à-ki-rí-im; yaqur, yaqqur 1: ia-ku-ra-an, i-ku-ur-ba-li, cf. ia-GU-ra (Ur III) (Sanmartín GlOS 2, 349) | Huffmon APNM 214; Buck 2019, 334; Sanmartín GlOS 2, 349 | gloss withheld |
+| Amorite | wqr 1: yaqir-, yaqur- (Huffmon APNM 214); yaqqīrum 1 (Buck 2019, 334); y-q-r 1, 2: ia-ki-ra-nu, ia-ki-ra-a-bu-um, ia-ki-ra-a-ḫi; yaqar 1: ia-qar(-DINGIR), ia-qa-ru, ia-ga/qa-rum; yaqir, yaqqir 1: à-ki-rí-im; yaqur, yaqqur 1: ia-ku-ra-an, i-ku-ur-ba-li, cf. ia-GU-ra (Ur III) (Sanmartín GlOS 2, 349); mawḳir 1: mu-gi-ra-nu-um (Ur III) (Sanmartín GlOS 2, 350) | Huffmon APNM 214; Buck 2019, 334; Sanmartín GlOS 2, 349; Sanmartín GlOS 2, 350 | gloss withheld |
 | Syrian Aramaic | yiqar 'be heavy; be precious; honour' 1, 2 (Payne Smith 196); yuqrā 'burden, weight, charge' 2 (Payne Smith 190) | Payne Smith 196; Payne Smith 190 |  |
 | Biblical Aramaic | yqyr (HALOT 431) | HALOT 431 |  |
 | Mandaic Aramaic | yqyr (HALOT 431) | HALOT 431 |  |

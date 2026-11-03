@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RA_TU
 title: "A-RA-TU"
 desc: "ʾarṣ̂atu: earth (feminine noun—PS *ʾar(V)ṣ̂- \"earth\"). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "A-RA-TU"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | earth (feminine noun—PS \*ʾar(V)ṣ̂- "earth") |
 | Root | ʾ-r-ṣ̂ |
 | Proto-Semitic | \*ʾar(V)ṣ̂- (#768) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | toponym |
 
 ### Note
 
-ZA7a (Zakros stone vessel allocation): A-RA-TU 4, A-RE-TU-MI \[broken\]. ṣ̂ (emphatic lateral) dropped—same ṣ̂-loss as A-RE-TU-MI (ʾarṣ̂-ummī "Earth is my mother," CANDIDATE). The -TU = feminine ending -at(u). Vowel /a/ in A-RA-TU preserves absolute state \*ʾarṣ̂atu, while A-RE-TU-MI shows /e/ reduction in construct (bound) form before -ummī. Co-occurrence on ZA7a forms a semantic cluster: the noun "earth" alongside the theophoric compound "Earth is my mother." Allat reading REJECTED: the script distinguishes RA (/ra/, AB27) from RA₂ (/la/, AB76), and ʾAllāt requires /l/. The scribe wrote RA, confirming /r/ not /l/. \|\| MIMATION NOTE: A-RA-TU-ME (hapax heading on roundel HTWc3024) would be ʾarṣ̂atum—a feminine noun with mimation. The corpus-derived mimation rule says functional mimation marks masculine absolute-state nouns only (14 feminine -at tokens, none mimated). This is the sole feminine mimation candidate. AKKADIAN DEFENSE: Akkadian feminine nouns take mimation routinely—erṣetum itself is the standard citation form. If Minoan mimation is East-Semitic-style case mimation (both genders) rather than the masculine-only absolute marker, ʾarṣ̂atum is regular. This reading would require revising the mimation rule to allow both genders, which must be weighed against the 14 unmimated feminines. The -TU/-TU-ME alternation is noted as an unresolved suffix pair pending resolution of the mimation scope question.
+ZA 7a, a Zakros allocation tablet: A-RA-TU 4, beside A-RE-TU-MI, which words or a number may have followed, ʾarṣ̂-ummī 'Earth is my mother'. ʾarṣ̂atu 'earth', PS \*ʾar(V)ṣ̂-, -TU the feminine -at(u); the emphatic lateral ṣ̂ is unwritten, as in A-RE-TU-MI. A-RA-TU keeps the a of the absolute state, and A-RE-TU-MI reduces it to e in the construct before -ummī: the noun and the theophoric name stand on one tablet. A-RA-TU-ME, a hapax heading on the roundel HT Wc 3024, is ʾarṣ̂atum with mimation, as Akkadian erṣetum. Mimation marks the nonbound singular in both genders in Proto-Semitic, \*ṭāb-at-u-m beside \*ṭāb-u-m (Huehnergard 2019, 59–60, Table 3.7), and in Amorite, a-še-ra-tum, ḫa-na-tum, ni-iḫ-ma-tam, where it is 'common but apparently optional' (George and Krebernik 2022, 131). Minoan writes it on three masculine singulars, RI-SU-MA, MA-RU-ME and JA-SA-SA-RA-ME, against more than 200 without, so at that rate the eight other feminine -at common nouns are expected bare.
 
 ### Cognates
 

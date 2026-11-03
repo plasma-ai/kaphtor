@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SU_JU_TA
 title: "SU-JU-TA"
 desc: "sulta: fine flour, semolina. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "grain", "hapax", "noun"]
 kind: "word"
 form: "SU-JU-TA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | fine flour, semolina |
 | Root | s-l-t |
 | Proto-Semitic | \*sult- (#S25) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, grain, hapax, noun |
 | Semantic field | commodity |
 
 ### Note
 
-JU writes /lu/: su-lu-ta, the skeleton s-l-t. KN22a lames tablet: SU-JU-TA 20 KA-JE. Qty 20 consistent with bulk commodity allocation. Biblical sōlet is the primary offering flour (Lev 2:1, Ex 29:2).
+KN 22a, a lame (a short thin tablet): SU-JU-TA 20 / KA-JE. sulta 'fine flour', JU writing lu, su-lu-ta, the skeleton s-l-t: Heb. sōlet 'finely milled flour' (HALOT 759), the flour of the offering (Lev 2:1; Exod 29:2). One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ JU writes /lu/: su-lu-ta, the skeleton s-l-t. KN22a lames tablet: SU-JU-TA 20 KA
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; HALOT; GlOS 2
 
 ## Attestations
 

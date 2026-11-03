@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/G/GRA_plus_QE
 title: "GRA+QE"
 desc: "qemāḥu: flour/meal as a grain subtype; processed grain product for rations and offerings. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "grain", "ligature", "logogram"]
 kind: "word"
 form: "GRA+QE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | flour/meal as a grain subtype; processed grain product for rations and offerings |
 | Root | q-m-ḥ |
 | Proto-Semitic | \*ḳamḥ- (#1613) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, foodstuff, grain, ligature, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-GRA ideogram + QE complement (4 att., all Haghia Triada). Akk qēmu(m) 'flour, meal' (CAD Q 254), Heb קֶמַח qemaḥ (Gen 18:6, Num 5:15), Ug qmḥ (KTU 1.14 ii:29). QE = /qe/ = initial syllable of qemāḥu. GRA+QE appears with dry-measure bulk quantities (5, 20, 40 units) in multi-commodity allocation tablets alongside OLE+KI, OLE+MI, VIN, and plain GRA. On HT36, \*307+\*387-GRA+QE 44½ (20 erased from 64½) records a flour allocation to a dubur sanctuary—the largest attested quantity. GRA+QE is distinct from plain GRA (whole grain) as a processed subtype.
+GRA with the adjunct QE on four Haghia Triada tablets, in dry-measure quantities beside OLE+KI, OLE+MI, VIN and plain GRA: HT 18 PA-SE GRA+QE 20, HT 28a JA-\*21F · GRA+QE 5, HT 101 ZU-\*22F-DI GRA+QE 40, HT 99a GRA+QE without a number. HT 36 heads JE-DI \*307+\*307-GRA+QE 44½ (20 erased from 64½), flour issued under the \*307 dubur 'sanctuary' sign, with DU-ZU-WA 7½. QE writes the first syllable of Akk. qēmu(m) 'flour, meal' (CAD Q 204), Heb. קֶמַח qemaḥ 'flour' (Gen 18:6; Num 5:15), Ug. qmḥ (KTU 1.14 II 29). GRA+QE is a processed subtype, distinct from plain GRA, whole grain.
 
 ### Cognates
 
@@ -60,7 +60,7 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT101\|HT101]] | Haghia Triada | Tablet | complete |
 

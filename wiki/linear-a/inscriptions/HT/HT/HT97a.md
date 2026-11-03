@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*327", "DI", "KA-NU-TI", "KA-RU", "PA-I-TO", "TA-TI", "VIR+KA"]
+words: ["*327", "DI", "KA-NU-TI", "KA-RU", "MA-DI", "PA-I-TO", "TA-TI", "VIR+KA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -76,7 +76,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star327|\*327]], [[wiki/linear-a/words/D/DI|DI]], [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]], [[wiki/linear-a/words/K/KA_RU|KA-RU]], [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]], [[wiki/linear-a/words/T/TA_TI|TA-TI]], [[wiki/linear-a/words/V/VIR_plus_KA|VIR+KA]].
+[[wiki/linear-a/words/star/star327|\*327]], [[wiki/linear-a/words/D/DI|DI]], [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]], [[wiki/linear-a/words/K/KA_RU|KA-RU]], [[wiki/linear-a/words/M/MA_DI|MA-DI]], [[wiki/linear-a/words/P/PA_I_TO|PA-I-TO]], [[wiki/linear-a/words/T/TA_TI|TA-TI]], [[wiki/linear-a/words/V/VIR_plus_KA|VIR+KA]].
 
 ## Edition differences
 

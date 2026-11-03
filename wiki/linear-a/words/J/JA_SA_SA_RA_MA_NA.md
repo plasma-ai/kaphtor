@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA
 title: "JA-SA-SA-RA-MA-NA"
-desc: "yašaram=na: in righteousness indeed; uprightly indeed. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+desc: "yaššaram=na: in righteousness indeed; uprightly indeed. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "adverb", "hapax", "libation_formula", "ritual"]
 kind: "word"
 form: "JA-SA-SA-RA-MA-NA"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "yašaram=na"
+reading: "yaššaram=na"
 attestations: ["KNZa10"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | yašaram=na |
+| Reading | yaššaram=na |
 | Meaning | in righteousness indeed; uprightly indeed |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | adverb, hapax, libation_formula, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-KN Za 10 writes JA-SA-SA-RA-MA / NA across the side break without a divider, so the sequence is one graphic word. Amorite IA-SA-RA-AM directly attests accusative /yašaram/ (Gelb 1980, no. 3448), permitting the Semitic manner accusative ‘uprightly, in righteousness.’ NA is provisionally an emphatic/topical clitic =na, compared with Ugaritic -n or -(Vn)na (Tropper §§89.1–2). No exact /yašaram=na/ is externally attested, and regular Semitic dual/plural endings do not produce -MA-NA. It is not a √m-n-y compound ‘righteous portion/Righteous Allotter’. See JA-SA-SA-RA-ME, JA-SA-SA-RA and JA-SA.
+KN Za 10 writes JA-SA-SA-RA-MA / NA across the side break without a divider, so the sequence is one graphic word. Amorite IA-SA-RA-AM attests accusative /yašaram/ (Gelb 1980, no. 3448), the Semitic manner accusative 'uprightly, in righteousness'. NA is the emphatic or topical clitic =na, as Ugaritic -n or -(Vn)na (Tropper 2000, §§89.1–2). SA-SA writes the geminate šš, as in JA-SA-SA-RA-ME. Weak point: /yaššaram=na/ is unattested outside Crete. One attestation. See JA-SA-SA-RA-ME, JA-SA-SA-RA and JA-SA.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ KN Za 10 writes JA-SA-SA-RA-MA / NA across the side break without a divider, so 
 
 ### Source
 
-Gelb 1980, no. 3448; Tropper §§89.1–2; di Mino
+di Mino; Gelb 1980; Tropper 2000
 
 ## Attestations
 
@@ -66,6 +66,6 @@ Gelb 1980, no. 3448; Tropper §§89.1–2; di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZa/KNZa10\|KNZa10]] | yašaram=na | in righteousness indeed; uprightly indeed | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KN/KNZa/KNZa10\|KNZa10]] | yaššaram=na | in righteousness indeed | CANDIDATE |
 
 <!-- END kaphtor:record -->

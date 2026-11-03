@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šalbabu / šalbubu (OLA80 §34.6) | OLA80 §34.6 | gloss withheld |
+| Akkadian | šalbabu / šalbubu (OLA80 §34.6; AHw 1147) | OLA80 §34.6; AHw 1147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

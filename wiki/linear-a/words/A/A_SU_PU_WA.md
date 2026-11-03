@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_SU_PU_WA
 title: "A-SU-PU-WA"
 desc: "ʾasuppūa: store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun"]
 kind: "word"
 form: "A-SU-PU-WA"
 datasets: ["lexicon"]
@@ -34,25 +34,25 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ʾasuppūa |
 | Meaning | store(house), an entry under SI-DA-TE 'provisions'; rival a personal designation in -uwa |
 | Root | ʾ-s-p |
-| Proto-Semitic | \*ʾVsVp- (#1467) |
-| Language layer | NWS |
-| Category | administrative |
+| Proto-Semitic | \*ʾasupp- (#3870) |
+| Language layer | Semitic |
+| Tags | administrative, hapax, noun |
 | Semantic field | administrative |
 
 ### Note
 
-ARKH 2 .5–6 A-SU-PU-WA 4, the final WA over an erasure, an entry under the heading SI-DA-TE ṣēdat 'provisions', after ZU-\*301-SE-DE-\*21F-\*118 6 (GORILA III 6–7). ʾa-su-pp-ū-a, the ʾăsuppîm 'stores' of 1 Chr 26:15, √ʾ-s-p 'gather'. -PU-WA writes the glide before a final -a, as A-SI-SU-PO-A writes -PO-A (KH 9), and QA-RA₂-WA stands beside QE-RA₂-U. Rival: a personal designation in -uwa, since A-SI-SU-PO-A stands beside the person sign VIR+\*307. One witness.
+ARKH 2 .5–6 A-SU-PU-WA 4, the final WA over an erasure, an entry under the heading SI-DA-TE ṣēdat 'provisions', after ZU-\*301-SE-DE-\*21F-\*118 6 (GORILA III 6–7). ʾa-su-pp-ū-a, the ʾăsuppîm 'stores' of 1 Chr 26:15, Akk. asuppu, a loan in Hebrew (HALOT 76). -PU-WA writes the glide before a final -a, as A-SI-SU-PO-A writes -PO-A (KH 9), and QA-RA₂-WA stands beside QE-RA₂-U. Rival: a personal designation in -uwa, since A-SI-SU-PO-A stands beside the person sign VIR+\*307. One witness. See A-SI-SU-PO-A.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | bêt hāʾăsuppîm 'the house of the stores' (1 Chr 26:15); ʾăsuppê 'storehouses of' (Neh 12:25) |
-| Ugaritic | \|ʾ-s-p\| 'to gather up' (GlOS 1, 45) |
+| Hebrew | bêt hāʾăsuppîm 'the house of the stores' (1 Chr 26:15); ʾăsuppê 'storehouses of' (Neh 12:25); a loan from Akk. asuppu 'anteroom' (HALOT 76) |
+| Akkadian | asuppu, an outbuilding; É a-su-up-pu bīt kāri 'an a.-house and a storehouse', Nbn. 499:1 (CAD A/2 349) |
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; HALOT; CAD
 
 ## Attestations
 

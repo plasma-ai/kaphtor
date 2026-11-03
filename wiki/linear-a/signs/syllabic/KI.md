@@ -42,7 +42,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Forms cited for the value
 
-- KI-RE-TA-NA = Kretana (6x HT)
+- KI-RE-TA-NA = Kretan (6x HT)
 - KI-RO = kiro 'owed/outstanding'
 
 ### Note
@@ -53,8 +53,8 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_DI_KI_TE\|A-DI-KI-TE]] | Dikte | PROBABLE |
-| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqite de | PROBABLE |
+| [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | PROBABLE |
 | [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
@@ -64,24 +64,23 @@ No CH ancestor—Linear A innovation (Ferrara et al. 2022).
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DI_KI_TU\|JA-DI-KI-TU]] | yā Diqqitu | PROBABLE |
 | [[wiki/linear-a/words/J/JA_KI_SI_KI_NU\|JA-KI-SI-KI-NU]] | yaksīkin | CANDIDATE |
-| [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kakkaru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kikkaru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_plus_MU\|KI+MU]] | kumru | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_star310_RE\|KI-\*310-RE]] | kinnār | PROBABLE |
 | [[wiki/linear-a/words/K/KI_DA_RO\|KI-DA-RO]] | Qidaru | PROBABLE |
-| [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] |  | SPECULATIVE |
+| [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] | Kidata | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_KI_NA\|KI-KI-NA]] | Kikkina | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]] | kikkarāya | SPECULATIVE |
-| [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kōhinīma | CANDIDATE |
+| [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kihinīma | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_NU\|KI-NU]] | Kīnu | CANDIDATE |
-| [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû/qīra | CANDIDATE |
-| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | CONFIRMED |
+| [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû | CANDIDATE |
+| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | PROBABLE |
 | [[wiki/linear-a/words/K/KI_RI_SI\|KI-RI-SI]] | Kiriš | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RI_TA2\|KI-RI-TA₂]] | Kirīta | PROBABLE |
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | kirru | SPECULATIVE |
-| [[wiki/linear-a/words/K/KI_SA_NE\|KI-SA-NE]] | qīšāne | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_NA\|KI-TA-NA]] | kitāna | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_TA_NI_TE\|KI-TA-NI-TE]] | kitānit | CANDIDATE |

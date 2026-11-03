@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_MI_TA
 title: "A-MI-TA"
 desc: "ʾamita: handmaid (of the goddess). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personnel"]
+tags: ["linear-a", "word", "tier-3", "hapax", "noun", "personnel", "ritual"]
 kind: "word"
 form: "A-MI-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | handmaid (of the goddess) |
 | Root | ʾ-m-t |
 | Proto-Semitic | \*ʾam(a)t- (#2783) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel, ritual |
 | Semantic field | personnel |
 
 ### Note
 
-Ug. amt aṯrt 'handmaid of Asherah' (Gordon p. 91). On the Zakros tablet ZA10b, A-MI-TA 3 in a quantified list of names. Pan-Semitic root: Akk. amtu, Heb. ʾāmāh, Ug. amt. \|\| Huehnergard: Ug àmt /ʾamatu/ "woman slave, handmaid"; Feminine biradical nominal; listed alongside yd /yadu/ "hand," qšt /qaštu/ "bow," šnt /šantu/ "year," dlt /daltu/ "door". BH cognate: ʾāmā "maid, handmaid" (feminine ending reduced/lost relative to Ug. -atu) (Huehnergard 2012, p. 41) \|\| Mari attests the exact formation—ʾAmat-ʿAštar-an (Gelb AS 21 no. 782), ʾAmat-Labwa (no. 783), 'handmaid of Ashtart / of the Lioness'. LB a-mo-ta rejected (Greek harmota 'wheels').
+ZA 10b: A-MI-TA 3 in a quantified list of names. Ug. àmt /ʾamatu/ 'woman slave, handmaid' (Huehnergard 2012, 41), as in amt aṯrt 'handmaid of Asherah' (Gordon 1966b, 91); Akk. amtu, Heb. ʾāmāh. Mari names the same formation: ʾAmat-ʿAštar-an and ʾAmat-Labwa, 'handmaid of Ashtart' and 'of the Lioness' (Gelb 1980, nos. 782–783).
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Ug. amt aṯrt 'handmaid of Asherah' (Gordon p. 91). On the Zakros tablet ZA10b,
 
 ### Source
 
-di Mino
+di Mino; Gordon 1966b; Huehnergard 2012; Gelb 1980
 
 ## Attestations
 
@@ -66,8 +66,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

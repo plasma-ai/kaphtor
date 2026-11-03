@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | śāraṭ; śereṭ (HALOT 1355) | HALOT 1355 | gloss withheld |
-| Akkadian | šarāṭu(m) (HALOT 1355) | HALOT 1355 | gloss withheld |
+| Akkadian | šarāṭu(m) (HALOT 1355; AHw 1186) | HALOT 1355; AHw 1186 | gloss withheld |
 | Arabic | šaraṭa; šarṭ (HALOT 1355) | HALOT 1355 | gloss withheld |
 | Judaic Aramaic | sirṭā (HALOT 1355) | HALOT 1355 |  |
 | Syrian Aramaic | sraṭ 'scratch, incise; write down' (Payne Smith 391) | Payne Smith 391 |  |

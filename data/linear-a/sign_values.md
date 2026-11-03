@@ -9,7 +9,7 @@ updated: 2026-10-22T18:19:34Z
 ---
 
 `sign_values.json` holds `schema_version` (2), `description`, `neutralization_classes`, `linear_b_notes`,
-`resolution_summary`, `signs` (76 syllabograms), `logograms` (37) and `fractions` (17 signs, 11 attested
+`resolution_summary`, `signs` (76 syllabograms), `logograms` (37, and a `_note`) and `fractions` (17 signs, 11 attested
 composites). Values beyond Linear B are di Mino's unless a record names another scholar.
 
 | Key | Content |
@@ -24,8 +24,8 @@ composites). Values beyond Linear B are di Mino's unless a record names another 
 A value is **resolved** only on support that does not depend on a Semitic match: a Linear B value, a scribe's
 arithmetic, or a spelling variant of the same word. `resolution_summary.proposed` lists the proposed values, each
 `{entry, evidence}`, with the evidence where given. A **speculative** value sits in its sign's record only, whatever
-its tier: *325's bu, CANDIDATE in the lexicon, is one. The resolved total counts phonemic values and logograms; fractions are counted apart. The file holds 38 values:
-5 resolved (2 phonemic, 3 logograms) and 33 proposed (12 phonemic, 21 logograms), plus 3 resolved and 11 proposed
+its tier: *325's bu, CANDIDATE in the lexicon, is one. The resolved total counts phonemic values and logograms; fractions are counted apart. The file holds 37 values:
+5 resolved (2 phonemic, 3 logograms) and 32 proposed (12 phonemic, 20 logograms), plus 3 resolved and 11 proposed
 fraction values.
 
 Each syllabogram record:
@@ -44,7 +44,8 @@ Two records (PA₃ and AU) carry `reading`, `ipa`, `consonant`, `vowel`, `confid
 `sign_type`) in place of `ab_number` and `primary`. ZU carries those fields beside its `ab_number`, `primary` and
 `alternates`, and *310 and *325 carry `reading` and `ipa` beside theirs.
 
-Each logogram record gives its `commodity` and `gloss`; a tiered logogram has its `tier`, `status` and `confidence`
+Each logogram record gives its `commodity` and `gloss` (GRA, VIN, OLE, OLIV, A341, A646 and A559 give only a
+`logographic_value`); a tiered logogram has its `tier`, `status` and `confidence`
 (as in the lexicon: CONFIRMED, PROBABLE, CANDIDATE, SPECULATIVE), the proposed `root` and `semitic_term`, `standalone_count` and
 `embedded_count` (uses with a numeral and inside words), `sites` and a `note`. Each fraction sign gives its
 `a_number`, `value`, `status`, `tier`, `confidence` and `note`.

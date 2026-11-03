@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/2438_goatskin
 title: "*waṭb-: 'goatskin'"
-desc: "Proto-Semitic *waṭb-, 'goatskin': reflexes in 1 language(s)."
+desc: "Proto-Semitic *waṭb-, 'goatskin': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2438"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | waṭb- 'outre' BK 2 1561 | BK 2 1561 |  |
+| Jibbali | ɔ́ṭəb, pl. yəṭɔ́b (Rubin 2014 672) | Rubin 2014 672 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

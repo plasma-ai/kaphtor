@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RU_MA
 title: "RU-MA"
 desc: "Rūma: Height (toponym), the bare form of RU-MA-TA rūmatā. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+tags: ["linear-a", "word", "tier-1", "hapax", "toponym"]
 kind: "word"
 form: "RU-MA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Height (toponym), the bare form of RU-MA-TA rūmatā |
 | Root | r-w-m |
 | Proto-Semitic | \*rVyVm- (#1135) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | hapax, toponym |
 | Semantic field | toponym |
 
 ### Note

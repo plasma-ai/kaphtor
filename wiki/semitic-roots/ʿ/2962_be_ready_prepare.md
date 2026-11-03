@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2962_be_ready_prepare
 title: "*ʕVtVd-: 'be ready, prepare'"
-desc: "Proto-Semitic *ʕVtVd-, 'be ready, prepare': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʕVtVd-, 'be ready, prepare': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2962"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | ʿtt (HALOT 901) | HALOT 901 | gloss withheld |
 | Aramaic | EgArm. ʿtd; Nab. ʿtd (HALOT 901) | HALOT 901 | gloss withheld |
 | Arabic | ʿatuda (HALOT 901); ʿatīd (HALOT 903) | HALOT 901; HALOT 903 | gloss withheld |
+| Biblical Aramaic | \*ʿătīd (HALOT BArm. s.v. עֲתִיד) | HALOT BArm. s.v. עֲתִיד | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

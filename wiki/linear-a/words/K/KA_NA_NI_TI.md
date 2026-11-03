@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_NA_NI_TI
 title: "KA-NA-NI-TI"
 desc: "kanaʿanītī: the Canaanite (ethnonymic designation). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ethnonymic"]
+tags: ["linear-a", "word", "tier-2", "gentilic", "hapax", "personal_name"]
 kind: "word"
 form: "KA-NA-NI-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the Canaanite (ethnonymic designation) |
 | Root | k-n-ʿ |
 | Proto-Semitic | \*kinaʕn- (#3786) |
-| Language layer | NWS |
-| Category | ethnonymic |
+| Language layer | Semitic |
+| Tags | gentilic, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KHWc2005 Khania roundel, standalone. -NI-TI = nisbe gentilic suffix -ītī. Exact morphological parallel to DU-RU-WI = ḏu-luwwī 'the Levite.' ʿayin guttural-transparent. Hebrew כְּנַעֲנִי kĕnaʿanī, Akkadian Kinaḫḫi, El Amarna 'Canaan.' Punic Chanani, the people's name for themselves (Augustine, via Krahmalkov 2000, 236). Administrative roundel context—ethnic designation for trade/personnel tracking.
+KH Wc 2005, a Khania roundel, the only word: an ethnic designation in a record of trade or personnel. kanaʿanītī 'the Canaanite': -NI-TI writes the gentilic -ītī, the nisbe of DU-RU-WI ḏu-luwwī 'the Levite', and the ʿ goes unwritten. Heb. kənaʿănî 'Canaanite' (HALOT 485), Amarna Kinaḫḫi 'Canaan' (EA 8:15), with the gentilic 'Canaanite' at EA 9:19; Punic Chanani, the people's name for themselves (Augustine, apud Krahmalkov 2000, 236). One attestation.
 
 ### Cognates
 
@@ -71,8 +71,8 @@ di Mino; Krahmalkov 2000
 
 | Field | Value |
 |---|---|
-| Type | gentilic (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | gentilic (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

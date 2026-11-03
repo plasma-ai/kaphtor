@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["I-QA-*118", "NI", "OLE+KI", "OLE+U"]
+words: ["I-QA-*118", "NI", "OLE+KI", "OLE+U", "OLIV"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -70,7 +70,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqa-\*118 | section heading | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | divide! (section heading) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | \[ideogram\] | grain |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_KI\|OLE+KI]] | \[ideogram\] | olive oil subtype KI |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | \[ideogram\] | olive oil subtype U |  | CANDIDATE (lexicon) |
@@ -89,7 +89,7 @@ Context: mixed commodity inventory under a repeated administrative heading. I-QA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/I/I_QA_star118|I-QA-\*118]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/O/OLE_plus_KI|OLE+KI]], [[wiki/linear-a/words/O/OLE_plus_U|OLE+U]].
+[[wiki/linear-a/words/I/I_QA_star118|I-QA-\*118]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/O/OLE_plus_KI|OLE+KI]], [[wiki/linear-a/words/O/OLE_plus_U|OLE+U]], [[wiki/linear-a/words/O/OLIV|OLIV]].
 
 ## Edition differences
 

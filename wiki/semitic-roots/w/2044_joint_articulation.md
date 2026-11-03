@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/2044_joint_articulation
 title: "*waṣil- {} *wac̣il-: 'joint, articulation'"
-desc: "Proto-Semitic *waṣil- {} *wac̣il-, 'joint, articulation': reflexes in 6 language(s)."
+desc: "Proto-Semitic *waṣil- {} *wac̣il-, 'joint, articulation': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2044"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔaṣṣīl (HALOT 81) | HALOT 81 | gloss withheld |
 | Judaic Aramaic | ʔṣyl \[DJPA 72b apud CAL\] | DJPA 72b; CAL | gloss withheld |
 | Syrian Aramaic | yaṣṣīlā 'elbow' \[Brock 306\] | Brock 306 |  |
+| Punic | yṣlt, in wyṣlt (Krahmalkov 214) | Krahmalkov 214 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

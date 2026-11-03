@@ -112,7 +112,7 @@ class TestRun:
     def test_the_report_holds_calibration_and_power_for_every_reader(self, setup):
         _, rep, _ = _run(setup)
         assert rep["slots"]["n"] == 5 and rep["slots"]["gold_set_aside"] == 1
-        tests = ["semitic", "luwian", "egyptian", "hurrian"]
+        tests = ["semitic", "luwian", "egyptian", "hurrian", "hattic"]
         strata = ("none", "length", "fine")
         assert set(rep["calibration"]) == {f"{t} / {s}" for t in tests for s in strata}
         cal = rep["calibration"]["semitic / none"]

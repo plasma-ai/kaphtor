@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/3859_to_wrap_wind_around
 title: "*lpp: 'to wrap, wind around'"
-desc: "Proto-Semitic *lpp, 'to wrap, wind around': reflexes in 4 language(s)."
+desc: "Proto-Semitic *lpp, 'to wrap, wind around': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3859"
@@ -33,6 +33,12 @@ updated: 2026-10-31T13:28:57Z
 | Aramaic | lᵉpap (Klein s.v. לפף) | Klein s.v. לפף |  |
 | Syrian Aramaic | laf (Klein s.v. לפף) | Klein s.v. לפף |  |
 | Arabic | laffa (Klein s.v. לפף) | Klein s.v. לפף | gloss withheld |
+| Akkadian | lapāpu (CAD L 82) | CAD L 82 | gloss withheld |
+| Geez | laffa, lafafa (LGz. 306) | LGz. 306 | gloss withheld |
+| Tigre | läffäfa (LGz. 307) | LGz. 307 | gloss withheld |
+| Tigrinya | läfäfä (LGz. 307) | LGz. 307 |  |
+| Amharic | läffäfä (LGz. 307) | LGz. 307 |  |
+| Mandaic Aramaic | lup (LGz. 307) | LGz. 307 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

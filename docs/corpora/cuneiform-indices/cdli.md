@@ -38,7 +38,7 @@ The catalogue is therefore much broader than the available transliteration corpu
 | Union with numbered lines | 24,294 |
 | Catalogue artifacts labelled Akkadian | 145,558 |
 
-`P361281` contains two language declarations, first `akk` and then `sux`. The current derived JSONL retains only the final scalar value. The index should retain the declaration array and use the first declaration as the primary language, matching the source audit.
+`P361281` contains two language declarations, first `akk` and then `sux`.
 
 ## Dimension overview
 
@@ -240,16 +240,6 @@ Shown: 25 of 149 normalized labels. The JSON index retains all 149.
 | Neo Assyrian Legal | 2,034 | 2,010 | 1 | 1 | 1 | 1 |
 
 Mari uses the exact provenience label `Mari (mod. Tell Hariri)`. A substring search for `mari` would incorrectly include Burmarina, Samerina, and Abu-Maria. “Old Babylonian family” is an explicit union of Early Old Babylonian and Old Babylonian; those two source period labels are disjoint in this snapshot.
-
-## Recommended index structure
-
-- Artifact index: one row per canonical P-number, preserving all raw catalogue fields and normalized label arrays.
-- Edition index: one row per content-hashed ATF version. Do not collapse the eight duplicated P-numbers.
-- Availability facets: `has_text`, `has_numbered_text`, `has_translation`, and `has_lemma_annotation`.
-- Language facets: retain every ATF declaration in source order; classify Akkadian evidence as ATF-primary (tier A), catalogue-only (tier B), or neither.
-- Research facets: exact Mari, period, genre, provenience, and archive labels plus documented intersection slices. Do not use free substring matching for controlled labels.
-- Major TOC entry: at least 1,000 catalogue artifacts or 100 text versions. Secondary entry: at least 100 catalogue artifacts or 10 text versions.
-- Archive thresholds: major at 100 artifacts or 25 text versions; secondary at 25 artifacts or 5 text versions. Keep the sparse tail machine-searchable.
 
 ## Validation
 

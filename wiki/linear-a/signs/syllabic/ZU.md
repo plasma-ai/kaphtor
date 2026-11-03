@@ -46,35 +46,38 @@ Evidence: ṯ 15/21, n and m 16/21; A-ZU-RA yields a root under every rival. ṯ
 
 ### Forms cited for the value
 
-- A-ZU-RA = ʾAṯrat or ʾAṯirat (KNZc7 incantation bowl)—divine name on ritual vessel
+- A-ZU-RA = ʾAṯirat (KNZc7 incantation bowl)—divine name on ritual vessel
 - Linear B \*79 = zu (Davis 2026, 174 n. 641), 3–4 attestations—the rarity an interdental value predicts
 - No ṯ→z merger in Semitic typology
-- Phonemic gap: ZU writes the interdentals before every vowel, and only \*305 (ḏa) writes one beside it
+- Phonemic gap: ZU writes the interdentals before every vowel
 - Complementary distribution: ZA-SI-ZU (ARKH4b)—ZA and ZU in the same word
 - MA-ZU = maṯu 'child/male' (HT102)—supportive PS #1702 match
 - Cross-script parallel: Linear B ma-\*79 ↔ Linear A MA-ZU—potential independent confirmation
 - KU-ZU-NI = Kuṯinu (HT 13, HT 85a), the Ugaritic personal name kṯn, syll. ku-ši-nu (DULAT 467)
-- ZU-JU-PU₂ = ṯulubu 'flute' (HT 25a), sign for sign Ugaritic ṯlb (DULAT 892)
+- ZU-JU-PU₂ = ṯulpu 'flute(-player)' (HT 25a), sign for sign PS \*ṯulp-, Ugaritic ṯlb (DULAT 892), Akk. ša šulpi (CAD Š/3 257)
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯrat | CANDIDATE |
+| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | CANDIDATE |
+| [[wiki/linear-a/words/D/DU_ZU_WA\|DU-ZU-WA]] | ḏū-ṯuwāʕ | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
+| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_PA_ZU\|KU-PA-ZU]] | Kapizzi | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_ZU_NI\|KU-ZU-NI]] | Kuṯinu | CANDIDATE |
 | [[wiki/linear-a/words/M/MA_ZU\|MA-ZU]] | maṯu | SPECULATIVE |
+| [[wiki/linear-a/words/P/PI_KU_ZU\|PI-KU-ZU]] | bi-kuṯ | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] | qīši ṯuʿē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU\|ZU]] | ṯūm | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_star301\|ZU-\*301]] | ṯannān | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_DI\|ZU-DI]] | ṯudī | PROBABLE |
 | [[wiki/linear-a/words/Z/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_DU\|ZU-DU]] | ṯudu | CANDIDATE |
-| [[wiki/linear-a/words/Z/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulubu | SPECULATIVE |
-| [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯawrinima | SPECULATIVE |
-| [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Zuzu | SPECULATIVE |
+| [[wiki/linear-a/words/Z/ZU_JU_PU2\|ZU-JU-PU₂]] | ṯulpu | CANDIDATE |
+| [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | SPECULATIVE |
+| [[wiki/linear-a/words/Z/ZU_SU\|ZU-SU]] | Ṣūṣu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

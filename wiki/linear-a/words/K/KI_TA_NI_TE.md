@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_TA_NI_TE
 title: "KI-TA-NI-TE"
 desc: "kitānit: linen robe, linen cloth. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "noun", "textile"]
 kind: "word"
 form: "KI-TA-NI-TE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | linen robe, linen cloth |
 | Root | k-t-n (PS \*kitn-) |
 | Proto-Semitic | \*kitn- (#2678) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-PK Zb 21 pithos, incised before firing. -t derivative of KI-TA-NA (PE Zb 3 KI-TA-NA-SI-JA-SE; KH60 RA-KI-TA-NA-SI); the recurrence of KI-TA-N- is noted by Davis (Kadmos 47, 2008), whose reading this is. Unshifted ā: the pre-Canaanite form of kətōnet. As a jar label, the stored linen goods. Rival: Driessen ME-WI-TA-NI-TE (superseded).
+PK Zb 21, a pithos incised before firing (Building 7, MM IIIB–LM IA). A -t derivative of KI-TA-NA (PE Zb 3 KI-TA-NA-SI-JA-SE; KH 60 RA-KI-TA-NA-SI); the reading, and the recurrence of KI-TA-N-, follow Davis (Kadmos 47, 2008, 1–2, apud Younger, Linear A Texts, Other Texts: Palaikastro). Unshifted ā: the pre-Canaanite form of Heb. kuttōnet, kətōnet 'tunic' (HALOT 505). As a jar label, the stored linen goods. Rival: ME-WI-TA-NI-TE, cf. HT Wc 3004a–3005a (Driessen 1991, apud Younger).
 
 ### Cognates
 
@@ -55,7 +55,7 @@ PK Zb 21 pithos, incised before firing. -t derivative of KI-TA-NA (PE Zb 3 KI-TA
 
 ### Source
 
-di Mino
+di Mino; Younger, Linear A Texts; HALOT
 
 ## Attestations
 

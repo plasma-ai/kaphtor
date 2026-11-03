@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["A-SI-JA-KA", "JA-HA", "OLE+DI", "PU-RA₂", "SA-RA₂", "U-MI-NA-SI", "WI-DI-NA"]
+words: ["A-SI-JA-KA", "JA-HA", "NI", "OLE+DI", "PU-RA₂", "SA-RA₂", "U-MI-NA-SI", "WI-DI-NA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -70,7 +70,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Fine-flour (account), Ummī-naśiʾ: for the queen/royal establishment—grain 20, honey-oil 5, figs 2, wine 4. Baal—figs 6. Yāh—wine 6. Widdīna—honey-oil 3, wine 3¼
+> Fine-flour (account), Ummī-naśiʾ: for the queen/royal establishment—grain 20, honey-oil 5, figs 2, wine 4. Baal—figs 6. Yāh—wine 6. Widdinā—honey-oil 3, wine 3¼
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/V/VIN\|VIN]] | wayn | wine |  | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] | Bōlu | Baal (Lord) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_HA\|JA-HA]] | Yāh(a) | Yāh (divine name, deity receiving offerings) |  | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/W/WI_DI_NA\|WI-DI-NA]] | Widdīna | Beloved (PN, widd 'love') |  | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/W/WI_DI_NA\|WI-DI-NA]] | Widdinā | our Beloved (PN, widd 'love') |  | SPECULATIVE (lexicon) |
 
 ### Notes
 
@@ -95,7 +95,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_SI_JA_KA|A-SI-JA-KA]], [[wiki/linear-a/words/J/JA_HA|JA-HA]], [[wiki/linear-a/words/O/OLE_plus_DI|OLE+DI]], [[wiki/linear-a/words/P/PU_RA2|PU-RA₂]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/U/U_MI_NA_SI|U-MI-NA-SI]], [[wiki/linear-a/words/W/WI_DI_NA|WI-DI-NA]].
+[[wiki/linear-a/words/A/A_SI_JA_KA|A-SI-JA-KA]], [[wiki/linear-a/words/J/JA_HA|JA-HA]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/O/OLE_plus_DI|OLE+DI]], [[wiki/linear-a/words/P/PU_RA2|PU-RA₂]], [[wiki/linear-a/words/S/SA_RA2|SA-RA₂]], [[wiki/linear-a/words/U/U_MI_NA_SI|U-MI-NA-SI]], [[wiki/linear-a/words/W/WI_DI_NA|WI-DI-NA]].
 
 ## Edition differences
 

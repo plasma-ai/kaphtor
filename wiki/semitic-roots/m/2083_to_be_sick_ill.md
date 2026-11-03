@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | mǝraʕ 'he/she was sick, fell ill' \[Brock 405\] | Brock 405 |  |
 | Aramaic | OLD mrḳ, OFF mrʕ \[HJ 695\] | HJ 695 | gloss withheld |
 | Amorite | mrṣ: jamraṣ, jamruṣ, jumraṣ, maraṣum (Gelb AS 21, 25); maraṣ (Buck 2019, 329) | Gelb AS 21 25; Buck 2019, 329 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic mrḍ (Al-Jallad–Jaworska 99) | Al-Jallad–Jaworska 99 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mrḍ (Al-Jallad–Jaworska 99); Dhofari mrḍ (Al-Jallad 2026, 94) | Al-Jallad–Jaworska 99; Al-Jallad 2026 94 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

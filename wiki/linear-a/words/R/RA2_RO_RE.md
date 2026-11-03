@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RA2_RO_RE
 title: "RA₂-RO-RE"
 desc: "Lallor: personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RA₂-RO-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Mourner' (Akk. lallaru); rival Amorite Li-lu-ri |
 | Root | l-l-r |
 | Proto-Semitic | \*lallār- (#3851) |
-| Language layer | Akkadian |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -72,9 +72,9 @@ CAD L 48; Gelb 1980; Laroche GLH; di Mino
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | akkadian_contact (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0145_shield
 title: "*mVgVn-: 'shield'"
-desc: "Proto-Semitic *mVgVn-, 'shield': reflexes in 7 language(s)."
+desc: "Proto-Semitic *mVgVn-, 'shield': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0145"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | mgen 'a short buckler, round shield' (Payne Smith 251) | Payne Smith 251 |  |
 | Ugaritic | mgn (T 165) | T 165 |  |
 | Judaic Aramaic | meginaʾ (T 165) | T 165 |  |
+| Amorite | maganum (Gelb AS 21, 25) | Gelb AS 21 25 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

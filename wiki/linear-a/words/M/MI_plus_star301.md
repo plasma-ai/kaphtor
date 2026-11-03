@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MI_plus_star301
 title: "MI+*301"
 desc: "minā: mina, portion (weight/measure unit). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+tags: ["linear-a", "word", "tier-3", "administrative", "ligature", "logogram"]
 kind: "word"
 form: "MI+*301"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | mina, portion (weight/measure unit) |
 | Root | m-n-y |
 | Proto-Semitic | \*mVnVw- (#643) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | administrative, ligature, logogram |
 | Semantic field | administrative |
 
 ### Note
 
-Ligature on Khania roundels (administrative context). Akkadian manû 'to count, allot', Hebrew māneh 'mina' (standard weight unit across the ANE from Ur III through Persian period). The mina as commodity label on administrative roundels is contextually ideal. See MI-NU-TE.
+KH Wc 2064 and KH Wc 2099, two Khania roundels, each with the ligature MI+\*301 alone. minā 'mina, portion': Heb. māneh 'mina' (HALOT 599), Akk. manû 'mina' (CAD M/1 219), from manû 'to count' (CAD M/1 221), Ug. mn 'mina' (GlOS 2, 45). A weight label on sealed administrative roundels. Two attestations. See MI-NU-TE.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Ligature on Khania roundels (administrative context). Akkadian manû 'to count, 
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; HALOT; CAD M/1; GlOS 2
 
 ## Attestations
 

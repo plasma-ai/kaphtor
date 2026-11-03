@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/3081_to_be_wounded
 title: "*ḳʷsl: 'to be wounded'"
-desc: "Proto-Semitic *ḳʷsl, 'to be wounded': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḳʷsl, 'to be wounded': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3081"
@@ -34,6 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḳʷäsälä (TED 961 apud SEDonline 913) | TED 961; SEDonline 913 | gloss withheld |
 | Amharic | ḳʷässälä (AED 751 apud SEDonline 913) | AED 751; SEDonline 913 | gloss withheld |
 | Gurage | Sod. ḳʷässälä (EDG 504 apud SEDonline 913) | EDG 504; SEDonline 913 | gloss withheld |
+| Tigre | qäsla (LGz. 446) | LGz. 446 |  |
+| Argobba | qusəl (LGz. 446) | LGz. 446 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

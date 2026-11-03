@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_JA_RE
 title: "PA-JA-RE"
 desc: "Payare: He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+tags: ["linear-a", "word", "tier-3", "compound", "personal_name"]
 kind: "word"
 form: "PA-JA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Payare |
 | Meaning | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro |
 | Language layer | Middle Egyptian |
-| Category | personal_name |
+| Tags | compound, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-The four Linear A occurrences behave as a personal name. Linear B pa-ja-ro is a masculine personal name in the Knossian roster KN As(2) 1519.6, and DMic compares it with Linear A PA-JA-RE; Davis 2026 likewise treats the pair as Minoan. Gordon reads Egyptian Pꜣy-Rꜥ 'He-of-Re' (Gordon 1966a, 31, §127). PNM v6 has the man's name pꜣ-rꜥ 'he (of) Ra' (Ranke I, 114.11, as PNM cites it), used from Thutmose III to Amenhotep III and spelled pꜣjj-rꜥ under Hatshepsut, the date of the LM IB tablets (Ilin-Tomich 2025, personal_names_id 142613047); JA writes the jj. Amarna writes the same Re as -ri- in na-ap-ḫur-ri-ia, Nfr-ḫprw-rꜥ 'beautiful of form is Rē' (Hess 1993, 116). Rival: a Minoan name, as Davis treats it.
+HT 8b, HT 29, HT 88 and ZA 10b: a personal name in all four. Linear B pa-ja-ro is a masculine personal name in the Knossian roster KN As(2) 1519.6, and DMic compares it with Linear A PA-JA-RE. Gordon reads Egyptian Pꜣy-Rꜥ 'He-of-Re' (Gordon 1966a, 31, §127). PNM has the man's name pꜣ-rꜥ 'he (of) Ra' (Ranke I, 114.11, as PNM cites it), used from Thutmose III to Amenhotep III and spelled pꜣjj-rꜥ under Hatshepsut, the date of the LM IB tablets (Ilin-Tomich 2025); JA writes the jj. Amarna writes the same Re as -ri- in na-ap-ḫur-ri-ia, Nfr-ḫprw-rꜥ 'beautiful of form is Rē' (Hess 1993, 116). Rival: a Minoan name, as Davis treats the pair (Davis 2026, 44). Four attestations.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ The four Linear A occurrences behave as a personal name. Linear B pa-ja-ro is a 
 
 ### Source
 
-Gordon 1966a, 31 (§127); Ilin-Tomich 2025 (PNM v6), s.v. pꜣ-rꜥ; DMic II; Davis 2026; Hess 1993, 116
+di Mino; Gordon 1966a; Ilin-Tomich 2025; DMic II; Davis 2026; Hess 1993
 
 ## Attestations
 

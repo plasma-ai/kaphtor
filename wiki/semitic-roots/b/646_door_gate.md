@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/646_door_gate
 title: "*bāb-: 'door, gate'"
-desc: "Proto-Semitic *bāb-, 'door, gate': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bāb-, 'door, gate': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "646"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | bāb- |  |  |
 | Akkadian | bābu, bābāni, bābāti (OLA80 §31.14) | OLA80 §31.14 | gloss withheld |
+| Amorite | bābum (Gelb AS 21, 16) | Gelb AS 21 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

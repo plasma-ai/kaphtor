@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | bll \[-i-\] 'to heal, recover one's health'; bill- 'remedy'; balal- 'safety, security' BK 1 156 | BK 1 156 |  |
 | Tigre | Cf. bälbälä LH 271 | LH 271 | gloss withheld |
-| Pre-Islamic North Arabian | Thamudic hbl DRS 67 | DRS 67 | gloss withheld |
+| Pre-Islamic North Arabian | Thamudic hbl DRS 67; Safaitic bll (Al-Jallad 2026, 28) | DRS 67; Al-Jallad 2026 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

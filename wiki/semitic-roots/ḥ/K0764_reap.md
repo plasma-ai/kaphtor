@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | eṣēdu; eṣēdu, eṣādu (OLA80 §19.10) | OLA80 §19.10; Anderson–Moser 2024 root ḥṣd | gloss withheld |
 | Arabic | ḥaṣada 'reaped' (Lane 581) | Lane 581; Anderson–Moser 2024 root ḥṣd |  |
-| Aramaic | ḤṢD (Aramaic Root Atlas; DNWSI 398 apud CAL) | Aramaic Root Atlas; DNWSI 398; CAL; Anderson–Moser 2024 root ḥṣd | gloss withheld |
+| Aramaic | ḤṢD (Aramaic Root Atlas; DNWSI 398) | Aramaic Root Atlas; DNWSI 398; Anderson–Moser 2024 root ḥṣd | gloss withheld |
 | Geez | ʿaḍada 'reap' | Anderson–Moser 2024 root ḥṣd |  |
-| Mandaic Aramaic | ḥṣd (LGz. 58; Drower/Macuch 152a apud CAL) | LGz. 58; Macuch 152a; CAL |  |
+| Mandaic Aramaic | ḥṣd (LGz. 58; MD 152) | LGz. 58; MD 152 |  |
 | Tigre | ḥaṣṭa (LGz. 58) | LGz. 58 |  |
 | Argobba | hač̣č̣äda (LGz. 58) | LGz. 58 |  |
 | Syrian Aramaic | ḥṣad 'reap, cut or mow down' (Payne Smith 154) | Payne Smith 154 |  |

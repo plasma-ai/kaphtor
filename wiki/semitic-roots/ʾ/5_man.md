@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/5_man
 title: "*ʾiš-: 'man'"
-desc: "Proto-Semitic *ʾiš-, 'man': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ʾiš-, 'man': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "5"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | ʾš, ʾyš (T 33); ʔš, pl. ʔšm (HJ 115) | T 33; HJ 115 | gloss withheld |
 | Canaanite | Moab ʔš (HJ 115) | HJ 115 | gloss withheld |
 | Modern Aramaic | NSyr. ʾiyš (T 33) | T 33 |  |
+| Eblaitic | /ʾīs₁/: names iš-a-bù, iš-ì-lum, iš-ù-lu, iš-ne-àr (Sanmartín GlOS 1, 58) | Sanmartín GlOS 1, 58 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

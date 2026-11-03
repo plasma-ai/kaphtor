@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/495_fall
 title: "*hVbi/uṭ-: 'fall'"
-desc: "Proto-Semitic *hVbi/uṭ-, 'fall': reflexes in 1 language(s)."
+desc: "Proto-Semitic *hVbi/uṭ-, 'fall': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "495"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | hbṭ \[-i-, -u-\] (Lane 2876) | Lane 2876 |  |
+| Ugaritic | hbṭ D (DULAT 328) | DULAT 328 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

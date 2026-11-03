@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/SA007_grave
 title: "*bwr: 'grave'"
-desc: "Epigraphic South Arabian headword *bwr, 'grave': reflexes in 1 language(s)."
+desc: "Epigraphic South Arabian headword *bwr, 'grave': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA007"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | Sab brt (SD 33) (Biella 38) (Sabaweb lemma 3992) | SD 33; Biella 38; Sabaweb lemma 3992 | gloss withheld |
+| Punic | Neo-Punic bur, th-ybur (Krahmalkov 124); Neo-Punic bʾrm (Krahmalkov 125) | Krahmalkov 124; Krahmalkov 125 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

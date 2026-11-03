@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | enēnu 'grant' | Anderson–Moser 2024 root ḥnn |  |
 | Aramaic | ḤNN 'mercy' | Anderson–Moser 2024 root ḥnn |  |
-| Hebrew | ḥanan (BDB 335; HALOT 334) | BDB 335; HALOT 334 | gloss withheld |
+| Hebrew | ḥanan (BDB 335; HALOT 334); ḥnynh (DNWSI 388) | BDB 335; HALOT 334; DNWSI 388 | gloss withheld |
 | Punic | ḥnn 'gracious' | Anderson–Moser 2024 root ḥnn |  |
 | Ugaritic | ḥnn (G/D?) (DULAT 361) | DULAT 361 | gloss withheld |
 | Arabic | ḥanūn, ḥannān (HALOT 333) | HALOT 333 |  |

@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/K/KU_RU_MA
 title: "KU-RU-MA"
 desc: "kurma / gurma: vineyard / mountain with vineyard. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "toponym"]
+tags: ["linear-a", "word", "tier-3", "agriculture", "hapax", "noun"]
 kind: "word"
 form: "KU-RU-MA"
-datasets: ["lexicon", "onomasticon"]
+datasets: ["lexicon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | vineyard / mountain with vineyard |
 | Root | k-r-m |
 | Proto-Semitic | \*karm- (#1045) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | agriculture, hapax, noun |
 | Semantic field | commodity |
 
 ### Note
 
-HT 115b, in a list of entries with small quantities (PA-RA-NE ½, DU-PA₃-NA 1, \*306-TU-JA 1). √k-r-m: kurma or gurma 'vineyard', a place, or a name drawn from it; cf. KU-RA-MU.
+HT 115b KU-RU-MA · I ½, in a list of small quantities (PA-RA-NE ½, DU-PA₃-NA 1, \*306-TU-JA 1). kurma or gurma 'vineyard': Heb. kerem (HALOT 498), Ug. krm (DULAT 451); a place, or a name drawn from it, as KU-RA-MU Kurmu.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 115b, in a list of entries with small quantities (PA-RA-NE ½, DU-PA₃-NA 1,
 
 ### Source
 
-di Mino
+di Mino; HALOT; DULAT
 
 ## Attestations
 
@@ -66,21 +66,5 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT115b\|HT115b]] | kurma | vineyard | PROBABLE |
-
-## Onomasticon
-
-| Field | Value |
-|---|---|
-| Type | toponym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
-| Evidence | lexicon_reading |
-| Entry | manual |
-| Occurrences | 1 in 1 documents |
-| Sites | Haghia Triada |
-| Supports | Tablet 1 |
-
-### Note
-
-HT 115b, in a list of entries with small quantities (PA-RA-NE ½, DU-PA₃-NA 1, \*306-TU-JA 1). √k-r-m: kurma or gurma 'vineyard', a place, or a name drawn from it.
 
 <!-- END kaphtor:record -->

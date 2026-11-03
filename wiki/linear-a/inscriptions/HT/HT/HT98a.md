@@ -66,17 +66,17 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> \[…\] \]-DE 1\[…\]; \]TU 1; Tanāti ¾; ʾAddir-dīnā ½; Tēnā ('Fig') ¾; the trader (RO-KE) ½; Karīnī ¼.
+> \[…\] \]-DE 1\[…\]; \]TU 1; Tanāti ¾; ʾAddir-dīnā ½; Tēnā ('Fig') ¾; the trader (RO-KE) ½; Qarīnī ¼.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \]-DE |  | broken before, DE dotted |  |  |
 | \]TU |  | broken before. Not readable. |  |  |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | recipient of ¾; Tanit variant (theonym or personal name) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddir-dīnā | recipient of ½; 'mighty is the judge'; rival a simplex name | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | recipient of ½; 'mighty is the verdict'; rival a simplex name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TE_star301\|TE-\*301]] | Tēnā | 'Fig', personal name; recipient of ¾ | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōkēl | the trader, recipient of ½; rival rōqēaḥ 'perfumer' | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | recipient of ¼; personal name | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | recipient of ¼; personal name, 'Companion' | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 

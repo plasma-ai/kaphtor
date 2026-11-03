@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/K0802_raisin
 title: "*ṣVmVq-: 'raisin'"
-desc: "Proto-Semitic *ṣVmVq-, 'raisin': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ṣVmVq-, 'raisin': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0802"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ṣmq(m) (HALOT 1033) | HALOT 1033 |  |
 | Hebrew | ṣimmūḳīm (HALOT 1033 apud SEDonline 286) | HALOT 1033; SEDonline 286 | gloss withheld |
 | Phoenician | ṣmḳ (DNWSI 970, Krahmalkov 2000: 418 apud SEDonline 286) | DNWSI 970, Krahmalkov 2000: 418; SEDonline 286 | gloss withheld |
+| Amorite | ṣammūq: name ṣa-am-mu-uq-qu (Sanmartín GlOS 2, 218) | Sanmartín GlOS 2, 218 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

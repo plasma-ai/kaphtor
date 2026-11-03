@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TE_TU
 title: "TE-TU"
 desc: "Tetu: personal name; Ugaritic tt, syllabic te-et-te, tu-tu. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "loanword", "personal_name"]
 kind: "word"
 form: "TE-TU"
 datasets: ["lexicon", "onomasticon"]
@@ -33,13 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Tetu |
 | Meaning | personal name; Ugaritic tt, syllabic te-et-te, tu-tu |
-| Language layer | contact |
-| Category | personal_name |
+| Root | Tetu (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | loanword, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 13 .3 TE-TU 56, whole and undotted, the largest share of the KA-U-DE-TA VIN · TE list (KU-RO 130½), beside TE-KI, KU-ZU-NI and DA-SI-\*118 (GORILA I 27); HT 7a .5 TE-TU 1, TE over an erasure, under QE-TI · VIR+\[?\] (GORILA I 15); HT 85b .2–3 TE-TU 1, the lacuna after it perhaps empty (GORILA I 133). Counted one man on two rosters: a person. Ugarit has the personal name tt, syllabic te-et-te, tu-ut-ti, tu-tu, etym. unc. (DULAT 869); Tette, king of Nuḫašše (Kinlaw 1967, 119). A pet-name type found across languages: Egyptian tt.w Tetu (Ranke I, 385.27), Hurrian Tuttu at Mari (Monti 2017, 308), Hittite Tuttu (LAMAN 4579). Rival: Egyptian Teti (Ttj). Three documents.
+HT 13 .3 TE-TU 56, whole and undotted, the largest share of the KA-U-DE-TA VIN · TE list (KU-RO 130½), beside TE-KI, KU-ZU-NI and DA-SI-\*118 (GORILA I 27); HT 7a .5 TE-TU 1, TE over an erasure, under QE-TI · VIR+\[?\] (GORILA I 15); HT 85b .2–3 TE-TU\[, broken after TU (GORILA I 133). Counted one man on two rosters: a person. Ugarit has the personal name tt, syllabic te-et-te, tu-ut-ti, tu-tu, etym. unc. (DULAT 869); Tette, king of Nuḫašše (Kinlaw 1967, 119). A pet-name type found across languages: Egyptian tt.w Tetu (Ranke I, 385.27), Hurrian Tuttu at Mari (Monti 2017, 308), Hittite Tuttu (LAMAN 4579). Rival: Egyptian Teti (Ttj). Two whole witnesses.
 
 ### Cognates
 
@@ -60,7 +61,7 @@ di Mino; DULAT
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT7a\|HT7a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT13\|HT13]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT85b\|HT85b]] | Haghia Triada | Tablet | complete; restored |
 
 ## In translations
 
@@ -73,8 +74,8 @@ di Mino; DULAT
 
 | Field | Value |
 |---|---|
-| Type | personal name (CANDIDATE) |
-| Affiliation | unknown (SPECULATIVE) |
+| Type | personal name (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 3 in 3 documents |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3121_to_dig_hollow_out
 title: "*kry: 'to dig, hollow out'"
-desc: "Proto-Semitic *kry, 'to dig, hollow out': reflexes in 11 language(s)."
+desc: "Proto-Semitic *kry, 'to dig, hollow out': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3121"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Sel. käre \[LHar 97\] | LHar 97 |  |
 | Harari | xara \[LHar 97\] | LHar 97 | gloss withheld |
 | Judaic Aramaic | JBA kry (Kogan 2015, ch. 2 §5.2.2.1 no. 13) | Kogan 2015 ch. 2 §5.2.2.1 no. 13 | gloss withheld |
+| Punic | N.Pu. krʾ, in wkrʾ (T 149) | T 149 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

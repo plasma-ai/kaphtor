@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3568_to_give_ear_listen_to_permit
 title: "*ʾḏn: 'to give ear, listen; to permit'"
-desc: "Proto-Semitic *ʾḏn, 'to give ear, listen; to permit': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʾḏn, 'to give ear, listen; to permit': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3568"
@@ -32,7 +32,8 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | ʾzn (hif.) (HALOT 27) | HALOT 27 | gloss withheld |
 | Arabic | ʾaḏina 'he gave ear, listened' (Lane 41); istaʾḏana 'he asked of him permission, leave'; ʾiḏn 'permission, leave' (Lane 42) | Lane 41; Lane 42 |  |
 | Epigraphic South Arabian | Sab ʾḏn (Biella 5); ʾḏn (Biella 6); ʾḏn (SD 2); Qat. ʔḏn (Ricks 1982 s.v. ʔḏn) | Biella 5; Biella 6; SD 2; Ricks 1982 s.v. ʔḏn | gloss withheld |
-| Akkadian | uzzunu (wazzunu) (CAD U/W 396) | CAD U/W 396 | gloss withheld |
+| Akkadian | uzzunu (wazzunu) (CAD U/W 396; AHw 1494) | CAD U/W 396; AHw 1494 | gloss withheld |
+| Ugaritic | ỉdn (DULAT 20) | DULAT 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

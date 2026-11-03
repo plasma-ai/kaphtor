@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | saḥāḥ- 2 (Lane 1313) | Lane 1313 |  |
-| Akkadian | šēḫu 1 |  |  |
+| Akkadian | šēḫu 1 (AHw 1209) | AHw 1209 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

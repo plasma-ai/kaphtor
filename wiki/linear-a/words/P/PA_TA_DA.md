@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_TA_DA
 title: "PA-TA-DA"
 desc: "Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "compound", "personal_name"]
 kind: "word"
 form: "PA-TA-DA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Patada |
 | Meaning | personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit) |
 | Language layer | Middle Egyptian |
-| Category | personal_name |
+| Tags | compound, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -69,7 +69,7 @@ Ilin-Tomich 2025 (PNM v6), s.v. ptḥ-dj⸗f; DULAT 676; di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
 | Affiliation | egyptian (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3784_pray_please_surely_precative_particle
 title: "*nā: 'pray, please; surely' (precative particle)"
-desc: "Proto-Semitic *nā, 'pray, please; surely' (precative particle): reflexes in 6 language(s)."
+desc: "Proto-Semitic *nā, 'pray, please; surely' (precative particle): reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3784"
@@ -35,6 +35,7 @@ updated: 2026-10-31T13:28:57Z
 | Aramaic | nh (GnAp 20:25) (HALOT 656) | HALOT 656 |  |
 | Amharic | nā (HALOT 656) | HALOT 656 |  |
 | Akkadian | -na (HALOT 656) | HALOT 656 |  |
+| Phoenician | -n, ʔpqn (DNWSI 710) | DNWSI 710 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

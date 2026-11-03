@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3483_to_disgrace_disgrace_shame
 title: "*ʕyr: 'to disgrace; disgrace, shame'"
-desc: "Proto-Semitic *ʕyr, 'to disgrace; disgrace, shame': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʕyr, 'to disgrace; disgrace, shame': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3483"
@@ -30,6 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʿār 'a disgrace; a shame; a thing that occasions one's being reviled' (Lane 2208); ʿayyara 'he upbraided him with such a thing; reproached him for it' (Lane 2208) | Lane 2208 |  |
+| Jibbali | ʿɔr (Rubin 2014 657) | Rubin 2014 657 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʿyr (Al-Jallad–Jaworska 57) | Al-Jallad–Jaworska 57 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿyr (SD 24) (Biella 363) | SD 24; Biella 363 | gloss withheld |
 | Geez | ʿayyara; taʿayyara; təʿəyyərt (LGz. 80) | LGz. 80 | gloss withheld |

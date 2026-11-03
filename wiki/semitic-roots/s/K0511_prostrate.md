@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/K0511_prostrate
 title: "*sVgVd-: 'prostrate'"
-desc: "Proto-Semitic *sVgVd-, 'prostrate': reflexes in 4 language(s)."
+desc: "Proto-Semitic *sVgVd-, 'prostrate': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0511"
@@ -33,6 +33,7 @@ updated: 2026-10-26T14:26:59Z
 | Biblical Aramaic | sgd (HALOT 741) | HALOT 741 |  |
 | Judaic Aramaic | sgd (HALOT 741) | HALOT 741 |  |
 | Mandaic Aramaic | SGD (HALOT 741) | HALOT 741 |  |
+| Epigraphic South Arabian | Sab s3gd (SD 137) | SD 137 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

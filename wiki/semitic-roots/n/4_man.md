@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʔä̆nāš, ʔīnšā, ʔēnāš, ʔēnāšā, ʔīnīš, ʔä̆naš (Ja 53), ʔĕnāš (DJPA 66b apud CAL) | Ja 53; DJPA 66b; CAL | gloss withheld |
 | Syrian Aramaic | ʔanāšā 'man, person' (Brock 31) | Brock 31 |  |
 | Aramaic | Samal, DA, OffAr, OAram, Palm, Nab, Hatra ʔnš (HJ 84); Sam ʔnš (Tal 52) | HJ 84; Tal 52 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾns (Al-Jallad–Jaworska 45) | Al-Jallad–Jaworska 45 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾns (Al-Jallad–Jaworska 45); ns (Al-Jallad 2026, 8) | Al-Jallad–Jaworska 45; Al-Jallad 2026 8 | gloss withheld |
 | Eblaitic | na-se₁₁, a Semitic logogram inherited with the script | ARET XI 1 v. VIII 9 // 2 v. VII 17; Fronzaroli 1995, 54 n. 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

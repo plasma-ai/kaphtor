@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:13:39Z
+updated: 2026-11-05T18:21:11Z
 ---
 
 # wiki/linear-a/words/D
@@ -11,9 +11,9 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DA_DU_MA_TA|DA_DU_MA_TA]]: dadmatu: settlement(s), district (heading of a grain list); rival 'beloved land'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DA_DU_MI_NE|DA_DU_MI_NE]]: dādu-Mīnō: Beloved of Minos (theophoric PN). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_DU_MI_NE|DA_DU_MI_NE]]: dādu-Mīnō: Beloved of Minos (compound theophoric name). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_DU_star301|DA_DU_star301]]: dādu-nā-…: possible opening 'our beloved …' (fragmentary and doubtful Linear A). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_DU_star301|DA_DU_star301]]: dādu-nā-…: 'our beloved …', the opening of a longer word. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_I|DA_I]]: dayu: good, sufficient—commodity quality designation on oil/fat allocation tablets. Lexicon, CANDIDATE (tier 2).
 
@@ -29,17 +29,17 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DA_KU|DA_KU]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_KU_NA|DA_KU_NA]]: Daguna: personal name, probably derived from Dagan/Dagon; cf. attested Daguna. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/D/DA_KU_NA|DA_KU_NA]]: Daguna: personal name on Dagan, Daguna. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/D/DA_KU_SE_NE|DA_KU_SE_NE]]: Takušenni: probable Hurrian-style personal name; compare Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/D/DA_KU_SE_NE|DA_KU_SE_NE]]: Takušenni: Hurrian personal name, 'the brother is beautiful'; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/D/DA_KU_SE_NE_TI|DA_KU_SE_NE_TI]]: Takušenni-ti: probable Hurrian-style name or entity with final TI; exact function unresolved. Onomasticon personal name; lexicon entry DA-KU-SE-NE.
+[[wiki/linear-a/words/D/DA_KU_SE_NE_TI|DA_KU_SE_NE_TI]]: Takušenni-ti: Hurrian personal name Takušenni with final TI. Onomasticon personal name; lexicon entry DA-KU-SE-NE.
 
-[[wiki/linear-a/words/D/DA_MA_TE|DA_MA_TE]]: damat: tower; the unprefixed base of I-DA-MA-TE. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_MA_TE|DA_MA_TE]]: damat: the Tower; the unprefixed base of I-DA-MA-TE. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_ME|DA_ME]]: damu: blood (ritual allocation category); rival dam 'kinfolk'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DA_MI_NU|DA_MI_NU]]: Dimenu: Dimenu (personal name; Ugaritic name type dmn). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_MI_NU|DA_MI_NU]]: Ḏā-Mīnu: personal name, 'He of the Portion' (ḏā + √m-n-y); rival √m-n-n 'He of the Favor'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_NA_SI|DA_NA_SI]]: Ḏā-Naśiʾ: He of Naśiʾ (personal name heading HT 126a). Lexicon, SPECULATIVE (tier 1).
 
@@ -49,7 +49,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DA_PA3_broken_end|DA_PA3_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_QE_RA|DA_QE_RA]]: diḳaru: pot, bowl. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DA_QE_RA|DA_QE_RA]]: ḏā-Qīra: the (district) of Qīr, the walled town; heading opposite KA-PA 'village'; rival diḳaru 'pot'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DA_RA|DA_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -57,7 +57,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DA_RE_KU_broken_end|DA_RE_KU_broken_end]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DA_RI_DA|DA_RI_DA]]: Dardaʿ: personal name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DA_RI_DA|DA_RI_DA]]: Dardaʿ: personal name, 'thistle' (Hebrew Dardaʿ). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_RO_PA|DA_RO_PA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -73,7 +73,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DA_TA_RE|DA_TA_RE]]: Daṯar: Old (man's name); rival 'He of the gate'. Onomasticon personal name; lexicon entry DA-TA-RA.
 
-[[wiki/linear-a/words/D/DA_TU|DA_TU]]: Unread (role only): recipient or allocation heading; 1 occurrence(s).
+[[wiki/linear-a/words/D/DA_TU|DA_TU]]: ḏātu: She of (…), a woman named by her house (personal name; feminine of ḏū 'he of'); rival daṯʾu 'spring pasture'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DA_U_MI|DA_U_MI]]: dawmi: the enduring one (personal name). Lexicon, CANDIDATE (tier 2).
 
@@ -83,7 +83,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DA_star118|DA_star118]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DE_DI|DE_DI]]: Dedī: 'my beloved'. Onomasticon personal name; lexicon entry TA-DI.
+[[wiki/linear-a/words/D/DE_DI|DE_DI]]: Dedī: personal name, 'my beloved'; rival the Hurrian name dḏy. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DE_JU_KU|DE_JU_KU]]: Dalqu: personal name, 'burning, kindled'. Lexicon, SPECULATIVE (tier 1).
 
@@ -113,7 +113,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DI_KI|DI_KI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI_KI_SE|DI_KI_SE]]: Dikise: Dikise (personal name; possibly related to Hurrian tagiše/tegiše 'beautiful; beauty'). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/D/DI_KI_SE|DI_KI_SE]]: Dikise: Dikise, personal name, Hurrian tagiše 'beauty'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DI_NA_RO|DI_NA_RO]]: Dānīlo / Dānīlu: personal name ("El judges"—Ugaritic hero-king Dāniʾēlu). Lexicon, CANDIDATE (tier 2).
 
@@ -125,19 +125,19 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DI_NE|DI_NE]]: dīn: judgment (name element). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DI_NI|DI_NI]]: Dīnī: personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wdny. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DI_NI|DI_NI]]: Dīnī: personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DI_PA_JA_broken_end|DI_PA_JA_broken_end]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/D/DI_PA_JA|DI_PA_JA]]: dipaya: dipas, a large handled vessel (Linear B di-pa). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DI_RA_DI_NA|DI_RA_DI_NA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI_RE_DI_NA|DI_RE_DI_NA]]: ʾaddir-dīnā: mighty is the judge (compound sentence name); rival a simplex recipient name. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/D/DI_RE_DI_NA|DI_RE_DI_NA]]: ʾaddīr-dīnā: mighty is the verdict (compound sentence name); rival a simplex recipient name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DI_RI_NA|DI_RI_NA]]: dīr-īna: households, granaries (grain recipient); rivals the Amorite place name Dīr, a personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DI_SI|DI_SI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DI_star306|DI_star306]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/D/DI_star306|DI_star306]]: Diʿa: Diʿa 'Knowledge' (personal name). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU|DU]]: du: that, of (relative pronoun). Lexicon, CONFIRMED (tier 4).
 
@@ -149,11 +149,11 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DU_KA|DU_KA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_MA_I_NA|DU_MA_I_NA]]: Unread (edge overlap): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DU_MA_I_NA|DU_MA_I_NA]]: ḏū-maʿīna: He of the Spring (personal name; ḏū 'he of' + maʿīn 'spring, flowing water'); rival a product, '(the drink) of the spring'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU_ME_DI|DU_ME_DI]]: Dūmatī: Dūmatī (personal name—'the Enduring One', √dwm hypocoristic). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/D/DU_NE_MI|DU_NE_MI]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/D/DU_NE_MI|DU_NE_MI]]: ḏū-naʿmi: He of Grace (personal name; ḏū 'he of' + naʿm 'grace, pleasantness'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU_NI_MI|DU_NI_MI]]: ʾadunim / ʾadunīm: (to) the lord / lords—recipient entry; written only as WA-DU-NI-MI 'and (to) the lord(s)'. Lexicon, CANDIDATE (tier 2).
 
@@ -165,11 +165,11 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DU_RA|DU_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_RA_RE|DU_RA_RE]]: durar: freedom, release. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/D/DU_RA_RE|DU_RA_RE]]: durār: dove, swallow (offering bird). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/D/DU_RE_ZA|DU_RE_ZA]]: Unread (edge overlap): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/D/DU_RE_ZA_SE|DU_RE_ZA_SE]]: Unread (unread): no role; 3 occurrence(s).
+[[wiki/linear-a/words/D/DU_RE_ZA_SE|DU_RE_ZA_SE]]: turēṯa-se: for the must, new wine (terminative -SE); at Khania with the article, A-DU-RE-ZA ha-tīrāṯ 'the must'; rival √d-r-š 'demand, requisition'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/D/DU_RI|DU_RI]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -179,7 +179,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/D/DU_SU_NI|DU_SU_NI]]: Dišon: personal name, 'antelope'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DU_ZU_WA|DU_ZU_WA]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/D/DU_ZU_WA|DU_ZU_WA]]: ḏū-ṯuwāʕ: He of the Lord (personal name; ḏū 'he of' + ṯuwāʕ 'lord'); rival 'the noble one'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DU_star314_RE|DU_star314_RE]]: dubur: sanctuary, inner sanctum; proposed variant spelling of DU-PU₂-RE. Lexicon, CANDIDATE (tier 2).
 

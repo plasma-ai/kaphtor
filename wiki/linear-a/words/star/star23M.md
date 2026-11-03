@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star23M
 title: "*23M"
-desc: "mūru: young bull, head of cattle (live livestock logogram; MU-onset abbreviation of *mūru). Complementary to TU = ṯawr 'cattle products'—*23M counts live animals (whole numbers 1-5), TU measures processed portions (fractional quantities 1/16–3/4). Zero tablet overlap.. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "logogram"]
+desc: "mūru: young bull, head of cattle (live livestock logogram; MU-onset abbreviation of *mūru). Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "abbreviation", "commodity", "livestock", "logogram"]
 kind: "word"
 form: "*23M"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | mūru |
-| Meaning | young bull, head of cattle (live livestock logogram; MU-onset abbreviation of \*mūru). Complementary to TU = ṯawr 'cattle products'—\*23M counts live animals (whole numbers 1-5), TU measures processed portions (fractional quantities 1/16–3/4). Zero tablet overlap. |
+| Meaning | young bull, head of cattle (live livestock logogram; MU-onset abbreviation of \*mūru) |
 | Root | m-r-ʾ |
 | Proto-Semitic | \*muhr- (#2243) |
-| Language layer | NWS |
-| Category | logogram |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, livestock, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-7 tokens across 6 tablets at 3 sites (HT 4×, KH 2×, GOW 1×). \|\| Akk mūru 'foal (donkey or horse); calf', from OAkk on (CAD M2 229–30; eBL mūru I 'young animal; young bull; foal'). Middle Assyrian ledgers write it with the ox determinative, {gu₄}mu-ru{nita₂} 'young bull' (MARV 2 6), and count it by head: 67 mu-ru ša MU '67 calves, yearlings' (KAJ 289:11). Ug mrủ 'fattened, fatling' (DULAT 563). Heb מְרִיא mǝrīʾ 'fatted steer' (1 Kgs 1:9, Amos 5:22). MU = /mu/ spells mūru's /ū/; the calf sense runs through Middle and Neo-Assyrian, so the Cretan form needs no early equine/bovine split \|\| Alternative: \*ʾalpu 'cattle' (#2113) if purely pictographic rather than syllabic-abbreviation. See MU-RU.
+HT 30, HT 114a and HT 121 set it after VIN in whole numbers (1, 3, 3); KH 87 \*23M 1, GO Wc 1b \*23M 5, and the roundel KH Wc 2069 bears it alone. TU, which counts cattle products in fractions, never shares a tablet with it. mūru 'young bull, head of cattle', MU writing its ū: Akk. mūru 'foal (donkey or horse); calf', from Old Akkadian on (CAD M/2 229–30; eBL mūru I 'young animal; young bull; foal'). Middle Assyrian ledgers write it with the ox determinative, {gu₄}mu-ru{nita₂} 'young bull' (MARV 2 6), and count it by head: 67 mu-ru ša MU '67 calves, yearlings' (KAJ 289:11); the calf sense runs on into Neo-Assyrian, so the Cretan form needs no early split of foal and calf. Ug. mrủ 'fattened, fatling' (DULAT 563); Heb. מְרִיא mǝrīʾ 'fatted steer' (1 Kgs 1:9; Amos 5:22). Rival: \*ʾalpu 'cattle' (2113), with the sign a picture, not an abbreviation. See MU-RU.
 
 ### Cognates
 

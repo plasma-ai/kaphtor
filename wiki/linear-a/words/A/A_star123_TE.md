@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT 96a .2, the third heading group after I-TI-TI-KU-NI · A-PA-RA-NE, over a grain list (GORILA I 157). HT 96b has QA-\*118-RA-RE in the same slot after A-PA-RA-NE. \*123 is LB AROM and has no syllabic value; cf. TA-I-\*123 (HT9a, HT9b, HT39). Intact. No reading.
+HT 96a .2, the third heading group after I-TI-TI-KU-NI · A-PA-RA-NE, over a grain list (GORILA I 157). HT 96b has QA-\*118-RA-RE in the same slot after A-PA-RA-NE. \*123 is LB AROM and has no syllabic value; cf. TA-I-\*123 (HT9a, HT9b, HT39). An aromatics term, written with the AROM sign in the slot of the other face's QA-\*118-RA-RE 'incense'. Intact. No reading.
 
 <!-- END kaphtor:record -->

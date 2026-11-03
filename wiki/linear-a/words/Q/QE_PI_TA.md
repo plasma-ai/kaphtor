@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE_PI_TA
 title: "QE-PI-TA"
 desc: "qepīta: box, chest, basket (container or unit). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vessel"]
+tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "vessel"]
 kind: "word"
 form: "QE-PI-TA"
 datasets: ["lexicon"]
@@ -35,20 +35,20 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | box, chest, basket (container or unit) |
 | Root | q-p-t |
 | Proto-Semitic | \*ḳupp- (#301) |
-| Language layer | NWS |
-| Category | vessel |
-| Semantic field | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, vessel |
+| Semantic field | vessel |
 
 ### Note
 
-HT 6a, after DA-QE-RA: QE-PI-TA 22¾, counted in quarters, a container or unit. Ug. qpt 'box, chest, basket' (DULAT 696); Akk. quppatu, quppu (CAD Q 307). Weak point: QE-PI for the u-a of quppatu. One attestation. See KU-PA.
+HT 6a, after DA-QE-RA: QE-PI-TA 22¾, counted in quarters, a container or unit. Ug. qpt 'box, chest, basket' (DULAT 696); Akk. quppatu, quppu (CAD Q 307). QE writes the vowel of Akk. qappatu beside quppatu (CAD Q 91, 307) and Mehri ḳeffēt (semitic_roots 301). Weak point: one attestation. See KU-PA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | qpt 'box, chest, basket' (DULAT 696) |
-| Akkadian | quppatu 'box, basket'; quppu A 'wicker basket or wooden chest' (CAD Q 307) |
+| Akkadian | quppatu 'box, basket'; quppu A 'wicker basket or wooden chest' (CAD Q 307); qappatu (qabbatu) '(a basket made of palm leaves)' (CAD Q 91) |
 
 ### Source
 

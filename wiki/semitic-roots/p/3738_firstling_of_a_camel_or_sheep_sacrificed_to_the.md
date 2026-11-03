@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3738_firstling_of_a_camel_or_sheep_sacrificed_to_the
 title: "*prʕ: 'firstling (of a camel or sheep, sacrificed to the gods); first-fruits, crops'"
-desc: "Proto-Semitic *prʕ, 'firstling (of a camel or sheep, sacrificed to the gods); first-fruits, crops': reflexes in 2 language(s)."
+desc: "Proto-Semitic *prʕ, 'firstling (of a camel or sheep, sacrificed to the gods); first-fruits, crops': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3738"
@@ -31,6 +31,7 @@ updated: 2026-10-28T02:25:00Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab frʿ (Biella 410; Sabaweb lemma 1973); frʿ (Sabaweb lemma 4116); frʿt (Sabaweb lemma 9407) | Biella 410; Sabaweb lemma 1973; Sabaweb lemma 4116; Sabaweb lemma 9407 | gloss withheld |
 | Arabic | faraʿ 'the firstling of the camel or of the sheep or goat, which they used to sacrifice to their gods, looking for a blessing thereby' (Lane 2379); ʾafraʿa 'the camels brought forth the firstlings' (Lane 2378); ʾafraʿa l-qawmu 'the people sacrificed the firstling' (Lane 2379) | Lane 2379; Lane 2378 |  |
+| Ugaritic | prʕ (DULAT 668) | DULAT 668 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

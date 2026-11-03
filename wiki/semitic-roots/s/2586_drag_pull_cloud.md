@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/2586_drag_pull_cloud
 title: "*sḥb: 'drag, pull (> cloud)'"
-desc: "Proto-Semitic *sḥb, 'drag, pull (> cloud)': reflexes in 17 language(s)."
+desc: "Proto-Semitic *sḥb, 'drag, pull (> cloud)': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2586"
@@ -47,6 +47,8 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | sḥab (Kogan 2015, ch. 2 §4.2 no. 56) | Kogan 2015 ch. 2 §4.2 no. 56 |  |
 | Mehri | səḥāb (Kogan 2015, ch. 2 §4.2 no. 56) | Kogan 2015 ch. 2 §4.2 no. 56 | gloss withheld |
 | Eblaitic | sa-ʔà-bu /S-ḥ-b/ (Sanmartín GlOS 2, 191) | Sanmartín GlOS 2, 191 | gloss withheld |
+| Moabite | sḥb (T 226) | T 226 | gloss withheld |
+| Punic | sḥb (Krahmalkov 341) | Krahmalkov 341 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

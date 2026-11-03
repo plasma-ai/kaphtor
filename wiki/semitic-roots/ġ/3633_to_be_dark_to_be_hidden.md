@@ -29,7 +29,7 @@ updated: 2026-10-26T15:47:57Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ɣlm (HALOT 835); ɣlmt (DUL 320 apud SEDonline 1130) | HALOT 835; DUL 320; SEDonline 1130 | gloss withheld |
+| Ugaritic | ɣlm (HALOT 835); ɣlmt (DULAT 316; SEDonline 1130) | HALOT 835; DULAT 316; SEDonline 1130 | gloss withheld |
 | Hebrew | II ʿlm hif. (HALOT 835) | HALOT 835 | gloss withheld |
 | Geez | taʿalma (LGz. 61) | LGz. 61 | gloss withheld |
 

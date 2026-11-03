@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/K0785_lack
 title: "*ḫVsVr-: 'lack'"
-desc: "Proto-Semitic *ḫVsVr-, 'lack': reflexes in 12 language(s)."
+desc: "Proto-Semitic *ḫVsVr-, 'lack': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0785"
@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫasira 'lost' (Lane 736) | Lane 736; Anderson–Moser 2024 root ḫsr |  |
-| Aramaic | ḤSR (DNWSI 394 apud CAL) | DNWSI 394; CAL; Anderson–Moser 2024 root ḫsr | gloss withheld |
+| Aramaic | ḤSR (DNWSI 394) | DNWSI 394; Anderson–Moser 2024 root ḫsr | gloss withheld |
 | Hebrew | ḥaser 'lack' | Anderson–Moser 2024 root ḫsr |  |
-| Punic | ḥsr 'lacking' | Anderson–Moser 2024 root ḫsr |  |
+| Punic | ḥsr; mḥsr (T 171) | T 171; Anderson–Moser 2024 root ḫsr | gloss withheld |
 | Ugaritic | ḫsr (Kogan 2015, ch. 2 §4.2 no. 28) | Kogan 2015 ch. 2 §4.2 no. 28; Anderson–Moser 2024 root ḫsr | gloss withheld |
 | Geez | ḫas(a)ra (HALOT 338); ḫasra (yəḫsar); ḫəsrat (LGz. 265–266) | HALOT 338; LGz. 265–266 | gloss withheld |
 | Akkadian | ḫasāru (HALOT 338) | HALOT 338 | gloss withheld |
@@ -41,6 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ḥsar 'be wanting, fail; lose' (Payne Smith 152) | Payne Smith 152 |  |
 | Jibbali | ḫsɔr (JL 306 apud SEDonline 1273) | JL 306; SEDonline 1273 | gloss withheld |
 | Soqotri | ḥésər (yəḥásor/ľiḥsór) (Kogan 2015, ch. 2 §4.2 no. 28, fn. 250) | Kogan 2015 ch. 2 §4.2 no. 28, fn. 250 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫsr (Al-Jallad 2026, 68) | Al-Jallad 2026 68 | gloss withheld |
+| Biblical Aramaic | ḥassīr (HALOT BArm. s.v. חַסִּיר) | HALOT BArm. s.v. חַסִּיר | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

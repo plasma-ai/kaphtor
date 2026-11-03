@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star306_plus_MI
 title: "*306+MI"
 desc: "ʿAmmī: personal name: 'my kinsman / my (paternal) uncle'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "ligature", "personal_name"]
 kind: "word"
 form: "*306+MI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name: 'my kinsman / my (paternal) uncle' |
 | Root | ʿ-m-m |
 | Proto-Semitic | \*ʕamm- (#44) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, ligature, personal_name |
 | Semantic field | personal_name |
 
 ### Note

@@ -1,16 +1,16 @@
 ---
 name: wiki/linear-a/words/A/A_SE_JA
 title: "A-SE-JA"
-desc: "ʾaššē-ya: (portion) of the fire offering (-iya derivative of A-SE). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "ritual"]
+desc: "Āsīya: Asīya, personal name, '(DN is) my physician'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "loanblend", "personal_name"]
 kind: "word"
 form: "A-SE-JA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 attestations: ["HT115a"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "ʾaššē-ya"
+reading: "Āsīya"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -31,23 +31,24 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾaššē-ya |
-| Meaning | (portion) of the fire offering (-iya derivative of A-SE) |
-| Root | ʾ-š-š |
-| Proto-Semitic | \*ʾišs- (#812) |
-| Language layer | NWS |
-| Category | ritual |
-| Semantic field | ritual |
+| Reading | Āsīya |
+| Meaning | Asīya, personal name, '(DN is) my physician' |
+| Root | ʾ-s-y (Sumerian azu) + -ya |
+| Proto-Semitic | \*ʾsy (#4409) |
+| Language layer | Semitic |
+| Tags | hapax, loanblend, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-HT 115a .4 A-SE-JA with four fraction signs, whole and undotted, after PA-RA-NE 1, on a palimpsest whose heading carries GRA+BOSm (GORILA I 189). The base A-SE ʾaššē opens grain and commodity entries on HT 81, HT 93a and HT 132; -JA forms the derivative as in PA-SE / PA-SE-JA. Rivals: the Nuzi name Aziya, A-zi-ia (Gelb, Purves, and MacRae 1943, 41); the Ugaritic name ùsy (DULAT 111).
+HT 115a .4 A-SE-JA with four fraction signs, whole and undotted, among the names of a palimpsest list under \*47-NU-RA-JA and GRA+BOSm (GORILA I 189), between PA-RA-NE and KA-PO-RU. Asīya 'my physician', the short form of the Euphrates name ì-lí-a-si-ia 'my god is my physician' (GlOS 1, 47), from A-SE ʾāsē. The name is written a-sí-ia, sign for sign: a woman of the Mari palace (Ziegler 1999, 262), and men at early Old Babylonian Kiš and Dilbat (de Boer 2014, 398, 410). Rivals: the Nuzi name Aziya, A-zi-ia (Gelb, Purves, and MacRae 1943, 41); the Ugaritic name ủsy (DULAT 111). One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | ʾiššeh אִשֶּׁה 'fire offering' (Lev 1:9); ʾēš 'fire' |
+| Akkadian | asû 'physician'; ì-lí-a-si-ia 'my god is my physician' (GlOS 1, 47) |
+| Aramaic | ʾsy 'physician' (DNWSI 88) |
 
 ### Source
 
@@ -63,6 +64,26 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | ʾaššē-ya | (portion) of the fire offering, ⅔ | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT115a\|HT115a]] | Āsīya | Asīya (personal name, 'my physician'), ⅔ | SPECULATIVE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Note
+
+HT 115a .4 A-SE-JA with four fraction signs, between PA-RA-NE and KA-PO-RU in a list of names (GORILA I 189). Asīya 'my physician', short for ì-lí-a-si-ia 'my god is my physician' (GlOS 1, 47); a-sí-ia at Mari (Ziegler 1999, 262), Kiš and Dilbat (de Boer 2014, 398, 410). See the lexicon entry. One witness.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/P/PA_RA_NE|PA-RA-NE]] barāne.
 
 <!-- END kaphtor:record -->

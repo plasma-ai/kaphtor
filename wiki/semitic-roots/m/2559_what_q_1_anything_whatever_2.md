@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2559_what_q_1_anything_whatever_2
 title: "*min: 'what?' 1, 'anything, whatever' 2"
-desc: "Proto-Semitic *min, 'what?' 1, 'anything, whatever' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *min, 'what?' 1, 'anything, whatever' 2: reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2559"
@@ -44,6 +44,8 @@ updated: 2026-10-26T14:26:59Z
 | Ugaritic | mn (CUC; DULAT 553); mnm 2 (DULAT 556) | CUC; DULAT 553; DULAT 556 | gloss withheld |
 | Phoenician | mnm 2 (Krahmalkov 296; T 187) | Krahmalkov 296; T 187 | gloss withheld |
 | Punic | mnm 2, kl mnm 2 (Krahmalkov 296); mnm 2 (T 187) | Krahmalkov 296; T 187 | gloss withheld |
+| Eblaitic | mi-na, me/mi-ne-iš, me/mi-na-a /min/ 1; names mi-na-núm, mi-na-ì, mi-na-du, mi-na-il, mi-núm (Sanmartín GlOS 2, 26); me/mi-nu-ma, gen. me/mi-ne-ma, acc. me-na-ma; me-na-ma-ma (= Sum. NÌ.NAM) /mīnumma/ 2 (Sanmartín GlOS 2, 26) | Sanmartín GlOS 2, 26 | gloss withheld |
+| Tigre | mə, mi (LGz. 352) | LGz. 352 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -29,7 +29,7 @@ updated: 2026-10-27T22:12:55Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šarāqu 1 (CAD Š/2 53); šarqu 1 (CAD Š/2 66); šurqu 2 (CAD Š/3 354); šerqu 2 (CAD Š/2 317) | CAD Š/2 53; CAD Š/2 66; CAD Š/3 354; CAD Š/2 317; Anderson–Moser 2024 root šrq | gloss withheld |
+| Akkadian | šarāqu 1 (CAD Š/2 53; AHw 1185); šarqu 1 (CAD Š/2 66); šurqu 2 (CAD Š/3 354); šerqu 2 (CAD Š/2 317) | CAD Š/2 53; AHw 1185; CAD Š/2 66; CAD Š/3 354; CAD Š/2 317; Anderson–Moser 2024 root šrq | gloss withheld |
 | Geez | saraqa 'steal' | Anderson–Moser 2024 root šrq |  |
 | Epigraphic South Arabian | Sab s1rq (SD 128; Sabaweb lemma 5039) | SD 128; Sabaweb lemma 5039 | gloss withheld |
 | Jibbali | šeroq (LGz. 514) | LGz. 514 |  |
@@ -39,7 +39,7 @@ updated: 2026-10-27T22:12:55Z
 | Argobba | särräqa (LGz. 514) | LGz. 514 |  |
 | Gurage | säräqä (LGz. 514) | LGz. 514 |  |
 | Arabic | saraqa 'steal' 1 (Lane 1352); sariq, sariqat, sarqat, sirqat 'theft' 2; sariqat 'a thing stolen' 2 (Lane 1352) | Lane 1352 |  |
-| Pre-Islamic North Arabian | Safaitic srq (Al-Jallad–Jaworska 123) | Al-Jallad–Jaworska 123 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic srq (Al-Jallad–Jaworska 123); Hismaic srq (Al-Jallad 2026, 135) | Al-Jallad–Jaworska 123; Al-Jallad 2026 135 | gloss withheld |
 | Mehri | hərūḳ (ML 159 apud SEDonline 142) | ML 159; SEDonline 142 | gloss withheld |
 | Soqotri | ʸhéraḳ (LS 146; CSOL I 695; CSOL II 628; Naumkin et al. 2015a:92; Naumkin–Kogan 2021:533 apud SEDonline 142) | LS 146; SEDonline 142 | gloss withheld |
 

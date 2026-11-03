@@ -1,15 +1,15 @@
 ---
 name: wiki/semitic-roots/ḥ/665_enclosure_1_camp_2_yard_3_area_4
-title: "*ḥič̣/ṣ/ĉ̣ar-: 'enclosure'1, 'camp' 2, 'yard' 3, 'area' 4"
-desc: "Proto-Semitic *ḥič̣/ṣ/ĉ̣ar-, 'enclosure'1, 'camp' 2, 'yard' 3, 'area' 4: reflexes in 20 language(s)."
+title: "*ḥič̣/ṣ/ĉ̣ar-: 'enclosure' 1, 'camp' 2, 'yard' 3, 'area' 4"
+desc: "Proto-Semitic *ḥič̣/ṣ/ĉ̣ar-, 'enclosure' 1, 'camp' 2, 'yard' 3, 'area' 4: reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "665"
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-22T17:38:31Z
+updated: 2026-11-04T14:00:32Z
 ---
 
-# *ḥič̣/ṣ/ĉ̣ar-: 'enclosure'1, 'camp' 2, 'yard' 3, 'area' 4
+# *ḥič̣/ṣ/ĉ̣ar-: 'enclosure' 1, 'camp' 2, 'yard' 3, 'area' 4
 
 [[wiki/semitic-roots/ḥ/_index|..]]
 
@@ -22,7 +22,7 @@ updated: 2026-10-22T17:38:31Z
 | Field | Value |
 |---|---|
 | Reconstruction | \*ḥič̣/ṣ/ĉ̣ar- |
-| Meaning | 'enclosure'1, 'camp' 2, 'yard' 3, 'area' 4 |
+| Meaning | 'enclosure' 1, 'camp' 2, 'yard' 3, 'area' 4 |
 | Basis | SED |
 | SED | SEDonline semet 651 |
 
@@ -37,10 +37,10 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ḥṣr 3 (Krahmalkov 195; T 112) | Krahmalkov 195; T 112 | gloss withheld |
 | Jibbali | ḥoṣor |  | gloss withheld |
 | Hebrew | ḥāṣer 2,3 |  |  |
-| Epigraphic South Arabian | ḥṣwr 4; Sab ḥẓrm 1 (Biella 172); ḥẓr 1 (SD 75; Sabaweb lemma 4428) | Biella 172; SD 75; Sabaweb lemma 4428 | gloss withheld |
+| Epigraphic South Arabian | ḥṣwr 4; Sab ḥẓrm 1 (Biella 172); ḥẓr 1 (SD 75; Sabaweb lemma 4428); Sab ḥyr, ḥyrw 2; ḥrt(n), ḥyrt, ḥyrthmw 2 (Biella 175); ḥṣrhw 1; ḥṣwrhmw 4 (Biella 184); ḥḍrhw 4; ḥḍr 3 (Biella 185) | Biella 172; SD 75; Sabaweb lemma 4428; Biella 175; Biella 184; Biella 185 | gloss withheld |
 | Syrian Aramaic | ḥǝṣārā 3; ḥīrtā 2 (Payne Smith 141; HALOT 345) | Payne Smith 141; HALOT 345 | gloss withheld |
 | Tigre | ḥaṣur (OLA80 §31.32) | OLA80 §31.32 | gloss withheld |
-| Punic | ḥdr; Neo-Punic ḥṣrt 3 (Krahmalkov 195; T 112) | Krahmalkov 195; T 112; Anderson–Moser 2024 root ḥḍr | gloss withheld |
+| Punic | Neo-Punic ḥṣrt 3 (Krahmalkov 195; T 112); Neo-Punic ḥṣr piʿel 2, mḥṣrt 4 (Krahmalkov 194) | Krahmalkov 195; T 112; Krahmalkov 194 | gloss withheld |
 | Judaic Aramaic | ḥuṭrā (HALOT 345; DJBA 450a apud CAL) | HALOT 345; DJBA 450a; CAL |  |
 | Aramaic | ḥyrtʾ (HALOT 345) | HALOT 345 |  |
 | Tigrinya | ḥaṣärä (LGz. 247) | LGz. 247 | gloss withheld |
@@ -50,6 +50,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | aṭärä (LGz. 247) | LGz. 247 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥḍr (Al-Jallad–Jaworska 84) | Al-Jallad–Jaworska 84 | gloss withheld |
 | Amorite | ḫaṣāru (ARM 26/1, 40: 24) (Streck 2000, 94–95) | Streck 2000 94–95 | gloss withheld |
+| Emar | ḫi-ṣa-ri, ḫu-ṣa-ri, ḫu-ṣú-ra-ni, ḫi-ṣa-ra-ti₇ /ḥiθaru/, /ḥuθaru/, /ḥuθŭrānu/, /ḥiθarātu/ 2 (Pentiuc 2001, 71) | Pentiuc 2001 71 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

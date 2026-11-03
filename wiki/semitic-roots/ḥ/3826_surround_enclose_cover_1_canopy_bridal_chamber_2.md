@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/3826_surround_enclose_cover_1_canopy_bridal_chamber_2
 title: "*ḥpp: 'surround, enclose, cover' 1, 'canopy, bridal chamber' 2"
-desc: "Proto-Semitic *ḥpp, 'surround, enclose, cover' 1, 'canopy, bridal chamber' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḥpp, 'surround, enclose, cover' 1, 'canopy, bridal chamber' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3826"
@@ -33,7 +33,8 @@ updated: 2026-10-31T13:28:57Z
 | Judaic Aramaic | ḥpp 1 (HALOT 339) | HALOT 339 | gloss withheld |
 | Arabic | ḥaffa; ḥaffahu bi- 1 (Lane 597); miḥaffat 2 (HALOT 339) | Lane 597; HALOT 339 | gloss withheld |
 | Tigre | ḥaffa (HALOT 339) | HALOT 339 | gloss withheld |
-| Epigraphic South Arabian | mḥfn (HALOT 339) | HALOT 339 | gloss withheld |
+| Epigraphic South Arabian | mḥfn (HALOT 339); Sab ḥf 1 (SD 66) | HALOT 339; SD 66 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥf 1 (Al-Jallad 2026, 73) | Al-Jallad 2026 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

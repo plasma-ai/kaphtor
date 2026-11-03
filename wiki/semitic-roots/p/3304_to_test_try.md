@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3304_to_test_try
 title: "*ptn: 'to test, try'"
-desc: "Proto-Semitic *ptn, 'to test, try': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ptn, 'to test, try': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3304"
@@ -32,6 +32,12 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Arabic | ftn (Lane 2334 apud SEDonline 1955) | Lane 2334; SEDonline 1955 | gloss withheld |
 | Geez | fatana (CDG 170 apud SEDonline 1955) | CDG 170; SEDonline 1955 | gloss withheld |
+| Mehri | fetōn (LGz. 170) | LGz. 170 |  |
+| Tigre | fätna; ʔafättäna (LGz. 170) | LGz. 170 | gloss withheld |
+| Tigrinya | fättänä (LGz. 170) | LGz. 170 | gloss withheld |
+| Amharic | fättänä (LGz. 170) | LGz. 170 | gloss withheld |
+| Argobba | fettäna (LGz. 170) | LGz. 170 |  |
+| Gurage | fetänä (LGz. 170) | LGz. 170 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -15,14 +15,18 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from tools.core import competitors
 
 # key-space sizes and key -> entry-number digests of the export, equal to the private files' under names=False
-KEYS = {"luwian": 1441, "egyptian": 3011, "hurrian": 95}
-DIGEST = {"luwian": "78731e68e654ed1e", "egyptian": "97a284651f89ab08", "hurrian": "beeacb24336a0d3f"}
+# Hurrian 95 -> 94 (A23): the shared name categories add "ethnic", which takes out 89 Ḫurri
+KEYS = {"luwian": 1441, "egyptian": 3011, "hurrian": 94, "hattic": 232}
+DIGEST = {"luwian": "78731e68e654ed1e", "egyptian": "97a284651f89ab08", "hurrian": "849db430aa14d1b0",
+          "hattic": "e5011491095bb99e"}
 # sha256 of each file as exported (first 16 hex digits)
-FILE_SHA = {"luwian": "dfcd439570329a58", "egyptian": "ac231e1a4b6e939a", "hurrian": "46d40ece77f57b86"}
+FILE_SHA = {"luwian": "dfcd439570329a58", "egyptian": "ac231e1a4b6e939a", "hurrian": "f15664aa1a3e4678",
+            "hattic": "b698b5c8184e7c9e"}
 FIELDS = {
     "luwian": {"Number", "Proto-Luwian", "Consonantal_Root", "Analogue_Labels"},
     "egyptian": {"Number", "Middle_Egyptian", "Consonantal_Root", "Sources"},
     "hurrian": {"Number", "Hurrian", "Consonantal_Root", "Category", "Sources"},
+    "hattic": {"Number", "Hattic", "Consonantal_Root", "Category", "Sources"},
 }
 SPECS = {s.name: s for s in competitors.COMPETITORS}
 MISSING = [s.file for s in competitors.COMPETITORS if not (competitors.DATA_DIR / s.file).exists()]

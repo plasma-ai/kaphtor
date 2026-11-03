@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/SA027_WORK_OF_HEWN_WOOD
 title: "*gzʕ: 'WORK OF HEWN WOOD'"
-desc: "Epigraphic South Arabian headword *gzʕ, 'WORK OF HEWN WOOD': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *gzʕ, 'WORK OF HEWN WOOD': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA027"
@@ -31,6 +31,10 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab gzʿ (Biella 70) (Sabaweb lemma 4187) | Biella 70; Sabaweb lemma 4187 | gloss withheld |
 | Arabic | Ar jazaʿa (Biella 70) | Biella 70 | gloss withheld |
+| Geez | gazʕa (LGz. 211) | LGz. 211 | gloss withheld |
+| Syrian Aramaic | gəzaʕ (LGz. 211) | LGz. 211 | gloss withheld |
+| Tigrinya | gäzʕe (LGz. 211) | LGz. 211 | gloss withheld |
+| Amharic | gäzäggäzä (LGz. 211) | LGz. 211 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

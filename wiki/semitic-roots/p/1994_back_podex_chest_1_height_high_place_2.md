@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1994_back_podex_chest_1_height_high_place_2
 title: "*p/ban/md-at-: 'back, podex; chest' 1, 'height, high place' 2"
-desc: "Proto-Semitic *p/ban/md-at-, 'back, podex; chest' 1, 'height, high place' 2: reflexes in 9 language(s)."
+desc: "Proto-Semitic *p/ban/md-at-, 'back, podex; chest' 1, 'height, high place' 2: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1994"
@@ -39,6 +39,7 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | bāmā 1, 2 (HALOT 136) | HALOT 136 | gloss withheld |
 | Syrian Aramaic | pantā 'back of the hand', also 'upper part of a shoe made of leather, a patch added to a shoe' \[Brock 578\] | Brock 578 |  |
 | Moabite | hbmt 2 (Mesha 3; HALOT 136) | HALOT 136 | gloss withheld |
+| Eblaitic | bù-ma-tum /būmat/ 1 (= Sum. SA.SAL) (Sanmartín GlOS 1, 113) | Sanmartín GlOS 1, 113 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

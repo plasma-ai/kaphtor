@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tiāmtum (CAD T 150) | CAD T 150 | gloss withheld |
+| Akkadian | tiāmtum (CAD T 150; AHw 1353) | CAD T 150; AHw 1353 | gloss withheld |
 | Ugaritic | thm (CUC; DULAT 851); /tahāmatu/ (UVST 184) | CUC; DULAT 851; UVST 184 | gloss withheld |
 | Hebrew | tehôm (HALOT 1690) | HALOT 1690 | gloss withheld |
 | Judaic Aramaic | təhōmā (HALOT 1690) | HALOT 1690 |  |

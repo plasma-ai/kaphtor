@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/S72_until_as_long_as_faced_with_alongside
 title: "*ʿadi/*qadu(m): 'until, as long as; faced with, alongside'"
-desc: "Proto-Semitic *ʿadi/*qadu(m), 'until, as long as; faced with, alongside': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʿadi/*qadu(m), 'until, as long as; faced with, alongside': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S72"
@@ -39,6 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕad 'while, until; as far as' (Payne Smith 400) | Payne Smith 400 |  |
 | Mandaic Aramaic | ʾad (T 238) | T 238 |  |
 | Judaic Aramaic | ʿad (T 238) | T 238 |  |
+| Eblaitic | (ʿ)adē: a-dè, a-ti, suff. a-ti-ma; AN.MA = a-dè ma-a-ti-a-mu (Sanmartín GlOS 1, 95) | Sanmartín GlOS 1, 95 | gloss withheld |
+| Biblical Aramaic | ʿad (HALOT 786) | HALOT 786 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

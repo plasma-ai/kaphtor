@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA
 title: "O-KA-MI-ZA-SI-I-NA"
 desc: "Ukammis-Sîn: personal name: 'Sîn has gathered in / laid up (the child)'—verb + DN sentence name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "O-KA-MI-ZA-SI-I-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name: 'Sîn has gathered in / laid up (the child)'—verb + DN sentence name |
 | Root | k-m-s + DN Sîn |
 | Proto-Semitic | \*kamas- (#2835) |
-| Language layer | Akkadian |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PK1.3–4, one-each roster sorted by first sign. SI written on the right edge, word finished I-NA at the left margin (GORILA I 280–281; SigLA lists the SI as side b). O = u- of the D preterite, KA-MI = kamm- (geminate written single), ZA = final s + dead vowel; SI-I-NA = Sîn with two vowel slots (Suen &gt; Sîn). Sibling frame U-KA-RE-A-SE-SI-NA (PE1 heading). Weak points: O for /u/ where Linear A has U (only PE1 U-KA- supports the swap); kamāsu otherwise unattested in Akkadian name formation; Sîn not in Ugaritic (moon-god Yariḫ), so the name implies a Mesopotamian-facing channel. One attestation.
+PK 1 .3–4, a one-each roster sorted by first sign; SI on the right edge, I-NA at the left margin (GORILA I 280–281; SigLA side b). Ukammis-Sîn 'Sîn has laid up': O the u- of the D preterite, KA-MI kamm-, ZA the final s, SI-I-NA Sîn (Suen &gt; Sîn). Akkadian kamāsu A 'to gather, to bring in' (CAD K 114), Hebrew kāmus 'stored up' (Deut 32:34; HALOT 481); Amorite names on KMS: JA-KMIS-I, KAMIS-UM, KUMIS-AN (Gelb 1980, 23; nos. 2910, 3971, 4116). Sibling frame U-KA-RE-A-SE-SI-NA (PE 1). O writes u, as RO writes ru in SA-RO beside SA-RU šarru; PE 1 U-KA- writes the same u-. Sîn as in the Mari names Erîb-Sîn and Narâm-Sîn (ARM 26/1, 595; FM I, 155). One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ PK1.3–4, one-each roster sorted by first sign. SI written on the right edge, w
 
 ### Source
 
-di Mino
+di Mino; CAD K; HALOT; Gelb 1980; ARM 26/1; FM I
 
 ## Attestations
 

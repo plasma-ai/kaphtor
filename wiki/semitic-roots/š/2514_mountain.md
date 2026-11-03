@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sadd- |  |  |
-| Akkadian | šadû |  | gloss withheld |
+| Akkadian | šadû (AHw 1124) | AHw 1124 | gloss withheld |
 | Ugaritic | šd |  | gloss withheld |
 | Phoenician | šdʾ (B 414) | B 414 | gloss withheld |
 | Amorite | šadūm, also deified (Gelb AS 21, 33); šad- (Huffmon APNM 267) | Gelb AS 21 33; Huffmon APNM 267 | gloss withheld |

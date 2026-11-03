@@ -1,16 +1,16 @@
 ---
 name: wiki/linear-a/words/A/A_RI_PA
 title: "A-RI-PA"
-desc: "ʾaripāʾ / ʿarpa: healer, Rephaim (√r-p-ʾ) OR clouds (√ʿ-r-p, Baal epithet rkb ʿrpt). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+desc: "ʾaripāʾ: healer, of the Rephaim (√r-p-ʾ); rival ʿarpa 'clouds' (√ʿ-r-p). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "epithet", "ritual"]
 kind: "word"
 form: "A-RI-PA"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "ʾaripāʾ / ʿarpa"
-attestations: ["PE1", "PE2"]
+reading: "ʾaripāʾ"
+attestations: ["PE2"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾaripāʾ / ʿarpa |
-| Meaning | healer, Rephaim (√r-p-ʾ) OR clouds (√ʿ-r-p, Baal epithet rkb ʿrpt) |
-| Root | r-p-ʾ / ʿ-r-p |
+| Reading | ʾaripāʾ |
+| Meaning | healer, of the Rephaim (√r-p-ʾ); rival ʿarpa 'clouds' (√ʿ-r-p) |
+| Root | r-p-ʾ |
 | Proto-Semitic | \*rVpVʾ- (#K0355) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | epithet, ritual |
 | Semantic field | divine |
 
 ### Note
 
-Ug. rpum KTU 1.20–22 (Rephaim as ancestral healers/shades), Amorite Rapiʾum (Gelb AS 21 no. 5238), r-p-ʾ names at Mari and Alalakh (GlOS 2, 168); alt. Ug. ʿrpt 'clouds' from rkb ʿrpt 'Rider of Clouds' (Baal epithet, = Ps 68:5). PE2 Petras. Guttural ʿ drops transparently. See RP-33-Y and A-RE-PI-RE-NA.
+PE 2, in a list of fractional entries: A-RI-PA ¼, after A-\*325-ZA ¼ and before QA-QA-DA ½. ʾaripāʾ, √r-p-ʾ 'to heal': Ug. rpum, the Rephaim, ancestral healers and shades (KTU 1.20–22; DULAT 731), Amorite Rapiʾum (Gelb 1980, no. 5238), r-p-ʾ names at Mari and Alalakh (GlOS 2, 168). Rival: Ug. ʿrpt 'clouds', from rkb ʿrpt 'Rider of Clouds', Baal's epithet (Ps 68:5), with the ʿ unwritten. One attestation. See RP-33-Y and A-RE-PI-RE-NA.
 
 ### Cognates
 
@@ -58,7 +58,6 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PE/PE/PE1\|PE1]] | Petras | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PE/PE/PE2\|PE2]] | Petras | Tablet | none |
 
 <!-- END kaphtor:record -->

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MI_RU_TA_RA_RE
 title: "MI-RU-TA-RA-RE"
 desc: "Mīru-darār: Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "MI-RU-TA-RA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,24 +35,24 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Free-running Bull, a bull that roams free (personal name); rival Murr-darār 'Flowing Myrrh' |
 | Root | m-r-ʾ + d-r-r |
 | Proto-Semitic | \*mir(Vʾ)- (#2245) + \*dVr- (#503) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a MI-RU-TA-RA-RE 1, intact, in the roster under MA-KA-RI-TE · KI-RO, between U-DI-MI and TE-JA-RE Teyar, with MA-RU Maruʾ 'Fattened' on the same list. MI-RU mīru 'young bull' (CAD M/2, s.v. mīru A), as MU-RU mūru; TA-RA-RE darār, Akkadian darāru 'become free, move about freely, run off' (CAD D, 109), as DU-RA-RE durar, TA for d as in TA-DI dādī. Rival: Murr-darār 'Flowing Myrrh', Hebrew mor-dərôr (Exod 30:23; √m-r-r, 3469), MI-RU as MI+JA+RU murru.
+HT 117a MI-RU-TA-RA-RE 1, intact, in the roster under MA-KA-RI-TE · KI-RO, between U-DI-MI and TE-JA-RE Teyar, with MA-RU Maruʾ 'Fattened' on the same list. MI-RU mīru 'young bull' (CAD M/2 109), as MU-RU mūru; TA-RA-RE darār, Akkadian darāru 'become free, move about freely, run off' (CAD D 109), as DU-RA-RE durar, TA for d as in TA-DI dādī. Rival: Murr-darār 'Flowing Myrrh', Hebrew mor-dərôr (Exod 30:23; #K0153), MI-RU as MI+JA+RU murru.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | mīru A 'young bull', mīrtu 'cow' (CAD M/2, s.vv.); darāru A 'become free, move about freely, run off' (CAD D, 109); andurārum 'freedom, manumission' (Huehnergard 1997, glossary) |
-| Hebrew | dərôr (דְּרוֹר) 'liberty; flowing (of myrrh)'; mor-dərôr (מׇר־דְּרוֹר) 'flowing myrrh' (Exod 30:23) |
+| Akkadian | mīru A 'young bull', mīrtu 'cow' (CAD M/2 109); darāru A 'become free, move about freely, run off' (CAD D 109); andurārum 'freedom, manumission' (Huehnergard 1997, glossary) |
+| Hebrew | mərîʾ (מְרִיא) 'fatted steer' (HALOT 635); dərôr (דְּרוֹר) 'freedom' (HALOT 230); mor-dərôr (מׇר־דְּרוֹר) 'flowing myrrh' (Exod 30:23) |
 
 ### Source
 
-di Mino
+di Mino; CAD M/2; CAD D; Huehnergard 1997
 
 ## Attestations
 

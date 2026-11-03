@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3283_her_pronominal_suffix_3_fem_sg
 title: "*-šā̆: 'her (pronominal suffix, 3 fem. sg.)'"
-desc: "Proto-Semitic *-šā̆, 'her (pronominal suffix, 3 fem. sg.)': reflexes in 6 language(s)."
+desc: "Proto-Semitic *-šā̆, 'her (pronominal suffix, 3 fem. sg.)': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3283"
@@ -35,6 +35,7 @@ updated: 2026-10-25T05:11:48Z
 | Tigre | -a/-ha (Bulakh–Kogan 2013b:101, WTS 1 apud SEDonline 1567) | SEDonline 1567 | gloss withheld |
 | Tigrinya | -a (Bulakh–Kogan 2013b:101 apud SEDonline 1567) | SEDonline 1567 | gloss withheld |
 | Epigraphic South Arabian | Sab -h (suffix, 3 f. sg.; occasionally m. and common gender) (Biella 103) | Biella 103 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic h; Dadanitic -h; Hismaic -h (Al-Jallad–Jaworska 76) | Al-Jallad–Jaworska 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

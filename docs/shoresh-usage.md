@@ -5,7 +5,7 @@ desc: How to build Shoresh's index, run the root-match command and read its outp
 tags: [docs]
 authors: "di Mino"
 created: 2026-10-25T23:10:00Z
-updated: 2026-10-25T23:30:00Z
+updated: 2026-11-03T00:00:00Z
 ---
 
 # Shoresh: Using the Root-Match Engine
@@ -21,7 +21,7 @@ Build it first: `uv run tools/linear_a/build_root_index.py --allow-missing` writ
 ## The statistic and the decoys
 
 - **d\*:** the minimum over spelling variants, readings of polyphonic signs and the keys retrieved within one class edit (A11, A12), on Shoresh's own table (`SEMITIC_DISTANCES` plus k ↔ ḫ at 0.3).
-- **Tokens:** one per letter on every side (`rm.phonemes`): a key's radicals, a sign's consonant and a competitor's letters are never merged, so KU-WA-NA is k w n and Egyptian msḥ is m s ḥ. Sabaic subscripts drop (s₁ is s); x is ḫ, ʁ and γ are ġ, as the index classes them. Luwian and Hurrian keep their bare digraphs (ts, sh, kw, gw), since `LUWIAN_DISTANCES` prices kw and gw; Egyptian has none.
+- **Tokens:** one per letter on every side (`rm.phonemes`): a key's radicals, a sign's consonant and a competitor's letters are never merged, so KU-WA-NA is k w n and Egyptian msḥ is m s ḥ. Sabaic subscripts drop (s₁ is s); x is ḫ, ʁ and γ are ġ, as the index classes them. Luwian and Hurrian keep their bare digraphs (ts, sh, kw, gw), since `LUWIAN_DISTANCES` prices kw and gw; Egyptian and Hattic have none.
 - **Ties:** every sum is compared on a 1e-9 grid, so 0.1 + 0.1 + 0.1 ties 0.3.
 - **Decoys:** family A shuffles the signs, B fabricates position-matched words, C permutes the consonant map. p\_F = (1 + below + tied) / (1 + N), N = 1,000 by default; p\_max is the maximum over the families that count. A counts only from 100 distinct sign orders up (A1). A family that counts and built no decoy enters p\_max at p = 1 (A17). Family B keeps the OCP only if the real word does: a word with two identical consonants side by side gets decoys that may have them too. Family B also keeps the word's number of readings, so ZU's four count as two two-way slots. At most 8 readings of a polyphonic word are queried, those fewest steps from the primary, and the same ones wherever the signs stand; a word with more says so.
 - **Batch:** two or more words get Benjamini–Hochberg q.
@@ -52,7 +52,7 @@ Build it first: `uv run tools/linear_a/build_root_index.py --allow-missing` writ
 
 ## The competitor null (§2, A15)
 
-`tools/core/competitors.py` reruns the same statistic on the same decoys against Luwian (1,441 keys), Egyptian (3,011) and Hurrian (95) keys from the rival-language root lists: each file holds the entries that give a key and that the name test does not flag. The names the test misses stay in; `data/linear-a/rival-roots.md` lists them. Each result gets per-competitor d\* and p\_max, the margin (lowest competitor p\_max minus the Semitic p\_max) and `semitic_specific` (Semitic p\_max < 0.05, every competitor ≥ 0.05). Hurrian's 95 keys make its gate weak; A9 measures it. `--no-competitors` skips it. The Semitic result is byte-identical either way.
+`tools/core/competitors.py` reruns the same statistic on the same decoys against Luwian (1,441 keys), Egyptian (3,011), Hurrian (94) and Hattic (232; A23) keys from the rival-language root lists: each file holds the entries that give a key and that the name test does not flag. The names the test misses stay in; `data/linear-a/rival-roots.md` lists them. Each competitor reads its own table plus Shoresh's k ↔ ḫ at 0.3, on the letters its file writes ḫ with (Luwian and Hurrian also h; D14, A23). Each result gets per-competitor d\* and p\_max, the margin (lowest competitor p\_max minus the Semitic p\_max) and `semitic_specific` (Semitic p\_max < 0.05, every competitor ≥ 0.05). Hurrian's 94 keys make its gate weak; A9 measures it. `--no-competitors` skips it. The Semitic result is byte-identical either way.
 
 ## Sound laws (`--explain`; on every shown cluster in `--json`)
 

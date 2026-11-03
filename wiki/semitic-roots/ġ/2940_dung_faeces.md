@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/2940_dung_faeces
 title: "*ɣib(b)-: 'dung, faeces'"
-desc: "Proto-Semitic *ɣib(b)-, 'dung, faeces': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ɣib(b)-, 'dung, faeces': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2940"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | ɣeb (SED I 98) | SED I 98 | gloss withheld |
 | Jibbali | ɣɔb, ɣebb (SED I 98) | SED I 98 | gloss withheld |
 | Soqotri | ʕéb, ʕeb(b) (SED I 98); ˁob, ˁeb (SLOnline 3195, 22402) | SED I 98; SLOnline 3195, 22402 | gloss withheld |
+| East Ethiopic | ZWY əbəyä (SED II 339) | SED II 339 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

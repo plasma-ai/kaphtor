@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2269_aurochs
 title: "*riʾm-: 'aurochs'"
-desc: "Proto-Semitic *riʾm-, 'aurochs': reflexes in 8 language(s)."
+desc: "Proto-Semitic *riʾm-, 'aurochs': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2269"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | raymā 'wild ox, unicorn' \[Brock. 727\], \[PS 3897\]. | Brock. 727; PS 3897 |  |
 | Aramaic | Off. rʔm \[HJ 1042\]. Sam. rʔm \[Tal 807\]. | HJ 1042; Tal 807 | gloss withheld |
 | Modern Aramaic | NSyr. rémâ 'a wild ox' (M 293) | M 293 |  |
+| Pre-Islamic North Arabian | Safaitic rm (Al-Jallad 2026, 118) | Al-Jallad 2026 118 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

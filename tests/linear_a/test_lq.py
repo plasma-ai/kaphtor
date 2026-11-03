@@ -18,10 +18,10 @@ LQ = ROOT / "tools" / "linear_a" / "lq.py"
 
 LEXICON = {"entries": [
     {"word": "KU-RO", "reading": "kullu", "root": "k-l-l", "meaning": "total", "confidence": "CONFIRMED",
-     "category": "administrative", "language_layer": "semitic", "semantic_field": "administrative",
+     "tags": ["administrative", "noun"], "language_layer": "semitic", "semantic_field": "administrative",
      "attestations": ["HT13"]},
     {"word": "KI-RO", "reading": "kīlu", "root": "k-y-l", "meaning": "deficit", "confidence": "PROBABLE",
-     "category": "administrative", "language_layer": "semitic", "semantic_field": "administrative",
+     "tags": ["administrative", "noun"], "language_layer": "semitic", "semantic_field": "administrative",
      "attestations": []},
 ]}
 ONOMASTICON = {"entries": [

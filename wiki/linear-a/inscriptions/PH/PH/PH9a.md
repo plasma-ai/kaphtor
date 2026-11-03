@@ -40,12 +40,12 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. \*317-QE-\*353 ≈ ¹⁄₄
+1. \*317-QE-\*353 ¹⁄₄
 
 Unicode (Linear A block):
 
 ```text
-𐙩𐘿𐚍𐝏
+𐙩𐘿𐚍𐝃
 ```
 
 ## Lexicon words citing this document

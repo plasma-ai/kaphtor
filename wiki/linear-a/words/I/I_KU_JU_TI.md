@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_KU_JU_TI
 title: "I-KU-JU-TI"
 desc: "ʾukulti: food, provisions (section heading). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "administrative", "commodity", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "I-KU-JU-TI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | food, provisions (section heading) |
 | Root | ʾ-k-l |
 | Proto-Semitic | \*ʾVkul- (#819) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | administrative, commodity, foodstuff, hapax, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Heads ZA6b's first section over GRA+PA 50¼, VIN+RA 40, VIN+KA 10; \*312-TA₂ heads the second. KU-JU writes /kul/ (JU = /lu/, as in KU-RE-JU); initial I- writes /ʾu/. The corpus token is I-KU-JU-TI-\*28B: the word spans a fragment join, with a gap at the crack in the diplomatic copy (GORILA III 158–159), and \*28B is taken as a separate sign before GRA+PA. Cf. AB 28 (I), a different sign, as a single or transaction sign before GRA+PA (Salgarella 2020, 73 n. 55; Steele 2024, 58).
+ZA 6b: heads the first section, over GRA+PA 50¼, VIN+RA 40, VIN+KA 10; \*312-TA₂ heads the second. ʾukulti 'food, provisions': Akk. ukultu 'food, fodder' (CAD U/W 62). KU-JU writes kul (JU = lu, as in KU-RE-JU), and initial I- the ʾu. The line reads I-KU-JU-TI-\*28B: the word spans a fragment join, with a gap at the crack in the diplomatic copy (GORILA III 158–159), and \*28B stands as a separate sign before GRA+PA. Cf. AB 28 (I), a different sign, as a single or transaction sign before GRA+PA (Salgarella 2020, 73 n. 55; Steele 2024, 58). One attestation.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ Heads ZA6b's first section over GRA+PA 50¼, VIN+RA 40, VIN+KA 10; \*312-TA₂ h
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; CAD U/W; GlOS 1; Salgarella 2020; Steele 2024
 
 ## Attestations
 

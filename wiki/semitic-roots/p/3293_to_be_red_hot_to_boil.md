@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3293_to_be_red_hot_to_boil
 title: "*plḥ: 'to be red-hot; to boil'"
-desc: "Proto-Semitic *plḥ, 'to be red-hot; to boil': reflexes in 8 language(s)."
+desc: "Proto-Semitic *plḥ, 'to be red-hot; to boil': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3293"
@@ -38,6 +38,7 @@ updated: 2026-10-25T05:11:48Z
 | Harari | fälaḥa (EDH 62 apud SEDonline 1756) | EDH 62; SEDonline 1756 | gloss withheld |
 | East Ethiopic | Sel. fäla, Wol. Zwy. fälä (EDG 231 apud SEDonline 1756) | EDG 231; SEDonline 1756 | gloss withheld |
 | Gurage | Cha. täfena, Ezha täfenna, End. Enn. fälā, Gye. täfenā, Muh. Msq. Gog. Sod. fälla (EDG 231 apud SEDonline 1756) | EDG 231; SEDonline 1756 | gloss withheld |
+| Argobba | fällaha (LGz. 159) | LGz. 159 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

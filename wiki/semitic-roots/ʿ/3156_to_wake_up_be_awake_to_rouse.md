@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3156_to_wake_up_be_awake_to_rouse
 title: "*ʕwr: 'to wake up, be awake; to rouse'"
-desc: "Proto-Semitic *ʕwr, 'to wake up, be awake; to rouse': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʕwr, 'to wake up, be awake; to rouse': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3156"
@@ -33,6 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | /ʕ-r/ (DULAT 175) | DULAT 175 | gloss withheld |
 | Akkadian | êru (CAD E 326) | CAD E 326 | gloss withheld |
 | Syrian Aramaic | ʿār 'to wake, watch'; ʿīr 'waking, watchful, vigilant' (part. adj.); pa. ʿayyar 'to wake, rouse'; aph. ʾaʿīr 'to wake, awaken, arouse' (Payne Smith 407) | Payne Smith 407 |  |
+| Punic | ʿr in the personal names ʾšmnyʿr, yʿr, yʿrʾ (Krahmalkov 386) | Krahmalkov 386 | gloss withheld |
+| Biblical Aramaic | ʕīr (HALOT 876) | HALOT 876 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

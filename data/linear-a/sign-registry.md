@@ -5,20 +5,21 @@ desc: One record per Linear A sign, with its readings and their status, its Unic
 tags: [data, linear-a, signs]
 license: CC BY 4.0
 created: 2026-10-24T14:27:54Z
-updated: 2026-10-24T15:17:23Z
+updated: 2026-11-03T23:49:05Z
 ---
 
-`sign-registry.json` holds `metadata` and `signs`: 365 records, one per sign, keyed by `ab_number` (AB numbers for
+`sign-registry.json` holds `metadata` and `signs`: 386 records, one per sign, keyed by `ab_number` (AB numbers for
 the signs Linear A shares with Linear B, A numbers for the rest, the fractions from A701). The registry
 says how each sign is written and where it comes from. The values beyond Linear B, and the evidence for them, are in
 `sign_values.json`; each reading here carries the status that file gives.
 
 | Field | Content |
 | --- | --- |
-| `ab_number`, `name` | the sign's number, and its label: a Linear B value (`da`), a logogram (`VIN`), a number (`*86`) or, for A325, its value `bu`; empty on 254 signs |
-| `unicode_codepoint`, `unicode_glyph` | the code point and character, on the 320 signs Unicode encodes |
+| `ab_number`, `name` | the sign's number, and its label: a Linear B value (`da`), a logogram (`VIN`), a number (`*86`) or, for A325, its value `bu`; empty on 256 signs |
+| `unicode_codepoint`, `unicode_glyph` | the code point and character, on the 341 signs Unicode encodes |
+| `components`, `components_source` | a composite fraction sign's parts, as registry codes, where its Unicode name states them: A714 ABB, A715 BB, A717 DD, A726 EYYY, A732 JE |
 | `readings` | the sign's values, each `{value, consonant, vowel, source, confidence, is_primary, implications, status}`; *86's na carries a `note` |
-| `rendering` | `unicode`, `unicode_glyph`, `unicode_name`, `unicode_block`, `unicode_status`, `unicode_source_refs`, `tier`, the Noto `font`, and the SigLA image of one attestation (`sigla_image`, `sigla_url`; none for A400, A408VAS, A409VAS and A805). AB100 VIR and AB131 VIN add `unicode_alias_conflict`: the code point the sign does not take (`not_unicode`), and why |
+| `rendering` | `unicode`, `unicode_glyph`, `unicode_name`, `unicode_block`, `unicode_status`, `unicode_source_refs`, `tier`, the Noto `font`, and the SigLA image of one attestation (`sigla_image`, `sigla_url`; none for A400, A408VAS, A409VAS, the 800 series, and the signs taken from the Unicode names list alone). AB100 VIR and AB131 VIN add `unicode_alias_conflict`: the code point the sign does not take (`not_unicode`), and why |
 | `gordon_entries` | the words of Gordon 1966 §163 (*Evidence for the Minoan Language*, index of Minoan words) that use the sign, in Gordon's transliteration and sign values (60 words, on 38 signs). Twelve are spelled otherwise in the corpus (his DA-WE-DA is DA-RI-DA, his KU-DO-NI is KU-ZU-NI) |
 | `evolution` | for 20 signs: `id`; the Cretan Hieroglyphic ancestor (`sign_number`, `pictographic_ancestor`, `font_codepoint_hex`, and `source`, who proposed the lineage); the Linear B sign; `cypro_minoan` (null throughout); a Proto-Sinaitic letter compared on 8 signs (`letter`, `meaning`, `connection_type`); and `graphic_tendencies` |
 | `semantic_context` | for the same 20 signs, the `pictograph` |
@@ -34,7 +35,7 @@ MEDIUM or LOW, or for *86 and *325 the lexicon's tier word (SPECULATIVE; CANDIDA
 these five signs' values; AU, TA₂ and the other values beyond Linear B are in `sign_values.json` alone.
 `tools/core/skeleton.py` and `root_match.py` read the non-primary readings as alternate consonants.
 
-**Rendering.** 320 signs have a standard Unicode code point (`unicode_status` STANDARD_UNICODE, tier
+**Rendering.** 341 signs, every named code point of the Unicode Linear A block, have a standard Unicode code point (`unicode_status` STANDARD_UNICODE, tier
 `unicode_native`). 45 have none and are known from their SigLA image (IMAGE_ONLY, tier `image_only`). The fraction
 signs are named by letter (A701 A, A704 E, A713 O, …); the letters are labels, not vowels, and the fractions have no
 reading here. Their values are under `fractions` in `sign_values.json`.

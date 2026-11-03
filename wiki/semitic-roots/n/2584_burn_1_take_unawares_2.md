@@ -1,0 +1,47 @@
+---
+name: wiki/semitic-roots/n/2584_burn_1_take_unawares_2
+title: "*ndd: 'burn' 1, 'take unawares' 2"
+desc: "Proto-Semitic *ndd, 'burn' 1, 'take unawares' 2: reflexes in 11 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "2584"
+created: 2026-11-03T03:29:48Z
+updated: 2026-11-03T03:29:48Z
+---
+
+# *ndd: 'burn' 1, 'take unawares' 2
+
+[[wiki/semitic-roots/n/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*ndd |
+| Meaning | 'burn' 1, 'take unawares' 2 |
+| Basis | reconstruction SED; meaning SED, corrected |
+| SED | SEDonline semet 3118 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Arabic | ndʔ, nadiyy-; nadaʾa 2 (Biella 293) | Biella 293 | gloss withheld |
+| Epigraphic South Arabian | Sab hndʾn 2 (Biella 293) | Biella 293 | gloss withheld |
+| Tigre | näddä (Kogan 2015, ch. 7 §4.2 no. 20) | Kogan 2015 ch. 7 §4.2 no. 20 | gloss withheld |
+| Geez | nadda (Kogan 2015, ch. 7 §4.2 no. 20), ʔandada (trans.) | Kogan 2015 ch. 7 §4.2 no. 20 | gloss withheld |
+| Hebrew | (?) ned, nad ? |  | gloss withheld |
+| Amharic | näddädä (Kogan 2015, ch. 7 §4.2 no. 20) | Kogan 2015 ch. 7 §4.2 no. 20 |  |
+| Harari | nädäda (intr.) \[LHar 117\] | LHar 117 | gloss withheld |
+| Tigrinya | nädädä (Kogan 2015, ch. 7 §4.2 no. 20) | Kogan 2015 ch. 7 §4.2 no. 20 |  |
+| Argobba | näddäda (LGz. 385) | LGz. 385 |  |
+| Gurage | Cha. nädädä, Ezha Muh. Msq. Gog. Sod. näddädä, End. nättädä, Enn. Gye. nätädä (EDG 450 apud SEDonline 928) | EDG 450; SEDonline 928 | gloss withheld |
+| East Ethiopic | Sel. Wol. Zwy. nädäda (EDG 450 apud SEDonline 928) | EDG 450; SEDonline 928 | gloss withheld |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

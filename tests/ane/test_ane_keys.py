@@ -283,6 +283,9 @@ class TestLooseKey:
         ("ʿdd", "ʾdd"),
         ("ʔdd", "'dd"),
         ("ʕdd", "`dd"),
+        ("ˁōl", "ʿōl"),             # SEDonline's modifier-letter ayin and aleph
+        ("ˀab", "ʾab"),
+        ("ˤdd", "ʿdd"),
         ("s²ḏwḏ", "s₂dwd"),
         ("s1mn", "smn"),
         ("jw-sbk-ḥtp", "jwsbkḥtp"),

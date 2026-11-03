@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/K/KA_PA
 title: "KA-PA"
-desc: "kapa(r): entity, institution, or settlement; perhaps village. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "toponym"]
+desc: "kapa(r): village, settlement (kapar); rival an institution. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "administrative", "noun"]
 kind: "word"
 form: "KA-PA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kapa(r) |
-| Meaning | entity, institution, or settlement; perhaps village |
+| Meaning | village, settlement (kapar); rival an institution |
 | Root | k-p-r |
 | Proto-Semitic | \*kapār- (#K0100) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | administrative, noun |
 | Semantic field | toponym |
 
 ### Note
 
-Six Haghia Triada attestations. First word on HT 102 (SA-RA₂ GRA 976 follows; KU-RO 1060), HT 94a (VIR+\[?\] 62 follows on the line; KU-RO 110), HT 6a (divider, then DA-TA-RA) and HT 105 (broken after PA; VIR+\[?\] 234 below). An entry with ½ on HT 8b and HT 140; KA-PA-QE 5¾ on HT 6a. Hebrew and Aramaic kĕpar 'village', with final /r/ unwritten; Bronze Age kapr 'village' at Ebla, Alalakh VII and on the Euphrates, Ug. kpr (GlOS 1, 315). The ½ entries make an institution or entity the rival to a place. Rival: Akkadian gabbu 'all' (Gordon, via Rendsburg 1996, 38), spelt ka-pa-šu-nu and qa-pa-šu-ma at Nuzi, where it follows a total of men (Gordon 1934, 20 §100). It fits the heads of HT 94a and HT 105, but not the ½ entries, and HT 94a closes with KU-RO. See KU-PA-RI.
+Six Haghia Triada attestations. First word on HT 102 (SA-RA₂ GRA 976 follows; KU-RO 1060), HT 94a (VIR+\[?\] 62 follows on the line; KU-RO 110), HT 6a (divider, then DA-TA-RA) and HT 105 (broken after PA; VIR+\[?\] 234 below). An entry with ½ on HT 8b and HT 140; KA-PA-QE 5¾ on HT 6a. Abbreviated KA on HT 140 (Montecchi 2010, 15). Hebrew and Aramaic kĕpar 'village', with final /r/ unwritten; Bronze Age kapr 'village' at Ebla, Alalakh VII and on the Euphrates, Ug. kpr (GlOS 1, 315). The ½ entries make an institution or entity the rival to a place. Rival: Akkadian gabbu 'all' (Gordon, via Rendsburg 1996, 38), spelt ka-pa-šu-nu and qa-pa-šu-ma at Nuzi, where it follows a total of men (Gordon 1934, 20 §100). It fits the heads of HT 94a and HT 105, but not the ½ entries, and HT 94a closes with KU-RO. See KU-PA-RI.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Six Haghia Triada attestations. First word on HT 102 (SA-RA₂ GRA 976 follows; 
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; GlOS 1; Montecchi 2010
 
 ## Attestations
 

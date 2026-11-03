@@ -33,7 +33,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Core logogram of the peak sanctuary libation formula. 288 total occurrences across 16 sites (256 standalone, 32 embedded). Root √n-w-y "to dwell, settle"—the libation verb A-TA-I-\*301-WA-JA = ʾata-inawaya "I make myself a dwelling" is CONFIRMED across 5 peak sanctuary sites. Independent noun \*301-WA = nawa "dwelling" at IOZa4. Phonetic value /na/ derived from initial radical. Compare the candidate \*49 PALM/TREE → TAMIR → /mi/ hypothesis and the stronger \*307=DUBUR complement pattern.
+Core logogram of the peak sanctuary libation formula. 272 occurrences across 16 sites (242 standalone, 30 embedded). Root √n-w-y "to dwell, settle"—the libation verb A-TA-I-\*301-WA-JA = ʾata-inawaya "I make myself a dwelling" is CONFIRMED across 5 peak sanctuary sites. Independent noun \*301-WA = nawa "dwelling" at IOZa4. Phonetic value /na/ derived from initial radical. Compare the candidate \*49 PALM/TREE → TAMIR → /mi/ hypothesis and the stronger \*307=DUBUR complement pattern.
 
 ## Also in syllabic
 
@@ -50,7 +50,7 @@ Core logogram of the peak sanctuary libation formula. 288 total occurrences acro
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_plus_star301\|MI+\*301]] | minā | PROBABLE |
-| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān / nātānān | PROBABLE |
+| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | PROBABLE |
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TE_star301\|TE-\*301]] | Tēnā | CANDIDATE |

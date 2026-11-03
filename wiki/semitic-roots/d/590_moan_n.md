@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | dimm-at- |  |  |
 | Ugaritic | dmm (CUC; DULAT 271) | CUC; DULAT 271 | gloss withheld |
-| Akkadian | dimmatu (CAD D 143); dimmu (CAD D 144) | CAD D 143; CAD D 144 |  |
+| Akkadian | dimmatu (CAD D 143); dimmu (CAD D 144); dumāmu (CAD D 179) | CAD D 143; CAD D 144; CAD D 179 | gloss withheld |
 | Eblaitic | cf. ti-mu-mu /dimm/; da-ma-ti /dammat/ (Sanmartín GlOS 1, 148) | Sanmartín GlOS 1, 148 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

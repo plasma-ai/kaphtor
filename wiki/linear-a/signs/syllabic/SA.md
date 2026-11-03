@@ -50,13 +50,13 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star333_SA_MU\|\*333-SA-MU]] | biśāmu | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-āna | CANDIDATE |
-| [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ṣadaqa | CANDIDATE |
+| [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | CANDIDATE |
+| [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
 | [[wiki/linear-a/words/A/A_SA_RA2\|A-SA-RA₂]] | ʾasāra | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | CONFIRMED |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
-| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | ʾī-Mīšaru | PROBABLE |
+| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | PROBABLE |
 | [[wiki/linear-a/words/I/I_PA_SA_JA\|I-PA-SA-JA]] | Ipšaja | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_SA_RI\|I-SA-RI]] | ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | SPECULATIVE |
@@ -65,10 +65,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_SA_MU\|JA-SA-MU]] | yaśmaʿū | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_RA\|JA-SA-RA]] | yašara | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA\|JA-SA-SA-RA]] | yaššar- | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA\|JA-SA-SA-RA-MA-NA]] | yašaram=na | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA\|JA-SA-SA-RA-MA-NA]] | yaššaram=na | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA_ME\|JA-SA-SA-RA-ME]] | yaššaram | CONFIRMED |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | CANDIDATE |
-| [[wiki/linear-a/words/K/KI_SA_NE\|KI-SA-NE]] | qīšāne | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_SA_I_TI\|KO-SA-I-TI]] | Kōšayīt | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | SPECULATIVE |
@@ -76,9 +75,10 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA\|SA]] | śakaru | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
+| [[wiki/linear-a/words/S/SA_star305_MI\|SA-\*305-MI]] | šadmi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_DI\|SA-DI]] | šadī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_JA_MA\|SA-JA-MA]] | śaymā | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | šamm- | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | samm- | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_MA_RO\|SA-MA-RO]] | Samarō | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_TI\|SA-MA-TI]] | Ṣamidi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | CANDIDATE |
@@ -88,13 +88,14 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SA_RA_RA\|SA-RA-RA]] | ṣarār- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarr | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_SA_ME\|SA-SA-ME]] | šašamā | CANDIDATE |
 | [[wiki/linear-a/words/S/SA_TA\|SA-TA]] | Šata | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_SA_PA3\|SE-SA-PA₃]] | Zizapa | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_SA_ZA\|TA-SA-ZA]] | taḫsaz | SPECULATIVE |
-| [[wiki/linear-a/words/T/TE_MU_SA_SE\|TE-MU-SA-SE]] | temussasē | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_RU_SA\|TU-RU-SA]] | Tursa | SPECULATIVE |
+| [[wiki/linear-a/words/W/WI_SA\|WI-SA]] | Wisa | SPECULATIVE |
+| [[wiki/linear-a/words/W/WI_SA_SA_NE\|WI-SA-SA-NE]] | Wiššān | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -53,72 +53,11 @@ from ..cognate_search import CACHE_FILE as COGNATE_CACHE
 CACHE_DISTANCE_MAX = 0.3
 
 # SED Analogues language keys → branch, over every language key the roots
-# carry; keys not listed fall to OTHER and are reported, never silently used.
-LANG_BRANCH: dict[str, str] = {
-    # East Semitic
-    "Akkadian": "EAST",
-    "Eblaitic": "EAST",
-    "Assyro-Babylonian": "EAST",
-    "East Semitic": "EAST",
-    "Palaeosyrian": "EAST",
-    # South Semitic: Ethiopic
-    "Geez": "SOUTH",
-    "Ge'ez": "SOUTH",
-    "Ethiopic": "SOUTH",
-    "Tigre": "SOUTH",
-    "Tigrinya": "SOUTH",
-    "Amharic": "SOUTH",
-    "Old Amharic": "SOUTH",
-    "Gurage": "SOUTH",
-    "Harari": "SOUTH",
-    "East Ethiopic": "SOUTH",
-    "Argobba": "SOUTH",
-    "Gafat": "SOUTH",
-    # South Semitic: Modern South Arabian
-    "Mehri": "SOUTH",
-    "Jibbali": "SOUTH",
-    "Soqotri": "SOUTH",
-    "Harsusi": "SOUTH",
-    "Modern South Arabian": "SOUTH",
-    # Epigraphic South Arabian — tracked apart; never carries a SOUTH verdict alone
-    "Epigraphic South Arabian": "ESA",
-    "Sabaic": "ESA",
-    "Old Sabaean": "ESA",
-    # Central Semitic, non-NWS
-    "Arabic": "ARABIC",
-    "Modern Arabic": "ARABIC",
-    "Classical Arabic": "ARABIC",
-    "Pre-Islamic North Arabian": "ARABIC",
-    "Lihyanite": "ARABIC",
-    # Northwest Semitic
-    "Hebrew": "NWS",
-    "Ugaritic": "NWS",
-    "Phoenician": "NWS",
-    "Punic": "NWS",
-    "Canaanite": "NWS",
-    "Amorite": "NWS",
-    "Moabite": "NWS",
-    "Aramaic": "NWS",
-    "Syrian Aramaic": "NWS",
-    "Judaic Aramaic": "NWS",
-    "Mandaic Aramaic": "NWS",
-    "Biblical Aramaic": "NWS",
-    "Modern Aramaic": "NWS",
-    "Nabataean": "NWS",
-    "Syriac": "NWS",
-    # Non-Semitic / bookkeeping columns
-    "Egyptian": "IGNORE",
-    "Greek": "IGNORE",
-    "Libyco-Berber": "IGNORE",
-    "Cushitic": "IGNORE",
-    "West Cushitic": "IGNORE",
-    "Hausa": "IGNORE",
-    "Oromo": "IGNORE",
-    "Tuareg": "IGNORE",
-    "Notes": "IGNORE",
-    "Semitic": "IGNORE",
-    "Proto-Semitic": "IGNORE",
-}
+# carry (data/semitic-roots/branches.json); keys not listed fall to OTHER and
+# are reported, never silently used. ESA is tracked apart and never carries a
+# SOUTH verdict alone.
+LANG_BRANCH: dict[str, str] = json.loads(
+    (SEMITIC_ROOTS_DATA / "branches.json").read_text(encoding="utf-8"))["languages"]
 
 # Onomasticon affiliation classes admitted to the Semitic item pool.
 SEM_AFFILIATIONS = {
@@ -407,9 +346,9 @@ def harvest_verbs(lexicon: list[dict], translations: dict[str, dict]) -> list[di
     for e in lexicon:
         if e.get("confidence") == "REJECTED":
             continue
-        blob = " ".join(str(e.get(k, "")) for k in ("meaning", "note", "category"))
+        blob = " ".join(str(e.get(k, "")) for k in ("meaning", "note"))
         markers = sorted(set(VERBAL_MARKERS.findall(blob)))
-        if not markers and not str(e.get("category", "")).startswith("verb"):
+        if not markers and "verb" not in e.get("tags", []):
             continue
         forms[e["word"]] = {
             "word": e["word"],
@@ -465,7 +404,7 @@ def build_items(lexicon: list[dict], onomasticon: list[dict]) -> list[dict]:
             "root_field": e.get("root") or "",
             "meaning": e.get("meaning"),
             "confidence": e.get("confidence"),
-            "category": e.get("category"),
+            "tags": e.get("tags", []),
             "cognates": e.get("cognates"),
             "attestations": e.get("attestations", []),
         }
@@ -491,7 +430,7 @@ def build_items(lexicon: list[dict], onomasticon: list[dict]) -> list[dict]:
             "root_field": "",
             "meaning": o.get("meaning"),
             "confidence": o.get("affiliation_confidence"),
-            "category": o.get("type"),
+            "tags": [o["type"]] if o.get("type") else [],
             "cognates": None,
             "attestations": o.get("attestations", []),
             "onomasticon": {"type": o.get("type"), "affiliation": o.get("affiliation")},
@@ -570,7 +509,7 @@ def run(data_dir: Path, contact_dir: Path, out_dir: Path, cache_path: Path = COG
             "reading": item["reading"],
             "meaning": item["meaning"],
             "confidence": item["confidence"],
-            "category": item["category"],
+            "tags": item["tags"],
             "root_field": item["root_field"],
             "components": comp_records,
             "cognate_dict_branches": sorted(cog_branches),

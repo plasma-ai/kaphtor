@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣetu 1 |  |  |
+| Akkadian | ṣetu 1 (AHw 1095) | AHw 1095 |  |
 | Hebrew | yṣt 2 (HALOT 429) | HALOT 429 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

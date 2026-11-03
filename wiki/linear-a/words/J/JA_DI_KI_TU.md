@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_DI_KI_TU
 title: "JA-DI-KI-TU"
 desc: "yā Diqqitu: O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "divine_name"]
+tags: ["linear-a", "word", "tier-3", "hapax", "libation_formula", "ritual", "theonym"]
 kind: "word"
 form: "JA-DI-KI-TU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,22 +35,20 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | O Diqqitu! (vocative invocation of the proposed goat-goddess Diqqitu) |
 | Root | d-q-q |
 | Proto-Semitic | \*diḳ(ḳ)- (#1654) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-Peak sanctuary libation formula position 2. Syllabary spells DI-KI-TU (/diktu/), not Greek Δίκτη (Dikte)—the -TU vowel is explicit. JA- = vocative particle ya-. The mountain-goddess is named at position 2 as the vocative addressee of the self-positioning verb at position 1 (ʾata-inawaya 'I make myself a dwelling')—the worshipper settles before the deity. Pattern: each peak sanctuary invokes a sacred mountain-deity (Diktu at Iouktas/Palaikastro, Ida at Kophinas/Syme) \|\| ASTOUR ETYMOLOGY: Ugaritic dqt 'female head of small cattle for sacrifice' (Gordon UT §19.695), pronounced \*daqqatu/\*diqqatu. dqt appears as a divine name in a Ugaritic god-list (Astour, 'New Evidence for the Semitic Derivation of the Greek Name of the Mountain Dikte,' 1966). Hesiod (Theog. 481–482 \[West\]) calls the same mountain Αἰγαίῳ ἐν ὄρει, Aigaion oros ('Goat's Mountain')—a Graeco-Semitic onomastic doublet. Egyptian scribal list of Amenhotep III spells it Di-qa- with determinative 'high' (Astour, 'Aegean Place Names,' 1966). Clay goat figurines are the most common votive offering at peak sanctuaries \|\| GREEK RECEPTION: Amalthea, the goat who nursed infant Zeus in the Dictaean Cave—demotion from sovereign deity to wet-nurse \|\| DIALECT: Variant A-DI-KI-TE(-TE) at Palaikastro shows the split: -TU (Iouktas, standard) vs -TE (Palaikastro, Proto-Phoenician). Vocative form JA-DI-KI-TE-TE attested on PKZa15 (JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diktēt of the sanctuary') and PKZa8 (JA-DI-KI-TE-TE-\*307-PU₂-RE, same compound with \*307=DUBUR logogram). See A-DI-KI-TE-TE.
+IO Za 2, position 2 of the libation formula. JA- is the vocative ya-, and DI-KI-TU spells diktu with the -TU vowel written, against Greek Δίκτη. The goddess named here is the addressee of the verb at position 1, A-TA-I-\*301-WA-JA ʾatainawaya 'I make myself a dwelling', the worshipper settling before her; each peak sanctuary invokes its mountain, Diktu at Iouktas and Palaikastro, Ida at Kophinas and Syme. Astour's etymology: Ug. dqt 'female head of small cattle for sacrifice' (Gordon UT §19.695), \*daqqatu, \*diqqatu, a divine name in a Ugaritic god-list (Astour, 'New Evidence for the Semitic Derivation of the Greek Name of the Mountain Dikte', 1966). Hesiod calls the mountain Αἰγαίῳ ἐν ὄρει, 'Goat's Mountain' (Theog. 481–482 West), a Graeco-Semitic doublet, and Amenhotep III's list spells it Di-qa- with the determinative 'high' (Astour, 'Aegean Place Names', 1966). Clay goats are the commonest votive at peak sanctuaries, and Amalthea, the goat who nursed Zeus in the Dictaean Cave, is the goddess brought down to a wet-nurse. Palaikastro, of Proto-Phoenician dialect, writes the nisbe -TE-TE: A-DI-KI-TE-TE, and the vocative JA-DI-KI-TE-TE in JA-DI-KI-TE-TE-DU-PU₂-RE 'O Diqqitīt of the sanctuary' (PK Za 15) and JA-DI-KI-TE-TE-\*307-PU₂-RE, with the \*307 DUBUR logogram (PK Za 8). See A-DI-KI-TE-TE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | dqt 'female head of small cattle for sacrifice', a ewe or she-goat (Gordon UT §19.695, cited by Astour 1966, 283 n. 74); DN dqt, KTU 1.102:8 (Astour 1966, 283–84; DULAT 276) |
-| Hebrew | Not directly attested as theonym; cf. se'îrāh (שְׂעִירָה) 'she-goat' and se'îrîm (שְׂעִירִים) 'goat-demons' (Lev 17:7, 2 Chr 11:15) |
-| Akkadian | diqāru 'cooking pot' (unrelated); goat-deity pattern parallels Amurrite theophoric names |
-| Arabic | No direct reflex; goat-deity pattern preserved in Yazidi Melek Tawus traditions |
+| Hebrew | cf. śəʿîrāh (שְׂעִירָה) 'she-goat' and śəʿîrîm (שְׂעִירִים) 'goat-demons' (Lev 17:7, 2 Chr 11:15) |
 
 ### Source
 

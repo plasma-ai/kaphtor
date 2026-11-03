@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šarû (CAD Š/2 131) | CAD Š/2 131; Anderson–Moser 2024 root śrḥ | gloss withheld |
+| Akkadian | šarû (CAD Š/2 131; AHw 1193) | CAD Š/2 131; AHw 1193; Anderson–Moser 2024 root śrḥ | gloss withheld |
 | Geez | śarrəḥa 'prosper' | Anderson–Moser 2024 root śrḥ |  |
 | Arabic | šaraḥa (LGz. 533) | LGz. 533 | gloss withheld |
 | Epigraphic South Arabian | s₂rḥ (LGz. 533; Sabaweb lemma 1447) | LGz. 533; Sabaweb lemma 1447 | gloss withheld |

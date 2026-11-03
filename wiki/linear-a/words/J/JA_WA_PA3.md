@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-SY Za 5 \]-MI-JA · JA-WA-PA₃-\[, broken after PA₃, the word running into the break (Younger, Linear A Texts, other texts). Sole attestation. Not readable.
+SY Za 5 \]MI-JA · JA-WA-PA₃\[, broken after PA₃ (Muhly and Olivier 2008, 209). Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

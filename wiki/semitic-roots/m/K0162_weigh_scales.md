@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | muzane (HALOT 539) | HALOT 539 |  |
 | Syrian Aramaic | mozneyaʾ (T 163) | T 163 |  |
 | Biblical Aramaic | mʾoznaiaʾ (T 163) | T 163 |  |
-| Eblaitic | wa-za-núm, wa-za-nu-um /waz(a)num/ (VE 409a; Krebernik 1983, 16) | VE 409a; Krebernik 1983, 16 | gloss withheld |
+| Eblaitic | wa-za-núm, wa-za-nu-um /waz(a)num/ (VE 409a; Krebernik 1983, 16); /w-z-n/: u₉-za-an /yuzzan/, du-za-an /tuzzan/, ni-da-za-an /nittazan/, imp. zi-in /zin/, suffc. wa-zi-in /wazin/ (Sanmartín GlOS 2, 366) | VE 409a; Krebernik 1983, 16; Sanmartín GlOS 2, 366 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

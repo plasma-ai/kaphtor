@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2464_large_fish
 title: "*dāg-: '(large) fish'"
-desc: "Proto-Semitic *dāg-, '(large) fish': reflexes in 2 language(s)."
+desc: "Proto-Semitic *dāg-, '(large) fish': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2464"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | dg (Kogan 2015, ch. 5 §2.1.1 no. 29) | Kogan 2015 ch. 5 §2.1.1 no. 29 |  |
 | Hebrew | dāg (and dāʔg) (HALOT 213), MHbr. | HALOT 213 | gloss withheld |
+| Aramaic | dg (DNWSI 240) | DNWSI 240 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

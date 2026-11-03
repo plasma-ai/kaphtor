@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE
 title: "TA-TE-I-KE-ZA-RE"
 desc: "ṯāt ʾikezzer: with which one curls (the hair). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "verb"]
 kind: "word"
 form: "TA-TE-I-KE-ZA-RE"
 datasets: ["lexicon"]
@@ -35,7 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | with which one curls (the hair) |
 | Root | ṯ (relative) + k-z-r |
 | Proto-Semitic | \*ḏāt- (#K0876) + \*kzr (#3862) |
-| Language layer | NWS + Akkadian |
+| Language layer | Semitic |
+| Tags | compound, hapax, verb |
 | Semantic field | verbal |
 
 ### Note

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N/NA_DA_RE
 title: "NA-DA-RE"
 desc: "Nadr: personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re'. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "NA-DA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Vow' (√n-d-r); rival Egyptian PN 'of-the-hand-of-Re' |
 | Root | n-d-r |
 | Proto-Semitic | \*nVḏr- (#2709) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-From √n-d-r 'to vow'. Also read as Egyptian PN by Gordon. Huehnergard: G /nadara/, prefix /yaddur-/ (n-assimilation); impersonal 3mp attested; BH nādar. \|\| Attested on the HT117a personnel list (qty 1, beside MI-TU, KU-PA₃-NU, TE-JA-RE); Amorite NDR 'to vow' (Gelb AS 21 §0.7)—nadir- 'vowed one' as PN fits the roster slot. LB no-da-ro (KN As(1) 609, personnel) preserves the n-d-r frame.
+HT 117a, a personnel list: NA-DA-RE 1, beside MI-TU, KU-PA₃-NU and TE-JA-RE. Nadr 'Vow', √n-d-r 'to vow': G /nadara/, prefix /yaddur-/ with the n assimilated (Huehnergard 2012), BH nādar. Amorite NDR 'to vow' (Gelb 1980, §0.7) gives nadir- 'vowed one' as a name, which fits the roster slot, and LB no-da-ro (KN As(1) 609, personnel) keeps the n-d-r frame. Rival: Gordon's Egyptian name 'of-the-hand-of-Re'. One attestation.
 
 ### Cognates
 
@@ -69,8 +69,8 @@ di Mino; Gordon (Egyptian PN); GlOS 2
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

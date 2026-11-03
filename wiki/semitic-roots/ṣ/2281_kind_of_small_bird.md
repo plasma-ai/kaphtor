@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | D.-Alla ṣpr \[HJ 973\] | HJ 973 | gloss withheld |
 | Punic | ṣpr 'fowl' | Anderson–Moser 2024 root ṣpr |  |
 | Modern Aramaic | M. Mnd. sippar, NSyr. ṣiprâ, NAssyr. sịṗrɔ, JNA ṣippurta, Tlk. ṣɨpra, Ass. ṣɨpra, Tur. ṣefro (SED II 276) | SED II 276 | gloss withheld |
-| Akkadian | ṣibāru (Kogan 2011, 210) | Kogan 2011 210 | gloss withheld |
+| Akkadian | ṣibāru (Kogan 2011, 210; AHw 1097) | Kogan 2011 210; AHw 1097 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_MI_DA_RE
 title: "JA-MI-DA-RE"
 desc: "Yamidare: He-from-the-hand-of-Re (Egyptian theophoric). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "JA-MI-DA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yamidare |
 | Meaning | He-from-the-hand-of-Re (Egyptian theophoric) |
 | Language layer | Middle Egyptian |
-| Category | personal_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

@@ -20,5 +20,5 @@ updated: 2026-10-22T18:14:10Z
 
 Every record is ORAEC's, as imported (`review_status: machine_imported`): title, date, genre, object type,
 provenance, bibliography and Trismegistos id. Titles
-and translations are German. The sentence file (`egyptian_sentences.jsonl`, 103 MB) and its index wait for LFS or a
+are German. The sentence file (`egyptian_sentences.jsonl`, 103 MB) and its index wait for LFS or a
 release asset.

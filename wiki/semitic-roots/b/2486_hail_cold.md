@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | bārid- 2; barad 1 (HALOT 154) | HALOT 154 |  |
 | Harsusi | berēd |  | gloss withheld |
 | Tigre | bäräd 1, bǝrud 2 |  |  |
-| Mandaic Aramaic | barda (Drower/Macuch 50b apud CAL) | Macuch 50b; CAL |  |
+| Mandaic Aramaic | barda (MD 50) | MD 50 |  |
 | East Ethiopic | bǝrd 2 |  |  |
 | Gurage | bäräd 1, Sod bǝrd 2 |  |  |
 | Modern Arabic | Leb berid, Mec bārid 2 |  |  |
@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | bard- 'cold, hail' (Payne Smith 55) | Payne Smith 55 |  |
 | Tigrinya | bäräd 1 |  |  |
 | Geez | barada (LGz. 103) | LGz. 103 | gloss withheld |
-| Aramaic | bardā (LGz. 103; DNWSI 196 apud CAL) | LGz. 103; DNWSI 196; CAL |  |
+| Aramaic | bardā (LGz. 103; DNWSI 196) | LGz. 103; DNWSI 196 |  |
 | Argobba | bärräda, bärädo (LGz. 103) | LGz. 103 | gloss withheld |
 | Gafat | bärädä (LGz. 103) | LGz. 103 | gloss withheld |
 | Mehri | bərēd (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |

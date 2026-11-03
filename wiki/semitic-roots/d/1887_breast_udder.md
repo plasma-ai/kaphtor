@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/1887_breast_udder
 title: "*da/ir(r)-at-: 'breast, udder'"
-desc: "Proto-Semitic *da/ir(r)-at-, 'breast, udder': reflexes in 5 language(s)."
+desc: "Proto-Semitic *da/ir(r)-at-, 'breast, udder': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1887"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | därät \[K 1750\] | K 1750 | gloss withheld |
 | Argobba | därät |  | gloss withheld |
 | Tigrinya | därät 'chest' \[Bass 764\] | Bass 764 |  |
+| Arabic | dirrat- (SED I 54) | SED I 54 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

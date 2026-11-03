@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_NA_KA_NA_SI
 title: "U-NA-KA-NA-SI"
 desc: "wannā kanāsī / winnā kanāsī: So, behold my gathering! (conjunction + presentative + G verbal noun kanāsī + 1cs -ī). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "ritual"]
+tags: ["linear-a", "word", "tier-4", "compound", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "U-NA-KA-NA-SI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | So, behold my gathering! (conjunction + presentative + G verbal noun kanāsī + 1cs -ī) |
 | Root | k-n-s |
 | Proto-Semitic | \*kanVs- (#2763) |
-| Language layer | NWS |
-| Category | ritual |
-| Semantic field | particle |
+| Language layer | Semitic |
+| Tags | compound, libation_formula, noun, ritual |
+| Semantic field | ritual |
 
 ### Note
 
-U-NA is provisionally /wannā/ 'and behold,' comparing Ugaritic w hn ~ wn and Lipiński's \*wa-hanna/u &gt; wn; the alphabetic spelling does not fix the vowels, and /winnā/ remains possible. KA-NA-SI = \*kanāsī, a regular but unattested G verbal noun + 1cs -ī; Aramaic-shaped alternative \*knāšī (knāš 'gathering'); Syriac knšy 'gather!' (Peshitta Jer 10:17) is a live verbal rival. The -ī suffix is 1cs possessive, consistent with 1cs A- at Position 1. Translate the proposed action noun as 'my gathering'; reserve 'assembly' for a lexicalized collective formation. IO Za 2 and IO Za 9 are restored or partial witnesses; the group is intact on KO Za 1, PK Za 8, SY Za 2 and TL Za 1. Rival: kanāšī 'my submission' (√k-n-š, Akk. kanāšu 'bow down'; Amorite ka-na-šum, ka-ni-šum, Ebla gi-ne-su-um, GlOS 1, 313), the sense of Arabic ʾislām 'submission' (Q 3:19); SA and SI do not mark s against š. See U-NA-RU-KA-NA-SI and KU-NI-SU.
+U-NA is wannā 'and behold', Ugaritic wn from \*wa-hanna/u, the Hebrew wə-hinnē (Lipiński 1997, §27.25); the alphabetic spelling leaves the vowels open, and winnā is the rival. KA-NA-SI is kanāsī, the G verbal noun of √k-n-s 'gather' with the 1cs suffix -ī, 'my gathering', agreeing with the 1cs A- of formula position one. SI writes s and the hushed š alike, so KA-NA-SI also reads kanāšī, with the š of Aramaic knaš 'gather' and knāš 'gathering'. The group is intact on KO Za 1, PK Za 8, SY Za 2 and TL Za 1, restored or partial on IO Za 2 and IO Za 9. Rivals: Syriac knšy 'gather!' (Peshitta Jer 10:17); kanāšī 'my submission' (√k-n-š, Akk. kanāšu 'bow down'; Amorite ka-na-šum, ka-ni-šum, Ebla gi-ne-su-um, GlOS 1, 313), the sense of Arabic ʾislām 'submission' (Q 3:19). See U-NA-RU-KA-NA-SI.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ U-NA is provisionally /wannā/ 'and behold,' comparing Ugaritic w hn ~ wn and Li
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; Lipiński 1997; GlOS 1
 
 ### Review
 
@@ -64,7 +64,7 @@ di Mino; GlOS 1
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa2\|IOZa2]] | Iouktas | Stone vessel | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/IO/IOZa/IOZa2\|IOZa2]] | Iouktas | Stone vessel | complete; restored |
 | [[wiki/linear-a/inscriptions/IO/IOZa/IOZa9\|IOZa9]] | Iouktas | Stone vessel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KO/KOZa/KOZa1\|KOZa1]] | Kophinas | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa8\|PKZa8]] | Palaikastro | Stone vessel | incomplete; form not in transliteration |

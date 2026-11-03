@@ -50,7 +50,6 @@ https://aaew.bbaw.de/daten-veroeffentlichungen
 
 ### Research Relevance
 
-- **Tempest Stela (Ahmose I):** search by ruler "Ahmose" or by genre
 - **Egyptian-Canaanite contact texts:** Amarna Letters context, Execration Texts, Sinuhe
 - **Deity name parallels:** Egyptian forms of Semitic deity names (Astarte, Resheph, Ba'al)
 - **Chronological data:** Egyptian king lists and annals for Bronze Age absolute dating
@@ -75,11 +74,11 @@ Perseus offers XML/JSON endpoints beyond the basic web interface:
 
 ```bash
 # Text fetch (TEI XML)
-curl -s "https://www.perseus.tufts.edu/hopper/xmlchunk?doc=Perseus:text:1999.01.0126:book=4:chapter=147"
-# → Herodotus 4.147
+curl -s "https://www.perseus.tufts.edu/hopper/xmlchunk?doc=Perseus:text:1999.01.0126:book=1:chapter=1"
+# → Herodotus 1.1
 
 # Morphological analysis
-curl -s "https://www.perseus.tufts.edu/hopper/morph?l=θήρα&la=greek"
+curl -s "https://www.perseus.tufts.edu/hopper/morph?l=λόγος&la=greek"
 # → Parse Greek word
 
 # Word study tool
@@ -117,7 +116,6 @@ Comprehensive digital library of Greek literature from Homer (8th c. BCE) to 145
 
 Exhaustive Greek literary searching — broader than Perseus. Use for:
 
-- Tracing all occurrences of Θήρα, Μίνως, Κνωσός across Greek literature
 - Finding attestations of Semitic loanwords in Greek
 - Identifying parallel mythological narratives
 

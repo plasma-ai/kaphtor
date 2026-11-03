@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0104_cover
 title: "*kVsVy-: 'cover'"
-desc: "Proto-Semitic *kVsVy-, 'cover': reflexes in 7 language(s)."
+desc: "Proto-Semitic *kVsVy-, 'cover': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0104"
@@ -29,13 +29,16 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | KSY (Aramaic Root Atlas; DNWSI 523 apud CAL) | Aramaic Root Atlas; DNWSI 523; CAL; Anderson–Moser 2024 root ksy | gloss withheld |
+| Aramaic | KSY (Aramaic Root Atlas; DNWSI 523) | Aramaic Root Atlas; DNWSI 523; Anderson–Moser 2024 root ksy | gloss withheld |
 | Hebrew | kasah 'cover' | Anderson–Moser 2024 root ksy |  |
 | Ugaritic | ksy 'cover' | Anderson–Moser 2024 root ksy |  |
 | Arabic | ksw (HALOT 487) | HALOT 487 |  |
 | Epigraphic South Arabian | ksw (HALOT 487) | HALOT 487 |  |
 | Amorite | ksy (Huffmon APNM 222); k-s-y: ik-zu-el/il, mu-ka-sa-a-je-em, ia-ak-sí-ia (Sanmartín GlOS 1, 325) | Huffmon APNM 222; Sanmartín GlOS 1, 325 | gloss withheld |
 | Syrian Aramaic | ksā 'cover, conceal; clothe, protect' (Payne Smith 220) | Payne Smith 220 |  |
+| Phoenician | ksy (T 146) | T 146 | gloss withheld |
+| Punic | mksʾ (T 176) | T 176 | gloss withheld |
+| Eblaitic | gú-za-u₉ /kuSāy/ (Sanmartín GlOS 1, 325) | Sanmartín GlOS 1, 325 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

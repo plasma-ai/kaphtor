@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣapānu 'shelter' | Anderson–Moser 2024 root ẓpn |  |
+| Akkadian | ṣapānu (AHw 1082) | AHw 1082; Anderson–Moser 2024 root ẓpn | gloss withheld |
 | Hebrew | ṣapan 'hide' | Anderson–Moser 2024 root ẓpn |  |
 | Ugaritic | ẓpn 'hide' | Anderson–Moser 2024 root ẓpn |  |
 | Aramaic | hṣpn (HALOT 1049) | HALOT 1049 | gloss withheld |

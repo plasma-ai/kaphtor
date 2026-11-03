@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_NU_star21F
 title: "U-NU-*21F"
 desc: "Unuḫu: (the men of) Unuḫu, a town named in a text from Ugarit (RS 17.251), location unknown. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "toponym", "toponym_foreign"]
 kind: "word"
 form: "U-NU-*21F"
 datasets: ["lexicon", "onomasticon"]
@@ -33,8 +33,9 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Unuḫu |
 | Meaning | (the men of) Unuḫu, a town named in a text from Ugarit (RS 17.251), location unknown |
-| Language layer | contact |
-| Category | toponym |
+| Root | Unuḫu (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | hapax, loanword, toponym, toponym_foreign |
 | Semantic field | toponym |
 
 ### Note
@@ -62,7 +63,7 @@ di Mino
 | Field | Value |
 |---|---|
 | Type | toponym (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

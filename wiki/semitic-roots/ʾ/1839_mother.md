@@ -40,21 +40,21 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʔǝmm \[LGz 22\] | LGz 22 | gloss withheld |
 | Gurage | MAS GOG ǝmm, ENN END äm, SOD ǝmmit, GYE ämiyät \[LGur 42\]; (all) ǝmmiyä | LGur 42 | gloss withheld |
 | Phoenician | ʾm (T 23) | T 23 | gloss withheld |
-| Jibbali | ʔum |  | gloss withheld |
+| Jibbali | ʔum; ʾɛ́m, pl. ɛ́míti (Rubin 2014 656) | Rubin 2014 656 | gloss withheld |
 | Hebrew | ʔēm (HALOT 61), pl. suff. ʔimmōhēnū, ʔimmōhām | HALOT 61 | gloss withheld |
 | Epigraphic South Arabian | SAB ʔmm \[SD 5; Sabaweb lemma 2986\] | SD 5; Sabaweb lemma 2986 | gloss withheld |
 | Judaic Aramaic | ʔīmmā 'mother' \[Ja 50\] | Ja 50 |  |
 | Amorite | /ʔi/ummum/ (Gelb AS 21, 14); ʾimma (Buck 2019, 323) | Gelb AS 21 14; Buck 2019, 323 | gloss withheld |
 | Harari | umma \[LHar 25\] | LHar 25 | gloss withheld |
 | Syrian Aramaic | ʔem(m)-, pl. ʔemhāt-, ʔemh- 'mother; abbess'; ʔemhāy- 'maternal' (adj.) \[Brock 23\] | Brock 23 |  |
-| Aramaic | ʾm (DNWSI 66 apud CAL) | DNWSI 66; CAL; Anderson–Moser 2024 root umm | gloss withheld |
+| Aramaic | ʾm (DNWSI 66) | DNWSI 66; Anderson–Moser 2024 root umm | gloss withheld |
 | Punic | ʾm 'mother' | Anderson–Moser 2024 root umm |  |
-| Mandaic Aramaic | ʿma (LGz. 22; Drower/Macuch 352a apud CAL) | LGz. 22; Macuch 352a; CAL |  |
+| Mandaic Aramaic | ʿma (LGz. 22; MD 352) | LGz. 22; MD 352 |  |
 | Argobba | əm (LGz. 22) | LGz. 22 |  |
 | Gafat | əmʷit (LGz. 22) | LGz. 22 |  |
 | Tigrinya | ʾəm in ʾəmbet (LGz. 22) | LGz. 22 | gloss withheld |
 | Amharic | əmmamma, əmməyye, əmmäbet (LGz. 22) | LGz. 22 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾm (Al-Jallad–Jaworska 44) | Al-Jallad–Jaworska 44 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾm (Al-Jallad–Jaworska 44); Dadanitic ʾm (Al-Jallad 2026, 6) | Al-Jallad–Jaworska 44; Al-Jallad 2026 6 | gloss withheld |
 | Emar | im-mi /ʾimmu/ (Pentiuc 2001, 89) | Pentiuc 2001 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -9,7 +9,7 @@ site: "Khania"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["*304", "CYP", "I-SI", "NI", "VIR+*307"]
+words: ["*304", "A-SI-SU-PO-A", "CYP", "I-SI", "NI", "VIR+*307"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -70,7 +70,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/I/I_SI|I-SI]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/V/VIR_plus_star307|VIR+\*307]].
+[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/A/A_SI_SU_PO_A|A-SI-SU-PO-A]], [[wiki/linear-a/words/C/CYP|CYP]], [[wiki/linear-a/words/I/I_SI|I-SI]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/V/VIR_plus_star307|VIR+\*307]].
 
 ## Edition differences
 

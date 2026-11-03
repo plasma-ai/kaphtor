@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3265_to_grant_give_a_gift_gift
 title: "*ʔwš: 'to grant, give a gift; gift'"
-desc: "Proto-Semitic *ʔwš, 'to grant, give a gift; gift': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʔwš, 'to grant, give a gift; gift': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3265"
@@ -29,14 +29,16 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ˀušn (DUL 118 apud SEDonline 1384) | DUL 118; SEDonline 1384 | gloss withheld |
+| Ugaritic | ˀušn (DULAT 114; SEDonline 1384) | DULAT 114; SEDonline 1384 | gloss withheld |
 | Arabic | ˀws (LA 6 20 apud SEDonline 1384); ˀaws- (LA 6 20 apud SEDonline 1384) | LA 6 20; SEDonline 1384 | gloss withheld |
 | Amorite | ʾwš: ia-ú-šu, ia-ú-uš-dIM, ptc. me-i-su-um; ʾays: a-i-su-um (Sanmartín GlOS 1, 54) | Sanmartín GlOS 1, 54 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾwsn; ʾws (D); tʾws (Al-Jallad 2026, 10) | Al-Jallad 2026 10 | gloss withheld |
+| Hebrew | \*אושׁ, in the names יְהוֹאָשׁ, יוֹאָשׁ and Lach. יאושׁ (HALOT 26) | HALOT 26 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-PCS \*ˀwš 'to grant, offer a gift' (Kogan 2015: 318; Kogan 2006b: 243 apud SEDonline 1384). Hbr. ʾwš 'to grant' survives in the names Yōʾāš, Yəhōʾāš (HALOT 393, 398 apud SEDonline 1384). Cf. 251 \*ʾaw(V)s- 'wolf'.
+PCS \*ˀwš 'to grant, offer a gift' (Kogan 2015: 318; Kogan 2006b: 243 apud SEDonline 1384). The Amorite names are read as ʿWŠ 'to help' (Gelb AS 21, 15) and as \*ġwṯ 'to assist' (Huffmon APNM 171).
 
 <!-- END kaphtor:record -->

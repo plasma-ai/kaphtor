@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2815_bewitch
 title: "*kVšVp-: 'bewitch'"
-desc: "Proto-Semitic *kVšVp-, 'bewitch': reflexes in 4 language(s)."
+desc: "Proto-Semitic *kVšVp-, 'bewitch': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2815"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | k-š-p; kešep (BDB 506; HALOT 503) | BDB 506; HALOT 503 | gloss withheld |
 | Akkadian | kašāpu; kišpu (HALOT 503) | HALOT 503 | gloss withheld |
 | Ugaritic | kšp (CUC; DULAT 462) | CUC; DULAT 462 | gloss withheld |
+| Eblaitic | /k-ṯ-p/: name ig-šè-bù (Sanmartín GlOS 1, 328); KA.DIB = ga-šè-bù, ga-šè-bù-um /kāṯip/, names ga-šè-bù, ga-ši-bù, ga-šè-ba-šum (Sanmartín GlOS 1, 328) | Sanmartín GlOS 1, 328 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

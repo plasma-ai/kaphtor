@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_SE_TU_star21F
 title: "A-SE-TU-*21F"
 desc: "Aštuḫḫa: Female (Hurrian personal name); rival the line as a heading, 'female (ones)'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-SE-TU-*21F"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Aštuḫḫa |
 | Meaning | Female (Hurrian personal name); rival the line as a heading, 'female (ones)' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PH 2 .1 A-SE-TU-\*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and SE-SA-PA₃ 60, whole and undotted (GORILA I 288–289). aš-tu-ḫa with \*21F = ḫa, SE writing š with the e of ašte: the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37), Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Rivals: the line as a heading, 'female (ones)', if GORILA's 1 is the first stroke of RA (Younger, Linear A Texts); A-SE ʾaššē + an unread TU-\*21F. One witness.
+PH 2 .1 A-SE-TU-\*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and SE-SA-PA₃ 60, whole and undotted (GORILA I 288–289). aš-tu-ḫa with \*21F = ḫa, SE writing š with the e of ašte: the Nuzi woman's name ᶠAš-du-uḫ-ḫa-a-a (NPN 37), Hurrian aštuḫḫi 'feminine' (Laroche GLH 62). Rivals: the line as a heading, 'female (ones)', reading GORILA's 1 as the first stroke of RA (Younger, Linear A Texts); A-SE ʾaššē + an unread TU-\*21F. One witness.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ PH 2 .1 A-SE-TU-\*21F 1, the first entry, above RA-O-DI-KI 60, PI-RU-E-JU 60 and
 
 ### Source
 
-di Mino; Laroche GLH; NPN; Monti 2017
+di Mino; Laroche GLH; NPN; Younger, Linear A Texts
 
 ## Attestations
 

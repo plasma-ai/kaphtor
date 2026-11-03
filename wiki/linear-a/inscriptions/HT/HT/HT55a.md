@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["MA-RE", "SI-RU"]
+words: ["*301", "MA-RE", "SI-RU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -87,7 +87,7 @@ GORILA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/M/MA_RE|MA-RE]], [[wiki/linear-a/words/S/SI_RU|SI-RU]].
+[[wiki/linear-a/words/star/star301|\*301]], [[wiki/linear-a/words/M/MA_RE|MA-RE]], [[wiki/linear-a/words/S/SI_RU|SI-RU]].
 
 ## Corpus note
 

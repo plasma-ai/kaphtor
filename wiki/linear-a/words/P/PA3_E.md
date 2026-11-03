@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA3_E
 title: "PA₃-E"
 desc: "bē: in, at (preposition). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "preposition", "ritual"]
 kind: "word"
 form: "PA₃-E"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | in, at (preposition) |
 | Root | b |
 | Proto-Semitic | \*bV-- (#K0007) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, preposition, ritual |
 | Semantic field | particle |
 
 ### Note
 
-Possible standalone spelling of the b- preposition (PA₃ = /ba~be/ + E); cf. Hebrew bə-, Ugaritic b-, Amarna bi-. A divider follows PA₃-E on PKZa8, whereas the Semitic preposition is normally proclitic, and the following group is presently read as the vocative yā Diqqite. The exact syntax is therefore unresolved; translate only as fragmentary 'in/at …' rather than joining it confidently to Dikte.
+PK Za 8 \]NU · PA₃-E · JA-DI-KI-TE-TE-\*307-PU₂-RE · TU-ME-I: PA₃-E stands between dividers before the vocative of Dikte (GORILA IV 24–27). bē 'in, at': PA₃, the proposed value /ba~be/, + E, the b- preposition, Ugaritic b 'in, at' (DULAT 196), Hebrew bə-, Amarna bi-. The divider after it is Ugaritic practice with a one-syllable proclitic, b. bnk (CAT 1.6:I:46), l. mlkt (CAT 2.12:1; Tropper 2000, §21.412a). Weak point: one attestation. See JA-DI-KI-TU.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ Hebrew בְּ- (bə-); Ugaritic b-; Amarna Canaanite bi-; Phoenician b-
 
 ### Source
 
-di Mino
+di Mino; DULAT; Tropper 2000
 
 ## Attestations
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE_SU_PU
 title: "QE-SU-PU"
 desc: "qaššāpu: sorcerer, diviner (occupational title or PN). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "occupation", "ritual"]
 kind: "word"
 form: "QE-SU-PU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | sorcerer, diviner (occupational title or PN) |
 | Root | q-š-p |
 | Proto-Semitic | \*kVšVp- (#2815) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | hapax, noun, occupation, ritual |
 | Semantic field | personnel |
 
 ### Note
 
-√k-š-p / √q-š-p 'to practice sorcery.' Akk. kaššāpu/qaššāpu 'sorcerer' (qattāl agent noun), Heb. mǝkaššēp / qōšēp (Exod 22:17; Deut 18:10). Sibilant merger š→S; geminate šš simplified (no gemination in LA). QE writes /q/ (emphatic velar, its primary value)—this disambiguates from √k-s-p 'silver' (kaspu), which would spell KA-SA-PU with plain /k/. On HT87 cult personnel register: occupational title in name-slot with 1-unit allocation, among Hurrian PNs (PI-TA-KE-SI, DI-KI-SE) and NWS PNs (JA-RE-MI). Structural parallel: Exod 7:11 lists mǝkaššǝfīm alongside ḥakāmīm and ḥarṭummīm as palace cult specialists—identical genre to HT87. Rival reading kaspu 'silver' excluded: (a) QE ≠ KA, (b) commodity noun doesn't fit personnel register, (c) silver requires weight/quantity not 1-unit allocation.
+HT 87, a register of cult personnel: an occupational title in the name slot with an allocation of 1, among Hurrian names (PI-TA-KE-SI, DI-KI-SE) and NWS ones (JA-RE-MI). √k-š-p / √q-š-p 'practise sorcery': Akk. kaššāpu/qaššāpu 'sorcerer', a qattāl agent noun; Heb. məkaššēp (Deut 18:10), fem. məkaššēpāh (Exod 22:17). Š is written S and the geminate šš single. QE writes q, its primary value, which sets the word apart from √k-s-p 'silver' (kaspu), spelled with KA. Exod 7:11 names the məkaššəpîm beside the ḥăkāmîm and ḥarṭummîm, palace specialists of the kind HT 87 lists. One attestation.
 
 ### Cognates
 
@@ -72,13 +73,17 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 87, a register of cult personnel, in the name slot with 1: Akkadian kaššāpu/qaššāpu 'sorcerer', Hebrew məkaššēp (Deut 18:10). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

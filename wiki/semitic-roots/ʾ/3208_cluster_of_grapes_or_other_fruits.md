@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3208_cluster_of_grapes_or_other_fruits
 title: "*ʾVṯkāl-: 'cluster of grapes or other fruits'"
-desc: "Proto-Semitic *ʾVṯkāl-, 'cluster of grapes or other fruits': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʾVṯkāl-, 'cluster of grapes or other fruits': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3208"
@@ -33,8 +33,9 @@ updated: 2026-10-24T15:25:56Z
 | Ugaritic | ʾuṯkl (Kogan 2011, 204) | Kogan 2011 204 |  |
 | Hebrew | ʾäškōl (Kogan 2011, 204) | Kogan 2011 204 |  |
 | Judaic Aramaic | JBA ʾitkālā (Kogan 2011, 204) | Kogan 2011 204 |  |
-| Arabic | ʾiṯkāl- (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Arabic | ʾiṯkāl- (Kogan 2011, 204); ʔutkūl, ʕitkāl (LGz. 42) | Kogan 2011 204; LGz. 42 | gloss withheld |
 | Geez | ʾaskāl (Kogan 2011, 204) | Kogan 2011 204 |  |
+| Akkadian | is/šḫunnatu (LGz. 42) | LGz. 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

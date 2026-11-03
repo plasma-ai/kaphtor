@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3550_drought_to_suffer_drought
 title: "*mḥl: 'drought; to suffer drought'"
-desc: "Proto-Semitic *mḥl, 'drought; to suffer drought': reflexes in 2 language(s)."
+desc: "Proto-Semitic *mḥl, 'drought; to suffer drought': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3550"
@@ -31,6 +31,7 @@ updated: 2026-10-25T06:28:07Z
 |---|---|---|---|
 | Arabic | maḥl 'drought, suspension of rain' (Lane 3018) | Lane 3018 |  |
 | Epigraphic South Arabian | Sab hmḥl (SD 84); mḥlm (Biella 270) | SD 84; Biella 270 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mḥlt (Al-Jallad 2026, 90); ʾmḥl (Al-Jallad 2026, 91) | Al-Jallad 2026 90; Al-Jallad 2026 91 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

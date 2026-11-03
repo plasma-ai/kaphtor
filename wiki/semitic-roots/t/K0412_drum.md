@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | top 'timbrel' | Anderson–Moser 2024 root tp |  |
-| Ugaritic | tp 'drum' | Anderson–Moser 2024 root tp |  |
+| Hebrew | top (HALOT 1771); tpp (HALOT 1779) | HALOT 1771; HALOT 1779; Anderson–Moser 2024 root tp | gloss withheld |
+| Ugaritic | tp (DULAT 861) | DULAT 861; Anderson–Moser 2024 root tp | gloss withheld |
 | Judaic Aramaic | tuppā (HALOT 1771) | HALOT 1771 |  |
 | Aramaic | \*tp (HALOT 1771) | HALOT 1771 |  |
 | Phoenician | tpp (T 344) | T 344 | gloss withheld |

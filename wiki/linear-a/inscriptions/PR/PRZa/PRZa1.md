@@ -61,7 +61,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | may \[it\] be drunk for you (f.) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | the Eastern (one), of the East | PROBABLE | PROBABLE (lexicon) |
-| [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | uprightly (variant of yaššaram, ʾa- for ya-) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | in righteousness (variant of yaššaram, ʾa- for ya-) | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
 

@@ -41,12 +41,12 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | bēn (HALOT 137), bn (HJ 170), pB. bēn (Ja 176) | HALOT 137; HJ 170; Ja 176 |  |
 | Epigraphic South Arabian | Qat bn (Ricks 28-9), Min bn (LM 21), Sab bn (SD 29; Sabaweb lemma 1197) | Ricks 28-9; LM 21; SD 29; Sabaweb lemma 1197 |  |
 | Judaic Aramaic | bǝnīn, pl. of bar (Ja 188; DJPA 97a apud CAL) | Ja 188; DJPA 97a; CAL | gloss withheld |
-| Amorite | bi/unum (DULAT 222); bin, bun: bi-na-an, bi-nu-um, i-la-bí-ni (Ur III) (Sanmartín GlOS 1, 120) | DULAT 222; Sanmartín GlOS 1, 120 | gloss withheld |
+| Amorite | bi/unum (DULAT 222); bin, bun: bi-na-an, bi-nu-um, i-la-bí-ni (Ur III) (Sanmartín GlOS 1, 120); binum, bunum (Gelb AS 21, 16) | DULAT 222; Sanmartín GlOS 1, 120; Gelb AS 21 16 | gloss withheld |
 | Aramaic | Nab bn (HJ 170), Sam bn (Tal 103) | HJ 170; Tal 103 |  |
-| Punic | bʿn (T 47); bn (HJ 168) | T 47; HJ 168 | gloss withheld |
+| Punic | bʿn (T 47); bn (HJ 168); Neo-Punic bnm, in bbnm (Krahmalkov 108) | T 47; HJ 168; Krahmalkov 108 | gloss withheld |
 | Syrian Aramaic | bnayyā (Kogan 2011, 234) | Kogan 2011 234 | gloss withheld |
 | Mehri | ḥə-būn (Kogan 2011, 234) | Kogan 2011 234 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic bn (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bn (Al-Jallad–Jaworska 61); bny; Taymanitic bny (Al-Jallad 2026, 29) | Al-Jallad–Jaworska 61; Al-Jallad 2026 29 | gloss withheld |
 | Eblaitic | /bin, bun/: names bí-ne-li-im, bí-ni-ma-ni (Sanmartín GlOS 1, 120) | Sanmartín GlOS 1, 120 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

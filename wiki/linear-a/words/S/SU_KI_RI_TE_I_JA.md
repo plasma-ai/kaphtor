@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SU_KI_RI_TE_I_JA
 title: "SU-KI-RI-TE-I-JA"
 desc: "Sukritēya: of Sukrita (Sybrita): origin label on a jar. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "gentilic"]
+tags: ["linear-a", "word", "tier-1", "gentilic", "hapax"]
 kind: "word"
 form: "SU-KI-RI-TE-I-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | of Sukrita (Sybrita): origin label on a jar |
 | Root | s-g-r |
 | Proto-Semitic | \*sagar- (#K0391) |
-| Language layer | NWS |
-| Category | gentilic |
+| Language layer | Semitic |
+| Tags | gentilic, hapax |
 | Semantic field | toponym |
 
 ### Note
 
-HT Zb 158b, a jar: the only word on side b (GORILA IV 65); side a reads \[·\]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI; Linear B has the ethnic su-ki-ri-ta-jo (KN C 911). Davis (Aura Suppl. 13, 46) pairs the two forms as alternating endings. -I-JA is the Semitic nisba \*-iy- (fem. \*-iyya), the gentilic suffix of Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Fischer §116). Rival: Anatolian -iya-. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. One document.
+HT Zb 158b, a jar: the only word on side b (GORILA IV 65); side a reads \[·\]-TU-SE-SU-KI. Gentilic on SU-KI-RI-TA (PH Wa 32), the vowel of KI dead before RI; Linear B has the ethnic su-ki-ri-ta-jo (KN C 911). Davis (Aura Suppl. 13, 46) pairs the two forms as alternating endings. -I-JA is the Semitic nisba \*-iy- (fem. \*-iyya), the gentilic suffix of Ugaritic ugrty /ʾugaritiyyu/ 'man of Ugarit' (Fischer 2002, §116). Rival: Anatolian -iya-. -TE-I-JA has no other Linear A witness; SE-TO-I-JA (PR Za 1) shares -I-JA. One document.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT Zb 158b, a jar: the only word on side b (GORILA IV 65); side a reads \[·\]-T
 
 ### Source
 
-di Mino
+di Mino; Fischer 2002
 
 ## Attestations
 

@@ -26,7 +26,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc26\|KNWc26]] | Knossos | Roundel | none |
+| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc26\|KNWc26]] | Knossos | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc26\|KNWc26]] | Ruya | personal name, the receiver; Ugaritic PN rwy | SPECULATIVE |
 
 ## Onomasticon
 
@@ -45,6 +51,6 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Wc 26, a roundel, RU-JA on face a and NI-PI on face b (GORILA II 85): Ruya, the Ugaritic PN rwy (DULAT 738), the name that opens RU-JA-TA-DI Ruya-dādī. See the lexicon entry RU-JA-TA-DI.
+KN Wc 26, a roundel, RU-JA on face a and NI-PI nīb 'fruit' on face b (GORILA II 85): Ruya, the Ugaritic PN rwy (DULAT 738), the name that opens RU-JA-TA-DI Ruya-dādī. See the lexicon entry RU-JA-TA-DI.
 
 <!-- END kaphtor:record -->

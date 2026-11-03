@@ -34,10 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 40 .1 NU-DU-\*331 · TE · GRA 207, heading the tablet (GORILA I 77). \*331 has no resolved value. No reading.
 
 ### Co-occurring lexicon words
 

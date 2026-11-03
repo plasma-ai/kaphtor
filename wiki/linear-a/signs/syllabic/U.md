@@ -47,17 +47,20 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] | dawmi | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_MA_U_TI\|JA-MA-U-TI]] | Yamūti | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_MA_U_TI\|JA-MA-U-TI]] | Yamwuti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |
-| [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | ʿuṣru | CANDIDATE |
+| [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | ʿuṣār | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |
+| [[wiki/linear-a/words/R/RI_DA_U\|RI-DA-U]] | Ridāyu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/U/U\|U]] | u | CANDIDATE |
+| [[wiki/linear-a/words/U/U_star34_SI\|U-\*34-SI]] | u-qīš | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star49\|U-\*49]] | ʾummi | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | CANDIDATE |
-| [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdumī | SPECULATIVE |
+| [[wiki/linear-a/words/U/U_DE_ZA\|U-DE-ZA]] | Ḥudaṯu | CANDIDATE |
+| [[wiki/linear-a/words/U/U_DI_MI\|U-DI-MI]] | ʾUdmī | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 | [[wiki/linear-a/words/U/U_JU\|U-JU]] | ʿūlū | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_KA_RE\|U-KA-RE]] | ʾugār | SPECULATIVE |
@@ -71,8 +74,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] | ʾūr-lēwī | CANDIDATE |
 | [[wiki/linear-a/words/U/U_SU\|U-SU]] | ʾUšu | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |
-| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | Uta/Uda | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA2\|U-TA₂]] | Uta | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TI\|U-TI]] | Utti | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TI_NU\|U-TI-NU]] | -u-tī-n(u) | CANDIDATE |
 

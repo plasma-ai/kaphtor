@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PI_star34_TE
 title: "PI-*34-TE"
 desc: "piqitti: provisions, provisioning (allocation entry); rivals bayti 'house', a recipient name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "noun"]
 kind: "word"
 form: "PI-*34-TE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | provisions, provisioning (allocation entry); rivals bayti 'house', a recipient name |
 | Root | p-q-d |
 | Proto-Semitic | \*paqād- (#K0256) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, hapax, noun |
 | Semantic field | administrative |
 
 ### Note
 
-HT 116a PI-\*34-TE GRA 5, then OLE 5, OLE+MI 1, \*OLIV+TU 2: one of six entries under U-TA-RO · TE, each a sign group with GRA and a number, as KU-PA-JA, PU-RA₂, SI+SE, SI-KI-NE and QA-NU-MA. Read PI-QI-TE with \*34 = QI, a speculative value. Akkadian piqittu(m), oblique piqitti, sense 1 'provisioning, provisions' (CAD P 388), from paqādu(m) 'entrust, assign, inspect' (Huehnergard 1997, pp. 104, 614); the entry draws grain, oil and olives. Rivals: bayti 'house; temple, household, estate' (DULAT 243; HALOT 124; CAD B 282) with \*34 = ai, Linear B a₅ /hai/, an institution among recipients that include PU-RA₂ and SI+SE; a recipient name, as its neighbours. Younger compares \]PI-MI-NA-TE (AP Za 2.2), with \*34 for MI-NA. One witness. Weak point: \*34 = qi is speculative.
+HT 116a PI-\*34-TE GRA 5, then OLE 5, OLE+MI 1, \*OLIV+TU 2: one of six entries under U-TA-RO · TE, each a sign group with GRA and a number, as KU-PA-JA, PU-RA₂, SI+SE, SI-KI-NE and QA-NU-MA. Read PI-QI-TE with \*34 = QI. Akkadian piqittu(m), oblique piqitti, sense 1 'provisioning, provisions' (CAD P 388), from paqādu(m) 'entrust, assign, inspect' (Huehnergard 1997, 104, 614); the entry draws grain, oil and olives. Rivals: bayti 'house; temple, household, estate' (DULAT 243; HALOT 124; CAD B 282) with \*34 = ai, an institution among recipients that include PU-RA₂ and SI+SE; a recipient name, as its neighbours. Younger compares \]PI-MI-NA-TE (AP Za 2.2), with \*34 for MI-NA. One witness. Weak point: \*34 = qi is a proposed value.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 116a PI-\*34-TE GRA 5, then OLE 5, OLE+MI 1, \*OLIV+TU 2: one of six entries 
 
 ### Source
 
-Huehnergard 1997, pp. 104, 614; CAD P 388; di Mino
+di Mino; Huehnergard 1997; CAD P; DULAT; HALOT; CAD B; Younger, Linear A Texts
 
 ## Attestations
 

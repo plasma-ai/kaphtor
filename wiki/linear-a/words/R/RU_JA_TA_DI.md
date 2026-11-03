@@ -2,11 +2,11 @@
 name: wiki/linear-a/words/R/RU_JA_TA_DI
 title: "RU-JA-TA-DI"
 desc: "Ruya-dādī: personal name, Ruya + dādī 'my beloved'; Ruya alone on KN Wc 26. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "RU-JA-TA-DI"
 datasets: ["lexicon", "onomasticon"]
-attestations: ["HTWc3008", "KNWc26"]
+attestations: ["HTWc3008"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.2
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, Ruya + dādī 'my beloved'; Ruya alone on KN Wc 26 |
 | Root | d-w-d |
 | Proto-Semitic | \*dawid- (#19) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT Wc 3008 face b, four signs whole with no divider, opposite WA · DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved' (TA-DI), TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on the roundel KN Wc 26, face a, with NI-PI on face b (GORILA II 85). With no i- before r-, not the Hurrian of I-RU-JA. Weak point: Ruya has no known meaning. Rival: two names, RU-JA and TA-DI.
+HT Wc 3008 face b, four signs whole with no divider, opposite WA · DI-NI (GORILA II 74): Ruya, the Ugaritic PN rwy (DULAT 738), with dādī 'my beloved' (TA-DI), TA writing d as in ta-di-e for ddy (DULAT 264). Ruya stands alone on the roundel KN Wc 26, face a, with NI-PI on face b (GORILA II 85). Ruya is \|r-w-y\| 'to be well watered', with Amorite ia-ar-wi-um and ru₂-ya \|rôya / rūya\| in an Egyptian place name (GlOS 2, 178). Rival: two names, RU-JA and TA-DI.
 
 ### Cognates
 
@@ -53,14 +53,13 @@ HT Wc 3008 face b, four signs whole with no divider, opposite WA · DI-NI (GORIL
 
 ### Source
 
-di Mino; DULAT; Gelb
+di Mino; DULAT; Gelb; GlOS 2
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3008\|HTWc3008]] | Haghia Triada | Roundel | complete |
-| [[wiki/linear-a/inscriptions/KN/KNWc/KNWc26\|KNWc26]] | Knossos | Roundel | none; form not in transliteration |
 
 ## In translations
 

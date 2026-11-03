@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | hwy 2; hawā 'love, and attachment; inclination of the soul to a thing; love, and desire' 1 (Lane 3046) | Lane 3046 |  |
-| Ugaritic | hwt 1 |  |  |
+| Ugaritic | /h-w-y/ 2 (DULAT 345) | DULAT 345 | gloss withheld |
 | Hebrew | hawwâ (Mi 7:3; Pr 11:6) (Pr 10:3) 1 (HALOT 242) | HALOT 242 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

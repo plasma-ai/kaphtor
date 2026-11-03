@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/K/KA_KU_PA
 title: "KA-KU-PA"
-desc: "kawkab: star (celestial toponym; Semitic kawkab with b→p voicing). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+desc: "kawkab: Star (place name, as Mari Kabkab). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "toponym"]
 kind: "word"
 form: "KA-KU-PA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,15 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | kawkab |
-| Meaning | star (celestial toponym; Semitic kawkab with b→p voicing) |
+| Meaning | Star (place name, as Mari Kabkab) |
 | Root | k-w-k-b |
 | Proto-Semitic | \*kabkab- (#2548) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Pan-Semitic: Hebrew kōkāb, Akkadian kakkabu, Arabic kawkab. Functions as toponym/header on roundels with CYP; Mari has a town Kabkab, 'Star'. Three attestations at HT.
+HT 16 KA-KU-PA ·, the heading over DI-NA-U ⅛, WA ⅓, \*188+KU ⅜ and SA-PO ZE 1⁄16; on the roundels HT Wc 3015 KA-KU-PA with CYP and HT Wc 3016 with \*304+PA and CYP+D, a party receiving cyperus. kawkab 'star', the Semitic word as a place name, as Mari's town Kabkab (MTT I/1, s.v. Kabkab): Hebrew kôkāb (HALOT 463), Akkadian kakkabu, Arabic kawkab. Three attestations, all Haghia Triada.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ Pan-Semitic: Hebrew kōkāb, Akkadian kakkabu, Arabic kawkab. Functions as topon
 
 ### Source
 
-di Mino; GlOS 1; FM II; MTT I/1
+di Mino; HALOT; MTT I/1; GlOS 1; FM II
 
 ## Attestations
 

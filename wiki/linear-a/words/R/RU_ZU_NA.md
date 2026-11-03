@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RU_ZU_NA
 title: "RU-ZU-NA"
 desc: "rāzin(a): dignitary, prince (title of a recipient); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "title"]
 kind: "word"
 form: "RU-ZU-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | dignitary, prince (title of a recipient); rival a personal name |
 | Root | r-z-n |
 | Proto-Semitic | \*rVzan- (#S1) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, title |
 | Semantic field | personnel |
 
 ### Note

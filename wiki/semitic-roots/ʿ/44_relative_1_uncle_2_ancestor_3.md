@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab ʿm, pl. ʾʿmm (SD 16; Biella 371; Sabaweb lemma 3735) | SD 16; Biella 371; Sabaweb lemma 3735 | gloss withheld |
 | Amorite | ʿammum (Gelb AS 21, 15); ʿammu (Buck 2019, 325); ḫammu: ḫa-am-mu-šu (ARM 26/2, 449: 18f.) (Streck 2000, 92–93) | Gelb AS 21 15; Buck 2019, 325; Streck 2000 92–93 | gloss withheld |
 | Syrian Aramaic | ʕamtā 'paternal aunt' (Payne Smith 419) | Payne Smith 419 |  |
-| Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53) | Al-Jallad–Jaworska 53 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿm (Al-Jallad–Jaworska 53); ʿmt (Al-Jallad 2026, 15) | Al-Jallad–Jaworska 53; Al-Jallad 2026 15 | gloss withheld |
 | Tigre | ˁammät (WTS 455 apud SEDonline 513) | WTS 455; SEDonline 513 | gloss withheld |
 | Jibbali | aʕĩt (JL 19 apud SEDonline 513); ʕom (JL 19 apud SEDonline 513) | JL 19; SEDonline 513 | gloss withheld |
 

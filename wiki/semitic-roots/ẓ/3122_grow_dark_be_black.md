@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/3122_grow_dark_be_black
 title: "*ẓlm: 'grow dark, be black'"
-desc: "Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 20 language(s)."
+desc: "Proto-Semitic *ẓlm, 'grow dark, be black': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3122"
@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ṭlm (HALOT 1028) | HALOT 1028 |  |
 | Syrian Aramaic | ṭlm (HALOT 1028) | HALOT 1028 |  |
 | Ugaritic | ẓlmt (LGz. 556; HALOT 1028) | LGz. 556; HALOT 1028 |  |
-| Akkadian | ṣalāmu (CAD Ṣ 70); ṣalmu (CAD Ṣ 77) | CAD Ṣ 70; CAD Ṣ 77 | gloss withheld |
+| Akkadian | ṣalāmu (CAD Ṣ 70; AHw 1076); ṣalmu (CAD Ṣ 77) | CAD Ṣ 70; AHw 1076; CAD Ṣ 77 | gloss withheld |
 | Tigre | ṣälma, č̣älma (LGz. 556) | LGz. 556 |  |
 | Tigrinya | ṣällämä (LGz. 556) | LGz. 556 |  |
 | Gafat | ṣillämä (LGz. 556) | LGz. 556 |  |
@@ -49,6 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | ḏ̣əliũt (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
 | Soqotri | ṭlm (Kogan 2011, 198) | Kogan 2011 198 | gloss withheld |
 | Amorite | ṯ̣alm: ṣa-al-ma-nu-um (Ur III) (Sanmartín GlOS 2, 334) | Sanmartín GlOS 2, 334 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ẓlmt (Al-Jallad 2026, 177) | Al-Jallad 2026 177 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

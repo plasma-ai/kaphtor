@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TI_NI_TA
 title: "TI-NI-TA"
 desc: "Tinitu: Tinit (goddess, = Phoenician Tanit). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "divine_name"]
+tags: ["linear-a", "word", "tier-4", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "TI-NI-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Tinit (goddess, = Phoenician Tanit) |
 | Root | t-n-t |
 | Proto-Semitic | \*tinnīt- (#2967) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | hapax, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-On HT27a, TI-NI-TA appears directly before \*307 (= DUBUR, sanctuary). Pattern "Goddess + Sanctuary" = Linear A equivalent of Linear B Potnia Daboritu. Variant TA-NA-TI (4 attestations: HT10b, HT49a, HT7a, HT98a) is more frequent. \|\| Vocalization: the Greek transcription ΘΙΝΙΘ Thinith records i–i, not conventional 'Tanit'—the same vowels as TI-NI-TA, a vocalic match across a millennium, not consonants alone. Against the Berber-origin view of Tanit (t…t feminine pattern of Tamazight names): an LM I attestation a millennium before Carthage favours a Levantine–Aegean origin. See TI-NI-TA \*307.
+HT 27a: TI-NI-TA directly before \*307 DUBUR 'sanctuary', the goddess with her sanctuary, as Linear B Potnia Daboritu. The variant TA-NA-TI is commoner, four attestations (HT 7a, HT 10b, HT 49a, HT 98a). Punic in Greek letters writes Θινιθ, i–i, on the El-Hofra stele EH 1 (Krahmalkov 2000, 126), beside Θεννειθ (ibid., 495), against the conventional 'Tanit': the vowels of TI-NI-TA, a millennium later. Rival: a Berber origin for Tanit, on the t…t feminine of Tamazight names, against which an LM I attestation a millennium before Carthage stands. See TI-NI-TA \*307.
 
 ### Cognates
 
@@ -49,11 +49,11 @@ On HT27a, TI-NI-TA appears directly before \*307 (= DUBUR, sanctuary). Pattern "
 |---|---|
 | Phoenician | tnt 'Tanit' (Sarepta, KAI 285, 7th c. BCE: dedication to Tanit-Astarte) |
 | Punic | tnt 'Tinnit' (Carthage stelae: lrbt ltnt pn bʿl 'to the Lady Tinnit, face of Baal') |
-| Punic in Greek letters | ΘΙΝΙΘ Thinith 'Tinnit' (El-Hofra stele, Constantine: ΘΙΝΙΘ ΦΑΝΕ ΒΑΛ) |
+| Punic in Greek letters | Θινιθ-Φανεβαλ, Θεννειθ-Φενηβαλ 'Tinnit-Phanebal' (Krahmalkov 2000, 495); Θινιθ-Φανεβαλ on the El-Hofra stele EH 1.1/5 (ibid., 126) |
 
 ### Source
 
-Gordon 1966
+Gordon 1966; Krahmalkov 2000
 
 ### Review
 

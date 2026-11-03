@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/424_run_1_cross_over_pass_by_2
 title: "*ʕVdVw/y-: 'run' 1, 'cross over, pass by' 2"
-desc: "Proto-Semitic *ʕVdVw/y-, 'run' 1, 'cross over, pass by' 2: reflexes in 16 language(s)."
+desc: "Proto-Semitic *ʕVdVw/y-, 'run' 1, 'cross over, pass by' 2: reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "424"
@@ -44,8 +44,9 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | adda (LGz. 56) | LGz. 56 |  |
 | Harari | ada (LGz. 56) | LGz. 56 |  |
 | Gurage | ode (LGz. 56) | LGz. 56 |  |
-| Pre-Islamic North Arabian | Safaitic ʿdy (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 50 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿdy (Al-Jallad–Jaworska 50); ʿdy 1 (Al-Jallad 2026, 12) | Al-Jallad–Jaworska 50; Al-Jallad 2026 12 | gloss withheld |
 | East Ethiopic | Sel. Wol. ode (EDG 14 apud SEDonline 1924) | EDG 14; SEDonline 1924 | gloss withheld |
+| Biblical Aramaic | ʕdy; haf. 2 (HALOT 789) | HALOT 789 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

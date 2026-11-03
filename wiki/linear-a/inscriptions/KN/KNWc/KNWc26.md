@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/inscriptions/KN/KNWc/KNWc26
 title: "KNWc26"
-desc: "Roundel, Knossos. Translation: none."
-tags: ["linear-a", "inscription", "translation-none", "roundel"]
+desc: "Roundel, Knossos. Translation: complete (SPECULATIVE)."
+tags: ["linear-a", "inscription", "translation-complete", "roundel"]
 kind: "inscription"
 id: "KNWc26"
 site: "Knossos"
 support: "Roundel"
 period: ""
-translation: "none"
-words: ["RU-JA-TA-DI"]
+translation: "complete"
+words: ["NI-PI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -49,9 +49,28 @@ Unicode (Linear A block):
 𐘝𐘢
 ```
 
+## Translation
+
+**SPECULATIVE**, complete.
+
+> Ruya: fruit.
+
+| Word | Reading | Gloss | Confidence | Lexicon |
+|---|---|---|---|---|
+| [[wiki/linear-a/words/R/RU_JA\|RU-JA]] | Ruya | personal name, the receiver; Ugaritic PN rwy | SPECULATIVE |  |
+| [[wiki/linear-a/words/N/NI_PI\|NI-PI]] | nīb | fruit, the thing received | SPECULATIVE | SPECULATIVE (lexicon) |
+
+### Notes
+
+Face a RU-JA, face b NI-PI, one disc impression (GORILA II 85; CMS X 120). The Knossos findspot is queried.
+
+### Source
+
+- di Mino: RU-JA, NI-PI
+
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/R/RU_JA_TA_DI|RU-JA-TA-DI]].
+[[wiki/linear-a/words/N/NI_PI|NI-PI]].
 
 ## Corpus note
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2350_pudenda
 title: "*ʕawr-(at-) ~ *ʕVrw-(at-): 'pudenda'"
-desc: "Proto-Semitic *ʕawr-(at-) ~ *ʕVrw-(at-), 'pudenda': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ʕawr-(at-) ~ *ʕVrw-(at-), 'pudenda': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2350"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | ūru (urû) OAkk on \[AHw 1434\] | AHw 1434 | gloss withheld |
 | Hebrew | ʕärwā (HALOT 882) | HALOT 882 | gloss withheld |
 | Judaic Aramaic | ʿeryᵉtā (HALOT 882, 883) | HALOT 882, 883 | gloss withheld |
+| Biblical Aramaic | \*ʕarwā (HALOT BArm. s.v. עַרְוָה) | HALOT BArm. s.v. עַרְוָה | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

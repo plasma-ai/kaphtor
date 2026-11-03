@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MI_ZA_SE
 title: "MI-ZA-SE"
 desc: "mizza-se: for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "personnel"]
 kind: "word"
 form: "MI-ZA-SE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA |
 | Root | m-s-s |
 | Proto-Semitic | \*mass- (#S31) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel |
 | Semantic field | personnel |
 
 ### Note

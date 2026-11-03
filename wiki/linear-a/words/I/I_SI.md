@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_SI
 title: "I-SI"
 desc: "ʾiššê: fire offering(s). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "ritual"]
+tags: ["linear-a", "word", "tier-1", "noun", "ritual"]
 kind: "word"
 form: "I-SI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | fire offering(s) |
 | Root | ʾ-š-š |
 | Proto-Semitic | \*ʾišs- (#812) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-KH9 MI I-SI CYP+D ½ 2 (cyperus); PYRWc4 roundel TI (figs) I-SI. Hebrew ʾiššeh 'offering by fire' (HALOT 93). /i/-vocalized counterpart of A-SE ʾaššē; the two spellings do not share a site (A-SE: HT, ZA; I-SI: KH, PYR). One-consonant skeleton—reading rests on offering-commodity context alone.
+KH 9 MI / I-SI · CYP+D ½ 2, with cyperus; PYR Wc 4, a roundel, TI (figs) · I-SI. Hebrew ʾiššeh 'offering by fire' (HALOT 93), the rival of A-SE ʾāsē 'physician'; the two spellings share no site (A-SE: HT, ZA; I-SI: KH, PYR). Frankincense alone is an ʾiššeh (Lev 24:7), as cyperus is on KH 9. Weak point: one consonant. Two attestations. See A-SE.
 
 ### Cognates
 

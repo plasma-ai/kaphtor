@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3820_bowl_dish
 title: "*ṣaḥn- {} *ṣaḥl-: 'bowl, dish'"
-desc: "Proto-Semitic *ṣaḥn- {} *ṣaḥl-, 'bowl, dish': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ṣaḥn- {} *ṣaḥl-, 'bowl, dish': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3820"
@@ -30,14 +30,16 @@ updated: 2026-10-31T13:28:57Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ṣaḥn 'a great bowl, or drinking-cup' (Lane 1656) | Lane 1656 |  |
-| Geez | ṣāḥl (LGz. 552) | LGz. 552 | gloss withheld |
+| Geez | ṣāḥl (LGz. 552); ṣāḥel (HALOT 1027) | LGz. 552; HALOT 1027 | gloss withheld |
 | Tigre | ṣāḥal (LGz. 552); ṣaḥal (HALOT 1027) | LGz. 552; HALOT 1027 | gloss withheld |
 | Jibbali | ṣaḥalet (LGz. 552) | LGz. 552 | gloss withheld |
+| Hebrew | צַלַּחַת, pl. צֵלָחוֹת (HALOT 1027) | HALOT 1027 | gloss withheld |
+| Canaanite | zil(l)aḫda, gloss to Akk. saḫḫar(r)u (HALOT 1027) | HALOT 1027 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-HALOT 1027 sets Arb. ṣaḥn, Eth. ṣāḥel and Tigr. ṣaḥal beside Hebrew ṣallaḥat 'bowl', which it takes from Canaanite zil(l)aḫda, Akk. saḫḫar(r)u 'a small offering bowl'. LGz. 552 cites Arabic ṣaḥn after Barth. Not 314 \*ṭaš(š)- 'dish', 300 \*ḳadaḥ- 'pot, bowl' nor 2603 \*ṣlḥ 'be successful'.
+Hebrew and Canaanite set the l before the ḥ. LGz. 552 cites Arabic ṣaḥn after Barth.
 
 <!-- END kaphtor:record -->

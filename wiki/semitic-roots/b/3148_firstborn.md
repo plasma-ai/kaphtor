@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3148_firstborn
 title: "*bVkVr-: 'firstborn'"
-desc: "Proto-Semitic *bVkVr-, 'firstborn': reflexes in 17 language(s)."
+desc: "Proto-Semitic *bVkVr-, 'firstborn': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3148"
@@ -32,10 +32,11 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | bukru (CAD B 309, AHw. 137 apud SEDonline 503) | CAD B 309, AHw. 137; SEDonline 503 | gloss withheld |
 | Eblaitic | bù-ku₁₇-lu, bù-kà-lu, bù-kà-ru₁₂ /bukru(m)/ (VE 270; Krebernik 1983: 13 apud SEDonline 503) | VE 270; Krebernik 1983: 13; SEDonline 503 | gloss withheld |
 | Ugaritic | bkr (DULAT 217) | DULAT 217 | gloss withheld |
-| Phoenician | bkr (DNWSI 164 apud SEDonline 503) | DNWSI 164; SEDonline 503 | gloss withheld |
+| Phoenician | bkr (DNWSI 164) | DNWSI 164 | gloss withheld |
+| Punic | becor (Krahmalkov 101) | Krahmalkov 101 | gloss withheld |
 | Hebrew | bəkōr (HALOT 131 apud SEDonline 503) | HALOT 131; SEDonline 503 | gloss withheld |
 | Syrian Aramaic | bukrā (LSyr. 73, SL 126 apud SEDonline 503) | LSyr. 73, SL 126; SEDonline 503 | gloss withheld |
-| Mandaic Aramaic | bukra (MD 55 apud SEDonline 503) | MD 55; SEDonline 503 | gloss withheld |
+| Mandaic Aramaic | bukra (MD 55) | MD 55 | gloss withheld |
 | Arabic | bikr- (Lane 240 apud SEDonline 503) | Lane 240; SEDonline 503 | gloss withheld |
 | Epigraphic South Arabian | Sab bkr (SD 28 apud SEDonline 503; Sabaweb lemma 3933); Qat bkr (LIQ 26 apud SEDonline 503; Sabaweb lemma 3933) | SD 28; SEDonline 503; Sabaweb lemma 3933; LIQ 26 | gloss withheld |
 | Geez | bakʷr (CDG 94 apud SEDonline 503) | CDG 94; SEDonline 503 | gloss withheld |
@@ -46,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | bēkər (ML 46 apud SEDonline 503) | ML 46; SEDonline 503 | gloss withheld |
 | Judaic Aramaic | bukrā (HALOT 131) | HALOT 131 | gloss withheld |
 | Amorite | bakiru (Buck 2019, 325) | Buck 2019, 325 | gloss withheld |
+| Soqotri | bekir (LGz. 94) | LGz. 94 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

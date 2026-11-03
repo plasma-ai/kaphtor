@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RA_star314_RA
 title: "RA-*314-RA"
 desc: "Raḥil: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RA-*314-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra' |
 | Root | r-ḥ-l |
 | Proto-Semitic | \*raḫil- (#2267) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. raḥil 'ewe', Heb. rāḥēl 'ewe' (HALOT 1216) and the name Rachel (Gen 29:6); \*314 writes the ḥ, RA the final l as in KU-RO kull. Rivals: the commodity 'ewe'; Egyptian ḥr-rꜥ 'Horus-Ra' (Ranke I, 249.15; PNM v6), Horus first. One witness.
+HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. raḥil 'ewe', Heb. rāḥēl 'ewe' (HALOT 1216) and the name Rachel (Gen 29:6); \*314 writes the ḥ, RA the final l as in KU-RO kull. Rivals: the commodity 'ewe'; Egyptian ḥr-rꜥ 'Horus-Ra' (Ranke I, 249.15; PNM v6, personal_names_id 142609473), Horus first. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT Wc 3006, a roundel: WA-O-MI / RA-\*314-RA, no logogram. raḥil 'ewe', Heb. r
 
 ### Source
 
-di Mino; HALOT 1216
+di Mino; HALOT; Ranke; Ilin-Tomich 2025
 
 ## Attestations
 

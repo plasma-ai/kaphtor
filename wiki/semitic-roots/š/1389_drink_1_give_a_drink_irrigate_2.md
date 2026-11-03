@@ -31,12 +31,12 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sqy 1, 2; saqā; sāqī; siqāya |  | gloss withheld |
-| Akkadian | šaqû 2 (CAD Š/2 24); mašqītu (CAD M/1 382); šiḳītum (CAD Š/3 95 apud Kogan 2025, 9) | CAD Š/2 24; CAD M/1 382; CAD Š/3 95; Kogan 2025, 9 | gloss withheld |
+| Akkadian | šaqû 2 (CAD Š/2 24; AHw 1181); mašqītu (CAD M/1 382); šiḳītum (CAD Š/3 95 apud Kogan 2025, 9) | CAD Š/2 24; AHw 1181; CAD M/1 382; CAD Š/3 95; Kogan 2025, 9 | gloss withheld |
 | Ugaritic | šqy, Š 2 (DULAT 827) | DULAT 827 | gloss withheld |
 | Jibbali | šeḳe 2 |  |  |
 | Hebrew | šqh 2; hišqā (Hiphil); mašqe |  | gloss withheld |
 | Judaic Aramaic | ʾašqī (HALOT 1639) | HALOT 1639 |  |
-| Aramaic | šqyʾ, hšqyʾ, CPArm. šqʾ (HALOT 1639) | HALOT 1639 |  |
+| Aramaic | šqyʾ, hšqyʾ, CPArm. šqʾ (HALOT 1639); šqʔ (DNWSI 1186) | HALOT 1639; DNWSI 1186 | gloss withheld |
 | Geez | saqaya (HALOT 1639) | HALOT 1639 |  |
 | Syrian Aramaic | ʾašqī (HALOT 1639) | HALOT 1639 |  |
 | Mandaic Aramaic | ŠQA (HALOT 1639) | HALOT 1639 |  |
@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | héṣ̌e (Kogan 2011, 239); ʸháṣ̌e (SLOnline 7250) | Kogan 2011 239; SLOnline 7250 | gloss withheld |
 | Amorite | š-q-y (George and Krebernik 2022, 156) | George and Krebernik 2022 156 | gloss withheld |
 | Epigraphic South Arabian | Sab s1qy, ms1tqy (SD 128; Sabaweb lemma 1827); s1qy (Sabaweb lemma 1832), t-stem (Sabaweb lemma 2237) | SD 128; Sabaweb lemma 1827; Sabaweb lemma 1832; Sabaweb lemma 2237 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic sqy (Al-Jallad–Jaworska 123) | Al-Jallad–Jaworska 123 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sqy (Al-Jallad–Jaworska 123); Hismaic sqy (Al-Jallad 2026, 135) | Al-Jallad–Jaworska 123; Al-Jallad 2026 135 | gloss withheld |
 | Gurage | säč̣ä (EDG 534 apud SEDonline 9) | EDG 534; SEDonline 9 | gloss withheld |
 | Eblaitic | si-gu-dam /šiḳūtum/ (ARET 16, 1 rev. VIII 5–11); si-gi-da-am₆-ma /šiḳītum/ (ARET 16, 2 rev. IV 4 – V 1) (Kogan 2025, 8–9) | ARET 16, 1 rev. VIII 5–11; ARET 16, 2 rev. IV 4 – V 1; Kogan 2025, 8–9 | gloss withheld |
 

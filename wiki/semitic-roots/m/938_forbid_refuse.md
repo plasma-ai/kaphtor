@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/938_forbid_refuse
 title: "*mVnaʕ-: 'forbid, refuse'"
-desc: "Proto-Semitic *mVnaʕ-, 'forbid, refuse': reflexes in 4 language(s)."
+desc: "Proto-Semitic *mVnaʕ-, 'forbid, refuse': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "938"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic mnʿ (Al-Jallad 2026, 92) | Al-Jallad 2026 92 | gloss withheld |
 | Arabic | mnʕ a,1 (Lane 3024) | Lane 3024 |  |
 | Epigraphic South Arabian | Sab mnʿ (SD 86 apud SEDonline 1190; Sabaweb lemma 4553); Min mnʿ (ML 61 apud SEDonline 1190) | SD 86; SEDonline 1190; Sabaweb lemma 4553; ML 61 | gloss withheld |
 | Hebrew | mnʕ (HALOT 602 apud SEDonline 1190) | HALOT 602; SEDonline 1190 | gloss withheld |

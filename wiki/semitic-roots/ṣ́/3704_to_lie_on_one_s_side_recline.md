@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/3704_to_lie_on_one_s_side_recline
 title: "*ṣ̂gʕ: 'to lie on one's side, recline'"
-desc: "Proto-Semitic *ṣ̂gʕ, 'to lie on one's side, recline': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ṣ̂gʕ, 'to lie on one's side, recline': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3704"
@@ -33,6 +33,7 @@ updated: 2026-10-27T22:12:55Z
 | Geez | ḍagʿa; taḍāgəʿa; ḍəgʿ, ḍəgāʿ; məḍgāʿ (LGz. 148) | LGz. 148 | gloss withheld |
 | Tigre | ṣäggəʿa; čängəʿa (LGz. 149) | LGz. 149 | gloss withheld |
 | Tigrinya | täṣäggəʿe (LGz. 149) | LGz. 149 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mḍgʿ (Al-Jallad–Jaworska 95) | Al-Jallad–Jaworska 95 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

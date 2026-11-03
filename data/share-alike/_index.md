@@ -1,7 +1,7 @@
 ---
 name: data/share-alike
 title: Share-alike data
-desc: Datasets under CC BY-SA terms, kept apart from the CC BY 4.0 data.
+desc: The ORAEC/TLA Egyptian documents, the TLA v18 names and the Trismegistos places, under CC BY-SA 4.0.
 tags: [data, share-alike]
 created: 2026-10-22T18:14:10Z
 updated: 2026-10-27T17:22:41Z
@@ -19,4 +19,5 @@ updated: 2026-10-27T17:22:41Z
 
 ***
 
-Anything derived from these files carries the same share-alike terms.
+Anything derived from these files carries the same share-alike terms. The Syriac lexicon in `data/contact/` and the
+Egyptian and Luwian rival-root keys in `data/linear-a/` also carry CC BY-SA 4.0, named in their datasheets.

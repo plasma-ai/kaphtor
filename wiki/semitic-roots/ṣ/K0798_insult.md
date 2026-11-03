@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣelû 'insult' | Anderson–Moser 2024 root ṣlʾ |  |
+| Akkadian | ṣelû (AHw 1090) | AHw 1090; Anderson–Moser 2024 root ṣlʾ | gloss withheld |
 | Geez | ṣalʾa 'hate' (Dillmann 09154) | Dillmann 09154; Anderson–Moser 2024 root ṣlʾ |  |
 | Tigre | ṣälʾa (LGz. 554) | LGz. 554 | gloss withheld |
 | Tigrinya | ṣälʾe (LGz. 554) | LGz. 554 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/AU_RE_TE
 title: "AU-RE-TE"
 desc: "ʾawrēt: luminous one (feminine). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "AU-RE-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | luminous one (feminine) |
 | Root | ʾ-w-r |
 | Proto-Semitic | \*ʾVr- (#1462) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-From √ʾ-w-r 'to shine, be light' (Hebrew ʾōr &lt; \*ʾawr 'light') + feminine -ēt ending. Personal name or epithet on a Khania cyperus distribution tablet. \|\| 'Feminine' rests on the name slot: -t also forms abstracts and unit nouns (Fischer 2002, §64), so ʾawrēt may equally be 'light'. See U-RE-WI.
+KH 6, a Khania cyperus distribution tablet: a personal name or epithet. √ʾ-w-r 'to shine, be light', Heb. ʾōr &lt; \*ʾawr 'light', with feminine -ēt. Rival: -t also forms abstracts and unit nouns (Fischer 2002, §64), so ʾawrēt is 'light' itself, and the feminine rests on the name slot alone. See U-RE-WI.
 
 ### Cognates
 
@@ -60,14 +60,20 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | ʾawrēt | luminous one (f.); \*306 1 | PROBABLE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | DAl. ḥnyṣ (SED II 149) | SED II 149 | gloss withheld |
 | Syrian Aramaic | ḥannūṣā, ḥənayṣā (SED II 149) | SED II 149 | gloss withheld |
 | Arabic | ḫinnawṣ-; ḫirnawṣ- (SED II 149) | SED II 149 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḫnṣ (Al-Jallad–Jaworska 81) | Al-Jallad–Jaworska 81 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫnṣ (Al-Jallad–Jaworska 81); ḫnyṣ (Al-Jallad 2026, 67) | Al-Jallad–Jaworska 81; Al-Jallad 2026 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

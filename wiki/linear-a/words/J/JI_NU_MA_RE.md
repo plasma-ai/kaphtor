@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JI_NU_MA_RE
 title: "JI-NU-MA-RE"
 desc: "yinumare: wine-lords, wine-stewards (personnel category). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personnel"]
+tags: ["linear-a", "word", "tier-2", "beverage", "compound", "noun", "occupation", "personnel"]
 kind: "word"
 form: "JI-NU-MA-RE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | wine-lords, wine-stewards (personnel category) |
 | Root | y-y-n + m-r |
 | Proto-Semitic | \*wayn- (#K0457) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | beverage, compound, noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-Compound: yīnu (wine, √y-y-n) + mārē (lords/sons, √m-r-y). Appears exclusively on wine distribution tablets at Zakros (3× with quantities 6, 13, 20). Functions as a personnel category label alongside personal names and SI-PI-KI 'pressings'. Wine-steward officials who administer palace wine allocations. The main support for \*28B = JI, a proposed value; WE (wēnu-mārē, wēnu &lt; \*wayn) reads the word as well as JI. Negri (SMEA 43/1, 2001, 82) assigns i-nu-ma-re to personal names, from its recurring slot beside SI-PI-KI. See VIN.
+ZA 4a \*28B-NU-MA-RE 13, ZA 5b \*28B-NU-MA-RE 20, ZA 15a \*28B-NU-MA-RE 6, each followed by SI-PI-KI 'pourings' on the Zakros wine tablets, among personal names: a personnel category, the stewards who administer the palace wine. A compound of yīnu 'wine', √y-y-n (Heb. yayin, HALOT 409; Ug. yn, DULAT 954), and mārē 'lords, sons', √m-r-y, cf. Aramaic mrʾ 'lord, master' (DNWSI 682); \*28B writes ji, a proposed value, and WE reads the word as well, wēnu-mārē, wēnu &lt; \*wayn. Rival: a personal name, from its recurring slot beside SI-PI-KI (Negri, SMEA 43/1, 2001, 82). Three attestations. See VIN.
 
 ### Cognates
 

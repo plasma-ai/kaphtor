@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/869_stone
 title: "*ʾab(V)n-: 'stone'"
-desc: "Proto-Semitic *ʾab(V)n-, 'stone': reflexes in 19 language(s)."
+desc: "Proto-Semitic *ʾab(V)n-, 'stone': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "869"
@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʔoben; óˀoben, óben (SLOnline 3023) | SLOnline 3023 | gloss withheld |
 | Akkadian | abnu (Kogan 2015, ch. 1 §1.3 no. 81) | Kogan 2015 ch. 1 §1.3 no. 81 |  |
 | Tigre | ʔǝbn |  |  |
-| Mandaic Aramaic | abn- (Drower/Macuch 4b apud CAL) | Macuch 4b; CAL |  |
+| Mandaic Aramaic | abna (MD 4) | MD 4 |  |
 | Ugaritic | ʔabn (Kogan 2015, ch. 5 §2.2.1 no. 81) | Kogan 2015 ch. 5 §2.2.1 no. 81 |  |
 | Geez | ʔǝbn (Kogan 2015, ch. 1 §1.3 no. 81) | Kogan 2015 ch. 1 §1.3 no. 81 |  |
 | Phoenician | ʔbn (T 2) | T 2 | gloss withheld |
@@ -42,13 +42,14 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ʔbn (Sabaweb lemma 3455); Qat. ʔbn (Ricks 1982 s.v. ʔbnm) | Sabaweb lemma 3455; Ricks 1982 s.v. ʔbnm | gloss withheld |
 | Harari | un (Kogan 2015, ch. 7 §2.2 no. 81) | Kogan 2015 ch. 7 §2.2 no. 81 |  |
 | Syrian Aramaic | ʔabn- Br 2 Js 65:3, 1 Petr 2:27 |  | gloss withheld |
-| Aramaic | (Emp) ʔbn (DNWSI 6 apud CAL) | DNWSI 6; CAL |  |
+| Aramaic | (Emp) ʔbn (DNWSI 6) | DNWSI 6 |  |
 | Tigrinya | ʔǝmni (Kogan 2015, ch. 7 §2.2 no. 81) | Kogan 2015 ch. 7 §2.2 no. 81 |  |
 | Gurage | əmən (LGz. 4) | LGz. 4 |  |
 | Amorite | ʾabnum (Gelb AS 21, 13); ʾabn: (ḫa-)ab-nV=, =ab-nV (Sanmartín GlOS 1, 5) | Gelb AS 21 13; Sanmartín GlOS 1, 5 | gloss withheld |
 | Punic | ʾbn, hbn, ʿbn (T 2) | T 2 | gloss withheld |
 | Judaic Aramaic | ʾabnaʾ (T 2) | T 2 |  |
 | Eblaitic | /ʾabn/: name ab-na-an (Sanmartín GlOS 1, 5) | Sanmartín GlOS 1, 5 | gloss withheld |
+| Biblical Aramaic | ʔeben (HALOT 7–8) | HALOT 7–8 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

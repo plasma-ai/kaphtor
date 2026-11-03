@@ -45,16 +45,19 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star401_plus_RU\|\*401+RU]] |  | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | PROBABLE |
 | [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RU_DA_RA\|A-RU-DA-RA]] | Arum-adal | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RU_RA\|A-RU-RA]] | ʾArura | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_RU_star329\|DA-RU-\*329]] | Dārum | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_RU_NE_TE\|DA-RU-NE-TE]] | Dāru-ʿAnēt | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI_DE_RU\|DI-DE-RU]] | ʾaddīru | PROBABLE |
 | [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] | ḏu-luwwī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_RU_MA_NE\|JA-RU-MA-NE]] | Yarīmān | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RU\|KA-RU]] | karru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_SA_RU\|KA-SA-RU]] | Qaṣṣāru | CANDIDATE |
-| [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kakkaru | SPECULATIVE |
+| [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kikkaru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RU\|KI-RU]] | kirru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_RU_KU\|KU-RU-KU]] | kurkū | CANDIDATE |
@@ -73,7 +76,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RU_KA\|RU-KA]] | ruqāq | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA\|RU-MA]] | Rūma | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
-| [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |
+| [[wiki/linear-a/words/R/RU_PI\|RU-PI]] | rōpiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_SA\|RU-SA]] | Rusa | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] | rāzin(a) | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | CANDIDATE |

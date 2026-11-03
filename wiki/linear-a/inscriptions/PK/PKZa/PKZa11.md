@@ -57,15 +57,15 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> I, Pitrī the priest, make myself a dwelling—O Dikte, Mistress of the Dubur—in righteousness. So, behold, may you gather! In the presence of song… \[…\] …Behold, he opens (his eyes)!
+> I, Pitrī the priest, make myself a dwelling—O Diktaean of the Sanctuary—in righteousness. So, behold, may you gather! In the presence of song… \[…\] …Behold, he opens (his eyes)!
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
-| A-DI-KI-TE-TE-\[DU-PU₂\]-RE | ʾa-Diqqite de \[dubu\]re | O Dikte, she of the Dubur | CANDIDATE |  |
+| A-DI-KI-TE-TE-\[DU-PU₂\]-RE | ʾa-Diqqitīt \[dubu\]r | O Diktaean of the Sanctuary | CANDIDATE |  |
 | [[wiki/linear-a/words/P/PI_TE_RI\|PI-TE-RI]] | piṭrī | Pitrī/Puṭrī (personal name) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhēn | the priest (proposed title) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | uprightly, in righteousness (cf. IO Za 2) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhan | the priest (proposed title) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | in righteousness (cf. IO Za 2) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | so, behold, may you gather! | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/I/I_PI_NA_MI_NA\|I-PI-NA-MI-NA]] | ʾippina=mi=na | in the presence of | CANDIDATE | CANDIDATE (lexicon) |
 | SI-RU-\[?\] | šīrū | song | PROBABLE |  |
@@ -86,6 +86,6 @@ Context: Peak sanctuary libation formula—longest liturgical inscription (11 wo
 
 ## Corpus note
 
-GORILA IV 34: side a ends A-DI-KI-TE-TE-\[·\], side b opens \[·\]-RE (RE dotted), one word round the corner = A-DI-KI-TE-TE-\[DU-PU₂\]-RE (PKZa15, PKZa8); no dividers there. GORILA: last sign of side a could at a pinch be another sign. Side d SI-RU-\[·\], one lost sign (SI-RU-DU not excluded). Side b PI-TE-RI: the third sign is a loop on a long stroke, with neither ZA's crossbar nor RI's foot (GORILA dots RI); no divider after TE.
+GORILA IV 34: side a ends A-DI-KI-TE-TE-\[·\], side b opens \[·\]-RE (RE dotted), one group round the corner with no divider, restored A-DI-KI-TE-TE-\[DU-PU₂\]-RE from PK Za 15 JA-DI-KI-TE-TE-DU-PU₂-RE and PK Za 8 JA-DI-KI-TE-TE-\*307-PU₂-RE, as IO Za 2 restores ME and U-NA-KA-NA from the formula (GORILA V 19). GORILA allows KỤ, Ụ or DỤ for the last sign of side a. Side d SI-RU-\[·\], one lost sign (SI-RU-DU not excluded). Side b PI-TE-RI: the third sign is a loop on a long stroke, with neither ZA's crossbar nor RI's foot (GORILA dots RI); no divider after TE.
 
 <!-- END kaphtor:record -->

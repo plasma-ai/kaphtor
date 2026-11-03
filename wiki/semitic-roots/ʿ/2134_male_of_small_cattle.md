@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2134_male_of_small_cattle
 title: "*ʕat(t)ūd-: 'male of small cattle'"
-desc: "Proto-Semitic *ʕat(t)ūd-, 'male of small cattle': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕat(t)ūd-, 'male of small cattle': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2134"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕatūd- 'very young but strong billy goat' \[BK 2 162\], \[Fr. III 103\], \[Lane 1945\], \[LA III 280\]. | BK 2 162; Fr. III 103; Lane 1945; LA III 280 |  |
 | Akkadian | atūdu (etūdu, dūdu) OA, MB, SB \[CAD a2 521\], \[AHw. 88\] | CAD a2 521; AHw. 88 | gloss withheld |
 | Hebrew | ʕattūd (HALOT 902), pB. \[Ja. 1129\] | HALOT 902; Ja. 1129 | gloss withheld |
+| Emar | ʿatūd: names a-tu-dá, a-tu-ud-da (Sanmartín GlOS 1, 93) | Sanmartín GlOS 1, 93 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

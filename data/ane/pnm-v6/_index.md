@@ -19,5 +19,5 @@ updated: 2026-10-22T18:14:10Z
 ***
 
 Coverage: Mentuhotep II through Amenhotep III. PNM primary keys and relationship tables are kept as published. The
-enriched attestation view (`attestations_enriched.jsonl`, 101 MB) is derivative and is rebuilt from the tables, so it
-is not stored here.
+enriched attestation view (`attestations_enriched.jsonl`) is not stored here, and no tool in this repository builds
+it; `query_proper_names.py --source pnm` therefore needs `--layer name_forms` or `--layer persons`.

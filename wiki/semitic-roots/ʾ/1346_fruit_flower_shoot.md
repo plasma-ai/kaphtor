@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1346_fruit_flower_shoot
 title: "*ʾanbab-: 'fruit, flower, shoot'"
-desc: "Proto-Semitic *ʾanbab-, 'fruit, flower, shoot': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ʾanbab-, 'fruit, flower, shoot': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1346"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | abäba |  | gloss withheld |
 | Tigrinya | (?) ʕǝmbaba (n.), ḥanbäbä (v.) |  | gloss withheld |
 | Ugaritic | ʾib (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
+| Punic | αβιβ, in αβιβ λαβον (Krahmalkov 28) | Krahmalkov 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

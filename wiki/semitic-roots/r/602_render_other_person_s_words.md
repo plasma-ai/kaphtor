@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/602_render_other_person_s_words
 title: "*rVwVy-: 'render other person's words'"
-desc: "Proto-Semitic *rVwVy-, 'render other person's words': reflexes in 1 language(s)."
+desc: "Proto-Semitic *rVwVy-, 'render other person's words': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "602"
@@ -30,8 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Sab rwthmy (Biella 482) | Biella 482 | gloss withheld |
 | Arabic | rwy \[-i-\] |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Biella 482 compares Arabic rawâ 'report, inform', riwāyat 'report'.
 
 <!-- END kaphtor:record -->

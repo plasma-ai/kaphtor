@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star324_DI_RA
 title: "*324-DI-RA"
 desc: "sōdir: one who sets in order (title or name). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "noun", "title"]
 kind: "word"
 form: "*324-DI-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | one who sets in order (title or name) |
 | Root | s-d-r |
 | Proto-Semitic | \*sadār- (#K0390) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | noun, title |
 | Semantic field | personnel |
 
 ### Note
 
-A recipient in the HT 9a/9b wine lists under SA-RO · TE · VIN (2½, 2) and on HT 122a (1), one roster in three copies, among names and titles. \*324 = SO: Linear A has no other SO sign, and LA 324 may be a Haghia Triada variant of LA 363/364 (Ferrara, Montecchi & Valério 2022, 88), compared with Linear B so (ibid. 98). SO-DI-RA = sōdir, active participle of s-d-r with ō for older ā and DI for d: Akk. sadāru 'to array, set in a row' (CAD S 11); Heb. śĕdērôt 'ranks' (2 Kgs 11:8, 15). SI-DA-RE stands on the same HT 122a roster. Rivals: šōṭēr 'officer' (√š-ṭ-r; Exod 5:6–19), which needs DI for ṭ; ʾaddīr 'noble' (Ug. yn (…) l ádrm 'wine (…) for the nobles', KTU 4.246:7, DULAT 21; Ebla a-ti-ir 'powerful', a name, Pagan 1998, row 845), which needs \*324 for ʾa, a value plain A already writes. See SI-DA-RO.
+A recipient in the HT 9a/9b wine lists under SA-RO · TE · VIN (2½, 2) and on HT 122a (1), one roster in three copies, among names and titles. \*324 = SO: Linear A has no other SO sign, and Ferrara, Montecchi and Valério set LA 324 beside LA 363/364 as a Haghia Triada variant (2022, 88), compared with Linear B so (ibid. 98). SO-DI-RA = sōdir, active participle of s-d-r with ō for older ā and DI for d: Akk. sadāru 'to array, set in a row' (CAD S 11); Heb. śĕdērôt 'ranks' (2 Kgs 11:8, 15). SI-DA-RE stands on the same HT 122a roster. Rivals: šōṭēr 'officer' (√š-ṭ-r; Exod 5:6–19), which needs DI for ṭ; ʾaddīr 'noble' (Ug. yn (…) l ádrm 'wine (…) for the nobles', KTU 4.246:7, DULAT 21; Ebla a-ti-ir 'powerful', a name, Pagan 1998, row 845), which needs \*324 for ʾa, a value plain A already writes. See SI-DA-RO.
 
 ### Cognates
 

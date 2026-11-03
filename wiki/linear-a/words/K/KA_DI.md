@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_DI
 title: "KA-DI"
 desc: "kadd: jar, jug (liquid container). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vessel"]
+tags: ["linear-a", "word", "tier-3", "noun", "vessel"]
 kind: "word"
 form: "KA-DI"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | jar, jug (liquid container) |
 | Root | k-d-d |
 | Proto-Semitic | \*kad- (#319) |
-| Language layer | NWS |
-| Category | vessel |
+| Language layer | Semitic |
+| Tags | noun, vessel |
 | Semantic field | vessel |
 
 ### Note
@@ -50,10 +50,11 @@ ZA 15b: KA-DI · VIN 3, then KU-RO VIN 78. ZA 4a: KA-DI 3, the last entry of the
 | Ugaritic | kd "jar; measure of capacity for liquids" (DULAT 424); syll. DUG ka-du-ma 'jars' (GlOS 1, 301) |
 | Hebrew | kad כַּד "jar, pitcher" (Gen 24:14) |
 | Akkadian | kandu "a container of earthenware or silver, mainly for wine", NB, West Semitic word (CAD K 148) |
+| Greek | κάδος 'jug, pitcher', Lat. cadus, borrowed from Semitic kd, chiefly for wine (Rendsburg 2026, 213) |
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; GlOS 1; Rendsburg 2026
 
 ## Attestations
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | taraḫḫu |  |  |
+| Akkadian | taraḫḫu (AHw 1324) | AHw 1324 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

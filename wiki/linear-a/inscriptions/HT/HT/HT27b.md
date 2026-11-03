@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["SI", "VIN"]
+words: ["PA-SE", "SI", "VIN"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\]MI-DA · wine (\*592) · SA 7. \[…\]Wine · grain · SA 1, RE 14. Wine · SI · \[…\]. \[…\] PA-SE · wine (\*591) · SA 4, RE 70\[…\]. \[…\]Wine, grain · SA 4, RE \[…\]40.
+> \[…\]MI-DA · wine (\*592) · SA 7. \[…\]Wine · grain · SA 1, RE 14. Wine · SI · \[…\]. \[…\] Pašše · wine (\*591) · SA 4, RE 70\[…\]. \[…\]Wine, grain · SA 4, RE \[…\]40.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/R/RE\|RE]] |  | transaction sign, paired with SA |  | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/S/SI\|SI]] |  | unresolved |  | PROBABLE (lexicon) |
 | \*591 |  | wine composite | PROBABLE |  |
-| [[wiki/linear-a/words/P/PA_SE\|PA-SE]] |  | heading |  | unread |
+| [[wiki/linear-a/words/P/PA_SE\|PA-SE]] | Pašše | Pašše (personal name; Hurrian pašš- 'send'), section holder | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
 
@@ -94,7 +94,7 @@ Two sections, headed by MI-DA and PA-SE. Each line names a commodity and then SA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/S/SI|SI]], [[wiki/linear-a/words/V/VIN|VIN]].
+[[wiki/linear-a/words/P/PA_SE|PA-SE]], [[wiki/linear-a/words/S/SI|SI]], [[wiki/linear-a/words/V/VIN|VIN]].
 
 ## Corpus note
 

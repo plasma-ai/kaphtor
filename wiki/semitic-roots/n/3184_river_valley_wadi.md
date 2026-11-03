@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3184_river_valley_wadi
 title: "*naḫl-: 'river valley, wadi'"
-desc: "Proto-Semitic *naḫl-, 'river valley, wadi': reflexes in 5 language(s)."
+desc: "Proto-Semitic *naḫl-, 'river valley, wadi': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3184"
@@ -29,11 +29,13 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic nḫl; ʾnḫl; ʾḫl (Al-Jallad 2026, 102) | Al-Jallad 2026 102 | gloss withheld |
 | Akkadian | naḫallu, naḫlu (Kogan 2011, 191) | Kogan 2011 191 |  |
 | Ugaritic | nḫl (Kogan 2011, 191) | Kogan 2011 191 |  |
 | Hebrew | naḥal (Kogan 2011, 191) | Kogan 2011 191 |  |
 | Syrian Aramaic | naḥlā (Kogan 2011, 191) | Kogan 2011 191 |  |
 | Emar | na-aḫ-li /naḫlu/ (Pentiuc 2001, 129) | Pentiuc 2001 129 | gloss withheld |
+| Canaanite | EG SYLL n=ḫ=-r, n=ḫ=-r=ya=na, n=ḫ=ra /\*naḫla/ (Hoch 193) | Hoch 193 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

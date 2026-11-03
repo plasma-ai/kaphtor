@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ydd |  |  |
 | Amorite | jdd: jadīdum, jadīda, mūdadum (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
 | Syrian Aramaic | yaded 'love' (Payne Smith 186) | Payne Smith 186 |  |
-| Pre-Islamic North Arabian | Safaitic wd (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wd (Al-Jallad–Jaworska 147); mwd, wdt; wdd; wdt; Dadanitic wdd; wd; Hismaic wdd, wd; Dumaitic wdd; Thamudic C wdd; wdd; Thamudic D wdd, wd; Thamudic wd; Dhofari wd (Al-Jallad 2026, 163) | Al-Jallad–Jaworska 147; Al-Jallad 2026 163 | gloss withheld |
 | Harari | wädäda (v.) \[LHar 157\] | LHar 157 | gloss withheld |
 | Epigraphic South Arabian | Sab wdd (Biella 121) (Sabaweb lemma 5349); Qat. wdm (Ricks 1982 s.v. wdm) | Biella 121; Sabaweb lemma 5349; Ricks 1982 s.v. wdm | gloss withheld |
 | Aramaic | OArm. mwdd (HALOT 388) | HALOT 388 |  |

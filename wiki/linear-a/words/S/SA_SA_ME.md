@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_SA_ME
 title: "SA-SA-ME"
 desc: "šašamā: sesame (seed-spice commodity). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "aromatic", "commodity", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "SA-SA-ME"
 datasets: ["lexicon"]
@@ -35,26 +35,26 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | sesame (seed-spice commodity) |
 | Root | š-š-m |
 | Proto-Semitic | \*sim-sim- (#762) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | aromatic, commodity, foodstuff, hapax, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Hapax on HT23a aromatics ledger (CYP, OLE+NE/TU/RI oil sub-types, VIN) measured at fraction K, as \*21F-RI-TU-QA, consistent with seed-spice. The second SA is dotted, and GORILA I 41 records SA \[units\] ME as a less satisfactory reading. Reduplicated s-s-m skeleton matches the Semitic etymon sign-for-sign; absent final -n regular (mimation/nunation drop). LB comparandum sits in the same commodity class beside ku-mi-no (cumin — LA KU-MI-NA already PROBABLE) and ko-ri-ja-do-no (coriander) on the Ge spice tablets. A hapax: context, structure and the triple external chain converge.
+HT 23a, a ledger of cyperus, oils and wine: SA-SA-ME ¹⁄₁₆, after \*21F-RI-TU-QA ¹⁄₁₆. The second SA is dotted, and GORILA I 41 records SA \[units\] ME as a less satisfactory reading. šašam- 'sesame', the reduplicated š-š-m: Akk. šamaššammū (CAD Š/1 301), Ug. ššmn 'sesame' with the afformative -n (DULAT 834), Linear B sa-sa-ma σάσαμα on the Mycenae Ge tablets of aromatic plants, beside ku-mi-no 'cumin' (DMic II 284), as KU-MI-NA stands in Linear A. Rival: flax and its seed, CAD's sense of šamaššammū, 'the principal oleiferous plant, probably flax' (CAD Š/1 301). One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | ššmn 'sesame' |
-| Akkadian | šamaššammū 'sesame' |
+| Akkadian | šamaššammū (šamšamū) 'the principal oleiferous plant and its seed' (CAD Š/1 301) |
 | Linear B | sa-sa-ma (MY Ge 602, Mycenae spice series) |
 | Greek | σήσαμον (sēsamon) |
 
 ### Source
 
-di Mino
+di Mino; GORILA I; CAD Š/1; DULAT; DMic II
 
 ## Attestations
 

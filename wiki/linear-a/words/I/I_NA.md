@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_NA
 title: "I-NA"
 desc: "hinna: behold! (presentative particle). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+tags: ["linear-a", "word", "tier-2", "libation_formula", "particle", "ritual"]
 kind: "word"
 form: "I-NA"
 datasets: ["lexicon"]
@@ -35,21 +35,22 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | behold! (presentative particle) |
 | Root | h-n-n |
 | Proto-Semitic | \*hn (#3482) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | libation_formula, particle, ritual |
 | Semantic field | particle |
 
 ### Note
 
-Proposed presentative hinna 'behold!' (Hebrew hinnēh/hēn; Ugaritic hn), the bare counterpart of U-NA = u=hinna. It is proposed in PKZa11 I-NA-JA-PA-QA and may occur in APZa2. Akkadian ina 'when, in' remains an alternative in suitable contexts. IOZa6 is not an attestation: its complete middle group reads ʿInatī ṯudī-šiqā, with initial hinna a rival segmentation. See I-NA-JA-RE-TA.
+PK Za 11 I-NA-JA-PA-QA, the close of the prayer, and AP Za 2 I-NA-JA-RE-TA\[: hinna 'behold!', the bare counterpart of U-NA u=hinna, written as one word with what it presents. Heb. hēn, hinnē 'behold' (HALOT 251–252), Ug. hn 'behold!; here' (DULAT 337). Rival: Akk. ina 'in, when', in suitable contexts. Two attestations. See I-NA-JA-PA-QA and I-NA-JA-RE-TA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | hinnēh (הִנֵּה) "behold"; hēn (הֵן) "behold" |
-| Ugaritic | hn "behold!" (CUC) |
+| Hebrew | hinnēh (הִנֵּה) 'behold' (HALOT 252); hēn (הֵן) 'behold' (HALOT 251) |
+| Ugaritic | hn 'behold!' (DULAT 337) |
 | Eblaite | i-na, in-na, en-ma 'behold' (GlOS 1, 218) |
-| Arabic | ʾinna (إنّ) "indeed, behold" (later form, ʾ for h) |
+| Arabic | ʾinna (إنّ) 'look' (HALOT 251) |
 
 ### Source
 
@@ -60,6 +61,6 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa11\|PKZa11]] | Palaikastro | Stone vessel | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/AP/APZa/APZa2\|APZa2]] | Apodoulou | Serpentine cylindrical jar; HM 2479 + HM 2480 | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/AP/APZa/APZa2\|APZa2]] | Apodoulou | Serpentine cylindrical jar; HM 2479 + HM 2480 | incomplete; restored |
 
 <!-- END kaphtor:record -->

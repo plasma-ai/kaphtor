@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | dǝbaš (HALOT 212) | HALOT 212 | gloss withheld |
 | Epigraphic South Arabian | Sab dbs (Biella 80; Sabaweb lemma 3073) | Biella 80; Sabaweb lemma 3073 | gloss withheld |
 | Syrian Aramaic | debšā (HALOT 212; Payne Smith 83) | HALOT 212; Payne Smith 83 |  |
-| Aramaic | dūḇəšā (LGz. 122; DNWSI 240 apud CAL) | LGz. 122; DNWSI 240; CAL |  |
-| Mandaic Aramaic | dubša (LGz. 122; Drower/Macuch 103b apud CAL) | LGz. 122; Macuch 103b; CAL |  |
+| Aramaic | dūḇəšā (LGz. 122; DNWSI 240) | LGz. 122; DNWSI 240 |  |
+| Mandaic Aramaic | dubša (LGz. 122; MD 103) | LGz. 122; MD 103 |  |
 | Gafat | dəbsä (LGz. 122) | LGz. 122 |  |
 | Harari | dūs (LGz. 122) | LGz. 122 |  |
 | Tigrinya | däbäsä (LGz. 122) | LGz. 122 | gloss withheld |

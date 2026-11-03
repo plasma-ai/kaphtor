@@ -53,39 +53,41 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]] | naura | CANDIDATE |
 | [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | sōdir | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_MA_RA_NE\|A-MA-RA-NE]] | ʾAmarānu | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | CANDIDATE |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_JU\|A-RA-JU]] | ʾArāyu | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU\|A-RA-TU]] | ʾarṣ̂atu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_TU_ME\|A-RA-TU-ME]] | ʾarṣ̂atum | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RU_DA_RA\|A-RU-DA-RA]] | Arum-adal | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RU_RA\|A-RU-RA]] | ʾArura | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | CONFIRMED |
 | [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯrat | CANDIDATE |
-| [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | diḳaru | CANDIDATE |
+| [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | CANDIDATE |
+| [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]] | Dašurat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_TA_RA\|DA-TA-RA]] | Daṯar | SPECULATIVE |
-| [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durar | PROBABLE |
+| [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durār | PROBABLE |
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | ʾī-Mīšaru | PROBABLE |
+| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | PROBABLE |
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_PA_RA\|JA-PA-RA]] | yapʾara | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_PA_RA_JA_SE\|JA-PA-RA-JA-SE]] | yapʾara yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_RA\|JA-RA]] | Yaraḫ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_SA_RA\|JA-SA-RA]] | yašara | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA\|JA-SA-SA-RA]] | yaššar- | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA\|JA-SA-SA-RA-MA-NA]] | yašaram=na | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA\|JA-SA-SA-RA-MA-NA]] | yaššaram=na | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SA_SA_RA_ME\|JA-SA-SA-RA-ME]] | yaššaram | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]] | kikkarāya | SPECULATIVE |
-| [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû/qīra | CANDIDATE |
+| [[wiki/linear-a/words/K/KI_RA\|KI-RA]] | kirû | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | SPECULATIVE |
+| [[wiki/linear-a/words/K/KU_RA\|KU-RA]] | kulla | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] | Kurmu | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/M/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_RA\|PA-RA]] | parr(u) | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne / parāne | CANDIDATE |
-| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CONFIRMED |
+| [[wiki/linear-a/words/P/PA_RA_NE\|PA-RA-NE]] | barāne | CANDIDATE |
+| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] | qāmī šū-nāra | SPECULATIVE |
@@ -102,6 +104,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_RA\|TA-RA]] | ṯa(ġ)ra | SPECULATIVE |
 | [[wiki/linear-a/words/V/VIN_plus_RA\|VIN+RA]] | raqḥ | CANDIDATE |
+| [[wiki/linear-a/words/W/WI_RA_RE_MI_TE\|WI-RA-RE-MI-TE]] | Wild-rēmti | SPECULATIVE |
 | [[wiki/linear-a/words/Z/ZU_DI_RA\|ZU-DI-RA]] | ṯudira | CANDIDATE |
 
 <!-- END kaphtor:record -->

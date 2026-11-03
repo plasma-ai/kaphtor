@@ -466,7 +466,7 @@ def build_word_inventory(
                 {
                     "root": e.get("root"), "reading": e.get("reading"),
                     "meaning": e.get("meaning"), "confidence": e.get("confidence"),
-                    "category": e.get("category"), "note": e.get("note"),
+                    "tags": e.get("tags", []), "note": e.get("note"),
                 }
                 for e in lex_by_word.get(word, [])
             ],
@@ -571,10 +571,11 @@ def match_words_to_roots(
             lex_blob = " ".join(
                 str(entry.get(key) or "")
                 for entry in word["lexicon_entries"]
-                for key in ("meaning", "category", "note")
+                for key in ("meaning", "note")
             )
+            tagged_verb = any("verb" in entry.get("tags", []) for entry in word["lexicon_entries"])
             ja_prefix = word["word"].startswith("JA-") and (
-                not agreement or bool(VERBAL_RE.search(lex_blob)) or not word["lexicon_entries"]
+                not agreement or tagged_verb or bool(VERBAL_RE.search(lex_blob)) or not word["lexicon_entries"]
             )
             matches.append({
                 "root_id": root["root_id"],

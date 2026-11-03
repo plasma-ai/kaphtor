@@ -5,7 +5,7 @@ desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "RE-*86"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["unread_words"]
 attestations: ["MILZb4"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -26,18 +26,6 @@ updated: 2026-10-24T16:17:50Z
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/MIL/MILZb/MILZb4\|MILZb4]] | Miletos | Clay vessel | none |
-
-## Onomasticon
-
-| Field | Value |
-|---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
-| Entry | auto |
-| Occurrences | 1 in 1 documents |
-| Sites | Miletos |
-| Supports | Clay vessel 1 |
 
 ## Unread
 

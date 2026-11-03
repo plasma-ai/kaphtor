@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Aramaic | ʾyzwb (CAL s.v. ʾyzwb) | CAL s.v. ʾyzwb; Anderson–Moser 2024 root ʾzb | gloss withheld |
 | Hebrew | ʾezowb 'hyssop' | Anderson–Moser 2024 root ʾzb |  |
-| Ugaritic | uzb 'hyssop' | Anderson–Moser 2024 root ʾzb |  |
+| Ugaritic | uzb, KTU 1.178 1 (Rendsburg 2026, 205) | KTU 1; Rendsburg 2026, 205; Anderson–Moser 2024 root ʾzb | gloss withheld |
 | Arabic | ʾazāb (LGz. 52) | LGz. 52 |  |
 | Eblaitic | cf. áš-bù, a:zu-ba-tum /ʾazB/ (Sanmartín GlOS 1, 60) | Sanmartín GlOS 1, 60 | gloss withheld |
 
@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Geez ʾazāb, ʾazab, ʾazob 'hyssop, mint' is from Hebrew ʾezōb (LGz. 52). HALOT 27: Syr. zōfā, Arb. zūfā, Eth. ʾazāb, ʾazōb, '&lt; Akk. zūpu' (BL 487o).
+Geez ʾazāb, ʾazab, ʾazob 'hyssop, mint' is from Hebrew ʾezōb (LGz. 52). HALOT 27: Syr. zōfā, Arb. zūfā, Eth. ʾazāb, ʾazōb, '&lt; Akk. zūpu' (BL 487o). Borrowed from NWS as Greek ὕσσωπος, Latin hyssopus; the Ugaritic u- matches the upsilon (Rendsburg 2026, 205).
 
 <!-- END kaphtor:record -->

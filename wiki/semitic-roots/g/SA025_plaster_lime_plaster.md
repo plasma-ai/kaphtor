@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/SA025_plaster_lime_plaster
 title: "*gyr: 'plaster; lime-plaster'"
-desc: "Epigraphic South Arabian headword *gyr, 'plaster; lime-plaster': reflexes in 5 language(s)."
+desc: "Epigraphic South Arabian headword *gyr, 'plaster; lime-plaster': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA025"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | Ar jayr (Biella 71) | Biella 71 | gloss withheld |
 | Geez | gayara (LGz. 208) | LGz. 208 | gloss withheld |
 | Hebrew | gīr (LGz. 208) | LGz. 208 | gloss withheld |
+| Biblical Aramaic | gīr (HALOT 201) | HALOT 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_MI_DA_E
 title: "SA-MI-DA-E"
 desc: "samidē: groats, semolina, processed grain. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "grain", "noun"]
 kind: "word"
 form: "SA-MI-DA-E"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | groats, semolina, processed grain |
 | Root | s-m-d |
 | Proto-Semitic | \*samīd- (#1647) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, grain, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Both attestations on Zakros stone vessels (ZA5a, ZA15a). The -E suffix may be a Minoan grammatical ending on a borrowed Akkadian commodity noun. Related to SA-MA-TI (HT39) only if that word is a commodity, which its slot does not show; shares the smt skeleton with JA-SU-MA-TU. Receives quantity 4 on ZA15a. \|\| Huehnergard: Ug ṣmd /ṣimdu/ "pair, yoke, team (also: pairs of wheels)"; CiCCu noun pattern. Pl. ṣmdm /ṣimadūma/. BH cognate: ṣémed "pair, yoke" (segolate pattern) (Huehnergard 2012, pp. 130-135 (line 202)) \|\| ONOMASTIC ALTERNATIVE—the X-dāʿ paradigm: Šumī/Šammī-dāʿē 'my Name knows', of the kinship-theophoric X-dāʿ name type beside A-MI-DA-U/A-MI-DA-O (ʿAmmī-dāʿ) — the -U/-E endings would need a final-vowel variation; Howard (JSS 68.1) documents /u/ &gt; /a/ only in √ypʿ names (Niqmī-yapuʿ &gt; Niqmēpaʿ). Amorite has the name: SA-MI-DA-ḪU-UM Śami-daʿum (Gelb 1980, no. 5450); biblical template ʾĂbîdāʿ/ʾEldāʿā (Gen 25:4). Context split: ZA15a quantity 4 favors the commodity; ZA5a list slot (after KI-NI-MA 7, O-TA-NI-ZA-SE 6) admits either.
+ZA 5a and ZA 15a, both Zakros. samidē 'groats, semolina', a borrowed Akkadian commodity noun with a Minoan ending -E; it takes quantity 4 on ZA 15a, and its slot on ZA 5a, after KI-NI-MA 7 and O-TA-NI-ZA-SE 6, admits a commodity or a name. It shares the smt skeleton with JA-SU-MA-TU, with SA-MA-TI (HT 39), whose slot shows no commodity, and with Ug. ṣmd /ṣimdu/ 'pair, yoke, team', BH ṣemed (Huehnergard 2012, 130–135). Rival: a name of the kinship-theophoric X-dāʿ type, Šumī- or Šammī-dāʿē 'my Name knows', beside A-MI-DA-U and A-MI-DA-O ʿAmmī-dāʿ; Amorite has SA-MI-DA-ḪU-UM Śami-daʿum (Gelb 1980, no. 5450), and the Bible ʾĂbîdāʿ and ʾEldāʿā (Gen 25:4). Against the rival, its -U/-E endings need a final-vowel variation, and Howard (JSS 68.1) documents u &gt; a only in √ypʿ names (Niqmī-yapuʿ &gt; Niqmēpaʿ).
 
 ### Cognates
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_DA_DA
 title: "I-DA-DA"
 desc: "dādā: O Beloved!—vocative of the reduplicative divine epithet (with i- prosthesis). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "epithet", "hapax", "ritual"]
 kind: "word"
 form: "I-DA-DA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | O Beloved!—vocative of the reduplicative divine epithet (with i- prosthesis) |
 | Root | d-w-d |
 | Proto-Semitic | \*dawid- (#19) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | epithet, hapax, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-CR Zg 4: I-DA-DA, with A-RO-TE on line 2. Cf. Ugaritic dd 'loved one', ydd 'beloved'; Amorite dad- 'favorite' (Huffmon 1965, 181). The IO Za 11 DA-DA parallel fails: IO Za 11 reads \]NA-\[·\]-DA-DA\[ as one broken group (Karetsou, Godart & Olivier, Kadmos 24, 1985, 142). Weak point: dād- has no initial cluster to call for a prosthetic I-. Rival: a personal name. See TA-DI and DU-DA-MA.
+CR Zg 4: I-DA-DA, with A-RO-TE on line 2. Cf. Ugaritic dd 'love', by metonymy 'loved one' (DULAT 262), ydd 'loved' (DULAT 943); Amorite dad- 'favorite' (Huffmon 1965, 181). I- is the prosthetic vowel of I-DA-MA-TE beside DA-MA-TE. Rival: a personal name. See TA-DI and DU-DA-MA.
 
 ### Cognates
 
@@ -56,7 +56,7 @@ CR Zg 4: I-DA-DA, with A-RO-TE on line 2. Cf. Ugaritic dd 'loved one', ydd 'belo
 
 ### Source
 
-di Mino; Pagan 1998; Gelb 1980; ARM 26/1; Kinlaw 1967
+di Mino; DULAT; Huffmon 1965; Pagan 1998; Gelb 1980; ARM 26/1; Kinlaw 1967
 
 ## Attestations
 

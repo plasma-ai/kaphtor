@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_TA_I_star301_WA_E
 title: "A-TA-I-*301-WA-E"
 desc: "ʾatainawē: I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "libation_formula"]
+tags: ["linear-a", "word", "tier-4", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "A-TA-I-*301-WA-E"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY) |
 | Root | n-w-y |
 | Proto-Semitic | \*nwy (#3654) |
-| Language layer | NWS |
-| Category | libation_formula |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, verb |
 | Semantic field | verbal |
 
 ### Note
 
-Monophthongized Palaikastro dialect variant of A-TA-I-\*301-WA-JA. The -WA-E ending replaces -WA-JA, showing /ay/ → /ē/ monophthongization characteristic of the Palaikastro scribal tradition. \|\| COGNATES: those of A-TA-I-\*301-WA-JA, whose reading this spelling shares.
+PK Za 11: the Palaikastro spelling of A-TA-I-\*301-WA-JA, whose reading and cognates it shares. -WA-E for -WA-JA writes ay as ē, as the Palaikastro scribes do.
 
 ### Cognates
 

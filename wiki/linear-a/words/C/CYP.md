@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/C/CYP
 title: "CYP"
 desc: "(logogram): cyperus, aromatic sedge (commodity logogram). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+tags: ["linear-a", "word", "tier-3", "aromatic", "commodity", "logogram"]
 kind: "word"
 form: "CYP"
 datasets: ["lexicon"]
@@ -33,12 +33,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | (logogram) |
 | Meaning | cyperus, aromatic sedge (commodity logogram) |
-| Category | vocabulary |
+| Language layer | logogram |
+| Tags | aromatic, commodity, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Cyperus commodity logogram, not cypress and not copper. Khania is its principal distribution: 35× plain + 28× in fraction-ligatures (CYP+D, CYP+E; D/E are Bennett-convention fraction letters). The sign continues as the Linear B CYPERUS ideogram, associated with phonetic ku-pa-ro. On HT89 it opens the post-total commodity section at 2 + A732; ¾ is a modern fraction-model value rather than an uncontested reading. KH co-occurrence set includes aromatics (myrrh, \*401+RU, fine oil).
+Cyperus commodity logogram, its principal distribution at Khania: 35 plain and 28 in the fraction ligatures CYP+D and CYP+E. The sign continues as the Linear B CYPERUS ideogram, associated with ku-pa-ro. On HT 89 it opens the commodity section after the total, at 2 + A732. At Khania it keeps company with aromatics: myrrh (MI+JA+RU), \*401+RU and fine oil (OLE+TA).
 
 ### Cognates
 
@@ -49,7 +50,7 @@ Cyperus commodity logogram, not cypress and not copper. Khania is its principal 
 
 ### Source
 
-di Mino; conventional Aegean identification
+di Mino
 
 ## Attestations
 
@@ -73,7 +74,7 @@ di Mino; conventional Aegean identification
 | [[wiki/linear-a/inscriptions/HT/HTWb/HTWb229\|HTWb229]] | Haghia Triada | Sealing | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3015\|HTWc3015]] | Haghia Triada | Roundel | none |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3016\|HTWc3016]] | Haghia Triada | Roundel | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc_3018\|HTWc&lt;3018&gt;]] | Haghia Triada | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3020\|HTWc3020]] | Haghia Triada | Roundel | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH103\|KH103]] | Khania | Tablet | none; form not in transliteration |
@@ -94,18 +95,18 @@ di Mino; conventional Aegean identification
 | [[wiki/linear-a/inscriptions/KH/KH/KH35\|KH35]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH38\|KH38]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH4\|KH4]] | Khania | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH54\|KH54]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH57\|KH57]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH58\|KH58]] | Khania | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH60\|KH60]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH61\|KH61]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH75\|KH75]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH76\|KH76]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH77\|KH77]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | Khania | Tablet | incomplete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/KH/KH/KH8\|KH8]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH84\|KH84]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH85\|KH85]] | Khania | Tablet | none |
@@ -123,6 +124,7 @@ di Mino; conventional Aegean identification
 | [[wiki/linear-a/inscriptions/HT/HT/HT99a\|HT99a]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | \[ideogram\] | cyperus, aromatic sedge |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | CYP | cyperus (commodity logogram) |  |
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] |  | cyperus, 2 with a fraction | PROBABLE |
 | [[wiki/linear-a/inscriptions/KH/KH/KH15\|KH15]] | (logogram) | cyperus, aromatic sedge | PROBABLE |
 
 <!-- END kaphtor:record -->

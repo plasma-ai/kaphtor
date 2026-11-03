@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_RU
 title: "KI-RU"
 desc: "kirru: large vessel (vessel label). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "vessel"]
 kind: "word"
 form: "KI-RU"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | large vessel (vessel label) |
 | Root | k-r(-r) |
 | Proto-Semitic | \*kirr- (#3849) |
-| Language layer | Akkadian |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun, vessel |
 | Semantic field | vessel |
 
 ### Note

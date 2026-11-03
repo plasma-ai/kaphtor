@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1135_be_high_long
 title: "*rVyVm-: 'be high, long'"
-desc: "Proto-Semitic *rVyVm-, 'be high, long': reflexes in 18 language(s)."
+desc: "Proto-Semitic *rVyVm-, 'be high, long': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1135"
@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | rm; rm (CUC; DULAT 729, 730) | CUC; DULAT 729, 730; Anderson–Moser 2024 root rwm | gloss withheld |
 | Geez | rayama |  | gloss withheld |
 | Jibbali | ríhm (rym) (Kogan 2015, ch. 2 §4.2 no. 54) | Kogan 2015 ch. 2 §4.2 no. 54 | gloss withheld |
-| Hebrew | rw/ym 'be high'; ruwm 'rise' (BDB 926) | BDB 926; Anderson–Moser 2024 root rwm |  |
+| Hebrew | rw/ym; ruwm (BDB 926); rm (DNWSI 1077) | BDB 926; DNWSI 1077; Anderson–Moser 2024 root rwm | gloss withheld |
 | Epigraphic South Arabian | Sab rym-m |  | gloss withheld |
 | Syrian Aramaic | rām 'be high' (Payne Smith 534) | Payne Smith 534 |  |
 | Judaic Aramaic | mᵉrōmā (HALOT 633); rūmā (HALOT 1205); rūm (T 304) | HALOT 633; HALOT 1205; T 304 | gloss withheld |
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | räžžim (AED 405 apud SEDonline 128) | AED 405; SEDonline 128 | gloss withheld |
 | Phoenician | rm (T 304) | T 304 | gloss withheld |
 | Eblaitic | /rām/: name la-ma; cf. la-mi (Sanmartín GlOS 2, 176) | Sanmartín GlOS 2, 176 | gloss withheld |
+| Biblical Aramaic | rwm (HALOT BArm. s.v. רום); rūm (HALOT BArm. s.v. רוּם) | HALOT BArm. s.v. רום; HALOT BArm. s.v. רוּם | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭapāpu |  |  |
+| Akkadian | ṭapāpu (AHw 1379) | AHw 1379 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

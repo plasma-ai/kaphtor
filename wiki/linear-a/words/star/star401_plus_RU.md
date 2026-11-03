@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star401_plus_RU
 title: "*401+RU"
 desc: "ruqqû-ru 'aromatic preparation (with phonetic complement RU confirming /ru-/ onset)'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "aromatic", "commodity", "ligature", "logogram"]
 kind: "word"
 form: "*401+RU"
 datasets: ["lexicon"]
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | ruqqû-ru 'aromatic preparation (with phonetic complement RU confirming /ru-/ onset)' |
 | Root | r-q-ḥ |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | aromatic, commodity, ligature, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Phonetic complement RU confirms /ru-/ onset of base \*401 RUQQÛ. All 6 attestations at Khania. Fractional quantities (1/16, 1/5) confirm luxury aromatic. Co-occurs with CYP, MI+JA+RU (myrrh), \*308 (šamnu), OLE+TA (fine oil). KH91 distinguishes \*401+RU from \*401+RO on same tablet—different compounds, not spelling variants. Related: \*401+\*304 (RUQQÛ+PIDRU "aromatic fat", 2× at HT+KH). KNZg57a (2025 ivory scepter ring) adds the first Knossos attestation—all prior at Khania.
+\*401 with the rider RU, which gives the ru- onset of its proposed value RUQQÛ: Akk. ruqqû 'perfumed (oil)' and ruqqû 'to prepare perfume' (CAD R 420). Six Khania documents, KH 12 twice, KH 63, KH 83, KH 84, KH 85 and KH 91, and KN Zg 57a, the ivory sceptre ring from Knossos. Counted in fractions (¹⁄₁₆ on KH 85 and KH 91), it stands with CYP, MI+JA+RU (myrrh), \*308 (šamnu) and OLE+TA (fine oil): an aromatic. KH 91 writes \*401+RU beside \*401+RA, two compounds on one tablet. Cf. \*401+\*304 (RUQQÛ+PIDRU, 'aromatic fat'). See \*401.
 
 ### Cognates
 
@@ -50,6 +50,10 @@ Phonetic complement RU confirms /ru-/ onset of base \*401 RUQQÛ. All 6 attestat
 | Ugaritic | rqḥ 'perfumer'; šmn rqḥ 'perfumer's oil', KTU 4.91:5 (DULAT 734) |
 | Hebrew | rōqaḥ 'mixture of ointments' (HALOT 1290) |
 | Phoenician | rqḥ 'ointment, perfume, spice' (Krahmalkov 447) |
+
+### Source
+
+di Mino; CAD R
 
 ## Attestations
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_JU
 title: "U-JU"
 desc: "ʿūlū: burnt offering. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "ritual"]
 kind: "word"
 form: "U-JU"
 datasets: ["lexicon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | burnt offering |
 | Root | ʿ-l-h |
 | Proto-Semitic | \*ʕōl-at- (#2707) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-√ʿ-l-h 'go up' → ʿōlâ 'burnt offering' (Lev 1:3), Ugaritic ʿlt /ʿōlatu/. ZA 7a (tablet): U-JU 5 · A-RA-TU 4 · A-RE-TU-MI\[, a counted list. Weak point: U-JU lacks the feminine -t. DU-JU\[ (ZA 22, tablet, beside OVISf) may share the root.
+ZA 7a, a tablet: U-JU 5 · A-RA-TU 4 · A-RE-TU-MI\[, a counted list. Heb. ʿōlâ 'burnt offering' (Lev 1:3), from √ʿ-l-h 'go up' (semitic_roots 2707); Neo-Punic ʿlt 'whole burnt offering' (KAI 159.7/8; Krahmalkov 2000, 374); the -t unwritten, as in \*21F-\*118 ḥiṭṭa. DU-JU\[ (ZA 22, a tablet, beside OVISf) is a candidate from the same root.
 
 ### Cognates
 
@@ -48,7 +49,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Hebrew | ʿōlâ (עוֹלָה) 'burnt offering' (Lev 1) |
 | Akkadian | elû 'to go up' |
-| Ugaritic | ʿlt /ʿōlatu/ 'burnt offering'; ʿly 'to go up' |
+| Ugaritic | ʿly 'to go up' |
+| Phoenician | Neo-Punic ʿlt 'whole burnt offering' (KAI 159.7/8; Krahmalkov 374) |
 
 ### Source
 

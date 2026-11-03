@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RU_KA
 title: "RU-KA"
 desc: "ruqāq: thin bread, wafers (qualifier of *309C KIKKARU). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "commodity", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "RU-KA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | thin bread, wafers (qualifier of \*309C KIKKARU) |
 | Root | r-q-q |
 | Proto-Semitic | \*riḳ- (#1187) |
-| Language layer | NWS |
-| Category | commodity |
-| Semantic field | food |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, hapax, noun |
+| Semantic field | commodity |
 
 ### Note
 
-TY 2 .5 \*309C-\[?\]-RU-KA 30, one of eight qualifiers joined to \*309; the AB53 hook on top of \*309C is unread, and if it is a syllabogram RU-KA is not the whole qualifier. RU-KA writes ruqāq, the final q unwritten. Exod 29:23 sets rāqîq beside kikkar leḥem, the pairing TY 2 shows; Akk. raqqatu, a bread at Emar (CAD R 171). Sign order follows GORILA's facsimile, RU over KA (GORILA I 324–325). Depends on \*309 = KIKKARU, unconfirmed. Rival: a place or recipient name, as the other qualifiers may be. One attestation.
+TY 2 .5 \*309C-\[?\]-RU-KA 30, one of eight qualifiers joined to \*309. RU-KA writes ruqāq, the final q unwritten. Exod 29:23 sets rāqîq beside kikkar leḥem, the pairing TY 2 shows; Akk. raqqatu, a bread at Emar (CAD R 171). Sign order follows GORILA's facsimile, RU over KA (GORILA I 324–325). Rival: a place or recipient name, as the other qualifiers can be read. The hook atop \*309C is joined to the circle, as the curl on \*309 at .3 and .6 (GORILA I 325). Weak point: \*309 = KIKKARU is a proposed value. One attestation.
 
 ### Cognates
 

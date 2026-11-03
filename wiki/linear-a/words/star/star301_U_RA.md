@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star301_U_RA
 title: "*301-U-RA"
 desc: "naura: light, radiance (personal name or epithet). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "*301-U-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | light, radiance (personal name or epithet) |
 | Root | n-w-r |
 | Proto-Semitic | \*nūr- (#1196) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT115a accounting tablet with GRA+BOSm. √NWR 'to shine, give light' is pan-Semitic (Hebrew נוּר nūr, Arabic nūr, Ugaritic nrt 'lamp'). As a personal name element 'Light' is extremely common across Semitic onomastics: Amorite Niwru and ʾAbu-niwra (Gelb AS 21 nos. 5026, 162), Ebla nu-ru₁₂-ud 'light' (Pagan 1998, row 3919). The r alternative (r-u-ra) produces awkward reduplication. \|\| Huehnergard: Ug nwr /nāra/ ~ /yanūr-/ "G: to be/become bright, shine"; I-n / hollow-looking w root. G suffix nāra, prefix yanūr-. BH cognate: nēr "lamp" (Huehnergard 2012, p. 50 (line ref.); cf. BH \[9\]) In erasure on HT 115a.2 (GORILA I, 188–91). See NU-RO.
+HT 115a, an accounting tablet with GRA+BOSm; in erasure on .2 (GORILA I 188–91). √n-w-r 'to shine, give light': Ug. nwr /nāra/, /yanūr-/ 'to be bright, shine' (Huehnergard 2012, 50), nrt 'lamp'; Heb. נוּר nūr, nēr 'lamp'; Ar. nūr. 'Light' is a common name element: Amorite Niwru and ʾAbu-niwra (Gelb 1980, nos. 5026, 162), Ebla nu-ru₁₂-ud 'light' (Pagan 1998, row 3919). Rival: \*301 = r, which gives r-u-ra, an awkward reduplication. See NU-RO.
 
 ### Cognates
 
@@ -72,8 +72,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

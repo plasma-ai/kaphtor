@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3615_heap_of_grain
 title: "*kry: 'heap of grain'"
-desc: "Proto-Semitic *kry, 'heap of grain': reflexes in 2 language(s)."
+desc: "Proto-Semitic *kry, 'heap of grain': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3615"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Akkadian | karû A (CAD K 226) | CAD K 226 | gloss withheld |
 | Syrian Aramaic | karyā 'a pile, heap, esp. a heap of threshed grain' (Payne Smith 226) | Payne Smith 226 |  |
+| Eblaitic | ga-lu; ga-ru₁₂-um (= Sum. GUR₇) /kary/ (Sanmartín GlOS 1, 321); gi-lum, gi-lu-um /kiry/ (Sanmartín GlOS 1, 321) | Sanmartín GlOS 1, 321 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

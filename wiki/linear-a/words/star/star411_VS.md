@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star411_VS
 title: "*411-VS"
 desc: "(logogram): tripod cauldron (vessel logogram). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "logogram", "vessel"]
 kind: "word"
 form: "*411-VS"
 datasets: ["lexicon"]
@@ -33,12 +33,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | (logogram) |
 | Meaning | tripod cauldron (vessel logogram) |
-| Category | vocabulary |
+| Language layer | logogram |
+| Tags | logogram, vessel |
 | Semantic field | vessel |
 
 ### Note
 
-Pictographic: hemispherical bowl on three legs with lateral handles, consistent across the 15-roundel KHWc series; an independent visual reading describes 'a three-legged cauldron'. Direct ancestor of LB \*201 TRIPOD (ti-ri-po-de, PY Ta 641). All attestations are solo-sign sealed roundel receipts — bronze-vessel circulation through the Khania harbor town.
+A hemispherical bowl on three legs with side handles, the same on all 15 Khania roundels (KH Wc 2008–2024, 2079), each a sealed receipt bearing this sign alone: a bronze-vessel receipt series of the harbour town. Cf. LB \*201 TRIPOD, ti-ri-po-de (PY Ta 641).
 
 ### Source
 

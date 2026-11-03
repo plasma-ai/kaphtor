@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/T/TA_PA
 title: "TA-PA"
 desc: "tappāʾu: partners, the heading of a shares account. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "accounting", "administrative", "hapax", "noun", "personnel"]
 kind: "word"
 form: "TA-PA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 attestations: ["HT104"]
 tier: 1
 confidence: "SPECULATIVE"
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | partners, the heading of a shares account |
 | Root | t-p-ʾ |
 | Proto-Semitic | \*tappāʾ- (#3630) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | accounting, administrative, hapax, noun, personnel |
 | Semantic field | personnel |
 
 ### Note
@@ -65,5 +65,25 @@ di Mino; CAD T
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT104\|HT104]] | tappāʾu | partners, the heading of a shares account | SPECULATIVE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Note
+
+HT 104. See the lexicon entry. One witness.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/I/I_DU_TI|I-DU-TI]] Yidu-ti, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull.
 
 <!-- END kaphtor:record -->

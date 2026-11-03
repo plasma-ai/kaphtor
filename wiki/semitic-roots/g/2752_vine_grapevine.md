@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | gpn (DULAT 301) | DULAT 301 | gloss withheld |
 | Hebrew | gepen (HALOT 200) | HALOT 200 | gloss withheld |
 | Syrian Aramaic | gufnā (HALOT 200) | HALOT 200 |  |
-| Epigraphic South Arabian | gpnt (HALOT 200) | HALOT 200 |  |
+| Epigraphic South Arabian | gpnt (HALOT 200); Sab gfnt (Biella 74) | HALOT 200; Biella 74 | gloss withheld |
 | Amorite | gapn, gupn: gu-pa-num (Sanmartín GlOS 1, 185) | Sanmartín GlOS 1, 185 | gloss withheld |
 | Eblaitic | /gapn, gupn/: names ga-pi-nu, gu-pi-nu/núm, ga-bí-núm (Sanmartín GlOS 1, 185) | Sanmartín GlOS 1, 185 | gloss withheld |
 

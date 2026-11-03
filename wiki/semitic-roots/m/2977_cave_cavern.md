@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2977_cave_cavern
 title: "*mVġVr-at-: 'cave, cavern'"
-desc: "Proto-Semitic *mVġVr-at-, 'cave, cavern': reflexes in 5 language(s)."
+desc: "Proto-Semitic *mVġVr-at-, 'cave, cavern': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2977"
@@ -34,6 +34,8 @@ updated: 2026-10-26T14:26:59Z
 | Ugaritic | mġrt (TN) (HALOT 615; DULAT 527) | HALOT 615; DULAT 527 |  |
 | Syrian Aramaic | mʕartā (Kogan 2015, ch. 3 §5.2 no. 38) | Kogan 2015 ch. 3 §5.2 no. 38 | gloss withheld |
 | Phoenician | mʿrt (HALOT 615) | HALOT 615 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mġrt (Al-Jallad 2026, 57) | Al-Jallad 2026 57 | gloss withheld |
+| Canaanite | EG SYLL ma=ga=ra=ta, ma₄=ga=ra=ta, b=ga=ra=ta₅{ỉt}, ma₃=q=ra=tu₂, ma₄=q=ra=tu₂ /\*maǵārata, maǵārāta/ (Hoch 172) | Hoch 172 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

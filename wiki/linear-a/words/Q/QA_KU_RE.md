@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_KU_RE
 title: "QA-KU-RE"
 desc: "kakkarē: rounds of (a commodity); talent. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "numeral_or_measure"]
 kind: "word"
 form: "QA-KU-RE"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | rounds of (a commodity); talent |
 | Root | k-k-r |
 | Proto-Semitic | \*kakkar-/\*kikkar- (#1097) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, numeral_or_measure |
 | Semantic field | commodity |
 
 ### Note
@@ -57,7 +57,7 @@ di Mino; DULAT; CAD
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3017\|HTWc3017]] | Haghia Triada | Roundel | complete |
 
 ## In translations
 

@@ -56,4 +56,8 @@ Unicode (Linear A block):
 
 [[wiki/linear-a/words/I/I_DA|I-DA]].
 
+## Corpus note
+
+GORILA III 201: .1 I-DA GRA\[, GRA dotted at the break. SigLA restores GRA+PA (A574).
+
 <!-- END kaphtor:record -->

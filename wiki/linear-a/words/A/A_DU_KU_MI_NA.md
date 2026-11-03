@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/A/A_DU_KU_MI_NA
 title: "A-DU-KU-MI-NA"
-desc: "ʾAddu-kamina: Addu has sheltered (compound theophoric PN). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "ʾAddu-kummina: the one of Addu's cella (cult title as a roster name). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name", "ritual"]
 kind: "word"
 form: "A-DU-KU-MI-NA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "ʾAddu-kamina"
+reading: "ʾAddu-kummina"
 attestations: ["ZA10a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,30 +31,28 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾAddu-kamina |
-| Meaning | Addu has sheltered (compound theophoric PN) |
-| Root | ʾ-d-d + k-m-n |
-| Proto-Semitic | \*hadad- (#3186) + \*kmn (#3237) |
-| Language layer | NWS |
-| Category | personal_name |
+| Reading | ʾAddu-kummina |
+| Meaning | the one of Addu's cella (cult title as a roster name) |
+| Root | ʾ-d-d + k-m-m |
+| Proto-Semitic | \*hadad- (#3186) + \*kumm- (#3788) |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name, ritual |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 10a: a roster name counted 1, beside A-KU-MI-NA from the same verb. A-DU (Addu) + √k-m-n 'hide, shelter', built like A-DU-NI-TA-NA 'Addu has given'. Amorite names have the root: ka-mi-nu-um, ia-ak-me-ni (GlOS 1, 309), Kaminum (Gelb AS 21 no. 3970). KU for ka as in Linear B ku-mi-no = kamūn-. Not 'Addu's cumin': cumin is always measured (MY Ge 605 ku-mi-no Z 2), and KU-MI-NA 'cumin' is a homograph. Weak point: KU for ka. Rival: A-DU + KU-MI-NA 'cumin', which a roster count of 1 argues against.
+ZA 10a: a roster entry counted 1, beside A-KU-MI-NA. A-DU Addu + KU-MI kummi 'cella', as in SI-DU-QI-KU-MI Ṣiduqi-kummi, god first + -NA, the gentilic -ān of KI-RE-TA-NA Kretan: 'the one of Addu's cella'. Akkadian sings a cella-song for Adad (CT 15 3 i 3) and once sends Ištar 'with her cella', its staff (Maqlû II 195). Weak point: kummu names personnel only there. Rivals: A-DU + √k-m-n 'Addu has sheltered' (#3237), Amorite Ka-mi-nu-um (Gelb 1980, no. 3970); A-DU + KU-MI-NA 'cumin', which is measured (MY Ge 605 ku-mi-no Z 2), where this entry is counted 1.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | KMN verbal root in names: Ka-mi-nu-um (Gelb 1980, no. 3970), Ia-ak-me-ni Yakmin- (no. 2909) |
-| Hebrew | כמן hiphil 'to hide' (Mishnaic; HALOT 481); cf. צְפַנְיָה Ṣəpanyāh 'Yahweh has hidden' (HALOT 1049) |
-| Aramaic | kmn 'to hide oneself, lie in wait'; Christian Palestinian kymn 'ambush' (HALOT 481) |
-| Arabic | kamana (HALOT 481) |
+| Akkadian | kummu A 'cella, private room (of a temple)'; zamār kummi ana Adad 'a cella-song for Adad' (CT 15 3 i 3, OB); Ištar of Agade adi kummiša 'with her cella', its personnel (Maqlû II 195) (CAD K 533–534) |
+| Ugaritic | kbm 'a cult installation', set beside Akk. kummu (DULAT 423) |
 
 ### Source
 
-di Mino
+di Mino; CAD K; DULAT; Gelb 1980
 
 ## Attestations
 
@@ -66,7 +64,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ʾAddu-kamina | PN 'Addu has sheltered': A-DU + √k-m-n 'hide, shelter' (HALOT 481; Amorite Ka-mi-nu-um, Gelb 1980, no. 3970), built like A-DU-NI-TA-NA 'Addu has given'; cf. Heb. Ṣəpanyāh 'Yahweh has hidden' (HALOT 1049) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ʾAddu-kummina | the one of Addu's cella: A-DU + kummi 'cella', as SI-DU-QI-KU-MI, + gentilic -ān; cf. Akk. zamār kummi ana Adad 'a cella-song for Adad' (CT 15 3 i 3; CAD K 534) | SPECULATIVE |
 
 ## Onomasticon
 
@@ -82,6 +80,6 @@ di Mino
 
 ### Note
 
-A-DU (Addu) + √k-m-n 'hide, shelter' (HALOT 481; Amorite Ka-mi-nu-um, Gelb 1980, no. 3970), built like A-DU-NI-TA-NA 'Addu has given'. Beside A-KU-MI-NA from the same verb on ZA 10a.
+A-DU (Addu) + kummi 'cella', as in SI-DU-QI-KU-MI, + the gentilic -ān of KI-RE-TA-NA: 'the one of Addu's cella'; cf. Akk. zamār kummi ana Adad 'a cella-song for Adad' (CT 15 3 i 3; CAD K 534). Beside A-KU-MI-NA on ZA 10a.
 
 <!-- END kaphtor:record -->

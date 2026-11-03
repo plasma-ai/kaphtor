@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḳalafat-, ḳulfat- 'foreskin' \[BK 2 805\] (cf. ḳilf-, ḳalaf- 'circumcision' \[ibid.\]); ḳilf- 'tree bark; skin of the pomegranate' \[ibid.\] | BK 2 805 |  |
 | Mehri | ḳǝlēfūt \[JM 230\] | JM 230 | gloss withheld |
 | Soqotri | ḳalífoh \[LS 376\] | LS 376 | gloss withheld |
-| Akkadian | ḳilpu OB on \[CAD ḳ 251\], \[AHw 921\]; ḳuliptu, OB on \[CAD ḳ 296\], ḳulēptu \[AHw 926\] | CAD ḳ 251; AHw 921; CAD ḳ 296; AHw 926 | gloss withheld |
+| Akkadian | ḳilpu OB on \[CAD ḳ 251\], \[AHw 921\]; ḳuliptu, OB on \[CAD ḳ 296\], ḳulēptu \[AHw 926\]; qalpu (CAD Q 66); qullupu (qallupu) (CAD Q 299) | CAD ḳ 251; AHw 921; CAD ḳ 296; AHw 926; CAD Q 66; CAD Q 299 | gloss withheld |
 | Harsusi | ḳelfēt |  |  |
 | Mandaic Aramaic | ḳlapta, ḳlupta \[DM 413\] | DM 413 | gloss withheld |
 | East Ethiopic | ZWY ḳǝlfi \[LGur 476\] | LGur 476 | gloss withheld |

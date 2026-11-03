@@ -78,4 +78,8 @@ Context: Votive offering allocation: burnt and earth offerings dedicated under t
 
 [[wiki/linear-a/words/A/A_RA_TU|A-RA-TU]], [[wiki/linear-a/words/A/A_RE_TU_MI|A-RE-TU-MI]], [[wiki/linear-a/words/U/U_JU|U-JU]].
 
+## Corpus note
+
+A-RE-TU-MI runs from line 2 onto line 3; MI opens line 3, and the line continues into the break, so words or a number may have followed MI.
+
 <!-- END kaphtor:record -->

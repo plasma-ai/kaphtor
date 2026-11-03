@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | zerōq 2 |  |  |
 | Hebrew | zrq 1 |  |  |
 | Aramaic | zrq 1 (CAL s.v. zrq) | CAL s.v. zrq |  |
-| Akkadian | zarāqu (HALOT 283) | HALOT 283 | gloss withheld |
+| Akkadian | zarāqu (HALOT 283; AHw 1515) | HALOT 283; AHw 1515 | gloss withheld |
 | Syrian Aramaic | zraq 'scatter, sprinkle, disperse' (Payne Smith 121) | Payne Smith 121 |  |
 | Geez | zaraqa 2 (LGz. 644) | LGz. 644 | gloss withheld |
 | Tigrinya | zäräqä 2 (LGz. 644) | LGz. 644 | gloss withheld |

@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["GRA+PA", "OLE", "OLE+KI"]
+words: ["GRA+PA", "OLE", "OLE+KI", "OLIV"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -60,10 +60,10 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/O/OLE|OLE]], [[wiki/linear-a/words/O/OLE_plus_KI|OLE+KI]].
+[[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/O/OLE|OLE]], [[wiki/linear-a/words/O/OLE_plus_KI|OLE+KI]], [[wiki/linear-a/words/O/OLIV|OLIV]].
 
 ## Corpus note
 
-GORILA III 191: .1 DA-RE-KU\[ … \]vest. · KU-\*321 · GRA+PA, traces after the first KU and before the first divider (note).
+GORILA III 191: .1 DA-RE-KU\[ … \]vest. · KU-\*321 · GRA+PA, traces after the first KU and before the first divider (note). .2 keeps only the top of GRA, its lower half lost; SigLA restores GRA+PA (A574).
 
 <!-- END kaphtor:record -->

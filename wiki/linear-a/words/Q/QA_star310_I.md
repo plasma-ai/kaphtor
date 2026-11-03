@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_star310_I
 title: "QA-*310-I"
 desc: "qaynī: smith or cultic administrator; occupational title. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personnel"]
+tags: ["linear-a", "word", "tier-3", "noun", "occupation", "personnel"]
 kind: "word"
 form: "QA-*310-I"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | smith or cultic administrator; occupational title |
 | Root | q-y-n |
 | Proto-Semitic | \*ḳVyVn- (#572) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | noun, occupation, personnel |
 | Semantic field | occupation |
 
 ### Note
 
-4× at Haghia Triada in administrative lists. QA-\*310-I = QA-IN-I /qaynī/, using the proposed VC sign \*310=/in/. Arabic qayn means 'smith, artisan'; Sabaic qyn denotes an 'administrator, governor,' including an administrator of a god or king (Biella 1982, 454). The Linear A distribution therefore supports a recurring occupational or administrative title. Hebrew qēnî 'Kenite' is formally comparable, but the historical relation among the smith, administrator and ethnonymic senses is not established; 'possessor' from √q-n-y is not required.
+Four Haghia Triada lists: HT 8a, HT 8b, HT 85b, the last of its roster of single units, and HT 122a, QA-\*310-I 3 after TE-KI 2. QA-IN-I qaynī, with \*310 in its proposed value in. Arb. qayn 'smith' (HALOT 1097), Sabaic qyn 'administrator, governor', of a god or a king as well (Biella 1982, 454): a recurring occupational or administrative title. Cf. Heb. qênî 'Kenite' (HALOT 1097). Four attestations.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Source
 
-di Mino
+di Mino; HALOT; Biella 1982
 
 ## Attestations
 

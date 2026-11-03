@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_ZU
 title: "MA-ZU"
 desc: "maṯu: infants or young dependents (personnel category). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+tags: ["linear-a", "word", "tier-1", "noun", "personnel"]
 kind: "word"
 form: "MA-ZU"
 datasets: ["lexicon"]
@@ -10,7 +10,7 @@ tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
 reading: "maṯu"
-attestations: ["HT102"]
+attestations: ["HT102", "HT6a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | infants or young dependents (personnel category) |
 | Root | m-ṯ |
 | Proto-Semitic | \*ma/iṯ- (#1702) |
-| Language layer | NWS candidate |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | noun, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT102 counts MA-ZU 3 within an administrative list. Ugaritic mṯ 'infant' is the closest lexical and contextual comparison; in KTU 1.5 V:22 it follows yld 'give birth.' ZU can represent the interdental /ṯ/ under the proposed sign system. The vocalization /maṯu/ and final -u are reconstructed from the Linear A spelling because alphabetic Ugaritic records only mṯ. As a Linear A hapax, the term remains SPECULATIVE and should not replace MA-ZU in an unqualified translation.
+HT 102 counts MA-ZU 3 in an administrative list, between DI-RI-NA 10 and WI 10, under KU-RO 1060. HT 6a writes MA-\*321 10 under the same KA-PA heading, among ration entries (GORILA I 13). Ugaritic mṯ 'infant', after yld 'give birth' in KTU 1.5 V:22. ZU writes ṯ, a proposed value; the vowels of /maṯu/ come from the Linear A spelling, since alphabetic Ugaritic writes only mṯ. Weak point: the HT 102 sign has ZU's round hoop and two bars, as on HT 1, but stands on a foot, a feature of \*321, perhaps a variant of ZU; GORILA dots it (GORILA I 169).
 
 ### Cognates
 
@@ -58,6 +58,7 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT102\|HT102]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT6a\|HT6a]] | Haghia Triada | Tablet | none; form not in transliteration |
 
 ## In translations
 

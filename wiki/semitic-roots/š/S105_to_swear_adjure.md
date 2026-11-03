@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Judaic Aramaic | ʾištᵉbaʿ, ʾištabbaʿ (Klein s.v. שׁבע ᴵᴵ) | Klein s.v. שׁבע ᴵᴵ | gloss withheld |
+| Judaic Aramaic | ʾištᵉbaʿ, ʾištabbaʿ (Klein s.v. שׁבע ᴵᴵ); šbwʕh (DNWSI 1100) | Klein s.v. שׁבע ᴵᴵ; DNWSI 1100 | gloss withheld |
 | Hebrew | nišbaʿ (OLA80 §35.34); šǝbûʿâ (HALOT 1384) | OLA80 §35.34; HALOT 1384 | gloss withheld |
 | Punic | Neo-Punic šbʿt (T 312) | T 312 | gloss withheld |
 

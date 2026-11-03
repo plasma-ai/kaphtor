@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ziptu 'pitch' | Anderson–Moser 2024 root zpt |  |
+| Akkadian | ziptu (AHw 1529) | AHw 1529; Anderson–Moser 2024 root zpt | gloss withheld |
 | Geez | zəft 'resin' | Anderson–Moser 2024 root zpt |  |
 | Arabic | zift (HALOT 277) | HALOT 277 |  |
 | Judaic Aramaic | zptʾ (HALOT 277; DJPA 181a apud CAL) | HALOT 277; DJPA 181a; CAL |  |

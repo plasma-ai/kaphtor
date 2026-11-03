@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/500_turn_oneself_go_towards_in_the_direction_of_turn
 title: "*pVnVw/y-: 'turn oneself, go towards, in the direction of; turn smo., send, drive, let go'"
-desc: "Proto-Semitic *pVnVw/y-, 'turn oneself, go towards, in the direction of; turn smo., send, drive, let go': reflexes in 18 language(s)."
+desc: "Proto-Semitic *pVnVw/y-, 'turn oneself, go towards, in the direction of; turn smo., send, drive, let go': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "500"
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | fännäwä |  | gloss withheld |
 | Amorite | pnj: jipannī, panijum (Gelb AS 21, 28) | Gelb AS 21 28 | gloss withheld |
 | East Ethiopic | Sel. foňe, Wol. fone, Zwy. afoňī, Sel. yä---fono, Wol. fono (EDG 233 apud SEDonline 347) | EDG 233; SEDonline 347 | gloss withheld |
+| Eblaitic | /p-n-w/y/: ti-bí-na-ù, i-ba-na, i-ba-na-a (Sanmartín GlOS 2, 130) | Sanmartín GlOS 2, 130 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

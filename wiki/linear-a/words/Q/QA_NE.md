@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/Q/QA_NE
 title: "QA-NE"
-desc: "qanē: reed, cane; or lapis lazuli (precious stone). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+desc: "qanē: reed, cane; rival lapis lazuli. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "noun"]
 kind: "word"
 form: "QA-NE"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qanē |
-| Meaning | reed, cane; or lapis lazuli (precious stone) |
+| Meaning | reed, cane; rival lapis lazuli |
 | Root | q-n-y |
 | Proto-Semitic | \*ḳanaw/y- (#3035) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Exact skeleton match to Ugaritic qn with two senses: (A) "reed, cane" (√q-n-y, vocalization /qanē/; BH qāneh קָנֶה "reed, measuring rod," source of English "cane" and "canon"); (B) "lapis lazuli" (precious stone, Ugaritic-specific sense). On KH47 (Khania tablet) with quantity 6 in a commodity context—distributional evidence favors commodity over personal name. Khania is a western Cretan port with strong trade connections, consistent with either imported lapis lazuli or local reed/cane as accounting items. \|\| VARIANT: KA-NA (HT23a header of aromatics ledger, HT123+124b) is the same lexeme with q→K neutralization — attestation at two sites (HT+KH) strengthens the cane reading; the aromatics ledger disfavors the lapis sense there.
+KH 47: QA-NE 6 in a commodity context, which favours a commodity over a name; Khania is a western Cretan port with strong trade, and either imported lapis or local cane suits its accounts. Ug. qn has two senses: 'reed, cane', √q-n-y, qanē, BH qāneh קָנֶה 'reed, measuring rod', the source of 'cane' and 'canon'; and 'lapis lazuli', a sense of Ugaritic alone. KA-NA, at the head of the HT 23a aromatics ledger and on HT 123+124b, is the same word with K for q, so the word stands at two sites, and the aromatics ledger favours the cane there over the stone.
 
 ### Cognates
 

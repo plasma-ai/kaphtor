@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0152_place
 title: "*maqām-: 'place'"
-desc: "Proto-Semitic *maqām-, 'place': reflexes in 6 language(s)."
+desc: "Proto-Semitic *maqām-, 'place': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0152"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | mqm 'place' | Anderson–Moser 2024 root mqm |  |
 | Phoenician | mqm (HALOT 626) | HALOT 626 |  |
 | Judaic Aramaic | mᵉqāmā (HALOT 626) | HALOT 626 |  |
+| Pre-Islamic North Arabian | Safaitic mqm (Al-Jallad 2026, 115) | Al-Jallad 2026 115 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

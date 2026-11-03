@@ -51,10 +51,10 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Samal, OAram OffAr, Nab, Palm, Hatra \*bʕl (HJ 182-3); Sam bʕl (Tal 109) | HJ 182-3; Tal 109 | gloss withheld |
 | Argobba | bǝʔǝl (LArg 195); bal (LArg 195) | LArg 195 | gloss withheld |
 | Tigrinya | bäʕal (KT 1177) | KT 1177 | gloss withheld |
-| Punic | bal (HALOT 142); bʕl (HJ 182) | HALOT 142; HJ 182 |  |
+| Punic | bal (HALOT 142); bʕl (HJ 182); bʕlt (Krahmalkov 120) | HALOT 142; HJ 182; Krahmalkov 120 | gloss withheld |
 | Amorite | baḫlu; balu (HALOT 142); baʿlu (Buck 2019, 325) | HALOT 142; Buck 2019, 325 | gloss withheld |
 | Canaanite | baḫlu; balu (HALOT 142) | HALOT 142 |  |
-| Mandaic Aramaic | bil (LGz. 84; Drower/Macuch 60b apud CAL) | LGz. 84; Macuch 60b; CAL | gloss withheld |
+| Mandaic Aramaic | bil (LGz. 84; MD 60) | LGz. 84; MD 60 | gloss withheld |
 | Eblaitic | ba-lu /baʕlu/, in ba-lu da-a-tim (VE 1245; Krebernik 1983, 42); DN element ba-al: names en-na-ba-al, wa-a-ga-ba-al (Antalík 1998, 38) | VE 1245; Krebernik 1983, 42; Antalík 1998, 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

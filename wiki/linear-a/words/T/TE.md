@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/T/TE
 title: "TE"
-desc: "terûmā: administrative transaction or category marker; perhaps contribution or offering. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative_or_ritual"]
+desc: "terûmā: contribution, offering (terûmā), a transaction marker. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "transaction_sign"]
 kind: "word"
 form: "TE"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | terûmā |
-| Meaning | administrative transaction or category marker; perhaps contribution or offering |
+| Meaning | contribution, offering (terûmā), a transaction marker |
 | Root | r-w-m |
 | Proto-Semitic | \*rVyVm- (#1135) |
-| Language layer | NWS |
-| Category | administrative_or_ritual |
-| Semantic field | ritual |
+| Language layer | Semitic |
+| Tags | accounting, administrative, transaction_sign |
+| Semantic field | administrative |
 
 ### Note
 
-TE occurs in 54 documents at five identified sites plus AN Zb 1, whose site is unrecorded in the corpus; ARKH 3a and ZA 21a have \]TE, broken before. Commodity-number entries and 25 one-sign HT nodules securely establish an administrative category or transaction function. Hebrew terûmā 'contribution' and Ugaritic trmt 'offering' support the proposed sense, but Linear A TE does not spell the full word and no TE-RU-MA form is attested. Terûmā therefore remains a proposed acrophonic or logographic value, not a lexical identification. VIN+TE may be a compound commodity marker but does not independently prove 'wine-offering.' See RU-MA.
+TE stands with VIN in the heading of every HT wine tablet and with the large barley entries of HT 40, 52 and 133 (Montecchi 2010, 17, 19). It marks commodity-number entries on 54 documents, and 25 HT nodules carry it alone (HT Wa 1122–1146). terûmā 'contribution, offering' (HALOT 1788), Ug. trmt 'offering', trmt lbš w ktn 'an offering: a garment and a tunic' (KTU 1.43:3; DULAT 866); TE abbreviates it, and VIN+TE is a wine-offering. Weak point: KU stands beside the full KU-RO kull, where no TE-RU-MA stands beside TE. See RU-MA.
 
 ### Cognates
 
@@ -49,11 +49,11 @@ TE occurs in 54 documents at five identified sites plus AN Zb 1, whose site is u
 |---|---|
 | Hebrew | terûmā (תְּרוּמָה) 'contribution, sacred donation' (Exod 25:2), from √r-w-m |
 | Ugaritic | trmt 'offering' (KTU 1.43:3; 1.6 VI:44; Copenhagen Ugaritic Corpus lexicon) |
-| Akkadian | tāmartu 'gift, present (to temple or king)'—a functional parallel, not a cognate |
+| Akkadian | cf. tāmartu 'gift, present (to temple or king)' |
 
 ### Source
 
-Corpus distribution; Hebrew terûmā; Ugaritic trmt (KTU 1.43:3; 1.6 VI:44)
+di Mino; Montecchi 2010; HALOT; DULAT
 
 ## Attestations
 

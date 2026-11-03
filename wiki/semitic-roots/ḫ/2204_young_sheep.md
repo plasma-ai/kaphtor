@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2204_young_sheep
 title: "*ḫVrVp-: 'young sheep'"
-desc: "Proto-Semitic *ḫVrVp-, 'young sheep': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḫVrVp-, 'young sheep': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2204"
@@ -39,7 +39,9 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥurpā 'a young lamb' \[Ja. 440\] (also ḥorpītā 'early conceiving, vigorous sheep' \[ibid. 505\]). | Ja. 440; Ja. 505 |  |
 | Syrian Aramaic | ḥurpā 'yearling, one year old (sheep)' \[Brock. 258\], \[PS 1380\]. | Brock. 258; PS 1380 |  |
 | Aramaic | Sam. ḥrp, ḥwrp, ḥrwp, ḥryp, ḥrpn \[Tal 296\]. | Tal 296 | gloss withheld |
-| Jibbali | ḫarfót (SED II 154) | SED II 154 | gloss withheld |
+| Jibbali | ḫarfót (Bittner 41 apud SED II 154) | Bittner 41; SED II 154 | gloss withheld |
+| Amorite | ḫarip: ḫa-ri-pí (Sanmartín GlOS 1, 279) | Sanmartín GlOS 1, 279 | gloss withheld |
+| Eblaitic | ḫurāp: name ḫu-ra-bù (Sanmartín GlOS 1, 279) | Sanmartín GlOS 1, 279 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

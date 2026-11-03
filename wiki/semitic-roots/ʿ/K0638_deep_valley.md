@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0638_deep_valley
 title: "*ʿVmVq-: 'deep', 'valley'"
-desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 20 language(s)."
+desc: "Proto-Semitic *ʿVmVq-, 'deep', 'valley': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0638"
@@ -34,11 +34,11 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕamuqa 'deep' (Lane 2157) | Lane 2157; Anderson–Moser 2024 root ʿmq |  |
 | Geez | ʿamaqa 'deep' (Dillmann 06941) | Dillmann 06941; Anderson–Moser 2024 root ʿmq |  |
 | Hebrew | ʿamaq; ʿemeq; ʿōmeq (Pr 9:18, 25:3; HALOT 849) | HALOT 849; Anderson–Moser 2024 root ʿmq | gloss withheld |
-| Punic | ʿmq 'valley' | Anderson–Moser 2024 root ʿmq |  |
+| Punic | ʿmq; Neo-Punic ʿmqt (Krahmalkov 380) | Krahmalkov 380; Anderson–Moser 2024 root ʿmq | gloss withheld |
 | Ugaritic | ʿmq /ʿamuqu/ (UVST 160) | UVST 160; Anderson–Moser 2024 root ʿmq | gloss withheld |
 | Epigraphic South Arabian | Sab ʿmq (Biella 372) | Biella 372 | gloss withheld |
 | Judaic Aramaic | ʿamqā; ʿamīq (HALOT 847, 849; Jastrow 1088, 1090; DJPA 411a apud CAL) | HALOT 847, 849; Jastrow 1088, 1090; DJPA 411a; CAL | gloss withheld |
-| Mandaic Aramaic | ʿumqā; ʿmuq (HALOT 847, 849; Drower/Macuch 352b apud CAL) | HALOT 847, 849; Macuch 352b; CAL |  |
+| Mandaic Aramaic | ʿumqā; ʿmuq (HALOT 847, 849; MD 352) | HALOT 847, 849; MD 352 |  |
 | Canaanite | ummuqu (EA 359:29; HALOT 849; CAD U/W 134) | HALOT 849; CAD U/W 134 | gloss withheld |
 | Syrian Aramaic | ʿəmaq (LGz. 63; Payne Smith 418) | LGz. 63; Payne Smith 418 |  |
 | Tigrinya | ʿamäqʷä (LGz. 63) | LGz. 63 |  |
@@ -49,6 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʿamiqoh (Biella 372) | Biella 372 |  |
 | Emar | am-qí, am-qú /ʿamqu/ (Pentiuc 2001, 31–32) | Pentiuc 2001 31–32 | gloss withheld |
 | Amorite | ḫamqu: ḫa-am-qa-am (Florilegium Marianum II, 38: 8) (Streck 2000, 93); ʿamq (Sanmartín GlOS 1, 79) | Streck 2000 93; Sanmartín GlOS 1, 79 | gloss withheld |
+| Biblical Aramaic | \*ʿammīq, pl. (HALOT BArm. s.v. עַמִּיק) | HALOT BArm. s.v. עַמִּיק | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

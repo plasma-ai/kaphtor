@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2647_say_speak
 title: "*rgm: 'say, speak'"
-desc: "Proto-Semitic *rgm, 'say, speak': reflexes in 6 language(s)."
+desc: "Proto-Semitic *rgm, 'say, speak': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2647"
@@ -36,6 +36,10 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | rgm: ʾargam, rigm(ān)um (Gelb AS 21, 30); r-g-m: ar-ga-ma-tum (Sanmartín GlOS 2, 156) | Gelb AS 21 30; Sanmartín GlOS 2, 156 | gloss withheld |
 | Geez | ragama (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015 ch. 3 §5.3 no. 28 | gloss withheld |
 | Jibbali | s̃érégəm (Kogan 2015, ch. 3 §5.3 no. 28) | Kogan 2015 ch. 3 §5.3 no. 28 | gloss withheld |
+| Tigrinya | rägämä (LGz. 465) | LGz. 465 | gloss withheld |
+| Tigre | rägma (LGz. 465) | LGz. 465 |  |
+| Amharic | räggämä (LGz. 465) | LGz. 465 |  |
+| Gurage | räggämä (LGz. 465) | LGz. 465 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -43,7 +43,7 @@ updated: 2026-10-26T14:26:59Z
 | Epigraphic South Arabian | SAB s1nt \[SD 163; Sabaweb lemma 1894\] | SD 163; Sabaweb lemma 1894 | gloss withheld |
 | Judaic Aramaic | šēntā, šēnā, šintā; šǝnā (šäntā) (n.) \[Ja 1564\], \[DJPA 560a apud CAL\] | Ja 1564; DJPA 560a; CAL | gloss withheld |
 | Syrian Aramaic | šentā 'sleep' \[Brock 789\] | Brock 789 |  |
-| Aramaic | SAMAL šnh \[HJ 1155\] | HJ 1155 | gloss withheld |
+| Aramaic | SAMAL šnh \[HJ 1175\] | HJ 1175 | gloss withheld |
 | Biblical Aramaic | suff. šint- 'sleep' (BDB 1096) | BDB 1096 |  |
 | Geez | ʔaswana \[LGz. 520\] | LGz. 520 |  |
 | Pre-Islamic North Arabian | Safaitic wsn (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |

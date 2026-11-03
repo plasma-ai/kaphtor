@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_PA_SA_JA
 title: "I-PA-SA-JA"
 desc: "Ipšaja: Ipšaja (personal name; Hurrian hypocoristic). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "I-PA-SA-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,8 +34,8 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ipšaja |
 | Meaning | Ipšaja (personal name; Hurrian hypocoristic) |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 

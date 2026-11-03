@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_DU_NI_TA_NA
 title: "A-DU-NI-TA-NA"
 desc: "ʾAddu-nittāna: given by Addu (compound theophoric PN). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "A-DU-NI-TA-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | given by Addu (compound theophoric PN) |
 | Root | ʾ-d-d + n-t-n |
 | Proto-Semitic | \*hadad- (#3186) + \*ytn ~ \*ntn (#2608) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Arkhanes tablet. Compound theophoric: A-DU (Hadad/Addu storm god, the dominant theophoric in the corpus) + NI-TA-NA (nittāna, N-stem perfect of √n-t-n 'to give', &lt; \*nintan 'was given'). Parallels: Amarna EA Addu-dāni, OB Addu-nārī. Both root elements independently attested in corpus: A-DU heads HT88 register; √n-t-n underlies NA-TU-\*301-NE (SKOZc1). Single attestation. Both constituent elements independently attested: A-DU (CANDIDATE, 8 documents at two sites) and √n-t-n (via NA-TU-\*301-NE at SKOZc1, PROBABLE). ZA10a demonstrates A-DU as detachable theophoric prefix (A-DU-KU-MI-NA ~ A-KU-MI-NA). Active parallels: Akkadian Adad-iddinam, Iddin-Dagan; West Semitic Adda-natan (SAA 14 014), whose G perfect natan the NI- spelling does not fit. Mari Yantin-Addu (ARM 26/1, 602) and Amorite Yantin-Haddu (Gelb AS 21 nos. 2990, 2992) are the same DN + √n-t-n type. One attestation. Member of the Arkhanes ration-formula family (named recipient + GRA/\*131B-must + quantity; ARKH2, ARKH5 ↔ ARKH3a/b)—the recipient slot on ARKH5. NB: the recurring element across ARKH2+ARKH5 is \*131B, not this name; attestation remains ARKH5 only.
+ARKH 5 A-DU-NI-TA-NA 41, before A-DA-RO GRA 40 and \*131B 6: a named recipient and its quantity, in the Arkhanes ration format of ARKH 2 and ARKH 3a, which also list \*131B must. A-DU, Addu the storm god, + NI-TA-NA nittāna, N-stem perfect of √n-t-n 'to give', from \*nintan: 'given by Addu'. Both elements stand elsewhere: A-DU heads the HT 88 register and detaches as a theophoric prefix on ZA 10a (A-DU-KU-MI-NA beside A-KU-MI-NA), and √n-t-n underlies NA-TU-\*301-NE (SKO Zc 1). Names of god and verb: Akk. Adad-iddinam and Iddin-Dagan, of the type DN-iddin(am) (CAD N/1 49), Mari Yantin-Addu (ARM 26/1, 602), Amorite Yantin-Haddu (Gelb 1980, nos. 2990, 2992). Weak point: West Semitic Adda-natan (SAA 14 014) has the G perfect natan, which the NI- spelling does not fit. One attestation.
 
 ### Cognates
 
@@ -72,8 +72,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

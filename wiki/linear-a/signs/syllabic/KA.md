@@ -57,10 +57,11 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
 | [[wiki/linear-a/words/star/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] | bīdi Našūka | SPECULATIVE |
 | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] | bīdi Sūka | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KA_NU\|A-KA-NU]] | ʾagānu | CONFIRMED |
 | [[wiki/linear-a/words/A/A_KA_RU\|A-KA-RU]] | Agaru | PROBABLE |
 | [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ṣadaqa | CANDIDATE |
+| [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TI_KA\|A-TI-KA]] | ʿAtīqa | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KA\|DA-KA]] | dagu | CANDIDATE |
@@ -79,13 +80,13 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_KU_PA\|KA-KU-PA]] | kawkab | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA\|KA-NA]] | qana / qanû | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | \*kanasti | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | kanasti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NI_JA_MI\|KA-NI-JA-MI]] | qāniy-yammi | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | Ganuti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_PO_RU\|KA-PO-RU]] | kapōru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RO_NA\|KA-RO-NA]] | Qarna | PROBABLE |
 | [[wiki/linear-a/words/K/KA_RO_PA3\|KA-RO-PA₃]] | karbu | PROBABLE |
 | [[wiki/linear-a/words/K/KA_RU\|KA-RU]] | karru | SPECULATIVE |
@@ -94,11 +95,11 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/K/KA_TI\|KA-TI]] | Qāti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |
-| [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | makisu | CANDIDATE |
-| [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | makita | CANDIDATE |
+| [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | Makī-se | SPECULATIVE |
+| [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | Makīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_KA_RI_TE\|MA-KA-RI-TE]] | makkārītu | CANDIDATE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CONFIRMED |
+| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_KA_TA\|RI-KA-TA]] | Likata | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_KA\|RU-KA]] | ruqāq | SPECULATIVE |

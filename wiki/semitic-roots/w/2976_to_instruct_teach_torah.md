@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/2976_to_instruct_teach_torah
 title: "*wVrVy-: 'to instruct, teach' (torah)"
-desc: "Proto-Semitic *wVrVy-, 'to instruct, teach' (torah): reflexes in 6 language(s)."
+desc: "Proto-Semitic *wVrVy-, 'to instruct, teach' (torah): reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2976"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | wry (HALOT 436) | HALOT 436 |  |
 | Amharic | warra (HALOT 436) | HALOT 436 |  |
 | Judaic Aramaic | yrh (HALOT 436) | HALOT 436 |  |
+| Akkadian | šūrû (CAD Š/3 370) | CAD Š/3 370 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | pB r-m-z (Aramaic Root Atlas 0821; HALOT 1210) | Aramaic Root Atlas 0821; HALOT 1210 | gloss withheld |
 | Judaic Aramaic | rmz (HALOT 1210; DJPA 525b apud CAL) | HALOT 1210; DJPA 525b; CAL |  |
 | Syrian Aramaic | rmz (HALOT 1210; Payne Smith 543) | HALOT 1210; Payne Smith 543 |  |
-| Mandaic Aramaic | rmz (HALOT 1210; Drower/Macuch 436a apud CAL) | HALOT 1210; Macuch 436a; CAL |  |
+| Mandaic Aramaic | rmz (HALOT 1210; MD 436) | HALOT 1210; MD 436 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

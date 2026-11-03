@@ -13,7 +13,7 @@ updated: 2026-10-29T15:12:45Z
 
 [[data/linear-a/paradigm-b/_index|..]]
 
-[[data/linear-a/paradigm-b/paradigm/cs.json|cs.json]]: Central Semitic, the headline arm: 93 morphemes (85 at cost 0, 69 distinct realizations), 67 attested forms.
+[[data/linear-a/paradigm-b/paradigm/cs.json|cs.json]]: Central Semitic, the headline arm: 93 morphemes (85 in the headline inventory, 69 distinct realizations), 67 attested forms.
 
 [[data/linear-a/paradigm-b/paradigm/egyptian.json|egyptian.json]]: Middle Egyptian: 65 morphemes (62 distinct realizations), 42 attested forms.
 

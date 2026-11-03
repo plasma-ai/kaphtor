@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/373_silver
 title: "*kasp-: 'silver'"
-desc: "Proto-Semitic *kasp-, 'silver': reflexes in 9 language(s)."
+desc: "Proto-Semitic *kasp-, 'silver': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "373"
@@ -32,13 +32,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | kaspu |  |  |
 | Ugaritic | ksp (DULAT 458); /kaspu/ (UVST 139) | DULAT 458; UVST 139 | gloss withheld |
-| Phoenician | ksp (DNWSI 524 apud SEDonline 2008); ksp (T 147) | DNWSI 524; SEDonline 2008; T 147 | gloss withheld |
+| Phoenician | ksp (DNWSI 524); ksp (T 147) | DNWSI 524; T 147 | gloss withheld |
+| Punic | ksp; hksp (Krahmalkov 238) | Krahmalkov 238 | gloss withheld |
 | Hebrew | käsäp |  |  |
 | Syrian Aramaic | kespā (HALOT 490; Payne Smith 221) | HALOT 490; Payne Smith 221 |  |
 | Aramaic | kspʾ (T 147) | T 147 |  |
 | Judaic Aramaic | kaspaʾ (T 147) | T 147 |  |
 | Mandaic Aramaic | kaspaʾ (T 147) | T 147 |  |
 | Eblaitic | /kasp/: name bù-KÙ:BABBAR, bù-KÙ:BABBAR!(AN) (Sanmartín GlOS 1, 324) | Sanmartín GlOS 1, 324 | gloss withheld |
+| Biblical Aramaic | kəsap (HALOT BArm. s.v. כְּסַף) | HALOT BArm. s.v. כְּסַף | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

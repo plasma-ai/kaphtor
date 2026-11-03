@@ -10,19 +10,19 @@ updated: 2026-10-22T18:14:10Z
 
 `onomasticon.json` holds `schema_version`, `description`, the closed lists `affiliation_classes`, `types` and
 `provenance_levels`, `stats` (counts by type, affiliation, family and provenance) and `entries`, a list keyed by `token`. It
-holds names only: a word the lexicon reads as a commodity, a verb or a phrase has no entry here, and neither has a
-group no one can read. Readings are di Mino's unless the note names another scholar.
+holds names only: a word the lexicon reads as a commodity, a verb or a phrase has no entry here. 21 entries carry no
+reading: groups the documents set as names (20 personal names, one toponym), affiliation `unknown`. Readings are di Mino's unless the note names another scholar.
 
 | Field | Content |
 | --- | --- |
 | `token` | the sign group as written, signs joined by hyphens (`KU-PA₃-NU`) |
 | `normalized` | the token in lower case without hyphens or asterisks, subscripts as digits, for matching |
 | `type`, `type_confidence` | personal name, toponym, theonym, gentilic, toponym or gentilic (`toponym_gentilic`) or title, and the tier of that classification |
-| `affiliation`, `affiliation_confidence` | the language the name belongs to (`semitic`, `hurrian`, `egyptian`, `unknown`…), and its tier |
-| `language_family` | the family over `affiliation`: `Semitic` (semitic, akkadian_contact), `Hurro-Urartian` (hurrian), `Egyptian`, `Indo-European` (anatolian, indo_aryan), or null for `unknown`; `stats.by_family` counts it, with null as `unassigned` |
+| `affiliation`, `affiliation_confidence` | the language the name belongs to, the linked lexicon entry's `language_layer` in lower case, `Middle Egyptian` as `egyptian` and `Indo-European` as `indo_european` (`semitic`, `hurrian`, `egyptian`, `anatolian`, `indo_european`, `sumerian`, `aegean`), or `unknown`, and its tier |
+| `language_family` | the family over `affiliation`: `Semitic` (semitic), `Hurro-Urartian` (hurrian), `Egyptian`, `Indo-European` (indo_european), `Sumerian` (sumerian: KU-PA₃-PA₃ Kubaba), or under `anatolian` the origin, as in the lexicon; null for `aegean` and `unknown`; `stats.by_family` counts it, with null as `unassigned` |
 | `affiliation_evidence` | what sets the affiliation: `lexicon_reading`, `contact_hit` or `none` |
 | `lexicon_ref` | the lexicon entry that reads the name, or the base word of a derived form, where there is one |
-| `reading`, `meaning` | the lexicon's reading and sense, copied onto the entry; on an entry with no lexicon link, di Mino's reading, with affiliation `unknown` |
+| `reading`, `meaning` | the lexicon's reading and sense, copied onto the entry; null on an entry with no lexicon link (affiliation `unknown`) |
 | `contact_ref` | the id of the contact-language record the name matches (`am_gelb_n_04148`, `ug_dulat_0229`) |
 | `frequency`, `attestations`, `sites`, `cross_site` | occurrences, inscription ids (always a list), site names, and whether it crosses sites |
 | `genre_supports` | occurrences by kind of object (`Tablet`, `Roundel`, `Stone vessel`…) |
@@ -35,8 +35,9 @@ group no one can read. Readings are di Mino's unless the note names another scho
 | `note` | evidence, rivals and parallels |
 
 The tiers are those of the lexicon: CONFIRMED, PROBABLE, CANDIDATE and SPECULATIVE. An entry's affiliation follows
-the language layer of its lexicon reading and never stands above that reading's tier. An entry with no reading is
-`unknown`; `stats.by_affiliation.unknown` counts those entries by the state of their witnesses (intact, fragmentary,
+the language layer of its lexicon reading and never stands above that reading's tier. The lexicon layer
+`Aegean` gives `aegean`: a name read through a Linear B name or place cognate or an Egyptian Keftiu-name list,
+with no Semitic root. An entry with no reading is `unknown`; `stats.by_affiliation.unknown` counts those entries by the state of their witnesses (intact, fragmentary,
 edge-damaged, no witness).
 
 Inscription ids match [corpus.json](corpus.json) and [translations.json](translations.json), and `lexicon_ref`

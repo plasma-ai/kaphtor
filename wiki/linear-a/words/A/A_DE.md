@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_DE
 title: "A-DE"
 desc: "ʾAddē: Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-DE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Father (hypocoristic personal name, ʾAdday); rival the kin title ʾad 'father' |
 | Root | ʾ-d |
 | Proto-Semitic | \*ʾad- (#2567) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

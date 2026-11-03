@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_NI_TE
 title: "KU-NI-TE"
 desc: "kuhnēt: priestess (fem. singular). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "personnel", "ritual", "title"]
 kind: "word"
 form: "KU-NI-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | priestess (fem. singular) |
 | Root | k-h-n-t |
 | Proto-Semitic | \*kVhVn- (#2381) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel, ritual, title |
 | Semantic field | personnel |
 
 ### Note
 
-KH 92 .1 A-DA-QIf-RI · KU-NI-TE 10\[ (Younger): a counted entry, with \]NA-KI 1 on .2. Punic khnt 'priestess' (Krahmalkov); Ugaritic khn 'priest'. Part of the √k-h-n group with KI-NI-MA and KA-NU-TI. Weak point: KU for the ā of kāhin-. See A-KO-A-NE.
+KH 92 .1 A-DA-QIf-RI · KU-NI-TE 10\[ (Younger, Linear A Texts): a counted entry, with \]NA-KI 1 on .2. kuhnēt 'priestess': Punic khnt 'priestess' (Krahmalkov 2000, 224), Ug. khn 'priest' (DULAT 428). KU writes the ū of Punic kūhen (KAI 159.6/7; Krahmalkov 2000, 419). Of the √k-h-n group with KI-NI-MA. One attestation. See A-KO-A-NE.
 
 ### Cognates
 

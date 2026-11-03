@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/S83_tomb_grave
 title: "*qbr: 'tomb, grave'"
-desc: "Proto-Semitic *qbr, 'tomb, grave': reflexes in 23 language(s)."
+desc: "Proto-Semitic *qbr, 'tomb, grave': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S83"
@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | qibrā, qəbūrtā, qbr (HALOT 1061, 1064; DJPA 473b apud CAL) | HALOT 1061, 1064; DJPA 473b; CAL | gloss withheld |
 | Syrian Aramaic | qəbūrā, qəburtā (HALOT 1061; Payne Smith 487) | HALOT 1061; Payne Smith 487 |  |
 | Akkadian | qabru(m), qubūru(m), quburtum, qebēru (HALOT 1061, 1064) | HALOT 1061, 1064 | gloss withheld |
-| Mandaic Aramaic | qabra (HALOT 1064; Drower/Macuch 398b apud CAL) | HALOT 1064; Macuch 398b; CAL |  |
+| Mandaic Aramaic | qabra (HALOT 1064; MD 398) | HALOT 1064; MD 398 |  |
 | Geez | qabar (HALOT 1064) | HALOT 1064 |  |
 | Tigre | qabr (HALOT 1064) | HALOT 1064 |  |
 | Arabic | qabr (HALOT 1064) | HALOT 1064 |  |
@@ -51,7 +51,8 @@ updated: 2026-10-22T17:38:31Z
 | Punic | qbr, Neo-Punic qybr (Krahmalkov 423); qbr, qybr; qbr, qbʾr, qbʿr (T 283) | Krahmalkov 423; T 283 | gloss withheld |
 | Mehri | ḳəbūr (Kogan 2011, 232) | Kogan 2011 232 | gloss withheld |
 | Jibbali | ḳɔ̄r (Kogan 2011, 232) | Kogan 2011 232 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic qbr (Al-Jallad–Jaworska 109) | Al-Jallad–Jaworska 109 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qbr (Al-Jallad–Jaworska 109); qbr; Dadanitic qbr; Hasaitic qbr (Al-Jallad 2026, 110) | Al-Jallad–Jaworska 109; Al-Jallad 2026 110 | gloss withheld |
+| Eblaitic | /q-b-r/: da-ga-bir₅, inf. ga-ba-ri-iš (Sanmartín GlOS 1, 339) | Sanmartín GlOS 1, 339 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

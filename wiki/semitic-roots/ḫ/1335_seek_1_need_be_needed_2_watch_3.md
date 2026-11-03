@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/1335_seek_1_need_be_needed_2_watch_3
 title: "*ḫVŝ(ḫVŝ)-: 'seek' 1, 'need, be needed' 2, 'watch' 3"
-desc: "Proto-Semitic *ḫVŝ(ḫVŝ)-, 'seek' 1, 'need, be needed' 2, 'watch' 3: reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḫVŝ(ḫVŝ)-, 'seek' 1, 'need, be needed' 2, 'watch' 3: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1335"
@@ -38,6 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | assäsä (LGz. 266) | LGz. 266 | gloss withheld |
 | Harari | xaša (LGz. 266) | LGz. 266 | gloss withheld |
 | Gurage | käše (LGz. 266) | LGz. 266 | gloss withheld |
+| Eblaitic | ḫas₁iḫ 2: name ʔà-ši-ḫu (Sanmartín GlOS 1, 284) | Sanmartín GlOS 1, 284 | gloss withheld |
+| Biblical Aramaic | ḥšḥ 2 (HALOT BArm. s.v. חשׁח); \*ḥašḥū 2 (HALOT BArm. s.v. חַשְׁחוּ) | HALOT BArm. s.v. חשׁח; HALOT BArm. s.v. חַשְׁחוּ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

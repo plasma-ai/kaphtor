@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RO_QA
 title: "RO-QA"
 desc: "rōqaḥ: compounded perfume, ointment (vessel label). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "aromatic", "commodity", "hapax", "noun"]
 kind: "word"
 form: "RO-QA"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | compounded perfume, ointment (vessel label) |
 | Root | r-q-ḥ |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | aromatic, commodity, hapax, noun |
 | Semantic field | commodity |
 
 ### Note

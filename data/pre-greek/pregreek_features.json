@@ -1,0 +1,1924 @@
+{
+ "schema_version": 1,
+ "description": "The Pre-Greek features of Beekes 2014, chapters 2-3: one record per numbered section, item and suffix, with its kind, chapter, printed page and Greek notation (the affix or letters the section is about). English headings are not given.",
+ "features": [
+  {
+   "id": "2.1",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 4
+  },
+  {
+   "id": "2.2a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 9
+  },
+  {
+   "id": "2.2a.1",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 9,
+   "notation": "αυ"
+  },
+  {
+   "id": "2.2a.2",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 9,
+   "notation": "β"
+  },
+  {
+   "id": "2.2a.3",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "βδ"
+  },
+  {
+   "id": "2.2a.4",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "γδ"
+  },
+  {
+   "id": "2.2a.5",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "γν"
+  },
+  {
+   "id": "2.2a.6",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "δν"
+  },
+  {
+   "id": "2.2a.7",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "κτ"
+  },
+  {
+   "id": "2.2a.8",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "κχ"
+  },
+  {
+   "id": "2.2a.9",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "μν"
+  },
+  {
+   "id": "2.2a.10",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 10,
+   "notation": "ου"
+  },
+  {
+   "id": "2.2a.11",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "πφ"
+  },
+  {
+   "id": "2.2a.12",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "ρδ"
+  },
+  {
+   "id": "2.2a.13",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "ρκν"
+  },
+  {
+   "id": "2.2a.14",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "ρν"
+  },
+  {
+   "id": "2.2a.15",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "σ"
+  },
+  {
+   "id": "2.2a.16",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "σβ"
+  },
+  {
+   "id": "2.2a.17",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "σγ"
+  },
+  {
+   "id": "2.2a.18",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 11,
+   "notation": "σκ, στ"
+  },
+  {
+   "id": "2.2a.19",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 12,
+   "notation": "στλ"
+  },
+  {
+   "id": "2.2a.20",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 12,
+   "notation": "τθ"
+  },
+  {
+   "id": "2.2a.21",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 12,
+   "notation": "φθ"
+  },
+  {
+   "id": "2.2a.22",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 12,
+   "notation": "χμ, χν"
+  },
+  {
+   "id": "2.2a.23",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 12,
+   "notation": "ψ"
+  },
+  {
+   "id": "2.2a.24",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 12,
+   "notation": "ω"
+  },
+  {
+   "id": "2.2a.25",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 12
+  },
+  {
+   "id": "2.2b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 13
+  },
+  {
+   "id": "2.3",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 13
+  },
+  {
+   "id": "2.4",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 14
+  },
+  {
+   "id": "2.5",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 14
+  },
+  {
+   "id": "2.5.1",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 14
+  },
+  {
+   "id": "2.5.2",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 14
+  },
+  {
+   "id": "2.5.3",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 14
+  },
+  {
+   "id": "2.5.4",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 15
+  },
+  {
+   "id": "2.5.5",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 16
+  },
+  {
+   "id": "2.5.5.1a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 17,
+   "notation": "πτ"
+  },
+  {
+   "id": "2.5.5.1b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "κτ"
+  },
+  {
+   "id": "2.5.5.2a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "π / ψ"
+  },
+  {
+   "id": "2.5.5.2b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "κ / ξ"
+  },
+  {
+   "id": "2.5.5.3a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "π / σπ"
+  },
+  {
+   "id": "2.5.5.3b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "κ / σκ"
+  },
+  {
+   "id": "2.5.5.4a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "πτ / ψ"
+  },
+  {
+   "id": "2.5.5.4b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "κτ / ξ"
+  },
+  {
+   "id": "2.5.5.5b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "κτ / σκ"
+  },
+  {
+   "id": "2.5.5.6a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "ψ / σπ"
+  },
+  {
+   "id": "2.5.5.6b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "ξ / σκ"
+  },
+  {
+   "id": "2.5.5.7b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "ξ / σσ"
+  },
+  {
+   "id": "2.5.5.8b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "σκ / σσ"
+  },
+  {
+   "id": "2.5.5.9a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 18,
+   "notation": "τ / σσ"
+  },
+  {
+   "id": "2.5.5.10a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 19,
+   "notation": "τ / στ"
+  },
+  {
+   "id": "2.5.5.11a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 19,
+   "notation": "σσ / στ"
+  },
+  {
+   "id": "2.5.6",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 19
+  },
+  {
+   "id": "2.5.7",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 20
+  },
+  {
+   "id": "2.5.7a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 20,
+   "notation": "δ / λ"
+  },
+  {
+   "id": "2.5.7b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 20,
+   "notation": "δ / ρ"
+  },
+  {
+   "id": "2.5.7c",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 21,
+   "notation": "λ / ρ"
+  },
+  {
+   "id": "2.5.8",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 21
+  },
+  {
+   "id": "2.5.9",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 21
+  },
+  {
+   "id": "2.5.10",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 21
+  },
+  {
+   "id": "2.5.11",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 22
+  },
+  {
+   "id": "2.5.12",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 22
+  },
+  {
+   "id": "2.5.13",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 22
+  },
+  {
+   "id": "2.5.13.1",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 22
+  },
+  {
+   "id": "2.5.13.2",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 22,
+   "notation": "α > ο"
+  },
+  {
+   "id": "2.5.14",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 22
+  },
+  {
+   "id": "2.6",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23
+  },
+  {
+   "id": "2.6.1",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23
+  },
+  {
+   "id": "2.6.1.1",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23
+  },
+  {
+   "id": "2.6.1.1a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "α / ε"
+  },
+  {
+   "id": "2.6.1.1b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "α / ο"
+  },
+  {
+   "id": "2.6.1.1c",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "α / αι"
+  },
+  {
+   "id": "2.6.1.1d",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "α / αυ"
+  },
+  {
+   "id": "2.6.1.1e",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "α / ω"
+  },
+  {
+   "id": "2.6.1.1f",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "αι / ει"
+  },
+  {
+   "id": "2.6.1.1g",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "αυ / ευ"
+  },
+  {
+   "id": "2.6.1.1h",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "αυ/ω,ο"
+  },
+  {
+   "id": "2.6.1.1i",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "ᾱ/ αι"
+  },
+  {
+   "id": "2.6.1.1j",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 23,
+   "notation": "ᾳ/ ᾱ"
+  },
+  {
+   "id": "2.6.1.2",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24
+  },
+  {
+   "id": "2.6.1.2a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ε / α"
+  },
+  {
+   "id": "2.6.1.2b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ε / ι"
+  },
+  {
+   "id": "2.6.1.2c",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ε / ι / υ"
+  },
+  {
+   "id": "2.6.1.2d",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ε / ευ"
+  },
+  {
+   "id": "2.6.1.2e",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ει / αι"
+  },
+  {
+   "id": "2.6.1.2f",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ει / η"
+  },
+  {
+   "id": "2.6.1.2g",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ευ / ε"
+  },
+  {
+   "id": "2.6.1.2h",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ευ / αυ"
+  },
+  {
+   "id": "2.6.1.2i",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ε / η"
+  },
+  {
+   "id": "2.6.1.2j",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "η / ι"
+  },
+  {
+   "id": "2.6.1.3",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24
+  },
+  {
+   "id": "2.6.1.3a",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ο / α"
+  },
+  {
+   "id": "2.6.1.3b",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ο / ι"
+  },
+  {
+   "id": "2.6.1.3c",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ο / υ"
+  },
+  {
+   "id": "2.6.1.3d",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ο / ου"
+  },
+  {
+   "id": "2.6.1.3e",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ο / ω"
+  },
+  {
+   "id": "2.6.1.3f",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "οι / υ"
+  },
+  {
+   "id": "2.6.1.3g",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "οι/ου"
+  },
+  {
+   "id": "2.6.1.3h",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ου / υ"
+  },
+  {
+   "id": "2.6.1.3i",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ου / ω"
+  },
+  {
+   "id": "2.6.1.3j",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ω / η"
+  },
+  {
+   "id": "2.6.1.3k",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 24,
+   "notation": "ω / υ"
+  },
+  {
+   "id": "2.6.1.3l",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 25,
+   "notation": "ο / ε"
+  },
+  {
+   "id": "2.6.1.4",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 25,
+   "notation": "ι / υ"
+  },
+  {
+   "id": "2.6.1.5",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 25,
+   "notation": "υ / ε"
+  },
+  {
+   "id": "2.6.2",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 25
+  },
+  {
+   "id": "2.6.3",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 25
+  },
+  {
+   "id": "2.6.4",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 26
+  },
+  {
+   "id": "2.6.5",
+   "kind": "phonology",
+   "chapter": 2,
+   "printed_page": 26
+  },
+  {
+   "id": "3.1",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 27
+  },
+  {
+   "id": "3.2",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 27
+  },
+  {
+   "id": "3.2.1",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 27
+  },
+  {
+   "id": "3.2.2",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 28
+  },
+  {
+   "id": "3.2.3",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 29
+  },
+  {
+   "id": "3.2.3.1",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 29,
+   "notation": "-αβ-(ο-)"
+  },
+  {
+   "id": "3.2.3.2",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 29,
+   "notation": "-αγ-"
+  },
+  {
+   "id": "3.2.3.3",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 29,
+   "notation": "-αγγ-ο-"
+  },
+  {
+   "id": "3.2.3.4",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 29,
+   "notation": "-αγχ-"
+  },
+  {
+   "id": "3.2.3.5",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 29,
+   "notation": "-αδ-"
+  },
+  {
+   "id": "3.2.3.6",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 29,
+   "notation": "-αθ-ο-"
+  },
+  {
+   "id": "3.2.3.7",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 30,
+   "notation": "-αι-/-ε(ι)-"
+  },
+  {
+   "id": "3.2.3.8",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 30,
+   "notation": "-αι(ϝ)-ο-"
+  },
+  {
+   "id": "3.2.3.9",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 30,
+   "notation": "-αιβ-ο-"
+  },
+  {
+   "id": "3.2.3.10",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 30,
+   "notation": "-αιθ-"
+  },
+  {
+   "id": "3.2.3.11",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 30,
+   "notation": "-αιν-"
+  },
+  {
+   "id": "3.2.3.12",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-αιρ-(ο-)"
+  },
+  {
+   "id": "3.2.3.13",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-ακ-"
+  },
+  {
+   "id": "3.2.3.14",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-ακρος"
+  },
+  {
+   "id": "3.2.3.15",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-αλ(λ)-ο-"
+  },
+  {
+   "id": "3.2.3.16",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-αμβ-ο-"
+  },
+  {
+   "id": "3.2.3.17",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-αμν-ο-"
+  },
+  {
+   "id": "3.2.3.18",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-αμ-ο-"
+  },
+  {
+   "id": "3.2.3.19",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-αν-ο-"
+  },
+  {
+   "id": "3.2.3.20",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-ᾱν-"
+  },
+  {
+   "id": "3.2.3.21",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-ανδ-"
+  },
+  {
+   "id": "3.2.3.22",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 31,
+   "notation": "-ανδρ-"
+  },
+  {
+   "id": "3.2.3.23",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-ανθ/τ-"
+  },
+  {
+   "id": "3.2.3.24",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-ανν-ο-"
+  },
+  {
+   "id": "3.2.3.25",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-αξ-"
+  },
+  {
+   "id": "3.2.3.26",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-απ-ο-"
+  },
+  {
+   "id": "3.2.3.27",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-αρ"
+  },
+  {
+   "id": "3.2.3.28",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-αρ-"
+  },
+  {
+   "id": "3.2.3.29",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-ασ-α/ο-"
+  },
+  {
+   "id": "3.2.3.30",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-ασσ-ο-"
+  },
+  {
+   "id": "3.2.3.31",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-ατ-"
+  },
+  {
+   "id": "3.2.3.32",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-αυρ-α/ο-"
+  },
+  {
+   "id": "3.2.3.33",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 32,
+   "notation": "-αφ-"
+  },
+  {
+   "id": "3.2.3.34",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-αχ-"
+  },
+  {
+   "id": "3.2.3.35",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-αψ-"
+  },
+  {
+   "id": "3.2.3.36",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-γδ-"
+  },
+  {
+   "id": "3.2.3.37",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-γρ-"
+  },
+  {
+   "id": "3.2.3.38",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-δν-"
+  },
+  {
+   "id": "3.2.3.39",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-εδ-"
+  },
+  {
+   "id": "3.2.3.40",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-εζ-α"
+  },
+  {
+   "id": "3.2.3.41",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-ειρ-ο-"
+  },
+  {
+   "id": "3.2.3.42",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-ελ-α/ο-"
+  },
+  {
+   "id": "3.2.3.43",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-ελλ-α/ο-"
+  },
+  {
+   "id": "3.2.3.44",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-εμ-ο-"
+  },
+  {
+   "id": "3.2.3.45",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 33,
+   "notation": "-εμν-(ο-)"
+  },
+  {
+   "id": "3.2.3.46",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ενν-α"
+  },
+  {
+   "id": "3.2.3.47",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-επ-"
+  },
+  {
+   "id": "3.2.3.48",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ερ-α/ο-"
+  },
+  {
+   "id": "3.2.3.49",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ετ-ο-"
+  },
+  {
+   "id": "3.2.3.50",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ευ-"
+  },
+  {
+   "id": "3.2.3.51",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ευρ-"
+  },
+  {
+   "id": "3.2.3.52",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ευτ-"
+  },
+  {
+   "id": "3.2.3.53",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ηβ-α/ο-"
+  },
+  {
+   "id": "3.2.3.54",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ηθ-(ο-)"
+  },
+  {
+   "id": "3.2.3.55",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ηκ-, -ηχ-"
+  },
+  {
+   "id": "3.2.3.56",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 34,
+   "notation": "-ηλ-ο-"
+  },
+  {
+   "id": "3.2.3.57",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ήν"
+  },
+  {
+   "id": "3.2.3.58",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ην-"
+  },
+  {
+   "id": "3.2.3.59",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ηρ"
+  },
+  {
+   "id": "3.2.3.60",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ηρ-"
+  },
+  {
+   "id": "3.2.3.61",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ησ(σ)-α/ο-"
+  },
+  {
+   "id": "3.2.3.62",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ητ-(ο-)"
+  },
+  {
+   "id": "3.2.3.63",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ηττ-"
+  },
+  {
+   "id": "3.2.3.64",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ηψ-ο-"
+  },
+  {
+   "id": "3.2.3.65",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-θ-ο-"
+  },
+  {
+   "id": "3.2.3.66",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-θρ-α/ο-"
+  },
+  {
+   "id": "3.2.3.67",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 35,
+   "notation": "-ῑβ-"
+  },
+  {
+   "id": "3.2.3.68",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ῑγ-"
+  },
+  {
+   "id": "3.2.3.69",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ιγγ/κ/χ-"
+  },
+  {
+   "id": "3.2.3.70",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ῑδ-"
+  },
+  {
+   "id": "3.2.3.71",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ιδ-να"
+  },
+  {
+   "id": "3.2.3.72",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ῑθ-, -ιθ-"
+  },
+  {
+   "id": "3.2.3.73",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ικ-"
+  },
+  {
+   "id": "3.2.3.74",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ῑκ-"
+  },
+  {
+   "id": "3.2.3.75",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ιλ-, -ῑλ-"
+  },
+  {
+   "id": "3.2.3.76",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ιλλ-α/ο-"
+  },
+  {
+   "id": "3.2.3.77",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ιμν-α/ο-"
+  },
+  {
+   "id": "3.2.3.78",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ιν-α/ο-"
+  },
+  {
+   "id": "3.2.3.79",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 36,
+   "notation": "-ῑν-(ο-)"
+  },
+  {
+   "id": "3.2.3.80",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ινδ-"
+  },
+  {
+   "id": "3.2.3.81",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ινθ-(ο-)"
+  },
+  {
+   "id": "3.2.3.82",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ιξ-"
+  },
+  {
+   "id": "3.2.3.83",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ῑπ-ο-"
+  },
+  {
+   "id": "3.2.3.84",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ισ-α/ο-"
+  },
+  {
+   "id": "3.2.3.85",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ισκ-ο-"
+  },
+  {
+   "id": "3.2.3.86",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ιστο-"
+  },
+  {
+   "id": "3.2.3.87",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ιτ-α/ο-"
+  },
+  {
+   "id": "3.2.3.88",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ιχ-"
+  },
+  {
+   "id": "3.2.3.89",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-κν-"
+  },
+  {
+   "id": "3.2.3.90",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-μ-"
+  },
+  {
+   "id": "3.2.3.91",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 37,
+   "notation": "-ν-"
+  },
+  {
+   "id": "3.2.3.92",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-οξ-"
+  },
+  {
+   "id": "3.2.3.93",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-οπ-"
+  },
+  {
+   "id": "3.2.3.94",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-ορ-"
+  },
+  {
+   "id": "3.2.3.95",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-οσσ-α, -οττ-α"
+  },
+  {
+   "id": "3.2.3.96",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-ουλ-"
+  },
+  {
+   "id": "3.2.3.97",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-ουρ-"
+  },
+  {
+   "id": "3.2.3.98",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-ουσ(σ)-"
+  },
+  {
+   "id": "3.2.3.99",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-πν-"
+  },
+  {
+   "id": "3.2.3.100",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-πτ-"
+  },
+  {
+   "id": "3.2.3.101",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-ρ-"
+  },
+  {
+   "id": "3.2.3.102",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 38,
+   "notation": "-ργ-"
+  },
+  {
+   "id": "3.2.3.103",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-ρδ-"
+  },
+  {
+   "id": "3.2.3.104",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-ρν-"
+  },
+  {
+   "id": "3.2.3.105",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-σα"
+  },
+  {
+   "id": "3.2.3.106",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-σκ-"
+  },
+  {
+   "id": "3.2.3.107",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-σ-"
+  },
+  {
+   "id": "3.2.3.108",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-σσ-"
+  },
+  {
+   "id": "3.2.3.109",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-στ-"
+  },
+  {
+   "id": "3.2.3.110",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-στρ-"
+  },
+  {
+   "id": "3.2.3.111",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-τ-"
+  },
+  {
+   "id": "3.2.3.112",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 39,
+   "notation": "-ττ-"
+  },
+  {
+   "id": "3.2.3.113",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υβ-"
+  },
+  {
+   "id": "3.2.3.114",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υγγ-"
+  },
+  {
+   "id": "3.2.3.115",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υδ-"
+  },
+  {
+   "id": "3.2.3.116",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υδνα"
+  },
+  {
+   "id": "3.2.3.117",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υθ-, -ῡθ-"
+  },
+  {
+   "id": "3.2.3.118",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υι-α"
+  },
+  {
+   "id": "3.2.3.119",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υκ-"
+  },
+  {
+   "id": "3.2.3.120",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-ῡκ-"
+  },
+  {
+   "id": "3.2.3.121",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υλ-"
+  },
+  {
+   "id": "3.2.3.122",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-ῡλ-"
+  },
+  {
+   "id": "3.2.3.123",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υλλ-"
+  },
+  {
+   "id": "3.2.3.124",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 40,
+   "notation": "-υμ-"
+  },
+  {
+   "id": "3.2.3.125",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υμβ-"
+  },
+  {
+   "id": "3.2.3.126",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υμν-"
+  },
+  {
+   "id": "3.2.3.127",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-ῡν-"
+  },
+  {
+   "id": "3.2.3.128",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υνν-"
+  },
+  {
+   "id": "3.2.3.129",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υνδ-"
+  },
+  {
+   "id": "3.2.3.130",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υνθ/τ-"
+  },
+  {
+   "id": "3.2.3.131",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υξ-"
+  },
+  {
+   "id": "3.2.3.132",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υπ-"
+  },
+  {
+   "id": "3.2.3.133",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υρ-"
+  },
+  {
+   "id": "3.2.3.134",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-ῡρ-"
+  },
+  {
+   "id": "3.2.3.135",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υσ-"
+  },
+  {
+   "id": "3.2.3.136",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υτ-"
+  },
+  {
+   "id": "3.2.3.137",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 41,
+   "notation": "-υττος"
+  },
+  {
+   "id": "3.2.3.138",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-υφ-"
+  },
+  {
+   "id": "3.2.3.139",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-υχ-"
+  },
+  {
+   "id": "3.2.3.140",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-φθ-"
+  },
+  {
+   "id": "3.2.3.141",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-φ-"
+  },
+  {
+   "id": "3.2.3.142",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ωκ-"
+  },
+  {
+   "id": "3.2.3.143",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ωλ-"
+  },
+  {
+   "id": "3.2.3.144",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ωμ-"
+  },
+  {
+   "id": "3.2.3.145",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ων-"
+  },
+  {
+   "id": "3.2.3.146",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ωπ-"
+  },
+  {
+   "id": "3.2.3.147",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ωρ-"
+  },
+  {
+   "id": "3.2.3.148",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ωσσ-"
+  },
+  {
+   "id": "3.2.3.149",
+   "kind": "suffix",
+   "chapter": 3,
+   "printed_page": 42,
+   "notation": "-ωτ-"
+  },
+  {
+   "id": "3.3",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 43
+  },
+  {
+   "id": "3.3.1",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 43
+  },
+  {
+   "id": "3.3.1a",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 43,
+   "notation": "-α"
+  },
+  {
+   "id": "3.3.1b",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 43,
+   "notation": "-ι"
+  },
+  {
+   "id": "3.3.1c",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 43,
+   "notation": "-υ"
+  },
+  {
+   "id": "3.3.1d",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 43,
+   "notation": "-ευς"
+  },
+  {
+   "id": "3.3.1e",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 43,
+   "notation": "-ω"
+  },
+  {
+   "id": "3.3.2",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44
+  },
+  {
+   "id": "3.3.2a",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44,
+   "notation": "-αρ"
+  },
+  {
+   "id": "3.3.2b",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44,
+   "notation": "-ορ"
+  },
+  {
+   "id": "3.3.2c",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44,
+   "notation": "-υρ"
+  },
+  {
+   "id": "3.3.2d",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44,
+   "notation": "-ωρ"
+  },
+  {
+   "id": "3.3.3",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44
+  },
+  {
+   "id": "3.3.3a",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44,
+   "notation": "-ξ"
+  },
+  {
+   "id": "3.3.3b",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44,
+   "notation": "-ψ"
+  },
+  {
+   "id": "3.3.4",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44
+  },
+  {
+   "id": "3.3.5",
+   "kind": "morphology",
+   "chapter": 3,
+   "printed_page": 44
+  }
+ ]
+}

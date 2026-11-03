@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/O_SU_QA_RE
 title: "O-SU-QA-RE"
 desc: "ʾō Sukar: O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "theonym"]
 kind: "word"
 form: "O-SU-QA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | O Sokar (Egyptian Skr), the deity addressed; rivals Ušḫara the Snake, ʾAšqur |
 | Root | s-k-r |
 | Language layer | Middle Egyptian |
-| Category | divine_name |
+| Tags | hapax, libation_formula, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
@@ -69,8 +69,8 @@ di Mino, Ya Diktu; DULAT 113; GlOS 2, 195; Gelb, AS 21
 
 | Field | Value |
 |---|---|
-| Type | theonym (SPECULATIVE) |
-| Affiliation | egyptian (SPECULATIVE) |
+| Type | theonym (CANDIDATE) |
+| Affiliation | egyptian (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

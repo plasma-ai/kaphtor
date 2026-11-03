@@ -70,13 +70,13 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star305\|\*305]] |  | personnel category; exact class unknown | PROBABLE | PROBABLE (lexicon) |
 | \*304 10 | pidru 10 | oil/fat-register commodity; perhaps fat or tallow: 10 | CANDIDATE |  |
 | RE · \*304 10 | le- · pidru 10 | for \*304 (fat?) 10; RE=le- 'to, for' remains CONFIRMED | CANDIDATE |  |
-| [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | matni | loin/hip meat | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | mitāni | loins, hip meat | SPECULATIVE | SPECULATIVE (lexicon) |
 | PA-JA 2 | Pay 2 | personal name: 2 | SPECULATIVE |  |
 | double mina | — | DD = 1/3 (two D signs, D = 1/6; not a double-mina weight standard) | PROBABLE |  |
 
 ### Notes
 
-Context: Fat and meat commodity allocation—fragmentary beginning, Villa Magazine findspot, LMIB. Pairs with HT12 (same location, same period, shared \*304 and QE-TU vocabulary).  Fragmentary tablet beginning. The personnel category \*305 heads the \*304 allocations. The RE preposition before \*304 marks an explicit allocation. MI-DA-NI (matni 'loin') would complete the meat/fat inventory. Shares vocabulary with HT12 (same findspot): \*304, QE-TU/QE-TU-NE.
+Context: Fat and meat commodity allocation—fragmentary beginning, Villa Magazine findspot, LMIB. Pairs with HT12 (same location, same period, shared \*304 and QE-TU vocabulary).  Fragmentary tablet beginning. The personnel category \*305 heads the \*304 allocations. The RE preposition before \*304 marks an explicit allocation. MI-DA-NI (mitāni 'loins') would complete the meat/fat inventory. Shares vocabulary with HT12 (same findspot): \*304, QE-TU/QE-TU-NE.
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2624_know_sign
 title: "*ʕlm: 'know; sign'"
-desc: "Proto-Semitic *ʕlm, 'know; sign': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʕlm, 'know; sign': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2624"
@@ -31,8 +31,10 @@ updated: 2026-10-26T15:47:57Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕlm 'know' (Lane 2138) | Lane 2138 |  |
-| Pre-Islamic North Arabian | Safaitic ʿlm (Al-Jallad–Jaworska 52) | Al-Jallad–Jaworska 52 | gloss withheld |
+| Jibbali | ʿéləm (Rubin 2014 656) | Rubin 2014 656 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿlm (Al-Jallad–Jaworska 52); ʿlm, ʿlmt (Al-Jallad 2026, 14) | Al-Jallad–Jaworska 52; Al-Jallad 2026 14 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿlm (Biella 368; Sabaweb lemma 3693) | Biella 368; Sabaweb lemma 3693 | gloss withheld |
+| Ugaritic | ʕlm Gpass./N (DULAT 154) | DULAT 154 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

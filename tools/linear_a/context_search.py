@@ -80,16 +80,16 @@ def resolve_word_signs(word: str, sign_map: dict[str, str]) -> str:
     return "-".join(resolved_parts)
 
 
-LEXICON_CATEGORIES = {
-    "divine_name": "DIVINE",
-    "personal_name": "PN",
-    "ritual": "RITUAL",
-    "vocabulary": "VOCAB",
-    "verb": "VERB",
-    "particle": "PARTICLE",
-    "grammar": "GRAMMAR",
-    "toponym": "TOPONYM",
-}
+# Display label from the lexicon `tags`; the first label whose tags the entry carries wins.
+LEXICON_TAG_LABELS = (
+    ({"theonym", "epithet"}, "DIVINE"),
+    ({"personal_name"}, "PN"),
+    ({"toponym", "toponym_foreign"}, "TOPONYM"),
+    ({"verb"}, "VERB"),
+    ({"particle", "preposition", "pronoun"}, "PARTICLE"),
+    ({"ritual"}, "RITUAL"),
+    ({"noun", "adjective", "adverb", "participle"}, "VOCAB"),
+)
 
 DISCLAIMER = (
     "⚠ Readings follow di Mino's Semitic decipherment. Confidence tiers apply."
@@ -115,9 +115,10 @@ def is_numeral(word: str) -> bool:
     )
 
 
-def _semantic_category(source_category: str | None) -> str:
+def _semantic_category(tags: list[str] | None) -> str:
     # Lexicon entries without a display label still have readings; UNKNOWN is kept for unmatched words.
-    return LEXICON_CATEGORIES.get(source_category or "", "LEX")
+    held = set(tags or ())
+    return next((label for wanted, label in LEXICON_TAG_LABELS if held & wanted), "LEX")
 
 
 def _description(entry: dict[str, Any], source: str) -> str:
@@ -171,7 +172,7 @@ def annotate_word(
     lex = lookup_in(lexicon_entries, word)
     if lex:
         annotation.update({
-            "category": _semantic_category(lex.get("category")),
+            "category": _semantic_category(lex.get("tags")),
             "source": "lexicon",
             "reading": lex.get("reading", ""),
             "meaning": lex.get("meaning", ""),

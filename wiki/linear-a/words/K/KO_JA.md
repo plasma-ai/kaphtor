@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KO_JA
 title: "KO-JA"
-desc: "Qōya / Quya: personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong'). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Qōya: personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KO-JA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
-reading: "Qōya / Quya"
+reading: "Qōya"
 attestations: ["HT119"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Qōya / Quya |
-| Meaning | personal name, Amorite type (element quwy-: 'wait for, hope' or 'be strong') |
+| Reading | Qōya |
+| Meaning | personal name, Amorite type (quwy- 'wait for, hope'); rival 'be strong' |
 | Root | q-w-y (Amorite QWJ, unglossed) |
 | Proto-Semitic | \*ḳVw- (#1678) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT119 KO-JA 10, second named entry of a personnel list (Scribe 9). Hypocoristic qōy-/quy- + -a (cf. Amorite -ya hypocoristics). Cuneiform has no o-vowel, so Gelb's KU- spellings fit /qō/ as well as /qu/; KO-JA needs /qō/ (from \*qaw- with aw &gt; ō) or a Minoan o/u interchange. Root gloss open: 'wait for, hope' (Hebrew qāwāh, as קַוֵּה אֶל־יְהוָה Ps 27:14, matching the imperative + DN shape of Quwi-Haddu; Akkadian quʾʾû 'await') or 'be strong' (Arabic qawiya). Weak points: two signs, vowel mismatch. One attestation. See JA-KU and JA-KU-TI.
+HT 119 KO-JA 10, after RI-MI-SI 13, in a personnel list (Scribe 9). Qōya, a hypocoristic on qōy-, quy- with -a, the Amorite -ya type, from qwy 'wait for, hope': Amorite Quwi-Haddu, imperative and divine name (Gelb 1980, no. 4146); Heb. qāwāh 'wait for, hope' (HALOT 1082), as qawwēh ʾel-YHWH 'wait for YHWH' (Ps 27:14); Akk. quʾʾû 'to wait' (CAD Q 328). Cuneiform has no o, so Gelb's KU- spellings fit qō as well as qu; KO writes qō from \*qaw- with aw &gt; ō, or qu, as RO writes ru in SA-RO beside SA-RU šarru. Rival: 'be strong', Arab. qawiya (Lane 2997). Weak point: two signs, one witness. See JA-KU and JA-KU-TI.
 
 ### Cognates
 
@@ -49,12 +49,12 @@ HT119 KO-JA 10, second named entry of a personnel list (Scribe 9). Hypocoristic 
 |---|---|
 | Amorite | Gelb AS 21 root QWJ (unglossed): Quwyum KU-IA-UM (no. 4109), KU-WU-UM (no. 4188); -at- form Kuyatum KU-IA-TUM (no. 4108); theophorics Quwi-Dagan KU-U₂-D-DA-GAN (no. 4145), Quwi-Haddu KU-U₂-D-IM (no. 4146, Mari), Quwi-Yaraḫ KU-WE-RA-AH (no. 4187), KU-UM-D-U (no. 4162, Ugarit MRS XVI 9:7) |
 | Hebrew | קָוָה qāwāh 'wait for, hope' (HALOT 1082); קַוֵּה אֶל־יְהוָה 'wait for YHWH' (Ps 27:14) |
-| Akkadian | quʾʾû 'await' (ORACC CAMS/GKAB) |
+| Akkadian | quʾʾû 'to wait' (CAD Q 328) |
 | Arabic | قوي qawiya 'be strong' (Lane 2997) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; HALOT; CAD Q; Lane
 
 ## Attestations
 

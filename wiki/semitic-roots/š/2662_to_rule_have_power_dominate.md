@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | saluṭa 'to overcome, prevail; to possess power of dominion or rule' (Lane 1405); sulṭān 'power, dominion' (BK 1, 1123) | Lane 1405; BK 1, 1123 |  |
-| Akkadian | šalāṭu (CAD Š/1 238) | CAD Š/1 238 | gloss withheld |
+| Akkadian | šalāṭu (CAD Š/1 238; AHw 1147) | CAD Š/1 238; AHw 1147 | gloss withheld |
 | Hebrew | šālaṭ (HALOT 1521); šallīṭ (HALOT 1524); šilṭōn (HALOT 1523) | HALOT 1521; HALOT 1524; HALOT 1523 | gloss withheld |
-| Aramaic | šlṭ (DNWSI 1142 apud CAL) | DNWSI 1142; CAL | gloss withheld |
+| Aramaic | šlṭ (DNWSI 1142); šlṭn (DNWSI 1142); šlyṭ (DNWSI 1143) | DNWSI 1142; DNWSI 1143 | gloss withheld |
 | Geez | salṭa (Leslau 504) | Leslau 504 | gloss withheld |
 | Judaic Aramaic | šilṭōnā (HALOT 1523; DJPA 552b apud CAL); šallīṭā (HALOT 1524) | HALOT 1523; DJPA 552b; CAL; HALOT 1524 | gloss withheld |
 | Biblical Aramaic | šallīṭ (HALOT 1524) | HALOT 1524 | gloss withheld |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3664_to_be_dry_wither_dry_land
 title: "*ṣwy: 'to be dry, wither; dry land'"
-desc: "Proto-Semitic *ṣwy, 'to be dry, wither; dry land': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ṣwy, 'to be dry, wither; dry land': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3664"
@@ -33,6 +33,7 @@ updated: 2026-10-26T15:47:57Z
 | Syrian Aramaic | ṣawyā (HALOT 1022); ṣwāyā (Payne Smith 475) | HALOT 1022; Payne Smith 475 | gloss withheld |
 | Mandaic Aramaic | ṢWA (HALOT 1021); ṣauia (HALOT 1022) | HALOT 1021; HALOT 1022 | gloss withheld |
 | Arabic | ṣawā, ṣawiya (Lane 1751); ṣāwin (Lane 1751); ṣawā (ṣwy) (HALOT 1021) | Lane 1751; HALOT 1021 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṣwy (Al-Jallad 2026, 150) | Al-Jallad 2026 150 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

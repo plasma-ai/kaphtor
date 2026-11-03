@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | kūn (כּוּן). Niphal nākôn (Gen 41:32 כִּי נָכוֹן הַדָּבָר; Ps 93:2). Hiphil hēkîn (Ps 24:2). Polel kônēn (Ps 87:5). Noun: tᵉkûnā PNs: Yakhin (יָכִין, 1 Kgs 7:21), Yᵉkonyāhū (יְכָנְיָהוּ). (HALOT 464–467); kēn (HALOT 482) | HALOT 464–467; HALOT 482 | gloss withheld |
 | Epigraphic South Arabian | SAB kwn (SD 80; Sabaweb lemma 1431). | SD 80; Sabaweb lemma 1431 | gloss withheld |
 | Judaic Aramaic | kūn Pa. "to direct, aim"; pass. part. "straight, firm, upright" (Ja. 622). | Ja. 622 |  |
-| Punic | Neo-Punic kn (Krahmalkov 235) | Krahmalkov 235 | gloss withheld |
+| Punic | Neo-Punic kn (Krahmalkov 235); Neo-Punic kt, in ktm (Krahmalkov 244) | Krahmalkov 235; Krahmalkov 244 | gloss withheld |
 | Amorite | Ia-ki-in- (OLA80 §44.13); kīn, mêkīnum, kāna, kūn, yakūn, yikūn, takūn (Buck 2019, 328); k-w-n: ia-ku-un=, ta-ku-un=, ia₈-gu-na-an (Ur III); mekīn: me-ki-nu-um (Sanmartín GlOS 1, 331, 333) | OLA80 §44.13; Buck 2019, 328; Sanmartín GlOS 1, 331, 333 | gloss withheld |
 | Geez | Geʿez kona (ኮነ) Causative ʾakvana (LGz. 288–289). | LGz. 288–289 | gloss withheld |
 | Amharic | honä (LGz. 288–289) | LGz. 288–289 | gloss withheld |
@@ -44,7 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | hona (LGz. 300) | LGz. 300 |  |
 | Harari | xāna (LGz. 300) | LGz. 300 |  |
 | Syrian Aramaic | kān 'be, exist; happen, occur' (Payne Smith 209); kīn 'upright, right, just'; kīnūtā 'justice, righteousness' (Payne Smith 202) | Payne Smith 209; Payne Smith 202 |  |
-| Pre-Islamic North Arabian | Safaitic mykn (Al-Jallad–Jaworska 101) | Al-Jallad–Jaworska 101 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mykn (Al-Jallad–Jaworska 101); kyn; kʾn (Al-Jallad 2026, 84) | Al-Jallad–Jaworska 101; Al-Jallad 2026 84 | gloss withheld |
 | Canaanite | kuna (HALOT 464) | HALOT 464 |  |
 | Jibbali | kun (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015 ch. 2 §4.2 no. 30 | gloss withheld |
 | Soqotri | kɔn (Kogan 2015, ch. 2 §4.2 no. 30) | Kogan 2015 ch. 2 §4.2 no. 30 | gloss withheld |

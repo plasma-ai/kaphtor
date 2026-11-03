@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/1754_pack_1_cover_2_conceal_3
 title: "*ḫVpw/y-: 'pack' 1, 'cover' 2, 'conceal' 3"
-desc: "Proto-Semitic *ḫVpw/y-, 'pack' 1, 'cover' 2, 'conceal' 3: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḫVpw/y-, 'pack' 1, 'cover' 2, 'conceal' 3: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1754"
@@ -35,6 +35,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥpy 2 (HALOT 339); ḥapaʾ | HALOT 339; Anderson–Moser 2024 root ḫpʾ | gloss withheld |
 | Epigraphic South Arabian | ḫpy (HALOT 339) | HALOT 339 |  |
 | Syrian Aramaic | ḥpā 'to cover, hide; veil; expiate' (Payne Smith 153) | Payne Smith 153 |  |
+| Pre-Islamic North Arabian | Safaitic ḫfyt 3 (Al-Jallad 2026, 65) | Al-Jallad 2026 65 | gloss withheld |
+| Emar | ḫa-pá-a, ḫa-pá-i, ḫa-pá-ú /ḥapāyu/ 2 (Pentiuc 2001, 61–62) | Pentiuc 2001 61–62 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3272_spirit_soul
 title: "*našam-at-: 'spirit, soul'"
-desc: "Proto-Semitic *našam-at-, 'spirit, soul': reflexes in 3 language(s)."
+desc: "Proto-Semitic *našam-at-, 'spirit, soul': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3272"
@@ -32,6 +32,7 @@ updated: 2026-10-25T05:11:48Z
 | Hebrew | nəšāmā (HALOT 730 apud SEDonline 1417) | HALOT 730; SEDonline 1417 | gloss withheld |
 | Syrian Aramaic | nšamtā (LSyr. 451, SL 954 apud SEDonline 1417) | LSyr. 451, SL 954; SEDonline 1417 | gloss withheld |
 | Arabic | nasamat- (Lane 3032 apud SEDonline 1417) | Lane 3032; SEDonline 1417 | gloss withheld |
+| Biblical Aramaic | nišmā (HALOT 730) | HALOT 730 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

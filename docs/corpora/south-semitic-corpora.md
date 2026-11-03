@@ -1,7 +1,7 @@
 ---
 name: docs/corpora/south-semitic-corpora
 title: Geʿez and South Arabian corpora
-desc: The Geʿez, Ancient South Arabian and Modern South Arabian layers, kept as separate comparative evidence, with their scope and how to search them.
+desc: The Geʿez, Ancient South Arabian and Modern South Arabian layers, kept as separate comparative evidence, with their scope and sources.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
 updated: 2026-10-22T18:14:10Z
@@ -57,15 +57,3 @@ artwork, not the published transcriptions; open Jibbali text publications remain
 document sources rather than a normalized corpus. Do not silently substitute
 Modern South Arabian for Ancient South Arabian evidence or treat modern
 reflexes as Bronze Age attestations.
-
-Discovery records for future ingestion:
-
-- Soqotri audio/artwork deposit: DOI `10.6084/m9.figshare.1379832.v1`.
-- Jibbali proverbs: *An Annotated Corpus of Jibbali/Śḥərɛ̄́t Proverbs*, DOI
-  `10.11647/OBP.0422`.
-- Mehri and Jibbali documentation: ELAR deposits 0307 and 0308; access and
-  participant-rights conditions must be checked before acquisition.
-
-Beta maṣāḥəft is a future Geʿez expansion route. It provides broad TEI metadata
-and selected encoded texts, but record totals must not be reported as full-text
-corpus totals.

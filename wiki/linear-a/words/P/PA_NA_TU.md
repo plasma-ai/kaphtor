@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_NA_TU
 title: "PA-NA-TU"
 desc: "banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personnel"]
+tags: ["linear-a", "word", "tier-2", "hapax", "kinship", "noun", "personnel"]
 kind: "word"
 form: "PA-NA-TU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU) |
 | Root | b-n-t (PS \*bint- "daughter") / p-n-y (PS \*pan- "face") / Kubaba derivative |
 | Proto-Semitic | \*bint- (#K0016) |
-| Language layer | NWS |
-| Category | personnel |
-| Semantic field | divine |
+| Language layer | Semitic |
+| Tags | hapax, kinship, noun, personnel |
+| Semantic field | personnel |
 
 ### Note
 
-Standalone on KH7b vessel allocation tablet (Khania) \|\| THREE READINGS: (1) banātu 'daughters' (P→/b/, Akk. fem. pl. of bintu, Ug. bnt, Heb. bānōt)—personnel category. (2) panātu 'faces/portions' (Akk., Heb. pānîm)—share categories. (3) (Ku)bānatu—tail of KU-PA-NA-TU (Kubaba feminine form attested in lexicon), possibly standalone devotee title \|\| Khania's Anatolian contact layer supports reading (3). Distinct from KU-PA-NA-TU which carries a KU- prefix. Dual registration per di Mino. See PO-TO-KU-RO.
+KH 7b, a Khania vessel allocation tablet, standalone. Three readings: banātu 'daughters', a personnel category, PA for b (Akk. fem. pl. of bintu, Ug. bnt, Heb. bānōt); panātu 'faces, portions', share categories (Akk., Heb. pānîm); and (Ku)bānatu, a devotee title, the tail of KU-PA-NA-TU, the feminine of Kubaba, which Khania's Anatolian contact layer favours. KU-PA-NA-TU carries the KU- that PA-NA-TU lacks. One attestation. See PO-TO-KU-RO.
 
 ### Cognates
 
@@ -59,14 +59,20 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | banātu | the daughters; cyperus ½ | CANDIDATE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

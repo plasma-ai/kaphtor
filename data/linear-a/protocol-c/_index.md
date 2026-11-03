@@ -1,7 +1,7 @@
 ---
 name: data/linear-a/protocol-c
 title: Protocol C data
-desc: The phase C0 and C1 record of Protocol C, the pre-registered blind-inventory test, with the signature and the port ledger; nothing rendered or scored.
+desc: The phase C0 and C1 record of Protocol C, the pre-registered blind-inventory test, with the signature and the port ledger.
 tags: [data, linear-a, protocol-c]
 license: CC BY 4.0
 created: 2026-10-29T19:48:19Z

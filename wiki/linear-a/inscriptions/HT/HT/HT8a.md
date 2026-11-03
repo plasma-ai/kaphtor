@@ -64,17 +64,17 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> The Idaean (JE-DI): KI-oil 10. Baqarāti 1½; PA 3½; Tēnā ('Fig') 2; Qaynī ¾; Śikira ('Hired') ¼; Kretana ½.
+> The Idaean (JE-DI): KI-oil 10. Baqarāti 1½; PA 3½; Tēnā ('Fig') 2; Qaynī ¾; Śikira ('Hired') ¼; Kretan ½.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/J/JE_DI\|JE-DI]] | yedī | the Idaean (gentilic, transaction header); rival yēdīʿ 'He knows' (personal name) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | cattle, heifers (fem. pl.) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | cattle, heifers (fem. pl.) | CONFIRMED | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA\|PA]] | ba/pa | abbreviation (sub-category) | SPECULATIVE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE_star301\|TE-\*301]] | Tēnā | 'Fig', personal name; recipient of KI-oil 2 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | the smith or administrator | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/S/SI_KI_RA\|SI-KI-RA]] | Śikira | personal name, 'Hired' (√ś-k-r); recipient of KI-oil ¼; rival šēkār 'strong drink' | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | the Cretan (gentilic) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | the Cretan (gentilic) | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
 

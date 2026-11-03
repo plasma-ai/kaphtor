@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DI
 title: "DI"
 desc: "dibšu: honey, fruit syrup—commodity abbreviation of *dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "DI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | honey, fruit syrup—commodity abbreviation of \*dibšu; rival dblt 'fig cake'. In personnel lists a separate single-sign abbreviation |
 | Root | d-b-š |
 | Proto-Semitic | \*dVbš- (#2737) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, foodstuff, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Two uses, all at Haghia Triada (GORILA I 7, 37, 61, 121, 123, 133, 159, 181, 209). Commodity: HT 20 .3 QE-KU-RE · DI ½ (logographic, a divisible product: Montecchi 2008, 318); HT 32 SU-RE 108, DI 65 and OLE+NE RE 104, DI 53 (each after a larger figure, so possibly a sub-entry); OLE+DI 12× on HT 12, 14, 28a, 28b, 50b, 90, 116a, 129, also OLE+QE+DI (HT 121), DI+QE (HT 101); HT 111a DI 14\[ before NI. Personnel or recipient, whole numbers in name lists, a single-sign abbreviation like PA, KA, JU, KI (Montecchi 2008, 318): HT 97a .4 DI 4 under VIR+KA; HT 122b .4 DI 2 within KU-RO 65; HT 66 DI 2 after VIR; HT 85b DI 1; HT 3 DI 2; HT 69 DI 8. dibšu applies to the commodity only; rival Ug. dblt 'fig cake'. MA-DI beside DI on 4 tablets. Broken: HT 122a \]-DI, HT 128a DỊ\[, HT 62+73 DI\[, HT 3 .5 DỊ\[, HT 69 .3 \]DI 12\[. One consonant, /d/; all witnesses at HT.
+Two uses, all at Haghia Triada (GORILA I 7, 37, 61, 121, 123, 133, 159, 181, 209). Commodity: HT 20 .3 QE-KU-RE · DI ½ (logographic, a divisible product: Montecchi 2008, 318); HT 32 SU-RE 108, DI 65 and OLE+NE RE 104, DI 53 (each after a larger figure, as a sub-entry); OLE+DI 12× on HT 12, 14, 28a, 28b, 50b, 90, 116a, 129, also OLE+QE+DI (HT 121), DI+QE (HT 101); HT 111a DI 14\[ before NI. Personnel or recipient, whole numbers in name lists, a single-sign abbreviation like PA, KA, JU, KI (Montecchi 2008, 318): HT 97a .4 DI 4 under VIR+KA; HT 122b .4 DI 2 within KU-RO 65; HT 66 DI 2 after VIR; HT 85b DI 1; HT 3 DI 2; HT 69 DI 8. dibšu applies to the commodity only; rival Ug. dblt 'fig cake'. MA-DI beside DI on 4 tablets. Broken: HT 122a \]-DI, HT 128a DỊ\[, HT 62+73 DI\[, HT 3 .5 DỊ\[, HT 69 .3 \]DI 12\[. One consonant, /d/; all witnesses at HT.
 
 ### Cognates
 

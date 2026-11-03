@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/A/A_TI_RU
 title: "A-TI-RU"
-desc: "ʿAttiru: ʿAttiru (divine name ʿAṯtar, assimilated—or theophoric ʿAttirī 'man of ʿAṯtar'). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "ʿAttiru: ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-TI-RU"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿAttiru |
-| Meaning | ʿAttiru (divine name ʿAṯtar, assimilated—or theophoric ʿAttirī 'man of ʿAṯtar') |
+| Meaning | ʿAttiru, personal name, the nisbe 'man of ʿAṯtar'; rival ʿatīru 'entreated' |
 | Root | ʿ-ṯ-t-r |
 | Proto-Semitic | \*ʕaṯtar- (#3775) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA4a (Zakros tablet) roster slot, 4 units, directly before the personal name JA-PA. ʿAṯtar with ṯt→tt assimilation, as in Amorite \[A\]t-ta-ri-ša-du-u\[q\] (Huffmon 1965, 173: "perhaps an assimilated form representing \*Attar"); geminate unwritten, ʿayin on the plain vowel sign. NOT \*ʿAštar-: the ṯ→š merger is post-Bronze Canaanite. Second-syllable i has in-family precedent (Akk. Ištar, Ebla Išdar) or marks the nisbe ʿAttirī, which the roster slot favors. Rival: ʿatīru 'entreated' (√ʿ-t-r; Gen 25:21 wayyēʿāter), which fits a-ti-ru as written.
+ZA 4a, a Zakros tablet: a roster slot of 4 units, directly before the personal name JA-PA. ʿAṯtar with ṯt assimilated to tt, as in Amorite \[A\]t-ta-ri-ša-du-u\[q\] (Huffmon 1965, 173: "perhaps an assimilated form representing \*Attar"); the geminate is unwritten and ʿayin rides the plain vowel sign. Canaanite merged ṯ with š only after the Bronze Age. The i has precedent in the family's Akk. Ištar (CAD I/J 271; semitic_roots 2770), where Ebla keeps aš-dar, or marks the nisbe ʿAttirī, which the roster slot favors. Rival: ʿatīru 'entreated' (√ʿ-t-r; Gen 25:21 wayyēʿāter; HALOT 905), which fits a-ti-ru as written.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ ZA4a (Zakros tablet) roster slot, 4 units, directly before the personal name JA-
 
 ### Source
 
-di Mino
+di Mino; Huffmon 1965; CAD I/J; HALOT
 
 ## Attestations
 

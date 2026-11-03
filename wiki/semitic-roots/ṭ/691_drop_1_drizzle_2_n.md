@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Tigre | ṭifṭif 2 |  |  |
-| Hebrew | ṭipp- 1 |  |  |
+| Hebrew | ṭipp- 1; טַף 1 (HALOT 378) | HALOT 378 | gloss withheld |
 | Aramaic | B ṭipp- 1 |  |  |
 | Tigrinya | ṭifṭif 2 |  |  |
 | Syrian Aramaic | ṭawpəṯā (LGz. 587) | LGz. 587 |  |

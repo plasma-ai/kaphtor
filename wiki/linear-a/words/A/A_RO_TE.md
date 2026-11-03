@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RO_TE
 title: "A-RO-TE"
 desc: "Ḫaluti: Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-RO-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḫaluti |
 | Meaning | Ḫaluti (woman's name, seal owner); rival ʾālôt 'oaths, curses' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net relief, face a I-DA-DA, read from the impression, the signs whole (Younger, Linear A Texts, citing Raison–Pope 1994, 242–43). A seal names its owner: Ḫaluti, the Nuzi woman's name Ha-lu-ti (NPN 51), on the Hurrian element ḫal(u)- (NPN 212–213), with A for ḫa as in A-RU Ḫaru; TE for ti is a vowel mismatch only. Linear B a-ro-te (PY La 622) is obscure (Killen). Rival: ʾālôt 'oaths, curses' on primary values, the plural of ʾālāh (Deut 29:20; 2 Chr 34:24), whose ō needs the Canaanite shift. One witness.
+CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net relief, face a I-DA-DA, read from the impression, the signs whole (Younger, Linear A Texts, citing Raison–Pope 1994, 242–243). A seal names its owner: Ḫaluti, the Nuzi woman's name Ḫa-lu-ti (NPN 51), on the Hurrian element ḫal(u)- (NPN 212–213), with A for ḫa as in A-RU Ḫaru. Cf. Linear B a-ro-te (PY La 622), obscure (Killen 2024, 935). Rival: ʾālôt 'oaths, curses' on primary values, the plural of ʾālāh (Deut 29:20; 2 Chr 34:24), whose ō needs the Canaanite shift. Nuzi spelling does not keep e and i apart (Wegner 2000, 38), so TE matches -ti; cf. Tigunāni Ḫalut, ḫal=o=t(ta) 'Carry me away!' (Monti 2017, 428). Weak point: A writes ḫa. One witness.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ CR Zg 4, a steatite reel seal (CMS XII 96), face b A-RO-TE under a lozenge-net r
 
 ### Source
 
-di Mino; NPN
+di Mino; NPN; Killen 2024; Wegner 2000; Monti 2017
 
 ## Attestations
 

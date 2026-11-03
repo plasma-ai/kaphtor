@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RU_SA
 title: "RU-SA"
 desc: "Rusa: personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RU-SA"
 datasets: ["lexicon", "onomasticon"]
@@ -33,13 +33,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Rusa |
 | Meaning | personal name; compare Egyptian rw-sȝ, one of the 'names of Crete' on BM EA 5647; rival Egyptian Rs 'he who is awake' |
-| Language layer | Minoan_Aegean |
-| Category | personal_name |
+| Language layer | Aegean |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before \*323-\*317 1, with no logogram of its own (GORILA I 157). The writing board BM EA 5647 heads seven names 'making names of Crete' (jr.t rn.w n\[y.w\] kftjw); the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais & Gabolde 2025, 9, 14, Table 2 p. 15). The editors take rw-sȝ as Greek Lysis, Linear B ru-si; Schneider as a short Egyptian name, rw-zA (Louvre E 5608) (ibid., 14 nn. 87–88). Rival: Egyptian Rs '(he) who is awake' (Ranke I, 226.18; II, 303.1), 59 attestations, late 12th to 18th Dynasty (PNM v6); Vercoutter reads the board's name as Rs (Ru-sa), 'vraisemblablement égyptien' (Vercoutter 1956, 45, 48). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet that has di-du-me on .3, the name the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). No etymology is adopted here. The final vowel differs from Linear B (a against i). Cf. the Urartian royal name Rusa, 8th c. BCE (RINAP 2, Sargon II 001). Two signs; one attestation.
+HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before \*323-\*317 1, with no logogram of its own (GORILA I 157). Rusa: the writing board BM EA 5647 heads seven 'names of Crete' (jr.t rn.w n\[y.w\] kftjw), and the seventh, rw-sȝ (r. I 7), is ru-sa sign for sign (Dautais and Gabolde 2025, 9, 14–15, table 2). Rivals: Greek Lysis, Linear B ru-si, as the editors take rw-sȝ; a short Egyptian name, rw-zA (Louvre E 5608), as Schneider takes it (ibid., 14 nn. 87–88); Egyptian Rs '(he) who is awake' (Ranke I, 226.18; II, 303.1), 59 attestations, late 12th to 18th Dynasty (Ilin-Tomich 2025), which Vercoutter reads on the board, Rs (Ru-sa), 'vraisemblablement égyptien' (Vercoutter 1956, 45, 48). Linear B has ru-si at Knossos (KN Ak 634) and ru-si-qe on KN L 588.1, the tablet with di-du-me on .3, which the board's {d-j}-d-ȝ-d-ȝ-m and DU-DA-MA match (DMic II s.v. ru-si). Two signs; one attestation.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ HT 96a .3 RU-SA 4, whole and undotted, after SI-MI-TA GRA 5 and before \*323-\*3
 
 ### Source
 
-Dautais & Gabolde 2025, 9, 14–15; Vercoutter 1956, 45, 48; Ilin-Tomich 2025 (PNM v6), s.v. rs; DMic II s.v. ru-si; di Mino
+di Mino; GORILA I; Dautais and Gabolde 2025; Vercoutter 1956; Ranke; Ilin-Tomich 2025; DMic II
 
 ## Attestations
 
@@ -68,7 +68,7 @@ Dautais & Gabolde 2025, 9, 14–15; Vercoutter 1956, 45, 48; Ilin-Tomich 2025 (P
 | Field | Value |
 |---|---|
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
+| Affiliation | aegean (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

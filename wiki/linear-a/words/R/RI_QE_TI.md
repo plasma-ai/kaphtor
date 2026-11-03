@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RI_QE_TI
 title: "RI-QE-TI"
 desc: "riqitt-: dance (√r-q-d); rival raqqitt- 'female dancer'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "unknown"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun"]
 kind: "word"
 form: "RI-QE-TI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | dance (√r-q-d); rival raqqitt- 'female dancer' |
 | Root | r-q-d |
 | Proto-Semitic | \*raḳad- (#492) |
-| Language layer | NWS |
-| Category | unknown |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | unknown |
 
 ### Note
 
-PO Zc 1, inked: RI-QE-TI-A-SA-SA-RA-\[·\]. Akk. riqittu 'dance' (ri-qi-it-tum), from √r-q-d with the d assimilated to t; QE writes qi. The same root gives raqqittu 'female dancer' (raq-qit-tum), with RI for ra. The pair matches U-QE-TI · JA-SA-SA-RA-ME on PL Zf 1, a -QE-TI word before the Asasara name. Rival: RI- + QE-TI, the element of HT 7a. Weak point: the cut before A-SA-SA-RA is analytical. One attestation.
+PO Zc 1, inked: RI-QE-TI-A-SA-SA-RA-\[·\]. riqitt- 'dance': Akk. riqittu 'dance' (ri-qi-it-tum; CAD R 367), from √r-q-d with the d assimilated to t; QE writes qi. The same root gives raqqittu 'female dancer' (raq-qit-tum; CAD R 171, s.v. raqqidu), with RI for ra. The pair matches U-QE-TI · JA-SA-SA-RA-ME on PL Zf 1, a -QE-TI word before the Asasara name. Rival: RI- + QE-TI, the element of HT 7a. Weak point: the cut before A-SA-SA-RA is the reader's, with no divider. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ PO Zc 1, inked: RI-QE-TI-A-SA-SA-RA-\[·\]. Akk. riqittu 'dance' (ri-qi-it-tum),
 
 ### Source
 
-di Mino
+di Mino; CAD R
 
 ## Attestations
 

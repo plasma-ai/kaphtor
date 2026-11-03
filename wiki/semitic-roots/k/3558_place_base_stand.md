@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3558_place_base_stand
 title: "*kwn: 'place, base, stand'"
-desc: "Proto-Semitic *kwn, 'place, base, stand': reflexes in 9 language(s)."
+desc: "Proto-Semitic *kwn, 'place, base, stand': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3558"
@@ -38,6 +38,7 @@ updated: 2026-10-26T14:26:59Z
 | Syrian Aramaic | mkūntā 'a base' (Payne Smith 271) | Payne Smith 271 |  |
 | Epigraphic South Arabian | Sab mkwn (SD 80) | SD 80 | gloss withheld |
 | Amorite | makūn: ma-ku-na-tum (Sanmartín GlOS 1, 333) | Sanmartín GlOS 1, 333 | gloss withheld |
+| Akkadian | makānu (CAD M/1 125) | CAD M/1 125 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

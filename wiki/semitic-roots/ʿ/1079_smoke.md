@@ -31,8 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕaṯan- 'smoke', ʕuṯān- 'smoke; dust' BK 2 172 | BK 2 172 |  |
-| Phoenician | m-ʕšn |  | gloss withheld |
-| Hebrew | ʕāšān (HALOT 896) | HALOT 896 | gloss withheld |
+| Hebrew | ʕāšān (HALOT 896); ʕāšan (HALOT 896) | HALOT 896 | gloss withheld |
+| Punic | mʕšn (T 191) | T 191 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

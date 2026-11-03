@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_PI_NA_MI_NA
 title: "I-PI-NA-MI-NA"
 desc: "ʾippina=mi=na: face, presence (of)—expanded variant of I-PI-NA-MA. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "libation_formula"]
+tags: ["linear-a", "word", "tier-2", "body", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "I-PI-NA-MI-NA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | face, presence (of)—expanded variant of I-PI-NA-MA |
 | Root | p-n-m |
 | Proto-Semitic | \*pan- (#144) |
-| Language layer | NWS |
-| Category | libation_formula |
-| Semantic field | body_part |
+| Language layer | Semitic |
+| Tags | body, libation_formula, noun, ritual |
+| Semantic field | ritual |
 
 ### Note
 
-Reduplicative expansion of I-PI-NA-MA (=ipinama, √p-n-m 'face/presence', PROBABLE). Co-occurs with the core libation formula (A-TA-I-\*301-WA-E, A-SA-SA-RA-ME) on Palaikastro stone vessels (PKZa10, PKZa11). Reading inherits from I-PI-NA-MA. \|\| COGNATES: those of I-PI-NA-MA, whose reading this spelling shares.
+PK Za 10 and PK Za 11, Palaikastro stone vessels, beside the formula words A-TA-I-\*301-WA-E and A-SA-SA-RA-ME: a reduplicated expansion of I-PI-NA-MA ʾipinama 'face, presence' (√p-n-m), whose reading and cognates it shares.
 
 ### Cognates
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MI_KI_SE_NA
 title: "MI-KI-SE-NA"
 desc: "miksēna: coverings, blankets. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "textile"]
 kind: "word"
 form: "MI-KI-SE-NA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | coverings, blankets |
 | Root | k-s-y (miqtal \*miksay-) |
 | Proto-Semitic | \*kVsVy- (#K0104) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-HT26a: MI-KI-SE-NA 15 under the \*406VAS+KE heading, after \*312-TE-TE (linen item) and TA-TI 21. miqtal of √k-s-y: \*miksay- &gt; miksē (Heb. miksê), SE a sounded ē; -NA the plural \*-īna. KI echoes the preceding i. Not MI-KI-SA-NE (ARKH1a), read as MI + KI-SA-NE. See JA-KI-SI-KI-NU.
+HT 26a: MI-KI-SE-NA 15 under the \*406VAS+KE heading, after \*312-TE-TE and TA-TI 21. miksēna 'coverings', the miqtal of √k-s-y 'cover': \*miksay- &gt; miksē, Heb. miksê 'cover, covering', Ug. mks (HALOT 581); SE a sounded ē, -NA the plural \*-īna. KI echoes the preceding i. One attestation. See JA-KI-SI-KI-NU.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT26a: MI-KI-SE-NA 15 under the \*406VAS+KE heading, after \*312-TE-TE (linen it
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 

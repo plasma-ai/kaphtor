@@ -53,15 +53,15 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\] presence/face \[…\] \]-KU-PA₃-NA-TU-NA-TE-\[ \[…\].
+> \[…\] presence/face \[…\] \]-KU-PA₃-NA-TU-NA-TE-\[ \[…\] / \[…\] by the portions; behold, she who reveres \[…\] -QA.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \]NA-SI | nasīʾ | \[damaged; possible 'chief/prince'\] | SPECULATIVE |  |
 | I-PI-NA-MA\[…\] | ʾippina=ma\[…\] | presence/face \[…\] | CANDIDATE |  |
 | [[wiki/linear-a/words/K/KU_PA3_NA_TU_NA_TE_broken_both\|&#93;-KU-PA₃-NA-TU-NA-TE-&#91;]] |  | a form of KU-PA₃-NA-TU, its ending lost. Not readable. |  | unread |
-| \[…\]PI-MI-NA-TE | \[…\]-pi-minate | \[damaged; possible portion/allotment term\] | SPECULATIVE |  |
-| I-NA-JA-RE-TA\[…\] | ina-yareta-\[…\] | \[damaged; possible 'behold, reverence of…'\] | SPECULATIVE |  |
+| \[…\]PI-MI-NA-TE | bi-mināti | by the portions; rival 'by the recitation' | SPECULATIVE |  |
+| I-NA-JA-RE-TA\[…\] | hinna yarēʾat-\[…\] | behold, she who reveres \[…\] | SPECULATIVE |  |
 | \[…\]-QA |  | \[untranslated damaged ending\] | SPECULATIVE |  |
 
 ### Notes

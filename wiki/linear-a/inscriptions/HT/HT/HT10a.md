@@ -70,24 +70,24 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> The assembly: herbs 4 · ground (flour) · the estate 16½; the storehouse 4; pasture product 6; the storehouse 14; seed-grain 2½; Dardaʿ 8; corvée gang 3.
+> Emmer: herbs 4 · ground (flour) · the estate 16½; the storehouse 4; pasture product 6; the storehouse 14; seed-grain 2½; Dardaʿ 8; corvée gang 3.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | the assembly (heading); rival 'emmer' | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | šamm- | herbs, aromatic plants, 4 | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KU_NI_SU\|KU-NI-SU]] | kunīšu | emmer (heading) | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/S/SA_MA\|SA-MA]] | samm- | herbs, aromatic plants, 4 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA\|PA]] |  | crushed, ground (flour) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | estate, household,16½ | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | the stall, storehouse, 4 | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/star/star301\|\*301]] | nawā | pastureland, pastoral product (logogram), 6 | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/U/U_star325_ZA\|U-\*325-ZA]] | ʾubūs(a) | the stall, storehouse, 14 | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | seed-grain, 2½; rival a personal name | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | seed-grain, 2½ | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | personal name, 8 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/M/ME_ZA\|ME-ZA]] | massu | corvée gang, labour gang, 3 | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
-KU-NI-SU · heads the list, which names no commodity; the entries total 58.
+KU-NI-SU · 'emmer' heads the list and names its commodity, as no logogram does; the entries total 58.
 
 ### Source
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/K0072_crush
 title: "*gVrVś-: 'crush'"
-desc: "Proto-Semitic *gVrVś-, 'crush': reflexes in 5 language(s)."
+desc: "Proto-Semitic *gVrVś-, 'crush': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0072"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | geres 'crushing' | Anderson–Moser 2024 root grś |  |
 | Syrian Aramaic | gəras (LGz. 203) | LGz. 203 | gloss withheld |
 | Amharic | (a)gʷärräsä (LGz. 203) | LGz. 203 | gloss withheld |
+| Aramaic | grs (DNWSI 235) | DNWSI 235 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_TA
 title: "SA-TA"
 desc: "Šata: Šata (personal name, heading the second section); rival śadā '(those of) the field'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SA-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Šata |
 | Meaning | Šata (personal name, heading the second section); rival śadā '(those of) the field' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

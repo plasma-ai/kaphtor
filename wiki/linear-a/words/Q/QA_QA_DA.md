@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_QA_DA
 title: "QA-QA-DA"
 desc: "qaqqadu: head, top, capital (Akkadian qaqqadu(m)). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "body", "hapax", "noun"]
 kind: "word"
 form: "QA-QA-DA"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | head, top, capital (Akkadian qaqqadu(m)) |
 | Root | q-q-d |
 | Proto-Semitic | \*ḳVdḳVd- (#1952) |
-| Language layer | Akkadian |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | body, hapax, noun |
 | Semantic field | body_part |
 
 ### Note

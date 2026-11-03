@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/772_meadow
 title: "*marg- (?): 'meadow'"
-desc: "Proto-Semitic *marg- (?), 'meadow': reflexes in 2 language(s)."
+desc: "Proto-Semitic *marg- (?), 'meadow': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "772"
@@ -30,8 +30,10 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic mrg (D) (Al-Jallad 2026, 94) | Al-Jallad 2026 94 | gloss withheld |
 | Arabic | marg- |  |  |
 | Syrian Aramaic | margā 'a meadow' (Payne Smith 299) | Payne Smith 299 |  |
+| Akkadian | margû (pl. margāni) (CAD M/1 278–279) | CAD M/1 278–279 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

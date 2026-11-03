@@ -9,7 +9,7 @@ site: "Miletos"
 support: "Clay vessel"
 period: ""
 translation: "none"
-words: ["PA₃-SI-MO"]
+words: ["PA₃-SI-*47"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -49,6 +49,6 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/P/PA3_SI_MO|PA₃-SI-MO]].
+[[wiki/linear-a/words/P/PA3_SI_star47|PA₃-SI-\*47]].
 
 <!-- END kaphtor:record -->

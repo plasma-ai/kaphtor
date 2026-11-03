@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_DI_NI
 title: "KI-DI-NI"
 desc: "Kidinni: personal name, 'protection (of the god)' (Akk. kidinnu). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KI-DI-NI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'protection (of the god)' (Akk. kidinnu) |
 | Root | k-d-n |
 | Proto-Semitic | \*kdn (#3846) |
-| Language layer | Akkadian |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

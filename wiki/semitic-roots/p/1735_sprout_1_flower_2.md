@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | farḫ- 1 (Lane 2362) | Lane 2362 |  |
-| Akkadian | perʔu 1 |  |  |
+| Akkadian | parāḫu 1 (CAD P 145) | CAD P 145 | gloss withheld |
 | Ugaritic | prḫ (DULAT 669) | DULAT 669 | gloss withheld |
 | Geez | farḫa 1 |  |  |
 | Hebrew | peraḥ 2 |  |  |

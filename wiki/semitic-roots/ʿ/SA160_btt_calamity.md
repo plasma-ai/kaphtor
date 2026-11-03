@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/SA160_btt_calamity
 title: "*ʕbṭ: 'ʿbṭt calamity'"
-desc: "Epigraphic South Arabian headword *ʕbṭ, 'ʿbṭt calamity': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *ʕbṭ, 'ʿbṭt calamity': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA160"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ʿbṭ (SD 11) (Sabaweb lemmas 1940, 1867) | SD 11; Sabaweb lemmas 1940, 1867 | gloss withheld |
 | Arabic | Ar ʿawbaṭ 'calamity, misfortune' (Lane 1940) | Lane 1940 |  |
+| Geez | ʕabbaṭa, ʕabaṭa (LGz. 55) | LGz. 55 | gloss withheld |
+| Amharic | abbäṭä (LGz. 55) | LGz. 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

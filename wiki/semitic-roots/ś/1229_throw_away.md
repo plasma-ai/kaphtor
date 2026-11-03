@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šalû (CAD Š/1 272) | CAD Š/1 272 | gloss withheld |
+| Akkadian | šalû (CAD Š/1 272; AHw 1152) | CAD Š/1 272; AHw 1152 | gloss withheld |
 | Hebrew | slh (HALOT 756) | HALOT 756 |  |
 | Judaic Aramaic | slʾ (HALOT 756) | HALOT 756 |  |
 | Syrian Aramaic | slā (Payne Smith 378; HALOT 756) | Payne Smith 378; HALOT 756 | gloss withheld |

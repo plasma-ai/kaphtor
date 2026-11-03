@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/P/PA3
 title: "PA₃"
-desc: "b(i)=; bād(i): in, with, by; on HT103 perhaps administrative ‘in the charge of’. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+desc: "bi=: in, with, by (proclitic b-); rival on HT 103 bād(i) 'in the charge of'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "preposition"]
 kind: "word"
 form: "PA₃"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "b(i)=; bād(i)"
+reading: "bi="
 attestations: ["PH6", "HT103"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | b(i)=; bād(i) |
-| Meaning | in, with, by; on HT103 perhaps administrative ‘in the charge of’ |
+| Reading | bi= |
+| Meaning | in, with, by (proclitic b-); rival on HT 103 bād(i) 'in the charge of' |
 | Root | b |
 | Proto-Semitic | \*bV-- (#K0007) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | preposition |
 | Semantic field | particle |
 
 ### Note
 
-A single-consonant proclitic cannot be written bare in a CV syllabary: PA₃ = /ba/ spends its vowel slot as a dead vowel, the reconstruction following PS/Ug. bi=. The damaged APZa2 sequence \]PI-MI-NA-TE does not independently establish PI = bī. The prepositional value rests chiefly on PH6 I-DA-PA₃-I-SA-RI = ʾIdā bi-ʾišarī. On HT9b PA₃ stands between dividers before WA-JA-PI, a transaction sign like TE in the HT9a heading, and is no witness. If PA₃ is independent on HT103, its position before a probable personal name and quantity has a close administrative parallel in Ugaritic/Phoenician bd /bādi/ or /bīdi/ ‘in the charge/custody of’ (&lt; \*bi-yadi): Kition no. 84 repeats bd + personal name + counted workmen (Krahmalkov 2000, 97), and CAT 4.145:9–10 uses bd rb hršm ‘in the custody of the chief of the craftsmen’ (Huehnergard 2012, 76, 94). Akkadian likewise writes ša qāti ‘in the charge of’ with the single logogram NĪG.ŠU before personal names (Huehnergard 1997, 276). PA₃ could therefore be ordinary b- ‘in/by’ or a local administrative shorthand for bād(i), but no Semitic source yet proves the abbreviation bd &gt; b, and the standard Linear B coda-omission rule does not cover final /d/. Linear B pa-ro + personal name ‘in whose care/in the charge of’ supplies a functional Aegean parallel (Killen 2024, 103). Other standalone PA₃ tokens need not share this function. See PA₃-E.
+PH 6 I-DA-PA₃-I-SA-RI ʾIdā bi-ʾišarī: PA₃, a proposed ba, writes the proclitic b- 'in, with, by' with a dead vowel, as a CV syllabary must, after PS and Ugaritic bi=. On HT 9b PA₃ stands between dividers before WA-JA-PI, a transaction sign like TE in the HT 9a heading. Rival on HT 103, PA₃-DA-KU-SE-NE\[ \]6½ with a possible divider after PA₃ (GORILA I 171), and Ugaritic often sets a divider after a one-syllable proclitic, b. bnk (CAT 1.6:I:46; Tropper 2000, §21.412a): bād(i) 'in the charge of' (&lt; \*bi-yadi), as Kition no. 84 bd with a personal name and counted workmen (Krahmalkov 2000, 97) and CAT 4.145:9–10 bd rb ḥršm 'in the custody of the chief of the craftsmen' (Huehnergard 2012, 76, 94). Cf. Linear B pa-ro with a personal name, 'in the charge of' (Killen 2024, 103). Weak point: HT 103 wants bd 'in the charge of', and no Semitic text shortens bd to b. Two attestations. See PA₃-E.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ A single-consonant proclitic cannot be written bare in a CV syllabary: PA₃ = /
 
 ### Source
 
-di Mino
+di Mino; Tropper 2000
 
 ## Attestations
 
@@ -69,6 +69,6 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] |  | transaction sign, divider-bounded |  |
-| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | b(i)= / bād(i) | if separate, possibly ‘in/by’ or administrative shorthand ‘in the charge of’ | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | bi= | in, with, by (proclitic b-); rival bād(i) 'in the charge of' | CANDIDATE |
 
 <!-- END kaphtor:record -->

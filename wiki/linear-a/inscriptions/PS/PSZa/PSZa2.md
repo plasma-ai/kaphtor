@@ -9,7 +9,7 @@ site: "Psykhro"
 support: "Stone vessel"
 period: ""
 translation: "complete"
-words: ["JA-SA-SA-RA-ME"]
+words: ["JA-SA-SA-RA-ME", "TA-NA-I-*301-U-TI-NU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -61,7 +61,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/R/RE_I_KE_broken_start\|&#93;-RE-I-KE]] |  | \[untranslated fragment\] |  | unread |
 | TA-NA-I-\*301-(TI/E) | tanaʿʿīnā-tī / tanʿanē | TI: May you (f.) answer; E: May she/you answer | CANDIDATE |  |
 | [[wiki/linear-a/words/E/etc_JA_TI_E_broken_start\|&#91;…&#93;-JA-(TI/E)]] |  | \[damaged; untranslated\] |  | unread |
-| [[wiki/linear-a/words/J/JA_SA_SA_RA_ME\|JA-SA-SA-RA-ME]] | yaššaram | uprightly (accusative -am, √y-š-r) | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/J/JA_SA_SA_RA_ME\|JA-SA-SA-RA-ME]] | yaššaram | in righteousness (accusative -am, √y-š-r) | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
 
@@ -75,7 +75,7 @@ Fragmentary stone-vessel inscription from the Dictaean Cave. The initial \]-RE-I
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/J/JA_SA_SA_RA_ME|JA-SA-SA-RA-ME]].
+[[wiki/linear-a/words/J/JA_SA_SA_RA_ME|JA-SA-SA-RA-ME]], [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU|TA-NA-I-\*301-U-TI-NU]].
 
 ## Edition differences
 

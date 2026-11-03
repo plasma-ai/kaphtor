@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/K0438_inherit
 title: "*wVrVṯ-: 'inherit'"
-desc: "Proto-Semitic *wVrVṯ-, 'inherit': reflexes in 20 language(s)."
+desc: "Proto-Semitic *wVrVṯ-, 'inherit': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0438"
@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | wariṯa 'inherit' (Lane 2934) | Lane 2934 |  |
-| Aramaic | YRT (DNWSI 471 apud CAL) | DNWSI 471; CAL; Anderson–Moser 2024 root wrṯ | gloss withheld |
+| Aramaic | YRT (DNWSI 471) | DNWSI 471; Anderson–Moser 2024 root wrṯ | gloss withheld |
 | Hebrew | yaraš; yᵉruššā (HALOT 442) | HALOT 442; Anderson–Moser 2024 root wrṯ | gloss withheld |
 | Ugaritic | yrṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015 ch. 2 §4.2 no. 66; Anderson–Moser 2024 root wrṯ | gloss withheld |
 | Epigraphic South Arabian | Sab wrṯ (SD 162; Biella 150; Sabaweb lemma 5434) | SD 162; Biella 150; Sabaweb lemma 5434 | gloss withheld |
@@ -46,10 +46,15 @@ updated: 2026-10-22T17:38:31Z
 | Harari | wäräsa (LGz. 618) | LGz. 618 |  |
 | Jibbali | erɔ́ṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015 ch. 2 §4.2 no. 66 | gloss withheld |
 | Mehri | wīrəṯ (Kogan 2015, ch. 2 §4.2 no. 66) | Kogan 2015 ch. 2 §4.2 no. 66 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic wrṯ (Al-Jallad–Jaworska 141) | Al-Jallad–Jaworska 141 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wrṯ (Al-Jallad–Jaworska 141); Dadanitic wrṯ (Al-Jallad 2026, 168) | Al-Jallad–Jaworska 141; Al-Jallad 2026 168 | gloss withheld |
 | Judaic Aramaic | yrt (HALOT 441) | HALOT 441 |  |
 | Emar | PI-ra-ša /w/yarrā̆θu/ (Pentiuc 2001, 139–140); tu-ri-iš, tù-ur-ša /turiθ/, /turθā/ (Pentiuc 2001, 183) | Pentiuc 2001 139–140; Pentiuc 2001 183 | gloss withheld |
+| Amorite | yāriṯ: name DUMU ya-ri-ša (Alalakh) (Sanmartín GlOS 2, 355) | Sanmartín GlOS 2, 355 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Sanmartín GlOS 2, 301 reads the Emar ᵈINANNA tu/tù-ri-ši as 'harvest', Akkadian turāšu from Hurrian turezzi.
 
 <!-- END kaphtor:record -->

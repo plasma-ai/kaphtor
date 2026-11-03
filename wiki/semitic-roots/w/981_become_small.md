@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/981_become_small
 title: "*wVkVš-/*yVkVš-: 'become small'"
-desc: "Proto-Semitic *wVkVš-/*yVkVš-, 'become small': reflexes in 1 language(s)."
+desc: "Proto-Semitic *wVkVš-/*yVkVš-, 'become small': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "981"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | wks \[-i-\] 'become deficient; diminish, decrease' (Lane 2964) | Lane 2964 |  |
+| Pre-Islamic North Arabian | Safaitic wks (Al-Jallad 2026, 166) | Al-Jallad 2026 166 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | turb-, turb-at-, turāb- (Lane 301) | Lane 301 |  |
-| Akkadian | tarbuʔtu |  |  |
+| Akkadian | tarbuʔtu (AHw 1328) | AHw 1328 |  |
 | Hebrew | Cf. robaʕ |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RI_MI_SI
 title: "RI-MI-SI"
 desc: "Rimši: Rimši; a personnel group named with the Amorite element rimši (Ugaritic DN rmš). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personnel"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "personnel"]
 kind: "word"
 form: "RI-MI-SI"
 datasets: ["lexicon", "onomasticon"]
@@ -34,13 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Rimši |
 | Meaning | Rimši; a personnel group named with the Amorite element rimši (Ugaritic DN rmš) |
 | Root | r-m-š (Amorite RMS/RMŠ, unglossed) |
-| Language layer | NWS |
-| Category | personnel |
-| Semantic field | personnel_group |
+| Proto-Semitic | \*rmś (#4295) |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel |
+| Semantic field | personnel |
 
 ### Note
 
-HT119 RI-MI-SI 13, a group in a personnel list. /rimši/ matches the Amorite element in Rimši-ʾIl, Rimši-ʾIli, ʾAnnu-rimši, Kakka-rimši (Gelb, AS 21, nos. 5285–86, 831, 3912); Gelb leaves RMŠ unglossed, Sanmartín reads rimš 'moving, setting in motion', with Ebla ra-maš (GlOS 2, 167). Ugaritic rmš is a divine name receiving a ram (š l rmš) in KTU 1.46:13, 1.109:7, 1.130:21 (DULAT 730). One attestation.
+HT 119 RI-MI-SI 13, a group in a personnel list. /rimši/ matches the Amorite element in Rimši-ʾIl, Rimši-ʾIli, ʾAnnu-rimši, Kakka-rimši (Gelb 1980, nos. 5285–5286, 831, 3912); Gelb leaves RMŠ unglossed, Sanmartín reads rimš 'moving, setting in motion', with Ebla ra-maš (GlOS 2, 167). Ugaritic rmš is a divine name receiving a ram (š l rmš) in KTU 1.46:13, 1.109:7, 1.130:21 (DULAT 730). One attestation.
 
 ### Cognates
 
@@ -50,7 +51,7 @@ HT119 RI-MI-SI 13, a group in a personnel list. /rimši/ matches the Amorite ele
 
 ### Source
 
-Gelb 1980, AS 21, nos. 831, 3912, 5285–5286; GlOS 2; di Mino
+di Mino; Gelb 1980; GlOS 2; DULAT
 
 ## Attestations
 
@@ -68,8 +69,8 @@ Gelb 1980, AS 21, nos. 831, 3912, 5285–5286; GlOS 2; di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | epû 'bake' | Anderson–Moser 2024 root ʾpy |  |
-| Aramaic | ʾPY (DNWSI 94 apud CAL) | DNWSI 94; CAL; Anderson–Moser 2024 root ʾpy | gloss withheld |
+| Aramaic | ʾPY (DNWSI 94) | DNWSI 94; Anderson–Moser 2024 root ʾpy | gloss withheld |
 | Geez | ʾafaya 'bake' | Anderson–Moser 2024 root ʾpy |  |
 | Hebrew | ʾapah 'bake' | Anderson–Moser 2024 root ʾpy |  |
 | Punic | ʾpy 'bake' | Anderson–Moser 2024 root ʾpy |  |

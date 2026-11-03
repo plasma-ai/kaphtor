@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/672_town_1_village_2
 title: "*ḳʷary-: 'town' 1, 'village' 2"
-desc: "Proto-Semitic *ḳʷary-, 'town' 1, 'village' 2: reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḳʷary-, 'town' 1, 'village' 2: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "672"
@@ -33,13 +33,14 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḳa/iry-at- 1, pl. ḳur-an- 2 |  |  |
 | Ugaritic | ḳr(y)-t- 1 |  |  |
 | Jibbali | ṣ̃írɛ́-t 1 |  |  |
-| Hebrew | ḳiryā 1 (Kogan 2015, ch. 3 §5.3 no. 19) | Kogan 2015 ch. 3 §5.3 no. 19 |  |
+| Hebrew | ḳiryā 1 (Kogan 2015, ch. 3 §5.3 no. 19); ḳeret 1 (HALOT 1149) | Kogan 2015 ch. 3 §5.3 no. 19; HALOT 1149 | gloss withheld |
 | Epigraphic South Arabian | ḳr 1, a misdivision of bqr (Sabaweb lemma 4790) | Sabaweb lemma 4790 | gloss withheld |
-| Judaic Aramaic | ḳurǝyātā Ja 1420 |  |  |
+| Judaic Aramaic | ḳurǝyātā Ja 1420; qrth (DNWSI 1037) | DNWSI 1037 | gloss withheld |
 | Syrian Aramaic | ḳerī-t- 1 Brock 695 | Brock 695 |  |
 | Phoenician | qrt 1 (HALOT 1142; Krahmalkov 433; T 294) | HALOT 1142; Krahmalkov 433; T 294 | gloss withheld |
 | Punic | qrt 1 (HALOT 1142; T 294) | HALOT 1142; T 294 | gloss withheld |
-| Aramaic | qryh (HALOT 1142; DNWSI 1033 apud CAL) | HALOT 1142; DNWSI 1033; CAL |  |
+| Aramaic | qryh (HALOT 1142; DNWSI 1033); qrt (DNWSI 1037) | HALOT 1142; DNWSI 1033; DNWSI 1037 | gloss withheld |
+| Biblical Aramaic | qiryā 1 (HALOT 1142) | HALOT 1142 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

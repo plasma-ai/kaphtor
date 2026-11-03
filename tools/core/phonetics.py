@@ -193,6 +193,45 @@ EGYPTIAN_DISTANCES: dict[tuple[str, str], float] = {
     ("ġ", "ʿ"): 0.2,
 }
 
+# Hattic (Shoresh A23): each pair priced from the cited grammars, frozen before any run. Keys
+# are Soysal 2004's heads, one letter a phoneme, the W-sign written f. Soysal 2004, Hattischer Wortschatz in hethitischer Textüberlieferung
+# (Brill); Soysal 2018, "Zu den rezenten Studien im Hattischen: eine Zwischenbilanz", ArAn 12.2; Kassian 2015,
+# Klinopisnye jazyki Anatolii (khattskij, khurrito-urartskie, anatolijskie): problemy etimologii i grammatiki
+# (doctoral dissertation, Moscow); Schrijver 2018, "The Verbal Syntax of Hattian", AoF 45.2; Bischoff 2023, "Some new
+# Hattian-Hittite correspondences from the quasi-bilingual text of CTH 733", HAR 4.2; Goedegebuure 2008, "Central
+# Anatolian Languages and Language Communities in the Colony Period: A Luwian-Hattian Symbiosis and the Independent
+# Hittites", in Anatolia and the Jazira during the Old Assyrian Period (PIHANS 111), 137-180. Bands: 0.05 a notational
+# contrast; 0.1 pervasive alternation with the same substitution in Hittite renderings, and the stop voicing pairs;
+# 0.15 free or rule-bound alternation, or a rarer spelling with a stated rule; 0.2 unqueried doublets in two or more
+# lexemes, or a 0.1-0.15 pair carried through p/b, t/d, k/g or s/š; 0.3 doublets in one lexeme, queried ("?")
+# doublets only, or a 0.2-0.3 pair carried through another. l~r is script-side, not a Hattic equivalence.
+HATTIC_DISTANCES: dict[tuple[str, str], float] = {
+    ("p", "b"): 0.1,   # ba/pa signs without visible distribution (Kassian 2015: 22-23; Soysal 2004: 72)
+    ("t", "d"): 0.1,   # tu/du likewise (Kassian 2015: 22-23); pintuggaram beside wiindukkaram (Soysal 2018: 169)
+    ("k", "g"): 0.1,   # karkar as ka-a-ar-ka-ra-a-at and kar-ga-ra-aš (Kassian 2015: 22); karam beside garan (Soysal 2018: 173)
+    ("s", "š"): 0.05,  # one sibilant written two ways (Kassian 2015: 23-24): še-e-it beside se-e-it "lady" (23)
+    ("f", "p"): 0.1,   # the W-sign alternates with the P-series in the same morphemes (Kassian 2015: 23;
+                       # Schrijver 2018: 215 n. 5, 218; Bischoff 2023: 106 n. 77); pur/wuur, tupi/tuwii (Soysal 2018: 169-172)
+    ("f", "b"): 0.2,   # f~p through p~b; Tabarna beside tawaarna (Soysal 2018: 169; Schrijver 2018: 218)
+    ("f", "w"): 0.15,  # the W-sign alternates rarely with plain wa (Schrijver 2018: 215 n. 5, 218; Kassian 2015: 23)
+    ("p", "w"): 0.3,   # one lexeme: pakkupaku beside wakkupakku "hammer" (Soysal 2018: 169)
+    ("b", "w"): 0.3,   # p~w through p~b
+    ("f", "m"): 0.3,   # pala, waala, mala "and" (Soysal 2018: 169); ḫanfašuit, Hittite ḫalmaššuit (Goedegebuure 2008: 146)
+    ("p", "m"): 0.3,   # pala beside mala (Soysal 2018: 169)
+    ("b", "m"): 0.3,   # through p~b and p~m
+    ("t", "š"): 0.15,  # free t/š alternation, posited /č/ (Kassian 2015: 24, 30); Šaru/Taru, šail/tail (Soysal 2018: 169, 174)
+    ("t", "s"): 0.2,   # t~š through s~š
+    ("d", "š"): 0.2,   # t~š through t~d
+    ("d", "s"): 0.2,   # t~š through t~d and s~š
+    ("t", "z"): 0.3,   # one unqueried lexeme: tiuz, ziuz "mountain" (Soysal 2018: 170)
+    ("d", "z"): 0.3,   # t~z through t~d
+    ("š", "z"): 0.3,   # queried doublets only: šiyawi, ziyawe? (Soysal 2018: 175); šašip, zašip? (176)
+    ("s", "z"): 0.3,   # š~z through s~š; z is /ts/
+    ("m", "n"): 0.2,   # n > m before p (Goedegebuure 2008: 170-171); nasals assimilate (Kassian 2015: 26); karam, garan (Soysal 2018: 173)
+    ("l", "n"): 0.3,   # one lexeme: tumil, tumin "rain" (Soysal 2018: 170)
+    ("l", "r"): 0.15,  # script-side: Hattic keeps l and r apart (Kassian 2015: 22), Linear A's RA-series writes both
+}
+
 
 # Multi-char phoneme tokens for Luwian labiovelars
 _LUWIAN_DIGRAPHS = {"kw", "gw"}

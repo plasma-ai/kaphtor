@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0290_curse
 title: "*qVbVb-: 'curse'"
-desc: "Proto-Semitic *qVbVb-, 'curse': reflexes in 2 language(s)."
+desc: "Proto-Semitic *qVbVb-, 'curse': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0290"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Phoenician | qb (Krahmalkov 423); qbt (Krahmalkov 424) | Krahmalkov 423; Krahmalkov 424 | gloss withheld |
 | Punic | \*qbb: qbt (T 283) | T 283; Anderson–Moser 2024 root qbb | gloss withheld |
 | Hebrew | qābab (T 283) | T 283 |  |
 

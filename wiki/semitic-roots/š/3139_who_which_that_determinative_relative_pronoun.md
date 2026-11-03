@@ -30,15 +30,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | šě- (HALOT 1365) | HALOT 1365 | gloss withheld |
-| Akkadian | ša, šu (HALOT 1365) | HALOT 1365 |  |
-| Phoenician | ʾš, š (HALOT 1365) | HALOT 1365 |  |
-| Punic | ʾš, š (HALOT 1365) | HALOT 1365 |  |
+| Akkadian | ša, šu (HALOT 1365; AHw 1118) | HALOT 1365; AHw 1118 |  |
+| Phoenician | ʾš, š (HALOT 1365); šl- (Krahmalkov 461) | HALOT 1365; Krahmalkov 461 | gloss withheld |
+| Punic | ʾš, š (HALOT 1365); ʾ, ʿš (T 34–35) | HALOT 1365; T 34–35 |  |
 | Aramaic | EmpArm. š (HALOT 1365) | HALOT 1365 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Originally a determinative pronoun, weakened to a relative in Phoenician and Hebrew (HALOT 1365). Ugaritic š only in the personal name šbʿl 'the one of Baal'; the Ugaritic relative is d/dt (HALOT 1365; K0877).
+Originally a determinative pronoun, weakened to a relative in Phoenician and Hebrew (HALOT 1365). Ugaritic š only in the personal name šbʿl 'the one of Baal'; the Ugaritic relative is d/dt (HALOT 1365; K0877). Tomback (T 34) compares Amm. ʾš.
 
 <!-- END kaphtor:record -->

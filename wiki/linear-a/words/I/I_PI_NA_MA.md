@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_PI_NA_MA
 title: "I-PI-NA-MA"
 desc: "ʾippina=ma: in the presence of. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "ritual"]
+tags: ["linear-a", "word", "tier-3", "libation_formula", "preposition", "ritual"]
 kind: "word"
 form: "I-PI-NA-MA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | in the presence of |
 | Root | p-n-y |
 | Proto-Semitic | \*pan- (#144) |
-| Language layer | NWS |
-| Category | ritual |
-| Semantic field | body_part |
+| Language layer | Semitic |
+| Tags | libation_formula, preposition, ritual |
+| Semantic field | ritual |
 
 ### Note
 
-Four complete attestations occur at three peak-sanctuary sites (Iouktas, Kophinas, Vrysinas), with damaged sequences at Troullos (TLZa1 \[…\]NA-MA) and Apodoulou and only I-PI\[ preserved at the broken end of PKZa8. The PKZa8 fragment supports membership in this formula family by position but does not attest a complete standalone I-PI or the restoration I-PI-NA-MA by itself. In APZa2, I-PI-NA-MA reaches a broken edge and no following divider is preserved; it therefore supports recurrence of the sequence but not its completeness or complement there. Skeleton pnm compares with Hebrew pānīm and Ugaritic pnm 'face, presence.' Biblical cultic language pairs approach before the divine presence with acceptance (Lev 1:3–4; Ps 19:15; Mal 1:8), providing a structural comparison for I-PI-NA-MA beside the proposed √r-ṣ-y verb in the fuller formula. PI writes pin- against Hebrew pānīm and Akkadian pānu: one root, a different vowel, as the cognate languages show among themselves, e.g. \*zVrVḳ- (#3001) 'blue, bright (of the eyes)', Akkadian zarriqu (CAD Z 69), Syriac zārqā (Payne Smith 121), Arabic zurqa, azraq. Hebrew shifted \*a &gt; \*i more than once (Suchard 2016, 189). The noun's own vowel varies: Punic writes Tinnit's epithet pn bʿl as Θινιθ-Φανεβαλ and Θεννειθ-Φενηβαλ (Krahmalkov 2000, 398, 495), and SED reconstructs \*yad- 'hand', of the same noun pattern as \*pan-, 'with a variant \*id- … probably for PS too' (SED I, p. CXXX). Davis 2026 instead proposes the functional gloss 'a favor/blessing' (in Salgarella & Petrakis eds., The Wor(l)ds of Linear A, pp. 43–60). See PI-\*310-A.
+Complete at three peak sanctuaries: IO Za 2 and IO Za 15 (Iouktas), KO Za 1 (Kophinas), VRY Za 1 (Vrysinas). Damaged at Troullos (TL Za 1 \[…\]NA-MA) and Apodoulou (AP Za 2 I-PI-NA-MA\[, to a broken edge), and I-PI\[ at the break of PK Za 8. ʾippina=ma 'in the presence of': pnm, Heb. pānîm 'face, presence' (HALOT 938), Ug. pnm 'face, countenance' (DULAT 664). Biblical cult pairs approach before the divine presence with acceptance (Lev 1:3–4; Ps 19:15; Mal 1:8), as I-PI-NA-MA stands beside the √r-ṣ-y verb of the fuller formula. PI writes pin- against Heb. pānîm and Akk. pānu, a different vowel in one root: Hebrew shifted \*a &gt; \*i more than once (Suchard 2016, 189), Punic writes Tinnit's epithet pn bʿl as Θινιθ-Φανεβαλ and Θεννειθ-Φενηβαλ (Krahmalkov 2000, 398, 495), and SED reconstructs \*yad- 'hand', of the same noun pattern as \*pan-, 'with a variant \*id- … probably for PS too' (SED I, CXXX). Rival: Davis's functional gloss 'a favor, a blessing' (Davis 2026, 55). See PI-\*310-A.
 
 ### Cognates
 
@@ -65,7 +65,7 @@ di Mino; GlOS 2
 | [[wiki/linear-a/inscriptions/IO/IOZa/IOZa2\|IOZa2]] | Iouktas | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/IO/IOZa/IOZa15\|IOZa15]] | Iouktas | Stone vessel | complete |
 | [[wiki/linear-a/inscriptions/KO/KOZa/KOZa1\|KOZa1]] | Kophinas | Stone vessel | complete |
-| [[wiki/linear-a/inscriptions/TL/TLZa/TLZa1\|TLZa1]] | Troullos | Stone ladle (HM 1545) | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/TL/TLZa/TLZa1\|TLZa1]] | Troullos | Stone ladle (HM 1545) | complete; restored |
 | [[wiki/linear-a/inscriptions/VRY/VRYZa/VRYZa1\|VRYZa1]] | Vrysinas | Square serpentine libation-table fragment | complete |
 | [[wiki/linear-a/inscriptions/AP/APZa/APZa2\|APZa2]] | Apodoulou | Serpentine cylindrical jar; HM 2479 + HM 2480 | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/PK/PKZa/PKZa8\|PKZa8]] | Palaikastro | Stone vessel | incomplete; form not in transliteration |

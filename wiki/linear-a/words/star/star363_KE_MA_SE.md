@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star363_KE_MA_SE
 title: "*363-KE-MA-SE"
 desc: "Šakma-se: the one of Šakmu (Shechem) (gentilic in -SE on the toponym). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "gentilic"]
+tags: ["linear-a", "word", "tier-1", "gentilic", "hapax"]
 kind: "word"
 form: "*363-KE-MA-SE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the one of Šakmu (Shechem) (gentilic in -SE on the toponym) |
 | Root | ṯ-k-m |
 | Proto-Semitic | \*ṯVkm- ~ \*čVkm- (#2037) |
-| Language layer | NWS |
-| Category | gentilic |
+| Language layer | Semitic |
+| Tags | gentilic, hapax |
 | Semantic field | personnel |
 
 ### Note
 
-ZA 15a .7 \*363-KE-MA-SE 5, the last entry of the wine issue headed \*47-KU-NA, after SA-MI-DA-E 4 (GORILA III 183). Intact, no dots. \*363 at its proposed value SO: so-ke-ma writes škm, the Hebrew and Akkadian reflex of PS \*ṯkm; the rival value ṮA gives the same root. -SE as on RU-MA-TA-SE beside bare RU-MA-TA, and on MI-ZA-SE on the same face: town and gentilic, as Šǝkem and šikmî. Rival: the Amorite name Šakim (ŠA-KI-MU-UM). \*363 unresolved.
+ZA 15a .7 \*363-KE-MA-SE 5, the last entry of the wine issue headed \*47-KU-NA, after SA-MI-DA-E 4 (GORILA III 183). Intact, no dots. \*363 at its proposed value SO: so-ke-ma writes škm, the Hebrew and Akkadian reflex of PS \*ṯkm; the rival value ṮA gives the same root. Shechem is Skmimi of the Execration Texts (Brussels E6; Streit 2017, 63). -SE as on RU-MA-TA-SE beside bare RU-MA-TA, and on MI-ZA-SE on the same face: town and gentilic, as Šǝkem and šikmî. Rival: the Amorite name Šakim (ŠA-KI-MU-UM; Gelb 1980, no. 5804). Weak point: SigLA reads the sign A364, which Melena sets beside Linear B so and do (Melena 2014, 85–86); its value is unresolved.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ ZA 15a .7 \*363-KE-MA-SE 5, the last entry of the wine issue headed \*47-KU-NA, 
 
 ### Source
 
-di Mino; Gelb 1980; DULAT; Streit 2017
+di Mino; Gelb 1980; DULAT; Streit 2017; Melena 2014
 
 ## Attestations
 
@@ -70,9 +70,13 @@ di Mino; Gelb 1980; DULAT; Streit 2017
 | Type | gentilic (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+
+### Note
+
+ZA 15a .7 \*363-KE-MA-SE 5, the last entry of a wine issue (GORILA III 183). \*363 at its proposed value SO: Šakmu (Shechem) with the gentilic -SE of RU-MA-TA-SE. See the lexicon entry.
 
 <!-- END kaphtor:record -->

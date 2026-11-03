@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0355_heal
 title: "*rVpVʾ-: 'heal'"
-desc: "Proto-Semitic *rVpVʾ-, 'heal': reflexes in 14 language(s)."
+desc: "Proto-Semitic *rVpVʾ-, 'heal': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0355"
@@ -29,8 +29,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | rapaʾ; rǝpāʾîm (HALOT 1274) | HALOT 1274; Anderson–Moser 2024 root rpʾ | gloss withheld |
-| Punic | rpʾ 'heal' | Anderson–Moser 2024 root rpʾ |  |
+| Hebrew | rapaʾ; rǝpāʾîm (HALOT 1274); rpwy (DNWSI 1082) | HALOT 1274; DNWSI 1082; Anderson–Moser 2024 root rpʾ | gloss withheld |
+| Punic | rpʾ; rpʾ (Krahmalkov 446); rpʔm (DNWSI 1081) | Krahmalkov 446; DNWSI 1081; Anderson–Moser 2024 root rpʾ | gloss withheld |
 | Ugaritic | rpʾ; rpʾum (HALOT 1274; DULAT 731) | HALOT 1274; DULAT 731; Anderson–Moser 2024 root rpʾ | gloss withheld |
 | Epigraphic South Arabian | Sab rfʾ (Biella 492; Sabaweb lemma 4885); rfʾ (SD 115; Sabaweb lemma 4885) | Biella 492; Sabaweb lemma 4885; SD 115 | gloss withheld |
 | Phoenician | rpʾm (KAI 13:7-8; HALOT 1274); rpʾ (HALOT 1272) | KAI 13:7-8; HALOT 1274; HALOT 1272 | gloss withheld |
@@ -43,6 +43,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | rəpā (LGz. 463) | LGz. 463 |  |
 | Tigrinya | räfʾe (LGz. 463) | LGz. 463 | gloss withheld |
 | Amorite | rpʾ: jirpaʾ, jarpaʾ, rapaʾ, rapaʾ(ān)um (Gelb AS 21, 30); rāpiʾu, ripʾu, rapaʾ, yarpaʾ/yirpaʾ (Buck 2019, 331); r-p-ʾ: ia-ar-pa-ᵈIM; riʾp: pí-ri-ip-i-im, ri-ip-a-DINGIR, ri-ip-a-ma-lik; rapūʾ: ra-pu-ú-um, ra-pu-a-tum (Sanmartín GlOS 2, 168–169) | Gelb AS 21 30; Buck 2019, 331; Sanmartín GlOS 2, 168–169 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rfʾ (Al-Jallad 2026, 121) | Al-Jallad 2026 121 | gloss withheld |
+| Aramaic | rpʔh (DNWSI 1082) | DNWSI 1082 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

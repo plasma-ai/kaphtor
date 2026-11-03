@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TO_MA_RO
 title: "TO-MA-RO"
 desc: "Tōmar: personal name, 'palm'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "TO-MA-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'palm' |
 | Root | t-m-r |
 | Proto-Semitic | \*tam(V)r- (#737) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-In the bronze-bowl scriptio continua A-RA-KO-KU-QA-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA. A palm name of the Bronze Age type: Amorite Tamar-u (Gelb 1980, no. 6027), Ugaritic tmr, Hebrew Tāmār (Gen 38; 2 Sam 13). TO writes the ō of Hebrew tōmer 'palm' (Judg 4:5); final O is the support vowel of coda r. Weak point: GORILA prints no divider before or after TO-MA-RO, so the word boundary rests on the parse. One attestation. See TO-MI-RE.
+In the bronze-bowl scriptio continua A-RA-KO-KU-QA-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA. A palm name of the Bronze Age type: Amorite Tamar-u (Gelb 1980, no. 6027), Ugaritic tmr 'date palm' (GlOS 2, 298), Hebrew Tāmār (Gen 38; 2 Sam 13). TO writes the ō of Hebrew tōmer 'palm' (Judg 4:5); final O is the support vowel of coda r. Weak point: GORILA prints no divider in the sixteen signs, and no sequence beside TO-MA-RO recurs as a word elsewhere, so the word boundary rests on the parse. One attestation. See TO-MI-RE.
 
 ### Cognates
 

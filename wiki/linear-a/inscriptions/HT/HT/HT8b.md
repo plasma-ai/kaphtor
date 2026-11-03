@@ -47,7 +47,7 @@ Transliteration, line by line:
 5. QA-\*310-I 1 ³⁄₈
 6. KA-PA ¹⁄₂
 7. PA-JA-RE 1 ¹⁄₈
-8. \*86+'\*188' ¹⁄₂
+8. \*86+\*188 ¹⁄₂
 9. ¹⁄₂
 
 Unicode (Linear A block):
@@ -73,7 +73,7 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | sapu buṭni | bowl of terebinth (pistachio) nuts (product) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/P/PA3_star188\|PA₃-\*188]] | bu-BUṬNU | terebinth (with /b/-onset phonetic complement) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/P/PA3_star188\|PA₃-\*188]] | bu-buṭnu | terebinth (PA₃ a phonetic complement for the b-onset) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | smith or administrator (occupational title) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | village, settlement | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | He (of) Re: Egyptian personal name Pꜣ-Rꜥ (PNM v6) | PROBABLE | PROBABLE (lexicon) |

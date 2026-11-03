@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/2324_fig_tree
 title: "*tiʾin-: 'fig-tree'"
-desc: "Proto-Semitic *tiʾin-, 'fig-tree': reflexes in 10 language(s)."
+desc: "Proto-Semitic *tiʾin-, 'fig-tree': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2324"
@@ -40,6 +40,8 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | CPArm. tynʾ (HALOT 1675) | HALOT 1675 |  |
 | Eblaitic | ti-ì-tum (Kogan 2011, 204; VE 368a; Krebernik 1983, 14), /tiʾittum/ &lt; /tiʾintum/ (Krebernik 1983, 14 n. 49) | Kogan 2011 204; VE 368a; Krebernik 1983, 14; Krebernik 1983, 14 n. 49 |  |
 | Ugaritic | /tiʾnatu/ (UVST 184) | UVST 184 | gloss withheld |
+| Canaanite | Amm. tʔn (DNWSI 1201) | DNWSI 1201 | gloss withheld |
+| Punic | tyn (DNWSI 1212) | DNWSI 1212 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

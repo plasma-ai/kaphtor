@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/K/KU_PA3_PA3
 title: "KU-PA₃-PA₃"
-desc: "Kubaba: Kubaba (Anatolian/North Syrian divine or personal name). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "divine_name"]
+desc: "Kubaba: Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name). Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "KU-PA₃-PA₃"
 datasets: ["lexicon", "onomasticon"]
@@ -32,15 +32,15 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kubaba |
-| Meaning | Kubaba (Anatolian/North Syrian divine or personal name) |
-| Root | Kubaba (Sumerian Kug-Baba) |
-| Language layer | Anatolian/North Syrian theonym |
-| Category | divine_name |
+| Meaning | Kubaba, Sumerian Kug-Baba 'Pure is Baba' (divine or personal name) |
+| Root | Kubaba (Sumerian Kug-Baba 'pure Baba', Haas 1994, 406; kug = ellu 'pure', CAD E 102) |
+| Language layer | Sumerian |
+| Tags | hapax, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-Layer 3 contact name. Conditional on PA₃ = /ba/, KU-PA₃-PA₃ spells Kubaba exactly. The name is externally attested both for the goddess and in personal names; HT88's one-unit roster therefore does not decide whether the referent is the goddess, a woman bearing the name, or a cult institution. The reading and the PA₃ value must not be used circularly to prove one another. The name is Sumerian Kug-Baba 'Pure is Baba': the Sumerian King List writes ku₃-ᵈba-ba₆ for the tavern-keeper who founded Kish (SKL 224–227), an Old Babylonian omen already calls her Kubaba (CAD Ṣ 32), and Haas reads the goddess of Carchemish the same way, 'reine Baba', the Sumerian Kar 'trading place' in her city's name supporting it (Haas 1994, 406). Rival: an Old Syrian-Anatolian name of unknown meaning (Haas 1994, 406); Assyrian KÙ.KA₂ kù-bābu 'holy gate' is a folk etymology at most (Haas 1994, 406). Haas holds her identity with Phrygian Kybele and Lydian Kybebe secure (Haas 1994, 408).
+HT 88, under KI-RO ·: KU-PA₃-PA₃ 1, then KA-JU 1 and KU-PA₃-NU 1, in a list of single units totalled KU-RO 6. Kubaba sign for sign, with PA₃ in its proposed value ba. The name is Sumerian Kug-Baba 'Pure is Baba': the Sumerian King List writes ku₃-ᵈba-ba₆ for the tavern-keeper who founded Kish (SKL 224–227), an Old Babylonian omen already calls her Kubaba (CAD Ṣ 32), and Haas reads the goddess of Carchemish the same way, 'reine Baba', the Sumerian Kar 'trading place' in her city's name supporting it (Haas 1994, 406). Haas holds her identity with Phrygian Kybele and Lydian Kybebe secure (Haas 1994, 408). The goddess and women bear the name alike, and on HT 88 it names the goddess, a woman or a cult institution. Rival: an Old Syrian-Anatolian name of unknown meaning (Haas 1994, 406), with Assyrian KÙ.KA₂ kù-bābu 'holy gate' a folk etymology at most (Haas 1994, 406). One attestation.
 
 ### Cognates
 
@@ -57,7 +57,7 @@ Layer 3 contact name. Conditional on PA₃ = /ba/, KU-PA₃-PA₃ spells Kubaba 
 
 ### Source
 
-di Mino
+di Mino; Haas 1994; CAD E, Ṣ
 
 ## Attestations
 
@@ -75,8 +75,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | theonym (SPECULATIVE) |
-| Affiliation | anatolian (SPECULATIVE) |
+| Type | theonym (PROBABLE) |
+| Affiliation | sumerian (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

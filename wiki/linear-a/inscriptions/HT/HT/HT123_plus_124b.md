@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["*188", "*188-*308", "*308", "*312", "KA-NA", "KI-RO", "KU-RO", "PI-SA", "TI-DA-TA"]
+words: ["*188", "*188-*308", "*308", "DU-MA-I-NA", "KA-NA", "KI-RO", "KU-RO", "PI-SA", "TI-DA-TA", "TU-PA-DI-DA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -47,7 +47,7 @@ Transliteration, line by line:
 6. \*188-DU 𐄁 10
 7. TU-PA-DI-DA J+L2
 8. KA-NA \[…\]
-9. SI-DU A701
+9. \]SI-DU ≈ ¹⁄₆
 10. DU-MA-I-NA ³⁄₈
 11. KU-RO 20
 12. KI-RO 5
@@ -73,20 +73,20 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> Pistacia/terebinth oil or processed product(?): 11; flax/linen(?): 1¾. Sixth(?) \[section\]. Pīsa(?): 4. Pistacia/terebinth product(?): 1. DU-qualified \*188 product: 10. TU-PA-DI-DA: J+L2. Sweet cane(?): \[quantity lost\]. SI-DU: A701. DU-MA-I-NA: ⅜. Total: 20. Owed: 5\[…\].
+> Pistacia/terebinth oil or processed product(?): 11; \*312: 1¾. Sixth(?) \[section\]. Pīsa(?): 4. Pistacia/terebinth product(?): 1. DU-qualified \*188 product: 10. The best of beer: J+L2. Sweet cane(?): \[quantity lost\]. \]SI-DU: A701. He of the Spring: ⅜. Total: 20. Owed: 5\[…\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/star/star188_star308\|\*188-\*308]] | buṭnu šamni | Pistacia/terebinth oil or related processed product(?) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/star/star312\|\*312]] | kitnu | flax or linen(?) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | sixth(?) or sixth section(?) | CANDIDATE | CANDIDATE (lexicon) |
+| \*312 |  | unidentified logogram, 1¾ |  |  |
+| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | sixth, the sixth section | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PI_SA\|PI-SA]] | Pīsa | recipient name | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star188\|\*188]] | buṭnu | Pistacia/terebinth product(?) | PROBABLE | PROBABLE (lexicon) |
 | \*188-DU | \[commodity subtype\] | DU-qualified \*188 product | CANDIDATE |  |
-| [[wiki/linear-a/words/T/TU_PA_DI_DA\|TU-PA-DI-DA]] | \[unknown\] | administrative label or name |  | unread |
+| [[wiki/linear-a/words/T/TU_PA_DI_DA\|TU-PA-DI-DA]] | ṭūb-dida | the best of beer (beer extract), J+L2 | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KA_NA\|KA-NA]] | qānā / qanû | sweet cane or reed(?) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/S/SI_DU\|SI-DU]] |  | personal name(?). Not readable. |  | unread |
-| [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | \[unknown\] | administrative label or name |  | unread |
+| [[wiki/linear-a/words/S/SI_DU\|SI-DU]] |  | broken word, \]SI-DU, A701. Not readable. |  | unread |
+| [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | He of the Spring (personal name), ⅜; rival a product, '(the drink) of the spring' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total, sum | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed, outstanding balance | CONFIRMED | CONFIRMED (lexicon) |
 
@@ -101,10 +101,11 @@ GORILA I, 212–213. The tablet is broken through line 4 after KA-NA, and the mi
 - Corazza et al. 2021, 8–9: fraction values, exclusion of HT123b from the reliable sample
 - Tropper 2012, §§63.113, 63.12: TI-DA-TA comparison
 - ORACC OBMC, YBC 12074 obv. 7: SI-DU personal-name comparison
+- di Mino: TU-PA-DI-DA, DU-MA-I-NA
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/star/star188_star308|\*188-\*308]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/K/KA_NA|KA-NA]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/T/TI_DA_TA|TI-DA-TA]].
+[[wiki/linear-a/words/star/star188|\*188]], [[wiki/linear-a/words/star/star188_star308|\*188-\*308]], [[wiki/linear-a/words/star/star308|\*308]], [[wiki/linear-a/words/D/DU_MA_I_NA|DU-MA-I-NA]], [[wiki/linear-a/words/K/KA_NA|KA-NA]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PI_SA|PI-SA]], [[wiki/linear-a/words/T/TI_DA_TA|TI-DA-TA]], [[wiki/linear-a/words/T/TU_PA_DI_DA|TU-PA-DI-DA]].
 
 ## Edition differences
 

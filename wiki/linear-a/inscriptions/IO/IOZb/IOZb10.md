@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | uprightly (variant of yaššaram, ʾa- for ya-) |  | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/A/A_SA_SA_RA_ME\|A-SA-SA-RA-ME]] | ʾaššaram | in righteousness (variant of yaššaram, ʾa- for ya-) |  | CONFIRMED (lexicon) |
 
 ### Notes
 

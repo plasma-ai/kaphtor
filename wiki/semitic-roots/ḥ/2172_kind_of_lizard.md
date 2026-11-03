@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2172_kind_of_lizard
 title: "*ḥVrdān- ~ *ḥVrḏān-: 'kind of lizard'"
-desc: "Proto-Semitic *ḥVrdān- ~ *ḥVrḏān-, 'kind of lizard': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ḥVrdān- ~ *ḥVrḏān-, 'kind of lizard': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2172"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | arǯūni \[LHar. 31\]. | LHar. 31 | gloss withheld |
 | Syrian Aramaic | ḥardānā 'starred agama (falsely \[called\] crocodile)' \[Brock. 255\], \[PS 1368\]. | Brock. 255; PS 1368 |  |
 | Modern Aramaic | Maʕl. ḥarḏōna 'lizard' (Berg. 40) | Berg. 40 |  |
+| Hebrew | pB. ḥardōn (Ja. 499 apud SED II 141) | Ja. 499; SED II 141 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star306_TU_JA
 title: "*306-TU-JA"
 desc: "ʿAttuya: personal name, hypocoristic of *306-TU in -ya. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "*306-TU-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -33,14 +33,15 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʿAttuya |
 | Meaning | personal name, hypocoristic of \*306-TU in -ya |
-| Root | ʿ-t(-t) |
-| Language layer | NWS |
-| Category | personal_name |
+| Root | ʿ-t-w |
+| Proto-Semitic | \*ʕtw (#4412) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 115b \*306-TU-JA 1, whole and undotted, between KU-RU-MA · I ½ and A-Ị-\[··\] 1̣, on a palimpsest (GORILA I 191); \*306+MI stands on the same face. \*306-TU (HT 9a, 9b, 119, 122a) with hypocoristic -ya, cf. Heb. ʿAttay (1 Chr 2:35). Weak point: -ya is also Hurrian and Akkadian. Rival: a Hurrian name in -ya. One attestation.
+HT 115b \*306-TU-JA 1, whole and undotted, between KU-RU-MA · I ½ and A-Ị-\[··\] 1̣, on a palimpsest (GORILA I 191); \*306+MI stands on the same face. \*306-TU (HT 9a, 9b, 119, 122a) with hypocoristic -ya, cf. Heb. ʿAttay (1 Chr 2:35); the -ya of Amorite ʿAMM-IJA (Gelb 1980, no. 735), as \*306+MI ʿAmmī on the same face. Weak point: -ya is also Hurrian and Akkadian. Rival: a Hurrian name in -ya. One attestation.
 
 ### Cognates
 

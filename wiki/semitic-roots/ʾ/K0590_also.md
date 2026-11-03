@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/K0590_also
 title: "*ʾVp-: 'also'"
-desc: "Proto-Semitic *ʾVp-, 'also': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ʾVp-, 'also': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0590"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | ʾap (T 27) | T 27 |  |
 | Judaic Aramaic | ʾap (T 27) | T 27 |  |
 | Mandaic Aramaic | ʾap (T 27) | T 27 |  |
+| Eblaitic | ʾap: ap (Sanmartín GlOS 1, 36) | Sanmartín GlOS 1, 36 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

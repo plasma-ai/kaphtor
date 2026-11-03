@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/512_split_1_divide_2_break_3
 title: "*pVriḳ-: 'split' 1, 'divide' 2, 'break' 3"
-desc: "Proto-Semitic *pVriḳ-, 'split' 1, 'divide' 2, 'break' 3: reflexes in 16 language(s)."
+desc: "Proto-Semitic *pVriḳ-, 'split' 1, 'divide' 2, 'break' 3: reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "512"
@@ -46,6 +46,8 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic frq (Al-Jallad–Jaworska 70) | Al-Jallad–Jaworska 70 | gloss withheld |
 | East Ethiopic | Sel. firäḳa, Wol. fräḳa (EDG 243 apud SEDonline 1746) | EDG 243; SEDonline 1746 | gloss withheld |
 | Jibbali | efúrḳ (JL 61 apud SEDonline 1746) | JL 61; SEDonline 1746 | gloss withheld |
+| Amorite | /p-r-q/ 2: name pa-ri-qì (Sanmartín GlOS 2, 134) | Sanmartín GlOS 2, 134 | gloss withheld |
+| Biblical Aramaic | prq 3 (HALOT BArm. s.v. פרק) | HALOT BArm. s.v. פרק | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

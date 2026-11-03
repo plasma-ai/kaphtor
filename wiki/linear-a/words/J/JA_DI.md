@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_DI
 title: "JA-DI"
 desc: "Yadi: Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-DI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Hand (personal name); rivals Yadīn 'he judges', Yadiʿ 'he knows' |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PH Wc 39, an MM II roundel from Vano LI, JA-DI on face a, RO rōš on face b, whole and undotted (GORILA II 94). ya-di sign for sign as the Amorite name IA-DI-IM (Gelb 1980, no. 3205), mimation unwritten, \*yad- 'hand'. Rivals: Yadīn 'he judges' (Gelb no. 3206 IA-DI-IN-), Yadiʿ 'he knows', each with a final consonant unwritten. Not JA-DI-KI-TU, which divides JA \| DI-KI-TU. One witness. See I-DA, JE-DI and I-DU-NE-SI.
+PH Wc 39, an MM II roundel from Vano LI, JA-DI on face a, RO rōš on face b, whole and undotted (GORILA II 94). ya-di sign for sign as the Amorite name IA-DI-IM (Gelb 1980, no. 3205), mimation unwritten, \*yad- 'hand'. Rivals: Yadīn 'he judges' (Gelb no. 3206 IA-DI-IN-), Yadiʿ 'he knows', each with a final consonant unwritten. One witness. See I-DA, JE-DI and I-DU-NE-SI.
 
 ### Cognates
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE_KU_RE
 title: "QE-KU-RE"
 desc: "kikkᵊrē: rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "numeral_or_measure"]
 kind: "word"
 form: "QE-KU-RE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | rounds, round cakes of (a commodity); talent; rival the personal name Qaqqaru |
 | Root | k-k-r |
 | Proto-Semitic | \*kakkar-/\*kikkar- (#1097) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, numeral_or_measure |
 | Semantic field | commodity |
 
 ### Note
 
-HT 20 .2–.3 QE-KU-RE · DI ½, whole and undotted, the second entry under PA-RO-SU in a list where every entry takes a fraction (GORILA I 37). kik-kᵊrē, a construct before the commodity sign DI, as Hebrew kikkᵊrê kesep 'talents of silver' (2 Kgs 5:5). QE writes k, its listed alternate; Ugarit writes the word with ka₄, the QA sign (DULAT 430–31). Rival: the name Qaqqaru, spelled QA-QA-RU elsewhere at Haghia Triada. One witness. See QA-KU-RE, KI-KI-RA-JA and KE-KI-RU.
+HT 20 .2–.3 QE-KU-RE · DI ½, whole and undotted, the second entry under PA-RO-SU in a list where every entry takes a fraction (GORILA I 37). kik-kᵊrē, a construct before the commodity sign DI, as Hebrew kikkᵊrê kesep 'talents of silver' (2 Kgs 5:5). QE at its k value; Ugarit writes the word with ka₄, the QA sign (DULAT 430–31). Rival: the name Qaqqaru, spelled QA-QA-RU elsewhere at Haghia Triada. One witness. See QA-KU-RE, KI-KI-RA-JA and KE-KI-RU.
 
 ### Cognates
 

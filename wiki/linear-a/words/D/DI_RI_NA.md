@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DI_RI_NA
 title: "DI-RI-NA"
 desc: "dīr-īna: households, granaries (grain recipient); rivals the Amorite place name Dīr, a personal name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "entity"]
+tags: ["linear-a", "word", "tier-1", "administrative", "noun"]
 kind: "word"
 form: "DI-RI-NA"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | households, granaries (grain recipient); rivals the Amorite place name Dīr, a personal name |
 | Root | d-w-r |
 | Proto-Semitic | \*dār- (#657) |
-| Language layer | NWS candidate |
-| Category | entity |
+| Language layer | Semitic |
+| Tags | administrative, noun |
 | Semantic field | administrative |
 
 ### Note

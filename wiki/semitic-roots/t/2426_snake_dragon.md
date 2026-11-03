@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/2426_snake_dragon
 title: "*taman-: 'snake, dragon'"
-desc: "Proto-Semitic *taman-, 'snake, dragon': reflexes in 3 language(s)."
+desc: "Proto-Semitic *taman-, 'snake, dragon': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2426"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | tämän |  |  |
 | Geez | taman |  |  |
 | Amharic | tämän |  |  |
+| Tigrinya | tämän (LGz. 576) | LGz. 576 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

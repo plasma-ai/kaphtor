@@ -5,7 +5,7 @@ The remote clients fetch one bounded page per call, cache it, and send a project
 
 | Script | Purpose | Source |
 |---|---|---|
-| `ane_keys.py` | Query notation: parses a typed root or form and spells it in each view's stored notation | — |
+| `ane_keys.py` | Query notation: parses a typed root or form and spells it in each view's stored notation; folds Greek forms to the keys of the Pre-Greek lexicon's index, and builds that index | — |
 | `aneq.py` | DuckDB queries over the local corpora: Egyptian documents, the Akkadian glossary and the other views as their data is added; `stats` lists what is present | local |
 | `etymon.py` | A root dossier: the root's reconstruction, Linear A words and names, and its reflexes in each local corpus; `--out DIR` or `--stdout` | local |
 | `name_elements.py` | Splits a name into the elements of a name-element table given with `--table` | local |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3187_thunder
 title: "*raʕd-: 'thunder'"
-desc: "Proto-Semitic *raʕd-, 'thunder': reflexes in 5 language(s)."
+desc: "Proto-Semitic *raʕd-, 'thunder': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3187"
@@ -35,6 +35,7 @@ updated: 2026-10-24T15:25:56Z
 | Arabic | raʿd- (Kogan 2011, 194) | Kogan 2011 194 |  |
 | Harari | raʾdi (Kogan 2011, 194) | Kogan 2011 194 |  |
 | Argobba | raʾad (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
+| Ugaritic | rʕt (DULAT 716) | DULAT 716 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

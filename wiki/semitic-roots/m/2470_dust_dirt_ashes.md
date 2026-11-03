@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2470_dust_dirt_ashes
 title: "*midr- ~ *ramad-: 'dust, dirt, ashes'"
-desc: "Proto-Semitic *midr- ~ *ramad-, 'dust, dirt, ashes': reflexes in 13 language(s)."
+desc: "Proto-Semitic *midr- ~ *ramad-, 'dust, dirt, ashes': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2470"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | mədri (LGz. 330) | LGz. 330 | gloss withheld |
 | Judaic Aramaic | midrā (Kogan 2011, 189) | Kogan 2011 189 | gloss withheld |
 | Argobba | mədər (Leslau 1997:211, AAD 108 apud SEDonline 517) | Leslau 1997:211, AAD 108; SEDonline 517 | gloss withheld |
+| Emar | ma-da-ri /madaru/ (Pentiuc 2001, 117–118) | Pentiuc 2001 117–118 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

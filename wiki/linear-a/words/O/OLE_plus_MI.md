@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/O/OLE_plus_MI
 title: "OLE+MI"
-desc: "mišḥā: oil subtype; perhaps anointing or ceremonial oil. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+desc: "mišḥā: anointing oil (mišḥā). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "ligature", "logogram", "oil", "ritual"]
 kind: "word"
 form: "OLE+MI"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | mišḥā |
-| Meaning | oil subtype; perhaps anointing or ceremonial oil |
+| Meaning | anointing oil (mišḥā) |
 | Root | m-š-ḥ |
 | Proto-Semitic | \*mašḥ- (#2714) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, ligature, logogram, oil, ritual |
 | Semantic field | commodity |
 
 ### Note
 
-OLE ideogram + MI complement (19 att., Haghia Triada + Tylissos). Northwest Semitic √m-š-ḥ 'anoint' is attested in Ugaritic mšḥ (DULAT 582) and Hebrew māšaḥ. Biblical cult inventories repeatedly use שֶׁמֶן הַמִּשְׁחָה šemen ham-mišḥā 'the anointing oil' (Exod 25:6; 29:7; 31:11); Exod 30:25, 31 has שֶׁמֶן מִשְׁחַת קֹדֶשׁ šemen mišḥat qōdeš 'holy anointing oil.' This supplies a precise commodity-plus-MI structural parallel. Akkadian provides only a semantic control—pašāšum 'anoint' with šamnum 'oil' (Huehnergard 1997, §5.5)—not an m-š-ḥ cognate. MI may therefore be a phonetic complement for mišḥ-, but does not prove the reading. OLE+MI co-occurs with OLE+U and OLE+KI on allocation tablets (HT42+59, HT91, TY3a) and appears with PA as PA-OLE+MI (TY3b). Confidence remains CANDIDATE.
+OLE with the complement MI, 19 tokens on 14 documents from Haghia Triada and Tylissos; it stands with OLE+U and OLE+KI on the allocation tablets HT 42+59, HT 91 and TY 3a, and with PA as PA-OLE+MI on TY 3b. MI writes mišḥ-, Northwest Semitic √m-š-ḥ 'to anoint': Ug. mšḥ 'to anoint, oil' (DULAT 582), Heb. māšaḥ. Biblical cult inventories name שֶׁמֶן הַמִּשְׁחָה šemen ham-mišḥā 'the anointing oil' (Exod 25:6; 29:7; 31:11; HALOT 644) and שֶׁמֶן מִשְׁחַת קֹדֶשׁ šemen mišḥat qōdeš 'holy anointing oil' (Exod 30:25, 31), a commodity named by its m-š-ḥ noun, as OLE is by MI. Ebla has the verb, ma-zi-ʔà (ARET 11 160), and Akkadian muššuʔu 'to rub', muššuʔtu 'ointment' (GlOS 2, 55). Weak point: the single sign MI carries the whole reading.
 
 ### Cognates
 
@@ -54,14 +54,14 @@ OLE ideogram + MI complement (19 att., Haghia Triada + Tylissos). Northwest Semi
 
 ### Source
 
-Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; Huehnergard 1997, §5.5; corpus distribution
+Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; GlOS 2; corpus distribution
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT50a\|HT50a]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT58\|HT58]] | Haghia Triada | Tablet | none |
@@ -73,7 +73,7 @@ Hebrew Bible, Exod 25:6; 29:7; 30:25, 31; 31:11; DULAT 582; Huehnergard 1997, §
 | [[wiki/linear-a/inscriptions/HT/HT/HT125a\|HT125a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT137\|HT137]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | none |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
 
 ## In translations
 

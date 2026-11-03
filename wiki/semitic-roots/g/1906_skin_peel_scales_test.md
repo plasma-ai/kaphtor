@@ -30,9 +30,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ǧilf- 'skin of an animal, removed and emptied out' \[BK 1 317\]; ǧulfat- 'piece of skin removed' \[ibid.\] | BK 1 317 |  |
+| Arabic | ǧilf- \[BK 1 317\]; ǧulfat- \[ibid.\]; ǧalafa (LGz. 190) | BK 1 317; LGz. 190 | gloss withheld |
 | Amharic | gäläfät \[K 1903\]; gälläfä \[ibid.\] | K 1903 | gloss withheld |
-| Syrian Aramaic | gǝlāp(ǝ)tā 'crab shell' \[Brock 119\] | Brock 119 |  |
+| Syrian Aramaic | gǝlāp(ǝ)tā \[Brock 119\]; gəlīp̱ā (LGz. 190) | Brock 119; LGz. 190 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

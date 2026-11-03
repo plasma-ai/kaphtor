@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | raḥaḍa 'to wash' (BK 1, 836) | BK 1, 836 |  |
 | Akkadian | raḫāṣu (CAD R 74) | CAD R 74 | gloss withheld |
 | Ugaritic | rḥṣ (DULAT 726) | DULAT 726 | gloss withheld |
-| Hebrew | rāḥaṣ (HALOT 1220) | HALOT 1220 | gloss withheld |
+| Hebrew | rāḥaṣ (HALOT 1220); rḥṣ (DNWSI 1072) | HALOT 1220; DNWSI 1072 | gloss withheld |
 | Egyptian | rḥt, rḥty (OLA80 §29.41) | OLA80 §29.41 | gloss withheld |
 | Epigraphic South Arabian | Sab rḥḍ (SD 116; Biella 486; Sabaweb lemma 4900) | SD 116; Biella 486; Sabaweb lemma 4900 | gloss withheld |
 | Aramaic | rḥṣ (HALOT 1220); rḥʿ (CAL s.v. rḥʿ) | HALOT 1220; CAL s.v. rḥʿ | gloss withheld |

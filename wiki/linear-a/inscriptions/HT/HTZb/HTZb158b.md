@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Clay vessel"
 period: "LMIB"
 translation: "complete"
-words: ["SU-KI-RI-TA", "SU-KI-RI-TE-I-JA"]
+words: ["SU-KI-RI-TE-I-JA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,6 +68,6 @@ Context: HT Zb series vessel label.  Appellation-of-origin label on a transport 
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/S/SU_KI_RI_TA|SU-KI-RI-TA]], [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA|SU-KI-RI-TE-I-JA]].
+[[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA|SU-KI-RI-TE-I-JA]].
 
 <!-- END kaphtor:record -->

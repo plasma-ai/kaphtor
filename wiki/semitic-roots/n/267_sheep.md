@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/267_sheep
 title: "*naʕg-: 'sheep'"
-desc: "Proto-Semitic *naʕg-, 'sheep': reflexes in 1 language(s)."
+desc: "Proto-Semitic *naʕg-, 'sheep': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "267"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic nʿg (Al-Jallad 2026, 98) | Al-Jallad 2026 98 | gloss withheld |
 | Arabic | naʕǯ-at- (Lane 2815) | Lane 2815 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

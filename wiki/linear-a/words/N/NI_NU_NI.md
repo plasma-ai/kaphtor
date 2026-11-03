@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/N/NI_NU_NI
 title: "NI-NU-NI"
 desc: "nīnūn: offspring, descendants, posterity. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "kinship"]
+tags: ["linear-a", "word", "tier-1", "hapax", "kinship", "noun"]
 kind: "word"
 form: "NI-NU-NI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | offspring, descendants, posterity |
 | Root | n-y-n + plural/collective -ūn or case -un |
 | Proto-Semitic | \*nīn- (#3847) |
-| Language layer | NWS candidate |
-| Category | kinship |
+| Language layer | Semitic |
+| Tags | hapax, kinship, noun |
 | Semantic field | kinship |
 
 ### Note
 
-PL Zf 1 hapax. Its position after the proposed imperative-object phrase /tannî qînâ/ favors a noun or noun phrase—contextually a vocative ‘offspring/descendants’—over a second finite verb. Hebrew nîn securely means ‘offspring, descendants.’ The three N-series signs can be accounted for exactly as /nīn-ūn/: NI /nī/, NU /nū/, and final NI /n/ with a dead vowel; alternatively /nīn-un/ would contain Arabic-type nominative nunation. Both are grammatically regular Semitic analyses: -ūn may represent plural or collective morphology (compare masculine nominative plural \*-ūna with loss of the final vowel, and the Hebrew -ūn formation Yəšūrūn), while -un is a regular indefinite nominative ending in Arabic. The uncertainty concerns which ending NI-NU-NI encodes and whether the noun functions as a vocative here, not the grammatical validity of the formation. Because this exact inflected form is unattested for nîn and NI-NU-NI is a hapax, the identification remains speculative. The rare Hebrew verb n-w-n (Ps 72:17) supplies a semantic association with descent but no matching finite paradigm.
+PL Zf 1, a silver pin: … TA-NU-NI-KI-NA · NI-NU-NI · \[?\]-I-\[?\]. NI-NU-NI follows TA-NU-NI-KI-NA tannî qînâ, the imperative and its object, as a vocative noun: nīnūn 'offspring, descendants', Heb. nîn 'descendants', with the verb nyn 'to get descendants' (Ps 72:17; HALOT 696). NI writes nī, NU nū, and the final NI the n with a dead vowel; -ūn is the plural or collective ending, as in Yəšūrūn. Rival: nīn-un, with the Arabic nominative nunation. Weak point: Hebrew has nîn only in the singular, beside neked (HALOT 696). One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ PL Zf 1 hapax. Its position after the proposed imperative-object phrase /tannî 
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 

@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/Q/QA_NU_MA
 title: "QA-NU-MA"
-desc: "qanūma: unresolved entity or commodity category; comparative /qanūma/ 'reeds'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+desc: "qanūma: reeds (qanūma); heading on KH 88, grain entry on HT 116a. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "administrative", "noun"]
 kind: "word"
 form: "QA-NU-MA"
 datasets: ["lexicon"]
@@ -32,15 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | qanūma |
-| Meaning | unresolved entity or commodity category; comparative /qanūma/ 'reeds' |
-| Root | q-n-w / possible q-n-y |
+| Meaning | reeds (qanūma); heading on KH 88, grain entry on HT 116a |
+| Root | q-n-w |
 | Proto-Semitic | \*ḳanaw/y- (#3035) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | administrative, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Two administrative attestations, HT116a and KH88. Ugaritic alphabetic qnm is explicitly reconstructed as /qanūma/ &lt; \*qanawūma 'reeds' (Huehnergard 2008, p. 291), with Eblaite qā-nu-wu / qā-nu-um comparisons; this is the closest exact vocalic parallel. 'Reeds' does not fit the HT116a allocation-heading slot transparently. A separate comparison with √q-n-y 'acquire, possess' could yield an acquisition category, but the proposed nominal formation and mimation are not independently attested. Preserve both comparisons and leave the contextual meaning unresolved. See QA-NE and KA-NA.
+KH 88 heads its list with QA-NU-MA; on HT 116a QA-NU-MA GRA 20 is the last of six grain recipients under U-TA-RO · TE, with KU-PA-JA Kubbaya and SI-KI-NE Sikinet. qanūma 'reeds' &lt; \*qanawūma, as Huehnergard reconstructs Ugaritic qnm, with Eblaite qā-nu-wu, qā-nu-um (Huehnergard 2008, 291), the closest vocalic parallel. Weak point: on HT 116a reeds stand in a recipient's slot. Rival: √q-n-y 'acquire, possess', a heading for acquisitions. See QA-NE and KA-NA.
 
 ### Cognates
 
@@ -54,7 +55,7 @@ Two administrative attestations, HT116a and KH88. Ugaritic alphabetic qnm is exp
 
 ### Source
 
-Huehnergard 2008, p. 291; corpus comparison
+di Mino; Huehnergard 2008
 
 ## Attestations
 
@@ -67,6 +68,6 @@ Huehnergard 2008, p. 291; corpus comparison
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH88\|KH88]] | qanūma | acquisitions, purchased goods (header with mimation) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH88\|KH88]] | qanūma | reeds (heading) | CANDIDATE |
 
 <!-- END kaphtor:record -->

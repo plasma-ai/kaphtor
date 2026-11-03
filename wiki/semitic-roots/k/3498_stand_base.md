@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3498_stand_base
 title: "*knn: 'stand, base'"
-desc: "Proto-Semitic *knn, 'stand, base': reflexes in 5 language(s)."
+desc: "Proto-Semitic *knn, 'stand, base': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3498"
@@ -34,6 +34,7 @@ updated: 2026-10-25T06:28:07Z
 | Syrian Aramaic | kanā 'base, support; stem, root' (Payne Smith 217) | Payne Smith 217 |  |
 | Judaic Aramaic | kennāʾ (T 145) | T 145 | gloss withheld |
 | Punic | N.Pu. ʾkhnym (T 145) | T 145 | gloss withheld |
+| Ugaritic | kt (DULAT 463) | DULAT 463 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

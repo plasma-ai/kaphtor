@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | tmk (HALOT 1751) | HALOT 1751 | gloss withheld |
 | Judaic Aramaic | tmk (HALOT 1751) | HALOT 1751 |  |
 | Phoenician | tmk (HALOT 1751) | HALOT 1751 |  |
-| Akkadian | tamāḫu(m), tamāku (HALOT 1751) | HALOT 1751 |  |
+| Akkadian | tamāḫu(m), tamāku (HALOT 1751; AHw 1312) | HALOT 1751; AHw 1312 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

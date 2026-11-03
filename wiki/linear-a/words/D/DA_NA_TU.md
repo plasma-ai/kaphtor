@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_NA_TU
 title: "DA-NA-TU"
 desc: "dānatu: personal name (f.), 'she who judges'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DA-NA-TU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name (f.), 'she who judges' |
 | Root | d-y-n |
 | Proto-Semitic | \*dyn- (#S36) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine participle dānat- + -u, √d-y-n 'to judge'; cf. Ug. dnty, Danel's wife (KTU 1.17 V 16), Heb. Dînāh, and DI-NA-U. Da-na-tum is an early Old Babylonian personal name (ORACC epsd2, P448453, P454854). Weak point: -t may make an abstract 'judgment' as well as a feminine. Rival: dannatu 'hardship; fortress' (CAD D 87), a heading. One attestation. See DI-NA-RO.
+ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine participle dānat- + -u, √d-y-n 'to judge'; cf. Ug. dnty, Danel's wife (KTU 1.17 V 16), Heb. Dînāh, and DI-NA-U. Da-na-tum is a man's seal name, son of Sîn-taʾar, servant of Rīm-Sîn (RIME 4.02.14.2009). Weak point: -t may make an abstract 'judgment' as well as a feminine; the Babylonian Da-na-tum is a man. Rival: dannatu 'hardship; fortress' (CAD D 87), a heading. One attestation. See DI-NA-RO.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ ARKH 6: DA-NA-TU · KU heads the tablet, TE-RI on the next line. Feminine partic
 
 ### Source
 
-di Mino; ORACC epsd2
+di Mino; RIME 4
 
 ## Attestations
 

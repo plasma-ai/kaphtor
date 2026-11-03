@@ -44,7 +44,7 @@ Transliteration, line by line:
 Unicode (Linear A block):
 
 ```text
-𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁
+𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐘘𐘴𐄁
 ```
 
 ## Translation

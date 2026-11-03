@@ -8,7 +8,7 @@ created: 2026-10-24T15:00:00Z
 updated: 2026-10-24T15:09:40Z
 ---
 
-Two sign lists. `tools/linear_a/aegean_unicode_lookup.py` reads both; `analysis/sign_analysis.py` reads the SigLA list.
+Two sign lists. `tools/linear_a/aegean_unicode_lookup.py` reads both; `tools/linear_a/analysis/sign_analysis.py` reads the SigLA list.
 
 `sigla-sign-map.json` holds `signs`, `total` and `source` (the SigLA sign list, sigla.phis.me/sign-list.html). Each
 of the 362 signs gives its `ab_number` and `name`, the SigLA image of one attestation (`tablet`, `image_file`,

@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Off. ʔyl \[HJ 45\], ʔylth \[ibid.\] | HJ 45 | gloss withheld |
 | Modern Aramaic | NSyr. élâ, NAssyr. ēla, Tur. ʔaylo (SED II 39) | SED II 39 |  |
 | Amorite | ʾajjalum, ʾajjalatum, ʾajjala (Gelb AS 21, 13); ʾayyalu (Buck 2019, 324) | Gelb AS 21 13; Buck 2019, 324 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾyl (Al-Jallad–Jaworska 50) | Al-Jallad–Jaworska 50 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾyl (Al-Jallad–Jaworska 50); Hismaic ʾyl (Al-Jallad 2026, 10) | Al-Jallad–Jaworska 50; Al-Jallad 2026 10 | gloss withheld |
 | Emar | i-la-nu /ʾīlānu/ (Pentiuc 2001, 83) | Pentiuc 2001 83 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

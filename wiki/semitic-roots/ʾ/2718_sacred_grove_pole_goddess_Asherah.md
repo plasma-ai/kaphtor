@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2718_sacred_grove_pole_goddess_Asherah
 title: "*ʾaṯir-at-: 'sacred grove/pole; goddess (Asherah)'"
-desc: "Proto-Semitic *ʾaṯir-at-, 'sacred grove/pole; goddess (Asherah)': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʾaṯir-at-, 'sacred grove/pole; goddess (Asherah)': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2718"
@@ -29,9 +29,10 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ašratu (CAD A/2 454) | CAD A/2 454 | gloss withheld |
+| Akkadian | Ašratu (HALOT 99) | HALOT 99 | gloss withheld |
 | Ugaritic | aṯrt (DULAT 125) | DULAT 125 | gloss withheld |
 | Phoenician | ʔšrt (T 36) | T 36 | gloss withheld |
+| Punic | ʾšr qdš (Krahmalkov 85–86) | Krahmalkov 85–86 | gloss withheld |
 | Hebrew | ʔăšērā (HALOT 99) | HALOT 99 | gloss withheld |
 | Epigraphic South Arabian | ʾṯrt (HALOT 99) | HALOT 99 |  |
 | Judaic Aramaic | ʾăšērtā (HALOT 99) | HALOT 99 |  |

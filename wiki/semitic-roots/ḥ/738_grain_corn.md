@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/738_grain_corn
 title: "*ḥab(b)-: 'grain, corn'"
-desc: "Proto-Semitic *ḥab(b)-, 'grain, corn': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḥab(b)-, 'grain, corn': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "738"
@@ -31,6 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥabb- (Lane 496) | Lane 496 |  |
+| Epigraphic South Arabian | ḥbb (LGz. 236) | LGz. 236 | gloss withheld |
+| Geez | ḥənbāb (LGz. 236) | LGz. 236 | gloss withheld |
+| Tigre | ḥəbb-ät (LGz. 236) | LGz. 236 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

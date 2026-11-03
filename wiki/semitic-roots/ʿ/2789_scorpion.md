@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | aqrabu (CAD A/2 207) | CAD A/2 207 | gloss withheld |
 | Ugaritic | ʕqrb \[Tropper UG 284\] | Tropper UG 284 | gloss withheld |
 | Hebrew | ʕaqrāb (HALOT 875) | HALOT 875 | gloss withheld |
-| Aramaic | ʕqrb (DNWSI 883 apud SEDonline 505) | DNWSI 883; SEDonline 505 | gloss withheld |
+| Aramaic | ʕqrb (DNWSI 883) | DNWSI 883 | gloss withheld |
 | Tigre | ʿarqab (OLA80 §27.13) | OLA80 §27.13 | gloss withheld |
 | Geez | ʿaqrab (LGz. 68) | LGz. 68 | gloss withheld |
 | Judaic Aramaic | ʕaḳrabbā \[Ja. 1109, Sok. B 878\]; ʕḳrb \[DJPA 417a apud CAL\] | Ja. 1109, Sok. B 878; DJPA 417a; CAL |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2393_elephant
 title: "*ḥarmaḏ/z- (?): 'elephant'"
-desc: "Proto-Semitic *ḥarmaḏ/z- (?), 'elephant': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḥarmaḏ/z- (?), 'elephant': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2393"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Geez | ḥarmaz |  |  |
+| Tigre | ḥarmaz (LGz. 243) | LGz. 243 | gloss withheld |
+| Tigrinya | ḥarmaz (LGz. 243) | LGz. 243 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

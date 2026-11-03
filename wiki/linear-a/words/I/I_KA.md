@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_KA
 title: "I-KA"
 desc: "ʾikkār: farmer, plowman (recipient). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+tags: ["linear-a", "word", "tier-1", "agriculture", "noun", "occupation", "personnel"]
 kind: "word"
 form: "I-KA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | farmer, plowman (recipient) |
 | Root | ʾ-k-r |
 | Proto-Semitic | \*ʾkr 1, \*ʾa/ikkār- 2 (#1810) |
-| Language layer | Akkadian administrative contact |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | agriculture, noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine; HT 102 I-KA 5 (KA dotted) in a personnel total (KU-RO 1060). Akk. ikkaru 'farmer', Heb. ʾikkār, Syr. ʾakkārā; geminate and final r unwritten. Rival: the personal name Ikkaru (ORACC QPN). See I-KI-RA and A-KI-RO.
+HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine; HT 102 I-KA 5 (KA dotted) in a grain ledger, KU-RO 1060 after SA-RA₂ GRA 976. ʾikkār 'farmer': Akk. ikkaru 'plowman, farmer' (CAD I/J 49), Heb. ʾikkār, a loan from it (HALOT 47), Syr. ʾakkārā; the geminate and final r unwritten. Rival: the personal name Ikkaru (ORACC QPN). Two attestations. See I-KI-RA and A-KI-RO.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 91 opens with I-KA over grain and small rations of oil, olives, figs and wine
 
 ### Source
 
-di Mino
+di Mino; CAD I/J; HALOT
 
 ## Attestations
 
@@ -74,7 +74,7 @@ di Mino
 | Field | Value |
 |---|---|
 | Type | title (SPECULATIVE) |
-| Affiliation | akkadian_contact (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |
@@ -83,7 +83,7 @@ di Mino
 
 ### Note
 
-Short, foll numeral/ideogram.
+HT 91, heading grain and small rations of oil, olives, figs and wine, and HT 102 I-KA 5 in a grain ledger: ʾikkār 'farmer', Akkadian ikkaru 'plowman, farmer' (CAD I/J 49), Hebrew ʾikkār. Rival: the personal name Ikkaru (ORACC QPN). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

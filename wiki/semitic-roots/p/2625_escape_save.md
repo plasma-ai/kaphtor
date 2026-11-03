@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/2625_escape_save
 title: "*plṭ: 'escape, save'"
-desc: "Proto-Semitic *plṭ, 'escape, save': reflexes in 8 language(s)."
+desc: "Proto-Semitic *plṭ, 'escape, save': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2625"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | plṭ (B 390) | B 390 | gloss withheld |
 | Ugaritic | plṭ (Fronzaroli 1965b: 250 apud SEDonline 1593); /pullaṭu/ (UVST 168) | Fronzaroli 1965b: 250; SEDonline 1593; UVST 168 | gloss withheld |
 | Amorite | p-l-ṭ: ia-ab-lu-te₉-el, a-ḫi-la-ap-la-aṭ (Sanmartín GlOS 2, 130) | Sanmartín GlOS 2, 130 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾflt; fltn (Al-Jallad 2026, 45); flṭ; flṭ (D) (Al-Jallad 2026, 46) | Al-Jallad 2026 45; Al-Jallad 2026 46 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

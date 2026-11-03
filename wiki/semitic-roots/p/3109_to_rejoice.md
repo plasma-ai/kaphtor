@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3109_to_rejoice
 title: "*pŝḥ: 'to rejoice'"
-desc: "Proto-Semitic *pŝḥ, 'to rejoice': reflexes in 3 language(s)."
+desc: "Proto-Semitic *pŝḥ, 'to rejoice': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3109"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Sab h-fs₂ḥ (SD 46 apud SEDonline 1951) | SD 46; SEDonline 1951 | gloss withheld |
 | Geez | tafaŝŝəḥa (CDG 168 apud SEDonline 1951) | CDG 168; SEDonline 1951 | gloss withheld |
 | Tigrinya | täfäŝŝəḥe (TED 2676 apud SEDonline 1951) | TED 2676; SEDonline 1951 | gloss withheld |
+| Tigre | fəsəsəḥ bela (LGz. 168) | LGz. 168 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

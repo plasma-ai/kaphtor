@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT26b .2 \]-RO-NI 3, broken before with the word running into the break (GORILA I 47). GORILA's note gives two possible forms for the lost sign before RO. RO-NI is the end of a longer word. Not readable.
+HT26b .2 \]-RO-NI 3, broken before (GORILA I 47). GORILA's note allows \]TE- or \]PA-RO-NI; the facsimile draws the two-bar PA, and SigLA reads PA-RO-NI. RO-NI is the end of a longer word. Not readable.
 
 <!-- END kaphtor:record -->

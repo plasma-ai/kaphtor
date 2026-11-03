@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/595_call_1_be_called_2
 title: "*duʕ-: 'call' 1, 'be called' 2"
-desc: "Proto-Semitic *duʕ-, 'call' 1, 'be called' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *duʕ-, 'call' 1, 'be called' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "595"
@@ -32,6 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | dʕw \[-u-\] 1 |  |  |
 | Tigre | dʕy 2 |  |  |
+| Pre-Islamic North Arabian | Safaitic dʿy 1; Hismaic dʿ 1 (Al-Jallad 2026, 33) | Al-Jallad 2026 33 | gloss withheld |
+| Hebrew | דעה 1 (HALOT 228) | HALOT 228 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

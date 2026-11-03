@@ -1,0 +1,4632 @@
+{
+ "schema_version": 1,
+ "description": "Short English glosses from Wiktionary (CC BY-SA 4.0) for the Pre-Greek lexicon's words that Wiktionary lists in its Pre-Greek substrate categories, keyed by the lexicon's id.",
+ "license": "CC BY-SA 4.0",
+ "work": "Wiktionary",
+ "glosses": {
+  "pg:αβραμισ": {
+   "gloss": "a kind of mullet salted in Egypt",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγαθισ": {
+   "gloss": "ball of thread, clew",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγγοσ": {
+   "gloss": "vessel (to hold liquids)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγλισ": {
+   "gloss": "clove of garlic",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγνοσ": {
+   "gloss": "chaste tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγνυσ": {
+   "gloss": "loom weight",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγρειφνα": {
+   "gloss": "harrow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγυια": {
+   "gloss": "street",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγχιλωψ": {
+   "gloss": "a swelling which obstructs the lachrymal duct",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αγχουσα": {
+   "gloss": "alkanet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αδικη": {
+   "gloss": "nettle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αηδων": {
+   "gloss": "nightingale",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αθηνη": {
+   "gloss": "Athena",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αθηρ": {
+   "gloss": "awn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αθραγενη": {
+   "gloss": "traveller's joy, smokewood",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αιγειροσ": {
+   "gloss": "black poplar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αιγιθοσ": {
+   "gloss": "common linnet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αιγυπιοσ": {
+   "gloss": "vulture",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αιθουσα": {
+   "gloss": "portico, veranda",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αικλον": {
+   "gloss": "evening meal at Sparta",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αιπυσ": {
+   "gloss": "steep",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αισακοσ": {
+   "gloss": "A branch of myrtle or laurel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αισαλων": {
+   "gloss": "kind of hawk mentioned by Aristotle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αισυλοσ": {
+   "gloss": "unseemly, evil, impious",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακαινα": {
+   "gloss": "spike, prick, goad",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακακαλισ": {
+   "gloss": "ashwagandha",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακαληφη": {
+   "gloss": "stinging nettle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακανθα": {
+   "gloss": "thorny plant",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακαρι": {
+   "gloss": "mite",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακαστοσ": {
+   "gloss": "Montpellier maple",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακολοσ": {
+   "gloss": "morsel, bit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακονιτον": {
+   "gloss": "leopard's bane",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακορνα": {
+   "gloss": "soldier thistle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακραιφνησ": {
+   "gloss": "unmixed, pure, sheer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακρισ": {
+   "gloss": "grasshopper, locust, cricket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακτη": {
+   "gloss": "headland, cape, promontory",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ακυλοσ": {
+   "gloss": "acorn of holm oak",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αλαρα": {
+   "gloss": "hazelnuts, the fruits of the hazel tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αλιβασ": {
+   "gloss": "corpse, dead body",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αλισγεω": {
+   "gloss": "to pollute, defile",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αλκυων": {
+   "gloss": "kingfisher",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αλλαβησ": {
+   "gloss": "A kind of fish that lives in the Nile",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αλοξ": {
+   "gloss": "furrow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αλσοσ": {
+   "gloss": "grove (especially a sacred one)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμακρωτισ": {
+   "gloss": "wild leek",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαλθεια": {
+   "gloss": "Amalthea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαλλα": {
+   "gloss": "sheaf, bundle of ears of corn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαλοσ": {
+   "gloss": "soft, tender, weak",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαμαξυσ": {
+   "gloss": "vine trained on two poles",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαξα": {
+   "gloss": "wagon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαρακον": {
+   "gloss": "marjoram",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαρυσσω": {
+   "gloss": "to sparkle, twinkle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμαυροσ": {
+   "gloss": "barely seen, dim, faint, shadowy",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμιλλα": {
+   "gloss": "competition, contest, trial",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμοργισ": {
+   "gloss": "stalks of mallow, used like hemp or flax",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμπελοσ": {
+   "gloss": "vine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμπυξ": {
+   "gloss": "woman's diadem",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμυγδαλη": {
+   "gloss": "almond",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμυσσω": {
+   "gloss": "to scratch, tear, lacerate",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμυσχροσ": {
+   "gloss": "undefiled, immaculate, pure",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αμφιασ": {
+   "gloss": "name of a bad Sicilian wine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αναγυροσ": {
+   "gloss": "bean trefoil",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αναξ": {
+   "gloss": "lord",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αναυροσ": {
+   "gloss": "mountain torrent",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ανδραχνη": {
+   "gloss": "common purslane",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ανηθον": {
+   "gloss": "dill",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ανθρηδων": {
+   "gloss": "hornet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ανθρηνη": {
+   "gloss": "hornet, wasp",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ανθρυσκον": {
+   "gloss": "chervil",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ανθρωποσ": {
+   "gloss": "human being",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αννησον": {
+   "gloss": "anise",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αντικρυ": {
+   "gloss": "face to face, over against",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αντρον": {
+   "gloss": "cave",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:απαρινη": {
+   "gloss": "cleavers",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:απατη": {
+   "gloss": "deceit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:απολλων": {
+   "gloss": "Apollo",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αποφωλιοσ": {
+   "gloss": "empty, vain, idle, worthless",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αραβοσ": {
+   "gloss": "gnashing or chattering of teeth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αραζω": {
+   "gloss": "to snarl, growl",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρακισ": {
+   "gloss": "bowl, pan",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρακοσ": {
+   "gloss": "ground pea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρβηλοσ": {
+   "gloss": "semicircular knife used by cobblers",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρβυλη": {
+   "gloss": "kind of tough shoe or half-boot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αργελλα": {
+   "gloss": "vapour bath, steam bath",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αργιλλοσ": {
+   "gloss": "white clay",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρδω": {
+   "gloss": "to water, irrigate",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρκευθοσ": {
+   "gloss": "juniper",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρκηλοσ": {
+   "gloss": "young panther or a species of panther",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρκυσ": {
+   "gloss": "net",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρπιξ": {
+   "gloss": "a kind of thornbush, thistle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρπισ": {
+   "gloss": "half-boot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρπυια": {
+   "gloss": "a harpy",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρτεμισ": {
+   "gloss": "Artemis, one of the Greek goddesses",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αρυσοσ": {
+   "gloss": "wicker basket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασαμινθοσ": {
+   "gloss": "bathtub",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασαρον": {
+   "gloss": "hazelwort",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασβολοσ": {
+   "gloss": "soot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασιλλα": {
+   "gloss": "yoke for carrying baskets or pails",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκαλαβοσ": {
+   "gloss": "spotted lizard, gecko",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκαλαφοσ": {
+   "gloss": "kind of owl",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκαληρον": {
+   "gloss": "fruit shell of the artichoke",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκαλωπασ": {
+   "gloss": "woodcock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκαντησ": {
+   "gloss": "pallet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκαρισ": {
+   "gloss": "worm in the intestines",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκαροσ": {
+   "gloss": "kind of castanet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκερα": {
+   "gloss": "winter shoe with fur lining",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκληπιοσ": {
+   "gloss": "Asclepius",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκοσ": {
+   "gloss": "skin, hide made into a bag",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασκυρον": {
+   "gloss": "St. John's wort",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασπαλαθοσ": {
+   "gloss": "name of several types of thornbush",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αστακοσ": {
+   "gloss": "spiny lobster",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασταφισ": {
+   "gloss": "raisins",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασταχυσ": {
+   "gloss": "ear of corn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αστραβη": {
+   "gloss": "comfortable saddle for an ass or a mule",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αστραγαλοσ": {
+   "gloss": "one of the vertebrae, especially of the neck",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασυφηλοσ": {
+   "gloss": "headstrong or perhaps foolish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασφαλτοσ": {
+   "gloss": "asphalt, bitumen",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ασφαραγοσ": {
+   "gloss": "throat, gullet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αταλοσ": {
+   "gloss": "tender, delicate",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ατλασ": {
+   "gloss": "Atlas",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ατμην": {
+   "gloss": "servant, slave",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ατρακτοσ": {
+   "gloss": "spindle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ατραφαξυσ": {
+   "gloss": "orach",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ατταγασ": {
+   "gloss": "black francolin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ατταραγοσ": {
+   "gloss": "crumb, morsel of bread",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αττελαβοσ": {
+   "gloss": "locust",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αττικοσ": {
+   "gloss": "Attic",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αυχην": {
+   "gloss": "neck",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αφαυροσ": {
+   "gloss": "weak, feeble, powerless",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αφθα": {
+   "gloss": "aphtha, mouth ulcer, thrush",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αφια": {
+   "gloss": "lesser celandine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αφλαστον": {
+   "gloss": "curved poop of a ship, with its ornaments",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αφνω": {
+   "gloss": "unawares, of a sudden",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αφρισσα": {
+   "gloss": "dragonwort",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αχνη": {
+   "gloss": "anything that comes off the surface",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αχωρ": {
+   "gloss": "scurf",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:αψινθιον": {
+   "gloss": "wormwood",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαιβυξ": {
+   "gloss": "pelican",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαιτη": {
+   "gloss": "coat of skins worn by shepherds or peasants",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βακηλοσ": {
+   "gloss": "gallus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαλαγροσ": {
+   "gloss": "sort of freshwater fish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαλανειον": {
+   "gloss": "bath, an area or room where bathing takes place",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαλαυστιον": {
+   "gloss": "flower of the wild pomegranate",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαλβισ": {
+   "gloss": "rope drawn across",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαλλαντιον": {
+   "gloss": "kind of bag",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαλλωτη": {
+   "gloss": "black horehound",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαναυσοσ": {
+   "gloss": "artisanal, handmade, handcrafted",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαρακοσ": {
+   "gloss": "kind of freshwater fish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βασιλευσ": {
+   "gloss": "chief, master, patron",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βασκασ": {
+   "gloss": "kind of duck",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βασυνιασ": {
+   "gloss": "kind of cake made with flour and honey",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαταλοσ": {
+   "gloss": "anus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βατισ": {
+   "gloss": "kind of flatfish, perhaps the skate or ray",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βατραχοσ": {
+   "gloss": "frog small, hopping amphibian",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαυκοσ": {
+   "gloss": "affected, prudish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βαυνοσ": {
+   "gloss": "furnace, forge",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βδαλλω": {
+   "gloss": "to milk to extract milk from cows",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βδελυροσ": {
+   "gloss": "disgusting, loathsome, repulsive, repugnant",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βεβροσ": {
+   "gloss": "stupid, idiotic, moronic",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βελεκκοσ": {
+   "gloss": "kind of pulse",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βηξ": {
+   "gloss": "cough",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βηρηξ": {
+   "gloss": "kind of loaf or cake made of barley",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βησσα": {
+   "gloss": "wooded combe, glen, dale, vale",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βιλλοσ": {
+   "gloss": "pudendum virile the genitals of a man",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βλαβη": {
+   "gloss": "hurt, harm, damage, mischief",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βλαισοσ": {
+   "gloss": "splay-footed, having abnormally flat feet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βλαυτη": {
+   "gloss": "kind of sandal or elegant slipper",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βλεννα": {
+   "gloss": "mucus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βλεπω": {
+   "gloss": "to look",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βληχνον": {
+   "gloss": "male fern, aspidium, any fern of the species",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βληχων": {
+   "gloss": "pennyroyal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βλωθροσ": {
+   "gloss": "high, tall, elongated",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βοθροσ": {
+   "gloss": "hole, trench or pit dug in the ground",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βολβιτον": {
+   "gloss": "cowpie",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βολινθοσ": {
+   "gloss": "European bison",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βομβοσ": {
+   "gloss": "any deep, hollow sound, humming, buzzing, booming, rumbling",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βοστρυχοσ": {
+   "gloss": "curl, lock of hair",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βοτρυσ": {
+   "gloss": "a bunch of grapes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βουνοσ": {
+   "gloss": "a hill",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βουττισ": {
+   "gloss": "cask, barrel, a round vessel shaped having flat ends",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βραγχοσ": {
+   "gloss": "hoarseness or sore throat causing it",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βριμη": {
+   "gloss": "strength, might, power",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βρογχοσ": {
+   "gloss": "trachea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βρομοσ": {
+   "gloss": "oat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βρουκοσ": {
+   "gloss": "locust, or its wingless nymph",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βροχθοσ": {
+   "gloss": "throat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βροχοσ": {
+   "gloss": "noose, slip knot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βρυκοσ": {
+   "gloss": "herald",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βυβλοσ": {
+   "gloss": "papyrus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βυθοσ": {
+   "gloss": "depth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:βυρσα": {
+   "gloss": "leather the skin strip off",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γαγγαμον": {
+   "gloss": "small round net, especially for catching oysters",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γαγγλιον": {
+   "gloss": "encysted tumour on a tendon or aponeurosis",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γαγγραινα": {
+   "gloss": "gangrene",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γαδοσ": {
+   "gloss": "cod",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γαια": {
+   "gloss": "land, country",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γαληψοσ": {
+   "gloss": "Galepsus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γαμψοσ": {
+   "gloss": "curved, crooked",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γεισον": {
+   "gloss": "projecting part of the roof, cornice",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γελγισ": {
+   "gloss": "head of garlic",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γεφυρα": {
+   "gloss": "beam",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γη": {
+   "gloss": "earth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γηθυον": {
+   "gloss": "a kind of onion",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γιγαρτον": {
+   "gloss": "grapestone, seed of the grape",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γιγγισ": {
+   "gloss": "kind of turnip",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γιγγλυμοσ": {
+   "gloss": "hinge, joint, pivot, gudgeon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γιννοσ": {
+   "gloss": "offspring of a mare by a mule",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γλανοσ": {
+   "gloss": "hyena",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γλαυκοσ": {
+   "gloss": "gleaming, bright",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γληνη": {
+   "gloss": "eyeball",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γλουτοσ": {
+   "gloss": "rump, buttock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γναμπτω": {
+   "gloss": "to bend",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γνοτερα": {
+   "gloss": "black horehound",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γνυθοσ": {
+   "gloss": "pit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γοργυρα": {
+   "gloss": "underground sewer or drain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γουνοσ": {
+   "gloss": "fruitful land",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γριποσ": {
+   "gloss": "creel, trap for fish, fishing basket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γρυμεα": {
+   "gloss": "bag or chest for old clothes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γρυψ": {
+   "gloss": "griffin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γυργαθοσ": {
+   "gloss": "wicker basket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γυψ": {
+   "gloss": "vulture",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:γυψοσ": {
+   "gloss": "chalk",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δαιδαλλω": {
+   "gloss": "to work cunningly, embellish, adorn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δακτυλοσ": {
+   "gloss": "finger",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δαμαρ": {
+   "gloss": "wife",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δαπτω": {
+   "gloss": "to eat, devour, as wild beasts",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δαρπη": {
+   "gloss": "A basket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δαφνη": {
+   "gloss": "sweet bay",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δειπνον": {
+   "gloss": "meal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δεπασ": {
+   "gloss": "beaker, goblet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δεφω": {
+   "gloss": "to soften, knead with the hands",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δηλεομαι": {
+   "gloss": "to hurt, damage, spoil, waste",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:διθυραμβοσ": {
+   "gloss": "dithyramb, a hymn in honor of Dionysus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δικειν": {
+   "gloss": "to throw, cast",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δικελλα": {
+   "gloss": "two-pronged fork, hoe",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δικταμνον": {
+   "gloss": "dittany",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δικτυον": {
+   "gloss": "fishing net",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δινη": {
+   "gloss": "whirlpool, eddy",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:διρκαια": {
+   "gloss": "black swallow-wort",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δισκοσ": {
+   "gloss": "quoit, disc, discus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:διφθερα": {
+   "gloss": "prepared hide, piece of leather",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:διψα": {
+   "gloss": "thirst",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δνοφοσ": {
+   "gloss": "darkness",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δοθιην": {
+   "gloss": "small abscess",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δοιδυξ": {
+   "gloss": "pestle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δολοσ": {
+   "gloss": "trick, deceit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δοναξ": {
+   "gloss": "a kind of reed, the donax",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δουποσ": {
+   "gloss": "thud, any dull and heavy sound",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δραχμη": {
+   "gloss": "drachma",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δριμυσ": {
+   "gloss": "sharp",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δροσοσ": {
+   "gloss": "dew",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:δρυπτω": {
+   "gloss": "to tear, strip or lacerate",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εγχοσ": {
+   "gloss": "spear",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ειαμενη": {
+   "gloss": "riverside pasture or water meadow, lowland",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ειλαπινη": {
+   "gloss": "solemn feast, banquet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ειρηνη": {
+   "gloss": "peace",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ελαια": {
+   "gloss": "olive tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ελεγοσ": {
+   "gloss": "mourning song accompanied by a flute",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ελιξ": {
+   "gloss": "anything twisted, winding or in a spiral",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ελλεβοροσ": {
+   "gloss": "hellebore (plant of the genus )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ελλοψ": {
+   "gloss": "fish in general",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ελμισ": {
+   "gloss": "parasitic worm",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εμπουσα": {
+   "gloss": "Empusa, a kind",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εμυσ": {
+   "gloss": "freshwater tortoise",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ενεοσ": {
+   "gloss": "dumb, mute, speechless",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εξαπινησ": {
+   "gloss": "suddenly, all of a sudden",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ερανοσ": {
+   "gloss": "meal to which each contributed his share",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ερεβινθοσ": {
+   "gloss": "chickpea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ερεχθω": {
+   "gloss": "to rend, break",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εριθοσ": {
+   "gloss": "day laborer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ερινεοσ": {
+   "gloss": "wild fig-tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ερινυσ": {
+   "gloss": "an Erinys one of the Erinyes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ερυσιβη": {
+   "gloss": "rust in corn, mildew",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ερυσιπελασ": {
+   "gloss": "erysipelas a skin disease",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εσσην": {
+   "gloss": "priest of Artemis of Ephesus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εστια": {
+   "gloss": "hearth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εσχαρα": {
+   "gloss": "hearth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ευληρα": {
+   "gloss": "reins",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ευρωσ": {
+   "gloss": "mold, mildew, dank decay",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εφιαλτησ": {
+   "gloss": "nightmare, conceived as a throttling demon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εψια": {
+   "gloss": "amusement",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:εψω": {
+   "gloss": "to boil, seethe",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ζεφυροσ": {
+   "gloss": "Zephyrus the west wind",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ζιγνισ": {
+   "gloss": "kind of lizard",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ζοφοσ": {
+   "gloss": "darkness",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηλακατη": {
+   "gloss": "distaff, spindle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηλυγη": {
+   "gloss": "shadow, darkness, gloom",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηλυσιον": {
+   "gloss": "Elysium",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηνυστρον": {
+   "gloss": "abomasum, rennet stomach",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηπιαλοσ": {
+   "gloss": "ague, fever",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηπιολοσ": {
+   "gloss": "moth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηρα": {
+   "gloss": "Hera",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηρυγγοσ": {
+   "gloss": "eryngo (plant of the genus )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηρωσ": {
+   "gloss": "a hero",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ηφαιστοσ": {
+   "gloss": "Hephaestus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θακοσ": {
+   "gloss": "seat, chair",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θαλαμοσ": {
+   "gloss": "an inner chamber, room",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θαλασσα": {
+   "gloss": "sea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θαλπω": {
+   "gloss": "to warm up",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θαλυκροσ": {
+   "gloss": "hot, glowing",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θαμβοσ": {
+   "gloss": "amazement, astonishment",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θαμνοσ": {
+   "gloss": "bush, shrub",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θαυμα": {
+   "gloss": "a wonder, marvel, something strange",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θεμισ": {
+   "gloss": "old, established law or custom",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θεραπων": {
+   "gloss": "companion of lower rank",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θησαυροσ": {
+   "gloss": "treasure",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θιασοσ": {
+   "gloss": "thiasus, Bacchic revel, rout",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θιβροσ": {
+   "gloss": "hot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θισ": {
+   "gloss": "heap (especially of sand)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θοινη": {
+   "gloss": "meal, feast, banquet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θολοσ": {
+   "gloss": "A round building with conical roof, a rotunda",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θορυβοσ": {
+   "gloss": "noise, especially",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρανοσ": {
+   "gloss": "bench, long seat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρηνοσ": {
+   "gloss": "wailing, lamenting, dirge",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θριαμβοσ": {
+   "gloss": "thriambus (hymn to Dionysus)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θριγκοσ": {
+   "gloss": "topmost course of stones in a wall",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θριδαξ": {
+   "gloss": "lettuce",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θριναξ": {
+   "gloss": "winnowing fork, three-pronged fork used to stir grain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θριψ": {
+   "gloss": "woodworm",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρομβοσ": {
+   "gloss": "piece, lump, clump",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρονοσ": {
+   "gloss": "seat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρυαλλισ": {
+   "gloss": "plantain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρυλοσ": {
+   "gloss": "noise as of many voices, murmur",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρυον": {
+   "gloss": "reed, rush",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θρωναξ": {
+   "gloss": "drone",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θυαροσ": {
+   "gloss": "ryegrass, darnel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θυλακοσ": {
+   "gloss": "sack, bag, used especially to carry meal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θυμαλλοσ": {
+   "gloss": "unknown kind of fish, perhaps the grayling",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θυμαλωψ": {
+   "gloss": "piece of burning wood or charcoal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θυμον": {
+   "gloss": "thyme (plant of the genus Thymus)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θυσανοσ": {
+   "gloss": "tassel, fringe",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θυσθλα": {
+   "gloss": "sacred implements of Bacchic orgies",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θωμιγξ": {
+   "gloss": "cord",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θωραξ": {
+   "gloss": "corselet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θωσ": {
+   "gloss": "jackal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:θωψ": {
+   "gloss": "adulator, flatterer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιαλεμοσ": {
+   "gloss": "lament, dirge",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιαμβοσ": {
+   "gloss": "iamb, a metrical foot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιαπετοσ": {
+   "gloss": "Iapetus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιβδησ": {
+   "gloss": "cock or plug in a ship's bottom",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιβισκοσ": {
+   "gloss": "marsh mallow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιδη": {
+   "gloss": "timber tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιδυξ": {
+   "gloss": "beech marten",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιθυμβοσ": {
+   "gloss": "kind of Bacchic dance and song",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ικνυσ": {
+   "gloss": "dust or ashes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ικταρ": {
+   "gloss": "close together",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ικτεροσ": {
+   "gloss": "jaundice, icterus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ινδουροσ": {
+   "gloss": "mole (animal of the family )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιξ": {
+   "gloss": "worm or grub that damages the vine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιξαλοσ": {
+   "gloss": "castrated he-goat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιξυσ": {
+   "gloss": "waist",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιρισ": {
+   "gloss": "rainbow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ισθμοσ": {
+   "gloss": "neck, narrow passage of the body",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ισκαι": {
+   "gloss": "fungus growing on oaks and walnut trees",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ισχιον": {
+   "gloss": "hip-joint",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ισχυσ": {
+   "gloss": "strength",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιτον": {
+   "gloss": "Thracian name for a kind of mushroom",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιυγξ": {
+   "gloss": "Eurasian wryneck",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιφυον": {
+   "gloss": "spike lavender",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιχωρ": {
+   "gloss": "ichor, the fluid which runs through the veins",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιψ": {
+   "gloss": "worm which eats wood and horn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιωκη": {
+   "gloss": "rout, pursuit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ιωψ": {
+   "gloss": "small kind of fish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καβαισοσ": {
+   "gloss": "glutton, gourmand",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καβειροι": {
+   "gloss": "Cabeiri a group of enigmatic chthonic deity",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καγκανοσ": {
+   "gloss": "dry, arid, barren",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καδμεια": {
+   "gloss": "Cadmea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καδμιλοσ": {
+   "gloss": "Name of one of the Cabeiri in Samothrace",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καδμοσ": {
+   "gloss": "Cadmus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καθαροσ": {
+   "gloss": "clean, clear, pure",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καιαδασ": {
+   "gloss": "pit or underground cavern",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κακκαβη": {
+   "gloss": "three legged pot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κακοσ": {
+   "gloss": "As a measure of quality: bad, worthless, useless",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κακτοσ": {
+   "gloss": "the cardoon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλαβοσ": {
+   "gloss": "reed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλαθοσ": {
+   "gloss": "basket which is narrow at the base",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλαμινθη": {
+   "gloss": "catmint",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλανδροσ": {
+   "gloss": "calandra lark",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλαυροψ": {
+   "gloss": "shepherd's staff or crook",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλπισ": {
+   "gloss": "pitcher",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλυβη": {
+   "gloss": "A hut, a cabin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλυξ": {
+   "gloss": "A covering of a flower or fruit: calyx",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλυπτω": {
+   "gloss": "to cover",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καλχη": {
+   "gloss": "purple-fish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καμαξ": {
+   "gloss": "vine pole",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καμμαροσ": {
+   "gloss": "a kind of lobster shrimp",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καμπη": {
+   "gloss": "caterpillar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καμποσ": {
+   "gloss": "sea monster",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καμπτω": {
+   "gloss": "to bend",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καναβοσ": {
+   "gloss": "block figure wooden framework round",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καναχη": {
+   "gloss": "noise, any sharp sound",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κανθηλια": {
+   "gloss": "panniers at the sides of a packsaddle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κανθοσ": {
+   "gloss": "corner of the eye",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κανθυλη": {
+   "gloss": "swelling",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καννα": {
+   "gloss": "giant reed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κανων": {
+   "gloss": "rod, pole, bar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καπηλοσ": {
+   "gloss": "retail dealer, huckster",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καραβοσ": {
+   "gloss": "a kind of beetle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρδοποσ": {
+   "gloss": "kneading trough",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρισ": {
+   "gloss": "shrimp, prawn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρκινοσ": {
+   "gloss": "crab",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρπαια": {
+   "gloss": "mimic dance in arms of the Thessalians",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρπαλιμοσ": {
+   "gloss": "swift, quick",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρπησιον": {
+   "gloss": "kind of valerian",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρταλλοσ": {
+   "gloss": "basket with a pointed bottom",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρυκη": {
+   "gloss": "Lydian sauce composed of animal blood and spices",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρυον": {
+   "gloss": "nut hard-shelled seed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρφω": {
+   "gloss": "to dry up, wither, shrivel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρχαροσ": {
+   "gloss": "sharp-pointed, jagged, with sharp or jagged teeth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καρω": {
+   "gloss": "caraway",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κασαλβασ": {
+   "gloss": "a courtesan, strumpet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κασσιτεροσ": {
+   "gloss": "tin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κασσυω": {
+   "gloss": "to stitch, sew together like a shoemaker",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καστανα": {
+   "gloss": "sweet chestnuts",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κασωρισ": {
+   "gloss": "a courtesan, strumpet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καυαξ": {
+   "gloss": "sea swallow, tern",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καχληξ": {
+   "gloss": "pebble (in the bed of a river)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:καχρυσ": {
+   "gloss": "parched barley",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κεγχροσ": {
+   "gloss": "millet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κειρια": {
+   "gloss": "girth of a bedstead",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κεκρυφαλοσ": {
+   "gloss": "hairnet for women, snood",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κελαινοσ": {
+   "gloss": "black, dark, swarthy, murky",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κελεβη": {
+   "gloss": "A cup, a jar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κελεοσ": {
+   "gloss": "green woodpecker",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κελυφοσ": {
+   "gloss": "sheath, case",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κελωρ": {
+   "gloss": "son",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κενεβρεια": {
+   "gloss": "carrion, carcass",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κεπφοσ": {
+   "gloss": "storm petrel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κεραμβυξ": {
+   "gloss": "longhorn beetle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κεραμοσ": {
+   "gloss": "potter's clay",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κερασοσ": {
+   "gloss": "bird cherry, tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κερβεροσ": {
+   "gloss": "Cerberus, the three-headed dog",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κερκα": {
+   "gloss": "grasshopper, locust, cicada",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κερνοσ": {
+   "gloss": "large earthen dish with small pots",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κερτομεω": {
+   "gloss": "to taunt, sneer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κερχνοσ": {
+   "gloss": "rough excrescence",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κεωσ": {
+   "gloss": "Ceos",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηβοσ": {
+   "gloss": "long-tailed monkey",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηθισ": {
+   "gloss": "dicebox",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηκισ": {
+   "gloss": "anything gushing or bubbling forth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηλαστροσ": {
+   "gloss": "holly",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κημοσ": {
+   "gloss": "muzzle put on a led horse",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηρ": {
+   "gloss": "death",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηραφισ": {
+   "gloss": "kind of locust",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηρινθοσ": {
+   "gloss": "beebread",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηρυξ": {
+   "gloss": "herald",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κηφην": {
+   "gloss": "an apian drone male bee",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιβδηλοσ": {
+   "gloss": "base, fake, counterfeit (especially of coins)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιβισισ": {
+   "gloss": "A pouch, a wallet, such as Perseus wore",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιγκλοσ": {
+   "gloss": "dipper",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιδαλον": {
+   "gloss": "onion",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιθαρα": {
+   "gloss": "lyre",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κικυσ": {
+   "gloss": "strength, vigour, force",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιλλιξ": {
+   "gloss": "ox with crooked horns",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιναρα": {
+   "gloss": "artichoke",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κινδυνοσ": {
+   "gloss": "danger, risk, hazard",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κινωπετον": {
+   "gloss": "venomous beast, especially a snake",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιξαλλησ": {
+   "gloss": "highway robber, pirate, thief",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιρσοσ": {
+   "gloss": "varicocele enlargement of a vein",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κισ": {
+   "gloss": "weevil beetle in the superfamily",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κισηρισ": {
+   "gloss": "pumice stone",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κισθοσ": {
+   "gloss": "rockrose",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κισσοσ": {
+   "gloss": "ivy , sacred to Dionysus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κισσυβιον": {
+   "gloss": "rustic drinking-cup of wood",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιχλη": {
+   "gloss": "thrush bird",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κιχορα": {
+   "gloss": "chicory",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλαδοσ": {
+   "gloss": "young slip or shoot of a tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλαιω": {
+   "gloss": "to cry, weep, wail, lament",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλαμβοσ": {
+   "gloss": "docked, cropped",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλανιον": {
+   "gloss": "bracelet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλαω": {
+   "gloss": "to break",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλεμμυσ": {
+   "gloss": "tortoise",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλημα": {
+   "gloss": "twig, branch, tendril of the vine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κληροσ": {
+   "gloss": "a lot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλοιοσ": {
+   "gloss": "dog collar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλονοσ": {
+   "gloss": "confused motion, turmoil, battle-rout",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλωθω": {
+   "gloss": "to spin, twist by spinning",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κλωμαξ": {
+   "gloss": "heap of stones, rocky place",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κναπτω": {
+   "gloss": "wool torn off in carding or fulling cloth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κνεφασ": {
+   "gloss": "darkness, often referring to evening dusk or night",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κνωδαλον": {
+   "gloss": "wild creature, beast",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κνωψ": {
+   "gloss": "venomous beast, especially a serpent",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοαλεμοσ": {
+   "gloss": "stupid fellow, booby, blockhead",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοβαλοσ": {
+   "gloss": "impudent rogue, arrant knave",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κογχη": {
+   "gloss": "mussel, cockle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοδομευσ": {
+   "gloss": "one who roasts barley",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοθορνοσ": {
+   "gloss": "buskin, high boot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοιξ": {
+   "gloss": "doum palm",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοκκοσ": {
+   "gloss": "grain, seed, kernel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολαξ": {
+   "gloss": "flatterer, fawner",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολαφοσ": {
+   "gloss": "a buffet, a blow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολλιξ": {
+   "gloss": "roll or loaf of coarse bread",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολλοψ": {
+   "gloss": "peg or screw by which the strings",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολλυρα": {
+   "gloss": "roll or loaf of bread",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολοβοσ": {
+   "gloss": "docked, curtailed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολοιοσ": {
+   "gloss": "jackdaw",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολοιτια": {
+   "gloss": "a tree growing in the Lipari island",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολοκυνθη": {
+   "gloss": "bottle gourd , syn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολοσ": {
+   "gloss": "defanged rendered harmless",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολοσσοσ": {
+   "gloss": "a large statue",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κολυβδαινα": {
+   "gloss": "kind of crab",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κομαροσ": {
+   "gloss": "strawberry tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κομβοσ": {
+   "gloss": "roll, band, girth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κομψοσ": {
+   "gloss": "nice, refined, elegant, gentlemanly",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κονδυ": {
+   "gloss": "a unit of volume derived from the vessel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κονδυλοσ": {
+   "gloss": "knuckle (of any joint)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κονιλη": {
+   "gloss": "marjoram",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κονυζα": {
+   "gloss": "fleabane (the name",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορδυλη": {
+   "gloss": "club",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορδυλοσ": {
+   "gloss": "newt, eft",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοριαννον": {
+   "gloss": "coriander",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορινθοσ": {
+   "gloss": "Corinth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορυδοσ": {
+   "gloss": "crested lark",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορυζα": {
+   "gloss": "rheum, mucous discharge from the nose",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορυμβοσ": {
+   "gloss": "uppermost point of a ship",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορυνη": {
+   "gloss": "mace",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορυσ": {
+   "gloss": "helmet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορυφη": {
+   "gloss": "top of the head, crown",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κορχυρεα": {
+   "gloss": "subterranean channel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοσκινον": {
+   "gloss": "sieve",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοσυμβη": {
+   "gloss": "topknot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοτινοσ": {
+   "gloss": "wild olive tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοτταβοσ": {
+   "gloss": "cottabus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοττισ": {
+   "gloss": "hairstyle with long hair on the forehead",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοτυλη": {
+   "gloss": "small vessel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοφινοσ": {
+   "gloss": "basket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κοχλοσ": {
+   "gloss": "shellfish with a spiral shell",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κραιπαλη": {
+   "gloss": "bout of drinking",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κραιπνοσ": {
+   "gloss": "rapid, rushing",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κραμβοσ": {
+   "gloss": "dry",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κραυροσ": {
+   "gloss": "brittle, friable, fragile",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρεμβαλα": {
+   "gloss": "castanets, clappers",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρηθμον": {
+   "gloss": "samphire",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρημνοσ": {
+   "gloss": "overhanging bank of a river",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρηπισ": {
+   "gloss": "man's high boot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κριβανοσ": {
+   "gloss": "covered earthen vessel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κροταφοσ": {
+   "gloss": "temple",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρουπεζαι": {
+   "gloss": "high wooden shoes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρυσταλλοσ": {
+   "gloss": "ice",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρωπιον": {
+   "gloss": "scythe, billhook",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κρωσσοσ": {
+   "gloss": "water pail, pitcher",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κτυποσ": {
+   "gloss": "crash, bang, din",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυαθοσ": {
+   "gloss": "ladle for drawing wine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυαμοσ": {
+   "gloss": "bean",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυβερναω": {
+   "gloss": "to steer, drive, pilot, to be a steersman",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυβη": {
+   "gloss": "head",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυβηλισ": {
+   "gloss": "axe, cleaver, large knife",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυδαρ": {
+   "gloss": "grave, tomb",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυδοιμοσ": {
+   "gloss": "tumult",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυλινδω": {
+   "gloss": "to roll",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυλιξ": {
+   "gloss": "a cup (often for wine)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυμβαχοσ": {
+   "gloss": "falling headfirst",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυμβη": {
+   "gloss": "hollow of a vessel: drinking cup, bowl",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυνδαλοσ": {
+   "gloss": "wooden peg",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυνωψ": {
+   "gloss": "ribwort",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυπαρισσοσ": {
+   "gloss": "cypress",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυπειρον": {
+   "gloss": "galingale",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυπελλον": {
+   "gloss": "drinking-cup, goblet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυπρινοσ": {
+   "gloss": "carp",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυπτω": {
+   "gloss": "to bend forward, stoop down",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυρβεισ": {
+   "gloss": "triangular tablets",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυριθρα": {
+   "gloss": "wooden masks",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυσεισ": {
+   "gloss": "blister on the heel caused by a burn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυσθοσ": {
+   "gloss": "pudenda muliebria",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυτινοσ": {
+   "gloss": "flower of the pomegranate",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυτισοσ": {
+   "gloss": "moon trefoil",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυχραμοσ": {
+   "gloss": "unknown migratory bird, perhaps",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κυψελη": {
+   "gloss": "chest, box, any hollow vessel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωδεια": {
+   "gloss": "poppy head, head of plants",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωδων": {
+   "gloss": "bell",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωθων": {
+   "gloss": "Laconian drinking vessell used by soldiers",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωκυω": {
+   "gloss": "to shriek, wail",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωλον": {
+   "gloss": "part of something, member",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωμοσ": {
+   "gloss": "festival",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωμυσ": {
+   "gloss": "reedbed place planted with reeds",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωνειον": {
+   "gloss": "poison hemlock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωνοσ": {
+   "gloss": "pine cone",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωνωψ": {
+   "gloss": "gnat, mosquito",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωρυκοσ": {
+   "gloss": "leathern sack or wallet for provisions",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:κωφοσ": {
+   "gloss": "blunt",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαασ": {
+   "gloss": "stone",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαβροσ": {
+   "gloss": "furious, boisterous",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαβυρινθοσ": {
+   "gloss": "A labyrinth, maze",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαγγαζω": {
+   "gloss": "to slacken, relax, become lazy",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαγυνοσ": {
+   "gloss": "flagon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαθυροσ": {
+   "gloss": "chickling vetch",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαιλαψ": {
+   "gloss": "whirlwind",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαιμοσ": {
+   "gloss": "throat, gullet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λακων": {
+   "gloss": "Laconian, inhabitant of Lacedaemon, a Lacedaemonian",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαμοσ": {
+   "gloss": "according to a scholium of Horace",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαμπη": {
+   "gloss": "scum, foam which forms on the surface",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαμπηνη": {
+   "gloss": "covered chariot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαμυροσ": {
+   "gloss": "full of abysses",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαμψανη": {
+   "gloss": "charlock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαοσ": {
+   "gloss": "people",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαπαθον": {
+   "gloss": "monk's rhubarb",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαπαθοσ": {
+   "gloss": "pitfall for wild beasts",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαπαροσ": {
+   "gloss": "slack, loose (of the bowels)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαρναξ": {
+   "gloss": "coffer, box, chest",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαρυγξ": {
+   "gloss": "larynx",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λασαρον": {
+   "gloss": "laser, juice of the asafoetida or silphium",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λασθη": {
+   "gloss": "insult, mockery",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λασταυροσ": {
+   "gloss": "catamite, cinaedus, debauchee",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαταξ": {
+   "gloss": "the drops",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λατρον": {
+   "gloss": "pay, hire",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαυκανιη": {
+   "gloss": "throat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαυρα": {
+   "gloss": "alley",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαφυρα": {
+   "gloss": "spoils taken in war, pillage, booty",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λαφυσσω": {
+   "gloss": "to gulp down, consume greedily or gluttonously",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεβηρισ": {
+   "gloss": "skin or slough (of serpents and beans)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεγνον": {
+   "gloss": "coloured edging or border of a garment",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λειτωρ": {
+   "gloss": "priest",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεκανη": {
+   "gloss": "dish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεκιθοσ": {
+   "gloss": "gruel of pulse or cereals",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεμφοσ": {
+   "gloss": "mucous discharge from the nose, snot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεπαδνον": {
+   "gloss": "broad leather strap fastening the yoke to the neck",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεπασ": {
+   "gloss": "bare rock, scaur, crag",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεπω": {
+   "gloss": "to peel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λεχριοσ": {
+   "gloss": "slanting, crosswise",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ληδιον": {
+   "gloss": "light summer dress",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ληθαργοσ": {
+   "gloss": "forgetful",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ληκαω": {
+   "gloss": "to dance",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ληκυθοσ": {
+   "gloss": "oil flask",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λημη": {
+   "gloss": "rheum, sleep, a humour that gathers in the corner",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λητω": {
+   "gloss": "Leto",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λιπερνησ": {
+   "gloss": "poor, forlorn, outcast",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λουπησ": {
+   "gloss": "kite",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λυγγουριον": {
+   "gloss": "amber",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λυγδη": {
+   "gloss": "white poplar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λυγδοσ": {
+   "gloss": "white marble",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λυκαβασ": {
+   "gloss": "year",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λυρα": {
+   "gloss": "lyre string instrument with a sounding board",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:λωβηξ": {
+   "gloss": "vulture",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαγγανον": {
+   "gloss": "philtre, charm, means for bewitching others",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαγειροσ": {
+   "gloss": "cook",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαδρυα": {
+   "gloss": "plums",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαθαλισ": {
+   "gloss": "kind of cup",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μακαρ": {
+   "gloss": "blessed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μακεδνοσ": {
+   "gloss": "tall, taper",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μακελλα": {
+   "gloss": "mattock, pick, used for digging or breaking up",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μακελλον": {
+   "gloss": "enclosure",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαλθακοσ": {
+   "gloss": "soft, tender, mellow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαλθη": {
+   "gloss": "a mixture",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαλκη": {
+   "gloss": "numbness from cold, especially in hands and feet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μανδρα": {
+   "gloss": "enclosed space",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαραθον": {
+   "gloss": "fennel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαργοσ": {
+   "gloss": "mad, furious, rampant",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαριλη": {
+   "gloss": "embers of charcoal, coaldust",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαρινοσ": {
+   "gloss": "unknown kind of fish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαρμαιρω": {
+   "gloss": "to flash, sparkle, glisten, gleam",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαρμαροσ": {
+   "gloss": "crystalline rock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαρσιπποσ": {
+   "gloss": "bag, pouch",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαρτυσ": {
+   "gloss": "witness",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μασαομαι": {
+   "gloss": "to chew",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μασταξ": {
+   "gloss": "mouth, jaws, that with which one chews",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαστιξ": {
+   "gloss": "horsewhip",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαστροποσ": {
+   "gloss": "pimp or procuress",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μασχαλη": {
+   "gloss": "armpit, axilla",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ματρυλλοσ": {
+   "gloss": "pimp",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ματτυη": {
+   "gloss": "Macedonian or Thessalian dish made of hashed meat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαχαιρα": {
+   "gloss": "large knife",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαχλοσ": {
+   "gloss": "lewd, lustful (of women)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαχομαι": {
+   "gloss": "to make war, fight, battle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μαψ": {
+   "gloss": "in vain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μεγαρον": {
+   "gloss": "large room, hall",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μεδιμνοσ": {
+   "gloss": "corn measure, bushel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μελαθρον": {
+   "gloss": "beam",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μελια": {
+   "gloss": "manna ash",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μερμεροσ": {
+   "gloss": "mischievous, baneful",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μερμισ": {
+   "gloss": "cord, string, rope",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μερμνοσ": {
+   "gloss": "sort of hawk",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μεροψ": {
+   "gloss": "epithet of men",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μεσακλον": {
+   "gloss": "weaver's beam",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μεσπιλον": {
+   "gloss": "medlar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μεταλλον": {
+   "gloss": "a mine, quarry, or salt pit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μηδεα": {
+   "gloss": "counsel, plan, art, prudence, cunning",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μηλον": {
+   "gloss": "apple",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μηνιγξ": {
+   "gloss": "membrane",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μηον": {
+   "gloss": "baldmoney, spignel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μηριγξ": {
+   "gloss": "bristle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μηρινθοσ": {
+   "gloss": "cord, line, string",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μηχανη": {
+   "gloss": "contrivance, machine, device, gear",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μιαινω": {
+   "gloss": "to paint",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μικροσ": {
+   "gloss": "little, small",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μιλτοσ": {
+   "gloss": "ruddle, red ochre",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μιμαικυλον": {
+   "gloss": "fruit of the strawberry tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μιμαρκυσ": {
+   "gloss": "hare-soup or jugged hare",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μιμοσ": {
+   "gloss": "mime",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μινθη": {
+   "gloss": "mint",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μινθοσ": {
+   "gloss": "shit, especially of humans",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μινυριζω": {
+   "gloss": "to complain in a low tone, whimper, whine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μισχοσ": {
+   "gloss": "stalk of leaves or fruit, petiole",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μοθοσ": {
+   "gloss": "the din of battle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μολοβροσ": {
+   "gloss": "term of abuse or depreciation applied to a beggar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μοργοσ": {
+   "gloss": "wicker basket of a cart",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μορμυροσ": {
+   "gloss": "steenbras",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μορμω": {
+   "gloss": "a monstrous spectre in Greek mythology",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μοροξοσ": {
+   "gloss": "sort of pipeclay used to bleach clothes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μουσα": {
+   "gloss": "Muse",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μοχθοσ": {
+   "gloss": "toil, trouble, hardship, distress, exertion",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μοχλοσ": {
+   "gloss": "lever, bar, crowbar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυδροσ": {
+   "gloss": "metal or iron mass roasted in fire",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυελοσ": {
+   "gloss": "marrow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυθοσ": {
+   "gloss": "something said: word, speech, conversation",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυκησ": {
+   "gloss": "mushroom or other fungus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυκλοσ": {
+   "gloss": "lewd, lustful person",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυραινα": {
+   "gloss": "moray eel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυρικη": {
+   "gloss": "tamarisk (plant of the genus )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυρτοσ": {
+   "gloss": "myrtle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυσοσ": {
+   "gloss": "a Mysian",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυσταξ": {
+   "gloss": "upper lip or moustache",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυστιλη": {
+   "gloss": "piece of bread scooped out as a spoon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυτισ": {
+   "gloss": "that part",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μυχοσ": {
+   "gloss": "the inmost or furthest part of a place",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μωκαομαι": {
+   "gloss": "to mimic, and so, ridicule, mock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μωλυ": {
+   "gloss": "moly, a magic herb mentioned by Homer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:μωλωψ": {
+   "gloss": "mark of a stripe, weal, bruise",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νακη": {
+   "gloss": "woolen skin, fleece",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ναοσ": {
+   "gloss": "a temple",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ναπη": {
+   "gloss": "woodland vale, dell, glen",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ναρθηξ": {
+   "gloss": "giant fennel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ναρκη": {
+   "gloss": "numbness, torpor",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ναρκισσοσ": {
+   "gloss": "daffodil, narcissus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νασσω": {
+   "gloss": "to press, squeeze close, stamp down",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νεκταρ": {
+   "gloss": "nectar the drink of the gods",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νενιηλοσ": {
+   "gloss": "foolish, silly, unwise",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νεπετοσ": {
+   "gloss": "catmint",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νετωπον": {
+   "gloss": "oil of bitter almonds",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νηθουσα": {
+   "gloss": "unknown kind of plant",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νηρευσ": {
+   "gloss": "Nereus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νηριτησ": {
+   "gloss": "sea snail",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νησοσ": {
+   "gloss": "island",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νικη": {
+   "gloss": "victory",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νικυλεον": {
+   "gloss": "A kind of fig found in Crete",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νοτοσ": {
+   "gloss": "the south(west) wind (which brings mist and wetness)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νουθοσ": {
+   "gloss": "tramp of feet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νυκταλωψ": {
+   "gloss": "day blindness, hemeralopia",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νυμφη": {
+   "gloss": "bride, young wife",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νυσσα": {
+   "gloss": "turning post in a racecourse",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νωκαρ": {
+   "gloss": "lethargy, deep sleep",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νωροψ": {
+   "gloss": "flashing, shining, bright (epithet of copper)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:νωχελησ": {
+   "gloss": "slow, sluggish, dull, languid",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ξανθοσ": {
+   "gloss": "Derived",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ξενοσ": {
+   "gloss": "foreign",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ξιρισ": {
+   "gloss": "gladen",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ξιφοσ": {
+   "gloss": "sword the short",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οαρ": {
+   "gloss": "wife, spouse",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οβελοσ": {
+   "gloss": "a spit, rod",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οβρια": {
+   "gloss": "cubs of wild animals",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οβριμοσ": {
+   "gloss": "strong, mighty, stout",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ογχνη": {
+   "gloss": "pear tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οδυσσευσ": {
+   "gloss": "Odysseus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οθρυσ": {
+   "gloss": "mount Othrys, Thessaly, Greece",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οισπωτη": {
+   "gloss": "sheep dung",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οιστοσ": {
+   "gloss": "arrow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οισυπη": {
+   "gloss": "lanolin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ολβοσ": {
+   "gloss": "wealth, prosperity, riches",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ολιγγοσ": {
+   "gloss": "kind of locust",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ολισβοσ": {
+   "gloss": "dildo, leathern penis",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ολοσ": {
+   "gloss": "ink of the cuttlefish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ολυνθοσ": {
+   "gloss": "fruit of the wild fig",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ομβροσ": {
+   "gloss": "storm of rain, thunderstorm, sent by Zeus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ομιλοσ": {
+   "gloss": "crowd, throng",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ομπνη": {
+   "gloss": "nourishment",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ομφαξ": {
+   "gloss": "unripe grape, also of olives",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ονοσ": {
+   "gloss": "ass",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ονωνισ": {
+   "gloss": "restharrow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οπταω": {
+   "gloss": "to roast",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οργυια": {
+   "gloss": "fathom",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ορκυσ": {
+   "gloss": "large kind of tunny",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ορμινον": {
+   "gloss": "orval",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οροδαμνοσ": {
+   "gloss": "bough, branch",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οροντιον": {
+   "gloss": "cuckoopint , a remedy for jaundice",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ορπηξ": {
+   "gloss": "sapling, sprig, young shoot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ορτυξ": {
+   "gloss": "common quail",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ορχοσ": {
+   "gloss": "row of vines or fruit trees",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οστλιγξ": {
+   "gloss": "curled hair, lock of hair",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οστρακον": {
+   "gloss": "earthen vessel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οστριμον": {
+   "gloss": "byre, stable, fold, enclosure for cattle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οσφυσ": {
+   "gloss": "hips or loins",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οσχη": {
+   "gloss": "scrotum",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οτλοσ": {
+   "gloss": "suffering, distress, burden",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ουδοσ": {
+   "gloss": "threshold",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ουλαι": {
+   "gloss": "barley-corns, which were sprinkled on the head",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ουλιξησ": {
+   "gloss": "Odysseus, Ulysses",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ουρα": {
+   "gloss": "the tail of an animal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ουρανοσ": {
+   "gloss": "the vaulted sky",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ουραξ": {
+   "gloss": "pipit (bird of the genus )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οφθαλμοσ": {
+   "gloss": "eye",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οχθη": {
+   "gloss": "bank, riverbank, dyke by the side",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:οχθοιβοσ": {
+   "gloss": "purple stripe down the front of the chiton",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παγουροσ": {
+   "gloss": "crab",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παιαν": {
+   "gloss": "physician, healer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παλαθη": {
+   "gloss": "cake of preserved fruit, fruitcake",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παλιουροσ": {
+   "gloss": "Christ's thorn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παλλακη": {
+   "gloss": "concubine, young girl",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πανδουρα": {
+   "gloss": "pandura, a three-stringed lute",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πανοσ": {
+   "gloss": "torch",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παπταινω": {
+   "gloss": "to peer around, look about cautiously",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παρδακοσ": {
+   "gloss": "wet, moist, damp",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παρνοψ": {
+   "gloss": "a kind of locust",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πασσαλοσ": {
+   "gloss": "a peg",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:παταγοσ": {
+   "gloss": "clatter, crash (of trees falling)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πατανη": {
+   "gloss": "kind of flat dish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πατελλα": {
+   "gloss": "dish, patella",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πειρινθα": {
+   "gloss": "wicker basket tied upon a cart",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πελαγοσ": {
+   "gloss": "sea, high seas, open sea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πελανοσ": {
+   "gloss": "any thick liquid substance, of various consistency",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πελεκαν": {
+   "gloss": "pelican",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πελεκυσ": {
+   "gloss": "two-edged axe for felling trees",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πελλα": {
+   "gloss": "wooden bowl, milk pail",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:περγαμον": {
+   "gloss": "Pergamon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:περδιξ": {
+   "gloss": "partridge",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πεσσοσ": {
+   "gloss": "oval shaped stone used in board games",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πετευρον": {
+   "gloss": "roosting perch for fowls",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πετρα": {
+   "gloss": "rock formation: cliff, ledge, cave, ridge",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πηγη": {
+   "gloss": "spring",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πηλαμυσ": {
+   "gloss": "young tunny",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πηληξ": {
+   "gloss": "helm",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πηλοσ": {
+   "gloss": "clay, earth used by masons and potters",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πηνελοψ": {
+   "gloss": "kind of particoloured duck",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πηρα": {
+   "gloss": "bag, haversack, pouch, wallet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πιδαξ": {
+   "gloss": "a spring, fountain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πιθηκοσ": {
+   "gloss": "ape",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πιθοσ": {
+   "gloss": "large wine jar, cask",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πιναξ": {
+   "gloss": "board",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πινη": {
+   "gloss": "pen shell (bivalve of the family )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πινυτοσ": {
+   "gloss": "prudent",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πισγισ": {
+   "gloss": "A box of wood",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πισοσ": {
+   "gloss": "meadow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πισυγγοσ": {
+   "gloss": "shoemaker",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πιτυρον": {
+   "gloss": "husks of corn, bran",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πιτυσ": {
+   "gloss": "pine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πλαγγοσ": {
+   "gloss": "kind of eagle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πλαθανον": {
+   "gloss": "dish or mold",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πλασσω": {
+   "gloss": "to form",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πλαστιγξ": {
+   "gloss": "scale of a balance",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πλατανοσ": {
+   "gloss": "planetree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πλινθοσ": {
+   "gloss": "A brick, whether sun or fire baked",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πνιγω": {
+   "gloss": "to choke, throttle, strangle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πολεμοσ": {
+   "gloss": "war, battle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πορπη": {
+   "gloss": "brooch, clasp for fastening dresses, especially",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πορφυρα": {
+   "gloss": "purple-fish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ποσθη": {
+   "gloss": "penis",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πρασον": {
+   "gloss": "leek, (syn. )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πρεμνον": {
+   "gloss": "bottom of the trunk of a tree, stump",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πρυλεεσ": {
+   "gloss": "men-at-arms, soldiers",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πρυμνοσ": {
+   "gloss": "hindmost, undermost, endmost, end",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πτελασ": {
+   "gloss": "wild boar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πτελεα": {
+   "gloss": "wych elm",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πτησσω": {
+   "gloss": "to scare, alarm, terrify",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πτιλον": {
+   "gloss": "feather, especially a down feather",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πτορθοσ": {
+   "gloss": "young branch",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πτυσσω": {
+   "gloss": "to fold",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πτωχοσ": {
+   "gloss": "beggar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πυελοσ": {
+   "gloss": "trough for feeding animals",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πυλεων": {
+   "gloss": "wreath, circlet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πυλη": {
+   "gloss": "a wing of gates",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πυργοσ": {
+   "gloss": "A loanword",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πυρνοσ": {
+   "gloss": "morsel, bit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πυτινη": {
+   "gloss": "a flagon, flask",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πωγων": {
+   "gloss": "beard",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:πωροσ": {
+   "gloss": "tuff",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραβδοσ": {
+   "gloss": "rod, wand, stick",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραδινοσ": {
+   "gloss": "slender, taper, thin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραθαμιγξ": {
+   "gloss": "drop (of liquids)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραιβοσ": {
+   "gloss": "crooked, bent",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραμνοσ": {
+   "gloss": "a thorny bush or shrub",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραμφοσ": {
+   "gloss": "crooked beak of birds of prey, bill",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραφανοσ": {
+   "gloss": "cabbage",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ραχισ": {
+   "gloss": "chine, lower part of the back",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ρεγκω": {
+   "gloss": "to snore",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ρητινη": {
+   "gloss": "resin of the pine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ριον": {
+   "gloss": "peak, summit, any jutting part of a mountain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ριπτω": {
+   "gloss": "to throw",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ρισ": {
+   "gloss": "nose, snout",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ρισκοσ": {
+   "gloss": "coffer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ροα": {
+   "gloss": "pomegranate tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ροδον": {
+   "gloss": "rose (usually Rosa gallica)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ροθοσ": {
+   "gloss": "rushing noise, roar of waves, dash of oars",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ροιβδοσ": {
+   "gloss": "any rushing noise or motion",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ροιζοσ": {
+   "gloss": "whistling or whizzing",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ρυκανη": {
+   "gloss": "plane, a tool for smoothing wood",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ρυτη": {
+   "gloss": "rue",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ρωψ": {
+   "gloss": "brushwood, underwood",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαβακοσ": {
+   "gloss": "damaged, rotten",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαγηνη": {
+   "gloss": "large dragnet, seine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαθροσ": {
+   "gloss": "unsound, diseased",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαλαμβη": {
+   "gloss": "venthole, chimney",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαλπιγξ": {
+   "gloss": "a war-trumpet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαμαξ": {
+   "gloss": "rush-mat, used as a bed in war",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σανδαλον": {
+   "gloss": "sandal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σανδαρακη": {
+   "gloss": "sandarac, realgar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σανδυξ": {
+   "gloss": "bright red mineral colorant from red lead",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαπερδησ": {
+   "gloss": "kind of fish found",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαργανη": {
+   "gloss": "plait, braid",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαργοσ": {
+   "gloss": "sargo",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαρισα": {
+   "gloss": "sarissa, a long Macedonian pike",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαρωνισ": {
+   "gloss": "old hollow oak",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σατυροσ": {
+   "gloss": "satyr",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαυλοσ": {
+   "gloss": "straddling, waddling",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαυρα": {
+   "gloss": "lizard",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σαφησ": {
+   "gloss": "clear",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σειρην": {
+   "gloss": "siren",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σειριοσ": {
+   "gloss": "Sirius, the dog star",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σελαχοσ": {
+   "gloss": "cartilaginous fish, shark",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σελινον": {
+   "gloss": "celery",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σελισ": {
+   "gloss": "crossbeam of stone in ceiling construction",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σερφοσ": {
+   "gloss": "gnat or winged ant",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σηκοσ": {
+   "gloss": "pen, fold, especially for rearing lambs, kids and calves",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σηπια": {
+   "gloss": "cuttlefish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σηραγξ": {
+   "gloss": "cave hollowed out by water",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιαγων": {
+   "gloss": "jaw, jawbone, maxilla",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιαλοσ": {
+   "gloss": "porker, fat pig",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιδη": {
+   "gloss": "pomegranate (tree and fruit)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σικυα": {
+   "gloss": "bottle gourd , syn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σικυοσ": {
+   "gloss": "cucumber",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιλουροσ": {
+   "gloss": "wels catfish",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιλφη": {
+   "gloss": "cockroach",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιμβλοσ": {
+   "gloss": "beehive, hive",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιμοσ": {
+   "gloss": "snub-nosed, flat nosed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιναπι": {
+   "gloss": "the mustard plant",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιουρα": {
+   "gloss": "any coarse or cheap garment",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιραιον": {
+   "gloss": "boiled down new wine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιροσ": {
+   "gloss": "pit for storing grain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σισυμβριον": {
+   "gloss": "water mint",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σισυρα": {
+   "gloss": "garment of skin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σισυφοσ": {
+   "gloss": "Sisyphus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιττυβοσ": {
+   "gloss": "cauldron similar to a caccabus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σιφλοσ": {
+   "gloss": "crippled, maimed, lame",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκαλιασ": {
+   "gloss": "fruit shell of the artichoke",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκαλιδρισ": {
+   "gloss": "kind of speckled waterbird",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκαλοψ": {
+   "gloss": "mole (animal of the family )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκαμβοσ": {
+   "gloss": "crooked, bent",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκαμμωνια": {
+   "gloss": "scammony",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκανδαλον": {
+   "gloss": "trap, snare",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκανδιξ": {
+   "gloss": "Venus' comb, shepherd's needle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκαπερδα": {
+   "gloss": "tug of war at the Dionysia",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκαπετοσ": {
+   "gloss": "ditch, trench",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκερβολοσ": {
+   "gloss": "scolding, abusive, vilifying, slandering",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκιγγοσ": {
+   "gloss": "skink, a kind of lizard",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκιλλα": {
+   "gloss": "squill",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκιμβοσ": {
+   "gloss": "halt, lame",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκιναρ": {
+   "gloss": "body",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκινδαψοσ": {
+   "gloss": "musical instrument with four strings",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκιουροσ": {
+   "gloss": "squirrel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκιροσ": {
+   "gloss": "A scrub, hard land overgrown with bushes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκολοπαξ": {
+   "gloss": "woodcock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκολοπενδρα": {
+   "gloss": "millipede",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκολοψ": {
+   "gloss": "a pale",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκολυβρα": {
+   "gloss": "sullen, sad",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκομβροσ": {
+   "gloss": "mackerel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκορπιοσ": {
+   "gloss": "scorpion",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκυβαλον": {
+   "gloss": "dung, excrement, manure",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκυλαξ": {
+   "gloss": "young dog, whelp, puppy",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκυροσ": {
+   "gloss": "chippings of stone used as road metal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σκυφοσ": {
+   "gloss": "a cup can, used by peasant",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σμαρισ": {
+   "gloss": "picarel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σμηνοσ": {
+   "gloss": "beehive, skep",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σμιλαξ": {
+   "gloss": "holm oak",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σμιλη": {
+   "gloss": "a tool for cutting or carving: knife, chisel",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σμινθοσ": {
+   "gloss": "mouse, field mouse, vole",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σμινυη": {
+   "gloss": "two-pronged mattock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σμωδιξ": {
+   "gloss": "weal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σογχοσ": {
+   "gloss": "sow thistle (plant of the genus )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σοφοσ": {
+   "gloss": "clever, skillful, cunning, able",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπαλαθρον": {
+   "gloss": "oven rake",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπαλαξ": {
+   "gloss": "meadow saffron",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπανισ": {
+   "gloss": "rarity, scarcity",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπαροσ": {
+   "gloss": "annular seabream",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπαταγγησ": {
+   "gloss": "kind of sea urchin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπαταλη": {
+   "gloss": "lewdness",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπατιλη": {
+   "gloss": "thin excrement, as in diarrhea",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπελεθοσ": {
+   "gloss": "dung, ordure, manure",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπεοσ": {
+   "gloss": "cave, cavern, grotto",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπηλαιον": {
+   "gloss": "grotto",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπιθαμη": {
+   "gloss": "span, also as a fixed measure",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπιλοσ": {
+   "gloss": "rock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπινθηρ": {
+   "gloss": "spark",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπογγοσ": {
+   "gloss": "sponge",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σποδοσ": {
+   "gloss": "wood ashes, ember",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπολασ": {
+   "gloss": "leather garment",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπυραθοσ": {
+   "gloss": "droppings of goats and sheep",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σπυρισ": {
+   "gloss": "A large basket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σταφυλη": {
+   "gloss": "bunch of grapes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σταχυσ": {
+   "gloss": "an ear of grain",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στεμφυλον": {
+   "gloss": "mass of olives",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στιλβω": {
+   "gloss": "to shine, glitter",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στλεγγισ": {
+   "gloss": "strigil scraper to remove oil and dirt",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στονυξ": {
+   "gloss": "sharp point, as of a rock",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στορθυγξ": {
+   "gloss": "point, spike",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στραγξ": {
+   "gloss": "trickle, (squeezed-out) drop",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στρεβλοσ": {
+   "gloss": "twisted",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στρεφω": {
+   "gloss": "to twist",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στροβοσ": {
+   "gloss": "whirl",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στρογγυλοσ": {
+   "gloss": "spherical, round",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στρουθοσ": {
+   "gloss": "house sparrow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στυποσ": {
+   "gloss": "stem, stump, block",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:στυραξ": {
+   "gloss": "storax tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:συκον": {
+   "gloss": "fig, the fruit of the συκῆ",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:συριγξ": {
+   "gloss": "pan pipes",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:συφαρ": {
+   "gloss": "piece of old or wrinkled skin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφαζω": {
+   "gloss": "to slay, slaughter, cut the throat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφελασ": {
+   "gloss": "footstool",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφενδαμνοσ": {
+   "gloss": "Montpelier maple",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφενδονη": {
+   "gloss": "a sling",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφηξ": {
+   "gloss": "wasp",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφιγγω": {
+   "gloss": "to bind tight, tie fast",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφιγξ": {
+   "gloss": "Sphinx, sphinx",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφονδυλοσ": {
+   "gloss": "vertebra (especially the cervical vertebrae)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σφραγισ": {
+   "gloss": "seal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σχαλισ": {
+   "gloss": "forked stick used as a prop for nets",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σχελισ": {
+   "gloss": "ribs of beef",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σχινοσ": {
+   "gloss": "lentisk",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σχοινοσ": {
+   "gloss": "rush, especially",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σωλην": {
+   "gloss": "channel, gutter, pipe",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:σωρι": {
+   "gloss": "melanterite",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταγηνον": {
+   "gloss": "frying pan",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταγχουροσ": {
+   "gloss": "gold",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταμισοσ": {
+   "gloss": "rennet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταπεινοσ": {
+   "gloss": "low",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταπησ": {
+   "gloss": "carpet, rug, mat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταργανον": {
+   "gloss": "vinegar",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταριχοσ": {
+   "gloss": "dead body preserved by embalming, mummy",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταρπη": {
+   "gloss": "large wicker basket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ταρχυω": {
+   "gloss": "to bury solemnly",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τενδω": {
+   "gloss": "to gnaw",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τενθησ": {
+   "gloss": "glutton, gourmand",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τεραμνον": {
+   "gloss": "chamber",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τερμινθοσ": {
+   "gloss": "terebinth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τερχνοσ": {
+   "gloss": "young shoot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τευτλον": {
+   "gloss": "beet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τηβεννα": {
+   "gloss": "garment of a distinguished person similar to a toga",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τηθεα": {
+   "gloss": "sea squirt (tunicate of the class )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τηλια": {
+   "gloss": "board or table with a raised rim or edge",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τιβην": {
+   "gloss": "tripod, three-legged cauldron",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τιθυμαλλοσ": {
+   "gloss": "petty spurge, milkweed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τιθωνοσ": {
+   "gloss": "Tithonos, Tithonus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τινθοσ": {
+   "gloss": "boiling hot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τιρυνσ": {
+   "gloss": "Tiryns",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τιτανοσ": {
+   "gloss": "chalk",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τιτρωσκω": {
+   "gloss": "to harm",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τιτυροσ": {
+   "gloss": "satyr",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τολυπη": {
+   "gloss": "clew, ball of wool ready for spinning",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τοπαζοσ": {
+   "gloss": "gem of green hue, probably chrysolite or peridot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τοπειον": {
+   "gloss": "rope, cord",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τορυνη": {
+   "gloss": "stirrer, ladle for stirring things while boiling",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τραυλοσ": {
+   "gloss": "mispronouncing letters, stammering, lisping",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τραυξανα": {
+   "gloss": "dry chips, waste that falls from the manger",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τραφηξ": {
+   "gloss": "beam in framework of helepolis",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τραχηλοσ": {
+   "gloss": "neck",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τρεφω": {
+   "gloss": "to make to grow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τριαινα": {
+   "gloss": "trident, the badge of Poseidon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τρυβλιον": {
+   "gloss": "kind of cup or bowl of unknown shape and size",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τρυξ": {
+   "gloss": "must wine not yet fermented",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τρωγω": {
+   "gloss": "to gnaw",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τρωξαλλισ": {
+   "gloss": "locust, grasshopper",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τυκοσ": {
+   "gloss": "instrument for stonework, mason's hammer or pick",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τυλη": {
+   "gloss": "swelling, callus",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τυραννοσ": {
+   "gloss": "absolute ruler",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:τυρβη": {
+   "gloss": "disorder, confusion, tumult",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υαλοσ": {
+   "gloss": "some kind of crystalline stone",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υβοσ": {
+   "gloss": "humpbacked, hunchbacked",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υβρισ": {
+   "gloss": "pride",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υδνον": {
+   "gloss": "truffle",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υπηνη": {
+   "gloss": "moustache, hair on the upper lip",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υραξ": {
+   "gloss": "shrewmouse (mammal of the family )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υριχοσ": {
+   "gloss": "wicker basket, handbasket",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υρχη": {
+   "gloss": "a jar for pickles or wine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υσγη": {
+   "gloss": "A shrub, probably the kermes oak",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υσκλοσ": {
+   "gloss": "the latchet or eyelet of a sandal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υσπληξ": {
+   "gloss": "snare or gin of a birdcatcher",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:υστριξ": {
+   "gloss": "porcupine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαγροσ": {
+   "gloss": "red porgy",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαιστοσ": {
+   "gloss": "Phaestum (a town in Crete, Greece)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φακελοσ": {
+   "gloss": "bundle, faggot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φακοσ": {
+   "gloss": "lentil and its seed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαλαγξ": {
+   "gloss": "line of battle, battle-array",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαλκησ": {
+   "gloss": "part of a ship, maybe the rib",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαλλαινα": {
+   "gloss": "whale",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαλοσ": {
+   "gloss": "crest of a helmet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαραγξ": {
+   "gloss": "ravine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαρκισ": {
+   "gloss": "wrinkle, crease in the skin",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαρμακον": {
+   "gloss": "drug (whether healing or noxious)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαροσ": {
+   "gloss": "large piece of cloth, web",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαρυγξ": {
+   "gloss": "throat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φασγανον": {
+   "gloss": "sword",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φασκωλοσ": {
+   "gloss": "wallet, scrip, leathern bag",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φασσα": {
+   "gloss": "wood pigeon",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φατνη": {
+   "gloss": "manger",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φαυλοσ": {
+   "gloss": "easy, slight",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φεναξ": {
+   "gloss": "cheat",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φηληξ": {
+   "gloss": "wild fig",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φηλοσ": {
+   "gloss": "deceitful",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φηνη": {
+   "gloss": "lammergeier, ossifrage",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φιαλη": {
+   "gloss": "round and shallow bowl, saucer, or pan",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φιαροσ": {
+   "gloss": "gleaming, shining, bright",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φιλυκη": {
+   "gloss": "alatern",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φιλυρα": {
+   "gloss": "linden, lime tree",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φλαυροσ": {
+   "gloss": "petty, paltry, trivial",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φλεδων": {
+   "gloss": "idle talker, babbler, chatterer",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φληναφοσ": {
+   "gloss": "idle talk, nonsense",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φλομοσ": {
+   "gloss": "mullein",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φλυκταινα": {
+   "gloss": "burn blister",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φοιταω": {
+   "gloss": "to go back and forth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φολισ": {
+   "gloss": "horny scale (opposed to λεπίς",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φολκοσ": {
+   "gloss": "epithet of , perhaps meaning bandy-legged",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φοξοσ": {
+   "gloss": "sharp, pointed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φορινη": {
+   "gloss": "hide of thick-skinned animals, especially of swine",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φορμιγξ": {
+   "gloss": "lyre",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φριξ": {
+   "gloss": "ruffling",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φρυνη": {
+   "gloss": "toad",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φυλαξ": {
+   "gloss": "guard",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φυλασσω": {
+   "gloss": "to watch, guard, protect, defend",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φυρω": {
+   "gloss": "to mix something dry with something wet",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φυσα": {
+   "gloss": "pair of bellows",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φωκη": {
+   "gloss": "seal marine animal",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:φωλεοσ": {
+   "gloss": "den, lair",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χαλαδριον": {
+   "gloss": "mat or pallet, low bed",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χαλινοσ": {
+   "gloss": "bridle, rein, bit",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χαρασσω": {
+   "gloss": "to sharpen",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χεδροπα": {
+   "gloss": "pulse, leguminous fruits",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χελιδων": {
+   "gloss": "the swallow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χεραδοσ": {
+   "gloss": "silt, debris, gravel and rubbish, brought down by torrents",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χηραμοσ": {
+   "gloss": "hole, cleft, slit, hollow",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χιδρον": {
+   "gloss": "unripe wheaten groats",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χοινιξ": {
+   "gloss": "choenix a dry measure for corn",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χοιροσ": {
+   "gloss": "a pig, especially a young",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:χολερα": {
+   "gloss": "cholera, a disease in which the humors",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψακασ": {
+   "gloss": "raindrop",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψαλισ": {
+   "gloss": "scissors, shears",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψαλλω": {
+   "gloss": "to touch sharply",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψεγω": {
+   "gloss": "to blame, chide",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψεδνοσ": {
+   "gloss": "thin, spare, scanty",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψελλοσ": {
+   "gloss": "faltering in speech, like a child",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψευδομαι": {
+   "gloss": "to lie, deceive",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψεφασ": {
+   "gloss": "gloom, darkness",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψηλαφαω": {
+   "gloss": "to feel or grope about to find a thing",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψην": {
+   "gloss": "gall wasp (insect of the family )",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψιαθοσ": {
+   "gloss": "mat made of rush used for sleeping",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψιασ": {
+   "gloss": "drop",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψιθιοσ": {
+   "gloss": "epithet of a kind of grape",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψιθυροσ": {
+   "gloss": "whispering, slanderous",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψιμυθοσ": {
+   "gloss": "white lead",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψιττακοσ": {
+   "gloss": "parrot",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψοθοσ": {
+   "gloss": "uncleanness, foulness",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψολοσ": {
+   "gloss": "soot, smoke",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψυδροσ": {
+   "gloss": "false, lying, untrue",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ψυθοσ": {
+   "gloss": "lie, untruth",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ωδισ": {
+   "gloss": "pangs or throes of childbirth (mostly in plural)",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ωκεανοσ": {
+   "gloss": "Oceanus, a Greek water god usually said to be a Titan",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ωκιμον": {
+   "gloss": "basil",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ωλιγγη": {
+   "gloss": "doze, short nap, short sleep",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ωμιλλα": {
+   "gloss": "game",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ωρυγγεσ": {
+   "gloss": "striped or piebald horses, including zebras",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  },
+  "pg:ωτειλη": {
+   "gloss": "wound, especially a fresh, open",
+   "url": "https://en.wiktionary.org/wiki/Category:Ancient_Greek_terms_derived_from_a_Pre-Greek_substrate"
+  }
+ }
+}

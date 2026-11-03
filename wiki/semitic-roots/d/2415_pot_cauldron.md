@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2415_pot_cauldron
 title: "*dūd-: 'pot, cauldron'"
-desc: "Proto-Semitic *dūd-, 'pot, cauldron': reflexes in 4 language(s)."
+desc: "Proto-Semitic *dūd-, 'pot, cauldron': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2415"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | dd | SEDonline semet 244 |  |
 | Hebrew | dūd | SEDonline semet 244 |  |
 | Syrian Aramaic | dūd | SEDonline semet 2673 |  |
+| Aramaic | dwd (DNWSI 242) | DNWSI 242 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

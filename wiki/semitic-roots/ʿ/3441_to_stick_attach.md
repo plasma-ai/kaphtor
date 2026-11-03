@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ˁtk (DUL 191 apud SEDonline 1392) | DUL 191; SEDonline 1392 | gloss withheld |
+| Ugaritic | ˁtk (DULAT 188; SEDonline 1392) | DULAT 188; SEDonline 1392 | gloss withheld |
 | Arabic | ˁtk (Lane 1948 apud SEDonline 1392) | Lane 1948; SEDonline 1392 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

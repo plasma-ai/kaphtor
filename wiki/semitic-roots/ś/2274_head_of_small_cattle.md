@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ŝǟ (HALOT 1310), pB. \[Ja. 1526\] | HALOT 1310; Ja. 1526 | gloss withheld |
 | Epigraphic South Arabian | Sab. s2h \[SD 132\], a misreading (Sabaweb lemma 3148) | SD 132; Sabaweb lemma 3148 | gloss withheld |
 | Punic | š 'lamb' | Anderson–Moser 2024 root śy |  |
-| Pre-Islamic North Arabian | Safaitic śwt (Al-Jallad–Jaworska 127) | Al-Jallad–Jaworska 127 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śwt (Al-Jallad–Jaworska 127); ʾśh (pl.) (Al-Jallad 2026, 144) | Al-Jallad–Jaworska 127; Al-Jallad 2026 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

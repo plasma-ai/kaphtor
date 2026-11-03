@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_TA_RO
 title: "U-TA-RO"
 desc: "watru: additional, surplus, or excess (administrative heading). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+tags: ["linear-a", "word", "tier-2", "accounting", "adjective", "administrative", "hapax"]
 kind: "word"
 form: "U-TA-RO"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | additional, surplus, or excess (administrative heading) |
 | Root | w-t-r |
 | Proto-Semitic | \*wtr (#S92) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | accounting, adjective, administrative, hapax |
 | Semantic field | administrative |
 
 ### Note
 
-Hapax heading before the TE transaction sign on HT116a. U writes wa, RO a dead vowel: watr- 'surplus', Akk. watrum 'additional, in excess', watartum 'excess, surplus'. Rival: Heb. √ʿ-t-r 'entreat' (Gen 25:21; Judg 13:8), an agent noun \*ʿattār 'supplicant', unattested. See TE-RI.
+HT 116a: U-TA-RO · TE ·, the heading over six entries of grain, oil, olives and \*304 (KU-PA-JA, PU-RA₂, SI+SE, PI-\*34-TE, SI-KI-NE, QA-NU-MA). watru 'surplus', U writing wa and RO a dead vowel: Akk. watru 'in excess, additional' (CAD A/2 499), watartu 'excess, surplus' (CAD A/2 485; Huehnergard 1997, §10.1). Rival: Heb. √ʿ-t-r 'entreat' (Gen 25:21; Judg 13:8), an agent noun \*ʿattār 'supplicant', unattested. One attestation. See TE-RI.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Hapax heading before the TE transaction sign on HT116a. U writes wa, RO a dead v
 
 ### Source
 
-di Mino; Huehnergard 1997, §10.1; GlOS 2
+di Mino; CAD A/2; Huehnergard 1997; GlOS 2
 
 ## Attestations
 

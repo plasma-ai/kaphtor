@@ -51,12 +51,12 @@ Unicode (Linear A block):
 
 **no confidence given**, complete (status: complete).
 
-> Possible: "Life!—he saves!"
+> Living One!—Salvation!
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥayyā | possibly "Life!" (liturgical exclamation) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/J/JA_SI\|JA-SI]] | yašīʿ | he saves / Salvation (√y-š-ʿ) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥayyā | 'the Living One', title of the Goddess (√ḥ-y-y) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/J/JA_SI\|JA-SI]] | yašīʿ | Salvation (√y-š-ʿ) | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
