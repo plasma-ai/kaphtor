@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/170_excrement_dregs
 title: "*ḫVrʾ/y-: 'excrement, dregs'"
-desc: "Proto-Semitic *ḫVrʾ/y-, 'excrement, dregs': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ḫVrʾ/y-, 'excrement, dregs': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "170"
@@ -44,6 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥārē, ḥārayyā 'excrements' \[Ja 501\] | Ja 501 |  |
 | Syrian Aramaic | ḥerāyā 'excrement' \[Brock 253\]; ḥrʔ 'defecated' \[ibid.\] | Brock 253 |  |
 | Tigrinya | ḥarʔi 'human excrement' \[Bass. 44\] | Bass. 44 |  |
+| Emar | ḫu-ú-ru (SED II 340) | SED II 340 | gloss withheld |
+| Canaanite | EG SYLL ḫ=-r=ya, ḫa=ra=ya, ḫa=ri=ya, ḫa=ri, ḫar=ya, ḫar=ʾ /\*ḫarya, ḫariya/ (Hoch 232–233) | Hoch 232–233 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

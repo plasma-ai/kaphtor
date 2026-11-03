@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["A-TI-RU", "JA-PA", "JI-NU-MA-RE", "KA-DI", "SI-PI-KI"]
+words: ["A-TI-RU", "JA-PA", "JI-NU-MA-RE", "KA-DI", "QE-SI-ZU-E", "SI-PI-KI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -76,7 +76,7 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> \[…\] 5; JA-TO-JA\[…\] 3; ʿAttiru 4; Yapaʿu 1\[; \[?\]-TU-ME-SE 18; \[QE-SI-ZU-E unresolved\] 4; wine-stewards 13; pourings 5; must 50; jars 3. (Verso ZA4b: WINE 104.)
+> \[…\] 5; JA-TO-JA\[…\] 3; ʿAttiru 4; Yapaʿu 1\[; \[?\]-TU-ME-SE 18; gift for the Heroes 4; wine-stewards 13; pourings 5; must 50; jars 3. (Verso ZA4b: WINE 104.)
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/A/A_TI_RU\|A-TI-RU]] | ʿAttiru | personal name (ʿAṯtar theophoric), 4 units | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/J/JA_PA\|JA-PA]] | Yapaʿ(u) | personal name ('he shines'), 1+ unit | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/Q/q_TU_ME_SE_broken_start\|&#91;?&#93;-TU-ME-SE]] |  | unread, 18 units |  | unread |
-| [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] |  | unresolved, 4 units |  | unread |
+| [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] | qīši ṯuʿē | gift for the Heroes, 4 units; rival 'the noble's gift' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star28B_NU_MA_RE\|\*28B-NU-MA-RE]] | yīnu-mārē | wine-stewards (personnel category), 13 units | CANDIDATE |  |
 | [[wiki/linear-a/words/S/SI_PI_KI\|SI-PI-KI]] | šipkī | pourings (libation portions), 5 units | CANDIDATE | CANDIDATE (lexicon) |
 | E-\*82 | ʿasī(s) | must, new wine—the bulk lot, 50 units | SPECULATIVE |  |
@@ -94,7 +94,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: LM IB clay tablet (HM 1615+2 frr., Platon 1963), ZA Scribe 1. Recto: damaged opening, then a three-name Semitic roster with small allocations, then a commodity block of wine forms and vessels. Verso (ZA4b) reads VIN 104—visible recto numerals sum to 106 with two damaged numerals inside the margin, framing every entry as wine-denominated. Vocabulary trio QE-SI-ZU-E / \*28B-NU-MA-RE / SI-PI-KI shared with ZA15a (explicit VIN carrier).
+Context: LM IB clay tablet (HM 1615+2 frr., found by N. Platon in 1963; GORILA III, XIII), ZA Scribe 1. Recto: damaged opening, then a three-name Semitic roster with small allocations, then a commodity block of wine forms and vessels. Verso (ZA4b) reads VIN 104—visible recto numerals sum to 106 with two damaged numerals inside the margin, framing every entry as wine-denominated. Vocabulary trio QE-SI-ZU-E / \*28B-NU-MA-RE / SI-PI-KI shared with ZA15a (explicit VIN carrier).
 
 ### Source
 
@@ -102,7 +102,7 @@ di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_TI_RU|A-TI-RU]], [[wiki/linear-a/words/J/JA_PA|JA-PA]], [[wiki/linear-a/words/J/JI_NU_MA_RE|JI-NU-MA-RE]], [[wiki/linear-a/words/K/KA_DI|KA-DI]], [[wiki/linear-a/words/S/SI_PI_KI|SI-PI-KI]].
+[[wiki/linear-a/words/A/A_TI_RU|A-TI-RU]], [[wiki/linear-a/words/J/JA_PA|JA-PA]], [[wiki/linear-a/words/J/JI_NU_MA_RE|JI-NU-MA-RE]], [[wiki/linear-a/words/K/KA_DI|KA-DI]], [[wiki/linear-a/words/Q/QE_SI_ZU_E|QE-SI-ZU-E]], [[wiki/linear-a/words/S/SI_PI_KI|SI-PI-KI]].
 
 ## Corpus note
 

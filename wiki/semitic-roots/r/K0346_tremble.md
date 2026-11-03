@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | rgz (HALOT 1182) | HALOT 1182 |  |
 | Arabic | rajaza (HALOT 1182) | HALOT 1182 |  |
 | Syrian Aramaic | rgez 'be wroth, angry; provoke to anger' (Payne Smith 528) | Payne Smith 528 |  |
-| Aramaic | rgz (T 302) | T 302 |  |
+| Aramaic | rgz (T 302); rgz (DNWSI 1059) | T 302; DNWSI 1059 | gloss withheld |
 | Mandaic Aramaic | rgz (T 302) | T 302 |  |
 | Biblical Aramaic | rgz (Kogan 2015, ch. 6 §8.1.3.1 no. 3) | Kogan 2015 ch. 6 §8.1.3.1 no. 3 | gloss withheld |
 

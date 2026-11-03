@@ -30,7 +30,8 @@ Each item in `words`:
 | Field | Content |
 | --- | --- |
 | `linear_a` | the sign group |
-| `reading`, `reading_type` | phonetic reconstruction; `reading_type` marks the other kinds (IDEOGRAM, NUMERAL, OPAQUE, FRAGMENT) |
+| `restored` | the sign group as restored, where signs are lost or the scribe erred: `[ ]` restores a lost sign, `{ }` marks one written in error (PK Za 12) |
+| `reading`, `reading_type` | phonetic reconstruction; `reading_type` marks the other kinds (IDEOGRAM, LOGOGRAM, NUMERAL, OPAQUE, FRAGMENT, UNRESOLVED, UNKNOWN) |
 | `gloss`, `meaning`, `translation` | English sense |
 | `root`, `layer`, `morphology`, `dialect_variant_of`, `isogloss` | analysis, where given |
 | `position`, `quantity` | place in the text and the number it carries, on accounts |

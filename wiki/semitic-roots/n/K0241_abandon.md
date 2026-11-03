@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0241_abandon
 title: "*nVṭVš-: 'abandon'"
-desc: "Proto-Semitic *nVṭVš-, 'abandon': reflexes in 5 language(s)."
+desc: "Proto-Semitic *nVṭVš-, 'abandon': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0241"
@@ -32,7 +32,6 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | NṬŠ (Aramaic Root Atlas; CAL s.v. nṭš) | Aramaic Root Atlas; CAL s.v. nṭš; Anderson–Moser 2024 root nṭš | gloss withheld |
 | Hebrew | naṭaš 'leave' (BDB 643) | BDB 643 |  |
 | Judaic Aramaic | nṭš (HALOT 695; DJPA 349a apud CAL) | HALOT 695; DJPA 349a; CAL |  |
-| Akkadian | naṭāšu (HALOT 695) | HALOT 695 |  |
 | Epigraphic South Arabian | Sab nṭs₂ (Biella 303) (Sabaweb lemma 8411) | Biella 303; Sabaweb lemma 8411 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

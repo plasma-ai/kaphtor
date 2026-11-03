@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/O/OLE_plus_DI
 title: "OLE+DI"
-desc: "dišpu: DI-oil subtype; perhaps honeyed oil. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+desc: "dišpu: honeyed oil (DI for dišpu 'honey'). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "ligature", "logogram", "oil"]
 kind: "word"
 form: "OLE+DI"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | dišpu |
-| Meaning | DI-oil subtype; perhaps honeyed oil |
+| Meaning | honeyed oil (DI for dišpu 'honey') |
 | Root | d-š-p |
 | Proto-Semitic | \*dVbš- (#2737) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, foodstuff, ligature, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-OLE ideogram + DI adjunct: 12 tokens on 8 Haghia Triada tablets. Akkadian dišpu(m) and Hebrew dǝbaš mean 'honey,' so DI could abbreviate a honey-related modifier; Ugaritic normally uses nbt for honey. The corpus securely establishes an oil subtype, not the expansion dišpu or an exact ancient 'honey-oil' expression. Co-occurrence with OLE+MI is administrative evidence for distinct oil classes, not by itself proof of ritual use.
+OLE with the adjunct DI: 12 tokens on 8 Haghia Triada tablets, beside OLE+MI on HT 14, HT 28a, HT 90 and HT 116a, a distinct oil class. DI writes the di- of dišpu 'honey' (CAD D 161), Heb. dəbaš 'honey' (HALOT 213): honeyed oil. Ugaritic uses nbt for honey (DULAT 610). Weak point: one adjunct sign stands for the whole word. See OLE+MI.
 
 ### Cognates
 
@@ -61,7 +61,7 @@ di Mino
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT50b\|HT50b]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | Haghia Triada | Tablet | complete |

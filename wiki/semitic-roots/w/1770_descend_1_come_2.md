@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | wäräda (LGz. 617) | LGz. 617 |  |
 | Amorite | jrd: jīrid, jārid, mārid(ān)um (Gelb AS 21, 22); y-r-d 1: cf. ia-ri-du-um, i-ri-da-nu-um, ma-ri-du-nu-um (Sanmartín GlOS 2, 353) | Gelb AS 21 22; Sanmartín GlOS 2, 353 | gloss withheld |
 | Modern South Arabian | Bathari wərōd (Gasparini - Morris 2025 221 apud SEDonline 257) | SEDonline 257 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic wrd (Al-Jallad–Jaworska 141) | Al-Jallad–Jaworska 141 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wrd (Al-Jallad–Jaworska 141); wrdt 2 (Al-Jallad 2026, 168) | Al-Jallad–Jaworska 141; Al-Jallad 2026 168 | gloss withheld |
 | East Ethiopic | Sel. Wol. Zwy. wärädä (EDG 662 apud SEDonline 257) | EDG 662; SEDonline 257 | gloss withheld |
 | Emar | ia-ar-da-ni, ia-ra-dá-a-ni /yardānu/, /yaradānu/ (Pentiuc 2001, 86–87) | Pentiuc 2001 86–87 | gloss withheld |
 | Eblaitic | u₉-li-da-am₆ /w-r-d/ 1 (Sanmartín GlOS 2, 353) | Sanmartín GlOS 2, 353 | gloss withheld |

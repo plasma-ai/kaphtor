@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/1646_red_black
 title: "*saḥm-: 'red, black'"
-desc: "Proto-Semitic *saḥm-, 'red, black': reflexes in 4 language(s)."
+desc: "Proto-Semitic *saḥm-, 'red, black': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1646"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | sāmu |  |  |
 | Syrian Aramaic | šḥāmā (Kogan 2011, 199) | Kogan 2011 199 | gloss withheld |
 | Jibbali | šḥamúm (Kogan 2011, 199) | Kogan 2011 199 | gloss withheld |
+| Eblaitic | sa-ma-ti, É.SI₄.AN = sa-ma-du sa-rí-im /Sāmt/ (Sanmartín GlOS 2, 210) | Sanmartín GlOS 2, 210 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

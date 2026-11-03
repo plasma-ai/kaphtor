@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | našʾa (HALOT 724) | HALOT 724 |  |
 | Tigre | nasʾa (HALOT 724) | HALOT 724 |  |
 | Amharic | našā (HALOT 724) | HALOT 724 |  |
-| Phoenician | nšʾ (HALOT 727) | HALOT 727 | gloss withheld |
+| Phoenician | nšʾ (HALOT 727); yšʾ (T 221) | HALOT 727; T 221 | gloss withheld |
 | Soqotri | miśiʾoḥ (LGz. 404) | LGz. 404 | gloss withheld |
 | Tigrinya | näsʾe (LGz. 404) | LGz. 404 |  |
 | Argobba | nässa (LGz. 404) | LGz. 404 |  |
@@ -54,6 +54,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Arabic nasaʾa 'to postpone', nasīʾ 'postponement' (Lane 2785–2786) belong to Hebrew nšʾ 'to lend' (HALOT 728). The noun 'rising clouds, mist' is 3637.
+The noun 'rising clouds, mist' is 3637.
 
 <!-- END kaphtor:record -->

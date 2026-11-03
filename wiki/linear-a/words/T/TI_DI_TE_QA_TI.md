@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TI_DI_TE_QA_TI
 title: "TI-DI-TE-QA-TI"
 desc: "tidī teqaʿti: 'fix it, you have fastened it' (of the pin); rival Tidiʿ-Teqaʿt, personal name 'Teqaʿt knows', after one of the Kotharat. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "verb"]
 kind: "word"
 form: "TI-DI-TE-QA-TI"
 datasets: ["lexicon"]
@@ -35,7 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | 'fix it, you have fastened it' (of the pin); rival Tidiʿ-Teqaʿt, personal name 'Teqaʿt knows', after one of the Kotharat |
 | Root | w-t-d + t-q-ʿ |
 | Proto-Semitic | \*watid- (#3082) + \*ṭVqVʿ- (#K0842) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | compound, hapax, verb |
 | Semantic field | verbal |
 
 ### Note

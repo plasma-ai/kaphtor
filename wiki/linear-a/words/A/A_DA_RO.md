@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_DA_RO
 title: "A-DA-RO"
 desc: "ʾAddar: Addar, 'Mighty' (personal name). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-DA-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Addar, 'Mighty' (personal name) |
 | Root | ʾ-d-r |
 | Proto-Semitic | \*ʾaddīr- (#1340) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tikk- 1 |  |  |
+| Akkadian | tikk- 1 (AHw 1357) | AHw 1357 |  |
 | Hebrew | (?) tǝnūk 2 |  |  |
 | Syrian Aramaic | tᵉnak (HALOT 1761) | HALOT 1761 |  |
 

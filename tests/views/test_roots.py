@@ -51,6 +51,15 @@ def test_a_project_root_names_no_sed_entry(tmp_path):
     assert "SEDonline" not in text and "| Basis | project |" in text
 
 
+def test_a_root_page_lists_the_pre_greek_words_hand_review_ties_to_it(tmp_path):
+    words = {"1": [("wiki/pre-greek/β/βαιτυλοσ", "βαίτυλος")]}
+    pages = roots.pages(folder(tmp_path), words)
+    assert ("## Pre-Greek words\n\nHand review ties these words of the Pre-Greek lexicon to this root: "
+            "[[wiki/pre-greek/β/βαιτυλοσ|βαίτυλος]].") in pages["wiki/semitic-roots/b/1_house"]
+    assert "Pre-Greek" not in pages["wiki/semitic-roots/ʿ/S2_to_help_aid"]
+    assert roots.pages(folder(tmp_path)) == roots.pages(folder(tmp_path), {})
+
+
 def test_each_radical_folder_has_a_desc(tmp_path):
     assert roots.descs(folder(tmp_path)) == {
         "wiki/semitic-roots/b": "Semitic roots whose first radical is b.",

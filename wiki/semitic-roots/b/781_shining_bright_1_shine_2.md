@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | bhr \[a\]; bahara 'it shone, or shone brightly' 2 (Lane 265) | Lane 265 |  |
 | Mandaic Aramaic | bhʔr 1 |  |  |
-| Hebrew | bāhīr 1, bhr 2 |  |  |
+| Hebrew | bāhīr 1 |  |  |
 | Aramaic | (Palest) ša-bhar 2 |  |  |
 | Syrian Aramaic | (ša)bhar (LGz. 103) | LGz. 103 | gloss withheld |
 | Harari | zənāb bāra (LGz. 103) | LGz. 103 | gloss withheld |

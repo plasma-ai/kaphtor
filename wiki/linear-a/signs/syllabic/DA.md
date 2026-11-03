@@ -47,13 +47,15 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
+| [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | ha-dāhari | CANDIDATE |
+| [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RA\|A-DA-RA]] | ʾadra | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MI_DA_U\|A-MI-DA-U]] | ʿAmmī-dāʿ(u) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ṣadaqa | CANDIDATE |
+| [[wiki/linear-a/words/A/A_RU_DA_RA\|A-RU-DA-RA]] | Arum-adal | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] | ʾaṣdaqa | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] | ʾAšdōdī | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | CANDIDATE |
@@ -67,11 +69,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | PROBABLE |
 | [[wiki/linear-a/words/D/DA_MA_TE\|DA-MA-TE]] | damat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_ME\|DA-ME]] | damu | SPECULATIVE |
-| [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Dimenu | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] | Ḏā-Mīnu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_NA_SI\|DA-NA-SI]] | Ḏā-Naśiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_NA_TU\|DA-NA-TU]] | dānatu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_NE_KU_TI\|DA-NE-KU-TI]] | Ḏā-naquddi | SPECULATIVE |
-| [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | diḳaru | CANDIDATE |
+| [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_RU_star329\|DA-RU-\*329]] | Dārum | SPECULATIVE |
@@ -79,30 +81,33 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_SE_RA_TE\|DA-SE-RA-TE]] | Dašurat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_TA_RA\|DA-TA-RA]] | Daṯar | SPECULATIVE |
+| [[wiki/linear-a/words/D/DA_TU\|DA-TU]] | ḏātu | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] | dawmi | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_DA_MA\|DU-DA-MA]] | Dūdāma | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_DA\|I-DA-DA]] | dādā | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidamat | CANDIDATE |
+| [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidmat | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | ʾIda=mi | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
-| [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | yadaʿšu | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_DA_SU\|JA-DA-SU]] | Yadaʿ-Šum | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_DA_RO\|KI-DA-RO]] | Qidaru | PROBABLE |
-| [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] |  | SPECULATIVE |
+| [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] | Kidata | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_DA\|KU-DA]] | Gūda | SPECULATIVE |
 | [[wiki/linear-a/words/K/KU_KU_DA_RA\|KU-KU-DA-RA]] | Kukkadal | SPECULATIVE |
-| [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | matni | SPECULATIVE |
+| [[wiki/linear-a/words/M/MI_DA_NI\|MI-DA-NI]] | mitāni | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_DA_RU_RA\|MI-DA-RU-RA]] | midrara | CANDIDATE |
 | [[wiki/linear-a/words/N/NA_DA_RE\|NA-DA-RE]] | Nadr | PROBABLE |
 | [[wiki/linear-a/words/P/PA_TA_DA\|PA-TA-DA]] | Patada | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_QA_DA\|QA-QA-DA]] | qaqqadu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_DA_TE\|QA-TI-DA-TE]] | Kati-tati | SPECULATIVE |
+| [[wiki/linear-a/words/R/RI_DA_U\|RI-DA-U]] | Ridāyu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | CANDIDATE |
-| [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | siddāru | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | Siddāri | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_TE\|SI-DA-TE]] | ṣēdat | SPECULATIVE |
-| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_PA_DI_DA\|TU-PA-DI-DA]] | ṭūb-dida | SPECULATIVE |
 
 <!-- END kaphtor:record -->

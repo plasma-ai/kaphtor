@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/S36_to_judge_govern_1_judgment_legal_case_2_judge_3
 title: "*dyn-: 'to judge, govern' 1, 'judgment, legal case' 2, 'judge' 3"
-desc: "Proto-Semitic *dyn-, 'to judge, govern' 1, 'judgment, legal case' 2, 'judge' 3: reflexes in 17 language(s)."
+desc: "Proto-Semitic *dyn-, 'to judge, govern' 1, 'judgment, legal case' 2, 'judge' 3: reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S36"
@@ -46,6 +46,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | dān 'judge; plead, contend' (Payne Smith 86) | Payne Smith 86 |  |
 | East Ethiopic | Wol. daññä, Zwy. dāñña (EDG 216 apud SEDonline 1991) | EDG 216; SEDonline 1991 | gloss withheld |
 | Eblaitic | da-ne-u\[m\] /daynim/ (gen.), in ba-da-gu da-ne-u\[m\] (VE 1327; Krebernik 1983, 43); /d-y-n/ 1, 3: names i-da-nu, ti-ti-na/nu; cf. i-da-i-nu (Sanmartín GlOS 1, 155) | VE 1327; Krebernik 1983, 43; Sanmartín GlOS 1, 155 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mdnt (Al-Jallad 2026, 36) | Al-Jallad 2026 36 | gloss withheld |
+| Biblical Aramaic | dyn 1 (HALOT 220); dīn 2 (HALOT 220); \*dayyān 3 (HALOT 220) | HALOT 220 | gloss withheld |
+| Aramaic | dyn (DNWSI 246); dn (DNWSI 254) | DNWSI 246; DNWSI 254 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

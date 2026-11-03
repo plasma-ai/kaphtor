@@ -40,10 +40,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 122b .2 \*306-KI-TA₂ 7, at the head of the line, the left edge whole beside \*306 (GORILA I 208–209). No reading.
 
 ### Co-occurring lexicon words
 

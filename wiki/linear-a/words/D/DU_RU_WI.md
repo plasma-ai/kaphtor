@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU_RU_WI
 title: "DU-RU-WI"
 desc: "ḏu-luwwī: the Levite (ethnonymic designation). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ethnonymic"]
+tags: ["linear-a", "word", "tier-2", "compound", "gentilic", "hapax", "personal_name"]
 kind: "word"
 form: "DU-RU-WI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the Levite (ethnonymic designation) |
 | Root | ḏ + l-w-y |
 | Proto-Semitic | \*ḏī- (#K0877) + \*lVwVy- (#398) |
-| Language layer | NWS |
-| Category | ethnonymic |
+| Language layer | Semitic |
+| Tags | compound, gentilic, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 25a .4, at the end of the line after ZU-JU-PU₂ 1, with no numeral. WI is complete at the preserved right edge, and .5 opens with I-KI-RA 1. The scribe carries DI-NA-U's 1 from .2 to .3, so DU-RU-WI-I-KI-RA may be one name. DU = ḏu 'the one of' + RU-WI /luwwī/ 'joined', with the u of the D-stem of l-w-y 'to accompany': Ebla lu-wu, lu-a (GlOS 2, 19); cf. Gen 29:34 yillāweh 'will be joined'. U-RE-WI on the same tablet writes the e of Hebrew lēwî; the names lāwiy, lawuy (GlOS 2, 19) would need RA-WI. Niesiołowski-Spanò (2020) argues Levites = Mycenaean ra-wo (λαοί).
+HT 25a .4, at the end of the line after ZU-JU-PU₂ 1, with no numeral. WI is complete at the preserved right edge; .5 opens I-KI-RA 1 after the lost lower-left margin, where DU-RU-WI's 1 can stand, as DI-NA-U's 1 opens .3 (GORILA I 44–45); the break leaves unconfirmed whether a divider followed it. DU writes ḏu 'the one of', and RU-WI luwwī 'joined', with the u of the D-stem of l-w-y 'to accompany': Ebla lu-wu, lu-a (GlOS 2, 19); cf. Gen 29:34 yillāweh 'will be joined'. U-RE-WI on the same tablet writes the e of Hebrew lēwî; the names lāwiy, lawuy (GlOS 2, 19) would need RA-WI. Rival: DU-RU-WI-I-KI-RA as one name. Niesiołowski-Spanò derives the Levites from Mycenaean ra-wo, λαοί (2020, 444–452).
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 25a .4, at the end of the line after ZU-JU-PU₂ 1, with no numeral. WI is co
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; Niesiołowski-Spanò 2020
 
 ## Attestations
 
@@ -72,8 +72,8 @@ di Mino; GlOS 2
 
 | Field | Value |
 |---|---|
-| Type | gentilic (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | gentilic (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/K0422_beneath
 title: "*tVḥVt-: 'beneath'"
-desc: "Proto-Semitic *tVḥVt-, 'beneath': reflexes in 18 language(s)."
+desc: "Proto-Semitic *tVḥVt-, 'beneath': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0422"
@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | taḥtu, taḥtun (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
 | Arabic | taḥt 'beneath, under' (Lane 298) | Lane 298 |  |
 | Geez | tāḥta (Kogan 2015, ch. 2 §5.2.2.1 no. 34) | Kogan 2015 ch. 2 §5.2.2.1 no. 34 | gloss withheld |
-| Hebrew | taḥat (Kogan 2015, ch. 2 §5.2.2.1 no. 34) | Kogan 2015 ch. 2 §5.2.2.1 no. 34 | gloss withheld |
+| Hebrew | taḥat (Kogan 2015, ch. 2 §5.2.2.1 no. 34); tḥtnm (DNWSI 1211) | Kogan 2015 ch. 2 §5.2.2.1 no. 34; DNWSI 1211 | gloss withheld |
 | Syrian Aramaic | tḥot (Kogan 2015, ch. 2 §5.2.2.1 no. 34) | Kogan 2015 ch. 2 §5.2.2.1 no. 34 | gloss withheld |
 | Ugaritic | tḥt (Kogan 2015, ch. 2 §5.2.2.1 no. 34) | Kogan 2015 ch. 2 §5.2.2.1 no. 34 | gloss withheld |
 | Gurage | Cha. Ezha Gye. Muh. tät, End. taˀaččä/taˀačče, Enn. taˀačä, Msq. tätte, Sod. tatä (EDG 604 apud SEDonline 255) | EDG 604; SEDonline 255 | gloss withheld |
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Mandaic Aramaic | tit (T 338) | T 338 |  |
 | Biblical Aramaic | teḥōt (T 338) | T 338 |  |
 | Judaic Aramaic | teḥōt (T 338) | T 338 |  |
+| Aramaic | tḥty (DNWSI 1211); tḥtyh (DNWSI 1211); tḥtn (DNWSI 1211) | DNWSI 1211 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

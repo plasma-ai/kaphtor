@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RE_TU_MI
 title: "A-RE-TU-MI"
 desc: "ʾarṣ̂-ummī: Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "compound", "fragmentary", "hapax", "personal_name"]
 kind: "word"
 form: "A-RE-TU-MI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Earth is my mother (NWS theophoric compound PN; pre-Greek Artemis) |
 | Root | ʾ-r-ṣ̂ + ʾ-m-m |
 | Proto-Semitic | \*ʾar(V)ṣ̂- (#768) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, fragmentary, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA7a (Zakros stone vessel allocation): U-JU 5 · A-RA-TU 4 · A-RE-TU-MI \[broken\]. Parse ʾarṣ̂-ummī 'Earth is my mother': √ʾ-r-ṣ̂ 'earth' + ʾummī 'my mother'. Spelling: A = /ʾa/, RE = /r(e)/, TU = /ṣu/ (T-series writes emphatic ṣ, as TE = /ṣe/ in TA-NA-RA-TE-U-TI-NU √r-ṣ-y; glottal of ʾummī elided in sandhi), MI = /mmī/ (gemination unmarked). Open point: the RE vowel—A-RA-TU on the same tablet writes A-RA-. X-ummī sentence names are productive (Mari Eštar-ummī, ARM 23 610:7; Ugaritic Anati-umme, RS 14.16:7). Variant grid, slot 2 (TU's vowel) unstable, slots 1 and 3 stable: LB a-te-mi-to / a-ti-mi-te (e/i; r omitted per LB orthography); Greek Ἄρτεμις / West Greek Ἄρταμις (Cretan has Ἄρτεμις) / Pamphylian Ἀρτιμι-; Etruscan Artumes (oldest), Artam\[e\]s, Aritimi, gen. Artmsl; Lydian Artimuś and Aramaic (Letoon) ʾrtmwš; Lycian Ertẽmi; Carian ŕtmi. Beekes explains such e/i, e/a scatter as adaptation from an a/i/u vowel system—the Semitic triangle (Beekes 2014, 8, 25). The u stays beside the m outside Greek: before it in TU-MI and Etruscan Artumes, after it in Lydian Artimuś and ʾrtmwš (vowel metathesis across the labial, or a Lydian stem vowel). Greek -is/-it- is the nominative and t-stem added to the borrowed -mi. See A-RA-TU-ME.
+ZA 7a: U-JU 5, A-RA-TU 4, A-RE-TU-MI; MI opens line 3, which runs on into the break, so words or a number may have followed it. ʾarṣ̂-ummī 'Earth is my mother': √ʾ-r-ṣ̂ 'earth', Heb. ʾereṣ, Ug. arṣ, Akk. erṣetu (HALOT 90), with ʾummī 'my mother', its glottal elided in sandhi. TU writes ṣu, as TE writes ṣe in TA-NA-RA-TE-U-TI-NU, and MI writes mmī, the geminate unmarked. Cf. the sentence names Mari Eštar-ummī (ARM 23 610:7) and Ugaritic Anati-umme (RS 14.16:7). Cf. Artemis, LB a-te-mi-to and a-ti-mi-te, Greek Ἄρτεμις and West Greek Ἄρταμις, a scatter Beekes explains as adaptation from an a/i/u vowel system (Beekes 2014, 8, 25). RE has the e of Akk. erṣetu and Heb. ʾereṣ (#768), where A-RA-TU on the same tablet writes A-RA-. Weak point: the tablet breaks after MI, so the word can run on. One attestation. See A-RA-TU-ME.
 
 ### Cognates
 
@@ -57,7 +57,7 @@ ZA7a (Zakros stone vessel allocation): U-JU 5 · A-RA-TU 4 · A-RE-TU-MI \[broke
 
 ### Source
 
-di Mino
+di Mino; HALOT; Beekes 2014
 
 ## Attestations
 
@@ -75,8 +75,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

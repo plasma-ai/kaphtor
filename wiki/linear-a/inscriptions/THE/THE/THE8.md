@@ -40,6 +40,6 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. RO-A559-A534C 200
+1. RO-\*559-\*534c 200
 
 <!-- END kaphtor:record -->

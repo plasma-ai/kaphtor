@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personnel entry, logogram with JU.
 
-HT 119 .4–5 \*327-JU 8, whole and undotted, after \*306-TU 2 and before KU-RO 160 (GORILA I 203). \*327 heads the tablet as a logogram with 34 (.1) and has no syllabic value. HT 97a counts \*327 33 and JU 15 as separate entries: \*327-JU joins the two categories, as VIR+KA qualifies VIR on the same tablet. Not a name. No reading.
+HT 119 .4–5 \*327-JU 8, whole and undotted, after \*306-TU 2 and before KU-RO 160 (GORILA I 203). \*327 heads the tablet as a logogram with 34 (.1) and has no syllabic value. HT 97a counts \*327 33 and JU 15 as separate entries: \*327-JU joins the two categories, as VIR+KA qualifies VIR on the same tablet. Not a word.
 
 <!-- END kaphtor:record -->

@@ -1,0 +1,186 @@
+{
+  "title": "Break check",
+  "tabs": [
+    {
+      "id": "hold",
+      "title": "Hold list",
+      "items": [
+        {
+          "word": "*21F-JA-DU",
+          "keys": [
+            "HT84"
+          ]
+        },
+        {
+          "word": "NU-TI",
+          "keys": [
+            "HT84",
+            "ZA9"
+          ]
+        },
+        {
+          "word": "A-DI-KI-TE",
+          "keys": [
+            "PKZa12"
+          ]
+        },
+        {
+          "word": "A-MA-RA-NE",
+          "keys": [
+            "SKZb1"
+          ]
+        },
+        {
+          "word": "A-NA-NU-SI-JA-SE",
+          "keys": [
+            "HTZb159"
+          ]
+        },
+        {
+          "word": "A-RE-TU-MI",
+          "keys": [
+            "ZA7a"
+          ]
+        },
+        {
+          "word": "DU-RU-WI",
+          "keys": [
+            "HT25a"
+          ]
+        },
+        {
+          "word": "I-KI-RA",
+          "keys": [
+            "HT25a"
+          ]
+        },
+        {
+          "word": "I-MI-SA-RA",
+          "keys": [
+            "HT27a"
+          ]
+        },
+        {
+          "word": "JA-MA-U-TI",
+          "keys": [
+            "MA2c"
+          ]
+        },
+        {
+          "word": "KA-TA-RE",
+          "keys": [
+            "KH41"
+          ]
+        },
+        {
+          "word": "MI-TA",
+          "keys": [
+            "HT128a"
+          ]
+        },
+        {
+          "word": "NA-TU-*301-NE",
+          "keys": [
+            "SKOZc1"
+          ]
+        },
+        {
+          "word": "PA-NA-TU",
+          "keys": [
+            "KH7b"
+          ]
+        },
+        {
+          "word": "PU₂-RE",
+          "keys": [
+            "PKZa28"
+          ]
+        },
+        {
+          "word": "PU₂-RE-JA",
+          "keys": [
+            "ZAZb34",
+            "PKZa16"
+          ]
+        },
+        {
+          "word": "SU-DU",
+          "keys": [
+            "HT42+59"
+          ]
+        },
+        {
+          "word": "RE-TU",
+          "keys": [
+            "HT42+59"
+          ]
+        },
+        {
+          "word": "RU-DI",
+          "keys": [
+            "ZAZb34",
+            "HT141"
+          ]
+        },
+        {
+          "word": "RU-PI-*305-MI",
+          "keys": [
+            "PE2"
+          ]
+        },
+        {
+          "word": "SA-MA-TI",
+          "keys": [
+            "HT39"
+          ]
+        },
+        {
+          "word": "A-TA-NA",
+          "keys": [
+            "ZA9"
+          ]
+        },
+        {
+          "word": "U-NA-KA",
+          "keys": [
+            "PKZa20"
+          ]
+        },
+        {
+          "word": "A-NA-TI-*301-WA-JA",
+          "keys": [
+            "IOZa8"
+          ]
+        }
+      ]
+    }
+  ],
+  "spans": {
+    "RU-PI-*305-MI|PE2": [
+      3,
+      9
+    ]
+  },
+  "rulings": {
+    "*21F-JA-DU": {
+      "outcome": "unread",
+      "kind": "unread",
+      "text": "A sign is lost after DU on HT 84 .1. Archived; unread as *21F-JA-DU[; out of the onomasticon; the corpus reads *21F-JA-DU[."
+    },
+    "NU-TI": {
+      "outcome": "unread",
+      "kind": "unread",
+      "text": "Broken before NU on both witnesses, ZA 9 .1 ]-NU-TI · and HT 84 .2 ]NU-TI. Archived; unread as ]-NU-TI; out of the onomasticon; HT 84 in the corpus reads ]-NU-TI."
+    },
+    "A-MA-RA-NE": {
+      "outcome": "unread",
+      "kind": "unread",
+      "text": "Broken after NE on SK Zb 1. Archived; unread as A-MA-RA-NE-[; the corpus reads A-MA-RA-NE-[."
+    },
+    "A-NA-NU-SI-JA-SE": {
+      "outcome": "fine as it stands",
+      "kind": "keep",
+      "text": "Keeps its reading on HT Zb 159 (A-NA-NU Ḥanānu + SI-JA-SE); no unread record."
+    }
+  }
+}

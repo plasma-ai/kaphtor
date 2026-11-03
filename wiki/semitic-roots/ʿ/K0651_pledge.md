@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | ʿRB (Aramaic Root Atlas; CAL s.v. ʿrb#2) | Aramaic Root Atlas; CAL s.v. ʿrb#2; Anderson–Moser 2024 root ʿrb | gloss withheld |
 | Hebrew | ʿarab 'pledge' | Anderson–Moser 2024 root ʿrb |  |
 | Punic | N.Pu. ʿrb (T 257) | T 257 | gloss withheld |
-| Ugaritic | ʿrb 'give' | Anderson–Moser 2024 root ʿrb |  |
+| Ugaritic | ʿrb; /ʿur(r)ū̆b(b)ānu/ (UVST 162) | UVST 162; Anderson–Moser 2024 root ʿrb | gloss withheld |
 | Epigraphic South Arabian | Sab ʿrb (SD 18, 19; Biella 381, 382) (Sabaweb lemma 3811) | SD 18, 19; Biella 381, 382; Sabaweb lemma 3811 | gloss withheld |
 | Phoenician | ʿrb (HALOT 876) | HALOT 876 |  |
 | Syrian Aramaic | ʿrābā, ʿarrābūtā (HALOT 880; Payne Smith 427) | HALOT 880; Payne Smith 427 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/K0044_to_cease_to_be_idle_useless
 title: "*baṭāl-: 'to cease; to be idle, useless'"
-desc: "Proto-Semitic *baṭāl-, 'to cease; to be idle, useless': reflexes in 12 language(s)."
+desc: "Proto-Semitic *baṭāl-, 'to cease; to be idle, useless': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0044"
@@ -30,17 +30,19 @@ updated: 2026-10-26T17:41:55Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | baṭālu 'cease' | Anderson–Moser 2024 root bṭl |  |
-| Aramaic | BṬL (Aramaic Root Atlas; CAL s.v. bṭl) | Aramaic Root Atlas; CAL s.v. bṭl; Anderson–Moser 2024 root bṭl | gloss withheld |
+| Aramaic | BṬL (Aramaic Root Atlas; CAL s.v. bṭl); bṭln (DNWSI 151) | Aramaic Root Atlas; CAL s.v. bṭl; DNWSI 151; Anderson–Moser 2024 root bṭl | gloss withheld |
 | Geez | baṭala 'useless' (Dillmann 04170) | Dillmann 04170; Anderson–Moser 2024 root bṭl |  |
 | Hebrew | baṭel 'cease' (BDB 105) | BDB 105; Anderson–Moser 2024 root bṭl |  |
 | Tigre | baṭ(a)la (HALOT 121) | HALOT 121 |  |
-| Epigraphic South Arabian | blṭ (HALOT 121) | HALOT 121 | gloss withheld |
+| Epigraphic South Arabian | blṭ (HALOT 121); bṭlt (SD 33) | HALOT 121; SD 33 | gloss withheld |
 | Jibbali | bṭol (LGz. 113) | LGz. 113 | gloss withheld |
 | Syrian Aramaic | bəṭel (LGz. 113); baṭṭāl (Payne Smith 42) | LGz. 113; Payne Smith 42 | gloss withheld |
 | Mandaic Aramaic | biṭil (LGz. 113) | LGz. 113 |  |
 | Amharic | bäṭṭälä (LGz. 113) | LGz. 113 | gloss withheld |
 | Harari | abäṭäla (LGz. 113) | LGz. 113 | gloss withheld |
 | Arabic | baṭala; baṭala (mina l-ʿamali) (Lane 218); baṭṭāl; bāṭil (Lane 219); baṭala (HALOT 121); baṭala (LGz. 113) | Lane 218; Lane 219; HALOT 121; LGz. 113 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bṭl (Al-Jallad 2026, 30) | Al-Jallad 2026 30 | gloss withheld |
+| Biblical Aramaic | bṭl; pa. (HALOT 121) | HALOT 121 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

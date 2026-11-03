@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | yly (DUL 963 apud SEDonline 1437) | DUL 963; SEDonline 1437 | gloss withheld |
+| Ugaritic | yly (DULAT 949; SEDonline 1437) | DULAT 949; SEDonline 1437 | gloss withheld |
 | Arabic | waliyy- (Lane 3061 apud SEDonline 1437) | Lane 3061; SEDonline 1437 | gloss withheld |
 | Epigraphic South Arabian | SAB wlyt (Kogan 2015, ch. 5 §3.2.1.1 no. 18) | Kogan 2015 ch. 5 §3.2.1.1 no. 18 | gloss withheld |
 

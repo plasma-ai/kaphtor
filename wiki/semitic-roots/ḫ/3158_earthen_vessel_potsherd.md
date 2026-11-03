@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3158_earthen_vessel_potsherd
 title: "*ḫaṣb-: 'earthen vessel, potsherd'"
-desc: "Proto-Semitic *ḫaṣb-, 'earthen vessel, potsherd': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫaṣb-, 'earthen vessel, potsherd': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3158"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ḫaṣbu (CAD Ḫ, 132) | CAD Ḫ, 132 | gloss withheld |
 | Syrian Aramaic | ḥeṣbā 'two-handled earthen wine-jar'; ḥeṣpā 'earthen vessel' (Payne Smith 154) | Payne Smith 154 |  |
+| Emar | ḫi-is-sí-pu, ḫi-sí-pí, ḫi-sí-pu /ḥissīpu/ (Pentiuc 2001, 68–69) | Pentiuc 2001 68–69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -9,7 +9,7 @@ site: "Arkhanes"
 support: "Tablet"
 period: ""
 translation: "complete"
-words: ["*131B", "*312", "*317", "GRA", "KI-NU"]
+words: ["*131B", "*317", "GRA", "KI-NU", "OLIV"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -74,7 +74,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> \[…\]-KA-NE—grain 1/6, olives 3 1/6, must 2, \[break\] 2, \*317 2. \[break\] Kīnu—grain 13, \[…\]TE 2, \*317 2, flax 2, \[…\]KU 3.
+> \[…\]-KA-NE—grain 1/6, olives 3 1/6, must 2, \[break\] 2, \*317 2. \[break\] Kīnu—grain 13, \[…\]TE 2, \*317 2, \*312 2, \[…\]KU 3.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/star/star317\|\*317]] |  | unresolved commodity logogram |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/K/KI_NU\|KI-NU]] | Kīnu | personal name ('the Just/True One') | CANDIDATE | CANDIDATE (lexicon) |
 | \]TE |  | broken before TE. Not readable. |  |  |
-| [[wiki/linear-a/words/star/star312\|\*312]] | KITNU | flax/linen | CANDIDATE | CANDIDATE (lexicon) |
+| \*312 |  | unidentified logogram, 2 |  |  |
 | \]KU |  | broken before KU. Not readable. |  |  |
 
 ### Notes
 
-Context: Ration allocation in two sections, headed by \]-KA-NE (the end of a broken word) and Kīnu, receiving grain, olives, must, flax, \]TE (broken before) and the unresolved commodity \*317. Parallels ARKH3b structure (two-recipient format). Biblical triad dāgān + tīrōš + yiṣhār (Deut 7:13) mirrored in GRA + \*131B + OLIV.  Arkhanes tablet. Two-section ration/offering allocation matching ARKH3b pattern. Section 1 (\]-KA-NE) lists small portions; Section 2 (Kīnu) lists larger allocations. Readings: KI-NU = Kīnu (√k-w-n), \*131B = TIRŌŠU (√t-r-š). The grain-olives-must triad parallels the biblical dāgān-tīrōš-yiṣhār offering pattern (Deut 7:13, 11:14).
+Context: Ration allocation in two sections, headed by \]-KA-NE (the end of a broken word) and Kīnu, receiving grain, olives, must, \*312, \]TE (broken before) and the unresolved commodity \*317. Parallels ARKH3b structure (two-recipient format). Biblical triad dāgān + tīrōš + yiṣhār (Deut 7:13) mirrored in GRA + \*131B + OLIV.  Arkhanes tablet. Two-section ration/offering allocation matching ARKH3b pattern. Section 1 (\]-KA-NE) lists small portions; Section 2 (Kīnu) lists larger allocations. Readings: KI-NU = Kīnu (√k-w-n), \*131B = TIRŌŠU (√t-r-š). The grain-olives-must triad parallels the biblical dāgān-tīrōš-yiṣhār offering pattern (Deut 7:13, 11:14).
 
 ### Source
 
@@ -98,7 +98,7 @@ Context: Ration allocation in two sections, headed by \]-KA-NE (the end of a bro
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/star/star312|\*312]], [[wiki/linear-a/words/star/star317|\*317]], [[wiki/linear-a/words/G/GRA|GRA]], [[wiki/linear-a/words/K/KI_NU|KI-NU]].
+[[wiki/linear-a/words/star/star131B|\*131B]], [[wiki/linear-a/words/star/star317|\*317]], [[wiki/linear-a/words/G/GRA|GRA]], [[wiki/linear-a/words/K/KI_NU|KI-NU]], [[wiki/linear-a/words/O/OLIV|OLIV]].
 
 ## Edition differences
 

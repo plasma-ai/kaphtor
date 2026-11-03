@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_KA_TA
 title: "A-KA-TA"
 desc: "ʾAkkata: personal name; compare Amorite ʾAkkatum. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "fragmentary", "hapax", "loanword", "personal_name"]
 kind: "word"
 form: "A-KA-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -33,8 +33,9 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾAkkata |
 | Meaning | personal name; compare Amorite ʾAkkatum |
-| Language layer | NWS |
-| Category | personal_name |
+| Root | ʾAkkata (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | fragmentary, hapax, loanword, personal_name |
 | Semantic field | personal_name |
 
 ### Note

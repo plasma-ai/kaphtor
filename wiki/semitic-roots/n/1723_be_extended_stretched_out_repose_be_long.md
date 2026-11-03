@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1723_be_extended_stretched_out_repose_be_long
 title: "*nVwVḫ-: 'be extended, stretched out, repose; be long'"
-desc: "Proto-Semitic *nVwVḫ-, 'be extended, stretched out, repose; be long': reflexes in 13 language(s)."
+desc: "Proto-Semitic *nVwVḫ-, 'be extended, stretched out, repose; be long': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1723"
@@ -39,7 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | nwḥ: nûaḥ qal; hif.; nīḥōaḥ (HALOT 679, 696) | HALOT 679, 696 | gloss withheld |
 | Syrian Aramaic | nwḥ 'to rest, cease' (Payne Smith 331); nīḥāʾīt 'gently, placidly, softly' (Payne Smith 338) | Payne Smith 331; Payne Smith 338 |  |
 | Tigrinya | näwwiḥ |  | gloss withheld |
-| Phoenician | nḥ (Krahmalkov 327); mnḥ (T 186) | Krahmalkov 327; T 186 | gloss withheld |
+| Punic | Neo-Punic mnḥt (Krahmalkov 295) | Krahmalkov 295 | gloss withheld |
+| Phoenician | nḥ (Krahmalkov 327); mnḥ (T 186); ynḥ (T 212); nḥt (T 213); mnḥt (Krahmalkov 295) | Krahmalkov 327; T 186; T 212; T 213; Krahmalkov 295 | gloss withheld |
 | Amorite | nwḫ: janūḫ, nāḫum, nīḫum, nīḫatum (Gelb AS 21, 28); tanūḫ (Buck 2019, 330) | Gelb AS 21 28; Buck 2019, 330 | gloss withheld |
 | Judaic Aramaic | nwḥ (HALOT 679) | HALOT 679 | gloss withheld |
 | Canaanite | nuḫti (HALOT 679) | HALOT 679 |  |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TA_SA_ZA
 title: "TA-SA-ZA"
 desc: "taḫsaz: she remembers. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "hapax", "verb"]
 kind: "word"
 form: "TA-SA-ZA"
 datasets: ["lexicon"]
@@ -35,7 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | she remembers |
 | Root | ḫ-s-s |
 | Proto-Semitic | \*ḫss (#3863) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | hapax, verb |
 | Semantic field | verbal |
 
 ### Note

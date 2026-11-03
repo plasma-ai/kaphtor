@@ -45,15 +45,18 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʾammāwāṣī | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SE_SI_NA\|A-SE-SI-NA]] | ḥašīšin | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] | ʾAšdōdī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_KI_RA\|A-SI-KI-RA]] | ha-Śikira | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_SI_SU_PO_A\|A-SI-SU-PO-A]] | ʾassuppōa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TU_RI_SI_TI\|A-TU-RI-SI-TI]] | ha-Turisīt | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_NA_SI\|DA-NA-SI]] | Ḏā-Naśiʾ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_SI_star118\|DA-SI-\*118]] | Ḏā-šiṭṭa | CANDIDATE |
-| [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | naḥāši | CANDIDATE |
+| [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | ʾenāš | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_SI\|I-SI]] | ʾiššê | SPECULATIVE |
@@ -65,19 +68,20 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/M/MA_SI_DU\|MA-SI-DU]] | maṣīdu | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_SI\|NA-SI]] | nasīʾ | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
-| [[wiki/linear-a/words/P/PA3_SI_MO\|PA₃-SI-MO]] | basimo | PROBABLE |
+| [[wiki/linear-a/words/P/PA3_SI_star47\|PA₃-SI-\*47]] | basīsa | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] | Bīt-kissi | SPECULATIVE |
-| [[wiki/linear-a/words/Q/QE_SI_TE\|QE-SI-TE]] | qašt | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_SI_TE\|QE-SI-TE]] | qešet | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] | qīši ṯuʿē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_MI_SI\|RI-MI-SI]] | Rimši | CANDIDATE |
 | [[wiki/linear-a/words/S/SI\|SI]] | šay | PROBABLE |
-| [[wiki/linear-a/words/S/SI_plus_SE\|SI+SE]] | Šapšu | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_plus_SE\|SI+SE]] | ṣiṣe | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_star516\|SI-\*516]] | si-SIPRU | CANDIDATE |
-| [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | siddāru | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | Siddāri | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_TE\|SI-DA-TE]] | ṣēdat | SPECULATIVE |
-| [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Sidiya/Šadiya | PROBABLE |
-| [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | ṣidqī-kummī | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Šadiya | PROBABLE |
+| [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_KA\|SI-KA]] | šikā | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_KA_IOZa6\|SI-KA (IOZa6)]] | šiqā | CANDIDATE |
@@ -91,6 +95,7 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/S/SI_TE\|SI-TE]] | Ṣīt | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_TE_TU\|SI-TE-TU]] | šetātu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_TU\|SI-TU]] | sūt | CANDIDATE |
+| [[wiki/linear-a/words/U/U_star34_SI\|U-\*34-SI]] | u-qīš | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_KA_NA_SI\|U-NA-KA-NA-SI]] | wannā kanāsī / winnā kanāsī | CONFIRMED |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_SI\|U-NA-RU-KA-NA-SI]] | wannā lū kanāsī | CANDIDATE |

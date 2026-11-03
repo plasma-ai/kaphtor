@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA
 title: "SA"
 desc: "śakaru: beer, strong drink—logographic abbreviation of *śakaru/*šikaru; commodity logogram, compounded with VIN. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "abbreviation", "beverage", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "SA"
 datasets: ["lexicon"]
@@ -34,14 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | śakaru |
 | Meaning | beer, strong drink—logographic abbreviation of \*śakaru/\*šikaru; commodity logogram, compounded with VIN |
 | Root | θ-k-r |
-| Proto-Semitic | \*škr (#3611) |
-| Language layer | NWS |
-| Category | commodity |
+| Proto-Semitic | \*šakār- (#K0519) |
+| Language layer | Semitic |
+| Tags | abbreviation, beverage, commodity, foodstuff, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-HT56a: paired with \*188 (buṭnu). Compound forms: VIN+SA (HT131b), SA-VIN (HT114b, ZA15a), a compounded beverage 'wine-beer' (cf. the yayin/šēkār doublet, Num 6:3, Isa 5:11). Akk. šikaru "barley beer", Heb. śēkār "strong drink", Arab. sakar. Rival 'flax': no Semitic flax word is /sa/-initial, and Linear B writes linen syllabically. On HT 27b SA n is paired with RE m (SA 4, RE 70 on one line), a transaction notation, not beer; no reading there.
+HT 56a: SA 11½ under the heading \*188 (buṭnu). Compound forms: VIN+SA (HT 131b), SA-VIN (HT 114b SA-VIN 9, ZA 15a), a compounded beverage 'wine-beer' (cf. the yayin/šēkār doublet, Num 6:3, Isa 5:11). Akk. šikaru 'beer (made from grain), fermented alcoholic beverage' (CAD Š/2 420), Heb. šēkār 'intoxicating drink' (HALOT 1501), Arab. sakar. On HT 27b SA n pairs with RE m (SA 1 RE 14, SA 4 RE 70\[, SA 4 RE \]40), a transaction notation, with no reading there.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT56a: paired with \*188 (buṭnu). Compound forms: VIN+SA (HT131b), SA-VIN (HT1
 
 ### Source
 
-di Mino
+di Mino; CAD Š/2; HALOT
 
 ## Attestations
 

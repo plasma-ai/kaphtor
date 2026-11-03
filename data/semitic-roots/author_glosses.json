@@ -1,0 +1,3341 @@
+{
+ "schema_version": 1,
+ "description": "The author's gloss of each Semitic root a Linear A Lexicon entry cites: the root's sense in di Mino's own words, read from its reflexes and the dictionaries cited. Keyed by semitic_roots id.",
+ "author": "di Mino",
+ "glosses": {
+  "S1": {
+   "gloss": "ruler, dignitary; to rule",
+   "sources": [
+    "HALOT 1199",
+    "HALOT 1210",
+    "Krahmalkov 442",
+    "T 303"
+   ]
+  },
+  "4": {
+   "gloss": "man, human being; people",
+   "sources": [
+    "BK 1, 61",
+    "CAD N/2 283",
+    "DULAT 81",
+    "Ricks 13",
+    "SD 6; LM 6"
+   ]
+  },
+  "K0007": {
+   "gloss": "in, at, among; with, by means of",
+   "sources": [
+    "AED 853 apud SEDonline 1106",
+    "Kogan 2015, ch. 2 §4.2 no. 9",
+    "MD 44",
+    "ML 40 apud SEDonline 1106",
+    "T 41–42",
+    "Tomback 1978:41 apud SEDonline 1106"
+   ]
+  },
+  "8": {
+   "gloss": "owner, lord, husband; to marry",
+   "sources": [
+    "BK 1, 144",
+    "CAD B 191",
+    "DULAT 203",
+    "HALOT 142, 143",
+    "LGz. 83-4",
+    "LH 292"
+   ]
+  },
+  "K0010": {
+   "gloss": "to exchange, substitute; separate",
+   "sources": [
+    "Aramaic Root Atlas; CAL s.v. bdl",
+    "BDB 95",
+    "ELISIR s.v. ba-da-lum",
+    "HALOT 110",
+    "Kogan 2015, ch. 5 §3.2.1.2 no. 4"
+   ]
+  },
+  "13": {
+   "gloss": "brother-in-law, father-in-law, kinsman by marriage",
+   "sources": [
+    "BDB 386",
+    "Payne Smith 185",
+    "Streck 2000, 120"
+   ]
+  },
+  "S15": {
+   "gloss": "to compound perfume; perfumer, ointment, spice mixture",
+   "sources": [
+    "CAD R 173",
+    "CAD R 420",
+    "DULAT 734",
+    "DULAT 735",
+    "HALOT 1290",
+    "T 306–307"
+   ]
+  },
+  "K0016": {
+   "gloss": "daughter, girl",
+   "sources": [
+    "Al-Jallad 2026, 28",
+    "Buck 2019, 325",
+    "T 60"
+   ]
+  },
+  "S16": {
+   "gloss": "son-in-law, bridegroom, kin by marriage",
+   "sources": [
+    "Al-Jallad–Jaworska 82",
+    "CAD Ḫ, 148",
+    "DULAT 408–409",
+    "HALOT 364–365"
+   ]
+  },
+  "S17": {
+   "gloss": "to fear, revere; awe",
+   "sources": [
+    "DULAT 962",
+    "Deut 10:17",
+    "HALOT 432",
+    "HALOT 433"
+   ]
+  },
+  "19": {
+   "gloss": "paternal uncle; beloved",
+   "sources": [
+    "DM 98",
+    "DULAT 262",
+    "HALOT 215",
+    "LGur. 198",
+    "Ricks 40"
+   ]
+  },
+  "S22": {
+   "gloss": "trader, merchant; to sell",
+   "sources": [
+    "CAD T 125",
+    "DULAT 537",
+    "HALOT 581",
+    "Krahmalkov 281",
+    "Krahmalkov 282",
+    "T 177"
+   ]
+  },
+  "S25": {
+   "gloss": "fine flour, semolina",
+   "sources": [
+    "HALOT 758",
+    "Krahmalkov 345",
+    "Sanmartín GlOS 2, 198"
+   ]
+  },
+  "S26": {
+   "gloss": "new wine, must",
+   "sources": [
+    "DULAT 867",
+    "HALOT 1727",
+    "Krahmalkov 499; T 345",
+    "T 345"
+   ]
+  },
+  "S31": {
+   "gloss": "forced labour, corvée; a gang of workers",
+   "sources": [
+    "CAD M/1 327",
+    "HALOT 603",
+    "Moran 1992, 363"
+   ]
+  },
+  "S34": {
+   "gloss": "garlic",
+   "sources": [
+    "CAD Š/3 298",
+    "HALOT 1442",
+    "Lane 365"
+   ]
+  },
+  "S35": {
+   "gloss": "to be firm, established; to be; true, upright",
+   "sources": [
+    "CAD K 159–171",
+    "CAD K 389",
+    "HALOT 464–467",
+    "LGz. 288–289",
+    "Lane 3004",
+    "Payne Smith 202",
+    "Payne Smith 209",
+    "SD 80"
+   ]
+  },
+  "S36": {
+   "gloss": "to judge; judge, verdict, judgment",
+   "sources": [
+    "DULAT 272",
+    "DULAT 273",
+    "Leslau CDG 146",
+    "Payne Smith 86",
+    "Ricks 1982 s.v. dyn",
+    "VE 1327; Krebernik 1983, 43"
+   ]
+  },
+  "S38": {
+   "gloss": "to lift, carry; prince, chief",
+   "sources": [
+    "Buck 2019, 330",
+    "CAD N/2 97",
+    "DULAT 639",
+    "HALOT 724–727, qal 18b (read)",
+    "LGz. 404",
+    "Lane 2790",
+    "Sanmartín GlOS 2, 106"
+   ]
+  },
+  "40": {
+   "gloss": "generation, clan, family; eternity",
+   "sources": [
+    "Brock 147",
+    "CAD D 115",
+    "DULAT 277",
+    "Gelb AS 21, 17, 18",
+    "HALOT 217, 218",
+    "Krahmalkov 151",
+    "LGur 224",
+    "T 74",
+    "T 75"
+   ]
+  },
+  "44": {
+   "gloss": "paternal kinsman, father's brother; ancestor",
+   "sources": [
+    "Al-Jallad–Jaworska 53",
+    "Gelb AS 21, 15; Buck 2019, 325",
+    "HALOT 837",
+    "JL 19 apud SEDonline 513",
+    "Krahmalkov 376–377",
+    "Lane 2149",
+    "Payne Smith 419",
+    "SD 16; Biella 371; Sabaweb lemma 3735",
+    "WTS 455 apud SEDonline 513"
+   ]
+  },
+  "S44": {
+   "gloss": "to weep, lament; weeping",
+   "sources": [
+    "CAD B 35",
+    "DULAT 217",
+    "Leslau CDG 94",
+    "Sanmartín GlOS 1, 115"
+   ]
+  },
+  "48": {
+   "gloss": "priest; priestess",
+   "sources": [
+    "Gelb AS 21, 23",
+    "HALOT 482",
+    "T 144"
+   ]
+  },
+  "53": {
+   "gloss": "man, son; lord, master; husband",
+   "sources": [
+    "Al-Jallad 2026, 93",
+    "Al-Jallad–Jaworska 98",
+    "CAD M/1 308",
+    "Kogan 2015, ch. 6 §4 no. 10",
+    "Sabaweb lemma 1207"
+   ]
+  },
+  "55": {
+   "gloss": "woman, lady, wife; daughter",
+   "sources": [
+    "Al-Jallad–Jaworska 98",
+    "Al-Jallad–Jaworska 98; Al-Jallad 2026, 93",
+    "CAD M/1 300",
+    "Sabaweb lemma 1335"
+   ]
+  },
+  "S72": {
+   "gloss": "until, while, as far as; together with",
+   "sources": [
+    "CAD A/1 115",
+    "CAD A/1 121; OLA80 §58.11",
+    "OLA80 §58.11; CAD A/1 112",
+    "Payne Smith 400",
+    "T 238"
+   ]
+  },
+  "K0084": {
+   "gloss": "mountain, hill",
+   "sources": [
+    "Kogan 2015, ch. 5 §3.1 no. 32",
+    "Pentiuc 2001, 57–58",
+    "T 83"
+   ]
+  },
+  "S84": {
+   "gloss": "balsam tree and its oil; perfume",
+   "sources": [
+    "HALOT 163",
+    "Lane 209",
+    "Payne Smith 49"
+   ]
+  },
+  "S87": {
+   "gloss": "hand; charge, care",
+   "sources": [
+    "Huehnergard 1997 GAk, 514",
+    "Huehnergard 1997 GAk, 514; OLA80 §15.8"
+   ]
+  },
+  "S92": {
+   "gloss": "to exceed, surpass, be left over; excess",
+   "sources": [
+    "HALOT 451",
+    "HALOT 564",
+    "Huehnergard 1997 GAk, 530; AHw 1489",
+    "OLA80 §34.6",
+    "Payne Smith 200",
+    "Sanmartín GlOS 2, 363"
+   ]
+  },
+  "K0097": {
+   "gloss": "lyre, harp",
+   "sources": [
+    "CAD K 387",
+    "DNWSI 520",
+    "Sanmartín GlOS 1, 312"
+   ]
+  },
+  "S98": {
+   "gloss": "six; sixth; sixty",
+   "sources": [
+    "AHw 1220",
+    "Biella 347",
+    "CAD Š/2 337–338",
+    "Krahmalkov 483",
+    "SD 124",
+    "SEDRA 3331, 3332",
+    "T 333"
+   ]
+  },
+  "K0100": {
+   "gloss": "village, hamlet; town",
+   "sources": [
+    "BDB 499",
+    "DULAT 447–448",
+    "Krahmalkov 240",
+    "Payne Smith 223"
+   ]
+  },
+  "K0104": {
+   "gloss": "to cover, conceal, clothe; covering",
+   "sources": [
+    "DNWSI 523",
+    "Lane 3000",
+    "Payne Smith 220",
+    "Sanmartín GlOS 1, 325",
+    "T 146",
+    "T 176"
+   ]
+  },
+  "K0116": {
+   "gloss": "to, toward, for",
+   "sources": [
+    "AED 37 apud SEDonline 1347",
+    "Biella 255",
+    "Kogan 2015, ch. 2 §5.2.2.1 no. 16",
+    "Tomback 1978:153 apud SEDonline 1347"
+   ]
+  },
+  "K0134": {
+   "gloss": "to be able, prevail, overpower; power",
+   "sources": [
+    "CAD L 151",
+    "Huffmon APNM 224",
+    "Sanmartín GlOS 2, 6"
+   ]
+  },
+  "144": {
+   "gloss": "face, front; before, facing",
+   "sources": [
+    "AHw 818",
+    "HALOT 938",
+    "Kogan 2011, 220; Sabaweb lemma 4108",
+    "Krahmalkov 372",
+    "T 159",
+    "T 159; Krahmalkov 90"
+   ]
+  },
+  "151": {
+   "gloss": "back, hind part; inner room; descendants",
+   "sources": [
+    "BK 1 665",
+    "DM 106",
+    "HALOT 208",
+    "HALOT 209",
+    "HALOT 211",
+    "LGz. 121",
+    "T 70"
+   ]
+  },
+  "K0153": {
+   "gloss": "to be bitter; bitterness, myrrh",
+   "sources": [
+    "BDB 600",
+    "Biella 284",
+    "DULAT 562",
+    "HALOT 629",
+    "Krahmalkov 311",
+    "Payne Smith 259"
+   ]
+  },
+  "156": {
+   "gloss": "blood; kin",
+   "sources": [
+    "CAD a1 94",
+    "DULAT 270",
+    "Fuentes 60",
+    "HALOT 15, 16",
+    "HALOT 224",
+    "JM 71",
+    "Ja 312",
+    "LH 514",
+    "Sanmartín GlOS 1, 147"
+   ]
+  },
+  "K0210": {
+   "gloss": "to pour out, drip",
+   "sources": [
+    "BDB 677",
+    "CAD N/2 115",
+    "DULAT 642",
+    "Payne Smith 354"
+   ]
+  },
+  "216": {
+   "gloss": "to hear, listen, heed, obey",
+   "sources": [
+    "Al-Jallad 2026, 133",
+    "Biella 338",
+    "Kogan 2015, ch. 5 §2.3.2 no. 39",
+    "LHar 140",
+    "Sanmartín GlOS 2, 251–252"
+   ]
+  },
+  "238": {
+   "gloss": "dragon, sea-monster, serpent",
+   "sources": [
+    "Brock. 828",
+    "DULAT 860",
+    "HALOT 1764",
+    "Ja. 1682"
+   ]
+  },
+  "K0246": {
+   "gloss": "to ransom, redeem, release",
+   "sources": [
+    "Al-Jallad 2026, 45",
+    "B 389",
+    "CAD P 6",
+    "LGz. 156",
+    "Leslau CDG 155",
+    "SD 43",
+    "Sanmartín GlOS 2, 122"
+   ]
+  },
+  "K0254": {
+   "gloss": "to indulge, pamper; luxury, delight",
+   "sources": [
+    "Aramaic Root Atlas; CAL s.v. pnq",
+    "BDB 819",
+    "Lane 2450",
+    "Payne Smith 438",
+    "Payne Smith 451"
+   ]
+  },
+  "K0256": {
+   "gloss": "to attend to, entrust, appoint; provide for; to miss, lose",
+   "sources": [
+    "Al-Jallad 2026, 46",
+    "BDB 823",
+    "CAD P 115",
+    "CDG 163 apud SEDonline 1823",
+    "DJPA 442 apud SEDonline 1823",
+    "HALOT 955",
+    "MD 376",
+    "ML 91 apud SEDonline 1823",
+    "Payne Smith 454",
+    "SD 45 apud SEDonline 1823"
+   ]
+  },
+  "K0259": {
+   "gloss": "to open the eyes",
+   "sources": [
+    "Aramaic Root Atlas",
+    "BDB 824",
+    "SD 45"
+   ]
+  },
+  "269": {
+   "gloss": "bull, ox, head of cattle",
+   "sources": [
+    "Al-Jallad 2026, 158",
+    "BK 1 242",
+    "Bass. 176",
+    "Brock. 819",
+    "DULAT 916",
+    "HALOT 1451, 1452",
+    "Ja. 1656"
+   ]
+  },
+  "K0289": {
+   "gloss": "to loosen, untie, set free; redeem",
+   "sources": [
+    "B 390",
+    "BDB 809",
+    "CAD P 286",
+    "CAL s.v. pṭr",
+    "Gelb AS 21, 28",
+    "Lane 2415",
+    "UVST 167"
+   ]
+  },
+  "294": {
+   "gloss": "small jug, flask for oil",
+   "sources": [
+    "HALOT 926",
+    "HALOT 926 (1S 10:1, 2K 9:1)"
+   ]
+  },
+  "297": {
+   "gloss": "cup, goblet, drinking bowl",
+   "sources": [
+    "CAD K 253",
+    "CAD K 253, lexical section (Hg. A II 94ff.: zarbabu ša šikari = kāsu) (read)"
+   ]
+  },
+  "298": {
+   "gloss": "vessel, container; measure; to contain",
+   "sources": [
+    "Biella 245",
+    "CAD K 508",
+    "DULAT 436",
+    "HALOT 463–464",
+    "HALOT 478",
+    "Krahmalkov 491",
+    "Lane 3005"
+   ]
+  },
+  "301": {
+   "gloss": "box, chest, basket",
+   "sources": [
+    "DULAT 696",
+    "LGz. 424",
+    "Lane 2991",
+    "Payne Smith 497"
+   ]
+  },
+  "K0304": {
+   "gloss": "to acquire, possess; create; property, livestock",
+   "sources": [
+    "Al-Jallad 2026, 112",
+    "CAD Q 254",
+    "CAD Q 91",
+    "Gelb AS 21, 29",
+    "HALOT 1111",
+    "Kogan 2015, ch. 2 §4.2 no. 34, fn. 266",
+    "Pentiuc 2001, 149",
+    "SD 106; Biella 458",
+    "Sanmartín GlOS 1, 348",
+    "T 197",
+    "T 289–290",
+    "T 290"
+   ]
+  },
+  "311": {
+   "gloss": "bowl, basin, cup",
+   "sources": [
+    "CAD S 166",
+    "HALOT 762",
+    "Krahmalkov 347"
+   ]
+  },
+  "319": {
+   "gloss": "jar, pitcher",
+   "sources": [
+    "Huehnergard 2012, 149",
+    "Krahmalkov 224",
+    "Rendsburg 2026, 213",
+    "Tāj 9:101"
+   ]
+  },
+  "K0319": {
+   "gloss": "wall, city wall",
+   "sources": [
+    "HALOT 1099–1100",
+    "T 292"
+   ]
+  },
+  "K0337": {
+   "gloss": "to cut off, sever, divide; cease, end",
+   "sources": [
+    "Biella 464",
+    "CAD Q 177",
+    "DM 87",
+    "Jastrow 1351",
+    "Payne Smith 501",
+    "Rubin 2018 150, 828",
+    "SD 109"
+   ]
+  },
+  "K0343": {
+   "gloss": "to help, assist; pursue",
+   "sources": [
+    "LGz. 462",
+    "LS 394; SLOnline 27682",
+    "Lane 1064",
+    "SD 114; Biella 480"
+   ]
+  },
+  "K0351": {
+   "gloss": "to cry aloud, shout, rejoice",
+   "sources": [
+    "HALOT 1247",
+    "Kogan 2015, ch. 3 §5.3 no. 29",
+    "Lane 1164"
+   ]
+  },
+  "K0355": {
+   "gloss": "to heal, make whole; healer; ancestral shades",
+   "sources": [
+    "Al-Jallad 2026, 121",
+    "Biella 492; Sabaweb lemma 4885",
+    "Buck 2019, 331",
+    "HALOT 1274",
+    "HALOT 1274; DULAT 731",
+    "KAI 13:7-8; HALOT 1274",
+    "Krahmalkov 446",
+    "LGz. 463"
+   ]
+  },
+  "K0360": {
+   "gloss": "to roam, wander to and fro",
+   "sources": [
+    "HALOT 1194",
+    "Lane 1183",
+    "Lane 1183–1184"
+   ]
+  },
+  "362": {
+   "gloss": "bow; rainbow; archer",
+   "sources": [
+    "DNWSI 1040",
+    "HALOT 1155",
+    "HALOT 1155–1156",
+    "T 295"
+   ]
+  },
+  "364": {
+   "gloss": "garment, clothing, covering",
+   "sources": [
+    "DNWSI 781",
+    "HALOT 605",
+    "HALOT 749"
+   ]
+  },
+  "378": {
+   "gloss": "seal, signet ring; to seal",
+   "sources": [
+    "Krahmalkov 200",
+    "LGz. 267",
+    "Rubin 2018 833"
+   ]
+  },
+  "K0390": {
+   "gloss": "to put in order, arrange; order, row",
+   "sources": [
+    "Aramaic Root Atlas; Qumran 164 apud CAL",
+    "CAD S 11",
+    "HALOT 744"
+   ]
+  },
+  "K0391": {
+   "gloss": "to shut, close, bar; hand over",
+   "sources": [
+    "BDB 688",
+    "HALOT 756",
+    "T 225",
+    "Tāj 12:60",
+    "UVST 155–156",
+    "VE 612; Bonechi 2008, 7"
+   ]
+  },
+  "398": {
+   "gloss": "to twist, turn; accompany, join",
+   "sources": [
+    "CAD L 69",
+    "HALOT 522",
+    "LGz. 322",
+    "Lane 3015",
+    "Payne Smith 236",
+    "Rubin 2018 829",
+    "Sanmartín GlOS 2, 19"
+   ]
+  },
+  "K0405": {
+   "gloss": "to support, help; good fortune",
+   "sources": [
+    "Al-Jallad 2026, 128",
+    "Al-Jallad–Jaworska 119",
+    "Huffmon APNM 245",
+    "Huffmon APNM 245; Sanmartín GlOS 2, 191",
+    "Lane 1360"
+   ]
+  },
+  "408": {
+   "gloss": "to bind, tie; take captive, imprison",
+   "sources": [
+    "Biella 28",
+    "CAD E 334",
+    "Dillmann 05550",
+    "HALOT 73",
+    "Leslau CDG 44; Lane 57",
+    "Payne Smith 24",
+    "T 27"
+   ]
+  },
+  "411": {
+   "gloss": "to bind, yoke, harness; pair, team; ally",
+   "sources": [
+    "AHw 1080",
+    "CAD Ṣ 196",
+    "DULAT 773",
+    "Huehnergard 2012, 156",
+    "Krahmalkov 417",
+    "Lane 1802",
+    "Sabaweb lemma 4068",
+    "TED 2560 apud SEDonline 2021"
+   ]
+  },
+  "K0425": {
+   "gloss": "and, also, but",
+   "sources": [
+    "AHw 1397",
+    "BK 2 1471",
+    "Biella 119",
+    "DULAT 926",
+    "HALOT 257–258",
+    "LGz. 602",
+    "Payne Smith 107"
+   ]
+  },
+  "K0448": {
+   "gloss": "to go out, come forth, rise; exit, issue",
+   "sources": [
+    "AHw 1106",
+    "DULAT 764",
+    "Dillmann 06870",
+    "HALOT 425",
+    "HALOT 559",
+    "LGz. 606",
+    "LHar 162",
+    "T 127"
+   ]
+  },
+  "454": {
+   "gloss": "to pasture, graze, tend; shepherd, herdsman",
+   "sources": [
+    "Al-Jallad 2026, 119",
+    "Al-Jallad–Jaworska 114",
+    "Aramaic Root Atlas; Qumran 224 apud CAL",
+    "Sabaweb lemma 7187"
+   ]
+  },
+  "K0457": {
+   "gloss": "wine, vine, grapes",
+   "sources": [
+    "HALOT 409",
+    "Kogan 2011, 241",
+    "Kogan 2011, 241; Sabaweb lemma 3076"
+   ]
+  },
+  "K0481": {
+   "gloss": "to hire; wage, reward; hireling",
+   "sources": [
+    "BDB 968",
+    "Buck 2019, 332",
+    "Kogan 2015, ch. 3 §5.2 no. 58",
+    "Sanmartín GlOS 2, 274"
+   ]
+  },
+  "492": {
+   "gloss": "to leap, jump, dance",
+   "sources": [
+    "CAD R 166",
+    "CAD R 166; CAD R 367",
+    "HALOT 1288; Payne Smith 549",
+    "Lane 1135"
+   ]
+  },
+  "K0500": {
+   "gloss": "to put, place, set, establish",
+   "sources": [
+    "AHw 1225",
+    "HALOT 1321",
+    "HALOT 1322; Sabaweb lemma 2233",
+    "Kogan–Krebernik 2021b: 685 apud SEDonline 1871",
+    "LGz. 540",
+    "Pentiuc 2001, 123",
+    "Sanmartín GlOS 2, 281"
+   ]
+  },
+  "503": {
+   "gloss": "to roam freely, run loose; drive away; attack by surprise",
+   "sources": [
+    "CAD D 109",
+    "HALOT 230",
+    "Lane 864",
+    "Lane 865",
+    "SD 36"
+   ]
+  },
+  "517": {
+   "gloss": "to divide, break; half-measure",
+   "sources": [
+    "AED 2277 apud SEDonline 1316",
+    "CAD P 165",
+    "CAD P 186",
+    "DULAT 671–672",
+    "EDG 244 apud SEDonline 1316",
+    "Gelb AS 21, 28",
+    "HALOT 969",
+    "Lane 2366"
+   ]
+  },
+  "519": {
+   "gloss": "to separate, set apart; share, portion",
+   "sources": [
+    "Al-Jallad 2026, 26",
+    "Biella 36",
+    "DULAT 211",
+    "HALOT 108",
+    "LGz. 86",
+    "Lane 161",
+    "T 44"
+   ]
+  },
+  "K0519": {
+   "gloss": "to be drunk; strong drink, beer",
+   "sources": [
+    "AHw 1139",
+    "BDB 1016",
+    "CAD Š/2 420",
+    "HALOT 1501",
+    "Lane 1391",
+    "Payne Smith 577"
+   ]
+  },
+  "K0524": {
+   "gloss": "to guard, keep, watch; guardian",
+   "sources": [
+    "Buck 2019, 333",
+    "Gelb AS 21, 32",
+    "HALOT 1581",
+    "Krahmalkov 318",
+    "Payne Smith 585",
+    "T 325"
+   ]
+  },
+  "K0529": {
+   "gloss": "to pour out, shed, spill",
+   "sources": [
+    "AHw 1168",
+    "BDB 1049",
+    "Huffmon APNM 252",
+    "LGz. 484",
+    "Lane 1374",
+    "Qumran 241 apud CAL"
+   ]
+  },
+  "K0567": {
+   "gloss": "which?, where?, how?",
+   "sources": [
+    "B 265",
+    "DULAT 41",
+    "HALOT 37; Sabaweb lemma 7542",
+    "HALOT 38",
+    "HALOT 39",
+    "HALOT 43"
+   ]
+  },
+  "572": {
+   "gloss": "to forge metal; smith; administrator, governor",
+   "sources": [
+    "Biella 454",
+    "Biella 454, as the record's Notes report it",
+    "Payne Smith 504"
+   ]
+  },
+  "K0596": {
+   "gloss": "to ask, request; desire, wish",
+   "sources": [
+    "CAD M/2 26",
+    "HALOT 91",
+    "Krahmalkov 75",
+    "Sanmartín GlOS 1, 41",
+    "T 33",
+    "UVST 110"
+   ]
+  },
+  "K0601": {
+   "gloss": "with, beside; by means of",
+   "sources": [
+    "CAD I 312, AHw. 405 apud SEDonline 1385",
+    "HALOT 101 apud SEDonline 1385",
+    "T 38",
+    "UVST 111",
+    "WTS 369 apud SEDonline 1385"
+   ]
+  },
+  "K0604": {
+   "gloss": "island, coastland",
+   "sources": [
+    "DULAT 31",
+    "HALOT 38",
+    "Krahmalkov 45"
+   ]
+  },
+  "606": {
+   "gloss": "to answer, respond; to mean, intend",
+   "sources": [
+    "DNWSI 875",
+    "DULAT 169",
+    "Lane 2180",
+    "Payne Smith 419",
+    "Sanmartín GlOS 1, 84"
+   ]
+  },
+  "615": {
+   "gloss": "to cry for help",
+   "sources": [
+    "HALOT 1443 (read; pi.)"
+   ]
+  },
+  "618": {
+   "gloss": "to sing; song",
+   "sources": [
+    "AHw 1219",
+    "HALOT 1479",
+    "Payne Smith 575",
+    "T 332",
+    "UVST 181"
+   ]
+  },
+  "621": {
+   "gloss": "name; posterity",
+   "sources": [
+    "Sabaweb lemma 5018",
+    "Sanmartín GlOS 2, 249–250",
+    "T 321"
+   ]
+  },
+  "643": {
+   "gloss": "to count, reckon, allot; portion, fate, mina",
+   "sources": [
+    "BK 2, 1158",
+    "Biella 279",
+    "CAD M/1 221",
+    "DULAT 558",
+    "Gelb AS 21, 14",
+    "HALOT 599",
+    "HALOT 599, 603",
+    "LGz. 24",
+    "Lane 100",
+    "SD 6"
+   ]
+  },
+  "649": {
+   "gloss": "to build; builder, building; create",
+   "sources": [
+    "Al-Jallad 2026, 29",
+    "CAD B 83",
+    "Krahmalkov 104",
+    "Payne Smith 48",
+    "SD 29, 30",
+    "T 165",
+    "T 49"
+   ]
+  },
+  "652": {
+   "gloss": "house, household, estate; temple",
+   "sources": [
+    "Al-Jallad–Jaworska 62",
+    "DNWSI 156",
+    "Lane 280",
+    "Ricks 1982 s.v. byt",
+    "Sabaweb lemma 1285",
+    "T 58"
+   ]
+  },
+  "656": {
+   "gloss": "tower; district",
+   "sources": [
+    "AHw. 170, CAD D 144",
+    "DULAT 272",
+    "ML 75",
+    "Naumkin et al. 2014, 528",
+    "Piamenta 163",
+    "Sanmartín GlOS 1, 147"
+   ]
+  },
+  "657": {
+   "gloss": "dwelling, house, household; granary",
+   "sources": [
+    "DJBA 322 apud SEDonline 2023",
+    "DJPA 155 apud SEDonline 2023",
+    "HALOT 217",
+    "LM 27 apud SEDonline 2023",
+    "Lane 931"
+   ]
+  },
+  "672": {
+   "gloss": "town, city, village",
+   "sources": [
+    "HALOT 1142; Krahmalkov 433; T 294",
+    "HALOT 1149",
+    "Kogan 2015, ch. 3 §5.3 no. 19"
+   ]
+  },
+  "677": {
+   "gloss": "gate; gatekeeper",
+   "sources": [
+    "DNWSI 1232",
+    "HALOT 1614",
+    "Krahmalkov 475",
+    "Krahmalkov 476",
+    "Sanmartín GlOS 2, 318"
+   ]
+  },
+  "K0685": {
+   "gloss": "to press, squeeze out",
+   "sources": [
+    "Aramaic Root Atlas; CAL s.v. ʿṣr",
+    "Lane 2061",
+    "Payne Smith 423"
+   ]
+  },
+  "711": {
+   "gloss": "water",
+   "sources": [
+    "Al-Jallad–Jaworska 101",
+    "DNWSI 620",
+    "Kogan 2015, ch. 7 §2.2 no. 94",
+    "Krahmalkov 292",
+    "Payne Smith 268",
+    "SD 88",
+    "Sanmartín GlOS 2, 27"
+   ]
+  },
+  "724": {
+   "gloss": "sea; lake",
+   "sources": [
+    "Gelb AS 21, 21",
+    "Krahmalkov 209",
+    "Payne Smith 193",
+    "Pentiuc 2001, 86",
+    "Sanmartín GlOS 2, 372"
+   ]
+  },
+  "K0736": {
+   "gloss": "to be gracious, show favour, have mercy; grace",
+   "sources": [
+    "Al-Jallad–Jaworska 86",
+    "CAD E 164",
+    "DULAT 361",
+    "Gelb AS 21, 20",
+    "HALOT 334",
+    "Payne Smith 148",
+    "Sanmartín GlOS 1, 243–244"
+   ]
+  },
+  "737": {
+   "gloss": "date palm, date",
+   "sources": [
+    "HALOT 1757",
+    "Jastrow 1679",
+    "Kogan 2011, 204",
+    "Krahmalkov 494",
+    "Sabaweb lemma 3074"
+   ]
+  },
+  "748": {
+   "gloss": "fine meal of parched grain",
+   "sources": [
+    "Lane 1472"
+   ]
+  },
+  "756": {
+   "gloss": "fruit; to bear fruit",
+   "sources": [
+    "HALOT 963, 967; Payne Smith 433",
+    "JL 59 apud SEDonline 397",
+    "Kogan 2015, ch. 2 §4.2 no. 47",
+    "LGz. 167"
+   ]
+  },
+  "762": {
+   "gloss": "sesame",
+   "sources": [
+    "CAD Š/1 301",
+    "Lane 1420"
+   ]
+  },
+  "768": {
+   "gloss": "earth, land",
+   "sources": [
+    "Al-Jallad 2026, 8",
+    "Sabaweb lemma 1284; Ricks 1982 s.v. ʔrḍ",
+    "T 32",
+    "UVST 110"
+   ]
+  },
+  "782": {
+   "gloss": "to shine forth; to rise, go up",
+   "sources": [
+    "BK 2 1631",
+    "Biella 233",
+    "Biella 233; SD 168",
+    "DULAT 958",
+    "Gelb AS 21, 22; Buck 2019, 334",
+    "HALOT 424"
+   ]
+  },
+  "798": {
+   "gloss": "to roast, parch; parched grain",
+   "sources": [
+    "Dillmann 03209",
+    "HALOT 1101",
+    "Hoch 170–171",
+    "LGz. 431",
+    "LHar 123",
+    "Sanmartín GlOS 1, 346"
+   ]
+  },
+  "812": {
+   "gloss": "fire",
+   "sources": [
+    "CAD I/J 227",
+    "DULAT 115",
+    "HALOT 92",
+    "Krahmalkov 76"
+   ]
+  },
+  "819": {
+   "gloss": "to eat; food",
+   "sources": [
+    "Al-Jallad–Jaworska 42",
+    "Biella 15",
+    "Kogan 2011, 238",
+    "Sabaweb lemma 8043"
+   ]
+  },
+  "K0842": {
+   "gloss": "to strike, sound a horn, clap; drive in a peg",
+   "sources": [
+    "HALOT 1785",
+    "LGz. 595"
+   ]
+  },
+  "846": {
+   "gloss": "to boil, seethe; rage; wine vat",
+   "sources": [
+    "BDB 807; HALOT 920",
+    "Lane 2457",
+    "Payne Smith 439",
+    "Payne Smith 444"
+   ]
+  },
+  "854": {
+   "gloss": "to carry off, remove; rescue, help",
+   "sources": [
+    "Al-Jallad–Jaworska 100",
+    "DULAT 591",
+    "Sanmartín GlOS 2, 58"
+   ]
+  },
+  "857": {
+   "gloss": "to give a gift",
+   "sources": [
+    "Lane 2084–2085 (ʿṭw)"
+   ]
+  },
+  "K0876": {
+   "gloss": "she of, the one who; this",
+   "sources": [
+    "DULAT 252",
+    "Gelb AS 21, 18",
+    "HALOT 260"
+   ]
+  },
+  "K0877": {
+   "gloss": "he of, the one who, which, that; this",
+   "sources": [
+    "Al-Jallad–Jaworska 65",
+    "Biella 97",
+    "Huffmon APNM 186",
+    "Lane 986",
+    "SLOnline 821",
+    "T 89",
+    "T 94"
+   ]
+  },
+  "945": {
+   "gloss": "to die; death, the dead",
+   "sources": [
+    "Al-Jallad 2026, 96",
+    "BDB 1099",
+    "HALOT 562",
+    "HJ 605",
+    "JJ 176",
+    "LS 237",
+    "Pentiuc 2001, 125–126",
+    "SD 89"
+   ]
+  },
+  "959": {
+   "gloss": "shade, shadow; protection, shelter",
+   "sources": [
+    "Al-Jallad 2026, 176",
+    "Buck 2019, 333",
+    "CAD M/1 329",
+    "CAD Ṣ 189",
+    "HALOT 1024",
+    "LGz. 555",
+    "Payne Smith 267",
+    "SD 172"
+   ]
+  },
+  "979": {
+   "gloss": "to be light, small, swift; courier",
+   "sources": [
+    "Biella 457",
+    "CAD Q 55",
+    "DULAT 689",
+    "DULAT 691",
+    "HALOT 1103",
+    "LGz. 428",
+    "Lane 2992"
+   ]
+  },
+  "980": {
+   "gloss": "to be small, thin",
+   "sources": [
+    "HALOT 1092",
+    "JM 245",
+    "LGz 453",
+    "LGz. 453",
+    "LHar 131"
+   ]
+  },
+  "987": {
+   "gloss": "to judge, rule; judge, judgment",
+   "sources": [
+    "Buck 2019, 334",
+    "DULAT 912",
+    "Gelb AS 21, 33",
+    "Streck 2000, 117–118",
+    "T 203",
+    "T 329"
+   ]
+  },
+  "993": {
+   "gloss": "to love; beloved, friend",
+   "sources": [
+    "Al-Jallad 2026, 163",
+    "Biella 121",
+    "Gelb AS 21, 21",
+    "LHar 157",
+    "Payne Smith 186",
+    "Ricks 1982 s.v. wdm"
+   ]
+  },
+  "995": {
+   "gloss": "to turn, go round; circle",
+   "sources": [
+    "AED 1821 apud SEDonline 2020",
+    "HALOT 217",
+    "LIQ 41 apud SEDonline 2020",
+    "Lane 931",
+    "Payne Smith 87",
+    "Payne Smith 88",
+    "Sanmartín GlOS 1, 153; Gelb AS 21, 18",
+    "WTS 536 apud SEDonline 2020"
+   ]
+  },
+  "1014": {
+   "gloss": "to open; begin; conquer",
+   "sources": [
+    "Krahmalkov 408",
+    "LGz. 170",
+    "Lane 2328"
+   ]
+  },
+  "1022": {
+   "gloss": "to mix; mixed drink, mixed wine",
+   "sources": [
+    "DULAT 575",
+    "HALOT 605"
+   ]
+  },
+  "1045": {
+   "gloss": "vineyard, vine; mountain",
+   "sources": [
+    "CAD K 218",
+    "HALOT 498",
+    "Kogan 2015, ch. 3 §5.2 no. 31",
+    "Krahmalkov 242"
+   ]
+  },
+  "1052": {
+   "gloss": "to be complete, whole; to complete, finish",
+   "sources": [
+    "Al-Jallad 2026, 153",
+    "Kogan 2015, ch. 3 §5.3 no. 33; Sabaweb lemma 8544",
+    "Lane 315",
+    "Rubin 2018 135, 236",
+    "T 342"
+   ]
+  },
+  "1062": {
+   "gloss": "to dash, gallop",
+   "sources": [
+    "HALOT 214",
+    "TLA lemma 173060; Wb 5, 322.10–14"
+   ]
+  },
+  "1084": {
+   "gloss": "to be fat; fattened beast",
+   "sources": [
+    "Buck 2019, 329",
+    "CAD M/1 307",
+    "CAD M/2 110",
+    "HALOT 630",
+    "HALOT 635"
+   ]
+  },
+  "1097": {
+   "gloss": "round loaf, disk; talent; surrounding district",
+   "sources": [
+    "Biella 252",
+    "HALOT 473",
+    "Pentiuc 2001, 91",
+    "Sanmartín GlOS 1, 319",
+    "T 141",
+    "UVST 136"
+   ]
+  },
+  "1103": {
+   "gloss": "bowl, basin; cauldron",
+   "sources": [
+    "CAD S 165",
+    "HALOT 764",
+    "UVST 157"
+   ]
+  },
+  "1120": {
+   "gloss": "door, doorway",
+   "sources": [
+    "DULAT 269",
+    "HALOT 223",
+    "T 73"
+   ]
+  },
+  "1134": {
+   "gloss": "to stand, rise; establish",
+   "sources": [
+    "Al-Jallad 2026, 115",
+    "Buck 2019, 331",
+    "DULAT 692",
+    "HALOT 1086",
+    "LGz. 456",
+    "Sabaweb lemma 1938"
+   ]
+  },
+  "1135": {
+   "gloss": "to be high, rise; height; exalted",
+   "sources": [
+    "BDB 926",
+    "Buck 2019, 332",
+    "DULAT 729, 730",
+    "HALOT 633",
+    "Kogan 2015, ch. 2 §4.2 no. 54",
+    "Payne Smith 534"
+   ]
+  },
+  "1146": {
+   "gloss": "chick, young bird",
+   "sources": [
+    "T 280",
+    "T 280 (comparison)"
+   ]
+  },
+  "1167": {
+   "gloss": "to sleep; sleep, dream",
+   "sources": [
+    "BK 1 1539",
+    "CAD š 3 140",
+    "CAD š3 405",
+    "HALOT 1601",
+    "HALOT 447"
+   ]
+  },
+  "1173": {
+   "gloss": "to create; creator",
+   "sources": [
+    "HALOT 153, 156",
+    "Lane 178",
+    "Payne Smith 55",
+    "SD 30"
+   ]
+  },
+  "1187": {
+   "gloss": "to be thin, shallow; wafer",
+   "sources": [
+    "DULAT 733",
+    "DULAT 735",
+    "HALOT 1286, 1290, 1293",
+    "HALOT 1290",
+    "HALOT 1293",
+    "Krebernik 1983, 4",
+    "Pentiuc 2001, 153"
+   ]
+  },
+  "1196": {
+   "gloss": "light, fire; to shine; lamp",
+   "sources": [
+    "Al-Jallad 2026, 106",
+    "CAD N/1 239",
+    "CAD N/2 351",
+    "DULAT 633",
+    "Gelb AS 21, 28",
+    "HALOT 723",
+    "Kogan 2011, 195",
+    "Payne Smith 334",
+    "Sabaweb lemma 7173"
+   ]
+  },
+  "1228": {
+   "gloss": "might, power; victory",
+   "sources": [
+    "CAD L 221"
+   ]
+  },
+  "1250": {
+   "gloss": "to bless, pray; blessing, prayer",
+   "sources": [
+    "Biella 251",
+    "CAD K 192",
+    "CAD K 193",
+    "Gelb AS 21, 23",
+    "Krebernik 1988, 54, 58–59"
+   ]
+  },
+  "1308": {
+   "gloss": "courtier, palace or temple attendant",
+   "sources": [
+    "CAD T 429 (tīru A)"
+   ]
+  },
+  "1336": {
+   "gloss": "storehouse; manger",
+   "sources": [
+    "CAD A/1 92",
+    "DULAT 14",
+    "HALOT 4",
+    "T 3"
+   ]
+  },
+  "1340": {
+   "gloss": "mighty, noble, majestic; nobles",
+   "sources": [
+    "HALOT 16 apud SEDonline 208",
+    "Krahmalkov 37",
+    "LGz 8",
+    "Sanmartín GlOS 1, 10",
+    "T 6",
+    "UVST 104"
+   ]
+  },
+  "1358": {
+   "gloss": "bowl, basin; cauldron",
+   "sources": [
+    "Krahmalkov 31",
+    "Payne Smith 3",
+    "Rendsburg 2026, 204"
+   ]
+  },
+  "1384": {
+   "gloss": "to drink; drink, libation",
+   "sources": [
+    "Biella 347",
+    "DNWSI 1198",
+    "HALOT 653",
+    "Krahmalkov 485",
+    "LHar 137",
+    "Sanmartín GlOS 2, 264"
+   ]
+  },
+  "1389": {
+   "gloss": "to give drink, water, irrigate; to drink",
+   "sources": [
+    "CAD M/1 382",
+    "CAD Š/3 95 apud Kogan 2025, 9",
+    "DULAT 827",
+    "EDG 534 apud SEDonline 9",
+    "Kogan 2011, 238",
+    "SLOnline 7250",
+    "Sabaweb lemma 1832",
+    "Sabaweb lemma 2237"
+   ]
+  },
+  "1408": {
+   "gloss": "to weave, spin; woven",
+   "sources": [
+    "CAD Š/2 217",
+    "DULAT 839",
+    "HALOT 1669"
+   ]
+  },
+  "1420": {
+   "gloss": "to turn back, return; relent, be merciful; go about, spy out",
+   "sources": [
+    "AHw 1332",
+    "Al-Jallad 2026, 154",
+    "CAD T 59–60",
+    "DULAT 862",
+    "Gelb AS 21, 34",
+    "HALOT 1676",
+    "HALOT 1707"
+   ]
+  },
+  "1446": {
+   "gloss": "to be straight, upright, just; uprightness",
+   "sources": [
+    "Biella 232, 233",
+    "Buck 2019, 334",
+    "CAD I/J 223",
+    "CAD I/J 224",
+    "Gelb AS 21, 22",
+    "Krahmalkov 218",
+    "Lane 2975",
+    "Sanmartín GlOS 2, 377"
+   ]
+  },
+  "1462": {
+   "gloss": "light; fire, flame; day, sun",
+   "sources": [
+    "BK I 68",
+    "CAD U/W 243",
+    "DULAT 91",
+    "DULAT 92",
+    "HALOT 24",
+    "Kogan 2011, 196",
+    "LGz. 36"
+   ]
+  },
+  "1497": {
+   "gloss": "to last, endure, remain",
+   "sources": [
+    "Biella 81",
+    "DULAT 269 (read)",
+    "HALOT 216",
+    "HALOT 216 (read; II dwm 'last, endure')"
+   ]
+  },
+  "1543": {
+   "gloss": "to cross over, pass beyond; far bank",
+   "sources": [
+    "CAD E 10",
+    "HALOT 778",
+    "HALOT 781",
+    "JJ 6",
+    "Payne Smith 398",
+    "Sabaweb lemma 3313",
+    "Sanmartín GlOS 1, 66"
+   ]
+  },
+  "1604": {
+   "gloss": "emmer wheat",
+   "sources": [
+    "CAD K 536"
+   ]
+  },
+  "1606": {
+   "gloss": "a legume, pulse",
+   "sources": [
+    "CAD K 456",
+    "CAD K 457"
+   ]
+  },
+  "1610": {
+   "gloss": "goblet, cup",
+   "sources": [
+    "HALOT 1062",
+    "Pentiuc 2001, 150"
+   ]
+  },
+  "1613": {
+   "gloss": "flour, meal; to grind",
+   "sources": [
+    "DNWSI 1013",
+    "Krebernik 1983, 6",
+    "WTS 236 apud SEDonline 1067"
+   ]
+  },
+  "1647": {
+   "gloss": "groats, fine flour",
+   "sources": [
+    "CAD S 107",
+    "CAD S 115",
+    "Pentiuc 2001, 156"
+   ]
+  },
+  "1654": {
+   "gloss": "to be small, thin, fine; to grind fine",
+   "sources": [
+    "Aramaic Root Atlas; CAL s.v. dqq",
+    "CAD D 107",
+    "DULAT 275",
+    "HALOT 229",
+    "LGz. 140",
+    "LGz. 140; Sabaweb lemma 4015",
+    "Payne Smith 96"
+   ]
+  },
+  "1678": {
+   "gloss": "to wait, hope; remain",
+   "sources": [
+    "Biella 453",
+    "CAD Q 328 (read; quʾʾû)",
+    "SD 112; Biella 453; Sabaweb lemma 4841"
+   ]
+  },
+  "1679": {
+   "gloss": "to be dirty, dark",
+   "sources": [
+    "CAL s.v. qdr",
+    "DULAT 685",
+    "Drower/Macuch 405a apud HALOT 1072",
+    "HALOT 1072",
+    "Lane 2498"
+   ]
+  },
+  "1702": {
+   "gloss": "child, boy; twin; man",
+   "sources": [
+    "Buck 2019, 329",
+    "DULAT 595-6",
+    "OLA80 §8.18"
+   ]
+  },
+  "1704": {
+   "gloss": "much, many; very; to be plentiful",
+   "sources": [
+    "Buck 2019, 329",
+    "Gelb AS 21, 24",
+    "UVST 144"
+   ]
+  },
+  "1797": {
+   "gloss": "wheat, grain",
+   "sources": [
+    "BK 1, 103",
+    "HALOT 153",
+    "HSED 224",
+    "SD 31",
+    "VE 81"
+   ]
+  },
+  "1804": {
+   "gloss": "open field, countryside; steppe; plot of land",
+   "sources": [
+    "Brock. 460",
+    "CAD Š/1 49",
+    "DULAT 795, 797",
+    "HALOT 1307, 1308",
+    "T 314"
+   ]
+  },
+  "1807": {
+   "gloss": "field, arable land",
+   "sources": [
+    "AHw 1402",
+    "BK 1, 353",
+    "Kogan 2015, ch. 5 §3.2.3 no. 1",
+    "LGz. 202"
+   ]
+  },
+  "1810": {
+   "gloss": "to plough, till; ploughman, farmer",
+   "sources": [
+    "BK 1, 42",
+    "Belot 1929, 11",
+    "CAD I/J 49",
+    "DM 18",
+    "HALOT 47"
+   ]
+  },
+  "1815": {
+   "gloss": "to sow; seed, offspring",
+   "sources": [
+    "CAD Z 89",
+    "HALOT 282",
+    "Ja. 324",
+    "SD 40; Sabaweb lemma 4052"
+   ]
+  },
+  "1832": {
+   "gloss": "cattle, herd; cow",
+   "sources": [
+    "Al-Jallad–Jaworska 61",
+    "Brock. 88",
+    "HALOT 151",
+    "JM 47",
+    "Lane 234",
+    "Sima 50",
+    "T 54"
+   ]
+  },
+  "1839": {
+   "gloss": "mother; grandmother",
+   "sources": [
+    "Brock 23",
+    "DULAT 67",
+    "HALOT 61",
+    "LGur 42",
+    "LGz 22",
+    "LHar 25",
+    "LS 62; SLOnline 3104",
+    "Rubin 2014 656"
+   ]
+  },
+  "1844": {
+   "gloss": "red, to be red; red earth",
+   "sources": [
+    "BK 1 19",
+    "CAD a1 94",
+    "CAD a1 95",
+    "DULAT 17–18",
+    "Gelb AS 21, 13; Sanmartín GlOS 1, 9",
+    "HALOT 15",
+    "SLOnline 3037"
+   ]
+  },
+  "1845": {
+   "gloss": "earth, land, soil; district",
+   "sources": [
+    "BK 1 729",
+    "CAD d 18",
+    "Estañol 60",
+    "HALOT 14, 15",
+    "HALOT 15",
+    "Ja 17",
+    "LGz 146"
+   ]
+  },
+  "1945": {
+   "gloss": "palm of the hand, sole of the foot; handful, bowl",
+   "sources": [
+    "CAD k 185",
+    "DM 200",
+    "DULAT 447",
+    "HALOT 491",
+    "HALOT 491–492",
+    "HJ 528",
+    "Hoch 318"
+   ]
+  },
+  "1952": {
+   "gloss": "skull, head, crown of the head",
+   "sources": [
+    "Aist 247",
+    "BK 2 683",
+    "CAD ḳ 100, AHw 899",
+    "HALOT 1071",
+    "Ja 1317",
+    "LHar 30"
+   ]
+  },
+  "1959": {
+   "gloss": "horn; to fight, guard; companion",
+   "sources": [
+    "Biella 467",
+    "LHar 128",
+    "Lane 2987–2988",
+    "MP 122",
+    "Sanmartín GlOS 1, 351–352"
+   ]
+  },
+  "1977": {
+   "gloss": "sinew, tendon, nerve",
+   "sources": [
+    "BK 2 1059",
+    "CAD m1 412",
+    "LGz 372",
+    "LGz. 372",
+    "Sanmartín GlOS 2, 59"
+   ]
+  },
+  "1988": {
+   "gloss": "fat, suet; dung",
+   "sources": [
+    "BK 2 555",
+    "CAD P 474",
+    "HALOT 914",
+    "Ja 1137"
+   ]
+  },
+  "1995": {
+   "gloss": "skin, hide, pelt; husk",
+   "sources": [
+    "BK 2 588",
+    "Brock 591",
+    "CAD P 209",
+    "LGz 166",
+    "Lane 2390"
+   ]
+  },
+  "2000": {
+   "gloss": "head; chief, top, beginning",
+   "sources": [
+    "AHw 973",
+    "BDB 1112",
+    "BK 1 793",
+    "HALOT 1164",
+    "K 381",
+    "Krahmalkov 437",
+    "SD 112",
+    "SLOnline 700"
+   ]
+  },
+  "2014": {
+   "gloss": "fat, oil; fatness",
+   "sources": [
+    "BK 1 1143",
+    "Berg 91",
+    "Brock 786",
+    "CAD š1 321",
+    "JJ 262",
+    "M MND 502, 521",
+    "T 323"
+   ]
+  },
+  "2036": {
+   "gloss": "breast, bosom; udder",
+   "sources": [
+    "Aist 332",
+    "BK 1 220",
+    "HALOT 1416, 1417",
+    "HALOT 1418",
+    "JJ 283",
+    "JM 415"
+   ]
+  },
+  "2037": {
+   "gloss": "shoulder, nape; to carry on the shoulder",
+   "sources": [
+    "Aist 334",
+    "HALOT 1494, 1495",
+    "Krahmalkov 460",
+    "LGz. 496"
+   ]
+  },
+  "2046": {
+   "gloss": "hand, arm, power; in the charge of",
+   "sources": [
+    "Al-Jallad–Jaworska 142",
+    "JH 146",
+    "JJ 313",
+    "Ja 564",
+    "Krahmalkov 97–98",
+    "Sanmartín GlOS 2, 370–371",
+    "Sanmartín GlOS 2, 371"
+   ]
+  },
+  "2104": {
+   "gloss": "to stop up, close off; deaf, mute; fill, abound",
+   "sources": [
+    "AHw 1394",
+    "Brock 279",
+    "HALOT 37; Jastrow 540",
+    "LGz. 593",
+    "Lane 1877"
+   ]
+  },
+  "2109": {
+   "gloss": "to give birth, beget; child, offspring",
+   "sources": [
+    "Al-Jallad–Jaworska 140",
+    "Biella 131",
+    "HALOT 411",
+    "JJ 291",
+    "Krahmalkov 208",
+    "SD 160",
+    "VE 581"
+   ]
+  },
+  "2120": {
+   "gloss": "lion, wild beast",
+   "sources": [
+    "Bass. 493",
+    "Brock. 48; PS 378-9",
+    "DULAT 107",
+    "HALOT 87",
+    "K 1268",
+    "LGur. 114",
+    "LGz. 40",
+    "T 29; Krah. 71"
+   ]
+  },
+  "2153": {
+   "gloss": "bear, she-bear",
+   "sources": [
+    "BK 1 662",
+    "CAD d 17",
+    "HALOT 207, 208"
+   ]
+  },
+  "2157": {
+   "gloss": "a bird: swallow, dove; parrot",
+   "sources": [
+    "BK 1 682",
+    "Dozy I 428",
+    "HALOT 230",
+    "HJ 262"
+   ]
+  },
+  "2176": {
+   "gloss": "kid, young goat; suckling",
+   "sources": [
+    "CAD l 51",
+    "DULAT 494",
+    "LS 231",
+    "SLOnline 3102"
+   ]
+  },
+  "2190": {
+   "gloss": "cat, wild cat",
+   "sources": [
+    "CAD š3 339",
+    "HJ 1193",
+    "Lane 1445",
+    "PS 4107"
+   ]
+  },
+  "2229": {
+   "gloss": "louse; vermin",
+   "sources": [
+    "BK 2 816",
+    "Brock. 668",
+    "HJ 1013",
+    "LGz. 432",
+    "SD 105; Sima 131"
+   ]
+  },
+  "2243": {
+   "gloss": "foal, colt, calf; young animal",
+   "sources": [
+    "Al-Jallad–Jaworska 95",
+    "BK 2 1161",
+    "Brock. 376",
+    "CAD M/2 229",
+    "CAD m2 229",
+    "SD 84; Sabaweb lemma 2250",
+    "Sanmartín GlOS 2, 32"
+   ]
+  },
+  "2245": {
+   "gloss": "bull, young bull; steer",
+   "sources": [
+    "AHw. 658",
+    "CAD m2 109",
+    "HALOT 635"
+   ]
+  },
+  "2264": {
+   "gloss": "flea",
+   "sources": [
+    "AHw. 855",
+    "Brock. 610",
+    "Gelb AS 21, 28",
+    "HALOT 971",
+    "Krahmalkov 407"
+   ]
+  },
+  "2267": {
+   "gloss": "ewe, lamb",
+   "sources": [
+    "Al-Jallad–Jaworska 116",
+    "BK 1 841",
+    "CAD l 42",
+    "HALOT 1216",
+    "HJ 1068",
+    "LS 397"
+   ]
+  },
+  "2269": {
+   "gloss": "aurochs, wild bull; wild cow",
+   "sources": [
+    "Al-Jallad 2026, 118",
+    "BK 1 796",
+    "CAD r 358",
+    "CAD r 359",
+    "DULAT 712",
+    "HALOT 1163"
+   ]
+  },
+  "2312": {
+   "gloss": "garden, orchard",
+   "sources": [
+    "AHw 485",
+    "CAD K 411"
+   ]
+  },
+  "2315": {
+   "gloss": "grain, cereal; wheat",
+   "sources": [
+    "DULAT 265",
+    "HALOT 214",
+    "LS 130",
+    "Pentiuc 2001, 43"
+   ]
+  },
+  "2324": {
+   "gloss": "fig, fig tree",
+   "sources": [
+    "AHw 1363",
+    "DM 486",
+    "HALOT 1675",
+    "T 339"
+   ]
+  },
+  "2381": {
+   "gloss": "priest; to serve as priest; soothsayer",
+   "sources": [
+    "Kogan 2015, ch. 3 §5.3 no. 16",
+    "LA XIII 362 (read; kahana lahu, qaḍā lahu bi-l-ġayb)",
+    "Payne Smith 206",
+    "T 139"
+   ]
+  },
+  "2409": {
+   "gloss": "plant, herb, drug; poison",
+   "sources": [
+    "CAD Š/1 315",
+    "DULAT 751",
+    "Lane 1418",
+    "Payne Smith 379"
+   ]
+  },
+  "2418": {
+   "gloss": "all, every, the whole; complete; crown",
+   "sources": [
+    "CAD K 358",
+    "DULAT 432",
+    "HALOT 480",
+    "Krahmalkov 229",
+    "Payne Smith 214",
+    "Sanmartín GlOS 1, 306"
+   ]
+  },
+  "2423": {
+   "gloss": "viper, asp, snake",
+   "sources": [
+    "Brock. 618",
+    "DJPA 456a apud CAL; Tal 718",
+    "HALOT 990",
+    "Ja. 1255"
+   ]
+  },
+  "2464": {
+   "gloss": "fish",
+   "sources": [
+    "HALOT 213"
+   ]
+  },
+  "2470": {
+   "gloss": "earth, soil, dust; ashes",
+   "sources": [
+    "BK 2 1078",
+    "Br 373",
+    "Jahn 210",
+    "Kogan 2011, 189",
+    "LGz. 330",
+    "Sabaweb lemma 4515"
+   ]
+  },
+  "2483": {
+   "gloss": "to burn, kindle; fire",
+   "sources": [
+    "Al-Jallad–Jaworska 140",
+    "DULAT 560",
+    "Lane 2959",
+    "Payne Smith 195",
+    "Payne Smith 7"
+   ]
+  },
+  "2494": {
+   "gloss": "good, pleasant; perfume",
+   "sources": [
+    "Al-Jallad 2026, 161",
+    "BDB 373",
+    "CAD Ṭ 34",
+    "HALOT 371",
+    "Krahmalkov 278",
+    "LM 100 apud SEDonline 116",
+    "Lane 1901",
+    "Sanmartín GlOS 2, 311–312"
+   ]
+  },
+  "2495": {
+   "gloss": "enough, sufficient; good",
+   "sources": [
+    "HALOT 219",
+    "Huehnergard 2012, 145",
+    "T 69"
+   ]
+  },
+  "2498": {
+   "gloss": "to kill; fight",
+   "sources": [
+    "Al-Jallad 2026, 114",
+    "BDB 881",
+    "Kogan 2015, ch. 7 §2.3 no. 43",
+    "LGz. 451",
+    "Streck 2000, 110"
+   ]
+  },
+  "2500": {
+   "gloss": "to know; knowledge; to make known",
+   "sources": [
+    "Biella 230",
+    "Buck 2019, 334",
+    "Gelb AS 21, 21",
+    "Krahmalkov 206",
+    "LGz. 626",
+    "OLA80 §43.8"
+   ]
+  },
+  "2511": {
+   "gloss": "moon, month",
+   "sources": [
+    "AHw 1466",
+    "Kogan 2015, ch. 1 §1.3 no. 54",
+    "LGz. 617",
+    "Sanmartín GlOS 2, 353; Huffmon APNM 170"
+   ]
+  },
+  "2518": {
+   "gloss": "new; to renew; new moon",
+   "sources": [
+    "BK 1, 390",
+    "Biella 167",
+    "CAD E 30",
+    "DNWSI 351",
+    "Krahmalkov 177",
+    "SD 65"
+   ]
+  },
+  "2544": {
+   "gloss": "smoke, incense; to burn incense",
+   "sources": [
+    "Buck 2019, 331",
+    "HALOT 1092",
+    "HALOT 1094–1095",
+    "Kogan 2015, ch. 5 §2.1.2 no. 78",
+    "Krahmalkov 426",
+    "LGz 452",
+    "SD 109",
+    "Sanmartín GlOS 1, 359",
+    "T 287"
+   ]
+  },
+  "2548": {
+   "gloss": "star",
+   "sources": [
+    "Antalík 1998, 40",
+    "Sabaweb lemma 2830",
+    "Sanmartín GlOS 1, 297",
+    "T 141"
+   ]
+  },
+  "2553": {
+   "gloss": "two, second, double",
+   "sources": [
+    "Krahmalkov 474",
+    "Payne Smith 616",
+    "SD 151",
+    "Sabaweb lemma 1412",
+    "T 327"
+   ]
+  },
+  "2567": {
+   "gloss": "father; lord",
+   "sources": [
+    "DULAT 16 (read; ảd 'father')",
+    "Gelb AS 21, 13",
+    "Sanmartín GlOS 1, 7–8"
+   ]
+  },
+  "2577": {
+   "gloss": "shepherd, herdsman; sheep, lamb",
+   "sources": [
+    "BK 2 1321",
+    "CAD N/1 333",
+    "DULAT 630",
+    "HALOT 719, 720",
+    "Payne Smith 350",
+    "VE 958"
+   ]
+  },
+  "2607": {
+   "gloss": "to precede, go before; former, ancient; east",
+   "sources": [
+    "Al-Jallad 2026, 111",
+    "BK 2, 690",
+    "CAD Q 295, 296",
+    "HALOT 1067",
+    "HALOT 1068",
+    "HALOT 1069",
+    "HALOT 1070, 1071",
+    "Krahmalkov 424",
+    "LGz. 421",
+    "Tropper UG §73.233.4"
+   ]
+  },
+  "2608": {
+   "gloss": "to give; gift",
+   "sources": [
+    "Al-Jallad 2026, 106",
+    "Gelb AS 21, 27",
+    "T 132",
+    "T 132; B 328",
+    "T 206"
+   ]
+  },
+  "2611": {
+   "gloss": "to be good, pleasant, gracious; favour",
+   "sources": [
+    "Al-Jallad 2026, 98",
+    "Biella 308",
+    "Buck 2019, 329–330",
+    "Gelb AS 21, 26",
+    "Lane 3035",
+    "T 187"
+   ]
+  },
+  "2614": {
+   "gloss": "to be just, righteous, in the right; to speak the truth",
+   "sources": [
+    "HALOT 1001, 1003",
+    "LGz. 548",
+    "Sanmartín GlOS 2, 215"
+   ]
+  },
+  "2620": {
+   "gloss": "to strike, beat, smite; wound, kill; fight",
+   "sources": [
+    "Biella 271-2",
+    "CAD M/1 81",
+    "CDG 337 apud SEDonline 111",
+    "DNWSI 610",
+    "DULAT 534",
+    "MD 258",
+    "TAD 353 apud SEDonline 111"
+   ]
+  },
+  "2639": {
+   "gloss": "to tread, trample; road, way; power",
+   "sources": [
+    "Biella 86",
+    "DULAT 279",
+    "HALOT 231–232",
+    "Payne Smith 97",
+    "T 75",
+    "Tropper UG 120"
+   ]
+  },
+  "2657": {
+   "gloss": "saffron, crocus; yellow",
+   "sources": [
+    "BK II 888",
+    "Brock. 346",
+    "HALOT 498",
+    "LS 225"
+   ]
+  },
+  "2658": {
+   "gloss": "old, ancient, noble; to pass by, cross",
+   "sources": [
+    "BK 2, 165",
+    "CAD E 384",
+    "DULAT 189",
+    "HALOT 903",
+    "HALOT 903, 904",
+    "Klein s.v. עתק ᴵ",
+    "Sanmartín GlOS 1, 93"
+   ]
+  },
+  "2660": {
+   "gloss": "to be clean, pure; to purify",
+   "sources": [
+    "DULAT 875",
+    "HALOT 369",
+    "Kogan 2015, ch. 2 §5.2.2.1 no. 35",
+    "LGz. 589",
+    "Lane 1886",
+    "Leslau 586",
+    "T 119"
+   ]
+  },
+  "2661": {
+   "gloss": "to burn, kindle; pursue",
+   "sources": [
+    "DJPA 151a apud CAL",
+    "Gelb AS 21, 17",
+    "HALOT 223",
+    "Klein s.v. דלק ᴵ"
+   ]
+  },
+  "2678": {
+   "gloss": "linen; tunic",
+   "sources": [
+    "BK 2, 864",
+    "CAD K 473",
+    "DULAT 464",
+    "HALOT 505",
+    "Krahmalkov 246",
+    "MD 216"
+   ]
+  },
+  "2691": {
+   "gloss": "wheat, grain",
+   "sources": [
+    "CAD U/W 352",
+    "DULAT 372",
+    "HALOT 307",
+    "JJ 119",
+    "Kogan 2011, 203",
+    "OLA80 §29.49",
+    "Sanmartín GlOS 1, 245"
+   ]
+  },
+  "2694": {
+   "gloss": "olive, olive tree; olive oil",
+   "sources": [
+    "BK 1, 1030",
+    "DULAT 984",
+    "HALOT 268",
+    "Hoch 395",
+    "LGz. 647"
+   ]
+  },
+  "2696": {
+   "gloss": "cumin",
+   "sources": [
+    "BK 2, 931",
+    "CAD K 131",
+    "DULAT 441",
+    "HALOT 481"
+   ]
+  },
+  "2699": {
+   "gloss": "pomegranate",
+   "sources": [
+    "CAD N/2 345",
+    "DULAT 499",
+    "HALOT 1241–1242",
+    "HALOT 1242"
+   ]
+  },
+  "2701": {
+   "gloss": "to count, recount; to write; book, scribe",
+   "sources": [
+    "Al-Jallad 2026, 130",
+    "DULAT 755",
+    "HALOT 765",
+    "HALOT 768",
+    "Krahmalkov 347"
+   ]
+  },
+  "2707": {
+   "gloss": "burnt offering, holocaust",
+   "sources": [
+    "HALOT 830",
+    "Krahmalkov 374"
+   ]
+  },
+  "2709": {
+   "gloss": "to vow; vow, votive offering; to warn",
+   "sources": [
+    "Al-Jallad 2026, 99",
+    "Biella 295",
+    "CAD N/2 139",
+    "HALOT 674",
+    "SD 91; Biella 99, 294",
+    "Sabaweb lemmas 4603, 4604"
+   ]
+  },
+  "2714": {
+   "gloss": "to anoint, rub with oil",
+   "sources": [
+    "BK 2, 1102",
+    "DULAT 582",
+    "HALOT 643",
+    "LGz. 363",
+    "Sanmartín GlOS 2, 55"
+   ]
+  },
+  "2715": {
+   "gloss": "to pour a libation; to cast metal",
+   "sources": [
+    "CAD N/2 15",
+    "DULAT 635",
+    "HALOT 702, 703",
+    "HALOT 703",
+    "Krahmalkov 329",
+    "Pentiuc 2001, 132–133",
+    "Sanmartín GlOS 2, 101",
+    "T 188"
+   ]
+  },
+  "2718": {
+   "gloss": "Athirat, Asherah; sacred pole, grove",
+   "sources": [
+    "DULAT 125",
+    "HALOT 99",
+    "T 36"
+   ]
+  },
+  "2719": {
+   "gloss": "god, goddess; El",
+   "sources": [
+    "BK 1, 48",
+    "CAD I/J 91",
+    "DULAT 46",
+    "HALOT 48",
+    "Krahmalkov 49",
+    "SD 5; Biella 15"
+   ]
+  },
+  "2721": {
+   "gloss": "craftsman, artisan",
+   "sources": [
+    "DULAT 366",
+    "HALOT 358",
+    "Krahmalkov 198"
+   ]
+  },
+  "2735": {
+   "gloss": "cedar",
+   "sources": [
+    "DULAT 109",
+    "HALOT 86",
+    "Kogan 2011, 202",
+    "Sanmartín GlOS 1, 43–44"
+   ]
+  },
+  "2737": {
+   "gloss": "honey; syrup",
+   "sources": [
+    "BK 1, 667",
+    "CAD D 163",
+    "HALOT 212",
+    "Kogan 2011, 241",
+    "LGz. 122"
+   ]
+  },
+  "2739": {
+   "gloss": "to serve, work; servant, slave; worship",
+   "sources": [
+    "DULAT 136",
+    "HALOT 773–774",
+    "HALOT 774",
+    "Krahmalkov 351",
+    "Lane 1936",
+    "Pentiuc 2001, 21",
+    "SD 11; Sabaweb lemma 1400"
+   ]
+  },
+  "2744": {
+   "gloss": "lord, master",
+   "sources": [
+    "DNWSI 15 apud SEDonline 207",
+    "DULAT 19",
+    "DULAT 19; UVST 48",
+    "HALOT 12",
+    "T 5"
+   ]
+  },
+  "2751": {
+   "gloss": "cream, curds, butter, ghee",
+   "sources": [
+    "DULAT 390",
+    "HALOT 325",
+    "SD 61",
+    "Sanmartín GlOS 1, 272"
+   ]
+  },
+  "2758": {
+   "gloss": "spring, fountain",
+   "sources": [
+    "BK 2, 1131",
+    "HALOT 612",
+    "Krahmalkov 381",
+    "OLA80 §67.11"
+   ]
+  },
+  "2760": {
+   "gloss": "to live; life, the living",
+   "sources": [
+    "DULAT 374",
+    "HALOT 308",
+    "LGz. 252",
+    "Payne Smith 139",
+    "T 103"
+   ]
+  },
+  "2762": {
+   "gloss": "righteousness, justice, truth",
+   "sources": [
+    "Al-Jallad 2026, 146",
+    "DULAT 768",
+    "HALOT 1004",
+    "SD 141; Biella 416, 417",
+    "Sanmartín GlOS 2, 214"
+   ]
+  },
+  "2763": {
+   "gloss": "to gather, assemble",
+   "sources": [
+    "CAD K 114–117",
+    "HALOT 484",
+    "Krahmalkov 236",
+    "Payne Smith 219"
+   ]
+  },
+  "2765": {
+   "gloss": "the deep, primeval ocean; sea",
+   "sources": [
+    "Antalík 1998, 43",
+    "CAD T 150",
+    "DULAT 851",
+    "HALOT 1690",
+    "Kogan 2011, 191",
+    "VE 1343"
+   ]
+  },
+  "2766": {
+   "gloss": "to cut, sever; make a covenant",
+   "sources": [
+    "CAD K 215",
+    "HALOT 500",
+    "Krahmalkov 243",
+    "T 149"
+   ]
+  },
+  "2769": {
+   "gloss": "to be strong, mighty; strength",
+   "sources": [
+    "Al-Jallad–Jaworska 38",
+    "BK 2, 239",
+    "Buck 2019, 325",
+    "CAD E 428",
+    "DULAT 193",
+    "HALOT 808",
+    "LGz. 81",
+    "LGz. 81; MD 12",
+    "SD 24 apud SEDonline 1248"
+   ]
+  },
+  "2771": {
+   "gloss": "Anat, a goddess",
+   "sources": [
+    "DULAT 167",
+    "Gelb AS 21, 15",
+    "Hvidberg-Hansen, II, 144 n. 351",
+    "TLA lemma 38980"
+   ]
+  },
+  "2773": {
+   "gloss": "Kothar, the craftsman god; skill",
+   "sources": [
+    "Antalík 1998, 43",
+    "DULAT 467",
+    "HALOT 503"
+   ]
+  },
+  "2776": {
+   "gloss": "to dwell, settle; dwelling; to place",
+   "sources": [
+    "BK 1, 1115",
+    "CAD Š/1 116",
+    "DULAT 803",
+    "HALOT 1496",
+    "HALOT 646",
+    "Kogan 2015, ch. 3 §5.3 no. 32",
+    "Krahmalkov 460",
+    "SEDRA 3199"
+   ]
+  },
+  "2783": {
+   "gloss": "maidservant, handmaid",
+   "sources": [
+    "CAD A/2 82",
+    "HALOT 61",
+    "Krahmalkov 61",
+    "VE 1160; Krebernik 1983, 41"
+   ]
+  },
+  "2815": {
+   "gloss": "to bewitch; sorcerer, sorcery",
+   "sources": [
+    "BDB 506; HALOT 503",
+    "DULAT 462",
+    "HALOT 503"
+   ]
+  },
+  "2835": {
+   "gloss": "to gather, store up",
+   "sources": [
+    "BDB 485",
+    "CAD K 114",
+    "Gelb AS 21, 23",
+    "Krahmalkov 232"
+   ]
+  },
+  "2838": {
+   "gloss": "jar, pitcher; cup, goblet",
+   "sources": [
+    "CAD K 219, 221",
+    "DULAT 452",
+    "Sanmartín GlOS 1, 319"
+   ]
+  },
+  "2875": {
+   "gloss": "to be inaccessible; to fortify",
+   "sources": [
+    "BDB 130",
+    "HALOT 148",
+    "HALOT 148 (III בצר)"
+   ]
+  },
+  "2914": {
+   "gloss": "twin; to bear twins",
+   "sources": [
+    "BDB 1060",
+    "HALOT 1694",
+    "Sanmartín GlOS 2, 290"
+   ]
+  },
+  "2961": {
+   "gloss": "to weigh, pay; weight, shekel",
+   "sources": [
+    "AHw 1178",
+    "Al-Jallad–Jaworska 136",
+    "BK 1, 230",
+    "HALOT 1642",
+    "HALOT 1643",
+    "LGz. 509",
+    "T 203"
+   ]
+  },
+  "2962": {
+   "gloss": "to be ready, prepare; ready",
+   "sources": [
+    "HALOT 901",
+    "HALOT 903",
+    "SEDRA 2432"
+   ]
+  },
+  "2964": {
+   "gloss": "to adorn, glorify; glory, beauty; turban",
+   "sources": [
+    "HALOT 1772",
+    "HALOT 908",
+    "Jastrow 1131"
+   ]
+  },
+  "2967": {
+   "gloss": "Tanit, a goddess",
+   "sources": [
+    "Krahmalkov 495",
+    "Krahmalkov 495, s.v. TNT-PNBʿL"
+   ]
+  },
+  "2993": {
+   "gloss": "kor, a large measure",
+   "sources": [
+    "HALOT 496",
+    "T 148"
+   ]
+  },
+  "2994": {
+   "gloss": "Dagan, a god",
+   "sources": [
+    "DULAT 265; HALOT 213",
+    "Gelb AS 21, 17; Huffmon APNM 180",
+    "HALOT 213"
+   ]
+  },
+  "2998": {
+   "gloss": "to hold back, restrain, withhold; prison",
+   "sources": [
+    "Al-Jallad–Jaworska 89",
+    "CAD K 359",
+    "CAD K 360",
+    "HALOT 475",
+    "Klein s.v. כלא ᴵ",
+    "LGz. 281",
+    "LGz. 282"
+   ]
+  },
+  "3035": {
+   "gloss": "reed, cane; aromatic reed",
+   "sources": [
+    "CAD Q 85",
+    "HALOT 1113",
+    "Sanmartín GlOS 1, 348"
+   ]
+  },
+  "3082": {
+   "gloss": "peg, pin; to drive in, fix fast",
+   "sources": [
+    "HALOT 450 apud SEDonline 1168",
+    "Lane 2916–2917",
+    "Lane 2917 apud SEDonline 1168"
+   ]
+  },
+  "3139": {
+   "gloss": "who, which, that",
+   "sources": [
+    "CAD Š/3 152 (šu)",
+    "HALOT 1365",
+    "Krahmalkov 461"
+   ]
+  },
+  "3176": {
+   "gloss": "to be pleased; to favour, accept with favour",
+   "sources": [
+    "HALOT 1280",
+    "HALOT 1280 apud SEDonline 1308",
+    "HALOT 1281",
+    "LS 404",
+    "Lane 1099 apud SEDonline 1308",
+    "SD 115 apud SEDonline 1308; LM 76 apud SEDonline 1308"
+   ]
+  },
+  "3178": {
+   "gloss": "ground, floor",
+   "sources": [
+    "CAD Q 113",
+    "DJPA 507 apud SEDonline 514",
+    "HALOT 1148 apud SEDonline 514",
+    "Jastrow 1427 apud SEDonline 514",
+    "LA 5 100 apud SEDonline 514",
+    "LS 387; SLOnline 7838"
+   ]
+  },
+  "3186": {
+   "gloss": "thunder; the storm god",
+   "sources": [
+    "Gelb AS 21, 19",
+    "HALOT 238",
+    "Kogan 2011, 194"
+   ]
+  },
+  "3194": {
+   "gloss": "shoot, bud; to flourish",
+   "sources": [
+    "CAD P 403",
+    "Kogan 2011, 201"
+   ]
+  },
+  "3196": {
+   "gloss": "thistle",
+   "sources": [
+    "Kogan 2011, 201"
+   ]
+  },
+  "3201": {
+   "gloss": "terebinth, pistachio",
+   "sources": [
+    "CAD B 358",
+    "CAD B 359",
+    "DULAT 249",
+    "HALOT 121"
+   ]
+  },
+  "3225": {
+   "gloss": "excellence, abundance; glory",
+   "sources": [
+    "Al-Jallad 2026, 90",
+    "HALOT 543",
+    "Kogan 2015, ch. 3 §5.2 no. 37",
+    "Lane 2690"
+   ]
+  },
+  "3237": {
+   "gloss": "to hide, lie in wait; ambush",
+   "sources": [
+    "Al-Jallad 2026, 83",
+    "HALOT 481",
+    "Rubin 2018 36"
+   ]
+  },
+  "3243": {
+   "gloss": "luck, fortune; Fortune as a god",
+   "sources": [
+    "AED 2034 apud SEDonline 40",
+    "HALOT 176 apud SEDonline 40",
+    "LSyr. 104, SL 204 apud SEDonline 40",
+    "Lane 384 apud SEDonline 40",
+    "MD 73",
+    "Pentiuc 2001, 50",
+    "Sanmartín GlOS 1, 175"
+   ]
+  },
+  "3250": {
+   "gloss": "to be silent, still; rest",
+   "sources": [
+    "CAD S 74",
+    "CDG 497 apud SEDonline 321",
+    "HALOT 756 apud SEDonline 321",
+    "LIQ 160 apud SEDonline 321",
+    "LSyr. 777, SL 1559 apud SEDonline 321",
+    "Lane 1389 apud SEDonline 321"
+   ]
+  },
+  "3266": {
+   "gloss": "like, as; according to",
+   "sources": [
+    "BK 2 849, Lane 2581 apud SEDonline 1387",
+    "CAD K 322",
+    "DULAT 415–416",
+    "HALOT 453 apud SEDonline 1387",
+    "Tomback 1978: 136 apud SEDonline 1387"
+   ]
+  },
+  "3320": {
+   "gloss": "to set in order, put right; restore",
+   "sources": [
+    "CAD T 197",
+    "HALOT 1784 apud SEDonline 2146",
+    "HALOT 2009 apud SEDonline 2146",
+    "LSyr. 831 apud SEDonline 2146",
+    "Lane 309 apud SEDonline 2146",
+    "Sanmartín GlOS 2, 294"
+   ]
+  },
+  "3332": {
+   "gloss": "to help, save; salvation",
+   "sources": [
+    "Benz PNPPI 327",
+    "Buck 2019, 335",
+    "Gelb AS 21, 22",
+    "HALOT 448",
+    "HALOT 449"
+   ]
+  },
+  "3456": {
+   "gloss": "to desire, wish, long for",
+   "sources": [
+    "CAD Ṣ 119 apud SEDonline 2075",
+    "Gelb AS 21, 34",
+    "HALOT 997",
+    "Lane 1649 apud SEDonline 2075",
+    "Sanmartín GlOS 2, 214"
+   ]
+  },
+  "3463": {
+   "gloss": "king, prince; queen",
+   "sources": [
+    "Buck 2019, 332",
+    "CAD Š/2 76",
+    "DULAT 829",
+    "HALOT 1351 apud SEDonline 2076",
+    "Pentiuc 2001, 171"
+   ]
+  },
+  "3482": {
+   "gloss": "here, behold; this",
+   "sources": [
+    "AED 1227",
+    "Al-Jallad–Jaworska 78",
+    "CAD A/2 126",
+    "CAD A/2 136",
+    "DULAT 337–338",
+    "DULAT 339",
+    "HALOT 251",
+    "LSyr. 178"
+   ]
+  },
+  "3505": {
+   "gloss": "provisions for a journey",
+   "sources": [
+    "CAD Ṣ 172",
+    "CAD Ṣ 228",
+    "HALOT 1020–1021",
+    "Lane 1267",
+    "Payne Smith 112"
+   ]
+  },
+  "3509": {
+   "gloss": "to chant a dirge, lament; song",
+   "sources": [
+    "HALOT 1096",
+    "HALOT 1097",
+    "LGz. 437",
+    "Payne Smith 504",
+    "Payne Smith 511",
+    "Pentiuc 2001, 150–151"
+   ]
+  },
+  "3547": {
+   "gloss": "to repeat, do twice; recite",
+   "sources": [
+    "Buck 2019, 334",
+    "CAD Š/1 398",
+    "HALOT 1598",
+    "Payne Smith 616"
+   ]
+  },
+  "3607": {
+   "gloss": "bag, purse, bundle",
+   "sources": [
+    "HALOT 1054",
+    "Lane 1672",
+    "Payne Smith 485"
+   ]
+  },
+  "3626": {
+   "gloss": "broom, a desert shrub",
+   "sources": [
+    "HALOT 1300",
+    "Lane 1029"
+   ]
+  },
+  "3629": {
+   "gloss": "acacia",
+   "sources": [
+    "HALOT 1473"
+   ]
+  },
+  "3630": {
+   "gloss": "partner, companion, friend",
+   "sources": [
+    "AHw 1321",
+    "CAD T 184"
+   ]
+  },
+  "3633": {
+   "gloss": "to be dark; hidden",
+   "sources": [
+    "DULAT 316",
+    "HALOT 835",
+    "LGz. 61"
+   ]
+  },
+  "3654": {
+   "gloss": "pasture, abode; to dwell",
+   "sources": [
+    "Al-Jallad 2026, 107",
+    "CAD N/1 249",
+    "HALOT 678",
+    "HALOT 678; Exod 15:13",
+    "Hab 2:5",
+    "Lane 3040"
+   ]
+  },
+  "3712": {
+   "gloss": "to bind fast, fetter, close up",
+   "sources": [
+    "HALOT 1300",
+    "Lane 1027"
+   ]
+  },
+  "3774": {
+   "gloss": "to wear away, efface; old",
+   "sources": [
+    "Gelb AS 21, 17",
+    "Lane 851"
+   ]
+  },
+  "3775": {
+   "gloss": "ʿAṯtar, a god",
+   "sources": [
+    "DULAT 190–191",
+    "Gelb AS 21, 15"
+   ]
+  },
+  "3776": {
+   "gloss": "to grant a favour; favour, benefit",
+   "sources": [
+    "Al-Jallad–Jaworska 133",
+    "Lane 3024",
+    "SD 86"
+   ]
+  },
+  "3777": {
+   "gloss": "bowl, jug",
+   "sources": [
+    "HALOT 492",
+    "Sanmartín GlOS 1, 315"
+   ]
+  },
+  "3779": {
+   "gloss": "wine press, olive press, vat; estate",
+   "sources": [
+    "DULAT 307",
+    "HALOT 206",
+    "T 68"
+   ]
+  },
+  "3780": {
+   "gloss": "gift, tribute",
+   "sources": [
+    "HALOT 1476",
+    "HALOT 1476; T 316",
+    "LS 53 apud HALOT 1476",
+    "T 316"
+   ]
+  },
+  "3781": {
+   "gloss": "flax, linseed",
+   "sources": [
+    "DULAT 708",
+    "SEDRA 18465; SL 1348 apud DULAT 708"
+   ]
+  },
+  "3782": {
+   "gloss": "fuller; to full cloth",
+   "sources": [
+    "Lane 2534",
+    "Lane 2535",
+    "SEDRA 9175"
+   ]
+  },
+  "3783": {
+   "gloss": "to be first, precede; supremacy; strength",
+   "sources": [
+    "Al-Jallad 2026, 10",
+    "DULAT 128",
+    "DULAT 50",
+    "HALOT 21",
+    "Lane 126",
+    "Rubin 2018 822, 100",
+    "Sanmartín GlOS 1, 53"
+   ]
+  },
+  "3785": {
+   "gloss": "aurochs, wild ox; antelope",
+   "sources": [
+    "CAD D 164",
+    "Gelb AS 21, 17",
+    "HALOT 221"
+   ]
+  },
+  "3786": {
+   "gloss": "Canaan; Canaanite",
+   "sources": [
+    "DULAT 444",
+    "HALOT 485",
+    "Krahmalkov 236"
+   ]
+  },
+  "3787": {
+   "gloss": "stalk, reed; flute",
+   "sources": [
+    "CAD Š/3 256",
+    "DULAT 892"
+   ]
+  },
+  "3788": {
+   "gloss": "cella, inner room",
+   "sources": [
+    "CAD K 533",
+    "DULAT 423"
+   ]
+  },
+  "3789": {
+   "gloss": "shield; bar",
+   "sources": [
+    "Jastrow 1698",
+    "Lane 302"
+   ]
+  },
+  "3790": {
+   "gloss": "Yah, Yahweh",
+   "sources": [
+    "HALOT 393",
+    "HALOT 394"
+   ]
+  },
+  "3807": {
+   "gloss": "noble, lord, hero",
+   "sources": [
+    "CAD Š/3 417",
+    "DULAT 879–880",
+    "HALOT 1444"
+   ]
+  },
+  "3842": {
+   "gloss": "administrator, governor, prefect",
+   "sources": [
+    "DULAT 746",
+    "HALOT 755",
+    "HALOT 755; Sanmartín GlOS 2, 243",
+    "Krahmalkov 342",
+    "Pentiuc 2001, 155–156"
+   ]
+  },
+  "3843": {
+   "gloss": "to give freely; gift",
+   "sources": [
+    "CAD Q 156",
+    "CAD Q 275",
+    "Gelb AS 21, 29",
+    "Sanmartín GlOS 1, 364"
+   ]
+  },
+  "3844": {
+   "gloss": "weapon",
+   "sources": [
+    "CAD K 50",
+    "Gelb AS 21, 22"
+   ]
+  },
+  "3845": {
+   "gloss": "to dedicate; votive gift",
+   "sources": [
+    "CAD Š/2 40",
+    "CAD Š/3 111",
+    "Gelb AS 21, 33"
+   ]
+  },
+  "3846": {
+   "gloss": "to cover, wrap, protect; protection",
+   "sources": [
+    "CAD K 342",
+    "LGz. 275",
+    "LGz. 276"
+   ]
+  },
+  "3847": {
+   "gloss": "offspring, descendants, posterity",
+   "sources": [
+    "HALOT 696",
+    "Klein s.v. נִין"
+   ]
+  },
+  "3848": {
+   "gloss": "pasture, meadow",
+   "sources": [
+    "HALOT 496",
+    "Klein s.v. כַּר ᴵᴵ",
+    "T 149"
+   ]
+  },
+  "3849": {
+   "gloss": "large vessel, jar; beer container",
+   "sources": [
+    "CAD K 408"
+   ]
+  },
+  "3850": {
+   "gloss": "official, administrator",
+   "sources": [
+    "CAD Q 264"
+   ]
+  },
+  "3851": {
+   "gloss": "mourner, wailer",
+   "sources": [
+    "CAD L 48"
+   ]
+  },
+  "3852": {
+   "gloss": "tablet, slip; lot, decree; goblet",
+   "sources": [
+    "Jastrow 1173",
+    "Klein s.v. פִּתְקָה"
+   ]
+  },
+  "3853": {
+   "gloss": "a measure of capacity",
+   "sources": [
+    "CAD Q 288"
+   ]
+  },
+  "3862": {
+   "gloss": "to curl the hair",
+   "sources": [
+    "CAD K 314",
+    "CAD K 316"
+   ]
+  },
+  "3863": {
+   "gloss": "to remember, call to mind",
+   "sources": [
+    "CAD Ḫ 122",
+    "DULAT 405",
+    "Pentiuc 2001, 58"
+   ]
+  },
+  "3864": {
+   "gloss": "to embrace; fibula",
+   "sources": [
+    "CAD E 29",
+    "DULAT 22"
+   ]
+  },
+  "3865": {
+   "gloss": "hay, dry grass, fodder",
+   "sources": [
+    "HALOT 363",
+    "Lane 573"
+   ]
+  },
+  "3866": {
+   "gloss": "flask, jar; a measure",
+   "sources": [
+    "CAD K 463",
+    "DULAT 466"
+   ]
+  },
+  "3868": {
+   "gloss": "fruit; to prosper",
+   "sources": [
+    "HALOT 677",
+    "HALOT 696"
+   ]
+  },
+  "3870": {
+   "gloss": "storeroom, outbuilding",
+   "sources": [
+    "CAD A/2 349",
+    "HALOT 76"
+   ]
+  },
+  "3987": {
+   "gloss": "salt-works, salt marsh; salt",
+   "sources": [
+    "CAD Ṣ 150",
+    "DULAT 781",
+    "HALOT 1023",
+    "LGz. 565",
+    "Watson 2020, 16",
+    "Watson 2020, 17"
+   ]
+  },
+  "4113": {
+   "gloss": "archer; chariot warrior",
+   "sources": [
+    "CAD Š/1 366",
+    "DULAT 909",
+    "Hoch 261–262"
+   ]
+  },
+  "4295": {
+   "gloss": "to creep, swarm; creeping things; set in motion",
+   "sources": [
+    "HALOT 1245",
+    "HALOT 1245–1246",
+    "HALOT 1246",
+    "Sanmartín GlOS 2, 167"
+   ]
+  },
+  "4409": {
+   "gloss": "physician, healer; to heal",
+   "sources": [
+    "CAD A/2 344",
+    "DNWSI 88",
+    "Sanmartín GlOS 1, 47"
+   ]
+  },
+  "4410": {
+   "gloss": "terrace, field",
+   "sources": [
+    "DULAT 799",
+    "HALOT 1422–1423"
+   ]
+  },
+  "4411": {
+   "gloss": "to crumble; to mix meal with oil",
+   "sources": [
+    "Lane 201"
+   ]
+  },
+  "4412": {
+   "gloss": "to be proud, insolent, rebellious",
+   "sources": [
+    "Harding 406",
+    "Lane 1951"
+   ]
+  },
+  "4413": {
+   "gloss": "a kind of bird",
+   "sources": [
+    "CAD B 349"
+   ]
+  },
+  "4414": {
+   "gloss": "closing, bolting of a door",
+   "sources": [
+    "HALOT 1769"
+   ]
+  },
+  "4421": {
+   "gloss": "young woman, girl; serving girl",
+   "sources": [
+    "CAD Š/2 408",
+    "DULAT 886–887"
+   ]
+  },
+  "135": {
+   "gloss": "skin disease with white patches, rash; to shine white",
+   "sources": [
+    "BK 1 172",
+    "Brock 61",
+    "HALOT 112",
+    "Lane 267",
+    "Payne Smith 36"
+   ]
+  },
+  "1508": {
+   "gloss": "to open wide, open the mouth; cry out",
+   "sources": [
+    "DULAT 650",
+    "Lane 2421",
+    "Payne Smith 453"
+   ]
+  },
+  "K0389": {
+   "gloss": "to turn, go around, surround",
+   "sources": [
+    "BDB 685",
+    "Biella 501",
+    "DNWSI 772",
+    "LGz. 483"
+   ]
+  },
+  "K0776": {
+   "gloss": "to strangle, choke, press tight",
+   "sources": [
+    "HALOT 336",
+    "LGz. 263",
+    "LS 183",
+    "Payne Smith 149"
+   ]
+  }
+ }
+}

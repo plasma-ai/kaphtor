@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | naʾaṣ 'spurn' | Anderson–Moser 2024 root nʾṣ |  |
 | Ugaritic | nʾṣ 'despise' | Anderson–Moser 2024 root nʾṣ |  |
 | Judaic Aramaic | nyʾwṣh (HALOT 658) | HALOT 658 |  |
-| Arabic | nwṣ (HALOT 658) | HALOT 658 |  |
+| Canaanite | ia-an-aṣ-ni (EA) (Sanmartín GlOS 2, 69) | Sanmartín GlOS 2, 69 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

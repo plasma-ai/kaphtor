@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/T/TU_JU_MA
 title: "TU-JU-MA"
-desc: "Tuʿlum: personal name, 'hidden one' (?). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Tuʿlum: personal name, 'hidden one'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TU-JU-MA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tuʿlum |
-| Meaning | personal name, 'hidden one' (?) |
+| Meaning | personal name, 'hidden one' |
 | Root | ʿ-l-m |
 | Proto-Semitic | \*ɣlm (#3633) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a: TU-JU-MA 1 in the roster under MA-KA-RI-TE, 'merchants'. √ʿ-l-m 'to hide', ʿ unwritten, with JU = /lu/. Rival: √t-l-m, Heb. telem 'furrow' (HALOT 1740). One attestation.
+HT 117a: TU-JU-MA 1 in the roster under MA-KA-RI-TE, 'merchants'. √ʿ-l-m 'to be hidden' (HALOT 834), ʿ unwritten, JU writing lu. Rival: √t-l-m, Heb. telem 'furrow' (HALOT 1740). One attestation.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ HT 117a: TU-JU-MA 1 in the roster under MA-KA-RI-TE, 'merchants'. √ʿ-l-m 'to 
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 

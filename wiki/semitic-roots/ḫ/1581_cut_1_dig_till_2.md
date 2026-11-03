@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫdd \[-u-\] 2 (Lane 705) | Lane 705 |  |
-| Akkadian | ḫadādu 1 |  |  |
+| Akkadian | ḫuddudu 1 (CAD Ḫ 222) | CAD Ḫ 222 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

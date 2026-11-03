@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | damḳ- |  | gloss withheld |
+| Akkadian | damḳ-; dumuqtu (CAD D 183) | CAD D 183 | gloss withheld |
 | Geez | ʾadmaqa; dəmuq (LGz. 135) | LGz. 135 | gloss withheld |
 | Ugaritic | dmq (LGz. 135) | LGz. 135 | gloss withheld |
 | Tigrinya | dämäqä (LGz. 135) | LGz. 135 | gloss withheld |

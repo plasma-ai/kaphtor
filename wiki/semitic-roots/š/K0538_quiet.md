@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠTQ (Aramaic Root Atlas; DNWSI 1200 apud CAL) | Aramaic Root Atlas; DNWSI 1200; CAL; Anderson–Moser 2024 root štq | gloss withheld |
+| Aramaic | ŠTQ (Aramaic Root Atlas; DNWSI 1200) | Aramaic Root Atlas; DNWSI 1200; Anderson–Moser 2024 root štq | gloss withheld |
 | Hebrew | šataq (BDB 1060; HALOT 1671) | BDB 1060; HALOT 1671 | gloss withheld |
 | Judaic Aramaic | šətaq (HALOT 1671; DJPA 569b apud CAL) | HALOT 1671; DJPA 569b; CAL |  |
 | Syrian Aramaic | štq (Kogan 2015, ch. 6 §3 no. 8) | Kogan 2015 ch. 6 §3 no. 8 | gloss withheld |

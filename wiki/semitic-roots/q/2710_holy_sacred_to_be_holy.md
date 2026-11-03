@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2710_holy_sacred_to_be_holy
 title: "*ḳadaš-: 'holy, sacred, to be holy'"
-desc: "Proto-Semitic *ḳadaš-, 'holy, sacred, to be holy': reflexes in 19 language(s)."
+desc: "Proto-Semitic *ḳadaš-, 'holy, sacred, to be holy': reflexes in 21 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2710"
@@ -29,17 +29,17 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | quds- 'holiness' (BK 2, 687) | BK 2, 687 |  |
+| Arabic | quds- (BK 2, 687); qadusa (LGz. 423) | BK 2, 687; LGz. 423 | gloss withheld |
 | Akkadian | qadištu (CAD Q 48); qadāšu, D quddušu (CAD Q 46) | CAD Q 48; CAD Q 46 | gloss withheld |
 | Ugaritic | qdš (DULAT 685-6); /qadiš(a)/, /qidšu/ (UVST 173) | DULAT 685-6; UVST 173 | gloss withheld |
-| Phoenician | qdš (DNWSI 995 apud SEDonline 1864) | DNWSI 995; SEDonline 1864 | gloss withheld |
-| Hebrew | qādōš (HALOT 1066) | HALOT 1066 | gloss withheld |
-| Tigre | qəddusām kətubām (OLA80 §31.12) | OLA80 §31.12 | gloss withheld |
+| Phoenician | qdš (DNWSI 995); mqdš (T 194–195); yqdšt (Krahmalkov 425) | DNWSI 995; T 194–195; Krahmalkov 425 | gloss withheld |
+| Hebrew | qādōš (HALOT 1066); qādaš (LGz. 423) | HALOT 1066; LGz. 423 | gloss withheld |
+| Tigre | qəddusām kətubām (OLA80 §31.12); qäddäsa (LGz. 423) | OLA80 §31.12; LGz. 423 | gloss withheld |
 | Aramaic | QDŠ (Aramaic Root Atlas; CAL s.v. qdš) | Aramaic Root Atlas; CAL s.v. qdš; Anderson–Moser 2024 root qdš | gloss withheld |
-| Geez | qaddasa 'sanctify' | Anderson–Moser 2024 root qdš |  |
-| Punic | qdš; kdš (T 138) | T 138; Anderson–Moser 2024 root qdš | gloss withheld |
+| Geez | qaddasa; qəddus (LGz. 423) | LGz. 423; Anderson–Moser 2024 root qdš | gloss withheld |
+| Punic | qdš; kdš (T 138); mqdš; mqdšm (T 194–195); qdšm; qdš; qdš (Krahmalkov 425) | T 138; T 194–195; Krahmalkov 425; Anderson–Moser 2024 root qdš | gloss withheld |
 | Judaic Aramaic | maqdᵉšā (HALOT 625); qdš, qudšā (HALOT 1072, 1076) | HALOT 625; HALOT 1072, 1076 |  |
-| Syrian Aramaic | maqdᵉšā (HALOT 625; Payne Smith 296); qudšā (HALOT 1076) | HALOT 625; Payne Smith 296; HALOT 1076 |  |
+| Syrian Aramaic | maqdᵉšā (HALOT 625; Payne Smith 296); qudšā (HALOT 1076); qaddeš (LGz. 423) | HALOT 625; Payne Smith 296; HALOT 1076; LGz. 423 | gloss withheld |
 | Epigraphic South Arabian | Sab. qds (HALOT 1066, 1076; Sabaweb lemma 4753) | HALOT 1066, 1076; Sabaweb lemma 4753 | gloss withheld |
 | Mandaic Aramaic | qadiša, qaduš, qudša (HALOT 1066, 1076) | HALOT 1066, 1076 |  |
 | Harsusi | qeds (LGz. 423) | LGz. 423 | gloss withheld |
@@ -48,6 +48,8 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | qiddäsä (LGz. 423) | LGz. 423 | gloss withheld |
 | Amorite | qdś: qadiśum, qudāśum (Gelb AS 21, 29); qadiS, qadis₁: ka-di-šum; qidiS: ᵈi-šar-qí-di-su; qudāS: gu-da-su-um (Sanmartín GlOS 1, 342) | Gelb AS 21 29; Sanmartín GlOS 1, 342 | gloss withheld |
 | Eblaitic | ga-ti-šum /ḳadišum/ (VE 100, Kogan–Krebernik 2021b: 684 apud SEDonline 1864; Krebernik 1983, 4); /qadas₁/: name mu-lu-ga-da-šum; ga-ti-šum /qadiS, qadis₁/ (Sanmartín GlOS 1, 342) | VE 100, Kogan–Krebernik 2021b: 684; SEDonline 1864; Krebernik 1983, 4; Sanmartín GlOS 1, 342 | gloss withheld |
+| Emar | /qaddus₁/: name qa-du-ša (Sanmartín GlOS 1, 342) | Sanmartín GlOS 1, 342 | gloss withheld |
+| Biblical Aramaic | qaddīš (HALOT 1066) | HALOT 1066 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

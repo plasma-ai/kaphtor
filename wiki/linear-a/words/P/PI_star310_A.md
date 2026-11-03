@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/P/PI_star310_A
 title: "PI-*310-A"
-desc: "pīnā: face, front, portion. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+desc: "pīnā: face, front. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "body", "hapax", "noun"]
 kind: "word"
 form: "PI-*310-A"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | pīnā |
-| Meaning | face, front, portion |
+| Meaning | face, front |
 | Root | p-n-y |
 | Proto-Semitic | \*pan- (#144) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | body, hapax, noun |
 | Semantic field | body_part |
 
 ### Note
 
-Same root as I-PI-NA-MA (/ipinama/ "face, presence"). At Zakros before OLIV · 2. PI-IN-A = pīnā or pinā.
+ZA 11a, after KU-PA · GRA+PA 1, heading OLIV 2. With \*310 at the proposed value IN, PI-IN-A writes pīnā 'face, front', the pin- of I-PI-NA-MA ʾippina=ma 'in the presence of': Heb. pānîm 'face' (HALOT 938), Ug. pnm 'face' (DULAT 664).
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Same root as I-PI-NA-MA (/ipinama/ "face, presence"). At Zakros before OLIV · 2
 
 ### Source
 
-di Mino
+di Mino; HALOT; DULAT
 
 ## Attestations
 

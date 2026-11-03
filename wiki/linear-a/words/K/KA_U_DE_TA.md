@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_U_DE_TA
 title: "KA-U-DE-TA"
 desc: "Kaw-tatta: Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "KA-U-DE-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kaw-tatta |
 | Meaning | Kaw-tatta (Hurrian personal name), kaw- + tatt- 'love'; rival Ugaritic PN kwt |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

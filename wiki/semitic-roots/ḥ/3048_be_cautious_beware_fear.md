@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/3048_be_cautious_beware_fear
 title: "*ḥḏr: 'be cautious, beware, fear'"
-desc: "Proto-Semitic *ḥḏr, 'be cautious, beware, fear': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḥḏr, 'be cautious, beware, fear': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3048"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ḥǝðūr (Rubin 2018 129) | Rubin 2018 129 | gloss withheld |
 | Arabic | taḥḏīr (Lane 534); ḥaḏira (Biella 168) | Lane 534; Biella 168 | gloss withheld |
 | Epigraphic South Arabian | Sab ḥḏr (Biella 168; Sabaweb lemma 2873) (SD 66; Sabaweb lemma 2873) | Biella 168; Sabaweb lemma 2873; SD 66 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥḏr (Al-Jallad 2026, 73) | Al-Jallad 2026 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

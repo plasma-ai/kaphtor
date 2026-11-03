@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/S/SA_MA_RO
 title: "SA-MA-RO"
-desc: "Samarō: Samarō, personal name; compare Northwest Semitic √š-m-r and Egyptian smr. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Samarō: Samarō, personal name, 'guard'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SA-MA-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -32,11 +32,11 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Samarō |
-| Meaning | Samarō, personal name; compare Northwest Semitic √š-m-r and Egyptian smr |
+| Meaning | Samarō, personal name, 'guard' |
 | Root | š-m-r |
 | Proto-Semitic | \*šVmVr- (#K0524) |
-| Language layer | NWS_or_Egyptian |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

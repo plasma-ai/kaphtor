@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_RA2
 title: "I-RA₂"
 desc: "ʾilā(t): goddess; rival ʾila 'god'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "divine"]
+tags: ["linear-a", "word", "tier-1", "noun", "ritual"]
 kind: "word"
 form: "I-RA₂"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | goddess; rival ʾila 'god' |
 | Root | ʾ-l |
 | Proto-Semitic | \*ʾil- (#2719) |
-| Language layer | NWS |
-| Category | divine |
+| Language layer | Semitic |
+| Tags | noun, ritual |
 | Semantic field | divine |
 
 ### Note
 
-HT Wa 1006–1013: eight sealings bearing only I-RA₂, in two hands (scribes 52 and 53), from one deposit, Portico 11 and Room 13, LM IB. One context. I = /ʾi/, RA₂ = /la/. Feminine ʾilat- 'goddess' (Akk. ilat, Ug. ilt), final -t unwritten. Rival: masculine ʾila 'god', the Amorite name element \*ilāh, almost always first in a name (Huffmon 1965, 165: I-la-sa-lim, Sa-mu-ū-i-la); Ebla has bare i-la 'the god' as a name (Pagan 1998, row 2700). \|\| Huehnergard: Ug il /ʾilu/ "god; El (supreme deity)"; Biradical qil nominal. Pl. ilm /ʾilūma/. BH cognate: ʾēl "God, El" (Canaanite Shift ī &gt; ē) (Huehnergard 2012, p. 41, §II.F). See SA-RE-JU, PI-RU-E-JU and DI-NA-RO.
+HT Wa 1006–1013: eight sealings bearing only I-RA₂, in two hands (scribes 52 and 53), from one deposit, Portico 11 and Room 13, LM IB; one context. I ʾi, RA₂ la: feminine ʾilat- 'goddess' (Akk. ilat, Ug. ỉlt 'goddess', DULAT 63), the final -t unwritten. Rival: masculine ʾila 'god', Ug. il /ʾilu/ 'god; El' (Huehnergard 2012, 41), the Amorite name element \*ilāh, almost always first in a name (Huffmon 1965, 162; I-la-sa-lim, Sa-mu-ū-i-la, 165), and Ebla's bare i-la 'the god' as a name (Pagan 1998, row 2700). See SA-RE-JU, PI-RU-E-JU and DI-NA-RO.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ HT Wa 1006–1013: eight sealings bearing only I-RA₂, in two hands (scribes 52
 
 ### Source
 
-HTWa1006–1013; GORILA II; Huffmon 1965, 165
+di Mino; GORILA II; DULAT; Huehnergard 2012; Huffmon 1965; Pagan 1998
 
 ## Attestations
 

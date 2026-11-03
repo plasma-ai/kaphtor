@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/2706_offering_sacrifice
 title: "*qurbān-: 'offering, sacrifice'"
-desc: "Proto-Semitic *qurbān-, 'offering, sacrifice': reflexes in 9 language(s)."
+desc: "Proto-Semitic *qurbān-, 'offering, sacrifice': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2706"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic qrb; Dadanitic qrb (Al-Jallad 2026, 112) | Al-Jallad 2026 112 | gloss withheld |
 | Arabic | qurbān- 'offering' (BK 2, 704) | BK 2, 704 |  |
 | Akkadian | qerbēnu (CAD Q 210) | CAD Q 210 | gloss withheld |
 | Phoenician | qrbn (B 406); qrb (T 293) | B 406; T 293 | gloss withheld |
@@ -38,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | qʷerbān (HALOT 1137) | HALOT 1137 |  |
 | Syrian Aramaic | qūrbānā (LGz. 440) | LGz. 440 |  |
 | Epigraphic South Arabian | Sab qrbn (Biella 466; Sabaweb lemma 4778) | Biella 466; Sabaweb lemma 4778 | gloss withheld |
+| Ugaritic | qrwn (I) (DULAT 703) | DULAT 703 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

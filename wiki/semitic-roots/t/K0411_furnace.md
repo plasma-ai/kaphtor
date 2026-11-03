@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/t/K0411_furnace
 title: "*tVnVr-: 'furnace'"
-desc: "Proto-Semitic *tVnVr-, 'furnace': reflexes in 3 language(s)."
+desc: "Proto-Semitic *tVnVr-, 'furnace': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0411"
@@ -32,6 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Punic | tnr 'furnace' | Anderson–Moser 2024 root tnr |  |
 | Hebrew | tannūr (LGz. 408) | LGz. 408 |  |
 | Syrian Aramaic | tanūrā 'furnace, oven; lamp-bowl; breastplate' (Payne Smith 616) | Payne Smith 616 |  |
+| Canaanite | EG SYLL ta=ru₂=ru₂, ta₃=ru₂=ru₂ /\*tannūra/ (Hoch 359) | Hoch 359 | gloss withheld |
+| Akkadian | tinūru (CAD T 420) | CAD T 420 | gloss withheld |
+| Aramaic | tnwr (DNWSI 1224) | DNWSI 1224 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

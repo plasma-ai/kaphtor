@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/N/NA_SI
 title: "NA-SI"
-desc: "nasīʾ: damaged final sequence; possible nasīʾ 'chief, prince'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+desc: "nasīʾ: chief, prince (nasīʾ), broken before NA. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "fragmentary", "hapax"]
 kind: "word"
 form: "NA-SI"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | nasīʾ |
-| Meaning | damaged final sequence; possible nasīʾ 'chief, prince' |
+| Meaning | chief, prince (nasīʾ), broken before NA |
 | Root | n-s-ʾ |
 | Proto-Semitic | \*nśʾ- (#S38) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | fragmentary, hapax |
 | Semantic field | unknown |
 
 ### Note
 
-APZa2 line 1 begins at a broken edge with \]NA-SI and preserves a divider after SI. The sequence could be complete, but its beginning and syntactic role are unknown. Comparison with Semitic nasīʾ 'chief, prince' remains possible; it cannot be translated as the subject of a reconstructed offering clause. KH7a attests the distinct form E-NA-SI, not an independent NA-SI witness. See DA-NA-SI and U-MI-NA-SI.
+AP Za 2 line 1 begins at a broken edge with \]NA-SI, a divider after SI. nasīʾ 'chief, prince', Heb. nāśîʾ. Weak point: the start is broken, so the word can be longer, and its place in the line is unknown. E-NA-SI on KH 7a is a distinct form. One attestation. See DA-NA-SI and U-MI-NA-SI.
 
 ### Cognates
 

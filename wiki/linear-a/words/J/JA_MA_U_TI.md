@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/J/JA_MA_U_TI
 title: "JA-MA-U-TI"
-desc: "Yamūti: personal name, Amorite type (yaqtul of √m-w-t). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Yamwuti: personal name, Amorite type (yaqtul of √m-w-t). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-MA-U-TI"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Yamūti"
+reading: "Yamwuti"
 attestations: ["MA2c"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,23 +31,23 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Yamūti |
+| Reading | Yamwuti |
 | Meaning | personal name, Amorite type (yaqtul of √m-w-t) |
 | Root | m-w-t |
 | Proto-Semitic | \*mw/yt (#945) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-MA 2c: \]-U-NA-NA 3, then JA-MA-U-TI 6. Yamūt + -i, cf. Amorite JA-MWUT names (Gelb 1980, nos. 3370, 3375); MA-U writes the -mw- of \*yamwut-, and TI writes the root's t with the -i of JA-KU-TI and JA-DU-RA-TI. Weak point: MA-U for mū has no second case. Rival: JA- + Egyptian mꜣʿt 'Maat'. One attestation. See MI-TU.
+MA 2c: \]-U-NA-NA 3, then \]JA-MA-U-TI 6 at the broken left end, sign groups possibly lost before it. Yamwut + -i, the Amorite JA-MWUT names (Gelb 1980, nos. 3370, 3375, 3625): MA-U writes the w of yamwut-, as DA-U-MI writes dawmi, where the cuneiform contracts it (IA-MU-UT-DA-DU); TI writes the root's t with the -i of JA-KU-TI and JA-DU-RA-TI. Rival: JA- + Egyptian mꜣʿt 'Maat'. One attestation. See MI-TU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | IA-MU-UT-DA-DU, IA-MU-UT-LI-IM (Gelb 1980, nos. 3370, 3375); bare JA-MWUT-UM Yamūtum (no. 3625) |
+| Amorite | IA-MU-UT-DA-DU, IA-MU-UT-LI-IM (Gelb 1980, nos. 3370, 3375); bare JA-MWUT-UM, IA₃-A-MU-TUM (no. 3625) |
 | Hebrew | mût 'to die' (HALOT 562) |
 | Ugaritic | mt 'death' (DULAT 589) |
 | Egyptian | mꜣʿt 'Maat' (rival) |

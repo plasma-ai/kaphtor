@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/S41_to_send_dispatch_stretch_out
 title: "*šlḥ-: 'to send, dispatch, stretch out'"
-desc: "Proto-Semitic *šlḥ-, 'to send, dispatch, stretch out': reflexes in 8 language(s)."
+desc: "Proto-Semitic *šlḥ-, 'to send, dispatch, stretch out': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S41"
@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šalāḫu 1 (CAD Š/1 193) | CAD Š/1 193 | gloss withheld |
+| Akkadian | šalāḫu 1 (CAD Š/1 193; AHw 1142) | CAD Š/1 193; AHw 1142 | gloss withheld |
 | Ugaritic | šlḥ (DULAT 805); yšlḥ (KTU 2.10:11) | DULAT 805; KTU 2.10:11 | gloss withheld |
 | Phoenician | šlḥ (T 317); šlḥ (Krahmalkov 461–462) | T 317; Krahmalkov 461–462 | gloss withheld |
 | Amorite | ślḥ: jaślaḥ, śaliḥum, śaliḥa, śulāḥ(ān)um (Gelb AS 21, 32); S-l-ḥ: ia-áš-la-aḫ-ᵈIM; Sāliḥ: sa-li-ḫu(-um), sa-li-ḫa (Sanmartín GlOS 2, 246) | Gelb AS 21 32; Sanmartín GlOS 2, 246 | gloss withheld |
@@ -37,6 +37,8 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | Hdr s1lḥ (Pirenne 1990:107 apud SEDonline 1426; Sabaweb lemma 7796) | Pirenne 1990 107; SEDonline 1426; Sabaweb lemma 7796 | gloss withheld |
 | Judaic Aramaic | šᵉlaḥ, šᵉlîḥā (HALOT 1512) | HALOT 1512 |  |
 | Aramaic | šlḥ (T 317) | T 317 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic slḥ (Al-Jallad 2026, 132) | Al-Jallad 2026 132 | gloss withheld |
+| Biblical Aramaic | šlḥ (HALOT BArm. s.v. שׁלח) | HALOT BArm. s.v. שׁלח | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

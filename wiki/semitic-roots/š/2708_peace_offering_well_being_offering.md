@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | salām- 'peace' (BK 1, 1131) | BK 1, 1131 |  |
-| Akkadian | šulmu (CAD Š/3 247) | CAD Š/3 247 | gloss withheld |
+| Akkadian | šulmu (CAD Š/3 247; AHw 1268) | CAD Š/3 247; AHw 1268 | gloss withheld |
 | Ugaritic | šlmm (DULAT 808) | DULAT 808 | gloss withheld |
 | Phoenician | šlm, šlmm (T 318) | T 318 | gloss withheld |
 | Hebrew | šǝlāmīm (HALOT 1536) | HALOT 1536 | gloss withheld |

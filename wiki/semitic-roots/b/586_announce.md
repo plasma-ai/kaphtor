@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/586_announce
 title: "*bVŝVr-: 'announce'"
-desc: "Proto-Semitic *bVŝVr-, 'announce': reflexes in 16 language(s)."
+desc: "Proto-Semitic *bVŝVr-, 'announce': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "586"
@@ -30,22 +30,23 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | bšr \[-i-\] |  |  |
+| Arabic | bšr \[-i-\]; baššara (LGz. 110) | LGz. 110 | gloss withheld |
 | Mehri | a-bōŝer 1 |  |  |
 | Akkadian | bussuru |  |  |
 | Harsusi | a-bēŝer 1 |  |  |
 | Tigre | bšr |  |  |
 | Ugaritic | bšr |  |  |
-| Geez | bsr |  |  |
+| Geez | bsr; ʔabsara (LGz. 110) | LGz. 110 | gloss withheld |
 | Hebrew | bŝr |  |  |
-| Amharic | bsr |  |  |
+| Amharic | bsr; abässärä (LGz. 110) | LGz. 110 | gloss withheld |
 | Epigraphic South Arabian | tbŝr |  |  |
 | Judaic Aramaic | bsr, bǝsar (DJPA 116a apud CAL) | DJPA 116a; CAL |  |
-| Tigrinya | bsr |  |  |
-| Soqotri | baššara (HALOT 163) | HALOT 163 |  |
+| Tigrinya | bsr; ʔabsärä (LGz. 110) | LGz. 110 | gloss withheld |
+| Soqotri | baššara (HALOT 163); ʔibšir (LGz. 110) | HALOT 163; LGz. 110 |  |
 | Amorite | bśr: jibaśśir (Gelb AS 21, 17); b-S-r: i-ba-ás-si-ir, la-ba-ša-ar; cf. place name ḪUR.SAG ba-ša-ar (Sanmartín GlOS 1, 129) | Gelb AS 21 17; Sanmartín GlOS 1, 129 | gloss withheld |
-| Aramaic | CPA bsr (DCPA 54 apud SEDonline 1312) | SEDonline 1312 | gloss withheld |
+| Aramaic | CPA bsr (DCPA 54 apud SEDonline 1312); bəsar; bəśar (LGz. 110) | SEDonline 1312; LGz. 110 | gloss withheld |
 | Jibbali | ōŝər (JL 29 apud SEDonline 1312) | JL 29; SEDonline 1312 | gloss withheld |
+| Syrian Aramaic | sabber (LGz. 110) | LGz. 110 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

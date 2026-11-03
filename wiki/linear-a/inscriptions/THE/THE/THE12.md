@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. AB22/CAPF
+1. CAPf
 
 ## Edition differences
 

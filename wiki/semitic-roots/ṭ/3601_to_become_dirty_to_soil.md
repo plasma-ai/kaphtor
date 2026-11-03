@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭanāpu, D ṭunnupu (CAD Ṭ 46) | CAD Ṭ 46 | gloss withheld |
+| Akkadian | ṭanāpu, D ṭunnupu (CAD Ṭ 46; AHw 1379) | CAD Ṭ 46; AHw 1379 | gloss withheld |
 | Hebrew | ṭnp pi. (HALOT 377) | HALOT 377 | gloss withheld |
 | Judaic Aramaic | ṭnp pa. (HALOT 377) | HALOT 377 | gloss withheld |
 | Syrian Aramaic | ṭannep pa. 'to profane, pollute, defile' (Payne Smith 177); ṭnep 'defiled, polluted, impure, filthy, foul' (Payne Smith 177); ṭūnāpā 'pollution, defilement' (Payne Smith 169) | Payne Smith 177; Payne Smith 169 |  |

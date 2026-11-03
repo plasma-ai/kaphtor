@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/Z/ZU_DI_RA
 title: "ZU-DI-RA"
-desc: "ṯudira: waitress, girl (?) (DULAT p.886; Hurro-Hittite loan from šiduri 'girl, young woman'). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+desc: "ṯudira: waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "noun", "personnel"]
 kind: "word"
 form: "ZU-DI-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,15 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ṯudira |
-| Meaning | waitress, girl (?) (DULAT p.886; Hurro-Hittite loan from šiduri 'girl, young woman') |
+| Meaning | waitress, girl (Ug. ṯdr, a Hurro-Hittite loan from šiduri); rival the name Šituri |
 | Root | ṯ-d-r |
-| Language layer | contact |
-| Category | vocabulary |
+| Proto-Semitic | \*ṯdr (#4421) |
+| Language layer | Hurrian |
+| Tags | noun, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-Exact interdental skeleton. Two roundels in the HTWc series (HTWc3011, HTWc3012) (administrative genre). Dual reading: common noun 'waitress/girl' OR Hurrian feminine PN Šiduri (see onomasticon entry). Contact layer—word is a Hurro-Hittite loan into Ugaritic (Laroche GLH 229, CAD Š/2 408); reaches Crete via Hurrian or Ugaritic channel. DULAT's own gloss carries '(?)'—marginality at Ugarit (2 attestations, both Hurrian-context texts). The Ashtart rival fails on orthographic grounds.
+HT Wc 3011 ZU-DI-RA and HT Wc 3012 ZU-DI-RA RE-RO, two roundels of the Haghia Triada series. ṯudira 'waitress, girl': Ugaritic ṯdr, a Hurro-Hittite loan from šiduri 'young woman' (Laroche 1980, 229; CAD Š/2 408), reaching Crete through Hurrian or Ugaritic. Rival: the Hurrian woman's name Šituri 'Girl', ši-du-ri at Mari and ši-tu-ri at Ašnakkum (Monti 2017, 296, 373). Weak point: DULAT marks the gloss '(?)', and Ugarit has two witnesses, one in a Hurrian text (DULAT 886–887). Two attestations.
 
 ### Cognates
 
@@ -51,20 +52,26 @@ Exact interdental skeleton. Two roundels in the HTWc series (HTWc3011, HTWc3012)
 
 ### Source
 
-di Mino
+di Mino; DULAT; Laroche 1980; CAD Š/2; Monti 2017
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3011\|HTWc3011]] | Haghia Triada | Roundel | none |
-| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3012\|HTWc3012]] | Haghia Triada | Roundel | none |
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3012\|HTWc3012]] | Haghia Triada | Roundel | complete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3012\|HTWc3012]] | ṯudira | waitress, girl, the receiver | CANDIDATE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | personal name (CANDIDATE) |
+| Type | title (CANDIDATE) |
 | Affiliation | hurrian (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
@@ -75,6 +82,6 @@ di Mino
 
 ### Note
 
-Roundels HTWc 3011 and 3012; a third reading \*79-DI-RA is HTWc 3012 again. Ugaritic ṯdr 'waitress, girl (?)' (DULAT 886) is a Hurro-Hittite loan from šiduri 'girl, young woman'; as a name, the Hurrian feminine Šiduri, the Šiduri of Gilgamesh (Laroche GLH 229, CAD Š/2 408). Rival: ʿṯtr Ashtart, which would write its initial guttural with a vowel sign, as A-ZU-RA does.
+Roundels HTWc 3011 and 3012; a third reading \*79-DI-RA is HTWc 3012 again. ṯudira 'waitress, girl': Ugaritic ṯdr (DULAT 886), a Hurro-Hittite loan from šiduri 'young woman' (Laroche 1980, 229; CAD Š/2 408). Rival: the Hurrian woman's name Šituri 'Girl', ši-du-ri at Mari and ši-tu-ri at Ašnakkum (Monti 2017, 296, 373). See the lexicon entry.
 
 <!-- END kaphtor:record -->

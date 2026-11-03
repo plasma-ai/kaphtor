@@ -1,9 +1,9 @@
 ---
 name: data/linear-a
 title: Linear A data
-desc: The Linear A corpus, sign values, lexicon, translations, onomasticon and unread words, and the Eteocretan inscriptions, each with a datasheet.
+desc: The Linear A corpus, SigLA's database, sign values, sign maps and registry, lexicon, affixes, translations, onomasticon and unread words, the rival-language root keys, the Eteocretan inscriptions, and the Paradigm B and Protocol C records, each with a datasheet.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-29T15:12:45Z
+updated: 2026-11-04T02:00:10Z
 ---
 
 # Linear A data
@@ -23,6 +23,8 @@ updated: 2026-10-29T15:12:45Z
 [[data/linear-a/eteocretan_inscriptions.json|eteocretan_inscriptions.json]]: The Eteocretan inscriptions; datasheet `eteocretan.md`; CC BY 4.0.
 
 [[data/linear-a/eteocretan_word_analysis.json|eteocretan_word_analysis.json]]: Gordon's analyses of the Eteocretan words; datasheet `eteocretan.md`; CC BY 4.0.
+
+[[data/linear-a/hattic_roots.json|hattic_roots.json]]: The Hattic root keys of the competitor null, with Soysal 2004's forms and page citations; datasheet `rival-roots.md`; CC BY 4.0.
 
 [[data/linear-a/hurrian_roots.json|hurrian_roots.json]]: The Hurrian root keys of the competitor null, with forms and citations; datasheet `rival-roots.md`; CC BY 4.0.
 
@@ -54,17 +56,27 @@ updated: 2026-10-29T15:12:45Z
 
 [[data/linear-a/protocol-c-c1-words.txt|protocol-c-c1-words.txt]]: The 1,070 hyphenated words of the corpus.json Protocol C's checker read in C1, one per line, which `protocol_c.py reproduce` reruns it on; CC BY-NC-SA 4.0 and CC BY 4.0, as `corpus.json`.
 
-[[data/linear-a/protocol-c/_index|protocol-c/]]: The phase C0 and C1 record of Protocol C, the pre-registered blind-inventory test, with the signature and the port ledger; nothing rendered or scored.
+[[data/linear-a/protocol-c/_index|protocol-c/]]: The phase C0 and C1 record of Protocol C, the pre-registered blind-inventory test, with the signature and the port ledger.
 
-[[data/linear-a/rival-roots|rival-roots]]: The Egyptian, Luwian and Hurrian root keys the competitor null rescores every Semitic match against, each with its form and its citations or source labels.
+[[data/linear-a/rival-roots|rival-roots]]: The Egyptian, Luwian, Hurrian and Hattic root keys the competitor null rescores every Semitic match against, each with its form and its citations or source labels.
 
 [[data/linear-a/sigla-sign-map.json|sigla-sign-map.json]]: The SigLA sign list with Unicode fields; datasheet `sign-maps.md`; CC BY-NC-SA 4.0 (SigLA's dataset).
+
+[[data/linear-a/sigla/_index|sigla/]]: SigLA's own database file, unchanged, and the hand-set corpus.json keys the SigLA database build reads beside it.
+
+[[data/linear-a/sigla_db|sigla_db]]: SigLA's corpus decoded from its own database file, one record per document, with its metadata and seals, every sign position with its reading, certainty, role and erasure flag, SigLA's word division, and the corpus.json record it belongs to.
+
+[[data/linear-a/sigla_db.json|sigla_db.json]]: SigLA's corpus by document, decoded from `sigla/database.js`; datasheet `sigla_db.md`; CC BY-NC-SA 4.0 (SigLA's dataset) and CC BY 4.0.
 
 [[data/linear-a/sign-maps|sign-maps]]: The SigLA sign list of Linear A (362 signs) and the 268 characters of Unicode's Linear B and Aegean Numbers blocks, each with its code point, name and status.
 
 [[data/linear-a/sign-registry|sign-registry]]: One record per Linear A sign, with its readings and their status, its Unicode rendering, a SigLA image, its Cretan Hieroglyphic and Linear B lineage, and the Gordon 1966 words that use it.
 
 [[data/linear-a/sign-registry.json|sign-registry.json]]: The signs, with their readings, rendering and lineage; datasheet `sign-registry.md`; CC BY 4.0.
+
+[[data/linear-a/sign_crosswalk_overrides|sign_crosswalk_overrides]]: Hand-curated resolutions of sign labels to sign-registry.json codes, which win over every automatic route of the sign crosswalk.
+
+[[data/linear-a/sign_crosswalk_overrides.json|sign_crosswalk_overrides.json]]: The hand-settled sign-label resolutions; datasheet `sign_crosswalk_overrides.md`; CC BY 4.0.
 
 [[data/linear-a/sign_values|sign_values]]: The phonetic values of the Linear A syllabograms, the logograms and the fraction signs, with the resolved and proposed values listed apart.
 

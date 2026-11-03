@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2729_to_embroider_variegate
 title: "*rVḳVm-: 'to embroider, variegate'"
-desc: "Proto-Semitic *rVḳVm-, 'to embroider, variegate': reflexes in 6 language(s)."
+desc: "Proto-Semitic *rVḳVm-, 'to embroider, variegate': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2729"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | raqama (LGz. 473) | LGz. 473 |  |
 | Aramaic | riqməṯā (LGz. 473) | LGz. 473 | gloss withheld |
 | Syrian Aramaic | tarqəmāṯā (LGz. 473) | LGz. 473 | gloss withheld |
+| Punic | rqm (DNWSI 1084) | DNWSI 1084 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

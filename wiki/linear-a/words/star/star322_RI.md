@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT 11a .3 \*322-RI 1, RI written small at the upper right of \*322, before KU-RO 10 (GORILA I 23). The copie normalisée leaves both signs undotted, the copie tabulaire dots \*322. \*322 has no syllabic value, and its logogram value PIRRI 'fruit' is SPECULATIVE and takes its final -ri from this very word, so it cannot read it. No reading.
+HT 11a .3 \*322-RI 1, RI written small at the upper right of \*322, before KU-RO 10 (GORILA I 23). The copie normalisée leaves both signs undotted, the copie tabulaire dots \*322. The HT 11a sign is a tall loop with a small hook on its right; the single sign of the Khania roundels KH Wc 2026, 2027 and 2098, the logogram PIRRI, is a flat oval with an upright box (GORILA III 124, 141), another sign. \*322 has no syllabic value. No reading.
 
 <!-- END kaphtor:record -->

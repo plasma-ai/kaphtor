@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3631_furnace_smelting_furnace
 title: "*kūr-: 'furnace, smelting furnace'"
-desc: "Proto-Semitic *kūr-, 'furnace, smelting furnace': reflexes in 6 language(s)."
+desc: "Proto-Semitic *kūr-, 'furnace, smelting furnace': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3631"
@@ -35,6 +35,8 @@ updated: 2026-10-26T14:26:59Z
 | Arabic | kūr (Lane 2637); kūr (Biella 244) | Lane 2637; Biella 244 | gloss withheld |
 | Epigraphic South Arabian | Sab kwr(n) (Biella 244) | Biella 244 | gloss withheld |
 | Geez | kawr (HALOT 466) | HALOT 466 |  |
+| Tigrinya | käwr (LGz. 300) | LGz. 300 | gloss withheld |
+| Amharic | käwr (LGz. 300) | LGz. 300 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

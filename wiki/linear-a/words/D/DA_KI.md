@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role recipient or allocation heading.
 
-HT6b .5 DẠ-KỊ 3¼, both signs dotted, on a palimpsest face (.1–6 over an erasure, GORILA I 13). HT123+124a .6 reads DA-TU, not DA-KI (GORILA I 211; SigLA's DA-KI misreads TU). No clean witness. Not readable.
+HT6b .5 DẠ-KỊ 3¼, both signs dotted, on a palimpsest face (.1–6 over an erasure, GORILA I 13), with the trace of an erased sign left of DA; SigLA codes DA as AB 51 du, taking in that trace. HT123+124a .6 reads DA-TU, not DA-KI (GORILA I 211; SigLA's DA-KI misreads TU). No clean witness. Not readable.
 
 <!-- END kaphtor:record -->

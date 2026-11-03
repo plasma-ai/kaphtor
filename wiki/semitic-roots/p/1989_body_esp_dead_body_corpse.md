@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1989_body_esp_dead_body_corpse
 title: "*pagr-: 'body, esp. dead body, corpse'"
-desc: "Proto-Semitic *pagr-, 'body, esp. dead body, corpse': reflexes in 8 language(s)."
+desc: "Proto-Semitic *pagr-, 'body, esp. dead body, corpse': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1989"
@@ -38,6 +38,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | pagrā 'body, corpse' \[Brock 556\] | Brock 556 |  |
 | Aramaic | OLD OFF PLM pgr \[HJ 901\] | HJ 901 | gloss withheld |
 | Amorite | pagraʾ (Sanmartín GlOS 2, 123) | Sanmartín GlOS 2, 123 | gloss withheld |
+| Emar | pu-ga-ra-tu₄ /pugarātu/ (Pentiuc 2001, 141) | Pentiuc 2001 141 | gloss withheld |
+| Ugaritic | pgr (DULAT 655) | DULAT 655 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

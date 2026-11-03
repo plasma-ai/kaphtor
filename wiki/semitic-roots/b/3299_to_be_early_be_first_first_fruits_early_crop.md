@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3299_to_be_early_be_first_first_fruits_early_crop
 title: "*bkr: 'to be early, be first; first fruits, early crop'"
-desc: "Proto-Semitic *bkr, 'to be early, be first; first fruits, early crop': reflexes in 8 language(s)."
+desc: "Proto-Semitic *bkr, 'to be early, be first; first fruits, early crop': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3299"
@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | bkr (HALOT 130 apud SEDonline 1832); bikkūrīm (HALOT 130 apud SEDonline 1832) | HALOT 130; SEDonline 1832 | gloss withheld |
+| Hebrew | bkr (HALOT 130 apud SEDonline 1832); bikkūrīm (HALOT 130 apud SEDonline 1832); bkyr (DNWSI 164) | HALOT 130; SEDonline 1832; DNWSI 164 | gloss withheld |
 | Judaic Aramaic | JPA bwkrh (DJPA 87 apud SEDonline 1832); JBA bakkīr (DJBA 220 apud SEDonline 1832) | DJPA 87; SEDonline 1832; DJBA 220 | gloss withheld |
 | Aramaic | CPA bkwry (DCPA 49 apud SEDonline 1832) | SEDonline 1832 | gloss withheld |
 | Syrian Aramaic | bkr (LSyr. 73, SL 126 apud SEDonline 1832); bakkārā (LSyr. 73, SL 126 apud SEDonline 1832) | LSyr. 73, SL 126; SEDonline 1832 | gloss withheld |
@@ -37,6 +37,7 @@ updated: 2026-10-25T05:11:48Z
 | Epigraphic South Arabian | Sab. bkr (SD 28 apud SEDonline 1832) | SD 28; SEDonline 1832 | gloss withheld |
 | Amorite | bakūr: ba-ku-ra-tum (Sanmartín GlOS 1, 115) | Sanmartín GlOS 1, 115 | gloss withheld |
 | Eblaitic | ba-ga-lu(-um) (VE 243; Krebernik 1983, 13) | VE 243; Krebernik 1983, 13 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bkr (Al-Jallad 2026, 28) | Al-Jallad 2026 28 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

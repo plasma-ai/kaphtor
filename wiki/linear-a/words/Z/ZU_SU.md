@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/Z/ZU_SU
 title: "ZU-SU"
-desc: "Zuzu: personal name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Ṣūṣu: personal name, 'chick'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "ZU-SU"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "Zuzu"
+reading: "Ṣūṣu"
 attestations: ["HT1"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,22 +31,23 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Zuzu |
-| Meaning | personal name |
-| Root | z-z |
-| Language layer | NWS |
-| Category | personal_name |
+| Reading | Ṣūṣu |
+| Meaning | personal name, 'chick' |
+| Root | ṣ-ṣ |
+| Proto-Semitic | \*ṣūṣ- (#1146) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 1 .2 ZU-SU 70, whole and undotted, the second entry under QE-RA₂-U, after KI-RO 197 and before DỊ-DI-ZA-KE 52 (GORILA I 3). The personal name Zuzu at Late Bronze Ugarit (RSO 7, 3, lower edge 3; ORACC P347841). SU for the second z stands against ZU for the first. Rival: an institutional name in the same quantified slot. One document.
+HT 1 .2 ZU-SU 70, whole and undotted, the second entry under QE-RA₂-U, after KI-RO 197 and before DỊ-DI-ZA-KE 52 (GORILA I 3). The personal name zu-zu at Ebla, read ṣūṣu 'chicken' (Pagan 1998, row 5285), and at Late Bronze Ugarit (RSO 7, 3, lower edge 3; ORACC P347841). SU writes ṣ as usual, ZU as ZA does in TU-MI-TI-ZA-SE. Rivals: an opaque Zuzu, with SU for z; an institutional name in the same quantified slot. One document.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Eblaite | zu-zu, PN (Pagan 1998, row 5285; ARET 8 525, ARET 20 22) |
+| Eblaite | zu-zu, PN, ṣūṣu 'chicken' (Pagan 1998, row 5285; ARET 8 525, ARET 20 22) |
 | Mari | Zuzu, king of Apum (FM V, 286) |
 
 ### Source

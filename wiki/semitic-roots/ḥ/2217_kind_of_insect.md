@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | ḥsn \[DULAT 368\] | DULAT 368 | gloss withheld |
 | Geez | ḥasen \[LGz. 245\]. | LGz. 245 | gloss withheld |
 | Amharic | ašän, ašen \[K 1181\]. | K 1181 | gloss withheld |
-| Tigrinya | ḥasen \[LGz. 245\]. | LGz. 245 | gloss withheld |
+| Tigrinya | ḥasen \[LGz. 245\]; ḥasän (K Tna. 206 apud SED II 144) | LGz. 245; K Tna. 206; SED II 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

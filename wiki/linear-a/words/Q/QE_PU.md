@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE_PU
 title: "QE-PU"
 desc: "qēpu: official, commissioner (title); rival: the personal name Qīpu. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "noun", "title"]
 kind: "word"
 form: "QE-PU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | official, commissioner (title); rival: the personal name Qīpu |
 | Root | q-y-p |
 | Proto-Semitic | \*ḳīp- (#3850) |
-| Language layer | Akkadian |
-| Category | title |
+| Language layer | Semitic |
+| Tags | noun, title |
 | Semantic field | personnel |
 
 ### Note
 
-HT 9a and 9b, the wine roster: QE-PU 2 on both faces, one of two entries unchanged (with DI-NA-U 4) while the total falls from 31¾ to 24 (GORILA I 19). QE writes q and the Assyrian ē, PU the -pu. An Akkadian title in a recipient slot beside the names Padī and Dīnāyu. Rival: the name Qīpu.
+HT 9a and 9b, the wine roster: QE-PU 2 on both faces, one of two entries unchanged (with DI-NA-U 4) while the total falls from 31¾ to 24 (GORILA I 19). QE writes q and the Assyrian ē, PU the -pu. An Akkadian title, qīpu (qēpu) 'official' (CAD Q 264), in a recipient slot beside the names Padī and Dīnāyu. Rival: the name Qīpu.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 9a and 9b, the wine roster: QE-PU 2 on both faces, one of two entries unchang
 
 ### Source
 
-di Mino; CAD Q 263–64
+di Mino; CAD Q
 
 ## Attestations
 
@@ -73,7 +73,7 @@ di Mino; CAD Q 263–64
 | Field | Value |
 |---|---|
 | Type | title (SPECULATIVE) |
-| Affiliation | akkadian_contact (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |

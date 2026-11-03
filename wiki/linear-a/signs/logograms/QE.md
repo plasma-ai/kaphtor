@@ -46,25 +46,27 @@ Dual-function sign: syllabogram /qe/ (AB78) + metrological logogram QÊ when sta
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | diḳaru | CANDIDATE |
+| [[wiki/linear-a/words/D/DA_QE_RA\|DA-QE-RA]] | ḏā-Qīra | CANDIDATE |
 | [[wiki/linear-a/words/G/GRA_plus_QE\|GRA+QE]] | qemāḥu | CANDIDATE |
 | [[wiki/linear-a/words/J/JU_plus_star317_plus_QE\|JU+\*317+QE]] |  | CONFIRMED |
-| [[wiki/linear-a/words/O/OLE_plus_QE_plus_DI\|OLE+QE+DI]] | A623 (OLE+QE+DI) | SPECULATIVE |
+| [[wiki/linear-a/words/O/OLE_plus_QE_plus_DI\|OLE+QE+DI]] |  | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_TA_QE\|PA-TA-QE]] | pitqē | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE\|QE]] | qê | SPECULATIVE |
-| [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qadmīnu | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_DE_MI_NU\|QE-DE-MI-NU]] | Qēdmīnu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] | kikkᵊrē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |
-| [[wiki/linear-a/words/Q/QE_SI_TE\|QE-SI-TE]] | qašt | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_SI_TE\|QE-SI-TE]] | qešet | SPECULATIVE |
+| [[wiki/linear-a/words/Q/QE_SI_ZU_E\|QE-SI-ZU-E]] | qīši ṯuʿē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_SU_PU\|QE-SU-PU]] | qaššāpu | CANDIDATE |
 | [[wiki/linear-a/words/Q/QE_TI\|QE-TI]] | qāti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_TU\|QE-TU]] | qaṭun | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_TU_NE\|QE-TU-NE]] | qaṭunē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_QE_TI\|RI-QE-TI]] | riqitt- | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_QE_RI\|SA-QE-RI]] | Šaqeli | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_QE_NU\|TU-QE-NU]] | Tuqnu | CANDIDATE |
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | SPECULATIVE |
 
 <!-- END kaphtor:record -->

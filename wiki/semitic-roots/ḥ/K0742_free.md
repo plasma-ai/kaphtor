@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḥurr (HALOT 348) | HALOT 348 |  |
 | Syrian Aramaic | ḥērā (HALOT 348; Payne Smith 122) | HALOT 348; Payne Smith 122 |  |
 | Tigre | ḥarā (HALOT 348) | HALOT 348 |  |
-| Hebrew | \*ḥōr (HALOT 348) | HALOT 348 |  |
+| Hebrew | \*ḥōr (HALOT 348); ḥrwt (DNWSI 403) | HALOT 348; DNWSI 403 | gloss withheld |
 | Judaic Aramaic | bar ḥōrāyā; ḥērūtā (HALOT 348) | HALOT 348 | gloss withheld |
 | Aramaic | ḥrʾ (HALOT 348) | HALOT 348 |  |
 | Epigraphic South Arabian | ḥr (HALOT 348; Sabaweb lemma 1613); Qat. ḥr (Ricks 1982 s.v. ḥr) | HALOT 348; Sabaweb lemma 1613; Ricks 1982 s.v. ḥr | gloss withheld |

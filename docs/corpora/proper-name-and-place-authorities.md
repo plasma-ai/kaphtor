@@ -37,7 +37,7 @@ QPN labels remain intact. The broad place total is the sum of `GN`, `SN`, `TN`, 
 
 The source is the official Zenodo record, DOI `10.5281/zenodo.15806808`, CC BY 4.0. The downloaded SQL matches the published MD5 `fb705737c7b27456e9b50d578c3ea1f5`. Coverage runs from Mentuhotep II through Amenhotep III.
 
-The extractor retains all 32 populated `INSERT ... VALUES` tables in the v6 dump, including primary keys, alternative readings, name types, interpersonal bonds, title relations, workshops, attestations, names, spellings, persons/dossiers, titles, inscriptions, objects, inventory numbers, bibliography, collections, and places. `attestations_enriched.jsonl` is a convenience join; `tables/*.jsonl` remains the source-faithful layer.
+The extractor retains all 32 populated `INSERT ... VALUES` tables in the v6 dump, including primary keys, alternative readings, name types, interpersonal bonds, title relations, workshops, attestations, names, spellings, persons/dossiers, titles, inscriptions, objects, inventory numbers, bibliography, collections, and places. `tables/*.jsonl` is the source-faithful layer. The enriched attestation view (`attestations_enriched.jsonl`) is not stored here, and no tool in this repository builds it; `query_proper_names.py --source pnm` therefore needs `--layer name_forms` or `--layer persons`.
 
 ## Prosopographia Memphitica
 

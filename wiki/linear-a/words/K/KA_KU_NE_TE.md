@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_KU_NE_TE
 title: "KA-KU-NE-TE"
 desc: "Kakku-ʿAnēt: Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "KA-KU-NE-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Weapon of Anat (theophoric personal name); rival Egyptian Neith as the second element |
 | Root | k-k-k + ʿ-n-t |
 | Proto-Semitic | \*kakk- (#3844) + \*ʕanat- (#2771) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 10b KA-KU-NE-TE ½, in a must (\*131B) list of recipients, after the Egyptian PA-JA-RE Payare 1. KA-KU kakku 'weapon', also the god Kakka (Gelb 1980), as in Iddin-Kakka (Podany 2002, 11) and ᶠKakka-lidi (ARM 26/1, 597); -NE-TE ʿAnat (2771), as Šum-Anati and Abdi-Anati at Ugarit (Kinlaw 1967, 111, 7). Anat is the warrior: 'ʿAnat the divine, she the victorious, a woman acting as a warrior' (P. Chester Beatty VII vs. 1, 5–8; Gardiner 1935, I, 62); the king is mhr.j ꜥnṯj 'warrior of Anat' (ORAEC 113, 564, 922). Face a writes TA-NA-TE and A-TA-NA-TE: the lost ʿa- and the e of -NE-TE are unexplained. Rival: Egyptian Neith (n.t), as sꜣ-n.t, wsr-n.t (PNM v6). See I-NA-TA-I.
+ZA 10b KA-KU-NE-TE ½, in a must (\*131B) list of recipients, after the Egyptian PA-JA-RE Payare 1. KA-KU kakku 'weapon', also the god Kakka (Gelb 1980, 22), as in Amorite Kakka-liʾdi (no. 3907), ᶠKakka-lidi (ARM 26/1, 597) and Iddin-Kakka (Podany 2002, 11); -NE-TE ʿAnat (2771), as Šum-Anati and Abdi-Anati at Ugarit (Kinlaw 1967, 111, 7). Anat is the warrior: 'ʿAnat the divine, she the victorious, a woman acting as a warrior' (P. Chester Beatty VII vs. 1, 5–8; Gardiner 1935, I, 62); the king is mhr.j ꜥnṯj 'warrior of Anat' (ORAEC 113, 564, 922). Face a writes TA-NA-TE and A-TA-NA-TE: the lost ʿa- and the e of -NE-TE are unexplained. Rival: Egyptian Neith (n.t), as sꜣ-n.t, wsr-n.t (Ilin-Tomich 2025, s.v.). See I-NA-TA-I.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ ZA 10b KA-KU-NE-TE ½, in a must (\*131B) list of recipients, after the Egyptian
 
 ### Source
 
-di Mino; Gelb 1980
+di Mino; Gelb 1980; ARM 26/1; Podany 2002; Kinlaw 1967; Gardiner 1935; ORAEC; Ilin-Tomich 2025
 
 ## Attestations
 

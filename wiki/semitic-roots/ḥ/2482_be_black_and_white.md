@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2482_be_black_and_white
 title: "*ḥwr: 'be black and white'"
-desc: "Proto-Semitic *ḥwr, 'be black and white': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ḥwr, 'be black and white': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2482"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḥiwwār- |  | gloss withheld |
 | Syrian Aramaic | ḥewwār- |  | gloss withheld |
 | Aramaic | Off ḥwry |  | gloss withheld |
+| Biblical Aramaic | ḥiwwār (HALOT BArm. s.v. חִוָּר) | HALOT BArm. s.v. חִוָּר | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

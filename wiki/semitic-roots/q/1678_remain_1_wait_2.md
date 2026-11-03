@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1678_remain_1_wait_2
 title: "*ḳVw-: 'remain' 1, 'wait' 2"
-desc: "Proto-Semitic *ḳVw-, 'remain' 1, 'wait' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḳVw-, 'remain' 1, 'wait' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1678"
@@ -33,8 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | qāʾu 2 |  |  |
 | Hebrew | qwy 2 |  |  |
 | Syrian Aramaic | qwʔ 1, 2 |  |  |
-| Epigraphic South Arabian | Sab qyw 2 (SD 112; Biella 453; Sabaweb lemma 4841) | SD 112; Biella 453; Sabaweb lemma 4841 | gloss withheld |
-| Arabic | qwy D 2 (Biella 453) | Biella 453 | gloss withheld |
+| Epigraphic South Arabian | Sab qyw 2 (SD 112; Sabaweb lemma 4841) | SD 112; Sabaweb lemma 4841 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

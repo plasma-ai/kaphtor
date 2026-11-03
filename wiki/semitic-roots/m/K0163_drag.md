@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0163_drag
 title: "*mašak-: 'drag'"
-desc: "Proto-Semitic *mašak-, 'drag': reflexes in 7 language(s)."
+desc: "Proto-Semitic *mašak-, 'drag': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0163"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | məšaḵ (LGz. 364) | LGz. 364 |  |
 | Amharic | mässäkä (LGz. 364) | LGz. 364 | gloss withheld |
 | Gurage | mäsäkä (LGz. 364) | LGz. 364 | gloss withheld |
+| Emar | ti-im-ša-ak /timšak/ (Pentiuc 2001, 181–182) | Pentiuc 2001 181–182 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

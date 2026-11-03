@@ -49,7 +49,7 @@ updated: 2026-10-29T19:48:19Z
 The `yd` arm is not blind: it is the grammar under test (§5.3 item 5). Its kit held the published *Ya Diktu* PDF at
 commit `d9a3f93` (amendment A3; the runner refuses a PDF whose sha256 is not `d111b8db…`) and its `pdftotext -layout`
 text; neither is shipped ([the published PDF](https://www.minoanmystery.org/linear-a/ya-diktu-grammar-tom-di-mino.pdf)).
-Its 35 morphemes stand against the 36 of `TABLES.md`: the builder declined the statements that print no form, and
+Its 35 morphemes stand against the 36 of `TABLES-C0.md`: the builder declined the statements that print no form, and
 `notes.md` gives the disposition of every unit row. It labelled Appendix B collectively, since the appendix title
 names what the brief forbids it to write, and accounted for rows 36–59 one by one in `notes.md`; the checker accepts
 that table and fails if a row is missing from it. The log's largest commands write `inventory.json` whole. The error

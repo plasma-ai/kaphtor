@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_SI_DA_TO_I
 title: "A-SI-DA-TO-I"
 desc: "ʾAšdōdī: the Ashdodite, a man of Ashdod (gentilic). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "gentilic"]
+tags: ["linear-a", "word", "tier-2", "gentilic", "hapax", "loanblend"]
 kind: "word"
 form: "A-SI-DA-TO-I"
 datasets: ["lexicon", "onomasticon"]
@@ -33,8 +33,9 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʾAšdōdī |
 | Meaning | the Ashdodite, a man of Ashdod (gentilic) |
-| Language layer | NWS |
-| Category | gentilic |
+| Root | ʾAšdōd (Pre-Greek) + -ī (nisbe) |
+| Language layer | Semitic |
+| Tags | gentilic, hapax, loanblend |
 | Semantic field | toponym |
 
 ### Note

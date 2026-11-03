@@ -47,6 +47,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qart- | CANDIDATE |
 | [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | PROBABLE |
 | [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar | CANDIDATE |
-| [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tamir | CANDIDATE |
+| [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tōmir | CANDIDATE |
 
 <!-- END kaphtor:record -->

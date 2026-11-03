@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3666_to_be_firm_fixed_stationary_to_lie_at_anchor
 title: "*rsw: 'to be firm, fixed, stationary; to lie at anchor'"
-desc: "Proto-Semitic *rsw, 'to be firm, fixed, stationary; to lie at anchor': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rsw, 'to be firm, fixed, stationary; to lie at anchor': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3666"
@@ -34,6 +34,7 @@ updated: 2026-10-26T15:47:57Z
 | Soqotri | riši (LGz. 475) | LGz. 475 | gloss withheld |
 | Harsusi | resā (LGz. 475) | LGz. 475 | gloss withheld |
 | Tigre | räsa (LGz. 475) | LGz. 475 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rsy (Al-Jallad 2026, 124) | Al-Jallad 2026 124 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -41,7 +41,7 @@ updated: 2026-10-22T18:14:10Z
 
 [[docs/corpora/single-query-portals|single-query-portals]]: The one-query clients for DiCoNab, DEAPS, Elephantine, RSTI and HathiTrust, what each request may fetch, and what the parsers keep.
 
-[[docs/corpora/south-semitic-corpora|south-semitic-corpora]]: The Geʿez, Ancient South Arabian and Modern South Arabian layers, kept as separate comparative evidence, with their scope and how to search them.
+[[docs/corpora/south-semitic-corpora|south-semitic-corpora]]: The Geʿez, Ancient South Arabian and Modern South Arabian layers, kept as separate comparative evidence, with their scope and sources.
 
 ***
 

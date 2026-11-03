@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_NA_RU_KA_NA_SI
 title: "U-NA-RU-KA-NA-SI"
 desc: "wannā lū kanāsī: and behold, may my gathering [take place] (proposed precative lū). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "libation_formula"]
+tags: ["linear-a", "word", "tier-2", "compound", "fragmentary", "hapax", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "U-NA-RU-KA-NA-SI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | and behold, may my gathering \[take place\] (proposed precative lū) |
 | Root | k-n-s |
 | Proto-Semitic | \*kanVs- (#2763) |
-| Language layer | NWS |
-| Category | libation_formula |
+| Language layer | Semitic |
+| Tags | compound, fragmentary, hapax, libation_formula, noun, ritual |
 | Semantic field | verbal |
 
 ### Note
 
-Normalized formula, not an independently complete spelling in the listed witness. PKZa12 preserves U-NA-RU-KA-\[?\]-JA-SI, with JA legible (GORILA IV 38). The lost sign is restored as NA from the formula, and NI fits the trace equally (Soldani 2012, 221–22 n. 129). NA-JA recurs in I-NA-JA-PA-QA on PK Za 11, which makes JA a Palaikastro spelling. Soldani's KA-NI-JA- beside KA-NI-JA-MI (CR Zf 1) would make SI an ending, not a radical. IO Za 16 is only a structural comparator: it ends U-NA-RU-KA\[ and does not preserve -NA-SI or -NA-TI. PKZa11 independently preserves U-NA-RU-KA-NA-TI. Proposed analysis: U-NA /wannā/ 'and behold' + RU /lū/ 'may' + KA-NA-SI /kanāsī/ 'my gathering.' Akkadian lū can introduce a positive injunction in a verbless clause (Huehnergard 1997 §22.2), but Duhoux 1992, 69–70 and Thomas 2020 establish only that -RU- is a morphological variant; its value and function remain uncertain. Rival √k-n-š: see U-NA-KA-NA-SI.
+PK Za 12 writes U-NA-RU-KA-\[?\]-JA-SI, JA legible (GORILA IV 38). The lost sign is restored as NA from the formula, and NI fits the trace equally (Soldani 2012, 221–222 n. 129). NA-JA recurs in I-NA-JA-PA-QA on PK Za 11, a Palaikastro spelling, and PK Za 11 preserves U-NA-RU-KA-NA-TI whole. U-NA wannā 'and behold', RU lū 'may', KA-NA-SI kanāsī 'my gathering'. Akkadian lū introduces a positive injunction in a verbless clause (Huehnergard 1997, §22.2). Duhoux and Thomas take -RU- for a morphological variant within the group, Thomas an infix (Duhoux 1992, 69–70; Thomas 2020, 12–13). Cf. IO Za 16, which ends U-NA-RU-KA\[. Rival: Soldani's KA-NI-JA- beside KA-NI-JA-MI (CR Zf 1), with SI an ending. Hebrew has the same sequence, hēn lū yəhî 'behold, may it be' (Gen 30:34). Weak point: the sign after KA is restored. One attestation. See U-NA-KA-NA-SI for the rival √k-n-š.
 
 ### Cognates
 

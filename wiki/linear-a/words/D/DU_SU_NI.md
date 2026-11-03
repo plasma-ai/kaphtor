@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU_SU_NI
 title: "DU-SU-NI"
 desc: "Dišon: personal name, 'antelope'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DU-SU-NI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'antelope' |
 | Root | d-y-š-n |
 | Proto-Semitic | \*dīšān- {} \*ditān- (#3785) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -83,6 +83,6 @@ A recipient in the HT 108 grain list under KI-RE-TA-NA, DU-SU-NI 4\[. Dišon 'an
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretana.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretan.
 
 <!-- END kaphtor:record -->

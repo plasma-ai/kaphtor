@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/2888_set_in_order
 title: "*rVtVʕ-: 'set in order'"
-desc: "Proto-Semitic *rVtVʕ-, 'set in order': reflexes in 2 language(s)."
+desc: "Proto-Semitic *rVtVʕ-, 'set in order': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2888"
@@ -29,8 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | rtʿ (Biella 497) (Sabaweb lemma 2592) | Biella 497; Sabaweb lemma 2592 | gloss withheld |
+| Epigraphic South Arabian | rtʿ (Biella 497) (Sabaweb lemma 2592); rttʕ-m (LGz. 476) | Biella 497; Sabaweb lemma 2592; LGz. 476 | gloss withheld |
 | Geez | r-t-ʿ 'be established, well-ordered; establish' (Dillmann 02197; Dillmann 02198) | Dillmann 02197; Dillmann 02198 |  |
+| Tigre | rätʕa (LGz. 476) | LGz. 476 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

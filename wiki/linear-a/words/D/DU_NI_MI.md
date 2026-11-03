@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU_NI_MI
 title: "DU-NI-MI"
 desc: "ʾadunim / ʾadunīm: (to) the lord / lords—recipient entry; written only as WA-DU-NI-MI 'and (to) the lord(s)'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "noun", "title"]
 kind: "word"
 form: "DU-NI-MI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | (to) the lord / lords—recipient entry; written only as WA-DU-NI-MI 'and (to) the lord(s)' |
 | Root | ʾ-d-n |
 | Proto-Semitic | \*ʾadōn- (#2744) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | noun, title |
 | Semantic field | personnel |
 
 ### Note
 
-HT6b WA-DU-NI-MI 3 + fractions, first line of the verso; HT85b ninth of eleven entries, each 1, the others names or places (Scribe 9). WA- = wa- 'and', allomorph of U; list entries otherwise carry no conjunction. Initial ʾa- absorbed after the particle, as in Amorite LA-DU-NIM la-ʾadun-im. -NI-MI: gen. sg. -im or pl. -īm, not distinguished by the script. No DO sign, so ʾadun- and ʾadōn- both write DU. If ʾadun- holds, A-DU-NI-TA-NA (ARKH5) admits ʾadun-nittan 'the lord gave'. HT127a \]DU-NE-MI is excluded: it is broken before DU and NE cannot be equated with NI.
+HT 6b WA-DU-NI-MI 3 + fractions, first line of the verso; HT 85b WA-DU-NI-MI 1, ninth of eleven entries of one unit each, the others names or places (Scribe 9). WA- is wa- 'and', allomorph of U; list entries otherwise carry no conjunction. The initial ʾa- is absorbed after the particle, as in Amorite LA-DU-NIM la-ʾadun-im (Gelb 1980, no. 4246). -NI-MI is the genitive singular -im or the plural -īm, which the script does not distinguish. With no DO sign, ʾadun- and ʾadōn- both write DU. HT 127a DU-NE-MI, whole at the head of its line, is a separate name, ḏū-naʿmi. Two attestations. Cf. A-DU-NI-TA-NA (ARKH 5), ʾadun-nittan 'the lord gave'. See DU-NE-MI.
 
 ### Cognates
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/3330_fortress
 title: "*ḥṣn: 'fortress'"
-desc: "Proto-Semitic *ḥṣn, 'fortress': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḥṣn, 'fortress': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3330"
@@ -30,9 +30,10 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥiṣn 'a fortress; a fort; a fortified place' (Lane 586) | Lane 586 |  |
-| Epigraphic South Arabian | Sab ḥṣn (Biella 183) | Biella 183 | gloss withheld |
+| Epigraphic South Arabian | Sab ḥṣn (Biella 183); Sab mḥṣn (SD 72–73) | Biella 183; SD 72–73 | gloss withheld |
 | Soqotri | ḥoṣon (LGz. 247) | LGz. 247 | gloss withheld |
 | Geez | ḥəṣn (LGz. 247) | LGz. 247 | gloss withheld |
+| Aramaic | ḥsn (DNWSI 393) | DNWSI 393 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

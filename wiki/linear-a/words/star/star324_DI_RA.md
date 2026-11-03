@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/star/star324_DI_RA
 title: "*324-DI-RA"
-desc: "sōdir: one who sets in order (title or name). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+desc: "ṯadira: waitress, serving-girl (title). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "noun", "title"]
 kind: "word"
 form: "*324-DI-RA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "sōdir"
+reading: "ṯadira"
 attestations: ["HT122a", "HT9a", "HT9b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,28 +31,28 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | sōdir |
-| Meaning | one who sets in order (title or name) |
-| Root | s-d-r |
-| Proto-Semitic | \*sadār- (#K0390) |
-| Language layer | NWS |
-| Category | title |
+| Reading | ṯadira |
+| Meaning | waitress, serving-girl (title) |
+| Root | ṯ-d-r |
+| Proto-Semitic | \*ṯdr (#4421) |
+| Language layer | Semitic |
+| Tags | noun, title |
 | Semantic field | personnel |
 
 ### Note
 
-A recipient in the HT 9a/9b wine lists under SA-RO · TE · VIN (2½, 2) and on HT 122a (1), one roster in three copies, among names and titles. \*324 = SO: Linear A has no other SO sign, and LA 324 may be a Haghia Triada variant of LA 363/364 (Ferrara, Montecchi & Valério 2022, 88), compared with Linear B so (ibid. 98). SO-DI-RA = sōdir, active participle of s-d-r with ō for older ā and DI for d: Akk. sadāru 'to array, set in a row' (CAD S 11); Heb. śĕdērôt 'ranks' (2 Kgs 11:8, 15). SI-DA-RE stands on the same HT 122a roster. Rivals: šōṭēr 'officer' (√š-ṭ-r; Exod 5:6–19), which needs DI for ṭ; ʾaddīr 'noble' (Ug. yn (…) l ádrm 'wine (…) for the nobles', KTU 4.246:7, DULAT 21; Ebla a-ti-ir 'powerful', a name, Pagan 1998, row 845), which needs \*324 for ʾa, a value plain A already writes. See SI-DA-RO.
+A recipient in the HT 9a/9b wine lists under SA-RO · TE · VIN (2½, 2) and on HT 122a (1), one roster in three copies, among names and titles. \*324 = ṮA, the sign SigLA reads A364 at Zakros. ṮA-DI-RA = ṯadira, Ug. ṯdr 'waitress, girl' (DULAT 886–887), a Hurrian loan (Watson 2018, 336), on a wine issue.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | sadāru 'to do regularly, set in a row' (CAD S 11) |
-| Hebrew | sēder 'order, regulation', wəlōʾ sədārîm 'and without order' (Job 10:22; HALOT 744) |
+| Ugaritic | ṯdr n.f. 'waitress, girl' (DULAT 886–887; KTU 1.42:30, 4.275:2) |
+| Hurrian | Hurro-Hittite šiduri 'girl'; Akk. šiduri 'young woman', the source of Ug. ṯdr (Watson 2018, 336) |
 
 ### Source
 
-di Mino; Pagan 1998
+di Mino; DULAT; Watson 2018
 
 ## Attestations
 
@@ -66,9 +66,9 @@ di Mino; Pagan 1998
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | sōdir | one who sets in order (title or name; √s-d-r) | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | sōdir | one who sets in order (title or name; √s-d-r) | SPECULATIVE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | sōdir | one who sets in order (title or name; √s-d-r) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | ṯadira | waitress, serving-girl (title; √ṯ-d-r) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT9b\|HT9b]] | ṯadira | waitress, serving-girl (title; √ṯ-d-r) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | ṯadira | waitress, serving-girl (title; √ṯ-d-r) | SPECULATIVE |
 
 ## Onomasticon
 

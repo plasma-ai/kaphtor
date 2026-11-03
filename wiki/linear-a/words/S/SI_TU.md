@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_TU
 title: "SI-TU"
 desc: "sūt: garment, textile. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "commodity", "noun", "textile"]
 kind: "word"
 form: "SI-TU"
 datasets: ["lexicon"]
@@ -33,15 +33,15 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | sūt |
 | Meaning | garment, textile |
-| Root | š-y-t |
+| Root | s-w-t |
 | Proto-Semitic | \*sū-t- (#364) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | commodity, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-ZA20 allocation list: SI-TU qty 6 alongside SI-TE-TU (feminine /sūt-tu/) qty 1. HTWa1019 nodule sealed with PA-TA-NE (PN). Consonantal skeleton s-t maps cleanly. \|\| Huehnergard: Ug šyt /šītu/ (infinitive); /šāta/ (perfect); /yašītu/ (imperfect) "to place, put"; II-y G verb. G infinitive qitl: šītu. Perfect šāta, imperfect yašītu/yašīt, imperative šīt. BH cognate: šāt ~ yāsīt "to place" (Huehnergard 2012, pp. 42, paradigm section)
+ZA 20, an allocation list: SI-TU 6, after SI-TE-TU šetātu 'woven' 1; HT Wa 1019, a nodule sealed with the name PA-TA-NE. sūt 'garment': Heb. sût, sûtōh 'his garment' beside lᵉbûšô (Gen 49:11), Ph. swt (HALOT 749).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ ZA20 allocation list: SI-TU qty 6 alongside SI-TE-TU (feminine /sūt-tu/) qty 1.
 
 ### Source
 
-di Mino
+di Mino; HALOT; DULAT
 
 ## Attestations
 

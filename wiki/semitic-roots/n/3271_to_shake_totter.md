@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | nɣṣ (DUL 625 apud SEDonline 1414) | DUL 625; SEDonline 1414 | gloss withheld |
+| Ugaritic | nɣṣ (DULAT 617; SEDonline 1414) | DULAT 617; SEDonline 1414 | gloss withheld |
 | Arabic | nɣḍ (Lane 2818 apud SEDonline 1414) | Lane 2818; SEDonline 1414 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

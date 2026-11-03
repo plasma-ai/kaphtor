@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1004_be_curved
 title: "*ḥadab-: 'be curved'"
-desc: "Proto-Semitic *ḥadab-, 'be curved': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḥadab-, 'be curved': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1004"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḥdb \[-a-\]; ḥadiba 'he was, or became, humpbacked'; 'it (the back) was, or became, humped, or protuberant' (Lane 527) | Lane 527 |  |
+| Eblaitic | ħadib: du. ʔà-ti-ba /ħadib=ay(n)/; name ʔà-ti-bù (Sanmartín GlOS 1, 231) | Sanmartín GlOS 1, 231 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -39,9 +39,9 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | riglā (raglā) \[Ja 1449\]; ryglh \[DJPA 516a apud CAL\], riglāʔ-; nigrā \[Ja. 902\] | Ja 1449; DJPA 516a; CAL; Ja. 902 | gloss withheld |
 | Syrian Aramaic | reglā 'pes' \[Brock 712\] | Brock 712 |  |
 | Aramaic | SML lgr, OFF rgl, lgl, ngr, PLM rgl \[HJ 1060\]; SamP riggālāʔi; Dem. lgr \[HJ 1259\] | HJ 1060; HJ 1259 | gloss withheld |
-| Gurage | əngər (OLA80 §43.5) | OLA80 §43.5 | gloss withheld |
 | Mandaic Aramaic | ligra \[DM 235\] | DM 235 | gloss withheld |
 | Punic | mrgl (T 198) | T 198 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rgl (Al-Jallad 2026, 121) | Al-Jallad 2026 121 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

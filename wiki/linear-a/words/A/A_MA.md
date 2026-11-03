@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_MA
 title: "A-MA"
 desc: "ʿamma: people, kinfolk—social/kinship term. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "social"]
+tags: ["linear-a", "word", "tier-2", "kinship", "noun"]
 kind: "word"
 form: "A-MA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | people, kinfolk—social/kinship term |
 | Root | ʿ-m-m |
 | Proto-Semitic | \*ʕamm- (#44) |
-| Language layer | NWS |
-| Category | social |
+| Language layer | Semitic |
+| Tags | kinship, noun |
 | Semantic field | kinship |
 
 ### Note
 
-Beside it \*ʕamam- "people, nation, kinfolk" (#S10). 3 attestations across 3 geographically dispersed sites. On MA1b, A-MA appears alongside QE-DE-MI-NU (Qadmīnu "primordial/eastern", cf. Kadmos)—a kinship term adjacent to a recognized Semitic PN parallels NWS naming formulae (ʿAmminadab, ʿAmmiśaday). Ebla has the name a-ma ʿamma 'the uncle' (Pagan 1998, row 672). 2-consonant skeleton is underdetermined: competing roots include \*ʔamm-at- "cubit" (#1156), \*ʔam(a)t- "maidservant" (#2783). The \*306=/ʿa/ vs standard A ambiguity also applies. See \*306+MI.
+HS Zg 1, a stone object, has A-MA alone; MA 1b has A-MA · \*47 over QE-DE-MI-NU; ZA 7b has A-MA, the rest broken. Three attestations, at three sites. ʿamma 'people, kinfolk': Heb. ʿam 'paternal uncle; kin, clan; people' (HALOT 837). On MA 1b, A-MA stands beside QE-DE-MI-NU (Qēdmīnu 'primordial, eastern', cf. Kadmos), a kinship term beside a Semitic personal name, as in the NWS names ʿAmminadab (Exod 6:23; Num 1:7; HALOT 844) and ʿAmmišadday (Num 1:12). Ebla has the name a-ma ʿamma 'the uncle' (Pagan 1998, row 672). Plain A writes the ʿ, as in A-MA-JA ʿAmmaya and A-PA₃-DI ʿAbdī; \*306+MI writes the same name element with \*306. Rivals: ʾammat- 'cubit' and ʾam(a)t- 'maidservant', on the same two consonants. See \*306+MI.
 
 ### Cognates
 

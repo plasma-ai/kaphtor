@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/850_give_offer
 title: "*mnḥ: 'give, offer'"
-desc: "Proto-Semitic *mnḥ, 'give, offer': reflexes in 7 language(s)."
+desc: "Proto-Semitic *mnḥ, 'give, offer': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "850"
@@ -37,6 +37,8 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | mannaḥa (HALOT 601) | HALOT 601 |  |
 | Judaic Aramaic | minḥātā (HALOT 601) | HALOT 601 |  |
 | Aramaic | mnḥh (HALOT 601) | HALOT 601 |  |
+| Punic | N.Pu. mnḥt (T 186) | T 186 | gloss withheld |
+| Canaanite | EG SYLL man=ḥ={t}=ta, man=ḥ=ta /\*manḥata/ (Hoch 128) | Hoch 128 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

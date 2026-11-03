@@ -33,7 +33,7 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | ḥemʔā (HALOT 325) | HALOT 325 | gloss withheld |
 | Akkadian | ḫimētu (Bab.), ḫimātu (Ass.) (HALOT 325) | HALOT 325 |  |
 | Judaic Aramaic | ḥemʾătā (HALOT 325) | HALOT 325 |  |
-| Epigraphic South Arabian | ḥmʾt (HALOT 325) | HALOT 325 |  |
+| Epigraphic South Arabian | Sab ḫmʾt (SD 61) | SD 61 | gloss withheld |
 | Harsusi | ḥāmi (Kogan 2011, 240) | Kogan 2011 240 |  |
 | Soqotri | ḥámi (Kogan 2011, 240) | Kogan 2011 240 |  |
 | Amorite | ḫimʾat (Sanmartín GlOS 1, 272) | Sanmartín GlOS 1, 272 | gloss withheld |

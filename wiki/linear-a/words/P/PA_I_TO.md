@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_I_TO
 title: "PA-I-TO"
 desc: "Paito: Phaistos (place name). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "toponym"]
+tags: ["linear-a", "word", "tier-4", "loanword", "toponym"]
 kind: "word"
 form: "PA-I-TO"
 datasets: ["lexicon", "onomasticon"]
@@ -33,13 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Paito |
 | Meaning | Phaistos (place name) |
-| Language layer | NWS |
-| Category | toponym |
+| Root | Φαιστός (Pre-Greek, suffix -ιστ-; Beekes 2014, 39, 164) |
+| Language layer | Semitic |
+| Tags | loanword, toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Same spelling in Linear B—direct overlap.
+HT 97a PA-I-TO 6, among the entries under KA-RU · \*307+\*307 · VIR+KA 82, after KA-NU-TI 25; HT 120 PA-I-TO 3⅕, the last entry, after KI-RE-TA-NA GRA+B 60 and GRA+PA 48. Linear B writes the same pa-i-to for Phaistos, the town of the Knossos tablets (DMic II 68).
 
 ### Cognates
 
@@ -50,7 +51,7 @@ Same spelling in Linear B—direct overlap.
 
 ### Source
 
-Gordon 1966; Linear B overlap
+di Mino; Gordon 1966; DMic II; Cline and Stannish 2011; Beekes 2014
 
 ### Review
 
@@ -88,6 +89,6 @@ Reading from the lexicon (Gordon 1966; Linear B pa-i-to).
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, KI, [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretana.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KA_NU_TI|KA-NU-TI]] Ganuti, KI, [[wiki/linear-a/words/K/KI_RE_TA_NA|KI-RE-TA-NA]] Kretan.
 
 <!-- END kaphtor:record -->

@@ -395,20 +395,6 @@ These 15 acquired ZIPs supply catalogue organization or proxy maps but no additi
 - Token counts include Sumerian, Aramaic, and other embedded/adjacent language material. Akkadian research should filter on token language codes beginning `akk` rather than infer language from project membership.
 - The local holding is extensive but selective. In particular it is not a comprehensive Mari archive, comprehensive Old Babylonian administrative/legal archive, or the entire ORACC universe.
 
-## Recommended persistent index design
-
-Build the navigation layer as linked tables rather than one flattened file:
-
-1. **Package** — archive name, ORACC project, parent family, source URL, retrieval/build dates, checksum, license, proxy count, and raw-member counts.
-2. **Catalogue object** — P/Q object ID plus designation, language, period, genre/subgenre, provenience, collection, museum number, publication, and translation flag. Retain raw publisher strings.
-3. **Edition** — stable edition ID, object ID, direct source project, archive checksum, line/token totals, text/annotation/translation coverage flags, and review status.
-4. **Line** — edition ID, line sequence, ORACC reference, label, transliteration, optional translation alignment.
-5. **Token** — edition ID, line/reference, token sequence, surface form, normalized form, citation form, guide word/sense, POS, language/dialect, and damage state.
-6. **Alternate-edition link** — object ID, all edition IDs, project/archive provenance, content hashes, and later token/line difference summaries. Never choose a canonical edition silently.
-7. **Normalized facets** — controlled period, genre, provenience, and language labels linked to raw values by an auditable mapping table.
-
-The human-facing TOC should permit the path `family → project/archive → period/genre/provenience → edition → line/token`, plus reverse faceting by root/lemma and P/Q identifier.
-
 ## Local evidence used
 
 - `data/ingest/cuneiform/derived/oracc_documents.jsonl` — parsed edition, line, and token layer.

@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šeṭû 'spread' | Anderson–Moser 2024 root šṭḥ |  |
+| Akkadian | šeṭû (AHw 1222) | AHw 1222; Anderson–Moser 2024 root šṭḥ | gloss withheld |
 | Geez | saṭḥa 'spread' | Anderson–Moser 2024 root šṭḥ |  |
 | Hebrew | šaṭaḥ 'spread' (BDB 1008) | BDB 1008 |  |
 | Judaic Aramaic | šəṭaḥ (HALOT 1474; DJPA 545a apud CAL) | HALOT 1474; DJPA 545a; CAL | gloss withheld |

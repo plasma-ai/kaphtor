@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/784_morning_daylight_1_light_2
 title: "*nahār-: 'morning, daylight' 1, 'light' 2"
-desc: "Proto-Semitic *nahār-, 'morning, daylight' 1, 'light' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *nahār-, 'morning, daylight' 1, 'light' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "784"
@@ -33,6 +33,7 @@ updated: 2026-10-25T06:28:07Z
 | Arabic | nahār 1 (HALOT 677; Lane 2858) | HALOT 677; Lane 2858 | gloss withheld |
 | Hebrew | nǝhārâ 2 (HALOT 677) | HALOT 677 | gloss withheld |
 | Syrian Aramaic | nuhrā 'light, brightness' 2 (Payne Smith 330) | Payne Smith 330 |  |
+| Biblical Aramaic | \*nəhōr 2 (HALOT 677) | HALOT 677 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

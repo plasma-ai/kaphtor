@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3721_to_provoke_stir_up_strife_to_be_hostile
 title: "*gry: 'to provoke, stir up strife; to be hostile'"
-desc: "Proto-Semitic *gry, 'to provoke, stir up strife; to be hostile': reflexes in 3 language(s)."
+desc: "Proto-Semitic *gry, 'to provoke, stir up strife; to be hostile': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3721"
@@ -32,6 +32,8 @@ updated: 2026-10-28T02:25:00Z
 | Hebrew | grh pi. (Pr 15:18; 28:25; 29:22); hitp. (HALOT 202) | HALOT 202 | gloss withheld |
 | Akkadian | gerû; D gurrû; Gt itegrû (CAD G 61–62); gērû (CAD G 62) | CAD G 61–62; CAD G 62 | gloss withheld |
 | Syrian Aramaic | garrī (pa. of grā) 'to provoke, incite'; etgarrī (ethpa.) 'to provoke, stir up strife, pick a quarrel, contend' (Payne Smith 77); mgaryānūtā 'stirring up strife; an assault' (Payne Smith 251) | Payne Smith 77; Payne Smith 251 |  |
+| Ugaritic | /g-r(-y)/ (DULAT 306) | DULAT 306 | gloss withheld |
+| Aramaic | gry (DNWSI 234) | DNWSI 234 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

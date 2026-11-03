@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/A/A_TA_DE
 title: "A-TA-DE"
-desc: "ʾaʿtid(u): I make ready (1cs prefix form; proposed). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "ritual"]
+desc: "ʾaʿtid(u): I make ready (1cs prefix form). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "ritual", "verb"]
 kind: "word"
 form: "A-TA-DE"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾaʿtid(u) |
-| Meaning | I make ready (1cs prefix form; proposed) |
+| Meaning | I make ready (1cs prefix form) |
 | Root | ʿ-t-d |
 | Proto-Semitic | \*ʕVtVd- (#2962) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Divider-bounded hapax on the gold pin CRZf1. 1cs prefix form ʾa-ʿtid- of √ʿ-t-d 'to be ready, prepare', ʿ dropped: a-ta-de sign for sign. A suffix-form 1cs would need -t- (Heb. ʿātadtî). Final DE is confirmed in GORILA V's AB45 variant table. The sequence AU-TA-DE occurs within undivided KO(?)Zf2 and is a formal comparison, not a second attestation of A-TA-DE or proof of its meaning.
+CR Zf 1, the gold pin, divider-bounded, the last group after QA-KI-SE-NU-TI. ʾaʿtid(u) 'I make ready', 1cs prefix form of √ʿ-t-d 'be ready, prepare' (HALOT 901), the ʿ dropped: a-ta-de sign for sign. A suffix-form 1cs needs -t- (Heb. ʿātadtî). GORILA V's AB45 variant table gives the final DE. Cf. AU-TA-DE (KO(?) Zf 2), inside an undivided sequence. One attestation.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Divider-bounded hapax on the gold pin CRZf1. 1cs prefix form ʾa-ʿtid- of √ʿ
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 

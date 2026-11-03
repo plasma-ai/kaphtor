@@ -20,20 +20,20 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 329 | 347 |
-| Khania | 226 | 223 | 36 | 66 |
-| Phaistos | 66 | 48 | 9 | 38 |
-| Knossos | 57 | 51 | 12 | 44 |
-| Zakros | 53 | 40 | 5 | 87 |
-| Palaikastro | 25 | 25 | 10 | 36 |
+| Haghia Triada | 1,111 | 1,053 | 333 | 360 |
+| Khania | 226 | 223 | 36 | 69 |
+| Phaistos | 66 | 48 | 9 | 40 |
+| Knossos | 57 | 51 | 13 | 45 |
+| Zakros | 53 | 40 | 5 | 92 |
+| Palaikastro | 25 | 25 | 8 | 36 |
 | Malia | 22 | 11 | 0 | 9 |
-| Thera | 19 | 18 | 2 | 4 |
+| Thera | 19 | 18 | 2 | 3 |
 | Iouktas | 16 | 16 | 12 | 17 |
-| Arkhanes | 12 | 9 | 2 | 22 |
+| Arkhanes | 12 | 9 | 2 | 24 |
 | Syme | 12 | 12 | 6 | 16 |
-| Petras | 11 | 11 | 3 | 15 |
+| Petras | 11 | 11 | 3 | 18 |
 | Kea | 8 | 8 | 1 | 2 |
-| Tylissos | 6 | 5 | 0 | 8 |
+| Tylissos | 6 | 5 | 0 | 10 |
 | Gournia | 5 | 3 | 0 | 5 |
 | Miletos | 4 | 4 | 0 | 2 |
 | Pyrgos | 4 | 4 | 0 | 4 |
@@ -64,17 +64,17 @@ Every number on this page is computed from the data files.
 | Kardamoutsa | 1 | 1 | 1 | 1 |
 | Kophinas | 1 | 1 | 1 | 8 |
 | Kophinas (?) | 1 | 1 | 0 | 1 |
-| Lachish | 1 | 1 | 1 | 0 |
+| Lachish | 1 | 1 | 1 | 1 |
 | Larani | 1 | 1 | 0 | 0 |
 | Margiana | 1 | 1 | 0 | 0 |
 | Nerokurou | 1 | 1 | 0 | 1 |
 | Papourou | 1 | 1 | 0 | 0 |
 | Platanos | 1 | 1 | 1 | 4 |
 | Prassa | 1 | 1 | 1 | 3 |
-| Psykhro | 1 | 1 | 1 | 1 |
+| Psykhro | 1 | 1 | 1 | 2 |
 | Selakanos | 1 | 1 | 0 | 0 |
 | Sitia | 1 | 1 | 0 | 0 |
-| Skhinia | 1 | 1 | 0 | 1 |
+| Skhinia | 1 | 1 | 0 | 0 |
 | Tel Haror | 1 | 1 | 1 | 1 |
 | Tiryns | 1 | 1 | 0 | 0 |
 | Traostalos | 1 | 1 | 0 | 0 |

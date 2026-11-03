@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/T/TA_NI_KA
 title: "TA-NI-KA"
-desc: "Taʿnaku: Taanach (place name), or a personal name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+desc: "Taʿnaku: Taanach (place name); rival a personal name. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "toponym", "toponym_foreign"]
 kind: "word"
 form: "TA-NI-KA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,15 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Taʿnaku |
-| Meaning | Taanach (place name), or a personal name |
-| Root | t-ʿ-n-k |
-| Language layer | NWS |
-| Category | toponym |
+| Meaning | Taanach (place name); rival a personal name |
+| Root | ʿ-n-k (taqtal) |
+| Proto-Semitic | \*ʕnk (#4414) |
+| Language layer | Semitic |
+| Tags | toponym, toponym_foreign |
 | Semantic field | toponym |
 
 ### Note
 
-HT Wc 3004 and HT Wc 3005, two roundels by one scribe, each reading TA-NI-KA with SE (GORILA II 73): one context. Taanach is Hebrew Taʿnak (HALOT 1770; Josh 12:21; 17:11; 21:25; Judg 1:27) and Amarna URU Taḫnaka, EA 248:14, 'perhaps biblical Taanach' (Moran 1992, index). ʿ is unwritten, NI writes the a, and a Canaanite town on Haghia Triada roundels is unexplained. Rival: a local personal name.
+HT Wc 3004 and HT Wc 3005, two roundels by one scribe, each reading TA-NI-KA with SE (GORILA II 73): one context. Taanach is Hebrew Taʿnak (HALOT 1770; Josh 12:21; 17:11; 21:25; Judg 1:27) and Amarna URU Taḫnaka, EA 248:14, 'perhaps biblical Taanach' (Moran 1992, index). The name is a taqtal of ʿ-n-k, Arabic ʿanak 'closure of a door' (Boehmer, apud HALOT 1769, which calls it questionable). ʿ is unwritten, NI writes the a, and a Canaanite town on Haghia Triada roundels is unexplained. Rival: a local personal name.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ HT Wc 3004 and HT Wc 3005, two roundels by one scribe, each reading TA-NI-KA wit
 
 ### Source
 
-Moran 1992, EA 248:14; di Mino
+Moran 1992, EA 248:14; di Mino; HALOT
 
 ## Attestations
 

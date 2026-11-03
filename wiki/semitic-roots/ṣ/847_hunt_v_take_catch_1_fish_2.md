@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṣyd \[-i-, -a-\] (Lane 1752); ṣayd 2, Yemeni (Tāj 8:309) | Lane 1752; Tāj 8:309 | gloss withheld |
 | Mehri | c̣ayd 2 |  |  |
 | Soqotri | ṣode 2; ṣóde (SLOnline 7560) | SLOnline 7560 | gloss withheld |
-| Akkadian | ṣâdu |  |  |
+| Akkadian | ṣâdu (AHw 1073) | AHw 1073 |  |
 | Harsusi | ṣayd 2 |  |  |
 | Ugaritic | ṣd (Kogan 2015, ch. 3 §5.3 no. 30) | Kogan 2015 ch. 3 §5.3 no. 30 |  |
 | Jibbali | c̣od 2 |  |  |
@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | mṣīdtā (HALOT 622); ṣād, ṣwd, ṣaydā (HALOT 1010, 1020) | HALOT 622; HALOT 1010, 1020 | gloss withheld |
 | Mandaic Aramaic | ṢUD, ṣaid (HALOT 1010, 1020) | HALOT 1010, 1020 |  |
 | Amorite | ṣjd: ṣājidum, ṣājidatum, ṣajjādum, jāṣīd (Gelb AS 21, 34); ṣayyād (Buck 2019, 333) | Gelb AS 21 34; Buck 2019, 333 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ṣyd (Al-Jallad–Jaworska 130) | Al-Jallad–Jaworska 130 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṣyd (Al-Jallad–Jaworska 130); ṣd 1; mṣd 1; Hismaic ṣyd 1 (Al-Jallad 2026, 150) | Al-Jallad–Jaworska 130; Al-Jallad 2026 150 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

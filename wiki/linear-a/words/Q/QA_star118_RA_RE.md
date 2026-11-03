@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_star118_RA_RE
 title: "QA-*118-RA-RE"
 desc: "qaṭara(re): incense, incense-offering (Semitic cultic term). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+tags: ["linear-a", "word", "tier-3", "aromatic", "hapax", "noun", "ritual"]
 kind: "word"
 form: "QA-*118-RA-RE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | incense, incense-offering (Semitic cultic term) |
 | Root | q-ṭ-r |
 | Proto-Semitic | \*ḳuṭr- (#2544) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | aromatic, hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Contingent on \*118 = ṬA. HT96b (Haghia Triada, Casa Room 7, LMIB)—commodity tablet header. Full line: A-PA-RA-NE 𐄁 QA-\*118-RA-RE 𐄁 \*516 𐄁 GRA 𐄁 40¾ \| OLE+U 4 \| NI 2 1/16. A major commodity allocation (40¾ units grain, 4 olive oil). √q-ṭ-r "to smoke, burn incense"—Hebrew qeṭōret (THE ritual incense term in Biblical Hebrew), Arabic qaṭara "to drop, distill." The -RA-RE suffix could render the final root consonant + case ending, or a Semitic noun pattern like qaṭṭāra. "Incense" as a commodity header on a grain-and-oil ledger is semantically perfect. \*118 = ṭa is speculative; √q-ṭ-r is well attested. See QI-TI-RI.
+HT 96b (Haghia Triada, Casa Room 7, LM IB), a commodity tablet headed A-PA-RA-NE ·: QA-\*118-RA-RE · \*516 · GRA · 40¾, OLE+U 4, NI 2¹⁄₁₀, a large allocation of grain and oil. qaṭara(re) 'incense, incense-offering', √q-ṭ-r 'to smoke, burn incense', with \*118 read ṭa, a proposed value: Heb. qəṭōret 'incense' (HALOT 1095), beside Akk. qutru 'smoke' and qutrinnu 'incense, censer' (HALOT 1095), Arabic qaṭara 'to drop, distill'. -RA writes the root's r and -RE an ending, or the noun pattern qaṭṭāra. Weak point: \*118 = ṭa holds only once the DA and TA doublets are set aside, and standing alone before a numeral \*118 is the talent sign. With t, the root is the same: Akk. qatāru 'to make an incense offering' (CAD Q 166) writes \*q-ṭ-r with t by Geers' law (Huehnergard 1997, 588). One attestation. See QI-TI-RI.
 
 ### Cognates
 

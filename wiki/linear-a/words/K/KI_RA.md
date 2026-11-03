@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KI_RA
 title: "KI-RA"
-desc: "kirû/qīra: possibly garden/orchard; alternatively hot bitumen. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+desc: "kirû: garden, orchard; rival qīru 'hot bitumen'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "administrative", "agriculture", "noun"]
 kind: "word"
 form: "KI-RA"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.4
-reading: "kirû/qīra"
+reading: "kirû"
 attestations: ["HT103", "ZA8"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | kirû/qīra |
-| Meaning | possibly garden/orchard; alternatively hot bitumen |
+| Reading | kirû |
+| Meaning | garden, orchard; rival qīru 'hot bitumen' |
 | Root | k-r-y |
 | Proto-Semitic | \*kiry- (#2312) |
-| Language layer | Akkadian_or_NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, agriculture, noun |
 | Semantic field | administrative |
 
 ### Note
 
-KI-RA occurs on HT103 with 5½ and opens ZA8 before A-TA-RE, which is followed by NI ‘figs’ ½. ‘Balance’, from its resemblance to KI-RO, has no support on HT103, which provides no balancing equation: NI 40 is not marked as a total, and no KU-RO occurs. Akkadian kirû(m) ‘garden, orchard’ (base kiri-; Huehnergard 1997, 126) fits the horticultural contexts, although KI-RA does not reproduce its inflection exactly. Akkadian qīru ‘hot bitumen’ (CAD Q 270), attested syllabically as qi-ra, is formally closer but requires KI to represent /qi/ and fits ZA8 less well. ‘Garden/orchard’ is the preferred candidate; the entry remains unproved.
+HT 103 KI-RA 5½, after DA-KU-SE-NE 1; ZA 8 opens KI-RA · A-TA-RE · NI 'figs' ½. kirû 'garden, orchard' (CAD K 411), base kiri- (Huehnergard 1997, 126), fits these horticultural entries. Rival: qīru 'hot bitumen' (CAD Q 270), spelled qi-ra in the Middle Assyrian Laws (KAV 1 v 76), with KI writing qi.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ KI-RA occurs on HT103 with 5½ and opens ZA8 before A-TA-RE, which is followed b
 
 ### Source
 
-di Mino; GORILA I 170–171; Huehnergard 1997, 126; ORACC qīru attestations
+di Mino; GORILA I; CAD K; CAD Q; Huehnergard 1997
 
 ## Attestations
 
@@ -64,7 +64,7 @@ di Mino; GORILA I 170–171; Huehnergard 1997, 126; ORACC qīru attestations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | kirû/qīra | possibly garden/orchard; alternatively liquid bitumen | CANDIDATE |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | kirû/qīra | garden, orchard (heading); alternatively liquid bitumen | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | kirû | garden, orchard; rival qīru 'hot bitumen' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | kirû | garden, orchard (heading); alternatively liquid bitumen | CANDIDATE |
 
 <!-- END kaphtor:record -->

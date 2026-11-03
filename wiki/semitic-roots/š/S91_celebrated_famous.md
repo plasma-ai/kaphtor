@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šanūdu (OLA80 §34.6) | OLA80 §34.6 | gloss withheld |
+| Akkadian | šanūdu (OLA80 §34.6; AHw 1167) | OLA80 §34.6; AHw 1167 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

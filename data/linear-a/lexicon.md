@@ -21,14 +21,15 @@ updated: 2026-10-22T18:14:10Z
 | `cognates` | cognate forms by language (an object), or a sentence |
 | `tier`, `confidence` | 4 CONFIRMED, 3 PROBABLE, 2 CANDIDATE, 1 SPECULATIVE |
 | `confidence_score` | a score from 0 to 1 that ranks entries within a tier |
-| `semantic_field`, `category`, `language_layer` | classification; `language_layer` names the language the reading draws on |
-| `language_family` | the family over `language_layer`, on every entry: `Semitic` (NWS, Akkadian, Eblaite and the mixed Semitic labels), `Hurro-Urartian` (Hurrian), `Egyptian`, `Indo-European` (Anatolian, Indo-Aryan), `Afroasiatic` (NWS or Egyptian), or null for logograms, Aegean and substrate words, contact words and unresolved labels |
+| `semantic_field`, `language_layer` | classification: `semantic_field` is the word's subject area, one value on every entry; `language_layer` is the language the word reached Linear A through, on every entry: `Semitic`, `Hurrian`, `Middle Egyptian`, `Anatolian`, `Indo-European`, `Sumerian`, `Aegean` or `logogram` |
+| `tags` | the dictionary filter, on every entry: a list of values from one fixed vocabulary for word class, name type and form (`noun`, `personal_name`, `hapax`, `compound`…); `loanword` marks a word borrowed whole, `loanblend` a native derivative on a borrowed base, whose root names the base's language (KU-PA₃-NU Kubānu, Semitic -ān- on Sumerian Kubaba) |
+| `language_family` | the family of the word's origin, on every entry: `Semitic`, `Hurro-Urartian`, `Egyptian`, `Indo-European` or `Sumerian`, or null under `Aegean` and `logogram`. It follows the layer (`Semitic`, `Hurrian` Hurro-Urartian, `Middle Egyptian` Egyptian, `Indo-European`, `Sumerian`) except under `Anatolian`, where the route and the origin can part, and the family is `Semitic` or `Indo-European` |
 | `attestations` | inscription ids, always a list |
 | `sites` | site names, where recorded |
 | `note` | evidence, rivals and parallels; sections are separated by ` \|\| ` |
 | `source` | who proposed the reading: "di Mino", another scholar's work, or both |
 | `reviewer`, `outside_scholar` | on CONFIRMED entries: the reviewer, and the outside scholar whose published reading matches |
-| `alternative_readings`, `related_forms`, `corpus_forms`, `root_meaning`, `phonological_notes`, `parallels`, `cross_references` | present on a few entries |
+| `alternative_readings`, `related_forms`, `corpus_forms`, `root_meaning`, `phonological_notes`, `cross_references`, `sigla_contested` and `sigla_note` | present on a few entries |
 
 Inscription ids match `translations.json` and the corpus, except `LMP-Spell33`, the Keftiu spell of the London
 Medical Papyrus (BM 10059), which the Linear A corpus does not hold. REJECTED readings are not shipped.

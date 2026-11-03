@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/957_sunset
 title: "*ɣarb-: 'sunset'"
-desc: "Proto-Semitic *ɣarb-, 'sunset': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ɣarb-, 'sunset': reflexes in 16 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "957"
@@ -44,6 +44,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | ʕǝreb |  |  |
 | Tigrinya | ʕaräbä |  | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ġrb (Al-Jallad–Jaworska 75) | Al-Jallad–Jaworska 75 | gloss withheld |
+| Akkadian | erēpu (arāpu) (CAD E 279) | CAD E 279 | gloss withheld |
+| Epigraphic South Arabian | Sab ġrbn (Biella 397) | Biella 397 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

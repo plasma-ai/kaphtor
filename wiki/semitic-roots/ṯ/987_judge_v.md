@@ -30,12 +30,12 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | špṭ |  |  |
+| Akkadian | špṭ (AHw 1172) | AHw 1172 |  |
 | Ugaritic | ṯpṭ (DULAT 912); ṯpṭ (title of Yaríḫ, KTU 1.24:25) | DULAT 912; KTU 1 | gloss withheld |
-| Phoenician | špṭ; špṭ (T 329) | T 329 | gloss withheld |
+| Phoenician | špṭ; špṭ (T 329); mšpṭ (T 203) | T 329; T 203 | gloss withheld |
 | Hebrew | šāpaṭ; šōpēṭ; mišpāṭ |  | gloss withheld |
 | Punic | špṭ 'judge' | Anderson–Moser 2024 root ṯpṭ |  |
-| Epigraphic South Arabian | Sab. ṯpṭ (HALOT 1622) | HALOT 1622 |  |
+| Epigraphic South Arabian | Sab. ṯpṭ (HALOT 1622); ṯfṭ (SD 150) | HALOT 1622; SD 150 | gloss withheld |
 | Amorite | špṭ: šipṭum (Gelb AS 21, 33); ṯipṭi (Buck 2019, 334); šapāṭu (ARM 26/1, 31: 11), šāpiṭu, šāpiṭūtu, šipṭu (Streck 2000, 117–118); ṯāpiṭ: ša-pí-ṭum, ša-pí-ṭim (Sanmartín GlOS 2, 327) | Gelb AS 21 33; Buck 2019, 334; Streck 2000 117–118; Sanmartín GlOS 2, 327 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

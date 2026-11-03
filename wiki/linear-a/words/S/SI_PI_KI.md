@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_PI_KI
 title: "SI-PI-KI"
 desc: "šipkī: pourings, libation portions (wine administration term). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "administrative", "beverage", "commodity", "foodstuff", "noun", "ritual"]
 kind: "word"
 form: "SI-PI-KI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | pourings, libation portions (wine administration term) |
 | Root | š-p-k |
 | Proto-Semitic | \*šapāk- (#K0529) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | administrative, beverage, commodity, foodstuff, noun, ritual |
 | Semantic field | commodity |
 
 ### Note
 
-Fixed co-occurrence with JI-NU-MA-RE (wine-stewards, PROBABLE) on all 3 Zakros stone vessels (ZA4a, ZA5b, ZA15a). On ZA5b followed by MA-KA-I-TA (makita 'magical protection'). Wine distribution context makes 'pourings/libation portions' semantically strong. Receives quantities (5, 1.5, 2.5) consistent with commodity allocation. Rival: the attested noun šipku, Mari SÍG ši-ip-ku 'in bulk, loose' and šipku 'cereal(s)' (GlOS 2, 257–58; CAD Š/3 71).
+ZA 4a \*28B-NU-MA-RE 13, SI-PI-KI 5; ZA 5b \*28B-NU-MA-RE 20, SI-PI-KI 1½, then MA-KA-I-TA 3 (Makīt, a recipient); ZA 15a \*28B-NU-MA-RE 6, SI-PI-KI 2½: beside JI-NU-MA-RE 'wine-stewards' on all three Zakros wine tablets, with commodity quantities. šipkī 'pourings, libation portions', √š-p-k 'pour out': Heb. šāpak 'pour out', Ug. špk 'spill', Akk. šapāku 'heap up; pour, serve lavishly' (HALOT 1629). Rival: the attested noun šipku, Mari SÍG ši-ip-ku 'in bulk, loose' and šipku 'cereal(s)' (GlOS 2, 257–258; CAD Š/3 71). Three attestations. See JI-NU-MA-RE.
 
 ### Cognates
 

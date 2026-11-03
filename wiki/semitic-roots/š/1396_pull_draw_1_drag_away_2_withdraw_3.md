@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1396_pull_draw_1_drag_away_2_withdraw_3
 title: "*šul-: 'pull, draw' 1, 'drag away' 2, 'withdraw' 3"
-desc: "Proto-Semitic *šul-, 'pull, draw' 1, 'drag away' 2, 'withdraw' 3: reflexes in 6 language(s)."
+desc: "Proto-Semitic *šul-, 'pull, draw' 1, 'drag away' 2, 'withdraw' 3: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1396"
@@ -36,6 +36,7 @@ updated: 2026-10-26T14:26:59Z
 | Hebrew | šly 1; šll 1 (HALOT 1531) | HALOT 1531 | gloss withheld |
 | Syrian Aramaic | šlā 'draw out, pull out' (Payne Smith 578) | Payne Smith 578 |  |
 | Geez | sassala 3; ʾasassala 2 (LGz. 516) | LGz. 516 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nsl 3 (Al-Jallad 2026, 132) | Al-Jallad 2026 132 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fwḳ 'to sob; to be in agony/dying' \[BK 2 647\], II 'to hiccup frequently' \[Dozy 2 290\], fʔḳ 'to sob' \[BK 2 529\] | BK 2 647; Dozy 2 290; BK 2 529 |  |
-| Geez | fah/ḥaḳa 2 |  |  |
+| Geez | fah/ḥaḳa 2; fahaḳa (SED I 315) | SED I 315 | gloss withheld |
 | Hebrew | PB phḳ (piʕ) 'to open the mouth, yawn' \[Ja 1138\] | Ja 1138 |  |
 | Amharic | afaḳä (caus. stem) \[K 2298\] | K 2298 | gloss withheld |
 | Syrian Aramaic | pāḳ, pǝwāḳǝtā |  | gloss withheld |

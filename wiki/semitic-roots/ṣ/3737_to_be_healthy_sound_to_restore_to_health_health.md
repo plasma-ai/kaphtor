@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3737_to_be_healthy_sound_to_restore_to_health_health
 title: "*ṣḥḥ: 'to be healthy, sound; to restore to health; health, order'"
-desc: "Proto-Semitic *ṣḥḥ, 'to be healthy, sound; to restore to health; health, order': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṣḥḥ, 'to be healthy, sound; to restore to health; health, order': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3737"
@@ -29,8 +29,9 @@ updated: 2026-10-28T02:25:00Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | Sab ṣḥḥ (Biella 420; Sabaweb lemma 2890); ṣḥḥ H (Biella 420; Sabaweb lemma 5186); ṣḥ (Sabaweb lemma 2687) | Biella 420; Sabaweb lemma 2890; Sabaweb lemma 5186; Sabaweb lemma 2687 | gloss withheld |
+| Epigraphic South Arabian | Sab ṣḥḥ (Biella 420; Sabaweb lemma 2890); ṣḥḥ H (Biella 420; Sabaweb lemma 5186); ṣḥ (Sabaweb lemma 2687); ṣḥ (SD 142) | Biella 420; Sabaweb lemma 2890; Sabaweb lemma 5186; Sabaweb lemma 2687; SD 142 | gloss withheld |
 | Arabic | ṣaḥḥa 'he was, or became, healthy, or sound; restored to health from his disease' (Lane 1651); ṣiḥḥat 'health, soundness' (Lane 1651); ṣaḥīḥ 'healthy, sound, true, correct' (Lane 1651–1652) | Lane 1651; Lane 1651–1652 |  |
+| Pre-Islamic North Arabian | Safaitic nṣḥ (Al-Jallad 2026, 148) | Al-Jallad 2026 148 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

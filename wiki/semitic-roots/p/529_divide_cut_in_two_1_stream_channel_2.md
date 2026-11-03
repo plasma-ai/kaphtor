@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/529_divide_cut_in_two_1_stream_channel_2
 title: "*pVlu/ig-: 'divide, cut in two' 1, 'stream, channel' 2"
-desc: "Proto-Semitic *pVlu/ig-, 'divide, cut in two' 1, 'stream, channel' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *pVlu/ig-, 'divide, cut in two' 1, 'stream, channel' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "529"
@@ -37,13 +37,14 @@ updated: 2026-10-24T15:25:56Z
 | Geez | falaga (LGz. 159); falag (Kogan 2011, 191) | LGz. 159; Kogan 2011 191 | gloss withheld |
 | Syrian Aramaic | pəlag (LGz. 159; Payne Smith 446) | LGz. 159; Payne Smith 446 |  |
 | Mehri | felēg (LGz. 159) | LGz. 159 | gloss withheld |
-| Epigraphic South Arabian | m-flg (LGz. 159) | LGz. 159 | gloss withheld |
+| Epigraphic South Arabian | m-flg (LGz. 159); hflg 1 (SD 44) | LGz. 159; SD 44 | gloss withheld |
 | Akkadian | palgu (LGz. 159) | LGz. 159 | gloss withheld |
 | Tigre | fäläg (LGz. 159) | LGz. 159 | gloss withheld |
 | Tigrinya | fäläg (LGz. 159) | LGz. 159 | gloss withheld |
 | Jibbali | fɔ́lɔ́g (JL 57 apud SEDonline 1805); félɛ́g (Kogan 2011, 191) | JL 57; SEDonline 1805; Kogan 2011 191 | gloss withheld |
 | Aramaic | plgh (T 264) | T 264 |  |
 | Mandaic Aramaic | plugtaʾ (T 264) | T 264 |  |
+| Biblical Aramaic | plg 1 (HALOT BArm. s.v. פלג); \*pəlag 1 (HALOT BArm. s.v. פְּלַג); \*pəluggā 1 (HALOT 929) | HALOT BArm. s.v. פלג; HALOT BArm. s.v. פְּלַג; HALOT 929 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/S89_bad_widow_widower
 title: "*lmn: 'bad; widow, widower'"
-desc: "Proto-Semitic *lmn, 'bad; widow, widower': reflexes in 8 language(s)."
+desc: "Proto-Semitic *lmn, 'bad; widow, widower': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S89"
@@ -35,8 +35,9 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʾalmānā (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Syrian Aramaic | ʾarmaltā (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
 | Arabic | ʾarmalat- (Kogan 2011, 236) | Kogan 2011 236 | gloss withheld |
-| Judaic Aramaic | ʾarmaltaʾ (T 20) | T 20 |  |
+| Judaic Aramaic | ʾarmaltaʾ (T 20); ʔrmlw (DNWSI 109) | T 20; DNWSI 109 | gloss withheld |
 | Mandaic Aramaic | ʾarmaltaʾ (T 20) | T 20 |  |
+| Aramaic | (OffAr) ʔrmlh (DNWSI 109) | DNWSI 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

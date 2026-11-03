@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1925_Adam_s_apple_throat
 title: "*ḥalḳ-, *ḥalḳū/um-: 'Adam's apple, throat'"
-desc: "Proto-Semitic *ḥalḳ-, *ḥalḳū/um-, 'Adam's apple, throat': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ḥalḳ-, *ḥalḳū/um-, 'Adam's apple, throat': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1925"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ḥǝlḳ \[LGz 230\] | LGz 230 | gloss withheld |
 | Jibbali | ḥalḳũt \[JJ 110\] | JJ 110 |  |
 | Amharic | ǝllǝḳt \[K 1108\] | K 1108 | gloss withheld |
+| Hebrew | malqoḥayim (LGz. 230) | LGz. 230 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

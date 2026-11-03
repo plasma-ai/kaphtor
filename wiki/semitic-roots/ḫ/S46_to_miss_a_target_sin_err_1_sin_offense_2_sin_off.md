@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/S46_to_miss_a_target_sin_err_1_sin_offense_2_sin_off
 title: "*ḫṭʾ-: 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4"
-desc: "Proto-Semitic *ḫṭʾ-, 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4: reflexes in 11 language(s)."
+desc: "Proto-Semitic *ḫṭʾ-, 'to miss (a target), sin, err' 1, 'sin, offense' 2, 'sin offering' 3, 'sinner' 4: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S46"
@@ -32,7 +32,7 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | ḫaṭû (CAD Ḫ 156); ḫiṭītu; ḫaṭṭiʾu 4 (CAD Ḫ 153); ḫāṭû 4 (CAD Ḫ 159) | CAD Ḫ 156; CAD Ḫ 153; CAD Ḫ 159 | gloss withheld |
 | Ugaritic | ḫṭʾ (DULAT 410); ḫṭʾt (KTU 1.40:18); ḫṭʾ in ritual atonement texts | DULAT 410; KTU 1.40:18 | gloss withheld |
 | Hebrew | ḥāṭāʾ; ḥēṭʾ; ḥaṭṭāʾt; ḥaṭṭāʾ 4 (HALOT 306) | HALOT 306 | gloss withheld |
-| Epigraphic South Arabian | Sab ḫṭʾ (SD 63; Sabaweb lemma 1676); Qat. ḫṭʔtn 2 (Ricks 1982 s.v. ḫṭʔtn) | SD 63; Sabaweb lemma 1676; Ricks 1982 s.v. ḫṭʔtn | gloss withheld |
+| Epigraphic South Arabian | Sab ḫṭʾ (SD 63; Sabaweb lemma 1676); Qat. ḫṭʔtn 2 (Ricks 1982 s.v. ḫṭʔtn); Sab hḫṭʾ, hḫṭʾt, hḫṭʾw 1; ḫṭʾt 3; ḫṭʾm, ḫṭyʾ(n) 2 (Biella 199) | SD 63; Sabaweb lemma 1676; Ricks 1982 s.v. ḫṭʔtn; Biella 199 | gloss withheld |
 | Geez | ḫaṭʾa (HALOT 305) | HALOT 305 | gloss withheld |
 | Soqotri | ḥaṭaʾ (LGz. 268) | LGz. 268 | gloss withheld |
 | Aramaic | ḥăṭā(ʾ), ḥăṭī (LGz. 268) | LGz. 268 |  |
@@ -40,6 +40,7 @@ updated: 2026-10-26T14:26:59Z
 | Mandaic Aramaic | hṭa (LGz. 268) | LGz. 268 | gloss withheld |
 | Amorite | ḫṭʾ: jiḫṭaʾ (Gelb AS 21, 21) | Gelb AS 21 21 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḫṭʾ (Al-Jallad–Jaworska 82) | Al-Jallad–Jaworska 82 | gloss withheld |
+| Biblical Aramaic | ḥăṭāy 2 (HALOT BArm. s.v. חֲטָי) | HALOT BArm. s.v. חֲטָי | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

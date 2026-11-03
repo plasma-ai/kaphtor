@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3201_terebinth_pistachio
 title: "*buṭm(-at)-: 'terebinth, pistachio'"
-desc: "Proto-Semitic *buṭm(-at)-, 'terebinth, pistachio': reflexes in 6 language(s)."
+desc: "Proto-Semitic *buṭm(-at)-, 'terebinth, pistachio': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3201"
@@ -35,6 +35,7 @@ updated: 2026-10-26T14:26:59Z
 | Judaic Aramaic | JPA bwṭnh, boṭmā (Kogan 2011, 202) | Kogan 2011 202 |  |
 | Syrian Aramaic | beṭmtā (Kogan 2011, 202) | Kogan 2011 202 |  |
 | Arabic | buṭm- (Kogan 2011, 202) | Kogan 2011 202 |  |
+| Ugaritic | bṭm (DULAT 249) | DULAT 249 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

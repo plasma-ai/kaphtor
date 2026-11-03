@@ -30,14 +30,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | ftt \[-u-\] 2 (Kogan 2015, ch. 2 §4.2 no. 48) | Kogan 2015 ch. 2 §4.2 no. 48 |  |
-| Geez | ftt 1 |  |  |
+| Arabic | ftt \[-u-\] 2 (Kogan 2015, ch. 2 §4.2 no. 48); fatfata (LGz. 169) | Kogan 2015 ch. 2 §4.2 no. 48; LGz. 169 | gloss withheld |
+| Geez | ftt 1; fatfata (LGz. 169) | LGz. 169 | gloss withheld |
 | Hebrew | ptt 1 (Kogan 2015, ch. 2 §4.2 no. 48) | Kogan 2015 ch. 2 §4.2 no. 48 |  |
 | Aramaic | pəṯaṯ (LGz. 171; CAL s.v. ptt) | LGz. 171; CAL s.v. ptt |  |
-| Syrian Aramaic | paṯ (LGz. 171) | LGz. 171 |  |
-| Tigre | fätäta (LGz. 171) | LGz. 171 | gloss withheld |
-| Tigrinya | fättätä (LGz. 171) | LGz. 171 |  |
-| Amharic | fättätä (LGz. 171) | LGz. 171 |  |
+| Syrian Aramaic | paṯ (LGz. 171); paṯpeṯ (LGz. 169) | LGz. 171; LGz. 169 |  |
+| Tigre | fätäta (LGz. 171); fätfäta (LGz. 170) | LGz. 171; LGz. 170 | gloss withheld |
+| Tigrinya | fättätä (LGz. 171); fätfätä (LGz. 170) | LGz. 171; LGz. 170 | gloss withheld |
+| Amharic | fättätä (LGz. 171); fätäffätä (LGz. 170) | LGz. 171; LGz. 170 | gloss withheld |
 | Gurage | fətäfätä (LGz. 171) | LGz. 171 |  |
 | Mehri | fət 1 (Kogan 2015, ch. 2 §4.2 no. 48) | Kogan 2015 ch. 2 §4.2 no. 48 |  |
 | Soqotri | ənfétit (Kogan 2015, ch. 2 §4.2 no. 48) | Kogan 2015 ch. 2 §4.2 no. 48 | gloss withheld |

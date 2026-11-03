@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star314_TA_MA
 title: "*314-TA-MA"
-desc: "ḥatam(a): seal, signet; or 'he sealed' (3ms perfective); rival buṭma 'pistachio'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+desc: "ḥatam(a): seal, signet; rivals 'he sealed' (3ms perfective), buṭma 'pistachio'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "administrative", "hapax", "noun"]
 kind: "word"
 form: "*314-TA-MA"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḥatam(a) |
-| Meaning | seal, signet; or 'he sealed' (3ms perfective); rival buṭma 'pistachio' |
+| Meaning | seal, signet; rivals 'he sealed' (3ms perfective), buṭma 'pistachio' |
 | Root | ḥ-t-m |
 | Proto-Semitic | \*ḫatm- (#378) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | administrative, hapax, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Contingent on \*314 = ḤA. Phaistos roundel (MMII)—sole word on the roundel. √ḥ-t-m 'to seal, stamp': Hebrew ḥōtām (חותם) 'seal, signet ring' (HALOT 300), Arabic ḫatama 'he sealed' (Lane 702); Akkadian ḫatāmu means only 'to muzzle, block' (CAD Ḫ 152). Either the noun 'seal' (labeling the administrative sealing device itself) or the 3ms perfective verb 'he sealed' (performative inscription). A word meaning 'seal' inscribed on a seal—contextually perfect. Pan-Semitic root attested from Old Akkadian through Modern Hebrew; Egyptian ḫtm 'seal, contract' extends the family Afroasiatic-wide. Weaker Egyptian rival ḥtm 'provide, supply' would suit a roundel-as-receipt, but the Semitic root carries the exact pharyngeal ḥ that \*314 encodes. \|\| TA is dotted (GORILA II 94). Rival with \*314 = bu, a PU₂ variant: bṭm 'pistachio' (DULAT 249), Arb. buṭm 'fruit of the terebinth' (Lane 219), a roundel commodity, Ebla bù-da-ma-tim 'pistachio' (GlOS 1, 131), cf. \*188 BUṬNU.
+PH Wc 38, a Phaistos roundel (MM II), the sole word on it; TA is dotted (GORILA II 94). With \*314 = ḤA, √ḥ-t-m 'to seal, stamp': Heb. ḥōtām (חותם) 'seal, signet ring' (HALOT 300), Arb. ḫatama 'he sealed' (Lane 702); Akk. ḫatāmu means only 'to muzzle, block' (CAD Ḫ 152). Either the noun 'seal', naming the sealing device, or the 3ms perfective 'he sealed', a performative inscription. Egyptian ḫtm 'seal, contract' extends the family. Rivals: Egyptian ḥtm 'provide, supply', which suits a roundel as receipt but lacks the pharyngeal ḥ of \*314; with \*314 = bu, a PU₂ variant, bṭm 'pistachio' (DULAT 249), Arb. buṭm 'fruit of the terebinth' (Lane 219), Ebla bù-da-ma-tim 'pistachio' (GlOS 1, 131), a roundel commodity, cf. \*188 BUṬNU. Weak point: \*314 = ḤA is a proposed value, and DU-\*314-RE (KO Za 1) writes \*314 for PU₂ in dubur, the value that gives the rival buṭm.
 
 ### Cognates
 

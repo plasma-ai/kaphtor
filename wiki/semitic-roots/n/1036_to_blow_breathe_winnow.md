@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1036_to_blow_breathe_winnow
 title: "*nVšVp-: 'to blow, breathe, winnow'"
-desc: "Proto-Semitic *nVšVp-, 'to blow, breathe, winnow': reflexes in 4 language(s)."
+desc: "Proto-Semitic *nVšVp-, 'to blow, breathe, winnow': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1036"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | našāpu (u/u) OB on \[CAD n2 56\], \[AHw 758\] | CAD n2 56; AHw 758 | gloss withheld |
 | Hebrew | nšp (HALOT 730) | HALOT 730 | gloss withheld |
 | Judaic Aramaic | nǝšap \[Ja 941\]; \[DJPA 361b apud CAL\] | Ja 941; DJPA 361b; CAL | gloss withheld |
+| Amorite | nus₁(s₁)up: nu-šu-bu-um (Sanmartín GlOS 2, 104) | Sanmartín GlOS 2, 104 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

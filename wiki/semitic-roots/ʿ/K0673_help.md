@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0673_help
 title: "*ʿVzVb-: 'help'"
-desc: "Proto-Semitic *ʿVzVb-, 'help': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ʿVzVb-, 'help': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0673"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Geez | ʿazzaba 'assist' | Anderson–Moser 2024 root ʿzb |  |
 | Akkadian | azibatu (CAD A/2 527) | CAD A/2 527 |  |
+| Amorite | ʿzb: Ya-aḫ-zi-ib-ᵈIM, Ya-aḫ-zi-ib-AN, Ya-aḫ-zi-bu-ú (Huffmon APNM 192); ʿ-ḏ-b: ia-aḫ-zu-ub-DINGIR (Sanmartín GlOS 1, 70) | Huffmon APNM 192; Sanmartín GlOS 1, 70 | gloss withheld |
+| Hebrew | ʕāzaḇ (LGz. 80) | LGz. 80 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

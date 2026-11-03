@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tašrītu (CAD T 297) | CAD T 297 | gloss withheld |
+| Akkadian | tašrītu (CAD T 297; AHw 1340) | CAD T 297; AHw 1340 | gloss withheld |
 | Syrian Aramaic | tešrī, tešrīn 'the name of two months': 'October'; 'latter Tishrin, November'; pl. 'the autumn months, autumn' (Payne Smith 623) | Payne Smith 623 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

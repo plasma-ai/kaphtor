@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Anc. prš \[HJ 945\] | HJ 945 | gloss withheld |
 | Tigrinya | färäs 'horse' \[Bass. 989\]. | Bass. 989 |  |
 | Jibbali | ferhín (SED II 243) | SED II 243 |  |
-| Pre-Islamic North Arabian | Safaitic frs (Al-Jallad–Jaworska 70) | Al-Jallad–Jaworska 70 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic frs (Al-Jallad–Jaworska 70); frst; Hismaic frs; Dadanitic frs; Thamudic B frs (Al-Jallad 2026, 47) | Al-Jallad–Jaworska 70; Al-Jallad 2026 47 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

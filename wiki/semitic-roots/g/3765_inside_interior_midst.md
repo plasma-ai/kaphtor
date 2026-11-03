@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3765_inside_interior_midst
 title: "*gaw(w)-: 'inside, interior, midst'"
-desc: "Proto-Semitic *gaw(w)-, 'inside, interior, midst': reflexes in 2 language(s)."
+desc: "Proto-Semitic *gaw(w)-, 'inside, interior, midst': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3765"
@@ -31,6 +31,8 @@ updated: 2026-10-28T06:21:26Z
 |---|---|---|---|
 | Syrian Aramaic | gaw, gawwā 'the inside, inward parts, hence the inside, midst, inner part'; bgaw, lgaw 'within, inside' (Payne Smith 62) | Payne Smith 62 |  |
 | Arabic | jaww 'the inside, or interior, of a house or tent' (Lane 478) | Lane 478 |  |
+| Punic | Neo-Punic bhgw (Krahmalkov 97) | Krahmalkov 97 | gloss withheld |
+| Aramaic | gwy (DNWSI 218) | DNWSI 218 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

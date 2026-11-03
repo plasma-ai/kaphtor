@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/M
 desc: "Words whose first sign begins with M."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-29T16:31:57Z
+updated: 2026-11-03T03:29:48Z
 ---
 
 # wiki/linear-a/words/M
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/M/MA_DI|MA_DI]]: Unread (role only): personal name; 6 occurrence(s).
+[[wiki/linear-a/words/M/MA_DI|MA_DI]]: Maʾdi: place name: a unit of men and livestock in the HT rosters; rival the Hurrian personal name Madi 'wisdom'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_I|MA_I]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -17,9 +17,9 @@ updated: 2026-10-29T16:31:57Z
 
 [[wiki/linear-a/words/M/MA_JU|MA_JU]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_KA_I_SE|MA_KA_I_SE]]: makisu: Tax-man, Customs Official (professional-title PN, maqtil pattern). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MA_KA_I_SE|MA_KA_I_SE]]: Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MA_KA_I_TA|MA_KA_I_TA]]: makita: magical protection, protective amulet/rite (Egyptian loanword). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MA_KA_I_TA|MA_KA_I_TA]]: Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_KA_RI_TE|MA_KA_RI_TE]]: makkārītu: merchants (heading of a roster of men); rival 'red (wool)'. Lexicon, CANDIDATE (tier 2).
 
@@ -29,7 +29,7 @@ updated: 2026-10-29T16:31:57Z
 
 [[wiki/linear-a/words/M/MA_RE_RI_MI_DE|MA_RE_RI_MI_DE]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_RI|MA_RI]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MA_RI|MA_RI]]: Mari: Mari (place name; Linear B ma-ri); rival Mari on the Euphrates. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_RI_RE_I|MA_RI_RE_I]]: marīrēy: myrrh (the bitter resin). Lexicon, CANDIDATE (tier 2).
 
@@ -55,7 +55,7 @@ updated: 2026-10-29T16:31:57Z
 
 [[wiki/linear-a/words/M/MA_TI_TI|MA_TI_TI]]: mattitt(u): gift. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA_TI_ZA_I_TE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MA_TI_ZA_I_TE|MA_TI_ZA_I_TE]]: Matiʿ-zayti: Protector of the olive trees (personal name; matiʿ 'protector' + zayt 'olive tree'); rival Hurrian mat-. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MA_ZA|MA_ZA]]: mazza: corvée workers, labour gang (personnel term). Lexicon, SPECULATIVE (tier 1).
 
@@ -63,7 +63,7 @@ updated: 2026-10-29T16:31:57Z
 
 [[wiki/linear-a/words/M/MA_plus_RU_RE_broken_start|MA_plus_RU_RE_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MA_star321|MA_star321]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/M/MA_star321|MA_star321]]: maṯu: infants or young dependents (personnel category). Onomasticon personal name; lexicon entry MA-ZU.
 
 [[wiki/linear-a/words/M/ME_KI_DI|ME_KI_DI]]: Majd: personal name, 'glory' (masculine). Lexicon, SPECULATIVE (tier 1).
 
@@ -71,11 +71,11 @@ updated: 2026-10-29T16:31:57Z
 
 [[wiki/linear-a/words/M/ME_ZA|ME_ZA]]: massu: corvée gang, labour gang (personnel term); the word of MA-ZA. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/M/MI_DA_NI|MI_DA_NI]]: matni: loin, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MI_DA_NI|MI_DA_NI]]: mitāni: loins, hip meat—choice cut on sacrificial fat allocation tablet. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MI_DA_RA|MI_DA_RA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MI_DA_RU_RA|MI_DA_RU_RA]]: midrara: dust, ashes, dry earth (second accusative of √k-s-y 'cover': midr-a; or intensive midrar-). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MI_DA_RU_RA|MI_DA_RU_RA]]: midrara: dust, ashes, dry earth (second accusative after √k-s-y 'cover'). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MI_DA_broken_start|MI_DA_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -101,13 +101,13 @@ updated: 2026-10-29T16:31:57Z
 
 [[wiki/linear-a/words/M/MI_TI|MI_TI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/M/MI_TU|MI_TU]]: mītu: personal name, 'dead one' (?). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/M/MI_TU|MI_TU]]: mītu: personal name, 'dead one'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/M/MI_TU_broken_start|MI_TU_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/M/MI_ZA_SE|MI_ZA_SE]]: mizza-se: for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: murru: myrrh or aromatic resin (compound logogram). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/M/MI_plus_JA_plus_RU|MI_plus_JA_plus_RU]]: murru: myrrh (murru), compound logogram. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/M/MI_plus_star301|MI_plus_star301]]: minā: mina, portion (weight/measure unit). Lexicon, PROBABLE (tier 3).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/1330_be_at_peace_with_smb_agree
 title: "*šVʾVn- ~ *šVnVʾ-: 'be at peace with smb., agree'"
-desc: "Proto-Semitic *šVʾVn- ~ *šVnVʾ-, 'be at peace with smb., agree': reflexes in 11 language(s)."
+desc: "Proto-Semitic *šVʾVn- ~ *šVnVʾ-, 'be at peace with smb., agree': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1330"
@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | (tǝ)sana |  | gloss withheld |
 | Mandaic Aramaic | šai(a)na |  | gloss withheld |
 | Ugaritic | šʔn |  | gloss withheld |
-| Geez | snʔw, tasanāʔ/ʕawa LGz 505 | LGz 505 | gloss withheld |
+| Geez | snʔw, tasanāʔ/ʕawa LGz 505; sənʔ, sənʔā (LGz. 504) | LGz 505; LGz. 504 | gloss withheld |
 | Gurage | sǝññat |  | gloss withheld |
 | Hebrew | šʔn (pilp) |  | gloss withheld |
 | Amharic | (tä)sänaññä |  | gloss withheld |
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | (tä)sanäyä |  | gloss withheld |
 | Epigraphic South Arabian | Sab. snʾ (HALOT 1374) | HALOT 1374 |  |
 | Phoenician | šʾn (B 412) | B 412 | gloss withheld |
+| Eblaitic | ʔa₅-si-in /ʾaSʾin/, da-si-in /taSʾin/, ne-si-im /niSʾin/, Gt \[da\]-sa-da-an /taStaʾin/, ne-si-da-an /niStaʾin/ (Sanmartín GlOS 2, 230) | Sanmartín GlOS 2, 230 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

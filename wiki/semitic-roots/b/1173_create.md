@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | brʔ \[-a-\] (Lane 178) | Lane 178 |  |
 | Mandaic Aramaic | bra |  |  |
 | Hebrew | brʔ: bārāʾ qal (God the subject); nif.; bərîʾâ (Nu 16:30) (Sir 16:16) (HALOT 153, 156) | HALOT 153, 156 | gloss withheld |
-| Aramaic | bǝrā |  |  |
+| Aramaic | bǝrā; bryh (DNWSI 198) | DNWSI 198 | gloss withheld |
 | Syrian Aramaic | brā 'to create'; bāryā 'creator'; bārūyā 'the Creator'; bārāyā 'of the creator'; brītā 'a creature, the Creation'; bāryūtā 'creation, formation' (Payne Smith 55) | Payne Smith 55 |  |
 | Epigraphic South Arabian | Sab brʾ (B. Ašwal 1/2, 3; SD 30; Biella 54; Sabaweb lemma 3956) | SD 30; Biella 54; Sabaweb lemma 3956 | gloss withheld |
 | Punic | brʾ (Biella 54) | Biella 54 |  |

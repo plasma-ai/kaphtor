@@ -40,10 +40,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+
+### Note
+
+ZA 10b .1 WA-\*362 2, the first entry of face b (GORILA III 171). \*362 has no resolved value. No reading.
 
 ### Co-occurring lexicon words
 

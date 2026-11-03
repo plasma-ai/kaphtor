@@ -19,7 +19,7 @@ SCRIPTS = ("cognate_search.py", "analyze.py", "context_search.py")
 CORPUS = {"HT1": {"site": "Haghia Triada", "transliteratedWords": ["KU-RO", "\n", "DA-RE", "10", "¹⁄₂"]},
           "HT2": {"site": "Haghia Triada", "transliteratedWords": ["KU-RO", "𐄁", "SA-RA₂", "\U0001076b", "TA"]}}
 LEXICON = {"entries": [{"word": "KU-RO", "reading": "kullu", "meaning": "total", "confidence": "CONFIRMED",
-                        "category": "vocabulary"}]}
+                        "tags": ["administrative", "noun"]}]}
 
 
 def run(script: str, *args: str, data: Path) -> subprocess.CompletedProcess:

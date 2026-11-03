@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/2872_encircle
 title: "*ṭVwVq-: 'encircle'"
-desc: "Proto-Semitic *ṭVwVq-, 'encircle': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṭVwVq-, 'encircle': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2872"
@@ -31,6 +31,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṭwq (QAC طوق) | QAC طوق | gloss withheld |
 | Geez | ʾ-ṭ-q 'gird tightly'; ṭ-w-q-y 'constrict' (Dillmann 05921; 08989–08990) | Dillmann 05921 |  |
+| Tigrinya | ʕaṭäqä (LGz. 77) | LGz. 77 | gloss withheld |
+| Amharic | (t)aṭṭäqä (LGz. 77) | LGz. 77 | gloss withheld |
+| Tigre | ʕandäqa (LGz. 77) | LGz. 77 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

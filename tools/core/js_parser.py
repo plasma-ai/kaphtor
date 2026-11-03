@@ -39,6 +39,44 @@ def parse_inscriptions(filepath: Path) -> dict[str, dict[str, Any]]:
     return entries
 
 
+def parse_string_pairs(filepath: Path, var_name: str) -> list[tuple[str, str]]:
+    """Parse `<var_name> = new Map([["k", "v"], ...])` into (k, v) pairs in file order.
+
+    Keys may repeat (lashon-ha-kretan's ideograms.js maps one glyph to more than one
+    label), so the result is a list, not a dict. Comments and trailing commas are
+    tolerated; a non-string key or value raises JSParseError.
+    """
+    text = filepath.read_text(encoding="utf-8")
+    match = re.search(rf"\b{re.escape(var_name)}\s*=\s*new\s+Map\(\[", text)
+    if not match:
+        raise JSParseError(f"No {var_name} Map found in {filepath.name}")
+
+    pairs: list[tuple[str, str]] = []
+    pos = match.end()
+    while True:
+        pos = _skip_ws_comments(text, pos)
+        if pos >= len(text):
+            raise JSParseError(f"{var_name} Map is not closed")
+        ch = text[pos]
+        if ch == "]":
+            return pairs
+        if ch == ",":
+            pos += 1
+            continue
+        if ch != "[":
+            raise JSParseError(f"Unexpected {ch!r} in {var_name} at offset {pos}")
+        key, pos = _extract_js_string(text, _skip_ws_comments(text, pos + 1))
+        pos = _skip_ws_comments(text, pos)
+        if key is None or text[pos:pos + 1] != ",":
+            raise JSParseError(f"Entry in {var_name} at offset {pos} is not a string pair")
+        value, pos = _extract_js_string(text, _skip_ws_comments(text, pos + 1))
+        pos = _skip_ws_comments(text, pos)
+        if value is None or text[pos:pos + 1] != "]":
+            raise JSParseError(f"Entry in {var_name} at offset {pos} is not a string pair")
+        pairs.append((key, value))
+        pos += 1
+
+
 def _extract_map_entries(text: str, start: int) -> dict[str, dict[str, Any]]:
     """Extract all [key, value] entries from a Map array starting at position."""
     entries: dict[str, dict[str, Any]] = {}

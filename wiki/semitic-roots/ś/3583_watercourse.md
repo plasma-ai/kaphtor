@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3583_watercourse
 title: "*ŝrg: 'watercourse'"
-desc: "Proto-Semitic *ŝrg, 'watercourse': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ŝrg, 'watercourse': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3583"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Arabic | šarǧ (Lane 1529); šarj (Biella 525) | Lane 1529; Biella 525 | gloss withheld |
 | Epigraphic South Arabian | Sab s2rg (pl.) (Biella 525) | Biella 525 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śrgt (Al-Jallad 2026, 141) | Al-Jallad 2026 141 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

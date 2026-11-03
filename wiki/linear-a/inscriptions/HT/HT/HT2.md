@@ -62,7 +62,7 @@ Unicode (Linear A block):
 
 **PROBABLE**, complete.
 
-> Agaru, field or estate account: U-oil 20\[…\], A-oil 17, E-oil 3\[…\]. \[…\] Kretana, the Cretan: U-oil 54\[…\]. \[…\] A-oil 47. Isolated tally: 1.
+> Agaru, field or estate account: U-oil 20\[…\], A-oil 17, E-oil 3\[…\]. \[…\] Kretan, the Cretan: U-oil 54\[…\]. \[…\] A-oil 47. Isolated tally: 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -70,11 +70,11 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | \[ideogram\] | olive oil subtype U |  | CANDIDATE (lexicon) |
 | OLE+A | \[ideogram\] | olive oil subtype A |  |  |
 | OLE+E | \[ideogram\] | olive oil subtype E |  |  |
-| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | Cretan (gentilic: 'of Crete') | CONFIRMED | CONFIRMED (lexicon) |
+| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | Cretan (gentilic: 'of Crete') | CONFIRMED | CONFIRMED (lexicon) |
 
 ### Notes
 
-GORILA I, p. 5 shows right-edge losses after 20, 3, and 54, and left-edge damage before KI-RE-TA-NA and OLE+A 47. The preserved oil numerals total at least 141. The isolated 1 follows a blank line and lacks a commodity sign; it is not an oil fraction or secure section subtotal. A-KA-RU probably denotes a farm or estate account: Ugaritic ugr and Akkadian ugāru support 'field,' while Akkadian ikkaru 'farmer; farm bailiff,' Hebrew ʾikkār, and Aramaic ʾakkārā supply an administrative rival. KI-RE-TA-NA remains plausibly 'Kretana/Cretan,' but its precise function and any export interpretation are unproved.
+GORILA I, p. 5 shows right-edge losses after 20, 3, and 54, and left-edge damage before KI-RE-TA-NA and OLE+A 47. The preserved oil numerals total at least 141. The isolated 1 follows a blank line and lacks a commodity sign; it is not an oil fraction or secure section subtotal. A-KA-RU probably denotes a farm or estate account: Ugaritic ugr and Akkadian ugāru support 'field,' while Akkadian ikkaru 'farmer; farm bailiff,' Hebrew ʾikkār, and Aramaic ʾakkārā supply an administrative rival. KI-RE-TA-NA remains plausibly 'Kretan/Cretan,' but its precise function and any export interpretation are unproved.
 
 ### Source
 

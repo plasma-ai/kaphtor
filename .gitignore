@@ -27,3 +27,6 @@ data/ane/aramaic_texts.*
 # Built locally from sources whose terms bar redistribution (TraCES is CC BY-NC-ND).
 data/ane/traces-geez/
 data/ane/evidence-bank/
+
+# Private method-review notes, kept local.
+notes/mavridaki-2025-comparison.md

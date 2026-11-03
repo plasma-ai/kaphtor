@@ -9,12 +9,12 @@
    "Linear B values (Ventris 1952)",
    "Unicode 15.1 names list"
   ],
-  "total_signs": 365,
+  "total_signs": 386,
   "polyphonic_signs": 4,
   "signs_with_evolution": 20,
   "unicode_completion": {
    "source": "SigLA sign list and Unicode 15.1 names list",
-   "standard_unicode_rows": 320,
+   "standard_unicode_rows": 341,
    "image_only_signs": 45
   }
  },
@@ -4377,6 +4377,7 @@
     ]
    },
    "gordon_entries": [],
+   "classification_note": "Perhaps a variant of ZU (AB79): ZA 18a and HT 6a draw it as HT 102 and HT 1 draw ZU, which would make HT 6a MA-*321 the MA-ZU of HT 102.",
    "unicode_codepoint": "U+1066D",
    "unicode_glyph": "𐙭"
   },
@@ -10466,6 +10467,11 @@
    "ab_number": "A717",
    "name": "DD",
    "readings": [],
+   "components": [
+    "A703",
+    "A703"
+   ],
+   "components_source": "Unicode name LINEAR A SIGN A717 DD",
    "rendering": {
     "unicode": "U+10753",
     "font": "NotoSansLinearA-Regular.ttf",
@@ -10549,6 +10555,575 @@
     "unicode_status": "IMAGE_ONLY"
    },
    "gordon_entries": []
+  },
+  {
+   "ab_number": "A401VAS",
+   "name": "vessel ideogram (VAS series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+106A1",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐚡",
+    "unicode_name": "LINEAR A SIGN A401-VAS",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+106A1",
+   "unicode_glyph": "𐚡"
+  },
+  {
+   "ab_number": "A404VAS",
+   "name": "vessel ideogram (VAS series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+106A4",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐚤",
+    "unicode_name": "LINEAR A SIGN A404-VAS",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+106A4",
+   "unicode_glyph": "𐚤"
+  },
+  {
+   "ab_number": "A405VAS",
+   "name": "vessel ideogram (VAS series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+106A5",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐚥",
+    "unicode_name": "LINEAR A SIGN A405-VAS",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+106A5",
+   "unicode_glyph": "𐚥"
+  },
+  {
+   "ab_number": "A407VAS",
+   "name": "vessel ideogram (VAS series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+106A7",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐚧",
+    "unicode_name": "LINEAR A SIGN A407-VAS",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+106A7",
+   "unicode_glyph": "𐚧"
+  },
+  {
+   "ab_number": "A413VAS",
+   "name": "vessel ideogram (VAS series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+106AD",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐚭",
+    "unicode_name": "LINEAR A SIGN A413-VAS",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+106AD",
+   "unicode_glyph": "𐚭"
+  },
+  {
+   "ab_number": "A414VAS",
+   "name": "vessel ideogram (VAS series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+106AE",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐚮",
+    "unicode_name": "LINEAR A SIGN A414-VAS",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+106AE",
+   "unicode_glyph": "𐚮"
+  },
+  {
+   "ab_number": "A663",
+   "name": "",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10735",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐜵",
+    "unicode_name": "LINEAR A SIGN A663",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10735",
+   "unicode_glyph": "𐜵"
+  },
+  {
+   "ab_number": "A664",
+   "name": "",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10736",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐜶",
+    "unicode_name": "LINEAR A SIGN A664",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10736",
+   "unicode_glyph": "𐜶"
+  },
+  {
+   "ab_number": "A711",
+   "name": "X",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+1074E",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝎",
+    "unicode_name": "LINEAR A SIGN A711 X",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+1074E",
+   "unicode_glyph": "𐝎"
+  },
+  {
+   "ab_number": "A712",
+   "name": "Y",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+1074F",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝏",
+    "unicode_name": "LINEAR A SIGN A712 Y",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+1074F",
+   "unicode_glyph": "𐝏"
+  },
+  {
+   "ab_number": "A714",
+   "name": "ABB",
+   "readings": [],
+   "components": [
+    "A701",
+    "A702",
+    "A702"
+   ],
+   "components_source": "Unicode name LINEAR A SIGN A714 ABB",
+   "rendering": {
+    "unicode": "U+10751",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝑",
+    "unicode_name": "LINEAR A SIGN A714 ABB",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10751",
+   "unicode_glyph": "𐝑"
+  },
+  {
+   "ab_number": "A715",
+   "name": "BB",
+   "readings": [],
+   "components": [
+    "A702",
+    "A702"
+   ],
+   "components_source": "Unicode name LINEAR A SIGN A715 BB",
+   "rendering": {
+    "unicode": "U+10752",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝒",
+    "unicode_name": "LINEAR A SIGN A715 BB",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10752",
+   "unicode_glyph": "𐝒"
+  },
+  {
+   "ab_number": "A726",
+   "name": "EYYY",
+   "readings": [],
+   "components": [
+    "A704",
+    "A712",
+    "A712",
+    "A712"
+   ],
+   "components_source": "Unicode name LINEAR A SIGN A726 EYYY",
+   "rendering": {
+    "unicode": "U+10754",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝔",
+    "unicode_name": "LINEAR A SIGN A726 EYYY",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10754",
+   "unicode_glyph": "𐝔"
+  },
+  {
+   "ab_number": "A732",
+   "name": "JE",
+   "readings": [],
+   "components": [
+    "A707",
+    "A704"
+   ],
+   "components_source": "Unicode name LINEAR A SIGN A732 JE",
+   "rendering": {
+    "unicode": "U+10755",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝕",
+    "unicode_name": "LINEAR A SIGN A732 JE",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10755",
+   "unicode_glyph": "𐝕"
+  },
+  {
+   "ab_number": "A800",
+   "name": "unknown (*800-series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10760",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝠",
+    "unicode_name": "LINEAR A SIGN A800",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10760",
+   "unicode_glyph": "𐝠"
+  },
+  {
+   "ab_number": "A801",
+   "name": "unknown (*800-series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10761",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝡",
+    "unicode_name": "LINEAR A SIGN A801",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10761",
+   "unicode_glyph": "𐝡"
+  },
+  {
+   "ab_number": "A802",
+   "name": "unknown (*800-series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10762",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝢",
+    "unicode_name": "LINEAR A SIGN A802",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10762",
+   "unicode_glyph": "𐝢"
+  },
+  {
+   "ab_number": "A803",
+   "name": "unknown (*800-series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10763",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝣",
+    "unicode_name": "LINEAR A SIGN A803",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10763",
+   "unicode_glyph": "𐝣"
+  },
+  {
+   "ab_number": "A804",
+   "name": "unknown (*800-series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10764",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝤",
+    "unicode_name": "LINEAR A SIGN A804",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10764",
+   "unicode_glyph": "𐝤"
+  },
+  {
+   "ab_number": "A806",
+   "name": "unknown (*800-series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10766",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝦",
+    "unicode_name": "LINEAR A SIGN A806",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10766",
+   "unicode_glyph": "𐝦"
+  },
+  {
+   "ab_number": "A807",
+   "name": "unknown (*800-series)",
+   "readings": [],
+   "rendering": {
+    "unicode": "U+10767",
+    "font": "NotoSansLinearA-Regular.ttf",
+    "sigla_image": null,
+    "sigla_url": null,
+    "tier": "unicode_native",
+    "unicode_glyph": "𐝧",
+    "unicode_name": "LINEAR A SIGN A807",
+    "unicode_block": "Linear A",
+    "unicode_status": "STANDARD_UNICODE",
+    "unicode_source_refs": [
+     {
+      "source_family": "Unicode",
+      "source": "Unicode names list / Python unicodedata",
+      "locator": "Linear A block U+10600..U+1077F"
+     }
+    ]
+   },
+   "gordon_entries": [],
+   "unicode_codepoint": "U+10767",
+   "unicode_glyph": "𐝧"
   }
  ]
 }

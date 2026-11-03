@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | pʕm \[T 269\] | T 269 | gloss withheld |
 | Jibbali | faʕm \[JJ 51\] | JJ 51 |  |
 | Hebrew | paʕam (HALOT 952) | HALOT 952 | gloss withheld |
-| Punic | pʿm 'foot' | Anderson–Moser 2024 root pʿm |  |
+| Punic | pʿm; N.Pu. pʿmʾt (T 270) | T 270; Anderson–Moser 2024 root pʿm | gloss withheld |
 | Amorite | paʿm- (George and Krebernik 2022, 155); \*paʿm- (Golinets 2025, 893) | George and Krebernik 2022 155; Golinets 2025 893 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | šūṭ (HALOT 1439) | HALOT 1439 | gloss withheld |
 | Mandaic Aramaic | ŠUṬ (HALOT 1439); šaiṭa (LGz. 539) | HALOT 1439; LGz. 539 | gloss withheld |
 | Arabic | šwṭ (HALOT 1439) | HALOT 1439 |  |
-| Akkadian | šâṭu (HALOT 1439) | HALOT 1439 | gloss withheld |
+| Akkadian | šâṭu (HALOT 1439; AHw 1205) | HALOT 1439; AHw 1205 | gloss withheld |
 | Aramaic | šwṭ (LGz. 539) | LGz. 539 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star305_RU
 title: "*305-RU"
-desc: "ḏarʿ(u): seed-grain; rival a personal name. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+desc: "ḏarʿ(u): seed-grain. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "agriculture", "commodity", "foodstuff", "grain", "hapax", "noun"]
 kind: "word"
 form: "*305-RU"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḏarʿ(u) |
-| Meaning | seed-grain; rival a personal name |
+| Meaning | seed-grain |
 | Root | ḏ-r-ʕ |
 | Proto-Semitic | \*ʒVry/ʾ/ʕ- ~ \*ǯVry/ʾ/ʕ 1, \*ʒry/wʾ/ʕ ~ \*ǯry/w/ʾ/ʕ 2 (#1815) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | agriculture, commodity, foodstuff, grain, hapax, noun |
 | Semantic field | commodity |
 
 ### Note
 
-HT 10a .3–4 \*305-RU 2½, whole and undotted at the end of .3, the side written over an erasure (GORILA I 21), in the list headed KU-NI-SU 'the assembly'. Ug. d/ḏrʕ 'seed-grain' (DULAT 277–278), Heb. zeraʿ, OSArb. ḏrʾ (HALOT 282), the ʿ unwritten. Rivals: dr 'association' (DULAT 277), a personal name. One attestation. See ZE.
+HT 10a .3–4 \*305-RU 2½, whole and undotted at the end of .3, the side written over an erasure (GORILA I 21), in the list headed KU-NI-SU 'emmer'. Ug. d/ḏrʕ 'seed-grain' (DULAT 277–278), Heb. zeraʿ, OSArb. ḏrʾ (HALOT 282), the ʿ unwritten. One attestation. See ZE.
 
 ### Cognates
 
@@ -64,6 +64,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | ḏarʿ(u) | seed-grain, 2½; rival a personal name | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | ḏarʿ(u) | seed-grain, 2½ | SPECULATIVE |
 
 <!-- END kaphtor:record -->

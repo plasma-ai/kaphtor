@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/1104_peel_v
 title: "*ḳVŝu/ir-: 'peel (v.)'"
-desc: "Proto-Semitic *ḳVŝu/ir-, 'peel (v.)': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ḳVŝu/ir-, 'peel (v.)': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1104"
@@ -30,7 +30,8 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | qšr u/i,1 |  |  |
+| Arabic | qšr u/i,1; ʔaqšar (DULAT 91) | DULAT 91 | gloss withheld |
+| Ugaritic | ảqšr (DULAT 91) | DULAT 91 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

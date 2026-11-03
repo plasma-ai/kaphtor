@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/1933_fatty_tissue
 title: "*ḫilb-: 'fatty tissue'"
-desc: "Proto-Semitic *ḫilb-, 'fatty tissue': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ḫilb-, 'fatty tissue': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1933"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥēläb (HALOT 315). | HALOT 315 | gloss withheld |
 | Judaic Aramaic | ḥlb \[DJPA 201b apud CAL\] | DJPA 201b; CAL | gloss withheld |
 | Syrian Aramaic | ḥelbā 'omentum' \[Brock 233\] | Brock 233 |  |
+| Punic | ḥlb (Krahmalkov 184) | Krahmalkov 184 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

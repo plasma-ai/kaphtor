@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_JA_TE
 title: "I-JA-TE"
 desc: "ʾiyyate: island (genitive after SI-MA 'name of'; -i written with an E-series sign). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "I-JA-TE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | island (genitive after SI-MA 'name of'; -i written with an E-series sign) |
 | Root | ʾ-y "island" |
 | Proto-Semitic | \*ʾVy- (#K0604) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | toponym |
 
 ### Note
 
-PHZb4 (Phaistos, clay vessel): SI-MA 𐄁 I-JA-TE = šima ʾiyyate "name of the island." Feminine construct ʾiyyat- with -e vowel. Morphology: base ʾiyy- + feminine -at + construct -e (cf. Hebrew construct ʾiyyat- in toponym formation). Dialectal pair with A-JE /ʾaye/ (Thera) and I-JA /ʾiya/ (Knossos): spelling variation may reflect regional vowel shifts across Phaistos, Thera, and Eastern Crete, parallel to the JA-SA-SA-RA-ME / A-SA-SA-RA-ME dialectal split.
+PH Zb 4, a clay vessel from Phaistos: SI-MA · I-JA-TE, šima ʾiyyate 'name of the island'. Heb. ʾî 'coast, island' (HALOT 38), pl. ʾiyyîm: the base ʾiyy- with the feminine -at-, and the genitive -i after the construct SI-MA written with an E-series sign. A-JE ʾaye (Thera) and I-JA ʾiya (Knossos) spell the same noun. One attestation. See SI-MA and I-JA.
 
 ### Cognates
 

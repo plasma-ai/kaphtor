@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/P/PA3_KA_RA_TI
 title: "PA₃-KA-RA-TI"
-desc: "baqarāti: cattle, heifers (fem.pl.). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "noun"]
+desc: "baqarāti: cattle, heifers (fem.pl.). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "livestock", "noun"]
 kind: "word"
 form: "PA₃-KA-RA-TI"
 datasets: ["lexicon"]
-tier: 4
-confidence: "CONFIRMED"
-confidence_score: 0.85
+tier: 2
+confidence: "CANDIDATE"
+confidence_score: 0.45
 reading: "baqarāti"
 attestations: ["HT8a"]
 created: 2026-10-24T16:17:50Z
@@ -27,7 +27,7 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CONFIRMED**, tier 4 of 4, score 0.85
+**CANDIDATE**, tier 2 of 4, score 0.45
 
 | Field | Value |
 |---|---|
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | cattle, heifers (fem.pl.) |
 | Root | b-q-r |
 | Proto-Semitic | \*baḳar- (#1832) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | commodity, hapax, livestock, noun |
 | Semantic field | animal |
 
 ### Note
 
-Hebrew bāqār. Fem.pl. -āti. Livestock allocation term.
+HT 8a .1–2 JE-DI · OLE+KI 10 PA₃ \| KA-RA-TI 1½: PA₃ is the last sign of line 1, KA-RA-TI the first of line 2, in a list sharing out 10 units of oil. Hebrew bāqār, fem.pl. -āti. Rival: PA₃ a transaction sign closing line 1 and KA-RA-TI a recipient (GORILA V apud Schrijver 2014, 7 n. 6). HT 8b opens its second section the same way, 5 · PA₃ · \*188 2, and PA₃ stands alone on HT 34.6 (PA₃ 70, KI-RO 30 = SA+MU+KU 100), HT 9b, 93a and 132. One attestation.
 
 ### Cognates
 
@@ -52,11 +52,7 @@ Hebrew bāqār. Fem.pl. -āti. Livestock allocation term.
 
 ### Source
 
-di Mino; GlOS 1
-
-### Review
-
-- **Reviewer:** di Mino
+di Mino; GlOS 1; Schrijver 2014
 
 ## Attestations
 

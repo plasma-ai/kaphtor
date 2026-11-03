@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0640_turn_away
 title: "*ʿVnVd-: 'turn-away'"
-desc: "Proto-Semitic *ʿVnVd-, 'turn-away': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʿVnVd-, 'turn-away': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0640"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʕanada 'turned' | Anderson–Moser 2024 root ʿnd |  |
 | Aramaic | ʿND (Aramaic Root Atlas; CAL s.v. ʿnd) | Aramaic Root Atlas; CAL s.v. ʿnd; Anderson–Moser 2024 root ʿnd | gloss withheld |
 | Syrian Aramaic | ʕnad 'depart, fail, be wanting' (Payne Smith 419) | Payne Smith 419 |  |
+| Pre-Islamic North Arabian | Safaitic ʿnd (Al-Jallad 2026, 16) | Al-Jallad 2026 16 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

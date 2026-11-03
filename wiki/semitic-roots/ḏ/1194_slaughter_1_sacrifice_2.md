@@ -39,12 +39,12 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | zbḥ 1 |  |  |
 | Hebrew | zbḥ 2 |  |  |
 | Epigraphic South Arabian | ḏbḥ 1, 2; verb (H) (SD 38; Sabaweb lemma 4033), noun (SD 38; Biella 91; Sabaweb lemma 2765) | SD 38; Sabaweb lemma 4033; Biella 91; Sabaweb lemma 2765 | gloss withheld |
-| Aramaic | DBḤ (DNWSI 301 apud CAL) | DNWSI 301; CAL; Anderson–Moser 2024 root ḏbḥ | gloss withheld |
+| Aramaic | DBḤ (DNWSI 301) | DNWSI 301 | gloss withheld |
 | Punic | zbḥ 'sacrifice' | Anderson–Moser 2024 root ḏbḥ |  |
 | Syrian Aramaic | debḥā (HALOT 262; Payne Smith 82) | HALOT 262; Payne Smith 82 |  |
 | Judaic Aramaic | dbḥʾ (HALOT 262; DJPA 138a apud CAL) | HALOT 262; DJPA 138a; CAL |  |
 | Amorite | ḏ-b-ḥ (George and Krebernik 2022, 155); \*ḏabāḥ (Golinets 2025, 885) | George and Krebernik 2022 155; Golinets 2025 885 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḏbḥ (Al-Jallad–Jaworska 66) | Al-Jallad–Jaworska 66 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḏbḥ (Al-Jallad–Jaworska 66); Hismaic ḏbḥ (Al-Jallad 2026, 38) | Al-Jallad–Jaworska 66; Al-Jallad 2026 38 | gloss withheld |
 | Modern Arabic | Daṯ. ḏabīḥa (Biella 90) | Biella 90 |  |
 | Emar | za-bi-ḫu /ðābiḥu/ (Pentiuc 2001, 193–194) | Pentiuc 2001 193–194 | gloss withheld |
 

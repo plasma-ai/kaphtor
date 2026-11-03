@@ -36,6 +36,6 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - Linear B projection—rare in Linear A
-- A363/A364 = SO proposed: CH 043 &gt; LA 363 (= 364) &gt; B12 so (Ferrara, Montecchi & Valério 2022: 84, 87–88, 98; Valério apud Younger). Unresolved against ṮA and ʾA. The corpus encodes the two tokens as \*363: ZA14 PU-NI-KA-\*363, ZA15a \*363-KE-MA-SE.
+- A 363 (reversed) and A 364 "could be the forerunners" of Linear B so and do (Melena 2014, 85–86); LA 363/364 compared with B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98). A363 occurs once (ZA 14 PU-NI-KA-\*363); A364 is the Zakros form of \*324, primary ṮA, SO the rival.
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/608_shout_call
 title: "*ṣVw/yVḥ-: 'shout, call'"
-desc: "Proto-Semitic *ṣVw/yVḥ-, 'shout, call': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ṣVw/yVḥ-, 'shout, call': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "608"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | č̣ǝwaḥ bälä |  |  |
 | Aramaic | ṢWḤ 'cry' | Anderson–Moser 2024 root ṣwḥ |  |
 | Eblaitic | za-a-ḫu-um /ṣayāḫum/ (VE 589, Kogan–Krebernik 2021b: 688 apud SEDonline 2012) | VE 589, Kogan–Krebernik 2021b: 688; SEDonline 2012 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ṣyḥ (Al-Jallad 2026, 151) | Al-Jallad 2026 151 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

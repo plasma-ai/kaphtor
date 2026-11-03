@@ -58,13 +58,13 @@ Unicode (Linear A block):
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \]TA-NU-MU-TI | ta-nʿum-u-tī | may you (f.) be gracious (if TA begins the word) | CANDIDATE |  |
-| [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA\|JA-SA-SA-RA-MA-NA]] | yašaram=na | in righteousness indeed; uprightly indeed | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA\|JA-SA-SA-RA-MA-NA]] | yaššaram=na | in righteousness indeed | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DA_WA_q_DU_WA_TO\|DA-WA-&#91;?&#93;-DU-WA-TO]] |  | unread |  | unread |
 | I-JA\[ | ʾiyā\[…\] | \[damaged fragment\] | SPECULATIVE |  |
 
 ### Notes
 
-GORILA IV, 8–9 gives \]TA-NU-MU-TI · JA-SA-SA-RA-MA / NA · DA-WA-\[·\]-ḌU-WA-ṬO · I-JA\[. No divider separates MA from NA, so JA-SA-SA-RA-MA-NA is one graphic word across the side break. If the initial TA begins a word, the proposed strict rendering is ‘may you be gracious—in righteousness indeed’; the smoother translation below renders the adverbial phrase as coordinated English. The lexical controls are √n-ʿ-m ‘be gracious/favourable’ and Amorite /yašaram/ ‘uprightly’; the 2fs -tī and emphatic =na remain analogical proposals. The two final groups are damaged and left untranslated.
+GORILA IV, 8–9 gives \]TA-NU-MU-TI · JA-SA-SA-RA-MA / NA · DA-WA-\[·\]-ḌU-WA-ṬO · I-JA\[. No divider separates MA from NA, so JA-SA-SA-RA-MA-NA is one graphic word across the side break. If the initial TA begins a word, the proposed strict rendering is ‘may you be gracious—in righteousness indeed’; the smoother translation below renders the adverbial phrase as coordinated English. The lexical controls are √n-ʿ-m ‘be gracious/favourable’ and Amorite /yašaram/ ‘in righteousness’; the 2fs -tī and emphatic =na remain analogical proposals. The two final groups are damaged and left untranslated.
 
 ### Source
 

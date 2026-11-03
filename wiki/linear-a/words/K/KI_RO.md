@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_RO
 title: "KI-RO"
 desc: "kilʾu: owed, outstanding balance (deficit)—transaction term heading deficit sections. Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "vocabulary"]
+tags: ["linear-a", "word", "tier-4", "accounting", "administrative", "noun"]
 kind: "word"
 form: "KI-RO"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | owed, outstanding balance (deficit)—transaction term heading deficit sections |
 | Root | k-l-ʾ |
 | Proto-Semitic | \*kVlVʔ- (#2998) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | accounting, administrative, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Function CONFIRMED from independent arithmetic and structural controls: (A) corpus complementarity—KU-RO functions as 'total' and KI-RO as 'owed/outstanding'; KI-RA is excluded because its relationship to KI-RO remains unproved; (B) HT15 arithmetic forcing case—684 + 570 = 1254 ≠ 400, so KI-RO 400 cannot be a total, but reads cleanly as 'owed/outstanding 400'; (C) structure—KI-RO heads sections that END in KU-RO with exact sums (HT88: six 1s = KU-RO 6 ✓; HT117a: ten × 1 = KU-RO 10 ✓; HT94b: five × 1 = KU-RO 5 ✓); a total cannot head a list. HT1 supplies a further control: KI-RO 197 is not the total of the four following quantities, which sum to 336. HT30's KI-RO section re-lists the main section's commodities with smaller quantities—the delivered/outstanding split; HT34's mid-list KI-RO 30 (a 7 erased) sums nothing visible \|\| Not kuro/kiru √k-l-l 'all, total' (Gordon 1966 §163): that conflates it with KU-RO through the Gordon KI=/ku/ sign alternate, whose only evidence was this very word. Under primary KI=/ki/, KI-RO ≠ KU-RO phonetically and the two terms are cleanly complementary. Fongaro kirru 'container' recorded as a possible ETYMOLOGY only (excluded as the function—a container cannot head the HT88/HT117a/HT94b recipient lists). The function stands independently of the etymology \|\| Usage: KI-RO quantities are NOT summed into KU-RO checks; residuals compute as (delivered − owed) where the tablet marks the split. What would flip it: a tablet where KI-RO's quantity equals the exact sum of the items above it (none among the 13). \|\| ETYMOLOGY (CANDIDATE): √k-l-ʾ (2998) 'hold back, withhold'. KI-RO = \*kilʾu 'what is held back', the amount outstanding (R-series writes l; the glottal stop is unwritten; -u case ending): Hebrew kālāʾ 'withhold, keep back', Akkadian kalû 'hold back'. Not Akkadian kalû 'totality', KU-RO's √k-l-l. The pair KU-RO \*kull- 'all' (√k-l-l) / KI-RO \*kilʾ- 'withheld' (√k-l-ʾ) differs in vowel and third radical—which explains Gordon's conflation of the two.
+KI-RO marks what is owed or outstanding, against KU-RO 'total'. HT 15: 684 + 570 = 1254 beside KI-RO 400, outstanding 400. KI-RO heads sections that close in KU-RO with exact sums (HT 88, six entries of 1, KU-RO 6; HT 117a, ten of 1, KU-RO 10; HT 94b, five of 1, KU-RO 5), and a total cannot head a list. On HT 1, KI-RO 197 stands before four quantities that sum to 336. HT 30's KI-RO section re-lists the main section's commodities in smaller quantities, the delivered and outstanding split. HT 34.6 balances: SA+MU+KU 100, then PA₃ 70 and KI-RO 30 (30 written over an erased 7), 70 handed over and 30 outstanding (Schrijver 2014, 7). Schoep reads 'deficit', clearest where KI-RO follows KU-RO with a smaller entry (HT 123a.9; less clearly HT 93b.1), with Killen's caveat (Schoep 2002, 163–164). KI-RO quantities are not summed into KU-RO; where a tablet marks the split, the residual is delivered less owed, and none of the 13 gives KI-RO the exact sum of the items above it. \*kilʾu 'what is held back', from √k-l-ʾ 'hold back, withhold' (2998), RO for l, the glottal stop unwritten, -u the case ending: Heb. kālāʾ 'withhold, keep back', Akk. kalû 'hold back'. KU-RO kull- (√k-l-l) differs in vowel and third radical.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Function CONFIRMED from independent arithmetic and structural controls: (A) corp
 
 ### Source
 
-di Mino
+di Mino; Schoep 2002; Schrijver 2014
 
 ### Review
 

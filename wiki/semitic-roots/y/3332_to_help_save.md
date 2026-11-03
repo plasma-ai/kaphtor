@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | yšʿ (hif. hôšîaʿ) (HALOT 448); yēšaʿ (HALOT 449); yǝšûʿâ (HALOT 446) | HALOT 448; HALOT 449; HALOT 446 | gloss withheld |
-| Moabite | yšʿ (HALOT 449) | HALOT 449 | gloss withheld |
+| Moabite | yšʿ (HALOT 449); hšʿ (T 131) | HALOT 449; T 131 | gloss withheld |
 | Amorite | jšʿ: jāšuʿ, jišʿum, jūšiʿ (Gelb AS 21, 22); yašuḫ- (Huffmon APNM 215); yiṯʿu, yāṯiʿa, yâṯuʿ (Buck 2019, 335); y-ṯ-ʿ: ia-a-ši-ḫu, la-šu-il (Ur III); yaṯʿ, yaṯʿat, yiṯʿ, yiṯʿah, yiṯʿat: bu-nu-ia-aš-ḫa, ᵈUTU-ia-aš-ḫa, EŠ₄.DAR-ia-aš-ḫa; yataṯʿ: ia-taš-ḫa, ia-ta-aš-ḫa, ia-taš-ḫa-tum (Sanmartín GlOS 2, 379) | Gelb AS 21 22; Huffmon APNM 215; Buck 2019, 335; Sanmartín GlOS 2, 379 | gloss withheld |
 | Phoenician | yšʿ (Benz PNPPI 327) |  | gloss withheld |
 | Epigraphic South Arabian | yṯʿ (Huffmon APNM 215; Benz PNPPI 327) | Huffmon APNM 215 | gloss withheld |

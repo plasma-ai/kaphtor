@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/3186_thunder
 title: "*hadad-: 'thunder'"
-desc: "Proto-Semitic *hadad-, 'thunder': reflexes in 10 language(s)."
+desc: "Proto-Semitic *hadad-, 'thunder': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3186"
@@ -39,6 +39,7 @@ updated: 2026-10-24T15:25:56Z
 | Arabic | hāddat- (Kogan 2011, 194) | Kogan 2011 194 |  |
 | Tigrinya | hadädä (Kogan 2011, 194) | Kogan 2011 194 | gloss withheld |
 | Amorite | Haddu, Hadu, Hadda, Hada, Hedda, Handa, Handu, DN (Gelb AS 21, 19); Addu, \*Haddu, Northwest Semitic deity (Huffmon APNM 156) | Gelb AS 21 19; Huffmon APNM 156 |  |
+| Hebrew | הדד, in the name הֲדַד (HALOT 238) | HALOT 238 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

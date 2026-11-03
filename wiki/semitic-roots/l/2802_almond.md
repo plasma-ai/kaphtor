@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/2802_almond
 title: "*lawz-: 'almond'"
-desc: "Proto-Semitic *lawz-, 'almond': reflexes in 7 language(s)."
+desc: "Proto-Semitic *lawz-, 'almond': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2802"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | lauz (HALOT 522) | HALOT 522 |  |
 | Syrian Aramaic | lūz, lūzā (LGz. 322) | LGz. 322 |  |
 | Mandaic Aramaic | luza (LGz. 322) | LGz. 322 |  |
+| Eblaitic | lu-zu-um, lu-zú /lūz/ (= Sum. GIŠ.ŠIM GAM.GAM) (Sanmartín GlOS 2, 19) | Sanmartín GlOS 2, 19 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

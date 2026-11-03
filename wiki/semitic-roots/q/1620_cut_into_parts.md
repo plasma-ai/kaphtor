@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | qrš \[-i-, -u-\] |  |  |
-| Akkadian | qarāsu |  |  |
+| Akkadian | qarāšu (CAD Q 128) | CAD Q 128 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

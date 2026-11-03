@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 447" src="https://img.shields.io/badge/translations-447-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 614 entries" src="https://img.shields.io/badge/lexicon-614%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 352" src="https://img.shields.io/badge/names-352-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 4,415" src="https://img.shields.io/badge/Semitic%20roots-4,415-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 38" src="https://img.shields.io/badge/sign%20values-38-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 450" src="https://img.shields.io/badge/translations-450-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 646 entries" src="https://img.shields.io/badge/lexicon-646%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 372" src="https://img.shields.io/badge/names-372-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,157" src="https://img.shields.io/badge/Semitic%20roots-5,157-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 37" src="https://img.shields.io/badge/sign%20values-37-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>
   <a href="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml"><img alt="gate" src="https://github.com/plasma-ai/kaphtor/actions/workflows/gate.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="code: Apache-2.0" src="https://img.shields.io/badge/code-Apache--2.0-3a3229?style=flat-square&labelColor=0b0a08"></a>
@@ -70,6 +70,7 @@ every inscription where it recurs.
 | Signs | The syllabic signs, logograms and fractions, each with its value and the evidence for it | [signs](wiki/linear-a/signs/_index.md) |
 | Reading status | Every reading with its tier and score | `wiki/linear-a/standing.md` |
 | Semitic roots | One page per root, with its reconstruction and its reflexes across the Semitic languages, each with its sources | [roots](wiki/semitic-roots/_index.md) |
+| Pre-Greek words | One page per Greek word classed as Pre-Greek or as an early Semitic loan, with the works that treat it, its Pre-Greek features and the Semitic comparisons proposed for it | [Pre-Greek](wiki/pre-greek/_index.md) |
 | Eteocretan | The Eteocretan inscriptions and the analysis of their words | [Eteocretan](wiki/aegean/_index.md) |
 | Corpus guides | What each ancient Near East corpus holds, its licence and its gaps, and how to query it | [guides](docs/corpora/_index.md) |
 
@@ -97,7 +98,8 @@ pleiades	589872	Knosos/Col. Iulia Nobilis Cnosos	https://pleiades.stoa.org/place
 pleiades	229296321	Neolithic Settlement at Knossos	https://pleiades.stoa.org/places/229296321
 ```
 
-Leave out `--authority` to search Pleiades and Trismegistos together, and add `--json` for the full records.
+Leave out `--authority` to search every local authority (Pleiades and Trismegistos; iDAI, which does not ship, is
+named on stderr), and add `--json` for the full records.
 iDAI.gazetteer publishes no licence for its data, so it is queried live, one page at a time.
 [tools/ane/README.md](tools/ane/README.md) lists the other query tools.
 
@@ -121,12 +123,12 @@ No reading skips a tier. A rejected reading leaves the record for the archive, w
 
 A sign value counts as resolved only on support that does not depend on a Semitic match: a Linear B value, a scribe's
 arithmetic, or a spelling variant of the same word. Every other value is listed as proposed, with its evidence where
-given. The record holds 38 sign values: 5 resolved (2 phonemic, 3 logograms) and 33 proposed (12 phonemic, 21
+given. The record holds 37 sign values: 5 resolved (2 phonemic, 3 logograms) and 32 proposed (12 phonemic, 20
 logograms). The fraction signs are counted apart: 3 resolved and 11 proposed.
 
 Linear A has no proof kernel. Counts, distributions, arithmetic and reproducibility are checked mechanically.
-Segmentation, sound correspondence and meaning stay graded and open to revision. When the three rival-language files
-(the Luwian, Egyptian and Hurrian roots) are in the checkout, every Semitic match is rescored against them and,
+Segmentation, sound correspondence and meaning stay graded and open to revision. When the four rival-language files
+(the Luwian, Egyptian, Hurrian and Hattic roots) are in the checkout, every Semitic match is rescored against them and,
 where each rival gives a p-value, the margin is reported. Without them `root_match.py` stops and names the first
 missing file, and under `--no-competitors` no word can reach `CONVERGENT`. [Confidence](docs/confidence.md) gives
 the tiers and the rule for a resolved sign value.
@@ -196,11 +198,13 @@ the data from another folder.
   - `linear-a/`: `inscriptions/<site>/<series>/`, `words/<initial>/` and `signs/{syllabic,logograms,fractions}/`,
     with the generated ledgers (`standing.md`, `counts.md`, `by_site.md`, `by_root.md`, `by_sign.md`)
   - `semitic-roots/`: one page per root, `<radical>/<id>_<slug>.md`
+  - `pre-greek/`: one page per word, `<initial>/<key>.md`, with the ledgers `by_feature.md` and `semitic.md`
   - `aegean/`: `eteocretan/`
 - `data/`: the datasets, each with a datasheet or manifest giving its licence and sources
   - `linear-a/`: the corpus, sign values, lexicon, onomasticon, translations, unread words, the Eteocretan sets and
     the rival-language root keys
   - `semitic-roots/`: the root database
+  - `pre-greek/`: the Pre-Greek lexicon, Beekes's Pre-Greek features and a sidecar of Wiktionary glosses
   - `contact/`: the open contact lexica the root index links to the roots (Hebrew, Aramaic, Amarna Canaanite,
     Syriac, Akkadian)
   - `ane/`: open-licence and public-domain ancient Near East datasets, such as the ORACC Akkadian literary glossary,
@@ -251,16 +255,25 @@ noted, our original data and writing (`data/`, `wiki/`, `docs/` and the other do
 out below and in the `license` key of each datasheet:
 
 - **Protected dictionaries.** The root database gives the cited form, the source's siglum and the page, so a reader
-  can find the entry in the original. It reproduces no gloss or note from a closed source.
+  can find the entry in the original. It reproduces no gloss or note from a closed source. The Pre-Greek lexicon
+  takes from Beekes, Rosół and Furnée only headwords, the Semitic forms they cite with their dictionary references,
+  pages, sections and verdicts recast as our codes, none of their text.
 - **The Linear A corpus.** `data/linear-a/corpus.json` builds on SigLA, whose data is under CC BY-NC-SA 4.0, and on
   lineara.xyz, which states no licence. Our corrections and added layers are CC BY 4.0. The underlying texts keep
   their sources' terms. `data/linear-a/sigla-sign-map.json` is SigLA's sign list and stays under CC BY-NC-SA 4.0.
+  `data/linear-a/sigla/database.js` is SigLA's database file, unchanged, and `data/linear-a/sigla_db.json` decodes
+  it; both stay under CC BY-NC-SA 4.0, apart from the `corpus_key` and `corpus_match` fields and
+  `sigla/corpus_key_overrides.json`, which are CC BY 4.0. The screenshots in `docs/human-review/` show SigLA's
+  drawings and sign crops and carry its CC BY-NC-SA 4.0 terms.
 - **Share-alike data.** The files in `data/share-alike/` remain under CC BY-SA 4.0, and anything derived from them
-  carries the same terms. Three more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
-  `data/linear-a/egyptian_roots.json` and `luwian_roots.json`, which hold entries from Wiktionary, and
-  `data/contact/syriac_lexicon.jsonl`, drawn from Wiktionary's Classical Syriac entries.
-- **Rival-language keys and contact lexica.** The Egyptian, Luwian and Hurrian root files give each form, its key and
-  its source labels, with no meaning. Most Luwian forms come from the Annotated Corpus of Luwian Texts and The
+  carries the same terms. Four more files under CC BY-SA 4.0 sit outside that folder, where the tools read them:
+  `data/linear-a/egyptian_roots.json` and `luwian_roots.json`, which hold entries from Wiktionary,
+  `data/contact/syriac_lexicon.jsonl`, drawn from Wiktionary's Classical Syriac entries, and
+  `data/pre-greek/pregreek_wiktionary_glosses.json`, short glosses from Wiktionary's Pre-Greek category. A Pre-Greek
+  word page that shows one of those glosses names its licence beside it.
+- **Rival-language keys and contact lexica.** The Egyptian, Luwian, Hurrian and Hattic root files give each form, its
+  key and its source labels, with no meaning; the Hattic forms and page numbers come from Soysal 2004 (Brill), none
+  of its text. Most Luwian forms come from the Annotated Corpus of Luwian Texts and The
   Indo-European Database, which state no licence; `data/linear-a/rival-roots.md` sets out their terms. The contact
   lexica in `data/contact/` hold only rows and fields from open sources, among them ORACC's Amarna and CAMS/GKAB
   glossaries, which its open-data download releases under CC0; their datasheets name what the private build adds, why it is not here,

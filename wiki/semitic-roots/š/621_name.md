@@ -33,10 +33,10 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ʔism- |  |  |
 | Mehri | ham |  |  |
 | Soqotri | šem |  |  |
-| Akkadian | šum- |  |  |
+| Akkadian | šum- (AHw 1274) | AHw 1274 |  |
 | Harsusi | hem |  |  |
 | Tigre | šǝm (Kogan 2015, ch. 7 §2.2 no. 57) | Kogan 2015 ch. 7 §2.2 no. 57 |  |
-| Mandaic Aramaic | šum- (Drower/Macuch 454b apud CAL) | Macuch 454b; CAL |  |
+| Mandaic Aramaic | šum- (MD 454) | MD 454 |  |
 | Ugaritic | šm |  |  |
 | East Ethiopic | Wol sum |  |  |
 | Geez | sǝm (Kogan 2015, ch. 7 §2.2 no. 57) | Kogan 2015 ch. 7 §2.2 no. 57 |  |

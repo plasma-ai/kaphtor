@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3068_help_aid
 title: "*nṣr: 'help, aid'"
-desc: "Proto-Semitic *nṣr, 'help, aid': reflexes in 2 language(s)."
+desc: "Proto-Semitic *nṣr, 'help, aid': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3068"
@@ -29,8 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic nṣr (Al-Jallad 2026, 105); nṣr (N) (Al-Jallad 2026, 106) | Al-Jallad 2026 105; Al-Jallad 2026 106 | gloss withheld |
 | Arabic | mustanṣir (Lane 2803); naṣara (Biella 312) | Lane 2803; Biella 312 | gloss withheld |
-| Epigraphic South Arabian | Sab nṣr (Biella 312; Sabaweb lemma 4693) | Biella 312; Sabaweb lemma 4693 | gloss withheld |
+| Epigraphic South Arabian | Sab nṣr (Biella 312; Sabaweb lemma 4693); hnṣrn, hnṣr-, hṣrn- (SD 100) | Biella 312; Sabaweb lemma 4693; SD 100 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

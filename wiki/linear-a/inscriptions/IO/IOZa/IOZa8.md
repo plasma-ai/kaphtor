@@ -59,10 +59,14 @@ Unicode (Linear A block):
 
 ### Notes
 
-IO Za 8 (HM 3783; GORILA V, 30–31) is a fragment of a circular serpentine libation table from terrace III at Iouktas. The source commentary gives an MM III–LM I context, while the structured corpus field codes LMI; both are retained. Its diplomatic reading is \] A-NA-TI-\*301-WA-JA \[: both boundaries are lost, with no divider within. Read as ʿAnatī nawaya, 'my Anat, my abode' (di Mino, Ya Diktu); the group stays out of the tG paradigm.
+IO Za 8 (HM 3783; GORILA V, 30–31) is a fragment of a circular serpentine libation table from terrace III at Iouktas. The source commentary gives an MM III–LM I context, while the structured corpus field codes LMI; both are retained. Its diplomatic reading is \] A-NA-TI-\*301-WA-JA \[: the band is broken at both ends, so sign-groups likely stood to either side, and no divider survives within. Read as two words, ʿAnatī nawaya, 'my Anat, my abode' (di Mino, Ya Diktu); the group stays out of the tG paradigm.
 
 ### Source
 
 GORILA V, 30–31; Younger (2023) commentary
+
+## Corpus note
+
+HM 3783, a fragment of the inscribed band of a circular serpentine libation table from terrace III at Iouktas, MM III–LM I (GORILA V 30–31, "Table à libations"; Younger 2023). Broken at both ends: \]Ạ-NA-TI-\*301-WA-JA\[, A dotted at the left break, JA at the right (GORILA V 31). Sign-groups likely stood to the left and right, and no divider survives among the six signs, so word division rests on the reading: two words, A-NA-TI \*301-WA-JA ʿAnatī nawaya, as IO Za 6 runs I-NA-TA-I-ZU-DI-SI-KA undivided.
 
 <!-- END kaphtor:record -->

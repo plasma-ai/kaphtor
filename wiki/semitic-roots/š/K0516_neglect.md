@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0516_neglect
 title: "*šVhVy-: 'neglect'"
-desc: "Proto-Semitic *šVhVy-, 'neglect': reflexes in 1 language(s)."
+desc: "Proto-Semitic *šVhVy-, 'neglect': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0516"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Akkadian | šutaʾʾûm (AHw 1291) | AHw 1291 | gloss withheld |
 | Arabic | sahā 'unmindful' | Anderson–Moser 2024 root šhy |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA
 title: "SI+SE-RA+KA"
 desc: "šeraka: levy, gift—fiscal category on a commodity nodule. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "administrative", "hapax", "ligature"]
 kind: "word"
 form: "SI+SE-RA+KA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | levy, gift—fiscal category on a commodity nodule |
 | Root | š-r-k |
 | Proto-Semitic | \*šrk (#3845) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, hapax, ligature |
 | Semantic field | administrative |
 
 ### Note
 
-HT Wa 1021, a nodule: \*188-DU · ¾ · SI+SE-RA+KA, a commodity, a fraction and a word. With SI+SE as še, SI+SE-RA+KA writes šeraka: Akk. širku 'gift; a tax', levied at Ugarit with a town's tithe and toll (CAD Š/3 111), and širiktu, also šeriktu, 'grant, gift' (CAD Š/3 103), of šarāku 'to dedicate, to give'. Weak points: SI+SE for še; RA+KA a ligature, read in sign order. Rival: a personal name, the official of the sealing. One attestation.
+HT Wa 1021, a nodule: \*188-DU · ¾ · SI+SE-RA+KA, a commodity, a fraction and a word. With SI+SE as še, SI+SE-RA+KA writes šeraka: Akk. širku 'gift; a tax', levied at Ugarit with a town's tithe and toll (CAD Š/3 111), and širiktu, also šeriktu, 'grant, gift' (CAD Š/3 103), of šarāku 'to dedicate, to give'. RA+KA read in sign order, as MI+\*301 minā. Weak point: SI+SE for še. Rival: a personal name, the official of the sealing. One attestation.
 
 ### Cognates
 

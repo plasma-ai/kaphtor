@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star188_star308
 title: "*188-*308"
-desc: "buṭnu šamni: processed Pistacia/terebinth product, perhaps oil. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+desc: "buṭnu šamni: terebinth oil, the Pistacia product *188 with *308 'pressed oil'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "compound", "hapax", "logogram"]
 kind: "word"
 form: "*188-*308"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | buṭnu šamni |
-| Meaning | processed Pistacia/terebinth product, perhaps oil |
+| Meaning | terebinth oil, the Pistacia product \*188 with \*308 'pressed oil' |
 | Root | b-ṭ-n + š-m-n |
 | Proto-Semitic | \*buṭm(-at)- (#3201) + \*šam(a)n- ~ \*sam(a)n- (#2014) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, compound, hapax, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Compounds proposed commodity \*188 with modifier \*308, which also occurs with OLIV on HT123+124a and may denote an oil or processed product. The exact lexical reading and process are not independently established. HT123+124b is damaged, and its preserved quantities do not transparently reconstruct the closing totals.
+HT 123+124b .1 \*188-\*308 11, the first entry, before \*312 1¾: terebinth oil, \*188 buṭnu 'terebinth' (CAD B 358) with \*308 šamni 'oil' (CAD Š/1 321), the oil modifier that follows OLIV four times on HT 123+124a. The tablet is damaged, and its preserved quantities do not sum to KU-RO 20, KI-RO 5. See \*188 and \*308.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Compounds proposed commodity \*188 with modifier \*308, which also occurs with O
 
 ### Source
 
-di Mino
+di Mino; CAD B; CAD Š/1; HALOT; DULAT
 
 ## Attestations
 

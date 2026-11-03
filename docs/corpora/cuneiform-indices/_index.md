@@ -17,8 +17,9 @@ updated: 2026-10-22T18:14:10Z
 
 ***
 
-Both describe the local snapshot that the fetch manifests reproduce. The counts are that snapshot's, and its
-machine statistics (`cdli-stats.json`, `oracc-stats.json`) give the exact timestamp and checksums. Keep object,
+Both describe a local snapshot that is not in this repository. The counts are that snapshot's, and its machine
+statistics (`data/ingest/cuneiform/indices/cdli-stats.json`, `oracc-stats.json`) give the exact timestamp and
+checksums. Keep object,
 edition, line and token apart: CDLI holds eight P-numbers with two distinct ATF versions each, and ORACC holds
 alternate project editions of the same object.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3609_to_bind_tie_knot
 title: "*k(ʷ)ṯ̣r: 'to bind, tie, knot'"
-desc: "Proto-Semitic *k(ʷ)ṯ̣r, 'to bind, tie, knot': reflexes in 8 language(s)."
+desc: "Proto-Semitic *k(ʷ)ṯ̣r, 'to bind, tie, knot': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3609"
@@ -32,11 +32,12 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | kaṣāru (CAD K 257); kuṣṣuru (CAD K 597) | CAD K 257; CAD K 597 | gloss withheld |
 | Amorite | qṣr: jaqṣur, qaṣirum (Gelb AS 21, 29) | Gelb AS 21 29 | gloss withheld |
 | Syrian Aramaic | qṭar 'to tie, bind' (Payne Smith 502) | Payne Smith 502 |  |
-| Mandaic Aramaic | gṭr (DM 88 apud SED I 140) | DM 88; SED I 140 | gloss withheld |
+| Mandaic Aramaic | gṭr (MD 88) | MD 88 | gloss withheld |
 | Geez | qʷaṣara (LGz. 450) | LGz. 450 | gloss withheld |
 | Tigrinya | qʷaṣara (LGz. 451) | LGz. 451 | gloss withheld |
 | Mehri | kəḏ̣áwr (JM 203 apud SED I 140) | JM 203; SED I 140 | gloss withheld |
 | Jibbali | kɔ́ḏ̣ɔ́r (JJ 126 apud SED I 140) | JJ 126; SED I 140 | gloss withheld |
+| Eblaitic | gú-za-ra/rí-tum, var. gú-zu/zú-ra-tum /ḳuṣ(a)r(a)t/ (Sanmartín GlOS 1, 360) | Sanmartín GlOS 1, 360 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

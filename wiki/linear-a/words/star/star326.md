@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star326
 title: "*326"
-desc: "administrative heading or transaction marker; exact function unknown. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative logogram"]
+desc: "administrative heading or transaction marker. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "logogram", "transaction_sign"]
 kind: "word"
 form: "*326"
 datasets: ["lexicon"]
@@ -31,18 +31,18 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | administrative heading or transaction marker; exact function unknown |
-| Language layer | undetermined |
-| Category | administrative logogram |
+| Meaning | administrative heading or transaction marker |
+| Language layer | logogram |
+| Tags | accounting, administrative, logogram, transaction_sign |
 | Semantic field | administrative |
 
 ### Note
 
-All three attestations are on LM IB Haghia Triada tablets, where \*326 is isolated by dividers at or near the opening of an allocation list. This distribution supports an administrative or transactional function, but neither a phonetic value nor a specific operation can yet be assigned.
+Three Haghia Triada tablets, each time set off by dividers at the head of a list: HT 35 TI-TI-KU · \*326 ·, before I-KU-TA CYP 1 and the oils; HT 91 I-KA · \*326 · GRA .3, before \*304, the oils, OLIV, NI and VIN at ≈⅙ each; HT 128a opens \*326 ·, before PA-RA and the grain entries of TU-RU-NU-SE-ME, WA-TU-MA-RE and MI-TA. After a heading word or opening the tablet, \*326 marks the transaction the list records.
 
 ### Source
 
-Corpus distribution
+di Mino
 
 ## Attestations
 

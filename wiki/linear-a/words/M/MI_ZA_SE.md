@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MI_ZA_SE
 title: "MI-ZA-SE"
 desc: "mizza-se: for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "personnel"]
 kind: "word"
 form: "MI-ZA-SE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | for the corvée gang (terminative -SE); the corvée word of MA-ZA / ME-ZA |
 | Root | m-s-s |
 | Proto-Semitic | \*mass- (#S31) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-ZA 15a .4 MI-ZA-SE 3, first entry under ME+VIN in a wine issue, beside \*363-KE-MA-SE Šakma-se (GORILA III 183). The corvée word of MA-ZA mazza (ZA 10b) and ME-ZA massu (HT 10a, HT 85b), MI for ma is a vowel mismatch only. -SE the terminative 'to, for': Akkadian -iš = ana + genitive (Huehnergard 2011, 311). Rival gloss '(men) of the corvée', -SE as the Luwian possessive -ass(a/i)- (Yakubovich 2015, 13); rival name the Edomite Mizzâ (Gen 36:13).
+ZA 15a .4 MI-ZA-SE 3, first entry under ME+VIN in a wine issue, beside \*364-KE-MA-SE Šakma-se (GORILA III 183). The corvée word of MA-ZA mazza (ZA 10b) and ME-ZA massu (HT 10a, HT 85b), MI for ma is a vowel mismatch only. -SE the terminative 'to, for': Akkadian -iš = ana + genitive (Huehnergard 2011, 311). Rival gloss '(men) of the corvée', -SE as the Luwian possessive -ass(a/i)- (Yakubovich 2015, 13); rival name the Edomite Mizzâ (Gen 36:13).
 
 ### Cognates
 

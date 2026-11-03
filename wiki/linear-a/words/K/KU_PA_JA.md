@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/K/KU_PA_JA
 title: "KU-PA-JA"
-desc: "Kubbaya: personal name (hypocoristic in -aya), cf. Amorite Kubbiya. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Kubbaya: personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "loanblend", "personal_name"]
 kind: "word"
 form: "KU-PA-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,15 +32,15 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kubbaya |
-| Meaning | personal name (hypocoristic in -aya), cf. Amorite Kubbiya |
-| Root | k-b-b |
-| Language layer | NWS |
-| Category | personal_name |
+| Meaning | personal name, hypocoristic of Kubaba in -aya, cf. Amorite Kubbiya |
+| Root | Kubb-, short base of Kubaba (Sumerian Kug-Baba, Haas 1994, 406) + -aya |
+| Language layer | Semitic |
+| Tags | hapax, loanblend, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 116a: KU-PA-JA GRA 16, first of six grain recipients under U-TA-RO · TE ·, with PU-RA₂, SI+SE, PI-\*34-TE, SI-KI-NE and QA-NU-MA. KU-PA-JA writes Kubbaya, the geminate unwritten, -aya the hypocoristic ending; cf. Amorite KUBB-IJA at Mari, KUBB-AN-UM (Gelb AS 21 nos. 4148–4149). Rival: KU-PA quppa 'box, basket' (HT 110a, KH 29, ZA 11a/b) with -ya; or a name on Kubaba (Kupapa, Gelb 1980, 23). One attestation.
+HT 116a: KU-PA-JA GRA 16, first of six grain recipients under U-TA-RO · TE ·, with PU-RA₂, SI+SE, PI-\*34-TE, SI-KI-NE and QA-NU-MA. KU-PA-JA writes Kubbaya, the geminate unwritten, -aya the hypocoristic ending on Kubaba's short base, as -ān- on KU-PA₃-NU Kubānu; cf. Amorite KUBB-IJA at Mari, KUBB-AN-UM (Gelb AS 21 nos. 4148–4149) and the goddess Kupapa (Gelb 1980, 23). Rival: KU-PA quppa 'box, basket' (HT 110a, KH 29, ZA 11a/b) with -ya. One attestation.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ HT 116a: KU-PA-JA GRA 16, first of six grain recipients under U-TA-RO · TE ·, 
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; Haas 1994
 
 ## Attestations
 

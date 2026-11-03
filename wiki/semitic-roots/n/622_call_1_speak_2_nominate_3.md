@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | nbb 2; yənabbu, Gt tanabba (OLA80 §44.11) | OLA80 §44.11 | gloss withheld |
 | Jibbali | enbe 3 |  |  |
 | Hebrew | nbʔ 2; nif. nibbāʾ, hitp. hitnabbēʾ 2 (HALOT 659) | HALOT 659 | gloss withheld |
-| Epigraphic South Arabian | nbʔ 2; tnbʔ (SD 90) (Biella 289) (Sabaweb lemma 2010) | SD 90; Biella 289; Sabaweb lemma 2010 | gloss withheld |
+| Epigraphic South Arabian | nbʔ 2; tnbʔ (SD 90) (Biella 289) (Sabaweb lemma 2010); Sab nbt 2 (Biella 290) | SD 90; Biella 289; Sabaweb lemma 2010; Biella 290 | gloss withheld |
 | Amorite | nbʾ: janbiʾ, jabbiʾ, janabbiʾ, nabīʾum (Gelb AS 21, 26) | Gelb AS 21 26 | gloss withheld |
 | Eblaitic | na-ba-um, na⟨-ba-⟩ù-um /nabāʔum/ (VE 725; Krebernik 1983, 28); /n-b-ʾ/,: names i-bí-ù/um, i-bí-a-du, i-bí-da-mu, i-bí-da-si-in, i-bí-iš-lu, i-bí-ni-ḪAR, i-bí-ni-ki-mu, i-bí-SÙ, i-bí-zi-kir, i-bí-zi-mu; with infixed /-ta-/: en-da-bí (Krebernik 1988, 49, 58) | VE 725; Krebernik 1983, 28; Krebernik 1988, 49, 58 | gloss withheld |
 | Emar | lu-ú-na-ab-bi /lunabbi/, tu-na-ab-bi /tunabbi/ (Pentiuc 2001, 111–112) | Pentiuc 2001 111–112 | gloss withheld |

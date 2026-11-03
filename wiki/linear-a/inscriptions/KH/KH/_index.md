@@ -2,7 +2,7 @@
 name: wiki/linear-a/inscriptions/KH/KH
 desc: "Inscriptions from Khania, series KH."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-26T15:31:50Z
+updated: 2026-11-01T01:48:41Z
 ---
 
 # wiki/linear-a/inscriptions/KH/KH
@@ -107,7 +107,7 @@ updated: 2026-10-26T15:31:50Z
 
 [[wiki/linear-a/inscriptions/KH/KH/KH49|KH49]]: Tablet, Khania, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/KH/KH/KH5|KH5]]: Tablet, Khania, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/KH/KH/KH5|KH5]]: Tablet, Khania, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KH/KH/KH50|KH50]]: Tablet, Khania, LMIB. Translation: none.
 
@@ -129,7 +129,7 @@ updated: 2026-10-26T15:31:50Z
 
 [[wiki/linear-a/inscriptions/KH/KH/KH59|KH59]]: Tablet, Khania, LMIB. Translation: none.
 
-[[wiki/linear-a/inscriptions/KH/KH/KH6|KH6]]: Tablet, Khania, LMIB. Translation: none.
+[[wiki/linear-a/inscriptions/KH/KH/KH6|KH6]]: Tablet, Khania, LMIB. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KH/KH/KH60|KH60]]: Tablet, Khania, LMIB. Translation: none.
 
@@ -171,7 +171,7 @@ updated: 2026-10-26T15:31:50Z
 
 [[wiki/linear-a/inscriptions/KH/KH/KH7a|KH7a]]: Tablet, Khania. Translation: incomplete (SPECULATIVE).
 
-[[wiki/linear-a/inscriptions/KH/KH/KH7b|KH7b]]: Tablet, Khania. Translation: none.
+[[wiki/linear-a/inscriptions/KH/KH/KH7b|KH7b]]: Tablet, Khania. Translation: incomplete (SPECULATIVE).
 
 [[wiki/linear-a/inscriptions/KH/KH/KH8|KH8]]: Tablet, Khania, LMIB. Translation: none.
 

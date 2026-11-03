@@ -39,11 +39,11 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. WI-JA-SU-MA-TI-TI-A319
+1. WI-JA-SU-MA-TI-TI-\*319
 2. NE 1
 3. NE 1 ¹⁄₂
-4. A319 2 ¹⁄₄
-5. A319 3 ³⁄₈
+4. \*319 2 ¹⁄₄
+5. \*319 3 ³⁄₈
 6. TA-JA ¹⁄₁₆
 
 Unicode (Linear A block):

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_KU_SE_NE_TI
 title: "DA-KU-SE-NE-TI"
-desc: "Takušenni-ti: probable Hurrian-style name or entity with final TI; exact function unresolved. Onomasticon personal name; lexicon entry DA-KU-SE-NE."
+desc: "Takušenni-ti: Hurrian personal name Takušenni with final TI. Onomasticon personal name; lexicon entry DA-KU-SE-NE."
 tags: ["linear-a", "word"]
 kind: "word"
 form: "DA-KU-SE-NE-TI"
@@ -39,9 +39,9 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Takušenni-ti |
-| Meaning | probable Hurrian-style name or entity with final TI; exact function unresolved |
-| Type | personal name (SPECULATIVE) |
-| Affiliation | hurrian (SPECULATIVE) |
+| Meaning | Hurrian personal name Takušenni with final TI |
+| Type | personal name (PROBABLE) |
+| Affiliation | hurrian (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

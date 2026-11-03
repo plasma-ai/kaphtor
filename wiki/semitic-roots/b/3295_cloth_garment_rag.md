@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | bt (DUL 247 apud SEDonline 1764) | DUL 247; SEDonline 1764 | gloss withheld |
+| Ugaritic | bt (DULAT 247–248; SEDonline 1764) | DULAT 247–248; SEDonline 1764 | gloss withheld |
 | Hebrew | bat (HALOT 166 apud SEDonline 1764) | HALOT 166; SEDonline 1764 | gloss withheld |
 | Arabic | batt- (Lane 148 apud SEDonline 1764) | Lane 148; SEDonline 1764 | gloss withheld |
 | Amharic | buttəto (AED 917 apud SEDonline 1764) | AED 917; SEDonline 1764 | gloss withheld |

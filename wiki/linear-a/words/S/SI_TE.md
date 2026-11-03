@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the East, lit. 'the going-out (of the sun)', a name for eastern Crete; rival ṣīt 'issue, outlay' |
 | Root | y-ṣ-ʾ |
 | Proto-Semitic | \*wVṣ̂Vʾ- (#K0448) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | toponym |
 | Semantic field | toponym |
 
 ### Note

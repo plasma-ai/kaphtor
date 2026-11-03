@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | šūqā (HALOT 1449) | HALOT 1449 | gloss withheld |
 | Akkadian | sūqu(m) (HALOT 1449) | HALOT 1449 | gloss withheld |
 | Syrian Aramaic | šūqā (HALOT 1449) | HALOT 1449 | gloss withheld |
-| Aramaic | Nab., Palm. šwq (DNWSI 1185 apud CAL); CPArm. šwqʾ (HALOT 1449) | DNWSI 1185; CAL; HALOT 1449 |  |
+| Aramaic | Nab., Palm. šwq (DNWSI 1185); CPArm. šwqʾ (HALOT 1449) | DNWSI 1185; HALOT 1449 |  |
 | Mandaic Aramaic | šuqa (HALOT 1449) | HALOT 1449 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

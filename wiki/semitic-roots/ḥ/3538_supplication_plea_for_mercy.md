@@ -29,7 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tēnīnu (CAD T 343); tēnintu (CAD T 342); utnēnu (CAD U/W 336) | CAD T 343; CAD T 342; CAD U/W 336 | gloss withheld |
+| Akkadian | tēnīnu (CAD T 343; AHw 1347); tēnintu (CAD T 342); utnēnu (CAD U/W 336) | CAD T 343; AHw 1347; CAD T 342; CAD U/W 336 | gloss withheld |
 | Hebrew | tǝḥinnâ (HALOT 1718) | HALOT 1718 | gloss withheld |
 | Punic | Neo-Punic tḥ\[n\]t (Krahmalkov 489) | Krahmalkov 489 | gloss withheld |
 | Syrian Aramaic | taḥnantā 'fervent prayer, supplication, intercession' (Payne Smith 610) | Payne Smith 610 |  |

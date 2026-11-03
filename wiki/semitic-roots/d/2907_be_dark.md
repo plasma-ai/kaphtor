@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/2907_be_dark
 title: "*dVmVs-: 'be dark'"
-desc: "Proto-Semitic *dVmVs-, 'be dark': reflexes in 2 language(s)."
+desc: "Proto-Semitic *dVmVs-, 'be dark': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2907"
@@ -29,8 +29,9 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Geez | damasa ‘become dark/dense; be obliterated’ (Dillmann 07856–07860) | Dillmann 07856–07860 |  |
+| Geez | damasa (Dillmann 07856–07860); damus, dəmus (LGz. 136) | Dillmann 07856–07860; LGz. 136 | gloss withheld |
 | Arabic | damasa (Dillmann 07856) | Dillmann 07856 |  |
+| Amharic | dämmäsä; dabbäsä; dämus (LGz. 136) | LGz. 136 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -30,17 +30,17 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | rabû (Kogan 2015, ch. 5 §2.2.2.1 no. 5) | Kogan 2015 ch. 5 §2.2.2.1 no. 5 |  |
-| Mandaic Aramaic | rba (Drower/Macuch 422b apud CAL) | Macuch 422b; CAL |  |
-| Ugaritic | rb; /rabbu/?, fem. /rabbatu/ (UVST 176); rb 2 in titles, rb khnm (HALOT 1172) | UVST 176; HALOT 1172 | gloss withheld |
+| Akkadian | rabû (Kogan 2015, ch. 5 §2.2.2.1 no. 5); rubû (rubāʾu) 2 (CAD R 395) | Kogan 2015 ch. 5 §2.2.2.1 no. 5; CAD R 395 | gloss withheld |
+| Mandaic Aramaic | rba (MD 422) | MD 422 |  |
+| Ugaritic | rb; /rabbu/?, fem. /rabbatu/ (UVST 176); rb 2 in titles, rb khnm (HALOT 1172); rbt (G) 1 (DULAT 719) | UVST 176; HALOT 1172; DULAT 719 | gloss withheld |
 | Biblical Aramaic | rab (CAL s.v. rb) | CAL s.v. rb |  |
-| Phoenician | rb; rbt (T 301); rb 2; rbn 2 (Krahmalkov 439) | T 301; Krahmalkov 439 | gloss withheld |
+| Phoenician | rb; rbt (T 301); rb 2; rbn 2 (Krahmalkov 439); brbm 1, in wbrbm (Krahmalkov 125) | T 301; Krahmalkov 439; Krahmalkov 125 | gloss withheld |
 | Modern Aramaic | Urm rāb- |  | gloss withheld |
 | Hebrew | rab (Kogan 2015, ch. 3 §5.2 no. 46); MHeb. 2 (HALOT 1172) | Kogan 2015 ch. 3 §5.2 no. 46; HALOT 1172 | gloss withheld |
 | Syrian Aramaic | rabb-; rab 'great; elder; chief, master, teacher' 2 (Payne Smith 525); rabbūnā 'master, lord'; rabbī 'Rabbi, master' 2 (Payne Smith 526) | Payne Smith 525; Payne Smith 526 |  |
 | Judaic Aramaic | rab 2 (HALOT 1172) | HALOT 1172 | gloss withheld |
-| Aramaic | Pal rb (Jastrow 1438 apud CAL) | Jastrow 1438; CAL |  |
-| Punic | rbt, rbʿt, rbbt, rbʾt (T 301) | T 301 | gloss withheld |
+| Aramaic | Pal rb (Jastrow 1438 apud CAL); rbn (DNWSI 1055); rby (DNWSI 1054); rbnw (DNWSI 1055); rbrb (DNWSI 1058) | Jastrow 1438; CAL; DNWSI 1055; DNWSI 1054; DNWSI 1058 | gloss withheld |
+| Punic | rbt, rbʿt, rbbt, rbʾt (T 301); rb 2 (T 298); N.Pu. rbt 1 (T 300); brbm 1, in pʿmt brbm (Krahmalkov 125) | T 301; T 298; T 300; Krahmalkov 125 | gloss withheld |
 | Arabic | rabb 2 (Lane 1003; HALOT 1172) | Lane 1003; HALOT 1172 | gloss withheld |
 | Epigraphic South Arabian | Sab rb 2 (Biella 475) | Biella 475 | gloss withheld |
 | Emar | ra-ab-ba /rabba/ (Pentiuc 2001, 151–152); ra-ba-tu₄ /rabbatu/ (Pentiuc 2001, 152) | Pentiuc 2001 151–152; Pentiuc 2001 152 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_TE_TU
 title: "SI-TE-TU"
 desc: "šetātu: woven (cloth), a textile entry; rival šittātu 'remainder'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "textile"]
 kind: "word"
 form: "SI-TE-TU"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | woven (cloth), a textile entry; rival šittātu 'remainder' |
 | Root | š-t-y |
 | Proto-Semitic | \*šVtVy- (#1408) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, textile |
 | Semantic field | textile |
 
 ### Note

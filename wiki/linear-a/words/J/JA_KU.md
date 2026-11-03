@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_KU
 title: "JA-KU"
 desc: "Yaqū: personal name, Amorite type (yaqtul of QWJ). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-KU"
 datasets: ["lexicon", "onomasticon"]
@@ -34,8 +34,9 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yaqū |
 | Meaning | personal name, Amorite type (yaqtul of QWJ) |
 | Root | q-w-y (Amorite QWJ, unglossed) |
-| Language layer | NWS |
-| Category | personal_name |
+| Proto-Semitic | \*ḳVw- (#1678) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

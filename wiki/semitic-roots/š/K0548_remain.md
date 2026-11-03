@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0548_remain
 title: "*šVʾVr-: 'remain'"
-desc: "Proto-Semitic *šVʾVr-, 'remain': reflexes in 6 language(s)."
+desc: "Proto-Semitic *šVʾVr-, 'remain': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0548"
@@ -29,12 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | ŠʾR (DNWSI 1098 apud CAL) | DNWSI 1098; CAL; Anderson–Moser 2024 root šʾr | gloss withheld |
-| Hebrew | šaʾar 'remain' | Anderson–Moser 2024 root šʾr |  |
+| Aramaic | ŠʾR (DNWSI 1098); šʔr (DNWSI 1098); šʔry (DNWSI 1099) | DNWSI 1098; DNWSI 1099; Anderson–Moser 2024 root šʾr | gloss withheld |
+| Hebrew | šaʾar; šʔr (DNWSI 1098) | DNWSI 1098; Anderson–Moser 2024 root šʾr | gloss withheld |
 | Ugaritic | šʾr (Gt) (DULAT 786) | DULAT 786; Anderson–Moser 2024 root šʾr | gloss withheld |
 | Epigraphic South Arabian | Sab sʾr (Biella 322; Sabaweb lemma 2291) | Biella 322; Sabaweb lemma 2291 | gloss withheld |
 | Syrian Aramaic | šyārā (Kogan 2015, ch. 3 §5.2 no. 52) | Kogan 2015 ch. 3 §5.2 no. 52 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic sʾr (Al-Jallad–Jaworska 119) | Al-Jallad–Jaworska 119 | gloss withheld |
+| Biblical Aramaic | \*šəʾār (HALOT 1377) | HALOT 1377 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

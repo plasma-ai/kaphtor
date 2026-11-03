@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ply 2; palah |  | gloss withheld |
 | Amharic | fälläl 3 |  |  |
 | Judaic Aramaic | ply 2 |  |  |
-| Ugaritic | pl (CUC; DULAT 661) | CUC; DULAT 661 | gloss withheld |
+| Ugaritic | pl 3 (CUC; DULAT 661); ply G/D 2 (DULAT 663) | CUC; DULAT 661; DULAT 663 | gloss withheld |
 | Epigraphic South Arabian | Sab fll (Biella 404) | Biella 404 | gloss withheld |
 | Aramaic | pəlā (ply) (LGz. 161) | LGz. 161 | gloss withheld |
 | Mandaic Aramaic | pla (LGz. 161) | LGz. 161 |  |

@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/I/I_TI
 title: "I-TI"
-desc: "ʾitti: with, at (comitative preposition); IOZa12 possibly ʔittī 'with me'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "particle"]
+desc: "ʾitti: with, at (comitative preposition); on IO Za 12 ʾittī 'with me'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "preposition"]
 kind: "word"
 form: "I-TI"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾitti |
-| Meaning | with, at (comitative preposition); IOZa12 possibly ʔittī 'with me' |
+| Meaning | with, at (comitative preposition); on IO Za 12 ʾittī 'with me' |
 | Root | ʔ-t-t (&lt; \*ʔin-t-) |
 | Proto-Semitic | \*ʾVt- (#K0601) |
-| Language layer | NWS |
-| Category | particle |
+| Language layer | Semitic |
+| Tags | preposition |
 | Semantic field | particle |
 
 ### Note
 
-Comitative preposition &lt; PS \*ʔin-t- 'with, at, via' (Huehnergard 2019 §3.6), extended form of \*ʔin. CV fit exact: n-assimilation (\*ʔinti &gt; ʔitti) orthographically invisible, geminate written single, glottal onset carried by the bare vowel sign \|\| HT25b: WI-TE-RO 𐄁 I-TI VIR 28 / VIR 24 / KU-RO 52 (28+24=52 exact)—I-TI marks only the first personnel entry, matching Akkadian ledger itti 'with, including' flagging an included subgroup; rival reading: personal name (NAME VIR n roster syntax) \|\| IOZa12: \]𐄁 \]𐄁 JA-SA-SA-RA-ME 𐄁 I-TI\[—word divider rules out a suffix parse; either bare ʔitt- 'with' (complement lost in the lacuna after I-TI) or suffixed ʔittī 'with me' (Heb. ʔittī; formula word + 'with'+suffix predication, the ʕimmānû-ʔēl construction type) \|\| Isogloss note: Ugaritic prefers ʕm 'with'; ʔitt- sits on the Akkadian/Canaanite side—retention of a form Huehnergard reconstructs to PS itself, a peripheral archaism, not a borrowing marker
+HT 25b WI-TE-RO 𐄁 I-TI VIR 28 / VIR 24 / KU-RO 52: I-TI stands before the first of two personnel entries, 28 and 24 making the 52, as Akkadian ledgers write itti 'with, including' before an included subgroup. IO Za 12 \]𐄁 \]𐄁 JA-SA-SA-RA-ME 𐄁 I-TI\[, set off from the formula word by a divider and broken after: bare ʾitt- 'with', its complement lost, or ʾittī 'with me' (Heb. ʾittī), a predication of the ʿimmānû-ʾēl type. PS \*ʾin-t- 'with, at, via', the extended form of \*ʾin (Huehnergard 2019, §3.6): \*ʾinti &gt; ʾitti, the assimilated n and the geminate unwritten, the glottal onset on the bare vowel sign. Ugaritic prefers ʿm 'with'; ʾitt- stands with Akkadian and Canaanite, a Proto-Semitic retention. Rival on HT 25b: a personal name, in the name–VIR–number layout of the rosters.
 
 ### Cognates
 

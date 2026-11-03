@@ -5,7 +5,7 @@ desc: "Unread (role only): personal name; 1 occurrence(s)."
 tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "A-NU"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["unread_words"]
 attestations: ["PEZb"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -26,18 +26,6 @@ updated: 2026-10-24T16:17:50Z
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PE/PEZb/PEZb\|PEZb]] | Petras | Clay vessel | none |
-
-## Onomasticon
-
-| Field | Value |
-|---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
-| Entry | auto |
-| Occurrences | 1 in 1 documents |
-| Sites | Petras |
-| Supports | Clay vessel 1 |
 
 ## Unread
 

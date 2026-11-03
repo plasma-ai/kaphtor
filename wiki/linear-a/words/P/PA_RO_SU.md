@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_RO_SU
 title: "PA-RO-SU"
 desc: "Parʿōš: personal or clan name, 'Flea'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "PA-RO-SU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal or clan name, 'Flea' |
 | Root | p-r-ʿ-š |
 | Proto-Semitic | \*ṗVrɣVṯ- ~ \*ṗVrṯaɣ- {} \*ṗVrɣVč-, \*ṗVrčaɣ- (#2264) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 20 (GORILA I 37): PA-RO-SU · heads six fraction entries (KU-MA-JU ¼, QE-KU-RE · DI ½, \*21M ⅛, SA-RE-JU ⅛, WA ¼, \*188+KU ½). The same scribe's HT 16 has the same layout under KA-KU-PA ·, a party, so the heading names the recipient. RO writes rʿō with ʿ lost. Rival: parsu 'portion, dry measure' (Ug. prs, DULAT 671), which leaves RO unexplained. One attestation.
+HT 20 (GORILA I 37): PA-RO-SU · heads six fraction entries (KU-MA-JU ¼, QE-KU-RE · DI ½, \*21M ⅛, SA-RE-JU ⅛, WA ¼, \*188+KU ½). The same scribe's HT 16 has the same layout under KA-KU-PA ·, a party, so the heading names the recipient. Parʿōš 'flea', the clan of Ezra 2:3 (HALOT 971); RO writes rʿō with ʿ lost. Rival: parsu 'portion, dry measure' (Ug. prs, DULAT 671), which leaves RO unexplained. HT 104 .3–4 PA-DA-SU-TI 29 is a candidate for PA-RO-SU-TI, this name with -TI, in a list of X-TI entries (GORILA I 171; Schoep 2002, 47). One attestation.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT 20 (GORILA I 37): PA-RO-SU · heads six fraction entries (KU-MA-JU ¼, QE-KU-
 
 ### Source
 
-di Mino; Gelb 1980
+di Mino; HALOT; DULAT; GORILA I; Schoep 2002
 
 ## Attestations
 

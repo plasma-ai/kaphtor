@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TA_I_NU_MA_PA
 title: "TA-I-NU-MA-PA"
 desc: "Tainumapa: She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "TA-I-NU-MA-PA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tainumapa |
 | Meaning | She of Memphis: Egyptian woman's name Tꜣ-n.t-Mn-nfr |
 | Language layer | Middle Egyptian |
-| Category | personal_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 8 .3–4 TA-I-NU-MA-PA ∠, intact, after A-RI-NI-TA 'She-of-the-Lion' (GORILA III 165). PNM v6 has the woman's name tꜣ-n.t-mn-nfr 'she of Memphis' (Ranke I, 360.14; Ilin-Tomich 2025, personal_names_id 142613640), borne by three Memphite women from Amenhotep II to Sety I (Prosopographia Memphitica, persons 1509, 1828, 2490). TA writes tꜣ, NU n(.t), MA-PA Mn-nfr with n and r unwritten, as Hebrew writes Memphis מֹף Mōp (Hos 9:6); the I is unexplained. One witness. Rival: a Minoan name.
+ZA 8 .3–4 TA-I-NU-MA-PA ∠, intact, after A-RI-NI-TA 'She-of-the-Lion' (GORILA III 165). The Egyptian woman's name tꜣ-n.t-mn-nfr 'she of Memphis' (Ranke I, 360.14; Ilin-Tomich 2025, s.v. tꜣ-n.t-mn-nfr), borne by three Memphite women from Amenhotep II to Sety I (Prosopographia Memphitica, persons 1509, 1828, 2490). TA-I writes the article with the j of its usual spelling, the pestle tj (ti n:t mn nfr; Ilin-Tomich 2025), tꜣy beside tꜣ (Allen 2014, §5.11), as DA-I writes ṭay- in DA-I-PI-TA on the same tablet. NU writes n(.t), MA-PA Memphis as Coptic ⲙⲛϥⲉ has it (Peust 1999, 254): the n a coda left unwritten, as in Linear B a-to-ro-qo anthrōqʷos (Ventris and Chadwick 1956, 45), the r lost as in Amarna na-ap-ḫur-ri-ia (Hess 1993, 116); Hebrew מֹף Mōp (Hos 9:6). Rival: a Minoan name. Weak point: the lost vowel between n and f is attested only in Coptic and Greek. One witness.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ ZA 8 .3–4 TA-I-NU-MA-PA ∠, intact, after A-RI-NI-TA 'She-of-the-Lion' (GORIL
 
 ### Source
 
-di Mino; Ilin-Tomich 2025 (PNM v6); Prosopographia Memphitica
+di Mino; Ilin-Tomich 2025 (PNM v6); Prosopographia Memphitica; Allen 2014; Peust 1999; Ventris and Chadwick 1956; Hess 1993
 
 ## Attestations
 
@@ -71,9 +71,13 @@ di Mino; Ilin-Tomich 2025 (PNM v6); Prosopographia Memphitica
 | Type | personal name (SPECULATIVE) |
 | Affiliation | egyptian (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Zakros |
 | Supports | Tablet 1 |
+
+### Note
+
+ZA 8 .3–4 TA-I-NU-MA-PA, after A-RI-NI-TA (GORILA III 165). The Egyptian woman's name tꜣ-n.t-mn-nfr 'she of Memphis' (Ranke I, 360.14). See the lexicon entry.
 
 <!-- END kaphtor:record -->

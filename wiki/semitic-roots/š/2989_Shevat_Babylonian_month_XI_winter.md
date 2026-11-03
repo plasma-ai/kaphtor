@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2989_Shevat_Babylonian_month_XI_winter
 title: "*Šabāṭu-: 'Shevat (Babylonian month XI, winter)'"
-desc: "Proto-Semitic *Šabāṭu-, 'Shevat (Babylonian month XI, winter)': reflexes in 6 language(s)."
+desc: "Proto-Semitic *Šabāṭu-, 'Shevat (Babylonian month XI, winter)': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2989"
@@ -29,12 +29,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | Šabāṭu (HALOT 1390; CAD Š/1 8) | HALOT 1390; CAD Š/1 8 | gloss withheld |
+| Akkadian | Šabāṭu (HALOT 1390; CAD Š/1 8; AHw 1119) | HALOT 1390; CAD Š/1 8; AHw 1119 | gloss withheld |
 | Hebrew | Šǝbāṭ (HALOT 1390) | HALOT 1390 | gloss withheld |
 | Aramaic | EgArm. šbṭ (HALOT 1390) | HALOT 1390 |  |
 | Syrian Aramaic | šᵉbaṭ (HALOT 1390) | HALOT 1390 |  |
 | Mandaic Aramaic | šabaṭ (HALOT 1390) | HALOT 1390 |  |
 | Arabic | šubāṭ (HALOT 1390) | HALOT 1390 |  |
+| Pre-Islamic North Arabian | Safaitic sbṭ (Al-Jallad 2026, 129) | Al-Jallad 2026 129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

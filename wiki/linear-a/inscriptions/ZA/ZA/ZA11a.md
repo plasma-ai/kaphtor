@@ -9,7 +9,7 @@ site: "Zakros"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["*516", "GRA+PA", "KU-PA", "PI-*310-A"]
+words: ["*516", "GRA+PA", "KU-PA", "OLIV", "PI-*310-A"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -70,7 +70,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star516|\*516]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KU_PA|KU-PA]], [[wiki/linear-a/words/P/PI_star310_A|PI-\*310-A]].
+[[wiki/linear-a/words/star/star516|\*516]], [[wiki/linear-a/words/G/GRA_plus_PA|GRA+PA]], [[wiki/linear-a/words/K/KU_PA|KU-PA]], [[wiki/linear-a/words/O/OLIV|OLIV]], [[wiki/linear-a/words/P/PI_star310_A|PI-\*310-A]].
 
 ## Edition differences
 

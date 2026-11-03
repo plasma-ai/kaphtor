@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/P/PA3_star188
 title: "PA₃-*188"
-desc: "bu-BUṬNU: terebinth (phonetic complement confirming /b/-onset). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+desc: "bu-buṭnu: terebinth (PA₃ a phonetic complement for the b-onset). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "logogram"]
 kind: "word"
 form: "PA₃-*188"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "bu-BUṬNU"
+reading: "bu-buṭnu"
 attestations: ["HT8b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | bu-BUṬNU |
-| Meaning | terebinth (phonetic complement confirming /b/-onset) |
+| Reading | bu-buṭnu |
+| Meaning | terebinth (PA₃ a phonetic complement for the b-onset) |
 | Root | b-ṭ-n |
 | Proto-Semitic | \*buṭm(-at)- (#3201) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, hapax, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-PA₃ = /b/ phonetic complement (dash notation). Confirms commodity name starts with /b/. HT8b Villa Magazine, qty 2. See \*188.
+HT 8b, Villa Magazine: PA₃-\*188 2, PA₃ ba as a phonetic complement giving the b of buṭnu 'terebinth' (see \*188). Rival: HT 8b .3 5 · PA₃ · \*188 2, PA₃ a transaction sign opening the second section and \*188 the item, as su-pu₂ \*188 1 on b.1 (Schrijver 2014, 7). See \*188 and PA₃-KA-RA-TI.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ PA₃ = /b/ phonetic complement (dash notation). Confirms commodity name starts 
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; Schrijver 2014
 
 ## Attestations
 
@@ -63,6 +63,6 @@ di Mino; GlOS 1
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | bu-BUṬNU | terebinth (with /b/-onset phonetic complement) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT8b\|HT8b]] | bu-buṭnu | terebinth (PA₃ a phonetic complement for the b-onset) | CANDIDATE |
 
 <!-- END kaphtor:record -->

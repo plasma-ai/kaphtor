@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/D/DA_KU_SE_NE
 title: "DA-KU-SE-NE"
-desc: "Takušenni: probable Hurrian-style personal name; compare Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+desc: "Takušenni: Hurrian personal name, 'the brother is beautiful'; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "DA-KU-SE-NE"
 datasets: ["lexicon", "onomasticon"]
@@ -32,14 +32,14 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Takušenni |
-| Meaning | probable Hurrian-style personal name; compare Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni |
+| Meaning | Hurrian personal name, 'the brother is beautiful'; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-No exact Dakušenni is attested in the Nuzi Personal Names corpus. Nuzi does attest Aku-šenni, Takku (Ta-ak-ku, Ta-a-ku, Ta-ku, Ta-gu), and Takuja (Ta-ku-ia; variant Da-ku-a-a): Gelb, Purves, and MacRae 1943, s.vv. AKU-ŠENNI, TAKKU, TAKUJA. The closest full compound is Boğazköy Tagu(b)-šini (KBo XXII 114, 7), under the themes tagi- and tagu- (Laroche 1980, 250); Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, is analyzed as Hurrian Taki-šenni (NPN p. 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35). Hurrian šēna ‘brother’ with the individualizing -ni, šen=ni, accounts for the onomastic element -šenni (Giorgieri 2000, 199, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26, s.v. šeni); the first element remains unexplained. Linear A DA-KU spells /ta.ku/ under stop neutralization, with the u of tagu-; /Takušenni/ is a comparative reconstruction, not an exact external attestation. HT 103 .4–5 DA-KU-SE-NE 1 (on .2–3 a break follows NE) and extended DA-KU-SE-NE-TI on HT104 support an entity or name. The pair favors suffixation, but GORILA I 171 allows final TI to be an ideogram or classifier; Finkelberg 2002/03, 96–97 instead proposes a dative/recipient function.
+HT 103 lists DA-KU-SE-NE twice, on .2–3 as PA₃-DA-KU-SE-NE\[ \]6½, broken after NE, with a possible divider after PA₃ (GORILA I 171), and again with 1, beside DA-KU-NA 1; HT 104 has DA-KU-SE-NE-TI 45½ with I-DU-TI 20½ and PA-DA-SU-TI 29, KU-RO 95: a name. DA-KU writes taku under stop neutralization, with the u of tagu-. Boğazköy Tagu(b)-šini (KBo XXII 114, 7), under the themes tagi- and tagu- (Laroche 1980, 250); Ugaritic tgḏn, syllabic ta-gi₅-ŠA-na, Hurrian Taki-šenni (NPN 262, printed Tgz̄n; Tropper 2000, 119, §32.144.35); Nuzi Aku-šenni, Takku and Takuja (NPN s.vv.). Hurrian šēna 'brother' with the individualizing -ni, šen=ni, gives the element -šenni (Giorgieri 2000, 199, 202; Wilhelm, Hurrian, 103; Laroche 1980, 225–26, s.v. šeni). GORILA I 171 allows the final TI of HT 104 to be an ideogram or classifier; Finkelberg 2002/03, 96–97 takes it as a dative of the recipient. tagi, tagu- is Hurrian 'beautiful' (Laroche 1980, 250–51): 'the brother is beautiful'.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ No exact Dakušenni is attested in the Nuzi Personal Names corpus. Nuzi does att
 
 ### Source
 
-Gordon 1966; Gelb, Purves, and MacRae 1943; Tropper 2000; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian
+Gordon 1966; NPN; Tropper 2000; Laroche 1980; Giorgieri 2000; Wilhelm, Hurrian; Finkelberg 2002/03
 
 ## Attestations
 
@@ -62,14 +62,14 @@ Gordon 1966; Gelb, Purves, and MacRae 1943; Tropper 2000; Laroche 1980; Giorgier
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Takušenni | probable Hurrian-style personal name; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Takušenni | Hurrian personal name; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni | PROBABLE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | hurrian (SPECULATIVE) |
+| Type | personal name (PROBABLE) |
+| Affiliation | hurrian (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 1 documents |

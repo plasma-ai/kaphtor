@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3703_carob_tree_and_pods
 title: "*ḫrb: 'carob (tree and pods)'"
-desc: "Proto-Semitic *ḫrb, 'carob (tree and pods)': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḫrb, 'carob (tree and pods)': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3703"
@@ -32,6 +32,7 @@ updated: 2026-10-27T22:12:55Z
 | Akkadian | ḫarūbu, ḫarūpu (CAD Ḫ 120) | CAD Ḫ 120 | gloss withheld |
 | Syrian Aramaic | ḥarūbā 'carob tree; its pods' (Payne Smith 156) | Payne Smith 156 |  |
 | Arabic | ḫarrūb, ḫurnūb 'a kind of tree, growing upon the mountains of Syria'; 'the carob, or locust-tree' (Lane 716–717) | Lane 716–717 |  |
+| Hebrew | ḥrwbym (DNWSI 403) | DNWSI 403 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

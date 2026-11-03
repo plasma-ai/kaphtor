@@ -31,7 +31,7 @@ updated: 2026-10-31T13:28:57Z
 |---|---|---|---|
 | Hebrew | ʿābaṭ (Klein s.v. עבט ᴵ) | Klein s.v. עבט ᴵ | gloss withheld |
 | Aramaic | ʿᵃbaṭ (Klein s.v. עבט ᴵ) | Klein s.v. עבט ᴵ | gloss withheld |
-| Akkadian | ubbuṭu; ubbuṭu B (CAD U/W 14) | CAD U/W 14 | gloss withheld |
+| Akkadian | ubbuṭu (AHw 1400); ubbuṭu B (CAD U/W 14) | AHw 1400; CAD U/W 14 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

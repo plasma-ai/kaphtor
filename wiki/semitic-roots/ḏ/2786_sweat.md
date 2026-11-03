@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | zuʔtu (zūtu) (CAD Z 168); izūtu | CAD Z 168 | gloss withheld |
+| Akkadian | zuʔtu (zūtu) (CAD Z 168; AHw 1539); izūtu | CAD Z 168; AHw 1539 | gloss withheld |
 | Ugaritic | dʕt \[DULAT 258\]; (w)dʿ (HALOT 404) | DULAT 258; HALOT 404 | gloss withheld |
 | Hebrew | zēʕā (HALOT 276); daʕat (HALOT 229); yäzaʕ | HALOT 276; HALOT 229 |  |
 | Eblaitic | šu-du-um /ḏuʕtum/ (SED I 57; VE 1041; Krebernik 1983, 37) | SED I 57; VE 1041; Krebernik 1983, 37 |  |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2452_time_night
 title: "*ʕVt-: 'time; night'"
-desc: "Proto-Semitic *ʕVt-, 'time; night': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʕVt-, 'time; night': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2452"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Soqotri | ḥte; ḥteʰ (SLOnline 161) | SLOnline 161 | gloss withheld |
 | Hebrew | ʕēt (HALOT 899, 900) | HALOT 899, 900 | gloss withheld |
+| Ugaritic | ʕnt (II) (DULAT 168) | DULAT 168 | gloss withheld |
 | Argobba | Cf. etta, yet |  | gloss withheld |
 | Punic | ʿt 'time' | Anderson–Moser 2024 root ʿt |  |
 | Phoenician | ʿt (HALOT 899) | HALOT 899 |  |

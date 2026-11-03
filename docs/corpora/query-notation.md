@@ -4,7 +4,7 @@ title: "Query notation: what each view stores, and how a query reaches it"
 desc: How a typed root or form is read and spelled in each view's own transliteration, and how a matched row reports the basis of its match.
 tags: [corpora, docs]
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-27T17:50:48Z
+updated: 2026-11-03T00:00:00Z
 ---
 
 # Query notation: what each view stores, and how a query reaches it
@@ -12,14 +12,14 @@ updated: 2026-10-27T17:50:48Z
 Each corpus keeps its own transliteration. `tools/ane/ane_keys.py` reads a query once and spells it in every
 notation a view stores (`VIEW_NOTATION`); the data is never rewritten to suit a query. Type a root or form the
 way you would write it — `ʾ-m-r`, `ʔmr`, `√ʾmr`, `'MR`, `s¹`, `s1`, `š`, Hebrew or Arabic letters — and
-`query_proper_names.py` and `query_place_authorities.py` find the stored spelling.
+`tools/ane/aneq.py`, `query_proper_names.py` and `query_place_authorities.py` find the stored spelling.
 
 ## Reading a query
 
 - Composed (NFC); `√` and `*` dropped; case folded (Hebrew and Arabic have none).
 - A hyphen, a dot between single letters, or `√` makes it a **root**; otherwise it is a **form**.
 - One unit per letter: a mark stays on its letter, `s¹`/`s₁`/`s1` is one letter.
-- The aleph signs `ʾ ʔ ʼ` and the ayin signs `ʿ ʕ ‘ ᶜ` are each one letter; a bare `'` is either.
+- The aleph signs `ʾ ʔ ʼ` and the ayin signs `ʿ ʕ ‘ ᶜ` and the backtick are each one letter; a bare `'` is either.
 - ASCII digraphs are read both ways in views without a Manuel de Codage reading: `sh kh th dh gh` ↔ `š ḫ ṯ ḏ ġ`.
 
 ## What each view stores
@@ -63,7 +63,7 @@ both ways. In running text (dasi) the fold never joins two words.
 
 ## Provenance
 
-Every `--json` row carries `provenance`: the files read, each with its size, mtime and sha256 (files over 25 MB:
+Every `aneq.py --json` row carries `provenance`: the files read, each with its size, mtime and sha256 (files over 25 MB:
 size and mtime only), and the query as typed, as read, and its mode.
 
 ## Known gaps

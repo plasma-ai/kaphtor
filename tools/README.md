@@ -10,6 +10,7 @@ The Python package behind the `kaphtor` command.
 | `views/` | The builder that writes `wiki/` from `data/`, and the generated blocks of `docs/corpus-census.md` |
 | `cli/` | The `kaphtor` command: the gate and its index and licence checks |
 
-`paths.py` names every data folder once (`DATA`, `ANE_DATA`, `SHARE_ALIKE`, `LINEAR_A_DATA`) and the query cache
-(`CACHE`, under `$XDG_CACHE_HOME/kaphtor`). Set `KAPHTOR_DATA` to read the data from another folder. A tool whose
+`paths.py` names every data folder once (`DATA`, `ANE_DATA`, `SHARE_ALIKE`, `LINEAR_A_DATA`, `CONTACT_DATA`,
+`SEMITIC_ROOTS_DATA`), the query cache (`CACHE`, under `$XDG_CACHE_HOME/kaphtor`) and the backups folder (`BACKUPS`,
+under `$XDG_STATE_HOME/kaphtor/backups`). Set `KAPHTOR_DATA` to read the data from another folder. A tool whose
 dataset is not in the checkout says so and names the path it looked for.

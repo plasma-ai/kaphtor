@@ -47,10 +47,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
 | [[wiki/linear-a/words/D/DA_I\|DA-I]] | dayu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
+| [[wiki/linear-a/words/D/DU_MA_I_NA\|DU-MA-I-NA]] | ḏū-maʿīna | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_DA\|I-DA]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
 | [[wiki/linear-a/words/I/I_DA_DA\|I-DA-DA]] | dādā | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidamat | CANDIDATE |
+| [[wiki/linear-a/words/I/I_DA_MA_TE\|I-DA-MA-TE]] | ʾidmat | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_MI\|I-DA-MI]] | ʾIda=mi | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_PA3_I_SA_RI\|I-DA-PA₃-I-SA-RI]] | ʾIdā bi-ʾišarī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DU_NE_SI\|I-DU-NE-SI]] | Yidu-naḥši | SPECULATIVE |
@@ -62,17 +63,18 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]] | ikkara | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_KU_JU_TI\|I-KU-JU-TI]] | ʾukulti | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_KU_RI_NA\|I-KU-RI-NA]] | ʾiqurna | CANDIDATE |
-| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | ʾī-Mīšaru | PROBABLE |
+| [[wiki/linear-a/words/I/I_KU_TA\|I-KU-TA]] | Ḥikuptaḥ | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | PROBABLE |
 | [[wiki/linear-a/words/I/I_NA\|I-NA]] | hinna | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_JA_PA_QA\|I-NA-JA-PA-QA]] | hinna yapqaḥ | CANDIDATE |
-| [[wiki/linear-a/words/I/I_NA_JA_RE_TA\|I-NA-JA-RE-TA]] | hinna yirʾat-\[…\] | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_NA_JA_RE_TA\|I-NA-JA-RE-TA]] | hinna yarēʾat-\[…\] | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_TA_I\|I-NA-TA-I]] | ʿInatī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_WA\|I-NA-WA]] | ʾi-nawā | CANDIDATE |
 | [[wiki/linear-a/words/I/I_PA_SA_JA\|I-PA-SA-JA]] | Ipšaja | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_PI_NA_MA\|I-PI-NA-MA]] | ʾippina=ma | PROBABLE |
 | [[wiki/linear-a/words/I/I_PI_NA_MI_NA\|I-PI-NA-MI-NA]] | ʾippina=mi=na | CANDIDATE |
-| [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqa-\*118 | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_RA2\|I-RA₂]] | ʾilā(t) | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_RU_JA\|I-RU-JA]] | Iruja | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_SA_RI\|I-SA-RI]] | ʾišarī | CANDIDATE |
@@ -81,16 +83,17 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_TI\|I-TI]] | ʾitti | CANDIDATE |
 | [[wiki/linear-a/words/I/I_TI_NI_SA\|I-TI-NI-SA]] | ʾItniša | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
+| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_I_NWA_RO\|JA-I-NWA-RO]] | yā ʾanwaru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | SPECULATIVE |
-| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_SA_I_TI\|KO-SA-I-TI]] | Kōšayīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_I_MI\|MA-I-MI]] | mayimi | SPECULATIVE |
-| [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | makisu | CANDIDATE |
-| [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | makita | CANDIDATE |
+| [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]] | Makī-se | SPECULATIVE |
+| [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | Makīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_RI_RE_I\|MA-RI-RE-I]] | marīrēy | CANDIDATE |
+| [[wiki/linear-a/words/M/MA_TI_ZA_I_TE\|MA-TI-ZA-I-TE]] | Matiʿ-zayti | SPECULATIVE |
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_I_TO\|PA-I-TO]] | Paito | CONFIRMED |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | PROBABLE |
@@ -101,5 +104,6 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_ME_I\|TU-ME-I]] | tummī | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | SPECULATIVE |
 
 <!-- END kaphtor:record -->

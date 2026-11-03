@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/G/GRA
 title: "GRA"
 desc: "dagān 'grain, cereal'. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity ideogram"]
+tags: ["linear-a", "word", "tier-3", "commodity", "foodstuff", "grain", "logogram"]
 kind: "word"
 form: "GRA"
 datasets: ["lexicon"]
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | dagān 'grain, cereal' |
 | Root | d-g-n |
 | Proto-Semitic | \*dVng(ʷ)- ~ \*dagan- (#2315) |
-| Language layer | NWS |
-| Category | commodity ideogram |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, grain, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting grain/cereal. 60 standalone, 52 in compounds, 5 sites \|\| ETYMOLOGY: Pan-Semitic \*dagān (Heb. דָּגָן, Ug. dgn, Phoen. dgn). GRA+DA compound (HT133) shows DA as phonetic complement for /da-/ of dagān. DA-KA on 5 HTWa nodules may be phonetic /daga(n)/ equivalent \|\| 4 co-occurrences with A-DU (Storm God) confirm agricultural-cultic context. 47 tablets, 5 sites. Universal Linear B commodity logogram. See DA-KU-NA.
+A commodity logogram, grain: 60 standalone and 52 in compounds, on 47 tablets at 5 sites; Linear B uses it too. dagān 'grain': Heb. דָּגָן, Ug. dgn, Ph. dgn. In GRA+DA (HT 133) DA is the phonetic complement for the da- of dagān, and DA-KA on five HT Wa nodules writes daga(n). Four times it stands with A-DU, the Storm God, an agricultural and cultic setting. See DA-KU-NA.
 
 ### Cognates
 
@@ -49,6 +49,10 @@ Non-phonetic commodity ideogram denoting grain/cereal. 60 standalone, 52 in comp
 | Ugaritic | dgn (I) 'grain, wheat' (DULAT 265) |
 | Hebrew | dāgān 'grain, corn' (HALOT 214) |
 | Phoenician | dgn 'grain' (Krahmalkov 146) |
+
+### Source
+
+di Mino
 
 ## Attestations
 

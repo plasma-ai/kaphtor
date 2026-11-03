@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/515_tear_off_1_break_2_cut_3
 title: "*pVr-: 'tear off' 1, 'break' 2, 'cut' 3"
-desc: "Proto-Semitic *pVr-, 'tear off' 1, 'break' 2, 'cut' 3: reflexes in 7 language(s)."
+desc: "Proto-Semitic *pVr-, 'tear off' 1, 'break' 2, 'cut' 3: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "515"
@@ -35,8 +35,9 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | prr, pwr 2 |  |  |
 | Judaic Aramaic | prr 2 |  |  |
 | Ugaritic | pr (CUC; DULAT 670) | CUC; DULAT 670 | gloss withheld |
-| Aramaic | DA prr (DNWSI 944 apud SEDonline 1321) | DNWSI 944; SEDonline 1321 | gloss withheld |
+| Aramaic | DA prr (DNWSI 944) | DNWSI 944 | gloss withheld |
 | Mehri | frōr (ML 97 apud SEDonline 1321) | ML 97; SEDonline 1321 | gloss withheld |
+| Eblaitic | a-ba-da-ra-ar /la=yiptarar/, nab-da-ra-ar /naptarar/ (Gt) 2 (Sanmartín GlOS 2, 135) | Sanmartín GlOS 2, 135 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

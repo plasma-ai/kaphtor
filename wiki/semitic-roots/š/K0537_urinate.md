@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šatānu 'urinate' | Anderson–Moser 2024 root štn |  |
+| Akkadian | šatānu (AHw 1199) | AHw 1199; Anderson–Moser 2024 root štn | gloss withheld |
 | Aramaic | ŠTN (CAL s.v. štn) | CAL s.v. štn; Anderson–Moser 2024 root štn | gloss withheld |
 | Hebrew | šatan 'urinate' (BDB 1010) | BDB 1010; Anderson–Moser 2024 root štn |  |
 

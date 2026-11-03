@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3225_excellence
 title: "*magd-: 'excellence'"
-desc: "Proto-Semitic *magd-, 'excellence': reflexes in 3 language(s)."
+desc: "Proto-Semitic *magd-, 'excellence': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3225"
@@ -32,6 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | mägäd (Kogan 2015, ch. 3 §5.2 no. 37) (HALOT 543); mǝgādîm (pl.) (HALOT 543) | Kogan 2015 ch. 3 §5.2 no. 37; HALOT 543 | gloss withheld |
 | Syrian Aramaic | magdā (Kogan 2015, ch. 3 §5.2 no. 37; HALOT 543) | Kogan 2015 ch. 3 §5.2 no. 37; HALOT 543 | gloss withheld |
 | Arabic | maǯd- (Kogan 2015, ch. 3 §5.2 no. 37; Lane 2690) | Kogan 2015 ch. 3 §5.2 no. 37; Lane 2690 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mgdt; ʾmgd (Al-Jallad 2026, 90) | Al-Jallad 2026 90 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

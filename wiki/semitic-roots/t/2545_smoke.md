@@ -30,13 +30,13 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Tigre | tänan |  |  |
-| Geez | tann (Kogan 2015, ch. 6 §4 no. 14) | Kogan 2015 ch. 6 §4 no. 14 |  |
-| Gurage | Sod Cha tän |  |  |
+| Tigre | tänan; tänna, (tə)tänänä (v.) (LGz. 577) | LGz. 577 | gloss withheld |
+| Geez | tann (Kogan 2015, ch. 6 §4 no. 14); tanna (LGz. 577) | Kogan 2015 ch. 6 §4 no. 14; LGz. 577 | gloss withheld |
+| Gurage | Sod Cha tän; tännänä (LGz. 577) | LGz. 577 |  |
 | Modern Aramaic | Urm tin- |  |  |
 | Amharic | tännänä |  | gloss withheld |
 | Syrian Aramaic | tān- |  |  |
-| Gafat | tännä |  |  |
+| Gafat | tännä; tännänä (v.) (LGz. 577) | LGz. 577 | gloss withheld |
 | Aramaic | Pal tenan (DJPA 587a apud CAL) | DJPA 587a; CAL |  |
 | Harari | tänäna (v.), tän (n.) \[LHar 150\] | LHar 150 | gloss withheld |
 

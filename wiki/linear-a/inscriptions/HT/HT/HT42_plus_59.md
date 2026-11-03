@@ -49,7 +49,7 @@ Transliteration, line by line:
 7. 𐝫
 8. \]OLE+MI 2
 9. SU-DU
-10. RE-TU OLE+KI \]³⁄₄
+10. \]-RE-TU OLE+KI \]³⁄₄
 11. OLE+U
 
 Unicode (Linear A block):
@@ -72,25 +72,25 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> \[…\]-TA · Šapšu · offering: genuine oil 8, U-oil\[…\] 7. Royal allocation: genuine oil 8, U-oil 2; 2. KU-\[…\] oil\[…\]. \[break\]. Anointing oil 2. Šaddû: \[allocation lost\]. Rēʿtu: genuine oil ³⁄₄, U-oil \[quantity lost\].
+> \[…\]-TA · salt-works · offering: genuine oil 8, U-oil\[…\] 7. Royal allocation: genuine oil 8, U-oil 2; 2. KU-\[…\] oil\[…\]. \[break\]. Anointing oil 2. SU-DU \[…\]. \[…\] RE-TU: genuine oil ³⁄₄, U-oil \[quantity lost\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | \]-TA |  | end of a broken word. Not readable. |  |  |
-| [[wiki/linear-a/words/S/SI_plus_SE\|SI+SE]] | Šapšu | sun goddess (recipient of offering) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/S/SI_plus_SE\|SI+SE]] | ṣiṣe | the salt-works (recipient of oil); rival Šipšu, the Sun-deity | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | offering, contribution | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_KI\|OLE+KI]] | šamnu kīnu | genuine oil (standard grade). 8 + 8 + ³⁄₄ units across three sections | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | šamnu U | U-grade oil (highest-frequency OLE compound, 22 att.; specific grade TBD). 7 + 2 + \[qty lost\] units | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | royal allocation/account—the King's oil entry, coordinate with the Šapšu block (šarr- royal-title family) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarr | the king's account (oil) | CANDIDATE | CANDIDATE (lexicon) |
 | KU-\[ |  | start of a broken word. Not readable. |  |  |
 | \]OLE\[ | šamnu | oil, broken on both sides | PROBABLE |  |
 | [[wiki/linear-a/words/O/OLE_plus_MI\|OLE+MI]] | šamnu mišḥā | anointing oil (sacred/ceremonial grade). 2 units | CANDIDATE | CANDIDATE (lexicon) |
-| SU-DU | Šaddû | personal name: 'Mountain(eer)'—recipient heading (allocation on damaged section) | SPECULATIVE |  |
-| RE-TU | Rēʿtu | personal name: 'Shepherdess'—recipient heading, receives OLE+KI ³⁄₄ + OLE+U \[broken\] | SPECULATIVE |  |
+| [[wiki/linear-a/words/S/SU_DU\|SU-DU]] |  | unread |  | unread |
+| [[wiki/linear-a/words/R/RE_TU_broken_start\|&#93;-RE-TU]] |  | unread |  | unread |
 
 ### Notes
 
-Context: Oil allocation ledger: three oil grades (genuine/kīnu, U-grade, anointing/mišḥā) distributed under headings including Šapšu offering and two personal-name recipients. Joined tablet (HT42 + HT59), Villa Magazine, LM IB.  Joined tablet (HT42 + HT59), 20 signs, 11 unique words. Oil-only allocation ledger—no grain, wine, or figs—suggesting a specialized oil store or ritual oil supply. Three oil grades appear: OLE+KI (genuine/standard), OLE+U (U-grade), OLE+MI (anointing). Structural pattern: heading (\]-TA · SI+SE · TE, the first word broken before TA) → allocations → SA-RO royal-allocation block (coordinate with the Šapšu block: same two oil grades) → allocations → KU-\[ \]OLE\[ (a broken word, then oil broken on both sides) → break → OLE+MI section → PN recipients. The two PNs (Šaddû, Rēʿtu) receive small amounts in the tail, possibly individual rations or personal allocations from the temple store. SU-DU and RE-TU are proposed as PNs at SPECULATIVE confidence.
+Context: Oil allocation ledger: three oil grades (genuine/kīnu, U-grade, anointing/mišḥā) distributed under headings including the salt-works offering. Joined tablet (HT42 + HT59), Villa Magazine, LM IB.  Joined tablet (HT42 + HT59), 20 signs, 11 unique words. Oil-only allocation ledger—no grain, wine, or figs—suggesting a specialized oil store or ritual oil supply. Three oil grades appear: OLE+KI (genuine/standard), OLE+U (U-grade), OLE+MI (anointing). Structural pattern: heading (\]-TA · SI+SE · TE, the first word broken before TA) → allocations → SA-RO royal-allocation block (coordinate with the salt-works block: same two oil grades) → allocations → KU-\[ \]OLE\[ (a broken word, then oil broken on both sides) → break → OLE+MI section → SU-DU and RE-TU, both unread: SU-DU may run on to a lost line, and a word may be lost before RE-TU.
 
 ## Lexicon words citing this document
 
@@ -98,6 +98,6 @@ Context: Oil allocation ledger: three oil grades (genuine/kīnu, U-grade, anoint
 
 ## Corpus note
 
-On HT 59, SU-DU ends line 1 after OLE+MI and RE-TU opens line 2; only the line break separates them, with no divider, so SU-DU-RE-TU may be one word. OLE+MI's 2 is not certain on the photo or facsimile.
+On HT 59, A622 (OLE+MI) precedes SU-DU with no divider; SU-DU may run on to a lost line, and a word may be lost before RE-TU. OLE+MI's 2 is not certain on the photo or facsimile.
 
 <!-- END kaphtor:record -->

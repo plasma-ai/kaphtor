@@ -64,7 +64,7 @@ or commentary is carried.
 | --- | --- | --- | --- |
 | H1 Ugaritic prayer | 20 | `CUC KTU 1.x` | Copenhagen Ugaritic Corpus, `auto_parsing/0.2.7` (surface forms, DULAT lemma column): CC BY-NC 4.0 |
 | H1 Hebrew Psalms | 24 | `OSHB Ps` | Open Scriptures Hebrew Bible, morphhb (words, Strong's lemmas): CC BY 4.0 |
-| H3 Ugaritic prose | 24 | `CUC KTU 2.x`, `KTU 3.x` | Copenhagen Ugaritic Corpus: CC BY-NC 4.0 |
+| H3 Ugaritic prose | 24 | `CUC KTU 2.x` | Copenhagen Ugaritic Corpus: CC BY-NC 4.0 |
 | H2 Egyptian | 24 | `ORAEC htp-dj-nswt` | ORAEC (Open Richly Annotated Egyptian Corpus) sentences and lemma ids: CC BY-SA 4.0 |
 | H2 Luwian | 19 | `ACLT <text>` | Annotated Corpus of Luwian Texts (Ilya Yakubovich, web-corpora.net/LuwianCorpus), forms and lemmata as derived fields: ACLT states no licence, describes itself as a work in progress, and asks to be credited with its URL; the same terms as [rival-roots.md](../rival-roots.md) |
 | NEG Linear B | 17 | `DAMOS/DMic` | DAMOS (Database of Mycenaean at Oslo, Federico Aurora, https://damos.hf.uio.no) tablets and forms, lemmatized by Aura Jorro's *Diccionario Micénico* I–II (Madrid 1985, 1993) headwords, as derived fields with that credit |

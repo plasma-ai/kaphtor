@@ -1,11 +1,11 @@
 ---
 name: wiki/linear-a/words/R/RA_star164_TI
 title: "RA-*164-TI"
-desc: "Onomasticon personal name, no reading."
-tags: ["linear-a", "word"]
+desc: "Unread (role only): personal name; 2 occurrence(s)."
+tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "RA-*164-TI"
-datasets: ["onomasticon"]
+datasets: ["onomasticon", "unread_words"]
 attestations: ["HT17", "HT19"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -32,8 +32,8 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | Ra-\*164-ti (\*164 unread) | institutional/account heading—\*164 is non-phonetic (standalone on 12-13 Khania roundels), so the label is functionally read, not vocalized | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | Ra-\*164-ti (\*164 unread) | institutional/account heading—\*164 is non-phonetic (standalone on 12-13 Khania roundels), so the label is functionally read, not vocalized | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] |  | account heading (unread) |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] |  | account heading (unread) |  |
 
 ## Onomasticon
 
@@ -42,9 +42,19 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 2 in 2 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 2 |
+
+### Note
+
+Heads the wine tablets HT 17 and HT 19, · TE · VIN 38 and 30 (GORILA I 35, 37). \*164 has no resolved value. No reading.
+
+## Unread
+
+Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
+
+Heads both wine tablets of HT Scribe 18, whole on each: HT17 .1–2 RA-\*164-TI · TE · VIN 38, TE over an erasure, then SA-RO 10 and SI-DA-RE 5 (GORILA I 35); HT19 .1–2 RA-\*164-TI · TE · VIN 30, then SA-RO 5½ and DU-ME-DI 43½ (GORILA I 37). \*164 has no resolved value. No reading.
 
 <!-- END kaphtor:record -->

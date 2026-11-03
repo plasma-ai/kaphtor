@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/6_father_1_grandfather_2
 title: "*bāb-: 'father' 1, 'grandfather' 2"
-desc: "Proto-Semitic *bāb-, 'father' 1, 'grandfather' 2: reflexes in 9 language(s)."
+desc: "Proto-Semitic *bāb-, 'father' 1, 'grandfather' 2: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "6"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | bābā 1 (Brock 57) | Brock 57 |  |
 | Hausa | bāba (OLA80 §62.2) | OLA80 §62.2 | gloss withheld |
 | Libyco-Berber | bāba (OLA80 §62.2) | OLA80 §62.2 | gloss withheld |
+| Geez | bābā 2 (LGz. 85) | LGz. 85 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

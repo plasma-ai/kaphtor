@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RI_SU_MA
 title: "RI-SU-MA"
 desc: "rīšum(a): head, chief quality; first quality. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+tags: ["linear-a", "word", "tier-2", "administrative", "noun"]
 kind: "word"
 form: "RI-SU-MA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | head, chief quality; first quality |
 | Root | r-ʾ-š |
 | Proto-Semitic | \*raʾ(i)š- (#2000) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Akk. rēšum, Ug. rʔiš, Heb. rōʾš; -MA preserves archaic nominative mimation -um; HT81+HT115a allocation contexts with GRA+BOSm, KA-PO-RU; related: RE-SU 1× HT37, A-RI-SU 1× HT118 in list summing to KU-RO 30. \|\| Huehnergard: Ug riš /raʾšu/ "head"; qatl nominal (triradical CvCC, sound root). Pl. rāšm /raʾāšūma/ and rāšt/rišt /raʾ(a)šātu/. BH cognate: rōʾš &lt; \*rāšu &lt; \*raʾsu "head"; pl. rāʾšīm &lt; \*rəʾāšīm &lt; \*raʾasima (Huehnergard 2012, pp. 41-42). See RO.
+HT 115a, a GRA+BOSm list: RI-SU-MA, then SU 2 ⅕, after KA-PO-RU 1; HT 81: RI-SU-MA with the fraction L4, after A-SE · MI+JA+RU ≈ ⅙. rīšum 'head, first quality', with the nominative mimation -um: Ug. rỉš /raʾšu/ 'head' (Huehnergard 2012, 41–42), Heb. rōʾš, Akk. rēšum. Cf. RE-SU (HT 37) and A-RI-SU (HT 118, in a list summing to KU-RO 30). Two attestations. See RO.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Akk. rēšum, Ug. rʔiš, Heb. rōʾš; -MA preserves archaic nominative mimatio
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; Huehnergard 2012
 
 ## Attestations
 

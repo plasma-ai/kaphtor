@@ -9,7 +9,7 @@ site: "Phaistos"
 support: "Tablet"
 period: ""
 translation: "incomplete"
-words: ["U-DI-RI-KI"]
+words: ["DI-PA-JA", "JA-RU-MA-NE", "U-DI-RI-KI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 Transliteration, line by line:
 
 1. 𐝫
-2. DI-PA-JA\[
+2. DI-PA-JA 𐝫
 3. U-DI-RI-KI\[
 4. \]JA-RU-MA-NE\[
 5. JA-SI-DA-RA\[
@@ -60,27 +60,27 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> DI-PA-JA\[…\]. And the way\[…\]. \[…\]JA-RU-MA-NE\[…\]. JA-SI-DA-RA\[…\].
+> Dipas (vessel). And the way\[…\]. \[…\] Yarīmān \[…\]. JA-SI-DA-RA\[…\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/D/DI_PA_JA_broken_end\|DI-PA-JA&#91;]] |  | broken after. Not readable. |  | unread |
+| [[wiki/linear-a/words/D/DI_PA_JA\|DI-PA-JA]] | dipaya | dipas, a large handled vessel | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | and the way/path | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/J/JA_RU_MA_NE_broken_both\|&#93;JA-RU-MA-NE&#91;]] |  | broken before and after. Not readable. |  | unread |
+| [[wiki/linear-a/words/J/JA_RU_MA_NE\|JA-RU-MA-NE]] | Yarīmān | Yarīmān (personal name) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/J/JA_SI_DA_RA_broken_end\|JA-SI-DA-RA&#91;]] |  | broken after. Not readable. |  | unread |
 
 ### Notes
 
-Upper edge broken; every line broken at the right (GORILA I 295). Reverse (PH7b) has quantities. .1 loses its end, .3 its start and end, .4 its last sign; .2 U-DI-RI-KI is whole. The traces after .2 and .3 may be dotted unit strokes, which would make the face a list of entries.
+Upper edge broken; every line broken at the right (GORILA I 295). Reverse (PH7b) has quantities. .3 loses its start and end, .4 its last sign; .1 DI-PA-JA and .2 U-DI-RI-KI are whole. The traces after .2 and .3 may be dotted unit strokes, which would make the face a list of entries.
 
 ### Source
 
-- di Mino: U-DI-RI-KI
+- di Mino: DI-PA-JA, U-DI-RI-KI
 - GORILA I 295: transcription, damage
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/U/U_DI_RI_KI|U-DI-RI-KI]].
+[[wiki/linear-a/words/D/DI_PA_JA|DI-PA-JA]], [[wiki/linear-a/words/J/JA_RU_MA_NE|JA-RU-MA-NE]], [[wiki/linear-a/words/U/U_DI_RI_KI|U-DI-RI-KI]].
 
 ## Corpus note
 

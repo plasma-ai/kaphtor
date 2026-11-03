@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/496_throw
 title: "*ṣVraʕ-: 'throw'"
-desc: "Proto-Semitic *ṣVraʕ-, 'throw': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṣVraʕ-, 'throw': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "496"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ṣrʕ \[-a-\] |  |  |
 | Soqotri | ṣer(r) |  |  |
+| Canaanite | EG SYLL ḏa=ra=ʿa /\*ṣaraʿa/ (Hoch 392–393) | Hoch 392–393 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

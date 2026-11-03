@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | rʿm, raʿam (HALOT 1266, 1267) | HALOT 1266, 1267 | gloss withheld |
 | Judaic Aramaic | rəʿam, rəʿēm, raʿămā (HALOT 1266, 1267; DJPA 528a apud CAL) | HALOT 1266, 1267; DJPA 528a; CAL |  |
 | Syrian Aramaic | rəʿem, raʿmā (HALOT 1266, 1267; Payne Smith 546) | HALOT 1266, 1267; Payne Smith 546 |  |
-| Mandaic Aramaic | RAM, RUM, rima (HALOT 1266, 1267; Drower/Macuch 421a apud CAL) | HALOT 1266, 1267; Macuch 421a; CAL |  |
+| Mandaic Aramaic | RAM, RUM, rima (HALOT 1266, 1267; MD 421) | HALOT 1266, 1267; MD 421 |  |
 | Geez | raʿama, răʿām (HALOT 1266, 1267) | HALOT 1266, 1267 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

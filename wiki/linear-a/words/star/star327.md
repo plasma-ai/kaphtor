@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star327
 title: "*327"
-desc: "personnel-class logogram, counted beside VIR (men); class unknown. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "logogram"]
+desc: "personnel-class logogram, counted beside VIR (men). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "logogram", "personnel"]
 kind: "word"
 form: "*327"
 datasets: ["lexicon"]
@@ -31,9 +31,9 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | personnel-class logogram, counted beside VIR (men); class unknown |
-| Language layer | unresolved |
-| Category | logogram |
+| Meaning | personnel-class logogram, counted beside VIR (men) |
+| Language layer | logogram |
+| Tags | logogram, personnel |
 | Semantic field | personnel |
 
 ### Note

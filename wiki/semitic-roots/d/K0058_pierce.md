@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Aramaic | DQR (DNWSI 258 apud CAL) | DNWSI 258; CAL; Anderson–Moser 2024 root dqr | gloss withheld |
+| Aramaic | DQR (DNWSI 258) | DNWSI 258; Anderson–Moser 2024 root dqr | gloss withheld |
 | Hebrew | daqar 'pierce' (BDB 201) | BDB 201; Anderson–Moser 2024 root dqr |  |
 | Syrian Aramaic | dqar 'dig, pierce; gore, butt' (Payne Smith 96) | Payne Smith 96 |  |
 | Amorite | d-q-r: cf. da-aq-qar-tum (Sanmartín GlOS 1, 145) | Sanmartín GlOS 1, 145 | gloss withheld |

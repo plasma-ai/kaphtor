@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RI
 title: "A-RI"
 desc: "harrī: mountain of (construct state before divine names). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "A-RI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | mountain of (construct state before divine names) |
 | Root | h-r-r |
 | Proto-Semitic | \*har- (#K0084) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | toponym |
 
 ### Note
 
-Initial h- carried by plain vowel sign per guttural-carrier convention; genitive -ī as the construct chain requires (nawā harrī DN 'dwelling of the mountain of DN'). harrī is preferred over ʿalē 'upon, for' and ʾarī 'lion': the A-RA/A-RI/A-RU full u/i/a triple argues nominal inflection against a frozen preposition, and the house dative is la- (RE/RA). Rival parse: harr-ī 'my mountain', 1cs suffix, an Ebla name (Pagan 1998, row 789). PH 6 has it twice, .1 I-NA-WA · A-RI and .3 A-RI. HT 141 .1 A-RI-\[ runs into the break after RI (GORILA I 239), and PH 28a A-RI-JA-\[ breaks after JA.
+PH 6 .1 I-NA-WA · A-RI and .3 A-RI. harrī 'mountain of', the construct before a divine name, genitive -ī (nawā harrī DN 'dwelling of the mountain of DN'): Hebrew har (HALOT 254), Ugaritic hr 'mountain' (DULAT 341), the Amarna gloss ḫa-ar-ri on ḪUR.SAG (EA 74:20), Emar harru (Pentiuc 2001, 57); h unwritten, as in A-KI-DA-RO. Rivals: ʿalē 'upon, for' and ʾarī 'lion'; the A-RA/A-RI/A-RU triple of a, i and u argues an inflected noun against a frozen preposition, and the house dative is la- (RE/RA). Rival parse: harr-ī 'my mountain', 1cs suffix, an Ebla name (Pagan 1998, row 789). HT 141 .1 A-RI-\[ runs into the break after RI (GORILA I 239), and PH 28a A-RI-JA-\[ breaks after JA.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Initial h- carried by plain vowel sign per guttural-carrier convention; genitive
 
 ### Source
 
-di Mino; Pentiuc 2001; Pagan 1998; GlOS 1
+di Mino; HALOT; DULAT; Pentiuc 2001; Pagan 1998; GlOS 1
 
 ## Attestations
 

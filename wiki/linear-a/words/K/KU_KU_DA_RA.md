@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_KU_DA_RA
 title: "KU-KU-DA-RA"
 desc: "Kukkadal: Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "KU-KU-DA-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kukkadal |
 | Meaning | Kukkadal (Hurrian personal name), kukk- + adal 'strong'; rival ḳdr 'dark' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -71,7 +71,7 @@ di Mino; NPN; Laroche GLH; Monti 2017
 | Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |

@@ -34,10 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Roundel 1 |
+
+### Note
+
+HT Wc 3006 a WA-O-MI, RA-\*314-RA on side b (GORILA II 73). No reading.
 
 ## Unread
 

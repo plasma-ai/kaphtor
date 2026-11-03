@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2538_sit_in_a_saddle_q
 title: "*glš: 'sit (in a saddle?)'"
-desc: "Proto-Semitic *glš, 'sit (in a saddle?)': reflexes in 9 language(s)."
+desc: "Proto-Semitic *glš, 'sit (in a saddle?)': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2538"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | gǝlas |  | gloss withheld |
 | Harari | gǝlas |  | gloss withheld |
 | Tigrinya | gäläsä, gǝlas |  | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic gls; tgls; Hismaic gls (Al-Jallad 2026, 50) | Al-Jallad 2026 50 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

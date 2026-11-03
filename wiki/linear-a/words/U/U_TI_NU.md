@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_TI_NU
 title: "U-TI-NU"
 desc: "-u-tī-n(u): verbal ending: indicative -u + 2fs -tī + -n(u) 'us'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "grammar"]
+tags: ["linear-a", "word", "tier-2", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "U-TI-NU"
 datasets: ["lexicon"]
@@ -33,13 +33,13 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | -u-tī-n(u) |
 | Meaning | verbal ending: indicative -u + 2fs -tī + -n(u) 'us' |
-| Language layer | NWS |
-| Category | grammar |
+| Language layer | Semitic |
+| Tags | libation_formula, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Ending of the petition verb: TA-NA-RA-TE-U-TI-NU (IO Za 2), TA-NA-I-\*301-U-TI-NU (IO Za 6), \]U-TI-NU · I-NA-I-DA-\[ (IO Za 11, broken before U). Davis, Thomas and Monti isolate it (Monti 2022, 111–112). U = indicative -u, TI = 2fs -tī, which fixes the ta- prefix as 2fs, as in PS Za 2 TA-NA-I-\*301-TI 'may you (f.) answer', NU = -n(u) 'us' (di Mino, Ya Diktu; cf. Eblaite accusative -nu, Kogan and Krebernik 2021, 754). Rival: -NU the precative particle (cf. Heb. nāʾ, Ps 119:108). U-TI-NU never stands free (Thomas 2020).
+Ending of the petition verb: TA-NA-RA-TE-U-TI-NU (IO Za 2), TA-NA-I-\*301-U-TI-NU (IO Za 6), \]U-TI-NU · I-NA-I-DA-\[ (IO Za 11, broken before U). Davis, Thomas and Monti isolate it (Monti 2022, 111–112). U = indicative -u, TI = 2fs -tī, which fixes the ta- prefix as 2fs, as in PS Za 2 TA-NA-I-\*301-TI 'may you (f.) answer', NU = -n(u) 'us' (di Mino, Ya Diktu; cf. Eblaite accusative -nu, Kogan and Krebernik 2021, 754). Thomas takes -u-, -ti- and -nu as three suffixes, not one morpheme (Thomas 2020, 16). Rival: -NU the precative particle (cf. Heb. nāʾ, Ps 119:108). Three attestations.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Ending of the petition verb: TA-NA-RA-TE-U-TI-NU (IO Za 2), TA-NA-I-\*301-U-TI-N
 
 ### Source
 
-di Mino
+di Mino; Monti 2022; Kogan and Krebernik 2021; Thomas 2020
 
 ## Attestations
 

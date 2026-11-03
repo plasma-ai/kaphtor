@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_MI_NA_SI
 title: "U-MI-NA-SI"
 desc: "Ummī-naśiʾ: My mother is chief/exalted (sentence name). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "compound", "personal_name"]
 kind: "word"
 form: "U-MI-NA-SI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | My mother is chief/exalted (sentence name) |
 | Root | ʾ-m-m + n-ś-ʾ |
 | Proto-Semitic | \*ʾu/imm- (#1839) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Sentence name: ʾummī 'my mother' (geminate mm spelled with a single sign) + naśiʾ 'chief, exalted one' (√n-ś-ʾ 'lift'; the title independently PROBABLE at \*301-SI). Both attestations stand in the header, outside the count: on HT117a (MA-KA-RI-TE KI-RO U-MI-NA-SI) the roster's ten qty-1 entries sum exactly to KU-RO 10 with U-MI-NA-SI excluded—the responsible party, not a counted worker; on HT28b it stands in the header pair with A-SI-JA-KA before the commodity block. U- is radical, not the proclitic 'and': bare MI-NA-SI and DI-MI are unattested anywhere in the corpus, and the tablet's other U- words resolve as radical—U-SU (ʾUšu, mainland Tyre) and U-DI-MI (ʾUdumī, man of Udum), both Amarna-anchored origin labels—leaving no conjunctive u- on HT117a. The mother-element is attested in Amorite feminine names (Ummum-ka-abī 'the mother is like my father'); a mother-exalting name suits a goddess-primary administration. Rival: u-Minasī 'and-Minasī'—MI-NA-SI sign-for-sign = Neo-Assyrian Mi-na-si-i (Manasseh), √m-n-n with mnn→mnš dissimilation, beside MI-NA-NE (CONFIRMED); requires the conjunction, the dissimilation, and an eight-century reach to the Neo-Assyrian match. \|\| The Ugaritic mnn → mnš pair is not attested in the Copenhagen Ugaritic Corpus or DULAT; the Ugaritic tribute word is mnḥ (KTU 3.8:21, 3.10:1; mnḥy 'offering' KTU 1.2 I 38). See DA-NA-SI, U-\*49.
+HT 117a and HT 28b, in the header both times, outside the count: on HT 117a (MA-KA-RI-TE KI-RO U-MI-NA-SI) the roster's ten entries of 1 sum to KU-RO 10 without it, the responsible party, not a counted worker; on HT 28b it stands in the header pair with A-SI-JA-KA before the commodity block. Ummī-naśiʾ 'My mother is chief', a sentence name: ʾummī 'my mother', the geminate mm written with one sign, with naśiʾ 'chief, exalted one' (√n-ś-ʾ 'lift'; see \*301-SI). U- is radical: bare MI-NA-SI and DI-MI occur nowhere in the corpus, and the tablet's other U- words are radical too, U-SU ʾUšu, mainland Tyre, and U-DI-MI ʾUdmī, the man of Udum, origin labels known from Amarna. Amorite women's names carry the mother element (Ummum-ka-abī 'the mother is like my father'). Rival: u-Minasī 'and Minasī', MI-NA-SI sign for sign the Neo-Assyrian Mi-na-si-i (Manasseh), √m-n-n with mnn &gt; mnš, beside MI-NA-NE; it needs the conjunction, the dissimilation and an eight-century reach, and the Ugaritic mnn &gt; mnš pair is in neither the Copenhagen Ugaritic Corpus nor DULAT, where the tribute word is mnḥ (KTU 3.8:21, 3.10:1; mnḥy 'offering', KTU 1.2 I 38). See DA-NA-SI, U-\*49.
 
 ### Cognates
 

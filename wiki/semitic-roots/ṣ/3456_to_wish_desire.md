@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/3456_to_wish_desire
 title: "*ṣbw: 'to wish, desire'"
-desc: "Proto-Semitic *ṣbw, 'to wish, desire': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ṣbw, 'to wish, desire': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3456"
@@ -31,6 +31,10 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Akkadian | ṣabû (AHw. 1073, CAD Ṣ 119 apud SEDonline 2075) | AHw. 1073, CAD Ṣ 119; SEDonline 2075 | gloss withheld |
 | Arabic | ṣbw (Lane 1649 apud SEDonline 2075) | Lane 1649; SEDonline 2075 | gloss withheld |
+| Hebrew | \*צבה, in צְבִי (HALOT 997) | HALOT 997 | gloss withheld |
+| Amorite | ṣbʾ: ṣabaʾum, ṣabiʾum, ṣabuʾum, ṣabʾum, ṣibʾum, fem. ṣibʾatum, ṣubʾum (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |
+| Eblaitic | /ṣubyān/: name zu-ba-an (Sanmartín GlOS 2, 214) | Sanmartín GlOS 2, 214 | gloss withheld |
+| Biblical Aramaic | צבה (HALOT BArm. s.v. צבה) | HALOT BArm. s.v. צבה | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

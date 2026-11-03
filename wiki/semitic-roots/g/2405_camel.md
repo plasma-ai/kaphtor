@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Off. gml \[HJ 226\]. // Nab. gml \[HJ 226\]. // Plm. gml \[HJ 226\]. | HJ 226 | gloss withheld |
 | Tigrinya | gämäl 'camel, dromedary' \[Bass. 820\] | Bass. 820 |  |
 | Modern Aramaic | Maʕl. ɣamla, Hrt. gumla, Jil. gumla, Krd. gumla, NSyr. gümla, NAssyr. gʸümlä, gumla, JNA gumla, Tlk. gumla, Tur. gamlo, M.Mnd. gomlā (SED II 116–117) | SED II 116–117 |  |
-| Pre-Islamic North Arabian | Safaitic gml (Al-Jallad–Jaworska 72) | Al-Jallad–Jaworska 72 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic gml (Al-Jallad–Jaworska 72); Dadanitic gml; Taymanitic gml; Dumaitic gml; Hismaic gml; Thamudic B gml (Al-Jallad 2026, 50) | Al-Jallad–Jaworska 72; Al-Jallad 2026 50 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

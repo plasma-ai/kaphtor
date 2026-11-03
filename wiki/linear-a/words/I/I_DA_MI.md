@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_DA_MI
 title: "I-DA-MI"
 desc: "ʾIda=mi: Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "toponym"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "toponym"]
 kind: "word"
 form: "I-DA-MI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Ida, 'the Hand', the sacred mountain, with emphatic enclitic -mi |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, toponym |
 | Semantic field | toponym |
 
 ### Note
@@ -67,8 +67,8 @@ di Mino; Huehnergard 2012; Dahood
 
 | Field | Value |
 |---|---|
-| Type | toponym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | toponym (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
@@ -77,6 +77,6 @@ di Mino; Huehnergard 2012; Dahood
 
 ### Note
 
-SY Za 1, after A-TA-I-\*301-WA-JA, the slot of JA-DI-KI-TU. I-DA with enclitic -mi.
+SY Za 1, after A-TA-I-\*301-WA-JA, the slot of JA-DI-KI-TU. ʾIda with the emphatic enclitic -mi, as I-PI-NA-MI-NA. See the lexicon entry.
 
 <!-- END kaphtor:record -->

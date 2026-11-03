@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/254_whelp_cub
 title: "*gVr-: 'whelp, cub'"
-desc: "Proto-Semitic *gVr-, 'whelp, cub': reflexes in 11 language(s)."
+desc: "Proto-Semitic *gVr-, 'whelp, cub': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "254"
@@ -41,6 +41,9 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | D.-Alla gr (Hackett 1980 128) | Hackett 1980 128 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic grw (Al-Jallad–Jaworska 73) | Al-Jallad–Jaworska 73 | gloss withheld |
 | Epigraphic South Arabian | Sab grw (Biella 76) | Biella 76 | gloss withheld |
+| Eblaitic | gūr: names gú-la, gú-li, gú-lu, gul-la, gur-a, gú-ra-u₉, a-bù-gú-ra, ù-gú-ra, gur-da-mu, gu₄-ra-da-mu, gú-ra-zi (Sanmartín GlOS 1, 193); guwayr: name gú-wa-lu (Sanmartín GlOS 1, 193) | Sanmartín GlOS 1, 193 | gloss withheld |
+| Amorite | gūr: names gu-ri, gu-ri-ia, fem. gu-ra-tum (Sanmartín GlOS 1, 193) | Sanmartín GlOS 1, 193 | gloss withheld |
+| Emar | gūr: names gu-ru, gu-ur-a, gu-ra-nu, gu-ri-nu (Sanmartín GlOS 1, 193) | Sanmartín GlOS 1, 193 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

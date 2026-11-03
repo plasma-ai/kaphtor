@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/2860_cry_out
 title: "*zVʿVq-: 'cry out'"
-desc: "Proto-Semitic *zVʿVq-, 'cry out': reflexes in 4 language(s)."
+desc: "Proto-Semitic *zVʿVq-, 'cry out': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2860"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | zʿq (BDB 277; HALOT 277) | BDB 277; HALOT 277 | gloss withheld |
 | Aramaic | z-ʿ-q 'cry out, shout' (Aramaic Root Atlas 1175) | Aramaic Root Atlas 1175 |  |
 | Syrian Aramaic | zʕaq 'call, shout, cry out' (Payne Smith 119) | Payne Smith 119 |  |
+| Biblical Aramaic | zʿq (HALOT BArm. s.v. זעק) | HALOT BArm. s.v. זעק | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

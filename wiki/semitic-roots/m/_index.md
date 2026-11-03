@@ -2,20 +2,20 @@
 name: wiki/semitic-roots/m
 desc: "Semitic roots whose first radical is m."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-31T13:28:57Z
+updated: 2026-11-07T20:00:58Z
 ---
 
 # wiki/semitic-roots/m
 
 [[wiki/semitic-roots/_index|..]]
 
-[[wiki/semitic-roots/m/1022_mix|1022_mix]]: Proto-Semitic *mVŝug-, 'mix': reflexes in 1 language(s).
+[[wiki/semitic-roots/m/1022_mix_1_mixed_drink_2|1022_mix_1_mixed_drink_2]]: Proto-Semitic *mVŝug-, 'mix' 1, 'mixed drink' 2: reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/1024_be_full|1024_be_full]]: Proto-Semitic *mVlVʾ-, 'be full': reflexes in 24 language(s).
+[[wiki/semitic-roots/m/1024_be_full|1024_be_full]]: Proto-Semitic *mVlVʾ-, 'be full': reflexes in 25 language(s).
 
-[[wiki/semitic-roots/m/1032_pull_stretch_1_march_quickly_advance_2|1032_pull_stretch_1_march_quickly_advance_2]]: Proto-Semitic *muṭ-, 'pull, stretch' 1, 'march quickly, advance' 2: reflexes in 4 language(s).
+[[wiki/semitic-roots/m/1032_pull_stretch_1_march_quickly_advance_2|1032_pull_stretch_1_march_quickly_advance_2]]: Proto-Semitic *muṭ-, 'pull, stretch' 1, 'march quickly, advance' 2: reflexes in 5 language(s).
 
-[[wiki/semitic-roots/m/1053_property|1053_property]]: Proto-Semitic *matāʕ-, 'property': reflexes in 1 language(s).
+[[wiki/semitic-roots/m/1053_property_1_to_enjoy_2|1053_property_1_to_enjoy_2]]: Proto-Semitic *matāʕ-, 'property' 1, 'to enjoy' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/m/1084_fat_1_fat_cattle_2_to_be_fat_3|1084_fat_1_fat_cattle_2_to_be_fat_3]]: Proto-Semitic *mrʾ ~ *mariʾ-, 'fat' 1, 'fat cattle' 2, 'to be fat' 3: reflexes in 8 language(s).
 
@@ -41,15 +41,13 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/1304_uncle|1304_uncle]]: Proto-Semitic *maḫāʾ-, 'uncle': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/1307_fit_for_military_service|1307_fit_for_military_service]]: Proto-Semitic *mas(s)-, 'fit for military service': reflexes in 1 language(s).
-
 [[wiki/semitic-roots/m/1309_princely|1309_princely]]: Proto-Semitic *mutVl-, 'princely': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/m/1315_kind_of_clothes|1315_kind_of_clothes]]: Proto-Semitic *muṣuH-, 'kind of clothes': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/m/1345_night_1_last_night_2_yesterday_3_evening_4_twili|1345_night_1_last_night_2_yesterday_3_evening_4_twili]]: Proto-Semitic *(ʾa-)mVš-, 'night' 1, 'last night' 2, 'yesterday' 3, 'evening' 4, 'twilight' 5: reflexes in 15 language(s).
 
-[[wiki/semitic-roots/m/1692_subordinate_service_man_soldier_1_skilled_2|1692_subordinate_service_man_soldier_1_skilled_2]]: Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier' 1, 'skilled' 2: reflexes in 10 language(s).
+[[wiki/semitic-roots/m/1692_subordinate_service_man_soldier_1_skilled_2_to_h|1692_subordinate_service_man_soldier_1_skilled_2_to_h]]: Proto-Semitic *mary/w- / *mahir-, 'subordinate; service man, soldier' 1, 'skilled' 2, 'to hasten' 3: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/m/1693_stick|1693_stick]]: Proto-Semitic *makVy-, 'stick': reflexes in 1 language(s).
 
@@ -57,7 +55,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/1695_desert|1695_desert]]: Proto-Semitic *malaʾ-, 'desert': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/1697_healthy_strong|1697_healthy_strong]]: Proto-Semitic *mar-, 'healthy, strong': reflexes in 4 language(s).
+[[wiki/semitic-roots/m/1697_healthy_strong|1697_healthy_strong]]: Proto-Semitic *mar-, 'healthy, strong': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/1698_rob|1698_rob]]: Proto-Semitic *mVšVʾ-, 'rob': reflexes in 1 language(s).
 
@@ -65,11 +63,11 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/1702_child_1_twin_2_man_husband_male_grown_up_3|1702_child_1_twin_2_man_husband_male_grown_up_3]]: Proto-Semitic *ma/iṯ-, 'child' 1, 'twin' 2, 'man, husband, male, grown-up' 3: reflexes in 10 language(s).
 
-[[wiki/semitic-roots/m/1703_to_have_intercourse_to_love_desire|1703_to_have_intercourse_to_love_desire]]: Proto-Semitic *mny, 'to have intercourse; to love, desire': reflexes in 16 language(s).
+[[wiki/semitic-roots/m/1703_to_have_intercourse_to_love_desire|1703_to_have_intercourse_to_love_desire]]: Proto-Semitic *mny, 'to have intercourse; to love, desire': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/m/1704_many_much_1_very_2|1704_many_much_1_very_2]]: Proto-Semitic *mVʾad-, 'many, much' 1, 'very' 2: reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/1705_salt|1705_salt]]: Proto-Semitic *mi/alḥ-, 'salt': reflexes in 13 language(s).
+[[wiki/semitic-roots/m/1705_salt|1705_salt]]: Proto-Semitic *mi/alḥ-, 'salt': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/m/173_top_of_the_head_brain_marrow|173_top_of_the_head_brain_marrow]]: Proto-Semitic *muḫḫ-, '(top of the) head; brain; marrow': reflexes in 9 language(s).
 
@@ -87,7 +85,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/1973_tendon_sinew_muscle_1_string_of_an_instrument_2|1973_tendon_sinew_muscle_1_string_of_an_instrument_2]]: Proto-Semitic *mVn-(at-), 'tendon, sinew; muscle' 1, 'string (of an instrument)' 2: reflexes in 5 language(s).
 
-[[wiki/semitic-roots/m/1974_gall_gall_bladder|1974_gall_gall_bladder]]: Proto-Semitic *mi/ar(V)r-(at-), 'gall, gall-bladder': reflexes in 16 language(s).
+[[wiki/semitic-roots/m/1974_gall_gall_bladder|1974_gall_gall_bladder]]: Proto-Semitic *mi/ar(V)r-(at-), 'gall, gall-bladder': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/m/1976_skin|1976_skin]]: Proto-Semitic *ma/išk- {} *ma/isk-, 'skin': reflexes in 10 language(s).
 
@@ -117,81 +115,79 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/2406_earth|2406_earth]]: Proto-Semitic *mar-, 'earth': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/m/2407_kind_type|2407_kind_type]]: Proto-Semitic *min-, 'kind, type': reflexes in 3 language(s).
+[[wiki/semitic-roots/m/2407_kind_type_1_form_2|2407_kind_type_1_form_2]]: Proto-Semitic *min-, 'kind, type' 1, 'form' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/m/2437_herd_rich_in_cattle_booty_bride_prize|2437_herd_rich_in_cattle_booty_bride_prize]]: Proto-Semitic *mawl- ~ *mVly-at-, 'herd, rich in cattle; booty; bride-prize': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/m/2447_mead_drink_made_from_fermented_honey|2447_mead_drink_made_from_fermented_honey]]: Proto-Semitic *mays-, 'mead, drink made from fermented honey': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/m/2453_spread_on_oinment|2453_spread_on_oinment]]: Proto-Semitic *mrḥ/ḫ, 'spread on oinment': reflexes in 3 language(s).
+[[wiki/semitic-roots/m/2453_spread_on_oinment|2453_spread_on_oinment]]: Proto-Semitic *mrḥ/ḫ, 'spread on oinment': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/2470_dust_dirt_ashes|2470_dust_dirt_ashes]]: Proto-Semitic *midr- ~ *ramad-, 'dust, dirt, ashes': reflexes in 13 language(s).
+[[wiki/semitic-roots/m/2470_dust_dirt_ashes|2470_dust_dirt_ashes]]: Proto-Semitic *midr- ~ *ramad-, 'dust, dirt, ashes': reflexes in 14 language(s).
 
 [[wiki/semitic-roots/m/2504_spread_stretch_out|2504_spread_stretch_out]]: Proto-Semitic *mtt/y, 'spread, stretch out': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/m/2522_not|2522_not]]: Proto-Semitic *ma, 'not': reflexes in 3 language(s).
+[[wiki/semitic-roots/m/2522_not|2522_not]]: Proto-Semitic *ma, 'not': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/2557_reach|2557_reach]]: Proto-Semitic *mVṯ̣Vʾ-, 'reach': reflexes in 17 language(s).
+[[wiki/semitic-roots/m/2557_reach|2557_reach]]: Proto-Semitic *mVṯ̣Vʾ-, 'reach': reflexes in 19 language(s).
 
-[[wiki/semitic-roots/m/2559_what_q_1_anything_whatever_2|2559_what_q_1_anything_whatever_2]]: Proto-Semitic *min, 'what?' 1, 'anything, whatever' 2: reflexes in 14 language(s).
+[[wiki/semitic-roots/m/2559_what_q_1_anything_whatever_2|2559_what_q_1_anything_whatever_2]]: Proto-Semitic *min, 'what?' 1, 'anything, whatever' 2: reflexes in 16 language(s).
 
-[[wiki/semitic-roots/m/2560_what_q|2560_what_q]]: Proto-Semitic *ma(h), 'what?': reflexes in 18 language(s).
+[[wiki/semitic-roots/m/2560_what_q_1_lest_2|2560_what_q_1_lest_2]]: Proto-Semitic *ma(h), 'what?' 1, 'lest' 2: reflexes in 19 language(s).
 
-[[wiki/semitic-roots/m/2564_who_q|2564_who_q]]: Proto-Semitic *man(nu), 'who?': reflexes in 21 language(s).
+[[wiki/semitic-roots/m/2564_who_q|2564_who_q]]: Proto-Semitic *man(nu), 'who?': reflexes in 24 language(s).
 
-[[wiki/semitic-roots/m/2565_who_q|2565_who_q]]: Proto-Semitic *mi/a, 'who?': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/2565_who_q|2565_who_q]]: Proto-Semitic *mi/a, 'who?': reflexes in 10 language(s).
 
 [[wiki/semitic-roots/m/257_cat|257_cat]]: Proto-Semitic *muḫādiŝ-, 'cat': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/2604_to_pluck_pull_out_hair|2604_to_pluck_pull_out_hair]]: Proto-Semitic *mrṭ, 'to pluck, pull out hair': reflexes in 8 language(s).
+[[wiki/semitic-roots/m/2604_to_pluck_pull_out_hair|2604_to_pluck_pull_out_hair]]: Proto-Semitic *mrṭ, 'to pluck, pull out hair': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/m/2620_beat|2620_beat]]: Proto-Semitic *mḫṣ, 'beat': reflexes in 18 language(s).
 
 [[wiki/semitic-roots/m/2638_k_of_wine_or_beer|2638_k_of_wine_or_beer]]: Proto-Semitic *mVʒ(r)-, 'k. of wine or beer': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/m/2665_vehicle_boat_chariot|2665_vehicle_boat_chariot]]: Proto-Semitic *markab-, 'vehicle, boat, chariot': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/2665_vehicle_boat_chariot|2665_vehicle_boat_chariot]]: Proto-Semitic *markab-, 'vehicle, boat, chariot': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/2666_sailor_mariner|2666_sailor_mariner]]: Proto-Semitic *malāḥ-, 'sailor, mariner': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/m/2671_ford_crossing_passage|2671_ford_crossing_passage]]: Proto-Semitic *maʕbar-, 'ford, crossing, passage': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/m/2676_boundary_border_territory_Egypt|2676_boundary_border_territory_Egypt]]: Proto-Semitic *miṣr-, 'boundary, border, territory; Egypt': reflexes in 6 language(s).
-
-[[wiki/semitic-roots/m/2703_measure_portion_share_fate|2703_measure_portion_share_fate]]: Proto-Semitic *maniy-at-, 'measure, portion, share; fate': reflexes in 9 language(s).
+[[wiki/semitic-roots/m/2676_boundary_border_territory_Egypt|2676_boundary_border_territory_Egypt]]: Proto-Semitic *miṣr-, 'boundary, border, territory; Egypt': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/2712_altar_place_of_sacrifice|2712_altar_place_of_sacrifice]]: Proto-Semitic *maḏbaḥ-, 'altar (place of sacrifice)': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/m/2714_to_anoint_smear|2714_to_anoint_smear]]: Proto-Semitic *mašḥ-, 'to anoint, smear': reflexes in 13 language(s).
+[[wiki/semitic-roots/m/2714_to_anoint_smear|2714_to_anoint_smear]]: Proto-Semitic *mašḥ-, 'to anoint, smear': reflexes in 15 language(s).
 
-[[wiki/semitic-roots/m/2717_standing_stone_stela_pillar|2717_standing_stone_stela_pillar]]: Proto-Semitic *maṣṣēb-at-, 'standing stone, stela, pillar': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/2717_standing_stone_stela_pillar|2717_standing_stone_stela_pillar]]: Proto-Semitic *maṣṣēb-at-, 'standing stone, stela, pillar': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/m/2725_appointed_time_festival_assembly|2725_appointed_time_festival_assembly]]: Proto-Semitic *mōʕēd-, 'appointed time, festival; assembly': reflexes in 4 language(s).
+[[wiki/semitic-roots/m/2725_appointed_time_festival_assembly|2725_appointed_time_festival_assembly]]: Proto-Semitic *mōʕēd-, 'appointed time, festival; assembly': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/m/2753_pasture_wilderness_steppe|2753_pasture_wilderness_steppe]]: Proto-Semitic *midbVr-, 'pasture, wilderness, steppe': reflexes in 3 language(s).
+[[wiki/semitic-roots/m/2753_pasture_wilderness_steppe|2753_pasture_wilderness_steppe]]: Proto-Semitic *midbVr-, 'pasture, wilderness, steppe': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/m/2758_spring_fountain|2758_spring_fountain]]: Proto-Semitic *maʕyān-, 'spring, fountain': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/2759_death_Mot_god_of_death|2759_death_Mot_god_of_death]]: Proto-Semitic *māwit-, 'death; Mot (god of death)': reflexes in 12 language(s).
+[[wiki/semitic-roots/m/2759_death_Mot_god_of_death|2759_death_Mot_god_of_death]]: Proto-Semitic *māwit-, 'death; Mot (god of death)': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/m/2772_Melqart_king_of_the_city_Tyrian_Heracles|2772_Melqart_king_of_the_city_Tyrian_Heracles]]: Proto-Semitic *milk-qart-, 'Melqart (king of the city; Tyrian Heracles)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/2805_be_smooth|2805_be_smooth]]: Proto-Semitic *mVlVṣ-, 'be smooth': reflexes in 2 language(s).
+[[wiki/semitic-roots/m/2805_be_smooth_1_slip_away_escape_2|2805_be_smooth_1_slip_away_escape_2]]: Proto-Semitic *mVlVṣ-, 'be smooth' 1, 'slip away, escape' 2: reflexes in 7 language(s).
 
-[[wiki/semitic-roots/m/2808_nail|2808_nail]]: Proto-Semitic *mismār-, 'nail': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/2808_nail|2808_nail]]: Proto-Semitic *mismār-, 'nail': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/2912_sour|2912_sour]]: Proto-Semitic *mVṣ̂Vṣ̂-, 'sour': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/m/2965_manna_divine_food_heavenly_sustenance|2965_manna_divine_food_heavenly_sustenance]]: Proto-Semitic *mann-, 'manna; divine food, heavenly sustenance': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/2966_fate_destiny_the_goddess_Manat_pre_Islamic_deity|2966_fate_destiny_the_goddess_Manat_pre_Islamic_deity]]: Proto-Semitic *manāt-, 'fate, destiny; the goddess Manāt (pre-Islamic deity of fate)': reflexes in 3 language(s).
+[[wiki/semitic-roots/m/2966_fate_destiny_the_goddess_Manat_pre_Islamic_deity|2966_fate_destiny_the_goddess_Manat_pre_Islamic_deity]]: Proto-Semitic *manāt-, 'fate, destiny; the goddess Manāt (pre-Islamic deity of fate)': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/m/2968_Minos_Cretan_law_giver_king_apportioner_of_justi|2968_Minos_Cretan_law_giver_king_apportioner_of_justi]]: Proto-Semitic *mīnōs-, 'Minos (Cretan law-giver king; apportioner of justice)': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/2977_cave_cavern|2977_cave_cavern]]: Proto-Semitic *mVġVr-at-, 'cave, cavern': reflexes in 5 language(s).
+[[wiki/semitic-roots/m/2977_cave_cavern|2977_cave_cavern]]: Proto-Semitic *mVġVr-at-, 'cave, cavern': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/2980_oar_rudder|2980_oar_rudder]]: Proto-Semitic *mašwāṭ-, 'oar, rudder': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/m/2981_net_dragnet_fishing|2981_net_dragnet_fishing]]: Proto-Semitic *mikmart-, 'net, dragnet (fishing)': reflexes in 1 language(s).
+[[wiki/semitic-roots/m/2981_net_dragnet_fishing|2981_net_dragnet_fishing]]: Proto-Semitic *mikmart-, 'net, dragnet (fishing)': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/m/2985_month_mp_Phoenician_calendar|2985_month_mp_Phoenician_calendar]]: Proto-Semitic *mpʕ-, 'month mpʕ (Phoenician calendar)': reflexes in 1 language(s).
 
@@ -203,17 +199,17 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/3217_broth|3217_broth]]: Proto-Semitic *maraḳ-, 'broth': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/m/3218_from_1_than_2|3218_from_1_than_2]]: Proto-Semitic *min, 'from' 1, 'than' 2: reflexes in 8 language(s).
+[[wiki/semitic-roots/m/3218_from_1_than_2|3218_from_1_than_2]]: Proto-Semitic *min, 'from' 1, 'than' 2: reflexes in 15 language(s).
 
-[[wiki/semitic-roots/m/3225_excellence|3225_excellence]]: Proto-Semitic *magd-, 'excellence': reflexes in 3 language(s).
+[[wiki/semitic-roots/m/3225_excellence|3225_excellence]]: Proto-Semitic *magd-, 'excellence': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/3256_to_face_approach_to_accept|3256_to_face_approach_to_accept]]: Proto-Semitic *mḫr, 'to face, approach; to accept': reflexes in 5 language(s).
+[[wiki/semitic-roots/m/3256_to_face_approach_to_accept_1_equivalent_price_2|3256_to_face_approach_to_accept_1_equivalent_price_2]]: Proto-Semitic *mḫr, 'to face, approach; to accept' 1, 'equivalent, price' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/m/3258_bride_price_dowry|3258_bride_price_dowry]]: Proto-Semitic *mVhr-, 'bride-price, dowry': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/m/3269_to_tear|3269_to_tear]]: Proto-Semitic *mzʕ, 'to tear': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/m/3326_queen|3326_queen]]: Proto-Semitic *mlk, 'queen': reflexes in 12 language(s).
+[[wiki/semitic-roots/m/3326_queen|3326_queen]]: Proto-Semitic *mlk, 'queen': reflexes in 14 language(s).
 
 [[wiki/semitic-roots/m/3349_heel|3349_heel]]: Proto-Semitic *madram-, 'heel': reflexes in 3 language(s).
 
@@ -229,21 +225,19 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/3461_hammer_pick_boring_tool|3461_hammer_pick_boring_tool]]: Proto-Semitic *mnḳb, 'hammer, pick, boring tool': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/m/3462_justice_rectitude|3462_justice_rectitude]]: Proto-Semitic *mayšar-, 'justice, rectitude': reflexes in 5 language(s).
+[[wiki/semitic-roots/m/3462_justice_rectitude|3462_justice_rectitude]]: Proto-Semitic *mayšar-, 'justice, rectitude': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/m/3467_comb|3467_comb]]: Proto-Semitic *muŝṭ-, 'comb': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/3469_myrrh|3469_myrrh]]: Proto-Semitic *mrr, 'myrrh': reflexes in 9 language(s).
-
-[[wiki/semitic-roots/m/3477_to_rebel|3477_to_rebel]]: Proto-Semitic *mrd, 'to rebel': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/3477_to_rebel|3477_to_rebel]]: Proto-Semitic *mrd, 'to rebel': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/m/3512_flood_high_water|3512_flood_high_water]]: Proto-Semitic *mlʾ, 'flood, high water': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/m/3550_drought_to_suffer_drought|3550_drought_to_suffer_drought]]: Proto-Semitic *mḥl, 'drought; to suffer drought': reflexes in 2 language(s).
+[[wiki/semitic-roots/m/3550_drought_to_suffer_drought|3550_drought_to_suffer_drought]]: Proto-Semitic *mḥl, 'drought; to suffer drought': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/m/3592_to_advise_counsel_to_devise_plot|3592_to_advise_counsel_to_devise_plot]]: Proto-Semitic *mkr, 'to advise, counsel; to devise, plot': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/m/3593_to_advise_counsel_to_deliberate|3593_to_advise_counsel_to_deliberate]]: Proto-Semitic *mlk, 'to advise, counsel; to deliberate': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/3593_to_advise_counsel_to_deliberate|3593_to_advise_counsel_to_deliberate]]: Proto-Semitic *mlk, 'to advise, counsel; to deliberate': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/m/3605_to_churn|3605_to_churn]]: Proto-Semitic *mwṣ, 'to churn': reflexes in 2 language(s).
 
@@ -259,7 +253,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/3743_to_decay_rot_to_become_corrupt_rotten|3743_to_decay_rot_to_become_corrupt_rotten]]: Proto-Semitic *mḏr, 'to decay, rot; to become corrupt, rotten': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/m/3755_to_pinch_off_pull_out|3755_to_pinch_off_pull_out]]: Proto-Semitic *mlq, 'to pinch off, pull out': reflexes in 2 language(s).
+[[wiki/semitic-roots/m/3755_to_pinch_off_pull_out|3755_to_pinch_off_pull_out]]: Proto-Semitic *mlq, 'to pinch off, pull out': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/m/3756_to_macerate_steep_preserved_marinated|3756_to_macerate_steep_preserved_marinated]]: Proto-Semitic *mḳr, 'to macerate, steep; preserved, marinated': reflexes in 2 language(s).
 
@@ -267,25 +261,127 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/3776_bestow_grant_a_favour_1_favour_benefit_2|3776_bestow_grant_a_favour_1_favour_benefit_2]]: Proto-Semitic *mVnn-, 'bestow, grant a favour' 1, 'favour, benefit' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/m/3794_when_q_interrogative_adverb|3794_when_q_interrogative_adverb]]: Proto-Semitic *matay, 'when?' (interrogative adverb): reflexes in 5 language(s).
+[[wiki/semitic-roots/m/3794_when_q_interrogative_adverb|3794_when_q_interrogative_adverb]]: Proto-Semitic *matay, 'when?' (interrogative adverb): reflexes in 6 language(s).
 
-[[wiki/semitic-roots/m/3797_enclitic_topicalizing_and_emphatic_particle|3797_enclitic_topicalizing_and_emphatic_particle]]: Proto-Semitic *=ma, enclitic topicalizing and emphatic particle: reflexes in 4 language(s).
+[[wiki/semitic-roots/m/3797_enclitic_topicalizing_and_emphatic_particle_1_ad|3797_enclitic_topicalizing_and_emphatic_particle_1_ad]]: Proto-Semitic *=ma, 'enclitic topicalizing and emphatic particle' 1, 'adverbial enclitic' 2: reflexes in 5 language(s).
 
 [[wiki/semitic-roots/m/3858_to_despise_reject|3858_to_despise_reject]]: Proto-Semitic *mʾs, 'to despise, reject': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/m/386_knife|386_knife]]: Proto-Semitic *mVdy-, 'knife': reflexes in 1 language(s).
 
+[[wiki/semitic-roots/m/3878_market_place_forum_town_quay_harbor|3878_market_place_forum_town_quay_harbor]]: Proto-Semitic *maḫāz-, 'market place, forum; town; quay, harbor': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3880_to_suck_out_press_out_fluid|3880_to_suck_out_press_out_fluid]]: Proto-Semitic *mzʾ/y, 'to suck out, press out fluid': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/3893_spell_incantation_formula|3893_spell_incantation_formula]]: Proto-Semitic *mnt, 'spell, incantation formula': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/m/3895_to_rule_1_royal_2|3895_to_rule_1_royal_2]]: Proto-Semitic *mVšVl-, 'to rule' 1, 'royal' 2: reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/3914_vessel_receptacle|3914_vessel_receptacle]]: Proto-Semitic *maʔn-, 'vessel, receptacle': reflexes in 2 language(s).
+
 [[wiki/semitic-roots/m/395_stick|395_stick]]: Proto-Semitic *mVṭīl-, 'stick': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/480_go_away_1_pass_by_pass_over_2|480_go_away_1_pass_by_pass_over_2]]: Proto-Semitic *mur-, 'go away' 1, 'pass by, pass over' 2: reflexes in 3 language(s).
+[[wiki/semitic-roots/m/3966_garden_meadow|3966_garden_meadow]]: Proto-Semitic *maʾl-, 'garden, meadow': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/m/3967_settling_basin_overflow_channel|3967_settling_basin_overflow_channel]]: Proto-Semitic *mdy, 'settling basin, overflow channel': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/m/3975_to_wipe_out_erase_obliteration|3975_to_wipe_out_erase_obliteration]]: Proto-Semitic *mḥq, 'to wipe out, erase; obliteration': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/3976_to_attack_to_go_on_a_military_expedition|3976_to_attack_to_go_on_a_military_expedition]]: Proto-Semitic *mṣr, 'to attack; to go on a military expedition': reflexes in 1 language(s).
+
+[[wiki/semitic-roots/m/4065_to_stretch_out_be_long_1_a_measure_of_length_2|4065_to_stretch_out_be_long_1_a_measure_of_length_2]]: Proto-Semitic *mtḥ, 'to stretch out, be long' 1, 'a measure of length' 2: reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/4067_container_pot_small_jug|4067_container_pot_small_jug]]: Proto-Semitic *maqarr-at-, 'container, pot, small jug': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4072_frost_1_winter_2|4072_frost_1_winter_2]]: Proto-Semitic *mamm-, 'frost' 1, 'winter' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4073_to_pull_away|4073_to_pull_away]]: Proto-Semitic *mṣḫ, 'to pull (away)': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4078_to_draw_forth_eject|4078_to_draw_forth_eject]]: Proto-Semitic *mry, 'to draw forth, eject': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4221_to_open_be_painful_of_a_wound_1_difficult_2|4221_to_open_be_painful_of_a_wound_1_difficult_2]]: Proto-Semitic *mʾr, 'to open, be painful (of a wound)' 1, 'difficult' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4222_to_make_fun_of_jeer_1_shameless_2|4222_to_make_fun_of_jeer_1_shameless_2]]: Proto-Semitic *mgn, 'to make fun of, jeer' 1, 'shameless' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4224_belt_waistband_1_to_gird_2|4224_belt_waistband_1_to_gird_2]]: Proto-Semitic *mizḫ-, 'belt, waistband' 1, 'to gird' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4225_to_favour_1_to_be_hostile_towards_fend_off_2|4225_to_favour_1_to_be_hostile_towards_fend_off_2]]: Proto-Semitic *myl, 'to favour' 1, 'to be hostile towards, fend off' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4226_to_refuse_1_to_be_abhorrent_2|4226_to_refuse_1_to_be_abhorrent_2]]: Proto-Semitic *mʾn, 'to refuse' 1, 'to be abhorrent' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4227_blemish_injury|4227_blemish_injury]]: Proto-Semitic *mūm-, 'blemish, injury': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/4229_to_hesitate_tarry_1_slow_pace_2|4229_to_hesitate_tarry_1_slow_pace_2]]: Proto-Semitic *mhh, 'to hesitate, tarry' 1, 'slow pace' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4230_to_dilute_1_juice_liquid_2|4230_to_dilute_1_juice_liquid_2]]: Proto-Semitic *mhl, 'to dilute' 1, 'juice, liquid' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4232_threshing_sledge|4232_threshing_sledge]]: Proto-Semitic *mawrag-, 'threshing sledge': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4233_red_earth_1_ground_overgrown_with_weeds_2|4233_red_earth_1_ground_overgrown_with_weeds_2]]: Proto-Semitic *mšḳ, 'red earth' 1, 'ground overgrown with weeds' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4234_to_escape_save|4234_to_escape_save]]: Proto-Semitic *mlṭ, 'to escape, save': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/4235_to_act_unfaithfully_embezzle_disloyalty_treacher|4235_to_act_unfaithfully_embezzle_disloyalty_treacher]]: Proto-Semitic *mɣl, 'to act unfaithfully, embezzle; disloyalty, treachery': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4238_to_squeeze_crush|4238_to_squeeze_crush]]: Proto-Semitic *mʕk, 'to squeeze, crush': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4240_bridle|4240_bridle]]: Proto-Semitic *mitg-, 'bridle': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4242_to_hand_on_transmit_1_to_count_select_2|4242_to_hand_on_transmit_1_to_count_select_2]]: Proto-Semitic *msr, 'to hand on, transmit' 1, 'to count, select' 2: reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/4244_to_stagger_waver|4244_to_stagger_waver]]: Proto-Semitic *mʕd, 'to stagger, waver': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4245_mountain_peak_mountain_stronghold_place_of_refug|4245_mountain_peak_mountain_stronghold_place_of_refug]]: Proto-Semitic *mṣd, 'mountain peak, mountain stronghold, place of refuge': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4246_to_be_recalcitrant_rebellious_1_to_rival_wrangle|4246_to_be_recalcitrant_rebellious_1_to_rival_wrangle]]: Proto-Semitic *mry, 'to be recalcitrant, rebellious' 1, 'to rival, wrangle' 2: reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/4248_craw_oesophagus|4248_craw_oesophagus]]: Proto-Semitic *mrʾ, 'craw, oesophagus': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4330_to_rub_off_polish_clean_to_crush_fine_1_ointment|4330_to_rub_off_polish_clean_to_crush_fine_1_ointment]]: Proto-Semitic *mrq, 'to rub off, polish, clean; to crush fine' 1, 'ointment, cosmetic anointing' 2: reflexes in 6 language(s).
+
+[[wiki/semitic-roots/m/4359_to_measure_measured_share_portion|4359_to_measure_measured_share_portion]]: Proto-Semitic *mšḥ, 'to measure; measured share, portion': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/m/4427_door_post|4427_door_post]]: Proto-Semitic *mazūzat-, 'door-post': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4443_to_circumcise_1_circumcision_2|4443_to_circumcise_1_circumcision_2]]: Proto-Semitic *mwl, 'to circumcise' 1, 'circumcision' 2: reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4449_to_rot|4449_to_rot]]: Proto-Semitic *mḳḳ, 'to rot': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4472_must|4472_must]]: Proto-Semitic *mrṯ, 'must': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4482_sufficiency_quantity|4482_sufficiency_quantity]]: Proto-Semitic *missat-, 'sufficiency, quantity': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/4485_to_pluck_pick|4485_to_pluck_pick]]: Proto-Semitic *mlg, 'to pluck, pick': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4486_interpreter_go_between|4486_interpreter_go_between]]: Proto-Semitic *mlṣ, 'interpreter, go-between': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4598_soften_a_hide_rub|4598_soften_a_hide_rub]]: Proto-Semitic *mḥn, 'soften a hide, rub': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4599_tower_fort|4599_tower_fort]]: Proto-Semitic *maḥfad-, 'tower, fort': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4600_hurry_set_out_run_swiftly|4600_hurry_set_out_run_swiftly]]: Proto-Semitic *mlʕ, 'hurry, set out; run swiftly': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/4601_dally_be_wanton|4601_dally_be_wanton]]: Proto-Semitic *mlġ, 'dally, be wanton': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4602_be_smooth_gleam_polish|4602_be_smooth_gleam_polish]]: Proto-Semitic *mls, 'be smooth, gleam, polish': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/m/4603_staff_rod|4603_staff_rod]]: Proto-Semitic *markVz-, 'staff, rod': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/m/4604_north_wind|4604_north_wind]]: Proto-Semitic *mVsʕ-, 'north wind': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/4605_spread_out_disperse|4605_spread_out_disperse]]: Proto-Semitic *mṣr, 'spread out, disperse': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/m/4606_melt_flow_of_a_liquid|4606_melt_flow_of_a_liquid]]: Proto-Semitic *myʕ, 'melt, flow (of a liquid)': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/m/480_go_away_1_pass_by_pass_over_2_speck_3|480_go_away_1_pass_by_pass_over_2_speck_3]]: Proto-Semitic *mur-, 'go away' 1, 'pass by, pass over' 2, 'speck' 3: reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/481_go_fast_of_horses|481_go_fast_of_horses]]: Proto-Semitic *mVṭur-, 'go fast (of horses)': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/m/489_walk|489_walk]]: Proto-Semitic *mVŝVy-, 'walk': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/m/52_king|52_king]]: Proto-Semitic *malik-, 'king': reflexes in 19 language(s).
+[[wiki/semitic-roots/m/52_king|52_king]]: Proto-Semitic *malik-, 'king': reflexes in 22 language(s).
 
-[[wiki/semitic-roots/m/53_son_boy_1_child_2_lord_3_man_4_husband_5|53_son_boy_1_child_2_lord_3_man_4_husband_5]]: Proto-Semitic *marʾ-, 'son, boy' 1, 'child' 2, 'lord' 3, 'man' 4, 'husband' 5: reflexes in 9 language(s).
+[[wiki/semitic-roots/m/53_son_boy_1_child_2_lord_3_man_4_husband_5|53_son_boy_1_child_2_lord_3_man_4_husband_5]]: Proto-Semitic *marʾ-, 'son, boy' 1, 'child' 2, 'lord' 3, 'man' 4, 'husband' 5: reflexes in 10 language(s).
 
 [[wiki/semitic-roots/m/54_man|54_man]]: Proto-Semitic *marʕ-, 'man': reflexes in 1 language(s).
 
@@ -295,13 +391,13 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/56_husband_man|56_husband_man]]: Proto-Semitic *mi/ut-, 'husband', 'man': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/m/571_be_pressed|571_be_pressed]]: Proto-Semitic *muk-, 'be pressed': reflexes in 1 language(s).
+[[wiki/semitic-roots/m/571_be_pressed_sink_1_low_place_2|571_be_pressed_sink_1_low_place_2]]: Proto-Semitic *muk-, 'be pressed, sink' 1, 'low place' 2: reflexes in 3 language(s).
 
-[[wiki/semitic-roots/m/604_speak|604_speak]]: Proto-Semitic *mVl-, 'speak': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/604_speak|604_speak]]: Proto-Semitic *mVl-, 'speak': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/m/628_look|628_look]]: Proto-Semitic *mVḳul-, 'look': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/643_count_1_test_try_2_be_certain_believe_3_be_secur|643_count_1_test_try_2_be_certain_believe_3_be_secur]]: Proto-Semitic *mVnVw- ~ *ʾVmVn-, 'count' 1, 'test, try' 2, 'be certain, believe' 3, 'be secure, safe; make secure, protect' 4: reflexes in 23 language(s).
+[[wiki/semitic-roots/m/643_count_1_test_try_2_be_certain_believe_3_be_secur|643_count_1_test_try_2_be_certain_believe_3_be_secur]]: Proto-Semitic *mVnVw- ~ *ʾVmVn-, 'count' 1, 'test, try' 2, 'be certain, believe' 3, 'be secure, safe; make secure, protect' 4, 'measure, portion, share; fate' 5: reflexes in 25 language(s).
 
 [[wiki/semitic-roots/m/673_cement|673_cement]]: Proto-Semitic *milāṭ-, 'cement': reflexes in 3 language(s).
 
@@ -309,9 +405,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/710_soak_dissolve_pour|710_soak_dissolve_pour]]: Proto-Semitic *mVḫVḫ-, 'soak, dissolve, pour': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/711_water|711_water]]: Proto-Semitic *maʾ-/*may-, 'water': reflexes in 22 language(s).
-
-[[wiki/semitic-roots/m/712_drop|712_drop]]: Proto-Semitic *mar-, 'drop': reflexes in 1 language(s).
+[[wiki/semitic-roots/m/711_water|711_water]]: Proto-Semitic *maʾ-/*may-, 'water': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/m/725_streaming_water_1_rain_2|725_streaming_water_1_rain_2]]: Proto-Semitic *miṭar-, 'streaming water' 1, 'rain' 2: reflexes in 12 language(s).
 
@@ -321,7 +415,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/763_straw|763_straw]]: Proto-Semitic *maw(V)ṣ-, 'straw': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/m/772_meadow|772_meadow]]: Proto-Semitic *marg- (?), 'meadow': reflexes in 2 language(s).
+[[wiki/semitic-roots/m/772_meadow|772_meadow]]: Proto-Semitic *marg- (?), 'meadow': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/m/785_tomorrow|785_tomorrow]]: Proto-Semitic *maḥār-, 'tomorrow': reflexes in 5 language(s).
 
@@ -329,31 +423,31 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/845_suck|845_suck]]: Proto-Semitic *mVṣ-, 'suck': reflexes in 13 language(s).
 
-[[wiki/semitic-roots/m/850_give_offer|850_give_offer]]: Proto-Semitic *mnḥ, 'give, offer': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/850_give_offer|850_give_offer]]: Proto-Semitic *mnḥ, 'give, offer': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/m/854_bring_away|854_bring_away]]: Proto-Semitic *mutaʕ-, 'bring away': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/860_stretch_spread_measure|860_stretch_spread_measure]]: Proto-Semitic *mdd, 'stretch, spread, measure': reflexes in 13 language(s).
+[[wiki/semitic-roots/m/860_stretch_spread_measure_garment_cloak|860_stretch_spread_measure_garment_cloak]]: Proto-Semitic *mdd, 'stretch, spread, measure; garment, cloak': reflexes in 14 language(s).
 
-[[wiki/semitic-roots/m/938_forbid_refuse|938_forbid_refuse]]: Proto-Semitic *mVnaʕ-, 'forbid, refuse': reflexes in 4 language(s).
+[[wiki/semitic-roots/m/938_forbid_refuse|938_forbid_refuse]]: Proto-Semitic *mVnaʕ-, 'forbid, refuse': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/m/943_be_weak|943_be_weak]]: Proto-Semitic *maha/un-, 'be weak': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/945_to_die|945_to_die]]: Proto-Semitic *mw/yt, 'to die': reflexes in 27 language(s).
+[[wiki/semitic-roots/m/945_to_die|945_to_die]]: Proto-Semitic *mw/yt, 'to die': reflexes in 28 language(s).
 
 [[wiki/semitic-roots/m/946_weak_suffering_pain|946_weak_suffering_pain]]: Proto-Semitic *marih-, 'weak, suffering pain': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/K0145_shield|K0145_shield]]: Proto-Semitic *mVgVn-, 'shield': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/K0145_shield|K0145_shield]]: Proto-Semitic *mVgVn-, 'shield': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/m/K0148_pull|K0148_pull]]: Proto-Semitic *mVlVḫ-, 'pull': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/K0148_pull|K0148_pull]]: Proto-Semitic *mVlVḫ-, 'pull': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/m/K0149_shave|K0149_shave]]: Proto-Semitic *mVlVṭ-, 'shave': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/K0150_wealth|K0150_wealth]]: Proto-Semitic *mVmVn-, 'wealth': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/K0152_place|K0152_place]]: Proto-Semitic *maqām-, 'place': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/K0152_place|K0152_place]]: Proto-Semitic *maqām-, 'place': reflexes in 7 language(s).
 
-[[wiki/semitic-roots/m/K0153_bitter|K0153_bitter]]: Proto-Semitic *marār-, 'bitter': reflexes in 17 language(s).
+[[wiki/semitic-roots/m/K0153_bitter_1_myrrh_2|K0153_bitter_1_myrrh_2]]: Proto-Semitic *marār-, 'bitter' 1, 'myrrh' 2: reflexes in 20 language(s).
 
 [[wiki/semitic-roots/m/K0156_clean|K0156_clean]]: Proto-Semitic *mVsVḥ-, 'clean': reflexes in 2 language(s).
 
@@ -365,9 +459,9 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/K0162_weigh_scales|K0162_weigh_scales]]: Proto-Semitic *mVzVn-, 'weigh; scales': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/m/K0163_drag|K0163_drag]]: Proto-Semitic *mašak-, 'drag': reflexes in 7 language(s).
+[[wiki/semitic-roots/m/K0163_drag|K0163_drag]]: Proto-Semitic *mašak-, 'drag': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/m/K0164_melt|K0164_melt]]: Proto-Semitic *mVsVw-, 'melt': reflexes in 3 language(s).
+[[wiki/semitic-roots/m/K0164_melt|K0164_melt]]: Proto-Semitic *mVsVw-, 'melt': reflexes in 5 language(s).
 
 [[wiki/semitic-roots/m/K0165_feel|K0165_feel]]: Proto-Semitic *mašaš-, 'feel': reflexes in 14 language(s).
 
@@ -379,35 +473,35 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/m/K0171_erase|K0171_erase]]: Proto-Semitic *mVḥVw-, 'erase': reflexes in 10 language(s).
 
-[[wiki/semitic-roots/m/K0178_small|K0178_small]]: Proto-Semitic *mVṭVʾ-, 'small': reflexes in 1 language(s).
+[[wiki/semitic-roots/m/K0178_small|K0178_small]]: Proto-Semitic *mVṭVʾ-, 'small': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/m/K0179_compare_1_saying_proverb_2|K0179_compare_1_saying_proverb_2]]: Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 15 language(s).
+[[wiki/semitic-roots/m/K0179_compare_1_saying_proverb_2|K0179_compare_1_saying_proverb_2]]: Proto-Semitic *mVṯVl-, 'compare' 1, 'saying, proverb' 2: reflexes in 17 language(s).
 
 [[wiki/semitic-roots/m/K0180_wipe|K0180_wipe]]: Proto-Semitic *mVṯVṯ-, 'wipe': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/S100_hundred|S100_hundred]]: Proto-Semitic *mʾt, 'hundred': reflexes in 22 language(s).
+[[wiki/semitic-roots/m/S100_hundred|S100_hundred]]: Proto-Semitic *mʾt, 'hundred': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/m/S110_to_squash_to_hit_on_the_head|S110_to_squash_to_hit_on_the_head]]: Proto-Semitic *marāsu, 'to squash / to hit on the head': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/S20_customs_dues_customs_official|S20_customs_dues_customs_official]]: Proto-Semitic *mak(i)s-, 'customs dues, customs official': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/S20_customs_dues_customs_official|S20_customs_dues_customs_official]]: Proto-Semitic *mak(i)s-, 'customs dues, customs official': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/m/S21_contribution_payment_assessed_dues_price|S21_contribution_payment_assessed_dues_price]]: Proto-Semitic *maśʾ(at)-, 'contribution, payment, assessed dues, price': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/m/S22_seller_trader_merchant|S22_seller_trader_merchant]]: Proto-Semitic *makir-, 'seller, trader, merchant': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/S22_seller_trader_merchant|S22_seller_trader_merchant]]: Proto-Semitic *makir-, 'seller, trader, merchant': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/m/S24_cultic_banquet_ritual_sodality_funerary_feast|S24_cultic_banquet_ritual_sodality_funerary_feast]]: Proto-Semitic *marzVḥ-, 'cultic banquet, ritual sodality, funerary feast': reflexes in 6 language(s).
+[[wiki/semitic-roots/m/S24_cultic_banquet_ritual_sodality_funerary_feast|S24_cultic_banquet_ritual_sodality_funerary_feast]]: Proto-Semitic *marzVḥ-, 'cultic banquet, ritual sodality, funerary feast': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/m/S28_provisions_supplies_military_administrative|S28_provisions_supplies_military_administrative]]: Proto-Semitic *maṭnīʾ(at)-, 'provisions, supplies (military/administrative)': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/m/S31_forced_labor_corvee_levy_labor_gang|S31_forced_labor_corvee_levy_labor_gang]]: Proto-Semitic *mass-, 'forced labor, corvée levy, labor gang': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/m/S54_to_fall|S54_to_fall]]: Proto-Semitic *mqt, 'to fall': reflexes in 1 language(s).
+[[wiki/semitic-roots/m/S54_to_fall|S54_to_fall]]: Proto-Semitic *mqt, 'to fall': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/m/S69_intention_purpose_in_order_that|S69_intention_purpose_in_order_that]]: Proto-Semitic *maʿan, 'intention, purpose; in order that': reflexes in 1 language(s).
 
 [[wiki/semitic-roots/m/SA054_KIND_OF_CANAL|SA054_KIND_OF_CANAL]]: Epigraphic South Arabian headword *mḥn, 'KIND OF CANAL': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/m/SA055_FOOD|SA055_FOOD]]: Epigraphic South Arabian headword *mwn, 'FOOD': reflexes in 2 language(s).
+[[wiki/semitic-roots/m/SA055_FOOD|SA055_FOOD]]: Epigraphic South Arabian headword *mwn, 'FOOD': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/m/SA056_besiege_s_o|SA056_besiege_s_o]]: Epigraphic South Arabian headword *mwr, 'besiege s.o': reflexes in 2 language(s).
 

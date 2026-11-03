@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1719_break_1_hew_cut_2
 title: "*nVgup-: 'break' 1, 'hew, cut' 2"
-desc: "Proto-Semitic *nVgup-, 'break' 1, 'hew, cut' 2: reflexes in 6 language(s)."
+desc: "Proto-Semitic *nVgup-, 'break' 1, 'hew, cut' 2: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1719"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ngf \[-u-\] 2 |  |  |
+| Epigraphic South Arabian | Sab tgfn 2 (Biella 292) | Biella 292 | gloss withheld |
 | Geez | ngf |  |  |
 | Hebrew | ngp 1 (HALOT 669) | HALOT 669 | gloss withheld |
 | Soqotri | negof (LGz. 391) | LGz. 391 | gloss withheld |

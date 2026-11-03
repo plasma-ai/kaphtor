@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | padû 'spare' | Anderson–Moser 2024 root pdy |  |
 | Arabic | fadā (Leslau CDG 155) | Leslau CDG 155 | gloss withheld |
-| Aramaic | PDY (Aramaic Root Atlas; DNWSI 902 apud CAL) | Aramaic Root Atlas; DNWSI 902; CAL; Anderson–Moser 2024 root pdy | gloss withheld |
+| Aramaic | PDY (Aramaic Root Atlas; DNWSI 902) | Aramaic Root Atlas; DNWSI 902; Anderson–Moser 2024 root pdy | gloss withheld |
 | Geez | fadaya 'restore' | Anderson–Moser 2024 root pdy |  |
 | Hebrew | padah 'ransom' | Anderson–Moser 2024 root pdy |  |
 | Punic | pdy 'redeem' | Anderson–Moser 2024 root pdy |  |
@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | fäǧä (LGz. 156) | LGz. 156 | gloss withheld |
 | Amorite | pdj: japdī (Gelb AS 21, 28); p-d-y: cf. ia-ap-di/du-um (Sanmartín GlOS 2, 122) | Gelb AS 21 28; Sanmartín GlOS 2, 122 | gloss withheld |
 | Phoenician | pdy/w (B 389) | B 389 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic fd (Al-Jallad–Jaworska 69) | Al-Jallad–Jaworska 69 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic fd (Al-Jallad–Jaworska 69); fdyt (Al-Jallad 2026, 45) | Al-Jallad–Jaworska 69; Al-Jallad 2026 45 | gloss withheld |
 | Jibbali | fédé (JL 51 apud SEDonline 1104) | JL 51; SEDonline 1104 | gloss withheld |
 | Mehri | fədō (ML 87 apud SEDonline 1104) | ML 87; SEDonline 1104 | gloss withheld |
 

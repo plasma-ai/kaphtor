@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/1564_to_itch_scratch_oneself
 title: "*ḥVkuk-: 'to itch, scratch (oneself)'"
-desc: "Proto-Semitic *ḥVkuk-, 'to itch, scratch (oneself)': reflexes in 19 language(s)."
+desc: "Proto-Semitic *ḥVkuk-, 'to itch, scratch (oneself)': reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1564"
@@ -49,6 +49,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḥakäkä \[Bass. 60\] | Bass. 60 |  |
 | Harari | ḥakäka (SED I 288) | SED I 288 | gloss withheld |
 | Gafat | ənkʷakʷä (LGz. 228) | LGz. 228 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥkk (Al-Jallad 2026, 74) | Al-Jallad 2026 74 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

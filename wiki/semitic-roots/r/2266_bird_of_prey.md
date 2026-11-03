@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | raḫam- 'a kind of vulture that has a white body and neck and black wingtips' \[BK 1 841\], \[LA XII 235\]. | BK 1 841; LA XII 235 |  |
-| Mehri | rǝḫǝmūt \[JM 334\]. | JM 334 | gloss withheld |
+| Mehri | rǝḫǝmūt \[JM 334\]; raḫmôt (Jahn 220 apud SED II 251) | JM 334; Jahn 220; SED II 251 | gloss withheld |
 | Harsusi | reḫemōt \[JH 107\]. | JH 107 |  |
 | Jibbali | ɛrḫõt (pl. erḫúhm) \[JJ 218\]. | JJ 218 |  |
 | Hebrew | rāḥām, rāḥāmā (HALOT 1217), pB. \[Ja. 1467\] | HALOT 1217; Ja. 1467 | gloss withheld |

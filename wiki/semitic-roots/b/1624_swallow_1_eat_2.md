@@ -37,7 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | balʕa (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015 ch. 2 §4.2 no. 11 |  |
 | Hebrew | blʕ 1 (Kogan 2015, ch. 2 §4.2 no. 11) | Kogan 2015 ch. 2 §4.2 no. 11 |  |
 | Amharic | bälla 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015 ch. 7 §2.4 no. 23 |  |
-| Aramaic | (Mand) bla 1 (Drower/Macuch 65a apud CAL); BLʿ (Aramaic Root Atlas; DNWSI 167 apud CAL) | Macuch 65a; CAL; Aramaic Root Atlas; DNWSI 167 | gloss withheld |
+| Aramaic | (Mand) bla 1 (MD 65); BLʿ (Aramaic Root Atlas; DNWSI 167) | MD 65; Aramaic Root Atlas; DNWSI 167 | gloss withheld |
 | Tigrinya | bälʕe 2 (Kogan 2015, ch. 7 §2.4 no. 23) | Kogan 2015 ch. 7 §2.4 no. 23 |  |
 | Ugaritic | blʿ (CUC; DULAT 219) (Kogan 2015, ch. 2 §4.2 no. 11) | CUC; DULAT 219; Kogan 2015 ch. 2 §4.2 no. 11 | gloss withheld |
 | Jibbali | belaʿ (LGz. 94) | LGz. 94 |  |

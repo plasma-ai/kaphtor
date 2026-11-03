@@ -36,10 +36,10 @@ updated: 2026-10-22T17:38:31Z
 | Geez | nsk |  |  |
 | Hebrew | nšk |  |  |
 | Punic | nks (DISO 179 apud HALOT 729) | DISO 179; HALOT 729 |  |
-| Aramaic | EgArm. nks (DISO 179 apud HALOT 729) | DISO 179; HALOT 729 |  |
+| Aramaic | EgArm. nks (DISO 179 apud HALOT 729); OffArm. nkt (DNWSI 732) | DISO 179; HALOT 729; DNWSI 732 | gloss withheld |
 | Judaic Aramaic | nkš, nkt (HALOT 729; DJPA 351b apud CAL) | HALOT 729; DJPA 351b; CAL |  |
 | Syrian Aramaic | nkt (HALOT 729; Payne Smith 340) | HALOT 729; Payne Smith 340 |  |
-| Mandaic Aramaic | nkt (HALOT 729; Drower/Macuch 301b apud CAL) | HALOT 729; Macuch 301b; CAL |  |
+| Mandaic Aramaic | nkt (HALOT 729; MD 301) | HALOT 729; MD 301 |  |
 | Harsusi | netōk (LGz. 402) | LGz. 402 |  |
 | Tigrinya | näḵäsä (LGz. 402) | LGz. 402 | gloss withheld |
 | Tigre | näkša (LGz. 402) | LGz. 402 |  |
@@ -47,7 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | näkkäsa (LGz. 402) | LGz. 402 |  |
 | Harari | näxäsa (LGz. 402) | LGz. 402 |  |
 | Gurage | näkäsä (LGz. 402) | LGz. 402 |  |
-| Eblaitic | na-ša-gúm /naṯākum/ (VE 195, Kogan–Krebernik 2021b: 689 apud SEDonline 4; Krebernik 1983, 8); na-ša-gúm/gú-um wa pur-ra-zu-um a-ba-a/lu /n-ṯ-k/ (Sanmartín GlOS 2, 109) | VE 195, Kogan–Krebernik 2021b: 689; SEDonline 4; Krebernik 1983, 8; Sanmartín GlOS 2, 109 | gloss withheld |
+| Eblaitic | na-ša-gúm /naṯākum/ (VE 195, Kogan–Krebernik 2021b: 689 apud SEDonline 4; Krebernik 1983, 8); na-ša-gúm/gú-um wa pur-ra-zu-um a-ba-a/lu /n-ṯ-k/ (Sanmartín GlOS 2, 109); n-k-ṯ: Gt a-da-gú-šu /lā yittakkaṯū/ (Sanmartín GlOS 2, 91) | VE 195, Kogan–Krebernik 2021b: 689; SEDonline 4; Krebernik 1983, 8; Sanmartín GlOS 2, 109; Sanmartín GlOS 2, 91 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

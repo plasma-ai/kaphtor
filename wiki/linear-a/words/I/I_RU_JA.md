@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_RU_JA
 title: "I-RU-JA"
 desc: "Iruja: Iruja (personal name; Hurrian hypocoristic of Irup-tešup). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "I-RU-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Iruja |
 | Meaning | Iruja (personal name; Hurrian hypocoristic of Irup-tešup) |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-HT 7a .2 I-RU-JA 3, all three signs whole and undotted, the first entry under .1 QE-TI · VIR+\[?\], before DU-JA 4 (GORILA I 15). Nuzi Iruja, I-ru-ia, var. E-ru-ú-ia, I-ru-ú-ia: the son of Ziqaya bears both Iruja and Irup-tešup, and the element list gives iruja as the "Hypocoristic for Irup-tešup" (Gelb, Purves, and MacRae 1943, s.v. IRUJA, IRUP-TEŠUP; 220). The element ir- is Hurrian; Speiser's gloss 'aid' is uncertain (ibid., 220). I-ru-ia gives I-RU-JA sign for sign. A three-sign match with one witness; chance is a live alternative.
+HT 7a .2 I-RU-JA 3, all three signs whole and undotted, the first entry under .1 QE-TI · VIR+\[?\], before DU-JA 4 (GORILA I 15). Nuzi Iruja, I-ru-ia, var. E-ru-ú-ia, I-ru-ú-ia: the son of Ziqaya bears both Iruja and Irup-tešup, and the element list gives iruja as the 'Hypocoristic for Irup-tešup' (Gelb, Purves, and MacRae 1943, s.v. IRUJA, IRUP-TEŠUP; 220). The element ir- is Hurrian; Speiser's gloss 'aid' is uncertain (ibid., 220). I-ru-ia gives I-RU-JA sign for sign. One attestation.
 
 ### Cognates
 
@@ -70,7 +70,7 @@ di Mino; Gelb, Purves, and MacRae 1943
 | Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |

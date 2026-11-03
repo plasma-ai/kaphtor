@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/3581_stone_weight
 title: "*ḥgr: 'stone; weight'"
-desc: "Proto-Semitic *ḥgr, 'stone; weight': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḥgr, 'stone; weight': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3581"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Arabic | ḥaǧar (Lane 517); ḥajar (Biella 167) | Lane 517; Biella 167 | gloss withheld |
 | Epigraphic South Arabian | Sab ḥgrm (Biella 167); ḥgr (SD 67) | Biella 167; SD 67 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥgr (Al-Jallad 2026, 74) | Al-Jallad 2026 74 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

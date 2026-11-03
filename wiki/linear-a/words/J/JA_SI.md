@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_SI
 title: "JA-SI"
 desc: "yašīʿ: Salvation—votive exclamation/dedication term. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "noun", "ritual", "votive"]
 kind: "word"
 form: "JA-SI"
 datasets: ["lexicon"]
@@ -33,15 +33,15 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | yašīʿ |
 | Meaning | Salvation—votive exclamation/dedication term |
-| Root | y-š-ʕ |
+| Root | y-š-ʿ |
 | Proto-Semitic | \*yṯʿ (#3332) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | noun, ritual, votive |
 | Semantic field | ritual |
 
 ### Note
 
-Cross-site paradigm JA-SI (KNZb4, PEZc4) ~ JA-SI-E (KEZb4 lamp dedication) + the JA- vocative frame. On KNZb4 read inside the votive frame JU 𐄁 JA-SI 𐄁 SI = l(u) 'for' + yašīʕ + šay 'tribute' (JU votive arm); on PEZc4 paired with A-JA: 'Life! — he saves!'. Gordon's ya-ne 'wine' (1966, §123; his text II,3 = Brice ILA II 3) is this KNZb4 group; the corrected reading of its second sign is SI (Packard 1974, 260; GORILA IV).
+KN Zb 4 \]-JU · JA-SI · SI\[ and PE Zc 4 A-JA · JA-SI. yašīʿ 'salvation', √y-š-ʿ 'to help, save' (semitic_roots 3332): Heb. yēšaʿ 'help, salvation' (HALOT 449), Amorite yiṯʿu 'salvation' (Buck 2019, 335). SI writes the ṯ as cuneiform writes it in the Amorite names, ia-aš-ḫa (GlOS 2, 379). On KN Zb 4 inside the votive frame JU · JA-SI · SI, l(u) 'for' + yašīʿ + šay 'tribute'; on PE Zc 4 after A-JA: 'Living One!—Salvation!'; JA-SI-E on the lamp KE Zb 4 is its vocative, 'O Salvation!'. Rivals: yāṯiʿ 'saviour', Amorite yāṯiʿa (Buck 2019, 335), and the verb 'he saves', Heb. hôšîaʿ (HALOT 448). Gordon's ya-ne 'wine' (Gordon 1966 §123, his text II,3) is this KN Zb 4 group; its second sign reads SI (Packard 1974, 260; GORILA IV).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Cross-site paradigm JA-SI (KNZb4, PEZc4) ~ JA-SI-E (KEZb4 lamp dedication) + the
 
 ### Source
 
-di Mino; GlOS 2; Gelb 1980
+di Mino; HALOT; Buck 2019; GlOS 2; Gordon 1966; Packard 1974; GORILA IV
 
 ## Attestations
 
@@ -67,6 +67,6 @@ di Mino; GlOS 2; Gelb 1980
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb4\|KNZb4]] | yašīʿ | Salvation (√y-š-ʿ) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/PE/PEZc/PEZc4\|PEZc4]] | yašīʿ | he saves / Salvation (√y-š-ʿ) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PE/PEZc/PEZc4\|PEZc4]] | yašīʿ | Salvation (√y-š-ʿ) | CANDIDATE |
 
 <!-- END kaphtor:record -->

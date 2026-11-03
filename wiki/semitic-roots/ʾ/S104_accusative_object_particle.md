@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/S104_accusative_object_particle
 title: "*ʾyt: 'accusative/object particle'"
-desc: "Proto-Semitic *ʾyt, 'accusative/object particle': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ʾyt, 'accusative/object particle': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S104"
@@ -38,6 +38,9 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | yt (T 14) | T 14 |  |
 | Judaic Aramaic | yat (T 14) | T 14 |  |
 | Soqotri | t- (LS 436; SLOnline 7435) | LS 436; SLOnline 7435 | gloss withheld |
+| Moabite | ʔt (DNWSI 47) | DNWSI 47 | gloss withheld |
+| Canaanite | Edom ʔt (DNWSI 47) | DNWSI 47 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic y (Al-Jallad–Jaworska 147) | Al-Jallad–Jaworska 147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

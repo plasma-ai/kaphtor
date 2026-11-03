@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_TA_RE
 title: "A-TA-RE"
 desc: "Hathar: Hathor (Egyptian goddess). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "divine_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "A-TA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Hathar |
 | Meaning | Hathor (Egyptian goddess) |
 | Language layer | Middle Egyptian |
-| Category | divine_name |
+| Tags | hapax, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-ZA 8 .1 KI-RA · A-TA-RE · NI ½, intact, heading the fig list (GORILA III 165). Egyptian Ḥw.t-Ḥr.w Hathor, Lady of the Sycomore (nb.t-nh.t, 5th Dyn.; 'Lady of the Southern Sycomore' in the Praise of Memphis, pSallier IV vso.). A writes the dropped ḥ, TA-RE t-ḥr. One witness.
+ZA 8 .1 KI-RA · A-TA-RE · NI ½, intact, heading the fig list (GORILA III 165). Egyptian Ḥw.t-Ḥr.w Hathor, Lady of the Sycomore, the fig tree, at the head of a fig list: nb.t-nh.t (AED lemma 450446; Wb 2, 282.14; LGG IV, 79), and Lady of the Southern Sycomore, nb.t-nh.t-rs.jt (AED lemma 855250), in the Old Kingdom title ḥm.t-nṯr Ḥw.t-Ḥr.w nb.t Nh.t rs.jt (Jones, Titles OK, no. 2025, apud AED lemma 853009). A writes the dropped ḥ, TA-RE t-ḥr. One witness.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ ZA 8 .1 KI-RA · A-TA-RE · NI ½, intact, heading the fig list (GORILA III 165)
 
 ### Source
 
-di Mino
+di Mino; AED
 
 ## Attestations
 
@@ -81,6 +81,6 @@ ZA 8, the first entry under KI-RA, with figs: Hathor, Lady of the Sycomore. See 
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_RA|KI-RA]] kirû/qīra, [[wiki/linear-a/words/T/TA_I_NU_MA_PA|TA-I-NU-MA-PA]] Tainumapa.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KI_RA|KI-RA]] kirû, [[wiki/linear-a/words/T/TA_I_NU_MA_PA|TA-I-NU-MA-PA]] Tainumapa.
 
 <!-- END kaphtor:record -->

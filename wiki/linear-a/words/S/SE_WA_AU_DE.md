@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SE_WA_AU_DE
 title: "SE-WA-AU-DE"
 desc: "šawaʿ-dē: who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "verb_phrase"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "ritual", "verb"]
 kind: "word"
 form: "SE-WA-AU-DE"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | who cries out, the one who implores (relative clause: √š-w-ʿ + determinative-relative dē) |
 | Root | š-w-ʿ |
 | Proto-Semitic | \*ŝVwVʕ- (#615) + \*ḏī- (#K0877) |
-| Language layer | NWS |
-| Category | verb_phrase |
+| Language layer | Semitic |
+| Tags | compound, hapax, ritual, verb |
 | Semantic field | ritual |
 
 ### Note

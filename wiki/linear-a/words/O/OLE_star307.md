@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/OLE_star307
 title: "OLE-*307"
 desc: "OLE-dubur: sanctuary oil. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity"]
+tags: ["linear-a", "word", "tier-3", "commodity", "compound", "hapax", "logogram", "oil", "ritual"]
 kind: "word"
 form: "OLE-*307"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | sanctuary oil |
 | Root | d-b-r |
 | Proto-Semitic | \*dVb(V)r- (#151) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, compound, hapax, logogram, oil, ritual |
 | Semantic field | commodity |
 
 ### Note
 
-Compound logogram: OLE + DUBUR. Oil for sanctuary use at Petras. See DU-PU₂-RE.
+PE Wy 5, a stone object from Petras: OLE \*307 1½, the oil logogram with \*307, the DUBUR logogram 'sanctuary'. Oil for the sanctuary. One attestation. See DU-PU₂-RE.
 
 ### Cognates
 

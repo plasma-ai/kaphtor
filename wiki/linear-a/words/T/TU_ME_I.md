@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TU_ME_I
 title: "TU-ME-I"
 desc: "tummī: my wholeness, my completeness (noun *tumm- + 1cs -ī). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "TU-ME-I"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | my wholeness, my completeness (noun \*tumm- + 1cs -ī) |
 | Root | t-m-m |
 | Proto-Semitic | \*tmm (#1052) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | libation_formula, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Two damaged witnesses give the group in full. PK Za 8 (GORILA IV 24–26) secures the start with a divider before TU, but ME is partial and I survives only as the tops of three prongs at the broken corner, with no divider preserved before JA-SA\[ on the next face. Younger regards only TU as secure. PK Za 14 (IV 40) secures the end, \]-TU-ME-I · JA-SA-SA-\[, but breaks before TU. Hebrew תֻּמִּי tummī 'my wholeness/integrity' (Ps 7:9; 26:1) supplies the exact nominal shape. On both vessels √t-m-m 'wholeness/completeness' stands before a √y-š-r word (JA-SA\[, JA-SA-SA-\[), cf. Job 1:1 tām wə-yāšār, Ps 25:21 tōm wāyōšer (di Mino, Ya Diktu), which supports 'my wholeness, \[in righteousness\]' while keeping the two roots distinct. A D-stem imperative 'be made whole' is less likely: a regular factitive imperative would ordinarily preserve more of the stem. Alternative roots √d-m-m/√d-m-y (TU≠DU) and √ṭ-m-ʾ (wrong sign, vocalism, and semantics) remain disfavored.
+Two damaged witnesses give the group in full. PK Za 8 (GORILA IV 24–26) secures the start with a divider before TU, but ME is partial and I survives only as the tops of three prongs at the broken corner, with no divider before JA-SA\[ on the next face; Younger reads only TU as sure (Younger, Linear A Texts, PK Za 8). PK Za 14 (GORILA IV 40) secures the end, \]-TU-ME-I · JA-SA-SA-\[, but breaks before TU. Hebrew תֻּמִּי tummī 'my wholeness, integrity' (Ps 7:9; 26:1) has the same nominal shape. On both vessels √t-m-m stands before a √y-š-r word (JA-SA\[, JA-SA-SA-\[), as Job 1:1 tām wə-yāšār and Ps 25:21 tōm wāyōšer pair them (di Mino, Ya Diktu), which supports 'my wholeness, \[in righteousness\]' with the two roots kept apart. Rival: a D-stem imperative 'be made whole', though a regular factitive imperative keeps more of the stem. Two attestations.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Two damaged witnesses give the group in full. PK Za 8 (GORILA IV 24–26) secure
 
 ### Source
 
-di Mino
+di Mino; Younger, Linear A Texts
 
 ## Attestations
 

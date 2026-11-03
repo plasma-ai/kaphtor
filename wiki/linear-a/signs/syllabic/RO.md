@@ -42,7 +42,6 @@ updated: 2026-10-24T16:17:50Z
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star86_RO\|\*86-RO]] | naʿaru | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DA_RO\|A-DA-RO]] | ʾAddar | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RO_TE\|A-RO-TE]] | Ḫaluti | SPECULATIVE |
@@ -59,12 +58,13 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_RO_SU\|PA-RO-SU]] | Parʿōš | SPECULATIVE |
 | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] | batkull | PROBABLE |
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |
+| [[wiki/linear-a/words/R/RE_RO\|RE-RO]] | lalʾu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO\|RO]] | rōš | PROBABLE |
 | [[wiki/linear-a/words/R/RO_E\|RO-E]] | rōʿē | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_KE\|RO-KE]] | rōqēaḥ | SPECULATIVE |
 | [[wiki/linear-a/words/R/RO_QA\|RO-QA]] | rōqaḥ | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_MA_RO\|SA-MA-RO]] | Samarō | SPECULATIVE |
-| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | CANDIDATE |
+| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarr | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | SPECULATIVE |
 | [[wiki/linear-a/words/T/TO_MA_RO\|TO-MA-RO]] | Tōmar | CANDIDATE |
 | [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |

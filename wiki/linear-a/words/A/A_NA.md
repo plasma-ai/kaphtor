@@ -25,7 +25,7 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT126a\|HT126a]] | Haghia Triada | Tablet | complete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT126a\|HT126a]] | Haghia Triada | Tablet | complete; restored |
 
 ## Unread
 

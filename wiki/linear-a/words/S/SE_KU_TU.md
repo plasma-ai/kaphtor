@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SE_KU_TU
 title: "SE-KU-TU"
 desc: "Šakūtu: personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SE-KU-TU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Calm, at rest'; rival Zakūtu 'pure, innocent' |
 | Root | š-k-t |
 | Proto-Semitic | \*škt (#3250) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 115a .3 SE-KU-TU ½, between NA-\*21F-NE-MI-NA 1 and PA-RA-NE 1, a recipient (GORILA I 188–189). šakūt-u, a qatūl adjective of √š-k-t 'be quiet, rest', on primary values. Rival: Zakūtu 'pure, innocent', the Ebla name za-ku-tu and the Neo-Assyrian queen Zakūtu, which needs SE for ḏ where the lexicon writes z with the Z signs. One witness.
+HT 115a .3 SE-KU-TU ½, between NA-\*21F-NE-MI-NA 1 and PA-RA-NE 1, a recipient (GORILA I 188–189). šakūt-u, a qatūl adjective of √š-k-t 'be quiet, rest' (semitic_roots 3250), on primary values: Hebrew hasket 'be quiet' (Deut 27:9; HALOT 756), Akkadian sakātu 'be silent' (CAD S 74). Rival: Zakūtu 'pure, innocent', the Ebla name za-ku-tu (Pagan 1998, row 5026) and the Neo-Assyrian queen Zakūtu, which needs SE for ḏ where the lexicon writes z with the Z signs. One witness.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 115a .3 SE-KU-TU ½, between NA-\*21F-NE-MI-NA 1 and PA-RA-NE 1, a recipient 
 
 ### Source
 
-di Mino; CAD S; Huffmon; Pagan 1998
+di Mino; HALOT; CAD S; Huffmon 1965; Pagan 1998
 
 ## Attestations
 

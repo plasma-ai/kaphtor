@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KA_RI_star310_I
 title: "KA-RI-*310-I"
-desc: "karīnī: personal name/gentilic. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+desc: "Qarīnī: 'Companion' (personal name). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KA-RI-*310-I"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "karīnī"
+reading: "Qarīnī"
 attestations: ["HT98a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,19 +31,28 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | karīnī |
-| Meaning | personal name/gentilic |
-| Language layer | NWS |
-| Category | personnel |
+| Reading | Qarīnī |
+| Meaning | 'Companion' (personal name) |
+| Root | q-r-n |
+| Proto-Semitic | \*ḳarn- (#1959) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Hapax recipient of ¼ on HT98a. KA-RI-IN-I = karīn+ī, contingent on \*310 = IN; no root identified.
+HT 98a: KA-RI-\*310-I ¼, the last of the fractional issues, after RO-KE ½. Qarīnī 'Companion': \*310 = in joins RI as it joins KI in KI-\*310-RE kinnār, so KA-RI-IN-I writes qa-rīn-ī; Arabic qarana 'be someone's companion', Sabaic qrn 'guard' (Biella 467), with the -ī of a personal name. Rival: Qarnī 'horn', as KA-RO-NA Qarna and Mari Qarni-Lim (ARM 26/1, 599). Rival: Akk. karānu 'wine' (CAD K 202). Weak point: \*310 = in is a proposed value. One attestation.
+
+### Cognates
+
+| Language | Comparison |
+|---|---|
+| Arabic | qarana 'be someone's companion' |
+| Sabaic | qrn 'guard' (Biella 467) |
 
 ### Source
 
-di Mino
+di Mino; Biella 1982
 
 ## Attestations
 
@@ -55,7 +64,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | karīnī | recipient of ¼; personal name | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT98a\|HT98a]] | Qarīnī | recipient of ¼; personal name, 'Companion' | SPECULATIVE |
 
 ## Onomasticon
 

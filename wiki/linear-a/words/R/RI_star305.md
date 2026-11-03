@@ -34,15 +34,19 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 146 .3 RI-\*305 30, in a list of 30s (GORILA I 241). No reading.
 
 ## Unread
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT146 .3 RI-\*305 30, whole and undotted (GORILA I 241). Second entry of a list of 30s: \]QẸ\[ \]30, RI-\*305 30, MA 30, RI-KA-TA 30. \*305 holds only a CANDIDATE syllabic value (ḏa, with da live). No reading.
+HT146 .3 RI-\*305 30, whole and undotted (GORILA I 241). Second entry of a list of 30s: \]QẸ\[ \]30, RI-\*305 30, MA 30, RI-KA-TA 30. \*305 holds only a CANDIDATE syllabic value (da). No reading.
 
 <!-- END kaphtor:record -->

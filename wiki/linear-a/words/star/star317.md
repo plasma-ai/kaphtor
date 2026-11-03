@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/star317
 title: "*317"
-desc: "unresolved logogram; A542 on HT89 is a personnel-class composite. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "logogram"]
+desc: "commodity logogram counted in whole units; in A542 (HT 89) a personnel-class composite. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "administrative", "logogram"]
 kind: "word"
 form: "*317"
 datasets: ["lexicon"]
@@ -31,14 +31,14 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | unresolved logogram; A542 on HT89 is a personnel-class composite |
-| Language layer | unresolved |
-| Category | logogram |
+| Meaning | commodity logogram counted in whole units; in A542 (HT 89) a personnel-class composite |
+| Language layer | logogram |
+| Tags | administrative, logogram |
 | Semantic field | administrative |
 
 ### Note
 
-The previous LUQḤU 'receipts/offerings' reading depended on treating JU and QE in HT89 JU+\*317+QE as phonetic complements. SigLA analyzes that written unit as the single composite logogram A542, and Uchitel's personnel-list analysis places its count of 22 among four other human categories. HT89 therefore cannot establish an l-...-q frame and is not an isolated \*317 attestation. The remaining \*317, \*323-\*317, and \*317-QE-\*353 occurrences warrant separate study; √l-q-ḥ survives only as a rejected historical proposal, not a reading.
+ARKH 3a counts \*317 2 twice, after OLIV 3⅕ and \*131B 2 and again beside \*312 2, among grain and olive entries; HT 96a has the group \*323-\*317 1 among SI-MI-TA GRA 5, RU-SA 4 and \*323-\*344 1; PH 9a has \*317-QE-\*353 ¼. A commodity sign counted in whole units, and a sign inside groups. On HT 89 it forms the composite JU+\*317+QE, A542 in SigLA, a count of 22 among four other human categories in Uchitel's personnel-list analysis (Uchitel 2006). Three attestations. See JU+\*317+QE.
 
 ### Cognates
 

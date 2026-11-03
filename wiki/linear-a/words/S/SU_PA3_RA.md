@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SU_PA3_RA
 title: "SU-PA₃-RA"
 desc: "subāra: vessel (pot). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "vocabulary"]
+tags: ["linear-a", "word", "tier-3", "hapax", "noun", "vessel"]
 kind: "word"
 form: "SU-PA₃-RA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | vessel (pot) |
 | Root | s-p-l |
 | Proto-Semitic | \*sipVl- (#1103) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun, vessel |
 | Semantic field | vessel |
 
 ### Note
 
-Gordon's etymology holds via intervocalic lenition. Gordon (§163) read su-pa-ra = sēpel (Hebrew ספל 'bowl'), treating PA=/p/ and RA=/l/. PA₃=/ba/ (a proposed value) shifts surface skeleton s-p-r → s-b-r, but underlying PS root √s-p-l is preserved: intervocalic \*p→b is regular lenition in Minoan phonological adaptation (V_V environment: /u_a/), l→r = standard liquid mapping \|\| SEMANTIC CONFIRMATION: Vessel meaning independently secured—\*402-VS logogram (pictographic vessel determinative) + position in HT31 vessel inventory (alongside QA-PA₃, SU-PU, KA-RO-PA₃) + V&C independent identification. Part of Gordon's HT31 vessel quartet (§163): 4 of 5 vessel names identified as Semitic \|\| The scribe writes PA₃ precisely because the word was pronounced with /b/ in Minoan—supporting rather than undermining PA₃ = /ba/
+HT 31, the vessel tablet, written with the \*402-VS vessel sign among QA-PA₃, SU-PU and KA-RO-PA₃; Ventris and Chadwick also take it for a vessel. Gordon read su-pa-ra as Heb. sēpel (ספל) 'bowl' (Gordon 1966 §115), with PA for p and RA for l. PA₃ writes ba, so the spelling is s-b-r: √s-p-l with p voiced to b between u and a, and RA for l. In Gordon's HT 31 set, four of the five vessel names are Semitic (§115). Weak point: PA₃ = ba is a proposed value; Gordon's p gives √s-p-l directly. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Gordon's etymology holds via intervocalic lenition. Gordon (§163) read su-pa-ra
 
 ### Source
 
-Gordon 1966 §163; di Mino; DULAT; GlOS 2
+Gordon 1966 §115; di Mino; DULAT; GlOS 2
 
 ## Attestations
 

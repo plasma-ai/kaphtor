@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1168_to_sleep_slumber
 title: "*nwm: 'to sleep, slumber'"
-desc: "Proto-Semitic *nwm, 'to sleep, slumber': reflexes in 10 language(s)."
+desc: "Proto-Semitic *nwm, 'to sleep, slumber': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1168"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | nwm 'dozed' \[Brock 420\] | Brock 420 |  |
 | Aramaic | CHR-PAL nhm 'slept' \[Schulthess 119\], Jud-Pal nwm | Schulthess 119 |  |
 | Pre-Islamic North Arabian | Safaitic nym (Al-Jallad–Jaworska 108) | Al-Jallad–Jaworska 108 | gloss withheld |
+| Canaanite | Eg.-Syll. nm=ʿ, nm=ʿu, nm=(m)a₄, nm, nm=m={t} /\*nāma/ (Hoch 185) | Hoch 185 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

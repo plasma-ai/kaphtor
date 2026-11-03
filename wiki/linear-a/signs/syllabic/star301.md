@@ -45,7 +45,7 @@ Evidence: \*301 fills the NA slot of A-TA-I-\*301-WA-JA at five peak sanctuaries
 
 ### Note
 
-Allograph of NA (AB06). Second sign writing /na/. 288 total corpus occurrences (238 standalone across 4 sites: 230 HT, 5 KH, 2 KN, 1 ZA; predominantly roundels). 27 unique word forms. Identified from peak sanctuary libation formula evidence: \*301 always fills the NA slot in A-TA-I-\*301-WA-JA and its variants.
+Allograph of NA (AB06). Second sign writing /na/. 272 corpus occurrences (242 standalone across 4 sites: 235 HT, 5 KH, 1 KN, 1 ZA; predominantly HT nodules). 24 written forms. Identified from peak sanctuary libation formula evidence: \*301 always fills the NA slot in A-TA-I-\*301-WA-JA and its variants.
 
 ## Also in logograms
 
@@ -62,7 +62,7 @@ Allograph of NA (AB06). Second sign writing /na/. 288 total corpus occurrences (
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
 | [[wiki/linear-a/words/D/DA_DU_star301\|DA-DU-\*301]] | dādu-nā-… | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_plus_star301\|MI+\*301]] | minā | PROBABLE |
-| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān / nātānān | PROBABLE |
+| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | PROBABLE |
 | [[wiki/linear-a/words/S/SA_star301_RI\|SA-\*301-RI]] | šannāri | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU\|TA-NA-I-\*301-U-TI-NU]] | tan-ʿinā-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TE_star301\|TE-\*301]] | Tēnā | CANDIDATE |

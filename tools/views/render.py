@@ -59,6 +59,14 @@ def translation_label(model: Model, key: str) -> str:
     return "complete" if t["complete"] else "incomplete"
 
 
+def restored_in_translation(model: Model, key: str, form: str) -> bool:
+    """The document's translation writes `form` inside a word with a bracketed restoration: A-DI-KI-TE-TE-[DU-PU₂]-RE."""
+    words = (model.translations.get(key) or {}).get("raw", {}).get("words")
+    return isinstance(words, list) and any(
+        "[" in (la := str(w.get("linear_a") or "")) and f"-{form}-" in f"-{la.replace('[', '').replace(']', '')}-"
+        for w in words if isinstance(w, dict))
+
+
 def sign_links(model: Model, form: str) -> str:
     records = sign_records(model.sign_values)
     keys = {kind: sign_keys(records[kind]) for kind in ("syllabic", "logograms")}
@@ -112,7 +120,7 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
         desc = f"Onomasticon {_words(o.get('type') or 'entry')}, no reading."
     attestations = list(dict.fromkeys(a for rec in (e, o, u) if rec for a in rec.get("attestations") or []))
     fields = {"title": form, "desc": desc,
-              "tags": ["linear-a", "word"] + ([f"tier-{e['tier']}", e.get("category") or "uncategorised"] if e else [])
+              "tags": ["linear-a", "word"] + ([f"tier-{e['tier']}", *(e.get("tags") or ["untagged"])] if e else [])
               + (["unread"] if u else []),
               "kind": "word", "form": form, "datasets": datasets}
     if e:
@@ -133,7 +141,7 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
         rows = [[name, esc(value)] for name, value in (
             ("Reading", e.get("reading")), ("Meaning", e.get("meaning")), ("Root", e.get("root")),
             ("Proto-Semitic", " + ".join(f"{p['form']} (#{p['id']})" for p in ps)),
-            ("Language layer", e.get("language_layer")), ("Category", e.get("category")),
+            ("Language layer", e.get("language_layer")), ("Tags", ", ".join(e.get("tags") or [])),
             ("Semantic field", e.get("semantic_field"))) if value]
         body += table(["Field", "Value"], rows) + [""]
         if e.get("note"):
@@ -169,8 +177,9 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
             continue
         label = esc(attestation) if attestation == base else f"{esc(base)} ({esc(attestation[len(base):].strip('()'))})"
         present = form in (rec.get("transliteratedWords") or [])
+        missing = "; restored" if restored_in_translation(model, base, form) else "; form not in transliteration"
         rows.append([link(doc_path(base), label), esc(rec.get("site") or ""), esc(rec.get("support") or ""),
-                     translation_label(model, base) + ("" if present else "; form not in transliteration")])
+                     translation_label(model, base) + ("" if present else missing)])
     body += table(["Document", "Site", "Support", "Translation"], rows) + [""]
 
     hits = model.in_translations.get(form, [])

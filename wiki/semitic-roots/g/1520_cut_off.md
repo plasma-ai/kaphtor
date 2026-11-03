@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1520_cut_off
 title: "*gVd-: 'cut off'"
-desc: "Proto-Semitic *gVd-, 'cut off': reflexes in 11 language(s)."
+desc: "Proto-Semitic *gVd-, 'cut off': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1520"
@@ -41,6 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | gəd (LGz. 180) | LGz. 180 | gloss withheld |
 | Gurage | Cha. Ezha gädädä, Ezha Muh. Msq. Gog. Sod. gäddädä, End. gättädä, Enn. gätädä (EDG 262 apud SEDonline 39) | EDG 262; SEDonline 39 | gloss withheld |
 | Eblaitic | ga-da-tum /gaddātum/ (= Sum. ḫaš-ḫaš, MEE 4 82 obv. I 1–2 = EV 0419) (Bonechi 2008, 12, 14–15) | MEE 4 82; Bonechi 2008, 12, 14–15 | gloss withheld |
+| Biblical Aramaic | gdd (HALOT BArm. s.v. גדד) | HALOT BArm. s.v. גדד | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

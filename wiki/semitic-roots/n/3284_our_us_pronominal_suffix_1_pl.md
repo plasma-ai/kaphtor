@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3284_our_us_pronominal_suffix_1_pl
 title: "*-nV: 'our; us (pronominal suffix, 1 pl.)'"
-desc: "Proto-Semitic *-nV, 'our; us (pronominal suffix, 1 pl.)': reflexes in 9 language(s)."
+desc: "Proto-Semitic *-nV, 'our; us (pronominal suffix, 1 pl.)': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3284"
@@ -38,6 +38,8 @@ updated: 2026-10-25T05:11:48Z
 | Tigrinya | -na (Bulakh–Kogan 2013b:101 apud SEDonline 1568) | SEDonline 1568 | gloss withheld |
 | Amorite | =na, =nā: su-mu-na-a-bi, sa-am-su-i-lu-na; =ni: a-du-ni-a-bi-ia, su-mu-la-ni (Sanmartín GlOS 2, 67) | Sanmartín GlOS 2, 67 | gloss withheld |
 | Eblaitic | /=na, =nā/; /=ni/; =nu /=nu/; ne-a-a, ni-a-a /nāʾ, niāʾa/; ne-a-ti /niāti/; na-a-ù-ti /niāʾūti/ (Sanmartín GlOS 2, 67–68) | Sanmartín GlOS 2, 67–68 | gloss withheld |
+| Ugaritic | -n (DULAT 603) | DULAT 603 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic n (Al-Jallad–Jaworska 146) | Al-Jallad–Jaworska 146 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

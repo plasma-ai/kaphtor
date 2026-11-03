@@ -1,15 +1,11 @@
 ---
 name: wiki/linear-a/words/star/star86_RO
 title: "*86-RO"
-desc: "naʿaru: attendant, lad (personnel designation on administrative sealings). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+desc: "Unread (unread): no role; 4 occurrence(s)."
+tags: ["linear-a", "word", "unread"]
 kind: "word"
 form: "*86-RO"
-datasets: ["lexicon", "onomasticon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.55
-reading: "naʿaru"
+datasets: ["unread_words"]
 attestations: ["KHWa1013", "KHWa1014", "KHWa1015", "KHWa1016"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -25,37 +21,6 @@ updated: 2026-10-24T16:17:50Z
 
 **Signs.** [[wiki/linear-a/signs/syllabic/star86|\*86]] · [[wiki/linear-a/signs/syllabic/RO|RO]]
 
-## Lexicon
-
-**CANDIDATE**, tier 2 of 4, score 0.55
-
-| Field | Value |
-|---|---|
-| Reading | naʿaru |
-| Meaning | attendant, lad (personnel designation on administrative sealings) |
-| Root | n-ʿ-r |
-| Proto-Semitic | \*nVʿVr- (#K0226) |
-| Language layer | NWS |
-| Category | vocabulary |
-| Semantic field | personnel |
-
-### Note
-
-Contingent on \*86 = /na/, a proposed value. Reading: na-ro → naʿaru with guttural ʿayin elided per standard CV spelling rules. Context: sole word on four Khania LMIB nodules, one scribe—administrative sealings. The two signs stand on different faces, \*86 on face a and RO on face g, read together as \*86-RO. Sister nodules at same site carry commodity designations (ZE "seed-grain" ×6, \*301 "pastureland" ×3) and fractions, establishing the genre as category labels on sealed goods. Four identical attestations from one site = consistent administrative usage, not a rare personal name.
-
-### Cognates
-
-| Language | Comparison |
-|---|---|
-| Ugaritic | nʿr 'boy; servant' (DULAT 607f.) |
-| Hebrew | naʿar (נַעַר) 'youth, servant, attendant' |
-| Eblaite | na-ʔa₅-rí naʿr 'servant; soldier' (GlOS 2, 71) |
-| Egyptian | n-ʿ-ru₂-na, pl. naʿarūna (GlOS 2, 71, after Hoch, SWET no. 245) |
-
-### Source
-
-di Mino; GlOS 2
-
 ## Attestations
 
 | Document | Site | Support | Translation |
@@ -65,20 +30,10 @@ di Mino; GlOS 2
 | [[wiki/linear-a/inscriptions/KH/KHWa/KHWa1015\|KHWa1015]] | Khania | Nodule | none |
 | [[wiki/linear-a/inscriptions/KH/KHWa/KHWa1016\|KHWa1016]] | Khania | Nodule | none |
 
-## Onomasticon
+## Unread
 
-| Field | Value |
-|---|---|
-| Type | title (CANDIDATE) |
-| Affiliation | semitic (CANDIDATE) |
-| Evidence | lexicon_reading |
-| Entry | manual |
-| Occurrences | 4 in 4 documents |
-| Sites | Khania |
-| Supports | Nodule 4 |
+Status **unread** (nothing known).
 
-### Note
-
-A title or designation. Ugaritic nʿr, Hebrew naʿar. Four Khania LMIB nodules (sole word on each). Sister nodules carry commodity terms (ZE, \*301). Linear B continuity: na-ro on KN As(2) 1516 (personnel list) corroborates it.
+KH Wa 1013, 1014, 1015 and 1016 are LM IB nodules from Khania, each with \*86 on face α and RO on face γ, the two signs printed apart (GORILA III 108); SigLA files each face as its own word. On KH Wa 1001–1002 the same faces carry separate items, \*316+KI on α and DA+RO on γ. The two signs stand on different faces and form no sign group. Not a word.
 
 <!-- END kaphtor:record -->

@@ -37,6 +37,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 524 gives the pre-forms \*lawtān, \*lōtān. Cf. 2975 Rahab.
+HALOT 524 gives the pre-forms \*lawtān, \*lōtān. Cf. 2975 Rahab. LGz. 322 gives Geez lewiyātān 'sea monster' as a transcription of Hebrew liwyāṯān; also Amharic lewatan.
 
 <!-- END kaphtor:record -->

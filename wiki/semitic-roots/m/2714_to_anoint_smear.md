@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2714_to_anoint_smear
 title: "*mašḥ-: 'to anoint, smear'"
-desc: "Proto-Semitic *mašḥ-, 'to anoint, smear': reflexes in 13 language(s)."
+desc: "Proto-Semitic *mašḥ-, 'to anoint, smear': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2714"
@@ -42,6 +42,8 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | mśḥ: maśīḥum, maśīḥa, maśḥum, maśḥatum (Gelb AS 21, 25); m-S-ḥ: ia-am-sa-aḫ, ia-am-sa-ḫi-ìl, na-am-si-e-ᵈIM; maSḥ: ma-aš-ḫu-um, ma-aš-ha-tum; maSīḥ: cf. ma-si-ḫu-um, ma-si-ḫa-an; muSāḥ: mu-sa-ḫu-um, mu-sa-aḫ-ḫu-um (Sanmartín GlOS 2, 55) | Gelb AS 21 25; Sanmartín GlOS 2, 55 | gloss withheld |
 | Akkadian | muššuʾu (LGz. 363) | LGz. 363 |  |
 | Eblaitic | ma-zi-ʔà /m-S-ḥ/ (Sanmartín GlOS 2, 55) | Sanmartín GlOS 2, 55 | gloss withheld |
+| Biblical Aramaic | məšaḥ (HALOT BArm. s.v. מְשַׁח) | HALOT BArm. s.v. מְשַׁח | gloss withheld |
+| Aramaic | mšḥ (DNWSI 699) | DNWSI 699 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

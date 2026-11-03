@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ/2743_north_Mt_Zaphon_divine_mountain
 title: "*ṣVpVn-: 'north; Mt. Zaphon (divine mountain)'"
-desc: "Proto-Semitic *ṣVpVn-, 'north; Mt. Zaphon (divine mountain)': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ṣVpVn-, 'north; Mt. Zaphon (divine mountain)': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2743"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ṣpn (T 279) | T 279 | gloss withheld |
 | Hebrew | ṣāpōn (HALOT 1046) | HALOT 1046 | gloss withheld |
 | Judaic Aramaic | ṣəfōnā (HALOT 1046) | HALOT 1046 |  |
+| Canaanite | i-na ṣa-pa-ni-šu /ṣapān/ (EA 147:10) (Sanmartín GlOS 2, 220) | Sanmartín GlOS 2, 220 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

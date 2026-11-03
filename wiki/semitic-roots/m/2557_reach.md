@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2557_reach
 title: "*mVṯ̣Vʾ-: 'reach'"
-desc: "Proto-Semitic *mVṯ̣Vʾ-, 'reach': reflexes in 17 language(s)."
+desc: "Proto-Semitic *mVṯ̣Vʾ-, 'reach': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2557"
@@ -47,6 +47,8 @@ updated: 2026-10-22T17:38:31Z
 | Amorite | mṣʾ: maṣiʾum, maṣiʾatum, jamṣiʾ (Gelb AS 21, 25) | Gelb AS 21 25 | gloss withheld |
 | Jibbali | míḏ̣í (Kogan 2015, ch. 7 §2.3 no. 16) | Kogan 2015 ch. 7 §2.3 no. 16 | gloss withheld |
 | Soqotri | míṭi (Kogan 2015, ch. 7 §2.3 no. 16); míṭa (SLOnline 7735) | Kogan 2015 ch. 7 §2.3 no. 16; SLOnline 7735 | gloss withheld |
+| Punic | Neo-Punic mʿṣʾ (Krahmalkov 303) | Krahmalkov 303 | gloss withheld |
+| Biblical Aramaic | mṭʾ (HALOT 619) | HALOT 619 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

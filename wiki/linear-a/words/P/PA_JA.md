@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PA_JA
 title: "PA-JA"
 desc: "Pay: personal name; Egyptian pꜣ.jj, the first element of PA-JA-RE. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "PA-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Pay |
 | Meaning | personal name; Egyptian pꜣ.jj, the first element of PA-JA-RE |
 | Language layer | Middle Egyptian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṯ/K0867_break
 title: "*ṯVġVr-: 'break'"
-desc: "Proto-Semitic *ṯVġVr-, 'break': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ṯVġVr-, 'break': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0867"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | šärä (LGz. 481) | LGz. 481 | gloss withheld |
 | Harari | šāra (LGz. 481) | LGz. 481 |  |
 | Hebrew | \*šʿr (HALOT 1614) | HALOT 1614 |  |
+| Eblaitic | /ṯ-ġ-r/: D lu-sa-ir-su /lā=yuṯaġġir=/; names iš₁₁-ar, iš₁₁-a-rúm, iš₁₁-ar-ì, iš₁₁-ar-da-mu (Sanmartín GlOS 2, 318) | Sanmartín GlOS 2, 318 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

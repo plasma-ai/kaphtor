@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3266_like_as_in_the_manner_of
 title: "*kV: 'like, as, in the manner of'"
-desc: "Proto-Semitic *kV, 'like, as, in the manner of': reflexes in 10 language(s)."
+desc: "Proto-Semitic *kV, 'like, as, in the manner of': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3266"
@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | kî (CAD K 322, AHw. 468 apud SEDonline 1387) | CAD K 322, AHw. 468; SEDonline 1387 | gloss withheld |
-| Ugaritic | k (DUL 420 apud SEDonline 1387) | DUL 420; SEDonline 1387 | gloss withheld |
+| Ugaritic | k (DULAT 415–416; SEDonline 1387) | DULAT 415–416; SEDonline 1387 | gloss withheld |
 | Phoenician | k (Tomback 1978: 136 apud SEDonline 1387) | Tomback 1978: 136; SEDonline 1387 | gloss withheld |
 | Hebrew | kə (HALOT 453 apud SEDonline 1387) | HALOT 453; SEDonline 1387 | gloss withheld |
 | Arabic | ka- (BK 2 849, Lane 2581 apud SEDonline 1387) | BK 2 849, Lane 2581; SEDonline 1387 | gloss withheld |
@@ -39,6 +39,8 @@ updated: 2026-10-25T05:11:48Z
 | Gurage | End. Enn. Gye. xä, Sod. ko (EDG 332 apud SEDonline 1387) | EDG 332; SEDonline 1387 | gloss withheld |
 | Amorite | ka/kī (Buck 2019, 328); ka: ka-zu-ra-DINGIR, ka-zu-ri-ḫa-la, a-ḫu-ka-a-bi; ki: a-ḫi-ki-li-im, a-bi-mi-ki-DINGIR, ia-wi-ki-ìl; kām(m)a: an-nu-ka-ma-bi, bu-nu-ka-ma-i-la, bi-ka-ma-DINGIR/el (Sanmartín GlOS 1, 293) | Buck 2019, 328; Sanmartín GlOS 1, 293 | gloss withheld |
 | Eblaitic | /ki/: (-)gi(-) in names, e.g. gi-a-du, gi-ì-lum; /kay/: (=)ga(=) in names, e.g. ga-ʔà-du, ga-da-mu (Sanmartín GlOS 1, 293) | Sanmartín GlOS 1, 293 | gloss withheld |
+| Biblical Aramaic | kə (HALOT BArm. s.v. כְּ) | HALOT BArm. s.v. כְּ | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic k (Al-Jallad–Jaworska 89) | Al-Jallad–Jaworska 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

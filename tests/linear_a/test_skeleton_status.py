@@ -12,7 +12,7 @@ import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-from tools.core.skeleton import SIGN_DECOMPOSITION, SIGN_STATUS
+from tools.core.skeleton import SIGN_ALIASES, SIGN_DECOMPOSITION, SIGN_STATUS
 from tools.paths import LINEAR_A_DATA
 
 SIGN_VALUES = LINEAR_A_DATA / "sign_values.json"
@@ -69,3 +69,12 @@ def test_the_registry_s_project_readings_carry_the_sign_s_label():
 def test_every_summary_sign_in_the_table_is_labelled():
     unlabelled = sorted(s for s in _expected() if s in SIGN_DECOMPOSITION and s not in SIGN_STATUS)
     assert not unlabelled, unlabelled
+
+
+@LIVE
+def test_the_table_reads_324_and_its_zakros_form_364_at_their_primary_value():
+    signs = json.loads(SIGN_VALUES.read_text(encoding="utf-8"))["signs"]
+    for sign in ("*324", "*364"):
+        primary = signs[sign]["primary"]
+        assert SIGN_DECOMPOSITION[SIGN_ALIASES.get(sign, sign)] == (primary["consonant"], primary["vowel"]), sign
+    assert "*364" not in SIGN_DECOMPOSITION          # an alias, so the decoy alphabet is unchanged

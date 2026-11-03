@@ -29,7 +29,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | mhr (DUL 536 apud SEDonline 1285) | DUL 536; SEDonline 1285 | gloss withheld |
+| Ugaritic | mhr (DULAT 530; SEDonline 1285) | DULAT 530; SEDonline 1285 | gloss withheld |
 | Hebrew | mōhar (HALOT 554 apud SEDonline 1285) | HALOT 554; SEDonline 1285 | gloss withheld |
 | Syrian Aramaic | mahrā (LSyr. 376, SL 721 apud SEDonline 1285) | LSyr. 376, SL 721; SEDonline 1285 | gloss withheld |
 | Arabic | mahr- (Lane 2740 apud SEDonline 1285) | Lane 2740; SEDonline 1285 | gloss withheld |

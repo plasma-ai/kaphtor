@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/563_cut_1_tear_2
 title: "*ḳud-: 'cut' 1, 'tear' 2"
-desc: "Proto-Semitic *ḳud-, 'cut' 1, 'tear' 2: reflexes in 12 language(s)."
+desc: "Proto-Semitic *ḳud-, 'cut' 1, 'tear' 2: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "563"
@@ -34,7 +34,6 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | qdd 2 |  |  |
 | Geez | qdd 1 |  |  |
 | Gurage | qdd 2 |  |  |
-| Hebrew | qdd 1 |  |  |
 | Amharic | qdd 2 |  |  |
 | Harari | qdd 2 |  |  |
 | Syrian Aramaic | qdd 1 (Payne Smith 489) | Payne Smith 489 |  |

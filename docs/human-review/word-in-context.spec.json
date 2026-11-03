@@ -1,0 +1,13 @@
+{
+  "title": "Nine Words in Context",
+  "words": ["PU₂-RE-JA", "SU-DU", "RE-TU", "RU-DI", "RU-PI-*305-MI", "SA-MA-TI", "A-TA-NA", "U-NA-KA", "A-NA-TI-*301-WA-JA"],
+  "ruled": {
+    "PU₂-RE-JA|ZAZb34": ["whole", "the word itself, PU₂ damaged"],
+    "PU₂-RE-JA|PKZa16": ["whole", "the word itself, traces follow"],
+    "RU-DI|HT141": ["whole", "the word itself, more signs may follow"],
+    "RU-DI|ZAZb34": ["whole", "the word itself, more signs may follow"],
+    "SU-DU|HT42+59": ["unread", "unread: A622 before it, may run on to a lost line"],
+    "RE-TU|HT42+59": ["unread", "unread: a word may be lost before it, A618 after"]
+  },
+  "spans": {"RU-PI-*305-MI|PE2": [3, 9]}
+}

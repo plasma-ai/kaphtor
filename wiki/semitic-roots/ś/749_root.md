@@ -31,9 +31,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | širš- |  |  |
-| Akkadian | šurš- (CAD Š/3 363) | CAD Š/3 363 |  |
+| Akkadian | šurš- (CAD Š/3 363; AHw 1286) | CAD Š/3 363; AHw 1286 |  |
 | Tigre | sǝr (Kogan 2015, ch. 7 §2.2 no. 68) | Kogan 2015 ch. 7 §2.2 no. 68 |  |
-| Mandaic Aramaic | širš- (Drower/Macuch 463b apud CAL) | Macuch 463b; CAL |  |
+| Mandaic Aramaic | širša (MD 463) | MD 463 |  |
 | Ugaritic | šrš (DULAT 832) | DULAT 832 |  |
 | East Ethiopic | Wol sǝr |  |  |
 | Geez | ŝǝrw (Kogan 2015, ch. 7 §2.2 no. 68) | Kogan 2015 ch. 7 §2.2 no. 68 |  |
@@ -45,7 +45,7 @@ updated: 2026-10-22T17:38:31Z
 | Harari | sǝr (Kogan 2015, ch. 7 §2.2 no. 68) | Kogan 2015 ch. 7 §2.2 no. 68 |  |
 | Syrian Aramaic | šerš- Br 810 |  |  |
 | Gafat | sǝr |  |  |
-| Aramaic | šerš- (DNWSI 1195 apud CAL) | DNWSI 1195; CAL |  |
+| Aramaic | šrš (DNWSI 1195) | DNWSI 1195 |  |
 | Argobba | šǝrit, sǝr |  |  |
 | Tigrinya | sur (Kogan 2015, ch. 7 §2.2 no. 68) | Kogan 2015 ch. 7 §2.2 no. 68 |  |
 | Judaic Aramaic | šoršā, šūršā (HALOT 1659; DJPA 568a apud CAL) | HALOT 1659; DJPA 568a; CAL |  |

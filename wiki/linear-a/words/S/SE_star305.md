@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SE_star305
 title: "SE-*305"
 desc: "ṣēdā: provisions (section heading); same word as SI-DA-TE ṣēdat. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "administrative", "foodstuff", "hapax", "noun"]
 kind: "word"
 form: "SE-*305"
 datasets: ["lexicon"]
@@ -34,14 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | ṣēdā |
 | Meaning | provisions (section heading); same word as SI-DA-TE ṣēdat |
 | Root | ṣ-y-d |
-| Proto-Semitic | \*ṣVwad/\*ṣVyad- (#847) |
-| Language layer | NWS |
-| Category | administrative |
+| Proto-Semitic | \*ṣyd ~ \*zwd (#3505) |
+| Language layer | Semitic |
+| Tags | administrative, foodstuff, hapax, noun |
 | Semantic field | administrative |
 
 ### Note
 
-KH 7a .4 SE-\*305 ·, whole, heading the third section, KU-\[·\]-KO-E VIR+\*313b \[ \]18 / CYP+D 1, in the slot of E-NA-SI naḥāši and I-JA-PA-ME · TA-TA (GORILA III 29). ṣē-dā with \*305 = da, the live alternate of its sign record, since ḏa gives no root. The heading word of SI-DA-TE ṣēdat (ARKH 2) and MA-SI-DU maṣīdu (HT 43), √ṣ-y-d. Rival: the name of the section's leader. One witness.
+KH 7a .4 SE-\*305 ·, whole, heading the third section, KU-\[·\]-KO-E VIR+\*313b \[ \]18 / CYP+D 1, in the slot of E-NA-SI ʾenāš and I-JA-PA-ME · TA-TA (GORILA III 29). ṣē-dā, √ṣ-y-d 'provisions': Heb. ṣêdâ 'provisions for a journey' (HALOT 1021), Ug. ṣd /ṣēdu/ 'provisions, sustenance' (Huehnergard 2012, 156). The heading word of SI-DA-TE ṣēdat (ARKH 2) and MA-SI-DU maṣīdu (HT 43). Rival: the name of the section's leader. One witness.
 
 ### Cognates
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | swr (LGz. 514) | LGz. 514 | gloss withheld |
-| Akkadian | šarāru (LGz. 514) | LGz. 514 | gloss withheld |
+| Akkadian | šarāru (LGz. 514; AHw 1185) | LGz. 514; AHw 1185 | gloss withheld |
 | Tigre | särra, särerät |  | gloss withheld |
 | Ugaritic | msrr (LGz. 514) | LGz. 514 | gloss withheld |
 | Geez | s/ŝarara (LGz. 514) | LGz. 514 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_MA_TI
 title: "SA-MA-TI"
 desc: "Ṣamidi: personal name, 'Harnessed'; cf. Amorite Ṣamidum. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SA-MA-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,25 +35,25 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Harnessed'; cf. Amorite Ṣamidum |
 | Root | ṣ-m-d |
 | Proto-Semitic | \*ṣ̂VmVd- (#411) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 39 .3 SA-MA-TI 10, then KU-RE\[ (GORILA I 75), complete at the left edge. The list runs TA-I-\*123 10\[, KU-RE-JU 8, KU\[, SA-MA-TI 10, KU-RE\[, then KU-RO \*414+A 100\[. SA-MA-TI takes no commodity sign and stands among names. It writes Ṣamidi, cf. the Amorite name ṢAMID-UM and Amorite ṢMD 'to harness' (Gelb AS 21 no. 6398, p. 34), Ug. ṣmd 'yoked pair'. Weak point: TI for di. Rival: Akk. samīdu B, a groats (CAD S 115), which needs a commodity slot. One attestation.
+HT 39 .3 SA-MA-TI 10, then KU-RE\[ (GORILA I 75), complete at the left edge. The list runs TA-I-\*123 10\[, KU-RE-JU 8, KU\[, SA-MA-TI 10, KU-RE\[, then KU-RO \*414+A 100\[. SA-MA-TI takes no commodity sign and stands among names. It writes Ṣamidi, cf. the Amorite woman's name ṢAMID-UM (Gelb 1980, no. 6398) and Amorite ṢMD 'to bind, to harness' (Gelb 1980, 34), Ug. ṣmd 'yoked pair'. Weak point: TI for di. Rival: Akk. samīdu B, a groats (CAD S 115), which needs a commodity slot. One attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | ṢAMID-UM (ZA-MI-DU-UM), a woman's name (Gelb AS 21 no. 6398); ṢMD 'to bind, to harness' (p. 34) |
+| Amorite | ṢAMID-UM (ZA-MI-DU-UM), a woman's name (Gelb 1980, no. 6398); ṢMD 'to bind, to harness' (Gelb 1980, 34) |
 | Ugaritic | ṣmd 'pair; yoked pair; (horse) team' (DULAT 773) |
 | Akkadian | rival samīdu B '(a type of groats)' (CAD S 115) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; DULAT; CAD S
 
 ## Attestations
 

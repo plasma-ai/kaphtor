@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/S/SA_star301_RI
 title: "SA-*301-RI"
 desc: "šannāri: Cat (personal name). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "SA-*301-RI"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.25
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Cat (personal name) |
 | Root | š-n-r |
 | Proto-Semitic | \*šVn(n)ār- ~ \*šurān- (#2190) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 11b: E-TO-RI-\[·\] \*516 / SA-\*301-RI GRA+PA 1 / I OLIV 1. With \*301 = na, SA-NA-RI, s-n-r: the metathesized form of Arabic sinnawr, not Akkadian š-r-n. Šurānu is a personal name in Akkadian (CAD Š/3 339). Reading šannāri, nn unwritten. One attestation.
+ZA 11b .1–.2 E-TO-RI-\[?\] \*516 / SA-\*301-RI · GRA+PA 1 / I OLIV 1. šannāri 'Cat', with \*301 = na: SA-NA-RI, s-n-r, as Arabic sinnawr 'the cat' (Lane 1445), where Akk. šurānu has r before n; the geminate nn unwritten. Ugarit has the name: si-na-ri, sí-na-a-r\[i\] (Kinlaw 1967, 101), read 'cat' (GlOS 2, 201). Rival: a name from a town, as DULAT derives Ugaritic snr from Sināru (DULAT 753). Weak point: \*301 = na is a proposed value. One attestation.
 
 ### Cognates
 
@@ -53,12 +54,32 @@ ZA 11b: E-TO-RI-\[·\] \*516 / SA-\*301-RI GRA+PA 1 / I OLIV 1. With \*301 = na,
 
 ### Source
 
-di Mino; Kinlaw 1967; GlOS 2; Gelb 1980
+di Mino; Kinlaw 1967; GlOS 2; Gelb 1980; DULAT
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Zakros |
+| Supports | Tablet 1 |
+
+### Note
+
+ZA 11b. See the lexicon entry. One witness.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/K/KU_PA|KU-PA]] quppa.
 
 <!-- END kaphtor:record -->

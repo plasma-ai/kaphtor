@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/I/I_KU_RI_NA
 title: "I-KU-RI-NA"
-desc: "ʾiqurna: at the horn / promontory (toponym?). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "toponym"]
+desc: "ʾiqurna: at the horn, the promontory (place name). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "toponym"]
 kind: "word"
 form: "I-KU-RI-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾiqurna |
-| Meaning | at the horn / promontory (toponym?) |
+| Meaning | at the horn, the promontory (place name) |
 | Root | q-r-n (PS \*ḳarn-) |
 | Proto-Semitic | \*ḳarn- (#1959) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | hapax, toponym |
 | Semantic field | toponym |
 
 ### Note
 
-HT90 (Haghia Triada): heads GRA 20, OLE+DI 3 distribution. Skeleton i-k-r-n—initial I- could be locative prefix ("at/in"). If √q-r-n, reads as "at the horn"—a promontory toponym. Alternatively a personal name built on √q-r-n. The k-r-n element echoes KA-RO-NA on HT11a. \|\| If I- is a preposition, its noun is genitive \*qarni\*, not -NA (Fischer 2002, §292); the toponym reading avoids this.
+HT 90 (Haghia Triada): heads a distribution of GRA 20 and OLE+DI 3. i-k-r-n: ʾi- 'at' with √q-r-n, 'at the horn', a promontory toponym; KA-RO-NA on HT 11a has the same k-r-n. A preposition would govern the genitive qarni, not -NA (Fischer 2002, §292), so I-KU-RI-NA is a fixed place name, not a phrase. Rival: a personal name on √q-r-n. One attestation.
 
 ### Cognates
 
@@ -72,8 +72,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | toponym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | toponym (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

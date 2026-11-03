@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/988_be_favourable
 title: "*ḫVyVr-: 'be favourable'"
-desc: "Proto-Semitic *ḫVyVr-, 'be favourable': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫVyVr-, 'be favourable': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "988"
@@ -32,6 +32,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḫyr \[-i-\] |  |  |
 | Amorite | ḫāyir (Buck 2019, 328) | Buck 2019, 328 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫr; ḫyr (Al-Jallad 2026, 70) | Al-Jallad 2026 70 | gloss withheld |
+| Epigraphic South Arabian | Sab ḫyr; ʾḫyr (Biella 201) | Biella 201 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

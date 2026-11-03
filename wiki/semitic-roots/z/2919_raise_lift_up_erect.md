@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/2919_raise_lift_up_erect
 title: "*zqp: 'raise, lift up; erect'"
-desc: "Proto-Semitic *zqp, 'raise, lift up; erect': reflexes in 4 language(s)."
+desc: "Proto-Semitic *zqp, 'raise, lift up; erect': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2919"
@@ -31,8 +31,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | zqp (HALOT 279) | HALOT 279 | gloss withheld |
 | Mandaic Aramaic | zqp (HALOT 279) | HALOT 279 |  |
-| Akkadian | zaqāpu (HALOT 279) | HALOT 279 | gloss withheld |
+| Akkadian | zaqāpu (HALOT 279; AHw 1512) | HALOT 279; AHw 1512 | gloss withheld |
 | Syrian Aramaic | zqap 'lift up, crucify; erect; swell' (Payne Smith 119) | Payne Smith 119 |  |
+| Biblical Aramaic | zqp pe. pt. pass. (HALOT 279) | HALOT 279 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

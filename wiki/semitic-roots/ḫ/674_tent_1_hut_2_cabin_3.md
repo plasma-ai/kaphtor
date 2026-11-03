@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḫaym-at- 1, 2 |  |  |
 | Harsusi | ḫīm-ēt-1,2 |  |  |
 | Tigre | ḥaymät 2 |  |  |
-| Ugaritic | ḫm-t 1 |  |  |
+| Ugaritic | ḫm-t 1; ḫym 1 (DULAT 411) | DULAT 411 | gloss withheld |
 | Geez | ḫaymat 1 |  |  |
 | Jibbali | ḫom 1 (pl.) |  |  |
 | Amharic | haymät 2 |  |  |

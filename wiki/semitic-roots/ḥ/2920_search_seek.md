@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2920_search_seek
 title: "*ḥVpVś-: 'search, seek'"
-desc: "Proto-Semitic *ḥVpVś-, 'search, seek': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ḥVpVś-, 'search, seek': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2920"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Sab ḥfš (Biella 182) | Biella 182 | gloss withheld |
 | Hebrew | ḥāpaś 'search' (BDB 344); ḥēpeś 'plot, device' (BDB 344) | BDB 344 |  |
 | Ugaritic | ḥpšt (HALOT 341) | HALOT 341 |  |
 | Arabic | ḥafaša (HALOT 341) | HALOT 341 |  |

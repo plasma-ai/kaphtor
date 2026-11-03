@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | r-k-l 'traffic, trade', rklh 'merchandise' (BDB 940) | BDB 940 |  |
 | Epigraphic South Arabian | rkl (HALOT 1237; Sabaweb lemma 6822) | HALOT 1237; Sabaweb lemma 6822 | gloss withheld |
-| Aramaic | r-k-l ‘trade, peddle’ (Aramaic Root Atlas 1604) | Aramaic Root Atlas 1604 |  |
+| Aramaic | r-k-l (Aramaic Root Atlas 1604); rkl (DNWSI 1076) | Aramaic Root Atlas 1604; DNWSI 1076 | gloss withheld |
 | Syrian Aramaic | rakkālā (HALOT 1237) | HALOT 1237 | gloss withheld |
 | Judaic Aramaic | rōkəlā (HALOT 1237) | HALOT 1237 | gloss withheld |
 

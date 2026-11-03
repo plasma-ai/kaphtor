@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/823_glut
 title: "*ŝVrah-: 'glut'"
-desc: "Proto-Semitic *ŝVrah-, 'glut': reflexes in 1 language(s)."
+desc: "Proto-Semitic *ŝVrah-, 'glut': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "823"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | šrh \[-a-\] |  |  |
+| Pre-Islamic North Arabian | Safaitic tśrh (Al-Jallad 2026, 141) | Al-Jallad 2026 141 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

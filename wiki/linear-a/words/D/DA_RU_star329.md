@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_RU_star329
 title: "DA-RU-*329"
 desc: "Dārum: personal name, 'Eternal'; rival Arabic Dārim. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DA-RU-*329"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Eternal'; rival Arabic Dārim |
 | Root | d-w-r |
 | Proto-Semitic | \*dawr- (#40) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

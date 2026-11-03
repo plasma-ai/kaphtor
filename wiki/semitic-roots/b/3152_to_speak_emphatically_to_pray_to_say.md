@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3152_to_speak_emphatically_to_pray_to_say
 title: "*bhl: 'to speak emphatically, to pray; to say'"
-desc: "Proto-Semitic *bhl, 'to speak emphatically, to pray; to say': reflexes in 12 language(s)."
+desc: "Proto-Semitic *bhl, 'to speak emphatically, to pray; to say': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3152"
@@ -35,12 +35,14 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | belä (WTS 267 apud SEDonline 1107) | WTS 267; SEDonline 1107 | gloss withheld |
 | Tigrinya | bälä (TED 1074 apud SEDonline 1107) | TED 1074; SEDonline 1107 | gloss withheld |
 | Amharic | alä (AED 1094 apud SEDonline 1107) | AED 1094; SEDonline 1107 | gloss withheld |
-| Argobba | ɨbbehhal (Wetter 2010:91 apud SEDonline 1107) | Wetter 2010:91; SEDonline 1107 | gloss withheld |
+| Argobba | ɨbbehhal (Wetter 2010:91 apud SEDonline 1107); ala (LGz. 89) | Wetter 2010:91; SEDonline 1107; LGz. 89 | gloss withheld |
 | Harari | bāyä (EDH 49 apud SEDonline 1107) | EDH 49; SEDonline 1107 | gloss withheld |
 | East Ethiopic | Sel. Zwy. bālä, Wol. balä (EDG 138 apud SEDonline 1107) | EDG 138; SEDonline 1107 | gloss withheld |
 | Gurage | Cha. Ezha End. Enn. Gye. Msq. barä, Muh. beä, Gog. bea, Sod. balä (EDG 138 apud SEDonline 1107) | EDG 138; SEDonline 1107 | gloss withheld |
 | Mehri | bəhlīt (ML 45 apud SEDonline 1107) | ML 45; SEDonline 1107 | gloss withheld |
 | Jibbali | bɛhlét (JL 24 apud SEDonline 1107) | JL 24; SEDonline 1107 | gloss withheld |
+| Gafat | balä (LGz. 89) | LGz. 89 | gloss withheld |
+| Harsusi | behelēt (LGz. 89) | LGz. 89 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

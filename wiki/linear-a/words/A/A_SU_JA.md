@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_SU_JA
 title: "A-SU-JA"
 desc: "Azzuya: Azzuya (woman's name; Hurrian hypocoristic on az(z)-). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-SU-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,8 +34,8 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Azzuya |
 | Meaning | Azzuya (woman's name; Hurrian hypocoristic on az(z)-) |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
@@ -71,10 +71,14 @@ di Mino; Gelb, Purves, and MacRae 1943; Monti 2017
 | Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 11a .3–4 A-SU-JA 1, the first entry after KU-RO 10 (GORILA I 23). Spelled as Nuzi A-zu-ia. See the lexicon entry.
 
 ### Co-occurring lexicon words
 

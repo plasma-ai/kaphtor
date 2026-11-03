@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/143_mouth
 title: "*pay-: 'mouth'"
-desc: "Proto-Semitic *pay-, 'mouth': reflexes in 23 language(s)."
+desc: "Proto-Semitic *pay-, 'mouth': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "143"
@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | MUH MSQ GOG SOD af, CHA EŽA ãf, ENN END GYE ãfʷ \[LGur 19\] | LGur 19 |  |
 | Biblical Aramaic | pūm (BDB 1108) | BDB 1108 |  |
 | Phoenician | p-y (with 1 and 3 pron. suff.) \[T 261\] | T 261 | gloss withheld |
-| Punic | py (HALOT 914) | HALOT 914 |  |
+| Punic | py (HALOT 914); lpy (Krahmalkov 260) | HALOT 914; Krahmalkov 260 | gloss withheld |
 | Modern Aramaic | MAL ṯemma \[Berg 102\] TUR fēmo \[R Ṭūrōyō 114\] MLH pemo \[J Mlah 185\] HRT pemma \[J Hert 195\] NASS pümä \[Tser 0164\] ZKH pümma \[R Zakho 109\] MMND pom, emph. pomma \[M MND 511\] IRAN púmmā \[Pen 112\] | Berg 102; J Mlah 185; J Hert 195; Tser 0164; M MND 511; Pen 112 | gloss withheld |
 | Hebrew | pǟ (HALOT 914); st. constr. pī | HALOT 914 | gloss withheld |
 | Amharic | ʔaf \[K 1346\] | K 1346 | gloss withheld |
@@ -53,6 +53,7 @@ updated: 2026-10-22T17:38:31Z
 | Argobba | af \[LArg. 189\] | LArg. 189 | gloss withheld |
 | Amorite | pum (Gelb AS 21, 28); pâ/pî / (Buck 2019, 331); pu(w), pū, pi(y), pī: bu, pu, da-dum-pi₅-DINGIR (Ur III) (Sanmartín GlOS 2, 144) | Gelb AS 21 28; Buck 2019, 331; Sanmartín GlOS 2, 144 | gloss withheld |
 | Eblaitic | cf. pù-wu /pu(w), pū, pi(y), pī/ (Sanmartín GlOS 2, 143) | Sanmartín GlOS 2, 143 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic f (Al-Jallad 2026, 47) | Al-Jallad 2026 47 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

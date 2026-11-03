@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_TI_TI
 title: "MA-TI-TI"
 desc: "mattitt(u): gift. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "noun", "ritual", "votive"]
 kind: "word"
 form: "MA-TI-TI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | gift |
 | Root | n-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | noun, ritual, votive |
 | Semantic field | ritual |
 
 ### Note
 
-HT Zd 155 and HT Zd 157, each time right before A319 with no divider before MA; the cut rests on the ending the two graffiti share (Duhoux 1978, §29 A6). Heb. mattat 'gift' &lt; \*mattant, Ph. mtt (HALOT 656). MA-TI-TI writes the i-grade \*mattint- &gt; mattitt-, the final TI a dead vowel. WI-JA-SU on HT Zd 157 names the recipient. The rival √š-m-ṭ 'release' parse needs TI-TI to write a geminate. See NA-TU-\*301-NE.
+HT Zd 155 and HT Zd 157, each time right before A319 with no divider before MA; the cut rests on the ending the two graffiti share (Duhoux 1978, §29 A6). Heb. mattat 'gift' &lt; \*mattant, Ph. mtt (HALOT 656). MA-TI-TI writes the i-grade \*mattint- &gt; mattitt-, the final TI a dead vowel. WI-JA-SU on HT Zd 157 and NA-MA Naʿma on HT Zd 155 name the recipient. The rival √š-m-ṭ 'release' parse needs TI-TI to write a geminate. See NA-TU-\*301-NE.
 
 ### Cognates
 

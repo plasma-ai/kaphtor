@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI
 title: "SI"
 desc: "šay: tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "ritual"]
+tags: ["linear-a", "word", "tier-3", "abbreviation", "accounting", "administrative", "logogram", "transaction_sign"]
 kind: "word"
 form: "SI"
 datasets: ["lexicon"]
@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
 reading: "šay"
-attestations: ["HT30", "HT106", "HT130", "HT154n", "HT27b", "HT51b", "GO2r", "KH7b", "KH22", "KH76", "PH3b", "HTWa1175", "HTWa1176", "HTWa1177", "HTWa1178", "HTWa1179", "HTWa1180", "HTWa1181", "HTWa1182", "HTWa1183", "HTWa1184", "HTWa1185", "HTWa1186", "HTWa1187", "HTWa1188", "HTWa1189", "HTWa1190", "HTWa1191", "HTWa1192", "HTWa1193", "HTWa1194", "HTWa1195", "HTWa1196", "HTWa1197", "HTWa1198", "HTWa1199", "HTWa1200", "HTWa1201", "HTWa1202", "HTWa1203", "HTWa1204", "HTWa1205", "HTWa1206", "HTWa1207", "HTWa1208", "HTWa1209", "HTWa1210", "HTWa1211", "HTWa1212", "HTWa1213", "HTWa1214", "HTWa1215", "HTWa1216", "HTWa1217", "HTWa1218", "HTWa1219", "HTWa1220", "HTWa1221", "HTWa1222", "HTWa1223", "HTWa1224", "HTWa1225", "HTWa1226", "HTWa1227", "HTWa1228", "HTWa1229", "HTWa1230", "HTWa1231", "HTWa1232", "HTWa1233", "HTWa1234", "HTWa1235", "HTWa1236", "HTWa1237", "HTWa1238", "HTWa1239", "HTWa1240", "HTWa1241", "HTWa1242", "HTWa1243", "HTWa1244", "HTWa1245", "HTWa1246", "HTWa1247", "HTWa1248", "HTWa1249", "HTWa1250", "HTWa1251", "HTWa1252", "HTWa1253", "HTWa1254", "HTWa1255", "HTWa1256", "HTWa1257", "HTWa1258", "HTWa1259", "HTWa1260", "HTWa1261", "HTWa1262", "HTWa1263", "HTWa1264", "HTWa1265", "HTWa1266", "HTWa1267"]
+attestations: ["HT30", "HT106", "HT130", "HT154n", "HT27b", "HT51b", "GO2r", "KH7b", "KH22", "KH76", "PH3b", "HTWa1175", "HTWa1176", "HTWa1177", "HTWa1178", "HTWa1179", "HTWa1180", "HTWa1181", "HTWa1182", "HTWa1183", "HTWa1184", "HTWa1185", "HTWa1186", "HTWa1187", "HTWa1188", "HTWa1189", "HTWa1190", "HTWa1191", "HTWa1192", "HTWa1193", "HTWa1194", "HTWa1195", "HTWa1196", "HTWa1197", "HTWa1198", "HTWa1199", "HTWa1200", "HTWa1201", "HTWa1202", "HTWa1203", "HTWa1204", "HTWa1205", "HTWa1206", "HTWa1207", "HTWa1208", "HTWa1209", "HTWa1210", "HTWa1211", "HTWa1212", "HTWa1213", "HTWa1214", "HTWa1215", "HTWa1216", "HTWa1217", "HTWa1218", "HTWa1219", "HTWa1220", "HTWa1221", "HTWa1222", "HTWa1223", "HTWa1224", "HTWa1225", "HTWa1226", "HTWa1227", "HTWa1228", "HTWa1229", "HTWa1230", "HTWa1231", "HTWa1232", "HTWa1233", "HTWa1234", "HTWa1235", "HTWa1236", "HTWa1237", "HTWa1238", "HTWa1239", "HTWa1240", "HTWa1241", "HTWa1242", "HTWa1243", "HTWa1244", "HTWa1245", "HTWa1246", "HTWa1247", "HTWa1248", "HTWa1249", "HTWa1250", "HTWa1251", "HTWa1252", "HTWa1253", "HTWa1254", "HTWa1255", "HTWa1256", "HTWa1257", "HTWa1258", "HTWa1259", "HTWa1260", "HTWa1261", "HTWa1262", "HTWa1263", "HTWa1264", "HTWa1265", "HTWa1266"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | tribute, gift—logographic abbreviation of šay(u); administrative category marker for goods designated as tribute/gift offerings |
 | Root | š-y |
 | Proto-Semitic | \*ṯay- (#3780) |
-| Language layer | NWS |
-| Category | ritual |
-| Semantic field | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, accounting, administrative, logogram, transaction_sign |
+| Semantic field | administrative |
 
 ### Note
 
-112 attestations across 3 distributional patterns, structurally parallel to TE (terûmā): (1) On tablets in position SI · NUMBER (10 occurrences: HT, KH, PH, GO)—marks a quantity as tribute: on HT106, MI-NU-TE · CYP · 6 · SI · 5½ · SI · 1 · DA · 8 · SI · 3 = tribute sub-quantities within a CYP reckoning (MI-NU-TE). On HT30, SI · 4 opens a multi-commodity summary. (2) Standalone on 93 nodules (all HT)—category stamp marking sealed goods as 'tribute.' Part of the single-sign nodule classification system: \*301 (231), KU (152), KA (150), SI (93), RO (91), ZE (46), TE (27), I (25). (3) In compound logograms: SI+SE (3 tablets), QI+SI (ZA9), SI+ME, SI-CYP (HT130). The SI-CYP compound = 'tribute-cypress' parallels VIN+TE = 'wine-offering.' All three Hebrew attestations of שַׁי describe tribute brought to a temple or divine authority—mapping precisely onto a Minoan palace-sanctuary category stamp. SI and TE form a natural administrative pair: TE = terûmā 'sacred contribution/heave-offering' (voluntary donation to sanctuary), SI = šay 'tribute/gift' (obligatory or diplomatic gift).
+One sign in three uses, the pair of TE terûmā. In entries of the form SI · n, ten times at HT, KH, PH and GO, it marks part of a quantity as tribute: HT 106 MI-NU-TE · CYP · 6 · SI · 5½ · SI · 1 · DA · 8 · SI · 3, sub-quantities within a CYP reckoning; on HT 30, SI · 4 opens a summary of several commodities. Alone, it stamps 92 HT nodules, one of the single-sign nodule categories: \*301 231, KU 152, KA 150, SI 92, RO 91, ZE 46, TE 27, I 25. In ligatures it appears as SI+SE (3 tablets), QI+SI (ZA 9), SI+ME and SI-CYP (HT 130), 'tribute-cypress', on the model of VIN+TE 'wine-offering'. Heb. šay (שַׁי) 'tribute' is brought to a temple or a divine authority at all three of its attestations (Isa 18:7; Ps 68:30; 76:12). SI šay, the owed or diplomatic gift, stands beside TE terûmā, the free donation to the sanctuary.
 
 ### Cognates
 
@@ -64,9 +64,9 @@ di Mino; Tomback 1978
 | [[wiki/linear-a/inscriptions/HT/HT/HT130\|HT130]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT154n\|HT154n]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT51b\|HT51b]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT51b\|HT51b]] | Haghia Triada | Tablet | incomplete; restored |
 | [[wiki/linear-a/inscriptions/GO/GO/GO2r\|GO2r]] | Gournia | Tablet | none |
-| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] | Khania | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/KH/KH/KH22\|KH22]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/KH/KH/KH76\|KH76]] | Khania | Tablet | none |
 | [[wiki/linear-a/inscriptions/PH/PH/PH3b\|PH3b]] | Phaistos | Tablet | none |
@@ -162,7 +162,6 @@ di Mino; Tomback 1978
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1264\|HTWa1264]] | Haghia Triada | Nodule | none |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1265\|HTWa1265]] | Haghia Triada | Nodule | none |
 | [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1266\|HTWa1266]] | Haghia Triada | Nodule | none |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1267\|HTWa1267]] | Haghia Triada | Nodule | none; form not in transliteration |
 
 ## In translations
 
@@ -170,6 +169,7 @@ di Mino; Tomback 1978
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT27b\|HT27b]] |  | unresolved |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT106\|HT106]] | šay | tribute, gift (×3 — sub-quantities: 5½, 1, 3) | PROBABLE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7b\|KH7b]] |  | logogram SI, 14 |  |
 | [[wiki/linear-a/inscriptions/KN/KNZb/KNZb4\|KNZb4]] | šay | tribute (abbreviation) | PROBABLE |
 
 <!-- END kaphtor:record -->

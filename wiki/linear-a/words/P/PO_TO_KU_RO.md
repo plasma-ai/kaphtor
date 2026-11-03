@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PO_TO_KU_RO
 title: "PO-TO-KU-RO"
 desc: "batkull: grandtotal (lit. 'daughter of all'). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "accounting"]
+tags: ["linear-a", "word", "tier-3", "accounting", "administrative", "compound", "noun"]
 kind: "word"
 form: "PO-TO-KU-RO"
 datasets: ["lexicon"]
@@ -35,24 +35,24 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | grandtotal (lit. 'daughter of all') |
 | Root | b-t + k-l |
 | Proto-Semitic | \*bint- (#K0016) + \*kʷall- (#2418) |
-| Language layer | NWS |
-| Category | accounting |
+| Language layer | Semitic |
+| Tags | accounting, administrative, compound, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Gordon reading: PO-TO-KU-RO = bat kol, compound of bat 'daughter' + kol 'all' = grandtotal. Structural parallel to KU-RO (kull 'total'). On HT122b, PO-TO-KU-RO 97 follows KU-RO 65—a grandtotal that sums the subtotal with additional items. Rendsburg includes this in his survey of Gordon's confirmed readings. Skeleton ptkr maps to bt+kr via dead vowels. \|\| PROVEN by cross-tablet arithmetic: HT122a KU-RO 31 + KU-DA 1 + HT122b KU-RO 65 = PO-TO-KU-RO 97 EXACT—the first demonstrated inter-tablet summation.
+HT 122b: PO-TO-KU-RO 97 follows KU-RO 65, a grand total over the subtotal, summed across both faces: HT 122a KU-RO 31 + KU-DA 1 + HT 122b KU-RO 65 = 97 (Schrijver 2014, 4). Gordon reads bat kol, bat 'daughter' with kol 'all', 'daughter of all', the grand total, deriving po-to from \*butt- &lt; \*bunt-, the feminine of Ugaritic bun- 'son' (Gordon 1966 §118); the skeleton p-t-k-r gives bt with kr, the vowels dead. The structure is that of KU-RO kull 'total'.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | bat kol (בַּת כֹּל) 'daughter of all'—compound accounting term |
-| Akkadian | napḫar napḫāri 'total of totals' (different idiom, same concept) |
+| Hebrew | בַּת כֹּל bat kol 'daughter of all', Gordon's reconstruction in Hebrew script (Gordon 1966 §118); Hebrew bat 'daughter', kōl 'all' |
+| Akkadian | kullatu 'all, totality' (CAD K 504) |
 
 ### Source
 
-Gordon 1966; Rendsburg confirms in survey of Gordon's readings
+Gordon 1966 §118; Schrijver 2014
 
 ## Attestations
 

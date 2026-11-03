@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Epigraphic South Arabian | shl (SD 125; Biella 328; Sabaweb lemma 5000) | SD 125; Biella 328; Sabaweb lemma 5000 | gloss withheld |
-| Arabic | sahl (QAC سهل) | QAC سهل | gloss withheld |
+| Arabic | sahl (QAC سهل); sahula (LGz. 528) | QAC سهل; LGz. 528 | gloss withheld |
 | Geez | s-h-l 'be plain, easy, gentle' (Dillmann 01675) | Dillmann 01675 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

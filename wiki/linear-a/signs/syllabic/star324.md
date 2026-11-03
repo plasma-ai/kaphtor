@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/signs/syllabic/star324
 title: "*324"
-desc: "Linear A syllabic *324, speculative: so."
+desc: "Linear A syllabic *324, speculative: ṯa."
 tags: ["linear-a", "sign", "syllabic", "speculative"]
 kind: "sign"
 sign_kind: "syllabic"
 sign: "*324"
 sign_number: null
 status: "speculative"
-value: "so"
+value: "ṯa"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -27,32 +27,31 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Value | /so/ |
-| Alternates | /ʾa/ |
+| Value | /ṯa/ |
+| Alternates | /so/ |
 | Linear B | no Linear B counterpart recorded |
-| Neutralization class | S |
+| Neutralization class | none |
 
 ### Alternate values
 
 | Value | Confidence | Evidence |
 |---|---|---|
-| /ʾa/ | 0.20 | \*324-DI-RA = ʾaddīr "noble, mighty" (√ʾ-d-r)—PS \*ʔaddīr-, Hebrew אַדִּיר (Ps 8:2, 93:4), Ugaritic adr (KTU 1.4 V 3); plain A already writes /ʔa/ |
+| /so/ | 0.25 | LA 363/364 compared with Linear B B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98) |
 
 ### Forms cited for the value
 
-- Linear A has no SO sign (0 SO tokens; Linear B \*12 so has no Linear A form)
-- CH 043 &gt; LA 324 (= 370) / LA 363 (= 364); LA 324 only at Haghia Triada and LA 363/364 only at Zakros, so LA 324 may be a regional variant of either (Ferrara, Montecchi & Valério 2022, 88)
-- LA 363/364 compared with Linear B B 12 so (Soldani 2013, apud Ferrara, Montecchi & Valério 2022, 98)
-- \*324-DI-RA = sōdir 'one who sets in order' (√s-d-r; Akk. sadāru, CAD S 11), DI for d: a recipient among names and titles in the HT9a/HT9b wine lists and HT122a; šōṭēr 'officer' would need DI for ṭ
+- \*364 (ZA 15a) is the Zakros form of \*324 (CANDIDATE): both have a hooked, wavy left stem, a right member and two joining strokes, at Haghia Triada as level rungs to a free upright, at Zakros as diagonals to a closed arc; \*363 (ZA 14) is a capped upright on a base stroke. LA 324 only at Haghia Triada and LA 363/364 only at Zakros, so LA 324 may be a regional variant (Ferrara, Montecchi & Valério 2022, 88)
+- ṮA reads both words: \*324-DI-RA = ṯadira, Ug. ṯdr 'waitress, girl' (DULAT 886–887), in wine lists; \*364-KE-MA-SE = Šakma-se, PS \*ṯVkm- (Ug. ṯkm, Amarna ša-ak-mi). DO (Melena 2014, 85–86, A364 &gt; B 14 do) reads neither
+- Fills the empty ṯa cell beside ZU = ṮU and \*305 = ḎA
 
 ### Note
 
-SPECULATIVE (0.30). Only 1 word attested (\*324-DI-RA, 3 occ at HT). Distinct from ZU (SigLA crops: ladder/frame form against lens-on-stem). On the SigLA crops \*324 is closest to \*364 (ZA15a): both have a hooked, sinuous left stroke and two strokes running to a right member; \*364's strokes spread diagonally to an enclosing arc. \*363 (ZA14) differs in construction. Remains LOW_OCCURRENCE_BLOCKED for formal resolution until a second word context appears.
+SPECULATIVE (0.30). Four tokens in two words: \*324-DI-RA (HT 9a, 9b, 122a) and \*364-KE-MA-SE (ZA 15a). Shoresh UNINFORMATIVE on both words under ṮA and SO (p_max 0.64–0.83).
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | sōdir | SPECULATIVE |
+| [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | ṯadira | SPECULATIVE |
 
 <!-- END kaphtor:record -->

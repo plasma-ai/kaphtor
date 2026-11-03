@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TU_PI_TA
 title: "TU-PI-TA"
 desc: "ṯāpiṭu: judge (title). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "title"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "title"]
 kind: "word"
 form: "TU-PI-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | judge (title) |
 | Root | ṯ-p-ṭ |
 | Proto-Semitic | \*ṯVpVṭ- (#987) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, title |
 | Semantic field | personnel |
 
 ### Note
 
-PORZf2 (Poros Herakleiou, metal object): sole inscription—single word stamped on bronze, consistent with authority token or judicial seal \|\| ETYMOLOGY: Ug. ṯpṭ (Yamm's epithet ṯpṭ nhr 'Judge River'), Heb. šōpēṭ 'judge' (√š-p-ṭ, with ṯ→š in Hebrew), Arab. ṣabiṭ \|\| PHONOLOGY: Three neutralizations: T→ṯ, P→p (trivial), T→ṭ. Initial TU (not ZU) expected: ṯāpiṭu starts with /ṯā-/, and ZU=/ṯu/ only writes /ṯ/ before /u/. Before /ā/, the /ṯ/ neutralizes to the T-series.
+POR Zf 2 (Poros Herakleiou): a single word stamped on a bronze object, an authority token or judicial seal. ṯāpiṭu 'judge': Ug. ṯpṭ, Yamm's epithet ṯpṭ nhr 'Judge River'; Heb. šōpēṭ 'judge' (√š-p-ṭ, ṯ &gt; š); Arb. ṣabiṭ. TU writes ṯ in the T-series, as KA-TA-RE writes it with TA (di Mino, Ya Diktu 16–17 n. 27); TA writes ṭ. One attestation.
 
 ### Cognates
 
@@ -66,8 +66,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

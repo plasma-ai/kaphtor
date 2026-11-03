@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_PA3_NA_TU
 title: "KU-PA₃-NA-TU"
 desc: "Kubānatu: devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personnel"]
+tags: ["linear-a", "word", "tier-2", "loanblend", "noun", "personnel", "ritual"]
 kind: "word"
 form: "KU-PA₃-NA-TU"
 datasets: ["lexicon", "onomasticon"]
@@ -33,14 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kubānatu |
 | Meaning | devotee(s) of Kubaba (Kubaba + -ān- + feminine -atu), a counted personnel group |
-| Root | Kubaba + -ān- + -at- |
-| Language layer | Anatolian/North Syrian theonym with Semitic derivation |
-| Category | personnel |
-| Semantic field | personnel_group |
+| Root | Kubaba (Sumerian Kug-Baba, Haas 1994, 406) + -ān- + -at- |
+| Language layer | Semitic |
+| Tags | loanblend, noun, personnel, ritual |
+| Semantic field | personnel |
 
 ### Note
 
-Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT88, where KU-PA₃-NU also stands). HT119 KU-RO 160 includes \*327 34 and VIR 68, so KU-PA₃-NA-TU 7 counts persons. HT47a KU-PA₃-NA-TU 20\[ is broken. Amorite has the short base with the same -ān- in Kubb-ān-um (Gelb, AS 21, no. 4148), and in Kuba-ʾEl (nos. 4099–4100), so the name need not write Kubaba's second BA. Akkadian ištarītu, a priestess named from Ištar, is the same type. APZa2 I-KU-PA₃-NA-TU-NA-TE carries the stem.
+Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT 88, where KU-PA₃-NU also stands). HT 119 KU-RO 160 includes \*327 34 and VIR 68, so KU-PA₃-NA-TU 7 counts persons. HT 47a KU-PA₃-NA-TU 20\[ is broken. Amorite has the short base with the same -ān- in Kubb-ān-um (Gelb 1980, no. 4148), and in Kuba-ʾEl (Gelb 1980, nos. 4099–4100), so the name need not write Kubaba's second BA. Akkadian ištarītu, a priestess named from Ištar, is the same type. AP Za 2 \]-KU-PA₃-NA-TU-NA-TE-\[ carries the stem.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Feminine of KU-PA₃-NU Kubānu, on the base of KU-PA₃-PA₃ Kubaba (HT88, whe
 
 ### Source
 
-di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, 150
+di Mino, Ya Diktu; Gelb 1980, AS 21, nos. 708, 2094, 4099–4100, 4148; Laroche 1980, 150; Haas 1994
 
 ## Attestations
 

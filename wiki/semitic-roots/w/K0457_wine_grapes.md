@@ -29,14 +29,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | īnu 'wine' | Anderson–Moser 2024 root yyn |  |
-| Aramaic | yyn (DNWSI 455 apud CAL) | DNWSI 455; CAL; Anderson–Moser 2024 root yyn | gloss withheld |
+| Akkadian | inu C (lex.) (CAD I/J 152) | CAD I/J 152 | gloss withheld |
+| Aramaic | yyn (DNWSI 455) | DNWSI 455; Anderson–Moser 2024 root yyn | gloss withheld |
 | Geez | wayn (Kogan 2011, 241) | Kogan 2011 241; Anderson–Moser 2024 root yyn | gloss withheld |
 | Hebrew | yayin (Kogan 2011, 241) | Kogan 2011 241; Anderson–Moser 2024 root yyn | gloss withheld |
 | Punic | yn 'wine' | Anderson–Moser 2024 root yyn |  |
 | Ugaritic | yn (Kogan 2011, 241) | Kogan 2011 241; Anderson–Moser 2024 root yyn | gloss withheld |
 | Arabic | wain (HALOT 409) | HALOT 409 | gloss withheld |
-| Epigraphic South Arabian | wyn, yyn (HALOT 409); SAB QAT wyn (Kogan 2011, 241; Sabaweb lemma 3076) | HALOT 409; Kogan 2011 241; Sabaweb lemma 3076 | gloss withheld |
+| Epigraphic South Arabian | wyn, yyn (HALOT 409); SAB QAT wyn (Kogan 2011, 241; Sabaweb lemma 3076); ʾwyn, ʾywn (SD 166) | HALOT 409; Kogan 2011 241; Sabaweb lemma 3076; SD 166 | gloss withheld |
 | Tigrinya | wäyni (LGz. 623) | LGz. 623 | gloss withheld |
 | Amharic | wäyn (LGz. 623) | LGz. 623 |  |
 | Amorite | yayn- (George and Krebernik 2022, 155); \*yayn (Golinets 2025, 890) | George and Krebernik 2022 155; Golinets 2025 890 | gloss withheld |
@@ -47,6 +47,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Culture word, identical with Hittite/Luwian wa-ia-na-, Greek Ϝοῖνος, Latin vīnum (OLA80 §65.5).
+Culture word, identical with Hittite/Luwian wa-ia-na-, Greek Ϝοῖνος, Latin vīnum (OLA80 §65.5). CAD I/J 152 gives lexical inu no meaning and keeps it apart from Hebrew yayin.
 
 <!-- END kaphtor:record -->

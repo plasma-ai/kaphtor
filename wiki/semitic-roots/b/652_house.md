@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/652_house
 title: "*bayt-: 'house'"
-desc: "Proto-Semitic *bayt-, 'house': reflexes in 24 language(s)."
+desc: "Proto-Semitic *bayt-, 'house': reflexes in 25 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "652"
@@ -49,11 +49,12 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | bet (OLA80 §31.17) | OLA80 §31.17 | gloss withheld |
 | Argobba | bedu (OLA80 §32.28) | OLA80 §32.28 | gloss withheld |
 | Punic | bt, byt (T 58) | T 58 | gloss withheld |
-| Canaanite | Moab bt (DNWSI 156 apud SEDonline 1383) | DNWSI 156; SEDonline 1383 | gloss withheld |
+| Canaanite | Moab bt (DNWSI 156) | DNWSI 156 | gloss withheld |
 | Eblaitic | ba-du (VE 336; Krebernik 1983: 14 apud SEDonline 1383); ba-da-a, ba-da-ga, ba-zu /bayt/: names ba-da, ba-du, ba-ti; /bīt/: names du-bí(NE)-ti, a-ma-bí(NE)-du (Sanmartín GlOS 1, 135) | VE 336; Krebernik 1983: 14; SEDonline 1383; Sanmartín GlOS 1, 135 | gloss withheld |
 | Syrian Aramaic | baytā (Payne Smith 43) | Payne Smith 43 |  |
-| Pre-Islamic North Arabian | Safaitic bt (Al-Jallad–Jaworska 62) | Al-Jallad–Jaworska 62 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bt (Al-Jallad–Jaworska 62); Dadanitic bt; Hismaic bt lt (Al-Jallad 2026, 31) | Al-Jallad–Jaworska 62; Al-Jallad 2026 31 | gloss withheld |
 | Amorite | bīt (Buck 2019, 325; Sanmartín GlOS 1, 135) | Buck 2019, 325; Sanmartín GlOS 1, 135 | gloss withheld |
+| Biblical Aramaic | bayit (HALOT 124) | HALOT 124 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

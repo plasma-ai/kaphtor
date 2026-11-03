@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_KU_TI
 title: "JA-KU-TI"
 desc: "Yaqūti: personal name, Amorite type: base JA-KU with -TI. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "JA-KU-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -34,8 +34,9 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Yaqūti |
 | Meaning | personal name, Amorite type: base JA-KU with -TI |
 | Root | q-w-y (Amorite QWJ, unglossed) |
-| Language layer | NWS |
-| Category | personal_name |
+| Proto-Semitic | \*ḳVw- (#1678) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

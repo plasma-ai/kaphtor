@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/144_face
 title: "*pan-: 'face'"
-desc: "Proto-Semitic *pan-, 'face': reflexes in 14 language(s)."
+desc: "Proto-Semitic *pan-, 'face': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "144"
@@ -34,11 +34,12 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | pānu, pl. OAkk on \[AHw 818\]. | AHw 818 | gloss withheld |
 | Canaanite | MOAB pny (pl.constr.) \[HJ 918\] | HJ 918 |  |
 | Ugaritic | pn; also pl. pnm \[Aist 256\] | Aist 256 | gloss withheld |
-| Phoenician | pn \[T 265\]; pn (B 392) | T 265; B 392 | gloss withheld |
+| Phoenician | pn \[T 265\]; pn (B 392); lpn; lpnm (T 159); ʾt pn (Krahmalkov 90); ʿl pn (Krahmalkov 372) | T 265; B 392; T 159; Krahmalkov 90; Krahmalkov 372 | gloss withheld |
 | Jibbali | fɛ́nɛ \[JJ 59\] | JJ 59 | gloss withheld |
 | Hebrew | pānīm (pl.tant.) (HALOT 938). | HALOT 938 |  |
 | Aramaic | OFF pnh, l-pnmh \[HJ 918\] | HJ 918 |  |
-| Punic | pnm 'face' | Anderson–Moser 2024 root pnʾ |  |
+| Punic | pnm; lpn (T 159); lpny (T 160); N.Pu. lpny, lpʿnʾ (T 159); ʿl pn; Neo-Punic ʿl pʿny (Krahmalkov 372); pnt (Krahmalkov 400) | T 159; T 160; Krahmalkov 372; Krahmalkov 400; Anderson–Moser 2024 root pnʾ | gloss withheld |
+| Moabite | lpny (T 159) | T 159 | gloss withheld |
 | Arabic | fināʾ (HALOT 938) | HALOT 938 | gloss withheld |
 | Mehri | fenē (LGz. 163) | LGz. 163 | gloss withheld |
 | Epigraphic South Arabian | Sab fnw (Kogan 2011, 220; Sabaweb lemma 4108) | Kogan 2011 220; Sabaweb lemma 4108 | gloss withheld |

@@ -23,7 +23,10 @@ Khania, and documents published since. Each document gives its site, dimensions,
 and drawing, and each of its signs with its reading and class.
 
 `data/linear-a/corpus.json` builds on SigLA's readings; its record keys and how they group into documents are in
-[corpus-census.md](../corpus-census.md).
+[corpus-census.md](../corpus-census.md). SigLA's own database file is in `data/linear-a/sigla/database.js`, and
+`data/linear-a/sigla_db.json` decodes it: every document's sign positions, unread ones included, with SigLA's
+certainty flag and word division, each document tied to its corpus.json record. Its datasheet is
+[sigla_db.md](../../data/linear-a/sigla_db.md).
 
 ### URL patterns
 

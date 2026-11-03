@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥag (HALOT 289) | HALOT 289 | gloss withheld |
 | Epigraphic South Arabian | Sab ḥgg (SD 66; Biella 165; Sabaweb lemma 4321); Qat. ḥgn (Ricks 1982 s.v. ḥgn) | SD 66; Biella 165; Sabaweb lemma 4321; Ricks 1982 s.v. ḥgn | gloss withheld |
 | Syrian Aramaic | ḥaggā (Kogan 2015, ch. 3 §5.2 no. 23) | Kogan 2015 ch. 3 §5.2 no. 23 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ḥgg (Al-Jallad–Jaworska 85) | Al-Jallad–Jaworska 85 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥgg (Al-Jallad–Jaworska 85); ḥg; Dadanitic ḥgg (Al-Jallad 2026, 74) | Al-Jallad–Jaworska 85; Al-Jallad 2026 74 | gloss withheld |
 | Phoenician | ḥgy (root ḥgg), a personal name (Benz PNPPI 307) |  | gloss withheld |
 | Eblaitic | /ḥagg/: names ʔà-gi, ʔà-ki-a, ʔà-a-ki-al₆; /ḥaggūt/: cf. names ʔà-gú-ud, ʔà-gú-du (Sanmartín GlOS 1, 234) | Sanmartín GlOS 1, 234 | gloss withheld |
 

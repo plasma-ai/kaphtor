@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DI_KI_SE
 title: "DI-KI-SE"
-desc: "Dikise: Dikise (personal name; possibly related to Hurrian tagiše/tegiše 'beautiful; beauty'). Lexicon, CANDIDATE (tier 2)."
+desc: "Dikise: Dikise, personal name, Hurrian tagiše 'beauty'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "DI-KI-SE"
@@ -32,14 +32,14 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Dikise |
-| Meaning | Dikise (personal name; possibly related to Hurrian tagiše/tegiše 'beautiful; beauty') |
+| Meaning | Dikise, personal name, Hurrian tagiše 'beauty' |
 | Language layer | Hurrian |
-| Category | personal_name |
-| Semantic field | personnel |
+| Tags | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-Personal-name candidate. Laroche directly records Hurrian tagi 'beautiful' and the theme tagiše/tegiše 'beautiful' or 'beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Glossaire hourrite, pp. 249–50). These forms are closer controls than an internally reconstructed tagi + -šše analysis. DI-KI-SE can approximate tagiše/tegiše through Linear A stop and sibilant neutralization, though its vowels are not exact. Tagi is independently attested as a Hurrian personal name in EA 264–66. Keep Dikise untranslated as a name.
+HT 87 and HT 117b, two lists headed \*21F-TU-NE, each count DI-KI-SE 1: on HT 87 between JA-RE-MI 1 and QE-SU-PU 1, on HT 117b after KU-RE-JU 1. Hurrian tagi 'beautiful' and the theme tagiše/tegiše 'beautiful, beauty', written t/da-a-ki-ši and ta-(a)-ki-(e)-še (Laroche 1980, 249–50), under stop and sibilant neutralization; Tagi is a Hurrian personal name in EA 264–66. DI writes the e of tegiše by the Hurrian e/i convention (Laroche 1980, 23). Weak point: no name Tegiše is attested; the held name is Tagi.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ Personal-name candidate. Laroche directly records Hurrian tagi 'beautiful' and t
 
 ### Source
 
-di Mino
+di Mino; Laroche 1980
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0206_weave
 title: "*nasag-: 'weave'"
-desc: "Proto-Semitic *nasag-, 'weave': reflexes in 2 language(s)."
+desc: "Proto-Semitic *nasag-, 'weave': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0206"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | nasaǧa 'wove' (Lane 2788) | Lane 2788 |  |
 | Aramaic | NSG (Aramaic Root Atlas; CAL s.v. nsg) | Aramaic Root Atlas; CAL s.v. nsg; Anderson–Moser 2024 root nsg | gloss withheld |
+| Amorite | lu-ú na-sí-IK /naSiG/ (Sanmartín GlOS 2, 100) | Sanmartín GlOS 2, 100 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

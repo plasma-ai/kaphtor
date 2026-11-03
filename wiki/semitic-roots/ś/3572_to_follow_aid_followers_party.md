@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3572_to_follow_aid_followers_party
 title: "*ŝwʕ ~ *ŝyʕ: 'to follow, aid; followers, party'"
-desc: "Proto-Semitic *ŝwʕ ~ *ŝyʕ, 'to follow, aid; followers, party': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ŝwʕ ~ *ŝyʕ, 'to follow, aid; followers, party': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3572"
@@ -30,12 +30,13 @@ updated: 2026-10-26T14:26:59Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | mušāyaʿat 'the following another, conforming with him'; šīʿat 'a separate, distinct party, sect'; šāʿat 'a wife' (Lane 1632) | Lane 1632 |  |
-| Epigraphic South Arabian | Sab s2wʿ; s2wʿ; s2ʿt (Biella 513); s2wʿ (SD 135–136); s2ʿt; s2ʿt (SD 136) | Biella 513; SD 135–136; SD 136 | gloss withheld |
+| Epigraphic South Arabian | Sab s2wʿ; s2wʿ; s2ʿt (Biella 513); s2wʿ (SD 135–136); s2ʿt; s2ʿt (SD 136); s2ʿy (Biella 521) | Biella 513; SD 135–136; SD 136; Biella 521 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śʿ; śʿt; śʿ; śyʿ (D); Dadanitic śʿt; Dhofari śʿ (Al-Jallad 2026, 144) | Al-Jallad 2026 144 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Arabic has the root with y (Lane 1632), Sabaic with w; Arabic š and Sabaic s2 point to \*ŝ. SD 136 glosses s2ʿt 'community, following' with Arabic šīʿa and s2ʿt 'spouse' with šāʿa. 615 \*ŝVwVʕ- 'call (for help)' is another word.
+Arabic has the root with y (Lane 1632), Sabaic with w; Arabic š and Sabaic s2 point to \*ŝ. SD 136 glosses s2ʿt 'community, following' with Arabic šīʿa and s2ʿt 'spouse' with šāʿa. 615 \*ŝVwVʕ- 'call (for help)' is another word. Al-Jallad (2026, 144) compares Aramaic syʿ D 'to aid', 'to support or accompany a caravan' (Palmyrene) and syʿh, syʿtʾ (sīʿā, sīʿătā) 'crowd', 'group, band' (CAL, s.v. syʿ v., syʿh n.).
 
 <!-- END kaphtor:record -->

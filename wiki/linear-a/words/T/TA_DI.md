@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/T/TA_DI
 title: "TA-DI"
-desc: "dādī: my beloved, a name and name element; alternate spelling DE-DI. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "onomastic"]
+desc: "dādī: my beloved, a name and name element. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TA-DI"
 datasets: ["lexicon"]
@@ -10,7 +10,7 @@ tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.2
 reading: "dādī"
-attestations: ["HTWc3008", "HT94b"]
+attestations: ["HTWc3008"]
 created: 2026-10-28T21:25:46Z
 updated: 2026-10-28T21:25:46Z
 ---
@@ -32,16 +32,16 @@ updated: 2026-10-28T21:25:46Z
 | Field | Value |
 |---|---|
 | Reading | dādī |
-| Meaning | my beloved, a name and name element; alternate spelling DE-DI |
+| Meaning | my beloved, a name and name element |
 | Root | d-w-d |
 | Proto-Semitic | \*dawid- (#19) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Two spellings. TA-DI within RU-JA-TA-DI Ruya-dādī (HT Wc 3008). DE-DI, the alternate spelling, stands alone as a name: HT 94b .2 DE-DI 1, whole and undotted, in the KI-RO list of five one-unit entries (GORILA I 153), written Dedī. The Ugaritic PN ddy has both spellings, syll. ta-di-e and da-de₄-ya (DULAT 264); Hebrew Dōday (1 Chr 27:4) and Mari di-di, a carpenter (ARM 21 397). Rival for DE-DI: the Hurrian ddy, syll. ti-še-ia (DULAT 264). One witness each.
+TA-DI within RU-JA-TA-DI Ruya-dādī (HT Wc 3008). The Ugaritic PN ddy, syll. ta-di-e and da-de₄-ya (DULAT 264); Hebrew Dōday (1 Chr 27:4) and Mari di-di, a carpenter (ARM 21 397). One witness. See DE-DI.
 
 ### Cognates
 
@@ -62,6 +62,5 @@ di Mino; DULAT; Buck 2018; Pagan 1998
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HTWc/HTWc3008\|HTWc3008]] | Haghia Triada | Roundel | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | Haghia Triada | Tablet | complete; form not in transliteration |
 
 <!-- END kaphtor:record -->

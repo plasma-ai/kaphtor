@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ṣʕq 1 |  |  |
 | Epigraphic South Arabian | ṣʕq 2 (Sabaweb lemma 17233) | Sabaweb lemma 17233 | gloss withheld |
 | Judaic Aramaic | ṣʕq 1 |  |  |
-| Aramaic | ṣʿq (HALOT 1042); ṢʿQ (DNWSI 971 apud CAL) | HALOT 1042; DNWSI 971; CAL; Anderson–Moser 2024 root sʿq | gloss withheld |
+| Aramaic | ṣʿq (HALOT 1042); ṢʿQ (DNWSI 971) | HALOT 1042; DNWSI 971; Anderson–Moser 2024 root sʿq | gloss withheld |
 | Mehri | ṣāḳ 1 (Kogan 2015, ch. 2 §5.2.2.3 no. 10) | Kogan 2015 ch. 2 §5.2.2.3 no. 10 |  |
 | Soqotri | ṣáʕaḳ 1 (Kogan 2015, ch. 2 §5.2.2.3 no. 10) | Kogan 2015 ch. 2 §5.2.2.3 no. 10 |  |
 

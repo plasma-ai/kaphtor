@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0760_nurse
 title: "*ḥVḍVn-: 'nurse'"
-desc: "Proto-Semitic *ḥVḍVn-, 'nurse': reflexes in 16 language(s)."
+desc: "Proto-Semitic *ḥVḍVn-, 'nurse': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0760"
@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ḫaṣānu (SED I 117); ḫaṣānu (CAD Ḫ 129); (?) ḫuṣannu (SED I 117) | SED I 117; CAD Ḫ 129 | gloss withheld |
 | Aramaic | ḤʿN 'clasp' | Anderson–Moser 2024 root ḥḍn |  |
-| Geez | ḥaḍana; ḥəḍn (SED I 117) | SED I 117; Anderson–Moser 2024 root ḥḍn | gloss withheld |
+| Geez | ḥaḍana; ḥəḍn (SED I 117); ḥaḍānit (LGz. 226) | SED I 117; LGz. 226; Anderson–Moser 2024 root ḥḍn | gloss withheld |
 | Hebrew | ḥeṣen; ḥōṣän (SED I 117); suff. ḥoṣn- (HALOT 344) | SED I 117; HALOT 344; Anderson–Moser 2024 root ḥḍn | gloss withheld |
 | Judaic Aramaic | ḥēnā (SED I 117) | SED I 117 | gloss withheld |
-| Arabic | ḥiḍn- (SED I 117) | SED I 117 | gloss withheld |
+| Arabic | ḥiḍn- (SED I 117); ḥaḍana (LGz. 226) | SED I 117; LGz. 226 | gloss withheld |
 | Tigre | ḥaṣən (SED I 118) | SED I 118 | gloss withheld |
-| Tigrinya | ḥəṣni (SED I 118) | SED I 118 | gloss withheld |
-| Amharic | č̣ən (SED I 118) | SED I 118 | gloss withheld |
+| Tigrinya | ḥəṣni (SED I 118); ḥaṣänä (LGz. 226) | SED I 118; LGz. 226 | gloss withheld |
+| Amharic | č̣ən (SED I 118); aṭṭänä (LGz. 226) | SED I 118; LGz. 226 | gloss withheld |
 | Argobba | č̣ən (SED I 118) | SED I 118 | gloss withheld |
 | Gafat | č̣ən (SED I 118) | SED I 118 | gloss withheld |
 | Harari | č̣ən (SED I 118) | SED I 118 | gloss withheld |
@@ -46,6 +46,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | MUH č̣ənä (SED I 118) | SED I 118 |  |
 | Soqotri | ẓ̂ánaḥ (Kogan 2011, 218) | Kogan 2011 218 | gloss withheld |
 | Amorite | ḥṣn: jaḥṣun, jāḥṣin, ḥaṣanum, fem. ḥaṣanatum, ḥaṣnatum, ḥiṣnum, ḥuṣānum (Gelb AS 21, 20) | Gelb AS 21 20 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥḍn (Al-Jallad 2026, 73) | Al-Jallad 2026 73 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

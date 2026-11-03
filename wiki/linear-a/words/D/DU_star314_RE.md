@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU_star314_RE
 title: "DU-*314-RE"
 desc: "dubur: sanctuary, inner sanctum; proposed variant spelling of DU-PU₂-RE. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "noun", "ritual"]
 kind: "word"
 form: "DU-*314-RE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | sanctuary, inner sanctum; proposed variant spelling of DU-PU₂-RE |
 | Root | d-b-r |
 | Proto-Semitic | \*dVb(V)r- (#151) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Preferred as a word-specific variant of DU-PU₂-RE, attested in the same ritual corpus at PKZa15 and HTZb160. Facchetti (1999, 132) and Davis (2013, 44 n. 46) identify \*314 here as an orthographic variant of PU₂; Thomas (2020, 8) cautiously accepts the comparison. On di Mino's Semitic reading, dubur means 'sanctuary, inner sanctum' (√d-b-r; cf. Hebrew dəbīr), forming dubur ʾIda, 'the sanctuary of Ida.' This is a word-specific equation, not a value assigned to every \*314. RI would yield √d-r-r comparanda but no secure contextual parse. GORILA IV 20 dots DU and RE; \*314 is whole.
+KO Za 1 .2 TU-RU-SA · DU-\*314-RE · I-DA-A ·, after A-TA-I-\*301-WA-JA; GORILA IV 20 dots DU and RE, and \*314 is whole. Facchetti (1999, 132) and Davis (2013, 44 n. 46) take \*314 here as an orthographic variant of PU₂, and Thomas (2020, 8) admits the comparison: DU-\*314-RE writes DU-PU₂-RE, the word of PK Za 15 and HT Zb 160 in the same ritual corpus, an equation for this word alone. dubur 'sanctuary, inner sanctum', Heb. dəbîr 'rear room, holy of holies' (1 Kgs 6:5), on Arb. dub(u)r 'rump' (HALOT 208): dubur ʾIda 'the sanctuary of Ida'. Rival: \*314 = RI, √d-r-r, which gives no parse in context. One attestation. See DU-PU₂-RE.
 
 ### Cognates
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_RE_RO
 title: "KA-RE-RO"
 desc: "Kariru: Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "personal_name"]
 kind: "word"
 form: "KA-RE-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -33,13 +33,14 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kariru |
 | Meaning | Kariru (personal name, Nuzi Qa-ri-ru, Ka-ri-ru); rival karr- 'ram' |
-| Language layer | Akkadian |
-| Category | personal_name |
+| Root | Kariru (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | hapax, loanword, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT Wc 3003, a roundel (HM 77), KA-RE-RO alone, all three signs whole and undotted, no ideogram (GORILA II 72). Nuzi Qa-ri-ru, Ka-ri-ru(m), Qa-ri-ri, at least six men (NPN 80); Gelb gives root qrr, cf. Qar-ru-ru (NPN 322), Purves a Hurrian kar- (NPN 223). Sign for sign, RE for ri. A word alone on a roundel as ZU-DI-RA on HT Wc 3011. Rival: \*ka/irr- 'ram' (#2220; Ug. kr, DULAT 449), the roundel's commodity, with the r written twice. One witness.
+HT Wc 3003, a roundel (HM 77), KA-RE-RO alone, all three signs whole and undotted, no ideogram (GORILA II 72). Nuzi Qa-ri-ru, Ka-ri-ru(m), Qa-ri-ri, at least six men (NPN 80); Gelb gives root qrr, cf. Qar-ru-ru (NPN 322), Purves a Hurrian kar- (NPN 223). Sign for sign, RE for ri. A word alone on a roundel as ZU-DI-RA on HT Wc 3011 and PA-SE-JA on HT Wc 3002. Rival: \*ka/irr- 'ram' (#2220; Ug. kr, DULAT 449), the roundel's commodity, with the r written twice. One witness.
 
 ### Cognates
 

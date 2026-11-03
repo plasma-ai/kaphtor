@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mandaic Aramaic | bar (Drower/Macuch 49b apud CAL) | Macuch 49b; CAL |  |
+| Mandaic Aramaic | bar (MD 49) | MD 49 |  |
 | Ugaritic | bʕr |  |  |
 | Hebrew | bʕr |  |  |
 | Aramaic | (Palest) bǝʕar (DJPA 109a apud CAL) | DJPA 109a; CAL |  |

@@ -25,7 +25,13 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] |  | second heading, second word (unread) |  |
 
 ## Unread
 

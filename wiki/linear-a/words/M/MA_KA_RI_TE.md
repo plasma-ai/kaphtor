@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_KA_RI_TE
 title: "MA-KA-RI-TE"
 desc: "makkārītu: merchants (heading of a roster of men); rival 'red (wool)'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personnel"]
+tags: ["linear-a", "word", "tier-2", "noun", "occupation", "personnel"]
 kind: "word"
 form: "MA-KA-RI-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | merchants (heading of a roster of men); rival 'red (wool)' |
 | Root | m-k-r |
 | Proto-Semitic | \*makir- (#S22) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | noun, occupation, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT 87: \*21F-TU-NE · MA-KA-RI-TE ·, then six men at 1 each. HT 117a: MA-KA-RI-TE · KI-RO · U-MI-NA-SI ·, then ten men at 1 each, KU-RO 10: 'merchants: owed'. One sign-group in both, divider after TE. √m-k-r 'to trade': Ugaritic counts mkrm in rosters with a total (ġr mkrm, DULAT 537), Akkadian has mākiru and makkāru 'trader', Punic mkr. TE writes the -t of a class noun, cf. the Akkadian collective tamkārūtu 'merchants' (CAD T 141). Weak point: no -t form of mkr is attested. Rival: makritu 'red', of wool (CAD M/1 138), which suits a commodity, not a roster of men.
+HT 87: \*21F-TU-NE · MA-KA-RI-TE ·, then six men at 1 each. HT 117a: MA-KA-RI-TE · KI-RO · U-MI-NA-SI ·, then ten men at 1 each, KU-RO 10: 'merchants: owed'. One sign-group in both, divider after TE. √m-k-r 'to trade': Ugaritic counts mkrm in rosters with a total (ġr mkrm, DULAT 537), Akkadian has mākiru and makkāru 'trader', Punic mkr. TE writes the -t of a class noun, cf. the Akkadian collective tamkārūtu 'merchants' (CAD T 141). Hebrew has -t forms of the root, mimkeret 'sale' (Lev 25:42; HALOT 581) and hammōkeret 'she who sells' (Nah 3:4). Weak point: neither names a body of traders. Rival: makritu 'red', of wool (CAD M/1 138), which suits a commodity, not a roster of men.
 
 ### Cognates
 

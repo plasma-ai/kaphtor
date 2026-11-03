@@ -34,10 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 6a .4–5 KA-PA-QE 5 ¾, after O-RA₂-DI-NE 2, on a tablet that opens with KA-PA (GORILA I 13). No reading.
 
 ### Co-occurring lexicon words
 

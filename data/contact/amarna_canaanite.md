@@ -30,8 +30,8 @@ spellings, in place of ORACC's `{d}udar`) and its `form_original` are ours, and 
 carry CC BY-SA 3.0; the open-data download this file is built from (glossaries `qca` and `qpn`, 2024-07-05) states
 "This data is released under the CC0 license", so ORACC's rows here are CC0 and our changes are CC BY 4.0. Credit
 the project all the same. `tools/linear_a/ingest/ingest_oracc_amarna.py` gives the same 247 entries, with the same
-counts, from that download. Two things differ in the private build: a second `semantic_domain` tag on 103 entries
-(by keyword where one matches, otherwise from the part of speech), and the hand changes to the ᵈIŠTAR entry.
+counts, from that download. This file adds two things the script does not give: a second `semantic_domain` tag on the
+103 `qca` entries (by keyword where one matches, otherwise from the part of speech), and the hand changes to the ᵈIŠTAR entry.
 
 **Not included.** Seven rows the private build takes from Anchor Bible commentaries, and one note drawn from them,
 with the review status it gave its row.

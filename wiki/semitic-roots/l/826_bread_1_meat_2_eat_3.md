@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/826_bread_1_meat_2_eat_3
 title: "*laḥm-: 'bread' 1, 'meat' 2, 'eat' 3"
-desc: "Proto-Semitic *laḥm-, 'bread' 1, 'meat' 2, 'eat' 3: reflexes in 10 language(s)."
+desc: "Proto-Semitic *laḥm-, 'bread' 1, 'meat' 2, 'eat' 3: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "826"
@@ -32,14 +32,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | laḥm-, laḥam- 2 (Kogan 2015, ch. 3 §5.2 no. 35) | Kogan 2015 ch. 3 §5.2 no. 35 |  |
 | Ugaritic | lḥm 3; lḥm 1 (Kogan 2015, ch. 3 §5.2 no. 35) | Kogan 2015 ch. 3 §5.2 no. 35 | gloss withheld |
-| Hebrew | leḥem 1 |  |  |
+| Hebrew | leḥem 1; lǝḥûm 2 (HALOT 525) | HALOT 525 | gloss withheld |
 | Syrian Aramaic | laḥm- 1 (Payne Smith 240) | Payne Smith 240 |  |
 | Punic | lḥm (T 157) | T 157 | gloss withheld |
-| Aramaic | laḥmā (HALOT 526; DNWSI 572 apud CAL) | HALOT 526; DNWSI 572; CAL |  |
+| Aramaic | laḥmā (HALOT 526; DNWSI 572) | HALOT 526; DNWSI 572 |  |
 | Amorite | laḥm- (George and Krebernik 2022, 155); \*laḥm- (Golinets 2025, 893) | George and Krebernik 2022 155; Golinets 2025 893 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic lḥm (Al-Jallad–Jaworska 92) | Al-Jallad–Jaworska 92 | gloss withheld |
 | Akkadian | lêmu (CAD L 126, AHw. 543 apud SEDonline 787) | CAD L 126, AHw. 543; SEDonline 787 | gloss withheld |
 | Judaic Aramaic | laḥmaʾ (T 157) | T 157 |  |
+| Biblical Aramaic | ləḥem 1 (HALOT 526) | HALOT 526 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

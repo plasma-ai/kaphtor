@@ -23,7 +23,7 @@ updated: 2026-10-24T16:17:50Z
 
 **Status: proposed.** A proposed value.
 
-Evidence: As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11, so root shape does not decide. In context H gives \*21F-\*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a), \*21F-TU-NE hatune 'son-in-law' (HT 7b, HT 87, HT 117b), \*21F-JA-DU Ḥayya-Addu and TU-\*21F-RI-NA ṭuhārī-nā. HT Scribe 11 writes \*21F-TU-NE (HT 7b, a roster of men) and QE-TU-NE (HT 12, among goods), keeping \*21F apart from Q.
+Evidence: As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11, so root shape does not decide. In context H gives \*21F-\*118 ḥiṭṭa 'wheat' (KH 88, ZA 5a), \*21F-TU-NE hatune 'son-in-law' (HT 7b, HT 87, HT 117b), \*21F-JA-DU Ḥayya-Addu and TU-\*21F-RI-NA ṭuhārīna. HT Scribe 11 writes \*21F-TU-NE (HT 7b, a roster of men) and QE-TU-NE (HT 12, among goods), keeping \*21F apart from Q.
 
 ## Phonetic value
 
@@ -36,7 +36,7 @@ Evidence: As a class (h ḥ ḫ), 7/11 word types, and no rival class above 8/11
 
 ### Forms cited for the value
 
-- TU-\*21F-RI-NA = ṭuhārī-nā "our purification" (√ṭ-h-r)—unique to /h/, no other C fits ṭ-X-r
+- TU-\*21F-RI-NA = ṭuhārīna "the pure ones" (√ṭ-h-r)—unique to /h/, no other C fits ṭ-X-r
 - \*21F-JA-DU = ḥayya-Addu "Addu lives" (√ḥ-y-y; cf. Amorite ḪAJJ-A + DN names, Gelb AS 21 nos. 1651–1653)
 - \*21F-TU-NE = ḥātān "bridegroom" (HT 7b, 87, 117b)
 - JA-\*21F = Yāh, beside PU-RA₂ on HT 28b
@@ -52,13 +52,12 @@ An optional H-sign covering h, ḥ and ḫ, as cuneiform's Ḫ-series writes Wes
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | CANDIDATE |
-| [[wiki/linear-a/words/star/star21F_JA_DU\|\*21F-JA-DU]] | Ḥayya-ʾAddu | SPECULATIVE |
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | SPECULATIVE |
 | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] | hatune | CANDIDATE |
-| [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | dahiru | CANDIDATE |
+| [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | ha-dāhari | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_TU_star21F\|A-SE-TU-\*21F]] | Aštuḫḫa | SPECULATIVE |
 | [[wiki/linear-a/words/N/NA_star21F_NE_MI_NA\|NA-\*21F-NE-MI-NA]] | naḫnemina | SPECULATIVE |
-| [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārī-nā | PROBABLE |
+| [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārīna | PROBABLE |
 | [[wiki/linear-a/words/U/U_NU_star21F\|U-NU-\*21F]] | Unuḫu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

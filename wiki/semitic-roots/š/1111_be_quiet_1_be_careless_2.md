@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | sll \[-u-\] 1 |  |  |
 | Hebrew | šlh 1 |  |  |
-| Aramaic | šlh 2 |  |  |
+| Aramaic | šlh 2; šly 1 (DNWSI 1142) | DNWSI 1142 | gloss withheld |
 | Judaic Aramaic | šəlēwā (HALOT 1505) | HALOT 1505 |  |
 | Biblical Aramaic | šəlē (HALOT 1505) | HALOT 1505 | gloss withheld |
 | Syrian Aramaic | šəlā (šlw) (LGz. 528) | LGz. 528 |  |

@@ -72,7 +72,7 @@ Unicode (Linear A block):
 |---|---|---|---|---|
 | [[wiki/linear-a/words/star/star21F_star118\|\*21F-\*118]] | ḥiṭṭa | wheat; rivals ḫaṭṭu 'sceptre', ḥaṯ 'unleavened bread' | CANDIDATE | CANDIDATE (lexicon) |
 | VIN-SU |  | wine (logogram) + SU |  |  |
-| [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kōhinīma | priests (plural + mimation) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/K/KI_NI_MA\|KI-NI-MA]] | kihinīma | priests (plural + mimation) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/O/O_TA_NI_ZA_SE\|O-TA-NI-ZA-SE]] |  | recipient or toponym (opaque) |  | unread |
 | [[wiki/linear-a/words/S/SA_MI_DA_E\|SA-MI-DA-E]] | samidē | semolina / groats | CANDIDATE | CANDIDATE (lexicon) |
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/OLIV
 title: "OLIV"
 desc: "zayt 'olive (fruit)'. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity ideogram"]
+tags: ["linear-a", "word", "tier-3", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "OLIV"
 datasets: ["lexicon"]
@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.65
 reading: null
-attestations: ["HT50a", "HT91", "HT101", "HT116a", "HT123+124a", "HTW231a", "ZA6a"]
+attestations: ["HT50a", "HT91", "HT101", "HT116a", "HT123+124a", "HTW231a", "ZA6a", "ARKH3a", "HT131b", "HT14", "HT154a", "HT21", "HT44a", "HT58", "TY3a", "ZA11a", "ZA11b", "ZA18a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | zayt 'olive (fruit)' |
 | Root | z-y-t |
 | Proto-Semitic | \*zayt- (#2694) |
-| Language layer | NWS |
-| Category | commodity ideogram |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting olive fruit (distinct from OLE = šamnu 'oil'). Heb. zayit, Ug. zt, Arab. zaytūn. OLIV and OLE co-occur on same tablets with separate quantities (HT50a, HT101, HT116a)—fruit vs product. HT123+124a: OLIV 31 + \*308 (pressed oil) 8¼ = olive processing record. HTW231a: OLIV alone on sealing = commodity label. \*OLIV+TU sub-type compound (3×). 24 standalone, 17 tablets, 5 sites. Standard commodity logogram shared with Linear B.
+Commodity ideogram for the olive fruit, apart from OLE šamnu 'oil', a logogram Linear B shares. OLIV and OLE stand on the same tablets with separate quantities (HT 50a, HT 101, HT 116a), fruit beside product. HT 123+124a gives OLIV 31 beside \*308, pressed oil, 8¼, a record of olive processing; on HT W 231a OLIV alone labels a sealed commodity; OLIV+TU is a subtype, three times. zayt 'olive': Heb. zayit 'olive tree, olive' (HALOT 268–269), Ug. zt 'olive; olive tree; olive grove' (DULAT 984), Arb. zayt 'olive oil', zaytūn 'olive' (Lane 1274). OLIV stands alone 25 times on 18 documents from Haghia Triada, Arkhanes, Tylissos and Zakros.
 
 ### Cognates
 
@@ -50,6 +50,10 @@ Non-phonetic commodity ideogram denoting olive fruit (distinct from OLE = šamnu
 | Hebrew | zayit 'olive tree, olive' (HALOT 268) |
 | Phoenician | zt 'olive(s)' (Krahmalkov 174) |
 | Arabic | zayt 'olive oil' (Lane 1274) |
+
+### Source
+
+di Mino
 
 ## Attestations
 
@@ -61,7 +65,18 @@ Non-phonetic commodity ideogram denoting olive fruit (distinct from OLE = šamnu
 | [[wiki/linear-a/inscriptions/HT/HT/HT116a\|HT116a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | Haghia Triada | Tablet | incomplete |
 | [[wiki/linear-a/inscriptions/HT/HTW/HTW231a\|HTW231a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | Zakros | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/ARKH/ARKH/ARKH3a\|ARKH3a]] | Arkhanes | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT154a\|HT154a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT21\|HT21]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT44a\|HT44a]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT58\|HT58]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11a\|ZA11a]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA11b\|ZA11b]] | Zakros | Tablet | none |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA18a\|ZA18a]] | Zakros | Tablet | none |
 
 ## In translations
 
@@ -74,5 +89,6 @@ Non-phonetic commodity ideogram denoting olive fruit (distinct from OLE = šamnu
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124a\|HT123+124a]] | \[ideogram\] | olives |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT131b\|HT131b]] | zayt | olive (fruit) |  |
 | [[wiki/linear-a/inscriptions/HT/HTW/HTW231a\|HTW231a]] | zayt | olive fruit |  |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA6a\|ZA6a]] | zayt | olives | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -51,11 +51,11 @@ Unicode (Linear A block):
 
 **PROBABLE**, incomplete (status: incomplete).
 
-> \[…\] · O Dikte, Mistress of the Dubur \[…\]
+> \[…\] · O Diktaean of the Sanctuary \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| JA-DI-KI-TE-TE-DU-PU₂-RE | yā Diqqite de dubure | O Dikte, she of the Dubur (vocative yā + Diqqite + de + dubur) | PROBABLE |  |
+| JA-DI-KI-TE-TE-DU-PU₂-RE | yā Diqqitīt dubur | O Diktaean of the Sanctuary (vocative yā + Diqqitīt + dubur) | PROBABLE |  |
 
 ### Notes
 

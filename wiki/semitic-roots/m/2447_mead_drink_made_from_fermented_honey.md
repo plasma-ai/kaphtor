@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Tigre | mes |  |  |
-| Geez | mes, pl. ʔamyas LGz 377 | LGz 377 |  |
+| Geez | mes, pl. ʔamyas LGz 377; masyān (LGz. 368) | LGz 377; LGz. 368 | gloss withheld |
 | Tigrinya | mes |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

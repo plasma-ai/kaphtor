@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/D/DA_KU_NA
 title: "DA-KU-NA"
-desc: "Daguna: personal name, probably derived from Dagan/Dagon; cf. attested Daguna. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personal_name"]
+desc: "Daguna: personal name on Dagan, Daguna. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "DA-KU-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Daguna |
-| Meaning | personal name, probably derived from Dagan/Dagon; cf. attested Daguna |
+| Meaning | personal name on Dagan, Daguna |
 | Root | d-g-n |
 | Proto-Semitic | \*dagān- (#2994) |
-| Language layer | Akkadian |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-DA-KU-NA corresponds exactly, allowing Linear A stop neutralization, to syllabic Da-gu-na. Daguna is attested as an Old Akkadian personal name and later as an Akkadian divine name. Because HT103 is a counted administrative list, an anthroponym or recipient is safer here than a direct reference to the god. The connection with Dagan/Dagon is probable but does not determine the bearer. See GRA.
+HT 103: DA-KU-NA 1, after \*188 13 and before DA-KU-SE-NE 1, in a counted list under U-TA₂ · NI 40. DA-KU-NA writes Da-gu-na, Linear A marking no voicing. Daguna is an Old Akkadian personal name in lists (JCS 35, 211, 2; SANTAG 7, 062), and Babylonian Daguna, beside Dagana, is the god Dagan, frequent in personal names (HALOT 213). Gordon reads da-gu-na 'Dagon' at Haghia Triada (Gordon 1966, 24). On a counted list the bearer is a person or recipient, the name formed on Dagan. One attestation. See GRA.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ DA-KU-NA corresponds exactly, allowing Linear A stop neutralization, to syllabic
 
 ### Source
 
-Gordon 1966; Old Akkadian Da-gu-na attestations; ORACC Daguna
+Gordon 1966; HALOT
 
 ## Attestations
 
@@ -66,14 +66,14 @@ Gordon 1966; Old Akkadian Da-gu-na attestations; ORACC Daguna
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Daguna | personal name, probably Dagan/Dagon-derived | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT103\|HT103]] | Daguna | personal name on Dagan | PROBABLE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

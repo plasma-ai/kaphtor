@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TA_RI_NA
 title: "TA-RI-NA"
 desc: "Tarinna: Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TA-RI-NA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tarinna |
 | Meaning | Tarinna (Hurrian personal name), stem tarinn-; rival trn 'mast' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

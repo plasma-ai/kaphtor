@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3131_duration_for_ever
 title: "*ʾbd: 'duration, for ever'"
-desc: "Proto-Semitic *ʾbd, 'duration, for ever': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʾbd, 'duration, for ever': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3131"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʾōbēd (HALOT 3) | HALOT 3 | gloss withheld |
 | Arabic | ʾabadan (HALOT 3); ʾabad (Biella 1); ʾabadiyya (Lane 5) | HALOT 3; Biella 1; Lane 5 | gloss withheld |
 | Epigraphic South Arabian | Sab ʾbd (SD 1) (Biella 1) | SD 1; Biella 1 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾbd; Qaryat al-Fāw ʾbdm (Al-Jallad–Jaworska 38) | Al-Jallad–Jaworska 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

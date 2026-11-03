@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/302_clay_mug_1_jug_2
 title: "*ḳull-: 'clay mug' 1, 'jug' 2"
-desc: "Proto-Semitic *ḳull-, 'clay mug' 1, 'jug' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḳull-, 'clay mug' 1, 'jug' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "302"
@@ -30,6 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Phoenician | qllm 2 (Krahmalkov 427) | Krahmalkov 427 | gloss withheld |
 | Arabic | qull-at- 2 |  |  |
 | Akkadian | qulliu 1 |  |  |
 | Tigre | ʾakalləʾat, ʾakalləʾət (OLA80 §31.33) | OLA80 §31.33 | gloss withheld |

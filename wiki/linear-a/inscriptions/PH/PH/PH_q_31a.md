@@ -9,7 +9,7 @@ site: "Phaistos"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["KU-PA₃-NU", "KU-RO", "PA-TA-DA"]
+words: ["KU-PA₃-NU", "KU-RO", "MA-DI", "PA-TA-DA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -71,7 +71,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_TA_DA|PA-TA-DA]].
+[[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/M/MA_DI|MA-DI]], [[wiki/linear-a/words/P/PA_TA_DA|PA-TA-DA]].
 
 ## Corpus note
 

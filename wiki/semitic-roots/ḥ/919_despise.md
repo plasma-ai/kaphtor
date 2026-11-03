@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/919_despise
 title: "*ḥVḳir-: 'despise'"
-desc: "Proto-Semitic *ḥVḳir-, 'despise': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḥVḳir-, 'despise': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "919"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥqr \[-i-\]; ḥaqarahu 'he contemned, or despised, him, or it' (Lane 611) | Lane 611 |  |
 | Geez | ʾastaḥaqara (LGz. 240) | LGz. 240 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic tḥqr (Al-Jallad 2026, 76) | Al-Jallad 2026 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

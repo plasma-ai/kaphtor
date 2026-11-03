@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_MA_JA
 title: "A-MA-JA"
 desc: "ʿAmmaya: (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-MA-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant' |
 | Root | ʿ-m-m |
 | Proto-Semitic | \*ʕamm- (#44) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

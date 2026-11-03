@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/M/MI_TU
 title: "MI-TU"
-desc: "mītu: personal name, 'dead one' (?). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "mītu: personal name, 'dead one'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "MI-TU"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | mītu |
-| Meaning | personal name, 'dead one' (?) |
+| Meaning | personal name, 'dead one' |
 | Root | m-w-t |
 | Proto-Semitic | \*mw/yt (#945) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type. HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: Amorite mutum 'man', which needs MU. One attestation. See JA-MA-U-TI.
+HT 117a: MI-TU 1, a recipient in the roster under MA-KA-RI-TE · KI-RO, with U-SU, KU-PA₃-NU and TE-JA-RE. mītu 'dead one', a name of the substitute type. HT 135a \]-MI-TU is the end of a longer word. Weak point: two signs. Rival: \*mi/ut- 'man' (semitic_roots 56), with i in Tigre mit and Heb. mətīm. One attestation. See JA-MA-U-TI.
 
 ### Cognates
 

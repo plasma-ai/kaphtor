@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0105_seat
 title: "*kVsVʾ-: 'seat'"
-desc: "Proto-Semitic *kVsVʾ-, 'seat': reflexes in 10 language(s)."
+desc: "Proto-Semitic *kVsVʾ-, 'seat': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0105"
@@ -32,8 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Akkadian | kussû 'chair' | Anderson–Moser 2024 root ksʾ |  |
 | Hebrew | kisseʾ 'seat' | Anderson–Moser 2024 root ksʾ |  |
 | Ugaritic | ksu 'seat' | Anderson–Moser 2024 root ksʾ |  |
-| Punic | mksʾ (T 176) | T 176 | gloss withheld |
-| Aramaic | OAram. krsˀ (DNWSI 536 apud SEDonline 318) | DNWSI 536; SEDonline 318 | gloss withheld |
+| Punic | mksʾ (T 176); N.Pu. ksʾt (T 147) | T 176; T 147 | gloss withheld |
+| Phoenician | ksʾ (T 146) | T 146 | gloss withheld |
+| Aramaic | OAram. krsˀ (DNWSI 536) | DNWSI 536 | gloss withheld |
 | Biblical Aramaic | korsēˀ (HALOT 1902 apud SEDonline 318) | HALOT 1902; SEDonline 318 | gloss withheld |
 | Judaic Aramaic | JPA kwrsy (DJPA 254 apud SEDonline 318) | DJPA 254; SEDonline 318 | gloss withheld |
 | Syrian Aramaic | kursyā (LSyr. 348, SL 614 apud SEDonline 318) | LSyr. 348, SL 614; SEDonline 318 | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_NA_NE
 title: "A-NA-NE"
 desc: "ḥanān: grace, favor. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "abstract_noun"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "ritual"]
 kind: "word"
 form: "A-NA-NE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | grace, favor |
 | Root | ḥ-n-n |
 | Proto-Semitic | \*ḥanan- (#K0736) |
-| Language layer | NWS |
-| Category | abstract_noun |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Split from JA-SA-RA-A-NA-NE (GORILA reads as one word). A- writes /ḥa/ with guttural dropping. qatāl nominal pattern from geminate root: Amorite Ḥanana (Gelb AS 21 no. 475), a-na-na-tum (GlOS 1, 245). In prayer context on KNZc7: yašara ḥanān = 'righteous grace.' See A-NA-NU.
+KN Zc 7, an inked vessel: GORILA prints JA-SA-RA-A-NA-NE as one group; read JA-SA-RA · A-NA-NE. ḥanān 'grace, favour', the qatāl pattern of the geminate root, A- writing ḥa with the guttural unwritten: Amorite Ḥanana (Gelb 1980, no. 475), ḥanan 'gracious' (GlOS 1, 245). With JA-SA-RA, yašara ḥanān 'righteous is (thy) grace'. See A-NA-NU.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Split from JA-SA-RA-A-NA-NE (GORILA reads as one word). A- writes /ḥa/ with gu
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; GlOS 1
 
 ## Attestations
 

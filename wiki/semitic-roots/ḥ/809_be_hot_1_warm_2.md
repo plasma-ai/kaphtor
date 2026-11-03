@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/809_be_hot_1_warm_2
 title: "*ḥamm-: 'be hot' 1, 'warm' 2"
-desc: "Proto-Semitic *ḥamm-, 'be hot' 1, 'warm' 2: reflexes in 9 language(s)."
+desc: "Proto-Semitic *ḥamm-, 'be hot' 1, 'warm' 2: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "809"
@@ -32,13 +32,15 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥmm \[-u-\] 1 |  |  |
 | Akkadian | emēmu 1, emmu 2 |  |  |
-| Hebrew | ḥam 2 |  |  |
+| Hebrew | ḥam 2; yḥm 1 (HALOT 407) | HALOT 407 | gloss withheld |
 | Syrian Aramaic | ḥam 1 |  |  |
-| Aramaic | ḤMM (Aramaic Root Atlas; DNWSI 381 apud CAL) | Aramaic Root Atlas; DNWSI 381; CAL; Anderson–Moser 2024 root ḥmm | gloss withheld |
+| Aramaic | ḤMM (Aramaic Root Atlas; DNWSI 381) | Aramaic Root Atlas; DNWSI 381; Anderson–Moser 2024 root ḥmm | gloss withheld |
 | Phoenician | ḥmm (HALOT 325) | HALOT 325 |  |
 | Judaic Aramaic | ḥūmᵉtā (HALOT 326) | HALOT 326 | gloss withheld |
 | Eblaitic | a-PI-mu ʾà-mu-tum, ma-wu ʾà-mu-tum (Kogan 2011, 195; VE 637, 777; Krebernik 1983, 25, 30); im-ma /ḥ-m-m/ 1; ma-wu ʔà-mu-tum, a(-wa)-mu ʔà-mu-tum /ḥamm/ 1 (Sanmartín GlOS 1, 240–241); /māyū ḥammūtum/, (?) (= Sum. a-kum₄) (VE 637; Bonechi 2008, 6) | Kogan 2011 195; VE 637, 777; Krebernik 1983, 25, 30; Sanmartín GlOS 1, 240–241; VE 637; Bonechi 2008, 6 | gloss withheld |
 | Amorite | ḥ-m-m, Š: cf. ḫa-mi-mu-um (Sanmartín GlOS 1, 240) | Sanmartín GlOS 1, 240 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥm 1 (Al-Jallad 2026, 75) | Al-Jallad 2026 75 | gloss withheld |
+| Jibbali | ḥmm (LGz. 233) | LGz. 233 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

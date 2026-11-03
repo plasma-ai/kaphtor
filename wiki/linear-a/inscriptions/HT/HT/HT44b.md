@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: []
+words: ["NI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -59,6 +59,10 @@ Unicode (Linear A block):
 𐝫𐄐
 𐝫
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/N/NI|NI]].
 
 ## Edition differences
 

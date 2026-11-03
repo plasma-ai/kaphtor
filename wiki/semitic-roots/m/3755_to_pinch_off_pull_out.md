@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3755_to_pinch_off_pull_out
 title: "*mlq: 'to pinch off, pull out'"
-desc: "Proto-Semitic *mlq, 'to pinch off, pull out': reflexes in 2 language(s)."
+desc: "Proto-Semitic *mlq, 'to pinch off, pull out': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3755"
@@ -31,6 +31,13 @@ updated: 2026-10-28T05:42:56Z
 |---|---|---|---|
 | Hebrew | mālaq (Lv 1:15, 5:8) (HALOT 594) | HALOT 594 | gloss withheld |
 | Arabic | VIII immalaqa for imtalaqa 'tirer, extraire quelque chose' (BK 2 1150); 'eduxit rem' (Freytag 4 208) | BK 2 1150; Freytag 4 208 |  |
+| Eblaitic | me-a-gu-um /m-l-q/ (= Sum. SI.UR₄) (Sanmartín GlOS 2, 42) | Sanmartín GlOS 2, 42 | gloss withheld |
+| Geez | malaqa (LGz. 345) | LGz. 345 | gloss withheld |
+| Aramaic | məlaq (LGz. 345) | LGz. 345 | gloss withheld |
+| Syrian Aramaic | məlaq (LGz. 345) | LGz. 345 | gloss withheld |
+| Tigre | mälqäqa (LGz. 345) | LGz. 345 | gloss withheld |
+| Tigrinya | mälqäq̱ä (LGz. 345) | LGz. 345 | gloss withheld |
+| Amharic | moläqqäqä (LGz. 345) | LGz. 345 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

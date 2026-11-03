@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/1434_throw
 title: "*wur-: 'throw'"
-desc: "Proto-Semitic *wur-, 'throw': reflexes in 6 language(s)."
+desc: "Proto-Semitic *wur-, 'throw': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1434"
@@ -34,8 +34,13 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | yry |  |  |
 | Geez | wrw |  |  |
 | Hebrew | yry |  |  |
-| Epigraphic South Arabian | wrw (HALOT 436) (Sabaweb lemma 5437) | HALOT 436; Sabaweb lemma 5437 | gloss withheld |
+| Epigraphic South Arabian | wrw (HALOT 436) (Sabaweb lemma 5437); wrww (SD 162) | HALOT 436; Sabaweb lemma 5437; SD 162 | gloss withheld |
 | Tigre | warwara (HALOT 436) | HALOT 436 | gloss withheld |
+| Canaanite | tu-ra, G pass. of /y-r-y/ (EA 245:8) (Sanmartín GlOS 2, 356) | Sanmartín GlOS 2, 356 | gloss withheld |
+| Tigrinya | wärwärä (LGz. 618) | LGz. 618 |  |
+| Amharic | wäräwwärä (LGz. 618) | LGz. 618 |  |
+| Argobba | wäräwwära (LGz. 618) | LGz. 618 |  |
+| Gurage | wəräwärä (LGz. 618) | LGz. 618 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

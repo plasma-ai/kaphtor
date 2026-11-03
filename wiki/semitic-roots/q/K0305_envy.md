@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | QNY (Aramaic Root Atlas; CAL s.v. qny#2) | Aramaic Root Atlas; CAL s.v. qny#2; Anderson–Moser 2024 root qnʾ | gloss withheld |
 | Geez | qanʾa 'envious' | Anderson–Moser 2024 root qnʾ |  |
 | Hebrew | qanaʾ 'envy' | Anderson–Moser 2024 root qnʾ |  |
-| Punic | qnʾ 'zealous' | Anderson–Moser 2024 root qnʾ |  |
+| Punic | qnʾ; qnʾ (Krahmalkov 428) | Krahmalkov 428; Anderson–Moser 2024 root qnʾ | gloss withheld |
 | Tigre | qĕnūʾ (HALOT 1110) | HALOT 1110 |  |
 | Tigrinya | qänʾe (LGz. 433) | LGz. 433 |  |
 | Amharic | qänna (LGz. 433) | LGz. 433 |  |

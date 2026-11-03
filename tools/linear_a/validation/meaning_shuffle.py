@@ -18,8 +18,8 @@ to its sign count. --stat cap sums each word's own-context distance capped
 at --cap, so a near match counts by how near it is. --conventional-values reads Linear B values only
 (tools/linear_a/root_match.py): a word with a sign Linear B gives no value joins the unmapped list.
 
---competitors gates each rival-language key by its entry's Meaning. The shipped Luwian, Egyptian and Hurrian files
-carry no Meaning, so here the command stops with exit 2; KAPHTOR_DATA points it at a data folder whose rival files
+--competitors gates each rival-language key by its entry's Meaning. The shipped Luwian, Egyptian, Hurrian and Hattic
+files carry no Meaning, so here the command stops with exit 2; KAPHTOR_DATA points it at a data folder whose rival files
 carry glosses (the corpus, roots and lexicon are read from there too).
 
 Exit status: 0; 2 if the index is stale, unreadable or changed while loading, or a rival-language file is not in

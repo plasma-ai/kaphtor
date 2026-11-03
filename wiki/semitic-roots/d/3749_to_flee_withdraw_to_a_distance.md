@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3749_to_flee_withdraw_to_a_distance
 title: "*dḥl: 'to flee, withdraw to a distance'"
-desc: "Proto-Semitic *dḥl, 'to flee, withdraw to a distance': reflexes in 2 language(s)."
+desc: "Proto-Semitic *dḥl, 'to flee, withdraw to a distance': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3749"
@@ -31,6 +31,7 @@ updated: 2026-10-28T03:22:23Z
 |---|---|---|---|
 | Geez | dəḥla (yədḥal); tadəḥla (LGz. 127) | LGz. 127 | gloss withheld |
 | Arabic | daḥala ʿannī 'he went, or removed, to a distance, or far, from me: fled from me' (Lane 856) | Lane 856 |  |
+| Pre-Islamic North Arabian | Safaitic dḥl (Al-Jallad 2026, 33) | Al-Jallad 2026 33 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

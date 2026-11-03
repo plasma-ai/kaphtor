@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šaqāru |  |  |
+| Akkadian | šaqāru (AHw 1179) | AHw 1179 |  |
 | Geez | sqʷr; saqʷara (LGz. 510) | LGz. 510 | gloss withheld |
 | Tigrinya | säqʷärä |  |  |
 | Soqotri | śuqahar (LGz. 510) | LGz. 510 | gloss withheld |

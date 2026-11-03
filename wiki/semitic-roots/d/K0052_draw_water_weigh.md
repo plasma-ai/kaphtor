@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/K0052_draw_water_weigh
 title: "*dVlVw-: 'draw (water)', 'weigh'"
-desc: "Proto-Semitic *dVlVw-, 'draw (water)', 'weigh': reflexes in 11 language(s)."
+desc: "Proto-Semitic *dVlVw-, 'draw (water)', 'weigh': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0052"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Sab mdlt (Biella 82) | Biella 82 | gloss withheld |
 | Akkadian | dalû 'draw' | Anderson–Moser 2024 root dlw |  |
 | Arabic | dalā 'pulled' | Anderson–Moser 2024 root dlw |  |
 | Aramaic | DLY (CAL s.v. dly) | CAL s.v. dly; Anderson–Moser 2024 root dlw | gloss withheld |
@@ -45,6 +46,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Tgr. däla 'to be watered, to grow green' likely preserves the root (Kogan 2011, 239).
+Tgr. däla 'to be watered, to grow green' likely preserves the root (Kogan 2011, 239). Biella 82 compares Geez mädlot 'weight, value'.
 
 <!-- END kaphtor:record -->

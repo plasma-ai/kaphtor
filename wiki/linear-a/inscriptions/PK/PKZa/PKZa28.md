@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/inscriptions/PK/PKZa/PKZa28
 title: "PKZa28"
-desc: "Stone vessel, Palaikastro. Translation: complete."
-tags: ["linear-a", "inscription", "translation-complete", "stone-vessel"]
+desc: "Stone vessel, Palaikastro. Translation: incomplete."
+tags: ["linear-a", "inscription", "translation-incomplete", "stone-vessel"]
 kind: "inscription"
 id: "PKZa28"
 site: "Palaikastro"
 support: "Stone vessel"
 period: ""
-translation: "complete"
+translation: "incomplete"
 words: []
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -39,7 +39,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. PU₂-RE 𐄁 \*418+L2
+1. \]-PU₂-RE-\[ 𐄁 \*418+L2
 
 Unicode (Linear A block):
 
@@ -49,18 +49,18 @@ Unicode (Linear A block):
 
 ## Translation
 
-**no confidence given**, complete (status: complete).
+**no confidence given**, incomplete (status: incomplete).
 
-> The sanctuary: a vessel, 1/20.
+> \[…\]-PU₂-RE-\[…\] · a vessel, 1/20.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| PU₂-RE | dubur | the sanctuary (base/foundation) | CANDIDATE |  |
+| PU₂-RE |  | broken word, \]-PU₂-RE-\[ |  |  |
 | \*418+L2 | — | vessel ideogram + 1/20 fraction | CONFIRMED |  |
 
 ### Notes
 
-Allocation-label genre; parallel 'My servant: for 1/5'. Whole-text CANDIDATE.
+Allocation-label genre.
 
 ### Source
 

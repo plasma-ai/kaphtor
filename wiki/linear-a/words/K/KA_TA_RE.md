@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_TA_RE
 title: "KA-TA-RE"
 desc: "kaṯare: Kothar (divine craftsman god). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "divine_name"]
+tags: ["linear-a", "word", "tier-1", "fragmentary", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "KA-TA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Kothar (divine craftsman god) |
 | Root | k-ṯ-r |
 | Proto-Semitic | \*kuṯar- (#2773) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | fragmentary, hapax, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-KH41 (Khania, clay tablet, LMIB): 3·KA-TA-RE·\[break\]. Skeleton k-t-r. Number preceding divine name follows HT86a allocation pattern \|\| KOTHAR VS QOTAR PHONOLOGY: Initial KA (not QA—Q-series available and used for √q-ṭ-r in QI-TI-RI), medial TA (not \*118/ṬA—emphatic available for /ṭ/) favor √k-ṯ-r (Kothar) over √q-ṭ-r (incense). The ṯ→t neutralization is expected: no /ṯa/ sign exists in the grid (ZU covers only /ṯu/), so TA is the default approximation. Khania = western Crete's second major archive with strong Near Eastern exchange evidence \|\| ROOT MERGER HYPOTHESIS: √k-t-r (crown) and √k-ṯ-r (craft) may derive from biconsonantal \*K-T via sibilant extension, parallel to √k-n-s / √k-n-sh. LA TA neutralizes ṯ/t, so KA-TA-RE may preserve the pre-split form \|\| One attestation, broken at both ends (\]KA-TA-RE\[).
+KH 41 (Khania, clay tablet, LM IB): 3 · KA-TA-RE · \[, broken at both ends, the numeral before the name as in the HT 86a allocations. Kothar, √k-ṯ-r: KA, not QA, which writes √q-ṭ-r in QI-TI-RI, and TA, not \*118 ṬA, set it apart from qṭr 'incense'; TA writes its ṯ, as scribes wrote ṯ in the T-series beside ZU (di Mino, Ya Diktu 16–17 n. 27). Khania is western Crete's second archive, with strong Near Eastern exchange. Rival: √k-t-r 'crown', which TA writes the same way; it shares a biconsonantal \*K-T with √k-ṯ-r, as √k-n-s does with √k-n-š. One attestation.
 
 ### Cognates
 

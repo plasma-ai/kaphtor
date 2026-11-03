@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Pal mṭr |  |  |
 | Epigraphic South Arabian | Sab mṭr (Biella 273) (SD 88; Sabaweb lemma 2279) | Biella 273; SD 88; Sabaweb lemma 2279 | gloss withheld |
 | Amorite | mṭr: jamṭar, maṭarum (Gelb AS 21, 26); maṭar (Buck 2019, 329) | Gelb AS 21 26; Buck 2019, 329 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic mṭr (Al-Jallad–Jaworska 100) | Al-Jallad–Jaworska 100 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mṭr (Al-Jallad–Jaworska 100); mṭr 2; mṭrt 2; ʾmṭr 2; Dadanitic mṭr (Al-Jallad 2026, 95) | Al-Jallad–Jaworska 100; Al-Jallad 2026 95 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

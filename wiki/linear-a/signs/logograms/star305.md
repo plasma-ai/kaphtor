@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Dual-function: logogram (60%, standalone with quantities 1-90) + syllabogram /da/ (40%, word-embedded). Acrophonic: /da/ → √d-b-ḥ → dabbāḥū. \|\| The logographic reading \*305 = DABBĀḤŪ 'sacrificers' stands at PROBABLE 0.75, as in the lexicon; the syllabic value /ḏa/ is speculative.
+Dual-function: logogram (60%, standalone with quantities 1-90) + syllabogram da (40%, word-embedded, CANDIDATE 0.60). The logogram reading rests on its personnel contexts, not on the syllabic value.
 
 ## Also in syllabic
 
@@ -46,8 +46,9 @@ Dual-function: logogram (60%, standalone with quantities 1-90) + syllabogram /da
 |---|---|---|
 | [[wiki/linear-a/words/star/star305\|\*305]] |  | PROBABLE |
 | [[wiki/linear-a/words/star/star305_RU\|\*305-RU]] | ḏarʿ(u) | SPECULATIVE |
+| [[wiki/linear-a/words/star/star305_WA_NA\|\*305-WA-NA]] | Dawana | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | SPECULATIVE |
-| [[wiki/linear-a/words/R/RU_PI_star305_MI\|RU-PI-\*305-MI]] | Ripī-Ḏāmir | SPECULATIVE |
+| [[wiki/linear-a/words/S/SA_star305_MI\|SA-\*305-MI]] | šadmi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
 
 <!-- END kaphtor:record -->

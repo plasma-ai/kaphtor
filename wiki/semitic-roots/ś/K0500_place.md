@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šiāmu 'fix' | Anderson–Moser 2024 root śym |  |
+| Akkadian | šiāmu (AHw 1225) | AHw 1225; Anderson–Moser 2024 root śym | gloss withheld |
 | Geez | śym 'set' | Anderson–Moser 2024 root śym |  |
 | Punic | šm (T 322) | T 322 | gloss withheld |
 | Biblical Aramaic | ś-y-m 'place' (BDB 1113) | BDB 1113 |  |

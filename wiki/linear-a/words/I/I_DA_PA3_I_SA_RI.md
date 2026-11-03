@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_DA_PA3_I_SA_RI
 title: "I-DA-PA₃-I-SA-RI"
 desc: "ʾIdā bi-ʾišarī: Ida, in righteousness (toponym + prepositional phrase written as one word). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "ritual", "toponym"]
 kind: "word"
 form: "I-DA-PA₃-I-SA-RI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Ida, in righteousness (toponym + prepositional phrase written as one word) |
 | Root | y-š-r (second element) |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) + \*yašar- (#1446) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | compound, hapax, ritual, toponym |
 | Semantic field | ritual |
 
 ### Note
 
-Segmentation: I-DA (Mount Ida, PROBABLE) + PA₃-I-SA-RI = bi-ʾišarī 'in righteousness'—the b= proclitic spelled with PA₃ = /ba/ (dead vowel), medial I carrying the ʾ of ʾišar-, and genitive -ī after the preposition exactly as la-piṭrī (PKZa11). Same √y-š-r as the formula's yaššaram (JA-SA-SA-RA-ME, CONFIRMED)—PH6 renders the concept with b= + genitive where the LM I vessels use the adverbial accusative with mimation. Components entered separately: I-DA (PH6 added to attestations), PA₃ (b= proclitic), I-SA-RI (ʾišarī).
+PH 6, an MM II tablet: I-DA-PA₃-I-SA-RI closes it, after I-NA-WA · A-RI and I-ZU-RI-NI-TA / A-RI. I-DA ʾIdā, Mount Ida, + PA₃-I-SA-RI bi-ʾišarī 'in righteousness': the b= proclitic spelled with PA₃ = /ba/ (dead vowel), medial I carrying the ʾ of ʾišar-, and genitive -ī after the preposition, as la-piṭrī (PK Za 11). Same √y-š-r as the formula's yaššaram (JA-SA-SA-RA-ME): PH 6 writes the idea with b= and the genitive where the LM I vessels use the adverbial accusative with mimation. One attestation. See I-DA, PA₃ and I-SA-RI.
 
 ### Cognates
 

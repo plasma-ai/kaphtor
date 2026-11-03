@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ǯudǯud- \[BK 1 262\], \[Fr. I 252\], \[Lane 387\], \[LA III 114\]; ǯandaʕ-, ǯunduʕ- \[BK 1 338\], \[Fr. I 313\], \[LA VIII 60-1\]; ǯandab-, ǯundub- \[BK 1 338\], \[Fr. I 251\], \[Lane 388\], \[LA I 257\] | BK 1 262; Fr. I 252; Lane 387; LA III 114; BK 1 338; Fr. I 313; LA VIII 60-1; Fr. I 251; Lane 388; LA I 257 | gloss withheld |
-| Mehri | gǝdǝrēt (JM 114) | JM 114 | gloss withheld |
+| Mehri | gǝdǝrēt (JM 114); jidrît (Jahn 179 apud SED II 120) | JM 114; Jahn 179; SED II 120 | gloss withheld |
 | Harsusi | gederēt (JH 38) | JH 38 | gloss withheld |
 | Tigre | gǝdgǝd \[LH 603\] | LH 603 | gloss withheld |
 | East Ethiopic | Sel. gōndä, Wol. gʷändä \[LGur. 282\] | LGur. 282 | gloss withheld |

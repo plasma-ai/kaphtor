@@ -19,7 +19,7 @@ no entry here. The notes are di Mino's.
 | `word` | the sign group as written in the corpus, signs joined by hyphens; a broken group keeps its brackets (`]A-PA-[`) and a lost sign is `[?]` |
 | `signs` | the number of signs |
 | `status` | `unread` (nothing known), `role_only` (classed by role only, no reading) or `edge_overlap` (a lexicon word sits at one edge) |
-| `role` | the role a `role_only` word plays in its document (`personal_name`, `toponym`, `administrative heading`…) |
+| `role` | the role the word plays in its document, on 208 `role_only` and 14 `edge_overlap` words (`personal_name`, `toponym`, `administrative heading`…) |
 | `translation_label` | the label the translations give the word, where they give one |
 | `edge_overlap` | the lexicon word at the edge (`lexicon_word`) and its tier |
 | `frequency`, `attestations`, `sites`, `cross_site` | occurrences, inscription ids (always a list), site names, and whether it crosses sites |

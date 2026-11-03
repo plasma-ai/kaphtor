@@ -49,7 +49,7 @@ VC (vowel-consonant) sign /in/, NOT a standard CV syllabogram. Structural parall
 
 | Word | Reading | Confidence |
 |---|---|---|
-| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | karīnī | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_star310_RE\|KI-\*310-RE]] | kinnār | PROBABLE |
 | [[wiki/linear-a/words/P/PI_star310_A\|PI-\*310-A]] | pīnā | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | PROBABLE |

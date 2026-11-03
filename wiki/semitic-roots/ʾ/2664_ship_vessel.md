@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2664_ship_vessel
 title: "*ʾaniy(y)-: 'ship, vessel'"
-desc: "Proto-Semitic *ʾaniy(y)-, 'ship, vessel': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ʾaniy(y)-, 'ship, vessel': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2664"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ʔŏniyyā (HALOT 71) | HALOT 71 | gloss withheld |
 | Canaanite | anayi (gloss to elippi, EA 245:8; HALOT 71) | HALOT 71 |  |
 | Emar | a-na-ti, a-na-tu₄ /ʾanâtu/ (Pentiuc 2001, 25–26) | Pentiuc 2001 25–26 | gloss withheld |
+| Biblical Aramaic | māʾn (HALOT 70) | HALOT 70 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

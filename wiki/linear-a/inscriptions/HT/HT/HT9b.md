@@ -74,17 +74,17 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> PA₃ · WA-JA-PI\[…\]. Likewise: Padī 3, A-SI 3, ʿAttu 8, Sōdir 2, the official 2, TA-I-AROM 2, Dīnāyu 4. Total 24.
+> PA₃ · WA-JA-PI\[…\]. Likewise: Padī 3, A-SI 3, ʿAttu 8, the waitress 2, the official 2, TA-I-AROM 2, Dīnāyu 4. Total 24.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/P/PA3\|PA₃]] |  | transaction sign, divider-bounded |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/W/WA_JA_PI\|WA-JA-PI]] |  | unread |  | unread |
-| [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | thus, likewise (ditto heading); rivals kaṯ 'flask, jar', a personal name | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KA_star305\|KA-\*305]] | ka-ḏā | thus, likewise (ditto heading) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/P/PA_DE\|PA-DE]] | Padī | personal name (cf. Padi of Ekron) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_SI\|A-SI]] |  | personal name (unread) |  | unread |
 | [[wiki/linear-a/words/star/star306_TU\|\*306-TU]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | CANDIDATE | CANDIDATE (lexicon) |
-| [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | sōdir | one who sets in order (title or name; √s-d-r) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | ṯadira | waitress, serving-girl (title; √ṯ-d-r) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | official, commissioner; rival: the personal name Qīpu | SPECULATIVE | SPECULATIVE (lexicon) |
 | TA-I-AROM |  | roster entry written with the aromatics ligature (unread) |  |  |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') | CANDIDATE | CANDIDATE (lexicon) |
@@ -92,7 +92,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Verso of HT9a: the same roster with smaller amounts, under a ruled heading. The second entry is A-SI; Younger allows A-RU, the HT9a name, which the image does not favour. KA-\*305 ka-ḏā 'likewise' heads the repeated roster; rival kaṯ 'jar'. Arithmetic exact: 3+3+8+2+2+2+4 = 24.
+Verso of HT9a: the same roster with smaller amounts, under a ruled heading. The second entry is A-SI; Younger allows A-RU, the HT9a name, which the image does not favour. KA-\*305 ka-ḏā 'likewise' heads the repeated roster. Arithmetic exact: 3+3+8+2+2+2+4 = 24.
 
 ### Source
 

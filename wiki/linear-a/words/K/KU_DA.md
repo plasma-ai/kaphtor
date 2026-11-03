@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/K/KU_DA
 title: "KU-DA"
-desc: "Gūda: Gūda (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+desc: "Gūda: Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KU-DA"
 datasets: ["lexicon", "onomasticon"]
@@ -32,14 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Gūda |
-| Meaning | Gūda (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief' |
-| Language layer | NWS |
-| Category | personal_name |
+| Meaning | Gūda 'luck' (personal name), Amorite Guʾuda; rivals Kutta, qāʾid 'chief' |
+| Root | g-d |
+| Proto-Semitic | \*gd (#3243) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1), a name added below the total. Amorite GUʾUD-A, written GU-U₂-DA (Gelb 1980, no. 1791), sign for sign with the glottal stop unwritten; KU writes gu. Rivals: Kutta, Ku-ut-ta, a name NPN marks H.? (NPN 231); qāʾid 'chief' (#51; Sabaic qwd, Beeston 1982, 110). One witness.
+HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO-KU-RO 97 (HT 122b; 31 + 65 + 1), a name added below the total. Amorite GUʾUD-A, written GU-U₂-DA (Gelb 1980, no. 1791), sign for sign with the glottal stop unwritten; KU writes gu. Sanmartín files gu-ú-da under gudd, gūd 'luck; DN' (GlOS 1, 175). Rivals: Kutta, Ku-ut-ta, a name NPN marks H.? (NPN 231); qāʾid 'chief' (#51; Sabaic qwd, Beeston 1982, 110). One witness.
 
 ### Cognates
 
@@ -49,7 +51,7 @@ HT 122a, after KU-RO 31: KU-DA 1, the one man that brings the two faces to PO-TO
 
 ### Source
 
-di Mino; Gelb 1980; NPN
+di Mino; Gelb 1980; NPN; GlOS 1
 
 ## Attestations
 

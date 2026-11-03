@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/K0556_scrape
 title: "*šVḥVy-: 'scrape'"
-desc: "Proto-Semitic *šVḥVy-, 'scrape': reflexes in 4 language(s)."
+desc: "Proto-Semitic *šVḥVy-, 'scrape': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0556"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | sḥy 'wounded' | Anderson–Moser 2024 root šḥy |  |
 | Hebrew | saḥah 'scrape' | Anderson–Moser 2024 root šḥy |  |
 | Amharic | säḥa, səḥa (LGz. 495) | LGz. 495 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sḥwy (Al-Jallad 2026, 131) | Al-Jallad 2026 131 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

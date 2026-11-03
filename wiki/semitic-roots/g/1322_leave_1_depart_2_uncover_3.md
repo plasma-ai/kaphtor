@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | galaya 'reveal, uncover' (Dillmann 08258) | Dillmann 08258 |  |
 | Syrian Aramaic | gəlā (gly) (LGz. 193); glag 3 (Payne Smith 70); galleg (LGz. 190) | LGz. 193; Payne Smith 70; LGz. 190 | gloss withheld |
 | Mandaic Aramaic | gla (gly) (LGz. 193) | LGz. 193 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic glw (Al-Jallad–Jaworska 72) | Al-Jallad–Jaworska 72 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic glw (Al-Jallad–Jaworska 72); gly (Al-Jallad 2026, 50) | Al-Jallad–Jaworska 72; Al-Jallad 2026 50 | gloss withheld |
 | Judaic Aramaic | gālūt (HALOT 193); gelaʾ (T 65) | HALOT 193; T 65 | gloss withheld |
 | Biblical Aramaic | gālūt (HALOT 193) | HALOT 193 | gloss withheld |
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/OLE_plus_TU
 title: "OLE+TU"
 desc: "ṭuhūru 'purified/ritually clean oil'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity ideogram"]
+tags: ["linear-a", "word", "tier-1", "abbreviation", "commodity", "ligature", "logogram", "oil", "ritual"]
 kind: "word"
 form: "OLE+TU"
 datasets: ["lexicon"]
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | ṭuhūru 'purified/ritually clean oil' |
 | Root | ṭ-h-r |
 | Proto-Semitic | \*ṭahar- (#2660) |
-| Language layer | NWS |
-| Category | commodity ideogram |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, ligature, logogram, oil, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-OLE ideogram + TU adjunct. Acrophonic candidate ṭuhūru 'purified' (Ug ṭhr 'pure', vocalized /ṭuhūru/ per Huehnergard; Heb ṭāhôr); Linear A writes √ṭ-h-r in TU-\*21F-RI-NA ṭuhārī-nā (HT129). HT23a: four oil preparations (OLE+NE, OLE+TU, OLE+RI, \*308) at the same fraction under KA-NA. \*OLIV+TU (HT50a, HT101, HT116a) may write the same word on the olive host.
+HT 23a: five entries at the same fraction under KA-NA (\*308, OLE+NE, OLE+TU, OLE+RI, MI+JA+RU); also HT 28a and TY 3a (OLE+TU 1). The OLE ideogram with the TU adjunct, TU the initial of ṭuhūru 'purified': Ug. ṭhr /ṭuhūru/ 'pure' (Huehnergard 2012, 45), Heb. ṭāhôr; Linear A writes √ṭ-h-r in TU-\*21F-RI-NA ṭuhārīna (HT 129). Cf. \*OLIV+TU (HT 50a, HT 101, HT 116a). Three attestations.
 
 ### Cognates
 
@@ -50,14 +50,14 @@ OLE ideogram + TU adjunct. Acrophonic candidate ṭuhūru 'purified' (Ug ṭhr '
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; Huehnergard 2012; GlOS 2
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT23a\|HT23a]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/TY/TY/TY3a\|TY3a]] | Tylissos | Tablet | none |
 
 ## In translations

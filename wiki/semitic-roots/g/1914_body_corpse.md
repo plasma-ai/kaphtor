@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1914_body_corpse
 title: "*gi/uṯṯ-at- {} *gi/učč-at-: 'body, corpse'"
-desc: "Proto-Semitic *gi/uṯṯ-at- {} *gi/učč-at-, 'body, corpse': reflexes in 3 language(s)."
+desc: "Proto-Semitic *gi/uṯṯ-at- {} *gi/učč-at-, 'body, corpse': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1914"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǧuṯṯ-at- 'body, the size and bulk of the body; corpse' \[BK 1 251\], ǧuṯṯ- 'locust carcass' \[ibid.\]; cf. ǧaṯw-at- 'body; protruding object' \[ibid. 254\]. | BK 1 251; BK 254 |  |
 | Soqotri | gitteh \[LS 118\] (cf. also \[SSL 4 88\]). | LS 118; SSL 4 88 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic gṯ (Al-Jallad–Jaworska 73) | Al-Jallad–Jaworska 73 | gloss withheld |
+| Aramaic | Nab. gt (SED I 92) | SED I 92 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

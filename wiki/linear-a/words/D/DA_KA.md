@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_KA
 title: "DA-KA"
 desc: "dagu: fish. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "noun"]
 kind: "word"
 form: "DA-KA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | fish |
 | Root | d-g |
 | Proto-Semitic | \*dāg- (#2464) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, noun |
 | Semantic field | animal |
 
 ### Note
 
-5× sole word on HT nodules = commodity label; Heb. דָּג, Ug. dg; g→KA standard voicing neutralization.
+The sole word on five Haghia Triada nodules (HT Wa 1001–1005), a commodity label. Heb. dāg 'fish' (דָּג), Ug. dg; KA writes g, as the velar series does not mark voicing.
 
 ### Cognates
 

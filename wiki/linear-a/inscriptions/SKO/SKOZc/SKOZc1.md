@@ -57,12 +57,12 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān / nātānān | the dedicated one (passive) or the giver (active)—from √n-t-n 'to give' + -ān suffix | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] | natūnān | the dedicated one (passive) or the giver (active)—from √n-t-n 'to give' + -ān suffix | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_KI_TI_broken_both\|&#93;QA-KI-TI&#91;]] |  | unread |  | unread |
 
 ### Notes
 
-Context: Cave sanctuary votive—two words painted on a chalice rim, two non-joining fragments, order uncertain. The Skoteino Cave (south of Knossos) is one of the largest cave sanctuaries on Crete.  Two-word cave sanctuary dedication. Dual reading of NA-TU-\*301-NE from √n-t-n: passive natūnān 'the dedicated one' (Nĕtīnīm parallel—temple servant class) or active nātānān 'the giver' (theophanic title paralleling A-TA-NA = Athena). If active, the inscription is a divine epithet rather than a human dedicant's self-identification.
+Context: Cave sanctuary votive—two words painted on a chalice rim, two non-joining fragments, order uncertain. The Skoteino Cave (south of Knossos) is one of the largest cave sanctuaries on Crete.  Two-word cave sanctuary dedication. Dual reading of NA-TU-\*301-NE from √n-t-n: passive natūnān 'the dedicated one' (Nĕtīnīm parallel—temple servant class) or active nātānān 'the giver' (theophanic title paralleling A-TA-NA-TE = Athena). If active, the inscription is a divine epithet rather than a human dedicant's self-identification.
 
 ### Source
 

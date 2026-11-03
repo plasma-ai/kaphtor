@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/I/I_MI_SA_RA
 title: "I-MI-SA-RA"
-desc: "ʾī-Mīšaru: Divine Justice / ʾĪ-Mīšaru—theophoric compound: ʾī- (divine prefix) + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "divine_name"]
+desc: "Il-Mīšar: Il-Mīšar, god of justice—theophoric compound: ʾil 'god' + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "compound", "hapax", "personnel", "ritual", "theonym"]
 kind: "word"
 form: "I-MI-SA-RA"
 datasets: ["lexicon", "onomasticon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
-reading: "ʾī-Mīšaru"
+reading: "Il-Mīšar"
 attestations: ["HT27a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | ʾī-Mīšaru |
-| Meaning | Divine Justice / ʾĪ-Mīšaru—theophoric compound: ʾī- (divine prefix) + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet. |
+| Reading | Il-Mīšar |
+| Meaning | Il-Mīšar, god of justice—theophoric compound: ʾil 'god' + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet. |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personnel, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-HT27a .3: I-MI-SA-RA 43\[ on personnel allocation tablet headed by TI-NI-TA \*307 (Tinit of the Sanctuary). The word is line-initial at an intact edge, though a carry-over from line .2 is not ruled out; the numeral meets a break, so 43 or more. CAD M/2, 118 also lists ᵈIl-mīšaru (KAV 42 i 34), which I-MI-SA-RA spells with coda l unwritten. Phonological mapping: I = /ʾī/ — the West Semitic ʾî/ỉy 'where is—?' element of liturgy and onomastics: Ugaritic ỉy 'where?' (Huehnergard 2012, in contact lexicon; DULAT 130); cultic cry ỉy ảlỉyn bʿl 'Where is Mighty Baal?' KTU 1.6 IV (= CTA/UT 6\[49\].4.28–29; Pope, Song of Songs, AB 7C, p. 589); Hebrew ʾî-kāḇôd (1 Sam 4:21), ʾIyyôḇ (HALOT 38, s.v. III אִי, 2. 'where? (?)', listing אִיכָבוֹד; Noth, Die israelitischen Personennamen, on ʾî-names). Amorite i-initial name elements (Huffmon 1965, APNM: ila p.165, išar p.216, itur p.270) are congruent but include lexical elements and the Akkadian 3ms preterite i- (itur), not a distinct theophoric-prefix convention. MI = /mī/, SA = /ša/ (š→S neutralization), RA = /ru/. Clean 4-sign → 4-syllable mapping. Alternative reading: \*maṣṣariya "guard/watchman" (√m-ṣ-r)—but requires three accommodations (unexplained prefix, lost geminate, lost -iya suffix) vs one for Mīšaru (theophoric prefix). Context favors divine reading: sanctuary allocation, not garrison roster. If correct, HT27a contains both members of the Akkadian justice dyad: Tinit (subsuming Išartu/Yashara as heading deity) and Mīšaru (as personnel category). Cross-reference: SA-SA-RA = Yašara(t)/Išartu, the feminine counterpart. Huehnergard: /yušru/ "uprightness" (yuCCu nominal pattern); confirms adverbial accusative with -m. See JA-SA-SA-RA-ME.
+HT 27a .3 I-MI-SA-RA 43\[, line-initial at an intact edge, on a personnel allocation tablet headed by TI-NI-TA \*307 (Tinit of the Sanctuary); the numeral meets a break, so 43 or more. I ʾi(l), MI mī, SA ša, RA r. CAD M/2 118 lists ᵈMi-šá-ru ᵈIl-mi-šá-ru (KAV 42 i 34) and the god of justice as DINGIR-lum mi-š\[a-ri\] (KUB 4 47 r. 8); I-MI-SA-RA writes Il-Mīšar with the coda l unwritten, as Linear B leaves a syllable-final l unwritten (ka-ko = khal-kos; Ventris and Chadwick 1956, 45). ʾil 'god' heads Amorite names written I-lī- (I-lī-ṣa-du-uq, I-lī-ma-lik; Huffmon 1965, 165); išar, the Akkadian form of √yšr, serves Amorite names as a theophorous element or divine name (I-šar-li-im; Huffmon 1965, 216), and Me-ša-rum is an Amorite name (Gelb 1980, no. 4661). With Tinit at its head in the place of Išartu, HT 27a holds both members of the Akkadian justice dyad. Rival: ʾī-Mīšar, with the interrogative ʾī 'where is' of liturgy and names: Ug. ỉy (DULAT 130) in the cultic cry ỉy ảlỉyn bʿl (KTU 1.6 IV 28–29; Pope 1977, 589); Heb. ʾÎ-kāḇôd (1 Sam 4:21; HALOT 38, s.v. III אִי); Amorite Ḥa-ya-ab-AN 'where is the father, O god' (Huffmon 1965, 128 n. 18). Weak points: one attestation, though √y-š-r runs through the libation formula (JA-SA-SA-RA-ME, 7 inscriptions); the right end of .2 is broken, and the scribe runs KI-\*310 across .4–.5, so I can close a word lost there; MI-SA-RA alone then writes Mīšar (ᵈMi-šar, BRM 4 25:45; CAD M/2 118). See JA-SA-SA-RA-ME.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ HT27a .3: I-MI-SA-RA 43\[ on personnel allocation tablet headed by TI-NI-TA \*30
 
 ### Source
 
-di Mino
+di Mino; DULAT; HALOT; CAD M/2; Huffmon 1965; Gelb 1980; Ventris and Chadwick 1956; Pope 1977
 
 ## Attestations
 
@@ -66,14 +66,14 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | ʾī-Mīšaru | Divine Justice / ʾĪ-Mīšaru, heads 43\[ | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT27a\|HT27a]] | Il-Mīšar | Il-Mīšar, god of justice, heads 43\[ | PROBABLE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | theonym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | theonym (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

@@ -68,7 +68,7 @@ SIGN_DECOMPOSITION: dict[str, SignDecomposition] = {
     "*21F": ("h", "a"),    # he (voiceless laryngeal)
     "*118": ("ṭ", "a"),    # emphatic dental
     "*86": ("n", "a"),     # /na/, speculative; the emphatic ṇ is an alternate (phonetics folds ṇ to n)
-    "*324": ("s", "o"),    # SO (Linear A has no other SO sign); ʾA is the alternate
+    "*324": ("ṯ", "a"),    # ṮA (voiceless interdental); SO is the alternate
     "*34": ("q", "i"),     # QI
     "*325": ("b", "u"),    # BU (voiced labial)
     "*47": ("m", "o"),     # MO (glyph variant)
@@ -90,6 +90,10 @@ SIGN_STATUS: dict[str, str] = {
 }
 
 
+# Other forms of a table sign, read as that sign. Kept out of SIGN_DECOMPOSITION so the decoy alphabet does not
+# change: *364 (ZA 15a) is the Zakros form of *324.
+SIGN_ALIASES: dict[str, str] = {"*364": "*324"}
+
 _SUBSCRIPT_MAP = str.maketrans("₂₃₄₅", "2345")
 
 
@@ -101,6 +105,7 @@ def _lookup_sign(sign: str) -> SignDecomposition | None:
     import re
     # Normalize Unicode subscripts to ASCII digits first
     upper = sign.upper().translate(_SUBSCRIPT_MAP)
+    upper = SIGN_ALIASES.get(upper, upper)
     decomp = SIGN_DECOMPOSITION.get(upper)
     if decomp:
         return decomp

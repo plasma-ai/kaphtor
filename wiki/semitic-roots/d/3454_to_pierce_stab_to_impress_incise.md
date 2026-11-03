@@ -31,7 +31,7 @@ updated: 2026-10-25T05:11:48Z
 |---|---|---|---|
 | Akkadian | dakāšu (CAD D 34 apud SEDonline 1986) | CAD D 34; SEDonline 1986 | gloss withheld |
 | Syrian Aramaic | dgaš (LSyr. 142 apud SEDonline 1986) | LSyr. 142; SEDonline 1986 | gloss withheld |
-| Mandaic Aramaic | dgaša (MD 102 apud SEDonline 1986) | MD 102; SEDonline 1986 | gloss withheld |
+| Mandaic Aramaic | dgaša (MD 102) | MD 102 | gloss withheld |
 | Tigrinya | dägʷäsä (TED 2163 apud SEDonline 1986) | TED 2163; SEDonline 1986 | gloss withheld |
 | Amharic | däggʷäsä (AED 1832 apud SEDonline 1986) | AED 1832; SEDonline 1986 | gloss withheld |
 

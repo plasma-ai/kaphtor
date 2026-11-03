@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3083_to_glow_to_shine_to_appear
 title: "*blṣ: 'to glow, to shine, to appear'"
-desc: "Proto-Semitic *blṣ, 'to glow, to shine, to appear': reflexes in 3 language(s)."
+desc: "Proto-Semitic *blṣ, 'to glow, to shine, to appear': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3083"
@@ -31,8 +31,15 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Syrian Aramaic | balṣuṣitā (LSyr. 77, SL 160 apud SEDonline 1234) | LSyr. 77, SL 160; SEDonline 1234 | gloss withheld |
-| Geez | balaṣa (CDG 97 apud SEDonline 1234) | CDG 97; SEDonline 1234 | gloss withheld |
+| Geez | balaṣa (CDG 97 apud SEDonline 1234); tabālaṣa (LGz. 97) | CDG 97; SEDonline 1234; LGz. 97 | gloss withheld |
 | Amharic | bälläčä (AED 872 apud SEDonline 1234) | AED 872; SEDonline 1234 | gloss withheld |
+| Arabic | balaṣ (LGz. 97) | LGz. 97 | gloss withheld |
+| Modern Aramaic | balbiṣ (LGz. 97) | LGz. 97 | gloss withheld |
+| Tigre | bäläč̣č̣ bela; bäläč̣läč̣a (LGz. 97) | LGz. 97 | gloss withheld |
+| Tigrinya | bəlləč̣č̣ bälä; bələč̣əlləč̣č̣ bälä (LGz. 97) | LGz. 97 | gloss withheld |
+| Argobba | bələč̣č̣ ala (LGz. 97) | LGz. 97 | gloss withheld |
+| Harari | bilič̣ bilič̣ bāya (LGz. 97) | LGz. 97 | gloss withheld |
+| Gurage | bəlləč̣ alä (LGz. 97) | LGz. 97 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

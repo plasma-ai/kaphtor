@@ -1,7 +1,7 @@
 ---
 name: data/linear-a/protocol-c/inventories/tables
 title: Protocol C unit lists
-desc: The per-arm unit lists of TABLES.md, each unit with its section, title and page.
+desc: The per-arm unit lists of TABLES-C0.md, each unit with its section, title and page.
 tags: [data, linear-a, protocol-c]
 license: CC BY 4.0
 created: 2026-10-29T19:48:19Z

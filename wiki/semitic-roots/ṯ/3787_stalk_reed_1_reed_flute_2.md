@@ -29,7 +29,7 @@ updated: 2026-10-31T13:28:57Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šulpu A 1, 2 (CAD Š/3 256); ša šulpi (CAD Š/3 257) | CAD Š/3 256; CAD Š/3 257 | gloss withheld |
+| Akkadian | šulpu A 1, 2 (CAD Š/3 256; AHw 1269); ša šulpi (CAD Š/3 257) | CAD Š/3 256; AHw 1269; CAD Š/3 257 | gloss withheld |
 | Ugaritic | ṯlb 2: b knr w b ṯlb (KTU 1.108:4; DULAT 892) | KTU 1.108:4; DULAT 892 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

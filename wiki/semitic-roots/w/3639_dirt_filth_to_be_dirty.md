@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3639_dirt_filth_to_be_dirty
 title: "*wšḫ: 'dirt, filth; to be dirty'"
-desc: "Proto-Semitic *wšḫ, 'dirt, filth; to be dirty': reflexes in 2 language(s)."
+desc: "Proto-Semitic *wšḫ, 'dirt, filth; to be dirty': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3639"
@@ -31,6 +31,7 @@ updated: 2026-10-26T15:47:57Z
 |---|---|---|---|
 | Hebrew | \*yešaḥ (Mi 6:14) (HALOT 446) | HALOT 446 | gloss withheld |
 | Arabic | wasaḫ; wasiḫa (Lane 2940); wasiḫa (HALOT 446) | Lane 2940; HALOT 446 | gloss withheld |
+| Gurage | tosa (LGz. 581) | LGz. 581 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

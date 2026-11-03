@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | zibnu 1 |  |  |
+| Akkadian | zibnu 1 (AHw 1524) | AHw 1524 |  |
 | Gurage | \*zäbäz 2 |  |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

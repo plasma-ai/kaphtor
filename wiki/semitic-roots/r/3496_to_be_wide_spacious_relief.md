@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3496_to_be_wide_spacious_relief
 title: "*rwḥ: 'to be wide, spacious; relief'"
-desc: "Proto-Semitic *rwḥ, 'to be wide, spacious; relief': reflexes in 7 language(s)."
+desc: "Proto-Semitic *rwḥ, 'to be wide, spacious; relief': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3496"
@@ -33,9 +33,11 @@ updated: 2026-10-25T06:28:07Z
 | Judaic Aramaic | rwḥ (pe.); (pa., af.) (HALOT 1196) | HALOT 1196 | gloss withheld |
 | Syrian Aramaic | rǝwaḥ (Payne Smith 533) (HALOT 1196); ʾarwīḥā (Payne Smith 28); rūwāḥā (Payne Smith 533); rwaḥtā (Payne Smith 534); ʾarwaḥtā (Payne Smith 28) | Payne Smith 533; HALOT 1196; Payne Smith 28; Payne Smith 534 | gloss withheld |
 | Mandaic Aramaic | RWH (HALOT 1196) | HALOT 1196 | gloss withheld |
-| Punic | rwḥ (HALOT 1196) (T 303) | HALOT 1196; T 303 | gloss withheld |
+| Punic | rwḥ (HALOT 1196) (T 303); yrḥy (Krahmalkov 443) | HALOT 1196; T 303; Krahmalkov 443 | gloss withheld |
 | Arabic | rawaḥ (Lane 1180); rawiḥa (HALOT 1196) | Lane 1180; HALOT 1196 | gloss withheld |
 | Epigraphic South Arabian | Sab hrwḥ (SD 119) (Biella 481); hrwḥt (HALOT 1196) | SD 119; Biella 481; HALOT 1196 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rwḥ (Al-Jallad 2026, 125); rwḥ (D); ʾrḥ (Al-Jallad 2026, 126) | Al-Jallad 2026 125; Al-Jallad 2026 126 | gloss withheld |
+| Aramaic | rwḥ (DNWSI 1062) | DNWSI 1062 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

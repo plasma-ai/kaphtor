@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["KE-KI-RU", "KI-RO", "KU-RO", "PA-TA-NE", "SA-RU", "TA-DI", "TU-MA"]
+words: ["DE-DI", "KE-KI-RU", "KI-RO", "KU-RO", "PA-TA-NE", "SA-RU", "TU-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -70,7 +70,7 @@ Unicode (Linear A block):
 
 **no confidence given**, complete (status: complete).
 
-> Owed: Tūma 1, Patne 1, Dedī 1, Kakkaru 1, šarru 1. Total: 5. \[Section 2:\] RA-\[?\]-DE-ME-TE (unread) 1, \*21F-TU-\[?\] (unread) 1.
+> Owed: Tūma 1, Patne 1, Dedī 1, Kikkaru 1, šarru 1. Total: 5. \[Section 2:\] RA-\[?\]-DE-ME-TE (unread) 1, \*21F-TU-\[?\] (unread) 1.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ Unicode (Linear A block):
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | PN, 'Viper' (rival Ptah-theophoric) | CANDIDATE | CANDIDATE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
-| [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | PN, 'my beloved' (√d-w-d) | SPECULATIVE |  |
+| [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | PN, 'my beloved' (√d-w-d) | SPECULATIVE | SPECULATIVE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
-| [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kakkaru | personal name, 'Disk, Round loaf'; rival a title | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]] | Kikkaru | personal name, 'Disk, Round loaf'; rival a title | SPECULATIVE | SPECULATIVE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/S/SA_RU\|SA-RU]] | šarru | king/official (title) | CANDIDATE | CANDIDATE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
@@ -99,7 +99,7 @@ Context: Debt register—KI-RO header with 5 one-unit entries, names or titles, 
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_TA_NE|PA-TA-NE]], [[wiki/linear-a/words/S/SA_RU|SA-RU]], [[wiki/linear-a/words/T/TA_DI|TA-DI]], [[wiki/linear-a/words/T/TU_MA|TU-MA]].
+[[wiki/linear-a/words/D/DE_DI|DE-DI]], [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]], [[wiki/linear-a/words/K/KI_RO|KI-RO]], [[wiki/linear-a/words/K/KU_RO|KU-RO]], [[wiki/linear-a/words/P/PA_TA_NE|PA-TA-NE]], [[wiki/linear-a/words/S/SA_RU|SA-RU]], [[wiki/linear-a/words/T/TU_MA|TU-MA]].
 
 ## Corpus note
 

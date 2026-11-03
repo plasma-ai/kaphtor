@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/2595_to_spin
 title: "*ɣzl: 'to spin'"
-desc: "Proto-Semitic *ɣzl, 'to spin': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ɣzl, 'to spin': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2595"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | ʔǝ́zɔl (JM 148) | JM 148 | gloss withheld |
 | Jibbali | ɣɔ́zɔ́l (JJ 92) | JJ 92 | gloss withheld |
 | Syrian Aramaic | ʕzal 'spin, twist, twine; entwine, interweave' (Payne Smith 409) | Payne Smith 409 |  |
+| Ugaritic | ġzl (DULAT 324) | DULAT 324 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

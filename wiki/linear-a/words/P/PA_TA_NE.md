@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Viper'; rival Ptah-theophoric |
 | Root | p-t-n |
 | Proto-Semitic | \*pa/itn- (#2423) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 94b (KI-RO · TU-MA 1, PA-TA-NE 1, DE-DI 1 …), HT 122a (PA-TA-NE 1 after KU-PA₃-NU 1, in a roster with JA-MI-DA-RE) and the nodule HT Wa 1019 (PA at the edge). On HT 122a SigLA labels the second sign ri; its own tracing, GORILA's facsimile and the photo show TA. \*patn- 'viper' as a name; no name of that form is attested. Rivals: Ptah with ḥ unwritten and -ānu, 'devotee of Ptah'; √p-t-ḥ 'open' with -ānu.
+HT 94b (KI-RO · TU-MA 1, PA-TA-NE 1, DE-DI 1 …), HT 122a (PA-TA-NE 1 after KU-PA₃-NU 1, in a roster with JA-MI-DA-RE) and the nodule HT Wa 1019 (PA at the edge). On HT 122a SigLA labels the second sign ri, and its own tracing, GORILA's facsimile and the photo show TA. \*patn- 'viper' as a name: Heb. peten (HALOT 990), Ug. bṯn, Akk. bašmu. Rivals: Ptah with ḥ unwritten and -ānu, 'devotee of Ptah', and √p-t-ḥ 'open' with -ānu. Three attestations.
 
 ### Cognates
 
@@ -49,10 +49,13 @@ HT 94b (KI-RO · TU-MA 1, PA-TA-NE 1, DE-DI 1 …), HT 122a (PA-TA-NE 1 after KU
 |---|---|
 | Hebrew | peten (פֶּתֶן) 'horned viper' |
 | Syriac | patnā 'viper, asp' |
+| Ugaritic | bṯn 'serpent' (KTU 1.5 I 1–2) |
+| Aramaic | ptn 'snake', source of Heb. peten (Rendsburg 2026, 207–208) |
+| Greek | Πύθων 'Python', from a Semitic form akin to Heb.-Aram. ptn (Rendsburg 2026, 208) |
 
 ### Source
 
-di Mino
+di Mino; Rendsburg 2026; HALOT
 
 ## Attestations
 
@@ -74,7 +77,7 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
 | Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
@@ -84,10 +87,10 @@ di Mino
 
 ### Note
 
-\*patn- 'viper' (Heb. peten, Syr. patnā). Rival: Egyptian Ptah + -ānu.
+\*patn- 'viper' (Heb. peten, Syr. patnā), whence Greek Πύθων (Rendsburg 2026, 208). Rival: Egyptian Ptah + -ānu.
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: DE-ME-TE, [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]] Kakkaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
+Readings from the lexicon as it stands: DE-ME-TE, [[wiki/linear-a/words/D/DU|DU]] du, [[wiki/linear-a/words/J/JA_MI_DA_RE|JA-MI-DA-RE]] Yamidare, [[wiki/linear-a/words/K/KE_KI_RU|KE-KI-RU]] Kikkaru, [[wiki/linear-a/words/K/KI_RO|KI-RO]] kilʾu, [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]] Kubānu, [[wiki/linear-a/words/K/KU_RO|KU-RO]] kull, [[wiki/linear-a/words/Q/QA_star310_I|QA-\*310-I]] qaynī.
 
 <!-- END kaphtor:record -->

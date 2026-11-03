@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | bqw/y 1 BK 1 151 | BK 1 151 |  |
 | Judaic Aramaic | bqʔ 1, 2 Ja. 185 | Ja. 185 |  |
-| Aramaic | BQY (Aramaic Root Atlas; DNWSI 186 apud CAL) | Aramaic Root Atlas; DNWSI 186; CAL; Anderson–Moser 2024 root bqy | gloss withheld |
+| Aramaic | BQY (Aramaic Root Atlas; DNWSI 186) | Aramaic Root Atlas; DNWSI 186; Anderson–Moser 2024 root bqy | gloss withheld |
 | Syrian Aramaic | bqā 'try, prove, examine' (Payne Smith 52) | Payne Smith 52 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

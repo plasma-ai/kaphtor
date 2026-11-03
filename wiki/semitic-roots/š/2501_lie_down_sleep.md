@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | (?) sakāp- OB CAD S 74 | CAD S 74 | gloss withheld |
-| Mandaic Aramaic | škb (Drower/Macuch 465a apud CAL) | Macuch 465a; CAL |  |
+| Mandaic Aramaic | škb (MD 465) | MD 465 |  |
 | Ugaritic | škb |  |  |
 | Geez | sakaba |  |  |
 | Phoenician | škb (T 316) | T 316 | gloss withheld |
@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | šəkab (HALOT 1486; DJPA 549a apud CAL) | HALOT 1486; DJPA 549a; CAL |  |
 | Biblical Aramaic | šəkab (HALOT 1486) | HALOT 1486 |  |
 | Tigre | sakba (HALOT 1486) | HALOT 1486 |  |
-| Aramaic | šəḵeḇ (LGz. 496; DNWSI 1132 apud CAL) | LGz. 496; DNWSI 1132; CAL |  |
+| Aramaic | šəḵeḇ (LGz. 496; DNWSI 1132) | LGz. 496; DNWSI 1132 |  |
 | Tigrinya | säḵäbä (LGz. 496) | LGz. 496 |  |
 | Eblaitic | si-kà-pù-um (VE 1132; Krebernik 1983: 40 apud SEDonline 999), /šəkābum/ (Hajouz 2013, 688); cf. si-ga-bù-um /S-k-b/ (Sanmartín GlOS 2, 240) | VE 1132; Krebernik 1983: 40; SEDonline 999; Hajouz 2013, 688; Sanmartín GlOS 2, 240 | gloss withheld |
 

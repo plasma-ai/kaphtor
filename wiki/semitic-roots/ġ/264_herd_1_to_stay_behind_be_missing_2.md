@@ -1,0 +1,45 @@
+---
+name: wiki/semitic-roots/ġ/264_herd_1_to_stay_behind_be_missing_2
+title: "*ɣadir-: 'herd' 1, 'to stay behind, be missing' 2"
+desc: "Proto-Semitic *ɣadir-, 'herd' 1, 'to stay behind, be missing' 2: reflexes in 5 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "264"
+created: 2026-11-04T02:29:02Z
+updated: 2026-11-04T02:29:02Z
+---
+
+# *ɣadir-: 'herd' 1, 'to stay behind, be missing' 2
+
+[[wiki/semitic-roots/ġ/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*ɣadir- |
+| Meaning | 'herd' 1, 'to stay behind, be missing' 2 |
+| Basis | reconstruction SED; meaning SED, corrected |
+| SED | SEDonline semet 213 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Arabic | ɣadīrat- 'animal that stayed behind the main body of the herd; ewe, she-camel, etc., left behind' 1 BK 2 439; cf. ɣdr 'to stay behind someone, behind the herd; to be satiated, having eaten a lot of plants from the beginning of spring (said of herds)' 2 ibid. 438-9 | BK 2 439 |  |
+| Phoenician | ʕdr 1 (T 239) | T 239 | gloss withheld |
+| Hebrew | ʕēdär 1 (HALOT 793); ʕdr nif., pi. 2 (HALOT 793) | HALOT 793 | gloss withheld |
+| Judaic Aramaic | ʕädrā 1 (HALOT 793) | HALOT 793 |  |
+| Aramaic | SamP., Eg.-Arm. ʕdr 1 (HALOT 793) | HALOT 793 |  |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Akkadian adrû (atrû) in immer adrê SB is a Sumerian loan (CAD A/1 131); ḫadiru (AHw 307; CAD Ḫ 23) is an Aramaic loan.
+
+<!-- END kaphtor:record -->

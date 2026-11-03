@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2604_to_pluck_pull_out_hair
 title: "*mrṭ: 'to pluck, pull out hair'"
-desc: "Proto-Semitic *mrṭ, 'to pluck, pull out hair': reflexes in 8 language(s)."
+desc: "Proto-Semitic *mrṭ, 'to pluck, pull out hair': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2604"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | maraṭa (LGz. 361) | LGz. 361 | gloss withheld |
 | Harari | märäṭa (LGz. 361) | LGz. 361 | gloss withheld |
 | Gurage | märäṭä (LGz. 361) | LGz. 361 | gloss withheld |
+| Biblical Aramaic | mrṭ pe. pass. (HALOT BArm. s.v. מרט) | HALOT BArm. s.v. מרט | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

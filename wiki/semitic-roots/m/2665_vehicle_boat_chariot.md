@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2665_vehicle_boat_chariot
 title: "*markab-: 'vehicle, boat, chariot'"
-desc: "Proto-Semitic *markab-, 'vehicle, boat, chariot': reflexes in 6 language(s)."
+desc: "Proto-Semitic *markab-, 'vehicle, boat, chariot': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2665"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | merkābā (HALOT 636) | HALOT 636 | gloss withheld |
 | Aramaic | markabtā (OLA80 §63.4) | OLA80 §63.4 | gloss withheld |
 | Phoenician | mrkbt (T 199) | T 199 | gloss withheld |
+| Canaanite | EG SYLL ma=-r=ka=ba=ta, ma₃=ra=k=b=tu₂, ma₄=ra=k=b=ta /\*markábata/ (sg.), /\*markabā́ta/ (pl.) (Hoch 145–147) | Hoch 145–147 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

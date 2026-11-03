@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU
 title: "KU"
 desc: "kull: all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "logogram"]
 kind: "word"
 form: "KU"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | all, totality, everything (administrative category: miscellaneous/general allocation; section subtotal) |
 | Root | k-l-l |
 | Proto-Semitic | \*kʷall- (#2418) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | accounting, administrative, logogram |
 | Semantic field | administrative |
 
 ### Note
 
-167 standalone attestations (152 single-sign HT nodules HTWa1471–1622, plus 15 multi-word tablets across 5 sites). Second most common nodule category after \*301 (226). On HT127b, KU 72 appears as one sub-category alongside \*307, VIR+\*313c, KI+MU, \*301—all summing to KU-RO 292 (the sum includes the erased KI+MU 14, GORILA I 219). This confirms KU is a CATEGORY LABEL, not an abbreviation of KU-RO. HT 42+59 has KU-\[ \]OLE\[, a broken longer word, not KU. On HT131a, KU 353 is the largest number (subtotal). On HT45b, KU ¼ appears 3×. The semantic distinction kull "all/section" vs kull-rōʿu (KU-RO) "grand total" parallels administrative subtotal vs grandtotal conventions. Alternative: kōhēn "priest"—rejected (152 nodules too many for personnel; full spelling KI-NI exists separately). Huehnergard: /kalīlu/ "entirety", /kullu/ "all" CuCC pattern; BH kālīl.
+HT 127b: KU-RO \*307 156, KU 72, VIR+\*313c 24, KI+MU 15, \*301 11 and the erased KI+MU 14, KU-RO 292 (GORILA I 219): KU is one section of the total. On HT 131a KU 353 is the largest number, a subtotal; on HT 45b KU ¼ stands three times. KU alone marks 151 HT nodules (HT Wa 1471–1622), the second commonest after \*301, and stands on tablets at five sites. HT 42+59 has KU-\[ \]OLE\[, a broken longer word. kull 'all, section', beside KU-RO kull-rōʿu 'grand total': Ug. kl /kullu/ 'each, every, all, entire' and kll /kalīlu/ 'entirety, everything' (Huehnergard 2012, 37), BH kōl, kālīl.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Source
 
-di Mino
+di Mino; GORILA I; Huehnergard 2012
 
 ## Attestations
 

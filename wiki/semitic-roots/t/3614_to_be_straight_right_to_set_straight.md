@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | tarāṣu B; turruṣu (CAD T 215); tarṣu A (CAD T 241) | CAD T 215; CAD T 241 | gloss withheld |
+| Akkadian | tarāṣu B (AHw 1327); turruṣu (CAD T 215); tarṣu A (CAD T 241) | AHw 1327; CAD T 215; CAD T 241 | gloss withheld |
 | Syrian Aramaic | traṣ 'to direct, make straight or right; to set straight, correct'; trīṣ 'straight, direct; upright, right, honest' (Payne Smith 622); tārūṣā 'one who directs, corrects'; trīṣāʾīt 'rightly, uprightly, straightforwardly; straight' (Payne Smith 620) | Payne Smith 622; Payne Smith 620 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_PA
 title: "KU-PA"
 desc: "quppa: box, basket (standardized container for measured commodity allocations). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+tags: ["linear-a", "word", "tier-2", "administrative", "noun", "vessel"]
 kind: "word"
 form: "KU-PA"
 datasets: ["lexicon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | box, basket (standardized container for measured commodity allocations) |
 | Root | q-p-p |
 | Proto-Semitic | \*ḳupp- (#301) |
-| Language layer | NWS (PS \*ḳupp-) |
+| Language layer | Semitic |
+| Tags | administrative, noun, vessel |
 | Semantic field | administrative |
 
 ### Note
 
-No QU sign in Linear A syllabary — /qu/ written as KU. Accusative \*quppa(m) gives KU-PA. Diagnostic pattern: KU-PA 𐄁 GRA+PA N on both ZA11a (qty 1) and ZA11b (qty 3) — container label before measured grain. All quantities small (1-3), consistent with individual containers. Distinct from KA-PA 'village' (√k-p-r, different vowel, HT-only). See QE-PI-TA.
+ZA 11a and ZA 11b each have KU-PA · GRA+PA, with 1 and 3: a container named before measured grain; HT 110a has KU-PA 1 after CYP+E 20, and KH 29 KU-PA before 2. quppa 'box, basket': Akk. quppu A '(a wicker basket or wooden chest)' (CAD Q 307), KU writing qu, since Linear A has no QU sign; the accusative \*quppa(m) gives KU-PA. The small quantities (1–3) count single containers. See QE-PI-TA and KA-PA.
 
 ### Cognates
 
@@ -55,7 +56,7 @@ No QU sign in Linear A syllabary — /qu/ written as KU. Accusative \*quppa(m) g
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; CAD Q
 
 ## Attestations
 

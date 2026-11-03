@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3723_to_guide_show_the_way
 title: "*dll: 'to guide, show the way'"
-desc: "Proto-Semitic *dll, 'to guide, show the way': reflexes in 4 language(s)."
+desc: "Proto-Semitic *dll, 'to guide, show the way': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3723"
@@ -33,6 +33,7 @@ updated: 2026-10-28T02:25:00Z
 | Arabic | dalla 'he directed, guided; showed him the way' (Lane 900) | Lane 900 |  |
 | Mehri | dəl (Johnstone 1987, 69 apud Sabaweb lemma 2414) | Johnstone 1987, 69; Sabaweb lemma 2414 | gloss withheld |
 | Jibbali | dell (Johnstone 1981, 38 apud Sabaweb lemma 2414) | Johnstone 1981, 38; Sabaweb lemma 2414 | gloss withheld |
+| Ugaritic | dll (DULAT 268) | DULAT 268 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

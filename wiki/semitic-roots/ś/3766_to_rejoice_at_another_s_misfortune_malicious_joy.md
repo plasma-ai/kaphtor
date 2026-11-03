@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/3766_to_rejoice_at_another_s_misfortune_malicious_joy
 title: "*ŝmt: 'to rejoice at another's misfortune; malicious joy'"
-desc: "Proto-Semitic *ŝmt, 'to rejoice at another's misfortune; malicious joy': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ŝmt, 'to rejoice at another's misfortune; malicious joy': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3766"
@@ -31,6 +31,7 @@ updated: 2026-10-28T07:37:32Z
 |---|---|---|---|
 | Epigraphic South Arabian |  | Biella 518–519; SD 133; Sabaweb lemma 1568 | source's text withheld |
 | Arabic | šamita 'he rejoiced at the affliction of the enemy'; šamita bihi 'he rejoiced at his \[an enemy's\] affliction' (Lane 1594) | Lane 1594 |  |
+| Pre-Islamic North Arabian | Safaitic śmt (Al-Jallad 2026, 140) | Al-Jallad 2026 140 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

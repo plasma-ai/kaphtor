@@ -43,10 +43,10 @@ updated: 2026-10-22T17:38:31Z
 | Punic | bqr 'cattle' | Anderson–Moser 2024 root bqr |  |
 | Ugaritic | bqr 'cattle' | Anderson–Moser 2024 root bqr |  |
 | Modern Aramaic | Krd. buḳra; NSyr. biḳrâ, bŭḳrâ; NAssyr. bıḳra, buḳra; Tlk. buḳra; Ass. bɨḳra; Tur. baḳro (SED II 83) | SED II 83 |  |
-| Egyptian | Eg.-Syll. pa₂=ra=ku \[Hoch 179\] | Hoch 179 |  |
 | Pre-Islamic North Arabian | Safaitic bqr (Al-Jallad–Jaworska 61) | Al-Jallad–Jaworska 61 | gloss withheld |
 | Emar | ba-qa-ra, bu-qà-ri /baqaru/, /buqaru/ (Pentiuc 2001, 36–37) | Pentiuc 2001 36–37 | gloss withheld |
 | Amorite | buqāru (Streck 2000, 87); baqar, buqar (Sanmartín GlOS 1, 117) | Streck 2000 87; Sanmartín GlOS 1, 117 | gloss withheld |
+| Canaanite | EG SYLL pa₂=ra=ku /\*baqaru/ (Hoch 121–122) | Hoch 121–122 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

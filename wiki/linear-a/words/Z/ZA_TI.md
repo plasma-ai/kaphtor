@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Z/ZA_TI
 title: "ZA-TI"
 desc: "zāt: this (f.sg. demonstrative). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "grammar"]
+tags: ["linear-a", "word", "tier-2", "hapax", "pronoun"]
 kind: "word"
 form: "ZA-TI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | this (f.sg. demonstrative) |
 | Root | ḏ |
 | Proto-Semitic | \*ḏāt- (#K0876) |
-| Language layer | NWS/Canaanite-like |
-| Category | grammar |
-| Semantic field | demonstrative |
+| Language layer | Semitic |
+| Tags | hapax, pronoun |
+| Semantic field | particle |
 
 ### Note
 
-Fills the gap Gordon (1966 §156) marked between A-KA-NU and DU-RA-RE. ZA-TI may write /zāt/ (historically perhaps /zāʾt/), with TI exposing final /t/ and a nonphonemic support vowel. Hebrew zō(ʾ)t is the closest lexical parallel. Phoenician ʾGN is feminine, and FK D 35 hʾgn hz 'this bowl' provides an independent noun + postposed demonstrative parallel. Because Semitic places the demonstrative after its noun here, the natural English rendering of A-KA-NU ZA-TI is simply 'this bowl'; 'this very bowl' would add emphasis not established by the form. This reading is preferable to /ḏāti/ 'of': Ugaritic dāti and Arabic ḏāti have a live genitive /i/ and require an agreement frame absent here. Caution: ZA-TI is a hapax, GORILA and SigLA disagree on ZA/ZE, and final TI = /t/ is a proposed Linear A spelling rather than a demonstrated Linear B rule. Rival: a name, 'bowl of Zati': Ebla za-ti (Pagan 1998, row 5052; ARET 15 30). See TA-TE-I-KE-ZA-RE.
+Fills the gap Gordon (1966 §156) marked between A-KA-NU and DU-RA-RE. ZA-TI writes zāt (older \*zāʾt), TI giving final t with a support vowel; Hebrew zō(ʾ)t, from West Semitic \*ðv̄- (Huehnergard 2023, 46), is the closest parallel. Phoenician ʾGN is feminine, and FK D 35 hʾgn hz 'this bowl' sets the demonstrative after its noun (Krahmalkov 2000, 31): A-KA-NU ZA-TI 'this bowl'. Rivals: ḏāti 'of', whose Ugaritic dāti and Arabic ḏāti keep a genitive i and need an agreement frame absent here; a name, 'bowl of Zati': Ebla za-ti (Pagan 1998, row 5052; ARET 15 30). Weak points: a hapax; GORILA reads ZA where SigLA reads ZE; A-ZU-RA on the same cup leaves its final t unwritten. See TA-TE-I-KE-ZA-RE.
 
 ### Cognates
 

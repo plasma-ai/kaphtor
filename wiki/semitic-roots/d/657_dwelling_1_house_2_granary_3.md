@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/657_dwelling_1_house_2_granary_3
 title: "*dār-: 'dwelling' 1, 'house' 2, 'granary' 3"
-desc: "Proto-Semitic *dār-, 'dwelling' 1, 'house' 2, 'granary' 3: reflexes in 9 language(s)."
+desc: "Proto-Semitic *dār-, 'dwelling' 1, 'house' 2, 'granary' 3: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "657"
@@ -39,6 +39,7 @@ updated: 2026-10-26T14:26:59Z
 | Judaic Aramaic | JPA drh (DJPA 155 apud SEDonline 2023); JBA dwrˀ (DJBA 322 apud SEDonline 2023) | DJPA 155; SEDonline 2023; DJBA 322 | gloss withheld |
 | Epigraphic South Arabian | Min. dr (LM 27 apud SEDonline 2023) | LM 27; SEDonline 2023 | gloss withheld |
 | Amorite | madār (Buck 2019, 326) | Buck 2019, 326 | gloss withheld |
+| Biblical Aramaic | \*mədōr 1 (HALOT BArm. s.v. מְדוֹר); dwr 1 (HALOT BArm. s.v. דור) | HALOT BArm. s.v. מְדוֹר; HALOT BArm. s.v. דור | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

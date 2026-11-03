@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SI_star516
 title: "SI-*516"
 desc: "si-SIPRU: the account/record (phonetic complement + logogram). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "hapax", "logogram"]
 kind: "word"
 form: "SI-*516"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the account/record (phonetic complement + logogram) |
 | Root | s-p-r |
 | Proto-Semitic | \*sapVr- (#2701) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | accounting, administrative, hapax, logogram |
 | Semantic field | administrative |
 
 ### Note
 
-SI prefix = phonetic complement marking /s/-onset of logogram \*516=SIPRU. Parallel to PA₃-\*188 (marking /b/-onset of BUṬNU). Single attestation on HT34. Huehnergard: /sipru/ qitl pattern, pl. /siparūma/; BH sēper.
+HT 34 DA-JU-TE · SI-\*516 ·, the heading, before SA-RA₂ · MI+JA+KA. SI is a phonetic complement giving the s- onset of the logogram \*516, its proposed value SIPRU, as PA₃ gives the b- of BUṬNU in PA₃-\*188. Ug. spr /sipru/, pl. sprm /siparūma/ 'document' (Huehnergard 2012, 42), BH sēper. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ SI prefix = phonetic complement marking /s/-onset of logogram \*516=SIPRU. Paral
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2012
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/1940_liver_stomach_entrails
 title: "*kab(i)d-: 'liver; stomach, entrails'"
-desc: "Proto-Semitic *kab(i)d-, 'liver; stomach, entrails': reflexes in 21 language(s)."
+desc: "Proto-Semitic *kab(i)d-, 'liver; stomach, entrails': reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1940"
@@ -37,12 +37,13 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | šebdēt \[JH 123\] | JH 123 |  |
 | Tigre | käbǝd \[LH 411\] | LH 411 | gloss withheld |
 | Mandaic Aramaic | kabda, kabada \[DM 195, 194\] | DM 195, 194 | gloss withheld |
-| Ugaritic | kbd \[DULAT 420\]; /kabidu ?/ (UVST 135) | DULAT 420; UVST 135 | gloss withheld |
+| Ugaritic | kbd \[DULAT 420\] | DULAT 420 | gloss withheld |
 | East Ethiopic | SEL käbd, WOL häbd \[LGur 333\] | LGur 333 | gloss withheld |
 | Geez | kabd \[LGz 273\] | LGz 273 | gloss withheld |
 | Gurage | MUH MSQ häbǝd, EŽA ḫäbǝd, CHA ḫäpt \[ibid.\] |  |  |
 | Modern Aramaic | MMND kaḇdā \[M MND 509\] AZR koda \[Garb 315\] | M MND 509; Garb 315 | gloss withheld |
 | Jibbali | s̃ubdét \[JJ 266\] | JJ 266 |  |
+| Canaanite | ka-ba-tum-ma (CAD K 14 apud SED I 126) | CAD K 14; SED I 126 | gloss withheld |
 | Hebrew | kābēd (HALOT 456) | HALOT 456 | gloss withheld |
 | Amharic | hod \[K 29\] | K 29 | gloss withheld |
 | Judaic Aramaic | kabdā \[Ja 607\]; kbd \[DJPA 249a apud CAL\] | Ja 607; DJPA 249a; CAL | gloss withheld |

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/OLE
 title: "OLE"
 desc: "šamnu 'oil, olive oil'. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity ideogram"]
+tags: ["linear-a", "word", "tier-3", "commodity", "foodstuff", "logogram", "oil"]
 kind: "word"
 form: "OLE"
 datasets: ["lexicon"]
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | šamnu 'oil, olive oil' |
 | Root | š-m-n |
 | Proto-Semitic | \*šam(a)n- ~ \*sam(a)n- (#2014) |
-| Language layer | NWS |
-| Category | commodity ideogram |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting oil/olive oil. 21 standalone, 9 sites. Heb. šemen, Ug. šmn, Akk. šamnu. \*308 = ŠAMNU already resolved as pressed oil derivative with same root—OLE is the base ideogram \|\| COMPOUND SYSTEM: Richest of any commodity—18 types: OLE+KI standard, OLE+MI anointing, OLE+DI honey-infused, OLE+TA fine-grade, OLE+NE libation, OLE+RI aromatic. OLE+MI/OLE+KI compound system confirms base value \|\| 20 tablets, 7 sites. Universal Linear B commodity logogram.
+A commodity logogram, oil: 21 standalone occurrences; Linear B uses it too. šamnu 'oil, olive oil': Heb. šemen, Ug. šmn, Akk. šamnu, the root of \*308, the pressed-oil derivative, of which OLE is the base. Its compounds are the richest of any commodity, eighteen types: OLE+KI standard, OLE+MI anointing, OLE+DI honey-infused, OLE+TA fine grade, OLE+NE libation, OLE+RI aromatic.
 
 ### Cognates
 
@@ -51,13 +51,17 @@ Non-phonetic commodity ideogram denoting oil/olive oil. 21 standalone, 9 sites. 
 | Akkadian | šamnu 'oil, fat, cream' (CAD Š/1 321) |
 | Phoenician | šmn 'oil' (Krahmalkov 470) |
 
+### Source
+
+di Mino
+
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT12\|HT12]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT14\|HT14]] | Haghia Triada | Tablet | complete; form not in transliteration |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT50a\|HT50a]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT100\|HT100]] | Haghia Triada | Tablet | complete; form not in transliteration |
 | [[wiki/linear-a/inscriptions/ZA/ZA/ZA18a\|ZA18a]] | Zakros | Tablet | none; form not in transliteration |

@@ -10,6 +10,10 @@ through `tools/core/run_saver.py`, so `ventris_runs.py` lists them.
 | `root_match_checks.py` | The Shoresh pre-gold checks (`docs/shoresh-preregistration.md`) |
 | `meaning_shuffle.py` | The meaning-shuffle test; refused without its signed pre-registration (`--prereg`) |
 | `meaning_shuffle_power.py` | The meaning-shuffle test's calibration and power, on fabricated and planted words only; writes `--out` |
+| `d7_structural_controls.py` | D7's controls (`docs/d7-structural-preregistration.md`): S1 and S3 on the rival languages' own texts, none shipped; writes `--out` |
+| `d7_s3_linear_a.py` | D7's S3 on Linear A (`docs/d7-structural-result.md`); writes `--out` |
+| `paradigm_b.py` | The frozen paradigm B test, verified against its hashes, its numbers reproduced |
+| `protocol_c.py` | Protocol C's C0 and C1 record, verified against its hashes, its C1 checks rerun |
 | `blind_corpus_test.py` | Readings of untranslated inscriptions with the lexicon locked |
 | `hapax_analysis.py` | The forms attested once |
 | `db_composition_audit.py` | The make-up of the comparison databases |

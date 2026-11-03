@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/2259_cheetah
 title: "*pahd-: 'cheetah'"
-desc: "Proto-Semitic *pahd-, 'cheetah': reflexes in 6 language(s)."
+desc: "Proto-Semitic *pahd-, 'cheetah': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2259"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | fhǝdɛ́t \[JJ 54\]. | JJ 54 | gloss withheld |
 | Epigraphic South Arabian | Hdr. fhd-nyw \[Pirenne 93\] | Pirenne 93 | gloss withheld |
 | Syrian Aramaic | pahdā 'panther' \[Brock. 558\], 'a wild beast' \[PS 3042\]. | Brock. 558; PS 3042 |  |
+| Pre-Islamic North Arabian | Safaitic fhd (Al-Jallad 2026, 45) | Al-Jallad 2026 45 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

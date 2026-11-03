@@ -1,0 +1,53 @@
+---
+name: wiki/semitic-roots/ʿ/2135_bird_to_fly
+title: "*ʕawp-: 'bird; to fly'"
+desc: "Proto-Semitic *ʕawp-, 'bird; to fly': reflexes in 17 language(s)."
+tags: ["semitic-roots", "root"]
+kind: "semitic_root"
+id: "2135"
+created: 2026-11-04T14:00:32Z
+updated: 2026-11-04T14:00:32Z
+---
+
+# *ʕawp-: 'bird; to fly'
+
+[[wiki/semitic-roots/ʿ/_index|..]]
+
+***
+
+<!-- BEGIN kaphtor:record -->
+
+## Root
+
+| Field | Value |
+|---|---|
+| Reconstruction | \*ʕawp- |
+| Meaning | 'bird; to fly' |
+| Basis | reconstruction SED; meaning SED, corrected |
+| SED | SEDonline semet 2347 |
+
+## Reflexes
+
+| Language | Form | Sources | Note |
+|---|---|---|---|
+| Arabic | ʕawf- \[BK 2 409\], \[TA XXIV 191\]. | BK 2 409; TA XXIV 191 | gloss withheld |
+| Tigre | ʕof \[LH 478\], ʕayfot \[ibid. 482\]. | LH 478; LH 482 | gloss withheld |
+| Ugaritic | ʕp \[DULAT 170\]; /ʕ-p/ (DULAT 170) | DULAT 170 | gloss withheld |
+| Geez | ʕof \[LGz. 78\]. | LGz. 78 | gloss withheld |
+| Gurage | Sod. of, Muh. õf, Zwy. ũf, Sel. ūf, Cha. Eža Msq. Gog. ãfʷ, End. Enm. Gyt. ā̃fʷ, Wol. ũfʷ, Sod. wof \[LGur. 20\]. | LGur. 20 | gloss withheld |
+| Biblical Aramaic | ʕōp 'bird' (BDB 1105) | BDB 1105 |  |
+| Phoenician | ʕpt \[T 254\], \[Krah. 384\] | T 254; Krah. 384 | gloss withheld |
+| Hebrew | ʕōp (HALOT 801); ʕwp (HALOT 800–801); pB. \[Ja. 1055\]. | HALOT 801; HALOT 800–801; Ja. 1055 | gloss withheld |
+| Amharic | wäf, wof \[K 1598\]. | K 1598 | gloss withheld |
+| Judaic Aramaic | ʕōp (det. ʕōpā) \[Ja. 1055\], \[Levy WTM III 628\]; ʕōp \[DJPA 399b apud CAL\]. // Sam. ʕwp \[Tal 627\]. | Ja. 1055; Levy WTM III 628; DJPA 399b; CAL; Tal 627 | gloss withheld |
+| Harari | ūf \[LHar. 20\]. | LHar. 20 | gloss withheld |
+| Syrian Aramaic | ʕawpā 'birds' \[Brock. 517\], \[PS 2836\]. | Brock. 517; PS 2836 |  |
+| Tigrinya | ʕuf 'bird; fortune' \[Bass. 715\]. | Bass. 715 |  |
+| Epigraphic South Arabian | ʿwf (HALOT 801) | HALOT 801 |  |
+| Aramaic | ʿāpā (LGz. 78); ʿwp (Aramaic Root Atlas; CAL s.v. ʿwp#3) | LGz. 78; Aramaic Root Atlas; CAL s.v. ʿwp#3 | gloss withheld |
+| Argobba | ˁof, uf (Leslau 1997:189 apud SEDonline 158) | Leslau 1997:189; SEDonline 158 | gloss withheld |
+| Gafat | yəfʷä (Leslau 1956:248 apud SEDonline 158) | Leslau 1956:248; SEDonline 158 | gloss withheld |
+
+A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+<!-- END kaphtor:record -->

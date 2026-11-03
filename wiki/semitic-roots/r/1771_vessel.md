@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1771_vessel
 title: "*rīb-: 'vessel'"
-desc: "Proto-Semitic *rīb-, 'vessel': reflexes in 1 language(s)."
+desc: "Proto-Semitic *rīb-, 'vessel': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1771"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | rību |  |  |
+| Ugaritic | rỉb (DULAT 712) | DULAT 712 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

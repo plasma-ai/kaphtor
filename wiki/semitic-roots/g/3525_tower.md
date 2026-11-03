@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3525_tower
 title: "*gdl: 'tower'"
-desc: "Proto-Semitic *gdl, 'tower': reflexes in 7 language(s)."
+desc: "Proto-Semitic *gdl, 'tower': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3525"
@@ -36,6 +36,8 @@ updated: 2026-10-25T06:28:07Z
 | Judaic Aramaic | migdǝlāʾ (HALOT 543) | HALOT 543 | gloss withheld |
 | Syrian Aramaic | magdal, magdlā 'a tower, bulwark' (Payne Smith 249) | Payne Smith 249 |  |
 | Epigraphic South Arabian | mgdl (HALOT 543) | HALOT 543 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mgdl (Al-Jallad 2026, 49) | Al-Jallad 2026 49 | gloss withheld |
+| Ugaritic | mgdl (DULAT 524) | DULAT 524 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

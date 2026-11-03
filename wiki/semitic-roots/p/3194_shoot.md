@@ -29,7 +29,7 @@ updated: 2026-10-24T15:25:56Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | perʾu (Kogan 2011, 201) | Kogan 2011 201 |  |
+| Akkadian | perʾu (Kogan 2011, 201); piriʾtu (CAD P 403) | Kogan 2011 201; CAD P 403 | gloss withheld |
 | Syrian Aramaic | perʿā (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
 | Tigrinya | färrəʿe (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
 | Mehri | fátrəɣ (Kogan 2011, 201) | Kogan 2011 201 | gloss withheld |
@@ -39,6 +39,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-PS \*pirɣ- 'shoot', likely related to \*parḫ- (1735) (Kogan 2011, 201). Akk. perʾu also stands in 1735.
+PS \*pirɣ- 'shoot', likely related to \*parḫ- (1735) (Kogan 2011, 201).
 
 <!-- END kaphtor:record -->

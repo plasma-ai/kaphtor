@@ -34,18 +34,18 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Ḫaru |
 | Meaning | Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 9a A-RU 4¼, the last recipient of the wine list under SA-RO · TE · VIN, before KU-RO 31¾; HT 49a A-RU 1 in a name list with TU-SU-PU₂ Tešub. ḫa-ru sign for sign, ḫ unwritten as in E-PA-TU Ḫebat: the Nuzi name Ḫa-a-ru (NPN 55), an element NPN marks 'H.? Anatolian?' (NPN 214). Rival: the Eblaite name ha-ru₁₂ ḫayru 'excellent' (Pagan 1998, row 2259), which needs the coda y unwritten.
+HT 9a A-RU 4¼, the last recipient of the wine list under SA-RO · TE · VIN, before KU-RO 31¾; HT 49a A-RU 1 in a name list with TU-SU-PU₂ Tešub. ḫa-ru sign for sign, ḫ unwritten as in E-PA-TU Ḫebat: the Nuzi name Ḫa-a-ru (NPN 55), an element NPN refers to ḫar, 'H.? Anatolian?' (NPN 214). Rival: the Eblaite name ha-ru₁₂ ḫayru 'excellent' (Pagan 1998, row 2259), which needs the coda y unwritten.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hurrian | Nuzi Ḫa-a-ru, \[Ḫa\]-a-ru(m), f. of Alkiya (NPN 55); element ḫaru 'H.? Anatolian?' (NPN 214) |
+| Hurrian | Nuzi Ḫa-a-ru, \[Ḫa\]-a-ru(m), f. of Alkiya (NPN 55); element ḫaru, cross-referred to ḫar 'H.? Anatolian?', with Ḫa-ru-se-en-ni at Ras Shamra (NPN 214) |
 | Eblaite | ha-ru₁₂ ḫayru 'excellent', the rival (Pagan 1998, row 2259); \*ḫVyVr- 'be favourable' (semitic_roots no. 988) |
 
 ### Source
@@ -70,7 +70,7 @@ di Mino; Pagan 1998; NPN
 
 | Field | Value |
 |---|---|
-| Type | personal name (CANDIDATE) |
+| Type | personal name (SPECULATIVE) |
 | Affiliation | hurrian (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |

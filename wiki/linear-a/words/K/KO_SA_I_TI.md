@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KO_SA_I_TI
 title: "KO-SA-I-TI"
 desc: "Kōšayīt: the Kushite woman (origin label); rival kusītu 'robe'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "gentilic", "hapax", "loanblend", "personal_name"]
 kind: "word"
 form: "KO-SA-I-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -33,26 +33,26 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kōšayīt |
 | Meaning | the Kushite woman (origin label); rival kusītu 'robe' |
-| Root | kōš + -ay- + -īt (feminine nisbe) |
-| Language layer | NWS |
-| Category | personal_name |
+| Root | Kꜣš 'Kush' (AED lemma 163680, after Wb 5, 109.1) + -ay- + -īt (feminine nisbe) |
+| Language layer | Semitic |
+| Tags | gentilic, hapax, loanblend, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 117a .7–8 KO-SA-I-TI 1, complete, I dotted, the second of five under SA-TA Šata, between KU-KU-DA-RA and DA-MI-NU (GORILA I 197). KO writes the ō of Coptic ⲉϭⲱϣ, SA-I the gentilic glide of Amarna ka-ši-yi, I-TI the feminine nisbe -īt: Kōšayīt 'the Kushite woman', an origin label as U-SU ʾUšu and U-DI-MI ʾUdumī on the same tablet. Rival: kusītu 'robe' (Ebla gu-zi-tum, Amarna ku-zi-ti, Ug. kst; GlOS 1, 325), a garment in a roster of persons, where KU-SI-TI is the expected spelling. One witness.
+HT 117a .7–8 KO-SA-I-TI 1, complete, I dotted, the second of five under SA-TA Šata, between KU-KU-DA-RA and DA-MI-NU (GORILA I 197). KO writes the ō of Coptic ⲉϭⲱϣ 'Nubian', feminine ⲉϭⲟⲟϣⲉ (Vycichl 1983, 50, apud Kilani 2020), SA-I the gentilic glide of Amarna LÚ.MEŠ ka-ši-yi (EA 287:33), I-TI the feminine nisbe -īt: Kōšayīt 'the Kushite woman', an origin label as U-SU ʾUšu and U-DI-MI ʾUdmī on the same tablet. Rival: kusītu 'robe' (Ebla gu-zi-tum, Amarna ku-zi-ti, Ug. kst; GlOS 1, 325), a garment in a roster of persons, where KU-SI-TI is the expected spelling. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Egyptian | Kꜣš 'Kush'; ı͗kšj.t 'Kushite woman'; Coptic ⲉϭⲱϣ, ⲉϭⲟϣⲉ 'Kushite' (ThotBank 486) |
+| Egyptian | Kꜣš 'Kush' (AED lemma 163680); ı͗kšj.t 'Kushite woman'; Coptic ⲉϭⲱϣ, ⲉϭⲟϣⲉ 'Kushite' (ThotBank 486) |
 | Amarna | KUR ka-ši 'Kush' (EA 127, 131, 133, 287); LÚ.MEŠ ka-ši-yi 'Kushites' (EA 287:33) |
 | Hebrew | hāʾiššâ hakkušît 'the Kushite woman' (Num 12:1) |
 
 ### Source
 
-di Mino; ThotBank; ORACC aemw/amarna; GlOS 1
+di Mino; Kilani 2020; GlOS 1; AED
 
 ## Attestations
 

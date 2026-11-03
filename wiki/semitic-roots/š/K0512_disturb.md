@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šagāšu 'kill' | Anderson–Moser 2024 root šgš |  |
+| Akkadian | šagāšu (AHw 1126) | AHw 1126; Anderson–Moser 2024 root šgš | gloss withheld |
 | Aramaic | ŠGŠ (CAL s.v. šgš) | CAL s.v. šgš; Anderson–Moser 2024 root šgš | gloss withheld |
 | Amorite | šgš: šagišum (Gelb AS 21, 33) | Gelb AS 21 33 | gloss withheld |
 | Syrian Aramaic | šgaš 'trouble, ruffle, stir up; rage' (Payne Smith 559) | Payne Smith 559 |  |

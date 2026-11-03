@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/A/A_DU
 title: "A-DU"
-desc: "ʾAddu / adû: Addu/Haddu; alternatively an administrative work assignment or stint. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine_name_or_administrative_heading"]
+desc: "ʾAddu / adû: Addu/Haddu (heading); rival adû 'work stint'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "administrative", "theonym"]
 kind: "word"
 form: "A-DU"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾAddu / adû |
-| Meaning | Addu/Haddu; alternatively an administrative work assignment or stint |
+| Meaning | Addu/Haddu (heading); rival adû 'work stint' |
 | Root | ʾ-d-d |
 | Proto-Semitic | \*hadad- (#3186) |
-| Language layer | Akkadian_or_NWS |
-| Category | divine_name_or_administrative_heading |
-| Semantic field | administrative_or_divine |
+| Language layer | Semitic |
+| Tags | administrative, theonym |
+| Semantic field | divine |
 
 ### Note
 
-A-DU occurs in 8 documents at two sites, regularly in initial or administrative-heading position. This establishes its heading or entity function but not its semantic identity, and the spelling may be homographic across contexts. Gordon's Addu/Haddu remains viable: the spelling fits Old Babylonian Amorite/Akkadian Addu without initial h, and second-millennium syllabic forms such as eh-li-a-du independently preserve the divine element (Howard 2023). Ebla has ʾa₃-du, the DN Ḫaddu as a personal name (Pagan 1998, row 27). Alternatively, Akkadian adû 'a (day's) work, stint' is independently attested and fits allocation and roster contexts (ORACC ARM/EP). HT92 places A-DU between TE and commodities, slightly favoring a named recipient such as Addu, but the administrative distribution cannot confirm that interpretation. See A-DU \*307+\*307, A-DU-NI-TA-NA, A-DU-KU-MI-NA and \*21F-JA-DU.
+A-DU occurs in 8 documents at two sites, regularly in initial or heading position: a heading or an entity. Gordon's Addu/Haddu (Gordon 1966 §129): the spelling fits Old Babylonian Amorite and Akkadian Addu without initial h, and second-millennium syllabic forms such as eḫ-li-a-du keep the divine element (Howard 2023, 5). Ebla has ʾa₃-du, the DN Ḫaddu as a personal name (Pagan 1998, row 27). HT 92 places A-DU between TE and the commodities, the slot of a named recipient such as Addu. Rival: Akk. adû 'work quota per man-day, work assignment' (CAD A/1 135), which fits allocation and roster contexts. HT 95b sets A-DU over the items HT 86a divides between A-KA-RU and A-DU. Weak point: one reading must serve all eight headings, and only HT 85a, with \*307+\*307, selects the god. See A-DU \*307+\*307, A-DU-NI-TA-NA and A-DU-KU-MI-NA.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ A-DU occurs in 8 documents at two sites, regularly in initial or administrative-
 
 ### Source
 
-Corpus distribution; Gordon 1966; ORACC ARM/EP; Huffmon 1965; Howard 2023
+di Mino; Gordon 1966; Howard 2023; Pagan 1998; CAD A/1
 
 ## Attestations
 

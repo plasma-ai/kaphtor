@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_DU_MA_NE
 title: "KA-DU-MA-NE"
 desc: "Qadmān: the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "personal_name"]
+tags: ["linear-a", "word", "tier-4", "hapax", "personal_name"]
 kind: "word"
 form: "KA-DU-MA-NE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the Easterner, √q-d-m + -ān (Gordon: Cadmos + -ān) |
 | Root | q-d-m |
 | Proto-Semitic | \*ḳdm (#2607) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Amorite ga-ad-ma-nu-um Qadmānum 'eastern' (Gelb 1980, no. 1704; GlOS 1, 341); Ug. qdmn 'eastern; leader' (GlOS 1, 341). See QE-DE-MI-NU.
+HT 29: KA-DU-MA-NE 1, the last entry of a list of names counted in ones and twos (RU-MA-TA 2, PA-JA-RE 1, DI-JA-I 2, SA-\*323-MI 1, A-RE-DA-I 2). Qadmān 'the Easterner', √q-d-m 'front, east' with -ān: Amorite ga-ad-ma-nu-um Qadmānum 'eastern' (Gelb 1980, no. 1704; GlOS 1, 341); Ug. qdmn 'eastern; leader' (GlOS 1, 341). One attestation. See QE-DE-MI-NU.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Amorite ga-ad-ma-nu-um Qadmānum 'eastern' (Gelb 1980, no. 1704; GlOS 1, 341); U
 
 ### Source
 
-Gordon 1966; Gelb 1980; GlOS 1
+di Mino; Gordon 1966; Gelb 1980; GlOS 1
 
 ### Review
 

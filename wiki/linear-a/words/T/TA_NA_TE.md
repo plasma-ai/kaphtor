@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/T/TA_NA_TE
 title: "TA-NA-TE"
-desc: "Tanāt(ē): Tanāt—the Serpent-Goddess (= Punic Tanit/TNT). Feminine of *tannīn* with -t suffix; or related to A-TA-NA-TE (ʾAtanat, √y-t-n), which follows it on ZA10a.. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine_name"]
+desc: "Tanāt: Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "TA-NA-TE"
 datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.45
-reading: "Tanāt(ē)"
+reading: "Tanāt"
 attestations: ["ZA10a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,30 +31,30 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Tanāt(ē) |
-| Meaning | Tanāt—the Serpent-Goddess (= Punic Tanit/TNT). Feminine of \*tannīn\* with -t suffix; or related to A-TA-NA-TE (ʾAtanat, √y-t-n), which follows it on ZA10a. |
+| Reading | Tanāt |
+| Meaning | Tanāt, a variant of Tinit, the goddess TNT, feminine of √t-n-n 'sea-dragon'; rival a form of A-TA-NA-TE ʾAtanat |
 | Root | t-n-n |
 | Proto-Semitic | \*tinnīt- (#2967) + \*tVnnVn- (#238) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | hapax, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-Cf. LB ta-na-to (KN De 1618). Related to A-TA-NA-TE (ʾAtanat, √y-t-n), or else √t-n-n (Tinit) (di Mino, Ya Diktu, there ṯ-n-n); Ugaritic tnn and Punic tnt write t, and Linear A writes ṯ with ZU. The a-vocalization (\*Tanāt\*) reflects the archaic form; TI-NI-TA (\*Tinnīt\*) reflects the Punic vowel-raising shift (\*a &gt; i\* in geminate -nn- environment), attested in El-Hofra Greek-Punic bilinguals (Θεννειθ alongside Θινιθ). Three TNT-family forms span HT and ZA. See TA-NA-TI.
+ZA 10a TA-NA-TE 2 heads a list of single entries, with A-TA-NA-TE 1 the fourth. Tanāt, as the signs write it, a variant of Tinit, the goddess TNT, on √t-n-n: Ugaritic tnn 'dragon' (DULAT 860). TA writes the t, or the ṯ of ṯ-n-n, as scribes wrote ṯ in the T-series (di Mino, Ya Diktu 16–17 n. 27). TI-NI-TA writes Tinit with i, TA-NA-TI and TA-NA-TE with a. Cf. Linear B ta-na-to (KN De 1618). Rival: a form of A-TA-NA-TE ʾAtanat (√y-t-n), as Ya Diktu 45 relates it. See TA-NA-TI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Punic | TNT (Tanit/Tinnit); Greek transliteration Θινιθ/Θεννειθ at El-Hofra |
+| Punic | TNT (Tanit, Tinnit); in Greek letters Θινιθ, Θεννειθ (Krahmalkov 2000, 495) |
 | Hebrew | tannīn תַּנִּין "dragon/sea-serpent" |
 | Ugaritic | tnn "dragon" (KTU 1.3 III 40; DULAT p. 860) |
 | Greek | θύννος "tunny" (BDB: Phoenician loanword from same root) |
 
 ### Source
 
-di Mino
+di Mino; DULAT; Krahmalkov 2000
 
 ## Attestations
 
@@ -66,14 +66,14 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | Tanāt(ē) | Tanāt—Serpent-Goddess (= Punic Tanit/TNT). Distinct from A-TA-NA-TE (Athena) on same tablet. | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | Tanāt | Tanāt, a variant of Tinit, the goddess TNT; A-TA-NA-TE ʾAtanat is a separate entry on the same tablet. | CANDIDATE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | theonym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | theonym (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
@@ -82,6 +82,6 @@ di Mino
 
 ### Note
 
-Tanāt (√t-n-n), the Serpent-Goddess = Punic Tanit/TNT. Distinct from A-TA-NA-TE (Athena) per ZA10a co-occurrence.
+Tanāt (√t-n-n), a variant of Tinit (TI-NI-TA), the goddess TNT; ZA 10a lists A-TA-NA-TE ʾAtanat as a separate entry.
 
 <!-- END kaphtor:record -->

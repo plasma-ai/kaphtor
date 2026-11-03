@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3683_live_coal_burning_coal
 title: "*gmr: 'live coal, burning coal'"
-desc: "Proto-Semitic *gmr, 'live coal, burning coal': reflexes in 2 language(s)."
+desc: "Proto-Semitic *gmr, 'live coal, burning coal': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3683"
@@ -31,6 +31,7 @@ updated: 2026-10-26T17:41:55Z
 |---|---|---|---|
 | Arabic | ǧamrat 'a live, or burning, coal; a piece of smokeless burning fire', coll. ǧamr (Lane 453) | Lane 453 |  |
 | Syrian Aramaic | gmūrtā 'coal; red-hot stones; carbuncles' (Payne Smith 72); pl. gūmrīn, gūmrē 'burning coals' (Payne Smith 64); gmūrtā 'live coal, coal' (Brock. 121–122) | Payne Smith 72; Payne Smith 64; Brock. 121–122 |  |
+| Akkadian | gumāru (CAD G 133) | CAD G 133 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

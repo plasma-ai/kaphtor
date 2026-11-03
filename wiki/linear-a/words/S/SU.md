@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SU
 title: "SU"
 desc: "šaḫū: pig (livestock commodity). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity"]
+tags: ["linear-a", "word", "tier-3", "abbreviation", "commodity", "livestock", "logogram"]
 kind: "word"
 form: "SU"
 datasets: ["lexicon"]
@@ -33,27 +33,27 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | šaḫū |
 | Meaning | pig (livestock commodity) |
-| Root | š-ḫ-w |
-| Language layer | Akkadian |
-| Category | commodity |
+| Root | š-ḫ-w (Sumerian šaḫ; CAD Š/1 102) |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, livestock, logogram |
 | Semantic field | animal |
 
 ### Note
 
-Logographic abbreviation. AB58 pictographic ancestor = pig/boar (CH 035, Ferrara 2022). 7 standalone occurrences across 3 sites (KH 4×, HT 2×, ZA 1×), 85% followed by numerals. Fractional quantity on HT115a (2 ¹⁄₅) = measured commodity (processed meat/weight), not head count \|\| ETYMOLOGY: Akkadian šaḫû (Sumerian loanword). Guttural ḫ drops → šaū contracts to šū → SU. Linear B separated pig ideogram (\*85 SUS₂) from syllabogram B 58, implying AB58 served both functions in Linear A \|\| DISTRIBUTION: Co-occurs with VIN, NI, SI, CYP on KH11. Rival: NWS ḫuzīr (PS 2170 \*ḫV(n)zīr-), Mari names ḫu-zi-ra-nu-um, ḫu-zi-ra-tum 'sow' (GlOS 1, 277).
+A logogram, the first syllable of šaḫū 'pig'; the pictographic ancestor of AB 58 is a pig or boar (CH 035; Ferrara 2022). Seven standalone occurrences at three sites (KH 4, HT 2, ZA 1), most followed by numerals; HT 115a's fraction (2 ¹⁄₅) marks a measured commodity, meat by weight, not a head count. On KH 11 it stands with VIN, NI, SI and CYP. Akk. šaḫû, a Sumerian loanword: the ḫ is unwritten and šaū contracts to šū. Linear B parted the pig logogram (\*85 SUS₂) from the syllabogram B 58, so AB 58 served both in Linear A. Rival: NWS ḫuzīr (PS 2170 \*ḫV(n)zīr-), Mari names ḫu-zi-ra-nu-um, ḫu-zi-ra-tum 'sow' (GlOS 1, 277).
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Akkadian | šaḫû "pig" (&lt; Sumerian ŠAḪ₅) |
+| Akkadian | šaḫû 'pig', Sum. lw., wr. ŠAḪ (CAD Š/1 102; AHw 1133) |
 | Hebrew | ḥazīr (different root—NWS replaced Akk. term) |
 | Arabic | ḫinzīr (different root—PS \*ḫinzīr-) |
 | Ugaritic | polyglot list \[ŠA\]Ḫ = še-ḫu-ú = ú-ḫi = ḫu-zi-rù: Akk. šaḫû beside local ḫuzīr (GlOS 1, 277) |
 
 ### Source
 
-di Mino; Ferrara 2022; GlOS 1
+di Mino; Ferrara 2022; GlOS 1; CAD; AHw
 
 ## Attestations
 

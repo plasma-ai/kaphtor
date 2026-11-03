@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_RA_RA
 title: "SA-RA-RA"
 desc: "ṣarār-: bundle, bag (commodity or container). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "commodity", "hapax", "noun", "vessel"]
 kind: "word"
 form: "SA-RA-RA"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | bundle, bag (commodity or container) |
 | Root | ṣ-r-r |
 | Proto-Semitic | \*ṣrr (#3607) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | commodity, hapax, noun, vessel |
 | Semantic field | commodity |
 
 ### Note

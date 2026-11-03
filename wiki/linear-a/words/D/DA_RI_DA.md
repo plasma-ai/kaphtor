@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/D/DA_RI_DA
 title: "DA-RI-DA"
-desc: "Dardaʿ: personal name. Lexicon, SPECULATIVE (tier 1)."
+desc: "Dardaʿ: personal name, 'thistle' (Hebrew Dardaʿ). Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "DA-RI-DA"
@@ -32,15 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Dardaʿ |
-| Meaning | personal name |
+| Meaning | personal name, 'thistle' (Hebrew Dardaʿ) |
 | Root | d-r-d-ʿ |
-| Language layer | NWS |
-| Category | personal_name |
+| Proto-Semitic | \*dardar- (#3196) |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten. Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a.
+An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before ME-ZA 3, in the KU-NI-SU list (GORILA I 21); HT 85a DA-RI-DA 12, first under A-DU · \*307+\*307 · VIR+\[·\] (GORILA I 131); HT 122a DA-RI-DA 1, last before KU-RO 31 (GORILA I 207); HT 93a DA-RI-DA \*406VS 2 (GORILA I 147). Hebrew Dardaʿ (1 Kgs 5:11), with ʿ unwritten, from dardar 'thistle' by dissimilation (HALOT 230). Rival: a place or work unit, since 12 on HT 85a stands against 1 on HT 122a.
 
 ### Cognates
 
@@ -50,7 +51,7 @@ An entry with a numeral on four Haghia Triada tablets: HT 10a DA-RI-DA 8 before 
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 

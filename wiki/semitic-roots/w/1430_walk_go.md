@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/1430_walk_go
 title: "*wVʾVr-: 'walk, go'"
-desc: "Proto-Semitic *wVʾVr-, 'walk, go': reflexes in 2 language(s)."
+desc: "Proto-Semitic *wVʾVr-, 'walk, go': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1430"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | wʔr X |  | gloss withheld |
 | Akkadian | âru, wâru |  |  |
+| Eblaitic | waʾr: DI.DI = a-lu-um, suff. a-lu-na-a /waʾr=nay(n)/ (Sanmartín GlOS 2, 337) | Sanmartín GlOS 2, 337 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Harsusi | melēt (JH 88) | JH 88 | gloss withheld |
 | Gurage | (?) Muh muli (Cha Eža End Gye muri) LGur 401 | LGur 401 | gloss withheld |
 | Epigraphic South Arabian | Sab mly, mlt (SD 86; Sabaweb lemma 3128) | SD 86; Sabaweb lemma 3128 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ml (Al-Jallad–Jaworska 96) | Al-Jallad–Jaworska 96 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ml (Al-Jallad–Jaworska 96); mwl; Dadanitic ml (Al-Jallad 2026, 95); Safaitic mwl (D) (Al-Jallad 2026, 96) | Al-Jallad–Jaworska 96; Al-Jallad 2026 95; Al-Jallad 2026 96 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

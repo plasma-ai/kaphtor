@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | \*gäläd, \*geläd (HALOT 191). | HALOT 191 | gloss withheld |
 | Judaic Aramaic | gildā 'plate, covering, skin, leather' \[Ja 245\] | Ja 245 |  |
 | Syrian Aramaic | geldā 'skin, hide' \[Brock 117\] | Brock 117 |  |
-| Aramaic | OFF (emph.) gldʔ, PLM (pl. emph.) gldyʔ \[HJ 233\] | HJ 233 | gloss withheld |
+| Aramaic | OFF (emph.) gldʔ, PLM (pl. emph.) gldyʔ \[HJ 222\] | HJ 222 | gloss withheld |
 | Gafat | gälädä (LGz. 190) | LGz. 190 | gloss withheld |
 | Gurage | gällädä (LGz. 190) | LGz. 190 | gloss withheld |
 

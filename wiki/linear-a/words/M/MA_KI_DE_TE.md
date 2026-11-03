@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_KI_DE_TE
 title: "MA-KI-DE-TE"
 desc: "Majdat: personal name, 'glory' (feminine). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "MA-KI-DE-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'glory' (feminine) |
 | Root | m-g-d |
 | Proto-Semitic | \*magd- (#3225) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

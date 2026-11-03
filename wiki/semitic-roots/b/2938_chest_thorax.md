@@ -23,8 +23,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|
 | Reconstruction | \*barak- |
 | Meaning | 'chest, thorax' |
-| Basis | SED |
-| SED | SED I No. 38 |
+| Basis | reconstruction SED; meaning SED, corrected |
+| SED | SEDonline semet 2020 |
 
 ## Reflexes
 

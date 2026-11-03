@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_SA_RI
 title: "I-SA-RI"
 desc: "ʾišarī: uprightness, righteousness (genitive after the b= proclitic). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "ritual"]
 kind: "word"
 form: "I-SA-RI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | uprightness, righteousness (genitive after the b= proclitic) |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Attested only within I-DA-PA₃-I-SA-RI (PH6), following the b= proclitic; the medial I carries the ʾ of ʾišar-, and the final -ī is the genitive a preposition governs (cf. la-piṭrī, PKZa11). Same √y-š-r as the formula's yaššaram (JA-SA-SA-RA-ME, CONFIRMED)—PH6 renders 'in righteousness' with b= + genitive where the LM I vessels use the adverbial accusative with mimation. Nominal shape closest to Akk. išaru.
+PH 6: only within I-DA-PA₃-I-SA-RI, after the b= proclitic. The medial I writes the ʾ of ʾišar-, and the final -ī is the genitive a preposition governs (cf. la-piṭrī, PK Za 11). √y-š-r, the root of the formula's yaššaram (JA-SA-SA-RA-ME); the nominal shape is Akk. išaru 'straight, just, fair' (CAD I/J 224). See I-DA-PA₃-I-SA-RI.
 
 ### Cognates
 

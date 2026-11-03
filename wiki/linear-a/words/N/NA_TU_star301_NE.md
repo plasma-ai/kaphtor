@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/N/NA_TU_star301_NE
 title: "NA-TU-*301-NE"
-desc: "natūnān / nātānān: Dual reading: (A) the dedicated one (passive participle qatūl of √n-t-n 'to give' + -ān suffix); (B) the giver (active participle qātāl + -ān), a theophanic title parallel to A-TA-NA = ʾatanā 'She-who-gives' (Athena). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "title"]
+desc: "natūnān: the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver'. Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "fragmentary", "hapax", "participle", "ritual", "title", "votive"]
 kind: "word"
 form: "NA-TU-*301-NE"
 datasets: ["lexicon", "onomasticon"]
 tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
-reading: "natūnān / nātānān"
+reading: "natūnān"
 attestations: ["SKOZc1"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | natūnān / nātānān |
-| Meaning | Dual reading: (A) the dedicated one (passive participle qatūl of √n-t-n 'to give' + -ān suffix); (B) the giver (active participle qātāl + -ān), a theophanic title parallel to A-TA-NA = ʾatanā 'She-who-gives' (Athena) |
+| Reading | natūnān |
+| Meaning | the dedicated one (qatūl passive participle of √n-t-n + -ān); rival nātānān 'the giver' |
 | Root | n-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | fragmentary, hapax, participle, ritual, title, votive |
 | Semantic field | personnel |
 
 ### Note
 
-Skoteino Cave inked inscription (fragmentary—lacuna on both sides). With \*301=NWY logogram (CONFIRMED, phonetic /na/), full reading is NA-TU-NA-NE \|\| DUAL ANALYSIS: (A) PASSIVE—natūn (qatūl passive participle of √n-t-n 'to give') + -ān = natūnān 'the dedicated one.' TU vowel matches /ū/ of the passive participle exactly; dead vowel -e on final NE closes the syllable: na-tū-nā-n(e). BIBLICAL PARALLEL: Hebrew nĕtūnīm (Num 3:9) 'given ones'—Levites as persons dedicated to sanctuary service. Post-exilic Nĕtīnīm (Ezra 2:43, 8:20; 1 Chr 9:2) are temple servants from √n-t-n; the institution is pre-Israelite, traced to the Gibeonites (Josh 9:27). (B) ACTIVE—nātān (qātāl active participle) + -ān = nātānān 'the giver.' Parallels A-TA-NA = ʾatanā &lt; \*yātanat 'She-who-gives' (proposed NWS etymology of Athena, √y-t-n). If active, natūnān qaqqatī = 'The Giver at the Peak'—theophanic title for the Goddess at a cave sanctuary. A-TA-NA/NA-TU-NA paradigm would attest both feminine divine epithet and masculine/neuter cultic title from the same root \|\| Both readings contextually strong: sanctuary dedicatee (passive) or divine epithet (active) at a sacred cave. \*301=NWY is CONFIRMED across 288 occurrences at 16 sites. \|\| Huehnergard: Ug ntn, ttn /tatinū/ "to set, put; to give"; I-n verb; preterite yaqtul 3mp: ttn /tatinū/. Assimilation of /n/ standard for I-n verbs. BH cognate: nātan "to give" (Huehnergard 2012, p. 52 (paradigm); pp. 6-7 (Appendix C)). See MA-TI-TI.
+SKO Zc 1, an inked inscription from the Skoteino cave, broken on both sides: NA-TU-\*301-NE, with \*301 = na (288 occurrences at 16 sites), so na-tū-nā-n(e), the final E dead. natūnān 'the dedicated one', the qatūl passive participle of √n-t-n 'to give' with -ān, TU for the ū. Compare Heb. nĕtūnīm 'given ones', the Levites given to sanctuary service (Num 3:9), and the post-exilic Nĕtīnīm, temple servants (Ezra 2:43; 8:20; 1 Chr 9:2), an institution traced to the Gibeonites (Josh 9:27). Ug. ntn, ttn /tatinū/ 'to give', BH nātan (Huehnergard 2012, 52; App. C, 6–7). Rival: nātānān 'the giver', the qātāl active participle with -ān, a title of the Goddess at a cave sanctuary, beside A-TA-NA-TE ʾAtanat 'She-who-gives' (√y-t-n). One attestation. See MA-TI-TI.
 
 ### Cognates
 
@@ -68,14 +68,14 @@ di Mino; Gelb 1980
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1\|SKOZc1]] | natūnān / nātānān | the dedicated one (passive) or the giver (active)—from √n-t-n 'to give' + -ān suffix | PROBABLE |
+| [[wiki/linear-a/inscriptions/SKO/SKOZc/SKOZc1\|SKOZc1]] | natūnān | the dedicated one (passive) or the giver (active)—from √n-t-n 'to give' + -ān suffix | PROBABLE |
 
 ## Onomasticon
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3522_to_protect_guard
 title: "*ʕḳb: 'to protect, guard'"
-desc: "Proto-Semitic *ʕḳb, 'to protect, guard': reflexes in 6 language(s)."
+desc: "Proto-Semitic *ʕḳb, 'to protect, guard': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3522"
@@ -29,6 +29,7 @@ updated: 2026-10-25T06:28:07Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Sab ʿqbt(n) (Biella 380) | Biella 380 | gloss withheld |
 | Hebrew | II \*ʿqb (HALOT 872) | HALOT 872 | gloss withheld |
 | Amorite | ʿqb: jaʿqub, ʿaqbum, ʿiqbum (Gelb AS 21, 15); ḫaqb-, ʿaqb- (Huffmon APNM 203); yaʿqub, ʿaqbu, ʿiqbu (Buck 2019, 325) | Gelb AS 21 15; Huffmon APNM 203; Buck 2019, 325 | gloss withheld |
 | Geez | ʿaqaba (LGz. 66; HALOT 872) | LGz. 66; HALOT 872 | gloss withheld |

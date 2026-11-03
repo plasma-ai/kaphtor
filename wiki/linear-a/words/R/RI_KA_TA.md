@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RI_KA_TA
 title: "RI-KA-TA"
 desc: "Likata: Lyktos (place name); compare Egyptian Ri-ka-ta. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+tags: ["linear-a", "word", "tier-1", "hapax", "toponym"]
 kind: "word"
 form: "RI-KA-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -33,8 +33,8 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Likata |
 | Meaning | Lyktos (place name); compare Egyptian Ri-ka-ta |
-| Language layer | Minoan_Aegean |
-| Category | toponym |
+| Language layer | Aegean |
+| Tags | hapax, toponym |
 | Semantic field | toponym |
 
 ### Note
@@ -63,7 +63,7 @@ di Mino
 | Field | Value |
 |---|---|
 | Type | toponym (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
+| Affiliation | aegean (SPECULATIVE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

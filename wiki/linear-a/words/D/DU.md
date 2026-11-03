@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU
 title: "DU"
 desc: "du: that, of (relative pronoun). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "particle"]
+tags: ["linear-a", "word", "tier-4", "pronoun"]
 kind: "word"
 form: "DU"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | that, of (relative pronoun) |
 | Root | ḏ |
 | Proto-Semitic | \*ḏī- (#K0877) |
-| Language layer | NWS |
-| Category | particle |
+| Language layer | Semitic |
+| Tags | pronoun |
 | Semantic field | particle |
 
 ### Note
 
-Relative/determinative from PWS \*ḏū; Akkadian ša kept apart. Open question: the corpus attestations are list entries with their own quantities—HT122a '\*306-TU 1 / DU 1 / KU-PA₃-NU 1' (list totalled KU-RO 31), ZA10b 'TA 2 / DU 1', ZA31 'DU 2' (HT47a's \]DU 2̣0\[ ends a word begun on the line before, GORILA I 91)—a slot for a name or abbreviation, with no clause for a relative to head. Gordon's reading rests on II,2:1. Ebla and Amorite names open with ḏū 'he of' (ḏū-ʾIl, Pagan 1998, row 1609; ḎU+DAWD-I, Gelb 1980, no. 6583), so the roster DU can abbreviate such a name (cf. KI's accounting use). See DU-RU-WI, KA-\*305 and SE-WA-AU-DE.
+ḏū 'he of, that of', the West Semitic determinative-relative (PWS \*ḏū), kept apart from Akkadian ša. Gordon read it as a word in du ra-re, 'the cup of this night-demon', on the Knossos cup KN Zc 7 (Gordon 1966, §156); DU-RA-RE there reads as one word, durāru 'release'. As a bound element it opens DU-RU-WI ḏu-luwwī. Alone it stands in lists with a quantity, ZA 10b TA 2 / DU 1 and ZA 31 DU 2: Ebla and Amorite names open with ḏū 'he of' (ḏū-ʾIl, Pagan 1998, row 1609; ḎU+DAWD-I, Gelb 1980, no. 6583), so the roster DU abbreviates such a name, as KI abbreviates in the accounts. HT 122a \]DU 1 is broken before, and HT 47a \]DU 2̣0\[ ends a word begun on the line before (GORILA I 91). The relative marker also heads genitives, nominative ðū (Huehnergard and Pat-El 2018, 191–92, Table 1). Weak point: no Linear A clause shows DU heading a relative. See DU-RA-RE, DU-RU-WI, KA-\*305 and SE-WA-AU-DE.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ Relative/determinative from PWS \*ḏū; Akkadian ša kept apart. Open question:
 
 ### Source
 
-Gordon 1966 §163; Pagan 1998; Gelb 1980
+Gordon 1966 §156; Pagan 1998; Gelb 1980
 
 ### Review
 

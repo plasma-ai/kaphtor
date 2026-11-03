@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/1024_be_full
 title: "*mVlVʾ-: 'be full'"
-desc: "Proto-Semitic *mVlVʾ-, 'be full': reflexes in 24 language(s)."
+desc: "Proto-Semitic *mVlVʾ-, 'be full': reflexes in 25 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1024"
@@ -54,6 +54,7 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | mīləʔ (ML 265 apud SEDonline 20) | ML 265; SEDonline 20 | gloss withheld |
 | Soqotri | míľi (LS 243; CSOL I 609; CSOL II 535 apud SEDonline 20) | LS 243; SEDonline 20 | gloss withheld |
 | Eblaitic | ma-li-um /maliʔum/ (VE 1014; Krebernik 1983, 36); du-ma-lá /m-l-ʾ/; ma-li-um /maliʾ/ (Sanmartín GlOS 2, 37) | VE 1014; Krebernik 1983, 36; Sanmartín GlOS 2, 37 | gloss withheld |
+| Biblical Aramaic | mlʔ, hitpe. (HALOT 583) | HALOT 583 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

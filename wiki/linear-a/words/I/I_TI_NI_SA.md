@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_TI_NI_SA
 title: "I-TI-NI-SA"
 desc: "ʾItniša: ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "I-TI-NI-SA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | ʾItniša (personal name), the Mari name IT-NU-ŠA; rival ʾitnī-ša 'her gift (portion)' |
 | Root | y-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-ZA 15a .2 I-TI-NI-SA 10, intact, second entry under the first wine heading, after QE-SI-ZU-E 57 (GORILA III 183). ʾi-t-n-ša sign for sign as the Mari name IT-NU-ŠA (Gelb 1980, AS 21, 610); NI for nu is a vowel mismatch only. I-TI is not the preposition ʾitti, which cannot head a counted entry. Rival: ʾitnī-ša 'her gift (portion)', Ugaritic ỉtnn 'present' (DULAT 119). One witness. See JE-TA-NA, A-DU-NI-TA-NA and MA-TI-TI.
+ZA 15a .2 I-TI-NI-SA 10, intact, second entry under the first wine heading, after QE-SI-ZU-E 57 (GORILA III 183). ʾi-t-n-ša sign for sign as the Mari name IT-NU-ŠA (Gelb 1980, AS 21, 610); NI for nu is a vowel mismatch only. Rival: ʾitnī-ša 'her gift (portion)', Ugaritic ỉtnn 'present' (DULAT 119). One witness. See JE-TA-NA, A-DU-NI-TA-NA and MA-TI-TI.
 
 ### Cognates
 

@@ -250,13 +250,14 @@ class TestMain:
 class TestCompetitors:
     ARGS = ("--full-index", "--n", "10", "--families", "AC", "--json")
 
-    def test_on_by_default_with_all_three(self, built, capsys):
+    def test_on_by_default_with_all_four(self, built, capsys):
         _, index = built
         assert cli.main(["KA-NA-SI", "--index", str(index), *self.ARGS]) == 0
         report = json.loads(capsys.readouterr().out)
-        assert list(report["competitors"]) == ["luwian", "egyptian", "hurrian"] and all(report["competitors"].values())
+        assert list(report["competitors"]) == ["luwian", "egyptian", "hurrian", "hattic"] and \
+            all(report["competitors"].values())
         r = report["results"][0]
-        assert list(r["competitors"]) == ["luwian", "egyptian", "hurrian"] and "semitic_specific" in r
+        assert list(r["competitors"]) == ["luwian", "egyptian", "hurrian", "hattic"] and "semitic_specific" in r
         text = cli.render(report)
         assert "competitor hurrian: d*=" in text and "Semitic-specific:" in text
 

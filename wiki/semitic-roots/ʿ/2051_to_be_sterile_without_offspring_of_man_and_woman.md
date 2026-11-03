@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕḳr (-i-, -u-) 'to be sterile' \[BK 2 314\] | BK 2 314 |  |
-| Mandaic Aramaic | aḳra \[DM 33\] | DM 33 | gloss withheld |
+| Mandaic Aramaic | aḳra \[DM 34\] | DM 34 | gloss withheld |
 | Geez | ʕarḳa \[LGz 70\]. | LGz 70 | gloss withheld |
 | Hebrew | ʕāḳār (HALOT 874). | HALOT 874 | gloss withheld |
 | Judaic Aramaic | ʕăḳar (ʕaḳrā) \[Ja 1108\]; ʕḳrh, det. ʕḳrth \[DJPA 417a apud CAL\] | Ja 1108; DJPA 417a; CAL | gloss withheld |

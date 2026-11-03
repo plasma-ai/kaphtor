@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_KI_SI_KI_NU
 title: "JA-KI-SI-KI-NU"
 desc: "yaksīkin: May he cover you (f. pl.)! (3ms G imperfect yaksī + 2fp object suffix -kin; NU writes the final nasal, as in -U-TI-NU). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "hapax", "ritual", "verb", "votive"]
 kind: "word"
 form: "JA-KI-SI-KI-NU"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | May he cover you (f. pl.)! (3ms G imperfect yaksī + 2fp object suffix -kin; NU writes the final nasal, as in -U-TI-NU) |
 | Root | k-s-y |
 | Proto-Semitic | \*kVsVy- (#K0104) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, ritual, verb, votive |
 | Semantic field | ritual |
 
 ### Note
 
-ARKHZf9 (Arkhanes, bronze votive object). Word 1 of 2-word inscription JA-KI-SI-KI-NU &lt;&gt; MI-DA-RU-RA. Morphological parse: ya- (3ms imperfect prefix) + √k-s-y 'to cover' (III-weak, G-stem imperfect \*yaksī) + -kin (2fp object suffix, addressing a group of women). Full form: \*yaksīkin 'May he cover you (women)!' Not 2fs -kī + energic -nū: an energic precedes an object suffix (Ar. la-ʾuḥarriqanna-kum, Fischer 2002, §198; Heb. -ennû). Read as -kī + 1cp 'us', the 2nd person would precede the 1st, against Fischer 2002, §271; kasā's second object is the covering, MI-DA-RU-RA. Biblical parallel: Jonah 3:6 וַיְכַ֣ס שַׂ֔ק וַיֵּ֖שֶׁב עַל־הָאֵֽפֶר—√k-s-y + ashes in penitential supplication before God. Lam 3:16 הִכְפִּישַׁנִי בָּאֵפֶר—'He covered me with ashes' (√k-p-š, different root, exact semantic match). Jonah 3:8 וְיִתְכַּסּ֣וּ שַׂקִּ֗ים—hitpaʿel (tG-stem) \*yitkassū "let them cover themselves," same root in reflexive ritual covering. See MI-KI-SE-NA.
+ARKH Zf 9, a bronze votive object from Arkhanes: JA-KI-SI-KI-NU · MI-DA-RU-RA ·, the first of two words. yaksīkin 'May he cover you (women)!': ya-, the 3ms prefix, the G-stem imperfect \*yaksī of √k-s-y 'to cover', a III-weak root, and -kin, the 2fp object suffix, NU writing the final nasal. 'Cover' takes a second object, the covering, MI-DA-RU-RA. Jonah 3:6 וַיְכַ֣ס שַׂ֔ק וַיֵּ֖שֶׁב עַל־הָאֵֽפֶר 'he covered himself with sackcloth and sat in the ashes' joins √k-s-y and ashes in penitence before God, and Jonah 3:8 וְיִתְכַּסּ֣וּ שַׂקִּ֗ים 'let them cover themselves with sackcloth' has the Hithpael (tD) of the same root. One attestation. See MI-DA-RU-RA and MI-KI-SE-NA.
 
 ### Cognates
 

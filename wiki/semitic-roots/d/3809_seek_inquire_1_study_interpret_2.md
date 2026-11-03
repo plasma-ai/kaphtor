@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/3809_seek_inquire_1_study_interpret_2
 title: "*drš: 'seek, inquire' 1, 'study, interpret' 2"
-desc: "Proto-Semitic *drš, 'seek, inquire' 1, 'study, interpret' 2: reflexes in 6 language(s)."
+desc: "Proto-Semitic *drš, 'seek, inquire' 1, 'study, interpret' 2: reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3809"
@@ -35,6 +35,7 @@ updated: 2026-10-31T13:28:57Z
 | Mandaic Aramaic | drš 2 (LGz. 144) | LGz. 144 | gloss withheld |
 | Arabic | darasa al-kitāba 'he read the book; read it repeatedly in order to remember it, studied it' 2 (Lane 870) | Lane 870 |  |
 | Soqotri | deros 2 (LGz. 144) | LGz. 144 | gloss withheld |
+| Punic | tdršʾ 1 (T 76) | T 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

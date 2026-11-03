@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/1008_incline
 title: "*nVkub-: 'incline'"
-desc: "Proto-Semitic *nVkub-, 'incline': reflexes in 1 language(s)."
+desc: "Proto-Semitic *nVkub-, 'incline': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1008"
@@ -31,6 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | nkb \[-u-\] |  |  |
+| Geez | nakaba (LGz. 396) | LGz. 396 | gloss withheld |
+| Tigre | tankaba (LGz. 396) | LGz. 396 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

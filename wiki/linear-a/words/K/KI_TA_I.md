@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_TA_I
 title: "KI-TA-I"
 desc: "gittī: of the (olive-)press, press-estate (nisbe -ī on gitt- 'press; farmstead, estate'). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "administrative"]
+tags: ["linear-a", "word", "tier-1", "administrative", "agriculture", "hapax", "noun"]
 kind: "word"
 form: "KI-TA-I"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | of the (olive-)press, press-estate (nisbe -ī on gitt- 'press; farmstead, estate') |
 | Root | g-t |
 | Proto-Semitic | \*gint- (#3779) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, agriculture, hapax, noun |
 | Semantic field | administrative |
 
 ### Note

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/2676_boundary_border_territory_Egypt
 title: "*miṣr-: 'boundary, border, territory; Egypt'"
-desc: "Proto-Semitic *miṣr-, 'boundary, border, territory; Egypt': reflexes in 6 language(s)."
+desc: "Proto-Semitic *miṣr-, 'boundary, border, territory; Egypt': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2676"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | miṣrayim (HALOT 625) | HALOT 625 | gloss withheld |
 | Aramaic | mṣry (HALOT 624) | HALOT 624 | gloss withheld |
 | Judaic Aramaic | miṣrāyā (HALOT 624) | HALOT 624 | gloss withheld |
+| Phoenician | mṣrm (Krahmalkov 306) | Krahmalkov 306 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

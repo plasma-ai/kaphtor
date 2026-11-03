@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/3135_to_enclose_protect_shelter
 title: "*gnn: 'to enclose, protect, shelter'"
-desc: "Proto-Semitic *gnn, 'to enclose, protect, shelter': reflexes in 12 language(s)."
+desc: "Proto-Semitic *gnn, 'to enclose, protect, shelter': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3135"
@@ -36,12 +36,14 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | EgArm., Palm. gnn (HALOT 199) | HALOT 199 | gloss withheld |
 | Syrian Aramaic | gnn (aph.) (LSyr. 122, SL 248 apud SEDonline 1175) | LSyr. 122, SL 248; SEDonline 1175 | gloss withheld |
 | Phoenician | gnn (B 297) | B 297 | gloss withheld |
+| Punic | N.Pu. ygn (T 67) | T 67 | gloss withheld |
 | Arabic | ǯnn (Lane 462 apud SEDonline 1175) | Lane 462; SEDonline 1175 | gloss withheld |
 | Epigraphic South Arabian | Sab gnʾ, gnʾ (SD 50 apud SEDonline 1175; Sabaweb lemmas 4160, 2679); Min gnʾ (ML 36 apud SEDonline 1175); Qat gnʾ (LIQ 39 apud SEDonline 1175); gnn (IV), gnt (HALOT 199) | SD 50; SEDonline 1175; Sabaweb lemmas 4160, 2679; ML 36; LIQ 39; HALOT 199 | gloss withheld |
 | Mehri | hegnē JM 121; gōna (ML 122 apud SEDonline 1175) | JM 121; ML 122; SEDonline 1175 | gloss withheld |
 | Jibbali | egníʔ, gúnɛʔ JJ 77 | JJ 77 | gloss withheld |
 | Soqotri | éghon (CSOL II 382 apud SEDonline 1175) | SEDonline 1175 | gloss withheld |
 | Amorite | gunnu (Buck 2019, 326); gungun: gu-un-gu-nu-um (Sanmartín GlOS 1, 184) | Buck 2019, 326; Sanmartín GlOS 1, 184 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic gnn (Al-Jallad 2026, 51) | Al-Jallad 2026 51 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

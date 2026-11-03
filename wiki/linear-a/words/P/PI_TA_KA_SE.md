@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PI_TA_KA_SE
 title: "PI-TA-KA-SE"
 desc: "Bīt-kissē: House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+tags: ["linear-a", "word", "tier-1", "administrative", "compound", "hapax", "noun"]
 kind: "word"
 form: "PI-TA-KA-SE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | House of the Throne, the crown estate (institution heading); rival the Hurrian name of PI-TA-KE-SI |
 | Root | b-y-t + k-s-ʾ |
 | Proto-Semitic | \*bayt- (#652) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | administrative, compound, hapax, noun |
 | Semantic field | administrative |
 
 ### Note
@@ -68,7 +68,7 @@ di Mino; CAD K
 | Type | toponym (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |

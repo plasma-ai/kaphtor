@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0664_go_around_return_threshing_floor_1_custom_habit
 title: "*ʿVwVd-: 'go around, return; threshing floor' 1, 'custom, habit' 2"
-desc: "Proto-Semitic *ʿVwVd-, 'go around, return; threshing floor' 1, 'custom, habit' 2: reflexes in 12 language(s)."
+desc: "Proto-Semitic *ʿVwVd-, 'go around, return; threshing floor' 1, 'custom, habit' 2: reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0664"
@@ -41,6 +41,7 @@ updated: 2026-10-26T17:41:55Z
 | Gurage | awd (LGz. 77) | LGz. 77 | gloss withheld |
 | Harari | ūd (LGz. 77) | LGz. 77 | gloss withheld |
 | Epigraphic South Arabian | Sab ʿwd (SD 22 apud SEDonline 1245; Sabaweb lemma 3862); Min ʿwd (ML 17 apud SEDonline 1245) | SD 22; SEDonline 1245; Sabaweb lemma 3862; ML 17 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mʿdt (Al-Jallad 2026, 19); ʿwd (Al-Jallad 2026, 19–20); ʿyd (D); ʿwdt; ʾʿd (Al-Jallad 2026, 20) | Al-Jallad 2026 19; Al-Jallad 2026 19–20; Al-Jallad 2026 20 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

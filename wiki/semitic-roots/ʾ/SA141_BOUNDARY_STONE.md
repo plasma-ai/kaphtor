@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/SA141_BOUNDARY_STONE
 title: "*ʾrp: 'BOUNDARY STONE'"
-desc: "Epigraphic South Arabian headword *ʾrp, 'BOUNDARY STONE': reflexes in 2 language(s)."
+desc: "Epigraphic South Arabian headword *ʾrp, 'BOUNDARY STONE': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA141"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Epigraphic South Arabian | Sab ʾrf (Biella 27; SD 7; Sabaweb lemma 3568) | Biella 27; SD 7; Sabaweb lemma 3568 | gloss withheld |
 | Arabic | Ar ʾurufaᵗ (Biella 27) | Biella 27 | gloss withheld |
+| Geez | ʔaraft (LGz. 37) | LGz. 37 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

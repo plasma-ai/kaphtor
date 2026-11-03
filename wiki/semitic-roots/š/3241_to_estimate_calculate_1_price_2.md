@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3241_to_estimate_calculate_1_price_2
 title: "*šʿr: 'to estimate, calculate' 1, 'price' 2"
-desc: "Proto-Semitic *šʿr, 'to estimate, calculate' 1, 'price' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *šʿr, 'to estimate, calculate' 1, 'price' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3241"
@@ -32,6 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Hebrew | šʿr 1 (Pr 23:7; BDB 1045; HALOT 1614) | BDB 1045; HALOT 1614 | gloss withheld |
 | Judaic Aramaic | šʿr (pa.) 1; šaʿărā 2 (HALOT 1613) | HALOT 1613 | gloss withheld |
 | Arabic | siʿr 2; saʿara II (HALOT 1613) | HALOT 1613 | gloss withheld |
+| Emar | ma-aš-ir-ta /mašʿirtu/ 1 (Pentiuc 2001, 117) | Pentiuc 2001 117 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

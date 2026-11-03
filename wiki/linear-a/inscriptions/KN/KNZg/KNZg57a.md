@@ -9,7 +9,7 @@ site: "Knossos"
 support: "ivory object"
 period: ""
 translation: "incomplete"
-words: ["*304", "*401+RU"]
+words: ["*304", "*401", "*401+RU", "NI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -68,7 +68,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/star/star401_plus_RU|\*401+RU]].
+[[wiki/linear-a/words/star/star304|\*304]], [[wiki/linear-a/words/star/star401|\*401]], [[wiki/linear-a/words/star/star401_plus_RU|\*401+RU]], [[wiki/linear-a/words/N/NI|NI]].
 
 ## Corpus note
 

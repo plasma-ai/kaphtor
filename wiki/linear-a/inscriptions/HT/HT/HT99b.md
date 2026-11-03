@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "none"
-words: ["DA-SI-*118", "RU-MA-TA", "ZU-DU"]
+words: ["DA-SI-*118", "RU-MA-TA", "SI+SE", "ZU-DU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -56,7 +56,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/R/RU_MA_TA|RU-MA-TA]], [[wiki/linear-a/words/Z/ZU_DU|ZU-DU]].
+[[wiki/linear-a/words/D/DA_SI_star118|DA-SI-\*118]], [[wiki/linear-a/words/R/RU_MA_TA|RU-MA-TA]], [[wiki/linear-a/words/S/SI_plus_SE|SI+SE]], [[wiki/linear-a/words/Z/ZU_DU|ZU-DU]].
 
 ## Edition differences
 

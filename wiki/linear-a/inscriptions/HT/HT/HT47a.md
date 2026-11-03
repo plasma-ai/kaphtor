@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["KU-PA₃-NA-TU"]
+words: ["KI-DA-RO", "KU-PA₃-NA-TU"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -90,7 +90,7 @@ Administrative allocation list, broken on every line (GORILA I 91). KU-PA₃-NA-
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/K/KU_PA3_NA_TU|KU-PA₃-NA-TU]].
+[[wiki/linear-a/words/K/KI_DA_RO|KI-DA-RO]], [[wiki/linear-a/words/K/KU_PA3_NA_TU|KU-PA₃-NA-TU]].
 
 ## Corpus note
 

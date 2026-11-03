@@ -43,7 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | bǝʕray 'ox' \[Bass. 333\] | Bass. 333 |  |
 | Modern Aramaic | NSyr. bʕîrâ, NAssyr. bị̄ra (SED II 73) | SED II 73 | gloss withheld |
 | Argobba | bara, bäˁara, baˀra (Leslau 1997:195, AAD 209 apud SEDonline 590) | Leslau 1997:195, AAD 209; SEDonline 590 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic bʿr (Al-Jallad–Jaworska 58) | Al-Jallad–Jaworska 58 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic bʿr (Al-Jallad–Jaworska 58); bʿrt; Thamudic bʿr (Al-Jallad 2026, 25); Safaitic bʿyr (Al-Jallad 2026, 26) | Al-Jallad–Jaworska 58; Al-Jallad 2026 25; Al-Jallad 2026 26 | gloss withheld |
 | Amorite | baʿīr: ba-i-rum (Sanmartín GlOS 1, 109) | Sanmartín GlOS 1, 109 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

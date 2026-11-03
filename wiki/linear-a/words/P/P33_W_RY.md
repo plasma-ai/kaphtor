@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/P33_W_RY
 title: "P33-W-RY"
 desc: "I cry out! / my invocation (ritual speech act). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+tags: ["linear-a", "word", "tier-2", "hapax", "ritual", "verb"]
 kind: "word"
 form: "P33-W-RY"
 datasets: ["lexicon"]
@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | I cry out! / my invocation (ritual speech act) |
 | Root | √p-ʿ-r |
 | Proto-Semitic | \*pVɣVr- (#1508) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | hapax, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Egyptian group-writing: p33wry \[element 9, Det: A2 'to speak/think'\]. √p-ʿ-r 'to open wide (the mouth)' + 1cs -ī: Heb pāʿar (Isa 5:14 ūpāʿărāh pīhā; Ps 119:131 pī pāʿartī), Ar faġara (regular ʿ→ġ). Form \*paʿūr-ī (qatūl verbal noun + possessive). A2 determinative fits speech act. Alternative: √p-ʾ-r 'to glorify' (Isa 60:7). Structurally bridges the two deity names: rpʾī — paʿūrī — Mayyā = 'My Healer — I cry out to — Mayyā.' Keftiu Spell #33, LMP BM 10059.
+Egyptian group-writing p33wry, with the A2 determinative 'to speak, think'. √p-ʿ-r 'open wide (the mouth)' with the 1cs -ī: Heb. pāʿar (Isa 5:14 ūpāʿărāh pīhā 'and she has opened wide her mouth', of Sheol; Ps 119:131 pī pāʿartī 'I opened wide my mouth'), Ug. pʿr 'open the mouth; shout, proclaim' (GlOS 2, 121), Ar. faġara, with the regular ġ for ʿ. The form is \*paʿūr-ī, a qatūl verbal noun with the possessive; the A2 determinative suits a speech act. It follows rpʾy 'my Healer' (Steiner 1992, 198–199): rpʾī paʿūrī Mayyā, 'My Healer, I cry out to Mayyā'. Rival: √p-ʾ-r 'glorify' (Isa 60:7). Keftiu Spell #33, LMP BM 10059.
 
 ### Cognates
 

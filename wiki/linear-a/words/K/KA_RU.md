@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_RU
 title: "KA-RU"
 desc: "karru: pasture, meadow (estate heading). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "noun"]
+tags: ["linear-a", "word", "tier-1", "administrative", "agriculture", "noun"]
 kind: "word"
 form: "KA-RU"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | pasture, meadow (estate heading) |
 | Root | k-r-r |
 | Proto-Semitic | \*karr- (#3848) |
-| Language layer | NWS |
-| Category | noun |
+| Language layer | Semitic |
+| Tags | administrative, agriculture, noun |
 | Semantic field | toponym |
 
 ### Note
 
-HT97a KA-RU · \*307+\*307 · VIR+KA 82 / \*327 33 / KA-NU-TI 25 / PA-I-TO 6 … — heading slot of HT85a A-DU · \*307+\*307 · VIR: 'pasture-sanctuary: men'. HT75 bare (KA-RU / — / \[break\]); one informative context. Geminate karr- written single. Rivals: Akkadian kāru 'quay, trading station' (East Semitic loan only; Kommos harbour), and a divine name (A-DU parallel). Two-consonant skeleton. Not KU-RA (first-syllable vowel).
+HT 97a opens KA-RU · \*307+\*307 · VIR+KA 82, then \*327 33, KA-NU-TI 25, PA-I-TO 6: the heading slot of HT 85a A-DU · \*307+\*307 · VIR+\[?\], 'pasture-sanctuary: men'. HT 75 KA-RU\[, broken after RU (GORILA I 125). karru 'pasture', Heb. kar 'pasture' (Isa 30:23; HALOT 496), the geminate written single. Rivals: Akkadian kāru 'quay, harbour, trading station' (CAD K 231), an East Semitic word, for the harbour at Kommos; and a divine name, as A-DU heads HT 85a.
 
 ### Cognates
 
@@ -51,13 +51,13 @@ HT97a KA-RU · \*307+\*307 · VIR+KA 82 / \*327 33 / KA-NU-TI 25 / PA-I-TO 6 …
 
 ### Source
 
-di Mino
+di Mino; HALOT; CAD K
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT97a\|HT97a]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT75\|HT75]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT75\|HT75]] | Haghia Triada | Tablet | none; form not in transliteration |
 
 <!-- END kaphtor:record -->

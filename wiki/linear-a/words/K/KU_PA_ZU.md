@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_PA_ZU
 title: "KU-PA-ZU"
 desc: "Kapizzi: Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KU-PA-ZU"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kapizzi |
 | Meaning | Kapizzi (Hurrian personal name), 'kapizzi-jewel'; rival kupṯu 'headdress' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KH 5 .3 KU-PA-ZU, after WI-NA-DU · \*301-NA ·, before a cyperus entry on .4 (GORILA III 25). ZU = zu, as in RU-ZU-NA: the Ugarit name ka-bi-iz-zi, Hurrian kabizzi 'jewel' (Monti 2017, 346), KU-PA for ka-bi a vowel mismatch only. DULAT 424 sets ka-bi-iz-zi beside kbs 'fuller', which ZU cannot spell. Rival on ZU = ṯu: kupṯu 'headdress', Ug. kpṯ, Akk. kub/pšu (DULAT 448–449). The edge with KU-PA quppa is chance. One witness.
+KH 5 .3 KU-PA-ZU, after WI-NA-DU · \*301-NA ·, before a cyperus entry on .4 (GORILA III 25). ZU = zu, as in RU-ZU-NA: the Ugarit name ka-bi-iz-zi, Hurrian kabizzi 'jewel' (Monti 2017, 346), KU-PA for ka-bi a vowel mismatch only. DULAT 424 sets ka-bi-iz-zi beside kbs 'fuller', which ZU cannot spell. Rival on ZU = ṯu: kupṯu 'headdress', Ug. kpṯ, Akk. kub/pšu (DULAT 448–449). One witness.
 
 ### Cognates
 
@@ -57,7 +57,13 @@ di Mino; Monti 2017; Kinlaw 1967
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Khania | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/KH/KH/KH5\|KH5]] | Kapizzi | Kapizzi (personal name); cyperus 3\[ with a fraction | SPECULATIVE |
 
 ## Onomasticon
 

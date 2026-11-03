@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MI_JA
 title: "MI-JA"
 desc: "mayya: water. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "ritual"]
 kind: "word"
 form: "MI-JA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | water |
 | Root | m-y |
 | Proto-Semitic | \*maʾ-/\*may- (#711) |
-| Language layer | NWS |
-| Category | commodity |
-| Semantic field | commodity |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
+| Semantic field | ritual |
 
 ### Note
 
-SYZa5 stone libation vessel at Syme peak sanctuary—object-label match; Ug. my/mw, Heb. mayim, Akk. mû. See M'-Y3 and MA-I-MI.
+SY Za 5, a stone libation vessel from the Syme peak sanctuary: \]MI-JA · JA-WA-PA₃\[ (Muhly and Olivier 2008, 209). mayya 'water', the word on a vessel for pouring: Ug. mh/y 'water' (DULAT 529), Heb. mayim (HALOT 576), Akk. mû. Weak point: the rim breaks before MI, and traces of two or three signs stand ca 10 cm to the left (Muhly and Olivier 2008, 209). One attestation. See M'-Y3 and MA-I-MI.
 
 ### Cognates
 

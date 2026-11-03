@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3537_battle_line_battle
 title: "*ʕrk: 'battle line, battle'"
-desc: "Proto-Semitic *ʕrk, 'battle line, battle': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ʕrk, 'battle line, battle': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3537"
@@ -31,6 +31,7 @@ updated: 2026-10-25T06:28:07Z
 |---|---|---|---|
 | Hebrew | maʿărākâ (HALOT 616) | HALOT 616 | gloss withheld |
 | Arabic | maʿrakat 'a place, scene, of battle' (Lane 2024); ʿarkat 'a war, battle' (Lane 2024) | Lane 2024 |  |
+| Punic | ʿrkt (T 257–258) | T 257–258 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

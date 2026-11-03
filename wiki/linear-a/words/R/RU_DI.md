@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/R/RU_DI
 title: "RU-DI"
-desc: "rūdī: Rule! / may you rule (jussive/imperative). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+desc: "rūdī: Roam! (f. imperative). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "fragmentary", "ritual", "verb"]
 kind: "word"
 form: "RU-DI"
 datasets: ["lexicon"]
@@ -32,27 +32,29 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | rūdī |
-| Meaning | Rule! / may you rule (jussive/imperative) |
-| Root | r-d-y |
-| Proto-Semitic | \*rVdVw-/\*rVdVy- (#1765) |
-| Language layer | NWS |
+| Meaning | Roam! (f. imperative) |
+| Root | r-w-d |
+| Proto-Semitic | \*rVwVd- (#K0360) |
+| Language layer | Semitic |
+| Tags | fragmentary, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Hebrew רָדָה rādâ "to rule, have dominion" (Gen 1:26, Ps 72:8, 1 Kgs 5:4). ZA Zb 34 \]PU₂-RE-JA · KO-MU · RU-DI\[, broken after DI (GORILA IV 115); HT 141 .2 \]RU-DỊ-\[, broken on both sides (GORILA I 239). Neither witness is whole. Weak point: the imperative of √r-d-y is rdī; RU writes the u.
+ZA Zb 34 \]PU₂-RE-JA · KO-MU · RU-DI\[ (GORILA IV 115) holds the word, more signs perhaps following it. HT 141 .2 \]RU-DỊ-\[ (GORILA I 239) breaks after DI, the word possibly whole. rūdī 'roam!', the feminine imperative of √r-w-d (semitic_roots K0360), addressed to PU₂-RE-JA 'my Creatress', with KO-MU the accusative of place: Heb. rûd 'roam about freely' (Jer 2:31), 'Judah still goes about with God' (Hos 12:1); Arb. rāda 'go back and forth' (HALOT 1194). Rival: 'Rule!', √r-d-y, Heb. rādâ (Gen 1:26, Ps 72:8), whose imperative rədēh has no u (HALOT 1190). Two attestations.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | רָדָה rādâ "to rule, have dominion" |
+| Hebrew | רוּד rûd "to roam about freely" (HALOT 1194); רָדָה rādâ "to rule, have dominion" (HALOT 1190) |
+| Arabic | rāda (rwd) "to go back and forth, roam, search" (HALOT 1194) |
 | Akkadian | redû "to accompany, lead, drive" |
 | Ugaritic | rdy (KTU 1.1; unglossed in CUC) |
 
 ### Source
 
-di Mino
+di Mino; HALOT
 
 ## Attestations
 
@@ -65,6 +67,6 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | rūdī | Rule! (jussive/imperative) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | rūdī | roam! (f. imperative) | SPECULATIVE |
 
 <!-- END kaphtor:record -->

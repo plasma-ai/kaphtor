@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/M/MI_DA_RU_RA
 title: "MI-DA-RU-RA"
-desc: "midrara: dust, ashes, dry earth (second accusative of √k-s-y 'cover': midr-a; or intensive midrar-). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+desc: "midrara: dust, ashes, dry earth (second accusative after √k-s-y 'cover'). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "ritual", "votive"]
 kind: "word"
 form: "MI-DA-RU-RA"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | midrara |
-| Meaning | dust, ashes, dry earth (second accusative of √k-s-y 'cover': midr-a; or intensive midrar-) |
+| Meaning | dust, ashes, dry earth (second accusative after √k-s-y 'cover') |
 | Root | m-d-r |
 | Proto-Semitic | \*midr- ~ \*ramad- (#2470) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual, votive |
 | Semantic field | ritual |
 
 ### Note
 
-ARKHZf9 (Arkhanes, bronze votive object). Word 2 of 2-word inscription JA-KI-SI-KI-NU &lt;&gt; MI-DA-RU-RA. RILA reading updates GORILA MI-DA-MA-RA₂: sign 3 reread as RU (AB26), sign 4 as RA (AB27). Final -RA writes either: (a) accusative case ending -a on a root-final /r/ (\*midr-a), or (b) geminate /rr/ in an intensive form \*midrar-. Context: paired with \*yaksīkīnū 'May he cover you!'—the full inscription reads 'May he cover you with dust/ashes!' Ritual use of ashes/dust in NWS: Jonah 3:6 (penitential sitting on ashes), Num 19:17 (purification ashes of red heifer), Job 2:12 (mourning dust on head), 2 Sam 13:19 (lamentation ashes). Additional parallels: Ezek 27:30 בָּאֵפֶר יִתְפַּלָּשׁוּ "they roll in ashes" (mourning), Esther 4:1 וַיִּלְבַּשׁ שַׂק וָאֵפֶר "sackcloth and ashes" (supplication), Gen 18:27 עָפָר וָאֵפֶר "dust and ashes" (Abraham's self-abasement before God), Isa 61:3 פְּאֵר תַּחַת אֵפֶר "beauty instead of ashes." A votive bronze suits both purificatory and penitential ritual readings. \|\| 'Cover/clothe' takes two accusatives, person and covering (Fischer 2002, §374a: albasanī ṯiyābahu 'He clothed me in his garments'), so the -a has a governor in JA-KI-SI-KI-NU.
+ARKH Zf 9 (Arkhanes, a bronze votive object), word 2 of JA-KI-SI-KI-NU &lt;&gt; MI-DA-RU-RA; RILA rereads GORILA's MI-DA-MA-RA₂, sign 3 as RU (AB 26) and sign 4 as RA (AB 27). midrara 'dust, ashes', the second accusative after JA-KI-SI-KI-NU \*yaksīkīnū 'May he cover you!': 'May he cover you with dust and ashes!' 'Cover, clothe' takes two accusatives, person and covering (Fischer 2002, §374a: albasanī ṯiyābahu 'He clothed me in his garments'), so the -a has its governor; the final RA writes either that accusative -a on a root-final r, \*midr-a, or the geminate rr of an intensive \*midrar-. Ashes and dust serve penance and purification, both fit for a votive bronze: sitting in ashes (Jonah 3:6), the red heifer's ashes (Num 19:17), dust on the head in mourning (Job 2:12), ashes in lament (2 Sam 13:19), rolling in ashes, בָּאֵפֶר יִתְפַּלָּשׁוּ (Ezek 27:30), sackcloth and ashes, וַיִּלְבַּשׁ שַׂק וָאֵפֶר (Esth 4:1), Abraham's עָפָר וָאֵפֶר 'dust and ashes' (Gen 18:27), and פְּאֵר תַּחַת אֵפֶר 'beauty instead of ashes' (Isa 61:3). One attestation.
 
 ### Cognates
 

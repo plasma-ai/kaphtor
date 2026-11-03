@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_U_MI
 title: "DA-U-MI"
 desc: "dawmi: the enduring one (personal name). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "onomastic"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "DA-U-MI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the enduring one (personal name) |
 | Root | d-w-m |
 | Proto-Semitic | \*dVm-/\*dVwVm- (#1497) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Retained CANDIDATE name from DA-U-\*49: Dawmi, 'the enduring one,' compared with √d-w-m 'endure, remain,' Hebrew Dūmah and Assyrian Adummatu. The reading requires \*49 to carry the candidate syllabic value /mi/ and U to represent the medial glide /w/; neither step is independently settled. The sign's official semantic reading is PALM/TREE, with TAMIR its proposed Semitic lexical name, so an unresolved DA-U-PALM/TREE analysis remains available. See DU-ME-DI.
+HT 120: DA-U-\*49 · A517 20 under the heading DA-QE-RA, between DA-ME (GRA+K+L 74, GRA+PA 62) and KI-RE-TA-NA (GRA+B 60, GRA+PA 48): a recipient. \*49 is read mi, a proposed value: Dawmi 'the enduring one', √d-w-m 'last, endure' (Arb. dwm 'to last', HALOT 216), as in Hebrew Dūmah (HALOT 216) and Assyrian Adummatu. DA-U writes daw analytically, as KA-U-ZU-NI writes Kawṯuni. Weak point: \*49 = mi is a proposed value. Rival: \*49 as the logogram PALM/TREE after DA-U. One attestation. See DU-ME-DI.
 
 ### Cognates
 

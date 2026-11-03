@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_SI_KI_RA
 title: "A-SI-KI-RA"
 desc: "ha-Śikira: personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-SI-KI-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'the Hired' (article ha- + SI-KI-RA); rival haśkira 'he rewarded' |
 | Root | ś-k-r |
 | Proto-Semitic | \*śVkVr- (#K0481) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

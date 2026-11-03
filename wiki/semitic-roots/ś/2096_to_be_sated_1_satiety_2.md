@@ -42,7 +42,7 @@ updated: 2026-10-27T22:12:55Z
 | Epigraphic South Arabian | SAB h-s2bʕ \[SD 131\] (causative stem); Sab hs2bʿ (Biella 510); s2bʿm 2 (Biella 511); s2bʿ 2 (Sabaweb lemma 5068) | SD 131; Biella 510; Biella 511; Sabaweb lemma 5068 | gloss withheld |
 | Judaic Aramaic | sǝbaʕ 'to be filled, to be saturated' \[Ja 1516\] | Ja 1516 |  |
 | Syrian Aramaic | sǝbaʕ 'he was satiated' \[Brock 456\] | Brock 456 |  |
-| Aramaic | OLD OFF PLM šbʕ \[HJ 1011\] | HJ 1011 | gloss withheld |
+| Aramaic | OLD OFF PLM šbʕ \[HJ 1101\] | HJ 1101 | gloss withheld |
 | Modern Aramaic | Maʿlula śbʿ (HALOT 1302) | HALOT 1302 |  |
 | Phoenician | šbʿ (HALOT 1304) | HALOT 1304 |  |
 | Eblaitic | /S-b-ʿ/ 1: names áš-ba-ì, iš-ba-ì, iš-ba-il (Sanmartín GlOS 2, 272; Krebernik 1988, 51–52) | Sanmartín GlOS 2, 272; Krebernik 1988, 51–52 | gloss withheld |

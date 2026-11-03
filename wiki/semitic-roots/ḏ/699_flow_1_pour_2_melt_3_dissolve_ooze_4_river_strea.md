@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḏwb \[-u-\] 3 (Lane 986) | Lane 986 |  |
 | Mehri | ḏeyōb 3 |  |  |
-| Akkadian | zâbu 1 (rare), 4, Zābu (HALOT 266) | HALOT 266 | gloss withheld |
+| Akkadian | zâbu 1 (rare), 4 (AHw 1501), Zābu (HALOT 266) | AHw 1501; HALOT 266 | gloss withheld |
 | Harsusi | ḏeyōb 3 |  |  |
-| Mandaic Aramaic | dwb 1 (Drower/Macuch 103b apud CAL) | Macuch 103b; CAL |  |
+| Mandaic Aramaic | DUB 1 (MD 103) | MD 103 |  |
 | Ugaritic | mdb 5 |  |  |
 | Jibbali | ḏɛ̄b 3 |  |  |
 | Hebrew | zwb 2 |  |  |

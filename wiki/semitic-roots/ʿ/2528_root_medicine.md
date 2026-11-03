@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Pal ʕyḳr |  | gloss withheld |
 | Mandaic Aramaic | ʿqr (HALOT 874) | HALOT 874 |  |
 | Biblical Aramaic | ʕiḳḳar (Kogan 2015, ch. 6 §2 no. 4) | Kogan 2015 ch. 6 §2 no. 4 | gloss withheld |
-| Judaic Aramaic | ʕiḳḳārā (Kogan 2015, ch. 6 §2 no. 4) | Kogan 2015 ch. 6 §2 no. 4 | gloss withheld |
+| Judaic Aramaic | ʕiḳḳārā (Kogan 2015, ch. 6 §2 no. 4); ʕqr (DNWSI 882) | Kogan 2015 ch. 6 §2 no. 4; DNWSI 882 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

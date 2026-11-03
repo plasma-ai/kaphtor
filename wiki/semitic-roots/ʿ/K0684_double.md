@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0684_double
 title: "*ʿVṣVp-: 'double'"
-desc: "Proto-Semitic *ʿVṣVp-, 'double': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ʿVṣVp-, 'double': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0684"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | aṭäfä/aṭṭäfä (EDG 108 apud SEDonline 1591) | EDG 108; SEDonline 1591 | gloss withheld |
 | Argobba | haṭṭäfä (EDG 108 apud SEDonline 1591) | EDG 108; SEDonline 1591 | gloss withheld |
 | Arabic | ḍʕf (Lane 1791 apud SEDonline 1591) | Lane 1791; SEDonline 1591 | gloss withheld |
+| Hebrew | \*צעף, in צָעִיף (HALOT 1041–1042) | HALOT 1041–1042 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

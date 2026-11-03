@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_RA
 title: "SA-RA"
 desc: "šarra: queen, princess (feminine of šarru). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "title"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "title"]
 kind: "word"
 form: "SA-RA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,27 +35,25 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | queen, princess (feminine of šarru) |
 | Root | š-r-r |
 | Proto-Semitic | \*ŝarr- (#3463) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, noun, title |
 | Semantic field | personnel |
 
 ### Note
 
-Feminine counterpart of SA-RU = šarru 'king'; the -u/-a terminal vowel is the Semitic masculine/feminine marker. The only bare SA-RA is SAMWa1 (Samothrace nodule), JA-SA SA-RA TE 10 ¹⁄₁₆, whose edition is untraced; it may be JA-SA-SA-RA across a line break, as IO Za 12 writes JA-SA / SA-RA-ME and IO Za 16 JA-SA-SA-RA / ME. HT 62 .1 has \[·-·\]-SA-RA, broken before (GORILA I 117). The same word is written SA-RA₂ (20 HT tablets). Hebrew Sarah (שָׂרָה) 'princess' (Gen 17:15) keeps the feminine form. See SA-RO.
+SAMW a 1, a Samothrace nodule: JA-SA SA-RA TE 10 ¹⁄₁₆. šarra 'queen', the feminine of SA-RU šarru 'king', -a against -u: Amorite šarra beside šarratum 'queen' (Gelb 1980, glossary), ʿAštar-šarra (no. 1693); Heb. śārā 'woman of rank, princess' (HALOT 1354), the name Sarah (Gen 17:15). Philistine seren (Heb. sərānîm, HALOT 770; Ug. srn, DULAT 759) is Minoan šarrān, šarr with the afformative -ān, as KI-RE-TA-NA Kretan. The same word is written SA-RA₂ on 20 HT tablets. Rival: JA-SA-SA-RA as one word across a line break, as IO Za 12 writes JA-SA / SA-RA-ME and IO Za 16 JA-SA-SA-RA / ME. HT 62 .1 \[·-·\]-SA-RA is broken before (GORILA I 117), the end of a longer word, so it stays out of the attestations. See SA-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | šarratu 'queen' |
-| Amorite | šarra beside šarratum 'queen' (Gelb 1980, glossary); ʿAštar-šarra, EŠ₄-DAR-ŠAR-RA (no. 1693); Mari women's names DN-šarra(t) 'DN is the queen' (Nakata 1995, 249) |
-| Ugaritic | srn 'prince' (DULAT 759); feminine not independently attested |
-| Hebrew | śārā 'princess' (Gen 17:15); sǝrānīm 'city-princes' (KB 727) |
-| Arabic | sarw- 'chief, prince'; feminine form regular |
+| Amorite | šarra beside šarratum 'queen' (Gelb 1980, glossary); ʿAštar-šarra, EŠ₄-DAR-ŠAR-RA (no. 1693); Mari women's names DN-šarra(t) 'DN is the queen' (Nakata 1995, 249); śartu 'queen', qallt, beside śarru 'king' (Buck 2019, 332) |
+| Hebrew | śārā 'princess' (Gen 17:15) |
 
 ### Source
 
-di Mino; Gelb 1980; Nakata 1995
+di Mino; Gelb 1980; Nakata 1995; Buck 2019; HALOT; DULAT; GORILA I
 
 ## Attestations
 
@@ -67,8 +65,8 @@ di Mino; Gelb 1980; Nakata 1995
 
 | Field | Value |
 |---|---|
-| Type | title (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

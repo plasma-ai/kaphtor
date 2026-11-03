@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KI_RE_TA_NA
 title: "KI-RE-TA-NA"
-desc: "Kretana: Cretan (gentilic: 'of Crete'). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "toponym"]
+desc: "Kretan: Cretan (gentilic: 'of Crete'). Lexicon, CONFIRMED (tier 4)."
+tags: ["linear-a", "word", "tier-4", "gentilic"]
 kind: "word"
 form: "KI-RE-TA-NA"
 datasets: ["lexicon", "onomasticon"]
 tier: 4
 confidence: "CONFIRMED"
 confidence_score: 0.85
-reading: "Kretana"
+reading: "Kretan"
 attestations: ["HT2", "HT8a", "HT108", "HT120"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Kretana |
+| Reading | Kretan |
 | Meaning | Cretan (gentilic: 'of Crete') |
 | Root | k-r-t |
 | Proto-Semitic | \*karVt- (#2766) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | gentilic |
 | Semantic field | toponym |
 
 ### Note
 
-Cf. Hebrew Kerethite (כְּרֵתִי). -ān gentilic suffix. 4 tablets, all HT. See also KI-RE-TA₂ (2×) and KI-RI-TA₂ (2×) short name forms. \|\| Huehnergard: Ug krt /kirta/ "Kirta (royal protagonist PN)"; lkrt /li-kirta/ "belonging to the story of Kirta." Huehnergard rejects vocalization "keret" as non-Ugaritic \[p. 68\]. BH cognate: kərētī "Kerethite" (but vocalization differs) (Huehnergard 2012, pp. 60, 68)
+HT 2, HT 8a, HT 108 and HT 120, all at Haghia Triada: Kretan 'Cretan', the gentilic -ān on the name written KI-RE-TA₂ and KI-RI-TA₂, twice each; cf. Heb. kərētī 'Kerethite' (כְּרֵתִי). Ug. krt is /kirta/, the protagonist Kirta, and lkrt /li-kirta/ 'belonging to the story of Kirta'; Huehnergard rejects the vocalization 'keret' as non-Ugaritic, and BH kərētī differs in its vowels (Huehnergard 2012, 60, 68).
 
 ### Cognates
 
@@ -73,10 +73,10 @@ Gordon 1966; Ventris and Chadwick 1956
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT2\|HT2]] | Kretana | Cretan (gentilic: 'of Crete') | CONFIRMED |
-| [[wiki/linear-a/inscriptions/HT/HT/HT8a\|HT8a]] | Kretana | the Cretan (gentilic) | CONFIRMED |
-| [[wiki/linear-a/inscriptions/HT/HT/HT108\|HT108]] | Kretana | Cretan (gentilic) | CONFIRMED |
-| [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Kretana | Kretana; Cretan or of Crete | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT2\|HT2]] | Kretan | Cretan (gentilic: 'of Crete') | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT8a\|HT8a]] | Kretan | the Cretan (gentilic) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT108\|HT108]] | Kretan | Cretan (gentilic) | CONFIRMED |
+| [[wiki/linear-a/inscriptions/HT/HT/HT120\|HT120]] | Kretan | Kretan; Cretan or of Crete | CONFIRMED |
 
 ## Onomasticon
 

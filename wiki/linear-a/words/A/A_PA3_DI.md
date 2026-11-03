@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/A/A_PA3_DI
 title: "A-PA₃-DI"
-desc: "ʿAbdī: personal name, ʿAbdī 'my servant' or ʿAbdi-[DN] 'servant of [DN]'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+desc: "ʿAbdī: personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "fragmentary", "hapax", "personal_name"]
 kind: "word"
 form: "A-PA₃-DI"
 datasets: ["lexicon", "onomasticon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʿAbdī |
-| Meaning | personal name, ʿAbdī 'my servant' or ʿAbdi-\[DN\] 'servant of \[DN\]' |
+| Meaning | personal name, ʿAbdī 'my servant'; rival the head of an ʿAbdi-DN name |
 | Root | ʿ-b-d |
 | Proto-Semitic | \*ʕVbd- (#2739) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | fragmentary, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʕbdy, syll. ÌR-ya (DULAT 141), or the head of an ʿAbdi-DN name, as ʕbdyrḫ (DULAT 141) and Amarna ÌR-a-ši-ir-ta (EA 71:17). Amorite ḫa-ab-di-ia ʿabdiya at Tuttul (Buck 2018, 328). One witness.
+PK Zb 26, a pithos sherd written retrograde, A-PA₃-DI\[ broken after DI (Younger, Linear A Texts). ʿAbdī, as the Ugaritic PN ʿbdy, syll. ÌR-ya (DULAT 141), or the head of an ʿAbdi-DN name, as ʿbdyrḫ (DULAT 141) and Amarna ÌR-a-ši-ir-ta (EA 71:17). Amorite ḫa-ab-di-ia ʿabdiya at Tuttul (Buck 2018, 328). One witness.
 
 ### Cognates
 

@@ -31,12 +31,12 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Punic | Neo-Punic ʿṭrt (Krahmalkov 366; T 242) | Krahmalkov 366; T 242 | gloss withheld |
 | Hebrew | ʿăṭārâ (HALOT 815) | HALOT 815 | gloss withheld |
-| Phoenician | ʿṭrt (Krahmalkov 366); ʿṭrt (T 242) | Krahmalkov 366; T 242 | gloss withheld |
+| Phoenician | ʿṭrt (Krahmalkov 366); ʿṭrt (T 242); lʿṭr (Krahmalkov 366; T 241) | Krahmalkov 366; T 242; T 241 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Verb ʿṭr 'to crown': Hebrew (pi.) (HALOT 815), Phoenician lʿṭr (Krahmalkov 366; T 241), Jewish Aramaic ʿaṭar (T 241).
+Verb ʿṭr 'to crown': Hebrew (pi.) (HALOT 815), Jewish Aramaic ʿaṭar (T 241).
 
 <!-- END kaphtor:record -->

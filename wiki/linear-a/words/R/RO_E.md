@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RO_E
 title: "RO-E"
 desc: "rōʿē: herdsman, shepherd (title on a label). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "title"]
+tags: ["linear-a", "word", "tier-1", "hapax", "livestock", "noun", "occupation"]
 kind: "word"
 form: "RO-E"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | herdsman, shepherd (title on a label) |
 | Root | r-ʿ-y |
 | Proto-Semitic | \*rVʕVy-, \*rāʕ- (#454) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | hapax, livestock, noun, occupation |
 | Semantic field | personnel |
 
 ### Note
 
-PH 24, an MM II label, RO-E the only group, whole and undotted (GORILA I 310–311). rō-ʿē, the qōtēl participle as in RO-KE rōkēl, ʿ unwritten: Heb. rōʿeh, Ug. rʿy 'shepherd' (DULAT 716). Rival: rōʾē 'seer' (#627). One witness. See RA-O-DI-KI.
+PH 24, an MM II label, RO-E the only group, whole and undotted (GORILA I 310–311). rō-ʿē, the qōtēl participle as in RO-KE rōqēaḥ, ʿ unwritten: Heb. rōʿeh, Ug. rʿy 'shepherd' (DULAT 716). Rival: rōʾē 'seer' (#627). One witness. See RA-O-DI-KI.
 
 ### Cognates
 

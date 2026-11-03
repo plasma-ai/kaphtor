@@ -3,7 +3,7 @@ name: wiki/linear-a/signs/syllabic
 title: Syllabic signs
 desc: Each syllabic sign with its value, its Linear B counterpart, the forms cited for it and the words written with it.
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-28T19:41:00Z
+updated: 2026-11-08T01:07:38Z
 ---
 
 # Syllabic signs
@@ -138,7 +138,7 @@ updated: 2026-10-28T19:41:00Z
 
 [[wiki/linear-a/signs/syllabic/star301|star301]]: Linear A syllabic *301, proposed: na.
 
-[[wiki/linear-a/signs/syllabic/star305|star305]]: Linear A syllabic *305, proposed: ḏa.
+[[wiki/linear-a/signs/syllabic/star305|star305]]: Linear A syllabic *305, proposed: da.
 
 [[wiki/linear-a/signs/syllabic/star306|star306]]: Linear A syllabic *306, proposed: ʿa.
 
@@ -146,13 +146,15 @@ updated: 2026-10-28T19:41:00Z
 
 [[wiki/linear-a/signs/syllabic/star314|star314]]: Linear A syllabic *314, proposed: ḥa.
 
-[[wiki/linear-a/signs/syllabic/star324|star324]]: Linear A syllabic *324, speculative: so.
+[[wiki/linear-a/signs/syllabic/star324|star324]]: Linear A syllabic *324, speculative: ṯa.
 
 [[wiki/linear-a/signs/syllabic/star325|star325]]: Linear A syllabic *325, speculative: bu.
 
 [[wiki/linear-a/signs/syllabic/star329|star329]]: Linear A syllabic *329, speculative: mo.
 
 [[wiki/linear-a/signs/syllabic/star34|star34]]: Linear A syllabic *34, proposed: qi.
+
+[[wiki/linear-a/signs/syllabic/star364|star364]]: Linear A syllabic *364, speculative: ṯa.
 
 [[wiki/linear-a/signs/syllabic/star47|star47]]: Linear A syllabic *47, speculative: so.
 

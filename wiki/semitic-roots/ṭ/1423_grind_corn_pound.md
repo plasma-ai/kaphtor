@@ -39,7 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ṭaḥana (LGz. 590) | LGz. 590; Anderson–Moser 2024 root ṭḥn | gloss withheld |
 | Ugaritic | ṭḥn (DULAT 875) | DULAT 875; Anderson–Moser 2024 root ṭḥn | gloss withheld |
 | Epigraphic South Arabian | ṭḥn (HALOT 374; Sabaweb lemma 5315) | HALOT 374; Sabaweb lemma 5315 | gloss withheld |
-| Akkadian | ṭēnu (HALOT 374); ṭênu (CAD Ṭ 98) | HALOT 374; CAD Ṭ 98 | gloss withheld |
+| Akkadian | ṭēnu (HALOT 374; AHw 1387); ṭênu (CAD Ṭ 98) | HALOT 374; AHw 1387; CAD Ṭ 98 | gloss withheld |
 | Aramaic | ṭəḥan (LGz. 590) | LGz. 590 |  |
 | Syrian Aramaic | ṭəḥen (LGz. 590) | LGz. 590 |  |
 | Tigrinya | ṭäḥanä (LGz. 590) | LGz. 590 |  |

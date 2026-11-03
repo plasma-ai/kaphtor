@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RE_DI_SE
 title: "RE-DI-SE"
 desc: "Redis: Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RE-DI-SE"
 datasets: ["lexicon", "onomasticon"]
@@ -35,7 +35,7 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Redis (Egyptian personal name rdj⸗s), 'the one she has given'; rival Safaitic RDS 'Breaker' |
 | Root | rdj |
 | Language layer | Middle Egyptian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

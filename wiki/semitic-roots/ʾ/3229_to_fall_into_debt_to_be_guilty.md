@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3229_to_fall_into_debt_to_be_guilty
 title: "*ʾṯm: 'to fall into debt, to be guilty'"
-desc: "Proto-Semitic *ʾṯm, 'to fall into debt, to be guilty': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ʾṯm, 'to fall into debt, to be guilty': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3229"
@@ -32,6 +32,7 @@ updated: 2026-10-24T15:25:56Z
 | Ugaritic | ʾṯm (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015 ch. 3 §5.3 no. 1 | gloss withheld |
 | Hebrew | ʾšm (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015 ch. 3 §5.3 no. 1 | gloss withheld |
 | Arabic | ʾṯm, ʾiṯm-, ʾaṯām- (Kogan 2015, ch. 3 §5.3 no. 1) | Kogan 2015 ch. 3 §5.3 no. 1 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾṯm (Al-Jallad 2026, 9) | Al-Jallad 2026 9 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

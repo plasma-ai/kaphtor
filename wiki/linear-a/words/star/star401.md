@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star401
 title: "*401"
 desc: "ruqqû: aromatic preparation, compounded ointment—commodity ideogram for perfumed/refined oil products. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity"]
+tags: ["linear-a", "word", "tier-3", "aromatic", "commodity", "logogram", "oil"]
 kind: "word"
 form: "*401"
 datasets: ["lexicon"]
@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
 reading: "ruqqû"
-attestations: ["KH12", "KH31", "KH63", "KH83", "KH84", "KH85", "KH91", "KH18", "KH68+71", "HT33", "MI2"]
+attestations: ["KH12", "KH31", "KH63", "KH83", "KH84", "KH85", "KH91", "KH18", "KH68+71", "HT33", "MI2", "KNZg57a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | aromatic preparation, compounded ointment—commodity ideogram for perfumed/refined oil products |
 | Root | r-q-ḥ |
 | Proto-Semitic | \*rVḳVḥ- (#S15) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | aromatic, commodity, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-Commodity ideogram with two phonetic complements: +RU (×7, all Khania) and +RO (×3, KH31/KH91/MI2), plus compound +\*304 (×2, HT33/KH12). √r-q-ḥ "to mix aromatics, compound ointment": Akk. ruqqû "perfumed oil" (CAD R 418), rāqiḫu "ointment-mixer"; Heb. rōqēaḥ "perfumer, apothecary" (BDB 955), riqqūḥīm "spices, perfumes" (Song 8:2); Ug. rqḥ "perfumer" (DULAT 734), mrqḥt "mixed spices"; Phoen. rqḥ "perfumer" (DNWSI 1082). +RU = ru- initial → ruqqû "perfumed/refined oil"; +RO = rō- initial → rōqēaḥ "compounded ointment". Both subtypes appear on KH91 proving distinct products. +\*304(pidru) compound = fat-based aromatic preparation. Co-occurrence profile: CYP (cyperus), OLE (olive oil), \*308 (šamnu), \*304 (pidru)—exclusively aromatic/oil register. Fractional quantities (¹⁄₅, ¹⁄₁₆) = concentrated aromatic. 13/15 attestations at Khania, paralleling Pylos as Mycenaean perfume center (PY Un 267). See RO-QA.
+A commodity ideogram with three riders and a compound: +RU on seven documents (KH 12 twice, KH 63, KH 83, KH 84, KH 85, KH 91, KN Zg 57a), +RO on KH 31 and KN Zg 57a (twice), +RA on KH 91 and MI 2, and +\*304 on HT 33, KH 12 and KN Zg 57a. KH 91 writes +RU beside +RA and KN Zg 57a +RU beside +RO, so they are distinct products. √r-q-ḥ 'mix aromatics, compound ointment': Akk. ruqqû 'perfumed (oil)' (CAD R 420); Heb. rōqēaḥ 'perfumer' (BDB 955), riqqūḥîm 'perfumes' (Isa 57:9); Ug. rqḥ 'perfumer' (DULAT 734). +RU names refined oil by the ru- of ruqqû, +RO compounded ointment by the rō- of rōqaḥ (HALOT 1290), and +\*304 (pidru) a fat-based aromatic. The ideogram keeps company with CYP (cyperus), OLE, \*308 (šamnu) and \*304, the aromatic and oil register, and its fractions (¹⁄₅, ¹⁄₁₆) suit a concentrate. Nine of its twelve documents are from Khania, as Mycenaean perfumery centred on Pylos (PY Un 267). +RA writes the ra- of raqḥ 'spice mixture' (Heb. reqaḥ, HALOT 1290), as on VIN+RA. Weak point: both +RA witnesses, KH 91 and MI 2, break off after the rider. See RO-QA.
 
 ### Cognates
 
@@ -71,5 +71,6 @@ di Mino
 | [[wiki/linear-a/inscriptions/KH/KH/KH68_plus_71\|KH68+71]] | Khania | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/HT/HT/HT33\|HT33]] | Haghia Triada | Tablet | none; form not in transliteration |
 | [[wiki/linear-a/inscriptions/MI/MI/MI2\|MI2]] | Milos | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KN/KNZg/KNZg57a\|KNZg57a]] | Knossos | ivory object | incomplete; form not in transliteration |
 
 <!-- END kaphtor:record -->

@@ -39,7 +39,7 @@ updated: 2026-10-26T14:26:59Z
 | Punic | alma (HALOT 835); ʿlm (T 246) | HALOT 835; T 246 | gloss withheld |
 | Aramaic | ʿwlymtʾ (HALOT 835) | HALOT 835 | gloss withheld |
 | Epigraphic South Arabian | Sab ɣlm (Kogan 2015, ch. 3 §5.2 no. 16; Sabaweb lemma 1334) | Kogan 2015 ch. 3 §5.2 no. 16; Sabaweb lemma 1334 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ġlmt (Al-Jallad–Jaworska 74) | Al-Jallad–Jaworska 74 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ġlmt (Al-Jallad–Jaworska 74); Hismaic ġlmt; Taymanitic ġlm (Al-Jallad 2026, 55) | Al-Jallad–Jaworska 74; Al-Jallad 2026 55 | gloss withheld |
 | Eblaitic | ḫa-la-mi-im /ɣalm-im/ (Fronzaroli 1984: 142 apud SEDonline 295); ḫa-la-mi-im /ġalm/ 1 (Sanmartín GlOS 1, 200) | Fronzaroli 1984: 142; SEDonline 295; Sanmartín GlOS 1, 200 | gloss withheld |
 | Amorite | ġulm 1: ḫu-ul-me-ia (Sanmartín GlOS 1, 200) | Sanmartín GlOS 1, 200 | gloss withheld |
 

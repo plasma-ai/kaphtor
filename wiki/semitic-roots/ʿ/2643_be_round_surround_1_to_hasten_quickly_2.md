@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/2643_be_round_surround_1_to_hasten_quickly_2
 title: "*ʕgl: 'be round, surround' 1, 'to hasten; quickly' 2"
-desc: "Proto-Semitic *ʕgl, 'be round, surround' 1, 'to hasten; quickly' 2: reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʕgl, 'be round, surround' 1, 'to hasten; quickly' 2: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2643"
@@ -40,6 +40,8 @@ updated: 2026-10-26T17:41:55Z
 | Arabic | ʿajalat (HALOT 785); ʿaǧila 2 (Lane 1963; Kogan 2015, ch. 3 §5.3 no. 3) | HALOT 785; Lane 1963; Kogan 2015 ch. 3 §5.3 no. 3 | gloss withheld |
 | Amharic | aggälä (AED 1318 apud SEDonline 129) | AED 1318; SEDonline 129 | gloss withheld |
 | Jibbali | gaʕalól (Kogan 2015:516 (M. Morris p.c.) apud SEDonline 129) | Kogan 2015 516 (M. Morris p.c.); SEDonline 129 | gloss withheld |
+| Punic | ʿglt (T 238) | T 238 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic nʿgl 2 (Al-Jallad 2026, 13); Safaitic ʿgl 2 (Al-Jallad–Jaworska 51) | Al-Jallad 2026 13; Al-Jallad–Jaworska 51 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

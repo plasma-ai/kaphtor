@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/ME_VIN
 title: "ME-VIN"
 desc: "mesek: mixed wine (wine-section heading); rival 'must'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "abbreviation", "administrative", "beverage", "commodity", "foodstuff", "hapax", "logogram"]
 kind: "word"
 form: "ME-VIN"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | mixed wine (wine-section heading); rival 'must' |
 | Root | m-s-k |
 | Proto-Semitic | \*mVŝug- (#1022) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, administrative, beverage, commodity, foodstuff, hapax, logogram |
 | Semantic field | commodity |
 
 ### Note

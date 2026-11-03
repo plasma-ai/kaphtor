@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/740_beans
 title: "*pūl-: 'beans'"
-desc: "Proto-Semitic *pūl-, 'beans': reflexes in 5 language(s)."
+desc: "Proto-Semitic *pūl-, 'beans': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "740"
@@ -35,6 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | pl (T 264) | T 264 | gloss withheld |
 | Judaic Aramaic | pōlā (HALOT 918) | HALOT 918 |  |
 | Punic | pl (T 264) | T 264 | gloss withheld |
+| Canaanite | EG SYLL pu₂=-r, pu₂=-r=ya, pu₂=-r=ʾa /\*pūla/ (Hoch 118) | Hoch 118 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

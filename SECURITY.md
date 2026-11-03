@@ -14,7 +14,7 @@ databases and cache it under the user's cache folder. Reports that fit this repo
 outside its stated paths, a client that sends more than its project user agent, a path or credential that reaches
 the published tree, or a dependency with a known vulnerability.
 
-The latest release is the one supported.
+The `main` branch is the one supported.
 
 ## Rights concerns
 

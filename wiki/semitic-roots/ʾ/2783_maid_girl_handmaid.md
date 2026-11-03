@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2783_maid_girl_handmaid
 title: "*ʾam(a)t-: 'maid, girl, handmaid'"
-desc: "Proto-Semitic *ʾam(a)t-, 'maid, girl, handmaid': reflexes in 14 language(s)."
+desc: "Proto-Semitic *ʾam(a)t-, 'maid, girl, handmaid': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2783"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʾamtaʾ (T 25) | T 25 |  |
 | Eblaitic | ʔaₓ(NI)-ma-tum /ʔam(a)tum/ (VE 1160; Krebernik 1983, 41) | VE 1160; Krebernik 1983, 41 | gloss withheld |
 | Epigraphic South Arabian | Sab Qat ʾmt (Kogan 2011, 237; Sabaweb lemma 1365) | Kogan 2011 237; Sabaweb lemma 1365 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾmt; Dadanitic ʾmt; Taymanitic ʾmt; Thamudic D ʾmt (Al-Jallad 2026, 6) | Al-Jallad 2026 6 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

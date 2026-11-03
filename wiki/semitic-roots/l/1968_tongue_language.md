@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/1968_tongue_language
 title: "*liš(š)ān- {} *lis(s)ān-: 'tongue; language'"
-desc: "Proto-Semitic *liš(š)ān- {} *lis(s)ān-, 'tongue; language': reflexes in 22 language(s)."
+desc: "Proto-Semitic *liš(š)ān- {} *lis(s)ān-, 'tongue; language': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1968"
@@ -52,6 +52,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | SAMAL OLD DAL OFF lšn (WARKA li-iš-šá-an) \[HJ 584\] | HJ 584 | gloss withheld |
 | Tigrinya | lǝs(s)an \[Bass 20\] | Bass 20 |  |
 | Punic | lšn 'tongue' | Anderson–Moser 2024 root lšān |  |
+| Pre-Islamic North Arabian | Safaitic ʾlsnt (Al-Jallad 2026, 87) | Al-Jallad 2026 87 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

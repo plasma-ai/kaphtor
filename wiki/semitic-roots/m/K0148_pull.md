@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/K0148_pull
 title: "*mVlVḫ-: 'pull'"
-desc: "Proto-Semitic *mVlVḫ-, 'pull': reflexes in 7 language(s)."
+desc: "Proto-Semitic *mVlVḫ-, 'pull': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0148"
@@ -36,6 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | mälḥa (LGz. 343) | LGz. 343 | gloss withheld |
 | Tigrinya | mälḥe (LGz. 343) | LGz. 343 | gloss withheld |
 | Gurage | mäla (LGz. 343) | LGz. 343 |  |
+| Eblaitic | ma-i-ḫum /maliḫ-/ (Sanmartín GlOS 2, 38) | Sanmartín GlOS 2, 38 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

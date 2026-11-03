@@ -33,14 +33,15 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | Kulelu |
 | Meaning | Kulelu (personal name; cf. Middle Assyrian Kulilu) |
-| Root | k-l-l? |
-| Language layer | Akkadian comparison |
-| Category | personal_name |
+| Root | k-l-l |
+| Proto-Semitic | \*kʷall- (#2418) |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-The HT117b roster fixes the personal-name slot; KU-RE-JU also takes quantity 8 on HT39. With R/L neutralization and JU=/lu/, the spelling permits /Kulelu/. The strongest external formal parallel is the Middle Assyrian personal name Kulilu, written {m}ki-li-lu at Dunni-Aššur (Tell Sabi Abyad), T 98-038 obv. 4' (ORACC tcma/tsa1, P532066). The later personal name Kullulu is written {1}ku-lu-lu in SAA 6 22 rev. 9'. Amorite KU-LA-IL-E and KI+L-I+IL provide secondary k-l-l name-family comparisons, but neither the root nor the meaning 'El is perfection' is established for the Linear A name. Rival: kᵉlûlâ 'betrothal, being a bride' (HALOT; Jer 2:2), as the pair of \*21F-TU-NE 'bridegroom' on HT 117b; the quantity 8 on HT 39 and DI-KI-SE, a name in the same layout, favour a name. Both readings take JU = /lu/.
+The HT 117b roster, headed \*21F-TU-NE, fixes the personal-name slot, KU-RE-JU 1 before DI-KI-SE 1; on HT 39 KU-RE-JU takes 8. With R/L neutralization and JU = lu, the spelling writes Kulelu. The strongest external formal parallel is the Middle Assyrian personal name Kulilu, written {m}ki-li-lu at Dunni-Aššur (Tell Sabi Abyad), T 98-038 obv. 4' (ORACC tcma/tsa1, P532066). The later personal name Kullulu is written {1}ku-lu-lu in SAA 6 22 rev. 9'. Amorite KU-LA-IL-E belongs to the same k-l-l family (Gelb 1980, no. 4114). Rival: kᵉlûlâ 'betrothal, being a bride' (Jer 2:2; HALOT 478), as the pair of \*21F-TU-NE 'bridegroom' on HT 117b; the quantity 8 on HT 39 and DI-KI-SE, a name in the same layout, favour a name. Both readings take JU = lu.
 
 ### Cognates
 
@@ -55,7 +56,7 @@ The HT117b roster fixes the personal-name slot; KU-RE-JU also takes quantity 8 o
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; HALOT
 
 ## Attestations
 

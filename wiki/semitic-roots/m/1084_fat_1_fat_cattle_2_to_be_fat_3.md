@@ -31,10 +31,10 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Soqotri | mer |  | gloss withheld |
-| Akkadian | marû 1 (marû); marû A (CAD M/1 307) | CAD M/1 307 | gloss withheld |
-| Ugaritic | mru 2 |  |  |
+| Akkadian | marû 1 (marû); marû A 3 (CAD M/1 307); mīru B 2 (CAD M/2 110) | CAD M/1 307; CAD M/2 110 | gloss withheld |
+| Ugaritic | mru 2; /m-r-ʔ/ G/D 3 (DULAT 563) | DULAT 563 | gloss withheld |
 | East Ethiopic | Wol morä |  |  |
-| Hebrew | mǝrīʔ 2 |  |  |
+| Hebrew | mǝrīʔ 2 (HALOT 635) | HALOT 635 | gloss withheld |
 | Amharic | mora |  |  |
 | Arabic | maraʾa (HALOT 630) | HALOT 630 | gloss withheld |
 | Amorite | marʾu (Buck 2019, 329) | Buck 2019, 329 | gloss withheld |

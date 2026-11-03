@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PI_SA
 title: "PI-SA"
-desc: "Pīsa: personal or institutional name, a recipient. Lexicon, SPECULATIVE (tier 1)."
+desc: "Pīsa: personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient. Lexicon, SPECULATIVE (tier 1)."
 tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "PI-SA"
@@ -32,32 +32,34 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Pīsa |
-| Meaning | personal or institutional name, a recipient |
+| Meaning | personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient |
 | Root | b-ṣ |
-| Language layer | NWS |
-| Category | personal_name |
+| Proto-Semitic | \*bVṣ- (#4413) |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-A recipient at two sites: HT 123+124b .2 PI-SA 4 in a terebinth list, clean on a palimpsest face (GORILA I 213), and KH 6 .6 PI-SA\[ at a line end, broken after, before CYP+D ½ (GORILA III 27). Amorite Bu-ṣí (Huffmon 1965, 303), with PI for b and SA for ṣ. Rival: an institution receiving allocations.
+A recipient at two sites: HT 123+124b .2 PI-SA 4 in a terebinth list, clean on a palimpsest face (GORILA I 213), and KH 6 .6 PI-SA\[ at a line end, broken after, before CYP+D ½ (GORILA III 27). Bu-ṣí (F), with PI for b and SA for ṣ, which Huffmon sets with Bu-ṣi-ya under Akk. buṣ- (Huffmon 1965, 151 n. 37): būṣu C '(a bird)', with the Old Babylonian names Bu-ṣu-um, Bu-ṣa-a, Bu-ṣi-ia (CAD B 349). Rival: an institution receiving allocations.
 
 ### Source
 
-di Mino
+di Mino; Huffmon 1965; CAD
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Haghia Triada | Tablet | incomplete |
-| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Khania | Tablet | incomplete |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Pīsa | recipient name | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH6\|KH6]] | Pīsa | recipient name, before the break | SPECULATIVE |
 
 ## Onomasticon
 

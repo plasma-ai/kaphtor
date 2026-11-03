@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I/I_DA
 title: "I-DA"
 desc: "ʾIda: Ida, 'the Hand' (sacred mountain—toponym/theonym). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "toponym"]
+tags: ["linear-a", "word", "tier-3", "libation_formula", "ritual", "theonym", "toponym"]
 kind: "word"
 form: "I-DA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Ida, 'the Hand' (sacred mountain—toponym/theonym) |
 | Root | y-d |
 | Proto-Semitic | \*yad- ~ \*ʾid- (#2046) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | libation_formula, ritual, theonym, toponym |
 | Semantic field | toponym |
 
 ### Note
 
-Attested as a complete sign group on ritual stone vessels across 3 sites (Nerokurou, Palaikastro, Zakros); in PKZa18 it alone is bounded by dividers between the broken groups \]-TE and JA-JA-\[…. Distribution + dedicatory genre fit a sacred-mountain name (cf. Mt. Ida / Idaean cave). I-DA-MA-TE (ARZf1–2) is prothetic ʾi- + DA-MA-TE 'the tower' (√d-m-t), not an Ida compound, and lends no support here. The toponym class is behavior-supported; the specific Ida identification is the speculative element. \|\| PH6 (MM IIB, Phaistos): earliest attestation, within the fused prepositional phrase I-DA-PA₃-I-SA-RI = ʾIdā bi-ʾišarī—Phaistos lies directly under the mountain. \|\| ROOT: Ida = 'the Hand'; Linear A writes the \*ʾid- variant, with the initial i of Eblaite i-da 'hand' (GlOS 2, 371), Akkadian idu, Soqotri ʔed, Tigre ʔǝde. Per the Ya Diktu grammar's footnote (Chantraine, DELG s.v. Ἴδη, calls Ἴδη pre-Hellenic): the Idaean Daktyls, 'fingers', are the Greek doublet—'fingers of the hand' (Pollux, Onom. 2.156)—and the gentilic JE-DI yedī 'the Idaean' (HT8a, HT36, HT122b, HT140) may corroborate.
+A complete sign group on ritual stone vessels at three sites, Nerokurou, Palaikastro and Zakros; on PK Za 18 it alone is bounded by dividers, between the broken groups \]-TE and JA-JA-\[. The distribution and the dedicatory genre fit a sacred-mountain name, Mt Ida and the Idaean cave. PH 6 (MM IIB, Phaistos), the earliest witness, has it inside the phrase I-DA-PA₃-I-SA-RI ʾIdā bi-ʾišarī; Phaistos lies under the mountain. Ida 'the Hand': Linear A writes the \*ʾid- variant, with the initial i of Eblaite i-da 'hand' (GlOS 2, 371), Akk. idu, Soqotri ʔed, Tigre ʔǝde. The Idaean Daktyls, 'fingers', are the Greek doublet, 'fingers of the hand' (Pollux, Onom. 2.156), and Chantraine calls Ἴδη pre-Hellenic (DELG s.v. Ἴδη; di Mino, Ya Diktu); JE-DI yedī 'the Idaean' (HT 8a, HT 36, HT 122b, HT 140) is the gentilic. Rival: ἴδη 'wood, forest' (DELG s.v. ἴδη), attested only after the toponym. The w- is Cretan only: Βίδα (IC IV 80.2), Zeus Ϝιδάτας (IC II v 35), Koine Ἰδάτης (Staatsverträge III 552), Linear B wi-da-jo (KN V 60); epic Ida has none (Il. 8.170 ἀπ' Ἰδαίων). The w- is a Greek reshaping after ϝιδ- 'see': Helbig equates Βιδάτας with Παντόπτης 'all-seeing' (Bürchner, RE Suppl. I 250–51), while Linear A, which has WI (WI-DI-NA, HT 28b), writes Ida only as I-DA-. Weak point: the toponym class rests on behaviour.
 
 ### Cognates
 
@@ -77,8 +77,8 @@ di Mino; GlOS 2
 
 | Field | Value |
 |---|---|
-| Type | toponym (CANDIDATE) |
-| Affiliation | semitic (CANDIDATE) |
+| Type | toponym (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 5 in 5 documents |

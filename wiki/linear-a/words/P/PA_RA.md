@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/P/PA_RA
 title: "PA-RA"
-desc: "parr(u): skin, fleece (a hide with its wool); rival 'hair'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+desc: "parr(u): skin, fleece (a hide with its wool). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "commodity", "noun", "textile"]
 kind: "word"
 form: "PA-RA"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | parr(u) |
-| Meaning | skin, fleece (a hide with its wool); rival 'hair' |
+| Meaning | skin, fleece (a hide with its wool) |
 | Root | p-r(-w) |
 | Proto-Semitic | \*parw- ~ \*parr- (#1995) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-PH 3a .3 \]MA+RU ⅓ · PẠ-RẠ ⅓ (GORILA I 291): after the wool ligature MA+RU and the MA ligatures \*556, \*557 and \*563, with the wool entry's ⅓ measure; a fractional measure fits a material counted by weight. PA and RA at their primary values, the geminate unwritten. Both signs dotted. Rivals: \*parʕ- '(loose) hair of the head' (Akk. pērtu, Hbr. päraʕ; SED I No. 218), head hair rather than a traded material; \*ɣapar- 'stiff hair' (Kogan 2011, 223) with its first syllable unwritten. HT 128a .1 \*326 PA-RA TU-RU-NU-SE-ME GRA 10, with no quantity of its own (GORILA I 221): there a personal name, or \*barr- 'wheat' (Hbr. bār, Akk. burru, CAD B 330) with PA for /b/. A two-sign word: the PH 3a context, not the spelling, selects the sense.
+PH 3a .3 \]MA+RU ⅓ · PẠ-RẠ ⅓ (GORILA I 291): after the wool ligature MA+RU and the MA ligatures \*556, \*557 and \*563, with the wool entry's ⅓ measure; a fractional measure fits a material counted by weight. PA and RA at their primary values, the geminate unwritten, both signs dotted. parr(u) 'skin, fleece': Akk. pāru, parru 'skin, hide' (CAD P 209; #1995). Rivals: \*parʕ- '(loose) hair of the head' (Akk. pērtu, Heb. päraʿ; SED I No. 218), head hair rather than a traded material; \*ɣapar- 'stiff hair' (Kogan 2011, 223) with its first syllable unwritten. HT 128a .1 \*326 PA-RA TU-RU-NU-SE-ME GRA 10, with no quantity of its own (GORILA I 221): there a personal name, or \*barr- 'grain' (Heb. bār; Akk. burru '(a cereal)', Mari, CAD B 330) with PA for /b/. Weak point: a two-sign word, so the PH 3a context, not the spelling, selects the sense.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ PH 3a .3 \]MA+RU ⅓ · PẠ-RẠ ⅓ (GORILA I 291): after the wool ligature MA
 
 ### Source
 
-di Mino
+di Mino; CAD P; Kogan 2011; SED I; CAD B
 
 ## Attestations
 

@@ -34,7 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Soqotri | dḳḳ 2 |  |  |
 | Akkadian | daḳḳ- OAKK CAD D 107, daḳāḳu 1 | CAD D 107 | gloss withheld |
 | Mandaic Aramaic | dirdiḳy- |  | gloss withheld |
-| Ugaritic | dḳ (DULAT 275) | DULAT 275 | gloss withheld |
+| Ugaritic | dḳ (DULAT 275); dqt 2 (DULAT 276) | DULAT 275; DULAT 276 | gloss withheld |
 | East Ethiopic | Sel Wol ṭit, Zw ṭīt |  |  |
 | Geez | daḳiḳ, dḳḳ; ṭǝḳḳat LGz 596 | LGz 596 | gloss withheld |
 | Phoenician | dq (Krahmalkov 151) | Krahmalkov 151 | gloss withheld |

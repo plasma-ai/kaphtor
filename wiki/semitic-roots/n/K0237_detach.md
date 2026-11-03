@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/K0237_detach
 title: "*nVṣVl-: 'detach'"
-desc: "Proto-Semitic *nVṣVl-, 'detach': reflexes in 11 language(s)."
+desc: "Proto-Semitic *nVṣVl-, 'detach': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0237"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Pre-Islamic North Arabian | Safaitic nṣl (Al-Jallad 2026, 105) | Al-Jallad 2026 105 | gloss withheld |
 | Geez | naṣala 'detach' | Anderson–Moser 2024 root nṣl |  |
 | Jibbali | nṣel (LGz. 406) | LGz. 406 | gloss withheld |
 | Aramaic | nṣl (LGz. 406) | LGz. 406 |  |
@@ -40,6 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | näṭṭälä (LGz. 406) | LGz. 406 | gloss withheld |
 | Hebrew | nṣl (hifʿil), (piʿel) (LGz. 406) | LGz. 406 | gloss withheld |
 | Arabic | naṣala (LGz. 405) | LGz. 405 | gloss withheld |
+| Ugaritic | nṣl N (DULAT 638) | DULAT 638 | gloss withheld |
+| Biblical Aramaic | nṣl haf. (HALOT BArm. s.v. נצל) | HALOT BArm. s.v. נצל | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

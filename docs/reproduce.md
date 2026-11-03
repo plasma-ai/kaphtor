@@ -5,7 +5,7 @@ desc: What `kaphtor reproduce` reruns, what each headline number rests on, and t
 tags: [docs]
 authors: "di Mino"
 created: 2026-10-22T18:14:10Z
-updated: 2026-10-22T18:14:10Z
+updated: 2026-11-03T00:00:00Z
 ---
 
 # Reproduce
@@ -78,3 +78,26 @@ maintainer's key, not shipped; with it, `--key KEY` restores every file to its r
 | redaction | the full logs and the key (maintainer only) | the sha256 in each build's `SHA256SUMS` | `reproduce --key KEY --transcripts DIR` |
 
 Tolerance: none; every output must equal the shipped file byte for byte. `reproduce` takes about half a minute.
+
+## D7
+
+The structural test of Schrijver 2019's Hattic claims ([pre-registration](d7-structural-preregistration.md),
+[result](d7-structural-result.md)) reruns its S3 on Linear A with `tools/linear_a/validation/d7_s3_linear_a.py`,
+which writes only `--out` and refuses a file already there:
+
+```
+uv run python tools/linear_a/validation/d7_s3_linear_a.py --out d7-s3.json
+```
+
+| Count | Rests on | Recorded value | Rerun |
+|---|---|---|---|
+| word set | the recorded run's `corpus.json` (not shipped), sha256 `e256ff11…` | 639 types; set aside 322 with a lost sign, 186 with a damage mark | the default run |
+| narrow X-TE / X-RE | the word set, 10,000 permutations, seed 20261102 | 1 against 0.418, p 0.3497 | the default run |
+| narrow X / X-TE | as above | 2 against 1.427, p 0.423 | the default run |
+| broad X-TE~TI / X-RE~RI | as above | 1 against 1.586, p 0.8296 | the default run |
+| broad X / X-TE~TI | as above | 4 against 2.072, p 0.1472 | the default run |
+
+The recorded run read a `corpus.json` that does not ship; the shipped corpus marks more broken edges, so its word set
+differs and every expected value and p moves, while the observed counts hold. The
+output gives the sha256 of the corpus it read: a run on the recorded corpus (`--corpus`) matches every count and p. The controls (S1 and S3 on the
+rival languages' own texts) read corpora that do not ship. The run takes about 5 s.

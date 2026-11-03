@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | mūḳ- 'a kind of winged ant' \[BK 2 1168\], \[LA 10 351\]. | BK 2 1168; LA 10 351 |  |
 | Akkadian | miḳḳānu, meḳiḳānu SB \[CAD m2 102\], \[AHw. 657\] | CAD m2 102; AHw. 657 | gloss withheld |
-| Judaic Aramaic | mǝḳāḳ d-sypwry 'a book-worm' \[Ja. 832\], maḳḳāḳ 'an insect that damages books; cockroach, Schwabe, or booklouse' \[Levy WTM III 228\]. | Ja. 832; Levy WTM III 228 |  |
+| Judaic Aramaic | mǝḳāḳ d-sypwry \[Ja. 832\], maḳḳāḳ \[Levy WTM III 228\]; mḳḳ (Sok. B 702 apud SED II 203) | Ja. 832; Levy WTM III 228; Sok. B 702; SED II 203 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3598_open_place_plaza
 title: "*rḥb: 'open place, plaza'"
-desc: "Proto-Semitic *rḥb, 'open place, plaza': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rḥb, 'open place, plaza': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3598"
@@ -34,6 +34,8 @@ updated: 2026-10-26T14:26:59Z
 | Arabic | raḥabat, raḥbat 'court, open area, spacious vacant part' (Lane 1051) | Lane 1051 |  |
 | Epigraphic South Arabian | Sab rḥbt (Biella 485) | Biella 485 | gloss withheld |
 | Amorite | raḥāb: cf. a-na-ra-a-bu, ba-al-ku-úš-ra-ḫa-ab (Sanmartín GlOS 2, 158) | Sanmartín GlOS 2, 158 | gloss withheld |
+| Ugaritic | rḥbn /raḥbānu/ (UVST 178–179) | UVST 178–179 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rḥbt, rḥbh (Al-Jallad 2026, 122) | Al-Jallad 2026 122 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU_JA
 title: "DU-JA"
 desc: "Tuya: Tuya (personal name, hypocoristic in -ya); rival Ḏū-Yā 'He of Yah'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DU-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tuya |
 | Meaning | Tuya (personal name, hypocoristic in -ya); rival Ḏū-Yā 'He of Yah' |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

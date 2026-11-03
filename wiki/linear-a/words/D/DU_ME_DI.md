@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DU_ME_DI
 title: "DU-ME-DI"
 desc: "Dūmatī: Dūmatī (personal name—'the Enduring One', √dwm hypocoristic). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "DU-ME-DI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,27 +35,27 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Dūmatī (personal name—'the Enduring One', √dwm hypocoristic) |
 | Root | d-w-m |
 | Proto-Semitic | \*dVm-/\*dVwVm- (#1497) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Third-slot recipient on HT19, the same-scribe minimal pair of HT17 whose identical slot holds Siddāru (SI-DA-RE, HT122a roster control)—name for name across the sister tablets. Spelling is the cleanest on offer: first vowel etymological (ū of √dwm), ME a dead vowel, -DI = /tī/ one voicing step in the post-nasal cluster. Cross-Semitic dūmat- name family: Amorite Dūmat-An (DU-MA-TA-AN, Gelb AS 21 no. 1581, Mari XIV 47:19—vocalization cuneiform-explicit), Hebrew Dūmāh the Ishmaelite eponym (Gen 25:14), Harding p. 242 cluster dmt/dwmt/dymt/dwmn under dm 'enduring', Sabaic dwm 'lasting, permanent' productive (Beeston p. 36, Biella p. 81). -ī hypocoristic per QA-\*310-I = qaynī. Rival: Dimtu-oblique 'the Tower-estate' (DE-ME-TE is no support: HT 94b reads RA-\[?\]-DE-ME-TE, one word with a sign lost after RA), on Ug. dmt 'tower' + dmt toponym (DULAT 272), Akk. dimtum 'tower; fortified settlement, district' (Huehnergard GAk), and CAD D s.v. dimtu confirms the voiced by-form dindu alongside dintu (pp. 144-147; dindu BBSt No. 8 i 27 + NB Elam toponyms)—so the rival's -DI spelling is orthographically regular, not a strike against it; it would lead if a second dmt-form turns up in a heading/destination slot. OSA ḍmd 'friend' is an exact skeleton match too. See DA-U-MI.
+HT 19 and HT 17, under the same heading RA-\*164-TI · TE · VIN, name the third entry after SA-RO: DU-ME-DI 43½ on HT 19, SI-DA-RE 5 on HT 17. Dūmatī, of the dūmat- name family 'enduring': Amorite Dūmat-An (DU-MA-TA-AN, Gelb 1980, no. 1581), Hebrew Dūmāh, the Ishmaelite eponym (Gen 25:14), Arabian dmt, dwmt, dymt and dwmn under dm 'enduring' (Harding 1971, 242), Sabaic dwm 'lasting' (Beeston et al. 1982, 36; Biella 1982, 81). ME's vowel is dead, DI writes tī after the nasal, and -ī is hypocoristic as in QA-\*310-I qaynī. Rival: Dimti 'the Tower-estate', Ug. dmt 'tower' and the toponym dmt (DULAT 272), Akk. dimtum 'tower; fortified area, settlement; district' (Huehnergard 2011, 492), with the by-forms dintu and dindu (CAD D 144), which make DI regular. See DA-U-MI.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Amorite | Dūmat-An (DU-MA-TA-AN), Gelb AS 21 no. 1581—u-vocalized dūmat- name element |
+| Amorite | Dūmat-An (DU-MA-TA-AN), Gelb 1980, no. 1581—u-vocalized dūmat- name element |
 | Hebrew | דּוּמָה Dūmāh, Ishmaelite eponym (Gen 25:14); cf. Dūmat al-Jandal |
-| Arabian | dmt / dwmt / dymt / dwmn name cluster under dm 'enduring' (Harding 1971, p. 242) |
-| Sabaic | dwm 'lasting, permanent'; dwmm 'forever' (Beeston 1982, p. 36; Biella 1982, p. 81) |
+| Arabian | dmt / dwmt / dymt / dwmn name cluster under dm 'enduring' (Harding 1971, 242) |
+| Sabaic | dwm 'lasting, permanent'; dwmm 'forever' (Beeston et al. 1982, 36; Biella 1982, 81) |
 | Arabic | √d-w-m 'to endure, continue' (9 Quranic occurrences) |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; Harding 1971; Beeston et al. 1982; Biella 1982; DULAT; Huehnergard 2011; CAD D
 
 ## Attestations
 
@@ -73,8 +73,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

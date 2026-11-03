@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/2014_fat_also_oil
 title: "*šam(a)n- {} *sam(a)n-: 'fat (also oil)'"
-desc: "Proto-Semitic *šam(a)n- {} *sam(a)n-, 'fat (also oil)': reflexes in 13 language(s)."
+desc: "Proto-Semitic *šam(a)n- {} *sam(a)n-, 'fat (also oil)': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2014"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | OFF PLM šmn \[HJ 1163\] | HJ 1163 | gloss withheld |
 | Eblaitic | sa-ma-nu (OLA80 §29.5; VE 883; Krebernik 1983, 34); sa-ma-nu da-bù /Samn/; /Sammun/: name sa-mu-nu; /Summun/: names zu-mu-na, zu-mu-na-nu; /Sammanūt, Sammunūt/: names sa-ma-nu-du, sa-mu-nu-du, ša-mu-nu-du (Sanmartín GlOS 2, 254) | OLA80 §29.5; VE 883; Krebernik 1983, 34; Sanmartín GlOS 2, 254 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic smn (Al-Jallad–Jaworska 122) | Al-Jallad–Jaworska 122 | gloss withheld |
+| Punic | šmn (Krahmalkov 470) | Krahmalkov 470 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2796_cut_off_1_impose_a_fine_tribute_2
 title: "*baṣ̂aʿ-: 'cut off' 1, 'impose a fine, tribute' 2"
-desc: "Proto-Semitic *baṣ̂aʿ-, 'cut off' 1, 'impose a fine, tribute' 2: reflexes in 6 language(s)."
+desc: "Proto-Semitic *baṣ̂aʿ-, 'cut off' 1, 'impose a fine, tribute' 2: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2796"
@@ -35,6 +35,8 @@ updated: 2026-10-26T15:47:57Z
 | Epigraphic South Arabian | bḍʿ (HALOT 147) (Sabaweb lemma 3918); Sab bḍʿ; hbḍʿ (Biella 52); bḍʿ 2 (SD 27; Biella 52) | HALOT 147; Sabaweb lemma 3918; Biella 52; SD 27 | gloss withheld |
 | Arabic | baḍʿa (HALOT 147) | HALOT 147 | gloss withheld |
 | Punic | Neo-Punic bṣʿ 2 (Krahmalkov 123) | Krahmalkov 123 | gloss withheld |
+| Emar | bi-iṣ-ḫi, bi-iṣ-ḫu /biṣʿu/ 1 (Pentiuc 2001, 38–39) | Pentiuc 2001 38–39 | gloss withheld |
+| Aramaic | bəṣaʕ (LGz. 88) | LGz. 88 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KI_KI_RA_JA
 title: "KI-KI-RA-JA"
 desc: "kikkarāya: (men) of the Kikkar, 'round district' (gentilic heading of a head-count roster). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "toponym"]
+tags: ["linear-a", "word", "tier-1", "administrative", "gentilic", "hapax", "personnel"]
 kind: "word"
 form: "KI-KI-RA-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | (men) of the Kikkar, 'round district' (gentilic heading of a head-count roster) |
 | Root | k-k-r |
 | Proto-Semitic | \*kakkar-/\*kikkar- (#1097) |
-| Language layer | NWS |
-| Category | toponym |
+| Language layer | Semitic |
+| Tags | administrative, gentilic, hapax, personnel |
 | Semantic field | toponym |
 
 ### Note
 
-HT 85b: KI-KI-RA-JA · heads the face over eleven entries of one unit each (KI-RE-TA₂ 1, QE-KA 1 … WA-DU-NI-MI 1, MA-DI 1, QA-\*310-I 1). HT 85a is headed A-DU · \*307+\*307 · VIR+\[?\], so the tablet counts men, and a group label fits the heading. -JA writes the gentilic -āya. Weak point: KI-KI-RA leaves the a of kikkār unwritten or writes it i. Rivals: kikkār 'round loaf' (1 Sam 2:36), one to each man; a personal name heading the roster. KE-KI-RU (HT 94b) is on the same root. One attestation.
+HT 85b: KI-KI-RA-JA · heads the face over eleven entries of one unit each (KI-RE-TA₂ 1, QE-KA 1 … WA-DU-NI-MI 1, MA-DI 1, QA-\*310-I 1). HT 85a is headed A-DU · \*307+\*307 · VIR+\[?\], so the tablet counts men, and a group label fits the heading. -JA writes the gentilic -āya: the men of the Kikkar, kikkār 'territory around a place', as the Kikkar of the Jordan (Gen 13:10; HALOT 473). KI-KI-RA writes kikkər-, the stem before an ending, as construct kikkəráyim 'two talents' (2 Kgs 5:23). Rivals: kikkār 'round loaf' (1 Sam 2:36; HALOT 473), one to each man; a personal name heading the roster. KE-KI-RU (HT 94b) is on the same root. One attestation.
 
 ### Cognates
 

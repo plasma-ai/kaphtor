@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0090_then_now_indeed_that_because_for
 title: "*kī: 'then, now, indeed; that, because, for'"
-desc: "Proto-Semitic *kī, 'then, now, indeed; that, because, for': reflexes in 7 language(s)."
+desc: "Proto-Semitic *kī, 'then, now, indeed; that, because, for': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0090"
@@ -36,6 +36,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | k (HALOT 470); k (T 135) | HALOT 470; T 135 | gloss withheld |
 | Punic | chy (HALOT 470) | HALOT 470 |  |
 | Aramaic | EgArm. ky (HALOT 470) | HALOT 470 |  |
+| Epigraphic South Arabian | Sab k- (SD 75) | SD 75 | gloss withheld |
+| Moabite | ky (DNWSI 497) | DNWSI 497 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_MI_DA_U
 title: "A-MI-DA-U"
 desc: "ʿAmmī-dāʿ(u): My kinsman knows (sentence name). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "A-MI-DA-U"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | My kinsman knows (sentence name) |
 | Root | ʿ-m-m + y-d-ʿ |
 | Proto-Semitic | \*ʕamm- (#44) + \*ydʕ (#2500) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Kinship-theophoric sentence name: ʿammī 'my kinsman (as divine epithet)' + dāʿ (√y-d-ʿ 'know'). Both elements independently productive—ʿammī- in ʿAmmîšaddāy (Num 1:12), ʿAmmînādāb (Exod 6:23), ʿAmmîhûd (Num 1:10), Amorite royal Ammi-ditana/Ammi-ṣaduqa; -dāʿ in ʾĂbîdāʿ and ʾEldāʿā (both Gen 25:4), ʾElyādāʿ (2 Sam 5:16), Ugaritic ydʿ attested as personal/divine name. The abī-/aḫī-/ʿammī- rotation (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab—all on one base) makes ʿAmmī-dāʿ a predicted paradigm cell beside attested ʾĂbî-dāʿ. Initial ʿa- &gt; A per guttural dropping; qty 1 on ZA10a among personal names. A-MI-DA-O (PH(?) 31b.5) is broken at the start, \]A-MI-DA-O (GORILA I 319), and is not counted. RIVAL: a Hurrian-layer name (cf. MI-TA). Cf. JA-DA-SU (yadaʿšu), same verbal root. Howard (JSS 68.1, 2023) tabulates the ʿAmmī+verb sentence-name template in the appendix (ʿAmmi-yepuʿ, kings of Talhayum, attested Mari/Terqa/Šeḥna), with ʾIli-yepaʿ at Alalah showing the first-element rotation in cuneiform. See \*306+MI.
+ZA 10a: among personal names, quantity 1. A sentence name, ʿammī 'my kinsman', a divine epithet, with dāʿ (√y-d-ʿ 'know'): ʿAmmī-dāʿ 'My kinsman knows'. ʿammī- opens ʿAmmîšaddāy (Num 1:12) and ʿAmmînādāb (Exod 6:23); -dāʿ closes ʾĂbîdāʿ and ʾEldāʿā (Gen 25:4) and ʾElyādāʿ (2 Sam 5:16). The abī-/aḫī-/ʿammī- rotation on one base (Abinadab, Ahinadab 1 Kgs 4:14, Amminadab) sets ʿAmmī-dāʿ beside the attested ʾĂbîdāʿ. Initial ʿa- is written A. Howard tabulates the ʿAmmī + verb sentence name (ʿAmmi-yepuʿ, kings of Talhayum, at Mari, Terqa and Šeḥna), with ʾIli-yepaʿ at Alalah rotating the first element (Howard 2023, appendix). A-MI-DA-O (PH(?) 31b.5) is broken at the start, \]A-MI-DA-O (GORILA I 319). Rival: a Hurrian name (cf. MI-TA). Cf. JA-DA-SU (Yadaʿ-Šum), from the same verb. One attestation. See \*306+MI.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Kinship-theophoric sentence name: ʿammī 'my kinsman (as divine epithet)' + dā
 
 ### Source
 
-di Mino; Pagan 1998; Gelb 1980
+di Mino; Pagan 1998; Gelb 1980; Howard 2023
 
 ## Attestations
 
@@ -70,8 +70,8 @@ di Mino; Pagan 1998; Gelb 1980
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

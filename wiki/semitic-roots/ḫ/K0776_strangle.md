@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Tigre | ḫanaqa (HALOT 336) | HALOT 336 |  |
 | Aramaic | ḥănaq (LGz. 263; Qumran 88 apud CAL) | LGz. 263; CAL |  |
 | Syrian Aramaic | ḥənaq (LGz. 263; Payne Smith 149) | LGz. 263; Payne Smith 149 |  |
-| Mandaic Aramaic | hnq (LGz. 263; Drower/Macuch 151a apud CAL) | LGz. 263; Macuch 151a; CAL |  |
+| Mandaic Aramaic | hnq (LGz. 263; MD 151) | LGz. 263; MD 151 |  |
 | Ugaritic | ḫnq (LGz. 263) | LGz. 263 |  |
 | Tigrinya | ḥanäqä (LGz. 263) | LGz. 263 |  |
 | Argobba | hannäqa (LGz. 263) | LGz. 263 |  |

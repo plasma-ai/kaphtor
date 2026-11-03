@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/S100_hundred
 title: "*mʾt: 'hundred'"
-desc: "Proto-Semitic *mʾt, 'hundred': reflexes in 22 language(s)."
+desc: "Proto-Semitic *mʾt, 'hundred': reflexes in 23 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S100"
@@ -34,8 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | mēʾā (OLA80 §35.20) | OLA80 §35.20 |  |
 | Arabic | miʾat (OLA80 §35.20) | OLA80 §35.20 |  |
 | Ugaritic | mit 'hundred' | Anderson–Moser 2024 root mʾt |  |
-| Punic | mʾt '100' | Anderson–Moser 2024 root mʾt |  |
-| Aramaic | mʾh (DNWSI 586 apud CAL) | DNWSI 586; CAL; Anderson–Moser 2024 root mʾt | gloss withheld |
+| Punic | mʾt; Neo-Punic mʾtm (Krahmalkov 268) | Krahmalkov 268; Anderson–Moser 2024 root mʾt | gloss withheld |
+| Aramaic | mʾh (DNWSI 586) | DNWSI 586; Anderson–Moser 2024 root mʾt | gloss withheld |
 | Phoenician | mʾtm (HALOT 538) | HALOT 538 | gloss withheld |
 | Mandaic Aramaic | mʾ (HALOT 538) | HALOT 538 |  |
 | Epigraphic South Arabian | mʾt (HALOT 538; Sabaweb lemma 1468) | HALOT 538; Sabaweb lemma 1468 | gloss withheld |
@@ -48,9 +48,10 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | mäto (LGz. 324) | LGz. 324 |  |
 | Pre-Islamic North Arabian | Safaitic mʾt (Al-Jallad–Jaworska 94) | Al-Jallad–Jaworska 94 | gloss withheld |
 | Eblaitic | ma-i-at, ma-i-ḫu-at (VE 1363', 1364' apud SEDonline 1607; Krebernik 1983, 44) | VE 1363', 1364'; SEDonline 1607; Krebernik 1983, 44 | gloss withheld |
-| Canaanite | Moab mˀt (DNWSI 586 apud SEDonline 1607) | DNWSI 586; SEDonline 1607 | gloss withheld |
+| Canaanite | Moab mˀt (DNWSI 586) | DNWSI 586 | gloss withheld |
 | Judaic Aramaic | JBA mˀā (DJBA 634 apud SEDonline 1607) | DJBA 634; SEDonline 1607 | gloss withheld |
 | Tigre | məˀət (WTS 131 apud SEDonline 1607) | WTS 131; SEDonline 1607 | gloss withheld |
+| Biblical Aramaic | məʾā (HALOT 538) | HALOT 538 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

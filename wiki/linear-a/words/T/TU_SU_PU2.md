@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TU_SU_PU2
 title: "TU-SU-PU₂"
 desc: "Tešub: Teshub (Hurrian storm god theophoric PN). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "TU-SU-PU₂"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tešub |
 | Meaning | Teshub (Hurrian storm god theophoric PN) |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT49a personnel register: name + 1 unit allocation alongside KU-PA₃-NU, TA-NA-TI, and 8 other PNs. Hapax \|\| HURRIAN READING: Skeleton t-s-p matches Tešub (b/p₂ neutralization). Hurrian PN layer expected given archaeological Hurrian contact (faience, cylinder seals) \|\| PARADIGM: TE-SU is the predicted rendering of Teššub; TU-SU-PU₂ (HT49a) is the only attested one.
+HT 49a, a personnel register: TU-SU-PU₂ 1, beside KU-PA₃-NU, TA-NA-TI and eight other names. Hurrian Tešub, the storm god, as a theophoric name: TU-SU-PU₂ writes t-s-b, with PU₂ for b. Faience and cylinder seals show Hurrian contact. Weak point: one attestation.
 
 ### Cognates
 
@@ -70,8 +70,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | hurrian (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | hurrian (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

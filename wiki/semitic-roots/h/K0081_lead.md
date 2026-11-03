@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | hadah 'stretch' | Anderson–Moser 2024 root hdy |  |
 | Epigraphic South Arabian | Sab hdy (SD 55; Biella 105; Sabaweb lemma 4216) | SD 55; Biella 105; Sabaweb lemma 4216 | gloss withheld |
 | Syrian Aramaic | hdā 'lead, direct; follow' (Payne Smith 100) | Payne Smith 100 |  |
-| Pre-Islamic North Arabian | Safaitic hdy (Al-Jallad–Jaworska 77) | Al-Jallad–Jaworska 77 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic hdy (Al-Jallad–Jaworska 77); hd (Al-Jallad 2026, 60) | Al-Jallad–Jaworska 77; Al-Jallad 2026 60 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

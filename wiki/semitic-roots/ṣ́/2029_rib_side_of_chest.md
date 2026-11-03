@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/2029_rib_side_of_chest
 title: "*ṣ̂il(a)ʕ- {} *ĉ̣il(a)ʕ-: 'rib, side (of chest)'"
-desc: "Proto-Semitic *ṣ̂il(a)ʕ- {} *ĉ̣il(a)ʕ-, 'rib, side (of chest)': reflexes in 13 language(s)."
+desc: "Proto-Semitic *ṣ̂il(a)ʕ- {} *ĉ̣il(a)ʕ-, 'rib, side (of chest)': reflexes in 14 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2029"
@@ -43,6 +43,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ʕălaʕ (ʕilʕā) \[Ja 1085\]; ʔlʕ, det. ʔälʕā \[DJPA 60a apud CAL\] | Ja 1085; DJPA 60a; CAL | gloss withheld |
 | Syrian Aramaic | ʔelʕā 'rib' \[Brock 22\]. | Brock 22 |  |
 | Aramaic | OFF ʕlʕ-y (pl.constr.) \[HJ 863\] | HJ 863 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḍlʿ (Al-Jallad 2026, 42) | Al-Jallad 2026 42 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

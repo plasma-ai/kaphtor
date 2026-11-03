@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/V/VIR_plus_star307
 title: "VIR+*307"
 desc: "VIR-dubur: sanctuary personnel. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "personnel"]
+tags: ["linear-a", "word", "tier-3", "compound", "ligature", "logogram", "personnel", "ritual"]
 kind: "word"
 form: "VIR+*307"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | sanctuary personnel |
 | Root | d-b-r |
 | Proto-Semitic | \*dVb(V)r- (#151) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | compound, ligature, logogram, personnel, ritual |
 | Semantic field | personnel |
 
 ### Note
 
-Compound logogram: VIR + DUBUR. Temple workers receiving rations at Khania. See DU-PU₂-RE.
+VIR with \*307 dubur 'sanctuary' (see DU-PU₂-RE): sanctuary personnel, at Khania alone. KH 9 opens A-SI-SU-PO-A · VIR+\*307, before NI and CYP entries; KH 14 VIR+\*307 2 follows NI ¼ among CYP entries; KH 19 \*306-VIR+\*307 13 heads OLE+TA ⅓. Heb. dəbîr 'rear room, holy of holies' (HALOT 208), Egyptian group writing d-bi₄-r dabīr 'naos, inner sanctuary' (GlOS 1, 140).
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Compound logogram: VIR + DUBUR. Temple workers receiving rations at Khania. See 
 
 ### Source
 
-di Mino
+di Mino; HALOT; GlOS 1
 
 ## Attestations
 

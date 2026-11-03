@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0331_angry
 title: "*qaṣap-: 'angry'"
-desc: "Proto-Semitic *qaṣap-, 'angry': reflexes in 5 language(s)."
+desc: "Proto-Semitic *qaṣap-, 'angry': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0331"
@@ -34,6 +34,8 @@ updated: 2026-10-22T17:38:31Z
 | Punic | qṣp 'angry' | Anderson–Moser 2024 root qṣp |  |
 | Canaanite | EA ḳaṣāpu (CAD Q 146, Rainey 1996 II 307‒308 apud SEDonline 147) | CAD Q 146, Rainey 1996 II 307‒308; SEDonline 147 | gloss withheld |
 | Syrian Aramaic | qṣp (Kogan 2015, ch. 4 §3.2 no. 7); qṣap, qṣep (Payne Smith 516) | Kogan 2015 ch. 4 §3.2 no. 7; Payne Smith 516 | gloss withheld |
+| Biblical Aramaic | qṣp (HALOT 1124); qəṣap (HALOT BArm. s.v. קְצַף) | HALOT 1124; HALOT BArm. s.v. קְצַף | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic qṣf (Al-Jallad 2026, 113) | Al-Jallad 2026 113 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

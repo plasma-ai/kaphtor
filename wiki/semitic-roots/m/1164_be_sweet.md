@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Mehri | maṭq |  |  |
-| Soqotri | maṭaq |  |  |
+| Soqotri | maṭaq; meṭoq (LGz. 373) | LGz. 373 | gloss withheld |
 | Akkadian | matāqu 1 |  |  |
 | Harsusi | maṭq |  |  |
 | Tigre | mäṭṭäḳä 1 |  |  |
@@ -40,8 +40,8 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | mtq 1 |  |  |
 | Syrian Aramaic | mtḳ |  | gloss withheld |
 | Aramaic | MTQ (Aramaic Root Atlas; CAL s.v. mtq#2) | Aramaic Root Atlas; CAL s.v. mtq#2; Anderson–Moser 2024 root mtq | gloss withheld |
-| Geez | metūq (HALOT 654) | HALOT 654 |  |
-| Arabic | mṭq (HALOT 655) | HALOT 655 |  |
+| Geez | metūq (HALOT 654); məṭqat (LGz. 373) | HALOT 654; LGz. 373 | gloss withheld |
+| Arabic | mṭq (HALOT 655); maṭqa (LGz. 373) | HALOT 655; LGz. 373 | gloss withheld |
 | Amorite | mataqum, matiqum, matqum (Gelb AS 21, 24) | Gelb AS 21 24 | gloss withheld |
 | Eblaitic | tá-ma-tù-ḳù (Kogan 2011, 239; VE 42; Krebernik 1983, 2); da-ma-du-gu-um, da-ma-du-gu /tamtuq/ (Sanmartín GlOS 2, 59); Civil 2017, 98, 125 divides da-ma-du gú-(um) (= Sum. níg-ki) and takes da-ma-du as, cf. 1052 \*tmm | Kogan 2011 239; VE 42; Krebernik 1983, 2; Sanmartín GlOS 2, 59; Civil 2017 | gloss withheld |
 | Judaic Aramaic | mətīḳ (Kogan 2011, 239) | Kogan 2011 239 | gloss withheld |

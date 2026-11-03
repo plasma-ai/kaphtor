@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2782_forest_wooded_hill
 title: "*ḫal(a)b-: 'forest, wooded hill'"
-desc: "Proto-Semitic *ḫal(a)b-, 'forest, wooded hill': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḫal(a)b-, 'forest, wooded hill': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2782"
@@ -29,6 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Akkadian | ḫalb/pu; ḫilbu (CAD Ḫ 185) | CAD Ḫ 185 | gloss withheld |
 | Ugaritic | ḫlb (HALOT 315) | HALOT 315 | gloss withheld |
 | Amorite | ḫalb: i-di-in-ᵈḫa-la-ab (Sanmartín GlOS 1, 269) | Sanmartín GlOS 1, 269 | gloss withheld |
 

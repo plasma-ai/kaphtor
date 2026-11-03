@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/2876_cistern
 title: "*birkat-: 'cistern'"
-desc: "Proto-Semitic *birkat-, 'cistern': reflexes in 4 language(s)."
+desc: "Proto-Semitic *birkat-, 'cistern': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2876"
@@ -33,6 +33,8 @@ updated: 2026-10-22T17:38:31Z
 | Ugaritic | brkt/y (DULAT 235) | DULAT 235 | gloss withheld |
 | Epigraphic South Arabian | brkt (SD 31; Sabaweb lemma 3968) | SD 31; Sabaweb lemma 3968 | gloss withheld |
 | Hebrew | bərēkā (HALOT 161 apud SEDonline 1766) | HALOT 161; SEDonline 1766 | gloss withheld |
+| Emar | bi-ri-ka-ti, bi-ri-kà-ti /birrikātu/ (Pentiuc 2001, 40–41) | Pentiuc 2001 40–41 | gloss withheld |
+| Canaanite | EG SYLL bi₄=-r=ka=ta, b=-r=ka=ta /\*birkáta, barkáta/ (Hoch 106–107) | Hoch 106–107 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

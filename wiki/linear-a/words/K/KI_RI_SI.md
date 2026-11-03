@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/K/KI_RI_SI
 title: "KI-RI-SI"
-desc: "Kiriš: Kiriš, divine name (Amorite DN Kiriš/Kirišu) or theophoric short name; oil recipient. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "divine_name"]
+desc: "Kiriš: Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "loanword", "ritual", "theonym"]
 kind: "word"
 form: "KI-RI-SI"
 datasets: ["lexicon", "onomasticon"]
@@ -32,15 +32,15 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Kiriš |
-| Meaning | Kiriš, divine name (Amorite DN Kiriš/Kirišu) or theophoric short name; oil recipient |
-| Root | k-r-š (Amorite KRS; DN Kiriš) |
-| Language layer | NWS |
-| Category | divine_name |
+| Meaning | Kiriš, the god of the Amorite names, as oil recipient; rivals Hurrian Kiriš and a personal name |
+| Root | Kiriš (Pre-Greek) |
+| Language layer | Semitic |
+| Tags | hapax, loanword, ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-TY3b (Tylissos, LM IB) KI-RI-SI OLE+MI 6 heads side b of an oil-distribution tablet (other recipients: PI-KU-ZU, ZA-\*321, A-DU, A-DA, KO-A-DU-WA). Final SI writes -š (sibilant merger), matching Amorite Kiriš. Kiri(š) is a productive Mari theophoric element; Nakata never marks it female, so likely a male god of unknown identity and function. No published equation with Elamite Kiririša: separate deity. Rival: Hurrian kir + -š (Gelb 1944: 113)—Linear A's Hurrian layer makes that parse equally available. Oil recipient parallels Linear B qe-ra-si-ja at Knossos, but Kiriš has ri where qe-ra- has ra. Weak points: one attestation; may be a personal name.
+TY 3b (Tylissos, LM IB): KI-RI-SI OLE+MI 6 heads side b of an oil-distribution tablet whose other recipients are PI-KU-ZU, ZA-\*321, A-DU, A-DA and KO-A-DU-WA. SI writes the final š. Kiriš, Kirišu, a god of the Amorite names (Gelb 1980, 23): ʾIlunā-kirišu 'Kiriš is our god' at Tuttul (Buck 2018, 338; Gelb 1980, no. 2556) and A-WI-KI-RI-IŠ at Mari (ARM 14 106:18; Gelb 1980, no. 563). Rival: Hurrian, where Awi-kiriš reads 'Kiriš, save him!' and Putum-kiriš 'Kiriš begot him' (Monti 2017, 115, 111), and kiriš stands beside Kirip-atal and Nuzi Kirip-tilla (Gelb 1944, 113). Rival: a personal name. Cf. Linear B qe-ra-si-ja, an oil recipient at Knossos, with ra where KI-RI has ri. Weak point: the god is known only from names. One attestation.
 
 ### Cognates
 
@@ -52,13 +52,19 @@ TY3b (Tylissos, LM IB) KI-RI-SI OLE+MI 6 heads side b of an oil-distribution tab
 
 ### Source
 
-di Mino; Monti 2017
+di Mino; Gelb 1980; Buck 2018; Monti 2017; Gelb 1944
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | none |
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Tylissos | Tablet | incomplete |
+
+## In translations
+
+| Document | Reading there | Gloss there | Confidence |
+|---|---|---|---|
+| [[wiki/linear-a/inscriptions/TY/TY/TY3b\|TY3b]] | Kiriš | Kiriš (divine name or theophoric short name), an oil recipient; oil-MI 6 | SPECULATIVE |
 
 ## Onomasticon
 

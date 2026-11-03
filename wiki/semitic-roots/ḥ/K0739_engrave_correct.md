@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0739_engrave_correct
 title: "*ḥaqaq-: 'engrave', 'correct'"
-desc: "Proto-Semitic *ḥaqaq-, 'engrave', 'correct': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ḥaqaq-, 'engrave', 'correct': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0739"
@@ -38,6 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Epigraphic South Arabian | ḥqq (HALOT 347) | HALOT 347 |  |
 | Syrian Aramaic | ḥuqqā (LGz. 240) | LGz. 240 | gloss withheld |
 | Tigrinya | ḥaqqi (LGz. 240) | LGz. 240 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥq; ḥqq (Al-Jallad 2026, 76) | Al-Jallad 2026 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

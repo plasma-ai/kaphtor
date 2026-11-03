@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/O/OLE_plus_TA
 title: "OLE+TA"
 desc: "ṭābu: fine-grade olive oil; 'good oil' as an administrative quality designation. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "ligature", "logogram", "oil"]
 kind: "word"
 form: "OLE+TA"
 datasets: ["lexicon"]
@@ -10,7 +10,7 @@ tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
 reading: "ṭābu"
-attestations: ["HT30", "HT35", "HT28a", "KH82"]
+attestations: ["HT30", "HT35", "KH19", "KH39", "KH55", "KH61", "KH85"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | fine-grade olive oil; 'good oil' as an administrative quality designation |
 | Root | ṭ-y-b |
 | Proto-Semitic | \*ṭayb- (#2494) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, foodstuff, ligature, logogram, oil |
 | Semantic field | commodity |
 
 ### Note
 
-OLE ideogram + TA complement (8 att., Haghia Triada + Khania). Akk ṭābu, Heb ṭōb, Ug ṭb 'good'. TA = /ṭa/ via T-class neutralization = initial syllable of ṭābu. Direct Ugaritic administrative parallel: šmn ṭb 'good oil' (KTU 4.14, 4.91, 4.158); Ebla Ì.DU₁₀ = sa-ma-nu-um da-bù samnum ṭābu 'good oil', D for ṭ (GlOS 2, 311). Small fractional quantities (⅕, 𐝓) suggest a premium grade distributed in measured amounts. \|\| Huehnergard: Ug ṭyb (ṭb) /ṭaṭib-/ (D-stem) "to make good, return"; D-stem: tttb, ṭtb /ṭaṭib-/ "make good." BH cognate: ṭōb "good" (Huehnergard 2012, paradigm section). See DA-I-PI-TA.
+OLE with the complement TA, on HT 30 and HT 35 at Haghia Triada and on KH 19, 39, 55, 61 and 85 at Khania, in small fractions (⅕, ⅓, ½, 𐝓), a premium grade issued in measured amounts. ṭābu 'good': Akk. ṭābu, Heb. ṭōb, Ug. ṭb, TA writing ṭa as its first syllable. Ugarit issues šmn ṭb 'good oil' (KTU 4.14, 4.91, 4.158), and Ebla writes Ì.DU₁₀ = sa-ma-nu-um da-bù samnum ṭābu 'good oil', D for ṭ (GlOS 2, 311). See DA-I-PI-TA.
 
 ### Cognates
 
@@ -62,8 +62,11 @@ di Mino; GlOS 2
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT35\|HT35]] | Haghia Triada | Tablet | none |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none; form not in transliteration |
-| [[wiki/linear-a/inscriptions/KH/KH/KH82\|KH82]] | Khania | Tablet | none; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KH/KH/KH19\|KH19]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH39\|KH39]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH55\|KH55]] | Khania | Tablet | complete |
+| [[wiki/linear-a/inscriptions/KH/KH/KH61\|KH61]] | Khania | Tablet | none |
+| [[wiki/linear-a/inscriptions/KH/KH/KH85\|KH85]] | Khania | Tablet | none |
 
 ## In translations
 

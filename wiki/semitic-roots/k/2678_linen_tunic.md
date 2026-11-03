@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ktn (Krahmalkov 246); ktn (T 151) | Krahmalkov 246; T 151 | gloss withheld |
 | Hebrew | kuttōnet (HALOT 505) | HALOT 505 | gloss withheld |
 | Syrian Aramaic | kettānā, kuttīnā (HALOT 505) | HALOT 505 | gloss withheld |
-| Mandaic Aramaic | kitana, kituna (HALOT 505; Drower/Macuch 216a apud CAL) | HALOT 505; Macuch 216a; CAL | gloss withheld |
+| Mandaic Aramaic | kitana, kituna (HALOT 505; MD 216) | HALOT 505; MD 216 | gloss withheld |
 | Aramaic | ktnʾ (T 151) | T 151 |  |
 | Judaic Aramaic | kitnaʾ (T 151) | T 151 |  |
 
@@ -43,6 +43,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Greek χιτών 'tunic' (loanword).
+Borrowed as Greek χιτών/κιθών 'tunic', Mycenaean ki-to, and with metathesis Latin tunica (Rendsburg 2026, 214).
 
 <!-- END kaphtor:record -->

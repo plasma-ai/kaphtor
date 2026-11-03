@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star306_TA_JE
 title: "*306-TA-JE"
 desc: "ʿaṭāye: gift, offering (votive label). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "ritual", "votive"]
 kind: "word"
 form: "*306-TA-JE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | gift, offering (votive label) |
 | Root | ʿ-ṭ-w |
 | Proto-Semitic | \*ʕVtVw- (#857) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual, votive |
 | Semantic field | ritual |
 
 ### Note
 
-Not √ʿ-t-y 'to come': 'come' is aleph-initial, PS \*ʾtw (Heb. ʾātā, Aram. ʾătā, Arab. ʾatā, Ug. ʾtw), so it does not corroborate \*306=ʿA. Sole word on one inked object from Arkhanes (ARKH Zc 8; FO Zc 1 is the same object): a votive label. TA covers ṭ; III-weak noun \*ʿaṭāy- with the glide written JE. Root attested in Arabic only: SPECULATIVE.
+ARKH Zc 8 (FO Zc 1 is the same object), the sole word on an inked object from Arkhanes: a votive label. ʿaṭāye 'gift': Arb. ʿaṭāʾ 'a gift' (Lane 2085), √ʿ-ṭ-w 'to give', with TA for ṭ and the glide of the III-weak noun \*ʿaṭāy- written JE. Weak point: the root is attested in Arabic alone. One attestation.
 
 ### Cognates
 

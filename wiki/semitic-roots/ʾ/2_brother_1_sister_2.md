@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/2_brother_1_sister_2
 title: "*ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2: 'brother' 1, 'sister' 2"
-desc: "Proto-Semitic *ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2, 'brother' 1, 'sister' 2: reflexes in 26 language(s)."
+desc: "Proto-Semitic *ʾaḫ(ʷ)- 1, *(ʾa-)ḫVw-at- 2, 'brother' 1, 'sister' 2: reflexes in 27 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2"
@@ -51,11 +51,12 @@ updated: 2026-10-22T17:38:31Z
 | Tigrinya | ḥaw 1, ḥawti 2 (Bass. 431) | Bass. 431 |  |
 | Modern South Arabian | aġā, aġayw (OLA80 §31.30) | OLA80 §31.30 | gloss withheld |
 | Eblaitic | a-ḫu-um /ʔaḫum/ (VE 1043; Krebernik 1983, 37); a-ḫa-tum /ʔaḫātum/ (VE 1183; Krebernik 1983, 42); Ba-na-a-ḫu (OLA80 §38.10); a-ḫu-um /ʾaḫ/ 1; du-a-ḫa /ʾ-ḫ-w/ 1; a-ḫa-tum /ʾaḫat/ 2 (Sanmartín GlOS 1, 14–15) | VE 1043; Krebernik 1983, 37; VE 1183; Krebernik 1983, 42; OLA80 §38.10; Sanmartín GlOS 1, 14–15 | gloss withheld |
-| Aramaic | ʾḥ (DNWSI 28 apud CAL) | DNWSI 28; CAL; Anderson–Moser 2024 root ʾḫ | gloss withheld |
+| Aramaic | ʾḥ (DNWSI 28) | DNWSI 28; Anderson–Moser 2024 root ʾḫ | gloss withheld |
 | Punic | ʾḥ 'brother'; ʾḥt 'sister' | Anderson–Moser 2024 root ʾḫ |  |
 | Amorite | ʾaḫum, ʾaḫatum (Gelb AS 21, 13); ʾaḫu, ʾaḫâtu (Buck 2019, 323); ʾaḫ 1: (=)a-ḫu-um/am/im(=), a-ḫi-ḫi-il, a-ḫi (Ur III); ʾaḫat 2: a-ḫa-tum/ta, a-ḫa-ti(-ma), a-ḫa-tu-ia (Sanmartín GlOS 1, 14–15) | Gelb AS 21 13; Buck 2019, 323; Sanmartín GlOS 1, 14–15 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾḫ (Al-Jallad–Jaworska 41) | Al-Jallad–Jaworska 41 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾḫ (Al-Jallad–Jaworska 41); Hismaic ʾḫ; Dadanitic ʾḫ 1 (Al-Jallad 2026, 4); Safaitic ʾḫt 2; Dadanitic ʾḫt; Hismaic ʾḫt; Safaitic ʾḫy 1; ʾḫyt 2 (Al-Jallad 2026, 5) | Al-Jallad–Jaworska 41; Al-Jallad 2026 4; Al-Jallad 2026 5 | gloss withheld |
 | Jibbali | aɣá (JL 90 apud SEDonline 2048) | JL 90; SEDonline 2048 | gloss withheld |
+| Biblical Aramaic | \*ʔaḥ 1 (HALOT BArm. s.v. אַח) | HALOT BArm. s.v. אַח | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

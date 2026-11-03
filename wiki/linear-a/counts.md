@@ -22,15 +22,15 @@ Every number on this page is computed from the data files.
 
 | Measure | Count |
 |---|---|
-| Translated inscriptions (complete) | 447 |
-| Translations incomplete | 75 |
+| Translated inscriptions (complete) | 450 |
+| Translations incomplete | 82 |
 | Corpus records | 1,719 |
 | Documents | 1,603 |
-| Lexicon entries | 614 |
+| Lexicon entries | 646 |
 | Resolved signs (syllabic + logogram) | 5 (2 + 3) |
 | Fraction values resolved | 3 |
-| Onomasticon entries | 352 |
-| Unread words listed | 398 |
+| Onomasticon entries | 372 |
+| Unread words listed | 370 |
 
 ## Documents against the published census
 
@@ -52,37 +52,37 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 
 | Confidence | Tier | Entries |
 |---|---|---|
-| CONFIRMED | 4 | 20 |
-| PROBABLE | 3 | 70 |
+| CONFIRMED | 4 | 19 |
+| PROBABLE | 3 | 69 |
 | CANDIDATE | 2 | 245 |
-| SPECULATIVE | 1 | 279 |
+| SPECULATIVE | 1 | 313 |
 
 ## Signs by status
 
 | Kind | Resolved | Proposed | Speculative | Conventional |
 |---|---|---|---|---|
-| syllabic | 2 | 12 | 7 | 55 |
-| logograms | 3 | 21 | 13 | 0 |
+| syllabic | 2 | 12 | 8 | 55 |
+| logograms | 3 | 20 | 14 | 0 |
 | fractions | 3 | 11 | 3 | 0 |
 
 ## Onomasticon by type
 
 | Type | Entries |
 |---|---|
-| personal name | 246 |
-| title | 40 |
-| theonym | 27 |
-| toponym | 23 |
-| gentilic | 12 |
+| personal name | 249 |
+| title | 51 |
+| theonym | 30 |
+| toponym | 27 |
+| gentilic | 11 |
 | toponym gentilic | 4 |
 
 ## Unread words by status
 
 | Status | Words | Meaning |
 |---|---|---|
-| edge overlap | 22 | a lexicon word sits at one edge; often a chance 2-sign overlap |
-| role only | 229 | classed by role only (onomasticon type or translation label), no reading |
-| unread | 147 | nothing known |
+| edge overlap | 19 | a lexicon word sits at one edge; often a chance 2-sign overlap |
+| role only | 210 | classed by role only (onomasticon type or translation label), no reading |
+| unread | 141 | nothing known |
 
 ## By site
 
@@ -90,17 +90,17 @@ Sites with ten or more records; every site is in [[wiki/linear-a/by_site|by site
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 329 | 347 |
-| Khania | 226 | 223 | 36 | 66 |
-| Phaistos | 66 | 48 | 9 | 38 |
-| Knossos | 57 | 51 | 12 | 44 |
-| Zakros | 53 | 40 | 5 | 87 |
-| Palaikastro | 25 | 25 | 10 | 36 |
+| Haghia Triada | 1,111 | 1,053 | 333 | 360 |
+| Khania | 226 | 223 | 36 | 69 |
+| Phaistos | 66 | 48 | 9 | 40 |
+| Knossos | 57 | 51 | 13 | 45 |
+| Zakros | 53 | 40 | 5 | 92 |
+| Palaikastro | 25 | 25 | 8 | 36 |
 | Malia | 22 | 11 | 0 | 9 |
-| Thera | 19 | 18 | 2 | 4 |
+| Thera | 19 | 18 | 2 | 3 |
 | Iouktas | 16 | 16 | 12 | 17 |
-| Arkhanes | 12 | 9 | 2 | 22 |
+| Arkhanes | 12 | 9 | 2 | 24 |
 | Syme | 12 | 12 | 6 | 16 |
-| Petras | 11 | 11 | 3 | 15 |
+| Petras | 11 | 11 | 3 | 18 |
 
 <!-- END kaphtor:record -->

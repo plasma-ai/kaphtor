@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/807_burn_dry
 title: "*ḥr: 'burn', 'dry'"
-desc: "Proto-Semitic *ḥr, 'burn', 'dry': reflexes in 17 language(s)."
+desc: "Proto-Semitic *ḥr, 'burn', 'dry': reflexes in 18 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "807"
@@ -47,6 +47,7 @@ updated: 2026-10-22T17:38:31Z
 | Pre-Islamic North Arabian | Safaitic ḥr (Al-Jallad–Jaworska 86) | Al-Jallad–Jaworska 86 | gloss withheld |
 | Harari | ḥarära \[LHar 86\] | LHar 86 | gloss withheld |
 | Syrian Aramaic | ḥar 'be dry, husky' (Payne Smith 155) | Payne Smith 155 |  |
+| Eblaitic | ŠÀ.ḪUL = ʔà-la/a-lum /ḥarār-/, A.UD = da-la-lum /taḥrār-/ (Sanmartín GlOS 1, 250) | Sanmartín GlOS 1, 250 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

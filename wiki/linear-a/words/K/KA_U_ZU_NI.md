@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_U_ZU_NI
 title: "KA-U-ZU-NI"
 desc: "Kawṯuni: Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "KA-U-ZU-NI"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kawṯuni |
 | Meaning | Kawṯuni (Hurrian personal name Kaw-šuni); rival Kawṯān, Heb. Kûšān |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

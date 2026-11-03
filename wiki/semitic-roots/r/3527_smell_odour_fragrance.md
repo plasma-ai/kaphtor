@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3527_smell_odour_fragrance
 title: "*ryḥ: 'smell, odour, fragrance'"
-desc: "Proto-Semitic *ryḥ, 'smell, odour, fragrance': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ryḥ, 'smell, odour, fragrance': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3527"
@@ -36,6 +36,7 @@ updated: 2026-10-25T06:28:07Z
 | Mandaic Aramaic | riha (HALOT 1226) | HALOT 1226 | gloss withheld |
 | Arabic | rāʾiḥat, rīḥ (Lane 1182); rīḥat (HALOT 1226) | Lane 1182; HALOT 1226 | gloss withheld |
 | Geez | rĕḥē (HALOT 1226); rəḥe, pl. rəḥeyāt, (Lt) rəḫe (LGz. 467) | HALOT 1226; T; LGz. 467 | gloss withheld |
+| Biblical Aramaic | rēaḥ (HALOT BArm. s.v. רֵיחַ) | HALOT BArm. s.v. רֵיחַ | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

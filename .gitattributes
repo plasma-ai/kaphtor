@@ -4,6 +4,9 @@
 data/**/*.jsonl filter=lfs diff=lfs merge=lfs -text
 data/linear-a/corpus.json filter=lfs diff=lfs merge=lfs -text
 data/linear-a/paradigm-b/snapshot/corpus.json filter=lfs diff=lfs merge=lfs -text
+data/linear-a/sigla/database.js filter=lfs diff=lfs merge=lfs -text
+data/linear-a/sigla_db.json filter=lfs diff=lfs merge=lfs -text
+data/pre-greek/pregreek_lexicon.json filter=lfs diff=lfs merge=lfs -text
 data/semitic-roots/semitic_roots.json filter=lfs diff=lfs merge=lfs -text
 data/share-alike/egyptian/egyptian_documents.index.json filter=lfs diff=lfs merge=lfs -text
 

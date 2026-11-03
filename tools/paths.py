@@ -17,6 +17,7 @@ SHARE_ALIKE = DATA / "share-alike"
 LINEAR_A_DATA = DATA / "linear-a"
 CONTACT_DATA = DATA / "contact"
 SEMITIC_ROOTS_DATA = DATA / "semitic-roots"
+PRE_GREEK_DATA = DATA / "pre-greek"
 CACHE = Path(os.environ.get("XDG_CACHE_HOME") or Path.home() / ".cache") / "kaphtor"
 BACKUPS = Path(os.environ.get("XDG_STATE_HOME") or Path.home() / ".local" / "state") / "kaphtor" / "backups"
 

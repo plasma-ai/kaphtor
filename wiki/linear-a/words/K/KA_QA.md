@@ -40,15 +40,19 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Palaikastro |
 | Supports | Tablet 1 |
+
+### Note
+
+PK 1 .1 KA-QA 2, after SI-\[·\]-NE-TI 1 (GORILA I 281). Younger marks QA as doubtful. No reading.
 
 ## Unread
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-PK 1 .1 KA-QA 2, after SI-\[·\]-NE-TI 1, the only entry on the tablet with 2 (GORILA I 281). GORILA prints QA undotted, Younger underlines it as doubtful (Younger, Linear A Texts). No reading.
+PK 1 .1 KA-QA 2, after SI-\[·\]-NE-TI 1, the only entry on the tablet with 2 (GORILA I 281). GORILA prints QA undotted, Younger underlines it as doubtful (Younger, Linear A Texts). The copie tabulaire draws the second sign as a wide oval with knobs at both ends on a stem, unlike the QA of the copie normalisée. No reading.
 
 <!-- END kaphtor:record -->

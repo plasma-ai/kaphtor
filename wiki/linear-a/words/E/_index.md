@@ -2,14 +2,14 @@
 name: wiki/linear-a/words/E
 desc: "Words whose first sign begins with E, and words that open with an illegible sign."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-25T05:42:39Z
+updated: 2026-11-03T03:29:48Z
 ---
 
 # wiki/linear-a/words/E
 
 [[wiki/linear-a/words/_index|..]]
 
-[[wiki/linear-a/words/E/E|E]]: ḥemʾat: quantified commodity; perhaps butter, ghee, or cream. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/E/E|E]]: ḥemʾat: butter, ghee (ḥemʾat), a quantified commodity. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/E/E_KA|E_KA]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -17,7 +17,7 @@ updated: 2026-10-25T05:42:39Z
 
 [[wiki/linear-a/words/E/E_MI|E_MI]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/E/E_NA_SI|E_NA_SI]]: naḥāši: copper, bronze (commodity category). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/E/E_NA_SI|E_NA_SI]]: ʾenāš: men, people (section heading); rival copper, bronze. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/E/E_TA2_QE|E_TA2_QE]]: Unread (role only): personal name; 1 occurrence(s).
 

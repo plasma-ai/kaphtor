@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0354_trample
 title: "*rapās-: 'trample'"
-desc: "Proto-Semitic *rapās-, 'trample': reflexes in 5 language(s)."
+desc: "Proto-Semitic *rapās-, 'trample': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0354"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | RPS (CAL s.v. rps) | CAL s.v. rps; Anderson–Moser 2024 root rps | gloss withheld |
 | Hebrew | rapas 'trample' (BDB 952) | BDB 952; Anderson–Moser 2024 root rps |  |
 | Ugaritic | rps 'trample' | Anderson–Moser 2024 root rps |  |
+| Biblical Aramaic | rps (HALOT BArm. s.v. רפס) | HALOT BArm. s.v. רפס | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

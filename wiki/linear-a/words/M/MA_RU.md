@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_RU
 title: "MA-RU"
 desc: "Maruʾ: Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "MA-RU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Fattened (personal name), the bare stem of the Amorite MARUʾ- names; rival Maru 'Wool' |
 | Root | m-r-ʾ |
 | Proto-Semitic | \*mrʾ ~ \*mariʾ- (#1084) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -49,7 +49,7 @@ HT 117a, the fourth of ten men at 1 each under MA-KA-RI-TE · KI-RO · U-MI-NA-S
 |---|---|
 | Amorite | MARUʾ+JAT-UM, MARUʾ+LI+ʾEL, MAʾR-U+ZAʾT-U-HU, all written MA-RU- (Gelb 1980, nos. 4542, 4543, 4545); Tuttul dādu-marʾum 'my beloved is fat' (Buck 2018, 327) |
 | Ugaritic | mrủ 'fattened; fatling' (DULAT 563); syll. ma-ru-u 'fattened' (GlOS 2, 46) |
-| Hebrew | mərîʾ 'fatling' |
+| Hebrew | mərîʾ 'fatted steer' (HALOT 635) |
 | Linear A | rival MA+RU (A559), the wool logogram, and MA+RU-ME (HT 24a) |
 
 ### Source

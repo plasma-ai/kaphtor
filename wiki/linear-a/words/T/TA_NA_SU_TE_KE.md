@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TA_NA_SU_TE_KE
 title: "TA-NA-SU-TE-KE"
 desc: "tanašutē-kī: may [it] be drunk for you (f.)—N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "TA-NA-SU-TE-KE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | may \[it\] be drunk for you (f.)—N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī |
 | Root | š-t-y |
 | Proto-Semitic | \*šVtVy- (#1384) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, verb |
 | Semantic field | verbal |
 
 ### Note
 
-Hapax. Position 1 on PRZa1 (Prassa stone vessel, LMIA), occupying the formula verb slot. Followed by SE-TO-I-JA (toponym?, hapax) and A-SA-SA-RA-ME (formula word, RA drawn reversed). TA-NA = N-stem 3fs imperfective prefix (same structure as TA-NA-RA-TE from √r-ṣ-y): ta- (3fs) + na- (N-stem). SU = C₁ (š, sibilant merger), TE = C₂ (t), KE = 2fs pronominal suffix -kī 'for you (f.)' addressing the Goddess; weak C₃ (y) drops as expected for lamed-he verbs. Morphological parallel to TA-NA-RA-TE is exact: both N-stem 3fs imperfective with root starting after TA-NA. Semantics: the vessel addresses the Goddess—'may \[the offering\] be drunk for/by you.'
+PR Za 1, a Prassa stone vessel (LM IA), position 1, the verb slot of the formula, before SE-TO-I-JA, a place name or epithet, and A-SA-SA-RA-ME, the formula word, with RA drawn reversed. tanašutē-kī 'may \[the offering\] be drunk for you (f.)', the vessel addressing the Goddess: TA-NA the prefix ta- with the N-stem na-, here 3fs with the offering as subject, where TA-NA-RA-TE-U-TI-NU (√r-ṣ-y) has the same ta- as 2fs, the t- prefix serving both persons; SU and TE the first two root consonants of √š-t-y, š (the sibilants merged) and t; KE the 2fs suffix -kī; the weak third radical y unwritten, as in III-weak verbs. Both verbs have the N-stem shape with the root after TA-NA. One attestation.
 
 ### Cognates
 

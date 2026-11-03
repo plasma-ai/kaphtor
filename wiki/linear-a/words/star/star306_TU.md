@@ -33,24 +33,27 @@ updated: 2026-10-24T16:17:50Z
 |---|---|
 | Reading | ʿAttu |
 | Meaning | personal name (cf. Hebrew ʿAttay) |
-| Root | ʿ-t(-t) |
-| Language layer | NWS |
-| Category | personal_name |
+| Root | ʿ-t-w |
+| Proto-Semitic | \*ʕtw (#4412) |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-\*306 = ʿA; TU writes -tu with the geminate unwritten. A recipient on three documents: the HT 9a/9b wine roster (10; 8), the same roster on HT 122a (1\[, beside PA-DE and \*324-DI-RA), and HT 119 (2, before \*327-JU 8 and KU-RO 160). The name slot is secure; the etymology rests on two consonants. Two independent lists: the HT 9a/9b roster (recopied on HT 122a) and the HT 119 personnel count (KU-RO 160). With ʿ the Hurrian attai 'father' (Laroche 1980, 63) is excluded. \*306-TU-JA (HT 115b) is the same name with hypocoristic -ya.
+A recipient on three tablets: the HT 9a/9b wine roster (10, 8), the same roster on HT 122a (1\[, with PA-DE and \*324-DI-RA), and the HT 119 personnel count (2, before \*327-JU 8 and KU-RO 160). \*306 at the proposed value ʿa, and TU writes -tu with the geminate unwritten: ʿAttu, cf. Heb. ʿAttay (1 Chr 2:35), the short form of ʿĂtāyāh (Neh 11:4), Palm. f. ʿty, Greek Αθθαια, which writes the geminate (HALOT 903), and Pun. ʿTʾ (Benz 1972, 388). The name slot is secure. ʿĂtāyāh 'Yahweh has shown himself as surpassing', from Arb. ʿatā (Noth, apud HALOT 903), whose usual sense is 'to be insolent, unruly' (HALOT 903; Lane 1951). Weak point: \*306 = ʿa is a proposed value. \*306-TU-JA (HT 115b) is the same name with hypocoristic -ya. See \*306-TU-JA.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Hebrew | ʿAttay (עַתַּי) (1 Chr 2:35); ʿĂtāyāh (עֲתָיָה) (Neh 11:4) |
+| Palmyrene | f. ʿty, Greek Αθθαια (HALOT 903) |
+| Phoenician-Punic | ʿTʾ (Benz 1972, 388) |
 
 ### Source
 
-di Mino
+di Mino; HALOT; Benz 1972; Lane
 
 ## Attestations
 

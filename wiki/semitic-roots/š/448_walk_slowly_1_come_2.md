@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/448_walk_slowly_1_come_2
 title: "*šVb-: 'walk slowly' 1, 'come' 2"
-desc: "Proto-Semitic *šVb-, 'walk slowly' 1, 'come' 2: reflexes in 3 language(s)."
+desc: "Proto-Semitic *šVb-, 'walk slowly' 1, 'come' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "448"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | sbsb 1, subʔat- |  | gloss withheld |
 | Tigre | šbb 2 |  |  |
 | Epigraphic South Arabian | Sab s1bʔ, ms1bʔ (SD 122; Sabaweb lemma 1373) | SD 122; Sabaweb lemma 1373 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic sbʾ (Al-Jallad 2026, 129) | Al-Jallad 2026 129 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

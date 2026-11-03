@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1753_separate
 title: "*pVriz-: 'separate'"
-desc: "Proto-Semitic *pVriz-, 'separate': reflexes in 3 language(s)."
+desc: "Proto-Semitic *pVriz-, 'separate': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1753"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | frz \[-i-\] (Lane 2365) | Lane 2365 |  |
 | Mehri | ferōz |  |  |
 | Soqotri | féroz (SLOnline 3758) | SLOnline 3758 | gloss withheld |
+| Hebrew | \*פרז, in פְּרָזוֹת and פְּרָזִי (HALOT 965) | HALOT 965 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

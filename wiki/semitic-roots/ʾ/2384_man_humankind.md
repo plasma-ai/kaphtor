@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Modern Arabic | Hdr ʔawādim; Daṯ ʔawādim |  | gloss withheld |
 | Phoenician | ʔdm (T 4) | T 4 | gloss withheld |
 | Hebrew | ʔādām |  |  |
-| Epigraphic South Arabian | Sab ʔdm, ʔdwm-t, ʔdym; Min ʔdm; Qat ʔdm (Kogan 2011, 232; Sabaweb lemma 1293) | Kogan 2011 232; Sabaweb lemma 1293 | gloss withheld |
+| Epigraphic South Arabian | Sab ʔdm, ʔdwm-t, ʔdym; Min ʔdm; Qat ʔdm (Kogan 2011, 232; Sabaweb lemma 1293); Sab ʾdymt (SD 2) | Kogan 2011 232; Sabaweb lemma 1293; SD 2 | gloss withheld |
 | Punic | ʾdm 'person' | Anderson–Moser 2024 root ʾdm |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

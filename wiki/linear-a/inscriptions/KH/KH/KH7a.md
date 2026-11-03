@@ -76,7 +76,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Copper: \*313b-men 10; cyperus ½. The brother-in-law of Tatta: Kattike, \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
+> \[…\]NE-\[·\]-KI: \*334 4; cyperus 1\[…\]; \[…\]I: cyperus-fat 1⁄16. Men: \*313b-men 10; cyperus ½. The brother-in-law of Tatta: Kattike, \*313b-men 4; cyperus ⅓. Provisions: KU-\[·\]-KO-E, \*313b-men \[…\]18; cyperus 1 \[…\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ Unicode (Linear A block):
 | \*334 |  | logogram, 4 |  |  |
 | CYP+D |  | cyperus, with the fraction sign D, 1\[ | PROBABLE |  |
 | CYP+E | kupru-ḥemʾat | cyperus-fat, 1⁄16 | CANDIDATE |  |
-| [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | naḥāši | copper, bronze (section heading) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] | ʾenāš | men, people (section heading); rival copper | CANDIDATE | CANDIDATE (lexicon) |
 | VIR+\*313b |  | men of the \*313b class, 10 | CONFIRMED |  |
 | CYP+D |  | cyperus, with the fraction sign D, ½ | PROBABLE |  |
 | [[wiki/linear-a/words/I/I_JA_PA_ME\|I-JA-PA-ME]] | yabame | brother-in-law (of Tatta) | CANDIDATE | CANDIDATE (lexicon) |

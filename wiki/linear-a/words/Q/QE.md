@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE
 title: "QE"
 desc: "qê: measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "abbreviation", "administrative", "hapax", "logogram"]
 kind: "word"
 form: "QE"
 datasets: ["lexicon"]
@@ -35,20 +35,20 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | measure unit (dry/liquid capacity ≈ 1.2 liters)—metrological logographic abbreviation |
 | Root | q-w |
 | Proto-Semitic | \*ḳū- (#3853) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | abbreviation, administrative, hapax, logogram |
 | Semantic field | administrative |
 
 ### Note
 
-HT Wc 3014, a roundel: side a KU-MI-NA, side b QE · CAP (GORILA II 76), QE before the caprid logogram. QE writes qê, the genitive of Akk. qû in measure phrases; Heb. qab (2 Kgs 6:25). THE Zg 16 (Akrotiri faience triton, Doumas, PAE 2019, fig. 9) opens QE · at the broken left edge. Every tablet QE is broken or dotted (HT 27a, 37, 55b, 111b, 146; KH 50). Weak points: QE, not QA, for the qa- of qab and qâ; a measure before CAP, not before the cumin of side a. Rival: QE an adjunct or abbreviation qualifying CAP. One complete attestation.
+HT Wc 3014, a roundel: side a KU-MI-NA, side b QE · CAP (GORILA II 76), QE before the caprid logogram. QE writes qê, the genitive of Akk. qû in measure phrases, šá 2 qe-e 'of 2 q.' (Hh. X 261ff.; CAD Q 288–289); Heb. qab (2 Kgs 6:25). THE Zg 16 (Akrotiri faience triton, Doumas, PAE 2019, fig. 9) opens QE · at the broken left edge. Every tablet QE is broken or dotted (HT 27a, 37, 55b, 111b, 146; KH 50). Weak point: a measure before CAP, not before the cumin of side a. Rival: QE an adjunct or abbreviation qualifying CAP. One complete attestation.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | qû B 'measuring vessel; a measure of capacity', gen. qê (CAD Q 288) |
-| Hebrew | קַב qab 'qab-measure' (HALOT 1059; 2 Kgs 6:25 רֹבַע הַקַּב 'a quarter of a qab') |
+| Hebrew | קַב qab 'qab-measure' (HALOT 1060; 2 Kgs 6:25 רֹבַע הַקַּב 'a quarter of a qab') |
 
 ### Source
 

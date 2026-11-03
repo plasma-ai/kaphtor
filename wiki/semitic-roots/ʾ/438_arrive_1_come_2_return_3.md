@@ -36,7 +36,7 @@ updated: 2026-10-22T17:38:31Z
 | Geez | ʔtw 3 |  |  |
 | Hebrew | ʔty 2 |  |  |
 | Epigraphic South Arabian | ʔtw 2 (Sabaweb lemma 1393) | Sabaweb lemma 1393 | gloss withheld |
-| Aramaic | ʔty 2 (DNWSI 133 apud CAL) | DNWSI 133; CAL |  |
+| Aramaic | ʔty 2 (DNWSI 133) | DNWSI 133 |  |
 | Amorite | ʾtj?: ʾatā (Gelb AS 21, 14); ʾ-t-w, ʾ-t-y 1, 2: ì-lí-a-ta-a-ia, =i-te-e, ià-a-ti-um (mar-tu) (Ur III) (Sanmartín GlOS 1, 49) | Gelb AS 21 14; Sanmartín GlOS 1, 49 | gloss withheld |
 | Punic | ʾtʾ (T 39) | T 39 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ʾtw (Al-Jallad–Jaworska 49) | Al-Jallad–Jaworska 49 | gloss withheld |

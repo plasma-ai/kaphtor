@@ -12,6 +12,9 @@ import re
 
 BEGIN = "<!-- BEGIN kaphtor:record -->"
 END = "<!-- END kaphtor:record -->"
+# a folder index's summary: the builder's block right under the `***` that ends `wiki update`'s link rows
+SUMMARY_BEGIN = "<!-- BEGIN kaphtor:summary -->"
+SUMMARY_END = "<!-- END kaphtor:summary -->"
 NAV = re.compile(r"^\[\[[^\]]+\]\](?:\s*·\s*\[\[[^\]]+\]\])*$")
 
 
@@ -142,6 +145,35 @@ def splice(existing: str | None, fresh: str, owned: frozenset | None = None) -> 
     fresh_start, fresh_end = _block(fresh_rest)
     lines = rest[:start] + fresh_rest[fresh_start:fresh_end + 1] + rest[end + 1:]
     return "\n".join(["---", *_merge_frontmatter(old_lines, new_fields, owned), "---", *lines])
+
+
+def set_summary(text: str, summary: str) -> str:
+    """A folder index with `summary` as the block under its `***`, replacing the block it had. `wiki update` owns the
+    rows above the rule and keeps what follows it, so every other line is kept; an index without the rule gets one
+    after its rows. ValueError for a summary block with no end."""
+    head, rest = _split(text)
+    if SUMMARY_BEGIN in rest:
+        start = rest.index(SUMMARY_BEGIN)
+        if SUMMARY_END not in rest[start:]:
+            raise ValueError("the index's kaphtor:summary block has no end")
+        end = rest.index(SUMMARY_END, start) + 1
+        if end < len(rest) and not rest[end].strip():
+            end += 1
+        rest = rest[:start] + rest[end:]
+    block = [SUMMARY_BEGIN, *summary.strip("\n").split("\n"), SUMMARY_END, ""]
+    if "***" not in rest:
+        while rest and not rest[-1].strip():
+            rest.pop()
+        rest += ["", "***", ""]
+    at = rest.index("***") + 1
+    if at < len(rest) and not rest[at].strip():
+        at += 1
+    else:
+        block.insert(0, "")
+    rest = rest[:at] + block + rest[at:]
+    while len(rest) > 1 and not rest[-1].strip() and not rest[-2].strip():
+        rest.pop()
+    return "\n".join(["---", *head, "---", *rest] if head else rest)
 
 
 def outside_text(text: str) -> list[str]:

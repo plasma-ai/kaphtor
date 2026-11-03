@@ -816,14 +816,14 @@ def classify_language(
 
     if word in known_words:
         entry = known_words[word]
-        cat = entry.get("category", "")
-        if cat == "personal_name" and "Hurrian" in entry.get("note", ""):
+        tags = set(entry.get("tags", []))
+        if "personal_name" in tags and "Hurrian" in entry.get("note", ""):
             if not semitic_only:
                 likelihoods["Hurrian_name"] = 0.95
-        elif cat == "personal_name" and "Egyptian" in entry.get("note", ""):
+        elif "personal_name" in tags and "Egyptian" in entry.get("note", ""):
             if not semitic_only:
                 likelihoods["Egyptian"] = 0.95
-        elif cat == "toponym":
+        elif "toponym" in tags:
             likelihoods["toponym"] = 0.90
         elif entry.get("is_anchor"):
             likelihoods["NWS"] = max(likelihoods["NWS"], 0.90)

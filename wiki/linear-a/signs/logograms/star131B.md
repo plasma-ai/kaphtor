@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-Wine-variant logogram. AB131 family: VIN (AB131) = wine (\*wayn\*), \*131B = must (\*tirōšu\*), \*131C = vinegar (ACETUM). 4 attestations: ARKH2, ARKH3a, ARKH5, ZA10b. Consistently paired with quantities in allocation lists alongside GRA and OLIV, mirroring the biblical dāgān-tīrōš-yiṣhār triad (Deut 7:13). Modest quantities (2–6 units) fit must as a less-abundant commodity than standard wine. Recurs in the Arkhanes ration formula (recipient + GRA/\*131B + quantity): ARKH2 and ARKH5, beside GRA on ARKH5. No syllabic spelling of the word is known, and Ugaritic has trṯ, not trš. Rival: SigLA codes all four tokens VINb, a variant of VIN.
+Wine-variant logogram. AB131 family: VIN (AB131) = wine (\*wayn\*), \*131B = must (\*tirōšu\*), \*131C = vinegar (ACETUM). 4 attestations: ARKH2, ARKH3a, ARKH5, ZA10b. Consistently paired with quantities in allocation lists alongside GRA and OLIV, mirroring the biblical dāgān-tīrōš-yiṣhār triad (Deut 7:13). Modest quantities (2–6 units) fit must as a less-abundant commodity than standard wine. Recurs in the Arkhanes ration formula (recipient + GRA/\*131B + quantity): ARKH2 and ARKH5, beside GRA on ARKH5. The word is spelled DU-RE-ZA, with the terminative -SE, before \*131B 5 on ZA10b, ZA for the ṯ of Ugaritic trṯ. Rival: SigLA codes the ARKH3a, ARKH5 and ZA10b tokens VINb, a variant of VIN, and reads ARKH2 KU-RA-\*131B as one word.
 
 ## Lexicon words written with this sign
 

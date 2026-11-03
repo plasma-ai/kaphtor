@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **unread** (nothing known).
 
-HT25a .2 RU-NI 1, both signs whole and undotted at the head of the line. .1 breaks off after DỊ-NẠ-Ụ\[, and GORILA's tabular copy sets \] before the word (GORILA I 45). Sole attestation. No reading.
+HT25a .2 RU-NI 1, both signs whole and undotted at the head of the line. .1 breaks off after DỊ-NẠ-Ụ\[, and GORILA's tabular copy sets \] before the word (GORILA I 45). The copie normalisée starts .2 at the preserved left edge, and DI-NA-U recurs whole with 1 at .2–3, so RU-NI is an entry of its own, one of nine one-man entries. Sole attestation. No reading.
 
 <!-- END kaphtor:record -->

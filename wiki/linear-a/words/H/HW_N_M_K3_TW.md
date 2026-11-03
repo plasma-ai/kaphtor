@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/H/HW_N_M_K3_TW
 title: "HW-N-M'-K3-TW"
 desc: "strangling-demon (feminine personification of disease). Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "uncategorised"]
+tags: ["linear-a", "word", "tier-3", "hapax", "noun", "ritual"]
 kind: "word"
 form: "HW-N-M'-K3-TW"
 datasets: ["lexicon"]
@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | strangling-demon (feminine personification of disease) |
 | Root | √ḥ-n-q |
 | Proto-Semitic | \*ḫVnVq- (#K0776) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-Egyptian group-writing \[element 7, Det: A2 'to speak/think'\]. Keftiu Spell #33, LMP BM 10059 \|\| ETYMOLOGY: \*ḥanqatu 'she who strangles'—disease demon name. √ḥ-n-q: Akk. ḫanāqu (CAD Ḫ 75), Heb. ḥānaq (Nahum 2:13), Syr. ḥnaq, Ar. ḫanaqa. Egyptian h for ḥ standard. The m' in the middle is problematic (vowel marker or scribal convention) \|\| STEINER'S READING: ḥanqatu. Samānu disease involves swelling/constriction—'strangler-demon' etiology is medically coherent
+Keftiu Spell 33 (London Medical Papyrus, BM 10059), element 7, in Egyptian group-writing with the determinative A2 'to speak, think'. Steiner reads \*ḥanqatu 'she who strangles', a disease demon: √ḥ-n-q, Akk. ḫanāqu (CAD Ḫ 75), Heb. ḥānaq (Nah 2:13), Syr. ḥnaq, Ar. ḫanaqa, with Egyptian h for ḥ as usual. The samānu disease swells and constricts, and a strangling demon fits it. The m' before k writes the velar nasal \[ŋ\], as Akkadian writes /n/ as m before a velar, ku-um-ka for /kunkū/ (Steiner 1992, 198 and n. 61). Weak point: N and M' both stand before K3, where Steiner reads one nasal, ḥ-m-k-tu.
 
 ### Cognates
 

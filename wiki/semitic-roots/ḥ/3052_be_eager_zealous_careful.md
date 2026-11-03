@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/3052_be_eager_zealous_careful
 title: "*ḥrṣ: 'be eager, zealous, careful'"
-desc: "Proto-Semitic *ḥrṣ, 'be eager, zealous, careful': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḥrṣ, 'be eager, zealous, careful': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3052"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ḥara/iṣa (Biella 190) | Biella 190 |  |
 | Epigraphic South Arabian | Sab ḥrṣ (Biella 190) (SD 71; Sabaweb lemma 4378) | Biella 190; SD 71; Sabaweb lemma 4378 | gloss withheld |
+| Hebrew | חרץ (HALOT 356) | HALOT 356 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

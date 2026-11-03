@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/3057_overcome_conquer
 title: "*ɣlb: 'overcome, conquer'"
-desc: "Proto-Semitic *ɣlb, 'overcome, conquer': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ɣlb, 'overcome, conquer': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3057"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | muġlanbin (Lane 2280); ġalaba (Biella 395) | Lane 2280; Biella 395 | gloss withheld |
 | Epigraphic South Arabian | Sab ġlb (SD 53; Sabaweb lemma 4199) (Biella 395) | SD 53; Sabaweb lemma 4199; Biella 395 | gloss withheld |
 | Syrian Aramaic | ʕlab 'overreach, defraud; surpass, exceed' (Payne Smith 414) | Payne Smith 414 |  |
+| Pre-Islamic North Arabian | Safaitic ġlb (Al-Jallad 2026, 55) | Al-Jallad 2026 55 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

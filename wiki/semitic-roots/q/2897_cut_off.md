@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Epigraphic South Arabian | qṣʿ (HALOT 1124) | HALOT 1124 | gloss withheld |
+| Epigraphic South Arabian | qṣʿ (HALOT 1124); Sab qṣʿw (Biella 464) | HALOT 1124; Biella 464 | gloss withheld |
 | Hebrew | qṣʿ ‘scrape, cut off; make corners’ (BDB 892, 893) | BDB 892, 893 |  |
 | Pre-Islamic North Arabian | Safaitic qṣʿ (Al-Jallad–Jaworska 111) | Al-Jallad–Jaworska 111 | gloss withheld |
 

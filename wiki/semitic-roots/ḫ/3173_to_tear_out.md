@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/3173_to_tear_out
 title: "*ḫlš: 'to tear out'"
-desc: "Proto-Semitic *ḫlš, 'to tear out': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḫlš, 'to tear out': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3173"
@@ -33,6 +33,7 @@ updated: 2026-10-24T15:25:56Z
 | Judaic Aramaic | JPA ḥlš (DJPA 204 apud SEDonline 472) | DJPA 204; SEDonline 472 | gloss withheld |
 | Arabic | ḫls (Lane 784 apud SEDonline 472) | Lane 784; SEDonline 472 | gloss withheld |
 | Soqotri | ḥéḷoš (LS 178; SLOnline 4044) | LS 178; SLOnline 4044 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫls; Dadanitic ḫls (Al-Jallad 2026, 66) | Al-Jallad 2026 66 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

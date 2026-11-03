@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/h/SA176_palaces_or_temples
 title: "*hykl: 'palaces or temples'"
-desc: "Epigraphic South Arabian headword *hykl, 'palaces or temples': reflexes in 4 language(s)."
+desc: "Epigraphic South Arabian headword *hykl, 'palaces or temples': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "SA176"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | Ar haykal (Biella 108) | Biella 108 | gloss withheld |
 | Ugaritic | hkl (HALOT 244) | HALOT 244 |  |
 | Syrian Aramaic | haiklā (HALOT 244) | HALOT 244 |  |
+| Phoenician | \*hēkal (B 302) | B 302 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

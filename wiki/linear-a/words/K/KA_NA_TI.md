@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/K/KA_NA_TI
 title: "KA-NA-TI"
-desc: "*kanasti: you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "ritual"]
+desc: "kanasti: you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly'. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "KA-NA-TI"
 datasets: ["lexicon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "*kanasti"
+reading: "kanasti"
 attestations: ["PKZa11"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | \*kanasti |
+| Reading | kanasti |
 | Meaning | you (f.) gathered (2fs suffix form; after lū 'may you gather'); rival K-N-S-T feminine collective 'assembly' |
 | Root | k-n-s |
 | Proto-Semitic | \*kanVs- (#2763) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Written KA-NA-TI in U-NA-RU-KA-NA-TI (PK Za 11). Linear B omits /s/ before a stop (pa-ka-na /phasgana/), and the Linear A/B place-name PA-I-TO /Phaistos/ supplies the closer Aegean control; KA-NA-TI may therefore spell \*/kanasti/, the 2fs suffix form of √k-n-s, with /s/ unrepresented before /t/ (Ventris and Chadwick 1956, 45, 80); after RU /lū/ it reads 'may you gather!' (di Mino, Ya Diktu). Rival: a feminine collective \*/kanast/\*, with final I as a support vowel; the consonantal formation K-N-S-T is comparable to later Hebrew כְּנֶסֶת kəneset and Aramaic/Syriac knuštā 'assembly,' but the exact Bronze Age noun and its vocalization are unattested. Rival: phonetic -TĪ permits /qānastī/ 'I gathered' (Eccl 2:8). Rival √k-n-š: see U-NA-KA-NA-SI.
+PK Za 11, in U-NA-RU-KA-NA-TI. kanasti 'you (f.) gathered', the 2fs suffix form of √k-n-s, with the s unwritten before t, as Linear B omits s before a stop (pa-ka-na phasgana) and PA-I-TO writes Phaistos (Ventris and Chadwick 1956, 45, 80); after RU lū it reads 'may you gather!' (di Mino, Ya Diktu). Rivals: a feminine collective kanast 'assembly', with final I a support vowel, as later Hebrew kəneset and Aramaic and Syriac knuštā; TI as -tī, qānastī 'I gathered' (Eccl 2:8); √k-n-š, see U-NA-KA-NA-SI. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Written KA-NA-TI in U-NA-RU-KA-NA-TI (PK Za 11). Linear B omits /s/ before a sto
 
 ### Source
 
-di Mino
+di Mino; Ventris and Chadwick 1956
 
 ## Attestations
 

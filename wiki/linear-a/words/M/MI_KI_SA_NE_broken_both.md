@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-ARKH 1a .6 \]MI-KI-SA-NE\[, signs undotted, broken on both sides (GORILA III 3). KI-SA-NE stands whole on KH 6. Not readable.
+ARKH 1a .6 \]MI-KI-SA-NE\[, signs undotted, broken on both sides (GORILA III 3). KH 6 has \]KI-SA-NE, also broken before. Not readable.
 
 <!-- END kaphtor:record -->

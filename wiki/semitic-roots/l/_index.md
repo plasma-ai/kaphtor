@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/l
 desc: "Semitic roots whose first radical is l."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-31T13:28:57Z
+updated: 2026-11-05T23:44:29Z
 ---
 
 # wiki/semitic-roots/l
@@ -11,7 +11,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/1054_kill_1_to_fight_2_war_3|1054_kill_1_to_fight_2_war_3]]: Proto-Semitic *lVḥum-, 'kill' 1, 'to fight' 2, 'war' 3: reflexes in 7 language(s).
 
-[[wiki/semitic-roots/l/1114_white_frankincense_storax|1114_white_frankincense_storax]]: Proto-Semitic *lVban-, 'white; frankincense; storax': reflexes in 16 language(s).
+[[wiki/semitic-roots/l/1114_white_frankincense_storax|1114_white_frankincense_storax]]: Proto-Semitic *lVban-, 'white; frankincense; storax': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/l/1217_split_1_strike_2|1217_split_1_strike_2]]: Proto-Semitic *lVtaʾ-, 'split' 1, 'strike' 2: reflexes in 2 language(s).
 
@@ -51,7 +51,7 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/1690_thousand_great_number|1690_thousand_great_number]]: Proto-Semitic *lVhVm-, 'thousand; great number': reflexes in 4 language(s).
 
-[[wiki/semitic-roots/l/175_jaw|175_jaw]]: Proto-Semitic *lVɣ-, 'jaw': reflexes in 7 language(s).
+[[wiki/semitic-roots/l/175_jaw|175_jaw]]: Proto-Semitic *lVɣ-, 'jaw': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/l/1811_field_garden|1811_field_garden]]: Proto-Semitic *lVdw/y/d-, 'field; garden': reflexes in 2 language(s).
 
@@ -61,13 +61,13 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/1964_bladder_in_animals|1964_bladder_in_animals]]: Proto-Semitic *li/abbuḫ- ~ *labīḫ-at-, 'bladder (in animals)': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/l/1965_throat_pharynx|1965_throat_pharynx]]: Proto-Semitic *luɣ(ɣ)-, 'throat, pharynx': reflexes in 3 language(s).
+[[wiki/semitic-roots/l/1965_throat_pharynx|1965_throat_pharynx]]: Proto-Semitic *luɣ(ɣ)-, 'throat, pharynx': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/l/1966_cheek_jaw|1966_cheek_jaw]]: Proto-Semitic *liḥ(a)y-(at-), 'cheek, jaw': reflexes in 13 language(s).
 
 [[wiki/semitic-roots/l/1967_eruption_on_the_skin_white_spot|1967_eruption_on_the_skin_white_spot]]: Proto-Semitic *lam(a)ṯ̣- {} *lam(a)č̣-, 'eruption (on the skin), white spot': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/l/1968_tongue_language|1968_tongue_language]]: Proto-Semitic *liš(š)ān- {} *lis(s)ān-, 'tongue; language': reflexes in 22 language(s).
+[[wiki/semitic-roots/l/1968_tongue_language|1968_tongue_language]]: Proto-Semitic *liš(š)ān- {} *lis(s)ān-, 'tongue; language': reflexes in 23 language(s).
 
 [[wiki/semitic-roots/l/1969_inner_part_of_the_mouth|1969_inner_part_of_the_mouth]]: Proto-Semitic *laṯaɣ- {} *lačaɣ-, '(inner part of the) mouth': reflexes in 2 language(s).
 
@@ -87,23 +87,23 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/2392_kind_of_large_aquatic_animal|2392_kind_of_large_aquatic_animal]]: Proto-Semitic *laḫm-, 'kind of large aquatic animal': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/l/2475_to_peel_take_off|2475_to_peel_take_off]]: Proto-Semitic *lḥṣ ~ *ḥlṣ, 'to peel, take off': reflexes in 13 language(s).
+[[wiki/semitic-roots/l/2475_to_peel_take_off_1_to_deliver_be_delivered_2|2475_to_peel_take_off_1_to_deliver_be_delivered_2]]: Proto-Semitic *lḥṣ ~ *ḥlṣ, 'to peel, take off' 1, 'to deliver, be delivered' 2: reflexes in 15 language(s).
 
-[[wiki/semitic-roots/l/2479_grow|2479_grow]]: Proto-Semitic *lhḳ, 'grow': reflexes in 8 language(s).
+[[wiki/semitic-roots/l/2479_grow_1_chief_elder_company_of_elders_2|2479_grow_1_chief_elder_company_of_elders_2]]: Proto-Semitic *lhḳ, 'grow' 1, 'chief, elder; company of elders' 2: reflexes in 9 language(s).
 
-[[wiki/semitic-roots/l/2519_night|2519_night]]: Proto-Semitic *layl-, 'night': reflexes in 22 language(s).
+[[wiki/semitic-roots/l/2519_night|2519_night]]: Proto-Semitic *layl-, 'night': reflexes in 23 language(s).
 
-[[wiki/semitic-roots/l/2521_not|2521_not]]: Proto-Semitic *la(ʾ), 'not': reflexes in 12 language(s).
+[[wiki/semitic-roots/l/2521_not|2521_not]]: Proto-Semitic *la(ʾ), 'not': reflexes in 14 language(s).
 
-[[wiki/semitic-roots/l/2622_to_kill_hit|2622_to_kill_hit]]: Proto-Semitic *ltɣ, 'to kill, hit': reflexes in 5 language(s).
+[[wiki/semitic-roots/l/2622_to_kill_hit_1_to_bite_sting_jawbone_2|2622_to_kill_hit_1_to_bite_sting_jawbone_2]]: Proto-Semitic *ltɣ, 'to kill, hit' 1, 'to bite, sting; jawbone' 2: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/l/2654_become_verdant_tender_of_plants|2654_become_verdant_tender_of_plants]]: Proto-Semitic *lmlm ~ *lmʕ, 'become verdant, tender (of plants)': reflexes in 6 language(s).
 
-[[wiki/semitic-roots/l/2682_garment_clothing|2682_garment_clothing]]: Proto-Semitic *libš-, 'garment, clothing': reflexes in 15 language(s).
+[[wiki/semitic-roots/l/2682_garment_clothing|2682_garment_clothing]]: Proto-Semitic *libš-, 'garment, clothing': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/l/2801_throw_down|2801_throw_down]]: Proto-Semitic *lVbVṭ-, 'throw down': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/l/2802_almond|2802_almond]]: Proto-Semitic *lawz-, 'almond': reflexes in 7 language(s).
+[[wiki/semitic-roots/l/2802_almond|2802_almond]]: Proto-Semitic *lawz-, 'almond': reflexes in 8 language(s).
 
 [[wiki/semitic-roots/l/2803_cover|2803_cover]]: Proto-Semitic *lVwVṭ-, 'cover': reflexes in 3 language(s).
 
@@ -127,11 +127,11 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/3239_brick|3239_brick]]: Proto-Semitic *la/ibin(-t)-, 'brick': reflexes in 9 language(s).
 
-[[wiki/semitic-roots/l/3240_if_only_would_that_1_indeed_certainly_2|3240_if_only_would_that_1_indeed_certainly_2]]: Proto-Semitic *law, 'if only, would that' 1, 'indeed, certainly' 2: reflexes in 7 language(s).
+[[wiki/semitic-roots/l/3240_if_only_would_that_1_indeed_certainly_2|3240_if_only_would_that_1_indeed_certainly_2]]: Proto-Semitic *law, 'if only, would that' 1, 'indeed, certainly' 2: reflexes in 8 language(s).
 
 [[wiki/semitic-roots/l/3374_to_bleat|3374_to_bleat]]: Proto-Semitic *lhy, 'to bleat': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/l/3375_to_patch_leather|3375_to_patch_leather]]: Proto-Semitic *lkd, 'to patch leather': reflexes in 3 language(s).
+[[wiki/semitic-roots/l/3375_to_patch_leather_1_to_catch_trap_2_cistern_3|3375_to_patch_leather_1_to_catch_trap_2_cistern_3]]: Proto-Semitic *lkd, 'to patch leather' 1, 'to catch, trap' 2, 'cistern' 3: reflexes in 6 language(s).
 
 [[wiki/semitic-roots/l/3376_jar_bottle|3376_jar_bottle]]: Proto-Semitic *lawḳ-at-, 'jar, bottle': reflexes in 3 language(s).
 
@@ -163,9 +163,49 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/3856_to_catch_up_to_overtake|3856_to_catch_up_to_overtake]]: Proto-Semitic *lḥḳ, 'to catch up to, overtake': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/l/3859_to_wrap_wind_around|3859_to_wrap_wind_around]]: Proto-Semitic *lpp, 'to wrap, wind around': reflexes in 4 language(s).
+[[wiki/semitic-roots/l/3859_to_wrap_wind_around|3859_to_wrap_wind_around]]: Proto-Semitic *lpp, 'to wrap, wind around': reflexes in 10 language(s).
+
+[[wiki/semitic-roots/l/3877_chamber|3877_chamber]]: Proto-Semitic *liškat-, 'chamber': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/l/3882_mourn_be_sad|3882_mourn_be_sad]]: Proto-Semitic *lVḳVs-, 'mourn, be sad': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/l/3883_come_loose_loosen|3883_come_loose_loosen]]: Proto-Semitic *lVḳḳ-, 'come loose, loosen': reflexes in 8 language(s).
+
+[[wiki/semitic-roots/l/3884_shake_move_to_and_fro|3884_shake_move_to_and_fro]]: Proto-Semitic *laṣlaṣ-, 'shake, move to and fro': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3885_lizard|3885_lizard]]: Proto-Semitic *laṣḳ-at-, 'lizard': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/3886_strike_pound|3886_strike_pound]]: Proto-Semitic *latam-, 'strike, pound': reflexes in 6 language(s).
+
+[[wiki/semitic-roots/l/3887_stammer_stutter|3887_stammer_stutter]]: Proto-Semitic *lVt(lVt)-, 'stammer, stutter': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/l/3888_twist_turn_aside|3888_twist_turn_aside]]: Proto-Semitic *lwḏ, 'twist, turn aside': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/l/398_twist_bend_1_turn_2_accompany_join_3|398_twist_bend_1_turn_2_accompany_join_3]]: Proto-Semitic *lVwVy-, 'twist, bend' 1, 'turn' 2, 'accompany, join' 3: reflexes in 12 language(s).
+
+[[wiki/semitic-roots/l/4066_log_small_liquid_measure|4066_log_small_liquid_measure]]: Proto-Semitic *lugg-, 'log, small liquid measure': reflexes in 5 language(s).
+
+[[wiki/semitic-roots/l/4081_verily_yes_1_O_2|4081_verily_yes_1_O_2]]: Proto-Semitic *la-, 'verily, yes' 1, 'O!' 2: reflexes in 5 language(s).
+
+[[wiki/semitic-roots/l/4223_to_devour_greedily_1_to_take_pleasure_2|4223_to_devour_greedily_1_to_take_pleasure_2]]: Proto-Semitic *lhm, 'to devour greedily' 1, 'to take pleasure' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/l/4228_to_adhere_1_gecko_2|4228_to_adhere_1_gecko_2]]: Proto-Semitic *lṭʾ, 'to adhere' 1, 'gecko' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/l/4231_to_for_preposition_fuller_form|4231_to_for_preposition_fuller_form]]: Proto-Semitic *la-mā, 'to, for' (preposition, fuller form): reflexes in 4 language(s).
+
+[[wiki/semitic-roots/l/4329_to_arrange_in_order_courses_of_stone|4329_to_arrange_in_order_courses_of_stone]]: Proto-Semitic *lpʾ, 'to arrange in order; courses (of stone)': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/4442_to_speak_boastfully_scoff_1_scoffer_scoffing_2|4442_to_speak_boastfully_scoff_1_scoffer_scoffing_2]]: Proto-Semitic *lyṯ̣, 'to speak boastfully, scoff' 1, 'scoffer, scoffing' 2: reflexes in 4 language(s).
+
+[[wiki/semitic-roots/l/4488_to_murmur_complain_to_growl|4488_to_murmur_complain_to_growl]]: Proto-Semitic *lwn, 'to murmur, complain; to growl': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/4593_adhere_reach|4593_adhere_reach]]: Proto-Semitic *lpḳ, 'adhere, reach': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/l/4594_drool_saliva|4594_drool_saliva]]: Proto-Semitic *lgg, 'drool, saliva': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/l/4595_cling_stick_together|4595_cling_stick_together]]: Proto-Semitic *lḥḳ, 'cling, stick together': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/l/4683_not_negator|4683_not_negator]]: Proto-Semitic *lm, 'not' (negator): reflexes in 1 language(s).
 
 [[wiki/semitic-roots/l/553_strike|553_strike]]: Proto-Semitic *lVbaḫ-, 'strike': reflexes in 1 language(s).
 
@@ -175,11 +215,11 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/714_be_soft_or_wet|714_be_soft_or_wet]]: Proto-Semitic *lada/un-, 'be soft or wet': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/l/788_shine|788_shine]]: Proto-Semitic *lVmaʕ/ḥ-, 'shine': reflexes in 2 language(s).
+[[wiki/semitic-roots/l/788_shine|788_shine]]: Proto-Semitic *lVmaʕ/ḥ-, 'shine': reflexes in 3 language(s).
 
 [[wiki/semitic-roots/l/789_shine|789_shine]]: Proto-Semitic *lVʾ-lVʾ-, 'shine': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/l/826_bread_1_meat_2_eat_3|826_bread_1_meat_2_eat_3]]: Proto-Semitic *laḥm-, 'bread' 1, 'meat' 2, 'eat' 3: reflexes in 10 language(s).
+[[wiki/semitic-roots/l/826_bread_1_meat_2_eat_3|826_bread_1_meat_2_eat_3]]: Proto-Semitic *laḥm-, 'bread' 1, 'meat' 2, 'eat' 3: reflexes in 11 language(s).
 
 [[wiki/semitic-roots/l/827_taste_v|827_taste_v]]: Proto-Semitic *lVmug-, 'taste (v.)': reflexes in 1 language(s).
 
@@ -189,9 +229,9 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/953_be_exhausted|953_be_exhausted]]: Proto-Semitic *lVɣab-/*lVɣub-, 'be exhausted': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/l/956_be_tired_1_be_slow_2|956_be_tired_1_be_slow_2]]: Proto-Semitic *lVʾay-, 'be tired' 1, 'be slow' 2: reflexes in 2 language(s).
+[[wiki/semitic-roots/l/956_be_tired_1_be_slow_2|956_be_tired_1_be_slow_2]]: Proto-Semitic *lVʾay-, 'be tired' 1, 'be slow' 2: reflexes in 4 language(s).
 
-[[wiki/semitic-roots/l/K0116_to|K0116_to]]: Proto-Semitic *lV--, 'to': reflexes in 14 language(s).
+[[wiki/semitic-roots/l/K0116_to|K0116_to]]: Proto-Semitic *lV--, 'to': reflexes in 17 language(s).
 
 [[wiki/semitic-roots/l/K0119_play|K0119_play]]: Proto-Semitic *lVhVy-, 'play': reflexes in 5 language(s).
 
@@ -225,15 +265,13 @@ updated: 2026-10-31T13:28:57Z
 
 [[wiki/semitic-roots/l/K0144_sharp|K0144_sharp]]: Proto-Semitic *laṭaš-, 'sharp': reflexes in 5 language(s).
 
-[[wiki/semitic-roots/l/S14_to_take_receive_1_offering_receipt_2|S14_to_take_receive_1_offering_receipt_2]]: Proto-Semitic *lVḳVḥ-, 'to take, receive' 1, 'offering, receipt' 2: reflexes in 12 language(s).
+[[wiki/semitic-roots/l/S14_to_take_receive_1_offering_receipt_2|S14_to_take_receive_1_offering_receipt_2]]: Proto-Semitic *lVḳVḥ-, 'to take, receive' 1, 'offering, receipt' 2: reflexes in 16 language(s).
 
 [[wiki/semitic-roots/l/S53_to_learn|S53_to_learn]]: Proto-Semitic *lmd, 'to learn': reflexes in 11 language(s).
 
-[[wiki/semitic-roots/l/S61_to_send|S61_to_send]]: Proto-Semitic *lʾk, 'to send': reflexes in 17 language(s).
+[[wiki/semitic-roots/l/S61_to_send_1_work_service_2|S61_to_send_1_work_service_2]]: Proto-Semitic *lʾk, 'to send' 1, 'work, service' 2: reflexes in 19 language(s).
 
-[[wiki/semitic-roots/l/S89_bad_widow_widower|S89_bad_widow_widower]]: Proto-Semitic *lmn, 'bad; widow, widower': reflexes in 8 language(s).
-
-[[wiki/semitic-roots/l/SA052_cistern|SA052_cistern]]: Epigraphic South Arabian headword *lkd, 'cistern': reflexes in 1 language(s).
+[[wiki/semitic-roots/l/S89_bad_widow_widower|S89_bad_widow_widower]]: Proto-Semitic *lmn, 'bad; widow, widower': reflexes in 9 language(s).
 
 [[wiki/semitic-roots/l/SA053_CATCH|SA053_CATCH]]: Epigraphic South Arabian headword *lṣḳ, 'CATCH': reflexes in 3 language(s).
 

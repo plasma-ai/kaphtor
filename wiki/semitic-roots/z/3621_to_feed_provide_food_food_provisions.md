@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/z/3621_to_feed_provide_food_food_provisions
 title: "*zwn: 'to feed, provide food; food, provisions'"
-desc: "Proto-Semitic *zwn, 'to feed, provide food; food, provisions': reflexes in 3 language(s)."
+desc: "Proto-Semitic *zwn, 'to feed, provide food; food, provisions': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3621"
@@ -29,9 +29,12 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | zanānu B (CAD Z 43) | CAD Z 43 | gloss withheld |
+| Akkadian | zanānu B (CAD Z 43; AHw 1510) | CAD Z 43; AHw 1510 | gloss withheld |
 | Hebrew | māzôn (HALOT 565) | HALOT 565 | gloss withheld |
 | Syrian Aramaic | zān 'to feed, provide, sustain' (Payne Smith 113) | Payne Smith 113 |  |
+| Ugaritic | tznt (DULAT 872); znt (DULAT 984) | DULAT 872; DULAT 984 | gloss withheld |
+| Biblical Aramaic | zwn hitpe. (HALOT 267); māzōn (HALOT 565) | HALOT 267; HALOT 565 | gloss withheld |
+| Aramaic | zwn (DNWSI 308) | DNWSI 308 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

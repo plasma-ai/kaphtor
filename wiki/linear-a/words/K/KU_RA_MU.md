@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KU_RA_MU
 title: "KU-RA-MU"
 desc: "Kurmu: personal name, 'Vineyard' (√k-r-m). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "KU-RA-MU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'Vineyard' (√k-r-m) |
 | Root | k-r-m (PS \*karm-) |
 | Proto-Semitic | \*karm- (#1045) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT117a (Haghia Triada, Casa Room 9, LMIB): one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), a name on the noun 'vineyard', as Tēnā 'Fig' (TE-\*301). Hebrew kerem is the exact cognate; Ebla has the same noun as a name, gar₃-mu karmu 'vineyard' (Pagan 1998, row 1991). See KU-RU-MA.
+HT 117a (Haghia Triada, Casa Room 9, LM IB): one of ten entries counted 1 each under MA-KA-RI-TE 'merchants' (KU-RO 10), a name on the noun 'vineyard', as Tēnā 'Fig' (TE-\*301). Heb. kerem 'vineyard' (HALOT 498); Ebla has the same noun as a name, gar₃-mu karmu 'vineyard' (Pagan 1998, row 1991). One attestation. See KU-RU-MA.
 
 ### Cognates
 
@@ -72,8 +72,8 @@ di Mino; Pagan 1998
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

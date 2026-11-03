@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Stone vessel"
 period: ""
 translation: "incomplete"
-words: ["TU-ME-I"]
+words: ["JA-SA-SA-RA-ME", "TU-ME-I"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,7 +64,7 @@ Context: Votive/ritual — stone libation vessel from Palaikastro  GORILA IV 40:
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/T/TU_ME_I|TU-ME-I]].
+[[wiki/linear-a/words/J/JA_SA_SA_RA_ME|JA-SA-SA-RA-ME]], [[wiki/linear-a/words/T/TU_ME_I|TU-ME-I]].
 
 ## Corpus note
 

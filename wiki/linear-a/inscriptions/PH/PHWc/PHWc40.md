@@ -9,7 +9,7 @@ site: "Phaistos"
 support: "Roundel"
 period: "MMII"
 translation: "none"
-words: ["NA", "TI-TI-MA"]
+words: ["TI-TI-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -49,7 +49,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/N/NA|NA]], [[wiki/linear-a/words/T/TI_TI_MA|TI-TI-MA]].
+[[wiki/linear-a/words/T/TI_TI_MA|TI-TI-MA]].
 
 ## Edition differences
 

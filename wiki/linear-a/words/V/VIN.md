@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/V/VIN
 title: "VIN"
 desc: "wayn 'wine'. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "commodity ideogram"]
+tags: ["linear-a", "word", "tier-3", "beverage", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "VIN"
 datasets: ["lexicon"]
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | wayn 'wine' |
 | Root | w-y-n |
 | Proto-Semitic | \*wayn- (#K0457) |
-| Language layer | NWS |
-| Category | commodity ideogram |
+| Language layer | Semitic |
+| Tags | beverage, commodity, foodstuff, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Non-phonetic commodity ideogram denoting wine. 52 standalone, 10 sites—widest commodity distribution in the corpus. On HT89 it follows KU-RO in a separate commodity section; the numeral 6 is damaged. \|\| ETYMOLOGY: Heb. yayin, Ug. yn, Gk. oinos &lt; \*woinos. VIN+WA compound (2×, HT27b) shows WA as possible phonetic complement for /wa-/ of \*wayn-. Canaanite is y-initial (Ug. yn; Amarna ye-ni, EA 84:44; Aphek ye-nu; GlOS 2, 366), so a WA complement writes pre-shift wayn. \|\| VIN-GRA-SA triad on HT27b = canonical wine-grain-beer commodity set. \|\| No JA-NE 'wine' occurs in the corpus: Gordon's ya-ne (1966, §123) is KNZb4, whose corrected reading is JA-SI (see JA-SI). The \*wayn- etymology rests on the VIN+WA complement alone, distinct from the secure commodity function. See JI-NU-MA-RE.
+A commodity logogram, wine: 52 standalone at 10 sites, the widest distribution of any commodity. On HT 89 it follows KU-RO in a separate commodity section, the numeral 6 damaged. wayn 'wine': Heb. yayin, Ug. yn, Gk. οἶνος &lt; \*woinos. VIN+WA (twice, HT 27b) takes WA as the complement for the wa- of \*wayn-; Canaanite is y-initial (Ug. yn; Amarna ye-ni, EA 84:44; Aphek ye-nu; GlOS 2, 366), so the complement writes the form before the shift. VIN, GRA and SA on HT 27b make the set of wine, grain and beer. Gordon's ya-ne 'wine' (1966, §123) is KN Zb 4, whose corrected reading is JA-SI (see JA-SI). Geʿez wayn 'wine; vine, grapes' and Sabaic wyn 'vineyard' keep the w- (K0457). Weak point: in Linear A the \*wayn- etymology rests on the VIN+WA complement alone, the commodity function on everything else. See JI-NU-MA-RE.
 
 ### Cognates
 

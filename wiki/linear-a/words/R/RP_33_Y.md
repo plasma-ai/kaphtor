@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RP_33_Y
 title: "RP-33-Y"
 desc: "my Healer (deity invocation—divine title of Rapʾu). Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "uncategorised"]
+tags: ["linear-a", "word", "tier-4", "epithet", "hapax", "ritual"]
 kind: "word"
 form: "RP-33-Y"
 datasets: ["lexicon"]
@@ -34,12 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | my Healer (deity invocation—divine title of Rapʾu) |
 | Root | √r-p-ʾ |
 | Proto-Semitic | \*rVpVʾ- (#K0355) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | epithet, hapax, ritual |
 | Semantic field | divine |
 
 ### Note
 
-Egyptian group-writing \[element 8, Det: A40 'seated god' (male)\]. Keftiu Spell #33, LMP BM 10059. A40 confirms divine status \|\| ETYMOLOGY: √r-p-ʾ 'to heal' + 1cs -ī = 'my healer.' Ug. rpʾu divine title (KTU 1.108:1 rpʾu mlk ʿlm 'the Healer, eternal king'; KTU 1.20–22 rpʾīm/Rephaim), Heb. rāpāʾ (Exod 15:26 rōpʾekā; Ps 103:3), Phoen. mrpʾ month name (KAI 37:3) \|\| STEINER'S READING: r-p-y = rpʾy. Akulov reads Erupa-j, connects to Greek Europa via Hattic \*lup 'bull'—same consonantal skeleton, different etymology. See A-RE-PI-RE-NA and A-RI-PA.
+Keftiu Spell 33 (London Medical Papyrus, BM 10059), element 8, in Egyptian group-writing; the determinative A40, the seated god, marks a deity. Steiner reads r-p-y rpʾy 'my Healer': √r-p-ʾ 'to heal' with the 1cs -ī. Ug. rpʾu, the divine title in rpʾu mlk ʿlm 'the Healer, eternal king' (KTU 1.108:1) and the rpʾim, Rephaim (KTU 1.20–22); Heb. rāpāʾ (rōpʾekā, Exod 15:26; Ps 103:3); the Phoenician month mrpʾ (KAI 37:3). Rival: Akulov's Erupa-j, joined to Greek Europa through Hattic \*lup 'bull', on the same consonants. See A-RE-PI-RE-NA and A-RI-PA.
 
 ### Cognates
 

@@ -25,7 +25,7 @@ records under other editions, GORILA records without a label, unresolved and mer
 | `transliteratedWords` | the words in transliteration, aligned with `words`; `"\n"` marks a line break |
 | `editorialTransliteration`, `epigraphic_transliteration`, `sigla_transliteration` | other transliterations, where recorded |
 | `notes`, `condition_note`, `designation_note`, `support_note`, `epigraphic_annotation` | epigraphic notes: damage, line breaks, sigla, joins |
-| `sigla`, `sigla_only`, `sigla_sides`, `sigla_vs_gorila`, `reconciliation_note` | the SigLA record, its per-face records, and where SigLA and GORILA differ |
+| `sigla`, `sigla_only`, `sigla_sides`, `sigla_vs_gorila`, `reconciliation_note` | the SigLA record from SigLA's older export, its per-face records, and where SigLA and GORILA differ; the export holds no word division and leaves out unread positions, which [sigla_db.json](sigla_db.json) gives |
 | `merged_records` | second records of the same object, folded into this one, each kept as a snapshot |
 | `source`, `status` | the edition of a text published after GORILA, and `incomplete` where the text is partial |
 | `imageRights` | the holder of the photographs, which are not reproduced here |

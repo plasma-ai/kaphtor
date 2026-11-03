@@ -49,7 +49,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_JA_PA_QA\|I-NA-JA-PA-QA]] | hinna yapqaḥ | CANDIDATE |
-| [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqa-\*118 | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_QA_star118\|I-QA-\*118]] | iqṭaʿ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_PA_QA\|JA-PA-QA]] | yapqaḥ | CANDIDATE |
 | [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sukar | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_star118\|QA-\*118]] | qaṭṭ(u) | CANDIDATE |

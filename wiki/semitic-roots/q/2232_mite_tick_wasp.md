@@ -35,7 +35,7 @@ updated: 2026-10-22T17:38:31Z
 | Amharic | ṭǝḳur (in ṭǝḳur ǝnziz) \[K 1228\]. | K 1228 | gloss withheld |
 | Judaic Aramaic | ḳardā 'abdominal pain caused by a parasitic worm' \[Ja. 1412\]; ṭǝrīḳayyā 'a sort of wasps' \[ibid. 554\]. | Ja. 1412; Ja. 554 |  |
 | Syrian Aramaic | ḳerdā 'tick' \[Brock. 693\], \[PS 3730\] ('small animal infesting sheep, cattle, etc.'). | Brock. 693; PS 3730 |  |
-| Tigrinya | ḳʷärʔǝdǝt \[Rein Bil 242\]; ṭäḳäray \[Bass. 907\] (note also ṭǝrḳä \[K Tna 2427\]) | Rein Bil 242; Bass. 907; K Tna 2427 | gloss withheld |
+| Tigrinya | ḳʷärʔǝdǝt \[Rein Bil 242\]; ṭäḳäray \[Bass. 907\] (note also ṭǝrḳä \[K Tna 2427\]); ḳʷǝrdid (K Tna. 950 apud SED II 185) | Rein Bil 242; Bass. 907; K Tna 2427; K Tna. 950; SED II 185 | gloss withheld |
 | Harari | ḳurdud (LHar. 129) | LHar. 129 | gloss withheld |
 | Gurage | Zwy. ḳərdaǯi (LGur. 497) | LGur. 497 | gloss withheld |
 

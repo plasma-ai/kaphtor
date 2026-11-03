@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-+PA complement (6×) confirms /pa/ initial. Commodity ideogram in oil register between OLE and OLIV. \|\| SUSPENDED: the HT82 three-way conflict (transliteratedWords says \*304+\[ \], the tablet's own glyph is A628 not A653, SigLA reads the position as A653=\*401+\*304 ligature — a different sign) shows the PIDRU reading rested on the siglum, not the glyph. \*304 is read by glyph. The commodity/gloss/root/semitic_term below are the retired PIDRU hypothesis, kept for reference; not an active reading until a facsimile check of the A653/A628 mismatch.
+Commodity ideogram in oil register between OLE and OLIV. The +PA form is A 629 in SigLA, a sign Schoep separates from A 304 (Schoep 2002, 123). \|\| SUSPENDED: the HT82 three-way conflict (transliteratedWords says \*304+\[ \], the tablet's own glyph is A628 not A653, SigLA reads the position as A653=\*401+\*304 ligature — a different sign) shows the PIDRU reading rested on the siglum, not the glyph. \*304 is read by glyph. The commodity/gloss/root/semitic_term below are the retired PIDRU hypothesis, kept for reference; not an active reading until a facsimile check of the A653/A628 mismatch.
 
 ## Lexicon words written with this sign
 

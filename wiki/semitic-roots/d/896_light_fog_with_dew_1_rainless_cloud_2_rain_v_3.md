@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/d/896_light_fog_with_dew_1_rainless_cloud_2_rain_v_3
 title: "*da/imm(-an)- 1, 2 ~ *dVwVm-, dVmVʕ- 3: 'light fog with dew' 1, 'rainless cloud' 2, 'rain' (v.) 3"
-desc: "Proto-Semitic *da/imm(-an)- 1, 2 ~ *dVwVm-, dVmVʕ- 3, 'light fog with dew' 1, 'rainless cloud' 2, 'rain' (v.) 3: reflexes in 10 language(s)."
+desc: "Proto-Semitic *da/imm(-an)- 1, 2 ~ *dVwVm-, dVmVʕ- 3, 'light fog with dew' 1, 'rainless cloud' 2, 'rain' (v.) 3: reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "896"
@@ -40,6 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Gafat | dämmänä |  |  |
 | Argobba | dammänä |  |  |
 | Tigrinya | dämmänä |  |  |
+| Pre-Islamic North Arabian | Safaitic dmt (Al-Jallad 2026, 35) | Al-Jallad 2026 35 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

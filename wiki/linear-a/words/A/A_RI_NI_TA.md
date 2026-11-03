@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RI_NI_TA
 title: "A-RI-NI-TA"
 desc: "ʾarīnīt: She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "gentilic", "personal_name", "ritual", "title"]
 kind: "word"
 form: "A-RI-NI-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | She-of-the-Lion (feminine gentilic—priestess/cult title; cf. I-ZU-RI-NI-TA She-of-the-Bull) |
 | Root | ʾ-r-y |
 | Proto-Semitic | \*ʾarway- (#2120) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | gentilic, personal_name, ritual, title |
 | Semantic field | personal_name |
 
 ### Note
 
-Feminine gentilic from pan-NWS ari lion: ari + -nit = arInit She-of-the-Lion. Morphological paradigm with I-ZU-RI-NI-TA = i-thawrInit She-of-the-Bull (same -NI-TA suffix on animal root). Bull and lion are the two central sacred animals in Minoan iconography. Attested at HT25a and ZA8 (two independent sites). \|\| 'Priestess/cult title' rests on -t alone; -īt also forms feminine relational adjectives, abstracts and collectives (Fischer 2002, §§64, 116).
+HT 25a and ZA 8, at two sites. ʾarīnīt 'She-of-the-Lion', the feminine gentilic -nīt on NWS ari 'lion', as I-ZU-RI-NI-TA i-ṯawrinīt 'She-of-the-Bull' takes the same -NI-TA on an animal root; bull and lion are the two central sacred animals of Minoan iconography. Both tablets enter A-RI-NI-TA with 1 in a list of personal names (HT 25a with DI-NA-U, U-RE-WI and I-KI-RA; ZA 8 with KU-TU-KO-RE and DA-I-PI-TA), so -īt here names one woman, where it also forms relational adjectives, abstracts and collectives (Fischer 2002, §§64, 116). Weak point: the lists set no title apart from a name.
 
 ### Cognates
 
@@ -73,8 +73,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 2 in 2 documents |

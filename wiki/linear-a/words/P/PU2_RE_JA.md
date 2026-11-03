@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/P/PU2_RE_JA
 title: "PU₂-RE-JA"
-desc: "burēyā: my Creator (divine epithet). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+desc: "burē(t)yā: my Creatress (divine epithet). Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "epithet", "ritual"]
 kind: "word"
 form: "PU₂-RE-JA"
 datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
-reading: "burēyā"
+reading: "burē(t)yā"
 attestations: ["ZAZb34", "PKZa16"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,16 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | burēyā |
-| Meaning | my Creator (divine epithet) |
+| Reading | burē(t)yā |
+| Meaning | my Creatress (divine epithet) |
 | Root | b-r-ʾ |
 | Proto-Semitic | \*bVraʾ- (#1173) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | epithet, ritual |
 | Semantic field | divine |
 
 ### Note
 
-ZAZb34 (Zakros clay vessel) PU₂-RE-JA · KO-MU · RU-DI. Hebrew בָּרָא bārāʾ "to create" (Gen 1:1); Arabic baraʾa. PU₂=/bu/ as in DU-PU₂-RE=dubur. Final ʾ drops (guttural rule). -JA = -yā 1cs suffix "my." PK Za 16 \]TO-SA · PỤ₂-RE-JẠ\[, no divider between PU₂ and RE, broken after JA (GORILA IV 42), is a damaged second witness, so the tier is SPECULATIVE; the base PU₂-RE stands alone on PKZa28. Rival: PU₂-RE + -JA on that Palaikastro base; √p-r-y "fruit" (\*puriyya). See A-PA-RA-NE.
+ZA Zb 34, a Zakros clay vessel: \]PU₂-RE-JẠ · KỌ-MỤ · RỤ-DI\[ (GORILA IV 115); PU₂ is damaged at the fracture, the word whole. burē(t)yā 'my Creatress', addressed by the feminine imperative RU-DI: Heb. bārāʾ 'to create' (Gen 1:1), Arb. baraʾa 'to create (God)' (HALOT 153); PU₂ writes bu, as in DU-PU₂-RE dubur, the final ʾ unwritten, and -JA is the 1cs suffix -yā 'my'. The feminine -t is unwritten before -yā, as in A-TA-NA-JE 'my ʾAtanat' beside A-TA-NA-TE; it is omissible in West Semitic names of the second millennium (Astour 1966, 315). PK Za 16 \]TO-SA · PỤ₂-RE-JẠ \]vest.\[ (GORILA IV 42) is a second witness, the word whole, traces following after a damaged stretch. Rivals: PU₂-RE + -JA; √p-r-y 'fruit', \*puriyya. See A-PA-RA-NE.
 
 ### Cognates
 
@@ -52,7 +53,7 @@ ZAZb34 (Zakros clay vessel) PU₂-RE-JA · KO-MU · RU-DI. Hebrew בָּרָא b
 
 ### Source
 
-di Mino
+di Mino; HALOT; Astour 1966
 
 ## Attestations
 
@@ -65,7 +66,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | burēyā | my Creator (divine epithet) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZAZb/ZAZb34\|ZAZb34]] | burē(t)yā | my Creatress (divine epithet) | SPECULATIVE |
 
 ## Onomasticon
 

@@ -30,7 +30,7 @@ updated: 2026-10-25T06:28:07Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | šitāʾ 'winter' (Lane 1504) | Lane 1504 |  |
-| Pre-Islamic North Arabian | Safaitic śty (Al-Jallad–Jaworska 127) | Al-Jallad–Jaworska 127 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śty (Al-Jallad–Jaworska 127); mśty; mśtyt (Al-Jallad 2026, 142) | Al-Jallad–Jaworska 127; Al-Jallad 2026 142 | gloss withheld |
 | Aramaic | Old Aramaic štw (HALOT 770) | HALOT 770 | gloss withheld |
 | Syrian Aramaic | satwā 'winter; stormy weather' (Payne Smith 393); ʾastī 'to winter, pass the winter' (Payne Smith 393) | Payne Smith 393 |  |
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/179_interior_heart
 title: "*ga/in(a)n-: 'interior; heart'"
-desc: "Proto-Semitic *ga/in(a)n-, 'interior; heart': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ga/in(a)n-, 'interior; heart': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "179"
@@ -33,7 +33,6 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ǧanān- 'heart, spirit, soul' \[BK 1 332\], ǯinn- 'interior (of anything), heart (among the poets)' \[ibid.\]; ǧanīn- 'embryo' \[ibid. 333\] | BK 1 332; BK 333 |  |
 | Akkadian | gannu SB on \[CAD g 41\]; \[AHw 280\] | CAD g 41; AHw 280 | gloss withheld |
 | Ugaritic | ggn, gngn (?) \[DULAT 292, 300\] | DULAT 292, 300; DULAT 300 | gloss withheld |
-| Hebrew | Cf. gāḥōn (HALOT 187) | HALOT 187 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

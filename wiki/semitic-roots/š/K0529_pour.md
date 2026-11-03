@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šapāku 'heap up' | Anderson–Moser 2024 root špk |  |
+| Akkadian | šapāku (AHw 1168) | AHw 1168; Anderson–Moser 2024 root špk | gloss withheld |
 | Arabic | safaka 'shed' (Lane 1374) | Lane 1374; Anderson–Moser 2024 root špk |  |
 | Aramaic | ŠPK (Qumran 241 apud CAL) | CAL; Anderson–Moser 2024 root špk | gloss withheld |
 | Geez | sabaka 'smelt' | Anderson–Moser 2024 root špk |  |

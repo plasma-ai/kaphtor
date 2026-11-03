@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_JU_TE
 title: "DA-JU-TE"
 desc: "dalut: door, doorway. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "administrative", "hapax", "noun"]
 kind: "word"
 form: "DA-JU-TE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | door, doorway |
 | Root | d-l-t |
 | Proto-Semitic | \*dal-t- (#1120) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | administrative, hapax, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Exact skeleton match to Ugaritic dlt "door" (Huehnergard 2012, /daltu/). BH dēlet, Akk. daltu. JU=/lu/ gives DA-JU-TE = d-l-t. Appears as header word on HT34 (Haghia Triada, grain accounting tablet with GRA 200, KI-RO 30). First-position on admin tablets typically indicates location or distribution category; "door/doorway" as storage/distribution point parallels Akkadian administrative usage.
+HT 34 .1 DA-JU-TE · SI-\*516 ·, the header of a grain tablet with E · GRA 200 and KI-RO 30. With JU at the proposed value lu, DA-JU-TE writes d-l-t: Ugaritic dlt /daltu/ 'door' (Huehnergard 2012, 41), BH dēlet, Akk. daltu. A header in first position names a location or distribution point: the door, doorway. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Exact skeleton match to Ugaritic dlt "door" (Huehnergard 2012, /daltu/). BH dēl
 
 ### Source
 
-di Mino
+di Mino; Huehnergard 2012
 
 ## Attestations
 

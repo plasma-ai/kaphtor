@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sibb- 2 |  |  |
-| Akkadian | šibbu 1 |  |  |
+| Akkadian | šibbu 1 (AHw 1226) | AHw 1226 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

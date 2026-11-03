@@ -38,7 +38,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | rmh (HALOT 1239) | HALOT 1239 |  |
 | Mandaic Aramaic | rma (LGz. 472) | LGz. 472 |  |
 | Syrian Aramaic | rmā 'put, place, cast, throw' (Payne Smith 542) | Payne Smith 542 |  |
-| Pre-Islamic North Arabian | Safaitic rmy (Al-Jallad–Jaworska 117) | Al-Jallad–Jaworska 117 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic rmy (Al-Jallad–Jaworska 117); mrm (Al-Jallad 2026, 124) | Al-Jallad–Jaworska 117; Al-Jallad 2026 124 | gloss withheld |
 | Eblaitic | /r-m-y/: names íl-mi, íl-mi-lum, íl-mi-ì (Sanmartín GlOS 2, 168) | Sanmartín GlOS 2, 168 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

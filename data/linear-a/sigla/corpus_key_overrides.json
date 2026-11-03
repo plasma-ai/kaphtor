@@ -1,0 +1,14 @@
+{
+  "description": "Hand-set corpus.json keys for SigLA documents that neither a corpus.json sigla.id nor a face suffix resolves: joins, and keys corpus.json writes with (?). Read by tools/linear_a/build_sigla_db.py; a SigLA id absent here and unresolved gets corpus_key null.",
+  "overrides": {
+    "HT 123a": "HT123+124a",
+    "HT 123b": "HT123+124b",
+    "HT Wc 3022": "HTWc3022(?)",
+    "HT Zd 156": "HTZd157+156",
+    "HT Zd 157": "HTZd157+156",
+    "KH 68": "KH68+71",
+    "KH 79": "KH79+89",
+    "PH 31a": "PH(?)31a",
+    "PH 31b": "PH(?)31b"
+  }
+}

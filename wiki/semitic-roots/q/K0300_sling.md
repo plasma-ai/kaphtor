@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/q/K0300_sling
 title: "*qVlVʿ-: 'sling'"
-desc: "Proto-Semitic *qVlVʿ-, 'sling': reflexes in 11 language(s)."
+desc: "Proto-Semitic *qVlVʿ-, 'sling': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0300"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | qlʿ, qelaʿ (HALOT 1105, 1106) | HALOT 1105, 1106 | gloss withheld |
 | Judaic Aramaic | qlʿ, qalʿā (HALOT 1105, 1106; Jastrow 1381 apud CAL) | HALOT 1105, 1106; Jastrow 1381; CAL |  |
 | Phoenician | qlʿ (HALOT 1105) | HALOT 1105 |  |
+| Punic | qlʿ (Krahmalkov 427) | Krahmalkov 427 | gloss withheld |
 | Syrian Aramaic | qallaʿ, qelʿā (HALOT 1105, 1106; Payne Smith 507) | HALOT 1105, 1106; Payne Smith 507 |  |
 | Arabic | qalaʿa (HALOT 1105) | HALOT 1105 |  |
 | Ugaritic | qlʿ (HALOT 1106) | HALOT 1106 |  |

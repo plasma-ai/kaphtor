@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:13:39Z
+updated: 2026-11-08T00:35:29Z
 ---
 
 # wiki/linear-a/words/P
@@ -13,27 +13,23 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PA|PA]]: barr: barr- 'wheat, threshed grain'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA3|PA3]]: b(i)=; bād(i): in, with, by; on HT103 perhaps administrative ‘in the charge of’. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA3|PA3]]: bi=: in, with, by (proclitic b-); rival on HT 103 bād(i) 'in the charge of'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3_E|PA3_E]]: bē: in, at (preposition). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA3_KA_RA_TI|PA3_KA_RA_TI]]: baqarāti: cattle, heifers (fem.pl.). Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/P/PA3_KA_RA_TI|PA3_KA_RA_TI]]: baqarāti: cattle, heifers (fem.pl.). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA3_NI|PA3_NI]]: bānī: builder or personnel designation. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA3_NI|PA3_NI]]: bānī: builder (a personnel class). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3_NI_NA|PA3_NI_NA]]: banīna: our builder. Lexicon, PROBABLE (tier 3).
-
-[[wiki/linear-a/words/P/PA3_NI_NA_broken_end|PA3_NI_NA_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PA3_NI_WI|PA3_NI_WI]]: bānīy: the builder (nisba/gentilic). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA3_PU2|PA3_PU2]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PA3_SI_MO|PA3_SI_MO]]: basimo: balsam, spice (aromatic resin). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/P/PA3_SI_star47|PA3_SI_star47]]: basīsa: meal worked with oil or clarified butter (commodity). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA3_SI_star47|PA3_SI_star47]]: Onomasticon personal name, no reading.
-
-[[wiki/linear-a/words/P/PA3_star188|PA3_star188]]: bu-BUṬNU: terebinth (phonetic complement confirming /b/-onset). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA3_star188|PA3_star188]]: bu-buṭnu: terebinth (PA₃ a phonetic complement for the b-onset). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_DA|PA_DA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -57,9 +53,9 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PA_NU_QE|PA_NU_QE]]: Panūq: personal name, 'Pampered'; rival Amorite Banuq. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_RA|PA_RA]]: parr(u): skin, fleece (a hide with its wool); rival 'hair'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PA_RA|PA_RA]]: parr(u): skin, fleece (a hide with its wool). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_RA_NE|PA_RA_NE]]: barāne / parāne: short form of A-PA-RA-NE—'crosser' or 'creator' (without initial guttural prefix). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_RA_NE|PA_RA_NE]]: barāne: short form of A-PA-RA-NE, 'the crosser'; rival 'creator'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_RE|PA_RE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -69,7 +65,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PA_SA_RI_JA|PA_SA_RI_JA]]: Baṣariya: the Baṣirean, gentilic of Baṣīru, a town of Ugarit (Ug. bṣry): a wool section heading. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PA_SE|PA_SE]]: Unread (role only): administrative heading; 2 occurrence(s).
+[[wiki/linear-a/words/P/PA_SE|PA_SE]]: Pašše: Pašše (personal name; Hurrian pašš- 'send'). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PA_SE_JA|PA_SE_JA]]: Paššiya: Paššiya (personal name; Hurrian hypocoristic on pašš- 'send'). Lexicon, SPECULATIVE (tier 1).
 
@@ -87,11 +83,11 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PA_star47_broken_end|PA_star47_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PIRRI|PIRRI]]: fruit. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PIRRI|PIRRI]]: fruit. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_KU_ZU|PI_KU_ZU]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/P/PI_KU_ZU|PI_KU_ZU]]: bi-kuṯ: in flasks (preposition bi- + kuṯ 'flask, jar'; heading of an oil section). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_MI_NA_TE|PI_MI_NA_TE]]: […]-pi-minate: damaged sequence; possible mnt/mināt 'portion, allotment'; rival minḥâ 'offering'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_MI_NA_TE|PI_MI_NA_TE]]: bi-mināti: by the portions (broken before PI); rivals 'by the recitation', minḥâ 'offering'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_MI_TI_TA_RA2|PI_MI_TI_TA_RA2]]: Unread (role only): personal name; 2 occurrence(s).
 
@@ -103,7 +99,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PI_RU_E_JU|PI_RU_E_JU]]: Pirʾu-ʾēlu: personal name, 'Offspring of El'; rival 'Fruit of El'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_SA|PI_SA]]: Pīsa: personal or institutional name, a recipient. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PI_SA|PI_SA]]: Pīsa: personal name, '(a bird)', Akk. būṣu; rival an institution; a recipient. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_TA_JA|PI_TA_JA]]: Pitaya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1).
 
@@ -113,13 +109,13 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PI_TA_RA|PI_TA_RA]]: bidāla: trade agents, deputies, a personnel group drawing grain; rivals bitāri 'portions' and the names Paṭir, Batūl. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PI_TE_RI|PI_TE_RI]]: piṭrī: Pitrī/Puṭrī (personal name; perhaps 'my release'). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PI_TE_RI|PI_TE_RI]]: piṭrī: Piṭrī, personal name, 'my release'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PI_TI_NE_A_broken_end|PI_TI_NE_A_broken_end]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PI_q_SE_broken_end|PI_q_SE_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PI_star310_A|PI_star310_A]]: pīnā: face, front, portion. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PI_star310_A|PI_star310_A]]: pīnā: face, front. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PI_star314_broken_start|PI_star314_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -133,9 +129,11 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PU2_RA2|PU2_RA2]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PU2_RE_JA|PU2_RE_JA]]: burēyā: my Creator (divine epithet). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/P/PU2_RE_JA|PU2_RE_JA]]: burē(t)yā: my Creatress (divine epithet). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/P/PU_DE|PU_DE]]: pudē: refined gold. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PU2_RE_broken_both|PU2_RE_broken_both]]: Unread (unread): no role; 1 occurrence(s).
+
+[[wiki/linear-a/words/P/PU_DE|PU_DE]]: buddē: share(s), portion. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PU_MA_KU|PU_MA_KU]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -143,8 +141,8 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/P/PU_RA|PU_RA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PU_RA2|PU_RA2]]: Bōl/Baʿl: allocation heading; possibly Baal, 'Lord'. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PU_RA2|PU_RA2]]: Bōl: Baal, 'Lord' (allocation heading). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PU_VIN|PU_VIN]]: Unread (role only): recipient or institutional heading; 2 occurrence(s).
+[[wiki/linear-a/words/P/PU_VIN|PU_VIN]]: pūra: the (wine-)vat, a pressing unit (allocation heading); rival 'madder'. Lexicon, SPECULATIVE (tier 1).
 
 ***

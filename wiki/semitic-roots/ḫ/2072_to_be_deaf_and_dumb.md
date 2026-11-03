@@ -31,14 +31,14 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ḫrs 'to be mute' \[BK 1 557\] | BK 1 557 |  |
-| Akkadian | (?) ḫarāšu. |  | gloss withheld |
+| Akkadian | ḫarāšu OB Mari (SED II 346) | SED II 346 | gloss withheld |
 | Mandaic Aramaic | HRS̆ \[DM 153\] | DM 153 | gloss withheld |
-| Ugaritic | /ḫar(r)ašu/ (UVST 130) | UVST 130 | gloss withheld |
 | Hebrew | ḥrš (HALOT 357) | HALOT 357 | gloss withheld |
 | Judaic Aramaic | ḥrš 'to be choked, obstructed, deaf' \[Ja 507\] | Ja 507 |  |
 | Syrian Aramaic | ḥreš 'he was mute, he kept silent' \[Brock 259\] | Brock 259 |  |
 | Aramaic | DALLA ḥršn (pl.) (šmʕw ḥršn mn rḥḳ), OFF ḥrš (ḥrš ʔdnyn), URUK ḫa-ri-iš \[HJ 409\] | HJ 409 | gloss withheld |
 | Modern Aramaic | NSYR ḫarša (SED I 295) | SED I 295 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḫrs (Al-Jallad 2026, 67) | Al-Jallad 2026 67 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

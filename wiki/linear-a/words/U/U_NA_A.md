@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_NA_A
 title: "U-NA-A"
 desc: "wannā(h) / winnā(h): and here, hither. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "particle"]
+tags: ["linear-a", "word", "tier-1", "adverb", "hapax"]
 kind: "word"
 form: "U-NA-A"
 datasets: ["lexicon"]
@@ -34,9 +34,9 @@ updated: 2026-10-24T16:17:50Z
 | Reading | wannā(h) / winnā(h) |
 | Meaning | and here, hither |
 | Root | w- + h-n |
-| Proto-Semitic | \*hn (#3472) |
-| Language layer | NWS |
-| Category | particle |
+| Proto-Semitic | \*hn (#3482) |
+| Language layer | Semitic |
+| Tags | adverb, hapax |
 | Semantic field | particle |
 
 ### Note

@@ -1,7 +1,8 @@
 """Tests for tools/core/competitors.py, the Shoresh competitor null (§2, A15). Spaces are built from hand-written
-entries, and the engine runs on a tmp_path index; TestShippedFiles reads the three rival-language files, read-only."""
+entries, and the engine runs on a tmp_path index; TestShippedFiles reads the four rival-language files, read-only."""
 from __future__ import annotations
 
+import hashlib
 import json
 import random
 
@@ -13,7 +14,9 @@ from tools.core import competitors as cp
 from tools.core import root_match as rm
 from tools.core.phonetics import (
     EGYPTIAN_DISTANCES,
+    HATTIC_DISTANCES,
     LUWIAN_DISTANCES,
+    SEMITIC_DISTANCES,
     _tokenize_phonemes,
     weighted_levenshtein,
 )
@@ -57,8 +60,14 @@ class TestKeys:
         entry = {"Consonantal_Root": root}
         assert (cp.key_of(entry) if digraphs else cp.key_of(entry, digraphs=False)) == key
 
-    def test_egyptian_is_read_without_digraphs(self):
-        assert {s.name: s.digraphs for s in cp.COMPETITORS} == {"luwian": True, "egyptian": False, "hurrian": True}
+    def test_egyptian_and_hattic_are_read_without_digraphs(self):
+        assert {s.name: s.digraphs for s in cp.COMPETITORS} == {"luwian": True, "egyptian": False, "hurrian": True,
+                                                                "hattic": False}
+
+    @pytest.mark.parametrize("root, key", [("zari", ("z", "r")), ("ḫan", ("ḫ", "n")), ("tufentu", ("t", "f", "n", "t")),
+                                           ("kattaḫ", ("k", "t", "t", "ḫ")), ("tsar", ("t", "s", "r"))])
+    def test_hattic_keys_one_letter_a_phoneme(self, root, key):
+        assert cp.key_of({"Consonantal_Root": root}, digraphs=False) == key
 
     def test_a_sum_that_rounds_to_the_cutoff_ties(self):
         space = _space(["ḥʿhkt"])
@@ -70,7 +79,8 @@ class TestKeys:
 
     @pytest.mark.parametrize("entry", [{"Meaning": "Tarhunt (DN)"}, {"Analogues": {"x": "a name (PN)"}},
                                        {"Category": "personal_name"}, {"Category": "nominal_root,royal_name"},
-                                       {"Name_Elements": ["Amun"]}, {"semantic_field": ["toponym"]}])
+                                       {"Name_Elements": ["Amun"]}, {"semantic_field": ["toponym"]},
+                                       {"Category": "divine_epithet"}, {"Category": "ethnic"}])
     def test_names(self, entry):
         assert cp.is_name(entry)
 
@@ -189,13 +199,61 @@ class TestEngine:
         assert "competitor null (§2) not run" in r.notes
 
 
+class TestHatticTable:
+    """HATTIC_DISTANCES (A23): 23 pairs priced only from the grammars cited beside each row, frozen before any run.
+    A changed row changes the hash, and this test, deliberately."""
+
+    def test_the_table_has_its_23_pairs(self):
+        assert len(HATTIC_DISTANCES) == 23
+        assert set(HATTIC_DISTANCES.values()) <= {0.05, 0.1, 0.15, 0.2, 0.3}
+        assert HATTIC_DISTANCES[("p", "b")] == HATTIC_DISTANCES[("t", "d")] == HATTIC_DISTANCES[("k", "g")] == 0.1
+        assert not {"y"} & {c for pair in HATTIC_DISTANCES for c in pair}          # no w/y insert and no y row
+
+    def test_each_competitor_reads_its_own_table(self):
+        tables = {s.name: s.distances for s in cp.COMPETITORS}
+        assert tables["hattic"] is HATTIC_DISTANCES and tables["luwian"] is LUWIAN_DISTANCES
+        assert tables["egyptian"] is EGYPTIAN_DISTANCES and tables["hurrian"] is SEMITIC_DISTANCES
+
+    def test_the_table_is_frozen(self):
+        canon = json.dumps(sorted([list(k), v] for k, v in HATTIC_DISTANCES.items()), ensure_ascii=False)
+        assert hashlib.sha256(canon.encode()).hexdigest()[:16] == "b007c67478b166f9"
+
+
+class TestScriptSide:
+    """D14 (A23): Shoresh's own k ~ ḫ (A11) in every competitor arm, on the letter each file
+    writes the velar fricative with (Luwian and Hurrian romanise ḫ as h). The base tables stay without it."""
+
+    K_H = rm.SHORESH_DISTANCES[("k", "ḫ")]
+
+    def test_every_arm_prices_k_against_its_velar_fricative(self):
+        letters = {"luwian": ("ḫ", "h"), "egyptian": ("ḫ",), "hurrian": ("ḫ", "h"), "hattic": ("ḫ",)}
+        for s in cp.COMPETITORS:
+            space = cp.load(s)
+            for x in letters[s.name]:
+                assert space.sub("k", x) == space.sub(x, "k") == self.K_H, (s.name, x)
+
+    def test_egyptian_h_is_glottal_and_stays_unpriced(self):
+        egyptian = next(s for s in cp.COMPETITORS if s.name == "egyptian")
+        assert cp.load(egyptian).sub("k", "h") == 1.0
+
+    def test_the_base_tables_stay_without_it(self):
+        for s in cp.COMPETITORS:
+            assert ("k", "ḫ") not in s.distances and ("ḫ", "k") not in s.distances, s.name
+            assert cp.load(s, names=True, script_side=False).sub("k", "ḫ") == 1.0, s.name
+
+    def test_a_k_spelling_of_a_hattic_kh_key_now_costs_the_script_side_price(self):
+        hattic = cp.load(next(s for s in cp.COMPETITORS if s.name == "hattic"))
+        assert hattic.distance(("k", "r"), ("ḫ", "r")) == self.K_H
+
+
 class TestShippedFiles:
-    def test_three_competitors_with_letter_keys_and_no_names(self):
+    def test_four_competitors_with_letter_keys_and_no_names(self):
         spaces = {s.name: s for s in cp.load_all()}
-        assert list(spaces) == ["luwian", "egyptian", "hurrian"]
+        assert list(spaces) == ["luwian", "egyptian", "hurrian", "hattic"]
         for s in spaces.values():
             assert s.keys and all(len(k) >= 2 and "".join(k).isalpha() for k in s.keys)
-        hurrian = json.loads((cp.DATA_DIR / "hurrian_roots.json").read_text(encoding="utf-8"))
-        # the shipped file holds the lexical entries only, so no name can reach the key space
-        assert not [e["Number"] for e in hurrian if cp.is_name(e)]
-        assert {n for ns in spaces["hurrian"].keys.values() for n in ns} <= {str(e["Number"]) for e in hurrian}
+        for name in ("hurrian", "hattic"):
+            rows = json.loads((cp.DATA_DIR / f"{name}_roots.json").read_text(encoding="utf-8"))
+            # the shipped file holds the lexical entries only, so no name can reach the key space
+            assert not [e["Number"] for e in rows if cp.is_name(e)], name
+            assert {n for ns in spaces[name].keys.values() for n in ns} <= {str(e["Number"]) for e in rows}, name

@@ -31,7 +31,7 @@ updated: 2026-10-26T14:26:59Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | sḫn \[-a-, -u-\] 1 (Lane 1326); suḫnat 'heat; fever' 5 (Lane 1327) | Lane 1326; Lane 1327 |  |
-| Akkadian | šaḫanu 1, šaḫn- 2; šuḫnu 5 (CAD Š/3 208) | CAD Š/3 208 | gloss withheld |
+| Akkadian | šaḫanu 1, šaḫn- 2 (AHw 1128); šuḫnu 5 (CAD Š/3 208; AHw 1261) | AHw 1128; CAD Š/3 208; AHw 1261 | gloss withheld |
 | Ugaritic | šḫn 2 |  |  |
 | Geez | saḫana 1, 3 |  |  |
 | Jibbali | šḫan 3, šḫan-ún 4 |  |  |
@@ -40,7 +40,7 @@ updated: 2026-10-26T14:26:59Z
 | Judaic Aramaic | šəḥēn (HALOT 1462; DJPA 544a apud CAL) | HALOT 1462; DJPA 544a; CAL | gloss withheld |
 | Syrian Aramaic | šūḥānā (HALOT 1460); šəḥen (HALOT 1462; Payne Smith 571) | HALOT 1460; HALOT 1462; Payne Smith 571 | gloss withheld |
 | Aramaic | CPArm. šḥnʾ (HALOT 1460); CPArm. \*šḥn (HALOT 1462; CAL s.v. šḥn) | HALOT 1460; HALOT 1462; CAL s.v. šḥn | gloss withheld |
-| Mandaic Aramaic | šahana (HALOT 1460); ŠHN (HALOT 1462; Drower/Macuch 451a apud CAL) | HALOT 1460; HALOT 1462; Macuch 451a; CAL | gloss withheld |
+| Mandaic Aramaic | šahana (HALOT 1460); ŠHN (HALOT 1462; MD 451) | HALOT 1460; HALOT 1462; MD 451 | gloss withheld |
 | Tigre | saḥana (HALOT 1462) | HALOT 1462 | gloss withheld |
 | Modern Aramaic | Tur. šaḥuno, šaḥino (RW 483 apud SEDonline 809) | RW 483; SEDonline 809 | gloss withheld |
 

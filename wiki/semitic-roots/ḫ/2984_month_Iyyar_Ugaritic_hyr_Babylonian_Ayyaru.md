@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḫ/2984_month_Iyyar_Ugaritic_hyr_Babylonian_Ayyaru
 title: "*ḫiyyār-: 'month Iyyar (Ugaritic: ḫyr; Babylonian: Ayyaru)'"
-desc: "Proto-Semitic *ḫiyyār-, 'month Iyyar (Ugaritic: ḫyr; Babylonian: Ayyaru)': reflexes in 3 language(s)."
+desc: "Proto-Semitic *ḫiyyār-, 'month Iyyar (Ugaritic: ḫyr; Babylonian: Ayyaru)': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2984"
@@ -31,7 +31,8 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Ugaritic | ḫyr (DULAT 411; HALOT 266); /ḫiyyāru/ (UVST 128) | DULAT 411; HALOT 266; UVST 128 | gloss withheld |
 | Phoenician | ḥyr (Krahmalkov 183, citing KAI 40.1) | Krahmalkov 183, citing KAI 40.1 | gloss withheld |
-| Punic | ḥyr (Krahmalkov 183, citing KAI 81.5) | Krahmalkov 183, citing KAI 81.5 |  |
+| Punic | ḥyr (Krahmalkov 183, citing KAI 81.5); ʾyr (T 14) | Krahmalkov 183, citing KAI 81.5; T 14 | gloss withheld |
+| Emar | ḫi-ia-ri, \[ḫ\]i-ia-rù /ḫiyyāru/ (Pentiuc 2001, 66) | Pentiuc 2001 66 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

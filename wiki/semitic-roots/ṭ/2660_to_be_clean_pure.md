@@ -32,9 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ṭahura 'to be pure, clean' (Lane 1886) | Lane 1886 |  |
 | Ugaritic | ṭhr (DULAT 875); /ṭuhūru/ (UVST 131) | DULAT 875; UVST 131 | gloss withheld |
 | Phoenician | ṭhr (Krahmalkov 201); ṭhrt (T 119) | Krahmalkov 201; T 119 | gloss withheld |
-| Hebrew | ṭāhēr (HALOT 369) | HALOT 369 | gloss withheld |
+| Hebrew | ṭāhēr (HALOT 369); ṭhwr (DNWSI 420); ṭhrt (DNWSI 420) | HALOT 369; DNWSI 420 | gloss withheld |
 | Aramaic | ṭhr (CAL s.v. ṭhr) | CAL s.v. ṭhr | gloss withheld |
-| Geez | ṭahara (Leslau 586) | Leslau 586 | gloss withheld |
+| Geez | ṭahara (LGz. 589) | LGz. 589 | gloss withheld |
 | Jibbali | ṭeher (LGz. 589) | LGz. 589 | gloss withheld |
 | Tigre | ṭähara (LGz. 589) | LGz. 589 | gloss withheld |
 | Gurage | ṭuhara (LGz. 589) | LGz. 589 |  |

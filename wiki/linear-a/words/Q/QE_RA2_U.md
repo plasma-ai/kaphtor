@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE_RA2_U
 title: "QE-RA₂-U"
 desc: "qelwu: parched (roasted) grain. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "grain", "noun"]
 kind: "word"
 form: "QE-RA₂-U"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | parched (roasted) grain |
 | Root | q-l-w |
 | Proto-Semitic | \*ḳVlVw- (#798) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | commodity, foodstuff, grain, noun |
 | Semantic field | commodity |
 
 ### Note
 
-Heads HT1 (KI-RO 197, ZU-SU 70, DI-DI-ZA-KE 52, KU-PA₃-NU 109, A-RA-NA-RE 105), a list with no commodity logogram. Closes the fixed set DA-ME, MI-NU-TE, SA-RU, KU-NI-SU 'assembly', DI-DE-RU on HT95a (under DA-DU-MA-TA · GRA) and HT95b; QA-RA₂-WA closes the same set on HT86a. Hebrew קָלִי 'parched grain', listed with wheat, barley and flour (2 Sam 17:28; Lev 23:14); Syriac qelyātā, Geʿez qēlēw 'roasted' (HALOT s.v. קָלִי); Akkadian qalītu 'parched grain' (CAD Q 59), verb qalû 'burn, roast' (CAD Q 69; OB to NA, Boğazköy and El-Amarna included); Ebla ŠE.GIBIL₄ = ga-a-tum qalwat 'parched grain' (GlOS 1, 346). QE writes the e of qelyātā and qēlēw; RA₂ = /la/; U = /wu/. As a grain product it is the one commodity in a set of parties (KU-NI-SU, SA-RU, DI-DE-RU).
+Heads HT1 (KI-RO 197, ZU-SU 70, DI-DI-ZA-KE 52, KU-PA₃-NU 109, A-RA-NA-RE 105), a list with no commodity logogram. Closes the fixed set DA-ME, MI-NU-TE, SA-RU, KU-NI-SU 'emmer', DI-DE-RU on HT95a (under DA-DU-MA-TA · GRA) and HT95b; QA-RA₂-WA closes the same set on HT86a. Hebrew קָלִי 'parched grain', listed with wheat, barley and flour (2 Sam 17:28; Lev 23:14); Syriac qelyātā, Geʿez qēlēw 'roasted' (HALOT s.v. קָלִי); Akkadian qalītu 'parched grain' (CAD Q 59), verb qalû 'burn, roast' (CAD Q 69; OB to NA, Boğazköy and El-Amarna included); Ebla ŠE.GIBIL₄ = ga-a-tum qalwat 'parched grain' (GlOS 1, 346). QE writes the e of qelyātā and qēlēw; RA₂ = /la/; U = /wu/. With KU-NI-SU 'emmer' it is one of two grain products in a set of parties (SA-RU, DI-DE-RU).
 
 ### Cognates
 

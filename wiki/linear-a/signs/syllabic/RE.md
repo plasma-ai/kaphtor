@@ -42,7 +42,7 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - RE = le- 'to, for, as' (Gordon 1966 §163)
-- KI-RE-TA-NA = Kretana
+- KI-RE-TA-NA = Kretan
 - A-RE, DA-RE, NA-DA-RE (Gordon: Egyptian PNs with -Re)
 
 ## Lexicon words written with this sign
@@ -54,23 +54,24 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-āna | CANDIDATE |
+| [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | Hathar | SPECULATIVE |
 | [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | PROBABLE |
 | [[wiki/linear-a/words/D/DA_RE\|DA-RE]] | dār | CANDIDATE |
-| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddir-dīnā | SPECULATIVE |
+| [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | SPECULATIVE |
 | [[wiki/linear-a/words/D/DU_star314_RE\|DU-\*314-RE]] | dubur | CANDIDATE |
 | [[wiki/linear-a/words/D/DU_PU2_RE\|DU-PU₂-RE]] | dubur | PROBABLE |
-| [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durar | PROBABLE |
-| [[wiki/linear-a/words/I/I_NA_JA_RE_TA\|I-NA-JA-RE-TA]] | hinna yirʾat-\[…\] | SPECULATIVE |
+| [[wiki/linear-a/words/D/DU_RA_RE\|DU-RA-RE]] | durār | PROBABLE |
+| [[wiki/linear-a/words/D/DU_RE_ZA_SE\|DU-RE-ZA-SE]] | turēṯa-se | CANDIDATE |
+| [[wiki/linear-a/words/I/I_NA_JA_RE_TA\|I-NA-JA-RE-TA]] | hinna yarēʾat-\[…\] | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_MI_DA_RE\|JA-MI-DA-RE]] | Yamidare | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_RE_MI\|JA-RE-MI]] | Yarīm | SPECULATIVE |
 | [[wiki/linear-a/words/J/JI_NU_MA_RE\|JI-NU-MA-RE]] | yinumare | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_RE_RO\|KA-RE-RO]] | Kariru | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | kaṯare | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_star310_RE\|KI-\*310-RE]] | kinnār | PROBABLE |
-| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | CONFIRMED |
+| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | PROBABLE |
 | [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]] | Kulelu | CANDIDATE |
 | [[wiki/linear-a/words/K/KU_TU_KO_RE\|KU-TU-KO-RE]] | Kutukkore | SPECULATIVE |
@@ -80,7 +81,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/N/NA_DA_RE\|NA-DA-RE]] | Nadr | PROBABLE |
 | [[wiki/linear-a/words/O/O_SU_QA_RE\|O-SU-QA-RE]] | ʾō Sukar | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
-| [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burēyā | SPECULATIVE |
+| [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burē(t)yā | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | PROBABLE |
 | [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]] | kakkarē | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_RE_TO\|QA-RE-TO]] | qart- | CANDIDATE |
@@ -88,14 +89,16 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE\|RE]] | le- | CONFIRMED |
 | [[wiki/linear-a/words/R/RE_DI_SE\|RE-DI-SE]] | Redis | SPECULATIVE |
+| [[wiki/linear-a/words/R/RE_RO\|RE-RO]] | lalʾu | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_ZA\|RE-ZA]] | (ʾa)raz | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RE_JU\|SA-RE-JU]] | Šarr-ēlu | SPECULATIVE |
-| [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | siddāru | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | Siddāri | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_JA_RE\|TE-JA-RE]] | Teyar | CANDIDATE |
-| [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tamir | CANDIDATE |
+| [[wiki/linear-a/words/T/TO_MI_RE\|TO-MI-RE]] | tōmir | CANDIDATE |
 | [[wiki/linear-a/words/U/U_KA_RE\|U-KA-RE]] | ʾugār | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] | ʾūr-lēwī | CANDIDATE |
+| [[wiki/linear-a/words/W/WI_RA_RE_MI_TE\|WI-RA-RE-MI-TE]] | Wild-rēmti | SPECULATIVE |
 
 <!-- END kaphtor:record -->

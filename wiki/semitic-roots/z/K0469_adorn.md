@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | zaʾānu 'be(come) adorned' | Anderson–Moser 2024 root zyn |  |
+| Akkadian | zaʾānu (AHw 1499) | AHw 1499; Anderson–Moser 2024 root zyn | gloss withheld |
 | Geez | zyn 'decorate' | Anderson–Moser 2024 root zyn |  |
 | Arabic | zāna (LGz. 646) | LGz. 646 |  |
 | Soqotri | zen (LGz. 646) | LGz. 646 |  |

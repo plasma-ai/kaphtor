@@ -80,7 +80,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> Tinit of the Sanctuary (TI-NI-TA · \*307): men 90. 50. \*86 51. RE 20\[. Divine Justice (ʾĪ-Mīšaru) 43\[. QE 21. KI-DA-\[…\]. \[…\]KI-\*310 · KU-\*305\[…\]. \[…\] group of daughters (\]SA-RA-DI) 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.
+> Tinit of the Sanctuary (TI-NI-TA · \*307): men 90. 50. \*86 51. RE 20\[. Il-Mīšar, god of justice 43\[. QE 21. KI-DA-\[…\]. \[…\]KI-\*310 · KU-\*305\[…\]. \[…\] group of daughters (\]SA-RA-DI) 5. Men 42. Total 335 (or 355). CYP 9 J E B, figs 10 B, wine 7.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ Unicode (Linear A block):
 | VIR+\[?\] |  | men | PROBABLE |  |
 | \*86 |  | counted class after VIR, as HT94a |  |  |
 | [[wiki/linear-a/words/R/RE\|RE]] |  | counted entry |  | CONFIRMED (lexicon) |
-| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | ʾī-Mīšaru | Divine Justice / ʾĪ-Mīšaru, heads 43\[ | PROBABLE | PROBABLE (lexicon) |
+| [[wiki/linear-a/words/I/I_MI_SA_RA\|I-MI-SA-RA]] | Il-Mīšar | Il-Mīšar, god of justice, heads 43\[ | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/Q/QE\|QE]] |  | entry, 21 |  | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KI_DA\|KI-DA]] |  | unread |  | unread |
 | [[wiki/linear-a/words/K/KI_star310\|KI-\*310]] |  | unread |  | unread |

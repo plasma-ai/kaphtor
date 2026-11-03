@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/K0353_relax_be_slack
 title: "*rpy: 'relax, be slack'"
-desc: "Proto-Semitic *rpy, 'relax, be slack': reflexes in 3 language(s)."
+desc: "Proto-Semitic *rpy, 'relax, be slack': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0353"
@@ -30,6 +30,7 @@ updated: 2026-10-26T15:47:57Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | rafā(w) (HALOT 1277) | HALOT 1277 | gloss withheld |
+| Ugaritic | rpy Dt (DULAT 733) | DULAT 733 | gloss withheld |
 | Hebrew | rapah (BDB 951); rāpeh (HALOT 1277) | BDB 951; HALOT 1277; Anderson–Moser 2024 root rph | gloss withheld |
 | Syrian Aramaic | rpā 'loose, slack' (Payne Smith 547) | Payne Smith 547 |  |
 

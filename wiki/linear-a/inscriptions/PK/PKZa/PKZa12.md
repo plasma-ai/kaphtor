@@ -9,7 +9,7 @@ site: "Palaikastro"
 support: "Stone vessel"
 period: ""
 translation: "complete"
-words: ["A-DI-KI-TE", "A-TA-I-*301-WA-JA", "JA-PA-QA", "U-NA", "U-NA-RU-KA-NA-SI"]
+words: ["A-DI-KI-TE-TE", "A-TA-I-*301-WA-JA", "JA-PA-QA", "U-NA", "U-NA-RU-KA-NA-SI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -57,12 +57,12 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, complete.
 
-> I make myself a dwelling—\[Dikte … sacred song? … in righteousness? …\]—and behold, may \[there be\] my gathering … \[he opens (his eyes)?\].
+> I make myself a dwelling—\[the Diktaean … sacred song? … in righteousness? …\]—and behold, may \[there be\] my gathering … \[he opens (his eyes)?\].
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾata-inawaya | I make myself a dwelling | CONFIRMED | CONFIRMED (lexicon) |
-| A-DI-KI-TE-\[ | A-Dikte… | \[Dikte …\] | CANDIDATE |  |
+| [[wiki/linear-a/words/A/A_DI_KI_TE_broken_end\|A-DI-KI-TE-&#91;]] | ʾa-Diqqitīt… | \[the Diktaean …\] | CANDIDATE | unread |
 | \]SI-\[ | \[šīrūte\] | \[sacred song?\] | SPECULATIVE |  |
 | \]RA-ME\[ | \[yaššara\]me | \[in righteousness?\] | SPECULATIVE |  |
 | [[wiki/linear-a/words/A/A_etc_NE_broken_start\|&#93;A-&#91;…&#93;-NE]] |  | \[untranslated fragment\] | SPECULATIVE | unread |
@@ -81,7 +81,7 @@ Fragmentary libation table. Sides b–d contain substantial losses; restorations
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/A/A_DI_KI_TE|A-DI-KI-TE]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA|A-TA-I-\*301-WA-JA]], [[wiki/linear-a/words/J/JA_PA_QA|JA-PA-QA]], [[wiki/linear-a/words/U/U_NA|U-NA]], [[wiki/linear-a/words/U/U_NA_RU_KA_NA_SI|U-NA-RU-KA-NA-SI]].
+[[wiki/linear-a/words/A/A_DI_KI_TE_TE|A-DI-KI-TE-TE]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA|A-TA-I-\*301-WA-JA]], [[wiki/linear-a/words/J/JA_PA_QA|JA-PA-QA]], [[wiki/linear-a/words/U/U_NA|U-NA]], [[wiki/linear-a/words/U/U_NA_RU_KA_NA_SI|U-NA-RU-KA-NA-SI]].
 
 ## Corpus note
 

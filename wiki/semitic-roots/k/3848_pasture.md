@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/3848_pasture
 title: "*karr-: 'pasture'"
-desc: "Proto-Semitic *karr-, 'pasture': reflexes in 1 language(s)."
+desc: "Proto-Semitic *karr-, 'pasture': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3848"
@@ -30,6 +30,7 @@ updated: 2026-10-31T13:28:57Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | kar II (HALOT 496); kar (Klein s.v. כַּר ᴵᴵ) | HALOT 496; Klein s.v. כַּר ᴵᴵ | gloss withheld |
+| Phoenician | kr (T 149) | T 149 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

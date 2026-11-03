@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/1325_mutilate_of_nose_or_lips_1_cut_2_beat_3_damage_4
 title: "*gʷVdaʕ/ʾ-: 'mutilate (of nose or lips)' 1, 'cut' 2, 'beat' 3, 'damage' 4"
-desc: "Proto-Semitic *gʷVdaʕ/ʾ-, 'mutilate (of nose or lips)' 1, 'cut' 2, 'beat' 3, 'damage' 4: reflexes in 9 language(s)."
+desc: "Proto-Semitic *gʷVdaʕ/ʾ-, 'mutilate (of nose or lips)' 1, 'cut' 2, 'beat' 3, 'damage' 4: reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1325"
@@ -39,6 +39,7 @@ updated: 2026-10-26T14:26:59Z
 | Argobba | gʷdd 4 |  |  |
 | Tigrinya | gʷdʔ 3, 4 |  |  |
 | Phoenician | gdʿ (B 295) | B 295 | gloss withheld |
+| Gurage | gʷäda (LGz. 180) | LGz. 180 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

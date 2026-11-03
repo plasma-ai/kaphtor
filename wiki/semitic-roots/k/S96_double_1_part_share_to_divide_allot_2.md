@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/S96_double_1_part_share_to_divide_allot_2
 title: "*kpl: 'double' 1, 'part, share; to divide, allot' 2"
-desc: "Proto-Semitic *kpl, 'double' 1, 'part, share; to divide, allot' 2: reflexes in 5 language(s)."
+desc: "Proto-Semitic *kpl, 'double' 1, 'part, share; to divide, allot' 2: reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S96"
@@ -34,6 +34,7 @@ updated: 2026-10-28T05:42:56Z
 | Ugaritic | kpl (HALOT 493) | HALOT 493 |  |
 | Arabic | kifl (HALOT 493); kifl 1, 2 (BK 2 916; Freytag 4 48) | HALOT 493; BK 2 916; Freytag 4 48 | gloss withheld |
 | Geez | kafala 2; kəfl 2 (LGz. 276) | LGz. 276 | gloss withheld |
+| Aramaic | kpl 1 (DNWSI 530) | DNWSI 530 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

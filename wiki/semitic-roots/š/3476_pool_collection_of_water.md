@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3476_pool_collection_of_water
 title: "*šwṭ: 'pool, collection of water'"
-desc: "Proto-Semitic *šwṭ, 'pool, collection of water': reflexes in 2 language(s)."
+desc: "Proto-Semitic *šwṭ, 'pool, collection of water': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3476"
@@ -31,6 +31,7 @@ updated: 2026-10-25T06:28:07Z
 |---|---|---|---|
 | Arabic | sawṭ (HALOT 1440); ʾaswāṭ (Biella 333) | HALOT 1440; Biella 333 | gloss withheld |
 | Epigraphic South Arabian | Sab ʾsyṭ (Biella 333) | Biella 333 | gloss withheld |
+| Eblaitic | ŠÀ.A.UŠₓ = sa-a-tum, si-a-tum /Sawṭ, Siyṭ/ (Sanmartín GlOS 2, 267) | Sanmartín GlOS 2, 267 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

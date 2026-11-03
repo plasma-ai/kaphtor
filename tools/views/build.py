@@ -37,7 +37,7 @@ if __package__ in (None, ""):
     __package__ = "tools.views"
 
 from ..paths import BACKUPS, NotInCheckout
-from . import aegean, indexes, markdown, model, render, roots
+from . import aegean, indexes, markdown, model, pregreek, render, roots, summaries
 
 INDEX = "_index.md"
 SHOWN = 10
@@ -81,13 +81,15 @@ def git_dirty(out: Path) -> list[str] | None:
 def plan(data: Path, out: Path) -> dict:
     """What a write would do, worked out without writing anything."""
     loaded = model.load(data)
-    roots_data = Path(data).parent / "semitic-roots"     # the repository's layout: data/linear-a, data/semitic-roots
+    # the repository's layout: data/linear-a, data/semitic-roots, data/pre-greek
+    roots_data, pregreek_data = Path(data).parent / "semitic-roots", Path(data).parent / "pre-greek"
     pages = render.collect([*render.pages(loaded).items(), *aegean.pages(data).items(),
-                            *roots.pages(roots_data).items()])
+                            *roots.pages(roots_data, pregreek.by_root(pregreek_data)).items(),
+                            *pregreek.pages(pregreek_data, roots_data).items()])
     fresh = {file_for(out, path): text for path, text in sorted(pages.items())}
     result = {"fresh": fresh, "missing": [], "stale": [], "current": [], "orphaned": [], "unmarked": [],
-              "outside": [], "texts": {}, "indexes": {}}
-    for folder, desc in {**indexes.descs(loaded), **roots.descs(roots_data)}.items():
+              "outside": [], "texts": {}, "indexes": {}, "summaries": {}}
+    for folder, desc in {**indexes.descs(loaded), **roots.descs(roots_data), **pregreek.descs(pregreek_data)}.items():
         target = file_for(out, folder + "/" + INDEX.removesuffix(".md"))
         if not target.exists():
             result["indexes"][target] = markdown.frontmatter({"desc": desc}) + "\n"
@@ -96,6 +98,19 @@ def plan(data: Path, out: Path) -> dict:
         if markdown.parse_frontmatter(existing).get("desc") in (None, "", indexes.PLACEHOLDER):
             result["texts"][target] = existing
             result["indexes"][target] = markdown.set_frontmatter(existing, {"desc": desc})
+    # each section's summary, its numbers from the data, in the block under its index's `***`; an index not yet made
+    # starts as the rule and the summary, and `wiki update` writes its rows above them
+    for folder, body in summaries.bodies(loaded, roots_data).items():
+        target = file_for(out, folder + "/" + INDEX.removesuffix(".md"))
+        base = result["indexes"].get(target) or (target.read_text(encoding="utf-8") if target.exists() else None)
+        text = markdown.set_summary(base or markdown.frontmatter({"desc": indexes.PLACEHOLDER}) + "\n", body)
+        if text == base:
+            continue
+        if target in result["indexes"] or base is None:
+            result["indexes"][target] = text
+        else:
+            result["texts"][target] = base
+            result["summaries"][target] = text
     for target in sorted(fresh):
         if not target.exists():
             result["missing"].append(target)
@@ -121,11 +136,12 @@ def plan(data: Path, out: Path) -> dict:
 
 
 def report(result: dict, out: Path) -> None:
-    for name in ("missing", "stale", "orphaned", "unmarked", "outside", "indexes"):
+    for name in ("missing", "stale", "orphaned", "unmarked", "outside", "indexes", "summaries"):
         paths = list(result[name])
         if paths:
             label = {"unmarked": "without the builder's block", "outside": "with text outside the block",
-                     "indexes": "folder indexes without a desc"}.get(name, name)
+                     "indexes": "folder indexes without a desc",
+                     "summaries": "folder indexes whose summary is out of date"}.get(name, name)
             print(f"{len(paths)} {label}:")
             for p in paths[:SHOWN]:
                 print(f"  {p.relative_to(out)}")
@@ -201,7 +217,7 @@ def _run(argv: list[str] | None) -> int:
         report(result, out)
         if (snapshot(out), snapshot(args.data)) != before:
             raise RuntimeError("the check changed files on disk")
-        problems = ("missing", "stale", "orphaned", "unmarked", "outside", "indexes")
+        problems = ("missing", "stale", "orphaned", "unmarked", "outside", "indexes", "summaries")
         return 1 if any(result[name] for name in problems) else 0
 
     dirty = git_dirty(out)
@@ -222,7 +238,7 @@ def _run(argv: list[str] | None) -> int:
     for old, new in moved(result):
         print(f"moved: {old.relative_to(out)} -> {new.relative_to(out)}")
     changed = (result["stale"] + (result["orphaned"] if args.prune else [])
-               + [t for t in result["indexes"] if t in result["texts"]])
+               + [t for t in result["indexes"] if t in result["texts"]] + list(result["summaries"]))
     saved = backup(changed, result["texts"], out, (args.backups or BACKUPS).resolve())
     if saved:
         print(f"backed up {len(changed)} page(s) to {saved}")
@@ -230,12 +246,14 @@ def _run(argv: list[str] | None) -> int:
         write(target, result["fresh"][target])
     for target in result["stale"]:
         write(target, markdown.splice(result["texts"][target], result["fresh"][target], render.OWNED_KEYS))
-    for target, text in result["indexes"].items():
+    for target, text in {**result["indexes"], **result["summaries"]}.items():
         write(target, text)
     for target in result["orphaned"] if args.prune else []:
         target.unlink()
     print(f"wrote {len(result['missing'])} new and {len(result['stale'])} changed page(s)"
           + (f", and {len(result['indexes'])} folder desc(s)" if result["indexes"] else "")
+          + (f", and {len(result['summaries'])} summar{'y' if len(result['summaries']) == 1 else 'ies'}"
+             if result["summaries"] else "")
           + (f"; deleted {len(result['orphaned'])}" if args.prune and result["orphaned"] else ""))
     return 0
 

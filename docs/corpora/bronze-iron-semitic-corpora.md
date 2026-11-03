@@ -29,7 +29,7 @@ them.
 | Ebla Personal Names (Pagan 1998) | 5,309 name forms, 7,589 element occurrences, 2,390 analyses | Acquired and indexed with source ASCII notation retained | Copyright stated; no open-data license located; not redistributable |
 | Prosopography of Ebla | Public alphabetic installments B, G, and K | Three public PDFs; no structured export | Supported export or permission required for the complete database |
 | ELISIR | OntoLex-Lemon Ebla lexical data | Acquired and indexed as a six-entry pilot layer; not represented as a comprehensive lexicon | CC BY 4.0 |
-| Copenhagen Ugaritic Corpus | 279 sign-level/transliterated tablets, principally KTU 1–3 | Upstream checkout updated to v0.2.8/current main; the existing 279-tablet derived index still uses the separately published `auto_parsing/0.2.7` layer | CC BY-NC 4.0 |
+| Copenhagen Ugaritic Corpus | 279 sign-level/transliterated tablets, principally KTU 1–3 | Indexed from `auto_parsing/0.2.7`; v0.2.8's Text-Fabric layer corrects word divisions | CC BY-NC 4.0 |
 | AEMW/Ugarit | 1,900 valid editions: 839 KTU 4 texts, 955 wholly alphabetic-Ugaritic documents, and extensive syllabic Akkadian material | Acquired and indexed | CC0 |
 | Ugarit Texts Database | 4,582-record catalogue with KTU/RS/SAU identifiers and metadata; not full text | Acquired and indexed with 4,582 unique row IDs and 0 parse failures; 922 exact, set-equivalent, or individual repeated-reference groups are retained in a separate ledger | CC BY 4.0 |
 | Open Scriptures Hebrew Bible | Full Hebrew Bible text and morphology | Acquired; 39 biblical books plus verse map | CC BY 4.0 |
@@ -70,18 +70,6 @@ DiCoNab's rights boundary and citation rules are in the DiCoNab section of
 there too; these one-page/one-record clients do not change the bulk-export gaps
 in the table above. CAL remains manual/request-only,
 and no live public CIP/PhDB query database was verified.
-
-## Other open or supported acquisitions to complete
-
-| Corpus | Scope | Status / next step |
-|---|---|---|
-| Ancient Hebrew Inscriptions, Part 1 | Earlier 1991 corpus; AHI2 explicitly re-edits some records under the same numbers | The official item and filenames are identified, but the legacy bitstreams remain unavailable; acquire a supported copy, retain both parts, and ledger every overlap rather than merging silently |
-| EUPT production normalization | Reconcile repository samples with the public TextAPI and index vocalization, translation, commentary, morphosyntax, and annotations | Completed for collection-listed KTU 1.14–1.16; retain EUPT's explicit Draft labels and re-fetch deliberately when versions change |
-| DAPCA integration | Late Bronze cuneiform from Emar and the Middle Euphrates, with room for further collections as released | Completed for the current guest release: 742 editions, 17,243 lines, 58,804 token spans, 0 failures; three conflicting `has_txt`/`has_txt_file` rows are explicitly audited, with release governed by `ready_to_pub` plus the guest-facing `has_txt` flag |
-| Ugarit Texts Database normalization | Crosswalk among KTU, RS/RIH, SAU, RSTI, museum, language, script, genre, object, and findspot metadata | Completed for all 4,582 source rows; source fields remain exact, derived search labels are navigation aids, and repeated references are not merged |
-| OCIANA integration | 37,955 Ancient North Arabian inscriptions with transliteration and translation | Completed: source preserved byte-for-byte; derived parser indexes every record and ledgers duplicate IDs and in-memory control-character repair |
-| DASI token/concordance layer | Add token-level occurrence and critical-state indexing beyond the completed record/name query layer | Build only as a derived layer over the retained EpiDoc; do not infer lemmas or roots that DASI does not supply |
-| Elephantine | Imperial Aramaic documents and metadata | Individual TEI is public, but no supported bulk route is documented; request an export |
 
 Three apparent expansions are not independent text corpora: Moore's Elephantine Figshare deposit is
 a paleography-chart PDF only; the Palmyra Zenodo release is quantitative

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_KI_PI_E_TE
 title: "A-KI-PI-E-TE"
 desc: "Akipe-te: Akipe-te, '(Teššup) brought' (Hurrian personal name, hypocoristic). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-KI-PI-E-TE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Akipe-te |
 | Meaning | Akipe-te, '(Teššup) brought' (Hurrian personal name, hypocoristic) |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

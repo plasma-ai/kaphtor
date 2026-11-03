@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/M/MI_plus_JA_plus_RU
 title: "MI+JA+RU"
-desc: "murru: myrrh or aromatic resin (compound logogram). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "logogram"]
+desc: "murru: myrrh (murru), compound logogram. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "aromatic", "commodity", "ligature", "logogram"]
 kind: "word"
 form: "MI+JA+RU"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | murru |
-| Meaning | myrrh or aromatic resin (compound logogram) |
+| Meaning | myrrh (murru), compound logogram |
 | Root | m-r-r |
-| Proto-Semitic | \*mrr (#3469) |
-| Language layer | NWS |
-| Category | logogram |
+| Proto-Semitic | \*marār- (#K0153) |
+| Language layer | Semitic |
+| Tags | aromatic, commodity, ligature, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Compound logogram (3-sign ligature). 8 tablets across 2 sites (HT×5, KH×3). Always in oil/aromatic commodity sequences alongside \*308 (šamnu), OLE+NE, OLE+RI, OLE+TA, CYP, VIN. Fractional quantities (⅙, ⅓, ½) typical of aromatics. ME-MI-JA-RU on ZAZg35 may be prefixed form \|\| ETYMOLOGY: Pan-Semitic \*mrr 'bitter' → murru 'myrrh' attested in all major branches. 3-sign compound for 2-consonant root suggests ideographic rather than phonetic compound. Cf. Uluburun shipwreck (c. 1300 BCE): aromatic resins traded between Levant and Aegean \|\| Exod 30:23 mōr-dərōr heads the anointing oil recipe in the same position MI+JA+RU occupies in LA aromatic lists. See MA-RI-RE-I.
+A ligature of three signs, on eight tablets at two sites (HT 5, KH 3), always in sequences of oils and aromatics beside \*308 šamnu, OLE+NE, OLE+RI, OLE+TA, CYP and VIN, in the small fractions of aromatics (⅙, ⅓, ½). murru 'myrrh', from pan-Semitic √m-r-r 'bitter'; three signs for a two-consonant root make the compound ideographic, not phonetic. Exod 30:23 mōr-dərōr heads the anointing-oil recipe, the place MI+JA+RU takes in the Linear A aromatic lists, and the Uluburun wreck (c. 1300 BCE) carried aromatic resins between the Levant and the Aegean. ME-MI-JA-RU on ZA Zg 35 is a prefixed form. See MA-RI-RE-I.
 
 ### Cognates
 

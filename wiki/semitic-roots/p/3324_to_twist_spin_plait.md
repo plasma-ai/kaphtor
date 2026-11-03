@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3324_to_twist_spin_plait
 title: "*ptl: 'to twist, spin, plait'"
-desc: "Proto-Semitic *ptl, 'to twist, spin, plait': reflexes in 12 language(s)."
+desc: "Proto-Semitic *ptl, 'to twist, spin, plait': reflexes in 17 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3324"
@@ -41,6 +41,11 @@ updated: 2026-10-25T05:11:48Z
 | Gurage | Muh. fättelä, Msq. Gog. Sod. fättälä (EDG 248 apud SEDonline 1329) | EDG 248; SEDonline 1329 | gloss withheld |
 | Mehri | fətōl (ML 107 apud SEDonline 1329) | ML 107; SEDonline 1329 | gloss withheld |
 | Jibbali | ftɔl (JL 65 apud SEDonline 1329) | JL 65; SEDonline 1329 | gloss withheld |
+| Mandaic Aramaic | ptl (LGz. 170) | LGz. 170 |  |
+| Aramaic | pəṯal (LGz. 170) | LGz. 170 |  |
+| Gafat | fättälä (LGz. 170) | LGz. 170 | gloss withheld |
+| Argobba | fättäla (LGz. 170) | LGz. 170 |  |
+| Harari | fätäla (LGz. 170) | LGz. 170 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

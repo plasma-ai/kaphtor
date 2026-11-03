@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1093_return
 title: "*pVyVʾ-: 'return'"
-desc: "Proto-Semitic *pVyVʾ-, 'return': reflexes in 1 language(s)."
+desc: "Proto-Semitic *pVyVʾ-, 'return': reflexes in 2 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1093"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | fyʔ (Lane 2467) | Lane 2467 |  |
+| Pre-Islamic North Arabian | Safaitic fʾ (Al-Jallad 2026, 47) | Al-Jallad 2026 47 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -47,11 +47,11 @@ updated: 2026-10-22T17:38:31Z
 | Harari | afär | SEDonline semet 3002 | gloss withheld |
 | Gafat | afarä | SEDonline semet 3002 | gloss withheld |
 | Argobba | afär | SEDonline semet 3002 | gloss withheld |
-| Aramaic | ʿpr (Aramaic Root Atlas; DNWSI 879 apud CAL) | Aramaic Root Atlas; DNWSI 879; CAL; Anderson–Moser 2024 root ʿpr | gloss withheld |
+| Aramaic | ʿpr (Aramaic Root Atlas; DNWSI 879) | Aramaic Root Atlas; DNWSI 879; Anderson–Moser 2024 root ʿpr | gloss withheld |
 | Punic | ʿpr 'dirt' | Anderson–Moser 2024 root ʿpr |  |
 | Judaic Aramaic | ʿpr (HALOT 861; DJPA 414b apud CAL) | HALOT 861; DJPA 414b; CAL |  |
 | Mandaic Aramaic | ʿfr (HALOT 861) | HALOT 861 |  |
-| Canaanite | EA ḫa-pa-ru, a-pa-ru (Kogan 2011, 189) | Kogan 2011 189 | gloss withheld |
+| Canaanite | EA ḫa-pa-ru, a-pa-ru (Kogan 2011, 189); EA up-ri /ʕupr/ (Sanmartín GlOS 1, 85) | Kogan 2011 189; Sanmartín GlOS 1, 85 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

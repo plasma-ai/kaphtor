@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/760_be_dry_of_grass_produce_grass
 title: "*ʕaŝab-: 'be dry (of grass), produce grass'"
-desc: "Proto-Semitic *ʕaŝab-, 'be dry (of grass), produce grass': reflexes in 7 language(s)."
+desc: "Proto-Semitic *ʕaŝab-, 'be dry (of grass), produce grass': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "760"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | ʿiśbā (HALOT 889) | HALOT 889 | gloss withheld |
 | Aramaic | Palm. ʿšb (HALOT 889) | HALOT 889 |  |
 | Judaic Aramaic | ʿiś/sbā (HALOT 889) | HALOT 889 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿśb (Al-Jallad 2026, 19) | Al-Jallad 2026 19 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

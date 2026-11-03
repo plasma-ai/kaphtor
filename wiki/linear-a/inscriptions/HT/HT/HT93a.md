@@ -51,7 +51,7 @@ Transliteration, line by line:
 9. O-TI-\[?\] 3
 10. DA-RI-DA \*406-VS 2
 11. \*343 2
-12. PA₃-NI-NA\[
+12. PA₃-NI-NA
 13. \]PA-SE-JA 20
 14. VIR+\[?\] 10 ¹⁄₈\[
 15. \]KA 4
@@ -80,7 +80,7 @@ Unicode (Linear A block):
 
 **SPECULATIVE**, incomplete (status: incomplete).
 
-> Our builder (PA₃-NI-NA) · grain PA₃ · RE+SE 12. Households (DI-RI-NA) · DA+RE+SE 43½. Kidinni 5 J H. Fire offering (A-SE) · I GRA+PA 26¾. The queen's establishment 20. Qaqqaru · I GRA+PA 5. Men-I 6. Dalqu 1½. O-TI-\[…\] 3. Dardaʿ vessel 2, \*343 2. PA₃-NI-NA\[…\] \[…\]PA-SE-JA 20. Men 10 F\[…\] \[…\]KA 4.
+> Our builder (PA₃-NI-NA) · grain PA₃ · RE+SE 12. Households (DI-RI-NA) · DA+RE+SE 43½. Kidinni 5 J H. Physician (A-SE) · I GRA+PA 26¾. The queen's establishment 20. Qaqqaru · I GRA+PA 5. Men-I 6. Dalqu 1½. O-TI-\[…\] 3. Dardaʿ vessel 2, \*343 2. Our builder (PA₃-NI-NA) · \[…\]PA-SE-JA 20. Men 10 F\[…\] \[…\]KA 4.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DI_RI_NA\|DI-RI-NA]] | dīr-īna | households/granaries (SPECULATIVE); rivals the Amorite place name Dīr, a personal name |  | SPECULATIVE (lexicon) |
 | DA+RE+SE |  | ligature (unread) |  |  |
 | [[wiki/linear-a/words/K/KI_DI_NI\|KI-DI-NI]] | Kidinni | personal name, 'protection' (Akk. kidinnu) | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾaššē | fire offering | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾāsē | physician (recipient) | CANDIDATE | CANDIDATE (lexicon) |
 | I |  | sign before GRA+PA (unread) |  |  |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] |  | grain composite (unread) |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | queen/princess or royal establishment | CANDIDATE | CANDIDATE (lexicon) |
@@ -99,13 +99,13 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/O/O_TI_q_broken_end\|O-TI-&#91;?&#93;]] |  | unread |  | unread |
 | [[wiki/linear-a/words/D/DA_RI_DA\|DA-RI-DA]] | Dardaʿ | personal name | SPECULATIVE | SPECULATIVE (lexicon) |
 | \*406-VS |  | vessel sign |  |  |
-| [[wiki/linear-a/words/P/PA3_NI_NA_broken_end\|PA₃-NI-NA&#91;]] |  | unread |  | unread |
+| [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]] | banīna | our builder | PROBABLE | PROBABLE (lexicon) |
 | \]PA-SE-JA |  | unread |  |  |
 | \]KA |  | unread |  |  |
 
 ### Notes
 
-Mixed grain, vessel and personnel ledger in two sections, the first opened by PA₃-NI-NA and the second by PA₃-NI-NA\[, broken after. No KU-RO on this face. Face b \]165 H is the apparent total: the preserved entries reach 161⅜ + H, and breaks on .6–.9 hold the rest. Ligatures RE+SE, DA+RE+SE, GRA+PA unread; GRA PA₃ and I GRA+PA are pairs of separate signs.
+Mixed grain, vessel and personnel ledger in two sections, the first opened by PA₃-NI-NA and the second by PA₃-NI-NA again. No KU-RO on this face. Face b \]165 H is the apparent total: the preserved entries reach 161⅜ + H, and breaks on .6–.9 hold the rest. Ligatures RE+SE, DA+RE+SE, GRA+PA unread; GRA PA₃ and I GRA+PA are pairs of separate signs.
 
 ### Source
 

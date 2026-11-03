@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/š/3282_his_him_pronominal_suffix_3_masc_sg
 title: "*-šū̆: 'his; him (pronominal suffix, 3 masc. sg.)'"
-desc: "Proto-Semitic *-šū̆, 'his; him (pronominal suffix, 3 masc. sg.)': reflexes in 7 language(s)."
+desc: "Proto-Semitic *-šū̆, 'his; him (pronominal suffix, 3 masc. sg.)': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3282"
@@ -36,6 +36,7 @@ updated: 2026-10-25T05:11:48Z
 | Tigrinya | -u (Bulakh–Kogan 2013b:101 apud SEDonline 1566) | SEDonline 1566 | gloss withheld |
 | Epigraphic South Arabian | Sab -hw (suffix, 3 sg. m., also f. and common gender) (Biella 105) | Biella 105 | gloss withheld |
 | Arabic | -hu 'him' (acc. suffix); lahu 'to him' (BK 2 1454) | BK 2 1454 |  |
+| Pre-Islamic North Arabian | Safaitic h; Dadanitic -h; Hismaic -h; Qaryat al-Fāw -h, -hw (Al-Jallad–Jaworska 76) | Al-Jallad–Jaworska 76 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

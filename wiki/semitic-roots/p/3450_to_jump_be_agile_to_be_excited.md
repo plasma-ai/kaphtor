@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/3450_to_jump_be_agile_to_be_excited
 title: "*pzz: 'to jump, be agile; to be excited'"
-desc: "Proto-Semitic *pzz, 'to jump, be agile; to be excited': reflexes in 4 language(s)."
+desc: "Proto-Semitic *pzz, 'to jump, be agile; to be excited': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3450"
@@ -33,6 +33,10 @@ updated: 2026-10-25T05:11:48Z
 | Judaic Aramaic | JBA pazzīz (DJBA 894b apud SEDonline 1897) | DJBA 894b; SEDonline 1897 | gloss withheld |
 | Syrian Aramaic | pzz (SL 1177 apud EDA I 409, ◊P0741); paz (Payne Smith 440); pazīzūtā (Payne Smith 441) | SL 1177; EDA I 409, ◊P0741; Payne Smith 440; Payne Smith 441 | gloss withheld |
 | Arabic | fzz (Lane 2392 apud SEDonline 1897); fazz; fazzat (Lane 2392) | Lane 2392; SEDonline 1897 | gloss withheld |
+| Geez | tafarzaza (LGz. 167) | LGz. 167 | gloss withheld |
+| Tigre | färzäza (LGz. 167) | LGz. 167 | gloss withheld |
+| Tigrinya | fəržuž (LGz. 167) | LGz. 167 | gloss withheld |
+| Amharic | (tän)färäzzäzä; (tä)färäzzäzä (LGz. 167; 168) | LGz. 167 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

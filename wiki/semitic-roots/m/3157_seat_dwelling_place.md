@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Hebrew | mošāb (T 201) | T 201 | gloss withheld |
-| Ugaritic | mṯb (T 201) | T 201 |  |
+| Ugaritic | mṯb (T 201); /mōṯabu/ (UVST 135) | T 201; UVST 135 | gloss withheld |
 | Akkadian | mušābu (T 201) | T 201 |  |
 | Aramaic | Anc. mšb; Nab. mwtb (T 201) | T 201 |  |
 | Judaic Aramaic | motbaʾ (T 201) | T 201 |  |

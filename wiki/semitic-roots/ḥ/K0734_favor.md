@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | ennu 'favour' | Anderson–Moser 2024 root ḥn |  |
 | Hebrew | ḥen 'favour' | Anderson–Moser 2024 root ḥn |  |
-| Punic | ḥn 'divine' | Anderson–Moser 2024 root ḥn |  |
+| Punic | ḥn; Neo-Punic en (Krahmalkov 189) | Krahmalkov 189; Anderson–Moser 2024 root ḥn | gloss withheld |
 | Ugaritic | ḥn 'grace' | Anderson–Moser 2024 root ḥn |  |
 | Judaic Aramaic | ḥinnā (HALOT 332) | HALOT 332 |  |
 | Arabic | ḥannat; ḥanīn (HALOT 332, 333) | HALOT 332, 333 |  |

@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-LGz. 497 also compares Gz. tasakʷra 'become red-hot'; kʷ for g is irregular. Syr. šgar 'pour forth', JA šgr 'spill, send' and pB. šgr 'run, send' (HALOT 1416) are a homonym.
+LGz. 497 also compares Gz. tasakʷra 'become red-hot'; kʷ for g is irregular.
 
 <!-- END kaphtor:record -->

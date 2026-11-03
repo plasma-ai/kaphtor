@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2948_to_have_indigestion
 title: "*ḥmr: 'to have indigestion'"
-desc: "Proto-Semitic *ḥmr, 'to have indigestion': reflexes in 4 language(s)."
+desc: "Proto-Semitic *ḥmr, 'to have indigestion': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2948"
@@ -31,7 +31,6 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | emēru (SED I 293) | SED I 293 | gloss withheld |
-| Hebrew | (?) ḥmr (poʕalal), likely in Lam 1.20, 2.11 (SED I 293) | SED I 293 | gloss withheld |
 | Arabic | ḥmr (SED I 293) | SED I 293 | gloss withheld |
 | Jibbali | aḥmír (SED I 293) | SED I 293 | gloss withheld |
 
@@ -39,6 +38,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-A different etymon from 1566, 769 'clay', 2637 'rock', 2736 'wine' and 2790 'donkey', all on the same consonants.
+CAD E 148 and CAD Ṣ 127 connect emēru with ṣemēru 'to become distended', Syriac ṣᵉmārā 'stranguria' and Talmudic Aramaic ṣᵉmīrtā.
 
 <!-- END kaphtor:record -->

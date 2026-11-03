@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/P/PA3_NI_WI
 title: "PA₃-NI-WI"
 desc: "bānīy: the builder (nisba/gentilic). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ethnonymic"]
+tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "noun", "occupation", "ritual"]
 kind: "word"
 form: "PA₃-NI-WI"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the builder (nisba/gentilic) |
 | Root | b-n-y |
 | Proto-Semitic | \*bVn- (#649) |
-| Language layer | NWS |
-| Category | ethnonymic |
+| Language layer | Semitic |
+| Tags | hapax, libation_formula, noun, occupation, ritual |
 | Semantic field | personnel |
 
 ### Note
 
-√b-n-y "to build" + NWS gentilic suffix \*-iy (written -WI). Syme peak sanctuary libation context, alongside A-TA-I-\*301-WA-JA and JA-I-NWA-RO. RILA-S1 p. 84 underdots WI and rates PA₃-NI-PI less plausible. Same -WI nisba morpheme as DU-RU-WI (\*ḏu-luwwī "the Levite") and U-RE-WI (\*ʾūr-lēwī). PA₃-NI-WI = "the builder" parallels DU-RU-WI = "the attached one/Levite"—both are occupational nisba adjectives from the NWS gentilic \*-iyy-, preserved in Linear A where the /iy/ diphthong writes as WI (glide preserved, not collapsed to Hebrew long -î). The Merarite Levite בָּנִי Bānî bears this exact name. Huehnergard: III-y verb; participle /bāniyu/ → construct /bny/ "creator". Validates participial reading. See PA₃-NI.
+SY Za 4, the Syme libation formula, beside A-TA-I-\*301-WA-JA and JA-I-NWA-RO. √b-n-y 'build' with the NWS gentilic \*-iy, written -WI: bānīy 'the builder'. The same nisba closes DU-RU-WI (\*ḏu-luwwī 'the Levite', 'the attached one') and U-RE-WI (\*ʾūr-lēwī), occupational adjectives from the gentilic \*-iyy-; Linear A writes the glide of /iy/ as WI, where Hebrew contracts it to -î. The Merarite Levite Bānî (בָּנִי, 1 Chr 6:31) bears the name. RILA-S1 underdots WI and rates PA₃-NI-PI less plausible (RILA-S1 84). One attestation. See PA₃-NI.
 
 ### Cognates
 
@@ -67,5 +67,25 @@ di Mino
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/SY/SYZa/SYZa4\|SYZa4]] | bānīy | the Builder | CANDIDATE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Syme |
+| Supports | Stone vessel 1 |
+
+### Note
+
+SY Za 4. See the lexicon entry. One witness.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA|A-TA-I-\*301-WA-JA]] ʾatainawaya, [[wiki/linear-a/words/J/JA_I_NWA_RO|JA-I-NWA-RO]] yā ʾanwaru.
 
 <!-- END kaphtor:record -->

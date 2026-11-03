@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/S/SA_RO
 title: "SA-RO"
-desc: "šarrō: royal allocation/account (the King's entry—šarr- royal-title family). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+desc: "šarr: king; the king's account (heading and recipient). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "accounting", "administrative", "noun"]
 kind: "word"
 form: "SA-RO"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "šarrō"
+reading: "šarr"
 attestations: ["HT9a", "HT17", "HT19", "HT42+59"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | šarrō |
-| Meaning | royal allocation/account (the King's entry—šarr- royal-title family) |
+| Reading | šarr |
+| Meaning | king; the king's account (heading and recipient) |
 | Root | š-r-r |
 | Proto-Semitic | \*ŝarr- (#3463) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | accounting, administrative, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Three convergent supports for the royal reading: (1) the šarr- family is independently established: SA-RU = šarru 'king, prince' (CANDIDATE), SA-RA₂ = šarra 'queen' (CANDIDATE); (2) on HT42+59 the SA-RO block (OLE+KI 8, OLE+U 2) is structurally coordinate with the preceding Šapšu block (OLE+KI 8, OLE+U 7)—recipient behavior, goddess then crown, not a section marker; (3) SA-RO carries its own quantities on HT17 (10) and HT19 (5½), natural for a beneficiary/account line, awkward for a marker; the rival \*šārû 'opening of account' is moreover an inferred noun—the attested Akkadian form is šurrûm 'to begin'. Against it: no case ending yields -o, and the RO beside SA-RU is unexplained (the lexicon has no same-root RO/RU pair)—hence the gloss commits to royal semantics, not the vocalization \*šarrō.
+HT 9a SA-RO · TE · VIN · heads a wine list, the slot RA-\*164-TI holds on HT 17 and HT 19, where SA-RO 10 and SA-RO 5½ stand under VIN; HT 42+59 has SA-RO OLE+KI 8, OLE+U 2. GORILA V 295 reads the second sign as A 315 = Linear B RO₂ (Schrijver 2014, 10 n. 9), its foot traced on HT 17.2 and 19.2, one wine series (Montecchi 2010, 23), plain RO on HT 9a.1 and 42+59. Linear B ro₂ writes /rro, llo/ and alternates with ro (Judson 2020, 74), as RA₂ writes the geminate of SA-RA₂ šarra: šarr 'king', the O vowel dead as in KU-RO kull (Rendsburg 2026, 203 n. 4). SA-RO (4 tablets) and SA-RA₂ (20) never share a tablet. Schrijver takes sa-ro₂ for a variant of sa-ra₂ (2014, 10 n. 9).
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Three convergent supports for the royal reading: (1) the šarr- family is indepe
 
 ### Source
 
-di Mino
+di Mino; GORILA V; Schrijver 2014; Montecchi 2010; Judson 2020; Rendsburg 2026
 
 ## Attestations
 
@@ -68,9 +68,29 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | šarrō | royal allocation/account | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | šarrō | royal allocation/account—the King's entry (šarr- royal-title family) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | šarrō | royal allocation/account—the King's entry (šarr- royal-title family) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šarrō | royal allocation/account—the King's oil entry, coordinate with the Šapšu block (šarr- royal-title family) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT9a\|HT9a]] | šarr | the king's account (heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT17\|HT17]] | šarr | the king's account | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT19\|HT19]] | šarr | the king's account | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT42_plus_59\|HT42+59]] | šarr | the king's account (oil) | CANDIDATE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 4 in 4 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 4 |
+
+### Note
+
+HT 9a, HT 17, HT 19, HT 42+59. See the lexicon entry.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/star/star306_TU|\*306-TU]] ʿAttu, [[wiki/linear-a/words/D/DI_NA_U|DI-NA-U]] Dīnāyu, [[wiki/linear-a/words/P/PA_DE|PA-DE]] Padī.
 
 <!-- END kaphtor:record -->

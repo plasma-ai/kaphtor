@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ś/K0484_hate
 title: "*śVnVʾ-: 'hate'"
-desc: "Proto-Semitic *śVnVʾ-, 'hate': reflexes in 12 language(s)."
+desc: "Proto-Semitic *śVnVʾ-, 'hate': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0484"
@@ -40,7 +40,8 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | sənāʾ (HALOT 1338) | HALOT 1338 |  |
 | Mandaic Aramaic | SNA (HALOT 1338) | HALOT 1338 |  |
 | Epigraphic South Arabian | Sab s₂nʾ (Kogan 2015, ch. 3 §5.2 no. 60; Sabaweb lemma 1263); Qat. s2nʔ (Ricks 1982 s.v. s2nʔ) | Kogan 2015 ch. 3 §5.2 no. 60; Sabaweb lemma 1263; Ricks 1982 s.v. s2nʔ | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic śnʾ (Al-Jallad–Jaworska 126) | Al-Jallad–Jaworska 126 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śnʾ (Al-Jallad–Jaworska 126); śnʾt; Taymanitic śnʾ (Al-Jallad 2026, 141) | Al-Jallad–Jaworska 126; Al-Jallad 2026 141 | gloss withheld |
+| Moabite | šnʔ (DNWSI 1169) | DNWSI 1169 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

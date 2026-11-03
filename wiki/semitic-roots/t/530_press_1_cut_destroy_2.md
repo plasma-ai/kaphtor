@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | tkk \[-u-\] 2 |  |  |
-| Akkadian | takāku 1 |  |  |
+| Akkadian | takāku 1 (AHw 1304) | AHw 1304 |  |
 | Hebrew | tōk 1 (Jr 9:5; Ps 10:7, 55:12; HALOT 1729) | HALOT 1729 | gloss withheld |
 | Judaic Aramaic | tukkā 1 (HALOT 1729) | HALOT 1729 | gloss withheld |
 | Syrian Aramaic | tukkā 1 (HALOT 1729) | HALOT 1729 | gloss withheld |

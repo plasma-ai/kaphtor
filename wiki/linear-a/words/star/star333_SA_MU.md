@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star333_SA_MU
 title: "*333-SA-MU"
 desc: "biśāmu: Balsam, perfume—aromatic personal name (cf. Basemath) on a metal ornament. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "uncategorised"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "*333-SA-MU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Balsam, perfume—aromatic personal name (cf. Basemath) on a metal ornament |
 | Root | b-ś-m |
 | Proto-Semitic | \*bśm (#S84) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-MO Zf 1, a metal ornament from Mokhlos, the word alone. With \*333 = bi, \*333-SA-MU writes biśāmu 'balsam', before the Canaanite shift of ā (Heb. bōśem); a name of the aromatic class, cf. Basemath (Gen 26:34). Weak point: \*333 = bi is a working value. Rival: a label for the object, or a non-Semitic name. One attestation. See PA₃-SI-MO.
+MO Zf 1, a metal ornament from Mokhlos, the word alone. With \*333 = bi, \*333-SA-MU writes biśāmu 'balsam', before the Canaanite shift of ā (Heb. bōśem 'balsam tree; perfume', HALOT 163); a name of the aromatic class, cf. Basemath (Gen 26:34). Weak point: \*333 = bi rests on its three words. Rival: a label for the object, or a non-Semitic name. One attestation.
 
 ### Cognates
 
@@ -51,7 +52,7 @@ MO Zf 1, a metal ornament from Mokhlos, the word alone. With \*333 = bi, \*333-S
 
 ### Source
 
-di Mino
+di Mino; HALOT; Lane
 
 ## Attestations
 

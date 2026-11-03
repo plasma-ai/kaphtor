@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/star/star131B
 title: "*131B"
 desc: "tirōšu: must, new wine (unfermented or partially fermented grape juice) — commodity logogram. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "commodity"]
+tags: ["linear-a", "word", "tier-1", "beverage", "commodity", "foodstuff", "logogram"]
 kind: "word"
 form: "*131B"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | must, new wine (unfermented or partially fermented grape juice) — commodity logogram |
 | Root | t-r-š |
 | Proto-Semitic | \*tīrāṯ- (#S26) |
-| Language layer | NWS |
-| Category | commodity |
+| Language layer | Semitic |
+| Tags | beverage, commodity, foodstuff, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-Wine-variant logogram. AB131 family: VIN=wine (\*wayn\*), \*131B=must (\*tirōšu\*), \*131C=vinegar (ACETUM). 4 attestations across 2 sites. The biblical dāgān-tīrōš-yiṣhār triad (Deut 7:13) mirrors ARKH3a's GRA + \*131B + OLIV. No syllabic spelling of the word is known. Rival: SigLA codes all four tokens VINb, a variant of VIN.
+A wine-class logogram of the AB131 family, beside VIN 'wine' (wayn) and \*131C 'vinegar': ARKH 2 KU-RA \*131B 5 under the heading SI-DA-TE, ARKH 3a \*131B 2 after OLIV 3⅕, ARKH 5 \*131B 6 after A-DA-RO GRA 40, ZA 10b DU-RE-ZA-SE \*131B 5. tirōšu 'must, new wine', Heb. tîrôš (HALOT 1727). The triad dāgān-tîrôš-yiṣhār (Deut 7:13) matches ARKH 3a's GRA, OLIV and \*131B. On ZA 10b DU-RE-ZA-SE turēṯa-se 'for the must' stands before its own logogram. Rival: SigLA codes the ARKH 3a, ARKH 5 and ZA 10b tokens VINb, a variant of VIN, and reads ARKH 2 KU-RA-\*131B as one word. Four attestations, at Arkhanes and Zakros.
 
 ### Cognates
 

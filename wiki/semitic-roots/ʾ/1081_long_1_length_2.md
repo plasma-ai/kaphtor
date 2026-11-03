@@ -36,9 +36,9 @@ updated: 2026-10-26T14:26:59Z
 | Punic | ʾrk (Krahmalkov 72); ʾrk 2 (T 30) | Krahmalkov 72; T 30 | gloss withheld |
 | Hebrew | ʔārōk; ʾōrek 2 (HALOT 88) | HALOT 88 | gloss withheld |
 | Biblical Aramaic | ʾarkā 2 (T 30) | T 30 | gloss withheld |
-| Aramaic | Pal. ʔryk (DJPA 74b apud CAL); ʾRK (Aramaic Root Atlas; DNWSI 108 apud CAL) | DJPA 74b; CAL; Aramaic Root Atlas; DNWSI 108 | gloss withheld |
+| Aramaic | Pal. ʔryk (DJPA 74b apud CAL); ʾRK (Aramaic Root Atlas; DNWSI 108) | DJPA 74b; CAL; Aramaic Root Atlas; DNWSI 108 | gloss withheld |
 | Syrian Aramaic | ʔarrīk- (Kogan 2015, ch. 4 §3.1.2 no. 49); ʾerak, yīrek; pass. part. ʾarrīk (Payne Smith 29); ʾarrīkūtā 2 (Payne Smith 28) | Kogan 2015 ch. 4 §3.1.2 no. 49; Payne Smith 29; Payne Smith 28 | gloss withheld |
-| Mandaic Aramaic | aruk- (Drower/Macuch 37b apud CAL) | Macuch 37b; CAL |  |
+| Mandaic Aramaic | aruk- (MD 37) | MD 37 |  |
 | Modern Aramaic | Urm yarīk- |  |  |
 | Tigre | räyim |  |  |
 | Amharic | räǯim |  |  |
@@ -49,7 +49,7 @@ updated: 2026-10-26T14:26:59Z
 | Soqotri | riyyom |  |  |
 | Arabic | ʾaraka (HALOT 88) | HALOT 88 | gloss withheld |
 | Epigraphic South Arabian | ʾrkn (HALOT 88) | HALOT 88 | gloss withheld |
-| Amorite | ʾarkūt 2 (Sanmartín GlOS 1, 40) | Sanmartín GlOS 1, 40 | gloss withheld |
+| Amorite | ʾarkūt 2 (Sanmartín GlOS 1, 40); /ʾaruk/ 1: name a-ru-ku (Sanmartín GlOS 1, 39) | Sanmartín GlOS 1, 40; Sanmartín GlOS 1, 39 | gloss withheld |
 | Eblaitic | /ʾ-r-k/ 1: names i-rí-gu/gú(-ú), i-rí-gúm/gu-um, i-rí-ig-gú-nu (Sanmartín GlOS 1, 39) | Sanmartín GlOS 1, 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

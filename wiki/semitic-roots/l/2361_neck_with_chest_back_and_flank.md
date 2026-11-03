@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | lubb-at- 'the top of the chest that touches the collarbone' \[BK 2 955\], labab- 'the top of the chest or breast from which a necklace or other neck ornament hangs' \[ibid.\]. | BK 2 955 |  |
+| Arabic | lubb-at- \[BK 2 955\], labab- \[ibid.\]; labbat- (WKAS II, 84 apud SED I 156); labān- (BK 2, 962 apud SED I 156) | BK 2 955; WKAS II, 84; SED I 156; BK 2, 962 | gloss withheld |
 | Mehri | mǝlább \[JM 250\]. | JM 250 | gloss withheld |
 | Akkadian | labânu (labiānu, libânu) OB on \[CAD l 12\] \[AHw 524\] | CAD l 12; AHw 524 | gloss withheld |
 | Tigre | läbbät \[LH 40\] | LH 40 | gloss withheld |

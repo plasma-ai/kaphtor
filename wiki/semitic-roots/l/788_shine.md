@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/l/788_shine
 title: "*lVmaʕ/ḥ-: 'shine'"
-desc: "Proto-Semitic *lVmaʕ/ḥ-, 'shine': reflexes in 2 language(s)."
+desc: "Proto-Semitic *lVmaʕ/ḥ-, 'shine': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "788"
@@ -32,6 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | lmʕ/ḥ a,1; lmʕ 'shine, gleam' (Lane 3013) | Lane 3013 |  |
 | Geez | lamʿa 'shine' | Anderson–Moser 2024 root lmʿ |  |
+| Amharic | lämma (LGz. 315) | LGz. 315 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

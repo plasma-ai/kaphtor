@@ -59,15 +59,15 @@ Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone wi
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_KU_TI\|JA-KU-TI]] | Yaqūti | SPECULATIVE |
-| [[wiki/linear-a/words/J/JA_MA_U_TI\|JA-MA-U-TI]] | Yamūti | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_MA_U_TI\|JA-MA-U-TI]] | Yamwuti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NA_NI_TI\|KA-NA-NI-TI]] | kanaʿanītī | CANDIDATE |
-| [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | \*kanasti | SPECULATIVE |
+| [[wiki/linear-a/words/K/KA_NA_TI\|KA-NA-TI]] | kanasti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_NU_TI\|KA-NU-TI]] | Ganuti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_TI\|KA-TI]] | Qāti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_SA_I_TI\|KO-SA-I-TI]] | Kōšayīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_TI_TI\|MA-TI-TI]] | mattitt(u) | CANDIDATE |
-| [[wiki/linear-a/words/N/NU_TI\|NU-TI]] | nuti | CANDIDATE |
-| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CONFIRMED |
+| [[wiki/linear-a/words/M/MA_TI_ZA_I_TE\|MA-TI-ZA-I-TE]] | Matiʿ-zayti | SPECULATIVE |
+| [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_DA_TE\|QA-TI-DA-TE]] | Kati-tati | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_TI_JU\|QA-TI-JU]] | Qātilu | SPECULATIVE |
@@ -84,14 +84,15 @@ Dual-function sign: syllabogram /ti/ (AB04) + logogram TIʔIN when standalone wi
 | [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | Tati | CANDIDATE |
 | [[wiki/linear-a/words/T/TA2_TI_TE\|TA₂-TI-TE]] | Tati-te | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI\|TI]] | tiʾin | CANDIDATE |
-| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_MA_RU_WI_TE\|TI-MA-RU-WI-TE]] | Tīmar-luwwīt | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinitu Dubur | PROBABLE |
 | [[wiki/linear-a/words/T/TI_NU_JA\|TI-NU-JA]] | Ṯinuya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) / tittōk | CANDIDATE |
-| [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | tittma | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_TI_MA\|TI-TI-MA]] | ṯiṯṯīma | CANDIDATE |
+| [[wiki/linear-a/words/T/TU_MI_TI_ZA_SE\|TU-MI-TI-ZA-SE]] | tumtiṣa-se | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_NA_RU_KA_NA_TI\|U-NA-RU-KA-NA-TI]] | wannā lū kanasti / winnā lū kanasti | CANDIDATE |
 | [[wiki/linear-a/words/U/U_QE_TI\|U-QE-TI]] | wōqedt | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TI\|U-TI]] | Utti | SPECULATIVE |

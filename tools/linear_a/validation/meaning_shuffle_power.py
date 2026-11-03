@@ -24,8 +24,8 @@ own; the Semitic plants by every competitor's test too (cross-talk both ways). A
 run, as a word list holds each word once, so an arm with few plants plants fewer than k (planted, planted_range; the
 k it falls short at, plant_limited). k80 is the planted count at the least k whose power reaches 0.8. The same seed draws the same slots and plants for every test, so the tests are compared on the same runs.
 
-The competitor arm gates each rival-language key by its entry's Meaning. The shipped Luwian, Egyptian and Hurrian
-files carry no Meaning, so here the run stops with exit 2 unless --no-competitors; KAPHTOR_DATA points it at a data
+The competitor arm gates each rival-language key by its entry's Meaning. The shipped Luwian, Egyptian, Hurrian and
+Hattic files carry no Meaning, so here the run stops with exit 2 unless --no-competitors; KAPHTOR_DATA points it at a data
 folder whose rival files carry glosses (the corpus, roots and lexicon are read from there too).
 
 Writes only --out, which must not exist; prints progress to stderr. The input hashes in the report are those of the

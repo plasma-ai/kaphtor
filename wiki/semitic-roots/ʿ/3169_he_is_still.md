@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3169_he_is_still
 title: "*ʕād-: '(he is) still'"
-desc: "Proto-Semitic *ʕād-, '(he is) still': reflexes in 10 language(s)."
+desc: "Proto-Semitic *ʕād-, '(he is) still': reflexes in 13 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3169"
@@ -39,6 +39,9 @@ updated: 2026-10-24T15:25:56Z
 | Jibbali | ˁɔd (JL 19 apud SEDonline 1242) | JL 19; SEDonline 1242 | gloss withheld |
 | Harsusi | ˀād (HL 12 apud SEDonline 1242) | HL 12; SEDonline 1242 | gloss withheld |
 | Soqotri | ˁad (LS 302; SLOnline 3348); ˁad (LS 302; SLOnline 26306) | LS 302; SLOnline 3348; SLOnline 26306 | gloss withheld |
+| Phoenician | wʿd (T 239) | T 239 | gloss withheld |
+| Aramaic | ʕōd (LGz. 56) | LGz. 56 | gloss withheld |
+| Ugaritic | ʕd (LGz. 56) | LGz. 56 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

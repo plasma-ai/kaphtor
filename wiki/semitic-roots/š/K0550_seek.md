@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šeʾû 'seek (out)' | Anderson–Moser 2024 root šʿy |  |
+| Akkadian | šeʾû (AHw 1222) | AHw 1222; Anderson–Moser 2024 root šʿy | gloss withheld |
 | Hebrew | šaʿah 'look' | Anderson–Moser 2024 root šʿy |  |
 | Soqotri | šiʿi (HALOT 1609) | HALOT 1609 |  |
 | Phoenician | \*šʿy: tšʿm (T 328) | T 328 | gloss withheld |

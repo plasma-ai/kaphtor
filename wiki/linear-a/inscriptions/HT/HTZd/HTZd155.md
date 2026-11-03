@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Graffito"
 period: "LMIB"
 translation: "incomplete"
-words: ["MA-TI-TI"]
+words: ["A-JU", "MA-TI-TI", "NA-MA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 Transliteration, line by line:
 
-1. A-JU 𐄁 NA-MA-MA-TI-TI-A319
+1. A-JU 𐄁 NA-MA-MA-TI-TI-\*319
 
 Unicode (Linear A block):
 
@@ -52,12 +52,12 @@ Unicode (Linear A block):
 
 **CANDIDATE**, incomplete (status: incomplete).
 
-> A-JU \[unread\] · NA-MA 'pleasant'(?) · gift · A319 \[unidentified commodity\]
+> Ḥayyu · Naʿma: gift · A319 \[unidentified commodity\]
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_JU\|A-JU]] |  | unread—vowel+JU carries ≤1 consonant, too little for a match to beat chance; hinges on the standalone-JU value dispute |  | unread |
-| NA-MA-MA-TI-TI-A319 | naʿma \| mattitt(u) \| A319 | NA-MA \| MA-TI-TI \| A319, cut by the MA-TI-TI-A319 that closes HT Zd 157. NA-MA, cf. √n-ʿ-m 'pleasant'; MA-TI-TI 'gift' (Heb. mattat &lt; \*mattant, HALOT 656); A319 an unidentified commodity logogram with no sound value | CANDIDATE |  |
+| [[wiki/linear-a/words/A/A_JU\|A-JU]] | Ḥayyu | Ḥayyu 'Living' (personal name), before the divider, where HT Zd 157 has a single stroke | SPECULATIVE | SPECULATIVE (lexicon) |
+| NA-MA-MA-TI-TI-A319 | Naʿma \| mattitt(u) \| A319 | NA-MA \| MA-TI-TI \| A319, cut by the MA-TI-TI-A319 that closes HT Zd 157. NA-MA Naʿma 'Grace' (personal name, √n-ʿ-m), in WI-JA-SU's slot on HT Zd 157; MA-TI-TI 'gift' (Heb. mattat &lt; \*mattant, HALOT 656); A319 an unidentified commodity logogram with no sound value | CANDIDATE |  |
 
 ### Notes
 
@@ -65,7 +65,7 @@ HT Zd 155 and 157 both end in MA-TI-TI-A319, which fixes the cut although no div
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/M/MA_TI_TI|MA-TI-TI]].
+[[wiki/linear-a/words/A/A_JU|A-JU]], [[wiki/linear-a/words/M/MA_TI_TI|MA-TI-TI]], [[wiki/linear-a/words/N/NA_MA|NA-MA]].
 
 ## Corpus note
 

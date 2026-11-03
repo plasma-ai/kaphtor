@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Aramaic | MWṬ 'totter' | Anderson–Moser 2024 root mwṭ |  |
-| Hebrew | mowṭ 'totter' (BDB 556) | BDB 556; Anderson–Moser 2024 root mwṭ |  |
+| Hebrew | mowṭ (BDB 556); myṭ (hifʕil) (LGz. 377) | BDB 556; LGz. 377; Anderson–Moser 2024 root mwṭ | gloss withheld |
 | Arabic | myṭ (HALOT 555) | HALOT 555 |  |
 | Geez | mēṭa (HALOT 555) | HALOT 555 |  |
 | Syrian Aramaic | māṭ 'totter, lean over, stagger; quiver' (Payne Smith 257) | Payne Smith 257 |  |

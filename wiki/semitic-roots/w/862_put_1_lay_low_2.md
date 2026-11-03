@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/862_put_1_lay_low_2
 title: "*w/yVṣ̂Vʕ-: 'put' 1, 'lay low' 2"
-desc: "Proto-Semitic *w/yVṣ̂Vʕ-, 'put' 1, 'lay low' 2: reflexes in 2 language(s)."
+desc: "Proto-Semitic *w/yVṣ̂Vʕ-, 'put' 1, 'lay low' 2: reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "862"
@@ -32,6 +32,8 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Arabic | wḍʕ (Lane 3055), yḍʕ; waḍīʿ 'low, ignoble, vile, mean' 2; tawāḍaʿa 'he was, became, lowly, humble' 2 (Lane 3055) | Lane 3055 |  |
 | Epigraphic South Arabian | Sab wḍʿ 2 (SD 157); wḍʿ 2 (Biella 143) | SD 157; Biella 143 | gloss withheld |
+| Hebrew | yṣʿ hif., hof. 1 (HALOT 428) | HALOT 428 | gloss withheld |
+| Eblaitic | wa-za-ù, wa-za-um, wa-za-ù-um, wu-zu-um /w-ṣ́-ʕ/ 1 (= Sum. NI.BA.BÀRA, ŠU.GUB) (Sanmartín GlOS 2, 362) | Sanmartín GlOS 2, 362 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T/TA_TA
 title: "TA-TA"
 desc: "Tatta: Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "TA-TA"
 datasets: ["lexicon", "onomasticon"]
@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tatta |
 | Meaning | Tatta (Hurrian personal name), stem tatt-; rival the Anatolian name Tata |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-KH 7a .3 I-JA-PA-ME · TA-TA ·, whole and undotted, a section heading with no logogram or number, before QA-TI-KI VIR+\*313b 4 (GORILA III 29). Hurrian ᶠTatta, a woman at Mari (Monti 2017, 302), sign for sign with the geminate unwritten. Rival: the Anatolian name Tata/Tatta (Hittite Personal Names 0.1). One witness.
+KH 7a .3 I-JA-PA-ME · TA-TA ·, whole and undotted, a section heading with no logogram or number, before QA-TI-KI VIR+\*313b 4 (GORILA III 29). Hurrian ᶠTatta, a woman at Mari (Monti 2017, 302), sign for sign with the geminate unwritten. Rival: the Anatolian name Tata/Tatta (Marizza and Cammarosano, Hittite Personal Names, s.v. Tata, Tatta). One witness.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ KH 7a .3 I-JA-PA-ME · TA-TA ·, whole and undotted, a section heading with no l
 
 ### Source
 
-di Mino; Monti 2017
+di Mino; Monti 2017; Marizza and Cammarosano
 
 ## Attestations
 

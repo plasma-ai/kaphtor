@@ -42,7 +42,7 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | sahrā (HALOT 1311) | HALOT 1311 |  |
 | Amorite | \*ŝahr (Golinets 2025, 888) | Golinets 2025 888 | gloss withheld |
 | Mehri | ŝēhər (Kogan 2015, ch. 2 §4.2 no. 57) | Kogan 2015 ch. 2 §4.2 no. 57 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic śhr (Al-Jallad–Jaworska 125) | Al-Jallad–Jaworska 125 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic śhr (Al-Jallad–Jaworska 125); Dadanitic śhr (Al-Jallad 2026, 139) | Al-Jallad–Jaworska 125; Al-Jallad 2026 139 | gloss withheld |
 | Eblaitic | sa-ʔà-lum, ⸢sa⸣-ʔà-a-um /śah(a)rum/ (VE 1135; Krebernik 1983, 40) | VE 1135; Krebernik 1983, 40 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

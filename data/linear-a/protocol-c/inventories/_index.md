@@ -16,7 +16,7 @@ updated: 2026-10-29T19:48:19Z
 
 [[data/linear-a/protocol-c/inventories/schema.json|schema.json]]: The inventory format: one entry per realization, its slot in the template of amendment A2, its segments, function and source, and the class order.
 
-[[data/linear-a/protocol-c/inventories/tables/_index|tables/]]: The per-arm unit lists of TABLES.md, each unit with its section, title and page.
+[[data/linear-a/protocol-c/inventories/tables/_index|tables/]]: The per-arm unit lists of TABLES-C0.md, each unit with its section, title and page.
 
 ***
 
@@ -30,3 +30,6 @@ The per-arm files named the research tree's copies of the grammars by absolute p
 `run_builder.sh` cut them for the builders, so each file here is, below its frontmatter, the `units.md` its builder
 was given; in `tables/cs.md` and `TABLES-C0.md` it also cut the private source ids, and it set a blank line before
 three lists the wiki would read as wrapped lines (`PORT-LEDGER.json`).
+
+TABLES-C0 gives the hurrian arm 32 units; `tables/hurrian.md` lists 33 (Tabelle 1–2 among them), and the builder
+read all 33.

@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/M/MA_KA_I_TA
 title: "MA-KA-I-TA"
-desc: "makita: magical protection, protective amulet/rite (Egyptian loanword). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "ritual"]
+desc: "Makīt: personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "personal_name"]
 kind: "word"
 form: "MA-KA-I-TA"
-datasets: ["lexicon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.45
-reading: "makita"
+datasets: ["lexicon", "onomasticon"]
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "Makīt"
 attestations: ["PK1", "ZA5b"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,28 +27,32 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.45
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
-| Reading | makita |
-| Meaning | magical protection, protective amulet/rite (Egyptian loanword) |
-| Root | mk.t |
-| Language layer | Middle Egyptian |
-| Category | ritual |
-| Semantic field | ritual |
+| Reading | Makīt |
+| Meaning | personal name (f.), the feminine of Makī (MA-KA-I-SE); rival the Egyptian name mkj·t |
+| Root | q-w-m |
+| Proto-Semitic | \*ḳVwVm- (#1134) |
+| Language layer | Semitic |
+| Tags | personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-Egyptian mk.t 'magical protection' (Wb II 161, √mk 'to protect'). Cross-register: PK1 (tablet, Palaikastro—personnel list, all qty=1) and ZA5b (stone vessel, Zakros—with qty 3 alongside SI-PI-KI 'libation pourings'). Skeleton mkt has no close NWS or Proto-Semitic match, confirming Layer 3 (Egyptian contact). The -TA suffix preserves the Egyptian feminine -t intact as a commodity/category label. Compare MA-KA-I-SE (ZA8), which re-derives from the same \*makī-\* base using a NWS agentive suffix \*-šē\*: the -TA form functions as a ritual commodity ('magical protections: 3' on ZA5b), while the -SE form functions as a personal name ('protector') in a personnel list. This contact-layer morphological hybridization—Egyptian loanword preserved intact alongside a Semitized derivation—parallels Amarna Canaanite patterns. The onomasticon's competing MLK reading (\*Malkīta\* 'Queen') is weakened by the same objection raised against MA-KA-I-SE: the skeleton is m-k, not m-l-k (no /l/ sign).
+PK 1 MA-KA-I-TA 1 closes a roster of names entered singly (A-DU-ZA, TA₂-TA-RE, O-KA-MI-ZA-SI-I-NA); ZA 5b MA-KA-I-TA 3 follows SI-PI-KI 1½ in the wine register, a recipient. The feminine of Makī (MA-KA-I-SE, ZA 8), TA the feminine t. Egyptian writes the name mkj·t, borne by women and men in the Middle Kingdom (Ranke I, 166.17), I for j sign for sign. Rival: the Egyptian name mkj·t as a loan.
 
 ### Cognates
 
-Egyptian mk.t 'protection, magical protection' (Wb II 161); from √mk 'to protect'. Cross-register: appears on both administrative tablets and stone ritual vessels
+| Language | Comparison |
+|---|---|
+| Amorite | me-ki-im maqīm 'Established', the masculine (Buck 2019, 307; Gelb 1980 no. 4648 ME-QWIM, no. 4649 ME-KWIN) |
+| Egyptian | mkj·t, women and men, Middle Kingdom (Ranke I, 166.17); mk·t (Ranke I, 166.19); rival |
 
 ### Source
 
-di Mino
+di Mino; Gelb; Buck; Ranke
 
 ## Attestations
 
@@ -61,7 +65,23 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | makita | magical protection, amulet (Egyptian mk.t), 1 | CANDIDATE |
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | makita | magical protection (Egyptian mk.t) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/PK/PK/PK1\|PK1]] | Makīt | Makīt (f.), 1 | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA5b\|ZA5b]] | Makīt | Makīt (f.), a recipient, 3 | SPECULATIVE |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 2 in 2 documents |
+| Sites | Palaikastro, Zakros |
+| Supports | Tablet 2 |
+
+### Note
+
+PK 1 MA-KA-I-TA 1, last in a roster of names entered singly; ZA 5b MA-KA-I-TA 3 in the wine register, after SI-PI-KI. Makīt, the feminine of Makī (MA-KA-I-SE). Rival: Egyptian mkj·t, a Middle Kingdom name (Ranke I, 166.17).
 
 <!-- END kaphtor:record -->

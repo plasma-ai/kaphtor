@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_RE
 title: "DA-RE"
 desc: "dār: estate, household (a unit receiving men and grain); rival 'kin group, clan'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+tags: ["linear-a", "word", "tier-2", "administrative", "noun"]
 kind: "word"
 form: "DA-RE"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | estate, household (a unit receiving men and grain); rival 'kin group, clan' |
 | Root | d-w-r |
 | Proto-Semitic | \*dār- (#657) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, noun |
 | Semantic field | administrative |
 
 ### Note
 
-Seven documents at Haghia Triada, Khania and Palaikastro: a head count on three rosters of men (HT 7a, 85a, 122b), beside named men and work groups, and a grain or goods share on four lists (HT 10a, 10b, KH 104, PK 3), the largest on HT 10a (16½) and PK 3 (72). \*dār- 'dwelling, house' (no. 657). Rival \*dawr- 'clan, group of relatives' (no. 40). See DI-RI-NA.
+Seven documents at Haghia Triada, Khania and Palaikastro: a head count on three rosters of men (HT 7a, 85a, 122b), beside named men and work groups, and a grain or goods share on four lists (HT 10a, 10b, KH 104, PK 3), the largest on HT 10a (16½) and PK 3 (72). dār 'dwelling, house': Heb. dôr 'dwelling' (Isa 38:12), Arab. dār 'house'. Rival: \*dawr- 'clan, group of relatives' (#40), Ug. dr 'circle, group, assembly' (DULAT 277). See DI-RI-NA.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Seven documents at Haghia Triada, Khania and Palaikastro: a head count on three 
 
 ### Source
 
-di Mino
+di Mino; DULAT
 
 ## Attestations
 

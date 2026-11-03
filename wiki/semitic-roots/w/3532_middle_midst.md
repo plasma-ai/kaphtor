@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3532_middle_midst
 title: "*wšṭ: 'middle, midst'"
-desc: "Proto-Semitic *wšṭ, 'middle, midst': reflexes in 2 language(s)."
+desc: "Proto-Semitic *wšṭ, 'middle, midst': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3532"
@@ -31,6 +31,12 @@ updated: 2026-10-25T06:28:07Z
 |---|---|---|---|
 | Arabic | wasṭ, wasaṭ 'in the middle of, in the midst of; middle, midst' (Lane 2941) | Lane 2941 |  |
 | Epigraphic South Arabian | Sab ws1ṭ (SD 163); wsṭ (Biella 132) | SD 163; Biella 132 | gloss withheld |
+| Geez | wəsṭ (LGz. 620) | LGz. 620 | gloss withheld |
+| Tigre | wəst, wəsṭ (LGz. 620) | LGz. 620 | gloss withheld |
+| Tigrinya | wəsṭä (LGz. 620) | LGz. 620 | gloss withheld |
+| Amharic | wəsṭ (LGz. 620) | LGz. 620 |  |
+| Gurage | wəsṭ (LGz. 620) | LGz. 620 |  |
+| Harari | usṭu (LGz. 620) | LGz. 620 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_KI_TI
 title: "DA-KI-TI"
 desc: "daqqati: fine (powder), ground fine. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "ritual"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "ritual"]
 kind: "word"
 form: "DA-KI-TI"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | fine (powder), ground fine |
 | Root | d-q-q |
 | Proto-Semitic | \*diḳ(ḳ)- (#1654) |
-| Language layer | NWS |
-| Category | ritual |
+| Language layer | Semitic |
+| Tags | hapax, noun, ritual |
 | Semantic field | ritual |
 
 ### Note
 
-KNZc6 register .2, after QI-TI-RI 'my incense' and A-DI 'until': incense ground fine, the Hebrew qəṭōret … daqqâ (Lev 16:12). Written as one unit with PA-KU 'flask' (DA-KI-TI-PA-KU, closed by a divider before NI-JA-NU). QI-TI-RI is masculine, so DA-KI-TI is a noun 'fine powder', not an adjective agreeing with it. Alternative: genitive of the divine name, 'of Daqqatu' (Ugaritic dqt, DN 'the Little One', CUC), cf. JA-DI-KI-TU and A-DI-KI-TE-TE. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE. SKOZc2 \]DE-KI-TI\[ (Skoteino cave, painted vessel) may be the same word, broken on both sides and not counted.
+KN Zc 6 register .2, after QI-TI-RI 'my incense' and A-DI 'until': incense ground fine, the Hebrew qəṭōret … daqqâ (Lev 16:12), Ug. dqt 'small, tiny, fine' (DULAT 276). Written as one unit with PA-KU 'flask' (DA-KI-TI-PA-KU, closed by a divider before NI-JA-NU). QI-TI-RI is masculine, so DA-KI-TI is a noun 'fine powder'. Rival: genitive of the divine name, 'of Daqqatu' (Ugaritic dqt, DN 'the Little One', DULAT 276), cf. JA-DI-KI-TU and A-DI-KI-TE-TE. Younger reads A-DI-DA-KI-TI-PA-KU as a muddled A-DI-KI-TE (Younger, Linear A Texts, Other Texts: Knossos). Cf. SKO Zc 2 \]DE-KI-TI\[ (Skoteino cave, a painted vessel), broken on both sides.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ KNZc6 register .2, after QI-TI-RI 'my incense' and A-DI 'until': incense ground 
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; DULAT; Younger, Linear A Texts
 
 ## Attestations
 

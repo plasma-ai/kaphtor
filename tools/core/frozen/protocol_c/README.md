@@ -20,5 +20,6 @@ in the shipped tree, kept because it is the builder's environment as recorded, a
 repository and with no user name in it. The redacted logs write it `$KIT`. Its other paths are
 written `research-tree` and `minoanmystery-astro`, the two checkouts it read, and its own refusal test for a local
 path in `units.md` is written `"/Users" "/"`, the same string. `check_inventory.py` names its corpus
-`linear-a-decipherment/data/corpus.json`; `protocol_c.py` points it at this repository's `data/linear-a/corpus.json`,
-which yields the same 1,070 hyphenated words.
+`linear-a-decipherment/data/corpus.json`; `protocol_c.py reproduce` points it at the 1,070 hyphenated words it read in
+C1, `data/linear-a/protocol-c-c1-words.txt` (count and sha256 checked), and reports how far `data/linear-a/corpus.json`
+has moved from that list.

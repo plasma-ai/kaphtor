@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/S54_to_fall
 title: "*mqt: 'to fall'"
-desc: "Proto-Semitic *mqt, 'to fall': reflexes in 1 language(s)."
+desc: "Proto-Semitic *mqt, 'to fall': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S54"
@@ -30,6 +30,9 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | maqātu/imqut (OLA80 §57.3) | OLA80 §57.3 |  |
+| Eblaitic | /m-q-ṭ/: a-gu-du, la-mu-gu-du /lu=(ʾa)mquṭ=/ (Sanmartín GlOS 2, 37) | Sanmartín GlOS 2, 37 | gloss withheld |
+| Epigraphic South Arabian | Sab mqṭt (Biella 282) | Biella 282 | gloss withheld |
+| Amorite | mqṭ: jamquṭ, BT jamtaqaṭ (Gelb AS 21, 25) | Gelb AS 21 25 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/MA_RU_ME
 title: "MA-RU-ME"
 desc: "marūm: the wool (substrate commodity noun with Semitic mimation). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity"]
+tags: ["linear-a", "word", "tier-2", "commodity", "hapax", "ligature", "noun", "textile"]
 kind: "word"
 form: "MA-RU-ME"
 datasets: ["lexicon"]
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Reading | marūm |
 | Meaning | the wool (substrate commodity noun with Semitic mimation) |
 | Root | substrate (non-Semitic wool word maru) |
-| Language layer | substrate |
-| Category | commodity |
+| Language layer | Aegean |
+| Tags | commodity, hapax, ligature, noun, textile |
 | Semantic field | commodity |
 
 ### Note
 
-HT 24a writes the word with the wool ligature MA+RU (A559) followed by ME (GORILA I 43): .2 MA+RU-ME 10, .3 MA+RU-MẸ 6, .4 PA-SA-RI-JA · MA+RU-MẸ\[, broken after ME. The ligature is the logogram MARU 'wool' (Salgarella 2022, Mix and Match; Nosch & Weilhartner 2026), the Minoan wool word /maru/ that passed into Greek as μαλλός, and -ME adds mimation, the spelling convention of JA-SA-SA-RA-ME = yaššaram. The two complete entries carry quantities (10, 6) under two section headings, a commodity distribution, not a personal name. Mimation doublet with syllabic MA-RU (HT117a). Context: wool allocations under the Kubaba-adjective heading KU-PA₃-RI-JA, cf. the Knossos Linear B wool series for religious dependents.
+HT 24a, under the heading KU-PA₃-RI-JA · KI-MA+RU-\[, writes the word with the wool ligature MA+RU (A 559) followed by ME (GORILA I 43): .2 MA+RU-ME 10, .3 MA+RU-MẸ 6, .4 PA-SA-RI-JA · MA+RU-MẸ\[, broken after ME. The ligature is the wool logogram AB MA+RU (Nosch and Weilhartner 2026, 122–123, 131), the Minoan wool word maru that Greek keeps as μαλλός, Cretan μάλλυκες in Hesychius (Salgarella, Mix and Match, n. 8); -ME adds mimation, the spelling convention of JA-SA-SA-RA-ME yaššaram. The two complete entries carry quantities (10, 6) under two section headings, a wool distribution. Mimation doublet of syllabic MA-RU (HT 117a).
 
 ### Cognates
 
@@ -51,7 +51,7 @@ HT 24a writes the word with the wool ligature MA+RU (A559) followed by ME (GORIL
 
 ### Source
 
-di Mino
+di Mino; GORILA I; Nosch and Weilhartner 2026; Salgarella 2022
 
 ## Attestations
 

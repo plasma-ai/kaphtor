@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-HALOT 1768 leaves the derivation open: a link with ʿlh 'to go up' is very uncertain; if the t- is radical, the noun corresponds to Arabic talʿat 'slope, watercourse, stream' (Barth, Nominalbildung §179 apud HALOT 1768).
+HALOT 1768 leaves the derivation open: a link with ʿlh 'to go up' is very uncertain; if the t- is radical, the noun corresponds to Arabic talʿat 'slope, watercourse, stream' (Barth, Nominalbildung §179 apud HALOT 1768). Safaitic tlʿt, tlʿ 'water course' (Al-Jallad 2026, 153), with Arabic talʿah 'a water course from the upper part of a valley to its lower part' (Lane 312).
 
 <!-- END kaphtor:record -->

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/n/3220_to_be_raw
 title: "*nyʾ: 'to be raw'"
-desc: "Proto-Semitic *nyʾ, 'to be raw': reflexes in 5 language(s)."
+desc: "Proto-Semitic *nyʾ, 'to be raw': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3220"
@@ -31,9 +31,10 @@ updated: 2026-10-24T15:25:56Z
 |---|---|---|---|
 | Hebrew | nā(ʾ) (Kogan 2015, ch. 2 §4.2 no. 45) | Kogan 2015 ch. 2 §4.2 no. 45 | gloss withheld |
 | Arabic | nyʾ (Kogan 2015, ch. 2 §4.2 no. 45) | Kogan 2015 ch. 2 §4.2 no. 45 | gloss withheld |
-| Geez | nāʾt (Kogan 2015, ch. 2 §4.2 no. 45) | Kogan 2015 ch. 2 §4.2 no. 45 | gloss withheld |
+| Geez | nāʾt (Kogan 2015, ch. 2 §4.2 no. 45); neʔa; nəyāʔ, niʔ (LGz. 410) | Kogan 2015 ch. 2 §4.2 no. 45; LGz. 410 | gloss withheld |
 | Mehri | nēʾ (Kogan 2015, ch. 2 §4.2 no. 45) | Kogan 2015 ch. 2 §4.2 no. 45 | gloss withheld |
 | Soqotri | nyʾ (Kogan 2015, ch. 2 §4.2 no. 45) | Kogan 2015 ch. 2 §4.2 no. 45 | gloss withheld |
+| Jibbali | nuʔ (LGz. 410) | LGz. 410 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

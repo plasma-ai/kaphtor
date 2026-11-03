@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/m/3477_to_rebel
 title: "*mrd: 'to rebel'"
-desc: "Proto-Semitic *mrd, 'to rebel': reflexes in 6 language(s)."
+desc: "Proto-Semitic *mrd, 'to rebel': reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3477"
@@ -33,8 +33,10 @@ updated: 2026-10-25T06:28:07Z
 | Judaic Aramaic | merdā (HALOT 632) | HALOT 632 | gloss withheld |
 | Syrian Aramaic | mrad 'rebel, revolt; resist; surpass'; merdā 'rebellion; stronghold, citadel'; mardūtā 'rebellion, revolt; insolence' (Payne Smith 299) | Payne Smith 299 |  |
 | Arabic | marada; mārid 'one who exalts himself, or is insolent and audacious, in pride and in acts of rebellion or disobedience; an insolent and audacious rebel' (Lane 2706) | Lane 2706 |  |
-| Pre-Islamic North Arabian | Safaitic mrd; mrd (Al-Jallad–Jaworska 99) | Al-Jallad–Jaworska 99 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic mrd; mrd (Al-Jallad–Jaworska 99); ʾmrd (Al-Jallad 2026, 93); Hismaic mrd (Al-Jallad 2026, 94) | Al-Jallad–Jaworska 99; Al-Jallad 2026 93; Al-Jallad 2026 94 | gloss withheld |
 | Amorite | marādu: ma-ar-du (ARM 26/1, 74: 17f.) (Streck 2000, 105; Streck 2011, 367) | Streck 2000 105; Streck 2011, 367 | gloss withheld |
+| Biblical Aramaic | mərad (HALOT BArm. s.v. מְרַד); \*mārād (HALOT BArm. s.v. מָרָד) | HALOT BArm. s.v. מְרַד; HALOT BArm. s.v. מָרָד | gloss withheld |
+| Mandaic Aramaic | mrd (LGz. 357) | LGz. 357 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

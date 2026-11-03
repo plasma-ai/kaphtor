@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/star/starOLIV_plus_TU
 title: "*OLIV+TU"
-desc: "TU-qualified olive product: olive commodity subtype; exact product unknown. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity ideogram"]
+desc: "TU-qualified olive product: olive product qualified by TU (cf. OLE+TU ṭuhūru 'purified'). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "foodstuff", "ligature", "logogram"]
 kind: "word"
 form: "*OLIV+TU"
 datasets: ["lexicon"]
@@ -32,18 +32,18 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | TU-qualified olive product |
-| Meaning | olive commodity subtype; exact product unknown |
-| Language layer | unresolved |
-| Category | commodity ideogram |
+| Meaning | olive product qualified by TU (cf. OLE+TU ṭuhūru 'purified') |
+| Language layer | logogram |
+| Tags | commodity, foodstuff, ligature, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-The compound occurs on three Haghia Triada tablets within quantified commodity lists. The OLIV host securely places it in the olive-product family, and TU distinguishes it from plain OLIV. Comparison with OLE+TU shows that the adjunct can qualify related oil/olive hosts, but neither the exact product nor a phonetic expansion of TU is established. Translate only as 'TU-qualified olive product.'
+Three Haghia Triada commodity lists: HT 50a \*OLIV+TU ⅜ after OLIV 3, HT 101 \*OLIV+TU 1 after OLIV 1¼, HT 116a \*OLIV+TU 2 after OLE+MI 1. The OLIV host places it in the olive-product family, and TU distinguishes it from plain OLIV: a TU-qualified olive product. Cf. OLE+TU ṭuhūru 'purified', the same adjunct on the oil host. Three attestations.
 
 ### Source
 
-Corpus distribution: HT50a, HT101, HT116a
+di Mino
 
 ## Attestations
 

@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | r-q-ʿ (BDB 955); rqyʿ (BDB 956) (HALOT 1290) | BDB 955; BDB 956; HALOT 1290 | gloss withheld |
 | Arabic | raqqaʿa 'patch, spread out' (Aramaic Root Atlas 0775) | Aramaic Root Atlas 0775 |  |
-| Judaic Aramaic | rəqaʿ (HALOT 1291) | HALOT 1291 |  |
+| Judaic Aramaic | rəqaʿ (HALOT 1291); rqyʕ (DNWSI 1084) | HALOT 1291; DNWSI 1084 | gloss withheld |
 | Phoenician | mrqʿ (Krahmalkov 313; HALOT 1291) | Krahmalkov 313; HALOT 1291 | gloss withheld |
 | Syrian Aramaic | rəqaʿ (HALOT 1291) | HALOT 1291 |  |
 | Tigrinya | raqqēʿe (HALOT 1291) | HALOT 1291 |  |

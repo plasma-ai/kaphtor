@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/P/PU_RA2
 title: "PU-RA₂"
-desc: "Bōl/Baʿl: allocation heading; possibly Baal, 'Lord'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "entity_or_divine_name"]
+desc: "Bōl: Baal, 'Lord' (allocation heading). Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "administrative"]
 kind: "word"
 form: "PU-RA₂"
 datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
-reading: "Bōl/Baʿl"
+reading: "Bōl"
 attestations: ["HT28b", "HT116a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,17 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | Bōl/Baʿl |
-| Meaning | allocation heading; possibly Baal, 'Lord' |
+| Reading | Bōl |
+| Meaning | Baal, 'Lord' (allocation heading) |
 | Root | b-ʿ-l |
 | Proto-Semitic | \*baʕl- (#8) |
-| Language layer | NWS |
-| Category | entity_or_divine_name |
+| Language layer | Semitic |
+| Tags | administrative |
 | Semantic field | administrative |
 
 ### Note
 
-PU-RA₂ occupies an allocation-heading position on HT28b and HT116a. Gordon's comparison with Baʿl/Bōl is semantically apt and uses di Mino's proposed PU=/bV/ and RA₂=/l/ correspondences, with loss of ʿayin. It nevertheless requires an acknowledged U/O correspondence and dead-vowel spelling, while RA₂=/l/ and the Baal identification partly support one another. Retain Baal as a candidate, not a confirmed reading. ZA6a \]PU₂-RA₂ GRA+PA 20 may be the same name at Zakros, with PU₂ = /bu/, in the same name-with-grain slot; the line is broken before PU₂, so a longer word is not excluded. Ebla has bare ba-lu, ba₄-lum 'lord' as personal names (Pagan 1998, rows 1110, 1153).
+HT 28b and HT 116a: an allocation heading. Gordon's Baʿl/Bōl, with the proposed values PU = bV and RA₂ = l and the ʿayin lost. Ebla has bare ba-lu, ba₄-lum 'lord' as personal names (Pagan 1998, rows 1110, 1153). ZA 6a \]PU₂-RA₂ GRA+PA 20 is a candidate for the same name at Zakros, with PU₂ = bu, in the same name-with-grain slot; the line is broken before PU₂, so the word can be longer. RA₂ = l stands without this word: SA-RA₂ šarra writes the marked liquid, as Linear B ra₂ /rya, lya/ (Judson 2020, 72, 74), and KN 54 writes PU-RA with plain RA. Two attestations.
 
 ### Cognates
 

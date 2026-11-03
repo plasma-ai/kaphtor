@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_SI_star118
 title: "DA-SI-*118"
 desc: "Ḏā-šiṭṭa: those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "gentilic"]
+tags: ["linear-a", "word", "tier-2", "compound", "gentilic", "personnel"]
 kind: "word"
 form: "DA-SI-*118"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | those of Acacia (gentilic, a roster unit); rival the unglossed Dasiṭa |
 | Root | ḏ + š-n-ṭ |
 | Proto-Semitic | \*šint- (#3629) |
-| Language layer | NWS |
-| Category | gentilic |
+| Language layer | Semitic |
+| Tags | compound, gentilic, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · \*307+\*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit, not a person. ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia', the n of \*šint- unwritten or assimilated. \*118 = ṭa: s-t and s-d give no acacia. DA first and \*118 third show \*118 is not DA.
+HT 13 DA-SI-\*118 19 (wine list, beside KU-ZU-NI 18); HT 85a 24 (men, under A-DU · \*307+\*307, beside KU-ZU-NI 5); HT 122a 2 (men); HT 99b 2. Three scribes count it as a unit. ḏā 'those of', as in DA-NA-SI Ḏā-Naśiʾ, + ši-ṭa, Heb. šiṭṭâ 'acacia' (HALOT 1473), from \*šint-, the n unwritten or assimilated. \*118 = ṭa: s-t and s-d give no acacia. Weak point: \*118 = ṭa is a proposed value. Four attestations.
 
 ### Cognates
 

@@ -41,7 +41,7 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | Bib. \*ʕar 'foe' (BDB 1108) | BDB 1108 |  |
 | Modern Arabic | ḍar 1 |  |  |
 | Phoenician | ṣrt (T 281) | T 281 | gloss withheld |
-| Jibbali | ẕ́err (JJ 326) | JJ 326 | gloss withheld |
+| Jibbali | ẕ́err (JJ 326); ẓ́érét (Rubin 2014 674) | JJ 326; Rubin 2014 674 | gloss withheld |
 | Hebrew | ṣar 1 (HALOT 1052), ṣwr 2 (HALOT 1015) | HALOT 1052; HALOT 1015 |  |
 | Amharic | täṭarrärä (K 2114) | K 2114 | gloss withheld |
 | Epigraphic South Arabian | Sab. ḍr 1 (SD 42; Sabaweb lemma 1505); ḍrrw 2 (SD 42); Qat. ḍr (Ricks 140), Min. ḍr (LM 31) | SD 42; Sabaweb lemma 1505; Ricks 140; LM 31 | gloss withheld |
@@ -49,8 +49,8 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Samal \*ṣr, DA Pl. abs. ḳrn 1 (HJ 974) | HJ 974 |  |
 | Tigrinya | ṣär 1 (KT 2561); täṣarärä (KT 2564) | KT 2561; KT 2564 | gloss withheld |
 | Syrian Aramaic | ʿarrətā (HALOT 1054) | HALOT 1054 | gloss withheld |
-| Mandaic Aramaic | ṣara (LGz. 152; Drower/Macuch 388a apud CAL) | LGz. 152; Macuch 388a; CAL |  |
-| Pre-Islamic North Arabian | Safaitic ḍr (Al-Jallad–Jaworska 68) | Al-Jallad–Jaworska 68 | gloss withheld |
+| Mandaic Aramaic | ṣara (LGz. 152; MD 388) | LGz. 152; MD 388 |  |
+| Pre-Islamic North Arabian | Safaitic ḍr (Al-Jallad–Jaworska 68); ḍr; Taymanitic ḍr (Al-Jallad 2026, 43) | Al-Jallad–Jaworska 68; Al-Jallad 2026 43 | gloss withheld |
 | Emar | ṣa-ra-ri, \[ṣa\]-ar-ra-ri /ṣarrā̆ru/ (Pentiuc 2001, 161–162) | Pentiuc 2001 161–162 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

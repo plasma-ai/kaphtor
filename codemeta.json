@@ -10,7 +10,9 @@
   "url": "https://www.plasma.ai/research/linear-a",
   "license": [
     "https://spdx.org/licenses/Apache-2.0",
-    "https://spdx.org/licenses/CC-BY-4.0"
+    "https://spdx.org/licenses/CC-BY-4.0",
+    "https://spdx.org/licenses/CC-BY-SA-4.0",
+    "https://spdx.org/licenses/CC-BY-NC-SA-4.0"
   ],
   "author": [
     {

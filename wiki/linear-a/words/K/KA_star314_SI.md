@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K/KA_star314_SI
 title: "KA-*314-SI"
 desc: "Kaḥas: personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "KA-*314-SI"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Kaḥas |
 | Meaning | personal name; Egyptian kꜣḥs, a name under Senusret III; rival kabsi 'young ram' |
 | Language layer | Middle Egyptian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

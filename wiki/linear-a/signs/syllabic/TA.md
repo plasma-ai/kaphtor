@@ -42,14 +42,13 @@ updated: 2026-10-24T16:17:50Z
 ### Forms cited for the value
 
 - TA-NU-A-TI = tanuʾati (Gordon: 'I set up')
-- KI-RE-TA-NA = Kretana
+- KI-RE-TA-NA = Kretan
 
 ## Lexicon words written with this sign
 
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star306_TA_JE\|\*306-TA-JE]] | ʿaṭāye | CANDIDATE |
-| [[wiki/linear-a/words/star/star312_TA\|\*312-TA]] | gitta | SPECULATIVE |
 | [[wiki/linear-a/words/star/star314_TA_MA\|\*314-TA-MA]] | ḥatam(a) | CANDIDATE |
 | [[wiki/linear-a/words/A/A_DU_NI_TA_NA\|A-DU-NI-TA-NA]] | ʾAddu-nittāna | CANDIDATE |
 | [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | SPECULATIVE |
@@ -59,27 +58,27 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_TA_DE\|A-TA-DE]] | ʾaʿtid(u) | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]] | ʾatainawē | CONFIRMED |
 | [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]] | ʾatainawaya | CONFIRMED |
-| [[wiki/linear-a/words/A/A_TA_NA\|A-TA-NA]] | ʾAtanat | PROBABLE |
 | [[wiki/linear-a/words/A/A_TA_NA_JE\|A-TA-NA-JE]] | ʾatanāya | CANDIDATE |
-| [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | PROBABLE |
 | [[wiki/linear-a/words/A/A_TA_RE\|A-TA-RE]] | Hathar | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_DU_MA_TA\|DA-DU-MA-TA]] | dadmatu | CANDIDATE |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_TA_RA\|DA-TA-RA]] | Daṯar | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_NA_JA_RE_TA\|I-NA-JA-RE-TA]] | hinna yirʾat-\[…\] | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_KU_TA\|I-KU-TA]] | Ḥikuptaḥ | SPECULATIVE |
+| [[wiki/linear-a/words/I/I_NA_JA_RE_TA\|I-NA-JA-RE-TA]] | hinna yarēʾat-\[…\] | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_TA_I\|I-NA-TA-I]] | ʿInatī | CANDIDATE |
 | [[wiki/linear-a/words/I/I_NA_TA_I_ZU_DI_SI_KA\|I-NA-TA-I-ZU-DI-SI-KA]] | ʿInatī ṯudī-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_TA_JA\|I-TA-JA]] | ʾIttaya | SPECULATIVE |
-| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīt | CANDIDATE |
+| [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | CANDIDATE |
 | [[wiki/linear-a/words/J/JE_TA_NA\|JE-TA-NA]] | Yatana | PROBABLE |
 | [[wiki/linear-a/words/K/KA_TA_RE\|KA-TA-RE]] | kaṯare | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
-| [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] |  | SPECULATIVE |
-| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretana | CONFIRMED |
+| [[wiki/linear-a/words/K/KI_DA_TA\|KI-DA-TA]] | Kidata | SPECULATIVE |
+| [[wiki/linear-a/words/K/KI_RE_TA_NA\|KI-RE-TA-NA]] | Kretan | CONFIRMED |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_NA\|KI-TA-NA]] | kitāna | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_TA_NI_TE\|KI-TA-NI-TE]] | kitānit | CANDIDATE |
-| [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | makita | CANDIDATE |
+| [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] | Makīt | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_RU_TA_RA_RE\|MI-RU-TA-RA-RE]] | Mīru-darār | SPECULATIVE |
 | [[wiki/linear-a/words/M/MI_TA\|MI-TA]] | mitta | CANDIDATE |
 | [[wiki/linear-a/words/O/OLE_plus_TA\|OLE+TA]] | ṭābu | CANDIDATE |
@@ -92,6 +91,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] | bidāla | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QE_PI_TA\|QE-PI-TA]] | qepīta | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_KA_TA\|RI-KA-TA]] | Likata | SPECULATIVE |
+| [[wiki/linear-a/words/R/RI_TA_JE\|RI-TA-JE]] | Lītāy | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_TA_MA\|RI-TA-MA]] | Ritmā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]] | rūmatā | CANDIDATE |
@@ -105,7 +105,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_NA_MA_JE\|TA-NA-MA-JE]] | Tanʿamay | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU\|TA-NA-RA-TE-U-TI-NU]] | tan-raṣē-u-tī-n(u) | PROBABLE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
-| [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt(ē) | CANDIDATE |
+| [[wiki/linear-a/words/T/TA_NA_TE\|TA-NA-TE]] | Tanāt | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_TI\|TA-NA-TI]] | Tanāti | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NI_KA\|TA-NI-KA]] | Taʿnaku | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
@@ -118,10 +118,11 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TA_TE_I_KE_ZA_RE\|TA-TE-I-KE-ZA-RE]] | ṯāt ʾikezzer | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_TI\|TA-TI]] | Tati | CANDIDATE |
 | [[wiki/linear-a/words/T/TA2_TA_RE\|TA₂-TA-RE]] | Tatare | CANDIDATE |
-| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | tidata / ṯādīt- | CANDIDATE |
+| [[wiki/linear-a/words/T/TI_DA_TA\|TI-DA-TA]] | ṯidṯīta | CANDIDATE |
 | [[wiki/linear-a/words/T/TI_NI_TA\|TI-NI-TA]] | Tinitu | CONFIRMED |
 | [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinitu Dubur | PROBABLE |
 | [[wiki/linear-a/words/T/TU_PI_TA\|TU-PI-TA]] | ṯāpiṭu | CANDIDATE |
+| [[wiki/linear-a/words/U/U_TA_I_SE\|U-TA-I-SE]] | ʿUtay-se | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_TA_RO\|U-TA-RO]] | watru | CANDIDATE |
 
 <!-- END kaphtor:record -->

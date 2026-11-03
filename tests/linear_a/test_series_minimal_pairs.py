@@ -170,7 +170,8 @@ def test_a_missing_corpus_stops_with_exit_2(tmp_path, monkeypatch):
 
 
 @pytest.mark.data
-def test_the_shipped_corpus_has_three_d_t_pairs():
-    # DA-RA (PH 7b) and KU-TA (HT 115b) are broken on their only witnesses, so DA-RA/TA-RA and KU-DA/KU-TA are out.
+def test_the_shipped_corpus_has_two_d_t_pairs():
+    # DA-RA (PH 7b), KU-TA (HT 115b) and SI-DU (HT 123+124b) are broken on their only witnesses, so DA-RA/TA-RA,
+    # KU-DA/KU-TA and SI-DU/SI-TU are out.
     result = smp.run(smp.word_types(load_corpus()), 1, smp.DEFAULT_SEED)
-    assert [p["words"] for p in result["focus_pairs"]] == [["I-DI", "I-TI"], ["KA-DI", "KA-TI"], ["SI-DU", "SI-TU"]]
+    assert [p["words"] for p in result["focus_pairs"]] == [["I-DI", "I-TI"], ["KA-DI", "KA-TI"]]

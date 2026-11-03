@@ -32,13 +32,13 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | daymūm-, daymūmat- 'vast waterless desert' \[BK 1 729\]; ʔadīm- 'earth; the whole expanse of sky and earth that the eye can take in' \[BK 1 19\], ʔīdāmat- 'hard ground, without stones or pebbles; surface of the earth' \[ibid. 20\] | BK 1 729; BK 1 19; BK 20 |  |
 | Akkadian | (OB on) dadmū pl. tant. \[CAD d 18\]; \[AHw 149\]; cf. dimatu | CAD d 18; AHw 149 | gloss withheld |
-| Ugaritic | dm-t; (?) udm NL (DULAT 18) | DULAT 18 | gloss withheld |
+| Ugaritic | dmt (DULAT 272) | DULAT 272 | gloss withheld |
 | Geez | ʔadyām \[LGz 146\] | LGz 146 | gloss withheld |
 | Punic | ʔdmt \[Estañol 60\] |  | gloss withheld |
 | Hebrew | ʔădāmā (HALOT 15); also ʔādām, ʕēn ʔ. (HALOT 14, 15) (in: Zech 9:1, Jr 32:20, etc.) | HALOT 15; HALOT 14, 15 | gloss withheld |
 | Judaic Aramaic | ʔadamtā 'earth' \[Ja 17\] | Ja 17 |  |
 | Syrian Aramaic | ʔadamtā 'earth; dust; starch' \[Brock 6\] | Brock 6 |  |
-| Amorite | ʾadm: ad-mu-a (Ur III), ⁽ᵈ⁾ad-mu= (Sanmartín GlOS 1, 9) | Sanmartín GlOS 1, 9 | gloss withheld |
+| Amorite | ʾadm: ad-mu-a (Ur III), ⁽ᵈ⁾ad-mu= (Sanmartín GlOS 1, 9); dadm: da-ad-mu-um, da-ad-mi-im (Sanmartín GlOS 1, 141) | Sanmartín GlOS 1, 9; Sanmartín GlOS 1, 141 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

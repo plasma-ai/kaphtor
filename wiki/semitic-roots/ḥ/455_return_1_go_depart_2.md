@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/455_return_1_go_depart_2
 title: "*ḥVwVr-: 'return' 1, 'go, depart' 2"
-desc: "Proto-Semitic *ḥVwVr-, 'return' 1, 'go, depart' 2: reflexes in 7 language(s)."
+desc: "Proto-Semitic *ḥVwVr-, 'return' 1, 'go, depart' 2: reflexes in 8 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "455"
@@ -30,13 +30,14 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
+| Epigraphic South Arabian | Sab yḥwr, ḥwr 2 (Biella 170) | Biella 170 | gloss withheld |
 | Arabic | ḥwr 'return' (Lane 665) | Lane 665 |  |
 | Tigre | ḥorä |  | gloss withheld |
 | Geez | ḥora (Kogan 2015, ch. 7 §4.2 no. 7) | Kogan 2015 ch. 7 §4.2 no. 7 | gloss withheld |
 | Gurage | \*wärä |  | gloss withheld |
 | Harari | ḥāra (Kogan 2015, ch. 7 §4.2 no. 7) | Kogan 2015 ch. 7 §4.2 no. 7 | gloss withheld |
 | Gafat | (a)horä (LGz. 250) | LGz. 250 |  |
-| Pre-Islamic North Arabian | Safaitic ḥwr (Al-Jallad–Jaworska 88) | Al-Jallad–Jaworska 88 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ḥwr (Al-Jallad–Jaworska 88); ḥwrn; ḥwrt 1 (Al-Jallad 2026, 78) | Al-Jallad–Jaworska 88; Al-Jallad 2026 78 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

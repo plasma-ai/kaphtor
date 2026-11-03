@@ -31,6 +31,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **edge overlap** (a lexicon word sits at one edge; often a chance 2-sign overlap).
 
-KH 16 \]U-TA-I-SI CYP+D \[, broken before U (GORILA III 47). Cf. U-TA-I-SE (KH7b). Not readable.
+KH 16 \]U-TA-I-SI CYP+D \[, broken before U (GORILA III 47). Scribe 1's spelling of the KH 7b entry U-TA-I-SE (Scribe 2), SI for SE. Not readable.
 
 <!-- END kaphtor:record -->

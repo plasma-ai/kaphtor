@@ -29,9 +29,9 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Ugaritic | ɣll (DUL 319 apud SEDonline 195) | DUL 319; SEDonline 195 | gloss withheld |
+| Ugaritic | ɣll (DULAT 314; SEDonline 195) | DULAT 314; SEDonline 195 | gloss withheld |
 | Hebrew | ˁll (HALOT 834 apud SEDonline 195) | HALOT 834; SEDonline 195 | gloss withheld |
-| Aramaic | DA ˁll (DNWSI 855 apud SEDonline 195) | DNWSI 855; SEDonline 195 | gloss withheld |
+| Aramaic | DA ˁll (DNWSI 855); mʕl (DNWSI 669) | DNWSI 855; DNWSI 669 | gloss withheld |
 | Arabic | ɣll (Lane 2277 apud SEDonline 195) | Lane 2277; SEDonline 195 | gloss withheld |
 | Geez | ˁallala (CDG 60 apud SEDonline 195) | CDG 60; SEDonline 195 | gloss withheld |
 | Tigrinya | ˁallälä (TED 1823 apud SEDonline 195) | TED 1823; SEDonline 195 | gloss withheld |

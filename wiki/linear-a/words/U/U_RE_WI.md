@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_RE_WI
 title: "U-RE-WI"
 desc: "ʾūr-lēwī: light of the Levite (compound PN). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "onomastic"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "U-RE-WI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | light of the Levite (compound PN) |
 | Root | ʾ-w-r + l-w-y |
 | Proto-Semitic | \*ʾVr- (#1462) + \*lVwVy- (#398) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT25a personnel roster alongside DU-RU-WI, qty 1. U = /ʾūr/ 'light/flame' (√ʾ-w-r) + RE-WI = /lēwī/. Parallel to Hebrew אוּרִיָּה ʾŪriyyāh 'flame of Yah.' Both -RE-WI and -RU-WI terminals on same tablet suggest ethnonymic element. Rival: lāwī, the Ebla name la-wi 'one who encircles' (Pagan 1998, row 3460).
+HT 25a, a personnel roster: U-RE-WI 1, on the same roster as DU-RU-WI. ʾūr-lēwī 'light of the Levite': U writes ʾūr 'light, flame' (√ʾ-w-r) and RE-WI lēwī, the type of Hebrew ʾŪriyyāh (HALOT 25). DU-RU-WI ends in the same -WI on the same tablet, an ethnonymic element. Rival: lāwī, the Ebla name la-wi 'one who encircles' (Pagan 1998, row 3460). One attestation.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT25a personnel roster alongside DU-RU-WI, qty 1. U = /ʾūr/ 'light/flame' (√
 
 ### Source
 
-di Mino; GlOS 1; Pagan 1998
+di Mino; HALOT; GlOS 1; Pagan 1998
 
 ## Attestations
 
@@ -70,8 +70,8 @@ di Mino; GlOS 1; Pagan 1998
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

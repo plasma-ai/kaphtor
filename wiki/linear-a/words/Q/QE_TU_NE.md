@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QE_TU_NE
 title: "QE-TU-NE"
 desc: "qaṭunē: small, fine (amounts)—quality term over the QA₂-ligature entry. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "vocabulary"]
+tags: ["linear-a", "word", "tier-1", "adjective", "administrative", "hapax"]
 kind: "word"
 form: "QE-TU-NE"
 datasets: ["lexicon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | small, fine (amounts)—quality term over the QA₂-ligature entry |
 | Root | q-ṭ-n |
 | Proto-Semitic | \*ḳVṭVn- (#980) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | adjective, administrative, hapax |
 | Semantic field | administrative |
 
 ### Note

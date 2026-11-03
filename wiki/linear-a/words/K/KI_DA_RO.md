@@ -10,7 +10,7 @@ tier: 3
 confidence: "PROBABLE"
 confidence_score: 0.7
 reading: "Qidaru"
-attestations: ["HT117a"]
+attestations: ["HT117a", "HT47a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -34,14 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Qidaru |
 | Meaning | personal name, 'Dark' (√ḳ-d-r 'be dark'; cf. Hebrew Qēdār) |
 | Root | ḳ-d-r |
-| Proto-Semitic | \*qVḏVr- (#K0328) |
-| Language layer | NWS |
-| Category | personal_name |
+| Proto-Semitic | \*ḳVḏar-/\*ḳVḏur- (#1679) |
+| Language layer | Semitic |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-PREFIXED FORM: A-KI-DA-RO (KH Wa 1002, Khania)—A- as NWS article \*ha-\* or prosthetic aleph on commodity noun: \*ʾa-qidrū\* 'the earthenware.' \|\| Personal name Qidaru, √ḳ-d-r 'be dark'; rival PS \*ḳidr- 'earthenware' (Arabic qidr, Hebrew qǝdērā, Aramaic qidrā). Both attestations are lists of people: HT117a's SA-TA roster counts KU-KU-DA-RA, KO-SA-I-TI, DA-MI-NU, DA-NE-KU-TI and KI-DA-RO once each; HT47a lists KU-PA₃-NA-TU 20, DU 20, PI 10, KI-DA-RO 5. Cf. Hebrew Qēdār, Ishmael's son and an Arabian people (Gen 25:13), from qādar 'be dark, mourn'.
+HT 117a: KI-DA-RO 1 in the SA-TA roster, beside KU-KU-DA-RA, KO-SA-I-TI, DA-MI-NU and DA-NE-KU-TI, each counted once; HT 47a: KI-DA-RO 5 after KU-PA₃-NA-TU 20, DU 20 and PI 10. A personal name, Qidaru 'Dark', from √ḳ-d-r 'be dark', as Heb. Qēdār, Ishmael's son and an Arabian people (Gen 25:13), from qādar 'be dark, mourn'. Rival: PS \*ḳidr- 'earthenware' (Ar. qidr, Heb. qədērā, Aram. qidrā), the noun of A-KI-DA-RO (KH Wa 1002) ʾa-qidrū 'the earthenware', with A- the article or a prosthetic aleph. Two attestations, both lists of people.
 
 ### Cognates
 
@@ -59,6 +59,7 @@ di Mino
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT117a\|HT117a]] | Haghia Triada | Tablet | complete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT47a\|HT47a]] | Haghia Triada | Tablet | incomplete; restored |
 
 ## In translations
 
@@ -70,8 +71,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (PROBABLE) |
+| Affiliation | semitic (PROBABLE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

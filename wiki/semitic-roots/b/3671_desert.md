@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/3671_desert
 title: "*bdw: 'desert'"
-desc: "Proto-Semitic *bdw, 'desert': reflexes in 2 language(s)."
+desc: "Proto-Semitic *bdw, 'desert': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3671"
@@ -31,6 +31,7 @@ updated: 2026-10-26T15:47:57Z
 |---|---|---|---|
 | Arabic | bādiyat, badw 'a desert' (Lane 172) | Lane 172 |  |
 | Geez | badw; badā; badwa (LGz. 87) | LGz. 87 | gloss withheld |
+| Tigrinya | bädäyä (LGz. 88) | LGz. 88 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

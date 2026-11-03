@@ -83,8 +83,12 @@ CONTACT_COMMODITY_FIELDS = frozenset({
 
 MULTILINGUAL_LANGUAGES = ("NWS", "Egyptian", "Luwian", "Hurrian")
 
-FUNCTION_WORD_CATEGORIES = {"particle", "conjunction", "preposition",
-                             "demonstrative", "presentative"}
+FUNCTION_WORD_TAGS = ("particle", "preposition", "pronoun")
+
+
+def _function_word_tag(entry: dict) -> str:
+    """The lexicon tag that marks the entry as a function word, or ''."""
+    return next((t for t in FUNCTION_WORD_TAGS if t in entry.get("tags", [])), "")
 
 MULTI_SIGN_LOGOGRAMS = {"GRA", "OLE", "VIN", "FIC", "CYP", "AROM",
                          "OLIV", "CAP", "SUS", "BOS", "OVI", "CER",
@@ -486,10 +490,9 @@ def analyze_context(sign_name: str, lexicon: dict[str, dict]) -> dict:
 
     known_logograms: set[str] = set()
     for word, entry in lexicon.items():
-        if "-" not in word and len(word) <= 3 and not word.isdigit():
-            cat = entry.get("category", "") or entry.get("semantic_field", "")
-            if cat not in FUNCTION_WORD_CATEGORIES:
-                known_logograms.add(word.upper())
+        if ("-" not in word and len(word) <= 3 and not word.isdigit()
+                and not _function_word_tag(entry)):
+            known_logograms.add(word.upper())
 
     hits: list[dict] = []
     site_counter: Counter[str] = Counter()
@@ -2036,10 +2039,8 @@ def compute_verdict(
         result["blockers"] = blockers
 
     upper = sign_name.upper()
-    cat = ""
-    if upper in lexicon:
-        cat = lexicon[upper].get("category", "") or lexicon[upper].get("semantic_field", "")
-    if cat in FUNCTION_WORD_CATEGORIES:
+    cat = _function_word_tag(lexicon[upper]) if upper in lexicon else ""
+    if cat:
         result["warning"] = f"Sign is a function word ({cat}) — standalone occurrences may be grammatical"
 
     return result

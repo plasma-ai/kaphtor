@@ -34,10 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Papourou |
 | Supports | Tablet 1 |
+
+### Note
+
+PA 1 .1–2 A-KU-JU-PA-\*118 35, the only entry on the tablet (GORILA I 284). No reading.
 
 ## Unread
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ẓ/2108_to_be_thirsty_1_drought_2
 title: "*ṯ̣mʾ {} *č̣mʾ (-a-): 'to be thirsty' 1, 'drought' 2"
-desc: "Proto-Semitic *ṯ̣mʾ {} *č̣mʾ (-a-), 'to be thirsty' 1, 'drought' 2: reflexes in 19 language(s)."
+desc: "Proto-Semitic *ṯ̣mʾ {} *č̣mʾ (-a-), 'to be thirsty' 1, 'drought' 2: reflexes in 20 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2108"
@@ -36,7 +36,7 @@ updated: 2026-10-26T14:26:59Z
 | Akkadian | ṣamû (u/u) OB-SB \[CAD ṣ 95\], \[AHw 1081\] | CAD ṣ 95; AHw 1081 |  |
 | Harsusi | ḏ̣áyma \[JH 30\], ḏ̣éma \[ibid.\] | JH 30 | gloss withheld |
 | Tigre | ṣämʔa \[LH 635\] | LH 635 |  |
-| Ugaritic | ẓmʔa \[Aist 272\]; ɣmʔ \[DULAT 318\]. | Aist 272; DULAT 318 |  |
+| Ugaritic | ẓmʔa \[Aist 272\]; ɣmʔ \[DULAT 318; Tropper UG §32.123.31, 94\]. | Aist 272; DULAT 318; Tropper UG §32.123.31, 94 |  |
 | East Ethiopic | ZWY ṭäma, WOL ṭēmä, SEL ṭēmä \[LGur 619\] | LGur 619 |  |
 | Geez | ṣamʔa \[LGz 557\] | LGz 557 |  |
 | Gurage | CHA ENN GYE ṭäma, EZ̆A MUH MSQ GOG SOD ṭämma, END ṭammā \[LGur 619\] | LGur 619 |  |
@@ -47,8 +47,9 @@ updated: 2026-10-26T14:26:59Z
 | Gafat | ṣämmä \[LGaf 235\] | LGaf 235 |  |
 | Tigrinya | ṣämʔe \[Bass 954\] | Bass 954 |  |
 | Argobba | ṭämma- (OLA80 §13.12; SED I 333) | OLA80 §13.12; SED I 333 | gloss withheld |
-| Eblaitic | zi-ma-um (= Sum. Á.MAR.ḪÚB), /ṣimāʾum/ (G inf.) (EV 0003; Hajouz 2013, 653) | EV 0003; Hajouz 2013, 653 | gloss withheld |
+| Eblaitic | zi-ma-um (= Sum. Á.MAR.ḪÚB), /ṣimāʾum/ (G inf.) (EV 0003; Hajouz 2013, 653); /ṯ̣amiʾ/ 1: name za-mi-ù\[-X\] (Sanmartín GlOS 2, 334) | EV 0003; Hajouz 2013, 653; Sanmartín GlOS 2, 334 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ẓmʾ (Al-Jallad–Jaworska 144) | Al-Jallad–Jaworska 144 | gloss withheld |
+| Canaanite | EG SYLL ḏa=ma=t, ḏa=ma={ʿ}ʿu /\*ṯ̣amiʾa, ṯ̣amêtu/ 1 (Hoch 386) | Hoch 386 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

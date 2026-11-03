@@ -16,16 +16,29 @@ SigLA sign list (data/linear-a/sigla-sign-map.json)
   SigLA's sign list (https://sigla.phis.me), by Ester Salgarella and Simon Castellan, CC BY-NC-SA 4.0, with Unicode
   fields added under CC BY 4.0. The SigLA images it names are not in this repository.
 
+SigLA database (data/linear-a/sigla/database.js, data/linear-a/sigla_db.json)
+  SigLA (https://sigla.phis.me), © 2020– Ester Salgarella and Simon Castellan, dataset CC BY-NC-SA 4.0.
+  database.js is SigLA's file, unchanged; sigla_db.json decodes it and carries the same licence. The corpus_key and
+  corpus_match fields and data/linear-a/sigla/corpus_key_overrides.json are CC BY 4.0.
+
+Review-page screenshots (docs/human-review/*.png)
+  Screenshots of the review pages, showing SigLA's drawings and sign crops (https://sigla.phis.me), © 2020– Ester
+  Salgarella and Simon Castellan, CC BY-NC-SA 4.0. The pages' text and layout are CC BY 4.0.
+
 Semitic root reflexes (data/semitic-roots/semitic_roots.json)
-  1,406 reflexes cite Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
+  1,369 reflexes cite Adam Anderson and Jason Moser, Protosemitic Root Derivations (2024), Zenodo,
   doi:10.5281/zenodo.14160276, CC BY 4.0. The consonant correspondences
   (data/semitic-roots/semitic_correspondences.json) follow Huehnergard 2019, Table 3.2 (p. 51), as cited facts.
 
-Rival-language root keys (data/linear-a/egyptian_roots.json, luwian_roots.json, hurrian_roots.json)
+Rival-language root keys (data/linear-a/egyptian_roots.json, luwian_roots.json, hurrian_roots.json,
+hattic_roots.json)
   The Egyptian file holds 2,202 entries from Wiktionary's Egyptian lemmas (through kaikki.org), CC BY-SA 4.0, and
   carries that licence; 726 come from Persons and Names of the Middle Kingdom (2018), Zenodo,
   doi:10.5281/zenodo.1411392, CC BY 4.0. Three Luwian entries cite Wiktionary, CC BY-SA 4.0. The ACLT and TIED terms
   are set out in data/linear-a/rival-roots.md. Anything derived from the Wiktionary entries carries CC BY-SA 4.0.
+  The Hattic file takes only head forms, recast as keys, and their page numbers from Oğuz Soysal, Hattischer
+  Wortschatz in hethitischer Textüberlieferung (Brill 2004), © Koninklijke Brill NV, all rights reserved; none of
+  its text ships. The selection, keys and citations are CC BY 4.0.
 
 Contact lexica (data/contact/)
   Hebrew: TBESH, STEPBible Data, Tyndale House, Cambridge, CC BY 4.0, with Brown, Driver and Briggs (1906), public

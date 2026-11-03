@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/M/MA_KA_I_SE
 title: "MA-KA-I-SE"
-desc: "makisu: Tax-man, Customs Official (professional-title PN, maqtil pattern). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+desc: "Makī-se: personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj. Lexicon, SPECULATIVE (tier 1)."
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "MA-KA-I-SE"
 datasets: ["lexicon", "onomasticon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.5
-reading: "makisu"
+tier: 1
+confidence: "SPECULATIVE"
+confidence_score: 0.3
+reading: "Makī-se"
 attestations: ["ZA8"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -27,29 +27,32 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.50
+**SPECULATIVE**, tier 1 of 4, score 0.30
 
 | Field | Value |
 |---|---|
-| Reading | makisu |
-| Meaning | Tax-man, Customs Official (professional-title PN, maqtil pattern) |
-| Root | m-k-s |
-| Proto-Semitic | \*mak(i)s- (#S20) |
-| Language layer | NWS |
-| Category | personal_name |
+| Reading | Makī-se |
+| Meaning | personal name: Makī with the Zakros -SE; Amorite maqīm 'Established'; rival the Egyptian name mkj |
+| Root | q-w-m |
+| Proto-Semitic | \*ḳVwVm- (#1134) |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-The Egyptian reading (mk + agentive -šē) is rejected as hybrid; \*mak(i)s- fits consonant for consonant. The -I- is the regular epenthetic vowel in the maqtil noun pattern (instrument/place noun from √m-k-s): /makis/ → MA-KA-I-SE. The -SE is the final root consonant /s/ with dead vowel, not a gentilic suffix. Context: ZA8 allocation tablet—a tax document with personnel receiving numbered portions. Professional-title PN "Tax-man" on a tax list is semantically ideal.
+ZA 8 MA-KA-I-SE 2, in a roster of names with quantities (KU-TU-KO-RE, A-RI-NI-TA, TA-I-NU-MA-PA, DA-I-PI-TA, KA-I-RO). SE is the Zakros suffix of RU-MA-TA-SE beside bare RU-MA-TA; MA-KA-I is the base of MA-KA-I-TA (PK 1, ZA 5b). Makī, the Amorite name me-ki-im maqīm 'Established' (Gelb 1980, nos. 4648–4649; Buck 2019, 307), the final m unwritten. Egyptian writes the name mkj (Ranke I, 166.12–13), once for a ruler from Qedem in Sinuhe B 219, which TLA renders Meki⟨m⟩, a Semitic royal title. Rival: the Egyptian name mkj. One attestation.
 
 ### Cognates
 
-Heb. מֶכֶס mekes "tax/levy" (Num 31:28); Akk. miksu "customs duty"; 1 Kgs 4:9 Māqaṣ (Solomon tax district)
+| Language | Comparison |
+|---|---|
+| Amorite | me-ki-im maqīm 'Established', PN at Alalakh and Apišal (Buck 2019, 307; Gelb 1980 no. 4648 ME-QWIM, no. 4649 ME-KWIN) |
+| Egyptian | mkj, men, Middle Kingdom (Ranke I, 166.12–13), one a ruler 'aus ḳdm' in Sinuhe B 219, Mkj⟨m⟩ 'semit. Königstitel' of Qatna in TLA; rival |
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; Buck 2019; Ranke
 
 ## Attestations
 
@@ -61,7 +64,7 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | makisu | tax-man, customs official, 2 + fractions | CANDIDATE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA8\|ZA8]] | Makī-se | Makī, with the Zakros -SE, 2 + fractions | SPECULATIVE |
 
 ## Onomasticon
 
@@ -77,6 +80,6 @@ di Mino
 
 ### Note
 
-ZA 8, an allocation tablet: MA-KA-I-SE 2. makisu 'tax-man, customs official', a maqtil noun of √m-k-s (PS \*makis-), the I an epenthetic vowel and SE the root's final s with a dead vowel. One attestation.
+ZA 8 MA-KA-I-SE 2, in a roster of names. Makī, the Amorite name me-ki-im maqīm 'Established' (Gelb 1980, nos. 4648–49; Buck 2019, 307), with the Zakros -SE of RU-MA-TA-SE; the base of MA-KA-I-TA. Rival: Egyptian mkj (Ranke I, 166.12–13), a ruler from Qedem in Sinuhe B 219. One attestation.
 
 <!-- END kaphtor:record -->

@@ -59,7 +59,7 @@ Unicode (Linear A block):
 
 ### Notes
 
-Single-word devotional dedication on clay vessel. Third morphological variant of the A-TA-NA paradigm: bare A-TA-NA (ZA9), feminine absolute A-TA-NA-TE (ZA10a), 1cs possessive A-TA-NA-JE (THEZb6). Parallels PU₂-RE-JA = burēyā 'my Creator'. Cross-site attestation confirms productive derivation from √y-t-n.
+Single-word devotional dedication on clay vessel. Second morphological variant of the A-TA-NA paradigm: feminine absolute A-TA-NA-TE (ZA10a), 1cs possessive A-TA-NA-JE (THEZb6). Parallels PU₂-RE-JA = burē(t)yā 'my Creatress'. Cross-site attestation confirms productive derivation from √y-t-n.
 
 ### Source
 

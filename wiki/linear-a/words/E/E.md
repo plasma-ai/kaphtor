@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/E/E
 title: "E"
-desc: "ḥemʾat: quantified commodity; perhaps butter, ghee, or cream. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "logogram"]
+desc: "ḥemʾat: butter, ghee (ḥemʾat), a quantified commodity. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "commodity", "logogram"]
 kind: "word"
 form: "E"
 datasets: ["lexicon"]
@@ -32,16 +32,16 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ḥemʾat |
-| Meaning | quantified commodity; perhaps butter, ghee, or cream |
+| Meaning | butter, ghee (ḥemʾat), a quantified commodity |
 | Root | ḥ-m-ʾ |
 | Proto-Semitic | \*ḫimʔ-at- (#2751) |
-| Language layer | NWS |
-| Category | logogram |
+| Language layer | Semitic |
+| Tags | commodity, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-E behaves logographically: eight of nine occurrences precede numerals across Haghia Triada and Knossos, including E 5 and E 3 on HT91. Cross-Semitic \*ḥemʾat- (Hebrew ḥemʾā, Ugaritic ḥmʾt, Akkadian ḫimētu) makes dairy fat a semantic possibility if initial laryngeal loss licenses the abbreviation, but no phonetic complement or commodity equation proves it. The corpus establishes a commodity/category, not 'ghee'. ZA 4a has \]E\[, broken on both sides.
+E stands before a numeral in eight of nine occurrences, at HT and KN: HT 12 E 30, HT 23a E 17, HT 23b E 7, HT 35 E 5, HT 91 E 5 and E 3, KN 1a E 240, KN 1b E 105. ḥemʾat 'butter, ghee', E its first vowel: Heb. ḥemʾâ 'sour milk, cream' (HALOT 325), Ug. ḫmảt 'butter, curd' (DULAT 390), Akk. ḫimētu 'ghee' (CAD Ḫ 189). Weak point: no phonetic complement confirms it. ZA 4a has \]E\[, broken on both sides.
 
 ### Cognates
 
@@ -54,7 +54,7 @@ E behaves logographically: eight of nine occurrences precede numerals across Hag
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; HALOT; DULAT; CAD Ḫ
 
 ## Attestations
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/1949_joint_of_the_ribs_fingers_etc
 title: "*ki/uṯ̣r- {} *ki/uč̣r-: 'joint (of the ribs, fingers, etc.)'"
-desc: "Proto-Semitic *ki/uṯ̣r- {} *ki/uč̣r-, 'joint (of the ribs, fingers, etc.)': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ki/uṯ̣r- {} *ki/uč̣r-, 'joint (of the ribs, fingers, etc.)': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1949"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ḳiṭrā 'knot, band' \[Ja 1358\]. | Ja 1358 |  |
 | Syrian Aramaic | ḳǝṭartā 'joint (of a finger etc.)' \[Brock 662\] | Brock 662 |  |
 | Eblaitic | gi-zi-lu-um /ḳiṣrum/ (SED I 139; VE 992; Krebernik 1983, 36) | SED I 139; VE 992; Krebernik 1983, 36 |  |
+| Ugaritic | qṣr (DULAT 706) | DULAT 706 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

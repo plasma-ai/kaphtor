@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/K/KU_NI_SU
 title: "KU-NI-SU"
-desc: "kunīšu: assembly, the gathered body; rival Akkadian kunāšu 'emmer wheat'. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "title"]
+desc: "kunīšu: emmer (Akkadian loan). Lexicon, PROBABLE (tier 3)."
+tags: ["linear-a", "word", "tier-3", "administrative", "commodity", "grain", "loanword", "noun"]
 kind: "word"
 form: "KU-NI-SU"
 datasets: ["lexicon"]
-tier: 2
-confidence: "CANDIDATE"
-confidence_score: 0.4
+tier: 3
+confidence: "PROBABLE"
+confidence_score: 0.7
 reading: "kunīšu"
 attestations: ["HT10a", "HT86a", "HT86b", "HT95a", "HT95b"]
 created: 2026-10-24T16:17:50Z
@@ -27,32 +27,33 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.40
+**PROBABLE**, tier 3 of 4, score 0.70
 
 | Field | Value |
 |---|---|
 | Reading | kunīšu |
-| Meaning | assembly, the gathered body; rival Akkadian kunāšu 'emmer wheat' |
-| Root | k-n-s |
-| Proto-Semitic | \*kanVs- (#2763) |
-| Language layer | NWS |
-| Category | title |
-| Semantic field | personnel |
+| Meaning | emmer (Akkadian loan) |
+| Root | k-n-ṯ |
+| Proto-Semitic | \*kunaṯ- (#1604) |
+| Language layer | Semitic |
+| Tags | administrative, commodity, grain, loanword, noun |
+| Semantic field | commodity |
 
 ### Note
 
-HT 86a A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10; HT 95a/b the same set with DA-ME, MI-NU-TE and QE-RA₂-U; heads HT 10a. The set recurs under three headings and names parties, not grains (Montecchi 2008, 319): the logogram stands on the first entry only, and DA-ME takes the same GRA+K+L on HT 120. Passive \*kunīš- 'gathered': NI writes the ī of Aramaic kenīštā; the u of the first syllable is dialectal, as SU-PU against Hebrew sap and KU-MI-NA against Akkadian kamūnu; Egyptian Ku-nu-sha, Knossos, has the same u and a "true" š (Astour 1966, 313, 317). Alternatively the U is silent over a reduced first vowel, as the shewa of kenīštā. Rival: kunāšu 'emmer wheat' (Gordon 1966), with GRA+KU on HT 128a/b, an Akkadian loan of PS \*kunaṯ-, whose ṯ Minoan writes with ZU or the T-series. See U-NA-KA-NA-SI.
+HT 10a KU-NI-SU · heads a list of issues with no commodity logogram (SA-MA 4, DA-RE 16½, \*305-RU 2½, DA-RI-DA 8, ME-ZA 3); HT 86a/b A-KA-RU · KU-NI-SU GRA+K+L 20, SA-RU 20, DI-DE-RU 20, QA-RA₂-WA 10, the grain sign after the word; HT 95a/b the same set with DA-ME, MI-NU-TE and QE-RA₂-U. kunīšu 'emmer', an Akkadian loan (Gordon 1966, §116): CAD K 536 lists kunīšu beside kunāšu, and Nuzi writes ku-ni-šu in grain issues, 1 imēr ku-ni-šu ana PN (HSS 14 163:1; CAD K 537). S writes the Akkadian š of PS \*kunaṯ- (#1604), and the Ugarit polyglot sets \[ku-na\]-šu beside Ugaritic ku-sú-mu (GlOS 1, 323). GRA+KU abbreviates the word, and MI-NU-TE minūtu stands in the same set. Weak point: on HT 95a/b the word stands in a fixed set whose DA-ME and SA-RU take commodities elsewhere, as recipients do. Five attestations. See GRA+KU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Aramaic | kenīštā 'assembly' (Tg. Amos 8:13) |
-| Akkadian | kiništu 'assembly, priesthood', {lú}ki-niš-tu₄, ki-na-al-tu₄ (ORACC hbtin P296719); rival kunāšu 'emmer' (CAD K 536), from PS \*kunaṯ- (semitic_roots no. 1604) |
+| Akkadian | kunāšu (kunīšu, kunšu) 'emmer' (CAD K 536); Nuzi ku-ni-šu, ku-ni-ši (HSS 14 163:1ff.; HSS 16 114:1; JEN 427:9; CAD K 537); Boğazköy ZÍD ku-ni-ši 'emmer flour' (AfO 16 48:21) |
+| Ugaritic | polyglot \[ÁŠ = ku-na\]-šu = Hurrian ut-te = Ugaritic ku-sú-mu (GlOS 1, 323) |
+| Syrian Aramaic | kunnātā (semitic_roots 1604) |
 
 ### Source
 
-di Mino
+di Mino; Gordon 1966; CAD K; GlOS 1
 
 ## Attestations
 
@@ -68,10 +69,10 @@ di Mino
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | kunīšu | the assembly (heading); rival 'emmer' | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | kunīšu | assembly; rival 'emmer' | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT86b\|HT86b]] | kunīšu | assembly; rival 'emmer' | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT95a\|HT95a]] | kunīšu | assembly; rival 'emmer' | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT95b\|HT95b]] | kunīšu | assembly; rival 'emmer' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT10a\|HT10a]] | kunīšu | emmer (heading) | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT86a\|HT86a]] | kunīšu | emmer | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT86b\|HT86b]] | kunīšu | emmer | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT95a\|HT95a]] | kunīšu | emmer | PROBABLE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT95b\|HT95b]] | kunīšu | emmer | PROBABLE |
 
 <!-- END kaphtor:record -->

@@ -36,6 +36,6 @@ A form keeps its source's gloss only when the source is public domain or openly 
 
 ## Notes
 
-Brockelmann compares Arabic zǧr (Brock. 188). Payne Smith 110 names Syriac sgr and skr as cognates (K0391 \*sagar- 'close', K0393 \*sekēr- 'shut').
+Brockelmann compares Arabic zǧr (Brock. 188). Payne Smith 110 names Syriac sgr and skr as cognates (K0391 \*sagar- 'close').
 
 <!-- END kaphtor:record -->

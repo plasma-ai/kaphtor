@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_TI_JU
 title: "QA-TI-JU"
 desc: "Qātilu: Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "QA-TI-JU"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | Qātilu (personal name), 'killer'; rival Hurrian Katiya 'He/She said' |
 | Root | q-t-l |
 | Proto-Semitic | \*ḳtl (#2498) |
-| Language layer | NWS |
-| Category | personnel |
-| Semantic field | personnel |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-ZA 14 QA-TI-JU 8, a name among recipients (ME-KI-DI 1, PU-NI-KA-\*363 3, KU-PI 1, TU-MI-TI-ZA-SE 45). JU = /lu/: qa-ti-lu, the qātil participle of \*ḳtl 'kill', a name in Safaitic qtl and Arabic Qātila (Harding 1971, 476). Rival: Hurrian Katiya 'He/She said' (Mari ka-ti-ia, Monti 2017, 255), reading JU as /yu/, on the stem of QA-TI-DA-TE Kati-tati. One witness. \|\| Case unassigned: nothing here selects it (Fischer 2002, §140).
+ZA 14: QA-TI-JU 8, a name among recipients (ME-KI-DI 1, PU-NI-KA-\*363 3, KU-PI 1, TU-MI-TI-ZA-SE 45). JU writes lu: qa-ti-lu, the qātil participle of \*ḳtl 'kill', a name in Safaitic qtl and Arabic Qātila (Harding 1971, 476). Rival: Hurrian Katiya 'He/She said' (Mari ka-ti-ia; Monti 2017, 255), with JU for yu, on the stem of QA-TI-DA-TE Kati-tati. One witness.
 
 ### Cognates
 

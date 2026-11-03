@@ -88,13 +88,13 @@ CLASSES = {
 }
 LEXICON = {"entries": [
     {"word": "KU-PA₃-NU", "reading": "Kubānu", "meaning": "personal name", "confidence": "PROBABLE", "tier": 3,
-     "confidence_score": 0.7, "attestations": ["HT9a"], "root": None, "note": "", "source": "", "category": "name",
+     "confidence_score": 0.7, "attestations": ["HT9a"], "root": None, "note": "", "source": "", "tags": ["personal_name"],
      "language_layer": "", "semantic_field": "", "is_anchor": False},
     {"word": "A-DU", "reading": "Addu", "meaning": "the storm god", "confidence": "CANDIDATE", "tier": 2,
      "confidence_score": 0.5, "attestations": ["HT9b", "HT27a(*307)"], "root": "ʾ-d-d", "note": "Cf. *301 | APZa<3>.",
-     "source": "", "category": "theonym", "language_layer": "", "semantic_field": "", "is_anchor": False},
+     "source": "", "tags": ["administrative", "theonym"], "language_layer": "", "semantic_field": "", "is_anchor": False},
     {"word": "OLE+KI", "reading": "kīnu?", "meaning": "oil of a kind", "confidence": "CANDIDATE", "tier": 2,
-     "confidence_score": 0.4, "attestations": ["HT9a"], "root": None, "note": "", "source": "", "category": "logogram",
+     "confidence_score": 0.4, "attestations": ["HT9a"], "root": None, "note": "", "source": "", "tags": ["commodity", "logogram", "oil"],
      "language_layer": "", "semantic_field": "", "is_anchor": False},
 ]}
 ONOMASTICON = {"entries": [
@@ -243,6 +243,11 @@ def test_normalizer_fails_on_an_unknown_item_key():
     entry = {"translation": "x", "words": [{"linear_a": "A-DU", "reading": "Addu", "glosss": "typo"}]}
     with pytest.raises(ValueError, match="glosss"):
         views("model").normalize_translation("HT1", entry)
+
+
+def test_normalizer_keeps_an_editorial_restoration():
+    entry = {"translation": "x", "words": [{"linear_a": "U-NA-RU-KA-[?]-JA-SI", "restored": "U-NA-RU-KA-[NA]-{JA}-SI"}]}
+    assert views("model").normalize_translation("PKZa12", entry)["words"][0]["restored"] == "U-NA-RU-KA-[NA]-{JA}-SI"
 
 
 def test_normalizer_fails_on_gloss_and_meaning_together():
@@ -514,6 +519,30 @@ def test_an_attestation_links_to_a_page_held_by_its_translation_alone(data):
     _, text = render.word_page(m, "A-DU")
     assert f"[[{model.doc_path('LMP-Spell33')}\\|LMP-Spell33]]" in text
     assert "not in corpus" not in text
+
+
+def test_an_attestation_restored_in_its_translation_is_marked_restored(data):
+    model, render = views("model"), views("render")
+    m = model.load(data)
+    m.lexicon["A-DU"]["attestations"] = ["HT9a"]
+    _, text = render.word_page(m, "A-DU")
+    assert "form not in transliteration" in text
+    m.translations["HT9a"]["raw"]["words"].append({"linear_a": "[A-DU]-KU-RO", "reading": "Addu"})
+    _, text = render.word_page(m, "A-DU")
+    assert "complete; restored |" in text
+    assert "form not in transliteration" not in text
+
+
+def test_a_word_page_carries_the_lexicon_tags(data):
+    model, render, markdown = views("model"), views("render"), views("markdown")
+    m = model.load(data)
+    _, text = render.word_page(m, "A-DU")
+    assert {"administrative", "theonym", "tier-2"} <= set(markdown.parse_frontmatter(text)["tags"])
+    assert "| Tags | administrative, theonym |" in text
+    m.lexicon["A-DU"].pop("tags")
+    _, bare = render.word_page(m, "A-DU")
+    assert "untagged" in markdown.parse_frontmatter(bare)["tags"]
+    assert "| Tags |" not in bare
 
 
 def test_a_lexicon_entry_without_a_reading_prints_no_none(data):
@@ -878,6 +907,32 @@ def test_the_build_writes_the_root_pages_from_the_sibling_folder(data, tmp_path)
     assert (out / "semitic-roots" / "b" / "1_house.md").exists()
     index = views("markdown").parse_frontmatter((out / "semitic-roots" / "b" / "_index.md").read_text(encoding="utf-8"))
     assert index["desc"] == "Semitic roots whose first radical is b."
+    assert views("build").main(["--data", str(data), "--out", str(out)]) == 0
+
+
+def test_the_build_writes_the_pre_greek_pages_from_the_sibling_folder(data, tmp_path):
+    roots = tmp_path / "semitic-roots"
+    roots.mkdir()
+    (roots / "semitic_roots.json").write_text(json.dumps({"schema_version": 2, "description": "x", "roots": [
+        {"id": "1", "ps": "*bayt-", "meaning": "house", "basis": {"ps": "sed", "meaning": "sed"},
+         "reflexes": []}]}), encoding="utf-8")
+    pregreek = tmp_path / "pre-greek"
+    pregreek.mkdir()
+    (pregreek / "pregreek_lexicon.json").write_text(json.dumps({"schema_version": 1, "description": "x", "works": {},
+                                                                "entries": [
+        {"id": "pg:βαιτυλοσ", "lemma": "βαίτυλος", "key": "βαιτυλοσ", "translit_key": "baitulos",
+         "lemma_basis": "lsj", "variants": [], "variant_of": None, "sources": [],
+         "proto_semitic": {"id": "1", "form": "*bayt-"}, "review_status": "machine_compiled"}]},
+        ensure_ascii=False), encoding="utf-8")
+    out = tmp_path / "out"
+    assert views("build").main(["--data", str(data), "--out", str(out), "--write"]) == 0
+    word = (out / "pre-greek" / "β" / "βαιτυλοσ.md").read_text(encoding="utf-8")
+    assert "[[wiki/semitic-roots/b/1_house\\|\\*bayt-]]" in word
+    assert "[[wiki/pre-greek/β/βαιτυλοσ|βαίτυλος]]" in (out / "semitic-roots" / "b" / "1_house.md").read_text(
+        encoding="utf-8")
+    assert (out / "pre-greek" / "by_feature.md").exists() and (out / "pre-greek" / "semitic.md").exists()
+    index = views("markdown").parse_frontmatter((out / "pre-greek" / "β" / "_index.md").read_text(encoding="utf-8"))
+    assert index["desc"] == "Pre-Greek words whose key begins with β."
     assert views("build").main(["--data", str(data), "--out", str(out)]) == 0
 
 

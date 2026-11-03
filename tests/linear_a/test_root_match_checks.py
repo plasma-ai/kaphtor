@@ -268,7 +268,7 @@ class TestCompetitorPower:
         chk.run_a9(argparse.Namespace(index=str(tmp_path / "x.sqlite"), n=10, seed=rm.SEED, names=False, workers=1,
                                       planted=1, out=str(tmp_path / "a9.json")))
         capsys.readouterr()
-        assert [s.name for s in chk._ENGINE.competitors] == ["luwian", "egyptian", "hurrian"]
+        assert [s.name for s in chk._ENGINE.competitors] == ["luwian", "egyptian", "hurrian", "hattic"]
         summary = json.loads((tmp_path / "a9.json").read_text())["summary"]
         assert summary["planted"] == 1 and summary["power_by_consonants"]["3"]["detected"] == 0
         for c in summary["competitor_power"].values():
@@ -358,11 +358,11 @@ class TestGoldSkip:
         chk.run_a9(argparse.Namespace(**args, out=str(tmp_path / "a9.json")))
         capsys.readouterr()
         handed = [seen["a12"], *seen["a9"]]
-        assert len(seen["a9"]) == 4                                                 # Semitic, then 3 competitors
+        assert len(seen["a9"]) == 5                                                 # Semitic, then 4 competitors
         assert all(g("KU-RO") and g("KU2-RO") and not g("KA-NA-SI") for g in handed)   # by name and by reading
         summary = json.loads((tmp_path / "a9.json").read_text())["summary"]
         assert summary["gold_skipped"] == [{"number": "9", "word": "KU-RO"}]
-        assert list(summary["competitor_power"]) == ["luwian", "egyptian", "hurrian"]
+        assert list(summary["competitor_power"]) == ["luwian", "egyptian", "hurrian", "hattic"]
         assert all(c["gold_skipped"] == [{"key": "kr", "word": "KU-RO"}] and c["keys"]
                    for c in summary["competitor_power"].values())
 
@@ -370,6 +370,15 @@ class TestGoldSkip:
         index = tmp_path / "x.sqlite"
         index.write_bytes(b"")
         assert chk._hashes(index)["tests/fixtures/root_match_gold.v3.json"]
+
+    def test_every_competitor_s_roots_and_the_tables_are_report_inputs(self, tmp_path):
+        from tools.core.competitors import COMPETITORS, DATA_DIR
+        index = tmp_path / "x.sqlite"
+        index.write_bytes(b"")
+        hashes = chk._hashes(index)
+        assert all(hashes[chk._rel(DATA_DIR / s.file)] for s in COMPETITORS)
+        assert all(hashes[chk._rel(DATA_DIR / f"{n}_roots.json")] for n in ("luwian", "egyptian", "hurrian", "hattic"))
+        assert hashes["tools/core/phonetics.py"]
 
 
 def _die(job) -> dict:

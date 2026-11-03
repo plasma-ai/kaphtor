@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_NA_SI
 title: "DA-NA-SI"
 desc: "Ḏā-Naśiʾ: He of Naśiʾ (personal name heading HT 126a). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DA-NA-SI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | He of Naśiʾ (personal name heading HT 126a) |
 | Root | ḏ + n-ś-ʾ |
 | Proto-Semitic | \*nśʾ- (#S38) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 126a .1 DA-NA-SI · \*318 ·, heading the tablet, before A-NA-\[·\] 1 and SI-DI-JA 1 (GORILA I 217). ḏā 'the one of', as in DA-MI-NU, + Naśiʾ, the Amorite god 'the Exalted One', whom Gelb's names write NA-SI sign for sign: 'He of Naśiʾ', the type of Amorite Zu-dIš-ḫa-ra 'He of Išḫara' (Gelb no. 6598). NA-SI also closes U-MI-NA-SI, the heading of HT 117a and HT 28b. Rival: ḏā-Nasr, the god Nasr of Ḥimyar (Q 71:23; Faris 1952, 10), with r unwritten.
+HT 126a .1 DA-NA-SI · \*318 ·, heading the tablet, before A-NA-\[·\] 1 and SI-DI-JA 1 (GORILA I 217). ḏā 'the one of', as in DA-MI-NU, + Naśiʾ, the Amorite god of NŠʾ 'to carry, to raise' (Gelb 1980, 27), whom Gelb's names write NA-SI sign for sign: IA-AḪ-WI-NA-SI, IA-DU-UR-NA-SI, NI-IQ-MI-LA-NA-SI, ZI-ID-KU-LA-NA-SI (nos. 2874, 3218, 5051, 6457). 'He of Naśiʾ', the type of Amorite Zu-dIš-ḫa-ra 'He of Išḫara' (Gelb no. 6598). NA-SI also closes U-MI-NA-SI, the heading of HT 117a and HT 28b. Rival: ḏā-Nasr, the god Nasr of Ḥimyar (Q 71:23; Faris 1952, 10), with r unwritten.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 126a .1 DA-NA-SI · \*318 ·, heading the tablet, before A-NA-\[·\] 1 and SI
 
 ### Source
 
-di Mino; Gelb 1980
+di Mino; Gelb 1980; Faris 1952
 
 ## Attestations
 

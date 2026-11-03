@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_RA_NA_RE
 title: "A-RA-NA-RE"
 desc: "Aranare: personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "A-RA-NA-RE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Aranare |
 | Meaning | personal name; Ugaritic ålnr (Hurrian), Linear B a-ra-na-ro |
 | Language layer | Hurrian |
-| Category | personal_name |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -69,7 +69,7 @@ di Mino; DULAT 57; Laroche 1980; KN As 1516.11; Gordon 1966 §127
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
 | Affiliation | hurrian (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |

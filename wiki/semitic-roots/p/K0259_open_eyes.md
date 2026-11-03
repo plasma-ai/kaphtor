@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/K0259_open_eyes
 title: "*paqaḥ-: 'open-eyes'"
-desc: "Proto-Semitic *paqaḥ-, 'open-eyes': reflexes in 4 language(s)."
+desc: "Proto-Semitic *paqaḥ-, 'open-eyes': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0259"
@@ -33,6 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | PQḤ (Aramaic Root Atlas; CAL s.v. pqḥ) | Aramaic Root Atlas; CAL s.v. pqḥ; Anderson–Moser 2024 root pqḥ | gloss withheld |
 | Hebrew | paqaḥ 'open' (BDB 824) | BDB 824; Anderson–Moser 2024 root pqḥ |  |
 | Epigraphic South Arabian | Sab fqḥ (SD 45; Biella 408) | SD 45; Biella 408 | gloss withheld |
+| Eblaitic | /p-q-ḥ/: names ib-ga-ì/il, ib-ga-a-gú, ib-ga-iš-lu/ru₁₂ (Sanmartín GlOS 2, 126) | Sanmartín GlOS 2, 126 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

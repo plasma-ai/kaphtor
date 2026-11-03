@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/2109_to_bear_give_birth_to_1_boy_child_2
 title: "*wld: 'to bear, give birth to' 1, 'boy, child' 2"
-desc: "Proto-Semitic *wld, 'to bear, give birth to' 1, 'boy, child' 2: reflexes in 23 language(s)."
+desc: "Proto-Semitic *wld, 'to bear, give birth to' 1, 'boy, child' 2: reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2109"
@@ -43,16 +43,17 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | élɔ́d, élɛ́d \[JJ 291\] | JJ 291 | gloss withheld |
 | Hebrew | yālad (HALOT 411) 1, yäläd 2 | HALOT 411 |  |
 | Amharic | wällädä \[K 1489\] 1 | K 1489 |  |
-| Epigraphic South Arabian | SAB wld \[SD 160; Sabaweb lemma 1360\] 1 | SD 160; Sabaweb lemma 1360 | gloss withheld |
+| Epigraphic South Arabian | SAB wld \[SD 160; Sabaweb lemma 1360\] 1; Sab wld, ʾwld 2 (Biella 131) | SD 160; Sabaweb lemma 1360; Biella 131 | gloss withheld |
 | Judaic Aramaic | yǝlēd, yǝlīd \[Ja 578\], \[DJPA 240b apud CAL\] 1 | Ja 578; DJPA 240b; CAL |  |
 | Syrian Aramaic | ʔīlēd \[Brock 301\] 1, 2 | Brock 301 |  |
 | Aramaic | OFF NAB yld \[HJ 457\] 1 | HJ 457 |  |
 | Tigrinya | wällädä \[Bass 637\] 1 | Bass 637 |  |
 | Harari | wŭläği (OLA80 §15.5, §43.6); wɔläda \[LHar 159\] | OLA80 §15.5, §43.6; LHar 159 | gloss withheld |
 | Argobba | wälläda (LGz. 613) | LGz. 613 |  |
-| Pre-Islamic North Arabian | Safaitic wld (Al-Jallad–Jaworska 140) | Al-Jallad–Jaworska 140 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wld (Al-Jallad–Jaworska 140); ʾld (pl.) 2, wld (D) 1; Dadanitic wld 2 (Al-Jallad 2026, 166) | Al-Jallad–Jaworska 140; Al-Jallad 2026 166 | gloss withheld |
 | Eblaitic | mu-li-tum, mu-li-du /mullittum/ (VE 581; Krebernik 1983, 23); mu-wa-li-tum /muwallidt/ (ARET I; Sanmartín GlOS 2, 351) | VE 581; Krebernik 1983, 23; ARET I; Sanmartín GlOS 2, 351 | gloss withheld |
 | Amorite | y-l-d 1: cf. ia-li-id-ᵈIM (Sanmartín GlOS 2, 350) | Sanmartín GlOS 2, 350 | gloss withheld |
+| Punic | Neo-Punic yld 2, in hyld (Krahmalkov 208) | Krahmalkov 208 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

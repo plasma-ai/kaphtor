@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/3814_a_costly_or_sacral_garment_tunic_ephod
 title: "*ʾipād-: 'a costly or sacral garment, tunic, ephod'"
-desc: "Proto-Semitic *ʾipād-, 'a costly or sacral garment, tunic, ephod': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ʾipād-, 'a costly or sacral garment, tunic, ephod': reflexes in 7 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3814"
@@ -34,6 +34,8 @@ updated: 2026-10-31T13:28:57Z
 | Akkadian | epattu, pl. epadātu (OA) (CAD E 183) | CAD E 183 | gloss withheld |
 | Syrian Aramaic | pedtā (HALOT 77; DULAT 85); ʾāpūdā (HALOT 77) | HALOT 77; DULAT 85 | gloss withheld |
 | Eblaitic | /ʔipdum/ (DULAT 85) | DULAT 85 |  |
+| Phoenician | ʾpdt (Krahmalkov 68) | Krahmalkov 68 | gloss withheld |
+| Amorite | ʾipādu (Buck 2019, 324) | Buck 2019, 324 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

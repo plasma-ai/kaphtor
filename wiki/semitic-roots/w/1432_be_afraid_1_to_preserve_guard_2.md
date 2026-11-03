@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/1432_be_afraid_1_to_preserve_guard_2
 title: "*wVḳVy-: 'be afraid' 1, 'to preserve, guard' 2"
-desc: "Proto-Semitic *wVḳVy-, 'be afraid' 1, 'to preserve, guard' 2: reflexes in 4 language(s)."
+desc: "Proto-Semitic *wVḳVy-, 'be afraid' 1, 'to preserve, guard' 2: reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1432"
@@ -33,7 +33,8 @@ updated: 2026-10-28T06:21:26Z
 | Arabic | (VIII) wqy; waqāhu, ittaqāhu 'he was cautious of it' 1; waqāhu llāhu s-sūʾa 'God preserved him from evil' 2 (Lane 3059) | Lane 3059 |  |
 | Ugaritic | wqy |  |  |
 | Geez | waqaya II (yəwaqqi) 2 (LGz. 616) | LGz. 616 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic wqy, qyt, twqy, wqyt 2 (Al-Jallad–Jaworska 140, 112, 134, 141) | Al-Jallad–Jaworska 140, 112, 134, 141 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wqy, qyt, twqy, wqyt 2 (Al-Jallad–Jaworska 140, 112, 134, 141); qt; Dhofari qyt 2 (Al-Jallad 2026, 168) | Al-Jallad–Jaworska 140, 112, 134, 141; Al-Jallad 2026 168 | gloss withheld |
+| Amorite | w-ḳ-y 2: name ú-qe-e-ra-aḫ (Babylonia) (Sanmartín GlOS 2, 350) | Sanmartín GlOS 2, 350 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

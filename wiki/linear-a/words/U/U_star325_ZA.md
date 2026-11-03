@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_star325_ZA
 title: "U-*325-ZA"
 desc: "ʾubūs(a): the stall, storehouse. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "administrative"]
+tags: ["linear-a", "word", "tier-2", "administrative", "noun"]
 kind: "word"
 form: "U-*325-ZA"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | the stall, storehouse |
 | Root | ʾ-b-s |
 | Proto-Semitic | \*ʾabūs- (#1336) |
-| Language layer | NWS |
-| Category | administrative |
+| Language layer | Semitic |
+| Tags | administrative, noun |
 | Semantic field | administrative |
 
 ### Note
 
-\*325 = /bu/ (CANDIDATE). PS \*s = \[ts\] takes the Z-series. HT10a: two issues (4, 14); HT85a: 6 men, beside DA-RI-DA and DA-RE, the pattern of a standing unit. The U-/A- onset against A-\*325-ZA (PE2) matches Akk. ubsātu beside abūsātu. At Ras Shamra a bēl abūsi 'overseer of the storehouse' receives goods. Rival: \*325 = /ḫu/, ʾuḫuzza(t) 'holding' (Heb. ʾăḥuzzâ, HALOT 32), with ZA for PS \*ḏ.
+HT 10a U-\*325-ZA 4 and U-\*325-ZA 14, two issues; HT 85a U-\*325-ZA 6 among the men under A-DU, beside DA-RI-DA and DA-RE, the pattern of a standing unit. With \*325 read bu, and PS \*s = \[ts\] taking the Z-series, ʾubūs(a) 'the stall, storehouse': Akk. abūsu 'storehouse', plural abūsātu and ubsātu (CAD A/1 92); the U-/A- onset against A-\*325-ZA (PE 2) matches ubsātu beside abūsātu. At Ras Shamra a bēl abūsi 'overseer of the storehouse' receives goods (RS 17.382+:45; CAD A/1 93). Rival: \*325 = /ḫu/, ʾuḫuzza(t) 'holding' (Heb. ʾăḥuzzâ, HALOT 32), with ZA for PS \*ḏ. Two attestations. See A-\*325-ZA.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; CAD A/1; HALOT; GlOS 1
 
 ## Attestations
 

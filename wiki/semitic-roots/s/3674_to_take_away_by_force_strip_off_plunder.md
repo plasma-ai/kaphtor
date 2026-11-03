@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/s/3674_to_take_away_by_force_strip_off_plunder
 title: "*slb: 'to take away by force, strip off, plunder'"
-desc: "Proto-Semitic *slb, 'to take away by force, strip off, plunder': reflexes in 3 language(s)."
+desc: "Proto-Semitic *slb, 'to take away by force, strip off, plunder': reflexes in 4 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3674"
@@ -32,6 +32,7 @@ updated: 2026-10-26T17:41:55Z
 | Arabic | salaba 'he seized it, carried it off, by force; he spoiled him, despoiled him, plundered him' (Lane 1398); salab 'spoil, plunder, booty; what is seized, or carried off, by force' (Lane 1399) | Lane 1398; Lane 1399 |  |
 | Geez | salaba; salabā (LGz. 498) | LGz. 498 | gloss withheld |
 | Jibbali | slb (LGz. 498) | LGz. 498 | gloss withheld |
+| Epigraphic South Arabian | Sab ślbt (Biella 506) | Biella 506 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

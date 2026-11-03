@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S/SA_RA2
 title: "SA-RA₂"
 desc: "šarra: queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "title / institution"]
+tags: ["linear-a", "word", "tier-2", "administrative", "noun", "title"]
 kind: "word"
 form: "SA-RA₂"
 datasets: ["lexicon", "onomasticon"]
@@ -35,33 +35,33 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | queen/princess; by metonymy the queen's or royal establishment (recipient/institutional heading) |
 | Root | š-r-r |
 | Proto-Semitic | \*ŝarr- (#3463) |
-| Language layer | NWS |
-| Category | title / institution |
+| Language layer | Semitic |
+| Tags | administrative, noun, title |
 | Semantic field | administrative |
 
 ### Note
 
-20 Haghia Triada accounting-tablet witnesses: 19 preserve the complete group, while HT125a has \]SA-RA₂ at a broken left edge and cannot independently prove that the group was complete there. Distribution strongly disfavors the šeʾāra 'remainder/surplus' analysis. HT105 places KA-PA and SA-RA₂ in parallel before VIR totals 234 and 235; HT100 and HT94a place SA-RA₂ after a completed KU-RO and before a new commodity section; HT30 and HT34 already use KI-RO for an actual deficit; HT97b preserves SA-RA₂ alone as a plausible docket or recipient label. Montecchi independently excludes a transactional meaning and identifies SA-RA₂ as probably a sender, recipient, personal name, or local name. Within the Semitic hypothesis, the SA-RA/SA-RU title family makes /šarra/ 'queen/princess' the strongest positive candidate; in administrative contexts this may refer metonymically to the queen's establishment, or more broadly the royal establishment. Amorite šarra needs no final -t (see SA-RA). RA₂ writes the geminate, as Linear B ra₂ writes /rra, lla/ beside plain ra (Judson 2020, 74); SA-RA is the same word with the geminate unwritten. Rival: Alalakh has Šar-ra as a man's name, a witness (Niedorf 2008, 490; ATmB 36.1,16). A √š-ʾ-r 'surplus' derivation rests on positional recurrence alone, which does not establish the sense.
+Twenty Haghia Triada accounting tablets; on HT 125a \]SA-RA₂ stands at a broken edge. HT 105 sets KA-PA and SA-RA₂ in parallel before VIR 234 and 235; HT 100 and HT 94a put SA-RA₂ after a closed KU-RO and before a new commodity; HT 97b has SA-RA₂ alone, a docket or recipient label. Montecchi takes it as a sender, recipient or name and excludes a transactional sense (Montecchi 2008, 321). šarra 'queen, princess', the queen's establishment as recipient: Akk. šarratu 'queen' (CAD Š/2 72), Heb. śārâ 'woman of rank, princess' (HALOT 1354), Amorite šarra without -t, as the Mari name Nanni-šarra beside Nanni-šarrat (Ziegler 1999, 278; see SA-RA). RA₂ writes the geminate, as Linear B ra₂ writes rra, lla beside plain ra (Judson 2020, 74). Rivals: Šar-ra, a man's name at Alalakh (Niedorf 2008, 490); šeʾārā 'remainder' (√š-ʾ-r), where HT 30 and HT 34 write the deficit KI-RO; 'personnel', the 100 of HT 94a (Schrijver 2014, 26–29); 'rations' (Pope 1958, 16), against HT 105 SA-RA₂ VIR 235.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Akkadian | šarratu (construct šarrat-) 'queen' |
-| Amorite | šarra 'queen' (Gelb 1980, glossary); see SA-RA |
+| Amorite | šarra 'queen' (Gelb 1980, glossary); Nanni-šarra(t), a woman of Zimri-Lim's palace at Mari, written both ᵈna-an-ni-šar-ra and na-an-ni-šar-ra-at (Ziegler 1999, 278) |
 | Hebrew | śārâ 'princess' (Gen 17:15) |
-| Linear A | SA-RU /šarru/ 'king/prince' and SA-RA /šarra/ 'queen/princess' are proposed members of the same title family |
+| Linear A | SA-RU /šarru/ 'king/prince' and SA-RA /šarra/ 'queen/princess', the same title family |
 
 ### Source
 
-Corpus distribution; Montecchi 2008, 321; comparative Akkadian šarratu and Hebrew śārâ; Gelb 1980; Niedorf 2008; Judson 2020
+di Mino; Montecchi 2008; CAD Š/2; HALOT; Gelb 1980; Ziegler 1999; Judson 2020; Niedorf 2008; Schrijver 2014; Pope 1958
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | Haghia Triada | Tablet | complete |
-| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | none |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | Haghia Triada | Tablet | complete |
 | [[wiki/linear-a/inscriptions/HT/HT/HT30\|HT30]] | Haghia Triada | Tablet | none |
 | [[wiki/linear-a/inscriptions/HT/HT/HT32\|HT32]] | Haghia Triada | Tablet | none |
@@ -86,6 +86,7 @@ Corpus distribution; Montecchi 2008, 321; comparative Akkadian šarratu and Hebr
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT18\|HT18]] | šarra | queen/princess or royal establishment | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT28a\|HT28a]] | šarra | the queen or royal establishment; OLE+DI 1, figs 2, wine 3, VIR+KA-VIN 6 | CANDIDATE |
 | [[wiki/linear-a/inscriptions/HT/HT/HT28b\|HT28b]] | šarra | queen/princess or royal establishment |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT90\|HT90]] | šarra | queen/princess or royal establishment |  |
 | [[wiki/linear-a/inscriptions/HT/HT/HT93a\|HT93a]] | šarra | queen/princess or royal establishment | CANDIDATE |

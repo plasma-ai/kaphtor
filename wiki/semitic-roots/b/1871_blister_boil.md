@@ -32,7 +32,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Akkadian | bubuʔtu (bubūtu, bubuḫtu, buḫbuḫtu) OB, SB \[CAD b 300\], \[AHw 135\]. | CAD b 300; AHw 135 | gloss withheld |
 | East Ethiopic | SEL (h)umbobbo, WOL ǝmbʷäbbo \[LGur 43\] | LGur 43 | gloss withheld |
-| Geez | ʔǝnṗāṗṗe |  | gloss withheld |
+| Geez | ʔǝnṗāṗṗe, ʔǝnṗānṗe, ʔanṗānṗe, ʔanṗāʕānṗe, ʔǝnṗāʔǝnṗe (LGz. 30 apud SED I 30) | LGz. 30; SED I 30 | gloss withheld |
 | Gurage | CHA ǝmbʷäpʷä, EZHA MSQ GOG ǝmbʷäbbʷä, END ǝmbʷäppä, MUH ǝmbʷäbʷä, ǝmbʷäwä, SOD ǝmbobbo \[ibid.\]. |  |  |
 | Hebrew | ʔăbaʕbūʕōt (HALOT 9); PB biʕbūăʕ \[Ja 180\] | HALOT 9; Ja 180 | gloss withheld |
 | Judaic Aramaic | būʕā 'swelling, abscess, mostly applied to tubercles of the lungs' \[Ja 147\], būʕătā, būtā 'abscess' \[ibid. 147\], ʔăbaʕbūʕīn (pl.) 'blains, pustules' \[ibid. 8\] | Ja 147; Ja 8 |  |

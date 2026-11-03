@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2929_hurry_hasten
 title: "*ḥVpVz-: 'hurry, hasten'"
-desc: "Proto-Semitic *ḥVpVz-, 'hurry, hasten': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ḥVpVz-, 'hurry, hasten': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2929"
@@ -31,6 +31,7 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Hebrew | ḥāpaz 'hurry, hasten' (BDB 342) | BDB 342 |  |
 | Arabic | ḥafaza (HALOT 339) | HALOT 339 |  |
+| Canaanite | EG SYLL ḥa=fi=ḏa, ḥ=f=ḏa, ḥ=f=ḏ=nu /\*ḥafaza/ (Hoch 225–226) | Hoch 225–226 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

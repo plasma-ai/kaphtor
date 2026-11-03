@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/g/2800_burst_forth
 title: "*gVw/yVḥ-: 'burst forth'"
-desc: "Proto-Semitic *gVw/yVḥ-, 'burst forth': reflexes in 10 language(s)."
+desc: "Proto-Semitic *gVw/yVḥ-, 'burst forth': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2800"
@@ -39,6 +39,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | ga balä, gaʾat (LGz. 207) | LGz. 207 | gloss withheld |
 | Amorite | gjḥ: jagīḥ (Gelb AS 21, 19) | Gelb AS 21 19 | gloss withheld |
 | Syrian Aramaic | gāḥ 'gush out, pour forth' (Payne Smith 63) | Payne Smith 63 |  |
+| Biblical Aramaic | gwḥ haf. (HALOT 189) | HALOT 189 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

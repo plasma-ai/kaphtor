@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0111_stumble
 title: "*kašal-: 'stumble'"
-desc: "Proto-Semitic *kašal-, 'stumble': reflexes in 4 language(s)."
+desc: "Proto-Semitic *kašal-, 'stumble': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0111"
@@ -29,7 +29,6 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | kasila 'lazy' | Anderson–Moser 2024 root kšl |  |
 | Aramaic | KŠL (Aramaic Root Atlas; Qumran 119 apud CAL) | Aramaic Root Atlas; CAL; Anderson–Moser 2024 root kšl | gloss withheld |
 | Hebrew | kašal 'stumble' (BDB 505) | BDB 505; Anderson–Moser 2024 root kšl |  |
 | Syrian Aramaic | kšal 'stumble; be offended' (Payne Smith 229) | Payne Smith 229 |  |

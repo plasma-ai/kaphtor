@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/3516_to_throw_stones
 title: "*wgr: 'to throw (stones)'"
-desc: "Proto-Semitic *wgr, 'to throw (stones)': reflexes in 5 language(s)."
+desc: "Proto-Semitic *wgr, 'to throw (stones)': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3516"
@@ -34,6 +34,7 @@ updated: 2026-10-25T06:28:07Z
 | Tigrinya | wäggärä (LGz. 608) | LGz. 608 | gloss withheld |
 | Amharic | wäggärä (LGz. 608) | LGz. 608 | gloss withheld |
 | Syrian Aramaic | šawgar (šafel) 'fling, hurl, throw down' (Payne Smith 186) | Payne Smith 186 |  |
+| Epigraphic South Arabian | yw(g)rn (SD 158) | SD 158 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

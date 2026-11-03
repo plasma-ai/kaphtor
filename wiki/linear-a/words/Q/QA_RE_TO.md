@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/Q/QA_RE_TO
 title: "QA-RE-TO"
 desc: "qart-: city of (Phoenician construct form). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "QA-RE-TO"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | city of (Phoenician construct form) |
 | Root | q-r-y |
 | Proto-Semitic | \*ḳʷary- (#672) |
-| Language layer | NWS |
-| Category | vocabulary |
+| Language layer | Semitic |
+| Tags | hapax, noun |
 | Semantic field | toponym |
 
 ### Note
 
-Skeleton qrt = Phoenician qart- 'city (of)'. Melqart, milk-qart 'king of the city' (#2772), confirms the Phoenician construct. Uses unambiguous RE (not RA₂), providing a comparison for RA₂=/ra/ in QA-RA₂-WA and QE-RA₂-JA. On HT132 in commodity allocation context with \*305. Huehnergard: fem. /qar(i)yatu/, construct /qart-/; BH qiryā. The Ugarit polyglot vocabulary has qa-ri-t\[u₄\] 'city' (GlOS 1, 354).
+HT 132: QA-RE-TO · \*21F 27, between A-SE · A319 5 and PA₃ · \*305 1, in a commodity allocation. qart- 'city (of)', the Phoenician construct, which Melqart, milk-qart 'king of the city' (#2772), shows. Ug. qryt /qar(i)yatu/, also qrt /qarītu/ 'city' (Huehnergard 2012, 44), BH qiryā; the Ugarit polyglot vocabulary has qa-ri-t\[u₄\] 'city' (GlOS 1, 354). One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ Skeleton qrt = Phoenician qart- 'city (of)'. Melqart, milk-qart 'king of the cit
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; Huehnergard 2012; GlOS 1
 
 ## Attestations
 

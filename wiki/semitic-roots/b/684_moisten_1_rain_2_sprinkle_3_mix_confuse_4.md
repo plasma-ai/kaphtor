@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/b/684_moisten_1_rain_2_sprinkle_3_mix_confuse_4
 title: "*bVlVl-: 'moisten' 1, 'rain' 2, 'sprinkle' 3, 'mix, confuse' 4"
-desc: "Proto-Semitic *bVlVl-, 'moisten' 1, 'rain' 2, 'sprinkle' 3, 'mix, confuse' 4: reflexes in 11 language(s)."
+desc: "Proto-Semitic *bVlVl-, 'moisten' 1, 'rain' 2, 'sprinkle' 3, 'mix, confuse' 4: reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "684"
@@ -30,7 +30,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Arabic | bll \[-u-\] 2 (Lane 242) | Lane 242 |  |
+| Arabic | bll \[-u-\] 2 (Lane 242); balla 1 (LGz. 96) | Lane 242; LGz. 96 | gloss withheld |
 | Akkadian | bll 3; balālu 4 (CAD B 39); billatu 4 (CAD B 225) | CAD B 39; CAD B 225 | gloss withheld |
 | Aramaic | bll 1 |  |  |
 | Phoenician | bll (T 46) | T 46 | gloss withheld |
@@ -41,6 +41,7 @@ updated: 2026-10-26T14:26:59Z
 | Amharic | bällälä (AED 861 apud SEDonline 1233) | AED 861; SEDonline 1233 | gloss withheld |
 | Amorite | b-l-l 4 (Sanmartín GlOS 1, 118) | Sanmartín GlOS 1, 118 | gloss withheld |
 | Eblaitic | /b-l-l/ 4: name ib-lul-il/ì (Sanmartín GlOS 1, 118) | Sanmartín GlOS 1, 118 | gloss withheld |
+| Ugaritic | bl 4 (DULAT 219); bln 4 (DULAT 220); bll 1 (LGz. 96) | DULAT 219; DULAT 220; LGz. 96 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

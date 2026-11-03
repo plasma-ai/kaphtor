@@ -34,10 +34,14 @@ updated: 2026-10-24T16:17:50Z
 | Type | personal name (SPECULATIVE) |
 | Affiliation | unknown (SPECULATIVE) |
 | Evidence | none |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Haghia Triada |
 | Supports | Tablet 1 |
+
+### Note
+
+HT 94a .4 \*318-\*306 11, before the CYP and NI entries (GORILA I 151). \*318 has no value. No reading.
 
 ### Co-occurring lexicon words
 

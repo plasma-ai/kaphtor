@@ -30,7 +30,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Mandaic Aramaic | ʕkum- (Drower/Macuch 349a apud CAL) | Macuch 349a; CAL |  |
+| Mandaic Aramaic | ʕkum- (MD 349) | MD 349 |  |
 | Modern Aramaic | Urm kūm |  |  |
 | Syrian Aramaic | ʔukkām- |  |  |
 | Aramaic | Pal ʔwkm, ʔkwm (DJPA 56b apud CAL) | DJPA 56b; CAL |  |

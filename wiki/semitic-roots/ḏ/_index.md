@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/ḏ
 desc: "Semitic roots whose first radical is ḏ."
 created: 2026-10-22T17:38:31Z
-updated: 2026-10-28T20:08:42Z
+updated: 2026-11-06T03:06:37Z
 ---
 
 # wiki/semitic-roots/ḏ
@@ -19,9 +19,9 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ḏ/169_bearded_chin_beard|169_bearded_chin_beard]]: Proto-Semitic *ḏiḳan-, '(bearded) chin, beard': reflexes in 15 language(s).
 
-[[wiki/semitic-roots/ḏ/1816_to_scatter_spread_seed_winnow|1816_to_scatter_spread_seed_winnow]]: Proto-Semitic *ǯrr/w/y/ʾ, 'to scatter, spread (seed), winnow': reflexes in 15 language(s).
+[[wiki/semitic-roots/ḏ/1816_to_scatter_spread_seed_winnow|1816_to_scatter_spread_seed_winnow]]: Proto-Semitic *ǯrr/w/y/ʾ, 'to scatter, spread (seed), winnow': reflexes in 17 language(s).
 
-[[wiki/semitic-roots/ḏ/1892_tail|1892_tail]]: Proto-Semitic *ḏa/inab-(at-) {} *ǯa/inab-(at-), 'tail': reflexes in 18 language(s).
+[[wiki/semitic-roots/ḏ/1892_tail|1892_tail]]: Proto-Semitic *ḏa/inab-(at-) {} *ǯa/inab-(at-), 'tail': reflexes in 19 language(s).
 
 [[wiki/semitic-roots/ḏ/1893_fore_arm|1893_fore_arm]]: Proto-Semitic *ḏVrāʕ- {} *ǯVrāʕ-, '(fore)arm': reflexes in 18 language(s).
 
@@ -43,11 +43,11 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ḏ/282_fly_n|282_fly_n]]: Proto-Semitic *ḏVbVb-, 'fly' (n.): reflexes in 19 language(s).
 
-[[wiki/semitic-roots/ḏ/2902_be_low|2902_be_low]]: Proto-Semitic *ḏVlVl-, 'be low': reflexes in 3 language(s).
+[[wiki/semitic-roots/ḏ/2902_be_low|2902_be_low]]: Proto-Semitic *ḏVlVl-, 'be low': reflexes in 4 language(s).
 
 [[wiki/semitic-roots/ḏ/2916_gold|2916_gold]]: Proto-Semitic *ḏahab-, 'gold': reflexes in 8 language(s).
 
-[[wiki/semitic-roots/ḏ/2932_shine_rise_of_sun|2932_shine_rise_of_sun]]: Proto-Semitic *ḏVrVḥ-, 'shine, rise (of sun)': reflexes in 2 language(s).
+[[wiki/semitic-roots/ḏ/2932_shine_rise_of_sun_1_native_full_citizen_2|2932_shine_rise_of_sun_1_native_full_citizen_2]]: Proto-Semitic *ḏVrVḥ-, 'shine, rise (of sun)' 1, 'native, full citizen' 2: reflexes in 3 language(s).
 
 [[wiki/semitic-roots/ḏ/2936_fear|2936_fear]]: Proto-Semitic *ḏVḥVl-, 'fear': reflexes in 6 language(s).
 
@@ -67,13 +67,25 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ḏ/3464_to_stand|3464_to_stand]]: Proto-Semitic *ḏwḏ, 'to stand': reflexes in 2 language(s).
 
-[[wiki/semitic-roots/ḏ/3465_to_protect_guard_strength|3465_to_protect_guard_strength]]: Proto-Semitic *ḏmr, 'to protect, guard; strength': reflexes in 5 language(s).
+[[wiki/semitic-roots/ḏ/3465_to_protect_guard_strength|3465_to_protect_guard_strength]]: Proto-Semitic *ḏmr, 'to protect, guard; strength': reflexes in 6 language(s).
 
 [[wiki/semitic-roots/ḏ/3540_to_smell_pungently_ill_smelling_plant|3540_to_smell_pungently_ill_smelling_plant]]: Proto-Semitic *ḏfr, 'to smell pungently; ill-smelling plant': reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/3570_to_flow_in_a_stream_flash_flood|3570_to_flow_in_a_stream_flash_flood]]: Proto-Semitic *ḏʕb, 'to flow in a stream; flash flood': reflexes in 2 language(s).
 
+[[wiki/semitic-roots/ḏ/4160_to_stink_be_loathsome|4160_to_stink_be_loathsome]]: Proto-Semitic *ḏyr, 'to stink, be loathsome': reflexes in 4 language(s).
+
 [[wiki/semitic-roots/ḏ/445_go_away|445_go_away]]: Proto-Semitic *ḏVhab-, 'go away': reflexes in 2 language(s).
+
+[[wiki/semitic-roots/ḏ/4673_drive_away_repel|4673_drive_away_repel]]: Proto-Semitic *ḏbḏb, 'drive away, repel': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḏ/4674_to_be_unmindful_careless_be_languid|4674_to_be_unmindful_careless_be_languid]]: Proto-Semitic *ḏhl, 'to be unmindful, careless; be languid': reflexes in 4 language(s).
+
+[[wiki/semitic-roots/ḏ/4675_peel_off|4675_peel_off]]: Proto-Semitic *ḏḥq, 'peel off': reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḏ/4676_put_in_store_hide_1_grave_tomb_2|4676_put_in_store_hide_1_grave_tomb_2]]: Proto-Semitic *ḏḫr, 'put in store, hide' 1, 'grave, tomb' 2: reflexes in 3 language(s).
+
+[[wiki/semitic-roots/ḏ/4677_to_hit_strike_1_hammer_club_2|4677_to_hit_strike_1_hammer_club_2]]: Proto-Semitic *ḏrb, 'to hit, strike' 1, 'hammer; club' 2: reflexes in 2 language(s).
 
 [[wiki/semitic-roots/ḏ/699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea|699_flow_1_pour_2_melt_3_dissolve_ooze_4_river_strea]]: Proto-Semitic *ḏVwVb-, 'flow' 1, 'pour' 2, 'melt' 3, 'dissolve, ooze' 4, 'river', 'stream, torrent' 5: reflexes in 12 language(s).
 
@@ -81,11 +93,11 @@ updated: 2026-10-28T20:08:42Z
 
 [[wiki/semitic-roots/ḏ/921_irritate|921_irritate]]: Proto-Semitic *ḏVrVʾ-, 'irritate': reflexes in 1 language(s).
 
-[[wiki/semitic-roots/ḏ/K0703_sing_1_song_2|K0703_sing_1_song_2]]: Proto-Semitic *ḏVmVr-, 'sing' 1, 'song' 2: reflexes in 8 language(s).
+[[wiki/semitic-roots/ḏ/K0703_sing_1_song_2|K0703_sing_1_song_2]]: Proto-Semitic *ḏVmVr-, 'sing' 1, 'song' 2: reflexes in 9 language(s).
 
-[[wiki/semitic-roots/ḏ/K0876_that_of_she_who_feminine_demonstrative_relative|K0876_that_of_she_who_feminine_demonstrative_relative]]: Proto-Semitic *ḏāt-, 'that of, she who' (feminine demonstrative/relative): reflexes in 3 language(s).
+[[wiki/semitic-roots/ḏ/K0876_that_of_she_who_feminine_demonstrative_relative|K0876_that_of_she_who_feminine_demonstrative_relative]]: Proto-Semitic *ḏāt-, 'that of, she who' (feminine demonstrative/relative): reflexes in 4 language(s).
 
-[[wiki/semitic-roots/ḏ/K0877_he_who_that_which_masculine_demonstrative_relati|K0877_he_who_that_which_masculine_demonstrative_relati]]: Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 16 language(s).
+[[wiki/semitic-roots/ḏ/K0877_he_who_that_which_masculine_demonstrative_relati|K0877_he_who_that_which_masculine_demonstrative_relati]]: Proto-Semitic *ḏī-, 'he who, that which' (masculine demonstrative/relative): reflexes in 22 language(s).
 
 [[wiki/semitic-roots/ḏ/K0879_SA_attestation_meaning_unknown|K0879_SA_attestation_meaning_unknown]]: Proto-Semitic *ḏVm-, '(SA attestation — meaning unknown)': reflexes in 1 language(s).
 

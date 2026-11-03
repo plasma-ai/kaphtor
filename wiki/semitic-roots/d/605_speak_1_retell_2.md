@@ -31,11 +31,11 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | dbr \[-u-\] 2 (Lane 844) | Lane 844 |  |
-| Akkadian | dabābu (CAD D 2) | CAD D 2 | gloss withheld |
-| Ugaritic | dbr (DULAT 261) | DULAT 261 | gloss withheld |
-| Phoenician | dbr 1 (Krahmalkov 145; T 69) | Krahmalkov 145; T 69 | gloss withheld |
-| Punic | duber 1 (Krahmalkov 145) | Krahmalkov 145 | gloss withheld |
+| Ugaritic | dbr (DULAT 261); /d-b-r/ D 1 (DULAT 261) | DULAT 261 | gloss withheld |
+| Phoenician | dbr 1 (Krahmalkov 145; T 69); dbr (T 69); dbry (T 70) | Krahmalkov 145; T 69; T 70 | gloss withheld |
+| Punic | duber 1 (Krahmalkov 145); dbry, dbrw; N.Pu. dbrʾ (T 70) | Krahmalkov 145; T 70 | gloss withheld |
 | Hebrew | dbr 1 (Kogan 2015, ch. 5 §3.1 no. 23) | Kogan 2015 ch. 5 §3.1 no. 23 |  |
+| Eblaitic | /d-b-r/ 1: INIM.DI = ti-da-bir₅-lum /tiddabbir=/ (Sanmartín GlOS 1, 140) | Sanmartín GlOS 1, 140 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

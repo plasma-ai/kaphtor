@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/p/1014_open_begin
 title: "*pVtaḥ-: 'open, begin'"
-desc: "Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 23 language(s)."
+desc: "Proto-Semitic *pVtaḥ-, 'open, begin': reflexes in 24 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1014"
@@ -39,8 +39,8 @@ updated: 2026-10-22T17:38:31Z
 | Phoenician | ptḥ (Krahmalkov 408) | Krahmalkov 408 | gloss withheld |
 | Hebrew | ptḥ |  |  |
 | Syrian Aramaic | ptḥ (Payne Smith 470) | Payne Smith 470 |  |
-| Aramaic | PTḤ (Aramaic Root Atlas; DNWSI 948 apud CAL) | Aramaic Root Atlas; DNWSI 948; CAL; Anderson–Moser 2024 root ptḥ | gloss withheld |
-| Punic | ptḥ 'open' | Anderson–Moser 2024 root ptḥ |  |
+| Aramaic | PTḤ (Aramaic Root Atlas; DNWSI 948) | Aramaic Root Atlas; DNWSI 948; Anderson–Moser 2024 root ptḥ | gloss withheld |
+| Punic | ptḥ; Neo-Punic ptḥ (Krahmalkov 409) | Krahmalkov 409; Anderson–Moser 2024 root ptḥ | gloss withheld |
 | Judaic Aramaic | maptᵉḥā (HALOT 619) | HALOT 619 |  |
 | Epigraphic South Arabian | Sab. ftḥn (HALOT 988); Sab ftḥ (Sabaweb lemma 3261) | HALOT 988; Sabaweb lemma 3261 | gloss withheld |
 | Tigre | fätḥa (LGz. 170) | LGz. 170 | gloss withheld |
@@ -53,6 +53,7 @@ updated: 2026-10-22T17:38:31Z
 | Jibbali | fétəḥ (JL 65 apud SEDonline 1326) | JL 65; SEDonline 1326 | gloss withheld |
 | Emar | pí-it-ḫa /pitḥu/ (Pentiuc 2001, 140–141) | Pentiuc 2001 140–141 | gloss withheld |
 | Eblaitic | i-ba-ti-ʔà-am₆, du-ba-da-i, ba-da-um /p-t-ḥ/; bí-\[ti-tum\] /pitiḥ/; bí(NE)-da-ʔà-tum /pitaḥt/ (Sanmartín GlOS 2, 140–141); ba-da-um /patāḥum/ (G inf.) (VE 1241′; Hajouz 2013, 535) | Sanmartín GlOS 2, 140–141; VE 1241′; Hajouz 2013, 535 | gloss withheld |
+| Biblical Aramaic | ptḥ (HALOT BArm. s.v. פתח) | HALOT BArm. s.v. פתח | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

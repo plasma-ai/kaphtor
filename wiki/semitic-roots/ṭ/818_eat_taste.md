@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṭ/818_eat_taste
 title: "*ṭVʕam-: 'eat, taste'"
-desc: "Proto-Semitic *ṭVʕam-, 'eat, taste': reflexes in 18 language(s)."
+desc: "Proto-Semitic *ṭVʕam-, 'eat, taste': reflexes in 19 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "818"
@@ -40,7 +40,7 @@ updated: 2026-10-22T17:38:31Z
 | Aramaic | Pal ṭʕm |  |  |
 | Epigraphic South Arabian | Sab ṭʿm (SD 152; Biella 220) | SD 152; Biella 220 | gloss withheld |
 | Tigre | ṭeʿema; ṭaʿam (HALOT 377) | HALOT 377 | gloss withheld |
-| Akkadian | ṭēmu (HALOT 377) (LGz. 583) | HALOT 377; LGz. 583 | gloss withheld |
+| Akkadian | ṭēmu (HALOT 377; AHw 1385) (LGz. 583) | HALOT 377; AHw 1385; LGz. 583 | gloss withheld |
 | Syrian Aramaic | ṭəʿam (LGz. 583) | LGz. 583 |  |
 | Tigrinya | ṭäʿamä (LGz. 583) | LGz. 583 |  |
 | Amharic | ṭamä (LGz. 583) | LGz. 583 |  |
@@ -48,6 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Gurage | ṭāmä (LGz. 583) | LGz. 583 |  |
 | Gafat | č̣amä (LGz. 583) | LGz. 583 |  |
 | Pre-Islamic North Arabian | Safaitic ṭʿm (Al-Jallad–Jaworska 137) | Al-Jallad–Jaworska 137 | gloss withheld |
+| Biblical Aramaic | ṭʕm pa. (HALOT BArm. s.v. טעם) | HALOT BArm. s.v. טעם | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

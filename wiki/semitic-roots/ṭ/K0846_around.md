@@ -29,7 +29,7 @@ updated: 2026-10-22T17:38:31Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṭâpu 'twist' | Anderson–Moser 2024 root ṭwp |  |
+| Akkadian | ṭâpu (AHw 1380) | AHw 1380; Anderson–Moser 2024 root ṭwp | gloss withheld |
 | Arabic | ṭāfa 'went' | Anderson–Moser 2024 root ṭwp |  |
 | Aramaic | ṬWP Dt (Aramaic Root Atlas; CAL s.v. ṭwp#2) | Aramaic Root Atlas; CAL s.v. ṭwp#2; Anderson–Moser 2024 root ṭwp | gloss withheld |
 

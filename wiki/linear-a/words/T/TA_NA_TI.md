@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/T/TA_NA_TI
 title: "TA-NA-TI"
-desc: "Tanāti: Tanit variant—TNT goddess at Haghia Triada (a-vowel pattern). Dual etymology: (A) √t-n-n feminine 'she-dragon', (B) t-ʿAnatu (Hvidberg-Hansen 1979). Context: HT49a alongside KU-PA₃-NU (Kubānu, a probable name or title) and TU-SU-PU₂ (Teshub).. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "divine_name"]
+desc: "Tanāti: the goddess TNT (Tinnit), feminine of √t-n-n 'sea-dragon'. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "ritual", "theonym"]
 kind: "word"
 form: "TA-NA-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -32,27 +32,28 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Tanāti |
-| Meaning | Tanit variant—TNT goddess at Haghia Triada (a-vowel pattern). Dual etymology: (A) √t-n-n feminine 'she-dragon', (B) t-ʿAnatu (Hvidberg-Hansen 1979). Context: HT49a alongside KU-PA₃-NU (Kubānu, a probable name or title) and TU-SU-PU₂ (Teshub). |
+| Meaning | the goddess TNT (Tinnit), feminine of √t-n-n 'sea-dragon' |
 | Root | t-n-n |
 | Proto-Semitic | \*tinnīt- (#2967) + \*tVnnVn- (#238) |
-| Language layer | NWS |
-| Category | divine_name |
+| Language layer | Semitic |
+| Tags | ritual, theonym |
 | Semantic field | divine |
 
 ### Note
 
-4× at HT (HT7a, HT10b, HT49a, HT98a). Support: (1) HT49a context with known Layer 3 names, (2) Hvidberg-Hansen 1979 scholarly framework, (3) Zakros variant TA-NA-TE reinforces the TNT goddess identification.
+Four Haghia Triada lists: HT 7a TA-NA-TI 1, among the men under QE-TI · VIR+\[?\]; HT 10b TA-NA-TI 9¼, the last entry; HT 49a \]TA-NA-TI 1, in a list with KU-PA₃-NU and TU-SU-PU₂; HT 98a TA-NA-TI ¾, among fractional issues with RO-KE and KA-RI-\*310-I. Tanāti, the goddess TNT with the a-vowels against Punic Tinnit: the feminine of √t-n-n, Heb. tannîn, Tannin 'sea-monster, sea-dragon', Ug. tnn (HALOT 1764). Rival: ʿAnat with the feminine prefix t-, \*t(a)-ʿanât &gt; \*teʿnât &gt; \*tennât (Hvidberg-Hansen 1979, 140, who takes the prefix as Libyco-Berber). TA-NA-TE is the Zakros form. See TA-NA-TE.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Punic | TNT (Tanit/Tinnit) |
-| Ugaritic | ʿAnatu (if Hvidberg-Hansen etymology) |
+| Hebrew | tannîn "sea-dragon" (HALOT 1764) |
+| Ugaritic | tnn "sea-dragon" (HALOT 1764) |
 
 ### Source
 
-di Mino
+di Mino; HALOT; Hvidberg-Hansen 1979
 
 ## Attestations
 
@@ -75,8 +76,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | theonym (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | theonym (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 4 in 4 documents |

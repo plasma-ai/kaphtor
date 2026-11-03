@@ -9,7 +9,7 @@ site: "Petras"
 support: "Clay vessel"
 period: "LMIB"
 translation: "none"
-words: []
+words: ["JA-WA-PI"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -46,6 +46,10 @@ Unicode (Linear A block):
 ```text
 𐘱𐘮𐘢𐄁𐘱𐝫
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/J/JA_WA_PI|JA-WA-PI]].
 
 ## Corpus note
 

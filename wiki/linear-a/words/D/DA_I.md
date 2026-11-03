@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_I
 title: "DA-I"
 desc: "dayu: good, sufficient—commodity quality designation on oil/fat allocation tablets. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "vocabulary"]
+tags: ["linear-a", "word", "tier-2", "adjective", "administrative"]
 kind: "word"
 form: "DA-I"
 datasets: ["lexicon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | good, sufficient—commodity quality designation on oil/fat allocation tablets |
 | Root | d-y |
 | Proto-Semitic | \*day- (#2495) |
-| Language layer | substrate |
-| Category | vocabulary |
-| Semantic field | vessel |
+| Language layer | Semitic |
+| Tags | adjective, administrative |
+| Semantic field | administrative |
 
 ### Note
 
-Cross-site: HT12 (50 units, oil/fat inventory) and KH13 (3 units, after \*304-CYP fat/cypress compound). Both contexts pair with \*304 (fat/tallow) and CYP (cypress) commodities. Large quantity range (3–50) suggests a bulk commodity or quality grade. Hebrew day 'enough, sufficiency', Aramaic day.
+HT 12 closes with DA-I 50 after OLE+DI 5, \*304 5, QA₂+\[?\]+PU 1, E 30, \*118 5, CYP+E 3 and NI 1; on KH 13 DA-I 3 follows \*304-CYP ⅓. dayu 'enough': Heb. day 'enough, sufficiency' (HALOT 219), Aramaic day. Rival: a total; the 50 after DA-I on HT 12 equals the sum of the entries without the fraction (Schoep 2002, 162; Pope 1960, 204).
 
 ### Cognates
 
@@ -52,7 +52,7 @@ Cross-site: HT12 (50 units, oil/fat inventory) and KH13 (3 units, after \*304-CY
 
 ### Source
 
-di Mino
+di Mino; HALOT; Schoep 2002; Pope 1960
 
 ## Attestations
 

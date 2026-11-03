@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2696_cumin
 title: "*kamm-ūn-: 'cumin'"
-desc: "Proto-Semitic *kamm-ūn-, 'cumin': reflexes in 8 language(s)."
+desc: "Proto-Semitic *kamm-ūn-, 'cumin': reflexes in 9 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2696"
@@ -37,6 +37,7 @@ updated: 2026-10-22T17:38:31Z
 | Punic | χαμαν (HALOT 481) | HALOT 481 |  |
 | Judaic Aramaic | kammōnā (HALOT 481) | HALOT 481 |  |
 | Syrian Aramaic | kamūnā, kāmūnā 'cummin' (Payne Smith 217) | Payne Smith 217 |  |
+| Mandaic Aramaic | kamuna (LGz. 285) | LGz. 285 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

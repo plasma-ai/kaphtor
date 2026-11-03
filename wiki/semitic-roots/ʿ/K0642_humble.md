@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/K0642_humble
 title: "*ʿVnVw-: 'humble'"
-desc: "Proto-Semitic *ʿVnVw-, 'humble': reflexes in 9 language(s)."
+desc: "Proto-Semitic *ʿVnVw-, 'humble': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0642"
@@ -30,14 +30,16 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | ʕanā 'distressed' (Lane 2178) | Lane 2178; Anderson–Moser 2024 root ʿnw |  |
-| Aramaic | ʿNY (DNWSI 876 apud CAL) | DNWSI 876; CAL; Anderson–Moser 2024 root ʿnw | gloss withheld |
+| Aramaic | ʿNY (DNWSI 876) | DNWSI 876 | gloss withheld |
 | Ugaritic | ʿnw (CUC; DULAT 168) | CUC; DULAT 168; Anderson–Moser 2024 root ʿnw | gloss withheld |
 | Epigraphic South Arabian | Sab ʿnw (SD 17; Biella 373; Sabaweb lemma 3786) | SD 17; Biella 373; Sabaweb lemma 3786 | gloss withheld |
 | Hebrew | ʿnh II; ʿānāw, ʿānî (HALOT 852, 855, 856) | HALOT 852, 855, 856 | gloss withheld |
-| Phoenician | \*ʿnh (HALOT 852) | HALOT 852 |  |
+| Phoenician | \*ʿnh (HALOT 852); ʿn (T 252) | HALOT 852; T 252 | gloss withheld |
 | Judaic Aramaic | ʿanyā (HALOT 856) | HALOT 856 | gloss withheld |
 | Syrian Aramaic | ʿanwāyā (Kogan 2015, ch. 3 §5.2 no. 8) | Kogan 2015 ch. 3 §5.2 no. 8 | gloss withheld |
 | Amorite | ʿ-n-w: a-ni-te-el, ia-aḫ-ni-DINGIR (Sanmartín GlOS 1, 84) | Sanmartín GlOS 1, 84 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʿny, ʿnw; ʿny (D); Thamudic ʿny; Hismaic tʿny (Al-Jallad 2026, 16) | Al-Jallad 2026 16 | gloss withheld |
+| Biblical Aramaic | \*ʿănē (HALOT BArm. s.v. עֲנֵה) | HALOT BArm. s.v. עֲנֵה | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

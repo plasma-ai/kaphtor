@@ -1,8 +1,8 @@
 ---
 name: wiki/linear-a/words/J/JU_plus_star317_plus_QE
 title: "JU+*317+QE"
-desc: "personnel-category composite A542; exact class unknown. Lexicon, CONFIRMED (tier 4)."
-tags: ["linear-a", "word", "tier-4", "composite logogram"]
+desc: "a counted class of men, the composite A542. Lexicon, CONFIRMED (tier 4)."
+tags: ["linear-a", "word", "tier-4", "hapax", "ligature", "logogram", "personnel"]
 kind: "word"
 form: "JU+*317+QE"
 datasets: ["lexicon"]
@@ -31,18 +31,18 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Meaning | personnel-category composite A542; exact class unknown |
-| Language layer | unresolved |
-| Category | composite logogram |
+| Meaning | a counted class of men, the composite A542 |
+| Language layer | logogram |
+| Tags | hapax, ligature, logogram, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-GORILA decomposes the unit as JU+\*317+QE; SigLA catalogs it as the single composite sign A542. On HT89 it labels 22 persons within the exact total 23+22+24+13+5=87. Its components are not independently shown to be phonetic here. It is not read LUQḤU 'receipts/offerings'.
+HT 89 JU+\*317+QE 22, after \*305 23 and before MA-I-MI 24: 22 persons in the total 23+22+24+13+5, KU-RO 87. GORILA decomposes the unit as JU+\*317+QE, SigLA catalogs it as the single composite sign A542. One attestation.
 
 ### Source
 
-SigLA/lineara.eu HT 89; Uchitel 2006, Kadmos 45: 73, 76
+di Mino; SigLA; Uchitel 2006
 
 ### Review
 

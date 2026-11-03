@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/S73_when_then
 title: "*ʾid/*ʾidā: 'when; then'"
-desc: "Proto-Semitic *ʾid/*ʾidā, 'when; then': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ʾid/*ʾidā, 'when; then': reflexes in 12 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "S73"
@@ -37,6 +37,10 @@ updated: 2026-10-22T17:38:31Z
 | Biblical Aramaic | ʾä̆dayin (Kogan 2015, ch. 2 §5.2.2.1 no. 1) | Kogan 2015 ch. 2 §5.2.2.1 no. 1 | gloss withheld |
 | Geez | ʾənza; māʾəze; yəʾəze (Kogan 2015, ch. 2 §5.2.2.1 no. 1) | Kogan 2015 ch. 2 §5.2.2.1 no. 1 | gloss withheld |
 | Tigre | ʾaze (Kogan 2015, ch. 2 §5.2.2.1 no. 1) | Kogan 2015 ch. 2 §5.2.2.1 no. 1 | gloss withheld |
+| Tigrinya | ḥəzi, ḥəǧi (LGz. 625) | LGz. 625 | gloss withheld |
+| Harari | ḥōǧi (LGz. 625) | LGz. 625 |  |
+| Gurage | awǧe, awǧi (LGz. 625) | LGz. 625 |  |
+| Pre-Islamic North Arabian | Safaitic ʾḏ (Al-Jallad–Jaworska 39) | Al-Jallad–Jaworska 39 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

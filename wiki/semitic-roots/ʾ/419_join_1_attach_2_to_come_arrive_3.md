@@ -37,7 +37,7 @@ updated: 2026-10-27T22:12:55Z
 | Epigraphic South Arabian | Sab wṣl (Biella 140, 141); hwṣl 3 (SD 164; Sabaweb lemma 1671) | Biella 140, 141; SD 164; Sabaweb lemma 1671 | gloss withheld |
 | Punic | ʿṣʾl (T 28) | T 28 | gloss withheld |
 | Soqotri | ṣeḷ (LS 496; SLOnline 3149) | LS 496; SLOnline 3149 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic wṣl 3 (Al-Jallad–Jaworska 141) | Al-Jallad–Jaworska 141 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic wṣl 3 (Al-Jallad–Jaworska 141); ʾṣl 3 (Al-Jallad 2026, 169) | Al-Jallad–Jaworska 141; Al-Jallad 2026 169 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

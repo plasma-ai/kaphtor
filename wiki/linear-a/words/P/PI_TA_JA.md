@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P/PI_TA_JA
 title: "PI-TA-JA"
 desc: "Pitaya: personal name, hypocoristic in -ya. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "PI-TA-JA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, hypocoristic in -ya |
 | Root | p-t-ḥ |
 | Proto-Semitic | \*pVtaḥ- (#1014) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-HT 6a .2–3 PI-TA-JA 24, intact, in a fig list after DA-TA-RA · TE · NI 15 (GORILA I 13). √p-t-ḥ 'open' with ḥ unwritten: Amorite PATIḤ-UM, PA-TE-ḪU-UM, and PATIḤ-AH, PA-TI-ḪA (Gelb 1980, nos. 5160–5161), Hebrew Pəṯaḥyāh. Rival: the Egyptian personal name ptjj (PNM). One document.
+HT 6a .2–3 PI-TA-JA 24, intact, in a fig list after DA-TA-RA · TE · NI 15 (GORILA I 13). √p-t-ḥ 'open' with ḥ unwritten: Amorite PATIḤ-UM, PA-TE-ḪU-UM, and PATIḤ-AH, PA-TI-ḪA (Gelb 1980, nos. 5160–5161), Hebrew Pəṯaḥyāh. Rival: the Egyptian personal name pt.jj (Ilin-Tomich 2025, s.v.). One document.
 
 ### Cognates
 
@@ -52,7 +52,7 @@ HT 6a .2–3 PI-TA-JA 24, intact, in a fig list after DA-TA-RA · TE · NI 15 (G
 
 ### Source
 
-di Mino
+di Mino; Gelb 1980; Ilin-Tomich 2025
 
 ## Attestations
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/U/U_NA_RU_KA_NA_TI
 title: "U-NA-RU-KA-NA-TI"
 desc: "wannā lū kanasti / winnā lū kanasti: so, behold, may you gather!. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "uncategorised"]
+tags: ["linear-a", "word", "tier-2", "compound", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "U-NA-RU-KA-NA-TI"
 datasets: ["lexicon"]
@@ -35,12 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | so, behold, may you gather! |
 | Root | k-n-s |
 | Proto-Semitic | \*kanVs- (#2763) |
-| Language layer | NWS |
+| Language layer | Semitic |
+| Tags | compound, hapax, libation_formula, ritual, verb |
 | Semantic field | ritual |
 
 ### Note
 
-Segmentation: U-NA /wannā/ or /winnā/ 'so, behold' + RU /lū/ 'may' + KA-NA-TI /kanasti/, 2fs suffix form of √k-n-s 'gather': 'so, behold, may you gather!' (di Mino, Ya Diktu). The coda /s/ is unwritten, per the Linear B rule that drops syllable-final s before a stop (Ventris & Chadwick 1956, 45; pa-ka-na /phasgana/). Hebrew has the same opening sequence: הֵן לוּ יְהִי hēn lū yəhî 'behold, may it be' (Gen 30:34). Distinct from KA-NA-SI /kanāsī/ 'my gathering.' Rivals: a K-N-S-T feminine collective \*/kanast/\*, 'may there be a gathering,' with lū introducing a verbless injunction as in Akkadian (Huehnergard 1997 §§22.2, 29.3; compare later Hebrew kəneset 'assembly'); and /qānastī/ 'I gathered,' exactly paralleled by Biblical Hebrewכָּנַסְתִּי (Eccl 2:8), a 1cs verb. Rival √k-n-š: see U-NA-KA-NA-SI.
+PK Za 11, after A-SA-SA-RA-ME and before I-PI-NA-MI-NA: U-NA /wannā/ or /winnā/ 'so, behold' + RU /lū/ 'may' + KA-NA-TI /kanasti/, 2fs suffix form of √k-n-s 'gather': 'so, behold, may you gather!' (di Mino, Ya Diktu). The coda /s/ is unwritten, per the Linear B rule that drops syllable-final s before a stop (Ventris and Chadwick 1956, 45; pa-ka-na /phasgana/). Hebrew has the same opening sequence: הֵן לוּ יְהִי hēn lū yəhî 'behold, may it be' (Gen 30:34). Cf. KA-NA-SI /kanāsī/ 'my gathering'. Rivals: a K-N-S-T feminine collective /kanast/, 'may there be a gathering', with lū introducing a verbless injunction as in Akkadian (Huehnergard 1997, §§22.2, 29.3; cf. later Hebrew kəneset 'assembly'); /kānastī/ 'I gathered', paralleled by Biblical Hebrew כָּנַסְתִּי (Eccl 2:8), a 1cs verb; √k-n-š, see U-NA-KA-NA-SI. One attestation.
 
 ### Cognates
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/3712_to_tie_up_fetter_to_close_up
 title: "*rtḳ: 'to tie up, fetter; to close up'"
-desc: "Proto-Semitic *rtḳ, 'to tie up, fetter; to close up': reflexes in 2 language(s)."
+desc: "Proto-Semitic *rtḳ, 'to tie up, fetter; to close up': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3712"
@@ -31,6 +31,7 @@ updated: 2026-10-28T02:25:00Z
 |---|---|---|---|
 | Hebrew | rtq pu. ruttǝqû (Nah 3:10) (HALOT 1300) | HALOT 1300 | gloss withheld |
 | Arabic | rataqa 'he closed up, and repaired, a rent; he sewed up, or together'; irtataqa 'it was closed up' (Lane 1027) | Lane 1027 |  |
+| Ugaritic | /r-t-q/ G (DULAT 737) | DULAT 737 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

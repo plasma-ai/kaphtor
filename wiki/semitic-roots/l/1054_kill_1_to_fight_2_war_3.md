@@ -33,7 +33,7 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | lḥm \[-u-\] 1 BK 2 977, malḥamat- 3, laḥmat- 'fierce hand-to-hand combat' BK 2 978 | BK 2 977; BK 2 978 |  |
 | Canaanite | Moab lḥm |  | gloss withheld |
 | Mandaic Aramaic | šlhm DM 467 | DM 467 | gloss withheld |
-| Phoenician | lḥm (Krahmalkov 254) | Krahmalkov 254 | gloss withheld |
+| Phoenician | lḥm (Krahmalkov 254); mlḥmt 3 (Krahmalkov 284) | Krahmalkov 254; Krahmalkov 284 | gloss withheld |
 | Hebrew | lḥm 2, milḥāmā 3 (HALOT 526, 589) | HALOT 526, 589 |  |
 | Ugaritic | lḥm (DULAT 492); mlḥmt (DULAT 542) | DULAT 492; DULAT 542 | gloss withheld |
 | Aramaic | lḥm, lḥmh (Kogan 2015, ch. 6 §9.1 no. 7) | Kogan 2015 ch. 6 §9.1 no. 7 | gloss withheld |

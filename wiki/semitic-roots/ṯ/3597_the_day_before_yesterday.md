@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | šalšūmi, šalušmu (CAD Š/1 268) | CAD Š/1 268 | gloss withheld |
+| Akkadian | šalšūmi, šalušmu (CAD Š/1 268; AHw 1150) | CAD Š/1 268; AHw 1150 | gloss withheld |
 | Canaanite | šalšāmi (EA; CAD Š/1 262) | CAD Š/1 262 | gloss withheld |
 | Hebrew | šilšôm (HALOT 1545) | HALOT 1545 | gloss withheld |
 

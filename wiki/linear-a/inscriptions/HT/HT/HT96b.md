@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "complete"
-words: ["*516", "A-PA-RA-NE", "OLE+U", "QA-*118-RA-RE"]
+words: ["*516", "A-PA-RA-NE", "NI", "OLE+U", "QA-*118-RA-RE"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -64,7 +64,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne / bārāʾāne | heading name, also on HT96a; Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | heading name, also on HT96a; Amorite comparison Ḥa-pí-ra-an, \*ʿapir-\* (Huffmon, APNM p. 36) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_star118_RA_RE\|QA-\*118-RA-RE]] | qaṭara(re) | incense, incense-offering (√q-ṭ-r) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/star/star516\|\*516]] | šipru | transaction or account sign; written over an erasure (GORILA I 157) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/G/GRA\|GRA]] | grain | grain/cereal (commodity ideogram) | PROBABLE | PROBABLE (lexicon) |
@@ -81,7 +81,7 @@ Heading A-PA-RA-NE · QA-\*118-RA-RE · \*516 over grain 40¾, U-oil 4 and figs 
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/star/star516|\*516]], [[wiki/linear-a/words/A/A_PA_RA_NE|A-PA-RA-NE]], [[wiki/linear-a/words/O/OLE_plus_U|OLE+U]], [[wiki/linear-a/words/Q/QA_star118_RA_RE|QA-\*118-RA-RE]].
+[[wiki/linear-a/words/star/star516|\*516]], [[wiki/linear-a/words/A/A_PA_RA_NE|A-PA-RA-NE]], [[wiki/linear-a/words/N/NI|NI]], [[wiki/linear-a/words/O/OLE_plus_U|OLE+U]], [[wiki/linear-a/words/Q/QA_star118_RA_RE|QA-\*118-RA-RE]].
 
 ## Edition differences
 

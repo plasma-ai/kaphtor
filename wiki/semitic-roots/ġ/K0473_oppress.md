@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ġ/K0473_oppress
 title: "*ġVmVṣ-: 'oppress'"
-desc: "Proto-Semitic *ġVmVṣ-, 'oppress': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ġVmVṣ-, 'oppress': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0473"
@@ -31,11 +31,12 @@ updated: 2026-10-22T17:38:31Z
 |---|---|---|---|
 | Arabic | ġamaṣa 'despise' (Lane 2295) | Lane 2295 |  |
 | Geez | ʿammaḍa (LGz. 63) | LGz. 63; Anderson–Moser 2024 root ġmṣ | gloss withheld |
+| Hebrew | ḥmṣ (HALOT 329) | HALOT 329 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
 ## Notes
 
-Geʿez ḍ against Arb. ṣ.
+Geʿez ḍ against Arb. ṣ.; Heb. ḥ against Arb. ġ and Geʿez ʿ; HALOT 329 sets II חמץ 'to oppress' beside Arb. ġamaṣa and Eth. ʿamaḍa.
 
 <!-- END kaphtor:record -->

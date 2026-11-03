@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/G/GRA_plus_KU
 title: "GRA+KU"
 desc: "kunāšu 'emmer wheat' (logographic abbreviation). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "commodity ideogram"]
+tags: ["linear-a", "word", "tier-2", "abbreviation", "commodity", "foodstuff", "grain", "ligature", "logogram"]
 kind: "word"
 form: "GRA+KU"
 datasets: ["lexicon"]
@@ -34,13 +34,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | kunāšu 'emmer wheat' (logographic abbreviation) |
 | Root | loan (Akk. kunāšu) |
 | Proto-Semitic | \*kunaṯ- (#1604) |
-| Language layer | Akkadian loanword |
-| Category | commodity ideogram |
+| Language layer | Semitic |
+| Tags | abbreviation, commodity, foodstuff, grain, ligature, logogram |
 | Semantic field | commodity |
 
 ### Note
 
-GRA ideogram + KU adjunct (7 att.): KU, the onset of kunāšu 'emmer', a word the corpus never writes in full. The Ugarit polyglot writes the word ku-na-šu beside native ku-sú-mu, so a West Semitic scribe knew it. On HT128a it co-occurs with GRA+PA as a distinct grain subtype. KU-NI-SU, at the same site, is read 'assembly', with kunāšu as its rival (see its entry).
+GRA with the KU adjunct, 7 tokens on three Haghia Triada tablets: HT 61 MI-TI · GRA+KU 6, HT 128a WA-TU-MA-RE GRA+KU 12 and twice more, beside GRA+PA as a distinct grain subtype, and HT 128b. KU, the onset of kunāšu 'emmer' (CAD K 536), written in full as KU-NI-SU, Nuzi ku-ni-šu. The Ugarit polyglot gives Akkadian ku-na\]-šu beside Hurrian ut-te and Ugaritic ku-sú-mu (GlOS 1, 323). See KU-NI-SU.
 
 ### Cognates
 
@@ -50,7 +50,7 @@ GRA ideogram + KU adjunct (7 att.): KU, the onset of kunāšu 'emmer', a word th
 
 ### Source
 
-di Mino; GlOS 1
+di Mino; GlOS 1; CAD K
 
 ## Attestations
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-10-31T14:13:39Z
+updated: 2026-11-06T23:14:47Z
 ---
 
 # wiki/linear-a/words/R
@@ -31,7 +31,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/R/RA_q_DE_ME_TE|RA_q_DE_ME_TE]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: Onomasticon personal name, no reading.
+[[wiki/linear-a/words/R/RA_star164_TI|RA_star164_TI]]: Unread (role only): personal name; 2 occurrence(s).
 
 [[wiki/linear-a/words/R/RA_star314_RA|RA_star314_RA]]: Raḥil: personal name, 'Ewe' (√r-ḥ-l), as Hebrew Rāḥēl; rival Egyptian Ḥr-Rꜥ 'Horus-Ra'. Lexicon, SPECULATIVE (tier 1).
 
@@ -43,7 +43,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/R/RE_JA|RE_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RE_RO|RE_RO]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/R/RE_RO|RE_RO]]: lalʾu: suckling (lamb or kid). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE_SA|RE_SA]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -53,11 +53,13 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/R/RE_TI|RE_TI]]: Unread (role only): personal name; 2 occurrence(s).
 
+[[wiki/linear-a/words/R/RE_TU_broken_start|RE_TU_broken_start]]: Unread (unread): no role; 1 occurrence(s).
+
 [[wiki/linear-a/words/R/RE_ZA|RE_ZA]]: (ʾa)raz: cedar (wood, resin or oil; commodity); rival Luwian aruza, a measure. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RE_star86|RE_star86]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RI_DA_U|RI_DA_U]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/R/RI_DA_U|RI_DA_U]]: Ridāyu: Ridāyu 'Helper, Escort' (personal name, hypocoristic). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RI_JA_broken_start|RI_JA_broken_start]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -71,15 +73,13 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/R/RI_SU_MA|RI_SU_MA]]: rīšum(a): head, chief quality; first quality. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/R/RI_TA_JE|RI_TA_JE]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/R/RI_TA_JE|RI_TA_JE]]: Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RI_TA_MA|RI_TA_MA]]: Ritmā: personal name, 'broom (bush)'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RI_star305|RI_star305]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RO|RO]]: rōš: principal, primary, capital (quality/grade marker on sealed goods and commodity allocations). Lexicon, PROBABLE (tier 3).
-
-[[wiki/linear-a/words/R/RO_A559|RO_A559]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/R/RO_E|RO_E]]: rōʿē: herdsman, shepherd (title on a label). Lexicon, SPECULATIVE (tier 1).
 
@@ -91,9 +91,11 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/R/RO_SI_RA|RO_SI_RA]]: Unread (unread): no role; 1 occurrence(s).
 
+[[wiki/linear-a/words/R/RO_star559|RO_star559]]: Unread (unread): no role; 1 occurrence(s).
+
 [[wiki/linear-a/words/R/RP_33_Y|RP_33_Y]]: my Healer (deity invocation—divine title of Rapʾu). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/R/RU_DI|RU_DI]]: rūdī: Rule! / may you rule (jussive/imperative). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_DI|RU_DI]]: rūdī: Roam! (f. imperative). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_JA|RU_JA]]: Ruya: personal name; Ugaritic rwy. Onomasticon personal name; lexicon entry RU-JA-TA-DI.
 
@@ -113,7 +115,7 @@ updated: 2026-10-31T14:13:39Z
 
 [[wiki/linear-a/words/R/RU_NI|RU_NI]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/R/RU_PI_star305_MI|RU_PI_star305_MI]]: Ripī-Ḏāmir: personal name, 'the Protector heals' (√r-p-ʾ + √ḏ-m-r). Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/R/RU_PI|RU_PI]]: rōpiʾ: healer (active participle of √r-p-ʾ), a counted entry. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_RA2|RU_RA2]]: Unread (unread): no role; 1 occurrence(s).
 

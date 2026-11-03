@@ -9,7 +9,7 @@ site: "Tylissos"
 support: "Tablet"
 period: ""
 translation: "none"
-words: ["OLE+KI", "OLE+MI", "OLE+TU", "OLE+U"]
+words: ["OLE+KI", "OLE+MI", "OLE+TU", "OLE+U", "OLIV"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -90,7 +90,7 @@ Unicode (Linear A block):
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/O/OLE_plus_KI|OLE+KI]], [[wiki/linear-a/words/O/OLE_plus_MI|OLE+MI]], [[wiki/linear-a/words/O/OLE_plus_TU|OLE+TU]], [[wiki/linear-a/words/O/OLE_plus_U|OLE+U]].
+[[wiki/linear-a/words/O/OLE_plus_KI|OLE+KI]], [[wiki/linear-a/words/O/OLE_plus_MI|OLE+MI]], [[wiki/linear-a/words/O/OLE_plus_TU|OLE+TU]], [[wiki/linear-a/words/O/OLE_plus_U|OLE+U]], [[wiki/linear-a/words/O/OLIV|OLIV]].
 
 ## Corpus note
 

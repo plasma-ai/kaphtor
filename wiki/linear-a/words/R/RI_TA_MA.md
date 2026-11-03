@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R/RI_TA_MA
 title: "RI-TA-MA"
 desc: "Ritmā: personal name, 'broom (bush)'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "RI-TA-MA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,8 +35,8 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name, 'broom (bush)' |
 | Root | r-t-m |
 | Proto-Semitic | \*rtm (#3626) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
@@ -84,6 +84,6 @@ HT 115a .1–2 RỊ-TẠ-MẠ · NU-WI 2, all three signs underdotted (GORILA I 
 
 ### Co-occurring lexicon words
 
-Readings from the lexicon as it stands: [[wiki/linear-a/words/N/NU_WI|NU-WI]] nōwē / nwē.
+Readings from the lexicon as it stands: [[wiki/linear-a/words/N/NU_WI|NU-WI]] nōwē.
 
 <!-- END kaphtor:record -->

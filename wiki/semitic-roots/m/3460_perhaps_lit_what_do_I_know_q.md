@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | minde (CAD M₂ 83, AHw. 655 apud SEDonline 2123) | CAD M₂ 83, AHw. 655; SEDonline 2123 | gloss withheld |
-| Ugaritic | mndˁ (DUL 561, Watson 2007: 94 apud SEDonline 2123) | DUL 561, Watson 2007: 94; SEDonline 2123 | gloss withheld |
+| Ugaritic | mndˁ (DULAT 554–555; Watson 2007: 94 apud SEDonline 2123) | DULAT 554–555; Watson 2007: 94; SEDonline 2123 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

@@ -12,7 +12,7 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 | `aegean_unicode_lookup.py` | Linear A and Linear B signs by value, token, codepoint or glyph; Linear A signs with no codepoint | `sign-registry.json`, `sigla-sign-map.json`, `linear-b-sign-map.json`; `linear_b_unicode_token_overlay.json` when present (not shipped yet) |
 | `comparative_corpus.py` | The comparative Aegean and Near Eastern corpora: list, stats, search | `comparative_corpora/manifest.json` (not shipped yet) |
 | `cretan_hieroglyphic_lookup.py` | Cretan Hieroglyphic signs, their Linear A correspondences and comparanda | `cretan-hieroglyphic/` (not shipped yet) |
-| `egyptian_lookup.py` | The Egyptian contact lexicon by transliteration, root, hieroglyph or Gardiner number | `data/contact/egyptian_lexicon.jsonl`, `egyptian_roots.json` (not shipped yet) |
+| `egyptian_lookup.py` | The Egyptian contact lexicon by transliteration, root, hieroglyph or Gardiner number | `egyptian_roots.json`; `data/contact/egyptian_lexicon.jsonl` (not shipped yet) |
 | `eteocretan_lookup.py` | The Eteocretan inscriptions and words, with the forged Psychro stone kept apart, and the Linear A lexicon entries that share a word's root | `eteocretan_inscriptions.json`, `eteocretan_word_analysis.json`, `lexicon.json` |
 | `inscription_dating_lookup.py` | Inscription dates: by period, certainty, status or basis, or the inscriptions that write a given form | `inscription_dating_metadata.json` (not shipped yet), `corpus.json` |
 | `linear_b_query.py` | The LiBER Linear B corpus: documents, ideograms, tokens, domains | `LINEAR_B_CORPUS_DIR`, else `linear_b_corpus/` (not shipped) |
@@ -27,12 +27,14 @@ it looked for and exits 2. Outputs, caches and saved runs go to `--out` or the u
 | Script | Purpose | Reads |
 |---|---|---|
 | `analyze.py` | One inscription or a batch through skeleton, lexicon and cognate analysis; `--mode unknowns` lists frequent words with no lexicon entry | as `cognate_search.py` |
-| `cognate_search.py` | Semitic and contact-language cognates for a word, a skeleton or a root (`--reverse`, which gives each corpus word's lexicon reading) | `corpus.json`, `lexicon.json`, `semitic_roots.json`, `data/contact/`; when present, `compound_morphemes.json`, `luwian_roots.json`, `egyptian_roots.json`, `verb_templates.json` and `data/ane/arabian_onomasticon.jsonl` (not shipped yet), else a lashon-ha-kretan checkout's corpus and roots (`LASHON_HA_KRETAN_DIR`) |
+| `cognate_search.py` | Semitic and contact-language cognates for a word, a skeleton or a root (`--reverse`, which gives each corpus word's lexicon reading) | `corpus.json`, `lexicon.json`, `semitic_roots.json`, `data/contact/`, `luwian_roots.json`, `egyptian_roots.json`; when present, `compound_morphemes.json`, `verb_templates.json` and `data/ane/arabian_onomasticon.jsonl` (not shipped yet), else a lashon-ha-kretan checkout's corpus and roots (`LASHON_HA_KRETAN_DIR`) |
 | `context_search.py` | Where a word, syllabic pattern or root occurs, with co-occurrence | as `cognate_search.py` |
 | `hypothesis_test.py` | Cross-validated decode candidates tested against site, slot and neighbour evidence, with an optional null model | saved runs, `lexicon.json`, `corpus.json`, `linear-a-phrase-grammar/` |
 | `logogram_analyzer.py` | Fifteen-section analysis of one logogram, or an audit of all | `sign_values.json`, `sign-registry.json`, `corpus.json`, `lexicon.json`; `site_language_profiles.json` when present (not shipped yet) |
 | `build_root_index.py` | Builds, checks or diffs Shoresh's root index in the user cache (`CACHE/root_index.sqlite`). Five of the eleven contact lexica it reads ship, so build with `--allow-missing` | `semitic_roots.json`, `data/contact/` |
-| `root_match.py` | Shoresh: is a sign group closer to a Semitic root than its own decoys (pre-registered in `docs/shoresh-preregistration.md`). Refuses gold-set words outside the gold run | the root index, the gold set `tests/fixtures/root_match_gold.v3.json`, `corpus.json`; the competitor lexica `luwian_roots.json`, `egyptian_roots.json` and `hurrian_roots.json` (without one, it stops with exit 2 and names the file; `--no-competitors` skips them) |
+| `build_sigla_db.py` | Decodes SigLA's own database file into `sigla_db.json`, matching each document to its corpus.json record; `--dry-run` reports and writes nothing, and the old file is backed up to `tools.paths.BACKUPS` first | `sigla/database.js`, `sigla/corpus_key_overrides.json`, `corpus.json` |
+| `build_sign_positions.py` | Builds the sign-position model in the user cache (`CACHE/linear-a/sign_positions.jsonl`, or `--out`): one row per sign, keyed record/token/sign, with its registry codes, damage, glyph and SigLA's reading of the same place with its match class; `--report` writes the corpus-against-SigLA disagreement report to a new file; `--dry-run` writes no data, and the old files are backed up to `tools.paths.BACKUPS` first | `corpus.json`, `sigla_db.json`, `sign-registry.json`, `sign_crosswalk_overrides.json` |
+| `root_match.py` | Shoresh: is a sign group closer to a Semitic root than its own decoys (pre-registered in `docs/shoresh-preregistration.md`). Refuses gold-set words outside the gold run | the root index, the gold set `tests/fixtures/root_match_gold.v3.json`, `corpus.json`; the competitor lexica `luwian_roots.json`, `egyptian_roots.json`, `hurrian_roots.json` and `hattic_roots.json` (without one, it stops with exit 2 and names the file; `--no-competitors` skips them) |
 | `sign_proposer.py` | Ranked candidate CV values for an undeciphered sign | `sign-registry.json`, `sign_values.json`, `corpus.json`, `missing_sound_map.json` (`--polyvalent`); `sign-evolution-map.json`, `rejected_sign_values.json` (not shipped yet) |
 | `ventris_decode.py` | The Ventris Engine: statistics, grid, propagation, paradigms, ideograms, toponyms | `sign_values.json`, `corpus.json`, `lexicon.json`, `semitic_roots.json`, `morphemes.json` |
 | `ventris_propagate.py` | Constraint propagation of sign values across the corpus | as `ventris_decode.py` |
@@ -55,10 +57,15 @@ install a run; the file it replaces is backed up first). By default outputs go t
 `guttural_audit.py`, `guttural_compression_analysis.py`), `hapax_analysis.py`, `blind_corpus_test.py`,
 `meaning_shuffle.py` (the meaning-shuffle test, refused without its signed pre-registration, `--prereg`),
 `meaning_shuffle_power.py` (that test's calibration and power on fabricated and planted words; writes `--out`),
+`d7_structural_controls.py` and `d7_s3_linear_a.py` (D7's controls and its S3 on Linear A; each writes `--out`),
 `paradigm_b.py` (verifies the frozen paradigm B test against its hashes and reproduces its numbers),
 `protocol_c.py` (verifies Protocol C's C0 and C1 record against its hashes and reruns its C1 checks), and
 `check_unread_words.py`, which reports drift between `unread_words.json` and the corpus and writes nothing.
 `--save` runs go through `tools/core/run_saver.py`, so `ventris_runs.py` lists them.
+
+`review/` holds the human-review pages, built from a JSON spec into the user cache (`CACHE/review/`):
+`break_check.py` (each attestation's edges against SigLA's drawing and word division) and `word_in_context.py`
+(a word in every inscription that carries it), on the shared `review_core.py`; examples in `docs/human-review/`.
 
 ## What the tests show
 
@@ -86,7 +93,7 @@ no language, and the ranking tools (`cognate_search.py`, `sign_proposer.py`, the
 - `protocol_c.py`: verifies Protocol C's record (`docs/protocol-c-preregistration.md`) and reruns its C1 checks. The
   protocol is signed and its six blind inventories are built, but nothing has been rendered or scored, so it gives no
   result for any language.
-- Not evidence for now: `hypothesis_test.py` (a per-candidate p < 0.05 gate with no correction, and a neighbour axis
+- Rankings, not tests: `hypothesis_test.py` (a per-candidate p < 0.05 gate with no correction, and a neighbour axis
   that counts the project's own CONFIRMED and PROBABLE readings) and `analysis/wy_isogloss_sweep.py` (run in the
   saturated band, uncorrected across its cells).
 

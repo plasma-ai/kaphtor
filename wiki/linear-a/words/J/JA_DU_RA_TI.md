@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_DU_RA_TI
 title: "JA-DU-RA-TI"
 desc: "Yadurati: personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "personal_name"]
+tags: ["linear-a", "word", "tier-2", "hapax", "personal_name"]
 kind: "word"
 form: "JA-DU-RA-TI"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | personal name: Amorite-type yaqtul name + feminine -at (cf. Yadwiratum, Gelb 1980, no. 3209; Ya-du-ra-an, Ya-du-ri-im, Huffmon 1965, 38) |
 | Root | d-w-r |
 | Proto-Semitic | \*dVwVr- ~ \*dVrdVr- (#995) |
-| Language layer | NWS |
-| Category | personal_name |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Verso of KN1 tablet. Format: WORD + E + QTY (105); the recto JA-KU-TI · E · 240 has the same layout, so both are names. Not 'I purified': a ya- prefix cannot carry a perfect person suffix (Fischer 2002, §§207, 211). ya- patterns 'figure almost exclusively in animal, plant, and personal names' (Fischer 2002, §66d). JA-DU-RA-TI = Yadurat-i matches feminine Amorite Yadwiratum except for the case ending.
+KN 1b JA-DU-RA-TI E 105, laid out as the recto's JA-KU-TI E 240, so both are names. ya- patterns 'figure almost exclusively in animal, plant, and personal names' (Fischer 2002, §66d). JA-DU-RA-TI writes Yadurat-i, the feminine Amorite Yadwiratum, \[IA-DI\]-RA-TUM (Gelb 1980, no. 3209), with another case ending; cf. Ya-du-ra-an, Ya-du-ri-im (Huffmon 1965, 38). One attestation.
 
 ### Cognates
 
@@ -51,7 +51,7 @@ Verso of KN1 tablet. Format: WORD + E + QTY (105); the recto JA-KU-TI · E · 24
 
 ### Source
 
-di Mino
+di Mino; Fischer 2002; Gelb 1980; Huffmon 1965
 
 ## Attestations
 
@@ -69,8 +69,8 @@ di Mino
 
 | Field | Value |
 |---|---|
-| Type | personal name (SPECULATIVE) |
-| Affiliation | semitic (SPECULATIVE) |
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
 | Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |

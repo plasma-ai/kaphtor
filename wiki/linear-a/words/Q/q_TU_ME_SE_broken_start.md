@@ -37,6 +37,6 @@ updated: 2026-10-24T16:17:50Z
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-GORILA III 149 reads .4 \[·\]-TU-ME-SE 18, the first sign lost after JA-PA 1̣\[ at the start of the line. It ends in -SE like DU-RE-ZA-SE (ZA 10a, 10b, ZA 20). Not readable.
+GORILA III 149 reads .4 \[·\]-TU-MẸ-SE 18, ME dotted, the first sign lost after JA-PA 1̣\[. It ends in -SE like DU-RE-ZA-SE (ZA 10a, 10b, ZA 20). Not readable.
 
 <!-- END kaphtor:record -->

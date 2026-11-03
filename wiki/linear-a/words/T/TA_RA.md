@@ -2,10 +2,10 @@
 name: wiki/linear-a/words/T/TA_RA
 title: "TA-RA"
 desc: "ṯa(ġ)ra: gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personnel"]
+tags: ["linear-a", "word", "tier-1", "hapax", "noun", "occupation", "personnel", "ritual"]
 kind: "word"
 form: "TA-RA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 1
 confidence: "SPECULATIVE"
 confidence_score: 0.3
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | gatekeepers (of the sanctuary); rival Akkadian tārû 'child-minder' |
 | Root | \*ṯaġr- 'gate' |
 | Proto-Semitic | \*ŝₓaʕar- (#677) |
-| Language layer | NWS |
-| Category | personnel |
+| Language layer | Semitic |
+| Tags | hapax, noun, occupation, personnel, ritual |
 | Semantic field | personnel |
 
 ### Note
 
-HT89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /ṯa(ġ)ra/ from \*ṯaġr- 'gate', ṯ written in the T-series before a and ġ unwritten: Ug. ṯġr 'gatekeeper', a personnel class with grain rations (DULAT 888); the gatekeepers of the house of God beside MA-I-MI's water-drawers (Ezra 7:24). Cf. TA 4, last entry before KU-RO on HT 94a (entries 111 against KU-RO 110), and \]TA 4 before \]KU-RO 129 on HT 109, broken on the left. Rival: Akkadian tārû 'child-minder' (CAD T), which predicts TA-RU. One witness.
+HT 89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary'), KU-RO 87. /ṯa(ġ)ra/ from \*ṯaġr- 'gate', ṯ written in the T-series before a and ġ unwritten: Ug. ṯġr 'gatekeeper', a personnel class with grain rations (DULAT 888); the gatekeepers of the house of God beside MA-I-MI's water-drawers (Ezra 7:24). Cf. TA 4, last entry before KU-RO on HT 94a (entries 111 against KU-RO 110), and \]TA 4 before \]KU-RO 129 on HT 109, broken on the left. Rival: Akkadian tārû 'male nursemaid' (CAD T 250), which predicts TA-RU. One witness.
 
 ### Cognates
 
@@ -55,12 +55,28 @@ HT89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307 (dubur 'sanctuary')
 
 ### Source
 
-HT89 list structure; DULAT 888; Ezra 7:24; Uchitel 2006, Kadmos 45: 73; Militarev and Kogan 2005, SED II no. 232: 297–98; CAD T s.v. tārû
+di Mino; DULAT; Uchitel 2006; SED II; CAD T
 
 ## Attestations
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/HT/HT/HT89\|HT89]] | Haghia Triada | Tablet | complete |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | title (SPECULATIVE) |
+| Affiliation | semitic (SPECULATIVE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Haghia Triada |
+| Supports | Tablet 1 |
+
+### Note
+
+HT 89 TA-RA 5, last of five classes under A-SA-RA₂ · \*307, KU-RO 87: ṯa(ġ)ra 'gatekeepers', Ugaritic ṯġr, a personnel class with grain rations (DULAT 888). Rival: Akkadian tārû 'male nursemaid' (CAD T 250). See the lexicon entry. One witness.
 
 <!-- END kaphtor:record -->

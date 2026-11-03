@@ -68,18 +68,18 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete (status: complete).
 
-> Royal allocation—contribution—wine: Padī 5¾; ʿAttu 10; Dīnāyu 4; the official 2; Sōdir 2½; TA-I-AROM 2½; Ḫaru 4¼. Total 31¾.
+> Royal allocation—contribution—wine: Padī 5¾; ʿAttu 10; Dīnāyu 4; the official 2; the waitress 2½; TA-I-AROM 2½; Ḫaru 4¼. Total 31¾.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarrō | royal allocation/account | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SA_RO\|SA-RO]] | šarr | the king's account (heading) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/T/TE\|TE]] | terûmā | contribution (abbreviation) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/V/VIN\|VIN]] | wayn | wine | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/P/PA_DE\|PA-DE]] | Padī | personal name (cf. Padi of Ekron) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/star/star306_TU\|\*306-TU]] | ʿAttu | personal name (cf. Hebrew ʿAttay; \*306 = ʿa) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | personal name: hypocoristic of a √d-y-n name ('Judge') | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] | qēpu | official, commissioner; rival: the personal name Qīpu | SPECULATIVE | SPECULATIVE (lexicon) |
-| [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | sōdir | one who sets in order (title or name; √s-d-r) | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/star/star324_DI_RA\|\*324-DI-RA]] | ṯadira | waitress, serving-girl (title; √ṯ-d-r) | SPECULATIVE | SPECULATIVE (lexicon) |
 | TA-I-AROM |  | roster entry written with the aromatics ligature (unread) |  |  |
 | [[wiki/linear-a/words/A/A_RU\|A-RU]] | Ḫaru | Ḫaru (Hurrian personal name); rival the Semitic name Ḫayru 'Excellent' | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/K/KU_RO\|KU-RO]] | kull | total | CONFIRMED | CONFIRMED (lexicon) |

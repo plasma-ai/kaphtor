@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ṣ́/2100_to_laugh
 title: "*ṣ̂ḥk/ḳ {} *ĉ̣ḥk/ḳ: 'to laugh'"
-desc: "Proto-Semitic *ṣ̂ḥk/ḳ {} *ĉ̣ḥk/ḳ, 'to laugh': reflexes in 23 language(s)."
+desc: "Proto-Semitic *ṣ̂ḥk/ḳ {} *ĉ̣ḥk/ḳ, 'to laugh': reflexes in 22 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2100"
@@ -33,7 +33,6 @@ updated: 2026-10-22T17:38:31Z
 | Arabic | ḍḥk (-a-) \[BK 2 11\] | BK 2 11 |  |
 | Mehri | ẑǝḥāk (ō) \[JM 475\] | JM 475 |  |
 | Soqotri | ḍáḥak \[LS 361\]; ẓ̂áḥak (SLOnline 7226) | LS 361; SLOnline 7226 | gloss withheld |
-| Akkadian | (?) ṣiāḫu, ṣâḫu, OB on \[CAD ṣ 64\], \[AHw 1096\]. | CAD ṣ 64; AHw 1096 |  |
 | Harsusi | ẑǝḥāk \[JH 151\] | JH 151 |  |
 | Tigre | säḥaḳä \[LH 171\] | LH 171 |  |
 | Mandaic Aramaic | AHK, ʕHK \[DM 9\], GHK \[ibid. 81\], SHK \[ibid. 320\] (see JUD) | DM 9; DM 81; DM 320 |  |
@@ -49,7 +48,7 @@ updated: 2026-10-22T17:38:31Z
 | Judaic Aramaic | ṣǝḥaḳ \[Ja 1274\], ʔăḥīk \[ibid. 40\], ḥūk \[ibid. 432\], gǝḥak \[ibid. 233\], gḥk \[DJPA 126a apud CAL\]; dəḥak \[Ja. 292\], dḥk \[DJPA 142b apud CAL\]. | Ja 1274; Ja 40; Ja 432; Ja 233; DJPA 126a; CAL; Ja. 292; DJPA 142b | gloss withheld |
 | Syrian Aramaic | gǝḥēk \[Brock 113\]. | Brock 113 |  |
 | Gafat | ṣaḳä \[LGaf 236\]. | LGaf 236 |  |
-| Aramaic | HTR šḥḳ \[HJ 1121-22\]; DAL ḳḥk \[HJ 1094-5\] | HJ 1121-22; HJ 1094-5 | gloss withheld |
+| Aramaic | HTR šḥḳ \[HJ 1121-22\]; DAL ḳḥk \[HJ 1004-5\] | HJ 1121-22; HJ 1004-5 | gloss withheld |
 | Tigrinya | säḥaḳä \[Bass 170\] | Bass 170 |  |
 | Eblaitic | za-ʔà-gú-um /ṣaḥākum/ (VE 217) | VE 217 |  |
 | Amorite | ṣḥq: jaṣḥaq, ṣiḥaqum (Gelb AS 21, 34) | Gelb AS 21 34 | gloss withheld |

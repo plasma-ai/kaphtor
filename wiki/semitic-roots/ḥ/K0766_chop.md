@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/K0766_chop
 title: "*ḥaṭab-: 'chop'"
-desc: "Proto-Semitic *ḥaṭab-, 'chop': reflexes in 8 language(s)."
+desc: "Proto-Semitic *ḥaṭab-, 'chop': reflexes in 10 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0766"
@@ -37,6 +37,8 @@ updated: 2026-10-22T17:38:31Z
 | Mehri | ḥəṭáwb (Kogan 2015, ch. 2 §4.2 no. 25) | Kogan 2015 ch. 2 §4.2 no. 25 | gloss withheld |
 | Soqotri | ḥáṭab (Kogan 2015, ch. 2 §4.2 no. 25); ḥéṭab (SLOnline 7038) | Kogan 2015 ch. 2 §4.2 no. 25; SLOnline 7038 | gloss withheld |
 | Pre-Islamic North Arabian | Safaitic ḥṭb (Al-Jallad–Jaworska 87) | Al-Jallad–Jaworska 87 | gloss withheld |
+| Canaanite | ḥ3-tj-b3: name (Schneider 1992, 173, N 367) |  | gloss withheld |
+| Tigre | ḥanṭäba (LGz. 238) | LGz. 238 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

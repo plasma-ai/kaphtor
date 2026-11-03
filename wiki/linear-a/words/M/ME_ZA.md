@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/M/ME_ZA
 title: "ME-ZA"
 desc: "massu: corvée gang, labour gang (personnel term); the word of MA-ZA. Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "title"]
+tags: ["linear-a", "word", "tier-2", "noun", "personnel"]
 kind: "word"
 form: "ME-ZA"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | corvée gang, labour gang (personnel term); the word of MA-ZA |
 | Root | m-s-s |
 | Proto-Semitic | \*mass- (#S31) |
-| Language layer | NWS |
-| Category | title |
+| Language layer | Semitic |
+| Tags | noun, personnel |
 | Semantic field | personnel |
 
 ### Note
 
-HT 10a .8 ME-ZA 3, the last issue under KU-NI-SU 'the assembly', after DA-RE 16½, U-\*325-ZA and DA-RI-DA 8 (GORILA I 20–21); HT 85b ME-ZA 1, among single entries under KI-KI-RA-JA beside QA-\*310-I qaynī 'smith' (GORILA I 130–131). Alalakh writes the gang ma-zi and issues it grain (CAD M/1 327), as HT 10a issues ME-ZA 3. The word of MA-ZA mazza (ZA 10b); ME for ma is a vowel mismatch only. Rival: the Hurrian name mzy, ma-zi-i (DULAT 600).
+HT 10a .8 ME-ZA 3, the last issue under KU-NI-SU 'emmer', after DA-RE 16½, U-\*325-ZA and DA-RI-DA 8 (GORILA I 20–21); HT 85b ME-ZA 1, among single entries under KI-KI-RA-JA beside QA-\*310-I qaynī 'smith' (GORILA I 130–131). Alalakh writes the gang ma-zi and issues it grain (CAD M/1 327), as HT 10a issues ME-ZA 3. The word of MA-ZA mazza (ZA 10b); ME for ma is a vowel mismatch only. Rival: the Hurrian name mzy, ma-zi-i (DULAT 600).
 
 ### Cognates
 

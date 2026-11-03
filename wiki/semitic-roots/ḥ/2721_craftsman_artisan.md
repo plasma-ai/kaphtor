@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ḥ/2721_craftsman_artisan
 title: "*ḥaraš-: 'craftsman, artisan'"
-desc: "Proto-Semitic *ḥaraš-, 'craftsman, artisan': reflexes in 5 language(s)."
+desc: "Proto-Semitic *ḥaraš-, 'craftsman, artisan': reflexes in 6 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2721"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | ḥārāš (HALOT 358) | HALOT 358 | gloss withheld |
 | Akkadian | eršu (HALOT 358) | HALOT 358 | gloss withheld |
 | Amorite | ḫariš-, \*ḥāriṯ-, from \*ḥrṯ (Huffmon APNM 205) | Huffmon APNM 205 | gloss withheld |
+| Punic | ḥrš, in bʿl ḥrš; Neo-Punic ars, in bal ars (Krahmalkov 198) | Krahmalkov 198 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

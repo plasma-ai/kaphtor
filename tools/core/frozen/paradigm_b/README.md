@@ -17,7 +17,7 @@ folder (code and data at their frozen paths) and runs it there, so `scripts/comm
 the freeze. Kept byte for byte but for literal substitutions of the attribution and of private paths in docstrings
 and constants, each recorded in `data/linear-a/paradigm-b/PORT-LEDGER.json`; the package runs them as shipped, its
 SHA256SUMS giving their shipped sha256. The strings they replaced are in the maintainer's key, with which
-`paradigm_b.py --key` restores every file to its frozen sha256.
+`paradigm_b.py verify --key` restores every file to its frozen sha256.
 
 `vendor/skeleton.py` is the sign table the runs used (`*86` = ṇa, no `*324`); it is not
 `tools/core/skeleton.py`, and swapping one for the other changes the null vectors. `scripts/render_la.py` is pinned

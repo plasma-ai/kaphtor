@@ -25,18 +25,18 @@ updated: 2026-10-24T16:17:50Z
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Haghia Triada | Tablet | incomplete |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] | Haghia Triada | Tablet | incomplete; form not in transliteration |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] |  | personal name(?). Not readable. |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT123_plus_124b\|HT123+124b]] |  | broken word, \]SI-DU, A701. Not readable. |  |
 
 ## Unread
 
 Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
 
-HT123b .4 \]SI-DU, beyond the central lacuna that follows KA-NẠ\[, NA dotted. The join with HT 124 leaves the lacuna open (GORILA I 210–213). Sole attestation. Not readable.
+HT123b .4 \]SI-DU, beyond the central lacuna that follows KA-NẠ\[, NA dotted; SI stands against the edge of the hole, so signs may be lost before it (GORILA I 212–213). The join with HT 124 leaves the lacuna open. Sole attestation. Not readable.
 
 <!-- END kaphtor:record -->

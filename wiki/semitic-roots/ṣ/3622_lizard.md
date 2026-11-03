@@ -29,7 +29,7 @@ updated: 2026-10-26T14:26:59Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Akkadian | ṣurīrītu, ṣurārītu, ṣurīrittu (CAD Ṣ 256); ṣurāru, ṣurīrû (CAD Ṣ 254) | CAD Ṣ 256; CAD Ṣ 254 | gloss withheld |
+| Akkadian | ṣurīrītu, ṣurārītu, ṣurīrittu (CAD Ṣ 256; AHw 1113); ṣurāru, ṣurīrû (CAD Ṣ 254) | CAD Ṣ 256; AHw 1113; CAD Ṣ 254 | gloss withheld |
 | Syrian Aramaic | ṣrūrītā 'eft, newt; poisonous lizard' (Payne Smith 484); 'stellio, small lizard' (Brock. 636) | Payne Smith 484; Brock. 636 |  |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.

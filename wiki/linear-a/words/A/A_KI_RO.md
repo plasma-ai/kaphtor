@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A/A_KI_RO
 title: "A-KI-RO"
 desc: "ʾAkiru: ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman'). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "A-KI-RO"
 datasets: ["lexicon", "onomasticon"]
@@ -35,13 +35,13 @@ updated: 2026-10-24T16:17:50Z
 | Meaning | ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman') |
 | Root | ʾ-k-r |
 | Proto-Semitic | \*ʾkr 1, \*ʾa/ikkār- 2 (#1810) |
-| Language layer | NWS |
-| Category | personal_name |
-| Semantic field | personnel |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
+| Semantic field | personal_name |
 
 ### Note
 
-ARKH 4b .4 A-KI-RO 3, after the numeral \]9 that closes the entry of .3–4 and before ZA-SI-ZU\[ \]3, in a list of whole-number entries with no logogram on the face (GORILA III 14–15). Intact and undotted. A-KI-RO spells A-KI-RU-UM / A-KI-RI / A-KI-RA sign for sign, RO for the case vowel. The noun ʾikkār behind the name is this lexicon's analysis, not Gelb's. Rivals: the Akkadian name Ikkaru; A + KI-RO 'owed'. See I-KI-RA and I-KA.
+ARKH 4b .4 A-KI-RO 3, after the numeral \]9 that closes the entry of .3–4 and before ZA-SI-ZU\[ \]3, in a list of whole-number entries with no logogram on the face (GORILA III 14–15). Intact and undotted. A-KI-RO spells the Amorite A-KI-RU-UM, A-KI-RI and A-KI-RA sign for sign (Gelb 1980, nos. 338–340), RO for the case vowel; Gelb lists the names, and the noun ʾikkār 'plowman' behind them is di Mino's reading. Rivals: the Akkadian name Ikkaru; A + KI-RO 'owed'. See I-KI-RA and I-KA.
 
 ### Cognates
 
@@ -68,10 +68,14 @@ di Mino; Gelb 1980
 | Type | personal name (SPECULATIVE) |
 | Affiliation | semitic (SPECULATIVE) |
 | Evidence | lexicon_reading |
-| Entry | auto |
+| Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Arkhanes |
 | Supports | Tablet 1 |
+
+### Note
+
+ARKH 4b .4 A-KI-RO 3, in a list of whole-number entries (GORILA III 14–15). The Amorite name A-KI-RU-UM (Gelb 1980, nos. 338–340). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

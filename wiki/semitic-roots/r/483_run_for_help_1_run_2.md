@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/483_run_for_help_1_run_2
 title: "*rVwVṯ̣-: 'run for help' 1, 'run' 2"
-desc: "Proto-Semitic *rVwVṯ̣-, 'run for help' 1, 'run' 2: reflexes in 14 language(s)."
+desc: "Proto-Semitic *rVwVṯ̣-, 'run for help' 1, 'run' 2: reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "483"
@@ -31,7 +31,7 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Akkadian | râṣu 1 |  |  |
-| Mandaic Aramaic | rhṭ 2 (Drower/Macuch 426b apud CAL) | Macuch 426b; CAL |  |
+| Mandaic Aramaic | rhṭ 2 (MD 426) | MD 426 |  |
 | Ugaritic | rẓ 2 DULAT 738 | DULAT 738 |  |
 | Geez | roṣa 2 (Kogan 2015, ch. 2 §5.2.2.1 no. 26) | Kogan 2015 ch. 2 §5.2.2.1 no. 26 |  |
 | Hebrew | rwṣ 2 |  |  |
@@ -44,6 +44,7 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | Sel. räwwäṭä, Wol. räwäṭä (EDG 528 apud SEDonline 1309) | EDG 528; SEDonline 1309 | gloss withheld |
 | Gafat | räṣä (Leslau 1956:228; 1945:169 apud SEDonline 1309) | Leslau 1956:228; SEDonline 1309 | gloss withheld |
 | Harari | rōṭa (EDH 135 apud SEDonline 1309) | EDH 135; SEDonline 1309 | gloss withheld |
+| Punic | Neo-Punic mrṣ 2, in mrṣm (Krahmalkov 313) | Krahmalkov 313 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

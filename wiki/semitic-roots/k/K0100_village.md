@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/K0100_village
 title: "*kapār-: 'village'"
-desc: "Proto-Semitic *kapār-, 'village': reflexes in 10 language(s)."
+desc: "Proto-Semitic *kapār-, 'village': reflexes in 11 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "K0100"
@@ -34,6 +34,7 @@ updated: 2026-10-24T15:25:56Z
 | Geez | kapar 'village' | Anderson–Moser 2024 root kpr |  |
 | Hebrew | kapar 'village' (BDB 499) | BDB 499; Anderson–Moser 2024 root kpr |  |
 | Punic | kpr 'town' | Anderson–Moser 2024 root kpr |  |
+| Phoenician | kpr, in the place name kprʾ (Krahmalkov 240) | Krahmalkov 240 | gloss withheld |
 | Ugaritic | kpr 'village' | Anderson–Moser 2024 root kpr |  |
 | Epigraphic South Arabian | kpr (HALOT 494) | HALOT 494 | gloss withheld |
 | Syrian Aramaic | kpar 'village, hamlet' (Payne Smith 223) | Payne Smith 223 |  |

@@ -1,15 +1,15 @@
 ---
 name: wiki/linear-a/words/E/E_NA_SI
 title: "E-NA-SI"
-desc: "naḥāši: copper, bronze (commodity category). Lexicon, CANDIDATE (tier 2)."
-tags: ["linear-a", "word", "tier-2", "noun"]
+desc: "ʾenāš: men, people (section heading); rival copper, bronze. Lexicon, CANDIDATE (tier 2)."
+tags: ["linear-a", "word", "tier-2", "hapax", "noun", "personnel"]
 kind: "word"
 form: "E-NA-SI"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.5
-reading: "naḥāši"
+reading: "ʾenāš"
 attestations: ["KH7a"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
@@ -31,27 +31,17 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
-| Reading | naḥāši |
-| Meaning | copper, bronze (commodity category) |
-| Root | n-ḥ-š (PS \*naḥaš-) |
-| Proto-Semitic | \*nVḥVš- (#2745) |
-| Language layer | NWS |
-| Category | noun |
-| Semantic field | commodity |
+| Reading | ʾenāš |
+| Meaning | men, people (section heading); rival copper, bronze |
+| Root | ʾ-n-š (PS \*(ʾi-)nVš-) |
+| Proto-Semitic | \*(ʾi-)nVš- (#4) |
+| Language layer | Semitic |
+| Tags | hapax, noun, personnel |
+| Semantic field | personnel |
 
 ### Note
 
-KH7a (Khania, LMIB): section heading for 10 copper-workers (VIR+\*313b 10) receiving ½ unit CYP+D. Three named worker groups on the tablet, each with CYP+D copper allocation \|\| ETYMOLOGY: Skeleton n-s against naḥaš- 'snake; bronze', with interior ḥ unwritten (no \*314 sign on any KH tablet). The copper sense is Bronze Age: Emar naḫšu 'bronze(-vessel)', Amarna nuḫuštu (GlOS 2, 87). Prosthetic E- not standard for this root (Hebrew neḥōšet has no initial vowel)—possible adjectival/nisbe naḥāšī 'of copper' or dialectal prosthesis before initial nasal \|\| The dual meaning 'serpent/copper' (shared shininess) is pan-Semitic; Hebrew neḥushtan collapses both into Moses' bronze serpent (Num 21:9).
-
-### Cognates
-
-| Language | Comparison |
-|---|---|
-| Hebrew | neḥōšet (נְחֹשֶׁת) "copper, bronze" (BDB 638); nāḥāš (נָחָשׁ) "serpent" (Gen. 3:1); neḥushtan (נְחֻשְׁתָּן) "the bronze serpent" (2 Kings 18:4) |
-| Ugaritic | nḥš "serpent" (DULAT 619; KTU 1.100); divination is Hebrew only, niḥēš "to seek omens" (HALOT 690) |
-| Akkadian | nāḫāšu "to be prosperous/abundant" (CAD) |
-| Arabic | nuḥās (نُحَاس) "copper" (Lane) |
-| Aramaic | neḥāšā "copper, bronze" |
+KH 7a (Khania, LM IB): the heading over VIR+\*313b 10, men of the \*313b class, who draw ½ unit of CYP+D; each of the tablet's three sections draws CYP+D. ʾenāš 'men, people' (semitic_roots 4), E- the root's own initial, as JArm. ʔēnāš, SI writing the final š. Rival: naḥāši 'of copper' (semitic_roots 2745), the interior ḥ unwritten, as no \*314 sign occurs on any KH tablet: Emar naḫšu 'bronze(-vessel)', Amarna nuḫuštu (GlOS 2, 87); it leaves E- unexplained, since nəḥōšet and its cognates begin with n-. Weak point: the heading names the men VIR already counts. One witness.
 
 ### Source
 
@@ -67,6 +57,6 @@ di Mino; GlOS 2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | naḥāši | copper, bronze (section heading) | CANDIDATE |
+| [[wiki/linear-a/inscriptions/KH/KH/KH7a\|KH7a]] | ʾenāš | men, people (section heading); rival copper | CANDIDATE |
 
 <!-- END kaphtor:record -->

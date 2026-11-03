@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/w/904_be_afraid
 title: "*wagar-: 'be afraid'"
-desc: "Proto-Semitic *wagar-, 'be afraid': reflexes in 2 language(s)."
+desc: "Proto-Semitic *wagar-, 'be afraid': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "904"
@@ -31,7 +31,8 @@ updated: 2026-10-22T17:38:31Z
 | Language | Form | Sources | Note |
 |---|---|---|---|
 | Arabic | wǯr \[-a-\] |  |  |
-| Hebrew | ygr |  |  |
+| Hebrew | ygr; gwr (HALOT 185) | HALOT 185 | gloss withheld |
+| Phoenician | gr, in the name type gr-DN: grʾšmn, grbʿl (Krahmalkov 142) | Krahmalkov 142 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

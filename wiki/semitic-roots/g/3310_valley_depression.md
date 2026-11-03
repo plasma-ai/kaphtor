@@ -30,7 +30,7 @@ updated: 2026-10-25T05:11:48Z
 
 | Language | Form | Sources | Note |
 |---|---|---|---|
-| Hebrew | gay(ˀ) (HALOT 188 apud SEDonline 2057) | HALOT 188; SEDonline 2057 | gloss withheld |
+| Hebrew | gay(ˀ) (HALOT 188) | HALOT 188 | gloss withheld |
 | Arabic | ǯiwāˀ- (Lane 478 apud SEDonline 2057) | Lane 478; SEDonline 2057 | gloss withheld |
 | Mehri | gōt (ML 126 apud SEDonline 2057) | ML 126; SEDonline 2057 | gloss withheld |
 | Jibbali | gɔ̄t (JL 80 apud SEDonline 2057) | JL 80; SEDonline 2057 | gloss withheld |

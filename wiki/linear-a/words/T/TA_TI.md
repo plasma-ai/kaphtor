@@ -34,12 +34,12 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Tati |
 | Meaning | personal name; rival tati 'father' (Luwian tati-) |
 | Language layer | Anatolian |
-| Category | personal_name |
+| Tags | personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-An entry in two lists of quantities: HT26a TA-TI 21, before MI-KI-SE-NA 15 and U-NU-\*21F 5; HT97a TA-TI 2, under VIR+KA 82 beside PA-I-TO and KA-NU-TI. Ugarit has the man's name Tati, {m}ta-ti (ORACC aemw/ugarit). Rival: CL Luwian tati- 'father' (Melchert 1993, 209).
+An entry in two lists of quantities: HT 26a TA-TI 21, before MI-KI-SE-NA 15 and U-NU-\*21F 5; HT 97a TA-TI 2, under VIR+KA 82 beside PA-I-TO and KA-NU-TI. Ugarit has the man's name Tati, DUMU-\[MEŠ {m}ta\]-⸢ti⸣ 'the sons of Tati' (RS 15.0109 + RS 16.0296 o 24; ORACC aemw/ugarit P503325), its first sign restored. Rival: CL Luwian tati- 'father' (Melchert 1993, 209). Two attestations.
 
 ### Cognates
 
@@ -73,7 +73,7 @@ di Mino; ORACC aemw/ugarit; Melchert 1993
 
 ### Note
 
-Roster +numeral; co PA-I-TO.
+HT 26a and HT 97a, in lists of quantities: the name Tati, as at Ugarit (RS 15.0109 + RS 16.0296 o 24). Rival: CL Luwian tati- 'father' (Melchert 1993, 209). See the lexicon entry.
 
 ### Co-occurring lexicon words
 

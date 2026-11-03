@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʾ/1_father
 title: "*ʾab-: 'father'"
-desc: "Proto-Semitic *ʾab-, 'father': reflexes in 27 language(s)."
+desc: "Proto-Semitic *ʾab-, 'father': reflexes in 28 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1"
@@ -41,8 +41,8 @@ updated: 2026-10-22T17:38:31Z
 | East Ethiopic | ZWY ābu, SEL abot, WOL abbä, aḇot (LGur. 4) | LGur. 4 |  |
 | Geez | ʔab (LGz. 2) | LGz. 2 |  |
 | Gurage | CHA EZ̆A MUH MSQ GOG ab, ENM GYT aḇ SOD aḇi, CHA EZ̆̆A END aw (LGur. 4) | LGur. 4 |  |
-| Phoenician | ʔb (T 1) | T 1 |  |
-| Jibbali | ʔiy (JJ 1), cf. ʔeb | JJ 1 | gloss withheld |
+| Phoenician | ʔb (T 1); ʔbt (T 3) | T 1; T 3 | gloss withheld |
+| Jibbali | ʔiy (JJ 1), cf. ʔeb; voc. bɛ (Rubin 2014 655) | JJ 1; Rubin 2014 655 | gloss withheld |
 | Hebrew | ʔāb (HALOT 1); Mishnaic ʔabbā (OLA80 §28.13) | HALOT 1; OLA80 §28.13 | gloss withheld |
 | Amharic | abbat (K 1199) | K 1199 |  |
 | Epigraphic South Arabian | SAB MIN QAT ʔb (SD 1; LM 1; Ricks 3; Sabaweb lemma 1490) | SD 1; LM 1; Ricks 3; Sabaweb lemma 1490 |  |
@@ -50,14 +50,19 @@ updated: 2026-10-22T17:38:31Z
 | Harari | āw (LHar 37) | LHar 37 |  |
 | Syrian Aramaic | ʔabbā id. (Brock. 1) | Brock. 1 |  |
 | Tigrinya | ʔabbo id. (Bass. 515) | Bass. 515 |  |
-| Aramaic | ʾb (DNWSI 1 apud CAL) | DNWSI 1; CAL; Anderson–Moser 2024 root abb | gloss withheld |
+| Aramaic | ʾb (DNWSI 1) | DNWSI 1; Anderson–Moser 2024 root abb | gloss withheld |
 | Punic | ʾb 'father' | Anderson–Moser 2024 root abb |  |
 | Gafat | abʷä (LGz. 2) | LGz. 2 |  |
 | Amorite | ʾabum (Gelb AS 21, 13); ʾabu (Buck 2019, 323); ʾab: (=)a-bu/i/a(=), (=)a-ba/bí/bu(=) (Ur III) (Sanmartín GlOS 1, 3) | Gelb AS 21 13; Buck 2019, 323; Sanmartín GlOS 1, 3 | gloss withheld |
-| Pre-Islamic North Arabian | Safaitic ʾb (Al-Jallad–Jaworska 38) | Al-Jallad–Jaworska 38 | gloss withheld |
+| Pre-Islamic North Arabian | Safaitic ʾb (Al-Jallad–Jaworska 38); Dadanitic ʾb; Hismaic ʾb; Dhofari ʾb (Al-Jallad 2026, 3) | Al-Jallad–Jaworska 38; Al-Jallad 2026 3 | gloss withheld |
 | Argobba | aw, abba (Leslau 1997:194, AAD 285 apud SEDonline 489) | Leslau 1997:194, AAD 285; SEDonline 489 | gloss withheld |
 | Eblaitic | a-ba₄, a-bu/bù, a-ba/bù /ʾab/ (Sanmartín GlOS 1, 3); a-ba-ʾà-su-ma-a /ʾabah-ay-šumay(n)/, a-bí-iš, a-bù-sù (ARET XI 1; Fronzaroli 1995, 62–63) | Sanmartín GlOS 1, 3; ARET XI 1; Fronzaroli 1995, 62–63 | gloss withheld |
+| Biblical Aramaic | ʔab (HALOT 1) | HALOT 1 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
+
+## Notes
+
+Krahmalkov 30 reads the bʾbt of KAI 26 A I 12/13 as ʾbt 'fathership', the plural 'fathers' used as an abstract, where Tomback (T 3) reads ʔbt 'intercessor'.
 
 <!-- END kaphtor:record -->

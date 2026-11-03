@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DI_NE
 title: "DI-NE"
 desc: "dīn: judgment (name element). Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "onomastic"]
+tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
 kind: "word"
 form: "DI-NE"
 datasets: ["lexicon"]
@@ -35,20 +35,20 @@ updated: 2026-10-28T13:27:44Z
 | Meaning | judgment (name element) |
 | Root | d-y-n |
 | Proto-Semitic | \*dyn- (#S36) |
-| Language layer | NWS |
-| Category | onomastic |
+| Language layer | Semitic |
+| Tags | hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note
 
-Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4): dī-n, the final vowel dead. The same element as DI-NI Dīnī and DI-RE-DI-NA ʾaddir-dīnā. One witness.
+Attested only within O-RA₂-DI-NE ʾŌl-dīn (HT 6a .4): dī-n, the final vowel dead. The same element as DI-NI Dīnī and DI-RE-DI-NA ʾaddīr-dīnā. One witness.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Ugaritic | dn 'judgment, case, sentence' (DULAT 273); the last element of ảwldn, ỉldn, bʕldn (DULAT 128, 52, 207) |
-| Linear A | DI-NI Dīnī, DI-RE-DI-NA ʾaddir-dīnā |
+| Linear A | DI-NI Dīnī, DI-RE-DI-NA ʾaddīr-dīnā |
 
 ### Source
 

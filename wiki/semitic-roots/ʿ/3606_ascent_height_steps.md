@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/ʿ/3606_ascent_height_steps
 title: "*ʕly: 'ascent, height; steps'"
-desc: "Proto-Semitic *ʕly, 'ascent, height; steps': reflexes in 2 language(s)."
+desc: "Proto-Semitic *ʕly, 'ascent, height; steps': reflexes in 3 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "3606"
@@ -31,6 +31,7 @@ updated: 2026-10-26T14:26:59Z
 |---|---|---|---|
 | Akkadian | mēlû (CAD M/2 13); mūlû (CAD M/2 193) | CAD M/2 13; CAD M/2 193 | gloss withheld |
 | Hebrew | maʿălê (HALOT 613); maʿălâ (HALOT 614) | HALOT 613; HALOT 614 | gloss withheld |
+| Ugaritic | mʕlt (DULAT 515) | DULAT 515 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 

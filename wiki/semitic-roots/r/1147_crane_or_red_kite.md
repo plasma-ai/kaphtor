@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/r/1147_crane_or_red_kite
 title: "*raʾ/w/hy-: 'crane' or 'red kite'"
-desc: "Proto-Semitic *raʾ/w/hy-, 'crane' or 'red kite': reflexes in 4 language(s)."
+desc: "Proto-Semitic *raʾ/w/hy-, 'crane' or 'red kite': reflexes in 5 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "1147"
@@ -34,6 +34,7 @@ updated: 2026-10-22T17:38:31Z
 | Hebrew | rāʔā |  | gloss withheld |
 | Tigre | rawya (SED II 250) | SED II 250 | gloss withheld |
 | Tigrinya | rawya (SED II 250) | SED II 250 | gloss withheld |
+| Geez | rebayāt (LGz. 462) | LGz. 462 | gloss withheld |
 
 A form keeps its source's gloss only when the source is public domain or openly licensed.
 
