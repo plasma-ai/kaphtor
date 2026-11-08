@@ -551,6 +551,9 @@ Moran, W. L. 1960. "Early Canaanite yaqtula." *Orientalia* 29: 1–19.
 **Moran 1992** (cited as EA)
 Moran, William L. 1992. *The Amarna Letters*. Johns Hopkins University Press.
 
+**Mourad 2014**
+Mourad, Anna-Latifa. 2014. *Rise of the Hyksos: Egypt and the Levant from the Middle Kingdom to the Early Second Intermediate Period*. PhD thesis, Macquarie University, Sydney.
+
 **Muhly and Olivier 2008**
 Muhly, Polymnia, and Jean-Pierre Olivier. 2008. "Linear A Inscriptions from the Syme Sanctuary, Crete." *Archaiologike Ephemeris* 147: 197–223.
 
@@ -836,6 +839,9 @@ Watson, Wilfred G. E. 2007. "Additional Names for Animals in the Ugaritic Texts.
 **Watson 2012**
 Watson, Wilfred G. E. 2012. "Ugaritic Onomastics (8)." *Aula Orientalis* 30: 323–351.
 
+**Watson 2018**
+Watson, Wilfred G. E. 2018. "Terms for Occupations, Professions and Social Classes in Ugaritic: An Etymological Study." *Folia Orientalia* 55: 307–378. https://doi.org/10.24425/for.2018.124688
+
 **Watson 2020**
 Watson, Wilfred G. E. 2020. "A New Proposal for Ugaritic ṣṣ, “salt, salt-field”." *Historiae* 17: 15–23.
 
@@ -939,6 +945,7 @@ These works are not held. The data cites each through another work, named after 
 - **Pardee 1997**: Pardee 1997 – D. Pardee. Miscellaneous Ugaritic texts translated and annotated in the section “West Semitic Canonical Compositions.” The Context of Scripture. I. Canonical Compositions from the Biblical World. Leiden/New York/Köln. Cited through SEDonline.
 - **Pasquali 1995**: Pasquali 1995—Pasquali, Jacopo. “*Hullum* a Ebla e Mari.” *Nouvelles Assyriologiques Brèves et Utilitaires* 1995: 52–53. (Vita 2021, bibliography). Cited through SEDonline.
 - **Pirenne 1990**: Pirenne 1990 – J. Pirenne. Fouilles de Shabwa. I. Les témoins écrits de la région de Shabwa et l’histoire. Paris. Cited through SEDonline.
+- **Rabin 1963**: HALOT 472 gives "Rabin Orientalia 32:124f."; KeiBi KEI00113378: Rabin, Chaim. 1963. "Hittite Words in Hebrew." *Orientalia* 32: 113–139. Cited through HALOT.
 - **Rainey 1978**: Rainey 1978 – A. Rainey. El Amarna Tablets 359‒379. Neukirchen. Cited through SEDonline.
 - **Rainey 2015**: Rainey 2015—Rainey, Anson F. *The El-Amarna Correspondence*. Leiden-Boston: Brill, 2015. (Vita 2021, bibliography). Cited through SEDonline.
 - **Renfroe 1992**: Renfroe 1992 – F. Renfroe. Arabic-Ugaritic Lexical Studies. Münster. Cited through SEDonline.
@@ -1120,7 +1127,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | CAD E | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 4, E* (1958) |  | 9 |
 | CAD Ḫ | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 6, Ḫ* (1956) |  | 7 |
 | CAD I/J | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 7, I and J* (1960) |  | 12 |
-| CAD K | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 8, K* (1971) |  | 91 |
+| CAD K | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 8, K* (1971) |  | 93 |
 | CAD L | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 9, L* (1973) |  | 14 |
 | CAD M/1 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 10, M, part 1* (1977) |  | 16 |
 | CAD M/2 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 10, M, part 2* (1977) |  | 27 |
@@ -1146,7 +1153,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | CAD U/W | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 20, U and W* (2010) |  | 12 |
 | CAD W | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 20, U and W* (2010) |  | 1 |
 | CAD Z | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 21, Z* (1961) |  | 3 |
-| CAL | Kaufman, *The Comprehensive Aramaic Lexicon (CAL)* (2026) | 562 | 1 |
+| CAL | Kaufman, *The Comprehensive Aramaic Lexicon (CAL)* (2026) | 562 | 3 |
 | CAT | Dietrich, *The Cuneiform Alphabetic Texts from Ugarit, Ras Ibn Hani and Other Places* (1995) |  | 5 |
 | CDG | Leslau, *Comparative Dictionary of Geʿez (Classical Ethiopic)* (1987) | 66 |  |
 | Civil | author–year, the year in the loc: Civil 2017 | 45 |  |
@@ -1173,6 +1180,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | DNWSI | Hoftijzer, *Dictionary of the North-West Semitic Inscriptions* (1995) | 193 | 14 |
 | Dozy | Dozy, *Supplément aux dictionnaires arabes* (1927); Dozy, *Supplément aux dictionnaires arabes* (1927) | 21 |  |
 | DRS | D. Cohen. Dictionnaire des racines sémitiques ou attestées dans les langues sémitiques. La Haye, 1970—. | 7 |  |
+| Drower–Macuch | Drower and Macuch, *A Mandaic Dictionary* (1963), as HALOT cites it |  | 1 |
 | DSA | A. Tal. A Dictionary of Samaritan Aramaic. Leiden, 2000. | 2 |  |
 | DULAT | del Olmo Lete, *A Dictionary of the Ugaritic Language in the Alphabetic Tradition* (2015) | 884 | 671 |
 | EA | Moran, *The Amarna Letters* (1992) |  | 67 |
@@ -1194,6 +1202,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Fr | Georg Wilhelm Freytag, *Lexicon arabico-latinum, tomi I–II* (1830) | 5 |  |
 | Fr. | Georg Wilhelm Freytag, *Lexicon arabico-latinum, tomi I–II* (1830); Georg Wilhelm Freytag, *Lexicon arabico-latinum, tomi III–IV* (1835) | 88 |  |
 | Freytag | Georg Wilhelm Freytag, *Lexicon arabico-latinum, tomi I–II* (1830) | 18 |  |
+| Fraenkel | S. Fraenkel, *Die aramäischen Fremdwörter im Arabischen* (1886), as HALOT cites it |  | 1 |
 | Fron. Ebl. | P. Fronzaroli. Materiali per il lessico eblaita 1. Studi Eblaiti, 7, 145—90. | 4 |  |
 | Fronzaroli | author–year, the year in the loc: Fronzaroli 1965b, Fronzaroli 1984, Fronzaroli 1995 | 28 |  |
 | Fuentes | M. J. Fuentes Estañol. Vocabulario Fenicio. Barcelona, 1980. | 1 |  |
@@ -1211,15 +1220,15 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Golinets 2025 | author–year key Golinets 2025 | 8 |  |
 | Gordon | C. Gordon. Ugaritic Textbook. Rome, 1965. | 7 |  |
 | Gordon UT | Gordon, Ugaritic Textbook (CDG bibliography, Gordon 1965); no record |  | 3 |
-| GORILA I | Godart, *Recueil des inscriptions en linéaire A, volume 1: Tablettes éditées avant 1970 (GORILA I)* (1976) |  | 182 |
+| GORILA I | Godart, *Recueil des inscriptions en linéaire A, volume 1: Tablettes éditées avant 1970 (GORILA I)* (1976) |  | 183 |
 | GORILA II | Godart, *Recueil des inscriptions en linéaire A, volume 2: Nodules, scellés et rondelles édités avant 1970 (GORILA II)* (1979) |  | 19 |
-| GORILA III | Godart, *Recueil des inscriptions en linéaire A, volume 3: Tablettes, nodules et rondelles édités en 1975 et 1976 (GORILA III)* (1976) |  | 58 |
+| GORILA III | Godart, *Recueil des inscriptions en linéaire A, volume 3: Tablettes, nodules et rondelles édités en 1975 et 1976 (GORILA III)* (1976) |  | 59 |
 | GORILA IV | Godart, *Recueil des inscriptions en linéaire A, volume 4: Autres documents (GORILA IV)* (1982) |  | 41 |
 | GORILA V | Godart, *Recueil des inscriptions en linéaire A, volume 5: Addenda, corrigenda, concordances, index et planches des signes (GORILA V)* (1985) |  | 6 |
 | Hackett | Hackett, *The Balaam Text from Deir ʿAllā* (1984) | 2 |  |
 | Hackett 1980 | author–year key Hackett 1980 | 1 |  |
 | Hajouz | author–year, the year in the loc: Hajouz 2013 | 21 |  |
-| HALOT | Koehler, *The Hebrew and Aramaic Lexicon of the Old Testament, vols. I–IV* (1994) | 4529 | 512 |
+| HALOT | Koehler, *The Hebrew and Aramaic Lexicon of the Old Testament, vols. I–IV* (1994) | 4529 | 517 |
 | Hava | J. G. Hava. Al-Farā'id. Arabic-English Dictionary. Beirut, 1970. | 11 |  |
 | HJ | Hoftijzer, *Dictionary of the North-West Semitic Inscriptions* (1995) | 155 |  |
 | HL | T. M. Johnstone. Ḥarsūsi Lexicon. Oxford, 1977. | 24 |  |
@@ -1254,7 +1263,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Kane T | Kane, *Tigrinya-English Dictionary* (2000) | 1 |  |
 | KAV | Schroeder, *Keilschrifttexte aus Assur verschiedenen Inhalts* (1920) |  | 2 |
 | KBg | L. Koehler, W. Baumgartner. Hebräisches und Aramäisches Lexikon zum Alten Testament (neu bearbeitet von W. Baumgartner). Leiden, 1974—1990. | 1 |  |
-| KBo | Keilschrifttexte aus Boghazköi (CAD U/W p. xvii; EDA I p. 548) |  | 9 |
+| KBo | Keilschrifttexte aus Boghazköi (CAD U/W p. xvii; EDA I p. 548) |  | 11 |
 | Klein | Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language for Readers of English* (1987) | 49 | 1 |
 | Kogan | author–year, the year in the loc: Kogan 2012, Kogan 2025; "Add. to HSED 2" is Kogan, *Addenda et Corrigenda to the Hamito-Semitic Etymological Dictionary (HSED) by V. Orel and O. Stolbova (II)* (2002), by HSED number; some cells give a page only | 26 |  |
 | Kogan 2011 | author–year key Kogan 2011 | 341 |  |
@@ -1270,7 +1279,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | KRS | Al-Jallad, *Online Corpus of the Inscriptions of Ancient North Arabia (OCIANA)* (2024) |  | 2 |
 | KT | Kane, *Tigrinya-English Dictionary* (2000) | 9 |  |
 | KTU | Dietrich, *Die keilalphabetischen Texte aus Ugarit, Ras Ibn Hani und anderen Orten / The Cuneiform Alphabetic Texts from Ugarit, Ras Ibn Hani and Other Places (KTU³)* (2013) | 41 | 150 |
-| KUB | Keilschrifturkunden aus Boghazköi (CAD U/W p. xviii; EDA I p. 548) |  | 4 |
+| KUB | Keilschrifturkunden aus Boghazköi (CAD U/W p. xviii; EDA I p. 548) |  | 6 |
 | Kuip. | Kuipers, *A Comparative Lexicon of Three Modern Aramaic Dialects* (1983) | 10 |  |
 | LA | Ibn Manẓūr, *Lisān al-ʿArab* | 153 |  |
 | LAMAN | Akman, *LAMAN* (2026) |  | 3 |
@@ -1346,7 +1355,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | PY | Porten, *Textbook of Aramaic Documents from Ancient Egypt* (1993) | 1 |  |
 | Q | al-Fīrūzābādī, *al-Qāmūs al-muḥīṭ* | 7 |  |
 | QAC | Dukes, *Quranic Arabic Corpus (QAC 0.4) + Tanzil Uthmani Text* (2024) | 24 |  |
-| Ranke I | Ranke, *Die ägyptischen Personennamen, Bd. I: Verzeichnis der Namen* (1935) |  | 17 |
+| Ranke I | Ranke, *Die ägyptischen Personennamen, Bd. I: Verzeichnis der Namen* (1935) |  | 19 |
 | Ranke II | Ranke, *Die ägyptischen Personennamen, Bd. II: Einleitung. Form und Inhalt der Namen. Geschichte der Namen. Vergleiche mit andren Namen. Nachträge und Zusätze zu Band I. Umschreibungslisten* (1952) |  | 2 |
 | Rein Bil | Reinisch, *Die Bilin-Sprache. Bd. 2: Wörterbuch der Bilin-Sprache* (1887) | 2 |  |
 | Rein. Bed. | SED [Rein. Bed.]: L. Reinisch, Wörterbuch der Bedauye-Sprache, 1895; no record | 1 |  |
@@ -1380,7 +1389,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | SED II | Militarev, *Semitic Etymological Dictionary, Vol. II: Animal Names* (2005) | 178 | 1 |
 | SEDonline | Kogan, *SEDonline: Semitic Etymological Database (beta)* (2026) | 4223 |  |
 | SEDRA | Kiraz, *Sedra: data release 2026-10-25* (2026) | 8 |  |
-| SigLA | SigLA (sigla.phis.me), Ester Salgarella and Simon Castellan, palaeographic database of Linear A (data/linear-a/sigla_db.md); no record |  | 22 |
+| SigLA | SigLA (sigla.phis.me), Ester Salgarella and Simon Castellan, palaeographic database of Linear A (data/linear-a/sigla_db.md); no record |  | 23 |
 | Sima | Sima, *Tiere, Pflanzen, Steine und Metalle in den altsüdarabischen Inschriften: Eine lexikalische und realienkundliche Untersuchung* (2000) | 6 |  |
 | Sima 2000 | author–year key Sima 2000 | 1 |  |
 | SL | M. Sokoloff. A Syriac Lexicon. Winona Lake, 2009. | 13 |  |
@@ -1402,8 +1411,9 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Tal | Tal, *A Dictionary of Samaritan Aramaic* (2000) | 41 |  |
 | TED | T. L. Kane. Tigrinya‒English Dictionary. Springfield, 2000. | 49 |  |
 | ThotBank | Kilani, *Madùwwe Project - ThotBank dataset* (2020) |  | 1 |
-| TLA | Thesaurus Linguae Aegyptiae / ORAEC, *Open Richly Annotated Egyptian Corpus (ORAEC/TLA)* (2024) | 1 | 2 |
-| TLA lemma | Thesaurus Linguae Aegyptiae / ORAEC, *Open Richly Annotated Egyptian Corpus (ORAEC/TLA)* (2024) | 3 |  |
+| TLA | Thesaurus Linguae Aegyptiae / ORAEC, *Open Richly Annotated Egyptian Corpus (ORAEC/TLA)* (2024) | 1 | 3 |
+| TLA lemma | Thesaurus Linguae Aegyptiae / ORAEC, *Open Richly Annotated Egyptian Corpus (ORAEC/TLA)* (2024) | 3 | 3 |
+| TLHdig | Hethitologie-Portal Mainz, *Thesaurus Linguarum Hethaeorum digitalis* (TLHdig 0.3), by text and line |  | 2 |
 | Tomback | Tomback, *A Comparative Semitic Lexicon of the Phoenician and Punic Languages* (1978) | 6 | 1 |
 | Tonietti 1997 | author–year key Tonietti 1997 | 1 |  |
 | Tropper UG | Tropper, *Ugaritische Grammatik* (2000) | 20 |  |

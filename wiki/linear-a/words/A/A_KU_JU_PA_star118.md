@@ -1,12 +1,13 @@
 ---
 name: wiki/linear-a/words/A/A_KU_JU_PA_star118
 title: "A-KU-JU-PA-*118"
-desc: "Unread (role only): personal name; 1 occurrence(s)."
-tags: ["linear-a", "word", "unread"]
+desc: "ʾakulpa: axe(s); rival: a personal name. Onomasticon personal name; lexicon entry A-KU-JU-PA."
+tags: ["linear-a", "word"]
 kind: "word"
 form: "A-KU-JU-PA-*118"
-datasets: ["onomasticon", "unread_words"]
+datasets: ["onomasticon"]
 attestations: ["PA1"]
+reading: "ʾakulpa"
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -31,22 +32,19 @@ updated: 2026-10-24T16:17:50Z
 
 | Field | Value |
 |---|---|
+| Reading | ʾakulpa |
+| Meaning | axe(s); rival: a personal name |
 | Type | personal name (SPECULATIVE) |
-| Affiliation | unknown (SPECULATIVE) |
-| Evidence | none |
+| Affiliation | anatolian (SPECULATIVE) |
+| Evidence | lexicon_reading |
 | Entry | manual |
 | Occurrences | 1 in 1 documents |
 | Sites | Papourou |
 | Supports | Tablet 1 |
+| Lexicon entry | [[wiki/linear-a/words/A/A_KU_JU_PA\|A-KU-JU-PA]] |
 
 ### Note
 
-PA 1 .1–2 A-KU-JU-PA-\*118 35, the only entry on the tablet (GORILA I 284). No reading.
-
-## Unread
-
-Status **role only** (classed by role only (onomasticon type or translation label), no reading); role personal name.
-
-PA 1 .1–2 A-KU-JU-PA-\*118 35, the only entry on a small tablet from Papoura (GORILA I 284). Undotted on the copie normalisée. The copie tabulaire dots JU, as it dots JU on PH 2 .3 (GORILA I 289) and not on ZA 14 .2 QA-TI-JU (GORILA III 181). \*118 closes the group directly before the numeral, the position in which it stands alone as a unit logogram, and GORILA prints no division. No reading.
+PA 1 .1–2 A-KU-JU-PA-\*118 35, the only entry on the tablet (GORILA I 284). The lexicon reads A-KU-JU-PA ʾakulpa 'axe(s)', \*118 the unit; a personal name is the rival.
 
 <!-- END kaphtor:record -->

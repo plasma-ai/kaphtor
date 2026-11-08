@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D
 desc: "Words whose first sign begins with D."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-05T18:21:11Z
+updated: 2026-11-08T03:41:00Z
 ---
 
 # wiki/linear-a/words/D
@@ -103,7 +103,7 @@ updated: 2026-11-05T18:21:11Z
 
 [[wiki/linear-a/words/D/DI_DI_KA_SE|DI_DI_KA_SE]]: Djed-ka(.s): personal name, 'Her Ka endures' (Egyptian). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2|DI_DI_KO_RA_ME_TA2]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2|DI_DI_KO_RA_ME_TA2]]: Djed-ka-Re meti: personal name, 'The ka of Re endures, the reliable one' (Egyptian). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/D/DI_DI_ZA_KE|DI_DI_ZA_KE]]: Unread (role only): personal name; 1 occurrence(s).
 

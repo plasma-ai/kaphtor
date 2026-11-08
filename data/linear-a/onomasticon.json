@@ -24,10 +24,10 @@
     "auto"
   ],
   "stats": {
-    "total": 372,
+    "total": 373,
     "by_type": {
       "gentilic": 11,
-      "personal_name": 249,
+      "personal_name": 250,
       "theonym": 30,
       "title": 51,
       "toponym": 27,
@@ -35,15 +35,15 @@
     },
     "by_affiliation": {
       "aegean": 7,
-      "anatolian": 1,
-      "egyptian": 12,
+      "anatolian": 2,
+      "egyptian": 13,
       "hurrian": 36,
       "indo_european": 1,
       "semitic": 295,
       "sumerian": 1,
       "unknown": {
-        "total": 19,
-        "intact": 17,
+        "total": 18,
+        "intact": 16,
         "fragmentary": 0,
         "edge_damaged": 2,
         "no_witness": 0,
@@ -51,20 +51,20 @@
       }
     },
     "by_family": {
-      "Egyptian": 12,
+      "Egyptian": 13,
       "Hurro-Urartian": 36,
       "Indo-European": 2,
-      "Semitic": 295,
+      "Semitic": 296,
       "Sumerian": 1,
-      "unassigned": 26
+      "unassigned": 25
     },
     "by_provenance": {
       "auto": 0,
-      "manual": 372
+      "manual": 373
     },
-    "manual_count": 372,
+    "manual_count": 373,
     "auto_count": 0,
-    "total_entries": 372
+    "total_entries": 373
   },
   "entries": [
     {
@@ -4248,14 +4248,14 @@
       "normalized": "akujupa118",
       "type": "personal_name",
       "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
+      "affiliation": "anatolian",
+      "language_family": "Semitic",
       "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
+      "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
+      "lexicon_ref": "A-KU-JU-PA",
+      "reading": "ʾakulpa",
+      "meaning": "axe(s); rival: a personal name",
       "frequency": 1,
       "attestations": [
         "PA1"
@@ -4293,7 +4293,7 @@
           "distance": 0.1
         }
       ],
-      "note": "PA 1 .1–2 A-KU-JU-PA-*118 35, the only entry on the tablet (GORILA I 284). No reading."
+      "note": "PA 1 .1–2 A-KU-JU-PA-*118 35, the only entry on the tablet (GORILA I 284). The lexicon reads A-KU-JU-PA ʾakulpa 'axe(s)', *118 the unit; a personal name is the rival."
     },
     {
       "token": "A-KU-MI-NA",
@@ -6203,6 +6203,47 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "Egyptian ḏd-kꜣ⸗s 'her ka endures', the type of ꜥꜣ-kꜣ⸗s (Ranke I, 58.14). Rival: DI-DI + KA-SE kissē 'throne' (cf. PI-TA-KA-SE). See the lexicon entry."
+    },
+    {
+      "token": "DI-DI-KO-RA-ME-TA₂",
+      "normalized": "didikorameta2",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "egyptian",
+      "language_family": "Egyptian",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "DI-DI-KO-RA-ME-TA₂",
+      "reading": "Djed-ka-Re meti",
+      "meaning": "personal name, 'The ka of Re endures, the reliable one' (Egyptian)",
+      "frequency": 1,
+      "attestations": [
+        "ZA11a"
+      ],
+      "sites": [
+        "Zakros"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [
+        {
+          "word": "PI-*310-A",
+          "reading": "pīnā",
+          "meaning": "face, front",
+          "category": "body"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "Egyptian ḏd-kꜣ-rꜥ (Ranke I, 412.17) with mtj 'the reliable one'. Rival: RA-ME-TA₂ rmṯ 'personnel'. See the lexicon entry."
     },
     {
       "token": "DI-JA-I",

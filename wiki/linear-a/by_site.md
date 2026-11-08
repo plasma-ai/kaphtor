@@ -24,7 +24,7 @@ Every number on this page is computed from the data files.
 | Khania | 226 | 223 | 36 | 69 |
 | Phaistos | 66 | 48 | 9 | 40 |
 | Knossos | 57 | 51 | 13 | 45 |
-| Zakros | 53 | 40 | 5 | 92 |
+| Zakros | 53 | 40 | 5 | 93 |
 | Palaikastro | 25 | 25 | 8 | 36 |
 | Malia | 22 | 11 | 0 | 9 |
 | Thera | 19 | 18 | 2 | 3 |
@@ -68,7 +68,7 @@ Every number on this page is computed from the data files.
 | Larani | 1 | 1 | 0 | 0 |
 | Margiana | 1 | 1 | 0 | 0 |
 | Nerokurou | 1 | 1 | 0 | 1 |
-| Papourou | 1 | 1 | 0 | 0 |
+| Papourou | 1 | 1 | 0 | 1 |
 | Platanos | 1 | 1 | 1 | 4 |
 | Prassa | 1 | 1 | 1 | 3 |
 | Psykhro | 1 | 1 | 1 | 2 |

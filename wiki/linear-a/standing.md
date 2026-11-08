@@ -374,7 +374,7 @@ Every number on this page is computed from the data files.
 
 ## SPECULATIVE
 
-313 entries.
+315 entries.
 
 | Word | Reading | Meaning | Score |
 |---|---|---|---|
@@ -404,6 +404,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/A/A_KA_TA\|A-KA-TA]] | ʾAkkata | personal name; compare Amorite ʾAkkatum | 0.30 |
 | [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | Akipe-te, '(Teššup) brought' (Hurrian personal name, hypocoristic) | 0.30 |
 | [[wiki/linear-a/words/A/A_KI_RO\|A-KI-RO]] | ʾAkiru | ʾAkiru (personal name; Amorite ʾAkir-, cf. ʾikkār 'plowman') | 0.30 |
+| [[wiki/linear-a/words/A/A_KU_JU_PA\|A-KU-JU-PA]] | ʾakulpa | axe(s), weighed in \*118 units; Wanderwort, Hittite kullupi; rivals: a personal name, \*kVlūb- 'basket' | 0.30 |
 | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]] | ha-kummina | the one of the cella (cult title as a roster name) | 0.30 |
 | [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | (Little) kinsman (personal name, hypocoristic); rival ʾAmaya 'maidservant' | 0.30 |
 | [[wiki/linear-a/words/A/A_NA_NU\|A-NA-NU]] | Ḥanānu | personal name Ḥanānu 'gracious'; rival ʿAnānu 'cloud' | 0.30 |
@@ -450,6 +451,7 @@ Every number on this page is computed from the data files.
 | [[wiki/linear-a/words/D/DE_JU_KU\|DE-JU-KU]] | Dalqu | personal name, 'burning, kindled' | 0.30 |
 | [[wiki/linear-a/words/D/DI_star306\|DI-\*306]] | Diʿa | Diʿa 'Knowledge' (personal name) | 0.30 |
 | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] | Djed-ka(.s) | personal name, 'Her Ka endures' (Egyptian) | 0.30 |
+| [[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2\|DI-DI-KO-RA-ME-TA₂]] | Djed-ka-Re meti | personal name, 'The ka of Re endures, the reliable one' (Egyptian) | 0.30 |
 | [[wiki/linear-a/words/D/DI_NE\|DI-NE]] | dīn | judgment (name element) | 0.25 |
 | [[wiki/linear-a/words/D/DI_NI\|DI-NI]] | Dīnī | personal name, 'My judgment' (short form of a √d-y-n name); rival the whole group WA-DI-NI, Ugaritic PN wḏny | 0.30 |
 | [[wiki/linear-a/words/D/DI_RE_DI_NA\|DI-RE-DI-NA]] | ʾaddīr-dīnā | mighty is the verdict (compound sentence name); rival a simplex recipient name | 0.30 |

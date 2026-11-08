@@ -9,7 +9,7 @@ site: "Papourou"
 support: "Tablet"
 period: ""
 translation: "none"
-words: []
+words: ["A-KU-JU-PA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -47,5 +47,9 @@ Unicode (Linear A block):
 ```text
 𐘇𐙂𐘶𐘂𐙈𐄒𐄋
 ```
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/A/A_KU_JU_PA|A-KU-JU-PA]].
 
 <!-- END kaphtor:record -->

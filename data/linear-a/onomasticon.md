@@ -10,8 +10,8 @@ updated: 2026-10-22T18:14:10Z
 
 `onomasticon.json` holds `schema_version`, `description`, the closed lists `affiliation_classes`, `types` and
 `provenance_levels`, `stats` (counts by type, affiliation, family and provenance) and `entries`, a list keyed by `token`. It
-holds names only: a word the lexicon reads as a commodity, a verb or a phrase has no entry here. 21 entries carry no
-reading: groups the documents set as names (20 personal names, one toponym), affiliation `unknown`. Readings are di Mino's unless the note names another scholar.
+holds names only: a word the lexicon reads as a commodity, a verb or a phrase has no entry here. 18 entries carry no
+reading: groups the documents set as personal names, affiliation `unknown`. Readings are di Mino's unless the note names another scholar.
 
 | Field | Content |
 | --- | --- |

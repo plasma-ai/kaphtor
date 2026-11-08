@@ -47,6 +47,7 @@ Palaeographic split with TA confirmed by PK1 co-occurrence. A t- value is secure
 
 | Word | Reading | Confidence |
 |---|---|---|
+| [[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2\|DI-DI-KO-RA-ME-TA₂]] | Djed-ka-Re meti | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_RE_TA2\|KI-RE-TA₂]] | Kirēta / Kret | PROBABLE |
 | [[wiki/linear-a/words/K/KI_RI_TA2\|KI-RI-TA₂]] | Kirīta | PROBABLE |
 | [[wiki/linear-a/words/M/MA_RI_TA2\|MA-RI-TA₂]] | marʾ(i)tā | SPECULATIVE |

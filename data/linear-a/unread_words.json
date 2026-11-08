@@ -8,17 +8,17 @@
   },
   "stats": {
     "corpus_words": 729,
-    "read": 539,
-    "unread_listed": 370,
+    "read": 541,
+    "unread_listed": 368,
     "by_status": {
       "edge_overlap": 19,
-      "unread": 141,
-      "role_only": 210
+      "unread": 140,
+      "role_only": 209
     },
-    "hapax": 356,
+    "hapax": 354,
     "repeated": 14,
     "cross_site": 4,
-    "surface_damaged": 264,
+    "surface_damaged": 263,
     "excluded_tokens": {
       "single-sign": 1416,
       "numeral/punct": 1553,
@@ -870,21 +870,6 @@
       "note": "IO Za <1>, a limestone votive ladle from the Juktas summit sanctuary, the inscription painted inside it, now lost and never seen by GORILA. Evans found it damaged by fire, with two legible signs and traces of a third (PM I 623–624, fig. 461). Younger prints A-JE-SA with SA marked doubtful (Younger, Linear A Texts). The third sign rests on traces. Not readable."
     },
     {
-      "word": "A-KU-JU-PA-*118",
-      "signs": 5,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "PA1"
-      ],
-      "sites": [
-        "Papourou"
-      ],
-      "cross_site": false,
-      "note": "PA 1 .1–2 A-KU-JU-PA-*118 35, the only entry on a small tablet from Papoura (GORILA I 284). Undotted on the copie normalisée. The copie tabulaire dots JU, as it dots JU on PH 2 .3 (GORILA I 289) and not on ZA 14 .2 QA-TI-JU (GORILA III 181). *118 closes the group directly before the numeral, the position in which it stands alone as a unit logogram, and GORILA prints no division. No reading."
-    },
-    {
       "word": "A-KU-TU-*361",
       "signs": 4,
       "status": "role_only",
@@ -1421,25 +1406,6 @@
         ]
       },
       "note": "ZA 26a .1 SI-TE · DI-DI-[, the second DI without its upper horizontal stroke, the word running on into the break (GORILA III 203). The word may continue as DI-DI-KO-RA-ME-TA₂ (ZA 11a), DI-DI-KA-SE (ZA Zb 3) or DI-DI-ZA-KE (HT 1). Sole attestation. Not readable."
-    },
-    {
-      "word": "DI-DI-KO-RA-ME-TA₂",
-      "signs": 6,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "ZA11a"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "ZA11a": [
-          "interior"
-        ]
-      },
-      "note": "ZA 11a .1 DI-DI-KO-RA-ME⌊ ⌋TA₂ · *516 · GRA+PA, all six syllabograms undotted, a small destroyed space before TA₂ that the editors say could have held a word divider (GORILA III 173). Segmentation unresolved. Sole attestation. No reading."
     },
     {
       "word": "DI-DI-ZA-KE",

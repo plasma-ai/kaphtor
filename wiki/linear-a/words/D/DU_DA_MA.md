@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). The same name has the consonants d-d-m in three scripts: Egyptian d-ȝ-d-ȝ-m of the Keftiu writing board and Linear B di-du-me, di-du-mo (Dautais & Gabolde 2025, 14–15). One attestation. See TA-DI.
+HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). One attestation. See TA-DI.
 
 ### Cognates
 
@@ -49,7 +49,7 @@ HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written ov
 |---|---|
 | Hebrew | dûdāʾîm 'mandrakes, love-apples' (Gen 30:14; Song 7:14), the u-ā form of √d-w-d |
 | Amorite | DAWD-U\*MA, DA-DU-MA (Gelb 1980, no. 1433); DAWD-A (no. 1413) |
-| Egyptian | {d-j}-d-ȝ-d-ȝ-m{a}, an 'Aegean' beneficiary of a wine account, BM EA 5647 v. I 3a (Dautais & Gabolde 2025, 14–15) |
+| Egyptian | {d-j}-d-ȝ-d-ȝ-m{a}, an 'Aegean' beneficiary of a wine account, BM EA 5647 v. I 3a (Dautais & Gabolde 2025, 14–15); Schneider reads it Semitic \*Mudādum 'Beloved' (apud Dautais & Gabolde 2025, 14) |
 | Linear B | di-du-me (KN L 588), di-du-mo (KN X 5751, MY Oe 129) (Dautais & Gabolde 2025, Table 1) |
 
 ### Source

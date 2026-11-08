@@ -94,6 +94,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | kkkʕnt | k-k-k + ʿ-n-t | [[wiki/linear-a/words/K/KA_KU_NE_TE\|KA-KU-NE-TE]] |
 | kkr | ikkaru; k-k-r | [[wiki/linear-a/words/I/I_KI_RA\|I-KI-RA]], [[wiki/linear-a/words/K/KE_KI_RU\|KE-KI-RU]], [[wiki/linear-a/words/K/KI_KI_RA_JA\|KI-KI-RA-JA]], [[wiki/linear-a/words/Q/QA_KU_RE\|QA-KU-RE]], [[wiki/linear-a/words/Q/QE_KU_RE\|QE-KU-RE]] |
 | kll | k-l-l | [[wiki/linear-a/words/K/KU\|KU]], [[wiki/linear-a/words/K/KU_RA\|KU-RA]], [[wiki/linear-a/words/K/KU_RE_JU\|KU-RE-JU]], [[wiki/linear-a/words/K/KU_RO\|KU-RO]] |
+| klp | k-l-p | [[wiki/linear-a/words/A/A_KU_JU_PA\|A-KU-JU-PA]] |
 | klʔ | k-l-ʾ | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] |
 | kmm | k-m-m | [[wiki/linear-a/words/A/A_KU_MI_NA\|A-KU-MI-NA]], [[wiki/linear-a/words/K/KO_MU\|KO-MU]] |
 | kmn | k-m-n | [[wiki/linear-a/words/K/KU_MI_NA\|KU-MI-NA]] |
@@ -392,6 +393,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | φαιστόςprgrksffxιστbks | Φαιστός (Pre-Greek, suffix -ιστ-; Beekes 2014, 39, 164) | [[wiki/linear-a/words/P/PA_I_TO\|PA-I-TO]] |
 | ḏ | ḏ | [[wiki/linear-a/words/D/DA_TU\|DA-TU]], [[wiki/linear-a/words/D/DU\|DU]], [[wiki/linear-a/words/Z/ZA_TI\|ZA-TI]] |
 | ḏdkꜣ | ḏd-kꜣ | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] |
+| ḏdkꜣrꜥmtj | ḏd-kꜣ-rꜥ + mtj | [[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2\|DI-DI-KO-RA-ME-TA₂]] |
 | ḏlwy | ḏ + l-w-y | [[wiki/linear-a/words/D/DU_RU_WI\|DU-RU-WI]] |
 | ḏmny | ḏ + m-n-y | [[wiki/linear-a/words/D/DA_MI_NU\|DA-MI-NU]] |
 | ḏnqd | ḏ + n-q-d | [[wiki/linear-a/words/D/DA_NE_KU_TI\|DA-NE-KU-TI]] |

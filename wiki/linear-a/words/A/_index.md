@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-07T03:23:59Z
+updated: 2026-11-08T03:41:00Z
 ---
 
 # wiki/linear-a/words/A
@@ -71,7 +71,9 @@ updated: 2026-11-07T03:23:59Z
 
 [[wiki/linear-a/words/A/A_KO_A_NE|A_KO_A_NE]]: ha-kōhan: the priest (proposed title after PI-TE-RI). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_KU_JU_PA_star118|A_KU_JU_PA_star118]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/A/A_KU_JU_PA|A_KU_JU_PA]]: ʾakulpa: axe(s), weighed in *118 units; Wanderwort, Hittite kullupi; rivals: a personal name, *kVlūb- 'basket'. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/A/A_KU_JU_PA_star118|A_KU_JU_PA_star118]]: ʾakulpa: axe(s); rival: a personal name. Onomasticon personal name; lexicon entry A-KU-JU-PA.
 
 [[wiki/linear-a/words/A/A_KU_MI_NA|A_KU_MI_NA]]: ha-kummina: the one of the cella (cult title as a roster name). Lexicon, SPECULATIVE (tier 1).
 

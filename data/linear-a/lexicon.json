@@ -1541,6 +1541,43 @@
       "source": "Gordon 1966; Rendsburg 2026"
     },
     {
+      "word": "A-KU-JU-PA",
+      "reading": "ʾakulpa",
+      "meaning": "axe(s), weighed in *118 units; Wanderwort, Hittite kullupi; rivals: a personal name, *kVlūb- 'basket'",
+      "root": "k-l-p",
+      "cognates": {
+        "Akkadian": "kalappu 'axe', counted by weight: ka-la-pu ša 2 GÍN 'an axe of two shekels' (CAD K 66)",
+        "Hebrew": "kêlappôt 'axes' (Ps 74:6; HALOT 472), from Akkadian",
+        "Aramaic": "kulbā 'axe' (CAL; Tg. Ps 74:5)",
+        "Mandaic": "kulba 'pickaxe' (Drower–Macuch 207a, cited by HALOT 472)",
+        "Arabic": "kullāb 'hook' (Fraenkel 87, cited by HALOT 472)",
+        "Hittite": "kullupi 'a kind of hoe', ᵁᴿᵁᴰᵁ (KBo 3.33 II 10′; KUB 7.41 obv. 5)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "commodity",
+      "tags": [
+        "administrative",
+        "commodity",
+        "hapax",
+        "loanword",
+        "metal",
+        "noun",
+        "tool"
+      ],
+      "language_layer": "Anatolian",
+      "language_family": "Semitic",
+      "attestations": [
+        "PA1"
+      ],
+      "note": "PA 1: A-KU-JU-PA-*118 35, the tablet's only entry (GORILA I 284). *118 closes the group before the numeral, as in SI+ME-KI-*118 1¾ and *539-*118 1 on HT 24b, where it takes fractions; Linear B writes the talent with *118. KU-JU writes kul, as in I-KU-JU-TI ʾukulti (ZA 6b), SU-JU-TA sulta (KN 22a) and ZU-JU-PU₂ ṯulpu (HT 25a). Hittite ᵁᴿᵁᴰᵁkullupi, a copper hoe or axe (KBo 3.33 II 10′; KUB 7.41 obv. 5), and Aramaic kulbā share the kul-; Akk. kalappu has kal-. Rabin 1963, 124f. (cited by HALOT 472) derives the word from the Hittite. A Wanderwort of the metal trade. One attestation.",
+      "source": "di Mino; CAD K; HALOT; CAL; TLHdig",
+      "corpus_forms": [
+        "A-KU-JU-PA-*118"
+      ]
+    },
+    {
       "word": "A-KU-MI-NA",
       "reading": "ha-kummina",
       "meaning": "the one of the cella (cult title as a roster name)",
@@ -11079,8 +11116,33 @@
       "attestations": [
         "ZAZb3"
       ],
-      "note": "ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6, personal_names_id 142608414); DI-DI writes ḏd, SE ⸗s. Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1) and DI-DI-KO-RA-ME-TA₂ (ZA 11a). One attestation.",
+      "note": "ZA Zb 3 VIN 32 / DI-DI-KA-SE A-SA-MU-NE A-SE, the dedicator of wine to Eshmun. Egyptian ḏd-kꜣ⸗s 'her ka endures', the name type of ꜥꜣ-kꜣ⸗s 'her ka is great' (Ranke I, 58.14) and wꜣḏ-kꜣ.w⸗s 'her ka is flourishing' (PNM v6, personal_names_id 142608414); DI-DI writes ḏd, SE ⸗s. Rival: Semitic DI-DI + KA-SE kissē 'throne', KA-SE as in PI-TA-KA-SE bīt-kissē (HT 21), DI-DI as in DI-DI-ZA-KE (HT 1). One attestation.",
       "source": "di Mino; Ranke; Ilin-Tomich 2025"
+    },
+    {
+      "word": "DI-DI-KO-RA-ME-TA₂",
+      "reading": "Djed-ka-Re meti",
+      "meaning": "personal name, 'The ka of Re endures, the reliable one' (Egyptian)",
+      "root": "ḏd-kꜣ-rꜥ + mtj",
+      "cognates": {
+        "Egyptian": "ḏd-kꜣ-rꜥ, a man's name (Ranke I, 412.17); mtj 'the reliable one' (TLA lemma 853566)"
+      },
+      "tier": 1,
+      "confidence": "SPECULATIVE",
+      "confidence_score": 0.3,
+      "semantic_field": "personal_name",
+      "tags": [
+        "compound",
+        "hapax",
+        "personal_name"
+      ],
+      "language_layer": "Middle Egyptian",
+      "language_family": "Egyptian",
+      "attestations": [
+        "ZA11a"
+      ],
+      "note": "ZA 11a .1 DI-DI-KO-RA-ME⌊ ⌋TA₂ · *516 ·, the holder of an account of grain, wine and olives; the destroyed space before TA₂ could have held a divider (GORILA III 173), and SigLA reads one word. Egyptian ḏd-kꜣ-rꜥ 'the ka of Re endures' (Ranke I, 412.17) with mtj 'the reliable one' (TLA lemma 853566): DI-DI writes ḏd as in DI-DI-KA-SE, KO kꜣ as in KO-SA-I-TI, ME-TA₂ mtj on TA₂'s value t. A locally made scarab from Sidon names an MB IIB lord Ḏdkꜣrꜥ, 'beloved of Seth, lord of Iꜣy' (Mourad 2014, I, 319; II, 149). Rival: DI-DI-KO · RA-ME-TA₂, Egyptian rmṯ 'people, personnel' (TLA lemma 450402), which leaves DI-DI-KO unread. One attestation. See DU-DA-MA.",
+      "source": "di Mino; Ranke; Mourad 2014; TLA"
     },
     {
       "word": "A-MA-WA-SI",
@@ -12622,7 +12684,8 @@
       "note": "A commodity logogram, wine: 52 standalone at 10 sites, the widest distribution of any commodity. On HT 89 it follows KU-RO in a separate commodity section, the numeral 6 damaged. wayn 'wine': Heb. yayin, Ug. yn, Gk. οἶνος < *woinos. VIN+WA (twice, HT 27b) takes WA as the complement for the wa- of *wayn-; Canaanite is y-initial (Ug. yn; Amarna ye-ni, EA 84:44; Aphek ye-nu; GlOS 2, 366), so the complement writes the form before the shift. VIN, GRA and SA on HT 27b make the set of wine, grain and beer. Gordon's ya-ne 'wine' (1966, §123) is KN Zb 4, whose corrected reading is JA-SI (see JA-SI). Geʿez wayn 'wine; vine, grapes' and Sabaic wyn 'vineyard' keep the w- (K0457). Weak point: in Linear A the *wayn- etymology rests on the VIN+WA complement alone, the commodity function on everything else. See JI-NU-MA-RE.",
       "source": "di Mino; GlOS 2",
       "corpus_forms": [
-        "AB131/VINA"
+        "AB131/VINA",
+        "VINa"
       ]
     },
     {
@@ -17420,7 +17483,7 @@
       "cognates": {
         "Hebrew": "dûdāʾîm 'mandrakes, love-apples' (Gen 30:14; Song 7:14), the u-ā form of √d-w-d",
         "Amorite": "DAWD-U*MA, DA-DU-MA (Gelb 1980, no. 1433); DAWD-A (no. 1413)",
-        "Egyptian": "{d-j}-d-ȝ-d-ȝ-m{a}, an 'Aegean' beneficiary of a wine account, BM EA 5647 v. I 3a (Dautais & Gabolde 2025, 14–15)",
+        "Egyptian": "{d-j}-d-ȝ-d-ȝ-m{a}, an 'Aegean' beneficiary of a wine account, BM EA 5647 v. I 3a (Dautais & Gabolde 2025, 14–15); Schneider reads it Semitic *Mudādum 'Beloved' (apud Dautais & Gabolde 2025, 14)",
         "Linear B": "di-du-me (KN L 588), di-du-mo (KN X 5751, MY Oe 129) (Dautais & Gabolde 2025, Table 1)"
       },
       "tier": 2,
@@ -17436,7 +17499,7 @@
       "attestations": [
         "HT6b"
       ],
-      "note": "HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). The same name has the consonants d-d-m in three scripts: Egyptian d-ȝ-d-ȝ-m of the Keftiu writing board and Linear B di-du-me, di-du-mo (Dautais & Gabolde 2025, 14–15). One attestation. See TA-DI.",
+      "note": "HT 6b .4 DU-DA-MA 66, the largest entry in a list of names, on a face written over an erasure; DU-DA-MA itself shows no undertext (GORILA I 13). dū-dā-ma, the vowels of Heb. dûdāʾîm 'love-apples', √d-w-d 'beloved', + -ma as in the Amorite name DA-DU-MA, Dawdu-ma (Gelb 1980, no. 1433). One attestation. See TA-DI.",
       "source": "di Mino; Dautais & Gabolde 2025, 14–15; Gelb 1980"
     },
     {
