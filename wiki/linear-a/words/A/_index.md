@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/A
 desc: "Words whose first sign begins with A."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-08T03:41:00Z
+updated: 2026-11-09T22:54:29Z
 ---
 
 # wiki/linear-a/words/A
@@ -147,7 +147,9 @@ updated: 2026-11-08T03:41:00Z
 
 [[wiki/linear-a/words/A/A_RE_DA_I|A_RE_DA_I]]: Ar-tae: Ar-tae (personal name; Hurrian ar- 'give'). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU|A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU]]: […] ʾAyaku: ring text ending with the personal name ʾAyaku. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/A/A_RE_NE|A_RE_NE]]: ʾarān: coffin, chest; rival Ḥōrān (Horon). Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU|A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU]]: ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku: 'Coffin of Sidon. Weeping in the house. My head you lift up, O ʾAyaku': a lament. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/A/A_RE_PI_RE_NA|A_RE_PI_RE_NA]]: ʾa-repiʾ-rennā: Healer of Jubilation (Eshmun epithet). Lexicon, SPECULATIVE (tier 1).
 
@@ -183,7 +185,7 @@ updated: 2026-11-08T03:41:00Z
 
 [[wiki/linear-a/words/A/A_SA_SA_RA|A_SA_SA_RA]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/A/A_SA_SA_RA_ME|A_SA_SA_RA_ME]]: ʾaššaram: uprightly, in righteousness (variant of yaššaram, ʾa- for ya-). Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/A/A_SA_SA_RA_ME|A_SA_SA_RA_ME]]: ʾaššaram: in righteousness (variant of yaššaram, ʾa- for ya-). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/A/A_SA_SU_MA_I_SE|A_SA_SU_MA_I_SE]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -219,13 +221,13 @@ updated: 2026-11-08T03:41:00Z
 
 [[wiki/linear-a/words/A/A_TA_DE|A_TA_DE]]: ʾaʿtid(u): I make ready (1cs prefix form). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A_TA_I_star301_WA_E]]: ʾatainawē: I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY). Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/A/A_TA_I_star301_WA_E|A_TA_I_star301_WA_E]]: ʾatainawē: I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY, Palaikastro spelling). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA|A_TA_I_star301_WA_JA]]: ʾatainawaya: I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/A/A_TA_NA_JE|A_TA_NA_JE]]: ʾatanāya: My Giver / My Athena—1cs possessive on divine epithet (√y-t-n 'to give' + -ya 'my'). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/A/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with I-y > ʾ; the etymon of Athena (di Mino, Ya Diktu 20). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/A/A_TA_NA_TE|A_TA_NA_TE]]: ʾAtanat: she who gives (the name behind Athena). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/A/A_TA_NA_q_broken_end|A_TA_NA_q_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 

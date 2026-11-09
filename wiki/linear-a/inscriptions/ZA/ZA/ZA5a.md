@@ -78,7 +78,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Ration list: wheat and wine distributed to priests and a named recipient  Ration tablet from Zakros. Wheat (ḥiṭṭa) and wine head the tablet, then priests (7 units) and an opaque recipient (6 units), followed by semolina. Commodity pattern (wine + grain + priestly recipients) parallels HT89, HT95a/b.
+Context: Ration list: wheat and wine distributed to priests and a named recipient
+
+Ration tablet from Zakros. Wheat (ḥiṭṭa) and wine head the tablet, then priests (7 units) and an opaque recipient (6 units), followed by semolina. Commodity pattern (wine + grain + priestly recipients) parallels HT89, HT95a/b.
 
 ### Source
 

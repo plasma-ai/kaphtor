@@ -61,7 +61,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Painted pithos label, LMIB. Single continuous sign sequence, no word dividers.  Pithos disbursement label. The -SI-JA-SE suffix recurs on KI-TA-NA-SI-JA-SE (PEZb3), establishing it as a productive administrative formula on commodity nouns.
+Context: Painted pithos label, LMIB. Single continuous sign sequence, no word dividers.
+
+Pithos disbursement label. The -SI-JA-SE suffix recurs on KI-TA-NA-SI-JA-SE (PEZb3), establishing it as a productive administrative formula on commodity nouns.
 
 ### Source
 

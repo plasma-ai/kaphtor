@@ -43,6 +43,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhan | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_DI_KO_RA_ME_TA2\|DI-DI-KO-RA-ME-TA₂]] | Djed-ka-Re meti | SPECULATIVE |
+| [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_JA\|KO-JA]] | Qōya | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_MU\|KO-MU]] | kummu | SPECULATIVE |
 | [[wiki/linear-a/words/K/KO_RU\|KO-RU]] | kōr | SPECULATIVE |

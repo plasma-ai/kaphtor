@@ -61,7 +61,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary libation formula—Syme variant  MMIIIB date makes this among the earliest formula attestations. I-DA-MI in position 2 names Mount Ida, with the emphatic enclitic -mi, as JA-DI-KI-TU names Dikte at Iouktas and I-DA-A Ida at Kophinas. The trailing JA- at the break hints at a continuation into the standard formula sequence.
+Context: Peak sanctuary libation formula—Syme variant
+
+MMIIIB date makes this among the earliest formula attestations. I-DA-MI in position 2 names Mount Ida, with the emphatic enclitic -mi, as JA-DI-KI-TU names Dikte at Iouktas and I-DA-A Ida at Kophinas. The trailing JA- at the break hints at a continuation into the standard formula sequence.
 
 ### Source
 

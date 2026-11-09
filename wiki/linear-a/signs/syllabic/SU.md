@@ -63,9 +63,9 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SU_KI_RI_TA\|SU-KI-RI-TA]] | Sukrita | CANDIDATE |
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
 | [[wiki/linear-a/words/S/SU_PA3_RA\|SU-PA₃-RA]] | subāra | PROBABLE |
-| [[wiki/linear-a/words/S/SU_PU\|SU-PU]] | sapu | CONFIRMED |
+| [[wiki/linear-a/words/S/SU_PU\|SU-PU]] | suppu | CONFIRMED |
 | [[wiki/linear-a/words/S/SU_PU2\|SU-PU₂]] | Ṣubʾu | SPECULATIVE |
-| [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | sapu buṭni | CANDIDATE |
+| [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | suppu buṭni | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] | tanašutē-kī | CANDIDATE |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_SU_PU2\|TU-SU-PU₂]] | Tešub | CANDIDATE |

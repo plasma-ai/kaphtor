@@ -26,7 +26,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | bdd | b-d-d | [[wiki/linear-a/words/P/PU_DE\|PU-DE]] |
 | bdl | b-d-l | [[wiki/linear-a/words/P/PI_TA_RA\|PI-TA-RA]] |
 | bhq | √b-h-q | [[wiki/linear-a/words/W/WBQY\|WBQY]] |
-| bky | b-k-y | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] |
+| bky | b-k-y | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]], [[wiki/linear-a/words/P/PI_KE\|PI-KE]] |
 | bkṯ | b + k-ṯ | [[wiki/linear-a/words/P/PI_KU_ZU\|PI-KU-ZU]] |
 | bntpsbntdghtrpnypspnfckbbdrt | b-n-t (PS \*bint- "daughter") / p-n-y (PS \*pan- "face") / Kubaba derivative | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] |
 | bny | b-n-y | [[wiki/linear-a/words/P/PA3_NI\|PA₃-NI]], [[wiki/linear-a/words/P/PA3_NI_NA\|PA₃-NI-NA]], [[wiki/linear-a/words/P/PA3_NI_WI\|PA₃-NI-WI]] |
@@ -37,6 +37,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | btkl | b-t + k-l | [[wiki/linear-a/words/P/PO_TO_KU_RO\|PO-TO-KU-RO]] |
 | byd | b-y-d | [[wiki/linear-a/words/star/star333_DI_SU_KA\|\*333-DI-SU-KA]] |
 | bydnšk | b-y-d + n-š-k | [[wiki/linear-a/words/star/star333_DI_NA_SU_KA\|\*333-DI-NA-SU-KA]] |
+| byt | b-y-t | [[wiki/linear-a/words/P/PA_JA_TA\|PA-JA-TA]] |
 | bytksʔ | b-y-t + k-s-ʾ | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]], [[wiki/linear-a/words/P/PI_TA_KE_SI\|PI-TA-KE-SI]] |
 | bśm | b-ś-m | [[wiki/linear-a/words/star/star333_SA_MU\|\*333-SA-MU]] |
 | bʕl | b-ʿ-l | [[wiki/linear-a/words/P/PU_RA2\|PU-RA₂]] |
@@ -161,7 +162,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ntk | n-t-k | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]], [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] |
 | ntn | n-t-n | [[wiki/linear-a/words/M/MA_TI_TI\|MA-TI-TI]], [[wiki/linear-a/words/N/NA_TU_star301_NE\|NA-TU-\*301-NE]] |
 | nwr | n-w-r | [[wiki/linear-a/words/star/star47_NU_RA_JA\|\*47-NU-RA-JA]], [[wiki/linear-a/words/star/star301_U_RA\|\*301-U-RA]], [[wiki/linear-a/words/J/JA_I_NWA_RO\|JA-I-NWA-RO]], [[wiki/linear-a/words/N/NU_RO\|NU-RO]] |
-| nwy | n-w-y | [[wiki/linear-a/words/star/star301\|\*301]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]], [[wiki/linear-a/words/I/I_NA_WA\|I-NA-WA]], [[wiki/linear-a/words/N/NU_WI\|NU-WI]] |
+| nwy | n-w-y | [[wiki/linear-a/words/star/star301\|\*301]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_E\|A-TA-I-\*301-WA-E]], [[wiki/linear-a/words/A/A_TA_I_star301_WA_JA\|A-TA-I-\*301-WA-JA]], [[wiki/linear-a/words/I/I_NA_WA\|I-NA-WA]], [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]], [[wiki/linear-a/words/N/NU_WI\|NU-WI]] |
 | nyb | n-y-b | [[wiki/linear-a/words/N/NI_PI\|NI-PI]] |
 | nynplrlcllctnrcsn | n-y-n + plural/collective -ūn or case -un | [[wiki/linear-a/words/N/NI_NU_NI\|NI-NU-NI]] |
 | nśʔ | √n-ś-ʾ | [[wiki/linear-a/words/S/S3T\|S3T]] |
@@ -171,6 +172,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | pdr | p-d-r | [[wiki/linear-a/words/star/star304\|\*304]], [[wiki/linear-a/words/star/star304_plus_PA\|\*304+PA]] |
 | pdy | p-d-y | [[wiki/linear-a/words/P/PA_DE\|PA-DE]] |
 | pkk | p-k(-k) | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] |
+| png | p-n-g | [[wiki/linear-a/words/P/PU_NI_KA\|PU-NI-KA]] |
 | pnm | p-n-m | [[wiki/linear-a/words/I/I_PI_NA_MI_NA\|I-PI-NA-MI-NA]] |
 | pnq | p-n-q | [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] |
 | pny | p-n-y | [[wiki/linear-a/words/I/I_PI_NA_MA\|I-PI-NA-MA]], [[wiki/linear-a/words/P/PI_star310_A\|PI-\*310-A]] |
@@ -211,6 +213,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | qwm | q-w-m | [[wiki/linear-a/words/M/MA_KA_I_SE\|MA-KA-I-SE]], [[wiki/linear-a/words/M/MA_KA_I_TA\|MA-KA-I-TA]] |
 | qwmnwr | q-w-m + n-w-r | [[wiki/linear-a/words/Q/QA_MI_star47_NA_RA\|QA-MI-\*47-NA-RA]] |
 | qwymrtqwjnglssd | q-w-y (Amorite QWJ, unglossed) | [[wiki/linear-a/words/J/JA_KU\|JA-KU]], [[wiki/linear-a/words/J/JA_KU_TI\|JA-KU-TI]], [[wiki/linear-a/words/K/KO_JA\|KO-JA]] |
+| qwyʔdd | q-w-y + ʾ-d-d | [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] |
 | qyn | q-y-n | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] |
 | qyp | q-y-p | [[wiki/linear-a/words/Q/QE_PU\|QE-PU]] |
 | qyš | q-y-š | [[wiki/linear-a/words/U/U_star34_SI\|U-\*34-SI]] |
@@ -234,9 +237,10 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | rtm | r-t-m | [[wiki/linear-a/words/R/RI_TA_MA\|RI-TA-MA]] |
 | rtq | r-t-q | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] |
 | rwd | r-w-d | [[wiki/linear-a/words/R/RU_DI\|RU-DI]] |
-| rwm | r-w-m | [[wiki/linear-a/words/J/JA_RE_MI\|JA-RE-MI]], [[wiki/linear-a/words/J/JA_RU_MA_NE\|JA-RU-MA-NE]], [[wiki/linear-a/words/R/RU_MA\|RU-MA]], [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]], [[wiki/linear-a/words/T/TE\|TE]] |
+| rwm | r-w-m | [[wiki/linear-a/words/J/JA_RE_MI\|JA-RE-MI]], [[wiki/linear-a/words/J/JA_RU_MA_NE\|JA-RU-MA-NE]], [[wiki/linear-a/words/R/RU_MA\|RU-MA]], [[wiki/linear-a/words/R/RU_MA_TA\|RU-MA-TA]], [[wiki/linear-a/words/T/TE\|TE]], [[wiki/linear-a/words/T/TE_RI_MU\|TE-RI-MU]] |
+| rwy | r-w-y | [[wiki/linear-a/words/R/RU_JA\|RU-JA]] |
 | rzn | r-z-n | [[wiki/linear-a/words/R/RU_ZU_NA\|RU-ZU-NA]] |
-| rʔš | r-ʔ-š; r-ʾ-š | [[wiki/linear-a/words/R/RI_SU_MA\|RI-SU-MA]], [[wiki/linear-a/words/R/RO\|RO]] |
+| rʔš | r-ʔ-š; r-ʾ-š | [[wiki/linear-a/words/R/RI_SE\|RI-SE]], [[wiki/linear-a/words/R/RI_SU_MA\|RI-SU-MA]], [[wiki/linear-a/words/R/RO\|RO]] |
 | rʕy | r-ʿ-y | [[wiki/linear-a/words/R/RO_E\|RO-E]] |
 | rʕydqq | r-ʿ-y + d-q-q | [[wiki/linear-a/words/R/RA_O_DI_KI\|RA-O-DI-KI]] |
 | rḥl | r-ḥ-l | [[wiki/linear-a/words/R/RA_star314_RA\|RA-\*314-RA]] |
@@ -319,6 +323,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | šqy | š-q-y | [[wiki/linear-a/words/S/SI_KA_IOZa6\|SI-KA (IOZa6)]] |
 | šrk | š-r-k | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] |
 | šrr | š-r-r | [[wiki/linear-a/words/S/SA_RA\|SA-RA]], [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]], [[wiki/linear-a/words/S/SA_RO\|SA-RO]], [[wiki/linear-a/words/S/SA_RU\|SA-RU]] |
+| štl | š-t-l | [[wiki/linear-a/words/S/SI_TU_RA2\|SI-TU-RA₂]] |
 | šty | š-t-y | [[wiki/linear-a/words/S/SI_TE_TU\|SI-TE-TU]], [[wiki/linear-a/words/T/TA_NA_SU_TE_KE\|TA-NA-SU-TE-KE]] |
 | šwq | š-w-q | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] |
 | šwʕ | š-w-ʿ | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] |
@@ -345,6 +350,8 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ʔmt | ʾ-m-t | [[wiki/linear-a/words/A/A_MI_TA\|A-MI-TA]] |
 | ʔnšpsʔnš | ʾ-n-š (PS \*(ʾi-)nVš-) | [[wiki/linear-a/words/E/E_NA_SI\|E-NA-SI]] |
 | ʔp | ʾ-p | [[wiki/linear-a/words/A/A_PI\|A-PI]] |
+| ʔrn | ʾ-r-n | [[wiki/linear-a/words/A/A_RE_NE\|A-RE-NE]] |
+| ʔrnṣdnbkybytrʔšrwmʔy | ʾ-r-n · ṣ-d-n · b-k-y · b-y-t · r-ʾ-š · r-w-m · ʾ-y | [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] |
 | ʔrrprgrk | ʾArura (Pre-Greek) | [[wiki/linear-a/words/A/A_RU_RA\|A-RU-RA]] |
 | ʔrwdprgrknnsmtcprnthhlt | ʾArwad (Pre-Greek; non-Semitic per Noth, HALOT 85) | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] |
 | ʔry | ʾ-r-y | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] |
@@ -363,7 +370,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ʔwldyn | ʾ-w-l + d-y-n | [[wiki/linear-a/words/O/O_RA2_DI_NE\|O-RA₂-DI-NE]] |
 | ʔwr | ʾ-w-r | [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] |
 | ʔwrlwy | ʾ-w-r + l-w-y | [[wiki/linear-a/words/U/U_RE_WI\|U-RE-WI]] |
-| ʔy | ʾ-y | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]], [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] |
+| ʔy | ʾ-y | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] |
 | ʔyslnd | ʾ-y "island" | [[wiki/linear-a/words/A/A_JE\|A-JE]], [[wiki/linear-a/words/I/I_JA\|I-JA]], [[wiki/linear-a/words/I/I_JA_TE\|I-JA-TE]] |
 | ʔšddprgrknsb | ʾAšdōd (Pre-Greek) + -ī (nisbe) | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] |
 | ʔšmn | ʾ-š-m-n | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] |
@@ -419,6 +426,7 @@ Entries grouped by a consonantal key of their `root` field. The key is lossy: it
 | ḫtn | ḫ-t-n | [[wiki/linear-a/words/star/star21F_TU_NE\|\*21F-TU-NE]] |
 | ḳdr | ḳ-d-r | [[wiki/linear-a/words/K/KI_DA_RO\|KI-DA-RO]] |
 | ṣbw | ṣ-b-w | [[wiki/linear-a/words/S/SU_PU2\|SU-PU₂]] |
+| ṣdn | ṣ-d-n | [[wiki/linear-a/words/S/SI_DI_star301\|SI-DI-\*301]] |
 | ṣdq | ṣ-d-q | [[wiki/linear-a/words/A/A_SA_DA_KA\|A-SA-DA-KA]] |
 | ṣdqkmm | ṣ-d-q + k-m-m | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] |
 | ṣll | ṣ-l-l | [[wiki/linear-a/words/S/SI_RU\|SI-RU]] |

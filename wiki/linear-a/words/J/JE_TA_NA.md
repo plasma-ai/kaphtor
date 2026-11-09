@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JE_TA_NA
 title: "JE-TA-NA"
-desc: "Yatana: He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555). Lexicon, PROBABLE (tier 3)."
+desc: "Yatana: he gave (personal name). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
 kind: "word"
 form: "JE-TA-NA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Yatana |
-| Meaning | He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555) |
+| Meaning | he gave (personal name) |
 | Root | y-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | Semitic |
@@ -49,7 +49,7 @@ HT Wa 1020, its only attestation; HT 88 has none. Yatana 'he gave', the G 3ms pe
 |---|---|
 | Ugaritic | ytn (II) PN, syllabic ia-ta-nu, PRU 3 94 (RS 16.245):4 (DULAT 977); /y-t-n/ 'to give, grant' (DULAT 974); Yatanu, Milki-Yatanu in the Akkadian texts of Ugarit (Kinlaw 1967, 135, 81) |
 | Phoenician | ytn PN 'gave', Ia-a-tu-na; YTNʾL Ia-ta-na-e-li 'God gave' (Krahmalkov 220) |
-| Amorite | NTN 'give': jantin, natūnum (Gelb AS 21, 27) |
+| Amorite | NTN 'give': jantin, natūnum (Gelb AS 21, 27); Yantin-Dagan, Yattin-Dagan (Gelb AS 21, nos. 2986, 3555) |
 
 ### Source
 

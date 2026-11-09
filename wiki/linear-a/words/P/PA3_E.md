@@ -45,7 +45,12 @@ PK Za 8 \]NU · PA₃-E · JA-DI-KI-TE-TE-\*307-PU₂-RE · TU-ME-I: PA₃-E sta
 
 ### Cognates
 
-Hebrew בְּ- (bə-); Ugaritic b-; Amarna Canaanite bi-; Phoenician b-
+| Language | Comparison |
+|---|---|
+| Hebrew | בְּ- (bə-) |
+| Ugaritic | b- |
+| Amarna Canaanite | bi- |
+| Phoenician | b- |
 
 ### Source
 

@@ -44,7 +44,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/star/star21F_RI_TU_QA\|\*21F-RI-TU-QA]] | ha-ritūqa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DA_star21F_RI\|A-DA-\*21F-RI]] | ha-dāhari | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI\|A-RI]] | harrī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI_NI_TA\|A-RI-NI-TA]] | ʾarīnīt | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RI_PA\|A-RI-PA]] | ʾaripāʾ | CANDIDATE |
@@ -74,6 +74,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RI_MI_SI\|RI-MI-SI]] | Rimši | CANDIDATE |
 | [[wiki/linear-a/words/R/RI_QE_TI\|RI-QE-TI]] | riqitt- | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_RU_MA\|RI-RU-MA]] | Lirumā | SPECULATIVE |
+| [[wiki/linear-a/words/R/RI_SE\|RI-SE]] | rēšī | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_SU_MA\|RI-SU-MA]] | rīšum(a) | CANDIDATE |
 | [[wiki/linear-a/words/R/RI_TA_JE\|RI-TA-JE]] | Lītāy | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_TA_MA\|RI-TA-MA]] | Ritmā | SPECULATIVE |
@@ -83,6 +84,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SU_KI_RI_TE_I_JA\|SU-KI-RI-TE-I-JA]] | Sukritēya | SPECULATIVE |
 | [[wiki/linear-a/words/T/TA_RI_NA\|TA-RI-NA]] | Tarinna | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_RI\|TE-RI]] | tēri | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_RI_MU\|TE-RI-MU]] | tarīmu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārīna | PROBABLE |
 | [[wiki/linear-a/words/U/U_DI_RI_KI\|U-DI-RI-KI]] | u-dirik | CANDIDATE |
 | [[wiki/linear-a/words/Z/ZU_RI_NI_MA\|ZU-RI-NI-MA]] | Ṯūrinima | SPECULATIVE |

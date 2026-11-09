@@ -9,7 +9,7 @@ site: "Haghia Triada"
 support: "Tablet"
 period: "LMIB"
 translation: "incomplete"
-words: ["DI", "KU-PA₃-NU", "MA-DI", "MU-RU"]
+words: ["DI", "KU-PA₃-NU", "MA-DI", "MU-RU", "SI-TU-RA₂"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -78,7 +78,7 @@ Unicode (Linear A block):
 
 **no confidence given**, incomplete (status: incomplete).
 
-> \[…\]MA\[…\] \[…\]DI-NA-\[…\]. 2. QE-RA₂-JA\[…\]. 2. DI 2. 4. Young bull (MU-RU) 1. RU\[…\]. SI-TU-RA₂-RE 5, DI\[…\]. Kubānu 3. Maʾdi 2. DA.
+> \[…\]MA\[…\] \[…\]DI-NA-\[…\]. 2. QE-RA₂-JA\[…\]. 2. DI 2. 4. Young bull (MU-RU) 1. RU\[…\]. Shoots, for 5. DI\[…\]. Kubānu 3. Maʾdi 2. DA.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DI\|DI]] |  |  |  | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | young bull | CANDIDATE | CANDIDATE (lexicon) |
 | RU |  | unread |  |  |
-| [[wiki/linear-a/words/S/SI_TU_RA2_RE\|SI-TU-RA₂-RE]] |  | unread entry, 5 |  | unread |
+| SI-TU-RA₂-RE | šitla le- | shoots, for 5 | SPECULATIVE |  |
 | DI-\[ |  | unread |  |  |
 | [[wiki/linear-a/words/K/KU_PA3_NU\|KU-PA₃-NU]] | Kubānu | devotee of Kubaba (personal name or title); rival Gupana | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/M/MA_DI\|MA-DI]] | Maʾdi | place name, 2 | SPECULATIVE | SPECULATIVE (lexicon) |
@@ -104,7 +104,7 @@ di Mino
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/D/DI|DI]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/M/MA_DI|MA-DI]], [[wiki/linear-a/words/M/MU_RU|MU-RU]].
+[[wiki/linear-a/words/D/DI|DI]], [[wiki/linear-a/words/K/KU_PA3_NU|KU-PA₃-NU]], [[wiki/linear-a/words/M/MA_DI|MA-DI]], [[wiki/linear-a/words/M/MU_RU|MU-RU]], [[wiki/linear-a/words/S/SI_TU_RA2|SI-TU-RA₂]].
 
 ## Edition differences
 

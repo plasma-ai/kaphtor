@@ -67,6 +67,6 @@ di Mino; GlOS 1; Owens 1998–99; HALOT; DULAT
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb40\|KNZb40]] | ʾabakki | I weep | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/KN/KNZb/KNZb40\|KNZb40]] | ʾabkī | I weep | SPECULATIVE |
 
 <!-- END kaphtor:record -->

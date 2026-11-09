@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-CR Zf 1, a gold pin of unknown findspot: A-MA-WA-SI · KA-NI-JA-MI. qāniy-yammi 'Creator of the Sea': the masculine construct participle qāniy (Amorite qanijum) with the genitive yammi 'of the Sea'; KA writes q. √q-n-y is a Bronze Age divine epithet: Ugaritic qnyt ʾilm of Athirat (KTU 1.4 III 26); the Hittite divine name Elkunirša, ʾil qōnē ʾarṣ 'El, creator of the earth' (HALOT 1112), whose wife is Ašertu, Athirat (Olyan 1988, 41–42); Karatepe ʾl qn ʾrṣ (KAI 26 A III 18); Gen 14:19. El's Ugaritic creation epithet is bny bnwt (KTU 1.4 II 11). Rival: -MI as mimation.
+CR Zf 1, a gold pin of unknown findspot: A-MA-WA-SI · KA-NI-JA-MI. qāniy-yammi 'Creator of the Sea': the masculine construct participle qāniy (Amorite qanijum) with the genitive yammi 'of the Sea'; KA writes q. √q-n-y is a Bronze Age divine epithet: Ugaritic qnyt ʾilm of Athirat (KTU 1.4 III 26); the Hittite divine name Elkunirša, ʾil qōnē ʾarṣ 'El, creator of the earth' (HALOT 1112), whose wife is Ašertu, Athirat (Olyan 1988, 41–42); Karatepe ʾl qn ʾrṣ (KAI 26 A III 18); Gen 14:19. El's Ugaritic creation epithet is bny bnwt (KTU 1.4 II 11). Rival: -MI as mimation, qny-m 'possession, dedicated property', the pin named as an offering: Sabaic qnym, entrusted to ʾAlmaqah in his temple at Maʾrib (Ja 841), beside hqny 'dedicate an offering to a god' (Biella 1982, 459).
 
 ### Cognates
 
@@ -49,13 +49,14 @@ CR Zf 1, a gold pin of unknown findspot: A-MA-WA-SI · KA-NI-JA-MI. qāniy-yammi
 |---|---|
 | Ugaritic | qnyt ʾilm 'Creatress of the Gods' (KTU 1.4 III 26)—standard epithet of Athirat/Asherah |
 | Hebrew | קֹנֵה שָׁמַיִם וָאָרֶץ qōnēh šāmayim wāʾāreṣ (Gen 14:19)—epithet of El ʿElyon; also קֹנֵה qōnēh alone as divine title |
-| Phoenician | ʾl qn ʾrṣ 'El Creator of the Earth' (KAI 26 III 18, Karatepe bilingual) |
+| Phoenician | ʾl qn ʾrṣ 'El Creator of the Earth' (KAI 26 III 18, Karatepe bilingual); Neo-Punic lʾdn lʾl qn ʾrṣ 'to the Lord El, Creator of the Earth', in the dedication of an exedra and portico (KAI 129.1/3; Krahmalkov 2000, 56) |
 | Amarna | EA 266:16—Canaanite vassal invokes qny in theophoric context |
 | Amorite | qanij(ān)um 'to create' (QNJ; Gelb 1980, glossary p. 29); names KA-NI-IA-NU qaniyānu (no. 3980), fem. QA-NI-A-TUM (no. 5196); jammum 'sea' in IA-AM-MU-U₂ (no. 2946) |
+| Sabaic | qny 'possess, acquire'; h-stem hqny 'cause to possess &gt; dedicate an offering to a god', of a statue of gold given to ʾAlmaqah (J579/4); qnt 'offering, dedicated property' (Biella 1982, 458–459); qnym, entrusted to ʾAlmaqah (Ja 841) |
 
 ### Source
 
-di Mino; HALOT; Olyan 1988; Gelb 1980
+di Mino; HALOT; Olyan 1988; Gelb 1980; Krahmalkov 2000; Biella 1982
 
 ## Attestations
 

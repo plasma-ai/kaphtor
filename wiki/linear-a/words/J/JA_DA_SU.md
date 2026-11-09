@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J/JA_DA_SU
 title: "JA-DA-SU"
 desc: "Yadaʿ-Šum: personal name, 'Šum knew'. Lexicon, SPECULATIVE (tier 1)."
-tags: ["linear-a", "word", "tier-1", "hapax", "personal_name"]
+tags: ["linear-a", "word", "tier-1", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "JA-DA-SU"
 datasets: ["lexicon", "onomasticon"]
@@ -36,7 +36,7 @@ updated: 2026-10-24T16:17:50Z
 | Root | y-d-ʿ + š-m |
 | Proto-Semitic | \*ydʕ (#2500) + \*(ʾi-)šim- (#621) |
 | Language layer | Semitic |
-| Tags | hapax, personal_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

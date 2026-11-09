@@ -60,7 +60,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary libation formula—fragmentary (formula verb + damaged ending)  Fragmentary. Only the formula verb survives intact. The AU sign at the break may be ideographic (commodity) rather than part of the prayer.
+Context: Peak sanctuary libation formula—fragmentary (formula verb + damaged ending)
+
+Fragmentary. Only the formula verb survives intact. The AU sign at the break may be ideographic (commodity) rather than part of the prayer.
 
 ### Source
 

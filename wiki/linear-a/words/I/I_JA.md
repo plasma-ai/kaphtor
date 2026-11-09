@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-CR Zf 1 A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE: I-JA complete, after KA-NI-JA-MI qāniy-yammi 'Creator of the Sea'; KN Za 10 I-JA\[ breaks after JA. ʾiy 'island', as Hebrew ʾî Kaptôr, Crete itself (Jer 47:4). Rivals: the vocative yā; the name element ʾIyya 'where?' (Emar i-ia; GlOS 1, 59). See A-JE.
+CR Zf 1 A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE: I-JA complete, after KA-NI-JA-MI qāniy-yammi 'Creator of the Sea', sea and island as a pair. KN Za 10b I-JA\[ breaks after JA (GORILA IV, 9). ʾiy 'island', as Hebrew ʾî Kaptôr, Crete itself (Jer 47:4), and Phoenician ʾy ʾlšy, Cyprus. Rivals: the vocative yā; the name element ʾIyya 'where?' (Emar i-ia; GlOS 1, 59). See A-JE.
 
 ### Cognates
 
@@ -49,10 +49,11 @@ CR Zf 1 A-MA-WA-SI · KA-NI-JA-MI · I-JA · QA-KI-SE-NU-TI · A-TA-DE: I-JA com
 |---|---|
 | Hebrew | ʾî (אִי) 'island, coastland', šəʾērît ʾî Kaptôr 'the remnant of the island of Caphtor' (Jer 47:4) |
 | Ugaritic | ỉht (pl. cstr.) 'islands, coastal region' (KTU 1.3 VI 8; DULAT 31; GlOS 1, 60) |
+| Phoenician | ʾy, var. y 'island' (Krahmalkov 2000, 45): ʾy ʾlšy 'the Island of Alasia \[Cyprus\]' (BASOR 238, 2–3, Qubur al-Walayda, ca. 1200 BC; Krahmalkov 2000, 56); Punic place names ʾybšm Ebusus (Ibiza), ʾynṣm Enosim, ʾyrnm Cossyra |
 
 ### Source
 
-di Mino; DULAT; GlOS 1
+di Mino; DULAT; GlOS 1; Krahmalkov 2000; GORILA IV
 
 ## Attestations
 

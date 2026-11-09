@@ -545,6 +545,24 @@ def test_a_word_page_carries_the_lexicon_tags(data):
     assert "| Tags |" not in bare
 
 
+@pytest.mark.parametrize("text, rendered", [
+    ("One *301.\n\nTwo.", "One \\*301.\n\nTwo."),
+    ("One\nline.", "One line."),
+    ("One.\n\n\n  \nTwo.\r\n\r\nThree.", "One.\n\nTwo.\n\nThree."),
+    ("  Lone.\n\n", "Lone."),
+])
+def test_paragraphs(text, rendered):
+    assert views("markdown").paragraphs(text) == rendered
+
+
+def test_a_blank_line_in_a_note_starts_a_paragraph(data):
+    model, render = views("model"), views("render")
+    m = model.load(data)
+    m.lexicon["A-DU"]["note"] = "On HT 9b, the reading.\n\nThe scholarship."
+    _, text = render.word_page(m, "A-DU")
+    assert "### Note\n\nOn HT 9b, the reading.\n\nThe scholarship.\n" in text
+
+
 def test_a_lexicon_entry_without_a_reading_prints_no_none(data):
     model, render, markdown = views("model"), views("render"), views("markdown")
     m = model.load(data)

@@ -45,7 +45,13 @@ PH 6: I-NA-WA · A-RI / I-ZU-RI-NI-TA / A-RI / I-DA-PA₃-I-SA-RI, the name gove
 
 ### Cognates
 
-Ug. ṯr/ṯrn "bull" (KTU deity epithet, PN element); Heb. שׁוֹר šōr "ox" (&lt; \*ṯawr with interdental→sibilant); Ar. ṯawr "bull"; Ebla šu-ra, šu-ru₁₂, su-rí-a, 'bull' names (Pagan 1998, rows 4404, 4410, 4294); Euphratian šu-ra-nu, ab-du-šu-ri-im (GlOS 2, 330)
+| Language | Comparison |
+|---|---|
+| Ugaritic | ṯr/ṯrn "bull" (KTU deity epithet, PN element) |
+| Hebrew | שׁוֹר šōr "ox" (&lt; \*ṯawr with interdental→sibilant) |
+| Arabic | ṯawr "bull" |
+| Eblaite | šu-ra, šu-ru₁₂, su-rí-a, 'bull' names (Pagan 1998, rows 4404, 4410, 4294) |
+| Old Syrian | Euphratian šu-ra-nu, ab-du-šu-ri-im (GlOS 2, 330) |
 
 ### Source
 

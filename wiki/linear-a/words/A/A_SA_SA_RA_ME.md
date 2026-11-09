@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_SA_SA_RA_ME
 title: "A-SA-SA-RA-ME"
-desc: "ʾaššaram: uprightly, in righteousness (variant of yaššaram, ʾa- for ya-). Lexicon, CONFIRMED (tier 4)."
+desc: "ʾaššaram: in righteousness (variant of yaššaram, ʾa- for ya-). Lexicon, CONFIRMED (tier 4)."
 tags: ["linear-a", "word", "tier-4", "adverb", "libation_formula", "ritual"]
 kind: "word"
 form: "A-SA-SA-RA-ME"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾaššaram |
-| Meaning | uprightly, in righteousness (variant of yaššaram, ʾa- for ya-) |
+| Meaning | in righteousness (variant of yaššaram, ʾa- for ya-) |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
 | Language layer | Semitic |

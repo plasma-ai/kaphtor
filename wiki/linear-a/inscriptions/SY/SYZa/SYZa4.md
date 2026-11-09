@@ -62,7 +62,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary libation formula—Syme variant with unique second and third words  LMIA Syme peak sanctuary. Word 1 is the tG-stem formula verb (CONFIRMED). Word 2 = yā ʾanwaru 'O Radiant One' (SPECULATIVE; RILA-S1 p. 84). Word 3 = bānīy 'the Builder' (CANDIDATE). The epithet pair matches Ugaritic El's ṯr il dpid // bny bnwt 'Builder of Built (Ones)' (KTU 1.4 III 30–32).
+Context: Peak sanctuary libation formula—Syme variant with unique second and third words
+
+LMIA Syme peak sanctuary. Word 1 is the tG-stem formula verb (CONFIRMED). Word 2 = yā ʾanwaru 'O Radiant One' (SPECULATIVE; RILA-S1 p. 84). Word 3 = bānīy 'the Builder' (CANDIDATE). The epithet pair matches Ugaritic El's ṯr il dpid // bny bnwt 'Builder of Built (Ones)' (KTU 1.4 III 30–32).
 
 ### Source
 

@@ -60,7 +60,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Votive/ritual — stone libation vessel from Palaikastro  GORILA IV 40: a \]TU-ME, b I · JA-SA-SA\[. The break falls before TU, no divider stands at the corner between ME and I, and the second SA sits on the broken right edge. Neither word is complete. If JA-SA-SA-\[ opens JA-SA-SA-RA-ME, the √t-m-m + √y-š-r pairing of Job 1:1 אִישׁ תָּם וְיָשָׁר (ʾîš tām wᵉ-yāšār) 'a man perfect and upright' stands as a parallel, not a reading.
+Context: Votive/ritual — stone libation vessel from Palaikastro
+
+GORILA IV 40: a \]TU-ME, b I · JA-SA-SA\[. The break falls before TU, no divider stands at the corner between ME and I, and the second SA sits on the broken right edge. Neither word is complete. If JA-SA-SA-\[ opens JA-SA-SA-RA-ME, the √t-m-m + √y-š-r pairing of Job 1:1 אִישׁ תָּם וְיָשָׁר (ʾîš tām wᵉ-yāšār) 'a man perfect and upright' stands as a parallel, not a reading.
 
 ## Lexicon words citing this document
 

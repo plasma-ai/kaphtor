@@ -59,7 +59,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Extra-Cretan Linear A—Mycenaean palace  RILA-S1 D 16 counts TI Zb 1 doubtful: Olivier's \*301-SI is not convincing, since the \*301 would be dextroverse and turned 90°, and the second sign, complete, recalls CM 1 026. The facsimile shows a chevron and a triangle, neither clearly \*301 or SI.
+Context: Extra-Cretan Linear A—Mycenaean palace
+
+RILA-S1 D 16 counts TI Zb 1 doubtful: Olivier's \*301-SI is not convincing, since the \*301 would be dextroverse and turned 90°, and the second sign, complete, recalls CM 1 026. The facsimile shows a chevron and a triangle, neither clearly \*301 or SI.
 
 ### Source
 

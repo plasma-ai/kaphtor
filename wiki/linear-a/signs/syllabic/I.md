@@ -85,6 +85,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_TI_TI_KU_NI\|I-TI-TI-KU-NI]] | (y)ittatkūni | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_ZU_RI_NI_TA\|I-ZU-RI-NI-TA]] | ʾi-ṯawrīnīta | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_I_NWA_RO\|JA-I-NWA-RO]] | yā ʾanwaru | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]] | yatainawuya | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_I_RO\|KA-I-RO]] | kāʾil | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_RI_star310_I\|KA-RI-\*310-I]] | Qarīnī | SPECULATIVE |
 | [[wiki/linear-a/words/K/KI_TA_I\|KI-TA-I]] | gittī | SPECULATIVE |

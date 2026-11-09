@@ -101,6 +101,7 @@ No CH ancestor—Linear A innovation, possibly from MM seal whirl motif (Ferrara
 | [[wiki/linear-a/words/O/O_KA_MI_ZA_SI_I_NA\|O-KA-MI-ZA-SI-I-NA]] | Ukammis-Sîn | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA3_KA_RA_TI\|PA₃-KA-RA-TI]] | baqarāti | CANDIDATE |
 | [[wiki/linear-a/words/P/PI_TA_KA_SE\|PI-TA-KA-SE]] | Bīt-kissē | SPECULATIVE |
+| [[wiki/linear-a/words/P/PU_NI_KA\|PU-NI-KA]] | punniga | SPECULATIVE |
 | [[wiki/linear-a/words/R/RI_KA_TA\|RI-KA-TA]] | Likata | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_KA\|RU-KA]] | ruqāq | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_plus_SE_RA_plus_KA\|SI+SE-RA+KA]] | šeraka | SPECULATIVE |

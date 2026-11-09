@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA
 title: "JA-SA-SA-RA-MA-NA"
-desc: "yaššaram=na: in righteousness indeed; uprightly indeed. Lexicon, CANDIDATE (tier 2)."
+desc: "yaššaram=na: in righteousness indeed. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "adverb", "hapax", "libation_formula", "ritual"]
 kind: "word"
 form: "JA-SA-SA-RA-MA-NA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yaššaram=na |
-| Meaning | in righteousness indeed; uprightly indeed |
+| Meaning | in righteousness indeed |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
 | Language layer | Semitic |

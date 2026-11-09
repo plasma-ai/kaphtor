@@ -91,7 +91,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Administrative tablet—commodity allocations with 10+ personal names  Large allocation tablet with 10+ names. KA-KU-NE-TE appears near PA-JA-RE (Egyptian theophoric), suggesting a mixed-origin name list. Partial translation—many names unresolved.
+Context: Administrative tablet—commodity allocations with 10+ personal names
+
+Large allocation tablet with 10+ names. KA-KU-NE-TE appears near PA-JA-RE (Egyptian theophoric), suggesting a mixed-origin name list. Partial translation—many names unresolved.
 
 ### Source
 

@@ -60,7 +60,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Harbor town of Knossos. Single inked sequence, terminal word-divider. RILA-S1 leaves the last sign unread.  A votive naming the dance of the goddess — epigraphic counterpart to Minoan ecstatic-dance iconography. RILA-S1 reads the sequence leftward.
+Context: Harbor town of Knossos. Single inked sequence, terminal word-divider. RILA-S1 leaves the last sign unread.
+
+A votive naming the dance of the goddess — epigraphic counterpart to Minoan ecstatic-dance iconography. RILA-S1 reads the sequence leftward.
 
 ### Source
 

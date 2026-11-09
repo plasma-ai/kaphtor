@@ -57,5 +57,6 @@ A marked liquid: /la/ and the geminates /lla/, /rra/, which RA also writes, unma
 | [[wiki/linear-a/words/Q/QE_RA2_U\|QE-RA₂-U]] | qelwu | CANDIDATE |
 | [[wiki/linear-a/words/R/RA2_RO_RE\|RA₂-RO-RE]] | Lallor | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RA2\|SA-RA₂]] | šarra | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_TU_RA2\|SI-TU-RA₂]] | šitla | SPECULATIVE |
 
 <!-- END kaphtor:record -->

@@ -51,7 +51,7 @@ Unicode (Linear A block):
 
 **no confidence given**, complete.
 
-> The Kinsman who comes forth, Creator of the Sea — island — Kaki-šenni — I make (this) ready.
+> The Kinsman who comes forth, Creator of Sea and Island — Kaki-šenni — I make (this) ready.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -63,7 +63,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Gold pin invoking El by two epithets (the Kinsman who comes forth, Creator of the Sea), then naming the island. Both A-MA-WA-SI (masculine participle) and KA-NI-JA-MI (masculine construct participle) are grammatically masculine, pointing to El rather than Athirat. QA-KI-SE-NU-TI names the dedicant, a Hurrian-type name in -šenni. Closes with a 1cs verb, 'I make ready'.  Unprovenanced gold pin with shallow incision. Word 4 reads QA-KI-SE-NU-TI, KI as in GORILA IV 146–47 and the photograph. Word 5 is a 1cs prefix form of √ʿ-t-d.
+Context: Gold pin invoking El by two epithets, the Kinsman who comes forth and the Creator of Sea and Island. Both A-MA-WA-SI (masculine participle) and KA-NI-JA-MI (masculine construct participle) are grammatically masculine, pointing to El rather than Athirat. QA-KI-SE-NU-TI names the dedicant, a Hurrian-type name in -šenni. Closes with a 1cs verb, 'I make ready'.
+
+Unprovenanced gold pin with shallow incision. Word 4 reads QA-KI-SE-NU-TI, KI as in GORILA IV 146–47 and the photograph. Word 5 is a 1cs prefix form of √ʿ-t-d. KN Za 10b breaks after I-JA\[ (GORILA IV, 9); this pin carries the only whole I-JA.
 
 ### Source
 

@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/D/DA_KU_SE_NE
 title: "DA-KU-SE-NE"
 desc: "Takušenni: Hurrian personal name, 'the brother is beautiful'; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni. Lexicon, PROBABLE (tier 3)."
-tags: ["linear-a", "word", "tier-3", "hapax", "personal_name"]
+tags: ["linear-a", "word", "tier-3", "compound", "hapax", "personal_name"]
 kind: "word"
 form: "DA-KU-SE-NE"
 datasets: ["lexicon", "onomasticon"]
@@ -34,7 +34,7 @@ updated: 2026-10-24T16:17:50Z
 | Reading | Takušenni |
 | Meaning | Hurrian personal name, 'the brother is beautiful'; cf. Boğazköy Tagu(b)-šini, Ugaritic Taki-šenni |
 | Language layer | Hurrian |
-| Tags | hapax, personal_name |
+| Tags | compound, hapax, personal_name |
 | Semantic field | personal_name |
 
 ### Note

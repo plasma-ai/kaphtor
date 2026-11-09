@@ -60,7 +60,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary — minimal liturgical inscription  Minimal two-word inscription at Iouktas peak sanctuary. SI-RU-TE confirms liturgical function of the vessel.
+Context: Peak sanctuary — minimal liturgical inscription
+
+Minimal two-word inscription at Iouktas peak sanctuary. SI-RU-TE confirms liturgical function of the vessel.
 
 ### Source
 

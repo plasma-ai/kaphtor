@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/P/PA_TA_NE
 title: "PA-TA-NE"
-desc: "Patne: personal name, 'Viper'; rival Ptah-theophoric. Lexicon, CANDIDATE (tier 2)."
+desc: "Patne: personal name, 'Viper'. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "personal_name"]
 kind: "word"
 form: "PA-TA-NE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Patne |
-| Meaning | personal name, 'Viper'; rival Ptah-theophoric |
+| Meaning | personal name, 'Viper' |
 | Root | p-t-n |
 | Proto-Semitic | \*pa/itn- (#2423) |
 | Language layer | Semitic |
@@ -69,9 +69,9 @@ di Mino; Rendsburg 2026; HALOT
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | Patne | PN, 'Viper' (rival Ptah-theophoric) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Patne | personal name, 'Viper' (rival Ptah-theophoric) | CANDIDATE |
-| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1019\|HTWa1019]] | Patne | personal name, 'Viper' (rival Ptah-theophoric) |  |
+| [[wiki/linear-a/inscriptions/HT/HT/HT94b\|HT94b]] | Patne | PN, 'Viper' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HT/HT122a\|HT122a]] | Patne | personal name, 'Viper' | CANDIDATE |
+| [[wiki/linear-a/inscriptions/HT/HTWa/HTWa1019\|HTWa1019]] | Patne | personal name, 'Viper' |  |
 
 ## Onomasticon
 

@@ -72,6 +72,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_QA_RU\|QA-QA-RU]] | Qaqqaru | CANDIDATE |
 | [[wiki/linear-a/words/R/RI_RU_MA\|RI-RU-MA]] | Lirumā | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_DI\|RU-DI]] | rūdī | SPECULATIVE |
+| [[wiki/linear-a/words/R/RU_JA\|RU-JA]] | Ruya | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_KA\|RU-KA]] | ruqāq | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_MA\|RU-MA]] | Rūma | SPECULATIVE |

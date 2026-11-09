@@ -62,7 +62,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Painted pithos label, LMIB. Single continuous sign sequence, no word dividers. Corpus reads: A-KA-RA-KI-TA-NA-SI-JA-SE-VIR+\[?\]-ZA.  Partial pithos label. Core segment KI-TA-NA-SI-JA-SE = "linen which goes out" is the most secure reading. Opening A-KA-RA and closing VIR+\[?\]-ZA require further investigation.
+Context: Painted pithos label, LMIB. Single continuous sign sequence, no word dividers. Corpus reads: A-KA-RA-KI-TA-NA-SI-JA-SE-VIR+\[?\]-ZA.
+
+Partial pithos label. Core segment KI-TA-NA-SI-JA-SE = "linen which goes out" is the most secure reading. Opening A-KA-RA and closing VIR+\[?\]-ZA require further investigation.
 
 ### Source
 

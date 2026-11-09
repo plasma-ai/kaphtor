@@ -90,7 +90,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Ration allocation in two sections, headed by \]-KA-NE (the end of a broken word) and Kīnu, receiving grain, olives, must, \*312, \]TE (broken before) and the unresolved commodity \*317. Parallels ARKH3b structure (two-recipient format). Biblical triad dāgān + tīrōš + yiṣhār (Deut 7:13) mirrored in GRA + \*131B + OLIV.  Arkhanes tablet. Two-section ration/offering allocation matching ARKH3b pattern. Section 1 (\]-KA-NE) lists small portions; Section 2 (Kīnu) lists larger allocations. Readings: KI-NU = Kīnu (√k-w-n), \*131B = TIRŌŠU (√t-r-š). The grain-olives-must triad parallels the biblical dāgān-tīrōš-yiṣhār offering pattern (Deut 7:13, 11:14).
+Context: Ration allocation in two sections, headed by \]-KA-NE (the end of a broken word) and Kīnu, receiving grain, olives, must, \*312, \]TE (broken before) and the unresolved commodity \*317. Parallels ARKH3b structure (two-recipient format). Biblical triad dāgān + tīrōš + yiṣhār (Deut 7:13) mirrored in GRA + \*131B + OLIV.
+
+Arkhanes tablet. Two-section ration/offering allocation matching ARKH3b pattern. Section 1 (\]-KA-NE) lists small portions; Section 2 (Kīnu) lists larger allocations. Readings: KI-NU = Kīnu (√k-w-n), \*131B = TIRŌŠU (√t-r-š). The grain-olives-must triad parallels the biblical dāgān-tīrōš-yiṣhār offering pattern (Deut 7:13, 11:14).
 
 ### Source
 

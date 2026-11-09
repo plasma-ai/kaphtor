@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/k
 desc: "Semitic roots whose first radical is k."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-06T02:52:23Z
+updated: 2026-11-09T16:48:41Z
 ---
 
 # wiki/semitic-roots/k
@@ -251,7 +251,7 @@ updated: 2026-11-06T02:52:23Z
 
 [[wiki/semitic-roots/k/2997_to_cover_smear_to_atone_purify_1_to_deny_renounc|2997_to_cover_smear_to_atone_purify_1_to_deny_renounc]]: Proto-Semitic *kapar-, 'to cover, smear; to atone, purify' 1, 'to deny, renounce' 2: reflexes in 10 language(s).
 
-[[wiki/semitic-roots/k/2998_to_hinder_restrain|2998_to_hinder_restrain]]: Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 14 language(s).
+[[wiki/semitic-roots/k/2998_to_hinder_restrain|2998_to_hinder_restrain]]: Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 15 language(s).
 
 [[wiki/semitic-roots/k/299_basket_1_cage_prison_2|299_basket_1_cage_prison_2]]: Proto-Semitic *kVlūb-, 'basket' 1, 'cage; prison' 2: reflexes in 5 language(s).
 

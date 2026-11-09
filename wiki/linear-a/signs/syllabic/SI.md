@@ -47,7 +47,7 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DA_KI_SI_KA\|A-DA-KI-SI-KA]] | Ḫadki-šiqā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA_WA_SI\|A-MA-WA-SI]] | ʿAmma-wāṣiʾ | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_SI_NA\|A-SE-SI-NA]] | ḥašīšin | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_DA_TO_I\|A-SI-DA-TO-I]] | ʾAšdōdī | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
@@ -80,6 +80,7 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/S/SI_DA_RE\|SI-DA-RE]] | Siddāri | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_RO\|SI-DA-RO]] | siddāru | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DA_TE\|SI-DA-TE]] | ṣēdat | SPECULATIVE |
+| [[wiki/linear-a/words/S/SI_DI_star301\|SI-DI-\*301]] | Ṣidna | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Šadiya | PROBABLE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_JA_SE\|SI-JA-SE]] | šī-yāṣē | CANDIDATE |
@@ -95,6 +96,7 @@ No CH ancestor—Linear A innovation, possibly from MM scorpion motif (Ferrara e
 | [[wiki/linear-a/words/S/SI_TE\|SI-TE]] | Ṣīt | CANDIDATE |
 | [[wiki/linear-a/words/S/SI_TE_TU\|SI-TE-TU]] | šetātu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_TU\|SI-TU]] | sūt | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_TU_RA2\|SI-TU-RA₂]] | šitla | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_star34_SI\|U-\*34-SI]] | u-qīš | SPECULATIVE |
 | [[wiki/linear-a/words/U/U_MI_NA_SI\|U-MI-NA-SI]] | Ummī-naśiʾ | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_KA_NA_SI\|U-NA-KA-NA-SI]] | wannā kanāsī / winnā kanāsī | CONFIRMED |

@@ -40,7 +40,7 @@ updated: 2026-11-08T01:41:26Z
 
 ### Note
 
-PA 1: A-KU-JU-PA-\*118 35, the tablet's only entry (GORILA I 284). \*118 closes the group before the numeral, as in SI+ME-KI-\*118 1¾ and \*539-\*118 1 on HT 24b, where it takes fractions; Linear B writes the talent with \*118. KU-JU writes kul, as in I-KU-JU-TI ʾukulti (ZA 6b), SU-JU-TA sulta (KN 22a) and ZU-JU-PU₂ ṯulpu (HT 25a). Hittite ᵁᴿᵁᴰᵁkullupi, a copper hoe or axe (KBo 3.33 II 10′; KUB 7.41 obv. 5), and Aramaic kulbā share the kul-; Akk. kalappu has kal-. Rabin 1963, 124f. (cited by HALOT 472) derives the word from the Hittite. A Wanderwort of the metal trade. One attestation.
+PA 1: A-KU-JU-PA-\*118 35, the tablet's only entry (GORILA I 284). \*118 closes the group before the numeral, as in SI+ME-KI-\*118 1¾ and \*539-\*118 1 on HT 24b, where it takes fractions; Linear B writes the talent with \*118. KU-JU writes kul, as in I-KU-JU-TI ʾukulti (ZA 6b), SU-JU-TA sulta (KN 22a) and ZU-JU-PU₂ ṯulpu (HT 25a). Hittite ᵁᴿᵁᴰᵁkullupi, a copper hoe or axe (KBo 3.33 II 10′; KUB 7.41 obv. 5), and Aramaic kulbā share the kul-; Akk. kalappu has kal-. Rabin 1963, 124 reads Hebrew \*kulappôt, with kul-, and leaves the loan's direction open: if Akkadian kalabu is old, Hittite too took it from a third language. A Wanderwort of the metal trade. One attestation.
 
 ### Cognates
 
@@ -55,7 +55,7 @@ PA 1: A-KU-JU-PA-\*118 35, the tablet's only entry (GORILA I 284). \*118 closes 
 
 ### Source
 
-di Mino; CAD K; HALOT; CAL; TLHdig
+di Mino; CAD K; HALOT; CAL; TLHdig; Rabin 1963
 
 ## Attestations
 

@@ -35,6 +35,9 @@ Run from the repository root.
 - Corpus prose is timeless: no as-of dates, change logs or run logs.
 - The project's own readings and notes are attributed to "di Mino".
 - Cite a closed source by siglum and page, in your own words.
+- A note (`note`, `notes`) breaks into paragraphs at a blank line (`\n\n`); a single newline reads as a space. The
+  wiki (`tools/views/markdown.py` `paragraphs`) and linear-a.ai render each paragraph as its own. A long entry
+  runs the tablet, the reading, then the scholarship.
 
 ## Method: compound names
 

@@ -59,7 +59,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary; sole word inscription (LM IA)  The sole word of the Syme inscription (first edition, transcription only: Muhly & Olivier 2008, 212–13, HM 5585, found 1987). The libation is the grammatical subject: what goes out of the vessel glorifies the goddess—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי "to beautify the place of my sanctuary", and the hitpaʿel prayer register (Isa 60:21, 61:3; Ben Sira 50:20). √p-ʾ-r also gives pəʾēr "diadem" and tipʾart "splendor".
+Context: Peak sanctuary; sole word inscription (LM IA)
+
+The sole word of the Syme inscription (first edition, transcription only: Muhly & Olivier 2008, 212–13, HM 5585, found 1987). The libation is the grammatical subject: what goes out of the vessel glorifies the goddess—cf. Isa 60:13 לְפָאֵר מְקוֹם מִקְדָּשִׁי "to beautify the place of my sanctuary", and the hitpaʿel prayer register (Isa 60:21, 61:3; Ben Sira 50:20). √p-ʾ-r also gives pəʾēr "diadem" and tipʾart "splendor".
 
 ### Source
 

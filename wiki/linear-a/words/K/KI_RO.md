@@ -41,20 +41,25 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KI-RO marks what is owed or outstanding, against KU-RO 'total'. HT 15: 684 + 570 = 1254 beside KI-RO 400, outstanding 400. KI-RO heads sections that close in KU-RO with exact sums (HT 88, six entries of 1, KU-RO 6; HT 117a, ten of 1, KU-RO 10; HT 94b, five of 1, KU-RO 5), and a total cannot head a list. On HT 1, KI-RO 197 stands before four quantities that sum to 336. HT 30's KI-RO section re-lists the main section's commodities in smaller quantities, the delivered and outstanding split. HT 34.6 balances: SA+MU+KU 100, then PA₃ 70 and KI-RO 30 (30 written over an erased 7), 70 handed over and 30 outstanding (Schrijver 2014, 7). Schoep reads 'deficit', clearest where KI-RO follows KU-RO with a smaller entry (HT 123a.9; less clearly HT 93b.1), with Killen's caveat (Schoep 2002, 163–164). KI-RO quantities are not summed into KU-RO; where a tablet marks the split, the residual is delivered less owed, and none of the 13 gives KI-RO the exact sum of the items above it. \*kilʾu 'what is held back', from √k-l-ʾ 'hold back, withhold' (2998), RO for l, the glottal stop unwritten, -u the case ending: Heb. kālāʾ 'withhold, keep back', Akk. kalû 'hold back'. KU-RO kull- (√k-l-l) differs in vowel and third radical.
+KI-RO books what is still owed, set against KU-RO 'total' and never counted into it. HT 34.6 balances: SA+MU+KU 100, then PA₃ 70 and KI-RO 30, 70 handed over and 30 outstanding (Schrijver 2014, 7). HT 123a gives each olive entry its oil (\*308) and a small KI-RO, totals the olives at KU-RO 93½, their exact sum, and the oil at just over 25, then sets KI-RO 6 after both. HT 15 books 684 and 570, then KI-RO 400, and HT 30 re-lists its commodities under KI-RO in smaller quantities. At the head of a roster, KI-RO opens names at 1 apiece that close in KU-RO (HT 88, 6; HT 117a, 10; HT 94b, 5), and a total cannot head a list.
+
+kilʾu 'what is held back', the qitl noun of √k-l-ʾ 'hold back, withhold': RO for l, the glottal stop unwritten, -u the case ending. Hebrew keeps the base in keleʾ 'imprisonment', kilʾô with the suffix (2 Kgs 25:29), and Egyptian group writing spells the Canaanite noun ka-ru₂-ʾu /kalʾu/ 'prison', r for l as KI-RO writes it (Hoch 328). In the ledgers the verb names what was kept back. Akkadian kalû is 'to withhold goods, merchandise, deliveries' (CAD K 99): 'last year you withheld the rest of the barley of my provision' (YOS 3 40:15). Aramaic has \[p\]rskn zy kly 'your salary which has been withheld' (DNWSI 508), and Arabic kāliʾ is 'a debt of which the payment is deferred' (Lane 2624). KU-RO kull- (√k-l-l) differs in vowel and third radical.
+
+Peruzzi first gave KI-RO the sense of a shortfall. Killen objected that some contexts do not bear it out and that HT 123's KI-RO entries keep regular proportions (Schoep 2002, 163). Schoep reads 'deficit', clearest where KI-RO follows KU-RO with a smaller entry (HT 123a.9; less clearly HT 93b.1), and finds that most occurrences suit it (Schoep 2002, 163–164). Fifteen occurrences on ten tablets, all at Haghia Triada. See KU-RO.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
-| Hebrew | kālāʾ (כָּלָא) 'withhold, keep back' (HALOT 475) |
-| Akkadian | kalû 'hold back, detain'; adj. kalû 'held (back)' (ORACC CAMS/GKAB) |
-| Syriac | klʾ (ܟܠܐ) 'restrain' |
-| Geʿez | kalʾa (ከልአ) 'held back, refused' |
+| Hebrew | keleʾ (כֶּלֶא) 'imprisonment', kilʾô (כִּלְאוֹ) (2 Kgs 25:29); kālāʾ (כָּלָא) 'withhold, keep back' (HALOT 475) |
+| Egyptian | ka-ru₂-ʾu /kalʾu/ 'prison', a Canaanite loan (Hoch 328) |
+| Akkadian | kalû 'to withhold goods, merchandise, deliveries' (CAD K 99) |
+| Aramaic | klʾ 'withhold': \[p\]rskn zy kly 'your salary which has been withheld' (DNWSI 508) |
+| Arabic | kāliʾ (كالئ) 'a debt of which the payment is deferred' (Lane 2624) |
 
 ### Source
 
-di Mino; Schoep 2002; Schrijver 2014
+di Mino; Schoep 2002; Schrijver 2014; HALOT; Hoch 1994; CAD K; DNWSI; Lane
 
 ### Review
 

@@ -45,7 +45,12 @@ HS Zg 1, a stone object, has A-MA alone; MA 1b has A-MA · \*47 over QE-DE-MI-NU
 
 ### Cognates
 
-Hebrew ʿam "people, nation" (HALOT 837), Ugaritic ʿm "lineage, ancestors" (DULAT 160), Akkadian ummānu "people, army" (CAD U/W 106), Phoenician ʿm "people" (Tomback 255)
+| Language | Comparison |
+|---|---|
+| Hebrew | ʿam "people, nation" (HALOT 837) |
+| Ugaritic | ʿm "lineage, ancestors" (DULAT 160) |
+| Akkadian | ummānu "people, army" (CAD U/W 106) |
+| Phoenician | ʿm "people" (Tomback 255) |
 
 ### Source
 

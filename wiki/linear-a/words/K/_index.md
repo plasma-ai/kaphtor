@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/K
 desc: "Words whose first sign begins with K."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-05T15:56:38Z
+updated: 2026-11-08T16:32:12Z
 ---
 
 # wiki/linear-a/words/K
@@ -149,7 +149,7 @@ updated: 2026-11-05T15:56:38Z
 
 [[wiki/linear-a/words/K/KI_star310_RE|KI_star310_RE]]: kinnār: lyre (Hebrew kinnōr כִּנּוֹר). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/K/KO_A_DU_WA|KO_A_DU_WA]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/K/KO_A_DU_WA|KO_A_DU_WA]]: Qō-Addua: personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa-. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/K/KO_E|KO_E]]: Unread (unread): no role; 1 occurrence(s).
 

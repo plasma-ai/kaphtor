@@ -52,7 +52,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_KU_JU_PA\|A-KU-JU-PA]] | ʾakulpa | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RI_PA\|A-RI-PA]] | ʾaripāʾ | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_PA_JA\|DI-PA-JA]] | dipaya | CANDIDATE |
 | [[wiki/linear-a/words/G/GRA_plus_PA\|GRA+PA]] | parīsu | CANDIDATE |
@@ -74,6 +74,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/P/PA_I_TO\|PA-I-TO]] | Paito | CONFIRMED |
 | [[wiki/linear-a/words/P/PA_JA\|PA-JA]] | Pay | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
+| [[wiki/linear-a/words/P/PA_JA_TA\|PA-JA-TA]] | bayta | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_KU_PU_KO\|PA-KU / PU-KO]] | pak / pukku | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_NA_TU\|PA-NA-TU]] | banātu / panātu / (Ku)bānatu | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_NU_QE\|PA-NU-QE]] | Panūq | SPECULATIVE |

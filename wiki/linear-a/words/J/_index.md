@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/J
 desc: "Words whose first sign begins with J."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-04T13:28:30Z
+updated: 2026-11-09T22:54:29Z
 ---
 
 # wiki/linear-a/words/J
@@ -41,9 +41,9 @@ updated: 2026-11-04T13:28:30Z
 
 [[wiki/linear-a/words/J/JA_PA_QA|JA_PA_QA]]: yapqaḥ: he opens (the eyes). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_PA_RA|JA_PA_RA]]: yapʾara: may he/it glorify, adorn (3ms volitive yaqtula √p-ʾ-r; guttural ʾ unwritten). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_PA_RA|JA_PA_RA]]: yapʾara: may he/it glorify, adorn (3ms volitive √p-ʾ-r; guttural ʾ unwritten). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_PA_RA_JA_SE|JA_PA_RA_JA_SE]]: yapʾara yāṣē: may that which goes out glorify—volitive yaqtula √p-ʾ-r + √y-ṣ-ʾ participle/imperfect (the outpoured libation as subject). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_PA_RA_JA_SE|JA_PA_RA_JA_SE]]: yapʾara yāṣē: may that which goes out glorify—volitive √p-ʾ-r + √y-ṣ-ʾ participle/imperfect (the outpoured libation as subject). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_PI_broken_start|JA_PI_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -65,9 +65,9 @@ updated: 2026-11-04T13:28:30Z
 
 [[wiki/linear-a/words/J/JA_SA_RA|JA_SA_RA]]: yašara: righteous is (predicate before A-NA-NE ḥanān 'grace'). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_SA_SA_RA|JA_SA_SA_RA]]: yaššar-: line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'uprightly; in righteousness'; not independently attested as a bare lemma. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_SA_SA_RA|JA_SA_SA_RA]]: yaššar-: line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'in righteousness'; not independently attested as a bare lemma. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA|JA_SA_SA_RA_MA_NA]]: yaššaram=na: in righteousness indeed; uprightly indeed. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/J/JA_SA_SA_RA_MA_NA|JA_SA_SA_RA_MA_NA]]: yaššaram=na: in righteousness indeed. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_SA_SA_RA_ME|JA_SA_SA_RA_ME]]: yaššaram: in righteousness (adverbial accusative in -am of √y-š-r; also 'righteously'); rival: substantivized "the upright/proper [thing]" in an object slot. Polysemic layer: masculine divine name Yasharam (Akk. Mīšarum, Phoen. Misor). Lexicon, CONFIRMED (tier 4).
 
@@ -84,6 +84,8 @@ updated: 2026-11-04T13:28:30Z
 [[wiki/linear-a/words/J/JA_SU|JA_SU]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/J/JA_SU_MA_TU|JA_SU_MA_TU]]: yā Šumāt: O Šumāt! (vocative yā + divine name, plural of *šum- 'name'). Lexicon, CANDIDATE (tier 2).
+
+[[wiki/linear-a/words/J/JA_TA_I_star301_U_JA|JA_TA_I_star301_U_JA]]: yatainawuya: he makes himself a dwelling (3ms tG-stem middle-reflexive denominative of √NWY). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/J/JA_TI_TU_KU|JA_TI_TU_KU]]: Unread (role only): personal name; 1 occurrence(s).
 
@@ -109,7 +111,7 @@ updated: 2026-11-04T13:28:30Z
 
 [[wiki/linear-a/words/J/JE_DI|JE_DI]]: yedī: gentilic 'the Idaean' (of Mount Ida); rivals the personal name 'He knows' and the gentilic 'Judean'. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/J/JE_TA_NA|JE_TA_NA]]: Yatana: He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/J/JE_TA_NA|JE_TA_NA]]: Yatana: he gave (personal name). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/J/JI_NU_MA_RE|JI_NU_MA_RE]]: yinumare: wine-lords, wine-stewards (personnel category). Lexicon, CANDIDATE (tier 2).
 

@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_TA_NA_TE
 title: "A-TA-NA-TE"
-desc: "ʾAtanat: ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with I-y > ʾ; the etymon of Athena (di Mino, Ya Diktu 20). Lexicon, PROBABLE (tier 3)."
+desc: "ʾAtanat: she who gives (the name behind Athena). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "hapax", "ritual", "theonym"]
 kind: "word"
 form: "A-TA-NA-TE"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾAtanat |
-| Meaning | ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with I-y &gt; ʾ; the etymon of Athena (di Mino, Ya Diktu 20) |
+| Meaning | she who gives (the name behind Athena) |
 | Root | y-t-n |
 | Proto-Semitic | \*ytn ~ \*ntn (#2608) |
 | Language layer | Semitic |
@@ -68,7 +68,7 @@ di Mino; Monti 2017; Benz 1972; Krahmalkov 2000; GlOS 2
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ʾātanātu | The Giver (f.) — Athena etymology; √y-t-n 'to give' with y &gt; ʾ weakening (feminine \*yātanāt &gt; ʾātanāt) | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/ZA/ZA/ZA10a\|ZA10a]] | ʾAtanat | she who gives (the name behind Athena) | SPECULATIVE |
 
 ## Onomasticon
 

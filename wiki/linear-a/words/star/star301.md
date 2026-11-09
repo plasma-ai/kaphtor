@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A commodity logogram: 242 standalone occurrences on 240 documents, 89% of its 272 uses, concentrated at Haghia Triada on nodules and tablets, 231 of them on HT nodules. It takes the commodity-label slot of GRA (dagān), OLE (šamnu), VIN (wayn) and CYP (cyperus) and names the pastoral class: nawum, with mimation (Mari na-wu-um, GlOS 2, 116), the land-use term for uncultivated pastureland and its goods, livestock, wool and dairy, against cultivated cereals (GRA) and orchard products (OLE, OLIV, VIN). In ritual use the same root gives nawā 'dwelling, abode', compared with Greek ναός 'temple'. The syllabic value na is acrophonic, the first syllable of nawā(n), as cuneiform É bītu 'house' gives bi; the formula verb A-TA-I-\*301-WA-JA, from the same √n-w-y, writes \*301 where NA would serve. See NU-WI.
+A commodity logogram: 236 standalone occurrences on 236 documents, 87% of its 272 uses, concentrated at Haghia Triada on nodules and tablets, 225 of them on HT nodules. It takes the commodity-label slot of GRA (dagān), OLE (šamnu), VIN (wayn) and CYP (cyperus) and names the pastoral class: nawum, with mimation (Mari na-wu-um, GlOS 2, 116), the land-use term for uncultivated pastureland and its goods, livestock, wool and dairy, against cultivated cereals (GRA) and orchard products (OLE, OLIV, VIN). In ritual use the same root gives nawā 'dwelling, abode', compared with Greek ναός 'temple'. The syllabic value na is acrophonic, the first syllable of nawā(n), as cuneiform É bītu 'house' gives bi; the formula verb A-TA-I-\*301-WA-JA, from the same √n-w-y, writes \*301 where NA would serve. See NU-WI.
 
 ### Cognates
 

@@ -68,7 +68,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Votive offering allocation: burnt and earth offerings dedicated under the earth-goddess epithet. Tablet broken after A-RE-TU-MI—original text longer.  Incomplete—tablet broken after A-RE-TU-MI (damage marker). Zakros tablet with votive allocations. All three words share a chthonic/earth-offering semantic field: burnt offering (ʿūlū), earth (ʾarṣ̂atu), and the earth-goddess epithet (ʾarṣ̂-ummī = pre-Greek Artemis). The A-RA-TU / A-RE-TU-MI co-occurrence strengthens both readings—same √ʾ-r-ṣ̂ root in bare noun and compound PN on a single tablet.
+Context: Votive offering allocation: burnt and earth offerings dedicated under the earth-goddess epithet. Tablet broken after A-RE-TU-MI—original text longer.
+
+Incomplete—tablet broken after A-RE-TU-MI (damage marker). Zakros tablet with votive allocations. All three words share a chthonic/earth-offering semantic field: burnt offering (ʿūlū), earth (ʾarṣ̂atu), and the earth-goddess epithet (ʾarṣ̂-ummī = pre-Greek Artemis). The A-RA-TU / A-RE-TU-MI co-occurrence strengthens both readings—same √ʾ-r-ṣ̂ root in bare noun and compound PN on a single tablet.
 
 ### Source
 

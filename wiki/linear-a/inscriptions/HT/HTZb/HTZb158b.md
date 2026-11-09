@@ -60,7 +60,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: HT Zb series vessel label.  Appellation-of-origin label on a transport vessel.
+Context: HT Zb series vessel label.
+
+Appellation-of-origin label on a transport vessel.
 
 ### Source
 

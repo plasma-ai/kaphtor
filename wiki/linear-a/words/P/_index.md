@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/P
 desc: "Words whose first sign begins with P."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-08T00:35:29Z
+updated: 2026-11-08T17:23:00Z
 ---
 
 # wiki/linear-a/words/P
@@ -47,6 +47,8 @@ updated: 2026-11-08T00:35:29Z
 
 [[wiki/linear-a/words/P/PA_JA_RE|PA_JA_RE]]: Payare: He (of) Re: Egyptian personal name Pꜣ-Rꜥ (Gordon's Pꜣy-Rꜥ); Linear B pa-ja-ro. Lexicon, PROBABLE (tier 3).
 
+[[wiki/linear-a/words/P/PA_JA_TA|PA_JA_TA]]: bayta: house; 'in the house' (accusative of place). Lexicon, SPECULATIVE (tier 1).
+
 [[wiki/linear-a/words/P/PA_KU_PU_KO|PA_KU_PU_KO]]: pak / pukku: flask, vial (small libation/oil vessel). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_NA_TU|PA_NA_TU]]: banātu / panātu / (Ku)bānatu: daughters (fem. pl.) / portions / Kubaba devotees (cf. KU-PA-NA-TU). Lexicon, CANDIDATE (tier 2).
@@ -73,7 +75,7 @@ updated: 2026-11-08T00:35:29Z
 
 [[wiki/linear-a/words/P/PA_TA_DA|PA_TA_DA]]: Patada: personal name; Egyptian Ptḥ-dj(⸗f) 'Ptah gives'; rival Hurrian pṭḏ (Ugarit). Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/P/PA_TA_NE|PA_TA_NE]]: Patne: personal name, 'Viper'; rival Ptah-theophoric. Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/P/PA_TA_NE|PA_TA_NE]]: Patne: personal name, 'Viper'. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/P/PA_TA_QE|PA_TA_QE]]: pitqē: a kind of *402 cup. Lexicon, CANDIDATE (tier 2).
 
@@ -84,6 +86,8 @@ updated: 2026-11-08T00:35:29Z
 [[wiki/linear-a/words/P/PA_star47_broken_end|PA_star47_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
 [[wiki/linear-a/words/P/PIRRI|PIRRI]]: fruit. Lexicon, SPECULATIVE (tier 1).
+
+[[wiki/linear-a/words/P/PI_KE|PI_KE]]: bikē: weeping, lament; rival pīka 'your mouth'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PI_KU_ZU|PI_KU_ZU]]: bi-kuṯ: in flasks (preposition bi- + kuṯ 'flask, jar'; heading of an oil section). Lexicon, SPECULATIVE (tier 1).
 
@@ -137,7 +141,7 @@ updated: 2026-11-08T00:35:29Z
 
 [[wiki/linear-a/words/P/PU_MA_KU|PU_MA_KU]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/P/PU_NI_KA_star363|PU_NI_KA_star363]]: Unread (unread): no role; 1 occurrence(s).
+[[wiki/linear-a/words/P/PU_NI_KA|PU_NI_KA]]: punniga: a kind of bread, counted by the loaf (*363); rival: a personal name. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/P/PU_RA|PU_RA]]: Unread (unread): no role; 1 occurrence(s).
 

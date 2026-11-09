@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/I/I_MI_SA_RA
 title: "I-MI-SA-RA"
-desc: "Il-Mīšar: Il-Mīšar, god of justice—theophoric compound: ʾil 'god' + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.. Lexicon, PROBABLE (tier 3)."
+desc: "Il-Mīšar: god of justice (ʾil 'god' + Mīšaru). Lexicon, PROBABLE (tier 3)."
 tags: ["linear-a", "word", "tier-3", "compound", "hapax", "personnel", "ritual", "theonym"]
 kind: "word"
 form: "I-MI-SA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | Il-Mīšar |
-| Meaning | Il-Mīšar, god of justice—theophoric compound: ʾil 'god' + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet. |
+| Meaning | god of justice (ʾil 'god' + Mīšaru) |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
 | Language layer | Semitic |

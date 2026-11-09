@@ -49,7 +49,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | PROBABLE |
 | [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RO_TE\|A-RO-TE]] | Ḫaluti | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_TA_NA_TE\|A-TA-NA-TE]] | ʾAtanat | PROBABLE |
 | [[wiki/linear-a/words/A/AU_RE_TE\|AU-RE-TE]] | ʾawrēt | PROBABLE |
@@ -87,6 +87,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/T/TE_KE\|TE-KE]] | Tegi | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_KI\|TE-KI]] | Tegi | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_RI\|TE-RI]] | tēri | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_RI_MU\|TE-RI-MU]] | tarīmu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I\|TE-SU-DE-SE-KE-I]] | tesʾad šeqī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] | Tetu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | SPECULATIVE |

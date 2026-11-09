@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/T
 desc: "Words whose first sign begins with T."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-04T01:52:28Z
+updated: 2026-11-09T22:09:55Z
 ---
 
 # wiki/linear-a/words/T
@@ -31,11 +31,11 @@ updated: 2026-11-04T01:52:28Z
 
 [[wiki/linear-a/words/T/TA_NA_I_star301|TA_NA_I_star301]]: Unread (unread): no role; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU|TA_NA_I_star301_U_TI_NU]]: tan-ʿinā-u-tī-n(u): may you (f.) answer us (N-stem of √ʿ-n-y in the TA-NA-[X]-U-TI-NU frame: 2fs prefix + indicative -u + subject clitic -tī + 1cp object -n). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/T/TA_NA_I_star301_U_TI_NU|TA_NA_I_star301_U_TI_NU]]: tan-ʿinā-u-tī-n(u): may you (f.) answer us (2fs N-stem of √ʿ-n-y). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/T/TA_NA_MA_JE|TA_NA_MA_JE]]: Tanʿamay: personal name, 'She is gracious'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU|TA_NA_RA_TE_U_TI_NU]]: tan-raṣē-u-tī-n(u): may you (f.) be favorable toward us (N-stem of √r-ṣ-y + indicative -u + analogical 2fs subject clitic -tī + 1cp object -n). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/T/TA_NA_RA_TE_U_TI_NU|TA_NA_RA_TE_U_TI_NU]]: tan-raṣē-u-tī-n(u): may you (f.) be favorable toward us (2fs N-stem of √r-ṣ-y). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/T/TA_NA_SU_TE_KE|TA_NA_SU_TE_KE]]: tanašutē-kī: may [it] be drunk for you (f.)—N-stem 3fs imperfective of √š-t-y 'to drink' + 2fs pronominal suffix -kī. Lexicon, CANDIDATE (tier 2).
 
@@ -87,6 +87,8 @@ updated: 2026-11-04T01:52:28Z
 
 [[wiki/linear-a/words/T/TE_RI|TE_RI]]: tēri: attendant, courtier (recipient). Lexicon, CANDIDATE (tier 2).
 
+[[wiki/linear-a/words/T/TE_RI_MU|TE_RI_MU]]: tarīmu: you lift up (2ms prefix form of √r-w-m 'be high', causative). Lexicon, SPECULATIVE (tier 1).
+
 [[wiki/linear-a/words/T/TE_SU_DE_SE_KE_I|TE_SU_DE_SE_KE_I]]: tesʾad šeqī: she serves; give (him) drink!. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TE_TE|TE_TE]]: Unread (role only): personal name; 1 occurrence(s).
@@ -117,7 +119,7 @@ updated: 2026-11-04T01:52:28Z
 
 [[wiki/linear-a/words/T/TI_NI_TA|TI_NI_TA]]: Tinitu: Tinit (goddess, = Phoenician Tanit). Lexicon, CONFIRMED (tier 4).
 
-[[wiki/linear-a/words/T/TI_NI_TA_star307|TI_NI_TA_star307]]: Tinitu Dubur: Tinit of the Sanctuary (Goddess + Sanctuary pattern). Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/T/TI_NI_TA_star307|TI_NI_TA_star307]]: Tinit Dubur: Tinit of the Sanctuary (Goddess + Sanctuary pattern). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/T/TI_NI_broken_end|TI_NI_broken_end]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -147,7 +149,7 @@ updated: 2026-11-04T01:52:28Z
 
 [[wiki/linear-a/words/T/TU_ME_PA_JA|TU_ME_PA_JA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/T/TU_MI_TI_ZA_SE|TU_MI_TI_ZA_SE]]: tumtiṣa-se: for the fighting (terminative -SE), a levy of 45; rival tmtt 'team, crew'. Lexicon, SPECULATIVE (tier 1).
+[[wiki/linear-a/words/T/TU_MI_TI_ZA_SE|TU_MI_TI_ZA_SE]]: tumtiṣa-se: for the fighting men (terminative -SE), a troop of 45 on rations; rival tmtt 'team, crew'. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/T/TU_NU|TU_NU]]: Tunu: Tunu (Hurrian personal name, owner's name on a double axe). Lexicon, SPECULATIVE (tier 1).
 

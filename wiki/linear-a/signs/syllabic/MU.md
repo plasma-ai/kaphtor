@@ -42,7 +42,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star333_SA_MU\|\*333-SA-MU]] | biśāmu | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
 | [[wiki/linear-a/words/J/JA_SA_MU\|JA-SA-MU]] | yaśmaʿū | CANDIDATE |
 | [[wiki/linear-a/words/K/KI_plus_MU\|KI+MU]] | kumru | CANDIDATE |
@@ -50,6 +50,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/K/KU_RA_MU\|KU-RA-MU]] | Kurmu | CANDIDATE |
 | [[wiki/linear-a/words/M/MU_RU\|MU-RU]] | mūru | CANDIDATE |
 | [[wiki/linear-a/words/T/TA_NU_MU_TI\|TA-NU-MU-TI]] | ta-nʿum-u-tī | CANDIDATE |
+| [[wiki/linear-a/words/T/TE_RI_MU\|TE-RI-MU]] | tarīmu | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_TE_JA_MU\|WI-TE-JA-MU]] | Widd-tiyāmu | SPECULATIVE |
 
 <!-- END kaphtor:record -->

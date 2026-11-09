@@ -76,7 +76,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Fat and meat commodity allocation—fragmentary beginning, Villa Magazine findspot, LMIB. Pairs with HT12 (same location, same period, shared \*304 and QE-TU vocabulary).  Fragmentary tablet beginning. The personnel category \*305 heads the \*304 allocations. The RE preposition before \*304 marks an explicit allocation. MI-DA-NI (mitāni 'loins') would complete the meat/fat inventory. Shares vocabulary with HT12 (same findspot): \*304, QE-TU/QE-TU-NE.
+Context: Fat and meat commodity allocation—fragmentary beginning, Villa Magazine findspot, LMIB. Pairs with HT12 (same location, same period, shared \*304 and QE-TU vocabulary).
+
+Fragmentary tablet beginning. The personnel category \*305 heads the \*304 allocations. The RE preposition before \*304 marks an explicit allocation. MI-DA-NI (mitāni 'loins') would complete the meat/fat inventory. Shares vocabulary with HT12 (same findspot): \*304, QE-TU/QE-TU-NE.
 
 ### Source
 

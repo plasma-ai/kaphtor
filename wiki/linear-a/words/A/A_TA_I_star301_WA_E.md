@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/A/A_TA_I_star301_WA_E
 title: "A-TA-I-*301-WA-E"
-desc: "ʾatainawē: I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY). Lexicon, CONFIRMED (tier 4)."
+desc: "ʾatainawē: I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY, Palaikastro spelling). Lexicon, CONFIRMED (tier 4)."
 tags: ["linear-a", "word", "tier-4", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "A-TA-I-*301-WA-E"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | ʾatainawē |
-| Meaning | I make myself a dwelling (Palaikastro dialect variant, 1cs tG-stem middle-reflexive of √NWY) |
+| Meaning | I make myself a dwelling (1cs tG-stem middle-reflexive denominative of √NWY, Palaikastro spelling) |
 | Root | n-w-y |
 | Proto-Semitic | \*nwy (#3654) |
 | Language layer | Semitic |
@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-PK Za 11: the Palaikastro spelling of A-TA-I-\*301-WA-JA, whose reading and cognates it shares. -WA-E for -WA-JA writes ay as ē, as the Palaikastro scribes do.
+PK Za 11: the Palaikastro spelling of A-TA-I-\*301-WA-JA, whose reading and cognates it shares. -WA-E for -WA-JA contracts -aya to -ē, the Palaikastro vowel contraction. See A-TA-I-\*301-WA-JA.
 
 ### Cognates
 
@@ -50,12 +50,12 @@ PK Za 11: the Palaikastro spelling of A-TA-I-\*301-WA-JA, whose reading and cogn
 | Hebrew | nāweh (נָוֶה) 'comely habitation, pasture' (Exod 15:13, Ps 23:2 \[nĕʾōt, pl. construct\], Isa 33:20, Jer 25:30); nāʾwāh (נָאוָה) 'comely' (Song 1:5); √n-w-y 'to dwell, settle' |
 | Amorite | nawûm 'steppe; encampment (man and beast)' (Huffmon, APNM 237); nawijum 'nomadic encampment' (Gelb, AS 21) |
 | Akkadian | namû A (nawû) 'pasture land … and its population and flocks; outlying area around a city' (CAD N/1, 249–51) |
-| Arabic | nawā (نوى) 'to intend, set out for'; nawan, an-nawā (النَّوَى) 'the abode, the place one sets out for' |
-| Greek | ναός (naos) 'temple' &lt; \*nawos, same √n-w-y (Bernal 1987, Rendsburg 1989); cf. Exod 15:13 nəwēh qodšekhā 'Thy holy shrine' |
+| Arabic | nawā (نوى) 'to intend, set out for'; intawā (VIII) 'to repair, or betake oneself, to a place of alighting or abode'; nawan 'the place that is the object of a journey' (Lane 3040) |
+| Greek | ναός (naos) 'temple' &lt; \*nawos, same √n-w-y (Bernal 1987, 60; Rendsburg 1989, 77–78); Mycenaean na-wi-jo 'of the temple' (PY Jn 829) |
 
 ### Source
 
-Gordon 1966; di Mino
+di Mino
 
 ### Review
 

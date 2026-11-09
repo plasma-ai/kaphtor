@@ -51,7 +51,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> May you (f.) answer us, my Anat, Breast-Who-Gives-Drink, in righteousness.
+> May you answer us, my Anat, Breast-Who-Gives-Drink, in righteousness.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -63,7 +63,11 @@ Unicode (Linear A block):
 
 ### Notes
 
-The stone vessel is chipped, but the written sequence is complete: all three groups and their dividers survive, with no lacuna inside I-NA-TA-I-ZU-DI-SI-KA. The middle group is tentatively segmented I-NA-TA-I + ZU-DI + SI-KA, a theonym followed by a compound epithet. Ugaritic supplies the orthographic controls: three vowel-conditioned aleph signs (Huehnergard 2012, 21), syllabic ᵈa-na-tu₄ = /ʿanatu/, and ša-i = /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). Together these permit—but do not prove—a laryngeal-bearing initial I; final I is read as 1cs -ī. Ugaritic btlt ʿnt 'the young woman Anat' (KTU 1.3 III 11) and Middle Babylonian Ištar-ṣēri provide deity-plus-epithet controls. The rival segmentation with bare I-NA as a presentative remains possible but is less economical in this complete 2fs-verb + addressee context.
+A small alabaster cup from the peak sanctuary of Mt. Iouktas, written whole in three groups, each closed by a divider. Karetsou, Godart and Olivier take it for the finest example of the libation tables' secondary formula, with PS Za 2.2 a variant. Its middle group runs eight signs without a divider; its fifth sign, a dotted AB 79 (ZU, ṯu) ringed by fifteen curved strokes, is 'non pleinement assurée', and the editors reject their first reading of it as an embellished divider (1985, 123, 137 and n. 69).
+
+TA-NA-I-\*301-U-TI-NU is tan-ʿinā-u-tī-n(u) 'may you (f.) answer us', the frame of IO Za 2's TA-NA-RA-TE-U-TI-NU with √ʿ-n-y in the root slot: Ugaritic tʿnyn /taʿniyūna/ (KTU 1.23:12; Tropper 2000, 661), Hebrew N-stem naʿănêtî lô 'I will make answer to him' (Ezek 14:4, 7). I-NA-TA-I-ZU-DI-SI-KA is one compound, ʿInatī ṯudī-šiqā 'my Anat, Breast-Who-Gives-Drink', the goddess and her epithet written as one word: I writes the ʿ, as syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ (Huehnergard 2008, 18 n. 78); ZU-DI is ṯudī, Ugaritic ṯd 'breast' (DULAT 886), also written zd and ḏd (KTU 1.23:24, 59); SI-KA is šiqā, the verbal noun of √š-q-y 'give drink', as KA-NA-SI kanāsī 'my gathering' is of √k-n-s (U-NA-KA-NA-SI); so too the name RA-NA-TU-SU rannatušu 'his shout of joy', from rannat- of √r-n-n with -šu. Cf. the compounds KA-NI-JA-MI qāniy-yammi 'Creator of the Sea', El's epithet on CR Zf 1, and DA-DU-MI-NE dādu-Mīnō 'Beloved of Minos' (KN Zf 31). 'May you answer' puns on ʿAnat, 'she who answers' (di Mino, Ya Diktu).
+
+The Psalter has the whole line: nôrāʾôt bəṣedeq taʿănēnû ʾĕlōhê yišʿēnû 'with awesome deeds, in righteousness you answer us, Elohim of our salvation' (Ps 65:6), the verb before the vocative as in kî taʿănēnî ʾēl 'for you answer me, O El' (Ps 17:6). Ugarit nurses its king at the goddesses' breasts, ynq ḥlb aṯrt // mṣṣ ṯd btlt \[ʿnt\] 'who sucks the milk of Athirat, who drinks at the breast of the maiden \[Anat\]' (KTU 1.15 II 26–27), and Pughat gives drink to Yatpan before he answers (KTU 1.19 IV 54–56). Hanat is at Mari in Ummī-Hanat (ARM 23, 159:5), and ḫa-na-tum is Ishtar in the Amorite-Akkadian bilingual (George and Krebernik 2022, 115, 119).
 
 ### Source
 

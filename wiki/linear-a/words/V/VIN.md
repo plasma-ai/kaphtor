@@ -40,7 +40,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-A commodity logogram, wine: 52 standalone at 10 sites, the widest distribution of any commodity. On HT 89 it follows KU-RO in a separate commodity section, the numeral 6 damaged. wayn 'wine': Heb. yayin, Ug. yn, Gk. οἶνος &lt; \*woinos. VIN+WA (twice, HT 27b) takes WA as the complement for the wa- of \*wayn-; Canaanite is y-initial (Ug. yn; Amarna ye-ni, EA 84:44; Aphek ye-nu; GlOS 2, 366), so the complement writes the form before the shift. VIN, GRA and SA on HT 27b make the set of wine, grain and beer. Gordon's ya-ne 'wine' (1966, §123) is KN Zb 4, whose corrected reading is JA-SI (see JA-SI). Geʿez wayn 'wine; vine, grapes' and Sabaic wyn 'vineyard' keep the w- (K0457). Weak point: in Linear A the \*wayn- etymology rests on the VIN+WA complement alone, the commodity function on everything else. See JI-NU-MA-RE.
+A commodity logogram, wine: 52 standalone at 10 sites, the widest distribution of any commodity. On HT 89 it follows KU-RO in a separate commodity section, the numeral 6 damaged. wayn 'wine': Heb. yayin, Ug. yn, Gk. οἶνος &lt; \*woinos. VIN+WA (twice, HT 27b) takes WA as the complement for the wa- of \*wayn-; Canaanite is y-initial (Ug. yn; Amarna ye-ni, EA 84:44; Aphek ye-nu; GlOS 2, 366), so the complement writes the form before the shift. VIN, GRA and SA on HT 27b make the set of wine, grain and beer. Gordon's ya-ne 'wine' (1966, §123) is KN Zb 4, whose corrected reading is JA-SI (see JA-SI). Geʿez wayn 'wine; vine, grapes' and Sabaic wyn 'vineyard' keep the w- (K0457), as do Hittite wiyana- and Luwian winiyant- (Rabin 1963, 138). Weak point: in Linear A the \*wayn- etymology rests on the VIN+WA complement alone, the commodity function on everything else. See JI-NU-MA-RE.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ A commodity logogram, wine: 52 standalone at 10 sites, the widest distribution o
 
 ### Source
 
-di Mino; GlOS 2
+di Mino; GlOS 2; Rabin 1963
 
 ## Attestations
 

@@ -77,7 +77,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: LM IB two-section wool ledger. Wool allocations under the headings KU-PA₃-RI-JA and PA-SA-RI-JA.  GORILA I 42–43: .1 KU-PA₃-RI-JA · KỊ-MA+RU\[ .2 6 MA+RU-ME 10\[ .3 9 ½ MA+RU-MẸ 6 .4 PA-SA-RI-JA · MA+RU-MẸ\[ .5 RỤ-Ị-KO · MA+RU\[. The wool ligature MA+RU (A559) opens the group on every line, and marūm 'the wool' carries the quantities. Complete when RU-I-KO is resolved.
+Context: LM IB two-section wool ledger. Wool allocations under the headings KU-PA₃-RI-JA and PA-SA-RI-JA.
+
+GORILA I 42–43: .1 KU-PA₃-RI-JA · KỊ-MA+RU\[ .2 6 MA+RU-ME 10\[ .3 9 ½ MA+RU-MẸ 6 .4 PA-SA-RI-JA · MA+RU-MẸ\[ .5 RỤ-Ị-KO · MA+RU\[. The wool ligature MA+RU (A559) opens the group on every line, and marūm 'the wool' carries the quantities. Complete when RU-I-KO is resolved.
 
 ### Source
 

@@ -5,7 +5,7 @@ desc: "šima: name, renown, progeny (common noun in construct state; also attest
 tags: ["linear-a", "word", "tier-2", "hapax", "noun"]
 kind: "word"
 form: "SI-MA"
-datasets: ["lexicon"]
+datasets: ["lexicon", "onomasticon"]
 tier: 2
 confidence: "CANDIDATE"
 confidence_score: 0.55
@@ -68,5 +68,25 @@ di Mino; Gelb 1980; Pagan 1998
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
 | [[wiki/linear-a/inscriptions/PH/PHZb/PHZb4\|PHZb4]] | Šima | personal name ("Name/Renown/Progeny", = Shem; cf. Amorite Sumu-abum, Sumu-la-El) |  |
+
+## Onomasticon
+
+| Field | Value |
+|---|---|
+| Type | personal name (CANDIDATE) |
+| Affiliation | semitic (CANDIDATE) |
+| Evidence | lexicon_reading |
+| Entry | manual |
+| Occurrences | 1 in 1 documents |
+| Sites | Phaistos |
+| Supports | Clay vessel 1 |
+
+### Note
+
+PH Zb 4 SI-MA 𐄁 I-JA-TE, on a clay vessel: šima ʾiyyate 'name of the island', the common noun in construct. Or the name Šima, Shem, a person named on a commodity vessel as DI-NA-U on KN Zb 27; Amorite ŠU-MU-UM Šumum (Gelb 1980, no. 5941). See the lexicon entry.
+
+### Co-occurring lexicon words
+
+Readings from the lexicon as it stands: [[wiki/linear-a/words/I/I_JA_TE|I-JA-TE]] ʾiyyate.
 
 <!-- END kaphtor:record -->

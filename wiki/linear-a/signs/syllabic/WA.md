@@ -50,6 +50,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DU_ZU_WA\|DU-ZU-WA]] | ḏū-ṯuwāʕ | SPECULATIVE |
 | [[wiki/linear-a/words/I/I_NA_WA\|I-NA-WA]] | ʾi-nawā | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_WA_PI\|JA-WA-PI]] | Yawpiʿ | SPECULATIVE |
+| [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | SPECULATIVE |
 | [[wiki/linear-a/words/Q/QA_RA2_WA\|QA-RA₂-WA]] | qalwa | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_WA_AU_DE\|SE-WA-AU-DE]] | šawaʿ-dē | SPECULATIVE |
 

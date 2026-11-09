@@ -154,6 +154,9 @@ Conti Rossini, K. 1931. *Chrestomathia arabica meridionalis epigraphica edita et
 **Corazza et al. 2021**
 Corazza, Michele, Silvia Ferrara, Barbara Montecchi, Fabio Tamburini, and Miguel Valério. 2021. "The mathematical values of fraction signs in the Linear A script: A computational, statistical and typological approach." *Journal of Archaeological Science* 125: 105214. https://doi.org/10.1016/j.jas.2020.105214.
 
+**Crellin 2022**
+Crellin, Robert S. D. 2022. *The Semantics of Word Division in Northwest Semitic Writing Systems: Ugaritic, Phoenician, Hebrew, Moabite and Greek*. Contexts of and Relations between Early Writing Systems 4. Oxford and Philadelphia: Oxbow Books.
+
 **Dautais & Gabolde 2025**
 Dautais, Louis, and Marc Gabolde. 2025. "“Crossing the Wine-Dark Sea” from Knossos to Memphis: Hellenized Cretans in Egypt in the Mid-Eighteenth Dynasty (BM EA 5647)." *Journal of Ancient Egyptian Interconnections* 47: 7–28.
 
@@ -250,6 +253,9 @@ Fischer, Wolfdietrich. 2002. *A Grammar of Classical Arabic*. Yale Language Seri
 
 **Fol and Schmitt 2000**
 Fol, Alexander, and Rüdiger Schmitt. 2000. "A Linear A Text on a Clay Reel from Drama, South-East Bulgaria?" *Prähistorische Zeitschrift* 75/1: 56–62. https://doi.org/10.1515/prhz.2000.75.1.56.
+
+**Frantsouzoff and Rossi 2023**
+Frantsouzoff, Serge, and Irene Rossi. 2023. "Dhat Ḥimyam." *Thematic Dictionary of Ancient Arabia*, online edition. https://doi.org/10.60667/tdaa-0040.
 
 **Fronzaroli 1966** (also Fronzaroli 1965b)
 Fronzaroli, Pelio. 1965. "Studi sul lessico comune semitico. IV." *Rendiconti della Classe di Scienze morali, storiche e filologiche, Accademia Nazionale dei Lincei* XX: 246–269.
@@ -585,6 +591,8 @@ Nöldeke, Theodor. 1910. *Neue Beiträge zur semitischen Sprachwissenschaft*. St
 Nosch, Marie-Louise, and Jörg Weilhartner. 2026. "The common thread: textiles and wool logograms in Linear A." In E. Salgarella & V. Petrakis (eds.), The Wor(l)ds of Linear A, AURA Supplement 15, Department of History and Archaeology, NKUA, Athens, pp. 115–136.
 
 **Olivier 1999**
+Olivier, Jean-Pierre. 1982. "La bague en or de Mavro Spelio et son inscription en linéaire A." In *Rayonnement grec: Hommages à Charles Delvoye*, edited by L. Hadermann-Misguich and G. Raepsaet, 15–26, pls. I–II. Bruxelles: Éditions de l'Université de Bruxelles. https://dipot.ulb.ac.be/dspace/bitstream/2013/248418/4/f308303f-8adc-4541-b922-cf75a257df85.txt
+
 Olivier, Jean-Pierre. 1999. "Rapport 1991-1995 sur les textes en écriture hiéroglyphique crétoise en linéaire A et en linéaire B." In *Floreant Studia Mycenaea: Akten des X. Internationalen Mykenologischen Colloquiums in Salzburg vom 1.–5. Mai 1995*, edited by S. Deger-Jalkotzy, S. Hiller and O. Panagl, 419–435. Wien: Verlag der Österreichischen Akademie der Wissenschaften.
 
 **Olyan 1988**
@@ -652,6 +660,9 @@ Pugliese Carratelli, Giovanni. 1945. "Le iscrizioni preelleniche di Haghia Triad
 
 **Pugliese Carratelli 1987**
 La Rosa, V., and G. Pugliese Carratelli. 1987. "Nuove iscrizioni in lineare A dalla «Villa Reale» di Haghia Triada." *La Parola del Passato* 42: 463–468.
+
+**Rabin 1963**
+Rabin, Chaim. 1963. "Hittite Words in Hebrew." *Orientalia* NS 32: 113–139. https://www.jstor.org/stable/43073741
 
 **Rainey 1996**
 Rainey, Anson F. 1996. *Canaanite in the Amarna Tablets: A Linguistic Analysis of the Mixed Dialect Used by the Scribes from Canaan*. Handbuch der Orientalistik, Erste Abteilung: Der Nahe und Mittlere Osten 25. Leiden: E. J. Brill.
@@ -791,6 +802,9 @@ Tomback, Richard S. 1978. *A Comparative Semitic Lexicon of the Phoenician and P
 **Topçuoğlu 2016**
 Topçuoğlu, Oya. 2016. *Emblems of Power: Ideology and Identity in Late Old Assyrian Glyptic*. PhD dissertation, University of Chicago. https://doi.org/10.6082/d9v3n-6ed75.
 
+**Trémouille 2014**
+Trémouille, Marie-Claude. 2014. *Répertoire onomastique*. Hethitologie Portal Mainz, prepared by G. G. W. Müller. https://wres-hatti.adwudlit.uni-mainz.de/hetonom/reponomast.php.
+
 **Tropper & Vita 2019**
 Tropper, Josef, and Juan-Pablo Vita. 2019. "Ugaritic." In John Huehnergard and Na'ama Pat-El (eds.), The Semitic Languages, 2nd ed. Routledge, Abingdon/New York: 482–508 (ch. 19). https://doi.org/10.4324/9780429025563-19.
 
@@ -910,6 +924,7 @@ These works are not held. The data cites each through another work, named after 
 - **Johnstone 1975**: Johnstone 1975 – T. M. Johnstone. The Modern South Arabican Languages. Afroasiatic Linguitics 1/5:93‒121. Cited through SEDonline.
 - **Johnstone 1981**: Johnstone 1981 T. M. Johnstone, Jibbali Lexicon. Cited through Sabaweb.
 - **Johnstone 1987**: Johnstone 1987 T. M. Johnstone, Mehri Lexicon and English-Mehri Word-List. Cited through Sabaweb.
+- **Killen 1969**: Killen 1969 = KILLEN, J.T., «The Minoan Documents», BICS 16, 1969, pp. 162-165. Cited through Schoep 2002.
 - **Kogan 2001**: Kogan 2001 – L. Kogan. *γ in Akkadian. UF 33:263‒298. Cited through SEDonline.
 - **Kogan 2005c**: Kogan 2005c – L. Kogan. *γ in Ethiopian. Studia Semitica et Semitohamitica. Festschrift für Rainer Voigt. Münster. Pp. 183‒216. Cited through SEDonline.
 - **Kogan 2006b**: Kogan 2006b – L. Kogan. The Etymology of Israel (with an Appendix on Non-Hebrew Semitic Names among Hebrews in the Old Testament). BuB 3:237‒255. Cited through SEDonline.
@@ -944,8 +959,8 @@ These works are not held. The data cites each through another work, named after 
 - **Pardee 1988**: Pardee 1988 – D. Pardee. Les textes para-mythologiques de la 24e campagne (1961). Paris. Cited through SEDonline.
 - **Pardee 1997**: Pardee 1997 – D. Pardee. Miscellaneous Ugaritic texts translated and annotated in the section “West Semitic Canonical Compositions.” The Context of Scripture. I. Canonical Compositions from the Biblical World. Leiden/New York/Köln. Cited through SEDonline.
 - **Pasquali 1995**: Pasquali 1995—Pasquali, Jacopo. “*Hullum* a Ebla e Mari.” *Nouvelles Assyriologiques Brèves et Utilitaires* 1995: 52–53. (Vita 2021, bibliography). Cited through SEDonline.
+- **Peruzzi 1957**: Peruzzi 1957 = PERUZZI, E., «Note minoiche», Minos 5, 1957, pp. 9-15. Cited through Schoep 2002.
 - **Pirenne 1990**: Pirenne 1990 – J. Pirenne. Fouilles de Shabwa. I. Les témoins écrits de la région de Shabwa et l’histoire. Paris. Cited through SEDonline.
-- **Rabin 1963**: HALOT 472 gives "Rabin Orientalia 32:124f."; KeiBi KEI00113378: Rabin, Chaim. 1963. "Hittite Words in Hebrew." *Orientalia* 32: 113–139. Cited through HALOT.
 - **Rainey 1978**: Rainey 1978 – A. Rainey. El Amarna Tablets 359‒379. Neukirchen. Cited through SEDonline.
 - **Rainey 2015**: Rainey 2015—Rainey, Anson F. *The El-Amarna Correspondence*. Leiden-Boston: Brill, 2015. (Vita 2021, bibliography). Cited through SEDonline.
 - **Renfroe 1992**: Renfroe 1992 – F. Renfroe. Arabic-Ugaritic Lexical Studies. Münster. Cited through SEDonline.
@@ -1096,7 +1111,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Bass | F. da Bassano. Vocabolario tigray-italiano e repertorio italiano-tigray. Roma, 1918. | 75 |  |
 | Bass. | F. da Bassano. Vocabolario tigray-italiano e repertorio italiano-tigray. Roma, 1918. | 55 |  |
 | Bassano | da Bassano, *Vocabolario tigray-italiano e repertorio italiano-tigray* (1918) | 2 |  |
-| BDB | Brown, *A Hebrew and English Lexicon of the Old Testament, with an Appendix Containing the Biblical Aramaic* (1907) | 274 | 23 |
+| BDB | Brown, *A Hebrew and English Lexicon of the Old Testament, with an Appendix Containing the Biblical Aramaic* (1907) | 274 | 22 |
 | BE | Clay, *Documents from the Temple Archives of Nippur Dated in the Reigns of Cassite Rulers (Complete Dates)* (1906) |  | 3 |
 | Behnschtedt | misspelling of Behnstedt: Behnstedt, *Die nordjemenitischen Dialekte. T. 2: Glossar* (1992) | 1 |  |
 | Behnstedt | P. Behnstedt. Die nordjemenitischen Dialekte. T. 2: Glossar. Wiesbaden, 1992.— | 8 |  |
@@ -1119,12 +1134,12 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | BY | E. Ben Yehuda. Thesaurus totius hebraitatis. Vol. 1—17. B., 1908—59. | 3 |  |
 | CAAA | Gelb, *Computer-aided Analysis of Amorite* (1980) | 1 |  |
 | CAD | the volume is in the loc ("CAD A/1 67"): see CAD A/1 … CAD Z | 1018 |  |
-| CAD A/1 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. A/1* (1964) |  | 14 |
-| CAD A/2 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. A/2* (1968) |  | 13 |
+| CAD A/1 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. A/1* (1964) |  | 12 |
+| CAD A/2 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. A/2* (1968) |  | 17 |
 | CAD A2 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. A/2* (1968) |  | 2 |
-| CAD B | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 2, B* (1965) |  | 19 |
+| CAD B | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 2, B* (1965) |  | 21 |
 | CAD D | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. D* (1959) |  | 37 |
-| CAD E | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 4, E* (1958) |  | 9 |
+| CAD E | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 4, E* (1958) |  | 11 |
 | CAD Ḫ | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 6, Ḫ* (1956) |  | 7 |
 | CAD I/J | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 7, I and J* (1960) |  | 12 |
 | CAD K | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 8, K* (1971) |  | 93 |
@@ -1134,12 +1149,12 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | CAD M/II | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 10, M, part 2* (1977) |  | 4 |
 | CAD M2 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 10, M, part 2* (1977) |  | 1 |
 | CAD N/1 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 11, N, part 1* (1980) |  | 9 |
-| CAD N/2 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 11, N, part 2* (1980) |  | 4 |
+| CAD N/2 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 11, N, part 2* (1980) |  | 6 |
 | CAD N/II | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 11, N, part 2* (1980) |  | 1 |
 | CAD N1 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 11, N, part 1* (1980) |  | 1 |
-| CAD P | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 12, P* (2005) |  | 17 |
-| CAD Q | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 13, Q* (1982) |  | 54 |
-| CAD R | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 14, R* (1999) |  | 29 |
+| CAD P | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 12, P* (2005) |  | 20 |
+| CAD Q | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 13, Q* (1982) |  | 55 |
+| CAD R | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 14, R* (1999) |  | 28 |
 | CAD S | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 15, S* (1984) |  | 11 |
 | CAD Ṣ | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 16, Ṣ* (1962) |  | 9 |
 | CAD Š/1 | Oriental Institute, *The Assyrian Dictionary of the Oriental Institute of the University of Chicago, vol. 17, Š, part 1* (1989) |  | 14 |
@@ -1177,13 +1192,13 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | DM | Drower, *A Mandaic Dictionary* (1963) | 235 |  |
 | DMic I | Aura Jorro, *Diccionario Micénico, vol. I (CSIC 1985)* |  | 22 |
 | DMic II | Aura Jorro, *Diccionario Micénico, vol. II (CSIC 1993)* |  | 28 |
-| DNWSI | Hoftijzer, *Dictionary of the North-West Semitic Inscriptions* (1995) | 193 | 14 |
+| DNWSI | Hoftijzer, *Dictionary of the North-West Semitic Inscriptions* (1995) | 193 | 25 |
 | Dozy | Dozy, *Supplément aux dictionnaires arabes* (1927); Dozy, *Supplément aux dictionnaires arabes* (1927) | 21 |  |
 | DRS | D. Cohen. Dictionnaire des racines sémitiques ou attestées dans les langues sémitiques. La Haye, 1970—. | 7 |  |
 | Drower–Macuch | Drower and Macuch, *A Mandaic Dictionary* (1963), as HALOT cites it |  | 1 |
 | DSA | A. Tal. A Dictionary of Samaritan Aramaic. Leiden, 2000. | 2 |  |
-| DULAT | del Olmo Lete, *A Dictionary of the Ugaritic Language in the Alphabetic Tradition* (2015) | 884 | 671 |
-| EA | Moran, *The Amarna Letters* (1992) |  | 67 |
+| DULAT | del Olmo Lete, *A Dictionary of the Ugaritic Language in the Alphabetic Tradition* (2015) | 884 | 686 |
+| EA | Moran, *The Amarna Letters* (1992) |  | 73 |
 | EbDA | Ebla Digital Archives, *Ebla Digital Archives (EbDA): ARET, ARES and MEE text editions* |  | 6 |
 | EDA | Etymological Dictionary of Akkadian. 2020‒. | 2 |  |
 | EDG | W. Leslau. Etymological Dictionary of Gurage (Ethiopic). Vol. III. Wiesbaden, 1979. | 126 |  |
@@ -1210,7 +1225,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Garb | I. Garbell. The Jewish Neo-Aramaic Dialect of Persian Azerbaijan. London–the Hague–Paris, 1965. | 22 |  |
 | Garb. | I. Garbell. The Jewish Neo-Aramaic Dialect of Persian Azerbaijan. London–the Hague–Paris, 1965. | 3 |  |
 | GD | C. Landberg. Glossaire Dafinois. Leiden, 1920–42. | 14 |  |
-| Gelb AS 21 | Gelb, *Computer-aided Analysis of Amorite* (1980) | 248 | 52 |
+| Gelb AS 21 | Gelb, *Computer-aided Analysis of Amorite* (1980) | 248 | 56 |
 | George and Krebernik 2022 | author–year key George and Krebernik 2022 | 19 |  |
 | GKC | Gesenius, *Gesenius' Hebrew Grammar, 2nd English ed.* (1910) |  | 2 |
 | GLH | Laroche, *Glossaire de la langue hourrite* (1980) |  | 23 |
@@ -1220,15 +1235,15 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Golinets 2025 | author–year key Golinets 2025 | 8 |  |
 | Gordon | C. Gordon. Ugaritic Textbook. Rome, 1965. | 7 |  |
 | Gordon UT | Gordon, Ugaritic Textbook (CDG bibliography, Gordon 1965); no record |  | 3 |
-| GORILA I | Godart, *Recueil des inscriptions en linéaire A, volume 1: Tablettes éditées avant 1970 (GORILA I)* (1976) |  | 183 |
+| GORILA I | Godart, *Recueil des inscriptions en linéaire A, volume 1: Tablettes éditées avant 1970 (GORILA I)* (1976) |  | 189 |
 | GORILA II | Godart, *Recueil des inscriptions en linéaire A, volume 2: Nodules, scellés et rondelles édités avant 1970 (GORILA II)* (1979) |  | 19 |
-| GORILA III | Godart, *Recueil des inscriptions en linéaire A, volume 3: Tablettes, nodules et rondelles édités en 1975 et 1976 (GORILA III)* (1976) |  | 59 |
-| GORILA IV | Godart, *Recueil des inscriptions en linéaire A, volume 4: Autres documents (GORILA IV)* (1982) |  | 41 |
-| GORILA V | Godart, *Recueil des inscriptions en linéaire A, volume 5: Addenda, corrigenda, concordances, index et planches des signes (GORILA V)* (1985) |  | 6 |
+| GORILA III | Godart, *Recueil des inscriptions en linéaire A, volume 3: Tablettes, nodules et rondelles édités en 1975 et 1976 (GORILA III)* (1976) |  | 62 |
+| GORILA IV | Godart, *Recueil des inscriptions en linéaire A, volume 4: Autres documents (GORILA IV)* (1982) |  | 44 |
+| GORILA V | Godart, *Recueil des inscriptions en linéaire A, volume 5: Addenda, corrigenda, concordances, index et planches des signes (GORILA V)* (1985) |  | 8 |
 | Hackett | Hackett, *The Balaam Text from Deir ʿAllā* (1984) | 2 |  |
 | Hackett 1980 | author–year key Hackett 1980 | 1 |  |
 | Hajouz | author–year, the year in the loc: Hajouz 2013 | 21 |  |
-| HALOT | Koehler, *The Hebrew and Aramaic Lexicon of the Old Testament, vols. I–IV* (1994) | 4529 | 517 |
+| HALOT | Koehler, *The Hebrew and Aramaic Lexicon of the Old Testament, vols. I–IV* (1994) | 4529 | 555 |
 | Hava | J. G. Hava. Al-Farā'id. Arabic-English Dictionary. Beirut, 1970. | 11 |  |
 | HJ | Hoftijzer, *Dictionary of the North-West Semitic Inscriptions* (1995) | 155 |  |
 | HL | T. M. Johnstone. Ḥarsūsi Lexicon. Oxford, 1977. | 24 |  |
@@ -1258,12 +1273,12 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | K | T. L. Kane. Amharic-English Dictionary. Wiesbaden, 1990. | 190 |  |
 | K Tna | Kane, *Tigrinya-English Dictionary* (2000) | 6 |  |
 | K Tna. | Kane, *Tigrinya-English Dictionary* (2000) | 10 |  |
-| KAI | Donner, *Kanaanäische und aramäische Inschriften. Band 1* (2002) | 16 | 17 |
+| KAI | Donner, *Kanaanäische und aramäische Inschriften. Band 1* (2002) | 16 | 27 |
 | Kane 1990 | author–year key Kane 1990 | 6 |  |
 | Kane T | Kane, *Tigrinya-English Dictionary* (2000) | 1 |  |
 | KAV | Schroeder, *Keilschrifttexte aus Assur verschiedenen Inhalts* (1920) |  | 2 |
 | KBg | L. Koehler, W. Baumgartner. Hebräisches und Aramäisches Lexikon zum Alten Testament (neu bearbeitet von W. Baumgartner). Leiden, 1974—1990. | 1 |  |
-| KBo | Keilschrifttexte aus Boghazköi (CAD U/W p. xvii; EDA I p. 548) |  | 11 |
+| KBo | Keilschrifttexte aus Boghazköi (CAD U/W p. xvii; EDA I p. 548) |  | 14 |
 | Klein | Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language for Readers of English* (1987) | 49 | 1 |
 | Kogan | author–year, the year in the loc: Kogan 2012, Kogan 2025; "Add. to HSED 2" is Kogan, *Addenda et Corrigenda to the Hamito-Semitic Etymological Dictionary (HSED) by V. Orel and O. Stolbova (II)* (2002), by HSED number; some cells give a page only | 26 |  |
 | Kogan 2011 | author–year key Kogan 2011 | 341 |  |
@@ -1272,13 +1287,13 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Kr | Krebernik, *Zu Syllabar und Orthographie der lexikalischen Texte aus Ebla. Teil 2 (Glossar)* (1983) | 17 |  |
 | Kr. | Krotkoff, *A Neo-Aramaic Dialect of Kurdistan: Texts, Grammar and Vocabulary* (1982) | 7 |  |
 | Krah. | Krahmalkov, *A Phoenician-Punic Dictionary* (2000) | 13 |  |
-| Krahmalkov | Krahmalkov, *A Phoenician-Punic Dictionary* (2000) | 470 | 45 |
+| Krahmalkov | Krahmalkov, *A Phoenician-Punic Dictionary* (2000) | 470 | 52 |
 | Kreb | Krebernik, *Zu Syllabar und Orthographie der lexikalischen Texte aus Ebla. Teil 2 (Glossar)* (1983) | 1 |  |
 | Kreb. | Krebernik, *Zu Syllabar und Orthographie der lexikalischen Texte aus Ebla. Teil 2 (Glossar)* (1983) | 9 |  |
 | Krebernik | author–year, the year in the loc: Krebernik 1983, Krebernik 1984, Krebernik 1988, Krebernik 1996 | 144 |  |
 | KRS | Al-Jallad, *Online Corpus of the Inscriptions of Ancient North Arabia (OCIANA)* (2024) |  | 2 |
 | KT | Kane, *Tigrinya-English Dictionary* (2000) | 9 |  |
-| KTU | Dietrich, *Die keilalphabetischen Texte aus Ugarit, Ras Ibn Hani und anderen Orten / The Cuneiform Alphabetic Texts from Ugarit, Ras Ibn Hani and Other Places (KTU³)* (2013) | 41 | 150 |
+| KTU | Dietrich, *Die keilalphabetischen Texte aus Ugarit, Ras Ibn Hani und anderen Orten / The Cuneiform Alphabetic Texts from Ugarit, Ras Ibn Hani and Other Places (KTU³)* (2013) | 41 | 157 |
 | KUB | Keilschrifturkunden aus Boghazköi (CAD U/W p. xviii; EDA I p. 548) |  | 6 |
 | Kuip. | Kuipers, *A Comparative Lexicon of Three Modern Aramaic Dialects* (1983) | 10 |  |
 | LA | Ibn Manẓūr, *Lisān al-ʿArab* | 153 |  |
@@ -1331,8 +1346,8 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | NP | B. B. Наумкин, В. Я. Порхомовский. Очерки по этнолингвистике Сокотры. М., 1981. (V. V. Naumkin, V. Ya. Porkhomovsky. Essays in Ethnolinguistics of Soqotra. M., 1981.) | 5 |  |
 | NPN | Gelb, *Nuzi Personal Names* (1943) |  | 98 |
 | OLA80 | Lipiński, *Semitic Languages: Outline of a Comparative Grammar* (1997) | 175 |  |
-| ORACC | Oracc Steering Committee, *Oracc: The Open Richly Annotated Cuneiform Corpus* | 3 | 34 |
-| ORACC CAMS/GKAB | ORACC Project, *ORACC CAMS/GKAB Glossary (Akkadian Literary Lexicon)* (2024) |  | 4 |
+| ORACC | Oracc Steering Committee, *Oracc: The Open Richly Annotated Cuneiform Corpus* | 3 | 33 |
+| ORACC CAMS/GKAB | ORACC Project, *ORACC CAMS/GKAB Glossary (Akkadian Literary Lexicon)* (2024) |  | 3 |
 | ORAEC | Thesaurus Linguae Aegyptiae / ORAEC, *Open Richly Annotated Egyptian Corpus (ORAEC/TLA)* (2024) |  | 6 |
 | OS | Orel, *Hamito-Semitic Etymological Dictionary: Materials for a Reconstruction* (1995) | 1 |  |
 | Pagan | author–year, the year in the loc: Pagan 1998, the onomastic database (by row); "ARES 3" is Pagan, *A Morphological and Lexical Study of Personal Names in the Ebla Texts* (1998), by page | 2 |  |
@@ -1361,7 +1376,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Rein. Bed. | SED [Rein. Bed.]: L. Reinisch, Wörterbuch der Bedauye-Sprache, 1895; no record | 1 |  |
 | Rein. Bilin | Reinisch, *Die Bilin-Sprache. Bd. 2: Wörterbuch der Bilin-Sprache* (1887) | 1 |  |
 | Rendsburg | author–year, the year in the loc: Rendsburg 2022, Rendsburg 2026 | 6 |  |
-| RGTC 12/2 | Belmonte Marín, *Die Orts- und Gewässernamen der Texte aus Syrien im 2. Jt. v. Chr.* (2001) |  | 27 |
+| RGTC 12/2 | Belmonte Marín, *Die Orts- und Gewässernamen der Texte aus Syrien im 2. Jt. v. Chr.* (2001) |  | 30 |
 | Ricks | Ricks, *Lexicon of Inscriptional Qatabanian* (1989), SED's Ricks; the 1982 dissertation is Ricks 1982 | 18 |  |
 | Ricks 1982 | Ricks, *A Lexicon of Epigraphic Qatabanian* (1982) | 64 |  |
 | RILA-S1 | Del Freo, *Recueil des inscriptions en linéaire A. Vol. 6. Supplément 1 (RILA-S1)* (2024) |  | 10 |
@@ -1420,7 +1435,7 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | Tser | К. Г. Церетели. Хрестоматия современного ассирийского языка со словарем. Тбилиси, 1958. (K. G. Tsereteli. Neo-Assyrian Anthology (with glossary). Tbilisi, 1958.) | 37 |  |
 | Tser. | К. Г. Церетели. Хрестоматия современного ассирийского языка со словарем. Тбилиси, 1958. (K. G. Tsereteli. Neo-Assyrian Anthology (with glossary). Tbilisi, 1958.) | 9 |  |
 | UVST | Huehnergard, *Ugaritic Vocabulary in Syllabic Transcription, revised edition* (2008) | 93 |  |
-| VAS | Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin (CAD U/W p. xxviii; EDA I p. 552) |  | 3 |
+| VAS | Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin (CAD U/W p. xxviii; EDA I p. 552) |  | 4 |
 | VE | Pettinato, *Testi lessicali bilingui della biblioteca L. 2769. Parte 1: Traslitterazione dei testi e ricostruzione del VE* (1982) | 216 | 7 |
 | VHN | Richter, *Vorarbeiten zu einem hurritischen Namenbuch. Erster Teil: Personennamen altbabylonischer Überlieferung vom Mittleren Euphrat und aus dem nördlichen Mesopotamien* (2016) |  | 11 |
 | Watson | author–year, the year in the loc: Watson 2007, Watson 2020 | 8 |  |
@@ -1432,8 +1447,8 @@ Roots cells counts the roots’ cite cells (`reflexes[].cite`, `sed`) that carry
 | WKAS | Wörterbuch der klassischen arabischen Sprache. Wiesbaden, 1957—. | 11 |  |
 | WTS | E. Littmann, M. Höfner. Wörterbuch der Tigre-Sprache. Wiesbaden, 1956. | 60 |  |
 | WVDOG | Radner, *Die beiden neuassyrischen Privatarchive* (2016) |  | 1 |
-| Ya Diktu | di Mino, *Ya Diktu: Grammar of the Minoan Peak Sanctuary Libation Formula* (2026) |  | 31 |
-| YOS | Yale Oriental Series, Babylonian Texts (CAD U/W p. xxix) |  | 3 |
+| Ya Diktu | di Mino, *Ya Diktu: Grammar of the Minoan Peak Sanctuary Libation Formula* (2026) |  | 32 |
+| YOS | Yale Oriental Series, Babylonian Texts (CAD U/W p. xxix) |  | 4 |
 | Younger | Younger, *Linear A Texts and Inscriptions in Phonetic Transcription and Commentary* (2023) |  | 42 |
 
 ### Sigla of the Pre-Greek lexicon

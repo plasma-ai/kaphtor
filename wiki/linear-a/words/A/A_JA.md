@@ -45,7 +45,12 @@ PE Zc 4 A-JA ≈ JA-SI, inked, and SY Za 2, the last group of the formula, after
 
 ### Cognates
 
-Hebrew חַי ḥay "alive", חַיִּים ḥayyīm "life"; Ugaritic ḥyw "to live"; Mari West Semitic ḥaya "lives" is written both ha-ia- and a-ia-; Late Old Babylonian Alalakh likewise alternates ha-ia- and a-ia- in the same name (Weeden 2009, 96–100). The Mesopotamian god Haya is written dḫa-ià; Aya is an independently attested goddess.
+| Language | Comparison |
+|---|---|
+| Hebrew | חַי ḥay "alive", חַיִּים ḥayyīm "life" |
+| Ugaritic | ḥyw "to live" |
+| Mari | West Semitic ḥaya "lives" is written both ha-ia- and a-ia-; Late Old Babylonian Alalakh likewise alternates ha-ia- and a-ia- in the same name (Weeden 2009, 96–100) |
+| Akkadian | The Mesopotamian god Haya is written dḫa-ià; Aya is an independently attested goddess |
 
 ### Source
 

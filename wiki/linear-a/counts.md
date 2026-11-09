@@ -22,15 +22,15 @@ Every number on this page is computed from the data files.
 
 | Measure | Count |
 |---|---|
-| Translated inscriptions (complete) | 450 |
-| Translations incomplete | 82 |
+| Translated inscriptions (complete) | 451 |
+| Translations incomplete | 81 |
 | Corpus records | 1,719 |
 | Documents | 1,603 |
-| Lexicon entries | 648 |
+| Lexicon entries | 659 |
 | Resolved signs (syllabic + logogram) | 5 (2 + 3) |
 | Fraction values resolved | 3 |
-| Onomasticon entries | 373 |
-| Unread words listed | 368 |
+| Onomasticon entries | 375 |
+| Unread words listed | 365 |
 
 ## Documents against the published census
 
@@ -54,8 +54,8 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 |---|---|---|
 | CONFIRMED | 4 | 19 |
 | PROBABLE | 3 | 69 |
-| CANDIDATE | 2 | 245 |
-| SPECULATIVE | 1 | 315 |
+| CANDIDATE | 2 | 246 |
+| SPECULATIVE | 1 | 325 |
 
 ## Signs by status
 
@@ -69,10 +69,10 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 
 | Type | Entries |
 |---|---|
-| personal name | 250 |
+| personal name | 251 |
 | title | 51 |
 | theonym | 30 |
-| toponym | 27 |
+| toponym | 28 |
 | gentilic | 11 |
 | toponym gentilic | 4 |
 
@@ -81,8 +81,8 @@ GORILA 1,427 and RILA-S1 107 documents are published to the end of 2023 (1,534 i
 | Status | Words | Meaning |
 |---|---|---|
 | edge overlap | 19 | a lexicon word sits at one edge; often a chance 2-sign overlap |
-| role only | 209 | classed by role only (onomasticon type or translation label), no reading |
-| unread | 140 | nothing known |
+| role only | 208 | classed by role only (onomasticon type or translation label), no reading |
+| unread | 138 | nothing known |
 
 ## By site
 
@@ -90,11 +90,11 @@ Sites with ten or more records; every site is in [[wiki/linear-a/by_site|by site
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 333 | 360 |
+| Haghia Triada | 1,111 | 1,053 | 333 | 361 |
 | Khania | 226 | 223 | 36 | 69 |
 | Phaistos | 66 | 48 | 9 | 40 |
-| Knossos | 57 | 51 | 13 | 45 |
-| Zakros | 53 | 40 | 5 | 93 |
+| Knossos | 57 | 51 | 14 | 52 |
+| Zakros | 53 | 40 | 5 | 94 |
 | Palaikastro | 25 | 25 | 8 | 36 |
 | Malia | 22 | 11 | 0 | 9 |
 | Thera | 19 | 18 | 2 | 3 |

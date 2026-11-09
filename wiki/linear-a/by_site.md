@@ -20,11 +20,11 @@ Every number on this page is computed from the data files.
 
 | Site | Records | Documents | Translated (complete) | Lexicon words attested |
 |---|---|---|---|---|
-| Haghia Triada | 1,111 | 1,053 | 333 | 360 |
+| Haghia Triada | 1,111 | 1,053 | 333 | 361 |
 | Khania | 226 | 223 | 36 | 69 |
 | Phaistos | 66 | 48 | 9 | 40 |
-| Knossos | 57 | 51 | 13 | 45 |
-| Zakros | 53 | 40 | 5 | 93 |
+| Knossos | 57 | 51 | 14 | 52 |
+| Zakros | 53 | 40 | 5 | 94 |
 | Palaikastro | 25 | 25 | 8 | 36 |
 | Malia | 22 | 11 | 0 | 9 |
 | Thera | 19 | 18 | 2 | 3 |
@@ -33,11 +33,11 @@ Every number on this page is computed from the data files.
 | Syme | 12 | 12 | 6 | 16 |
 | Petras | 11 | 11 | 3 | 18 |
 | Kea | 8 | 8 | 1 | 2 |
-| Tylissos | 6 | 5 | 0 | 10 |
+| Tylissos | 6 | 5 | 0 | 11 |
 | Gournia | 5 | 3 | 0 | 5 |
 | Miletos | 4 | 4 | 0 | 2 |
 | Pyrgos | 4 | 4 | 0 | 4 |
-| Apodoulou | 3 | 3 | 1 | 5 |
+| Apodoulou | 3 | 3 | 1 | 6 |
 | Crete | 3 | 3 | 2 | 7 |
 | Milos | 3 | 3 | 0 | 3 |
 | Mokhlos | 3 | 3 | 0 | 1 |

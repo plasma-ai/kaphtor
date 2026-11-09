@@ -2,7 +2,7 @@
 name: wiki/semitic-roots/s
 desc: "Semitic roots whose first radical is s."
 created: 2026-10-22T17:38:31Z
-updated: 2026-11-05T23:44:29Z
+updated: 2026-11-09T14:20:03Z
 ---
 
 # wiki/semitic-roots/s
@@ -133,7 +133,7 @@ updated: 2026-11-05T23:44:29Z
 
 [[wiki/semitic-roots/s/3091_to_wait|3091_to_wait]]: Proto-Semitic *slb, 'to wait': reflexes in 3 language(s).
 
-[[wiki/semitic-roots/s/311_kind_of_vessel|311_kind_of_vessel]]: Proto-Semitic *sapp-, 'kind of vessel': reflexes in 5 language(s).
+[[wiki/semitic-roots/s/311_kind_of_vessel|311_kind_of_vessel]]: Proto-Semitic *sapp-, 'kind of vessel': reflexes in 7 language(s).
 
 [[wiki/semitic-roots/s/3123_separate_split|3123_separate_split]]: Proto-Semitic *sdḳ, 'separate, split': reflexes in 12 language(s).
 

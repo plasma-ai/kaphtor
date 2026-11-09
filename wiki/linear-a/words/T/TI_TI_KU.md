@@ -45,7 +45,11 @@ HT 35 and ZA Zb 3. On HT 35 it heads a list in which every commodity pours, cype
 
 ### Cognates
 
-Ug. √n-t-k "pour out" (KTU 1.14 I 28-30); Heb. נָתַךְ nātak—nifal nittak (Exod 9:33, 2 Chr 34:25), Hiphil hittīkū "they disbursed" (2 Kgs 22:9), Hiphil hitaktī (Ezek 22:20-22); Akk. natāku "drip"
+| Language | Comparison |
+|---|---|
+| Ugaritic | √n-t-k "pour out" (KTU 1.14 I 28-30) |
+| Hebrew | נָתַךְ nātak—nifal nittak (Exod 9:33, 2 Chr 34:25), Hiphil hittīkū "they disbursed" (2 Kgs 22:9), Hiphil hitaktī (Ezek 22:20-22) |
+| Akkadian | natāku "drip" |
 
 ### Source
 

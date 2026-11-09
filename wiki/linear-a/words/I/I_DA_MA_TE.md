@@ -45,7 +45,13 @@ AR Zf 1 and AR Zf 2, separate one-word inscriptions on votive double axes from A
 
 ### Cognates
 
-Cf. Ugaritic dmt "tower", in "the tower of the mother of(?) the god\[s(?)" (KTU 2.31:46), and dmtqdš "Tower" (DULAT 272); Akkadian dimtu "tower; fortified area, settlement; district" (CAD D 144–147; Huehnergard 1997). The unprefixed DA-MA-TE is independently attested at KY Za 2. Cf. Linear B da-ma-te, PY En 609.1, read δάμαρτες 'household estates' or Δαμάτηρ (DMic I 151), and Greek Δαμάτηρ (Dor., Arc., Boeot.), Δωμάτηρ (Aeol.), Δημήτηρ (Hom.) 'Demeter' (DELG 272–273).
+| Language | Comparison |
+|---|---|
+| Ugaritic | dmt "tower", in "the tower of the mother of(?) the god\[s(?)" (KTU 2.31:46), and dmtqdš "Tower" (DULAT 272) |
+| Akkadian | dimtu "tower; fortified area, settlement; district" (CAD D 144–147; Huehnergard 1997) |
+| Linear A | The unprefixed DA-MA-TE is independently attested at KY Za 2 |
+| Linear B | da-ma-te, PY En 609.1, read δάμαρτες 'household estates' or Δαμάτηρ (DMic I 151) |
+| Greek | Δαμάτηρ (Dor., Arc., Boeot.), Δωμάτηρ (Aeol.), Δημήτηρ (Hom.) 'Demeter' (DELG 272–273) |
 
 ### Source
 

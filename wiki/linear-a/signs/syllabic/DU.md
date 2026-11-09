@@ -69,6 +69,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/I/I_DU_TI\|I-DU-TI]] | Yidu-ti | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_DU_RA_TI\|JA-DU-RA-TI]] | Yadurati | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_DU_MA_NE\|KA-DU-MA-NE]] | Qadmān | CONFIRMED |
+| [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | SPECULATIVE |
 | [[wiki/linear-a/words/M/MA_SI_DU\|MA-SI-DU]] | maṣīdu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DU_QI_KU_MI\|SI-DU-QI-KU-MI]] | Ṣiduqi-kummi | SPECULATIVE |
 | [[wiki/linear-a/words/W/WI_NA_DU\|WI-NA-DU]] | Winadu | SPECULATIVE |

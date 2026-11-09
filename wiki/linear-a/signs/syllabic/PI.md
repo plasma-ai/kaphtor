@@ -49,7 +49,7 @@ updated: 2026-10-24T16:17:50Z
 |---|---|---|
 | [[wiki/linear-a/words/A/A_KI_PI_E_TE\|A-KI-PI-E-TE]] | Akipe-te | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_PI\|A-PI]] | ʾāpi | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_WA_PI\|A-WA-PI]] | ʾawpiʿ | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_I_PI_TA\|DA-I-PI-TA]] | Ṭayyibat | SPECULATIVE |
@@ -59,6 +59,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/N/NI_PI\|NI-PI]] | nīb | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_star34_TE\|PI-\*34-TE]] | piqitti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_star310_A\|PI-\*310-A]] | pīnā | CANDIDATE |
+| [[wiki/linear-a/words/P/PI_KE\|PI-KE]] | bikē | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_KU_ZU\|PI-KU-ZU]] | bi-kuṯ | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_MI_NA_TE\|PI-MI-NA-TE]] | bi-mināti | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_RU_E_JU\|PI-RU-E-JU]] | Pirʾu-ʾēlu | SPECULATIVE |

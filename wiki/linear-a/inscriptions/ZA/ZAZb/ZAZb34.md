@@ -61,7 +61,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: LMIB prayer with divine epithet + sacred space + imperative verb  Divine epithet + sacred space + imperative verb = prayer triad. All three words SPECULATIVE but liturgical structure is coherent.
+Context: LMIB prayer with divine epithet + sacred space + imperative verb
+
+Divine epithet + sacred space + imperative verb = prayer triad. All three words SPECULATIVE but liturgical structure is coherent.
 
 ### Source
 

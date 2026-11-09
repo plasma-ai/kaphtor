@@ -48,6 +48,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/D/DA_U_MI\|DA-U-MI]] | dawmi | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_NA_U\|DI-NA-U]] | Dīnāyu | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_MA_U_TI\|JA-MA-U-TI]] | Yamwuti | SPECULATIVE |
+| [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]] | yatainawuya | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_U_DE_TA\|KA-U-DE-TA]] | Kaw-tatta | SPECULATIVE |
 | [[wiki/linear-a/words/K/KA_U_ZU_NI\|KA-U-ZU-NI]] | Kawṯuni | SPECULATIVE |
 | [[wiki/linear-a/words/O/OLE_plus_U\|OLE+U]] | ʿuṣār | CANDIDATE |

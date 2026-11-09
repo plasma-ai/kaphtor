@@ -46,7 +46,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_JA\|A-JA]] | ḥayyā | CANDIDATE |
 | [[wiki/linear-a/words/A/A_JA_KU\|A-JA-KU]] | ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_MA_JA\|A-MA-JA]] | ʿAmmaya | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | Āsīya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SI_JA_KA\|A-SI-JA-KA]] | šawīqu | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SU_JA\|A-SU-JA]] | Azzuya | SPECULATIVE |
@@ -91,6 +91,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/J/JA_SI\|JA-SI]] | yašīʿ | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SI_E\|JA-SI-E]] | yašīʿ-ē | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_SU_MA_TU\|JA-SU-MA-TU]] | yā Šumāt | CANDIDATE |
+| [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]] | yatainawuya | CANDIDATE |
 | [[wiki/linear-a/words/J/JA_WA_PI\|JA-WA-PI]] | Yawpiʿ | SPECULATIVE |
 | [[wiki/linear-a/words/J/JA_WI\|JA-WI]] | Yawī | CANDIDATE |
 | [[wiki/linear-a/words/K/KA_NI_JA_MI\|KA-NI-JA-MI]] | qāniy-yammi | SPECULATIVE |
@@ -102,10 +103,12 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/M/MI_JA\|MI-JA]] | mayya | CANDIDATE |
 | [[wiki/linear-a/words/P/PA_JA\|PA-JA]] | Pay | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_JA_RE\|PA-JA-RE]] | Payare | PROBABLE |
+| [[wiki/linear-a/words/P/PA_JA_TA\|PA-JA-TA]] | bayta | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SA_RI_JA\|PA-SA-RI-JA]] | Baṣariya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PA_SE_JA\|PA-SE-JA]] | Paššiya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_TA_JA\|PI-TA-JA]] | Pitaya | SPECULATIVE |
 | [[wiki/linear-a/words/P/PU2_RE_JA\|PU₂-RE-JA]] | burē(t)yā | SPECULATIVE |
+| [[wiki/linear-a/words/R/RU_JA\|RU-JA]] | Ruya | SPECULATIVE |
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_JA_MA\|SA-JA-MA]] | śaymā | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_TO_I_JA\|SE-TO-I-JA]] | Ṣētiya | PROBABLE |

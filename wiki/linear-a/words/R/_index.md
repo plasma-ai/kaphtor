@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/R
 desc: "Words whose first sign begins with R."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-06T23:14:47Z
+updated: 2026-11-09T22:54:30Z
 ---
 
 # wiki/linear-a/words/R
@@ -71,6 +71,8 @@ updated: 2026-11-06T23:14:47Z
 
 [[wiki/linear-a/words/R/RI_RU_MA|RI_RU_MA]]: Lirumā: personal name, 'Pomegranate' (Ug. lrmn); recipient of pigs. Lexicon, SPECULATIVE (tier 1).
 
+[[wiki/linear-a/words/R/RI_SE|RI_SE]]: rēšī: my head (object of TE-RI-MU). Lexicon, SPECULATIVE (tier 1).
+
 [[wiki/linear-a/words/R/RI_SU_MA|RI_SU_MA]]: rīšum(a): head, chief quality; first quality. Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/R/RI_TA_JE|RI_TA_JE]]: Lītāy: (My) Might (personal name; lītu 'might, victory' + hypocoristic -āy); rival Rašiyya. Lexicon, SPECULATIVE (tier 1).
@@ -97,7 +99,7 @@ updated: 2026-11-06T23:14:47Z
 
 [[wiki/linear-a/words/R/RU_DI|RU_DI]]: rūdī: Roam! (f. imperative). Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/R/RU_JA|RU_JA]]: Ruya: personal name; Ugaritic rwy. Onomasticon personal name; lexicon entry RU-JA-TA-DI.
+[[wiki/linear-a/words/R/RU_JA|RU_JA]]: Ruya: personal name, the receiver on a roundel; Ugaritic rwy. Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/R/RU_JA_TA_DI|RU_JA_TA_DI]]: Ruya-dādī: personal name, Ruya + dādī 'my beloved'; Ruya alone on KN Wc 26. Lexicon, SPECULATIVE (tier 1).
 

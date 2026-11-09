@@ -45,7 +45,12 @@ HT 6b: MA-RI-RE-I 3, after RA-TI-SE 1 and before DU-DA-MA 66, on an aromatic all
 
 ### Cognates
 
-Akk. murru, Ug. mr, Heb. mōr (Exod 30:23), Ar. murr
+| Language | Comparison |
+|---|---|
+| Akkadian | murru |
+| Ugaritic | mr |
+| Hebrew | mōr (Exod 30:23) |
+| Arabic | murr |
 
 ### Source
 

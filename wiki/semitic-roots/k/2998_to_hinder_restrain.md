@@ -1,7 +1,7 @@
 ---
 name: wiki/semitic-roots/k/2998_to_hinder_restrain
 title: "*kVlVʔ-: 'to hinder, restrain'"
-desc: "Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 14 language(s)."
+desc: "Proto-Semitic *kVlVʔ-, 'to hinder, restrain': reflexes in 15 language(s)."
 tags: ["semitic-roots", "root"]
 kind: "semitic_root"
 id: "2998"
@@ -32,8 +32,9 @@ updated: 2026-10-22T17:38:31Z
 | Syrian Aramaic | kᵉlā (Klein s.v. כלא ᴵ) | Klein s.v. כלא ᴵ | gloss withheld |
 | Hebrew | kālāʔ (HALOT 475); keleʾ; bêt keleʾ (HALOT 475) | HALOT 475 | gloss withheld |
 | Ugaritic | klʾ (HALOT 475) | HALOT 475 |  |
-| Akkadian | kalū (HALOT 475); kīlu (killu) (CAD K 359); bīt kīli (CAD K 360); rab bīt kīli (CAD K 361) | HALOT 475; CAD K 359; CAD K 360; CAD K 361 | gloss withheld |
-| Arabic | kalaʾa (HALOT 475) | HALOT 475 |  |
+| Akkadian | kalû (CAD K 95) (CAD K 99); kīlu (killu) (CAD K 359); bīt kīli (CAD K 360); rab bīt kīli (CAD K 361) | CAD K 95; CAD K 99; CAD K 359; CAD K 360; CAD K 361 | gloss withheld |
+| Arabic | kalaʾa (HALOT 475); kalaʾa ad-daynu (Lane 2623); kāliʾ (Lane 2624) | HALOT 475; Lane 2623; Lane 2624 | gloss withheld |
+| Aramaic | klʾ; pass. ptc. kly (DNWSI 508) | DNWSI 508 | gloss withheld |
 | Geez | kalʾa (LGz. 281); kalkala (LGz. 283) | LGz. 281; LGz. 283 | gloss withheld |
 | Mandaic Aramaic | kla (LGz. 282) | LGz. 282 | gloss withheld |
 | Tigre | kälʾa (LGz. 282); kälkäla (LGz. 283) | LGz. 282; LGz. 283 | gloss withheld |

@@ -1,14 +1,14 @@
 ---
 name: wiki/linear-a/words/J/JA_PA_RA
 title: "JA-PA-RA"
-desc: "yapʾara: may he/it glorify, adorn (3ms volitive yaqtula √p-ʾ-r; guttural ʾ unwritten). Lexicon, CANDIDATE (tier 2)."
+desc: "yapʾara: may he/it glorify, adorn (3ms volitive √p-ʾ-r; guttural ʾ unwritten). Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "hapax", "libation_formula", "ritual", "verb"]
 kind: "word"
 form: "JA-PA-RA"
 datasets: ["lexicon"]
 tier: 2
 confidence: "CANDIDATE"
-confidence_score: 0.45
+confidence_score: 0.4
 reading: "yapʾara"
 attestations: ["SYZa9"]
 created: 2026-10-24T16:17:50Z
@@ -27,12 +27,12 @@ updated: 2026-10-24T16:17:50Z
 
 ## Lexicon
 
-**CANDIDATE**, tier 2 of 4, score 0.45
+**CANDIDATE**, tier 2 of 4, score 0.40
 
 | Field | Value |
 |---|---|
 | Reading | yapʾara |
-| Meaning | may he/it glorify, adorn (3ms volitive yaqtula √p-ʾ-r; guttural ʾ unwritten) |
+| Meaning | may he/it glorify, adorn (3ms volitive √p-ʾ-r; guttural ʾ unwritten) |
 | Root | p-ʾ-r |
 | Proto-Semitic | \*pVʔVr- (#2964) |
 | Language layer | Semitic |
@@ -41,11 +41,11 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-SY Za 9: only within JA-PA-RA-JA-SE. yapʾara, 3ms volitive yaqtula of √p-ʾ-r 'glorify, adorn', the guttural ʾ unwritten, as in JA-PA-QA yapqaḥ (PK Za 11, PK Za 12): the same ya- prefix before a p-initial root with the guttural dropped. One attestation. See JA-PA-RA-JA-SE.
+SY Za 9: only within JA-PA-RA-JA-SE. yapʾara, 3ms volitive of √p-ʾ-r 'glorify, adorn', the guttural ʾ unwritten, as in JA-PA-QA yapqaḥ (PK Za 11, PK Za 12): the same ya- prefix before a p-initial root with the guttural dropped. One attestation. See JA-PA-RA-JA-SE.
 
 ### Cognates
 
-Hebrew פָּאַר (pāʾar) "glorify, beautify", פְּאֵר (pəʾēr) "diadem" (Exod 39:28; Isa 61:3), תִּפְאֶרֶת (tipʾart) "beauty, splendor"; Akkadian apāru "to cap, crown"—metathesis sibling (BDB s.v. פְּאֵר compares Assyrian ipru, ēpartu; inner-Hebrew doublet אֲפֵר ʾăpēr "headband", 1 Kgs 20:38, 41)
+Hebrew פָּאַר (pāʾar) "glorify, beautify", פְּאֵר (pəʾēr) "diadem" (Exod 39:28; Isa 61:3), תִּפְאֶרֶת (tipʾart) "beauty, splendor"
 
 ### Source
 

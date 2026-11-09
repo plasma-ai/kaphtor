@@ -84,7 +84,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_RA_TU_ME\|A-RA-TU-ME]] | ʾarṣ̂atum | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_U_DA\|A-RA-U-DA]] | ʾArwada | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE\|A-RE-NE]] | ʾarān | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |
@@ -122,6 +123,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_WA_PI\|A-WA-PI]] | ʾawpiʿ | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_ZU_RA\|A-ZU-RA]] | ʾAṯirat | CANDIDATE |
 | [[wiki/linear-a/words/I/I_DA_A\|I-DA-A]] | ʾIda | PROBABLE |
+| [[wiki/linear-a/words/K/KO_A_DU_WA\|KO-A-DU-WA]] | Qō-Addua | SPECULATIVE |
 | [[wiki/linear-a/words/P/PI_star310_A\|PI-\*310-A]] | pīnā | CANDIDATE |
 | [[wiki/linear-a/words/U/U_NA_A\|U-NA-A]] | wannā(h) / winnā(h) | SPECULATIVE |
 

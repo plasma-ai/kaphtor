@@ -62,7 +62,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Northernmost Linear A inscription—clay nodule with libation formula vocabulary  Clay nodule sealing a shipment of 10 ¹⁄₁₆ units of unnamed commodity. Syllable sequence JA-SA SA-RA reads as JA-SA-SA-RA, the libation formula (CONFIRMED) without terminal -ME mimation. The formula on an administrative nodule labels the sealed goods as ritually consecrated. Compare IOZa12 where the same formula splits across a line break as JA-SA / SA-RA-ME. Parsing JA-SA and SA-RA as separate words (yašar 'upright' + šarra 'queen') is less economical and breaks the cross-site pattern. Northernmost Linear A inscription—Minoan ritual-administrative vocabulary extending to Samothrace.
+Context: Northernmost Linear A inscription—clay nodule with libation formula vocabulary
+
+Clay nodule sealing a shipment of 10 ¹⁄₁₆ units of unnamed commodity. Syllable sequence JA-SA SA-RA reads as JA-SA-SA-RA, the libation formula (CONFIRMED) without terminal -ME mimation. The formula on an administrative nodule labels the sealed goods as ritually consecrated. Compare IOZa12 where the same formula splits across a line break as JA-SA / SA-RA-ME. Parsing JA-SA and SA-RA as separate words (yašar 'upright' + šarra 'queen') is less economical and breaks the cross-site pattern. Northernmost Linear A inscription—Minoan ritual-administrative vocabulary extending to Samothrace.
 
 ### Source
 

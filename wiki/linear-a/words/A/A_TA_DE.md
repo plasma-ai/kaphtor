@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-CR Zf 1, the gold pin, divider-bounded, the last group after QA-KI-SE-NU-TI. ʾaʿtid(u) 'I make ready', 1cs prefix form of √ʿ-t-d 'be ready, prepare' (HALOT 901), the ʿ dropped: a-ta-de sign for sign. A suffix-form 1cs needs -t- (Heb. ʿātadtî). GORILA V's AB45 variant table gives the final DE. Cf. AU-TA-DE (KO(?) Zf 2), inside an undivided sequence. One attestation.
+CR Zf 1, the gold pin, divider-bounded, the last group after QA-KI-SE-NU-TI. ʾaʿtid(u) 'I make ready', 1cs prefix form of √ʿ-t-d 'be ready, prepare' (HALOT 901), the ʿ dropped. A suffix-form 1cs needs -t- (Heb. ʿātadtî). Aramaic sets the verb on statues a man prepared (DNWSI 897). GORILA V's AB45 variant table gives the final DE. Cf. AU-TA-DE (KO(?) Zf 2), inside an undivided sequence. Rival: \*watid- 'peg, pin' (Heb. yātēd, the loom's pin, Judg 16:14; Ar. watid), which needs the initial w written A, where A-MA-WA-SI writes WA. One attestation.
 
 ### Cognates
 
@@ -49,10 +49,11 @@ CR Zf 1, the gold pin, divider-bounded, the last group after QA-KI-SE-NU-TI. ʾa
 |---|---|
 | Hebrew | ʿātîd "ready, prepared"; Piel ʿattᵊdāh "make it ready" (Prov 24:27) |
 | Arabic | ʿatada "to prepare, make ready" |
+| Aramaic | ʿtd Pael 'to prepare, to arrange, to erect', of statues: ṣlmyʾ ʾlh zy ʿtyd šptw 'these are statues which Sh. prepared' (BSOAS 27, 272 iv 1ff.; DNWSI 897) |
 
 ### Source
 
-di Mino; HALOT
+di Mino; HALOT; DNWSI
 
 ## Attestations
 

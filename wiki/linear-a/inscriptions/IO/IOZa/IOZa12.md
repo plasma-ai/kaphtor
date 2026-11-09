@@ -60,7 +60,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary libation formula.  \]\[··\] · JA-SA-SA-RA-ME · I-TI\[ on one line (Karetsou, Godart & Olivier, Kadmos 24, 1985, 143), two unreadable signs before the formula word. The closing I-TI = ʾitti 'with (me)' (CANDIDATE) reads the fragment as formula word + comitative; the lacuna immediately after I-TI keeps bare vs suffixed open.
+Context: Peak sanctuary libation formula.
+
+\]\[··\] · JA-SA-SA-RA-ME · I-TI\[ on one line (Karetsou, Godart & Olivier, Kadmos 24, 1985, 143), two unreadable signs before the formula word. The closing I-TI = ʾitti 'with (me)' (CANDIDATE) reads the fragment as formula word + comitative; the lacuna immediately after I-TI keeps bare vs suffixed open.
 
 ### Source
 

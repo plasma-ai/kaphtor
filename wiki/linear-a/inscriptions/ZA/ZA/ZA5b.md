@@ -69,7 +69,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Wine administration — LM IB. Part of a 3-tablet Zakros wine distribution cluster (ZA4a, ZA5b, ZA15a) sharing JI-NU-MA-RE and SI-PI-KI; MA-KA-I-TA occurs only here and on PK1.  Wine administration tablet from Zakros. ZA4a, ZA5b and ZA15a share the pair JI-NU-MA-RE (wine-stewards, CANDIDATE) and SI-PI-KI (libation pourings, CANDIDATE); within the cluster MA-KA-I-TA (Makīt, SPECULATIVE) is unique to ZA5b. The allocation structure is word + quantity throughout: 20 units to the wine-stewards, 1½ units designated as libation pourings, 3 units to Makīt, the woman of PK 1. Scribe: ZA Scribe 1.
+Context: Wine administration — LM IB. Part of a 3-tablet Zakros wine distribution cluster (ZA4a, ZA5b, ZA15a) sharing JI-NU-MA-RE and SI-PI-KI; MA-KA-I-TA occurs only here and on PK1.
+
+Wine administration tablet from Zakros. ZA4a, ZA5b and ZA15a share the pair JI-NU-MA-RE (wine-stewards, CANDIDATE) and SI-PI-KI (libation pourings, CANDIDATE); within the cluster MA-KA-I-TA (Makīt, SPECULATIVE) is unique to ZA5b. The allocation structure is word + quantity throughout: 20 units to the wine-stewards, 1½ units designated as libation pourings, 3 units to Makīt, the woman of PK 1. Scribe: ZA Scribe 1.
 
 ### Source
 

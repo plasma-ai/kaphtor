@@ -45,7 +45,11 @@ ZA 4a \*28B-NU-MA-RE 13, SI-PI-KI 5; ZA 5b \*28B-NU-MA-RE 20, SI-PI-KI 1½, then
 
 ### Cognates
 
-Akkadian šapāku 'to pour, heap up'; Hebrew šāpak (שָׁפַךְ) 'to pour out, shed'; Ugaritic špk 'to spill, shed' (DULAT 823)
+| Language | Comparison |
+|---|---|
+| Akkadian | šapāku 'to pour, heap up' |
+| Hebrew | šāpak (שָׁפַךְ) 'to pour out, shed' |
+| Ugaritic | špk 'to spill, shed' (DULAT 823) |
 
 ### Source
 

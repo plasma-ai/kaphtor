@@ -44,7 +44,7 @@ Value from a spelling variant: JA-DI-KI-TE-TE-\*307-PU₂-RE (PK Za 8) and JA-DI
 |---|---|---|
 | [[wiki/linear-a/words/A/A_DU_star307_plus_star307\|A-DU \*307+\*307]] | Addu dubur-dubur | PROBABLE |
 | [[wiki/linear-a/words/O/OLE_star307\|OLE-\*307]] | OLE-dubur | PROBABLE |
-| [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinitu Dubur | PROBABLE |
+| [[wiki/linear-a/words/T/TI_NI_TA_star307\|TI-NI-TA \*307]] | Tinit Dubur | PROBABLE |
 | [[wiki/linear-a/words/V/VIR_plus_star307\|VIR+\*307]] | VIR-dubur | PROBABLE |
 
 <!-- END kaphtor:record -->

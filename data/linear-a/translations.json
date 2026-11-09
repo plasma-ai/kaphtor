@@ -633,13 +633,13 @@
       "words": [
         {
           "linear_a": "JA-TA-I-*301-U-JA",
-          "reading": "yata-inawuya",
-          "gloss": "He settles himself",
+          "reading": "yatainawuya",
+          "gloss": "he makes himself a dwelling",
           "confidence": "CANDIDATE",
           "note": "JA-TA prefix = 3ms imperfective (vs. A-TA = 1cs). Different person of the same verb. Unique to Apodoulou."
         }
       ],
-      "translation": "He settles himself.",
+      "translation": "He makes himself a dwelling.",
       "confidence": "CANDIDATE",
       "notes": "Context: Peak sanctuary libation formula—variant conjugation\n\nOnly the formula verb survives on this fragment. The JA-TA prefix (3ms) vs. the usual A-TA (1cs) is the key morphological variant—'he makes himself a dwelling' vs. 'I make myself a dwelling.'",
       "source": {
@@ -661,11 +661,11 @@
         },
         {
           "linear_a": "TA-NA-I-*301-(TI/E)",
-          "reading": "tanaʿʿīnā-tī / tanʿanē",
-          "gloss": "TI: May you (f.) answer; E: May she/you answer",
+          "reading": "tanʿanē / tanaʿʿīnā-tī",
+          "gloss": "E: May she/you answer; TI: May you (f.) answer",
           "root": "√ʿ-n-y (proposed N-stem)",
           "confidence": "CANDIDATE",
-          "note": "GORILA classified the final form as an uncertain allograph of LA 37 TI; Ferrara, Montecchi, and Valério (2022, 87) reassign the PS Za 2.2 form to LA 38 E. If TI, di Mino's analysis takes -TI as a t-based 2fs marker: 'May you (f.) answer.' If E, TA- alone is compatible with 3fs, 2ms, or 2fs and final -e may reflect the III-y stem: 'May she answer' or 'May you answer.'"
+          "note": "Ferrara, Montecchi, and Valério (2022, 87) assign the PS Za 2.2 form to LA 38 E, and on the stone a V-shaped bar joins the arch's legs; GORILA classified it as an uncertain allograph of LA 37 TI. If E, TA- alone is compatible with 3fs, 2ms, or 2fs and final -e may reflect the III-y stem: 'May she answer' or 'May you answer.' If TI, di Mino's analysis takes -TI as a t-based 2fs marker: 'May you (f.) answer.'"
         },
         {
           "linear_a": "[…]-JA-(TI/E)",
@@ -683,9 +683,9 @@
           "note": "Adverbial accusative."
         }
       ],
-      "translation": "TI: ‘[…]—May you (f.) answer—[…]—in righteousness.’ E: ‘[…]—May she/you answer—[…]—in righteousness.’",
+      "translation": "E: ‘[…]—May she/you answer—[…]—in righteousness.’ TI: ‘[…]—May you (f.) answer—[…]—in righteousness.’",
       "confidence": "CANDIDATE",
-      "notes": "Fragmentary stone-vessel inscription from the Dictaean Cave. The initial ]-RE-I-KE and medial […]-JA-(TI/E) groups are incomplete and remain untranslated. With *301 = NA, TA-NA-I-*301-(TI/E) may be an N-stem of √ʿ-n-y 'answer,' structurally comparable with IOZa6. The sign traditionally read TI may instead be LA 38 E (Ferrara, Montecchi, and Valério 2022, 87). The TI reading permits di Mino's marked 2fs analysis; the E reading removes that marker and leaves TA- person-ambiguous. JA-SA-SA-RA-ME is read yaššaram, 'in righteousness.'",
+      "notes": "The Dictaean table carries the sentence that IO Za 6 writes on Iouktas, in the same three groups: TA-NA-I-*301-U-TI-NU · I-NA-TA-I-ZU-DI-SI-KA · JA-SA-SA-RA-ME, 'May you answer us, my Anat, Breast-Who-Gives-Drink, in righteousness.' Here the middle group is broken at its start and ends -JA-(TI/E), where IO Za 6 has the goddess's name and title.\n\nWith *301 = NA, TA-NA-I-*301-(TI/E) is the N-stem of √ʿ-n-y 'answer', the bare form of IO Za 6's verb, without the indicative -u, the 2fs clitic -tī and the object -n(u) 'us'. Read with E, it is tanʿanē, 'may she answer' or 'may you answer': final -e comes from the III-y stem, and TA- leaves the person open. GORILA's TI gives tanaʿʿīnā-tī, di Mino's marked 2fs 'may you (f.) answer'.\n\nJA-SA-SA-RA-ME, yaššaram 'in righteousness', closes the sentence, as at Iouktas, Troullos and Palaikastro. ]-RE-I-KE is broken at its start and stays unread.",
       "source": {
         "di Mino": [
           "TA-NA-I-*301-(TI/E)",
@@ -2514,10 +2514,10 @@
       "words": [
         {
           "linear_a": "SU-PU₂-*188",
-          "reading": "sapu buṭni",
+          "reading": "suppu buṭni",
           "gloss": "bowl of terebinth (pistachio) nuts (product)",
           "confidence": "CANDIDATE",
-          "note": "Compound: SU-PU₂ /sapu/ \"jar\" + *188 BUṬNU \"terebinth\" logogram. Commodity heading."
+          "note": "Compound: SU-PU₂ /suppu/ \"bowl\" + *188 BUṬNU \"terebinth\" logogram. Commodity heading."
         },
         {
           "linear_a": "PA₃-*188",
@@ -2756,7 +2756,7 @@
           "root": "√ʿ-n-y (proposed N-stem prefix form, 2fs subject + 1cp object)",
           "position": 1,
           "confidence": "PROBABLE",
-          "note": "N-stem √ʿ-n-y in the TA-NA-[X]-U-TI-NU frame of IO Za 2 word 7: 2fs prefix + indicative -u + subject clitic -tī + 1cp object -n. The 2fs verb addresses the following theonym I-NA-TA-I (ʿInatī, \"my Anat\")."
+          "note": "N-stem √ʿ-n-y in the TA-NA-[X]-U-TI-NU frame of IO Za 2 word 7: 2fs prefix + indicative -u + subject clitic -tī + 1cp object -n. Ugaritic tʿnyn /taʿniyūna/ (KTU 1.23:12). The verb addresses and puns on the theonym that follows, I-NA-TA-I ʿInatī \"my Anat\"."
         },
         {
           "linear_a": "I-NA-TA-I",
@@ -2765,7 +2765,7 @@
           "root": "√ʿ-n-y",
           "position": 2,
           "confidence": "CANDIDATE",
-          "note": "Theonym plus 1cs -ī. Initial I is tentatively laryngeal-bearing rather than a separate particle. Ugaritic has three vowel-conditioned aleph signs (Huehnergard 2012, 21), while syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). These are orthographic parallels, not proof of the Linear A value."
+          "note": "Theonym plus 1cs -ī. I writes the ʿ, as syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ and ša-i for /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). ʿAnat is 'she who answers', √ʿ-n-y (di Mino, Ya Diktu)."
         },
         {
           "linear_a": "ZU-DI",
@@ -2774,7 +2774,7 @@
           "root": "√ṯ-d-y (PS *ṯad- 'breast')",
           "position": 2,
           "confidence": "PROBABLE",
-          "note": "First member of the proposed compound epithet ṯudī-šiqā, 'Breast-Who-Gives-Drink'; compare Ugaritic ṯd in KTU 1.23 b-ṯd aṯrt, 'at the breast of Athirat.'"
+          "note": "First member of ṯudī-šiqā. ZU is AB 79, ṯu, here a dotted form (Karetsou, Godart and Olivier 1985, 123); Ugaritic ṯd 'breast' (DULAT 886), also written zd and ḏd (KTU 1.23:24, 59)."
         },
         {
           "linear_a": "SI-KA",
@@ -2783,7 +2783,7 @@
           "root": "√š-q-y",
           "position": 2,
           "confidence": "CANDIDATE",
-          "note": "Second member of ṯudī-šiqā; compare Ugaritic šqy, Hebrew hišqā, and Akkadian šaqû, 'give drink.' The deity-plus-epithet construction is structurally comparable with Ugaritic btlt ʿnt, 'the young woman Anat' (KTU 1.3 III 11)."
+          "note": "Second member of ṯudī-šiqā; compare Ugaritic šqy, Hebrew hišqā, and Akkadian šaqû, 'give drink.' The deity-plus-epithet construction compares with Ugaritic btlt ʿnt, 'the young woman Anat' (KTU 1.3 III 11)."
         },
         {
           "linear_a": "JA-SA-SA-RA-ME",
@@ -2795,9 +2795,9 @@
           "note": "Adverbial accusative."
         }
       ],
-      "translation": "May you (f.) answer us, my Anat, Breast-Who-Gives-Drink, in righteousness.",
+      "translation": "May you answer us, my Anat, Breast-Who-Gives-Drink, in righteousness.",
       "confidence": "CANDIDATE",
-      "notes": "The stone vessel is chipped, but the written sequence is complete: all three groups and their dividers survive, with no lacuna inside I-NA-TA-I-ZU-DI-SI-KA. The middle group is tentatively segmented I-NA-TA-I + ZU-DI + SI-KA, a theonym followed by a compound epithet. Ugaritic supplies the orthographic controls: three vowel-conditioned aleph signs (Huehnergard 2012, 21), syllabic ᵈa-na-tu₄ = /ʿanatu/, and ša-i = /šāʿi/ (Huehnergard 2008, 18 n. 78, 208, 249). Together these permit—but do not prove—a laryngeal-bearing initial I; final I is read as 1cs -ī. Ugaritic btlt ʿnt 'the young woman Anat' (KTU 1.3 III 11) and Middle Babylonian Ištar-ṣēri provide deity-plus-epithet controls. The rival segmentation with bare I-NA as a presentative remains possible but is less economical in this complete 2fs-verb + addressee context.",
+      "notes": "A small alabaster cup from the peak sanctuary of Mt. Iouktas, written whole in three groups, each closed by a divider. Karetsou, Godart and Olivier take it for the finest example of the libation tables' secondary formula, with PS Za 2.2 a variant. Its middle group runs eight signs without a divider; its fifth sign, a dotted AB 79 (ZU, ṯu) ringed by fifteen curved strokes, is 'non pleinement assurée', and the editors reject their first reading of it as an embellished divider (1985, 123, 137 and n. 69).\n\nTA-NA-I-*301-U-TI-NU is tan-ʿinā-u-tī-n(u) 'may you (f.) answer us', the frame of IO Za 2's TA-NA-RA-TE-U-TI-NU with √ʿ-n-y in the root slot: Ugaritic tʿnyn /taʿniyūna/ (KTU 1.23:12; Tropper 2000, 661), Hebrew N-stem naʿănêtî lô 'I will make answer to him' (Ezek 14:4, 7). I-NA-TA-I-ZU-DI-SI-KA is one compound, ʿInatī ṯudī-šiqā 'my Anat, Breast-Who-Gives-Drink', the goddess and her epithet written as one word: I writes the ʿ, as syllabic Ugaritic writes ᵈa-na-tu₄ for /ʿanatu/ (Huehnergard 2008, 18 n. 78); ZU-DI is ṯudī, Ugaritic ṯd 'breast' (DULAT 886), also written zd and ḏd (KTU 1.23:24, 59); SI-KA is šiqā, the verbal noun of √š-q-y 'give drink', as KA-NA-SI kanāsī 'my gathering' is of √k-n-s (U-NA-KA-NA-SI); so too the name RA-NA-TU-SU rannatušu 'his shout of joy', from rannat- of √r-n-n with -šu. Cf. the compounds KA-NI-JA-MI qāniy-yammi 'Creator of the Sea', El's epithet on CR Zf 1, and DA-DU-MI-NE dādu-Mīnō 'Beloved of Minos' (KN Zf 31). 'May you answer' puns on ʿAnat, 'she who answers' (di Mino, Ya Diktu).\n\nThe Psalter has the whole line: nôrāʾôt bəṣedeq taʿănēnû ʾĕlōhê yišʿēnû 'with awesome deeds, in righteousness you answer us, Elohim of our salvation' (Ps 65:6), the verb before the vocative as in kî taʿănēnî ʾēl 'for you answer me, O El' (Ps 17:6). Ugarit nurses its king at the goddesses' breasts, ynq ḥlb aṯrt // mṣṣ ṯd btlt [ʿnt] 'who sucks the milk of Athirat, who drinks at the breast of the maiden [Anat]' (KTU 1.15 II 26–27), and Pughat gives drink to Yatpan before he answers (KTU 1.19 IV 54–56). Hanat is at Mari in Ummī-Hanat (ARM 23, 159:5), and ḫa-na-tum is Ishtar in the Amorite-Akkadian bilingual (George and Krebernik 2022, 115, 119).",
       "source": {
         "scholarly_sources": {
           "di Mino": [
@@ -4443,11 +4443,12 @@
         },
         {
           "linear_a": "SU-PU",
-          "reading": "sapu",
+          "reading": "suppu",
           "gloss": "bowl, basin",
           "root": "√s-p-p",
           "layer": 2,
-          "confidence": "CONFIRMED"
+          "confidence": "CONFIRMED",
+          "note": "Gordon's reading (EML §115), listed by HALOT 762, DULAT 753 and GlOS 2, 203. Ugarit counts its bowls by the piece too: arbʿ spm 'four bowls' (KTU 2.87:6)."
         },
         {
           "linear_a": "KA-RO-PA₃",
@@ -4768,10 +4769,10 @@
         },
         {
           "linear_a": "A-TA-I-*301-DE-KA",
-          "reading": "ʾata-iʿnay-dēka",
-          "gloss": "who-answered-for-you",
-          "confidence": "PROBABLE",
-          "note": "Zakros dialectal variant of libation formula (5th variant alongside -WA-JA standard, -WA-E Palaikastro, JA-...-U-JA Apodoulou, -WA-E Knossos). -DE-KA = 2ms dative suffix 'for you.' tG-stem of √ʿ-n-y 'to answer' (PS #606, Ugaritic ʿny, Hebrew ʿānāh). Guttural ʿayin drops per CV constraint. Resolves the condensation problem of √n-w-y analysis (which requires both w and y to vanish before -DE-KA, unparalleled in NWS)."
+          "reading": "ʾataʿinā dēka",
+          "gloss": "I humble myself for you",
+          "confidence": "CANDIDATE",
+          "note": "ZA Zb 3 .2, the formula's A-TA-I-*301- frame with -DE-KA. A- is the 1cs prefix, -TA- the t-stem, I-*301 (*301 = na) the root √ʿ-n-w 'to be humbled', its ʿ unwritten, and -DE-KA dēka 'for you', the relative dē + 2ms -ka (di Mino, Ya Diktu). Hebrew keeps this t-stem, hitʿannâ 'to submit' (Gen 16:9) and 'to bow humbly' before God (Dan 10:12, Ezra 8:21; HALOT 852–54); Ugaritic ʿnw 'to be humbled' (DULAT 168–69), Arabic ʿanati l-wujūhu 'faces are humbled' (Q 20:111). Rival: √ʿ-n-y 'to answer', the root of TA-NA-I-*301-U-TI-NU, 'I answer for you'; it has no t-stem in Hebrew or Ugaritic (HALOT 851–52; DULAT 169)."
         },
         {
           "linear_a": "A-RE-PI-RE-NA",
@@ -4788,9 +4789,9 @@
           "note": "√n-t-k 'pour out' (Ugaritic tntkn, KTU 1.14 I 28–30; Akkadian natāku), the nun assimilated to geminate tt and written TI-TI. Header of HT35, a list of pourable goods; here the last word of the wine libation. Rival: a toponym Tittiku."
         }
       ],
-      "translation": "Wine, 32. Djed-ka(.s) to Eshmun the Physician: he answered for you, O Healer of Jubilation. May it be poured out.",
+      "translation": "Wine, 32. Djed-ka(.s) to Eshmun the Physician: I humble myself for you, O Healer of Jubilation. May it be poured out.",
       "confidence": "CANDIDATE",
-      "notes": "Context: LMIB dedicatory inscription on a clay pithos. Contains libation formula in Zakros dialect (-DE-KA variant) + Egyptian theophoric personal name + libation verb.\n\nDedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Eshmun) + title (ʾāsē 'physician') + Zakros libation formula √ʿ-n-y + Eshmun epithet (compound √r-p-ʾ + √r-n-n) + closing TI-TI-KU 'may it be poured' (√n-t-k). The -DE-KA libation variant is unique to Zakros, establishing a 5th dialectal form. A-RE-PI-RE-NA is a compound divine epithet rather than a hapax PN, given its thematic convergence with Eshmun and the rpʾ/rnn liturgical dyad (Psalm 30:3-6).",
+      "notes": "Context: LMIB dedicatory inscription on a clay pithos. Contains libation formula in Zakros dialect (-DE-KA variant) + Egyptian theophoric personal name + libation verb.\n\nDedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Eshmun) + title (ʾāsē 'physician') + Zakros libation formula √ʿ-n-w + Eshmun epithet (compound √r-p-ʾ + √r-n-n) + closing TI-TI-KU 'may it be poured' (√n-t-k). The -DE-KA libation variant is unique to Zakros, establishing a 5th dialectal form. A-RE-PI-RE-NA is a compound divine epithet rather than a hapax PN, given its thematic convergence with Eshmun and the rpʾ/rnn liturgical dyad (Psalm 30:3-6).",
       "source": {
         "di Mino": [
           "DI-DI-KA-SE",
@@ -5236,8 +5237,8 @@
         },
         {
           "linear_a": "A-TA-NA-TE",
-          "reading": "ʾātanātu",
-          "gloss": "The Giver (f.) — Athena etymology; √y-t-n 'to give' with y > ʾ weakening (feminine *yātanāt > ʾātanāt)",
+          "reading": "ʾAtanat",
+          "gloss": "she who gives (the name behind Athena)",
           "root": "√y-t-n",
           "position": 4,
           "quantity": 1,
@@ -5304,22 +5305,53 @@
       "period": "MM III–LM IA",
       "words": [
         {
-          "linear_a": "A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU",
-          "reading": null,
-          "meaning": "unread"
+          "linear_a": "A-RE-NE",
+          "reading": "ʾarān",
+          "meaning": "coffin (construct)",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "SI-DI-*301",
+          "reading": "Ṣidna",
+          "meaning": "of Sidon",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "PI-KE",
+          "reading": "bikē",
+          "meaning": "weeping",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "PA-JA-TA",
+          "reading": "bayta",
+          "meaning": "in the house",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "RI-SE",
+          "reading": "rēšī",
+          "meaning": "my head",
+          "confidence": "SPECULATIVE"
+        },
+        {
+          "linear_a": "TE-RI-MU",
+          "reading": "tarīmu",
+          "meaning": "you lift up",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "A-JA-KU",
           "reading": "ʾAyaku",
-          "meaning": "personal name ('Where are you?')",
+          "meaning": "O ʾAyaku (personal name, 'Where are you?'), vocative",
           "confidence": "SPECULATIVE"
         }
       ],
-      "translation": "[A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU] ʾAyaku?",
+      "translation": "Coffin of Sidon. Weeping in the house. My head you lift up, O ʾAyaku.",
       "confidence": "SPECULATIVE",
-      "status": "incomplete",
-      "notes": "Gold ring HM 530: 19 signs in a spiral from the outer band inward, no dividers; RI (12, 15), MU (16) and KU (19) underdotted (GORILA IV 152–153). The segmentation is not marked. It ends at the centre with A-JA-KU, ʾAyaku?",
-      "source": "GORILA"
+      "status": "complete",
+      "notes": "Gold ring HM 530, from compartment E of Chamber Tomb IX at Mavro Spilio, the compartment of a larnax; the silver pin KN Zf 31 comes from the same tomb (Olivier 1982). 19 signs in a spiral from the outer band inward, no dividers; RI (12, 15), MU (16) and KU (19) dotted (GORILA IV 152–153). The corpus sets the boundaries (SI-DI-, -DI-NA, PA-JA-, TE-RI, A-JA-KU), Olivier's frequency division with two groups split. A lament: the coffin, the weeping in the house, and the Psalm idiom 'you lift up my head' (Ps 3:4) addressed to ʾAyaku. Kirta's death-lament gathers the same words: bt 'house', bky 'weep', rỉš 'head' and ỉk 'how?' (KTU 1.16 I 2–28). Tabnit of Sidon pairs ʾrn and ṣdnm on his coffin (KAI 13). Rival for signs 12–16: SE-TE-RI-MU sitrum 'protection'; Ps 27:4–6 has the words of both readings, bêt YHWH, sēter and yārûm rōʾšî, in three verses.",
+      "source": "di Mino; GORILA IV; Olivier 1982"
     },
     "KNZf31": {
       "site": "Knossos",
@@ -5772,10 +5804,9 @@
         },
         {
           "linear_a": "SI-TU-RA₂-RE",
-          "reading": null,
-          "gloss": "unread entry, 5",
-          "confidence": null,
-          "note": "Whole at the preserved left edge; or SI-TU-RI-RE (Younger). It may be related to the standalone SI-TU (ZA 20, HT Wa 1019). No reading."
+          "reading": "šitla le-",
+          "gloss": "shoots, for 5",
+          "confidence": "SPECULATIVE"
         },
         {
           "linear_a": "DI-[",
@@ -5804,7 +5835,7 @@
           "note": "Single sign at the end of the last line. No reading."
         }
       ],
-      "translation": "[…]MA[…] […]DI-NA-[…]. 2. QE-RA₂-JA[…]. 2. DI 2. 4. Young bull (MU-RU) 1. RU[…]. SI-TU-RA₂-RE 5, DI[…]. Kubānu 3. Maʾdi 2. DA.",
+      "translation": "[…]MA[…] […]DI-NA-[…]. 2. QE-RA₂-JA[…]. 2. DI 2. 4. Young bull (MU-RU) 1. RU[…]. Shoots, for 5. DI[…]. Kubānu 3. Maʾdi 2. DA.",
       "status": "incomplete",
       "notes": "Roster broken at the top and upper sides; the lower lines keep their left edge. KU-PA₃-NU and MA-DI are recurring roster entries.",
       "source": "di Mino"
@@ -10306,7 +10337,7 @@
         {
           "linear_a": "PA-TA-NE",
           "reading": "Patne",
-          "meaning": "personal name, 'Viper' (rival Ptah-theophoric)"
+          "meaning": "personal name, 'Viper'"
         },
         {
           "linear_a": "SI-TU",
@@ -11780,7 +11811,7 @@
         {
           "linear_a": "PA-TA-NE",
           "reading": "Patne",
-          "gloss": "PN, 'Viper' (rival Ptah-theophoric)",
+          "gloss": "PN, 'Viper'",
           "confidence": "CANDIDATE"
         },
         {
@@ -13824,10 +13855,10 @@
       "words": [
         {
           "linear_a": "A-PA-KI",
-          "reading": "ʾabakki",
+          "reading": "ʾabkī",
           "meaning": "I weep",
           "confidence": "SPECULATIVE",
-          "note": "G-stem present 1cs of √b-k-y 'weep'; Akkadian a-bak-ki /abakki/ is independently attested (ORACC P273162, P338383). Rival: ʾabki 'I wept'."
+          "note": "G prefix form 1cs of √b-k-y 'weep', Heb. ʾebkeh 'I weep' (Isa 16:9; Jer 48:32). Rival: the G present ʾabakki, Akk. a-bak-ki (ORACC P273162, P338383)."
         },
         {
           "linear_a": "U-NA-A",
@@ -13967,39 +13998,39 @@
           "reading": "ʿAmma-wāṣiʾ",
           "gloss": "the Kinsman who comes forth (divine epithet)",
           "confidence": "CANDIDATE",
-          "note": "ʿamma 'kinsman' (A-MA) with wāṣi(ʾ), masculine active participle of √w-ṣ-ʾ 'go out, appear', final ʾ unwritten; Amorite Yawṣiʾ-ʾIl 'El has come forth' (Gelb AS 21, no. 3574). Rival: ʾammāṣ 'Strong One' (Hebrew ʾammîṣ), which leaves -WA- unread. Paired with KA-NI-JA-MI as second El-epithet."
+          "note": "ʿamma 'kinsman' (A-MA) with wāṣi(ʾ), masculine active participle of √w-ṣ-ʾ 'go out, appear', final ʾ unwritten; Amorite Yawṣiʾ-ʾIl 'El has come forth' (Gelb AS 21, no. 3574), Old Babylonian wāṣiu 'going out' (CAD A/2 383). Rivals: ʾammāṣ 'Strong One' (Hebrew ʾammîṣ), which leaves -WA- unread; the dedicant's name; a Luwian name in -wašu (Tarḫuwašu, Ariwašu). Paired with KA-NI-JA-MI as second El-epithet."
         },
         {
           "linear_a": "KA-NI-JA-MI",
           "reading": "qāniy-yammi",
           "gloss": "Creator of the Sea (divine epithet)",
           "confidence": "SPECULATIVE",
-          "note": "El's epithet (masculine construct participle of √q-n-y). Cf. qn ʾarṣ \"Creator of Earth\" (Karatepe KAI 26 A III 18). Feminine would require qōniyat- (Ugaritic qnyt ʾilm for Athirat). Both words 1-2 address El: the Kinsman who comes forth, Creator of the Sea."
+          "note": "El's epithet (masculine construct participle of √q-n-y). Cf. qn ʾarṣ \"Creator of Earth\" (Karatepe KAI 26 A III 18) and Neo-Punic lʾl qn ʾrṣ in a dedication (KAI 129). Feminine would require qōniyat- (Ugaritic qnyt ʾilm for Athirat). Rival: qny-m 'dedicated possession', Sabaic qnym (Ja 841), hqny 'dedicate to a god' (Biella 1982, 459)."
         },
         {
           "linear_a": "I-JA",
           "reading": "ʾiya",
           "gloss": "island",
           "confidence": "CANDIDATE",
-          "note": "Hebrew ʾī 'island, coastland'; Ugaritic pl. iht 'islands, coastal region' (KTU 1.3 VI 8). Rival: vocative yā 'O (Yam)!', cf. Ugaritic y bʿl 'O Baal!' (KTU 1.4 V 43)."
+          "note": "Hebrew ʾī 'island, coastland', ʾî Kaptôr (Jer 47:4); Phoenician ʾy ʾlšy 'the Island of Alasia' (Krahmalkov 2000, 56); Ugaritic pl. iht 'islands, coastal region' (KTU 1.3 VI 8). With KA-NI-JA-MI, sea and island. Rivals: the vocative yā; ʾIyya 'where?' (GlOS 1, 59)."
         },
         {
           "linear_a": "QA-KI-SE-NU-TI",
           "reading": "Kaki-šenni-ti",
           "gloss": "personal name (the dedicant)",
           "confidence": "SPECULATIVE",
-          "note": "Hurrian type in -šenni 'brother' (Adal-šenni, Tulbi-šenni at Ugarit); cf. DA-KU-SE-NE (HT 103) and DA-KU-SE-NE-TI (HT 104). Also on KN Wb 33 as QA-KI-SE-NU-[ (Younger). Rival: Amorite kakka + sanati."
+          "note": "Hurrian type in -šenni 'brother' (Adal-šenni, Tulbi-šenni at Ugarit); cf. DA-KU-SE-NE (HT 103) and DA-KU-SE-NE-TI (HT 104), which write SE-NE where this writes SE-NU. Also on KN Wb 33 as QA-KI-SE-NU-[ (Younger). Rival: Amorite kakka + sanati."
         },
         {
           "linear_a": "A-TA-DE",
           "reading": "ʾaʿtid(u)",
           "gloss": "I make (this) ready",
           "confidence": "SPECULATIVE",
-          "note": "1cs prefix form of √ʿ-t-d 'be ready, prepare', ʿ unwritten (Hebrew ʿātîd 'ready, prepared'; Arabic ʿatada 'prepare'). A suffix-form 1cs would need -t- (Hebrew ʿātadtî)."
+          "note": "1cs prefix form of √ʿ-t-d 'be ready, prepare', ʿ unwritten (Hebrew ʿātîd 'ready, prepared'; Arabic ʿatada 'prepare'); Aramaic ʿtd, of statues prepared (DNWSI 897). A suffix-form 1cs would need -t- (Hebrew ʿātadtî). Rival: *watid- 'peg, pin' (Hebrew yātēd)."
         }
       ],
-      "translation": "The Kinsman who comes forth, Creator of the Sea — island — Kaki-šenni — I make (this) ready.",
-      "notes": "Context: Gold pin invoking El by two epithets (the Kinsman who comes forth, Creator of the Sea), then naming the island. Both A-MA-WA-SI (masculine participle) and KA-NI-JA-MI (masculine construct participle) are grammatically masculine, pointing to El rather than Athirat. QA-KI-SE-NU-TI names the dedicant, a Hurrian-type name in -šenni. Closes with a 1cs verb, 'I make ready'.\n\nUnprovenanced gold pin with shallow incision. Word 4 reads QA-KI-SE-NU-TI, KI as in GORILA IV 146–47 and the photograph. Word 5 is a 1cs prefix form of √ʿ-t-d.",
+      "translation": "The Kinsman who comes forth, Creator of Sea and Island — Kaki-šenni — I make (this) ready.",
+      "notes": "Context: Gold pin invoking El by two epithets, the Kinsman who comes forth and the Creator of Sea and Island. Both A-MA-WA-SI (masculine participle) and KA-NI-JA-MI (masculine construct participle) are grammatically masculine, pointing to El rather than Athirat. QA-KI-SE-NU-TI names the dedicant, a Hurrian-type name in -šenni. Closes with a 1cs verb, 'I make ready'.\n\nUnprovenanced gold pin with shallow incision. Word 4 reads QA-KI-SE-NU-TI, KI as in GORILA IV 146–47 and the photograph. Word 5 is a 1cs prefix form of √ʿ-t-d. KN Za 10b breaks after I-JA[ (GORILA IV, 9); this pin carries the only whole I-JA.",
       "source": {
         "di Mino": [
           "A-MA-WA-SI",
@@ -14556,7 +14587,7 @@
         {
           "linear_a": "PA-TA-NE",
           "reading": "Patne",
-          "meaning": "personal name, 'Viper' (rival Ptah-theophoric)",
+          "meaning": "personal name, 'Viper'",
           "confidence": "CANDIDATE"
         },
         {
@@ -15709,10 +15740,10 @@
         },
         {
           "linear_a": "PU-NI-KA-*363",
-          "reading": null,
-          "gloss": "personal name (unread), 3",
-          "confidence": null,
-          "note": "*363 has no resolved value. No reading."
+          "reading": "punniga",
+          "gloss": "bread, 3 loaves (*363 the loaf); rival a personal name",
+          "confidence": "SPECULATIVE",
+          "note": "After wheat, as pannag after wheat in Ezek 27:17; Akk. pannigu, punnigu (CAD P 83–84)."
         },
         {
           "linear_a": "QA-TI-JU",
@@ -15729,10 +15760,10 @@
         },
         {
           "linear_a": "TU-MI-TI-ZA-SE",
-          "reading": null,
-          "gloss": "personal name or gentilic (unread), 45",
-          "confidence": null,
-          "note": "Intact; ends like DU-RE-ZA-SE. No reading."
+          "reading": "tumtiṣa-se",
+          "gloss": "for the fighting men, 45; rival tmtt 'crew'",
+          "confidence": "SPECULATIVE",
+          "note": "Terminative -SE, as DU-RE-ZA-SE and MI-ZA-SE."
         },
         {
           "linear_a": "PA-NU-QE",
@@ -15748,7 +15779,7 @@
           "note": "The last word, against the original right edge; more signs may have followed on the lost lower left. Mari Ya-wi-ya, Ya-wi-AN (Huffmon 1965, 39, 70)."
         }
       ],
-      "translation": "Majd 1; wheat 1; PU-NI-KA-*363 3; Qātilu 8; KU-PI 1; TU-MI-TI-ZA-SE 45; Panūq 2; Yawī.",
+      "translation": "Majd 1; wheat 1; bread, 3 loaves; Qātilu 8; KU-PI 1; for the fighting men 45; Panūq 2; Yawī.",
       "confidence": "SPECULATIVE",
       "status": "incomplete",
       "notes": "JA-WI ends .4 at the original right edge, the last word of the text: the surface beneath it is blank, .5 keeps only traces at the broken lower left, .6 is vacat (GORILA III 180–181).",

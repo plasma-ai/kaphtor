@@ -7,7 +7,7 @@ goes in code blocks.
 from __future__ import annotations
 
 from .markdown import escape as esc
-from .markdown import link, page, table
+from .markdown import link, page, paragraphs, table
 from .model import (
     SUBSCRIPTS,
     Model,
@@ -145,7 +145,7 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
             ("Semantic field", e.get("semantic_field"))) if value]
         body += table(["Field", "Value"], rows) + [""]
         if e.get("note"):
-            body += ["### Note", "", esc(e["note"]), ""]
+            body += ["### Note", "", paragraphs(e["note"]), ""]
         cognates = e.get("cognates")
         if isinstance(cognates, dict) and cognates:
             body += ["### Cognates", ""] + table(["Language", "Comparison"],
@@ -207,7 +207,7 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
             rows.append(["Contact reference", esc(o["contact_ref"])])
         body += ["## Onomasticon", ""] + table(["Field", "Value"], rows) + [""]
         if o.get("note"):
-            body += ["### Note", "", esc(o["note"]), ""]
+            body += ["### Note", "", paragraphs(o["note"]), ""]
         known = (c.get("word") if isinstance(c, dict) else c for c in o.get("co_occurring_known") or [])
         co = sorted({w for w in known if w} - {form}, key=natural)
         if co:
@@ -223,7 +223,7 @@ def word_page(model: Model, form: str) -> tuple[str, str]:
                  f"Status **{_words(u['status'])}**" + (f" ({esc(meaning)})" if meaning else "")
                  + (f"; role {esc(_words(u['role']))}" if u.get("role") else "") + ".", ""]
         if u.get("note"):
-            body += [esc(u["note"]), ""]
+            body += [paragraphs(u["note"]), ""]
     return _page(word_path(form), fields, body)
 
 
@@ -282,7 +282,7 @@ def doc_page(model: Model, key: str) -> tuple[str, str]:
         if rows:
             body += table(["Word", "Reading", "Gloss", "Confidence", "Lexicon"], rows) + [""]
         if t["notes"]:
-            body += ["### Notes", "", esc(t["notes"]), ""]
+            body += ["### Notes", "", paragraphs(t["notes"]), ""]
         source = t["source"]
         if isinstance(source, dict) and source:
             body += ["### Source", ""] + [f"- {esc(k)}: {esc(', '.join(map(str, v)) if isinstance(v, list) else v)}"
@@ -298,7 +298,7 @@ def doc_page(model: Model, key: str) -> tuple[str, str]:
             [esc(_words(d.get("kind") or "")), esc(d.get("sigla") or ""), esc(d.get("gorila") or "")] for d in diffs])
         body += [""]
     if rec.get("notes"):
-        body += ["## Corpus note", "", esc(rec["notes"]), ""]
+        body += ["## Corpus note", "", paragraphs(rec["notes"]), ""]
     return _page(doc_path(key), fields, body)
 
 
@@ -350,7 +350,7 @@ def sign_page(model: Model, kind: str, key: str) -> tuple[str, str]:
     else:
         body += ["## Fraction", ""] + table(["Field", "Value"], [["Value", esc(value)]]) + [""]
     if record.get("note"):
-        body += ["### Note", "", esc(record["note"]), ""]
+        body += ["### Note", "", paragraphs(record["note"]), ""]
     other = "logograms" if kind == "syllabic" else "syllabic" if kind == "logograms" else None
     if other and key in sign_records(model.sign_values)[other]:
         body += [f"## Also in {other}", "", link(sign_path(other, key), esc(key)) + f" has a {other} record.", ""]

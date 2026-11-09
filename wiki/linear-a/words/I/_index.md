@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/I
 desc: "Words whose first sign begins with I."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-05T18:37:24Z
+updated: 2026-11-08T23:28:23Z
 ---
 
 # wiki/linear-a/words/I
@@ -57,7 +57,7 @@ updated: 2026-11-05T18:37:24Z
 
 [[wiki/linear-a/words/I/I_MA|I_MA]]: Unread (role only): personal name; 1 occurrence(s).
 
-[[wiki/linear-a/words/I/I_MI_SA_RA|I_MI_SA_RA]]: Il-Mīšar: Il-Mīšar, god of justice—theophoric compound: ʾil 'god' + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.. Lexicon, PROBABLE (tier 3).
+[[wiki/linear-a/words/I/I_MI_SA_RA|I_MI_SA_RA]]: Il-Mīšar: god of justice (ʾil 'god' + Mīšaru). Lexicon, PROBABLE (tier 3).
 
 [[wiki/linear-a/words/I/I_NA|I_NA]]: hinna: behold! (presentative particle). Lexicon, CANDIDATE (tier 2).
 

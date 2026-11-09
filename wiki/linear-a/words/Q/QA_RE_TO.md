@@ -41,7 +41,7 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-HT 132: QA-RE-TO · \*21F 27, between A-SE · A319 5 and PA₃ · \*305 1, in a commodity allocation. qart- 'city (of)', the Phoenician construct, which Melqart, milk-qart 'king of the city' (#2772), shows. Ug. qryt /qar(i)yatu/, also qrt /qarītu/ 'city' (Huehnergard 2012, 44), BH qiryā; the Ugarit polyglot vocabulary has qa-ri-t\[u₄\] 'city' (GlOS 1, 354). One attestation.
+HT 132: QA-RE-TO · \*21F 27, between A-SE · A319 5 and PA₃ · \*305 1, in a commodity allocation. qart- 'city (of)', the Phoenician construct, which Melqart, milk-qart 'king of the city' (#2772), shows. Ug. qryt /qar(i)yatu/, also qrt /qarītu/ 'city' (Huehnergard 2012, 44), BH qiryā; the Ugarit polyglot vocabulary has qa-ri-t\[u₄\] 'city' (GlOS 1, 354). Rival origin: Rabin 1963, 125–126 takes qart- from Hittite gurta- 'fortress', apart from qiryā. One attestation.
 
 ### Cognates
 
@@ -53,7 +53,7 @@ HT 132: QA-RE-TO · \*21F 27, between A-SE · A319 5 and PA₃ · \*305 1, in a 
 
 ### Source
 
-di Mino; Huehnergard 2012; GlOS 1
+di Mino; Huehnergard 2012; GlOS 1; Rabin 1963
 
 ## Attestations
 

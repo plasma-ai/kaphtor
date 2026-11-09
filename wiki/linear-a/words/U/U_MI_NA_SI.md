@@ -45,7 +45,13 @@ HT 117a and HT 28b, in the header both times, outside the count: on HT 117a (MA-
 
 ### Cognates
 
-Ugaritic ʾum "mother", našaʾa "to lift, raise"; Hebrew nāśīʾ (Gen 23:6 nəśîʾ ʾĕlōhīm); Amorite mother-element in Ummum-ka-abī (Gelb AS 21 nos. 6246–7, FN) and Našiʾ name element (NIQM-I·LA·NAŠIʾ, no. 5051); ʾummī + predicate in ʾUmmī-ʾilī, UM-MI-I₂-LI₂ (no. 6231), a woman's name, as are all of Gelb's ʾUMM-I names; Ebla na-si-um, Amorite ia-aḫ-wi-na-si (GlOS 2, 106); = \*301-SI nāśī (PROBABLE)
+| Language | Comparison |
+|---|---|
+| Ugaritic | ʾum "mother", našaʾa "to lift, raise" |
+| Hebrew | nāśīʾ (Gen 23:6 nəśîʾ ʾĕlōhīm) |
+| Amorite | mother-element in Ummum-ka-abī (Gelb AS 21 nos. 6246–7, FN) and Našiʾ name element (NIQM-I·LA·NAŠIʾ, no. 5051); ʾummī + predicate in ʾUmmī-ʾilī, UM-MI-I₂-LI₂ (no. 6231), a woman's name, as are all of Gelb's ʾUMM-I names |
+| Old Syrian | Ebla na-si-um, Amorite ia-aḫ-wi-na-si (GlOS 2, 106) |
+| Linear A | = \*301-SI nāśī (PROBABLE) |
 
 ### Source
 

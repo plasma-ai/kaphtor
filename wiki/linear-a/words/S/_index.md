@@ -2,7 +2,7 @@
 name: wiki/linear-a/words/S
 desc: "Words whose first sign begins with S."
 created: 2026-10-24T16:17:50Z
-updated: 2026-11-04T21:34:23Z
+updated: 2026-11-09T14:56:34Z
 ---
 
 # wiki/linear-a/words/S
@@ -93,6 +93,8 @@ updated: 2026-11-04T21:34:23Z
 
 [[wiki/linear-a/words/S/SI_DI_JA|SI_DI_JA]]: Šadiya: personal name, Ugaritic Šadiya (šdy II), 'field'. Lexicon, PROBABLE (tier 3).
 
+[[wiki/linear-a/words/S/SI_DI_star301|SI_DI_star301]]: Ṣidna: Sidon (place name); rival Ṣīd-nā 'our Ṣid'. Lexicon, SPECULATIVE (tier 1).
+
 [[wiki/linear-a/words/S/SI_DU|SI_DU]]: Unread (role only): personal name; 1 occurrence(s).
 
 [[wiki/linear-a/words/S/SI_DU_QI_KU_MI|SI_DU_QI_KU_MI]]: Ṣiduqi-kummi: the cella of Ṣiduq, the Just One (heading an aromatic list). Lexicon, SPECULATIVE (tier 1).
@@ -137,7 +139,7 @@ updated: 2026-11-04T21:34:23Z
 
 [[wiki/linear-a/words/S/SI_TU|SI_TU]]: sūt: garment, textile. Lexicon, CANDIDATE (tier 2).
 
-[[wiki/linear-a/words/S/SI_TU_RA2_RE|SI_TU_RA2_RE]]: Unread (role only): personal name; 1 occurrence(s).
+[[wiki/linear-a/words/S/SI_TU_RA2|SI_TU_RA2]]: šitla: shoots, cuttings (planting stock). Lexicon, SPECULATIVE (tier 1).
 
 [[wiki/linear-a/words/S/SI_ZA_NE_star310_broken_start|SI_ZA_NE_star310_broken_start]]: Unread (unread): no role; 1 occurrence(s).
 
@@ -167,11 +169,11 @@ updated: 2026-11-04T21:34:23Z
 
 [[wiki/linear-a/words/S/SU_PA3_RA|SU_PA3_RA]]: subāra: vessel (pot). Lexicon, PROBABLE (tier 3).
 
-[[wiki/linear-a/words/S/SU_PU|SU_PU]]: sapu: bowl, basin (the vessel named on HT31). Lexicon, CONFIRMED (tier 4).
+[[wiki/linear-a/words/S/SU_PU|SU_PU]]: suppu: bowl, basin (the vessel named on HT31). Lexicon, CONFIRMED (tier 4).
 
 [[wiki/linear-a/words/S/SU_PU2|SU_PU2]]: Ṣubʾu: Ṣubʾu (personal name); rival ṣābu 'workers, troop'. Lexicon, SPECULATIVE (tier 1).
 
-[[wiki/linear-a/words/S/SU_PU2_star188|SU_PU2_star188]]: sapu buṭni: bowl of terebinth (pistachio) nuts (commodity measured in bowl-units). Lexicon, CANDIDATE (tier 2).
+[[wiki/linear-a/words/S/SU_PU2_star188|SU_PU2_star188]]: suppu buṭni: bowl of terebinth (pistachio) nuts (commodity measured in bowl-units). Lexicon, CANDIDATE (tier 2).
 
 [[wiki/linear-a/words/S/SU_RE|SU_RE]]: Unread (role only): personal name; 1 occurrence(s).
 

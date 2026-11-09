@@ -73,6 +73,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_TE_TU\|SI-TE-TU]] | šetātu | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_TU\|SI-TU]] | sūt | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_TU_RA2\|SI-TU-RA₂]] | šitla | SPECULATIVE |
 | [[wiki/linear-a/words/T/TE_TU\|TE-TU]] | Tetu | SPECULATIVE |
 | [[wiki/linear-a/words/T/TU\|TU]] | ṯawr | CANDIDATE |
 | [[wiki/linear-a/words/T/TU_star21F_RI_NA\|TU-\*21F-RI-NA]] | ṭuhārīna | PROBABLE |

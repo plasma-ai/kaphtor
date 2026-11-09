@@ -77,7 +77,7 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/K/KI_RO\|KI-RO]] | kilʾu | owed (transaction header) | CONFIRMED | CONFIRMED (lexicon) |
 | [[wiki/linear-a/words/T/TU_MA\|TU-MA]] | Tūma | PN (twin, √t-ʾ-m) | CANDIDATE | CANDIDATE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
-| [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | PN, 'Viper' (rival Ptah-theophoric) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/P/PA_TA_NE\|PA-TA-NE]] | Patne | PN, 'Viper' | CANDIDATE | CANDIDATE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |
 | [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | PN, 'my beloved' (√d-w-d) | SPECULATIVE | SPECULATIVE (lexicon) |
 | 1 | 1 | 1 | CONFIRMED |  |

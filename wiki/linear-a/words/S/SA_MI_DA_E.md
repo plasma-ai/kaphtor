@@ -45,7 +45,11 @@ ZA 5a and ZA 15a, both Zakros. samidē 'groats, semolina', a borrowed Akkadian c
 
 ### Cognates
 
-Akkadian samīdu/samiddu 'groats, coarse meal, semolina' (temple ration lists); Emar si-im-mi-da-ti simmidatu 'a kind of flour' (GlOS 2, 198; Pentiuc 2001, 156); related to SA-MA-TI (HT39) from same root
+| Language | Comparison |
+|---|---|
+| Akkadian | samīdu/samiddu 'groats, coarse meal, semolina' (temple ration lists) |
+| Emar | si-im-mi-da-ti simmidatu 'a kind of flour' (GlOS 2, 198; Pentiuc 2001, 156) |
+| Linear A | related to SA-MA-TI (HT39) from same root |
 
 ### Source
 

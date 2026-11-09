@@ -58,7 +58,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabakki | I weep | SPECULATIVE | SPECULATIVE (lexicon) |
+| [[wiki/linear-a/words/A/A_PA_KI\|A-PA-KI]] | ʾabkī | I weep | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/U/U_NA_A\|U-NA-A]] | wannā(h) / winnā(h) | and here, hither | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
@@ -75,6 +75,6 @@ Popham 1976; Owens 1998–99, 147–48; Tropper §81.11a; ORACC P273162, P338383
 
 ## Corpus note
 
-Two complete three-sign groups are incised on separate lines: A-PA-KI / U-NA-A. A-PA-KI is tentatively read /ʾabakki/ 'I weep', after the independently attested Akkadian G-present spelling a-bak-ki. U-NA-A is compared speculatively with Ugaritic hnh 'hither' (perhaps hn plus terminative -h; Tropper §81.11a). On that analysis the final A may write the vowel after an unrepresented /h/, rather than vowel length. The complete translation remains speculative.
+Two complete three-sign groups are incised on separate lines: A-PA-KI / U-NA-A. A-PA-KI is tentatively read /ʾabkī/ 'I weep', the G prefix form; the Akkadian G present a-bak-ki, /ʾabakki/, is the rival. U-NA-A is compared speculatively with Ugaritic hnh 'hither' (perhaps hn plus terminative -h; Tropper §81.11a). On that analysis the final A may write the vowel after an unrepresented /h/, rather than vowel length. The complete translation remains speculative.
 
 <!-- END kaphtor:record -->

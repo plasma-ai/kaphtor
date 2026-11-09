@@ -29,6 +29,16 @@ def escape(text) -> str:
     return text.replace("\r\n", " ").replace("\n", " ")
 
 
+# a blank line, however many and with whatever spaces between them
+PARAGRAPH_BREAK = re.compile(r"\r?\n[ \t]*(?:\r?\n[ \t]*)+")
+
+
+def paragraphs(text) -> str:
+    """Data prose (a note) as Markdown paragraphs: a blank line in the text starts a new paragraph, the data's one
+    convention for paragraphs; each paragraph is escaped as `escape` does, so a single newline reads as a space."""
+    return "\n\n".join(escape(p.strip()) for p in PARAGRAPH_BREAK.split(str(text)) if p.strip())
+
+
 def link(path: str, label: str) -> str:
     """A wikilink. Brackets in the (escaped) label become entities, since a `]` would end the link."""
     label = label.replace("\\[", "&#91;").replace("\\]", "&#93;").replace("[", "&#91;").replace("]", "&#93;")

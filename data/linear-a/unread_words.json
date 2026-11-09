@@ -8,17 +8,17 @@
   },
   "stats": {
     "corpus_words": 729,
-    "read": 541,
-    "unread_listed": 368,
+    "read": 544,
+    "unread_listed": 365,
     "by_status": {
       "edge_overlap": 19,
-      "unread": 140,
-      "role_only": 209
+      "unread": 138,
+      "role_only": 208
     },
-    "hapax": 354,
+    "hapax": 351,
     "repeated": 14,
     "cross_site": 4,
-    "surface_damaged": 263,
+    "surface_damaged": 262,
     "excluded_tokens": {
       "single-sign": 1416,
       "numeral/punct": 1553,
@@ -2612,25 +2612,6 @@
       "note": "KH 105, the lower left corner of a tablet: the editors read three partly fragmentary signs AB 45-67-37[, DE-KI-TI[, broken at the right (Del Freo, Rapport 2016–2021, 102, citing Andreadaki-Vlazaki & Hallager 2018, 36–37). KI-TI drops the DE. Not a word."
     },
     {
-      "word": "KO-A-DU-WA",
-      "signs": 4,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "TY3a"
-      ],
-      "sites": [
-        "Tylissos"
-      ],
-      "cross_site": false,
-      "surface_damage": {
-        "TY3a": [
-          "start"
-        ]
-      },
-      "note": "TY 3a .6 KO-A-DU-WA [OLE] 7 and a fraction, the four signs whole and undotted at the head of the line, OLE restored. .5 breaks off after its numeral, and GORILA's tabular copy sets ] before the word (GORILA I 327). The copie normalisée starts .6 at the left edge. It is the second entry of the section headed A-DA OLE+U 21; A-DU-[··] OLE+KI 51 heads the section above. Sole attestation. No reading."
-    },
-    {
       "word": "KO-E",
       "signs": 2,
       "status": "unread",
@@ -3686,20 +3667,6 @@
         ]
       },
       "note": "HT139 .1 ]-PU-MA-KU, broken before with the word running into the break (GORILA I 235). PU-MA-KU is the end of a longer word. Not readable."
-    },
-    {
-      "word": "PU-NI-KA-*363",
-      "signs": 4,
-      "status": "unread",
-      "frequency": 1,
-      "attestations": [
-        "ZA14"
-      ],
-      "sites": [
-        "Zakros"
-      ],
-      "cross_site": false,
-      "note": "ZA 14 .2 PU-NI-KA-*363 3, after *21F-*118 1, KA written smaller, which GORILA takes as added afterwards (GORILA III 181). *363 has no resolved value (Younger transcribes it SO, Younger, Linear A Texts). No reading."
     },
     {
       "word": "QA-*305",
@@ -6018,21 +5985,6 @@
         ]
       },
       "note": "HT 3 2 QE-RA₂-JA[, damaged after JA (photograph and facsimile); or QE-RI-JA (Younger). PS *qarya- 'city' was the proposed reading. Not readable."
-    },
-    {
-      "word": "SI-TU-RA₂-RE",
-      "signs": 4,
-      "status": "role_only",
-      "role": "personal_name",
-      "frequency": 1,
-      "attestations": [
-        "HT3"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "note": "HT 3 .5 SI-TU-RA₂-RE 5, RA₂ and RE dotted, SI against the left edge the drawing gives as preserved (GORILA I 6); the copie tabulaire sets ] before .5–.7 alike, as Younger does before SI. GORILA's alternative SI-TU-RI-RE is \"moins bon\" (GORILA I 7), Younger's \"or\". Cf. SI-TU (ZA 20, HT Wa 1019). No reading."
     },
     {
       "word": "RU-RA₂",

@@ -72,7 +72,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | sapu buṭni | bowl of terebinth (pistachio) nuts (product) | CANDIDATE | CANDIDATE (lexicon) |
+| [[wiki/linear-a/words/S/SU_PU2_star188\|SU-PU₂-\*188]] | suppu buṭni | bowl of terebinth (pistachio) nuts (product) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/P/PA3_star188\|PA₃-\*188]] | bu-buṭnu | terebinth (PA₃ a phonetic complement for the b-onset) | CANDIDATE | CANDIDATE (lexicon) |
 | [[wiki/linear-a/words/Q/QA_star310_I\|QA-\*310-I]] | qaynī | smith or administrator (occupational title) | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/K/KA_PA\|KA-PA]] | kapa(r) | village, settlement | CANDIDATE | CANDIDATE (lexicon) |
@@ -81,7 +81,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Terebinth product accounting—commodity ledger with fractional quantities (⅜, ⅛, ½), tracking resin/mastic distributions to named recipients  Verso of HT8a. The recto records olive oil (OLE+KI) distributions; the verso records terebinth (\*188) product distributions. QA-\*310-I appears on both sides—the same recipient drawing from two commodity registers. Fractional quantities (⅜, ⅛, ½) suggest measurement of liquid or semi-liquid products (resin, oil). The phonetic complement PA₃-\*188 confirms the /b/-onset reading of \*188 as BUṬNU, paralleling the DUBUR pattern (\*307-PU₂-RE). Five of six substantive words are in the lexicon (83%).
+Context: Terebinth product accounting—commodity ledger with fractional quantities (⅜, ⅛, ½), tracking resin/mastic distributions to named recipients
+
+Verso of HT8a. The recto records olive oil (OLE+KI) distributions; the verso records terebinth (\*188) product distributions. QA-\*310-I appears on both sides—the same recipient drawing from two commodity registers. Fractional quantities (⅜, ⅛, ½) suggest measurement of liquid or semi-liquid products (resin, oil). The phonetic complement PA₃-\*188 confirms the /b/-onset reading of \*188 as BUṬNU, paralleling the DUBUR pattern (\*307-PU₂-RE). Five of six substantive words are in the lexicon (83%).
 
 ### Source
 

@@ -62,7 +62,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Cave sanctuary votive—two words painted on a chalice rim, two non-joining fragments, order uncertain. The Skoteino Cave (south of Knossos) is one of the largest cave sanctuaries on Crete.  Two-word cave sanctuary dedication. Dual reading of NA-TU-\*301-NE from √n-t-n: passive natūnān 'the dedicated one' (Nĕtīnīm parallel—temple servant class) or active nātānān 'the giver' (theophanic title paralleling A-TA-NA-TE = Athena). If active, the inscription is a divine epithet rather than a human dedicant's self-identification.
+Context: Cave sanctuary votive—two words painted on a chalice rim, two non-joining fragments, order uncertain. The Skoteino Cave (south of Knossos) is one of the largest cave sanctuaries on Crete.
+
+Two-word cave sanctuary dedication. Dual reading of NA-TU-\*301-NE from √n-t-n: passive natūnān 'the dedicated one' (Nĕtīnīm parallel—temple servant class) or active nātānān 'the giver' (theophanic title paralleling A-TA-NA-TE = Athena). If active, the inscription is a divine epithet rather than a human dedicant's self-identification.
 
 ### Source
 

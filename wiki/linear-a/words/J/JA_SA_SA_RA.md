@@ -1,7 +1,7 @@
 ---
 name: wiki/linear-a/words/J/JA_SA_SA_RA
 title: "JA-SA-SA-RA"
-desc: "yaššar-: line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'uprightly; in righteousness'; not independently attested as a bare lemma. Lexicon, CANDIDATE (tier 2)."
+desc: "yaššar-: line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'in righteousness'; not independently attested as a bare lemma. Lexicon, CANDIDATE (tier 2)."
 tags: ["linear-a", "word", "tier-2", "adverb", "fragmentary", "hapax", "libation_formula", "ritual"]
 kind: "word"
 form: "JA-SA-SA-RA"
@@ -32,7 +32,7 @@ updated: 2026-10-24T16:17:50Z
 | Field | Value |
 |---|---|
 | Reading | yaššar- |
-| Meaning | line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'uprightly; in righteousness'; not independently attested as a bare lemma |
+| Meaning | line-broken first portion of JA-SA-SA-RA-ME / yaššaram 'in righteousness'; not independently attested as a bare lemma |
 | Root | y-š-r |
 | Proto-Semitic | \*yašar- (#1446) |
 | Language layer | Semitic |

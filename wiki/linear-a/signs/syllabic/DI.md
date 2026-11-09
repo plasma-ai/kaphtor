@@ -48,7 +48,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_DI\|A-DI]] | ʿadi | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_DI_KI_TE_TE\|A-DI-KI-TE-TE]] | ʾa-Diqqitīt | PROBABLE |
 | [[wiki/linear-a/words/A/A_PA3_DI\|A-PA₃-DI]] | ʿAbdī | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/D/DE_DI\|DE-DI]] | Dedī | SPECULATIVE |
 | [[wiki/linear-a/words/D/DI\|DI]] | dibšu | CANDIDATE |
 | [[wiki/linear-a/words/D/DI_star306\|DI-\*306]] | Diʿa | SPECULATIVE |
@@ -81,6 +81,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/R/RU_JA_TA_DI\|RU-JA-TA-DI]] | Ruya-dādī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_DI\|SA-DI]] | šadī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SA_RA_DI\|SA-RA-DI]] | šalardi | CANDIDATE |
+| [[wiki/linear-a/words/S/SI_DI_star301\|SI-DI-\*301]] | Ṣidna | SPECULATIVE |
 | [[wiki/linear-a/words/S/SI_DI_JA\|SI-DI-JA]] | Šadiya | PROBABLE |
 | [[wiki/linear-a/words/T/TA_DI\|TA-DI]] | dādī | SPECULATIVE |
 | [[wiki/linear-a/words/T/TI_DI_TE_QA_TI\|TI-DI-TE-QA-TI]] | tidī teqaʿti | SPECULATIVE |

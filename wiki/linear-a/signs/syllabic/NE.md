@@ -45,7 +45,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/A/A_KO_A_NE\|A-KO-A-NE]] | ha-kōhan | CANDIDATE |
 | [[wiki/linear-a/words/A/A_NA_NE\|A-NA-NE]] | ḥanān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_PA_RA_NE\|A-PA-RA-NE]] | ʿabrāne | CANDIDATE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE\|A-RE-NE]] | ʾarān | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | PROBABLE |
 | [[wiki/linear-a/words/D/DA_DU_MI_NE\|DA-DU-MI-NE]] | dādu-Mīnō | SPECULATIVE |
 | [[wiki/linear-a/words/D/DA_KU_SE_NE\|DA-KU-SE-NE]] | Takušenni | PROBABLE |

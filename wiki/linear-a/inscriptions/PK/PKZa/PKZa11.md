@@ -73,7 +73,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary libation formula—longest liturgical inscription (11 words, 25 signs). Palaikastro dialect.  Complete 11-word liturgical inscription—longest in the corpus. The surface order is opening verb → invoked deity and title → proposed speaker's name and priestly title → adverbial formula element → standard body → lacuna → unique closure. Davis (2013, 42–43) and Thomas (2020, 8–10) independently place PI-TE-RI A-KO-A-NE in the subject/dedicant slot, though they infer two names rather than a name plus title. Reading the pair as 'Pitrī, the priest' supplies the explicit subject of the first-person opening without an unattested 'first-offering' or an unsupported plural vocative. The lacuna between SI-RU and I-NA-JA-PA-QA separates the formula from a masculine verbal closure whose subject remains unnamed.
+Context: Peak sanctuary libation formula—longest liturgical inscription (11 words, 25 signs). Palaikastro dialect.
+
+Complete 11-word liturgical inscription—longest in the corpus. The surface order is opening verb → invoked deity and title → proposed speaker's name and priestly title → adverbial formula element → standard body → lacuna → unique closure. Davis (2013, 42–43) and Thomas (2020, 8–10) independently place PI-TE-RI A-KO-A-NE in the subject/dedicant slot, though they infer two names rather than a name plus title. Reading the pair as 'Pitrī, the priest' supplies the explicit subject of the first-person opening without an unattested 'first-offering' or an unsupported plural vocative. The lacuna between SI-RU and I-NA-JA-PA-QA separates the formula from a masculine verbal closure whose subject remains unnamed.
 
 ### Source
 

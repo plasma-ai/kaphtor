@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="wiki/linear-a/inscriptions/_index.md"><img alt="corpus: 1,719 records" src="https://img.shields.io/badge/corpus-1,719%20records-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 450" src="https://img.shields.io/badge/translations-450-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 648 entries" src="https://img.shields.io/badge/lexicon-648%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
-  <a href="wiki/linear-a/words/_index.md"><img alt="names: 373" src="https://img.shields.io/badge/names-373-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/inscriptions/_index.md"><img alt="translations: 451" src="https://img.shields.io/badge/translations-451-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="lexicon: 659 entries" src="https://img.shields.io/badge/lexicon-659%20entries-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
+  <a href="wiki/linear-a/words/_index.md"><img alt="names: 375" src="https://img.shields.io/badge/names-375-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/semitic-roots/_index.md"><img alt="Semitic roots: 5,157" src="https://img.shields.io/badge/Semitic%20roots-5,157-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <a href="wiki/linear-a/signs/_index.md"><img alt="sign values: 37" src="https://img.shields.io/badge/sign%20values-37-e8d9bd?style=flat-square&labelColor=0b0a08"></a>
   <br>

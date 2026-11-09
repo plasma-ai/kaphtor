@@ -52,7 +52,8 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/star/star306_TI_KA_A_RE\|\*306-TI-KA-A-RE]] | ʿatīq+are | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RA_NA_RE\|A-RA-NA-RE]] | Aranare | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_DA_I\|A-RE-DA-I]] | Ar-tae | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE\|A-RE-NE]] | ʾarān | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_RE_SA_NA\|A-RE-SA-NA]] | ʾAriš-ān | CANDIDATE |
 | [[wiki/linear-a/words/A/A_RE_TU_MI\|A-RE-TU-MI]] | ʾarṣ̂-ummī | CANDIDATE |

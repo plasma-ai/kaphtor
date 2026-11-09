@@ -65,7 +65,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Peak sanctuary libation formula variant.  Formula structure parallels IOZa2 but with a unique verb form (TA-NA-SU-TE-KE instead of A-TA-I-\*301-WA-JA) and ʾaššaram for yaššaram, as on IOZb10.
+Context: Peak sanctuary libation formula variant.
+
+Formula structure parallels IOZa2 but with a unique verb form (TA-NA-SU-TE-KE instead of A-TA-I-\*301-WA-JA) and ʾaššaram for yaššaram, as on IOZb10.
 
 ### Source
 

@@ -43,7 +43,7 @@ updated: 2026-10-24T16:17:50Z
 | Word | Reading | Confidence |
 |---|---|---|
 | [[wiki/linear-a/words/star/star364_KE_MA_SE\|\*364-KE-MA-SE]] | Šakma-se | SPECULATIVE |
-| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | \[…\] ʾAyaku | SPECULATIVE |
+| [[wiki/linear-a/words/A/A_RE_NE_SI_DI_star301_PI_KE_PA_JA_TA_RI_SE_TE_RI_MU_A_JA_KU\|A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU]] | ʾarān Ṣidna bikē bayta rēšī tarīmu ʾAyaku | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾāsē | CANDIDATE |
 | [[wiki/linear-a/words/A/A_SE_JA\|A-SE-JA]] | Āsīya | SPECULATIVE |
 | [[wiki/linear-a/words/A/A_SE_SI_NA\|A-SE-SI-NA]] | ḥašīšin | SPECULATIVE |
@@ -64,6 +64,7 @@ updated: 2026-10-24T16:17:50Z
 | [[wiki/linear-a/words/Q/QA_KI_SE_NU_TI\|QA-KI-SE-NU-TI]] | Kaki-šenni-ti | SPECULATIVE |
 | [[wiki/linear-a/words/R/RA_TI_SE\|RA-TI-SE]] | Ratis | SPECULATIVE |
 | [[wiki/linear-a/words/R/RE_DI_SE\|RE-DI-SE]] | Redis | SPECULATIVE |
+| [[wiki/linear-a/words/R/RI_SE\|RI-SE]] | rēšī | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_star305\|SE-\*305]] | ṣēdā | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_DE\|SE-DE]] | ṣēd | SPECULATIVE |
 | [[wiki/linear-a/words/S/SE_KU_TU\|SE-KU-TU]] | Šakūtu | SPECULATIVE |

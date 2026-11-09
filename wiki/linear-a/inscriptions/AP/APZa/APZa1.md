@@ -9,7 +9,7 @@ site: "Apodoulou"
 support: "Stone vessel"
 period: ""
 translation: "complete"
-words: []
+words: ["JA-TA-I-*301-U-JA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -51,18 +51,24 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> He settles himself.
+> He makes himself a dwelling.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| JA-TA-I-\*301-U-JA | yata-inawuya | He settles himself | CANDIDATE |  |
+| [[wiki/linear-a/words/J/JA_TA_I_star301_U_JA\|JA-TA-I-\*301-U-JA]] | yatainawuya | he makes himself a dwelling | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
-Context: Peak sanctuary libation formula—variant conjugation  Only the formula verb survives on this fragment. The JA-TA prefix (3ms) vs. the usual A-TA (1cs) is the key morphological variant—'he makes himself a dwelling' vs. 'I make myself a dwelling.'
+Context: Peak sanctuary libation formula—variant conjugation
+
+Only the formula verb survives on this fragment. The JA-TA prefix (3ms) vs. the usual A-TA (1cs) is the key morphological variant—'he makes himself a dwelling' vs. 'I make myself a dwelling.'
 
 ### Source
 
 - di Mino: JA-TA-I-\*301-U-JA
+
+## Lexicon words citing this document
+
+[[wiki/linear-a/words/J/JA_TA_I_star301_U_JA|JA-TA-I-\*301-U-JA]].
 
 <!-- END kaphtor:record -->

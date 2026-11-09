@@ -90,7 +90,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Oil allocation ledger: three oil grades (genuine/kīnu, U-grade, anointing/mišḥā) distributed under headings including the salt-works offering. Joined tablet (HT42 + HT59), Villa Magazine, LM IB.  Joined tablet (HT42 + HT59), 20 signs, 11 unique words. Oil-only allocation ledger—no grain, wine, or figs—suggesting a specialized oil store or ritual oil supply. Three oil grades appear: OLE+KI (genuine/standard), OLE+U (U-grade), OLE+MI (anointing). Structural pattern: heading (\]-TA · SI+SE · TE, the first word broken before TA) → allocations → SA-RO royal-allocation block (coordinate with the salt-works block: same two oil grades) → allocations → KU-\[ \]OLE\[ (a broken word, then oil broken on both sides) → break → OLE+MI section → SU-DU and RE-TU, both unread: SU-DU may run on to a lost line, and a word may be lost before RE-TU.
+Context: Oil allocation ledger: three oil grades (genuine/kīnu, U-grade, anointing/mišḥā) distributed under headings including the salt-works offering. Joined tablet (HT42 + HT59), Villa Magazine, LM IB.
+
+Joined tablet (HT42 + HT59), 20 signs, 11 unique words. Oil-only allocation ledger—no grain, wine, or figs—suggesting a specialized oil store or ritual oil supply. Three oil grades appear: OLE+KI (genuine/standard), OLE+U (U-grade), OLE+MI (anointing). Structural pattern: heading (\]-TA · SI+SE · TE, the first word broken before TA) → allocations → SA-RO royal-allocation block (coordinate with the salt-works block: same two oil grades) → allocations → KU-\[ \]OLE\[ (a broken word, then oil broken on both sides) → break → OLE+MI section → SU-DU and RE-TU, both unread: SU-DU may run on to a lost line, and a word may be lost before RE-TU.
 
 ## Lexicon words citing this document
 

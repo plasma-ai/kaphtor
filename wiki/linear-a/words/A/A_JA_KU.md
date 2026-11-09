@@ -41,14 +41,14 @@ updated: 2026-10-24T16:17:50Z
 
 ### Note
 
-KN Zf 13, the last four signs of an undivided 19-sign spiral, ending at the centre of the bezel; the start of the word is not marked and KU is underdotted (GORILA IV 152–153). Amorite ʾAjak-u (Gelb 1980, no. 320). Rival: Akk. ajakku, a temple structure (CAD A/1 224–225). See A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU.
+KN Zf 13, the last four signs of an undivided 19-sign spiral, ending at the centre of the bezel; the start of the word is not marked and KU is underdotted (GORILA IV 152–153). Amorite ʾAjak-u (Gelb 1980, no. 320). Rivals: Akk. ajakku, a temple structure (CAD A/1 224–225); ʾêka 'how?', the lament's cry (Ug. ỉk, KTU 1.16 I 3–4), as Eikhah Rabbah, Petiḥta 4 reads ʾayyekkâ in Gen 3:9. The ring closes on him in the vocative: rēšī tarīmu ʾAyaku 'my head you lift up, O ʾAyaku'. See A-RE-NE-SI-DI-\*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU.
 
 ### Cognates
 
 | Language | Comparison |
 |---|---|
 | Amorite | ʾAjak-u, written A-JA-KU (Gelb 1980, no. 320); ʾAjak-um, A-IA-KU-UM (no. 300); the ʾAja- 'where?' names, nos. 285–319 |
-| Hebrew | ʾayyekkâ (אַיֶּכָּה) 'where are you?' (Gen 3:9; HALOT 39) |
+| Hebrew | ʾayyekkâ (אַיֶּכָּה) 'where are you?' (Gen 3:9; HALOT 38, s.v. ʾê) |
 
 ### Source
 
@@ -58,13 +58,13 @@ di Mino
 
 | Document | Site | Support | Translation |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZf/KNZf13\|KNZf13]] | Knossos | Metal object | incomplete; form not in transliteration |
+| [[wiki/linear-a/inscriptions/KN/KNZf/KNZf13\|KNZf13]] | Knossos | Metal object | complete; form not in transliteration |
 
 ## In translations
 
 | Document | Reading there | Gloss there | Confidence |
 |---|---|---|---|
-| [[wiki/linear-a/inscriptions/KN/KNZf/KNZf13\|KNZf13]] | ʾAyaku | personal name ('Where are you?') | SPECULATIVE |
+| [[wiki/linear-a/inscriptions/KN/KNZf/KNZf13\|KNZf13]] | ʾAyaku | O ʾAyaku (personal name, 'Where are you?'), vocative | SPECULATIVE |
 
 ## Onomasticon
 

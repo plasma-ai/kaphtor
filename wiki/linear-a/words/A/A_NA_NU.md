@@ -45,7 +45,12 @@ Owner/recipient name on a painted pithos, base of A-NA-NU-SI-JA-SE (HT Zb 159). 
 
 ### Cognates
 
-Amorite A-NA-NU-UM-DINGIR, read ḤANAN-UM+ʾIL (Gelb 1980, Add. 476a), and Ḥanan-a, Ḥanan-at-um, Ḥanan-im (Gelb, AS 21, nos. 475–478); Ugarit Ḫananu (Kinlaw 1967, 55); biblical PN חָנָן (Ḥānān, Neh 10:27; HALOT 335); rival: Hebrew עָנָן (ʿānān) 'cloud', biblical PN עָנָן (ʿĀnān, Neh 10:27; HALOT 858)
+| Language | Comparison |
+|---|---|
+| Amorite | A-NA-NU-UM-DINGIR, read ḤANAN-UM+ʾIL (Gelb 1980, Add. 476a), and Ḥanan-a, Ḥanan-at-um, Ḥanan-im (Gelb, AS 21, nos. 475–478) |
+| Ugarit | Ḫananu (Kinlaw 1967, 55) |
+| Hebrew | biblical PN חָנָן (Ḥānān, Neh 10:27; HALOT 335) |
+| Hebrew (rival) | עָנָן (ʿānān) 'cloud', biblical PN עָנָן (ʿĀnān, Neh 10:27; HALOT 858) |
 
 ### Source
 

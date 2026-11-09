@@ -9,7 +9,7 @@ site: "Knossos"
 support: "Roundel"
 period: ""
 translation: "complete"
-words: ["NI-PI"]
+words: ["NI-PI", "RU-JA"]
 created: 2026-10-24T16:17:50Z
 updated: 2026-10-24T16:17:50Z
 ---
@@ -57,7 +57,7 @@ Unicode (Linear A block):
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
-| [[wiki/linear-a/words/R/RU_JA\|RU-JA]] | Ruya | personal name, the receiver; Ugaritic PN rwy | SPECULATIVE |  |
+| [[wiki/linear-a/words/R/RU_JA\|RU-JA]] | Ruya | personal name, the receiver; Ugaritic PN rwy | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/N/NI_PI\|NI-PI]] | nīb | fruit, the thing received | SPECULATIVE | SPECULATIVE (lexicon) |
 
 ### Notes
@@ -70,7 +70,7 @@ Face a RU-JA, face b NI-PI, one disc impression (GORILA II 85; CMS X 120). The K
 
 ## Lexicon words citing this document
 
-[[wiki/linear-a/words/N/NI_PI|NI-PI]].
+[[wiki/linear-a/words/N/NI_PI|NI-PI]], [[wiki/linear-a/words/R/RU_JA|RU-JA]].
 
 ## Corpus note
 

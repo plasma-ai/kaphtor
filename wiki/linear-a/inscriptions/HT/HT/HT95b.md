@@ -80,7 +80,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: Allocation ledger for the Storm God Addu—same six category words as recto (HT95a) with adjusted quantities, all standardized to 10 units except possible lost entry at break  Verso of HT95a. Same six allocation categories as recto but with different quantities—recto has SA-RU 20 and QE-RA₂-U 7; verso standardizes all to 10. The recto header DA-DU-MA-TA · GRA names the institution and commodity (grain); the verso header A-DU names the divine recipient (Storm God). Together the two sides likely represent two related distributions: one institutional (recto), one cultic (verso). The fragment markers between SA-RU and DA-ME indicate at least one lost entry. All six categories match exactly between recto and verso—the same allocation vocabulary in a different fiscal context.
+Context: Allocation ledger for the Storm God Addu—same six category words as recto (HT95a) with adjusted quantities, all standardized to 10 units except possible lost entry at break
+
+Verso of HT95a. Same six allocation categories as recto but with different quantities—recto has SA-RU 20 and QE-RA₂-U 7; verso standardizes all to 10. The recto header DA-DU-MA-TA · GRA names the institution and commodity (grain); the verso header A-DU names the divine recipient (Storm God). Together the two sides likely represent two related distributions: one institutional (recto), one cultic (verso). The fragment markers between SA-RU and DA-ME indicate at least one lost entry. All six categories match exactly between recto and verso—the same allocation vocabulary in a different fiscal context.
 
 ### Source
 

@@ -55,7 +55,7 @@ Unicode (Linear A block):
 
 **CANDIDATE**, complete.
 
-> Wine, 32. Djed-ka(.s) to Eshmun the Physician: he answered for you, O Healer of Jubilation. May it be poured out.
+> Wine, 32. Djed-ka(.s) to Eshmun the Physician: I humble myself for you, O Healer of Jubilation. May it be poured out.
 
 | Word | Reading | Gloss | Confidence | Lexicon |
 |---|---|---|---|---|
@@ -64,13 +64,15 @@ Unicode (Linear A block):
 | [[wiki/linear-a/words/D/DI_DI_KA_SE\|DI-DI-KA-SE]] | Djed-ka(.s) | personal name, 'Her Ka endures' (Egyptian) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/A/A_SA_MU_NE\|A-SA-MU-NE]] | ʾAšmūn | the deity Eshmun | PROBABLE | PROBABLE (lexicon) |
 | [[wiki/linear-a/words/A/A_SE\|A-SE]] | ʾāsē | the Physician (title of Eshmun) | CANDIDATE | CANDIDATE (lexicon) |
-| A-TA-I-\*301-DE-KA | ʾata-iʿnay-dēka | who-answered-for-you | PROBABLE |  |
+| A-TA-I-\*301-DE-KA | ʾataʿinā dēka | I humble myself for you | CANDIDATE |  |
 | [[wiki/linear-a/words/A/A_RE_PI_RE_NA\|A-RE-PI-RE-NA]] | ʾa-repiʾ-rennā | Healer of Jubilation (Eshmun epithet) | SPECULATIVE | SPECULATIVE (lexicon) |
 | [[wiki/linear-a/words/T/TI_TI_KU\|TI-TI-KU]] | tittuk(u) | may it be poured (out) | CANDIDATE | CANDIDATE (lexicon) |
 
 ### Notes
 
-Context: LMIB dedicatory inscription on a clay pithos. Contains libation formula in Zakros dialect (-DE-KA variant) + Egyptian theophoric personal name + libation verb.  Dedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Eshmun) + title (ʾāsē 'physician') + Zakros libation formula √ʿ-n-y + Eshmun epithet (compound √r-p-ʾ + √r-n-n) + closing TI-TI-KU 'may it be poured' (√n-t-k). The -DE-KA libation variant is unique to Zakros, establishing a 5th dialectal form. A-RE-PI-RE-NA is a compound divine epithet rather than a hapax PN, given its thematic convergence with Eshmun and the rpʾ/rnn liturgical dyad (Psalm 30:3-6).
+Context: LMIB dedicatory inscription on a clay pithos. Contains libation formula in Zakros dialect (-DE-KA variant) + Egyptian theophoric personal name + libation verb.
+
+Dedicatory inscription: commodity (VIN 32) + dedicant (Egyptian PN) + deity (Eshmun) + title (ʾāsē 'physician') + Zakros libation formula √ʿ-n-w + Eshmun epithet (compound √r-p-ʾ + √r-n-n) + closing TI-TI-KU 'may it be poured' (√n-t-k). The -DE-KA libation variant is unique to Zakros, establishing a 5th dialectal form. A-RE-PI-RE-NA is a compound divine epithet rather than a hapax PN, given its thematic convergence with Eshmun and the rpʾ/rnn liturgical dyad (Psalm 30:3-6).
 
 ### Source
 

@@ -61,7 +61,9 @@ Unicode (Linear A block):
 
 ### Notes
 
-Context: HT Zb series — vessel labels (owner/origin/destination formula, ancestor of the LB inscribed stirrup-jar practice). Single scriptio continua string.  Delivery/dedication label — an Egyptian-named individual consigning a vessel to the dubur.
+Context: HT Zb series — vessel labels (owner/origin/destination formula, ancestor of the LB inscribed stirrup-jar practice). Single scriptio continua string.
+
+Delivery/dedication label — an Egyptian-named individual consigning a vessel to the dubur.
 
 ### Source
 

@@ -24,13 +24,13 @@
     "auto"
   ],
   "stats": {
-    "total": 373,
+    "total": 375,
     "by_type": {
       "gentilic": 11,
-      "personal_name": 250,
+      "personal_name": 251,
       "theonym": 30,
       "title": 51,
-      "toponym": 27,
+      "toponym": 28,
       "toponym_gentilic": 4
     },
     "by_affiliation": {
@@ -39,11 +39,11 @@
       "egyptian": 13,
       "hurrian": 36,
       "indo_european": 1,
-      "semitic": 295,
+      "semitic": 298,
       "sumerian": 1,
       "unknown": {
-        "total": 18,
-        "intact": 16,
+        "total": 17,
+        "intact": 15,
         "fragmentary": 0,
         "edge_damaged": 2,
         "no_witness": 0,
@@ -54,17 +54,17 @@
       "Egyptian": 13,
       "Hurro-Urartian": 36,
       "Indo-European": 2,
-      "Semitic": 296,
+      "Semitic": 299,
       "Sumerian": 1,
-      "unassigned": 25
+      "unassigned": 24
     },
     "by_provenance": {
       "auto": 0,
-      "manual": 373
+      "manual": 375
     },
-    "manual_count": 373,
+    "manual_count": 375,
     "auto_count": 0,
-    "total_entries": 373
+    "total_entries": 375
   },
   "entries": [
     {
@@ -1607,7 +1607,7 @@
       "contact_ref": null,
       "lexicon_ref": "PA-TA-NE",
       "reading": "Patne",
-      "meaning": "personal name, 'Viper'; rival Ptah-theophoric",
+      "meaning": "personal name, 'Viper'",
       "frequency": 3,
       "attestations": [
         "HT94b",
@@ -5125,7 +5125,7 @@
       "contact_ref": null,
       "lexicon_ref": "A-TA-NA-TE",
       "reading": "ʾAtanat",
-      "meaning": "ʾAtanat, 'She-who-gives'—feminine of √y-t-n 'to give' with I-y > ʾ; the etymon of Athena (di Mino, Ya Diktu 20)",
+      "meaning": "she who gives (the name behind Athena)",
       "frequency": 1,
       "attestations": [
         "ZA10a"
@@ -7269,7 +7269,7 @@
       "contact_ref": null,
       "lexicon_ref": "I-MI-SA-RA",
       "reading": "Il-Mīšar",
-      "meaning": "Il-Mīšar, god of justice—theophoric compound: ʾil 'god' + Mīšaru (justice god, maqtal pattern of √y-š-r). Personnel category on sanctuary allocation tablet.",
+      "meaning": "god of justice (ʾil 'god' + Mīšaru)",
       "frequency": 1,
       "attestations": [
         "HT27a"
@@ -9062,6 +9062,42 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "HT 119 .2 KO-JA 10, the second named entry of a personnel list. A hypocoristic on Amorite QWJ, 'wait for, hope' or 'be strong' (Gelb, AS 21: KU-IA-UM no. 4109, KU-WU-UM no. 4188, KU-IA-TUM no. 4108, KU-U₂-D-DA-GAN no. 4145, KU-U₂-D-IM no. 4146). KO for /qō/: cuneiform cannot show o. Weak points: two signs, the vowel. One attestation."
+    },
+    {
+      "token": "KO-A-DU-WA",
+      "normalized": "koaduwa",
+      "type": "personal_name",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": "amorite_names:KU-U₂-D-IM",
+      "lexicon_ref": "KO-A-DU-WA",
+      "reading": "Qō-Addua",
+      "meaning": "personal name, 'Hope in Addu' (Amorite Quwi-Haddu); rival an Anatolian name in Kuwa-",
+      "frequency": 1,
+      "attestations": [
+        "TY3a"
+      ],
+      "sites": [
+        "Tylissos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Tablet": 1
+      },
+      "position_summary": {
+        "follows": {
+          "newline": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "TY 3a .6 KO-A-DU-WA [OLE] 7⅕, under Ạ-DA OLE+U 21 (GORILA I 327). Qō-Addu 'Hope in Addu', as Amorite Quwi-Haddu (Gelb AS 21, no. 4146, Mari) and Quwum-Haddu (no. 4162, Ugarit); Ugaritic qwy 'Awaited' (Watson 2012, 336). The final -a: Hadda, the god's other name, or a feminine -a(t). See the lexicon entry."
     },
     {
       "token": "KU-DA",
@@ -12864,6 +12900,45 @@
       "note": "HT 126a, SI-DI-JA 1 in a damaged list. Ugaritic PN śdy (šmbʿl bn śdy, BAH 214, 7, o 14) and syllabic {m}ša-di-ia (RS 15.0173, r. 2′), the first vowel differing. Rival: the Semitic field root √ś-d-y."
     },
     {
+      "token": "SI-DI-*301",
+      "normalized": "sidi301",
+      "type": "toponym",
+      "type_confidence": "SPECULATIVE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "SPECULATIVE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "SI-DI-*301",
+      "reading": "Ṣidna",
+      "meaning": "Sidon (place name); rival Ṣīd-nā 'our Ṣid'",
+      "frequency": 1,
+      "attestations": [
+        "KNZf13"
+      ],
+      "sites": [
+        "Knossos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Metal object": 1
+      },
+      "position_summary": {
+        "follows": {
+          "word": 1
+        },
+        "heads_document": 0
+      },
+      "co_occurring_known": [
+        "A-RE-NE",
+        "A-JA-KU"
+      ],
+      "provenance": "manual",
+      "bucket": "onomastic",
+      "weak_cognates": [],
+      "note": "KN Zf 13, signs 4–6 of the gold ring's spiral, after A-RE-NE ʾarān: 'the coffin of Sidon'. DI a dead vowel, Ṣidn-a; the -a is Sidon's own spelling, ᵘʳᵘṢi₂-du-na (EA 144:5, 11; RGTC 12/2, 248); Ugaritic ṣdyn /Ṣidyān/ (DULAT 769). See the lexicon entry."
+    },
+    {
       "token": "SI-KI-NE",
       "normalized": "sikine",
       "type": "title",
@@ -12934,49 +13009,6 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "Name on the HT 55a list after ]KỊ-RỌ ·, each entry with 1 (GORILA I 107). Cf. Amorite ṣill- 'shade, protection' (Huffmon, APNM 257): Ṣillī-Baʿli (APNM 58), Ṣill-Haddu, Ṣillān (Gelb, AS 21); Hebrew ṣēl 'shade' and the name Ṣillāh (Gen 4:19); Ugaritic ẓl /ẓillu/ 'shade' (Huehnergard 2012). HT 90 SI-RU-MA-RI-TA₂, one word, fits the same 'Shade of DN' type."
-    },
-    {
-      "token": "SI-TU-RA₂-RE",
-      "normalized": "situra2re",
-      "type": "personal_name",
-      "type_confidence": "SPECULATIVE",
-      "affiliation": "unknown",
-      "language_family": null,
-      "affiliation_confidence": "SPECULATIVE",
-      "affiliation_evidence": "none",
-      "contact_ref": null,
-      "lexicon_ref": null,
-      "reading": null,
-      "meaning": null,
-      "frequency": 1,
-      "attestations": [
-        "HT3"
-      ],
-      "sites": [
-        "Haghia Triada"
-      ],
-      "cross_site": false,
-      "genre_supports": {
-        "Tablet": 1
-      },
-      "position_summary": {
-        "follows": {
-          "numeral": 1
-        },
-        "heads_document": 0
-      },
-      "co_occurring_known": [
-        {
-          "word": "KU-PA₃-NU",
-          "reading": "Kubānu",
-          "meaning": "devotee of Kubaba (Kubaba + -ān-), personal name or title; rival Ugaritic Gupana/Gupan",
-          "category": "personal_name"
-        }
-      ],
-      "provenance": "manual",
-      "bucket": "onomastic",
-      "weak_cognates": [],
-      "note": "HT 3 .5 SI-TU-RA₂-RE 5, RA₂ and RE dotted, against the left edge the drawing gives as preserved (GORILA I 6); the copie tabulaire and Younger print ] before SI. GORILA's alternative SI-TU-RI-RE is \"moins bon\" (GORILA I 7). No reading."
     },
     {
       "token": "SU-KI-RI-TA",
@@ -15799,7 +15831,7 @@
       "contact_ref": "ug_hg_0509",
       "lexicon_ref": "JE-TA-NA",
       "reading": "Yatana",
-      "meaning": "He gave (PN, qatal 3ms of √y-t-n 'to give')—straight theophoric truncation: Yatana-DN 'DN-gave,' same root as Hebrew Nāṯān, Ugaritic Yattin-Haddu, Amorite Yantin-Dagan, Yattin-Dagan (Gelb 1980, nos. 2986, 3555)",
+      "meaning": "he gave (personal name)",
       "frequency": 1,
       "attestations": [
         "HTWa1020"
@@ -15828,7 +15860,7 @@
       "affiliation_confidence": "SPECULATIVE",
       "affiliation_evidence": "lexicon_reading",
       "contact_ref": null,
-      "lexicon_ref": "RU-JA-TA-DI",
+      "lexicon_ref": "RU-JA",
       "reading": "Ruya",
       "meaning": "personal name; Ugaritic rwy",
       "frequency": 1,
@@ -15962,6 +15994,47 @@
       "bucket": "onomastic",
       "weak_cognates": [],
       "note": "HT 25a and ZA 8. ʾarīnīt 'She-of-the-Lion': feminine -īt on ari 'lion', as I-ZU-RI-NI-TA is 'She-of-the-Bull'. A cult title rests on -īt alone, which also forms relational adjectives and abstracts. Rival: a Hurrian name in ari- 'give'."
+    },
+    {
+      "token": "SI-MA",
+      "normalized": "sima",
+      "type": "personal_name",
+      "type_confidence": "CANDIDATE",
+      "affiliation": "semitic",
+      "language_family": "Semitic",
+      "affiliation_confidence": "CANDIDATE",
+      "affiliation_evidence": "lexicon_reading",
+      "contact_ref": null,
+      "lexicon_ref": "SI-MA",
+      "reading": "Šima",
+      "meaning": "šima 'name of' (common noun in construct); also the personal name Šima, Shem, 'Name, Renown'",
+      "frequency": 1,
+      "attestations": [
+        "PHZb4"
+      ],
+      "sites": [
+        "Phaistos"
+      ],
+      "cross_site": false,
+      "genre_supports": {
+        "Clay vessel": 1
+      },
+      "position_summary": {
+        "follows": {},
+        "heads_document": 1
+      },
+      "co_occurring_known": [
+        {
+          "word": "I-JA-TE",
+          "reading": "ʾiyyate",
+          "meaning": "island (genitive after SI-MA 'name of'; -i written with an E-series sign)",
+          "category": "toponym"
+        }
+      ],
+      "provenance": "manual",
+      "bucket": "ambiguous",
+      "weak_cognates": [],
+      "note": "PH Zb 4 SI-MA 𐄁 I-JA-TE, on a clay vessel: šima ʾiyyate 'name of the island', the common noun in construct. Or the name Šima, Shem, a person named on a commodity vessel as DI-NA-U on KN Zb 27; Amorite ŠU-MU-UM Šumum (Gelb 1980, no. 5941). See the lexicon entry."
     },
     {
       "token": "SI-RU-MA-RI-TA₂",
